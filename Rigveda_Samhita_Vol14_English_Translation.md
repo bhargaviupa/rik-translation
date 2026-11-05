@@ -25245,4 +25245,3066 @@ In this Ṛk a special meaning is indicated. Since Indra, unlike the deities suc
 
 ---
 
-**Progress note:** Done through printed p. 659 (PDF 682); the dispatcher's labels "printed 658/659/660" for PDF 680/681/682 are one too high, the headers read 657, 658, 659 (offset −23 holds). The numeral-file rows are again shifted by one page: the row "PDF 680" (4.100-3) belongs to PDF 681, and the rows "PDF 682" (Tai. Br. 1-4-1, 2 and 8-100-4) belong to the next page (PDF 683), not yet written. Sūkta 12: Ṛk 4's Viśeṣaviṣayagaḷu is finished (point 2 completed on p. 657 with the Śūdra/Dasyu discussion, point 3 on śvaghnī with Yāska's kitava, Nir. 5-22 read from the strip, finished at the top of p. 658). Ṛk 5 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is broken off after the second paragraph (⟦यं स्म पृच्छन्ति कुह सः इति घोरं⟧) at "… ಅವನೆಲ್ಲಿರುವನು ಎಂದು ಅನೇಕರು ಪ್ರಶ್ನೆಮಾಡುವರು. ಮತ್ತು," — to continue on printed p. 660 (PDF 683). Flags: FILE DISAGREE on the bhāṣya reference "८-१००-३" (file: 4.100-3; my reading 8 kept, [?]). Unzoomed: varga numeral 7, sūkta numeral 12, Ṛk number 5. [?] places: "अपश्यन्तो", "श्रदस्मै" (ā or ai), "मीञ्", "विश्वासमात्रं", "निर्धारण-", "स इन्द्रो नाहमिति", the first "स्वं" in Yāska's sentence (printed "ಸ्ಟಂ").
+### Printed p. 660 (PDF 683)
+
+*(Header: "660", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12". The dispatcher's labels are right this time; offset −23 holds. The Viśeṣaviṣayagaḷu of Ṛk 5 continues from p. 659, which ended "… And,".)*
+
+उत ईं आहुः न एषः अस्ति इति एनं (*uta īṃ āhuḥ na eṣaḥ asti iti enaṃ*)—Besides this, some say that this Indra does not exist at all. The ṛṣi describes here what ordinary people say: if a thing can be seen by the eye, many look at it and say "it exists". No one can believe, without proper grounds, that a thing invisible to the eye exists. This is the way of the world (printed "ಲೋಕಸ್ವಧಾವ", probably *lokasvabhāva* [?]) and it has a reason. For—
+
+*Gist (from the Kannada that follows): with the mouth and the mind one can speak or think what is false, but what the eye sees is true.*
+
+> अनृतं वै वाचा वदति । अनृतं मनसा ध्यायति । चक्षुर्वै सत्यं । अद्रागित्याह । अदर्शमिति । तत्सत्यं ॥
+
+> *anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣurvai satyaṃ | adrāgityāha | adarśamiti | tatsatyaṃ ‖*
+
+*(Printed "ಅದ್ರಾಗಿತ್ಯಾಹ", read अद्रागित्याह as printed [?]. Reference printed after it: तै. ब्रा. (*tai. brā.*) 1-4-1, 2 — the numeral file agrees; not zoomed.)*
+
+With the mouth one can speak falsehood. In the mind also one can think falsehood. But whatever is seen with the eye is truth. When one says "I have seen this thing", since there is a Śruti sentence that the thing seen is indeed real, how can one believe that Indra, who is invisible to the eye, exists? Since he is not visible to the eye, people argue that this Indra does not exist at all. In this matter Sāyaṇa—
+
+*Gist: Sāyaṇa quotes a Ṛk in which the doubter says there is no Indra and asks who has seen him and whom one should praise.*
+
+> नेन्द्रो अस्तीति नेम उ त्व आह क ईं ददर्श कमभि ष्टवाम
+
+> *nendro astīti nema u tva āha ka īṃ dadarśa kamabhi ṣṭavāma*
+
+*(Reference printed after it: ऋ. सं. (*ṛ. saṃ.*) 8-100-3 — read from the strip; the numeral file has no row for it; not zoomed.)*
+
+*Gist: Indra's reply, in the next Ṛk: "Here I am, O praiser; look; by my great might I overcome all beings."*
+
+> अयमस्मि जरितः पश्य मेह विश्वा जातान्यभ्यस्मि मह्ना ।
+
+> *ayamasmi jaritaḥ paśya meha viśvā jātānyabhyasmi mahnā |*
+
+*(Reference printed after it: ऋ. सं. (*ṛ. saṃ.*) 8-100-4 — the numeral file agrees; not zoomed.)*
+
+—he has quoted a Ṛk with this same sense. In this Ṛk Nema says: "There is no Indra. Who has seen him? Whom shall we praise?" When he asks this, Indra, in the next Ṛk, answers: "O praiser, look here. I (Indra) am right here. By my great strength and valour I shall overcome all beings." *(Printed "ಹೇಳಿದಾನೆ".)*
+
+In the present Ṛk also, to remove the doubt of those who argue that Indra does not exist, the ṛṣi Gṛtsamada recites the second half of this Ṛk and removes the doubt.
+
+*Gist: in the second half the ṛṣi says that Indra harms the enemy's wealth like a disturber, so one should have faith in him although he is not seen.*
+
+> सः अर्यः पुष्टीः विजइव आ मिनाति श्रत् अस्मै धत्त—ईमिति पूरणः । स इन्द्रो विजइव । इवशब्द एवार्थे । उद्वेजक एव सन् अर्योऽरेः सम्बन्धीनि पुष्टीः पोषकाणि गवाश्वादीनि धनान्यामिनाति । सर्वतो हिनस्ति । तस्मात् श्रदस्मै इन्द्राय धत्त । स इन्द्रोऽस्तीति विश्वासमत्र कुरुत । यद्यप्यसौ विशेषतोऽस्माभिर्न दृश्यते तथापि अस्तीति विश्वासं कुरुत ॥
+
+> *saḥ aryaḥ puṣṭīḥ vijaiva ā mināti śrat asmai dhatta—īmiti pūraṇaḥ | sa indro vijaiva | ivaśabda evārthe | udvejaka eva san aryo 'reḥ sambandhīni puṣṭīḥ poṣakāṇi gavāśvādīni dhanānyāmināti | sarvato hinasti | tasmāt śradasmai indrāya dhatta | sa indro 'stīti viśvāsamatra kuruta | yadyapyasau viśeṣato 'smābhirna dṛśyate tathāpi astīti viśvāsaṃ kuruta ‖*
+
+*(Doubtful places: "श्रदस्मै" (printed with a sign that may be ā or ai) [?]; "विश्वासमत्र कुरुत" — this printing reads *matra*/*mātra* unclear, I read "मत्र", and the ending "कुरुत" not "कुरुते"; the earlier reading on p. 658 "विश्वासमात्रं कुरुते" was marked [?], and this clearer printing may correct it. The same bhāṣya passage was written on p. 658.)*
+
+In this sentence the word ईं (*īṃ*) is used to fill the verse-foot, and in विजइव (*vijaiva*) the word इव (*iva*) is used in the sense of एव (*eva*). Therefore the sentence means: Indra attacks the enemies and takes by force their wealth and other things, their cows, horses and the like. Therefore, O men, place faith (trust) in Indra, that is, have confidence that Indra exists. For although Indra is not visible to our eyes, since the daring deeds he performs come within our sight, have faith (trust) that he exists: thus the ṛṣi has addressed the people.
+
+---
+
+### Printed p. 661 (PDF 684)
+
+*(Header: "A. 2 A. 6. V. 8 ]", "Ṛgvedasaṃhitā", "661". The varga numeral 8 and the Ṛk number 6 are not zoomed. A short rule is printed after the Viśeṣaviṣayagaḷu of Ṛk 5.)*
+
+#### Ṛk 6
+
+*(Small caption "Saṃhitāpāṭha".)*
+
+**॥ संहितापाठः ॥**
+
+> यो र॒ध्रस्य॑ चोदि॒ता यः कृ॒शस्य॒ यो ब्र॒ह्मणो॒ नाध॑मानस्य
+> की॒रेः ।
+> यु॒क्तग्रा॑व्णो॒ योऽवि॒ता सु॑शि॒प्रः सु॒तसो॑मस्य॒ स ज॑नास॒
+> इन्द्रः॑ ॥ ६ ॥
+
+> *yo radhrasya coditā yaḥ kṛśasya yo brahmaṇo nādhamānasya*
+> *kīreḥ |*
+> *yuktagrāvṇo yo 'vitā suśipraḥ sutasomasya sa janāsa*
+> *indraḥ ‖ 6 ‖*
+
+*(Accent marks not reproduced.)*
+
+**॥ पदपाठः ॥**
+
+> यः । रध्रस्य । चोदिता । यः । कृशस्य । यः । ब्रह्मणः । नाधमानस्य । कीरेः ।
+> युक्तऽग्राव्णः । यः । अविता । सुऽशिप्रः । सुतऽसोमस्य । सः । जनासः । इन्द्रः ॥
+
+> *yaḥ | radhrasya | coditā | yaḥ | kṛśasya | yaḥ | brahmaṇaḥ | nādhamānasya | kīreḥ |*
+> *yukta 'grāvṇaḥ | yaḥ | avitā | su 'śipraḥ | suta 'somasya | saḥ | janāsaḥ | indraḥ ‖*
+
+*(The small compound mark is printed in युक्तऽग्राव्णः, सुऽशिप्रः, सुतऽसोमस्य; read by eye from the strip, not zoomed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: the one who urges wealth to the prosperous, the poor, the begging and the praising priest, and protects the sacrificer who has pressed Soma, is Indra; "brahman" here means the praiser, not food (accent).*
+
+> यो रध्रस्य ॥ रध हिंसासंराद्ध्योः ॥ समृद्धस्य चोदिता धनानां प्रेरयिता भवति । यश्च कृशस्य च दरिद्रस्य च यश्च नाधमानस्य ॥ नाधृ ञाधृ याच्ञोपतापैश्वर्याशीःषु ॥ याचमानस्य कीरेः ॥ करोतेः कीर्तयतेर्वा ॥ स्तोतुर्ब्रह्मणो ब्राह्मणस्य च धनानां प्रेरयिता । यश्च सुशिप्रः शोभनहनुः सुशीर्षको वा सन् युक्तग्राव्णोऽभिषवार्थमुद्यतग्राव्णः सुतसोमस्याभिषुतसोमस्य यजमानस्याविता रक्षिता भवति स एवेन्द्रो नाहमिति । ब्रह्मशब्दस्य त्वन्नपरत्वे ह्याद्युदात्तता स्यात् यथा ब्रह्मवन्वानो अजरं सुवीरं । ३-८-२ । इति । अयं त्वंतोदात्तः पद्यते इति नान्नपरः ॥
+
+> *yo radhrasya ‖ radha hiṃsāsaṃrāddhyoḥ ‖ samṛddhasya coditā dhanānāṃ prerayitā bhavati | yaśca kṛśasya ca daridrasya ca yaśca nādhamānasya ‖ nādhṛ ñādhṛ yācñopatāpaiśvaryāśīḥṣu ‖ yācamānasya kīreḥ ‖ karoteḥ kīrtayatervā ‖ stoturbrahmaṇo brāhmaṇasya ca dhanānāṃ prerayitā | yaśca suśipraḥ śobhanahanuḥ suśīrṣako vā san yuktagrāvṇo 'bhiṣavārthamudyatagrāvṇaḥ sutasomasyābhiṣutasomasya yajamānasyāvitā rakṣitā bhavati sa evendro nāhamiti | brahmaśabdasya tvannaparatve hyādyudāttatā syāt yathā brahmavanvāno ajaraṃ suvīraṃ | 3-8-2 | iti | ayaṃ tvaṃtodāttaḥ padyate iti nānnaparaḥ ‖*
+
+*(Doubtful, unzoomed: the quoted words "ब्रह्मवन्वानो अजरं सुवीरं" and the final sentence "अयं त्वंतोदात्तः पद्यते इति नान्नपरः"; "नाहमिति" as printed. The reference "३-८-२" is that of the numeral file; it agrees with the strip as I see it; not zoomed. Grammatical tail, only characterized: on रध्रस्य (*radhrasya*) the root रध (*radha*) "to injure, to prosper"; on नाधमानस्य (*nādhamānasya*) the roots नाधृ and ञाधृ "to beg, to trouble, to be lord, to bless"; on कीरेः (*kīreḥ*) a derivation from the root कृ or कीर्तय "to praise"; then the accent argument given above. No sūtra numbers printed.)*
+
+---
+
+### Printed p. 662 (PDF 685)
+
+*(Header: "662", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. रध्रस्य (*radhrasya*)—even to the rich man. चोदिता (*coditā*)—provides (wealth). यः (*yaḥ*)—who. कृशस्य (*kṛśasya*)—to the poor man (provides). यः (*yaḥ*)—who. नाधमानस्य (*nādhamānasya*)—to the one who begs. कीरेः (*kīreḥ*)—who praises. ब्रह्मणः (*brahmaṇaḥ*)—to the ṛtvij also (provides) wealth. यः (*yaḥ*)—who. सुशिप्रः (*suśipraḥ*)—having excellent cheeks. युक्तग्राव्णः (*yuktagrāvṇaḥ*)—holding in the hand the stone that presses the Soma juice. सुतसोमस्य (*sutasomasya*)—and having pressed the Soma juice, of the sacrificer. अविता (*avitā*)—who is the protector. सः (*saḥ*)—he alone. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who provides wealth in one and the same way to the rich, to the poor, to the one who begs, and to the ṛtvij who praises him; who, having excellent cheeks, is the protector of the sacrificer who holds in his hand the stone that presses the juice and has pressed the Soma juice: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, who is the encourager of the rich, and of the poor, and of the priest, who recites his praise, and is a suppliant ; who, of goodly features, is the protector of him, who, with ready stones, expresses the Soma juice ; he, men, is Indra.
+
+*(Printed "he’ / men" at the line break, a stray mark after "he"; the text is as above.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 6)*
+
+यो रध्रस्य चोदिता (*yo radhrasya coditā*)—रध हिंसासंराद्ध्योः । समृद्धस्य चोदिता (*radha hiṃsāsaṃrāddhyoḥ | samṛddhasya coditā*)—The root रध (*radha*) is used in two senses, injury and prosperity. Taking here the sense of prosperity, they explain the word रध्रस्य (*radhrasya*) as "of a man who is prosperous through wealth and the like". Therefore रध्रस्य चोदिता (*radhrasya coditā*) here means: one who provides wealth and other things to a man who is already well off, having wealth and the like, that is, one who gives wealth and the like.
+
+यः कृशस्य यः ब्रह्मणः नाधमानस्य कीरेः ब्रह्मणः (*yaḥ kṛśasya yaḥ brahmaṇaḥ nādhamānasya kīreḥ brahmaṇaḥ*)—As said above, it is not that Indra helps with wealth and the like only the man of wealth and neglects others. It is said in this sentence that he looks on all in one and the same way. Accordingly कृशस्य (*kṛśasya*)—to the poor man, who is without proper food and the like, or lacks nourishment through want of means; नाधमानस्य (*nādhamānasya*)—to the one who begs, that is, who is destitute and lives by begging; कीरेः ब्रह्मणः (*kīreḥ brahmaṇaḥ*)—to the Brāhmaṇa who praises, or to the ṛtvij called Brahman: to all these Indra, without partiality, in one and the same way *(the sentence runs over to the next page: "ಒಂದೇ ಸಮನಾಗಿ")*
+
+---
+
+### Printed p. 663 (PDF 686)
+
+*(Header: "A. 2 A. 6. V. 8 ]", "Ṛgvedasaṃhitā", "663". The Viśeṣaviṣayagaḷu of Ṛk 6 continues from p. 662, which ended "… Indra, without partiality, in one and the same way". The varga numeral 8 and the Ṛk number 7 are not zoomed.)*
+
+… gives wealth and the like: this is the sense. Yāska has given for the word नाधमानाः (*nādhamānāḥ*) the explanation याचमानाः (*yācamānāḥ*) ("those who beg"), reference Nirukta 4-2 (as printed; the numeral file agrees). He has also read the word कीरि (*kīri*) among the names of the praiser (stotṛ), reference Nirukta 3-19 (the numeral file agrees).
+
+*Bhāṣya words quoted in the Kannada (the Sanskrit is the bhāṣya already given above):*
+
+> युक्तग्राव्णो योऽविता सुशिप्रः सुतसोमस्य—यश्च सुशिप्रः शोभनहनुः सुशीर्षको वा सन् युक्तग्राव्णोऽभिषवार्थमुद्यतग्राव्णः सुतसोमस्याभिषुतसोमस्य यजमानस्याविता रक्षिता भवति—
+
+> *yuktagrāvṇo yo 'vitā suśipraḥ sutasomasya—yaśca suśipraḥ śobhanahanuḥ suśīrṣako vā san yuktagrāvṇo 'bhiṣavārthamudyatagrāvṇaḥ sutasomasyābhiṣutasomasya yajamānasyāvitā rakṣitā bhavati—*
+
+Here ग्राव्णः (*grāvṇaḥ*) is the genitive singular of the word ग्रावन् (*grāvan*). Yāska has given for the word ग्रावाणः (*grāvāṇaḥ*) the explanation:
+
+> ग्रावाणो हन्तेर्वा गृह्णातेर्वा
+
+> *grāvāṇo hantervā gṛhṇātervā*
+
+*(Reference printed: नि. (*ni.*) 9-8; the numeral file agrees.)* That is: this (the stone) is called ग्रावाणः (*grāvāṇaḥ*) because it is taken in the hand for pounding, that is, for crushing, the Soma plant, or—as the second explanation:
+
+> गृहातेर्वा—स्तूयन्तेर्वा
+
+> *gṛhātervā—stūyantervā*
+
+*(Printed so, as I read it: "ಗೃಹಾತೇರ್ವಾ—ಸ್ತೂಯಂತೇರ್ವಾ" [?]; unzoomed. It is the second explanation, with the sense "because it is praised", as the Kannada says.)* Because it is praised, it is called ग्रावाणः (*grāvāṇaḥ*): thus they have given the meaning. Here युक्तग्राव्णः (*yuktagrāvṇaḥ*) means: standing ready, holding in the hands the stones called ग्रावाणः (*grāvāṇaḥ*) that are needed for the work of grinding the Soma plants to draw out the juice.
+
+सुशिप्रः (*suśipraḥ*)—one who has excellent cheeks (printed "ಕೆನ್ನೆ"), or one with a fine head: that is, Indra of beautiful form.
+
+सुतसोमस्य (*sutasomasya*)—of the sacrificer who waits, having prepared the Soma juice for offering to Indra.
+
+The meaning of the sentence: Indra protects the sacrificer who holds in his hands the stones that grind the Soma plants, the instruments for preparing the Soma juice, and who waits, having prepared the Soma juice for offering to Indra.
+
+---
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> यस्याश्वा॑सः प्र॒दिशि॒ यस्य॒ गावो॒ यस्य॒ ग्रामा॒ यस्य॒ विश्वे॒ रथा॑सः ।
+> यः सूर्यं॒ य उ॒षसं॑ ज॒जान॒ यो अ॒पां ने॒ता स ज॑नास॒ इन्द्रः॑ ॥ ७ ॥
+
+> *yasyāśvāsaḥ pradiśi yasya gāvo yasya grāmā yasya viśve rathāsaḥ |*
+> *yaḥ sūryaṃ ya uṣasaṃ jajāna yo apāṃ netā sa janāsa indraḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> यस्य । अश्वासः । प्रऽदिशि । यस्य । गावः । यस्य । ग्रामाः । यस्य । विश्वे । रथासः ।
+> यः । सूर्यं । यः । उषसं । जजान । यः । अपां । नेता । सः । जनासः । इन्द्रः ॥ ७ ॥
+
+> *yasya | aśvāsaḥ | pra 'diśi | yasya | gāvaḥ | yasya | grāmāḥ | yasya | viśve | rathāsaḥ |*
+> *yaḥ | sūryaṃ | yaḥ | uṣasaṃ | jajāna | yaḥ | apāṃ | netā | saḥ | janāsaḥ | indraḥ ‖ 7 ‖*
+
+*(The compound mark in प्रऽदिशि is hard to see under the accent stroke, unzoomed [?].)*
+
+---
+
+### Printed p. 664 (PDF 687)
+
+*(Header: "664", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12"; the last digit of the sūkta numeral is partly cut at the edge.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: in whose rule horses, cows, villages and all chariots are, who created the sun and the dawn and sends the waters by splitting the cloud: he is Indra.*
+
+> यस्य सर्वान्तर्यामितया [?] वर्तमानस्य प्रदिशि प्रदेशने ऽनुशासने ऽश्वासो ऽश्वा वर्तन्ते । यस्यानुशासने गावः । यस्यानुशासने ग्रामाः । ग्रसन्ते ऽत्रेति ग्रामा जनपदाः । यस्याज्ञायां विश्वे सर्वे रथासो रथा वर्तन्ते । यश्च वृत्रं हत्वा सूर्यं जजान । जनयामास । यश्चोषसं । तथा मन्त्रः जजान सूर्यमुषसं सुदंसाः । ३-३२-८ । इति । यश्च मेघभेदनद्वारापां नेता प्रेरकः स इन्द्र इत्यादि प्रसिद्धं ॥
+
+> *yasya sarvāntaryāmitayā [?] vartamānasya pradiśi pradeśane 'nuśāsane 'śvāso 'śvā vartante | yasyānuśāsane gāvaḥ | yasyānuśāsane grāmāḥ | grasante 'treti grāmā janapadāḥ | yasyājñāyāṃ viśve sarve rathāso rathā vartante | yaśca vṛtraṃ hatvā sūryaṃ jajāna | janayāmāsa | yaścoṣasaṃ | tathā mantraḥ jajāna sūryamuṣasaṃ sudaṃsāḥ | 3-32-8 | iti | yaśca meghabhedanadvārāpāṃ netā prerakaḥ sa indra ityādi prasiddhaṃ ‖*
+
+*(Doubtful, unzoomed: the first word group "सर्वान्तर्यामितया" (the last syllable is printed with a sign that looks like ो; the Pratipadārtha has "सर्वान्तर्यामियादवन"). The reference "३-३२-८" agrees with the numeral file. No grammatical tail on this Ṛk.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O all people. यस्य (*yasya*)—of whichever one who is the inner controller of all. प्रदिशि (*pradiśi*)—in the command. अश्वासः (*aśvāsaḥ*)—horses are. यस्य (*yasya*)—in whose command. गावः (*gāvaḥ*)—cows are. यस्य (*yasya*)—in whose regulation. ग्रामाः (*grāmāḥ*)—villages are. यस्य (*yasya*)—in whose regulation. विश्वे रथासः (*viśve rathāsaḥ*)—all chariots are (and). यः (*yaḥ*)—who (having slain Vṛtra). सूर्यं (*sūryaṃ*)—the sun. जजान (*jajāna*)—created (and). यः (*yaḥ*)—who. उषसं (*uṣasaṃ*)—the dawn. created. यः (*yaḥ*)—who (having split the cloud). अपां (*apāṃ*)—to the waters. नेता (*netā*)—is the impeller. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O all people, he under whose command are the horses, the cows, the villages and all the chariots; who, having slain Vṛtra, created the sun and the dawn; who, having split the cloud, is the impeller of the waters: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, under whose control are horses and cattle, and villages, and all chariots : he who gave birth to the sun and to the dawn : and who is the leader of the waters : he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 7)*
+
+प्रदिशि (*pradiśi*)—प्रदेशने अनुशासने (*pradeśane anuśāsane*). In the command, within the order (Under his control): the meaning is, within Indra's order, or subject to his rule.
+
+ग्रामाः (*grāmāḥ*)—ग्रसन्ते ऽत्रेति ग्रामा जनपदाः (*grasante 'treti grāmā janapadāḥ*). Sāyaṇa has explained the word ग्रामः (*grāmaḥ*) as जनपद (*janapada*) or जनाङ्ग (*janāṅga*), that is, the people of one nation (rāṣṭra); one may also say it means the villages in which people live, the cities and other dwelling places.
+
+---
+
+### Printed p. 665 (PDF 688)
+
+*(Header: "A. 2 A. 6. V. 8 ]", "Ṛgvedasaṃhitā", "665".)*
+
+अश्वासः गावः ग्रामाः रथासः (*aśvāsaḥ gāvaḥ grāmāḥ rathāsaḥ*)—horses, cows, villages and chariots: it must not be understood that only these four kinds are under Indra's rule and not other things. Since it is not possible to say all the things in the world one by one, only a few are mentioned here. Therefore one must understand that all beings and things in the world are subject to Indra's command.
+
+रथासः (*rathāsaḥ*)—For the word रथ (*ratha*) Yāska in his Nirukta has given the explanation:
+
+> रथो रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा रपतेर्वा रसतेर्वा
+
+> *ratho raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā rapatervā rasatervā*
+
+*(Reference printed: नि. (*ni.*) 9-11; the numeral file agrees.)* That is, the word रथ (*ratha*) may be formed from the root रंह् (*raṃh*), which denotes motion, or from the root स्थिरति (*sthirati*) (*sthirati*) with the sense "be steady" (here the first two letters of the root स्थिरति (*sthirati*) must be turned back to front, as the Kannada says). It is called a chariot because it is always going about. Or the warrior sitting in it is steady: that is, when one sits on horses and other vehicles the body shakes, but when one sits in a chariot one can sit firmly without shaking: therefore it is called a chariot. Or, because one sits in this chariot and roams about, it is called a chariot: thus they have set out the component meanings. *(The Kannada sentence is printed with misplaced brackets at the line break; the sense is as given.)*
+
+यः सूर्यं यः उषसं जजान (*yaḥ sūryaṃ yaḥ uṣasaṃ jajāna*)—Indra produced the Sun and the goddess Uṣas. In this matter—
+
+> इन्द्रस्य कर्म सुकृता पुरूणि व्रतानि देवा न मिनन्ति विश्वे ।
+> दाधार यः पृथिवीं द्यामुतेमां जजान सूर्यमुषसं सुदंसाः ॥
+
+> *indrasya karma sukṛtā purūṇi vratāni devā na minanti viśve |*
+> *dādhāra yaḥ pṛthivīṃ dyāmutemāṃ jajāna sūryamuṣasaṃ sudaṃsāḥ ‖*
+
+*(Reference printed: ऋ. सं. (*ṛ. saṃ.*) 3-32-8; the numeral file agrees. Read "पुरूणि" with ण as printed; unzoomed.)* In this Ṛk it is said that Indra, the doer of excellent deeds, upholds the earth and heaven, and created the sun and Uṣas.
+
+यः अपां नेता (*yaḥ apāṃ netā*)—यश्च मेघभेदनद्वारापां नेता प्रेरकः (*yaśca meghabhedanadvārāpāṃ netā prerakaḥ*). Indra strikes the clouds that are held back by Vṛtra in the atmosphere and makes the water flow; therefore Indra is said to be the impeller of the waters; that is, it is by Indra's impulsion that the clouds shed rain. The meaning is that the water reaches the earth through that rain.
+
+---
+
+#### Ṛk 8
+
+*(Small caption "Saṃhitāpāṭha", printed in tiny, blurred type.)*
+
+**॥ संहितापाठः ॥**
+
+> यं क्रन्द॑सी संय॒ती वि॒ह्वये॑ते॒ परेऽव॑र उ॒भया॑ अ॒मित्राः॑ ।
+> स॒मा॒नं चि॒द्रथ॑मातस्थि॒वांसा॒ नाना॑ हवेते॒ स ज॑नास॒ इन्द्रः॑ ॥ ८ ॥
+
+> *yaṃ krandasī saṃyatī vihvayete pare 'vara ubhayā amitrāḥ |*
+> *samānaṃ cidrathamātasthivāṃsā nānā havete sa janāsa indraḥ ‖ 8 ‖*
+
+*(Doubtful, unzoomed: the avagraha in "परेऽवर" (the print reads "परेवर" with a stroke I take as the sign). The Ṛk number printed is 8 as I read it, unzoomed.)*
+
+---
+
+### Printed p. 666 (PDF 689)
+
+*(Header: "666", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12"; the last digits of the sūkta numeral are unzoomed. Ṛk 8 continues from p. 665, where only its Saṃhitā was written.)*
+
+**॥ पदपाठः ॥**
+
+> यं । क्रन्दसी इति । संयती इति सम्ऽयती । विह्वयेते इति विऽह्वयेते । परे । अवरे । उभयाः । अमित्राः ।
+> समानं । चित् । रथं । आतस्थिवांसा । नाना । हवेते इति । सः । जनासः । इन्द्रः ॥ ८ ॥
+
+> *yaṃ | krandasī iti | saṃyatī iti sam 'yatī | vihvayete iti vi 'hvayete | pare | avare | ubhayāḥ | amitrāḥ |*
+> *samānaṃ | cit | rathaṃ | ātasthivāṃsā | nānā | havete iti | saḥ | janāsaḥ | indraḥ ‖ 8 ‖*
+
+*(In the Pada the small stroke between स्थि and वां of आतस्थिवांसा may be a compound mark; unzoomed [?]. The Pada gives परे । अवरे as two words, which fits the Saṃhitā's परेऽवरे.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Whom two armies, the high and the low enemies, and two charioteers in one chariot each call for help: he is Indra. Alternative: Indra and Agni.*
+
+> यं क्रन्दसी रोदसी शब्दं कुर्वाणे मानुषी देवी च द्वे सेने वा संयती परस्परं सङ्गच्छन्त्यौ यमिन्द्रं विह्वयेते । स्वरक्षार्थं विविधमाह्वयतः । पर उत्कृष्टा अवरेऽधमाश्चोभया उभयविधा उभयमाह्वयन्ति । समानमिन्द्ररथसदृशं रथमातस्थिवांसा आस्थितौ द्वा रथिनौ तमेवेन्द्रं नाना पृथक् पृथक् हवेते । अह्वयेते । यद्वा समानमेकरथमारूढाविन्द्राग्नी हवेते । यज्ञार्थं यजमानैः पृथगाहूयेते । तयोरन्यतरः स इन्द्रो नाहमिति ॥
+
+> *yaṃ krandasī rodasī śabdaṃ kurvāṇe mānuṣī devī ca dve sene vā saṃyatī parasparaṃ saṅgacchantyau yamindraṃ vihvayete | svarakṣārthaṃ vividhamāhvayataḥ | para utkṛṣṭā avare 'dhamāścobhayā ubhayavidhā ubhayamāhvayanti | samānamindrarathasadṛśaṃ rathamātasthivāṃsā āsthitau dvā rathinau tamevendraṃ nānā pṛthak pṛthak havete | ahvayete | yadvā samānamekarathamārūḍhāvindrāgnī havete | yajñārthaṃ yajamānaiḥ pṛthagāhūyete | tayoranyataraḥ sa indro nāhamiti ‖*
+
+*(Doubtful: the closing words "स इन्द्रो नाहमिति" are read as printed; the sense of "नाहम्" there is not clear to me [?]. "द्वा रथिनौ" is as printed. No grammatical tail on this Ṛk.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यं (*yaṃ*)—whom. क्रन्दसी (*krandasī*)—both heaven and earth, or the divine army and the human army, making sound, together. संयती (*saṃyatī*)—coming together. विह्वयेते (*vihvayete*)—call for protection. परे (*pare*)—the superior ones. अवरे (*avare*)—the inferior ones. उभयोः (*ubhayoḥ*, as printed)—both these kinds. अमित्राः (*amitrāḥ*)—enemies also call. समानं चित् (*samānaṃ cit*)—similar to Indra's chariot. रथं (*rathaṃ*)—the chariot. आतस्थिवांसा (*ātasthivāṃsā*)—the two charioteers who have mounted. नाना हवेते (*nānā havete*)—call each separately. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he whom the divine army and the human army, calling out together, call for protection; whom the enemies, both the superior and the inferior, also call; and whom the two charioteers who have mounted a chariot like Indra's chariot call separately for protection: he is Indra.
+
+**English Translation** *(as printed)*
+
+Whom (two hosts), calling and mutually encountering, call upon; whom both adversaries, high and low, (appeal to); whom two (charioteers), standing in the same car, severally invoke; he, men, is Indra.
+
+---
+
+### Printed p. 667 (PDF 690)
+
+*(Header: "A. 2 A. 6 V. 8 ]", "Ṛgvedasaṃhitā", "667". The numeral file gives 2 and 6; the varga numeral 8 is read from the print, unzoomed.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 8)*
+
+The meaning of this Ṛk is somewhat awkward (the Kannada says *toḍaku*, "tangled"); or the meaning that Sāyaṇa has set out is not quite fitting. As Sāyaṇa explains: "O people, he whom the divine army and the human army, calling out together, call for protection; whom the enemies, both the superior and the inferior, call; and whom two charioteers who have mounted a chariot like Indra's chariot call separately for protection: he is Indra": this is the main meaning of the Ṛk.
+
+Another kind of meaning is also possible. Namely: when two armies join together in the battlefield and fight, both armies call upon Indra alone for protection. That is, Indra is not a partisan of one man or of one army. Of the armies of the two enemies, one may be superior, or larger in number, or stronger; the other may be smaller (*kaniṣṭha*), or of little strength. Yet since the men of both armies call Indra, wishing him to be their protector, it becomes clear that Indra is needed by both and is not a partisan of either. Though the men of the two armies are enemies to each other, Indra is needed by both; therefore both call him: this may be the intention of the ṛṣi. And in the second half of the Ṛk also it is said that two warriors, seated in a chariot and fighting, call Indra alone, who has equal affection for the two of them.
+
+Here the commentator has explained the words समानं चित् (*samānaṃ cit*) as इन्द्रसदृशं रथमातस्थिवांसा (*indrasadṛśaṃ rathamātasthivāṃsā*) ("two who have mounted a chariot like Indra's chariot"), meaning a chariot equal to Indra's chariot; but the words समानं चित् (*samānaṃ cit*) can be explained as "Indra alone, who has equal affection (for both)". It seems right to explain them so.
+
+In this explanation of the Ṛk by Sāyaṇa some defects are seen. For the words क्रन्दसी संयती (*krandasī saṃyatī*), the explanation रोदसी शब्दं कुर्वाणे (*rodasī śabdaṃ kurvāṇe*) is given: heaven and earth, making sound, call Indra for protection. If that is said, is there mutual hatred between heaven and earth? If so, did they begin fighting, making noise, and seek Indra's help for protection? Such doubts arise. Therefore this kind of explanation does not hold. Or, according to the other meaning the commentator has given, मानुषी देवी च द्वे सेने वा (*mānuṣī devī ca dve sene vā*), that is, the two armies, the human army and the divine army: in this meaning too, how did hatred arise between men and gods? If by "men" is meant asuras, it is well known that gods and asuras are mutual enemies, and that they fight is natural; but since the asuras are enemies of Indra, they do not seek Indra's help or protection. So this meaning too does not fit well. Besides, there is no need at all to supply (*adhyāhāra*), as Sāyaṇa says, the word रोदसी (*rodasī*) (heaven and earth) in this Ṛk, because उभयाः अमित्राः (*ubhayāḥ amitrāḥ*) means "two enemy parties, hostile to each other,"
+
+---
+
+### Printed p. 668 (PDF 691)
+
+*(Header: "668", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12"; the end of the sūkta numeral is unzoomed.)*
+
+… as is said clearly in the Ṛk itself. For the words परे अवरे (*pare avare*) one may explain "one large army and another small army". To say that the word समानं (*samānaṃ*) means "chariot" is also not right; it must be explained as Indra. If it is done so, the meaning of the Ṛk becomes clear, and there is no tangle of any kind. Therefore for this Ṛk—
+
+"O people, he whom two enemy parties, having come together for battle, call for protection, and whom two warriors seated facing each other in a chariot, eager for battle, call separately, each for protection, Indra alone: he is Indra": this can be given as the main meaning.
+
+---
+
+#### Ṛk 9
+
+*(Small captions "Saṃhitāpāṭha" and "Padapāṭha" printed above the Saṃhitā and Pada.)*
+
+**॥ संहितापाठः ॥**
+
+> यस्मा॒न्न ऋ॒ते वि॒जय॑न्ते॒ जना॑सो॒ यं युध्य॑माना॒ अव॑से॒ हव॑न्ते ।
+> यो विश्व॑स्य प्रति॒मानं॑ ब॒भूव॒ यो अ॑च्युत॒च्युत्स ज॑नास॒ इन्द्रः॑ ॥
+
+> *yasmānna ṛte vijayante janāso yaṃ yudhyamānā avase havante |*
+> *yo viśvasya pratimānaṃ babhūva yo acyutacyutsa janāsa indraḥ ‖*
+
+*(The Ṛk number is not printed at the end of the Saṃhitā; the Pada ends with "॥ 9 ॥" as read, unzoomed.)*
+
+**॥ पदपाठः ॥**
+
+> यस्मात् । न । ऋते । विऽजयन्ते । जनासः । यं । युध्यमानाः । अवसे । हवन्ते ।
+> यः । विश्वस्य । प्रतिऽमानं । बभूव । यः । अच्युतऽच्युत् । सः । जनासः । इन्द्रः ॥ ९ ॥
+
+> *yasmāt | na | ṛte | vi 'jayante | janāsaḥ | yaṃ | yudhyamānāḥ | avase | havante |*
+> *yaḥ | viśvasya | prati 'mānaṃ | babhūva | yaḥ | acyuta 'cyut | saḥ | janāsaḥ | indraḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Without whom people do not win; fighters call him for protection; who became the counterpart of the whole world and the shaker of the unshaken mountains: he is Indra.*
+
+> यस्मादृते जनासो जना न विजयन्ते । विजयं न प्राप्नुवन्ति । अतो युध्यमाना युद्धं कुर्वाणा जना अवसे स्वरक्षणाय यमिन्द्रं हवन्ते । आह्वयन्ति । यश्च विश्वस्य सर्वस्य जगतः प्रतिमानं प्रतिनिधिर्बभूव । यश्चाच्युतच्युत् अच्युतानां क्षयरहितानां पर्वतादीनां च्यावयिता स इन्द्र इत्यादि प्रसिद्धं ॥
+
+> *yasmādṛte janāso janā na vijayante | vijayaṃ na prāpnuvanti | ato yudhyamānā yuddhaṃ kurvāṇā janā avase svarakṣaṇāya yamindraṃ havante | āhvayanti | yaśca viśvasya sarvasya jagataḥ pratimānaṃ pratinidhirbabhūva | yaścācyutacyut acyutānāṃ kṣayarahitānāṃ parvatādīnāṃ cyāvayitā sa indra ityādi prasiddhaṃ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यस्मात् ऋते (*yasmāt ṛte*)—without whom. जनासः (*janāsaḥ*)—people. न विजयन्ते (*na vijayante*)—cannot obtain victory (and therefore). यं (*yaṃ*)—whom. युध्यमानाः (*yudhyamānāḥ*)—those engaged in battle. अवसे (*avase*)—for protection. हवन्ते (*havante*)—call. यः (*yaḥ*)— *(the Pratipadārtha breaks off here at the foot of p. 668 and continues on p. 669; Ṛk 9 is left open)*
+
+---
+
+### Printed p. 669 (PDF 692)
+
+*(Header: "A. 2 A. 6 V. 8 ]", "Ṛgvedasaṃhitā", "669". The header has no row in the numeral file; the numerals are read from the strip, unzoomed. Ṛk 9 continues from p. 668.)*
+
+**प्रतिपदार्थ (Pratipadārtha)** *(Ṛk 9, continued)*
+
+यः (*yaḥ*)—who. विश्वस्य (*viśvasya*)—of the whole world. प्रतिमानं (*pratimānaṃ*)—as the representative (*pratinidhi*). बभूव (*babhūva*)—has become (and). यः (*yaḥ*)—who. अच्युतच्युत् (*acyutacyut*)—made unmoved mountains and the like move. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, without whom people cannot win victory, and therefore those engaged in battle call him for protection; he who has become the representative of the whole world, and who made the unmoved mountains and the like move: he said "Indra" *(the printed Kannada ends "ಇಂದನು", a misprint for "ಇಂದ್ರನು" [sic]; the sense is "he is Indra")*.
+
+**English Translation** *(as printed)*
+
+Without whom men do not conquer; whom, when engaged in conflict, they invoke for succour; he, who is the prototype of the universe and the caster down of the unyielding; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 9)*
+
+अच्युतच्युत्—अच्युतानां क्षयरहितानां पर्वतादीनां च्यावयिता (*acyutacyut—acyutānāṃ kṣayarahitānāṃ parvatādīnāṃ cyāvayitā*) (the word is explained as "the shaker of the unshaken, undecaying mountains and the like"; the Kannada continues across the page break): the commentator's explanation is that he has the power to make move the mountains and the like that are imperishable or do not move. What the correct meaning of this word is, is not clear. The ṛṣi's intention is to describe that Indra does work that cannot be done by ordinary people. Therefore, whatever is reckoned to be an object that is never destroyed, even that Indra is able to destroy by his extraordinary power: this is the main intention.
+
+---
+
+#### Ṛk 10
+
+*(Small captions "Saṃhitāpāṭha" and "Padapāṭha" printed. Accent marks of the Saṃhitā and Pada are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यः शश्व॑तो॒ मह्येनो॒ दधा॑ना॒नम॑न्यमाना॒ञ्छर्वा॑ ज॒घान॑ ।
+> यः शर्ध॑ते॒ नानु॒ददा॑ति शृ॒ध्यां यो दस्यो॑र्ह॒न्ता स ज॑नास॒ इन्द्रः॑ ॥ १० ॥
+
+> *yaḥ śaśvato mahyeno dadhānānamanyamānāñcharvā jaghāna |*
+> *yaḥ śardhate nānudadāti śṛdhyāṃ yo dasyorhantā sa janāsa indraḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+*(The Pada begins at the foot of p. 669 and ends on p. 670.)*
+
+> यः । शश्वतः । महि । एनः । दधानान् । अमन्यमानान् । शर्वा । जघान ।
+
+> *yaḥ | śaśvataḥ | mahi | enaḥ | dadhānān | amanyamānān | śarvā | jaghāna |*
+
+---
+
+### Printed p. 670 (PDF 693)
+
+*(Header: "670", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12". The Pada of Ṛk 10 continues.)*
+
+> यः । शर्धते । न । अनुऽददाति । शृध्यां । यः । दस्योः । हन्ता । सः । जनासः । इन्द्रः ॥ १० ॥
+
+> *yaḥ | śardhate | na | anu 'dadāti | śṛdhyāṃ | yaḥ | dasyoḥ | hantā | saḥ | janāsaḥ | indraḥ ‖ 10 ‖*
+
+*(The word-division in अनुऽददाति is printed with an odd small mark that I read as the compound sign (ऽ); [?].)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra struck with the vajra the many sinful, arrogant men who do not know the self or worship him; he gives no help to the arrogant; he is the slayer of the destroying enemy.*
+
+> यो मह्येनो महदेनः पापं दधानान् शश्वतो बहूनमन्यमानान् आत्मानमजानत इन्द्रमपूजयतो वा जनान् शर्वा । शृणाति शत्रूननेनेति शरुर्वज्रः । तेनायुधेन जघान ॥ हन्तेर्लिटि रूपं ॥ यश्च शर्धत उत्साहं कुर्वतेऽनात्मज्ञाय जनाय शृध्यामुत्साहनीयं कर्म नानुददाति । न प्रयुच्छति ॥ अनुपूर्वात् डुदाञ् दाने जौहोत्यादिकः । अभ्यस्तानामादिरिति तिङः चोदात्तावतीति गतेर्निघातः ॥ यश्च दस्योरुपक्षपयितुः शत्रोर्हन्ता घातकः स इन्द्र इत्यादि पूर्ववत् ॥
+
+> *yo mahyeno mahadenaḥ pāpaṃ dadhānān śaśvato bahūnamanyamānān ātmānamajānata indramapūjayato vā janān śarvā | śṛṇāti śatrūnaneneti śarurvajraḥ | tenāyudhena jaghāna ‖ hanterliṭi rūpaṃ ‖ yaśca śardhata utsāhaṃ kurvate 'nātmajñāya janāya śṛdhyāmutsāhanīyaṃ karma nānudadāti | na prayucchati ‖ anupūrvāt ḍudāñ dāne jauhotyādikaḥ | abhyastānāmādiriti tiṅaḥ codāttāvatīti gaternighātaḥ ‖ yaśca dasyorupakṣapayituḥ śatrorhantā ghātakaḥ sa indra ityādi pūrvavat ‖*
+
+*(Doubtful: "प्रयुच्छति" is read letter by letter as printed; "चोदात्तावती" in the grammatical tail is as printed [?]. The tail on अनु-√दा (the *abhyastānām ādiḥ* rule and the *nighāta* of the verb-prefix) is characterised, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. महि (*mahi*)—great. एनः (*enaḥ*)—sin. दधानान् (*dadhānān*)—those who bear. शश्वतः (*śaśvataḥ*)—those who are many in number. अमन्यमानान् (*amanyamānān*)—those full of arrogance; the people (such). शर्वा (*śarvā*)—with the vajra weapon. जघान (*jaghāna*)—killed. यः (*yaḥ*)—who. शर्धते (*śardhate*)—to the one who is not a knower of the self. शृध्यां (*śṛdhyāṃ*)—help that gives enthusiasm. न अनुददाति (*na anudadāti*)—does not give. यः (*yaḥ*)—who. दस्योः (*dasyoḥ*)—of the enemy who causes destruction. हन्ता (*hantā*)—is the destroyer. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who killed with the vajra weapon the people who bear great sin, who are many in number and are full of arrogance; who does not give the help that gives enthusiasm to one who is not a knower of the self; who is the destroyer of the enemy who causes destruction: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, who with the thunderbolt has destroyed many committing great sin, and offering (him) no homage: who grants not success to the confident; who is the slayer of the Dasyu; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 10)*
+
+शश्वतः (*śaśvataḥ*)—Since the word शश्वत् (*śaśvat*) is read among the twelve names for "many" beginning with उरु (*uru*) and तुवि (*tuvi*) (Nirukta 3-13 as printed; the numeral file agrees), शश्वतः (*śaśvataḥ*) means "numerous, many".
+
+---
+
+### Printed p. 671 (PDF 694)
+
+*(Header: "A. 2 A. 6 V. 9 ]", "Ṛgvedasaṃhitā", "671". The varga numeral is read as 9, unzoomed; on p. 669 it was 8, so the varga seems to change between Ṛk 10 and Ṛk 11, though no varga-end note was seen.)*
+
+एनः—एन एतेः (*enaḥ—ena eteḥ*) । *(Nirukta 11-24; the numeral file agrees)* तदस्यैवनोवावश्यमेव्यैति (*tadasyaivanovāvaśyamevyaiti*) *(letter by letter as printed [?])* । This (sin) follows the doer and necessarily comes to him; therefore एनः (*enaḥ*) means sin.
+
+अमन्यमानान्—आत्मानमजानत इन्द्रमपूजयतो वा जनान् (*amanyamānān—ātmānamajānata indramapūjayato vā janān*)—मन्यमानान् (*manyamānān*) means "those who know"; अमन्यमानान् (*amanyamānān*) means "those who do not know": that is, those who do not know their true state, or the true self (the Brahman-substance), or those who without knowing Indra's qualities or without worshipping him: this is the meaning.
+
+शर्वा (*śarvā*)—For the word शरु (*śaru*), formed from the root श्रा हिंसायां (*śrā hiṃsāyāṃ*) *(root letters read as printed; the vowel sign is unclear [?])*, the meaning is "that which harms" or "the vajra and similar weapons, the means of harming".
+
+यः शश्वतः महि एनः दधानान् अमन्यमानान् शर्वा जघान (*yaḥ śaśvataḥ mahi enaḥ dadhānān amanyamānān śarvā jaghāna*)—Indra struck with his vajra many people who have done great sin and who, being without true knowledge, would not worship Indra. That is, the main intention is that Indra destroyed many wicked asuras who, attached only to sinful deeds, performed no sacrifices and did not worship Indra.
+
+यः शर्धते न अनुददाति शृध्यां (*yaḥ śardhate na anudadāti śṛdhyāṃ*)—The word शर्धः (*śardhaḥ*) is read among the names of strength (Nirukta 3-9; the numeral file agrees). Here the commentator has explained this sentence as शर्धते उत्साहं कुर्वतेऽनात्मज्ञाय जनाय शृध्यामुत्साहनीयं कर्म नानुददाति न प्रयुच्छति (*śardhate utsāhaṃ kurvate 'nātmajñāya janāya śṛdhyāmutsāhanīyaṃ karma nānudadāti na prayucchati*) (the Kannada prints the last word thus [?]), that is, Indra does not create enthusiasm in a man who is full of enthusiasm but is not a knower of the self. That is, the main intention is that to one who is proud of his strength Indra gives no help of any kind and no encouragement. It does not seem that the sentence has this meaning rightly; the ṛṣi's intention cannot be known clearly.
+
+यः दस्योः हन्ता (*yaḥ dasyoḥ hantā*)—He who is to destroy the Dasyu people, the enemies of the Āryas. The slaying of the Dasyu is reckoned a special quality of Indra. When Indra is praised it is the custom to describe him as the destroyer of the Dasyus.
+
+---
+
+#### Ṛk 11
+
+*(Small caption "Saṃhitāpāṭha" printed. The Pada of Ṛk 11 follows on p. 672.)*
+
+**॥ संहितापाठः ॥**
+
+> यः शम्ब॑रं॒ पर्व॑तेषु क्षि॒यन्तं॑ चत्वारिं॒श्यां श॒रद्य॒न्ववि॑न्दत् ।
+> ओ॒जा॒यमा॑नं॒ यो अहिं॑ ज॒घान॒ दानुं॒ शया॑नं॒ स ज॑नास॒ इन्द्रः॑ ॥ ११ ॥
+
+> *yaḥ śambaraṃ parvateṣu kṣiyantaṃ catvāriṃśyāṃ śaradyanvavindat |*
+> *ojāyamānaṃ yo ahiṃ jaghāna dānuṃ śayānaṃ sa janāsa indraḥ ‖ 11 ‖*
+
+---
+
+---
+
+### Printed p. 672 (PDF 695)
+
+*(Header: "672", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12". Ṛk 11 continues from p. 671, where only the Saṃhitā was written. A small caption "Padapāṭha" is printed.)*
+
+**॥ पदपाठः ॥**
+
+> यः । शम्बरं । पर्वतेषु । क्षियन्तं । चत्वारिंश्यां । शरदि । अनुऽअविन्दत् ।
+> ओजायमानं । यः । अहिं । जघान । दानुं शयानं । सः । जनासः । इन्द्रः ॥ ११ ॥
+
+> *yaḥ | śambaraṃ | parvateṣu | kṣiyantaṃ | catvāriṃśyāṃ | śaradi | anu 'avindat |*
+> *ojāyamānaṃ | yaḥ | ahiṃ | jaghāna | dānuṃ śayānaṃ | saḥ | janāsaḥ | indraḥ ‖ 11 ‖*
+
+*(Accents are not reproduced. The Pada has no division mark between दानुं and शयानं; this is as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, who found the asura Śambara, hidden in mountain caves for forty years for fear of him, in the fortieth autumn, struck him down, together with the mighty Ahi, the son of Danu.*
+
+> यः पर्वतेषु क्षियन्तमिन्द्रभिया बहून् संवत्सरान् प्रच्छन्नो भूत्वा पर्वतगुहासु निवसन्तं शम्बरमेतन्नामकं मायाविनमसुरं चत्वारिंश्यां शरदि चत्वारिंशे संवत्सरेऽन्वविन्दत् । अन्विष्यालभत । लब्ध्वा च यः ओजायमानम् ॥ कर्तुः क्यङ् सलोपश्च ओजसोऽप्सरसो नित्यं । पा. ३-१-११-२ । इति सकारलोपः ॥ बलमाचरन्तमहिमाहन्तारं दानुं दानवं शयानं शम्बरमसुरं जघान हतवान् स इन्द्रो नाहमिति ॥
+
+> *yaḥ parvateṣu kṣiyantamindrabhiyā bahūn saṃvatsarān pracchanno bhūtvā parvataguhāsu nivasantaṃ śambarametannāmakaṃ māyāvinamasuraṃ catvāriṃśyāṃ śaradi catvāriṃśe saṃvatsare 'nvavindat | anviṣyālabhata | labdhvā ca yaḥ ojāyamānam ‖ kartuḥ kyaṅ salopaśca ojaso 'psaraso nityaṃ | pā. 3-1-11-2 | iti sakāralopaḥ ‖ balamācarantamahimāhantāraṃ dānuṃ dānavaṃ śayānaṃ śambaramasuraṃ jaghāna hatavān sa indro nāhamiti ‖*
+
+*(Reading notes: the Pāṇini reference is read as 3-1-11-2, unzoomed; the numeral file has "3-110-2", which looks like a hyphen-segmentation slip of the same string [?]. The closing words "स इन्द्रो नाहमिति" are as printed [?]. The grammatical tail on ओजायमान [the *kyaṅ* suffix and loss of *s*] is characterised, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. पर्वतेषु (*parvateṣu*)—in the mountains. क्षियन्तं (*kṣiyantaṃ*)—who was living in hiding. शम्बरं (*śambaraṃ*)—the asura named Śambara. चत्वारिंश्यां शरदि (*catvāriṃśyāṃ śaradi*)—in the fortieth year. अन्वविन्दत् (*anvavindat*)—searched for and found. यः (*yaḥ*)—who. ओजायमानं (*ojāyamānaṃ*)—who had taken refuge in strength. अहिं (*ahiṃ*)—the destroyer. दानुं (*dānuṃ*)—the son of Danu. शयानं (*śayānaṃ*)—who lay on the mountain; that is, Śambara. जघान (*jaghāna*)—killed. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who at last found and killed the asura named Śambara, who had lived in hiding in the mountains for forty years, and who killed the Dānava, who was both mighty and a destroyer: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, who discovered Shambara dwelling in the mountains for forty years ; who slew Ahi, growing in strength, and the sleeping son of Danu ; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शम्बरं (*śambaraṃ*)—The word Śambara is read among the names of cloud (Ni. 2-21; the numeral file agrees) and among the names of water (Ni. 2-24; the numeral file agrees). In the present Ṛk, "Śambara" means the asura of the name Śambara.
+
+---
+
+### Printed p. 673 (PDF 696)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [varga numeral unzoomed], "Ṛgvedasaṃhitā", "673". The Viśeṣaviṣaya on Śambara continues from p. 672. At the foot of the page the printer's signature "[43]" and "Vol. 14" are printed.)*
+
+This Śambara is an enemy of Indra. His name and the matter concerning him are stated in the Ṛks Ṛ. Saṃ. 1-51-6, 1-54-4, 1-59-6, 1-101-2, 1-103-8, 1-112-14, 1-130-7, 2-12-11, 2-14-6, 2-19-6, 4-26-3 *(the numeral file reads "4.263"; the strip shows hyphens)*, 4-30-14, 6-18-8, 6-26-5, 6-31-4, *[one numeral group here is illegible: between 6-31-4 and 6-47-2 — the file also has a garbled glyph; [?]]*, 6-47-2, 6-47-21, 7-18-20, 7-99-5. In Ṛ. Saṃ. 6-26-5 he is called a Dāsa, the son of one Kulikāra. Generally his name is read together with Śuṣṇa, Pipru and Varcin. His forts (*durgas*) are said to be 90, 99 and 100, in the Ṛks Ṛ. Saṃ. 1-130-7, 2-19-6 and 2-14-6. In Ṛ. Saṃ. 2-24-2 the very word शम्बराणि (*śambarāṇi*) is used to indicate his forts. He is the chief enemy of Divodāsa Atithigva, and Atithigva conquered him with Indra's help; this is stated in the Ṛks Ṛ. Saṃ. 1-51-6, 1-130-6, 2-19-6, 4-26-3 and others.
+
+Some Western scholars express a different opinion about this Śambara. Some hold that doubt arises whether he was really a living person or one famous only by name. A scholar named Hillebrandt [as printed in Latin letters] thinks that he was a real person and the chief enemy of Divodāsa. Some hold that he was a well-known chief among the early inhabitants of this country, and that, living in the hills and mountains, he troubled the Āryas.
+
+ओजायमानं (*ojāyamānaṃ*)—बलमाचरन्तम् (*balamācarantam*) (*balamācarantam*). It means one who is endowed with *ojas* or strength; one of great strength.
+
+अहिं (*ahiṃ*)—आहन्तारम् (*āhantāram*). For this word, formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*) (*hana hiṃsāgatyoḥ*), the meaning "the slayer" has been explained.
+
+दानुं (*dānuṃ*)—दानवम् (*dānavam*) । दनोः पुत्रम् (*danoḥ putram*). It means the son of Danu, the mother of the Rākṣasas. The commentator says in his bhāṣya on Ṛ. Saṃ. 1-32-9 that Dānu (the mother) is दानुर्दादनी वृत्रमाता (*dānurdādanī vṛtramātā*) *(letter by letter as printed [?])*.
+
+शरदि (*śaradi*)—In the autumn season; that is, in the year. For this word, formed from the root शृ हिंसायां (*śṛ hiṃsāyāṃ*) *(the vowel sign of the root is unclear [?])*, the explanation is शीर्यन्ते अस्यां ओषधयः इति शरत् संवत्सरः (*śīryante asyāṃ oṣadhayaḥ iti śarat saṃvatsaraḥ*)—herbs, leaves and the like dry up and fall down in this season; therefore such a season is called *śarat* or *śarad-ṛtu*. Since the autumn season comes only once in a year, it is the custom in the Vedas to use the word *śarat* in the sense of "year".
+
+The Kannada then quotes:
+
+> तच्चक्षुर्देवहितं शुक्रमुच्चरत् ।
+> पश्येम शरदः शतं जीवेम शरदः शतं ॥
+
+> *taccakṣurdevahitaṃ śukramuccarat |*
+> *paśyema śaradaḥ śataṃ jīvema śaradaḥ śataṃ ‖*
+
+*(Ṛ. Saṃ. 7-66-16, as I read the printed numeral, unzoomed. FILE DISAGREE: the numeral file says 6-66-16; the digit looks flat-footed, i.e. 7. The gloss is mine and tentative: "that eye, set by the gods, rises bright; may we see a hundred autumns, may we live a hundred autumns".)*
+
+---
+
+### Printed p. 674 (PDF 697)
+
+*(Header: "674", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12". The Viśeṣaviṣaya of Ṛk 11 continues from p. 673.)*
+
+> दीर्घायुरस्या यः पतिर्जीवाति शरदः शतं ।
+
+> *dīrghāyurasyā yaḥ patirjīvāti śaradaḥ śataṃ |*
+
+*(Ṛ. Saṃ. 10-85-39; the numeral file agrees. Gloss, mine and tentative: "he who is her husband shall live long, a hundred autumns".)*
+
+In such Ṛks the word शरत् (*śarat*) is used in the sense of "year".
+
+यः शम्बरं पर्वतेषु क्षियन्तं चत्वारिंश्यां शरदि अन्वविन्दत् (*yaḥ śambaraṃ parvateṣu kṣiyantaṃ catvāriṃśyāṃ śaradi anvavindat*)—Indra searched out and destroyed the asura Śambara, who for forty years had hidden himself in the mountains so that no one could find him. This describes Indra's daring.
+
+---
+
+#### Ṛk 12
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यः स॒प्तर॑श्मिर्वृष॒भस्तुवि॑ष्मान॒वासृ॑ज॒त्सर्त॑वे स॒प्त सिन्धू॑न् ।
+> यो रौ॑हि॒णमस्फ॑र॒द्वज्र॑बाहु॒र्द्यामा॒रोह॑न्तं॒ स ज॑नास॒ इन्द्रः॑ ॥ १२ ॥
+
+> *yaḥ saptaraśmirvṛṣabhastuviṣmānavāsṛjatsartave sapta sindhūn |*
+> *yo rauhiṇamaspharadvajrabāhurdyāmārohantaṃ sa janāsa indraḥ ‖ 12 ‖*
+
+*(The Saṃhitā ends "॥ १२ ॥" at the top of the second strip.)*
+
+**॥ पदपाठः ॥**
+
+> यः । सप्तऽरश्मिः । वृषभः । तुविष्मान् । अवऽअसृजत् । सर्तवे । सप्त । सिन्धून् ।
+> यः । रौहिणं । अस्फरत् । वज्रऽबाहुः । द्यां । आऽरोहन्तं । सः । जनासः । इन्द्रः ॥ १२ ॥
+
+> *yaḥ | sapta 'raśmiḥ | vṛṣabhaḥ | tuviṣmān | ava 'asṛjat | sartave | sapta | sindhūn |*
+> *yaḥ | rauhiṇaṃ | aspharat | vajra 'bāhuḥ | dyāṃ | ā 'rohantaṃ | saḥ | janāsaḥ | indraḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra has seven rays, namely the seven rain-clouds; he is a strong bull. He released the seven rivers to flow, and, holding the vajra, struck the asura Rauhiṇa climbing to heaven.*
+
+> यः सप्तरश्मिः सप्तसंख्याकाः पर्जन्या रश्मयो यस्य । ते च रश्मयो वराहवः स्वतपसो विद्युन्महसो धूपयः श्वापयो गृहमेधाश्चेतीति ये चेमेऽशिमिविद्विषः पर्जन्याः सप्त पृथिवीमभिवर्षन्ति वृष्टिभिः । तै. आ. १-९-४,५ । इति तैत्तिरीयारण्यके ह्याम्नाताः । वृषभो वर्षकस्तुविष्मान् वृद्धिमान्बलवान्वा सप्त सर्पणस्वभावान् सिन्धूनपः सर्तवे सरणायावासृजत् । अवसृष्टवान् । यद्वा गङ्गाद्याः सप्त मुख्या नदीरसृजत् । यश्च वज्रबाहुः सन् द्यां दिवमारोहन्तं रौहिणमसुरमस्फरत् । जघान ॥ स्फर स्फरणे तुदादिः ॥
+
+> *yaḥ saptaraśmiḥ saptasaṃkhyākāḥ parjanyā raśmayo yasya | te ca raśmayo varāhavaḥ svatapaso vidyunmahaso dhūpayaḥ śvāpayo gṛhamedhāścetīti ye ceme 'śimividviṣaḥ parjanyāḥ sapta pṛthivīmabhivarṣanti vṛṣṭibhiḥ | tai. ā. 1-9-4,5 | iti taittirīyāraṇyake hyāmnātāḥ | vṛṣabho varṣakastuviṣmān vṛddhimānbalavānvā sapta sarpaṇasvabhāvān sindhūnapaḥ sartave saraṇāyāvāsṛjat | avasṛṣṭavān | yadvā gaṅgādyāḥ sapta mukhyā nadīrasṛjat | yaśca vajrabāhuḥ san dyāṃ divamārohantaṃ rauhiṇamasuramaspharat | jaghāna ‖ sphara spharaṇe tudādiḥ ‖*
+
+*(Doubtful: "ये चेमेऽशिमिविद्विषः" is read as printed, split across a line-end, and may be wrongly read [?]. The Taittirīya-Āraṇyaka reference is read as 1-9-4,5, unzoomed; the numeral file agrees. The final grammatical note on the root स्फर (*sphara*) is characterised, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. सप्तरश्मिः (*saptaraśmiḥ*)—he who has seven rays. वृषभः (*vṛṣabhaḥ*)—he who showers rain. तुविष्मान् (*tuviṣmān*)—and who is mighty. सप्त सिन्धून् (*sapta sindhūn*)—the seven riv… *(the Pratipadārtha breaks off in mid-word, "सप", at the foot of p. 674 and continues on p. 675; Ṛk 12 is left open)*
+
+---
+
+### Printed p. 675 (PDF 698)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [numerals unzoomed], "Ṛgvedasaṃhitā", "675". The Pratipadārtha of Ṛk 12 continues from p. 674, where it broke off in "सप्त सिन्धून्—सप…".)*
+
+*(…continuing:)* "…seven-numbered rivers", or the waters that flow in them *(the Kannada word printed as "ಪ್ರವಿಸತಕ್ಕ" looks like a misprint for "flowing" [sic?])*. सर्तवे (sartave (*sartave*))—for the purpose of flowing. अवासृजत् (avāsṛjat (*avāsṛjat*))—released (from Ahi). यः (yaḥ (*yaḥ*))—who. वज्रबाहुः (vajrabāhuḥ (*vajrabāhuḥ*))—holding the vajra weapon in his hand. द्यां (dyāṃ (*dyāṃ*))—the heavenly world. आरोहन्तं (ārohantaṃ (*ārohantaṃ*))—who was climbing. रौहिणं (rauhiṇaṃ (*rauhiṇaṃ*))—the asura named Rauhiṇa. अस्फरत् (aspharat (*aspharat*))—killed. सः (saḥ (*saḥ*))—he. इन्द्रः (indraḥ (*indraḥ*))—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who has seven rays, who sends rain, who is mighty, who released the seven rivers beginning with Gaṅgā from Ahi so that they should flow; who, holding the vajra in his hand, killed the asura named Rauhiṇa who was climbing to heaven: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, the seven-rayed, the showerer, the powerful, who let loose the seven rivers to flow ; who, armed with the thunderbolt, crushed Rauhina [sic; the Sanskrit has Rauhiṇa] when scaling heaven ; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सप्तरश्मिः (saptaraśmiḥ (*saptaraśmiḥ*))—The Kannada quotes the bhāṣya's explanation:
+
+> सप्तरश्मिः—सप्तसंख्याकाः पर्जन्या रश्मयो यस्य । ते च रश्मयो—वराहवः स्वतपसः । विद्युन्महसो धूपयः । श्वापयो गृहमेधाश्चेत्येते । ये चेमेऽशिमिविद्विषः । पर्जन्याः सप्त पृथिवीमभिवर्षन्ति । वृष्टिभिरिति
+
+> *saptaraśmiḥ—saptasaṃkhyākāḥ parjanyā raśmayo yasya | te ca raśmayo—varāhavaḥ svatapasaḥ | vidyunmahaso dhūpayaḥ | śvāpayo gṛhamedhāścetyete | ye ceme 'śimividviṣaḥ | parjanyāḥ sapta pṛthivīmabhivarṣanti | vṛṣṭibhiriti*
+
+*(the Taittirīya-Āraṇyaka reference is printed "तै. आ. 1-9-4 ರಿಂದ 5", i.e. "from 1-9-4 to 5"; the numeral file agrees with 1-9-4, unzoomed).*
+
+Gloss, mine and tentative: "Seven-rayed: he whose rays are seven Parjanyas. These are the Varāhas, the Svatapasas, the Vidyunmahasas, the Dhūpayas, the Śvāpayas, the Gṛhamedhas, and these Aśimiviḍviṣas; the seven Parjanyas rain on the earth with their showers." The Kannada explains: when Indra sends rain, that is, when he drives the clouds to rain, those clouds rain together with seven kinds of rays, or with the Parjanya deities; this is the meaning. To support it the commentator quotes the Taittirīya-Āraṇyaka passage. In the words पर्जन्याः सप्त (parjanyāḥ sapta (*parjanyāḥ sapta*)) of the quotation the sense is given as "clouds (Parjanyas) accompanied by seven kinds of wind-groups send rain". The seven kinds of Parjanyas are:
+
+(1) **वराहवः** (varāhavaḥ (*varāhavaḥ*)):
+
+> वराहवः—वरं श्रेष्ठं वर्षमाह्वयतीति वराहः (हुः) ते च बहवो वराहवः ।
+
+> *varāhavaḥ—varaṃ śreṣṭhaṃ varṣamāhvayatīti varāhaḥ (huḥ) te ca bahavo varāhavaḥ |*
+
+Because they bring about excellent rain, that wind-group is called *varāha*; the clouds accompanied by such a wind-group are called varāhavaḥ (*varāhavaḥ*). *(The "(हुः)" after वराहः is as printed.)*
+
+(2) **स्वतपसः** (svatapasaḥ (*svatapasaḥ*)):
+
+> स्वतपसः—यो वायवः स्वतपसः स्वयमेव तपन्ति न तु तापार्थमग्निमादित्यं वापेक्षन्ते स्वतपसः ।
+
+> *svatapasaḥ—yo vāyavaḥ svatapasaḥ svayameva tapanti na tu tāpārthamagnimādityaṃ vāpekṣante svatapasaḥ |*
+
+Clouds accompanied by a wind-group that burns by its own power, without depending for heat (*śākha*) on fire or on the sun, are called svatapasaḥ (*svatapasaḥ*).
+
+(3) **विद्युन्महसः** (vidyunmahasaḥ (*vidyunmahasaḥ*)) *(this is on p. 676)*.
+
+*Note: this item and the following ones are on p. 676.*
+
+---
+
+### Printed p. 676 (PDF 699)
+
+*(Header: "676", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12" [numerals unzoomed].)*
+
+(3) **विद्युन्महसः** (vidyunmahasaḥ (*vidyunmahasaḥ*)):
+
+> विद्युन्महसः—विद्युत्समानं महस्तेजो येषां ते विद्युन्महसः—विद्युत्…
+
+> *vidyunmahasaḥ—vidyutsamānaṃ mahastejo yeṣāṃ te vidyunmahasaḥ—vidyut…*
+
+*(The line breaks off at the end of the Kannada line as printed; the Kannada continues:)* clouds accompanied by a wind-group shining with great radiance like that of lightning (the flash), or with lightning, are called vidyunmahasaḥ (*vidyunmahasaḥ*).
+
+(4) **धूपयः** (dhūpayaḥ (*dhūpayaḥ*)):
+
+> धूपयः—गुग्गुलदशाङ्गादिद्रव्यान्तरैरनपेक्षेण स्वशरीरगतसुगन्धेनैव सर्वान्पदार्थान् धूपयन्तो वासितान् कुर्वन्तो वर्तन्ते ।
+
+> *dhūpayaḥ—gugguladaśāṅgādidravyāntarairanapekṣeṇa svaśarīragatasugandhenaiva sarvānpadārthān dhūpayanto vāsitān kurvanto vartante |*
+
+Clouds accompanied by a wind-group endowed with its own natural fragrance, without depending on fragrant substances such as guggula and daśāṅga, are called dhūpayaḥ (*dhūpayaḥ*).
+
+(5) **श्वापयः** (śvāpayaḥ (*śvāpayaḥ*)):
+
+> श्वापयः—शु शब्द अशुशब्दपर्यायस्ततः शीघ्रव्यापिन इत्युक्तं भवति ।
+
+> *śvāpayaḥ—śu śabda aśuśabdaparyāyastataḥ śīghravyāpina ityuktaṃ bhavati |*
+
+*(The printed "अशु" is read as printed; it may be meant for "आशु" [?].)* Clouds accompanied by a wind-group that spreads quickly in all places are called śvāpayaḥ (*śvāpayaḥ*).
+
+(6) **गृहमेधाः** (gṛhamedhāḥ (*gṛhamedhāḥ*)):
+
+> गृहमेधाः—गृहेषु मेधार्हा गृहमेधाः ।
+
+> *gṛhamedhāḥ—gṛheṣu medhārhā gṛhamedhāḥ |*
+
+Clouds accompanied by a wind-deity that is worshipped in houses and the like are called gṛhamedhāḥ (*gṛhamedhāḥ*).
+
+(7) **अशिमिविद्विषः** (aśimividviṣaḥ (*aśimividviṣaḥ*)):
+
+> अशिमिविद्विषः—शिमिः कर्म कृष्यादिकं तस्य विघातकाः शिमिवद्विषः तद्विपरीता अशिमिविद्विषः कृष्याद्यनुकूलप्रवृत्तयो वायवः इत्यर्थः ।
+
+> *aśimividviṣaḥ—śimiḥ karma kṛṣyādikaṃ tasya vighātakāḥ śimivadviṣaḥ tadviparītā aśimividviṣaḥ kṛṣyādyanukūlapravṛttayo vāyavaḥ ityarthaḥ |*
+
+Clouds accompanied by wind-groups that help in sending rain at the proper times so as to be favourable to works of agriculture, such as farming, are called aśimividviṣaḥ (*aśimividviṣaḥ*).
+
+Since seven kinds are said to exist in the Parjanyas, or clouds, "seven-rayed" here means that Indra sends rain with the seven kinds of clouds; this is the intention.
+
+यः अवासृजत् सर्तवे सप्त सिन्धून् (yaḥ avāsṛjat sartave sapta sindhūn (*yaḥ avāsṛjat sartave sapta sindhūn*))—Indra sent rain with the seven kinds of clouds, and after those rain-waters fell on the earth he made the seven main rivers, Gaṅgā, Yamunā and the others, run in streams. The words sapta sindhūn (*sapta sindhūn*) here need not be understood as exactly seven rivers; they mean only the main rivers. The main intention is that he made the water fallen on the earth run in the rivers and in other regions.
+
+यः रौहिणं अस्फरत् वज्रबाहुः द्यां आरोहन्तं (yaḥ rauhiṇaṃ aspharat vajrabāhuḥ dyāṃ ārohantaṃ (*yaḥ rauhiṇaṃ aspharat vajrabāhuḥ dyāṃ ārohantaṃ*))—It is said that Indra killed with his vajra the asura named Rauhiṇa who was climbing up to heaven. The same matter is stated in the Ṛk:
+
+> आहन्नहिमभिनद्रौहिणं व्यहन्व्यंसं मघवा शचीभिः ।
+
+> *āhannahimabhinadrauhiṇaṃ vyahanvyaṃsaṃ maghavā śacībhiḥ |*
+
+*(Ṛ. Saṃ. 1-103-2; the numeral file gives "1-103", the final "-2" is read from the strip, unzoomed. Gloss, mine and tentative: "Maghavan, with his powers, struck Ahi, split Rauhiṇa, and struck [the one] without shoulders [?]".)*
+
+---
+
+### Printed p. 677 (PDF 700)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [unzoomed], "Ṛgvedasaṃhitā", "677". The Viśeṣaviṣaya of Ṛk 12 continues from p. 676.)*
+
+…is said also in that Ṛk *(the Kannada begins "ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಹೇಳಿದೆ")*. In the Ṛgveda the name of the asura Rauhiṇa is mentioned only in these two places and nowhere else. Therefore nothing more can be said about this Rauhiṇa. Besides, since the word rauhiṇa (*rauhiṇa*) is read among the names of cloud (Ni. 2-21; the numeral file agrees), it can also be said that the meaning is: Indra struck the cloud with the vajra and caused rain. Likewise, since the word śambara (*śambara*) is also read among the names of cloud, the killing of Śambara can, in the respective contexts, be said to have the other meaning of striking a cloud.
+
+---
+
+#### Ṛk 13
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> द्यावा॑ चिदस्मै पृथि॒वी न॑मेते॒ शुष्मा॑च्चिदस्य॒ पर्व॑ता भयन्ते ।
+> यः सो॑म॒पा नि॑चि॒तो वज्र॑बाहु॒र्यो वज्र॑हस्तः॒ स ज॑नास॒ इन्द्रः॑ ॥ १३ ॥
+
+> *dyāvā cidasmai pṛthivī namete śuṣmāccidasya parvatā bhayante |*
+> *yaḥ somapā nicito vajrabāhuryo vajrahastaḥ sa janāsa indraḥ ‖ 13 ‖*
+
+*(A small caption "Padapāṭha" is printed.)*
+
+**॥ पदपाठः ॥**
+
+> द्यावा । चित् । अस्मै । पृथिवी इति । नमेते इति । शुष्मात् । चित् । अस्य । पर्वताः ।
+> भयन्ते ।
+> यः । सोमऽपाः । निऽचितः । वज्रऽबाहुः । यः । वज्रऽहस्तः । सः । जनासः । इन्द्रः ॥ १३ ॥
+
+> *dyāvā | cit | asmai | pṛthivī iti | namete iti | śuṣmāt | cit | asya | parvatāḥ |*
+> *bhayante |*
+> *yaḥ | soma 'pāḥ | ni 'citaḥ | vajra 'bāhuḥ | yaḥ | vajra 'hastaḥ | saḥ | janāsaḥ | indraḥ ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Heaven and earth bow of themselves to Indra, and the mountains fear his strength; he is the Soma-drinker, firm of body and armed with the vajra.*
+
+> अस्मा इन्द्राय द्यावा पृथिवी ॥ इतरेतरापेक्षया द्विवचनं प्र मित्रयोर्वरुणयोः । ७-६६-१ । इतिवत् ॥ नमेते । स्वयमेव प्रह्वीभवतः ॥ णमु प्रह्वत्वे । कर्मकर्तरि न दुहस्नुनमां यक्चिणौ इति यकः प्रतिषेधः ॥ चिदपि च अस्येन्द्रस्य शुष्माद्बलात्पर्वता भयन्ते । बिभ्यति । यः सोमपाः सोमस्य पाता निचितः सर्वैः । यद्वा अन्येभ्योऽपि देवेभ्यो दृढाङ्गः । वज्रबाहुर्वज्रसदृशबाहुः । यश्च वज्रहस्तो वज्रयुक्तः स इन्द्र इत्यादि प्रसिद्धम् ॥
+
+> *asmā indrāya dyāvā pṛthivī ‖ itaretarāpekṣayā dvivacanaṃ pra mitrayorvaruṇayoḥ | 7-66-1 | itivat ‖ namete | svayameva prahvībhavataḥ ‖ ṇamu prahvatve | karmakartari na duhasnunamāṃ yakciṇau iti yakaḥ pratiṣedhaḥ ‖ cidapi ca asyendrasya śuṣmādbalātparvatā bhayante | bibhyati | yaḥ somapāḥ somasya pātā nicitaḥ sarvaiḥ | yadvā anyebhyo 'pi devebhyo dṛḍhāṅgaḥ | vajrabāhurvajrasadṛśabāhuḥ | yaśca vajrahasto vajrayuktaḥ sa indra ityādi prasiddham ‖*
+
+*(Reading notes: the first word is printed "अस्मा" [probably for "अस्मै"] and is given as printed [?]. The reference "7-66-1" is read from the strip, unzoomed; the numeral file has "7.661". The Pāṇini sūtra quoted is printed without its number. The grammatical remarks on नमेते [root णमु, the prohibition of *yak*] are characterised, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (janāsaḥ (*janāsaḥ*))—O people. अस्मै (asmai (*asmai*))—to this Indra. द्यावापृथिवी (dyāvāpṛthivī (*dyāvāpṛthivī*))—both heaven and earth. नमेते (namete (*namete*))—bow with humility. चित् (cit (*cit*))—and. अस्य (asya (*asya*))—of this Indra. शुष्मात् चित् (śuṣmāt cit (*śuṣmāt cit*))—through his strength alone. पर्वताः (parvatāḥ (*parvatāḥ*))—the mountains. भयन्ते (bhayante (*bhayante*))—are afraid. यः (yaḥ (*yaḥ*))—who. सोमपाः (somapāḥ (*somapāḥ*))— *(the page ends here; Ṛk 13 is left open in its Pratipadārtha, which continues on p. 678)*
+
+---
+
+### Printed p. 678 (PDF 701)
+
+*(Header: "678", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12" [numerals unzoomed]. The Pratipadārtha of Ṛk 13 continues from p. 677.)*
+
+सोमपाः (*somapāḥ*)—one who drinks Soma juice; निचितः (*nicitaḥ*)—firm of body; वज्रबाहुः (*vajrabāhuḥ*)—one whose arms are like the vajra weapon; यः (*yaḥ*)—who; वज्रहस्तः (*vajrahastaḥ*)—one who holds the vajra weapon in his hand; सः (*saḥ*)—he; इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+Both heaven and earth bow to this Indra with humility. And the mountains are afraid through this Indra's strength alone. He who drinks Soma juice, who is firm of body, whose arms are like the vajra weapon, and who holds the vajra weapon in his hand: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, to whom heaven and earth bow down; he, at whose might the mountains are appalled; he, who is the drinker of the Soma juice, the firm (of frame), the adamant-armed, the wielder of the thunderbolt; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Indra's great power and strength are stated. Heaven and earth bow to Indra. The ṛṣi has described Indra's surpassing power by saying that the mountains (or clouds) are afraid on seeing Indra's strength.
+
+पर्वताः (*parvatāḥ*)—mountains or clouds. Because the word पर्वत (*parvata*) is read among the names of cloud, two kinds of meaning, "clouds" and "mountains", can be given here.
+
+सोमपाः (*somapāḥ*)—We have already described Indra's Soma-drinking at length earlier. It has been said often that among the Soma-drinking deities Indra is the foremost, and that Indra has a great fondness for Soma-drinking. For the Soma-drinking he is invited more than all the other deities.
+
+वज्रबाहुः वज्रहस्तः (*vajrabāhuḥ vajrahastaḥ*)—These two words have the same meaning. Since this is so within one sentence, the bhāṣyakāra has explained the word वज्रबाहुः (*vajrabāhuḥ*) as "having arms like the vajra, that is, firm like the vajra (having greater strength of arm)", and the word वज्रहस्तः (*vajrahastaḥ*) as "holding the vajra weapon in his hand".
+
+---
+
+### Printed p. 679 (PDF 702)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [unzoomed], "Ṛgvedasaṃhitā", "679".)*
+
+#### Ṛk 14
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यः सु॒न्वन्त॑मव॑ति॒ यः प॒चन्तं॒ यः शंस॑न्तं॒ यः श॑शमा॒नमू॒ती ।
+> यस्य॒ ब्रह्म॒ वर्ध॑नं॒ यस्य॒ सोमो॒ यस्यैदं॒ राधः॒ स ज॑नास॒ इन्द्रः॑ ॥ १४ ॥
+
+> *yaḥ su̱nvanta̭mava̭ti̱ yaḥ pa̱canta̱ṃ yaḥ śaṃsa̭nta̱ṃ yaḥ śa̭śamā̱namū̱tī |*
+> *yasya̱ brahma̱ vardha̭na̱ṃ yasya̱ somo̱ yasyaida̱ṃ rādha̱ḥ sa ja̭nāsa̱ indra̭ḥ ‖ 14 ‖*
+
+*(Reading note: the fourth word of the second line is printed with the sign for ai [ೈ], giving "यस्यैदं"; the Pada has "इदं", and the bhāṣya's "यस्य च इदम्" suggests "यस्येदं" [?]. Written as printed.)*
+
+**॥ पदपाठः ॥**
+
+> यः । सुन्वन्तं । अवति । यः । पचन्तं । यः । शंसन्तं । यः । शशमानं । ऊती ।
+> यस्य । ब्रह्म । वर्धनं । यस्य । सोमः । यस्य । इदं । राधः । सः । जनासः । इन्द्रः ॥ १४ ॥
+
+> *yaḥ | sunvantaṃ | avati | yaḥ | pacantaṃ | yaḥ | śaṃsantaṃ | yaḥ | śaśamānaṃ | ūtī |*
+> *yasya | brahma | vardhanaṃ | yasya | somaḥ | yasya | idaṃ | rādhaḥ | saḥ | janāsaḥ | indraḥ ‖ 14 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra protects the sacrificer pressing Soma, the one who cooks the oblations, the one who prays and the one who praises; the stotra, Soma and food make him grow.*
+
+> यः सुन्वन्तं सोमाभिषवं कुर्वन्तं यजमानमवति । रक्षति । यश्च पुरोडाशादीनि हवींषि पचन्तं । यश्चोती ऊतये ॥ सुपां सुलुगिति चतुर्थ्याः पूर्वसवर्णदीर्घः ॥ स्वरक्षायै शस्त्राणि शंसन्तं यश्च शशमानमवति । स्तोत्रं कुर्वाणं रक्षति । ब्रह्म परिवृढं स्तोत्रं यस्य वर्धनं वृद्धिकरं भवति । तथा यस्य सोमो वृद्धिहेतुर्भवति । यस्य चेदमस्मदीयं राधः पुरोडाशादिलक्षणमन्नं वृद्धिकरं भवति । स इन्द्र इत्यादि प्रसिद्धम् ॥
+
+> *yaḥ sunvantaṃ somābhiṣavaṃ kurvantaṃ yajamānamavati | rakṣati | yaśca puroḍāśādīni havīṃṣi pacantaṃ | yaścotī ūtaye ‖ supāṃ sulugiti caturthyāḥ pūrvasavarṇadīrghaḥ ‖ svarakṣāyai śastrāṇi śaṃsantaṃ yaśca śaśamānamavati | stotraṃ kurvāṇaṃ rakṣati | brahma parivṛḍhaṃ stotraṃ yasya vardhanaṃ vṛddhikaraṃ bhavati | tathā yasya somo vṛddhiheturbhavati | yasya cedamasmadīyaṃ rādhaḥ puroḍāśādilakṣaṇamannaṃ vṛddhikaraṃ bhavati | sa indra ityādi prasiddham ‖*
+
+*(Reading note: "परिवृढं" is read as printed [Kannada ಪರಿವೃಢಂ]. The grammatical remark "सुपां सुलुक्…" explains the ending of ऊती for ऊतये, the lengthening of the preceding similar vowel in the dative; characterised only, the sūtra number is not printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. सुन्वन्तं (*sunvantaṃ*)—the sacrificer who presses Soma juice. अवति (*avati*)—protects. यः (*yaḥ*)—who. पचन्तं (*pacantaṃ*)—protects the one who cooks the purodāśa and the like. यः (*yaḥ*)—who. ऊती (*ūtī*)—for protection. शंसन्तं (*śaṃsantaṃ*)—protects the one who prays. यः (*yaḥ*)—who. शशमानं (*śaśamānaṃ*)—protects the one who praises (and). यस्य (*yasya*)—to whom. ब्रह्म (*brahma*)—praise. वर्धनं (*vardhanaṃ*)—is a cause of growth. यस्य (*yasya*)—to whom. सोमः (*somaḥ*)—the drinking of the Soma juice is a cause of growth. यस्य (*yasya*)—to whom. इदं (*idaṃ*)—this, given by us. राधः (*rādhaḥ*)—the purodāśa and the like are a cause of growth. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who protects the sacrificer who presses Soma juice, who protects the one who cooks the purodāśa and the like, who protects those who ask for protection, who protects the praiser, and to whom the stotra, the Soma juice and the purodāśa and the like are causes of growth: he is Indra.
+
+---
+
+### Printed p. 680 (PDF 703)
+
+*(Header: "680", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12" [numerals unzoomed].)*
+
+**English Translation** *(as printed)*
+
+He, who protects (the worshipper) offering the libation, or preparing (the mixed curds and butter), repeating his praise and soliciting his assistance; he, of whom the sacred prayer, the (offered) Soma juice, the (presented sacrificial) food, augment (the vigour); he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is stated that Indra becomes pleased by the oblations and the like which the yajamāna and the ṛtvigs make and offer.
+
+यः सुन्वन्तं अवति—सोमाभिषवं कुर्वन्तं यजमानमुवः (*yaḥ sunvantaṃ avati—somābhiṣavaṃ kurvantaṃ yajamānamuvaḥ*) *(as printed; the bhāṣya has "यजमानमवति" [sic])*. Since Soma-drinking gives Indra pleasure, Indra protects the yajamāna who presses and prepares Soma juice in order to offer it to Indra in the yajña.
+
+यः पचन्तं यः शंसन्तं यः शशमान ऊती पुरोडाशादिहवींषि पचन्तं, ऊतये स्वरक्षायै शस्त्राणि शंसन्तं स्तोत्रं कुर्वाणं रक्षति (*yaḥ pacantaṃ yaḥ śaṃsantaṃ yaḥ śaśamāna ūtī puroḍāśādihavīṃṣi pacantaṃ, ūtaye svarakṣāyai śastrāṇi śaṃsantaṃ stotraṃ kurvāṇaṃ rakṣati*). It should not be understood that Indra protects only the yajamāna who performs the sacrifice. The meaning is that he protects and cherishes the ṛtvij who cooks (bakes) in the fire the oblations and the like to be offered to Indra in the yajña; the ṛtvij called hotṛ who recites the śastra-mantras for Indra's pleasure; and the other ṛtvijs and the like who pray to Indra for their own protection.
+
+यस्य ब्रह्म वर्धनं यस्य सोमः यस्य इदं राधः (*yasya brahma vardhanaṃ yasya somaḥ yasya idaṃ rādhaḥ*)—In this sentence the meaning stated above is stated in another manner. It has only been said that Indra protects the yajamāna and the ṛtvigs. The reason is that the stotra made by the ṛtvigs or the yajamānas is growth-producing for Indra, that is, pleasing. In the same way the Soma juice and the oblations and the like which they offer are growth-producing for Indra. Therefore the ṛṣi explains that Indra protects such people, the yajamānas and others, who praise him.
+
+---
+
+#### Ṛk 15
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents are not reproduced. The Ṛk number "१५" is read from the strip, unzoomed.)*
+
+**॥ संहितापाठः ॥**
+
+> यः सु॑न्व॒ते प॑च॒ते दु॒ध्र आ चि॒द्वाजं॑ द॒र्दर्षि॒ स किला॑सि स॒त्यः ।
+> व॒यं त॑ इन्द्र वि॒श्वह॑ प्रि॒यासः॑ सु॒वीरा॑सो वि॒दथ॒मा व॑देम ॥ १५ ॥
+
+> *yaḥ sṷnva̱te pa̭ca̱te du̱dhra ā ci̱dvāja̭ṃ da̱rdarṣi̱ sa kilā̭si sa̱tyaḥ |*
+> *va̱yaṃ ta̭ indra vi̱śvaha̭ pri̱yāsa̭ḥ su̱vīrā̭so vi̱datha̱mā va̭dema ‖ 15 ‖*
+
+*(Ṛk 15 is open: its Padapāṭha begins on p. 681.)*
+
+---
+
+### Printed p. 681 (PDF 704)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [unzoomed], "Ṛgvedasaṃhitā", "681". Ṛk 15 continues from p. 680. A small caption "Padapāṭha" is printed. Accents and the underlines of the Pada are not reproduced.)*
+
+**॥ पदपाठः ॥**
+
+> यः । सुन्वते । पचते । दुध्रः । आ । चित् । वाजं । दर्दर्षि । सः । किल । असि । सत्यः ।
+> वयं । ते । इन्द्र । विश्वह । प्रियासः । सुऽवीरासः । विदथं । आ । वदेम ॥ १५ ॥
+
+> *yaḥ | sunvate | pacate | dudhraḥ | ā | cit | vājaṃ | dardarṣi | saḥ | kila | asi | satyaḥ |*
+> *vayaṃ | te | indra | viśvaha | priyāsaḥ | su 'vīrāsaḥ | vidathaṃ | ā | vadema ‖ 15 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: The ṛṣi now speaks to Indra directly: you, irresistible, give food and strength to the Soma-presser who cooks the oblations, and so you are true; may we, dear to you and blessed with good sons, praise you daily.*
+
+*(Reading notes: "वादर्दर्षि" is printed as one word, probably "वा दर्दर्षि" [?]; "सर्वेष्वहःसु" is as printed.)*
+
+> इदानीमृषिः साक्षात्कृतमिन्द्रं प्रति प्रब्रूते । हे इन्द्र यो दुध्रो दुर्धरः सन् सुन्वते सोमाभिषवं कुर्वते पुरोडाशादिहवींषि पचते यजमानाय वाजमन्नं बलं वादर्दर्षि । भृशं प्रापयसि स तादृशस्त्वं सत्यो यथार्थभूतोऽसि । न पुनर्नास्तीति बुद्धियोग्योऽसि । किलेति प्रसिद्धौ । ते तव प्रियासः सुवीरासः कल्याणपुत्रपौत्राः सन्तो वयं विश्वह सर्वेष्वहःसु विदथं स्तोत्रमावदेम । ब्रूयाम ॥
+
+> *idānīmṛṣiḥ sākṣātkṛtamindraṃ prati prabrūte | he indra yo dudhro durdharaḥ san sunvate somābhiṣavaṃ kurvate puroḍāśādihavīṃṣi pacate yajamānāya vājamannaṃ balaṃ vādardarṣi | bhṛśaṃ prāpayasi sa tādṛśastvaṃ satyo yathārthabhūto 'si | na punarnāstīti buddhiyogyo 'si | kileti prasiddhau | te tava priyāsaḥ suvīrāsaḥ kalyāṇaputrapautrāḥ santo vayaṃ viśvaha sarveṣvahaḥsu vidathaṃ stotramāvadema | brūyāma ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इन्द्र (*indra*)—O Indra. यः (*yaḥ*)—who. दुध्रः (*dudhraḥ*)—being unobstructed. सुन्वते (*sunvate*)—to the one who presses Soma juice, पचते (*pacate*)—and who cooks the purodāśa and the like, that is, to the yajamāna. वाजं (*vājaṃ*)—food and strength. आ दर्दर्षि (*ā dardarṣi*)—do you give abundantly. सः (*saḥ*)—such as you are. सत्यः (*satyaḥ*)—of true nature. असि किल (*asi kila*)—are you not? ते (*te*)—to you. प्रियासः (*priyāsaḥ*)—dear ones, सुवीरासः (*suvīrāsaḥ*)—(by your favour) endowed with auspicious sons, grandsons and the like. वयं (*vayaṃ*)—we. विश्वह (*viśvaha*)—on all days. विदथं (*vidathaṃ*)—the stotra. आ वदेम (*ā vadema*)—we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who, unobstructed, give food and strength in abundance to the yajamāna who presses Soma juice and cooks the purodāśa and the like: such as you are, you are of true nature, are you not? We, who are dear to you, and who by your favour are endowed with auspicious sons, grandsons and the like, recite the stotra on all days.
+
+**English Translation** *(as printed)*
+
+Indra, you are difficult of approach; you, verily, are a true (benefactor), who bestow (abundant) food upon him who offers the libation, who prepares (the mixed curds and butter): may we, enjoying your favour, blessed with progeny, daily repeat (your praise) at the sacrifice.
+
+---
+
+### Printed p. 682 (PDF 705)
+
+*(Header: "682", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12" [numerals unzoomed].)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk, which closes the sūkta, the ṛṣi addresses Indra directly and prays that he give desired things such as food and heroic sons and grandsons.
+
+Yāska has said that mantras are of many kinds according to the meaning in them. It is necessary to state this here briefly:
+
+*(Reading notes: in the line "यत्काम ऋषियु स्यां" the printed letters are as given, probably for "ऋषिर्यस्यां" [?]; "देवतायामार्थपत्यम्" is read with the ā-sign, doubtful [?]. Reference printed: Nirukta, Daivatakāṇḍa 7-1 to 3.)*
+
+> तद्यानि नामानि प्राधान्यस्तुतीनां देवतानां तद्दैवतमित्याचक्षते । यत्काम ऋषियु स्यां देवतायामार्थपत्यमिच्छन्स्तुतिं प्रयुङ्क्ते तद्दैवतः स मन्त्रो भवति । ताः त्रिविधा ऋचः परोक्षकृताः प्रत्यक्षकृता आध्यात्मिकाश्च । तत्र परोक्षकृताः सर्वाभिर्नामविभक्तिभिर्युज्यन्ते प्रथमपुरुषैश्चाख्यातस्य । अथ प्रत्यक्षकृता मध्यमपुरुषोपयोगास्त्वमिति चैतेन सर्वनाम्ना । अथाध्यात्मिक्य उत्तमपुरुषयोगा अहमिति चैतेन सर्वनाम्ना । परोक्षकृताः प्रत्यक्षकृताश्च मन्त्रा भूयिष्ठा अल्पश आध्यात्मिकाः ॥
+
+> *tadyāni nāmāni prādhānyastutīnāṃ devatānāṃ taddaivatamityācakṣate | yatkāma ṛṣiyu syāṃ devatāyāmārthapatyamicchanstutiṃ prayuṅkte taddaivataḥ sa mantro bhavati | tāḥ trividhā ṛcaḥ parokṣakṛtāḥ pratyakṣakṛtā ādhyātmikāśca | tatra parokṣakṛtāḥ sarvābhirnāmavibhaktibhiryujyante prathamapuruṣaiścākhyātasya | atha pratyakṣakṛtā madhyamapuruṣopayogāstvamiti caitena sarvanāmnā | athādhyātmikya uttamapuruṣayogā ahamiti caitena sarvanāmnā | parokṣakṛtāḥ pratyakṣakṛtāśca mantrā bhūyiṣṭhā alpaśa ādhyātmikāḥ ‖*
+
+That is: mantras are of many kinds according to their meaning—daivata-mantra, stuti-mantra, āśīr-mantra, śapatha, abhiśāpa, kaścid-bhāva, paridevanā, nindā and praśaṃsā. A daivata-mantra is a mantra describing the greatness of the deities; stuti is a mantra containing praise (stotra) or prayers; āśīḥ is blessing, a mantra wishing good; śapatha is a vow or promise; abhiśāpa is an evil wish (a curse); kaścid-bhāva is the statement of some matter or principle; paridevanā is lament or distress; nindā is blame, censure; praśaṃsā is praise, such as the dāna-stuti, and so on.
+
+Among the many kinds of mantras mentioned above, the Ṛks called daivata are of three kinds: parokṣakṛta, pratyakṣakṛta and ādhyātmika. Parokṣakṛta means mantras in which, because the deity praised is not present before the speaker, nouns in the third person and verbs are used with reference to that deity while praising (Third person both in subject and predic.te [sic]). Pratyakṣakṛta means Ṛks that praise by imagining the deity praised as present before one's eyes and addressing it with second-person words (Second person) such as "you" and "your". Ādhyātmika means mantras that praise by using the first person (First person). Among these three kinds of mantras, the two kinds, parokṣakṛta and pratyakṣakṛta, are the more numerous; the ādhyātmika mantras are very few. In the present sūkta the first 14 Ṛks are parokṣakṛta mantras. The last, the 15th Ṛk, is pratyakṣakṛta.
+
+*(A short rule closes Sūkta 12.)*
+
+---
+
+### Printed p. 683 (PDF 706)
+
+*(Header: "A. 2 A. 6 V. 10 ]" [unzoomed], "Ṛgvedasaṃhitā", "683".)*
+
+## The thirteenth Sūkta (हदिमूरनेय सूक्तवु)
+
+*(Ṛṣi Gṛtsamada; devatā Indra; Ṛks 1–12 jagatī, Ṛk 13 triṣṭubh; 13 Ṛks; second Anuvāka, second Sūkta: all as stated in the bhāṣya and the Anuvāda below.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: A Gṛtsamada sūkta of 13 Ṛks to Indra, the last a triṣṭubh and the rest jagatī; used in the Acchāvāka's śastra at the third savana of the Ukthya, and on the sixth day of the Daśarātra.*
+
+*(Reading notes: the Anukramaṇikā words "सप्तोनान्त्या" and the word "देवता" [printed perhaps "धेवता", read as देवता] are as read; "मर्तो" is read as printed [?]. The sūtra references printed: "आ. ६-१" and "आ. ८-४", both agreeing with the numeral file.)*
+
+> ऋतुर्जनित्रीति त्रयोदशर्चं द्वितीयं सूक्तं गात्समदं । ऋतुः सप्तोनान्त्या त्रिष्टुबित्यनुक्रमणिका । अस्मभ्यं तद्वसो इति त्रयोदशी त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । इन्द्रो देवता ॥ उक्थ्ये तृतीयसवनेऽच्छावाकशस्त्रेऽस्य सूक्तस्य विनियोगः । सूत्रितं च । ऋतुर्जनित्री नो मर्तो भवा मित्रः । आ. ६-१ । इति ॥ दशरात्रे षष्ठेऽहन्यपि तृतीयसवनेऽच्छावाकशस्त्र एतत्सूक्तं । ऋतुर्जनित्रीति नित्यान्यैकाहिकानि । आ. ८-४ । इति सूत्रितं ॥
+
+**Anuvāda (as printed in Kannada, rendered)**
+
+Anuvāda—This sūkta beginning ऋतुर्जनित्री (*ṛturjanitrī*) is the second sūkta in the second Anuvāka. It has thirteen Ṛks. The ṛṣi of this sūkta is Gṛtsamada. Since the Anukramaṇikā says ऋतुः सप्तोनान्त्या त्रिष्टुप् (*ṛtuḥ saptonāntyā triṣṭup*), the last Ṛk, the thirteenth, beginning अस्मभ्यं तद्वसो (*asmabhyaṃ tadvaso*), is in triṣṭubh metre; the remaining twelve Ṛks are in jagatī metre. Indra is the deity. That this sūkta is applied (viniyoga) to the śastra-mantras to be recited by the ṛtvij called Acchāvāka at the third savana in the Ukthya sacrifice is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, ऋतुर्जनित्री नो मर्तो भवा मित्रः (*ṛturjanitrī no marto bhavā mitraḥ*) (Ā. 6-1); and that this sūkta is to be recited among the śastra-mantras recited by the ṛtvij called Acchāvāka at the third savana on the sixth day of the sacrifice called Daśarātra is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, ऋतुर्जनित्रीति नित्यान्यैकाहिकानि (*ṛturjanitrīti nityānyaikāhikāni*) (Ā. 8-4).
+
+*(The page ends here; Ṛk 1 of this sūkta begins on p. 684.)*
+
+---
+
+---
+
+### Printed p. 684 (PDF 707)
+
+*(Header: "684", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [read from the strip; the file has no row for it].)*
+
+**॥ ॐ ॥**
+
+**सूक्त—१३** (*Sūkta 13*)
+
+*(Printed heading block, rendered: Maṇḍala 2 ‖ Anuvāka 2 ‖ Sūkta 13. Aṣṭaka 2 ‖ Adhyāya 6 ‖ Varga 10, 11, 12. Number of Ṛks in the sūkta: 13. Ṛṣi: गृत्समदः (*gṛtsamadaḥ*). Devatā: इन्द्रः (*indraḥ*). Chandas: Ṛks 1–12 जगती (*jagatī*); Ṛk 13 त्रिष्टुप् (*triṣṭup*). The numerals "13" and "1–12" agree with the numeral file; Maṇḍala, Anuvāka, Aṣṭaka, Adhyāya and varga numbers were read from the strip without zoom.)*
+
+---
+
+#### Ṛk 1
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents and the underlines are not reproduced. "मक्षू" is read as printed [the Saṃhitā has the long ū-sign, the Pada the short one]; the Kannada *ma* carries a hook like the u-sign.)*
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒तुर्जनि॑त्री॒ तस्या॑ अ॒पस्परि॑ म॒क्षू जा॒त आवि॑श॒द्यासु॒ वर्ध॑ते ।
+> तदा॑ह॒ना अ॑भवत्पि॒प्युषी॒ पयों॒ऽशोः पी॒यूषं॑ प्रथ॒मं तदु॒क्थ्यं॑
+
+> *ṛturjanitrī tasyā apaspari makṣū jāta āviśadyāsu vardhate |*
+> *tadāhanā abhavatpipyuṣī payoṃ 'śoḥ pīyūṣaṃ prathamaṃ tadukthyaṃ*
+
+**॥ पदपाठः ॥**
+
+> ऋतुः । जनित्री । तस्याः । अपः । परि । मक्षु । जातः । आ । अविशत् । यासु । वर्धते ।
+> तत् । आहनाः । अभवत् । पिप्युषी । पयः । अंशोः । पीयूषं । प्रथमं । तत् । उक्थ्यं ॥ १ ॥
+
+> *ṛtuḥ | janitrī | tasyāḥ | apaḥ | pari | makṣu | jātaḥ | ā | aviśat | yāsu | vardhate |*
+> *tat | āhanāḥ | abhavat | pipyuṣī | payaḥ | aṃśoḥ | pīyūṣaṃ | prathamaṃ | tat | ukthyaṃ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: The rainy season is Soma's mother; Soma born of her quickly entered the waters in which it grows, and so becomes fit for pressing; the plant's essence is Indra's choicest offering.*
+
+*(Reading notes: "पिप्युषी" is read with the printed hook as the u-sign [?]; in the grammatical tail the rule-word "लद्यजोश्च" is doubtful [?]; no sūtra numbers are printed there; the reference "९-७५-५" is as printed. The tail explains पिप्युषी: the root प्याय् in the perfect with the kvasu affix, the substitution पी, the samprasāraṇa of the vasu affix, and the feminine ending ङीप् [characterised only].)*
+
+> ऋतुर्वर्षाख्यः कालो जनित्री सोमस्य जनयित्री जननी भवति । तस्याः परि तस्या जनन्याः सकाशाज्जातः सोमोऽपि उदकानि मक्षु शीघ्रमाविशत् । यास्वप्सु सोमो वर्धते ता अविशदित्यन्वयः । तस्मादप्सु प्रविष्टत्वात् सोम आहना आहन्तव्योऽभिषोतव्यो भवति । आहना इति सकारान्तमिदं पदं । तथा च मन्त्रवर्णः । येते मदा आहनसो विहायसः । ९-७५-५ । इति । या चांशुरूपा सोमलता पयः सारभूतं पिप्युषी वर्धयन्त्यभवत् ॥ प्यायतेर्लिटि क्वसौ लद्यजोश्चेति पीभावः । वसोः संप्रसारणं । उगितश्चेति ङीप् ॥ अंशोस्तस्याः सोमलतायाः पीयूषं रसभूतं पय उक्थ्यं प्रशस्यं हविरिन्द्रस्य भवति ॥
+
+> *ṛturvarṣākhyaḥ kālo janitrī somasya janayitrī jananī bhavati | tasyāḥ pari tasyā jananyāḥ sakāśājjātaḥ somo 'pi udakāni makṣu śīghramāviśat | yāsvapsu somo vardhate tā aviśadityanvayaḥ | tasmādapsu praviṣṭatvāt soma āhanā āhantavyo 'bhiṣotavyo bhavati | āhanā iti sakārāntamidaṃ padaṃ | tathā ca mantravarṇaḥ | yete madā āhanaso vihāyasaḥ | 9-75-5 | iti | yā cāṃśurūpā somalatā payaḥ sārabhūtaṃ pipyuṣī vardhayantyabhavat ‖ pyāyaterliṭi kvasau ladyajośceti pībhāvaḥ | vasoḥ saṃprasāraṇaṃ | ugitaśceti ṅīp ‖ aṃśostasyāḥ somalatāyāḥ pīyūṣaṃ rasabhūtaṃ paya ukthyaṃ praśasyaṃ havirindrasya bhavati ‖*
+
+---
+
+### Printed p. 685 (PDF 708)
+
+*(Header: "Ā. 2 A. 6 V. 10 ]" [unzoomed], "Ṛgvedasaṃhitā", "685". No numeral-file rows for this page.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋतुः (*ṛtuḥ*)—the rainy season. जनित्री (*janitrī*)—is the mother of Soma (is the producing season). तस्याः परि (*tasyāḥ pari*)—from that mother. जातः (*jātaḥ*)—the Soma that is born. यासु (*yāsu*)—in which waters. वर्धते (*vardhate*)—it grows. अपः (*apaḥ*)—such waters. मक्षु (*makṣu*)—quickly. आ विशत् (*ā viśat*)—enters, and. तत् (*tat*)—that. आहनाः (*āhanāḥ*)—becomes fit for pressing (that same Soma plant). पयः (*payaḥ*)—as being the essence. पिप्युषी (*pipyuṣī*)—as being one that grows. अभवत् (*abhavat*)—becomes. अंशोः (*aṃśoḥ*)—of that same Soma plant. पीयूषं (*pīyūṣaṃ*)—that which is the essence. प्रथमं (*prathamaṃ*)—and the chief, तत् (*tat*)—that juice. उक्थ्यं (*ukthyaṃ*)—becomes worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+The season called the rains is the mother of Soma. The Soma born of that mother quickly enters the waters in which it grows. And, being the essence and one that increases, it becomes fit for pressing. That juice, the essence and the chief part of the Soma plant, is worthy of praise.
+
+**English Translation** *(as printed)*
+
+The season (of the rains) is the parent (of the Soma plant), which, as soon as born of her, enters into the waters in which it grows; thence it is fit for expression, as concentrating (the essence of the) water; and the juice of the Soma is especially to be praised (as the libation proper for Indra).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋतुर्जनित्री (*ṛturjanitrī*)—The rainy season is the mother of Soma. That is, just as other plants grow in the rainy season, the Soma plant also grows well with the rain-water and flourishes. For this reason the ṛṣi describes the rainy season as the mother of Soma. Although there is no word in this Ṛk that denotes the Soma plant, the words आहनाः (*āhanāḥ*) पयः (*payaḥ*) अंशोः (*aṃśoḥ*) are present, which help the explanation relating to Soma juice, and the Ṛk too speaks only of the pressing of Soma. So, to complete the sentence "ऋतुः सोमस्य जनित्री (*ṛtuḥ somasya janitrī*)", the word सोमस्य (*somasya*) must be supplied (adhyāhāra).
+
+तस्याः अपः परि मक्षु जातः आ अविशत् यासु वर्धते (*tasyāḥ apaḥ pari makṣu jātaḥ ā aviśat yāsu vardhate*)—The Soma plant growing in that rainy season grows only by the support of water, and so "entered the waters": that is, the sap (water) filled the creeper and it grew strong. This is the meaning intended. Whatever plant it may be, in the rainy season it not only grows well with the help of water, but becomes moist, green and juicy. The Soma plant too grows well in the rainy season and is full of sap. The ṛṣi describes in a different way the very fact that the creeper is full of sap: "growing in water, it entered the water itself."
+
+*(The passage continues on p. 686.)*
+
+---
+
+### Printed p. 686 (PDF 709)
+
+*(Header: "686", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [unzoomed].)*
+
+*(Continuation of the Viśeṣa passage begun on p. 685.)*
+
+तत् आहनाः (*tat āhanāḥ*)—तस्मादप्सु प्रविष्टत्वात् सोम आहना आहन्तव्योऽभिषोतव्यो भवति । आहना इति सकारान्तमिदं पदं । तथा च मन्त्रवर्णाः । येते मदा आहनसो विहायसः । (*tasmādapsu praviṣṭatvāt soma āhanā āhantavyo 'bhiṣotavyo bhavati | āhanā iti sakārāntamidaṃ padaṃ | tathā ca mantravarṇāḥ | yete madā āhanaso vihāyasaḥ |*) (Ṛ. Saṃ. 9-75-5) *(as printed)*—Because the Soma plant is full of water (sap), it must be pounded to bring the sap out; that is, it must be beaten well with stones and crushed. When it is so crushed, the sap flows out from the creeper. This act is called आहनाः (*āhanāḥ*) or अभिषवणं (*abhiṣavaṇaṃ*) (pressing). The commentator has said that आहनाः (*āhanāḥ*) is a word ending in *s* and is in the nominative singular. In this matter, citing the Ṛk—
+
+येते मदा आहनसो विहायसस्तेभिरिन्द्रं चोदय दातवे मघं ।
+
+(Ṛ. Saṃ. 9-75-5) *(as printed)*
+
+he has shown that the word आहनसः (*āhanasaḥ*) occurring in it is a word ending in *s*, a plural in the nominative.
+
+अभवत् पिप्युषी पयः अंशोः पीयूषं प्रथमं तत् उक्थ्यं (*abhavat pipyuṣī payaḥ aṃśoḥ pīyūṣaṃ prathamaṃ tat ukthyaṃ*)—या चांशुरूपा सोमलता पयः सारभूतं पिप्युषी वर्धयन्त्यभवत् । अंशोस्तस्याः सोमलतायाः पीयूषं रसभूतं पय उक्थ्यं प्रशस्यं हविरिन्द्रस्य भवति (*yā cāṃśurūpā somalatā payaḥ sārabhūtaṃ pipyuṣī vardhayantyabhavat | aṃśostasyāḥ somalatāyāḥ pīyūṣaṃ rasabhūtaṃ paya ukthyaṃ praśasyaṃ havirindrasya bhavati*)—For the word अंशु (*aṃśu*) Yāska has said—
+
+अंशुः शमष्णमात्रो भवति । अननायु शं भवतीति वा । [?]
+
+(Nirukta 2-5) *(as printed; the reading of the first sentence is doubtful [?])*
+
+Since this Soma juice pervades the sacrificer (is spread in the sacrificer) — that is, since the sacrificer, by drinking Soma, becomes happy, thinking "I have no sorrow or worry" — Soma is called अंशु (*aṃśu*); or, since it pervades the sacrificer and makes happiness, Soma is called अंशु (*aṃśu*); or, since it makes happiness in the life of all creatures (when Soma is drunk), it is called अंशु (*aṃśu*); or, since it makes happiness for those who have drunk Soma, Soma is called अंशु (*aṃśu*): thus the derivation has been given. From such a juice-rich Soma plant, the sap which is its essence, or the Soma juice, increases (by pressing). That is, because the Soma creepers, moist, green and wholly filled with sap, are crushed with stones and the sap is pressed out, the Soma juice increases abundantly; this is the summary. The Soma juice prepared in this way becomes a praiseworthy, or excellent, or drinkable oblation (food) for Indra: this is the main intention.
+
+---
+
+---
+
+### Printed p. 687 (PDF 710)
+
+*(Header: "A. 2 A. 6 V. 10 ]" [unzoomed], "Ṛgvedasaṃhitā", "687". The numeral file has no row for this page. Accents and underlines are not reproduced. The captions "Saṃhitāpāṭha" and "Padapāṭha" are printed.)*
+
+#### Ṛk 2
+
+*(Reading notes: the Saṃhitā has "भरन्त" but the Pada, as read, has "भरन्ते" [?]. The Pada form "अनुष्यदे", with its odd printed subscript, is read as in the Pratipadārtha. The Saṃhitā "प्रवतामनुष्यदे" is read from a closely set line [?].)*
+
+**॥ संहितापाठः ॥**
+
+> स॒ध्रीमा य॑न्ति॒ परि॒ बिभ्र॑तीः॒ पयो॑ वि॒श्वप्स्न्या॑य॒ प्र भ॑रन्त॒ भोज॑नं ।
+> स॒मा॒नो अध्वा॑ प्र॒वता॑मनु॒ष्यदे॒ यस्ताकृ॑णोः प्रथ॒मं सास्यु॒क्थ्यः॑ ॥ २ ॥
+
+> *sadhrīmā yanti pari bibhratīḥ payo viśvapsnyāya pra bharanta bhojanaṃ |*
+> *samāno adhvā pravatāmanuṣyade yastākṛṇoḥ prathamaṃ sāsyukthyaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> सध्री । ईं । आ । यन्ति । परि । बिभ्रतीः । पयः । विश्वप्स्न्याय । प्र । भरन्ते [?] । भोजनं ।
+> समानः । अध्वा । प्रवतां । अनुष्यदे । यः । ता । अकृणोः । प्रथमं । सः । असि । उक्थ्यः ॥ २ ॥
+
+> *sadhrī | īṃ | ā | yanti | pari | bibhratīḥ | payaḥ | viśvapsnyāya | pra | bharante [?] | bhojanaṃ |*
+> *samānaḥ | adhvā | pravatāṃ | anuṣyade | yaḥ | tā | akṛṇoḥ | prathamaṃ | saḥ | asi | ukthyaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: The rivers, flowing together and bearing water on all sides, fill the ocean, the resort of all waters, with food; their one common downward path was made by Indra, who is therefore praised.*
+
+*(Reading notes: "अञ्चतेर्ळुक्" is read with the printed ळ. "अनुष्यन्दनीयः" is read from the printed "असुष्यन्दनीयः"; the first letter is doubtful [?]. "तवैकेन्केन्यत्वनः" is as printed. No sūtra numbers are printed. The grammatical tail is characterised only: it explains सध्री as an Vedic form with the loss of the final nasal-syllable [ळुक्] of the root अञ्च्, with the substitution सध्र्यादेश for सह, and the कृत्यार्थे affix [केन्] in अनुष्यदे.)*
+
+> सध्री । अञ्चतेर्ळुक् छान्दसः । सहस्य सध्रिरिति सध्र्यादेशोऽन्तोदात्तत्वेन निपातितः । सध्रीचीनाः पय उदकं परि परितो बिभ्रतीर्बिभ्राणा ईमेता नद्य आयन्ति । सर्वतो गच्छन्ति । ता नद्यो विश्वप्स्न्याय विश्वासामपामाश्रयभूताय समुद्राय भोजनं ॥ भुज्यत इति भोजनं पयः ॥ प्रभरन्त । प्रकर्षेण संपादयन्ति । कुत एतत् तदाह । प्रवतां प्रवणवतां निम्नगानां पयसामनुष्यदे ॥ कृत्यार्थे तवैकेन्केन्यत्वन इति केन्प्रत्ययः ॥ अनुष्यन्दनीयो [?] ऽध्वा मार्गः समान एको हि । यस्ता तानि सोमोत्पादननदीप्रवर्तनादीनि कर्माणि प्रथमं पूर्वमकृणोः । अकरोः । स ताद्दृङ्महिनोपेतस्त्वमुक्थ्योऽसि । सर्वैः प्रशस्यो भवसि ॥
+
+> *sadhrī | añcaterḷuk chāndasaḥ | sahasya sadhririti sadhryādeśo 'ntodāttatvena nipātitaḥ | sadhrīcīnāḥ paya udakaṃ pari parito bibhratīrbibhrāṇā īmetā nadya āyanti | sarvato gacchanti | tā nadyo viśvapsnyāya viśvāsāmapāmāśrayabhūtāya samudrāya bhojanaṃ ‖ bhujyata iti bhojanaṃ payaḥ ‖ prabharanta | prakarṣeṇa saṃpādayanti | kuta etat tadāha | pravatāṃ pravaṇavatāṃ nimnagānāṃ payasāmanuṣyade ‖ kṛtyārthe tavaikenkenyatvana iti kenpratyayaḥ ‖ anuṣyandanīyo [?] 'dhvā mārgaḥ samāna eko hi | yastā tāni somotpādananadīpravartanādīni karmāṇi prathamaṃ pūrvamakṛṇoḥ | akaroḥ | sa tāddṛṅmahinopetastvamukthyo 'si | sarvaiḥ praśasyo bhavasi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सध्री (सध्री (*sadhrī*))—flowing together, joined (the rivers); पयः (पयः (*payaḥ*))—water; परि (परि (*pari*))—all around; बिभ्रतीः (बिभ्रतीः (*bibhratīḥ*))—bearing; ईं (ईं (*īṃ*))—these rivers; आ यन्ति (आ यन्ति (*ā yanti*))—spread out and flow (and); विश्वप्स्न्याय (विश्वप्स्न्याय (*viśvapsnyāya*))—to the ocean, the support of all waters; भोजनं (भोजनं (*bhojanaṃ*))—water; प्र भरन्त (प्र भरन्त (*pra bharanta*))—fill fully; प्रवतां (प्रवतां (*pravatāṃ*))—for the waters that flow to low-lying regions; अनुष्यदे (अनुष्यदे (*anuṣyade*))—meant for flowing; अध्वा (अध्वा (*adhvā*))—the path; समानः (समानः (*samānaḥ*))—has one form; यः (यः (*yaḥ*))—who; ता (ता (*tā*))—such, (continued on p. 688)
+
+---
+
+### Printed p. 688 (PDF 711)
+
+*(Header: "688", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [last numerals unzoomed]. The numeral file has no row for this page.)*
+
+—such works favourable to the flow; प्रथमं (प्रथमं (*prathamaṃ*))—first; अकृणोः (अकृणोः (*akṛṇoḥ*))—did; सः (सः (*saḥ*))—such an Indra, you; उक्थ्यः असि (उक्थ्यः असि (*ukthyaḥ asi*))—are worthy of praise (by all).
+
+**भावार्थ (Bhāvārtha)**
+
+The rivers, flowing together and holding water fully, spread out and flow. And they fill the ocean, the support of all waters, completely with water. The path meant for the flow of the waters that run to low-lying regions is of one form only. You, such an Indra, who first made such works favourable to the flow, are worthy of praise.
+
+**English Translation** *(as printed)*
+
+The aggregated (streams) come, bearing everywhere the water, and conveying it as sustenance for the asylum of all rivers, (the ocean); the same path is (assigned) to all the descending (currents) to follow; and as he, who has (assigned) them (their course), you, (Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सध्री ईं आ यन्ति परि बिभ्रतीः पयः (*sadhrī īṃ ā yanti pari bibhratīḥ payaḥ*)—The rivers that flow in the rainy season fill their wide beds with the water that falls everywhere on the earth from the rain, and flow on. That is, all the rain-water that falls on the earth comes and joins the rivers. "Round about" in this way means: the waters that come flowing and joining from their left and right sides; "bearing" means: the rivers, filling their beds with them, flow on.
+
+विश्वप्स्न्याय प्र भरन्त भोजनं (*viśvapsnyāya pra bharanta bhojanaṃ*)—ता नद्यो विश्वप्स्न्याय विश्वासामपामाश्रयभूताय समुद्राय भोजनं प्र भरन्त प्रकर्षेण संपादयन्ति (*tā nadyo viśvapsnyāya viśvāsāmapāmāśrayabhūtāya samudrāya bhojanaṃ pra bharanta prakarṣeṇa saṃpādayanti*)—Where do the rivers flowing in this way go? All of these flow in order to supply and fill with water the ocean, the support of all waters.
+
+विश्वप्स्न्याय (*viśvapsnyāya*)—विश्वासामपामाश्रयभूताय समुद्राय (*viśvāsāmapāmāśrayabhūtāya samudrāya*). The meaning is: to the ocean, the support of the whole mass of water. If it is said that the water that falls from the sky as rain and the water that flows in the river is different (since it is sweet), and so this water has not resorted to the ocean—it is not so. The rain-water and the river-water were at one time the water of the ocean itself. How? By the sharp rays of the sun the water of the ocean is dried up and, through the air, drawn up in the form of vapour and changed in the sky into the form of clouds. From those clouds rain
+
+*(The passage continues on p. 689.)*
+
+---
+
+### Printed p. 689 (PDF 712)
+
+*(Header: "A. 2 A. 6 V. 10 ]" [read from the strip], "Ṛgvedasaṃhitā", "689". FILE DISAGREE: the numeral file row for the header gives "2.8.6"; the strip, read without zoom, shows A. 2 A. 6 V. 10, which was kept.)*
+
+(Continuation of the Viśeṣa passage, from p. 688:) arises, and that water falls on the earth, flows, and reaches some river. If that river, flowing in the low-lying region, is a tributary it reaches the big river; or if it is a big river it flows on of itself and at last reaches the ocean. The final resting-place of all rivers is the ocean itself. Therefore the ocean is said to be the support of all the mass of water that is on the earth or in the sky (in the form of clouds).
+
+भोजनं (*bhojanaṃ*)—भुज्यत इति भोजनं पयः (*bhujyata iti bhojanaṃ payaḥ*). A thing that is eaten, a substance in the form of food, is called *bhojana*. Here the thing needed by the ocean is water. As the stomach is filled by food for animals or human beings, so the ocean is filled by water. "Water is food for the ocean" means: the waters that the rivers bring and fill are in the form of food for the ocean—that is, waters brought and filled for the sake of filling it. The sentence विश्वप्स्न्याय प्र भरन्त भोजनं (*viśvapsnyāya pra bharanta bhojanaṃ*) used here by the ṛṣi, with words full of meaning and with a simile full of feeling, shows the ṛṣi's excellent skill in composition and his mastery of poetry.
+
+समानः अध्वा प्रवतां अनुष्यदे यः ता अकृणोः प्रथमं सः असि उक्थ्यः (*samānaḥ adhvā pravatāṃ anuṣyade yaḥ tā akṛṇoḥ prathamaṃ saḥ asi ukthyaḥ*)—The path of the flowing water, or of the rivers, is the same; that is, since all the rivers flow only in low-lying regions—in regions that are lower—such a low path is the path by which the rivers go and reach the ocean. Who first made such a path (constructed it)—you, such an Indra, are worthy of praise: this is the main intention. The ṛṣi describes that Indra himself made the path by which the water of the rain, caused to fall from the clouds on the earth, flows as rivers and goes to the ocean, and that this unfathomable deed of Indra is praiseworthy.
+
+---
+
+#### Ṛk 3
+
+*(Reading note: the number of the Ṛk is not printed on this page; the Saṃhitā ends "॥" at the right margin, and the Pada breaks off at the end of the page. "तत्ऽअपाः" is read with the printed compound mark. At the foot of the page: "[44]" and "Vol. 14." [printer's marks].)*
+
+**॥ संहितापाठः ॥**
+
+> अन्वेको॑ वदति॒ यद्ददा॑ति॒ तद्रू॒पा मि॒नन्तद॑पा॒ एक॑ ईयते ।
+> विश्वा॒ एक॑स्य वि॒नुद॑स्तितिक्षते॒ यस्ताकृ॑णोः प्रथ॒मं सास्यु॒क्थ्यः॑ ॥
+
+> *anveko vadati yaddadāti tadrūpā minantadapā eka īyate |*
+> *viśvā ekasya vinudastitikṣate yastākṛṇoḥ prathamaṃ sāsyukthyaḥ ‖*
+
+**॥ पदपाठः ॥**
+
+> अनु । एकः । वदति । यत् । ददाति । तत् । रूपा । मिनन् । तत्ऽअपाः । एकः । ईयते ।
+
+> *anu | ekaḥ | vadati | yat | dadāti | tat | rūpā | minan | tat 'apāḥ | ekaḥ | īyate |*
+
+*(The Pada continues on p. 690.)*
+
+---
+
+### Printed p. 690 (PDF 713)
+
+*(Header: "690", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed]. The numeral file has no row for this page. The Ṛk number "3" is printed at the end of the Pada. Continuation of Ṛk 3: the second Pada line.)*
+
+> विश्वाः । एकस्य । विनुदः । तितिक्षते । यः । ता । अकृणोः । प्रथमं । सः । असि ।
+> उक्थ्यः ॥ ३ ॥
+
+> *viśvāḥ | ekasya | vinudaḥ | titikṣate | yaḥ | tā | akṛṇoḥ | prathamaṃ | saḥ | asi |*
+> *ukthyaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: The sacrificer's oblation is announced by the Hotṛ; the Adhvaryu goes about cutting the victim's limbs; the Brahman repairs the defects. Indra, who has all this done, is praised.*
+
+*(Reading notes: "एकोऽध्वर्युर्रूपा" is as printed. The tail "गुप्तिज्किद्भ्यः सन् क्षमायामिष्यते" is read with one doubtful letter group [?]. No sūtra numbers are printed. Its grammatical tail is only characterised: it says that the affix सन् is used after the roots गुप्, तिज्, कित् in the sense of forbearance, which gives तितिक्षते.)*
+
+> यजमानो यद्धविर्देवेभ्यो ददाति तदेको होतानुवदति । याज्यापुरोनुवाक्याभ्यां देवताः स्मारयति । एकोऽध्वर्युर्रूपा पश्वादीनां रूपाणि मिनन् हिंसन् तदपास्तद्विशसनाख्यमपः कर्म यस्य ताद्दृशः सन् ईयते । देवयजने सर्वत्र गच्छति । एकस्याध्वर्योर्विश्वा विनुदः सर्वाणि तत्कर्तृकाणि विक्षेपणरूपाणि कर्मवैगुण्यानि तितिक्षते । तद्योग्यप्रायश्चित्तकरणेन ब्रह्मा सहते ॥ गुप्तिज्किद्भ्यः सन् क्षमायामिष्यते [?] ॥ तानि हविष्प्रदानादीनि कर्माणि यस्त्वमकृणोः । अकारयः सः त्वमुक्थ्योऽसि ॥
+
+> *yajamāno yaddhavirdevebhyo dadāti tadeko hotānuvadati | yājyāpuronuvākyābhyāṃ devatāḥ smārayati | eko 'dhvaryurrūpā paśvādīnāṃ rūpāṇi minan hiṃsan tadapāstadviśasanākhyamapaḥ karma yasya tāddṛśaḥ san īyate | devayajane sarvatra gacchati | ekasyādhvaryorviśvā vinudaḥ sarvāṇi tatkartṛkāṇi vikṣepaṇarūpāṇi karmavaiguṇyāni titikṣate | tadyogyaprāyaścittakaraṇena brahmā sahate ‖ guptijkidbhyaḥ san kṣamāyāmiṣyate [?] ‖ tāni haviṣpradānādīni karmāṇi yastvamakṛṇoḥ | akārayaḥ saḥ tvamukthyo 'si ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यजमानः (*yajamānaḥ*)—the sacrificer; यत् (*yat*)—which oblation (offered to the gods); ददाति (*dadāti*)—he offers (or "does he offer"); तत् (*tat*)—that; एकः (*ekaḥ*)—the one among the priests, the Hotṛ; अनुवदति (*anuvadati*)—makes known (to the gods) by the yājyā and puronuvākyā; एकः (*ekaḥ*)—another, the Adhvaryu; रूपा (*rūpā*)—the limbs of the animal and the rest; मिनन् (*minan*)—harming (killing); तदपाः (*tadapāḥ*)—engaged in the work of cutting up the limbs of the animal for the sacrificial offering; ईयते (*īyate*)—runs about; एकस्य (*ekasya*)—of the Adhvaryu; विश्वाः विनुदः (*viśvāḥ vinudaḥ*)—all the defects in the rites; तितिक्षते (*titikṣate*)—(the priest in the form of Brahman) sets right by atonements and the like; यः (*yaḥ*)—which you; ता अकृणोः (*tā akṛṇoḥ*)—having done all these rites and having had them performed; सः (*saḥ*)—such you; प्रथमं (*prathamaṃ*)—chiefly; उक्थ्यः असि (*ukthyaḥ asi*)—are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+The Hotṛ, one of the priests, makes known to the gods, by the yājyā and puronuvākyā, the oblation that the sacrificer offers to them. Another, the Adhvaryu, is engaged in the work of cutting up the limbs of the animal and the like. The Brahman, a priest, sets right by atonements and the like all the defects of their rites. You, Indra, who have done all these rites and have had them performed, are chiefly worthy of praise.
+
+**English Translation** *(as printed)*
+
+One (priest) announces (the offering) that he, (the institutor of the rite) presents; another performs the act that apportions the limbs (of the victim);
+
+*(The printed English continues on p. 691.)*
+
+---
+
+### Printed p. 691 (PDF 714)
+
+*(Header: "A. 2 A. 6 V. 10 ]" [unzoomed], "Ṛgvedasaṃhitā", "691". The numeral file has no row for this page.)*
+
+a third corrects all the deficiencies of either, and as he, who has enjoyed these (functions), you, (Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the ṛṣi describes the quality of Indra: the rites that the priests, the sacrificer, the Hotṛ, the Adhvaryu and the others, perform in the sacrifice, Indra has done by each of them, and he himself becomes pleased.
+
+अनु एकः वदति यत् ददाति (*anu ekaḥ vadati yat dadāti*)—
+
+> यजमानो यद्धविर्देवेभ्यो ददाति तदेको होतानुवदति । याज्यापुरोनुवाक्याभ्यां देवताः स्मारयति ।
+
+> *yajamāno yaddhavirdevebhyo dadāti tadeko hotānuvadati | yājyāpuronuvākyābhyāṃ devatāḥ smārayati |*
+
+In the sacrifice, when the sacrificer offers to the gods oblations, ājyāhuti and the like in the fire, mantras addressed to the deity must be recited, suited to each time and each rite. Of the priests, the Hotṛ recites such mantras. First, to whichever deity the sacrificer offers the oblation, the Hotṛ recites the mantra called निविद् (*nivid*), which is in the form of a song of praise to that deity. Afterwards he recites the mantra called पुरोनुवाक्या (*puronuvākyā*), in the form of praise or invocation of that deity, and invites the deity to come to the sacrificial ground. After the invocation of the deity, when the oblation is offered in the fire, the Hotṛ recites the Ṛk called याज्या (*yājyā*), whose meaning is that the deity should accept the oblation. In the case of every deity this same order is followed when the oblation is offered. Therefore the main intention is this: by the words यद्ददाति (*yaddadāti*) here, "whatever oblation the sacrificer offers", and by अन्वेको वदति (*anveko vadati*), "in accordance with that", that is, mantras containing that same meaning, one (that is, the Hotṛ, one of the priests) recites.
+
+(अनु एकः यत् ददाति (*anu ekaḥ yat dadāti*)) तद्रूपा मिनन् तदपा एक ईयते (*tadrūpā minan tadapā eka īyate*)—
+
+> एकोऽध्वर्युर्रूपा पश्वादीनां रूपाणि मिनन् हिंसन् तदपास्तद्विशसनाख्यमपः कर्म यस्य ताद्दृशः सन् ईयते देवयजने सर्वत्र गच्छति ।
+
+> *eko 'dhvaryurrūpā paśvādīnāṃ rūpāṇi minan hiṃsan tadapāstadviśasanākhyamapaḥ karma yasya tāddṛśaḥ san īyate devayajane sarvatra gacchati |*
+
+The commentator has explained the sense thus: after the Hotṛ has recited the mantra suited to the time or to the rite, the priest called Adhvaryu, becoming engaged in the work of killing the animal, and doing such things as cutting up the limbs of the animal according to the rule, in order to offer them separately in the oblations, runs about here and there on the sacrificial ground. A doubt arises here. In this sentence the word अध्वर्युः (*adhvaryuḥ*) is not used. And the words तद्रूपा मिनन्तदपाः (*tadrūpā minantadapāḥ*) mean: "killing (that is, slaying) the animal form, and doing the works connected with it, such as cutting up the limbs". Neither slaying the animal in the sacrifice nor cutting up its limbs is the work of the priest called Adhvaryu. There is one called Śamitā to do this work. Present
+
+*(The passage continues on p. 692.)*
+
+---
+
+### Printed p. 692 (PDF 715)
+
+*(Header: "692", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed]. The numeral file has one row, for the Nirukta reference "3-1" on this page; it agrees with the strip.)*
+
+in the Ṛk the word अध्वर्युः (*adhvaryuḥ*) is absent, and since the one who slays the animal is the so-called Śamitā, the Śamitā himself may be what is meant by the word एकः (*ekaḥ*) here. Or, since it is not impossible that the Adhvaryu on some occasions does the work of the other priests, the Adhvaryu himself may also be what is indicated here. At any rate the meaning of the word एकः (*ekaḥ*) in this sentence remains doubtful.
+
+तद्रूपा मिनन् तदपाः (*tadrūpā minan tadapāḥ*)—Here Sāyaṇa has explained the words तद्रूपा (*tadrūpā*) as the form (body) of animals and the like, and तदपः (*tadapaḥ*), that is तद्विशसनाख्यमपः (*tadviśasanākhyamapaḥ*), as the work of cutting it up. The word अपः (*apaḥ*) is read among the names of works (Ni. 3-1) *(as printed)*. Although the word "animal" is not present in this sentence, since the word मिनन् (*minan*), "harming", is used, there is no objection to taking तद्रूपा (*tadrūpā*) to mean "the form of the animal".
+
+विश्वाः एकस्य विनुदः तितिक्षते (*viśvāḥ ekasya vinudaḥ titikṣate*)—
+
+> एकस्याध्वर्योर्विश्वा विनुदः सर्वाणि तत्कर्तृकाणि विक्षेपणरूपाणि कर्मवैगुण्यानि तितिक्षते । तद्योग्यप्रायश्चित्तकरणेन ब्रह्मा सहते ।
+
+> *ekasyādhvaryorviśvā vinudaḥ sarvāṇi tatkartṛkāṇi vikṣepaṇarūpāṇi karmavaiguṇyāni titikṣate | tadyogyaprāyaścittakaraṇena brahmā sahate |*
+
+In the sacrifice, when through carelessness deficiency or deviation arises in the various rites, the priest called Brahman sets them right by atonements and the like. That is the Brahman's very work. Since in the sacrifice the Adhvaryu has to do many different works, it is not impossible that many slips occur. The main intention of this sentence is that the priest called Brahman sets right such works, and the deficiencies that occur in the works done by the other priests.
+
+यः ता अकृणोः प्रथमं सः असि उक्थ्यः (*yaḥ tā akṛṇoḥ prathamaṃ saḥ asi ukthyaḥ*)—The works done by the three priests mentioned above, you, Indra, bring about by your own impulse. Therefore, as one endowed with such qualities, you are worthy of praise: thus Indra is praised.
+
+---
+
+#### Ṛk 4
+
+*(Reading notes: the Ṛk number "4" is printed at the end of the Saṃhitā. The Saṃhitā word "असिन्वन्दंष्ट्र्यः" is read from the line as printed, with doubt about the letters before "दंष्ट्र्यः" [?]; the Pada, which follows on the next page, will show the word division. In "प्रभवन्तमायते" the printed hook on *ma* and *ya* is not the vowel *u*. The Pada, the bhāṣya and the rest continue on p. 693.)*
+
+**॥ संहितापाठः ॥**
+
+> प्र॒जाभ्यः॑ पु॒ष्टिं वि॒भज॑न्त आसते र॒यिमि॑व पृ॒ष्ठं प्र॒भव॑न्तमाय॒ते ।
+> असि॑न्व॒न्दंष्ट्र्यः॑ [?] पि॒तुर॑त्ति॒ भोज॑नं॒ यस्ताकृ॑णोः प्रथ॒मं सास्यु॒क्थ्यः॑ ॥ ४ ॥
+
+> *prajābhyaḥ puṣṭiṃ vibhajanta āsate rayimiva pṛṣṭhaṃ prabhavantamāyate |*
+> *asinvandaṃṣṭryaḥ [?] pituratti bhojanaṃ yastākṛṇoḥ prathamaṃ sāsyukthyaḥ ‖ 4 ‖*
+
+---
+
+### Printed p. 693 (PDF 716)
+
+*(Header: "A. 2 A. 6 V. 10 ]", "Ṛgvedasaṃhitā", "693" [numerals unzoomed; the numeral file has no row for this page]. Continuation of Ṛk 4, whose Saṃhitā stands on p. 692. In the Pada the word-division is read as printed; a compound mark is printed in प्रऽजाभ्यः, विऽभजन्तः, रयिंऽइव, प्रऽभवन्तं and, apparently, आऽयते. No danda is printed between प्रभवन्तं and आयते, only a space. The ending of the word दंष्ट्र्यैः is read from the bhāṣya and Pratipadārtha, which have दंष्ट्र्यैः, "with the teeth"; in the Pada line the ending mark is not certain [?]. The Saṃhitā of this Ṛk, as written on p. 692, has the word as "असिन्वन्दंष्ट्र्यः [?]", and the Pada now shows the division असिन्वन् । दंष्ट्र्यैः.)*
+
+**॥ पदपाठः ॥**
+
+> प्रऽजाभ्यः । पुष्टिं । विऽभजन्तः । आसते । रयिंऽइव । पृष्ठं । प्रऽभवन्तं आऽयते ।
+> असिन्वन् । दंष्ट्र्यैः । पितुः । अत्ति । भोजनं । यः । ता । अकृणोः । प्रथमं । सः ।
+> असि । उक्थ्यः ॥ ४ ॥
+
+> *pra 'jābhyaḥ | puṣṭiṃ | vi 'bhajantaḥ | āsate | rayiṃ 'iva | pṛṣṭhaṃ | pra 'bhavantaṃ ā 'yate |*
+> *asinvan | daṃṣṭryaiḥ | pituḥ | atti | bhojanaṃ | yaḥ | tā | akṛṇoḥ | prathamaṃ | saḥ |*
+> *asi | ukthyaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Householders divide the wealth given by Indra among their dependents, as one gives to a guest. The world, or Agni, eats the food from the protecting sky with teeth (or with flames); Indra, who has done all this, is praised.*
+
+> हे इन्द्र पुष्टिं त्वयो दत्तं पोषकं धनं स्वकीयाभ्यः प्रजाभ्यो विभजन्तोऽस्यैतावदस्यैतावदिति विभागं कुर्वन्तो गृहमेधिन आसते । स्वस्वगृहेषु निवसन्ति । तत्र दृष्टान्तः । आयते गृहं प्रत्यागच्छतेऽतिथये पृष्ठं धारकं प्रभवन्तं बहुभरणसमर्थं रयिं धनं यथा विभज्य प्रयच्छन्ति तद्वत् । असिन्वन् सेतुबन्धादिकं कर्म कुर्वन् लोकः पितुः पालयित्र्या दिवः सकाशादागतं भोजनमुदकं तत्कार्या ओषधीर्दंष्ट्र्यैर्दन्तैरत्ति । भक्षयति । यद्वा असिन्वन् अव्याप्रियमाणोऽग्निः पितुः पालकस्य यजमानस्य सम्बन्धि भोजनं हविर्लक्षणमन्नं दंष्ट्र्यैर्दन्तरूपैर्ज्वालैरत्ति । यस्ताकृणोरित्यादि सिद्धम् ॥
+
+> *he indra puṣṭiṃ tvayo dattaṃ poṣakaṃ dhanaṃ svakīyābhyaḥ prajābhyo vibhajanto 'syaitāvadasyaitāvaditi vibhāgaṃ kurvanto gṛhamedhina āsate | svasvagṛheṣu nivasanti | tatra dṛṣṭāntaḥ | āyate gṛhaṃ pratyāgacchate 'tithaye pṛṣṭhaṃ dhārakaṃ prabhavantaṃ bahubharaṇasamarthaṃ rayiṃ dhanaṃ yathā vibhajya prayacchanti tadvat | asinvan setubandhādikaṃ karma kurvan lokaḥ pituḥ pālayitryā divaḥ sakāśādāgataṃ bhojanamudakaṃ tatkāryā oṣadhīrdaṃṣṭryairdantairatti | bhakṣayati | yadvā asinvan avyāpriyamāṇo 'gniḥ pituḥ pālakasya yajamānasya sambandhi bhojanaṃ havirlakṣaṇamannaṃ daṃṣṭryairdantarūpairjvālairatti | yastākṛṇorityādi siddham ‖*
+
+*(Reading note: "त्वयो दत्तं" is as printed; the same words are repeated on p. 694. No grammar is printed in the tail of this bhāṣya.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आयते (*āyate*)—to the guest who comes to the house. पृष्ठं (*pṛṣṭhaṃ*)—sufficient. प्रभवन्तं (*prabhavantaṃ*)—fit to support many people. रयिं (*rayiṃ*)—wealth, as if one were distributing it. पुष्टिं (*puṣṭiṃ*)—nourishing (wealth given by you). प्रजाभ्यः (*prajābhyaḥ*)—to sons and other progeny. विभजन्तः (*vibhajantaḥ*)—the sacrificers who divide and give. आसते (*āsate*)—live happily in their own houses. असिन्वन् (*asinvan*)—doing works such as the building of dams. पितुः (*pituḥ*)—given by the protecting world of the gods. भोजनं (*bhojanaṃ*)—water, and the food produced by it. दंष्ट्र्यैः (*daṃṣṭryaiḥ*)—with the help of teeth. अत्ति (*atti*)—(the world) eats. यः (*yaḥ*)—you who. ता अकृणोः (*tā akṛṇoḥ*)—have caused all these works to be done. सः (*saḥ*)—such you. प्रथमं (*prathamaṃ*)—chiefly. उक्थ्यः असि (*ukthyaḥ asi*)—are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificers divide the nourishing wealth given by you among their sons and other progeny, as one divides and gives to a guest who comes to the house wealth that is sufficient and fit to support many people; and they live happily in their own houses. Carrying out works such as the building of dams,
+
+*(The Bhāvārtha continues on p. 694.)*
+
+---
+
+### Printed p. 694 (PDF 717)
+
+*(Header: "694", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed; the numeral file has no row for this page].)*
+
+the world eats, with the help of its teeth, the water given by the protecting world of the gods and the food produced from it. You who have caused all these works to be done, such as you are, are chiefly praiseworthy.
+
+**English Translation** *(as printed)*
+
+Distributing nourishment to their progeny, they, (the householders), abide (in their dwellings), as if offering ample and sustaining wealth to a guest: constructing (useful works, a man) eats with his teeth the food (given him) by (his) protector, and as he, who has enjoined these (things to be done), you, (Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is not clear what subject the ṛṣi describes. The commentator has given one kind of meaning, but since the meanings of some words are not clear, it cannot be said that the ṛṣi's intention is just so.
+
+प्रजाभ्यः पुष्टिं विभजन्तः आसते (*prajābhyaḥ puṣṭiṃ vibhajantaḥ āsate*)—
+
+> हे इन्द्र त्वयो दत्तं पोषकं धनं स्वकीयाभ्यः प्रजाभ्यो विभजन्तोऽस्यैतावदस्यैतावदिति विभागं कुर्वन्तो गृहमेधिन आसते ।
+
+> *he indra tvayo dattaṃ poṣakaṃ dhanaṃ svakīyābhyaḥ prajābhyo vibhajanto 'syaitāvadasyaitāvaditi vibhāgaṃ kurvanto gṛhamedhina āsate |*
+
+O Indra, the householders divide the wealth you gave among those who are under their shelter—"this for you, that for him"—for everybody, and live happily in their own houses. Here "wealth" may mean substance, or food and the like. For the word पुष्टिं (*puṣṭiṃ*) suggests the meaning "food and such things as bring nourishment to the body". The chief intention is this: the sacrificers do not enjoy those things given by Indra by themselves alone; they divide them, according to each one's need, among those related to them—wife, sons, servants and the rest—and among the other people under their shelter, and, enjoying only a small share of it themselves, live happily in their own houses.
+
+रयिमिव पृष्ठं प्रभवन्तं आयते (*rayimiva pṛṣṭhaṃ prabhavantaṃ āyate*)—In the sentence just explained, an illustration is given here concerning the sacrificers' distributing the wealth:
+
+> आयते गृहं प्रत्यागच्छतेऽतिथये पृष्ठं धारकं प्रभवन्तं बहुभरणसमर्थं रयिं धनं यथा विभज्य प्रयच्छन्ति तद्वत् ।
+
+> *āyate gṛhaṃ pratyāgacchate 'tithaye pṛṣṭhaṃ dhārakaṃ prabhavantaṃ bahubharaṇasamarthaṃ rayiṃ dhanaṃ yathā vibhajya prayacchanti tadvat |*
+
+Just as the householders honour, according to rule, a guest or visitor who has come to their house and give him, from a sense of duty (dharma), the food and the wealth he needs, so they divide the wealth given by Indra among those who are under their shelter: so the illustration is said. This illustration is not very meaningful.
+
+---
+
+### Printed p. 695 (PDF 718)
+
+*(Header: "A. 2 A. 6 V. 10 ]", "Ṛgvedasaṃhitā", "695" [unzoomed]. The reference numerals "10-79-1" and "6-4" below were taken from the numeral file and agree with what the strip appears to show; not zoomed.)*
+
+असिन्वन् दंष्ट्र्यैः पितुः अत्ति भोजनं (*asinvan daṃṣṭryaiḥ pituḥ atti bhojanaṃ*)—The meaning that the commentator has explained for this sentence is not suited to the context, and it is contrary to Yāska's explanation.
+
+> असिन्वन् सेतुबन्धादिकं कर्म कुर्वन् लोकः पितुः पालयित्र्या दिवः सकाशादागतं भोजनमुदकं तत्कार्या ओषधीर्दंष्ट्र्यैर्दन्तैरत्ति । भक्षयति । यद्वा असिन्वन् अव्याप्रियमाणोऽग्निः पितुः पालकस्य यजमानस्य सम्बन्धि भोजनं हविर्लक्षणमन्नं दंष्ट्र्यैर्दन्तरूपैर्ज्वालैरत्ति ।
+
+> *asinvan setubandhādikaṃ karma kurvan lokaḥ pituḥ pālayitryā divaḥ sakāśādāgataṃ bhojanamudakaṃ tatkāryā oṣadhīrdaṃṣṭryairdantairatti | bhakṣayati | yadvā asinvan avyāpriyamāṇo 'gniḥ pituḥ pālakasya yajamānasya sambandhi bhojanaṃ havirlakṣaṇamannaṃ daṃṣṭryairdantarūpairjvālairatti |*
+
+That is: the world, or the people of the world, doing works such as the building of dams, eat with their teeth, chewing it, the food in the form of water—rain that falls from the protecting antarikṣa (svarga)—or the food in the form of oṣadhi (grain produced from plants and crops) produced from that water; or Agni, who is friendly towards the sacrificer, eats with his flames, which are like teeth, the food in the form of the oblation that the sacrificer offers in him. Thus he has given two kinds of meaning.
+
+A little deliberation is needed on these meanings of the sentence. Here, for the word असिन्वन् (*asinvan*) the commentator explains सेतुबन्धादिकं कर्म कुर्वन् (*setubandhādikaṃ karma kurvan*)—"doing works such as building a dam"; this explanation does not help the meaning suggested in this sentence. Even if the people of the world eat rain-water or the food produced from it, they have no connection whatever with the work of building dams, nor with eating the food. Therefore Yāska, rejecting for the word असिन्वन् (*asinvan*) the meaning "works such as dam-building", quotes the Ṛk containing this very word (Ṛ. Saṃ. 10-79-1):
+
+> अपश्यमस्य महतो महित्वममर्त्यस्य मर्त्यासु विक्षु ।
+> नाना हनू विभृते सं भरेते असिन्वती बप्सती भूर्यत्तः ॥
+
+> *apaśyamasya mahato mahitvamamartyasya martyāsu vikṣu |*
+> *nānā hanū vibhṛte saṃ bharete asinvatī bapsatī bhūryattaḥ ‖*
+
+and for the word असिन्वती (*asinvatī*) in it gives the explanation असिन्वती असंखादन्त्यौ (*asinvatī asaṃkhādantyau*) (Ni. 6-4). असंखादन्त्यौ (*asaṃkhādantyau*) means असंचूर्णयन्त्याविव भक्षयन्त्यौ (*asaṃcūrṇayantyāviva bhakṣayantyau*)—Durgācārya in his commentary explains it as "eating without chewing well". If the same meaning is to be given to the word असिन्वन् (*asinvan*) in the present Ṛk, then the sentence असिन्वन् दंष्ट्र्यैः पितुः अत्ति भोजनं (*asinvan daṃṣṭryaiḥ pituḥ atti bhojanaṃ*) means: the people of the world, not chewing it well with their teeth, eat greedily (since they are hungry) the rain-water obtained from the protecting sky, or the food produced from it. This meaning appears to be the right one. Sāyaṇa himself, in the bhāṣya of the Ṛk he gave earlier as an illustration, followed Yāska's explanation of the word असिन्वती (*asinvatī*) and gave the meaning असंखादन्त्यौ (*asaṃkhādantyau*). Only here is it not known why he gave an unnecessary, or unclear, meaning for the word असिन्वन् (*asinvan*). Even in the meaning relating to Agni, Yāska's
+
+*(The passage continues on p. 696.)*
+
+---
+
+### Printed p. 696 (PDF 719)
+
+*(Header: "696", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed]. Continuation of the Viśeṣaviṣayagaḷu of Ṛk 4 from p. 695, resuming in the middle of the sentence. The numeral file has rows for the Ṛg-veda references "10-69-2", "7-39-6" and "8-45-38". They agree with the strip as seen, unzoomed. The row "3.6" in line 8 is not a reference; it is noise from "ಮತ್ತು—".)*
+
+…explanation alone fits properly. For in the Ṛk quoted as the illustration this word is used with reference to Agni. And—
+
+*(The Ṛk is quoted in the source as a separate centred line; the reference is printed "Ṛ. Saṃ. 10-69-2" [as printed; on p. 695 the Ṛk with the word असिन्वती was cited as 10-79-1]. The reading "निहितमृथगक्षी" is uncertain at the letters मृथ [?]; the printed ma carries a hook, which is not the vowel u.)*
+
+> गुहा शिरो निहितमृथगक्षी [?] असिन्वन्नत्ति जिह्वया वनानि ।
+
+> *guhā śiro nihitamṛthagakṣī [?] asinvannatti jihvayā vanāni |*
+
+(Ṛ. Saṃ. 10-69-2, as printed)
+
+In this Ṛk also, for the word असिन्वन् (*asinvan*) the commentator has explained the meaning with the words असिन्वन् दंत्रैरसंखादजिह्वया [?] (*asinvan daṃtrairasaṃkhādajihvayā [?]*) *(the word before असंखाद is doubtful: printed as if दंत्रैः)*. Here too the meaning relates to Agni. When Agni burns oblations or forests, he does not chew slowly with his teeth (his flames), but spreads quickly and eats, that is, burns. The word असिन्वन् (*asinvan*) appears to be used exactly in this sense. Therefore the meaning relating to Agni that the commentator has given in the present Ṛk may well be the ṛṣi's intention. Besides, the word असिन्वन् (*asinvan*) occurs in the Ṛks Ṛ. Saṃ. 7-39-6 and 8-45-38, but there the commentator has taken these words to be formed from the root असु-क्षेपणे (*asu-kṣepaṇe*) (meaning "to throw"), and has explained the meaning accordingly.
+
+---
+
+#### Ṛk 5
+
+*(Reading notes: the Ṛk number "5" is printed at the end of the Saṃhitā and again at the end of the Pada. The last word of the Saṃhitā, "अजनन्सास्युक्थ्यः", is read as printed, with the Pada showing अजनन् । सः । असि । उक्थ्यः. In the Pada the compound mark ऽ is printed in संऽदृशे, अहिऽहन् and उदऽभिः. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> अधा॑कृणोः पृथि॒वीं सं॒दृशे॑ दि॒वे यो धौ॑ती॒नाम॑हिह॒न्नारि॑णक्प॒थः ।
+> तं त्वा॒ स्तोमे॑भिरु॒दभि॒र्न वा॒जिनं॑ दे॒वं दे॒वा अ॑जन॒न्सास्यु॒क्थ्यः॑ ॥ ५ ॥
+
+> *adhākṛṇoḥ pṛthivīṃ saṃdṛśe dive yo dhautīnāmahihannāriṇakpathaḥ |*
+> *taṃ tvā stomebhirudabhirna vājinaṃ devaṃ devā ajanansāsyukthyaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> अध । अकृणोः । पृथिवीं । संऽदृशे । दिवे । यः । धौतीनां । अहिऽहन् । अरिणक् । पथः ।
+> तं । त्वा । स्तोमेभिः । उदऽभिः । न । वाजिनं । देवं । देवाः । अजनन् । सः । असि ।
+> उक्थ्यः ॥ ५ ॥
+
+> *adha | akṛṇoḥ | pṛthivīṃ | saṃ 'dṛśe | dive | yaḥ | dhautīnāṃ | ahi 'han | ariṇak | pathaḥ |*
+> *taṃ | tvā | stomebhiḥ | uda 'bhiḥ | na | vājinaṃ | devaṃ | devāḥ | ajanan | saḥ | asi |*
+> *ukthyaḥ ‖ 5 ‖*
+
+---
+
+### Printed p. 697 (PDF 720)
+
+*(Header: "A. 2 A. 6 V. 10 ]", "Ṛgvedasaṃhitā", "697" [numerals unzoomed; the numeral file has no row for this page]. Continuation of Ṛk 5. In the grammatical tail of the bhāṣya, a few words are doubtful: "लजुसिप्", "हल्ङ्यादिना", "हन्तेर्हे" and "पद्दन्नोमा". They are written as read, with [?]. No sūtra numbers are printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, you made the earth fit to be seen by the shining Sun and opened the paths of the flowing rivers; the gods made you divine with hymns, as a horse is strengthened with water.*
+
+> हे इन्द्र अध अपि च त्वं दिवे द्योतमानाय सूर्याय पृथिवीं चलितां सतीं दृढीकृत्य संदृशे संदर्शनीयामकृणोः । अकरोः ॥ दृशे विख्ये चेति केस्प्रत्ययान्तत्वेन निपातितः ॥ यश्च त्वं धौतीनां चलन्तीनां नदीनां पथो मार्गानरिणक् । अरेचयः । गन्तुं योग्यानकरोरित्यर्थः ॥ रुचिर् विरेचने । लजुसिप् [?] । तस्य हल्ङ्यादिना [?] लोपः ॥ अहिहन् अहेर्वृत्रस्य मेघस्य वा हन्तेर्हे [?] इन्द्र देवाः स्तोतारस्तं तादृशं देवं त्वां स्तोमेभिः स्तोत्रैरजनन् । तत्र दृष्टान्तः । उदभिर्न वाजिनं । यथा वाजिनमश्वमुदभिरुदकैर्वर्धयन्ति तद्वत् ॥ पद्दन्नोमा [?] -सित्यादिनोदकस्योदन्भावः ॥ शेषं सिद्धम् ॥
+
+> *he indra adha api ca tvaṃ dive dyotamānāya sūryāya pṛthivīṃ calitāṃ satīṃ dṛḍhīkṛtya saṃdṛśe saṃdarśanīyāmakṛṇoḥ | akaroḥ ‖ dṛśe vikhye ceti kespratyayāntatvena nipātitaḥ ‖ yaśca tvaṃ dhautīnāṃ calantīnāṃ nadīnāṃ patho mārgānariṇak | arecayaḥ | gantuṃ yogyānakarorityarthaḥ ‖ rucir virecane | lajusip [?] | tasya halṅyādinā [?] lopaḥ ‖ ahihan ahervṛtrasya meghasya vā hanterhe [?] indra devāḥ stotārastaṃ tādṛśaṃ devaṃ tvāṃ stomebhiḥ stotrairajanan | tatra dṛṣṭāntaḥ | udabhirna vājinaṃ | yathā vājinamaśvamudabhirudakairvardhayanti tadvat ‖ paddannomā [?] -sityādinodakasyodanbhāvaḥ ‖ śeṣaṃ siddham ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इन्द्र (*indra*)—O Indra.) अध (*adha*)—apart from the extraordinary deeds described above. दिवे (*dive*)—for the shining Sun. पृथिवीं (*pṛthivīṃ*)—the earth. संदृशे (*saṃdṛśe*)—fit for seeing. अकृणोः (*akṛṇoḥ*)—you have made. यः (*yaḥ*)—you who. धौतीनां (*dhautīnāṃ*)—of the flowing rivers. पथः (*pathaḥ*)—the paths. अरिणक् (*ariṇak*)—have laid out. अहिहन् (*ahihan*)—O Indra, slayer of Vṛtra. देवं तं त्वा (*devaṃ taṃ tvā*)—you, of such divine nature (printed "ದೇವಕಾತ್ಮನಾದ", apparently a misprint for "ದೇವತಾತ್ಮನಾದ" [sic]). देवाः (*devāḥ*)—the worshippers. वाजिनं (*vājinaṃ*)—a horse. उदभिर्न (*udabhirna*)—as one makes it strong with water. स्तोमेभिः (*stomebhiḥ*)—with hymns. अजनन् (*ajanan*)—they made you grow. सः (*saḥ*)—such a one. उक्थ्यः असि (*ukthyaḥ asi*)—you are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, apart from the extraordinary deeds described above, you made the earth fit to be seen by the shining Sun. O Indra, slayer of Vṛtra, you who laid out the paths of the flowing rivers, such a divine being as you the worshippers made grow great with hymns, as one makes a horse strong with water. Such as you are, you are praiseworthy.
+
+**English Translation** *(as printed)*
+
+Inasmuch as you have rendered earth visible to heaven, and set open the path of the rivers by slaying Ahi; therefore the gods have rendered you divine by praises, as (men) invigorate a horse by water; (and) you are, (Indra), to be praised.
+
+---
+
+### Printed p. 698 (PDF 721)
+
+*(Header: "698", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed; the numeral file has no row for this page]. The Viśeṣaviṣayagaḷu of Ṛk 5 begins at the top of the page and breaks off at its end, in the middle of a sentence.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अध अकृणोः पृथिवीं संदृशे दिवे (*adha akṛṇoḥ pṛthivīṃ saṃdṛśe dive*)—
+
+> हे इन्द्र अध अपि च त्वं दिवे द्योतमानाय सूर्याय पृथिवीं चलितां सतीं दृढीकृत्य संदृशे संदर्शनीयामकृणोः ।
+
+> *he indra adha api ca tvaṃ dive dyotamānāya sūryāya pṛthivīṃ calitāṃ satīṃ dṛḍhīkṛtya saṃdṛśe saṃdarśanīyāmakṛṇoḥ |*
+
+O Indra, making this trembling earth firm so that it does not move, you made it visible to the Sun shining in the sky (antarikṣa): such is the commentator's meaning. Or another kind of meaning can also be given. Between the earth and the Sun, in the antarikṣa, you struck with the vajra weapon Vṛtra who pervaded it, or the clouds, and made the water fall on the earth as rain. Thus you destroyed the clouds that had covered the Sun so that it could not be seen in the antarikṣa, and made the earth come within the Sun's sight. When clouds gather and it is dark in the antarikṣa, the Sun is not seen, and the earth is not seen by the Sun. At such a time Indra injures the clouds and makes rain, and thereby destroys the clouds. The antarikṣa then becomes clear without any covering, and the Sun sees the earth well: this is the main intention.
+
+यः धौतीनां अहिहन् अरिणक् पथः (*yaḥ dhautīnāṃ ahihan ariṇak pathaḥ*)—
+
+> यश्च त्वं धौतीनां चलन्तीनां नदीनां पथो मार्गानरिणक् । अरेचयः । गन्तुं योग्यानकरोरित्यर्थः ।
+
+> *yaśca tvaṃ dhautīnāṃ calantīnāṃ nadīnāṃ patho mārgānariṇak | arecayaḥ | gantuṃ yogyānakarorityarthaḥ |*
+
+O Indra, you killed the demon Vṛtra who held back the rain in the antarikṣa, or the clouds, and made the rain fall to the earth. You laid out the way by which those rain-waters go to the sea. All the rain that falls on the earth reaches a river. The river goes "of its own", that is, it flows in a definite channel and reaches the sea. Ordinarily the river's water flows as far as the sea along one definite course (or one that gradually slopes lower as it proceeds). Since that course is always the same, without variation, the main intention is that Indra built that definite course along which the river flows.
+
+अहिहन् (*ahihan*)—
+
+> अहेर्वृत्रस्य मेघस्य वा हन्तः
+
+> *ahervṛtrasya meghasya vā hantaḥ*
+
+*(printed "अहेर्वृत्रस्य मेघस्य वा हंतः")* Vṛtrāsura, or the cloud. Since Indra is the destroyer of these, he is addressed by the word अहिहन् (*ahihan*).
+
+तं त्वा स्तोमेभिः उदभिः न वाजिनं देवं देवा अजनन् (*taṃ tvā stomebhiḥ udabhiḥ na vājinaṃ devaṃ devā ajanan*)—O Indra, the commentator's explanation is that the devas, as one makes a horse grow with water, praise with hymns and the like the qualities of you who performed the bold deeds described above, and make you endowed with qualities. The meaning of this sentence is not clear. The devatās praise you (Indra) with hymns. The main intention is that Indra's power increases through hymns. When hymns are chanted, the power of the devatās
+
+*(The passage continues on p. 699.)*
+
+---
+
+---
+
+### Printed p. 699 (PDF 722)
+
+*(Header: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "699". The header numbers were read from the strip, unzoomed; the numeral file gave only "2 6" for it. This is the continuation of the Viśeṣaviṣayagaḷu of Ṛk 5 from p. 698, resuming in the middle of the sentence.)*
+
+…grows exceedingly, or shines: it is the ṛṣis' usage to say so. Many sentences with the sense "May our words of praise, that is, our hymns, make you (Indra) grow—may they praise you" are found in various places (compare **त्वां वर्धन्तु नो गिरः (*tvāṃ vardhantu no giraḥ*)**). The illustration **उदभिः न वाजिनं (*udabhiḥ na vājinaṃ*)** ("as [one makes] a horse [grow] with water"), given to make the sense of this sentence clear, does not fit the meaning. It is not clear what the proper meaning is of the sentence "as one makes a horse grow with water". Perhaps it may be explained thus: as by giving water to a horse that has walked a long way and is tired, its fatigue is removed and its former strength returns; or as a horse that looks dirty from dust and the like is washed with water and made to look fine. But these meanings do not fit this context.
+
+---
+
+#### Ṛk 6
+
+*(Reading notes: the Ṛk number "6" is printed at the end of both the Saṃhitā and the Pada, as seen unzoomed. In the Saṃhitā the printed glyph order in "वर्धनमार्द्रादा" and in the Pada "आर्द्रात्" is hard to follow (it looks like आद्र्रात्); it is read here as आर्द्रात्, as the Pratipadārtha has "ಆದ್ರ್ರಾತ್" and the bhāṣya has "तथार्द्रात्काण्डात्". The printed ma carries a hook, which is not the vowel u. In the Pada the compound mark ऽ is printed in शेवऽधिं and मधुऽमत्. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यो भोज॑नं च॒ दय॑से च॒ वर्ध॑नमा॒र्द्रादा शुष्कं॒ मधु॑मद्दु॒दोहि॑थ ।
+> स शे॑व॒धिं नि द॑धिषे वि॒वस्व॑ति॒ विश्व॒स्यैक॑ ईशिषे॒ सास्यु॒क्थ्यः॑ ॥ ६ ॥
+
+> *yo bhojanaṃ ca dayase ca vardhanamārdrādā śuṣkaṃ madhumaddudohitha |*
+> *sa śevadhiṃ ni dadhiṣe vivasvati viśvasyaika īśiṣe sāsyukthyaḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । भोजनं । च । दयसे । च । वर्धनं । आर्द्रात् । आ । शुष्कं । मधुऽमत् । दुदोहिथ ।
+> सः । शेवऽधिं । नि । दधिषे । विवस्वति । विश्वस्य । एकः । ईशिषे । सः । असि । उक्थ्यः ॥ ६ ॥
+
+> *yaḥ | bhojanaṃ | ca | dayase | ca | vardhanaṃ | ārdrāt | ā | śuṣkaṃ | madhu 'mat | dudohitha |*
+> *saḥ | śeva 'dhiṃ | ni | dadhiṣe | vivasvati | viśvasya | ekaḥ | īśiṣe | saḥ | asi | ukthyaḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, you give food, wealth and strength to the sacrificers; you milk sweet dry grain from the green stalk; you place a store of wealth with the one who serves you; you alone rule the world.*
+
+> हे इन्द्र यस्त्वं भोजनं । भुज्यत इति भोजनमन्नादि । च दयसे । यजमानेभ्यः प्रयच्छसि ॥ दय दानगतिरक्षणहिंसाग्रहणेषु आत्मनेपदी ॥ किंच वर्धनं वृद्धिकरं धनं बलं वा दयसे । तथार्द्रात्काण्डात् शुष्कमनार्द्रं व्रीह्यादिकं मधुमत् मधुररसोपेतं दुदोहिथ । दुग्धवानसि ॥ दुहेर्लिटि क्रादिनियमादिडागमः ॥ स ताद‍ृशस्त्वं विवस्वति ते परिचरणं कुर्वाणे यजमाने शेवधिं धनसदनं निदधिषे [?] । निदधासि । किं बहुना । विश्वस्य सर्वस्य जगत एकोऽद्वितीय इव सन् ईशिषे । स्वामी भवसि ॥ ईश ऐश्वर्ये । ईशः स इतीडागमः ॥ स इत्यादि सिद्धम् ॥
+
+> *he indra yastvaṃ bhojanaṃ | bhujyata iti bhojanamannādi | ca dayase | yajamānebhyaḥ prayacchasi ‖ daya dānagatirakṣaṇahiṃsāgrahaṇeṣu ātmanepadī ‖ kiṃca vardhanaṃ vṛddhikaraṃ dhanaṃ balaṃ vā dayase | tathārdrātkāṇḍāt śuṣkamanārdraṃ vrīhyādikaṃ madhumat madhurarasopetaṃ dudohitha | dugdhavānasi ‖ duherliṭi krādiniyamādiḍāgamaḥ ‖ sa tādṛśastvaṃ vivasvati te paricaraṇaṃ kurvāṇe yajamāne śevadhiṃ dhanasadanaṃ nidadhiṣe [?] | nidadhāsi | kiṃ bahunā | viśvasya sarvasya jagata eko 'dvitīya iva san īśiṣe | svāmī bhavasi ‖ īśa aiśvarye | īśaḥ sa itīḍāgamaḥ ‖ sa ityādi siddham ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*(Printed p. 700 (PDF 723); header "700", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13", read from the strip, unzoomed.)*
+
+(इन्द्र (*indra*)—O Indra.) यः (*yaḥ*)—you who. भोजनं (*bhojanaṃ*)—foods and the like. दयसे (*dayase*)—(to the sacrificers and others) you give. च (*ca*)—and. वर्धनं च (*vardhanaṃ ca*)—wealth that causes increase, and strength, you also give (in the same way). आर्द्रात् (*ārdrāt*)—from the green stalk. शुष्कं (*śuṣkaṃ*)—dry grain and the like. मधुमत् (*madhumat*)—as if endowed with sweet juice. दुदोहिथ (*dudohitha*)—you have milked. सः (*saḥ*)—such a one as you. विवस्वति (*vivasvati*)—in the sacrificer who offers you service. शेवधिं (*śevadhiṃ*)—a deposit of wealth. नि दधिषे (*ni dadhiṣe*)—you place. (And) विश्वस्य (*viśvasya*)—of the whole world. एकः (*ekaḥ*)—the one without a second. ईशिषे (*īśiṣe*)—you are lord. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—you are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who give the sacrificers and others food and the like, and wealth and strength that cause increase, you who have milked dry grain from the green stalk as if filled with sweet juice, such a one as you place a deposit of wealth in the sacrificer who offers you service. You are the lord of the whole world, without a second. Such a one as you are praiseworthy.
+
+**English Translation** *(as printed)*
+
+(You are he) who bestow both food and increase, and milk the dry nutritious (grain) from out the humid stalk: he, who gives wealth to the worshipper, and are sole sovereign of the Universe; you are he, (Indra), who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यो भोजनं च दयसे च वर्धनं (*yo bhojanaṃ ca dayase ca vardhanaṃ*)—
+
+*Quoted bhāṣya, shortened by the commentator (Kannada comment follows).*
+
+> भुज्यत इति भोजनमन्नादि । यस्त्वं भोजनं, वर्धनं वृद्धिकरं धनं बलं वा यजमानेभ्यः प्रयच्छसि ।
+
+> *bhujyata iti bhojanamannādi | yastvaṃ bhojanaṃ, vardhanaṃ vṛddhikaraṃ dhanaṃ balaṃ vā yajamānebhyaḥ prayacchasi |*
+
+You, who are Indra, give to the sacrificers who perform sacrifice, or to the ṛtvijs who chant the hymns, food and the like, and wealth that brings increase, or strength: this is the intention.
+
+आर्द्रात् आ शुष्कं मधुमत् दुदोहिथ (*ārdrāt ā śuṣkaṃ madhumat dudohitha*)—
+
+> तथार्द्रात्काण्डात् शुष्कमनार्द्रं व्रीह्यादिकं मधुमत् मधुररसोपेतं दुदोहिथ दुग्धवानसि ।
+
+> *tathārdrātkāṇḍāt śuṣkamanārdraṃ vrīhyādikaṃ madhumat madhurarasopetaṃ dudohitha dugdhavānasi |*
+
+"You will provide, from the green stalk, well-dried and tasty grains such as rice": this is Sāyaṇa's explanation. In this sentence there is no word that points to grain; still, the commentator has supplied that word (adhyāhāra) and explained the meaning. Or it may be the ṛṣi's intention that "you bring forth the sweet Soma juice from the fresh Soma creeper" (continues on p. 701). 
+
+---
+
+### Printed p. 701 (PDF 724)
+
+*(Header: "A. 2 A. 6 V. 11. |", "Ṛgvedasaṃhitā", "701", unzoomed. Continuation of the Ṛk 6 Viśeṣaviṣayagaḷu. The reference "Ni. 3-13" is printed "(ನಿ. ೩-೧೩)"; the numeral file gave 3-13, in agreement with the strip.)*
+
+*(The sentence of p. 700 continues:)* …the sweet Soma juice. But then, it is said, 'the word शुष्कं (*śuṣkaṃ*) would be left without meaning' [the opening quotation mark is printed alone]. In any case the meaning of this sentence is not clear.
+
+शेवधिं (*śevadhiṃ*)—The word शेवं (*śevaṃ*) is listed among the names for "happiness" (Ni. 3-13). The commentator has explained the word शेवधिं (*śevadhiṃ*) as धनसदनं (*dhanasadanaṃ*), that is, "a store, a treasure", an immeasurable mass of wealth. Since happiness is obtained from wealth, this meaning too can be given.
+
+विश्वस्य एक ईशिषे (*viśvasya eka īśiṣe*)—
+
+> सर्वस्य जगत एकोऽद्वितीय इव सन् ईशिषे स्वामी भवसि ।
+
+> *sarvasya jagata eko 'dvitīya iva san īśiṣe svāmī bhavasi |*
+
+You alone are lord of the whole universe. There is no other equal to you. The greatness of Indra is described: "You are the master of all."
+
+---
+
+#### Ṛk 7
+
+*(Reading notes: the Ṛk number "7" is read in the Pada, printed "|| ೭ ||", unzoomed; at the end of the Saṃhitā the number was not visible on the strip. In the Saṃhitā "ऊर्वा" there is a small sign above the letters, which is not reproduced [?]. The first words "पुष्पिणीः" and "प्रस्वः" were read together with the Pratipadārtha and the bhāṣya, unzoomed [?]. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यः पु॒ष्पिणी॑श्च प्र॒स्व॑श्च॒ धर्म॒णाधि॒ दाने॒ व्य१॒॑वनी॒रधा॑रयः ।
+> यश्चास॑मा॒ अज॑नो दि॒द्युतो॑ दि॒व उ॒रुरू॒र्वा अ॒भितः॒ सास्यु॒क्थ्यः॑ ॥ ७ ॥
+
+> *yaḥ puṣpiṇīśca prasvaśca dharmaṇādhi dāne vyavanīradhārayaḥ |*
+> *yaścāsamā ajano didyuto diva ururūrvā abhitaḥ sāsyukthyaḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । पुष्पिणीः । च । प्रऽस्वः । च । धर्मणा । अधि । दाने । वि । अवनीः । अधारयः ।
+> यः । च । असमाः । अजनः । दिद्युतः । दिवः । उरुः । ऊर्वान् । अभितः । सः । असि ।
+> उक्थ्यः ॥ ७ ॥
+
+> *yaḥ | puṣpiṇīḥ | ca | pra 'svaḥ | ca | dharmaṇā | adhi | dāne | vi | avanīḥ | adhārayaḥ |*
+> *yaḥ | ca | asamāḥ | ajanaḥ | didyutaḥ | divaḥ | uruḥ | ūrvān | abhitaḥ | saḥ | asi |*
+> *ukthyaḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, you sustain flowering, fruiting plants in the field by your act, bring forth the sky's varied lights, and great hosts of beings or mountains all round.*
+
+> हे इन्द्र यस्त्वं पुष्पिणीः पुष्पवतीश्च प्रस्वः प्रसूताः प्रसूयमाना वावनीरवित्रीरोषधीर्दानेऽधि [?] ॥ उपलूयन्ते सस्यान्यत्रेति दानं क्षेत्रं । अधिकरणे ल्युट् ॥ तस्मिन् क्षेत्रे धर्मणा सकललक्षणेन कर्मणा व्यधारयः । न्यदधाः । यश्च त्वं दिवो द्योतमानस्य सूर्यस्यासमा विषमा नानाप्रकारा दिद्युतो दीप्तीरजनः । अजनयः । यद्वा दिवो नक्षत्राणि ॥ जनेर्लजं [?] व्यत्ययेन शप् ॥ यश्चोरुर्महांस्त्वमभितः सर्वत ऊर्वान् महतः प्राणिनिकायान् पर्वतान्वाजनयः शिष्टं स्पष्टं ॥
+
+> *he indra yastvaṃ puṣpiṇīḥ puṣpavatīśca prasvaḥ prasūtāḥ prasūyamānā vāvanīravitrīroṣadhīrdāne 'dhi [?] ‖ upalūyante sasyānyatreti dānaṃ kṣetraṃ | adhikaraṇe lyuṭ ‖ tasmin kṣetre dharmaṇā sakalalakṣaṇena karmaṇā vyadhārayaḥ | nyadadhāḥ | yaśca tvaṃ divo dyotamānasya sūryasyāsamā viṣamā nānāprakārā didyuto dīptīrajanaḥ | ajanayaḥ | yadvā divo nakṣatrāṇi ‖ janerlajaṃ [?] vyatyayena śap ‖ yaścorurmahāṃstvamabhitaḥ sarvata ūrvān mahataḥ prāṇinikāyān parvatānvājanayaḥ śiṣṭaṃ spaṣṭaṃ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इन्द्र (*indra*)—O Indra.) यः (*yaḥ*)—you who. पुष्पिणीः (*puṣpiṇīḥ*)—those endowed with flowers. च (*ca*)—and. प्रस्वः (*prasvaḥ*)—those that give fruits. अवनीः (*avanīḥ*)—the plants. दाने अधि (*dāne adhi*)—in the field.
+
+*(The Pratipadārtha breaks off at the end of p. 701 and continues on p. 702.)*
+
+---
+
+### Printed p. 702 (PDF 725)
+
+*(Header, read from the strip and not zoomed: "Maṃ. 2 A. 2 Sū. 13". A blemish hides part of the sūkta numeral, which is read as 13 to agree with the sūkta in progress. The Pratipadārtha of Ṛk 7 continues from p. 701, resuming after "दाने अधि—in the field".)*
+
+धर्मणा (*dharmaṇā*)—by the action endowed with all characteristics. वि अधारयः (*vi adhārayaḥ*)—have you established? च (*ca*)—and. यः (*yaḥ*)—you who. दिवः (*divaḥ*)—of the luminous sun. असमाः (*asamāḥ*)—of various kinds. दिद्युतः (*didyutaḥ*)—the radiances. अजनः (*ajanaḥ*)—have you created (and). उरुः (*uruḥ*)—being of great bulk of body. अभितः (*abhitaḥ*)—all round. ऊर्वान् (*ūrvān*)—the great hosts of creatures. (अजनः (*ajanaḥ*) is to be taken again here:) have you created. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—you are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who have established, by the action endowed with all characteristics, in the field the herbs (oṣadhis) that are flowering and fruit-giving; and you who have created the various radiances of the luminous sun (and likewise the stars), and, being of great bulk of body, have created great hosts of creatures all round: such a one as you are praiseworthy.
+
+**English Translation** *(as printed)*
+
+You have caused, by culture, the flowering and fruitful (plants) to spread over the field; you have generated the varions [sic] luminaries of heaven; and who, of vast bulk, comprehend vast (bodies); yon [sic] are he who is to be praised. *(A stray mark is printed after "vast".)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> यः पुष्पिणीः च प्रस्वः च धर्मणा अधि दाने वि अवनीः अधारयः
+
+> *yaḥ puṣpiṇīḥ ca prasvaḥ ca dharmaṇā adhi dāne vi avanīḥ adhārayaḥ*
+
+Sāyaṇa's explanation, quoted here:
+
+> पुष्पवतीश्च प्रसूयमाना अवनीरवित्रीरोषधीर्दाने क्षेत्रे सकललक्षणेन कर्मणा न्यदधाः ।
+
+> *puṣpavatīśca prasūyamānā avanīravitrīroṣadhīrdāne kṣetre sakalalakṣaṇena karmaṇā nyadadhāḥ |*
+
+In this sentence the commentator has explained the word दान (*dāna*) as "field" (land, ploughed ground), अवनीः (*avanīḥ*) as "herbs" (rice and other crops), and the word धर्मणा (*dharmaṇā*) as "by action endowed with all characteristics". If these meanings are accepted, the sentence says: O Indra, you (printed "सीनु" [sic], for "नीनु", "you") have established natural laws of the world, so that the crops and the like that grow in fields, paddy fields and so on, in what seasons and in what manner they must grow and increase: first they put forth flowers, and afterwards become fruitful. That is, subject to your ordinance, crops and the like, and trees, creepers and the like, never fail to carry out, at their proper seasons, such functions as flowering and fruiting. This is the main intention.
+
+*(Note: this clearer later printing of the bhāṣya gives "अवनीरवित्रीरोषधीर्दाने क्षेत्रे". It suggests that the earlier reading "वावनीः…" in the Ṛk 7 bhāṣya, flagged [?] there, is really "अवनीः". The earlier text is not edited.)*
+
+> यः च असमाः अजनः दिद्युतः दिवः उरुः ऊर्वान् अभितः
+
+> *yaḥ ca asamāḥ ajanaḥ didyutaḥ divaḥ uruḥ ūrvān abhitaḥ*
+
+In this sentence too some words have to be supplied by inference (ūha) to state the meaning. The sun's various kinds of radiances, that is, the differences of light seen in the morning, at midday and in the evening, *(continues on p. 703)*
+
+---
+
+### Printed p. 703 (PDF 726)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "703". The Viśeṣaviṣayagaḷu of Ṛk 7 resumes in mid-sentence.)*
+
+…and the great trees, creatures, mountains, rivers and the like that are seen everywhere, you have created: thus Indra is addressed and described.
+
+---
+
+#### Ṛk 8
+
+*(Reading notes: the Ṛk number is printed "॥ ೮ ॥" at the end of both Saṃhitā and Pada, read from the glyph, unzoomed. The Saṃhitā ends "पुरुकृत्सास्युक्थ्यः", read together with the Pada, which has पुरुऽकृत् । सः । असि. In the Pada the sign after "अपरि" is read as the compound mark (ऽ) [?]. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यो ना॑र्म॒रं स॒हव॑सुं॒ निह॑न्तवे पृ॒क्षाय॑ च दा॒सवे॑शाय॒ चाव॑हः ।
+> ऊ॒र्जय॑न्त्या॒ अप॑रिविष्टमा॒स्य॑मु॒तैवाद्य पु॑रुकृ॒त्सास्यु॒क्थ्यः॑ ॥ ८ ॥
+
+> *yo nārmaraṃ sahavasuṃ nihantave pṛkṣāya ca dāsaveśāya cāvahaḥ |*
+> *ūrjayantyā apariviṣṭamāsyamutaivādya purukṛtsāsyukthyaḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । नार्मरं । सहऽवसुं । निऽहन्तवे । पृक्षाय । च । दासऽवेशाय । च । अवहः ।
+> ऊर्जयन्त्याः । अपरिऽविष्टं । आस्यं । उत । एव । अद्य । पुरुऽकृत् । सः । असि ।
+> उक्थ्यः ॥ ८ ॥
+
+> *yaḥ | nārmaraṃ | saha 'vasuṃ | ni 'hantave | pṛkṣāya | ca | dāsa 'veśāya | ca | avahaḥ |*
+> *ūrjayantyāḥ | apari 'viṣṭaṃ | āsyaṃ | uta | eva | adya | puru 'kṛt | saḥ | asi |*
+> *ukthyaḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, to slay the asura Sahavasu, son of Nṛmara, for food and for destroying dasyus, you today bore forward a faultless face (the vajra's edge), or turned a hostile spirit's mouth.*
+
+> पुरुकृत् पुरूणां कर्मणां कर्ता हे इन्द्र यस्त्वं नार्मरं । नृन् मनुष्यान् मारयतीति नृमरः कश्चिदसुरः । तस्यापत्यं नार्मरः । तं सहवसुं । वसुना सह वर्तत इति सहवसुः । असुरनामैतत् । एतन्नामकमसुरं निहन्तवे ॥ हन्तेस्तुमर्थे तवेन्प्रत्ययः । तादौ च निति गतेः प्रकृतिस्वरत्वं ॥ निहन्तुं ऊर्जयन्त्या बलवत्या वज्रधारया अपरिविष्टं मलादिभिरव्याप्तमास्यमद्यैवावहः । तमसुरं प्रापयः । यद्वा ऊर्जयन्त्याः पिशाचिकाया आस्यं प्रापयः । किमर्थं । पृक्षाय । तव हविर्लक्षणान्नलाभाय । दासवेशाय दासानां दस्यूनां वेशाय विनाशाय च । यद्वा अस्माकमन्नलाभाय दस्युविनाशाय च ॥
+
+> *purukṛt purūṇāṃ karmaṇāṃ kartā he indra yastvaṃ nārmaraṃ | nṛn manuṣyān mārayatīti nṛmaraḥ kaścidasuraḥ | tasyāpatyaṃ nārmaraḥ | taṃ sahavasuṃ | vasunā saha vartata iti sahavasuḥ | asuranāmaitat | etannāmakamasuraṃ nihantave ‖ hantestumarthe tavenpratyayaḥ | tādau ca niti gateḥ prakṛtisvaratvaṃ ‖ nihantuṃ ūrjayantyā balavatyā vajradhārayā apariviṣṭaṃ malādibhiravyāptamāsyamadyaivāvahaḥ | tamasuraṃ prāpayaḥ | yadvā ūrjayantyāḥ piśācikāyā āsyaṃ prāpayaḥ | kimarthaṃ | pṛkṣāya | tava havirlakṣaṇānnalābhāya | dāsaveśāya dāsānāṃ dasyūnāṃ veśāya vināśāya ca | yadvā asmākamannalābhāya dasyuvināśāya ca ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पुरुकृत् (*purukṛt*)—O Indra, who have performed extraordinary and manifold deeds. यः (*yaḥ*)—you who. पृक्षाय (*pṛkṣāya*)—for the gaining of food in the form of the oblation. दासवेशाय च (*dāsaveśāya ca*)—and also for the destruction of the dasyus. नार्मरं (*nārmaraṃ*)—the son of Nṛmara. सहवसुं (*sahavasuṃ*)—the son of the asura, he who bears the name Sahavasu, and *(continues on p. 704)*
+
+---
+
+### Printed p. 704 (PDF 727)
+
+*(Header, read from the strip and not zoomed: "704", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13".)*
+
+(the asura's son सहवसुं (*sahavasuṃ*) having been named—continuing the sentence of p. 703:) निहन्तवे (*nihantave*)—in order to slay. ऊर्जयन्त्याः (*ūrjayantyāḥ*)—of the mighty one, being in the form of the edge of the vajra. अपरिविष्टं (*apariviṣṭaṃ*)—free of dirt (impurity). आस्यं (*āsyaṃ*)—the mouth (the face). अद्य एव (*adya eva*)—at once. अवहः (*avahaḥ*)—have you borne. सः (*saḥ*)—such a one as you. उक्थ्यः (*ukthyaḥ*)—worthy of hymns. असि (*asi*)—you are.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, who have done extraordinary and manifold deeds: you who, for the gaining of food and for the destruction of the dasyus, in order to slay Sahavasu, the son of Nṛmara, have at once borne the mouth that is in the form of the edge of the vajra, mighty and free of dirt: such a one as you are worthy of hymns.
+
+**English Translation** *(as printed)*
+
+You, who are (famed for) many exploits, put on to-day an unclouded countenance, (as prepared) to slay Sahavasu, the son of Nrimara, with the sharpened (edge of the thunderbolt), in defence of the (sacrificial) food, and for the destruction of the Dasyus; you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नार्मरं (*nārmaraṃ*)—
+
+> नॄन् मनुष्यान् मारयतीति नृमरः कश्चिदसुरः
+
+> *nṝn manuṣyān mārayatīti nṛmaraḥ kaścidasuraḥ*
+
+The name of an asura. Because he kills human beings, it is the custom to call him by the name नृमर (*nṛmara*). The son of this Nṛmara is called नार्मर (*nārmara*). This word occurs in the Ṛgveda only in the Ṛk in hand. Since it is nowhere else, nothing more can be said about him. The scholar Ludwig takes the word ऊर्जयन्ती (*ūrjayantī*) in this Ṛk to mean a strong fort, and understands Nārmara as the king who is the lord of that fort or stronghold. But there is no adequate support for this opinion.
+
+सहवसुं (*sahavasuṃ*)—The son of the asura named Nṛmara. Not much is known of him either. The commentator has given the parts of the word and the sense:
+
+> वसुना सह वर्तते इति सहवसुः
+
+> *vasunā saha vartate iti sahavasuḥ*
+
+that is, the asura Sahavasu, who has much wealth.
+
+दासवेशाय (*dāsaveśāya*)—
+
+> दासानां दस्यूनां वेशाय विनाशाय
+
+> *dāsānāṃ dasyūnāṃ veśāya vināśāya*
+
+For the destruction of the wicked dasyu people.
+
+पृक्षाय (*pṛkṣāya*)—The word पृक्ष (*pṛkṣa*) is read among the names of food (Ni. 3-9). The commentator's
+
+> तव हविर्लक्षणान्नलाभाय अथवा अस्माकमन्नलाभाय
+
+> *tava havirlakṣaṇānnalābhāya athavā asmākamannalābhāya*
+
+has been explained in two ways: for the gain of the food in the form of the oblation that we offer you, or for the food that you give us.
+
+---
+
+### Printed p. 705 (PDF 728)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "705". At the foot of the page the signature marks "[45]" and "Vol. 14" are printed. The Viśeṣaviṣayagaḷu of Ṛk 8 continues from p. 704.)*
+
+For the sentence
+
+> ऊर्जयन्त्याः अपरिविष्टं आस्यं उत एव अद्य
+
+> *ūrjayantyāḥ apariviṣṭaṃ āsyaṃ uta eva adya*
+
+in this sentence, the commentator has explained the word अपरिविष्टं (*apariviṣṭaṃ*) as मलादिभिरव्याप्तं (*malādibhiravyāptaṃ*): without dirt, bright. What the right meaning of this sentence is, and what the sage's intention is, is not clear. Probably the intention is that Indra, in order to slay the asura Sahavasu, the son of Nṛmara, took on a form (shape) full of brilliance and strength and slew that asura.
+
+---
+
+#### Ṛk 9
+
+*(Reading notes: the Ṛk number is printed "॥ ९ ॥" at the end of both Saṃhitā and Pada, read from the glyph, not zoomed. The Saṃhitā is converted letter by letter from the Kannada: "यद्ध", "दस्यून्त्समुनब्दभीतये" (that is सं + उनप् + दभीतये with sandhi), "सास्युक्थ्यः" as printed. The Pada runs over the strip break at "आविथ". Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> श॒तं वा॒ यस्य॒ दश॑ सा॒कमाद्य॒ एक॑स्य श्रु॒ष्टौ यद्ध॑ चो॒दमावि॑थ ।
+> अ॒र॒ज्जौ दस्यू॒न्त्समु॑नब्द॒भीत॑ये सुप्रा॒व्यो॑ अभवः॒ सास्यु॒क्थ्यः॑ ॥ ९ ॥
+
+> *śataṃ vā yasya daśa sākamādya ekasya śruṣṭau yaddha codamāvitha |*
+> *arajjau dasyūntsamunabdabhītaye suprāvyo abhavaḥ sāsyukthyaḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> शतं । वा । यस्य । दश । साकं । आ । अद्यः । एकस्य । श्रुष्टौ । यत् । ह । चोदं ।
+> आविथ ।
+> अरज्जौ । दस्यून् । सं । उनप् । दभीतये । सुप्रऽअव्यः । अभवः । सः । असि ।
+> उक्थ्यः ॥ ९ ॥
+
+> *śataṃ | vā | yasya | daśa | sākaṃ | ā | adyaḥ | ekasya | śruṣṭau | yat | ha | codaṃ |*
+> *āvitha |*
+> *arajjau | dasyūn | saṃ | unap | dabhītaye | supra 'avyaḥ | abhavaḥ | saḥ | asi |*
+> *ukthyaḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, a thousand horses are yoked to carry you; you feed all, protect the sacrificer, harmed dasyus in a ropeless prison for Dabhīti, and are easily approached by all.*
+
+> हे इन्द्र एकस्यैकाकिनः श्रेष्ठस्य वा यस्य ते श्रुष्टौ सुखनिमित्ते ऽदर्थं [?] शतं दश दश शतानि हरयो वाहनार्थं भवन्ति । तथा च मन्त्रवर्णः । इन्द्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश । ६-४७-१८ । इति । अपि च यश्च आ अद्यः सर्वेषां सर्वत उपजीव्यः । न तस्येशे यं नाद्याद्यद्यैनं नाद्युरिति ह श्रुतिः [?] । यद्ध यश्च त्वं चोदं स्तोतॄणां प्रेरकं यजमानमाविथ । रक्षितवानसि । किंच यस्त्वमरज्जौ रज्जुवर्जिते बन्धनागारे दस्यूनुपक्षपयित्वान् [?] दभीतये । दभीतिर्नाम कश्चिदृषिः । तदर्थं समुनप् । हिंसितवानसि ॥ उभतेर्हिंसाकर्मणो लजु [?] व्यत्ययेन श्नम् । हल्ङ्यादिना सिपो लोपः । अडभावश्छान्दसः ॥ किंच सुप्राव्यः सुखेन सर्वैरुपसर्पणीयोऽभवः । शिष्टं सिद्धं ॥
+
+> *he indra ekasyaikākinaḥ śreṣṭhasya vā yasya te śruṣṭau sukhanimitte 'darthaṃ [?] śataṃ daśa daśa śatāni harayo vāhanārthaṃ bhavanti | tathā ca mantravarṇaḥ | indro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa | 6-47-18 | iti | api ca yaśca ā adyaḥ sarveṣāṃ sarvata upajīvyaḥ | na tasyeśe yaṃ nādyādyadyainaṃ nādyuriti ha śrutiḥ [?] | yaddha yaśca tvaṃ codaṃ stotṝṇāṃ prerakaṃ yajamānamāvitha | rakṣitavānasi | kiṃca yastvamarajjau rajjuvarjite bandhanāgāre dasyūnupakṣapayitvān [?] dabhītaye | dabhītirnāma kaścidṛṣiḥ | tadarthaṃ samunap | hiṃsitavānasi ‖ ubhaterhiṃsākarmaṇo laju [?] vyatyayena śnam | halṅyādinā sipo lopaḥ | aḍabhāvaśchāndasaḥ ‖ kiṃca suprāvyaḥ sukhena sarvairupasarpaṇīyo 'bhavaḥ | śiṣṭaṃ siddhaṃ ‖*
+
+**ज्ञापकम्:** the Ṛgveda reference in the bhāṣya is printed "६-४७-१८" (Ṛg. 6-47-18), which agrees with the numeral file. The bhāṣya's grammatical tail (the root *ubh*, the infix *śnam*, loss of *sip*, absence of the augment *aṭ*) is transcribed and not explained.
+
+---
+
+### Printed p. 706 (PDF 729)
+
+*(Header, read from the strip and not zoomed: "706", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इन्द्र (*indra*)—O Indra) एकस्य (*ekasya*)—of the excellent one. यस्य (*yasya*)—of you who. श्रुष्टौ (*śruṣṭau*)—for pleasure. शतं दश (*śataṃ daśa*)—ten hundred (a thousand in number) horses are ready (for you who). साकं (*sākaṃ*)—together. आ अद्यः (*ā adyaḥ*)—are the provider of food to all. यद्ध (*yaddha*)—you who. चोदं (*codaṃ*)—the institutor (of the sacrifice), who urges on the praisers. आविथ (*āvitha*)—have protected. (यः (*yaḥ*)—you who) दभीतये (*dabhītaye*)—to give help to the sage Dabhīti. दस्यून् (*dasyūn*)—the violent asuras. अरज्जौ (*arajjau*)—in a prison without ropes. समुनप् (*samunap*)—having placed them, have harmed. (And) सुप्राव्यः (*suprāvyaḥ*)—as one easily approached by all. अभवः (*abhavaḥ*)—have you been. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you for whose pleasure, being the excellent one, a thousand horses are ready; you who, providing food for all, have protected the institutor of the sacrifice who urges on the praisers; and you who, in order to help the sage Dabhīti, kept the violent asuras in a prison without ropes and harmed them, and for that very reason have become one whom all approach easily: such a one as you are exceedingly praiseworthy.
+
+**English Translation** *(as printed)*
+
+You, for whose sole pleasure a thousand (steeds are ready); by whom all are to be fed; and who protect the institutor (of the sacrifice); who, for the sake of Dabhiti, have cast the Dasyus into unfettered (captivity), and who are to be approached (by all); you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शतं वा यस्य दश साकं आ अद्यः एकस्य श्रुष्टौ (*śataṃ vā yasya daśa sākaṃ ā adyaḥ ekasya śruṣṭau*)—Here, for the word एकस्य (*ekasya*) the commentator gives एकाकिनः श्रेष्ठस्य वा (*ekākinaḥ śreṣṭhasya vā*): "to you who are the one", "to you alone", or "to you who are the excellent one" is the meaning. O Indra, for you the excellent one, or for you alone, ten hundreds, that is a thousand, horses are ready for carrying you. The same intention is clear also in the Ṛk
+
+> इन्द्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ।
+
+> *indro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa |*
+
+*(Ṛg. Saṃ. 6-47-18, as printed.)* It is said there that when Indra fights with the asuras he takes on many magical forms and uses thousands of horses for carrying him. Here *(continues on p. 707)*
+
+*(Reading note: the vowel after य (*ya*) in the first word of this quoted Ṛk, in the Viśeṣaviṣayagaḷu, is printed so that it looks like ो; it is read मायाभिः (*māyābhiḥ*) together with the bhāṣya's citation. Not zoomed.)*
+
+---
+
+### Printed p. 707 (PDF 730)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "707".)*
+
+…"a thousand" may mean one thousand or "many". The sage describes Indra's distinction in this way: that for the one Indra so many horses are ready.
+
+श्रुष्टौ (*śruṣṭau*)—On the word श्रुष्टी (*śruṣṭī*) Yāska says:
+
+> श्रुष्टीति क्षिप्रनाम आशु अष्टीति [?]
+
+> *śruṣṭīti kṣipranāma āśu aṣṭīti [?]*
+
+श्रुष्टी (*śruṣṭī*) means quickly, or "quickly pervading": thus Yāska has explained the meaning (Ni. 6-13, agrees with the numeral file). But here the commentator has given for the word श्रुष्टौ (*śruṣṭau*) the meaning सुखनिमित्ते (*sukhanimitte*), "for pleasure".
+
+यश्च आ अद्यः (*yaśca ā adyaḥ*)—
+
+> सर्वेषां सर्वत उपजीव्यः
+
+> *sarveṣāṃ sarvata upajīvyaḥ*
+
+All live depending on Indra alone: that is, Indra alone provides food and the like to all, everywhere. This is the intention.
+
+यत् ह चोदं आविथ (*yat ha codaṃ āvitha*)—
+
+> यश्च त्वं चोदं स्तोतॄणां प्रेरकं यजमानं रक्षितवानसि
+
+> *yaśca tvaṃ codaṃ stotṝṇāṃ prerakaṃ yajamānaṃ rakṣitavānasi*
+
+"Urger of the praises" means the institutor of the sacrifice who urges the priests to praise Indra: the intention is that you protect him.
+
+अरज्जौ दस्यून् सं उनप् दभीतये (*arajjau dasyūn saṃ unap dabhītaye*)—O Indra, the sage describes that, in order to protect the sage named Dabhīti, you confined the dasyu people in a prison where there are no ropes (रज्जु (*rajju*)) and harmed them. The intention is that when the dasyu people were tormenting the sage Dabhīti, Indra, at his prayer, fought those dasyus and put them in a prison, as though bound with ropes, and subjected them to various kinds of torment. In some places it is said that the Aśvin deities protected the sage Dabhīti, and in other places that Indra protected Dabhīti.
+
+> याभिः कुत्समार्जुनेयं शतक्रतू प्र तुर्वीतिं प्र च दभीतिमावतं ।
+
+> *yābhiḥ kutsamārjuneyaṃ śatakratū pra turvītiṃ pra ca dabhītimāvataṃ |*
+
+*(Ṛg. Saṃ. 1-112-23, as printed; agrees with the numeral file. The word तुर्वीतिं (*turvītiṃ*) is as printed.)* In this Ṛk it is said that the Aśvin deities protected Dabhīti. This Dabhīti is called a warrior in some places and a sage in others:
+
+> इन्द्रो धुनिं च चुमुरिं च दंभयञ्छ्रद्धामनस्या शृणुते दभीतये ।
+
+> *indro dhuniṃ ca cumuriṃ ca daṃbhayañchraddhāmanasyā śṛṇute dabhītaye |*
+
+*(Ṛg. Saṃ. 10-113-9, as printed; agrees with the numeral file.)*
+
+> स्वप्नेनाभ्युप्या चुमुरिं धुनिं च जघंथ दस्युं प्र दभीतिमावः ।
+
+> *svapnenābhyupyā cumuriṃ dhuniṃ ca jaghaṃtha dasyuṃ pra dabhītimāvaḥ |*
+
+*(Ṛg. Saṃ. 2-15-9, as printed; agrees with the numeral file.)* In these Ṛks Dabhīti is called a royal sage (राजर्षि (*rājarṣi*)), and it is said that for his sake Indra conquered the asuras named Cumuri and Dhuni. It is known that he pressed Soma juice and offered it to Indra, and gained Indra's favour.
+
+*(The Viśeṣaviṣayagaḷu of Ṛk 9 ends the page at this point and may continue on p. 708.)*
+
+---
+
+### Printed p. 708 (PDF 731)
+
+*(Header, read from the strip and not zoomed: "708", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13". The Viśeṣaviṣayagaḷu of Ṛk 9 ends at the top of the page.)*
+
+*(Reading note: in the quoted Ṛk below, the third word is printed so that the letter before भी looks like द्ध; it is read as दभीतये, the same word as in Ṛk 9. The reference is printed "Ṛ. Saṃ. 4-30-21", which agrees with the numeral file.)*
+
+> अस्वापयद्दभीतये सहस्रा त्रिशतं हथैः । दासानामिन्द्रो मायया ॥
+
+> *asvāpayaddabhītaye sahasrā triśataṃ hathaiḥ | dāsānāmindro māyayā ‖*
+
+*(Ṛg. Saṃ. 4-30-21, as printed.)* In this Ṛk it is said that Indra, by his own magic (माया (*māyā*)), for Dabhīti's sake, put thirty thousand (मूವತ್ತು ಸಹಸ್ರ, "thirty thousand" in the Kannada) dāsa people to sleep.
+
+---
+
+#### Ṛk 10
+
+*(Reading notes: the Ṛk number is printed "॥ १० ॥" at the end of the Saṃhitā; the Pada ends "॥" with the number as on the strip. The Saṃhitā is converted letter by letter from the Kannada. In the Pada the compound sign (ऽ) is read after वि in "विऽस्तिरः" and after सं in "संऽदृशः" as printed. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> विश्वेदनु॑ रोध॒ना अ॑स्य॒ पौंस्यं॑ द॒दुर॑स्मै दधि॒रे कृ॒त्नवे॒ धनं॑ ।
+> षळ॑स्तभ्ना वि॒ष्टिरः॒ पञ्च॑ सं॒दृशः॒ परि॑ प॒रो अ॑भवः॒ सास्यु॒क्थ्यः॑ ॥ १० ॥
+
+> *viśvedanu rodhanā asya pauṃsyaṃ dadurasmai dadhire kṛtnave dhanaṃ |*
+> *ṣaḷastabhnā viṣṭiraḥ pañca saṃdṛśaḥ pari paro abhavaḥ sāsyukthyaḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> विश्वा । इत् । अनु । रोधनाः । अस्य । पौंस्यं । ददुः । अस्मै । दधिरे । कृत्नवे । धनं ।
+> षट् । अस्तभ्नाः । विऽस्तिरः । पञ्च । संऽदृशः । परि । परः । अभवः । सः । असि । उक्थ्यः ॥
+
+> *viśvā | it | anu | rodhanāḥ | asya | pauṃsyaṃ | daduḥ | asmai | dadhire | kṛtnave | dhanaṃ |*
+> *ṣaṭ | astabhnāḥ | vi 'stiraḥ | pañca | saṃ 'dṛśaḥ | pari | paraḥ | abhavaḥ | saḥ | asi | ukthyaḥ ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: all rivers flow following Indra's might; sacrificers give him oblations and all bear wealth for him; he has restrained the six wide expanses and protects the five peoples.*
+
+> विश्वेत् ॥ सुपां सुलुगिति जस आकारः ॥ सर्वा एव रोधना रोधस्स्तत्यो [?] नद्योऽस्येन्द्रस्य पौंस्यं । पुंसो भावः पौंस्यं । वीर्यमिति यावत् । अनु तद्वीर्यमनु वर्तन्ते । अस्मा इन्द्राय ददुः । हविर्लक्षणमन्नं यजमानाः प्रयच्छन्ति । किंच कृत्नवे कर्मणां कर्त्रे इन्द्राय धनं दधिरे । सर्वे जना धारयन्ति । तथा च मन्त्रः । इन्द्राय द्याव ओषधीरुतापो रयिं रक्षन्ति जीरयो वनानि । ३-५१-५ । इति । विष्टिरो विस्तीर्णाः षट् षट्संख्याका उर्वीः । ताश्च द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधय इत्येवंरूपाः । ता अस्तभ्नाः । नियमितवानसि । संदृशः । सम्यक् पश्यन्तीति संदृशो जनाः । पञ्च संदृशः पञ्च जनास् परि सर्वतः परः पारयिता पालयिता वाभवः । भवसि । गतमन्यत् ॥
+
+> *viśvet ‖ supāṃ sulugiti jasa ākāraḥ ‖ sarvā eva rodhanā rodhasstatyo [?] nadyo 'syendrasya pauṃsyaṃ | puṃso bhāvaḥ pauṃsyaṃ | vīryamiti yāvat | anu tadvīryamanu vartante | asmā indrāya daduḥ | havirlakṣaṇamannaṃ yajamānāḥ prayacchanti | kiṃca kṛtnave karmaṇāṃ kartre indrāya dhanaṃ dadhire | sarve janā dhārayanti | tathā ca mantraḥ | indrāya dyāva oṣadhīrutāpo rayiṃ rakṣanti jīrayo vanāni | 3-51-5 | iti | viṣṭiro vistīrṇāḥ ṣaṭ ṣaṭsaṃkhyākā urvīḥ | tāśca dyauśca pṛthivī cāhaśca rātriścāpaścauṣadhaya ityevaṃrūpāḥ | tā astabhnāḥ | niyamitavānasi | saṃdṛśaḥ | samyak paśyantīti saṃdṛśo janāḥ | pañca saṃdṛśaḥ pañca janās pari sarvataḥ paraḥ pārayitā pālayitā vābhavaḥ | bhavasi | gatamanyat ‖*
+
+**ज्ञापकम्:** the Ṛgveda reference in the bhāṣya is printed "३-५१-५" (Ṛg. 3-51-5), which agrees with the numeral file. The word after रोधना… in the first sentence ("रोधस्स्तत्यो", also repeated at the start of the Viśeṣa) is read with doubt; it is glossed there in Kannada as "in their own beds, between the two banks". The bhāṣya's grammatical remark at the start (the *jas* ending replaced by *ā* by the sūtra *supāṃ suluk…*) is transcribed and not explained.
+
+---
+
+### Printed p. 709 (PDF 732)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "709".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(continued from p. 708) विश्वा इत् (*viśvā it*)—all. रोधनाः (*rodhanāḥ*)—the rivers also. अस्य (*asya*)—of you who are Indra in form. पौंस्यं (*pauṃsyaṃ*)—the heroic deed. अनु (*anu*)—following (and as its result) flow. अस्मै (*asmai*)—to you, such an Indra. ददुः (*daduḥ*)—(the sacrificers) offer (the oblation). कृत्नवे (*kṛtnave*)—to you, the doer of excellent deeds. धनं (*dhanaṃ*)—wealth. दधिरे (*dadhire*)—(all) offer. विस्तिरः (*vistiraḥ*)—you who pervade widely. षट् (*ṣaṭ*)—the six creations of yours, the earth and the rest. अस्तभ्नाः (*astabhnāḥ*)—have kept under control. पञ्च संदृशः (*pañca saṃdṛśaḥ*)—the five peoples also. परि (*pari*)—everywhere. परः (*paraḥ*)—as the protector. अभवः (*abhavaḥ*)—you have been. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, all the rivers, following your heroic deed as you who are Indra in form, flow as its result. The sacrificers offer the oblation to you. They offer wealth also to you, the excellent doer of deeds. You, who pervade widely, have kept under control your six creations, the earth and the rest. And you protect the five peoples everywhere. Such a one as you are exceedingly praiseworthy.
+
+**English Translation** *(as printed)*
+
+You are he, from whose manhood all the rivers (have proceeded); to whom (the pious) have given (offerings); to whom, doer of mighty deeds, they have presented wealth: you are he, who have regulated the six expansive (objects), and are the protector of the five (races), that look up to you: you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+विश्वा इत् अनु रोधनाः अस्य पौंस्यं (*viśvā it anu rodhanāḥ asya pauṃsyaṃ*)—Here रोधनाः (*rodhanāḥ*) means रोधस्स्तत्यो नद्यः (*rodhasstatyo nadyaḥ*) [?]: "in their own beds", that is, the rivers that flow between two banks. पौंस्यं (*pauṃsyaṃ*) means पुंसो भावः (*puṃso bhāvaḥ*): the heroic power that should be natural to men, or excess of ability. All the rivers too flow following Indra's heroic power alone, that is, his excess of ability. That is, the intention is that rivers flow in their own beds only by Indra's ability.
+
+ददुः अस्मै (*daduḥ asmai*)—
+
+> हविर्लक्षणमन्नं इन्द्राय यजमानाः प्रयच्छन्ति ।
+
+> *havirlakṣaṇamannaṃ indrāya yajamānāḥ prayacchanti |*
+
+In the sacrifice the institutors offer food in the form of the oblation, with Indra in view.
+
+दधिरे कृत्नवे धनं (*dadhire kṛtnave dhanaṃ*)—
+
+> कृत्नवे कर्मणां कर्त्रे इन्द्राय धनं दधिरे । सर्वे जना धारयन्ति ।
+
+> *kṛtnave karmaṇāṃ kartre indrāya dhanaṃ dadhire | sarve janā dhārayanti |*
+
+Here, for the word कृत्नवे (*kṛtnave*) the commentator gives कर्मणां कर्त्रे इन्द्राय (*karmaṇāṃ kartre indrāya*), that is, "for Indra who does deeds of daring". For the word सुरूपकृत्नुं (*surūpakṛtnuṃ*) (Ṛg. Saṃ. 1-4-1, as printed; agrees with the numeral file) the commentator explained the meaning of the word कृत्न (*kṛtna*) just as he has said here: शोभनरूपोपेतस्य कर्मणः कर्तारमिन्द्रं (*śobhanarūpopetasya karmaṇaḥ kartāramindraṃ*) ("Indra, the doer of a deed endowed with a beautiful form"). Therefore the intention of this sentence is: the people, or the institutor and the priests, offer wealth for Indra, who does many deeds of daring such as the slaying of Vṛtra; that is, in the sacrifice they offer wealth in the form of the oblation or of Soma. On this matter—
+
+*(continues on p. 710)*
+
+---
+
+### Printed p. 710 (PDF 733)
+
+*(Header, read from the strip and not zoomed: "710", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13".)*
+
+> इन्द्राय द्याव ओषधीरुतापो रयिं रक्षन्ति जीरयो वनानि ।
+
+> *indrāya dyāva oṣadhīrutāpo rayiṃ rakṣanti jīrayo vanāni |*
+
+*(Ṛg. Saṃ. 3-51-5, as printed; agrees with the numeral file.)* Having quoted this Ṛk, the commentator explains the meaning that the heaven, the herbs and trees, the waters, men and trees all protect and keep what wealth they have in themselves (the things in the form of wealth), in order to offer it to Indra.
+
+षट् अस्तभ्नाः विस्तिरः (*ṣaṭ astabhnāḥ vistiraḥ*)—
+
+> विष्टिरो विस्तीर्णाः षट् षट्संख्याका उर्वीः । ताश्च द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधय इत्येवंरूपाः । ता अस्तभ्नाः नियमितवानसि ।
+
+> *viṣṭiro vistīrṇāḥ ṣaṭ ṣaṭsaṃkhyākā urvīḥ | tāśca dyauśca pṛthivī cāhaśca rātriścāpaścauṣadhaya ityevaṃrūpāḥ | tā astabhnāḥ niyamitavānasi |*
+
+Six kinds of wide regions have come under your control. Heaven, earth, day, night, water, herbs and trees: all these six kinds are very wide, that is, their extent is very great. Yet the intention is that Indra alone is the controller of them all.
+
+पञ्च संदृशः परि परः अभवः (*pañca saṃdṛśaḥ pari paraḥ abhavaḥ*)—For the word संदृशः (*saṃdṛśaḥ*) in this sentence the commentator says:
+
+> सम्यक् पश्यन्तीति संदृशो जनाः
+
+> *samyak paśyantīti saṃdṛśo janāḥ*
+
+Because they are able to see (or understand) well, संदृश (*saṃdṛśa*) is explained as "people", and पञ्च संदृशः (*pañca saṃdṛśaḥ*) is said to mean the five peoples. Some say that the five peoples are five kinds of people: gandharvas, pitṛs, gods, asuras and rākṣasas. The view of Upamanyu and others is that they are five kinds of people made up of the Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra and the hunter caste called Niṣāda. Sāyaṇa has approved this. Niṣādas are those who kill living beings, or, because sin is full in them, the Nirukta-writers call them Niṣādas. Besides, in that age there may have been five main tribes (tribes) or settlements. We have written the detailed account of these five peoples, and Yāska's explanation in this matter, in Ṛ. Saṃ. parts 2-296, 8-227, 9-321 and 13-407 (as printed; agree with the numeral file). The main intention is that you, Indra, carry such five peoples across from hardship, or protect them.
+
+---
+
+#### Ṛk 11
+
+*(Reading notes: the Ṛk number is not visible on these strips: the Saṃhitā and the Pada each end with a double daṇḍa only. The page ends with the Pada. In the Pada the compound sign (ऽ) is read after सु in "सुऽप्रवाचनं" and after जातू in "जातूऽस्थिरस्य" as printed. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> सु॒प्र॒वा॒च॒नं तव॑ वीर वी॒र्यं१॒॑ यदेके॑न॒ क्रतु॑ना वि॒न्दसे॒ वसु॑ ।
+> जा॒तूष्ठि॑रस्य॒ प्र वयः॒ सह॑स्वतो॒ या च॒कर्थ॒ सेन्द्र॒ विश्वा॑स्यु॒क्थ्यः॑ ॥
+
+> *supravācanaṃ tava vīra vīryaṃ yadekena kratunā vindase vasu |*
+> *jātūṣṭhirasya pra vayaḥ sahasvato yā cakartha sendra viśvāsyukthyaḥ ‖*
+
+**॥ पदपाठः ॥**
+
+> सुऽप्रवाचनं । तव । वीर । वीर्यं । यत् । एकेन । क्रतुना । विन्दसे । वसु ।
+> जातूऽस्थिरस्य । प्र । वयः । सहस्वतः । या । चकर्थ । सः । इन्द्र । विश्वा । असि । उक्थ्यः ॥
+
+> *su 'pravācanaṃ | tava | vīra | vīryaṃ | yat | ekena | kratunā | vindase | vasu |*
+> *jātū 'sthirasya | pra | vayaḥ | sahasvataḥ | yā | cakartha | saḥ | indra | viśvā | asi | ukthyaḥ ‖*
+
+*(Ṛk 11 is left open: the bhāṣya, Pratipadārtha and the rest follow on p. 711.)*
+
+---
+
+---
+
+### Printed p. 711 (PDF 734)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 12 ]", "Ṛgvedasaṃhitā", "711".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra's might is praised by all, because with a single deed he wins the enemy's wealth, and because he accepts food from a mighty Jātūṣṭhira (or from a steady sacrifice); for all these deeds he is praiseworthy.*
+
+> वीर बलवन् हे इन्द्र तव वीर्यं सामर्थ्यं सुप्रवाचनं । सुष्ठु प्रवचनीयं । सर्वैः श्लाघनीयमित्यर्थः । किं तत् । एकेन क्रतुना कर्मणा वसु विन्दसे । शत्रूणां धनं लभसे ॥ विद्लृ लाभे । तुदादिः स्वरितेत् ॥ यद्वा तदीयं धनं स्तोतॄन् प्रापयसीति यत् तत्प्रशस्यमित्यर्थः । सहस्वतो बलवतो जातूष्ठिरस्य । एतन्नामकः कश्चित् । तस्य वयोऽन्नं प्रादाः । यद्वा जातूष्ठिरस्य । जातु कदाचित् सर्वदा स्थिरस्य सहस्वतो बलवतो यज्ञादेः कर्मणः संबन्धि वयो हविर्लक्षणमन्नं प्र विन्दसे इति समन्वयः । या यानीमान्यन्यानि विश्वा सर्वाणि कर्माणि चकर्थ कृतवानसि । स तादृशस्त्वमुक्थ्यः । सर्वैः प्रशंसनीयो भवसि ॥
+
+> *vīra balavan he indra tava vīryaṃ sāmarthyaṃ supravācanaṃ | suṣṭhu pravacanīyaṃ | sarvaiḥ ślāghanīyamityarthaḥ | kiṃ tat | ekena kratunā karmaṇā vasu vindase | śatrūṇāṃ dhanaṃ labhase ‖ vidlṛ lābhe | tudādiḥ svaritet ‖ yadvā tadīyaṃ dhanaṃ stotṝn prāpayasīti yat tatpraśasyamityarthaḥ | sahasvato balavato jātūṣṭhirasya | etannāmakaḥ kaścit | tasya vayo 'nnaṃ prādāḥ | yadvā jātūṣṭhirasya | jātu kadācit sarvadā sthirasya sahasvato balavato yajñādeḥ karmaṇaḥ saṃbandhi vayo havirlakṣaṇamannaṃ pra vindase iti samanvayaḥ | yā yānīmānyanyāni viśvā sarvāṇi karmāṇi cakartha kṛtavānasi | sa tādṛśastvamukthyaḥ | sarvaiḥ praśaṃsanīyo bhavasi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वीर (*vīra*)—O mighty Indra. यत् (*yat*)—for which reason. एकेन क्रतुना (*ekena kratunā*)—with an unequalled (non-dual) deed. वसु (*vasu*)—the (enemy's) wealth. विन्दसे (*vindase*)—you obtain (and). सहस्वतः (*sahasvataḥ*)—mighty. जातूष्ठिरस्य (*jātūṣṭhirasya*)—that which ought always to be steady. वयः (*vayaḥ*)—food in the form of the oblation. प्र (*pra*)—you partake of (therefore). तव (*tava*)—your. वीर्यं (*vīryaṃ*)—ability. सुप्रवाचनं (*supravācanaṃ*)—is praised by all (strip 2 of the page continues). इन्द्र (*indra*)—O Indra. या विश्वा (*yā viśvā*)—all these deeds that. चकर्थ (*cakartha*)—you have done. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—are worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+O mighty Indra, by your unequalled deed you obtain the enemy's wealth, and you partake of the oblation-food that is full of vigour and ought always to be steady. By both, your ability is praised by all. O Indra, you who have done all these deeds, such a one as you are worthy of praise.
+
+**English Translation** *(as printed)*
+
+Your heroism, hero, is to be glorified, by which, with a single effort, you have acquired wealth; (wherewith) the (sacrificial) food of (every) solemn and constant (ceremony is provided); for all (the acts) you have performed, you Indra, are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुप्रवाचनं तव वीर वीर्यं (*supravācanaṃ tava vīra vīryaṃ*)—
+
+> हे बलवन्निन्द्र तव वीर्यं सामर्थ्यं सुष्ठु प्रवचनीयं सर्वैः श्लाघनीयमित्यर्थः ।
+
+> *he balavannindra tava vīryaṃ sāmarthyaṃ suṣṭhu pravacanīyaṃ sarvaiḥ ślāghanīyamityarthaḥ |*
+
+O Indra, who are full of valour, your
+
+*(continues on p. 712; the sentence breaks at "your")*
+
+---
+
+### Printed p. 712 (PDF 735)
+
+*(Header, read from the strip and not zoomed: "712", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13". The last digit of the sūkta number is cut by the margin.)*
+
+excess of ability is praised by all. Here वीर्य (*vīrya*) means Indra's special ability, or his deed of daring. Which that deed of daring is, is explained in the next sentence.
+
+यत् एकेन क्रतुना विन्दसे वसु (*yat ekena kratunā vindase vasu*)—
+
+> एकेन कर्मणा शत्रूणां धनं लभसे । यद्वा तदीयं धनं स्तोतॄन् प्रापयसीति यत् तत्प्रशस्यमित्यर्थः ।
+
+> *ekena karmaṇā śatrūṇāṃ dhanaṃ labhase | yadvā tadīyaṃ dhanaṃ stotṝn prāpayasīti yat tatpraśasyamityarthaḥ |*
+
+Since the word क्रतु (*kratu*) is read among the names of "deed" (Ni. 3-1, as printed; agrees with the numeral file), क्रतुना (*kratunā*) means by work, or by a deed of daring. Defeating enemies is that deed of daring. "By a single deed in the form of the defeat of enemies you gain wealth; or you bring that wealth to us who praise you." Thus the deed that overcomes the enemy and brings us wealth is praised by all; this is how it connects with the previous sentence.
+
+जातूष्ठिरस्य प्र वयः सहस्वतः प्र (विन्दसे) (*jātūṣṭhirasya pra vayaḥ sahasvataḥ pra (vindase)*)—
+
+> सहस्वतो बलवतो जातूष्ठिरस्य एतन्नामकः कश्चित् तस्य वयोऽन्नं प्रादाः ।
+
+> *sahasvato balavato jātūṣṭhirasya etannāmakaḥ kaścit tasya vayo 'nnaṃ prādāḥ |*
+
+Since the word सहस् (*sahas*) is read among the names of strength (Ni. 3-9 [?], as printed; unzoomed), सहस्वतः (*sahasvataḥ*) means "one who has strength". O Indra, you helped a strong man called Jātūṣṭhira by providing him with food. This too is one of your deeds of daring. The name Jātūṣṭhira occurs in the Ṛgveda only in this Ṛk, and nowhere else. So who he is, what his affair was, why Indra helped him with food: such details cannot be known. Probably this Jātūṣṭhira was in distress without food and the like, and Indra, as he prayed, provided him with food. That is what is said here. Or—
+
+> जातूष्ठिरस्य । जातु कदाचित् सर्वदा स्थिरस्य सहस्वतो बलवतो यज्ञादेः कर्मणः संबन्धि वयो हविर्लक्षणमन्नं प्र विन्दसे इति समन्वयः ।
+
+> *jātūṣṭhirasya | jātu kadācit sarvadā sthirasya sahasvato balavato yajñādeḥ karmaṇaḥ saṃbandhi vayo havirlakṣaṇamannaṃ pra vindase iti samanvayaḥ |*
+
+Or else the commentator says another meaning can be given to this sentence: for the word जातूष्ठिरस्य (*jātūṣṭhirasya*) the meaning "a sacrifice which is steady because it is always performed by people" can be taken. For सहस्वतः (*sahasvataḥ*), "strong", that is, endowed with greatness, or giving abundant fruit, can be taken. So, O Indra, "you obtain food in the form of the oblation in sacrifices and other rites that are always performed by people and give abundant fruit": this is the other meaning he has given. But since for the word सहस्वतः (*sahasvataḥ*) the meaning "strong, or valorous" fits properly, the meaning that जातूष्ठिरस्य (*jātūṣṭhirasya*) is a man of that name is the appropriate one.
+
+यो चकर्थ सः इन्द्र विश्वा असि उक्थ्यः (*yo cakartha saḥ indra viśvā asi ukthyaḥ*) *(printed here "यो चकर्थ"; the Saṃhitā has "या चकर्थ")*—O Indra, because you have done the various deeds of daring mentioned above, you are praiseworthy; that is, people praise you for the deeds of daring that you have done. This is the main intention.
+
+*(A short rule closes the Ṛk.)*
+
+---
+
+### Printed p. 713 (PDF 736)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 12 ]", "Ṛgvedasaṃhitā", "713".)*
+
+#### Ṛk 12
+
+*(Reading notes: the Ṛk number is printed "॥ १२ ॥" at the end of the Saṃhitā and again after the Pada; not zoomed. The last words of the Saṃhitā are broken across a line, "श्रवयन्…स्यु‑क्थ्यः"; the join "श्रवयन्त्सास्युक्थ्यः" is read with doubt [?]. In the Pada the compound sign (ऽ) is read after सर in "सरऽअपसः" and after परा in "पराऽवृजं" as printed. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> अर॑मयः॒ सर॑पस॒स्तरा॑य॒ कं तु॒र्वीत॑ये च व॒य्या॑य च स्रु॒तिं ।
+> नी॒चा संत॒मुद॑नयः परा॒वृजं॒ प्रांधं श्रो॒णं श्र॒वय॒न्त्सास्यु॒क्थ्यः॑ ॥ १२ ॥
+
+> *aramayaḥ sarapasastarāya kaṃ turvītaye ca vayyāya ca srutiṃ |*
+> *nīcā saṃtamudanayaḥ parāvṛjaṃ prāṃdhaṃ śroṇaṃ śravayantsāsyukthyaḥ ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> अरमयः । सरऽअपसः । तराय । कं । तुर्वीतये । च । वय्याय । च । स्रुतिं ।
+> नीचा । संतं । उत् । अनयः । पराऽवृजं । प्र । अंधं । श्रोणं । श्रवयन् । सः ।
+> असि । उक्थ्यः ॥ १२ ॥
+
+> *aramayaḥ | sara 'apasaḥ | tarāya | kaṃ | turvītaye | ca | vayyāya | ca | srutiṃ |*
+> *nīcā | saṃtaṃ | ut | anayaḥ | parā 'vṛjaṃ | pra | aṃdhaṃ | śroṇaṃ | śravayan | saḥ |*
+> *asi | ukthyaḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra made the rivers easy to cross for the royal sage Turvīti and for Vayya, raised the fallen Parāvṛj out of distress, and, spreading his own fame, lifted up the blind and the lame.*
+
+> हे इन्द्र सरपसः । सरणमपः कर्म यासां ताः सरपसः ॥ शंकध्वादित्वात्पररूपत्वं ॥ ता अपः कं सुखेन तराय तरणायारमयः । आक्रीडयः । किंच तुर्वीतये । तुर्वीतिर्नाम कश्चिद्राजर्षिः । तस्मै वय्याय च । वय्यो नाम कश्चित् तस्मै । ताभ्यां स्रुतिं सरणिं प्रत्यरमयः । तौ हि जलपूर्णां महानदीं दृष्ट्वा तरीतुमसमर्थावास्तां । तौ च त्वया तारितौ । परावृजं । परितः पापानि वृणक्ति दहतीति परावृक् कश्चिदृषिः । तमप्सु मग्नं तथा नीचा नीचं संतमुदनयः । आपद्भ्य ऊर्ध्वं नीतवानसि । किंच अंधं संतं श्रोणं पंगुं संतं चक्षुर्दानादसंगु[?]करणाच्छ्रोदनयः । किं कुर्वन् । प्रकर्षेण श्रवयन् । आत्मानं कीर्तिमंतं कुर्वन् । उदनयः इति समन्वयः । स इत्यादि सिद्धं ॥
+
+> *he indra sarapasaḥ | saraṇamapaḥ karma yāsāṃ tāḥ sarapasaḥ ‖ śaṃkadhvāditvātpararūpatvaṃ ‖ tā apaḥ kaṃ sukhena tarāya taraṇāyāramayaḥ | ākrīḍayaḥ | kiṃca turvītaye | turvītirnāma kaścidrājarṣiḥ | tasmai vayyāya ca | vayyo nāma kaścit tasmai | tābhyāṃ srutiṃ saraṇiṃ pratyaramayaḥ | tau hi jalapūrṇāṃ mahānadīṃ dṛṣṭvā tarītumasamarthāvāstāṃ | tau ca tvayā tāritau | parāvṛjaṃ | paritaḥ pāpāni vṛṇakti dahatīti parāvṛk kaścidṛṣiḥ | tamapsu magnaṃ tathā nīcā nīcaṃ saṃtamudanayaḥ | āpadbhya ūrdhvaṃ nītavānasi | kiṃca aṃdhaṃ saṃtaṃ śroṇaṃ paṃguṃ saṃtaṃ cakṣurdānādasaṃgu[?]karaṇācchrodanayaḥ | kiṃ kurvan | prakarṣeṇa śravayan | ātmānaṃ kīrtimaṃtaṃ kurvan | udanayaḥ iti samanvayaḥ | sa ityādi siddhaṃ ‖*
+
+*(Reading note: the clause about the blind and the lame, "चक्षुर्दानादसंगु…करणाच्छ्रोदनयः", is printed across a line break and is read with doubt [?]. The grammatical remark "शंकध्वादित्वात्पररूपत्वं" is transcribed and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इन्द्र (*indra*)—O Indra.) तुर्वीतये (*turvītaye*)—to the royal sage called Turvīti. वय्याय च (*vayyāya ca*)—and to the one called Vayya. सरपसः (*sarapasaḥ*)—the flowing rivers. कं (*kaṃ*)—easily. तराय (*tarāya*)—for crossing. स्रुतिं (*srutiṃ*)—a path. अरमयः (*aramayaḥ*)—you made. प्र श्रवयन् (*pra śravayan*)—making your fame shine forth. नीचा (*nīcā*)—in the lower part. संतं (*saṃtaṃ*)—who had fallen. अंधं (*aṃdhaṃ*)—who was blind. श्रोणं (*śroṇaṃ*)—who was lame. परावृजं (*parāvṛjaṃ*)—the one called Parāvṛk. उदनयः (*udanayaḥ*)—you protected from the distress and lifted up. सः (*saḥ*)—such a one as you. उक्थ्यः (*ukthyaḥ*)—worthy of praise. असि (*asi*)—you are.
+
+*(Ṛk 12 is left open: the Bhāvārtha and the rest follow on p. 714.)*
+
+---
+
+### Printed p. 714 (PDF 737)
+
+*(Header, read from the strip and not zoomed: "714", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13". The page opens with the Bhāvārtha of Ṛk 12.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, for the royal sage called Turvīti and for the man called Vayya you made a path, so that they could cross the flowing rivers with ease. Making your fame shine forth, you protected from distress and lifted upward the one called Parāvṛk, who had fallen into the lower part (a pit), who was blind and who was lame. Such a one as you are worthy of praise.
+
+**English Translation** *(as printed)*
+
+You have provided a passage for the easy crossing of the flowing waters for Turviti and for Vayya: rendering (yourself) renowned, you have uplifted the blind and lame Paravrij from the lowliness (of affliction); you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अरमयः (*aramayaḥ*) (*aramayaḥ*)—explained as अक्रीडयः (*akrīḍayaḥ*) (*akrīḍayaḥ*, "you made sport"). Although the verbal root रमु क्रीडायां (*ramu krīḍāyāṃ*) (*ramu krīḍāyāṃ*, to sport) has the meanings "to take pleasure, to play", here the meaning "you made (it) for sport" (*krīḍārthavāgi*, as printed) can be given.
+
+सरपसः (*sarapasaḥ*) (*sarapasaḥ*)—the Pada-writer has divided this word as सरऽअपसः (*sara 'apasaḥ*) (*sara 'apasaḥ*, compound sign as printed): that is, the two words सर (*sara*) + अपसः (*apasaḥ*) joined must be सरापसः (*sarāpasaḥ*) (*sarāpasaḥ*). For the convenience of the metre the letter *ra* (as printed; the vowel is meant) was shortened, and it became सरपसः (*sarapasaḥ*). Sāyaṇa explains this word as सरणमपः कर्म यासां ताः सरपसः (*saraṇamapaḥ karma yāsāṃ tāḥ sarapasaḥ*) (*saraṇamapaḥ karma yāsāṃ tāḥ sarapasaḥ*), that is, "rivers that have the action of running or flowing, whose nature is to flow".
+
+*(The Kannada text now quotes the bhāṣya on the Ṛk again, with its meaning added:)*
+
+> (हे इन्द्र) तुर्वीतये च वय्याय च सरपसः कं तराय स्रुतिं अरमयः—
+> सरपसः प्रवहणशीलाः अपः कं सुखेन तराय तुर्वीतये तुर्वीतिर्नाम कश्चिद्राजर्षिः । तस्मै वय्याय च । वय्यो नाम कश्चित् तस्मै ताभ्यां स्रुतिं सरणं प्रत्यरमयः । तौ हि जलपूर्णां महानदीं दृष्ट्वैव तरीतुमसमर्थावास्तां । तौ च त्वया तारितौ ॥
+
+> *(he indra) turvītaye ca vayyāya ca sarapasaḥ kaṃ tarāya srutiṃ aramayaḥ—*
+> *sarapasaḥ pravahaṇaśīlāḥ apaḥ kaṃ sukhena tarāya turvītaye turvītirnāma kaścidrājarṣiḥ | tasmai vayyāya ca | vayyo nāma kaścit tasmai tābhyāṃ srutiṃ saraṇaṃ pratyaramayaḥ | tau hi jalapūrṇāṃ mahānadīṃ dṛṣṭvaiva tarītumasamarthāvāstāṃ | tau ca tvayā tāritau ‖*
+
+The sense of the passage, in the Kannada: "O Indra, you made a path for Turvīti and Vayya to cross with ease the river flowing full of water." Turvīti is a royal sage; Vayya is a man. When the two, unable to cross the river flowing full of flood, were helpless, you made them cross: this is the commentator's explanation.
+
+तुर्वीतये, वय्याय (*turvītaye, vayyāya*) (*turvītaye, vayyāya*)—it is necessary here to describe the matter of Turvīti and Vayya. In the present Ṛk the commentator says that Turvīti is a royal sage and that Vayya is a man. But in Ṛ. Saṃ. 1-54-6 the
+
+*(continues on p. 715; the sentence breaks at "the")*
+
+---
+
+### Printed p. 715 (PDF 738)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 12 ]", "Ṛgvedasaṃhitā", "715".)*
+
+commentator, speaking of Vayya and Turvīti, says वय्यकुलजं तुर्वीतिनामानं राजानं (*vayyakulajaṃ turvītināmānaṃ rājānaṃ*) (*vayyakulajaṃ turvītināmānaṃ rājānaṃ*)—"the king named Turvīti, born in Vayya's family". Some say that Turvīti is Vayya's son. The Aśvin gods protected this Vayya and also Karkandhu; this is said in the Ṛk (Ṛ. Saṃ. 1-112-6, as printed; agrees with the numeral file):
+
+> याभिः कर्कंधुं वय्यं च जिन्वथस्ताभिरू षु ऊतिभिरश्विना गतं ।
+
+> *yābhiḥ karkaṃdhuṃ vayyaṃ ca jinvathastābhirū ṣu ūtibhiraśvinā gataṃ |*
+
+So it is said in that Ṛk. Concerning these two, Skandasvāmi says in his Ṛgveda commentary:
+
+> कर्कंधुः वय्यश्च राजर्षी अतिक्लान्तौ तपस्तप्यमानौ यदृच्छया पर्यटन्तावश्विनौ दद्दृशतुः । दृष्ट्वा च तावमृतेनाप्याययांचक्रतुरिति तदेतदिहोच्यते ॥
+
+> *karkaṃdhuḥ vayyaśca rājarṣī atiklāntau tapastapyamānau yadṛcchayā paryaṭantāvaśvinau dadṛśatuḥ | dṛṣṭvā ca tāvamṛtenāpyāyayāṃcakraturiti tadetadihocyate ‖*
+
+*(Reading note: "दद्दृशतुः" is read as printed; "अतिक्लान्तौ" and "पर्यटन्तौ" are read from conjuncts that are hard to make out [?].)*
+
+The sense: the royal sages Karkandhu and Vayya were practising extremely painful austerity and wandering in the forest, when the Aśvin gods saw them by chance. Afterwards they gave them satisfaction by the gift of nectar (*amṛta*). So it is said. And—
+
+> ईशानकृद्दाशुषे दशस्यन्तुर्वीतये गाधं तुर्वणिः कः ।
+
+> *īśānakṛddāśuṣe daśasyanturvītaye gādhaṃ turvaṇiḥ kaḥ |*
+
+*(Ṛ. Saṃ. 1-61-11, as printed; agrees with the numeral file.)* In this Ṛk it is said that Indra helped Turvīti to cross the river-streams.
+
+> त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो ।
+
+> *tvamāvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato |*
+
+*(Ṛ. Saṃ. 1-54-6, as printed; agrees with the numeral file.)* In this Ṛk it is said that Indra protected Turvīti and Vayya.
+
+> त्वं महीमवनिं विश्वधेनां तुर्वीतये वय्याय क्षरन्तीं[?] ।
+
+> *tvaṃ mahīmavaniṃ viśvadhenāṃ turvītaye vayyāya kṣarantīṃ[?] |*
+
+*(Reading note: the word printed before the end of the line looks like "स्वरन्तीं"; I give "क्षरन्तीं" with doubt [?]. Ṛ. Saṃ. 4-19-6, as printed; agrees with the numeral file.)*
+
+In this Ṛk too it is said that Indra made Turvīti and Vayya cross the flowing river. Besides this, the matter of Turvīti is mentioned in the Ṛks Ṛ. Saṃ. 1-36-18 and 1-112-23, and the matter of Vayya in the Ṛks Ṛ. Saṃ. 2-3-6 and 9-68-8 (all as printed; agree with the numeral file, not zoomed). The opinion of the scholar Ludwig is that Turvīti was a king of the people (tribes) called Turvaśas and Yadus. But there is no support at all for this. It can only be said that Turvīti belonged to the group of the Turvaśas.
+
+नीचा संतं उत् अनयः परावृजं प्र अंधं श्रोणं श्रवयन् (*nīcā saṃtaṃ ut anayaḥ parāvṛjaṃ pra aṃdhaṃ śroṇaṃ śravayan*) (*nīcā saṃtaṃ ut anayaḥ parāvṛjaṃ pra aṃdhaṃ śroṇaṃ śravayan*)—
+
+> परितः पापानि वृणक्ति दहतीति परावृक् कश्चिदृषिः । तमप्सु मग्नं तथा नीचा नीचं संत-
+
+> *paritaḥ pāpāni vṛṇakti dahatīti parāvṛk kaścidṛṣiḥ | tamapsu magnaṃ tathā nīcā nīcaṃ saṃta-*
+
+*(the line breaks here; the quotation continues on p. 716)*
+
+---
+
+### Printed p. 716 (PDF 739)
+
+*(Header, read from the strip and not zoomed: "716", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 3 Sū. 13" — the second numeral looks like 3 here; not zoomed [?].)*
+
+> मुदनयः । आपद्भ्य ऊर्ध्वं नीतवानसि । किंच अंधं संतं श्रोणं पंगुं संतं चक्षुर्दानादपंगुकरणाच्छ्रोदनयः । किं कुर्वन् आत्मानं कीर्तिमंतं कुर्वन् ॥
+
+> *mudanayaḥ | āpadbhya ūrdhvaṃ nītavānasi | kiṃca aṃdhaṃ saṃtaṃ śroṇaṃ paṃguṃ saṃtaṃ cakṣurdānādapaṃgukaraṇācchrodanayaḥ | kiṃ kurvan ātmānaṃ kīrtimaṃtaṃ kurvan ‖*
+
+*(Reading note: here the clause about the blind and the lame is printed clearly as "चक्षुर्दानादपंगुकरणाच्छ्रोदनयः"; this corrects the doubtful reading "असंगु[?]करणाच्छ्रोदनयः" written for the same phrase in the bhāṣya on p. 713. "-मुदनयः" follows "संत-" on the previous page: "संतमुदनयः".)*
+
+Parāvṛk is a great sage. Because by his power he has the capacity to burn up the sins on all sides so that they do not envelop him, he is called Parāvṛk. He was lame, and being blind, unable to see, he had fallen into a lower place (or a pit). He praised Indra, and Indra, pleased with his hymn, lifted him up and protected him: the sage describes this matter here. The matter of this sage (is stated) in—
+
+> याभिः शचीभिर्वृषणा परावृजं प्रांधं श्रोणं चक्षस एतवे कृथः ।
+
+> *yābhiḥ śacībhirvṛṣaṇā parāvṛjaṃ prāṃdhaṃ śroṇaṃ cakṣasa etave kṛthaḥ |*
+
+*(Ṛ. Saṃ. 1-112-8, as printed; no row in the numeral file, read from the strip, not zoomed.)* In this Ṛk the Aśvin gods, just as in the present Ṛk, are said to have protected Parāvṛja, who was blind and lame, by giving him legs and eyes.
+
+> स विद्वाँ अपगोहं कनीनामाविर्भवन्नुदतिष्ठत् परावृक् ।
+> प्रति श्रोणः स्थाद्व्यनगचष्ट सोमस्य ता मद इन्द्रश्चकार ॥
+
+> *sa vidvāṃ apagohaṃ kanīnāmāvirbhavannudatiṣṭhat parāvṛk |*
+> *prati śroṇaḥ sthādvyanagacaṣṭa somasya tā mada indraścakāra ‖*
+
+*(Reading note: a small mark printed between "स्थाद्व्य" and "नगचष्ट" is the accent sign "१"; it is not reproduced, and the word-division is left as printed. Ṛ. Saṃ. 2-15-7, as printed; agrees with the numeral file.)*
+
+In this Ṛk it is said that because Indra, having drunk soma, was exhilarated, the sage called Parāvṛk, who was lame and blind, got eyes and legs.
+
+> सरत्पदा न दक्षिणा परावृज्न ता नु नो[?] पृशन्यो जगृभ्रे ।
+
+> *saratpadā na dakṣiṇā parāvṛjna tā nu no[?] pṛśanyo jagṛbhre |*
+
+*(Reading note: "नो" is read from the strip with doubt [?]; "परावृज्न" is as printed. Ṛ. Saṃ. 10-61-8, as printed; agrees with the numeral file.)*
+
+In this Ṛk the word परावृक् (*parāvṛk*) occurs, but Sāyaṇa has explained this word as परावर्जयिता सन् (*parāvarjayitā san*) (*parāvarjayitā san*, "being one who casts off"). Some among the English scholars hold that the word परावृक् (*parāvṛk*) in this Ṛk refers to the sage spoken of above, and that the matter of his going to the south is spoken of here—
+
+*(The Kannada introduces the following passage printed in English, with the Kannada-script word परावृज् (*parāvṛj*) set in it:)*
+
+परावृज् (*parāvṛj*, printed in Kannada script) is a term found in four passages of the Rigveda; in all of which it refers to a person in a forlorn condition while one of them also speaks of him as going South. Sayanas' view that the world [sic: "word"] is a proper name is most unlikely, while Grassmann's explanation of it as cripple is still less probable. Roth's interpretation of it as exile seems clearly right in the passage which refers to the परावृज् (*parāvṛj*, Kannada script) as going south. Zimmer accepts Roth's view for this passage, but in the others sees a reference to the child of a maiden, exposed by her and in danger of being eaten by insects (वम्रि (*vamri*), Kannada script, as printed). This view is supported by the fact that परावृक्त[?] (*parāvṛkta*[?], Kannada script) seems to have the same sense and is accepted by Oldenberg,
+
+(Vedic Index of Names & Subjects by Macdonell and Keith. P. 492–493)
+
+*(The Viśeṣaviṣayagaḷu of Ṛk 12 is not yet closed on this page; the next page follows. The page has no grammar section.)*
+
+---
+
+### Printed p. 717 (PDF 740)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]" [the varga numeral is doubtful, it could be 12], "Ṛgvedasaṃhitā", "717". The page opens with the end of the Viśeṣaviṣayagaḷu of Ṛk 12, continuing from p. 716.)*
+
+If their opinion is examined together with the preceding and following contexts, one has to say that they did not understand the meaning of the Ṛk Ṛ. Saṃ. 10-61-8 correctly (the numerals "10-61-8" as printed; they agree with the numeral file). The word परावृज् (*parāvṛj*) in this Ṛk indicates the name of the sage spoken of above, but they take a wrong meaning, namely that he is going towards the south, and so they express a doubt. Their opinion that Sāyaṇa's explanation, that the word परावृक् (*parāvṛk*) indicates the name of a sage, is itself not correct, is also not sound.
+
+*(End of the Viśeṣaviṣayagaḷu of Ṛk 12. No grammar section is printed for this Ṛk.)*
+
+---
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मभ्यं॒ तद्व॑सो दा॒नाय॒ राधः॒ सम॑र्थयस्व ब॒हु ते॑ वस॒व्यं॑ ।
+> इन्द्र॒ यच्चि॒त्रं श्र॑व॒स्या अनु॒ द्यून्बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+
+> *asmabhyaṃ tadvaso dānāya rādhaḥ samarthayasva bahu te vasavyaṃ |*
+> *indra yaccitraṃ śravasyā anu dyūnbṛhadvadema vidathe suvīrāḥ ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्मभ्यं । तत् । वसो इति । दानाय । राधः । सं । अर्थयस्व । बहु । ते । वसव्यं ।
+> इन्द्र । यत् । चित्रं । श्रवस्याः । अनु । द्यून् । बृहत् । वदेम । विदथे । सुऽवीराः ॥ १३ ॥
+
+> *asmabhyaṃ | tat | vaso iti | dānāya | rādhaḥ | saṃ | arthayasva | bahu | te | vasavyaṃ |*
+> *indra | yat | citraṃ | śravasyāḥ | anu | dyūn | bṛhat | vadema | vidathe | su 'vīrāḥ ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: O Indra, give us fully, for giving and enjoying, the abundant wealth you have and wish us to enjoy day by day; with good sons we shall recite abundant śastra mantras at the sacrifice.*
+
+> वसो सर्वस्य वासक वसुमन् । हे इन्द्र स्तोतृभ्योऽस्मभ्यं तद्राधो धनं दानाय । उपलक्षणमेतत् । भोगाय च समर्थयस्व । देहि । अस्मान् संगमयेत्यर्थः ॥ अर्थ याचने चुरादिरदंते आत्मनेपदी ॥ ते तव तद्बहु प्रभूतं वसव्यं ॥ वस्वेव वसव्यं । वस्वादित्वात् स्वार्थिको यत् ॥ तादृशं प्रभूतं धनमस्ति खलु । चित्रं चायनीयं यद्धनमनु द्यून् अन्वहं ॥ कालाध्वनोरिति द्वितीया ॥ श्रवस्याः । भोग्यमिच्छेः ॥ अंतर्णीतण्यर्थत्वादकर्मकत्वं[?] । यथा रोदितीति । स त्वन्यः । द्वे ह्यत्र कर्मणी उद्देश्यकर्म च विधेयकर्मांतर्भूतं । उद्देश्यकर्मणा सकर्मको भविष्यति । यथा माणवकं पुत्रीयतीति भाष्ये उदाहृतं । पा. ३-१-८-२ । श्रवःशब्दाच्छंदसि परेच्छायां क्यच् । तदंतस्य लेट्यडागमो रूपं ॥ सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं शस्त्रादिकं वाक्यं वदेम ॥
+
+> *vaso sarvasya vāsaka vasuman | he indra stotṛbhyo 'smabhyaṃ tadrādho dhanaṃ dānāya | upalakṣaṇametat | bhogāya ca samarthayasva | dehi | asmān saṃgamayetyarthaḥ ‖ artha yācane curādiradaṃte ātmanepadī ‖ te tava tadbahu prabhūtaṃ vasavyaṃ ‖ vasveva vasavyaṃ | vasvāditvāt svārthiko yat ‖ tādṛśaṃ prabhūtaṃ dhanamasti khalu | citraṃ cāyanīyaṃ yaddhanamanu dyūn anvahaṃ ‖ kālādhvanoriti dvitīyā ‖ śravasyāḥ | bhogyamiccheḥ ‖ aṃtarṇītaṇyarthatvādakarmakatvaṃ[?] | yathā roditīti | sa tvanyaḥ | dve hyatra karmaṇī uddeśyakarma ca vidheyakarmāṃtarbhūtaṃ | uddeśyakarmaṇā sakarmako bhaviṣyati | yathā māṇavakaṃ putrīyatīti bhāṣye udāhṛtaṃ | pā. 3-1-8-2 | śravaḥśabdācchaṃdasi parecchāyāṃ kyac | tadaṃtasya leṭyaḍāgamo rūpaṃ ‖ suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema ‖*
+
+*(Reading notes: the end-of-line division "स / त्वन्यः" is read as "स त्वन्यः". The word "भोग्यमिच्छेः" is read with the printed hook-sign as *ma*. The word "अकर्मकत्वं" is read with doubt [?]. The reference "पा. ३-१-८-२" is as printed and agrees with the numeral file ("31-822"); it was not zoomed. The grammatical remarks are transcribed and not explained.)*
+
+---
+
+### Printed p. 718 (PDF 741)
+
+*(Header, read from the strip and not zoomed: "718", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसो (*vaso*)—O wealthy one. इन्द्र (*indra*)—O Indra. चित्रं (*citraṃ*)—of many kinds and delightful. यत् (*yat*)—which wealth. अनु द्यून् (*anu dyūn*)—every day. श्रवस्याः (*śravasyāḥ*)—do you wish us to enjoy it, or: do you wish that we should enjoy it. ते (*te*)—belonging to you, बहु (*bahu*)—abundant, वसव्यं (*vasavyaṃ*)—and rich in possessions. तत् राधः (*tat rādhaḥ*)—that wealth. अस्मभ्यं (*asmabhyaṃ*)—to us. दानाय (*dānāya*)—both for giving and for enjoyment. समर्थयस्व (*samarthayasva*)—give fully. सुवीराः (*suvīrāḥ*)—we, endowed with excellent sons. विदथे (*vidathe*)—at this sacrifice. बृहत् (*bṛhat*)—abundant śastra and other mantras. वदेम (*vadema*)—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O wealthy Indra, give us fully, both for giving (to others) and for our enjoyment, that wealth which you wish us to enjoy day by day, which is abundant in you and full of riches. We, endowed with excellent sons, shall recite abundant śastra and other mantras at this sacrifice.
+
+**English Translation** *(as printed)*
+
+Possessor of riches, exert your ability to bestow wealth upon us; for yours is great affluence: may you, Indra, be disposed to grant us exceeding abundance day by day, so that, blessed with worthy descendants, we may glorify you at (our) sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Up to now the heroic deeds of Indra have been described in many ways. Now, in this last Ṛk of the sūkta, as a conclusion, Indra is praised and he is prayed to give wealth and the like.
+
+वसो—सर्वस्य वासक वसुमन् हे इन्द्र (*vaso—sarvasya vāsaka vasuman he indra*)—"Giver of a dwelling to all, or: wealthy O Indra". The commentator gives this word two kinds of meaning.
+
+अस्मभ्यं दानाय राधः समर्थयस्व (*asmabhyaṃ dānāya rādhaḥ samarthayasva*)—the sense is: give wealth to us, both for giving to others and for our own enjoyment.
+
+बहु ते वसव्यं (*bahu te vasavyaṃ*)—from this sentence the sense is conveyed that Indra has much wealth and the like, and that therefore Indra is able to give wealth and the like to those who praise him.
+
+---
+
+### Printed p. 719 (PDF 742)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "719".)*
+
+इन्द्र यत् चित्रं श्रवस्याः अनु द्यून् (*indra yat citraṃ śravasyāḥ anu dyūn*)—O Indra, Indra is prayed to give to us, who desire wealth, wealth and other things of many kinds every day.
+
+बृहत् वदेम विदथे सुवीराः (*bṛhat vadema vidathe suvīrāḥ*)—
+
+> सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं शस्त्रादिकं वाक्यं वदेम ॥
+
+> *suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema ‖*
+
+Accompanied by excellent sons, grandsons and the like and by valiant servants, we shall, for your pleasure, Indra, recite abundant śastra and other mantras at this sacrifice: as is said in the earlier sūktas, so at the end of this sūkta too the sage has expressed this wish.
+
+*(End of Sūkta 13. The Kannada prints the heading of the next sūkta:)*
+
+---
+
+## हदिनाल्कनेय सूक्तवु — Fourteenth Sūkta (Hadinālkaneya sūktavu)
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Sūkta "adhvaryavo bharata", twelve Ṛks, third sūkta of the anuvāka, by Gṛtsamada, in Triṣṭubh, addressed to Indra. Its use (viniyoga) is by indication (laiṅgika), in the Atirātra.*
+
+> अध्वर्यवो भरतेति द्वादशर्चं तृतीयं सूक्तं गार्त्समदं त्रैष्टुभमैन्द्रं । अध्वर्यवो द्वादशेत्यनुक्रांतं ॥ सूक्तविनियोगो लैंगिकः । अतिरात्रे प्रथमे पर्याये होतुः शस्त्रयाज्याध्वर्यव इत्येषा । अध्वर्यवो भरतेन्द्राय सोममिति याज्या । आ. ६-४ । इति सूत्रितं ॥
+
+> *adhvaryavo bharateti dvādaśarcaṃ tṛtīyaṃ sūktaṃ gārtsamadaṃ traiṣṭubhamaindraṃ | adhvaryavo dvādaśetyanukrāṃtaṃ ‖ sūktaviniyogo laiṃgikaḥ | atirātre prathame paryāye hotuḥ śastrayājyādhvaryava ityeṣā | adhvaryavo bharatendrāya somamiti yājyā | ā. 6-4 | iti sūtritaṃ ‖*
+
+*(Reading note: the line break "त्रैष्टुभ- / मैन्द्रं" is joined as "त्रैष्टुभमैन्द्रं". The sūtra reference "आ. ६-४" is as printed and agrees with the numeral file; not zoomed.)*
+
+**अनुवाद (Anuvāda)**
+
+The sūkta beginning अध्वर्यवो भरत (*adhvaryavo bharata*) is the third sūkta in the second anuvāka. It has twelve Ṛks. The ṛṣi of this sūkta is Gṛtsamada; the deity is Indra; the metre is Triṣṭubh. The Anukramaṇikā says अध्वर्यवो द्वादश (*adhvaryavo dvādaśa*) and so on. The use (viniyoga) of this sūkta is laiṅgika (by indication). In the sacrifice called Atirātra, in the first paryāya, the Hotṛ is to recite the first Ṛk of this sūkta अध्वर्यवो भरत (*adhvaryavo bharata*) as the śastra-yājyā mantra; this is set out in Āśvalāyana's Śrauta Sūtra, in the sūtra अध्वर्यवो भरतेन्द्राय सोममिति याज्या (*adhvaryavo bharatendrāya somamiti yājyā*) (Ā. 6-4, as printed; the numerals agree with the numeral file).
+
+*(The page ends here, with a rule. Ṛk 1 of Sūkta 14 begins on the next page.)*
+
+---
+
+---
+
+### Printed p. 720 (PDF 743)
+
+*(Header, read from the strip and not zoomed: "720", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". The sūkta's title block follows. It repeats the details already given in the Sāyaṇa introduction, in the Kannada printer's form: "Om". Sūkta—14. Maṇḍala—2, Anuvāka—2, Sūkta—14. Aṣṭaka—2, Adhyāya—6, Varga—13, 14. Number of Ṛks in the sūkta—12. Ṛṣi—Gṛtsamada. Devatā—Indra. Chandas—Triṣṭubh. The numerals are as read from the strip, not zoomed. The word "Saṃhitāpāṭhaḥ" is printed in small type above the verse.)*
+
+---
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ भर॒तेन्द्रा॑य॒ सोम॒माम॑त्रेभिः सिंचता॒ मद्य॒मंधः॑ ।
+> का॒मी हि वी॒रः सद॑मस्य पी॒तिं जु॒होत॒ वृष्णे॒ तदिदे॒ष व॑ष्टि ॥
+
+> *adhvaryavo bharatendrāya somamāmatrebhiḥ siṃcatā madyamaṃdhaḥ |*
+> *kāmī hi vīraḥ sadamasya pītiṃ juhota vṛṣṇe tadideṣa vaṣṭi ‖*
+
+*(Reading note: "सोममामत्रेभिः" is read letter by letter with the hooked *ma*; the line break "मद्य- / मंधः" is joined as "मद्यमंधः". Accent marks are not reproduced.)*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । भरत । इन्द्राय । सोमं । आ । अमत्रेभिः । सिंचत । मद्यं । अंधः ।
+> कामी । हि । वीरः । सदं । अस्य । पीतिं । जुहोत । वृष्णे । तत् । इत् । एषः । वष्टि ॥ १ ॥
+
+> *adhvaryavaḥ | bharata | indrāya | somaṃ | ā | amatrebhiḥ | siṃcata | madyaṃ | aṃdhaḥ |*
+> *kāmī | hi | vīraḥ | sadaṃ | asya | pītiṃ | juhota | vṛṣṇe | tat | it | eṣaḥ | vaṣṭi ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Gṛtsamada addresses the Adhvaryus: bring soma for Indra and pour the exhilarating soma-food into the fire with the cups; the hero Indra always desires to drink it.*
+
+> गृत्समदो ब्रूते । अध्वर्यवः अध्वरस्य नेतारः । अध्वरं यजमानायेच्छंतः ॥ कव्यध्वरपृतनस्यर्चि लोप इत्यकारलोपः । अत्र यास्कः । अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति । नि. १-८ ॥ हे अध्वर्यवः इंद्राय देवाय सोमं हविर्धानादुत्तरवेदिं प्रति भरत । हरत ॥ आमंत्रितस्याविद्यमानत्वादनिघातः ॥ हृत्वामत्रेभिः[?] । अमा सहादंत्यत्र होत्रादय इत्यमत्राणि चमसाः । त्रैर्मद्यं[?] मदकरमंधः सोमलक्षणमन्नमा सिंचत । अग्नौ प्रक्षिपत । अत्र यास्कः । आ सिंचतामत्रैर्मदनीयमंधोऽमत्रं पात्रमा अस्मिन्नदंति । नि. ५-१ । इति । वीरः स इंद्रोऽस्य सोमस्य पीतिं पानं प्रति सदं सदैव कामी हि । कामयमानो हि । तस्माद्वृष्णे वर्षित्र इंद्राय सोमं जुहोत । जुहुत ॥ हु दानादनयोः । लोटि तप्तनप्तनथनाश्चेति तबादेशः ॥ एष इंद्रस्तदित् तदेव सोमप्रव्यं वष्टि । कामयते ॥
+
+> *gṛtsamado brūte | adhvaryavaḥ adhvarasya netāraḥ | adhvaraṃ yajamānāyecchaṃtaḥ ‖ kavyadhvarapṛtanasyarci lopa ityakāralopaḥ | atra yāskaḥ | adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti | ni. 1-8 ‖ he adhvaryavaḥ iṃdrāya devāya somaṃ havirdhānāduttaravediṃ prati bharata | harata ‖ āmaṃtritasyāvidyamānatvādanighātaḥ ‖ hṛtvāmatrebhiḥ[?] | amā sahādaṃtyatra hotrādaya ityamatrāṇi camasāḥ | trairmadyaṃ[?] madakaramaṃdhaḥ somalakṣaṇamannamā siṃcata | agnau prakṣipata | atra yāskaḥ | ā siṃcatāmatrairmadanīyamaṃdho 'matraṃ pātramā asminnadaṃti | ni. 5-1 | iti | vīraḥ sa iṃdro 'sya somasya pītiṃ pānaṃ prati sadaṃ sadaiva kāmī hi | kāmayamāno hi | tasmādvṛṣṇe varṣitra iṃdrāya somaṃ juhota | juhuta ‖ hu dānādanayoḥ | loṭi taptanaptanathanāśceti tabādeśaḥ ‖ eṣa iṃdrastadit tadeva somapravyaṃ vaṣṭi | kāmayate ‖*
+
+*(Reading notes: the reference "नि. १-८" at the end of the Yāska quotation is as read from the strip; the numeral file gives "1.4" for this line, so FILE DISAGREE; not zoomed. "नि. ५-१" agrees with the file; not zoomed. "हृत्वामत्रेभिः[?]" and "त्रैर्मद्यं[?]" are literal readings, doubtful: the second may be meant as "तैः", but this was not settled. "सोमप्रव्यं" is as read. The sūtra "तप्तनप्तनथनाश्च" is given without a number, none being printed. The grammatical tail is transcribed and not explained.)*
+
+---
+
+### Printed p. 721 (PDF 744)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 13 ]" with the varga numeral doubtful, "Ṛgvedasaṃhitā", "721". The page-foot signature "[46]  Vol. 14." is printed at the bottom of the page.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. इन्द्राय (*indrāya*)—with reference to Indra, for Indra. सोमं (*somaṃ*)—the soma juice. भरत (*bharata*)—bring it (taking it). अमत्रेभिः (*amatrebhiḥ*)—with the camasa vessels. मद्यं (*madyaṃ*)—exhilarating. अंधः (*aṃdhaḥ*)—the food that is soma. आ सिंचत (*ā siṃcata*; printed "सिंचते", sic)—(around the fire) offer all round in the form of sprinkling. वीरः (*vīraḥ*)—the valiant Indra. अस्य (*asya*)—of this soma juice. पीतिं (*pītiṃ*)—the drinking. सदं (*sadaṃ*)—always. कामी हि (*kāmī hi*)—desires indeed; (therefore). वृष्णे (*vṛṣṇe*)—to Indra, the giver of desired objects. जुहोत (*juhota*)—offer soma and perform homa. एषः (*eṣaḥ*)—Indra. तदित् (*tadit*)—that very soma. वष्टि (*vaṣṭi*)—desires.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, bring the soma juice for Indra. With the camasa vessels offer the exhilarating food that is soma, sprinkling it round the fire. The valiant Indra always desires to drink this soma juice. Therefore offer this soma to Indra, the giver of desired objects, and perform the homa.
+
+**English Translation** *(as printed)*
+
+Priests, bring the Soma libation for Indra; sprinkle with ladles the exhilarating beverage: he, the hero, is ever desirous of the draught: offer the libation to the showerer (of benefits), for, verily, he desires it.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This sūkta begins with the sentence अध्वर्यवो भरतेन्द्राय सोमं (*adhvaryavo bharatendrāya somaṃ*). The meaning of this sentence is: "O priests called Adhvaryu, bring soma juice for Indra." Every Ṛk of this sūkta, except the last Ṛk, begins with the word अध्वर्यवः (*adhvaryavaḥ*). In every Ṛk, besides one or two heroic deeds of Indra and the matter of Indra's drinking soma being stated, there is also either the sentence अध्वर्यवो भरतेन्द्राय सोमं (*adhvaryavo bharatendrāya somaṃ*) above, or another sentence that contains its meaning.
+
+अध्वर्यवः—अध्वरस्य नेतारः । अध्वरं यजमानायेच्छंतः (*adhvaryavaḥ—adhvarasya netāraḥ | adhvaraṃ yajamānāyecchaṃtaḥ*)—*adhvara* means the yajña. One who stands in front in it, that is, takes the leading part and carries out the various functions of the yajña, is called Adhvaryu. Or: one who wishes to perform the yajña for the sake of the yajamāna, that is, a ṛtvij who stands as the yajamāna's representative and performs the many ritual functions to be done in the yajña, is called Adhvaryu. Though many ṛtvik priests take part in a yajña, among them the Hotṛ and the Adhvaryu take the leading part: the Hotṛ in the recitation of mantras, and the Adhvaryu in all the other ritual functions.
+
+---
+
+### Printed p. 722 (PDF 745)
+
+*(Header, read from the strip and not zoomed: "722", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+Therefore the Adhvaryu especially has to be given attention in all the ritual functions carried out in the yajña. That is why the ṛtvijas called Adhvaryus are addressed here, to prepare soma juice and bring it for Indra's soma-drinking. In the discussion on the derivation of the word *adhvaryu*, Yāska says:
+
+> अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति वा । अपि वाधीयोने[?] युरुपबंधः । अध्वर इति यज्ञनाम । ध्वरतिर्हिंसाकर्मा तत्प्रतिषेधः ।
+
+> *adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti vā | api vādhīyone[?] yurupabaṃdhaḥ | adhvara iti yajñanāma | dhvaratirhiṃsākarmā tatpratiṣedhaḥ |*
+
+(नि. १-८, as read from the strip, not zoomed; the numeral file agrees with 1-8 for this line.)
+
+*(Reading note: "वाधीयोने[?]" is a literal reading and doubtful. The strip shows no *n* with a virāma there, and the hook on *ya* in this print makes *ya*/*yu* hard to tell apart. It is not completed from memory. From the Kannada explanation that follows, the sense is "one who has studied". The words "अध्वरयुः", "युनक्ति" and "युरुपबंधः" are read as the Kannada gloss quotes them, "अध्वरं युनक्तीति अध्वरयुः" and "*yu* is an upasarga".)*
+
+The Kannada says: the word *adhvaryu* means one who gives the yajña its form (carries out the yajña). How? In the word अध्वर्युः (*adhvaryuḥ*) the vowel *a* after the letter *r* has undergone elision according to the Vedic grammar. If it is restored, it becomes अध्वरयुः (*adhvarayuḥ*). For this Yāska has given the derivation अध्वरं युनक्तीति अध्वरयुः (*adhvaraṃ yunaktīti adhvarayuḥ*), "one who joins (engages in) the yāga". अध्वरस्य नेता (*adhvarasya netā*) means: one who conducts the yāga. Or अध्वरं कामयते कर्तुमित्यध्वर्युः (*adhvaraṃ kāmayate kartumityadhvaryuḥ*): because he desires to perform the yajña (for the yajamāna), this ṛtvij is called Adhvaryu. Or अपि वा अधीयाने युरुपबंधः (*api vā adhīyāne yurupabaṃdhaḥ*): if *yu* is counted as an upasarga, the sense is the Brāhmaṇa (ṛtvij) who has studied the adhvara or yajña (that is, the Yajurveda that teaches the matters relating to the yajña). Here, because the root *dhvarati* has the sense of "do violence", *dhvara* means violence. *Adhvara* means the action or yajña that is without *dhvara*, that is, without violence; thus the word *adhvara* has been explained. Therefore the chief meaning is: *adhvarayu* or *adhvaryu* is the ṛtvij who performs the yajña-karma (the action that is not of the nature of violence).
+
+अध्वर्यवः भरत इन्द्राय सोमं—हे अध्वर्यवः इन्द्राय देवाय सोमं हविर्धानादुत्तरवेदिं प्रति भरत (*adhvaryavaḥ bharata indrāya somaṃ—he adhvaryavaḥ indrāya devāya somaṃ havirdhānāduttaravediṃ prati bharata*)—"O priests called Adhvaryu, bring the soma juice that is in the havirdhāna place to the uttaravedi, to offer it to Indra": thus the sage Gṛtsamada (or the yajamāna) has spoken, addressing the Adhvaryus.
+
+अंधः (*aṃdhaḥ*)—The word अंधः (*aṃdhaḥ*) is read among the names of food (नि. ३-९, as printed; the numeral file agrees; not zoomed). Besides this, Yāska has given a derivation for this word:
+
+> अंध इत्यन्ननामाध्यानीयं[?] भवति । तमोऽस्यंध उच्यते नास्मिन् ध्यानं भवति । न दर्शनमंधंतम इत्यभिभाषंते । अयमपीतरोऽन्ध एतस्मादेव । पश्यदक्षण्वान्न विचेतदंधः इत्यपि निगमो भवति ॥
+
+> *aṃdha ityannanāmādhyānīyaṃ[?] bhavati | tamo 'syaṃdha ucyate nāsmin dhyānaṃ bhavati | na darśanamaṃdhaṃtama ityabhibhāṣaṃte | ayamapītaro 'ndha etasmādeva | paśyadakṣaṇvānna vicetadaṃdhaḥ ityapi nigamo bhavati ‖*
+
+(नि. ५-१, as printed; the numeral file agrees; not zoomed.)
+
+*(Reading notes: "इत्यन्ननामाध्यानीयं[?]" is doubtful: the strip shows a mark after "इत्य" that was not resolved. The words "अंधंतम" and "पश्यदक्षण्वान्न" are read letter by letter from the strip. The Viśeṣaviṣayagaḷu of Ṛk 1 is not yet closed on this page; the next page follows. No grammar section has been printed so far for this Ṛk.)*
+
+---
+
+### Printed p. 723 (PDF 746)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "723". This reading of the varga numeral, 13, also agrees with the header of p. 725.)*
+
+The Kannada continues the explanation of Yāska's remark on the word अंधः (*aṃdhaḥ*). It says: the word अंधः (*aṃdhaḥ*) is a name for food. Why? Because food is needed by everyone, it is prayed for (desired) by all; therefore अंधः (*aṃdhaḥ*) means food. अंधः (*aṃdhaḥ*) is also a name for darkness (the dark, *kattale*). Why? Because nothing is seen in the dark, nothing can be done in it. Even in everyday usage people say अंधंतम (*aṃdhaṃtama*) when it is dark, in the sense that it cannot be seen by the eye. In this matter there is also an example from the Veda, पश्य दक्षण्वान्न विचेतदंधः (*paśya dakṣaṇvānna vicetadaṃdhaḥ*) (R. Saṃ. 1-164-16, the numerals agree with the numeral file; not zoomed).
+
+*Gist: Sāyaṇa glosses आ सिंचत (*ā siṃcata*) with अग्नौ प्रक्षिपत (*agnau prakṣipata*), "throw into the fire", and अमत्र (*amatra*) with the camasa cups.*
+
+> आ अमत्रेभिः सिंचत मद्यं अंधः—हृत्वामत्रेभिः । अमा सहादंत्यत्र होत्रादय इत्यमत्राणि चमसाः । त्रैर्मद्यं मदकरमंधः सोमलक्षणमन्नमासिंचत । अग्नौ प्रक्षिपत ।
+
+> *ā amatrebhiḥ siṃcata madyaṃ aṃdhaḥ—hṛtvāmatrebhiḥ | amā sahādaṃtyatra hotrādaya ityamatrāṇi camasāḥ | trairmadyaṃ madakaramaṃdhaḥ somalakṣaṇamannamāsiṃcata | agnau prakṣipata |*
+
+*(Reading note: the same words are printed here as on p. 720, "हृत्वामत्रेभिः" and "त्रैर्मद्यं"; they are read letter by letter, as printed, and not completed from memory.)*
+
+The Kannada says: in the previous sentence the Adhvaryus were directed to bring the soma to the uttaravedi for offering to Indra. The meaning of this sentence is: offer into the fire, in Indra's name, with the camasas (wooden ladles) the soma so brought, or the soma-form food. For the word अमत्र (*amatra*) the commentator says अमा सहादंत्यत्र होत्रादय इत्यमत्राणि चमसाः (*amā sahādaṃtyatra hotrādaya ityamatrāṇi camasāḥ*); that is, when soma is drunk at the sacrifice, the ṛtvijas, Hotṛ and the rest, take it together, that is, all of them partake from one single vessel, or drink from it; for that reason such a vessel is called camasa. A camasa is made of wood, has a handle, and is in the shape of a ladle (*sauṭu*). With this camasa all the ṛtvijas drink the soma. Each one does not use a separate vessel; there is one vessel for all. Yāska, taking this very Ṛk as the example for the word अमत्रेभिः (*amatrebhiḥ*), says:
+
+> आमत्रेभिः सिंचता मद्यमंधः । आसिंचतामत्रैर्मदनीयमंधः । अमत्रं पात्रमा अस्मिन्नदंत्यमा पुनरनिर्मितं भवति पात्रं पानात् ।
+
+> *āmatrebhiḥ siṃcatā madyamaṃdhaḥ | āsiṃcatāmatrairmadanīyamaṃdhaḥ | amatraṃ pātramā asminnadaṃtyamā punaranirmitaṃ bhavati pātraṃ pānāt |*
+
+(नि. १-५, numerals as printed, and the numeral file agrees; not zoomed.)
+
+*(Reading note: the first word of the quotation is read with long ā, आमत्रेभिः (*āmatrebhiḥ*), as the sandhi of आ (*ā*) + अमत्रेभिः (*amatrebhiḥ*) requires; the print shows the letter ā there.)*
+
+That is: अमत्र (*amatra*) means a vessel. Why? Because from it (food, or soma) one takes little by little and partakes; such a vessel, like a ladle, is called अमत्र (*amatra*). अमा (*amā*) means "without measure". When a big vessel is full of soma juice in abundance (without measure or gauge), those who wish to drink it fill from it little by little with an अमत्र (*amatra*), or with the wooden ladle called camasa, and drink. (Like drinking tea or coffee by means of spoons [printed "drinkiog", sic].) Such a vessel is called अमत्र (*amatra*) or camasa. The sense of the sentence is: with such camasas fill the exhilarating, that is, joy-producing, soma-form food (and throw it into the fire in Indra's name). Because Indra is not a visible (*pratyakṣa*) deity, the oblations and the like given to him are offered in his name with mantras,
+
+---
+
+### Printed p. 724 (PDF 747)
+
+*(Header, read from the strip and not zoomed: "724", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+and since they have to be offered in the fire itself, the sense is understood that आ सिंचत (*ā siṃcata*) means "offer in the fire itself, with the vaṣaṭ call". Besides, in the second half of this Ṛk the word जुहोत (*juhota*) itself is used, meaning "offer the homa in the fire". Since the two words मद्यं (*madyaṃ*) and अंधः (*aṃdhaḥ*) occur in this sentence, the meaning could be taken either as "the oblation (food) in the form of exhilarating soma juice", or as two kinds of substance, "the exhilarating soma juice" and "the food that is the oblation". But since in all the Ṛks of this sūkta only the matter of soma juice is brought up, for Indra's drinking, the right way is to explain the words मद्यमंधः (*madyamaṃdhaḥ*) as the oblation in the form of soma, that is, the soma.
+
+*Gist: Indra, the hero, always desires the drinking of soma, more than all other gods; hence the Ṛṣi's prayers.*
+
+> कामी हि वीरः सदं अस्य पीतिं—वीरः स इंद्रोऽस्य सोमस्य पीतिं पानं प्रति सदं सदैव कामी हि कामयमानो हि ।
+
+> *kāmī hi vīraḥ sadaṃ asya pītiṃ—vīraḥ sa iṃdro 'sya somasya pītiṃ pānaṃ prati sadaṃ sadaiva kāmī hi kāmayamāno hi |*
+
+The Kannada says: is not the valiant Indra one who desires soma-drinking? is the chief meaning. Indra's attachment to soma-drinking is greater than that of all the other deities. Therefore all the ṛṣis have prayed that Indra come to the sacrifices they perform and drink the soma they offer.
+
+*Gist: Offer soma to Indra the showerer; he desires just this.*
+
+> जुहोत वृष्णे तत् इत् एषः वष्टि—तस्माद्वृष्णे वर्षित्र इंद्राय सोमं जुहोत । एष इंद्रस्तदित् तदेव सोमद्रव्यं वष्टि कामयते ।
+
+> *juhota vṛṣṇe tat it eṣaḥ vaṣṭi—tasmādvṛṣṇe varṣitra iṃdrāya somaṃ juhota | eṣa iṃdrastadit tadeva somadravyaṃ vaṣṭi kāmayate |*
+
+*(Reading note: here the print is clear: सोमद्रव्यं (*somadravyaṃ*). The reading सोमप्रव्यं (*somapravyaṃ*) given for p. 720 was doubtful; this clearer printing is taken to correct it. The earlier page is not edited.)*
+
+Therefore offer soma juice into the fire in the name of Indra, who gives rain or who bestows desired objects. Why? Because this very thing (that is, soma-drinking) Indra desires. Although what is said in the second and fourth pādas of this Ṛk is one and the same matter, the Ṛṣi has expressed the intention with different words and different sentences, in order to explain the meaning clearly.
+
+The commentary written on this Ṛk by Durgācārya, the commentator on the Nirukta, is given here, since it contains some clear explanations:
+
+*Gist: Durgācārya: the Ṛk is Gṛtsamada's, used in the Atirātra; the Adhvaryus are to bring soma and pour it into the fire for Indra, who always desires it.*
+
+> गृत्समदस्येयमार्षं । रात्रिपर्यायेः शस्यते । होतुः शस्त्रे विनियोक्ता । अस्यैव च शस्त्रस्य याज्यैषा ॥ हे अध्वर्यवः भरत प्रापयतेमं सोमं । एतस्माद्धविर्धानादुत्तरवेदिं इंद्राय इंद्रार्थं । अथवा भरत धारयता-ग्नेरुपरि । ततश्चैनं आमत्रेभिः अमत्रैः पात्रैः एभिः सोमचमस्यैः वषट्कारे प्राप्ते आसिंचत तस्मिन्नग्नौ । मद्यं मदनीयं एतत्सोमाख्यं अंधः । तस्मात् पुनरेवं ब्रवीमि । इतः यस्मात् कामी हि वीरः कामयत एव वीरः इंद्रः अस्य सोमस्य सदं सदैव नित्यकालमेव पीतिं पानमित्यर्थः । तस्मात् कारणात् जुहोत तस्मै वृष्णे वर्षित्रे इंद्राय एतं सोमं । किमेतमेव केवलं सोममेष कामयते ? नेत्युच्यते ।
+
+> *gṛtsamadasyeyamārṣaṃ | rātriparyāyeḥ śasyate | hotuḥ śastre viniyoktā | asyaiva ca śastrasya yājyaiṣā ‖ he adhvaryavaḥ bharata prāpayatemaṃ somaṃ | etasmāddhavirdhānāduttaravediṃ iṃdrāya iṃdrārthaṃ | athavā bharata dhārayatā-gnerupari | tataścainaṃ āmatrebhiḥ amatraiḥ pātraiḥ ebhiḥ somacamasyaiḥ vaṣaṭkāre prāpte āsiṃcata tasminnagnau | madyaṃ madanīyaṃ etatsomākhyaṃ aṃdhaḥ | tasmāt punarevaṃ bravīmi | itaḥ yasmāt kāmī hi vīraḥ kāmayata eva vīraḥ iṃdraḥ asya somasya sadaṃ sadaiva nityakālameva pītiṃ pānamityarthaḥ | tasmāt kāraṇāt juhota tasmai vṛṣṇe varṣitre iṃdrāya etaṃ somaṃ | kimetameva kevalaṃ somameṣa kāmayate ? netyucyate |*
+
+*(Reading note: "रात्रिपर्यायेः" is the form printed, as read, not corrected; the Kannada explanation below reads it as "in the rātri-paryāya". Read letter by letter and not completed from memory. The grammatical tail is not present here.)*
+
+---
+
+### Printed p. 725 (PDF 748)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13.]", "Ṛgvedasaṃhitā", "725".)*
+
+> तदिदेष वष्टि तत्तत्सोमप्रदानमेष इंद्रो वष्टि कामयते इत्यर्थः । न केवलं रात्रिपर्यायेष्वित्यर्थः । तस्मादासिंचते इमं सोमं मा विलंबध्वमित्यभिप्रायः । एवमत्र दानसंबंधात् अंधः शब्दोऽन्नार्थ उपपद्यते । पठितमपि चान्ननामसु । अनेकार्थत्वात्तु संदिह्यते इत्येष निगम उपात्तः ॥
+
+> *tadideṣa vaṣṭi tattatsomapradānameṣa iṃdro vaṣṭi kāmayate ityarthaḥ | na kevalaṃ rātriparyāyeṣvityarthaḥ | tasmādāsiṃcate imaṃ somaṃ mā vilaṃbadhvamityabhiprāyaḥ | evamatra dānasaṃbaṃdhāt aṃdhaḥ śabdo 'nnārtha upapadyate | paṭhitamapi cānnanāmasu | anekārthatvāttu saṃdihyate ityeṣa nigama upāttaḥ ‖*
+
+(नि. ५-१. दु. व्या., as printed; the numeral file agrees; not zoomed.)
+
+The Kannada says: this Ṛk was seen by Gṛtsamada. In the sacrifice called Atirātra, in the rātri-paryāya, this Ṛk is to be recited both for the śastra mantras that the Hotṛ recites and as the yājyā mantra of the śastra; such is its viniyoga. O priests called Adhvaryu, take this soma from the havirdhāna place to the uttaravedi for Indra's drinking. Afterwards, filling from the camasa vessels this intoxicating food in the form of soma juice, offer it into the fire. For this mighty Indra is attached to soma-drinking at all times. Therefore, in the fire, in the name of Indra, who gives the fruit of all desires, offer the soma. That very thing Indra desires. Not only by night; Indra desires soma-drinking at all times. Therefore offer the soma without delay. Since the word अंधः (*aṃdhaḥ*) also has the sense of "food", in order to indicate that in the Ṛk in hand the word अंधः (*aṃdhaḥ*) has the sense "food", the Niruktakāra has given the sentence आमत्रेभिः सिंचता मद्यमंधः (*āmatrebhiḥ siṃcatā madyamaṃdhaḥ*) from the Nigama (Veda) as an example: this is the chief purport of the above commentary.
+
+*(End of the Viśeṣaviṣayagaḷu of Ṛk 1. No grammar section is printed for this Ṛk; a short rule follows on the page, and then the next Ṛk.)*
+
+---
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यो अ॒पो व॑व्रि॒वांसं॑ वृ॒त्रं ज॒घाना॒शन्ये॑व वृ॒क्षं ।
+> तस्मा॑ ए॒तं भ॑रत तद्व॒शाय॑ ए॒ष इंद्रो॑ अर्हति पी॒तिम॑स्य ॥
+
+> *adhvaryavo yo apo vavrivāṃsaṃ vṛtraṃ jaghānāśanyeva vṛkṣaṃ |*
+> *tasmā etaṃ bharata tadvaśāya eṣa iṃdro arhati pītimasya ‖*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । अपः । वव्रिऽवांसं । वृत्रं । जघान । अशन्याऽइव । वृक्षं ।
+> तस्मै । एतं । भरत । तत्ऽवशाय । एषः । इंद्रः । अर्हति । पीतिं । अस्य ॥ २ ॥
+
+> *adhvaryavaḥ | yaḥ | apaḥ | vavri 'vāṃsaṃ | vṛtraṃ | jaghāna | aśanyā 'iva | vṛkṣaṃ |*
+> *tasmai | etaṃ | bharata | tat 'vaśāya | eṣaḥ | iṃdraḥ | arhati | pītiṃ | asya ‖ 2 ‖*
+
+*(Reading note: in the Pada the small stroke after वव्रि (*vavri*), अशन्या (*aśanyā*) and तत् (*tat*) is read as the compound/elision mark (ऽ), as the print shows it; the Saṃhitā accents are not reproduced. Ṛk 2 is begun here; its Sāyaṇa-bhāṣya starts on the next page.)*
+
+---
+
+### Printed p. 726 (PDF 749)
+
+*(Header, read from the strip and not zoomed: "726", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra struck Vṛtra (the cloud) with the vajra as lightning burns a tree. Offer him the soma; he is worthy of drinking it.*
+
+> हे अध्वर्यवः य इंद्रोऽप उदकानि वव्रिवांसमावृत्य स्थितं वृत्रं । वृणोत्याकाशमिति वृत्रो मेघः । तं मेघं वज्रेण जघान । हतवान् । अशन्येव । यथाशन्या वैद्युताग्निना वृक्षं दहति तद्वत् । तस्मै तद्वशाय सोमकामाय तस्मा इंद्रायैतं सोमं भरत । उत्तरवेदिं प्रति हरत । एष इंद्रोऽस्य सोमस्य पीतिं पानमर्हति ॥
+
+> *he adhvaryavaḥ ya iṃdro 'pa udakāni vavrivāṃsamāvṛtya sthitaṃ vṛtraṃ | vṛṇotyākāśamiti vṛtro meghaḥ | taṃ meghaṃ vajreṇa jaghāna | hatavān | aśanyeva | yathāśanyā vaidyutāgninā vṛkṣaṃ dahati tadvat | tasmai tadvaśāya somakāmāya tasmā iṃdrāyaitaṃ somaṃ bharata | uttaravediṃ prati harata | eṣa iṃdro 'sya somasya pītiṃ pānamarhati ‖*
+
+*(The first word of the bhāṣya is read as "य" and joined by sandhi to "इंद्रोऽप"; this is how the line is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. | यः (*yaḥ*)—which Indra. | अशन्या (*aśanyā*)—by the lightning-fire. | वृक्षं इव (*vṛkṣaṃ iva*)—as it splits and burns a tree. | अपः (*apaḥ*)—the waters. | वव्रिवांसं (*vavrivāṃsaṃ*)—who stood enveloping. | वृत्रं (*vṛtraṃ*)—the asura Vṛtra, or the cloud. | जघान (*jaghāna*)—split with the vajra weapon. | तस्मै (*tasmai*)—for such. | तद्वशाय (*tadvaśāya*)—for Indra, who is desirous of soma, in order to offer it. | एतं (*etaṃ*)—this soma. | भरत (*bharata*)—(to the uttaravedi) take and bring. | एषः इंद्रः (*eṣaḥ iṃdraḥ*)—this Indra. | अस्य (*asya*)—of this soma juice. | पीतिं (*pītiṃ*)—to obtain the drinking. | अर्हति (*arhati*)—is worthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, take this soma to the uttaravedi in order to offer it to Indra, who split with his vajra weapon the Vṛtra that stood enveloping the waters, as the lightning-fire splits and burns a tree. He is desirous of soma. This Indra is worthy of the drinking of the soma juice.
+
+**English Translation** *(as printed)*
+
+Priests, offer the libation to him who slew the rain-arresting Vritra, as (he strikes down) a tree with (his) thunderbolt; to him who desires it: and Indra is worthy of (the beverage).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः अपः वव्रिवांसं वृत्रं जघान अशन्येव वृक्षं (*yaḥ apaḥ vavrivāṃsaṃ vṛtraṃ jaghāna aśanyeva vṛkṣaṃ*)—The chief purport of the sentence is: "Offer soma to that Indra who struck the Vṛtra, the asura or the cloud, that had surrounded the waters in the sky and held them back so that the rain did not fall, as the lightning (*śiḍilu*) strikes and burns a tree." Here the one who held the water back so that it did not fall downwards, that is, on the earth, may be the cloud, or may be Vṛtra. *(The last line of the page is faintly printed in places, "bhūmiyu·ēle" and "āgabaha·du"; read as "bhūmiyamēle" and "āgabahudu" from the sense and not otherwise completed.)*
+
+---
+
+### Printed p. 727 (PDF 750)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "727".)*
+
+वृत्रं (*vṛtraṃ*)—The word *vṛtra* is read among the names of the cloud (Ni. 2-21, as printed; the numeral file agrees; not zoomed). Yāska, explaining the word *vṛtra*, says:
+
+> तत्को वृत्रः । मेघ इति नैरुक्ताः । त्वाष्ट्रोऽसुर इत्यैतिहासिकाः । अपां च ज्योतिषश्च मिश्रीभावकर्मणो वर्षकर्म जायते । तत्रोपमार्थेन युद्धवर्णा भवंति ।
+
+> *tatko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭro 'sura ityaitihāsikāḥ | apāṃ ca jyotiṣaśca miśrībhāvakarmaṇo varṣakarma jāyate | tatropamārthena yuddhavarṇā bhavaṃti |*
+
+(Ni. 2-16, as printed; the numeral file agrees; not zoomed.)
+
+The Kannada explains: with the question "Who is Vṛtra?" and the answers, Yāska has given the explanation. The Nairuktas say he is the cloud; the Aitihāsikas (those who write the history) say he is the asura Vṛtra, son of Tvaṣṭṛ Prajāpati. Pointing to this difference of opinion, he says: from the mixing of the sun's ray and the sea water (that is, the sun's ray falls on the sea) the action of rain arises as its effect *(the first letter of "vṛṣṭikarma" is printed so that it may be read pṛ- or vṛ-; read as the rain-action, from the Sanskrit "varṣakarma")*. This very rain (the heavy rain with thunderbolt, lightning and thunder) they have described by comparing it to a battle. That is, when the clouds in the sky, or Vṛtra, stand so blocking the rain that it does not fall on the earth, Indra strikes them with his vajra (the lightning) and makes the rain fall. They state their own opinion that the battle between Indra and Vṛtra is just this description.
+
+The Bhāṣyakāra explained:
+
+> वृणोत्याकाशमिति वृत्रो मेघः । वृणोतेराच्छादनार्थात् (स्वादि परस्मैपदि) ।
+
+> *vṛṇotyākāśamiti vṛtro meghaḥ | vṛṇoterācchādanārthāt (svādi parasmaipadi) |*
+
+That is, he has explained that since it covers (envelops) the sky, *vṛtra* means the cloud. Besides:
+
+> आच्छादयतीति ह्यसौ कृत्स्नं नभः
+
+> *ācchādayatīti hyasau kṛtsnaṃ nabhaḥ*
+
+Because it covers the whole space of the sky, making darkness spread, *vṛtra* means the cloud. Or:
+
+> गच्छत्यसौ कृत्स्नं नभः
+
+> *gacchatyasau kṛtsnaṃ nabhaḥ*
+
+Because it moves about in the sky, *vṛtra* means the cloud. Or:
+
+> वर्धतेर्वा वृद्ध्यर्थात् (भू. आ-) बाहुलकात् त्रन्, धकारस्य तकारो व्यत्ययेन, वर्धते हि वर्षासु मेघः
+
+> *vardhatervā vṛddhyarthāt (bhū. ā-) bāhulakāt tran, dhakārasya takāro vyatyayena, vardhate hi varṣāsu meghaḥ*
+
+That is, because it grows in the rainy season, *vṛtra* means the cloud. In this sense it should be understood that the word *vṛtra* is formed from the root *vṛdh*, and that the *t* has come in place of the *dh* by inversion (*vyatyāsa*). *(The sūtra number after "भू. आ-" is not printed.)* Support for such meanings is found in the Vedas themselves, as follows:
+
+*(1)*
+
+> यदिमाँल्लोकानवृणोत्तद्वृत्रस्य वृत्रत्वं स इषुमात्रमिषुमात्रं विष्वज् अवर्धत ।
+
+> *yadimā~llokānavṛṇottadvṛtrasya vṛtratvaṃ sa iṣumātramiṣumātraṃ viṣvaj avardhata |*
+
+(Tai. Saṃ. — the reference numbers are left blank in the print. Gloss, mine and tentative: "Because he covered these worlds, that is the Vṛtra-ness of Vṛtra; he grew an arrow's length, an arrow's length, in every direction.")
+
+*(2)*
+
+> अस्मा इदु प्र भरा तूतुजानो वृत्राय वज्रमीशानः कियेधाः ।
+
+> *asmā idu pra bharā tūtujāno vṛtrāya vajramīśānaḥ kiyedhāḥ |*
+
+(R. Saṃ. 1-61-12, as printed; the numeral file agrees; not zoomed.)
+
+*(3)*
+
+> श्रत्ते दधामि प्रथमाय मन्यवेऽहन्यद्वृत्रं नर्यं विवेरपः ।
+
+> *śratte dadhāmi prathamāya manyave 'hanyadvṛtraṃ naryaṃ viverapaḥ |*
+
+(R. Saṃ. 10-147-1, as printed; the numeral file agrees; not zoomed.)
+
+*(The candrabindu-like mark above the first word of (1) and the "श्रत्ते" of (3) are read as printed.)* There are many such examples.
+
+---
+
+### Printed p. 728 (PDF 751)
+
+*(Header, read from the strip and not zoomed: "728", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+अशन्येव वृक्षं (*aśanyeva vṛkṣaṃ*)—यथा अशन्या वैद्युताग्निना वृक्षं दहति तद्वत् (*yathā aśanyā vaidyutāgninā vṛkṣaṃ dahati tadvat*) ("as the lightning-fire burns a tree"). While the rain is pouring, the thunderbolt (*śiḍilu*), called the lightning-fire, strikes a tree that has grown tall and it burns up: this simile is compared with the vajra weapon that Indra uses when he slays Vṛtra. *(No grammar section is printed for Ṛk 2.)*
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यो दृभी॑कं ज॒घान॒ यो गा उ॒दाज॒दप॒ हि व॒लं वः ।
+> तस्मा॑ ए॒तमं॒तरि॑क्षे॒ न वात॒मिंद्रं॒ सोम्यै॒रोर्णु॑त॒ जूर्न वस्त्रैः॑ ॥ ३ ॥
+
+> *adhvaryavo yo dṛbhīkaṃ jaghāna yo gā udājadapa hi valaṃ vaḥ |*
+> *tasmā etamaṃtarikṣe na vātamiṃdraṃ somyairorṇuta jūrna vastraiḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+*(Reading note: the last words of the first Pada line are printed "वलं ः" and then, at the start of the next line, "वरिति वः"; they are copied as printed. The letters after "वलं" are doubtful and the Pada division of "अप वः" is not settled; compare the Sāyaṇa-bhāṣya below, which reads "अपवः". In "उत्ऽआजत्" the small stroke is read as the compound mark ऽ.)*
+
+> अध्वर्यवः । यः । दृभीकं । जघान । यः । गाः । उत्ऽआजत् । अप । हि । वलं ः वरिति वः ।
+> तस्मै । एतं । अंतरिक्षे । न । वातं । इंद्रं । सोम्यैः । आ । ऊर्णुत । जूः । न ।
+> वस्त्रैः ॥ ३ ॥
+
+> *adhvaryavaḥ | yaḥ | dṛbhīkaṃ | jaghāna | yaḥ | gāḥ | ut 'ājat | apa | hi | valaṃ ḥ variti vaḥ |*
+> *tasmai | etaṃ | aṃtarikṣe | na | vātaṃ | iṃdraṃ | somyaiḥ | ā | ūrṇuta | jūḥ | na |*
+> *vastraiḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra slew the asura Dṛbhīka, freed the cows shut in by Bala and slew Bala; cover him with soma juices as a worn man covers his body with clothes.*
+
+*(Reading notes: the first words of the bhāṣya are printed "सवान्विदारयति"; the reph of "सर्वान्" is not visible in the strip, so it is written "सर्वान्[?]". In the grammatical tail "लुजं[?]" and "हल्ङ्यादिना" are read as printed, the conjunct of the latter being unclear; "सोम्यैरिंद्रमा[?]" has an unclear conjunct after the *i* of the first syllable; "आच्छाधयत" has *dha* as printed. None of these is completed from memory.)*
+
+> हे अध्वर्यवः य इंद्रो दृभीकं । सर्वान्[?]विदारयति भियं करोतीति दृभीको नामासुरः । तमसुरं जघान । यश्च बलासुरेण । निरुद्धा गा उदाजत् । निरगमयत् । ततश्च तमेव बलमसुरं अपवः । अपावृणोत् । हिंसितवानित्यर्थः ॥ वृणोतेर्लुजं[?] मंत्रे घसेत्यादिना च्लेर्लुक् । हल्ङ्यादिना तिपो लोपः ॥ तस्मा इंद्रायैतं सोममंतरिक्षे वातं न वातमिव धाराभिर्व्याप्तं कुरुत । तदेवाह सोम्यैरिंद्रमा[?] ऊर्णुत । सर्वत आच्छाधयत ॥ ऊर्णुञ् आच्छादने । आदादिकः । लोटि रूपं ॥ तत्र दृष्टांतः । जूर्न जीर्णो यथा वस्त्रैरंगमाच्छादयति तद्वत् ॥
+
+> *he adhvaryavaḥ ya iṃdro dṛbhīkaṃ | sarvān[?]vidārayati bhiyaṃ karotīti dṛbhīko nāmāsuraḥ | tamasuraṃ jaghāna | yaśca balāsureṇa | niruddhā gā udājat | niragamayat | tataśca tameva balamasuraṃ apavaḥ | apāvṛṇot | hiṃsitavānityarthaḥ ‖ vṛṇoterlujaṃ[?] maṃtre ghasetyādinā clerluk | halṅyādinā tipo lopaḥ ‖ tasmā iṃdrāyaitaṃ somamaṃtarikṣe vātaṃ na vātamiva dhārābhirvyāptaṃ kuruta | tadevāha somyairiṃdramā[?] ūrṇuta | sarvata ācchādhayata ‖ ūrṇuñ ācchādane | ādādikaḥ | loṭi rūpaṃ ‖ tatra dṛṣṭāṃtaḥ | jūrna jīrṇo yathā vastrairaṃgamācchādayati tadvat ‖*
+
+*(The grammar tail is transcribed without explanation; no sūtra numbers are printed in it.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. | यः (*yaḥ*)—which Indra. | दृभीकं (*dṛbhīkaṃ*)—the asura called Dṛbhīka. | जघान (*jaghāna*)—killed (and). | वलं (*valaṃ*)—the asura called Vala. | अप वः (*apa vaḥ*)—harmed. *(The Pratipadārtha continues on the next page.)*
+
+---
+
+### Printed p. 729 (PDF 752)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "729". The page begins in the middle of the Pratipadārtha of Ṛk 3. Its first entry is "यः (*yaḥ*)—who", not "तस्मै (*tasmai*)" as the previous note expected. The earlier entries on the previous page were written before this page was seen, and their order may differ from the printed order; see the doubts.)*
+
+यः (*yaḥ*)—who. | गाः (*gāḥ*)—the cows (held back by that asura Vala). | उदाजत् (*udājat*)—freed. | तस्मै (*tasmai*)—for that Indra. | एतं (*etaṃ*)—this soma. | अंतरिक्षे (*aṃtarikṣe*)—in the antarikṣa. | वातं न (*vātaṃ na*)—as the wind is filled (covered) with streams of water, so fill. | जूः (*jūḥ*)—an old man. | वस्त्रैः न (*vastraiḥ na*)—as he becomes covered with garments. | इंद्रं (*iṃdraṃ*)—Indra. | सोम्यैः (*somyaiḥ*)—with soma juices. | आ ऊर्णुते (*ā ūrṇute*)—cover completely (and fill). *(The strip seems to show a final e-sign on "ऊर्णुत(े)" here, while the Saṃhitā and the heading of the Viśeṣaviṣaya have "ऊर्णुत"; written as printed, doubt logged.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, Indra killed the asura named Dṛbhīka. He also harassed the asura named Vala and freed the cows seized by him. Fill that Indra with soma juices so that he is completely covered. Do it as the wind in the antarikṣa is filled with streams of water, and as an old man is covered with garments.
+
+**English Translation** *(as printed)*
+
+Priests, offer this libation, which, like the wind in the firmament, (is the cause of rain); to him who slew Dribhika, destroyed Vala, and liberated the cows; heap Indra with Soma juice, as an old man (is covered) with garments· *(a raised dot stands where the full stop would be)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः दृभीकं जघान (*yaḥ dṛbhīkaṃ jaghāna*)—*Gist: Dṛbhīka is explained as the asura who tears all asunder and causes fear.*
+
+> सर्वान् विदारयति भियं करोतीति दृभीको नामासुरः । तमसुरं जघान ।
+
+> *sarvān vidārayati bhiyaṃ karotīti dṛbhīko nāmāsuraḥ | tamasuraṃ jaghāna |*
+
+The Kannada explains: an asura named Dṛbhīka used to tear everyone apart and cause fear. Therefore he got the name Dṛbhīka. Here it is said that Indra killed that asura. The name Dṛbhīka occurs in the Ṛgveda only in this Ṛk and nowhere else. Therefore nothing more can be said about him.
+
+यः गाः उदाजत् अप हि वलं वः (*yaḥ gāḥ udājat apa hi valaṃ vaḥ*)—Here it is described that Indra harassed the asura named Vala, who had stolen and hidden the cows of the gods, and freed those cows from bondage. We have discussed the matter of Vala in detail in Ṛ. Saṃ. 7-465, 5-232, 692 and 14-634 and other places. *(As printed; the numeral file agrees; "692" is printed without a part number; not zoomed.)*
+
+तस्मै एतं अंतरिक्षे वातं न सोम्यैः ऊर्णुत जूर्न वस्त्रैः (*tasmai etaṃ aṃtarikṣe vātaṃ na somyaiḥ ūrṇuta jūrna vastraiḥ*)—
+
+> तस्मा इंद्रायैतं सोममंतरिक्षे वातमिव धाराभिर्व्याप्तं कुरुते । सर्वते आच्छादयते । तत्र दृष्टांतः । जूर्न जीर्णो यथा वस्त्रैरंगमाच्छादयति तद्वत् ।
+
+> *tasmā iṃdrāyaitaṃ somamaṃtarikṣe vātamiva dhārābhirvyāptaṃ kurute | sarvate ācchādayate | tatra dṛṣṭāṃtaḥ | jūrna jīrṇo yathā vastrairaṃgamācchādayati tadvat |*
+
+*(Reading note: the strip appears to show a final e-sign on "कुरुते", "सर्वते" and "आच्छादयते", and "आच्छादयति" at the end; written as they look. This differs from the form "सर्वत आच्छाधयत" read on the previous page; doubt logged.)* The Kannada says: "To that Indra", that is, fill Indra, who has the qualities described above, well with soma juice, and make him well pervaded, that is, let Indra drink the soma juice abundantly. Two similes are given here *(continued on the next page)*.
+
+---
+
+### Printed p. 730 (PDF 753)
+
+*(Header, read from the strip and not zoomed: "730", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+The Viśeṣaviṣaya of Ṛk 3 continues: In the antarikṣa the wind makes the rain-water spread everywhere. In the same way, you should fill Indra with soma juice as much as he wishes; this is the meaning. And as an aged old man, unable to bear the cold, covers his body completely with garments, so make Indra (or Indra's belly) pervaded (covered) with soma juices. In this way the meaning of the simile is stated. *(No grammar section is printed for Ṛk 3.)*
+
+---
+
+#### Ṛk 4
+
+*(The accent marks of the Saṃhitā and Pada are not reproduced here. The Kannada letters "ಯು", "ಮು" in "ಯು ಉರಣಂ", "ಅರ್ಬುದಮುವ", "ಸೋಮುಸ್ಯ" are the hooked plain *ya* and *ma*, read as य, म.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ य उर॑णं ज॒घान॒ नव॑ च॒ख्वांसं॑ नव॒तिं च॑ बा॒हून् ।
+> यो अर्बु॑द॒मव॑ नी॒चा ब॑बा॒धे तमिंद्रं॒ सोम॑स्य भृ॒थे हि॑नोत ॥ ४ ॥
+
+> *adhvaryavo ya uraṇaṃ jaghāna nava cakhvāṃsaṃ navatiṃ ca bāhūn |*
+> *yo arbudamava nīcā babādhe tamiṃdraṃ somasya bhṛthe hinota ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । उरणं । जघान । नव । चख्वांसं । नवतिं । च । बाहून् ।
+> यः । अर्बुदं । अव । नीचा । बबाधे । तं । इंद्रं । सोमस्य । भृथे । हिनोत ॥ ४ ॥
+
+> *adhvaryavaḥ | yaḥ | uraṇaṃ | jaghāna | nava | cakhvāṃsaṃ | navatiṃ | ca | bāhūn |*
+> *yaḥ | arbudaṃ | ava | nīcā | babādhe | taṃ | iṃdraṃ | somasya | bhṛthe | hinota ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra slew the asura Uraṇa, who displayed ninety-nine arms, and hurled Arbuda down headlong; propitiate him at the offering of soma.*
+
+*(Reading notes: the first sentence is printed "य इंद्रो ... चख्वांसं ॥". In "ऋनतेः" the first letter is printed in the shape used for ṛ and is read so; this is doubtful. The grammatical tail is transcribed without explanation; no sūtra numbers are printed in it.)*
+
+> हे अध्वर्यवः य इंद्रो नव नवतिं च एकोनशतं बाहून् चख्वांसं ॥ चष्टेरिदं रूपं । यद्वा ऋनतेः[?] क्वसौ रूपं । निलोपः । छांदसं रूपं ॥ सर्वस्य दर्शयंतं । यद्वा आत्मनो देहे निखातवंतमुरणमेतन्नामकमसुरं जघान । यश्चार्बुदमेतन्नामकमसुरं च नीचाधोमुखं कृत्वावबबाधे । तमेनमिंद्रं सोमस्य भृथे सोमं बिभ्रति पात्रे हिनोत । वर्धयत । यद्वा सोमस्य भृथे भरणे संपादने सति हिनोत । स्तोत्रैः प्रीणयत ॥ हि गतिवृद्ध्योः । स्वादिः ॥
+
+> *he adhvaryavaḥ ya iṃdro nava navatiṃ ca ekonaśataṃ bāhūn cakhvāṃsaṃ ‖ caṣṭeridaṃ rūpaṃ | yadvā ṛnateḥ[?] kvasau rūpaṃ | nilopaḥ | chāṃdasaṃ rūpaṃ ‖ sarvasya darśayaṃtaṃ | yadvā ātmano dehe nikhātavaṃtamuraṇametannāmakamasuraṃ jaghāna | yaścārbudametannāmakamasuraṃ ca nīcādhomukhaṃ kṛtvāvababādhe | tamenamiṃdraṃ somasya bhṛthe somaṃ bibhrati pātre hinota | vardhayata | yadvā somasya bhṛthe bharaṇe saṃpādane sati hinota | stotraiḥ prīṇayata ‖ hi gativṛddhyoḥ | svādiḥ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. | यः (*yaḥ*)—which Indra. | नव नवतिं च (*nava navatiṃ ca*)—ninety-nine in number. | बाहून् (*bāhūn*)—arms. | चख्वांसं (*cakhvāṃsaṃ*)—displaying (or having in his body). *(The Pratipadārtha continues on the next page.)*
+
+---
+
+### Printed p. 731 (PDF 754)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "731".)*
+
+उरणं (*uraṇaṃ*)—the asura named Uraṇa. | जघान (*jaghāna*)—killed. | यः (*yaḥ*)—who. | अर्बुदं (*arbudaṃ*)—the asura named Arbuda. | नीचा (*nīcā*)—making him face downward. | अव बबाधे (*ava babādhe*)—harassed and destroyed. | तं (*taṃ*)—such. | इंद्रं (*iṃdraṃ*)—Indra. | सोमस्य (*somasya*)—of soma juice. | भृथे (*bhṛthe*)—in the vessel (offering soma with a vessel full of it). | हिनोत (*hinota*)—make him grow.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, Indra killed the asura named Uraṇa, who was displaying his own ninety-nine arms by stretching them out. He also made the asura named Arbuda face downward, harassed him and destroyed him. Offer soma from a full vessel to such an Indra and make him grow.
+
+**English Translation** *(as printed)*
+
+Priests, propitiate, by the offering of the Soma, that Indra, who slew Urana, displaying nine and ninety arms; and hurled Arbuda down headlong· *(a raised dot stands where the full stop would be)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+य उरणं जघान नव चख्वांसं नवतिं च बाहून् (*ya uraṇaṃ jaghāna nava cakhvāṃsaṃ navatiṃ ca bāhūn*)—Sāyaṇa has explained this sentence in two ways.
+
+*(1)* इंद्रो नव नवतिं च एकोनशतं बाहून् चख्वांसं सर्वस्य दर्शयंतं उरणमेतन्नामकमसुरं जघान (*iṃdro nava navatiṃ ca ekonaśataṃ bāhūn cakhvāṃsaṃ sarvasya darśayaṃtaṃ uraṇametannāmakamasuraṃ jaghāna*) (the Kannada follows it): Indra killed the asura named Uraṇa, who displayed (held) ninety-nine arms for all to see. This is one kind of meaning.
+
+*(2)* यद्वा आत्मनो देहे चख्वांसं निखातवंतमुरणमेतन्नामकमसुरं जघान (*yadvā ātmano dehe cakhvāṃsaṃ nikhātavaṃtamuraṇametannāmakamasuraṃ jaghāna*) (as printed): or Indra killed the asura named Uraṇa, who, joined with his ninety-nine arms, fell upon Indra and was harassing him, sticking fast to him. This is another kind of meaning.
+
+Here the ninety-nine arms may belong to Indra or to the asura Uraṇa. "Ninety-nine" need not be taken as exactly that number; it may also be taken as "many". The meaning is that Indra killed the asura Uraṇa, who had many arms. The name Uraṇa occurs only in this Ṛk and nowhere else. Therefore nothing can be said about him.
+
+यः अर्बुदमव नीचा बबाधे (*yaḥ arbudamava nīcā babādhe*)—Here it is said that Indra made the asura named Arbuda face downward, harassed him and killed him. We have discussed the matter of the asura Arbuda in detail in Ṛ. Saṃ. part 5 [?], page 135 [?] *(the part and page numerals are doubtful)*, and in pages 633–634 of this same part. *(The numeral file agrees with 633–634 only.)*
+
+तमिंद्रं सोमस्य भृथे हिनोत (*tamiṃdraṃ somasya bhṛthe hinota*)—तमेनमिंद्रं सोमस्य भृथे सोमं बिभ्रति पात्रे हिनोत वर्धयत (*tamenamiṃdraṃ somasya bhṛthe somaṃ bibhrati pātre hinota vardhayata*) । The Kannada: "To such an Indra, the soma filled completely in the vessel …" *(the sentence runs on to the next page)*.
+
+---
+
+### Printed p. 732 (PDF 755)
+
+*(Header, read from the strip and not zoomed: "Maṃ. 2 A. 2 Sū. 14". The page opens in the middle of the Viśeṣaviṣayagaḷu of Ṛk 4, continuing the sentence left open on p. 731. No grammar section is printed for Ṛk 4.)*
+
+The Viśeṣaviṣaya of Ṛk 4 continues: "… [soma, offering it] and make him grow", this is one meaning. The other meaning is: यद्वा सोमस्य भृथे भरणे संपादने सति हिनोत स्तोत्रैः प्रीणयत (*yadvā somasya bhṛthe bharaṇe saṃpādane sati hinota stotraiḥ prīṇayata*), that is, when the soma has been prepared and the vessel filled with soma juice, satisfy Indra with stotras so that he may drink the soma. The bhāṣyakāra says that this is another kind of meaning that is possible.
+
+---
+
+#### Ṛk 5
+
+*(Accent marks of the Saṃhitā and Pada are not reproduced here. In the Pada, "वि" and "अंसं" are joined by the small compound stroke, read as ऽ; the same stroke is read between "धि" and "क्रां" in "रुधिऽक्रां"; this last is doubtful and logged.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यः स्वश्नं॑ ज॒घान॒ यः शुष्ण॑म॒शुषं॒ यो व्यं॑सं ।
+> यः पिप्रुं॒ नमु॑चिं॒ यो रु॑धि॒क्रां तस्मा॒ इंद्रा॒यांध॑सो जुहोत ॥ ५ ॥
+
+> *adhvaryavo yaḥ svaśnaṃ jaghāna yaḥ śuṣṇamaśuṣaṃ yo vyaṃsaṃ |*
+> *yaḥ pipruṃ namuciṃ yo rudhikrāṃ tasmā iṃdrāyāṃdhaso juhota ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । सु । अश्नं । जघान । यः । शुष्णं । अशुषं । यः । विऽअंसं ।
+> यः । पिप्रुं । नमुचिं । यः । रुधिऽक्रां । तस्मै । इंद्राय । अंधसः । जुहोत ॥ ५ ॥
+
+> *adhvaryavaḥ | yaḥ | su | aśnaṃ | jaghāna | yaḥ | śuṣṇaṃ | aśuṣaṃ | yaḥ | vi 'aṃsaṃ |*
+> *yaḥ | pipruṃ | namuciṃ | yaḥ | rudhi 'krāṃ | tasmai | iṃdrāya | aṃdhasaḥ | juhota ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra slew Aśna, the unwitherable Śuṣṇa (after cutting off his shoulders), Pipru, Namuci and Rudhikra; offer food-oblations to him.*
+
+*(Reading notes: in "जगद्व्याप्य[?]" the conjunct after "द्व्य" is unclear and is not completed from memory. The Tait­tirīyaka passage cited is described, not quoted. The Ṛk reference after "अपां फेनेन …" is printed as 8-14-13; the numeral file says 4.14.13; see the note at the end. No sūtra numbers are printed; there is no grammatical tail.)*
+
+> हे अध्वर्यवः य इंद्रोऽश्नं । अश्नाति भक्षयति प्राणिजातमिति । यदा अश्नुते स्वतेजसा सर्वं व्याप्नोतीत्यश्नः कश्चिदसुरः । तमसुरं सु सुष्ठु जघान । अशुषं केनाप्यशोषणीयं शुष्णमसुरं यश्च तमसुरं व्यंसमंसहीनं कृत्वा जघान । यश्च पिप्रुं तेजसा जगद्व्याप्य[?] वर्तमानमेतन्नामकमसुरं नमुचिमसुरं जघान यश्च । तैत्तिरीयके नमुचिमसुरं नालभतेति प्रकृत्य फेनेन शिर उदवर्तयदित्यंतेन वाक्यसंदर्भेण नमुचिवधः प्रपंचितः । तथा मंत्रश्च । अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः । ८-१४-१३ । इति । रुधिक्रामेतन्नामकमसुरं यश्च जघान । तस्मा इंद्रायांधसो हविर्लक्षणान्यन्नानि जुहोत । जुहुत ॥
+
+> *he adhvaryavaḥ ya iṃdro 'śnaṃ | aśnāti bhakṣayati prāṇijātamiti | yadā aśnute svatejasā sarvaṃ vyāpnotītyaśnaḥ kaścidasuraḥ | tamasuraṃ su suṣṭhu jaghāna | aśuṣaṃ kenāpyaśoṣaṇīyaṃ śuṣṇamasuraṃ yaśca tamasuraṃ vyaṃsamaṃsahīnaṃ kṛtvā jaghāna | yaśca pipruṃ tejasā jagadvyāpya[?] vartamānametannāmakamasuraṃ namucimasuraṃ jaghāna yaśca | taittirīyake namucimasuraṃ nālabhateti prakṛtya phenena śira udavartayadityaṃtena vākyasaṃdarbheṇa namucivadhaḥ prapaṃcitaḥ | tathā maṃtraśca | apāṃ phenena namuceḥ śira iṃdrodavartayaḥ | 8-14-13 | iti | rudhikrāmetannāmakamasuraṃ yaśca jaghāna | tasmā iṃdrāyāṃdhaso havirlakṣaṇānyannāni juhota | juhuta ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. | यः (*yaḥ*)—which Indra. | अश्नं (*aśnaṃ*)—the asura named Aśna. | सु जघान (*su jaghāna*)—completely destroyed. | यः (*yaḥ*)—who. | अशुषं (*aśuṣaṃ*)—(by anyone else) impossible to defeat [as printed]. | शुष्णं (*śuṣṇaṃ*)—the asura named Śuṣṇa. | व्यंसं (*vyaṃsaṃ*)—cutting off his shoulders (he killed). *(The Pratipadārtha continues on the next page.)*
+
+---
+
+### Printed p. 733 (PDF 756)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "733".)*
+
+यः (*yaḥ*)—who. | पिप्रुं (*pipruṃ*)—the asura named Pipru. | नमुचिं (*namuciṃ*)—and Namuci he killed. | यः (*yaḥ*)—who. | रुधिक्रां (*rudhikrāṃ*)—the asura named Rudhikra. | जघान (*jaghāna*)—killed. | तस्मै इंद्राय (*tasmai iṃdrāya*)—to that Indra. | अंधसः (*aṃdhasaḥ*)—foods in the form of oblation. | जुहोते (*juhote*) [sic: the Pratipadārtha is printed with the headword जुहोते, as in the Pada the word is जुहोत]—offer and make homa.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, offer food in the form of oblation to that Indra who completely destroyed the asura named Aśna; who, cutting off the shoulders of the asura named Śuṣṇa, who cannot be dried up (defeated) by others, killed him; and who killed Pipru, Namuci and the asura Rudhikra.
+
+**English Translation** *(as printed)*
+
+Priests, offer the Soma libation to that Indra, who slew Ashna, the, [sic] unabsorbable Sushna, and the mutilated (Vṛitra); who destroyed Pipru Namuchi [sic: no comma] and Rudhikra· *(a raised dot stands where the full stop would be)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is said that Indra destroyed the asuras named Aśna, Śuṣṇa, Pipru, Namuci and Rudhikra.
+
+यः सु अश्नं जघान (*yaḥ su aśnaṃ jaghāna*)—
+
+> अश्नाति भक्षयति प्राणिजातमिति । यद्वा अश्नुते स्वतेजसा सर्वं व्याप्नोतीत्यश्नः । कश्चिदसुरः । तमसुरं सुष्ठु इंद्रो जघान ।
+
+> *aśnāti bhakṣayati prāṇijātamiti | yadvā aśnute svatejasā sarvaṃ vyāpnotītyaśnaḥ | kaścidasuraḥ | tamasuraṃ suṣṭhu iṃdro jaghāna |*
+
+The Kannada explains: because he eats (devours) all living beings, this asura is named Aśna. Or, because he pervades everything by his own tejas (power), he may also be called Aśna. Here it is said that Indra struck this asura Aśna well and destroyed him. As the name of this Aśna asura occurs nowhere else, not much is known about him.
+
+यः शुष्णं अशुषं यो व्यंसं (*yaḥ śuṣṇaṃ aśuṣaṃ yo vyaṃsaṃ*)—
+
+> अशुषं केनाप्यशोषणीयं शुष्णमसुरं यश्च तमसुरं व्यंसमंसहीनं कृत्वा जघान ।
+
+> *aśuṣaṃ kenāpyaśoṣaṇīyaṃ śuṣṇamasuraṃ yaśca tamasuraṃ vyaṃsamaṃsahīnaṃ kṛtvā jaghāna |*
+
+The Kannada: it is said that Indra first cut off the shoulders of the asura Śuṣṇa, who could not be dried up, and afterwards killed him. Or, since the word यः (*yaḥ*) is repeated twice here, it may be taken that there are two separate sentences, यः शुष्णं अशुषं जघान (*yaḥ śuṣṇaṃ aśuṣaṃ jaghāna*) and यः व्यंसं जघान (*yaḥ vyaṃsaṃ jaghāna*). In that case the meaning for the first sentence is that Indra killed the asura Śuṣṇa, and for the second that he cut the asura Vṛtra to pieces and killed him. The matter of Indra killing the Śuṣṇa and Pipru named in this Ṛk is *(continued on the next page)*:
+
+---
+
+### Printed p. 734 (PDF 757)
+
+*(Header, read from the strip and not zoomed: "734", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". Reference numerals on this page are read from the strip without zooming; individual doubtful ones are marked [?] and logged.)*
+
+*(The Ṛk cited by the Kannada author; the source gives no English for it. Gloss mine and tentative: "Who, with exultant wrath, [struck] Vyaṃsa; who [struck] Śambara; who slew the lawless Pipru; Indra, who struck down the unwitherable Śuṣṇa; we call the Marut-attended one for friendship.")*
+
+> यो व्यंसं जाहृषाणेन मन्युना यः शंबरं यो अहन्पिप्रुमव्रतं ।
+> इंद्रो यः शुष्णमशुषं न्यावृणङ्मरुत्वंतं सख्याय हवामहे ॥
+
+> *yo vyaṃsaṃ jāhṛṣāṇena manyunā yaḥ śaṃbaraṃ yo ahanpiprumavrataṃ |*
+> *iṃdro yaḥ śuṣṇamaśuṣaṃ nyāvṛṇaṅmarutvaṃtaṃ sakhyāya havāmahe ‖*
+
+(Ṛ. Saṃ. 1-101-2)
+
+The Kannada continues: "is stated in this Ṛk also. Here too, अशुषं शुष्णं (*aśuṣaṃ śuṣṇaṃ*) means Śuṣṇa who cannot be killed; that is, it is said that Indra killed the asura Śuṣṇa, whom no one other than Indra can kill. This asura named Śuṣṇa is the asura who sucks up all the water on the earth and causes drought (anāvṛṣṭi). He is exceedingly strong. Except for Vṛtra, he is the most dangerous enemy. After he was killed by Indra, the earth became rich in vegetation and full of fruit."
+
+"The name Śuṣṇa is recited about 40 times *(numeral read ४०, [?])* in the Ṛgveda. He is Kutsa's chief enemy. It is said that Indra uproots Śuṣṇa for Kutsa's sake, or in Kutsa's company (Ṛ. Saṃ. 4-16-12 [?], 5-29-9 [?], and so on). Because there are descriptions that he has horns (1-33-12 [?]), that he has eggs (8-40-10, 11 [?]) and that he hisses (1-54-5 [?]), it may be said that he is an asura of serpent form. He has strong forts (1-51-11 [?]; 4-30-13 [?]); these are moving forts (8-1-28). Indra destroys Śuṣṇa's forts *(printed "kōṭigaḷannu", the plural of "kōṭi", where "kōṭe" would be expected)* and sets the waters free (1-51-11 [?]). Uprooting Śuṣṇa's race, he wins the heavenly waters (स्वर्वतीः (*svarvatīḥ*)) (8-40-10). The epithet Kuyava (one who produces bad grain) is used for Śuṣṇa four times. In Ṛ. Saṃ. 1--103-8 *(as printed with a double dash)* and 1-104-3, the word Kuyava is used in place of the name Śuṣṇa. The result of the battle between Indra and Śuṣṇa is not only the release of waters; there are descriptions (8-95-12 [?] and others) that cows or the sun may also be obtained. In the Kāṭhaka it is said that Śuṣṇa is a dānava who keeps amṛta (the immortal drink) within himself. From the sentences above, Śuṣṇa may be called a cause of drought. We have dealt with him in Ṛ. Saṃ. parts 5-293 [?], 6-22 [?], 8-255 [?], 10-550 [?], 13-380 [?] and so on." *(The five part-page references are doubtful, were not zoomed, and are logged.)*
+
+पिप्रुं (*pipruṃ*)—"The asura named Pipru is said in many Ṛks to have been defeated many times by Indra. As Indra fought Śambara for Divodāsa and Atithigva, so he fought Pipru for Ṛjiśva. The matter of Pipru is described in the Ṛks Ṛ. Saṃ. 1-101-1, 2; 4-16-13, 5-29-11, 6-20-7 [?], 8-49-10 [?], 10-99-11 [?], 10-138-3 [?], 1-103-8, 6-18-8 [?], and so on." *(All unzoomed.)*
+
+> वि पिप्रोरहिमायस्य दृळ्हाः पुरो वज्रिञ्छ्वसा[?] न दर्दः ।
+
+> *vi piprorahimāyasya dṛḷhāḥ puro vajriñchvasā[?] na dardaḥ |*
+
+*(The conjunct after "वज्रि" is unclear in the strip.)*
+
+(Ṛ. Saṃ. 6-20-2 [?])
+
+*(The Ṛk reference is written 6-20-2 as read; the earlier list reads 6-20-7. Both are doubtful and the digits differ; not settled. The Viśeṣaviṣaya of Ṛk 5 breaks off here at the foot of the page; the Kannada after the citation has not yet been seen.)*
+
+*(Numeral file: its only row for these pages is the Ṛk reference after "अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः" on p. 732, "4.14.13"; the strip is read there as 8-14-13 (glyph ಲ), see FILE DISAGREE in the note.)*
+
+---
+
+---
+
+---
+
+### Printed p. 735 (PDF 758)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "735". The page continues the Viśeṣaviṣayagaḷu of Ṛk 5 after the citation "वि पिप्रोरहिमायस्य…" on p. 734.)*
+
+The Kannada continues: "…in the Ṛk that begins thus, it is said that Indra destroyed the strong ramparts etc. (forts) of Pipru."
+
+*(Citation by the Kannada author; no English is printed for it. Gloss mine and tentative: "Who [killed] Sṛbinda, the unseeing (?) Pipru, the dāsa Ahīśuva (?)": the compounds are not settled and the gloss is only a rough guide.)*
+
+> यः सृबिंदमनर्शनिं पिप्रुं दासमहीशुवं ।
+
+> *yaḥ sṛbiṃdamanarśaniṃ pipruṃ dāsamahīśuvaṃ |*
+
+(Ṛ. Saṃ. 8-32-2 [?])
+
+*(The Ṛk is copied letter by letter from the print. The last word "दासमहीशुवं" has a small dot printed in it. The reference numerals were not zoomed.)*
+
+The Kannada: "In the Ṛk that begins thus, it is also said that Pipru belonged to the company of the Dāsa people. Some suspect that Pipru is an asura, or a man who belonged to the company of the Dasyu people who were without vrata (religious observance)."
+
+It is uncertain whether he was a demon, according to Roth's view, which is favoured by the use of the word असुर (*asura*) or a human foe, as Ludwing [sic], Oldenberg, Hillebrandt believe. The name may mean resister from the root पृ (*pṛ*).
+
+(Vedic Index of Names and Subjects p. 532)
+
+*(In the printed English the words असुर (*asura*) and पृ (*pṛ*) stand in Kannada script: ಅಸುರ, ಪೃ.)*
+
+The Kannada: "This Pipru is the enemy of Ṛjiśvan, who was under Indra's protection. When this Ṛjiśvan offers soma juice to Indra and fights against Pipru, he receives Indra's help (Ṛ. Saṃ. 5-29-11 [?], 10-99-11 [?]). Indra, together with Ṛjiśvan, or for his sake, defeated Pipru (1-101-1, 2 [?]; 10-138-3 [?], 4-16-13 [?], 6-20-7 [?]). Under Pipru, who is endowed with ahi-like (serpent-like) māyās *(the print reads "āhiyu māyegaḷinda"; the sense is taken as stated and is not certain)*, there are many forts. Indra splits them open (1-51-5 [?], 6-20-7 [?]). Indra killed Pipru the dāsa and some others and sent the waters flowing (8-32-2 [?]). Indra, who was with Ṛjiśvan, destroyed the strong forts of the asura named Pipru, who is a māyin (10-138-3 [?]). Indra handed over to Ṛjiśvan the Pipru who was in the form of a wild beast. He also defeated fifty thousand black people and split open their strongholds (4-16-13 [?]). Joining with Ṛjiśvan, Indra destroyed the very offspring of the black people (1-101-1 [?]; the first digit of the middle number is damaged in the print). Many such descriptions about Pipru are given here and there."
+
+*(The Ṛgveda references in this paragraph were not zoomed; all are marked [?].)*
+
+**नमुचिं (Namuci)**
+
+*Gist: the name is explained as "one who does not give up battle with Indra".*
+
+> नमुचिं—इंद्रेण सह युद्धं न मुंचतीति नमुचिः तं ।
+
+> *namuciṃ—iṃdreṇa saha yuddhaṃ na muṃcatīti namuciḥ taṃ |*
+
+The Kannada: "Because he does not give up fighting with Indra, he is named Namuci. Namuci is an asura. Because he was very strong, it was very hard for Indra to fight him and conquer him. We have written about this asura in Ṛ. Saṃ. part 5-6[?]5 [?], 15-50 [?]. *(The part and page numerals are doubtful; the middle digit of the first reference is unclear.)* But the bhāṣyakāra has indicated that the matter of Indra's killing Namuci is told in the Taittirīya Brāhmaṇa, so we explain it here—"
+
+*(The Taittirīya Brāhmaṇa passage, in Kannada script in the print, is given in Devanagari. Accents are not reproduced. "सोऽस्मादभिशनतरोऽभवत्": as read, not completed from memory. In the last word of this block the print has "नाद्रो", read so and doubtful, [?]; the Kannada vowel sign after the first letter of "ने वा" is ೆ as read. The block breaks at the foot of the page, where the print breaks.)*
+
+> इंद्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । तौ समलभेतां । सोऽस्मादभिशनतरोऽभवत् । सोऽब्रवीत् ।
+> संधाग्ं संदधावहै । अथ त्वावसृक्ष्यामि । न मा शुष्केण नार्द्रेण हनः । न दिवा न नक्तमिति । स एतमपां फेनमसिंचत् । ने वा एष शुष्को नाद्रो[?]
+
+> *iṃdro vṛtragṃ hatvā | asurān parābhāvya | namucimāsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tau samalabhetāṃ | so 'smādabhiśanataro 'bhavat | so 'bravīt |*
+> *saṃdhāgṃ saṃdadhāvahai | atha tvāvasṛkṣyāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | na divā na naktamiti | sa etamapāṃ phenamasiṃcat | ne vā eṣa śuṣko nādro[?]*
+
+*(Continued on the next page.)*
+
+---
+
+### Printed p. 736 (PDF 759)
+
+*(Header, read from the strip and not zoomed: "736", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+*(The Taittirīya Brāhmaṇa passage continues from p. 735. "तैर्वै": the print may read "त्रैर्वै"; marked [?] and logged. The abbreviation is printed "ತ್ರೈ. ಬ್ರಾ", i.e. "Trai. Brā." for Taittirīya Brāhmaṇa; the reference numerals were not zoomed.)*
+
+> व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तं । तस्यैतस्मिन्लोके । अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तते । मित्रद्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै[?] स रक्षाग्ंस्यपाहते । यदपामार्गहोमो भवति । रक्षसामुपहत्यै ॥
+
+> *vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etaddivā na naktaṃ | tasyaitasminloke | apāṃ phenena śira udavartayat | tadenamanvavartate | mitradrugiti | sa etānapāmārgānajanayat | tānajuhot | tairvai[?] sa rakṣāgṃsyapāhate | yadapāmārgahomo bhavati | rakṣasāmupahatyai ‖*
+
+(Trai. Brā. [i.e. Tai. Brā.] 1-7-1-5, 6, 7 [?])
+
+The Kannada explains: "After Indra killed the asura Vṛtra, he also killed other rākṣasas. But he could not conquer the asura named Namuci. He was extremely strong. He yielded to no kind of weapon. Therefore Indra wished to conquer him by his own bodily strength alone, and began a wrestling fight with him. Even so, the more they fought, the more Namuci's own strength increased. Indra could not escape from his grip. Then Indra asked Namuci to let him go, and the asura said to Indra: 'O Indra, if you want to be released, you must do as I say. Let us now make a treaty with each other. You may later wish to fight me by some stratagem and kill me. In such a case the weapon you use to kill me must be neither wet nor dry; you must not kill me by day, nor by night. If you agree to these conditions, I will release you.' Indra agreed that it should be so, freed himself from his grip, and began to think how to conquer him. After some time a means occurred to him. The foam of the sea, which lay before him, came into his sight. This foam is neither wet nor dry. 'Therefore I shall take this very thing as a weapon and kill Namuci. When the night has passed and the dawn has begun, before the sun rises, there is full light. That time is not night because it is not dark, and it is not day because the sun has not risen. If I fight at such a time and kill him with a weapon made from the foam of water, I shall not have broken my word.' Having decided so, he fought Namuci accordingly and cut off his head with that foam. But the asura did not die; he came chasing Indra in order to kill him. 'O Indra, betrayer of a friend! Stop, stop! You gave your word that you would not kill me, and now you have done such a treacherous deed. I shall not let you go without killing you,' he said. Then Indra, frightened, created a special tree named Apāmārga and, for the increase of his vigour, offered homa in the fire with its sticks (samidh). By that Indra's strength grew greater and he killed Namuci. Therefore it is said that those who wish to be freed from the harassment of rākṣasas must perform homa with Apāmārga sticks. This Namuci whom Indra killed—" *(the sentence runs on to the next page)*
+
+---
+
+### Printed p. 737 (PDF 760)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "737". At the foot is the signature mark "[47]" and "Vol. 14".)*
+
+The Kannada continues: "…matter is told not only in this Ṛk but in the Ṛgveda in—"
+
+*(The Ṛks cited next are in Devanagari from the print; the source gives no English for them. The glosses are mine and tentative, partial and meant only as a rough guide. Accents are not reproduced. The reference numerals were not zoomed; those marked [?] are doubtful. The initial letter of "युजं" is printed with the hook that can stand for either *ya* or *yu*; read *yu*, logged.)*
+
+> नव्या यदिंद्र सख्या परावति निबर्हयो नमुचिं नामु मायिनं ।
+
+> *navyā yadiṃdra sakhyā parāvati nibarhayo namuciṃ nāmu māyinaṃ |*
+
+(Ṛ. Saṃ. 1-53-7 [?])
+
+*(Gloss mine and tentative: Indra "far away" overthrows Namuci the māyin.)*
+
+> अत्रा दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् ।
+
+> *atrā dāsasya namuceḥ śiro yadavartayo manave gātumicchan |*
+
+(Ṛ. Saṃ. 5-30-7 [?])
+
+*(Gloss mine and tentative: there Indra turned off the head of the dāsa Namuci, wishing a path for Manu.)*
+
+> युजं हि मामकृथा आदिदिंद्र शिरो दासस्य नमुचेर्मथायन् ।
+
+> *yujaṃ hi māmakṛthā ādidiṃdra śiro dāsasya namucermathāyan |*
+
+(Ṛ. Saṃ. 5-30-8)
+
+*(Gloss mine and tentative: "you made me your companion"; then Indra crushes the head of the dāsa Namuci.)*
+
+> प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् ।
+
+> *pra śyeno na madiramaṃśumasmai śiro dāsasya namucermathāyan |*
+
+(Ṛ. Saṃ. 6-20-6)
+
+*(Gloss mine and tentative: the intoxicating soma-shoot is brought for him "like a falcon"; the head of the dāsa Namuci is crushed.)*
+
+> निवेशने शततमाविवेषीरहञ्छ[?] वृत्रं नमुचिमुताहन् ।
+
+> *niveśane śatatamāviveṣīrahañcha[?] vṛtraṃ namucimutāhan |*
+
+(Ṛ. Saṃ. 7-19-5 [?])
+
+*(One conjunct after "रहञ्" is unclear in the print and is not completed. Gloss mine and tentative: Vṛtra and Namuci are both slain.)*
+
+> अपां[?] फेनेन नमुचेः शिर इंद्रोदवर्तयः ।
+
+> *apāṃ[?] phenena namuceḥ śira iṃdrodavartayaḥ |*
+
+(Ṛ. Saṃ. 8-14-13)
+
+*(The first letter of the Ṛk is printed so that it looks like "ಅಸಾಂ" (*asāṃ*); it is read "अपां" in agreement with the clearer printing of the same phrase in the bhāṣya on p. 732 and in the Brāhmaṇa passage above. Logged. The reference numerals here are read 8-14-13 (glyph ಲ for 8), which supports the reading of the bhāṣya reference on p. 732 against the numeral file's "4.14.13". Gloss mine and tentative: "with the foam of the waters, Indra, you turned off the head of Namuci".)*
+
+> त्वं जघंथ नमुचिं मखस्युं दासं कृष्णान ऋषये विमानं ।
+
+> *tvaṃ jaghaṃtha namuciṃ makhasyuṃ dāsaṃ kṛṣṇāna ṛṣaye vimānaṃ |*
+
+(Ṛ. Saṃ. 10-73-7 [?])
+
+*(Reading of "विमानं" and of the reference numerals doubtful. Gloss mine and tentative: "you struck Namuci the dāsa, who desired the sacrifice (?)"; the rest not settled.)*
+
+> युवं सुराममश्विना नमुचावासुरे सचा ।
+
+> *yuvaṃ surāmamaśvinā namucāvāsure sacā |*
+
+(Ṛ. Saṃ. 10-131-4 [?])
+
+*(Gloss mine and tentative: "you two, Aśvins, together, [gave] the surā-drink [to Indra] when Namuci the Asura [held him]".)*
+
+The Kannada: "It is said in these Ṛks. Nowhere else is it so."
+
+*(The next paragraph begins with the headword from the bhāṣya. The heading word "जुहोते" is printed so; the Ṛk and Pada word is "जुहोत". Printed form kept, [?], logged.)*
+
+*Gist: Indra killed the asura Rudhikra; offer food oblations to him.*
+
+> यः रुधिक्रां तस्मै इंद्राय अंधसः जुहोते—रुधिक्रामेतन्नामकमसुरं यश्च जघान । तस्मा इंद्रायांधसो हविर्लक्षणान्यन्नानि जुहोते । जुहुत ।
+
+> *yaḥ rudhikrāṃ tasmai iṃdrāya aṃdhasaḥ juhote—rudhikrāmetannāmakamasuraṃ yaśca jaghāna | tasmā iṃdrāyāṃdhaso havirlakṣaṇānyannāni juhote | juhuta |*
+
+The Kannada: "O Adhvaryus, offer homa of the food in the form of oblation, in the fire, with Indra as the one addressed, to that Indra who killed the asura named Rudhikra. As the name of the asura Rudhikra is not spoken anywhere else in the Ṛgveda, nothing more can be said about him." *(No full stop is printed at the end.)*
+
+*(A short rule is printed here, which closes the Viśeṣaviṣayagaḷu of Ṛk 5. No grammar section is printed for Ṛk 5.)*
+
+---
+
+#### Ṛk 6
+
+*(The printed heading "संहितापाठः" stands before the Ṛk. The Ṛk number is not visible at the end of the Saṃhitā in the strip; "Ṛk 6" follows the sequence from Ṛk 5 and is not read from the page. Accent marks and the svara strokes are not reproduced. In the second line the word "सहस्रमपावपद्भरता" is read so, with plain *ma* printed with the hook.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यः श॒तं शंब॑रस्य॒ पुरो॑ बि॒भेदाश्म॑नेव पू॒र्वीः ।
+> यो व॒र्चिनः॑ श॒तमिंद्रः॑ स॒हस्र॑म॒पाव॑प॒द्भर॑ता॒ सोम॑मस्मै ॥
+
+> *adhvaryavo yaḥ śataṃ śaṃbarasya puro bibhedāśmaneva pūrvīḥ |*
+> *yo varcinaḥ śatamiṃdraḥ sahasramapāvapadbharatā somamasmai ‖*
+
+---
+
+**Progress note:** Done through printed p. 737 (PDF 760). Sūkta 14: the Viśeṣaviṣayagaḷu of Ṛk 5 is complete (Pipru, Namuci with the Taittirīya Brāhmaṇa story, the cited Ṛks, Rudhikra); no grammar section is printed for Ṛk 5. Ṛk 6 is open: only the Saṃhitā is written (Ṛk number not visible in the print, taken from the sequence); the Pada, bhāṣya, Pratipadārtha etc. follow on the next page (printed p. 738, PDF 761). The numeral file had 0 rows for these pages, so no numeral was checked against it, and none was zoomed. The second occurrence of the reference "8-14-13" (here read from the strip) supports the earlier reading against the file's "4.14.13". All Ṛgveda, Taittirīya Brāhmaṇa and part-page references on pp. 735–737 are unzoomed; those marked [?] are doubtful: 8-32-2, 5-29-11, 10-99-11, 1-101-1, 10-138-3, 4-16-13, 6-20-7, 1-51-5, part references 5-6[?]5 and 15-50, Tai. Brā. 1-7-1-5, 6, 7, and the Ṛk references 1-53-7, 5-30-7, 7-19-5, 10-73-7, 10-131-4. Other [?] places: "नाद्रो" and "ने वा" in the Brāhmaṇa passage, "तैर्वै" (print may read "त्रैर्वै"), "शततमाविवेषीरहञ्छ", "अपां" (print looks like "ಅಸಾಂ") in the 8-14-13 citation, "विमानं", "युजं" (hook: *ya* or *yu*), "जुहोते" in the bhāṣya heading. Accents not reproduced.
