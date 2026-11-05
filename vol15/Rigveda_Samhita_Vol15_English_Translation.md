@@ -19731,6 +19731,74 @@ One who, as the right arm of the king, helps him in many ways in all his affairs
 
 This scholar has said that at first the purohita took part only in the sacrificial works and held the position of helping the king in Vedic rites; afterwards the Brahmins, with expanded ambition, showed political importance for the same position and made for themselves an opportunity to share in the king's authority. But on close examination it can be said that this scholar's opinion is not right. In the position of the purohita no selfishness of any kind is seen. The Vedic sentences themselves tell that the chief spiritual principle is contained in it. Between the position of the purohita described in the Vedic sentences and the purohita who becomes a helper to Vedic rites in present-day life, any
 
+### Printed p. 631
+
+*[Running head, p. 631: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+relation. Even in modern affairs, though the need for a purohita is great, the former distinction is lost. This difference becomes clear when one examines, on the basis of Vedic sentences, what the distinction of the ancient purohita's position was. The Aitareya Brāhmaṇa first describes the help of the purohita in the king's sacrificial work and then, extending the meaning of the sacrifice, since all the activity of the world is itself of the nature of sacrifice, shows the need of a purohita in all the affairs of the world. Who is this purohita? The purohita who guides the affairs of earthly beings such as men is Agni; the purohita who guides heaven is Āditya; the purohita who guides the affairs of beings in the atmosphere is the wind. In this way a purport propounding a spiritual principle is stated for the position of the purohita. How?
+
+⟦ಅಥಾತಃ ಪುರೋಧಾಯಾ ಏವ, ನ ಹವಾ ಅಪುರೋಹಿತಸ್ಯ ರಾಜ್ಯೋ ದೇವಾ ಅನ್ನಮದಂತಿ
+ತಸ್ಮಾದ್ರಾಜಾ ಯಕ್ಷ್ಯಮಾಣೋ ಬ್ರಾಹ್ಮಣಂ ಪುರೋ ದಧೀತ ದೇವಾ ಮೇಽನ್ನ ಮದನ್ನಿತಿ;
+ಅಗ್ನೀನ್ವಾ ಏಷ ಸ್ವರ್ಗ್ಯಾನ್ರಾಜೋದ್ಧರತೇ ಯತ್ಪುರೋಹಿತಂ ।⟧
+(printed ಇ. ಬ್ರಾ. ೪೦-೨೪)
+
+If the position of the purohita and the need for it are considered, this position is very important. If a king without a purohita offers oblations in the sacrifice, the gods do not accept them. Therefore the king, before the sacrifice, must take as his helper a purohita of proper qualifications. If he chooses a purohita with the wish "may the gods accept my oblation", then he establishes the fire, which is the means of reaching heaven.
+
+⟦ತಸ್ಯ ಪುರೋಹಿತ ಏವಾಹವನೀಯೋ ಭವತಿ ಜಾಯಾ ಗಾರ್ಹಪತ್ಯಃ ಪುತ್ರೋಽನ್ವಾಹಾರ್ಯಪಚನಃ ಸ ಯತ್ಪುರೋಹಿತಾಯ ಕರೋತ್ಯಾಹವನೀಯ ಏವ ತಜ್ಜು ಹೋತ್ಯಥ ಯಜ್ಞಾಯಾಯ್ಕೆ ಕರೋತಿ ಗಾರ್ಹಪತ್ಯ ಏವ ತಜ್ಜು ಹೋತ್ಯಥ ಯತ್ಪುತ್ರಾಯ ಕರೋತ್ಯನ್ವಾಹಾರ್ಯಪಚನ ಏವ ತಜ್ಜು ಹೋತಿ ತ ಏನಂ ಶಾಂತತನವೋಽಭಿಹುತಾ ಅಭಿಪ್ರೀತಾಃ ಸ್ವರ್ಗಂ
+ಲೋಕಮಭಿವಹಂತಿ ಕ್ಷತ್ರಂ ಚ ಬಲಂ ಚ ರಾಷ್ಟ್ರಂ ಚ ವಿಶಂ ಚ । ತ ಏವೈನಮಶಾಂತತನವೋಽನಭಿಹುತಾ ಅನಭಿಪ್ರೀತಾಃ ಸ್ವರ್ಗಾನ್ ಲೋಕಾನ್ನುದಂತೇ ಕ್ಷತ್ರಾಚ್ಚ
+ಬಲಾಚ್ಚ ರಾಷ್ಟ್ರಾಚ್ಚ ವಿಶಶ್ಚ ॥⟧ (printed ಐ. ಬ್ರಾ. ೪೦-೨೪)
+
+In relation to the sacrifice, the purohita is the Āhavanīya, his wife is the Gārhapatya, and his son is the Anvāhāryapacana, that is, the southern fire. Whatever the king offers according to the wish of the purohita is as if offered to the Āhavanīya fire. What is offered to his wife is as if offered to the Gārhapatya fire. What is offered to his son is as if offered to the southern fire. If they are pleased by these attentions, they become helpers to the king for the attainment of heaven, for the acquisition of kṣatriya power, for the gain of the kingdom, for the accomplishment of strength,
+
+### Printed p. 632
+
+*[Running head, p. 632: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+and for the winning of the people's affection. Without it, if they are displeased, the king falls from heaven. His kṣatriya power is destroyed. He becomes weak. He is thrown out of the kingdom. He loses the affection of the people. But who is this purohita, and what does it mean to please his wife and sons? To this—
+
+⟦ಅಗ್ನಿರ್ವಾ ಏಷ ವೈಶ್ವಾನರಃ ಪಂಚಮೇನಿರ್ಯತ್ಪುರೋಹಿತಸ್ತಸ್ಯ ವಾಚ್ಯೇವೈಕಾ ಮೇನಿರ್ಭವತಿ
+ಪಾದಯೋರೇಕಾ ತ್ವಚ್ಯೇಕಾ ಹೃದಯ ಏಕೋಪಸ್ಥ ಏಕಾ ತಾಭಿರ್ಜ್ವಲಂತೀಭಿರ್ದೀಪ್ಯಮಾನಾಭಿರುಪೋದೇತಿ ರಾಜಾನಂ ಸ ಯದಾಹ ಕ್ವ ಭಗವೋಽವಾತ್ಸೀಸ್ತೃಣಾನ್ಯಸ್ಮಾ ಆಹರತೇತಿ
+ತೇನಾಸ್ಯ ತಾಂ ಶಮಯತಿ ಯಾಸ್ಯ ವಾಚಿ ಮೇನಿರ್ಭವತ್ಯಥ ಯದಸ್ಮಾ ಉದಕಮಾನಯಂತಿ
+ಪಾದ್ಯಂ ತೇನಾಸ್ಯ ತಾಂ ಶಮಯತಿ ಯಾಸ್ಯ ಪಾದಯೋರ್ಮೇನಿರ್ಭವತ್ಯಥ ಯದೇನಮಲಂ
+ಕುರ್ವಂತಿ ತೇನಾಸ್ಯ ತಾಂ ಶಮಯತಿ ಯಾಸ್ಯ ತ್ವಚಿ ಮೇನಿರ್ಭವತ್ಯಥ ಯದೇನಂ ತರ್ಪಯಂತಿ ತೇನಾಸ್ಯ ತಾಂ ಶಮಯತಿ ಯಾಸ್ಯ ಹೃದಯೇ ಮೇನಿರ್ಭವತ್ಯಥ ಯದಸ್ಯಾನಾರುದ್ಧೋ ವೇಶ್ಮಸು ವಸತಿ ತೇನಾಸ್ಯ ತಾಂ ಶಮಯತಿ ಯಾಸ್ಕೋಪಸ್ಥೇ ಮೇನಿರ್ಭವತಿ ॥⟧
+(printed ಐ. ಬ್ರಾ. ೪೦-೨೪)
+
+This purohita is not a mortal. The immortal Vaiśvānara Agni himself is this purohita. He has five weapons (menayaḥ): one in his speech, one in his feet, one in the skin, one in the heart, one in the principal part. With these blazing, flame-like weapons the purohita, in the form of Vaiśvānara Agni, approaches the king. At once the king asks, "O revered one, where have you been living till now?" and, when he orders his attendants, "Prepare grass for the worship of this purohita", the sharpness of the weapon in Agni's speech is quenched. When water is brought for the washing of his feet, the intensity of the weapon in the feet decreases. When he is adorned, the intensity of the weapon in the skin, when he is satisfied, the sharpness of the weapon in the heart, and when it is arranged that he stay in the sacrificial house without any hindrance, the intensity of the weapon in his principal part, become calm.
+
+⟦ಸ ಏನಂ ಶಾಂತತನುರಭಿಹುತೋಽಭಿಪ್ರೀತಃ ಸ್ವರ್ಗಂ ಲೋಕಮಭಿವಹತಿ ಕ್ಷತ್ರಂ ಚ ಬಲಂ ಚ
+ರಾಷ್ಟ್ರಂ ಚ ವಿಶಂ ಚ ಸ ಏವೈನಮಶಾಂತತನುರನಭಿಹುತೋಽನಭಿಪ್ರೀತಃ ಸ್ವರ್ಗಾಂಲ್ಲೋಕಾನ್ನುದತೇ ಕ್ಷತ್ರಾಚ್ಚ ಬಲಾಚ್ಚ ರಾಷ್ಟ್ರಾಚ್ಚ ವಿಶಶ್ಚ ॥⟧
+(printed ಇ. ಬ್ರಾ. ೪೦-೨೪)
+
+Thus the Agni, who is of the form of the purohita, when he has received oblations and the like that gratify his burning body and is satisfied, carries the sacrificer to heaven. And he provides him kṣatriya power
+
+### Printed p. 633
+
+*[Running head, p. 633: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+and valour, the kingdom and the support of the people. Without this satisfaction, the king has no attainment of heaven. He cannot obtain kṣatriya valour, the kingdom or the people's support. All of them turn away from him.
+
+⟦ಅಗ್ನಿರ್ವಾ ಏಷ ವೈಶ್ವಾನರಃ ಪಂಚ ಮೇನಿರ್ಯತ್ಪುರೋಹಿತಸ್ತಾಭೀ ರಾಜಾನಂ ಪರಿಗೃಹ್ಯ ತಿಷ್ಠತಿ
+ಸಮುದ್ರ ಇವ ಭೂಮಿಂ । ಆಯುವಮಾರ್ಯಸ್ಯ ರಾಷ್ಟ್ರಂ ಭವತಿ ನೈನಂ ಪುರಾಯುಷಃ
+ಪ್ರಾಣೋ ಜಹಾತ್ಯಾಜರಸಂ ಜೀವತಿ ಸರ್ವಮಾಯುರೇತಿ ನ ಪುನರ್ಮ್ರಿಯತೇ ಯಸ್ಯೈವಂ
+ವಿದ್ವಾನ್ಬ್ರಾಹ್ಮಣೋ ರಾಷ್ಟ್ರಗೋಪಃ ಪುರೋಹಿತಃ ॥⟧ (printed ಐ. ಬ್ರಾ. ೪೦-೨೫)
+
+The purohita, who has the five weapons mentioned above and is of the form of Agni Vaiśvānara, protects the king as the ocean covers and protects the earth. The rule of the king to whom a purohita, endowed with Brahmic radiance, knower of the meaning of the truth, and guardian of the realm, gives support, is not destroyed in his youth. His breath does not leave him until the full time is completed. He lives till old age. And he certainly obtains a full life.
+
+⟦ಕ್ಷತ್ರೇಣ ಕ್ಷತ್ರಂ ಜಯತಿ ಬಲೇನ ಬಲಮಶ್ನುತೇ ಯಸ್ಯೈವಂ ವಿದ್ವಾನ್ ಬ್ರಾಹ್ಮಣೋ
+ರಾಷ್ಟ್ರಗೋಪಃ ಪುರೋಹಿತಃ । ತಸ್ಮೈ ವಿಶಃ ಸಂಜಾನತೇ ಸಂಮುಖಾ ಏಕಮನಸೋ
+ಯಸ್ಯೈವಂ ವಿದ್ವಾನ್ಬ್ರಾಹ್ಮಣೋ ರಾಷ್ಟ್ರಗೋಪಃ ಪುರೋಹಿತಃ ॥⟧ (printed ಐ. ಬ್ರಾ. ೪೦-೨೫)
+
+The king who has the support of a purohita endowed with Brahmic radiance and guardian of the realm gains kṣatriya radiance by kṣatriya power and valour by valour. All the people in that kingdom, being of one mind and showing harmony in all affairs, achieve the unity of the nation and become a means of peace for the king.
+
+⟦ತದಪ್ಯೇತದೃಷಿಣೋಕ್ತಂ । ಸ ಇದ್ರಾಜಾ ಪ್ರತಿಜನ್ಯಾನಿ ವಿಶ್ವಾ ಶುಷ್ಮೇಣ ತಸ್ಥಾವಭಿ ವೀರ್ಯೇಣೇತಿ
+ಸಪತ್ನಾ ವೈ ದ್ವಿಷಂತೋ ಭ್ರಾತೃವ್ಯಾ ಜನ್ಯಾನಿ ತಾನೇವ ತಚ್ಚುಷ್ಮೇಣ ವಿರ್ಯೇಣಾಧಿತಿಷ್ಠತಿ ।
+ಬೃಹಸ್ಪತಿಂ ಯಃ ಸುಭೃತಂ ಬಿಭರ್ತಿತಿ ಬೃಹಸ್ಪತಿ ರ್ಹವೈದೇವಾನಾಂ ಪುರೋಹಿತಸ್ತಮನ್ವನ್ಯೇ
+ಮನುಷ್ಯರಾಜ್ಞಾಂ ಪುರೋಹಿತಾ ಬೃಹಸ್ಪತಿಂ ಯಃ ಸುಭೃತಂ ಬಿಭರ್ತಿತಿ ಯದಾಹ
+ಪುರೋಹಿತಂ ಯಃ ಸುಭೃತಂ ಬಿಭರ್ತಿತ್ಯೇವ ತದಾಹ ವಲ್ಗ್ಯಯತಿ ವಂದತೇ ಪೂರ್ವಭಾಜಮಿತ್ಯಪಚಿತಿಮೇವಾಸ್ಮಾ ಏತದಾಹ ॥⟧
+(printed ಇ. ಬ್ರಾ. ೪೦-೨೬)
+
+How? The great sage Vāmadeva has expressed this same view clearly in the Ṛgveda Saṃhitā. In the three mantras beginning स इद्राजा (*sa idrājā*) the close relation between the king and the purohita, and
+
 ---
 
-**Progress note:** Done through printed p. 630 (PDF 630). Sūkta 3 Ṛk 2 Special Topics: Agni as messenger of the gods, purohita; cut mid-sentence
+**Progress note:** Done through printed p. 633 (PDF 633). Sūkta 3 Ṛk 2 Special Topics: the purohita in the Aitareya Brāhmaṇa; cut mid-sentence
