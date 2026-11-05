@@ -28457,4 +28457,128 @@ The Kannada: "In this Ṛk the killing of the asuras Varcin and Śambara is ment
 
 ---
 
-**Progress note:** Done through printed p. 740 (PDF 763). Sūkta 14: Ṛk 6 is complete (Pada, bhāṣya with its grammatical tail, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on Śambara and Varcin); no grammar section is printed for Ṛk 6. Ṛk 7 is open: only the Saṃhitā and Pada are written, and the bhāṣya, Pratipadārtha etc. follow on printed p. 741 (PDF 764). The Ṛk numbers 6 and 7 are read from the print, with the 7 glyph flat-footed. The numeral file had 0 rows for these pages, so nothing was checked against it, and nothing was zoomed. Unzoomed and doubtful: all Ṛg references on pp. 739–740 (the Śambara list of 20 references; 1-130-7; 2-19-6; 4-30-15 with a gap in the print; 6-47-21; 7-99-5 read the same on all three occurrences); the part-page references 5-?24, 5-694, 8-224, 10-550; the Uṇādi reference "4-6". [?] words: "नाम्नैतत्", "भूम्यामुपातयत्" (ya/yu hook), "अवाभरत्" (a/ā), "उपस्थे" in the Pada (the compound mark may be ऽ). Accents not reproduced.
+### Printed p. 741 (PDF 764)
+
+*(Header, read from the strip and not zoomed: "A. [first numeral damaged in the print; read as 2] A. 6 V. 14 ]", "Ṛgvedasaṃhitā", "741". The numeral file had no rows for this page.)*
+
+*(Ṛk 7 continues from the previous page.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, having killed hundreds and thousands of asuras, threw them down one by one on the earth, and destroyed the foes of Kutsa, Āyu and Atithigva; so bring him soma.*
+
+> हे अध्वर्यवो जघन्वान् पूर्वं शत्रून् हतवान् य इंद्रः शतं सहस्रमसुरान् भूम्या उपस्थ उत्संगेऽवपत् । एकैकेन प्रकारेणापातयत् । किंच यः कुत्सस्यैतन्नामकस्य राजर्षेः । आयोः पौरूरवसस्य राजर्षेः । अतिथिग्वस्य दिवोदासस्य । एतेषां त्रयाणां वीरानभिगंत्यान्प्रतिद्वंद्विनः[?] शुष्णादीनसुरान् न्यवृणक् । वृणक्तिर्हिंसाकर्मा । अवधीत् । तथा च मंत्रवर्णः । त्वं कुत्सं शुष्णहत्येष्वाविथारंधयोऽतिथिग्वाय शंबरं । १-५१-६ । इति । तादृशायेंद्राय सोमं भरत ॥
+
+> *he adhvaryavo jaghanvān pūrvaṃ śatrūn hatavān ya iṃdraḥ śataṃ sahasramasurān bhūmyā upastha utsaṃge 'vapat | ekaikena prakāreṇāpātayat | kiṃca yaḥ kutsasyaitannāmakasya rājarṣeḥ | āyoḥ paurūravasasya rājarṣeḥ | atithigvasya divodāsasya | eteṣāṃ trayāṇāṃ vīrānabhigaṃtyānpratidvaṃdvinaḥ[?] śuṣṇādīnasurān nyavṛṇak | vṛṇaktirhiṃsākarmā | avadhīt | tathā ca maṃtravarṇaḥ | tvaṃ kutsaṃ śuṣṇahatyeṣvāvithāraṃdhayo 'tithigvāya śaṃbaraṃ | 1-51-6 | iti | tādṛśāyeṃdrāya somaṃ bharata ‖*
+
+*(The sentence "वृणक्तिर्हिंसाकर्मा । अवधीत्" is the bhāṣya's brief grammatical gloss: the root vṛṇak is a verb of violence, "he slew". The word "अभिगंत्यान्" is printed so, and it may be a misprint for "अभिगंतॄन्" (*abhigaṃtṝn*); doubtful, unzoomed. The Ṛg reference "1-51-6" is read from the print.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यः (*yaḥ*)—which Indra. शतं सहस्रं (*śataṃ sahasraṃ*)—asuras numbering thousands (an unlimited number). जघन्वान् (*jaghanvān*)—having killed. भूम्याः (*bhūmyāḥ*)—of the earth. उपस्थे (*upasthe*)—on the lap. अवपत् (*avapat*)—did he throw them down one by one. कुत्सस्य (*kutsasya*)—to the ṛṣi Kutsa. आयोः (*āyoḥ*)—to Āyu. अतिथिग्वस्य (*atithigvasya*)—to the ṛṣi called Atithigva. वीरान् (*vīrān*)—those who were enemies and went on harassing, Śuṣṇa and the other asuras, all of them. न्यवृणक् (*nyavṛṇak*)—did he destroy. अस्मै (*asmai*)—to such an Indra. सोमं (*somaṃ*)—soma. भरत (*bharata*)—bring (it) and offer it.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "O Adhvaryus, bring soma juice and offer it to that Indra who killed asuras numbering thousands and threw them down one by one on the lap of the earth, and who destroyed Śuṣṇa and the other asuras, enemies who went on harassing the ṛṣi Kutsa, Āyu and the ṛṣi Atithigva."
+
+**English Translation** *(as printed)*
+
+Priests, presented the Soma libation to him, who, slaying hundreds and thousands (of Asuras). cast them down upon the lap of the earth; who destroyed the assailants of Kutsa, Ayu, and Atithigwa.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**कुत्सस्य आयोः अतिथिग्वस्य (*kutsasya āyoḥ atithigvasya*)**—The Kannada: "To help these three persons, it is said that Indra felled and laid low many heroes who were their enemies. Their matter is—"
+
+> त्वमस्मै[?] कुत्समतिथिग्वमायुं महे राज्ञे यूने अरंधनायः ।
+
+> *tvamasmai[?] kutsamatithigvamāyuṃ mahe rājñe yūne araṃdhanāyaḥ |*
+
+(Ṛ. Saṃ. 1-53-10 [?])
+
+*(In the print the first word is "ತ್ವಮುಸ್ಮೈ", which looks like a misprint for "ತ್ವಮಸ್ಮೈ"; I have given the latter with [?]. The reference numerals, read "1-53-10", are unzoomed and doubtful.)*
+
+### Printed p. 742 (PDF 765)
+
+*(Header, read from the strip and not zoomed: "742", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14." The numeral file had no rows for this page.)*
+
+> त्वं कुत्सं शुष्णहत्येष्वाविथारंधयोऽतिथिग्वाय शंबरं ।
+
+> *tvaṃ kutsaṃ śuṣṇahatyeṣvāvithāraṃdhayo 'tithigvāya śaṃbaraṃ |*
+
+(Ṛ. Saṃ. 1-51-6)
+
+The Kannada: "This is stated in Ṛks such as these. The matter of Kutsa and Āyu is also treated in Ṛ. Saṃ. part 13, p. 235 [?]; the matter of Kutsa in Ṛ. Saṃ. 5-628 [?], 8-748 [?], 821 [?]; and (in the 13th part) on pages 235 [?] and 380 [?]; and the matter of Atithigva is stated in Ṛ. Saṃ. 5-174 [?]." *(The sentence is printed in this loose way; all these numerals are unzoomed and doubtful, and the exact assignment of each to a name is uncertain.)*
+
+*(A short rule is printed here, closing the Viśeṣaviṣayagaḷu of Ṛk 7. No grammar section is printed for Ṛk 7.)*
+
+---
+
+#### Ṛk 8
+
+*(The heading "संहितापाठः" is printed in small type before the Ṛk. The Ṛk number is printed "8" at the end of the Saṃhitā and again after the Pada, which agrees with the sequence. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यन्न॑रः का॒मया॑ध्वे श्रु॒ष्टी वहं॑तो नशथा॒ तदिंद्रे॑ ।
+> गभ॑स्तिपूतं भरत श्रु॒तायेंद्रा॑य॒ सोमं॑ यज्यवो जुहोत ॥ ८ ॥
+
+> *adhvaryavo yannaraḥ kāmayādhve śruṣṭī vahaṃto naśathā tadiṃdre |*
+> *gabhastipūtaṃ bharata śrutāyeṃdrāya somaṃ yajyavo juhota ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the words "नशथ" and "भरत" are printed with spaced letters because of accent marks; the word "गभस्तिपूतं" has a small mark between "गभस्ति" and "पूतं" that may be the compound sign. It is left as one word [?].)*
+
+> अध्वर्यवः । यत् । नरः । कामयाध्वे । श्रुष्टी । वहंतः । नशथ । तत् । इंद्रे ।
+> गभस्तिपूतं[?] । भरत । श्रुताय । इंद्राय । सोमं । यज्यवः । जुहोत ॥ ८ ॥
+
+> *adhvaryavaḥ | yat | naraḥ | kāmayādhve | śruṣṭī | vahaṃtaḥ | naśatha | tat | iṃdre |*
+> *gabhastipūtaṃ[?] | bharata | śrutāya | iṃdrāya | somaṃ | yajyavaḥ | juhota ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Adhvaryus, by quickly carrying soma to Indra you will win the fruit you wish for; bring the hand-purified soma to the famed Indra and offer it in the fire.*
+
+> नरः कर्मणां नेतारो हे अध्वर्यवः यदभिलषितमर्थं कामयाध्वे ॥ कामयतेर्लेट्यडागमः ॥ श्रुष्टी क्षिप्रमिंद्रे सोमं वहंतः प्रापयंतो यूयं तदभिलषितं फलं नशथ । प्राप्नुत । श्रुताय लोके प्रसिद्धायेंद्राय गभस्तिपूतं हस्ताभ्यां मंजनदोहनादिभिः[?] शोधितं सोमं भरत । उत्तरवेदिं प्रतिहरत । ततो यज्यवो यागं कुर्वाणा हे अध्वर्यव आहृतं सोममिंद्राय जुहोत । जुहुत । अग्नौ प्रक्षिपत ॥
+
+> *naraḥ karmaṇāṃ netāro he adhvaryavaḥ yadabhilaṣitamarthaṃ kāmayādhve ‖ kāmayaterleṭyaḍāgamaḥ ‖ śruṣṭī kṣipramiṃdre somaṃ vahaṃtaḥ prāpayaṃto yūyaṃ tadabhilaṣitaṃ phalaṃ naśatha | prāpnuta | śrutāya loke prasiddhāyeṃdrāya gabhastipūtaṃ hastābhyāṃ maṃjanadohanādibhiḥ[?] śodhitaṃ somaṃ bharata | uttaravediṃ pratiharata | tato yajyavo yāgaṃ kurvāṇā he adhvaryava āhṛtaṃ somamiṃdrāya juhota | juhuta | agnau prakṣipata ‖*
+
+*(The grammatical tail "कामयतेर्लेट्यडागमः" (the root kāmaya, subjunctive, with the augment aṭ) is transcribed, not explained. The word "मंजनदोहनादिभिः" is printed so in the bhāṣya, while the Kannada gives mārjana; doubtful.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नरः (*naraḥ*)—leaders of the rite. अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यत् (*yat*)—which desired objects. कामयाध्वे (*kāmayādhve*)—you wish to have fulfilled. तत् (*tat*)—all that. इंद्रे (*iṃdre*)—for Indra. श्रुष्टी (*śruṣṭī*)—quickly. वहंतः (*vahaṃtaḥ*)—by carrying and bringing the soma juice. नशथ (*naśatha*)—obtain.
+
+### Printed p. 743 (PDF 766)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 14. ]", "Ṛgvedasaṃhitā", "743". The numeral file had no rows for this page.)*
+
+श्रुताय (*śrutāya*)—to Indra, famous in all the world. इंद्राय (*iṃdrāya*)—to Indra. गभस्तिपूतं (*gabhastipūtaṃ*)—purified with both hands, by rubbing (mārjana), milking etc. सोमं (*somaṃ*)—soma. भरते (*bharate*) *[sic: the headword is printed with the ending -te]*—bring it. यज्यवः (*yajyavaḥ*)—O Adhvaryus, performers of the sacrifice. जुहोते (*juhote*) *[sic: printed with the ending -te]*—offer (that juice) in the fire.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "O Adhvaryus, leaders of the rite, whatever wishes of yours you desire to be fulfilled, obtain all of it by quickly offering soma juice to Indra. O Adhvaryus, performers of the sacrifice, bring soma purified by both hands with rubbing, milking etc. to Indra, famous in all the world, and offer it."
+
+**English Translation** *(as printed)*
+
+Priests, leaders (of the ceremony), may you, quickly bringing the offering to Indra, receive that (recompense) which you may desire: solemnizing the sacrifice, offer the Soma libation, purified by expressing, to the renowned Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**नरः (*naraḥ*)—कर्मणां नेतारः (*karmaṇāṃ netāraḥ*)**—The Kannada: "Because they take the leading part in rites such as the sacrifice and carry out those rites successfully, the word नरः (*naraḥ*) is used here as an adjective of the word अध्वर्यवः (*adhvaryavaḥ*)."
+
+**श्रुष्टी (*śruṣṭī*)—श्रुष्टीति क्षिप्रनाम—आशु अश्वीति (*śruṣṭīti kṣipranāma—āśu aśvīti*)[?]** (Ni. 6-13 [?])—The Kannada: "Because it conveys the sense 'pervade with alertness', श्रुष्टी (*śruṣṭī*) means 'quickly'." *(The reading "अश्वीति" and the Nirukta reference are unzoomed and doubtful.)*
+
+**श्रुष्टी वहंतः नशथ तत् इंद्रे (*śruṣṭī vahaṃtaḥ naśatha tat iṃdre*)**—The Kannada: "Here the final letter of the word नशथ (*naśatha*) is long in the Saṃhitā-pāṭha for the convenience of the metre. 'In Indra' means: you (Adhvaryus) who carry soma juice for Indra and offer it, may obtain the reward befitting that rite; this is the main intention."
+
+**गभस्तिपूतं भरत श्रुताय इंद्राय सोमं (*gabhastipūtaṃ bharata śrutāya iṃdrāya somaṃ*)**—
+
+> लोके प्रसिद्धायेंद्राय गभस्तिपूतं हस्ताभ्यां मंजनदोहनादिभिः[?] शोधितं सोमं भरत । उत्तरवेदिं प्रतिहरत ।
+
+> *loke prasiddhāyeṃdrāya gabhastipūtaṃ hastābhyāṃ maṃjanadohanādibhiḥ[?] śodhitaṃ somaṃ bharata | uttaravediṃ pratiharata |*
+
+The Kannada: "The intention is: take the soma juice, which has been purified with the hands and made ready for drinking, to Indra, famed for his many bold deeds, and bring it near the uttaravedi. The word गभस्ति (*gabhasti*) is read among the names of rays (Ni. 2-15 [?]) and among the names of the arm (Ni. 3-8 [?]). Here the sense 'arm' (the hands) must be accepted." *(The Nirukta references are unzoomed and doubtful.)*
+
+---
+
+**Progress note:** Done through printed p. 743 (PDF 766). Sūkta 14: Ṛk 7 is complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on Kutsa, Āyu and Atithigva); no grammar section is printed for Ṛk 7. Ṛk 8 is written to the end of the Viśeṣaviṣayagaḷu on gabhasti, which fills the bottom of p. 743. It may continue on p. 744 (a further Viśeṣa item or grammar note); check the next page before opening Ṛk 9. The numeral file had 0 rows for these pages, so nothing was checked against it, and nothing was zoomed (image-only reading). Unzoomed and doubtful: the p. 741 header (first numeral damaged, read 2); the references 1-51-6 and 1-53-10; the part-page references on p. 742 (13-235, 5-628, 8-748, 821, 380, 5-174, all [?]); the Nirukta references (6-13, 2-15, 3-8). [?] words: "अभिगंत्यान्प्रतिद्वंद्विनः", "त्वमस्मै" (printed "ತ್ವಮುಸ್ಮೈ"), "मंजनदोहनादिभिः", "अश्वीति", the Pada "गभस्तिपूतं" (compound mark). The Pratipadārtha headwords "भरते" and "जुहोते" are printed so, marked [sic]. Accents not reproduced.
