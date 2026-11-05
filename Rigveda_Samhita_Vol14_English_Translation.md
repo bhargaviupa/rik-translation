@@ -26281,4 +26281,104 @@ Since this Soma juice pervades the sacrificer (is spread in the sacrificer) — 
 
 ---
 
-**Progress note:** Done through printed p. 686 (PDF 709). Sūkta 13 (Gṛtsamada, Indra; Ṛks 1–12 jagatī, 13 triṣṭubh): the heading block on p. 684 and Ṛk 1 are complete (Saṃhitā, Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu); Ṛk 2 begins on p. 687. No Ṛk open. No grammar pages. FILE DISAGREE: none (file rows 1–12 / 13, 9-75-5 and Nirukta 2-5 agree with the strips; the file's OCR "ಯ. ಸಂ." for "ಋ. ಸಂ." was not followed). Unzoomed numerals: headers of pp. 684–686 and the heading block (Maṇḍala 2, Anuvāka 2, Aṣṭaka 2, Adhyāya 6, Varga 10–12). [?] places: "पिप्युषी" (printed hook read as u), "मक्षू/मक्षु", "लद्यजोश्चेति" in the bhāṣya tail, and the Nirukta line "अंशुः शमष्णमात्रो भवति । अननायु शं भवतीति वा".
+### Printed p. 687 (PDF 710)
+
+*(Header: "A. 2 A. 6 V. 10 ]" [unzoomed], "Ṛgvedasaṃhitā", "687". The numeral file has no row for this page. Accents and underlines are not reproduced. The captions "Saṃhitāpāṭha" and "Padapāṭha" are printed.)*
+
+#### Ṛk 2
+
+*(Reading notes: the Saṃhitā has "भरन्त" but the Pada, as read, has "भरन्ते" [?]. The Pada form "अनुष्यदे", with its odd printed subscript, is read as in the Pratipadārtha. The Saṃhitā "प्रवतामनुष्यदे" is read from a closely set line [?].)*
+
+**॥ संहितापाठः ॥**
+
+> स॒ध्रीमा य॑न्ति॒ परि॒ बिभ्र॑तीः॒ पयो॑ वि॒श्वप्स्न्या॑य॒ प्र भ॑रन्त॒ भोज॑नं ।
+> स॒मा॒नो अध्वा॑ प्र॒वता॑मनु॒ष्यदे॒ यस्ताकृ॑णोः प्रथ॒मं सास्यु॒क्थ्यः॑ ॥ २ ॥
+
+> *sadhrīmā yanti pari bibhratīḥ payo viśvapsnyāya pra bharanta bhojanaṃ |*
+> *samāno adhvā pravatāmanuṣyade yastākṛṇoḥ prathamaṃ sāsyukthyaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> सध्री । ईं । आ । यन्ति । परि । बिभ्रतीः । पयः । विश्वप्स्न्याय । प्र । भरन्ते [?] । भोजनं ।
+> समानः । अध्वा । प्रवतां । अनुष्यदे । यः । ता । अकृणोः । प्रथमं । सः । असि । उक्थ्यः ॥ २ ॥
+
+> *sadhrī | īṃ | ā | yanti | pari | bibhratīḥ | payaḥ | viśvapsnyāya | pra | bharante [?] | bhojanaṃ |*
+> *samānaḥ | adhvā | pravatāṃ | anuṣyade | yaḥ | tā | akṛṇoḥ | prathamaṃ | saḥ | asi | ukthyaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: The rivers, flowing together and bearing water on all sides, fill the ocean, the resort of all waters, with food; their one common downward path was made by Indra, who is therefore praised.*
+
+*(Reading notes: "अञ्चतेर्ळुक्" is read with the printed ळ. "अनुष्यन्दनीयः" is read from the printed "असुष्यन्दनीयः"; the first letter is doubtful [?]. "तवैकेन्केन्यत्वनः" is as printed. No sūtra numbers are printed. The grammatical tail is characterised only: it explains सध्री as an Vedic form with the loss of the final nasal-syllable [ळुक्] of the root अञ्च्, with the substitution सध्र्यादेश for सह, and the कृत्यार्थे affix [केन्] in अनुष्यदे.)*
+
+> सध्री । अञ्चतेर्ळुक् छान्दसः । सहस्य सध्रिरिति सध्र्यादेशोऽन्तोदात्तत्वेन निपातितः । सध्रीचीनाः पय उदकं परि परितो बिभ्रतीर्बिभ्राणा ईमेता नद्य आयन्ति । सर्वतो गच्छन्ति । ता नद्यो विश्वप्स्न्याय विश्वासामपामाश्रयभूताय समुद्राय भोजनं ॥ भुज्यत इति भोजनं पयः ॥ प्रभरन्त । प्रकर्षेण संपादयन्ति । कुत एतत् तदाह । प्रवतां प्रवणवतां निम्नगानां पयसामनुष्यदे ॥ कृत्यार्थे तवैकेन्केन्यत्वन इति केन्प्रत्ययः ॥ अनुष्यन्दनीयो [?] ऽध्वा मार्गः समान एको हि । यस्ता तानि सोमोत्पादननदीप्रवर्तनादीनि कर्माणि प्रथमं पूर्वमकृणोः । अकरोः । स ताद्दृङ्महिनोपेतस्त्वमुक्थ्योऽसि । सर्वैः प्रशस्यो भवसि ॥
+
+> *sadhrī | añcaterḷuk chāndasaḥ | sahasya sadhririti sadhryādeśo 'ntodāttatvena nipātitaḥ | sadhrīcīnāḥ paya udakaṃ pari parito bibhratīrbibhrāṇā īmetā nadya āyanti | sarvato gacchanti | tā nadyo viśvapsnyāya viśvāsāmapāmāśrayabhūtāya samudrāya bhojanaṃ ‖ bhujyata iti bhojanaṃ payaḥ ‖ prabharanta | prakarṣeṇa saṃpādayanti | kuta etat tadāha | pravatāṃ pravaṇavatāṃ nimnagānāṃ payasāmanuṣyade ‖ kṛtyārthe tavaikenkenyatvana iti kenpratyayaḥ ‖ anuṣyandanīyo [?] 'dhvā mārgaḥ samāna eko hi | yastā tāni somotpādananadīpravartanādīni karmāṇi prathamaṃ pūrvamakṛṇoḥ | akaroḥ | sa tāddṛṅmahinopetastvamukthyo 'si | sarvaiḥ praśasyo bhavasi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सध्री (सध्री (*sadhrī*))—flowing together, joined (the rivers); पयः (पयः (*payaḥ*))—water; परि (परि (*pari*))—all around; बिभ्रतीः (बिभ्रतीः (*bibhratīḥ*))—bearing; ईं (ईं (*īṃ*))—these rivers; आ यन्ति (आ यन्ति (*ā yanti*))—spread out and flow (and); विश्वप्स्न्याय (विश्वप्स्न्याय (*viśvapsnyāya*))—to the ocean, the support of all waters; भोजनं (भोजनं (*bhojanaṃ*))—water; प्र भरन्त (प्र भरन्त (*pra bharanta*))—fill fully; प्रवतां (प्रवतां (*pravatāṃ*))—for the waters that flow to low-lying regions; अनुष्यदे (अनुष्यदे (*anuṣyade*))—meant for flowing; अध्वा (अध्वा (*adhvā*))—the path; समानः (समानः (*samānaḥ*))—has one form; यः (यः (*yaḥ*))—who; ता (ता (*tā*))—such, (continued on p. 688)
+
+---
+
+### Printed p. 688 (PDF 711)
+
+*(Header: "688", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [last numerals unzoomed]. The numeral file has no row for this page.)*
+
+—such works favourable to the flow; प्रथमं (प्रथमं (*prathamaṃ*))—first; अकृणोः (अकृणोः (*akṛṇoḥ*))—did; सः (सः (*saḥ*))—such an Indra, you; उक्थ्यः असि (उक्थ्यः असि (*ukthyaḥ asi*))—are worthy of praise (by all).
+
+**भावार्थ (Bhāvārtha)**
+
+The rivers, flowing together and holding water fully, spread out and flow. And they fill the ocean, the support of all waters, completely with water. The path meant for the flow of the waters that run to low-lying regions is of one form only. You, such an Indra, who first made such works favourable to the flow, are worthy of praise.
+
+**English Translation** *(as printed)*
+
+The aggregated (streams) come, bearing everywhere the water, and conveying it as sustenance for the asylum of all rivers, (the ocean); the same path is (assigned) to all the descending (currents) to follow; and as he, who has (assigned) them (their course), you, (Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सध्री ईं आ यन्ति परि बिभ्रतीः पयः (*sadhrī īṃ ā yanti pari bibhratīḥ payaḥ*)—The rivers that flow in the rainy season fill their wide beds with the water that falls everywhere on the earth from the rain, and flow on. That is, all the rain-water that falls on the earth comes and joins the rivers. "Round about" in this way means: the waters that come flowing and joining from their left and right sides; "bearing" means: the rivers, filling their beds with them, flow on.
+
+विश्वप्स्न्याय प्र भरन्त भोजनं (*viśvapsnyāya pra bharanta bhojanaṃ*)—ता नद्यो विश्वप्स्न्याय विश्वासामपामाश्रयभूताय समुद्राय भोजनं प्र भरन्त प्रकर्षेण संपादयन्ति (*tā nadyo viśvapsnyāya viśvāsāmapāmāśrayabhūtāya samudrāya bhojanaṃ pra bharanta prakarṣeṇa saṃpādayanti*)—Where do the rivers flowing in this way go? All of these flow in order to supply and fill with water the ocean, the support of all waters.
+
+विश्वप्स्न्याय (*viśvapsnyāya*)—विश्वासामपामाश्रयभूताय समुद्राय (*viśvāsāmapāmāśrayabhūtāya samudrāya*). The meaning is: to the ocean, the support of the whole mass of water. If it is said that the water that falls from the sky as rain and the water that flows in the river is different (since it is sweet), and so this water has not resorted to the ocean—it is not so. The rain-water and the river-water were at one time the water of the ocean itself. How? By the sharp rays of the sun the water of the ocean is dried up and, through the air, drawn up in the form of vapour and changed in the sky into the form of clouds. From those clouds rain
+
+*(The passage continues on p. 689.)*
+
+---
+
+### Printed p. 689 (PDF 712)
+
+*(Header: "A. 2 A. 6 V. 10 ]" [read from the strip], "Ṛgvedasaṃhitā", "689". FILE DISAGREE: the numeral file row for the header gives "2.8.6"; the strip, read without zoom, shows A. 2 A. 6 V. 10, which was kept.)*
+
+(Continuation of the Viśeṣa passage, from p. 688:) arises, and that water falls on the earth, flows, and reaches some river. If that river, flowing in the low-lying region, is a tributary it reaches the big river; or if it is a big river it flows on of itself and at last reaches the ocean. The final resting-place of all rivers is the ocean itself. Therefore the ocean is said to be the support of all the mass of water that is on the earth or in the sky (in the form of clouds).
+
+भोजनं (*bhojanaṃ*)—भुज्यत इति भोजनं पयः (*bhujyata iti bhojanaṃ payaḥ*). A thing that is eaten, a substance in the form of food, is called *bhojana*. Here the thing needed by the ocean is water. As the stomach is filled by food for animals or human beings, so the ocean is filled by water. "Water is food for the ocean" means: the waters that the rivers bring and fill are in the form of food for the ocean—that is, waters brought and filled for the sake of filling it. The sentence विश्वप्स्न्याय प्र भरन्त भोजनं (*viśvapsnyāya pra bharanta bhojanaṃ*) used here by the ṛṣi, with words full of meaning and with a simile full of feeling, shows the ṛṣi's excellent skill in composition and his mastery of poetry.
+
+समानः अध्वा प्रवतां अनुष्यदे यः ता अकृणोः प्रथमं सः असि उक्थ्यः (*samānaḥ adhvā pravatāṃ anuṣyade yaḥ tā akṛṇoḥ prathamaṃ saḥ asi ukthyaḥ*)—The path of the flowing water, or of the rivers, is the same; that is, since all the rivers flow only in low-lying regions—in regions that are lower—such a low path is the path by which the rivers go and reach the ocean. Who first made such a path (constructed it)—you, such an Indra, are worthy of praise: this is the main intention. The ṛṣi describes that Indra himself made the path by which the water of the rain, caused to fall from the clouds on the earth, flows as rivers and goes to the ocean, and that this unfathomable deed of Indra is praiseworthy.
+
+---
+
+#### Ṛk 3
+
+*(Reading note: the number of the Ṛk is not printed on this page; the Saṃhitā ends "॥" at the right margin, and the Pada breaks off at the end of the page. "तत्ऽअपाः" is read with the printed compound mark. At the foot of the page: "[44]" and "Vol. 14." [printer's marks].)*
+
+**॥ संहितापाठः ॥**
+
+> अन्वेको॑ वदति॒ यद्ददा॑ति॒ तद्रू॒पा मि॒नन्तद॑पा॒ एक॑ ईयते ।
+> विश्वा॒ एक॑स्य वि॒नुद॑स्तितिक्षते॒ यस्ताकृ॑णोः प्रथ॒मं सास्यु॒क्थ्यः॑ ॥
+
+> *anveko vadati yaddadāti tadrūpā minantadapā eka īyate |*
+> *viśvā ekasya vinudastitikṣate yastākṛṇoḥ prathamaṃ sāsyukthyaḥ ‖*
+
+**॥ पदपाठः ॥**
+
+> अनु । एकः । वदति । यत् । ददाति । तत् । रूपा । मिनन् । तत्ऽअपाः । एकः । ईयते ।
+
+> *anu | ekaḥ | vadati | yat | dadāti | tat | rūpā | minan | tat 'apāḥ | ekaḥ | īyate |*
+
+*(The Pada continues on p. 690.)*
+
+---
+
+**Progress note:** Done through printed p. 689 (PDF 712). Sūkta 13, Ṛk 2 complete (pp. 687–689, Viśeṣaviṣayagaḷu ends on p. 689). Ṛk 3 is OPEN: Saṃhitā and the first half of the Pada (to "ईयते") are written; the second Pada line, the bhāṣya and the rest continue on p. 690. No grammar pages. FILE DISAGREE: header of p. 689 (file "2.8.6", strip A. 2 A. 6 V. 10 kept). Unzoomed numerals: headers of pp. 687–689; the "[44]" signature. [?] places: Pada "भरन्ते" (Saṃhitā has "भरन्त"); "अनुष्यन्दनीयः" (printed first letter as "असु"); Saṃhitā "प्रवतामनुष्यदे"; the Ṛk 3 number was not printed on this page.
