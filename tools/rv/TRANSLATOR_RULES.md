@@ -1,44 +1,34 @@
-# Translator rules for one 3-page window (Vol 15 onwards, Claude Code, Sonnet)
+# Translator rules for one 3-page window (Vol 15 onwards, Claude Code, Sonnet) — text-based
 
-You are given a window directory `volN/work/wPPPP/` (made by `python3 tools/rv/batch.py prep N`): `strips/` (page images, full width, top to bottom), `numerals.txt` (rows of the user's numeral file for these pages), `pages.json`, `PROMPT.txt`. You write **two files** there: `kn.md` and `en.md`. Scripts do everything else (Devanagari, IAST, accents, labels, checks, appending).
+**Base text (user decision, Nov 5 2026):** the machine-read HTML/markdown the user supplies, not the scan. Tests on Vol 5 (54 pages, 79,787 characters) showed it matches an independent reading of the scan on 98.85 % of characters and the user found its numerals correct; its known weak points are `||` (double danda) and the avagraha (`s`), both repaired by script, and occasional single-letter OCR slips. **You do not look at page images.** The scan (if present) is used only for a spot check when the user asks.
 
-Read first (once): `CLAUDE.md` conventions, the last ~80 lines of the English output file (format), `tools/rv/TRANSLATOR_RULES.md` (this file). Do not re-read other volumes.
+You are given a window directory `volN/work/wPPPP/` made by `python3 tools/rv/batch.py prep N`: `kn.md` (the Kannada text of the 3 printed pages, made by script from the supplied text), `numerals.txt` (rows of the user's numeral file), `pages.json`, `PROMPT.txt`. You write **`en.md`**; scripts do everything else (Devanagari, IAST, accents, labels, checks, appending).
 
-## Order of work (target <= 14 tool calls per window)
-1. **One message: view every strip of all 3 pages** (parallel Read calls). Never view a strip, think, then view the next.
-2. **Write `kn.md`** (one Bash heredoc): the whole printed page in Kannada script, exactly as printed (rules below).
-3. **Write `en.md`** (one heredoc): the English-file chunk (rules below).
-4. `python3 tools/rv/batch.py build N WIN` then `python3 tools/rv/batch.py check N WIN`.
-5. **Resolve every `[?]` and every numeral problem the check lists** (see "Zero doubts" below), re-run build + check. Repeat until PASS.
-6. `python3 tools/rv/batch.py commit N WIN --note "short note"` (appends to both volume files, commits, pushes). Never edit the volume files by hand; never `git checkout`/restore them.
+Read first (once): `CLAUDE.md` conventions, the last ~80 lines of the English output file (format), this file. Do not re-read other volumes.
 
-## kn.md — the Kannada transcription (Kannada script only)
-- Start each page with `<!-- PDF M · printed N -->` (values from pages.json), then the running head in italics `*[ಮಂ. ೧ ಅ. ೨೪ ಸೂ. ೧೮೫]*`.
-- Content in printed order: section labels in italics as printed (*ಸಾಯಣಭಾಷ್ಯಂ*, *ಪ್ರತಿಪದಾರ್ಥ*, *ಭಾವಾರ್ಥ*, *ವಿಶೇಷವಿಷಯಗಳು*, *ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ*), bold headwords `**...**`, Kannada prose as paragraphs.
-- **Every block of Sanskrit** (Saṃhitā, Pada, Sāyaṇa-bhāṣya, Sanskrit quotations) as `> ` lines, one per printed line, **in Kannada script as printed** (keep printed hyphenation at line ends, danda marks, the avagraha as ಽ). Consecutive `> ` lines are one block; the blocks are numbered b1, b2, … in order of appearance across the whole window.
-- Inline Sanskrit words inside prose may be marked `⟦ಅಗ್ನಿಂ⟧`; the marks are removed in the Kannada file.
-- Letter by letter. **Never complete, correct or normalise a word or number from memory**, however familiar the verse. Plain *ma*/*ya* are printed with a hook like the vowel sign u (ಮುರುತಃ = marutaḥ): do not read it as u. The small subscript stroke in Pada lines is the compound mark (ಽ in Devanagari; write what is printed).
-- No Devanagari, no IAST, no English in kn.md (the printed English translation of a Ṛk goes only into en.md).
+## Order of work (target <= 8 tool calls per window)
+1. **Read `kn.md` and `numerals.txt`** (one parallel message).
+2. **Check `kn.md` against its own structure** (see "Checking kn.md"); fix with `batch.py fix N WIN kn "OLD" "NEW"` (exact, unique). Do not retype the file.
+3. **Write `en.md`** (one heredoc): the English-file chunk.
+4. `python3 tools/rv/batch.py build N WIN` then `python3 tools/rv/batch.py check N WIN`. Fix what the check lists, re-run until PASS.
+5. `python3 tools/rv/batch.py commit N WIN --note "short note"` (appends to both volume files, commits, pushes). Never edit the volume files by hand; never `git checkout`/restore them.
+
+## Checking kn.md (the text is the supplied text; letters and numbers are NOT changed by the script)
+- The script wrote the page markers `<!-- printed N -->`, the running head, the section labels (standard form) and turned the Saṃhitā, Pada and Sāyaṇa-bhāṣya lines into `> ` blocks. Check: (a) the first lines of the window: if the window starts inside a section, the lines may have come out as prose (or as the wrong section): add or remove the leading `> ` accordingly; (b) a block that is really a Ṛk's Saṃhitā or Pada must not be mixed with prose; (c) a Sanskrit quotation inside the Special Topics stays prose in kn.md (mark it in en.md with `⟦ ⟧`).
+- **Never "correct" a letter or number from memory.** If a word or digit looks impossible (a Latin letter inside Kannada, a wrong sūtra number against the numeral file), report it: the user decides. If a place cannot be settled, write `[?]` after it in kn.md and in en.md and pass `--max-doubts N` to `commit`; the place goes to the doubts log for the user.
+- Known weak points of the supplied text: single-letter OCR slips such as `ಕ`/`ಣ`, `ಐ`/`ಯ್ಯ`, `ಸ`/`ಪ`, label spellings like `ಪಾರಃ` for `ಪಾಠಃ` (the script repairs the labels), a duplicated garbled line. If two readings of a verse line differ between the Saṃhitā and the Pada or the bhāṣya quotation of the same words, note it.
 
 ## en.md — the English-file chunk
-- Format exactly as the end of the English output file: page headings `### Printed p. N  (PDF M)` (one per page, as many as in pages.json), sūkta heading blocks, `#### Ṛk N`, label lines, `**Progress note**` is NOT written by you.
-- Write labels in English (`**Saṃhitā-pāṭha**`, `**Pada-pāṭha**`, `**Sāyaṇa-bhāṣya**`, `**Pratipadārtha**`, `**Bhāvārtha**`, `**Special Topics**`, `**Viśeṣaviṣayagaḷu**` variants are normalised by script).
-- **Sanskrit blocks: write `[[bN]]` alone on a line** (N = block number in kn.md) where the block belongs, under its label. Every block must be placed exactly once (the build fails otherwise). **Never type Devanagari or IAST.** Inline Sanskrit in English prose: write the Kannada-script word inside `⟦ ⟧`, copied from kn.md.
-- Bhāṣya: no English rendering, only a gist (<= 25 words) per Ṛk when the sense is not obvious from the Pratipadārtha. Grammar pages (Vyākaraṇa-prakriyā): a 2–4 line note naming words and legible sūtras.
-- Pratipadārtha, Bhāvārtha, Special Topics: translate the Kannada prose faithfully. The printed English translation of each Ṛk (Latin type): reproduce as printed, misprints marked [sic].
+- Format exactly as the end of the English output file: page headings `### Printed p. N` (one per page of the window), sūkta heading blocks, `#### Ṛk N`, label lines. **Do not write the Progress note.**
+- Write labels in English (`**Saṃhitā-pāṭha**`, `**Pada-pāṭha**`, `**Sāyaṇa-bhāṣya**`, `**Pratipadārtha**`, `**Bhāvārtha**`, `**Special Topics**`); the labels are normalised by script.
+- **Sanskrit blocks: write `[[bN]]` alone on a line** (N = number of the `> ` block in kn.md, counted from 1 across the whole window, in order of appearance) where the block belongs, under its label. Every block must be placed exactly once (the build fails otherwise). **Never type Devanagari or IAST.** Inline Sanskrit in English prose: write the Kannada-script word inside `⟦ ⟧`, copied from kn.md.
+- Bhāṣya: no English rendering, only a gist (<= 25 words) per Ṛk when the sense is not obvious from the Pratipadārtha. Grammar pages: a 2–4 line note naming words and legible sūtras. Pratipadārtha, Bhāvārtha, Special Topics: translate the Kannada prose faithfully. The printed English translation of each Ṛk is in the supplied text (Latin letters): reproduce it as given, misprints marked [sic].
 - Accents: automatic (Saṃhitā only, from `refs/mandala/`). Do nothing.
 
 ## Numerals
-- `numerals.txt` lists the user's file rows (references with separators) per page: file line | Kannada pattern | English digits | noisy context. Use them as the reading of each reference: look at the strip; if the row fits (same place, same shape), **use the file's digits**, in Kannada digits in kn.md and the same value in Latin digits in en.md (`Pā. 6-1-163`). The English file keeps the printed reference; the Kannada file keeps the printed Kannada digits.
-- If the strip clearly differs from the file, zoom once. The zoom decides; if you override the file, add `file said X` in the note you pass to `commit`, and log the place.
-- Plain numbers (no separators: counts, page ranges, Ṛk numbers) are not in the file: read them from the strip; zoom if unsure.
-- Where the print gives no number, write none (never supply one from memory).
-- `check` compares the file with kn.md: NEAR (differs by 1–2 characters), file rows with no counterpart in kn.md, and English references that have no Kannada twin all FAIL. Fix by zooming (not by guessing).
-- Digit shapes (calibrate on the running head in the same crop): 2 round open loop, 3 hooked ಇ/ಖ-like, 7 flat-footed ಒ-like; 4 like ಳ; 5 like ಣ; 6 hook at top-left; 8 like ಲ/ಅ; 9 like ಕ; 1 like ∩; 0 like ○. Frequent confusions: 3/5, 6/7, 2/9, 8/9, 2/3/7.
+- `numerals.txt` lists the user's file rows (references with separators) per page. `check` compares them with kn.md: NEAR (differs by 1–2 characters), file rows with no counterpart in kn.md, and English references with no Kannada twin all FAIL. The user's file and the supplied text are both machine-read: where they disagree, do not guess — put `[?]` and report both values.
+- In en.md write each reference as in kn.md, in Latin digits (`Pā. 6-1-163`). Plain numbers (no separators: counts, page ranges, Ṛk numbers) are not in the file: take them from kn.md.
+- Where the supplied text prints no number, write none (never supply one from memory).
 
-## Zero doubts (the aim: near zero `[?]` before the window is committed)
-1. Write the first draft with `[?]` after every word/digit group you cannot read with confidence (never guess silently; a wrong confident reading is worse than `[?]`).
-2. After `build`, run `python3 tools/rv/batch.py zoomlist N WIN`. For every `[?]` and every NEAR/missing numeral: render a zoom, **all zooms in one parallel round** (several Bash calls to `python3 tools/rv/page.py N PDF /tmp/z_K --strip S --box X0 Y0 X1 Y1`, then one message with all the zoom Reads). The box is in the pixel coordinates of the strip *as displayed* (multiply by the viewer's scale factor if it reports one); make it a generous full line; check it shows the intended word.
-3. Apply fixes with `python3 tools/rv/batch.py fix N WIN kn|en "OLD" "NEW"` (exact, unique). Fix the Kannada first; Devanagari and IAST are regenerated by `build`, so never patch them. Fix the English twin too (same reference, same word).
-4. Re-run build + check. Maximum **2 zoom rounds**. What is still unreadable after that stays `[?]`; commit with `--max-doubts N` (N = the number left) and list each remaining place with your best reading in the commit note.
-5. Do not use OCR. If an image view returns no image, STOP and report; never write that page.
+## Doubts
+There is no zoom step any more. The aim is still zero `[?]` at commit; leftovers (`--max-doubts N`) are listed for the user with the exact words/digits in doubt. No OCR, no outside sources.

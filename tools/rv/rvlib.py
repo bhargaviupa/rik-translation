@@ -3,7 +3,8 @@
 Everything volume-specific lives in volN/volcfg.json (create it with `python3 tools/rv/batch.py new N`):
 {
  "vol": 15, "mandala": 2, "branch": "claude/vol15",
- "scan": {"glob": "vol15/scans/15 *.pdf"},              parts in page order (number before .pdf orders them); or {"files": [...]}
+ "source": ["vol15/html/rig_15_1.html@1-100", "vol15/html/rig_15_2.md@101-200"],   the supplied machine-read text (file@FIRST-LAST printed pages); the base text from Vol 15 on
+ "scan": {"glob": "vol15/scans/15 *.pdf"},               optional now (only for a spot check)              parts in page order (number before .pdf orders them); or {"files": [...]}
  "printed": [[1, 20]],                                   printed page = PDF - k for PDF >= from_pdf (list of [from_pdf, k]; add a pair at every change)
  "skip_pdf": [],                                         PDF pages that duplicate the previous page (no content); never given to a translator
  "numerals": {"glob": "vol15/numerals/*.xlsx", "file_page": [[1, 0]]},   file page = PDF - delta for PDF >= from_pdf
@@ -21,7 +22,7 @@ class Cfg:
         if not os.path.exists(s.path): sys.exit(f'no config {s.path}: run  python3 tools/rv/batch.py new {vol}')
         d=json.load(open(s.path,encoding='utf8')); s.d=d
         s.printed_map=sorted(d.get('printed',[[1,0]])); s.skip=set(d.get('skip_pdf',[])); s.window=d.get('window',3)
-        s.branch=d.get('branch'); s.mandala=d.get('mandala',1)
+        s.branch=d.get('branch'); s.mandala=d.get('mandala',1); s.source=d.get('source',[])
         s.kn=os.path.join(ROOT,d['out']['kn']); s.en=os.path.join(ROOT,d['out']['en']); s.work=os.path.join(ROOT,d.get('work',f'vol{vol}/work'))
         s._parts=None
     def parts(s):
@@ -46,6 +47,16 @@ class Cfg:
         for f,kk in s.d.get('numerals',{}).get('file_page',[[1,0]]):
             if g>=f: k=kk
         return g-k
+    def source_pages(s,heads=None):
+        """{printed page: text} from the supplied HTML/markdown files (None if no source is configured)"""
+        if not s.source: return None
+        import html_pages
+        return html_pages.load_many([os.path.join(ROOT,x) if '@' not in x else os.path.join(ROOT,x.split('@')[0])+'@'+x.split('@')[1] for x in s.source],heads)
+    def printed_to_pdf(s,p):
+        for f,k in sorted(s.printed_map,reverse=True):
+            g=p+k
+            if g>=f and s.printed(g)==p: return g
+        return None
     def numeral_files(s):
         n=s.d.get('numerals',{}); return sorted(glob.glob(os.path.join(ROOT,n['glob']))) if 'glob' in n else []
 def render(cfg,g,dpi):
