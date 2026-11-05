@@ -6455,6 +6455,97 @@ In the animal sacrifice related to Rudra, when the vapā, puroḍāśa and oblat
 
 कल्मलीकिनं—कलयति अपगमयति मलमिति कल्मलीकं तेजः तद्वंतं (*kalmalīkinaṃ—kalayati apagamayati malamiti kalmalīkaṃ tejaḥ tadvaṃtaṃ*). Yāska, कल्मलीकिनं (*kalmalīkinaṃ*) the word, ज्वलतो नामधेयानि (*jvalato nāmadheyāni*) among the names of ज्वलतः (*jvalataḥ*) (blazing)
 
+### Printed p. 211
+
+*Running head: [A. 2 A. 7 V. 17.] Ṛgveda-saṃhitā, p. 211 (as supplied). The window begins inside the Special Topics of Ṛk 8.*
+
+(Ni. 2-28) he has read. Sāyaṇa explains मलं (*malaṃ*) as "that which destroys sin", explains the word कल्मलीक (*kalmalīka*) as radiance, and describes कल्मलीकुं (*kalmalīkuṃ*) as one possessed of radiance.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> स्थि॒रेभि॒रंगैः॑ पुरु॒रूप॑ उ॒ग्रो ब॒भ्रुः शु॒क्रेभिः॑ पिपिशे॒ हिर॑ण्यैः ।
+> ईशा॑नाद॒स्य भुव॑नस्य॒ भूरे॒न्वा उ॑ योषद्रु॒दाद॑सु॒र्यं॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> स्थिरेभिः । अंगैः । पुरुरूपः । उग्रः । बभ्रुः । शुक्रेभिः । पिपिशे । हिरण्यैः ।
+> ईशानात् । अस्य । भुवनस्य । भूरेः । न । वै । ऊं इति । योषत् । रुद्रात् ।
+> असुर्यं ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स्थिरेभिः स्थिरैर्दृढैरंगैरवयवय्यर्युक्तः पुरुरूपोऽष्टमूर्त्यात्मकैर्ब-
+> हुभी रूपैरुपेत उग्र उद्धूर्णस्तेजस्वी बभ्रुर्भर्ता बभ्रुवर्णो वा रुद्रः
+> शुक्रेभिर्दिप्तैर्हिरण्यैहिरण्मय्कॆर्हितरमणीय्कॆर्वालंकारैः पिपिशे ! दीप्यते ॥ पित
+> अवयवे । कर्मणि लिट् ॥ ईशानादीश्वरादस्य भुवनस्य भूतजातस्य भूरेर्भर्तू
+> रुद्रादसुर्यं ॥ असु क्षेपणे । असेरुरन् । आसरः क्षेप्ता । तत्र साधुः ॥ असुर्यं
+> बलं न वा उ योषत् । नैव पृथग्भवति ॥ यौतेर्लॆट्व्यडागमः । सिब्बहुलं
+> लेटीति सिप् ॥
+
+*Gist:* Rudra, with firm limbs and many (eightfold) forms, fierce and brown, shines with bright golden ornaments; from the lord and sustainer of this world strength is never separate. The tail treats *piśe* and *asuryam*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+स्थिरेभिः (*sthirebhiḥ*)—firm; अंगैः (*aṃgaiḥ*)—endowed with limbs; पुरुरूपः (*pururūpaḥ*)—endowed with many forms; उग्रः (*ugraḥ*)—possessed of manifest brilliance; बभ्रुः (*babhruḥ*)—of brown colour: Rudra; शुक्रेभिः (*śukrebhiḥ*)—resplendent; हिरण्यैः (*hiraṇyaiḥ*)—golden; with such ornaments; पिपिशे (*pipiśe*)—he shines; ईशानात् (*īśānāt*)—from the lord; अस्य भुवनस्य (*asya bhuvanasya*)—for this whole world; भूरेः (*bhūreḥ*)—the sustainer; रुद्रात् (*rudrāt*)—from Rudra; असुरं (*asuraṃ*) [sic: the Saṃhitā has असुर्यं (*asuryaṃ*)]—universal power; न वा उ योषत् (*na vā u yoṣat*)—is not separated at all.
+
+### Printed p. 212
+
+*Running head: [212 Sāyaṇabhāṣyasahitā, Maṃ. 2 A. 4 Sū. 33] (as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+
+Rudra, who has firm limbs, is endowed with many forms, has manifest brilliance and is of brown colour, shines with resplendent golden ornaments. From Rudra, the lord, who sustains this whole world, universal power is never separated.
+
+**Printed English translation**
+
+(Firm) with strong limbs, assuming many forms, fierce, and tawny-coloured, he shines with brilliant golden ornaments : vigour is inseparable from Rudra, the supreme ruler and lord of this world.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Rudra is स्थिरेभिरंगैः (*sthirebhiraṃgaiḥ*) (दृढैरवयवैर्युक्तः (*dṛḍhairavayavairyuktaḥ*)): endowed with limbs that are joined with strength and brilliance and are powerful. पुरुरूपः (*pururūpaḥ*) (अष्टमूर्त्यात्मकैः बहुभिः रूपैः उपेतः (*aṣṭamūrtyātmakaiḥ bahubhiḥ rūpaiḥ upetaḥ*)): he shines with the eight forms, namely earth, water, sun, moon, fire, wind, space and the yajamāna who performs the sacrifice; and उग्रः (*ugraḥ*) (उद्गूर्णः तेजस्वी (*udgūrṇaḥ tejasvī*)): he is filled with strength and brilliance; and बभ्रुः (*babhruḥ*) (भर्ता बभ्रुवर्णो वा (*bhartā babhruvarṇo vā*)): he is the overlord of the world, or he is of golden-brown colour. Having so described him, (Sāyaṇa) explains that Rudra शुक्रेभिः हिरण्यैः पिपिशे (*śukrebhiḥ hiraṇyaiḥ pipiśe*) (दीपैः हितरमणीयैः हिरण्मय्यरलंकारैर्वा दीप्यते (*dīpaiḥ hitaramaṇīyaiḥ hiraṇmayyaralaṃkārairvā dīpyate*)): adorns himself with golden ornaments that are very bright, beneficial and charming.
+
+ईश्वरात् रुद्रात् असुर्यं न वा उ योषत् (*īśvarāt rudrāt asuryaṃ na vā u yoṣat*)—अस्य भूतजातस्य भर्तुः (*asya bhūtajātasya bhartuḥ*) ईश्वरात् असुर्यं बलं नैव पृथक् भवति (*īśvarāt asuryaṃ balaṃ naiva pṛthak bhavati*): it is said that no other thing is mightier than this Rudra, the lord of all beings and master of everything.
+
+असुर्यं (*asuryaṃ*)—the suffix उरन् (*uran*) is added to the root असु क्षेपणे (*asu kṣepaṇe*) and the word असुर (*asura*) results; by असुरः क्षेप्ता (*asuraḥ kṣeptā*) the word असुर (*asura*) means "one who throws". By the sūtra तत्र साधुः (*tatra sādhuḥ*) the suffix य (*ya*) is added, giving असुर्य (*asurya*). Sāyaṇa has explained the meaning as "strength".
+
+### Printed p. 213
+
+*Running head: [A. 2 A. 7 V. 17.] Ṛgveda-saṃhitā, p. 213 (as supplied).*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> अर्ह॑न्बिभर्षि॒ साय॑कानि॒ धन्वाह॑न्नि॒ष्कं य॑ज॒तं वि॒श्वरू॑पं ।
+> अर्प॑न्नि॒दं द॑यसे॒ विश्व॒मभ्वं॒ न वा ओजी॑यो रुद्र॒ त्वद॑स्ति ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> अर्हन् । बिभर्षि । सायकानि । धन्व । अर्हन् । निष्कं । यजतं । विश्वरूपं ।
+> अर्हन् । इदं । दयसे । विश्वं । अभ्वं । न । वै । ओजीयः । रुद्र । त्वत् । अस्ति ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे रुद्र त्वमर्हन् अर्हो योग्य एव सन् सायकानि शरान् धन्व धनुश्च
+> बिभर्षि । धारयसि । तथार्हन्नेव यजतं यजनीयं पूजनीयं विश्वरूपं
+> बहुविधरूपयुक्तं निष्कं हारं बभर्षि । तथार्हन्नेवेदं विश्वं सर्वमभ्वं ।
+> महन्नामृतत् । अतिविस्तृतं जगद्दयसे । रक्षिसि । देज् रक्षणे । हे रुद्र त्वत्
+> त्वत्तोऽन्यत् किंचिदोजीय ओजस्वितरं बलवत्तरं न वा अस्ति । न खलु विद्यते ।
+> अतस्त्वमेवोक्तव्यापारेषु योज्य इत्यर्थः ॥ ओजःशब्दान्मत्वर्तियो विनिः । ततः
+> अतिशायनिक इष्टन् । विन्मत्तोर्लुक् । टेरिति टिलोपः ॥
+
+*Gist:* O Rudra, though worthy of worship you bear arrows, bow and a many-formed necklace, and protect this vast universe; nothing is mightier than you. The tail treats *ojīyaḥ*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रुद्र (*rudra*)—O Rudra; अर्हन् (*arhan*)—you who are worthy of worship; सायकानि (*sāyakāni*)—arrows; धन्व (*dhanva*)—and bow; बिभर्षि (*bibharṣi*)—you bear; अर्हन् (*arhan*)—being worthy of worship; यजतं (*yajataṃ*)—worthy of worship; विश्वरूपं (*viśvarūpaṃ*)—of many forms; निष्कं (*niṣkaṃ*)—a necklace (you wear); अर्हन् (*arhan*)—being worthy of praise; इदं विश्वं (*idaṃ viśvaṃ*)—this whole; अभ्वं (*abhvaṃ*)—and great world; दयसे (*dayase*)—you protect; रुद्र (*rudra*)—O Rudra; ओजीयः (*ojīyaḥ*)—one with greater inner strength than you; त्वत् (*tvat*)—other than you, anyone; न वै अस्ति (*na vai asti*)—there is none at all.
+
+**भावार्थ (Bhāvārtha)**
+
+O Rudra, you who are worthy of worship bear arrows and bow. Being worthy of worship, you wear a necklace that is worthy of worship and of many forms. Being worthy of praise, you protect this whole and great world. O Rudra, there is none at all other than you who has greater strength than you.
+
 ---
 
-**Progress note:** Done through printed p. 210 (PDF 210). Sūkta 33 Ṛk 7 Pratipadārtha to Special Topics, Ṛk 8 complete through Pratipadārtha and Special Topics; page 210 ends mid-sentence (Yāska on kalmalīkinam). kn.md: Pratipadārtha/Bhāvārtha un-quoted with labels, stray '14' removed; as supplied: 'ಸುಷ್ಟುತಿ' vs Pada 'ಸುಸ್ತುತಿಂ', 'ಶ್ವಿತೀಚೇ', 'ತೇಷಂ' for tveṣam in Special Topics
+**Progress note:** Done through printed p. 213 (PDF 213). Sūkta 33 Ṛk 8 Special Topics end; Ṛk 9 complete; Ṛk 10 through Bhāvārtha (printed English and Special Topics follow on p. 214). kn.md: Saṃhitā/Pada/bhāṣya blocks split, garbled labels (: ಚರಿತ್ರೆ ., ಜಯಬಾಹು, ಪ್ರತಿವಾರ್ಘ, ೦ ಸಂಹಿತಾಪಾಠ ೦) replaced by standard labels, Pratipadārtha un-quoted, stray ' ೪ ... ೦ ' removed; as supplied: Pratipadārtha ಅಸುರಂ vs ಅಸುರ್ಯಂ, garbled ಹಿರಣ್ಮಯ್ಕೆರ್ in bhāṣya, ತೇಜಶ್ಯಾಲಿಯು/ಅಂತಶ್ಯಕ್ತಿ spellings
