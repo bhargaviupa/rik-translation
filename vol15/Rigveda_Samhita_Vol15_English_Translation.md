@@ -19313,6 +19313,116 @@ The gods made that seed to be surrounded by Agni. Then the Maruts tried to set i
 ಯ ಏವಂ ವೇದ ಸೋ ಗಾಯತ್ರೀ ಬ್ರಹ್ಮ ವೈ ಗಾಯತ್ರೀ ಬ್ರಹ್ಮಣ್ಯೈನಂ ತಂ ನಮಸ್ಯತಿ ॥⟧
 (printed ಐ. ಬ್ರಾ. 13-34)
 
+### Printed p. 615
+
+*[Running head, p. 615: Aṣṭaka 2, Adhyāya 8, Varga 20 (closing bracket missing), Ṛgvedasaṃhitā.]*
+
+Therefore, at the end of the mantra one should pray "nābhi naḥ", that is, "do not come against us (in anger)". On that occasion Rudra does not harm the offspring of the praiser. Then one should pray, "O Rudra, make us endowed with abundance of offspring by your favour." But one should not address him by the name "Rudra"; one should recite in the mantra only "rudriya". And—
+
+शं नः करत्यर्वते सुगं मेषाय मेष्ये । नृभ्यो नारिभ्यो गवे (*śaṃ naḥ karatyarvate sugaṃ meṣāya meṣye | nṛbhyo nāribhyo gave*)
+(Ṛ. Saṃ. 1-43-6)
+
+"O god, make safety for our sheep and other cattle and for our offspring": so one should pray. In this prayer-mantra the name Rudra is mentioned, and yet Rudra himself is addressed. If, knowing this principle, one prays to Rudra, the sacrificer gets a full life and prosperity such as sons and grandsons. The recitation of this mantra, which is endowed with the divine power of the Gāyatrī, becomes the cause of all welfare.
+
+4. The place of the present sūkta, which praises Vaiśvānara Agni, in the Agnimāruta śastra.
+
+⟦ವೈಶ್ವಾನರೀಯೇಣಾಗ್ನಿಮಾರುತಂ ಪ್ರತಿಪದ್ಯತೇ ವೈಶ್ವಾನರೋ ನಾ ಏತದ್ರೇತಃ ಸಿಕ್ತಂ ಪ್ರಾಚ್ಯಾವಯತ್ತಸ್ಮಾದ್ವೈಶ್ವಾನರೀಯೇಣಾಗ್ನಿಮಾರುತಂ ಪ್ರತಿಪದ್ಯತೇ ಅನವಾನಂ ಪ್ರಥಮ ಋಕ್
+ಶಂಸ್ತವ್ಯಾಗ್ನೀನ್ವಾ ಏಷೋSರ್ಚಿ೦ಷ್ಯಶಾಂತಾನ್ಪ್ರಸೀದನ್ನೇತಿ ಯ ಅಗ್ನಿ ಮಾರುತಂ ಶಂಸತಿ
+ಪ್ರಾಣೇನೈವ ತದಗ್ನೀಂಸ್ತರತ್ಯಧೀಯನ್ನು ಪಹನ್ಯಾದನ್ಯಂ ವಿವಕ್ತಾರಮಿಚ್ಛೇತ್ತಮೇವ ತತ್ಸೇತುಂ
+ಕೃತ್ವಾ ತರತಿ ॥⟧
+
+The Maruts displayed their power together with Vaiśvānara Agni; so in this Agnimāruta śastra, which praises the greatness of Vaiśvānara Agni, the present sūkta beginning with the mantra "Vaiśvānarāya pṛthupājase" is recited first. Since the seed of Prajāpati poured on the earth moved only by the power of Vaiśvānara Agni, at the beginning of the Āgnimāruta śastra the sūkta addressed to Vaiśvānara must be recited. While reciting this first mantra one must not draw the breath inward. By reciting in this way even a burning flame can be quenched. But since while reciting this mantra there is a chance of error through altered intonation, another reciter must be placed to assist in pointing out such errors. With his help, like a bridge, one can cross the ocean of error.
+
+⟦ತಸ್ಮಾದಾಗ್ನಿಮಾರುತೇನ ವ್ಯುಚ್ಯಮೇಷ್ಟವ್ಯೋ ವಿವಕ್ತಾ ಮಾರುತಂ ಶಂಸತಿ ಮರುತೋ
+ಹ ನಾ ಏತದ್ರೇತಃ ಸಿಕ್ತಂ ಧೂನ್ವಂತಃ ಪ್ರಾಚ್ಯಾವಯಂಸ್ತಸ್ಮಾನ್ಮಾರುತಂ ತಂಸತಿ⟧
+
+### Printed p. 616
+
+*[Running head, p. 616: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 3. In the supplied text this head was run into the text of p. 615 inside the Sanskrit passage above; the page marker and heading were inserted by hand and p. 616 was added to pages.json.]*
+
+⟦ಯಜ್ಞಾ ಯಜ್ಞಾವೋ ಅಗ್ನಯೇ ದೇವೋ ವೋ ದ್ರವಿಣೋದಾ ಇತಿ ಮಧ್ಯೇ ಯೋನಿಂ
+ಚಾನುರೂಪಂ ಚ ಶಂಸತಿ ತದ್ಯನ್ಮಧ್ಯೇ ಯೋನಿಂ ಚಾನುರೂಪಂ ಚ ಶಂಸತಿ ತಸ್ಮಾನ್ಮಧ್ಯೇ
+ಯೋನಿರ್ಧೃತಾ ಯದು ದ್ವೇ ಸೂಕ್ತೇ ಶಸ್ತಾ ಶಂಸತಿ ಪ್ರತಿಷ್ಠಯೋರೇವ ತದುಪರಿಷ್ಟಾತ್ಪಜನನಂ ದಧಾತಿ ಪ್ರಜಾತ್ಯೈ ಪ್ರಜಾಯತೇ ಪ್ರಜಯಾ ಪಶುಭಿರ್ಯ ಏವಂ ವೇದ ॥⟧
+(printed ಇ. ಬ್ರಾ. 12-35, as supplied)
+
+Therefore, since impure recitation may occur while reciting the Āgnimāruta śastra, another reciter must be placed to help, not trying oneself to correct it. Because the Maruts, together with Agni Vaiśvānara, blew on the seed of Prajāpati and set it in motion, the sūkta that praises the Maruts must also be recited. The mantra addressed to the Maruts, recited between mantras such as "yajñāyajñā vaḥ samanā" यज्ञायज्ञा वः समना (*yajñāyajñā vaḥ samanā*) (Ṛ. Saṃ. 1-168-1) and "devo vo draviṇodāḥ" देवो वो द्रविणोदाः (*devo vo draviṇodāḥ*) (7-16-11), is like an embryo because it lies in the middle of other mantras. That is why the male embryo too lies in the middle of the body. One who knows this principle gains prosperity such as cattle and sons. This is the greatness of Vaiśvānara Agni praised by the Āgnimāruta śastra.
+
+In the present sūkta, indicating the relation of Vaiśvānara, of such greatness, to the principle of the sacrifice, it is shown that creation and everything else is connected with it.
+
+*[The supplied text has here the line: "This image contains no text. It is a decorative symbol consisting of two curved lines connected by four circular shapes at their ends, resembling stylized flowers or bows on either side of a central square with rounded corners and circles inside it.", kept as a note; it is a software description of a printed ornament.]*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> वैश्वानरायेत्येकादशर्चं तृतीयं सूक्तं वैश्वामित्रं । अत्रेयमनुक्रमणिका । वैश्वानराय्कादशेति । पूर्वसूक्ते वैश्वानरीयं तु जागतं त्वित्युक्तत्वादस्यापि सूक्तस्य जगती छंदो वैश्वानरोऽग्निर्देवता ॥ अस्य सूक्तस्याग्निष्टोम
+> अग्निमारुते शस्त्रे विनियोगः । सूत्यते हि । वैश्वानराय पृथुपाजसे शं नः
+> करत्यर्वते । आ. ५-२० । इति ॥
+
+**Anuvāda (Kannada).** This sūkta beginning "Vaiśvānarāya" is the third sūkta in the first anuvāka. It has twelve ṛks (the Anuvāda says twelve, while the bhāṣya says "ekādaśarcam", eleven, and the header says eleven, as supplied). The seer of this sūkta is Viśvāmitra; the Anukramaṇikā says "Vaiśvānarāyaikādaśa" (printed "ವೈಶ್ವಾನರಾಯ್ಕೆಕಾದಶ"). Because the Anukramaṇikā of the previous sūkta says "vaiśvānarīyaṃ tu jāgataṃ tu", like that sūkta this one too has Vaiśvānara Agni as deity and Jagatī as metre. That the sūkta is to be used for the recitation of the Āgnimāruta śastra mantras in the Agniṣṭoma sacrifice is explained by the sūtra of the Āśvalāyana Śrauta Sūtra "Vaiśvānarāya pṛthupājase śaṃ naḥ karatyarvate" (Ā. 5-20).
+
+### Printed p. 617
+
+*[Running head, p. 617: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+**Sūkta 3** — Maṇḍala 3, Anuvāka 1, Sūkta 3; Aṣṭaka 2, Adhyāya 8, Varga 20, 21. Number of ṛks in the sūkta: 11. Seer: Viśvāmitra. Deity: Agni Vaiśvānara. Metre: Jagatī.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> वै॒श्वा॒न॒राय॑ पृथु॒पाज॑से॒ विपो॒ रत्ना॑ विधंत ध॒रुणे॑षु॒ गात॑वे ।
+> अ॒ग्निर्हि दे॒वा अ॒मृतो॑ दुव॒स्यत्यथा॒ धर्मा॑णि स॒नता॒ न दू॑दुषत् ॥
+
+**॥ पदपाठः ॥**
+
+> वैश्वानराय । पृथुपाजसे । विपः । रत्ना । विधंत । धरुणेषु । गातवे ।
+> अग्निः । हि । देवान् । अमृतः । दुवस्यति । अथ । धर्माणि । सनता । न । दूदुषत् ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> विपो मेधाविनः स्तोतारः पृथुपाजसे बहुबलाय बह्वन्नाय वा । पाजः
+> शब्दस्य बलान्ननाम्नोः पाठात् । वैश्वानरायाग्नये धरुणेषु धर्मेषु यज्ञेषु
+> रत्ना रमणीयानि स्तोत्राणि गातवे सन्मार्गलाभाय विधंत । परिचरंति । कुर्वंति ।
+> अमृतो मरणरहितोऽग्निर्देवान् दुवस्यति । हविषां प्रदानेन परिचरति । हिः
+> प्रसिद्धौ । अथ अतः कारणात्कोऽपि सनता सनातनानि धर्माणि यज्ञान् न दूदुषत् ।
+> न दूषयति ॥
+
+*(Gist: wise singers make lovely praises for powerful Vaiśvānara in the sacrifices, to attain the good path; the deathless Agni serves the gods, so let none harm the eternal rites.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vipaḥ: the wise singers. Pṛthupājase: him who has abundant strength. Vaiśvānarāya: for the worship of Agni, who is in the form of Vaiśvānara. Dharuṇeṣu: in the sacrifices. Ratnā: lovely praises. Gātave: for attaining the good path. Vidhanta: they make. Amṛtaḥ: the deathless. Agniḥ: Agni. Devān: the gods. Duvasyati hi:
+
+### Printed p. 618
+
+*[Running head, p. 618: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+serves, does he not. Ataḥ: therefore. Sanatā: eternal. Dharmāṇi: the sacrifices. Na dūduṣat: no one disparages.
+
+**भावार्थ (Bhāvārtha)**
+
+The wise singers make, in the sacrifices, lovely praises for the worship of Agni, who has abundant strength and is in the form of Vaiśvānara, with the intention of attaining the good path (they offer them). The deathless Agni serves the gods. Therefore no one disparages the eternal sacrifices.
+
+**Printed English translation**
+
+Intelligent (worshippers), offer to powerful Vaishwanara precious things at holy rites, that they may go(the way of the good), for the immortal Agni worships the gods ; therefore, let no one violate eternal duties.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the present Ṛk there is praise of Vaiśvānara Agni. That praise indicates the direct relation between Vaiśvānara and the sacrifice. The words dharuṇeṣu and dharmāṇi, synonyms of "sacrifice", tell the special meaning of the principle of sacrifice. Through such a sacrifice, which is of the nature of dharuṇa and dharma, Vaiśvānara Agni serves the gods. Therefore no one disparages this sacrifice; the purport is that it is venerated by the whole world.
+
+In the present context the nature of this sacrifice, which is the means of worshipping the gods, must be examined. In what way it is of the nature of dharuṇa, and what is meant by its being of the nature of dharma, must also be considered.
+
+1. The nature of the principle of sacrifice, which is both dharuṇa and dharma (the supplied text prints "ಆಧ" for "ಆದ").
+
+धरणेषु—धर्मेषु यज्ञेषु । (*dharaṇeṣu—dharmeṣu yajñeṣu |*) The word dharuṇa has been taken to mean dharma, "in sacrifices which are of the nature of dharma". Both these words are derived from the root dhṛ, which gives the meaning "to bear". In the Ṛgveda Saṃhitā too the word dharuṇa is used everywhere in the sense of "bearer". Since these words are here synonyms of "sacrifice", the purport is that sacrifice is a bearer; the question is what the sacrifice bears.
+
+यज्ञेन यज्ञमयजंत देवास्तानि धर्माणि प्रथमान्यासन् (*yajñena yajñamayajaṃta devāstāni dharmāṇi prathamānyāsan*)
+(printed ಮ. ಸಂ. 10-90-16, i.e. Ṛ. Saṃ. 10-90-16)
+
+The gods worshipped the sacrifice with the sacrifice; this act in the form of worship became the chief supports of the forms and changes of the world: so, explaining the mantra in the Ṛgveda Saṃhitā, देवाः (*devāḥ*)
+
 ---
 
-**Progress note:** Done through printed p. 614 (PDF 614). Sūkta 3 Pīṭhike: Āgnimāruta śastra, Prajāpati–Paśupati legend (Aitareya Brāhmaṇa 13-33 to 13-35); duplicated passage kept
+**Progress note:** Done through printed p. 618 (PDF 618). Sūkta 3 Pīṭhike ends; Sāyaṇa intro, Anuvāda, Ṛk 1 complete; Special Topics on dharuṇa/dharma begun; p. 616 head merged, fixed; accent DIFF logged
