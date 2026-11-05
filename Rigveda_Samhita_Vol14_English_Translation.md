@@ -28137,4 +28137,174 @@ The Kannada continues: "is stated in this Ṛk also. Here too, अशुषं �
 
 ---
 
-**Progress note:** Done through printed p. 734 (PDF 757). Sūkta 14: Ṛk 4 is complete (no grammar section printed). Ṛk 5 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written. The Viśeṣaviṣayagaḷu is open: it ends on p. 734 with the cited Ṛk "वि पिप्रोरहिमायस्य…" and its reference (6-20-2 [?]); the Kannada after it has not been seen. The next page begins after that citation. FILE DISAGREE: the bhāṣya reference after "अपां फेनेन नमुचेः…" is read from the strip as 8-14-13 (glyph ಲ); the file said 4.14.13; not zoomed. Header numerals read (Maṃ. 2 A. 2 Sū. 14; A. 2 A. 6 V. 13), not zoomed. Unzoomed numerals on p. 734, all marked [?]: the Ṛ. Saṃ. references for Śuṣṇa and Pipru and the five part-page references (5-293, 6-22, 8-255, 10-550, 13-380); only 1-101-2, 8-1-28, 1-103-8 and 1-104-3 are read without doubt. Other [?] places: "जगद्व्याप्य" in the Ṛk 5 bhāṣya; "वज्रिञ्छ्वसा"; "रुधिऽक्रां" in the Pada; "जुहोते" in the Pratipadārtha (printed form kept). Accents not reproduced.
+---
+
+### Printed p. 735 (PDF 758)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "735". The page continues the Viśeṣaviṣayagaḷu of Ṛk 5 after the citation "वि पिप्रोरहिमायस्य…" on p. 734.)*
+
+The Kannada continues: "…in the Ṛk that begins thus, it is said that Indra destroyed the strong ramparts etc. (forts) of Pipru."
+
+*(Citation by the Kannada author; no English is printed for it. Gloss mine and tentative: "Who [killed] Sṛbinda, the unseeing (?) Pipru, the dāsa Ahīśuva (?)": the compounds are not settled and the gloss is only a rough guide.)*
+
+> यः सृबिंदमनर्शनिं पिप्रुं दासमहीशुवं ।
+
+> *yaḥ sṛbiṃdamanarśaniṃ pipruṃ dāsamahīśuvaṃ |*
+
+(Ṛ. Saṃ. 8-32-2 [?])
+
+*(The Ṛk is copied letter by letter from the print. The last word "दासमहीशुवं" has a small dot printed in it. The reference numerals were not zoomed.)*
+
+The Kannada: "In the Ṛk that begins thus, it is also said that Pipru belonged to the company of the Dāsa people. Some suspect that Pipru is an asura, or a man who belonged to the company of the Dasyu people who were without vrata (religious observance)."
+
+It is uncertain whether he was a demon, according to Roth's view, which is favoured by the use of the word असुर (*asura*) or a human foe, as Ludwing [sic], Oldenberg, Hillebrandt believe. The name may mean resister from the root पृ (*pṛ*).
+
+(Vedic Index of Names and Subjects p. 532)
+
+*(In the printed English the words असुर (*asura*) and पृ (*pṛ*) stand in Kannada script: ಅಸುರ, ಪೃ.)*
+
+The Kannada: "This Pipru is the enemy of Ṛjiśvan, who was under Indra's protection. When this Ṛjiśvan offers soma juice to Indra and fights against Pipru, he receives Indra's help (Ṛ. Saṃ. 5-29-11 [?], 10-99-11 [?]). Indra, together with Ṛjiśvan, or for his sake, defeated Pipru (1-101-1, 2 [?]; 10-138-3 [?], 4-16-13 [?], 6-20-7 [?]). Under Pipru, who is endowed with ahi-like (serpent-like) māyās *(the print reads "āhiyu māyegaḷinda"; the sense is taken as stated and is not certain)*, there are many forts. Indra splits them open (1-51-5 [?], 6-20-7 [?]). Indra killed Pipru the dāsa and some others and sent the waters flowing (8-32-2 [?]). Indra, who was with Ṛjiśvan, destroyed the strong forts of the asura named Pipru, who is a māyin (10-138-3 [?]). Indra handed over to Ṛjiśvan the Pipru who was in the form of a wild beast. He also defeated fifty thousand black people and split open their strongholds (4-16-13 [?]). Joining with Ṛjiśvan, Indra destroyed the very offspring of the black people (1-101-1 [?]; the first digit of the middle number is damaged in the print). Many such descriptions about Pipru are given here and there."
+
+*(The Ṛgveda references in this paragraph were not zoomed; all are marked [?].)*
+
+**नमुचिं (Namuci)**
+
+*Gist: the name is explained as "one who does not give up battle with Indra".*
+
+> नमुचिं—इंद्रेण सह युद्धं न मुंचतीति नमुचिः तं ।
+
+> *namuciṃ—iṃdreṇa saha yuddhaṃ na muṃcatīti namuciḥ taṃ |*
+
+The Kannada: "Because he does not give up fighting with Indra, he is named Namuci. Namuci is an asura. Because he was very strong, it was very hard for Indra to fight him and conquer him. We have written about this asura in Ṛ. Saṃ. part 5-6[?]5 [?], 15-50 [?]. *(The part and page numerals are doubtful; the middle digit of the first reference is unclear.)* But the bhāṣyakāra has indicated that the matter of Indra's killing Namuci is told in the Taittirīya Brāhmaṇa, so we explain it here—"
+
+*(The Taittirīya Brāhmaṇa passage, in Kannada script in the print, is given in Devanagari. Accents are not reproduced. "सोऽस्मादभिशनतरोऽभवत्": as read, not completed from memory. In the last word of this block the print has "नाद्रो", read so and doubtful, [?]; the Kannada vowel sign after the first letter of "ने वा" is ೆ as read. The block breaks at the foot of the page, where the print breaks.)*
+
+> इंद्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । तौ समलभेतां । सोऽस्मादभिशनतरोऽभवत् । सोऽब्रवीत् ।
+> संधाग्ं संदधावहै । अथ त्वावसृक्ष्यामि । न मा शुष्केण नार्द्रेण हनः । न दिवा न नक्तमिति । स एतमपां फेनमसिंचत् । ने वा एष शुष्को नाद्रो[?]
+
+> *iṃdro vṛtragṃ hatvā | asurān parābhāvya | namucimāsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tau samalabhetāṃ | so 'smādabhiśanataro 'bhavat | so 'bravīt |*
+> *saṃdhāgṃ saṃdadhāvahai | atha tvāvasṛkṣyāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | na divā na naktamiti | sa etamapāṃ phenamasiṃcat | ne vā eṣa śuṣko nādro[?]*
+
+*(Continued on the next page.)*
+
+---
+
+### Printed p. 736 (PDF 759)
+
+*(Header, read from the strip and not zoomed: "736", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+*(The Taittirīya Brāhmaṇa passage continues from p. 735. "तैर्वै": the print may read "त्रैर्वै"; marked [?] and logged. The abbreviation is printed "ತ್ರೈ. ಬ್ರಾ", i.e. "Trai. Brā." for Taittirīya Brāhmaṇa; the reference numerals were not zoomed.)*
+
+> व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तं । तस्यैतस्मिन्लोके । अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तते । मित्रद्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै[?] स रक्षाग्ंस्यपाहते । यदपामार्गहोमो भवति । रक्षसामुपहत्यै ॥
+
+> *vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etaddivā na naktaṃ | tasyaitasminloke | apāṃ phenena śira udavartayat | tadenamanvavartate | mitradrugiti | sa etānapāmārgānajanayat | tānajuhot | tairvai[?] sa rakṣāgṃsyapāhate | yadapāmārgahomo bhavati | rakṣasāmupahatyai ‖*
+
+(Trai. Brā. [i.e. Tai. Brā.] 1-7-1-5, 6, 7 [?])
+
+The Kannada explains: "After Indra killed the asura Vṛtra, he also killed other rākṣasas. But he could not conquer the asura named Namuci. He was extremely strong. He yielded to no kind of weapon. Therefore Indra wished to conquer him by his own bodily strength alone, and began a wrestling fight with him. Even so, the more they fought, the more Namuci's own strength increased. Indra could not escape from his grip. Then Indra asked Namuci to let him go, and the asura said to Indra: 'O Indra, if you want to be released, you must do as I say. Let us now make a treaty with each other. You may later wish to fight me by some stratagem and kill me. In such a case the weapon you use to kill me must be neither wet nor dry; you must not kill me by day, nor by night. If you agree to these conditions, I will release you.' Indra agreed that it should be so, freed himself from his grip, and began to think how to conquer him. After some time a means occurred to him. The foam of the sea, which lay before him, came into his sight. This foam is neither wet nor dry. 'Therefore I shall take this very thing as a weapon and kill Namuci. When the night has passed and the dawn has begun, before the sun rises, there is full light. That time is not night because it is not dark, and it is not day because the sun has not risen. If I fight at such a time and kill him with a weapon made from the foam of water, I shall not have broken my word.' Having decided so, he fought Namuci accordingly and cut off his head with that foam. But the asura did not die; he came chasing Indra in order to kill him. 'O Indra, betrayer of a friend! Stop, stop! You gave your word that you would not kill me, and now you have done such a treacherous deed. I shall not let you go without killing you,' he said. Then Indra, frightened, created a special tree named Apāmārga and, for the increase of his vigour, offered homa in the fire with its sticks (samidh). By that Indra's strength grew greater and he killed Namuci. Therefore it is said that those who wish to be freed from the harassment of rākṣasas must perform homa with Apāmārga sticks. This Namuci whom Indra killed—" *(the sentence runs on to the next page)*
+
+---
+
+### Printed p. 737 (PDF 760)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "737". At the foot is the signature mark "[47]" and "Vol. 14".)*
+
+The Kannada continues: "…matter is told not only in this Ṛk but in the Ṛgveda in—"
+
+*(The Ṛks cited next are in Devanagari from the print; the source gives no English for them. The glosses are mine and tentative, partial and meant only as a rough guide. Accents are not reproduced. The reference numerals were not zoomed; those marked [?] are doubtful. The initial letter of "युजं" is printed with the hook that can stand for either *ya* or *yu*; read *yu*, logged.)*
+
+> नव्या यदिंद्र सख्या परावति निबर्हयो नमुचिं नामु मायिनं ।
+
+> *navyā yadiṃdra sakhyā parāvati nibarhayo namuciṃ nāmu māyinaṃ |*
+
+(Ṛ. Saṃ. 1-53-7 [?])
+
+*(Gloss mine and tentative: Indra "far away" overthrows Namuci the māyin.)*
+
+> अत्रा दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् ।
+
+> *atrā dāsasya namuceḥ śiro yadavartayo manave gātumicchan |*
+
+(Ṛ. Saṃ. 5-30-7 [?])
+
+*(Gloss mine and tentative: there Indra turned off the head of the dāsa Namuci, wishing a path for Manu.)*
+
+> युजं हि मामकृथा आदिदिंद्र शिरो दासस्य नमुचेर्मथायन् ।
+
+> *yujaṃ hi māmakṛthā ādidiṃdra śiro dāsasya namucermathāyan |*
+
+(Ṛ. Saṃ. 5-30-8)
+
+*(Gloss mine and tentative: "you made me your companion"; then Indra crushes the head of the dāsa Namuci.)*
+
+> प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् ।
+
+> *pra śyeno na madiramaṃśumasmai śiro dāsasya namucermathāyan |*
+
+(Ṛ. Saṃ. 6-20-6)
+
+*(Gloss mine and tentative: the intoxicating soma-shoot is brought for him "like a falcon"; the head of the dāsa Namuci is crushed.)*
+
+> निवेशने शततमाविवेषीरहञ्छ[?] वृत्रं नमुचिमुताहन् ।
+
+> *niveśane śatatamāviveṣīrahañcha[?] vṛtraṃ namucimutāhan |*
+
+(Ṛ. Saṃ. 7-19-5 [?])
+
+*(One conjunct after "रहञ्" is unclear in the print and is not completed. Gloss mine and tentative: Vṛtra and Namuci are both slain.)*
+
+> अपां[?] फेनेन नमुचेः शिर इंद्रोदवर्तयः ।
+
+> *apāṃ[?] phenena namuceḥ śira iṃdrodavartayaḥ |*
+
+(Ṛ. Saṃ. 8-14-13)
+
+*(The first letter of the Ṛk is printed so that it looks like "ಅಸಾಂ" (*asāṃ*); it is read "अपां" in agreement with the clearer printing of the same phrase in the bhāṣya on p. 732 and in the Brāhmaṇa passage above. Logged. The reference numerals here are read 8-14-13 (glyph ಲ for 8), which supports the reading of the bhāṣya reference on p. 732 against the numeral file's "4.14.13". Gloss mine and tentative: "with the foam of the waters, Indra, you turned off the head of Namuci".)*
+
+> त्वं जघंथ नमुचिं मखस्युं दासं कृष्णान ऋषये विमानं ।
+
+> *tvaṃ jaghaṃtha namuciṃ makhasyuṃ dāsaṃ kṛṣṇāna ṛṣaye vimānaṃ |*
+
+(Ṛ. Saṃ. 10-73-7 [?])
+
+*(Reading of "विमानं" and of the reference numerals doubtful. Gloss mine and tentative: "you struck Namuci the dāsa, who desired the sacrifice (?)"; the rest not settled.)*
+
+> युवं सुराममश्विना नमुचावासुरे सचा ।
+
+> *yuvaṃ surāmamaśvinā namucāvāsure sacā |*
+
+(Ṛ. Saṃ. 10-131-4 [?])
+
+*(Gloss mine and tentative: "you two, Aśvins, together, [gave] the surā-drink [to Indra] when Namuci the Asura [held him]".)*
+
+The Kannada: "It is said in these Ṛks. Nowhere else is it so."
+
+*(The next paragraph begins with the headword from the bhāṣya. The heading word "जुहोते" is printed so; the Ṛk and Pada word is "जुहोत". Printed form kept, [?], logged.)*
+
+*Gist: Indra killed the asura Rudhikra; offer food oblations to him.*
+
+> यः रुधिक्रां तस्मै इंद्राय अंधसः जुहोते—रुधिक्रामेतन्नामकमसुरं यश्च जघान । तस्मा इंद्रायांधसो हविर्लक्षणान्यन्नानि जुहोते । जुहुत ।
+
+> *yaḥ rudhikrāṃ tasmai iṃdrāya aṃdhasaḥ juhote—rudhikrāmetannāmakamasuraṃ yaśca jaghāna | tasmā iṃdrāyāṃdhaso havirlakṣaṇānyannāni juhote | juhuta |*
+
+The Kannada: "O Adhvaryus, offer homa of the food in the form of oblation, in the fire, with Indra as the one addressed, to that Indra who killed the asura named Rudhikra. As the name of the asura Rudhikra is not spoken anywhere else in the Ṛgveda, nothing more can be said about him." *(No full stop is printed at the end.)*
+
+*(A short rule is printed here, which closes the Viśeṣaviṣayagaḷu of Ṛk 5. No grammar section is printed for Ṛk 5.)*
+
+---
+
+#### Ṛk 6
+
+*(The printed heading "संहितापाठः" stands before the Ṛk. The Ṛk number is not visible at the end of the Saṃhitā in the strip; "Ṛk 6" follows the sequence from Ṛk 5 and is not read from the page. Accent marks and the svara strokes are not reproduced. In the second line the word "सहस्रमपावपद्भरता" is read so, with plain *ma* printed with the hook.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यः श॒तं शंब॑रस्य॒ पुरो॑ बि॒भेदाश्म॑नेव पू॒र्वीः ।
+> यो व॒र्चिनः॑ श॒तमिंद्रः॑ स॒हस्र॑म॒पाव॑प॒द्भर॑ता॒ सोम॑मस्मै ॥
+
+> *adhvaryavo yaḥ śataṃ śaṃbarasya puro bibhedāśmaneva pūrvīḥ |*
+> *yo varcinaḥ śatamiṃdraḥ sahasramapāvapadbharatā somamasmai ‖*
+
+---
+
+**Progress note:** Done through printed p. 737 (PDF 760). Sūkta 14: the Viśeṣaviṣayagaḷu of Ṛk 5 is complete (Pipru, Namuci with the Taittirīya Brāhmaṇa story, the cited Ṛks, Rudhikra); no grammar section is printed for Ṛk 5. Ṛk 6 is open: only the Saṃhitā is written (Ṛk number not visible in the print, taken from the sequence); the Pada, bhāṣya, Pratipadārtha etc. follow on the next page (printed p. 738, PDF 761). The numeral file had 0 rows for these pages, so no numeral was checked against it, and none was zoomed. The second occurrence of the reference "8-14-13" (here read from the strip) supports the earlier reading against the file's "4.14.13". All Ṛgveda, Taittirīya Brāhmaṇa and part-page references on pp. 735–737 are unzoomed; those marked [?] are doubtful: 8-32-2, 5-29-11, 10-99-11, 1-101-1, 10-138-3, 4-16-13, 6-20-7, 1-51-5, part references 5-6[?]5 and 15-50, Tai. Brā. 1-7-1-5, 6, 7, and the Ṛk references 1-53-7, 5-30-7, 7-19-5, 10-73-7, 10-131-4. Other [?] places: "नाद्रो" and "ने वा" in the Brāhmaṇa passage, "तैर्वै" (print may read "त्रैर्वै"), "शततमाविवेषीरहञ्छ", "अपां" (print looks like "ಅಸಾಂ") in the 8-14-13 citation, "विमानं", "युजं" (hook: *ya* or *yu*), "जुहोते" in the bhāṣya heading. Accents not reproduced.
