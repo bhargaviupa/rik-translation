@@ -30223,6 +30223,91 @@ Thus four etymologies are given for the word उत्स (*utsa*). In the prese
 
 *(Note on the text as supplied, not corrected: the Saṃhitā reads सुमतिभिः (*sumatibhiḥ*) and पत्निभिः (*patnibhiḥ*) where the Pada reads सुमशिभिः (*sumaśibhiḥ*) and पश्नीभिः (*paśnībhiḥ*); in the supplied text the Pada followed the Saṃhitā with no label; it has been separated.)*
 
+### Printed p. 791
+
+*(Header: "[A. 2 A. 6. V. 18] Ṛgvedasaṃhitā 79]]", as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र संबाधात् शत्रुजन्यात्संबाधात् पुरा नोऽस्मानभ्याववृत्स्व । आव-
+> र्तय । यथा संबाधोऽस्मान् न स्पृशति तथा कुर्वित्यर्थः । तत्र दृष्टांतः । धेनुर्न
+> वत्सं । यथा यवसस्य घासेन पिप्युष्याप्यायिता धेनुर्वत्सं क्षुद्वाधात्परावर्तयति
+> तद्वत् । हे शतक्रतो वयं सुमतिभिस्त्वद्विषय्यैः शोभनैः स्तोत्रैः सकृत् सकृदपि
+> सु नसीमहि । सुष्टु व्याप्यमहि । तत्र दृष्टांतः । वृषणो न । सेक्तारो युवानो
+> यथा पत्नीभिर्वाप्यंते तद्वत् ॥
+
+*Gist: Indra is asked to turn us back, before the enemy's distress touches us, as a milch cow draws her calf back from the distress of hunger; and we hope to win him with fine praises, as youthful husbands are held by their wives.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इंद्र (*iṃdra*)—O Indra.) यवसस्य (*yavasasya*)—by the eating of grass. पिप्युषी (*pipyuṣī*)—satisfied. धेनुः (*dhenuḥ*)—the cow. वत्सं न (*vatsaṃ na*)—as she protects her calf from the distress of hunger. संबाधात् (*saṃbādhāt*)—from the distress born of enemies. पुरा (*purā*)—before it happens to us. नः (*naḥ*)—us. अभ्या ववृत्स्व (*abhyā vavṛtsva*)—turn back and protect. शतक्रतो (*śatakrato*)—O Indra. (वयं (*vayaṃ*)—we.) सुमतिभिः (*sumatibhiḥ*)—with excellent praises that extol you. वृषणः (*vṛṣaṇaḥ*)—men capable of impregnating. पत्निभिः न (*patnibhiḥ na*)—as they are embraced by their wives. सकृत् (*sakṛt*)—even a few times. ते सं नसीमहि (*te saṃ nasīmahi*)—we enjoy abundantly the happiness of your nearness.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, as a cow satisfied by eating grass protects her calf from the distress of hunger, so protect us from the distress born of enemies, before it comes near us. O Indra, as men capable of impregnating are embraced by their wives, so, even if only a few times, we enjoy abundantly the happiness of your nearness, through the excellent praises that extol you.
+
+**Printed English translation (Ṛk 8)**
+
+Conduct us beforehand away from evil, as a cow grazing in a meadow leads her calf(out of peril): may we, Shatakratu, envelop you, if but once, with acceptable praises, as youthful husbands(are embraced) by their wives.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+(हे इंद्र (*he iṃdra*)) पुरा संबाधात् नः अभि आ ववृत्स्त्व (*purā saṃbādhāt naḥ abhi ā vavṛtstva*)—the supplied text gives Sāyaṇa's gloss: यथा संबाधोऽस्मान् न स्पृशति तथा कुर्वित्यर्थः (*yathā saṃbādho 'smān na spṛśati tathā kurvityarthaḥ*) ("do so that distress may not touch us"). O Indra, protect us before the enemies' distress comes near us and troubles us.
+
+### Printed p. 792
+
+*(Header: "792 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 16]".)*
+
+The prayer is that, rather than removing the enemies' distress after it has surrounded us and we are suffering, Indra should check it beforehand, keep it from coming near us, and so guard us. An illustration of this is also given:
+
+धेनुः न वत्सं यवसस्य पिप्युषी (*dhenuḥ na vatsaṃ yavasasya pipyuṣī*)—the commentary says यथा यवसस्य घासेन पिप्युष्यापायिता (*yathā yavasasya ghāsena pipyuṣyāpāyitā*) धेनुर्वत्सं क्षुद्बाधात्परावर्तयति तद्वत् (*dhenurvatsaṃ kṣudbādhātparāvartayati tadvat*) (as supplied; the bhāṣya block reads पिप्युष्याप्यायिता (*pipyuṣyāpyāyitā*) and क्षुद्वाधात् (*kṣudvādhāt*)). As a cow that has grazed well on rich grass and is satisfied gives milk to her calf and so protects it, so Indra, satisfied by our praises, is prayed to protect us from the enemies' distress.
+
+सकृत् सु ते सुमतिभिः शतक्रतो (*sakṛt su te sumatibhiḥ śatakrato*)—O Indra, the sense is: grant that we may praise you well, even once, with excellent praises. An illustration of this is given:
+
+सं पत्निभिः न वृषणः (*saṃ patnibhiḥ na vṛṣaṇaḥ*)—वृषणः (*vṛṣaṇaḥ*) means one capable of impregnating, that is, a youth full of virile strength. As he is served by his wives with embraces and the like, so we too will serve you (Indra) with praises and the like: this is the sense.
+
+सुमतिभिः (*sumatibhiḥ*)—the meaning and derivation of the word सुमति (*sumati*) have been explained at length in Ṛ. Saṃ. part 6-413 and 13-193.
+
+शतक्रतो (*śatakrato*)—the word शतक्रतु (*śatakratu*) is ordinarily used as an epithet of Indra, in the sense of Indra. In the Purāṇas and the like the word क्रतु (*kratu*) is taken to mean sacrifice, and शतक्रतु (*śatakratu*) is explained as one who performed a hundred sacrifices, that is, Indra; that is, only a great man who has performed a hundred sacrifices is fit for the rank of Indra, and so the present Indra performed a hundred sacrifices in the past, obtained the rank of Indra as their fruit and now enjoys it: the story is told in various places. But in the Ṛgveda there seems to be no room for that kind of explanation. Since Yāska says that क्रतु (*kratu*) means work, deed, शतक्रतु (*śatakratu*) is understood to mean one who has performed a hundred, or many, valorous deeds. Since Indra has performed many valorous deeds, such as the slaying of Vṛtra, the word शतक्रतु (*śatakratu*) is customarily used of Indra alone (in the sense of one who has performed many valorous deeds).
+
+### Printed p. 793
+
+*(Header: "[A. 2. A. 6. V. 18.] Ṛgvedasaṃhitā 793".)*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑द्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ धृ॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दधे॑ सु॒वीराः॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> नूनं । सा । ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
+> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथे।सुवीराः॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अहर्गणेषु माध्यंदिनसवनेषु तायमानरूपेष्वच्छावाकस्याहरहः शस्य-
+> संज्ञकमभितष्टॆवेति सूक्तं । नूनं सा त इत्येषा तस्यांते शंसनीया । सूत्रितं च ।
+> नूनं सा त इत्यंतमुत्तमं । आ. ७-४ । इति ॥
+> हे इंद्र या दक्षिणा दक्षमत्साहनं करोतीति दक्षिणा स्तोतृभ्यो देया ते
+> त्वत्संबंधिनी मघोनी धनवती जरित्रे स्तोत्रे वरं श्रेष्ठमभिमतमर्थं नूनं
+> प्रतिदुहीयत् । इदानीं प्रतिदोग्नि । संपादयतीत्यर्थः । तादृशीं दक्षिणां स्तोतृ-
+> भ्योSस्मभ्यं शिक्ष । प्रयच्छ । किंच भगो भजनीयस्यं माति धक् ॥ दहेर्दानार्थस्य
+> लुजि मंत्रे घसेत्यादिना चेर्लुक् ॥ नोSस्मानतिक्रम्यान्येभ्यो दक्षिणां मा दाः ।
+> प्रथममस्मभ्यं दत्वा पश्चादन्येभ्यो दीयतामित्यर्थः। यद्वा नोSस्माकं कामान्
+> मा धक् । मा धाक्षीः । अपेक्षितफलदानेन पूरयेत्यर्थः । सुवीराः शोभनपुत्र-
+> पौत्राः संतो वयं विदथेSस्मिन्यज्ञॆ बृहत् प्रभूतं स्तोत्रं वदेम । त्वामुद्दिश्य
+> ब्रवाम ॥ अत्र सा ते प्रतिदुग्धामिति प्रकृत्य वीरो वीरयत्यमित्रान् वेतीर्वा
+> स्याद्गतिकर्मणो वीरयतेर्वेत्यंतं निरुक्तमनुसंधेयं । नि. १-७ ॥
+
+*Gist: This Ṛk is recited at the end of the Acchāvāka's śastra on the day-rites (the sūkta beginning abhitaṣṭeva, as supplied); Indra is asked to give the poets the dakṣiṇā they desire, not to pass over us, and to fulfil our wishes. Grammatical tail on dhak (loss of the ending by luk of the root dah) and on vīra (Nirukta).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra. ते (*te*)—given by you, and मघोनी (*maghonī*)—possessing abundant wealth. सा दक्षिणा (*sā dakṣiṇā*)—that dakṣiṇā. जरित्रॆ (*jaritrè*)—to the sacrificer who praises you. नूनं (*nūnaṃ*)—(the text breaks off here at the foot of the page and continues on p. 794).
+
 ---
 
-**Progress note:** Done through printed p. 790 (PDF 790). Sukta 16 Rk 7 (Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English, special topics: samane, kuvit, utsa) and Rk 8 Samhita and Pada. Flags: Rk 7 Samhita dadrsih/kuvino vs Pada dadhrsih/kuvit nah as supplied; Rk 8 Samhita sumatibhih/patnibhih vs Pada sumasibhih/pasnibhih as supplied; accent script DIFF on 3 lines
+**Progress note:** Done through printed p. 793 (PDF 793). Sukta 16 Rk 8 (bhasya, Pratipadartha, Bhavartha, printed English, special topics: satakratu) and Rk 9 Samhita, Pada, bhasya, Pratipadartha begun. Flags: Rk 9 Samhita dhrgbhago/vidadhe as supplied (Pada dhak, vidathe), block was garbled HTML fragment and was rewritten from the Devanagari text; accent script DIFF on 1 line
