@@ -5917,6 +5917,78 @@ O sacrificers, to that goddess Sinīvālī who has excellent arms, excellent fin
 
 Offer the oblation to that Sinivali, the protectress of mankind, who has beautiful fingers, who is the parent of many children, and who had numerous childrn [sic].
 
+### Printed p. 192
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 3, Sūkta 32, p. 192.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+या सुबाहुः स्वंगुरिः सुषूमा बहुसूवरी (*yā subāhuḥ svaṃguriḥ suṣūmā bahusūvarī*)—सिनीवाली शोभनबाहुः शोभनांगुलिः सुष्टु प्रसवित्रि, बह्नीनां प्रजानां सवित्रि (*sinīvālī śobhanabāhuḥ śobhanāṃguliḥ suṣṭu prasavitri, bahnīnāṃ prajānāṃ savitri*). This goddess called Sinīvālī has beautiful, excellent arms and fingers; she bears good sons and bears many children. Having thus described this goddess and her power, the commentator says तस्यॆ सिनीवाल्कॆ विश्वत्कृ हवि: जुहोतन (*tasyè sinīvālkè viśvatkṛ havi: juhotana*) (words as printed)—विशां पालयित्र्यै हवि: जुहुत (*viśāṃ pālayitryai havi: juhuta*): "Offer oblations to this Sinīvālī goddess, of such power, who protects the people" — the seer of the mantra's exhortation is thus described: priests and sacrificers are to offer oblations to her.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> या गुं॒गूर्या सि॑नीवा॒ली या रा॒का या सर॑स्वती ।
+> इं॒द्रा॒णीम॑ह्व ऊ॒तये॑ वरुणा॒नीं स्व॒स्तये॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> या । गुंगूः । या । सिनीवाली । या । ताका [?] । या । सरस्वती .
+> इंद्राणीं । अह्वे ऊतये । वरुणानीं । स्वस्तये ॥ ८ ॥
+
+> *yā | guṃgūḥ | yā | sinīvālī | yā | tākā [?] | yā | sarasvatī .*
+> *iṃdrāṇīṃ | ahve ūtaye | varuṇānīṃ | svastaye ‖ 8 ‖*
+
+(In the supplied text the Saṃhitā ends with the Ṛk number "९" and the Pada with "८"; the Pada's third word reads ताका (*tākā*) where the Saṃhitā has राका (*rākā*) [?]; both as supplied.)
+
+**॥ सायणभाष्यम् ॥**
+
+> अत्र गुंगूशब्देन राकासिनीवाल्ल्योः साहचर्यात्कुहूरुच्यते । > या
+> गुंगूः कुहूस्तामह्वे । आह्वयामि । एवमुत्तरत्रापि योज्यं । इंद्राणीमिंद्रस्य
+> पत्निमूतये रक्षणार्थमह्वे : आह्वयामि । तथा वरुणानीं वरुणस्य पत्निं
+> स्वस्तयेऽविनाशायाह्वयामि ॥ इंद्रवरुणेत्यादिना जीष् आनुगागमश्च ॥
+
+*Gist:* here the word *guṅgū*, because of its association with Rākā and Sinīvālī, means Kuhū; the Ṛk invokes each of these goddesses, Indrāṇī for protection and Varuṇānī for welfare. The tail notes the feminine suffix *īṣ* and the *ānuk* augment in *indrāṇī*, *varuṇānī*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+या (*yā*) (*yā*)—who; गुंगूः (*guṃgūḥ*)—the goddess Kuhū; या (*yā*)—who; सिनीवाली (*sinīvālī*)—Sinīvālī; या (*yā*)—who; राका (*rākā*)—Rākā; या (*yā*)—who; सरस्वती (*sarasvatī*)—Sarasvatī: she who is famed under these names. अह्वे (*ahve*)—I call. इंद्राणीं (*iṃdrāṇīṃ*)—Indra's wife; ऊतये (*ūtaye*)—I call her for protection. वरुणानीं (*varuṇānīṃ*)—Varuṇa's wife; स्वत्तये (*svattaye*) [sic, as printed]—I call her so that welfare may come about.
+
+### Printed p. 193
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 15, p. 193.*
+
+**भावार्थ (Bhāvārtha)**
+
+I call that goddess who is famed as Kuhū, as Sinīvālī, as Rākā and as Sarasvatī. I call Indrāṇī for protection and Varuṇānī for welfare.
+
+**Printed English translation**
+
+I invoke her who is Gangu, who is Sinivali, who is Raka, who is Saraswati : (I invoke) Indrani for protection, Varunani for welfare.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Here the goddess Kuhū is meant by the word गुंगूः (*guṃgūḥ*). Since Rākā and Sinīvālī were described in the preceding Ṛks, the commentator explains the word *guṅgū* here as Kuhū (that is, the new-moon day on which the moon is not seen). The Nirukta-writer says कूहूर्गूहतेः क्वा भूदिति वा क्व सती हूयत इति वा, क्वाहुतं जुहोतीति वा (*kūhūrgūhateḥ kvā bhūditi vā kva satī hūyata iti vā, kvāhutaṃ juhotīti vā*) (Nir. 11-34), and does not explain the word (*guṅgū*) formed from the root गुहू (*guhū*) (*guhū*), "to cover, to veil". The word *kuhū* itself is derived from the root *gūh*; and in three ways the form of the word *kuhū* is explained: "Where was she? Where is she invoked? Where does one offer the oblation?"—that is, "Where is this goddess? Where is she called? Where is the offering made?" The passage describes that the sacrificers invoke the goddess Kuhū, the goddess Sinīvālī, and the goddesses Rākā, Sarasvatī, Indrāṇī and Varuṇānī, for the sake of स्वस्तये अविनाशाय (*svastaye avināśāya*) (*svastaye avināśāya*), that welfare may come to themselves.
+
+इंद्राणीं (*iṃdrāṇīṃ*)—इंद्रस्य पत्निं (*iṃdrasya patniṃ*). The Nirukta-writer has commented इंद्राणी इंद्रस्य पत्नि (*iṃdrāṇī iṃdrasya patni*) (Nir. 10-39). वरुणानीं (*varuṇānīṃ*)—वरुणस्य पत्निं (*varuṇasya patniṃ*). Yāska, in explaining the Ṛk उत ग्ना व्यंतु देवपत्नीरिंद्राण्य १ ग्नाय्यश्विनी राट् । आ रोदसी वरुणानी शृणोतु व्यंतु देवीर्य ऋतुर्जनीनां (*uta gnā vyaṃtu devapatnīriṃdrāṇya 1 gnāyyaśvinī rāṭ | ā rodasī varuṇānī śṛṇotu vyaṃtu devīrya ṛturjanīnāṃ*) (Ma. Saṃ. 5-46-8, words as printed), says: इंद्राणींद्रस्य पत्नि, अग्नाया अग्नेःपत्नि, अश्विनी अश्वनोः पत्नि, रोदसी रुद्रस्य पत्नि, वरुणानी वरुणस्य पत्नि (*iṃdrāṇīṃdrasya patni, agnāyā agneḥpatni, aśvinī aśvanoḥ patni, rodasī rudrasya patni, varuṇānī varuṇasya patni*) (Nir. 12-46): Indrāṇī is Indra's wife, Agnāyī Agni's wife, Aśvinī the Aśvins' wife, Rodasī Rudra's wife, Varuṇānī Varuṇa's wife.
+
+### Printed p. 194
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 4, Sūkta 33, p. 194.*
+
+## Sūkta 33 (Maṇḍala 2)
+
+*The thirty-third sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> चतुर्थेऽनुवाक एकादश सूक्तानि । तत्र ते पितरिति पंचदशर्चं प्रथमं
+
+*Gist:* the first of the eleven sūktas of Anuvāka 4, of fifteen ṛks, of the Gṛtsamada seer, for Rudra, in *triṣṭubh*; the Anukramaṇī, the Āśvalāyana Gṛhya-sūtra (4-8-23), the Āśvalāyana Śrauta-sūtra (3-8) and Śaunaka are quoted for the application.
+
+**Anuvāda (Kannada).** There are eleven sūktas in the fourth anuvāka of the second maṇḍala. Of them this sūkta beginning आ ते पितर्मरुतां (*ā te pitarmarutāṃ*) is the first. It has fifteen ṛks. The seer of this sūkta is Gṛtsamada; Rudra is the deity; the metre is *triṣṭubh*. What is said in the Anukramaṇikā—आ ते पंचोना रौद्रमिति (*ā te paṃconā raudramiti*)—is explained: in the Rudra sacrifices beginning with the one named Śūlagava the western-quarter deity is to be worshipped with this sūkta, as set out by the Āśvalāyana Gṛhya-sūtra sūtra कद्रुद्रायेमा रुद्राया ते पितरिमा रुद्राय स्थिरधन्वन इति सर्वरुद्रयज्ञेषु दिशामुपस्थानं (*kadrudrāyemā rudrāyā te pitarimā rudrāya sthiradhanvana iti sarvarudrayajñeṣu diśāmupasthānaṃ*) (Gṛ. Sū. 4-8-23). In the animal sacrifice to Rudra, when the oblation is offered, the Ṛk आ ते पितः (*ā te pitaḥ*) is to be recited as the anuvākyā mantra, as set out by the Āśvalāyana Śrauta-sūtra sūtra आ ते पितर्मरुतां सुम्मनेतु प्रबभ्रवे वृषभाय .श्वितीच इति तिस्रः (*ā te pitarmarutāṃ summanetu prababhrave vṛṣabhāya .śvitīca iti tisraḥ*) (Ā. 3-8). And on the application of this sūkta the sage Śaunaka says in the book Ṛgvidhāna: चतुर्दशीमुपोष्यकां कृष्णस्य जुहुयाच्चरुं । आतेसूक्तेन रौद्रेण प्रत्यृचं वाग्यतः शुचिः ॥ पूर्वमाज्याहुतीर्हुत्वाथोपस्थाय च शंकरं । हविःशेषेण वर्तेतैकांतरमतंद्रितः ॥ पूर्णमासे जयेन्मृत्युं रोगैश्च परिमुच्यते ॥ (*caturdaśīmupoṣyakāṃ kṛṣṇasya juhuyāccaruṃ | ātesūktena raudreṇa pratyṛcaṃ vāgyataḥ śuciḥ ‖ pūrvamājyāhutīrhutvāthopasthāya ca śaṃkaraṃ | haviḥśeṣeṇa vartetaikāṃtaramataṃdritaḥ ‖ pūrṇamāse jayenmṛtyuṃ rogaiśca parimucyate ‖*) (Ṛgvidhāna 1-30). That is: on the fourteenth day of the dark fortnight, fasting, self-controlled and pure, one is to recite each Ṛk of this Rudra sūkta, and having cooked the caru ... [the sentence continues on the next page].
+
 ---
 
-**Progress note:** Done through printed p. 191 (PDF 191). Sūkta 32 Ṛk 6 (Sinīvālī) complete with Special Topics; Ṛk 7 complete (p. 191); kn.md: Pratipadārtha split out of bhāṣya block, stray digit line removed; accent DIFF 1 (Ṛk 6 Saṃhitā)
+**Progress note:** Done through printed p. 194 (PDF 194). Sūkta 32 Ṛk 7 Special Topics, Ṛk 8 (last) complete; Sūkta 33 begins (Sanskrit intro + Anuvāda, cut off mid-sentence at p. 194 end, continues next window); kn.md: labels/blocks added, stray garbled lines removed; open: Pada ताका [?] (Rākā), Saṃhitā numbered ९ vs Pada ८ as supplied
