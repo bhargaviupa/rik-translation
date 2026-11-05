@@ -8517,6 +8517,109 @@ Ni. 8-14) (as printed, closing parenthesis only) he has explained the meaning th
 > *aśvasya | atra | janima | asya | ca | svaḥ | druhaḥ | riṣaḥ | saṃpṛcaḥ | pāhi | sūrīn |*
 > *āmāsu | pūrṇa | paraḥ | apramṛṣyaṃ | na | arātayaḥ | vi | naśat | na | anmattāni ‖ 6 ‖*
 
+### Printed p. 270
+
+*[Header: Sāyaṇabhāṣya-sahitā, Maṃ. 2, A. 4, Sū. 35.]*
+
+**॥ सायणभाष्यम् ॥**
+
+*(A heading line "॥ ಜಯಭಾಸ್ಕರ ॥" is printed here, before the bhāṣya of Ṛk 6; kept as printed.)*
+
+> अत्रास्मिन्नपांनपात्संज्ञके देवेऽश्वस्य जनिम जन्म भवति । अपांनप्रधिष्ठिता-
+> त्समुद्रादुच्चैःश्रवसो जातत्वात् । किं बहुना! अस्य च स्वः सुष्करणीयस्य सर्वस्य
+> जगतो जन्मास्मिन्नेव भवति । अयं हि मेघमध्यॆ वर्तमानो वृष्टिद्वारेण सर्वं
+> जगज्जनयति । तादृशोपांनपात्त्वं द्रुहो द्रोग्गुरपहर्तू रिषो हिंसकस्य च
+> संपृचः संपर्कात्तरीन् स्तोत्यनस्मान्पाहि । रक्ष! आमास्वपरिपक्षासु पूर्णु
+> पूरयितव्यास्वप्नु परः परस्ताद्वर्तमानमप्रमृष्यमप्रधृष्यमाणं देवमरात-
+> योदातारः पुरुषा न विनशन् । न प्राप्पुवंति ॥ नशतिव्याप्तिकर्मा । लेट्यडागमः ॥
+> अनृतानि मायाविनो रक्षांसि च न प्राप्पुवंति ॥
+
+> *atrāsminnapāṃnapātsaṃjñake deve 'śvasya janima janma bhavati | apāṃnapradhiṣṭhitā-*
+> *tsamudrāduccaiḥśravaso jātatvāt | kiṃ bahunā! asya ca svaḥ suṣkaraṇīyasya sarvasya*
+> *jagato janmāsminneva bhavati | ayaṃ hi meghamadhyè vartamāno vṛṣṭidvāreṇa sarvaṃ*
+> *jagajjanayati | tādṛśopāṃnapāttvaṃ druho droggurapahartū riṣo hiṃsakasya ca*
+> *saṃpṛcaḥ saṃparkāttarīn stotyanasmānpāhi | rakṣa! āmāsvaparipakṣāsu pūrṇu*
+> *pūrayitavyāsvapnu paraḥ parastādvartamānamapramṛṣyamapradhṛṣyamāṇaṃ devamarāta-*
+> *yodātāraḥ puruṣā na vinaśan | na prāppuvaṃti ‖ naśativyāptikarmā | leṭyaḍāgamaḥ ‖*
+> *anṛtāni māyāvino rakṣāṃsi ca na prāppuvaṃti ‖*
+
+*Gist of the bhāṣya: in this Apāṃnapāt the horse (Uccaiḥśravas) was born from the ocean; the whole world is born in him, since he, abiding in the clouds, generates it through rain; he is asked to protect the singers from the harm of the treacherous and violent, and the givers-not and the untruthful cannot reach him. Grammatical tail: the verb नशति (*naśati*) in the sense of pervading; the Let augment.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अश्वस्य (*aśvasya*) — of the horse called Uccaiḥśravas; जनिम (*janima*) — the birth, अत्र (*atra*) — is in this Agni himself. अस्य च स्वः (*asya ca svaḥ*) — the birth of the whole moving world is also in this Agni named Apāṃ napāt. द्रुहः (*druhaḥ*) — of the enemy who practises treachery, रिषः (*riṣaḥ*) — and is violent; संपृचः (*saṃpṛcaḥ*) — from contact; सूरीन् (*sūrīn*) — us, the praisers; पाहि (*pāhi*) — protect. आमासु (*āmāsu*) — in the waters that are unripe, पूर्णु (*pūrṇu*) — and not full; परः (*paraḥ*) — who is in the highest place, अप्रमृष्यं (*apramṛṣyaṃ*) — unassailable, this Agni; आरातयः (*ārātayaḥ*) — men fallen from ritual; न वि नशन् (*na vi naśan*) — cannot approach. अन्मत्तानि (*anmattāni*) — even the untruthful asuras, न (*na*) — cannot approach.
+
+**भावार्थ (Bhāvārtha)**
+
+The birth of the horse Uccaiḥśravas is in this Agni named Apāṃ napāt. The birth of the whole moving world is also in this Agni. O Agni, protect us, the praisers, from contact with the enemy who practises treachery and is violent. This Agni, who is in the highest place among the unripe and not-full waters and is unassailable, cannot be approached either by men fallen from ritual or by untruthful asuras.
+
+**Printed English**
+
+In hin [sic] is the birth of the horse ; of him is (the origin of) the world : grandson of the (waters), protect the pious worshippers from the malevolence of the oppressor : those who give no offerings. those who practise untruths, attain not the inconceivable deity, wether [sic] abiding in the immature or the perfect waters.
+
+### Printed p. 271
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अत्र अश्वस्य जनिम—अपांनपात्संज्ञके देवे अश्वस्य जन्म भवति (*atra aśvasya janima—apāṃnapātsaṃjñake deve aśvasya janma bhavati*) — From this deity famed by the name Apāṃ napāt arises the birth of the excellent horse Uccaiḥśravas. अस्य च स्वः—सुष्टु अरणीयस्य सर्वस्य जगतः जन्म आस्मिन्नेव भवति आयं हि मेघमध्यॆ वर्तमानः वृष्टिद्वारेण सर्वं जगत्‌जनयति (*asya ca svaḥ—suṣṭu araṇīyasya sarvasya jagataḥ janma āsminneva bhavati āyaṃ hi meghamadhyè vartamānaḥ vṛṣṭidvāreṇa sarvaṃ jagatjanayati*) (as printed) — The glory of this deity is told: while in the midst of the clouds, by pouring rain he makes all this moving world come into being.
+
+And द्रुहः रिषः संपृचः सूरीन् पाहि (*druhaḥ riṣaḥ saṃpṛcaḥ sūrīn pāhi*) — describing this deity's power, protection is prayed for: may this deity protect us, the sacrificers or priests who praise him, so that no kind of contact (association) arises with those who cause us harm.
+
+पूर्ण परः अरातयः न वि नशन्—पूरयितव्यासु अप्पु परस्तात् वर्तमानं अप्रधृष्यमाणं देवं अदातारः न प्राप्नुवंति (*pūrṇa paraḥ arātayaḥ na vi naśan—pūrayitavyāsu appu parastāt vartamānaṃ apradhṛṣyamāṇaṃ devaṃ adātāraḥ na prāpnuvaṃti*) — Even while the waters swell and fill the ocean, this deity remains apart from those waters, and since he cannot be rejected by anyone (when sought for sight), no non-givers can reach his presence. And अनृतानि न (*anṛtāni na*): those who follow the crooked path of deceit cannot attain his presence; thus it is described.
+
+The word सूरि (*sūri*) is read among the names of praisers (Ni. 3-19). The word नशत् (*naśat*) is read among the verbs of pervading (Ni. 3-10). Although the word स्वः (*svaḥ*) has many kinds of meaning (Ni. 2-14), here its sense is explained as सुष्टु अरणीयस्य (*suṣṭu araṇīyasya*).
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> स्व आ दमे॑ सु॒दुघा॒ यस्य॑ धे॒नुः स्व॒धां पी॑पाय सु॒भ्वन्न॑मत्ति ।
+> सो अ॒पां नपा॑दू॒र्जय॑न्न॒प्सग्१॒॑नर्व॑सु॒देया॑य विध॒ते वि भा॑ति ॥
+
+**॥ पदपाठः ॥**
+
+> स्वे । आ । दमे । सुदुघा । यस्य । धेनुः । स्वधां । पीपाय । सुभु । अन्नं । अत्ति
+> सः । अपां । नपात् । ऊर्जयन् । अर्‍सु । अंतः । वस्तुदेयाय । विधते । वि ।
+> भाति ॥ ७ ॥
+
+> *sve | ā | dame | sudughā | yasya | dhenuḥ | svadhāṃ | pīpāya | subhu | annaṃ | atti*
+> *saḥ | apāṃ | napāt | ūrjayan | arsu | aṃtaḥ | vastudeyāya | vidhate | vi |*
+> *bhāti ‖ 7 ‖*
+
+### Printed p. 272
+
+**॥ सायणभाष्यम् ॥**
+
+> योऽपांनपात् स्वे दमे स्वकीये गृहेंतरिलक्षण आसीदति । यस्य च
+> धेनुर्माध्यमिका वाक् सुदुघा सुखेन दोग्धव्या भवति । स देवः स्वधां
+> वृष्टु दकं पीपाय । वर्धयति ॥ प्याया वृद्धौ । लिड्यजोश्चेति पीभावः ॥
+> सुभु सुष्टु भूतं वृष्टेः सकाशादुत्पन्नं हविर्लक्षणमन्नं चात्ति । भक्षयति ।
+> सोऽपांनपात्संज्ञको देव ऊर्जयन् बलं कुर्वन् अप्प्यंतर्मेघस्थास्वप्सु
+> मध्यॆ विधते परिचरते यजमानाय वसुदेयाय धनदानार्थं विभाति ।
+> विशेषेण दीप्यते ॥
+
+> *yo 'pāṃnapāt sve dame svakīye gṛheṃtarilakṣaṇa āsīdati | yasya ca*
+> *dhenurmādhyamikā vāk sudughā sukhena dogdhavyā bhavati | sa devaḥ svadhāṃ*
+> *vṛṣṭu dakaṃ pīpāya | vardhayati ‖ pyāyā vṛddhau | liḍyajośceti pībhāvaḥ ‖*
+> *subhu suṣṭu bhūtaṃ vṛṣṭeḥ sakāśādutpannaṃ havirlakṣaṇamannaṃ cātti | bhakṣayati |*
+> *so 'pāṃnapātsaṃjñako deva ūrjayan balaṃ kurvan appyaṃtarmeghasthāsvapsu*
+> *madhyè vidhate paricarate yajamānāya vasudeyāya dhanadānārthaṃ vibhāti |*
+> *viśeṣeṇa dīpyate ‖*
+
+*Gist: Apāṃ napāt abides in his own home, the atmosphere; his cow is the middle-region speech; he increases the rain-water, eats the food produced by rain, and shines among the cloud-waters to give wealth to the worshipper. Grammatical tail: प्याया वृद्धौ (*pyāyā vṛddhau*), the reduplication by the sūtra लिड्यजोश्च (*liḍyajośca*) (no number printed).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अपां नपात् (*apāṃ napāt*) — Agni named Apāṃ napāt; स्वे दमे (*sve dame*) — in his own home of the atmospheric form; आ (सीदति) (*ā (sīdati)*) — is seated. यस्य (*yasya*) — whose; धेनुः (*dhenuḥ*) — the cow, the middle-region speech; सुदुघा (*sudughā*) — is excellently milkable. सः (*saḥ*) — that deity; स्वधां (*svadhāṃ*) — the water in the form of rain; पीपाय (*pīpāya*) — makes grow. सुभु (*subhu*) — produced excellently by the rain; अन्नं (*annaṃ*) — the food in the form of oblation; अत्ति (*atti*) — eats. (And) ऊर्जयन् (*ūrjayan*) — gathering strength; अप्वंतः (*apvaṃtaḥ*) — in the midst of the waters in the clouds; विधते (*vidhate*) — for the worshipper, the sacrificer; वसुदेयाय (*vasudeyāya*) — for giving wealth; वि भाति (*vi bhāti*) — shines exceedingly.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni named Apāṃ napāt sits in his own home, the atmosphere. He whose cow, the middle-region speech, is excellently milkable, increases the water in the form of rain and eats the oblation-food produced excellently by the rain. In order to give wealth to the worshipping sacrificer he gathers excellent strength and shines exceedingly in the midst of the waters in the clouds.
+
+**Printed English**
+
+He, the grandson of the waters, who abides in his own dwelling ; of whom is the readily-milked cow; who augments the nectar (of the skies and thence) eats the sacrificial food ; he, gatheing [sic] strength in the midst of the waters, shines for the sake of conferring wealth upon his worshipper.
+
 ---
 
-**Progress note:** Done through printed p. 269 (PDF 269). Sūkta 35 Ṛk 4 printed English and Special Topics (p. 267), Ṛk 5 complete (pp. 267-269, Yāska quotations placed as blocks), Ṛk 6 Saṃhitā/Pada (p. 269); kn.md hand-fixes: garbled label ॥ ಭವಾರ್ಥ ॥ replaced by standard Bhāvārtha, two Yāska verse quotations made blocks; [?]: ನಹಾತ್, ಶಿಸ್ರಃ, Latin p in ಸೋpಾಂ; OCR slips kept: ಅಪ್ಪು/ಅಪ್ಸು, ಪ್ರಸರ್ಸ್ರೆ/ಪ್ರಸಸ್ರೇ, ಶುಕ್ಲೇಭಿಃ, ಮನುಷ್ವದಿಹ, ಅಶ್ವಸ್ಯಾತ್ರ; 'Ni. 8-14)' printed with closing paren only; printed English 'abundanceee' [sic]; Ṛk 6 bhāṣya next
+**Progress note:** Done through printed p. 272 (PDF 272). Sūkta 35 Ṛk 6 bhāṣya/Pratipadārtha/Bhāvārtha/printed English/Special Topics (pp. 270-271), Ṛk 7 Saṃhitā/Pada (p. 271), bhāṣya etc. (p. 272); kn.md hand-fixes: bhāṣya label inserted, heading line ॥ ಜಯಭಾಸ್ಕರ ॥ kept as italic line out of the block, garbled Bhāvārtha label replaced; OCR slips kept: ಪೂರ್ಣು, ಅಪ್ಪು, ಅರ್‍ಸು, ವಸ್ತುದೇಯಾಯ (Pada) vs ವಸುದೇಯಾಯ; printed English 'hin', 'wether', 'gatheing' [sic]; accent check 1 DIFF; Ṛk 7 next section: Special Topics
