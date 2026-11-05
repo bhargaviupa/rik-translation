@@ -9565,6 +9565,138 @@ In Kannada: the Eighth Adhyāya in the Second Aṣṭaka; the Thirty-seventh Sū
 
 In the Ṛtuprayāja oblations made for the Ṛtus, the six ṛks of the previous sūkta and the six ṛks of this sūkta are both used as Praiṣa mantras and as Yājyā mantras. To ṛks addressed to the Ṛtus, other deities are joined along with the Ṛtus. For example, for the first four ṛks of this sūkta, along with the Ṛtus, the deities called Draviṇodā are stated; for the fifth ṛk, the Aśvins; for the sixth ṛk, Agni. The same order is found in the fifteenth sūkta of the first maṇḍala, of twelve ṛks, beginning *Indra somaṃ piba*: that is, for ṛks 1, 2, 3, 4, 5, 6 respectively, the deities are Indra, Marut, Tvaṣṭā, Agni, Indra, and Mitrāvaruṇa, each together with an Ṛtu. In the last six ṛks, as in the present sūkta, four ṛks have the deity Draviṇodā together with the Ṛtus, the next ṛk the Aśvins, and the last ṛk Agni.
 
+### Printed p. 305
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 8, Varga 1, p. 305 (as supplied).*
+
+**Note on the Ṛtus (Kannada commentary).** In the previous sūkta and in this one, the gods are prayed to drink Soma together with the Ṛtus. A detailed explanation of the Ṛtus is therefore necessary here. The Ṛtus are the deities presiding over the months. A year has twelve months, and every two months are known as one Ṛtu; so the twelve months make six Ṛtus. In common usage the year is generally divided into three, summer, rainy season and winter; but in the Vedas, taking two months to a Ṛtu, six Ṛtus are reckoned. On this subject:
+
+> वसंतेनर्तुना देवाः । वसवस्त्रिवृता स्तुतं । रथंतरेण तेजसा । हविरिंद्रे
+> पयोः दधुः ॥
+> ग्रीष्मेण देवा ऋतुना । रुद्राः पंचदशे स्तुतं । बृहता यशसा बलं ।
+> हविरिंद्रे पयो दधुः ॥
+> वर्षाभिर्युतुनादित्याः । स्तोमे सप्तदशे स्तुतं । वैरूपेण विशौजसा ।
+> हविरिंद्रे पयो दधुः ॥
+> शारदेनर्तुना देवाः । एकविग्ंश ऋभवः स्तुतं । वैराजेन श्रिया श्रियं ।
+> हविरिंद्रे पयो दधुः ॥
+> हेमंतेनर्तुना देवाः । मरुतस्त्रिणवे स्तुतं । बलेन शक्वरीः सहः ।
+> हविरिंद्रे पयो दधुः ॥
+> शैशिरेणर्तुना देवाः । त्रयस्त्रिग्ंशेऽमृतग्स् स्तुतं । सत्येन रेवतीःक्षत्रं ।
+> हविरिंद्रे पयो दधुः ॥
+
+> *vasaṃtenartunā devāḥ | vasavastrivṛtā stutaṃ | rathaṃtareṇa tejasā | haviriṃdre*
+> *payoḥ dadhuḥ ‖*
+> *grīṣmeṇa devā ṛtunā | rudrāḥ paṃcadaśe stutaṃ | bṛhatā yaśasā balaṃ |*
+> *haviriṃdre payo dadhuḥ ‖*
+> *varṣābhiryutunādityāḥ | stome saptadaśe stutaṃ | vairūpeṇa viśaujasā |*
+> *haviriṃdre payo dadhuḥ ‖*
+> *śāradenartunā devāḥ | ekavigṃśa ṛbhavaḥ stutaṃ | vairājena śriyā śriyaṃ |*
+> *haviriṃdre payo dadhuḥ ‖*
+> *hemaṃtenartunā devāḥ | marutastriṇave stutaṃ | balena śakvarīḥ sahaḥ |*
+> *haviriṃdre payo dadhuḥ ‖*
+> *śaiśireṇartunā devāḥ | trayastrigṃśe 'mṛtags stutaṃ | satyena revatīḥkṣatraṃ |*
+> *haviriṃdre payo dadhuḥ ‖*
+
+(Tai. Br. 2-6-19-1, 2)
+
+In this anuvāka of the Taittirīya Brāhmaṇa it is said that the gods praised the spring Ṛtu with the Trivṛt stoma, the summer Ṛtu with the Pañcadaśa stoma, the rainy season with the Saptadaśa stoma, the autumn with the Ekaviṃśa stoma, the Hemanta Ṛtu with the Triṇava stoma, and the Śaiśira Ṛtu with the Trayastriṃśa stoma; and that, having offered the oblation, they obtained desired things such as strength, fame and wealth. Therefore a year has six Ṛtus in all: Vasanta, Grīṣma, Varṣa, Śarad, Hemanta and Śaiśira. On some occasions Hemanta and Śaiśira are joined and reckoned as a single Ṛtu, "Hemanta-śiśira".
+
+> वसंतमृतूनां प्रीणामि स मा प्रीतः प्रीणातु
+> ग्रीष्ममृतूनां प्रीणामि स मा प्रीतः प्रीणातु
+> वर्षायतूनां प्रीणामि ता मा प्रीताः प्रीणंतु
+
+*A stray line, the number "20" (a signature mark), followed this block at the foot of p. 305 in the supplied text; it is left out of the Kannada file and noted here, not read as a reference.*
+
+### Printed p. 306
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 37, p. 306 (as supplied).*
+
+> शरदमृतूनां प्रीणामि सा मा प्रीता प्रीणातु
+> हेमंतशिशिरावृतूनां प्रीणामि शौ मा प्रीतौ प्रिणीतां
+
+> *śaradamṛtūnāṃ prīṇāmi sā mā prītā prīṇātu*
+> *hemaṃtaśiśirāvṛtūnāṃ prīṇāmi śau mā prītau priṇītāṃ*
+
+(Tai. Saṃ. 1-6-2-3)
+
+Here Hemanta and Śiśira are taken as a single Ṛtu, so that five Ṛtus in all are described. Yāska, giving the etymology of the word *ṛtu*, says ऋतुरर्तॆर्गतिकर्मणः (*ṛturartèrgatikarmaṇaḥ*) (Ni. 2-25), "by the Ṛtus, by the times" (Ni. 8-3). That is, the word *ṛtu* is formed from the root *ṛ* in the sense of going (ऋ गतौ (*ṛ gatau*)) and conveys the meaning "time". Which months combine to form which Ṛtus is also stated in the Yajurveda itself.
+
+> मधुश्च माधवश्च वासंतिकावृतू
+> शुक्रश्च शुचिश्च ग्रैष्मावृतू
+> नभश्च नभस्यश्च वार्षिकावृतू
+> इषश्चोर्जश्च शारदावृतू
+> सहश्च सहस्यश्च हैमंतिकावृतू
+> तपश्च तपस्यश्च शैशिरावृतू
+
+> *madhuśca mādhavaśca vāsaṃtikāvṛtū*
+> *śukraśca śuciśca graiṣmāvṛtū*
+> *nabhaśca nabhasyaśca vārṣikāvṛtū*
+> *iṣaścorjaśca śāradāvṛtū*
+> *sahaśca sahasyaśca haimaṃtikāvṛtū*
+> *tapaśca tapasyaśca śaiśirāvṛtū*
+
+(Tai. Saṃ. 4-4-11-1)
+
+That is, Caitra and Vaiśākha together are known as the spring Ṛtu; Jyeṣṭha and Āṣāḍha as the summer Ṛtu; Śrāvaṇa and Bhādrapada as the rainy season; Āśvayuja and Kārttika as the autumn; Mārgaśira and Puṣya as the Hemanta Ṛtu; Māgha and Phālguna as the Śiśira Ṛtu. Such is the description of the Ṛtus. Hence here, that is in this sūkta and in the previous one, *ṛtu* means the deity presiding over the Ṛtu. In the ṛks of this sūkta it is prayed that Draviṇodā (Agni) and the other deities come to the sacrificial ground together with these Ṛtu deities and drink Soma.
+
+The Ṛtuyāja oblations
+
+The Ṛtuyāja oblations have twelve mantras. For these twelve oblations the Praiṣa mantras and the Yājyā mantras are one and the same. In the Taittirīya Saṃhitā:
+
+> मधुश्च माधवश्च शुक्रश्च शुचिश्च नभश्च नभस्यच्छेषश्चोर्जश्च सहश्च सहस्यश्च
+> तपश्च तपस्यश्चोपयामगृहीतोऽसि सग्ंसर्पोऽस्यग्ंहस्पत्याय त्वा ॥
+
+> *madhuśca mādhavaśca śukraśca śuciśca nabhaśca nabhasyaccheṣaścorjaśca sahaśca sahasyaśca*
+> *tapaśca tapasyaścopayāmagṛhīto 'si sagṃsarpo 'syagṃhaspatyāya tvā ‖*
+
+(Kṛ. Saṃ. 1-4-14-1) [reference printed "ಕೃ. ಸಂ." as supplied]
+
+### Printed p. 307
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 8, Varga 1, p. 307 (as supplied).*
+
+Here the names of the twelve months are given. The Brāhmaṇa on this mantra says:
+
+> यज्ञेन वै देवाः सुवर्गं लोकमायन्तेऽमन्यंत मनुष्यानोन्वा
+> भविष्यंतीति ते संवत्सरेण योपयित्वा सुवर्गं लोकमायन् तम्मषय
+> ऋतुग्रहैरेवानु प्राजानन् यदृतुग्रहा गृह्यंते सुवर्गस्य लोकस्य
+> प्रज्ञात्यै द्वादश गृह्यंते द्वादश मासाः संवत्सरः संवत्सरस्य प्रज्ञात्यै
+> सह प्रथमौ गृह्येते सहोत्तमौ तस्माद्द्विद्वावृतू उभयतो मुख-
+> मृतुपात्रं भवति को हि तद्वेद यत ऋतूनां मुखमृतुनां प्रेष्यति
+> षट्कृत्व आह षड्वा ऋतव ऋतून्नव प्रीणात्युभिरिति चतुश्चतुष्पद एव
+> पशून्प्रीणाति द्विः पुनर्ऋतुनाह द्विपद एव प्रीणात्युना प्रेष्यति
+> षट्कृत्व आहर्तुभिरिति चतुस्तस्माच्चतुष्पादः पशव ऋतूनुपजीवंति द्विः
+> पुनर्ऋतुनाह तस्माद्द्वीपादश्चतुष्पदः पशनूपजीवंत्यृतुना प्रेष्यति
+> षट्कृत्व आहर्तुभिरिति चतुर्द्विः पुनर्ऋतुनाहाक्रमणमेव तत्सेतुं
+> यजमानः कुरुते सुवर्गस्य लोकस्य समष्ट्यै नान्योन्यमनु प्रपद्येत
+> यदन्नोन्यमनुप्रपद्येतर्तुर्युतुमनु प्रपद्येतर्तवो मोहुकास्युः
+> प्रसिद्धमेवाध्वर्युर्दक्षिणेन प्रपद्यते प्रसिद्धं प्रतिप्रस्थातोत्तरेण
+> तस्मादादित्यः षण्मासो दक्षिणेनैति षडुत्तरेणोपयामगृहीतोऽसि सग्ं-
+> सर्पोऽस्यग्ं हस्पत्यायत्वेत्याहास्ति त्रयोदशो मास इत्याहुस्तमेव
+> तत्प्रीणाति ॥ (तै. सं. ६-५-३)
+
+> *yajñena vai devāḥ suvargaṃ lokamāyante 'manyaṃta manuṣyānonvā*
+> *bhaviṣyaṃtīti te saṃvatsareṇa yopayitvā suvargaṃ lokamāyan tammaṣaya*
+> *ṛtugrahairevānu prājānan yadṛtugrahā gṛhyaṃte suvargasya lokasya*
+> *prajñātyai dvādaśa gṛhyaṃte dvādaśa māsāḥ saṃvatsaraḥ saṃvatsarasya prajñātyai*
+> *saha prathamau gṛhyete sahottamau tasmāddvidvāvṛtū ubhayato mukha-*
+> *mṛtupātraṃ bhavati ko hi tadveda yata ṛtūnāṃ mukhamṛtunāṃ preṣyati*
+> *ṣaṭkṛtva āha ṣaḍvā ṛtava ṛtūnnava prīṇātyubhiriti catuścatuṣpada eva*
+> *paśūnprīṇāti dviḥ punarṛtunāha dvipada eva prīṇātyunā preṣyati*
+> *ṣaṭkṛtva āhartubhiriti catustasmāccatuṣpādaḥ paśava ṛtūnupajīvaṃti dviḥ*
+> *punarṛtunāha tasmāddvīpādaścatuṣpadaḥ paśanūpajīvaṃtyṛtunā preṣyati*
+> *ṣaṭkṛtva āhartubhiriti caturdviḥ punarṛtunāhākramaṇameva tatsetuṃ*
+> *yajamānaḥ kurute suvargasya lokasya samaṣṭyai nānyonyamanu prapadyeta*
+> *yadannonyamanuprapadyetarturyutumanu prapadyetartavo mohukāsyuḥ*
+> *prasiddhamevādhvaryurdakṣiṇena prapadyate prasiddhaṃ pratiprasthātottareṇa*
+> *tasmādādityaḥ ṣaṇmāso dakṣiṇenaiti ṣaḍuttareṇopayāmagṛhīto 'si sagṃ-*
+> *sarpo 'syagṃ haspatyāyatvetyāhāsti trayodaśo māsa ityāhustameva*
+> *tatprīṇāti ‖ (tai. saṃ. 6-5-3)*
+
+In the past the gods performed a sacrifice and went by it to the world of heaven. Afterwards they thought: "Men too will perform sacrifice as we do, follow us, and come after us to the world of heaven. We must prevent their coming." So they barred the way with the year and went to heaven. Even so the sages found it out by means of the Ṛtu-vessels the gods had left behind. A year has twelve months; therefore twelve Ṛtu-vessels are to be taken. If this is done, the nature of the year is known and the world of heaven is gained. The first two Ṛtu-vessels are taken together, and likewise the last two; therefore the Ṛtus go in pairs of two months. The Ṛtu-vessel has a mouth on both sides. Who knows this? He recites the Praiṣa mantra for the Ṛtus six times, because the Ṛtus are six; thereby he pleases the Ṛtus. Then he recites the mantras for the Ṛtus four times; thereby he pleases the four-footed animals. Then by reciting the mantra for the Ṛtus twice, he pleases the two-footed beings (men)
+
+*The supplied text of this window ends here, in the middle of a sentence ("… pleases the two-footed (human) beings"); the passage continues on p. 308 (next window).*
+
 ---
 
-**Progress note:** Done through printed p. 304 (PDF 304). Sūkta 36 Ṛk 6 Special Topics end (pp. 301-302), Sūkta 36 and Adhyāya 7 colophons, p. 303 Adhyāya 8 title page, Sūkta 37 introduction (bhāṣya and Anuvāda, pp. 303-304); kn.md fixes: p. 303 marker inserted by hand (break between 302/303 placed before '1 Maṅgaḷaṃ' by guess), colophon/mangala verses made blocks, Anuvāda unquoted, stray lines 'ಪಿ ರ್ ಱ ಕ / 485' kept as note, Devanagari Om sign written ಓಂ; Sūkta 37 Ṛk 1 starts on p. 305
+**Progress note:** Done through printed p. 307 (PDF 307). pp. 305-307: Sūkta 37 introduction continued, note on the six Ṛtus and Ṛtuyāja with Taittirīya quotations; text breaks mid-sentence at end of p. 307 (Brāhmaṇa passage continues on p. 308); Ṛk 1 not yet reached; kn.md fixes: prose unquoted, Sanskrit quotations split into 6 blocks, stray signature digit '20' removed (noted); 'ಕೃ. ಸಂ.' as supplied
