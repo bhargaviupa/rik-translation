@@ -34123,6 +34123,106 @@ Having repelled revilers, and(dispersed) the darkness, you stand, Brihaspati, on
 
 In these Ṛks the word गोत्रभित् (*gotrabhit*) is used as an epithet of Indra in the sense "he who cleaves the cloud (with the thunderbolt)".
 
+### Printed p. 920
+
+*(Header: "920 Sāyaṇa-bhāṣya-sahitā [Maṃ. 2. A. 3. Sū. 23]", as supplied.)*
+
+#### Ṛk 4
+
+*(Sūkta 23, Ṛk 4; deity Bṛhaspati. The Ṛk number is not printed after the Saṃhitā in the supplied text; the Pada begins with a stray garbled label, removed in the Kannada text. Slips as supplied: Pada अ०हः (*a0haḥ*) with a zero for the anusvara; मन्युमीः (*manyumīḥ*) in the Pada against मन्युमीर् (*manyumīr*) in the bhāṣya.)*
+
+**॥ संहितापाठः ॥**
+
+> सु॒नी॒तिभि॑र्नयसि॒ त्राय॑से॒ जनं॒ यस्तुभ्यं॒ दाशा॒न्न तमंहो॑ अश्ववत् ।
+> ब्र॒ह्म॒द्विष॒स्तप॑नो मन्यु॒मीर॑सि॒ बृह॑स्पते॒ महि॒ तत्ते॑ महित्व॒नं॥
+
+**॥ पदपाठः ॥**
+
+> सुनीतिभिः । नयसि । त्रायसे । जनं । यः । तुभ्यं । दाशात् । न । तं । अ०हः ।
+> अश्ववत् ।
+> ब्रह्मद्विषः । तपनः । मन्युमीः । असि । बृहस्पते । महि । तत् । ते । महित्वनं ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते सुनीतिभिः! शोभनं नीतयो येषु ते सुनीतयः सन्मार्गाः ।
+> तैर्जनं नयसि । अपेक्षितफलं प्रापयसि । त्रायसे । जनमासद्भ्यो रक्षसि च । यो
+> यजमानस्तुभ्यं हविर्लक्षणमन्नं दाशात् प्रयच्छेत् ॥ दाश्य दाने । लेट्यडागमः ॥
+> तमंहः पापं पापरूपं दारिद्रं वा नाश्ववत् । न प्राप्नुयात् ॥ अश्नोतेर्लेटि
+> व्यत्ययेन परस्मैपदं । आडागमः ॥ ब्रह्मद्विषो ब्राह्मणानां मंत्राणां वा द्वेष्टु-
+> स्तपनस्तापकोऽसि । किंच मन्युमीर्मन्योः क्रोधस्य परेषां ज्ञानस्य वा हिंस-
+> कोऽसि ॥ मीज् हिंसायां । क्विप् ॥ ते तव तत्तादृशं महि महत् प्रभूतं महि-
+> त्वनं माहात्म्यमस्ति ॥
+
+*Gist: Bṛhaspati leads people by good ways, protects them, keeps sin and poverty from his worshipper, torments the haters of Brahmins or mantras and destroys wrath or the knowledge of others. The grammatical tail is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+बृहस्पते (बृहस्पते (*bṛhaspate*))—O Bṛhaspati. सुनीतिभिः (सुनीतिभिः (*sunītibhiḥ*))—by good ways (by good instructions). जनं (जनं (*janaṃ*))—the people. नयसि (नयसि (*nayasi*))—thou leadest. त्रायसे (त्रायसे (*trāyase*))—thou protectest (from calamity). यः (यः (*yaḥ*))—which sacrificer. तुभ्यं (तुभ्यं (*tubhyaṃ*))—to thee. दाशात् (दाशात् (*dāśāt*))—may offer food in the form of the oblation. तं (तं (*taṃ*))—him. अंहः (अंधः (*aṃdhaḥ*) [sic], as supplied)—sin or poverty. न अश्वत् (न अश्वत् (*na aśvat*))—does not approach (does not cling). ब्रह्मद्विषः (ब्रह्मद्विषः (*brahmadviṣaḥ*))—to him who hates the mantras. तपनः (तपनः (*tapanaḥ*))—as the burner. असि (असि (*asi*))—thou art. मन्युमीः (मन्युमीः (*manyumīḥ*))—thou punishest wrath. तत् (तत् (*tat*))—such. ते (ते (*te*))—thy. महि (महि (*mahi*))—exceeding. महित्वनं (महित्वनं (*mahitvanaṃ*))—greatness is. *(The supplied Pratipadārtha has no closing mark.)*
+
+### Printed p. 921
+
+*(Header: "[A. 2. A. 6. V. 29] Ṛgveda-saṃhitā 921", as supplied.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, by good instructions thou leadest men into the good way. Thou protectest them from calamity. Sin does not cling to the sacrificer who offers thee food in the form of the oblation. Thou burnest the hater of mantras. Thou punishest wrath. This is thy exceeding greatness. *(The supplied text has "ಮಾನವವರನ್ನು" with a doubled syllable.)*
+
+**Printed English translation**
+
+You lead men, Brihaspati, by virtuous instructions; you preserve them(from calamity): sin will never overtake him who presents(offerings) to you: you are the afflicter of him who hates(holy) prayers; you are the punisher of wrath: such is your great mightiness.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*(The supplied text prints the heading as विशेषविवरगळु (*viśeṣavivaragaḷu*) and runs it on directly after the English.)*
+
+*aṃhaḥ*—अंहः—पापं पापरूपं दारिद्र्यं वा (*aṃhaḥ—pāpaṃ pāparūpaṃ dāridryaṃ vā*): sin, or poverty, which is the fruit of sin. There is a nirvacana (etymological explanation): अंहतिश्चांहश्चांहुश्च हंतेर्निरूढोपदाद्विपरीतात् (*aṃhatiścāṃhaścāṃhuśca haṃternirūḍhopadādviparītāt*) (Ni. 4-25); that is, the three words aṃhatiḥ, aṃhaḥ and aṃhuḥ are all formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*) ("han, to strike, to go"). The suffix a that makes a noun from the root (as in nam + a = nama, with the closing bracket missing in the supplied text) is by inversion (vyatyasta) added not after the root but before it, that is, at the beginning of the word, and so these words arise. All three words are used in the sense of sin.
+
+न तमंहो न दुरितं देवासो अष्ट मर्त्यं । (*na tamaṃho na duritaṃ devāso aṣṭa martyaṃ |*) (Ma. Saṃ. 10-26-1, abbreviation "ಮ. ಸಂ." as supplied)
+
+स तूताव नैनमश्नोत्यंहतिरग्ने सख्ये मा रिषाम वयं तव । (*sa tūtāva nainamaśnotyaṃhatiragne sakhye mā riṣāma vayaṃ tava |*) (Ṛ. Saṃ. 8-94-2)
+
+आ पोऽर्वाची सुमतिर्वव्यत्यादंहोश्चिद्या वरिपोवित्तरासत् । (*ā po 'rvācī sumatirvavyatyādaṃhościdyā varipovittarāsat |*) (Ma. Saṃ. 1-107-1, abbreviation as supplied)
+
+In these Ṛks the words aṃhaḥ, aṃhatiḥ and aṃhuḥ are used, respectively, in the sense of sin. *(Supplied text: the words are printed with a zero for the anusvara, "ಅ೦ಹಃ, ಅ೦ಹತಿಃ, ಅ೦ಹುಃ".)*
+
+*brahmadviṣaḥ*—ब्राह्मणानां मंत्राणां वा द्वेष्टुः (*brāhmaṇānāṃ maṃtrāṇāṃ vā dveṣṭuḥ*): of him who hates Brahmins or mantras is the meaning. The word brahma is used in the sense of food and also in the sense of mantra.
+
+### Printed p. 922
+
+*(Header: "922 Sāyaṇa-bhāṣya-sahitā [Maṃ. 2. A. 3. Sū. 25]", as supplied; the Sūkta number is printed 25 against 23 elsewhere.)*
+
+In this Ṛk the many kinds of greatness of Bṛhaspati are described. Bṛhaspati instructs the people well, makes them perform good works such as sacrifices, and makes them walk in the good way. He protects the people from calamity, that is, from troubles. No sin or poverty comes to the sacrificer who offers the oblation to Bṛhaspati in sacrifices and the like. He punishes those who hate the mantras, that is, the asuras or wicked people. He destroys the bad quality called wrath, or spoils the minds of enemies. The sage describes in this Ṛk that to be endowed with qualities of this kind is Bṛhaspati's greatness. *(Supplied slip: "ಶವಿಸ್ಸನ್ನು" for हविस्सन्नु (*havissannu*) "oblation"; "ದುರ್ಗಣ" for "durguṇa" as supplied.)*
+
+#### Ṛk 5
+
+*(Sūkta 23, Ṛk 5; deity Bṛhaspati, here addressed as Brahmaṇaspati. The supplied text has the label garbled; the Saṃhitā begins न तनुंहो (*na tanuṃho*) where the Pada and bhāṣya have न तं अ०हः (*na taṃ a0haḥ*) ; the Pada has दुःइतं (*duḥitaṃ*), आस्मात् (*āsmāt*) and ध्वरसः (*dhvarasaḥ*); all as supplied. The Kannada text restores the labels.)*
+
+**॥ संहितापाठः ॥**
+
+> न तनुंहो॒ न दु॑रि॒तं कुत॑श्च॒न नारा॑तयस्तितिरु॒र्न द्व॑या॒विनः॑ ।
+> विश्वा॒ इद॑स्माद्व॒रसो॒ वि बा॑धसे॒ यं सु॑गो॒पा रक्ष॑सि ब्रह्मणस्पते ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> न । तं । अ०हः । न । दुःइतं । कुतः । चन । न । अरातयः । तितिरुः । न । द्वयाविनः ।
+> विश्वाः । इत् । आस्मात् । ध्वरसः । वि । बाधसे । यं । सुगोपाः । रक्षसि । ब्रह्मणः ।
+> पते ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते सुगोपाः सुष्टु पालयित. त्वं यं जनं रक्षसि पालयिसि तं
+> जनमंह आहंतव्यं दुःखं न बाधते । दुरितं तत्कारणं पापं च न बाधते । अरा-
+> तयो हिंसकास्तं जनं कुतश्चन सर्वासु दिक्षु न तितिरुः ॥ तिरतिर्हिंसाकर्मा । लिट् ॥
+> न हिंसंति । कथा द्वयाविनः । मनस्यन्यत्क्रियायां चान्यदित्येतद्वयुं येषामस्ति
+> ते द्वयाविनो वंचकाः । तेऽपि तं जनं न बाधंते । किंच ध्वरसो हिंसिका विश्वाः
+> सर्वाः सेनास्तदर्थं विबाधसे । विशेषेण बाधस एव ॥
+
+*Gist: Brahmaṇaspati, the good protector, keeps suffering, sin, foes and deceivers away from the man he guards, and repels all hostile hosts. The grammatical tail is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ब्रह्मणस्पते (ब्रह्मणस्पते (*brahmaṇaspate*))—O Brahmaṇaspati. सुगोपाः (सुगोपाः (*sugopāḥ*))—thou, the excellent protector. यं (यं (*yaṃ*))—which man. रक्षसि (रक्षिसि (*rakṣisi*) [sic], as supplied)—thou protectest. तं (तं (*taṃ*))—that man. अंहः (अंधः (*aṃdhaḥ*) [sic], as supplied)—मुक्खवु (*mukkhavu*) [sic] *(the Pratipadārtha breaks off here at the end of printed p. 922; the word as supplied is doubtful, probably an OCR slip, and is not translated)*.
+
 ---
 
-**Progress note:** Done through printed p. 919 (PDF 919). Sukta 23 Rik 2 Special Topics (pracetasah, usra); Rik 3 complete with printed English and Special Topics (parirapah, gotrabhid)
+**Progress note:** Done through printed p. 922 (PDF 922). Sukta 23 Rik 4 complete (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English, Special Topics: amhah, brahmadvishah); Rik 5 opened (Samhita, Pada, bhashya, Pratipadartha begun)
