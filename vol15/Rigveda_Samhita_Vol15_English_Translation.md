@@ -5742,6 +5742,82 @@ I call the deity called "Rākā", who is worthy of an excellent invocation, with
 
 I invoke, with suitable praise, Raka, who is worthily invoked : may she, who is auspicious of good fortune, hear us, and spontaneously
 
+### Printed p. 186
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 3, Sūkta 32, p. 186.*
+
+understand (our purpose): may she sew her work with an infallible needle : may she grant us excellent and opulent descendants.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the sacrifice called Patnīsaṃyāja, before the offering to the Gṛhapati, offerings are to be made to the deities Rākā and Sinīvālī. Then, in the Rākā sacrifice, the first Ṛk of this sūkta, राकामहं (*rākāmahaṃ*), and the second Ṛk, यास्ते राके (*yāste rāke*), are used as the Yājyā and Puronuvākyā mantras, as expounded by the Āśvalāyana Śrauta-sūtra in the sūtra राकामहं सिनीवालि कुहू-महमिति द्वे द्वे याज्यानुवाक्ये (*rākāmahaṃ sinīvāli kuhū-mahamiti dve dve yājyānuvākye*) (Ā. 1-10); and in the mantras having the Maruts as deity these Ṛks are to be used as Dhāyyā mantras, as expounded by the Āśvalāyana Śrauta-sūtra in the sūtra राकामहमिति द्वे (*rākāmahamiti dve*) (Ā. 5-20).
+By this Ṛk and the next one the goddess Rākā is praised.
+Rākā: the full-moon night. The night that has the full moon is commonly called Pūrṇimā; this is what is called Rākā. सुहवां सुष्टुती अहं हुवे (*suhavāṃ suṣṭutī ahaṃ huve*): it is said that I call her who is well-called, i.e. who brings about the fulfilment of invocations, with excellent praise; as this goddess fulfils the wishes of those who call her, the sacrificer invokes her with excellent praise.
+The word सुभगा (*subhagā*) is taken to mean one who has excellent wealth: may this goddess who has excellent wealth hear the sacrificer's invocation, and having heard it, त्मना बोधतु (*tmanā bodhatu*), may she of herself understand the purpose for which the sacrificer has invoked her; and अपः सूच्या अच्छिद्यमानया सीव्यतु (*apaḥ sūcyā acchidyamānayā sīvyatu*), may she so favour us that the sacrificer's line is not broken. वीरं शतदायं उक्थं पुत्रं ददातु (*vīraṃ śatadāyaṃ ukthaṃ putraṃ dadātu*): the wish is expressed that she grant a son who is valiant, possessed of abundant wealth or giving abundantly, and praiseworthy.
+अपः सूच्या अच्छिद्यमानया सीव्यतु (*apaḥ sūcyā acchidyamānayā sīvyatu*)—the bhāṣya says: पुत्रोत्पादनलक्षणं कर्म सूचीस्थानीयया अविच्छन्नया अनुग्रहबुद्धा संतनोतु । यथावस्त्रादिकं सूच्यास्यतं चिरं तिष्ठति एवमिदं करोतु (*putrotpādanalakṣaṇaṃ karma sūcīsthānīyayā avicchannayā anugrahabuddhā saṃtanotu | yathāvastrādikaṃ sūcyāsyataṃ ciraṃ tiṣṭhati evamidaṃ karotu*). The word अपः (*apaḥ*) has been read by Yāska among the names of action (Ni. 3-2). Here its meaning is explained as the action consisting of the begetting of sons. The meaning is explained thus: through the favour of the goddess Rākā, as a garment stitched with a needle remains firm for a long time, so may our line, by the birth of sons, remain firm for a long time.
+
+### Printed p. 187
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 15, Ṛgveda-saṃhitā, p. 187.*
+
+The author of the Nirukta, in explaining the word राका (*rākā*), cites this very Ṛk (Ni. 11-32); gives the derivation राका—रातेर्दान कर्मणः (*rākā—rāterdāna karmaṇaḥ*), and then explains the Ṛk राकामहं सुह्वानां सुष्टुत्या-ह्वये शृणोतुनस्सुभगा बोधत्वात्मना सीव्यत्वपः प्रजननकर्म सूच्याच्छिद्यमानया। सूची सीव्यतेः ददातु वीरं शतप्रदमुक्थं व्यक्तव्यप्रशंसं (*rākāmahaṃ suhvānāṃ suṣṭutyā-hvaye śṛṇotunassubhagā bodhatvātmanā sīvyatvapaḥ prajananakarma sūcyācchidyamānayā| sūcī sīvyateḥ dadātu vīraṃ śatapradamukthaṃ vyaktavyapraśaṃsaṃ*) in the same way as the bhāṣyakāra has explained it.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> यास्ते॑ राके सुम॒तयः॑ सु॒पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि ।
+> ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रपो॒षं सु॑भगे॒ ररा॑णा॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> याः । ते । राके । सुमतयः । सुपेशसः । याभिः । ददासि । दाशुषे । वसूनि ।
+> ताभिः । नः । अद्य । सुमनाः । उपआगहि । सहस्रपोषं । सुभगे । रराणा ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे राके देवि सुपेशसः शोभनरूपास्ते तव याः सुमतयः शोभनबु-
+> द्धयः याभिर्मतिभिर्दाशुषे हविर्दत्तवते यजमानाय वसूनि धनानि ददासि ।
+> प्रयच्छसि । अद्येदानीं ताभिर्मतिभिः सहिता त्वं सुमनाः शोभनमना भूत्वापा-
+> गहि । उपागच्छ ॥ गमेश्चांदसः शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिक-
+> लोपः । असिद्धवदत्राभादित्यस्यासिद्धत्वाद्देर्लुगभावः ॥ किं कुर्वती । हे सुभगे
+> शोभनधने सहस्रपोषं सहस्रसंख्याकस्य धनस्य पुष्टिं रराणा ददती ॥ रा दाने ।
+> व्यत्ययेन शानच् । छांदसः शपः श्लुः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥
+
+*Gist:* O goddess Rākā, with the good intentions with which you give wealth to the offerer, come to us today with good mind, bestowing a thousand-fold increase of wealth. The tail explains the verb forms *upāgahi* and *rarāṇā*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुभगे (*subhage*)—one with excellent wealth. राके (*rāke*)—O goddess Rākā. सुपेशसः (*supeśasaḥ*)—of excellent form. ते (*te*)—your. याः सुमतयः (*yāḥ sumatayaḥ*)—which auspicious intentions there are. याभिः (*yābhiḥ*)—by which very benevolent intentions. दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblation.
+
+### Printed p. 188
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 3, Sūkta 32, p. 188.*
+
+वसूनि (*vasūni*)—wealth. ददासि (*dadāsi*)—you give. अद्य (*adya*)—now. नः (*naḥ*)—in our regard. ताभि (*tābhi*)—with those very intentions. सुमनाः (*sumanāḥ*)—having an auspicious mind. सहस्रपोषं (*sahasrapoṣaṃ*)—increase of wealth numbering a thousand. रराणा (*rarāṇā*)—giving. उपागहि (*upāgahi*)—be gracious (come).
+
+**भावार्थ (Bhāvārtha)**
+
+O goddess Rākā, who have excellent wealth, with those auspicious intentions of yours, of excellent form, and with those very kindly intentions by which you give wealth to the sacrificer who offers oblation, now in our regard, with the same intentions, being of auspicious mind and giving an increase of wealth numbering a thousand, be gracious.
+
+**Printed English translation**
+
+Raka, with those your kind and gracious intentions, wherewith you grant riches to the donor (of oblations), approach us to-day; you who are auspicious of good fortune, favourably inclined, and bestowing a thousand blessings.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing this goddess by the words हे राके (*he rāke*), in याभिः दाशुषे यजमानाय वसूनि ददासि, अद्य ताभिः सुमनाः उपागहि—याभिः मतिभिः हविर्दत्तवते यजमानाय धनानि प्रयच्छसि ताभिः मतिभिः सहिता त्वं शोभनमना भूत्वा उपागच्छ (*yābhiḥ dāśuṣe yajamānāya vasūni dadāsi, adya tābhiḥ sumanāḥ upāgahi—yābhiḥ matibhiḥ havirdattavate yajamānāya dhanāni prayacchasi tābhiḥ matibhiḥ sahitā tvaṃ śobhanamanā bhūtvā upāgaccha*) the prayer is made that, since this goddess is of a benevolent mind towards those who perform sacrifice addressed to her, she come to our sacrificial hall, accompanied by the kind intention that brings welfare to the sacrificers who offer oblations to her, in order to bestow wealth. And of सुभगे सहस्रपोषं रराणा—शोभनधने सहस्रसंखातस्य धनस्य पुष्टिं ददती (*subhage sahasrapoṣaṃ rarāṇā—śobhanadhane sahasrasaṃkhātasya dhanasya puṣṭiṃ dadatī*): since this goddess has abundant wealth she is addressed by the word सुभगे (*subhage*), and she will bestow on those who serve her the increase (abundance), the prosperity, of wealth numbering thousands; thus the generosity of this goddess is also described.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑ ।
+> जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्डि नः ॥ ६ ॥
+
+> *sinīvāli pṛthuṣṭuke yā devānāmasi svasā |*
+> *juṣasva havyamāhutaṃ prajāṃ devi didiḍḍi naḥ ‖ 6 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 185 (PDF 185). Sūkta 32 Ṛk 3 finished; Ṛk 4 (Rākā) Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha; printed English cut at p. 185 end (continues). Flags as supplied: ಉಕ್ಷ್ಯಂ (Pratipadārtha) vs ಉಕ್ತ್ಯಂ (Saṃhitā) vs ವೋಕ್ಷ್ಯಂ (bhāṣya), ಸುಷ್ಟತೀ in bhāṣya, Pada ಅಚ್ಛೈದ್ಯಮಾನಯಾ vs Saṃhitā ಅಚ್ಛಿದ್ಯ; Ṛk 4 number inferred (garbled label '೧ ಸಹಿತಾಪಾತು' replaced by standard label, stray ೧ removed); accent DIFF 2
+**Progress note:** Done through printed p. 188 (PDF 188). Sūkta 32 Ṛk 4 printed English and Special Topics finished; Ṛk 5 (Rākā) complete; Ṛk 6 (Sinīvālī) Saṃhitā only (continues p. 189). kn.md: stray 'This image…' line and ॥ śrīrāmacandrāya namaḥ ॥ line removed, Ṛk 6 Saṃhitā given label/block; Pratipadārtha Ṛk 5 starts at p. 187 end; accent DIFF 1 (Ṛk 6)
