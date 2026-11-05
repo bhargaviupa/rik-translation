@@ -15464,6 +15464,102 @@ O kapiñjala bird, you sing as the Udgātṛ sings the Sāma; as the Brāhmaṇ�
 
 You sing, Bird, like the Udgatri chanting the Sama : you murmur like the Brahmaputra at sacrifices : like a horse (nighing) when
 
+### Printed p. 488
+
+*[Running head, p. 488: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 43.]*
+
+approaching a mare, you proclaim (aloud) to us good fortune from every quarter : proclaim aloud prosperity to us from every direction.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk what was said in the preceding Ṛk is said again in another way, with another illustration.
+
+शकुने साम उद्गातेव गायसि (*śakune sāma udgāteva gāyasi*)—O omen-bird, as the priest called Udgātṛ sings the Sāma in the sacrifice in a soft and sweet manner, so sing with a gentle sound, soft and pleasant to hear.
+
+ब्रह्मपुत्र इव शंससि (*brahmaputra iva śaṃsasi*)—as the priest called Brāhmaṇācchaṃsin recites the *śastra* mantras, so you too utter, following the law of the season, a beneficial sound. Here the duty of the priest called Udgātṛ in the sacrifice is to sing the Sāma. The duty of the Hotṛ and the Brāhmaṇācchaṃsin is to recite the *śastra* mantras. Therefore the Udgātṛ must have studied the Sāma Veda, and the Hotṛ and the Brāhmaṇācchaṃsin the Ṛgveda. Being so, the Udgātṛ sings clearly and sweetly the mantras of his own Veda, the Sāma Veda. The Hotṛ and the Brāhmaṇācchaṃsin recite the *śastra* mantras audibly, using the Ṛgveda mantras of their own Veda. Therefore two kinds of illustration are stated here: as the Udgātṛ and the Brāhmaṇācchaṃsin recite audibly (or sing) the mantras.
+
+वृषेव वाजी शिशुमतीः अपीत्य वद (*vṛṣeva vājī śiśumatīḥ apītya vada*)—⟦ಸೇಚನಸಮರ್ಥೋಽಶ್ವಃ ಶಿಶುಮತೀಃ ವಡವಾಃ
+ಅಭಿಗತ್ಯ ಯಥಾ ಹರ್ಷಸೂಚಕಂ ಶಬ್ದಂ ಕರೋತಿ ತಥಾ ತ್ವಮಪಿ ವದ ।⟧ Of the generatively capable: as a young stallion, approaching a mare, makes a sound indicating joy, so you too make a sound of joy. Pointing out yet another illustration, the sage Gṛtsamada prays to the kapiñjala bird that good fortune come to us everywhere and that it make a sound of joy.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> आ॒वदं॒स्त्वं श॑कुने भ॒द्रमा व॑द तू॒ष्णीमासी॑नः सुम॒तिं चि॑किद्धि नः ।
+> यदु॒त्पत॒न्वद॑सि कर्क॒रिय्य॑था बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ३ ॥
+
+> *āvadaṃstvaṃ śakune bhadramā vada tūṣṇīmāsīnaḥ sumatiṃ cikiddhi naḥ |*
+> *yadutpatanvadasi karkariyyathā bṛhadvadema vidathe suvīrāḥ ‖ 3 ‖*
+
+### Printed p. 489
+
+*[Running head, p. 489: Aṣṭaka 2, Adhyāya 8, Varga 12, Ṛgvedasaṃhitā.]*
+
+*[The supplied text has before the Pada a garbled line "॥ ಜದಶಾಹಿ ॥" (perhaps for the label Pada-pāṭha), kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> आवदन् । त्वं । शकुने । भद्रं । आवद । तूष्णीं । आसीनः । सुमतिं । चिकिद्दि । नः ।
+> यत् । उत्पतन् । वदसि । कर्करिः । यथा । बृहत् । वदेम । विदथे । सुवीराः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> शकुने हे कपिंजल आवदन् शब्दं कुर्वंस्तं भद्रमावद । मंगलं वद ।
+> तूष्टीमासीनस्तूष्टीं तिष्ठन्नपि नोऽस्माकं सुमतिं चिकिद्धि । बुध्यस्व । यद्यदोत्पतन्
+> वदसि तदा कर्करिर्यथा कर्करिरिव वदसि । कर्करिवार्दविशेषः । अन्यद्वाख्यातचरं ॥
+
+*(Gist: O kapiñjala bird, crying, speak auspiciously; sitting silent, take thought for our good; when flying you sing like a Karkari lute. The bhāṣya and Pratipadārtha spell the word for "silently" with ṣṭ where the Pada has ṣṇ, as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śakune: O kapiñjala bird. Āvadan: making a sound. Tvaṃ: you. Bhadraṃ: welfare. Ā vada: utter. Tūṣṭīṃ āsīnaḥ [printed so]: sitting without sound, silent. Naḥ: with regard to us. Sumatiṃ: the wish that good may come. Cikiddhi: think. Yat: when. Utpatan: flying. Vadasi: you sing (then). Karkariḥ yathā: let your song be sweet like the Karkari instrument (a lute). Suvīrāḥ: we with excellent sons. Vidathe: in the sacrificial hall. Bṛhat: copious praise. Vadema: shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O kapiñjala bird, as you make a sound, utter welfare. When you sit silent, wish for our good. When flying and singing, let your voice be sweet like the Karkari instrument. In the sacrificial hall we shall recite your praise, describing your qualities, together with our good sons.
+
+**Printed English translation**
+
+When uttering your cry, O, Bird, proclaim good fortune : when sitting silently, cherish kind thoughts towards us : when you cry as you are flying, let the sound be like that of a lute : so that, blessed with excellent descendants, we may worthily praise you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शकुने आवदन् त्वं भद्रं आ वद (*śakune āvadan tvaṃ bhadraṃ ā vada*)—O kapiñjala bird, whenever you make a sound, utter only a sound auspicious for us.
+
+### Printed p. 490
+
+*[Running head, p. 490: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 43.]*
+
+तूष्णीं आसीनः नः सुमतिं चिकिद्दि (*tūṣṇīṃ āsīnaḥ naḥ sumatiṃ cikiddi*)—when sitting without making a sound, express your wish that good come to us; that is, wish that good may come to us.
+
+यत् उत्पतन् वदसि कर्करिः यथा (वदसि) (*yat utpatan vadasi karkariḥ yathā (vadasi)*)—if you make a sound while flying about, sing sweetly, as the special instrument called कर्करि (*karkari*) gives out a pleasant sound.
+
+सुवीराः विदथे बृहत् वदेम (*suvīrāḥ vidathe bṛhat vadema*)—together with our sons and grandsons, we shall recite abundantly in this sacrifice mantras in the form of singing your qualities.
+
+There are some Pariśiṣṭa mantras belonging to this sūkta. These Pariśiṣṭa mantras are recited as regular mantras in other branches; here alone they are regarded as Pariśiṣṭa mantras. They generally contain prayers made praising the deities of the respective sūktas. There is a custom of reciting them at the end of this maṇḍala. And at the end of the 32nd sūkta of this maṇḍala there are also Pariśiṣṭa mantras addressed to the deities Kuhū and Sinīvālī. Since the maṇḍala has come to an end, we shall explain those Pariśiṣṭa mantras and their main intent here.
+
+**At the end of the 32nd sūkta of the Second Maṇḍala, the Khila (Pariśiṣṭa) mantras to be recited.**
+
+Seer: हिरण्यगर्भः (*hiraṇyagarbhaḥ*). Deity: 1-2 कुहूः (*kuhūḥ*); 3-4 अनुमतिः (*anumatiḥ*); 5-8 धाता (*dhātā*). Metre: 1, 2, 3, 4, 8 त्रिष्टुप् (*triṣṭup*); 5 गायत्री (*gāyatrī*); 2, 4, 7 अनुष्टुप् (*anuṣṭup*) (as printed).
+
+> कुहूमहं सुवृतं विद्मनापसमस्मिन् यज्ञे सुहवां जोहवीमि ।
+> सा नो ददातु श्रवणं पितृणां तस्यै ते देवि हविषा विधेम ॥ १ ॥
+> कुहूर्देवानाममृतस्य पत्नि हव्या नो अस्य हविषः शृणोतु ।
+> सं दाशुषे किरतु भूरि वामं रायस्पोषं यजमाने दधातु ॥ २ ॥
+> अनु नोऽद्यानुमतिर्यज्ञं देवेषु मन्यतां ।
+> अग्निश्च हव्यवाहनो भवतं दाशुषे मयः
+> अन्विदनुमते त्वं मन्यास्मै शं च नस्कृधि ।
+> क्रत्वे दक्षाय नो हिनु प्रण आयूषि तारिसत्
+
+> *kuhūmahaṃ suvṛtaṃ vidmanāpasamasmin yajñe suhavāṃ johavīmi |*
+> *sā no dadātu śravaṇaṃ pitṛṇāṃ tasyai te devi haviṣā vidhema ‖ 1 ‖*
+> *kuhūrdevānāmamṛtasya patni havyā no asya haviṣaḥ śṛṇotu |*
+> *saṃ dāśuṣe kiratu bhūri vāmaṃ rāyaspoṣaṃ yajamāne dadhātu ‖ 2 ‖*
+> *anu no 'dyānumatiryajñaṃ deveṣu manyatāṃ |*
+> *agniśca havyavāhano bhavataṃ dāśuṣe mayaḥ*
+> *anvidanumate tvaṃ manyāsmai śaṃ ca naskṛdhi |*
+> *kratve dakṣāya no hinu praṇa āyūṣi tārisat*
+
 ---
 
-**Progress note:** Done through printed p. 487 (PDF 487). Sukta 43 Rik 1 complete (pp. 485-486); Rik 2 Samhita to Bhavartha (pp. 486-487), printed English begins and breaks off mid-sentence at 'like a horse (nighing) when'. Flags: Pada trastubham spelling as supplied; accent report 1 DIFF 1 NOMATCH; no closing lines yet
+**Progress note:** Done through printed p. 490 (PDF 490). Sukta 43 Rik 2 printed English and Special Topics finished (p. 488); Rik 3 complete (pp. 488-490); first Khila (Parisishta) mantras of Mandala 2 (Kuhu, Anumati) begin on p. 490 as a block and break off mid-mantra. No maṇḍala closing line yet. Flags: garbled line before Pada kept as note; tushti/tushni spellings as supplied; 1 accent DIFF
