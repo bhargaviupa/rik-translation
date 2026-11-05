@@ -19423,6 +19423,76 @@ In the present context the nature of this sacrifice, which is the means of worsh
 
 The gods worshipped the sacrifice with the sacrifice; this act in the form of worship became the chief supports of the forms and changes of the world: so, explaining the mantra in the Ṛgveda Saṃhitā, देवाः (*devāḥ*)
 
+### Printed p. 619
+
+*[Running head, p. 619: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+⟦ಪ್ರಜಾಪತಿಪ್ರಾಣರೂಪಾಃ । ಯಜ್ಞೇನ ಯಥೋಕ್ತಮಾನಸೇನ ಸಂಕಲ್ಪೇನ ಯಜ್ಞಂ ಯಥೋಕ್ತಯಜ್ಞಸ್ವರೂಪಂ ಪ್ರಜಾಪತಿಂ ಅಯಜಂತ ಪೂಜಿತವಂತಃ । ತಸ್ಮಾತ್ ಪೂಜನಾತ್ ತಾನಿ ಪ್ರಸಿದ್ಧಾನಿ ಧರ್ಮಾಣಿ
+ಜಗದ್ರೂಪವಿಕಾರಾಣಾಂ ಧಾರಕಾಣಿ ಮುಖ್ಯಾನ್ಯಾಸನ್ ॥⟧ The Prajāpati-breaths are what the word "gods" signifies. "By the sacrifice" means by a mental resolve; "the sacrifice" means the very Prajāpati who is of the form of the sacrifice, "they worshipped". This worship itself became the well-known acts that support the world. Thus the identity of Prajāpati and the sacrifice from one point of view, and the relation of cause and effect from another, are told. But in such a sacrifice, what are the nature and place of Agni, the banner of the sacrifice and the means of the vidatha? What is the relation of Vaiśvānara Agni, described in the present Ṛk, to the sacrifice, which is of the nature of dharma? To this—
+
+⟦ಉಭಯಗ್ಂ ಹೈತದ್ಭವತಿ ಪಿತಾ ಚ ಪುತ್ರಶ್ಚ ಪ್ರಜಾಪತಿಶ್ಚಾಗ್ನಿಶ್ಚಾಗ್ನಿಶ್ಚ ಪ್ರಜಾಪತಿಶ್ಚ
+ಪ್ರಜಾಪತಿಶ್ಚ ದೇವಾಶ್ಚ ದೇವಾಶ್ಚ ಪ್ರಜಾಪತಿಶ್ಚ ಯ ಏವಂ ವೇದ ।⟧
+(printed ಶ. ಬ್ರಾ. 6-1-2-27, i.e. Śat. Brā. 6-1-2-27)
+
+This principle of sacrifice (or of the universe) is twofold. It is of the nature of father and son. Prajāpati is the father of Agni, Agni is the father of Prajāpati (Śat. Brā. 6-1-2-26). Prajāpati is the father of the gods, the gods are the fathers of Prajāpati; thus there is a union of the father-and-son forms. ⟦ಸ ದಾಧಾರ
+ಪೃಥಿವೀಮುತ ದ್ಯಾಂ⟧ and य आत्मदा बलदाः (*ya ātmadā baladāḥ*) (Ṛ. Saṃ. 10-121-1, 2): that same Prajāpati (of the form of Hiraṇyagarbha) bore the whole universe in himself. By his self-sacrifice all creation became possible. All gods, men and the rest are under his rule, and so on. As is the description of that Prajāpati, so too—
+
+⟦ತಸ್ಯ ಹ ನಾ ಏತಸ್ಯಾತ್ಮನೋ ವೈಶ್ವಾನರಸ್ಯ ಮೂರ್ಧೈವ ಸುತೇಜಾ ಚಕ್ಷುರ್ವಿಶ್ವರೂಪಃ ಪ್ರಾಣಃ
+ಪೃಥಗ್ವರ್ತ್ವಾತ್ಮಾ ಸಂದೇಹೋ ಬಹುಲೋ ಬಸ್ತಿರೇವ ರಯಿಃ ಪೃಥಿವ್ಯೇವ ಪಾದಾವುರ
+ಏವ ವೇದಿರ್ಲೋಮಾನಿ ಬರ್ಹಿರ್ಹೃದಯಂ ; ಗಾರ್ಹಪತ್ಯೋ ಮನೋSನ್ವಾಹಾರ್ಯಪಚನ
+ಆಸ್ಯಮಾಹವನೀಯಃ ।⟧
+(printed ಛಾ. ಉ. 5-18-2, i.e. Chā. Up. 5-18-2)
+
+The radiant atmosphere is the head of the universal-souled Vaiśvānara; the Āditya of all forms is his eye (printed "ನೇತೃವು", leader). The wind of diverse paths is the breath; the wide-spread quarter is the body; the wealth of water is his inner treasury; the all-supporting earth is the feet; the sacrificial altar is the breast; the sacred grass is the hair; the Gārhapatya fire is the heart; the Anvāhāryapacana fire is the mind; the Āhavanīya fire is his mouth.
+
+⟦ಅಥ ಯ ಏತದೇವಂ ವಿದ್ವಾನಗ್ನಿಹೋತ್ರಂ ಜುಹೋತಿ ತಸ್ಯ ಸರ್ವೇಷು ಲೋಕೇಷು ಸರ್ವೇಷು
+ಭೂತೇಷು ಸರ್ವೆಷ್ವಾತ್ಮಸು ಹುತಂ ಭವತಿ ॥⟧
+(printed ಭಾ. ಉ. 5-24-2, apparently for Chā. Up.)
+
+### Printed p. 620
+
+*[Running head, p. 620: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+Thus the sacrificer who, knowing the universal and divine form of Vaiśvānara Agni, performs the Agnihotra is as one who has made the offering in all beings, in all worlds and in all selves: so Vaiśvānara Agni is described. As Prajāpati is described as ātmadāḥ and baladāḥ (giver of self, giver of strength), in the same way gods, men and others are able to uphold the law of the universe only through the sacrificial act of the nature of giving of self. In this respect all beings must follow the dharma of Prajāpati. Śruti sentences that state a rule and are told in the form of history show the pre-eminence of the sacrifice, which is of the nature of dharma.
+
+⟦ಅಥ ದೇವಾಃ । ಅನ್ನೋನ್ನಸ್ಮಿನ್ನೇವ ಜುಹ್ವತಶ್ಚೇರುಸ್ತೇಭ್ಯಃ ಪ್ರಜಾಪತಿರಾತ್ಮಾನಂ ಪ್ರದದೌ
+ಯಜ್ಞೋ ಹೈಷಾಮಾಸ ಯಜ್ಞೋ ಹಿ ದೇವಾನಾಮನ್ನಂ ॥ ಸ ದೇವೇಭ್ಯ ಆತ್ಮಾನಂ
+ಪ್ರದಾಯ । ಅಥೈತಮಾತ್ಮನಃ ಪ್ರತಿಮಾಮಸೃಜತ ಯದ್ಯಜ್ಞಂ ತಸ್ಮಾದಾಹುಃ ಪ್ರಜಾಪತಿರ್ಯಜ್ಞ ಇತ್ಯಾತ್ಮನೋ ಹ್ಯೇತಂ ಪ್ರತಿಮಾಮಸೃಜತ ।⟧
+(printed ಶ. ಬ್ರಾ. 11. ಗ. 8-2-3, as supplied: Śat. Brā. 11, with the intermediate letter as printed)
+
+The gods, showing mutual self-sacrifice, served one another. Prajāpati offered himself to them. Then the sacrifice fell to the share of the gods. Having offered himself to the gods, he created his representative, the sacrifice. Therefore it is well known that the universal-souled Prajāpati is the sacrifice and that the sacrifice is Prajāpati. As this sacrificial act, which is the governance of Prajāpati, was first undertaken by the gods, so the sacrificial act is also the duty of man. Otherwise man will not have kept the law of the universe.
+
+स यदेव यजेत। तेन देवेभ्य ऋणं जायते तिद्द्येभ्य एतत्करोति यदेनान्यजते यदेभ्यो जुहोति ॥ (*sa yadeva yajeta| tena devebhya ṛṇaṃ jāyate tiddyebhya etatkaroti yadenānyajate yadebhyo juhoti ‖*)
+(printed ಶ. ಬ್ರಾ, 1-7-2-2)
+
+The performance of sacrifice is the dharma ordained for man. He is indebted to the gods from creation. Therefore if he satisfies them by the sacrifice, he has kept his dharma. And so on. Thus it is told that the relation of all beings, gods, men and others, to the sacrifice, from Prajāpati the creator, and the relation of this whole universe through this sacrifice, is in a fixed state; that keeping this order of the universe is dharma; and that this dharma is in the form of sacrifice. To show that this dharma, like Prajāpati, has no beginning, the present Ṛk has the epithet sanatā.
+
+सर्वेषां वाएष भूतानाग्ं सर्वेषां देवानामात्मा ॥ (*sarveṣāṃ vāeṣa bhūtānāgṃ sarveṣāṃ devānāmātmā ‖*)
+(printed ಶ. ಬ್ರಾ. 14-3-2-1)
+
+### Printed p. 621
+
+*[Running head, p. 621: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+This sacrifice, of the nature of the law of the universe, is the self of all beings and the self of the gods. This is the self of the universe. Since it is also the support of the universe, in the present Ṛk it is called dharuṇa, that is, the upholder of the universe.
+
+To know the special meanings of the epithets dharuṇeṣu and sanatā dharmāṇi one must understand the subtle nature of the sacrifice still more clearly. As, by the epithets ātmadāḥ and baladāḥ, it is told that Prajāpati, by offering himself in the form of sacrifice, became the cause of the creation and maintenance of the universe, so the Śrutis praise the sacrifice, saying that it too, by its own offering, is the protector of the law of the universe.
+
+⟦ಅಥ ಯಸ್ಮಾದ್ಯಜ್ಞೋ ನಾಮ । ಘ್ನಂತಿ ವಾ ಏನಮೇತದ್ಯದಭಿಷುಣ್ವಂತಿ ತದ್ಯದೇನಂ
+ತನ್ವತೇ ತದೇನಂ ಜನಯಂತಿ ಸ ತಾಯಮಾನೋ ಜಾಯತೇ ಸ ಯನ್ ಜಾಯತೇ
+ತಸ್ಮಾದ್ಯಇತ್ತೋ ಯಇತ್ತೋ ಹ ವೈ ನಾಮೈತದ್ಯದ್ಯಜ್ಞ ಇತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ, 3-9-4-23)
+
+At the time of pressing, as the sacrifice is slain, the sacrifice is thereby offered. With the offering of soma it becomes spread out again at the time of carrying on the sacrifice. The slain sacrifice takes birth again and spreads. Since there is such a moving birth, the name yajña is famous: thus the nature of the sacrifice's self-sacrifice is also described. This very sacrifice is the protector and upholder of the universe. How? —
+
+⟦ಸ ಯದಗ್ನ್ ಜುಹೋತಿ । ತದ್ದೇವೇಷು ಜುಹೋತಿ ತಸ್ಮಾದ್ದೇವಾಃ ಸಂತ್ಯಥ ಯತ್ಸದಸಿ
+ಭಕ್ಷಯಂತಿ ತನ್ನನುಷ್ಯೇಷು ಜುಹೋತಿ ತಸ್ಮಾನ್ಮನುಷ್ಯಾಃ ಸನ್ತ್ಯಥ ಯದ್ಧವಿರ್ಧಾನಯೋರ್ನಾರಾಶಗ್‌ಂಸಾಃ ಸೀದಂತಿ ತತ್ಪಿತೃಷು ಜುಹೋತಿ ತಸ್ಮಾತ್ಪಿತರಃ ಸನ್ತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ. 3-6-2-25)
+
+The oblation offered in the fire reaches the gods. By that the gods are sustained. By the sacrificial sap drunk in the sadas, men are sustained. By the soma-drinking of the narāśaṃsa kind, the state of the fathers is sustained. Thus the sustenance of all, gods, men and others, is possible only through the sacrifice. That is why it is called by the word dharuṇa.
+
+That derivation (the supplied text prints "ಯನ್ ಜ (ಯಜ್ಞ) ಚಲಿಸುತ್ತಲೇ ಉತ್ಪನ್ನ ವಾಗುತ್ತದೆ") which shows that the sacrifice is born while moving, indicates the dharma of sacrifice; that same dharma tells of the creation and the maintenance of the universe. As the sacrifice is the upholder of all, gods, men and the rest, so their creation too is only through the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 618 (PDF 618). Sūkta 3 Pīṭhike ends; Sāyaṇa intro, Anuvāda, Ṛk 1 complete; Special Topics on dharuṇa/dharma begun; p. 616 head merged, fixed; accent DIFF logged
+**Progress note:** Done through printed p. 621 (PDF 621). Sūkta 3 Ṛk 1 Special Topics on dharuṇa/dharma/yajña: Śatapatha Brāhmaṇa and Chāndogya passages
