@@ -13416,6 +13416,122 @@ In this Ṛk Indra and Vāyu are invited for the drinking of soma.
 
 नियुत्वतः (*niyutvataḥ*)—those whose vehicles are the horses called नियुत् (*niyut*). Although only for Vāyu is the horse called नियुत् (*niyut*) the vehicle, both Indra and Vāyu are described as having the same vehicle. And instead of the dual form नियुत्वंतौ (*niyutvaṃtau*), नियुत्वतः (*niyutvataḥ*) is used, a change of case-ending.
 
+### Printed p. 417
+
+*[Running head, p. 417: Aṣṭaka 2, Adhyāya 8, Varga 7, Ṛgvedasaṃhitā.]*
+
+गवातिरः (*gavātiraḥ*) [as supplied; the Saṃhitā and bhāṣya have गवाशिरः (*gavāśiraḥ*)]—गव्यं पय आशीराश्रयणसाधनं यस्य तस्य । (*gavyaṃ paya āśīrāśrayaṇasādhanaṃ yasya tasya |*) गवाशिर (*gavāśira*) means the juice in which milk is mixed with the soma juice. To make the soma juice tasty, certain substances are mixed with it; these admixtures are called *āśira* substances. It is the custom to call it गवाशिर (*gavāśira*) if milk is mixed with the soma juice, दध्याशिर (*dadhyāśira*) if curds are mixed, and यवाशिर (*yavāśira*) if barley flour is mixed.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative graphic design consisting of three stylized, symmetrical shapes resembling flowers or leaves with pointed tips on each side." (an ornament), kept as a note.]*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अ॒यं नां॑ मित्रावरुणा सु॒तः सोम॑ ऋतावृधा ।
+> ममेदि॒ह श्रु॑तं॒ हवं॑ ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अयं । वां । मित्रावरुणा । सुतः । सोमः । ऋतवृधा ।
+> मम । इत् । इह । श्रुतं । हवं ॥ ४ ॥
+
+> *ayaṃ | vāṃ | mitrāvaruṇā | sutaḥ | somaḥ | ṛtavṛdhā |*
+> *mama | it | iha | śrutaṃ | havaṃ ‖ 4 ‖*
+
+*(The Saṃhitā reads नां (*nāṃ*) and ऋतावृधा (*ṛtāvṛdhā*) where the Pada reads वां (*vāṃ*) and ऋतवृधा (*ṛtavṛdhā*), as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> मित्रावरुणा हे मित्रावरुणौ वां युवाभ्यामयं सोमः सुतः । अभिषुतः।
+> ऋतावृधा हे सत्यस्य यज्ञस्य वा वर्धकौ ममेत् ममैव हवमाह्वानं श्रुतं ।
+> शृणुतं ॥
+
+*(Gist: O Mitra and Varuṇa, this soma is pressed for you; O increasers of truth or of the sacrifice, hear my invocation.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Mitrāvaruṇā: O Mitra and Varuṇa. Vāṃ: for you. Ayaṃ somaḥ: this soma juice. Sutaḥ: has been pressed. Ṛtāvṛdhā: O increasers of truth. Mam et havaṃ: my very invocation. Iha: in this sacrifice. Śrutaṃ: hear.
+
+**भावार्थ (Bhāvārtha)**
+
+O Mitra and Varuṇa, this soma juice has been pressed for you. O increasers of truth, hear in this sacrifice my very invocation.
+
+**Printed English translation**
+
+This libation is offered to you, Mitra and Varuna, cherishers of truth; hear, verily, this my present invocation.
+
+*[Stray line in the supplied text after the printed English: "27", kept as a note in kn.md.]*
+
+### Printed p. 418
+
+*[Running head, p. 418: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk and in the next two Ṛks Mitra and Varuṇa are besought and invited to come for the drinking of soma.
+
+ऋतावृधा (*ṛtāvṛdhā*)—सत्यस्य यज्ञस्य ना वर्धकौ । (*satyasya yajñasya nā vardhakau |*) The word ऋत (*ṛta*) has various meanings; we have explained them at length earlier. Here the commentator says that ऋत (*ṛta*) is an epithet describing the quality of Mitra and Varuṇa as those who increase truth or the sacrifice.
+
+इत् (*it*)—the short words कं ईं इत् उ (*kaṃ īṃ it u*) are used to fill out a pāda. In this matter Yāska says:
+
+अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति । (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti |*)
+(Ni. 1-9)
+
+He explains that the words कं ईं इत् उ (*kaṃ īṃ it u*) (particles) are used to complete a sentence in prose that is not in metre (*amitākṣara*), and to complete a pāda in metrical Ṛks or mantras (*mitākṣara*); therefore these words need have no definite meaning.
+
+*[Stray line in the supplied text: "-௨௰௪-" (Tamil numerals), kept as a note in kn.md.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> राजा॑ना॒वन॑भिद्रुहा ध्रु॒वे सद॑स्युत्त॒मे ।
+> स॒हस्र॑स्थूण आसाते ॥ ५ ॥
+
+*[The supplied text has before the Pada a garbled label "೧ ಪದಪಾಠ ೧", kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> राजानौ । अनभिद्रुहा । ध्रुवे । सदसि । उत्तमे ।
+> सहस्रस्थूणे । असाते इति ॥ ५ ॥
+
+> *rājānau | anabhidruhā | dhruve | sadasi | uttame |*
+> *sahasrasthūṇe | asāte iti ‖ 5 ‖*
+
+### Printed p. 419
+
+*[Running head, p. 419: Aṣṭaka 2, Adhyāya 8, Varga 7, Ṛgvedasaṃhitā.]*
+
+*[The supplied text has before the bhāṣya a garbled label "೪ ಸಾಯಣಭಾಷ್ಯಂ ೦ ೧", kept as a note in kn.md; a hyphenated line break was joined in the bhāṣya.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> राजानावीश्वरौ दीप्यमानौ वा अनभिद्रुहानभिद्रोग्दारौ यौ मित्रावरुणौ
+> ध्रुवे स्थिर उत्तम उत्कृष्टे सहस्रस्थूणे सदसि स्थान आसाते उपविशतः तावागच्छतमिति शेषः ॥
+
+*(Gist: the sovereign, non-injuring Mitra and Varuṇa sit in the firm, excellent hall of a thousand pillars; let them come.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Rājānau: lords of the world or radiant ones. Anabhidruhā: those who wish no harm, O Mitra and Varuṇa. Dhruve: in the firm. Uttame: excellent. Sahasrasthūṇe: furnished with a thousand pillars. Sadasi: in this sacrificial place. Āsāte: come and sit.
+
+**भावार्थ (Bhāvārtha)**
+
+O Mitra and Varuṇa, lords of the world, wishing no harm, come and sit in this firm, excellent sacrificial place furnished with a thousand pillars.
+
+**Printed English translation**
+
+Sovereigns, exercising no oppression, sit down in this substantial and elegant hall, (built) with a thousand columns.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+राजानौ (*rājānau*)—ईश्वरौ दीप्यमान् वा । (*īśvarau dīpyamān vā |*) Lords, or those who shine radiantly. In regard to Mitra and Varuṇa, the words राजाना (*rājānā*) and सम्राजा (*samrājā*) (in the next Ṛk) are explained by the commentator as आज्ञॆयैव सर्वॆषां शास्त्रारौ (*ājñèyaiva sarvèṣāṃ śāstrārau*)—those who rule all by their command alone, bringing them under rules. Besides, the sense of the words वरुणस्य व्रतानि (*varuṇasya vratāni*), "the laws of Varuṇa, which bind everyone", was explained earlier, where it was said that even Indra and the other deities cannot transgress them. For this reason also Mitra and Varuṇa may be addressed with the words राजाना (*rājānā*) and साम्राजा (*sāmrājā*).
+
+अनभिद्रुहा (*anabhidruhā*)—this word is used as an epithet of Mitra and Varuṇa. The intent is: those who wish no injury (evil) towards anyone.
+
+सहस्रस्थूणे (*sahasrasthūṇe*)—since this word is an epithet of सदसि (*sadasi*), it means a sacrificial house or assembly hall with thousands (many) of pillars.
+
 ---
 
-**Progress note:** Done through printed p. 416 (PDF 416). Sukta 41 Rik 1 Special Topics finished (p. 414); Rik 2 complete (pp. 414-415); Rik 3 through Special Topics (p. 416). Flags: garbled labels for Pada/Bhavartha/Pratipadartha of Rik 3 and 2 kept as notes; Nirukta ref printed Si. 7-28; 1 accent DIFF
+**Progress note:** Done through printed p. 419 (PDF 419). Sukta 41 Rik 3 Special Topics finished (p. 417); Rik 4 complete (pp. 417-418); Rik 5 complete (pp. 418-419). Flags: Rik 4 Samhita nam/rtavrdha vs Pada vam/rtavrdha as supplied; gavatirah as supplied; garbled Pada/bhashya labels and stray lines kept as notes; 2 accent DIFF
