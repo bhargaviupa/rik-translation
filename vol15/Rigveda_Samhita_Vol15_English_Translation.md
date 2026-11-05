@@ -22975,7 +22975,8 @@ He has established that here vanaspati means only the Agni within the post and n
 
 By these sentences they discuss the nature of the Āprī deity addressed in the Ṛk 1-13-11, and state that here vanaspati means the earthly Agni, and that in the Ṛk 2-37-2 Gṛtsamada also meant this same earthly Agni by the word vanaspati, and that only in some Ṛks of the third Maṇḍala does it mean the post or a tree, and that too is incidental (prasaṅgaja). Besides this,
 
-XXX (*XXX*)
+⟦ಇಹೈಷ ಪವಮಾನೋSಗ್ನಿರ್ಮಧ್ಯಮೋSಗ್ನಿರ್ವನಸ್ಪತಿಃ ।
+ಅಮುಷ್ಮಿನ್ನೇವ ವಿಪ್ರೈಸ್ತು ಲೋಕೇSಗ್ನಿಶ್ಯುಚಿರುಚ್ಯತೇ ॥⟧
 (Bṛ. De. 1-66)
 
 Here, showing that vanaspati means the Agni of the middle world, they state precisely that, except in a few places of the Ṛksaṃhitā, in the many other places this word indicates Agni, without doubt.
