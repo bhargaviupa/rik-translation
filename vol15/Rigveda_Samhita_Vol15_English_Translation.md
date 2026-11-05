@@ -12428,6 +12428,158 @@ And, O Aśvin deities, as a sword is rubbed on a whetstone and made sharp, make 
 
 अश्विना (*aśvinā*)—O Aśvin deities; वां (*vāṃ*)—of you two; वर्धनानि (*vardhanāni*)—means of growth (satisfaction); एतानि ब्रह्म (*etāni brahma*)—these mantras in the form of praise; स्तोमं (*stomaṃ*)—praise in the form of a stoma; गृत्समदासः (*gṛtsamadāsaḥ*)—the Gṛtsamada sages; अक्रन् (*akran*)—have made; तानि (*tāni*)—those praises; नरा (*narā*)—you leaders; जुजुषाणा (*jujuṣāṇā*)—enjoying them with regard; उपयातं (*upayātaṃ*)—come to us; सुवीराः (*suvīrāḥ*)—we, endowed with excellent heroic sons; विदथे (*vidathe*)—in the sacrificial house; बृहत् (*bṛhat*)—abundant praise; वदेम (*vadema*)—we recite.
 
+### Printed p. 387
+
+*[Running head, p. 387: Aṣṭaka 2, Adhyāya 8, Varga 5; Ṛgvedasaṃhitā 387.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin gods, the Gṛtsamada seers have composed these mantras in the form of praise, and this praise in the form of a stoma, which are the means of satisfying you both. O leaders, come to us, enjoying those praises with regard. We, endowed with excellent heroic sons, recite abundant praise in the sacrificial house.
+
+**Printed English**
+
+The Gritsmadas have composed this prayer, these praises, Ashwins, for your exaltation : be propitiated by them leaders of ceremonies, and come hither ; that, blessed with excellent descendants, we may worthily glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वर्धनानि—वृद्धिसाधनानि । (*vardhanāni—vṛddhisādhanāni |*) (*vardhanāni*, means of growth). There is a custom of saying that when the gods' qualities are sung with mantras, their power and capacity increase. Therefore here the praises called *brahma* and *stomaṃ* are said to be means of growth. On this point many Śruti sentences can be cited, such as इमा वर्धंतु वां गिरः । (*imā vardhaṃtu vāṃ giraḥ |*), वर्धंतु त्वा सुष्टुतयः । (*vardhaṃtu tvā suṣṭutayaḥ |*), गीर्भिर्वर्धयामो वचोभिः । (*gīrbhirvardhayāmo vacobhiḥ |*) and others.
+
+ब्रह्म—ब्रह्माणि स्तोत्राणि । (*brahma—brahmāṇi stotrāṇi |*) The word *brahma* is read both among the names of food and among the names of praise. Here it is used in the sense of praise. Since in this Ṛk the word *stoma*, also meaning praise, occurs as well, there is a difference between these two in meaning and in explanation. What a *stoma* is, its nature, its divisions and subdivisions and similar matters we have explained at length in Ṛ. Saṃ. Part 2, pp. 137 to 150.
+
+गृत्समदासः (*gṛtsamadāsaḥ*)—Since the plural of the word *gṛtsamada* is used here, it should be understood that the plural is used to refer to the seer Gṛtsamada, his descendants, other relatives and so on.
+
+जुजुषाणा—भृशं प्रीयमाण् । (*jujuṣāṇā—bhṛśaṃ prīyamāṇ |*) जुषी प्रीतिसेवनयोः । (*juṣī prītisevanayoḥ |*) For this word, formed from this root, the meaning is "being very pleased". O Aśvin gods, may these praises composed by us, descendants of the seer Gṛtsamada, increase your power and give you joy. Being very pleased with us because of our praises, come to our sacrificial ground. At this sacrifice we, together with sons and grandsons, recite abundant praise for you: this is the main purport.
+
+[The Kannada text prints ಸೋತ್ರ for ಸ್ತೋತ್ರ in the last sentence, as supplied.]
+
+### Printed p. 388
+
+*[Running head, p. 388: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 40.]*
+
+*The fortieth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> सोमापूषणेति षडृचमष्टमं सूक्तं गार्त्समदं त्रैष्टुभं सोमापूषदेवताकं । तथा चानुक्रांतं । सोमापूषणा षट् सोमापौष्णमंत्योSर्धर्चोSप्यदितेरिति । अवतु देव्यदितिरित्यस्यांत्यार्थर्चस्यादितिर्देवता ॥ सोमापौष्टे
+> पशौ, वपापुरोडाशहविषामाद्यास्ति स्रः क्रमेणानुवाक्या उत्तरास्तिस्रो याज्याः ।
+> अग्नीषोमाविति खंडे सूत्रितं । सोमापूषणा जनना रयीणां । आ. ३-८ । इति ॥
+
+*[Note: in kn.md the Sanskrit introduction was made a `>` block with an inserted label, and two hyphenated line breaks were joined.]*
+
+**Anuvāda (Kannada).** The sūkta beginning सोमापूषणा (*somāpūṣaṇā*) is the eighth sūkta in the fourth anuvāka. It has six ṛks. Gṛtsamada is the seer of this sūkta; the metre is *triṣṭubh*; the two deities Soma and Pūṣan are the deity of the sūkta. The Anukramaṇikā says: सोमापूषणा षट् सोमापौष्णमंत्योSर्धर्चोSप्यदितेः (*somāpūṣaṇā ṣaṭ somāpauṣṇamaṃtyoSrdharcoSpyaditeḥ*) ("Soma and Pūṣan, six; the last half-verse is addressed to Aditi as well"). The deity of the latter half of the last Ṛk, "Avatu devy aditiḥ", is Aditi. In the animal sacrifice performed for Soma and Pūṣan, when the offerings of omentum and cake are made, the first three Ṛks of this sūkta are to be used as *anuvākyā* mantras and the last three as *yājyā* mantras, as explained by the sūtra beginning सोमापूषणा जनना याणां (*somāpūṣaṇā jananā yāṇāṃ*) in the section "Agnīṣomau" of the Āśvalāyana Śrauta Sūtra (Ā. 3-8). [The sūtra is printed रयीणां (*rayīṇāṃ*) in the Sanskrit block above and याणां (*yāṇāṃ*) here, as supplied. The sūtra's *anuvākya/yājyā* sense is stated by the Kannada.]
+
+*[The heading lines of the supplied text, kept as a note: ಸೂಕ್ತ—೪೦; Maṇḍala 2, Anuvāka 4, Sūkta 40; Aṣṭaka 2, Adhyāya 8, Varga 6; number of ṛks in the sūkta: 6; seer: Gṛtsamada; deity: Ṛks 1 to 5 and the first half of Ṛk 6: Soma and Pūṣan; the latter half of 6: आदितिः (*āditiḥ*) (as supplied, for Aditi); metre: Triṣṭubh.]*
+
+**Pīṭhike (Introduction)**
+
+The deities of this sūkta are Soma and Pūṣan. In the Ṛgveda it is seen specially that two deities are joined together and invoked and praised together.
+
+### Printed p. 389
+
+*[Running head, p. 389: Aṣṭaka 2, Adhyāya 8, Varga 6; Ṛgvedasaṃhitā 389.]*
+
+Mantras that address two deities of this kind (pairs of deities) are called *saṃstavika* mantras. The principal deities among them are fourteen: Agni, Soma, Varuṇa, Pūṣan, Bṛhaspati, Brahmaṇaspati, Parvata, Kutsa, Viṣṇu, Vāyu, Mitra, Rudra, Vāta, Parjanya. [Fourteen as stated in the supplied text; the list given has fourteen names.] Thus:
+
+Indrāgnī (Indra + Agni)—
+
+> इंद्राग्नी रोचना दिवः
+
+> *iṃdrāgnī rocanā divaḥ*
+
+(Ṛ. Saṃ. 3-12-9).
+
+Indrāsomā (Indra + Soma)—
+
+> इंद्रासोमा समघशंसं
+
+> *iṃdrāsomā samaghaśaṃsaṃ*
+
+(Ṛ. Saṃ. 7-104-2).
+
+Indrāvaruṇā (Indra + Varuṇa)—
+
+> इंद्रावरुणा युवमध्वराय नः
+
+> *iṃdrāvaruṇā yuvamadhvarāya naḥ*
+
+(Ṛ. Saṃ. 7-82-1).
+
+Indrāpūṣaṇā (Indra + Pūṣan)—
+
+> इंद्रापूषणा वयं
+
+> *iṃdrāpūṣaṇā vayaṃ*
+
+(Ṛ. Saṃ. 6-57-1).
+
+Indrābṛhaspatī (Indra + Bṛhaspati)—
+
+> इदं वामास्यॆ हविः प्रियमिंद्राबृहस्पती
+
+> *idaṃ vāmāsyè haviḥ priyamiṃdrābṛhaspatī*
+
+(Ṛ. Saṃ. 4-49-1).
+
+Indrābrahmaṇaspatī (Indra + Brahmaṇaspati)—
+
+> अच्छेंद्राब्रह्मणस्पती हविर्नः
+
+> *accheṃdrābrahmaṇaspatī havirnaḥ*
+
+(Ṛ. Saṃ. 2-24-12).
+
+Indrāparvatā (Indra + Parvata)—
+
+> इंद्रापर्वता बृहता रथेन
+
+> *iṃdrāparvatā bṛhatā rathena*
+
+(Ṛ. Saṃ. 3-53-1).
+
+Indrākutsā (Indra + Kutsa)—
+
+> इंद्राकुत्सा वहमाना रथेन
+
+> *iṃdrākutsā vahamānā rathena*
+
+(Ṛ. Saṃ. 5-31-9).
+
+Indrāviṣṇū (Indra + Viṣṇu)—
+
+> इंद्राविष्णू दृंहिताः शंबरस्य
+
+> *iṃdrāviṣṇū dṛṃhitāḥ śaṃbarasya*
+
+(Ṛ. Saṃ. 7-99-5).
+
+Indravāyū (Indra + Vāyu)—
+
+> इंद्रवायू इमे सुताः
+
+> *iṃdravāyū ime sutāḥ*
+
+(Ṛ. Saṃ. 1-2-4).
+
+Mitrāvaruṇā (Mitra + Varuṇa)—
+
+> आ नो मित्रावरुणा
+
+> *ā no mitrāvaruṇā*
+
+(Ṛ. Saṃ. 3-62-16).
+
+Somāpūṣaṇā (Soma + Pūṣan)—
+
+> सोमापूषणा जनना रयाणां
+
+> *somāpūṣaṇā jananā rayāṇāṃ*
+
+(Ṛ. Saṃ. 2-40-1).
+
+*[Note: in kn.md the twelve quotations of this page were made `>` blocks with the reference left on its own line. The last quotation is printed रयाणां (*rayāṇāṃ*) here as supplied (the bhāṣya on p. 388 has रयीणां (*rayīṇāṃ*)).]*
+
 ---
 
-**Progress note:** Done through printed p. 386 (PDF 386). Sukta 39 Rk 7 bhashya, Bhavartha, printed English, Special Topics (rajas, svadhiti, shishite Nirukta quotes); Rk 8 Samhita, Pada, bhashya, Pratipadartha (Bhavartha follows on p. 387). Flags: Special Topics Sanskrit passages made > blocks in kn.md, p.385 stray sheet-mark '25' removed, image-text line kept as note, Pratipadartha 'kodu' reading as supplied
+**Progress note:** Done through printed p. 389 (PDF 389). Sukta 39 Rk 8 Bhavartha, English, Special Topics; Sukta 40 (Soma-Pushan) introduction, Anuvada, Pithike begun (12 Samstavika quotations, p. 389). Flags: Sukta 40 bhashya/header lines kept as notes; bhashya sutra spelled rayinam/yanam/rayanam as supplied; Pithike text continues on p. 390
