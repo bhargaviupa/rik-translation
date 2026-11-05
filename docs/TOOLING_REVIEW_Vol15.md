@@ -22,46 +22,48 @@ Read-only survey of every `vol*/tools/`, `publish/` and `publish/tools/` script.
 2. **Every volume re-invents `cfg.py`** (scan parts, global-PDF to printed-page map, duplicate/missing pages, EN path). The page maps with their special cases live in code (Vol 14: offsets 18/19/20/…, duplicate PDFs 223, 335, 447, 559). That is where errors come from.
 3. **Two eras.** Vols 1–6 tools exist for correcting an existing translation (numerals, `[?]`, review pages). Vols 10–14 tools exist for producing one. Vols 1–6 scripts are not needed for a new volume.
 4. **Vol 14 is the working model.** Measured from `vol14/parts/api_costs.jsonl`: 92 API batches, 276 pages, $32.81 = **$0.119 per page** (Sonnet, ~5,900 output tokens and ~38 s per page; ≈ $115 for a 960-page volume). Its pipeline: scan strips → numeral-file rows → API call → `add_iast.py` → `labels.normalise` → accents → `append_en.py` → doubts log → commit. In Vol 14 so far: 1,103 `[?]` in the file; 563 API doubt lines.
-5. **Weak spots in Vol 14's design that Vol 15 should fix:** hard-coded Vol 14 paths inside `api_batch.py` (`vol14`, page map, prompt files, "BRANCH_FOR_RUNS"); the API mode cannot zoom, so doubts are only logged, not resolved; no Kannada output though Vol 11 onwards should have a Kannada file; Pada is not accented; `api_batch.py` commits with a fixed session URL.
+5. **Weak spots in Vol 14's design that Vol 15 should fix:** hard-coded Vol 14 paths inside the scripts (page map, prompt files, branch guard); the scripted steps are only reachable through `api_batch.py`, so a Claude Code translator has to run them one by one; no Kannada output though Vol 11 onwards should have a Kannada file; Pada is not accented.
 6. **Hygiene.** Compiled `.pyc` files are tracked (`vol14/tools/__pycache__`), which caused a merge conflict today. Several `publish/work/*_clean.md` are rebuilt outputs. Docs still mention old root paths.
 7. **Shared pieces already good:** `publish/tools/translit/add_iast.py`, `publish/tools/accents/accent_volume.py` (new), `publish/tools/pageprep/crop_pages.py`, `publish/tools/ref_check/` (numeral file alignment), `vol14/tools/page.py` (strips at max dpi without viewer shrinking).
 
-## 3. Proposed standard for Vol 15 onwards
+## 3. Proposed standard for Vol 15 onwards (user decision, Nov 5 2026: **Vol 15 onwards is done in Claude Code sessions, not through the Mac API**)
+
+The API batch runner (`vol14/tools/api_batch.py`) stays what it is for Vol 14 only. Vol 15+ follows the Claude Code routine of Vols 10-14: a dispatcher session hands each 3-page batch to a fresh translator agent that can zoom. What changes is that everything around the agent becomes shared, scripted and checked.
 
 **One shared toolkit, one config file per volume.**
 
 ```
 tools/rv/            shared code (no per-volume copies)
   config.py          reads volN/volcfg.json
-  page.py            render strips / zoom a box          (from vol14/tools/page.py)
-  numerals_for.py    rows of the user's numeral file       (generalised)
-  api_batch.py       the batch translator                 (generalised from vol14)
-  labels.py, accents.py, checks.py, doubt.py, append_en.py
+  page.py            render strips / zoom a box, one Bash call per batch   (from vol14/tools/page.py)
+  numerals_for.py    rows of the user's numeral file, generalised
+  batch.py           ONE command that does the scripted steps for a chunk file: add_iast -> labels -> accents -> checks -> append (+ note) -> doubts -> commit
+  labels.py, accents.py (wraps publish/tools/accents/accent_volume.py), checks.py, doubt.py, append_en.py
   build/             docx/PDF (from publish/)
-volN/volcfg.json     scan parts, printed = PDF - k with a list of [from_pdf, new_k], duplicate/missing PDFs,
-                     output paths, first Mandala/Sukta, numeral file path, model, price, budget, branch
-volN/prompt.md       volume-specific notes only (the common rules live in CLAUDE.md + tools/rv/PROMPT.md)
+volN/volcfg.json     scan parts, printed = PDF - k with a list of [from_pdf, new_k], duplicate/missing PDFs, output paths,
+                     first Mandala/Sukta, numeral file path, branch
+volN/runbook.md      volume-specific notes only (the common rules live in CLAUDE.md and tools/rv/TRANSLATOR_RULES.md)
 ```
 
-**Pipeline per 3-page batch (automatic, `python3 tools/rv/api_batch.py N`):**
-1. Check the position from the progress note; skip configured duplicates.
-2. Render strips; look up numeral rows (user's file).
-3. API call: English + Devanagari (+ Kannada text for the volume's Kannada file); output chunk, note, doubts.
-4. Scripted steps in a fixed order: `add_iast` → `labels.normalise` → `accent_volume` → structural checks (Ṛk counts, headings, numeral consistency) → append → doubts → commit.
-5. Stop on any failed check; never on its own judgement.
+**Per 3-page batch (dispatcher + translator agent, as in the Vol 14 runbook "Turn economy"):**
+1. Dispatcher: reads position from the progress note, skips configured duplicate pages, starts a fresh translator with the page numbers and the position.
+2. Translator: one Bash call renders the batch; one turn views all strips; zooms only doubtful words in one parallel turn; writes one chunk file per page (Devanagari + English, inline Sanskrit as `⟦…⟧`).
+3. `python3 tools/rv/batch.py N CHUNK... --note "..."` runs the fixed scripted steps and stops on any failed check (heading order, Rik counts, numeral consistency, no change to existing text, exactly one progress note, accents added). The translator never types IAST or accents.
+4. Doubts are logged at the moment of zooming; every zoomed place goes to the user's review.
+5. Target <= 12 turns per 3-page batch.
 
-**Second pass for the `[?]` places** (the API cannot zoom): a small job that reads `doubts` entries, renders a 300–450 dpi box for each, asks the model for a reading with the crop, and writes proposals to a review file for the user (nothing applied without the user). This is what the Vol 13 zoom-fix did by hand with Sonnet; it works (94 of 99 resolved).
+Because the agent can zoom, no separate zoom-fix pass is needed for readings it resolves; the leftover `[?]` places are listed for the user.
 
-**Decisions for the user before Vol 15**
-1. Is the Mac API batch the main method for Vol 15 onwards (≈ $0.12/page on Sonnet)? Or keep Claude Code sessions for some?
-2. Add the Kannada file to the same API call (Vol 11 rule), or keep it as a separate later pass?
-3. Which model: Sonnet (cheaper, 5–20 `[?]`/batch in the pilot) or Opus (2–7)?
-4. Pada accents: not covered by the Mandala HTML script; leave unaccented?
-5. Freeze Vols 1–6 tools (move to `legacy/`) or leave them where they are? They are only needed for the planned back-fill passes.
+**Still to decide (the user answered only the first question)**
+1. ~~Mac API for Vol 15+?~~ **No: Claude Code.**
+2. Kannada text file: build it in the same session as the English (Vol 11 rule), or later?
+3. Translator model: Opus (2-7 `[?]` places per 6-page batch in the Vol 14 pilot) or Sonnet (5-20, cheaper)?
+4. Pada accents: not covered by the Maṇḍala HTML script; leave the Pada unaccented?
+5. Move the Vol 1-6 tools to `legacy/`, or leave them where they are? They are only needed for the planned back-fill passes.
 
 ## 4. Suggested order of work (nothing started)
 1. Remove tracked `__pycache__`, add to `.gitignore`.
-2. Create `tools/rv/` by generalising Vol 14's `page.py`, `api_batch.py`, `numerals_for.py`, `labels.py`, `accents.py`, `numeral_checks.py`, `doubt.py`, `append_en.py`; keep the Vol 14 scripts working until Vol 14 is done.
+2. Create `tools/rv/` by generalising Vol 14's `page.py`, `numerals_for.py`, `labels.py`, `accents.py`, `numeral_checks.py`, `doubt.py`, `append_en.py`, and add `batch.py`; keep the Vol 14 scripts working until Vol 14 is done.
 3. Write `volcfg.json` for Vol 14 first (proves the format), then Vol 15.
-4. Dry-run on 3 pages of an already translated volume (e.g. Vol 13) and compare with the existing text.
-5. Only then switch Vol 14's remaining pages over.
+4. Dry-run `batch.py` on a chunk from an already translated volume and compare with the existing text.
+5. Write `tools/rv/TRANSLATOR_RULES.md` from the Vol 14 runbook and API prompt (one version, used by the dispatcher for every batch).
