@@ -9447,6 +9447,124 @@ Mitra and Varuna, both be gratified with the sacrifice: hear my invocation as th
 
 यज्ञं जुषेथां—हे मित्रावरुणौ मदीयमिमं यज्ञं सेवेथां (*yajñaṃ juṣethāṃ—he mitrāvaruṇau madīyamimaṃ yajñaṃ sevethāṃ*). Addressing Mitra and Varuṇa, it is expressed as a wish that they enjoy the sacrifices of the sacrificers; and मे हवस्य बोधतं—मम हवमाह्वानं अवगच्छतं (*me havasya bodhataṃ—mama havamāhvānaṃ avagacchataṃ*): the meaning of the word हव (*hava*) is explained as invocation. It is expressed as a wish that Mitra and Varuṇa take note of the sacrificer's invocation, calling them to come for the sacrifice.
 
+### Printed p. 301
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 25, Ṛgvedasaṃhitā, p. 301.*
+
+[Continuing the Special Topics of Ṛk 6:] होता पूर्व्याः निविदः अनु- (*hotā pūrvyāḥ nividaḥ anu-*) ("the Hotṛ recites after the ancient nivids"): अस्मदीयः होता चिरंतनीः शस्त्रलक्षणा वाचः (*asmadīyaḥ hotā ciraṃtanīḥ śastralakṣaṇā vācaḥ*) ("our Hotṛ, the ancient utterances of the nature of śastras") recites. उद्गातृभिः कृतस्य स्तोत्रस्यानुगुण्येनाज्यादीनि शंसति (*udgātṛbhiḥ kṛtasya stotrasyānuguṇyenājyādīni śaṃsati*) ("he recites the ājya and the rest in accordance with the stotra performed by the Udgātṛs"). It is described that the priest who invites the gods to the sacrifice with the respective mantras, when he performs the sacrifice, recites, in accordance with the praises recited by the priest called Udgātṛ, the mantras known as śastras, which from ancient times must necessarily be recited at the times of performing the respective rites.
+
+आवृतं नमः राजाना अच्छ एति (*āvṛtaṃ namaḥ rājānā accha eti*) ("the encompassed food approaches the two who shine"): ऋत्विग्निः वेष्टितं सोमलक्षणमन्नं राज (*ṛtvigniḥ veṣṭitaṃ somalakṣaṇamannaṃ rāja*) ("the food in the form of Soma, surrounded by the priests, approaches you two who shine face to face"; the sentence continues on the next line in the supplied text). The word नमः (*namaḥ*) (*namaḥ*) is explained as meaning "food". It is described that the food in the form of Soma, surrounded by the priests and offered in the fire, comes near Mitra and Varuṇa, who shine with their own splendours; and, since the priest called Praśāstṛ has offered this Soma in the fire, the sacrificer's wish is described: may Mitra and Varuṇa drink this intoxicating Soma. (The supplied text at this point reads the phrase अभिमुख्येन पिबतं (*abhimukhyena pibataṃ*), "drink face to face", together with the name प्रशास्त्र (*praśāstra*) as supplied.)
+
+निविदः (*nividaḥ*) (*nividaḥ*)—the word *nivid* is read among the names of speech (Ni. 2-13); the sense is: sentences describing the greatness of the gods.
+
+In the beginning Prajāpati was alone; desiring to create beings and to become many, he practised austerity for a year, resorting to silence. Then, after he had recited twelve times the nivid mantras comprising twelve great sentences, all beings in the world were created. Having thus declared the power of these mantras, the text then praises Kutsa, who knew their secret, and the greatness of the ṛk that he recited.
+
+Quotation (Brāhmaṇa): तदेतदृषिः पश्यन्नभ्यनूवाच स पूर्वया निविदा कव्यतायोरिमाः प्रजा (*tadetadṛṣiḥ paśyannabhyanūvāca sa pūrvayā nividā kavyatāyorimāḥ prajā*) ... अजनयन्मनूनामिति (*ajanayanmanūnāmiti*) ("the seer, seeing this, said: 'He, with the ancient nivid, ... created these people of the Manus'"; the quotation is divided between two lines in the supplied text and is given here as supplied). The Kannada explains: the seer Kutsa grasped the truth that by the power of the nivid mantras all beings of the world were created, and recited the mantra "Sa pūrvayā" (Ṛ. Saṃ. 1-96-2).
+
+Quotation (Brāhmaṇa): तद्यदेतां पुरस्तात् सूक्तस्य निविदं दधाति प्रजात्यै (*tadyadetāṃ purastāt sūktasya nividaṃ dadhāti prajātyai*) ("therefore he places this nivid at the beginning of the sūkta, for procreation"); प्रजायते प्रजया पशुभिर्य एवं वेद (*prajāyate prajayā paśubhirya evaṃ veda*) ("he who knows thus is born with offspring and cattle"). For this very reason the Hotṛ, by reciting the nivid mantra at the beginning of the sūkta, obtains offspring. For those who have this understanding, all wealth, beginning with good offspring, will be obtained.
+
+### Printed p. 302
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 36, p. 302.*
+
+[Continuing:] A mantra which addresses one deity or one group of deities, describes their uncommon qualities and invokes them, is known as a nivid mantra.
+
+Citation (Bṛhaddevatā 3-50), as supplied:
+
+कर्मैव तावत्सावित्र्यां निविदि स्तौति कर्मणा । (*karmaiva tāvatsāvitryāṃ nividi stauti karmaṇā |*)
+यद्धेनुः सप्त्यनड्वाहौ वोळ्हा दोग्धाशुरेव वा ॥ (*yaddhenuḥ saptyanaḍvāhau voḷhā dogdhāśureva vā ‖*)
+
+For example, in Ṛ. Saṃ. 1-24-3, the nivid mantra addressed to the deity Savitṛ declares Savitṛ's distinction and the description of his uncommon action. From the word दोग्धिर् (*dogdhir*) (*dogdhir*) we understand a cow that yields milk; from *āśu* (swift), a horse; from वोळ्हा (*voḷhā*) (*voḷhā*), "one who bears a burden", an ox: so their distinctive characters are known. In the same way the nivid mantra praises each deity by stating that deity's individual qualities through the description of the respective actions.
+
+The thirty-sixth sūkta is ended.
+
+**Adhyāya colophon (Sanskrit; Aṣṭaka 2, Adhyāya 7):**
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्य-
+> धुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे
+> ऋक्संहिताभाष्ये द्वितीयाष्टके सप्तमोऽध्यायः समाप्तः
+> ॥ ओं तत्त्वत् ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*
+> *iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājya-*
+> *dhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe*
+> *ṛksaṃhitābhāṣye dvitīyāṣṭake saptamo 'dhyāyaḥ samāptaḥ*
+> *‖ oṃ tattvat ‖*
+
+Closing line (Kannada): "Here ends the seventh adhyāya, in the second aṣṭaka of the Ṛgveda-saṃhitā with Sāyaṇa's commentary and a Kannada translation." The Sanskrit verses above give: dispelling the darkness of the heart by the light of the meaning of the Veda, may Vidyātīrtha-Maheśvara grant the four human aims; and the colophon names Sāyaṇācārya, bearer of the burden of Vīra-Bukka's empire, as author of the Mādhavīya Vedārthaprakāśa on the Ṛk-saṃhitā. The "Om tat sat" formula follows.
+
+Then a verse of forgiveness (Sanskrit):
+
+> यदक्षरपदभ्रष्टं मात्रहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥
+> ॥ शुभं भूयात् ॥
+
+*(Meaning: whatever syllable or word is lost, or whatever is deficient in measure, may all that be forgiven, O God, Lord of speech; salutation to you.)*
+
+### Printed p. 303
+
+*Running head missing in the supplied text; the page marker was inserted by hand. The page is the title page of the Eighth Adhyāya. The exact place of the break between pp. 302 and 303 in the supplied text is not marked; it is assumed to fall before "1 Maṅgaḷaṃ" (a guess from the content, not from the print).*
+
+Invocation ("1 Maṅgaḷaṃ" [sic as supplied]; Oṃ; "Śrīḥ"; "Śrī Gaṇādhipataye namaḥ"; the separator line "-oOo-" is kept as supplied):
+
+> वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे ।
+> यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥
+> यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥
+> वेदः शिवः शिवो वेदो वेदाध्यायिया सदाशिवः ।
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+
+*(Meaning: salutation to Gaṇeśa, whom the gods beginning with Vāgīśa worship at the start of all undertakings; salutation to Vidyātīrtha-Maheśvara, from whose breath the Vedas came and who made the whole world from the Vedas; the Veda is Śiva and Śiva is the Veda, therefore one should always recite the Veda with all effort.)*
+
+Title: Ṛgveda-saṃhitā with Sāyaṇa's commentary.
+
+> ॥ द्वितीयाष्टकेऽष्टमोऽध्यायः ॥
+
+> *‖ dvitīyāṣṭake 'ṣṭamo 'dhyāyaḥ ‖*
+
+In Kannada: the Eighth Adhyāya in the Second Aṣṭaka; the Thirty-seventh Sūkta in the Second Maṇḍala.
+
+## Sūkta 37 (Maṇḍala 2)
+
+*The thirty-seventh sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> अथ द्वितीयाष्टकस्याष्टमोऽध्याय आरभ्यते । द्वितीयमंडलस्य चतुर्थानु-
+> वाके मंदस्वेति षडृचं पंचमं सूक्तं गार्त्समदं । मंदस्वेत्यनुक्रांतं ।
+> पूर्वत्र ऋतव्यं तु जागतं त्विति तुशब्दप्रयोगादिदमपि जागतमृतव्यं ।
+> तत्राद्याश्चतस्र ऋचो द्रविणोदोदेवताकाः पंचम्याश्विनी षष्ठाग्नेयि ॥
+
+> *atha dvitīyāṣṭakasyāṣṭamo 'dhyāya ārabhyate | dvitīyamaṃḍalasya caturthānu-*
+> *vāke maṃdasveti ṣaḍṛcaṃ paṃcamaṃ sūktaṃ gārtsamadaṃ | maṃdasvetyanukrāṃtaṃ |*
+> *pūrvatra ṛtavyaṃ tu jāgataṃ tviti tuśabdaprayogādidamapi jāgatamṛtavyaṃ |*
+> *tatrādyāścatasra ṛco draviṇododevatākāḥ paṃcamyāśvinī ṣaṣṭhāgneyi ‖*
+
+### Printed p. 304
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 37, p. 304 (the head prints "ಅ ೪" without a stop, as supplied).*
+
+> दशरात्रे षष्ठेऽहनि यतुयाजेषु प्रैषानृक् शिरस्कान् कृत्वा तैः प्रैषैः प्रेषितव्यं
+> यष्टव्यं च । तत्र सप्तमादीनां प्रैषाणामुपरिष्पात् मंदस्वेत्याद्याः षडृचः
+> क्रमेण प्रक्षेपणीयाः । सूत्रं तु पूर्वमेवोदाहृतं ॥
+
+> *daśarātre ṣaṣṭhe 'hani yatuyājeṣu praiṣānṛk śiraskān kṛtvā taiḥ praiṣaiḥ preṣitavyaṃ*
+> *yaṣṭavyaṃ ca | tatra saptamādīnāṃ praiṣāṇāmupariṣpāt maṃdasvetyādyāḥ ṣaḍṛcaḥ*
+> *krameṇa prakṣepaṇīyāḥ | sūtraṃ tu pūrvamevodāhṛtaṃ ‖*
+
+*Gist:* the sūkta *Mandasva* has six ṛks, seer Gṛtsamada, in *jagatī*; the first four ṛks have Draviṇodas, the fifth the Aśvins, the sixth Agni as deity; on the sixth day of the Daśarātra the six ṛks are used as Praiṣa and Yājyā mantras in the Ṛtuyājas. (The supplied text reads यतुयाजेषु (*yatuyājeṣu*) in the Sanskrit, while the Kannada below says Ṛtuyāga; noted as supplied.)
+
+**Anuvāda (Kannada).** Now the eighth adhyāya in the second aṣṭaka begins. In the fourth anuvāka of the second maṇḍala, this sūkta beginning *Mandasva hotrāt* is the fifth sūkta. It has six ṛks. Gṛtsamada is the seer of this sūkta. The Anukramaṇikā says "Mandasva". Since the Anukramaṇikā earlier said "ṛtavyaṃ tu jāgataṃ tviti" and used the particle *tu*, this sūkta too is a sūkta of ṛks in the *jagatī* metre, addressed to the Ṛtu deities. In sūkta addressed to the Ṛtus it is usual that other deities are praised together with the Ṛtu deities. Therefore, along with the Ṛtu deities, the ṛks of this sūkta have separate deities as well. Hence the first four ṛks of this sūkta have Draviṇodā as deity; the fifth ṛk has the Aśvins; the sixth ṛk has Agni. In the Ṛtuyāga performed on the sixth day of the sacrifice called Daśarātra, the ṛks of the Ṛgveda are used as Praiṣa mantras, and with those ṛks the recital of the Praiṣa mantras and the oblation must be done. Of such Praiṣa mantras, after the seventh Praiṣa mantra, the six ṛks of this sūkta beginning with *Mandasva* are used in order as Praiṣa mantras and Yājyā mantras. The sūtra sentence on this matter was already given earlier.
+
+*Two stray lines in the supplied text, "ಪಿ ರ್ ಱ ಕ" and "485", stand here; kept as a note, not read.*
+
+In the Ṛtuprayāja oblations made for the Ṛtus, the six ṛks of the previous sūkta and the six ṛks of this sūkta are both used as Praiṣa mantras and as Yājyā mantras. To ṛks addressed to the Ṛtus, other deities are joined along with the Ṛtus. For example, for the first four ṛks of this sūkta, along with the Ṛtus, the deities called Draviṇodā are stated; for the fifth ṛk, the Aśvins; for the sixth ṛk, Agni. The same order is found in the fifteenth sūkta of the first maṇḍala, of twelve ṛks, beginning *Indra somaṃ piba*: that is, for ṛks 1, 2, 3, 4, 5, 6 respectively, the deities are Indra, Marut, Tvaṣṭā, Agni, Indra, and Mitrāvaruṇa, each together with an Ṛtu. In the last six ṛks, as in the present sūkta, four ṛks have the deity Draviṇodā together with the Ṛtus, the next ṛk the Aśvins, and the last ṛk Agni.
+
 ---
 
-**Progress note:** Done through printed p. 300 (PDF 300). Sūkta 36 Ṛk 4 Special Topics end, Ṛk 5 complete (pp. 297-298), Ṛk 6 Saṃhitā to Special Topics begun (pp. 299-300, continues); kn.md fixes: image line and garbled duplicate Pada line ಸಿಬ removed, p. 299 marker inserted, Ṛk 6 label/block made standard; readings noted: ನೃಮ್ಮ/ನೃಷ್ಣ, ತೃಪತ್/ತೃಪನ್, ಜುಷೇಥಾಂ/ಜುಷೇಥಾಃ, head '309' for 300
+**Progress note:** Done through printed p. 304 (PDF 304). Sūkta 36 Ṛk 6 Special Topics end (pp. 301-302), Sūkta 36 and Adhyāya 7 colophons, p. 303 Adhyāya 8 title page, Sūkta 37 introduction (bhāṣya and Anuvāda, pp. 303-304); kn.md fixes: p. 303 marker inserted by hand (break between 302/303 placed before '1 Maṅgaḷaṃ' by guess), colophon/mangala verses made blocks, Anuvāda unquoted, stray lines 'ಪಿ ರ್ ಱ ಕ / 485' kept as note, Devanagari Om sign written ಓಂ; Sūkta 37 Ṛk 1 starts on p. 305
