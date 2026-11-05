@@ -19869,6 +19869,85 @@ In sentences such as these it is stated precisely that Brahman and kṣatra are 
 
 "I am the beyond, you are the here; you are the representative of this world, I of the other world; I am heaven, you are earth; I am the Sāman, you the Ṛk; let us two join together, then only is the welfare of the world possible": so he regards the relation between the two as one of wedlock. It may also be divided thus in the divine principles: the purohita is Brahman, the king is kṣatra. Mitra, Agni and Bṛhaspati are the purohitas (Brahman); Varuṇa and Indra are the kings (kṣatra),
 
+### Printed p. 637
+
+*[Running head, p. 637: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+these two are also called by the names Kratu and Dakṣa. The union of Indra and Agni is the relation of the king and the purohita.
+
+आ बाह्योर्वज्रमिंद्रस्य धेयामथेमा विश्वाः पृशना जयाति ॥ (*ā bāhyorvajramiṃdrasya dheyāmathemā viśvāḥ pṛśanā jayāti ‖*)
+(printed ಮ. ಸಂ. 10-52-5)
+
+In explaining Indra's bearing of the thunderbolt there, Sāyaṇa in his bhāṣya describes its necessity in this way: अग्नेर्होतृत्वाभावे इंद्रस्य सोमाद्यभावाद्दुर्बलत्वेन वज्रधारणं नोपपद्यते (*agnerhotṛtvābhāve iṃdrasya somādyabhāvāddurbalatvena vajradhāraṇaṃ nopapadyate*). The sense is that without the company of Agni the hotṛ (the purohita), Indra's kṣatriya power would be impaired; that is, with that help he bears the thunderbolt and conquers all enemies. This relation is made clear by the words that the same Agni, the purohita, speaks to Indra the king.
+
+⟦ಅಯಂ ತ ಏಮಿ ತನ್ನಾ ಪುರಸ್ತಾದ್ವಿಶ್ವೇ ದೇವಾ ಅಭಿ ಮಾ ಯಂತಿ ಪಶ್ಚಾತ್ ।
+ಯದಾ ಮಹ್ಯಂ ದೀಧರೋ ಭಾಗಮಿಂದ್ರಾದಿನ್ಮಯಾ ಕೃಣವೋ ವೀರ್ಯಾಣಿ ॥⟧
+(printed ಮ. ಸಂ. ೮-೧ರ-೧, as supplied)
+
+"O Indra, I go before you (as purohita) facing the enemies. If you give me my share and honour me, you will gain the strength needed to conquer the enemies": what Agni says to Indra points to this same relation.
+
+⟦ಯತ್ರ ಯೋಗೀಶ್ವರಃ ಕೃಷ್ಣೋ ಯತ್ರ ಪಾರ್ಥೋ ಧನುರ್ಧರಃ ।
+ತತ್ರ ಶ್ರೀರ್ವಿಜಯೋ ಭೂತಿಧ್ರುವಾನೀತಿರ್ಮತಿರ್ಮಮ ॥⟧
+(printed ಭ. ಗೀ. 18-28)
+
+This Gītā sentence says that where Kṛṣṇa, lord of yoga, and Arjuna, the bow-bearer, are together, by their union fortune, victory, prosperity and statecraft will all be achieved in the best way. The basis for it is in the Vedic works. Kṛṣṇa is the purohita of the Agni-part, Arjuna the king of the Indra-part. What is the basis for this? On the Śatapatha Brāhmaṇa sentence अर्जुनो ह वै नामेंद्रः (*arjuno ha vai nāmeṃdraḥ*) (Śat. Brā. 2-1-2-11),
+
+⟦ಇಂದ್ರಾಗ್ನೀ ಕೋ ಅಸ್ಯ ನಾಂ ದೇವೌ ಮರ್ತಶ್ಚಿಕೇತತಿ ।
+ವಿಷೂಚೋ ಅಶ್ವಾನ್ಯುಯುಜಾನ ಈಯತ ಏಕಃ ಸಮಾನ ಆ ರಥೇ ॥⟧
+(Ṛ. Saṃ. 6-59-5)
+
+if one examines the description in this mantra, one understands that as Kṛṣṇa and Arjuna go on a victory expedition seated in the same chariot, so Indra and Agni set out on a victory expedition seated in the same chariot. This matter
+
+### Printed p. 638
+
+*[Running head, p. 638: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+is described. But how is Kṛṣṇa dark and Arjuna fair in colour?
+
+यत्कृष्णं तेनाग्निः । यच्चुक्लं तेनेंद्रः । (*yatkṛṣṇaṃ tenāgniḥ | yaccuklaṃ teneṃdraḥ |*)
+(printed ಬೃ. ಉ. 2-2-2)
+
+"What is dark is the form of Agni; what is white is the form of Indra": a spiritual purport is described. Thus this darkness (नीलं परः कृष्णं (*nīlaṃ paraḥ kṛṣṇaṃ*)), which is contained in Āditya and spiritually within the eye, reflects the male power. The principles praised in the Saṃhitās and Brāhmaṇas, namely ama, Agni, Vāyu, Āditya, ātman and sāman, are all principles that denote the male power; this is the Brahmic radiance, the Brahman power described as the purohita. Sā, earth, atmosphere, ṛk, are all female powers, the earthly kṣatra power. The companionship of Indra and Agni described in contexts such as ⟦ತಾ ಮಹಾಂತಾ ಸದಸ್ಪತೀ
+ಇಂದ್ರಾಗ್ನೀ⟧ (Ṛ. Saṃ. 1-21-5) is also this same relation of purohita and king. That the king's growth is not possible unless he makes Brahman his purohita and himself follows him has another example in the Aitareya Brāhmaṇa.
+
+⟦ನ ವಾ ಏತಾವಿಂದ್ರಾಗ್ನೀ ಸಂತೌ ವ್ಯಜಯೇತಾಮಾಗ್ನೇಂದ್ರೌ ವಾ ಏತ್ ಸಂತೌ ವ್ಯಜಯೇತಾಂ
+ತದ್ಯದಾಗ್ನೇಂದ್ರಾ ಯಜತಿ ವಿಜಿತ್ಯಾ ಏವ ।⟧
+(printed ಇ. ಬ್ರಾ. 10-37)
+
+When Indra and Agni fight with the asuras, if Indra is in front and Agni behind, victory will not be certain. Only if Agni is the purohita and Indra follows him is victory possible. Therefore the rule आग्नेंद्रा यजति (*āgneṃdrā yajati*) is stated.
+
+⟦ಪುರೋಹಿತಾಯತನಂ ವಾ ಏತತ್ ಕ್ಷತ್ರಿಯಸ್ಯ ಯದ್ಬ್ರಹ್ಮಾರ್ಥಾತ್ಮೋ ಹ ವಾ ಏಷ ಕ್ಷತ್ರಿಯಸ್ಯ
+ಯತ್ಪುರೋಹಿತ ಉಪಾಹ ।⟧
+(printed ಇ. ಬ್ರಾ 34-26)
+
+It is stated plainly that the purohita is the half-self of the kṣatriya. To be complete, the company of the two is absolutely necessary. A king without a purohita and a purohita without a king are incomplete. The relation of purohita and king is like the relation of heaven and earth described in the Aitareya Āraṇyaka (3-1-2), and like the relation of man and woman described in the Śatapatha Brāhmaṇa (18-5-2-8) and the Bṛhadāraṇyaka Upaniṣad (1-4-4). If one is lacking, the other is incomplete.
+
+### Printed p. 639
+
+*[Running head, p. 639: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+But if it is asked whether the purohita principle and the kṣatra principle are separate and join afterwards, it cannot be said that they are different in nature in that way.
+
+⟦ಭೂತಂ ಭವಿಷ್ಯತ್ಪಸ್ತೌಮಿ ಮಹದ್ಬ್ರಹ್ಮೈಕಮಕ್ಷರಂ ಬಹು ಬ್ರಹ್ಮೈಕಮಕ್ಷರಮಿತ್ಯೇತದ್ಧೇವಾಕ್ಷರಗ್ಂ ಸರ್ವೇ ದೇವಾಃ ಸರ್ವಾಣಿ ಭೂತಾನ್ಯಭಿಸಂಪದ್ಯಂತೇ ತದೇತತ್ಪ್ರಹ್ಮ ಚ ಕ್ಷತ್ರಂ
+ಚಾಗ್ನಿರೇವ ಬ್ರಹ್ಮೇಂದ್ರಃ ಕ್ಷತ್ರಮಿಂದ್ರಾಗ್ನೀ ವೈ ವಿಶ್ವೇ ದೇವಾಃ ॥⟧
+(printed ಶ. ಬ್ರಾ. 10-4-1-9)
+
+The supreme principle is one. That is the imperishable great Brahman. All beings are contained in it. What in ordinary language is called the Brahman principle (purohita) and the kṣatra principle are both special manifestations of it. Agni is Brahman (the purohita), Indra is kṣatra. In the Śatapatha it is shown that these two parts also include all the gods and are of one and the same common origin. Further,
+
+⟦ತ್ವಂ ವರುಣ ಉತ ಮಿತ್ರೋ ಅಗ್ನೇ ತ್ವಾಂ ವರ್ಧಂತಿ ಮತಿಭಿರ್ವಸಿಷ್ಠಾಃ ।
+ತ್ವೇ ವಸು ಸುಷಣನಾನಿ ಸಂತು ಯೂಯಂ ಪಾತ ಸ್ವಸ್ತಿಭಿಃ ಸದಾ ನಃ ॥⟧
+(printed ಮ. ಸಂ. 7-12-3)
+
+"O Agni, you are Varuṇa and you are Mitra": the praise and its sense are the same. What is the Mitra form and what the Varuṇa form of this Agni, who is in the form of Mitra-Varuṇa and is described as Vaiśvānara in the present Ṛk? What is their relation to the epithet purohita in the present Ṛk? This is described in sentences of the Śatapatha Brāhmaṇa thus.
+
+⟦ಕ್ರತೂದಕ್ಷೌ ಹ ವಾ ಅಸ್ಯ ಮಿತ್ರಾವರುಣೌ, । ಏತನ್ನಧ್ಯಾತ್ಮಗ್ಂ ಸ ಯದೇವ ಮನಸಾ
+ಕಾಮಯತ ಇದಂ ಮೇ ಸ್ಯಾದಿದಂ ಕುರ್ವೀಯೇತಿ ಸ ಏವ ಕ್ರತುರಥ ಯದಸ್ಮೈ
+ತತ್ಸಮೃಧ್ಯತೇ ಸ ದಕ್ಷೋ ಮಿತ್ರ ಏವ ಕ್ರತುರ್ವರುಣೋ ದಕ್ಷೋ ಬ್ರಹ್ಮೈವ ಮಿತ್ರಃ ಕ್ಷತ್ರಂ
+ವರುಣೋಽಭಿಗಂತೈವ ಬ್ರಹ್ಮ ಕರ್ತಾ ಕ್ಷತ್ರಿಯಃ ॥⟧
+(printed ಶ. ಬ್ರಾ. 4-1-4-1)
+
+It is told, on the basis of a sentence of the Ṛgveda Saṃhitā, that Mitra, described as purohita in the Ṛgveda Saṃhitā, and his companion Varuṇa are none other than parts of Agni. Mitra (the purohita) is Kratu, in the form of resolve; Varuṇa is Dakṣa, in the form of action, who carries out this resolve. "I wish this work to be done. Let it be accomplished", and so on
+
 ---
 
-**Progress note:** Done through printed p. 636 (PDF 636). Sūkta 3 Ṛk 2 Special Topics: Ṛ. Saṃ. 4-50-7 to 9 and the purohita; cut mid-sentence
+**Progress note:** Done through printed p. 639 (PDF 639). Sūkta 3 Ṛk 2 Special Topics: purohita and king as Agni and Indra, Mitra-Varuṇa as Kratu and Dakṣa; cut mid-sentence
