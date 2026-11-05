@@ -7154,6 +7154,106 @@ They sprinkle the wide-extended (lands) with water, as (men sprinkle) horses (wh
 
 हिरण्यशिप्रा: (*hiraṇyaśiprā:*)—सुवर्णमयशिरस्त्राणाः । शिप्रं शिरस्त्राणं (*suvarṇamayaśirastrāṇāḥ | śipraṃ śirastrāṇaṃ*): the Marut deities wear a head-ornament (helmet) made of gold; समन्यवः (*samanyavaḥ*)—समासमनस्काः समानक्षोडवा (*samāsamanaskāḥ samānakṣoḍavā*) (as supplied; the text of this window breaks off here, the sentence continues in the next window)
 
+### Printed p. 233
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 19, p. 233.*
+
+(Since they are renowned as the seven Maruts) they are of one kind of mind, or of one kind of anger, and they make trees and the like tremble; thus the Marut deities are described. And पृषतीभिः वृक्षं यात—युष्मद्रथे योजिताभिः श्वेतबिंद्वंकिताभिः मृगीभिः वडवाभिर्वा हविर्लक्षणान्नवंतं यजमानं गच्छथ । (*pṛṣatībhiḥ vṛkṣaṃ yāta—yuṣmadrathe yojitābhiḥ śvetabiṃdvaṃkitābhiḥ mṛgībhiḥ vaḍavābhirvā havirlakṣaṇānnavaṃtaṃ yajamānaṃ gacchatha |*): O Maruts, come to the sacrificer who is provided with food in the form of the oblation, seated in your chariots yoked with deer marked with white spots, or with mares, and offering the oblation-food, so the meaning is described.
+
+Yāska has stated the vehicles of the several deities: हरी इंद्रस्य । रोहितो अग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुतां । अरुज्यो गाव उषसः। श्यावाः सवितुः। विश्वरूपा बृहस्पतेः । नियुतो वायोः । इति दशादिष्टोपयोजनानि (*harī iṃdrasya | rohito agneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutāṃ | arujyo gāva uṣasaḥ| śyāvāḥ savituḥ| viśvarūpā bṛhaspateḥ | niyuto vāyoḥ | iti daśādiṣṭopayojanāni*) (नि.२-२८ (*ni.2-28*)) (the two bays of Indra; the red horse of Agni; the green horses of Āditya; the two asses of the Aśvins; the goats of Pūṣan; the spotted does of the Maruts; the ruddy cows of Uṣas; the dark-brown horses of Savitṛ; the many-formed ones of Bṛhaspati; the Niyut team of Vāyu; these are the ten as the harnessings specified). Here the Maruts are said to have पृषतः (*pṛṣataḥ*) (spotted does). A fuller explanation of this has been given in the earlier volumes.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> पृ॒क्षे ता विश्वा॒ भुव॑ना ववक्षिरे मि॒त्राय॑ वा॒ सद॒मा जी॒रदा॑नवः ।
+> पृष॑दश्वासो अनव॒भ्ररा॑धस ऋजि॒प्यासो॒ न व॒युने॑षु धू॒र्षदः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> पृक्षे । ता । विश्वा । भुवना । ववक्षिरे । मित्राय । वा । सदं । आ । जीरदानवः ।
+> पृषत्अश्वासः । अनवभ्रराधसः । ऋजिप्यासः । नः । वयुनेषु । धूःसदः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> पृक्षे पृक्षवते हविर्लक्षणान्नयुक्ताय यजमानाय ता तानि विश्वा सर्वाणि
+> भुवनान्युदकानि मित्राय । वाशब्द उपमार्थः । मित्रायेव सदं सदा आ ववक्षिरे ।
+> मरुत अवहंति । यद्वा वाशब्दोऽवधारणे ।
+> मित्रभूताय यजमानाय्कॆव
+> पृक्षेऽन्ने निमित्तभूते सति वृष्ट्युदकान्यावहंति । कीदृशा मरुतः । जीरदानवः ।
+
+> *pṛkṣe pṛkṣavate havirlakṣaṇānnayuktāya yajamānāya tā tāni viśvā sarvāṇi*
+> *bhuvanānyudakāni mitrāya | vāśabda upamārthaḥ | mitrāyeva sadaṃ sadā ā vavakṣire |*
+> *maruta avahaṃti | yadvā vāśabdo 'vadhāraṇe |*
+> *mitrabhūtāya yajamānāykèva*
+> *pṛkṣe 'nne nimittabhūte sati vṛṣṭyudakānyāvahaṃti | kīdṛśā marutaḥ | jīradānavaḥ |*
+
+### Printed p. 234
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 34, p. 234.*
+
+> क्षिप्रदानाः । पृषदश्वासः पृषद्भिः श्वेतबिंदुभिर्युक्ता अश्वा येषां ते तथोक्ताः ।
+> अनवभ्रराधसः ॥ भृशु भ्रंशु अधःपतने । अवभ्रंशनमवभ्रः । डोऽन्यत्रापि दृश्यते ।
+> सा. ६-२-४८-४ । इति दप्रत्ययः । नास्त्ववभ्रो यस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तर-
+> पदांतोदात्तत्वं । अनवभ्रं भ्रंशनरहितं राधो धनं येषां ते । बहुव्रीहौ
+> पूर्वपदप्रकृतिस्वरत्वं ॥ ऋजिप्यासोन । ऋजु अकुटिलं प्राप्नुवंतो गच्छंतोऽश्वा
+> इव वयुनेषु गंतृषु मध्यॆ धूर्षदो धुरि मेघस्य वहने सीदंतो निषण्णा
+> इत्यर्थः ॥
+
+> *kṣipradānāḥ | pṛṣadaśvāsaḥ pṛṣadbhiḥ śvetabiṃdubhiryuktā aśvā yeṣāṃ te tathoktāḥ |*
+> *anavabhrarādhasaḥ ‖ bhṛśu bhraṃśu adhaḥpatane | avabhraṃśanamavabhraḥ | ḍo 'nyatrāpi dṛśyate |*
+> *sā. 6-2-48-4 | iti dapratyayaḥ | nāstvavabhro yasyeti bahuvrīhau nañsubhyāmityuttara-*
+> *padāṃtodāttatvaṃ | anavabhraṃ bhraṃśanarahitaṃ rādho dhanaṃ yeṣāṃ te | bahuvrīhau*
+> *pūrvapadaprakṛtisvaratvaṃ ‖ ṛjipyāsona | ṛju akuṭilaṃ prāpnuvaṃto gacchaṃto 'śvā*
+> *iva vayuneṣu gaṃtṛṣu madhyè dhūrṣado dhuri meghasya vahane sīdaṃto niṣaṇṇā*
+> *ityarthaḥ ‖*
+
+Gist: the Maruts always bring all the waters to the sacrificer provided with food, as to a friend, or bring the rain-waters for him alone when food is the occasion; their steeds are spotted, their wealth undiminishing, and they sit at the yoke of the cloud.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जीरदानवः (*jīradānavaḥ*)—those who give without delay; अनवभ्रराधसः (*anavabhrarādhasaḥ*)—those who have wealth free from destruction; पृषदश्वासः (*pṛṣadaśvāsaḥ*)—those who have horses of a colour in the form of spots; ऋजिप्यासो न (*ṛjipyāso na*)—like horses running straight; वयुनेषु (*vayuneṣu*)—in the paths to be traversed; धूर्षदः (*dhūrṣadaḥ*)—those who sit in the chariot in the form of the cloud, being the Maruts; पृक्षे (*pṛkṣe*)—to the sacrificer who is provided with food in the form of the oblation; ता विश्वा भुवना (*tā viśvā bhuvanā*)—all the water; मित्राय वा (*mitrāya vā*)—as one gives respectfully to a friend; सदं (*sadaṃ*)—always; आ ववक्षिरे (*ā vavakṣire*)—bring.
+
+**भावार्थ (Bhāvārtha)**
+
+The Maruts, who give without delay, who have wealth free from destruction, who have horses of a colour in the form of spots, and who sit in the chariot in the form of the cloud like horses running straight along the paths, always bring all the water to the sacrificer who is provided with food in the form of the oblation, as one gives respectfully to a friend.
+
+**Printed English translation**
+
+The prompt-giving Maruts ever confer upon the (offerer of sacrificial) food, as upon a friend, all these (world-supporting) waters: they who have spotted deer for steeds, who are possessed of inexhaustible riches, aud [sic] who, seated in their chariots, (proceed) amongst the moving (clouds), like horses going straight (to the goal).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पृक्षे विश्वा भुवना मित्राय वा आववक्षिरे (*pṛkṣe viśvā bhuvanā mitrāya vā āvavakṣire*)—हनिर्लक्षणान्नयुक्ताय यजमानाय सर्वाणि उदकानि मित्रायेव मरुतः सदा आवहंति । यदा वा शब्दो अवधारणे मित्रभूताय यजमानाय्कॆव पृक्षे अन्ने निमित्तभूते सति वृष्ट्युदकान्यावहंति । (*hanirlakṣaṇānnayuktāya yajamānāya sarvāṇi udakāni mitrāyeva marutaḥ sadā āvahaṃti | yadā vā śabdo avadhāraṇe mitrabhūtāya yajamānāykèva pṛkṣe anne nimittabhūte sati vṛṣṭyudakānyāvahaṃti |*) (as supplied, हनिर्लक्षण (*hanirlakṣaṇa*); compare हविर्लक्षण (*havirlakṣaṇa*) in the bhāṣya): the Maruts always bring all the waters to the sacrificer provided with food in the form of the oblation, as to a friend; or else, the word वा (*vā*) being for emphasis, they bring the rain-waters to the sacrificer who is like a friend, when food is the occasion. Here two kinds of meaning have been given for the particle वा (*vā*), that of comparison and that of emphasis. From this two
+
+### Printed p. 235
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 19, p. 237 (as supplied; the page is p. 235 in the sequence of this window).*
+
+*Note: the text of this page begins with a fresh Special Topics label and with entries that do not follow the sentence broken off at the end of p. 234 ("From this two …"); the page is reproduced as supplied, and the order of the supplied pages may need checking by the user.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+समन्यवः—समानमनस्काः, समानक्रोधाः समानतेजसो वा । (*samanyavaḥ—samānamanaskāḥ, samānakrodhāḥ samānatejaso vā |*) The author of the Nirukta has read the word मन्यु (*manyu*) among the names of anger (नि. ३-९ (*ni. 3-9*)) and has explained: मन्युर्मन्यतेर्दिप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा (*manyurmanyaterdiptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo vā*) (नि. १०-३१ (*ni. 10-31*)). It is said that the Marut deities are of one kind of mind, of one kind of anger and splendour, and भ्राजदृष्टयः—दीप्यमानायुधाः (*bhrājadṛṣṭayaḥ—dīpyamānāyudhāḥ*), having weapons that shine, and so they are described as coming to the sacrificial hall.
+
+धेनुभिः रष्यदूधभिः अध्वस्मभिः पथिभिः हंसासो न स्वसराणि—प्रीणयितृभिः महोधस्कैः यद्वा शब्दायमानोच्छ्रितप्रदेशैः मेघैस्सह मार्गैरेव वा यथा हंसाः स्वकीयानि निवासस्थानानि प्राप्नुवंति तद्वत् । (*dhenubhiḥ raṣyadūdhabhiḥ adhvasmabhiḥ pathibhiḥ haṃsāso na svasarāṇi—prīṇayitṛbhiḥ mahodhaskaiḥ yadvā śabdāyamānocchritapradeśaiḥ meghaissaha mārgaireva vā yathā haṃsāḥ svakīyāni nivāsasthānāni prāpnuvaṃti tadvat |*) The way and the order in which the Maruts come to the sacrifices for the drinking of Soma are stated. It is explained that they come to the sacrificial hall, as swans reach their own dwelling places, either with the clouds that gladden the whole world and are provided with abundant (thick) streams of water, or that sound and stand in lofty regions, or by the paths.
+
+रष्यदूधभिः—विरष्यीति महन्नाम । ऊधांसि जलस्रोतो मार्गः । महोधस्कैः । यद्वा शब्दायमानोच्छ्रितप्रदेशाः । (*raṣyadūdhabhiḥ—viraṣyīti mahannāma | ūdhāṃsi jalasroto mārgaḥ | mahodhaskaiḥ | yadvā śabdāyamānocchritapradeśāḥ |*) विरष्यी (*viraṣyī*) is stated among the names of the great (नि. ३-१३ (*ni. 3-13*)). The path along which water pours down in a stream is called ऊधन् (*ūdhan*). Sāyaṇa has explained it as "having drops (streams) of thick water", or as "lofty regions that make a strong sound".
+
+पथिभिः—पतंति गच्छंतीति पंथानो मेघाः । (*pathibhiḥ—pataṃti gacchaṃtīti paṃthāno meghāḥ |*) Because they are of a moving nature, the clouds are spoken of by the word पंथानः (*paṃthānaḥ*).
+
+मधोर्मदाय-सोमस्य मदार्थं । (*madhormadāya-somasya madārthaṃ |*) The word मधु (*madhu*) is stated among the names of water (नि. २-२४ (*ni. 2-24*)). And—
+
+> मरुत्ता इंद्र वृषभो रणाय पिबा सोममनुष्वधं मदाय ।
+> आ सिंचस्व जठरे मध्व ऊर्मिं त्वं राजासि प्रदिवः सुतानां ॥
+
+> *maruttā iṃdra vṛṣabho raṇāya pibā somamanuṣvadhaṃ madāya |*
+> *ā siṃcasva jaṭhare madhva ūrmiṃ tvaṃ rājāsi pradivaḥ sutānāṃ ‖*
+
+(म. सं. ३-४७-१ (*ma. saṃ. 3-47-1*))
+
+In this Ṛk: मधु न ऊर्मि० । मधु सोमं इत्यौपमिकं माद्यतेः । इदमपीतर-न्मध्वेतस्मादेव । (नि. ४-८) (*madhu na ūrmi0 | madhu somaṃ ityaupamikaṃ mādyateḥ | idamapītara-nmadhvetasmādeva | (ni. 4-8)*) (as supplied). Because it produces intoxication, Soma is described as the meaning of the word मधु (*madhu*).
+
 ---
 
-**Progress note:** Done through printed p. 232 (PDF 232). Sūkta 34 Ṛk 2 Special Topics (p. 230) and Ṛk 3 through its Special Topics, which break off mid-sentence at ಸಮಾನಕ್ಷೋಡವಾ (⟦ಸಮನ್ಯವಃ⟧ entry; window ends). As supplied: ಸಿ. ೨-೧೩ for Nir., ಹಿರಣಶಿಪ್ರಾಃ/ಪ್ರಕ್ಷಂ vs Saṃhitā, ಅಶ್ವರ್ನದಸ್ಯ, ತುರರ್ಗಾ.
+**Progress note:** Done through printed p. 235 (PDF 235). Sūkta 34 Ṛk 3 Special Topics finished (p. 233); Ṛk 4 complete (pp. 233-234); p. 235 reproduced as supplied. Flags: p. 235 starts a fresh Special Topics (samanyavaḥ, dhenubhiḥ…) that does not follow p. 234's broken sentence and its head reads 237 — page order/content to check; supplied ಹನಿರ್ಲಕ್ಷಣ for ಹವಿರ್ಲಕ್ಷಣ, ಹಯಣಭಾಷ್ಯಂ label; p. 235 Ṛk not identified
