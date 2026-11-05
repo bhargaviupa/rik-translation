@@ -2938,6 +2938,96 @@ Pure unmolested, possessing (abundant) food and virtuous descendants, he dwells 
 
 uta: and; adite: O Aditi; mitra: O Mitra; varuṇa: O Varuṇa; yat: if; vayaṃ: we; vaḥ: in regard to you; kaccit: any; āgaḥ: offence; cakrama: have committed; mṛḷa: show kindness to us and protect us; indra: O Āditya, endowed with excellent wealth; uru: wide; abhayaṃ: and fearless; jyotiḥ: light; aśyāṃ: may I obtain; dīrghāḥ: very long; tamisrāḥ: nights full of darkness; naḥ: us; mā abhi naśan: may they not encircle and pervade.
 
+### Printed p. 96
+
+**भावार्थ (Bhāvārtha)**
+
+O Aditi, Mitra, Varuṇa, even if we have committed some offence against you, show kindness to us and protect us. O Āditya, endowed with excellent wealth, may I obtain wide and fearless light. May the very long nights, full of darkness, not encircle and pervade us.
+
+**Printed English translation**
+
+Aditi, Mitra, Varuna, have pity upon us, even although we may have committed some offence against you: may I obtain, Indra, that great light which is free from peril; let not the protracted glooms (of night) envelop us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meanings of the words Aditi, Mitra and Varuṇa have been explained earlier. Here these deities are addressed by these words, and protection is prayed for: that each of them should protect the sacrificer and the priests with kindness. Further, the prayer is described as asking them to pardon the offences committed by the sacrificer and the priests and to protect them.
+
+Yāska has explained the meaning of the word Indra (Ni. 10-8); this explanation was given at length in the earlier volumes. Here the Ādityas are addressed by the word Indra; the meaning is explained as "those having unsurpassed wealth", and it is prayed that these Ādityas may grant the sacrificer their own abundant radiance or knowledge. It is also hoped that the Ādityas will so act that the nights, covered with pitch darkness and extending for a very long time, may pass happily for the sacrificer.
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> उ॒भे अ॑स्मै पीपयतः समी॒ची दि॒वो वृ॒ष्टिं सु॒भगो॒नाम॒ पुष्य॑न् ।
+> उ॒भा क्षया॑वा॒जय॑न्याति पृ॒त्सूभावर्धौ॑ भवतः सा॒धू अ॑स्मै ॥ १५ ॥
+
+> *ubhe asmai pīpayataḥ samīcī divo vṛṣṭiṃ subhagonāma puṣyan |*
+> *ubhā kṣayāvājayanyāti pṛtsūbhāvardhau bhavataḥ sādhū asmai ‖ 15 ‖*
+
+### Printed p. 97
+
+**॥ पदपाठः ॥**
+
+> उभे इति । आस्मै [?] पीपयतः । समीची इति संईची । दिवः । वृष्टिं । सुभगः ।
+> नाम । पुष्यन् ।
+> उभा । क्षयौ । आजयन् । याति । पृत्सु । उभौ अर्थौ [?] । भवतः । साधू इति ।
+> अस्मै ॥ १५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> य आदित्यानां भवति प्रणीताविति व्यवहितोऽप्यत्रेदंशेन परामृश्यते ।
+> अस्मै यजमानाय सविाची संगच्छमाने उभे द्यावापृथिव्यौ पीपयतः । प्राय-
+> यतः । कामान्वर्धयतः ॥ प्यायि वृद्दौ । अस्माण्ण्यंताच्छांदसो लुज् । व्यत्ययेन
+> तसस्तामादेशाभावो धातोः पीभावश्च ॥ स च सुभगः शोभनधनो दिवो द्युलो-
+> कादागतां वृष्टिं पुष्यन् वर्धयन् भवति । नामेति प्रसिद्धिर्द्योत्यते । किंच पृत्सु
+> पृतनासु संग्रामेष्वजयन् शत्रूनाभिमुख्येनाभिभवन् उभा क्षयावुभौ निवासौ ॥
+> क्षियंति निवसंत्यस्मिन्निति क्षयो निवासस्थानं । पुंसि संज्ञायां घः प्रायेणेत्यधिकरणे
+> घः । क्षयो निवास इत्याद्युदात्तत्वं ॥ तौ परैरनाक्रांतं स्वकीयं निवासस्थानं
+> आत्मनापहृतं परकीयं निवासस्थानं च याति । गच्छति । तथास्मै यजमानायोभा-
+> वर्धौ जगतो भागौ चराचरात्मकौ मर्त्यामर्त्याकौ वा साधू साधकौ भवतः ॥
+
+> *ya ādityānāṃ bhavati praṇītāviti vyavahito 'pyatredaṃśena parāmṛśyate |*
+> *asmai yajamānāya saviācī saṃgacchamāne ubhe dyāvāpṛthivyau pīpayataḥ | prāya-*
+> *yataḥ | kāmānvardhayataḥ ‖ pyāyi vṛddau | asmāṇṇyaṃtācchāṃdaso luj | vyatyayena*
+> *tasastāmādeśābhāvo dhātoḥ pībhāvaśca ‖ sa ca subhagaḥ śobhanadhano divo dyulo-*
+> *kādāgatāṃ vṛṣṭiṃ puṣyan vardhayan bhavati | nāmeti prasiddhirdyotyate | kiṃca pṛtsu*
+> *pṛtanāsu saṃgrāmeṣvajayan śatrūnābhimukhyenābhibhavan ubhā kṣayāvubhau nivāsau ‖*
+> *kṣiyaṃti nivasaṃtyasminniti kṣayo nivāsasthānaṃ | puṃsi saṃjñāyāṃ ghaḥ prāyeṇetyadhikaraṇe*
+> *ghaḥ | kṣayo nivāsa ityādyudāttatvaṃ ‖ tau parairanākrāṃtaṃ svakīyaṃ nivāsasthānaṃ*
+> *ātmanāpahṛtaṃ parakīyaṃ nivāsasthānaṃ ca yāti | gacchati | tathāsmai yajamānāyobhā-*
+> *vardhau jagato bhāgau carācarātmakau martyāmartyākau vā sādhū sādhakau bhavataḥ ‖*
+
+The printed text carries two footnotes, "1 ಜಯಗಣೇಶಾಯ ನಮಃ" (an invocation, "Victory to Gaṇeśa, salutation") and "1 ಪ್ರವರ್ತಕ" ("instigator"), whose points of attachment are not shown in the supplied text.
+
+*Gist: the sacrificer under the Ādityas' guidance is nourished by heaven and earth together, thrives with rain, and wins both his own and his enemies' dwellings; both halves of creation favour him.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+asmai: for this sacrificer (who is under the guidance of the Ādityas); ubhe: both heaven and earth; samīcī: coming together; pīpayataḥ: fulfil his desires; (he, being) subhagaḥ: possessed of excellent wealth; divaḥ: from the heavenly world; vṛṣṭiṃ: the rain (by the rain); puṣyan nāma: surely obtains growth; pṛtsu [?]: in battles; ājayan: defeating enemies; ubhā kṣayau: both kinds of dwelling-places, his own and those of his enemies; yāti: enters; asmai: for this sacrificer; ubhāvardhau: both kinds of creative works, moving and unmoving; sādhū: as favourable; bhavataḥ: become. (The Kannada text prints "dyāvāpṛthivī" as व्यावापृथिविगळिब्बरू (*vyāvāpṛthivigaḷibbarū*) [?] and "pṛtsu" as हृत्सु (*hṛtsu*) [?], apparently misreadings.)
+
+**भावार्थ (Bhāvārtha)**
+
+For the sacrificer who is under the guidance of the Ādityas, heaven and earth, coming together, fulfil his desires. Possessed of excellent wealth, he obtains growth through the rain that has come from the heavenly world.
+
+### Printed p. 98
+
+In battles, defeating his enemies, he enters both the dwelling-places that are his own and those of his enemies. To this sacrificer both kinds of creative works, moving and unmoving, become favourable.
+
+**Printed English translation**
+
+Both (heaven and earth) combined, cherish him (whom the Adityas protect); verily prosperous, he thrives, with the rain of heaven ; victorious in battles, (he defends) both his own dwelling (and assaults) that of his foe; to him both portions (of creation) are propitious.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+It is explained that for the sacrificer who has obtained the favour of the Ādityas and stands in the path they show, heaven and earth, ever together, bring about growth, favourably, so that his desires are fulfilled.
+
+पृत्सु आजयन् उभौ क्षयौ याति (*pṛtsu ājayan ubhau kṣayau yāti*) — ⟦ಸಂಗ್ರಾಮೇಷು ಶತ್ರೂನಾಭಿಮುಖ್ಯೇನಾಭಿಭವನ್,
+ಪರೈರನಾಕ್ರಾಂತಂ ಸ್ವಕೀಯಂ ನಿವಾಸಸ್ಥಾನಂ ಆತ್ಮನಾಪಹೃತಂ ಪರಕೀಯಂ ನಿವಾಸಸ್ಥಾನಂ ಚ ಗಚ್ಛತಿ ।⟧ The word *pṛt* is listed by Yāska (Ni. 3-9) among the names of battle. By the favour of the Ādityas the sacrificer overcomes his enemies in wars, and obtains his own dwelling (house) not assailed by others and also the houses of others which he has seized. That is, keeping his own dwelling in comfort and seizing the dwellings of his enemies as well, he lives happily by his own strength.
+
+क्षयः क्षियंति निवसंत्यस्मिन्निति । (*kṣayaḥ kṣiyaṃti nivasaṃtyasminniti |*) The meaning of the word *kṣaya* is explained as places so arranged as to be convenient for dwelling and inhabited by people, that is, houses.
+
+उभावर्धौ साधू—जगतः चराचरात्मकौ भागौ, मर्त्यामर्त्यात्मकौ वा । (*ubhāvardhau sādhū—jagataḥ carācarātmakau bhāgau, martyāmartyātmakau vā |*) The world is described as having two meanings: either it contains two kinds, the stationary (that does not move), in the form of trees, creepers and the like, and the moving, with beings able to move; or it contains two kinds of beings, those subject to death and those not subject to death, i.e. gods and mortals. All these are explained as becoming favourable and effective for the sacrificer.
+
 ---
 
-**Progress note:** Done through printed p. 95 (PDF 95). Sūkta 27 Ṛk 12 complete (p. 92), Ṛk 13 complete (pp. 93-94), Ṛk 14 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 95); Bhāvārtha next. Hand fixes to kn.md: page 94 marker added (merged into p. 93), Ṛk 13/14 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha labels and > blocks, garbled/stray lines removed, Ṛk 14 Saṃhitā ' and : replaced by । and ॥. Flags: Ṛk 14 Pada ಆದತೇ [?], ಶಮಿಸ್ತಾಃ [?] (hyphen-split joined); Latin S in ಗೋSಪರಾಧಂ; ಜ್ಯೋತ್ಸಾತಮಿಸ್ತಾತೃಂಗಿಣಾ; Ṛk 13 Pada slips ಘ್ನ್ತಿ, ಪ್ರನೀಶೌ; Ni. 3-9 printed as ಸಿ. ೩-೯; Pā. 5-2-114 not twinned; accent DIFF 3
+**Progress note:** Done through printed p. 98 (PDF 98). Sūkta 27 Ṛk 14 complete (p. 96), Ṛk 15 complete (pp. 96-98); Sūkta 27 continues with Ṛk 16. Hand fixes to kn.md: labels and > blocks set, stray lines (garbled ' ಚರಿತೆ, '7', no-text line) removed, Pada label moved after page-97 marker, footnotes 1 ಜಯಗಣೇಶಾಯ ನಮಃ and 1 ಪ್ರವರ್ತಕ moved out of bhāṣya block. Flags [?]: Pada ಆಸ್ಮೈ, ಉಭೌ ಅರ್ಥೌ; Pratipadārtha ವ್ಯಾವಾಪೃಥಿವಿ, ಹೃತ್ಸು (for pṛtsu); bhāṣya ಸವಿಾಚೀ, ಅಸ್ಮಾಣ್ಣ್ಯಂತಾಚ್ಛಾಂದಸೋ unflagged slips
