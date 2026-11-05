@@ -2159,6 +2159,95 @@ I present cotinually [sic], with the ladle (of speech), these oblation-droping [
 
 Secondly: यद्वा जुहूस्थानीयेन धृतं क्षरंति वाग्रूपाणि हवींषि आदित्यानुद्दिश्य त्यजामि (*yadvā juhūsthānīyena dhṛtaṃ kṣaraṃti vāgrūpāṇi havīṃṣi ādityānuddiśya tyajāmi*): addressing the Ādityas, with the [supplied text breaks off here, at the end of the page, in the words "ಜೂಹೂ ಎಂಬ ಹೋಮ"] ladle called *juhū*, the sacrificial instrument of oblation
 
+### Printed p. 71
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 6, p. 71.*
+
+(Special Topics of Ṛk 1, continued) …the ladle, I offer oblations in the form of speech that pour ghee, through the organ of speech, which is like a vessel for making the oblation. This is how it is explained. The point that the mantras offer ghee and other substances abundantly is supported by the sentence of the Taittirīya Brāhmaṇa, यदृचोऽधीते पयसः कुल्या अस्य (*yadṛco 'dhīte payasaḥ kulyā asya*) (Tai. Brā. 2-10).
+
+जुह्वा (*juhvā*)—वागिंद्रियेण (*vāgiṃdriyeṇa*)—वाज्ञामैतत् (*vājñāmaitat*) [sic, as supplied]: such is also Sāyaṇa's explanation. Yāska has read the word जिह्वा (*jihvā*) among the names of speech (Si. 2-23).
+
+नः शृणोतु (*naḥ śṛṇotu*)—for this sentence Sāyaṇa explains अस्मदीयाः ताः गिरः मित्रादयः प्रत्येकं शृणोतु (*asmadīyāḥ tāḥ giraḥ mitrādayaḥ pratyekaṃ śṛṇotu*): may Mitra and the other Ādityas, each separately, all hear these our words of praise that we, the praisers, offer. He then quotes the sentence of the Taittirīya Āraṇyaka, "अष्टौ पुत्रासो अदितेः (*aṣṭau putrāso aditeḥ*) … मित्रश्च वरुणश्च धाताचार्यमाच अंशुश्च भगश्च इंद्रश्च विवस्वांश्चेत्येते (*mitraśca varuṇaśca dhātācāryamāca aṃśuśca bhagaśca iṃdraśca vivasvāṃścetyete*)" (Tai. Ā. 1-13-3), which says that the goddess Aditi has eight sons: Mitra, Varuṇa, Dhātā, Aryamā, Aṃśu, Bhaga, Indra and Vivasvān.
+
+मित्रः (*mitraḥ*)—प्रमितेस्त्रायकः यद्वा सर्वेषां स्निग्धः (*pramitestrāyakaḥ yadvā sarveṣāṃ snigdhaḥ*): Sāyaṇa explains the word Mitra as one who protects living beings from dangers so that they do not die, or as one who is friendly towards living beings. Yāska explains the word Mitra as मित्रः प्रमितेस्त्रायते सम्मिन्वाने द्रवतीति वा वेदयतेर्वा (*mitraḥ pramitestrāyate samminvāne dravatīti vā vedayatervā*) (Si. 10-2).
+
+अरी गच्छति नियच्छतीति आर्यमा (*arī gacchati niyacchatīti āryamā*)—Sāyaṇa states the explanation of the word Aryamā as one who restrains enemies. Yāska explains: अर्यमादित्यो अरीन्नियच्छति (*aryamādityo arīnniyacchati*) (Si. 11-23).
+
+भगः भजनीयो देवः (*bhagaḥ bhajanīyo devaḥ*): Sāyaṇa's explanation is "the god who is worthy to be served". Yāska comments on the word Bhaga as भगो भजतेः (*bhago bhajateḥ*) (Ni. 1-7); he also read it among the names of wealth (Ni. 3-9) and explained the meaning as भगस्य भागधेयस्य धर्मस्य (*bhagasya bhāgadheyasya dharmasya*) (Ni. 9-31).
+
+वरुणः तुविजातः (*varuṇaḥ tuvijātaḥ*)—अनुग्रहार्थं बहुषु देशेषु प्रादुर्भूतः पापनिवारणात् वरुणः (*anugrahārthaṃ bahuṣu deśeṣu prādurbhūtaḥ pāpanivāraṇāt varuṇaḥ*): Sāyaṇa explains that, since he has become manifest in many regions in order to protect living beings out of compassion and to remove their sins, he is called Varuṇa. Yāska explains it as वृणोतिति सतः (*vṛṇotiti sataḥ*) [sic, as supplied] (Ni. 10-5).
+
+दक्षः अंशः (*dakṣaḥ aṃśaḥ*)—समर्थः (*samarthaḥ*): the word Dakṣa is given the meaning "able, possessed of power". It is explained as an epithet of the Āditya famed by the name Aṃśa. Thus these Mitra, Aryamā
+
+### Printed p. 72
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 26 [as printed], p. 72.*
+
+Varuṇa and Aṃśa are invoked to hear separately the hymns recited by us, the priests, and to show favour.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> इ॒मं स्तोमं॒ सक्र॑तवो मे अ॒द्य मि॒त्रो अ॑र्य॒मा वरु॑णो जुषन्त ।
+> आ॒दि॒त्यासः॒ शुच॑यो॒ धार॑पूता॒ अवृ॑जिना अनव॒द्या अरि॑स्वाः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> इमं । स्तोमं । सक्रतवः । मे । अद्य । मित्रः । अर्यमा । वरुणः । जुषन्त ।
+> आदित्यासः । शुचयः । धार्पूताः । अवृजिनाः । अनवद्याः । अरिस्वाः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> पूर्वोक्त एव पशाविमं स्तोममित्येषा वपाया याज्या । सूत्रितं च ।
+> इमं स्तोमं सक्रतवो मे अद्य तिस्रो भूमीर्धारयन् त्रीरुत द्यून् ।
+> आ. ३ ८. । इति ॥
+> इमं मेऽस्मदीयं स्तोमं स्तोत्रं सक्रतवः समानकर्माणः समानप्रजा
+> वा मित्रादयोऽद्येदानीं जुषंत । जुषंतां सेवंतां । कीदृशास्ते । आदित्या-
+> सोऽदितेः पुत्राः शुचयो दीप्यमानाः । धारपूता उदकधाराभिरिव पूताः ।
+> निर्मला इत्यर्थः । अवृजिनाः । वृजी वर्जने । अवर्जितारः । सर्वानुग्राहका
+> इत्यर्थः। अनवद्याः। अवद्येन गर्ह्येण पापेन रहिताः । अरिष्टाः केनाप्यहिंसिताः ॥
+
+*Gist:* This Ṛk is the yājyā for the vapā (omentum) offering in the animal sacrifice mentioned above; may Mitra and the other Ādityas, pure and blameless, enjoy my praise today.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आदित्यासः—the sons of Aditi; शुचयः—the shining ones; धारपूता—pure like a stream of water; अवृजिना—those who forsake (none of their devotees) but favour all; अनवद्या—free from sin; अरिष्टाः [sic: the Saṃhitā has अरिस्वाः]—not harmed by anyone; सक्रतवः—possessed of equal (rites or) wisdom; मित्रः—Mitra; अर्यमा—Aryaman; वरुणः—Varuṇa
+
+### Printed p. 73
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 6, p. 73.*
+
+also; मे—recited by me; इमं स्तोमं—this praise; अद्य—at this time of sacrifice; जुषंत—let them enjoy.
+
+**भावार्थ (Bhāvārtha)**
+
+May the deities Mitra, Aryaman and Varuṇa—sons of Aditi, shining, pure like a stream of water, not forsaking any devotee but favouring all, free from sin, harmed by none, and possessed of equal rites and wisdom—enjoy at this time of sacrifice this praise recited by me. (May they hear it and be pleased.)
+
+**Printed English translation**
+
+May those of equal exploits, Mitra, Aryaman, Varuna, be pleased to-day by this my praise; they who are Adityas, luminous, purified by showers, who abandon none (that worship them), who are irreproachable, unassailable.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the animal sacrifice spoken of earlier, this Ṛk, इमं स्तोमं (*imaṃ stomaṃ*), is to be recited as the yājyā mantra while the vapā oblation is made; this is supported by the Āśvalāyana Śrauta Sūtra, in the sūtra इमं स्तोमं सक्रतवो मे अद्य तिस्रो भूमीर्धारयन् त्रीरुत द्यून् (*imaṃ stomaṃ sakratavo me adya tisro bhūmīrdhārayan trīruta dyūn*) (Ā. 3-8).
+
+सक्रतवः (*sakratavaḥ*)—समानकर्माणः समानप्रज्ञा वा मित्रादयः (*samānakarmāṇaḥ samānaprajñā vā mitrādayaḥ*): those having work of one kind, and possessed of knowledge of one manner—Mitra and the others—are described as hearing the praises of us, the priests, and being pleased.
+
+These Ādityas are described as दीप्यमानाः (*dīpyamānāḥ*), brilliant; उदकधाराभिरिव पूताः (*udakadhārābhiriva pūtāḥ*), holy like streams of water; अवर्जितारः (*avarjitāraḥ*), bestowing favour on all; गर्ह्येन पापेन रहिताः (*garhyena pāpena rahitāḥ*), free from censured sins; and केनाप्यहिंसिताः (*kenāpyahiṃsitāḥ*), such that no one else can harm them. Thus their greatness has been made clear.
+
+(A garbled line of the supplied text, "-~௨௪௬௧-", was removed.)
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> त आ॑दि॒त्यास॑ उ॒रवो॑ गभी॒रा अद॑ब्धास्तो॒ दिप्स॑नो भूर्य॒क्षाः ।
+> अ॒न्तः प॑श्यंति वृजि॒नोत सा॒धु सर्वं॒ राज॑भ्यः पर॒मा चि॒दन्ति॑ ॥ ३ ॥
+
+> *ta ādityāsa uravo gabhīrā adabdhāsto dipsano bhūryakṣāḥ |*
+> *antaḥ paśyaṃti vṛjinota sādhu sarvaṃ rājabhyaḥ paramā cidanti ‖ 3 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 70 (PDF 70). Sūkta 26 Ṛk 4 Special Topics end (p. 68); Sūkta 27 intro, header, Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (breaks off at 'ಜೂಹೂ ಎಂಬ ಹೋಮ', p. 70). Hand fixes to kn.md: Anuvāda and Sūkta header lines taken out of > blocks, Pratipadārtha label added and taken out of bhāṣya block. Supplied slips left: ಕರ್ಮೋ ಗಾತ್ಸರ್ಮವೋ (ṛṣi), ಭಂದುಃ, ಅ೦ಹಸಃ, ಪ್ರತಿವಾರ್ಘ, ಆರ್ಪಿಸುತ್ತೇನೆ
+**Progress note:** Done through printed p. 73 (PDF 73). Sūkta 27 Ṛk 1 Special Topics end (p. 71), Ṛk 2 complete (pp. 72-73), Ṛk 3 Saṃhitā only (end of p. 73). Hand fixes to kn.md: Ṛk 2 Saṃhitā put in a block with standard label, stray '೪' and a garbled divider line removed. Supplied slips left: ಧಾರ್ಪೂತಾಃ (Pada) vs ಧಾರಪೂತಾ, ಅರಿಸ್ವಾಃ (Saṃhitā) vs ಅರಿಷ್ಟಾಃ (bhāṣya), ವೃಣೋತಿತಿ, ವಾಜ್ಞಾಮೈತತ್; running head says Sū. 26
