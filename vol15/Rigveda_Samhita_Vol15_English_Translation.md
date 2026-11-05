@@ -673,6 +673,96 @@ Gist: the eternal wisdom-deeds of Brahmaṇaspati open, month by month and year 
 
 O priests and sacrificers, those acts, endowed with knowledge, that Brahmaṇaspati accomplished as the fruit of reciting the mantra, ancient, of many kinds and renowned, open the doors of the future of the waters, during the span of months and of years, for your use [the Bhāvārtha continues on p. 24, in the next window].
 
+### Printed p. 24
+
+*Running head: [24 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, Ā. 3, Sū. 24] (as supplied).*
+
+(Bhāvārtha of Ṛk 5, continued from p. 23) ... and make a way for the flow of the waters. Thereafter heaven and earth, which act of their own impulse without any restraint, mutually enjoy the foods given to each other; that is, the earth enjoys the water given by the heaven-world, and the heaven-world enjoys the food, in the form of oblation, given by the earth.
+
+**Printed English**
+
+For you, (worshippers), the constant and manifold (bounties of Brahmanaspati), through months and through years, set open the gates of the future rains, and he has appointed those results of prayer, which the two regions mutually and without effort provide.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is somewhat difficult. Many have explained it in many ways. For the word भुवना (*bhuvanā*) in this Ṛk some take it to mean the people of the world, while Sāyaṇa takes it to mean water. Likewise he has supplied the word "heaven and earth" (द्यावापृथिविगळु (*dyāvāpṛthivigaḷu*)) by ellipsis and explained it so that the sense fits.
+
+ब्रह्मणः पतिः या वयुना चकार सना ता का चित् भुवना भवित्वा दुरः माद्भिः शरद्धिः वः वरंत (*brahmaṇaḥ patiḥ yā vayunā cakāra sanā tā kā cit bhuvanā bhavitvā duraḥ mādbhiḥ śaraddhiḥ vaḥ varaṃta*)—When Brahmaṇaspati made knowledge the subject of the mantra, that is, made it public in the form of the meaning of the mantra, the knowledge-endowed mantras of Brahmaṇaspati (the sacrificial acts and the like), in the months and in the years, for your (the people's) benefit, caused the doors of the rain-water to be opened and the rain to fall. By reciting meaningful mantras in sacrifices and the like, rain falls, as the fruit of it, throughout the year, in all the months, that is, during the greater part of the year. The main idea is that the water stored in the clouds is released by the recitation of meaningful mantras in sacrifices and the like, and falls on the earth in the form of rain. Here the word वयुन (*vayuna*) is read among the names of wisdom (Nir. 3-13), the word भुवन (*bhuvana*) among the names of water (Nir. 2-24); the word शरत् (*śarat*) is used in the sense of year (Nir. 4-26).
+
+अयतंता अन्यदन्यत् इत् चरतः (*ayataṃtā anyadanyat it carataḥ*)—By the greatness of Brahmaṇaspati, heaven and earth, without any effort of their own, cooperate with each other and work. How? The doors of the water that is to rain in future (the clouds) are broken open in the respective months or years and made to pour rain; that is, this Brahmaṇaspati, by his power of mantra, makes the clouds pour rain at the proper time, and makes heaven and earth dependent on one another. In due season rain [the sentence continues on p. 25]
+
+### Printed p. 25
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 2] Ṛgveda-saṃhitā, p. 25 (as supplied).*
+
+(continued from p. 24) ... falls, plants and the like grow well on the earth, and with their help the people are enabled to perform sacrifices and the like. The gods in the heaven-world accept the oblations and the like given by men, are satisfied, and bring about rain. This in turn favours the sacrifices and the like. Therefore the heaven-world's pouring of rain, and the earth's producing plants and the like and helping the sacrificial acts, is called the mutual dependence of heaven and earth. Since this work goes on without effort on the part of heaven and earth, the main idea is that the power of mantra, or the greatness, of Brahmaṇaspati is the cause of such works.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अ॒भि॒नक्षं॑तो अ॒भि ये तमा॑न॒शुर्नि॒धिं प॑णी॒नां प॑र॒मं गुहा॑ हि॒तं ।
+> ते वि॒द्वांसः॑ प्रति॒चक्ष्यानृ॑ता॒ पुन॒र्यत॑ उ॒ आयं॒तदुदी॑युरा॒विशं॑ ॥
+
+> *abhinakṣaṃto abhi ye tamānaśurnidhiṃ paṇīnāṃ paramaṃ guhā hitaṃ |*
+> *te vidvāṃsaḥ praticakṣyānṛtā punaryata u āyaṃtadudīyurāviśaṃ ‖*
+
+**॥ पदपाठः ॥**
+
+> अभिनक्षंतः । अभि । ये । तं । आनशुः । निधिं । पणीनां । परमं । गुहा । हितं ।
+> ते । विद्वांसः । प्रतिचक्ष्य । अनृता । पुनः । यतः । ऊं इति । आयन् । तत् । उत् ।
+> ईयुः । अविशं ॥ ६ ॥
+
+> *abhinakṣaṃtaḥ | abhi | ye | taṃ | ānaśuḥ | nidhiṃ | paṇīnāṃ | paramaṃ | guhā | hitaṃ |*
+> *te | vidvāṃsaḥ | praticakṣya | anṛtā | punaḥ | yataḥ | ūṃ iti | āyan | tat | ut |*
+> *īyuḥ | aviśaṃ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> गोसमूहे पणिभिरसुरैरपहृते सति पणीनां स्थानं सरमाख्यया देवशुन्या
+> ज्ञात्वा ब्रह्मणस्पतिना सृष्ट्वा अंगिरसस्तत्स्थानं प्राप्य गोसमूहं पणिभिर्निर्मिता
+> मायाश्च दृष्ट्वा असुरनिवासस्थानं स्वहस्तोद्भूतेनाग्निना दग्धा प्रत्यागच्छन् ।
+> तदेद्द्वचेनोच्यते । अभिनक्षंतोऽभितो गच्छंतो येऽंगिरसस्तं निधिं गोस-
+> मूहरूपं निधानं धनं परममुत्कृष्टं पणीनां ॥ त्रितीयार्थे षष्ठी ।
+> पणिभिर्गुहायां निहितं स्थापितमभ्यानतुः । अभिलक्ष्यानशिरे । प्राप्तवंतः ॥
+
+> *gosamūhe paṇibhirasurairapahṛte sati paṇīnāṃ sthānaṃ saramākhyayā devaśunyā*
+> *jñātvā brahmaṇaspatinā sṛṣṭvā aṃgirasastatsthānaṃ prāpya gosamūhaṃ paṇibhirnirmitā*
+> *māyāśca dṛṣṭvā asuranivāsasthānaṃ svahastodbhūtenāgninā dagdhā pratyāgacchan |*
+> *tadeddvacenocyate | abhinakṣaṃto 'bhito gacchaṃto ye 'ṃgirasastaṃ nidhiṃ gosa-*
+> *mūharūpaṃ nidhānaṃ dhanaṃ paramamutkṛṣṭaṃ paṇīnāṃ ‖ tritīyārthe ṣaṣṭhī |*
+> *paṇibhirguhāyāṃ nihitaṃ sthāpitamabhyānatuḥ | abhilakṣyānaśire | prāptavaṃtaḥ ‖*
+
+### Printed p. 26
+
+*Running head: [26 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied).*
+
+> विद्वांसोऽभिज्ञास्तेऽंगिरसोऽनृता अनृतान्यसुरैः कृता मायाः प्रतिचक्ष्य दृष्ट्वा-
+> आविशमावेष्टुं प्रवेष्टुं यत उ यत एव स्थानादायन् आगच्छन् तत्स्थानं
+> पुनरुदीयुः । उदगच्छन् । उत्कर्षेण प्राप्ताः ॥
+
+> *vidvāṃso 'bhijñāste 'ṃgiraso 'nṛtā anṛtānyasuraiḥ kṛtā māyāḥ praticakṣya dṛṣṭvā-*
+> *āviśamāveṣṭuṃ praveṣṭuṃ yata u yata eva sthānādāyan āgacchan tatsthānaṃ*
+> *punarudīyuḥ | udagacchan | utkarṣeṇa prāptāḥ ‖*
+
+Gist: when the Paṇi asuras had stolen the cows, the Aṅgirases, guided by Sarama the divine bitch sent by Brahmaṇaspati, found the Paṇis' place, saw their illusions, burned them with fire from their hands, and returned.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अभिनक्षंतः (*abhinakṣaṃtaḥ*)—searching on every side (for the cows); ये (*ye*)—which Aṅgirases; परमं (*paramaṃ*)—excellent; तं निधिं (*taṃ nidhiṃ*)—that treasure, in the form of cows; पणीनां (*paṇīnāṃ*)—of the Paṇis; गुहा हितं (*guhā hitaṃ*)—placed in the cave; अभि आनशुः (*abhi ānaśuḥ*)—discovered; विद्वांसः (*vidvāṃsaḥ*)—the wise; ते (*te*)—those Aṅgirases; अनृता (*anṛtā*)—that illusion of the Asuras; पतिचक्ष्य (*paticakṣya*) (as supplied; the Saṃhitā and Pada have प्रतिचक्ष्य (*praticakṣya*))—having seen (the cave in the form of illusion); अविशं (*aviśaṃ*)—to enter; यत उ (*yata u*)—from whichever place; आयन् (*āyan*)—they had come; तत् (*tat*)—that very place; पुनः (*punaḥ*)—again; उदीयुः (*udīyuḥ*)—went and reached exceedingly.
+
+**भावार्थ (Bhāvārtha)**
+
+Those Aṅgirases who, searching on every side for the cows, discovered that excellent treasure, in the form of cows, placed in the cave of the Paṇis—those same wise Aṅgirases, having seen that illusion of the Asuras, the cave in the form of illusion, went again exceedingly and reached the very place from which they had come in order to enter it. (The supplied text has उष्कृष्टवादुदू (*uṣkṛṣṭavādudū*) for "excellent"; the Pratipadārtha has उत्कृष्टवादुदू (*utkṛṣṭavādudū*); kept as supplied.)
+
+**Printed English**
+
+Those sages, who, searching on every side, discoverd [sic] the precious treasure (of cattle) hidden in the cave of the Panis, having seen through the false (illusions of the Asura), and again coming (thither), forced an entrance.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk and in the next Ṛk the subject of Brahmaṇaspati or Bṛhaspati is not taken up. But the praise of the Aṅgirā sages, the descendants of Bṛhaspati, and a description of the daring deeds they did on the occasion of bringing the cows stolen by the Paṇis, are stated. To explain the meaning of this Ṛk the bhāṣyakāra has briefly set out here the story told in other places. Formerly the asuras called Paṇis stole the herd of cows of the gods (or of the Aṅgirā sages?) and kept it hidden in a secret place, that is, in a mountain cave. To search for these cows Indra sent the divine bitch called Saramā (the divine bitch of the world of the gods ... [the passage continues in the next window].
+
 ---
 
-**Progress note:** Done through printed p. 23 (PDF 23). Sūkta 24 Ṛk 4 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (pp. 21-22); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 23); Bhāvārtha of Ṛk 5 begun, continues on p. 24. Flags: 1 accent DIFF in the window; supplied-text oddities kept: Pada 'अश्वआस्यं', Special Topics 'अश्ववद्', 'स्पर्दृशः', 'ಸಿ ೧೦-೧೩', 'ಭವಿತ್ವಾ/ಭವೀತ್ವಾ', 'ಮಾರ್ಧಿಃ/ಮಾರ्त्भिः'; hand fix to kn.md p. 23: garbled Bhāvārtha label.
+**Progress note:** Done through printed p. 26 (PDF 26). Sūkta 24 Ṛk 5 Bhāvārtha end, printed English, Special Topics (pp. 24-25); Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English (pp. 25-26); Ṛk 6 Special Topics begun, breaks off mid-sentence at end of p. 26 (continues p. 27). Flags: hand fixes to kn.md p. 25 (garbled Saṃhitā label replaced, Ṛk 6 Saṃhitā put in a block, Pada/bhāṣya label split); supplied-text oddities kept: Pratipadārtha 'ಪತಿಚಕ್ಷ್ಯ' for Pada 'ಪ್ರತಿಚಕ್ಷ್ಯ', Bhāvārtha 'ಉಷ್ಕೃಷ್ಟ', Special Topics 'ಭವಿತ್ವಾ/ಭವೀತ್ವಾ', 'ಶರದ್ಧಿಃ'; printed English 'discoverd' [sic]; Ṛk 6 Saṃhitā has no Ṛk number (೬ appears after the Pada)
