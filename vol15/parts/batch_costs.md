@@ -10,3 +10,4 @@ pp.27-30 | sonnet | n/a
 pp.31-33 | sonnet | n/a
 pp.34-36 | sonnet | n/a
 pp.37-39 | sonnet | n/a
+pp.40-42 | sonnet | n/a
