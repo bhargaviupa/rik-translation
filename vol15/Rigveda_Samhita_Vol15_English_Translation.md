@@ -1935,6 +1935,128 @@ The manner in which the seer, the seer of the mantra, instructs his own men, tho
 
 मनायतः विहि—मन इव शीघ्रं प्रवर्तमानान्, हिंसका. अभिमन्यमानान् शत्रु प्रति युद्धार्थं गच्छ (*manāyataḥ vihi—mana iva śīghraṃ pravartamānān, hiṃsakā. abhimanyamānān śatru prati yuddhārthaṃ gaccha*) [as supplied]: with a swiftness abundant like the speed of the mind, rush forward... (the supplied text breaks off here, at ಮುನ್ನುಗ್ಗಿ).
 
+### Printed p. 64
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 7, Sūkta 26, p. 64 (printed "ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ" in the supplied text).*
+
+(Special Topics of Ṛk 2 continued from p. 63.) ...forward, coming and doing violence, or against enemies who are full of arrogance: so it is said.
+
+*vṛtratūrye bhadraṃ manaḥ kṛṇuṣṭa*—Sāyaṇa explains the word *vṛtra* in this sentence as used in the sense of enemies who envelop and do harm. Yāska has explained the various meanings of the word *vṛtra* (Ni. 2-16), and the word *vṛtratūrya* he has read among the names of battle (Ni. 3-9). Here it is stated, as the view of the seer of the mantra, that a mind endowed with courage should be employed against the enemies who practise violence, and that "by the favour of Brahmaṇaspati victory will be yours alone" (ब्रह्मणस्पतेरनुग्रहात्तवैव जयो भविष्यति (*brahmaṇaspateranugrahāttavaiva jayo bhaviṣyati*)).
+
+यथा त्वं सुभगः आससि—ब्रह्मणस्पतेर्यागेन त्वं शोभनधनो भविष्यसि (*yathā tvaṃ subhagaḥ āsasi—brahmaṇaspateryāgena tvaṃ śobhanadhano bhaviṣyasi*): it is said that by performing sacrifice with Brahmaṇaspati as the object, the attainment of excellent wealth will come about. And वयं ब्रह्मणस्पतेः अवः आवृणीमहे (*vayaṃ brahmaṇaspateḥ avaḥ āvṛṇīmahe*), "we greatly desire protection from Brahmaṇaspati": this wish is also expressed.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> स इज्जने॑न॒ स वि॒शा स जन्म॑ना॒ स पु॒त्रैर्वाजं॑ भरते॒ धना॒ नृभिः॑ ।
+> दे॒वानां॒ यः पि॒तर॑मा॒विवा॑सति श्र॒द्धाम॑ना ह॒विषा॒ ब्रह्म॑ण॒स्पतिं॑ ॥ ३ "
+
+**॥ पदपाठः ॥**
+
+> सः । इत् । जनेन । सः । विशा । सः । जन्मना । सः । पुत्रैः । वाजं । भरते । धना ।
+> नृभिः ।
+> देवानां । यः । पितरं । आविवासति । श्रद्धामनाः । हविषा । ब्रह्मणः । पतिं ॥ ३ ॥
+
+> *saḥ | it | janena | saḥ | viśā | saḥ | janmanā | saḥ | putraiḥ | vājaṃ | bharate | dhanā |*
+> *nṛbhiḥ |*
+> *devānāṃ | yaḥ | pitaraṃ | āvivāsati | śraddhāmanāḥ | haviṣā | brahmaṇaḥ | patiṃ ‖ 3 ‖*
+
+### Printed p. 65
+
+*Running head: Maṇḍala 2, Adhyāya 7 [sic, as supplied], Varga 5, Ṛgveda-saṃhitā, p. 65. (The running head was merged into the Pada block in the supplied text; placed here by hand.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> यो यजमानः श्रद्धामनाः श्रद्धा मनसि यस्य शादृशः सन् देवानां पितरं
+> पालयितारं ब्रह्मणस्पतिं हविषा चरुपुरोडाशादिनाविवासति । परिचरति ॥ विवासतिः
+> परिचरणकर्मा ॥ स इत् स एव यजमानो जनेन जातेन सर्वेण लोकेन
+> वाजमन्नं भरते बिभर्ति संभरति वा । स एव विशा प्रजया जन्मनात्मीयेन बंधु-
+> जनेन वाजं भरते । स एव पुत्रैरात्मीयैरपत्यैर्वाजं भरते । तथा नृभिर्नतृभि-
+> रन्यैः परिचारकैर्धना धनानि भरते । बिभर्ति संपादयति वा । ब्रह्मणस्पतिमिष्टवतो
+> यजमानस्य सर्वतो जना अन्नधनयोः साधका भवंतीति यावत् ॥
+
+*Gist:* the sacrificer who serves Brahmaṇaspati, father of the gods, with oblations obtains food and wealth through all people, his kin, sons and attendants.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*)—the sacrificer who; श्रद्धामनाः (*śraddhāmanāḥ*)—having a mind full of faith; देवानां (*devānāṃ*)—of the gods; पितरं (*pitaraṃ*)—the protector; ब्रह्मणस्पतिं (*brahmaṇaspatiṃ*)—Brahmaṇaspati; हविषा (*haviṣā*)—with cooked offerings, caru, purodāśa and the like; आ विवासति (*ā vivāsati*)—serves and worships; स इत् (*sa it*)—that sacrificer alone; (as his own kin) जन्मना जनेन (*janmanā janena*)—with all the people who have come into being; वाजं (*vājaṃ*)—food; भरते (*bharate*)—obtains; सः (*saḥ*)—he alone; विशा (*viśā*)—with his subjects (obtains food); सः (*saḥ*)—he alone; पुत्रैः (*putraiḥ*)—with his sons (obtains food); नृभिः (*nṛbhiḥ*)—with men who are his attendants; धना (*dhanā*)—(obtains) riches.
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer who, with a mind full of faith, attends and worships Brahmaṇaspati, the protector of the gods, with caru, purodāśa and the like, that sacrificer alone obtains food together with all those who have come into being as his kin, together with his subjects and with his sons. That sacrificer alone obtains riches together with the men who are his attendants. (The supplied text has "ಚರುಪುರೋಡಾರಾದಿಗಳಿಂದ" for ಚರುಪುರೋಡಾಶಾದಿಗಳಿಂದ, and "ನರದೊಡನೆ", apparently for ನರರೊಡನೆ; left as supplied.)
+
+**Printed English translation**
+
+He who with a believing mind worships Brahmanaspati, the father of the gods, with oblations. he verily receives food, together with his sons, his kindred. his descendants. his people, and (obtains) riches together with (all) men.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ब्रह्मणस्पतिमिष्टवतो यजमानस्य जनाः सर्वतो अन्नधनयोः साधकाः भवंति (*brahmaṇaspatimiṣṭavato yajamānasya janāḥ sarvato annadhanayoḥ sādhakāḥ bhavaṃti*): all people, in many ways, give food and wealth and help the sacrificer who performs a sacrifice directed to the god Brahmaṇaspati. This meaning is explained in this Ṛk by four sentences
+
+### Printed p. 66
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 26, p. 66.*
+
+(continued) ...four sentences.
+
+श्रद्धामनाः हविषा आ विवासति स इत् वाजं भरते (*śraddhāmanāḥ haviṣā ā vivāsati sa it vājaṃ bharate*): here the word विवासति (*vivāsati*) Yāska (Ni. 3-13-11-23, as printed) has read among the words meaning service. It is stated that the sacrificer who, full of devotion, has satisfied Brahmaṇaspati with oblations obtains food and nourishes all others.
+
+In the same way, आत्मीयेन बंधुजनेन, आत्मीयैरपत्यैः नेतृभिरन्यैः परिचारकैः वाजं भरते संपादयति वा (*ātmīyena baṃdhujanena, ātmīyairapatyaiḥ netṛbhiranyaiḥ paricārakaiḥ vājaṃ bharate saṃpādayati vā*): it is explained that for a sacrificer of this kind his kinsfolk, his sons, and the servants who attend him also obtain food and wealth and are nourished by him. (The supplied text has "ಅವನು ಪುತ್ರರೂ" and "ವಿವರಿಸಿದೆ" preceded by "ಎಂದ"; left as supplied.)
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> यो अ॑स्मै ह॒वैर्घृ॒तव॑द्भि॒रवि॑ध॒त्प्र, तं प्रा॒चा न॑यति॒ ब्रह्म॑ण॒स्पतिः॑ ।
+> उ॒रु॒ष्यती॒मंह॑सो॒ रक्ष॑शी रि॒षो३ं॒३॒॑होश्चि॑दस्मा उरु॒चक्रि॒रद्भु॑तः ॥
+
+**॥ पदपाठः ॥**
+
+> यः । अस्मै । हव्यैः । धृतवत्भिः । अविधत् । प्र । तं । प्राचा । नयति ।
+> ब्रह्मणः । पतिः ।
+> उरुष्यति । ईं । आंहसः । रक्षति । रिषः । आंहोः । चित् । अस्मै । उरुचक्रिः ।
+> अद्भुतः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यो यजमानोऽस्मै ब्रह्मणस्पतये ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः
+> संप्रदानत्वाच्चतुर्थी ॥ इमं ब्रह्मणस्पतिं धृतवद्भिरुपस्तरणाभिघारणात्मकेनाज्ये-
+> नोपेतैर्हवैर्हविर्भिरविधत् । परिचरति ॥ विध विधाने तौदादिकः । आयं परिचरण-
+
+> *yo yajamāno 'smai brahmaṇaspataye ‖ kriyāgrahaṇaṃ kartavyamiti karmaṇaḥ*
+> *saṃpradānatvāccaturthī ‖ imaṃ brahmaṇaspatiṃ dhṛtavadbhirupastaraṇābhighāraṇātmakenājye-*
+> *nopetairhavairhavirbhiravidhat | paricarati ‖ vidha vidhāne taudādikaḥ | āyaṃ paricaraṇa-*
+
+### Printed p. 67
+
+*Running head: Maṇḍala 2, Adhyāya 7, Varga 5, Ṛgveda-saṃhitā, p. 67.*
+
+> कर्मसु पठितः ॥ तं यजमानं ब्रह्मणस्पतिः प्राचा प्राचीनेन ऋजुना मार्गेण
+> प्रणयति । प्रकृष्टफलं प्रापयति । अपि च ईमेनमंहसः पापादुरुष्यति । रक्षति ॥
+> उरुष्यती रक्षाकर्मेति यास्कः ॥ तथा रिषो हिंसकादेनं रक्षति । अंहोश्चित् ।
+> अवृत्तेर्दारिद्रात् । यद्वा अगत्य हंतुरपि रक्षति । अपि चास्मै यजमानायाद्भुतः ।
+> महन्नामैतत् । आश्चर्यभूतो महान् ब्रह्मणस्पतिरुरुचक्रिरुरोविस्तीर्णस्योप-
+> कारस्य कर्ता भवति ॥
+
+*Gist:* Brahmaṇaspati leads the worshipper by a straight path to his reward, protects him from sin, the harmful foe and poverty, and as a great and wonderful one does him many favours.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*)—the sacrificer who; अस्मै (*asmai*)—with this Brahmaṇaspati as the object; धृतवद्भिः (*dhṛtavadbhiḥ*)—endowed with ghee; हव्यैः (*havyaiḥ*)—with oblations; अविधत् (*avidhat*)—worships; तं (*taṃ*)—that sacrificer; ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati; प्राचा (*prācā*)—by a most straight path; प्र नयति (*pra nayati*)—leads towards the fruit; (and) ईं (*īṃ*)—this sacrificer; अंहसः (*aṃhasaḥ*)—from sin; उरुष्यति (*uruṣyati*)—protects; रिषः (*riṣaḥ*)—from the harmful enemy; रक्षति (*rakṣati*)—protects; अंहोश्चित् (*aṃhościt*)—from the sin in the form of poverty also (protects); अस्मै (*asmai*)—to this same sacrificer; अद्भुतः (*adbhutaḥ*)—the great-souled Brahmaṇaspati; उरुचक्रिः (*urucakriḥ*)—becomes also abundantly a benefactor.
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer who worships Brahmaṇaspati with oblations endowed with ghee, that sacrificer Brahmaṇaspati leads along a most straight path towards the fruit. And he protects this sacrificer from sin, from the harmful enemy and from poverty. To this same sacrificer the great-souled Brahmaṇaspati becomes abundantly a benefactor.
+
+**Printed English translation**
+
+Brahmanaspathi leads by a straight path (to his reward), the worshipper who propitiates him with oblations of butter : he guards him against sin; he protects him from foes and from distresss [sic] ; and wonderful (in might), confers upon him many (favours)-
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+तं प्राचा प्रनयति—ब्रह्मणस्पतिः ऋजुना मार्गेण प्रकृष्टं फलं प्रापयति (*taṃ prācā pranayati—brahmaṇaspatiḥ ṛjunā mārgeṇa prakṛṣṭaṃ phalaṃ prāpayati*): Brahmaṇaspati, pleased by the offerings of oblations and the like, accompanied by the substances beginning with ghee (printed धृतादि (*dhṛtādi*)) which have been prepared (the supplied text breaks off here, at the end of the page, after "ಬ್ರಹ್ಮಣಸ್ಪತಿಯು").
+
 ---
 
-**Progress note:** Done through printed p. 63 (PDF 63). Sūkta 26 Ṛk 1 Pratipadārtha end, Bhāvārtha, printed English, Special Topics (p. 61); Ṛk 2 Saṃhitā, Pada, bhāṣya and Special Topics begun (pp. 62-63, breaks off at 'ಮುನ್ನುಗ್ಗಿ' in the supplied text). Hand fix to kn.md: garbled Pada label replaced by the standard one. Unmarked supplied slips: ಕೃಣುಷ್ಟ/ಕೃಣಷ್ಟ್ವ, ಹಃ for ಹವಿಃ, ಮನ್ನುಗ್ಗಿ, ಪರಿಸುವ, ಇಚ್ಛನ್ನೇನ, ಯಂಜತಿ, ಮೊಬಲನೆಯದಾದ, ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ
+**Progress note:** Done through printed p. 67 (PDF 67). Sūkta 26 Ṛk 2 Special Topics end (p. 64); Ṛk 3 complete (pp. 64-65, Special Topics into p. 66); Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (breaks off at 'ಬ್ರಹ್ಮಣಸ್ಪತಿಯು', p. 67). Hand fixes to kn.md: p. 65 marker/head inserted (merged into p. 64 Pada block), stray accent-number lines '೧ ಜಾಯುಷಾಷ್ಟಕಃ ೧' and '೧ ಹವಸಾತಿ ೨' removed, missing labels added, Pratipadārtha/Bhāvārtha taken out of bhāṣya block, stray '5' removed. Unmarked supplied slips: ವೃತ್ತತೂರ್ಯೆ, ಕೃಣುಷ್ಟ, ಚರುಪುರೋಡಾರಾದಿ, ನರದೊಡನೆ, ಧೃತವದ್ಭಿಃ/ಧೃತಾದಿ, ಆಸಸಿ
