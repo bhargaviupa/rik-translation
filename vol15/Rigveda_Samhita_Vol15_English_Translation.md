@@ -10081,6 +10081,88 @@ the derivation is thus given. That is, in the word अध्वरयु (*adhva
 
 *(Note: the supplied Saṃhitā text of this Ṛk reads प्रोत्रात्सोमं (*protrātsomaṃ*) where Ṛk 1 and the bhāṣya have होत्रात् (*hotrāt*); also पत्यते (*patyate*), सोम्यं (*somyaṃ*); kept as supplied, not corrected.)*
 
+### Printed p. 320
+
+**॥ पदपाठः ॥**
+
+> यं । ऊं इति । पूर्वं । अहुवे । तं । इदं । हुवे । सः । इत् । ऊं इति । हव्यः ।
+> ददिः । यः । नाम । पत्यते ।
+> अध्वर्युभिः । प्रस्थितं । सोम्यं । मधु । प्रोत्रात् । सोमं । द्रविणःदः ।
+> पिब । ऋतुभिः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे द्रविणोदो यमु यं त्वामेव पूर्वं होतृकर्तृके सोमया-
+> गेऽहुवे । आहूतवानस्मि इदं संप्रति तं तमेव पोतृकर्तृके सोमयागे हुवे।
+> अह्वयामि । सेत् स एव द्रविणोदा हव्यो ह्वातव्यः ॥ उ इति पूरणे ॥ ददिरभीष्ट-
+> फलस्य दाता यो नाम यः खलु पत्यते देवतात्वेनेष्टे तस्मै द्रविणोदसे
+> सोम्यं सोमात्मकं मध्वध्वर्युभिः प्रस्थितं प्रणीतमासीत् । हे द्रविणोदः
+> पोत्रात् पोतुर्यागादृतुभिरूर्जसंज्ञकैः सह सोमं पिब ॥
+
+*Gist:* O Draviṇodas, you whom I called in the Hotṛ's Soma sacrifice I now call in the Potṛ's; the Soma is ready; drink it from the Potṛ's sacrifice with the Ṛtus called Ūrja.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Draviṇodaḥ — O Draviṇodas). Yamu — you whom. Pūrvaṃ — formerly (in the Soma sacrifice performed by the Hotṛ). Ahuve — I invoked with prayer. Idaṃ — now (in the sacrifice performed by the Potṛ as well). Taṃ — that same you. Huve — I call. Set — that same you, renowned as Draviṇodas. Havyaḥ — are worthy of invocation. Yo nāma — which god. Dadiḥ — as the giver of desired ends. Patyate — is renowned. (For that Draviṇodas) Somyaṃ — consisting of Soma. Madhu — intoxicating oblation. Adhvaryubhiḥ — by the Adhvaryus. Prasthitaṃ — has been brought. Draviṇodaḥ — O Draviṇodas. Potrāt — in the sacrifice performed by the Potṛ. Ṛtubhiḥ — together with the deities called Ūrja. Somaṃ — the Soma. Piba — drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O Draviṇodas, you whom I formerly invoked with prayer in the Soma sacrifice performed by the Hotṛ, that same you I now call in the sacrifice performed by the Potṛ as well. You, renowned as Draviṇodas, are worthy of invocation. For that god who is renowned as the giver of desired ends, an oblation consisting of Soma and intoxicating has been brought by the Adhvaryus. O Draviṇodas, in the sacrifice performed by the Potṛ, drink the Soma together with the deities called Ūrja.
+
+### Printed p. 321
+
+**Printed English translation**
+
+He, whom I formerly invoked, and whom I now invoke, is verily worthy of invocation, for he is renowned as a benefactor: the Soma libation has been brought by thc [sic] priests : drink, Dravinodas, along with the Ritus, the Soma, the offering of the Potri.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यं उ पूर्वं अहुवे इदं तं हुवे (*yaṃ u pūrvaṃ ahuve idaṃ taṃ huve*) — हे द्रविणोदः यं त्वां होतृकर्तृके सोमयागे आहूतवानस्मि संप्रति तमेव पोतृकर्तृके सोमयागे आह्वयामि । (*he draviṇodaḥ yaṃ tvāṃ hotṛkartṛke somayāge āhūtavānasmi saṃprati tameva potṛkartṛke somayāge āhvayāmi |*) The sacrificer addresses the deity Draviṇodas again: O Draviṇodas, earlier (in the previous Ṛk) I invited you to drink Soma together with the Ṛtus in the Hotṛ's sacrifice. Now in the Soma sacrifice performed by the priest called Potṛ also, I invite you to come to the sacrificial ground with the deities presiding over the month called Ūrja (Kārttika) and drink the Soma juice.
+
+सः इत् हव्यः उ (*saḥ it havyaḥ u*) — That Draviṇodas is worthy to be invited for drinking Soma. This fact is well known.
+
+यो नाम ददिः पत्यते सोम्यं मधु अध्वर्युभिः प्रस्थितं (*yo nāma dadiḥ patyate somyaṃ madhu adhvaryubhiḥ prasthitaṃ*) — For that Draviṇodas who is renowned as the giver of desired ends to sacrificers and others, the tasty Soma juice has been brought, prepared and placed by the priests called Adhvaryus.
+
+द्रविणोदः पोत्रात् ऋतुभिः सोमं पिब (*draviṇodaḥ potrāt ṛtubhiḥ somaṃ piba*) — हे द्रविणोदः पोतुर्यागात् ऊर्जसंज्ञकैः ऋतुभिः सह सोमं पिब । (*he draviṇodaḥ poturyāgāt ūrjasaṃjñakaiḥ ṛtubhiḥ saha somaṃ piba |*) O Draviṇodas, drink this Soma juice, which the Adhvaryus have prepared for you and placed on the sacrificial altar, together with the deities presiding over the month Ūrja (Kārttika): such is the sacrificer's prayer stated here.
+
+The particles इत् (*it*) and उ (*u*) are used to fill out the pāda. Yāska has said अथापि पदपूरण इदमु तदु (*athāpi padapūraṇa idamu tadu*) (Ni. 1-5) [reference as printed], and Durgācārya, the commentator on the Nirukta, also says उकारः पडपूरणः (*ukāraḥ paḍapūraṇaḥ*) [sic, as supplied].
+
+*(Note: a stray line "21" at the end of the page in the supplied text, probably a footnote or page-signature number; kept in kn.md, not explained.)*
+
+### Printed p. 322
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> मेद्यं॑तु ते॒ वह्न॑यो॒ येभि॒रीय॒सेऽरि॑षण्यन्वीळयस्वा वनस्पते ।
+> आ॒यूया॑ धृष्णो अभि॒गूर्या॒ त्वं ने॒ष्टात्सोमं॑ द्रविणोदः॒॒॑॑
+> पिब ऋतुभिः ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> मेद्यंतु । ते । वह्नयः । येभिः । ईयसे । अरिषण्यन् । वीळयस्व । वनस्पते ।
+> आयोय । धृष्टो इति । अभिगूर्य । त्वं । नेष्ट्रात् । सोमं । द्रविणःदः ।
+> पिब । ऋतुभिः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे द्रविणोदो येभिर्यैर्वाहैरीयसे प्राप्नोषि ॥ ते तव वह्नयो
+> वोढार इति यास्केनोक्तत्वात् । नि. ८-३ ॥ ते मेद्यंतु । तृप्यंतु । हे वनस्पते
+> वनानां पते अरिषण्यन् अहिंसन् वीळयस्व । दृढीभव । हे धृष्टो धर्षक त्वमा-
+> यूयागत्य अभिगूर्योद्यम्य नेष्त्रात् नेष्टुर्यागादृतुभिः सहःसंज्ञकैः सह
+> सोमं पिब ॥
+
+*Gist:* O Draviṇodas, may your bearers be satisfied; strengthen yourself, harming none; come, and drink Soma with the Ṛtus from the Neṣṭṛ's sacrifice.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Draviṇodaḥ — O Draviṇodas. Yobhiḥ [as supplied] — by which bearers. Īyase — you are brought. Te vahnayaḥ — those bearers of yours. Medyantu — may they be satisfied. Vanaspate — lord of the forests. Ariṣaṇyan — not being harmful. Vīḷeyasva [as supplied] — become one of firm body. Dhṛṣṭo — O subduer of enemies. Tvaṃ — you. Āyūya [as supplied] — having come. Abhigūrya — approving our sacrifice. Neṣvāt [as supplied] — in the sacrifice performed by the Neṣṭṛ. Ṛtubhiḥ — with the deities called Sahas [as supplied]. Somaṃ — the Soma juice. Piba — drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O Draviṇodas, may those bearers by which you are brought be satisfied. O Lord of the forest, become one of firm body, but do not be harmful. O subduer of enemies, O
+
 ---
 
-**Progress note:** Done through printed p. 319 (PDF 319). pp. 317-319: Sūkta 37 Ṛk 1 Special Topics end (Bṛhaddevatā on Draviṇodas, adhvaryu, Nirukta 1-8); Ṛk 2 Saṃhitā only, Pada next; flags: Nirukta/Bṛ. De. quotations made > blocks by hand, software 'This image contains' line removed, Saṃhitā ಪ್ರೋತ್ರಾತ್ as supplied
+**Progress note:** Done through printed p. 322 (PDF 322). pp. 320-322: Sūkta 37 Ṛk 2 (Pada onward) and Ṛk 3 through bhāṣya, Pratipadārtha and start of Bhāvārtha (kn.md window ends mid-sentence); flags: stray '21' line noted, supplied spellings (ಯೋಭಿಃ, ವೀಳೆಯಸ್ವ, ನೇಷ್ವಾತ್, ಸಹಃ, ಪಡಪೂರಣಃ, thc) kept as supplied
