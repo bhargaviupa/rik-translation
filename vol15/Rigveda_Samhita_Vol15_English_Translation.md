@@ -23034,6 +23034,92 @@ The word svāhā has four kinds of component meanings.
 
 *[The window ends here, at the end of p. 744; the next window continues.]*
 
+### Printed p. 745
+
+*[Running head, p. 745: Ā. (printed so for A.) 2, Ā. (printed so for A.) 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+(1) सु आहेति वा (*su āheti vā*): su = well, āha = says; because it is uttered well, or distinctly, it is called svāhā.
+
+(2) स्वा वागाहेति वा (*svā vāgāheti vā*): svā = one's own, vāk = speech. There is a Śruti sentence (Brāhmaṇa) तं स्वा वागभ्यवदज्जुहुधीति तत्स्वाहाकारस्य जन्म (*taṃ svā vāgabhyavadajjuhudhīti tatsvāhākārasya janma*); that is, because at the time of offering the person making the offering himself adds and says the word svāhā at the end of the Ṛk, the Vedic mantra, it is called svāhā.
+
+(3) स्वं प्राहेति वा (*svaṃ prāheti vā*): here svam = his own oblation, āha = he says "I shall offer"; therefore it is called svāhā.
+
+(4) स्वाहुतं हविर्जुहोतीति वा (*svāhutaṃ havirjuhotīti vā*): because the oblation one offers is offered through the utterance of the word svāhā, that is, because the oblation is given in Agni, it is called svāhā.
+
+For the meaning of svāhākāra Yāska has given this Ṛk (printed "मुक्कन्नु (*mukkannu*)") as example:
+
+⟦ಸದ್ಯೋ ಜಾತೋ ವ್ಯಮಿಮಿತ ಯಜ್ಞಮಗ್ನಿರ್ದೇವಾನಾಮಭವತ್ಪುರೋಗಾಃ ।
+ಅಸ್ಯ ಹೋತುಃ ಪ್ರದಿಶ್ಯತಸ್ಯ ವಾಚಿ ಸ್ವಾಹಾಕೃತಂ ಹವಿರದಂತು ದೇವಾಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 10-110-11)
+
+Its chief meaning: Agni, who has just been born (that is, who has now been established in the sacrifice), sits before the gods and carries out the sacrifice, performing the duty of the hotṛ, that is, the work of invoking the gods; may the gods eat the oblation offered by such a hotṛ, who stays in the east, with the utterance of the word svāhā. Therefore the purport is that svāhā is the name of the word uttered at the end of the mantra when an oblation is offered in Agni for the pleasure of the gods, after being established duly for the sacrifice.
+
+In some Āprī sūktas the plural स्वाहाकृतयः (*svāhākṛtayaḥ*) is used. Since the eleven prayāja mantras used in making offerings to the eleven deities of this sūkta are recited with the svāhā call added, the plural svāhākṛtayaḥ is used. In the Purāṇas and elsewhere the word svāhā is used in another sense. In the Mahābhārata the daughter of Bṛhaspati, the son of the seer Aṅgiras, is called Svāhā. In the Purāṇas the goddess Svāhā is said to be the daughter of Dakṣa Prajāpati and the wife of Agni.
+
+### Printed p. 746
+
+*[Running head, p. 746: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 4.]*
+
+⟦ಸ್ವಾಹಾ ಇತ್ಯೇವಂಪೂರ್ವಾ ಕೃತಿಃ ಕರಣಮುಚ್ಚಾರಣಂ ಯಕ್ಷ್ಯಮಾಣದೇವತಾನಾಂ ತಾಃ
+ಸ್ವಾಹಾಕೃತಯಃ । ತದ್ವಂತಿ ಹವ್ಯಾನಿ ।⟧ "Svāhākṛtayaḥ" are those uttered words that begin with svāhā, of the deities to be worshipped, and the oblations accompanied by them; it is an epithet of the word havyāni, oblations accompanied by the mantra svāhā recited at the offering. It is a word chiefly read in the last Ṛks of the Āprī sūktas. In some Ṛks it is also an adverb: in 1-13-12 ⟦ಸ್ವಾಹಾ
+ಕೃಣೋತನ⟧ and in 1-142-12 स्वाहा कर्तन (*svāhā kartana*); in the Ṛks 3-4-11, 7-2-11 and 10-70-11 in the sense of the instrument; in 2-3-11 as an epithet of havya; and in 10-110-11 as an epithet of havis.
+
+In explaining this word, some have held that by this word the divine svāhākṛti is indicated, and some that Agni is indicated. In the Praiṣa sūkta:
+
+होता यक्षदग्निग् स्वाहाज्यस्य (*hotā yakṣadagnig svāhājyasya*) ............ वियंतु होतर्यज । (*viyaṃtu hotaryaja |*)
+(printed तै (*tai*). ब्रा (*brā*). 3-6-2-2; the dots are as printed)
+
+it is recited. On this Sāyaṇa explains: ⟦ಯೋಽಯಂ ಸ್ವಾಹಾಶಬ್ದೋದಿತಃ ಉತ್ತಮಪ್ರಯಾಜದೇವಃ ಅಗ್ನಿಃ
+ತಂ ದೈವ್ಯೋ ಹೋತಾ ಯಜತು ।⟧ By the word svāhā he has explained that the Agni who is the eleventh prayāja deity is indicated. The Nirukta authors:
+
+⟦ಸ್ವಾಹಾಕೃತಯಃ । ಸ್ವಾಹೇತ್ಯೇತತ್ ಸು ಆಹೇತಿ ವಾ, ಸ್ವಾ ವಾಗಾಹೇತಿ ವಾ ಸ್ವಂ ಪ್ರಾಹೇತಿ
+ವಾ, ಸ್ವಾಹುತಂ ಹವಿರ್ಜುಹೋತೀತಿ ವಾ ।⟧
+(printed सि (*si*). 8-21)
+
+explained that it is well known as svāhākṛti either because it is uttered well, or because speech itself says that it is well, or because the oblation purified by the mantra svāhā is offered; and, quoting the Ṛk 10-110-11, they made this sense clear. In the Aitareya Brāhmaṇa:
+
+⟦ಸ್ವಾಹಾಕೃತೀಯಜತಿ ಪ್ರತಿಷ್ಠಾ ವೈ ಸ್ವಾಹಾಕೃತಯಃ ಪ್ರತಿಷ್ಠಾಯಾಮೇವ ತದ್ಯಜ್ಞಮಂತತಃ
+ಪ್ರತಿಷ್ಠಾಪಯತಿ ।⟧
+(printed ಇ. ब्रा (*brā*). 2-4)
+
+It explains that, since the offering is completed by the svāhākṛti, it is the support of the whole sacrifice and sets the sacrifice on a proper foundation. In the Bṛhaddevatā:
+
+⟦ಸ್ವಾಹಾಕೃತಯೋಽನೇಕಾಶ್ಚ ವಿದುಷಾಂ ಮತಯೋಽಭವನ್ ।
+ತತ್ಸರ್ವಂ ತ್ವಯಮೇವಾಗ್ನಿರ್ಭವತೀತಿ ವಿನಿಶ್ಚಯಃ ॥⟧
+
+### Printed p. 747
+
+*[Running head, p. 747: Aṣṭaka 2 (printed "ಅ. २ अ (*2 a*). ೮." without a period after ೨), Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+⟦ಅಯಂ ಹಿ ಕರ್ತಾ ಸ್ವಾಹಾನಾಂ ಕೃತಿಸ್ತಾಸಾಮಿಹೈಕಜಾ ।
+ಅಯಂ ಪ್ರಸೂರ್ಭೂತಿತಾನಾಂ ಸರ್ವೇಷಾಮಯಮವ್ಯಯಃ ॥⟧
+(Bṛ. De. 3-29 to 30)
+
+The opinions of the learned on the svāhākṛti are not of one kind. Still, all the sense indicated by this word also refers to this earthly Agni. Because this Agni is the maker of the svāhā and he is its making too, the earthly Agni is so called; following the opinion of the Nirukta authors, आग्नेया इति तु स्थितिः (*āgneyā iti tu sthitiḥ*) (Ni. 8-22), the Bṛhaddevatā authors have stated their view.
+
+In the last Ṛks of some Āprī sūktas that are of the nature of svāhākāra, deities such as Pūṣan, the Maruts, Vāyu, Sūrya, Indra and Varuṇa are all addressed; above all,
+
+पुरोगा अग्निर्देवानां गायत्रेण समज्यते । स्वाहाकृतीषु रोचते । (*purogā agnirdevānāṃ gāyatreṇa samajyate | svāhākṛtīṣu rocate |*)
+(Ṛ. Saṃ. 1-188-11)
+
+⟦ಸದ್ಯೋ ಜಾತೋ ವ್ಯಮಿಮಿತ ಯಜ್ಞಮಗ್ನಿರ್ದೇವಾನಾಮಭವತ್ಪುರೋಗಾಃ ।
+ಅಸ್ಯ ಹೋತುಃ ಪ್ರದಿಶ್ಯತಸ್ಯ ವಾಚಿ ಸ್ವಾಹಾಕೃತಂ ಹವಿರದಂತು ದೇವಾಃ ॥⟧
+(Ṛ. Saṃ. 10-110-11)
+
+In these Ṛks Agni is praised as the leader (purogā) of the gods from the time he was born. And, explaining the power of the svāhākṛti:
+
+⟦ಆ ಯಾಹ್ಯಗ್ನೇ ಸಮಿಧಾನೋ ಅರ್ವಾಜೀಂದ್ರೇಣ ದೇವೈಃ ಸರಥಂ ತುರೇಭಿಃ ।
+ಬರ್ಹಿರ್ನ ಆಸ್ತಾಮದಿತಿಃ ಸುಪುತ್ರಾ ಸ್ವಾಹಾ ದೇವಾ ಅಮೃತಾ ಮಾದಯಂತಾಂ ॥⟧
+(printed ಮ. सं (*saṃ*). ३-४ (*3-4*)-, the reference being cut off after these numbers in the supplied text, no further number supplied)
+
+⟦ಅಗ್ನೇ ವಹ ವರುಣಮಿಷ್ಟಯೇ ನ ಇಂದ್ರ ದಿವೋ ಮರುತೋ ಅಂತರಿಕ್ಷಾತ್ ।
+ಸೀದಂತು ಬರ್ಹಿರ್ವಿಶ್ವ ಆ ಯಜತ್ರಾಃ ಸ್ವಾಹಾ ದೇವಾ ಅಮೃತಾ ಮಾದಯಂತಾಂ ॥⟧
+(printed ಮ. सं (*saṃ*). 10-70-11)
+
+In these Ṛks, since the gods are made glad by the mantra svāhā, it is indicated that the word svāhā has so divine a place in the sacrifice.
+
+*[The window ends here, at the end of p. 747; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 744 (PDF 744). Sūkta 4 Ṛk 10 Special Topics end (vanaspati: Ni. 8-3, 8-18; Bṛ. De. 3-26 to 28, 1-66); Ṛk 11 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) and Special Topics begun (svāhā, Ni. 8-21)
+**Progress note:** Done through printed p. 747 (PDF 747). Sūkta 4 Ṛk 11 Special Topics (svāhā, svāhākṛti; Ni. 8-21, 8-22; Bṛ. De. 3-29 to 30; Ṛ. Saṃ. 10-110-11, 1-188-11, 10-70-11)
