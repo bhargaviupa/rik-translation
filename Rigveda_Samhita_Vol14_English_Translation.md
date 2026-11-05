@@ -25711,4 +25711,130 @@ He, who with the thunderbolt has destroyed many committing great sin, and offeri
 
 ---
 
-**Progress note:** Done through printed p. 671 (PDF 694); header offset −23 holds. Sūkta 12: Ṛk 9 is complete (Pratipadārtha finished, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu); Ṛk 10 is complete (Saṃhitā, Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu). Ṛk 11 is open: only the Saṃhitā (ending "॥ ११ ॥") is written at the foot of p. 671; the next batch begins on p. 672 with its Pada. Accents are not reproduced in the Saṃhitā/Pada of Ṛks 10–11. The numeral file agrees with the printed 3-13 (p. 670) and 11-24 and 3-9 (p. 671); the headers of pp. 669 and 671 (varga numerals 8 and 9) and the Ṛk numbers 10 and 11 are unzoomed. The varga seems to change from 8 to 9 between pp. 669 and 671 (header only; no varga-end note seen). [?] places: the compound mark in अनुऽददाति (Pada, Ṛk 10); "चोदात्तावती" and "प्रयुच्छति" in the Ṛk 10 bhāṣya; the Nirukta quotation after "एनः—एन एतेः" (p. 671); the root "श्रा हिंसायां" (p. 671).
+---
+
+### Printed p. 672 (PDF 695)
+
+*(Header: "672", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12". Ṛk 11 continues from p. 671, where only the Saṃhitā was written. A small caption "Padapāṭha" is printed.)*
+
+**॥ पदपाठः ॥**
+
+> यः । शम्बरं । पर्वतेषु । क्षियन्तं । चत्वारिंश्यां । शरदि । अनुऽअविन्दत् ।
+> ओजायमानं । यः । अहिं । जघान । दानुं शयानं । सः । जनासः । इन्द्रः ॥ ११ ॥
+
+> *yaḥ | śambaraṃ | parvateṣu | kṣiyantaṃ | catvāriṃśyāṃ | śaradi | anu 'avindat |*
+> *ojāyamānaṃ | yaḥ | ahiṃ | jaghāna | dānuṃ śayānaṃ | saḥ | janāsaḥ | indraḥ ‖ 11 ‖*
+
+*(Accents are not reproduced. The Pada has no division mark between दानुं and शयानं; this is as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, who found the asura Śambara, hidden in mountain caves for forty years for fear of him, in the fortieth autumn, struck him down, together with the mighty Ahi, the son of Danu.*
+
+> यः पर्वतेषु क्षियन्तमिन्द्रभिया बहून् संवत्सरान् प्रच्छन्नो भूत्वा पर्वतगुहासु निवसन्तं शम्बरमेतन्नामकं मायाविनमसुरं चत्वारिंश्यां शरदि चत्वारिंशे संवत्सरेऽन्वविन्दत् । अन्विष्यालभत । लब्ध्वा च यः ओजायमानम् ॥ कर्तुः क्यङ् सलोपश्च ओजसोऽप्सरसो नित्यं । पा. ३-१-११-२ । इति सकारलोपः ॥ बलमाचरन्तमहिमाहन्तारं दानुं दानवं शयानं शम्बरमसुरं जघान हतवान् स इन्द्रो नाहमिति ॥
+
+> *yaḥ parvateṣu kṣiyantamindrabhiyā bahūn saṃvatsarān pracchanno bhūtvā parvataguhāsu nivasantaṃ śambarametannāmakaṃ māyāvinamasuraṃ catvāriṃśyāṃ śaradi catvāriṃśe saṃvatsare 'nvavindat | anviṣyālabhata | labdhvā ca yaḥ ojāyamānam ‖ kartuḥ kyaṅ salopaśca ojaso 'psaraso nityaṃ | pā. 3-1-11-2 | iti sakāralopaḥ ‖ balamācarantamahimāhantāraṃ dānuṃ dānavaṃ śayānaṃ śambaramasuraṃ jaghāna hatavān sa indro nāhamiti ‖*
+
+*(Reading notes: the Pāṇini reference is read as 3-1-11-2, unzoomed; the numeral file has "3-110-2", which looks like a hyphen-segmentation slip of the same string [?]. The closing words "स इन्द्रो नाहमिति" are as printed [?]. The grammatical tail on ओजायमान [the *kyaṅ* suffix and loss of *s*] is characterised, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. पर्वतेषु (*parvateṣu*)—in the mountains. क्षियन्तं (*kṣiyantaṃ*)—who was living in hiding. शम्बरं (*śambaraṃ*)—the asura named Śambara. चत्वारिंश्यां शरदि (*catvāriṃśyāṃ śaradi*)—in the fortieth year. अन्वविन्दत् (*anvavindat*)—searched for and found. यः (*yaḥ*)—who. ओजायमानं (*ojāyamānaṃ*)—who had taken refuge in strength. अहिं (*ahiṃ*)—the destroyer. दानुं (*dānuṃ*)—the son of Danu. शयानं (*śayānaṃ*)—who lay on the mountain; that is, Śambara. जघान (*jaghāna*)—killed. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who at last found and killed the asura named Śambara, who had lived in hiding in the mountains for forty years, and who killed the Dānava, who was both mighty and a destroyer: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, who discovered Shambara dwelling in the mountains for forty years ; who slew Ahi, growing in strength, and the sleeping son of Danu ; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शम्बरं (*śambaraṃ*)—The word Śambara is read among the names of cloud (Ni. 2-21; the numeral file agrees) and among the names of water (Ni. 2-24; the numeral file agrees). In the present Ṛk, "Śambara" means the asura of the name Śambara.
+
+---
+
+### Printed p. 673 (PDF 696)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [varga numeral unzoomed], "Ṛgvedasaṃhitā", "673". The Viśeṣaviṣaya on Śambara continues from p. 672. At the foot of the page the printer's signature "[43]" and "Vol. 14" are printed.)*
+
+This Śambara is an enemy of Indra. His name and the matter concerning him are stated in the Ṛks Ṛ. Saṃ. 1-51-6, 1-54-4, 1-59-6, 1-101-2, 1-103-8, 1-112-14, 1-130-7, 2-12-11, 2-14-6, 2-19-6, 4-26-3 *(the numeral file reads "4.263"; the strip shows hyphens)*, 4-30-14, 6-18-8, 6-26-5, 6-31-4, *[one numeral group here is illegible: between 6-31-4 and 6-47-2 — the file also has a garbled glyph; [?]]*, 6-47-2, 6-47-21, 7-18-20, 7-99-5. In Ṛ. Saṃ. 6-26-5 he is called a Dāsa, the son of one Kulikāra. Generally his name is read together with Śuṣṇa, Pipru and Varcin. His forts (*durgas*) are said to be 90, 99 and 100, in the Ṛks Ṛ. Saṃ. 1-130-7, 2-19-6 and 2-14-6. In Ṛ. Saṃ. 2-24-2 the very word शम्बराणि (*śambarāṇi*) is used to indicate his forts. He is the chief enemy of Divodāsa Atithigva, and Atithigva conquered him with Indra's help; this is stated in the Ṛks Ṛ. Saṃ. 1-51-6, 1-130-6, 2-19-6, 4-26-3 and others.
+
+Some Western scholars express a different opinion about this Śambara. Some hold that doubt arises whether he was really a living person or one famous only by name. A scholar named Hillebrandt [as printed in Latin letters] thinks that he was a real person and the chief enemy of Divodāsa. Some hold that he was a well-known chief among the early inhabitants of this country, and that, living in the hills and mountains, he troubled the Āryas.
+
+ओजायमानं (*ojāyamānaṃ*)—बलमाचरन्तम् (*balamācarantam*) (*balamācarantam*). It means one who is endowed with *ojas* or strength; one of great strength.
+
+अहिं (*ahiṃ*)—आहन्तारम् (*āhantāram*). For this word, formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*) (*hana hiṃsāgatyoḥ*), the meaning "the slayer" has been explained.
+
+दानुं (*dānuṃ*)—दानवम् (*dānavam*) । दनोः पुत्रम् (*danoḥ putram*). It means the son of Danu, the mother of the Rākṣasas. The commentator says in his bhāṣya on Ṛ. Saṃ. 1-32-9 that Dānu (the mother) is दानुर्दादनी वृत्रमाता (*dānurdādanī vṛtramātā*) *(letter by letter as printed [?])*.
+
+शरदि (*śaradi*)—In the autumn season; that is, in the year. For this word, formed from the root शृ हिंसायां (*śṛ hiṃsāyāṃ*) *(the vowel sign of the root is unclear [?])*, the explanation is शीर्यन्ते अस्यां ओषधयः इति शरत् संवत्सरः (*śīryante asyāṃ oṣadhayaḥ iti śarat saṃvatsaraḥ*)—herbs, leaves and the like dry up and fall down in this season; therefore such a season is called *śarat* or *śarad-ṛtu*. Since the autumn season comes only once in a year, it is the custom in the Vedas to use the word *śarat* in the sense of "year".
+
+The Kannada then quotes:
+
+> तच्चक्षुर्देवहितं शुक्रमुच्चरत् ।
+> पश्येम शरदः शतं जीवेम शरदः शतं ॥
+
+> *taccakṣurdevahitaṃ śukramuccarat |*
+> *paśyema śaradaḥ śataṃ jīvema śaradaḥ śataṃ ‖*
+
+*(Ṛ. Saṃ. 7-66-16, as I read the printed numeral, unzoomed. FILE DISAGREE: the numeral file says 6-66-16; the digit looks flat-footed, i.e. 7. The gloss is mine and tentative: "that eye, set by the gods, rises bright; may we see a hundred autumns, may we live a hundred autumns".)*
+
+---
+
+### Printed p. 674 (PDF 697)
+
+*(Header: "674", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12". The Viśeṣaviṣaya of Ṛk 11 continues from p. 673.)*
+
+> दीर्घायुरस्या यः पतिर्जीवाति शरदः शतं ।
+
+> *dīrghāyurasyā yaḥ patirjīvāti śaradaḥ śataṃ |*
+
+*(Ṛ. Saṃ. 10-85-39; the numeral file agrees. Gloss, mine and tentative: "he who is her husband shall live long, a hundred autumns".)*
+
+In such Ṛks the word शरत् (*śarat*) is used in the sense of "year".
+
+यः शम्बरं पर्वतेषु क्षियन्तं चत्वारिंश्यां शरदि अन्वविन्दत् (*yaḥ śambaraṃ parvateṣu kṣiyantaṃ catvāriṃśyāṃ śaradi anvavindat*)—Indra searched out and destroyed the asura Śambara, who for forty years had hidden himself in the mountains so that no one could find him. This describes Indra's daring.
+
+---
+
+#### Ṛk 12
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यः स॒प्तर॑श्मिर्वृष॒भस्तुवि॑ष्मान॒वासृ॑ज॒त्सर्त॑वे स॒प्त सिन्धू॑न् ।
+> यो रौ॑हि॒णमस्फ॑र॒द्वज्र॑बाहु॒र्द्यामा॒रोह॑न्तं॒ स ज॑नास॒ इन्द्रः॑ ॥ १२ ॥
+
+> *yaḥ saptaraśmirvṛṣabhastuviṣmānavāsṛjatsartave sapta sindhūn |*
+> *yo rauhiṇamaspharadvajrabāhurdyāmārohantaṃ sa janāsa indraḥ ‖ 12 ‖*
+
+*(The Saṃhitā ends "॥ १२ ॥" at the top of the second strip.)*
+
+**॥ पदपाठः ॥**
+
+> यः । सप्तऽरश्मिः । वृषभः । तुविष्मान् । अवऽअसृजत् । सर्तवे । सप्त । सिन्धून् ।
+> यः । रौहिणं । अस्फरत् । वज्रऽबाहुः । द्यां । आऽरोहन्तं । सः । जनासः । इन्द्रः ॥ १२ ॥
+
+> *yaḥ | sapta 'raśmiḥ | vṛṣabhaḥ | tuviṣmān | ava 'asṛjat | sartave | sapta | sindhūn |*
+> *yaḥ | rauhiṇaṃ | aspharat | vajra 'bāhuḥ | dyāṃ | ā 'rohantaṃ | saḥ | janāsaḥ | indraḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra has seven rays, namely the seven rain-clouds; he is a strong bull. He released the seven rivers to flow, and, holding the vajra, struck the asura Rauhiṇa climbing to heaven.*
+
+> यः सप्तरश्मिः सप्तसंख्याकाः पर्जन्या रश्मयो यस्य । ते च रश्मयो वराहवः स्वतपसो विद्युन्महसो धूपयः श्वापयो गृहमेधाश्चेतीति ये चेमेऽशिमिविद्विषः पर्जन्याः सप्त पृथिवीमभिवर्षन्ति वृष्टिभिः । तै. आ. १-९-४,५ । इति तैत्तिरीयारण्यके ह्याम्नाताः । वृषभो वर्षकस्तुविष्मान् वृद्धिमान्बलवान्वा सप्त सर्पणस्वभावान् सिन्धूनपः सर्तवे सरणायावासृजत् । अवसृष्टवान् । यद्वा गङ्गाद्याः सप्त मुख्या नदीरसृजत् । यश्च वज्रबाहुः सन् द्यां दिवमारोहन्तं रौहिणमसुरमस्फरत् । जघान ॥ स्फर स्फरणे तुदादिः ॥
+
+> *yaḥ saptaraśmiḥ saptasaṃkhyākāḥ parjanyā raśmayo yasya | te ca raśmayo varāhavaḥ svatapaso vidyunmahaso dhūpayaḥ śvāpayo gṛhamedhāścetīti ye ceme 'śimividviṣaḥ parjanyāḥ sapta pṛthivīmabhivarṣanti vṛṣṭibhiḥ | tai. ā. 1-9-4,5 | iti taittirīyāraṇyake hyāmnātāḥ | vṛṣabho varṣakastuviṣmān vṛddhimānbalavānvā sapta sarpaṇasvabhāvān sindhūnapaḥ sartave saraṇāyāvāsṛjat | avasṛṣṭavān | yadvā gaṅgādyāḥ sapta mukhyā nadīrasṛjat | yaśca vajrabāhuḥ san dyāṃ divamārohantaṃ rauhiṇamasuramaspharat | jaghāna ‖ sphara spharaṇe tudādiḥ ‖*
+
+*(Doubtful: "ये चेमेऽशिमिविद्विषः" is read as printed, split across a line-end, and may be wrongly read [?]. The Taittirīya-Āraṇyaka reference is read as 1-9-4,5, unzoomed; the numeral file agrees. The final grammatical note on the root स्फर (*sphara*) is characterised, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. सप्तरश्मिः (*saptaraśmiḥ*)—he who has seven rays. वृषभः (*vṛṣabhaḥ*)—he who showers rain. तुविष्मान् (*tuviṣmān*)—and who is mighty. सप्त सिन्धून् (*sapta sindhūn*)—the seven riv… *(the Pratipadārtha breaks off in mid-word, "सप", at the foot of p. 674 and continues on p. 675; Ṛk 12 is left open)*
+
+---
+
+**Progress note:** Done through printed p. 674 (PDF 697); header offset −23 holds. Sūkta 12: Ṛk 11 is complete (Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu, continued over pp. 672–674). Ṛk 12 is open: Saṃhitā, Pada, bhāṣya with gist are written, and the Pratipadārtha is begun, breaking off at "सप्त सिन्धून्—सप…" at the foot of p. 674; the next batch begins on p. 675 with the rest of that Pratipadārtha. FILE DISAGREE: Ṛ. Saṃ. 7-66-16 (p. 673; the file says 6-66-16, read as 7 from the flat-footed glyph, unzoomed). Pāṇini reference on p. 672 read as 3-1-11-2 (file "3-110-2", probably a segmentation slip). Unzoomed numerals: the list of Śambara Ṛk references on p. 673 (file agrees except 4-26-3, where the file has "4.263"); one group between 6-31-4 and 6-47-2 is illegible [?]; headers of pp. 672–674 (Sūkta 12, varga 9 on p. 673) and the Ṛk numbers 11 and 12. Other [?] places: "ये चेमेऽशिमिविद्विषः" (p. 674 bhāṣya), "दानुर्दादनी" and "शृ हिंसायां" (p. 673), "स इन्द्रो नाहमिति" (p. 672 bhāṣya). The Saṃhitā reading "तुविष्मानवासृजत्" of Ṛk 12 is as printed. No grammar pages in this batch.
