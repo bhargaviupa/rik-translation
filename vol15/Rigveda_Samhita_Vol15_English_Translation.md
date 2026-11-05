@@ -12737,6 +12737,122 @@ This word Pūṣan is formed from the root पुष् (*puṣ*) (to produce no
 
 *[Note: in kn.md the two Sanskrit quotations on p. 394 (Nirukta and Bṛhaddevatā), printed as prose in the supplied text, were made `>` blocks with their references on their own lines; the Saṃhitā reads ಜಾತ್ as supplied. The page 393 text continues the sentence ending "and of all plants" of p. 392. No other changes.]*
 
+### Printed p. 396
+
+*Running head: [396] Sāyaṇa-bhāṣya-sahitā [Maṃ. 2, A. 4, Sū. 40] (as supplied).*
+
+**॥ पदपाठः ॥**
+
+> सोमापूषणा । जनना । रयाणां । जनना । दिवः । जनना । पृथिव्याः ।
+> जात् । विश्वस्य । भुवनस्य । गोपौ । देवाः । अकृण्वन् । अमृतस्य । नाभिं ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सोमापूषणा हे सोमापूषणौ युवां रयीणां धनानां जनना जनयितारौ दिवो द्युलोकस्यापि जनना जनयितारौ पृथिव्याः प्रथितायाश्च जनयितारौ
+> भवथः । किंच जात् जातमात्रावेव युवां विश्वस्य भुवनस्य कृत्सस्य जगतो गोपौ
+> गोप्तारौ देवा अमृतस्यामरणस्य नाभिं हेतुमकृण्वन् । अकार्षुः ॥
+
+*Gist of the Sāyaṇa-bhāṣya:* Soma and Pūṣan are the begetters of wealth, of heaven and of earth; as soon as born they are the guardians of the whole world, and the gods made them the source of immortality.
+
+*(Note: in kn.md the line break hyphen in the bhāṣya (ಜನ-/ಯಿತಾರೌ) was joined inside the block. No other change.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सोमापूषणा (*somāpūṣaṇā*)—O Soma and Pūṣan deities (both of you together). रयीणां (*rayīṇāṃ*)—of wealth. जनना (*jananā*)—you are the producers. दिवः (*divaḥ*)—of the heavenly world. जनना (*jananā*)—you are the makers. पृथिव्याः (*pṛthivyāḥ*)—of the earth. जनना (*jananā*)—you are the creators. जात् (*jāt*)—as soon as born. विश्वस्य भुवनस्य (*viśvasya bhuvanasya*)—of the whole world. गोपौ (*gopau*)—you, the protectors. देवाः (*devāḥ*)—the gods. अमृतस्य (*amṛtasya*)—of immortality. नाभिं (*nābhiṃ*)—as the cause. अकृण्वन् (*akṛṇvan*)—made.
+
+**भावार्थ (Bhāvārtha)**
+
+O Soma and Pūṣan deities, you two are the makers of wealth, of the heavenly world and of the earth. As soon as you were born you became the protectors of the whole world, and the gods made you the cause of immortality.
+
+**Printed English translation**
+
+Soma and Pushan, you two are the generators of riches, the generators of heaven, the generators of earth ; as soon as born you are the guardians of the whole world : the gods have made you the source of immortality.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is clear. O deities Soma and Pūṣan, you two are the lords of wealth, that is, you produce wealth (wealth in cattle). The heavenly world, that is, heaven, and the earth you yourselves have produced; heaven and earth came into being from you.
+
+### Printed p. 397
+
+*Running head: [Aṣṭaka 2, Adhyāya 8, Varga 6] Ṛgveda-saṃhitā 397 (as supplied).*
+
+Moreover, as soon as you were born, that is, from birth, you are the protectors of the entire world. Therefore the gods made you the chief cause of the deathless state, or made you yourselves the cause of the deathless state; that is, it is through you that all attained the state of immortality (freedom from death): this is the chief meaning.
+
+अमृतस्य (*amṛtasya*)—*mṛta* means dying; *amṛta* is the state of not having that, long life. There is a tradition that the gods do not undergo death and live for ever. *Amṛta* has many meanings: the Soma juice, water, the best food of the gods.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+*(Note: kn.md had a stray line "1 ಸಂಹಿತಾಶಾಲೆ", a garbled label for the Saṃhitā, replaced by the standard label, the stray "1" is kept as an italic note in kn.md; the Saṃhitā lines, supplied as prose, were made a `>` block.)*
+
+> इ॒मौ दे॒वौ जाय॑मानौ जुषंते॒मौ तमां॑सि गूहता॒मजु॑ष्टा ।
+> आ॒भ्यामिंद्रः॑ प॒क्वमा॒मास्वं॒तः सो॑मापू॒षभ्यां॑ जनदु॒स्रिया॑सु ॥
+
+**॥ पदपाठः ॥**
+
+*(Note: the supplied label "೧ ಜಪಮಾಲೆ ೧" is garbled (stray numerals); replaced by the standard label, kept as an italic note in kn.md. The Pada's ಇಮ್, ದೇವ್, ಜಾಯಮಾನ್, ಇಮ್ differ from the Saṃhitā's ಇಮೌ, ದೇವೌ, ಜಾಯಮಾನೌ, ಇಮೌ, as supplied, not corrected.)*
+
+> इम् । देव् । जायमान् । जुषंत । इम् । तमांसि । गूहतां । अजुष्टा ।
+> अभ्यां । इंद्रः । पक्वं । आमासु । अंतरिति । सोमापूषभ्यां । जनत् । उस्रियासु ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*(Note: the supplied label "॥ ರಾಮಚಂದ್ರಾಯನಂ ॥" is garbled; replaced by the standard label and kept as an italic note in kn.md. Hyphenated line breaks joined inside the block.)*
+
+> इमौ सोमापूषण् देवौ द्योतमानौ जायमानावुत्पन्नमात्रावेव
+> जुषंत । सर्वे देवा अजुषंत । सेवितवंत इति यावत् । किंच इमौ सोमापूषणावजुष्टासेव्यानि तमांसि सर्वस्य गूहतां । नाशयतः । किंच अभ्यामेताभ्यां
+> सोमापूषभ्यां सहेंद्र आमासु तरुणीषूस्रियासु गोष्टंतर्मध्य ऊधःप्रदेशे
+> पक्वं परिपक्वं पयो जनत् । जनयति ॥
+
+*Gist of the Sāyaṇa-bhāṣya:* These two deities, as soon as born, are served by all the gods; they destroy the unwelcome darkness; with them Indra produces ripe milk in the udders of young cows.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*(Note: the supplied label "॥ ಪ್ರತಿದರ್ಥ ॥" is garbled; replaced by the standard label and kept as an italic note in kn.md.)*
+
+इमौ देवौ (*imau devau*)—these two divine beings Soma and Pūṣan. जायमानौ (*jāyamānau*)—as soon as born. जुषंत (*juṣaṃta*)—(all the gods) worship. इमौ (*imau*)—these two. अजुष्टा (*ajuṣṭā*)—not fit to be served, तमांसि (*tamāṃsi*)—the darknesses. गूहतां (*gūhatāṃ*)—they destroy. अभ्यां (*abhyāṃ*) (its gloss follows on p. 398)
+
+### Printed p. 398
+
+*Running head: [398] Sāyaṇa-bhāṣya-sahitā [Maṃ. 2, A. 4, Sū. 40] (as supplied).*
+
+अभ्यां सोमापूषभ्यां (*abhyāṃ somāpūṣabhyāṃ*)—with the help of these Soma and Pūṣan. इंद्रः (*iṃdraḥ*)—Indra. आमासु (*āmāsu*)—in those in youth. उस्रियासु (*usriyāsu*)—of the cows. अंतः (*aṃtaḥ*)—in the udder regions. पक्वं (*pakvaṃ*)—ripe milk. जनत् (*janat*)—produced.
+
+*(Note: the Pratipadārtha entry अभ्यां सोमापूषभ्यां (*abhyāṃ somāpūṣabhyāṃ*) is split by the page break; the words are joined here.)*
+
+**भावार्थ (Bhāvārtha)**
+
+These two divine beings Soma and Pūṣan: as soon as they are born all the gods worship them. They destroy the darknesses not fit to be served (that is, wanted by nobody). With the help of these Soma and Pūṣan deities Indra produced ripe milk in the udders of cows in their youth.
+
+**Printed English translation**
+
+(The gods) propitiate these two divinities at the moment of their birth, for they drive away the disagreeable glooms : with these two, Soma and Pushan, Indra generates the mature (milk) in the immature heifers.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पक्वं (*pakvaṃ*)—परिपक्वं पयः । (*paripakvaṃ payaḥ |*) Milk that is ready so as to be fit for taking. Yāska explains the word *pakva* as पक्वमौषधं (*pakvamauṣadhaṃ*) (Ni. 5-28), and
+
+> पक्वं-उदकदानं मेघं । बहूनां मेघानां मध्यॆ यः पक्वो मेघः उदकदाने समर्थः तं
+
+> *pakvaṃ-udakadānaṃ meghaṃ | bahūnāṃ meghānāṃ madhyè yaḥ pakvo meghaḥ udakadāne samarthaḥ taṃ*
+
+(Ni. 6-34)
+
+as its explanation. That is, fruits or herbs in trees such as *vanaspati*, filled with juices and ready for use; or, if taken as referring to the cloud, the cloud that has gathered water in itself and is able to shower rain. In whatever context the word *pakva* is used, its meaning may be said to be: a thing fit and ready for use. Since in the present Ṛk the words उस्रियासु अंतः (*usriyāsu aṃtaḥ*) are used, the thing filled in the udders of cows and ready for use is *payas*, milk: this is the sense.
+
+अमासु (*amāsu*)—अपक्वासु । (*apakvāsu |*) Not yet fully matured, that is, not aged, in the youthful state, having newly calved: this is the meaning.
+
+उस्रियासु (*usriyāsu*)—The word *usriyā* is read among the names of the cow (Ni. 3-9), and there is also an explanation
+
+> उस्रियायाः । उस्रियेति गोनाम ! उस्राविणोऽस्यां भोगाः । उस्रेति च
+
+> *usriyāyāḥ | usriyeti gonāma ! usrāviṇo 'syāṃ bhogāḥ | usreti ca*
+
+(Ni. 4-19)
+
+That is, because in her (the cow) the juice (milk), the means of enjoyment, flows (is milked), the cow is called *usriyā* or *usrā*. Among those, a cow in youth, that is, fit to give milk, is meant.
+
 ---
 
-**Progress note:** Done through printed p. 395 (PDF 395). Sukta 40 Pithike: Soma essay ends (moon, identity), Pusan essay; Rik 1 Samhita only (Pada follows on p. 396). Flags: Samhita Rik 1 accent check DIFF 1 (jat for jata as supplied); prose Sanskrit quotations (Nirukta, Brhaddevata) made blocks
+**Progress note:** Done through printed p. 398 (PDF 398). Sukta 40 Rik 1 (Pada, bhasya, Pratipadartha, Special Topics) and Rik 2 complete to its Special Topics (Nirukta quotes as blocks). Flags: garbled labels (Samhita, Pada, bhasya, Pratipadartha of Rik 2) replaced by standard ones and kept as notes; Rik 2 Pada reads imam/dev/jayaman as supplied; Special Topics of Rik 2 may continue on p. 399
