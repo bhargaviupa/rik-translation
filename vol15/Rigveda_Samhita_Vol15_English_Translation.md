@@ -11161,6 +11161,88 @@ The ever-going Varuna grants a cool, accessible, and agreeable place (of rest), 
 
 *(The printed translation of this Ṛk breaks off here in the supplied text at the end of p. 352; it continues on p. 353.)*
 
+### Printed p. 353
+
+and every bird and every beast repairs to its lair when Savitri has dispersed (all) beings in various directions.
+
+*(Stray line "23" at the foot of p. 353 in the supplied text, a signature mark, kept in kn.md and not translated.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+याद्राध्यं (*yādrādhyaṃ*)—यातां गच्छतां संराधनीयं (*yātāṃ gacchatāṃ saṃrādhanīyaṃ*) । Worthy of worship, that is, desirable, for creatures whose nature is to move about. Creatures and men who have wandered all day for food and the like and are tired out look forward eagerly to night, the time of their rest. The sense is therefore that night is welcomed by all.
+
+योनिं (*yoniṃ*)—A place, or a dwelling-place. The word yoni is read among the names of house (Ni. 3-13).
+
+वरुणः (*varuṇaḥ*)—The god Varuṇa. वरुणो वृणोतीति सतः (*varuṇo vṛṇotīti sataḥ*) (Ni. 10-3) स हि वियत् वृणोति मेघजालेन (*sa hi viyat vṛṇoti meghajālena*) । Because he covers the sky, pervading it with masses of clouds, he is called Varuṇa; this is Yāska's explanation. The subject of the god Varuṇa is treated in the next Ṛk. That Varuṇa is the presiding deity of night is stated in the Yajurveda: मैत्रं वा अहर्वारुणी रात्रिः (*maitraṃ vā aharvāruṇī rātriḥ*) (Tai. Saṃ. 2-1-7-4).
+
+अप्यं (*apyaṃ*)—आप्तुं योग्यं (*āptuṃ yogyaṃ*) । Fit to be attained, which all desire.
+
+अनिशितं (*aniśitaṃ*)—अतीक्ष्णं सुखकरमिति यावत् (*atīkṣṇaṃ sukhakaramiti yāvat*) । Nishita means sharp; anishita means not sharp, pleasant. The sense is that night, the time of rest, is pleasant to all.
+
+मार्तांडः (*mārtāṃḍaḥ*)—मृताद्भिन्नात् अंडादुत्पद्यमानः पक्षी (*mṛtādbhinnāt aṃḍādutpadyamānaḥ pakṣī*) । A bird is born from an egg; since that egg (anḍa) is not dead but alive, the bird born from it is called mārtāṇḍa. So the commentator explains the meaning.
+
+स्थशः (*sthaśaḥ*)—स्थाने स्थाने (*sthāne sthāne*) । In many different places, or in many directions.
+
+वरुणः याद्राध्यं अप्यं अनिशितं योनिं निमिषे वरुणो रात्र्यभिमानी देवः गच्छतां संराधनीयं प्राप्तुं योग्यं सुखकरं स्थानं सवितुरस्तमये विश्रमार्थं प्रयच्छति (*varuṇaḥ yādrādhyaṃ apyaṃ aniśitaṃ yoniṃ nimiṣe varuṇo rātryabhimānī devaḥ gacchatāṃ saṃrādhanīyaṃ prāptuṃ yogyaṃ sukhakaraṃ sthānaṃ saviturastamaye viśramārthaṃ prayacchati*) । The god Varuṇa is the presiding deity of night. Therefore, for the creatures that have toiled and wandered all day for food and are tired, after sunset he provides the pleasant dwelling-place they desire for rest. How? This is made clear in the following sentences.
+
+जर्भुराणः विश्वः मार्तांडः आ गात् (*jarbhurāṇaḥ viśvaḥ mārtāṃḍaḥ ā gāt*)—भृशं गच्छन् अंडादुत्पद्यमानः सर्वः पक्षी आ गच्छति (*bhṛśaṃ gacchan aṃḍādutpadyamānaḥ sarvaḥ pakṣī ā gacchati*) । All the birds born of eggs, having moved about much during the day, come after sunset to their several dwelling-places, the nests. Here the word mārtāṇḍa, denoting a bird, should be taken as a collective singular and given a plural sense.
+
+### Printed p. 354
+
+पशुः व्रजं आगात् (*paśuḥ vrajaṃ āgāt*)—विश्वः पशुः गोष्ठमागात् (*viśvaḥ paśuḥ goṣṭhamāgāt*) । Here too the word paśu is used as a collective singular. All animals, cows and the rest, go to their respective pens.
+
+सविता स्थशः जन्मानि व्याकः (*savitā sthaśaḥ janmāni vyākaḥ*)—आसौ प्रेरकः सविता स्थाने स्थाने जातानि भूतानि पृथगकार्षीत् (*āsau prerakaḥ savitā sthāne sthāne jātāni bhūtāni pṛthagakārṣīt*) । This god Savitṛ, who impels all things, causes all the creatures born on the earth to go to their several separate dwelling-places. That is, all creatures do not gather at one spot at night. Birds go to their nests in the trees; cows and other cattle go to the pens assigned to them; men go to their houses. In this way the greatness of Savitṛ is described, who has provided different resting places for creatures.
+
+*(In the supplied text a software-generated line follows here: "This image contains no text. It is a decorative symbol consisting of two curved lines connected by four circular loops at their ends, resembling an infinity sign or a stylized flower (often associated with Buddhism)." It stands for an ornament between Ṛks, not for printed text; kept in kn.md.)*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> न यस्येंद्रो॒ वरु॑णो॒ न मि॒त्रो व्र॒तम॑र्य॒मा न मि॒नंति॑ रु॒द्रः ।
+> नारा॑तय॒स्तमि॒दं स्व॒स्ति हु॒वे दे॒वं स॑वि॒तारं॒ नमो॑भिः ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> न । यस्य । इंद्रः । वरुणः । न । मित्रः । व्रतं । अर्यमा । न । मिनंति । रुद्रः ।
+> न । अरातयः । तं । इदं । स्वस्ति । हुवे । देवं । सवितारं । नमःभिः ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यस्य सवितुर्देवस्य व्रतं प्रसवाख्यं कर्मेंद्रो न मिनाति । न हिनस्ति ।
+> वरुणश्च न मिनाति मित्रश्चार्यमा च न मिनाति रुद्रश्च न मिनाति । अरातयोऽसुराश्च
+> न मिनंति ॥ मिनातीति श्रुतमाख्यातं यथायोगं विपरिणामेन प्रत्येकमभिसंब-
+> ध्यते । तं सवितारं सर्वस्य प्रेरकं देवं द्योतमानविदमिदानीं नमोभिरन्नरू-
+> पैर्हविर्भिः सह ॥ नम आयुरित्यन्ननामसु पाठात् ॥ स्वस्ति क्षेमाय हुवे । स्तौमि ॥
+
+*Gist: neither Indra, Varuṇa, Mitra, Aryaman, Rudra nor enemies impede Savitṛ's act of impelling; he is invoked with food-offerings for welfare.*
+
+### Printed p. 355
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यस्य (*yasya*)—of which Savitṛ. व्रतं (*vrataṃ*)—the unique work. इंद्रः (*iṃdraḥ*)—Indra. न (*na*) (मिनाति (*mināti*))—cannot obstruct. वरुणः (*varuṇaḥ*)—Varuṇa. न (*na*)—cannot obstruct. मित्रः (*mitraḥ*)—Mitra. अर्यमा (*aryamā*)—Aryaman. न (*na*)—cannot obstruct. रुद्रः (*rudraḥ*)—Rudra. न (*na*)—cannot obstruct. अरातयः (*arātayaḥ*)—even enemies. न मिनंति (*na minaṃti*)—cannot injure. तं (*taṃ*)—such. देवं (*devaṃ*)—resplendent. सवितारं (*savitāraṃ*)—Savitṛ. इदं (*idaṃ*)—now. नमोभिः (*namobhiḥ*)—with offerings in the form of food. स्वस्ति (*svasti*)—for well-being. हुवे (*huve*)—I invoke and praise.
+
+**भावार्थ (Bhāvārtha)**
+
+That Savitṛ, whose unique work neither Indra, nor Varuṇa, nor Mitra or Aryaman, nor Rudra can obstruct, and whom enemies cannot injure, that resplendent Savitṛ I now invoke and praise, for well-being, with food-offerings.
+
+**Printed English translation**
+
+I invite to this place, with reverential salutations, for my good, that divine Savitri, whose functions neither Indaa [sic], nor Varuna, nor Mitra, nor Aryaman, nor Rudra, nor the enemies (of the gods), impede.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The unique work (ordinance) of the god Savitṛ cannot be obstructed or violated by any gods such as Indra, Varuṇa, Mitra, Aryaman and Rudra. No enemies can injure this god. The chief purport of this Ṛk is: "I praise such a greatly glorious Savitṛ by offering him food-offerings."
+
+इंद्र (*iṃdra*)—We have written about Indra at length before.
+
+मित्रः (*mitraḥ*), वरुणः (*varuṇaḥ*), अर्यमा (*aryamā*)—Although these three deities are regarded as separate gods, here they seem to be explained as the partial deities of those names among the many forms of the Sun, that is, among the twelve Ādityas. Moreover, in some places these three deities are said to be different forms of Agni.
+
+त्वमग्ने वरुणो जायसे यत्त्वं मित्रो भवसि यत्समिद्धः (*tvamagne varuṇo jāyase yattvaṃ mitro bhavasi yatsamiddhaḥ*) । (Ṛ. Saṃ. 5-3-1)
+
+त्वमर्यमा भवसि यत्कनीनां नाम स्वधावन् गुह्यं बिभर्षि (*tvamaryamā bhavasi yatkanīnāṃ nāma svadhāvan guhyaṃ bibharṣi*) । (Ṛ. Saṃ. 5-3-2)
+
 ---
 
-**Progress note:** Done through printed p. 352 (PDF 352). Sukta 38 Rk 7 finished (Pada, bhasya, Pratipadartha, Special Topics); Rk 8 through printed English start (translation breaks off mid-Rk at p. 352 end, continues next window); Special Topics of Rk 8 next; flags: Pada/bhasya variant spellings noted, none altered
+**Progress note:** Done through printed p. 355 (PDF 355). Sukta 38 Rk 8 finished (printed English, Special Topics); Rk 9 through p. 355 start of Special Topics (Rk quotations 5-3-1/2); flags: stray '23' line and software 'This image contains' line kept as italic notes; previous p. 352 italic continuation note left in place (volume file not hand-edited); 'Indaa' marked [sic]
