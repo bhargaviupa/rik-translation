@@ -26941,4 +26941,138 @@ has been explained in two ways: for the gain of the food in the form of the obla
 
 ---
 
-**Progress note:** Done through printed p. 704 (PDF 727). Sūkta 13: Ṛk 7 is complete (Pratipadārtha end, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu to p. 703). Ṛk 8 is complete from Saṃhitā to Viśeṣaviṣayagaḷu as far as the end of p. 704; the Viśeṣaviṣayagaḷu may continue on p. 705, so check its first lines before opening Ṛk 9 (or the sūkta's close). No grammar pages. No FILE DISAGREE: the file's "3-9" for the Nirukta reference agrees with the strip. Unzoomed numerals: headers of pp. 702–704 (the sūkta numeral on p. 702 is partly hidden by a blemish and read as 13), the Ṛk 8 number (glyph read as 8). [?] places: the Pada sign after "अपरि" (read as the compound mark); the bhāṣya's "निहन्तुं" (printed with a letter like "सि" for "नि"), "तवेन्प्रत्ययः", and "नृन्/नॄन्". Flag: the bhāṣya reading "अवनीः" as given in the Viśeṣaviṣayagaḷu of p. 702 may correct the earlier "वावनीः" of the Ṛk 7 bhāṣya. Accent marks are not reproduced.
+### Printed p. 705 (PDF 728)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "705". At the foot of the page the signature marks "[45]" and "Vol. 14" are printed. The Viśeṣaviṣayagaḷu of Ṛk 8 continues from p. 704.)*
+
+For the sentence
+
+> ऊर्जयन्त्याः अपरिविष्टं आस्यं उत एव अद्य
+
+> *ūrjayantyāḥ apariviṣṭaṃ āsyaṃ uta eva adya*
+
+in this sentence, the commentator has explained the word अपरिविष्टं (*apariviṣṭaṃ*) as मलादिभिरव्याप्तं (*malādibhiravyāptaṃ*): without dirt, bright. What the right meaning of this sentence is, and what the sage's intention is, is not clear. Probably the intention is that Indra, in order to slay the asura Sahavasu, the son of Nṛmara, took on a form (shape) full of brilliance and strength and slew that asura.
+
+---
+
+#### Ṛk 9
+
+*(Reading notes: the Ṛk number is printed "॥ ९ ॥" at the end of both Saṃhitā and Pada, read from the glyph, not zoomed. The Saṃhitā is converted letter by letter from the Kannada: "यद्ध", "दस्यून्त्समुनब्दभीतये" (that is सं + उनप् + दभीतये with sandhi), "सास्युक्थ्यः" as printed. The Pada runs over the strip break at "आविथ". Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> श॒तं वा॒ यस्य॒ दश॑ सा॒कमाद्य॒ एक॑स्य श्रु॒ष्टौ यद्ध॑ चो॒दमावि॑थ ।
+> अ॒र॒ज्जौ दस्यू॒न्त्समु॑नब्द॒भीत॑ये सुप्रा॒व्यो॑ अभवः॒ सास्यु॒क्थ्यः॑ ॥ ९ ॥
+
+> *śataṃ vā yasya daśa sākamādya ekasya śruṣṭau yaddha codamāvitha |*
+> *arajjau dasyūntsamunabdabhītaye suprāvyo abhavaḥ sāsyukthyaḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> शतं । वा । यस्य । दश । साकं । आ । अद्यः । एकस्य । श्रुष्टौ । यत् । ह । चोदं ।
+> आविथ ।
+> अरज्जौ । दस्यून् । सं । उनप् । दभीतये । सुप्रऽअव्यः । अभवः । सः । असि ।
+> उक्थ्यः ॥ ९ ॥
+
+> *śataṃ | vā | yasya | daśa | sākaṃ | ā | adyaḥ | ekasya | śruṣṭau | yat | ha | codaṃ |*
+> *āvitha |*
+> *arajjau | dasyūn | saṃ | unap | dabhītaye | supra 'avyaḥ | abhavaḥ | saḥ | asi |*
+> *ukthyaḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, a thousand horses are yoked to carry you; you feed all, protect the sacrificer, harmed dasyus in a ropeless prison for Dabhīti, and are easily approached by all.*
+
+> हे इन्द्र एकस्यैकाकिनः श्रेष्ठस्य वा यस्य ते श्रुष्टौ सुखनिमित्ते ऽदर्थं [?] शतं दश दश शतानि हरयो वाहनार्थं भवन्ति । तथा च मन्त्रवर्णः । इन्द्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश । ६-४७-१८ । इति । अपि च यश्च आ अद्यः सर्वेषां सर्वत उपजीव्यः । न तस्येशे यं नाद्याद्यद्यैनं नाद्युरिति ह श्रुतिः [?] । यद्ध यश्च त्वं चोदं स्तोतॄणां प्रेरकं यजमानमाविथ । रक्षितवानसि । किंच यस्त्वमरज्जौ रज्जुवर्जिते बन्धनागारे दस्यूनुपक्षपयित्वान् [?] दभीतये । दभीतिर्नाम कश्चिदृषिः । तदर्थं समुनप् । हिंसितवानसि ॥ उभतेर्हिंसाकर्मणो लजु [?] व्यत्ययेन श्नम् । हल्ङ्यादिना सिपो लोपः । अडभावश्छान्दसः ॥ किंच सुप्राव्यः सुखेन सर्वैरुपसर्पणीयोऽभवः । शिष्टं सिद्धं ॥
+
+> *he indra ekasyaikākinaḥ śreṣṭhasya vā yasya te śruṣṭau sukhanimitte 'darthaṃ [?] śataṃ daśa daśa śatāni harayo vāhanārthaṃ bhavanti | tathā ca mantravarṇaḥ | indro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa | 6-47-18 | iti | api ca yaśca ā adyaḥ sarveṣāṃ sarvata upajīvyaḥ | na tasyeśe yaṃ nādyādyadyainaṃ nādyuriti ha śrutiḥ [?] | yaddha yaśca tvaṃ codaṃ stotṝṇāṃ prerakaṃ yajamānamāvitha | rakṣitavānasi | kiṃca yastvamarajjau rajjuvarjite bandhanāgāre dasyūnupakṣapayitvān [?] dabhītaye | dabhītirnāma kaścidṛṣiḥ | tadarthaṃ samunap | hiṃsitavānasi ‖ ubhaterhiṃsākarmaṇo laju [?] vyatyayena śnam | halṅyādinā sipo lopaḥ | aḍabhāvaśchāndasaḥ ‖ kiṃca suprāvyaḥ sukhena sarvairupasarpaṇīyo 'bhavaḥ | śiṣṭaṃ siddhaṃ ‖*
+
+**ज्ञापकम्:** the Ṛgveda reference in the bhāṣya is printed "६-४७-१८" (Ṛg. 6-47-18), which agrees with the numeral file. The bhāṣya's grammatical tail (the root *ubh*, the infix *śnam*, loss of *sip*, absence of the augment *aṭ*) is transcribed and not explained.
+
+---
+
+### Printed p. 706 (PDF 729)
+
+*(Header, read from the strip and not zoomed: "706", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इन्द्र (*indra*)—O Indra) एकस्य (*ekasya*)—of the excellent one. यस्य (*yasya*)—of you who. श्रुष्टौ (*śruṣṭau*)—for pleasure. शतं दश (*śataṃ daśa*)—ten hundred (a thousand in number) horses are ready (for you who). साकं (*sākaṃ*)—together. आ अद्यः (*ā adyaḥ*)—are the provider of food to all. यद्ध (*yaddha*)—you who. चोदं (*codaṃ*)—the institutor (of the sacrifice), who urges on the praisers. आविथ (*āvitha*)—have protected. (यः (*yaḥ*)—you who) दभीतये (*dabhītaye*)—to give help to the sage Dabhīti. दस्यून् (*dasyūn*)—the violent asuras. अरज्जौ (*arajjau*)—in a prison without ropes. समुनप् (*samunap*)—having placed them, have harmed. (And) सुप्राव्यः (*suprāvyaḥ*)—as one easily approached by all. अभवः (*abhavaḥ*)—have you been. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you for whose pleasure, being the excellent one, a thousand horses are ready; you who, providing food for all, have protected the institutor of the sacrifice who urges on the praisers; and you who, in order to help the sage Dabhīti, kept the violent asuras in a prison without ropes and harmed them, and for that very reason have become one whom all approach easily: such a one as you are exceedingly praiseworthy.
+
+**English Translation** *(as printed)*
+
+You, for whose sole pleasure a thousand (steeds are ready); by whom all are to be fed; and who protect the institutor (of the sacrifice); who, for the sake of Dabhiti, have cast the Dasyus into unfettered (captivity), and who are to be approached (by all); you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शतं वा यस्य दश साकं आ अद्यः एकस्य श्रुष्टौ (*śataṃ vā yasya daśa sākaṃ ā adyaḥ ekasya śruṣṭau*)—Here, for the word एकस्य (*ekasya*) the commentator gives एकाकिनः श्रेष्ठस्य वा (*ekākinaḥ śreṣṭhasya vā*): "to you who are the one", "to you alone", or "to you who are the excellent one" is the meaning. O Indra, for you the excellent one, or for you alone, ten hundreds, that is a thousand, horses are ready for carrying you. The same intention is clear also in the Ṛk
+
+> इन्द्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ।
+
+> *indro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa |*
+
+*(Ṛg. Saṃ. 6-47-18, as printed.)* It is said there that when Indra fights with the asuras he takes on many magical forms and uses thousands of horses for carrying him. Here *(continues on p. 707)*
+
+*(Reading note: the vowel after य (*ya*) in the first word of this quoted Ṛk, in the Viśeṣaviṣayagaḷu, is printed so that it looks like ो; it is read मायाभिः (*māyābhiḥ*) together with the bhāṣya's citation. Not zoomed.)*
+
+---
+
+### Printed p. 707 (PDF 730)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "707".)*
+
+…"a thousand" may mean one thousand or "many". The sage describes Indra's distinction in this way: that for the one Indra so many horses are ready.
+
+श्रुष्टौ (*śruṣṭau*)—On the word श्रुष्टी (*śruṣṭī*) Yāska says:
+
+> श्रुष्टीति क्षिप्रनाम आशु अष्टीति [?]
+
+> *śruṣṭīti kṣipranāma āśu aṣṭīti [?]*
+
+श्रुष्टी (*śruṣṭī*) means quickly, or "quickly pervading": thus Yāska has explained the meaning (Ni. 6-13, agrees with the numeral file). But here the commentator has given for the word श्रुष्टौ (*śruṣṭau*) the meaning सुखनिमित्ते (*sukhanimitte*), "for pleasure".
+
+यश्च आ अद्यः (*yaśca ā adyaḥ*)—
+
+> सर्वेषां सर्वत उपजीव्यः
+
+> *sarveṣāṃ sarvata upajīvyaḥ*
+
+All live depending on Indra alone: that is, Indra alone provides food and the like to all, everywhere. This is the intention.
+
+यत् ह चोदं आविथ (*yat ha codaṃ āvitha*)—
+
+> यश्च त्वं चोदं स्तोतॄणां प्रेरकं यजमानं रक्षितवानसि
+
+> *yaśca tvaṃ codaṃ stotṝṇāṃ prerakaṃ yajamānaṃ rakṣitavānasi*
+
+"Urger of the praises" means the institutor of the sacrifice who urges the priests to praise Indra: the intention is that you protect him.
+
+अरज्जौ दस्यून् सं उनप् दभीतये (*arajjau dasyūn saṃ unap dabhītaye*)—O Indra, the sage describes that, in order to protect the sage named Dabhīti, you confined the dasyu people in a prison where there are no ropes (रज्जु (*rajju*)) and harmed them. The intention is that when the dasyu people were tormenting the sage Dabhīti, Indra, at his prayer, fought those dasyus and put them in a prison, as though bound with ropes, and subjected them to various kinds of torment. In some places it is said that the Aśvin deities protected the sage Dabhīti, and in other places that Indra protected Dabhīti.
+
+> याभिः कुत्समार्जुनेयं शतक्रतू प्र तुर्वीतिं प्र च दभीतिमावतं ।
+
+> *yābhiḥ kutsamārjuneyaṃ śatakratū pra turvītiṃ pra ca dabhītimāvataṃ |*
+
+*(Ṛg. Saṃ. 1-112-23, as printed; agrees with the numeral file. The word तुर्वीतिं (*turvītiṃ*) is as printed.)* In this Ṛk it is said that the Aśvin deities protected Dabhīti. This Dabhīti is called a warrior in some places and a sage in others:
+
+> इन्द्रो धुनिं च चुमुरिं च दंभयञ्छ्रद्धामनस्या शृणुते दभीतये ।
+
+> *indro dhuniṃ ca cumuriṃ ca daṃbhayañchraddhāmanasyā śṛṇute dabhītaye |*
+
+*(Ṛg. Saṃ. 10-113-9, as printed; agrees with the numeral file.)*
+
+> स्वप्नेनाभ्युप्या चुमुरिं धुनिं च जघंथ दस्युं प्र दभीतिमावः ।
+
+> *svapnenābhyupyā cumuriṃ dhuniṃ ca jaghaṃtha dasyuṃ pra dabhītimāvaḥ |*
+
+*(Ṛg. Saṃ. 2-15-9, as printed; agrees with the numeral file.)* In these Ṛks Dabhīti is called a royal sage (राजर्षि (*rājarṣi*)), and it is said that for his sake Indra conquered the asuras named Cumuri and Dhuni. It is known that he pressed Soma juice and offered it to Indra, and gained Indra's favour.
+
+*(The Viśeṣaviṣayagaḷu of Ṛk 9 ends the page at this point and may continue on p. 708.)*
+
+---
+
+**Progress note:** Done through printed p. 707 (PDF 730). Sūkta 13: Ṛk 8's Viśeṣaviṣayagaḷu is finished on p. 705. Ṛk 9 is written in full (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) with its Viśeṣaviṣayagaḷu through p. 707; the Viśeṣaviṣayagaḷu may continue on p. 708, so check its first lines before opening Ṛk 10 (or the sūkta's close). No grammar pages. No FILE DISAGREE: the file's 6-47-18 (bhāṣya and Viśeṣa), Ni. 6-13, 1-112-23, 10-113-9 and 2-15-9 agree with the strips. Unzoomed numerals: headers of pp. 705–707, the Ṛk 9 number. [?] places: the bhāṣya's "ऽदर्थं", "नाद्याद्यद्यैनं" ("न तस्येशे…" quotation), "उपक्षपयित्वान्" and "लजु" (printed so; probably the same blemish as the earlier "लजं"); the Nirukta quotation "आशु अष्टीति" in the Viśeṣa; the vowel in "मायाभिः" in the Viśeṣa quotation. Accent marks are not reproduced.
