@@ -14747,6 +14747,83 @@ The first pāda of this Ṛk is explained. The deity Soma is the cause of fame. 
 
 The second pāda is explained: this Soma, shining radiantly, shines with his learning, having defeated all in the assemblies of the learned among Brahmins. Since this deity brings benefit to Brahmins and to the sacrificers and priests, he is a friend.
 
+### Printed p. 463
+
+*[Running head, p. 463: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+⟦ಕಿಲ್ಪಿಷಸ್ಪೃದಿತ್ಯೇಷ ಉ ಏವ ಕಿಲ್ಪಿಷಸ್ಪೃತ್ ಯೋ ವೈ ಭವತಿ ಯಃ ಶ್ರೇಷ್ಠತಾಮಶ್ನುತೇ ಸ
+ಕಿಲ್ಪಿಷಂ ಭವತಿ । ತಸ್ಮಾದಾಹುರ್ಮಾನುವೋಚೋ ಮಾ ಪ್ರಚಾರೀಃ ಕಿಲ್ಪಿಷಂ ನು ಮಾ
+ಯಾಶಯನ್ನಿತಿ ।⟧
+
+The third pāda is explained: this deity Soma removes and protects from किल्बिष (*kilbiṣa*), sin. In the Soma sacrifice performed to obtain all one's desires, there is a likelihood of किल्बिष (*kilbiṣa*), that is, lapses, defects, sins and the like, occurring. In such cases the Soma deity removes those lapses and sins and protects the sacrificer. The point as to how किल्बिष (*kilbiṣa*) can occur to the priests and the sacrificer during a sacrifice is this: a man engaged in the sacrificial rite, reciting mantras and so on in a mature sacrifice that must be carried out with great intelligence, from a wish to finish it quickly, and from the false pride that he is himself most able in the use of mantras and has no equal, recites the mantras, and so defects such as the loss of a syllable or of a rite arise in the pronunciation and the order, causing deficiency in the rite, and sin occurs. And the sacrificer says to the priests: O Hotṛ, at the time of reciting mantras let your mind be fixed on the recitation and the meaning of the mantras; with a steady mind, not letting it go elsewhere, recite the mantra texts such as the Puronuvākyā; O Adhvaryu, in the hurry of the work do not let the things to be done go wrong, nor let the work be spoiled by your attention being elsewhere; give up the haste to get the work finished quickly and carry out the acts carefully. Be careful that, by the lapses and defects you make, किल्बिष (*kilbiṣa*), that is sin, does not befall me, the sacrificer. From such sins may the Soma deity protect the priests and the sacrificer: this is what is said.
+
+⟦ಪಿತುಷಣಿರಿತ್ಯನ್ನಂ ವೈ ಪಿತು ದಕ್ಷಿಣಾ ವೈ ಪಿತು ತಾಮೇನೇನ ಸನೋತ್ಯನ್ನಸನಿಮೇವೈನಂ
+ತತ್ಕರೋತಿ !⟧
+
+Explaining the fourth pāda, the meaning of the word पितुषणि (*pituṣaṇi*) is explained: the word पितु (*pitu*) is a name for food, and also means the fee (*dakṣiṇā*) given to the priests in sacrifices and the like. To the priests who take part in this Soma sacrifice Soma gives fees and so on and food.
+
+⟦ಅರಂ ಹಿತೋ ಭವತಿ ವಾಜಿನಾಯೇತೀಂದ್ರಿಯಂ ವೈ ವೀರ್ಯಂ ವಾಜಿನಂ ಆಜರಸಂ ಹಾಸ್ಮೈ
+ವಾಜಿನಂ ನಾಪಚ್ಛಿದ್ಯತೇ ಯ ಏವಂ ವೇದ ।⟧
+
+And Soma gives the sacrificers and priests, until old age, keenness of the senses, vigour and capacity. For the man who knows this, the keenness of the senses and so on will not be lost
+
+### Printed p. 464
+
+*[Running head, p. 464: Sāyaṇabhāṣyasahitā, Maṃ. 2, Ā. [as printed] 4, Sū. 41.]*
+
+midway; Soma favours him thus. Seeing such Soma brought to the altar and placed in his own place, all people are glad: so the main intent of this Ṛk is described.
+
+आगन्नेव इत्यन्नाह । (*āganneva ityannāha |*)
+
+Next, the sixth Ṛk—
+
+⟦ಆಗನ್ನೇವ ಋತುಭಿರ್ವರ್ಧತು ಕ್ಷಯಂ ದಧಾತು ನಃ ಸವಿತಾ ಸುಪ್ರಜಾಮಿಷಂ ।
+ಸ ನಃ ಕ್ಷಪಾಭಿರಹಭಿಶ್ಚ ಜಿನ್ವತು ಪ್ರಜಾವಂತಂ ರಯಿಮಸ್ಮೇ ಸಮಿನ್ವತು ॥⟧
+(Ṛ. Saṃ. 4-53-7)
+
+—he recites. This mantra too is in the Ṛgveda Saṃhitā itself. Its main intent is: may this deity Soma come to our sacrificial ground; having come here, accompanied by the seasons, may he increase our dwelling-place; and may this deity Soma, as our impeller, provide us with excellent progeny of sons, grandsons and so on, and with food; and may that deity make us glad also in days and nights; may he procure for us progeny (sons and the rest) and wealth.
+
+⟦ಆಗತೋ ಹಿ ಸ ತರ್ಹಿ ಭವತಿ ಋತುಭಿರ್ವರ್ಧತು ಕ್ಷಯಮಿತ್ಯೃತವೋ ವೈ ಸೋಮಸ್ಯ
+ರಾಜ್ಞೋ ರಾಜಭ್ರಾತರೋ ಯಥಾ ಮನುಷ್ಯಸ್ಯ ತೈರೇವೈನಂ ತತ್ಸಹಾಗಮಯತಿ ।⟧
+
+The meaning of the first pāda of this Ṛk is explained: the word आगन् (*āgan*) at the beginning of this Ṛk indicates that after the purchase of soma, Soma has come to the sacrificial ground. In worldly usage, as men have brothers with them, kings too have brothers. Here Soma is the king; the seasons are his brothers. This King Soma has graciously come here with these brothers, the seasons. The Hotṛ, reciting the first pāda with this meaning, has wished a welcome to King Soma accompanied by his brothers.
+
+⟦ದಧಾತು ನಃ ಸವಿತಾ ಸುಪ್ರಜಾಮಿಷಮಿತ್ಯಾಶಿಷಮಾಶಾಸ್ತೇ । ಸ ನಃ ಕ್ಷಪಾಭಿರಹಭಿಶ್ಚ ಜಿನ್ವತ್ವಿತ್ಯ-
+ಹಾನಿ ವಾ ಅಹಾನಿ ರಾತ್ರಯಃ ಕ್ಷಪಾ ಅಹೋರಾತ್ರೈರೇವಾಸ್ಮಾ ಏತಾಮಾಶಿಷಮಾಶಾಸ್ತೇ
+ಪ್ರಜಾವಂತಂ ರಯಿಮಸ್ಮೇ ಸಮಿನ್ವತಿತ್ಯಾಶಿಷಮೇವಾಶಾಸ್ತೇ ।⟧
+
+Having explained the first pāda, they explain the meaning of the following pādas. May this deity Soma, who impels all, grant us good sons and food and protect us. And may that deity, making us glad also in days and nights, grant us and protect us with the progeny of sons, grandsons and so on, and with wealth: such a wish is expressed.
+
+### Printed p. 465
+
+*[Running head, p. 465: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+[The Ṛk आगन् (*āgan*) cited above is addressed to Savitṛ. This whole sūkta of seven Ṛks seen by the sage Vāmadeva is about the deity Savitṛ. Yet it has been explained and used here with reference to the Soma deity. Since what is said in this Ṛk comprises matters fitting the occasion of bringing soma, it is natural that this Ṛk is used with reference to the Soma deity. In sacrificial rites—
+
+एतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाणमृगभिवदति । (*etadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati |*)
+(Ai. Brā. 3-13)
+
+—according to this Śruti saying, it is said that in each rite one should use the Ṛks that set forth the matters of that rite, explaining a fitting meaning; and since here all the matters in which the priests and the sacrificer beseech the Soma deity at the time of bringing soma are in this Ṛk, this Ṛk is recited as being with reference to the Soma deity itself, though it is addressed to another deity. No fault is seen in this.]
+
+Then the Hotṛ recites the seventh Ṛk in this rite.
+
+या शे धामानि हविषा यजंतीत्यन्नाह । (*yā śe dhāmāni haviṣā yajaṃtītyannāha |*) [the supplied text has या शे (*yā śe*) for या ते (*yā te*) here]
+
+The seventh Ṛk that the Hotṛ recites is in the Ṛgveda Saṃhitā itself—
+
+⟦ಯಾ ತೇ ಧಾಮಾನಿ ಹವಿಷಾ ಯಜಂತಿ ತಾ ತೇ ವಿಶ್ವಾ ಪರಿಭೂರಸ್ತು ಯಜ್ಞಂ ।
+ಗಯಸ್ಥಾನಃ ಪ್ರತರಣಃ ಸುವೀರೋಽವೀರಹಾ ಪ್ರಚರಾ ಸೋಮ ದುರ್ಯಾನ್ ॥⟧
+(Mi. [printed ಮಿ., for Ṛ.] Saṃ. 1-91-4)
+
+The main intent of this Ṛk: O Soma, the sacrificers worship your places, such as the Uttaravedi, with oblations and so on. Since those places of yours pervade all places, you dwell surrounding the sacrificial region; you are the one who nourishes and increases our cows; the one who carries us across all difficulties; you are the one who gives us good sons, grandsons and so on; and further, O deity Soma, you are not one who kills the excellent heroes among us. Such as you, now graciously turn towards our house.
+
+⟦ತಾ ತೇ ವಿಶ್ವಾ ಪರಿಭೂರಸ್ತು ಯಜ್ಞಂ ಗಯಸ್ಥಾನಃ ಪ್ರತರಣಃ ಸುವೀರ ಇತಿ ಗವಾಂ ನಃ
+ಸ್ಥಾವಯಿತಾ ಪ್ರತಾರಯಿತ್ಯೈಧೀತ್ಯೇವ ತದಾಹ ॥⟧
+
+Since the meaning of the first pāda is clear, the second and third pādas are explained. Since the meaning of this has also been stated above, there is no need to say it again.
+
+*[Stray line in the supplied text: "30", kept as a note in kn.md.]*
+
 ---
 
-**Progress note:** Done through printed p. 462 (PDF 462). Sukta 41 Rik 19 Somapravahana rite (pp. 460-462): Taittiriya mantra Bhadradabhi, soma verses 1-91-9 to 11, Ma. Sam. 10-72-10 and Brahmana explanations; ends after the second pada explanation. Flags: Brahmana text spellings as supplied (anna ha, purogavamakarna); header 'a. su. 4' garbled
+**Progress note:** Done through printed p. 465 (PDF 465). Sukta 41 Rik 19 Somapravahana rite (pp. 463-465): remaining pada explanations of the Ma. Sam. 10-72-10 verse, sixth Rik 4-53-7 and seventh Rik 1-91-4 with Brahmana comments; section may continue. Flags: Mi. Sam. for Ri. Sam. 1-91-4 and 'ya se dhamani' as supplied; stray line 30 kept as note
