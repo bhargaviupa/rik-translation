@@ -30129,6 +30129,100 @@ In this Ṛk the sage describes Indra's thunderbolt, his chariot, his two horses
 
 *Notes on the text as supplied (not corrected):* the Saṃhitā and the bhāṣya quotation read तृप्लुहि (*tṛpluhi*) while the Pada and the Pratipadārtha read तृप्नुहि (*tṛpnuhi*); the Saṃhitā reads वृष्टो (*vṛṣṭo*) where the Pada has वृष्णः (*vṛṣṇaḥ*) and the bhāṣya वृष्णो (*vṛṣṇo*); the Bhāvārtha and Special Topics headings on p. 785 were garbled in the supplied text (labels only, repaired); the bhāṣya has त्वमेदेशिषे (*tvamedeśiṣe*) (as supplied; the Pada and Pratipadārtha have ईशिषे (*īśiṣe*)).
 
+### Printed p. 788
+
+*(Header: "788 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 16]".)*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> प्र ते॒ नावं॒ न सम॑ने वच॒स्युवं॒ ब्रह्म॑णा यामि॒ सव॑नेषु॒ दादृ॑षिः ।
+> कु॒विनो॑ अ॒स्य वच॑सो नि॒बोधि॑ष॒दिंद्र॒मुत्सं॒ न वसु॑नः सिचामहे ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> प्र । ते । नावं । न । समने । वचस्युवं । ब्रह्मणा । यामि । सवनेषु । दधृषिः ।
+> कुवित् । नः । अस्य । वचसः । निबोधिषत् । इंद्रं । उत्सं । न । वसुनः । सिचामहे ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: By your grace I, a vanquisher of foes, approach you in the three pressings with praise, as one boards a boat to cross misfortune; may Indra heed my words; we pour Soma on him as into a well of treasure. Grammatical tail on dādhṛṣi (the substitution of uvaṅ), on the root budh (leṭ with sip), the accent after kuvit, and on the root sic (loss of the nasal, the grammar-rule being not permanent).*
+
+> दाधृषिस्त्वत्प्रसादाच्छत्रूणां धर्षकोऽहं समने संग्रामे वचस्युवं ॥
+> अमि तन्वादित्वादुवजादेशः ॥ स्तोत्रमिच्छंतं नावं न नावमिवापद्भ्यस्तारकं ते
+> त्वां सवनेषु त्रिषु ब्रह्मणा स्तोत्रेण प्रयामि । प्राप्नोमि । किंच अस्य वचसः ।
+> स्तुतिलक्षणमेतद्वाक्यं । कुविद्दहु निबोधिषत् । इंद्रो नितरां बुध्यतां ॥ बुध
+> अवगमने । लेटि सिब्बहुलमिति सिप् । कुविद्योगादनिघातः ॥ तिजु चोदात्तवतीति
+> गतेर्निघातः ॥ वयं चोत्सं न जलस्य निधानभूतं कूपमिव वसुनो निधानभूत-
+> मिंद्रं सिचामहे । सोमेन सिंचामः ॥ सिचिर् क्षरणे स्वरितेत् । आगमानुशासनस्या-
+> नित्यत्वान्नु मभावः ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+दाधृषि: (*dādhṛṣi:*)—(by your favour) I, the vanquisher of enemies. समने (*samane*)—in battle. वचस्युवं (*vacasyuvaṃ*)—you who desire praise. नावं न (*nāvaṃ na*)—and who carry across calamity like a boat. ते (*te*)—you. ब्रह्मणा (*brahmaṇā*)—with praise. सवनेषु (*savaneṣu*)—in all three pressing-times as well. प्र यामि (*pra yāmi*)—I approach. नः (*naḥ*)—our. अस्य वचसः (*asya vacasaḥ*)—this speech in the form of praise. कुवित् (*kuvit*)—again and again. निबोधिषत् (*nibodhiṣat*)—let (Indra) attend to and understand. उत्सं न (*utsaṃ na*)—like a well, the support of water. वसुनः (*vasunaḥ*)—of wealth, a receptacle. इंद्रः (*iṃdraḥ*)—Indra. सिचामहे (*sicāmahe*)—we worship with the offering of Soma.
+
+*(Note on the text as supplied, not corrected: the Saṃhitā reads दादृषिः (*dādṛṣiḥ*) and कुविनो (*kuvino*), while the Pada reads दधृषिः (*dadhṛṣiḥ*) and कुवित् नः (*kuvit naḥ*); the bhāṣya and the Pratipadārtha read दाधृषि (*dādhṛṣi*); the bhāṣya has कुविद्दहु (*kuviddahu*) and सिचिर् (*sicir*) as supplied. The running head of p. 790 is printed "750" for 790.)*
+
+### Printed p. 789
+
+*(Header: "[A. 2. A. 6. V. 18] Ṛgvedasaṃhitā 789".)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, by your favour I, the vanquisher of enemies, approach you in the three pressings with praise, you who desire praise in battle and who carry across calamity like a boat. May Indra attend to and understand again and again this speech of ours in the form of praise. We worship Indra, the receptacle of wealth, with the offering of Soma, as one does a well, the support of water.
+
+**Printed English translation (Ṛk 7)**
+
+Victorious in battle,(through) your(favour) I approach you, who are gratified by praise, in sacred rites with prayer, as a boat-(to bear me over misfortune): may Indra listen attentively to these our words: we pour out libations to Indra,(who is a receptacle) of treasure, as a well(is of water).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+समने (*samane*)—the word समनं (*samanaṃ*) is read among the names of battle (Nirukta 3-9). Yāska also gives the etymology: समनं समननाद्वा संमाननाद्वा (*samanaṃ samananādvā saṃmānanādvā*). In this connection he cites the Ṛk अभि प्रवंत समनेव योषाः कल्याण्यंस्मयमानासो अग्निं (*abhi pravaṃta samaneva yoṣāḥ kalyāṇyaṃsmayamānāso agniṃ*) (Maṃ. Saṃ. 4-58-8) and explains: समनसः समानमनसः । एकस्मिन् भर्तरि यासां मनांसि वर्तंते ताः समनसः (*samanasaḥ samānamanasaḥ | ekasmin bhartari yāsāṃ manāṃsi vartaṃte tāḥ samanasaḥ*): those of one and the same mind. The many wives of one husband place the same kind of mind, that is, love and trust, in him; for such wives he gives another sense of the word समन (*samana*), "having an equal mind". In the present Ṛk the word समन (*samana*) means battle, that is, war.
+
+नावं न (*nāvaṃ na*)—as one crosses a river by a नावॆ (*nāvè*), that is, a boat, so he carries one across calamities: this is the meaning.
+
+कुवित् (*kuvit*)—this is a particle (indeclinable). Since this word is read among the names of "much" (Nirukta 3-13), कुविक् (*kuvik*) means much, many times.
+
+उत्सं (*utsaṃ*)—कूपं (*kūpaṃ*). Since the word उत्स (*utsa*) is read among the names of wells (Nirukta 3-19), उत्स (*utsa*) means a well. Besides this, the word उत्स (*utsa*) is also understood to mean a cloud. In this connection Yāska gives the etymology: उत्स उत्सरणाद्वोत्सदनाद्वोत्स्यंदनाद्वोनत्तेर्वा (*utsa utsaraṇādvotsadanādvotsyaṃdanādvonattervā*) (Nirukta 10-10). The commentator Durgācārya on this (continued on p. 790):
+
+### Printed p. 790
+
+*(Header: "750 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 16]", the page number printed "750" as supplied.)*
+
+उत्सः मेघः । स कस्मात् । उत्सदनाद्वा उत्सूर्वस्य सदेः ऊर्ध्वमसौ सन्न इत्युत्सः ॥ उत्संदनाद्वा उत्सूर्वस्य वा स्यंदतेः उपर्यसाववस्थितः स्यंदतीत्युत्सः ॥ उनत्तीर्वा उंदी क्लेदने इत्यस्य क्लेदयत्यसौ ॥ (*utsaḥ meghaḥ | sa kasmāt | utsadanādvā utsūrvasya sadeḥ ūrdhvamasau sanna ityutsaḥ ‖ utsaṃdanādvā utsūrvasya vā syaṃdateḥ uparyasāvavasthitaḥ syaṃdatītyutsaḥ ‖ unattīrvā uṃdī kledane ityasya kledayatyasau ‖*)
+
+thus explains the meaning. That is:
+
+(1) The word उत्स (*utsa*), formed from the root सृ (*sṛ*) (सरि (*sari*)) with the prefix उत् (*ut*): because it moves above, that is, in the atmosphere, उत्स (*utsa*) means a cloud.
+
+(2) Or, if the word उत्स (*utsa*) is formed from the root सद् (*sad*) with the prefix उत् (*ut*), then because it abides in the atmosphere the word उत्स (*utsa*) means a cloud.
+
+(3) Or, if the word उत्स (*utsa*) is formed from the root स्यंदति (*syaṃdati*) with the prefix उत् (*ut*), then because it stands firm above (in the atmosphere), उत्स (*utsa*) means a cloud.
+
+(4) Or, if the word उत्स (*utsa*) arises from the root उंदी (*uṃdī*) (क्लेदने (*kledane*), "to wet"), then because in the atmosphere it holds water of a wetting nature, the word उत्स (*utsa*) means a cloud.
+
+Thus four etymologies are given for the word उत्स (*utsa*). In the present Ṛk उत्स (*utsa*) means a well. In this sense the word is formed from the root सृ (*sṛ*) with उत् (*ut*), and since in it the water rises from the bottom upwards, उत्स (*utsa*) gives the meaning of a well.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> पु॒रा सं॑बा॒धाद॒भ्या व॑वृत्स्व नो धे॒नुर्न व॒त्सं यव॑सस्य पि॒प्युषी॑ ।
+> स॒कृत्सु ते॑ सुम॒तिभिः॑ शतक्रतो॒ सं पत्नि॑भि॒र्न वृष॑णो नसीमहि ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> पुरा । संबाधात् । अभि । आ । ववृत्स्य । नः । धेनुः । न । वत्सं । यवसस्य । पिप्युषी ।
+> सकृत् । सु । ते । सुमशिभिः । शतक्रतो इति शतक्रतो । सं । पश्नीभिः । न । वृषणः ।
+> नसीमहि ॥ ८ ॥
+
+> *purā | saṃbādhāt | abhi | ā | vavṛtsya | naḥ | dhenuḥ | na | vatsaṃ | yavasasya | pipyuṣī |*
+> *sakṛt | su | te | sumaśibhiḥ | śatakrato iti śatakrato | saṃ | paśnībhiḥ | na | vṛṣaṇaḥ |*
+> *nasīmahi ‖ 8 ‖*
+
+*(Note on the text as supplied, not corrected: the Saṃhitā reads सुमतिभिः (*sumatibhiḥ*) and पत्निभिः (*patnibhiḥ*) where the Pada reads सुमशिभिः (*sumaśibhiḥ*) and पश्नीभिः (*paśnībhiḥ*); in the supplied text the Pada followed the Saṃhitā with no label; it has been separated.)*
+
 ---
 
-**Progress note:** Done through printed p. 787 (PDF 787). Printed pp. 785-787: Rk 5 Bhavartha, printed English, special topics (kosa, pavate, adhvaryu/adri); Rk 6 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English, special topics. Flags: Rk6 Samhita 'vrsto'/'trpluhi' vs Pada 'vrsnah'/'trpnuhi' as supplied; bhasya 'tvamedesise' as supplied; accent script DIFF on Rk 6 line 2
+**Progress note:** Done through printed p. 790 (PDF 790). Sukta 16 Rk 7 (Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English, special topics: samane, kuvit, utsa) and Rk 8 Samhita and Pada. Flags: Rk 7 Samhita dadrsih/kuvino vs Pada dadhrsih/kuvit nah as supplied; Rk 8 Samhita sumatibhih/patnibhih vs Pada sumasibhih/pasnibhih as supplied; accent script DIFF on 3 lines
