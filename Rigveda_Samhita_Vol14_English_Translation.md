@@ -32829,6 +32829,118 @@ Vigour has been perpetually imparted to Indra by his worshippers (with oblations
 
 It is said that those asuras had three chief cities, made respectively of iron, silver and gold, and that the gods were unable to conquer them. But it must be understood that this matter is one thing, and the asura cities destroyed by Indra are another. Since the cities of the black people or asuras were protected by very strong forts, they may have been described as cities made of steel (iron).
 
+### Printed p. 872
+
+*(Header: "872 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 20]", as supplied. The page opens with the Saṃhitā of Ṛk 9. The supplied text prints the Saṃhitā and Pada in damaged mixed Kannada-Devanagari letters, and again inside an HTML title attribute; the lines are converted letter for letter, not corrected. They show visible slips against the bhāṣya, for example त्री (*trī*) for ते (*te*) in both the Saṃhitā and the Pada, and विदध (*vidadha*) with the following word run together in the Pada; the label before the bhāṣya is printed garbled and is given in standard form.)*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> नू॒नं सा त्री॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदि॑न्द्र॒ दक्षि॑ण म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दध॑ सु॒वीराः॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> नूनं । सा । त्री । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
+> शिक्षा । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदधःसुवीराः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अहर्गणेषु माध्यंदिनसवनेषु तायमानरूपेष्वच्छावाकस्याहरहः सस्य-
+> संज्ञकमभितष्ट्ववेति सूक्तं । नूनं सा त इत्येषा तस्यांते शंसनीया । सूत्रितं च ।
+> नूनं सा त इत्यंतमुत्तमं । आ. ७_४ । इति ॥
+> हे इंद्र या दक्षिणा दक्षमुत्साहनं करोतीति दक्षिणा स्तोतृभ्यो देया ते
+> त्वत्संबंधिनी मघोनी धनवती जरित्रे स्तोत्रे वरं श्रेष्ठमभिमतमर्थं नूनु
+> प्रतिदुहीयत् । इदानीं प्रतिदोग्धि । संपादयतीत्यर्थः । तादृशीं दक्षिणां स्तोत्र-
+> भ्योऽस्मभ्यं शिक्ष । प्रयच्छ । किंच भगो भजनीयस्त्वं माति धक् ॥ दहेर्दानार्थस्य
+> लुजि मंत्रे घसेत्यादिना चेर्लुक् ॥ नोऽस्थानतिक्रम्यान्येभ्यो दक्षिणां मा दत.
+> प्रथममस्मभ्यं दत्वा पश्चादन्येभ्यो दीयतामित्यर्थः। यद्वा नोऽस्माकं कामान्
+> मा धक् । मा धाक्षीः । अपेक्षितफलदानेन पूरयेत्यर्थः । सुवीरा: शोभनपुत्र-
+> पौत्राः संतो वयं विदथेऽस्मिन्यज्ञॆ बृहत् प्रभूतं स्तोत्रं वदेम । त्वामुद्दिश
+> ब्रवाम ॥ अत्र सा ते प्रतिदुग्धामिति प्रकृत्य वीरो वीरयत्यमित्रान् वेतीर्वा
+> स्याद्गतिकर्मणो वीरयतेर्वेत्यंतं निरुक्तमनुसंधेयं । नि. १-७ ॥
+
+*Gist: The Ṛk is recited at the end of the Acchāvāka's śastra in the Ahargaṇa rites; Indra's bountiful dakṣiṇā is asked for the praisers, who will chant at the sacrifice with good sons.*
+
+### Printed p. 873
+
+*(Header: "[A. 2. Adhyāya 6. Varga 27] Ṛgvedasaṃhitā 873", as supplied, with the first letters garbled.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; ते (*te*)—given by you, and मघोनी (*maghonī*)—possessed of abundant wealth; सा दक्षिणा (*sā dakṣiṇā*)—that dakṣiṇā; जरित्रॆ (*jaritrè*)—to the praising sacrificer; नूनु (*nūnu*)—certainly; वरं (*varaṃ*)—excellently; प्रति दुहीयत् (*prati duhīyat*)—fulfils the desired object (such a dakṣiṇā); स्तोतृभ्यः (*stotṛbhyaḥ*)—to us also, the praisers; शिक्ष (*śikṣa*)—give; भगः (*bhagaḥ*)—you, the revered one; नः (*naḥ*)—us; माति धक् (*māti dhak*)—do not disregard; सुवीराः (*suvīrāḥ*)—we, accompanied by excellent heroic sons; विदथे (*vidathe*)—in this sacrifice; बृहत् (*bṛhat*)—abundant hymn; वदेम (*vadema*)—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, that dakṣiṇā, given by you and possessed of abundant wealth, certainly fulfils in an excellent manner the desired object of the praising sacrificer. Give such a dakṣiṇā to us also, the praisers. Do not disregard us, revered one. Accompanied by excellent sons, we shall recite an abundant hymn at this sacrifice.
+
+**English Translation (as printed)**
+
+That opulent donation which proceeds, Indra, from you, assuredly bestows upon him who praises you the boon(that he desires): grant it to(us) your adorers: do not you, who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you in this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Kannada: "Since this Ṛk was recited earlier at Ṛ. Saṃ. 2-11-21, its special topics may be learnt from what is written at length there, that is, on pages 638 to 640 of this same volume." (The page range is printed in Latin digits in the supplied text.)
+
+*(The Sūkta 20 closes here; no Sanskrit colophon or Kannada closing line is printed. The Kannada line "ಇಪ್ಪತ್ತೊಂದನೆಯ ಸೂಕ್ತವು." ("the twenty-first sūkta") follows.)*
+
+## Sūkta 21
+
+**Sāyaṇa's introduction (Sanskrit):**
+
+> विश्वजित इति षडृचं दशमं सूक्तं गार्त्समदमैंद्रं । अंत्या त्रिष्टुप् ।
+> शिष्टाः पंच जगत्यः । तृतीये पर्याये होतुः शस्त्र एतत्तूक्तं । सूत्रितं च ।
+> विश्वजिते तिष्ठा हरी रथ आयुज्यमानेति याज्या । आ. ६-४ । इति ॥
+
+**Anuvāda**
+
+The Kannada: "This sūkta, विश्वजिते (*viśvajite*), is the tenth sūkta in the second anuvāka. It has six Ṛks. Gṛtsamada is the ṛṣi; Indra is the deity; the last Ṛk of this sūkta is in the Triṣṭup metre, and the remaining five Ṛks are in the Jagatī metre. The application (viniyoga) of this sūkta is in the third paryāya, for the śastra mantras to be recited by the Hotṛ, as explained by the sūtra विश्वजिते तिष्ठा हरी रथ आयुज्यमानेति याज्या (*viśvajite tiṣṭhā harī ratha āyujyamāneti yājyā*) of the Āśvalāyana Śrauta Sūtra (Ā. 6-4)."
+
+### Printed p. 874
+
+*(Header: "874 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 2.]", as supplied; the sūkta number is cut off in the supplied text.)*
+
+**Sūkta heading block:**
+
+> ॥ ओं ॥
+> सूक्त—२१
+> ॥ मंडल-२ ॥ अनुवाक-२ ॥ सूक्त-२१ ॥
+> ॥ अष्टक-२.॥ अध्याय-६ ॥ वर्ग-२७॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ-६ ॥
+> ऋषि—गृत्समदुः ।
+> देवता—इंद्र ।
+> छंदः—३-५ जगती ६, त्रिष्टप्.
+
+*(In the heading block the supplied text reads ಗೃತ್ಸಮದುಃ for the ṛṣi's name and gives the metre as "3-5 Jagatī, 6 Triṣṭup" (as supplied, and the opening Ṛks are not numbered 1 to 5 there); the Varga number is printed 27.)*
+
+#### Ṛk 1
+
+*(The supplied text carries a stray word "ಪಡೆದ" between the Saṃhitā and Pada, and prints the label of the bhāṣya as "ಕಾಯಣಭಾಷ್ಯ, ೨"; the stray word is dropped and the label given in standard form. Slips in the Saṃhitā and Pada against each other, such as ಅಬ್ಬಿತೇ for ಅಪ್ಜಿತೇ, are left as supplied. The page ends in the middle of the bhāṣya, which continues on p. 875.)*
+
+**॥ संहितापाठः ॥**
+
+> विश्वजिते धनजिते स्वर्जिते सत्राजिते नृजित उर्वराजिते ।
+> अश्वजिते गोजिते अब्बिते भरेन्पाय सोमं यजताय
+> हरृतं ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> विश्वजिते । धनजिते । स्वःजिते । सत्प्राजिते । नृजिते । उर्वराजिते ।
+> अश्वजिते । गोजिते । अप्जिते । भर । इन्प्राय । सोमं । यजतायहर्यतं
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यो इंद्राय सोमं भर । संपादय । कीदृशाय । विश्वजिते
+> सर्वस्य जेत्रे । तदेव प्रपंचयति । धनजिते शत्रुविजयेन तदीयधनानां जेत्रे ‘
+> स्वर्जिते स्वर्गस्य जेत्रेऽधिपतये। सत्राजिते सत्रा संततं जयशीलाय महतो जेत्रे
+> वा । नृजिते नृणां नायकानां जेत्रे । उर्वराजिते । उर्वरा सर्वसस्माढ्या भू.
+
+> *he adhvaryo iṃdrāya somaṃ bhara | saṃpādaya | kīdṛśāya | viśvajite*
+> *sarvasya jetre | tadeva prapaṃcayati | dhanajite śatruvijayena tadīyadhanānāṃ jetre ‘*
+> *svarjite svargasya jetre 'dhipataye| satrājite satrā saṃtataṃ jayaśīlāya mahato jetre*
+> *vā | nṛjite nṛṇāṃ nāyakānāṃ jetre | urvarājite | urvarā sarvasasmāḍhyā bhū.*
+
 ---
 
-**Progress note:** Done through printed p. 871 (PDF 871). Sukta 20 Rk 7 Special Topics end; Rk 8 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics (to Rk 8 'dasyun hatvi'); sukta not yet closed
+**Progress note:** Done through printed p. 874 (PDF 874). Sukta 20 Rk 9 (Samhita/Pada garbled, converted letter for letter; accent DIFF on spelling slips) and Special Topics (cross-reference only); Sukta 20 closed without colophon; Sukta 21 introduction, heading block and Rk 1 Samhita, Pada, bhashya begun (bhashya continues on p. 875)
