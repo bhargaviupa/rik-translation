@@ -33378,6 +33378,98 @@ The word अस्मे (*asme*) is used in all seven case-meanings. Here the f
 
 सुदिनत्वं अह्नां (*sudinatvaṃ ahnāṃ*)—सुदिनत्वं शोभनदिनत्वं च धेहि । येषु हींद्रादयो देवा इज्यंते तानि सुदिनानि । तेषां भावः सुदिनत्वं । (*sudinatvaṃ śobhanadinatvaṃ ca dhehi | yeṣu hīṃdrādayo devā ijyaṃte tāni sudināni | teṣāṃ bhāvaḥ sudinatvaṃ |*) The day on which Indra and the other deities are praised and worshipped in sacrifices and the like is a सुदिन (*sudina*), that is, a good day. The prayer is: make good days of this kind predominate among the days, that is, make it favourable for us, on many days, to praise and worship Indra and the other deities and obtain your favour.
 
+## Sūkta 22
+
+*(Sūkta 21 has no Sanskrit colophon or Kannada closing line in the supplied text; the Special Topics of its Ṛk 6 ended on p. 889. The Kannada line "ಇಪ್ಪತ್ತೆರಡನೆಯ ಸೂಕ್ತವು." ("the twenty-second sūkta") opens the next page.)*
+
+### Printed p. 890
+
+*(Header: "890 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 22]", as supplied.)*
+
+**Sāyaṇa's introduction (Sanskrit):**
+
+> त्रिकद्रुकेष्विति चतुर्यचमेकादशं सूक्तं गार्त्समदमैंद्रं । अत्रेय-
+> मनुक्रमणिका । त्रिकद्रुकेषु चतुष्कमष्टाद्यतिशाक्वरमंत्याष्टिर्वेति । आद्याया
+> मष्टिश्चंदश्चतुःषष्ट्यक्षरा । अवशिष्टाः षष्ट्यक्षरा अतिशक्वर्यः । अंत्याष्टिर्वा ॥ षोड-
+> शिशस्त्रे त्रिकद्रुकेष्विति तृचः । सूत्रितं । त्रिकद्रुकेषु महिषो यवाशिरं प्रो ष्टस्मै
+> पुरोरथमिति तृचावातिछंदसौ । आ. ६-२ । इति ॥ अविवाक्येऽहनि मरुत्वतीये प्रति-
+> पत्तृचस्य त्रिकद्रुकेष्विति प्रथमा । दशमेऽहनीति खंडे सूत्रितं। आ त्वा रथं यथो-
+> तय इत्येतस्याः स्थाने त्रिकद्रुकेषु महिषो यवाशिरमिति । आ. ८-१२ । इति ॥ आश्व-
+> मेधिके मध्यमेऽहनि मरुत्वतीय आद्या! तस्य विशेषान्वक्ष्याम इति खंडे सूत्रितं ।
+> त्रिकद्रुकेषु महिषे यवाशिरमिति मरुत्वतीयस्य प्रतिपत् । आ. १०-१० । इति ॥
+> महाव्रतेऽपि माध्यंदिने सवने ब्राह्मणाच्छंसिनः स्तोत्रियॆस्तृचः । त्रिकद्रुकेषु
+> महिषो यवाशिरमिति स्तोत्रियः । ऐ. आ. ५-१ । इति सूत्रितं ॥
+
+**Anuvāda**
+
+The Kannada: "This sūkta, त्रिकद्रुकेषु (*trikadrukeṣu*), is the eleventh sūkta in the second anuvāka. It has four Ṛks. Gṛtsamada is the ṛṣi; Indra is the deity. In the Anukramaṇikā it is stated thus: in the sūkta of four Ṛks beginning त्रिकद्रुकेषु (*trikadrukeṣu*), the first Ṛk is in the Aṣṭi metre, which has sixty-four syllables; the remaining Ṛks are in the Atiśakvarī metre, which has sixty syllables; the last Ṛk is in Atiśakvarī or Aṣṭi. For the Ṣoḍaśi-śastra mantras, the first three Ṛks of this sūkta beginning त्रिकद्रुकेषु (*trikadrukeṣu*) are applied (viniyoga), as the Āśvalāyana Śrauta Sūtra states in the sūtra त्रिकद्रुकेषु महिषो यवाशिरं प्रोष्वस्यॆ पुरोरथमिति तृचावातिच्छंदसौ (*trikadrukeṣu mahiṣo yavāśiraṃ proṣvasyè purorathamiti tṛcāvāticchaṃdasau*) (Ā. 6-2). On the day of the sacrifice called Avivākya, for the Marutvatīya śastra mantras, the first Ṛk of this sūkta is applied among the tṛca (three Ṛks) recited, as explained in the Āśvalāyana Śrauta Sūtra in the section called दशमेहनि (*daśamehani*), by the sūtra that, in place of the Ṛk आ त्वा रथं यथोतय (*ā tvā rathaṃ yathotaya*), त्रिकद्रुकेषु महिषो यवाशिरमिति (*trikadrukeṣu mahiṣo yavāśiramiti*) is recited (Ā. 8-12). On the middle day of the Aśvamedha sacrifice, for the Marutvatīya śastra mantras, the first Ṛk of this sūkta is applied, as explained in the section तस्य विशेषान्वक्षाम (*tasya viśeṣānvakṣāma*) of the same Sūtra by the sūtra त्रिकद्रुकेषु महिषो यवाशिरमिति मरुत्वतीयस्य प्रतिपत् (*trikadrukeṣu mahiṣo yavāśiramiti marutvatīyasya pratipat*) (the Anuvāda prints the reference as ಅ. 10-10; the bhāṣya prints ಆ. 10-10). In the sacrifice called Mahāvrata, at the midday pressing, for the stotriya tṛca to be recited by the priest called Brāhmaṇācchaṃsin, the first three Ṛks of this sūkta are applied, as stated in the Aitareya Āraṇyaka by the sentence त्रिकद्रुकेषु महिषो यवाशिरमिति स्तोत्रियः (*trikadrukeṣu mahiṣo yavāśiramiti stotriyaḥ*) (Ai. Ā. 5-1)."
+
+### Printed p. 891
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 28] Ṛgveda Saṃhitā 891", as supplied; the Varga number is given in the heading block as 28. The Kannada text of the Anuvāda runs on from p. 890.)*
+
+**Sūkta heading block:**
+
+> ॥ ओं ॥
+> सूक्त-२२
+> सूक्त—२२
+> ॥ मंडल—२ ॥ अनुवाक—२ ॥ सूक्त—२२ ॥
+> ॥ अष्टक— २ ॥ अध्याय— ६ ॥ वर्ग—२८ ॥
+> । सूक्तदल्लिरुव ऋक्संख्यॆ-४ ।
+> ऋषिः—गृत्समदॆः ।
+> देवता—इंद्रः ।
+> छंदः—१. अष्टिः । २-३ अतिशक्वरी । ४. अतिशक्वर्यष्टिर्वा ।
+
+*(In the heading block the supplied text prints the sūkta number twice; for the ṛṣi's name it reads ಗೃತ್ಸಮದೆಃ, as supplied. Metre: "1. Aṣṭi; 2-3 Atiśakvarī; 4. Atiśakvarī or Aṣṭi". Number of Ṛks in the sūkta: 4.)*
+
+#### Ṛk 1
+
+*(Slips in the supplied text, left as supplied: the Saṃhitā reads ಇನ್ನುಃ at its end against ಇಂದುಃ of the bhāṣya; the Pada has ತ್ವಪತ್ against ತೃಪತ್ of the bhāṣya, and ಮಹಾಂ । ಉರುಂ where the Saṃhitā has ಮಹಿ ... ಮಹಾಮುರುಂ; the Saṃhitā has a stray ಸೈನಂ against the Pada ಏನಂ.)*
+
+**॥ संहितापाठः ॥**
+
+> त्रिक॑द्रुकेषु महि॒षो यवा॑शिरं तुवि॒शुष्म॑स्तृ॒पत्तोम॑मपिब॒द्विष्णु॑ना सु॒तं यथाव॑शत् ।
+> स ईं॑ ममाद॒ महि॒ कर्म॒ कर्त॑वे म॒हामु॒रुं सैनं॑ सश्चद्दे॒वो दे॒वं स॒त्यमिन्दं॑ स॒त्य इन्नुः॑ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> त्रिकद्रुकेषु । महिषः । यवआशिरं । तुविशुष्मः । त्वपत् । सोमं । अपिबत् ।
+> विष्णुना । सुतं । यथा । अवशत् ।
+> सः । ईं । ममाद । महि । कर्म । कर्तवे । महां । उरुं । सः । एनं । सश्चत् ।
+> देवः । देवं । सत्यं । इन्दं । सत्यः । इन्नुः ॥ १ ॥
+
+> *trikadrukeṣu | mahiṣaḥ | yavaāśiraṃ | tuviśuṣmaḥ | tvapat | somaṃ | apibat |*
+> *viṣṇunā | sutaṃ | yathā | avaśat |*
+> *saḥ | īṃ | mamāda | mahi | karma | kartave | mahāṃ | uruṃ | saḥ | enaṃ | saścat |*
+> *devaḥ | devaṃ | satyaṃ | indaṃ | satyaḥ | innuḥ ‖ 1 ‖*
+
+### Printed p. 892
+
+*(Header: "892 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 22]", as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> गृत्समदो ब्रूते । महिषो महान् पूज्यस्तु विशुष्मो बहुबलस्पत् ॥
+> तृप प्रीणने तुदादिः । आगमानुशासनस्यानित्यत्वान्नु मभावः॥ तृप्यन् इंद्रस्त्रिकद्रुकेषु
+> ज्योतिर्गौरायुरित्येतन्नामकेष्वाभिप्लविकेष्टहःसु सुतमभिशुतं यवाशिरं यव-
+> मयैः सक्तुभिर्मिश्रितं ॥ आज् पूर्वस्य श्रीणातेः क्विपि अपस्पृधेथामित्यादिना शिर
+> इत्यादेशः ॥ तं सोमं विष्णुना सहापिबत् । यथावशत् । पूर्वं यथा तं सोम-
+> मकामयत तथापिबत् ॥ वश कांत् । बहुलं छंदसीति शपो लुगभावः ॥ पीतः स
+> सोमो महां महांतमुरं तेजसा विस्तीर्णमीमेनमिंद्रं ममाद । अमाद-
+> यत् । किमर्थं । महि महद्वृत्रहननादिलक्षणं कर्म कर्तवे कर्तुं । सत्य इंदुः
+> स्रवन् देवो दीप्यमानः स सोमः सत्यं यथार्थभूतं देवं सोमं काम-
+> यमानमिंद्रं सश्चत् ॥ सश्चतिर्वाप्तिकर्मा ॥ व्याप्पोतु ॥
+
+*Gist: Gṛtsamada speaks. Indra, great, mighty and delighting, drank the Soma, pressed on the Trikadruka days and mixed with barley, together with Viṣṇu as he had wished; that Soma pervades him, to enable great deeds.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+महिषः (*mahiṣaḥ*) (the great-souled one) and तुविशुष्कः (*tuviśuṣkaḥ*) (the one of abundant strength; as supplied, the Saṃhitā has ತುವಿಶುಷ್ಮಃ) and तृपत् (*tṛpat*) (the one who desires satisfaction)—Indra; त्रिकद्रुकेषु (*trikadrukeṣu*)—on the days (ahas) of the Trikadruka; सुतं (*sutaṃ*)—pressed; यवाशिरं (*yavāśiraṃ*)—mixed with barley; सोमं (*somaṃ*)—the Soma; विष्णुना (*viṣṇunā*)—together with Viṣṇu; यथा अवशत् (*yathā avaśat*)—in the way he had wished before; आपिबत् (*āpibat*)—drank. सः (*saḥ*)—that same Soma; महां (*mahāṃ*)—the great-souled; उरु (*uru*)—the one expanded in lustre; ईं (*īṃ*)—this Indra; ममाद (*mamāda*)—satisfied. महिं (*mahiṃ*) (as supplied; the Saṃhitā has ಮಹಿ)—the great deeds such as the slaying of Vṛtra; कर्म (*karma*)—deeds; कर्तवे (*kartave*)—in order to accomplish. सत्यः (*satyaḥ*)—the one of true nature; इंदुः (*iṃduḥ*)—the flowing one; देवः (*devaḥ*)—the shining one (the supplied text ends this word with ಅವ, as printed). सः (*saḥ*)—that Soma juice; सत्यं (*satyaṃ*)—the one of true nature; देवं (*devaṃ*)—the one who desires Soma; एनं इंद्रं (*enaṃ iṃdraṃ*)—this Indra; सश्चत् (*saścat*)—joining, may it pervade his body.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra, the great-souled, of abundant strength, who desires satisfaction, drank together with Viṣṇu, in the way he had wished before, the Soma pressed on the days of the Trikadruka and mixed with barley. That same Soma satisfied Indra, the great-souled one, expanded in lustre. In order to accomplish great deeds such as the slaying of Vṛtra, may the Soma, which is of true nature, flowing and shining, join Indra, who is of true nature and desires Soma, and pervade his body.
+
 ---
 
-**Progress note:** Done through printed p. 889 (PDF 889). Sukta 21 Rk 5 Special Topics completed; Rk 6 (last of the sukta) complete, its Special Topics begun; colophon not yet reached
+**Progress note:** Done through printed p. 892 (PDF 892). Sukta 21 closed (no colophon printed); Sukta 22 introduction, heading block, Rk 1 Samhita, Pada, bhasya, Pratipadartha and Bhavartha done; printed English of Rk 1 follows on the next page
