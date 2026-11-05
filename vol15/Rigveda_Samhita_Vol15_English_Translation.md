@@ -21473,6 +21473,110 @@ the words virāṭ and samrāṭ are the names of two leaves of the door. The sc
 
 *[The window ends here, at the end of p. 691, in the middle of the Special Topics; the supplied text of this passage stops at "होतरज । (*hotaraja |*)" with the reference, and the discussion continues on p. 692.]*
 
+### Printed p. 692
+
+*[Running head, p. 692: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+The bhāṣyakāra explains what is said in these sentences as: the five-prayāja deity called the door-deities, in his form Agni; may the divine hotṛ sacrifice. In these sentences the words आताभिः (*ātābhiḥ*) and उज्जिहतां (*ujjihatāṃ*) are the main ones. This somewhat opposes the above view. One opinion is that from this it may be said that "door" meaning the doors of the sacrificial house is figurative. In the Aitareya Brāhmaṇa:
+
+⟦ದುರೋ ಯಜತಿ ವೃಷ್ಟಿರ್ವೈ ದುರೋ ವೃಷ್ಟಿಮೇವ ತತ್ಪ್ರೀಣಾತಿ ವೃಷ್ಟಿಮನ್ನಾದ್ಯಂ ಯಜಮಾನೇ
+ದಧಾತಿ ।⟧ (printed ಐ. बा (*bā*). 2-4)
+
+Here rain is meant instead of the meaning "door". How this meaning arises is not explained. The Nirukta author says:
+
+द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा । (*dvāro javatervā dravatervā vārayatervā |*) that it is formed from the root ju meaning "press forward", or from the root dru meaning "go forward", or from the root vṛ meaning "separate". Quoting the Ṛk
+
+⟦ವ್ಯಚಸ್ವತೀರುರ್ವಿಯಾ ವಿ ಶ್ರಯಂತಾಂ ಪತಿಭ್ಯೋ ನ ಜನಯಃ ಶುಂಭಮಾನಾಃ ।
+ದೇವೀರ್ದ್ವಾರೋ ಬೃಹತೀರ್ವಿಶ್ವಮಿನ್ವಾ ದೇವೇಭ್ಯೋ ಭವತ ಸುಪ್ರಾಯಣಾಃ ।⟧
+(printed ಋ. सं (*saṃ*). 10-110-5)
+
+and explaining the word dvāra, he indicates the difference of opinion also: गृहद्वार इति कात्थक्यः । (*gṛhadvāra iti kātthakyaḥ |*), house-door according to Kātthakya, and अग्निरिति शाकपूणिः । (*agniriti śākapūṇiḥ |*), Agni according to Śākapūṇi (Ni. 8-10). In the Bṛhaddevatā:
+
+⟦ದ್ವಾರಸ್ತು ದೇವ್ಯೋ ಯಾಃ ಪ್ರೋಕ್ತಾ ವಿಶ್ವೇಷಾಂ ತಾಸ್ತು ಪತ್ನಯಃ ।
+ಅಗ್ನಾಯೀಮನುವರ್ತಂತೇ ತಥಾಗ್ನಾಯ್ಯಗ್ನಿಮೇವ ಚ ॥
+ಅಗ್ನೌ ಧ್ರುವಂ ಸ್ಥಿತಾಸ್ತಾಸ್ತು ಸಂಸ್ತೂಯಂತೇಽಗ್ನಿನಾ ಸಹ ।
+ಪ್ರಾಧಾನ್ಯಂ ತಾಸು ಚೈವಾಗ್ನೇ ಸ್ತುತಿಷ್ಟೇವ ಹವಿಷ್ಣು ಚ ।⟧
+(printed बृ (*bṛ*). दे (*de*). 3-6 रिंद (*riṃda*) 7)
+
+It says that these doors are wives of the gods, that they follow Agnāyī (the wife of Agni), who follows Agni, and that, since they are firmly established in Agni, they are praised together with Agni. This is reasonable (printed सयुक्तिकवागिदॆ (*sayuktikavāgidè*).). In the matter of purifying the four doors of the sacrificial house, the Taittirīya Saṃhitā describes it thus:
+
+### Printed p. 693
+
+*[Running head, p. 693: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+⟦ಪ್ರಾಚೀನವಗ್‌ಂಶಂ ಕರೋತಿ ದೇವಮನುಷ್ಯಾ ದಿಶೋ ವ್ಯಭಜಂತ ಪ್ರಾಚೀಂ ದೇವಾ ದಕ್ಷಿಣಾ
+ಪಿತರಃ ಪ್ರತೀಚೀಂ ಮನುಷ್ಯಾ ಉದೀಚೀಗ್‌ಂ ರುದ್ರಾಃ ॥⟧
+(printed तै (*tai*). सं (*saṃ*). 6-1-1-1)
+
+That is: the gods divided the eastern door of the sacrificial house, the Pitṛ-deities the southern door, men the western door, and the (eleven) Rudras the northern door. The names of these doors of the sacrificial house, as stated in 1-188-5, are as follows: virāṭ may be said to be the eastern door, samrāṭ the southern door, vibhvīḥ the western door, and prabhvīḥ the northern door. Sāyaṇa has explained the component meanings of these words.
+
+सप्त होत्राणि—होतृणां वषट् कर्तृणां कर्माणि । (*sapta hotrāṇi—hotṛṇāṃ vaṣaṭ kartṛṇāṃ karmāṇi |*): In a sacrifice, when oblations and the like are offered in Agni, the word svāhā or vaṣaṭ is added at the end of the mantra. Therefore vaṣaṭkartṛ here means the works (offerings) of the seven priests who offer with the vaṣaṭ call. These seven offering priests are: the Hotṛ, Maitrāvaruṇa, Brāhmaṇācchaṃsin, Potṛ, Neṣṭṛ, Acchāvāka and Āgnīdhra, seven priests in all.
+
+In the three pressings, the morning pressing, the midday pressing and the third pressing, these seven priests each recite one Ṛk and offer Soma in Agni. At the morning pressing the offering is made with Ṛks of the Gāyatrī metre, at the midday pressing with Ṛks of the Triṣṭubh metre, and at the third pressing with Ṛks of the Jagatī metre. The mantras recited by the respective priests at the respective pressings are called prasthitayājyā mantras, or सप्तहोत्राणि— (*saptahotrāṇi—*) saptahotṛ mantras. They are explained here in detail.
+
+॥ प्रातस्वन ॥ (*‖ prātasvana ‖*) (Morning pressing, as printed)
+
+At this pressing all seven priests must recite Ṛks of the Gāyatrī metre.
+
+1. The mantra to be recited by the Hotṛ:
+
+⟦ಇದಂ ತೇ ಸೋಮ್ಯಂ ಮಧ್ವಧಕ್ಷನ್ನದ್ರಿಭಿರ್ನರಃ ।
+ಜುಷಾಣ ಇಂದ್ರ ತಪ್ಸಿಬ ॥⟧
+(printed ಋ. सं (*saṃ*). 8-65-8)
+
+### Printed p. 694
+
+*[Running head, p. 694: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+*[The first line of p. 694 is printed "1. ೨." (a stray "1." before the numeral ೨), as supplied.]*
+
+2. The mantra to be recited by the priest called Brāhmaṇācchaṃsin:
+
+⟦ಇಂದ್ರ ತ್ವಾ ವೃಷಭಂ ವಯಂ ಸುತೇ ಸೋಮೇ ಹವಾಮಹೇ ।
+ಸ ಪಾಹಿ ಮಧ್ಯೋ ಅಂಧಸಃ ॥⟧
+(printed ಋ. सं (*saṃ*). 3-40-1)
+
+3. The mantra to be recited by the priest called Mitrāvaruṇa:
+
+⟦ಮಿತ್ರಂ ವಯಂ ಹವಾಮಹೇ ವರುಣಂ ಸೋಮಪೀತಯೇ ।
+ಜಜ್ಞಾನಾ ಪೂತದಕ್ಷಸಾ ॥⟧
+(printed ಋ. सं (*saṃ*). 1-23-4)
+
+4. The mantra to be recited by the priest called Potṛ:
+
+⟦ಮರುತೋ ಯಸ್ಯ ಹಿ ಕ್ಷಯೇ ಪಾಥಾ ದಿವೋ ವಿಮಹಸಃ ।
+ಸ ಸುಗೋಪಾತಮೋ ಜನಃ ॥⟧
+(printed ಋ. सं (*saṃ*). 1-86-1)
+
+5. The mantra to be recited by the priest called Neṣṭṛ:
+
+⟦ಅಗ್ನೇ ಪತ್ನಿರಿಹಾ ವಹ ದೇವಾನಾಮುಶತೀರುಪ ।
+ತ್ವಷ್ಟಾರಂ ಸೋಮಪೀತಯೇ ॥⟧
+(printed ಋ. सं (*saṃ*). 1-22-9)
+
+6. The mantra to be recited by the priest called Āgnīdhra:
+
+⟦ಉಕ್ಷಾನ್ನಾಯ ವಶಾನ್ನಾಯ ಸೋಮಪೃಷ್ಠಾಯ ವೇಧಸೇ ।
+ಸ್ತೋಮೈರ್ವಿಧೇಮಾಗ್ನಯೇ ॥⟧
+(printed ಋ. सं (*saṃ*). 8-43-11)
+
+7. The mantra to be recited by the priest called Acchāvāka:
+
+⟦ಪ್ರಾತರ್ಯಾವಭಿರಾ ಗತಂ ದೇವೇಭಿರ್ಜೇನ್ಯಾವಸೂ ।
+ಇಂದ್ರಾಗ್ನೀ ಸೋಮಪೀತಯೇ ॥⟧
+(printed ಋ. सं (*saṃ*). 8-38-7)
+
+॥ माध्यंदिनसवन ॥ (*‖ mādhyaṃdinasavana ‖*) (Midday pressing, as printed)
+
+At this pressing only mantras of the Triṣṭubh metre must be recited. Among them:
+
+1. The mantra to be recited by the Hotṛ:
+
+⟦ಪಿಬಾ ಸೋಮಮಭಿ ಯಮುಗ್ರ ತರ್ದ ಊರ್ವಂ ಗವ್ಯಂ ಮಹಿ ಗೃಣಾನ ಇಂದ್ರ ।
+ವಿ ಯೋ ಧೃಷ್ಟೋ ವಧಿಷೋ ವಜ್ರಹಸ್ತ ವಿಶ್ವಾ ವೃತ್ರಮಮಿತ್ರಿಯಾ ಶವೋಭಿಃ ॥⟧
+
+*[The window ends here, at the end of p. 694: the reference after this Ṛk is cut off in the supplied text at "ಋ. सं (*saṃ*). ೬-", and no number is supplied; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 691 (PDF 691). Sūkta 4 Ṛk 5 Bhāvārtha, printed English, Special Topics (door-deities; Praiṣa passage begun)
+**Progress note:** Done through printed p. 694 (PDF 694). Sūkta 4 Ṛk 5 Special Topics (door-deities, saptahotṛ prasthitayājyā mantras: morning pressing, midday begun)
