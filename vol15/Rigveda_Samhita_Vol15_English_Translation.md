@@ -6956,6 +6956,124 @@ The Maruts, shedders of showers, endowed with resistless might, like formidable 
 
 तविषीभिः अर्चिनः (*taviṣībhiḥ arcinaḥ*)—by their own strength, through the rain-waters they bestow, they make the whole world worthy of worship (of praise). अग्नयो न शुशुचानाः (*agnayo na śuśucānāḥ*)—shining abundantly with splendour, like blazing fires. So it is described.
 
+### Printed p. 227
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 19, p. 227.*
+
+ऋजीषिणः (ऋजीषिणि (*ṛjīṣiṇi*))—the commentary says: ऋजीषिमुदकं तद्वंतः (*ṛjīṣimudakaṃ tadvaṃtaḥ*) ("those possessing *ṛjīṣa*, water"), and alternatively ऋजीषो अपगतसारः सोमः (*ṛjīṣo apagatasāraḥ somaḥ*) ("*ṛjīṣa* is soma whose essence has gone"), "joined with that". Sāyaṇa gives the word *ṛjīṣa* the meaning udaka (water) and explains in one way that, since the Marut deities pour down rain-water, they are "possessing water". In the second meaning it denotes soma plants from which the sap (essence) has been pressed. When the sacrificial rite is performed, the hymn to the Agni-Maruts is recited at the third pressing; then, from the husks left over from the earlier pressings, sap is pressed out again and offered to these deities. Because soma plants pressed at the two times, the morning and midday pressings, are pressed again at the evening pressing, the sapless husk is called *ṛjīṣa*. Having such soma as their oblation-share, the Maruts are here called *ṛjīṣiṇaḥ*, so the meaning is explained.
+
+Yāska, explaining the word *ṛjīṣī*, cites the ṛk
+
+> आपांतमन्युस्तृपलप्रभर्मा धुनिश्विमीवाञ्चरुमा ऋजीषी ।
+> सोमो विश्वान्यतसा वनानि नार्वागिंद्रं प्रतिमानानि देभुः ॥
+
+> *āpāṃtamanyustṛpalaprabharmā dhuniśvimīvāñcarumā ṛjīṣī |*
+> *somo viśvānyatasā vanāni nārvāgiṃdraṃ pratimānāni debhuḥ ‖*
+
+(Ṛ. Saṃ. 10-89-5)
+
+and explains the meaning: ऋजीषी सोमः यत् सोमस्य पूयमानस्य अतिरिच्यते तदृजीषमपार्जितं भवति तेनर्जिषी सोमः (*ṛjīṣī somaḥ yat somasya pūyamānasya atiricyate tadṛjīṣamapārjitaṃ bhavati tenarjiṣī somaḥ*) (Ni. 5-12) ("*ṛjīṣī* is soma: what remains over of the soma being purified is *ṛjīṣa*, what is wiped off; hence *ṛjīṣī* soma"), and says अथाप्यैंद्रो निगमो भवति (*athāpyaiṃdro nigamo bhavati*) ("further, there is an Indra passage"). Durgācārya cites the ṛk
+
+> ऋजीषी वज्री वृषभस्तुराषाट्भुष्मी राजा वृत्रहा सोमपाना ।
+> युक्त्वा हरिभ्यामुप यासदर्नाज् माध्यंदिने सवने मत्सदिंद्रः ॥
+
+> *ṛjīṣī vajrī vṛṣabhasturāṣāṭbhuṣmī rājā vṛtrahā somapānā |*
+> *yuktvā haribhyāmupa yāsadarnāj mādhyaṃdine savane matsadiṃdraḥ ‖*
+
+(as printed "ಪು. ಸಂ ೫-೪೦-೪", i.e. 5-40-4; the abbreviation is the supplied text's)
+
+and says that *ṛjīṣī* is Indra: ऋजीषी इंद्रः (*ṛjīṣī iṃdraḥ*).
+
+भृमिं धमंतः गाः अप अवृण्वत (भृमिं धमंतः गाः अप अवृण्वत (*bhṛmiṃ dhamaṃtaḥ gāḥ apa avṛṇvata*))—the commentary says: भ्राम्यंतं मेघं वर्षणार्थमितस्ततः प्रेरयंतः (*bhrāmyaṃtaṃ meghaṃ varṣaṇārthamitastataḥ prerayaṃtaḥ*) ("urging hither and thither, for the sake of rain, the wandering cloud") तदंतर्गताः अपः अपावृताः कुर्वंति (*tadaṃtargatāḥ apaḥ apāvṛtāḥ kurvaṃti*) ("they uncover the waters contained in it"); or, भृम्याख्यः वीणाविशेषः तं धमंतो वादयंतः (*bhṛmyākhyaḥ vīṇāviśeṣaḥ taṃ dhamaṃto vādayaṃtaḥ*) ("a particular lute called *bhṛmi*; blowing it, that is, playing it"), बलनाम्मा असुरेणापिहिता गाः अपगतावरणा अकुर्वन् (*balanāmmā asureṇāpihitā gāḥ apagatāvaraṇā akurvan*) ("they freed from covering the cows hidden by the Asura named Bala" [as supplied; elsewhere the supplied text has *vala*]). In the first sense, the Maruts urge the clouds that roam the sky, filled with water, hither and thither to rain, so that the waters hidden in the clouds come out in the form of rain. In the second sense the word *bhṛmi* is taken to mean a lute: when the Asura Vala had stolen the cows of the gods and hidden them, the Maruts played the lute, discovered the place where the cows were, and caused the cows to come out. This legend has been described before.
+
+### Printed p. 228
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 34, p. 228.*
+
+Yāska comments भृमिः भ्राम्यतेः (*bhṛmiḥ bhrāmyateḥ*) (Ni. 6-21) ("*bhṛmi* from the root *bhram*") and cites the ṛk
+
+> इमामग्ने शरणिं मीमृषो न इममध्वानं यमगाम दूरात् ।
+> आपिः पिता प्रमतिः सोम्यानां भृमिरस्यृषिकृन्मर्त्यानां ॥
+
+> *imāmagne śaraṇiṃ mīmṛṣo na imamadhvānaṃ yamagāma dūrāt |*
+> *āpiḥ pitā pramatiḥ somyānāṃ bhṛmirasyṛṣikṛnmartyānāṃ ‖*
+
+(Ṛ. Saṃ. 1-31-16, as printed "ಪು. ಸಂ.")
+
+and explains that by the word *bhṛmi* Agni is denoted.
+
+The end-of-section line printed here is garbled in the supplied text (it reads सहितापहरि (*sahitāpahari*), presumably the *saṃhitā-pāṭha* label), followed by a stray line of non-Kannada numerals; both removed from kn.md.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> द्यावो॒ न सृभि॑श्चितयंत खा॒दिनो॒ व्य१॒ं॑भ्रिया॒ न द्यु॑तयंत॒॑
+> वृ॒ष्टयः॑ ।
+> रु॒द्रो यद्वो॑ मरुतो रुक्मवक्षसो॒ वृषाज॑नि॒ पृश्न्याः॑ शु॒क्र॑
+> ऊधनि ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+(the label is garbled in the supplied text, पवनाति (*pavanāti*); replaced by the standard label. As supplied, the Pada reads स्त्रृभिः (*strṛbhiḥ*), रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*), पृश्नाः (*pṛśnāḥ*) and शुक्रॆ (*śukrè*), which differ from the Saṃhitā सृभिः (*sṛbhiḥ*), रुक्मवक्षसो (*rukmavakṣaso*), पृश्न्याः (*pṛśnyāḥ*), शुक्र (*śukra*) and the bhāṣya स्त्वभिः (*stvabhiḥ*), रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*).)
+
+> द्यावः । न । स्त्रृभिः । चितयंत । खादिनः । वि । अभ्रियाः । न । द्युतयंत । वृष्टयः।
+> रुद्रः । यत् । वः । मरुतः । रुक्ष्मवक्षसः । वृषा । अजनि । पृश्नाः । शुक्रॆ । ऊधनि ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स्त्वभिः । नक्षत्रनामैतत् । यदाह यास्कः । ऋक्षाः स्त्वभिरिति नक्षत्राणां ।
+> नि. ३-२० । इति । नक्षत्रैर्द्यावो न यथा द्युलोकाश्चितयंत चेतयंति स्वात्मानं
+> ज्ञापयंति ॥ चिती संज्ञाने । प्रकाशंत इत्यर्थः । तथा खादिनः शत्रूणां खादका
+> मरुतः स्वकीयैराभरणैर्ज्ञायंते । यद्वा खादः कटकं । तद्युक्ताः संतः
+> प्रकाशंते । तथा वृष्टयो वर्षका मरुतोऽभ्रिया न । अभ्रेषु भवा विद्युत् इव
+
+> *stvabhiḥ | nakṣatranāmaitat | yadāha yāskaḥ | ṛkṣāḥ stvabhiriti nakṣatrāṇāṃ |*
+> *ni. 3-20 | iti | nakṣatrairdyāvo na yathā dyulokāścitayaṃta cetayaṃti svātmānaṃ*
+> *jñāpayaṃti ‖ citī saṃjñāne | prakāśaṃta ityarthaḥ | tathā khādinaḥ śatrūṇāṃ khādakā*
+> *marutaḥ svakīyairābharaṇairjñāyaṃte | yadvā khādaḥ kaṭakaṃ | tadyuktāḥ saṃtaḥ*
+> *prakāśaṃte | tathā vṛṣṭayo varṣakā maruto 'bhriyā na | abhreṣu bhavā vidyut iva*
+
+### Printed p. 229
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 19, p. 229.*
+
+> विद्युतयंत । सर्वं जगद्विद्योतयंति । प्रकाशयंति ॥ अभ्रशब्दाद्भवार्थे समुद्रा-
+> भ्राद्ध इति घ-प्रत्ययः । शेषः प्रत्यक्षकृतः रुक्ष्मवक्षसः रुक्ष्मं रोचमाणाभरणं
+> वक्षस्युरसि येषां तादृशा हे मरुतो यद्यदा वो युष्मान् वृषा सेचनसमर्थो
+> रुद्रो महादेवः पृश्न्याः । पृश्चिर्माध्यमिका वाक् । तस्याः संबंधिनि शुक्रे
+> निर्मल ऊधन्युद्धते प्रदेशेऽजनि । अजनयत् । तदानीमिति पूर्वत्र संबंधः । यद्वा
+> पृश्निर्नानावर्णेयं भूमिः पुरा गोरूपधरासीत् तस्यां महेशो वृषो भूत्वा
+> मरुत उत्पादयामासेत्याचक्षते । तदत्तोच्यते । हे मरुतो यद्यस्माद्वो
+> युष्मान् वृषा वृषरूपो रुद्रः पृश्न्या गोः शुक्रे निर्मल ऊधन्यूधसि पयस
+> उत्पत्ति स्थानेऽजनि । अजीजनत् । तस्माद्यूयमेवं महानुभावा जाता इत्यर्थः ।
+> तथा च तैत्तरीयकं । पृश्नियै वै पयसो मरुतो जाताः । तै. सं. २.२-११४ । इति ॥
+
+> *vidyutayaṃta | sarvaṃ jagadvidyotayaṃti | prakāśayaṃti ‖ abhraśabdādbhavārthe samudrā-*
+> *bhrāddha iti gha-pratyayaḥ | śeṣaḥ pratyakṣakṛtaḥ rukṣmavakṣasaḥ rukṣmaṃ rocamāṇābharaṇaṃ*
+> *vakṣasyurasi yeṣāṃ tādṛśā he maruto yadyadā vo yuṣmān vṛṣā secanasamartho*
+> *rudro mahādevaḥ pṛśnyāḥ | pṛścirmādhyamikā vāk | tasyāḥ saṃbaṃdhini śukre*
+> *nirmala ūdhanyuddhate pradeśe 'jani | ajanayat | tadānīmiti pūrvatra saṃbaṃdhaḥ | yadvā*
+> *pṛśnirnānāvarṇeyaṃ bhūmiḥ purā gorūpadharāsīt tasyāṃ maheśo vṛṣo bhūtvā*
+> *maruta utpādayāmāsetyācakṣate | tadattocyate | he maruto yadyasmādvo*
+> *yuṣmān vṛṣā vṛṣarūpo rudraḥ pṛśnyā goḥ śukre nirmala ūdhanyūdhasi payasa*
+> *utpatti sthāne 'jani | ajījanat | tasmādyūyamevaṃ mahānubhāvā jātā ityarthaḥ |*
+> *tathā ca taittarīyakaṃ | pṛśniyai vai payaso maruto jātāḥ | tai. saṃ. 2.2-114 | iti ‖*
+
+Gist: *stṛbhiḥ* means stars (Yāska, Nir. 3-20); the Maruts shine with their ornaments as the heavens with stars and like cloud-born lightning; Rudra, the bull, begot them in the pure udder of Pṛśni (Taittirīya citation).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*)—wearing a golden-coloured ornament on the breast; मरुतः (*marutaḥ*)—O Maruts; यत् (*yat*)—when; वः (*vaḥ*)—you; वृषा (*vṛṣā*)—capable of sprinkling (shedding); रुद्रः (*rudraḥ*)—Rudra; पृश्न्याः (*pṛśnyāḥ*)—of Pṛśni; शुक्रे (*śukre*)—in the pure one, ऊधनि (*ūdhani*)—and swollen (uplifted) one, the womb [as supplied: "ಉದರ"]; अजनि (*ajani*)—created (then); स्तृभिः (*stṛbhiḥ*)—by the stars; द्यावो न (*dyāvo na*)—as the sky [as supplied "ಆಂತರಿಕ್ಷ"] makes itself shine; खादिनः (*khādinaḥ*)—you who wear bracelets (by your ornaments); चितयंत (*citayaṃta*)—make yourselves shine; वृष्टयः (*vṛṣṭayaḥ*)—you, causers of rain; अभ्रिया न (*abhriyā na*)—like lightnings born of clouds; विद्युतयंत (*vidyutayaṃta*)—cause the world to shine.
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts, who wear a golden-coloured ornament on the breast, when Rudra, capable of shedding (rain), caused you to be born in the pure heart [as supplied: "ಹೃದಯದಲ್ಲಿ"; the Pratipadārtha has "womb", उदर (*udara*), and the printed English "womb"] of Pṛśni, then, as the sky makes itself shine with stars, you, wearers of bracelets, make yourselves shine [as supplied: "ಪ್ರಕಾಶಪಶಸಿಕೊಳ್ಳುತ್ತೀರಿ", evidently a misprint] by your ornaments. You, causers of rain, make the world shine like lightnings born of clouds.
+
+**Printed English translation**
+
+Since, golden-breasted Maruts, the vigorous (Rudra) begot you of the pure womb of Prishni, therefore they, the devourers (of their enemies), are conspicuous (by their ornaments), as the heavens are by the constellatoins [sic] ; and, senders of rain, they are brilliant as the cloud-born (lightning).
+
 ---
 
-**Progress note:** Done through printed p. 226 (PDF 226). Sūkta 33 Ṛk 15 complete; Sūkta 34 introduction and Ṛk 1 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, Special Topics). Page 224 marker inserted by hand (merged into p. 223 text). As supplied: ನರ್ಣಿಸಿ (p. 223), ಸೃಷ್ಟ್ಯ for Pṛṣṭhya, bhāṣya ಆತ್ಮೀಯ್ಯೈ, Pratipadārtha ಯಜೀಷಿಣಃ/ಅವೃಣತ vs Saṃhitā ಋಜೀಷಿಣಃ/ಅವೃಣ್ವತ; Saṃhitā line 2 of Ṛk 1 had accent mismatches (2 DIFF, 1 NOMATCH)
+**Progress note:** Done through printed p. 229 (PDF 229). Sūkta 34 Ṛk 1 Special Topics finished; Ṛk 2 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English). kn.md hand-fixed (verse quotes and Ṛk 2 Saṃhitā/Pada into blocks, garbled labels and stray numeral line removed). As supplied: Pada ಸ್ತ್ರೃಭಿಃ/ರುಕ್ಷ್ಮ/ಪೃಶ್ನಾಃ/ಶುಕ್ರೆ vs Saṃhitā; Bhāvārtha ಹೃದಯ vs Pratipadārtha ಉದರ; ಪು. ಸಂ for ಋ. ಸಂ.; ಪ್ರಕಾಶಪಶಸಿಕೊಳ್ಳು; 'constellatoins' [sic]
