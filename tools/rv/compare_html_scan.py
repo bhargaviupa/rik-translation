@@ -21,7 +21,10 @@ def lev(a,b):
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument('--html',nargs='+'); ap.add_argument('--dir'); ap.add_argument('--pages',nargs='+',type=int); ap.add_argument('--sheet'); a=ap.parse_args()
     P={}
-    for _f in a.html: P.update(html_pages.load(_f))
+    for _f in a.html:
+        _lo,_hi=0,10**6
+        if '@' in _f: _f,_r=_f.split('@'); _lo,_hi=map(int,_r.split('-'))
+        P.update({k:v for k,v in html_pages.load(_f).items() if _lo<=k<=_hi})
     tot=dict(h=0,s=0,eq=0,one=0,more=0,ins=0,dele=0); rows=[]; per=[]
     for pg in a.pages:
         f=os.path.join(a.dir,f'printed{pg}.txt')
@@ -53,7 +56,10 @@ def chars_mode():
     """character-level comparison: spaces/markup/punctuation removed on both sides; one row per differing spot with context"""
     ap=argparse.ArgumentParser(); ap.add_argument('--html',nargs='+'); ap.add_argument('--dir'); ap.add_argument('--pages',nargs='+',type=int); ap.add_argument('--sheet'); ap.add_argument('--chars',action='store_true'); a=ap.parse_args()
     P={}
-    for _f in a.html: P.update(html_pages.load(_f))
+    for _f in a.html:
+        _lo,_hi=0,10**6
+        if '@' in _f: _f,_r=_f.split('@'); _lo,_hi=map(int,_r.split('-'))
+        P.update({k:v for k,v in html_pages.load(_f).items() if _lo<=k<=_hi})
     KN='[\u0C80-\u0CFF]'; tot=dict(h=0,eq=0); rows=[]; per=[]
     for pg in a.pages:
         f=os.path.join(a.dir,f'printed{pg}.txt')
