@@ -1,0 +1,24 @@
+{
+ "vol": 14,
+ "mandala": 2,
+ "branch": "claude/vol14-html",
+ "source": [
+  "vol14/html/rig_14_2.html@767-954"
+ ],
+ "scan": {
+  "glob": "vol14/scans/14 *.pdf"
+ },
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol14/Rigveda_Samhita_Vol14_Kannada_Text.md",
+  "en": "Rigveda_Samhita_Vol14_English_Translation.md"
+ },
+ "work": "vol14/work",
+ "window": 3
+}

@@ -17,7 +17,7 @@ BLOCK={'samhita','pada','bhashya'}
 DROP=('This image contains no discernible text',)
 def clean_line(l):
     l=l.replace('||','॥').replace('|','।')
-    l=re.sub('(?<='+KN+')s(?='+KN+')','ಽ',l)
+    l=re.sub('(?<='+KN+')[sS](?='+KN+')','ಽ',l)
     l=l.strip().strip('*').strip()
     return '' if re.fullmatch(r'[-~_=. ]{3,}',l) else l
 def label_of(l):
