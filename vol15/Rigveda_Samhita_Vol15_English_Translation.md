@@ -22844,6 +22844,97 @@ Such sentences praise Tvaṣṭṛ's work of making. Moreover he has the epithet
 
 *[The window ends here, at the end of p. 738, after the Pada of Ṛk 10; the next window continues with the bhāṣya.]*
 
+### Printed p. 739
+
+*[Running head, p. 739: Ā. (printed so for A.) 2, A. 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+*[The supplied text has here the garbled label "१ सायणभाष्यं १ (*1 sāyaṇabhāṣyaṃ 1*)" (for Sāyaṇa-bhāṣya) inside the bhāṣya block; it is kept as a note and the standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वनस्पते देवानुपावसृज । समीपे कुरु । शमिता पशोः संस्कर्ताग्निर्वनस्पतिश्च हविः सूदयाति । देवान्प्रति प्रेरयतु । सत्यतरोऽत्यर्थं सत्यः सत्यस्वरूपः
+> स इत् स एव होता यजाति । यजतु । यथा यतः कारणात्स एवाग्निर्देवानां
+> जनिमानि जन्मानि वेद वेत्ति अतः स एव यजत्वित्यर्थः ॥
+
+*(Gist: O Vanaspati, bring the gods near; may Agni, who prepares the victim, send the oblation to the gods; because he knows the gods' births, may he, the truest hotṛ, sacrifice.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vanaspate: O Vanaspati. Devān: the gods. Upa ava sṛja: make them come near. Śamitā: the one who dresses the victim. Agniḥ: Agni. Haviḥ: the oblation. Sūdayāti: let him make ready (for the gods). Yathā: by which power (for which reason). Devānām: of the gods. Janimāni: the births and natures. Veda: he knows (therefore). Satyataraḥ: of the nature of truth. Sa it: that same Agni. Hotā: being in the position of hotṛ. Yajāti: let him worship.
+
+*[The label "॥ भवार्थ ॥ (*‖ bhavārtha ‖*)" (garbled for Bhāvārtha) is kept as a note in kn.md; the standard label is inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Vanaspati, make the gods come near; may Agni, who prepares the victim, make ready the oblation for the gods. By the power by which Agni knows the births and natures of the gods, therefore may Agni, being in the position of hotṛ, worship the gods.
+
+**Printed English translation**
+
+Vanaspati, bring the gods nigh : may Agni, the immolator, prepare the victim : let him who is truth officiate as the ministering priest, for, verily, he knows the birth of the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Śamitā: śamitā means one who cuts or kills the victim in the sacrifice. ⟦ಪಶುಂ
+ಶಮಯತಿ ಇತಿ ಶಮಿತಾ⟧: one who calms or cuts the victim in the sacrifice, that is, one who, calming the victim's outward movements, slays it. Among the gods, the one who does this work is called adhrigu. That the word adhrigu has, besides various meanings, also the sense of a priest named śamitā, Yāska
+
+⟦ಅಧ್ರಿಗುರ್ಮಂತ್ರೋ ಭವತಿ ಗವ್ಯಧಿಕೃತತ್ವಾದಪಿ ವಾ ಪ್ರಶಾಸನಮೇವಾಭಿಪ್ರೇತಂ ಸ್ಯಾತ್ತಚ್ಛಬ್ದವತ್ತ್ವಾದಧ್ರಿಗೋ ಶಮೀಧ್ವಂ ಸುಶಮಿ ಶಮೀಧ್ವಂ ಶಮೀಧ್ವಮಧ್ರಿಗವಿತಿ ।
+ಅಗ್ನಿರಪ್ಯಧ್ರಿಗುರುಚ್ಯತೇ ।⟧ (Ni. 5-11)
+
+### Printed p. 740
+
+*[Running head, p. 740: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+[continuing:] states by this derivation, and he says that Agni also bears the name adhrigu (printed "अधिगु (*adhigu*)" once). In the present Ṛk, instead of indicating Agni by the word adhrigu, he is indicated by the word śamitā itself.
+
+देवानां जनिमानि वेद (*devānāṃ janimāni veda*): when Yāska states the derivation of the word jātavedas:
+
+⟦ಜಾತಾನಿ ವೇದ ಜಾತಾನಿ ವೈನಂ ವಿದುಃ ಜಾತೇ ಜಾತೇ ವಿದ್ಯತ ಇತಿ ವಾ ಜಾತವಿತ್ತೋ ನಾ
+ಜಾತಧನಃ ಜಾತವಿದ್ಯೋ ನಾ ಜಾತಪ್ರಜ್ಞಾನಃ । ಯತ್ತಜ್ಞಾತಃ ಪಶೂನವಿಂದತೇಶಿ
+ತಜ್ಞಾತವೇದಸೋ ಜಾತವೇತಸ್ತ್ವಮಿತಿ ಬ್ರಾಹ್ಮಣಂ । ತಸ್ಮಾತ್ ಸರ್ವಾನ್ಮತ್ತೂನ್
+ಪಶವೋಽಗ್ನಿಮಭಿಸರ್ಪಂತೀತಿ ಚ ॥⟧ (Ni. 7-19)
+
+Having thus stated the derivation, they say that this Agni knows (jātāni veda) all that is born or will be born. Therefore here it is described that Agni knows details such as the births of the gods.
+
+वनस्पते (*vanaspate*): Yāska's explanation of the word vanaspati:
+
+वनस्पत इत्येनमाहैष हि वनानां पाता वा पालयिता वा । वनं वनोतेः ॥ (*vanaspata ityenamāhaiṣa hi vanānāṃ pātā vā pālayitā vā | vanaṃ vanoteḥ ‖*)
+(Ni. 8-3)
+
+तत्को वनस्पतिः । यूप इति कात्क्यः । अग्निरिति शाकपूणिः ॥ (*tatko vanaspatiḥ | yūpa iti kātkyaḥ | agniriti śākapūṇiḥ ‖*)
+(Ni. 8-18)
+
+That is, they call Agni himself vanaspati; for Agni is the protector or preserver of the forests. Although Agni is hidden within a tree, he does not burn it, so he is said to be its protector. Or, because it is used for wooden sacrificial implements, it is called vana. Vanaspati means king of trees, a large tree. Which deity is vanaspati? It is Kātkya's (printed so) opinion that it is the wooden post set up in the sacrifice for tying the victim. Śākapūṇi's opinion is that vanaspati is Agni.
+
+To support Kātkya's opinion Yāska has given a Ṛk as example:
+
+अंजंति त्वामध्वरे देवयंतो वनस्पते मधुना दैव्येन ! (*aṃjaṃti tvāmadhvare devayaṃto vanaspate madhunā daivyena !*)
+(Ṛ. Saṃ. 3-8-1)
+
+That is, O Vanaspati (sacrificial post), in the sacrifice the priests and sacrificers anoint you with ghee consecrated with mantras: the sacrificial post for tying the victim is addressed. And in the 3rd, 6th and 11th Ṛks of this same sūkta too, Vanaspati is addressed as the sacrificial post,
+
+### Printed p. 741
+
+*[Running head, p. 741: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+and besides it is well known that the deity of this sūkta is the post (yūpa). In the eleventh Ṛk of this sūkta, “वनस्पते शतवल्‌शो विरोह सहस्रवल्‌शा वि वयं रुहेम (*vanaspate śatavalśo viroha sahasravalśā vi vayaṃ ruhema*)”, "O Vanaspati, grow with hundreds and thousands of shoots", what is said applies to the tree that is the vanaspati. In the Ṛk 10-70-10 the words “वनस्पते रतनया नियूय (*vanaspate ratanayā niyūya*)”, "O Vanaspati, bind with the rope for tying the victim", confirm the sense of the sacrificial post for the word vanaspati. Therefore vanaspati means the sacrificial post; that it is Agni is an indirect meaning.
+
+The nature of vanaspati must be understood after much examination. On the basis of this word some modern Western scholars have concluded that in the Vedic age the animal sacrifice involving killing was strong and that the Āprī sūktas are prayāja mantras connected with such a sacrifice.
+
+From a gross point of view, vanaspati means the sacrificial post to which the sacrificial animal is tied. But whether it is not the post for tying the sacrificial victim can be determined by attending to the Śruti sentences and then fixing the nature of vanaspati on their authority.
+
+होता यक्षद्वनस्पतिमुपावस्रक्षद्धियो जोष्वारग्ं शशमं नरः । स्वदात्त्वधितिऋतुथाद्य देवो देवेभ्यो हव्यवाड्वेत्वाज्यस्य होतर्यज । (*hotā yakṣadvanaspatimupāvasrakṣaddhiyo joṣvāragṃ śaśamaṃ naraḥ | svadāttvadhitiṛtuthādya devo devebhyo havyavāḍvetvājyasya hotaryaja |*)
+(Tai. Brā. 3-6-2-2)
+
+The bhāṣya on this mantra is as follows: वनस्पतिं यूपाधारभूतं दशमप्रयाजदेवतात्मकमग्निं दैव्यू होता यजतु (*vanaspatiṃ yūpādhārabhūtaṃ daśamaprayājadevatātmakamagniṃ daivyū hotā yajatu*): "May the divine hotṛ sacrifice to Agni, who is the support of the yūpa and has the nature of the tenth prayāja deity." The vanaspati is the support of the post and Agni of the tenth prayāja deity. For him, in this sense that the hotṛ should sacrifice to him, there are the epithets ⟦ಧಿಯೋ
+ಜೋಷ್ಣಾ, ಸ್ವದಾತ್ ಸ್ವಧಿತಿಃ, ದೇವೇಭ್ಯಃ ಋತುಧಾ ಹವ್ಯವಾಟ್, ಯಜ್ಞಸ್ಯ ಆಯುಃ ಕಲ್ಪಮಾನಃ⟧. Of these, for धियो जोष्णा (*dhiyo joṣṇā*) the explanation is बुद्धेः प्रीणयितारं । (*buddheḥ prīṇayitāraṃ |*), one who gladdens the intellect; svadhitiḥ: prepared with the svadhiti (thunderbolt or divine weapon); ṛtudhā:
+
+⟦ಋತೌ ವಿಹಿತೇ ಕಾಲವಿಶೇಷೇ ಅದ್ಯ ಅಸ್ಮಿನ್ಕರ್ಮಣಿ ಸ್ವದಾದಸ್ಮಾಭಿರ್ದಿಯಮಾನಂ ಹವಿಃ ಸ್ವದಯತು ! ಕಿಂಚ ದೇವೋ ವನಸ್ಪತಿರ್ದೇವೇಭ್ಯೋ ದೇವಾರ್ಥಂ ಹವ್ಯಾ ಹವೀಂಷ್ಯಿ
+ಹವ್ಯವಾಡ್ವಹತು ।⟧
+
+the meaning of the mantra is: may he offer to the gods the oblations offered by us at the time of this sacrifice. And by the epithet यज्ञस्य आयुः कल्पमानः (*yajñasya āyuḥ kalpamānaḥ*) the meaning is one who prolongs the life of the sacrifice. By such epithets in the Praiṣa sūkta the identity of Agni and Vanaspati is stated. In the Aitareya Brāhmaṇa, by the sentence प्राणो वै वनस्पतिः (*prāṇo vai vanaspatiḥ*) (2-4)
+
+*[The window ends here, at the end of p. 741, in the middle of this sentence, which breaks off at "ऎंब वाक्यदिंद (*èṃba vākyadiṃda*)"; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 738 (PDF 738). Sūkta 4 Ṛk 9 Special Topics end (Tvaṣṭṛ: Tai. Brā. 3-6-2-2, Ni. 8-14, Bṛ. De. 3-15 to 17, 3-25); Ṛk 10 Saṃhitā and Pada
+**Progress note:** Done through printed p. 741 (PDF 741). Sūkta 4 Ṛk 10 bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics so far (śamitā, adhrigu, vanaspati; Ni. 5-11, 7-19, 8-3, 8-18)
