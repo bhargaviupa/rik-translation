@@ -31858,6 +31858,105 @@ The meaning of this Ṛk is clear. Indra drank the exhilarating Soma juice, and,
 
 *Gist: Indra, the venerable slayer of the cloud, sent the stream of waters towards the ocean; for the Aṅgirases' cows he brought forth the sun, found the cows, and by his light brought the days' lights to full effect.*
 
+### Printed p. 842
+
+*(Header: "842 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 19".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+माहिनः (*māhinaḥ*)—the adorable one. अहिहा (*ahihā*)—the slayer of Vṛtra. स इंद्रः (*sa iṃdraḥ*)—that same Indra. अपां (*apāṃ*)—of the waters. अर्णः (*arṇaḥ*)—the currents. समुद्रं अच्छ (*samudraṃ accha*)—towards the ocean. प्रैरयत् (*prairayat*)—made to flow. सूर‍्यं (*sūryaṃ*)—the sun. अजनयत् (*ajanayat*)—created. गाः (*gāḥ*)—(the cows carried off by the Paṇis) the cows. विदत् (*vidat*)—got back. अक्तुना (*aktunā*)—by light. अह्नां (*ahnāṃ*)—of the days. वयुनानि (*vayunāni*)—the manifestations. साधत् (*sādhat*)—accomplished.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra, the adorable one and the slayer of Vṛtra, made the currents of the waters flow towards the ocean. He created the sun. He got back the cows that had been carried off by the Paṇis. By light he brought the manifestations of the days to accomplishment.
+
+**English Translation (as printed)**
+
+The adorable Indra, the slayer of Ahi, sent the current of the waters towards the ocean: he generated the sun: he discovered the cattle: he effected the manifestation of the days by light.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the first half of this Ṛk the matter stated in the preceding Ṛk is said again. Rain arose from the slaying of the cloud, and Indra made those waters of the rain flow as the currents of rivers towards the ocean. Besides, that Indra created the sun. He brought back the cows that had been carried off by the asuras called हणॆ (*haṇè*) [?]. And he made the lights shine well in the daytime: this is the main purport.
+
+माहिनः—महनीयः पूजनीयः यद्वा महिमोपेतः (*māhinaḥ—mahanīyaḥ pūjanīyaḥ yadvā mahimopetaḥ*): the meaning is "adorable", or "renowned through the greatness of the many bold deeds he has done".
+
+अर्णः (*arṇaḥ*): since the word अर्ण (*arṇa*) is read among the one hundred and one names of water (सि. (*si.*) 2-29 [?]), अर्ण (*arṇa*) means water.
+
+अक्तुना (*aktunā*): the explanation is अक्तुभी रात्रिभिः (*aktubhī rātribhiḥ*) (Ni. 12-23). The word अक्तु (*aktu*) is formed from the root अंजू व्यक्तिमृक्षणकांतिगतिषु (*aṃjū vyaktimṛkṣaṇakāṃtigatiṣu*) and is used here in the sense of lustre.
+
+वयुनानि (*vayunāni*): the word वयुन (*vayuna*) is read both among the names for "praiseworthy" (Ni. 3-13) and among the names for "knowledge" (Ni. 3-13).
+
+### Printed p. 843
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 23] Ṛgvedasaṃhitā 843".)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> सो अ॑प्र॒तीनि॒ मन॑वे पु॒रूणेंद्रो॑ दाशद्दा॒शुषे॒ हन्ति॑ वृ॒तं ।
+> स॒द्यो यो नृभ्यो॑ अत॒साय्यो॒ भूत्प॑स्पृधा॒नेभ्यः॒ सूर्य॑स्य सा॒त् ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । अप्रतीनि । मनवे । पुरूणि । इन्द्रः । दाशत् । दाशुषे । हन्ति । वृत्रं ।
+> सद्यः । यः । नृभ्यः । अतसाय्यः । भूत् । पस्पृधानेभ्यः । सूर्यस्य । सात् ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स इंद्रो दाशुषे हविर्दत्तवते मनवे मनुष्याय यजमानाय पुरूणि
+> बहून्यप्रतीन्युत्कृष्टानि धनानि दाशत् । ददाति । किंच वृत्रमसुरं हंति । कीदृशः ।
+> य इंद्रः सूर्यस्य सातौ । सातिः संभजनं । सूर्यसंभजनविषये भूते पस्पृ-
+> धानेभ्यः अहमेव प्रथमं सूर्यं प्राप्नुयामहमेव प्रथमं सूर्यं प्राप्नु-
+> यामिति स्पर्धमानेभ्यः स्तोतृभ्यः सद्यस्तदानीमेवातसाय्कस्तत्पाप्तिहेतुभूतः
+> सन् समाश्रयणीयो भूत् । अभूत् । यद्वा सूर्यस्य सातौ ॥ षोऽंतकर्मणि ।
+> अधिकरणे क्तिन् ॥ सूर्यस्य संबंधिनि युद्धे पस्पृधानेभ्यः सूर्येण सह स्पर्ध-
+> मानेभ्योऽतसाय्क्योऽभूत् ॥
+
+*Gist: Indra gives the sacrificer abundant excellent wealth and slays Vṛtra; in the contest to win the sun he became the arbiter among the rival worshippers.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*)—which Indra. सूर्यस्य सातौ (*sūryasya sātau*)—on the occasion of obtaining the sun. पस्पृधानेभ्यः (*paspṛdhānebhyaḥ*)—to those who had developed rivalry with one another. नृभ्यः (*nṛbhyaḥ*)—to the performers of the sacrifice. सद्यः (*sadyaḥ*)—immediately. अतसाय्कः (*atasāykaḥ*)—standing in the middle as the decider. भूत् (*bhūt*)—became. सः इंद्रः (*saḥ iṃdraḥ*)—that Indra. दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation. मनवे (*manave*)—and who is a man. पुरूणि (*purūṇi*)—many. अप्रतीनि (*apratīni*)—and excellent. दाशत् (*dāśat*)—gives (riches). वृत्रं (*vṛtraṃ*)—Vṛtra the asura. हंति (*haṃti*)—slays.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra, who, on the occasion of obtaining the sun, standing in the middle at once became the decider among the sacrificers who had developed rivalry with one another, gives to the sacrificer, who offers the oblation and is a man, many and excellent riches. And he slays Vṛtra the asura.
+
+### Printed p. 844
+
+*(Header: "844 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 19".)*
+
+**English Translation (as printed)**
+
+To the presenter(of the libation) Indra gives many unparalleled gifts: he slays Vritra; he was the arbiter amongst his worshippers when con-tending for the possession of the Sun.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः सूर्यस्य सात् पस्पृधानेभ्यः नृभ्यः सद्यः अतसाय्कॆ: भूत् (*yaḥ sūryasya sāt paspṛdhānebhyaḥ nṛbhyaḥ sadyaḥ atasāykè: bhūt*)—सूर्यसंभजनविषये भूते पस्पृधानेभ्यः अहमेव प्रथमं सूर्यं प्राप्नुयामहमेव प्रथमं सूर्यं प्राप्नुयामिति स्पर्धमानेभ्यः स्तोतृभ्यः सद्यस्तदानीमेवातसाय्कस्तत्पाप्तिहेतुभूतः सन् समाश्रयणीयो भूत् (*sūryasaṃbhajanaviṣaye bhūte paspṛdhānebhyaḥ ahameva prathamaṃ sūryaṃ prāpnuyāmahameva prathamaṃ sūryaṃ prāpnuyāmiti spardhamānebhyaḥ stotṛbhyaḥ sadyastadānīmevātasāykastatpāptihetubhūtaḥ san samāśrayaṇīyo bhūt*). It is described here that when, regarding obtaining the sun, rivalry arose among the worshippers ("I shall get the sun first, I shall get it first"), Indra stood in the middle and settled their dispute.
+
+The commentator has not explained clearly what "obtaining the sun" means. Probably the matter stated in Ṛgveda Saṃhitā 1-61-15 and 1-121-13 is said here in another manner. Since this subject is mentioned in the next Ṛk also, we have explained it there; it may be understood by looking there.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स सु॑न्व॒त इन्द्रः॒ सूर्य॒मा दे॒वो रि॑ण॒ङ्मर्त्या॑य स्त॒वान् ।
+> आ यद्र॒यिं गु॒हद॑वद्यमस्मै॒ भर॒दंतं॒ नैत॑शो दश॒स्यन् ॥५१[?]॥
+
+> *sa sunvata indraḥ sūryamā devo riṇaṅmartyāya stavān |*
+> *ā yadrayiṃ guhadavadyamasmai bharadaṃtaṃ naitaśo daśasyan ‖51[?]‖*
+
+*(The Ṛk number is printed ५१ (*51*) [?] in the Saṃhitā block; the Pada ends with ५ (*5*).)*
+
+**॥ पदपाठः ॥**
+
+> सः । सुन्वते । इन्द्रः । सूर्यं । आ । देवः । रिणक् । मत्याय । स्तवान् ।
+> आ । यत् । रयिं । गुहत् अवद्यं । अस्मै । भरत् । अंशं । न । एतशः । वत्स्यन् ॥५॥
+
+> *saḥ | sunvate | indraḥ | sūryaṃ | ā | devaḥ | riṇak | matyāya | stavān |*
+> *ā | yat | rayiṃ | guhat avadyaṃ | asmai | bharat | aṃśaṃ | na | etaśaḥ | vatsyan ‖5‖*
+
 ---
 
-**Progress note:** Done through printed p. 841 (PDF 841). Sukta 19 Rk 1 Special Topics completed; Rk 2 complete; Rk 3 Samhita, Pada, bhasya written
+**Progress note:** Done through printed p. 844 (PDF 844). Sukta 19 Rk 3 Pratipadartha, Bhavartha, Special Topics; Rk 4 complete; Rk 5 Samhita and Pada written (bhashya next)
