@@ -31277,6 +31277,86 @@ Main idea: Indra's chariot has been newly built. It gives desired things to thos
 
 This sacrifice (or Soma) is sufficient for Indra in the morning pressing, in the midday pressing and in the evening pressing. It bears good for man. The other priests have produced this sacrifice (or the Soma juice), which is of the nature of an embryo, in the other regions of the earth in the form of the altar. This, which gives the desired object and is victorious, joins the other gods.
 
+### Printed p. 824
+
+*(Header: "824 Sāyaṇabhāṣyasahitā । Maṃ. 2 A. 2 Sū. 18".)*
+
+**Printed English translation**
+
+That(sacrifice) is sufficient for him,(Indra), whether(offered) for the first, the second, or the third time: it is the bearer(of good) to man: other (priests) engender the embryo of a different(rite), but this victorious(sacrifice), the showerer(of benefits) combines with other(ceremonies).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सः अस्मै प्रथमं अरं सः द्वितीयं (*saḥ asmai prathamaṃ araṃ saḥ dvitīyaṃ*)(अरं) (*(araṃ)*) उतो तृतीयं (*uto tṛtīyaṃ*)—Sāyaṇa has given two kinds of meaning for the word सः (*saḥ*), namely sacrifice or Soma. But since this sentence has the words प्रथमं (*prathamaṃ*), द्वितीयं (*dvitīyaṃ*), तृतीयं (*tṛtīyaṃ*) indicating the three pressings, it appears proper to take it as Soma. The main sense is: let the Soma juice prepared by us for Indra suffice for his drinking at the morning pressing, the midday pressing and the third pressing, and give him satisfaction. Since the words प्रथमं (*prathamaṃ*), द्वितीयं (*dvitīyaṃ*), तृतीयं (*tṛtīyaṃ*) here denote time, they are in the second case-ending according to the grammatical rule कालाध्वनोरिति द्वितीया (*kālādhvanoriti dvitīyā*).
+
+अन्ये अन्यस्याः गर्भं जनंत उ (*anye anyasyāḥ garbhaṃ janaṃta u*)—Sāyaṇa: other priests, of the earth, or of the Vedic speech, produced the embryo, that is, Soma or the sacrifice; उ (*u*) is for the sake of well-knownness. That is: other priests have produced the sacrifice or the Soma, hidden in the form of praise in other regions of the earth or in the Vedic sentences. Since the preceding sentence mentions a priest called Hotā, the word अन्ये (*anye*) in this sentence is explained as "other priests (apart from the Hotṛ)". Priests such as the Adhvaryu produce, that is, carry out, the sacrificial rites on the sacrificial altar. Or they produce the Soma contained in the Vedic mantras in the form of praise, that is, they crush the creepers and prepare the Soma juice. This is well known, is the main idea.
+
+सः अन्येभिः सचते जेन्यः वृषा (*saḥ anyebhiḥ sacate jenyaḥ vṛṣā*)—Sāyaṇa: the sacrifice or Soma, which showers the desired fruit and is capable of victory, joins other gods such as Indra. That is: the sacrifice conducted by the priests, or the Soma juice prepared, joins the other deities and brings the sacrificer victory and the objects he desires.
+
+### Printed p. 825
+
+*(Header: "[A. 2. A. 6. V. 21] Ṛgvedasaṃhitā 825".)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> हरी॒ नु कं॒ रथ॒ इन्द्र॑स्य योजमा॒य्कॆ सू॒क्तेन॒ वच॑सा॒ नवे॑न।
+> मो षु त्वामत्र॑ ब॒हवो॒ हि विप्रा॒ नि री॑रम॒न्यज॑मानासो अ॒न्ये ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> हरी इति । नु । कं । रथे । इन्द्रस्य । योजं । आय्यै । सुउक्तेन । वचसा । नवेन ।
+> मो इति । सु । त्वां । अत्र । बहवः । हि । विप्राः । नि । रीरमन् । यजमानासः । अन्ये॥
+
+**॥ सायणभाष्यम् ॥**
+
+> इंद्रस्य संबंधिनि रथे हरी एतन्नामकावश्च नु क्षिप्रं कं सुखेनाय्कॆ गम-
+> नाय नवेनान्यैरकृतपूर्वेण वचसा वेदात्मकेन सूक्तेन साधनेन योजं ।
+> युनज्मि ॥ युजर् योगे । लुजि इरितो वेति क्लेरजादेशः ॥ अत्रास्तिन्यज्ञॆ बहवो
+> विप्रा मेधाविनः स्तोतारो भवंति हि । तथाप्यन्ये मद्व्यतिरिक्ता यजमानासो
+> यजमानास्त्वां सु सुष्टु मो निरीरमन् । नितरां मा रमयंतु । अतोऽस्मदी-
+> यं यज्ञमागत्य सोमं पिबेति भावः ॥ रीरमन् । रमतेर्ण्यंतस्य लुजि चजि
+> सन्नद्भावादभ्यासस्यॆत्वदीर्घौ । वाक्यभेदादत्र हियोगाभावेन निघातः ॥
+
+*Gist: Indra's two horses Hari are yoked to his car with a new Vedic hymn; many wise singers are present, so let no other sacrificers draw Indra away from this sacrifice.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्रस्य (*iṃdrasya*)—of Indra; रथे (*rathe*)—in the car; हरी (*harī*)—the horses called Hari; नु (*nu*)—quickly; कं (*kaṃ*)—pleasant; आय्कॆ (*āykè*) [as supplied]—for the journey; नवेन (*navena*)—with the new; वचसा (*vacasā*)—Vedic; सूक्तेन (*sūktena*)—with the hymn; योजं (*yojaṃ*)—I join; अत्र (*atra*)—in this sacrifice; बहवः (*bahavaḥ*)—many; विप्राः (*viprāḥ*)—wise worshippers; हि (*hi*)—are there, are they not; अन्ये (*anye*)—other; यजमानासः (*yajamānāsaḥ*)—sacrificers; त्वां (*tvāṃ*)—you; सु (*su*)—exceedingly; मो नु रीरमन् (*mo nu rīraman*) [as supplied]—let them not draw (you) away.
+
+**भावार्थ (Bhāvārtha)**
+
+For Indra's pleasant journey I harness to his car the horses called Hari, quickly, and with a new hymn which is Vedic in nature. In this sacrifice there are wise worshippers. O Indra, let other sacrificers not draw you away by their rites.
+
+### Printed p. 826
+
+*(Header: "826 Sāyaṇabhāṣyasahitā । Maṃ. 2 A. 2 Sū. 18".)*
+
+**Printed English translation**
+
+I harness quickly and easily the horses to the car of Indra for its journey, by new and well recited prayer: many wise(worshippers) are pre- sent here; let not other institutors of sacred rites tempt you(away).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the sage describes that, so that Indra may come to the sacrificial ground, he will praise and yoke Indra's two horses called Hari to Indra's car with new mantras, that is, mantras not hitherto recited by others. Besides, there are in this sacrifice many intelligent priests. All of them will praise and invoke you. Therefore the sage prays to Indra: O Indra, even if other sacrificers call you exceedingly, do not heed their invitations but come to our sacrificial ground.
+
+#### Ṛk 4
+
+*(The supplied text gives the Saṃhitā of this Ṛk only inside a garbled figure caption, mixed Devanagari and Kannada with an extraneous heading "406 kāvyaḥ"; it is not reproduced here and is left for the user. The Pada is taken from the same caption.)*
+
+**॥ पदपाठः ॥**
+
+> आ । द्वाभ्यां । हरिभ्यां । इन्द्र । याहि । आ । चतुःभिः । आ । षट्भिः । हूयमान ।
+> आ । अष्टाभिः । दशभिः । सोमपेयं । अयं । सुतः । सुमख । मा । मृधः । करिति कः [?] ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र होतृभिराहूयमानस्त्वं द्वाभ्यां हरिभ्यामश्विभ्यामिमं यज्ञं
+> प्रति सोमपानार्थमायाहि । चतुर्भिर्हरिभिरायाहि । कथा षड्विरागच्छ सोम-
+
+*(The bhāṣya of this Ṛk continues on the next page; it begins: O Indra, invoked by the Hotṛs, come to this sacrifice with two horses Hari to drink the Soma; come with four horses.)*
+
 ---
 
-**Progress note:** Done through printed p. 823 (PDF 823). Sukta 18 Rk 1 Special Topics completed (items 7-10, chariot explanation); Rk 2 Samhita, Pada, bhasya, Pratipadartha, Bhavartha
+**Progress note:** Done through printed p. 826 (PDF 826). Sukta 18 Rk 2 printed English and Special Topics; Rk 3 complete; Rk 4 Pada and bhasya begun (Samhita garbled in supplied text)
