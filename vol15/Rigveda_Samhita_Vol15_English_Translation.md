@@ -22240,6 +22240,96 @@ In this Ṛk the constant relation between the sacrifice and them is described. 
 
 *[The window ends here, at the end of p. 719, after this Ṛk and its reference; the next window continues.]*
 
+### Printed p. 720
+
+*[Running head, p. 720: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+[continuing:] In Ṛks such as this it is stated that they help Agni, who is in the form of a child, to drink the oblation. Because of this relation they are said to be the companions of the sacrificers. In general this matter is repeated in the Āprī sūktas too. For example:
+
+⟦ಆ ಸುಷ್ವಯಂತೀ ಯಜತೇ ಉಪಾಕೇ ಉಷಾಸಾನಕ್ತಾ ಸದತಾಂ ನಿ ಯೋನ್ ।
+ದಿವ್ಯೇ ಯೋಷಣೇ ಬೃಹಶೀ ಸುರುಕ್ಮೇ ಅಧಿ ಶ್ರಿಯಂ ಶುಕ್ರಪಿಶಂ ದಧಾನೇ ॥⟧
+(printed ಮ. सं (*saṃ*). 10-110-6)
+
+The same matter is stated in this Ṛk of an Āprī sūkta. From this it is understood that the deities Uṣāsānaktā are given not a secondary position in the sacrificial works but a very important one. This principal position is shown by
+
+⟦ಹೋತಾ ಯಕ್ಷದುಷಾಸಾನಕ್ತಾ ಬೃಹತೀ ಸುಪೇಶಸಾ ನೃಗ್ 8 ಪತಿಭ್ಯೋ ಯೋನಿಂ ಕೃಷ್ಣಾನೇ।
+ಸಗ್ಸ್ ಸ್ಮಯಮಾನೇ ಇಂದ್ರೇಣ ದೇವೈರೇದಂ ಬರ್ಹಿಃ ಸೀದತಾಂ ವೀತಮಾಜ್ಯಸ್ಯ
+ಹೋತರಜ ॥⟧
+(printed त्रै (*trai*). ब्रा (*brā*). 3-6-2-1)
+
+in this mantra of the Praiṣa sūkta, where there is the prayer that Uṣānaktā sit on the seat of sacred grass not merely with Agni but also with the other gods, Indra and the rest. In the Aitareya Brāhmaṇa they are addressed as ahorātre (day and night). The Nirukta author has explained the nature of these deities at 8-11. It was said before that the Nirukta author states the derivation of the two words uṣas and nakta and the nature of these deities. In the Bṛhaddevatā too they are described thus:
+
+⟦ನಕ್ತೋಷಾಸೌ ಚ ಯೇ ದೇವ್ಯಾವಾಗ್ನೇಯ್ಯಾವೇವ ತೇ ಸ್ಮೃತೇ ।
+ಶ್ಯಾ ವ್ಯಾಗ್ನೇಯೀ ಹಿ ಕಾಲಸ್ಯ ತಸ್ಯೈವೋಷಾಃ ಕಲೇವ ತು ॥⟧
+(printed बृ (*bṛ*). दे (*de*). 3-8)
+
+It is well known that these two deities, Uṣas and Nakta, are related to Agni. Of these, Śyāvī (the night deity, 1-71-1) has a close relation with Agni, and from the Nirukta sentence उषः कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣaḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ*) (Ni. 2-18) it is known that Uṣas is the last time of that night.
+
+⟦ತಮ ಉಚ್ಛತ್ಯುಷಾ ನಕ್ತಾನಕ್ತೀಮಾಂ ಹಿಮಬಿಂದುಭಿಃ ।
+ಅಪಿ ವಾವ್ಯಕ್ತವರ್ಣೇತಿ ನಇದ್ ಪೂರ್ವಾಚ್ಚೀರಿದಂ ಭವೇತ್ ॥⟧
+(printed बृ (*bṛ*). दे (*de*). 3-9)
+
+### Printed p. 721
+
+*[Running head, p. 721: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+Of these two, Uṣas drives away the darkness. Night makes everything wet and pervaded with drops of dew. Or, since it has no definite colour, the root añj joined with the negative particle gives the meaning avyaktavarṇā ("of indistinct colour").
+
+⟦ಸಾ ಹಿ ದೋಷಾ ಭವತ್ಯಾದೌ ನಿಶೀಥೇ ಸಾ ತಮಸ್ವತೀ ।
+ನಾಮ್ಮಾ ಭವತ್ಯುಷಾಶ್ಚೈವ ಸೈಷಾ ಪ್ರಾಗುದಯಾದ್ರವೇಃ ॥⟧
+(printed बृ (*bṛ*). दे (*de*). 3-10)
+
+At the beginning this deity is called doṣā, at midnight tamasvatī, and before sunrise uṣas. Doṣā, tamasvatī, śyāvī and naktā are all names of night, read in the Nighaṇṭu (Nighaṇṭu 1-7). In other places of the Ṛksaṃhitā, by epithets such as तंतुं ततं संवयंती (*taṃtuṃ tataṃ saṃvayaṃtī*) (Ṛ. Saṃ. 2-3-6) the help of Uṣāsānaktā in the extension of the sacrifice is explained.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> दैन्व्या॒ होता॑रा प्रथ॒मा न्यृं॑जे स॒प्त पृ॒क्षासः॑ स्व॒धया॑ मदंति ।
+> ऋ॒तं शंसं॑त ऋ॒तमित्त आ॑हु॒रनु॑ व्र॒तं व्र॑त॒पा दीध्या॑नाः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> दैव्या । होतारा । प्रथमा । नि । ऋंजे । सप्त । पृक्षासः । स्वधया । मदंति ।
+> ऋतं । शंसंतः । ऋतं । इत् । ते । आहुः । अनु । व्रतं । व्रत्यपाः । दीध्यानाः ॥७॥
+
+**॥ सायणभाष्यम् ॥**
+
+> दैव्या दिव्य प्रथमा प्रथमौ मुख्य होताराह्वातारावग्नी न्यृंजे । प्रसाध-
+> यामि । ऋतमुदकं शंसंत आशंसमानाः सप्त पृक्षासः । पृक्षमन्नं । तद्वंत ऋत्वि-
+> जस्तमग्निं स्वधया सोमेन हविषा मदंति । मादयंति । व्रतपा वृतानां कर्मणां
+> रक्षितारो दीध्याना दीप्यमानाः अथवा स्वकर्मभिरग्निं दीपयंत ऋत्विजोऽनु
+> व्रतं व्रतेषु ऋतमित् अग्निमेवाहुः । अग्निमेव ऋतभूतमाहुरित्यर्थः ।
+> एवकारार्थे इच्छब्दः ॥
+
+*[Stray line as supplied after the bhāṣya: "46" (probably a signature mark), moved out of the quotation block into a note.]*
+
+*(Gist: Agni, the two divine hotṛs, is adorned; the seven priests who desire water delight him with Soma; they proclaim him as water-bound; ibid ṛtam in the sense of "water" is explained.)*
+
+### Printed p. 722
+
+*[Running head, p. 722: Sāyaṇabhāṣyasahitā, Ma. (printed so, without ṃ) 3, A. 1, Sū. 4.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Prathamā: the principal ones. Daivyā (printed दैन्व्या (*dainvyā*)): those of divine nature. Hotārā: Agnis in the form of hotṛs. Ny ṛñje: I adorn and worship. Ṛtaṃ: water. "Taṃsantaḥ" (so printed, for śaṃsantaḥ): those who desire. Pṛkṣāsaḥ: those having food. Sapta: the seven priests. Svadhayā: with the oblation in the form of Soma. Madanti: they gratify Agni. Vratapāḥ: those who protect the rites. Dīdhyānāḥ: those who make Agni shine. Te: the priests. Anuvrataṃ: in every performance of the rites. Ṛtam it: that Agni is endowed with water. Āhuḥ: they say.
+
+**भावार्थ (Bhāvārtha)**
+
+I adorn and worship the Agnis, principal among the gods, of divine nature and in the form of hotṛs. The seven priests, who desire water and have food, gratify Agni with the oblation in the form of Soma. The priests, who protect the rites and make Agni shine, proclaim in the time of every performance of the rites that Agni is endowed with water.
+
+**Printed English translation**
+
+I propitiate the two chief divine invocers of the gods: the seven offerers of (sacrificial) food, expectant of water, gratify (Agni) with oblations: the illustrious observers of sacred rites have saluted him in every ceremoney [sic] as (identifiable), verily, with water.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the deities called दैव्या होतारौ (*daivyā hotārau*) are praised. For the words दैव्या होतारा (*daivyā hotārā*) the bhāṣyakāra has said आह्वातारावग्नी (*āhvātārāvagnī*), the two Agnis who invoke the gods. By the word hotārau two kinds of Agni are indicated: the Agni established on the sacrificial altar and the Agni in heaven.
+
+सप्त पृक्षासः—पृक्षमन्नं तद्वंत ऋत्विजः । (*sapta pṛkṣāsaḥ—pṛkṣamannaṃ tadvaṃta ṛtvijaḥ |*) The word pṛkṣa is read among the names of food (Ni. 3-9). Here food means food in the form of oblation. The purport is the priests who have prepared the oblation for offering in Agni. The seven priests are the seven, Hotṛ, Maitrāvaruṇa, Brāhmaṇācchaṃsin, Potṛ, Neṣṭṛ, Acchāvāka and Āgnīdhra. An account of them and of the mantras they recite at the morning pressing and other rites has been given at length in the Special Topics of the fifth Ṛk of this sūkta.
+
+*[The window ends here, at the end of p. 722; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 719 (PDF 719). Sūkta 4 Ṛk 6 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) and Special Topics so far (Naktoṣāsā; Ni. 8-11, 2-19; 1-113-1; 1-142-7; 3-14-3; 1-96-5)
+**Progress note:** Done through printed p. 722 (PDF 722). Sūkta 4 Ṛk 6 Special Topics end (Uṣāsānaktā, Bṛ. De. 3-8 to 10); Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun
