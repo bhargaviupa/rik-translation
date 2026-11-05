@@ -16766,6 +16766,96 @@ Subhagā: possessed of good fortune. Vanā: desired by all, the wood (the *ara�
 
 *[Stray line in the supplied text: "34", kept as a note in kn.md.]*
 
+### Printed p. 530
+
+*[Running head, p. 530: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+created. Devāsaś cit: the gods too. Paniṣṭhaṃ: the praiseworthy. Tavasaṃ: Agni, grown strong with power. Jātaṃ: as soon as born. Manasā: with praise. Saṃ jagmuḥ: approached. (And) Duvasyan: worshipped.
+
+**भावार्थ (Bhāvārtha)**
+
+The fortunate wood desired by all (the *araṇi*) created the beautiful, many-formed Agni, who is the embryo of the waters and the plants. The gods too approached, with praise, the praiseworthy Agni, grown strong with power, as soon as he was born, and worshipped him.
+
+**Printed English translation**
+
+The auspicious timber has generated the graceful and multiform embryo of the waters and the plants: the gods approached him with reverence, and worshipped the adorable and mighty (Agni) as soon as born.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಸುಭಗಾ ವನಾ ದರ್ಶದಂ ವಿರೂಪಂ ಅಪಾಂ ಓಷಧೀನಾಂ ಗರ್ಭಂ ಜಜಾನ—ಸುಭಾಗ್ಯಾ
+ಸರ್ವೈರ್ವನನೀಯಾರಣಿಃ ದರ್ಶನೀಯಂ ನಾನಾವಿಧರೂಪಂ ಅಪಾಂ ಓಷಧೀನಾಂ ಚ ಗರ್ಭಸ್ಥಿತಮಗ್ನಿಂ
+ಜಜಾನ ।⟧ In this sentence it is said that the *araṇi* produced Agni. The wood (the *araṇi*), venerable and desired by all, produced Agni of many forms, that is, having in sacrifice the many forms such as Āhavanīya, or existing in many forms in many houses, who exists as an embryo (hidden) in water and also in plants and trees, that is in wood: this is the intent. Here, if the word वन (*vana*) is explained as "a tree in the forest", the fire produced by trees in the forest rubbing against one another is called forest fire. Or, if the word वना (*vanā*) is explained as वनस्पति (*vanaspati*), that is the *araṇi* in the form of a piece of wood, then the fire the priests produce in the *araṇi* by churning with mantras and in the prescribed manner is called the sacrificial fire. Since the latter half of this Ṛk says that they approached Agni with praise and so on as soon as he was born, it is to be understood that the Agni in question here is the sacrificial fire produced by churning the *araṇi*s.
+
+⟦ದೇವಾಸಃ ಚಿತ್ ಪನಿಷ್ಠಂ ತವಸಂ ಜಾತಂ ಮನಸಾ ಸಂಜಗ್ಮುಃ ದುವಸ್ಯನ್—ಸರ್ವೇ ದೇವಾ
+ಅಪಿ ಸ್ತುತ್ಯಂ ವೃದ್ಧಂ ಜಾತಮಾತ್ರಮಗ್ನಿಂ ಸ್ತುತ್ಯಾ ಉಪಾಗಚ್ಛನ್ ಪರ್ಯಚರನ್ ।⟧ The gods too approached and attended Agni, praiseworthy to all, produced by churning with the application of force: this is the main intent.
+
+### Printed p. 531
+
+*[Running head, p. 531: Aṣṭaka 2, Adhyāya 8, Varga 15, Ṛgvedasaṃhitā.]*
+
+चित्—यास्करु चित् ऎंब शब्दक्कॆ चिदित्येषोऽनेककर्मा (*cit—yāskaru cit èṃba śabdakkè cidityeṣo 'nekakarmā*) means that the word चित् (*cit*) is used in many kinds of meaning (Ni. 1-4); he says that it is used in the sense of respect, comparison and contempt, and gives examples.
+
+पनिष्ठं—स्तुत्यं । (*paniṣṭhaṃ—stutyaṃ |*) Since words such as पनस्यति (*panasyati*) and पनायते (*panāyate*) are read among the words denoting acts of worship (Ni. 3-19), the word पनिष्ठं (*paniṣṭhaṃ*), formed from that root, means worthy of worship, worthy of praise.
+
+तवसं—तवः ऎंब शब्दवु बलनामगळल्लि पठितवागिदॆ (*tavasaṃ—tavaḥ èṃba śabdavu balanāmagaḷalli paṭhitavāgidè*) (Ni. 3-9). When Agni is churned in the *araṇi*s, great force has to be used. Therefore the Agni produced by the application of force is indicated by the word तवसं (*tavasaṃ*).
+
+दुवस्यन्—दुवस्यति शब्दवु परिचरणकर्मगळल्लि (*duvasyan—duvasyati śabdavu paricaraṇakarmagaḷalli*) (Ni. 3-13): दुवस्यन् (*duvasyan*) means they attended, served, ministered.
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> बृ॒हंत॒ इद्भा॒नवो॒ भाऋ॑जीकम॒ग्निं स॑चंत वि॒द्युतो॒ न शु॒क्राः ।
+> गुहे॑व वृ॒द्धं सद॑सि॒ स्वे अं॒तर॑पा॒र ऊ॒र्वे अ॒मृतं॒ दुहा॑नाः ॥
+
+> *bṛhaṃta idbhānavo bhāṛjīkamagniṃ sacaṃta vidyuto na śukrāḥ |*
+> *guheva vṛddhaṃ sadasi sve aṃtarapāra ūrve amṛtaṃ duhānāḥ ‖*
+
+*(The Ṛk number ॥ ೧೪ ॥ is missing after the Saṃhitā in the supplied text; the Pada has it.)*
+
+**॥ पदपाठः ॥**
+
+> बृहंतः । इत् ।भानवः । भाऋजीकं । अग्निं । सचंत । विद्युतः । न । शुक्राः ।
+> गुहाइव । वृद्धं । सदसि । स्वे । अंतः । अपारे । ऊर्वे । अमृतं । दुहानाः ॥ १४ ॥
+
+> *bṛhaṃtaḥ | it |bhānavaḥ | bhāṛjīkaṃ | agniṃ | sacaṃta | vidyutaḥ | na | śukrāḥ |*
+> *guhāiva | vṛddhaṃ | sadasi | sve | aṃtaḥ | apāre | ūrve | amṛtaṃ | duhānāḥ ‖ 14 ‖*
+
+*(The Pada is printed ಭಾಋಜೀಕಂ and ಇತ್ ।ಭಾನವಃ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> अपारेऽगाध ऊर्वे समुद्रेऽंतर्मध्येऽमृतमुदकं दुहानाः क्षरंतो
+> बृहंत इद्भानवो महांतः सूर्या एव शुक्रा दीप्यमाना विद्युतो न विद्युत् इव
+
+> *apāre 'gādha ūrve samudre 'ṃtarmadhye 'mṛtamudakaṃ duhānāḥ kṣaraṃto*
+> *bṛhaṃta idbhānavo mahāṃtaḥ sūryā eva śukrā dīpyamānā vidyuto na vidyut iva*
+
+### Printed p. 532
+
+*[Running head, p. 532: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+> स्वे स्वकीये सदसि सदनेऽतंरिक्षे गुहेव गुहायामिव वृद्धं प्रवृद्धं
+> भाय्जीकं प्रभया दीप्यमानमग्निं सचंत ॥ आश्रयंति ॥
+
+*(Gist: the great suns, shining like lightnings, milking water in the boundless vast sea, attend Agni, grown strong and shining with his own light in his own abode, the atmosphere, as in a cave. The bhāṣya block is split where the print splits it at the page break.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Apāre: in the unfathomable. Ūrve antaḥ: in the middle of the exceedingly vast sea. Amṛtaṃ: water. Duhānāḥ: milking. Bṛhantaḥ: of great form. Bhānava it: the suns. Śukrāḥ: radiant. Vidyuto na: like lightnings. Sve sadasi: in their own abode, the atmosphere. Guheva: as in a cave. Vṛddhaṃ: grown strong. Bhāṛjīkaṃ [printed so]: shining with light. Agniṃ: Agni. Sacanta: they attend.
+
+**भावार्थ (Bhāvārtha)**
+
+In the middle of the unfathomable, exceedingly vast atmosphere the suns, who milk water and are of great form, attend, like radiant lightnings, Agni, who has grown strong as in a cave in their own abode, the atmosphere, and shines with his light.
+
+**Printed English translation**
+
+Mighty suns like brilliant lightnings, associate with the self-shining Agni, great in his own abode, as if in a (deep cavern, as they milk forth ambrosia into the boundless and vast ocean.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अपारे ऊर्वे अंतः अमृतं दुहानाः बृहंतः भानव इत्— (*apāre ūrve aṃtaḥ amṛtaṃ duhānāḥ bṛhaṃtaḥ bhānava it—*) here it is explained: the suns, of great form, who pour water as rain in the middle of the unfathomable sea. Here the word ऊर्व (*ūrva*) means the sea or the submarine fire in the sea. The word अमृत (*amṛta*) means water (Ni. 2-24). It is not clear why the seer has used the plural भानवः (*bhānavaḥ*) in this sentence. It is not clear whether the twelve Ādityas are meant here by the word भानवः (*bhānavaḥ*), or whether, with the idea that the sun rising each day is different, the many suns rising on many days are meant. Perhaps for describing the immense brilliance of Agni by comparison, the illustration of many suns was stated. Besides, in this sentence अमृतं दुहानाः (*amṛtaṃ duhānāḥ*) is used as an epithet of the suns: those who pour water. Though the Sun does not himself pour rain, with his rays he draws up the waters of the sea and other reservoirs and that
+
 ---
 
-**Progress note:** Done through printed p. 529 (PDF 529). Sukta 1 (Mandala 3) Rik 11 Special Topics finished (p. 527); Rik 12 complete (pp. 527-529); Rik 13 Samhita, Pada, bhashya and start of Pratipadartha (p. 529), breaks off mid-entry at 'Jajana'. Flags: Rik 12 closing numbers missing; garbled Samhita and bhashya labels kept as notes; Bhayajikah variants; stray line 34; 2 accent DIFF
+**Progress note:** Done through printed p. 532 (PDF 532). Sukta 1 (Mandala 3) Rik 13 complete (pp. 530-531); Rik 14 complete through printed English and start of Special Topics (pp. 531-532), breaks off mid-sentence about the sun drawing up water. Flags: Rik 14 Samhita lacks closing number; Bhajiika/Bhayajika variants as supplied
