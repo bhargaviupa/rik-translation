@@ -30513,6 +30513,98 @@ Since the hymns and rites performed by these well-known persons are regarded as 
 
 *(The bhāṣya of this Ṛk breaks off at the foot of p. 799, in the middle of the gloss on सोम- (*soma-*) ; it continues on the next page.)*
 
+### Printed p. 800
+
+*(Header: "800 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 17".)*
+
+**Sāyaṇa-bhāṣya** (continued from p. 799)
+
+> पानाय महिमानमातिरत् । अवर्धयत् ॥ शिरतेर्व्यत्ययेन शः । यद्योगाद-
+> निघातः ॥ शूरः शत्रूणां शातयिता य इंद्रो युत्सु युद्धेषु तन्नं स्वकीयं
+> शरीरं परिव्यत । कर्मणा परिवीतमकरोत् । स इंद्रो महिना स्वकीयेन महिम्ना
+> शीर्षणि स्वशिरसि द्यां प्रत्यमुंचत । आधारयत् ॥
+
+> *pānāya mahimānamātirat | avardhayat ‖ śiratervyatyayena śaḥ | yadyogāda-*
+> *nighātaḥ ‖ śūraḥ śatrūṇāṃ śātayitā ya iṃdro yutsu yuddheṣu tannaṃ svakīyaṃ*
+> *śarīraṃ parivyata | karmaṇā parivītamakarot | sa iṃdro mahinā svakīyena mahimnā*
+> *śīrṣaṇi svaśirasi dyāṃ pratyamuṃcata | ādhārayat ‖*
+
+Gist: Indra, who is a hero, protected his own body in battles by deeds, and by his greatness held up heaven on his head.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*)—the Indra who; ओजः (*ojaḥ*)—his own energetic strength; मिमानः (*mimānaḥ*)—creating (increasing); प्रथमाय (*prathamāya*)—for the first; धायसे (*dhāyase*)—drinking of Soma juice; महिमानं (*mahimānaṃ*)—his own greatness; अतिरत् (*atirat*) ह (*ha*)—increased; शूरः (*śūraḥ*)—the destroyer of enemies; यः (*yaḥ*)—the Indra who; युत्तु (*yuttu*)—in battles; तन्नं (*tannaṃ*)—his own body; परिव्यत (*parivyata*)—protected by deeds of valour (and); महिना (*mahinā*)—by his greatness; शीर्षणि (*śīrṣaṇi*)—on his head; द्यां (*dyāṃ*)—the heaven; प्रत्यमुंचत (*pratyamuṃcata*)—lifted up and held; सः (*saḥ*)—that Indra; भूतु (*bhūtu*)—let him grow. [The line "ಧಃ ವರ್ಧ" follows in the supplied text as a stray fragment, reported, not changed.]
+
+**भावार्थ (Bhāvārtha)**
+
+The Indra who, creating his energetic strength, increased his greatness for the first drinking of Soma juice; the destroyer of enemies, who in battles covered his body with armour and the like and protected it; and who by his greatness lifted up and held the heaven on his head: let that Indra grow in strength. [The supplied text reads हॊदलि (*hòdali*) at the end, apparently for हॊंदलि (*hòṃdali*); reported, not changed.]
+
+*English Translation.*
+
+May that(Indra) be(exalted), who, manifesting his energy, exerted his might for the first drinking of the Soma: a hero, who in combats protec-ted his own person, and by his greatness sustained the heaven upon his head.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk three glories of Indra are described. First, Indra prepared himself for the Soma-juice that is offered to him first of all in sacrifices and the like, and so increased his strength and greatness, that is, made them manifest. Secondly, in the battle that Indra fights with enemies he displayed his valour and protected his body so that no harm came to him from the enemies. Thirdly, by his greatness Indra lifted the heavenly world and held it on his head, very high up. The main sense is: may Indra, who has such qualities, grow, that is, be pleased with the hymns and the like that we offer.
+
+### Printed p. 801
+
+*(Header: "[A. 2. A. 6. V. 19.] Ṛgvedasaṃhitā 801".)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अधा॑र्क्ष्णोः प्रथ॒मं वी॒र्यं॑ म॒हद्यद॒स्याग्रे॒ ब्रह्म॑णा॒ शुष्म॒मैर॑यः ।
+> र॒थै॒ष्वेन॒ हर्य॑श्वेन॒ विच्यु॑ताः॒ प्र जी॒रयः॑ सिस्रते स॒ध्र्य१॒॑ङ्॑क
+> पृथक् ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> अध । अकृणोः । प्रथमं । वीर्यं । महत् । यत् । अस्य । अग्रे । ब्रह्मणा । शुष्मं ।
+> ऐरयः ।
+> रथेऽस्थेन । हरिऽअश्वेन । विच्युताः । प्र । जीरयः । सिस्रते । सध्र्यक् । पृथक् ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अध आपि च हे इंद्र त्वं प्रथमं मुख्यं तद्वीर्यं सामर्थ्य-
+> कृणोः । अकरोः । किं तत् । ब्रह्मणा स्तोत्रेण स्तुतिसाधनभूतेन वेदवाक्येनास्य
+> वीर्यस्य स्रुतुर्जनस्याग्रे पुरतो यच्चृष्टं शत्रोणां शोषकं बलमैरयः ।
+> उदगमयः । जीरयो जरयितारो बाधका आसुरा रथेष्ठेन रथस्थितेन हर्यश्चेन
+> त्वया विच्युताः स्वस्थानाच्चाविताः संतः सध्र्यक् सध्रीचीनाः परस्परं संगताः पृथक्
+> भीत्या वियुक्ताः संतः प्रसिस्रते । प्रकर्षेण धावंति ॥ स्रु गतौ । जुहोत्यादिः ।
+> बहुलं छंदसीत्यभ्यासस्यॆत्वं ॥ सध्र्यगिति सहस्य सध्रिरिति सध्र्यादेशः । अद्रिसध्र्यो-
+> रंतोदात्तत्वेन निपातनादुदात्तस्वरितयोरिति यणः स्वरितत्वं ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इंद्र (*iṃdra*)—O Indra) आध (*ādha*)—besides what has been described above; ब्रह्मणा (*brahmaṇā*)—by the hymn (being praised); अस्य (*asya*)—of this worshipper; अग्रे (*agre*)—in front; यत् (*yat*)—which; शुष्कं (*śuṣkaṃ*)—the strength that destroys enemies; ऐरयः (*airayaḥ*)—you have shown, such; प्रथमं (*prathamaṃ*)—very chief; महत् (*mahat*)—and great; वीर्यं (*vīryaṃ*)—that power; अकृणोः (*akṛṇoḥ*)—you made; जीरयः (*jīrayaḥ*)—the harassing asuras; रथेष्ठेन (*ratheṣṭhena*)—by you who sit in the chariot and; हर्यश्चेन (*haryaścena*)—are borne by horses
+ (continued on the next page)
+
+### Printed p. 802
+
+*(Header: "802 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 17".)*
+
+(you); विच्युताः (*vicyutāḥ*)—having been dislodged from their place; सध्र्यक् (*sadhryak*)—gathering together; पृथक् (*pṛthak*)—(afterwards) separately, through fear; प्र सिस्रते (*pra sisrate*)—they run away.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, praised by the hymn of the sacrificers, the enemy-destroying strength which you displayed in front of them is a very chief and great power. As soon as you displayed it, the harassing asuras, dislodged from their place by you who sit in the chariot and are borne by horses, gather together and then, through fear, run away separately.
+
+*English Translation.*
+
+‘Verily, Indra, you have displayed( your first great prowess, when, (propitiated) by the prayer(of the worshipper), you have put forth your withering(vigour) in his presenoe [sic]: and when the congregated enemies(of the gods), burled [sic] down by you in your chariot, drawn by your horses, fled, scattered.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk another aspect of Indra's valour is described. When Indra fights with enemies, the asuras, seeing the excess of his power, become afraid and run away: this is the matter described here.
+
+हे इंद्र त्वं अध प्रथमं महत् वीर्यं अकृणोः (*he iṃdra tvaṃ adha prathamaṃ mahat vīryaṃ akṛṇoḥ*)—O Indra, you have displayed your chief strength (manliness). What that manliness of yours is, is explained in the next sentence.
+
+यत् अस्य अग्रे ब्रह्मणा कुष्मं ऐरयः (*yat asya agre brahmaṇā kuṣmaṃ airayaḥ*)—ब्रह्मणा स्तोत्रेण स्तुतिसाधनभूतेन वेदवाक्येनास्य वीर्यस्य स्तोतुर्जनस्याग्रे पुरतो यच्चुष्मं शोषकं बलमैरयः उदगमयः (*brahmaṇā stotreṇa stutisādhanabhūtena vedavākyenāsya vīryasya stoturjanasyāgre purato yaccuṣmaṃ śoṣakaṃ balamairayaḥ udagamayaḥ*) (the supplied text has कुष्मं (*kuṣmaṃ*) in the headword and चुष्मं (*cuṣmaṃ*) in the quotation, where the Saṃhitā has शुष्म (*śuṣma*); reported, not changed). In front of the people who praise you with the words of the Veda, that is, while the praisers look on, you have displayed your enemy-withering strength. The meaning is that those who praise you have seen well the strength and valour you showed in defeating the enemies.
+
+रथेष्टेन हर्यश्वेन विच्युताः प्र जीरयः सिस्त्रते सध्रक् पृथक् (*ratheṣṭena haryaśvena vicyutāḥ pra jīrayaḥ sistrate sadhrak pṛthak*)—जीरयो जरयितारो बाधका असुं: रथस्थितेन हर्यश्वेन त्वया स्वस्थानाज्ञाविशाः संतः (*jīrayo jarayitāro bādhakā asuṃ: rathasthitena haryaśvena tvayā svasthānājñāviśāḥ saṃtaḥ*) (continued on the next page; the supplied text is cut off here at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 799 (PDF 799). Sukta 17 Rk 1 printed English and Special Topics (Angirasvat, sushma, gotra, sahasa); Rk 2 Samhita, Pada and start of bhasya placed; Rk 2 bhasya breaks off at foot of p. 799. Flags: Rk 2 Samhita as supplied prathamaya (Pada prathamaya long a) and pratyamunchata (supplied ...mumchata vs reference mu~ncata); first Samhita line recovered from stray HTML attribute.
+**Progress note:** Done through printed p. 802 (PDF 802). Sukta 17 Rk 2 bhasya end, Pratipadartha, Bhavartha, printed English, Special Topics; Rk 3 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English, start of Special Topics
