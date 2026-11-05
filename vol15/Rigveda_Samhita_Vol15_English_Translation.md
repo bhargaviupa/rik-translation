@@ -1853,6 +1853,88 @@ Number of ṛks in the Sūkta: 4 ·
 
 *ṛjur it*—the very one of upright mind; *śaṃsaḥ*—the praiser (of Brahmaṇaspati); *vanuṣyataḥ*—the harming enemies; *vanavat*—may he destroy; *devayan nit*—wishing the favour of the god Brahmaṇaspati; *adevayantam*—the man without devotion to the gods; *abhyasat*—may he overcome; *suprāvīr it*—satisfying (Brahmaṇaspati) with worship; *pṛtsu*—in battles (the supplied text breaks off here, at संग्राम (*saṃgrāma*))
 
+### Printed p. 61
+
+*Running head: Maṇḍala 2, Adhyāya 7, Varga 5, Ṛgveda-saṃhitā, p. 61.*
+
+*(Pratipadārtha of Ṛk 1 continued from p. 60.)* *gaḷalli*—in the (battles); *dustaram*—(printed दुस्तरं (*dustaraṃ*)) enemies who cannot be defeated by others; *vanavat*—may he destroy; *yajyet*—(as printed; the Saṃhitā has *yajvā it*) worshipping (Brahmaṇaspati) with oblation; *ayajyoḥ*—of the man without sacrifice; *bhojanam*—the wealth that is a means of enjoyment; *vi bhajāti*—may he obtain fully.
+
+**भावार्थ (Bhāvārtha)**
+
+May the one who praises Brahmaṇaspati with an upright mind destroy the harming enemies. Wishing the favour of Brahmaṇaspati, the divine one, may he overcome men who have no devotion to the gods. Satisfying Brahmaṇaspati with worship, may he destroy in battles the enemy who cannot be overcome by others. Worshipping Brahmaṇaspati with oblation, may he obtain fully the wealth, the means of enjoyment, of the man without sacrifice.
+
+**Printed English translation**
+
+May the sincere praiser (of Brahmanaspati) verily overcome (his) enemies; may the worshipper of the gods overcome him assuredly who does not reverence them: may the propitiator (of Brahmanaspati) overcome him who is difficult to be overcome in battles: may he who offers sacrifice appropriate the food of him who does not sacrifice
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the word *it* is read in the words *ṛjur it*, *devayan nit*, *suprāvīr it* and *yajvet* [sic, as printed यज्वेत् (*yajvet*)]. For this word *it*, Yāska has cited, as "*cid it* is of many senses" (चिदित्येषोऽनेककर्मा (*cidityeṣo 'nekakarmā*), Ni. 1-4), the use of (*cit*) in many kinds of meanings. Here it is explained that the word is used in the sense of emphasis (*avadhāraṇa*) in all four places.
+
+For the first word, *ṛjur it*, the explanation is आर्जुवयुक्त एव । यद्वा यंजति प्रसाधनकर्मा । स्तोत्राणां प्रसाधक एव (*ārjuvayukta eva | yadvā yaṃjati prasādhanakarmā | stotrāṇāṃ prasādhaka eva*) [the supplied text has ಯಂಜತಿ where Sāyaṇa's text of p. 60 has the root *muñj*; not changed]: the sacrificer who worships Brahmaṇaspati is one who is endowed with a straight path, or one who wins (him) over with praises; so the meaning is described.
+
+देवयन्नित्-दानादिगुणयुक्तं ब्रह्मणस्पतिं आत्मन इच्छन्नेन (*devayannit-dānādiguṇayuktaṃ brahmaṇaspatiṃ ātmana icchannena*) [as supplied; apparently *icchanneva*]: the sacrificer is one who desires as his lord Brahmaṇaspati, who possesses the qualities of granting desired ends to those who worship him with praises and so on; so the meaning is explained.
+
+### Printed p. 62
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 26, p. 62.*
+
+सुप्रावीत्—सुष्टु प्रकर्षेण ब्रह्मणस्पतेस्तर्पयित्यैव (*suprāvīt—suṣṭu prakarṣeṇa brahmaṇaspatestarpayityaiva*) [as supplied]: the sacrificer's quality is described as one who satisfies Brahmaṇaspati exceedingly.
+
+यजेत्—ब्रह्मणस्पतिं हविषा इष्टवानेव (*yajet—brahmaṇaspatiṃ haviṣā iṣṭavāneva*): the sacrificer is one who delights Brahmaṇaspati in sacrifices with oblations. The qualities of the sacrificer having been described with these four words, it is further explained that the sacrificer rejects अदेवयंतं (*adevayaṃtaṃ*), those who do not worship Brahmaṇaspati, and the harming enemies, who lack these qualities; and that अयज्जनः भोगसाधनं विशेषेण भजते (*ayajjanaḥ bhogasādhanaṃ viśeṣeṇa bhajate*) [as supplied], he obtains the means of comfort of one who does not perform sacrifice.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यज॑स्व वीर॒ प्र वि॑हि मनाय॒तो भ॒द्रं मनः॑ कृणुष्व वृत्र॒तूर्ये॑ ।
+> ह॒विष्कृ॑णुष्व सु॒भगो॒ यथास॑सि॒ ब्रह्म॑ण॒स्पते॒रव॒ आ वृ॑णीमहे ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> यजस्व । वीर । प्र । विहि । मनायतः । भद्रं । मनः । कृणुष्ट । वृत्रतूर्ये ।
+> हः । कृणष्ट्व । सुभगः । यथा । अससि । ब्रह्मणः । पतेः । आवः । आ । वृणीमहे ॥ २
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋषिरात्मीयं पुरुषं शास्ति । हे वीर विशेषेण स्तुतीनां प्रेरक सखे
+> यजस्व । ब्रह्मणस्पतिं स्तुत्या पूजय । मनायतो मन एव शीघ्रं प्रवर्तमानान्
+> हिंसकान् यद्वा अभिमन्यमानान् शत्रुन्प्रति प्रविहि । प्रकर्षेण युद्धार्थं गच्छ ॥
+> वी गत्यादिषु । छांदसो ह्रस्वः ॥ वृत्रतूर्ये वृत्राणामावारकाणां शत्रुणां
+> हिंसाहेतुभूते संग्रामे भद्रं कल्याणं धार्ष्ट्योपेतं मनः कृणुष्ट । कुरुष्ट ।
+> ब्रह्मणस्पतेरनुग्रहात्तवैव जयो भविष्यति । तथा ब्रह्मणस्पतये हविश्वरपुरोडाशा-
+> दिकं कृणुष्ट । कुरु । यथा त्वं सुभगः शोभनधनोऽससि । भवेः ॥ अस्तेर्लेट्य।
+> डागमः ॥ ब्रह्मणस्पतेर्यागेन त्वं शोभनधनो भविष्यसीति यावत् । अपि च वयं
+> ब्रह्मणस्पतेरवो रक्षणमाभिमुख्येन वृणीमहे । प्रार्थयामहे ॥
+
+*Gist:* the seer instructs his own man: O hero, worship Brahmaṇaspati with praise, go forth against the swift hostile enemies, make a brave mind, prepare oblations so that you prosper; we also solicit his protection.
+
+*Note on the text as supplied:* the Pada line has कृणुष्ट (*kṛṇuṣṭa*) and कृणष्ट्व (*kṛṇaṣṭva*) for the Saṃhitā's कृणुष्व (*kṛṇuṣva*), and हः (*haḥ*) where हविः (*haviḥ*) would be expected; the bhāṣya has कृणुष्ट (*kṛṇuṣṭa*), हविश्वर (*haviśvara*) and अससि (*asasi*). Left as supplied.
+
+### Printed p. 63
+
+*Running head: Maṇḍala 2, Adhyāya 3, Varga 5, Ṛgveda-saṃhitā, p. 63.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*vīra*—O friend, who in a special way urge on the praise; *yajasva*—offer worship (to Brahmaṇaspati); *manāyataḥ*—(to defeat) the enemies who advance swiftly; *pra vihi*—set out facing the battle; *vṛtratūrye*—in the battle that destroys Vṛtra and the others; *bhadram*—firmly established and bringing welfare; *manaḥ*—the mind; *kṛṇuṣṭva* (printed कृणुष्ट्व (*kṛṇuṣṭva*))—make; *yathā*—in what manner; *subhagaḥ*—possessing excellent wealth; *asasi*—you become (in that way); *haviḥ*—cooked offerings, purodāśa and the like; *kṛṇuṣṭva*—(for Brahmaṇaspati) prepare; (*vayaṃ*—we also); *brahmaṇaspateḥ*—of Brahmaṇaspati; *avaḥ*—the protection; *ā*—facing it; *vṛṇīmahe*—we solicit.
+
+**भावार्थ (Bhāvārtha)**
+
+O sacrificer, who in a special way urge on the praise, offer worship to Brahmaṇaspati. Set out facing the battle to defeat the enemies who advance swiftly, wishing only harm to you in their minds. In the battle that destroys Vṛtra and the others, make a mind that is firmly established and brings welfare. In the manner by which you become possessed of excellent wealth, prepare for Brahmaṇaspati the cooked offerings, purodāśa and the like. We also, facing it, solicit the protection of Brahmaṇaspati. (The supplied text has "ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ", "I solicit", in the singular; and "ಮನ್ನುಗ್ಗಿ" for ಮುನ್ನುಗ್ಗಿ.)
+
+**Printed English translation**
+
+Offer worship, O man, (to Brahmanaspati): proceed resolutely against those who are meditating (hostility): keep your mind firm in contending against foes: offer oblations whereby you may be prosperous: we also solicit the protection of Brahmanaspathi.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The manner in which the seer, the seer of the mantra, instructs his own men, those dear to him, is stated in this mantra.
+
+*vīra yajasva*—here the word *vīra* is explained as स्तुतीनां प्रेरक सखे (*stutīnāṃ preraka sakhe*), "friend who urges on the praises" (the supplied Kannada has "ಪರಿಸುವ", apparently for *prerisuva*, "urging"); and the injunction is expressed that Brahmaṇaspati must be worshipped with praise.
+
+मनायतः विहि—मन इव शीघ्रं प्रवर्तमानान्, हिंसका. अभिमन्यमानान् शत्रु प्रति युद्धार्थं गच्छ (*manāyataḥ vihi—mana iva śīghraṃ pravartamānān, hiṃsakā. abhimanyamānān śatru prati yuddhārthaṃ gaccha*) [as supplied]: with a swiftness abundant like the speed of the mind, rush forward... (the supplied text breaks off here, at ಮುನ್ನುಗ್ಗಿ).
+
 ---
 
-**Progress note:** Done through printed p. 60 (PDF 60). Sūkta 25 Ṛk 4 Bhāvārtha, printed English, Special Topics (p. 57); Ṛk 5 complete (pp. 57-59); Sūkta 26 header and Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (p. 60, breaks off at 'pṛtsu—saṃgrāma'). Window actually covers pp. 57-60 (p. 60 merged into p. 59 text: marker/heading inserted, pages.json extended). Hand fixes to kn.md: garbled labels replaced (Bhāvārtha, Saṃhitā, Pada ಪವನಾತ, bhāṣya ೧ ಸಾಯಣಭಾಷ್ಯಂ ೧), Ṛk 4 Bhāvārtha and Sūkta 26 Anuvāda/meta unquoted from blocks, stray image line removed. 1 [?]: ಮೊರಕುವುವು (p. 57 Special Topics). Unmarked supplied slips: ಸಿ. for ನಿ. (Ni. 3-13), ಅವನಿಗೋ/ಸ್ಕರವೇ, ಮತು, ಗಚ್ಚತಿ, ಪ್ರತ್ತೆ/ಪ್ರತ್ಯೇ, ವಿಧತೇ vs ಏಧತೇ, ದುಷ್ಟರಂ vs ದುಸ್ತರಂ, ಸಾಯಣಭಾವ್ಯ
+**Progress note:** Done through printed p. 63 (PDF 63). Sūkta 26 Ṛk 1 Pratipadārtha end, Bhāvārtha, printed English, Special Topics (p. 61); Ṛk 2 Saṃhitā, Pada, bhāṣya and Special Topics begun (pp. 62-63, breaks off at 'ಮುನ್ನುಗ್ಗಿ' in the supplied text). Hand fix to kn.md: garbled Pada label replaced by the standard one. Unmarked supplied slips: ಕೃಣುಷ್ಟ/ಕೃಣಷ್ಟ್ವ, ಹಃ for ಹವಿಃ, ಮನ್ನುಗ್ಗಿ, ಪರಿಸುವ, ಇಚ್ಛನ್ನೇನ, ಯಂಜತಿ, ಮೊಬಲನೆಯದಾದ, ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ
