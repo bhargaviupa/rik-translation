@@ -25991,4 +25991,112 @@ Since seven kinds are said to exist in the Parjanyas, or clouds, "seven-rayed" h
 
 ---
 
-**Progress note:** Done through printed p. 677 (PDF 700); header offset −23 holds. Sūkta 12: Ṛk 12 is complete (Pratipadārtha finished, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu over pp. 675–677, with the seven Parjanya names). Ṛk 13 is open: Saṃhitā, Pada, bhāṣya with gist and the Pratipadārtha are written, the last breaking off after "सोमपाः—" at the foot of p. 677; the next batch begins on p. 678 with the rest of that Pratipadārtha (from "यः सोमपाः…"). No grammar pages. FILE DISAGREE: none (Ni. 2-21 agrees; Ṛ. Saṃ. 1-103 agrees, the final "-2" read from the strip; Ṛ. Saṃ. 7-66-1 on p. 677 read as 7 with the file giving "7.661"). Unzoomed numerals: Taittirīya-Āraṇyaka 1-9-4,5 (file agrees), headers of pp. 675–677 (Sūkta 12, varga 9) and the Ṛk number 13. [?] places: "अस्मा" in the Ṛk 13 bhāṣya (probably for अस्मै); "अशु" in the श्वापयः explanation (p. 676); the Kannada word "ಪ್ರವಿಸತಕ್ಕ" (p. 675).
+### Printed p. 678 (PDF 701)
+
+*(Header: "678", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12" [numerals unzoomed]. The Pratipadārtha of Ṛk 13 continues from p. 677.)*
+
+सोमपाः (*somapāḥ*)—one who drinks Soma juice; निचितः (*nicitaḥ*)—firm of body; वज्रबाहुः (*vajrabāhuḥ*)—one whose arms are like the vajra weapon; यः (*yaḥ*)—who; वज्रहस्तः (*vajrahastaḥ*)—one who holds the vajra weapon in his hand; सः (*saḥ*)—he; इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+Both heaven and earth bow to this Indra with humility. And the mountains are afraid through this Indra's strength alone. He who drinks Soma juice, who is firm of body, whose arms are like the vajra weapon, and who holds the vajra weapon in his hand: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, to whom heaven and earth bow down; he, at whose might the mountains are appalled; he, who is the drinker of the Soma juice, the firm (of frame), the adamant-armed, the wielder of the thunderbolt; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Indra's great power and strength are stated. Heaven and earth bow to Indra. The ṛṣi has described Indra's surpassing power by saying that the mountains (or clouds) are afraid on seeing Indra's strength.
+
+पर्वताः (*parvatāḥ*)—mountains or clouds. Because the word पर्वत (*parvata*) is read among the names of cloud, two kinds of meaning, "clouds" and "mountains", can be given here.
+
+सोमपाः (*somapāḥ*)—We have already described Indra's Soma-drinking at length earlier. It has been said often that among the Soma-drinking deities Indra is the foremost, and that Indra has a great fondness for Soma-drinking. For the Soma-drinking he is invited more than all the other deities.
+
+वज्रबाहुः वज्रहस्तः (*vajrabāhuḥ vajrahastaḥ*)—These two words have the same meaning. Since this is so within one sentence, the bhāṣyakāra has explained the word वज्रबाहुः (*vajrabāhuḥ*) as "having arms like the vajra, that is, firm like the vajra (having greater strength of arm)", and the word वज्रहस्तः (*vajrahastaḥ*) as "holding the vajra weapon in his hand".
+
+---
+
+### Printed p. 679 (PDF 702)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [unzoomed], "Ṛgvedasaṃhitā", "679".)*
+
+#### Ṛk 14
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यः सु॒न्वन्त॑मव॑ति॒ यः प॒चन्तं॒ यः शंस॑न्तं॒ यः श॑शमा॒नमू॒ती ।
+> यस्य॒ ब्रह्म॒ वर्ध॑नं॒ यस्य॒ सोमो॒ यस्यैदं॒ राधः॒ स ज॑नास॒ इन्द्रः॑ ॥ १४ ॥
+
+> *yaḥ su̱nvanta̭mava̭ti̱ yaḥ pa̱canta̱ṃ yaḥ śaṃsa̭nta̱ṃ yaḥ śa̭śamā̱namū̱tī |*
+> *yasya̱ brahma̱ vardha̭na̱ṃ yasya̱ somo̱ yasyaida̱ṃ rādha̱ḥ sa ja̭nāsa̱ indra̭ḥ ‖ 14 ‖*
+
+*(Reading note: the fourth word of the second line is printed with the sign for ai [ೈ], giving "यस्यैदं"; the Pada has "इदं", and the bhāṣya's "यस्य च इदम्" suggests "यस्येदं" [?]. Written as printed.)*
+
+**॥ पदपाठः ॥**
+
+> यः । सुन्वन्तं । अवति । यः । पचन्तं । यः । शंसन्तं । यः । शशमानं । ऊती ।
+> यस्य । ब्रह्म । वर्धनं । यस्य । सोमः । यस्य । इदं । राधः । सः । जनासः । इन्द्रः ॥ १४ ॥
+
+> *yaḥ | sunvantaṃ | avati | yaḥ | pacantaṃ | yaḥ | śaṃsantaṃ | yaḥ | śaśamānaṃ | ūtī |*
+> *yasya | brahma | vardhanaṃ | yasya | somaḥ | yasya | idaṃ | rādhaḥ | saḥ | janāsaḥ | indraḥ ‖ 14 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra protects the sacrificer pressing Soma, the one who cooks the oblations, the one who prays and the one who praises; the stotra, Soma and food make him grow.*
+
+> यः सुन्वन्तं सोमाभिषवं कुर्वन्तं यजमानमवति । रक्षति । यश्च पुरोडाशादीनि हवींषि पचन्तं । यश्चोती ऊतये ॥ सुपां सुलुगिति चतुर्थ्याः पूर्वसवर्णदीर्घः ॥ स्वरक्षायै शस्त्राणि शंसन्तं यश्च शशमानमवति । स्तोत्रं कुर्वाणं रक्षति । ब्रह्म परिवृढं स्तोत्रं यस्य वर्धनं वृद्धिकरं भवति । तथा यस्य सोमो वृद्धिहेतुर्भवति । यस्य चेदमस्मदीयं राधः पुरोडाशादिलक्षणमन्नं वृद्धिकरं भवति । स इन्द्र इत्यादि प्रसिद्धम् ॥
+
+> *yaḥ sunvantaṃ somābhiṣavaṃ kurvantaṃ yajamānamavati | rakṣati | yaśca puroḍāśādīni havīṃṣi pacantaṃ | yaścotī ūtaye ‖ supāṃ sulugiti caturthyāḥ pūrvasavarṇadīrghaḥ ‖ svarakṣāyai śastrāṇi śaṃsantaṃ yaśca śaśamānamavati | stotraṃ kurvāṇaṃ rakṣati | brahma parivṛḍhaṃ stotraṃ yasya vardhanaṃ vṛddhikaraṃ bhavati | tathā yasya somo vṛddhiheturbhavati | yasya cedamasmadīyaṃ rādhaḥ puroḍāśādilakṣaṇamannaṃ vṛddhikaraṃ bhavati | sa indra ityādi prasiddham ‖*
+
+*(Reading note: "परिवृढं" is read as printed [Kannada ಪರಿವೃಢಂ]. The grammatical remark "सुपां सुलुक्…" explains the ending of ऊती for ऊतये, the lengthening of the preceding similar vowel in the dative; characterised only, the sūtra number is not printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. सुन्वन्तं (*sunvantaṃ*)—the sacrificer who presses Soma juice. अवति (*avati*)—protects. यः (*yaḥ*)—who. पचन्तं (*pacantaṃ*)—protects the one who cooks the purodāśa and the like. यः (*yaḥ*)—who. ऊती (*ūtī*)—for protection. शंसन्तं (*śaṃsantaṃ*)—protects the one who prays. यः (*yaḥ*)—who. शशमानं (*śaśamānaṃ*)—protects the one who praises (and). यस्य (*yasya*)—to whom. ब्रह्म (*brahma*)—praise. वर्धनं (*vardhanaṃ*)—is a cause of growth. यस्य (*yasya*)—to whom. सोमः (*somaḥ*)—the drinking of the Soma juice is a cause of growth. यस्य (*yasya*)—to whom. इदं (*idaṃ*)—this, given by us. राधः (*rādhaḥ*)—the purodāśa and the like are a cause of growth. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who protects the sacrificer who presses Soma juice, who protects the one who cooks the purodāśa and the like, who protects those who ask for protection, who protects the praiser, and to whom the stotra, the Soma juice and the purodāśa and the like are causes of growth: he is Indra.
+
+---
+
+### Printed p. 680 (PDF 703)
+
+*(Header: "680", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12" [numerals unzoomed].)*
+
+**English Translation** *(as printed)*
+
+He, who protects (the worshipper) offering the libation, or preparing (the mixed curds and butter), repeating his praise and soliciting his assistance; he, of whom the sacred prayer, the (offered) Soma juice, the (presented sacrificial) food, augment (the vigour); he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is stated that Indra becomes pleased by the oblations and the like which the yajamāna and the ṛtvigs make and offer.
+
+यः सुन्वन्तं अवति—सोमाभिषवं कुर्वन्तं यजमानमुवः (*yaḥ sunvantaṃ avati—somābhiṣavaṃ kurvantaṃ yajamānamuvaḥ*) *(as printed; the bhāṣya has "यजमानमवति" [sic])*. Since Soma-drinking gives Indra pleasure, Indra protects the yajamāna who presses and prepares Soma juice in order to offer it to Indra in the yajña.
+
+यः पचन्तं यः शंसन्तं यः शशमान ऊती पुरोडाशादिहवींषि पचन्तं, ऊतये स्वरक्षायै शस्त्राणि शंसन्तं स्तोत्रं कुर्वाणं रक्षति (*yaḥ pacantaṃ yaḥ śaṃsantaṃ yaḥ śaśamāna ūtī puroḍāśādihavīṃṣi pacantaṃ, ūtaye svarakṣāyai śastrāṇi śaṃsantaṃ stotraṃ kurvāṇaṃ rakṣati*). It should not be understood that Indra protects only the yajamāna who performs the sacrifice. The meaning is that he protects and cherishes the ṛtvij who cooks (bakes) in the fire the oblations and the like to be offered to Indra in the yajña; the ṛtvij called hotṛ who recites the śastra-mantras for Indra's pleasure; and the other ṛtvijs and the like who pray to Indra for their own protection.
+
+यस्य ब्रह्म वर्धनं यस्य सोमः यस्य इदं राधः (*yasya brahma vardhanaṃ yasya somaḥ yasya idaṃ rādhaḥ*)—In this sentence the meaning stated above is stated in another manner. It has only been said that Indra protects the yajamāna and the ṛtvigs. The reason is that the stotra made by the ṛtvigs or the yajamānas is growth-producing for Indra, that is, pleasing. In the same way the Soma juice and the oblations and the like which they offer are growth-producing for Indra. Therefore the ṛṣi explains that Indra protects such people, the yajamānas and others, who praise him.
+
+---
+
+#### Ṛk 15
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents are not reproduced. The Ṛk number "१५" is read from the strip, unzoomed.)*
+
+**॥ संहितापाठः ॥**
+
+> यः सु॑न्व॒ते प॑च॒ते दु॒ध्र आ चि॒द्वाजं॑ द॒र्दर्षि॒ स किला॑सि स॒त्यः ।
+> व॒यं त॑ इन्द्र वि॒श्वह॑ प्रि॒यासः॑ सु॒वीरा॑सो वि॒दथ॒मा व॑देम ॥ १५ ॥
+
+> *yaḥ sṷnva̱te pa̭ca̱te du̱dhra ā ci̱dvāja̭ṃ da̱rdarṣi̱ sa kilā̭si sa̱tyaḥ |*
+> *va̱yaṃ ta̭ indra vi̱śvaha̭ pri̱yāsa̭ḥ su̱vīrā̭so vi̱datha̱mā va̭dema ‖ 15 ‖*
+
+*(Ṛk 15 is open: its Padapāṭha begins on p. 681.)*
+
+---
+
+**Progress note:** Done through printed p. 680 (PDF 703); header offset −23 holds. Sūkta 12: Ṛk 13 is complete (rest of the Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on p. 678). Ṛk 14 is complete (Saṃhitā, Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha on p. 679; printed English and Viśeṣaviṣayagaḷu on p. 680). Ṛk 15 is open: only its Saṃhitā is written (foot of p. 680); the next batch begins on p. 681 with its Padapāṭha. No grammar pages. FILE DISAGREE: none (the numeral file has no rows for these pages). Unzoomed numerals: headers of pp. 678–680 (Sūkta 12, varga 9), Ṛk numbers 14 and 15. [?] places: "यस्यैदं" in the Ṛk 14 Saṃhitā (printed with the ai-sign; Pada and bhāṣya have इदम्); "परिवृढं" in the Ṛk 14 bhāṣya; "यजमानमुवः" in the Viśeṣaviṣaya heading (printed so; bhāṣya has यजमानमवति).
