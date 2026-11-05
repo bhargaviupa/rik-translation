@@ -17989,6 +17989,121 @@ By his very birth Agni lit up both heaven and earth. He became the praiseworthy 
 
 By his birth he lighted up both heaven and earth; he was the praiseworthy son of his parents; the undecaying Agni, the bearer of oblations, the giver of food, the guest of men, the affluent in radiance.
 
+### Printed p. 570
+
+*[Running head, p. 570: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+दूळभः (*dūḷabhaḥ*)—हिंसितुमशक्यः (*hiṃsitumaśakyaḥ*), one who cannot be harmed. Agni is able to burn everything with his scorching power, but no one is able to harm him.
+
+Atithi: Yāska has given two or three meanings for this word.
+
+⟦ಅತಿಥಿರಭ್ಯತಿತೋ ಗೃಹಾನ್ ಭವತಿ । ಅಭ್ಯೇತಿ ತಿಥಿಷು ಪರಕುಲಾನೀತಿ ವಾ ಪರಗೃಹಾಣೀತಿ
+ವಾ । ಆಯಮಪೀತರೋಽತಿಥಿರೇತಸ್ಮಾದೇವ ॥⟧ (Ni. 4-5)
+
+That is, he who comes seeking houses is called atithi (guest); or he comes to the houses of sacrificers on the tithis such as the full-moon day. Since Agni too behaves like the guest, he too is a guest: thus two kinds of meaning are explained.
+
+विभावसुः (*vibhāvasuḥ*)—प्रभाधनः (*prabhādhanaḥ*): one whose wealth is radiance or splendour; the meaning is that his very nature is distinguished by splendour, as in तपोधन (*tapodhana*) (one whose wealth is austerity).
+
+*[Garbled label as supplied before the next Saṃhitā: "॥ ಸಂಜಾತಾಪಹಾ ॥" (for Saṃhitā-pāṭha); the standard label was inserted and the Saṃhitā made a block.]*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> क्रत्वा॒ दक्ष॑स्य॒ तरु॑षो॒ विध॑र्मणि दे॒वासो॑ अ॒ग्निं ज॑नयंत॒ चित्ति॑भिः ।
+> रु॒रु॒चा॒नं भा॒नुना॒ ज्योति॑षा म॒हामत्यं॒ न वाजं॑ सनि॒ष्यन्नुप॑
+> ब्रुवे ॥ ३ ॥
+
+> *kratvā dakṣasya taruṣo vidharmaṇi devāso agniṃ janayaṃta cittibhiḥ |*
+> *rurucānaṃ bhānunā jyotiṣā mahāmatyaṃ na vājaṃ saniṣyannupa*
+> *bruve ‖ 3 ‖*
+
+*[Garbled label as supplied before the Pada: "॥ ಚಡಪ ॥" (for Pada-pāṭha), kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> क्रत्वा । दक्षस्य । तरुषः । विधर्मणि । देवासः । अग्निं । जनयंत । चित्तिभिः ।
+> रुरुचानं । भानुना । ज्योतिषा । महां । अत्यं । न । वाजं । सनिष्यन् । उप ।
+> ब्रुवे ॥ ३ ॥
+
+> *kratvā | dakṣasya | taruṣaḥ | vidharmaṇi | devāsaḥ | agniṃ | janayaṃta | cittibhiḥ |*
+> *rurucānaṃ | bhānunā | jyotiṣā | mahāṃ | atyaṃ | na | vājaṃ | saniṣyan | upa |*
+> *bruve ‖ 3 ‖*
+
+*[Garbled label as supplied before the bhāṣya: "। ಸಾಯಣಭಾಷ್ಯ ।" (for Sāyaṇa-bhāṣya), kept as a note in kn.md; the bhāṣya was put into a `>` block.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> चित्तिभिर्ज्ञानैरुपलक्षिता देवासो देवास्तरुषो व्यसनेभ्यस्तारकस्य दक्षस्य
+> बलस्य क्रत्वा कर्मणा विधर्मणि विधारके यज्ञेग्निं जनयंत । अजनयन् । भानुना
+> भासमानेन ज्योतिषा रुरुचानं रोचमानं महां महांतमग्निमत्यं न भारसहमश्वमिव वाजमन्नं सनिष्यन् लिप्समानोऽहमुप ब्रुवे । स्तौमि ॥
+
+*(Gist: wise gods generated Agni in the sacrifice by their rite; desiring food, I praise the great, radiant Agni like a burden-bearing horse.)*
+
+### Printed p. 571
+
+*[Running head, p. 571: Aṣṭaka 2, Adhyāya 8, Varga 17, Ṛgvedasaṃhitā.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Cittibhiḥ: endowed with knowledge. Devāsaḥ: the gods. Taruṣaḥ: who carry across from sorrow. Dakṣasya: of strength. Kratvā: by the rite. Vidharmaṇi: in the sacrifice, which is of the nature of upholding. Agniṃ: Agni. Janayanta: they produced. Vājaṃ: food. Saniṣyan: I who desire. Bhānunā: shining. Jyotiṣā: with radiance. Rurucānaṃ: him who shines. Mahāṃ: Agni, who has great qualities. Atyaṃ na: as one praises a horse able to bear a burden. Upa bruve: I praise.
+
+**भावार्थ (Bhāvārtha)**
+
+The gods, endowed with knowledge, caused Agni to be produced in the sacrifice, which is of the nature of upholding, by the rite of the strength that carries across from sorrow. I, desiring food, praise Agni, who shines with shining radiance and has great qualities, as one praises a horse able to bear a burden.
+
+**Printed English translation**
+
+The gods, (endowed) with intelligence, gave birth to Agni in the multiform rite by the exertion of preserving strength : desirous of food, I eulogise thc great Agni, bright with solar effulgence, and (vigorous) as a horse.
+
+*[The printed English reads "thc" for "the", as supplied.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಚಿತ್ತಿಭಿಃ ದೇವಾಸಃ ತರುಷಃ ದಕ್ಷಸ್ಯ ಕ್ರತ್ವಾ ವಿಧರ್ಮಣಿ ಅಗ್ನಿಂ ಜನಯಂತ—ಜ್ಞಾನೈರುಪಲಕ್ಷಿ
+ತಃ ದೇವಾಃ ವ್ಯಸನೇಭ್ಯಸ್ತಾರಕಸ್ಯ ಬಲಸ್ಯ ಕರ್ಮಣಾ ಯಜ್ಞೇ ಅಗ್ನಿಂ ಅಜನಯನ್ ।⟧ Its sense: the gods, who are endowed with knowledge, that is, who have understanding, produced Agni in the sacrifice by the best rites, capable of destroying sorrow. That is, the gods have great understanding; they know the many kinds of rites and the ways of performing them. Therefore they produced Agni in the sacrifice by the best rites, which bring relief from sorrow: this is the meaning.
+
+The word dakṣa is read among the names of strength (Ni. 3-9). The word kratu is read among the names of rite (Ni. 3-1) and also among the names of intelligence (Ni. 3-13). Here it is used in the sense of rite.
+
+⟦ವಾಜಂ ಸನಿಷ್ಯನ್ ಭಾನುನಾ ಜ್ಯೋತಿಷಾ ರುರುಚಾನಂ ಮಹಾಂ ಅತ್ಯಂ ನ ಉಪ
+ಬ್ರುವೇ—ಭಾಸಮಾನೇನ ಜ್ಯೋತಿಷಾ ರೋಚಮಾನಂ ಮಹಾಂತಮಗ್ನಿಂ ಭಾರಸಹಮಶ್ವಮಿವ ಅನ್ನಂ⟧
+
+### Printed p. 572
+
+*[Running head, p. 572: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+लिप्समानोऽहं सौमि । (*lipsamāno 'haṃ saumi |*) (as supplied; the bhāṣya has ಸ್ತೌಮಿ.) I praise Agni, who shines with great radiance, as one praises a horse that bears a burden, desiring food. A horse that bears a burden is useful to everyone, so everyone praises it; in the same way, since Agni is wanted by everyone, I shall stand near and praise Agni, who shines with such great radiance: this is the meaning.
+
+The word vāja is read among the names of food (Ni. 3-9); the word bhānu is read among the names of day (Ni. 2-20); in place of mahān there is here the form mahāṃ. This is a Vedic usage. The word atya is read among the names of the horse (Ni. 2-27); the word, derived from the root आत सातत्यगमने (*āta sātatyagamane*), means a creature able to move about continually, so atya means the horse. There is also the explanation अत्याः अतनाः (*atyāḥ atanāḥ*) (Ni. 4-13).
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> आ मं॒द्रस्य॑ सनि॒ष्यंतो॒ वरे॑ण्यं वृणी॒महे॒ अह्र॑यं॒ वाज॑मृ॒ग्मियं॑।
+> रा॒तिं भृगू॑णामु॒ जं॑ क॒विक्र॑तुम॒ग्निं राजं॑तं दि॒व्येन॑ शो॒चिषा॑ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । मंद्रस्य । सनिष्यंतः । वरेण्यं । वृणीमहे । अह्रयं । वाजं । यग्नियं ।
+> रातिं । भृगूणां । उशिजं । कविक्रतुं । अग्निं । राजंतं । दिव्येन । शोचिषा ॥ ४ ॥
+
+*(The Pada is printed ಯಗ್ನಿಯಂ and ಉಶಿಜಂ, and the Saṃhitā has ಭೃಗೂಣಾಮು ಜಂ, as supplied; the bhāṣya has ಋಗ್ಮಿಯಂ and ಉಶಿಜಂ.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> मंद्रस्य स्तुत्यस्य वैश्वानरस्य संबंधिनं वरेण्यं वरणीयमह्रयमलज्जावहं
+> ऋग्मियं प्रशस्यं वाजमन्नं सनिष्यंतो लिप्समाना वयं भृगूणामृषीणां रातिमभिलषितार्थप्रदातारमुशिजमभिलष्यंतं कविक्रतुं क्रांतप्रज्ञं दिव्येन दिविभवेन
+> शोचिषा रोचिषा राजंतं भ्राजमानमग्निमावृणीमहे । संभजामहे ॥
+
+*(Gist: wishing for food, we choose Agni, who bestows the Bhṛgus' desired boons, praiseworthy, wise and shining with divine light, and the blameless, praiseworthy food of Vaiśvānara.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Mandrasya: belonging to the praised Vaiśvānara; varenyaṃ: the most excellent; ahryayaṃ [printed so; the Saṃhitā has ahrayam]: free from shame; ṛgmiyaṃ: praiseworthy. Vājaṃ: food.
+
 ---
 
-**Progress note:** Done through printed p. 569 (PDF 569). Sūkta 2 Ṛk 1 word notes end; Ṛk 2 complete up to Special Topics
+**Progress note:** Done through printed p. 572 (PDF 572). Sūkta 2 Ṛk 2 Special Topics; Ṛk 3 complete; Ṛk 4 begun (Pratipadārtha cut mid-list); 3 accent DIFF lines in review report
