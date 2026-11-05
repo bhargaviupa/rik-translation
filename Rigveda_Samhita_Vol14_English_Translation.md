@@ -27331,4 +27331,134 @@ Or else the commentator says another meaning can be given to this sentence: for 
 
 ---
 
-**Progress note:** Done through printed p. 713 (PDF 736). Sūkta 13: Ṛk 11 is complete (Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English, and Viśeṣaviṣayagaḷu ending on p. 712 with a short rule). Ṛk 12 is OPEN: Saṃhitā, Pada, bhāṣya and Pratipadārtha are written; the next page (p. 714) should begin with its Bhāvārtha. No grammar pages. Numeral file: only the "Ni. 3-1" on p. 712 had a row and it agrees; the Nirukta reference after "सहस्" on p. 712 was not in the file and is given as "3-9 [?]" from the strip, unzoomed. Unzoomed numerals: headers of pp. 711–713 and the Ṛk 12 number. [?] places: the join "श्रवयन्त्सास्युक्थ्यः" in the Saṃhitā; the clause "चक्षुर्दानादसंगु…करणाच्छ्रोदनयः" in the bhāṣya; "यो चकर्थ" printed in the Viśeṣa (Saṃhitā has "या चकर्थ"); the Pada compound signs in "सरऽअपसः" and "पराऽवृजं". Accent marks are not reproduced.
+### Printed p. 714 (PDF 737)
+
+*(Header, read from the strip and not zoomed: "714", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13". The page opens with the Bhāvārtha of Ṛk 12.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, for the royal sage called Turvīti and for the man called Vayya you made a path, so that they could cross the flowing rivers with ease. Making your fame shine forth, you protected from distress and lifted upward the one called Parāvṛk, who had fallen into the lower part (a pit), who was blind and who was lame. Such a one as you are worthy of praise.
+
+**English Translation** *(as printed)*
+
+You have provided a passage for the easy crossing of the flowing waters for Turviti and for Vayya: rendering (yourself) renowned, you have uplifted the blind and lame Paravrij from the lowliness (of affliction); you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अरमयः (*aramayaḥ*) (*aramayaḥ*)—explained as अक्रीडयः (*akrīḍayaḥ*) (*akrīḍayaḥ*, "you made sport"). Although the verbal root रमु क्रीडायां (*ramu krīḍāyāṃ*) (*ramu krīḍāyāṃ*, to sport) has the meanings "to take pleasure, to play", here the meaning "you made (it) for sport" (*krīḍārthavāgi*, as printed) can be given.
+
+सरपसः (*sarapasaḥ*) (*sarapasaḥ*)—the Pada-writer has divided this word as सरऽअपसः (*sara 'apasaḥ*) (*sara 'apasaḥ*, compound sign as printed): that is, the two words सर (*sara*) + अपसः (*apasaḥ*) joined must be सरापसः (*sarāpasaḥ*) (*sarāpasaḥ*). For the convenience of the metre the letter *ra* (as printed; the vowel is meant) was shortened, and it became सरपसः (*sarapasaḥ*). Sāyaṇa explains this word as सरणमपः कर्म यासां ताः सरपसः (*saraṇamapaḥ karma yāsāṃ tāḥ sarapasaḥ*) (*saraṇamapaḥ karma yāsāṃ tāḥ sarapasaḥ*), that is, "rivers that have the action of running or flowing, whose nature is to flow".
+
+*(The Kannada text now quotes the bhāṣya on the Ṛk again, with its meaning added:)*
+
+> (हे इन्द्र) तुर्वीतये च वय्याय च सरपसः कं तराय स्रुतिं अरमयः—
+> सरपसः प्रवहणशीलाः अपः कं सुखेन तराय तुर्वीतये तुर्वीतिर्नाम कश्चिद्राजर्षिः । तस्मै वय्याय च । वय्यो नाम कश्चित् तस्मै ताभ्यां स्रुतिं सरणं प्रत्यरमयः । तौ हि जलपूर्णां महानदीं दृष्ट्वैव तरीतुमसमर्थावास्तां । तौ च त्वया तारितौ ॥
+
+> *(he indra) turvītaye ca vayyāya ca sarapasaḥ kaṃ tarāya srutiṃ aramayaḥ—*
+> *sarapasaḥ pravahaṇaśīlāḥ apaḥ kaṃ sukhena tarāya turvītaye turvītirnāma kaścidrājarṣiḥ | tasmai vayyāya ca | vayyo nāma kaścit tasmai tābhyāṃ srutiṃ saraṇaṃ pratyaramayaḥ | tau hi jalapūrṇāṃ mahānadīṃ dṛṣṭvaiva tarītumasamarthāvāstāṃ | tau ca tvayā tāritau ‖*
+
+The sense of the passage, in the Kannada: "O Indra, you made a path for Turvīti and Vayya to cross with ease the river flowing full of water." Turvīti is a royal sage; Vayya is a man. When the two, unable to cross the river flowing full of flood, were helpless, you made them cross: this is the commentator's explanation.
+
+तुर्वीतये, वय्याय (*turvītaye, vayyāya*) (*turvītaye, vayyāya*)—it is necessary here to describe the matter of Turvīti and Vayya. In the present Ṛk the commentator says that Turvīti is a royal sage and that Vayya is a man. But in Ṛ. Saṃ. 1-54-6 the
+
+*(continues on p. 715; the sentence breaks at "the")*
+
+---
+
+### Printed p. 715 (PDF 738)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 12 ]", "Ṛgvedasaṃhitā", "715".)*
+
+commentator, speaking of Vayya and Turvīti, says वय्यकुलजं तुर्वीतिनामानं राजानं (*vayyakulajaṃ turvītināmānaṃ rājānaṃ*) (*vayyakulajaṃ turvītināmānaṃ rājānaṃ*)—"the king named Turvīti, born in Vayya's family". Some say that Turvīti is Vayya's son. The Aśvin gods protected this Vayya and also Karkandhu; this is said in the Ṛk (Ṛ. Saṃ. 1-112-6, as printed; agrees with the numeral file):
+
+> याभिः कर्कंधुं वय्यं च जिन्वथस्ताभिरू षु ऊतिभिरश्विना गतं ।
+
+> *yābhiḥ karkaṃdhuṃ vayyaṃ ca jinvathastābhirū ṣu ūtibhiraśvinā gataṃ |*
+
+So it is said in that Ṛk. Concerning these two, Skandasvāmi says in his Ṛgveda commentary:
+
+> कर्कंधुः वय्यश्च राजर्षी अतिक्लान्तौ तपस्तप्यमानौ यदृच्छया पर्यटन्तावश्विनौ दद्दृशतुः । दृष्ट्वा च तावमृतेनाप्याययांचक्रतुरिति तदेतदिहोच्यते ॥
+
+> *karkaṃdhuḥ vayyaśca rājarṣī atiklāntau tapastapyamānau yadṛcchayā paryaṭantāvaśvinau dadṛśatuḥ | dṛṣṭvā ca tāvamṛtenāpyāyayāṃcakraturiti tadetadihocyate ‖*
+
+*(Reading note: "दद्दृशतुः" is read as printed; "अतिक्लान्तौ" and "पर्यटन्तौ" are read from conjuncts that are hard to make out [?].)*
+
+The sense: the royal sages Karkandhu and Vayya were practising extremely painful austerity and wandering in the forest, when the Aśvin gods saw them by chance. Afterwards they gave them satisfaction by the gift of nectar (*amṛta*). So it is said. And—
+
+> ईशानकृद्दाशुषे दशस्यन्तुर्वीतये गाधं तुर्वणिः कः ।
+
+> *īśānakṛddāśuṣe daśasyanturvītaye gādhaṃ turvaṇiḥ kaḥ |*
+
+*(Ṛ. Saṃ. 1-61-11, as printed; agrees with the numeral file.)* In this Ṛk it is said that Indra helped Turvīti to cross the river-streams.
+
+> त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो ।
+
+> *tvamāvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato |*
+
+*(Ṛ. Saṃ. 1-54-6, as printed; agrees with the numeral file.)* In this Ṛk it is said that Indra protected Turvīti and Vayya.
+
+> त्वं महीमवनिं विश्वधेनां तुर्वीतये वय्याय क्षरन्तीं[?] ।
+
+> *tvaṃ mahīmavaniṃ viśvadhenāṃ turvītaye vayyāya kṣarantīṃ[?] |*
+
+*(Reading note: the word printed before the end of the line looks like "स्वरन्तीं"; I give "क्षरन्तीं" with doubt [?]. Ṛ. Saṃ. 4-19-6, as printed; agrees with the numeral file.)*
+
+In this Ṛk too it is said that Indra made Turvīti and Vayya cross the flowing river. Besides this, the matter of Turvīti is mentioned in the Ṛks Ṛ. Saṃ. 1-36-18 and 1-112-23, and the matter of Vayya in the Ṛks Ṛ. Saṃ. 2-3-6 and 9-68-8 (all as printed; agree with the numeral file, not zoomed). The opinion of the scholar Ludwig is that Turvīti was a king of the people (tribes) called Turvaśas and Yadus. But there is no support at all for this. It can only be said that Turvīti belonged to the group of the Turvaśas.
+
+नीचा संतं उत् अनयः परावृजं प्र अंधं श्रोणं श्रवयन् (*nīcā saṃtaṃ ut anayaḥ parāvṛjaṃ pra aṃdhaṃ śroṇaṃ śravayan*) (*nīcā saṃtaṃ ut anayaḥ parāvṛjaṃ pra aṃdhaṃ śroṇaṃ śravayan*)—
+
+> परितः पापानि वृणक्ति दहतीति परावृक् कश्चिदृषिः । तमप्सु मग्नं तथा नीचा नीचं संत-
+
+> *paritaḥ pāpāni vṛṇakti dahatīti parāvṛk kaścidṛṣiḥ | tamapsu magnaṃ tathā nīcā nīcaṃ saṃta-*
+
+*(the line breaks here; the quotation continues on p. 716)*
+
+---
+
+### Printed p. 716 (PDF 739)
+
+*(Header, read from the strip and not zoomed: "716", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 3 Sū. 13" — the second numeral looks like 3 here; not zoomed [?].)*
+
+> मुदनयः । आपद्भ्य ऊर्ध्वं नीतवानसि । किंच अंधं संतं श्रोणं पंगुं संतं चक्षुर्दानादपंगुकरणाच्छ्रोदनयः । किं कुर्वन् आत्मानं कीर्तिमंतं कुर्वन् ॥
+
+> *mudanayaḥ | āpadbhya ūrdhvaṃ nītavānasi | kiṃca aṃdhaṃ saṃtaṃ śroṇaṃ paṃguṃ saṃtaṃ cakṣurdānādapaṃgukaraṇācchrodanayaḥ | kiṃ kurvan ātmānaṃ kīrtimaṃtaṃ kurvan ‖*
+
+*(Reading note: here the clause about the blind and the lame is printed clearly as "चक्षुर्दानादपंगुकरणाच्छ्रोदनयः"; this corrects the doubtful reading "असंगु[?]करणाच्छ्रोदनयः" written for the same phrase in the bhāṣya on p. 713. "-मुदनयः" follows "संत-" on the previous page: "संतमुदनयः".)*
+
+Parāvṛk is a great sage. Because by his power he has the capacity to burn up the sins on all sides so that they do not envelop him, he is called Parāvṛk. He was lame, and being blind, unable to see, he had fallen into a lower place (or a pit). He praised Indra, and Indra, pleased with his hymn, lifted him up and protected him: the sage describes this matter here. The matter of this sage (is stated) in—
+
+> याभिः शचीभिर्वृषणा परावृजं प्रांधं श्रोणं चक्षस एतवे कृथः ।
+
+> *yābhiḥ śacībhirvṛṣaṇā parāvṛjaṃ prāṃdhaṃ śroṇaṃ cakṣasa etave kṛthaḥ |*
+
+*(Ṛ. Saṃ. 1-112-8, as printed; no row in the numeral file, read from the strip, not zoomed.)* In this Ṛk the Aśvin gods, just as in the present Ṛk, are said to have protected Parāvṛja, who was blind and lame, by giving him legs and eyes.
+
+> स विद्वाँ अपगोहं कनीनामाविर्भवन्नुदतिष्ठत् परावृक् ।
+> प्रति श्रोणः स्थाद्व्यनगचष्ट सोमस्य ता मद इन्द्रश्चकार ॥
+
+> *sa vidvāṃ apagohaṃ kanīnāmāvirbhavannudatiṣṭhat parāvṛk |*
+> *prati śroṇaḥ sthādvyanagacaṣṭa somasya tā mada indraścakāra ‖*
+
+*(Reading note: a small mark printed between "स्थाद्व्य" and "नगचष्ट" is the accent sign "१"; it is not reproduced, and the word-division is left as printed. Ṛ. Saṃ. 2-15-7, as printed; agrees with the numeral file.)*
+
+In this Ṛk it is said that because Indra, having drunk soma, was exhilarated, the sage called Parāvṛk, who was lame and blind, got eyes and legs.
+
+> सरत्पदा न दक्षिणा परावृज्न ता नु नो[?] पृशन्यो जगृभ्रे ।
+
+> *saratpadā na dakṣiṇā parāvṛjna tā nu no[?] pṛśanyo jagṛbhre |*
+
+*(Reading note: "नो" is read from the strip with doubt [?]; "परावृज्न" is as printed. Ṛ. Saṃ. 10-61-8, as printed; agrees with the numeral file.)*
+
+In this Ṛk the word परावृक् (*parāvṛk*) occurs, but Sāyaṇa has explained this word as परावर्जयिता सन् (*parāvarjayitā san*) (*parāvarjayitā san*, "being one who casts off"). Some among the English scholars hold that the word परावृक् (*parāvṛk*) in this Ṛk refers to the sage spoken of above, and that the matter of his going to the south is spoken of here—
+
+*(The Kannada introduces the following passage printed in English, with the Kannada-script word परावृज् (*parāvṛj*) set in it:)*
+
+परावृज् (*parāvṛj*, printed in Kannada script) is a term found in four passages of the Rigveda; in all of which it refers to a person in a forlorn condition while one of them also speaks of him as going South. Sayanas' view that the world [sic: "word"] is a proper name is most unlikely, while Grassmann's explanation of it as cripple is still less probable. Roth's interpretation of it as exile seems clearly right in the passage which refers to the परावृज् (*parāvṛj*, Kannada script) as going south. Zimmer accepts Roth's view for this passage, but in the others sees a reference to the child of a maiden, exposed by her and in danger of being eaten by insects (वम्रि (*vamri*), Kannada script, as printed). This view is supported by the fact that परावृक्त[?] (*parāvṛkta*[?], Kannada script) seems to have the same sense and is accepted by Oldenberg,
+
+(Vedic Index of Names & Subjects by Macdonell and Keith. P. 492–493)
+
+*(The Viśeṣaviṣayagaḷu of Ṛk 12 is not yet closed on this page; the next page follows. The page has no grammar section.)*
+
+---
+
+**Progress note:** Done through printed p. 716 (PDF 739). Sūkta 13, Ṛk 12 is OPEN: its Bhāvārtha, printed English and most of the Viśeṣaviṣayagaḷu (arama­yaḥ, sarapasaḥ, turvītaye/vayyāya, Parāvṛk with the Vedic Index quotation ending "P. 492–493)") are written; p. 717 should show whether the Viśeṣa continues, the grammar section and the end of the Ṛk. Numeral file agreed with the strips on all rows (1-112-6, 1-61-11, 1-54-6, 4-19-6, 1-36-18, 1-112-23, 2-3-6, 9-68-8, 2-15-7, 10-61-8; none zoomed); 1-112-8 (p. 716) was not in the file, read from the strip, unzoomed. Headers of pp. 714–716 unzoomed (the Adhyāya digit of the p. 716 header looks like 3, doubtful). [?] places: "क्षरन्तीं" (Ṛ. Saṃ. 4-19-6 line, p. 715); "नो" in the 10-61-8 quotation; "परावृक्त" in the English quotation; "अतिक्लान्तौ/पर्यटन्तौ" in the Skandasvāmi quotation. The doubtful clause on p. 713, "चक्षुर्दानादसंगु[?]करणात्", is printed clearly on p. 716 as "चक्षुर्दानादपंगुकरणात्".
