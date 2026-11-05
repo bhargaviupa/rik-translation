@@ -14041,6 +14041,112 @@ The main intent is: in former times, that is, in very ancient times, the meaning
 
 बर्हिः (*barhiḥ*)—परिबर्हणात्, परिच्छेदनात् (*paribarhaṇāt, paricchedanāt*)—the *darbha* grasses are cut to one equal measure and spread soft on the sacrificial altar. Upon this, in order that the deities come and sit—
 
+### Printed p. 436
+
+*[Running head, p. 436: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+they invite, and they place upon it the ghee, oblations and other materials to be offered. The *darbha* spread in this way is called बर्हिः (*barhiḥ*). In this matter Yāska [the supplied text has "ಯಾಸ್ಕರು ಈ ವಿಷಯದಲ್ಲಿ ಯಾಸ್ಕರು", Yāska repeated]—
+
+⟦ಪ್ರಾಚೀನಂ ಬರ್ಹಿಃ ಪ್ರದಿಶಾ ಪೃಥಿವ್ಯಾ ವಸ್ತೋರಸ್ಸ್ಯಾ ವೃಜ್ಯತೇ ಅಗ್ರೇ ಅಹ್ನಾಂ ।
+ವ್ಯು ಪ್ರಥತೇ ವಿತರಂ ವರೀಯೋ ದೇವೇಭ್ಯೋ ಅದಿತಯೇ ಸ್ಯೋನಂ ॥⟧
+(Ṛ. Saṃ. 10-110-4)
+
+प्राचीनं बर्हिः प्रदिशा पृथिव्या वसनायास्याः प्रवृज्यते अग्रे अह्नां बर्हिः पूर्वाह्ने तद्विप्रथते वितरं विकीर्णतरमिति वा विस्तीर्णतरमिति ना वरियो वरतरमुरुतरं वा देवेभ्यश्चादितये च स्योनं । स्योनमिति सुखनाम स्यतेरवस्यंत्येतत् सेवितव्यं भवतीति वा ॥ (*prācīnaṃ barhiḥ pradiśā pṛthivyā vasanāyāsyāḥ pravṛjyate agre ahnāṃ barhiḥ pūrvāhne tadviprathate vitaraṃ vikīrṇataramiti vā vistīrṇataramiti nā variyo varataramurutaraṃ vā devebhyaścāditaye ca syonaṃ | syonamiti sukhanāma syateravasyaṃtyetat sevitavyaṃ bhavatīti vā ‖*)
+(Ni. 8-9)
+
+Citing the above Ṛk, he has given the etymology. At the time of the sacrifice, to prepare a seat on which the invited deities may come and sit, they cut *darbha* grasses to one equal measure and prepare them by spreading three layers, one upon another (to be soft). There is also the Śruti sentence त्रिवृद्धर्हिर्भवति (*trivṛddharhirbhavati*) [as supplied]. The pieces of *darbha* spread in this way for the seat are called बर्हिस् (*barhis*); thus the word बर्हिः (*barhiḥ*) is explained.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a drawing of three squiggly lines connected by two horizontal bars…" (an ornament), kept as a note.]*
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> ती॒व्रो वो॒ मधु॑मा अ॒यं शु॒नहो॑त्रेषु मत्स॒रः ।
+> ए॒तं पि॑बत॒ काम्यं॑ ॥ १४ ॥
+
+**॥ पदपाठः ॥**
+
+> तीव्रः । वः । मधुमान् । अयं । शुनहोत्रेषु । मत्सरः ।
+> एतं । पिबत । काम्यं ॥ १४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे विश्वे देवाः तीव्रस्तीव्रमदो मधुमान् रसवान् मत्सरो मदकरः
+> सोमोऽयं वो युष्मदर्थं शुनहोत्रेषु गृत्समदेष्टस्मासु स्थितः । काम्यं
+> कमनीयमेतं सोमं पिबत ॥
+
+*(Gist: O Viśvedevas, this sharp, sweet, exhilarating soma is prepared for you among the Śunahotras; drink this desirable soma.)*
+
+### Printed p. 437
+
+*[Running head, p. 437: Aṣṭaka 2, Adhyāya 8, Varga 9, Ṛgvedasaṃhitā; the numerals of the head are garbled in the supplied text.]*
+
+*[The supplied text has before the Pratipadārtha a garbled label "೧ ಪ್ರತಿಪದಾರ್ಥ ೧", kept as a note in kn.md; the Pratipadārtha, which was quoted as a block, was un-quoted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O Viśvedevas) Tīvraḥ: of sharp strength. Madhumān: full of juice. Matsaraḥ: intoxicating. Ayaṃ: this soma juice. Vaḥ: for you. Śunahotreṣu: among us, of the Śunahotra lineage (it is pressed and prepared). Kāmyaṃ: agreeable. Etaṃ: this soma juice. Pibata: drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O Viśvedevas, this soma juice, of sharp strength, juicy and intoxicating, has been pressed and prepared for you among us of the Śunahotra lineage. Drink this agreeable soma juice.
+
+**Printed English translation**
+
+This sharp, savoury, exhilarating (beverage), is (prepared) for you by the Shunahotras; drink of it at your pleasure.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+तीव्र (*tīvra*)—तीव्रमदकरः । (*tīvramadakaraḥ |*) The meaning is that which causes intoxication very sharply, very quickly or very greatly. तीव्र सोमः (*tīvra somaḥ*) is soma juice freshly pressed, to which no *āśira* substances such as milk have been added; therefore its sharpness is greater, and the intent is soma juice that, as soon as it is drunk, causes intoxication very quickly or in abundance.
+
+मधुमान् (*madhumān*)—रसवान् । (*rasavān |*) Any of the meanings "juicy", "sweet" or "tasty" may be given.
+
+मत्सरः (*matsaraḥ*)—मदकरः । (*madakaraḥ |*) Formed from the root मदी हर्षग्लापनयोः (*madī harṣaglāpanayoḥ*), this word means that which produces exhilaration (joy).
+
+काम्यं (*kāmyaṃ*)—कमनीयं, अपेक्षणीयं । (*kamanīyaṃ, apekṣaṇīyaṃ |*) The meaning is that which is desired, that which all like.
+
+शुनहोत्रेषु (*śunahotreṣu*)—the Śunahotras are the seer of this maṇḍala, Gṛtsamada, and his descendants and relatives. The reason Gṛtsamada got the name Śunahotra is this: this seer Gṛtsamada was first the son of the sage Śunahotra, born in the family of the sage Aṅgiras. Once, while he was performing a sacrifice, the asuras came and carried him away
+
+### Printed p. 438
+
+*[Running head, p. 438: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+and Gṛtsamada besought Indra, and Indra came and had him released and brought back. By Indra's command the name Gṛtsamada became current for him. गृत्समद (*gṛtsamada*) means *gṛtsamadana*; the word गृत्स (*gṛtsa*) is derived from the root गृणाति (*gṛṇāti*), which gives the sense of praising. The word गृत्स (*gṛtsa*) also means wise (intelligent). The word मदन (*madana*) means joys and so on, or one who has joy. The compound analysis is गृत्सश्चासौ मदनश्च गृत्समदनः (*gṛtsaścāsau madanaśca gṛtsamadanaḥ*). Therefore the word गृत्समद (*gṛtsamada*) means a man who is wise and joyful (smiling). And his name became famous as the son of Śunaka or Śaunaka of the Bhṛgu family. Also in the work Ṛṣyanukramaṇikā, composed by the great sage Kātyāyana, a disciple of the sage Śaunaka, when the names of the seers of the various sūktas are stated—
+
+⟦ತ್ವಮಗ್ನ ಇತಿ ಗೃತ್ಸಮದಃ ಶೌನಕೋ ಬೃಗುತಾಂ ಗತಃ ।
+ಶೌನಹೋತ್ರಃ ಪ್ರಕೃತ್ಯಾ ತು ಯ ಆಂಗಿರಸ ಉಚ್ಯತ ಇತಿ ॥⟧
+
+—this has been said [the supplied text has the verb doubled, हेळिरुवरुवरु (*heḷiruvaruvaru*)]. The intent is: Gṛtsamada, the seer of the sūkta त्वमग्ने द्युभिः (*tvamagne dyubhiḥ*), though born as the son of Śunahotra of the lineage of the Āṅgirasas, afterwards (for some reason) became known as the son of Śunaka, born in the Bhṛgu family.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It depicts a simple line drawing of what appears to be two hands holding each other or touching palms together…" (an ornament), kept as a note.]*
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> इंद्र॑ज्येष्ठा॒ मरु॑द्गणा॒ देवा॑सः॒ पूष॑रातय ।
+> विश्वे॒ मम॑ श्रुता॒ हवं॑ ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> इंद्रज्येष्ठाः । मरुत्स्‌गणाः । देवासः । पूषरातयः ।
+> विश्वे । मम । श्रुत । हवं ॥ १५ ॥
+
+*(The Pada is printed ಮರುತ್ಸ್‌ಗಣಾಃ with a joiner character after ಸ್, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्रज्येष्ठा इंद्रपुरोगमा मरुद्गणा मरुत्समूहरूपाः पूषरातयः
+> पूषाख्यो देवो रातिर्दाता येषां ते पूषरातयो देवास हे द्योतमाना
+> देवा विश्वे सर्वॆ यूयं मम मदीयं हवमाह्वानं श्रुत । शृणुत ॥ इंद्रज्येष्ठादयः संबोधनांताः । ऋग्वे. १-२३-८ ॥
+
+> *he iṃdrajyeṣṭhā iṃdrapurogamā marudgaṇā marutsamūharūpāḥ pūṣarātayaḥ*
+> *pūṣākhyo devo rātirdātā yeṣāṃ te pūṣarātayo devāsa he dyotamānā*
+> *devā viśve sarvè yūyaṃ mama madīyaṃ havamāhvānaṃ śruta | śṛṇuta ‖ iṃdrajyeṣṭhādayaḥ saṃbodhanāṃtāḥ | ṛgve. 1-23-8 ‖*
+
+*(Gist: O Viśvedevas led by Indra, the Marut hosts, with Pūṣan as giver, listen to my invocation. A hyphenated line break was joined; the bhāṣya cites Ṛgveda 1-23-8 for the vocatives from इंद्रज्येष्ठा (*iṃdrajyeṣṭhā*).)*
+
 ---
 
-**Progress note:** Done through printed p. 435 (PDF 435). Sukta 41 Rik 12 Special Topics finished (p. 433); Rik 13 complete with long Visvedevas note (pp. 433-435); Rik 13 Special Topics on barhih breaks off mid-sentence at end of p. 435 (last page of first source file). Flags: stray lines 28 and Pages: 450/450 kept as notes; Western names in Latin letters as supplied; samasa truncated; 1 accent DIFF
+**Progress note:** Done through printed p. 438 (PDF 438). Sukta 41 Rik 13 Special Topics finished (p. 436); Rik 14 complete (pp. 436-438); Rik 15 Samhita, Pada, bhashya (p. 438), Pratipadartha to follow. First window from second source file. Flags: garbled Pratipadartha label and p. 437 head numerals kept as notes; Yaska repeated and verb doubled as supplied; 4 accent DIFF
