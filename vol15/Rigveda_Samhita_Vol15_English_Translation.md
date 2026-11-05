@@ -10978,6 +10978,87 @@ In this Ṛk the description of the early morning, when the night has passed and
 
 माता सूनवे भागं (*mātā sūnave bhāgaṃ*) — here the goddess Uṣas is called the mother of Agni. Since after the time of dawn the fire is established and the homa and other rites are performed, Uṣas is described as the mother of Agni.
 
+### Printed p. 347
+
+*Running head: Aṣṭaka 2, Adhyāya 8, Varga 3, Ṛgvedasaṃhitā, p. 347.*
+
+(Special Topics of Ṛk 5, continued) दुर्यः अग्नेः शोकः प्रभवः नाना ओकांसि वि तिष्ठते (*duryaḥ agneḥ śokaḥ prabhavaḥ nānā okāṃsi vi tiṣṭhate*)—गृहसंबंधि अग्नेस्तेजः यजमानानां पृथग्भूतान् गृहान् अधितिष्ठति । (*gṛhasaṃbaṃdhi agnestejaḥ yajamānānāṃ pṛthagbhūtān gṛhān adhitiṣṭhati |*) Many sacrificers who perform sacrifice in the early morning install fire in their own separate houses and perform the Agnihotra and other rites. Since the sacrificers are many, their houses too are many. Agni is installed at the same moment in all these houses and shines with his radiance. That he thus shines at one and the same time in many houses is described here as Agni's greatness.
+
+विश्वं आयुः (*viśvaṃ āyuḥ*)—सर्वमन्नं चाधितिष्ठति । (*sarvamannaṃ cādhitiṣṭhati |*) Since Agni is the giver of food to the sacrificers, to the priests and to those who praise him, he is described as the lord of all food and other things to be eaten.
+
+माता सवित्रा अनु ईषितं अस्य केतं ज्येष्ठं भागं सूनवे आधात् (*mātā savitrā anu īṣitaṃ asya ketaṃ jyeṣṭhaṃ bhāgaṃ sūnave ādhāt*)—उषाः सवित्रा प्रेषितं प्रज्ञापकमग्नेः प्रथममग्निहोत्राख्यं भागं सूनवेऽग्नये आदधाति । (*uṣāḥ savitrā preṣitaṃ prajñāpakamagneḥ prathamamagnihotrākhyaṃ bhāgaṃ sūnave 'gnaye ādadhāti |*) By the command of the god Savitṛ, the mother of Agni, that is, the goddess Uṣas, who rises before Agni, has arranged that the first share in the Agnihotra and other rites that the sacrificers perform in the morning be offered to her son Agni. The sacrificers install the fire in the morning that arrives after the appearance of Uṣas. Since the time of dawn therefore arrives before the installation of the fire, Uṣas is said to be the mother of Agni. It is natural for a mother to wish her son well; accordingly Uṣas has arranged that the first oblation be offered to Agni in the Agnihotra and other rites that the sacrificers perform as soon as it is morning. Thus the greatness of Savitṛ is described here: this arrangement made by Uṣas is prompted by the god Savitṛ.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> स॒माव॑वर्ति॒ विष्ठि॑तो जिगी॒षुर्विश्वे॑षां॒ काम॒श्चर॑ताम॒माभू॑त् ।
+> शश्वा॒ अपो॒ विकृ॑तं हि॒त्वा गा॒दनु॑ व्र॒तं स॑वि॒तुद्वैव्य॑स्य ॥ ६ ॥
+
+> *samāvavarti viṣṭhito jigīṣurviśveṣāṃ kāmaścaratāmamābhūt |*
+> *śaśvā apo vikṛtaṃ hitvā gādanu vrataṃ savitudvaivyasya ‖ 6 ‖*
+
+### Printed p. 348
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 38, p. 348.*
+
+**॥ पदपाठः ॥**
+
+> संआववर्ति । विस्थितः । जिगीषुः । विश्वेषां । कामः । चरतां । अमा । अभूत् ।
+> शश्वान् । अपः । विकृतं । हित्वी । आ । अगात् । अनु । व्रतं । सवितुः । दैव्यस्य ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> जिगीषुर्विजयेच्छुर्योद्धा विष्ठितो युद्धार्थं प्रस्थितः समाववर्ति ।
+> समावर्तयति । विश्वेषां सर्वेषां चरतां जंगमानाममा । अमा दम इति गृह-
+> नामसु पाठात् । गृहं प्रति कामोऽभूत् । भवति । शश्वान् नित्यं कर्मरतोऽपः
+> कर्म विकृतमर्धकृतं हित्वी हित्वागात् । गृहमागच्छति । एतत्सर्वं दैव्यस्य दिवि भवस्य
+> सवितुः प्रेरकस्य सूर्यस्य व्रतमस्तमयाख्यं कर्मानु जायत इत्यर्थः ॥
+
+> *jigīṣurvijayecchuryoddhā viṣṭhito yuddhārthaṃ prasthitaḥ samāvavarti |*
+> *samāvartayati | viśveṣāṃ sarveṣāṃ caratāṃ jaṃgamānāmamā | amā dama iti gṛha-*
+> *nāmasu pāṭhāt | gṛhaṃ prati kāmo 'bhūt | bhavati | śaśvān nityaṃ karmarato 'paḥ*
+> *karma vikṛtamardhakṛtaṃ hitvī hitvāgāt | gṛhamāgacchati | etatsarvaṃ daivyasya divi bhavasya*
+> *savituḥ prerakasya sūryasya vratamastamayākhyaṃ karmānu jāyata ityarthaḥ ‖*
+
+Gist: The warrior setting out to fight turns back; home is the wish of all moving beings; the toiler leaves his work half done and returns home, following the sunset rite of Savitṛ.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जिगीषुः (*jigīṣuḥ*) — desirous of obtaining victory. विष्ठितः (*viṣṭhitaḥ*) — the warrior who has set out for battle. समाववर्ति (*samāvavarti*) — turns back. विश्वेषां (*viśveṣāṃ*) — of all; चरतां (*caratāṃ*) — of beings that are moving; to such creatures. अमा (*amā*) — the house. कामः (*kāmaḥ*) — as the desired place. अभूत् (*abhūt*) — it is. दैव्यस्य (*daivyasya*) — of the one born in the heaven-world. सवितुः (*savituḥ*) — of the Sun. व्रतं (*vrataṃ*) — the rite called the setting. अनु (*anu*) — when it is known. शश्वान् (*śaśvān*) — even one who is constantly intent on work. अपः (*apaḥ*) — his own task. विकृतं (*vikṛtaṃ*) — though half done. हित्वी (*hitvī*) — stopping it there. आगात् (*āgāt*) — comes home.
+
+**भावार्थ (Bhāvārtha)**
+
+The warrior who is eager for victory and has set out for battle returns home. For all creatures the house is the desired place. When the rite of the Sun, born in the heaven-world, called the setting, is known, even one who is constantly intent on work leaves his task there, though half done, and comes home.
+
+**Printed English translation**
+
+The warrior, eager for victory, who has gone forth (to battle), turns back; (for) home is the desire of all moving beings: abandoning his half-wrought toil, the labourer returns (home) when the function of the divine Savitri (is suspended).
+
+### Printed p. 349
+
+*Running head: Aṣṭaka 2, Adhyāya 8, Varga 3, Ṛgvedasaṃhitā, p. 349.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+(The printed label is garbled in the supplied text; it reads as Viśeṣaviṣayagaḷu.) In this Ṛk it is described that after Savitṛ (the Sun) has set, people stop what they are doing, however much of it is done, and turn back towards their homes.
+
+जिगीषुः विष्ठितः समाववर्ति (*jigīṣuḥ viṣṭhitaḥ samāvavarti*)—विजयेच्छुः योद्धा युद्धार्थं प्रस्थितः समावर्तयति । (*vijayecchuḥ yoddhā yuddhārthaṃ prasthitaḥ samāvartayati |*) The warrior who has set out to fight his enemies and conquer them stops the fighting as soon as evening comes and returns home. For after the sun has set it is dark and nothing can be seen, so no work can be done. Therefore he stops the battle and other tasks he has begun and turns towards home.
+
+विश्वेषां चरतां अमा कामः अभूत् (*viśveṣāṃ caratāṃ amā kāmaḥ abhūt*)—सर्वेषां जंगमानां प्राणिनां गृहं प्रति कामो भवति । (*sarveṣāṃ jaṃgamānāṃ prāṇināṃ gṛhaṃ prati kāmo bhavati |*) Because the word अमा (*amā*) is read among the names of the house (Ni. 3-13), it means "house". After sunset all creatures whose nature is to move about wish to go to their own houses or dwelling places. By day animals and men too leave their houses and move about in various places, to gain food and other things or to do other duties. In the evening, when it is dark and no work can be done, they wish to go to their own dwellings for rest; this is the meaning.
+
+देव्यस्य सवितुः व्रतं अनु शश्वान् अपः विकृतं हित्वा आगात् (*devyasya savituḥ vrataṃ anu śaśvān apaḥ vikṛtaṃ hitvā āgāt*)—दिवि भवस्य सवितुः प्रेरकस्य सूरस्य अस्तमयाख्यं कर्म अनु अर्थकृतं कर्म हित्वा गृहमागच्छति । (*divi bhavasya savituḥ prerakasya sūrasya astamayākhyaṃ karma anu arthakṛtaṃ karma hitvā gṛhamāgacchati |*) After sunset the man who is at work stops the work he is doing half way, turns back and comes home. That he thus leaves work unfinished and comes away half way is the greatness of the rule (law) of the god Savitṛ called the setting; this is the main idea. (The supplied text prints देव्यस्य (*devyasya*), सूरस्य (*sūrasya*) and अर्थकृतं (*arthakṛtaṃ*) here, where the Saṃhitā/bhāṣya above have दैव्यस्य (*daivyasya*), सूर्यस्य (*sūryasya*) and अर्धकृतं (*ardhakṛtaṃ*); noted, not altered.)
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> त्वया॑ हि॒तमप्य॑म॒प्सु भा॒गं धन्वान्वा मृ॑ग॒यसो॒ वि त॑स्थुः ।
+> वना॑नि॒ विभो॒ नकि॑रस्य॒ तानि॑ व्र॒ता दे॒वस्य॑ सवि॒तुर्मि॑नंति ॥ ७ ॥
+
+> *tvayā hitamapyamapsu bhāgaṃ dhanvānvā mṛgayaso vi tasthuḥ |*
+> *vanāni vibho nakirasya tāni vratā devasya saviturminaṃti ‖ 7 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 346 (PDF 346). Sukta 38 Rk 4 complete (printed English, Special Topics); Rk 5 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English, Special Topics complete; Tamil stray line kept as italic note; running heads misprinted (Mam. 3 on p.346) noted; flags: none new
+**Progress note:** Done through printed p. 349 (PDF 349). Sukta 38 Rk 5 Special Topics finished; Rk 6 complete; Rk 7 Samhita only (rest next window); Special Topics label garbled in source, variants devyasya/suras ya/arthakrta noted; flags: none
