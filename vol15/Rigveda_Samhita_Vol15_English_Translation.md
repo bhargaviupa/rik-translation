@@ -23773,6 +23773,104 @@ in these Ṛks and in others there is the description praising Agni, that he sho
 
 *[The window ends here, at the end of p. 769; the next window continues.]*
 
+### Printed p. 770
+
+*[Running head, p. 770: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+[continuing:] such Ṛks it is praised. There are many Śruti sentences that this wind brought Agni, hidden in a far-off region, for Bhṛgu and for Manu, the sacrificers, and helped them. For example:
+
+द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा । (*dvijanmānaṃ rayimiva praśastaṃ rātiṃ bharadbhṛgave mātariśvā |*)
+(Ṛ. Saṃ. 1-60-1)
+
+यं मातरिश्वा मनवे परावतो देवं भाः परावतः । (*yaṃ mātariśvā manave parāvato devaṃ bhāḥ parāvataḥ |*)
+(Ṛ. Saṃ. 1-128-2)
+
+ऐनं नयन्मातरिश्वा परावतो देवेभ्यो मथितं परि । (*ainaṃ nayanmātariśvā parāvato devebhyo mathitaṃ pari |*)
+(Ṛ. Saṃ. 3-9-5)
+
+आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः । (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*)
+(Ṛ. Saṃ. 6-8-4)
+
+ईळेन्यं प्रथमं मातरिश्वा देवास्त्रक्षुर्मनवे यजत्रं । (*īḷenyaṃ prathamaṃ mātariśvā devāstrakṣurmanave yajatraṃ |*)
+(Ṛ. Saṃ. 10-46-9)
+
+In these and many other Ṛks it is well known from the Śruti that Mātariśvan, for the benefit of the sacrificers Bhṛgu and Manu, brought to the earth Agni hidden in a distant country and did good to all the people on the earth.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> इळा॑मग्ने पुरु॒दंसं॑ स॒निं गोः श॑श्वत्त॒मं हव॑मानाय साध ।
+> स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> इळां । अग्ने । पुरुडंसं । सनिं । गोः । शश्वत्तमं । हवमानाय । साध ।
+> स्यात् । नः । सूनुः । तनयः । विजावा । अग्ने । सा । ते । सुमतिः । भूतु । अस्मे इति॥
+
+> *iḷāṃ | agne | puruḍaṃsaṃ | saniṃ | goḥ | śaśvattamaṃ | havamānāya | sādha |*
+> *syāt | naḥ | sūnuḥ | tanayaḥ | vijāvā | agne | sā | te | sumatiḥ | bhūtu | asme iti‖*
+
+*(The supplied text repeated the label "पदपाठः (*padapāṭhaḥ*)" twice before the Pada; one was removed. In the Pada पुरुडंसं (*puruḍaṃsaṃ*) is printed so, as supplied.)*
+
+### Printed p. 771
+
+*[Running head, p. 771: Aṣṭaka 2, Adhyāya 8, Varga 25, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने पुरुदंसं । अपोऽप्पो दंसो वेष इति कर्मनामसु पठितत्वाद्दंसःशब्दः कर्मवाची । पुरूणि बहूनि दंसांसि कर्माणि यस्याः सा । तां बहुकर्माणं गोः सनिं गवादिपशून्संपादयित्रिमिळामेतन्नामिकां गोरूपां देवतां
+> शश्वत्तमं निरंतरं हवमानाय यजमानाय मह्यं साध । साधय। किंच नोऽस्माकं
+> सूनुः पुत्रस्तनयः पौत्रः स्याद्भवत्विति ते तव या सुमतिः शोभना बुद्धिः सा विजावाबंध्या सत्यस्मे आस्माकं भूतु । भवतु ॥ शश्वत्तमं उच्छादिषु पाठादंतोदात्तत्वं । साध । राध साध संसिद्धौ । अंतर्भावितण्यर्थोऽयं । लोट व्यत्ययेन
+> शप् । सेर्ह्यपिच्चेति हिरादेशः । तस्यातो हेरिति लुक् । निघातः । विजावा । जनी
+> प्रादुर्भावे । आस्मादन्येभ्योऽपि दृश्यंत इति वनिप् । विड्वनोरनुनासिकस्यादित्यात्वं ।
+> कृदुत्तरपदप्रकृतिस्वरत्वं । लिंगव्यत्ययः भूतु । भू सत्तायां । बहुलं छंदसीति
+> शपो लुक् । भूसुवोस्ति जीति गुणप्रतिषेधः ॥
+
+*(Gist: O Agni, grant to me, the constant offerer, the cow-formed goddess Iḷā, giver of many works and cattle; may sons and grandsons be ours; may your good will be fruitful for us. Grammatical notes follow in the bhāṣya.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(He) Agne: O Agni. Purudaṃsaṃ: distinguished by many works. Goḥ saniṃ: the bestower of cattle and the like. Iḷāṃ: the goddess named Iḷā, in the form of a cow. Śaśvattamaṃ: perpetually. Havamānāya: to me, who am performing the sacrifice. Sādha: accomplish (favour). Naḥ: to us. Sūnuḥ: a son. Tanayaḥ: a grandson. Syāt: let there be. (He) Agne: O Agni. Te: your. (Yā) sumatiḥ: whatever good will. Sā: that. Asme: for us. Vijāvā: unbarren. Bhūtu: let it be.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, make the earth, named Iḷā and in the form of a cow, who gives the cattle that help in many works, favourable to us who are constantly engaged in performing sacrifice; and, O Agni, may your good will, that you should grant sons, grandsons and so on to the praisers, be always unbarren (fruitful) for us.
+
+**Printed English translation**
+
+Grant, Agni, to the offerer of the oblation, the earth, the bestower of cattle, the means of many (pious rites), such that it may be perpetual : may there be to us sons and grandsons, born in our race, and may your good-will ever be productive of benefits to us.
+
+### Printed p. 772
+
+*[Running head, p. 772: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पुरुदंसं-पुरूणि बहूनि दंसानि कर्माणि यस्याः सा । (*purudaṃsaṃ-purūṇi bahūni daṃsāni karmāṇi yasyāḥ sā |*) The word daṃsa is stated among the twenty-six names of work, अप्पः दंसः (*appaḥ daṃsaḥ*) and the rest (Ni. 3-2). The meaning is: possessing many works.
+
+गोः सनिं—गवादिपशून् संपादयित्रीं । (*goḥ saniṃ—gavādipaśūn saṃpādayitrīṃ |*) The word go has many meanings: earth, speech, animal, ray. Since the words goḥ saniṃ are epithets of the word iḷā, the meaning is described that the goddess Iḷā grants everything beginning with cows.
+
+इळां—एतन्नामिकां गोरूपां देवतां । (*iḷāṃ—etannāmikāṃ gorūpāṃ devatāṃ |*) The word iḷā is stated among the names of the earth (Ni. 2-5); it is also stated among the names of speech (Ni. 2-23), among the names of food (Ni. 3-9) and among the names of cow (Ni. 3-6). And the word iḷā is formed from the root īś.
+
+⟦ಅಭಿ ನ ಇಳಾ ಯೂಥಸ್ಯ ಮಾತಾ ಸ್ಮನ್ನದೀಭಿರುರ್ವಶೀ ವಾ ಗೃಣಾತು ।
+ಉರ್ವಶೀ ವಾ ಬೃಹದ್ದಿವಾ ಗೃಣಾನಾಭ್ಯೂರ್ವಾನಾ ಪ್ರಭೃಥಸ್ಯಾಯೋಃ ।
+ಸಿಷಕ್ತು ನ ಊರ್ಜವ್ಯಸ್ಯ ಪುಷ್ಪೇಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 5-41-19, 20)
+
+In these Ṛks the goddess Iḷā or Iḍā is explained as a deity of the middle place. Sāyaṇa has explained the meaning as a deity named Iḷā who has taken the form of a cow.
+
+⟦ಶಶ್ವತ್ತಮಂ ಹವಮಾನಾಯ ಸಾಧ—ನಿರಂತರಂ ಹವಮಾನಾಯ ಯಜಮಾನಾಯ ಮಹ್ಯಂ
+ಸಾಧಯ ।⟧ Agni is prayed that the favour of the goddess Iḷā, who is in the form of a cow, full of abundant greatness, and who fulfils the desired aims of the sacrificer who always gratifies Agni with oblations, may be obtained.
+
+सूनुः—पुत्रः, तनयः पौत्रः । (*sūnuḥ—putraḥ, tanayaḥ pautraḥ |*) The words tanaya and sūnu are read among the fifteen names of offspring, तुक्, तोकं (*tuk, tokaṃ*) and the rest (Ni. 3-2).
+
+⟦ಏತಾ ವಿಶ್ವಾ ಸವನಾ ತೂತುಮಾ ಕೃಷೇ ಸ್ವಯಂ ಸೂನೋ ಸಹಸೋ ಯಾನಿ ದಧಿಷೇ ।
+ವರಾಯ ತೇ ಪಾತ್ರಂ ಧರ್ಮಣೇ ತನಾ ಯಜ್ಞೋ ಮಂತ್ರೋ ಬ್ರಹೋದ್ಯತಂ ವಚಃ ॥⟧
+(printed पु (*pu*). सं (*saṃ*). 10-50-6)
+
+*[The window ends here, at the end of p. 772, after this quotation and its reference; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 769 (PDF 769). Sūkta 5 Ṛk 9 Special Topics end (Mātariśvan; Ni. 7-26); Ṛk 10 (full) and Special Topics (Bhṛgu, churning of fire; 1-93-6, 6-8-4, 1-31-3, 1-143-2)
+**Progress note:** Done through printed p. 772 (PDF 772). Sūkta 5 Ṛk 10 Special Topics end (Mātariśvan, Bhṛgu, Manu); Ṛk 11 (full) and Special Topics so far (Iḷā, goḥ saniṃ, sūnu)
