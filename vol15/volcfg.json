@@ -3,7 +3,8 @@
  "mandala": 2,
  "branch": "claude/vol15",
  "source": [
-  "vol15/html/rig_15_1.html@1-100"
+  "vol15/html/rig_15_1.md@2-435",
+  "vol15/html/rig_15_2.md@436-800"
  ],
  "scan": {
   "glob": "vol15/scans/15 *.pdf"
