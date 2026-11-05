@@ -3214,6 +3214,104 @@ kaveḥ: of the far-seeing one; ādityasya: of the son of Aditi; svarājaḥ: of
 
 The sacrificer offers this oblation to Varuṇa, who is far-seeing, the son of Aditi, and self-luminous. Through his majesty gained by Varuṇa's favour may this sacrificer bring all beings under his control. From such a Varuṇa, the supporter, who is exceedingly delighting to the man who performs the sacrifice, I beg auspicious fame.
 
+### Printed p. 105
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 9, p. 105.*
+
+**Printed English translation**
+
+(The worshipper repeats) this praise of the sage, the self-radiant Aditya : may he preside over all beings by his power : I beg for fame of the sovereign Varuna, a diety [sic] who, when much pleased, (is propitious) to his adorer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+कवेः (*kaveḥ*)—क्रांतदर्शिनः (*krāṃtadarśinaḥ*): Yāska has read the word *kavi* among the names of the intelligent (Ni. 12-13) and explained it: "the intelligent man is one who sees beyond (*krānta-darśana*), or from the root *kavate*" (Ni. 12-13). Varuṇa, the son of the goddess Aditi, is described as one who has seen the far shore of wisdom. स्वराजः (*svarājaḥ*)—स्वयमेव राजमानस्य ईश्वरस्य वा (*svayameva rājamānasya īśvarasya vā*): shining of himself, that is, brilliant without the help of other lights, and lord over all. The word इदं (*idaṃ*) is given the meaning oblation or hymn, and it is explained that the sacrificer offers the oblation or hymn to Varuṇa, who is self-luminous and sovereign over all.
+
+विश्वानि संति (*viśvāni saṃti*)—सर्वाणि द्वितीयभाव विकारभांजि [?] भूतजातानि (*sarvāṇi dvitīyabhāva vikārabhāṃji [?] bhūtajātāni*) (the words द्वितीयभाव विकारभांजि (*dvitīyabhāva vikārabhāṃji*) are unclear in the supplied text): all created beings. It is explained that through the greatness arising from Varuṇa's favour the sacrificer may bring under his control all beings, moving and unmoving.
+
+अतिमंद्रः (*atimaṃdraḥ*)—अतिशयेन स्तुत्यः हर्षयिता वा (*atiśayena stutyaḥ harṣayitā vā*): exceedingly praiseworthy, or a gladdener. The word *mandra* is read by Yāska among the names of speech (as printed: सि २-२३ (*si 2-23*), the reference letter being as supplied; the word before "names" is printed वाज्ञामगळल्लि (*vājñāmagaḷalli*)) and explained as "*mandrā* is delighting, or gladdening to the world" (as printed: सि. ११-३० (*si. 11-30*)). It is said that Varuṇa is praiseworthy to the sacrificer and the producer of joy.
+
+सुकीर्तिं भिक्षे (*sukīrtiṃ bhikṣe*)—शोभनां स्तुतिं यद्वा वरुणेन दातव्यां शोभनां कीर्तिं (*śobhanāṃ stutiṃ yadvā varuṇena dātavyāṃ śobhanāṃ kīrtiṃ*): for the word *bhūri*, "of Varuṇa, the lord (*bhartuḥ*)": the sacrificer asks for the praise (the devout mind that performs it), or the excellent fame granted by the favour of Varuṇa.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> तव॑ व्र॒ते सु॒भगा॑सः स्याम स्वा॒ध्यो॑ वरुण तुष्टु॒वांसः॑ ।
+> उ॒पाय॑न उ॒षसां॒ गोम॑तीनाम॒ग्नयो॒न जर॑माणा॒ अनु॒द्यून्॥
+
+> *tava vrate subhagāsaḥ syāma svādhyo varuṇa tuṣṭuvāṃsaḥ |*
+> *upāyana uṣasāṃ gomatīnāmagnayona jaramāṇā anudyūn‖*
+
+### Printed p. 106
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 28, p. 106.*
+
+**॥ पदपाठः ॥**
+
+> तव । व्रते । सुभगासः । स्याम । सुआध्यः । वरुण । तुस्तुवांसः ।
+> उपअयने । उषसां । गोमतीनां । अग्नयः । न । जरमाणाः । अनु । द्यून् ॥ २ ॥
+
+> *tava | vrate | subhagāsaḥ | syāma | suādhyaḥ | varuṇa | tustuvāṃsaḥ |*
+> *upaayane | uṣasāṃ | gomatīnāṃ | agnayaḥ | na | jaramāṇāḥ | anu | dyūn ‖ 2 ‖*
+
+(Differences between the Saṃhitā and Pada as supplied: तुष्टुवांसः (*tuṣṭuvāṃsaḥ*) in the Saṃhitā but तुस्तुवांसः (*tustuvāṃsaḥ*) in the Pada; उपायन (*upāyana*) in the Saṃhitā against उपअयने (*upaayane*) in the Pada. Both are as supplied; no correction made.)
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण स्वाध्यः शोभनाध्यानास्तुष्टुवांसः स्तुतवंतो वयं तव व्रते
+> त्वदीये परिचरणाख्यॆ कर्मणि वर्तमानाः सुभगासः स्याम । शोभनधना भवेम ।
+> अपि च गोमतीनां रश्मिभिर्युक्तानामुषसामुपायन उपागमने सत्यग्नयो
+> न यथाग्नयोऽग्निहोत्रादिकर्मार्थं समिध्यंते एवमनु द्यून् अनुदिनं
+> जरमाणास्त्वां स्तुवंतो वयं दीप्यमाना भवेम ॥
+
+*Gist:* O Varuṇa, may we, devout and praising you, engaged in your service, be rich; and as fires are kindled at dawn for the fire-offering, may we, praising you daily, shine.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Varuṇa: O Varuṇa; svādhyaḥ: we who are endowed with excellent meditation; tuṣṭuvāṃsaḥ: who praise (you); tava vrate: engaged in the work of worshipping you; subhagāsaḥ: possessed of excellent wealth; syāma: grant that we may become; gomatīnām: accompanied by rays; uṣasām: of the dawns; upāyane: at the time of rising; agnayo na: as the fires kindled for the fire-offering shine; anu dyūn: every day; jaramāṇāḥ: we who praise you; may we be shining.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, we who are endowed with excellent meditation and who praise you, engaged in the work of worshipping you, grant that we may become possessed of excellent wealth. As the fire kindled for the fire-offering shines at the rising of the dawns accompanied by rays, may we who praise you daily go on shining.
+
+**Printed English translation**
+
+May we, Varuna, deeply meditating on you earnestly praising you and (engaged) in your worship, be prosperous ; glorifying you daily, like the fires (that are kindled in your honour) at the coming of the luminous dawns.
+
+### Printed p. 107
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 9, p. 107.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+व्रते (*vrate*)—त्वदीये परिचरणाख्यॆ कर्मणि वर्तमानाः (*tvadīye paricaraṇākhyè karmaṇi vartamānāḥ*): the word *vrata* is read by Yāska among the names of work (Ni. 3-2) and explained "*vrata* is a name of work, because it is chosen" (Ni. 2-13). Here Sāyaṇa gives the meaning: work consisting of service, relating to Varuṇa.
+
+सुभगासः (*subhagāsaḥ*)—शोभनधनाः (*śobhanadhanāḥ*): here the prefix *su* is applied to the word *bhaga*. The word is used as an epithet of the sacrificers; the meaning wealth is given, and the sacrificers' prayer is stated, that they may be endowed with excellent wealth. Yāska explains भगो भजतेः (*bhago bhajateḥ*) (Ni. 1-7), reads it among the names of wealth (Ni. 3-9) with the meaning wealth, explains it as "dharma" in भगस्य भागधेयस्य (*bhagasya bhāgadheyasya*) (Ni. 9-21), and in प्रातर्जितं भगमुग्रं हुवेम (*prātarjitaṃ bhagamugraṃ huvema*) (Ṛ. Saṃ. 7-41-2) as one of the gods, a son of the goddess Aditi.
+
+गोमतीनां उषसां उपायने अग्नयो न (*gomatīnāṃ uṣasāṃ upāyane agnayo na*): Yāska gives various meanings of the word *go* (Ni. 2-5). Here it is used in the sense of ray (*raśmi*). After giving this sense, the passage रश्मिभिर्युक्तानां उषसां उपागमे यथा अग्नयो अग्नि होत्रादिकर्मार्थं समिध्यंते एवं त्वां स्तुवंतो वयं दीप्यमाना भवेम (*raśmibhiryuktānāṃ uṣasāṃ upāgame yathā agnayo agni hotrādikarmārthaṃ samidhyaṃte evaṃ tvāṃ stuvaṃto vayaṃ dīpyamānā bhavema*) is given. The sacrificers' prayer is expressed thus: as at the rising of the dawns the fire is kindled for the performance of the fire-offering and other rites, so may we sacrificers who praise Varuṇa shine with splendour every day.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तव॑ स्याम पुरु॒वीर॑स्य॒ शर्म॑न्नुरु॒शंस॑स्य वरुण प्रणेतः ।
+> यू॒यं नः॑ पुत्रा अदितेरदब्धा अ॒भि क्ष॑मध्वं॒ युज्या॑य देवाः ॥
+
+> *tava syāma puruvīrasya śarmannuruśaṃsasya varuṇa praṇetaḥ |*
+> *yūyaṃ naḥ putrā aditeradabdhā abhi kṣamadhvaṃ yujyāya devāḥ ‖*
+
+(The supplied text prints no Ṛk number after this verse.)
+
+**॥ पदपाठः ॥**
+
+> तव । स्याम । पुरुवीरस्य । शर्मन् । उरुशंसस्य । वरुण । प्रनेतरिति प्रनेतः ।
+> यूयं । नः । पुत्राः । आदितेः । आदब्धाः । अभि । क्षमध्वं । युज्याय । देवाः ॥
+
+> *tava | syāma | puruvīrasya | śarman | uruśaṃsasya | varuṇa | pranetariti pranetaḥ |*
+> *yūyaṃ | naḥ | putrāḥ | āditeḥ | ādabdhāḥ | abhi | kṣamadhvaṃ | yujyāya | devāḥ ‖*
+
+(The Pada: प्रनेतरिति प्रनेतः (*pranetariti pranetaḥ*) against Saṃhitā प्रणेतः (*praṇetaḥ*), and आदितेः (*āditeḥ*), आदब्धाः (*ādabdhāḥ*) against अदिते (*adite*), अदब्धा (*adabdhā*) in the Saṃhitā, are as supplied; the Pada here shows no Ṛk number. The Sāyaṇa-bhāṣya of this Ṛk follows on the next page.)
+
 ---
 
-**Progress note:** Done through printed p. 104 (PDF 104). Sūkta 27 Ṛk 17 printed English and Special Topics (p. 102); Sūkta 28 (Varuṇa, 11 ṛks) introduction and Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (pp. 103-104); Special Topics of Ṛk 1 next. Hand fixes to kn.md: labels and > blocks set. Flags [?]: Saṃhitā ಸಾನ್ತ್ಯಭ್ಯಸ್ತು (Pada ಸನ್ತಿ), ಮನ್ದ್ರೋ (Pada ಮನ್ದಃ), bhāṣya ದ್ವಿತೀಯಭಾವನಿಕಾರಭಾಂಜಿ; no Ṛk number printed after Saṃhitā 1; running head p. 102 reads Maṇḍala 3 as supplied
+**Progress note:** Done through printed p. 107 (PDF 107). Sūkta 28 Ṛk 1 printed English and Special Topics; Ṛk 2 complete; Ṛk 3 Saṃhitā and Pada (bhāṣya next, p. 108). Hand fixes to kn.md: stray image line and doubled Pada label removed, Bhāvārtha label normalised. Flags [?]: ದ್ವಿತೀಯಭಾವ ವಿಕಾರಭಾಂಜಿ (Special Topics p. 105); Pada/Saṃhitā differences in Ṛk 2 and 3 (ತುಷ್ಟುವಾಂಸಃ/ತುಸ್ತುವಾಂಸಃ, ಉಪಾಯನ/ಉಪಅಯನೇ, ಪ್ರಣೇತಃ/ಪ್ರನೇತಃ, ಅದಿತೇ/ಆದಿತೇಃ); Yāska refs printed ಸಿ for ನಿ (2-23, 11-30); no Ṛk number printed after Ṛk 3 Saṃhitā
