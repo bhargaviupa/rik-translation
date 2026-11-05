@@ -3600,6 +3600,126 @@ Harm us not, Varuna, with those destructive (weapons), which, repeller (of foes)
 
 असुर—पापकृतां निरसितः (*asura—pāpakṛtāṃ nirasitaḥ*). The word *asura* is stated among the names of cloud (Si. 2-22, as printed). It is explained: "*asurāḥ*: from the places (*sthāna*), or because they are *asu*-givers [as supplied]; 'from *asu* he created the *asuras*, hence the *asura*-ness of the asuras'" (Ni. 3-8). Sāyaṇa explains that Varuṇa is addressed by this word because he destroys sinners. And वधैः एनः कृण्वंतं ये भ्रीणंति नः मा (*vadhaiḥ enaḥ kṛṇvaṃtaṃ ye bhrīṇaṃti naḥ mā*)—"with weapons (instruments of slaying) which injure the man who commits sin born of omission of the prescribed observance, do not injure us" (as printed, with the misprint आयुध्यैः (*āyudhyaiḥ*) and आस्मान् (*āsmān*)): protection is prayed for, that Varuṇa not harm us, the sacrificers, with the weapons that destroy those who do harm and those who neglect duty in the sacrifices performed for Varuṇa.
 
+### Printed p. 117
+
+> ज्योतिषः प्रवसथानि मा गन्म-गृहे वर्तमानादग्नेः सौरप्रकाशाद्वा
+> प्रवासान् मा गच्छाम। सर्वदा गृहेवर्तमानः सूर्यं पश्यन् चिरकालं जीवेयं।
+
+> *jyotiṣaḥ pravasathāni mā ganma-gṛhe vartamānādagneḥ sauraprakāśādvā*
+> *pravāsān mā gacchāma| sarvadā gṛhevartamānaḥ sūryaṃ paśyan cirakālaṃ jīveyaṃ|*
+
+"...always, by the fire's light, from the sacrificial hall pervaded by it, or from a region joined with the sun's light, a state of no separate dwelling arises; that is, the sacrificer, seeing the fire kindled for the sacrifices and the sun, would dwell at home for a long time: such a state is the favour of Varuṇa that is prayed for here."
+
+मृधः—हिंसकान् (*mṛdhaḥ—hiṃsakān*)—"the harmful ones." The word मृधः (*mṛdhaḥ*) is stated among the names of battle (Ni. 3-9). And in the Ṛk
+
+> वि न इंद्र मृधो जहि नीचा यच्छ पृतन्यतः ।
+> यो अस्मा अभिदासत्यधरं गमया तमः ॥
+
+> *vi na iṃdra mṛdho jahi nīcā yaccha pṛtanyataḥ |*
+> *yo asmā abhidāsatyadharaṃ gamayā tamaḥ ‖*
+
+(Pu [sic] Saṃ. 10-152-4), the meaning is explained as मृधः-मृधकर्त्यन् शत्रून् (*mṛdhaḥ-mṛdhakartyan śatrūn*) (Si. 7-2) ("enemies, doers of harm" [as printed]).
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> नमः॑ पु॒रा ते॑ वरुणो॒त नू॒नमु॒ताप॒रं तु॑विजात ब्रवाम ।
+> त्वे हि कं॒ पर्व॑ते॒ न श्रि॒तान्यप्र॑च्युतानि दूळभ व्र॒तानि॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> नमः । पुरा । ते । वरुण । उत । नूनं । उत । अपरं । तुविजात । ब्रवाम ।
+> त्वे इति । हि । कं । पर्वते । न । श्रितानि । अप्रच्युतानि । दुःसदभ । व्रतानि ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण पुरा पूर्वस्मिन्काले ते शुभ्यं नमो नमस्कारप्रतिपादकं नम इति
+> शब्दमवादिस्म । उत अपि च नूनमद्यापि ब्रवाम । उत अपि च हे तुविजात बहुषु
+> प्रदेशेषु प्रादुर्भूत वरुणापरमागामिन्यपि काले नमःशब्दं ब्रवाम । उच्चार-
+> याम । कस्मादिति चेदुच्यते । दूळभ दुर्दभ दंभितुं हिंसितुमशक्य ॥ दुरो
+> दाशनाशध्यादभेषु । पा. ६. ३. १०९. ५. । इति रेफस्योत्वमुत्तरपदादेः ष्टुत्वं च ।
+
+> *he varuṇa purā pūrvasminkāle te śubhyaṃ namo namaskārapratipādakaṃ nama iti*
+> *śabdamavādisma | uta api ca nūnamadyāpi bravāma | uta api ca he tuvijāta bahuṣu*
+> *pradeśeṣu prādurbhūta varuṇāparamāgāminyapi kāle namaḥśabdaṃ bravāma | uccāra-*
+> *yāma | kasmāditi ceducyate | dūḷabha durdabha daṃbhituṃ hiṃsitumaśakya ‖ duro*
+> *dāśanāśadhyādabheṣu | pā. 6. 3. 109. 5. | iti rephasyotvamuttarapadādeḥ ṣṭutvaṃ ca |*
+
+### Printed p. 118
+
+> कमित्येतत्पादपूरणं ॥ हि यस्मात् त्वे त्वयि पर्वते न शिलोच्चय इवाप्रच्युता-
+> न्यनैः प्रच्यावयितुमशक्यानि व्रतानि कर्माणि विधरणानि श्रितानि । आश्रितानि ।
+> तस्मादित्यर्थः ॥
+
+> *kamityetatpādapūraṇaṃ ‖ hi yasmāt tve tvayi parvate na śiloccaya ivāpracyutā-*
+> *nyanaiḥ pracyāvayitumaśakyāni vratāni karmāṇi vidharaṇāni śritāni | āśritāni |*
+> *tasmādityarthaḥ ‖*
+
+Gist: Sāyaṇa says that, since Varuṇa's undertakings (*vrata*) rest in him unmoved like a rock, the worshippers bow to him; the tail of the bhāṣya gives the Vedic changes of *dūḷabha* (reference Pā. 6-3-109-5) and the filler *kam*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Dūḷabha—O unobstructed one; Varuṇa—O Varuṇa; Hi—because; Te—in you; Parvate na—as seen in mountains; Apracyutāni—not movable by others; Vratāni—powers of support; Śritāni—have taken refuge (therefore); Purā—in former time; Te—directed to you; Namaḥ—worship with obeisance was offered; Uta—and; Nūnaṃ—now also; Bravāma—we recite praise with obeisance; Uta—moreover; Tuvijāta—Varuṇa, born in many regions; Aparaṃ—in future times also (we shall offer you worship of this same kind).
+
+**भावार्थ (Bhāvārtha)**
+
+O unobstructed Varuṇa, because powers of support, immovable by others as in mountains, have taken refuge in you, we have offered worship with obeisance to you in former time and now also. O Varuṇa, born in many regions, in the same way we shall recite praises with obeisance in the future also. (The printed text has "ಅಪ್ರತಿಹನಾದ" for "ಅಪ್ರತಿಹತನಾದ" in the first line, as supplied.)
+
+**Printed English translation**
+
+As we have offered adoration to you, Varuua [sic], of old, in like manner as we offer it now so may we offer it in future (to you), you are everywhere present: for in you, who are difficult of attainment, as in an (immoveable) mountain, all holy acts are assembled, and are not to be dissevered.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Varuṇa is addressed by the word तुविजात (*tuvijāta*). Since his authority extends over many regions, he is described as born in many regions accordingly, and as दूळभ (*dūḷabha*)—one who cannot be harmed by anyone. त्वे—पर्वते न अप्रच्युतानि व्रतानि श्रितानि (*tve—parvate na apracyutāni vratāni śritāni*)—त्वयि शिलोच्चय इव अन्यैः प्रच्यावयितुमशक्यानि आश्रितानि (*tvayi śiloccaya iva anyaiḥ pracyāvayitumaśakyāni āśritāni*): Varuṇa's power of support cannot be destroyed by anyone, like mountains, rocks, earth and trees; so his might is described. Then, addressing Varuṇa of such abundant might, the fixed practice of the obeisance-worship and the like, offered by sacrificers in the three times, past, present and future, and being offered, is stated.
+
+### Printed p. 119
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> पर॑ ऋ॒णा सा॑वी॒रध॒ मत्कृ॑तानि॒ माहं रा॑जन्न॒न्यकृ॑तेन भोजं ।
+> अव्यु॑ष्टा॒ इन्नु भूय॑सीरु॒षास॒ आ नो॑ जी॒वान्व॑रुण॒ तासु॑ शाधि ॥
+
+**॥ पदपाठः ॥**
+
+> परा । ऋणा । सावीः । अध । मत्कृतानि । मा । अहं । राजन् । अन्यकृतेन ।
+> भोजं ।
+> अविउष्टाः । इत् । नु । भूयसीः । उषसः । आ । नः । जीवान् । वरुण । तासु ।
+> शाधि ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण ऋणा ऋणानि पित्रादिभिः कृतान्यस्माभिर्देयानि परा सावीः । परा
+> सुव । पराचीनं प्रेरय ॥ षू प्रेरणे । छांदसो लुज् ॥ अध आधुना मत्कृतानि
+> मया निष्पादितानि ऋणानि परा सुव । अपि च हे राजन् स्वामिन् वरुण आहमन्य-
+> कृतेनान्यैरर्जितेन धनेन मा भोजं । भोगं मा लभेयं । किं कारणमिति
+> चेदुच्यते । भूयसीर्भूयस्यो बहुतरा उषसोऽव्युष्टा इन्नु॥ सत्यमव्युष्टा
+> एव । अपररात्रेषूत्थाय ऋणानि चिंतयतो जाग्रतो मम व्युष्टा अप्यव्युष्टकल्पा
+> आसन् । हे वरुण तासूषिसु नोऽस्मान् जीवान् जीवनवत आशाधि । आ समंताद-
+> नुशिष्टान् कुरु । ऋणान्यपकृत्य भोगपर्याप्तं धनं प्रयच्छेत्यर्थः ॥
+
+> *he varuṇa ṛṇā ṛṇāni pitrādibhiḥ kṛtānyasmābhirdeyāni parā sāvīḥ | parā*
+> *suva | parācīnaṃ preraya ‖ ṣū preraṇe | chāṃdaso luj ‖ adha ādhunā matkṛtāni*
+> *mayā niṣpāditāni ṛṇāni parā suva | api ca he rājan svāmin varuṇa āhamanya-*
+> *kṛtenānyairarjitena dhanena mā bhojaṃ | bhogaṃ mā labheyaṃ | kiṃ kāraṇamiti*
+> *ceducyate | bhūyasīrbhūyasyo bahutarā uṣaso 'vyuṣṭā innu‖ satyamavyuṣṭā*
+> *eva | apararātreṣūtthāya ṛṇāni ciṃtayato jāgrato mama vyuṣṭā apyavyuṣṭakalpā*
+> *āsan | he varuṇa tāsūṣisu no 'smān jīvān jīvanavata āśādhi | ā samaṃtāda-*
+> *nuśiṣṭān kuru | ṛṇānyapakṛtya bhogaparyāptaṃ dhanaṃ prayacchetyarthaḥ ‖*
+
+Gist: Sāyaṇa takes the prayer to be that Varuṇa discharge the debts incurred by forefathers and by the speaker, so that he enjoy no wealth earned by others, and be given means of livelihood in the many dawns that have passed in sleeplessness over debts; the tail gives the root *sū* (to urge) with the Vedic *luṅ* form.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Varuṇa—O Varuṇa; Ṛṇā—the debts incurred by our forefathers; Parā sāvīḥ—discharge; Adha—now; Matkṛtāni—discharge also the debts incurred by me; Rājan—O Varuṇa, the lord; Ahaṃ—I; Anyakṛtena—with wealth earned by others; Mā bhojaṃ—do not make me enjoy; Bhūyasīḥ—many times; Uṣasaḥ—the shining dawns; Avyuṣṭā innu—(because of the burden of debt) have become as if unrisen, like darkness; Tāsu—in such dawn-times; Naḥ—us; Jīvān—that we may have a peaceful life; Ā śādhi—make us free of debt.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, discharge the debts incurred by our forefathers and the debts now incurred by me. O Varuṇa, the lord, do not let me enjoy pleasure with wealth earned by others [the supplied text of the Bhāvārtha ends here, in mid-sentence, at the end of this window].
+
 ---
 
-**Progress note:** Done through printed p. 116 (PDF 116). Sūkta 28 Ṛk 6 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 7 complete. Hand fix to kn.md: removed software-generated image line. Flags: Pratipadārtha 'apo mṛkṣa' vs Saṃhitā/Pada 'myakṣa'; 'Si. 2-22' printed for Ni.; 'ಆಯುಧ್ಯೈಃ', 'ಆಸ್ಮಾನ್' and 'ಪಾಪಃ', 'ಜೋಧ್ಯ' as supplied; Ṛk 6 Pada has no Ṛk number
+**Progress note:** Done through printed p. 119 (PDF 119). Sūkta 28 Ṛk 7 Special Topics completed on p. 117; Ṛk 8 complete (p. 118); Ṛk 9 through Bhāvārtha start (window ends mid-Bhāvārtha, continues p. 120). Hand fixes to kn.md: prose Sanskrit into blocks, garbled labels (पदपाठ, सहिताषाठ, भाषार्थ) replaced by standard ones, stray 'सचिवालय' line removed, Ṛk 8/9 Saṃhitā put in blocks, bhāṣya label moved out of block. Flags as supplied: Ṛk 8 Pada 'ದುಃಸದಭ' vs Saṃhitā 'ದೂಳಭ'; Ṛk 9 Saṃhitā 'ಪರ' vs Pada 'ಪರಾ', bhāṣya 'ತಾಸೂಷಿಸು', 'ಅಪ್ರತಿಹನಾದ'; 'ಪು ಸಂ.' for Ṛg. Saṃ.; 'Si. 7-2'; Varuua [sic]
