@@ -1719,6 +1719,140 @@ thus it is described. By this it is described that the power of the sacrificer w
 
 *yaṃyam*—whichever sacrificer; *brahmaṇaspatiḥ*—Brahmaṇaspati; *yujam*—as a friend; *kṛṇute*—makes; *tasmai*—for that sacrificer; *divyāḥ*—the rains born of the heavenly world; *asaścataḥ*—without hindrance; *arṣanti*—pour; *haḥ* [sic, as supplied; for *saḥ*?]—he; *satvabhiḥ*—with his attendants; *prathamaḥ*—before other sacrificers; *goṣu*—wealth in the form of cattle; *gacchati*—obtains; *anibhṛṣṭatavisiḥ*—possessing strength that cannot be defeated by others; *ojasā*—by his vigour; *hanti*—he destroys (the enemies).
 
+### Printed p. 57
+
+*Running head: Aṣṭaka 2, Adhyāya 6 [sic, as supplied], Varga 4, Ṛgveda-saṃhitā, p. 57.*
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer whom Brahmaṇaspati makes his friend: for him the rains born of the heavenly world pour down without hindrance. Together with his attendants he obtains wealth in the form of cattle before other sacrificers. Possessing a strength that others cannot defeat, he destroys his enemies by his valour.
+
+**Printed English translation**
+
+For him, the unobstructed rains of heaven descend : first among the devout, he acquires (wealth) in cattle: of irresistible vigour, he destroys his enemies by his strength, whom Brahmanaspati makes his associate.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+For the sacrificers who please Brahmaṇaspati with oblations and the like, दिव्याः असश्चतः अर्षंति (*divyāḥ asaścataḥ arṣaṃti*): the waters produced from the excellent rain stored in the atmosphere will [?] (the word as supplied is मॊरकुवुवु (*mòrakuvuvu*)) as they wish. And सत्वभिः प्रथमः:—परिचारकैः सहितः अन्येभ्यः यजमानेभ्यः पूर्वभावी गोषु गच्चति (*satvabhiḥ prathamaḥ:—paricārakaiḥ sahitaḥ anyebhyaḥ yajamānebhyaḥ pūrvabhāvī goṣu gaccati*) [sic, गच्चति (*gaccati*) as supplied]: the sacrificer, accompanied by attendants, obtains wealth such as cattle. Further, अनिभृष्टतविषिः ओजसा बलेन हंति परैरबादिता तविषी यस्य तादृशः बलेन शत्रुहंति (*anibhṛṣṭataviṣiḥ ojasā balena haṃti parairabāditā taviṣī yasya tādṛśaḥ balena śatruhaṃti*): it is explained that the sacrificer who has earned Brahmaṇaspati's favour, possessing abundant strength that others cannot assail ("ಮತು" as supplied) and that suffices to subdue enemies, becomes able to subdue his enemies by it.
+
+The word दिव्य (*divya*) is interpreted by Yāska as "born in heaven" दिविज (*divija*) (Ni. 7-18). The word तविषी (*taviṣī*) is stated among the names of strength (Ni. 3-9).
+
+The word ओजः (*ojaḥ*) is stated both among the names of strength (Ni. 3-9) and among the names of water (Ni. 2-24), and is explained ओज ओजतेर्वा उज्जतेर्वा (*oja ojatervā ujjatervā*) (Ni. 6-8).
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> तस्मा॒ इद्विश्वे॑ धुनयंत॒ सिंध॒वोऽच्छि॑द्रा॒ शर्म॑ दधिरे पु॒रूणि॑ ।
+> दे॒वानां॑ सु॒म्मे सु॒भगः॒ स ए॑धते॒ यंयं॒ युजं॑ कृणु॒ते ब्रह्म॑ण॒॑
+> स्पतिः ॥ ५ ॥
+
+> *tasmā idviśve dhunayaṃta siṃdhavo 'cchidrā śarma dadhire purūṇi |*
+> *devānāṃ summe subhagaḥ sa edhate yaṃyaṃ yujaṃ kṛṇute brahmaṇa*
+> *spatiḥ ‖ 5 ‖*
+
+### Printed p. 58
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 25, p. 58.*
+
+**॥ पदपाठः ॥**
+
+> तस्मै । इत् । विश्वे । धुनयंत । सिंधवः । अच्छिद्रा । शर्म । दधिरे । पुरूणि ।
+> देवानां । सुम्मे । सुभगः । सः । विधते । यंयं । युजं । कृणुते । ब्रह्मणः ।
+> पतिः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तस्मा इत् तस्मा एव यजमानाय विश्वे सिंधवः सर्वाः स्यंदनशीला नद्यो
+> धुनयंत । चलयंति । एतदभीष्टफलसिद्ध्यर्थं प्रवहंतीत्यर्थः । तथा अच्छिद्रा
+> अच्छिद्राणि छिद्ररहितानि संततानि पुरूणि बहूनि शर्म शर्माणि सुखानि दधिरे ।
+> तस्मा एव धार्यंते । यद्वा शर्मेति गृहनाम । छिद्ररहितानि बहूनि सदनानि
+> धार्यंते । सुभगः शोभनधनो देवानां सुम्मे देवैः प्रत्ये सुखे वर्तमानः
+> सन् विधते । वर्धते । शिष्यं स्पष्टं ॥
+
+*Gist:* for that sacrificer all the flowing rivers stream; many unbroken comforts (or houses) are held for him; rich in wealth and in the gods' favour he prospers.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*yaṃyam*—whichever sacrificer; *brahmaṇaspatiḥ*—Brahmaṇaspati; *yujam*—as a friend; *kṛṇute*—makes; *tasmā it*—for him alone; *viśve sindhavaḥ*—all the rivers; *dhunayanta*—flow; *acchidrā*—without break, everlasting; *purūṇi*—and abundant; *śarma*—comforts (or houses); *dadhire*—are held (for him); *saḥ*—that sacrificer; *subhagaḥ*—possessing excellent wealth; *devānām*—given by the gods; *summe*—while living in happiness; *vidhate*—enjoys increase.
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer whom Brahmaṇaspati makes his friend: for his sake all the rivers flow. Comforts (houses) that are unbroken, everlasting and abundant are held for him alone. That sacrificer, possessing excellent wealth and living in the happiness given by the gods, enjoys increase. (The supplied text has "ಅವನಿಗೋ, / ಸ್ಕರವೇ" at the line break, for अवनिगोस्करवे (*avanigoskarave*) "for his sake".)
+
+**Printed English translation**
+
+Verily, for him all rivers flow : him do uninterrupted and numerous pleasures await : blessed with the felicity of the Gods he ever prospers, whom Brahmanaspati makes his associate.
+
+### Printed p. 59
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 5, Ṛgveda-saṃhitā, p. 59.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+विश्वे सिंधवः तस्मा इत् धुनयंत (*viśve siṃdhavaḥ tasmā it dhunayaṃta*)—सर्वाः स्यंदनशीला नद्यः एतदभीष्टफलसिद्ध्यर्थं प्रवहंति (*sarvāḥ syaṃdanaśīlā nadyaḥ etadabhīṣṭaphalasiddhyarthaṃ pravahaṃti*): it is stated, as an extraordinary glory of Brahmaṇaspati, that all the rivers full of currents flow for the sacrificers who have pleased him, only so as to grant the desired objects.
+
+अच्छिद्राणि पुरूणि शर्म दधिरे (*acchidrāṇi purūṇi śarma dadhire*)—अच्छिद्राणि (*acchidrāṇi*) means "without a break" (continuous, strung together without interruption). The word शर्म (*śarma*) is stated to mean both "house" and "comfort" (Ni. 3-13, as supplied, "ಸಿ."). It is described that the sacrificers obtain abundant comfort not mixed with sorrow and the like in the middle period, and छिद्ररहितानि बहूनि सदनानि (*chidrarahitāni bahūni sadanāni*), many firm houses.
+
+Further, the sacrificer who has earned Brahmaṇaspati's favour—सुभगः देवानां सुम्मे विधते (*subhagaḥ devānāṃ summe vidhate*)—शोभनधनः देवैः प्रत्तॆ सुखे वर्तमानः वर्धते (*śobhanadhanaḥ devaiḥ prattè sukhe vartamānaḥ vardhate*) [sic, प्रत्तॆ (*prattè*) as supplied]: having excellent wealth and living in the excellent happiness granted by the gods, he grows; so it is described. The word सुम्म (*summa*) is read among the names of happiness (Ni. 3-13, as supplied, "ಸಿ.").
+
+## Sūkta 26 (Maṇḍala 2)
+
+*The twenty-sixth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> ऋजुरिति चतुर्यचं चतुर्थं सूक्तं गृत्समदस्यार्षं जागतं ब्राह्मणस्पत्यं ।
+> तथा चानुक्रांतं । ऋजुश्चतुष्कमिति । गतो विनियोगः ॥
+
+*Gist:* *ṛjuḥ* is the fourth sūkta of Anuvāka 3, of four ṛks, by Gṛtsamada, in *jagatī* metre, with Brahmaṇaspati as deity; the application was stated before.
+
+**Anuvāda (Kannada).** The sūkta *ṛjur* is the fourth sūkta of the third anuvāka. It has four ṛks. The seer of this sūkta is Gṛtsamada; the deity is Brahmaṇaspati; the metre is *jagatī*. In the Anukramaṇikā it is said: ऋजुश्चतुष्कमिति (*ṛjuścatuṣkamiti*). The application (*viniyoga*) has been stated before, that is, it is as in the preceding sūkta.
+
+**Sūkta—26**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 26 ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 5 ‖
+Number of ṛks in the Sūkta: 4 ·
+Ṛṣi: Gṛtsamada · Devatā: Brahmaṇaspati · Chandas: *jagatī*.
+
+### Printed p. 60
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 26, p. 60 (printed "ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ" in the supplied text).*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒जुरिच्छंसो॑ वनवद्वनुष्य॒तो दे॑व॒यन्नि ददे॑वयंतम॒भ्य॑सत् ।
+> सु॒प्रा॒वीरिद्व॑नवत्पृ॒त्सु दु॒ष्टरं॒ यज्वेदय॑ज्यो॒र्वि भ॑जाति॒ भो-॑
+> जनं ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> ऋजुः । इत् । शंसः । वनवत् । वनुष्यतः । देवयन् । इत् । अदेवयंतं । अभि ।
+> असत् ।
+> सुप्रअवीः । इत् । वनवत् । पृत्सु । दुस्तरं । यज्वा । इत् । अयज्योः । वि ।
+> भजाति । भोजनं ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋजुरित् आर्जवयुक्त एव । यद्वा मुंजतिः प्रसाधनकर्मा । स्तोत्राणां
+> प्रसाधक एव तंसो ब्रह्मणस्पतेः स्तोता वनुष्यतो हिंसतः शत्रून् वनवत् ।
+> वनुयात् हिंस्यात् ॥ वनोतेर्हंतिकर्मण एतद्रूपं ॥ तथा देवयन्नित् देवं
+> दानादिगुणयुक्तं ब्रह्मणस्पतिमात्मन इच्छन्नेव आदेवयंतं तद्वीपरीतं पुरुष
+> मभ्यसत् । अभिभवेत् ॥ अस्तेर्लेट्येतद्रूपं ॥ तथा सुप्रावीरित् ॥ अवतेस्यप्यर्था-
+> दौणादिक ईकारप्रत्ययः ॥ सुष्टु प्रकर्षेण ब्रह्मणस्पतेस्तरयितैव पृतु
+> पृतनासु संग्रामेषु दुस्तरं तुरीतुमशक्यं वनवत् । हिंस्यात् । तथा यज्येत्
+> ब्रह्मणस्पतिं हविषेष्टवानेव आयज्योरयज्जनो भोजनं भोगसाधनु विभजाति ।
+> विशेषेण भजेतेत्यर्थः ॥
+
+*Gist:* the upright praiser of Brahmaṇaspati may slay hostile enemies; wishing for the god he overcomes the godless man; he overcomes foes hard to overcome in battles; the sacrificer enjoys the enjoyment of the non-sacrificer.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*ṛjur it*—the very one of upright mind; *śaṃsaḥ*—the praiser (of Brahmaṇaspati); *vanuṣyataḥ*—the harming enemies; *vanavat*—may he destroy; *devayan nit*—wishing the favour of the god Brahmaṇaspati; *adevayantam*—the man without devotion to the gods; *abhyasat*—may he overcome; *suprāvīr it*—satisfying (Brahmaṇaspati) with worship; *pṛtsu*—in battles (the supplied text breaks off here, at संग्राम (*saṃgrāma*))
+
 ---
 
-**Progress note:** Done through printed p. 56 (PDF 56). Sūkta 25: Ṛk 2 Bhāvārtha, printed English, Special Topics (p. 53); Ṛk 3 complete (pp. 54-56); Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 56). Window actually covers pp. 53-56 (p. 56 was merged into p. 55 text: marker/heading inserted, pages.json extended). Hand fixes to kn.md: Pratipadārtha split from bhāṣya blocks (garbled labels 'ಪ್ರತಿಸದರ್ಥ', '೧ ಪ್ರತಿಪಾರ್ಶ್ವ'), Pada label inserted for Ṛk 4 (garbled 'ಜವಡಾ'), stray 'This image contains no text' line removed. 0 [?]; unmarked supplied slips: 'ಸಿ.' for ನಿ. (Ni. 1-7), 'ಬ್ರಹ್ಮಸ್ಪಣತಿ', 'ಪೌತರನ್ನೂ', 'ವಧ್ರೀನ್/ವಧ್ರೇರ್', 'ಶಿಮಾವಾನ್', 'ಯಘಾಯತಃ', 'ಹಃ' for ಸಃ in Ṛk 4 Pratipadārtha, 'ರ್ತಾನ್', 'ಸವೀಯಃ'; accent script: 1 DIFF, 1 NOMATCH line
+**Progress note:** Done through printed p. 60 (PDF 60). Sūkta 25 Ṛk 4 Bhāvārtha, printed English, Special Topics (p. 57); Ṛk 5 complete (pp. 57-59); Sūkta 26 header and Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (p. 60, breaks off at 'pṛtsu—saṃgrāma'). Window actually covers pp. 57-60 (p. 60 merged into p. 59 text: marker/heading inserted, pages.json extended). Hand fixes to kn.md: garbled labels replaced (Bhāvārtha, Saṃhitā, Pada ಪವನಾತ, bhāṣya ೧ ಸಾಯಣಭಾಷ್ಯಂ ೧), Ṛk 4 Bhāvārtha and Sūkta 26 Anuvāda/meta unquoted from blocks, stray image line removed. 1 [?]: ಮೊರಕುವುವು (p. 57 Special Topics). Unmarked supplied slips: ಸಿ. for ನಿ. (Ni. 3-13), ಅವನಿಗೋ/ಸ್ಕರವೇ, ಮತು, ಗಚ್ಚತಿ, ಪ್ರತ್ತೆ/ಪ್ರತ್ಯೇ, ವಿಧತೇ vs ಏಧತೇ, ದುಷ್ಟರಂ vs ದುಸ್ತರಂ, ಸಾಯಣಭಾವ್ಯ
