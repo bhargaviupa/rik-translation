@@ -29150,4 +29150,86 @@ The Kannada: "Just as one measures and builds a sacrificial house with instrumen
 
 ---
 
-**Progress note:** Done through printed p. 758 (PDF 781). Sūkta 15: Ṛk 1 closed (last item of Viśeṣaviṣayagaḷu finished on p. 756). Ṛk 2 complete (pp. 756–757, with its Viśeṣaviṣayagaḷu). Ṛk 3 open: Saṃhitā, Pada (number 3 printed after the Pada), bhāṣya and Pratipadārtha written; the Bhāvārtha breaks off mid-sentence at the foot of p. 758 and continues on p. 759. Numeral file had 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed/doubtful: varga numeral in the p. 757 header (read 15); Ṛgveda reference "7-58-1" for ⟦अवंश⟧ (p. 757); Nirukta references "1-7" and "2-21"; Ṛgveda reference "3-33-6" in the bhāṣya of Ṛk 3; the bhāṣya words "षट्त्रिंशत्प्रक्रमुप्राचीत्येवंरूपैः", "परिमाण्यैः" and "इत्यहावपि". FLAG FOR CLEAN-UP: the Ṛk 2 chunk contains a duplicate Pada block (the first form "पपप्रथत्" is a slip, superseded by the second block with पप्रथत्) and a stray note under the Pratipadārtha about the heading word; remove the first Pada block and its note when the file is tidied. Accents not reproduced.
+---
+
+### Printed p. 759 (PDF 782)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 15 ]" in small Kannada numerals, "Ṛgvedasaṃhitā", "759". The varga numeral is read as 15, unzoomed. No numeral-file rows; nothing zoomed.)*
+
+*(Continuation of the Bhāvārtha of Ṛk 3, broken off at the foot of p. 758. The first word on this page is a partial "…toḍidanu".)* The Kannada: "…he dug (them) open, and created them so that they flow without hindrance by paths that flow for a long time. When exhilaration arose from drinking the soma juice, Indra did these great deeds."
+
+**English Translation** *(as printed)*
+
+(He it is) who has measured the eastern (quarters) with measures like a chamber; who has dug with the thunderbolt the beds of the rivers, and has easily sent them forth by long-continued paths: in the exhilaration of the Soma, Indra has done these (deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Kannada: "In this Ṛk three daring deeds of Indra are described."
+
+**सद्मेव प्राचो वि मिमाय मानैः (*sadmeva prāco vi mimāya mānaiḥ*)**—The Kannada: "By whatever measures sacrificial houses must be built, in the same way Indra built the quarters beginning with the east. Here *sadma* may mean a sacrificial house, or an ordinary house in which one lives. But for an ordinary house there is no rule that it must be of just such a measure. Only when a sacrificial house is being built must it be built according to the rules that relate to it. Therefore, from the use of the word **मानैः (*mānaiḥ*)**—'with measures' in this sentence, the meaning 'sacrificial house' is to be understood for the word *sadma*."
+
+**वज्रेण खानि अतृणत् नदीनाम् (*vajreṇa khāni atṛṇat nadīnām*)**—The Kannada: "For whatever work Indra has to do, the vajra weapon is the chief means. So it is described here that Indra, with the vajra weapon, dug the channels along which the rivers flow, or the river-beds. In this matter the following Ṛk is cited as an example that points to this same meaning—"
+
+> इंद्रो अस्मा अरदद्वज्रबाहुरसाहन्वृत्रं परिधिं नदीनां । [?]
+
+> *iṃdro asmā aradadvajrabāhurasāhanvṛtraṃ paridhiṃ nadīnāṃ | [?]*
+
+*(The printed words "अस्मा" and "बाहुरसाहन्" are doubtful and unzoomed. Reference printed in small numerals: Ṛ. Saṃ. 3-33-6, read unzoomed [?]. Gloss, mine and tentative: "Indra, the vajra-armed, ... Vṛtra, the encircler of the rivers".)*
+
+The Kannada: "...is the Ṛk which they give as the example."
+
+**वृथा असृजत् पथिभिः दीर्घयाथैः (*vṛthā asṛjat pathibhiḥ dīrghayāthaiḥ*)**—The Kannada: "The river-beds spoken of above Indra created effortlessly, that is, without any kind of labour, by paths that flow for a very long time, or for a very long distance. Here the word **वृथा (*vṛthā*)** means 'effortlessly'. If we have to do some work, much labour is needed. But Indra created the beds of all the rivers, which extend over many yojanas, without any labour: such is the intention. The word **दीर्घयाथैः (*dīrghayāthaiḥ*)** can be explained in two ways: 'flowing for a long time' or 'flowing to a long distance'. **पथिभिः (*pathibhiḥ*)** means 'by paths', or 'by river-beds'. In this sentence the word **नदीः (*nadīḥ*)**—'the rivers' (accusative)—must be supplied by *adhyāhāra* (understood from outside)…" *(the page ends here; the sentence continues on p. 760)*
+
+---
+
+*(PDF 783 is an exact duplicate of the image of PDF 782: same header "759", same text. Nothing is written for it. From PDF 784 the printed page is PDF − 24.)*
+
+---
+
+### Printed p. 760 (PDF 784)
+
+*(Header, read from the strip: "760", "Sāyaṇabhāṣyasahitā", "[ Maṃ. 2 A. 2 Sū. 15" in small Kannada numerals. The task labelled this page "761"; the header reads 760. No numeral-file rows; nothing zoomed.)*
+
+*(Continuation of the last item of the Viśeṣaviṣayagaḷu of Ṛk 3.)* The Kannada: "…the word **नदीः (*nadīḥ*)**—'the rivers'—must be taken as understood by *adhyāhāra*."
+
+---
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> स प्र॑वो॒ळ्ह्वान्प॑रि॒गत्या॑ द॒भीते॒र्विश्व॑मधा॒गायु॑धमि॒द्धे अ॒ग्नौ ।
+> सं गोभि॒रश्वै॑रसृज॒द्रथे॑भिः॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+> *sa pravoḷhvānparigatyā dabhīterviśvamadhāgāyudhamiddhe agnau |*
+> *saṃ gobhiraśvairasṛjadrathebhiḥ somasya tā mada iṃdraścakāra ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । प्रवोळ्ह्वान् । परिगत्य । दभीतेः । विश्वं । अधाक् । आयुधं । इद्धे । अग्नौ ।
+> सं । गोभिः । अश्वैः । असृजत् । रथेभिः । सोमस्य । ता । मदे । इंद्रः । चकार ॥ ४ ॥
+
+> *saḥ | pravoḷhvān | parigatya | dabhīteḥ | viśvaṃ | adhāk | āyudhaṃ | iddhe | agnau |*
+> *saṃ | gobhiḥ | aśvaiḥ | asṛjat | rathebhiḥ | somasya | tā | made | iṃdraḥ | cakāra ‖ 4 ‖*
+
+*(Ṛk number "4" printed after the Pada; none after the Saṃhitā. In the Pada, a stray "!" is printed in place of the daṇḍa after इद्धे. The form प्रवोळ्ह्वान् is as I read it; the Saṃhitā glyph before the nasal is slightly unclear, unzoomed [?].)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra confronted the asuras carrying off the royal sage Dabhīti, burnt all their weapons in the blazing fire, then gave Dabhīti their cows, horses and chariots.*
+
+> प्राक्किल चुमुरिधुनिप्रभृतयोऽसुरा दभीतेः पुरं संरुध्य परिगृह्य तस्मात्पुरान्निरगुरिति कथा । स इंद्रो दभीतेः । दभीतिर्नाम कश्चिद्राजर्षिः । तस्य प्रवोळ्ह्वान् प्रवोढ्वान् ॥ सहिवहोरोदवर्णस्येत्योत्वं ॥ प्रकर्षेण तं दभीतिं वहतस्तानसुरान् मध्ये मार्गं परिगत्य तेषां विश्वं सर्वमायुधमिद्धेऽग्नौ दीप्यमाने वह्नावधाक् । अधाक्षीत् ॥ दहेर्लुङि मंत्रे घसेत्यादिना च्लेर्लुक् ॥ पश्चात्तं दभीतिं गोभिरश्वै रथेभी रथैश्च समसृजत् । संयोजितवान् । सोमस्यादि सिद्धमिति ॥
+
+> *prākkila cumuridhuniprabhṛtayo 'surā dabhīteḥ puraṃ saṃrudhya parigṛhya tasmātpurānniraguriti kathā | sa iṃdro dabhīteḥ | dabhītirnāma kaścidrājarṣiḥ | tasya pravoḷhvān pravoḍhvān ‖ sahivahorodavarṇasyetyotvaṃ ‖ prakarṣeṇa taṃ dabhītiṃ vahatastānasurān madhye mārgaṃ parigatya teṣāṃ viśvaṃ sarvamāyudhamiddhe 'gnau dīpyamāne vahnāvadhāk | adhākṣīt ‖ daherluṅi maṃtre ghasetyādinā clerluk ‖ paścāttaṃ dabhītiṃ gobhiraśvai rathebhī rathaiśca samasṛjat | saṃyojitavān | somasyādi siddhamiti ‖*
+
+*(Doubtful and unzoomed: "पुरान्" in "तस्मात्पुरान्निरगुरिति" (the line breaks after the first syllable; read [?]) and the second form "प्रवोढ्वान्" [?]. The grammatical tail is transcribed, not explained: the substitution of *o* for the vowel of vah by the rule "sahivahor odavarṇasya"; the root दह् (*dah*) in luṅ with the dropping of cleḥ by "ghasa…" etc. in the mantra. No sūtra numbers are printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—Indra. दभीतेः (*dabhīteḥ*)—the royal sage named Dabhīti. प्रवोळ्ह्वान् (*pravoḷhvān*)—the asuras who were carrying (him) away. परिगत्य (*parigatya*)—having confronted (them). विश्वं (*viśvaṃ*)—their entire. आयुधं (*āyudhaṃ*)—weapons too. इद्धे (*iddhe*)—in the blazing. अग्नौ (*agnau*)—in fire. अधाक् (*adhāk*)—he burnt. गोभिः (*gobhiḥ*)—(of those asuras) with the cows. अश्वैः (*aśvaiḥ*)—with the horses. रथेभिः (*rathebhiḥ*)—with the chariots. समसृजत् (*samasṛjat*) (printed so, for the Saṃhitā's असृजत्, as in the Pratipadārtha)—he united Dabhīti (with them). सोमस्य (*somasya*)—by the drinking of the soma juice. मदे (*made*)—when exhilaration arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—did.
+
+*(The Bhāvārtha of Ṛk 4 follows on the next page, not yet seen.)*
+
+---
+
+**Progress note:** Done through printed p. 760 (PDF 784). Ṛk 3 is complete (its Bhāvārtha, printed English and Viśeṣaviṣayagaḷu on p. 759, with the last item finishing at the head of p. 760). PDF 783 is an exact duplicate image of PDF 782 (both show header 759), so nothing was written for it; the offset is now printed = PDF − 24 from PDF 784 (the task label "761" for PDF 784 was wrong: the header reads 760). Sūkta 15, Ṛk 4 is open: Saṃhitā, Pada (number 4 printed after the Pada), bhāṣya with gist and Pratipadārtha are written; the Bhāvārtha comes next on p. 761. The numeral file had 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed/doubtful: varga numeral in the p. 759 header (read 15); Ṛgveda reference "3-33-6" and the words "अस्मा" and "बाहुरसाहन्" in the quoted mantra on p. 759; the Saṃhitā/Pada form प्रवोळ्ह्वान्; the bhāṣya words "तस्मात्पुरान्" and the second "प्रवोढ्वान्". Earlier flag stands: the Ṛk 2 chunk contains a duplicate Pada block (and a stray note under its Pratipadārtha) to be removed when the file is tidied. Accents not reproduced.
