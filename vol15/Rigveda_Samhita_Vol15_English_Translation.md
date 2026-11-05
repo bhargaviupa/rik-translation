@@ -4890,6 +4890,88 @@ he explained the meaning सरस्वती—माध्यमिका व
 
 Gist: O Bṛhaspati, pierce with a sharp weapon the thief or killer who threatens us; conquer our enemies with weapons; hurl the thunderbolt around the hostile harmer.
 
+### Printed p. 156
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Bṛhaspate—O Bṛhaspati; yaḥ—who; naḥ—(wishing harm) to us; sanutyaḥ—lies in wait in a hidden place; uta vā—and also; jighatnuḥ—wishes to harm; taṃ—that asura; abhikhyāya—having searched out; tigitena—with a sharp weapon; vidhya—strike; śatrūn—our enemies; āyudhaiḥ—with weapons such as arrows, striking; jeṣi—conquer; rājan—O shining one; bṛhaspate—O Bṛhaspati; druhe—against the enemy who works treachery; riṣantaṃ—the harming thunderbolt; pari dhehi—hurl, cast.
+
+**भावार्थ (Bhāvārtha)**
+
+O shining Bṛhaspati, search out the asura who, wishing us harm, lies in wait in a hidden place and wishes to harm us, and strike him with a sharp weapon; strike our enemies with weapons and conquer them. Hurl the harming thunderbolt against the enemy who works treachery.
+
+**Printed English translation**
+
+Detecting him who is lying in ambush (against us), who is purposing our death, pierce him, Brihaspati, with your sharp (thunderbolt), and overthrow (our) enemies with (your) weapons: hurl, monarch, your destroying (shaft) against the oppressor.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Bṛhaspati is praised; Bṛhaspati is addressed. नः सनुत्यः उत वा जिघत्सुः तं तिगितेन विध्य (*naḥ sanutyaḥ uta vā jighatsuḥ taṃ tigitena vidhya*)—a thief who lies in a hidden place against us, or one who wishes to kill, search him out and strike him with a sharp weapon. Yāska has read the word सनुतः (*sanutaḥ*) among the "hidden" names (Nirukta 3-19, as supplied). The wish is expressed that Bṛhaspati strike with a sharp weapon the thieves who, hiding in concealed places, practise theft against us the sacrificers, and those who intend to destroy us. The prayer is also made that Bṛhaspati conquer our enemies, at the time of battle, with the instruments that destroy enemies, arrows and the like (शत्रून् आयुधैः जेषि—अस्मदीयान् शत्रून् आयोधनसाधनैः इष्टादिभिः जय (*śatrūn āyudhaiḥ jeṣi—asmadīyān śatrūn āyodhanasādhanaiḥ iṣṭādibhiḥ jaya*)). Praising Bṛhaspati as shining and addressing him, द्रुहे रिषंतं परि धेहि (*druhe riṣaṃtaṃ pari dhehi*) (the Kannada explains it with दोग्भे शत्रवे हिसंतं वज्रं प्रक्षिप (*dogbhe śatrave hisaṃtaṃ vajraṃ prakṣipa*))—hurl the thunderbolt at the treacherous enemy: the sacrificers' prayer is stated that Bṛhaspati send forth or hurl the thunderbolt for the destruction of the enemies who work treachery against us.
+
+### Printed p. 157
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्माके॑भिः॒ सत्व॑भिः शूर॒ शूरै॑र्वी॒र्या॑ कृधि॒ यानि॑ ते॒ कर्त्वा॑नि ।
+> ज्योग॑भूव॒न्ननु॑धूपितासो ह॒त्वी तेषा॒मा भ॑रा नो॒ वसू॑नि ॥
+
+**॥ पदपाठः ॥**
+
+> अस्माकेभिः । सत्त्वभिः । शूर । शूरैः । वीर्या । कृधि । यानि । ते । कर्त्वानि ।
+> ज्योक् । अभूवन् । अनुधूपितासः । हत्वी । तेषां । आ । भर । नः । वसूनि ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे शूर शौर्यवन्निंद्र अस्माकेभिरास्माकीनैः सत्वभिः परेषां सादकैः शूरैः
+> शौर्योपेतैर्भटैस्तानि वीर्या वीरकर्माणि कृधि कुरु यानि ते त्वया कर्त्वानि
+> करणीयानि ॥ कृत्यार्थे तवैकेनिति करोतेस्त्वन्प्रत्ययः ॥ ज्योक् चिरकालमनुधू-
+> पितासो धूपायमानहृदया मदीयाः शत्रवोऽभूवन् । आसन् । हत्वी तान्
+> हत्वा ॥ स्नात्वादयश्चीतीकारः तेषां शत्रोणां वसूनि धनानि नोऽस्मभ्यमाभर ।
+> आहर ॥
+
+> *he śūra śauryavanniṃdra asmākebhirāsmākīnaiḥ satvabhiḥ pareṣāṃ sādakaiḥ śūraiḥ*
+> *śauryopetairbhaṭaistāni vīryā vīrakarmāṇi kṛdhi kuru yāni te tvayā kartvāni*
+> *karaṇīyāni ‖ kṛtyārthe tavaikeniti karotestvanpratyayaḥ ‖ jyok cirakālamanudhū-*
+> *pitāso dhūpāyamānahṛdayā madīyāḥ śatravo 'bhūvan | āsan | hatvī tān*
+> *hatvā ‖ snātvādayaścītīkāraḥ teṣāṃ śatroṇāṃ vasūni dhanāni no 'smabhyamābhara |*
+> *āhara ‖*
+
+Gist: O hero Indra, perform with our brave warriors the heroic deeds you must do; our enemies have long been puffed up (like smoke); slay them and bring us their wealth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śūra—O valiant Indra; asmākebhiḥ—together with those who belong to us; satvabhiḥ—who are strong to subdue enemies; śūraiḥ—and valorous, the warriors; yāni—which heroic deeds; te—by you; kartvāni—are to be performed, such; vīryā—heroic deeds; kṛdhi—accomplish; jyok—for a long time (our enemies); anudhūpitāsaḥ—swollen with pride; abhūvan—have been; hatvī—having slain such ones; teṣāṃ—their; vasūni—riches; naḥ—to us; ā bhara—bring and give.
+
+**भावार्थ (Bhāvārtha)**
+
+O valiant Indra, together with warriors who belong to us, are strong to subdue enemies and are valorous, accomplish the heroic deeds that must be performed by you. For a long time our enemies have been swollen with pride. Slay them, and bring their wealth and distribute it to us.
+
+### Printed p. 158
+
+**Printed English translation**
+
+Achieve, hero, along with our valiant heroes, the exploits that are to be achieved by you : long have (our enemies) been inflated (with pride); slay them, and bring to us their treasures.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Indra is praised. The word शूर (*śūra*) (printed कूर (*kūra*) in the Kannada, as supplied) is explained as "one having heroism, strength" and Indra is addressed with it; the wish is expressed that Indra perform deeds that are अस्माकेभिः—अस्माकीनैः (*asmākebhiḥ—asmākīnaiḥ*) (belonging to us the sacrificers), सत्वभिः—परेषां सादकैः (*satvabhiḥ—pareṣāṃ sādakaiḥ*) (utterly destroying enemies), वीर्या—वीरकर्माणि (*vīryā—vīrakarmāṇi*) (fit to be performed by heroes), कर्त्वा—करणीयानि (*kartvā—karaṇīyāni*) (that must needs be done).
+
+अनुधूपितासः हत्वी तेषां वसूनि नः आभर—मदीयाः शत्रवः धूपायमान हृदयाः । तान् हत्वा तेषां शत्रूणां धनानि अस्मभ्यं आहर (*anudhūpitāsaḥ hatvī teṣāṃ vasūni naḥ ābhara—madīyāḥ śatravaḥ dhūpāyamāna hṛdayāḥ | tān hatvā teṣāṃ śatrūṇāṃ dhanāni asmabhyaṃ āhara*). Our enemies keep for a very long time the anger they bear against us, the sacrificers, hidden within themselves; therefore the sacrificers' prayer is stated that Indra destroy them and bring their wealth to us.
+
+The word वसु (*vasu*) is read by Yāska in many senses; here the sense "wealth" is given.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> तं वः॒ शर्धं॒ मारु॑तं सुम्न॒युर्गि॒रोप॑ ब्रुवे॒ नम॑सा॒ दैव्यं॒ जनं॑ ।
+> यथा॑ र॒यिं सर्व॑वीरं॒ नशा॑महा अपत्य॒साचं॒ श्रुत्यं॑ दि॒वेदि॑वे ॥
+
+> *taṃ vaḥ śardhaṃ mārutaṃ sumnayurgiropa bruve namasā daivyaṃ janaṃ |*
+> *yathā rayiṃ sarvavīraṃ naśāmahā apatyasācaṃ śrutyaṃ divedive ‖*
+
 ---
 
-**Progress note:** Done through printed p. 155 (PDF 155). Sūkta 30 Ṛk 7 complete, Ṛk 8 complete, Ṛk 9 Saṃhitā, Pada, bhāṣya (Pratipadārtha etc. follow on p. 156). Flags: Ṛk 8 Pratipadārtha 'ಕಂಡಿಕಾನಾಂ' vs Saṃhitā 'ಶಂಡಿಕಾನಾಂ', 'ಇಂಧ್ರಸ್ಯಂ ಚಿತ್' in bhāṣya, Ṛk quotation 'ಪು. ಸಂ. ೧-೩-೧೦' as supplied; kn.md hand-fixed (stray image line removed, label restored)
+**Progress note:** Done through printed p. 158 (PDF 158). Sūkta 30 Ṛk 9 completed, Ṛk 10 complete, Ṛk 11 Saṃhitā only (Pada, bhāṣya follow on p. 159). Flags: kn.md hand-fixed (Ṛk 11 Saṃhitā put in a > block, stray '೧ ಸಂಹಿತಾಪಾಠ ೧' line replaced by label); Special Topics 'ಕೂರ' for ಶೂರ, 'ಜಿಘತ್ತುಃ' vs 'ಜಿಘತ್ಸುಃ', 'ಇಷ್ಟಾದಿಭಿಃ' vs bhāṣya 'इष्वादिभिः', 'ದೋಗ್ಭೇ' as supplied; accent DIFF 1 in report
