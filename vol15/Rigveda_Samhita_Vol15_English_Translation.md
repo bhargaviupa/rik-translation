@@ -9237,6 +9237,92 @@ and ऋष्टिभिः शुभ्रासः (*ṛṣṭibhiḥ śubhr�
 > *sumadgaṇaḥ śobhanagaṇastvamaṃdhasaḥ somalakṣaṇasyānnasya ‖ dvitīyārthe ṣaṣṭhī ‖*
 > *somalakṣaṇamannaṃ jujuṣāṇaḥ sevamāno maṃdasva | tṛpto bhava ‖*
 
+### Printed p. 294
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 36, p. 294 (as supplied).*
+
+*Gist of the Sāyaṇa-bhāṣya of Ṛk 3 (the Sanskrit is given on p. 293):* Sāyaṇa says the Ṛk is the Neṣṭṛ's prasthita-yājyā at the third pressing; Tvaṣṭṛ and the other deities are asked to come together, sit on the grass, rest, and enjoy the Soma food with their company.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुहवाः (*suhavāḥ*)—O Tvaṣṭṛ and the rest of you, who are invoked in an excellent manner; नः (*naḥ*)—to us; अमेव (*ameva*)—all together; आ गंतन (*ā gaṃtana*)—come; बर्हिषि (*barhiṣi*)—on the darbha grass; नि सदतन (*ni sadatana*)—sit down; रणिष्टन (*raṇiṣṭana*)—take rest and play; अथ (*atha*)—afterwards; त्वष्टः (*tvaṣṭaḥ*)—O Tvaṣṭṛ; देवेभिः (*devebhiḥ*)—with the other gods; जनिभिः (*janibhiḥ*)—with the wives of the gods; सुमद्गणः (*sumadgaṇaḥ*)—you who are joined by an excellent company; अंधसः (*aṃdhasaḥ*)—the food in the form of Soma; जुजुषाणः (*jujuṣāṇaḥ*)—partaking of; मंदस्व (*maṃdasva*)—be satisfied.
+
+**भावार्थ (Bhāvārtha)**
+
+O Tvaṣṭṛ and the rest of you, who are invoked in an excellent manner, come to us all together. Sitting on the grass, take rest and play. Afterwards, O Tvaṣṭṛ, you who have made an excellent company with the other gods and the wives of the gods, partake of the food in the form of Soma and be satisfied.
+
+**Printed English**
+
+You, who are devoutly invoked, come to us together, and seated on the sacrificial grass. enjoy your rest ; and then, Twashtri, you head a brilliant cohort, (come) with the gods and their wives, and rejoice, being pleased with the (sacrificial) food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+At the third pressing this Ṛk अमेव नः (*ameva naḥ*) is to be used as the prasthita-yājyā mantra to be recited by the Neṣṭṛ; this is set out by the Āśvalāyana Śrauta Sūtra in the sūtra अमेव नः सुहवा आ हि गंतनेंद्राविष्णू पिबतं मध्वो अस्य (*ameva naḥ suhavā ā hi gaṃtaneṃdrāviṣṇū pibataṃ madhvo asya*) (Ā. 5-5). In अमेव (*ameva*) the word इव (*iva*) is not used in the sense of a word of comparison; since it is stated in the sense of emphasis, it is used in the sense "together indeed".
+
+सुहवाः (*suhavāḥ*)—शोभनाह्वानाः (*śobhanāhvānāḥ*)—describing the invocation of Tvaṣṭṛ and the other deities as auspicious, it expresses the wish that these deities come together to the sacrificial hall of us, the sacrificers.
+
+बर्हिषि नि सदतन (*barhiṣi ni sadatana*)—वेद्यामास्तिर्णे निषण्णा भवत (*vedyāmāstirṇe niṣaṇṇā bhavata*). It explains: let them come to the sacrificial hall and be seated on the darbha grass spread on the altar; and रणिष्टन (*raṇiṣṭana*)—रमध्वं (*ramadhvaṃ*). रणशब्दार्थः अत्र क्रीडायां वर्तते धातूनामनेकार्थत्वात् (*raṇaśabdārthaḥ atra krīḍāyāṃ vartate dhātūnāmanekārthatvāt*). The root रण (*raṇa*) here
+
+### Printed p. 295
+
+*Running head: Aṣṭaka 2 [sic, as supplied], Adhyāya 7, Varga 25, Ṛgvedasaṃhitā, p. 295 (as supplied).*
+
+is used in the sense of play, according to the rule that roots have many meanings; hence it explains that these deities, Tvaṣṭṛ and the rest, coming to the sacrificial hall, sitting on the grass, may take their ease.
+
+जनिभिः देवेभिः सुमद्गणः (*janibhiḥ devebhiḥ sumadgaṇaḥ*)—अन्यैः देवैः देवपत्नीभिश्च शोभनगणः (*anyaiḥ devaiḥ devapatnībhiśca śobhanagaṇaḥ*). Because this god Tvaṣṭṛ is joined with the deities of his own retinue, with the other deities and with the wives of the gods, it expresses the wish that this god, joined with his company, partake of the oblation that is in the form of Soma and be satisfied.
+
+अंधसः (*aṃdhasaḥ*)—सोमलक्षणस्यान्नस्य (*somalakṣaṇasyānnasya*). The word अंधः (*aṃdhaḥ*) is stated among the names of food (Ni. 3-9). Here it explains the meaning as food that is in the form of Soma.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+*~௨௰௪௬௧௨~* (stray Tamil-numeral line in the supplied text, kept as a note)
+
+> आ व॑क्षि दे॒वा इ॒ह वि॑प्र॒ यक्षि॑ चो॒शन्नो॑त॒र्नि ष॑दा॒ योनि॑षु त्रि॒षु ।
+> प्रति॑ वीहि॒ प्रस्थि॑तं सो॒म्यं मधु॒ पिबाग्नी॑ध्रा॒त्तव॑ भा॒गस्य॑ तृप्णुहि ॥
+
+**॥ पदपाठः ॥**
+
+> आ । वक्षि । देवान् । इह । विप्र । यक्षि । च । उशन् । होतः । नि । सद । योनिषु ।
+> त्रिषु ।
+> प्रति । वीहि । प्रस्थितं । सोम्यं । मधु । पिब । आग्नीध्रात् । तव । भागस्य । तृप्नुहि ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे विप्र मेधाविन्नग्ने देवान् यष्टव्यानिंद्रादीनावक्षि । अवह । यक्षि च ।
+> तान्यज च । हे होतर्देवानामाह्वातस्त्वं चोशन्नस्मदीयं कामयमानः सन्
+> त्रिषु योनिषु स्थानेषु गार्हपत्यादिलक्षणेषु निषद । उपविश । उपविश्य च प्रस्थितं
+> होमार्थमुत्तरवेदिं प्रत्यानीतं सोम्यं सोममयं मधु प्रतिवीहि ।
+> प्रतिकामयस्व । कामयित्वा चाग्नीध्रादग्नीध्रयागात्सोमं पिब । पीत्वा च तव
+> भागस्य त्वदीयेन भागेन तृप्नुहि । तृप्तो भव ॥
+
+*Gist:* Sāyaṇa addresses Agni as the wise one: bring the gods, sacrifice to them, sit in the three places (Gārhapatya etc.), welcome the Soma brought to the northern altar, drink from the Āgnīdhra and be satisfied with your portion.
+
+### Printed p. 296
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 36, p. 296 (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विप्र (*vipra*)—O wise Agni; देवान् (*devān*)—the worshipful gods, Indra and the rest; इह (*iha*)—to this sacrifice; आ वक्षि (*ā vakṣi*)—bring; यक्षि च (*yakṣi ca*)—and sacrifice with reference to them; होतः (*hotaḥ*)—you who call the gods to the sacrifice; उशन् (*uśan*)—desiring our sacrifice; त्रिषु योनिषु (*triṣu yoniṣu*)—in the three places beginning with the Gārhapatya; नि षद (*ni ṣada*)—sit; प्रस्थितं (*prasthitaṃ*)—brought to the northern altar; सोम्यं (*somyaṃ*)—made of Soma; मधु (*madhu*)—the sweet drink; प्रति वीहि (*prati vīhi*)—welcome with regard; आग्नीध्रात् (*āgnīdhrāt*)—from the sacrifice of the priest called Āgnīdhra; पिब (*piba*)—drink the Soma juice; तव भागस्य (*tava bhāgasya*)—from the portion that we offer to you; तृप्नु हि (*tṛpnu hi*)—attain satisfaction.
+
+**भावार्थ (Bhāvārtha)**
+
+O wise Agni, bring the worshipful gods, Indra and the rest, to this sacrifice. Sacrifice with reference to them. You who call the gods to the sacrifice, desiring our sacrifice, sit in the three places beginning with the Gārhapatya. Welcome with regard the Soma sweet drink brought to the northern altar. Drink the Soma juice from the sacrifice of the Āgnīdhra. Attain satisfaction from your portion.
+
+**Printed English**
+
+Sage Agni, bring hither the gods, and sacrifice to them : invoker of the gods, propitions [sic] to us, sit down in the three altars : accept the libation of Soma that is offered to you from the Agnidhra, and be satisfied with your portion.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The word विप्र (*vipra*) is stated among the names of the wise (Ni. 3-19). Here, by this word, it explains that Agni is wise, and addresses him.
+
+देवान् आवक्षि (*devān āvakṣi*)—यष्टव्यानिंद्रादीन् आवह (*yaṣṭavyāniṃdrādīn āvaha*). It expresses the wish that Agni, the wise, bring Indra and the other gods who deserve the sacrifice, in the sacrifices performed by the sacrificers, to receive the oblations offered in the sacrifice.
+
+होतः उशन् त्रिषु योनिषु निषद (*hotaḥ uśan triṣu yoniṣu niṣada*)—देवानामाह्वातः त्वं अस्मदीयं कामयमानः गार्हपत्यादि लक्षणेषु त्रिषु स्थानेषु उपविश (*devānāmāhvātaḥ tvaṃ asmadīyaṃ kāmayamānaḥ gārhapatyādi lakṣaṇeṣu triṣu sthāneṣu upaviśa*). Explaining the word होतः (*hotaḥ*) as one who invokes the gods for the sacrifice, it
+
 ---
 
-**Progress note:** Done through printed p. 293 (PDF 293). Sūkta 36 Ṛk 1 Special Topics, Ṛk 2 complete (p. 292-293), Ṛk 3 Saṃhitā/Pada and bhāṣya begun (continues); kn.md fixes: stray image line removed, Saṃhitā/Pada split with varga marker kept as italic note, Bhāvārtha label replaced; OCR slips kept: ರ್ಸ, ಸಿ.೩-೭ (Ni.), ಪ್ರೋತೃ, ಸುಮತ್ಸ್‌ಗಣಃ; accent DIFF 3, 3 lines unmatched
+**Progress note:** Done through printed p. 296 (PDF 296). Sūkta 36 Ṛk 3 Pratipadārtha to Special Topics complete (pp. 294-295), Ṛk 4 Saṃhitā/Pada/bhāṣya (p. 295), Ṛk 4 Pratipadārtha/Bhāvārtha/English and Special Topics begun (p. 296, continues); kn.md fix: stray Tamil numeral line moved out of Saṃhitā block as italic note; OCR slips kept: ಪ್ರೋತೃ-type, 'propitions' [sic], ಕರದುಕೊಂಡು, ಇಚ್ಚಿಸಿ
