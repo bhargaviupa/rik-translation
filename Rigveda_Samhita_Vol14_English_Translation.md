@@ -28799,4 +28799,108 @@ The Kannada: "O Adhvaryus, fill with soma juices, as a granary is filled with ba
 
 ---
 
-**Progress note:** Done through printed p. 749 (PDF 772). Sūkta 14: Ṛk 10 is complete on pp. 747–748 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu; a rule closes it, no grammar section). Ṛk 11 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha are written on p. 749; the printed English and Viśeṣaviṣayagaḷu of Ṛk 11 are to come on p. 750 (PDF 773). The numeral file had 0 rows for these pages, so nothing was checked against it, and nothing was zoomed (single-call reading). Doubtful: the varga numeral in the p. 749 header (read as 14); "पृणुत" in the bhāṣya on p. 747 (the later printing on p. 748 reads "पृणत") and "पृणत/पृणते" on p. 749; "मीमाघ्नित्या…" and "इसादेशः" in the grammar tail (p. 747); "तद्वदीमेसं/एनं" (p. 748); "जनामि" printed short (p. 748, marked as printed). The Ṛk numbers 10 and 11 are as printed after the Pada. Accents not reproduced.
+### Printed p. 750 (PDF 773)
+
+*(Header, read from the strip: "750", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". The numeral file had no rows for this page. Accents are not reproduced.)*
+
+**English Translation** *(as printed)*
+
+Priests, fill with libations, as a granary (is filled) with barley, Indra, who is lord of the riches of heaven, of mid-heaven, of earth ; and may such (pious) act be for your (good).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**यः दिव्यस्य वस्वः पार्थिवस्य क्षम्यस्य (वस्वः) राजा (*yaḥ divyasya vasvaḥ pārthivasya kṣamyasya (vasvaḥ) rājā*)**—
+
+> य इंद्रो द्युलोकार्हस्य वस्वो वसुनो राजा भवति । यश्च पार्थिवस्य । पृथिवीशब्देन विस्तीर्णमंतरिक्षमुच्यते । तत्रत्यधनं पार्थिवं । तस्य राजा । यश्च क्षम्यस्य क्षमा भूमिः तत्रत्यं धनं क्षम्यं । तस्य च राजा भवति ।
+
+> *ya iṃdro dyulokārhasya vasvo vasuno rājā bhavati | yaśca pārthivasya | pṛthivīśabdena vistīrṇamaṃtarikṣamucyate | tatratyadhanaṃ pārthivaṃ | tasya rājā | yaśca kṣamyasya kṣamā bhūmiḥ tatratyaṃ dhanaṃ kṣamyaṃ | tasya ca rājā bhavati |*
+
+The Kannada: "Here the word पृथिवी (*pṛthivī*) is read among the names of the atmosphere (Ni. 2-10 [?], as I read the numerals; unzoomed). Therefore the ṛṣi has described Indra as rāja (lord) of all wealth belonging to the heavenly world, to the atmosphere and to the earth."
+
+**तं ऊर्दरं न पृणत यवेन इंद्रं सोमेभिः (*taṃ ūrdaraṃ na pṛṇata yavena iṃdraṃ somebhiḥ*)**—The Kannada: "Fill with soma juices Indra, who is lord of all wealth and the like in earth, atmosphere and heaven (that is, fill Indra's belly), as a granary (kaṇaja) is filled with barley. In the previous Ṛk Indra's belly was compared to a cow's udder filled with milk; in this Ṛk it is compared to a granary filled with barley. Here, on the word ऊर्दर (*ūrdara*), Yāska says—"
+
+> ऊर्दरं कृदरमित्यावपनस्य । ऊर्दरमुद्दीर्णं भवंति ऊर्जे दीर्णं वा । तमूर्दरं न पृणता यवेन इत्यपि निगमो भवति । तमूर्दरमिव पूरयति यवेन । कृदरं कृतदरं भवति ॥
+
+> *ūrdaraṃ kṛdaramityāvapanasya | ūrdaramuddīrṇaṃ bhavaṃti ūrje dīrṇaṃ vā | tamūrdaraṃ na pṛṇatā yavena ityapi nigamo bhavati | tamūrdaramiva pūrayati yavena | kṛdaraṃ kṛtadaraṃ bhavati ‖*
+
+*(Ni. 3-20, as I read the numerals; unzoomed.)*
+
+The Kannada continues: "—thus he has given the explanation. The word ऊर्दर (*ūrdara*) is stated, as ऊर्दरं कृदरं (*ūrdaraṃ kṛdaraṃ*), among the twenty-six *dviśa-nāmas* (Ni. 3-20). *Dviśa-nāmas* means two words having one and the same meaning; that is, the two words ऊर्दरं (*ūrdaraṃ*) and कृदरं (*kṛdaraṃ*) are of the same sense. The word कृदर (*kṛdara*) is read among the names of the house (Ni. 3-13). The two words ऊर्दर (*ūrdara*) and कृदर (*kṛdara*) are names for आवपन (*āvapana*) (the house in which grain is gathered and stored). Or, because it is filled up to the top, or because it is stored for food (āhāra), ऊर्दर (*ūrdara*) is a name for the granary; having explained thus, he has given the present Ṛk as the example. This word ऊर्दर (*ūrdara*) is read in the Ṛgveda only in this Ṛk. It is not used anywhere else."
+
+### Printed p. 751 (PDF 774)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 14 ]", "Ṛgvedasaṃhitā", "751". No numeral-file rows; nothing zoomed.)*
+
+This word occurs once in the Rigved a (ऋ. सं. 2-14-11) when reference is made to filling Indra with Soma as one fills an ऊर्दर with grain (यव). Sayana renders it "granary" but Roth and Zimmer Seem more correct in simply making it a measure for holding grain or garner,
+
+(Vedic Index of names and subjects. p. 106)
+
+*(Printed as one English passage, the Kannada letters in it, ऋ. सं., ऊर्दर, यव, being as printed.)* The Kannada: "—this is the opinion of some English scholars. But since Sāyaṇa's explanation follows Yāska's view, that alone is acceptable."
+
+*(A short rule is printed here, closing the Viśeṣaviṣayagaḷu of Ṛk 11. No grammar page is printed for Ṛk 11.)*
+
+---
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मभ्यं॒ तद्व॑सो दा॒नाय॒ राधः॒ सम॑र्थयस्व ब॒हु ते॑ वस॒व्यं॑ ।
+> इंद्र॒ यच्चि॒त्रं श्र॑व॒स्या अनु॒ द्यून्बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+
+> *asmabhyaṃ tadvaso dānāya rādhaḥ samarthayasva bahu te vasavyaṃ |*
+> *iṃdra yaccitraṃ śravasyā anu dyūnbṛhadvadema vidathe suvīrāḥ ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the word "सुऽवीराः" is printed with a small subscript stroke, which I read as the compound mark (ऽ). The Ṛk number printed after the Pada is 12.)*
+
+> अस्मभ्यं । तत् । वसो इति । दानाय । राधः । सं । अर्थयस्व । बहु । ते । वसव्यं ।
+> इंद्र । यत् । चित्रं । श्रवस्याः । अनु । द्यून् । बृहत् । वदेम । विदथे । सुऽवीराः ॥ १२ ॥
+
+> *asmabhyaṃ | tat | vaso iti | dānāya | rādhaḥ | saṃ | arthayasva | bahu | te | vasavyaṃ |*
+> *iṃdra | yat | citraṃ | śravasyāḥ | anu | dyūn | bṛhat | vadema | vidathe | su 'vīrāḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, give us that abundant wealth, both to give and to enjoy; blessed with fine sons we shall utter great praise at this sacrifice.*
+
+> वसो सर्वस्य वासक वसुमन्वा हे इंद्र स्तोतृभ्योऽस्मभ्यं तद्राधो धनं दानाय । उपलक्षणमेतत् । भोगाय च समर्थयस्य[?] । देहि । अस्मान् संगमयेत्यर्थः ॥ अर्थ याचने[?] । चुरादिरदंत आत्मनेपदी ॥ ते तव तद्बहु प्रभूतं वसव्यं ॥ वस्वेव वसव्यं । वस्वादित्वात् स्वार्थिको यत् ॥ तादृशं प्रभूतं धनमस्ति खलु । चित्रं चायनीयं यद्धनमनु द्यून् अन्वहं ॥ कालाध्वनोरिति द्वितीया ॥ श्रवस्याः । भोग्यमिच्छेः ॥ अंतर्णीतण्यर्थत्वादकर्मकत्वं । यथा रोदितीति । सत्वन्यः[?] । द्वे ह्यत्र कर्मणी उद्देश्यकर्म च विधेयकर्मांतर्भूतं । उद्देश्यकर्मणा सकर्मको भविष्यति । यथा माणवकं पुत्रीयतीति भाष्य उदाहृतं । पा. 3-1-8-2[?] । श्रवःशब्दाच्छंदसि परेच्छायां क्यच् । तदंतस्य लेट्यडागमो रूपं ॥ सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं शस्त्रादिकं वाक्यं वदेम ॥
+
+> *vaso sarvasya vāsaka vasumanvā he iṃdra stotṛbhyo 'smabhyaṃ tadrādho dhanaṃ dānāya | upalakṣaṇametat | bhogāya ca samarthayasya[?] | dehi | asmān saṃgamayetyarthaḥ ‖ artha yācane[?] | curādiradaṃta ātmanepadī ‖ te tava tadbahu prabhūtaṃ vasavyaṃ ‖ vasveva vasavyaṃ | vasvāditvāt svārthiko yat ‖ tādṛśaṃ prabhūtaṃ dhanamasti khalu | citraṃ cāyanīyaṃ yaddhanamanu dyūn anvahaṃ ‖ kālādhvanoriti dvitīyā ‖ śravasyāḥ | bhogyamiccheḥ ‖ aṃtarṇītaṇyarthatvādakarmakatvaṃ | yathā roditīti | satvanyaḥ[?] | dve hyatra karmaṇī uddeśyakarma ca vidheyakarmāṃtarbhūtaṃ | uddeśyakarmaṇā sakarmako bhaviṣyati | yathā māṇavakaṃ putrīyatīti bhāṣya udāhṛtaṃ | pā. 3-1-8-2[?] | śravaḥśabdācchaṃdasi parecchāyāṃ kyac | tadaṃtasya leṭyaḍāgamo rūpaṃ ‖ suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema ‖*
+
+*(The grammatical part, on the root अर्थ (*artha*), the affix यत् (*yat*) in वसव्यं (*vasavyaṃ*), the accusative of time, and the denominative क्यच् (*kyac*) with लेट् (*leṭ*) and अट् (*aṭ*) in श्रवस्याः (*śravasyāḥ*), is transcribed, not explained. The word printed as "समर्थयस्य" in the bhāṣya differs from the Saṃhitā समर्थयस्व (*samarthayasva*); I give it as printed. The root-meaning word after अर्थ (*artha*) is doubtful; the word at the line break "स / त्वन्यः" is doubtful; the reference "पा. 3-1-8-2" is as I read the numerals, unzoomed.)*
+
+---
+
+### Printed p. 752 (PDF 775)
+
+*(Header, read from the strip: "752", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". No numeral-file rows; nothing zoomed. A dark bar at the top of the page is scanning damage.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसो (*vaso*)—possessor of wealth. इंद्र (*iṃdra*)—O Indra. चित्रं (*citraṃ*)—of many kinds and delightful. यत् (*yat*)—which wealth. अनु द्यून् (*anu dyūn*)—every day. श्रवस्याः (*śravasyāḥ*)—whether we wish to enjoy it, or you wish that we should enjoy it *(the Kannada is printed "ಇಚ್ಛಿಸುತ್ರೇವೆಯೋ", apparently a misprint for -ತ್ತೇವೆಯೋ [sic])*. ते (*te*)—belonging to you. बहु (*bahu*)—abundant. वसव्यं (*vasavyaṃ*)—rich in prosperity. तत् राधः (*tat rādhaḥ*)—that wealth. अस्मभ्यं (*asmabhyaṃ*)—to us. दानाय (*dānāya*)—for giving as well as for enjoyment. समर्थयस्व (*samarthayasva*)—give fully. सुवीराः (*suvīrāḥ*)—we who are endowed with excellent sons. विदथे (*vidathe*)—in this sacrifice. बृहत् (*bṛhat*)—abundant शस्त्र (*śastra*) and other mantras. वदेम (*vadema*)—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "O Indra, possessor of wealth, give fully, both for giving and for enjoyment, that wealth which we wish to enjoy every day, and which is in you abundant and rich in prosperity. We, endowed with excellent sons, shall recite abundant mantras of शस्त्र (*śastra*) and the like in this sacrifice."
+
+**English Translation** *(as printed)*
+
+Possessor of riches, exert your ability to bestow wealth upon us ; for yours is great affluence : may you, Indra, be disposed to grant us exceeding abundance day by day, so that, blessed with worthy descendants, we may glorify you at (our) sacrifibe [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Kannada: "Up to now, having described in many ways the qualities of Indra's deeds of daring, now in this Ṛk, which is the last of the sūkta, Indra is praised by way of conclusion and prayed to give wealth and the like." *(The printed word "ಕೊನೆಯುದಾದ" is as printed.)*
+
+**वसो—सर्वस्य वासक वसुमन्वा हे इंद्र (*vaso—sarvasya vāsaka vasumanvā he iṃdra*)**—The Kannada: "'O Indra, who provides a dwelling-place for all, or who is wealthy.' Both senses have been given for this word."
+
+**अस्मभ्यं दानाय राधः समर्थयस्व (*asmabhyaṃ dānāya rādhaḥ samarthayasva*)**—The Kannada: "The sense is: give us wealth, both for giving to others and for our own enjoyment."
+
+**बहु ते वसव्यं (*bahu te vasavyaṃ*)**—The Kannada: "From this sentence the sense is suggested that Indra has wealth and the like in abundance, and therefore that Indra is able to give wealth and the like to those who praise him."
+
+*(The page ends here; whether more of the Viśeṣaviṣayagaḷu, or the colophon of the sūkta, follows on p. 753 is not yet seen.)*
+
+---
+
+**Progress note:** Done through printed p. 752 (PDF 775). Sūkta 14: Ṛk 11 is complete (printed English and Viśeṣaviṣayagaḷu on pp. 750–751; a short rule closes it, no grammar section). Ṛk 12 (the last Ṛk of the sūkta) is written through the printed English and the first part of the Viśeṣaviṣayagaḷu (three items); the Viśeṣaviṣayagaḷu may continue on p. 753, and the colophon of Sūkta 14 and the start of Sūkta 15 are still to come. Numeral file had 0 rows for these pages; nothing was zoomed (single-call reading). Unzoomed numerals: Ni. "2-10" (p. 750, as I read it), Ni. "3-20" and "3-13" (p. 750), "ऋ. सं. 2-14-11" (p. 751, agrees with the position), "पा. 3-1-8-2" (p. 752 bhāṣya); the Ṛk number 12 after the Pada is as printed. Doubtful [?]: "समर्थयस्य" in the bhāṣya (the Saṃhitā has -स्व), "अर्थ याचने", "सत्वन्यः" at the line break; printed "ಇಚ್ಛಿಸುತ್ರೇವೆಯೋ" and "sacrifibe" marked as printed. Accents not reproduced.
