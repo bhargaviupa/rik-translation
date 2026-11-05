@@ -17910,6 +17910,85 @@ The Aitareya Brāhmaṇa (the Kannada text says Brāhmaṇa, while the reference
 
 We shall fashion praise for the Agni named Vaiśvānara, the augmenter of water or of the sacrifice, as pure ghee, that is, praise that will cause delight in the way pure ghee causes delight.
 
+### Printed p. 567
+
+*[Running head, p. 567: Aṣṭaka 2, Adhyāya 8, Varga 17, Ṛgvedasaṃhitā.]*
+
+ऋतावृधे (*ṛtāvṛdhe*)—Since the word ṛta has the meanings water or sacrifice, two kinds of meaning can be given here. Agni, being in the form of lightning in the midst of the clouds, impels the clouds and makes the rain fall, so Agni is the augmenter of water; or if ṛta is taken to mean sacrifice, then, since in the sacrifice Agni plays the chief part and carries the oblations and the rest to the gods, it is natural to call Agni the augmenter of the sacrifice. Therefore both meanings explained by the bhāṣyakāra for the word ṛtāvṛdhe can be given here.
+
+वैश्वानराय (*vaiśvānarāya*)—We have discussed its meaning at length in the Pīṭhike of this sūkta. Yet it is necessary to state briefly the three meanings that Yāska gives in the derivation of the form of this word.
+
+⟦ವೈಶ್ವಾನರಃ ಕಸ್ಮಾದ್ವಿಶ್ವಾನ್ನರಾನ್ನಯತಿ ವಿಶ್ವ ಏನಂ ನರಾ ನಯಂತೀತಿ ವಾ । ಅಪಿ ನಾ ವಿಶ್ವಾನರ
+ಏವ ಸ್ಯಾತ್ ಪ್ರತ್ಯೃತಃ ಸರ್ವಾಣಿ ಭೂತಾನಿ ತಸ್ಯ ವೈಶ್ವಾನರಃ ॥⟧
+(Ni. 7-21)
+
+That is: this Agni is called Vaiśvānara because he makes all people leaders on the good path, that is, because he is the guide of all people; or because all people carry Agni to their own houses; or because this Agni is present within all people in the form of the digestive fire.
+
+In this sentence पूतं धृतमिव स्तुतिं जनयामः (*pūtaṃ dhṛtamiva stutiṃ janayāmaḥ*) means: as pure ghee gives agreeable pleasure to those who eat it, so let us compose praise that gives pleasure to Agni; this is the seer's expression of aspiration.
+
+⟦ದ್ವಿತಾ ಹೋತಾರಂ ಮನುಷಃ ವಾಘತ ಚ ಧಿಯಾ ಕುಲಿಶಃ ರಥಂ ನ ಸಮೃಣ್ವತಿ—ದ್ವಿಧಾ
+ಗಾರ್ಹಪತ್ಯಾಹವನೀಯರೂಪಾಭ್ಯಾಂ ದೇವಾನಾಮಾಹ್ವಾತಾರಮಗ್ನಿಂ ಮನುಷ್ಯಾಃ ಋತ್ವಿಜಶ್ಚ ಕರ್ಮಣಾ
+ವಾಸ್ಯಾದಿಃ ರಥಮಿವ ಸಂಸ್ಕುರ್ವಂತಿ ।⟧ Its sense: men and priests fashion, by their rite, Agni, the invoker of the gods, who has the twofold form of the Gārhapatya and the Āhavanīya, as a carpenter perfectly builds a chariot. The two forms of Agni here are the fires called Gārhapatya and Āhavanīya, established in the sacrifice in two separate hearths for separate purposes and consecrated by separate series of rites. Or the word Gārhapatya may be taken in both senses: the household fire established in the house for cooking and the like, and the sacrificial fire consecrated by mantras in the sacrifice. But since this sentence says धिया समृण्वति (*dhiyā samṛṇvati*)
+
+### Printed p. 568
+
+*[Running head, p. 568: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+"they fashion by the rite", that is, by the many kinds of rites performed in the sacrifice with mantras, dvitā must here mean the sacrificial fires, the Gārhapatya and the Āhavanīya. Although the word manuṣa generally means men, since it is said here to be men taking part in the rite that consecrates the fire, it must be understood as the men who are sacrificers (those who perform the sacrifice). The word वाघतः (*vāghataḥ*) is read among the names of priests (Ni. 3-19, printed ಸಿ.). Its meaning is explained as यज्ञस्यानुष्ठातारः मेधाविनो ना (*yajñasyānuṣṭhātāraḥ medhāvino nā*), so it means those who take part in the sacrifice and carry it out, or the intelligent (Ni. 11-16, printed ಸಿ.). The word kuliśa is read among the names of the thunderbolt (Ni. 3-11, printed ಸಿ.), and there is also the explanation ⟦ಕುಲಿತ ಇತಿ ವಜ್ರನಾಮ
+ಕೂಲಶಾತನೋ ಭವತಿ⟧ (Ni. 6-17, printed ಸಿ.). That is, although it means the thunderbolt weapon or a sharp weapon used for cutting trees and the like, the bhāṣyakāra, to make sense in this sentence, says that kuliśa means a carpenter who uses a sharp tool. The meaning is: as a carpenter, with the skill of his intellect, using sharp tools, builds a chariot so that it is very fine, in the same way the sacrificers and priests together consecrate Agni, established by the many kinds of rites necessary in the sacrifice and by the recitation of mantras, so that he becomes fit for the sacrifice, that is, fit to carry the oblation to the gods in the sacrifice.
+
+Ratham—for the word ratha Yāska says in his Nirukta:
+
+⟦ರಥೋ ರಹಂತೇರ್ಗತಿಕರ್ಮಣಃ । ಸ್ಥಿರತೇರ್ವಾ
+ಸ್ಯಾದ್ವಿಪರೀತಸ್ಯ । ರಮಮಾನೋSಸ್ಮಿನ್ತಿಷ್ಠತೀತಿ ವಾ ರಪತೇರ್ವಾ ರಸತೇರ್ವಾ⟧ (Ni. 9-11, printed ಸಿ.)
+
+That is, it may be derived from the root रंह् (*raṃh*), which denotes motion, or from the root स्थिरति (*sthirati*) (as supplied), meaning "be steady". Because this goes about continually (moves about), it is called ratha. Or the warrior seated in it stays steady: just as the body shakes when one sits on a horse or other vehicle, one can sit steadily without shaking in a chariot, so it is called ratha. Or because one sits in this chariot and enjoys oneself, it is called ratha; thus the parts of the meaning are explained.
+
+*[Stray line as supplied: "। ಸುಖದುಃಖ ।".]*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> स रो॑चयज्ज॒नुषा॒ रोद॑सी उ॒भे स मा॒त्रोर॑भवत्पु॒त्र ईड्यः॑ ।
+> ह॒व्य॒वाळ॒ग्निर॒जर॒श्चनो॑हितो दू॒ळभो॑ वि॒शामति॑थिर्वि॒भाव॑सुः ॥ २ ॥
+
+> *sa rocayajjanuṣā rodasī ubhe sa mātrorabhavatputra īḍyaḥ |*
+> *havyavāḷagnirajaraścanohito dūḷabho viśāmatithirvibhāvasuḥ ‖ 2 ‖*
+
+### Printed p. 569
+
+*[Running head, p. 569: Aṣṭaka 2 (printed ಆ. for ಅ.), Adhyāya 8 (printed ಆ.), Varga 17, Ṛgvedasaṃhitā.]*
+
+*[The supplied text has before the Pada a garbled label "॥ ಪವನಾತೆ ॥" (for Pada-pāṭha), kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> सः । रोचयत् । जनुषा । रोदसी इति । उभे इति । सः । मात्रोः । अभवत् । पुत्रः।
+> ईड्यः ।
+> हव्यवाट् । अग्निः । अजरति । चनःहितः । दुःकदभः। विशां । अतिथिः । विभावसुः ॥ २ ॥
+
+*(The Pada is printed ಅಜರತಿ, ಚನಃಹಿತಃ and ದುಃಕದಭಃ, as supplied; the Saṃhitā has ಅಜರಶ್ಚನೋಹಿತೋ ದೂಳಭೋ.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> सोऽग्निर्जनुषा जन्मनोभे रोदसी द्यावापृथिव्यौ रोचयत् । अरोचयत् । प्रकाशयति । स मात्रोर्द्यावापृथिव्योरीड्यः स्तुत्यः पुत्रोऽभवत् । हव्यवाड् हव्यानां वोढाग्निरंगनादिगुणयुक्तोऽजरो जरारहितः । चनोऽन्नं हितं
+> यजमाने निहितं येनासौ चनोहितः । दूळभो हिंसितुमशक्यः सोऽयं विभावसुः प्रभाधनो विशां मनुष्याणामतिथिरिव पूज्यो भवति ॥
+
+*(Gist: by birth Agni lit heaven and earth and became their praised son; bearer of oblations, ageless, food-placing, unassailable, wealthy in radiance, he is the guest of men.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Saḥ: Agni. Januṣā: by his very birth. Ubhe rodasī: both heaven and earth. Rocayat: he lit up. Saḥ: he. Mātroḥ: to his parents, heaven and earth. Īḍyaḥ: praiseworthy. Putraḥ: as son. Abhavat: he became. Havyavāṭ: bearing the oblation (to the gods). Agniḥ: Agni. Ajaraḥ: free from old age (the supplied text prints a garbled "ಜರ್ಾರಹಿತನಾಗಿಯೂ"). Canohitaḥ: establishing food (among the sacrificers). Dūḷabhaḥ: unassailable. Vibhāvasuḥ: having radiance as wealth. Viśāṃ: to the people. Atithiḥ: venerable like a guest. (He is.)
+
+**भावार्थ (Bhāvārtha)**
+
+By his very birth Agni lit up both heaven and earth. He became the praiseworthy son of his parents, heaven and earth. Agni, who bears the oblation to the gods, is free from old age, establishes food among the sacrificers, is unassailable, has radiance as his wealth, and is venerable to the people like a guest.
+
+**Printed English translation**
+
+By his birth he lighted up both heaven and earth; he was the praiseworthy son of his parents; the undecaying Agni, the bearer of oblations, the giver of food, the guest of men, the affluent in radiance.
+
 ---
 
-**Progress note:** Done through printed p. 566 (PDF 566). Sūkta 2 Ṛk 1 Special Topics on nivid mantras (Aitareya Brāhmaṇa, Ṛgveda citations)
+**Progress note:** Done through printed p. 569 (PDF 569). Sūkta 2 Ṛk 1 word notes end; Ṛk 2 complete up to Special Topics
