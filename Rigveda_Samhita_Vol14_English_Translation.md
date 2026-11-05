@@ -30973,6 +30973,135 @@ This Ṛk and the next form the conclusion of this sūkta. A prayer is made that
 
 इंद्र त्वं अपांसि वाजान् ददिः (*iṃdra tvaṃ apāṃsi vājān dadiḥ*)—O Indra, the prayer is made that you be one who gives us the reward of the sacrificial and other rites we perform, and food and other nourishment. Here, since the word अपः (*apaḥ*) is read among the names of rites, अपांसि (*apāṃsi*) means the sacrificial and other rites we perform [the sentence breaks off at the foot of p. 814 and continues on the next page].
 
+### Printed p. 815
+
+*(Header: "[A. 2. A. 6. V. 20.] Ṛgvedasaṃhitā 815". The page begins in the middle of the Special Topics of Ṛk 8, continued from p. 814.)*
+
+(rites we perform), that is the meaning. Moreover, since only the word अपांसि (*apāṃsi*) occurs here, the sense "give us sacrificial and other rites" does not fit properly. Therefore the meaning must be made out thus: make the sacrificial and other rites that we perform be duly accomplished, and give the fruits that correspond to them.
+
+अविड्डि इंद्र चित्रया नः ऊती (*aviḍḍi iṃdra citrayā naḥ ūtī*)—O Indra, protect us with manifold kinds of protection, that is, protection from the harassment of enemies, protection by giving food and the like so that no hunger-affliction arises, protection so that no diseases arise, and so on: protect us by these manifold means of protection; this is the purport.
+
+कृधि वृषन् इंद्र वस्यसः नः (*kṛdhi vṛṣan iṃdra vasyasaḥ naḥ*)—O Indra, giver of what is desired, make us exceedingly wealthy, that is, the prayer is made: give us abundant wealth.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> नू॒नं सा त्ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑न्द्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्ष्या॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथै॑ सु॒वीराः॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+*(The Pada block was printed with the Saṃhitā text and a stray HTML fragment repeated after it in the supplied text; the duplicate was removed in kn.md and the Pada kept once, as supplied. In the Saṃhitā the supplied spelling ಶಿಕ್ಷ್ಯಾ and the doubled त्ते, and in the Pada विदथै!, differ from the reference text; reported, not changed.)*
+
+> नूनं । सा । त्ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
+> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथै! सुवीराः॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अहर्गणेषु माध्यंदिनसवनेषु तायमानरूपेष्वच्छावाकस्याहरहः शस्य-
+> संज्ञकमभितष्टैवेति सूक्तं । नूनं सा त इत्येषा तस्यांते शंसनीया । सूत्रितं च ।
+> नूनं सा त इत्यंतमुत्तमं । आ. ७-४ । इति ॥
+> हे इंद्र या दक्षिणा दक्षमुत्साहनं करोतीति दक्षिणा स्तोतृभ्यो देया ते
+> त्वत्संबंधिनी मघोनी धनवती जरित्रे स्तोत्रे वरं श्रेष्ठमभिमतमर्थं नूनं
+> प्रतिदुहीयत् । इदानीं प्रतिदोग्धि । संपादयतीत्यर्थः । तादृशीं दक्षिणां स्तोतृ-
+
+*(Header: "816 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 17]".)*
+
+### Printed p. 816
+
+> भ्योऽस्मभ्यं शिक्ष । प्रयच्छ । किंच भगो भजनीयस्य माति धक् ॥ दहेर्दानार्थस्य
+> लुजः मंत्रे घसेत्यादिना चेर्लुक् ॥ नोऽस्मानतिक्रम्यान्येभ्यो दक्षिणां मा दाः ।
+> प्रथममस्मभ्यं दत्वा पश्चादन्येभ्यो दीयतामित्यर्थः। यद्वा नोऽस्माकं कामान्
+> मा धक् । मा धाक्षीः । अपेक्षितफलदानेन पूरयेत्यर्थः । सुवीराः शोभनपुत्र-
+> पौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं स्तोत्रं वदेम । त्वामुद्धिश्य
+> ब्रवाम ॥ अत्र सा ते प्रतिदुग्धामिति प्रकृत्य वीरो वीरयत्यमित्रान् वेतेर्ना
+> स्याद्गतिकर्मणो वीरयतेर्वेत्यंतं निरुक्तमनुसंधेयं । नि. १-७ ॥
+
+> *bhyo 'smabhyaṃ śikṣa | prayaccha | kiṃca bhago bhajanīyasya māti dhak ‖ daherdānārthasya*
+> *lujaḥ maṃtre ghasetyādinā cerluk ‖ no 'smānatikramyānyebhyo dakṣiṇāṃ mā dāḥ |*
+> *prathamamasmabhyaṃ datvā paścādanyebhyo dīyatāmityarthaḥ| yadvā no 'smākaṃ kāmān*
+> *mā dhak | mā dhākṣīḥ | apekṣitaphaladānena pūrayetyarthaḥ | suvīrāḥ śobhanaputra-*
+> *pautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ stotraṃ vadema | tvāmuddhiśya*
+> *bravāma ‖ atra sā te pratidugdhāmiti prakṛtya vīro vīrayatyamitrān veternā*
+> *syādgatikarmaṇo vīrayatervetyaṃtaṃ niruktamanusaṃdheyaṃ | ni. 1-7 ‖*
+
+Gist: this Ṛk is recited at the end of the Acchāvāka's śastra (Ā. 7-4). The liberal donation (dakṣiṇā) of Indra fulfils the wish of the singer; he is asked to give it to us too and not to pass us over; with good sons and grandsons we shall chant a great hymn at this sacrifice.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra. ते (*te*)—given by you, मघोनी (*maghonī*)—possessing abundant wealth, सा दक्षिणा (*sā dakṣiṇā*)—that donation (dakṣiṇā). जरित्रॆ (*jaritrè*) [sic, as supplied] to the praising sacrificer; नूनं (*nūnaṃ*)—assuredly; वरं (*varaṃ*)—excellently; प्रति दुहीयत् (*prati duhīyat*)—fulfils the desired object (such a donation); स्तोतृभ्यः (*stotṛbhyaḥ*)—to us also who are praisers; शिक्ष (*śikṣa*)—give; भगः (*bhagaḥ*)—you who are to be revered; नः (*naḥ*)—us; माति धक् (*māti dhak*)—do not disregard; सुवीराः (*suvīrāḥ*)—we, accompanied by excellent heroic sons; विदथे (*vidathe*)—in this sacrifice; बृहत् (*bṛhat*)—a copious hymn; वदेम (*vadema*)—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, that donation, given by you and possessing abundant wealth, assuredly fulfils the desired object of the praising sacrificer in an excellent manner. Give such a donation to us also, who are praisers. You who are to be revered, do not disregard us. Accompanied by excellent sons, we shall recite a copious hymn at this sacrifice.
+
+**Printed English translation (Ṛk 9)**
+
+That opulent donation which proceeds, Indra, from you, assuredly bestows npon [sic] him who praises you the boon(that he desires): grant it to(us) your adorers: do not you, who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Since this Ṛk was read earlier at Ṛ. Saṃ. 2-11-21 (the supplied text spells the word ಪರಿತ), its Special Topics can be seen set out at length there, that is, on pages 638 to 640 of this same volume.
+
 ---
 
-**Progress note:** Done through printed p. 814 (PDF 814). Sukta 17 Rk 7 completed (Bhavartha end, printed English, Special Topics on amaju and the three verbs); Rk 8 begun through Special Topics (breaks off at foot of p. 814). Rk 8 Samhita as supplied was garbled (first line mixed scripts, last lines duplicated): duplicates removed, Devanagari converted letter-by-letter to Kannada in kn.md, unreadable words marked [?]; Samhita left unaccented/partly accented
+### Printed p. 817
+
+*(Header: "[A. 2 A. 6 V. 21] Ṛgvedasaṃhitā 817".)*
+
+## Sūkta 18
+
+*(Printed title: "ಹದಿನೆಂಟನೆಯ ಸೂಕ್ತವು" — "The eighteenth sūkta".)*
+
+**Sāyaṇa's introduction (Sanskrit):**
+
+> प्राता रथ इति नवर्चं सप्तमं सूक्तं गार्त्समदं त्रैष्टुभमैंद्रं । पातरि-
+> त्यनुक्रांतं । लैंगिको विनियोगः ॥
+
+**Anuvāda**
+
+The Kannada: "This sūkta, प्राता रथ (*prātā ratha*), is the seventh sūkta in the second anuvāka. It has nine Ṛks. Gṛtsamada is the ṛṣi; Indra is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said to begin with प्रातः (*prātaḥ*). The application (viniyoga) is Laiṅgika (by the indication of the text)."
+
+**Sūkta heading block:**
+
+> ॥ ओं ॥
+> सूक्त—१८
+> ॥ मंडल—२ ॥ अनुवाक—२ ॥ सूक्त—१८ ॥
+> ॥ अष्टक— २ ॥ अध्याय— ६ ॥ वर्ग—२१, २२ ॥
+> । सूक्तदल्लिरुव ऋक्संख्यॆ-९ ।
+> ऋषिः-गृत्समदः ॥
+> देवता-इंद्रः ।
+> छंदः-त्रिष्टुप् ।
+
+> *‖ oṃ ‖*
+> *sūkta—18*
+> *‖ maṃḍala—2 ‖ anuvāka—2 ‖ sūkta—18 ‖*
+> *‖ aṣṭaka— 2 ‖ adhyāya— 6 ‖ varga—21, 22 ‖*
+> *| sūktadalliruva ṛksaṃkhyè-9 |*
+> *ṛṣiḥ-gṛtsamadaḥ ‖*
+> *devatā-iṃdraḥ |*
+> *chaṃdaḥ-triṣṭup |*
+
+*(As supplied: the printed number of Ṛks is given as 9, ṛṣi Gṛtsamada, deity Indra, metre Triṣṭup; the varga numbers are printed 21, 22. A stray line संजॆ रात्रः (*saṃjè rātraḥ*) follows the metre line in the supplied text and is left as supplied.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्राता रथो नवो योजि सस्निश्चतुर्युगस्त्रिकशः सप्तरश्मिः ।
+> दशारित्रो मनुष्यः स्वर्षाः स इष्टिभिर्मतिभी रंह्यो भूत्॥
+
+**॥ पदपाठः ॥**
+
+*(In the Pada as supplied, ದಠಅರಿತ್ರಃ stands where the Saṃhitā has ದಶಾರಿತ್ರೋ, and ಸ್ವಸಾಃ where the Saṃhitā has ಸ್ವರ್ಷಾಃ; reported, not changed. The page ends with a stray footer "[51] Vol. 14", removed.)*
+
+> प्रातरिति । रथः । नवः । योजि । सस्नि: । चतुःयुगः । त्रिकशः । सप्तरश्मिः ।
+> दठअरित्रः । मनुष्यः । स्वसाः । सः । इष्टिभिः । मतिभिः । रंह्यः । भूत् ॥ १ ॥
+
+> *prātariti | rathaḥ | navaḥ | yoji | sasni: | catuḥyugaḥ | trikaśaḥ | saptaraśmiḥ |*
+> *daṭhaaritraḥ | manuṣyaḥ | svasāḥ | saḥ | iṣṭibhiḥ | matibhiḥ | raṃhyaḥ | bhūt ‖ 1 ‖*
+
+---
+
+**Progress note:** Done through printed p. 817 (PDF 817). Sukta 17 Rk 8 Special Topics completed; Rk 9 (repeat of 2-11-21, Special Topics by cross-reference); Sukta 18 begun with Rk 1 Samhita and Pada. Rk 9 Samhita as supplied was mixed-script with duplicated fragments: cleaned, joined into reference lines, Devanagari letters converted to Kannada mechanically; supplied spellings left unchanged.
