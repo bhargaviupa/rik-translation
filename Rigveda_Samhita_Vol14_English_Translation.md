@@ -28021,4 +28021,120 @@ Here the ninety-nine arms may belong to Indra or to the asura Uraṇa. "Ninety-n
 
 ---
 
-**Progress note:** Done through printed p. 731 (PDF 754). Sūkta 14: Ṛk 3 is complete (no grammar section printed for it). Ṛk 4 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written. The Viśeṣaviṣayagaḷu is open and breaks off mid-sentence on p. 731 after the Kannada "ಅಂತಹ ಇಂದ್ರನಿಗೆ ಪಾತ್ರೆಯಲ್ಲಿ ಪೂರ್ಣವಾಗಿ ತುಂಬಿದ ಸೋಮವನ್ನ" (under "तमिंद्रं सोमस्य भृथे हिनोत"). Header numerals read (Sū. 14; A. 2 A. 6 V. 13), not zoomed. Numeral file agrees for 7-465, 5-232, 692, 14-634 and 633-634; no FILE DISAGREE. The Ṛk 4 part number and page ("part 5 [?], page 135 [?]") are doubtful. Doubtful places: the final vowel signs of "कुरुते/सर्वते/आच्छादयते" and "ऊर्णुते" on p. 729; "ऋनतेः[?]" in the Ṛk 4 bhāṣya; the Pratipadārtha order at the start of p. 729 against the previous note. Accents not reproduced for Ṛk 4.
+### Printed p. 732 (PDF 755)
+
+*(Header, read from the strip and not zoomed: "Maṃ. 2 A. 2 Sū. 14". The page opens in the middle of the Viśeṣaviṣayagaḷu of Ṛk 4, continuing the sentence left open on p. 731. No grammar section is printed for Ṛk 4.)*
+
+The Viśeṣaviṣaya of Ṛk 4 continues: "… [soma, offering it] and make him grow", this is one meaning. The other meaning is: यद्वा सोमस्य भृथे भरणे संपादने सति हिनोत स्तोत्रैः प्रीणयत (*yadvā somasya bhṛthe bharaṇe saṃpādane sati hinota stotraiḥ prīṇayata*), that is, when the soma has been prepared and the vessel filled with soma juice, satisfy Indra with stotras so that he may drink the soma. The bhāṣyakāra says that this is another kind of meaning that is possible.
+
+---
+
+#### Ṛk 5
+
+*(Accent marks of the Saṃhitā and Pada are not reproduced here. In the Pada, "वि" and "अंसं" are joined by the small compound stroke, read as ऽ; the same stroke is read between "धि" and "क्रां" in "रुधिऽक्रां"; this last is doubtful and logged.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यः स्वश्नं॑ ज॒घान॒ यः शुष्ण॑म॒शुषं॒ यो व्यं॑सं ।
+> यः पिप्रुं॒ नमु॑चिं॒ यो रु॑धि॒क्रां तस्मा॒ इंद्रा॒यांध॑सो जुहोत ॥ ५ ॥
+
+> *adhvaryavo yaḥ svaśnaṃ jaghāna yaḥ śuṣṇamaśuṣaṃ yo vyaṃsaṃ |*
+> *yaḥ pipruṃ namuciṃ yo rudhikrāṃ tasmā iṃdrāyāṃdhaso juhota ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । सु । अश्नं । जघान । यः । शुष्णं । अशुषं । यः । विऽअंसं ।
+> यः । पिप्रुं । नमुचिं । यः । रुधिऽक्रां । तस्मै । इंद्राय । अंधसः । जुहोत ॥ ५ ॥
+
+> *adhvaryavaḥ | yaḥ | su | aśnaṃ | jaghāna | yaḥ | śuṣṇaṃ | aśuṣaṃ | yaḥ | vi 'aṃsaṃ |*
+> *yaḥ | pipruṃ | namuciṃ | yaḥ | rudhi 'krāṃ | tasmai | iṃdrāya | aṃdhasaḥ | juhota ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra slew Aśna, the unwitherable Śuṣṇa (after cutting off his shoulders), Pipru, Namuci and Rudhikra; offer food-oblations to him.*
+
+*(Reading notes: in "जगद्व्याप्य[?]" the conjunct after "द्व्य" is unclear and is not completed from memory. The Tait­tirīyaka passage cited is described, not quoted. The Ṛk reference after "अपां फेनेन …" is printed as 8-14-13; the numeral file says 4.14.13; see the note at the end. No sūtra numbers are printed; there is no grammatical tail.)*
+
+> हे अध्वर्यवः य इंद्रोऽश्नं । अश्नाति भक्षयति प्राणिजातमिति । यदा अश्नुते स्वतेजसा सर्वं व्याप्नोतीत्यश्नः कश्चिदसुरः । तमसुरं सु सुष्ठु जघान । अशुषं केनाप्यशोषणीयं शुष्णमसुरं यश्च तमसुरं व्यंसमंसहीनं कृत्वा जघान । यश्च पिप्रुं तेजसा जगद्व्याप्य[?] वर्तमानमेतन्नामकमसुरं नमुचिमसुरं जघान यश्च । तैत्तिरीयके नमुचिमसुरं नालभतेति प्रकृत्य फेनेन शिर उदवर्तयदित्यंतेन वाक्यसंदर्भेण नमुचिवधः प्रपंचितः । तथा मंत्रश्च । अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः । ८-१४-१३ । इति । रुधिक्रामेतन्नामकमसुरं यश्च जघान । तस्मा इंद्रायांधसो हविर्लक्षणान्यन्नानि जुहोत । जुहुत ॥
+
+> *he adhvaryavaḥ ya iṃdro 'śnaṃ | aśnāti bhakṣayati prāṇijātamiti | yadā aśnute svatejasā sarvaṃ vyāpnotītyaśnaḥ kaścidasuraḥ | tamasuraṃ su suṣṭhu jaghāna | aśuṣaṃ kenāpyaśoṣaṇīyaṃ śuṣṇamasuraṃ yaśca tamasuraṃ vyaṃsamaṃsahīnaṃ kṛtvā jaghāna | yaśca pipruṃ tejasā jagadvyāpya[?] vartamānametannāmakamasuraṃ namucimasuraṃ jaghāna yaśca | taittirīyake namucimasuraṃ nālabhateti prakṛtya phenena śira udavartayadityaṃtena vākyasaṃdarbheṇa namucivadhaḥ prapaṃcitaḥ | tathā maṃtraśca | apāṃ phenena namuceḥ śira iṃdrodavartayaḥ | 8-14-13 | iti | rudhikrāmetannāmakamasuraṃ yaśca jaghāna | tasmā iṃdrāyāṃdhaso havirlakṣaṇānyannāni juhota | juhuta ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. | यः (*yaḥ*)—which Indra. | अश्नं (*aśnaṃ*)—the asura named Aśna. | सु जघान (*su jaghāna*)—completely destroyed. | यः (*yaḥ*)—who. | अशुषं (*aśuṣaṃ*)—(by anyone else) impossible to defeat [as printed]. | शुष्णं (*śuṣṇaṃ*)—the asura named Śuṣṇa. | व्यंसं (*vyaṃsaṃ*)—cutting off his shoulders (he killed). *(The Pratipadārtha continues on the next page.)*
+
+---
+
+### Printed p. 733 (PDF 756)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "733".)*
+
+यः (*yaḥ*)—who. | पिप्रुं (*pipruṃ*)—the asura named Pipru. | नमुचिं (*namuciṃ*)—and Namuci he killed. | यः (*yaḥ*)—who. | रुधिक्रां (*rudhikrāṃ*)—the asura named Rudhikra. | जघान (*jaghāna*)—killed. | तस्मै इंद्राय (*tasmai iṃdrāya*)—to that Indra. | अंधसः (*aṃdhasaḥ*)—foods in the form of oblation. | जुहोते (*juhote*) [sic: the Pratipadārtha is printed with the headword जुहोते, as in the Pada the word is जुहोत]—offer and make homa.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, offer food in the form of oblation to that Indra who completely destroyed the asura named Aśna; who, cutting off the shoulders of the asura named Śuṣṇa, who cannot be dried up (defeated) by others, killed him; and who killed Pipru, Namuci and the asura Rudhikra.
+
+**English Translation** *(as printed)*
+
+Priests, offer the Soma libation to that Indra, who slew Ashna, the, [sic] unabsorbable Sushna, and the mutilated (Vṛitra); who destroyed Pipru Namuchi [sic: no comma] and Rudhikra· *(a raised dot stands where the full stop would be)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is said that Indra destroyed the asuras named Aśna, Śuṣṇa, Pipru, Namuci and Rudhikra.
+
+यः सु अश्नं जघान (*yaḥ su aśnaṃ jaghāna*)—
+
+> अश्नाति भक्षयति प्राणिजातमिति । यद्वा अश्नुते स्वतेजसा सर्वं व्याप्नोतीत्यश्नः । कश्चिदसुरः । तमसुरं सुष्ठु इंद्रो जघान ।
+
+> *aśnāti bhakṣayati prāṇijātamiti | yadvā aśnute svatejasā sarvaṃ vyāpnotītyaśnaḥ | kaścidasuraḥ | tamasuraṃ suṣṭhu iṃdro jaghāna |*
+
+The Kannada explains: because he eats (devours) all living beings, this asura is named Aśna. Or, because he pervades everything by his own tejas (power), he may also be called Aśna. Here it is said that Indra struck this asura Aśna well and destroyed him. As the name of this Aśna asura occurs nowhere else, not much is known about him.
+
+यः शुष्णं अशुषं यो व्यंसं (*yaḥ śuṣṇaṃ aśuṣaṃ yo vyaṃsaṃ*)—
+
+> अशुषं केनाप्यशोषणीयं शुष्णमसुरं यश्च तमसुरं व्यंसमंसहीनं कृत्वा जघान ।
+
+> *aśuṣaṃ kenāpyaśoṣaṇīyaṃ śuṣṇamasuraṃ yaśca tamasuraṃ vyaṃsamaṃsahīnaṃ kṛtvā jaghāna |*
+
+The Kannada: it is said that Indra first cut off the shoulders of the asura Śuṣṇa, who could not be dried up, and afterwards killed him. Or, since the word यः (*yaḥ*) is repeated twice here, it may be taken that there are two separate sentences, यः शुष्णं अशुषं जघान (*yaḥ śuṣṇaṃ aśuṣaṃ jaghāna*) and यः व्यंसं जघान (*yaḥ vyaṃsaṃ jaghāna*). In that case the meaning for the first sentence is that Indra killed the asura Śuṣṇa, and for the second that he cut the asura Vṛtra to pieces and killed him. The matter of Indra killing the Śuṣṇa and Pipru named in this Ṛk is *(continued on the next page)*:
+
+---
+
+### Printed p. 734 (PDF 757)
+
+*(Header, read from the strip and not zoomed: "734", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". Reference numerals on this page are read from the strip without zooming; individual doubtful ones are marked [?] and logged.)*
+
+*(The Ṛk cited by the Kannada author; the source gives no English for it. Gloss mine and tentative: "Who, with exultant wrath, [struck] Vyaṃsa; who [struck] Śambara; who slew the lawless Pipru; Indra, who struck down the unwitherable Śuṣṇa; we call the Marut-attended one for friendship.")*
+
+> यो व्यंसं जाहृषाणेन मन्युना यः शंबरं यो अहन्पिप्रुमव्रतं ।
+> इंद्रो यः शुष्णमशुषं न्यावृणङ्मरुत्वंतं सख्याय हवामहे ॥
+
+> *yo vyaṃsaṃ jāhṛṣāṇena manyunā yaḥ śaṃbaraṃ yo ahanpiprumavrataṃ |*
+> *iṃdro yaḥ śuṣṇamaśuṣaṃ nyāvṛṇaṅmarutvaṃtaṃ sakhyāya havāmahe ‖*
+
+(Ṛ. Saṃ. 1-101-2)
+
+The Kannada continues: "is stated in this Ṛk also. Here too, अशुषं शुष्णं (*aśuṣaṃ śuṣṇaṃ*) means Śuṣṇa who cannot be killed; that is, it is said that Indra killed the asura Śuṣṇa, whom no one other than Indra can kill. This asura named Śuṣṇa is the asura who sucks up all the water on the earth and causes drought (anāvṛṣṭi). He is exceedingly strong. Except for Vṛtra, he is the most dangerous enemy. After he was killed by Indra, the earth became rich in vegetation and full of fruit."
+
+"The name Śuṣṇa is recited about 40 times *(numeral read ४०, [?])* in the Ṛgveda. He is Kutsa's chief enemy. It is said that Indra uproots Śuṣṇa for Kutsa's sake, or in Kutsa's company (Ṛ. Saṃ. 4-16-12 [?], 5-29-9 [?], and so on). Because there are descriptions that he has horns (1-33-12 [?]), that he has eggs (8-40-10, 11 [?]) and that he hisses (1-54-5 [?]), it may be said that he is an asura of serpent form. He has strong forts (1-51-11 [?]; 4-30-13 [?]); these are moving forts (8-1-28). Indra destroys Śuṣṇa's forts *(printed "kōṭigaḷannu", the plural of "kōṭi", where "kōṭe" would be expected)* and sets the waters free (1-51-11 [?]). Uprooting Śuṣṇa's race, he wins the heavenly waters (स्वर्वतीः (*svarvatīḥ*)) (8-40-10). The epithet Kuyava (one who produces bad grain) is used for Śuṣṇa four times. In Ṛ. Saṃ. 1--103-8 *(as printed with a double dash)* and 1-104-3, the word Kuyava is used in place of the name Śuṣṇa. The result of the battle between Indra and Śuṣṇa is not only the release of waters; there are descriptions (8-95-12 [?] and others) that cows or the sun may also be obtained. In the Kāṭhaka it is said that Śuṣṇa is a dānava who keeps amṛta (the immortal drink) within himself. From the sentences above, Śuṣṇa may be called a cause of drought. We have dealt with him in Ṛ. Saṃ. parts 5-293 [?], 6-22 [?], 8-255 [?], 10-550 [?], 13-380 [?] and so on." *(The five part-page references are doubtful, were not zoomed, and are logged.)*
+
+पिप्रुं (*pipruṃ*)—"The asura named Pipru is said in many Ṛks to have been defeated many times by Indra. As Indra fought Śambara for Divodāsa and Atithigva, so he fought Pipru for Ṛjiśva. The matter of Pipru is described in the Ṛks Ṛ. Saṃ. 1-101-1, 2; 4-16-13, 5-29-11, 6-20-7 [?], 8-49-10 [?], 10-99-11 [?], 10-138-3 [?], 1-103-8, 6-18-8 [?], and so on." *(All unzoomed.)*
+
+> वि पिप्रोरहिमायस्य दृळ्हाः पुरो वज्रिञ्छ्वसा[?] न दर्दः ।
+
+> *vi piprorahimāyasya dṛḷhāḥ puro vajriñchvasā[?] na dardaḥ |*
+
+*(The conjunct after "वज्रि" is unclear in the strip.)*
+
+(Ṛ. Saṃ. 6-20-2 [?])
+
+*(The Ṛk reference is written 6-20-2 as read; the earlier list reads 6-20-7. Both are doubtful and the digits differ; not settled. The Viśeṣaviṣaya of Ṛk 5 breaks off here at the foot of the page; the Kannada after the citation has not yet been seen.)*
+
+*(Numeral file: its only row for these pages is the Ṛk reference after "अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः" on p. 732, "4.14.13"; the strip is read there as 8-14-13 (glyph ಲ), see FILE DISAGREE in the note.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 734 (PDF 757). Sūkta 14: Ṛk 4 is complete (no grammar section printed). Ṛk 5 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written. The Viśeṣaviṣayagaḷu is open: it ends on p. 734 with the cited Ṛk "वि पिप्रोरहिमायस्य…" and its reference (6-20-2 [?]); the Kannada after it has not been seen. The next page begins after that citation. FILE DISAGREE: the bhāṣya reference after "अपां फेनेन नमुचेः…" is read from the strip as 8-14-13 (glyph ಲ); the file said 4.14.13; not zoomed. Header numerals read (Maṃ. 2 A. 2 Sū. 14; A. 2 A. 6 V. 13), not zoomed. Unzoomed numerals on p. 734, all marked [?]: the Ṛ. Saṃ. references for Śuṣṇa and Pipru and the five part-page references (5-293, 6-22, 8-255, 10-550, 13-380); only 1-101-2, 8-1-28, 1-103-8 and 1-104-3 are read without doubt. Other [?] places: "जगद्व्याप्य" in the Ṛk 5 bhāṣya; "वज्रिञ्छ्वसा"; "रुधिऽक्रां" in the Pada; "जुहोते" in the Pratipadārtha (printed form kept). Accents not reproduced.
