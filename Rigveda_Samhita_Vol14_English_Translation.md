@@ -32652,6 +32652,98 @@ Agni too is called many times the leader among the Aṅgirases (1-75-2). Among t
 > *saḥ | ha | śrutaḥ | indraḥ | nāma | devaḥ | ūrdhvaḥ | bhuvat | manuṣe | dasmatamaḥ |*
 > *ava | priyaṃ | arśasānasya | sahvān | śiraḥ | bharat | dāsasya | svadhāvān ‖ 6 ‖*
 
+### Printed p. 866
+
+*(Header: "866 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 20]", as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> देवो द्योतमानः श्रुतः कीर्तिमान् आत एव दस्मतमः सर्वरतिशयेन
+> दर्शनीयः स इंद्रो मनुषे मनोरर्थमूर्ध्वो भुवत् । कामप्रदाने प्रवृत्त
+> उन्मुखो भवतु ॥ नाम प्रसिद्धौ । हेति पूरणः ॥ तदुच्यते ॥ साह्वान् शत्रूनभिभवन्
+> स्वधावान् बलवानिंद्रोऽर्शसानस्य लोकं बाधमानस्य दासस्यैतन्नामकस्यासुरस्य
+> प्रियं शिरोऽवभरत् । अधः पातयतु ॥ हरतेर्लॆट्व्यडागमः । हृग्रहोर्भः ॥
+
+*Gist: Indra, glorious and most beautiful, is to be eager to grant the man's desires; the mighty one is to bring down the dear head of the demon Dāsa, who oppresses the world.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देवः (*devaḥ*)—the shining one; श्रुतः (*śrutaḥ*)—the renowned; दस्मतमः (*dasmatamaḥ*)—the one of attractive form; सः इंद्रः नाम (*saḥ iṃdraḥ nāma*)—that very Indra; मनुषे (*manuṣe*)—for man; ऊर्ध्वः भुवत् (*ūrdhvaḥ bhuvat*)—let him be ready (for the fulfilment of his wish); साह्वान् (*sāhvān*)—the conqueror of enemies; स्वधावान् (*svadhāvān*)—the mighty; Indra; अर्शसानस्य (*arśasānasya*)—of the one who harms the world; दासस्य (*dāsasya*)—of the demon called Dāsa; प्रियं (*priyaṃ*)—dear; शिरः (*śiraḥ*)—the head; अव भरत् (*ava bharat*)—let him bring down.
+
+**भावार्थ (Bhāvārtha)**
+
+May Indra, the shining, renowned one of attractive form, be ready with an upturned hand to fulfil the wish of man. May Indra, the conqueror of enemies and the mighty one, roll down to the ground the dear head of the demon called Dāsa, who harms the world.
+
+**English Translation (as printed)**
+
+May the renowned and graceful Indra, who is verily divine, be present over men: may he, the vigorous conqueror of foes, cast down the precious head of the malignant Dasa.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नाम (*nāma*)—The word नामन् (*nāman*) is read among the names of water (Nir. 2-24), and in many places it is also used in the sense of *prahvatva* (bending). Here Sāyaṇa says that it is used in the sense of "well known".
+
+देव ऊर्ध्वो भुवत् मनुषे (*deva ūrdhvo bhuvat manuṣe*)—इंद्रो मनुषे मनोरर्थमूर्ध्वो भुवतः । कामप्रदाने प्रवृत्त उन्मुखो भवतु॥ (*iṃdro manuṣe manorarthamūrdhvo bhuvataḥ | kāmapradāne pravṛtta unmukho bhavatu‖*) Here the word मनुषे (*manuṣe*) can be taken to mean "for man", or "for the benefit of man". The idea is that Indra has engaged himself for the benefit of man, that is, to give him his desired objects.
+
+### Printed p. 867
+
+*(Header: "[A. 2. Adhyāya 6. Varga 26] Ṛgvedasaṃhitā 867", as supplied.)*
+
+अर्शसानस्य दासस्य शिरः अव भरत् (*arśasānasya dāsasya śiraḥ ava bharat*)—He cut off the head of the harmful demon called Dāsa and brought it down. The word दासस्य (*dāsasya*) here may be understood as the demon called Dāsa, or as a leader of the Dasyu people, one of the Dāsas, the black earlier inhabitants of this land, who gave the Āryas special trouble. See what we have written about the Dāsa and Dasyu peoples in this same part, on pages 580 and 656.
+
+स्वधावान् (*svadhāvān*)—बलवान् (*balavān*): Indra, the mighty. The word स्वधा (*svadhā*) is read among the names of water (Nir. 2-24) and among the names of food (Nir. 3-9); it is not read among the names of strength. Yet the bhāṣyakāra has given the word स्वधा (*svadhā*) the meaning of strength here.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+*(The first line of the Saṃhitā survives only inside the title attribute of the supplied HTML and was converted letter for letter; the second line stood in the Saṃhitā block. Doubtful places: the first line has वृत्रहान (*vṛtrahāna*) where the Pada has वृत्रहा (*vṛtrahā*) and इन्ः (*inḥ*), and दासीरैरायद्वि (*dāsīrairāyadvi*) against Pada दासीः ऐरयत् वि (*dāsīḥ airayat vi*); in the second line क्षामुपश्च (*kṣāmupaśca*) against Pada क्षां अपः च (*kṣāṃ apaḥ ca*) and तूततोत् (*tūtatot*) against Pada तूतोत् (*tūtot*). Reported, not settled; no Ṛk number is printed after the Saṃhitā in the supplied text.)*
+
+> स वृ॑त्र॒हान [?]॑ कृ॒ष्णयो॑नीः पुरंद॒रो दासी॑रैराय॒द्वि [?] ।
+> अज॑नय॒न्मन॑वे॒ क्षाम॒ुपश्च॑ [?] स॒त्राशंसं॒ यज॑मानस्य तूततोत् [?] ॥
+
+**॥ पदपाठः ॥**
+
+*(The Pada was printed twice in the supplied text, the first time followed by the title-attribute fragment; the duplicate and the fragment are left out. The Pada reads इन्ः (*inḥ*) [?] where Indra's name is expected.)*
+
+> सः । वृत्रहा । इन्ः [?] । कृष्णयोनीः । पुरंदरः । दासीः । ऐरयत् । वि ।
+> अजनयत् । मनवे । क्षां । अपः । च । सत्रा । शंसं । यजमानस्य । तूतोत् ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वृत्रहा वृत्रस्य हंता पुरंदरः शंबरपुरां दारयिता स इंद्रः कृष्णयोनी-
+> र्निकृष्टजातीर्दासीरुपक्षपयित्रिरासुरीः सेना वैरयत् । व्यनुदत् । किंच मनवे
+> मनोरर्थं क्षां पृथिवीमप उदकानि चाजनयत् । यजमानस्य सत्रा महांतं
+> शंसमभिलाषं तूतोत् । कामप्रदानेन पूरयतु ॥ तु वृद्धाविति सौत्रो धातुः ।
+> शपः श्लुः । तुजादित्वा दीर्घः॥ यद्वा सत्रा महत् शंसं शंसनीयं शस्त्रं कामप्रदा-
+> नेन वर्धयतु । यद्वा कृष्णयोनीः कृष्णाख्येनासुरेण निषिक्तरेतस्का दासीर्भार्या
+> वैरयत् । व्यनुदत् । तथा मंत्रः । यः कृष्णगर्भा निरहन्नृजिश्वना । १-१०१-१ ।इति॥
+
+*Gist: Indra, slayer of Vṛtra, drove away the low-born demon hosts, made earth and waters for Manu, and is to fulfil the sacrificer's great wish; alternatively he destroyed the wives of the demon Kṛṣṇa.*
+
+### Printed p. 868
+
+*(Header: "868 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 28]", as supplied; the sūkta number is probably 20 but is printed or read as 28 in the supplied text.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra; पुरंदरः (*puraṃdaraḥ*)—the destroyer of enemy cities; सः इंद्रः (*saḥ iṃdraḥ*)—that Indra; कृष्णयोनीशि [?] (*kṛṣṇayonīśi [?]*)—belonging to a low caste; दासीशि [?] (*dāsīśi [?]*)—the demon hosts; वि ऐरयत् (*vi airayat*)—chased and drove far away; मनवे (*manave*)—for Manu; क्षां (*kṣāṃ*)—the earth; अपः च (*apaḥ ca*)—and the waters; अजनयत् (*ajanayat*)—created; यजमानस्य (*yajamānasya*)—of the sacrificer; सत्रा (*satrā*)—great; शंसं (*śaṃsaṃ*)—wish; तूतोत् (*tūtot*)—let him fulfil.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra, the slayer of Vṛtra and destroyer of enemy cities, chased far away the demon host belonging to a low caste. For Manu he created the earth and also the waters. May he (such an Indra) fulfil the great wish of the sacrificer.
+
+**English Translation (as printed)**
+
+Indra, the slayer of Vritra, the destroyer of cities, has scattered the black-sprung servile(hosts): He engendered the earth and the waters for Manu: may he fulfil the entire prayer of the sacrificer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+कृष्णयोनीः दासीः (*kṛṣṇayonīḥ dāsīḥ*)—कृष्णयोनीर्निकृष्टजातीर्दासीरुपक्षपयित्रीरासुरीः सेना वैरयत् व्यनुदत् । (*kṛṣṇayonīrnikṛṣṭajātīrdāsīrupakṣapayitrīrāsurīḥ senā vairayat vyanudat |*) The black people, the earlier inhabitants of this country, used to be called Dāsas. Those born of such black people are called "Kṛṣṇayoni" (black-sprung). They were always enemies of the Ārya people and the sages and caused trouble to their sacrifices. Wars between the Āryas and them were frequent. It is said here that on such an occasion Indra, to help the Āryas and the sages, defeated the armies of these black people and drove them far away. Or else another kind of meaning is given: that he destroyed the wombs, that is, the unborn children, of the wives of a demon named Kṛṣṇa, a leader of the black people. This matter was told earlier also in the Ṛk (verse as supplied, with मुंदिने (*muṃdine*) where one would expect मंदिने (*maṃdine*); not corrected): प्र मुंदिने पितुमदर्चता वचो यः कृष्णगर्भा निरहन्नृजिश्वना । अवस्यवो वृषणं वज्रदक्षिणं मरुत्वंतं सख्याय हवामहे ॥ (*pra muṃdine pitumadarcatā vaco yaḥ kṛṣṇagarbhā nirahannṛjiśvanā | avasyavo vṛṣaṇaṃ vajradakṣiṇaṃ marutvaṃtaṃ sakhyāya havāmahe ‖*) (Ṛ. Saṃ. 1-101-1). (Mine and tentative gloss: "Offer a food-rich word to the (bounteous one) who with Ṛjiśvan destroyed the black-wombed ones; desiring help, we invoke for friendship the bull, holding the thunderbolt in his right hand, the lord of the Maruts.") We have explained this matter in part 8, pages 269 to 270.
+
+सत्रा (*satrā*)—The word सत्रा (*satrā*) is read among the names of truth (Nir. 3-13). Here the bhāṣyakāra explains it as महत् (*mahat*), "great".
+
+मनवे क्षां अपः च अजनयत् (*manave kṣāṃ apaḥ ca ajanayat*)—That Indra created the earth and the water for Manu. "For Manu" here means for the descendants of Manu, the human beings, for men.
+
 ---
 
-**Progress note:** Done through printed p. 865 (PDF 865). Sukta 20: Rk 5 Samhita (first line from title attribute, converted to Kannada letters), Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics complete; Rk 6 Samhita and Pada only, rest follows
+**Progress note:** Done through printed p. 868 (PDF 868). Sukta 20: Rk 6 bhashya to Special Topics complete; Rk 7 Samhita (first line from title attribute, converted letter for letter, with [?] marks), Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics complete; Rk 8 follows
