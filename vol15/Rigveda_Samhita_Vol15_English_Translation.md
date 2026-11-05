@@ -24070,6 +24070,83 @@ The firmament and the earth and the adorable (gods) propitiate you their invoker
 
 *[The window ends here, at the end of p. 778; the next window continues.]*
 
+### Printed p. 779
+
+*[Running head, p. 779: Aṣṭaka 2, Adhyāya 8, Varga 26, Ṛgvedasaṃhitā.]*
+
+[continuing:] that is, when human beings perform a sacrifice addressed to the gods, they have prepared oblations to offer to the gods. But the gods do not accept their share of the sacrifice directly from men; they accept only the oblations and the like offered in Agni. Therefore, so that Agni may carry to the gods the oblations they offer, the men (the sacrificers) praise in many ways, with Vedic mantras, Agni blazing in the sacrificial pit. After praising thus they become ready to perform the sacrificial work duly. Seeing this, the gods who are addressed in the sacrifice, heaven and earth and the rest, in the joy that a share in this sacrifice will come to them also, encourage and appease Agni, the hotṛ (or messenger), who conveys to them the oblations and the like offered in the sacrifice, for the sake of the sacrifice; this is the purport.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> म॒हान्त्स॒धस्थे॑ ध्रु॒व आ निष॑त्तो॒Sन्तर्द्यावा॒ माहि॑ने॒ हर्य॑माणः ।
+> आस्क्रे॑ स॒पत्नी॑ अ॒जरे॒ अमृ॑क्ते सब॒र्दुघे॑ उरुगा॒यस्य॑ धे॒नू ॥४॥
+
+**॥ पदपाठः ॥**
+
+> महान् । सधस्थे । ध्रुवः । आ । निसत्तः । अंतः । द्यावा । माहिने इति । हर्य-
+> माणः ।
+> आस्ने इति । सपत्नी इति सपत्नी । अजरे इति । अमृक्ते इति । सबर्दुघे इति सबः-
+> दुघे । उरुऽगायस्य । धेनू इति ॥ ४ ॥
+
+> *mahān | sadhasthe | dhruvaḥ | ā | nisattaḥ | aṃtaḥ | dyāvā | māhine iti | harya-*
+> *māṇaḥ |*
+> *āsne iti | sapatnī iti sapatnī | ajare iti | amṛkte iti | sabardughe iti sabaḥ-*
+> *dughe | uru 'gāyasya | dhenū iti ‖ 4 ‖*
+
+*(Three hyphenated line breaks inside the Pada and the bhāṣya blocks were joined; in the Pada, the break inside the word sabardughe lost its hyphen in the joining. The Saṃhitā has a Latin "S" in "निषत्तो (*niṣatto*)Sನ್तः (*taḥ*)", as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> महान् अधिको हर्यमाणो यजमानादिभिः काम्यमानः । यद्वा यज-
+> मानाय धनं कामयमानोऽग्निर्द्यावांतर्द्युभूम्योर्मध्ये माहिने महिम्ना
+> युक्ते सधस्थे स्वकीये स्थाने ध्रुवोऽचलः सन् आ निषत्तो निषण्णो भवति । आस्ने
+> आक्रमणशीले सपत्नी समान एकः सूर्यः पतियोऽस्ते सपत्न्या अजरे जरारहिते
+> अमृक्ते अन्वेनाहिंसिते सबर्दुघे । सबरित्यमृतमुदकं । तस्य दोगौ द्यावा-
+> पृथिव्यावुरुगायस्य पृथुगमनस्याधिकस्तुतेर्वाग्नेर्धेनू प्रीणयित्र्या भवतः ॥
+
+*(Gist: the great, desired Agni sits firm in his own glorious seat between heaven and earth; heaven and earth, co-wives of the one Sun, ageless, unharmed, milk-giving, are cows to wide-going Agni.)*
+
+### Printed p. 780
+
+*[Running head, p. 780: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 6.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Mahān: the great. Haryamāṇaḥ: the desired (by the sacrificers). Agni. Dyāvā antaḥ: in the middle of heaven and earth. Māhine: full of excessive glory. Sadhasthe: in his own place. Dhruvaḥ: motionless. Ā niṣattaḥ: sits. Āsne (printed आस्त्रॆ (*āstrè*)): those that pervade everywhere. Sapatnī: those who have the Sun as their common husband. Ajare: ageless. Amṛkte: unharmed (by others). Sabardughe: heaven and earth, that pour water in the form of rain. Urugāyasya: to Agni of great reach. Dhenū: become delightful.
+
+**भावार्थ (Bhāvārtha)**
+
+The great Agni, desired by the sacrificers, sits motionless in his own place, in the middle of heaven and earth, full of excessive glory. Heaven and earth, which pervade everywhere, have the Sun as their common husband, are ageless, unharmed by others, and pour water in the form of rain, become delightful to Agni of great reach.
+
+**Printed English translation**
+
+The great and adorable Agni is firm, seated on his spacious throne between heaven and earth ; and the poweful [sic] fellow-brides (of the sun), the imperishable, uninjurable(heaven and earth) are the two milk-yieiding [sic] cows of the wide-extending (Agni).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+महान् हर्यमाणः द्यावा अंतः माहिने सधस्थे ध्रुव आ निषत्तः (*mahān haryamāṇaḥ dyāvā aṃtaḥ māhine sadhasthe dhruva ā niṣattaḥ*): the greatly glorious Agni, desired by the sacrificers for carrying out the sacrifice, sits motionless in the sacrificial pit, which is his own place full of his glory, in the sacrificial altar between earth and atmosphere. That is, the sacrificers who wish to perform the sacrifice have installed the excellent Agni in the fire-pit in their sacrificial hall between earth and atmosphere, for the sake of the sacrifice; the purport is that in this fire-pit, said to be Agni's own place, Agni is established and shines well without any hindrance. Here the dual dyāvā indicates both heaven and earth.
+
+### Printed p. 781
+
+*[Running head, p. 781: Aṣṭaka 2, Adhyāya 8, Varga 26, Ṛgvedasaṃhitā.]*
+
+आस्क्रे सपत्नी अजरे अमृक्ते सबर्दुघे उरुगायस्य धेनू (भवतः) (*āskre sapatnī ajare amṛkte sabardughe urugāyasya dhenū (bhavataḥ)*): heaven and earth behave with great joy towards such an Agni and bring him delight. These heaven and earth pervade all regions and extend over a wide place, that is, they are extremely extensive. Since the Sun stands between heaven and earth, he shines on both with his radiance and protects them. Since the Sun is a common protector of both, this is indicated by the word sapatnī. Though these heaven and earth are very ancient, they remain the same without any change, that is, without alteration, so the word ajare indicates that they have no decay of age. No one can injure them, that is, deform them; no one can change their shape and form. Moreover, these heaven and earth pour water in the form of rain, as cows give milk, for the nourishment of all beings. Such heaven and earth are delightful to Agni; this is the purport.
+
+Some words in this Ṛk require explanation. For the word sadhastha Yāska states the derivation सहस्थानेसमानस्थाने आभिमुख्येन आत्मनः परिचरणाय (*sahasthānesamānasthāne ābhimukhyena ātmanaḥ paricaraṇāya*) (Ni. 3-15), that is, a common place, chiefly a place fit for oneself and worthy to be served. Here Agni's own place is the sacrificial pit.
+
+सपत्नि (*sapatni*): those having a common husband or protector, that is, those who have one and the same protector. The word sapatna or sapatnī is also used here and there in the sense of "enemy".
+
+सबर्दुघे (*sabardughe*): sabaḥ means milk, nectar, water. Dughe means a cow that gives milk. Here it is used in the sense of heaven and earth accompanied by the clouds that pour water.
+
+उरुगायस्य-पृथुगमनस्याधिकस्तुतेर्वाग्नेः । (*urugāyasya-pṛthugamanasyādhikastutervāgneḥ |*) Two kinds of meaning are explained: one of very swift going, that is, who pervades very quickly, or one who is praised much (the supplied text has the misprint वेगवाव (*vegavāva*)).
+
+धेनू (*dhenū*): the word dhenu is read among the names of speech (Ni. 2-23). For the word dhenu there are many meanings, such as ⟦ಧೇನುವದ್ದೋಗ್ದ್ರೀ
+ಸರ್ವಕಾಮಾನ್⟧: a cow that satisfies everyone by giving milk, or one that fulfils all desires like a cow. Here the word is used in the sense of heaven and earth, which give delight like a cow.
+
+*[The window ends here, at the end of p. 781, at the end of the Ṛk 4 Special Topics; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 778 (PDF 778). Sūkta 6 Ṛk 2 (full) and Special Topics (seven tongues); Ṛk 3 (full) and Special Topics
+**Progress note:** Done through printed p. 781 (PDF 781). Sūkta 6 Ṛk 3 Special Topics end; Ṛk 4 (full) and Special Topics (sapatnī, sabardughe, dhenū; Ni. 3-15, 2-23)
