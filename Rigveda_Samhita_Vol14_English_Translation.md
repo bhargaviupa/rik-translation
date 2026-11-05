@@ -29972,6 +29972,87 @@ or his own earlier action, is called indriya. Thus the word इंद्रि�
 > *viśve hyasmai yajatāya dhṛṣṇave kratuṃ bharaṃti vṛṣabhāya saścate |*
 > *vṛṣā yajasva haviṣā viduṣṭaraḥ pibeṃdra somaṃ vṛṣabheṇa bhānunā ‖ 4 ‖*
 
+### Printed p. 782
+
+*(Header: "782 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 16]".)*
+
+**॥ पदपाठः ॥**
+
+> विश्वे । हि । अस्मै । यजताय । धृष्णवे । क्रतुं । भरंति । वृषभाय । सश्चते ।
+> वृषा । यजस्व । हविषा । विदुःतरः । पिब । इंद्र । सोमं । वृषभेण । भानुना ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: the many (men) perform the sacrifice for Indra, the adorable, bold showerer of wishes; so the sacrificer, a showerer of Soma and most wise, should worship him with oblations; and Indra is bidden to drink the Soma together with the radiant Agni. Grammatical tail on bharanti (unaccented by hi), viduṣṭaraḥ (Vedic samprasāraṇa and the change to ṣ) and the like.*
+
+> हे यजमान विश्वे सर्वे जना यजताय सर्वैर्यजनीयाय धृष्णवे
+> शत्रूणां धर्षणशीलाय वृषभाय कामानां वर्षित्रॆ सश्चते सज्जमानाय स्तुत्यादि-
+> कर्मवत्तु स्तोतृषु एतादृशायेंद्राय क्रतुं यज्ञादिलक्षणं कर्म भरंति हि ।
+> हरंति खलु । प्रणयंतीत्यर्थः ॥ भरंति । हियोगादनिघातः ॥ यस्मादेवं तस्मा-
+> द्वृषा सोमरससेचनसमर्थो विदुष्टरः ॥ विद्वच्छब्धात्तरपि छांदसं संप्रसारणं ।
+> शासिवसिघसीनां चेति संहितायां षत्वं ॥ विद्वत्तरस्तं हविषा तमिंद्रं यजस्व ।
+> इदानीमिंद्रं संबोध्याह । हे इंद्र वृषभेण कामानां वर्षकेण भानुना दीप्य-
+> मानेनाग्निना सह सोमं पिब ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O sacrificer) viśve (विश्वे (*viśve*))—all men; yajatāya (यजताय (*yajatāya*))—worthy of sacrifice; dhṛṣṇave (धृष्णवे (*dhṛṣṇave*))—destroyer of enemies; vṛṣabhāya (वृषभाय (*vṛṣabhāya*))—giver of what is wished; saścate (सश्चते (*saścate*))—associated with praise and the like; asmai (अस्मै (*asmai*))—to (for) Indra; kratuṃ (क्रतुं (*kratuṃ*))—sacrificial rites; bharanti hi (भरंति हि (*bharaṃti hi*))—certainly perform (therefore). vṛṣā (वृषा (*vṛṣā*))—able to offer the Soma juice; viduṣvaraḥ [sic, as supplied] (विदुष्वरः (*viduṣvaraḥ*))—wise; you also; haviṣā (हविषा (*haviṣā*))—with oblations; yajasva (यजस्व (*yajasva*))—worship (Indra). indra (इंद्र (*iṃdra*))—O Indra; vṛṣabheṇa (वृषभेण (*vṛṣabheṇa*))—shedding (pouring out) the things wished; bhānunā (भानुना (*bhānunā*))—with the radiant Agni; somaṃ (सोमं (*somaṃ*))—the Soma juice; piba (पिब (*piba*))—drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O sacrificer, all men perform sacrificial rites for Indra, who is worthy of sacrifice, a destroyer of enemies, a giver of what is wished, and associated with praise and the like. Therefore do you also worship Indra with oblations. O Indra, drink the Soma juice together with the radiant Agni, who showers what is wished.
+
+### Printed p. 783
+
+*(Header: "[A. 2. A. 6. V. 17.] Ṛgvedasaṃhitā 783".)*
+
+**Printed English translation (Ṛk 4)**
+
+All men offer worship to that adorable, powerful, and munificent (Indra), who is associated (with praise): therefore, (do you), who are liberal and most wise, worship him with oblations; and drink, Indra, the Soma, together with Agni, the showerer (of benefits).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk has two main sentences. In the first the sacrificer is addressed and told to offer oblations to Indra; in the second Indra is addressed and prayed to drink, together with Agni, the Soma juice offered by the sacrificer.
+
+In this Ṛk and in several following Ṛks the words वृषभाय (*vṛṣabhāya*), वृषा (*vṛṣā*), वृषभेण (*vṛṣabheṇa*) and the like are used. Since these words are formed from the root वृषु-सेचने (*vṛṣu-secane*) (bhvādi, parasmaipada), the general sense can be given as "able to shed (pour)", that is, as the rain pours water abundantly, so one who pours out things wished for and the like. The meaning must be taken so as to suit each context and not to conflict with the sense of the root. Thus, since the word वृषभाय (*vṛṣabhāya*) in this Ṛk is an epithet of Indra, the meaning कामानां वर्षित्रे (*kāmānāṃ varṣitre*), "one who showers what is wished (that is, gives specially)", is given; since the word वृषा (*vṛṣā*) is an epithet of the sacrificer who performs the sacrifice, the meaning "one who sheds (pours) the Soma juice, that is, the sacrificer who presses and prepares the Soma juice" is given; and since the word वृषभेण (*vṛṣabheṇa*) is an epithet of the word भानुना (*bhānunā*), the meaning "by Agni, who showers things wished, as said before" is given, each explained so as to fit its context.
+
+विदुष्टरः (*viduṣṭaraḥ*)—विद्वत्तरः। विदुषां श्रेष्ठतमः । (*vidvattaraḥ| viduṣāṃ śreṣṭhatamaḥ |*) The best among the wise; that is, one who knows everything, a discerning person, is the sense.
+
+भानुना (*bhānunā*)—The word भानु (*bhānu*), formed from the root भा दीप्तौ (*bhā dīptau*) (adādi, parasmaipada), is read among the names of the day (Ni. 2-21). But since the word भानु (*bhānu*) means "shining", two meanings can be given: the shining sun, or Agni. Here, as Indra's association with Agni is the greater, the meaning of भानुना (*bhānunā*) as "together with Agni" is fitting.
+
+### Printed p. 784
+
+*(Header: "784 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 16]".)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> वृष्णः॒ कोशः॑ पवते॒ मध्व॑ ऊ॒र्मिवृ॑ष॒भान्ना॑य वृष॒भाय॒ पात॑वे ।
+> वृष॑णाद्व॒यू वृ॑ष॒भासो॒ अद्र॑यो॒ वृष॑णं॒ सोमं॑ वृष॒भाय॑ सुष्वति ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> वृष्णः । कोशः । पवते । मध्वः । ऊर्मिः । वृषभअन्नाय । वृषभाय । पातवे ।
+> वृषणा । अध्वर्यू इति । वृषभासः । अद्रयः । वृषणं । सोमं । वृषभाय । सुस्वति॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: for Indra the showerer, the Soma juice flows, quickening sacrificers and drinkers; the two Adhvaryus and the pressing-stones press the Soma for Indra, the best of gods. Grammatical tail on the root pav (accent), and on suṣvati (śluḥ, and ra for da).*
+
+> हे इंद्र वृष्णः फलस्य वर्षितुर्मध्वो मदकरस्य सोमस्य कोशो रस
+> ऊर्मिरनुष्ठात्कृणां पात्कणां च प्रेरकः सन् पवते । गच्छति ॥ पव गतौ । अनुदा-
+> त्तेत् ॥ किमर्थं । वृषभान्नाय । बलवर्षकाण्यन्नानि यस्य स तथोक्तः । तादृशाय
+> वृषभाय कामानां वर्षित्र इंद्राय पातवे । पानार्थं पवत इति समन्वयः । किंच
+> वृषणा सोमरससेचनसमर्थावध्वर्यू अध्वर्युप्रतिप्रस्थातारौ वृषभासो वर्षका
+> अद्रयोऽभिषवग्रावाणश्च वृषणं स्वर्गादिफलस्य सेक्तारं सोमं वृषभाय देवानां
+> श्रेष्ठाय तुभ्यं सुष्वति । सुन्वंति ॥ सुनोतेर्लटि बहुलं छंदसीति विकरणस्य श्लुः ।
+> अदभ्यस्तादिति रोऽदादेशः ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Indra—O Indra) vṛṣaḥ (वृषः (*vṛṣaḥ*))—giving fruit; madhvaḥ (मध्वः (*madhvaḥ*))—intoxicating; of the Soma; kośaḥ (कोशः (*kośaḥ*))—the juice; ūrmiḥ (ऊर्मिः (*ūrmiḥ*))—being a stimulant to the performers of the rite and to those who drink; vṛṣabhānnāya (वृषभान्नाय (*vṛṣabhānnāya*))—one who has strength-increasing food; vṛṣabhāya (वृषभाय (*vṛṣabhāya*))—and a showerer of things wished, of you; pātave (पातवे (*pātave*))—for drinking; pavate (पवते (*pavate*))—flows. vṛṣaṇā (वृषणा (*vṛṣaṇā*))—able to press the Soma juice; adhvaryū (अध्वर्यू (*adhvaryū*))—the Adhvaryu and the Pratiprasthātṛ, both; vṛṣabhāsaḥ (वृषभासः (*vṛṣabhāsaḥ*))—serving as means of pressing the juice; adrayaḥ (अद्रयः (*adrayaḥ*))—the pressing-stones (stones for pressing); vṛ. ṣaṇaṃ [sic, as supplied: "ವ. ಷಣಂ"] (व. षणं (*va. ṣaṇaṃ*))—giving the fruit of heaven and the like; somaṃ (सोमं (*somaṃ*))—the Soma juice; vṛṣabhāya (वृषभाय (*vṛṣabhāya*))—for you, the best among all the gods; suṣvati (सुष्वति (*suṣvati*))—they press.
+
 ---
 
-**Progress note:** Done through printed p. 781 (PDF 781). Sukta 16 Rk 3 closed (Pada, bhasya, printed English, special topics on ksoni and indriya); Rk 4 Samhita placed
+**Progress note:** Done through printed p. 784 (PDF 784). Sukta 16 Rk 4 closed (Pada, bhasya, Pratipadartha, Bhavartha, printed English, special topics on vrsan-words, vidustara, bhanu); Rk 5 Samhita, Pada, bhasya, Pratipadartha placed. Flags: Pada vidu(h)tarah, Pratipadartha viduşvarah and 'va. sanam' as supplied; Rk5 Samhita vrsanadvayu vs Pada adhvaryu
