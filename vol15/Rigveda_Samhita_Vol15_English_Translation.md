@@ -2553,6 +2553,82 @@ May Aditi, the mother of royal sons, place us beyond the malice (of our enemies)
 
 राजपुत्रा अदितिः—राजमानाः मित्रादयः पुत्राः यस्याः अखंडनीया या देवी (*rājaputrā aditiḥ—rājamānāḥ mitrādayaḥ putrāḥ yasyāḥ akhaṃḍanīyā yā devī*). The abundant power of Aditi is described: the goddess Aditi has sons who shine with radiance. The word Aditi is stated by Yāska among the names of the earth (Ni. 2-5), of speech (Ni. 2-23), of cows (Ni. 3-9), and of heaven-and-earth (Ni. 3-22). And
 
+### Printed p. 83
+
+Aditi is explained as अदितिः देवमाता अदीना (*aditiḥ devamātā adīnā*) ("Aditi, the divine mother, the undiminished") (Ni. 4-23); and, citing the Ṛk आदितिर्दौरदितिरंतरिक्षं (*āditirdauraditiraṃtarikṣaṃ*) (Ṛ. Saṃ. 1-89-10), it is described that Aditi's power is unbroken. The prayer is stated that this goddess may carry us, the sacrificers, beyond the demons (द्वेषांसि अति पिपर्तु (*dveṣāṃsi ati pipartu*)) and bring us to a country free of them, that is, make us dwell in regions where there is no affliction from rākṣasas.
+
+By आर्यमा सुगेभिः (*āryamā sugebhiḥ*) the sacrificers pray for travel on a pleasant road, and for protection, from Aryaman. And by मित्रस्य वरुणस्य च बृहत् शर्म (*mitrasya varuṇasya ca bṛhat śarma*) it is wished that abundant happiness may come from Mitra and Varuṇa.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> ति॒स्रो भूमी॑र्धारय॒न् त्रीरु॒त द्यून्त्रिणि॑ व्र॒ता वि॒दथे॑ अ॒न्तरे॑षां ।
+> ऋ॒तेना॑दित्या॒ महि॑ वो महि॒त्वं तद॑र्यमन्वरुण मित्र॒ चारु॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> तिस्रः । भूमिाः । धारयन् । त्रीन् । उत । द्यून् । त्रीणि । व्रता । विदथे । अंतः । एषां ।
+> यतेन । आदित्याः । महि । वः । महित्वं । तत् । अर्यमन् । वरुण । मित्र । चारु ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> पूर्वोक्ते पशौ तिस्रो भूमीरिति पुरोडाशस्य याज्या । सूत्रं पूर्वमे-
+> वोदाहृतं ॥
+> तिस्रो भूमिाः । अत्र भूमिाशब्दो लोकत्रये वर्तते । यो द्वितीयस्यां
+> तृतीयस्यां पृथिव्यामित्यत्र यथा पृथिवीशब्दः । भूम्यंतरिक्षस्वर्गांस्त्रीन् लोकान्
+> आदित्या धारयन् । वृष्टिप्रदानादिना धारयंति । उत आपि च द्यून् दीप्तान् तत
+> उपरितनान् महरादिकानपि त्रीन् लोकान् धारयंति । यद्वा दीप्तान् अग्निं
+> वायुं सूर्यं च धारयंति । अपि चैषामादित्यानां विदथे यज्ञे०तर्मध्यॆ
+> श्रीणि व्रता सवनत्रयनिष्पाद्यानि श्रीणि कर्माणि संति । यद्वा एषां लोकानामंत-
+> र्मध्यॆ विदथे यज्ञे निमित्तभूते सति एषामादित्यानां त्रीणि कर्माणि रसादानधा-
+
+> *pūrvokte paśau tisro bhūmīriti puroḍāśasya yājyā | sūtraṃ pūrvame-*
+> *vodāhṛtaṃ ‖*
+> *tisro bhūmiāḥ | atra bhūmiāśabdo lokatraye vartate | yo dvitīyasyāṃ*
+> *tṛtīyasyāṃ pṛthivyāmityatra yathā pṛthivīśabdaḥ | bhūmyaṃtarikṣasvargāṃstrīn lokān*
+> *ādityā dhārayan | vṛṣṭipradānādinā dhārayaṃti | uta āpi ca dyūn dīptān tata*
+> *uparitanān maharādikānapi trīn lokān dhārayaṃti | yadvā dīptān agniṃ*
+> *vāyuṃ sūryaṃ ca dhārayaṃti | api caiṣāmādityānāṃ vidathe yajñe0tarmadhyè*
+> *śrīṇi vratā savanatrayaniṣpādyāni śrīṇi karmāṇi saṃti | yadvā eṣāṃ lokānāmaṃta-*
+> *rmadhyè vidathe yajñe nimittabhūte sati eṣāmādityānāṃ trīṇi karmāṇi rasādānadhā-*
+
+### Printed p. 84
+
+> रणविसर्जनलक्षणानि संति । उत्तरोर्धर्चः प्रत्यक्षकृतः । हे आदित्या ऋतेन सत्येन
+> यॆज्ञेन वा महि महत् प्रभूतं वो युष्माकं महित्वं महत्त्वं यन्महाभाग्यं
+> हे अर्यमन् वरुण मित्र तन्महाभाग्यं चारु । शोभनं सर्वोत्कृष्टमित्यर्थः ॥
+
+> *raṇavisarjanalakṣaṇāni saṃti | uttarordharcaḥ pratyakṣakṛtaḥ | he ādityā ṛtena satyena*
+> *yèjñena vā mahi mahat prabhūtaṃ vo yuṣmākaṃ mahitvaṃ mahattvaṃ yanmahābhāgyaṃ*
+> *he aryaman varuṇa mitra tanmahābhāgyaṃ cāru | śobhanaṃ sarvotkṛṣṭamityarthaḥ ‖*
+
+Gist: the three worlds are the earth, atmosphere and heaven (or, alternatively, the three higher worlds, or Agni, Vāyu and Sūrya); the Ādityas sustain them, have three rites in the sacrifice, and their great might through truth or sacrifice is most excellent.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+तिस्रः भूमिाः (*tisraḥ bhūmiāḥ*): the three worlds beginning with the earth. धारयन् (*dhārayan*): (the Ādityas) have upheld. उत (*uta*): and. द्यून् (*dyūn*): the shining. त्रीन् (*trīn*): they have upheld also the three worlds beginning with Mahar. एषां (*eṣāṃ*): of these Ādityas. विदथे (*vidathe*): in the sacrifice, or, in the middle of the three worlds, occasioned by sacrifice. अंतः (*aṃtaḥ*): in the middle. त्रीणि व्रता (*trīṇi vratā*): three kinds of rites (accomplished through the three savanas) are well known (or: three kinds of rites, namely drinking up the water, holding it, and releasing it in the form of rain, are well known). आदित्याः (*ādityāḥ*): O Ādityas! वः (*vaḥ*): your. महित्वं (*mahitvaṃ*): greatness. ऋतेन (*ṛtena*): through truth or through sacrifice. महि (*mahi*): has grown in great form. अर्यमन् (*aryaman*): O Aryaman. वरुण (*varuṇa*): Varuṇa. मित्र (*mitra*): O Mitra. तत् (*tat*): that greatness of yours. चारु (*cāru*): is beautiful and the most excellent of all.
+
+**भावार्थ (Bhāvārtha)**
+
+The Ādityas have upheld the three worlds beginning with the earth, and the three upper worlds beginning with Mahar. In the middle of the three worlds that belong to these Ādityas, three rites occasioned by sacrifice, that is, drinking up the water, holding it, and releasing it as rain, are well known. O Ādityas, your greatness [माहात्म (*māhātma*), as supplied] has grown great through truth. O Aryaman [अय्यमने (*ayyamane*), as supplied], Varuṇa, that greatness of yours is beautiful and the most excellent of all.
+
+**Printed English translation**
+
+They uphold the three worlds, the three heavens; and in their sacrifices three ceremonies (are comprised): by truth, Adityas, has your great might (been produced), such as is most excellent; Aryaman, Mitra, and Varuna.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the matter stated before, it is explained in the Stotra already cited that this Ṛk तिस्रो भूमिाः (*tisro bhūmiāḥ*) is to be used as the yājyā mantra when the purodāśa oblation is offered. तिस्रो भूमिाः धारयन् (*tisro bhūmiāḥ dhārayan*): the meaning is explained thus: as in the mantra यो द्वितीयस्यां तृतीयस्यां पृथिव्यां (*yo dvitīyasyāṃ tṛtīyasyāṃ pṛthivyāṃ*) the word pṛthivī is said to mean the three worlds, so here too the word bhūmi is used in the sense of the three worlds.
+
+### Printed p. 85
+
+From this, भूम्यंतरिक्षस्वर्गस्थान् त्रीन् लोकान् आदित्याः वृष्टिप्रदानादिना धारयंति (*bhūmyaṃtarikṣasvargasthān trīn lokān ādityāḥ vṛṣṭipradānādinā dhārayaṃti*): the Ādityas uphold, that is, protect, the three worlds earth, atmosphere and heaven, and those who live in the three worlds, by granting rain, water and the like; this is how the meaning is described. And for the words द्यून् त्री९ (*dyūn trī9*) [as supplied] the meaning given with तत उपरितनान् महारादिर्का अपि (*tata uparitanān mahārādirkā api*) is: the three worlds beginning with Mahar, which lie above these three worlds; and one sense is described, that the Ādityas have upheld these. Then, with यद्वा दीर्प्ता अग्निं वायुं सूर्यं च धारयंति (*yadvā dīrptā agniṃ vāyuṃ sūryaṃ ca dhārayaṃti*), it is described that the Ādityas uphold also the shining Agni, Vāyu and Sūrya.
+
+एषां विदथे अंतः व्रता त्रीणि संति (*eṣāṃ vidathe aṃtaḥ vratā trīṇi saṃti*), आदित्यानां एषां यज्ञ मध्यॆ सवनत्रय निष्पाद्यानि कर्माणि संति (*ādityānāṃ eṣāṃ yajña madhyè savanatraya niṣpādyāni karmāṇi saṃti*): the first meaning is explained thus: in the middle of the sacrifices performed in honour of these Ādityas, the duties (to be performed) in the rites of the morning, midday and evening savanas are also carried out. Secondly, यद्वा एषां लोकानां अंतर्मध्यॆ यज्ञे निमित्तभूते सति एषामादित्यानां रसादानधारण-विसर्जनलक्षणानि त्रीणि कर्माणि संति (*yadvā eṣāṃ lokānāṃ aṃtarmadhyè yajñe nimittabhūte sati eṣāmādityānāṃ rasādānadhāraṇa-visarjanalakṣaṇāni trīṇi karmāṇi saṃti*): the meaning is explained that, in the middle of the three worlds heaven, earth and atmosphere, at the time when sacrifice is performed, these Ādityas carry out three kinds of rites, receiving the waters, holding the waters received, and pouring them on the earth in the form of rain, and thereby protect sacrifices and other rites.
+
+Addressing the Ādityas as हॆ अदित्याः आर्यमन्, मित्र, वरुण (*hè adityāḥ āryaman, mitra, varuṇa*) [as supplied], ऋतेन यज्ञेन सत्येन पा युष्माकं प्रभूतं महाभाग्यं चारु (*ṛtena yajñena satyena pā yuṣmākaṃ prabhūtaṃ mahābhāgyaṃ cāru*): it is described that their abundant glory, full of greatness, surpasses everything because it protects the sacrifice and truth. The meanings of the words Āryamā, Mitra and Varuṇa have been explained before. For the word ṛta the meanings truth and sacrifice are given by Yāska: सत्यं वा यज्ञं वा (*satyaṃ vā yajñaṃ vā*) (Ni. 4-19).
+
 ---
 
-**Progress note:** Done through printed p. 82 (PDF 82). Sūkta 27 Ṛk 6 complete (pp. 80-81); Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done, Special Topics begun and cut off mid-sentence at end of p. 82 (continues). Hand fixes to kn.md: removed software 'no text' line, garbled Saṃhitā label of Ṛk 7 replaced and verse put in block, stray '6' lines removed; Ṛk 7 bhāṣya kept as two blocks across the p. 81/82 break. [?]: ಶಮಂ (Ṛk 6 Pratipadārtha; Saṃhitā has ಶರ್ಮ), ಅರಮನೂ (Ṛk 7 Bhāvārtha). Flags: p. 80 running head reads ಸೂ. ೨೬ but p. 82 reads ೨೭ (kept 27 as before); Pada ಅನ್ವೃಕ್ಷರಃ vs Saṃhitā/bhāṣya ಅನೃಕ್ಷರಃ; supplied slips left (ಯುಷ್ಮಾಕೆಂ, ಸುಖವಂಗಿ, ಶತ್ರುಗಳಿಂಪ, ವಯಿಂ, ದ್ವೇಷ್ಟಣಿ, ಅತಿ-ಪಿಪರ್ತು missing danda); p. 81 head ಅ. ೨. ಅ. ೭. ನ. ೭. as supplied
+**Progress note:** Done through printed p. 85 (PDF 85). Sūkta 27 Ṛk 7 Special Topics completed (p. 83); Ṛk 8 complete (pp. 83-85). Hand fixes to kn.md: Pada block separated from the garbled bhāṣya label (standard label put), bhāṣya kept as two blocks across the p. 83/84 break. Flags: supplied slips left (Pada ಯತೇನ for ಋತೇನ, ಭೂಮಿಾ, ದ್ಯೂನ್ ತ್ರೀ೯, ಹೆ ಅದಿತ್ಯಾಃ, ಪಾ, ದೀರ್ಪ್ತಾ, ಮಹರಾದಿರ್ಕಾ, ಅಯ್ಯಮನೇ, ಮಾಹಾತ್ಮ, ಸಾಯುಣಭಾಷ್ಯಂ label, ವರ್ತಶೇ); p. 83 head ವ. ೩ vs p. 85 ವ. ೭ as supplied; accent check reported 1 DIFF
