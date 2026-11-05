@@ -13132,6 +13132,116 @@ it is said that the deity Soma purifies everything; that he is the one who impel
 
 युवभ्यां विश्वाः पृतनाः जयेम (*yuvabhyāṃ viśvāḥ pṛtanāḥ jayema*) (as supplied; the Saṃhitā has युवाभ्यां (*yuvābhyāṃ*))—the word पृतनाः (*pṛtanāḥ*) is read among the names of battle (Ni. 3-9). O deities Soma and Pūṣan, by your favour, that is, with your help, may we conquer in battle all the hostile armies; so the prayer is made.
 
+### Printed p. 408
+
+*[Running head, p. 408: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 40.]*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> धियं॑ पू॒षा जि॑न्वतु विश्वमि॒न्नो र॒यिं सोमो॑ रयि॒पति॑र्दधातु ।
+> अव॑तु दे॒व्यदि॑तिरन॒र्वा बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> धियं । पूषा । जिन्वतु । विश्वंऽइन्वः । रयिं । सोमः । रयिपतिः । दधातु ।
+> अवतु । देवी । अदितिः । अनर्वा । बृहत् । वदेम । विदथे । सुवीराः ॥ ६ ॥
+
+*(The Pada is printed ವಿಶ್ವಂಽಇನ್ವಃ at the fifth word, as supplied; the Saṃhitā has ವಿಶ್ವಮಿನ್ನೋ.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> पूषादित्यो विश्वमिन्वो विश्वस्य प्रीणयिता धियमस्माकं कर्म जिन्वतु । तर्प-
+> यतु । रयिपतिर्धनपतिः सोमो रयिं धनं दधातु । अस्मभ्यं ददातु । किंच देवी
+> द्योतमानानर्वाप्रत्यृता केनापि प्रातिकूल्यमप्रापितादितिरवतु । आस्मान् रक्षतु ।
+> अन्यत् सिद्धं ॥
+
+*(Gist: Pūṣan (Āditya), the nourisher of all, is to gratify our rite; Soma, lord of wealth, is to give wealth; the radiant Aditi, who is without adversary, is to protect us.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Viśvaminvaḥ: the nourisher of the world; Pūṣan (the Āditya) is to complete our rite (धियं (*dhiyaṃ*)). Rayipatiḥ: the lord of wealth, Soma, is to give us wealth. Devī, anarvā: Aditi, divine in nature and free of adversaries, is to protect (us). Suvīrāḥ: together with excellent sons, in the sacrificial hall we shall recite abundant praise.
+
+**भावार्थ (Bhāvārtha)**
+
+May Pūṣan, the nourisher of the world, complete our rite. May Soma, lord of wealth, give us wealth. May Aditi, divine in nature and free of adversaries, protect us. Together with excellent sons we shall recite abundant praise in the sacrificial hall.
+
+**Printed English translation**
+
+May Pushan, who is the benefactor of all, be propitious to (this pious) rite; may Soma, the lord of wealth, grant us affluence; may Aditi, who is without an adversary, protect us so that, blessed with excellent descendants, we may worthily glorify (you) at this sacrifice.
+
+### Printed p. 409
+
+*[Running head, p. 409: Aṣṭaka 2, Adhyāya 8, Varga 7, Ṛgvedasaṃhitā.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+विश्वमिन्वः पूषा धियं जिन्वतु (*viśvaminvaḥ pūṣā dhiyaṃ jinvatu*)—विश्वस्य प्रीणयिता आदित्यः अस्माकं कर्म तर्पयतु । (*viśvasya prīṇayitā ādityaḥ asmākaṃ karma tarpayatu |*) May Pūṣan, in the form of Āditya, who by nature gladdens everything, bring our sacrificial rite to completion.
+
+रयिपतिः सोमः रयिं दधातु (*rayipatiḥ somaḥ rayiṃ dadhātu*)—धनपतिः सोमः अस्मभ्यं धनं ददातु (*dhanapatiḥ somaḥ asmabhyaṃ dhanaṃ dadātu*)—May the god Soma, lord of riches, give us wealth.
+
+देवी अनर्वा अदितिः अवतु (*devī anarvā aditiḥ avatu*)—द्योतमाना अप्रत्यृता केनापि प्रातिकूल्यमप्रापिता अदितिः अस्मान् रक्षतु (*dyotamānā apratyṛtā kenāpi prātikūlyamaprāpitā aditiḥ asmān rakṣatu*)—May Aditi, the shining one, who does harm to no one, the mother of the gods, protect us.
+
+सुवीराः विदथे बृहत् वदेम (*suvīrāḥ vidathe bṛhat vadema*)—Together with excellent and valiant sons and grandsons we shall recite abundant praise in this sacrifice, in your regard; this is the main intent.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It depicts a squiggly line or waveform pattern." (an ornament between sūktas), kept as a note.]*
+
+## Sūkta 41 (Maṇḍala 2)
+
+*The forty-first sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> वायो ये त इत्येकविंशत्यृचं नवमं सूक्तं गार्त्समदं गायत्रं !
+> अंबितम इति षष्ठस्य तृचस्यादितो द्वे अनुष्टभौ तृतीया बृहती । वायो ये त
+> इत्यादिके द्वे ऋचौ वायुव्यौ । शुक्रस्याद्येत्यैषैंद्रवायवी । आयं वा मित्रावरुणेति पंचानां मित्रावरुणावश्विनाविंद्रो विश्वे देवाः सरस्वतीति क्रमेण
+> देवताः । प्रेतां यज्ञस्येत्यंत्यश्चो ब्राह्मणसूत्रयोर्हनिर्धानप्रवर्तने
+> द्यावापृथिव्यनिविद्धानत्वेन च विनियुक्तत्वात् द्यावापृथिव्यो हविर्धानदेवत्यो
+> ना । अग्निं च हव्यवाहनमिति पादोऽग्निदेवत्यो ना ! तथा चानुक्रांतं ।
+> वायो सैका गायत्रमुक्ता देवताः प्रउगेणाद्ये तु तृचेंत्यैंद्रवायवी
+> द्यावापृथिव्योऽत्यस्यचो हाविर्धानो वा तृतीयः पादो वाग्नेयोऽ०बितमेऽनुष्टुभौ बृहती चेति ॥ पृष्ट्याभिप्लवषडहयोर्द्वितीयेऽहनि प्रउगेंत्यतृचवर्जमेतत्तूक्तं । वायुव्यतृचस्य वायो ये ते सहस्रिण इत्याद्ये
+> द्वे ऋचौ ऐंद्रवायवतृचस्य शुक्रस्याद्येत्येषा तृतीया। तथाच सूत्रितं । वायो
+> ये ते सहस्रिण इति द्वे तीव्राः सोमास आ गहीत्येकोभा देवा दिविस्पृशेति द्वे
+
+> *vāyo ye ta ityekaviṃśatyṛcaṃ navamaṃ sūktaṃ gārtsamadaṃ gāyatraṃ !*
+> *aṃbitama iti ṣaṣṭhasya tṛcasyādito dve anuṣṭabhau tṛtīyā bṛhatī | vāyo ye ta*
+> *ityādike dve ṛcau vāyuvyau | śukrasyādyetyaiṣaiṃdravāyavī | āyaṃ vā mitrāvaruṇeti paṃcānāṃ mitrāvaruṇāvaśvināviṃdro viśve devāḥ sarasvatīti krameṇa*
+> *devatāḥ | pretāṃ yajñasyetyaṃtyaśco brāhmaṇasūtrayorhanirdhānapravartane*
+> *dyāvāpṛthivyanividdhānatvena ca viniyuktatvāt dyāvāpṛthivyo havirdhānadevatyo*
+> *nā | agniṃ ca havyavāhanamiti pādo 'gnidevatyo nā ! tathā cānukrāṃtaṃ |*
+> *vāyo saikā gāyatramuktā devatāḥ praugeṇādye tu tṛceṃtyaiṃdravāyavī*
+> *dyāvāpṛthivyo 'tyasyaco hāvirdhāno vā tṛtīyaḥ pādo vāgneyo '0bitame 'nuṣṭubhau bṛhatī ceti ‖ pṛṣṭyābhiplavaṣaḍahayordvitīye 'hani praugeṃtyatṛcavarjametattūktaṃ | vāyuvyatṛcasya vāyo ye te sahasriṇa ityādye*
+> *dve ṛcau aiṃdravāyavatṛcasya śukrasyādyetyeṣā tṛtīyā| tathāca sūtritaṃ | vāyo*
+> *ye te sahasriṇa iti dve tīvrāḥ somāsa ā gahītyekobhā devā divispṛśeti dve*
+
+### Printed p. 410
+
+*[Running head, p. 410: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+> शुक्रस्याद्य गवाशिर इत्येकायं वां मित्रावरुणेति पंच तृचाः । आ. ७-६ । इति ॥
+> जातुर्विंशिकेऽहनि प्रातःसवने मैत्रावरुणशस्त्रेयं वां मित्रावरुणेति षळहस्तोत्रियसंज्ञकः । चतुर्विंशे होताजनिष्टेति खंडे सूत्रितं । अयं वा मित्रा
+> वरुणा पुरूरुणा चिद्भस्ति । आ. ७-२ । इति ॥ अभिप्लविकेश्वहःसु प्रातःसवने मैत्रावरुणशस्त्रेयमेव तृचः पंचदशादिस्तोमनिमित्तमावापनीयः । अयं वां
+> मित्रावरुणा नो मित्रावरुणेति तृचाः । आ. ७-५ । इति सूत्रितत्वात् ॥ आद्या मैत्रावरुणग्रहस्यानुवाक्या । सूत्रितं च । मैत्रावरुणस्य आयं वां मित्रावरुणा ।
+> आ. ५-५ । इति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्गायत्रे छंदसि गोमदू ष्टिति तृचो
+> विनियुक्तः । गोमदू शु नासत्येति तृचाः । आ. ४-१५ । इति सूत्रितत्वात् ॥ अतिरात्रॆ
+> प्रथमे पर्याये ब्राह्मणाच्छंसिशस्त्र इंद्रो अंग महद्भयमिति तृचः । अतिरात्रॆ
+> पर्यायाणामिति खंडे सूत्रितं । इंद्रो अंग महद्भयमभि न्यू षु वाचं ।
+> आ. ६-४ । इति ॥ आग्रयणे वैश्वदेवस्य हविषो विश्वे देवास इत्यनुवाक्या । आग्रयणमिति खंडे सूत्रितं । विश्वे देवास आ गत ये के च ज्मा महिनो - अहिमायाः ।
+> आ. २-९ । इति ॥ दशरात्रॆ प्रथमेऽहनि प्रलुगशस्त्रेऽबितमे नदीतम इति सारस्वतः
+> सप्तमस्तृचः । चतुर्थेऽहनीति खंडे सूत्रितं । अबिंतमे नदीतम इत्यानुष्टुभं
+> प्रउगं । आ. ७-११ । इति ॥ व्यूढे दशरात्रे प्रथमे छंदोमे वैश्वदेवशस्त्रे
+> प्रेतां यज्ञस्य शंभुवेति द्यावापृथिव्यनिविद्धानीयस्तृचः । अथ छंदोमा इति
+> खंडे सूत्रितं । प्रेतां यज्ञस्य शंभुवायुं देवाय जन्मन इति तृचाः । आ. ८-९।
+> इति ॥ हविर्धानप्रवर्तनेऽप्ययं तृचो विनियुक्तः । सूत्रितं च । प्रेतां यज्ञस्य
+> शंभुवा यमे इव यतमाने यदैतं । आ. ४-९. ; ऐ. ब्रा. १-२९ । इति ॥
+
+*[Note: in kn.md the Sanskrit introduction was made into `>` blocks (two, split where the print splits it at the page break, p. 409/410) with an inserted label; hyphenated line breaks were joined. The references (Ā. 7-6, Ā. 7-2, Ā. 7-5, Ā. 5-5, Ā. 4-15, Ā. 6-4, Ā. 2-9, Ā. 7-11, Ā. 8-9, Ā. 4-9, Ai. Brā. 1-29) stand inline in the blocks, as supplied; the introduction states the applications of the sūkta in the Śrauta rites and is not translated.]*
+
+**Anuvāda (Kannada).** This sūkta beginning वायो ये ते (*vāyo ye te*) is the ninth sūkta in the fourth anuvāka. It has twenty-one Ṛks. Gṛtsamada is the seer of this sūkta; the Ṛk beginning अंबितमे (*aṃbitame*) and the Ṛk following it (Ṛks 16 and 17 of this sūkta) are in the *anuṣṭubh* metre; the Ṛk after that, that is, Ṛk 18, is in the *bṛhatī* metre; the remaining Ṛks are in the *gāyatrī* metre. In this sūkta the two Ṛks beginning वायो ये ते (*vāyo ye te*) are addressed to Vāyu; the third Ṛk, शुक्रस्याद्य (*śukrasyādya*), to Indra and Vāyu; and from there on, for the five *tṛcas* (a *tṛca* is three Ṛks) beginning अयं वां मित्रावरुणा (*ayaṃ vāṃ mitrāvaruṇā*), the deities in order are Mitrāvaruṇau, the Aśvins, Indra, the Viśvedevas and Sarasvatī. That is, in order, for Ṛks 4–6 of this sūkta the deities are Mitra and Varuṇa, for Ṛks 7–9 the Aśvin deities, for Ṛks 10–12 Indra, for Ṛks 13–15 the Viśvedevas, for Ṛks 16–18 Sarasvatī
+
 ---
 
-**Progress note:** Done through printed p. 407 (PDF 407). Sukta 40 Rik 4 Special Topics finished (p. 405); Rik 5 complete (pp. 406-407). Flags: bhashya cites 9-96-5, Special Topics 9-96-2 as supplied; yuvabhyam vs yuvabhyam in Special Topics as supplied; Samhita accent DIFF/NOMATCH lines
+**Progress note:** Done through printed p. 410 (PDF 410). Sukta 40 Rik 6 complete (pp. 408-409), Sukta 41 begins: Sayana introduction transcribed, Anuvada begins and breaks off mid-sentence at end of p. 410 (deities of Rks 16-18). Flags: Pada visvamIsh printed with avagraha-like sign as supplied; 1 accent DIFF in Rik 6; squiggly-line ornament note
