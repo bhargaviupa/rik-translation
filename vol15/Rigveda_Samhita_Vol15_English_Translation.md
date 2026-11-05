@@ -22046,6 +22046,74 @@ Then the Gāyatrī, saying "I shall go", leapt into the atmosphere in the form o
 
 *[The window ends here, at the end of p. 712, in the middle of this sentence; the next window continues.]*
 
+### Printed p. 713
+
+*[Running head, p. 713: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+[continuing the sentence of the previous page:] at the third pressing too, and in the Unnīyamāna sūkta, they recite. Namely, just as a fire that has gone out or is going out is made to burn well by putting fresh pieces of wood on it, so, in order that the juice may come abundantly in the husks used for juice at the third pressing, they recite Ṛks of the Triṣṭubh metre at the third pressing, as at the midday pressing, and make for it a connection with the midday pressing. This making of a connection is called शुक्रियं (*śukriyaṃ*) (śukriyam); it means rekindling even what has gone out. In this way, for the sake of rekindling at the third pressing and for the juice to come abundantly in the husks, and because the Triṣṭubh metre is dear to Indra, so as to do good to Indra and to make a connection with Indra at the third pressing, the Unnīyamāna sūkta with Ṛks of the Triṣṭubh metre is recited at the third pressing. This is the reason for not using Ṛks of the Jagatī metre.
+
+⟦ಅಥಾಹ ಯದೈಂದ್ರಾರ್ಭವಂ ವೈ ತೃತೀಯಸವನಮಥ ಕಸ್ಮಾದೇಷ ಏವ ತೃತೀಯಸವನೇ
+ಪ್ರಸ್ಥಿತಾನಾಂ ಪ್ರತ್ಯಕ್ಷಾದ್ಯೈಂದ್ರಾರ್ಭವ್ಯಾ ಯಜತೀಂದ್ರ ಋಭುಭಿರ್ವಾಜವದ್ಭಿಃ ಸುಮುಕ್ಷಿತಮಿತಿ ಹೋತೈವ ನಾನಾದೇವತ್ಯಾಭಿರಿತರೇ ಕಥಂ ತೇಷಾಮೈಂದ್ರಾರ್ಭವೋ ಭವಂತೀತಿ ।⟧
+
+Having given the answer to the objection about using mantras of the Triṣṭubh metre instead of the Jagatī in the Unnīyamāna sūkta recited for the third pressing, they now give the answer to the doubts that arise about the prasthitayājyā Ṛks. It has been said before that after the recitation of the Unnīyamāna sūkta, at the third pressing, the seven priests, Hotṛ and the rest, recite the prasthitayājyā mantras aindrārbhava, that is, with Ṛks addressed to Indra and the Ṛbhus. But at the time of reciting the prasthitayājyā mantras the priest called Hotṛ recites the yājyā mantra इंद्र ऋभुभिर्वाजवद्भिः (*iṃdra ṛbhubhirvājavadbhiḥ*) (Ṛ. Saṃ. 3-60-5), addressed to Indra and the Ṛbhus together, containing the words Indra and Ṛbhu. For in the yājyā mantra recited by the Hotṛ the words इंद्र ऋभुभिः (*iṃdra ṛbhubhiḥ*) are used. Only the Hotṛ recites and offers such a mantra with two deities; the other six priests do not do so. That is, they recite and offer mantras addressed to various deities. Then how do the yājyā mantras recited by these six priests become aindrārbhava mantras? Since there is no mention of Indra and the Ṛbhus in their mantras, how would their yājyā mantras praise Indra and the Ṛbhus, the chief deities at the third pressing? Is this not strange?
+
+⟦ಇಂದ್ರಾವರುಣಾ ಸುತಪಾವಿಮಂ ಸುತಮಿತಿ ಮೈತ್ರಾವರುಣೋ ಯಜತಿ ಯುವೋ ರಥೋ
+ಅಧ್ವರಂ ದೇವವೀತಯ ಇತಿ ಬಹೂನಿ ವಾಹ ತೃದಭೂಣಾಂ ರೂಪಂ ।⟧
+
+### Printed p. 714
+
+*[Running head, p. 714: Sāyaṇabhāṣyasahitā, Maṃ. 3 (no period after 3, as printed), A. 1, Sū. 4.]*
+
+It has been said before that the Hotṛ recites the aindrārbhava yājyā mantra इंद्र ऋभुभिर्वाजवद्भिः (*iṃdra ṛbhubhirvājavadbhiḥ*) (printed "aindrābhava" in the next sentences). Now they explain the aindrārbhava-ness in the yājyā mantras recited by the other priests, that is, the praise addressed to Indra and the Ṛbhus. First, Maitrāvaruṇa (printed मैत्रावरण (*maitrāvaraṇa*)) recites as yājyā mantra the Ṛk इंद्रावरुणा सुतपाविमं (*iṃdrāvaruṇā sutapāvimaṃ*) (Ṛ. Saṃ. 6-68-10). In the third pāda of this Ṛk, युवो रथो अध्वरं देववीतये (*yuvo ratho adhvaraṃ devavītaye*), there is the word devavītaye. In the compound of this word:
+
+⟦ದೇವಾನಾಂ ವೀತಿಃ ಪ್ರಾಪ್ತಿರ್ದೇವ
+ವಿತಿರಿತಿ ತಸ್ಯ ಸಮಾಸಃ । ತಸ್ಯ ಸಮಾಸೇ ಷಷ್ಠೀಬಹುವಚನತ್ವೇನ ಶಬ್ದೇನ ಬಹೂನ್ಯೇವ ರೂಪಾಣಿ
+ಪ್ರತೀಯಂತೇ । ತತ್ರ ಬಹುತ್ವಮೃಭೂಣಾಂ ಸ್ವರೂಪಂ⟧
+
+Since it says this, the word means "for the obtaining of the gods". The word "of the gods" is the genitive plural. Since the word Indra is directly present in this Ṛk, the expression "of the gods", conveyed by the plural word, applies to the Ṛbhus, who are three. So it must be inferred that in this Ṛk both Indra and the Ṛbhus are praised.
+
+⟦ಇಂದ್ರಶ್ಚ ಸೋಮಂ ಪಿಬತಂ ಬೃಹಸ್ಪತ ಇತಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸೀ ಯಜತ್ಯಾ ವಾಂ ವಿಶಂತ್ವಿಂದವಃ
+ಸ್ವಾಭುವ ಇತಿ ಬಹೂನಿ ವಾಹ ತದೃಭೂಣಾಂ ರೂಪಂ ।⟧
+
+Brāhmaṇācchaṃsin (printed ब्राह्मणाच्छंसि (*brāhmaṇācchaṃsi*)) recites the Ṛk इंद्रश्च सोमं पिबतं बृहस्पते (*iṃdraśca somaṃ pibataṃ bṛhaspate*) (Ṛ. Saṃ. 4-50-10). In this Ṛk too the word Indra is used. In the third pāda of this Ṛk, ⟦ಆ ವಾಂ ವಿಶಂತ್ವಿಂದವಃ
+ಸ್ವಾಭುವಃ⟧, the plural word indavaḥ applies to the Ṛbhus; so in this Ṛk too aindrārbhava-ness is present.
+
+⟦ಆ ವೋ ವಹಂತು ಸಪ್ತಯೋ ರಘುಷ್ಯದ ಇತಿ ಪೋತಾ ಯಜತಿ ರಘುಪತ್ವಾನಃ ಪ್ರ ಜಿಗಾತ
+ಬಾಹುಭಿರಿತಿ ಬಹೂನಿ ವಾಹ ತದೃಭೂಣಾಂ ರೂಪಂ ।⟧
+
+The priest called Potṛ recites the Ṛk आ वो वहंतु सप्तयो रघुष्यदः (*ā vo vahaṃtu saptayo raghuṣyadaḥ*) (Ṛ. Saṃ. 1-85-6). Since in the second pāda of this Ṛk there is the plural word रघुपत्वानः (*raghupatvānaḥ*) and still other plural words, it should be understood that the use of plural words also points to the Ṛbhus.
+
+⟦ಅಮೇವ ನಃ ಸುಹವಾ ಆ ಹಿ ಗಂತನೇತಿ ನೇಷ್ಟಾ ಯಜತಿ ಗಂತನೇತಿ ಬಹೂನಿ ವಾಹ
+ತದೃಭೂಣಾಂ ರೂಪಂ ।⟧
+
+The priest called Neṣṭṛ (printed नेष्ट (*neṣṭa*)) recites and offers the Ṛk अमेव नः सुहवा आ हि गंतन (*ameva naḥ suhavā ā hi gaṃtana*) (Ṛ. Saṃ. 2-36-3). In this yājyā mantra too, since there is the word गंतन (*gaṃtana*), a plural word in the imperative (loṭ) second person, it should be understood that this Ṛk also contains the propounding of Indra and the Ṛbhus (aindrārbhava).
+
+### Printed p. 715
+
+*[Running head, p. 715: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+⟦ಇಂದ್ರಾವಿಷ್ಣೂ ಪಿಬತಂ ಮಧ್ವೋ ಅಸ್ಯೇತ್ಯಚ್ಛಾವಾಕೋ ಯಜತ್ಯಾವಾಮಂಧಾಂಸಿ
+ಮದಿರಾಣ್ಯಗ್ಮನ್ನಿತಿ ಬಹೂನಿ ವಾಹ ತದೃಭೂಣಾಂ ರೂಪಂ ।⟧
+
+The priest called Acchāvāka recites and offers the yājyā mantra इंद्राविष्णू पिबतं मध्वो अस्य (*iṃdrāviṣṇū pibataṃ madhvo asya*) (Ṛ. Saṃ. 6-70-7, as printed). Since in the third pāda of this Ṛk the plural words such as अंधांसि (*aṃdhāṃsi*) are used, here too the plural points to the Ṛbhus.
+
+⟦ಇಮಂ ಸ್ತೋಮಮರ್ಹತೇ ಜಾತವೇದಸ ಇತ್ಯಾಗ್ನೀಧ್ರೋ ಯಜತಿ ರಥಮಿವ ಸಂ ಮಹೇಮಾ
+ಮನೀಷಯೇತಿ ಬಹೂನಿ ವಾಹ ತದೃಭೂಣಾಂ ರೂಪಂ ।⟧
+
+The priest called Āgnīdhra recites and offers the Ṛk इमं स्तोममर्हते जातवेदसे (*imaṃ stomamarhate jātavedase*) (Ṛ. Saṃ. 1-94-1). Since in the second pāda of this Ṛk there are plural words such as महेम (*mahema*), it should be understood that this mantra describes the nature of the Ṛbhus.
+
+⟦ಏವಮು ಹೈತಾ ಐಂದ್ರಾರ್ಭವ್ಯೋ ಭವಂತಿ ಯನ್ನಾನಾದೇವಾತ್ಯಾಸ್ತೇನಾನ್ಯಾ ದೇವತಾಃ
+ಪ್ರೀಣಾತಿ ।⟧
+
+In this way the seven yājyā mantras spoken of before, besides propounding the deities Indra and the Ṛbhus, being addressed to various deities, also please the various deities.
+
+यदु जगत्पासहा जागतं वै तृतीयसवनं तृतीयसवनस्यैव समृद्ध्यै ॥ (*yadu jagatpāsahā jāgataṃ vai tṛtīyasavanaṃ tṛtīyasavanasyaiva samṛddhyai ‖*)
+(printed ಐ. ब्रा (*brā*). 28-12)
+
+Here jagat means the Jagatī metre. The word prāsahā indicates plurality. Therefore jagatprāsahā (so printed जगत्प्रासहा (*jagatprāsahā*)) means sūktas or mantras with the Jagatī metre and with plural words. Since mantras of this kind occur in the Unnīyamāna sūkta of the third pressing and in the yājyā mantras, it is said जागतं वै तृतीयसवनं (*jāgataṃ vai tṛtīyasavanaṃ*): the third pressing is of the nature of the Jagatī metre. The third-pressing rite performed with such a sūkta and Ṛks brings prosperity to the sacrificer who performs the sacrifice.
+
+Here ends the account of the third pressing.
+
 ---
 
-**Progress note:** Done through printed p. 712 (PDF 712). Sūkta 4 Ṛk 5 Special Topics (third pressing: Ārbhava Pavamāna, Triṣṭubh instead of Jagatī; Tai. Saṃ. 6-1-6 story of the metres and Soma)
+**Progress note:** Done through printed p. 715 (PDF 715). Sūkta 4 Ṛk 5 Special Topics (third pressing: śukriyam, aindrārbhava yājyā mantras; Ai. Brā. 28-12; third pressing ends)
