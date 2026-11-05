@@ -2248,6 +2248,132 @@ These Ādityas are described as दीप्यमानाः (*dīpyamānāḥ
 > *ta ādityāsa uravo gabhīrā adabdhāsto dipsano bhūryakṣāḥ |*
 > *antaḥ paśyaṃti vṛjinota sādhu sarvaṃ rājabhyaḥ paramā cidanti ‖ 3 ‖*
 
+### Printed p. 74
+
+**॥ पदपाठः ॥**
+
+> ते । आदित्यासः । उरवः । गभीराः । अदब्धासः । दिप्सन्तः । भूरि अक्षाः ।
+> अन्तरिति । पश्यंति । वृजिना । उत । साधु । सर्वं । राजभ्यः । परमा । चित् । अन्ति ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तस्मिन्नेव पशौ त आदित्यास इति हविषोऽनुवाक्या । सूत्रं तु पूर्वमेवो-
+> दाहृतं ॥
+> त आदित्यासोऽदितेः पुत्रा उरवो महांतो गभीरा गांभिर्योपेता
+> अदब्बासः शत्रुभिरहिंसिताः संतो दिप्संतः शत्रुन्दंभितुं हिंसितुमिच्छंतः ॥ दंभु
+> दंभे । अस्मादिच्छासनि सनीवंतर्धेतीडभावपक्षे दंभ इच्चेतीकारः । दंभेर्हल्-
+> ग्रहणस्य जातिवाचकत्वासिद्धमिति सनः कित्वेऽनुनासिकलोपः ॥ तथा भूर्यक्षाः ।
+> भूरीणि बहून्य क्षीणि चक्षूंषि येषां ते तथोक्ताः । बहुतेजसो ना ॥ बहुव्रीहौ
+> सक्ष्यक्षोरिति षच् समासांतः ॥ एवंभूता आदित्या अंतर्मध्यॆ प्राणिनां हृदि
+> प्रेरकतया वर्तमानाः संतो वृजिना वृजिनानि पापानि उत अपि च साधु साधूनि
+> पुण्यानि च प्राणिभिः कृतानि पश्यंति । जानंति । परमा चित् परमाणि दूरदेशावस्थिता-
+> न्यपि सर्वं सर्वाणि दृश्यमानानि राजभ्यो राज्ञामीश्वराणामादित्यानामंत्यंतिके
+> समीपे वर्तत इति शेषः ॥ कादिलोपो बहुलमित्यंतिकशब्दस्य कादिलोपः ॥
+
+> *tasminneva paśau ta ādityāsa iti haviṣo 'nuvākyā | sūtraṃ tu pūrvamevo-*
+> *dāhṛtaṃ ‖*
+> *ta ādityāso 'diteḥ putrā uravo mahāṃto gabhīrā gāṃbhiryopetā*
+> *adabbāsaḥ śatrubhirahiṃsitāḥ saṃto dipsaṃtaḥ śatrundaṃbhituṃ hiṃsitumicchaṃtaḥ ‖ daṃbhu*
+> *daṃbhe | asmādicchāsani sanīvaṃtardhetīḍabhāvapakṣe daṃbha iccetīkāraḥ | daṃbherhal-*
+> *grahaṇasya jātivācakatvāsiddhamiti sanaḥ kitve 'nunāsikalopaḥ ‖ tathā bhūryakṣāḥ |*
+> *bhūrīṇi bahūnya kṣīṇi cakṣūṃṣi yeṣāṃ te tathoktāḥ | bahutejaso nā ‖ bahuvrīhau*
+> *sakṣyakṣoriti ṣac samāsāṃtaḥ ‖ evaṃbhūtā ādityā aṃtarmadhyè prāṇināṃ hṛdi*
+> *prerakatayā vartamānāḥ saṃto vṛjinā vṛjināni pāpāni uta api ca sādhu sādhūni*
+> *puṇyāni ca prāṇibhiḥ kṛtāni paśyaṃti | jānaṃti | paramā cit paramāṇi dūradeśāvasthitā-*
+> *nyapi sarvaṃ sarvāṇi dṛśyamānāni rājabhyo rājñāmīśvarāṇāmādityānāmaṃtyaṃtike*
+> *samīpe vartata iti śeṣaḥ ‖ kādilopo bahulamityaṃtikaśabdasya kādilopaḥ ‖*
+
+Gist: the Ādityas, dwelling within beings as inspirers, see their sins and merits; even far-off things are near to these lords.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आदित्यासः (*ādityāsaḥ*): sons of Aditi; उरवः (*uravaḥ*): of great form; गभीराः (*gabhīrāḥ*): endowed with profundity; अदब्बासः (*adabbāsaḥ*) [as supplied]: not harmed by enemies; दिप्पंतः (*dippaṃtaḥ*) [as supplied]: wishing the destruction of enemies; भूर्रक्षाः (*bhūrrakṣāḥ*) [as supplied]: having many eyes or abundant radiance; ते (*te*): those Ādityas; अंतः (*aṃtaḥ*): dwelling within the heart (of beings); वृजिना (*vṛjinā*): (men's) sins; उत (*uta*): and; साधु (*sādhu*): meritorious acts; पश्यंति (*paśyaṃti*): know; परमा चित् (*paramā cit*): even when extremely far off; सर्वं (*sarvaṃ*): all things; राजभ्यः (*rājabhyaḥ*): to the lords, the Ādityas; अंति (*aṃti*): are as if very near.
+
+**भावार्थ (Bhāvārtha)**
+
+Those Ādityas, sons of Aditi, of great form, profound, unharmed by enemies, wishing the destruction of enemies, possessed of abundant radiance, dwelling within the hearts of beings, know the sins of men and also their meritorious acts. Even all things that are extremely far off remain as if very near to those Ādityas, the lords.
+
+### Printed p. 75
+
+**Printed English translation**
+
+Those Adityas, mighty, profound, unsubdued, subduing, many eyed behold the innermost (thoughts of men), whether wicked or virtuous, whether far from or nigh to those royal (deities).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the same animal sacrifice spoken of earlier, this Ṛk "ta ādityāsa" is to be used as the anuvākyā mantra when the oblation is offered; this is indicated in the sūtra cited earlier.
+
+भूर्यक्षाः (*bhūryakṣāḥ*): बहूनि चक्षूंषि येषां ते बहुतेजसो वा (*bahūni cakṣūṃṣi yeṣāṃ te bahutejaso vā*). The Ādityas are described as seeing everything in many ways, as having many eyes, or as having abundant radiance.
+
+अंतः (*aṃtaḥ*)—मध्यॆ प्राणिनां हृदि प्रेरकतया वर्तमानाः (*madhyè prāṇināṃ hṛdi prerakatayā vartamānāḥ*): dwelling in the hearts of beings in accordance with the acts they perform, and inspiring them; thus the Ādityas' quality of being inner controllers (antaryāmin) is described.
+
+साधु पश्यंति (*sādhu paśyaṃti*)—प्राणिभिः कृतानि च पुण्यानि जानंति (*prāṇibhiḥ kṛtāni ca puṇyāni jānaṃti*): it is explained that they know all the merit that accords with the acts performed by the several beings.
+
+परमा चित् सर्वं राजभ्यः अंति (*paramā cit sarvaṃ rājabhyaḥ aṃti*)—दूरदेशस्थितान्यपि सर्वाणि दृश्यमानानि ईश्वराणां आदित्यानां समीपे वर्तते (*dūradeśasthitānyapi sarvāṇi dṛśyamānāni īśvarāṇāṃ ādityānāṃ samīpe vartate*): all things situated in a distant place appear to the Ādityas, the lords of all, as if near; thus the keenness of their sight and the excellence of their knowledge are described.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> धा॒रय॑न्त आदि॒त्यासो॒ जग॒त्साथ दे॒वा विश्व॑स्य॒ भुव॑नस्य गो॒पाः ।
+> दी॒र्घाधि॑यो॒ रक्ष॑माणा असु॒र्य॑मृ॒ता॑न॒ाश्चर्य॑माना ऋ॒णानि॑ ॥
+
+> *dhārayanta ādityāso jagatsātha devā viśvasya bhuvanasya gopāḥ |*
+> *dīrghādhiyo rakṣamāṇā asuryamṛtānāścaryamānā ṛṇāni ‖*
+
+### Printed p. 76
+
+**॥ पदपाठः ॥**
+
+> धारयन्तः । आदित्यासः । जगत् । स्थाः । देवाः । विश्वस्य । भुवनस्य । गोपाः ।
+> दीर्घधियः । रक्षमाणाः । असुर्यं । ऋतवानः । चयमानाः । ऋणानि ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> साग्निचित्ये क्रत् दीक्षणीयायामादित्ययागस्य धारयंत इत्यादिके द्वे
+> याज्यानुवाक्ये । अत एव भुवद्वद्भुवनपतिविशेषणविशिष्टादित्ययागेऽपि । तथा च
+> दीक्षणीयायामिति खंडे सूत्रितं । धारयंत आदित्यासो जगत्स्था इति द्वे एते एव
+> भुवद्वद्भो भुवनपतिभ्यो ना । आ. ४. २. । इति ॥
+> जगज्जंगमं स्थाः स्थावरं च ॥ तिष्ठतेः कर्तर्यसुन् ॥ एतदुभयविधं
+> भूतजातं धारयंतोऽवस्थापयंतो देवा दानादिगुणयुक्ता विश्वस्य भुवनस्य
+> सर्वस्य लोकस्य गोपा गोपयितारो रक्षका दीर्घाधियो दीर्घाणि धियः
+> कर्माणि ज्ञानानि ना येषां तादृशाः ॥ अन्येषामपि दृश्यत इति पूर्वपदस्य
+> दीर्घः ॥ असुर्य० । असवः प्राणाः । तेन च तद्देतुभूता आपो लक्ष्यंते । अपां
+> तद्देतुत्वं च छांदोग्ये स्पष्टमाम्नातं । आपोमयः प्राणः । छां. उ. ६-५-४ ।
+> इति । असुमुदकं ददातीत्यसुरो मेघः । तत्र भवं मेघांतर्वर्तमानमुदकं
+> रक्षमाणाः । तत्तत्काले वृष्टुत्पादनाय रक्षंतः ॥ असुरशब्दाद्भवे छंदसीति यत् ॥
+> ऋतावानः सत्यवंतो यज्ञवंतो वा ॥ छंदसीवनिपाविति मत्वर्थीयो वनिप् ।
+> पूर्ववद्धीर्घः ॥ ऋणानि स्तोतृभिरन्येभ्यः प्रदेयानि चयमाना अपगमयंतः ॥
+> चय गतौ । भौवादिकोऽनुदात्तेत् ॥ एवंगुणविशिष्टानुग्रहा वा अस्मदधीना भवंत्विति
+> शेषः ॥
+
+> *sāgnicitye krat dīkṣaṇīyāyāmādityayāgasya dhārayaṃta ityādike dve*
+> *yājyānuvākye | ata eva bhuvadvadbhuvanapativiśeṣaṇaviśiṣṭādityayāge 'pi | tathā ca*
+> *dīkṣaṇīyāyāmiti khaṃḍe sūtritaṃ | dhārayaṃta ādityāso jagatsthā iti dve ete eva*
+> *bhuvadvadbho bhuvanapatibhyo nā | ā. 4. 2. | iti ‖*
+> *jagajjaṃgamaṃ sthāḥ sthāvaraṃ ca ‖ tiṣṭhateḥ kartaryasun ‖ etadubhayavidhaṃ*
+> *bhūtajātaṃ dhārayaṃto 'vasthāpayaṃto devā dānādiguṇayuktā viśvasya bhuvanasya*
+> *sarvasya lokasya gopā gopayitāro rakṣakā dīrghādhiyo dīrghāṇi dhiyaḥ*
+> *karmāṇi jñānāni nā yeṣāṃ tādṛśāḥ ‖ anyeṣāmapi dṛśyata iti pūrvapadasya*
+> *dīrghaḥ ‖ asurya0 | asavaḥ prāṇāḥ | tena ca taddetubhūtā āpo lakṣyaṃte | apāṃ*
+> *taddetutvaṃ ca chāṃdogye spaṣṭamāmnātaṃ | āpomayaḥ prāṇaḥ | chāṃ. u. 6-5-4 |*
+> *iti | asumudakaṃ dadātītyasuro meghaḥ | tatra bhavaṃ meghāṃtarvartamānamudakaṃ*
+> *rakṣamāṇāḥ | tattatkāle vṛṣṭutpādanāya rakṣaṃtaḥ ‖ asuraśabdādbhave chaṃdasīti yat ‖*
+> *ṛtāvānaḥ satyavaṃto yajñavaṃto vā ‖ chaṃdasīvanipāviti matvarthīyo vanip |*
+> *pūrvavaddhīrghaḥ ‖ ṛṇāni stotṛbhiranyebhyaḥ pradeyāni cayamānā apagamayaṃtaḥ ‖*
+> *caya gatau | bhauvādiko 'nudāttet ‖ evaṃguṇaviśiṣṭānugrahā vā asmadadhīnā bhavaṃtviti*
+> *śeṣaḥ ‖*
+
+Gist: in the Agnicayana dīkṣaṇīyā, "dhārayanta" etc. are two yājyā-anuvākyā verses of the Āditya offering; the Ādityas sustain the moving and the fixed, guard the world, and keep the waters of the cloud.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जगत् (*jagat*): moving beings; स्थाः (*sthāḥ*): fixed things; धारयंतः (*dhārayaṃtaḥ*): establishing and upholding; देवाः (*devāḥ*): possessed of the qualities of generosity etc.; विश्वस्य भुवनस्य (*viśvasya bhuvanasya*): of the whole world; गोपाः (*gopāḥ*): protectors; दीर्घधियः (*dīrghadhiyaḥ*): of far-reaching understanding; असुरं (*asuraṃ*) [as supplied]: the water residing in the clouds; रक्षमाणाः (*rakṣamāṇāḥ*): collecting and guarding it in due season; ऋतावानः (*ṛtāvānaḥ*): truthful; ऋणानि (*ṛṇāni*): the debts (which the praisers owe to others); चयमानाः (*cayamānāḥ*): discharging; आदित्यासः (*ādityāsaḥ*): the Ādityas (may favour us).
+
+**भावार्थ (Bhāvārtha)**
+
+The Ādityas, who establish and uphold the moving beings and the fixed things, who are possessed of generosity and other qualities, protectors of the whole world, of far-reaching understanding, guarding the water residing in the clouds [text of the page ends here; the sentence continues in the next window]
+
 ---
 
-**Progress note:** Done through printed p. 73 (PDF 73). Sūkta 27 Ṛk 1 Special Topics end (p. 71), Ṛk 2 complete (pp. 72-73), Ṛk 3 Saṃhitā only (end of p. 73). Hand fixes to kn.md: Ṛk 2 Saṃhitā put in a block with standard label, stray '೪' and a garbled divider line removed. Supplied slips left: ಧಾರ್ಪೂತಾಃ (Pada) vs ಧಾರಪೂತಾ, ಅರಿಸ್ವಾಃ (Saṃhitā) vs ಅರಿಷ್ಟಾಃ (bhāṣya), ವೃಣೋತಿತಿ, ವಾಜ್ಞಾಮೈತತ್; running head says Sū. 26
+**Progress note:** Done through printed p. 76 (PDF 76). Sūkta 27 Ṛk 3 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, pp. 74-75); Ṛk 4 Saṃhitā (p. 75), Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (cut at end of p. 76). No hand fixes to kn.md. Supplied slips left: Ṛk 4 Saṃhitā ಜಗತ್ಸಾಥ and ಅಸುರ್ಯಮೃತಾನಾಶ್ಚರ್ಯಮಾನಾ (Pada has ಸ್ಥಾಃ, ಋತವಾನಃ ಚಯಮಾನಾಃ), Ṛk 3 Pratipadārtha ಅದಬ್ಬಾಸಃ/ದಿಪ್ಪಂತಃ/ಭೂರ್ರಕ್ಷಾಃ vs Pada ಅದಬ್ಧಾಸಃ/ದಿಪ್ಸನ್ತಃ/ಭೂರಿ ಅಕ್ಷಾಃ; running head says Maṃ. 2 A. 3 Sū. 27
