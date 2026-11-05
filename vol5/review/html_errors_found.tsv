@@ -1,7 +1,7 @@
 html_page	what_the_HTML_has	what_the_scan_shows	note	status
 1	ಪ್ರಸ್ಣಣ್ವ ಋಷಿಃ (Sanskrit) and ಪ್ರಸನ್ನನು (Kannada prose)	ಪ್ರಸ್ಕಣ್ವ / ಪ್ರಸ್ಕಣ್ವನು	letters ಕ->ಣ and ಕಣ್ವ->ನ್ನ misread	confirmed by the user (Nov 5)
 1	ತ್ವಾತ್ತುಹ್ಯಾದಿ is CORRECT in the HTML (user, Nov 5); the md read ತ್ವಾತ್ತೇಹ್ಯಾದಿ, now fixed	-	the part ...ಮಸಿ vs ಮಪಿ (idam api) is not settled	HTML right on ತು; ಮಸಿ/ಮಪಿ not yet confirmed
-1	ಅನಯ್ಯವ	ಅನಯೈವ	ಐ misread	not yet confirmed
+1	ಅನಯ್ಯವ	ಅನಯೈವ	ಐ misread	confirmed by the user (Nov 5): the print reads ಅನಯೈವ; the md is right
 1	two lines: ...ವೇದಾದ್ವಾಯಿ ಸದಾಶಿವಃ and ...ವೇದಾಧ್ಯಾಯೀ ಸದಾಶಿವಃ	one line (ವೇದಾಧ್ಯಾಯೀ)	a garbled duplicate line	not yet confirmed
 79	ವಾ. ೨೨೯೪ (after ೩-೩-೮)	ವಾ. ೨೯೪ (as I read it at 250 dpi; unresolved)	possibly an extra digit	not yet confirmed
 (second file rig_5_2.md)	not yet compared with the scan	-	the HTML/markdown for printed pp. 85-184 was used only for numerals that the md could not read; the 18 Sanskrit-word and meta [?] in that range were left (see git log)	
