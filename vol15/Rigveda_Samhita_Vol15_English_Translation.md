@@ -20964,6 +20964,91 @@ Skill of composition—although the Āprī sūktas are different from one anothe
 
 *[Lone numeral "43" at the foot of p. 673 in the supplied text, kept as a note.]*
 
+### Printed p. 674
+
+*[Running head, p. 674: Sāyaṇabhāṣyasahitā, Maṃ. 3 (no stop printed), A. 1, Sū. 4 (no stop printed).]*
+
+In all the sūktas (except two) the number of Ṛks is eleven, and the sūkta begins with the word samidh and ends with svāhā; this shows a fixed rule, from the point of view of both poetry and art. In the matter of metre there is no such restriction. The sūktas 1-13, 1-188, 5-5 and 9-5 are composed in the Gāyatrī metre, the sūkta 1-142 in the Anuṣṭubh metre, and the sūktas 2-3, 3-5, 7-2 and 10-70 in the Triṣṭubh metre.
+
+Many parts of mantras, such as देवान् आवह, देवान् वक्षि, विप्रा यज्ञेषु मानवेषु कारुः (*devān āvaha, devān vakṣi, viprā yajñeṣu mānaveṣu kāruḥ*), and so on, are repeated.
+
+*[Garbled label as supplied before the introduction: "॥ ಸಾಯಣಾಭಾಷ್ಯಂ ॥" (for Sāyaṇa-bhāṣya), kept as a note in kn.md; the Sanskrit introduction, printed as plain lines, was made a block.]*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> समित्समिदित्येकादशर्चं चतुर्थं सूक्तं वैश्वामित्रं त्रैष्टुभं । अत्रानुक्रमणिका । समित्समिदाप्रिय इति । इध्वादिस्वाहाकृत्यंताः पूर्वोक्ताः प्रत्यृच
+> देवताः । पशौ वैश्वामित्राणामाप्रीसूक्तं । दर्शपूर्णमासयोः पत्नि संयाजेषु
+> त्वष्टुर्याज्या तन्न इत्येषा । सूत्रितं च । इह त्वष्टारमग्रियं तन्न स्तुरीपमध
+> पोषयित्नु । आ. १-१० । इति ॥ त्वाष्टे पशौ पुरोडाशस्यानुवाक्या । सूत्रितं च ।
+> तन्न स्तुरीपमध पोषयित्नु देवस्त्वष्टा सविता विश्वरूपः । आ. ३-८ । इति ॥
+
+**Anuvāda (Kannada).** This sūkta beginning "samitsamit" is the fourth sūkta in the first anuvāka. It has eleven ṛks. The seer of this sūkta is Viśvāmitra; the metre is Triṣṭubh. The Anukramaṇikā says "samitsamidāpriyaḥ". As in the previous Āprī sūktas, the eleven ṛks of this sūkta have eleven deities, one deity for each ṛk, from Idhma to Svāhākṛti. This Āprī sūkta is used in the animal sacrifice performed by those of the gotra of Viśvāmitra. That the Ṛk of this sūkta beginning "tan nas turīpam adha poṣayitnu" is to be recited as the yājyā mantra to Tvaṣṭṛ when the patnīsaṃyāja oblation is made in the full-moon and new-moon sacrifices (the supplied text says "ದಶಪೂರ್ಣಮಾಸ") is explained by the sūtra of the Āśvalāyana Śrauta Sūtra "iha tvaṣṭāram agriyaṃ tan nas turīpam adha poṣayitnu" (Ā. 1-10). And that this Ṛk (the ninth Ṛk of the sūkta) is to be used as the anuvākyā mantra when the purodāśa oblation is made in the animal sacrifice to Tvaṣṭṛ is explained by the sūtra "tan nas turīpam adha poṣayitnu devas tvaṣṭā savitā viśvarūpaḥ" (Ā. 3-8).
+
+### Printed p. 675
+
+*[Running head, p. 675: Aṣṭaka 2 (printed ಅ.), Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+**Sūkta 4** — Maṇḍala 3, Anuvāka 1, Sūkta 4; Aṣṭaka 2, Adhyāya 8, Varga 22, 23. Number of ṛks in the sūkta: 11. Seer: Viśvāmitra. Deities (Āprī sūkta): ⟦ಇದ್ಮಃ ಸಮಿದ್ಧೋಽಗ್ನಿರ್ವಾ । ೨. ತನೂನಪಾತ್ ।
+೩. ಇಳಃ । ೪. ಬರ್ಹಿಃ । ೫. ದೇವೀರ್ದ್ವಾರಃ । ೬. ಉಷಾಸಾನಕ್ತಾ ।
+೭. ದೈವೌ ಹೋತಾರೌ ಪ್ರಚೇತಸೌ । ೮. ತಿಸ್ರೋದೇವ್ಯಃ ಸರಸ್ವತೀಳಾಭಾರತ್ಯಃ । ೯. ತ್ವಷ್ಟಾ । ೧೦. ವನಸ್ಪತಿಃ । ೧೧. ಸ್ವಾಹಾಕೃತಯಃ ।⟧ (numbered 1 to 11 in the print). Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> स॒मित्स॑मित्सु॒मना॑ बोध्य॒स्मे शु॒चाशु॑चा सुम॒तिं रा॑सि॒ वस्वः॑ ।
+> आ दे॑व दे॒वान्य॒जथा॑य वक्षि॒ सखा॒ सखी॑न्तु॒मना॑ यक्ष्यग्ने ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> समित्त्समित् । सुमनाः । बोधि । अस्मे इति । शुचाशुचा । सुमतिं । रासि । वस्वः ।
+> आ । देव । देवान् । यजथाय । वक्षि । सखा । सखीन् । सुमनाः । यक्षि । अग्ने ॥ १ ॥
+
+> *samittsamit | sumanāḥ | bodhi | asme iti | śucāśucā | sumatiṃ | rāsi | vasvaḥ |*
+> *ā | deva | devān | yajathāya | vakṣi | sakhā | sakhīn | sumanāḥ | yakṣi | agne ‖ 1 ‖*
+
+*(The Pada is printed ಸಮಿತ್ತ್ಸಮಿತ್ and ಸುಮನಾಃ । ಯಕ್ಷಿ, where the Saṃhitā has ಸಮಿತ್ಸಮಿತ್ and ಯಕ್ಷಿ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> समित्समित् अत्यर्थं समिद्धस्त्वं सुमना बोधि । बुध्यस्व । शुचा शुचात्यर्थं
+> प्रसर्पकेण ज्योतिषा युक्तस्त्वं वसो वसुनो धनस्य तद्विषयां सुमतिं
+> शोभनां बुद्धिमस्मे अस्मभ्यं रासि । देहि । हे देव द्योतमान देवान्यजनीयान्यजथाय यज्ञाय तदर्थमावक्षि । आवहसि । हे अग्ने सखा देवानां सखा त्वं
+> सुमनाः सन् सखीन्देवान्यक्षि । यजस्व ॥
+
+*(Gist: O Agni, ever kindled, wake up kindly; bright with radiance, grant us wealth-bearing good sense; bring the gods to the sacrifice; as friend of the gods, sacrifice to your friends.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Samitsamit: you, kindled exceedingly. Sumanāḥ: having a mind of favour. Bodhi: awake. Śucāśucā: you who have radiance spreading exceedingly. Vasvaḥ: concerning wealth. Sumatiṃ: of excellent nature, the mind. Asme: to us. Rāsi: grant. Deva: shining
+
+### Printed p. 676
+
+*[Running head, p. 676: Sāyaṇabhāṣyasahitā, Maṃ. 3 (printed "ಮ."), A. 1, Sū. 4 (the printed head numeral reads 675, as supplied).]*
+
+O Agni. Devān: the gods who are fit for sacrifice. Yajanāya: for the sacrifice. Ā vakṣi: bring. Sakhā: you, the friend of the gods. Sumanāḥ: having an excellent mind. Sakhīn: with reference to your friends, the gods. Yakṣi: perform the sacrifice.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, kindled exceedingly, awake with a mind of favour. Endowed with exceedingly spreading radiance, grant us a mind concerned with wealth and of excellent nature. O shining Agni, bring the gods who are fit for sacrifice to the sacrifice. You, the friend of the gods, possessed of an excellent mind, perform the sacrifice for your friends, the gods.
+
+**Printed English translation**
+
+Repeatedly kindled, (Agni), wake up favourably disposed ; (endowed) with reiterated lustre, entertain the kind purpose of (granting us) wealth : bring, divine Agni, the gods to the saerifice : do you, the friend (of the gods), minister, well-affected, to (your) friends.
+
+*[The printed English reads "saerifice" for "sacrifice", as supplied.]*
+
+*[Garbled label as supplied: "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" (for Viśeṣaviṣayagaḷu, Special Topics), kept as a note in kn.md.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Of the ten Āprī sūktas in the Ṛgveda this is the fifth. Those born in the gotra of Viśvāmitra recite this sūkta in the sacrifices they perform. In this sūkta there are eleven Ṛks. As there is one deity for each Ṛk, there are eleven deities for the eleven Ṛks. For this first Ṛk the deity is Samiddhaḥ Agniḥ, that is, the kindled (well-burning) Agni.
+
+⟦ಅಗ್ನೇ ಸಮಿತ್ಸಮಿತ್ ಸುಮನಾಃ ಬೋಧಿ— ಹೇ ಅಗ್ನೇ ಅತ್ಯರ್ಥಂ ಸಮಿದ್ಧಸ್ತ್ವಂ ಅಸ್ಮದ್ವಿಷಯೇ
+ಕಲ್ಯಾಣಮನಾಃ ಬುಧ್ಯಸ್ವ ।⟧ O Agni, you who are well kindled and shine with great brightness, show a mind of favour towards us. The purport is: do not be indifferent towards us, but show a mind of favour. The word samit is read twice. Words that are read twice (vīpsā) indicate the sense "many times", as the word divedive has the sense "every day". Therefore the word samit samit, with its double repetition, may be given the meaning "kindled again and again", or "kindled and shining exceedingly". Generally in the first Ṛk of the Āprī sūktas, when Agni, the deity of that Ṛk, is designated, the word samiddhaḥ is used (the supplied text breaks off here in the middle of the Kannada word ಉಪಯೋಗಿಸುವುದ…, "is us…").
+
 ---
 
-**Progress note:** Done through printed p. 673 (PDF 673). Sūkta 4 Pīṭhike on the Āprī sūktas: Praiṣa sūkta table, Max Müller, Āpra/Āprī, character of the rite
+**Progress note:** Done through printed p. 676 (PDF 676). Sūkta 4: Pīṭhike ends; Sāyaṇa intro, Anuvāda, Ṛk 1 complete; Special Topics cut mid-word at 'ಉಪಯೋಗಿಸುವುದ'; accent DIFF logged
