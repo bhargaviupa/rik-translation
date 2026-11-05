@@ -32360,6 +32360,113 @@ We bring to you, Indra,(sacrificial) food, as one desiring food brings his waggo
 
 इंद्र ते वयं वयः प्र भरामहे वाजयुः रथं न । नः सु विद्दि (*iṃdra te vayaṃ vayaḥ pra bharāmahe vājayuḥ rathaṃ na | naḥ su viddi*)—हे इंद्र (*he iṃdra*) वयं तुभ्यं सोमलक्षणमन्नं अन्नमात्मन इच्छन् पुमान् रथं संपादयति तद्वत् (*vayaṃ tubhyaṃ somalakṣaṇamannaṃ annamātmana icchan pumān rathaṃ saṃpādayati tadvat*) प्रभरामहे प्रकर्षण संपादयामः । एवं हविःसंपादकान् सुष्टु जानाहि । (*prabharāmahe prakarṣaṇa saṃpādayāmaḥ | evaṃ haviḥsaṃpādakān suṣṭu jānāhi |*) O Indra, we offer you with devotion food in the form of Soma juice. As a man who needs food prepares a cart to take it away, so we offer you Soma juice. In our case may you be of a gracious mind: this is the main intention. In this passage the comparison made between our offering Soma juice to Indra and preparing a cart for the sake of food is not quite fitting. It is not clear why a cart is needed for the sake of food. It cannot be known properly whether the cart is needed to carry the food away, or whether a cart is needed for the sake of food or wealth, to defeat enemies in battle. वाजयुर्न रथं (*vājayurna rathaṃ*) (the text breaks off here at the end of the supplied pages).
 
+### Printed p. 857
+
+*(Header: "[A. 2. Adhyāya 6. Varga 25.] Ṛgvedasaṃhitā 857".)*
+
+*(Special Topics of Ṛk 1, continued.)* The sage's intention in this comparison-indicating sentence वाजयुर्न रथं (*vājayurna rathaṃ*) cannot be stated clearly. Its meaning remains doubtful.
+
+विपन्यवः (*vipanyavaḥ*)—Since the word विपन्यवः (*vipanyavaḥ*) is read among the names of the wise (Ni. 3-19), it would mean "intelligent men". But the bhāṣyakāra gives the contextually fitting sense तन स्तोत्रं कुर्वाणाः (*tana stotraṃ kurvāṇāḥ*): "those who are making your praise".
+
+वयः (*vayaḥ*)—The word वयः (*vayaḥ*) is read among the names of food (Ni. 3-9), and in वाजयुः (*vājayuḥ*) the word वाजः (*vājaḥ*) is also read among the names of food. The bhāṣyakāra explains the word as अन्नमात्मन इच्छन् (*annamātmana icchan*): a man who desires food for himself.
+
+मनीषा (*manīṣā*)—For this word Yāska gives the etymology मनीषया मनस इषया स्तुत्या प्रज्ञया वा (*manīṣayā manasa iṣayā stutyā prajñayā vā*) (Ni. 3-25), that is, by praise made with the whole mind, or by wisdom.
+
+सुम्मं (*summaṃ*)—Since the word सुम्म (*summa*) is read among the names of happiness (Ni. 3-17), सुम्मं (*summaṃ*) means "happiness" (accusative).
+
+सुम्मं इयक्षंतः (*summaṃ iyakṣaṃtaḥ*)—सुखं याचमानाः । यद्वा सुम्मं सुखेन नृन् नेत्थान् अग्न्यादीन् देवान् इयक्षंतः । इयक्षतिर्गतिकर्मा । हविषा तान् प्राप्पुवंतो वयं भरामह इति सुमन्वयः । (*sukhaṃ yācamānāḥ | yadvā summaṃ sukhena nṛn netthān agnyādīn devān iyakṣaṃtaḥ | iyakṣatirgatikarmā | haviṣā tān prāppuvaṃto vayaṃ bharāmaha iti sumanvayaḥ |*) (as printed, including नृन् नेत्थान् (*nṛn netthān*) and प्राप्पुवंतो (*prāppuvaṃto*)). That is: we who ask for happiness; or, since the root इयक्षति (*iyakṣati*) also has the sense of going, we who wish to reach, comfortably and with oblations and the like, the gods Agni and the others.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> त्वं न॑ इन्द्र॒ त्वाभि॑रू॒ती त्वा॑य॒तो अ॑भिष्टि॒पासि॒ जना॑न् ।
+> त्वमि॒नो दा॒शुषो॑ वरू॒तेत्थाधी॑र॒भि यो नक्ष॑ति त्वा ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । नः । इन्थ्र । त्वाभिः । ऊती । त्वायतः । अभिष्टिपा । असि । जनान् ।
+> त्वं । इनः । दाशुषः । वरूता । इत्याधीः । अभि । यः । नक्षति त्वा ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र त्वं त्वाभिस्त्वदीयाभिरूती ऊतिभिः पालनादिभिर्नोऽस्मान् पाहि ।
+> किंच त्वायतः ॥ सुपः आत्मनः क्यच् । शतुरनुम इति विभक्तेरुदात्तत्वं ॥ त्वत्कामान्
+> जनान् अभिष्टिपा ॥ सुपां सुलुगिति सोराकारः ॥ अभिष्टयोऽभिगंतारः शत्रवः । तेभ्यः
+> पाता रक्षकोऽसि । भवसि । दाशुषो हविर्दत्तवतो यजमानस्य त्वमिनः । ईश्वरः
+> खलु । वरूता ॥ ग्रसितस्कभितस्तभितेति निपातनादीकारस्य ऊकारः ॥ बाधकानां निवार-
+> कोऽसि । किंच त्वं तस्य स्तोतुरित्थाधीरेवंविधोपद्रवोपशमरूपकर्मासि ।
+> यस्त्वा त्वामभिनक्षति हविषा परिचरति ॥
+
+*Gist: Indra, protect us with your aids; you guard those who rely on you from enemies, are lord of the offerer, repel hindrances, and so deal with the worshipper.*
+
+### Printed p. 858
+
+*(Header: "858 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 20]".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; त्वं (*tvaṃ*)—you; त्वाभिः (*tvābhiḥ*)—your; ऊती (*ūtī*)—by protections; नः (*naḥ*)—us (protect); त्वायतः (*tvāyataḥ*)—those who rely on you alone; जनान् (*janān*)—men; अभिष्टिपा (*abhiṣṭipā*)—as protector from enemies; असि (*asi*)—you are; दाशुषः (*dāśuṣaḥ*)—to the sacrificer who offers oblations; त्वं (*tvaṃ*)—you; इनः (*inaḥ*)—as lord; वरूता (*varūtā*)—as the repeller of enemies (you are); यः (*yaḥ*)—whichever sacrificer; त्वा (*tvā*)—you; अभिनक्षति (*abhinakṣati*)—serves with oblations, to such a praiser; इत्थाधीः (*itthādhīḥ*)—in this very manner you bring about the quieting of enemies by your acts.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, protect us with your protections. You protect from enemies the men who rely on you alone. To the sacrificer who offers oblations you are both lord and repeller of enemies. For that sacrificer who serves you with oblations, you bring about the quieting of his enemies by acts of this same kind.
+
+**English Translation (as printed)**
+
+(Defend us), Indra, with your protections, for you are the defender against enemies of those men who rely upon you: you are the lord of the offerer(of the libation), the repeller(of foes), and with these acts(protect) him who worships you.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+त्वाभिः (*tvābhiḥ*)-त्वदीयाभिः । (*tvadīyābhiḥ |*) Yours, or belonging to you.
+
+अभिष्टिपा (*abhiṣṭipā*)—अभिष्टयोऽभिगंतारः शत्रवः । तेभ्यः पाता रक्षकोऽसि । (*abhiṣṭayo 'bhigaṃtāraḥ śatravaḥ | tebhyaḥ pātā rakṣako 'si |*) Those who confront one another in battle are called अभिष्टयः (*abhiṣṭayaḥ*), "enemies". Because he protects from such enemies, Indra is praised with the epithet अभिष्टिपा (*abhiṣṭipā*).
+
+### Printed p. 859
+
+*(Header: "[A. 2. Adhyāya 6. Varga 25] Ṛgvedasaṃhitā 859".)*
+
+इनः (*inaḥ*)—ईश्वरः । (*īśvaraḥ |*) Lord, master. The word इन (*ina*) is read among the names of the lord (Ni. 3-11). And there is also the etymology तत्रेन इत्येतत् सनित ऐश्वर्येणेति वा सनितमनेनैश्वर्यमिति वा । (*tatrena ityetat sanita aiśvaryeṇeti vā sanitamanenaiśvaryamiti vā |*); that is, इन (*ina*) means one who is endowed with lordship, or one who causes lordship to reach others.
+
+वरूता (*varūtā*)—This word is formed from the root वृञ् वरणे (*vṛñ varaṇe*). By बाधकानां निवारकोसि (*bādhakānāṃ nivārakosi*) (as printed) is meant: you ward off, restrain those who cause affliction, and remove afflictions.
+
+अभि नक्षति (*abhi nakṣati*)—The word नक्षति (*nakṣati*) is read among the words denoting motion (Ni. 3-9) and among the action-names denoting pervading (Ni. 3-310 [sic], as printed). Here अभि नक्षति (*abhi nakṣati*) means हविषा परिचरति (*haviṣā paricarati*): he serves with oblations and the like. (The supplied text has परितवागिदॆ (*paritavāgidè*) and सूचिसुवु शब्दगळल्लियू (*sūcisuvu śabdagaḷalliyū*), evident slips for the "read" and "words" of the sense given.)
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> स नो॒ युवेन्नो॑ जो॒हूत्रः॒ सखा॑ शि॒वो न॒राम॑स्तु पा॒ता।
+> यः शंस॑न्तं॒ यः श॑शमा॒नमू॒ती पच॑न्तं च स्तु॒वन्तं॑ च प्र॒णेष॑त् ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । नः । युवा । इन्द्रः । जोहूत्रः । सखा । शिवः । नरां । अस्तु । पाता ।
+> यः । शंसन्तं । यः । शशमानं । ऊती । पचन्तं । चॆ । स्तुवन्तं । चॆ । प्रनेषत् ॥
+
+> *saḥ | naḥ | yuvā | indraḥ | johūtraḥ | sakhā | śivaḥ | narāṃ | astu | pātā |*
+> *yaḥ | śaṃsantaṃ | yaḥ | śaśamānaṃ | ūtī | pacantaṃ | cè | stuvantaṃ | cè | praneṣat ‖*
+
+*(The supplied Saṃhitā reads युवेन्नो (*yuvenno*) and प्रणेषत् (*praṇeṣat*) where the Pada has युवा । इन्द्रः (*yuvā | indraḥ*) and प्रनेषत् (*praneṣat*); the label of the Pada was printed garbled and is given in standard form.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> युवा तरुणो यष्ठाणां फलस्य शमयिता वा जोहूत्रः स्तोतृभिराह्वा-
+> तव्यो होतव्यो वा सखा सखिभूतः शिवः सुखकरः स इंद्रो नरां ॥ नृशब्द स्यामि
+> छांदसो गुणः नरशब्दस्य वाम्यागमानुशासनस्यानितत्वान्नुडभावः ॥ कर्मनेत्यणा-
+> मस्माकं पाता पालको भवति । यः शस्त्राणि शंसंतं यश्च शशमानं ॥ शश प्लुतगत् ॥
+> क्रियाः कुर्वाणं पुरोडाशादिकं हवींषि पचंतं स्तुवंतं सामभिः स्तोत्रं
+> कुर्वाणं । स्तुतशस्त्रयोः प्रगीताप्रगीतमंत्रसाध्येन भेदस्य प्रतिपादितत्वात् अत्र
+
+> *yuvā taruṇo yaṣṭhāṇāṃ phalasya śamayitā vā johūtraḥ stotṛbhirāhvā-*
+> *tavyo hotavyo vā sakhā sakhibhūtaḥ śivaḥ sukhakaraḥ sa iṃdro narāṃ ‖ nṛśabda syāmi*
+> *chāṃdaso guṇaḥ naraśabdasya vāmyāgamānuśāsanasyānitatvānnuḍabhāvaḥ ‖ karmanetyaṇā-*
+> *masmākaṃ pātā pālako bhavati | yaḥ śastrāṇi śaṃsaṃtaṃ yaśca śaśamānaṃ ‖ śaśa plutagat ‖*
+> *kriyāḥ kurvāṇaṃ puroḍāśādikaṃ havīṃṣi pacaṃtaṃ stuvaṃtaṃ sāmabhiḥ stotraṃ*
+> *kurvāṇaṃ | stutaśastrayoḥ pragītāpragītamaṃtrasādhyena bhedasya pratipāditatvāt atra*
+
+*(The bhāṣya of this Ṛk breaks off at the end of printed p. 859 with अत्र (*atra*) and continues on the next page.)*
+
 ---
 
-**Progress note:** Done through printed p. 856 (PDF 856). Sukta 19 Rk 9 completed (Pratipadartha, Bhavartha, printed English, Special Topics reference); Sukta 20 begun: introduction, Anuvada, heading block, Rk 1 Samhita/Pada/bhashya (damaged supplied letters converted as supplied), Pratipadartha, Bhavartha, printed English, Special Topics begun
+**Progress note:** Done through printed p. 859 (PDF 859). Sukta 20: Rk 1 Special Topics completed; Rk 2 complete; Rk 3 Samhita and Pada written, bhashya begun (breaks off at 'atra'); Rk 3 Pada label was garbled and normalised
