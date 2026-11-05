@@ -7765,6 +7765,136 @@ Gist: The Maruts, in the form of the Aṅgirases who attained success in ten mon
 
 Those same Maruts, having taken the form of the Aṅgirases who attained success in ten months, were ready before the Ādityas and carried out the sacrifice. May those same Maruts urge us at the time of the manifestation of Uṣas. Uṣas drives away the dark-coloured nights with her attractive
 
+### Printed p. 251
+
+lights, pushing them far away and destroying them, so the Maruts too destroy the darkness with their own radiance called the Sun, which is great, shining and drinks up the water in the form of mist.
+
+**English Translation (as printed)**
+
+May they, who, the first celebrators of the tenmonths' [sic] rite, accomplished this sacrifice, reanimate us at the rising dawn ; for as the dawn with purple rays drives away the night, so (do they scatter the darkness) with great, and pure. and [sic] mist-dispelling radiance.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> ते दशग्वाः प्रथमाः यज्ञमूहिरे - मरुतः ये दशभिः मासैः सिद्धिंगताः
+> अंगिरसः तद्रूपा भूत्वा आदित्येभ्यः प्रथमभाविनः संतः यज्ञमवहन् । आदित्यानां
+> अंगिरसां च स्वर्गगमनं प्रति स्पर्धमानानां मध्यॆ पूर्वमेवांगिरसो यागा-
+> ननुष्ठाय स्वर्गं प्राप्ताः ।
+
+> *te daśagvāḥ prathamāḥ yajñamūhire - marutaḥ ye daśabhiḥ māsaiḥ siddhiṃgatāḥ*
+> *aṃgirasaḥ tadrūpā bhūtvā ādityebhyaḥ prathamabhāvinaḥ saṃtaḥ yajñamavahan | ādityānāṃ*
+> *aṃgirasāṃ ca svargagamanaṃ prati spardhamānānāṃ madhyè pūrvamevāṃgiraso yāgā-*
+> *nanuṣṭhāya svargaṃ prāptāḥ |*
+
+It is explained: the Maruts, having taken the form of the Aṅgirases who attained success in ten months only, were present before the Ādityas and carried out the sacrifice. A contest arose between the Ādityas and the Aṅgirases, at one time, as to who should reach heaven first; the Aṅgirases performed the sacrifice first and attained heaven before the Ādityas. This story is told in the Aitareya Brāhmaṇa (Ai. Brā. 1-16): “आदित्याश्चैवेहासन्नंगिरसश्च तेऽग्रॆग्निनाग्निमयजंत” (*“ādityāścaivehāsannaṃgirasaśca te 'grègnināgnimayajaṃta”*). Sāyaṇa describes the Maruts as having the identity of the Aṅgirases who attained success in ten months, as born and established before the Ādityas, and as performing sacrifices. The inquiry into this identity of the Aṅgirases and the Maruts has been explained in the earlier volumes.
+
+> ते उषसः व्युष्टिषु नः हिन्वंतु तादृशाः ते मरुतः प्रभातेषु सत्सु अस्मान्
+> प्रेरयॆंतु ।
+
+> *te uṣasaḥ vyuṣṭiṣu naḥ hinvaṃtu tādṛśāḥ te marutaḥ prabhāteṣu satsu asmān*
+> *prerayèṃtu |*
+
+It is said: those same Maruts, when the dawns have broken, may urge us on; that is, may the Maruts, of abundant power, urge us, the sacrificers, to our necessary duties after the time of dawn has passed, that is, in the morning.
+
+> रामाः उषाः न अरुणैः अपोर्णुते महः शुचता गोअर्णसा ज्योतिषा—
+> कृष्णवर्णाः राश्रीः उषाः यथा आरोचमानैः स्वतेजोभिः अपसारयति कथा
+> महता दीप्यमानेन गच्छदुदकेन सूर्याख्येन तमः निवारयंति । सूर्यमंडल-
+> मावृण्वतो वृत्रादीन् हत्वा सर्वं जगत् प्रकाशयंति ।
+
+> *rāmāḥ uṣāḥ na aruṇaiḥ aporṇute mahaḥ śucatā goarṇasā jyotiṣā—*
+> *kṛṣṇavarṇāḥ rāśrīḥ uṣāḥ yathā ārocamānaiḥ svatejobhiḥ apasārayati kathā*
+> *mahatā dīpyamānena gacchadudakena sūryākhyena tamaḥ nivārayaṃti | sūryamaṃḍala-*
+> *māvṛṇvato vṛtrādīn hatvā sarvaṃ jagat prakāśayaṃti |*
+
+(The first word of this gloss is printed रामाः (*rāmāḥ*) in the supplied text, where रामीः (*rāmīḥ*) would be expected from the Saṃhitā; given as supplied.) It is described: as Uṣas drives away the night, black with darkness, with her well-shining lights, so the Maruts, filled with water, cover the sun, kill Vṛtra and the others who make darkness, break up the cloud that prevents the sun's light
+
+### Printed p. 252
+
+from reaching the world, and make light for the world. So it is described.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> ते क्षो॒णीभि॑ररु॒णेभि॒र्नांजिभी॑ रु॒द्रा ऋ॒तस्य॒ सद॑नेषु वावृधुः ।
+> नि॒मेघ॑माना॒ अत्ये॑न॒ पाज॑सा सुश्चं॒द्रं वर्ण०॑ दधिरे सु॒पेश॑सं ॥१३॥
+
+**॥ पदपाठः ॥**
+
+> ते । क्षोणीभिः । अरुणेभिः । न । अंजिभिः । रुद्राः । ऋतस्य । सदनेषु । ववृधुः ।
+> निमेघमानाः । अत्येन । पाजसा । सुचंद्रं । वर्णं । दधिरे । सुपेशसं ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> रुद्रा रुद्रपुत्रास्ते मरुतः क्षोणीभिः शब्दकारिभिर्विर्णाख्यैर्विणाविशेषैर-
+> रुणेभिर्नांजभिः ॥ नशब्दः समुच्चये ॥ आरोचमानैररुणवर्णैर्वा रूपाभिव्यंज-
+> कैरलंकारैश्च समन्विताः संत ऋतस्योदकस्य सदनेषु निवासभूतेषु मेघेषु
+> वावृधुः । वर्धंते । अपि च अत्येन सततगामिना शीघ्रं व्याप्नुवता पाजसात्मीयेन
+> बलेन निमेघमाना नितरां मेघादुदकं चिंतयंतस्ते सुचंद्रं शोभनाह्लादनं
+> सुपेशसं ॥ पेश इति रूपनाम ॥ शोभनरूपं वर्णं दधिरे । कांतिं धारयंति ॥
+
+> *rudrā rudraputrāste marutaḥ kṣoṇībhiḥ śabdakāribhirvirṇākhyairviṇāviśeṣaira-*
+> *ruṇebhirnāṃjabhiḥ ‖ naśabdaḥ samuccaye ‖ ārocamānairaruṇavarṇairvā rūpābhivyaṃja-*
+> *kairalaṃkāraiśca samanvitāḥ saṃta ṛtasyodakasya sadaneṣu nivāsabhūteṣu megheṣu*
+> *vāvṛdhuḥ | vardhaṃte | api ca atyena satatagāminā śīghraṃ vyāpnuvatā pājasātmīyena*
+> *balena nimeghamānā nitarāṃ meghādudakaṃ ciṃtayaṃtaste sucaṃdraṃ śobhanāhlādanaṃ*
+> *supeśasaṃ ‖ peśa iti rūpanāma ‖ śobhanarūpaṃ varṇaṃ dadhire | kāṃtiṃ dhārayaṃti ‖*
+
+Gist: The Maruts, sons of Rudra, equipped with sounding lutes and red ornaments, grow in the clouds, the abodes of water, and take on a fair, lovely colour.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रुद्राः (*rudrāḥ*)—the Maruts, sons of Rudra; ते (*te*)—they; क्षोणीभिः (*kṣoṇībhiḥ*)—provided with lutes having charming sounds; अरुणेभिर्न (*aruṇebhirna*)—like the red colour; अंजिभिः (*aṃjibhiḥ*)—adorned with ornaments; ऋतस्य (*ṛtasya*)—of water; सदनेषु (*sadaneṣu*)—in the clouds that are its abodes; वावृधुः (*vāvṛdhuḥ*)—they grow; अत्येन (*atyena*)—swift-going; पाजसा (*pājasā*)—with their own strength; निमेघमानाः (*nimeghamānāḥ*)—squeezing the water out of the cloud; सुश्चंद्रं (*suścaṃdraṃ*)—delightful; सुपेशसं (*supeśasaṃ*)—showing an attractive form; वर्णं (*varṇaṃ*)—the lustre; दधिरे (*dadhire*)—they obtain.
+
+### Printed p. 253
+
+**भावार्थ (Bhāvārtha)**
+
+The Maruts, sons of Rudra, provided with lutes of charming sounds and adorned with ornaments like the red colour, grow in the clouds, the abodes of water. Squeezing the water of the cloud by their swift strength, they possess a lustre that is delightful and shows an attractive form.
+
+**English Translation (as printed)**
+
+They, the Rudras (equipped) with melodious (lutes), and decorated with purple ornaments, exalt in the dwellings of the waters ; and scattering the clouds with rapid vigour, they are endowed with delightful and beautiful forms.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> रुद्राः—रुद्रपुत्राः
+
+> *rudrāḥ—rudraputrāḥ*
+
+The word रुद्र (*rudra*) is explained as "children of Rudra"; the Maruts, sons of Rudra,
+
+> क्षोणीभिः—शब्दकारीभिः विणाख्यैः वीणावीशेषैः ।
+
+> *kṣoṇībhiḥ—śabdakārībhiḥ viṇākhyaiḥ vīṇāvīśeṣaiḥ |*
+
+are provided with sounding lutes called वाणि (*vāṇi*) (Sāyaṇa's gloss has विणाख्यैः (*viṇākhyaiḥ*), as supplied).  And
+
+> अरुणेभिः नांजिभिः—अरुण
+> वर्णैः ना रूपाभिव्यंजकैरलंकारैश्च समन्विताः ।
+
+> *aruṇebhiḥ nāṃjibhiḥ—aruṇa*
+> *varṇaiḥ nā rūpābhivyaṃjakairalaṃkāraiśca samanvitāḥ |*
+
+they are endowed with a red colour of great brightness, or with ornaments that bring out (make beautiful) the form (shape), and so they grow in the middle of the clouds. Again,
+
+> अत्येन पाजसा
+> निमेघमानाः सुश्चंद्रं सुपेशसं वर्ण० दधिरे—शीघ्रं व्याप्नुवता आत्मीयेन
+> बलेन मेघादुदकं नितरां चितयंतः शोभनाह्लादनं शोभनरूपं कांतिं धार
+> यंति ।
+
+> *atyena pājasā*
+> *nimeghamānāḥ suścaṃdraṃ supeśasaṃ varṇa0 dadhire—śīghraṃ vyāpnuvatā ātmīyena*
+> *balena meghādudakaṃ nitarāṃ citayaṃtaḥ śobhanāhlādanaṃ śobhanarūpaṃ kāṃtiṃ dhāra*
+> *yaṃti |*
+
+the Maruts, with their (powerful) strength that quickly spreads, make the rain-water pour from the clouds without remaining at all (completely); they are very delightful and bear a form of beautiful shape. So it is explained.
+
+> सुपेशसं— पेश इति रूपनाम ।
+
+> *supeśasaṃ— peśa iti rūpanāma |*
+
+The word पेशसं (*peśasaṃ*) is given among the names of form (Ni. 3-13) and among the names of gold, and is explained: पेश इति रूपनाम पिंशतेर्विपिशितं भवति (*peśa iti rūpanāma piṃśatervipiśitaṃ bhavati*) (Ni. 8-12).
+
 ---
 
-**Progress note:** Done through printed p. 250 (PDF 250). Sūkta 34 Ṛk 11 bhāṣya through Special Topics (pp. 248-249); Ṛk 12 Saṃhitā, Pada, bhāṣya, Pratipadārtha and start of Bhāvārtha (p. 250, ends mid-sentence; continues next window). kn.md fixes: Pratipadārtha/Bhāvārtha split out of bhāṣya block and un-quoted, garbled labels replaced, 'This image contains' line removed; gist ≤25 words; no [?]
+**Progress note:** Done through printed p. 253 (PDF 253). Sūkta 34 Ṛk 12 Bhāvārtha end and Special Topics (pp. 251-252); Ṛk 13 complete (pp. 252-253) with Special Topics; kn.md fixes: Bhāvārtha continuation unquoted, Special Topics Sanskrit made blocks, stray divider and garbled Pada label replaced, mega-block split; no [?]
