@@ -966,6 +966,107 @@ That same Brahmaṇaspati, established as priest of the gods, is the one who by 
 
 He Brahmanaspathi, is the aggregator and subjugator (of objects); the family priest (of the gods); and the renowed [sic] in battle; the beholder (of all), who bestows food and desired treasures, whence the radiant sun shines without exertion.
 
+### Printed p. 34
+
+*Running head: [34 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पुरोहितः ब्रह्मणस्पतिः संनयः (*purohitaḥ brahmaṇaspatiḥ saṃnayaḥ*)—"he brings together, by mantras, those who have been separated." Yāska explains the word *purohita* as "they place him in front" (Ni. 2-12). Sāyaṇa says "set in front by the gods": the gods keep Brahmaṇaspati before them. He describes this Brahmaṇaspati as one who, by the power of his mantras, brings together in one place those who are separated from one another. Further, विनयः (*vinayaḥ*) (the text has संगशानां (*saṃgaśānāṃ*) [?], evidently for the bhāṣya's संगतानां (*saṃgatānāṃ*)): "he too is the one who separates those who are joined" — he explains that, by reciting mantras, he can make those who are together, through affection or other causes, live apart.
+
+सुष्टुतः युधि सः (*suṣṭutaḥ yudhi saḥ*) (the text has स्तोत्यणामनुग्रहाय प्रादुर्भवति (*stotyaṇāmanugrahāya prādurbhavati*)): being praised, he appears in person, to show his favour, when battle comes upon them.
+
+For the word चाक्षृः (*cākṣṛḥ*) (so in the supplied text; the Saṃhitā and Pada have चाक्ष्मो (*cākṣmo*) / चाक्ष्मः (*cākṣmaḥ*)) the explanation is सर्वस्य द्रष्टा सर्वसहो ना (*sarvasya draṣṭā sarvasaho nā*): Brahmaṇaspati sees everything directly and endures all kinds of sorrows and calamities. Then वाजं मती धना भरते (*vājaṃ matī dhanā bharate*) is explained: for those who praise him he makes food and excellent wealth increase, bringing rain-waters, and so he nourishes them.
+
+From this: since the sacrifice is accomplished by the foods and wealth given by Brahmaṇaspati, the burning sun is left merely enjoying the oblations himself (केवलं हवींषि भुंजान एव वर्तते (*kevalaṃ havīṃṣi bhuṃjāna eva vartate*)). That is, because Brahmaṇaspati carries out the sacrifices of the sacrificers with foods and wealth, the sun, who illumines and protects everything, merely receives his shares of the oblations and stays idle; this states the extent of Brahmaṇaspati's nourishing of those who depend on him.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> वि॒भु प्र॒भु प्र॑थ॒मं मे॒हना॑वतो॒ बृह॒स्पतेः॑ सुवि॒दत्रा॑णि॒ राध्या॑ ।
+> इ॒मा सा॒तानि॑ वे॒न्यस्य॑ वा॒जिनो॒ येन॒ जना॑ उ॒भये॑ भुंज॒ते विशः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> विभु। प्रभु। प्रथमं । मेहनावतः । बृहस्पतेः । सुविदत्राणि । राध्या ।
+> इमा । सातानि । वेन्यस्य । वाजिनः । येन । जनाः । उभये । भुंजते । विशः ॥ १० ॥
+
+> *vibhu| prabhu| prathamaṃ | mehanāvataḥ | bṛhaspateḥ | suvidatrāṇi | rādhyā |*
+> *imā | sātāni | venyasya | vājinaḥ | yena | janāḥ | ubhaye | bhuṃjate | viśaḥ ‖ 10 ‖*
+
+### Printed p. 35
+
+*Running head: [A. 2, A. 7, V. 2.] Ṛgveda-saṃhitā, p. 35 (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+
+> विभु विभूनि व्याप्तानि प्रभु प्रभूणि प्रौढानि प्रथमं प्रथमानि मुख्यानि ।
+> एवंभूतानि मेहनावतो वर्षणवतो वृष्टिप्रदस्य बृहस्पतेर्बृहतो मंत्रस्य
+> पालयितुः संबंधीनि सुविदत्राणि ॥ विदल्ग लाभे । सुविदेः कत्रन् । उ. ३ १०८. ॥
+> सुष्टु लब्बव्यानि ॥ सुविदत्रं धनं भवतीति यास्कः ॥ राध्या राध्यानि सम्यक्
+> साधनीयानि । प्राप्तव्यानीति यावत् । इमा सातानीमानि धनानि वेन्यस्य कमनीयस्य
+> वाजिनोऽन्नवतो ब्रह्मणस्पतेः ॥ तृतीयार्थे षष्ठी ॥ ब्रह्मणस्पतिना दत्तानि । येन
+> धनेनोभय उभयविधा जनाः स्तोतारो यजमानाश्च देवा मनुष्याश्च वा
+> विशो निविष्टाः संतो भुंजते । भोगान् लभंते । तत्सर्वं ब्रह्मणस्पतिना
+> दत्तमित्यर्थः ॥
+
+> *vibhu vibhūni vyāptāni prabhu prabhūṇi prauḍhāni prathamaṃ prathamāni mukhyāni |*
+> *evaṃbhūtāni mehanāvato varṣaṇavato vṛṣṭipradasya bṛhaspaterbṛhato maṃtrasya*
+> *pālayituḥ saṃbaṃdhīni suvidatrāṇi ‖ vidalga lābhe | suvideḥ katran | u. 3 108. ‖*
+> *suṣṭu labbavyāni ‖ suvidatraṃ dhanaṃ bhavatīti yāskaḥ ‖ rādhyā rādhyāni samyak*
+> *sādhanīyāni | prāptavyānīti yāvat | imā sātānīmāni dhanāni venyasya kamanīyasya*
+> *vājino 'nnavato brahmaṇaspateḥ ‖ tṛtīyārthe ṣaṣṭhī ‖ brahmaṇaspatinā dattāni | yena*
+> *dhanenobhaya ubhayavidhā janāḥ stotāro yajamānāśca devā manuṣyāśca vā*
+> *viśo niviṣṭāḥ saṃto bhuṃjate | bhogān labhaṃte | tatsarvaṃ brahmaṇaspatinā*
+> *dattamityarthaḥ ‖*
+
+Gist: These bountiful riches of the rain-giving Bṛhaspati are pervasive, mighty and chief; all who partake of them, praisers and sacrificers (or gods and men), enjoy what he has given.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मेहनावतः (*mehanāvataḥ*)—of the rain-giver; बृहस्पतेः (*bṛhaspateḥ*)—of Bṛhaspati; सुविदत्राणि (*suvidatrāṇi*)—the riches; विभु (*vibhu*)—pervading everywhere; प्रभु (*prabhu*)—mighty; प्रथमं (*prathamaṃ*)—very excellent, they are; येन (*yena*)—by which wealth; उभये (*ubhaye*)—both kinds, men and gods; जनाः (*janāḥ*)—people; विशः (*viśaḥ*)—gathering together; भुंजते (*bhuṃjate*)—enjoy pleasures, such (riches too); राध्या (*rādhyā*)—worthy of worship; इमा सातानि (*imā sātāni*)—these riches; वेन्यस्य (*venyasya*)—of the beloved one; वाजिनः (*vājinaḥ*)—and possessor of food, namely Bṛhaspati — are given by him.
+
+**भावार्थ (Bhāvārtha)**
+
+The riches of the rain-giving Bṛhaspati are pervasive everywhere, mighty and very excellent. Such riches, by which men and gods together enjoy pleasures, and which are worthy of worship, are given by Bṛhaspati, the beloved one, the possessor of food.
+
+**Printed English**
+
+Expansive, vast, and excellent riches, are the attainable (bounties) of Brihaspathi, the sender of the rain : these {are the gifts of the adorable giver of food, whereby both (descriptions of worshippers) entering here enjoy (abundance).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+मेहनावतः बृहस्पतेः सुविदत्राणि (*mehanāvataḥ bṛhaspateḥ suvidatrāṇi*) - वृष्टिप्रदस्य बृहतो मंत्रस्य पालयितुः सुष्टुलब्धव्यानि (*vṛṣṭipradasya bṛhato maṃtrasya pālayituḥ suṣṭulabdhavyāni*) (the bhāṣya, as supplied, has सुष्टु लब्बव्यानि (*suṣṭu labbavyāni*)). He is the one who pours rain-waters and protects all the abundant mantras
+
+### Printed p. 36
+
+*Running head: [36 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied).*
+
+(Special Topics continued.) — thus explaining the greatness of Bṛhaspati or Brahmaṇaspati. Sāyaṇa explains the word सुविदत्र (*suvidatra*) as "that which is to be obtained in abundance" and gives its meaning as wealth.
+
+Yāska gives the meaning सुविदत्रः कल्याणविद्यः (*suvidatraḥ kalyāṇavidyaḥ*) (Ni. 6-14), and explains सुविदत्रं धनं भवति (*suvidatraṃ dhanaṃ bhavati*) (Ni. 7-9), and quotes usages for both senses.
+
+The wealth to be obtained from this Bṛhaspati — विभु, प्रभु, प्रथमं राध्या (*vibhu, prabhu, prathamaṃ rādhyā*) — is pervasive, mighty (abundant), chief, and something that must certainly be attained: thus the greatness of wealth is stated. And वाजिनः येन उभये जनाः भुंजते (*vājinaḥ yena ubhaye janāḥ bhuṃjate*): it is described that both kinds of people — the praising priests and the sacrificers, or men and gods — obtain the wealth bestowed by Bṛhaspati, the possessor of food, and live happily enjoying pleasures.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> योऽव॑रे वृ॒जने॑ वि॒श्वथा॑ वि॒भुर्म॒हामु॑ र॒ण्वः शव॑सा व॒वक्षि॑थ ।
+> स दे॒वो दे॒वान्प्रति॑ पप्रथे पृ॒थु विश्वेदु॒ ता प॑रि॒भूर्ब्रह्म॑ण॒-॑
+> स्पतिः ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । अवरे । पृजने । विश्वथा । विभुः । महां । ऊं इति । रण्वः । शवसा । ववक्षिथ ।
+> सः । देवः । देवान् । प्रति । पप्रथे । पृथु । विश्वा । इत् । ऊं इति । ता । परिभूः ।
+> ब्रह्मणः । पतिः ॥ ११ ॥
+
+> *yaḥ | avare | pṛjane | viśvathā | vibhuḥ | mahāṃ | ūṃ iti | raṇvaḥ | śavasā | vavakṣitha |*
+> *saḥ | devaḥ | devān | prati | paprathe | pṛthu | viśvā | it | ūṃ iti | tā | paribhūḥ |*
+> *brahmaṇaḥ | patiḥ ‖ 11 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 33 (PDF 33). Sūkta 24: Ṛk 8 Pratipadārtha to Special Topics (pp. 31-32); Ṛk 9 Saṃhitā to Printed English (pp. 32-33). Flags: hand fixes to kn.md: garbled Pratipadārtha label on p. 31 replaced and its lines unquoted; 1 [?] (p. 32 'ಸಾದ್ವೀ8' for ಸಾಧ್ವೀಃ); oddities kept: Pratipadārtha 'ಚಾಕ್ಷ್ಮೀ' vs Saṃhitā 'ಚಾಕ್ಷ್ಮೋ'/Pada 'ಚಾಕ್ಷ್ಮಃ', Pada 'ಪುರಹಿತಃ', 'ಸುಸ್ತುತಃ', 'ಬ್ರಹ್ಮಣಃ । ಪತಿಃ', Special Topics 'ಕಿವಿಗೈಕೇಳಸತಕ್ಕವು', Bṛhaspati for Brahmaṇaspati, stray '-௨௰௪-' on p. 32; Ṛk 9 bhāṣya sections not printed in the Kannada text apart from the one block
+**Progress note:** Done through printed p. 36 (PDF 36). Sūkta 24: Ṛk 9 Special Topics (p. 34); Ṛk 10 complete (pp. 34-36); Ṛk 11 Saṃhitā and Pada (p. 36). Flags: hand fix to kn.md: garbled labels for Ṛk 10 Saṃhitā/Pada on p. 34 replaced, lines quoted; 1 [?] (p. 34 'ಸಂಗಶಾನಾಂ' evidently for ಸಂಗತಾನಾಂ); oddities kept: 'ಚಾಕ್ಷೃಃ', 'ಸ್ತೋತ್ಯಣಾಮ', bhāṣya 'ಲಬ್ಬವ್ಯಾನಿ', Pada 'ಪೃಜನೇ' vs Saṃhitā 'ವೃಜನೇ', Pada 'ಮಹಾಂ । ಊಂ ಇತಿ'; Special Topics of Ṛk 10 breaks across pp. 35-36 mid-sentence; Ṛk 11 continues
