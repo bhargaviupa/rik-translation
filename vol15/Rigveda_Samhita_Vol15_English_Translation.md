@@ -9697,6 +9697,55 @@ In the past the gods performed a sacrifice and went by it to the world of heaven
 
 *The supplied text of this window ends here, in the middle of a sentence ("… pleases the two-footed (human) beings"); the passage continues on p. 308 (next window).*
 
+### Printed p. 308
+
+*Note on the source text: the page-head line of each page and the passage below are in the supplied text as quoted blocks; here they are given as prose, and the Sanskrit quotation as a block (Kannada-script text unchanged).*
+
+is as if pleased. Again he says that the Praiṣa mantras for the Ṛtus are to be recited six times; likewise four times and twice. For the four-footed animals live following the Ṛtus; the two-footed beings (men) live depending on the four-footed animals. Then, as said before, he says the mantras for the Ṛtus are to be recited six times, four times and twice. By reciting the mantras in this way the sacrificer makes for himself a bridge by which to go to heaven. One must not go following one another; if one does so, the Ṛtus too become so, and a disorder arises in the order of the Ṛtus. Therefore the Adhvaryu goes by the southern door and the Pratiprasthātṛ by the northern door. Following this order the sun moves for six months in the southern direction and for another six months in the northern direction (this indicates the Dakṣiṇāyana and the Uttarāyaṇa). Some say there is also a thirteenth month; the Adhvaryu pleases that also.
+
+In the explanation given above the Ṛtuyāja oblations are divided into three groups: first six, then four, then two, twelve in all. In the first six mantras the singular ऋतुना (*ṛtunā*) is used. The deities of these six mantras are, in order, Indra, the Maruts, Tvaṣṭā, Agni, Indra-Brahmā (Indra and Brahman), and Mitra-Varuṇa. Then, for the four mantras of the second group, that is the seventh, eighth, ninth and tenth, the deity is Draviṇodāḥ (a form of Agni); in these four mantras the plural ऋतुभिः (*ṛtubhiḥ*) is used. Of the two mantras of the third group, the eleventh has the Aśvins and the twelfth Agni as deities. In both of these the singular ऋतुना (*ṛtunā*) is used. (See Ṛg. Saṃ. Sūkta 1-15.)
+
+The twelve Praiṣa mantras recited for these Ṛtuyāja oblations are directed by the priest called Maitrāvaruṇa. The first Praiṣa mantra the Maitrāvaruṇa addresses to the Hotṛ, saying होतायक्षदिंद्रं होतात्सजूर्दिव आ पृथिव्या ऋतुना सोमं पिबतु होतर्यज (*hotāyakṣadiṃdraṃ hotātsajūrdiva ā pṛthivyā ṛtunā somaṃ pibatu hotaryaja*). The deity of this first mantra is Indra. Its meaning: let the Hotṛ recite the Yājyā mantra for Indra; let that Indra, together with the Ṛtu deity, drink Soma from the Hotṛ's vessel. The Yājyā mantra is like it, but at the beginning of the mantra, instead of होतायक्षत् (*hotāyakṣat*), it begins with ये ३ यजामहे (*ye 3 yajāmahe*). This is the first Ṛtuyāja oblation.
+
+In performing the second oblation the Maitrāvaruṇa addresses the Potṛ and directs the Praiṣa mantra that has the Maruts as deity. Then the Potṛ recites the mantra related to the Maruts (the second Ṛk), the meaning being that the Marut deities should come with the Ṛtu deity and drink Soma.
+
+Likewise for the recitation of the third mantra the Praiṣa mantra is addressed to the Neṣṭṛ. The Neṣṭṛ recites the mantra having Tvaṣṭā as deity. The fourth mantra, with Agni as deity, is recited by the Āgnīdhra; the fifth, with Indra as deity, by the priest called Brahman; the sixth, with Mitra-Varuṇa as deity (the Praśāstārau), by the Maitrāvaruṇa, who performs the oblation. The seventh, eighth, ninth and tenth mantras have Draviṇodāḥ as deity. Of these the seventh Ṛk is recited by the Hotṛ, the eighth by the Potṛ, the ninth by the Neṣṭṛ, and the tenth by the priest called Acchāvāka. In all four of these mantras the plural of the word Ṛtu, ऋतुभिः (*ṛtubhiḥ*), is used. The eleventh and twelfth mantras are recited by the Hotṛ himself. The deities of the eleventh are the Aśvins, and of the twelfth Agni (called Gṛhapati). In these last two Ṛks too the singular ऋतुना (*ṛtunā*) is used. The following table makes this clear.
+
+### Printed p. 309
+
+(Table; the heading of its columns reads: mantra number; the Praiṣa mantra; the priest addressed; the deity of the mantra; the Ṛtu deity; the reciter.)
+
+| No. | Praiṣa mantra | Priest addressed | Deity of the mantra | Ṛtu deity |
+|---|---|---|---|---|
+| 1 | the priest called Maitrāvaruṇa | Hotṛ | Indra | Madhu (Ṛtu) |
+| 2 | ,, | Potṛ | Marutaḥ | Mādhavaḥ (Ṛtu) |
+| 3 | ,, | Neṣṭṛ | Tvaṣṭā | Śukraḥ (Ṛtu) |
+| 4 | ,, | Āgnīdhra | Agniḥ | Śuciḥ (Ṛtu) |
+| 5 | ,, | Brahmā | Indra | Nabhaḥ (Ṛtu) |
+| 6 | ,, | Praśāstṛ (Maitrāvaruṇa) | Mitrāvaruṇau | Nabhasyaḥ (Ṛtu) |
+| 7 | ,, | Hotṛ | Draviṇodāḥ | Ṛtavaḥ (Iṣaḥ) |
+| 8 | ,, | Potṛ | ,, | ,, (Ūrjaḥ) |
+| 9 | ,, | Neṣṭṛ | ,, | ,, (Sahaḥ) |
+| 10 | ,, | Hotṛ | ,, | ,, (Sahasya) |
+| 11 | ,, | Adhvaryu | Aśvinau | Ṛtu (Tapaḥ) |
+| 12 | ,, | Gṛhapati | Agniḥ | Ṛtu (Tapasyaḥ) |
+
+Here the words Madhu, Mādhava and the like indicate the names of the months Caitra, Vaiśākha and so on. Each month, Madhu and the rest, is indicated together with each deity, Indra and the rest, as the Ṛtu-accompanied deity of the respective mantra. Because the plural ऋतुगळु (*ṛtugaḷu*) is used with the deity Draviṇodāḥ (Ṛtavaḥ), the four months Iṣa, Ūrja, Sahaḥ and Sahasyaḥ may have been indicated as the Ṛtu deities.
+
+### Printed p. 310
+
+For the deity Draviṇodāḥ, after Soma has been offered from the vessels of the priests Hotṛ, Potṛ and Neṣṭṛ as stated in Ṛks 7, 8, 9, it is said that from the tenth mantra the Hotṛ offers Soma from the fourth vessel (turīya). This fourth vessel is called अमर्त्यं (*amartyaṃ*) (immortal, deathless). In the eleventh mantra the Aśvins are prayed to drink Soma from the Adhvaryu's vessel, and in the twelfth Agni from the Gṛhapati (Gārhapatya) vessel, together with the Ṛtu deities (Tapaḥ and Tapasyaḥ).
+
+The twelve mantras that direct the Ṛtuyāja oblation are given in Ṛg. Saṃ. 1-15. That sūkta has 12 Ṛks, and these twelve Ṛks explain the twelve Ṛtuyāja mantras as described above. In the present context, that is in the second Maṇḍala, if the 36th and 37th sūktas, of six Ṛks each, are put together, there are 12 Ṛtuyāja mantras: the mantras 1-6 of the Ṛtuyāja oblation are stated in the 36th sūkta and mantras 7-12 in the 37th. The 36th sūkta belongs to the preceding adhyāya; there no special explanation concerning the Ṛtuyāja was given. In the introduction to the 37th sūkta in this adhyāya all these matters are explained.
+
+Now the matters concerning the Ṛtuyāja oblations explained in the Aitareya Brāhmaṇa are explained here:
+
+> प्राणा वा ऋतुयाजास्तद्यदृतुयाजैश्चरंति प्राणानेव तद्यजमाने दधति ।
+
+> *prāṇā vā ṛtuyājāstadyadṛtuyājaiścaraṃti prāṇāneva tadyajamāne dadhati |*
+
+The oblations made to the deities presiding over the Ṛtus, Madhu, Mādhava and the rest, are called Ṛtuyāja. The Ṛtuyājas are of the nature of the vital breaths; here "breath" means prāṇa, apāna and vyāna. By performing these Ṛtuyāja oblations it becomes possible for the vital breaths to stay firmly in the sacrificer who performs the sacrifice. If a man is to live long, the breaths must stay firmly in him; if they leave the body and go out, death occurs. Therefore there is the Vedic sentence of prayer, प्राणापानौ मृत्योर्मा पातं प्राणापानौ मा मा हासिष्टं (*prāṇāpānau mṛtyormā pātaṃ prāṇāpānau mā mā hāsiṣṭaṃ*) (Tai. Saṃ. 3-1-7-1): "May the prāṇa and apāna that dwell in me protect me from death; may they not leave me." So that the vital breaths may stay firmly in the sacrificer and he may be long-lived, these oblations called Ṛtuyāja are made. These Ṛtuyājas, or Ṛtugrahas, are twelve. Among them the first six have some special features; these will be explained here —
+
 ---
 
-**Progress note:** Done through printed p. 307 (PDF 307). pp. 305-307: Sūkta 37 introduction continued, note on the six Ṛtus and Ṛtuyāja with Taittirīya quotations; text breaks mid-sentence at end of p. 307 (Brāhmaṇa passage continues on p. 308); Ṛk 1 not yet reached; kn.md fixes: prose unquoted, Sanskrit quotations split into 6 blocks, stray signature digit '20' removed (noted); 'ಕೃ. ಸಂ.' as supplied
+**Progress note:** Done through printed p. 310 (PDF 310). pp. 308-310: Sūkta 37 introduction continued (Ṛtuyāja priests/deities, table, Aitareya Brāhmaṇa passage begun); Sūkta 37 summary and Ṛk 1 not yet reached; kn.md: prose unquoted, Sanskrit line kept as block, no doubts
