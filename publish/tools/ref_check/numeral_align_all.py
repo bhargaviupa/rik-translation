@@ -24,6 +24,11 @@ def lev(x, y):
         for j, e in enumerate(y, 1): p, d[j] = d[j], min(d[j] + 1, d[j - 1] + 1, p + (c != e))
     return d[-1]
 def digsim(a, b):
+    if b.endswith("-?"):   # incomplete md token '4-?' : known prefix against the file's first parts; the file must have more parts
+        kn = b[:-2].split("-"); fv = a.split("-")
+        if len(fv) <= len(kn): return 0.0
+        x, y = "-".join(kn), "-".join(fv[:len(kn)])
+        return max(0.0, 1 - lev(x, y) / max(len(x), len(y))) - 0.05
     pa, pb = a.split("-"), b.split("-"); s = "-".join(pa); t = "-".join(pb)
     return max(0.0, 1 - lev(s, t) / max(len(s), len(t))) - (0.15 if len(pa) != len(pb) else 0)
 # reference-type hints: file context (Kannada) vs md text before the numeral
@@ -88,16 +93,22 @@ for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
                 base = parts(tokt)
                 for t in re.findall(r"\d+", tail.group(1)): more.append((st, "-".join(base[:-1] + [t]), None, m))
     segs += more
-    for st, tokt, qq, m in segs:
+    INCT = re.compile(r"(?<![\d\-.])([०-९0-9]+(?:\s*-\s*[०-९0-9]+)*)\s*-\s*\?+")
+    for mi in INCT.finditer(l):
+        if not any(sg[0] <= mi.start() < sg[0] + len(sg[1]) for sg in segs): segs.append((mi.start(), mi.group(0), None, mi, True))
+    segs = [sg if len(sg) == 5 else sg + (False,) for sg in segs]
+    segs.sort(key=lambda sg: sg[0])
+    for st, tokt, qq, m, inc in segs:
         ps = parts(tokt)
-        if len(ps) < 2: continue
+        if inc: ps = ps + ["?"]
+        elif len(ps) < 2: continue
         pre = l[max(0, st - 110): st]; post = l[st + len(tokt): st + len(tokt) + 40]
         try: lat = fold(deva_to_iast(pre + " " + post))
         except Exception: lat = fold(pre + post)
         v = "-".join(ps)
         dup = next((k for k in reversed(mrows[cur][-12:]) if k["val"] == v and n - k["last"] <= 8), None)
         if dup:   # same reference repeated on the IAST twin / English rendering: count once
-            dup["last"] = n; dup["q"] = dup["q"] or bool(m.group(2)); dup["occ"] += 1; continue
+            dup["last"] = n; dup["q"] = dup["q"] or bool(qq); dup["occ"] += 1; continue
         seq += 1
         mrows[cur].append(dict(last=n, occ=1, seq=seq, line=n, printed=printed, val="-".join(ps), q=bool(qq), tok=tokt.strip() + (" [?]" if qq else ""), f=lat))
 def score(f, m):
