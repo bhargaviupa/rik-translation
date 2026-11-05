@@ -33219,6 +33219,81 @@ the performer of pious acts, Indra has given birth to the light of the morning.
 
 वृषभः (*vṛṣabhaḥ*)—कामानां वर्षिता (*kāmānāṃ varṣitā*). The many senses of the word वृषभ (*vṛṣabha*) we have already explained in earlier places, namely at the places printed as six dash five hundred thirty, ten dash three hundred thirty-six, thirteen dash two hundred nineteen, then two hundred fifty-two and four hundred thirty-six, and so on. The sense is that, as rain pours down water abundantly, so Indra pours down desired objects on those who praise him.
 
+### Printed p. 884
+
+*(Header: "884 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 21]", as supplied.)*
+
+दोधतः वधः (*dodhataḥ vadhaḥ*)—दुधिर्हिंसाकर्मा । हिंसकस्यासुरस्य वधो हंता । (*dudhirhiṃsākarmā | hiṃsakasyāsurasya vadho haṃtā |*) The word दुधि (*dudhi*) has the sense of injury. Therefore दोधतः (*dodhataḥ*) means: of the asura who causes injury to people; वधः (*vadhaḥ*) is the slayer, that is, one who kills the asuras.
+
+गंभीरः (*gaṃbhīraḥ*)—महत्वेन गांभीर्योसेतः । (*mahatvena gāṃbhīryosetaḥ |*) (as supplied) One who is profound through his great majesty, that is, one who possesses dignity or venerability.
+
+ऋष्यः (*ṛṣyaḥ*)—महान् यद्वा दर्शनीयः सर्वैः । (*mahān yadvā darśanīyaḥ sarvaiḥ |*) (as supplied) One who is great, or charming; one of beautiful form, worthy of being looked at by all.
+
+असमष्टकाव्यः (*asamaṣṭakāvyaḥ*)—अशू व्याप्तौ । अन्यैरव्याप्तकर्मा । (*aśū vyāptau | anyairavyāptakarmā |*) One who performs great deeds that others cannot accomplish, or who performs great deeds that others cannot even understand.
+
+रध्रचोदः (*radhracodaḥ*)—रथ हिंसासंराद्योः । रध्राणां समृद्धानां प्रेरकः । यद्वा हिंसकानां शत्रूणां चोदकः । (*ratha hiṃsāsaṃrādyoḥ | radhrāṇāṃ samṛddhānāṃ prerakaḥ | yadvā hiṃsakānāṃ śatrūṇāṃ codakaḥ |*) (as supplied) Since the root रथ (*ratha*) (as supplied) has two senses, "do injury" and "bring about prosperity", the word रध्र (*radhra*) means prosperity or an injuring enemy. Therefore the word रध्रचोदः (*radhracodaḥ*) can be given two kinds of meaning: the impeller to prosperity in wealth and the like, that is, one who produces such prosperity; or one who injures enemies.
+
+श्नथनः (*śnathanaḥ*)—शत्रूणां बलापहारेण शातयिता । (*śatrūṇāṃ balāpahāreṇa śātayitā |*) Because he diminishes (makes less) the strength of enemies, or carries it off, and so makes them fall down, Indra has the epithet श्नथनः (*śnathanaḥ*).
+
+वीळितः (*vīḷitaḥ*)—दृढांगः । (*dṛḍhāṃgaḥ |*) One with firm limbs; one of great strength.
+
+पृथुः (*pṛthuḥ*)—स्वतेजसा जगद्वाप्य वर्तमानः । (*svatejasā jagadvāpya vartamānaḥ |*) One who exists pervading the whole world by his own splendour or his own power, that is, who keeps the whole world under his control.
+
+सुयज्ञः (*suyajñaḥ*)—सुकर्मा । (*sukarmā |*) One of excellent deeds, that is, one who performs superior or auspicious acts. There is a Nirukta statement that the word यज्ञ (*yajña*) means "work" (Ni. 8-8).
+
+इंद्रः उषसः स्वः जनत् (*iṃdraḥ uṣasaḥ svaḥ janat*)—एतादृश इंद्र उषसः स्वः सूर्यं ज्योतिः । स्वः सूर्य इति हि ब्राह्मणं सूर्यं च जनत् । प्रादुश्चकार । (*etādṛśa iṃdra uṣasaḥ svaḥ sūryaṃ jyotiḥ | svaḥ sūrya iti hi brāhmaṇaṃ sūryaṃ ca janat | prāduścakāra |*) Indra, endowed with such qualities, created the radiance of the dawn, or the dawn, and also the sun. The bhāṣyakāra has cited a Brāhmaṇa passage in which the word स्वः (*svaḥ*) has the sense of the sun.
+
+### Printed p. 885
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 27] Ṛgveda Saṃhitā 885", as supplied.)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> य॒ज्ञेन॑ गा॒तुम॒प्पुरो॑ विविद्रिरे॒ धियो॑ हिन्वा॒ना उ॒तिजो॑ मनी॒षिणः॑ ।
+> अ॒भि॒स्वरा॑ नि॒षदा॒ गा अ॑व॒स्यव॒ इन्दे॑ हिन्वा॒ना द्रवि॑णान्याशत ॥५॥
+
+**॥ पदपाठः ॥**
+
+> यज्ञेन । गातुं । अप्तुरः । विविद्रिरे। धियः । हिन्वानाः । उशिजः । मनीषिणः ।
+> अभिस्वरा । निसदा । गाः । अवस्यवः । इन्वे । हिन्वानाः । द्रविणानि । आशते ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> धियो हिन्वानाः स्तुतीरिंद्रे प्रेरयंत उशिज इंद्रं कामयमाना मनी-
+> षिणो मेधाविनोऽंगिरसोऽपुरोऽपां प्रेरकादिंद्राद्धातुं गवां मार्गं
+> यज्ञेन तपसा विविद्रिरे । लेभिरे । ततोऽवस्यवो रक्षणमिच्छंत इंद्रे गाः स्तुती-
+> र्हिन्वानाः ॥ हि गतिवृद्ध्योऽस्वादिः ॥ प्रेरयंतस्तेऽंगिरसोऽभिस्वरा अभितः स्वरः
+> स्मरणं शब्दनं यस्य तेन स्तोत्रेण निषदोपसदेन च द्रविणानि गोधनान्याशत ।
+> प्राप्नु वन् ॥ अश्नोऽतेर्लुजु बहुलं छंदसीति विकरणस्य लुक् ॥
+
+*Gist: The Aṅgirases, urging praises on Indra, found the cows' path from him by sacrifice, and by chanting and worship obtained cow-wealth.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+धियः (*dhiyaḥ*)—praises; हिन्वानाः (*hinvānāḥ*)—those who offer them to Indra; उशिजः (*uśijaḥ*)—those who desire Indra's help; मनीषिणः (*manīṣiṇaḥ*)—and who are wise, the Aṅgirases; अप्पुरः (*appuraḥ*) (as supplied)—from Indra, the source of water; गातुं (*gātuṃ*)—the path (of the cows); यज्ञेन (*yajñena*)—by means of austerity; विविद्रिरे (*vividrire*)—found; अवस्यवः (*avasyavaḥ*)—desiring protection; इंद्रे (*iṃdre*)—in Indra; गाः (*gāḥ*)—praises; हिन्वानाः (*hinvānāḥ*)—the Aṅgirasa sages who offer; अभिस्वरा (*abhisvarā*)—by the recitation of resounding hymns; निषदा (*niṣadā*)—and by acts of worship; द्रविणानि (*draviṇāni*)—cow-wealth; आशत (*āśata*)—obtained.
+
+**भावार्थ (Bhāvārtha)**
+
+The Aṅgirases, who offer praises to Indra, desire his help and are wise, found by austerity the path of the cows from Indra, the source of water. Desiring protection, the Aṅgirasa sages who offer praises to Indra obtained wealth in the form of cows, by the recitation of resounding hymns and by acts of worship.
+
+### Printed p. 886
+
+*(Header: "886 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 21]", as supplied.)*
+
+**Printed English translation**
+
+The wise Usijas, celebrating his praises, have obtained by their sacrifice, from the sender of water,(knowledge) of the path(of their cattle): seeking the aid of Indra, and celebrating his praises, they have acquired, wblist [sic] uttering hymns and offering adoration,(valuable) treasures.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+धियः हिन्वानाः उशिजः मनीषिणः अप्पुरः गातुं यज्ञेन विविद्रिरे (*dhiyaḥ hinvānāḥ uśijaḥ manīṣiṇaḥ appuraḥ gātuṃ yajñena vividrire*)—The Aṅgirasa sages, who offer praises to Indra, desire his help and are wise, searching by the power of the sacrificial rites they had performed for their stolen cows, found that path with Indra's help. In former times Vala and his helpers the Paṇis had carried off the cows of the Aṅgirasa sages and hidden them in a secret place, that is, in mountain caves. To search for them Indra sent Saramā, the divine bitch. Having travelled a great distance and crossed the very deep river called Rasā, she went to the place where the Paṇis were and, speaking on Indra's behalf, told them to hand over the stolen cows; they scorned her words. Meanwhile the Aṅgirasa sages, by the power of the sacrifices they had performed, found with Indra's help the place where the stolen cows were hidden. This matter has been explained many times before, and it is described also in Ṛ. Saṃ. 10-108. Although the word Aṅgirā does not occur in the present Ṛk, since it speaks of finding the stolen cows it should be understood that the Aṅgirasa sages are the ones indicated here.
+
+अभिस्वरा निषदा अवस्यवः इंद्रे गा: हिन्वानाः द्रविणानि आशत (*abhisvarā niṣadā avasyavaḥ iṃdre gā: hinvānāḥ draviṇāni āśata*)—ततो अवस्यवो रक्षणमिच्छंत इंद्रे स्तुतीः हिन्वानाः प्रेरयंतोऽज्जिरसोऽभिस्वरा अभितः स्वरणं शब्दनं यस्य तेन स्तोत्रेण निषदोपसदेन च द्रविणानि गोधनान्याशत प्राप्नु वन् । (*tato avasyavo rakṣaṇamicchaṃta iṃdre stutīḥ hinvānāḥ prerayaṃto 'jjiraso 'bhisvarā abhitaḥ svaraṇaṃ śabdanaṃ yasya tena stotreṇa niṣadopasadena ca draviṇāni godhanānyāśata prāpnu van |*) (as supplied; अज्जिरसो (*ajjiraso*) for the Aṅgirasas) The sense is: after they had found the place where the cows were, those Aṅgirasa sages praised Indra with hymns in the form of song and got back the wealth in the form of cows, that is, the cows that had been lost.
+
+अभिस्वरा (*abhisvarā*)—अभितः स्वरः स्वरणं शब्दनं यस्य तेन स्तोत्रेण (*abhitaḥ svaraḥ svaraṇaṃ śabdanaṃ yasya tena stotreṇa*)—standing facing him and reciting the mantras with sound, that is, by praising; this is the sense.
+
 ---
 
-**Progress note:** Done through printed p. 883 (PDF 883). Sukta 21 Rk 3 Special Topics completed; Rk 4 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English; Special Topics begun (two items)
+**Progress note:** Done through printed p. 886 (PDF 886). Sukta 21 Rk 4 Special Topics completed; Rk 5 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English; Special Topics begun (2 items)
