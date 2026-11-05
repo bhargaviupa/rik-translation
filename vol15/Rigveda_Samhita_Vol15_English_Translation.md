@@ -16659,6 +16659,113 @@ The great Agni increases on the broad unbounded (firmament), for the waters supp
 
 जामिनां—जामिशब्दवु उदकनामगळल्लियू पठितवागिदॆ (*jāmināṃ—jāmiśabdavu udakanāmagaḷalliyū paṭhitavāgidè*) (Ni. 2-24). But here they explain the word जामिनां (*jāmināṃ*) as भगिनीस्थानीयानां (*bhaginīsthānīyānāṃ*), of those who stand in the place of sisters. Yāska in his Nirukta—
 
+### Printed p. 527
+
+*[Running head, p. 527: Aṣṭaka 2, Adhyāya 8, Varga 15, Ṛgvedasaṃhitā.]*
+
+⟦ನ ಜಾಮಯೇ ಭಗಿನ್ಯೈ । ಜಾಮಿರನ್ಯೇಽಸ್ಯಾಂ ಜನಯಂತಿ ಜಾಮಪತ್ಯಂ ಜಮಶೀರ್ವಾ
+ಸ್ಯಾದ್ಗತಿಕರ್ಮಣೋ ನಿರ್ಗಮನಪ್ರಾಯಾ ಭವತಿ ॥⟧
+(2-3-7 as printed)
+
+That is, the word जामि (*jāmi*) means sister. Because in this woman others (the husband) beget sons, she is called जामि (*jāmi*). Or, since the word जामि (*jāmi*) is formed from the root जमति (*jamati*) of motion, because after marriage this woman leaves the house where she was born and goes to her husband's house, a sister is called जामि (*jāmi*): so the etymology is given. In this Ṛk either meaning, sister or water, may be given. How did the waters become Agni's sisters? Since the place of origin of both Agni and the waters is the atmosphere, the waters or rivers are described here as Agni's sisters.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> अ॒क्रो न ब॒भ्रिः स॑मि॒थे म॒हीनां॑ दिदृ॒क्षेयः॑ सू॒नवे॒ भाय्॑जीकः ।
+> उदु॒स्रिया॒ जनि॑ता॒ यो ज॒जाना॒पां गर्भो॒ नृत॑मो य॒ह्वो अ॒ग्निः ॥
+
+> *akro na babhriḥ samithe mahīnāṃ didṛkṣeyaḥ sūnave bhāyjīkaḥ |*
+> *udusriyā janitā yo jajānāpāṃ garbho nṛtamo yahvo agniḥ ‖*
+
+*(The Ṛk number ॥ ೧೨ ॥ is missing after the Saṃhitā in the supplied text.)*
+
+**॥ पदपाठः ॥**
+
+> अक्रः । न । बभ्रिः । संइथे । महीनां । दिदृक्षेयः । सूनवे । भाःऋजीकः ।
+> उत् । उस्रियाः । जनिता । यः । जजान । अपां । गर्भः । नृतमः । यह्वः । अग्निः ॥
+
+*(The Pada is printed ಸಂಇಥೇ and ಭಾಃಋಜೀಕಃ, and the closing number is missing, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> जनिता सर्वस्य लोकस्य जनयिता अपामुदकानां गर्भो गर्भरूपो नृतमो
+> नेतृतमोऽतिशयेन मनुष्याणां रक्षिता यहो महान् योऽग्निरक्रः परेषामाक्रमिता परैरनाक्रमणीयो वा ॥ नेति पादपूरणः ॥ समिथे संग्रामे महीनां
+> महतीनां स्वसेनानां बभ्रिर्भर्ता दिदृक्षेयः सर्वैर्दर्शनीयो भायजीकः
+> स्वदीप्त्या प्रकाशमानः सोऽग्निः सूनवे हविषां प्रदात्रे यजमानाय
+> तदर्थमुस्रिया अप उज्जजान । उदजनयत् ॥ सूनवे । षू प्रेरण इत्यस्माद्दातोरौणादिको नुप्रत्ययः ॥
+
+*(Gist: the unassailable Agni, bearer of his great hosts in battle, visible to all, shining by his own light, the generator and embryo of the waters, the best of leaders, produced the waters for the sacrificer who gives oblations. Hyphenated line breaks were joined.)*
+
+### Printed p. 528
+
+*[Running head, p. 528: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Janitā: the creator of all the worlds. Apāṃ: of the waters. Garbhaḥ: the embryo. Nṛtamaḥ: the best of leaders. Yahvaḥ: the great one. Yaḥ agniḥ: the Agni who. Akraḥ: unassailable. Samithe: in battle. Mahīnāṃ: his great hosts. Babhriḥ: the bearer. Didṛkṣeyaḥ: visible to all. Bhāyajīkaḥ: shining by his own light. Saḥ: (that Agni). Sūnave: for the sacrificer who gives the oblation. Usriyāḥ: the waters. Ujjajāna: created.
+
+**भावार्थ (Bhāvārtha)**
+
+The Agni who is the creator of all the worlds, the embryo of the waters, the best of leaders, the great one, who is unassailable, who bears his great hosts in battle, who is visible to all, and who shines by his own light, that Agni created the waters for the sacrificer who gives oblations.
+
+**Printed English translation**
+
+The invincible Agni, the cherisher of the valiant in battle, the seen of all, shining of his own lustre, the generator (of the world), the embryo of the waters, the chief of leaders, the mighty, is he who has begotten the waters for (the benefit of) the offerer of the libation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Agni is described by some epithets and it is said that such an Agni created the waters for the sacrificer who offers oblations. That Agni created the waters means that Agni, in the form of lightning, being in the mass of clouds in the atmosphere, impels those clouds and causes rain to fall for the sacrificer who performs the sacrifice.
+
+अक्रः—परेषामाक्रमिता परैरनाक्रमणीयो वा । (*akraḥ—pareṣāmākramitā parairanākramaṇīyo vā |*) Two kinds of meaning are given: one who assails others, or one who is not to be assailed by others. Agni assails everything and burns it; but the intent stated here is that no other thing can injure Agni.
+
+### Printed p. 529
+
+*[Running head, p. 529: Aṣṭaka 2, Adhyāya 8, Varga 15, Ṛgvedasaṃhitā.]*
+
+समिथे महीनां बभ्रिः— संग्रामे महतीनां स्वसेनानां भर्ता । (*samithe mahīnāṃ babhriḥ— saṃgrāme mahatīnāṃ svasenānāṃ bhartā |*) The word समिथ् (*samith*) is read among the names of battle. Since the part of Agni in battles is not special, as Indra's is, the sense of saying that he is the leader, the chief, of his own hosts is not clear. Besides, Agni's flames are said to be his hosts.
+
+भायुजीकः— (*bhāyujīkaḥ—*) [as supplied; the Saṃhitā and Pada have भाय्जीकः (*bhāyjīkaḥ*) and भाःऋजीकः (*bhāḥṛjīkaḥ*)] on this word Yāska has given the etymology ⟦ಭಾಯುಜೀಕಃ ಪ್ರಸಿದ್ಧಭಾಃ । ಧೂಮಕೇತುಃ ಸಮಿಧಾ
+ಭಾಯುಜೀಕಃ ಇತ್ಯಪಿ ನಿಗಮೋ ಭವತಿ⟧ (Ni. 6-4). The meaning of the word is "famous light"; that is, he shines by his own light, with no help from other lights, and illuminates other things: this is the intent.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> अ॒पां गर्भं॑ दर्श॒तमोष॑धीनां॒ वना॑ जजान सु॒भगा॒ विरू॑पं ।
+> दे॒वास॑श्चि॒न्मन॑सा॒ सं हि ज॒ग्मुः पनि॑ष्ठं जा॒तं त॒वसं॑ दुवस्यन् ॥ १३
+
+> *apāṃ garbhaṃ darśatamoṣadhīnāṃ vanā jajāna subhagā virūpaṃ |*
+> *devāsaścinmanasā saṃ hi jagmuḥ paniṣṭhaṃ jātaṃ tavasaṃ duvasyan ‖ 13*
+
+*(The Saṃhitā is printed with the closing number "೧೩" lacking the final danda; the supplied text had before it a garbled label "॥ ಸಾಹಿತಾಪಾರಃ ॥", kept as a note in kn.md.)*
+
+**॥ पदपाठः ॥**
+
+> अपां । गर्भं । दर्शतं । ओषधीनां । वना । जजान । सुभगा । विरूपं ।
+> देवासः । चित् । मनसा । सं । हि । जग्मुः । पनिष्ठं । जातं । तवसं । दुवस्यन् ॥ १३ ॥
+
+> *apāṃ | garbhaṃ | darśataṃ | oṣadhīnāṃ | vanā | jajāna | subhagā | virūpaṃ |*
+> *devāsaḥ | cit | manasā | saṃ | hi | jagmuḥ | paniṣṭhaṃ | jātaṃ | tavasaṃ | duvasyan ‖ 13 ‖*
+
+*[The supplied text has before the bhāṣya a garbled label "॥ ಸಾಯಣಭಾಸ್ಕ್ಯಂ ॥", kept as a note in kn.md.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> सुभगा सुभाग्या वना सर्वैर्वननीयारणिर्दर्शतं दर्शनीयं विरूपं
+> नानाविधरूपमपामोषधीनां च गर्भमग्निं जजान । अजनयत् । देवासश्चित् सर्वे
+> देवा अपि पनिष्ठं स्तुत्यं तवसं वृद्धं जातं जातमात्रं तमग्निं मनसा स्तुत्या
+> संजग्मुः । उपागच्छन् । हीति पूरणः । त एव दुवस्यन् । पर्यचरन् ॥
+
+*(Gist: the fortunate, desired *araṇi* wood has produced Agni, the beautiful, many-formed embryo of the waters and plants; all the gods, joining him with their minds in praise, served the newly born, praiseworthy, strong Agni.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Subhagā: possessed of good fortune. Vanā: desired by all, the wood (the *araṇi*). Darśataṃ: worthy of sight. Virūpaṃ: of many forms. Apāṃ: of the waters. Oṣadhīnāṃ: of the plants. Garbhaṃ: the embryo, Agni. Jajāna: has produced
+
+*[Stray line in the supplied text: "34", kept as a note in kn.md.]*
+
 ---
 
-**Progress note:** Done through printed p. 526 (PDF 526). Sukta 1 (Mandala 3) Rik 10 complete (pp. 523-524); Rik 11 complete through Special Topics (pp. 524-526), ends at 'Yaska in his Nirukta--'. p. 524 merged into p. 523 (misspelled head), marker inserted by hand. Flags: garbled Pada label kept as note; svasmanam/yonsau spellings as supplied; 2 accent DIFF
+**Progress note:** Done through printed p. 529 (PDF 529). Sukta 1 (Mandala 3) Rik 11 Special Topics finished (p. 527); Rik 12 complete (pp. 527-529); Rik 13 Samhita, Pada, bhashya and start of Pratipadartha (p. 529), breaks off mid-entry at 'Jajana'. Flags: Rik 12 closing numbers missing; garbled Samhita and bhashya labels kept as notes; Bhayajikah variants; stray line 34; 2 accent DIFF
