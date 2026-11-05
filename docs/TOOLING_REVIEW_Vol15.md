@@ -56,7 +56,7 @@ Because the agent can zoom, no separate zoom-fix pass is needed for readings it 
 
 **Still to decide (the user answered only the first question)**
 1. ~~Mac API for Vol 15+?~~ **No: Claude Code.**
-2. Kannada text file: build it in the same session as the English (Vol 11 rule), or later?
+2. ~~Kannada text file~~ **Decided (Nov 5): build it in parallel with the English from Vol 15 onwards**, same single viewing of each page. So far only Vol 1 and Vol 11 have one; Vols 12-14 do not. `batch.py` must therefore take a Kannada chunk next to the English chunk and append both (Sanskrit layers by `publish/tools/translit/deva_to_kannada.py`, Kannada prose transcribed by the translator).
 3. Translator model: Opus (2-7 `[?]` places per 6-page batch in the Vol 14 pilot) or Sonnet (5-20, cheaper)?
 4. Pada accents: not covered by the Maṇḍala HTML script; leave the Pada unaccented?
 5. Move the Vol 1-6 tools to `legacy/`, or leave them where they are? They are only needed for the planned back-fill passes.

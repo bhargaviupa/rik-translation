@@ -30,7 +30,8 @@ Translating a 1949 Kannada commentary on the Rigveda (Sāyaṇa's Sanskrit bhā�
 ## Kannada text deliverable (decided Oct 2026)
 A faithful Kannada transcription of each volume (page-marked with printed page numbers, `[?]` where unsure; not a guarantee of "identical"), to serve later Telugu/Hindi translation.
 - **Vol 9 and Vol 10:** continue the current workflow unchanged; no Kannada file yet.
-- **Vol 11 onwards:** build the Kannada file alongside the English, sūkta by sūkta, from the same single viewing of each page, to avoid re-transcribing. Output `Rigveda_Samhita_VolN_Kannada_Text.md`. Sanskrit layers (Saṃhitā, Pada, bhāṣya) may be script-converted from the Devanagari; Kannada prose (Pratipadārtha, Bhāvārtha, Special Topics, closing notes) is transcribed by hand.
+- **Status (Nov 5 2026):** Kannada text files exist for **Vol 1** (`vol1/kannada/`) and **Vol 11** only. Vols 12, 13 and 14 were translated without one (back-fill later, together with their `[?]` pass).
+- **Vol 15 onwards (user decision, Nov 5 2026): build the Kannada file in parallel with the English**, sūkta by sūkta, from the same single viewing of each page, to avoid re-transcribing. Output `Rigveda_Samhita_VolN_Kannada_Text.md`. Sanskrit layers (Saṃhitā, Pada, bhāṣya) may be script-converted from the Devanagari; Kannada prose (Pratipadārtha, Bhāvārtha, Special Topics, closing notes) is transcribed by hand.
 - **Vols 1–10:** one combined back-fill pass per volume: resolve every `[?]` in the English file and create the Kannada file in the same pass, so each page is re-read once. Needs the user's answers for `[?]` readings; Vols 1–7 files stay closed until that pass is agreed.
 
 ## Open items (not blockers)
