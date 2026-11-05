@@ -9126,6 +9126,117 @@ O Indra, the Soma pressed for you is joined with the products of the cow, such a
 
 (The libation) that is being presented, Indra, to you, comprises the (products of the) cow, and the (consecrated) water ; and the leaders (of the rite) have expressed it with stones, and strained it through woollen (filters) : Indra, you are the first (of the gods), and rule (over the world), drink the Soma offered [printed "off ered"] by the Hotri, and sanctificed [sic] bythe [sic] exclamations Swaha and Vashat.
 
+### Printed p. 291
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 25, p. 291 (the Kannada text prints the first abbreviation as "ಅ." as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+गाः—गोविकाराणि दधिपयःप्रभृतीनि श्रयणद्रव्याणि (*gāḥ—govikārāṇi dadhipayaḥprabhṛtīni śrayaṇadravyāṇi*). Here the word *go* is explained as the substances connected with the cow, such as milk and curds, which are mixed with the Soma juice; and अपः—वसतीवर्याख्या अपश्च (*apaḥ—vasatīvaryākhyā apaśca*): the word *ap* is used in the sense of the waters called Vasatīvarī. Having thus explained the meaning, the commentary describes the Soma juice pressed for Indra as joined with curds, ghee, milk and the like, products of the cow, and with the waters called Vasatīvarī.
+
+नरः—यज्ञस्य नेतारो अध्वर्यवश्च (*naraḥ—yajñasya netāro adhvaryavaśca*). The word *nara* is stated by Yāska among the names of men (Ni. 3-7, as printed "ಸಿ.೩-೭"). Sāyaṇa explains this word as the sacrificers who perform the sacrifice and the priests such as the Adhvaryu; and for सीं अविभिः अद्रिभिः अधुक्षन्—ग्रावभिः अभिष्टुत्य दशापवित्रेण पुनंति (*sīṃ avibhiḥ adribhiḥ adhukṣan—grāvabhiḥ abhiṣṭutya daśāpavitreṇa punaṃti*) he says that the sacrificers and the priests have prepared this Soma by crushing it with stones, pressing out the juice and purifying it with the ten-fold filters.
+
+Addressing Indra, the commentary describes this Indra as lord of all; प्रथमः—अन्येभ्यो देवेभ्यः पूर्वभावी र्स (*prathamaḥ—anyebhyo devebhyaḥ pūrvabhāvī rsa*) [sic as supplied: र्स (*rsa*) for *san*]: coming to the sacrifice before the other gods, may he drink in full the Soma offered in the fire for Indra with the words Vaṣaṭkāra and Svāhā.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> य॒ज्ञैः संमि॑श्लाः॒ पृष॑तीभिर्यु॒ष्टिभि॒र्याम॑ञ्भु॒भ्रासो॑ अं॒जिषु॒॒॑
+> प्रिया उत ।
+> आ॒सद्या॑ ब॒र्हिर्भ॑रतस्य सूनवः पो॒त्रादा सोमं॑ पिबता दिवो
+> नरः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> यज्ञैः । संमिश्लाः । पृषतीभिः । ऋष्टिभिः । यामन् । शुभ्रासः । अंजिषु । प्रियाः ।
+> उत ।
+> आसद्य । बर्हिः । भरतस्य । सूनवः । पोत्रात् । आ । सोमं । पिबत । दिवः । नरः ॥२॥
+
+> *yajñaiḥ | saṃmiślāḥ | pṛṣatībhiḥ | ṛṣṭibhiḥ | yāman | śubhrāsaḥ | aṃjiṣu | priyāḥ |*
+> *uta |*
+> *āsadya | barhiḥ | bharatasya | sūnavaḥ | potrāt | ā | somaṃ | pibata | divaḥ | naraḥ ‖2‖*
+
+### Printed p. 292
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 36, p. 292.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतो यज्ञैर्याग्यैः संमिश्लाः संयुक्ताः पृषतीभिः स्ववाहनभूताभिः
+> पृषद्वतीभिर्वडवाभियुक्ते यामन् यामनि गमनसाधने रथेऽवस्थिता ऋष्टिभिः
+> स्वकीयैरायुध्यैः शुभ्रासः शुभ्राः शोभमानाः । उतशब्दश्चार्थे । अंजिष्वाभरणेषु
+> प्रियाश्च हे भरतस्य सूनवः सर्वस्य जगतो भर्तू रुद्रस्य पुत्रा दिवो नरो
+> दिवोंतरिक्षस्य नेतारः एवंभूता हे मरुतः ते यूयं बर्हिरास्तीर्णे बर्हिष्या-
+> सद्योपविश्य पोत्रात् पोतुर्यागात् सोममापिबत ॥
+
+*Gist: O Maruts, joined together in sacrifices, riding the car of spotted mares, bright with spears, dear in ornaments, sons of Rudra and leaders of the sky, sit on the grass and drink the Soma from the Potṛ.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यज्ञैः (*yajñaiḥ*)—by the sacrifices. संमिश्लाः (*saṃmiślāḥ*)—those who are worshipped together. पृषतीभिः (*pṛṣatībhiḥ*)—with the mares called Pṛṣadvatī (yoked). यामन् (*yāman*)—those seated in the car. ऋष्टिभिः (*ṛṣṭibhiḥ*)—with weapons. शुभ्रासः (*śubhrāsaḥ*)—those who shine. अंजिषु (*aṃjiṣu*)—in ornaments. प्रियाः (*priyāḥ*)—those who are fond. भरतस्य (*bharatasya*)—of Rudra, the supporter of the world. सूनवः (*sūnavaḥ*)—sons. दिवः (*divaḥ*)—of the firmament. नरः (*naraḥ*)—leaders; O Maruts such as these. बर्हिः (*barhiḥ*)—upon the spread seat of darbha grass. आ सद्य (*ā sadya*)—having sat down. पोत्रात् (*potrāt*)—offered by the Potṛ. सोमं (*somaṃ*)—the Soma. आ पिबत (*ā pibata*)—drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts, who are worshipped together in the sacrifices, who sit in the car yoked with mares called Pṛṣadvatī, who shine with weapons, who are fond of ornaments, who are sons of Rudra the supporter of the world and leaders of the firmament: sit on the spread seat of darbha grass and drink the Soma juice offered by the Potṛ.
+
+**Printed English**
+
+Maruts, together worshipped with sacrifices, standing in the car drawn by spotted mares, radiant with lances, and delighted by ornaments, sons of Bharata, leaders in the firmament, seated on the sacred grass, drink the Soma presented by the Potri.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the Marut deities are described. These Maruts are पृषतीभिः यामन्—स्ववाहनभूताभिः पृषद्वतीभिर्वडवाभिः युक्ते गमनसाधने रथे अवस्थिताः (*pṛṣatībhiḥ yāman—svavāhanabhūtābhiḥ pṛṣadvatībhirvaḍavābhiḥ yukte gamanasādhane rathe avasthitāḥ*): that is, seated in cars to which are yoked their own mounts, horses with white spots, as the means of travelling about,
+
+### Printed p. 293
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 25, p. 293 (the Kannada text prints the first abbreviation as "ಅ." as supplied).*
+
+and ऋष्टिभिः शुभ्रासः (*ṛṣṭibhiḥ śubhrāsaḥ*), shining with their weapon famed as the *ṛṣṭi*, a spear; भरतस्य सूनवः—सर्वस्य जगतो भर्तुः रुद्रस्य पुत्राः (*bharatasya sūnavaḥ—sarvasya jagato bhartuḥ rudrasya putrāḥ*): sons of Rudra, the lord of all the worlds. Having so described them, it explains their power: दिवो नरः—अंतरिक्षस्य नेतारः (*divo naraḥ—aṃtarikṣasya netāraḥ*), leaders of the firmament, that is, rulers of the sky; and it says of them, पोत्रात् सोममापिबत (*potrāt somamāpibata*) (as supplied), may they drink the Soma offered by the priest called Potṛ (printed प्रोतृ (*protṛ*)).
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अ॒मेव॑ नः सुहवा॒ आ हि गंत॑न॒ नि ब॒र्हिषि॑ सदतना॒ रणि॑ष्टन ।
+> अथा॑ मंदस्व जुजुषा॒णो अंध॑स॒स्त्वष्ट॑र्दे॒वेभि॒र्जनि॑भिः सु॒म-॑
+> द्दणः ॥ ३ ॥
+
+> *ameva naḥ suhavā ā hi gaṃtana ni barhiṣi sadatanā raṇiṣṭana |*
+> *athā maṃdasva jujuṣāṇo aṃdhasastvaṣṭardevebhirjanibhiḥ suma-*
+> *ddaṇaḥ ‖ 3 ‖*
+
+*॥ ಚತುರ್ಥ ॥ (as supplied)*
+
+**॥ पदपाठः ॥**
+
+> अमाइव । नः । सुहवाः । आ । हि । गंतन । नि । बर्हिषि । सदतन । रणिष्टन ।
+> अथ । मंदस्व । जुजुषाणः । अंधसः । त्वष्टः । देवेभिः । जनिभिः । सुमत्स्‌गणः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तृतीयसवनेऽमेव न इत्येषा नेष्टुः प्रस्थितयाज्या च । तथा च सूत्रितं ।
+> अमेव नः सुहवा आ हि गंतनेंद्राविष्णू पिबतं मध्वो अस्य । आ. ५-५. । इति ॥
+> इवशब्दोऽवधारणे । हे सुहवाः शोभनाह्वानास्त्वष्टप्रभृतयो नोऽस्मा-
+> न् अमेव सहैवागंतन । आगच्छत ॥ गमेश्छांदसः शपो लुक् । तप्तनप्तनथनाश्चति
+> तनबादेशः । हिशब्दः पूरणः ॥ अगत्य च बर्हिषि वेद्यामास्तीर्णे निषदतन । निषण्णा
+> भवत ॥ सदेश्छांदसः सीदादेशाभावः ॥ उपविश्य च रणिष्टन । रमध्वं ॥ रण शब्दार्थः ।
+> अत्र क्रीडायां वर्तते धातूनामनेकार्थत्वात् । अस्माच्छांदसो लुज् । पूर्व-
+> वत्तनबादेशः ॥ अथानंतरं हे त्वष्टः देवेभिरनैर्देवैर्जनिभिर्देवपत्निभिश्च
+> सुमद्गणः शोभनगणस्त्वमंधसः सोमलक्षणस्यान्नस्य ॥ द्वितीयार्थे षष्ठी ॥
+> सोमलक्षणमन्नं जुजुषाणः सेवमानो मंदस्व । तृप्तो भव ॥
+
+> *tṛtīyasavane 'meva na ityeṣā neṣṭuḥ prasthitayājyā ca | tathā ca sūtritaṃ |*
+> *ameva naḥ suhavā ā hi gaṃtaneṃdrāviṣṇū pibataṃ madhvo asya | ā. 5-5. | iti ‖*
+> *ivaśabdo 'vadhāraṇe | he suhavāḥ śobhanāhvānāstvaṣṭaprabhṛtayo no 'smā-*
+> *n ameva sahaivāgaṃtana | āgacchata ‖ gameśchāṃdasaḥ śapo luk | taptanaptanathanāścati*
+> *tanabādeśaḥ | hiśabdaḥ pūraṇaḥ ‖ agatya ca barhiṣi vedyāmāstīrṇe niṣadatana | niṣaṇṇā*
+> *bhavata ‖ sadeśchāṃdasaḥ sīdādeśābhāvaḥ ‖ upaviśya ca raṇiṣṭana | ramadhvaṃ ‖ raṇa śabdārthaḥ |*
+> *atra krīḍāyāṃ vartate dhātūnāmanekārthatvāt | asmācchāṃdaso luj | pūrva-*
+> *vattanabādeśaḥ ‖ athānaṃtaraṃ he tvaṣṭaḥ devebhiranairdevairjanibhirdevapatnibhiśca*
+> *sumadgaṇaḥ śobhanagaṇastvamaṃdhasaḥ somalakṣaṇasyānnasya ‖ dvitīyārthe ṣaṣṭhī ‖*
+> *somalakṣaṇamannaṃ jujuṣāṇaḥ sevamāno maṃdasva | tṛpto bhava ‖*
+
 ---
 
-**Progress note:** Done through printed p. 290 (PDF 290). Sūkta 35 closed (Special Topics of Ṛk 15 continued, p. 288); Sūkta 36 intro, Anuvāda, Ṛk 1 complete (p. 290); kn.md fixes: sūkta intro Sanskrit made a > block, stray '19' line removed; OCR slips kept: ವಸಿಷ್ಟ!!, ಆವಿಭಿಃ spelling; stray ೫ marks around the metre line; accent DIFF 2, 1 line unmatched
+**Progress note:** Done through printed p. 293 (PDF 293). Sūkta 36 Ṛk 1 Special Topics, Ṛk 2 complete (p. 292-293), Ṛk 3 Saṃhitā/Pada and bhāṣya begun (continues); kn.md fixes: stray image line removed, Saṃhitā/Pada split with varga marker kept as italic note, Bhāvārtha label replaced; OCR slips kept: ರ್ಸ, ಸಿ.೩-೭ (Ni.), ಪ್ರೋತೃ, ಸುಮತ್ಸ್‌ಗಣಃ; accent DIFF 3, 3 lines unmatched
