@@ -314,6 +314,91 @@ Number of ṛks in the Sūkta: 16 ·
 
 O Bṛhaspati, you who are lord of the whole world, accept the praise recited by us and excellently composed. With this new and great word of praise we serve you. O lord (printed "ಒಡನೆಯೇ", sic) of mantras, as the praiser among us praises you, accordingly fulfil our desired object.
 
+### Printed p. 12
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24, p. 12.*
+
+**Printed English translation**
+
+Inasmuch, Brihaspati, as you rule (over all), accept this our propitiation : we worship you with this new and solemn hymn : since this, your friend, our benefactor, celebrates you, fulfil our desires.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सः इमां (*saḥ imāṃ*)—Here the two words सः इमां (*saḥ imāṃ*) have joined, and instead of स इमां (*sa imāṃ*) the form is सेमां (*semāṃ*); that is, the visarga after the *sa* has been dropped. Likewise, in this same mantra the words सः उत (*saḥ uta*) have joined to become सोत (*sota*). Such examples are many in the Ṛgveda.
+
+सेदग्ने अस्तु सुभगः सदानुर्यस्त्वा नित्येन हविषा य उक्षैः । (*sedagne astu subhagaḥ sadānuryastvā nityena haviṣā ya ukṣaiḥ |*) (Pu. Saṃ. 4-4-7; reference as supplied; no gloss is given in the source)
+
+सेद्यभवो यमवध यूयमिंद्रश्च मर्त्यं । (*sedyabhavo yamavadha yūyamiṃdraśca martyaṃ |*) (Pu. Saṃ. 4-37-6; reference as supplied; no gloss is given in the source)
+
+In these verses (printed "ಮಕ್ಕಳಲ್ಲಿ", "in these children", sic as supplied) the words सः इत् (*saḥ it*) have joined to become सेत् (*set*).
+
+सैनानीकेन गुविदत्रो अस्मे यष्टा देवा आयुजिष्ठः स्वस्ति । (*sainānīkena guvidatro asme yaṣṭā devā āyujiṣṭhaḥ svasti |*) (Ma. Saṃ. 2-9-6; reference as supplied; no gloss is given in the source)
+
+In this ṛk the words सः एना (*saḥ enā*) have joined to become सैना (*sainā*). Since such usages do not accord with grammar, it is customary to call them Vedic (*chāndasa*) usages.
+
+प्रभृतिं (*prabhṛtiṃ*)—प्रकर्षण बृतां स्तुतिं (*prakarṣaṇa bṛtāṃ stutiṃ*): the praise that we bear (hold), that is, make, in a very excellent manner. The word is formed from the root भृञ् भरणे (*bhṛñ bharaṇe*) preceded by the prefix प्र (*pra*). In the Ṛgveda this root is commonly used in the sense of praising in a special manner. Therefore the commentator explains the word *prabhṛti* as praise made in a special manner.
+
+ईशिषे (*īśiṣe*)—सर्वस्य जगत ईश्वरो भवसि (*sarvasya jagata īśvaro bhavasi*): "you are the lord of the whole world", is the commentator's explanation. That is, all the gods, human beings, animals and the plant kingdom are under his control; therefore it is natural to say that you are the master of all. This idea is stated in such ṛks as Ṛ. Saṃ. 2-24-11; 4-50-1; 10-68-10; 10-97-15
+
+### Printed p. 13
+
+*Running head: [8. 2. 8. 7. 1.] Ṛgveda-saṃhitā, p. 13 (as supplied).*
+
+and so on. Since the word *bṛhaspati* means lord of the mantras, Bṛhaspati accomplishes all his works through mantras alone: splitting the clouds, sending rain, driving away darkness, destroying enemies, and so on, he does by mantras only. Therefore the Ṛgveda has the very sentence बृहस्पतिर्हंत्यमित्रमर्कॆः (*bṛhaspatirhaṃtyamitramarkèḥ*) (Bṛhaspati destroys the enemy by the power of mantra alone).
+
+अया (*ayā*)—अनया (*anayā*). The *n* of the word अनया (*anayā*) has been dropped, giving आया (*āyā*) [sic as supplied]. This is a Vedic usage.
+
+अया नवया महा गिरा विधेम (*ayā navayā mahā girā vidhema*)—अनया नूतनया महत्या वेदरूपया स्तुतिलक्षणया वाचा परिचरेम (*anayā nūtanayā mahatyā vedarūpayā stutilakṣaṇayā vācā paricarema*): "we serve with this new, great word in the form of the Veda, having the nature of praise". The sense is: O Bṛhaspati, the praise we are now making is newly composed by us, that is, not seen (revealed) by earlier ṛṣis; and it is such as extols your qualities, which are महत्तूरितवाद (*mahattūritavāda*) [?] (the supplied word is unclear). With such praise-sentences in the form of the Veda we praise you.
+
+मीढ्वान् (*mīḍhvān*)—सेक्ता स्तुतेर्वषिता (*sektā stutervaṣitā*). Although the word *mīḍhvān* is used of Indra and other gods in the sense कामानां वर्षिता (*kāmānāṃ varṣitā*), "one who showers desired objects", here it is used as an epithet of the sacrificer who praises. "One who showers praise" means the sacrificer who praises Bṛhaspati in a special manner.
+
+तव सखा (*tava sakhā*)—मित्रभूतः (*mitrabhūtaḥ*): one who does good like a friend. Bṛhaspati is one who does favour, like a friend, to the sacrificer who praises him. That doing good or favour is the chief quality of a friend is stated by a Vedic sentence itself: न स सखा यो न ददाति सख्ये (*na sa sakhā yo na dadāti sakhye*) (Ṛ. Saṃ. 10-117-4): the man who gives nothing to his friend, that is, who does not help in time of trouble, is no friend at all. Here, because Bṛhaspati gives desired objects to the sacrificer who praises him, he is praised with the word *sakhā* (friend):
+
+यो रेवान् यो अमीवहा वसुवित्सुष्टिवर्धनः । (*yo revān yo amīvahā vasuvitsuṣṭivardhanaḥ |*)
+स नः सिषक्तु यस्तुरः ॥ (*sa naḥ siṣaktu yasturaḥ ‖*)
+(Ma. 1-18-2)
+
+That is, Bṛhaspati is the giver of wealth, nourishment and riches to him who praises him, and the remover of disease and affliction. Such a Bṛhaspati comes quickly to give desired objects to the sacrificer who praises him.
+
+### Printed p. 14
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24, p. 14.*
+
+एवा पित्रे विश्वदेवाय वृष्टे यज्ञैर्विधेम नमसा हविर्भिः । (*evā pitre viśvadevāya vṛṣṭe yajñairvidhema namasā havirbhiḥ |*)
+बृहस्पते सुप्रजा वीरवंतो वयं स्याम पशयो रयाणां ॥ (*bṛhaspate suprajā vīravaṃto vayaṃ syāma paśayo rayāṇāṃ ‖*)
+(Pu. Saṃ. 4-50-7)
+
+That is: Bṛhaspati, who is like a father because he protects us, who is to be praised by all, and who grants desired objects, we serve with sacrificial rites, with offerings of oblations and with praise-sentences. O Bṛhaspati, grant that we may obtain heroic sons, grandsons and so on, and become lords of wealth and other goods. Since in many ṛks of this kind it is said that sacrificers obtain wealth and the rest by praising Bṛhaspati, he is described and praised here as a friend who does favours.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यो नन्त्वा॒न्यन॑म॒न्नो ज॑सो॒ताद॑र्दर्म॒न्युना॒ शंब॑राणि॒ वि ।
+> प्राच्या॑वय॒दच्यु॑ता॒ ब्रह्म॑ण॒स्पति॒रा चावि॑श॒द्वसु॑मंतं॒ वि पर्व॑तं ॥
+
+**॥ पदपाठः ॥**
+
+> यॆः । नन्न्तानि । अनमत् । नि । ओजसा । उत । आदर्दः । मन्युना । शंबराणि । वि ।
+> प्र । अच्यवयत् । अच्युता । ब्रह्मणः । पतिः । आ । च । अविशत् । वसुमंतं । वि ।
+> पर्वतं ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यो ब्रह्मणस्पतिर्नंत्यानि नमनीयानि राक्षसादीन्योजसा बलेन न्यनमत् ।
+> नितरामनमयत् प्रह्वीभूतान्यकरोत् । उत अपि च स ब्रह्मणस्पतिर्मन्युना मनुना
+> क्रोधेन वा ॥ मन्युर्मन्यतेर्दिप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा ।
+> नि. १०-२९ । इति यास्कः ॥ शंबराणि ॥ मेघनामैतत् ॥ मेघान् व्यदर्दः ।
+> वर्षणार्थं विदारितवान् ॥ द्वै विदारण इत्यस्माद्यजलुगंताल्लज्येतद्रूपं ॥ तदनंतर-
+> मच्युता अच्युतानि नैश्चल्येन मेघॆऽवस्थितान्युदकानि प्राच्यावयत् प्रकर्षेणागम-
+
+> *yo brahmaṇaspatirnaṃtyāni namanīyāni rākṣasādīnyojasā balena nyanamat |*
+> *nitarāmanamayat prahvībhūtānyakarot | uta api ca sa brahmaṇaspatirmanyunā manunā*
+> *krodhena vā ‖ manyurmanyaterdiptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo vā |*
+> *ni. 10-29 | iti yāskaḥ ‖ śaṃbarāṇi ‖ meghanāmaitat ‖ meghān vyadardaḥ |*
+> *varṣaṇārthaṃ vidāritavān ‖ dvai vidāraṇa ityasmādyajalugaṃtāllajyetadrūpaṃ ‖ tadanaṃtara-*
+> *macyutā acyutāni naiścalyena meghè 'vasthitānyudakāni prācyāvayat prakarṣeṇāgama-*
+
 ---
 
-**Progress note:** Done through printed p. 11 (PDF 11). Pīṭhike Agni/Bṛhaspati examples end; Sūkta 24 intro, Ṛk 1 (Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha; printed English not yet reached). Hand-added > blocks for 2 prose Ṛks and the Sanskrit sūkta intro on p. 9; split pratipadārtha out of the bhāṣya block and replaced its garbled label 'ಪ್ರತಿಪವಾರ್ಧ' by the standard one; stray '॥ ದಶರಾತ್ರಿ ॥' line in the Pada block kept as supplied; ref '10-68' on p. 9 printed broken, then 10-68-9; accent script: 2 DIFF, 1 NOMATCH line. No [?].
+**Progress note:** Done through printed p. 14 (PDF 14). Sūkta 24: printed English of Ṛk 1, Special Topics on Ṛk 1 (pp. 12–14), Ṛk 2 Saṃhitā, Pada and start of bhāṣya (bhāṣya breaks off mid-sentence at end of p. 14). Doubt: ಮಹತ್ತೂರಿತವಾದ (p. 13) [?]; supplied-text oddities kept: 'ಮಕ್ಕಳಲ್ಲಿ' p. 12, 'ಬೃಹಸ್ಪತಿರ್ಹಂತ್ಯಮಿತ್ರಮರ್ಕೆಃ', 'ಪಶಯೋ'; Pada 'ಯೆಃ ನನ್ನ್ತಾನಿ' vs Saṃhitā; sources cite 'ಪು. ಸಂ.' as supplied. No hand fixes to kn.md.
