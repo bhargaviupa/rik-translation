@@ -22641,6 +22641,91 @@ Here it is proper to call Sarasvatī the goddess of speech.
 
 *[The window ends here, at the end of p. 732; the next window continues.]*
 
+### Printed p. 733
+
+*[Running head, p. 733: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> तन्न॑ स्तु॒रीप॒मध॑ पोषयि॒त्नु देव॑ त्वष्ट॒र्वि र॑रा॒णः स्य॑स्व ।
+> यतो॑ वी॒रः क॑र्म॒ण्यः॑ सु॒दक्षो॑ यु॒क्तग्रा॑वा॒ जाय॑ते दे॒वका॑मः ॥
+
+*(The Ṛk number is not printed after the Saṃhitā, as supplied.)*
+
+**॥ पदपाठः ॥**
+
+> तत् । नः । तुरीपं । अध । पोषयित्नु । देव । त्वष्टः । वि । रराणः । स्यस्वति स्यस्व ।
+> यतः । वीरः । कर्मण्यः । सुदक्षः । युक्तग्रावा । जायते । देवकामः ॥ ९ ॥
+
+> *tat | naḥ | turīpaṃ | adha | poṣayitnu | deva | tvaṣṭaḥ | vi | rarāṇaḥ | syasvati syasva |*
+> *yataḥ | vīraḥ | karmaṇyaḥ | sudakṣaḥ | yuktagrāvā | jāyate | devakāmaḥ ‖ 9 ‖*
+
+*(In the Pada the word स्यस्वति स्यस्व (*syasvati syasva*) is printed so, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देव त्वष्टः सृष्टिकर्तः रराणो रममाणस्त्वमध अनंतरं नोऽस्मान्
+> तुरीपं तारकं पोषयितु पोषकं तत्प्रसिद्धं रेतो विष्यस्व । मोचय । यतो
+> विमोचनाद्दीरः सत्त्ववान् कर्मण्यः कर्मसु कुशलः सुदक्षः सुबलो युक्तग्रावाभिषवार्थग्रावयुक्तः सोमसुदित्यर्थः । देवकामो देवान् कामयमानः
+> पुत्रो जायते । जायेत ॥
+
+*(Gist: O creator Tvaṣṭṛ, delighting, release for us that protecting, nourishing seed whence a son, able in rites, strong, with pressing-stones and devoted to the gods, may be born.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Deva: O one of divine nature. Tvaṣṭaḥ: O deity Tvaṣṭṛ. Yataḥ: from the pouring of which seed. Vīraḥ: one with strength. Karmaṇyaḥ: skilled in rites such as sacrifices. Sudakṣaḥ: one with excellent strength. Yuktagrāvā: one holding the stone made ready for pressing Soma. Devakāmaḥ: the son who is devoted to the gods. Jāyate: is born. Tat: that well-known. Turīpaṃ: protecting. Poṣayitnu (printed पोषयित्तु (*poṣayittu*)): nourishing seed. Rarāṇaḥ: you who delight in play (you who are pleased). Adha: afterwards. Naḥ: with us in view. Vi syasva: pour out.
+
+**भावार्थ (Bhāvārtha)**
+
+O deity Tvaṣṭṛ of divine nature, you who are pleased, pour out, with us in view, that well-known, protecting and nourishing seed from the pouring of which a son is born, strong, skilled in rites such as sacrifices, of excellent strength, holding the stones made ready for pressing Soma, and devoted to the gods.
+
+### Printed p. 734
+
+*[Running head, p. 734: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+**Printed English translation**
+
+Divine Twashtri, being well pleased, give issue to our procreative vigour, whence (a son), manly, devout, vigorous, wielder of the (Soma-bruising) stone, and reverencing the gods, may be born.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the deity called Tvaṣṭṛ is praised and it is prayed that a worthy son be granted. The bhāṣyakāra has explained the word tvaṣṭā here as "creator". It is said in many places that the deity Tvaṣṭṛ is the lord of forms: त्वष्टा रूपाणि हि प्रभुः (*tvaṣṭā rūpāṇi hi prabhuḥ*) (Ṛ. Saṃ. 1-188-9), त्वष्टा रूपाणि पिंशतु (*tvaṣṭā rūpāṇi piṃśatu*) (Ṛ. Saṃ. 10-184-1), त्वष्टा रूपाणामधिपतिः (*tvaṣṭā rūpāṇāmadhipatiḥ*) (Tai. Saṃ. 3-4-5-1). As stated in such places, Tvaṣṭṛ is said to make forms for the seed poured into the womb of a woman.
+
+कर्मण्यः—कर्मसु कुशलः । (*karmaṇyaḥ—karmasu kuśalaḥ |*) The words karmaṇyaḥ, devakāmaḥ, yuktagrāvā and sudakṣaḥ tell what kind of son Tvaṣṭṛ should grant. Karmaṇyaḥ means a son skilled in rites such as sacrifices, or in arts and crafts. Since Tvaṣṭṛ is said to be the divine craftsman, expert in the arts and sciences, and the maker of the camasa and other implements of sacrifice for the gods, it is natural to pray to him to grant a son skilled in the arts and sciences. The Ṛbhus, as his disciples, became expert in all the arts through his instruction, accomplished great works and even obtained divinity, as is said in many places in the Ṛgveda. Therefore this deity is able to grant skill in the arts.
+
+Sudakṣaḥ: one able in all the arts, able in sacrifices and other rites and in other worldly works; this is the purport.
+
+Yuktagrāvā, devakāmaḥ: devakāmaḥ means one who desires to praise the gods; that is, since he wishes for the fruit in the form of the gods' grace by performing sacrifices and praising the gods, he is explained by the word devakāma as one who desires the gods. The word yuktagrāvā too indicates interest in sacrificial work. The meaning of this word is one who holds in his hand a stone to crush the Soma plants and press the Soma juice in the sacrifice. Therefore the two words yuktagrāvā and devakāmaḥ indicate the qualities a son should have: interest in sacrifice, praising and invoking the gods, and so on.
+
+### Printed p. 735
+
+*[Running head, p. 735: Ā. (printed so for A.) 2, A. 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+Vīraḥ: a valiant one; one who advances in battle and defeats enemies with courage. In this connection one matter deserves consideration. When the sacrificer who performs the sacrifice prays for sons and the like, it is commonly seen in the Ṛgveda that the gods are praised to grant valiant sons. In that age the Āryas often had to fight the Dasyus, the earlier inhabitants of this country who obstructed sacrifices and the like; so it is natural to pray for valiant sons who fight bravely in battle and conquer enemies. Therefore it is seen here and there that the seers, beginning with बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*), praised desiring valiant sons.
+
+Kṛṣṇā (so printed, कृष्णा (*kṛṣṇā*); the word expected is tvaṣṭā): Yāska's explanation:
+
+⟦ತ್ವಷ್ಟಾ । ತ್ವಷ್ಟಾ ತೂರ್ಣಮಶ್ನುತ ಇತಿ ನೈರುಕ್ತಾಃ । ತ್ವಿಷೇರ್ವಾ ಸ್ಯಾದ್ದೀಪ್ತಿಕರ್ಮಣಸ್ವಕ್ಷತೇರ್ವಾ ಸ್ಯಾತ್ಕರೋತಿಕರ್ಮಣಃ ॥ ಮಾಧ್ಯಮಿಕಸ್ತ್ವಷ್ಟೇತ್ಯಾಹುರ್ಮಧ್ಯಮೇ ಚ ಸ್ಥಾನೇ
+ಸಮಾಮ್ನಾತಃ । ಅಗ್ನಿರಿತಿ ಶಾಕಪೂಣಿಃ ॥⟧
+(Ni. 8-14)
+
+That is, for the word tvaṣṭā the Nirukta authors say "one who pervades quickly", or "one who is shining", or "one who does works (craftsman's works)"; some say he is mādhyamika, that is, one who is in the middle of heaven and earth (in the atmosphere). Śākapūṇi says he is Agni.
+
+Some say that Tvaṣṭṛ, like Viśvakarman, is the craftsman of the gods. For in the Ṛk Yāska gave as an example
+
+⟦ಯ ಇಮೇ ದ್ಯಾವಾಪೃಥವೀ ಜನಿತ್ರೀ ರೂಪೈರಪಿಂಶದ್ಭುತವನಾನಿ ವಿಶ್ವಾ ।
+ತಮದ್ಯ ಹೋತರಿಷಿತೋ ಯಜೀಯಾನ್ ದೇವಂ ತೃಷ್ಣಾರಮಿಹ ಯಕ್ಷಿ ವಿದ್ವಾನ್ ॥⟧
+(Ṛ. Saṃ. 10-110-9)
+
+it is said that Tvaṣṭṛ is the maker of heaven and earth and the cause of form, beauty, growth and so on suited to the creatures in all worlds. Besides, Śruti (Yajurveda) sentences such as त्वष्टा वै पशूनां मिथुनानां रूपकृत् (*tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt*) (Tai. Saṃ. 6-1-8-5), तष्टा रूपाणामधिपतिः (*taṣṭā rūpāṇāmadhipatiḥ*) (Tai. Saṃ. 3-4-5 1, as printed; तष्टा (*taṣṭā*) so printed) and त्वष्टा रूपाणि विकरोति (*tvaṣṭā rūpāṇi vikaroti*) establish Tvaṣṭṛ's skill in making things. And
+
+मध्यं त्वष्टा वज्रमतक्षदायसं मयि देवासोऽवृजन्नपि क्रतुं ॥ (*madhyaṃ tvaṣṭā vajramatakṣadāyasaṃ mayi devāso 'vṛjannapi kratuṃ ‖*)
+(printed ಮ. सं (*saṃ*). 10-48-3)
+
+*[The window ends here, at the end of p. 735, after this quotation and its reference; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 732 (PDF 732). Sūkta 4 Ṛk 8 Special Topics (Iḷā, Bhāratī, Sarasvatī; Ṛ. Saṃ. 1-13-9, 3-4-3, 3-29-3, 4-25-4; Sarasvatī examples 1 to 10)
+**Progress note:** Done through printed p. 735 (PDF 735). Sūkta 4 Ṛk 9 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) and Special Topics so far (Tvaṣṭṛ; Ni. 8-14; 10-110-9; 10-48-3)
