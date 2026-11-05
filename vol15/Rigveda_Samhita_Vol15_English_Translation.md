@@ -13532,6 +13532,124 @@ Sovereigns, exercising no oppression, sit down in this substantial and elegant h
 
 सहस्रस्थूणे (*sahasrasthūṇe*)—since this word is an epithet of सदसि (*sadasi*), it means a sacrificial house or assembly hall with thousands (many) of pillars.
 
+### Printed p. 420
+
+*[Running head, p. 420: Sāyaṇabhāṣyasahitā, Maṃ. 3 [sic; the sūkta is in Maṃ. 2], A. 4, Sū. 41.]*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> ता स॒म्राजा॑ घृ॒तासु॑ती आदि॒त्या दानु॑न॒स्पती॑ ।
+> सचे॑ते॒ अन॑वह्वरं ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> ता । संराजा । घृतासुती इति घृतआसुती । आदित्या । दानुनः । पती इति ।
+> सचेते इति । अनवह्वरं ॥ ६ ॥
+
+*[The supplied text has before the bhāṣya a garbled label "೧ ಸಾಯಣಭಾಷ್ಯಂ ೧", kept as a note in kn.md; the bhāṣya was split out of the Pada block, and a hyphenated line break was joined.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> सम्राजावाज्ञयैव सर्वॆषां शास्त्रारौ घृतासुती घृतान् । तद्वां महित्वं
+> घृतान्नावस्त्विति मंत्रांतरात् । ऋग्वे. ६-६७-८ । आदित्यादितेः पुत्रौ दानुनस्पती
+> दानुनो दानस्य देवस्य वा धनस्य पती स्वामिन् । ता तौ मित्रावरुणावनवह्वरमकुटिलं यजमानं सचेते । सेवेते ॥
+
+*(Gist: Mitra and Varuṇa, sovereigns who rule all by command, fed with ghee, sons of Aditi, lords of wealth to be given, favour the sacrificer who is without crookedness. The bhāṣya cites Ṛgveda 6-67-8 for "ghṛtānnau".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Samrājā: lords of the world. Ghṛtāsutī [printed धृतासुती (*dhṛtāsutī*)]: those whose food is in the form of ghee. Ādityā: sons of Aditi. Dānunaspatī: lords of wealth fit for giving. Tā: Mitra and Varuṇa. Anavahvaraṃ: the sacrificer without deceit. Sacete: favour.
+
+**भावार्थ (Bhāvārtha)**
+
+Mitra and Varuṇa, lords of the world, whose food is in the form of ghee, sons of Aditi, lords of wealth fit for giving, favour the sacrificer who is without deceit.
+
+**Printed English translation**
+
+May these two universal monarchs, fed with clarified butter, sons of Aditi, lords of liberality, show favour to their sincere (worshipper).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+धृतासुती (*dhṛtāsutī*)—धृतान्नौ । (*dhṛtānnau |*) Those who eat food mixed with ghee. In this matter the commentator cites as an example the passage
+
+तद्वां महित्वं धृतान्नावस्तु युवं दाशुषे वि चयिष्टमंहः ॥ (*tadvāṃ mahitvaṃ dhṛtānnāvastu yuvaṃ dāśuṣe vi cayiṣṭamaṃhaḥ ‖*)
+(Ṛ. Saṃ. [printed ಮ. ಸಂ. "Ma. Saṃ."] 6-67-8)
+
+### Printed p. 421
+
+*[Running head, p. 421: Aṣṭaka 3 [sic], Adhyāya 8, Varga 8, Ṛgvedasaṃhitā.]*
+
+[as the Kannada continues:] the above passage.
+
+आदित्या (*ādityā*)—अदितेः पुत्रौ । (*aditeḥ putrau |*) That they are sons of Aditi, mother of the gods, we have explained earlier. This matter
+
+अष्टा पुत्रासो आदितेः । ये जातास्तन्वः परि । देवा उपप्रैत्सप्तभिः । परा मार्तांडमास्यत् । सप्तभिः पुत्रैरदितिः। उपप्रैत्तूर्व्यं युगं। प्रजायै मृत्यवेतत् । परामार्तांडमाभरदिति। ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाताचार्यमा च । अगंशश्च भगश्च । इंद्रश्च विवस्वाग्श्चेत्येते । (*aṣṭā putrāso āditeḥ | ye jātāstanvaḥ pari | devā upapraitsaptabhiḥ | parā mārtāṃḍamāsyat | saptabhiḥ putrairaditiḥ| upapraittūrvyaṃ yugaṃ| prajāyai mṛtyavetat | parāmārtāṃḍamābharaditi| tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātācāryamā ca | agaṃśaśca bhagaśca | iṃdraśca vivasvāgścetyete |*)
+(Tai. Ā. 1-13-2, 3)
+
+is also stated in the Taittirīya Āraṇyaka. That is, the goddess Aditi has eight sons; their names in order are Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bhaga, Indra and Vivasvān.
+
+दानुनः पती (*dānunaḥ patī*)—दानुनो दानस्य देयस्य वा धनस्य स्वामिनौ । (*dānuno dānasya deyasya vā dhanasya svāminau |*) Lords of the wealth that is to be given to those who praise them; that is, the intent is that they give the abundant wealth they have to those who praise them.
+
+अनवह्वरं अकुटिलं यजमानं । (*anavahvaraṃ akuṭilaṃ yajamānaṃ |*) The word ह्वर (*hvara*) is read among the names of anger (Ni. 3-4). Here, explaining अनह्वर (*anahvara*) [as supplied] as "of crooked nature", he explains अनवह्वरं (*anavahvaraṃ*) as the sacrificer who is without a crooked nature.
+
+*[Stray line in the supplied text after this: "ಅನುಭವ", kept as a note in kn.md.]*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> गोम॑दू॒ षु ना॑स॒त्याश्वा॑वद्यातमश्विना ।
+> व॒र्ति रु॑द्रा नृ॒पाय्यं॑ ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> गोऽमत् । ऊं इति । सु । नासत्या । अश्ववत् । यातं । अश्विना ।
+> वर्तिः । रुद्रा । नृपाय्यं ॥ ७ ॥
+
+> *go 'mat | ūṃ iti | su | nāsatyā | aśvavat | yātaṃ | aśvinā |*
+> *vartiḥ | rudrā | nṛpāyyaṃ ‖ 7 ‖*
+
+### Printed p. 422
+
+*[Running head, p. 422: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> अश्विना हे अश्विन्हे नासत्यानृतभाषणरहितौ हे रुद्रा रोरूयमाणौ
+> द्रवंतौ युवां वर्तिर्मार्गः । तेन मार्गेण रथेन वा नृपाय्यं नृभिर्नेतृभिर्देवैः पातव्यं सोमं गोमत् गोमद्यथा भवति तथा अश्ववत् अश्ववच्च यथा
+> भवति तथा यातं । गच्छतं । उ ष्विति पूरणौ ॥
+
+> *aśvinā he aśvinhe nāsatyānṛtabhāṣaṇarahitau he rudrā rorūyamāṇau*
+> *dravaṃtau yuvāṃ vartirmārgaḥ | tena mārgeṇa rathena vā nṛpāyyaṃ nṛbhirnetṛbhirdevaiḥ pātavyaṃ somaṃ gomat gomadyathā bhavati tathā aśvavat aśvavacca yathā*
+> *bhavati tathā yātaṃ | gacchataṃ | u ṣviti pūraṇau ‖*
+
+*(Gist: O truthful, roaring Aśvins, go by your road to the soma to be drunk by the leaders, with cows and horses; the particles उ षु (*u ṣu*) are fillers. A hyphenated line break was joined in the bhāṣya.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Nāsatyā: those free of untruth. Rudrā: those who make a sound. Aśvinā: O Aśvin deities. Vartiḥ: the road on which you travel. Nṛpāyyaṃ: having soma to be drunk by the gods. Gomat: so that it is furnished with cows. Aśvavat: so that it is furnished with horses. Yātaṃ: go (come) to the sacrificial house.
+
+**भावार्थ (Bhāvārtha)**
+
+*[The supplied text has the garbled label "॥ ಭಾಷಾರ್ಥ ॥" here, kept as a note in kn.md.]*
+
+O Aśvin deities, free of untruth and making a sound, may the road by which you come be furnished with soma to be drunk by the gods, with cows and with horses; go (come) to our sacrificial house.
+
+**Printed English translation**
+
+Ashwins, in whom there is no untruth; Rudras. go by the (direct) road to (the sacrifice at which the libation) is to be drunk by the leaders (of sacred rites), for which (the offerer may receive the reward of ) cows and horses.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk and in the next two Ṛks the Aśvin deities are praised and invited.
+
+अश्विना (*aśvinā*)—concerning the deities Aśvinā or Aśvin, Yāska has given the following etymology:
+
+अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः । अश्वैरश्विनावित्यौर्णवाभः । तत्कावश्विनौ द्यावापृथिव्यावित्येके । आहोरात्रावित्येके । सूर्याचंद्रमसावित्येके । राजानौ पुण्यकृतावित्यैतिहासिकाः ॥ (*aśvinau yadvyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ | aśvairaśvināvityaurṇavābhaḥ | tatkāvaśvinau dyāvāpṛthivyāvityeke | āhorātrāvityeke | sūryācaṃdramasāvityeke | rājānau puṇyakṛtāvityaitihāsikāḥ ‖*)
+(Si. [as printed] 12-1)
+
 ---
 
-**Progress note:** Done through printed p. 419 (PDF 419). Sukta 41 Rik 3 Special Topics finished (p. 417); Rik 4 complete (pp. 417-418); Rik 5 complete (pp. 418-419). Flags: Rik 4 Samhita nam/rtavrdha vs Pada vam/rtavrdha as supplied; gavatirah as supplied; garbled Pada/bhashya labels and stray lines kept as notes; 2 accent DIFF
+**Progress note:** Done through printed p. 422 (PDF 422). Sukta 41 Rik 6 complete (pp. 420-421); Rik 7 through Special Topics start (Yaska on Asvina quoted, p. 422). Flags: running heads print Mam. 3 / Ashtaka 3 as supplied; garbled bhashya/Bhavartha labels and stray line kept as notes; Ma. Sam. 6-67-8 and Si. 12-1 as printed; 2 accent DIFF
