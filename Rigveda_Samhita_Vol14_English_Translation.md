@@ -35157,6 +35157,70 @@ When Brihaspati, descendant of Angiras, for your glory, Parvata had concealed th
 
 ब्रह्मणस्पते (*brahmaṇaspate*)—O Brahmaṇaspati. अस्य (*asya*)—of this world. यंता (*yaṃtā*)—the controller. त्वं (*tvaṃ*)—you. सूक्तस्य (*sūktasya*)—this hymn addressed to you. जोधि (*jodhi*) [sic: the Saṃhitā and bhāṣya have बोधि (*bodhi*)]—know. तनयं च (*tanayaṃ ca*)—and (our) offspring in the form of sons, grandsons and so on. जिन्व (*jinva*)—please. देवाः (*devāḥ*)—the gods like you. यदवंति (*yadavaṃti*)—whatever protection they grant. तत् विश्वं (*tat viśvaṃ*)—all those kinds of protection too. भद्रं (*bhadraṃ*)—are auspicious (therefore). विदथे (*vidathe*)—in this sacrifice. सुवीराः (*suvīrāḥ*)—we, possessing excellent sons, grandsons and so on. बृहत् (*bṛhat*)—abundant hymn. वदेम (*vadema*)—we shall speak (the supplied text has परिसुवॆवु (*parisuvèvu*), "we shall ...", a slip as supplied).
 
+### Printed p. 953
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 32] Ṛgveda-saṃhitā, page 953, as supplied.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Brahmaṇaspati, you who are the regulator of this world, understand and accept this hymn addressed to you. Please also our offspring in the form of sons, grandsons and so on. All the protections given by the gods who are like you are altogether auspicious. Therefore, at this sacrifice, we, accompanied by excellent sons, grandsons and so on, shall recite abundant praise.
+
+**Printed English translation**
+
+Brahmanaspati, you are the regulator of this(world), understand(the purport) of(our) hymn, and grant us prosperity: for all is prosperous that the gods protect;(and therefore) may we, blessed with excellent descendants, glorify you at the sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this last Ṛk, which forms the conclusion of the sūkta, Brahmaṇaspati is praised, asking that, as before, he give protection, offspring in the form of sons and grandsons, wealth and so on.
+
+ब्रह्मणस्पते त्वं अस्य यंता (*brahmaṇaspate tvaṃ asya yaṃtā*)—"O Brahmaṇaspati, lord of the Brahmans, that is, of hymns, you are the controller (regulator) of this world": हे ब्रह्मणस्पते ब्रह्मणां स्तोत्राणामधिपते अस्य जगतो यंता नियामकः (*he brahmaṇaspate brahmaṇāṃ stotrāṇāmadhipate asya jagato yaṃtā niyāmakaḥ*) । "O Brahmaṇaspati, you are the regulator of this world": such is the commentator's explanation of this sentence. Since the word ब्रह्म (*brahma*) also means wealth (Nir. 3-9), the word ब्रह्मणस्पति (*brahmaṇaspati*) can be understood as "lord of wealth". But since in this Ṛk the request is सूक्तस्य बोधि (*sūktasya bodhi*), "hear and understand the prayer in the form of a hymn that we are making", the sense "hymn" for the word ब्रह्म (*brahma*) is the fitting one. Further, the commentator's sense for the word अस्य (*asya*) in this sentence, जगतः (*jagataḥ*), "of this world", suits the context; but one may also give the sense "of this sacrifice" or "of this hymn". That is, one may also say: "O Brahmaṇaspati, you are the impeller of this sacrifice or hymn that we are performing."
+
+सूक्तस्य बोधि तनयं च जिन्व (*sūktasya bodhi tanayaṃ ca jinva*)—अस्मदीयमिदं सूक्तं बुध्यस्व पुत्रपौत्रादिलक्षणसंतानं प्रीणय (*asmadīyamidaṃ sūktaṃ budhyasva putrapautrādilakṣaṇasaṃtānaṃ prīṇaya*) । "Know this hymn of ours; please the offspring in the form of sons, grandsons and so on." The meaning is: "Know, that is, listen with regard, to this hymn in the form of praise which we recite for your favour; and having so listened and been satisfied by it, please all our kinsfolk, beginning with our sons and grandsons." Since the word तनय (*tanaya*) is read among the names of offspring (Nir. 3-2), तनयं (*tanayaṃ*) means the progeny of sons, grandsons and so on. As this word is formed from the root तनु विस्तारे (*tanu vistāre*) ("tanu, to extend"), and because it extends, that is, increases, the family, the etymological sense of तनय (*tanaya*) may be given as progeny beginning with sons.
+
+### Printed p. 954
+
+*(Header: 954 Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 3, Sū. [garbled in the supplied header]; page 954. The sūkta in hand is 23.)*
+
+विश्वं तद्भद्रं यत् अवंति देवाः (*viśvaṃ tadbhadraṃ yat avaṃti devāḥ*)—भवादृशा देवा यदवंति रक्षंति तत्तादृशं विश्वं सर्वं भद्रं कल्याणं भवति (*bhavādṛśā devā yadavaṃti rakṣaṃti tattādṛśaṃ viśvaṃ sarvaṃ bhadraṃ kalyāṇaṃ bhavati*) । "O Brahmaṇaspati, whatever you, and the other gods who like you are gracious towards us, protect, all of it turns out auspicious." That is, every rite protected by the gods reaches its completion auspiciously: such is the meaning.
+
 ---
 
-**Progress note:** Done through printed p. 952 (PDF 952). Sukta 23 Rik 17 Special Topics completed; Riks 18 (Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English, Special Topics) and 19 (Samhita, Pada, bhasya, Pratipadartha) written; Rik 18 Samhita lines joined for accent matching (supplied spellings yadajjirah, maubbo differ from reference); Rik 19 Bhavartha and printed English follow
+**Close of the Sixth Adhyāya**
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*
+
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्य-
+> धुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे
+> यक्संहिताभाष्ये द्वितीयाष्टके षष्ठोऽध्यायः
+> ॥ समाप्तिः ॥
+> ॥ ओं तस्य ॥
+
+> *iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājya-*
+> *dhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe*
+> *yaksaṃhitābhāṣye dvitīyāṣṭake ṣaṣṭho 'dhyāyaḥ*
+> *‖ samāptiḥ ‖*
+> *‖ oṃ tasya ‖*
+
+(Gist of the verse: "May Maheśvara, the 'Vidyātīrtha', removing the inner darkness by the light of the Veda's meaning, grant the four human aims." The colophon says: thus, in the Mādhavīya "Vedārthaprakāśa", the Ṛksaṃhitā-bhāṣya composed by Sāyaṇācārya, the sixth adhyāya of the second Aṣṭaka is ended. The supplied text prints यक्संहिताभाष्ये (*yaksaṃhitābhāṣye*) for the usual ṛksaṃhitā-bhāṣye, as supplied; the closing words read "completion; Om, that" ओं तस्य (*oṃ tasya*) as supplied.)
+
+(Kannada closing line, translated:) Here the sixth adhyāya, in the second Aṣṭaka, of the Ṛgveda Saṃhitā, with the Śrī Sāyaṇa-bhāṣya and the Kannada translation, has come to completion.
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्धवेत् ।
+> तत्सर्वं क्षम्यतांदेव वागीश्वर नमोस्तु ते ।
+> कुभं भूयात्
+> मंगळं
+
+> *yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yaddhavet |*
+> *tatsarvaṃ kṣamyatāṃdeva vāgīśvara namostu te |*
+> *kubhaṃ bhūyāt*
+> *maṃgaḷaṃ*
+
+(The supplied text prints कुभं भूयात् (*kubhaṃ bhūyāt*) for the expected "śubhaṃ bhūyāt"; left as supplied [sic]. No Sanskrit colophon for Sūkta 23 itself and no separate Kannada closing line for it is printed: the sūkta ends with the Special Topics of Ṛk 19, followed directly by the adhyāya's close above. Then the supplied text has a note describing a decorative graphic, and the printer's line: "K. Venkatasubbayya, Printer, Sri Vinayak Printing Works, Mysore." The final machine line "Pages: 454/454" is an artefact of the supplied text. End of Volume 14.)
+
+---
+
+**Progress note:** Done through printed p. 954 (PDF 954). Sukta 23 Rik 19 Bhavartha, printed English and Special Topics completed; close of the Sixth Adhyaya (Sanskrit verse and colophon, Kannada closing line, concluding verse) added; final window of Vol 14
