@@ -23483,6 +23483,123 @@ The mighty; divine Agni, knowing all (things) that are to be known, made the com
 
 *[The window ends here, at the end of p. 759, in the middle of this sentence; the next window continues.]*
 
+### Printed p. 760
+
+*[Running head, p. 760: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+[continuing:] omniscient; shining. Such an Agni has created the lovely water; this is the purport of the sentence. The word ṛbhu is read among the names of "great" (Ni. 3-13). The word vayuna is read among the names of knowledge (Ni. 3-13).
+
+वेः ससस्य चर्म धृतवत् अग्निः तत् पदं अप्रयुच्छन् रक्षति (*veḥ sasasya carma dhṛtavat agniḥ tat padaṃ aprayucchan rakṣati*): Agni, who pervades everywhere, though with quiet flames, that is, flames imperceptible to people, has a radiant form. Agni in the cloud-region in the form of lightning is not always visible to people; he is hidden in the clouds. Even so, when he becomes visible he is extremely brilliant. Such an Agni guards with great care the water in the clouds around him; this is the purport.
+
+ससस्य (*sasasya*): stating the derivation of the word ससं (*sasaṃ*), Yāska quotes the Ṛk
+
+⟦ಪ್ರ ಮಾತುಃ ಪ್ರತರಂ ಗುಹ್ಯಮಿಚ್ಛನ್ ಕುಮಾರೋ ನ ವೀರುಧಃ ಸರ್ಪದುರ್ವೀಃ ।
+ಸಸಂ ನ ಪಕ್ವಮವಿದಚ್ಚುಚಂತಂ ರಿರಿಹ್ವಾಂಸಂ ರಿಪ ಉಪಸ್ಥೇ ಅಂತಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 10-79-3)
+
+and explains: स्वपनमेतन्माध्यमिकं ज्योतिरनित्यदर्शनं तदिवादज्ञा ज्वल्यमानं (*svapanametanmādhyamikaṃ jyotiranityadarśanaṃ tadivādajñā jvalyamānaṃ*) (Ni. 5-3). Sasam means without movement, hidden and unseen by anyone. The Agni of the middle region, in the form of lightning hidden motionless in the cloud-region, though not always visible to anyone, shines with extremely blazing brightness when he is seen; this is the purport of the derivation. Durgācārya, the commentator of the Nirukta, explains: ससं इत्यनेन शब्देन स्वपनमुच्यत इत्युपपद्यते (*sasaṃ ityanena śabdena svapanamucyata ityupapadyate*). The Agni of the middle region in the form of lightning is the lightning or electric fire hidden among the clouds in the atmosphere. Of Agni's three forms, one shines in heaven in the form of the Āditya; this is a transformation of the Agni of the heaven-place. The Agni in the form of lightning among the clouds in the atmosphere is a transformation of the Agni of the middle place. The Agni installed in houses and on the sacrificial altar on the earth and praised by all is called the earthly Agni, the third transformation. Of these three forms, the transformation of Agni in the form of lightning in the middle place is described here.
+
+⟦ಚರ್ಮ—ಚರ್ಮ ಶಬ್ದಕ್ಕೆ ಯಾಸ್ಕರು—ಚರ್ಮ ಚರತೇರ್ವೋಚ್ಚೃತಂ ಭವತೀತಿ ವಾ । ಅಥಾಪಿ
+ಚರ್ಮ ಚ ಶ್ಲೇಷ್ಮಾ ಚ ।⟧ (Ni. 2-5): Yāska has stated the derivation of the word carma. The word carma is formed from the root carati, and since it is separable from the body, covers the body and gives it a distinct shape, or since it clings to the body, carma means
+
+### Printed p. 761
+
+*[Running head, p. 761: its running head is garbled in the supplied text ("ಆ. ೨. ಅ. ೮. ವ. २५ (*25*). ] ऋग्वेदसंपूता (*ṛgvedasaṃpūtā*) 761") and was merged into the text of the previous page; it was separated by hand and p. 761 added to the page list.]*
+
+[continuing:] "form" too. Here it is used in the sense of general form.
+
+धृतवत्—दीप्तिमद्भवति । (*dhṛtavat—dīptimadbhavati |*) Although the word ghṛta is read among the hundred and one names of water (Ni. 2-24), here the word ghṛta is given the meaning dīpti (radiance). Yāska: अथापि नैगमेभ्यो भाषिका उष्णं धृतमिति (*athāpi naigamebhyo bhāṣikā uṣṇaṃ dhṛtamiti*) (Ni. 2-2): those who know the Vedic sense say that the word ghṛta has the meaning "heat". Heat comes to mean radiance, brightness. In Śruti sentences such as तेजो वै धृतं (*tejo vai dhṛtaṃ*) it is stated clearly that ghṛta means brilliance, radiance.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> आ योनि॑म॒ग्निर्घृ॒तवं॑तमस्थात्पृ॒थुप्र॑गाणमु॒शंत॑मुशा॒नः ।
+> दीद्या॑नः॒ शुचि॑र्ऋ॒ष्टः पा॑व॒कः पुनः॑पुनर्मा॒तरा॒ नव्य॑सी कः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । योनिं । अग्निः । धृतवंतं । अस्थात् । पृथुप्रगानं । उशंतं । उशानः ।
+> दीद्यानः । शुचिः । ऋष्ट्वः । पावकः । पुनःऽपुनः । मातरा । नव्यसी इति । करिति कः ॥७॥
+
+> *ā | yoniṃ | agniḥ | dhṛtavaṃtaṃ | asthāt | pṛthupragānaṃ | uśaṃtaṃ | uśānaḥ |*
+> *dīdyānaḥ | śuciḥ | ṛṣṭvaḥ | pāvakaḥ | punaḥ 'punaḥ | mātarā | navyasī iti | kariti kaḥ ‖7‖*
+
+*(In the Pada the last words are printed करिति कः (*kariti kaḥ*), and पृथुप्रगानं (*pṛthupragānaṃ*) against पृथुप्रगाणं (*pṛthupragāṇaṃ*) in the Saṃhitā, as supplied.)*
+
+*[The supplied text has after the Pada the garbled label "१ सायणभाष्यं १ (*1 sāyaṇabhāṣyaṃ 1*)" (for Sāyaṇa-bhāṣya), inside the Pada block; it is kept as a note in kn.md and the standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उशानः कामयमानोऽग्निर्घृतवंतं दीप्तिमंतं पृथुप्रगाणं पृथुगीतिमुशंतं कामयमानं योनिं स्थानमायतनं आ अस्थात् । अतिष्ठति । दीद्यानो
+> द्योतमानः शुचिर्दर्शनीयः शुद्धो वा ऋष्टो महान् पावकोऽन्येषां
+> शोधयिताग्निर्मातरा मातरौ द्यावापृथिव्यौ पुनःपुनर्नव्यसी नवतरे कः । करोति ॥
+
+*(Gist: Agni, desired, takes his radiant, much-praised abode; shining, pure, great, the purifier, he makes his parents, heaven and earth, new again and again.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Uśānaḥ: desired by all. Agniḥ: Agni. Dhṛtavantaṃ (printed as supplied): radiant. Pṛthupragāṇaṃ: greatly to be praised. Uśantaṃ: welcoming Agni's coming. Yoniṃ: the place. Ā asthāt: has occupied. Dīdyānaḥ:
+
+### Printed p. 762
+
+*[Running head, p. 762: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+[continuing:] shining. Śuciḥ: of beautiful form. Yaṣṭaḥ (so printed, for ṛṣṭaḥ): the great. Pāvakaḥ: the purifier of all, Agni. Mātarā: heaven and earth, the parents of the world. Punaḥ punaḥ: again and again. Navyasī: as new. Kaḥ: he makes.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, desired by all, has occupied the place that is radiant, greatly praised and welcoming his coming. Agni, shining, of beautiful form, great, and the purifier of all, makes heaven and earth, the parents of the world, new again and again.
+
+**Printed English translation**
+
+Agni has taken his station in an asylum, brilliant, much-lauded, and as desirous (of receiving him) as he is (to repair to it); radiant, pure, vast, aud [sic] purifying, he repeatedly renovates his parents, (Heaven and Earth).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उशानः अग्निः धृतवंतं पृथुप्रगानं उशंतं योनिं आ अस्थात् (*uśānaḥ agniḥ dhṛtavaṃtaṃ pṛthupragānaṃ uśaṃtaṃ yoniṃ ā asthāt*): this Agni is wanted by all; he shines with great brilliance. Everyone praises him much (sings his virtues). Such an Agni is firmly established in his own place, the fire-pit (Āhavanīya) on the sacrificial altar, which is itself waiting for his arrival. Here the word उशंतं—कामयमानं (*uśaṃtaṃ—kāmayamānaṃ*) is used figuratively. The sacrificial altar desires Agni's arrival; that is, the purport is that the installation of Agni on the sacrificial altar gives joy to all.
+
+दीद्यानः शुचिः ऋष्टः पावकः मातरा पुनःपुनः नव्यसी कः (*dīdyānaḥ śuciḥ ṛṣṭaḥ pāvakaḥ mātarā punaḥpunaḥ navyasī kaḥ*): this Agni is himself shining and pure; gentle to look at, and the purifier of all. Such an Agni makes his parents, heaven and earth, young again and again. Since heaven and earth are called the mother and father of the gods, they came to be the parents of Agni too. That he made them new or young means that, by his three forms, the Āditya form, the lightning form and the earthly-fire form, in the three places heaven, atmosphere and earth, he gave light to heaven and earth and gave them new life such as they never had before; this is the chief purport.
+
+### Printed p. 763
+
+*[Running head, p. 763: Ā. (printed so for A.) 2, Ā. (printed so for A.) 8, Varga 25, Ṛgvedasaṃhitā.]*
+
+Although the words शुचिः पावकः (*śuciḥ pāvakaḥ*) are used as epithets of Agni, in some contexts the expressions अग्निःशुचिः, अग्निःपावकः (*agniḥśuciḥ, agniḥpāvakaḥ*) also indicate special forms of Agni as separate.
+
+*[Image note as supplied in kn.md: "This image contains no text. It is a decorative symbol consisting of two curved lines connected by four circular loops at their ends, resembling an infinity sign or a stylized flower with eight petals (a 8-petaled flower)."]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> स॒द्यो जा॒त ओष॑धीभिर्ववक्षे॒ यदी॒ वर्धं॑ति प्र॒स्वो॑ घृ॒तेन॑ ।
+> आप॑इव प्र॒वता॒ शुंभ॑माना उरु॒ष्यद॒ग्निः पि॒त्रोरु॒पस्थे॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> सद्यः । जातः । ओषधीभिः । ववक्षे । यदि । वर्धंति । प्रस्वः । घृतेन ।
+> आपः इव । प्रवता । शुंभमानाः । उरुष्यत् । अग्निः । पित्रोः । उपस्थे ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सद्यो जातोऽग्निर्यदि यदौषधीभिर्ववक्षे उह्यते तदा प्रवता प्रवणेन
+> मार्गेण गच्छंत्य आप इव शुंभमानाः शोभमानास्ता ओषध्यः प्रस्वः फलानि
+> प्रसुवाना घृतेनोदकेन वर्धंति । वर्धयंति । पित्रोर्द्यावापृथिव्योरुपस्थे
+> मध्यप्रदेशे वर्धमानोऽग्निरुरुष्यत् । आस्मान्रक्षतु ॥
+
+*(Gist: Agni, newly born and carried by the plants, is flanked by herbs that grow with water and bear fruit; growing between heaven and earth, may he protect us.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Sadyo jātaḥ: as soon as Agni is born. Yadi: when. Oṣadhībhiḥ: by the plants. Vavakṣe: he is carried (then). Pravatā: flowing in your path. Āpa iva: like waters. Śuṃbhamānāḥ: shining plants. Prasvaḥ: bearing fruits. Ghṛtena (printed धृतेन (*dhṛtena*)): by water. Vardhanti: they grow. Pitroḥ: of heaven and earth. Upasthe: in the middle region (growing). Agniḥ: Agni. Uruṣyat: may he protect (us).
+
+**भावार्थ (Bhāvārtha)**
+
+When Agni, as soon as he is born, is carried by the plants, then the shining plants, like waters flowing in your path, bear fruits and grow by water. May Agni, who grows in the middle region of heaven and earth, protect us.
+
+*[The window ends here, at the end of p. 763, after the Bhāvārtha of Ṛk 8; the next window continues with its printed English.]*
+
 ---
 
-**Progress note:** Done through printed p. 759 (PDF 759). Sūkta 5 Ṛk 5 (full) and Special Topics; Ṛk 6 (full) and Special Topics begun
+**Progress note:** Done through printed p. 763 (PDF 763). Sūkta 5 Ṛk 6 Special Topics end (sasa, carma, ghṛta; Ni. 5-3, 2-5, 2-2); Ṛk 7 (full) and Special Topics; Ṛk 8 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha
