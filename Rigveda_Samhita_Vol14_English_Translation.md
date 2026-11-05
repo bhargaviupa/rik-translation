@@ -30053,6 +30053,82 @@ In this Ṛk and in several following Ṛks the words वृषभाय (*vṛ�
 
 (Indra—O Indra) vṛṣaḥ (वृषः (*vṛṣaḥ*))—giving fruit; madhvaḥ (मध्वः (*madhvaḥ*))—intoxicating; of the Soma; kośaḥ (कोशः (*kośaḥ*))—the juice; ūrmiḥ (ऊर्मिः (*ūrmiḥ*))—being a stimulant to the performers of the rite and to those who drink; vṛṣabhānnāya (वृषभान्नाय (*vṛṣabhānnāya*))—one who has strength-increasing food; vṛṣabhāya (वृषभाय (*vṛṣabhāya*))—and a showerer of things wished, of you; pātave (पातवे (*pātave*))—for drinking; pavate (पवते (*pavate*))—flows. vṛṣaṇā (वृषणा (*vṛṣaṇā*))—able to press the Soma juice; adhvaryū (अध्वर्यू (*adhvaryū*))—the Adhvaryu and the Pratiprasthātṛ, both; vṛṣabhāsaḥ (वृषभासः (*vṛṣabhāsaḥ*))—serving as means of pressing the juice; adrayaḥ (अद्रयः (*adrayaḥ*))—the pressing-stones (stones for pressing); vṛ. ṣaṇaṃ [sic, as supplied: "ವ. ಷಣಂ"] (व. षणं (*va. ṣaṇaṃ*))—giving the fruit of heaven and the like; somaṃ (सोमं (*somaṃ*))—the Soma juice; vṛṣabhāya (वृषभाय (*vṛṣabhāya*))—for you, the best among all the gods; suṣvati (सुष्वति (*suṣvati*))—they press.
 
+### Printed p. 785
+
+*(Header: "[A. 2. A. 6. V. 17.] Ṛgvedasaṃhitā 785".)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, this Soma juice, fruit-giving and exhilarating, flows for your drinking, being a stimulant to the sacrificers and to those who drink it, you who have strength-increasing food and who shower what is wished. The Adhvaryu and the Pratiprasthātṛ, both able to press out the juice, and the pressing-stones (rocks), the instruments of pressing, press for you, the best of all the gods, the Soma juice that gives heaven and the like.
+
+**Printed English translation (Ṛk 5)**
+
+The juice of the gratifying and exhilarating(Soma), the exciter(of) those who drink it, flows to the showerer(of benefits), the dispenser of food, for his beverage: the two priests, the sprinklers of the oblation; and the stones(that express the juice), offer to the best(of the deities), the Soma, the shedder(of blessings).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The page opens with the Sanskrit explanation of the Ṛk's words (the same sense as the bhāṣya above) followed by a Kannada rendering. The Kannada says: the juice of the Soma creeper, when the creeper is crushed and pressed with the stones, comes out little by little and gathers together at the bottom of the stone (adri); it gives delight to those who press the creeper and to those who drink. The sage describes such a juice as being prepared for Indra's drinking. The word कोशः (*kośaḥ*) in this passage denotes the large vessel in which the Soma juice is collected and kept; it is made of wood or of leather, and the Soma juice, pressed and strained, is poured into it. But in the present Ṛk the word कोशः (*kośaḥ*) (the container) is itself used to indicate the Soma juice that fills it. पवते (*pavate*): root पव गतौ (*pava gatau*) ("pava, in the sense of going"): "goes" means that the Soma juice coming out of the crushed creeper runs and flows. वृषभान्नाय (*vṛṣabhānnāya*) is explained in Sanskrit as "he whose foods increase strength"; that is, for Indra who has strength-increasing food, or who gives food, for his drinking.
+
+The next Sanskrit passage explains अध्वर्यू (*adhvaryū*) and अद्रयः (*adrayaḥ*): the two (Adhvaryu and Pratiprasthātṛ) are able to sprinkle (pour) the Soma juice, and the pressing-stones (ग्रावाणः (*grāvāṇaḥ*)) shower; they press the Soma, the sprinkler of the fruit such as heaven, for you, the best of the gods. The Kannada then says (continued on p. 786): the officiating priests called Adhvaryu and Pratiprasthātṛ, who are able or skilful in pressing the Soma juice, and the stones that help in the pressing, press the wished-for Soma juice for Indra and make it ready, this being the meaning. Since the dual अध्वर्यू (*adhvaryū*) is used here, it must be understood to indicate the two priests, the Adhvaryu and his helper the Pratiprasthātṛ. When the Soma is pressed and prepared for Indra, the stones called अद्रयः (*adrayaḥ*) or ग्रावाणः (*grāvāṇaḥ*), used in the pressing, are likewise helpful to the priests who can press it. With their help the priests press the Soma juice and prepare it for Indra; this is the main purport.
+
+### Printed p. 786
+
+*(Header: "786 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 16]".)*
+
+*(The Special Topics of Ṛk 5 are completed in the paragraph that closes p. 785 above.)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> वृषा॑ ते॒ वज्र॑ उ॒त ते॒ वृषा॒ रथो॒ वृष॑णा॒ हरी॑ वृष॒भाण्यायु॑धा ।
+> वृष्टो॒ मद॑स्य वृषभ॒ त्वमी॑शिष॒ इंद्र॒ सोम॑स्य वृष॒भस्य॑ तृप्लुहि ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> वृषा । ते । वज्रः । उत । ते । वृषा । रथः । वृषणा । हरी इति । वृषभाणि । आयुधा ।
+> वृष्णः । मदस्य । वृषभ । त्वं । ईशिषे । इंद्र । सोमस्य । वृषभस्य । तृप्नुहि ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra's thunderbolt, chariot, two horses and other weapons are all "showerers" of wishes; he is lord of the Soma and is bidden to be satisfied with it. Grammatical tail on the root tṛp (the cerebral ṇ-rule, Pā. 8-4-39, as printed, being optional in the Veda).*
+
+> वृषभ कामानां वर्षक हे इंद्र ते तव वज्रो वृषा कामवर्षकः । तथा ते
+> रथोऽपि वृषा । ते हरी एतन्नामकावश्च वृषणा वर्षकौ । तवायुधा वज्रव्यतिरिक्ता-
+> न्यायुधान्यपि वृषभाणि । वृष्णो वर्षकस्य मदस्य मदकरस्य सोमस्य त्वमेदेशिषे ।
+> स्वामी भवसि । हे इंद्र वृषभस्य वर्षकेण सोमस्य सोमेन तृप्लुहि । तृप्तो भव॥
+> तृप प्रीणने स्वादिः । क्षुभ्यादिषु । पा. ८-४-३९ । नृमनतृप्नोतीति पठितं । तथापि
+> सर्वविधीनां छंदसि विकल्पितत्वादत्र णत्वप्रतिषेधो न भवति ॥
+
+> *vṛṣabha kāmānāṃ varṣaka he iṃdra te tava vajro vṛṣā kāmavarṣakaḥ | tathā te*
+> *ratho 'pi vṛṣā | te harī etannāmakāvaśca vṛṣaṇā varṣakau | tavāyudhā vajravyatiriktā-*
+> *nyāyudhānyapi vṛṣabhāṇi | vṛṣṇo varṣakasya madasya madakarasya somasya tvamedeśiṣe |*
+> *svāmī bhavasi | he iṃdra vṛṣabhasya varṣakeṇa somasya somena tṛpluhi | tṛpto bhava‖*
+> *tṛpa prīṇane svādiḥ | kṣubhyādiṣu | pā. 8-4-39 | nṛmanatṛpnotīti paṭhitaṃ | tathāpi*
+> *sarvavidhīnāṃ chaṃdasi vikalpitatvādatra ṇatvapratiṣedho na bhavati ‖*
+
+### Printed p. 787
+
+*(Header: "A. 2 A. 6 V. 18 Ṛgvedasaṃhitā 787", as printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वृषभ (*vṛṣabha*)—O Indra, giver of what is wished. ते (*te*)—your. वज्रः (*vajraḥ*)—thunderbolt. वृषा (*vṛṣā*)—it is a showerer of desires. उत (*uta*)—and. ते (*te*)—your. रथः (*rathaḥ*)—chariot also. वृषा (*vṛṣā*)—a showerer of desires. हरी (*harī*)—your horses called Hari. वृषणा (*vṛṣaṇā*)—are able to shower fruit. आयुधा (*āyudhā*)—the other weapons. वृषभाणि (*vṛṣabhāṇi*)—are capable. वृष्णः (*vṛṣṇaḥ*)—showering. मदस्य (*madasya*)—and intoxicating, to the Soma. त्वं (*tvaṃ*)—you yourself. ईशिषे (*īśiṣe*)—are the lord. इंद्र (*iṃdra*)—O Indra. वृषभस्य (*vṛṣabhasya*)—having the capacity to sprinkle. सोमस्य (*somasya*)—with the drinking of the Soma. तृप्नुहि (*tṛpnuhi*)—be satisfied.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, giver of what is wished, your thunderbolt is a showerer of desires, and your chariot also is a showerer of desires. Your horses called Hari are able to shower fruit. In the same way your other weapons are powerful. You yourself are the lord of the Soma that showers and intoxicates. O Indra, be satisfied by drinking the Soma that has the capacity to sprinkle.
+
+**Printed English translation (Ṛk 6)**
+
+Your thunderbolt, Indra, is the rainer(of bounties): your chariot, the showerer(of blessings); your two horses, the shedders(of desires); your weapons, the diffusers(of wishes); you reign, showerer(of benefits), over the inebriating beverage, the sprinkler(of delight):satiate yourself, Indra, with the good-diffusing Soma.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the sage describes Indra's thunderbolt, his chariot, his two horses called हरी (*harī*), and his other weapons (apart from the thunderbolt) as all granting the wished-for fruit to those who praise him; and then, "You, such an Indra, are lord also of the Soma juice that gives every fruit. Therefore drink this excellent Soma juice which we have pressed and prepared, and be satisfied": thus the sage prays to Indra.
+
+*Notes on the text as supplied (not corrected):* the Saṃhitā and the bhāṣya quotation read तृप्लुहि (*tṛpluhi*) while the Pada and the Pratipadārtha read तृप्नुहि (*tṛpnuhi*); the Saṃhitā reads वृष्टो (*vṛṣṭo*) where the Pada has वृष्णः (*vṛṣṇaḥ*) and the bhāṣya वृष्णो (*vṛṣṇo*); the Bhāvārtha and Special Topics headings on p. 785 were garbled in the supplied text (labels only, repaired); the bhāṣya has त्वमेदेशिषे (*tvamedeśiṣe*) (as supplied; the Pada and Pratipadārtha have ईशिषे (*īśiṣe*)).
+
 ---
 
-**Progress note:** Done through printed p. 784 (PDF 784). Sukta 16 Rk 4 closed (Pada, bhasya, Pratipadartha, Bhavartha, printed English, special topics on vrsan-words, vidustara, bhanu); Rk 5 Samhita, Pada, bhasya, Pratipadartha placed. Flags: Pada vidu(h)tarah, Pratipadartha viduşvarah and 'va. sanam' as supplied; Rk5 Samhita vrsanadvayu vs Pada adhvaryu
+**Progress note:** Done through printed p. 787 (PDF 787). Printed pp. 785-787: Rk 5 Bhavartha, printed English, special topics (kosa, pavate, adhvaryu/adri); Rk 6 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English, special topics. Flags: Rk6 Samhita 'vrsto'/'trpluhi' vs Pada 'vrsnah'/'trpnuhi' as supplied; bhasya 'tvamedesise' as supplied; accent script DIFF on Rk 6 line 2
