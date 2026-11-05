@@ -22114,6 +22114,132 @@ Here jagat means the Jagatī metre. The word prāsahā indicates plurality. Ther
 
 Here ends the account of the third pressing.
 
+### Printed p. 716
+
+*[Running head, p. 716: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 4.]*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> आ भंद॑माने उ॒षसा॒ उपा॑के उ॒त स्म॑येते त॒न्वा॒३॒॑३ विरू॑पे ।
+> यथा॑ नो मि॒त्रो वरु॑णो॒ जुजो॑ष॒दिंद्रो॑ म॒रुत्वा॑ उ॒त वा॒॑
+> महोभिः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । भंदमाने इति । उषसौ । उपाके इति । उत । स्मयेते इति । तन्वा । विरूपे इति
+> विरूपे ।
+> यथा । नः । मित्रः । वरुणः । जुजोषत् । इंद्रः । मरुत्वान् । उत । वा ।
+> महभिः ॥ ६ ॥
+
+> *ā | bhaṃdamāne iti | uṣasau | upāke iti | uta | smayete iti | tanvā | virūpe iti*
+> *virūpe |*
+> *yathā | naḥ | mitraḥ | varuṇaḥ | jujoṣat | iṃdraḥ | marutvān | uta | vā |*
+> *mahabhiḥ ‖ 6 ‖*
+
+*(In the Pada, विरूपे इति (*virūpe iti*) is repeated across the line break, and the last word is printed महभिः (*mahabhiḥ*), as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> आ भंदमाने स्तूयमाने उपाके परस्परं संगते ॥ उषासानक्तापेक्षया
+> द्विवचनं ॥ नक्तोषसौ रात्र्यहनी आगच्छतां । उत अपि च विरूपे पृथग्रूपे तन्ना
+> प्रकाशरूपेण शरीरेण स्मयेते । प्रकाशेते । मित्रो वरुण उत वा अपि चेंद्रो
+> मरुत्वांश्च नोऽस्मान्यथा जुजोषत् यथा सेवेत तथा महोभिस्तेजोभिर्युक्ते
+> इमे द्यावापृथिव्यौ कुरुतां ॥
+
+*(Gist: the praised, mutually joined Night and Dawn shine with bright bodies; may Mitra, Varuṇa, and Indra with the Maruts delight us; may heaven and earth be made luminous.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ā bhandamāne: greatly praised ones. Upāke: those joined together with one another. Uṣasā: the deities of Day and Night (may they come here). Uta: and. Virūpe: those of differing forms. Tanvā: with a shining body. Smayete: they shine. Mitraḥ: Mitra. Varuṇaḥ: Varuṇa. Uta vā: and. Marutvān: accompanied by the Maruts. Indraḥ: Indra. Naḥ (printed ने (*ne*)): us. Yathā jujoṣat: in the manner of delighting. Mahobhiḥ: (may he impel heaven and earth) full of splendour.
+
+**भावार्थ (Bhāvārtha)**
+
+May the deities of Day and Night, who are greatly praised and joined with one another, come here. Having differing forms, they shine with their shining bodies.
+
+### Printed p. 717
+
+*[Running head, p. 717: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+May Mitra, Varuṇa and Indra with the Maruts impel heaven and earth in such a way that they delight us.
+
+**Printed English translation**
+
+May the adored Day and Night, combined or separate, be manifest in bodily form, so that Mitra, Varuna, Indra, or (the latter), attended by the Maruths, may rejoice us by their glories.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the goddesses called Uṣāsānaktā are praised. Although only the word उषसौ (*uṣasau*), referring to the goddess Uṣas, is here, since it is a dual word both the goddess Uṣas and the deity presiding over night are indicated.
+
+उपाके—परस्परं संगते । (*upāke—parasparaṃ saṃgate |*): those mingled with one another; that is, since the time of dawn appears before the night has ended, night and Uṣas join together. Here the bhāṣyakāra has explained the word uṣasā as naktoṣasau, that is, night and day (rātryahanī), and in this Ṛk Mitra and Varuṇa, the presiding deities of day and night, are also praised. There is also a Śruti sentence that Mitra and Varuṇa are the presiding deities of day and night: मैत्रं वा अहः । वारुणी रात्रिः । (*maitraṃ vā ahaḥ | vāruṇī rātriḥ |*)
+
+विरूपे (*virūpe*): Although these day and night join each other, their natures are different. Since at the end of the day there is night, and at the end of night the day, the two are as if related to each other. Since there is light in the day and the opposite, darkness, at night, these are of mutually different nature; therefore they are described by the word virūpe.
+
+उषसौ (*uṣasau*): Since the dual is used in this Ṛk, it must be understood that two deities, Uṣāsānaktā or Naktoṣāsā, are indicated. Who are these deities called Naktoṣāsā, and what is their nature? It is necessary to examine such matters closely.
+
+In this Ṛk the presiding deities of night and morning, called Naktoṣāsā, are invoked. Yāska's explanation of the word naktoṣāsā is as follows:
+
+उषासानक्ता । उषासानक्कोषाश्च नक्ता चोषा व्याख्याता । नक्तेति रात्रिनामानक्ति भूतान्यवश्यायेनापि ना नक्ताव्यक्तवर्णा ॥ (*uṣāsānaktā | uṣāsānakkoṣāśca naktā coṣā vyākhyātā | nakteti rātrināmānakti bhūtānyavaśyāyenāpi nā naktāvyaktavarṇā ‖*)
+
+### Printed p. 718
+
+*[Running head, p. 718: its running head is misspelled in the supplied text as "718 सायणभाव्यसहिता (*sāyaṇabhāvyasahitā*) [ मं (*maṃ*). ೩. ಅ. ೧. सू (*sū*). ೪." and was merged into the text of the previous page; it was separated by hand and p. 718 added to the page list.]*
+
+Though read in two ways, naktoṣāsā and uṣāsānaktā, the meaning is one. The explanation of the word uṣāḥ has been given before. Naktā is a name of night. For naktā means avyaktavarṇā ("of indistinct colour"): because it is dark, things are indistinct, that is, not seen well. Therefore the night, accompanied by darkness, is called naktā, and at this time of night creatures are unable to carry on their respective activities.
+
+⟦ಅನಕ್ತಿ ಕ್ಲೇದಯತಿ
+ಭೂತಾನಿ ಅವಶ್ಯಾಯೇನ । ಅಪಿ ವಾನಕ್ತಾ ಅವ್ಯಕ್ತವರ್ಣಾ । ಯಥಾ ಆಹಃ ಸರ್ವಮಭಿವ್ಯಕ್ತರೂಪಂ
+ಭವತಿ ನ ತಥಾ ರಾತ್ರಿಃ ॥⟧
+
+Since darkness troubles creatures, leaving no room for their activities to be properly carried on, the night accompanied by such darkness is called naktā. Or, because it is indistinct, so that nothing is seen well, it is called naktā. In the day the forms of all things are clearly seen; at night they are not seen in that way. Therefore the time of night is called naktā; thus they have explained the meaning (Ni. 8-11).
+
+They have said that the explanation of the meaning of the word uṣāḥ was given before. That explanation is as follows: the sixteen words such as vibhāvarī and sūnarī are names of Uṣas (2-19); and
+
+उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥ (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ ‖*)
+
+Because it removes the darkness of the night, it is called uṣāḥ; that is, it is the last time, the last part, of the night. To support this meaning they have given an example:
+
+⟦ಇದಂ ಶ್ರೇಷ್ಠಂ ಜ್ಯೋತಿಷಾಂ ಜೋತಿರಾಗಾಚ್ಚಿತ್ರಃ ಪ್ರಕೇತೋ ಅಜನಿಷ್ಟ ವಿಭ್ವಾ ।
+ಯಥಾ ಪ್ರಸೂತಾ ಸವಿತುಃ ಸವಾಯ ಏವಾ ರಾತ್ರುಷಸೇ ಯೋನಿಮಾರೈಕ್ ॥⟧
+(printed पु (*pu*). सं (*saṃ*). 1-113-1)
+
+The Nirukta on this Ṛk:
+
+⟦ಇದಂ ಶ್ರೇಷ್ಠಂ ಜ್ಯೋತಿಷಾಂ ಜೋತಿರಾಗಮತ್ । ಚಿತ್ರಂ ಪ್ರಕೇತನಂ ಪ್ರಜ್ಞಾತತಮಮಜನಿಷ್ಟ
+ವಿಭೂತತಮಂ ಯಥಾ ಪ್ರಸೂತಾ ಸವಿತುಃ ಪ್ರಸವಾಯ ರಾತ್ರಿರಾದಿತ್ಯಸ್ಯ । ಏವಂ ರಾತ್ರ್ಯುಷಸೇ
+ಯೋನಿಮರಿಚತ್ ಸ್ಥಾನಂ । ಸ್ತ್ರೀಯೋನಿರಭಿಯುತ ಏನಾಂ ಗರ್ಭಃ ॥⟧
+(printed सि (*si*). 2-19)
+
+The best and most brilliant light of the Sun is rising. The time of Uṣas, which precedes such a light of the Sun, appears before the light like a banner (nikētana) of that radiance. Namely, as the Sun's light shines all day and at sunset becomes the womb (yoni), that is, the cause, of the night, so the night at its end becomes the womb of the time of Uṣas
+
+### Printed p. 719
+
+*[Running head, p. 719: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+[continuing:] that is, the cause. Yoni means the place of birth. The chief purport is that at the end of the day the night, and at the end of the night the time of Uṣas, are reached one after the other as a change. Therefore uṣāḥ means the light, the brightness, that appears over all quarters after the night has passed, before sunrise.
+
+The bhāṣyakāra's (Sāyaṇa's) explanation of the meaning:
+
+⟦ನಕ್ತಶಬ್ದ ಉಷಶ್ಯಬ್ದಶ್ಚ ಲೋಕೇ ಕಾಲವಿಶೇಷವಾಚಿನ್ । ಇಹ ತು ತತ್ಕಾಲಾಭಿಮಾನಿವಹಿ ಮೂರ್ತಿದ್ವಯೇ ಪ್ರಯುಜ್ಯೇತೇ । ನಕ್ತೋಷಾಸಾ
+ನಕ್ತೋಷೋನಾಮಿಕೇ ವಹ್ನಿಮೂರ್ತಿ⟧
+
+That is, to these two words nakta (night) and uṣaḥ (morning) there belongs, in worldly usage, the sense of indicating the special times, night and morning. Here, that is in this Ṛk or in the Ṛgveda, these words convey the sense of the presiding deities of night and morning. Therefore the words naktoṣāsā or uṣāsānaktā are used in the sense of two forms (mūrtis) of Agni, the presiding deities of the times of night and uṣas. The word सुपेशसा (*supeśasā*) (of good form or shape), used here and there, supports this meaning. For night and morning, being divisions of time, have neither form nor shape. If they are said to be the presiding deities of those times, a form can be assigned to those deities. Since such a statement is in this Ṛk, it must be understood that here the presiding deities of those times are what is propounded. The ṣa in the word naktoṣāsā is lengthened for the convenience of the metre.
+
+The epithet ऋतस्य मातरा (*ṛtasya mātarā*) in the Ṛk Ṛ. Saṃ. 1-142-7 is very important.
+
+⟦ದ್ರವತಾಂ ತ ಉಷಸಾ ವಾಜಯಂತೀ ಅಗ್ನೇ ವಾತಸ್ಯ ಪಥ್ಯಾಭಿರಚ್ಛ ।
+ಯತ್ಸಮಂಜಂತಿ ಪೂರ್ವ್ಯಂ ಹವಿರ್ಭಿರಾ ವಂಧುರೇವ ತಸ್ಥತುರ್ದುರೋಣೇ ॥⟧
+(printed मि (*mi*). सं (*saṃ*). 3-14-3)
+
+In this Ṛk the constant relation between the sacrifice and them is described. In all the Ṛks that invoke them (there are about twenty such Ṛks) it is prayed that they come with the other gods and sit on the seat of sacred grass. Moreover, they have a very close relation with Agni, who is to blaze at the time of Uṣas and in the evening. Therefore they are figuratively described as holding Agni between them.
+
+⟦ನಕ್ತೋಷಾಸಾ ವರ್ಣಮಾಮೇಮ್ಯಾನೇ ಧಾಪಯೇತೇ ಶಿಶುಮೇಕಂ ಸಮೀಚೀ ।
+ದ್ಯಾವಾಕ್ಷಾಮಾ ರುಕ್ಮೋ ಅಂತರ್ವಿ ಭಾತಿ ದೇವಾ ಅಗ್ನಿಂ ಧಾರಯನ್ದ್ರವಿಣೋದಾಂ ॥⟧
+(printed ಮ. सं (*saṃ*). 1-96-5)
+
+*[The window ends here, at the end of p. 719, after this Ṛk and its reference; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 715 (PDF 715). Sūkta 4 Ṛk 5 Special Topics (third pressing: śukriyam, aindrārbhava yājyā mantras; Ai. Brā. 28-12; third pressing ends)
+**Progress note:** Done through printed p. 719 (PDF 719). Sūkta 4 Ṛk 6 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) and Special Topics so far (Naktoṣāsā; Ni. 8-11, 2-19; 1-113-1; 1-142-7; 3-14-3; 1-96-5)
