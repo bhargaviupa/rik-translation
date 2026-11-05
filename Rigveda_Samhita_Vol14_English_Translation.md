@@ -27215,4 +27215,120 @@ Because they are able to see (or understand) well, संदृश (*saṃdṛś
 
 ---
 
-**Progress note:** Done through printed p. 710 (PDF 733). Sūkta 13: the Viśeṣaviṣayagaḷu of Ṛk 9 is finished at the top of p. 708 (Ṛg. 4-30-21 quotation). Ṛk 10 is written in full (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu, which ends on p. 710 with the Pañcajana discussion). Ṛk 11 is OPEN: only the Saṃhitā and Pada are written (the Ṛk number is not visible on the strips: the verse ends with ॥ alone); the next page (p. 711) should begin with its Sāyaṇa-bhāṣya. No grammar pages. No FILE DISAGREE: 4-30-21, 3-51-5 (twice), 1-4-1, and the Pañcajana references 2-296, 8-227, 9-321, 13-407 agree with the strips. Unzoomed numerals: headers of pp. 708–710, the Ṛk 10 number. [?] places: "रोधस्स्तत्यो" in the bhāṣya and Viśeṣa; the quoted Ṛk's third word (दभीतये, printed with a द्ध-like letter) on p. 708; "चौषधय" (औ vs आ) on p. 708 (clear on p. 710); Pada compound signs in "जातूऽस्थिरस्य". Accent marks are not reproduced.
+### Printed p. 711 (PDF 734)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 12 ]", "Ṛgvedasaṃhitā", "711".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra's might is praised by all, because with a single deed he wins the enemy's wealth, and because he accepts food from a mighty Jātūṣṭhira (or from a steady sacrifice); for all these deeds he is praiseworthy.*
+
+> वीर बलवन् हे इन्द्र तव वीर्यं सामर्थ्यं सुप्रवाचनं । सुष्ठु प्रवचनीयं । सर्वैः श्लाघनीयमित्यर्थः । किं तत् । एकेन क्रतुना कर्मणा वसु विन्दसे । शत्रूणां धनं लभसे ॥ विद्लृ लाभे । तुदादिः स्वरितेत् ॥ यद्वा तदीयं धनं स्तोतॄन् प्रापयसीति यत् तत्प्रशस्यमित्यर्थः । सहस्वतो बलवतो जातूष्ठिरस्य । एतन्नामकः कश्चित् । तस्य वयोऽन्नं प्रादाः । यद्वा जातूष्ठिरस्य । जातु कदाचित् सर्वदा स्थिरस्य सहस्वतो बलवतो यज्ञादेः कर्मणः संबन्धि वयो हविर्लक्षणमन्नं प्र विन्दसे इति समन्वयः । या यानीमान्यन्यानि विश्वा सर्वाणि कर्माणि चकर्थ कृतवानसि । स तादृशस्त्वमुक्थ्यः । सर्वैः प्रशंसनीयो भवसि ॥
+
+> *vīra balavan he indra tava vīryaṃ sāmarthyaṃ supravācanaṃ | suṣṭhu pravacanīyaṃ | sarvaiḥ ślāghanīyamityarthaḥ | kiṃ tat | ekena kratunā karmaṇā vasu vindase | śatrūṇāṃ dhanaṃ labhase ‖ vidlṛ lābhe | tudādiḥ svaritet ‖ yadvā tadīyaṃ dhanaṃ stotṝn prāpayasīti yat tatpraśasyamityarthaḥ | sahasvato balavato jātūṣṭhirasya | etannāmakaḥ kaścit | tasya vayo 'nnaṃ prādāḥ | yadvā jātūṣṭhirasya | jātu kadācit sarvadā sthirasya sahasvato balavato yajñādeḥ karmaṇaḥ saṃbandhi vayo havirlakṣaṇamannaṃ pra vindase iti samanvayaḥ | yā yānīmānyanyāni viśvā sarvāṇi karmāṇi cakartha kṛtavānasi | sa tādṛśastvamukthyaḥ | sarvaiḥ praśaṃsanīyo bhavasi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वीर (*vīra*)—O mighty Indra. यत् (*yat*)—for which reason. एकेन क्रतुना (*ekena kratunā*)—with an unequalled (non-dual) deed. वसु (*vasu*)—the (enemy's) wealth. विन्दसे (*vindase*)—you obtain (and). सहस्वतः (*sahasvataḥ*)—mighty. जातूष्ठिरस्य (*jātūṣṭhirasya*)—that which ought always to be steady. वयः (*vayaḥ*)—food in the form of the oblation. प्र (*pra*)—you partake of (therefore). तव (*tava*)—your. वीर्यं (*vīryaṃ*)—ability. सुप्रवाचनं (*supravācanaṃ*)—is praised by all (strip 2 of the page continues). इन्द्र (*indra*)—O Indra. या विश्वा (*yā viśvā*)—all these deeds that. चकर्थ (*cakartha*)—you have done. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—are worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+O mighty Indra, by your unequalled deed you obtain the enemy's wealth, and you partake of the oblation-food that is full of vigour and ought always to be steady. By both, your ability is praised by all. O Indra, you who have done all these deeds, such a one as you are worthy of praise.
+
+**English Translation** *(as printed)*
+
+Your heroism, hero, is to be glorified, by which, with a single effort, you have acquired wealth; (wherewith) the (sacrificial) food of (every) solemn and constant (ceremony is provided); for all (the acts) you have performed, you Indra, are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुप्रवाचनं तव वीर वीर्यं (*supravācanaṃ tava vīra vīryaṃ*)—
+
+> हे बलवन्निन्द्र तव वीर्यं सामर्थ्यं सुष्ठु प्रवचनीयं सर्वैः श्लाघनीयमित्यर्थः ।
+
+> *he balavannindra tava vīryaṃ sāmarthyaṃ suṣṭhu pravacanīyaṃ sarvaiḥ ślāghanīyamityarthaḥ |*
+
+O Indra, who are full of valour, your
+
+*(continues on p. 712; the sentence breaks at "your")*
+
+---
+
+### Printed p. 712 (PDF 735)
+
+*(Header, read from the strip and not zoomed: "712", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13". The last digit of the sūkta number is cut by the margin.)*
+
+excess of ability is praised by all. Here वीर्य (*vīrya*) means Indra's special ability, or his deed of daring. Which that deed of daring is, is explained in the next sentence.
+
+यत् एकेन क्रतुना विन्दसे वसु (*yat ekena kratunā vindase vasu*)—
+
+> एकेन कर्मणा शत्रूणां धनं लभसे । यद्वा तदीयं धनं स्तोतॄन् प्रापयसीति यत् तत्प्रशस्यमित्यर्थः ।
+
+> *ekena karmaṇā śatrūṇāṃ dhanaṃ labhase | yadvā tadīyaṃ dhanaṃ stotṝn prāpayasīti yat tatpraśasyamityarthaḥ |*
+
+Since the word क्रतु (*kratu*) is read among the names of "deed" (Ni. 3-1, as printed; agrees with the numeral file), क्रतुना (*kratunā*) means by work, or by a deed of daring. Defeating enemies is that deed of daring. "By a single deed in the form of the defeat of enemies you gain wealth; or you bring that wealth to us who praise you." Thus the deed that overcomes the enemy and brings us wealth is praised by all; this is how it connects with the previous sentence.
+
+जातूष्ठिरस्य प्र वयः सहस्वतः प्र (विन्दसे) (*jātūṣṭhirasya pra vayaḥ sahasvataḥ pra (vindase)*)—
+
+> सहस्वतो बलवतो जातूष्ठिरस्य एतन्नामकः कश्चित् तस्य वयोऽन्नं प्रादाः ।
+
+> *sahasvato balavato jātūṣṭhirasya etannāmakaḥ kaścit tasya vayo 'nnaṃ prādāḥ |*
+
+Since the word सहस् (*sahas*) is read among the names of strength (Ni. 3-9 [?], as printed; unzoomed), सहस्वतः (*sahasvataḥ*) means "one who has strength". O Indra, you helped a strong man called Jātūṣṭhira by providing him with food. This too is one of your deeds of daring. The name Jātūṣṭhira occurs in the Ṛgveda only in this Ṛk, and nowhere else. So who he is, what his affair was, why Indra helped him with food: such details cannot be known. Probably this Jātūṣṭhira was in distress without food and the like, and Indra, as he prayed, provided him with food. That is what is said here. Or—
+
+> जातूष्ठिरस्य । जातु कदाचित् सर्वदा स्थिरस्य सहस्वतो बलवतो यज्ञादेः कर्मणः संबन्धि वयो हविर्लक्षणमन्नं प्र विन्दसे इति समन्वयः ।
+
+> *jātūṣṭhirasya | jātu kadācit sarvadā sthirasya sahasvato balavato yajñādeḥ karmaṇaḥ saṃbandhi vayo havirlakṣaṇamannaṃ pra vindase iti samanvayaḥ |*
+
+Or else the commentator says another meaning can be given to this sentence: for the word जातूष्ठिरस्य (*jātūṣṭhirasya*) the meaning "a sacrifice which is steady because it is always performed by people" can be taken. For सहस्वतः (*sahasvataḥ*), "strong", that is, endowed with greatness, or giving abundant fruit, can be taken. So, O Indra, "you obtain food in the form of the oblation in sacrifices and other rites that are always performed by people and give abundant fruit": this is the other meaning he has given. But since for the word सहस्वतः (*sahasvataḥ*) the meaning "strong, or valorous" fits properly, the meaning that जातूष्ठिरस्य (*jātūṣṭhirasya*) is a man of that name is the appropriate one.
+
+यो चकर्थ सः इन्द्र विश्वा असि उक्थ्यः (*yo cakartha saḥ indra viśvā asi ukthyaḥ*) *(printed here "यो चकर्थ"; the Saṃhitā has "या चकर्थ")*—O Indra, because you have done the various deeds of daring mentioned above, you are praiseworthy; that is, people praise you for the deeds of daring that you have done. This is the main intention.
+
+*(A short rule closes the Ṛk.)*
+
+---
+
+### Printed p. 713 (PDF 736)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 12 ]", "Ṛgvedasaṃhitā", "713".)*
+
+#### Ṛk 12
+
+*(Reading notes: the Ṛk number is printed "॥ १२ ॥" at the end of the Saṃhitā and again after the Pada; not zoomed. The last words of the Saṃhitā are broken across a line, "श्रवयन्…स्यु‑क्थ्यः"; the join "श्रवयन्त्सास्युक्थ्यः" is read with doubt [?]. In the Pada the compound sign (ऽ) is read after सर in "सरऽअपसः" and after परा in "पराऽवृजं" as printed. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> अर॑मयः॒ सर॑पस॒स्तरा॑य॒ कं तु॒र्वीत॑ये च व॒य्या॑य च स्रु॒तिं ।
+> नी॒चा संत॒मुद॑नयः परा॒वृजं॒ प्रांधं श्रो॒णं श्र॒वय॒न्त्सास्यु॒क्थ्यः॑ ॥ १२ ॥
+
+> *aramayaḥ sarapasastarāya kaṃ turvītaye ca vayyāya ca srutiṃ |*
+> *nīcā saṃtamudanayaḥ parāvṛjaṃ prāṃdhaṃ śroṇaṃ śravayantsāsyukthyaḥ ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> अरमयः । सरऽअपसः । तराय । कं । तुर्वीतये । च । वय्याय । च । स्रुतिं ।
+> नीचा । संतं । उत् । अनयः । पराऽवृजं । प्र । अंधं । श्रोणं । श्रवयन् । सः ।
+> असि । उक्थ्यः ॥ १२ ॥
+
+> *aramayaḥ | sara 'apasaḥ | tarāya | kaṃ | turvītaye | ca | vayyāya | ca | srutiṃ |*
+> *nīcā | saṃtaṃ | ut | anayaḥ | parā 'vṛjaṃ | pra | aṃdhaṃ | śroṇaṃ | śravayan | saḥ |*
+> *asi | ukthyaḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra made the rivers easy to cross for the royal sage Turvīti and for Vayya, raised the fallen Parāvṛj out of distress, and, spreading his own fame, lifted up the blind and the lame.*
+
+> हे इन्द्र सरपसः । सरणमपः कर्म यासां ताः सरपसः ॥ शंकध्वादित्वात्पररूपत्वं ॥ ता अपः कं सुखेन तराय तरणायारमयः । आक्रीडयः । किंच तुर्वीतये । तुर्वीतिर्नाम कश्चिद्राजर्षिः । तस्मै वय्याय च । वय्यो नाम कश्चित् तस्मै । ताभ्यां स्रुतिं सरणिं प्रत्यरमयः । तौ हि जलपूर्णां महानदीं दृष्ट्वा तरीतुमसमर्थावास्तां । तौ च त्वया तारितौ । परावृजं । परितः पापानि वृणक्ति दहतीति परावृक् कश्चिदृषिः । तमप्सु मग्नं तथा नीचा नीचं संतमुदनयः । आपद्भ्य ऊर्ध्वं नीतवानसि । किंच अंधं संतं श्रोणं पंगुं संतं चक्षुर्दानादसंगु[?]करणाच्छ्रोदनयः । किं कुर्वन् । प्रकर्षेण श्रवयन् । आत्मानं कीर्तिमंतं कुर्वन् । उदनयः इति समन्वयः । स इत्यादि सिद्धं ॥
+
+> *he indra sarapasaḥ | saraṇamapaḥ karma yāsāṃ tāḥ sarapasaḥ ‖ śaṃkadhvāditvātpararūpatvaṃ ‖ tā apaḥ kaṃ sukhena tarāya taraṇāyāramayaḥ | ākrīḍayaḥ | kiṃca turvītaye | turvītirnāma kaścidrājarṣiḥ | tasmai vayyāya ca | vayyo nāma kaścit tasmai | tābhyāṃ srutiṃ saraṇiṃ pratyaramayaḥ | tau hi jalapūrṇāṃ mahānadīṃ dṛṣṭvā tarītumasamarthāvāstāṃ | tau ca tvayā tāritau | parāvṛjaṃ | paritaḥ pāpāni vṛṇakti dahatīti parāvṛk kaścidṛṣiḥ | tamapsu magnaṃ tathā nīcā nīcaṃ saṃtamudanayaḥ | āpadbhya ūrdhvaṃ nītavānasi | kiṃca aṃdhaṃ saṃtaṃ śroṇaṃ paṃguṃ saṃtaṃ cakṣurdānādasaṃgu[?]karaṇācchrodanayaḥ | kiṃ kurvan | prakarṣeṇa śravayan | ātmānaṃ kīrtimaṃtaṃ kurvan | udanayaḥ iti samanvayaḥ | sa ityādi siddhaṃ ‖*
+
+*(Reading note: the clause about the blind and the lame, "चक्षुर्दानादसंगु…करणाच्छ्रोदनयः", is printed across a line break and is read with doubt [?]. The grammatical remark "शंकध्वादित्वात्पररूपत्वं" is transcribed and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इन्द्र (*indra*)—O Indra.) तुर्वीतये (*turvītaye*)—to the royal sage called Turvīti. वय्याय च (*vayyāya ca*)—and to the one called Vayya. सरपसः (*sarapasaḥ*)—the flowing rivers. कं (*kaṃ*)—easily. तराय (*tarāya*)—for crossing. स्रुतिं (*srutiṃ*)—a path. अरमयः (*aramayaḥ*)—you made. प्र श्रवयन् (*pra śravayan*)—making your fame shine forth. नीचा (*nīcā*)—in the lower part. संतं (*saṃtaṃ*)—who had fallen. अंधं (*aṃdhaṃ*)—who was blind. श्रोणं (*śroṇaṃ*)—who was lame. परावृजं (*parāvṛjaṃ*)—the one called Parāvṛk. उदनयः (*udanayaḥ*)—you protected from the distress and lifted up. सः (*saḥ*)—such a one as you. उक्थ्यः (*ukthyaḥ*)—worthy of praise. असि (*asi*)—you are.
+
+*(Ṛk 12 is left open: the Bhāvārtha and the rest follow on p. 714.)*
+
+---
+
+**Progress note:** Done through printed p. 713 (PDF 736). Sūkta 13: Ṛk 11 is complete (Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English, and Viśeṣaviṣayagaḷu ending on p. 712 with a short rule). Ṛk 12 is OPEN: Saṃhitā, Pada, bhāṣya and Pratipadārtha are written; the next page (p. 714) should begin with its Bhāvārtha. No grammar pages. Numeral file: only the "Ni. 3-1" on p. 712 had a row and it agrees; the Nirukta reference after "सहस्" on p. 712 was not in the file and is given as "3-9 [?]" from the strip, unzoomed. Unzoomed numerals: headers of pp. 711–713 and the Ṛk 12 number. [?] places: the join "श्रवयन्त्सास्युक्थ्यः" in the Saṃhitā; the clause "चक्षुर्दानादसंगु…करणाच्छ्रोदनयः" in the bhāṣya; "यो चकर्थ" printed in the Viśeṣa (Saṃhitā has "या चकर्थ"); the Pada compound signs in "सरऽअपसः" and "पराऽवृजं". Accent marks are not reproduced.
