@@ -33616,6 +33616,95 @@ in support of the statement. The meaning of the last pāda has already been expl
 
 Thou who art born with excellent wisdom and strength, who, joined with heroic deeds such as the slaying of enemies, art grown strong, who confronts and defeats the violent asuras, who looks on, distinguishing the good from the wicked, to the sacrificer who praises, effective ... (the Bhāvārtha breaks off here, in mid-word, at the end of the page window: कार्यसाधकवा (*kāryasādhakavā*))
 
+### Printed p. 899
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 28] Ṛgveda Saṃhitā 899", as supplied.)*
+
+(The Bhāvārtha of Ṛk 3 continues; the word broken off at the end of the previous page is completed here as कार्यसाधकवादुदू (*kāryasādhakavādudū*).) ...and desirable and worthy of being prayed for, as the giver of wealth, thou hast wished to bear the burden of the world. May the Soma, which is true in nature, flowing and shining, join Indra, who is true in nature and desires Soma, and pervade his bodies. (In the supplied text the word before "ಕೊಡು" reads सेरिकॊडु (*serikòḍu*); reported as supplied.)
+
+**Printed English translation**
+
+Cognate with(pious) works and with power, you desire to support
+(the Universe): mighty with heroic(energies), you are the subduer of the
+malevolent:(you are) the distinguisher(between the doer of good and ill):
+the giver of the substantial wealth he desires to him who praises you: May
+the divine(Soma) pervade the divine(Indra), the true Soma, the true(Indra).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+साकं जातः क्रतुना (*sākaṃ jātaḥ kratunā*)—कर्मणा प्रज्ञया वास जातोऽसि (*karmaṇā prajñayā vāsa jāto 'si*) (as supplied). O Indra, thou art born, from the very moment of birth, worthy of worship through sacrificial and other acts, or endowed with wisdom. Ordinary men or other gods can perform deeds, or become knowing, only some time after they are born; but with thee, Indra, it is not so. Thou art able to do deeds of valour from the moment of birth, or thou hast all-round knowledge from birth; this is the meaning. This is described in Ṛks such as—
+
+यो जात एव प्रथमो मनस्वान् देवो देवान् क्रतुना पर्यभूषत् (*yo jāta eva prathamo manasvān devo devān kratunā paryabhūṣat*)
+यस्य शुष्माद्रोदसी अभ्यसेतां नृण्मस्य मह्ना स जनास इंद्रः (*yasya śuṣmādrodasī abhyasetāṃ nṛṇmasya mahnā sa janāsa iṃdraḥ*) (Ma. Saṃ. 2-12-1, as supplied: the abbreviation reads म. सं. (*ma. saṃ.*))
+
+ओजसा साकं ववक्षिथ (*ojasā sākaṃ vavakṣitha*)—बलेन सह विश्वं वोढुमिच्छसि (*balena saha viśvaṃ voḍhumicchasi*). O Indra, by thy extraordinary strength thou art able to bear and protect the whole universe; this is the meaning.
+
+वीर्यैः साकं वृद्धः मृधः सासहिः (*vīryaiḥ sākaṃ vṛddhaḥ mṛdhaḥ sāsahiḥ*)—त्वं शत्रुहननादिलक्षणैः पराक्रमैः सह प्रवृद्दो हिंसकान् संग्रामान्वा सासहिः (*tvaṃ śatruhananādilakṣaṇaiḥ parākramaiḥ saha pravṛddo hiṃsakān saṃgrāmānvā sāsahiḥ*). O Indra, endowed with thy surpassing heroic deeds and having increased thy powers, thou endurest the afflictions that violent enemies inflict in battle and defeatest them; this is the main meaning.
+
+विचर्षणि (*vicarṣaṇi*)—पुण्यकृतोऽपुण्यकृतश्च विशेषेण द्रष्टा (*puṇyakṛto 'puṇyakṛtaśca viśeṣeṇa draṣṭā*). Indra is the one who sees who does good and who does evil; that is, he gives good fruit to those who do good and punishment to those who do evil.
+
+### Printed p. 900
+
+*(Header: "900 Sāyaṇabhāṣyasahitā [Maṃ. 2. Ā. 2 Sū. 22]", as supplied.)*
+
+दाता राधः स्तुवते काम्यं वसु (*dātā rādhaḥ stuvate kāmyaṃ vasu*)—स्तोत्रं कुर्वाणाय यजमानाय राधः साधकं काम्यं प्रार्थनीयं वसु धनं दाता (*stotraṃ kurvāṇāya yajamānāya rādhaḥ sādhakaṃ kāmyaṃ prārthanīyaṃ vasu dhanaṃ dātā*). The commentator explains that this Indra gives the sacrificer who praises him the wealth and other things he needs. The explanation of the fourth pāda has been given in the first Ṛk itself.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+*(The first line of the Saṃhitā survives only inside the title attribute of the supplied HTML and the rest in a block garbled with the Pada; both were converted letter for letter and joined into three lines (the supplied text breaks the first line at "ಪ್ರವಾ-" / "ಚ್ಯಂ"). Doubtful places, reported not settled: इन्र (*inra*) for Indra's name, also in the Pada; प्रारीणा (*prārīṇā*) against Pada अरिणा (*ariṇā*) and bhāṣya प्रारिणाः (*prāriṇāḥ*); भुनद्विश्वमभ्यादैवमोजसा (*bhunadviśvamabhyādaivamojasā*) against Pada भुवत् विश्वं अभि अदेवं ओजसा (*bhuvat viśvaṃ abhi adevaṃ ojasā*) and bhāṣya भुवत् (*bhuvat*); विदितादिषं (*viditādiṣaṃ*) against Pada विदात् इषं (*vidāt iṣaṃ*). No Ṛk number is printed after the Saṃhitā in the supplied text.)*
+
+> तव॒ त्यन्नर्यं॑ नृ॒तोप॑ इन्र [?] प्रथ॒मं पू॒र्व्यं दि॒वि प्र॒वाच्यं॑ कृ॒तं ।
+> यद्दै॒वस्य॒ शव॑सा॒ प्रारी॑णा॒ [?] असुं॑ रि॒णन्न॒पः ।
+> भुन॒द्विश्व॑म॒भ्यादै॑व॒मोज॑सा [?] वि॒दादूर्जं॑ श॒तक्र॑तुर्वि॒दितादिषं॑ [?]॥
+
+**॥ पदपाठः ॥**
+
+*(The Pada was printed twice in the supplied text, the second time followed by the title-attribute fragment; the duplicate is left out. Slips: a stray apostrophe after इन्र (*inra*); शवसा ! (*śavasā !*) with an exclamation mark for the danda, written here as danda; अप (*apa*) without visarga; the first विदात (*vidāta*) without virāma (the last word of the line is विदात् (*vidāt*)).)*
+
+> तव । त्यत् । नर्यं । नृतो इति अप । इन्र [?] ' प्रथमं । पूर्व्यं । दिवि । प्रवाच्यं । कृतं ।
+> यत् । देवस्य । शवसा । प्र । अरिणा । असुं । रिणन् । अप [?] ।
+> भुवत् । विश्वं । अभि । अदेवं । ओजसा । विदात [?] । ऊर्जं । शतक्रतुः । विदात् ।
+> इषं ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*(The label was printed कयणभाष्यं (*kayaṇabhāṣyaṃ*) in the supplied text; written in the standard form.)*
+
+> नृतो सर्वेषां नर्तयितः हे इंद्र नर्यं नराणां हितकरं प्रथमं
+> प्रततं ॥ प्रथमं प्रततमिति यास्कः ॥ पूर्व्यं पूर्वकालभवं त्वया कृतं । तव त्यत्
+> तदपः कर्म दिवि स्वर्गलोके प्रवाच्यं । प्रकर्षेण वक्तव्यं । श्लाघनीयमित्यर्थः ।
+> किं तत् । देवस्य विजिगीषोरसुरस्यासुं प्राणं रिणन् हिंसन् त्वमपस्तेन विरुद्धा-
+> न्युदकानि प्रारिणाः । प्रैरयः। इति यदेतत्कर्म तत्प्रवाच्यमिति समन्वयः। परोक्ष-
+> निर्देशोऽवशिष्टः । स इंद्रो विश्वं व्याप्तमदेवं तमोरूपमसुरमोजसा बले-
+> नाभिभुवत् । अभिभवतु । किंच शतक्रतुरिंद्र ऊर्जं बलं विदात् । इषं हविर्लक्षण-
+> मन्नं च विदात् । विदिर् लाभे शविकरणी । लेट्मडागमः ॥
+
+*Gist: Indra, delighter of all, the ancient deed of freeing the waters by slaying the asura is praised in heaven; may he overcome the godless one and win strength and food.*
+
+### Printed p. 901
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 28] Ṛgveda Saṃhitā 901", as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नृतो (*nṛto*)—one who makes all dance (with joy); इंद्र (*iṃdra*)—O Indra; यत् (*yat*)—by which glory of thine; देवस्य (*devasya*)—of the asura who wished to conquer the gods; असुं (*asuṃ*)—the life-breath; शवसा (*śavasā*)—by force; रिणन् (*riṇan*)—injuring; अपः (*apaḥ*)—the waters (held back by him); प्रारिणाः (*prāriṇāḥ*)—didst cause to flow; नर्यं (*naryaṃ*)—beneficial to men; प्रथमं (*prathamaṃ*)—excellent; पूर्व्यं (*pūrvyaṃ*)—most ancient; तव कृतं (*tava kṛtaṃ*)—accomplished by thee; त्यत् अपः (*tyat apaḥ*)—that famous deed; दिवि (*divi*)—in the world of heaven; प्रवाच्यं (*pravācyaṃ*)—is to be praised greatly (the supplied text has a stray "i" before this word, for the danda); शतक्रतुः (*śatakratuḥ*)—that same Indra; विश्वं (*viśvaṃ*)—one who has pervaded the whole universe; अदेवं (*adevaṃ*)—and is without light, of the nature of darkness, the asura; ओजसा (*ojasā*)—by strength; अभि भुवत् (*abhi bhuvat*)—let him defeat; ऊर्जं (*ūrjaṃ*)—strength; विदात् (*vidāt*)—let him obtain; इषं (*iṣaṃ*)—and food; विदात् (*vidāt*)—let him obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, who makest all dance with joy, by which glory of thine thou didst forcibly injure the life-breath of the asura who wished to conquer the gods and didst cause the waters held back by him to flow, that deed of thine, beneficial to men, excellent, most ancient, accomplished by thee and famous, is to be praised greatly in the world of heaven. May that same Indra defeat by his strength the asura who has pervaded the whole universe and is without light, of the nature of darkness, and may he obtain strength and food.
+
+**Printed English translation**
+
+Indra, the delighter(of all), the first act performed by you in ancient time was for the good of man, and deserving of renown in heaven, when, arresting by force the breath of the(enemy) of the gods, you sent down the rain: May Indra prevail by his prowess over all that is godless: may Shatakratu obtain vigour; may he obtain(sacrificial) food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+त्यत् (*tyat*)—तत् (*tat*). The word त्यत् (*tyat*) has the same meaning as the word तत् (*tat*); it can be rendered "that", "the", "such".
+
+नर्यं (*naryaṃ*)—नराणां हितकरं (*narāṇāṃ hitakaraṃ*). The meaning is: beneficial to men.
+
 ---
 
-**Progress note:** Done through printed p. 898 (PDF 898). Sukta 22 Rk 2 Pratipadartha-Special Topics done; Rk 3 Samhita, Pada, bhasya, Pratipadartha done, Bhavartha begun (breaks off at page end)
+**Progress note:** Done through printed p. 901 (PDF 901). Sukta 22 Rk 3 Bhavartha, printed English, Special Topics done; Rk 4 Samhita (title-attribute first line, slips marked), Pada, bhasya, Pratipadartha, Bhavartha, printed English done; Special Topics of Rk 4 begun
