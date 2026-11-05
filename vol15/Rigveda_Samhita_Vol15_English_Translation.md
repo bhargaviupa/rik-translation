@@ -2629,6 +2629,115 @@ From this, भूम्यंतरिक्षस्वर्गस्थान
 
 Addressing the Ādityas as हॆ अदित्याः आर्यमन्, मित्र, वरुण (*hè adityāḥ āryaman, mitra, varuṇa*) [as supplied], ऋतेन यज्ञेन सत्येन पा युष्माकं प्रभूतं महाभाग्यं चारु (*ṛtena yajñena satyena pā yuṣmākaṃ prabhūtaṃ mahābhāgyaṃ cāru*): it is described that their abundant glory, full of greatness, surpasses everything because it protects the sacrifice and truth. The meanings of the words Āryamā, Mitra and Varuṇa have been explained before. For the word ṛta the meanings truth and sacrifice are given by Yāska: सत्यं वा यज्ञं वा (*satyaṃ vā yajñaṃ vā*) (Ni. 4-19).
 
+### Printed p. 86
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> श्री रो॑च॒ना दि॒व्या धा॑रयन्त हिर॒ण्ययाः॒ शुच॑यो॒ धार॑पूताः ।
+> अस्व॑प्नजो अनिमि॒षा अद॑ब्धा उरु॒शंसा॑ ऋ॒जवे॒ मर्त्या॑य ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> श्री । रोचना । दिव्या । धारयन्त । हिरण्ययाः । शुचयः । धार्पूताः ।
+> अस्वप्नजः । अनिमिषाः । अदब्धाः । उरुशंसाः । यजवे । मर्त्याय ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> श्री रोचना त्रीणि रोचनानि रोचमानाग्न्यादीनि तेजांसि दिव्या दिव्यानि
+> दिविभवानि धारयंत । आदित्या अवास्थापयन् । किमर्थं । ऋजवे ऋजीकाय
+> स्तोत्राणां मर्त्याय मनुष्याय भोगसिद्ध्यर्थमिति यावत् । कीदृशा आदित्याः ।
+> हिरण्ययाः । हिरण्मया हिरण्यालंकृतसर्वांगाः । यद्वा हितरमणीयवेषाः ।
+> शुचयो दीप्यमानाः । धारपूता उदकधारया क्षालिता इव निर्मलाः । अस्वप्न-
+> जोऽसंजातस्वप्नाः ॥ सुपां सुलुगिति जसः सुः ॥ अपर आह । अस्वप्नजोऽस्वपंतो
+> विगतनिद्राः ॥ स्वपितृषोर्नजिज्ञति नजिज् प्रत्यय इति तदेतत्पदकारस्यानभिमतं ॥
+> अनिमिषा निमेषरहिताः । अदब्धा असुरादिभिरहिंसिताः । उरुशंसा उरुभिर्बहुभिः
+> शंसनीयाः स्तोतव्याः । एवंगुणविशिष्टा आधारयंतेत्यन्वयः ॥
+
+> *śrī rocanā trīṇi rocanāni rocamānāgnyādīni tejāṃsi divyā divyāni*
+> *divibhavāni dhārayaṃta | ādityā avāsthāpayan | kimarthaṃ | ṛjave ṛjīkāya*
+> *stotrāṇāṃ martyāya manuṣyāya bhogasiddhyarthamiti yāvat | kīdṛśā ādityāḥ |*
+> *hiraṇyayāḥ | hiraṇmayā hiraṇyālaṃkṛtasarvāṃgāḥ | yadvā hitaramaṇīyaveṣāḥ |*
+> *śucayo dīpyamānāḥ | dhārapūtā udakadhārayā kṣālitā iva nirmalāḥ | asvapna-*
+> *jo 'saṃjātasvapnāḥ ‖ supāṃ sulugiti jasaḥ suḥ ‖ apara āha | asvapnajo 'svapaṃto*
+> *vigatanidrāḥ ‖ svapitṛṣornajijñati najij pratyaya iti tadetatpadakārasyānabhimataṃ ‖*
+> *animiṣā nimeṣarahitāḥ | adabdhā asurādibhirahiṃsitāḥ | uruśaṃsā urubhirbahubhiḥ*
+> *śaṃsanīyāḥ stotavyāḥ | evaṃguṇaviśiṣṭā ādhārayaṃtetyanvayaḥ ‖*
+
+Gist: the Ādityas, golden-adorned, shining, sleepless and unharmed, uphold the three heavenly lights for the upright mortal.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+हिरण्ययाः (*hiraṇyayāḥ*) (hiraṇyayāḥ): those of golden form, or those of a beneficial and charming appearance; शुचयः (*śucayaḥ*): the shining; धारपूताः (*dhārapūtāḥ*): those pure as if washed by a stream of water; अस्वप्नजः (*asvapnajaḥ*): those without sleep; अनिमिषाः (*animiṣāḥ*): those who strike (close) the eyelid [sic, as supplied: the Kannada says "who do close the eyelid"; the Bhāvārtha has "who do not close"]; अदब्धाः (*adabdhāḥ*): unharmed by Asuras and others; उरुशंसाः (*uruśaṃsāḥ*): praised by many — the Ādityas. ऋजवे (*ṛjave*): of the upright-minded worshipper; मर्त्याय (*martyāya*): for the good of man; दिव्या (*divyā*): born in the world of the gods; त्री रोचना (*trī rocanā*): the three luminous orbs beginning with Agni; धारयंत (*dhārayaṃta*): have upheld.
+
+### Printed p. 87
+
+**भावार्थ (Bhāvārtha)**
+
+The Ādityas, of golden form, shining, pure as if washed by streams of water, sleepless, not closing the eyelids, unharmed by Asuras and others, praised by many, have upheld the three luminous orbs beginning with Agni, born in the world of the gods, for the good of the upright-minded worshipper, man.
+
+**Printed English translation**
+
+The Adityas, decorated with golden ornaments, brilliant, purified by showers, who never slumber, nor close their eyelids, who are unassailable, and praised by many, uphold the three bright heavenly regions for the sake of the upright man.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+श्री रोचना दिव्या धारयंत (*śrī rocanā divyā dhārayaṃta*): Sāyaṇa explains it as आदित्याः दिवि भवानि त्रीणि रोचमानानि अग्न्यादीनि तेजांसि अवस्थापर्य (*ādityāḥ divi bhavāni trīṇi rocamānāni agnyādīni tejāṃsi avasthāparya*) [as supplied]: it is described that the Ādityas have set firmly in place the three kinds of lights born in the sky, Agni, Sūrya and the rest, so as to bring happiness to those who praise them.
+
+On the word हिरण्ययाः (*hiraṇyayāḥ*) he gives हिरण्यालंकृतसर्वांगाः (*hiraṇyālaṃkṛtasarvāṃgāḥ*) and हितरमणीयवेषाः (*hitaramaṇīyaveṣāḥ*): it is explained that the Ādityas have limbs adorned with golden ornaments, or have a dress and decoration that is beneficial and charming.
+
+धारपूताः (*dhārapūtāḥ*): the Ādityas are pure, as if well washed by streams of water; अस्वप्नजः (*asvapnajaḥ*): without dreams or without sleep; उरुशंसाः (*uruśaṃsāḥ*): worthy of praise by many people. Thus the Ādityas' greatness, adornment, form and nature are described.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> त्वं विश्वे॑षां वरुणासि॒ राजा॒ ये च॑ दे॒वा अ॑सुर॒ ये च॒ मर्ताः॑ ।
+> श॒तं नो॑ रास्व श॒रदो॑ वि॒चक्षे॒ऽश्यामायूं॑षि॒ सुधि॑तानि॒ पूर्वा॑ ॥ १० ॥
+
+> *tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ |*
+> *śataṃ no rāsva śarado vicakṣe 'śyāmāyūṃṣi sudhitāni pūrvā ‖ 10 ‖*
+
+### Printed p. 88
+
+**॥ पदपाठः ॥**
+
+> त्वं । विश्वेषां । वरुण । असि । राजा । ये । च । देवाः । असुर । ये । च । मर्ताः
+> शतं । नः । रास्व । शरदः । विचक्षे । अश्याम । आयूंषि । सुधितानि । पूर्वा ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे असुर शत्रूणां क्षेपक वरुण त्वं विश्वेषां सर्वॆषां राजासि । केषां ।
+> ये च देवा देवजनाः ये च मर्ता मरणधर्माणो मनुष्याः । तेषामित्यर्थः।
+> अतस्त्वं नोऽस्मभ्यं शतं शरदः शतसंख्याकान् संवत्सरान् विचक्षे विशेषेण दर्श-
+> नाय रास्व ! प्रयच्छ ॥ रा दाने । व्यत्ययेनात्मनेपदं ॥ वयं च पूर्वा पूर्वै-
+> र्देवैः सुधितानि सुष्टु हितानि शतसंवत्सरलक्षणान्यायुंष्यश्याम । व्याप्नुयाम ॥
+> सुधितवसुधितनेमधितधिष्टधिषीय चेति निपात्यते । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ।
+> पूर्वा । सुपार सुलुगिति तृतीयाया डादेशः ॥
+
+> *he asura śatrūṇāṃ kṣepaka varuṇa tvaṃ viśveṣāṃ sarvèṣāṃ rājāsi | keṣāṃ |*
+> *ye ca devā devajanāḥ ye ca martā maraṇadharmāṇo manuṣyāḥ | teṣāmityarthaḥ|*
+> *atastvaṃ no 'smabhyaṃ śataṃ śaradaḥ śatasaṃkhyākān saṃvatsarān vicakṣe viśeṣeṇa darśa-*
+> *nāya rāsva ! prayaccha ‖ rā dāne | vyatyayenātmanepadaṃ ‖ vayaṃ ca pūrvā pūrvai-*
+> *rdevaiḥ sudhitāni suṣṭu hitāni śatasaṃvatsaralakṣaṇānyāyuṃṣyaśyāma | vyāpnuyāma ‖*
+> *sudhitavasudhitanemadhitadhiṣṭadhiṣīya ceti nipātyate | gatiranaṃtara iti gateḥ prakṛtisvaratvaṃ |*
+> *pūrvā | supāra sulugiti tṛtīyāyā ḍādeśaḥ ‖*
+
+Gist: Varuṇa, lord of gods and mortals, is asked to grant a hundred years of sight, so that we may enjoy the lives enjoyed by the ancients; the tail gives the grammar of रास्व (*rāsva*), सुधितानि (*sudhitāni*) and पूर्वा (*pūrvā*).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+असुर (*asura*): O destroyer of enemies; वरुण (*varuṇa*): O Varuṇa; त्वं (*tvaṃ*): you; ये च देवाः (*ye ca devāḥ*): whatever gods there are; ये च मर्ताः (*ye ca martāḥ*): whatever men there are; विश्वेषां (*viśveṣāṃ*): of all of these; राजा असि (*rājā asi*): you are the lord; नः (*naḥ*): to us; शतं शरदः (*śataṃ śaradaḥ*): a hundred years; विचक्षे (*vicakṣe*): for seeing; रास्व (*rāsva*): give; (वयं च (*vayaṃ ca*): we also); पूर्वा (*pūrvā*): by the ancient sages; सुधितानि (*sudhitāni*): fully enjoyed; आयूंषि (*āyūṃṣi*): lifetimes; अश्याम (*aśyāma*): may we enjoy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, destroyer of enemies, you are the lord of all the gods and all men. Let us see the full hundred years; as the former sages fully enjoyed a life of a hundred years, so may we also enjoy a full lifetime.
+
+**Printed English translation**
+
+Varuna, destroyer of foes, you are the sovereign over all, whether they be gods or mortals: grant to us to behold a hundred years, and that we may enjoy lives such as were enjoyed by ancient (sages).
+
 ---
 
-**Progress note:** Done through printed p. 85 (PDF 85). Sūkta 27 Ṛk 7 Special Topics completed (p. 83); Ṛk 8 complete (pp. 83-85). Hand fixes to kn.md: Pada block separated from the garbled bhāṣya label (standard label put), bhāṣya kept as two blocks across the p. 83/84 break. Flags: supplied slips left (Pada ಯತೇನ for ಋತೇನ, ಭೂಮಿಾ, ದ್ಯೂನ್ ತ್ರೀ೯, ಹೆ ಅದಿತ್ಯಾಃ, ಪಾ, ದೀರ್ಪ್ತಾ, ಮಹರಾದಿರ್ಕಾ, ಅಯ್ಯಮನೇ, ಮಾಹಾತ್ಮ, ಸಾಯುಣಭಾಷ್ಯಂ label, ವರ್ತಶೇ); p. 83 head ವ. ೩ vs p. 85 ವ. ೭ as supplied; accent check reported 1 DIFF
+**Progress note:** Done through printed p. 88 (PDF 88). Sūkta 27 Ṛk 9 complete (pp. 86-87); Ṛk 10 complete (pp. 87-88). Hand fixes to kn.md: Ṛk 10 Pada label restored and 'पदपठे' line removed, duplicate bhāṣya label removed, Bhāvārtha and English labels standardised. Flags: supplied slips left (Pada ಧಾರ್ಪೂತಾಃ, ಯಜವೇ for ಋಜವೇ, ಶ್ರೀ for ತ್ರೀ, Pratipadārtha ಅನಿಮಿಷಾಃ 'strike the eyelid' vs Bhāvārtha 'do not', ಅವಸ್ಥಾಪರ್ಯ, ಸರ್ವೆಷಾಂ, ಸುಪಾರ); running heads ಆ. ೨. ಆ. ೭. ವ. ೭ (p. 87) and ಸೂ. ೨.೭ (p. 88) as supplied; accent check 1 DIFF
