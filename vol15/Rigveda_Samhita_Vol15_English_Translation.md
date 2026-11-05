@@ -24444,6 +24444,99 @@ It is said in detail (vyaṣṭi) that there are three thousand three hundred an
 
 *[The window ends here, at the end of p. 790, after the Bṛhadāraṇyaka quotation and its reference; the next window continues.]*
 
+### Printed p. 791
+
+*[Running head, p. 791: Ā. (printed so for A.) 2, A. 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+[continuing:] the number of the gods is only thirty-three: eight Vasus, eleven Rudras, twelve Ādityas, Indra and Prajāpati. These make thirty-three gods in all. By their greatness they are explained to be three thousand three hundred and thirty-three (as supplied, "मूरुसाविरद मूरुनूर मूवत्तमूरु (*mūrusāvirada mūrunūra mūvattamūru*)"). On this matter, in the Ṛk ये देवासो दिव्येकादशस्थ (*ye devāso divyekādaśastha*) (Ṛ. Saṃ. 139-11-1, as printed) the words ते देवासो यज्ञमिमं जुषध्वं (*te devāso yajñamimaṃ juṣadhvaṃ*), "you gods, all of you, partake of this our sacrifice", address the gods of the three worlds. By ⟦ದಿವಿ ಏಕಾದಶ, ಪೃಥಿವ್ಯಾಂ ಏಕಾದಶ,
+ಅಪ್ಸುಕ್ಷಿತೋ ಏಕಾದಶ⟧ it is said that the total number of gods from the three worlds is thirty-three. Sāyaṇa, quoting the Nirukta statement यद्यपि तिस्र एव देवताः (*yadyapi tisra eva devatāḥ*) (Ni. 7-5), says:
+
+क्षित्याद्यभिमानिन्नो देवतास्तिस्र एव तथापि महत्तेन स्वस्वविभूत्या त्रयस्त्रींशत्संख्याता भवंति । तत्तत्स्थाना अन्यास्तद्विभूतय इत्युक्तत्वात् । (*kṣityādyabhimāninno devatāstisra eva tathāpi mahattena svasvavibhūtyā trayastrīṃśatsaṃkhyātā bhavaṃti | tattatsthānā anyāstadvibhūtaya ityuktatvāt |*)
+
+Although the deities presiding over earth, atmosphere and the heaven-world are only three, by their greatness they appear to number thirty-three; all the other gods in the respective worlds are their manifestations (vibhūtis). The Nirukta authors too:
+
+⟦ತಿಸ್ರ ಏವ ದೇವತಾ ಇತಿ ನೈರುಕ್ತಾಃ । ಅಗ್ನಿಃ ಪೃಥಿವೀಸ್ಥಾನಃ । ವಾಯುರ್ವಾ ಇಂದ್ರೋ ವಾ
+ಅಂತರಿಕ್ಷಸ್ಥಾನಃ । ಸೂರೋ ದ್ಯುಸ್ಥಾನಃ । ತಾಸಾಂ ಮಹಾಭಾಗ್ಯಾತ್ ಏಕೈಕಸ್ಯಾ ಅಪಿ
+ಬಹೂನಿ ನಾಮಧೇಯಾನಿ ಭವಂತಿ । ಅಪಿ ವಾ ಕರ್ಮಪೃಥಕ್ತ್ವಾತ್ ।⟧
+(Ni. 7-5)
+
+According to the Nirukta authors, the three deities, Agni, Vāyu or Indra, and Sūra, are the presiding deities of the three worlds, earth, atmosphere and the heaven-world. Saying that these deities have many names according to their greatness or because of the variety of their works, they state, from Ni. 7-14 to 9-43 (as printed, "७-१४ रिंद ९-४३ ने खंड (*7-14 riṃda 9-43 ne khaṃḍa*)"), अथातोऽनुक्रमिष्याम अग्निः पृथिवीस्थानः तं प्रथमं वाख्यास्यामः । (*athāto 'nukramiṣyāma agniḥ pṛthivīsthānaḥ taṃ prathamaṃ vākhyāsyāmaḥ |*), the nature of the gods of the earth, and from 10-1 to 11-50, ⟦ಅಥಾತೋ
+ಮಧ್ಯಸ್ಥಾನಾ ದೇವತಾಃ । ತಾಸಾಂ ವಾಯುಃ ಪ್ರಥಮಾಗಾಮಿ ಭವತಿ ।⟧, the nature of the gods of the atmosphere. Although there are differences of opinion on the number of the gods thus divided, in many places of the Ṛksaṃhitā a single view is seen.
+
+⟦ಆ ನಾಸತ್ಯಾ ತ್ರಿಭಿರೇಕಾದಶೈರಿಹ ದೇವೇಭಿರ್ಯಾತಂ ಮಧುಪೇಯಮಶ್ವಿನಾ ।
+ಪ್ರಾಯುಸ್ತಾರಿಷ್ಟಂ ನೀ ರಪಾಂಸಿ ಮೃಕ್ಷತಂ ಸೇಧತಂ ದ್ವೇಷೋ ಭವತಂ ಸಚಾಭುವಾ ॥⟧
+(printed ಮ. सं (*saṃ*). 1-34-11)
+
+### Printed p. 792
+
+*[Running head, p. 792: Sāyaṇabhāṣyasahitā, Maṃ, 3, A. 1, Sū. 6 (commas in place of periods in "मं (*maṃ*), ೩, ಅ.", as printed).]*
+
+In this the Aśvin deities are invited to come here, desiring the mead, with the thirty-three gods (11 × 3, printed "११ (*11*)x೩"); and
+
+⟦ಶ್ರುಷ್ಟೀವಾನೋ ಹಿ ದಾಶುಷೇ ದೇವಾ ಅಗ್ನೇ ವಿಚೇತಸಃ ।
+ತಾನ್ರೋಹಿದಶ್ವ ಗಿರ್ವಣಸ್ತ್ರಯಸ್ತ್ರಿಂಶತಮಾ ವಹ ॥⟧
+(printed ಮ. सं (*saṃ*). 1-45-2)
+
+here, as in the present Ṛk, Agni is prayed to bring the thirty-three gods. Likewise:
+
+⟦ಐಭಿರಗ್ನೇ ಸರಥಂ ಯಾಹ್ಯರ್ವಾಜ್ ನಾನಾರಥಂ ವಾ ವಿಭವೋ ಹ್ಯಶ್ವಾಃ ।
+ಪತ್ನೀವತಸ್ತ್ರಿಂಶತಂ ತ್ರೀಂಶ್ಚ ದೇವಾನನುಷ್ವಧಮಾ ವಹ ಮಾದಯಸ್ವ ॥⟧
+(Ṛ. Saṃ. 3-6-9)
+
+⟦ಇತಿ ಸ್ತುತಾಸೋ ಅಸಥಾ ರಿಶಾದಸೋ ಯೇ ಸ್ಥ ತ್ರಯಶ್ಚ ತ್ರಿಂಶಚ್ಚ ।
+ಮನೋರ್ದೇವಾ ಯಜ್ಞಿಯಾಸಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 8-30-2)
+
+विश्वैर्देवैस्त्रिभिरेकादशैरिहाद्भिर्मरुद्भिर्भृगुभिः सचाभुवा । (*viśvairdevaistribhirekādaśairihādbhirmarudbhirbhṛgubhiḥ sacābhuvā |*)
+(Ṛ. Saṃ. 8-35-3)
+
+⟦ತವ ತ್ಯೇ ಸೋಮ ಪವಮಾನ ನಿಣ್ಯೇ ವಿಶ್ವೇ ದೇವಾಸ್ತ್ರಯ ಏಕಾದಶಾಸಃ ।
+ದಶ ಸ್ವಧಾಭಿರಧಿ ಸಾನೋ ಅವ್ಯೇ ಮೃಜಂತಿ ತ್ವಾ ನದ್ಯಃ ಸಪ್ತ ಯಹ್ವೀಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 9-92-4)
+
+In these and other Ṛks too it is clear that the number of the gods is thirty-three. In the Śatapatha Brāhmaṇa too:
+
+⟦ಅಷ್ಟೌ ವಸವಃ । ಏಕಾದಶ ರುದ್ರಾಃ । ದ್ವಾದಶಾದಿತ್ಯಾ ಇಮೇ ಏವ ದ್ಯಾವಾಪೃಥಿವೀ
+ತ್ರಯಸ್ತ್ರಿಂಶದ್ವೈ ದೇವಾಃ ಪ್ರಜಾಪತಿಶ್ಚತುಸ್ತ್ರಿಂಶಃ ॥⟧
+(printed ಶ. ब्रा (*brā*). 4-5-7-2)
+
+Eight Vasus, eleven Rudras, twelve Ādityas and heaven and earth together are thirty-three gods; Prajāpati is the thirty-fourth, besides them, it says in one place. But in another place, although the number is the same thirty-three, Indra and Prajāpati are included in place of heaven and earth.
+
+### Printed p. 793
+
+*[Running head, p. 793: Aṣṭaka 2, Adhyāya 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+⟦ತೇ ತ್ರಯಸ್ತ್ರಿಂಶದಿತ್ಯಷ್ಟೌ ವಸವ ಏಕಾದಶ ರುದ್ರಾ ದ್ವಾದಶಾದಿತ್ಯಾಸ್ತ ಏಕತ್ರಿಂಶದಿಂದ್ರಶ್ಚೈವ
+ಪ್ರಜಾಪ್ರತಿಶ್ಚ ತ್ರಯಸ್ತ್ರಿಂಶಾವಿತಿ ।⟧
+(printed ಶ. ब्रा (*brā*). 11-6-3-5)
+
+In the Aitareya Brāhmaṇa too:
+
+⟦ತ್ರಯಸ್ತ್ರಿಂಶದ್ವೈ ದೇವಾಃ ಸೋಮಪಾಸ್ತ್ರಯಸ್ತ್ರಿಂಶದಸೋಮಪಾ ಅಷ್ಟೌ ವಸವ ಏಕಾದಶ
+ರುದ್ರಾ ದ್ವಾದಶಾದಿತ್ಯಾಃ ಪ್ರಜಾಪತಿಶ್ಚ ವಷಟ್ಕಾರಶ್ಚೈತೇ ದೇವಾಃ ಸೋಮಪಾಃ ।⟧
+(printed ಐ. ब्रा (*brā*). 2-18)
+
+The gods who drink Soma are thirty-three. They are the eight Vasus, the eleven Rudras and the twelve Ādityas, together with Prajāpati and Vaṣaṭkāra. Thus in the Saṃhitā and in the Brāhmaṇas there is one view on this number. But,
+
+⟦ತ್ರೀಣಿ ಶತಾ ತ್ರೀ ಸಹಸ್ರಾಣ್ಯಗ್ನಿಂ ತ್ರಿಂಶಚ್ಚ ದೇವಾ ನವ ಚಾಸಪರ್ಯನ್ ।
+ಔಕ್ಷನ್ ಧೃತೈರಸ್ತ್ರಣನ್ಬರ್ಹಿರಸ್ಮಾ ಆದಿದ್ದೋತಾರಂ ನ್ಯಸಾದಯಂತ ॥⟧
+(printed ಮ. सं (*saṃ*). 3-9-9)
+
+in this Ṛk, and likewise in the Ṛk 10-52-6, it is said that three thousand three hundred and thirty-three gods worshipped Agni. The same order is in the Vājasaneyi Saṃhitā (33-7). Besides this,
+
+⟦ನಮೋ ಮಹದ್ಭೋ ನಮೋ ಅರ್ಭಕೇಭ್ಯೋ ನಮೋ ಯುವಭ್ಯೋ ನಮ ಆಶಿನೇಭ್ಯಃ ।
+ಯಜಾಮ ದೇವಾನ್ಯದಿ ಶಕ್ನವಾಮ ಮಾ ಜ್ಯಾಯಸಃ ಶಂಸಮಾ ವೃಕ್ಷಿ ದೇವಾಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 1-27-13)
+
+Since it says salutation to gods of every kind, those of exceeding qualities, of lesser qualities, the young and the old, it is understood that there is variety of nature among the gods. The Aitareya Brāhmaṇa too (7-16), in the story of Śunaḥśepa, recites this Ṛk in the context of the prayer to the Viśvedevas. But,
+
+नहि वो अस्त्यर्भको देवासो न कुमारकः । विश्वे सतोमहांत इत् । (*nahi vo astyarbhako devāso na kumārakaḥ | viśve satomahāṃta it |*)
+(Ṛ. Saṃ. 8-30-1)
+
+in this there is no distinction between great and small among the gods. There is the praise that all the gods are great. Addressing all the gods of such greatness, the seer prays in the present Ṛk.
+
+*[The window ends here, at the end of p. 793, at the end of the Ṛk 9 Special Topics; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 790 (PDF 790). Sūkta 6 Ṛk 8 Pratipadārtha to Special Topics; Ṛk 9 (full) and Special Topics begun (number of the gods; Ṛ. Saṃ. 3-9-9; Bṛ. Ā. 3-9)
+**Progress note:** Done through printed p. 793 (PDF 793). Sūkta 6 Ṛk 9 Special Topics (the thirty-three gods: Nirukta 7-5; Ṛks 1-34-11, 1-45-2, 8-30-2, 8-35-3, 9-92-4; Śat. Brā., Ai. Brā. 2-18; 3-9-9, 1-27-13, 8-30-1)
