@@ -19799,6 +19799,76 @@ The king who has the support of a purohita endowed with Brahmic radiance and gua
 
 How? The great sage Vāmadeva has expressed this same view clearly in the Ṛgveda Saṃhitā. In the three mantras beginning स इद्राजा (*sa idrājā*) the close relation between the king and the purohita, and
 
+### Printed p. 634
+
+*[Running head, p. 634: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 3.]*
+
+all the welfare that can come to the king through the presence and help of the purohita is described (Ṛ. Saṃ. 4-50-7-9). "Only that king who has a purohita can face and defeat by his own power all the strength of the adversary": this is the purport of the first half of the first mantra (4-50-7), beginning स इद्राजा (*sa idrājā*). Pratijanyāni means the strength of enemies. The word janya indicates rivals (sapatnas). All who contend with this king and hate him are sapatnas. The meaning is that he withstands and defeats all such rivals with his superior strength. This is the fruit of the purohita's help.
+
+बृहस्पतिं यः सुभृतं बिभर्ति (*bṛhaspatiṃ yaḥ subhṛtaṃ bibharti*) is the third pāda of the first mantra (4-50-7). Bṛhaspati is the purohita of the gods. Whatever purohitas men choose are all equal to that Bṛhaspati. The king who honours such a purohita, equal to Bṛhaspati, and protects him in comfort can defeat his enemies. वल्ग्ययति वंदते पूर्वभाजं (*valgyayati vaṃdate pūrvabhājaṃ*) is the fourth pāda of the mantra. The purport of this pāda is that the king who worships Bṛhaspati and gives him the first share of all his honours alone can become victorious. The idea is that the respect shown to Bṛhaspati becomes a means to one's own greatness.
+
+⟦ಸ ಇತ್ ಕ್ಷೇತಿ ಸುಧಿತ ಓಕಸಿ ಸ್ವ ಇತಿ ಗೃಹಾ ವಾ ಓಕಃ ಸ್ವೇಷ್ಟೇವ ತದ್ಗೃಹೇಷು ಸುಹಿತೋ
+ವಸತಿ, ತಸ್ಮಾ ಇಳಾ ಪಿನ್ನತೇ ವಿಶ್ವದಾನೀಮಿತ್ಯನ್ನಂ ವಾ ಇಳಾನ್ನಮೇವಾಸ್ಮಾ ಏತದೂರ್ಜಸ್ವಚ್ಛಶ್ವದ್ಭವತಿ, ತಸ್ಮೈ ವಿಶಃ ಸ್ವಯಮೇವಾನಮಂತ ಇತಿ ರಾಷ್ಟ್ರಾಣಿ ವೈ ವಿಶೋ
+ರಾಷ್ಟ್ರಾಣ್ಯೇವೈನಂ ತತ್ತ್ವಯಮುಪನಮಂತಿ, ಯಸ್ಮಿನ್ಬ್ರಹ್ಮಾ ರಾಜನಿ ಪೂರ್ವ ಏತೀತಿ
+ಪುರೋಹಿತಮೇವೈತದಾಹ ।⟧
+(printed ಐ. ಬ್ರಾ. 40-26)
+
+स इत् क्षेति सुधित ओकसि स्वे (*sa it kṣeti sudhita okasi sve*) is the first pāda of the second mantra (4-50-8). Its purport is that the house of the king in whose house the purohita lives safely and without fear is also safe and happy. Iḷā means food. The king in whose house the purohita is safe is endowed with food. His food is vigorous and abundant. That is the purport of the second pāda तस्मा इळा पिन्नते (*tasmā iḷā pinnate*). Since the kingdom is possessed of people, there is non-difference between the kingdom and the people; in usage the kingdom means the people and the people the kingdom. The third pāda tells that the kingdom itself bows to and pays honour to the king who can keep the purohita safe in his own house.
+
+### Printed p. 635
+
+*[Running head, p. 635: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+In the fourth pāda, whose purport is "the king to whom Brahman, giving good counsel, goes first", the word brahman means the purohita. The meaning is that a king having such a purohita enjoys the position and the comfort described above.
+
+अप्रतीतो जयति सं धनानीति राष्ट्राणि वै धनानि तान्यप्रतीतो जयति । (*apratīto jayati saṃ dhanānīti rāṣṭrāṇi vai dhanāni tānyapratīto jayati |*)
+(this is the explanation of the first pāda of Ṛ. Saṃ. 4-50-9)
+
+There is non-difference between the kingdom and wealth. The king who honours the purohita obtains a kingdom full of wealth without any obstacle, or, even if there is an obstacle, conquers it by his own power.
+
+प्रति जन्यान्युत या सजन्येति सपत्ना वै द्विषंतो भ्रातृव्या जन्यानि तानप्रतीतो जयति ॥ (*prati janyānyuta yā sajanyeti sapatnā vai dviṣaṃto bhrātṛvyā janyāni tānapratīto jayati ‖*)
+(explanation of the second pāda)
+
+Such a king, fully conquering the opposing king and the armies of such enemy kings, becomes unassailed.
+
+⟦ಅವಸ್ಯವೇ ಯೋ ವರಿವಃ ಕೃಣೋತೀತಿ ಯದಾಹಾವಸೀಯಸೇ ಯೋಽವಸೀಯಃ
+ಕರೋತೀತ್ಯೇವ ತದಾಹ⟧ (third explanation).
+
+Those kings who give gifts of wealth to those who have none (or to purohitas without wealth) obtain the wealth of the enemies too through the power of the purohitas.
+
+ब्रह्मणे राजा तमवंति देवा इति पुरोहितमेवैतदभिवदति ॥ (*brahmaṇe rājā tamavaṃti devā iti purohitamevaitadabhivadati ‖*)
+(the fourth pāda) (printed ಐ. ಬ್ರಾ. 40-26)
+
+Here brahman means the purohita. The main meaning is that the gods too protect, with gifts of wealth and the like, the king who protects the purohita with such worship. In the Aitareya Brāhmaṇa the purport of these mantras is made clear: the praise of the purohita's power has thus been made by the great sage Vāmadeva in the Ṛgveda Saṃhitā.
+
+⟦ಯೋ ಹ ವೈ ತ್ರೀನ್‌ಪುರೋಹಿತಾಂಸ್ತ್ರೀನ್ ಪುರೋಧಾತ್ಯನ್ವೇದ ಸ ಬ್ರಾಹ್ಮಣಃ ಪುರೋಹಿತಃ
+ಸ ವದೇತ ಪುರೋಧಾಯಾ ಅಗ್ನಿರ್ವಾವ ಪುರೋಹಿತಃ ಪೃಥಿವೀ ಪುರೋಧಾತಾ ವಾಯುರ್ವಾವ ಪುರೋಹಿತೋಽಂತರಿಕ್ಷಂ ಪುರೋಧಾತಾದಿತ್ಯೋ ವಾವ ಪುರೋಹಿತೋ ದ್ಯೌಃ
+ಪುರೋಧಾತೈಷ ಹ ವೈ ಪುರೋಹಿತೋ ಯ ಏವಂ ವೇದಾಥ ಸ ತಿರೋಹಿತೋ ಯ ಏವಂ
+ನ ವೇದ ॥⟧ (printed ಐ. ಬ್ರಾ. 40-27)
+
+### Printed p. 636
+
+*[Running head, p. 636: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+The Brahmin who knows the three kinds of purodhātṛ and the three purohitas connected with them is alone fit to be a purohita. "The earth is the first purodhātṛ", that is, the mistress who appoints the purohita; Agni is the purohita; in the same way the atmosphere and heaven are purodhātṛs, and the wind and Āditya are purohitas. One who, knowing this principle, meditates on the mantra that teaches this meaning is fit to be a purohita. One without this meditation and knowledge is unfit for this position.
+
+Thus the purohita, who has knowledge of the meaning of the principle and is endowed with Brahmic radiance, reflects the Brahman principle, and the valiant king the kṣatra power; they are like two parts of the universal principle.
+
+⟦ಪ್ರೇದಂ ಬ್ರಹ್ಮ ಪ್ರೇದಂ ಕ್ಷತ್ರಮಿತ್ಯೇತೇ ಏವ ಸಮಸ್ಯೇದ್ಬ್ರಹ್ಮಕ್ಷತ್ರಯೋಃ ಸಂತ್ರಿತ್ಯೈ
+ತಸ್ಮಾದ್ಬ್ರಹ್ಮ ಚ ಕ್ಷತ್ರಂ ಚ ಸಂಶ್ರಿತೇ ।⟧
+(printed ಇ. ಬ್ರಾ. 11-11)
+
+यस्य च ब्रह्म च क्षत्रं च उभे भवत ऒदनः (*yasya ca brahma ca kṣatraṃ ca ubhe bhavata òdanaḥ*)
+(printed ಕಥ. ೨-೨೫, i.e. Kaṭha 2-25)
+
+In sentences such as these it is stated precisely that Brahman and kṣatra are the two parts of the primal principle. In human affairs too the union and harmony of these two powers is described in many ways in the Śruti sentences. In some places they are called heaven and earth, in others Ṛk and Sāman, in others Mitra and Varuṇa; in many ways the relation between the purohita and the king (Brahman and kṣatra) is described. (Later, in the Purāṇas and elsewhere, it may be said freely that these Śruti sentences are the basis for the view नाविष्णुः पृथिवीपतिः (*nāviṣṇuḥ pṛthivīpatiḥ*).) Thus, telling that the purohita and the king are representatives of the primal principle, and that their harmony is the means of welfare in the affairs of the world, the purohita addresses the king in this way:
+
+⟦ಅಮೋಽಹಮಸ್ಮಿ ಸ ತ್ವಂ ಸ ತ್ವಮಸ್ಯನೋಽಹಂ ದ್ಯೌರಹಂ ಪೃಥಿವೀ ತ್ವಂ ಸಾಮಾಹಮೃಕ್ತ್ವಂ
+ತಾವೇಹ ಸಂವಹಾವಹೈ ॥⟧
+(printed ಇ. ಬ್ರಾ 40-27)
+
+"I am the beyond, you are the here; you are the representative of this world, I of the other world; I am heaven, you are earth; I am the Sāman, you the Ṛk; let us two join together, then only is the welfare of the world possible": so he regards the relation between the two as one of wedlock. It may also be divided thus in the divine principles: the purohita is Brahman, the king is kṣatra. Mitra, Agni and Bṛhaspati are the purohitas (Brahman); Varuṇa and Indra are the kings (kṣatra),
+
 ---
 
-**Progress note:** Done through printed p. 633 (PDF 633). Sūkta 3 Ṛk 2 Special Topics: the purohita in the Aitareya Brāhmaṇa; cut mid-sentence
+**Progress note:** Done through printed p. 636 (PDF 636). Sūkta 3 Ṛk 2 Special Topics: Ṛ. Saṃ. 4-50-7 to 9 and the purohita; cut mid-sentence
