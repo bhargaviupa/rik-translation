@@ -17409,6 +17409,108 @@ Powerful Agni, (fulfiller) of good works, eonvey [sic], rejoicing, this our sacr
 
 द्रविणं—द्रविणशब्दवु धननामगळल्लि पठितवागिरुवुदरिंद द्रविणं ऎंदरॆ धनवन्नु (*draviṇaṃ—draviṇaśabdavu dhananāmagaḷalli paṭhitavāgiruvudariṃda draviṇaṃ èṃdarè dhanavannu*) means wealth (Ni. 3-9).
 
+### Printed p. 548
+
+*[Running head, p. 548: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+#### Ṛk 23
+
+**॥ संहितापाठः ॥**
+
+> इळा॑मग्ने पुरु॒दंसं॑ स॒निं गोः श॑श्वत्त॒मं हव॑मानाय साध ।
+> स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ॥ २३ ॥
+
+**॥ पदपाठः ॥**
+
+> इळां । अग्ने । पुरुदंसं । सनिं । गोः । शश्वत्तमं । हवमानाय । साध ।
+> स्यात् । नः । सूनुः । तनयः । विजावा । अग्ने । सा । ते । सुमतिः । भूतु । अस्मे इति॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने पुरुदंसं । अपोSप्पो दंसो वेष इति कर्मनामसु पठितत्वाद्दंसःशब्दः कर्मवाची । पुरूणि बहूनि दंसांसि कर्माणि यस्याः सा । तां बहुकर्माणं गोः सनिं गवादिपशून्संपादयित्रिमिळामेतन्नामिकां गोरूपां देवतां
+> शश्वत्तमं निरंतरं हवमानाय यजमानाय मह्यं साध । साधय। किंच नोऽस्माकं
+> सूनुः पुत्रस्तनयः पौत्रः स्याद्भवत्विति ते तव या सुमतिः शोभना बुद्धिः सा विजावाबंध्या सत्यस्मे अस्माकं भूतु । भवतु ॥ शश्वत्तमं उच्छादिषु पाठादंतोदात्तत्वं । साध । राध साध संसिद्धौ । अंतर्भावितण्यर्थोऽयं । लोट व्यत्ययेन
+> शप् । सेर्ह्यपिच्चेति हिरादेशः । तस्यातो हेरिति लुक् । निघातः । विजावा । जनी
+> प्रादुर्भावे । आस्मादन्येभ्योSपि दृश्यंत इति वनिप् । विड्वनोरनुनासिकस्यादित्यात्वं ।
+> कृदुत्तरपदप्रकृतिस्वरत्वं । लिंगव्यत्ययः भूतु । भू सत्तायां । बहुलं छंदसीति
+> शपो लुक् । भूसुवोस्ति जीति गुणप्रतिषेधः ॥
+
+> *he agne purudaṃsaṃ | apoSppo daṃso veṣa iti karmanāmasu paṭhitatvāddaṃsaḥśabdaḥ karmavācī | purūṇi bahūni daṃsāṃsi karmāṇi yasyāḥ sā | tāṃ bahukarmāṇaṃ goḥ saniṃ gavādipaśūnsaṃpādayitrimiḷāmetannāmikāṃ gorūpāṃ devatāṃ*
+> *śaśvattamaṃ niraṃtaraṃ havamānāya yajamānāya mahyaṃ sādha | sādhaya| kiṃca no 'smākaṃ*
+> *sūnuḥ putrastanayaḥ pautraḥ syādbhavatviti te tava yā sumatiḥ śobhanā buddhiḥ sā vijāvābaṃdhyā satyasme asmākaṃ bhūtu | bhavatu ‖ śaśvattamaṃ ucchādiṣu pāṭhādaṃtodāttatvaṃ | sādha | rādha sādha saṃsiddhau | aṃtarbhāvitaṇyartho 'yaṃ | loṭa vyatyayena*
+> *śap | serhyapicceti hirādeśaḥ | tasyāto heriti luk | nighātaḥ | vijāvā | janī*
+> *prādurbhāve | āsmādanyebhyoSpi dṛśyaṃta iti vanip | viḍvanoranunāsikasyādityātvaṃ |*
+> *kṛduttarapadaprakṛtisvaratvaṃ | liṃgavyatyayaḥ bhūtu | bhū sattāyāṃ | bahulaṃ chaṃdasīti*
+> *śapo luk | bhūsuvosti jīti guṇapratiṣedhaḥ ‖*
+
+*(Gist: O Agni, make Iḷā, the many-deeded cow-form deity who provides cattle, ever propitious to me, the sacrificer; let there be son and grandson for us, and let your good thought be unfailing for us. The bhāṣya adds grammatical notes, characterized but not transcribed in translation; hyphenated line breaks were joined; the supplied text had the Pratipadārtha inside the bhāṣya block under a garbled label "॥ ಪ್ರತಿದಾರ್ಥ ॥", set out below as its own section.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O) Agne: O Agni. Purudaṃsaṃ: endowed with many works. Goḥ saniṃ: the one who provides cattle and the like. Iḷāṃ: the deity named Iḷā, in the form of a cow. Śaśvattamaṃ: ever. Havamānāya: for me, who am performing the sacrifice. Sādha: accomplish (graciously). (And) Naḥ: to us. Sūnuḥ: a son. Tanayaḥ: a grandson. Syāt: may there be. (O) Agne: O Agni. Te: your. (Yā) Sumatiḥ: whatever good thought there is. Sā: that. Asme: for us. Vijāvā: unfailing. Bhūtu: may be.
+
+### Printed p. 549
+
+*[Running head, p. 549: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, make the earth, the deity named Iḷā in the form of a cow, who gives cattle and the like that help in many rites, favourable to us who are ever engaged in sacrifice; and O Agni, may your auspicious thought, that you grant sons, grandsons and so on to the praisers, be always unfailing (fruitful) for us.
+
+**Printed English translation**
+
+Grant, Agni, to the offerer of the oblation, the earth, the bestower of cattle, the means of many (pious rites), such that it may be perpetual : may there be to us sons and grandsons, born in our race, and may your good-will ever be productive of benefits to us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पुरुदंसं—पुरूणि बहूनि दंसानि कर्माणि यस्याः सा । (*purudaṃsaṃ—purūṇi bahūni daṃsāni karmāṇi yasyāḥ sā |*) The word दंस (*daṃsa*) is stated among the twenty-six names of works beginning with अप्पः दंसः (*appaḥ daṃsaḥ*) (Ni. 3-2). The meaning is one who has many works.
+
+गोः सनिं—गवादिपशूर् संपादयित्रीं । (*goḥ saniṃ—gavādipaśūr saṃpādayitrīṃ |*) The word गो (*go*) has many meanings, such as earth, speech, cattle, ray. Since the words गोः सनिं (*goḥ saniṃ*) are specially qualifiers of the word इळा (*iḷā*), the meaning is described that the goddess Iḷā bestows all things such as cattle.
+
+इळां—एतन्नामिकां गोरूपां देवतां । (*iḷāṃ—etannāmikāṃ gorūpāṃ devatāṃ |*) The word इळा (*iḷā*) is stated among the names of the earth (Ni. 2-5); and among the names of speech (Ni. 2-23), of food (Ni. 3-9) and of cow (Ni. 3-6). And the word इळा (*iḷā*) is formed from the root ईश (*īśa*).
+
+⟦ಅಭಿನ ಇಳಾ ಯೂಥಸ್ಯ ಮಾತಾ ಸ್ಮನ್ನದೀಭಿರುರ್ವಶೀ ವಾ ಗೃಣಾತು ।
+ಉರ್ವಶೀ ವಾ ಬೃಹದ್ದಿವಾ ಗೃಣಾನಾಭ್ಯೂರ್ವಾನಾ ಪ್ರಭೃಥಸ್ಯಾಯೋಃ ।
+ಸಿಷಕ್ತು ನ ಊರ್ಜವ್ಯಸ್ಯ ಪುಷ್ವೇಃ ॥⟧
+(Ma. [printed ಮ., for Ṛ.] Saṃ. 5-41-19, 20)
+
+In these Ṛks the goddess Iḷā or Iḍā is explained as a deity of the middle region. Sāyaṇa has explained it as a deity named Iḷā who has taken the form of a cow.
+
+### Printed p. 550
+
+*[Running head, p. 550: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+शश्वत्तमं हवमानाय साध—निरंतरं हवमानाय यजमानाय मह्यं (*śaśvattamaṃ havamānāya sādha—niraṃtaraṃ havamānāya yajamānāya mahyaṃ*) साधय । (*sādhaya |*) The prayer is made to Agni that there be the grace of the goddess Iḷā in cow form, full of abundant greatness, who fulfils the desired objects of the sacrificer who always satisfies Agni with oblations.
+
+सूनुः—पुत्रः, तनयः पौत्रः । (*sūnuḥ—putraḥ, tanayaḥ pautraḥ |*) The words तनय (*tanaya*) and सूनु (*sūnu*) are read among the fifteen names of offspring beginning with तुक्, तोकं (*tuk, tokaṃ*) (Ni. 3-2).
+
+⟦ಏತಾ ವಿಶ್ವಾ ಸವನಾ ತೂತುಮಾ ಕೃಷೇ ಸ್ವಯಂ ಸೂನೋ ಸಹಸೋ ಯಾನಿ ದಧಿಷೇ ।
+ವರಾಯ ತೇ ಪಾತ್ರಂ ಧರ್ಮಣೇ ತನಾ ಯಜ್ಞೋ ಮಂತ್ರೋ ಬ್ರಹೋದ್ಯತಂ ವಚಃ ॥⟧
+(Ma. [printed so] Saṃ. 10-50-6)
+
+In this Ṛk the word सूनो (*sūno*) is explained as "son", and Agni is called सहससूनो (*sahasasūno*), "son of strength". Sāyaṇa explains the word सूनु (*sūnu*) as son and the word तनय (*tanaya*) as grandson (a son's son).
+
+सुमतिः—शोभना बुद्धिः । (*sumatiḥ—śobhanā buddhiḥ |*) The Nirukta authors explain the same sense, "an auspicious thought", in देवसुमतिं (*devasumatiṃ*) as देवानां कल्याणीं (*devānāṃ kalyāṇīṃ*), the auspicious thought of the gods, in वैश्वानरस्य सुमत् स्याम (*vaiśvānarasya sumat syāma*) as कल्याण्यां (*kalyāṇyāṃ*) मतौ (*matau*), and in वयं देवस्य धीमहि सुमतिं सत्यधर्मणः (*vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ*) as कल्याणीं मतीं (*kalyāṇīṃ matīṃ*). Sāyaṇa prays that there may be that auspicious thought of Agni which brings the birth and prosperity of sons, grandsons and so on to sacrificers who have satisfied Agni with oblations.
+
+*[The sūkta closes here; the supplied text continues with the title line ऎरडनॆय सूक्तवु. (*èraḍanèya sūktavu.*) ("The second sūkta.") and a stray line "ಪಿ ಳ ರಿ ಕೆ.", kept as a note in kn.md.]*
+
+## Sūkta 2 (Maṇḍala 3)
+
+*The second sūkta of the Third Maṇḍala.*
+
+**Pīṭhike (Introduction) to Sūkta 2**
+
+In this sūkta and in the next sūkta the sage Viśvāmitra has praised Vaiśvānara Agni. It is necessary to examine closely here who Vaiśvānara Agni is and what his nature is.
+
+**The glory of Vaiśvānara Agni**
+
+> इंद्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गुरुत्मान् ।
+> एकं सद्विप्रा बहुधा वदंत्यग्निं यमं मातरिश्वानमाहुः ॥
+
+> *iṃdraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo gurutmān |*
+> *ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ ‖*
+(Ṛ. Saṃ. 1-164-46, as printed "ಋ ಸಂ.")
+
 ---
 
-**Progress note:** Done through printed p. 547 (PDF 547). Sukta 1 (Mandala 3) Rik 20 note finished (p. 545); Rik 21 complete (pp. 545-546); Rik 22 complete (pp. 546-547) through Special Topics; Rik 23 (last of the sukta) follows. Flags: Rik 21 Pada unlabelled with a garbled line, labels inserted; garbled Bhavartha label and stray line 35 kept as notes; 2 accent DIFF
+**Progress note:** Done through printed p. 550 (PDF 550). Sukta 1 (Mandala 3) Rik 23 complete (pp. 548-550) - end of the sukta; Sukta 2 begins at end of p. 550: title line, stray line, Pithike on Vaishvanara Agni, Rik 1-164-46 block; breaks off before the main Pithike continues. Flags: garbled Pratipadartha label kept as note; Ma. Sam. printed for Ri. Sam. 5-41-19,20 and 10-50-6; Rik 23 Pada lacks closing number
