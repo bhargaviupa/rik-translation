@@ -18707,6 +18707,107 @@ Thus he explains: pravataḥ means the human beings who seek protection; udvata�
 > *vaiśvānaraḥ pṛthupājā amartyo vasu ratnā dayamāno vi*
 > *dāśuṣe ‖ 11 ‖*
 
+### Printed p. 593
+
+*[Running head, p. 593: Aṣṭaka 2, Adhyāya 8, Varga 19, Ṛgvedasaṃhitā (printed "ಋಗ್ವೇದಸಂಹಿತಾ 59", the page number cut off or misprinted, as supplied).]*
+
+*[The supplied text has before the Pada a garbled label "॥ ಜದಕಾರ ॥" (for Pada-pāṭha), kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> सः । जिन्वते । जठरेषु । प्रजज्ञिवान् । वृषा । चित्रेषु । नानदत् । न । सिंहः ।
+> वैश्वानरः । पृथुपाजाः । अमर्त्यः । वसु । रत्ना । दयमानः । वि । दाशुषे ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रजज्ञिवान् जातोवृषा वर्षकः स वैश्वानरश्चित्रेषु नानाप्रकारेषु जठरेषु।
+> प्राणिनां भेदाज्जठराणां भेदः। तेषु जिन्वते। वर्धते। चित्रेषु नानाविधेश्वरण्येषु
+> दत् अत्यर्थं शब्दं कुर्वन् सिंहो न । सिंह इव । किंविधो वैश्वानरः । पृथुपाजाः
+> नानपृथुतेजाः । अथवा पृथुवेगः । अमर्त्यो मरणधर्मरहितो दाशुषे हविषां
+> प्रदात्रॆ यजमानाय रत्ना रमणीयानि वसु वसूनि धनानि वि विशेषेण दयमानः
+> प्रयच्छन् ॥
+
+*(Gist: the born, showering Vaiśvānara grows in the various bellies, roaring like a lion; immortal, of wide splendour, he gives precious wealth to the sacrificer.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Pṛthupājāḥ: he who has widely spread radiance. Amartyaḥ: free from death. Dāśuṣe: to the sacrificer who offers oblation. Ratnā: delightful. Vasu: wealth. Vi: especially. Dayamānaḥ: giving. Prajajñivān: born knowing everything. Vṛṣā: shower of desires. Saḥ vaiśvānaraḥ: that Agni in the form of Vaiśvānara. Citreṣu: of various kinds. Jaṭhareṣu: in the bellies of creatures. Nānadat: roaring. Siṃhaḥ na: like a lion. Jinvate: grows.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, who has widely spread radiance, is free from death, gives especially delightful wealth to the sacrificer who offers oblation, is born all-knowing, is the shower of desires and has the form of Vaiśvānara, invades the bellies of many kinds and grows, displaying his own vigour as a roaring lion shows its manliness.
+
+**Printed English translation**
+
+The showerer (of benefits), generated in (many) receptacles, flourishes, roaring in various (places) like a lion ; Vaishwanara, the resplendent, the immortal, giving precious treasures to the donor (of the oblation).
+
+*[Lone numeral "38" at the foot of p. 593 in the supplied text, kept as a note.]*
+
+### Printed p. 594
+
+*[Running head, p. 594: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is stated that Vaiśvānara Agni, being in the bellies of men and of many kinds of creatures in the form of the digestive fire, is growing. The radiance or heat that is always in the body of men or creatures is the digestive fire, or Vaiśvānara fire. If the heat in the body stops through some cause, death occurs. Therefore this heat (that is, Vaiśvānara Agni) is the cause of the circulation of blood, breathing, digestion of food and movement in all creatures. Without the help of this Vaiśvānara fire (the digestive fire, the heat in the body) no creature can live even a minute.
+
+चित्रेषु जठरेषु (*citreṣu jaṭhareṣu*)—in bellies of many kinds; since the forms of creatures are of many kinds, their bellies too are of many kinds accordingly. That is explained here by the word citreṣu.
+
+नानदत् सिंहः न (*nānadat siṃhaḥ na*)—अत्यर्थ० शब्दन् कुर्वन् सिंहमिव । (*atyartha0 śabdan kurvan siṃhamiva |*) (as supplied). An illustration is given here of the power and ability of Vaiśvānara Agni: the comparison of the lion is stated for the power of Vaiśvānara Agni, as of a lion that, called king of beasts in the forest, roams with great pride and roars terribly.
+
+Pṛthupājāḥ—पृथुतेजाः अथवा पृथुवेगः । (*pṛthutejāḥ athavā pṛthuvegaḥ |*) This Vaiśvānara Agni has much radiance (is possessed of splendour or power) or is very swift. He has the power to burn even a great forest in a moment.
+
+दाशुषे रत्ना वसु वि दयमानः (*dāśuṣe ratnā vasu vi dayamānaḥ*)—the meaning is that this Vaiśvānara Agni gives especially delightful wealth to the sacrificers who offer oblation.
+
+*[The supplied text has here the line "This image contains no text. It is a drawing of an object with three wavy lines on either side and horizontal stripes across it.", kept as a note; it is a software description of a printed ornament.]*
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> वै॒श्वा॒न॒रः प्र॒त्नथा॒ नाक॒मारु॑हद्दि॒वस्पृ॒ष्ठं भंद॑मानः सु॒मन्म॑भिः ।
+> स पू॑र्व॒वज्ज॒नय॑ञ्जं॒तवे॒ धनं॑ समा॒नमज्जं॒ पर्यो॑ति॒ जागृ॑विः ॥१२॥
+
+> *vaiśvānaraḥ pratnathā nākamāruhaddivaspṛṣṭhaṃ bhaṃdamānaḥ sumanmabhiḥ |*
+> *sa pūrvavajjanayañjaṃtave dhanaṃ samānamajjaṃ paryoti jāgṛviḥ ‖12‖*
+
+### Printed p. 595
+
+*[Running head, p. 595: Aṣṭaka 2, Adhyāya 8, Varga 19, Ṛgvedasaṃhitā.]*
+
+**॥ पदपाठः ॥**
+
+> वैश्वानरः । प्रत्नथा । नाकं । आ । अरुहत् । दिवः । पृष्ठं । भंदमानः । सुमन्मभिः ।
+> सः । पूर्ववत् । जनयन् । जंतवे । धनं । समानं । अज्मं । परि । एति । जागृविः ॥
+
+> *vaiśvānaraḥ | pratnathā | nākaṃ | ā | aruhat | divaḥ | pṛṣṭhaṃ | bhaṃdamānaḥ | sumanmabhiḥ |*
+> *saḥ | pūrvavat | janayan | jaṃtave | dhanaṃ | samānaṃ | ajmaṃ | pari | eti | jāgṛviḥ ‖*
+
+*(The Saṃhitā and the Pratipadārtha print ಪರ್ಯೋತಿ where the Pada has ಪರಿ । ಏತಿ, as supplied; the Pada here has no verse number.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> सुमन्मभिः स्तोतृभिर्भंदमानः स्तूयमानो वैश्वानरो जातमात एव
+> प्रत्नथा प्रश्नॆ इव चिरंतन इव नाकं । कं सुखं । अकं दुःखं। न विद्यतेऽकं यस्मिन्
+> तन्नाकं । दिवोऽंतरिक्षस्य पृष्ठमुपरितनप्रदेशं स्वरोहिद्धिरारुहत् । आरोहति । स
+> वैश्वानरः पूर्ववत् पूर्वेभ्य ऋषिभ्य इव जंतवे स्तोत्रे यजमानाय धनं
+> पश्वादिलक्षणं जनयन् संपादयन् जागृविः सदा प्रबुद्धः समानं सर्वेषां
+> देवानां साधारणमज्मनाकाशमार्गं पर्येति । सूर्यरूपेण गच्छति ॥
+
+*(Gist: praised by the singers, Vaiśvānara ascends at birth, as of old, to the heights above the sky; giving wealth to the praiser as to the ancients, ever awake, he travels the common path as the Sun.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Sumanmabhiḥ: by the singers. Bhandamānaḥ: praised. Vaiśvānaraḥ: Vaiśvānara. Pratnathā: (as soon as born) like an ancient. Divaḥ: of the atmosphere. Pṛṣṭhaṃ: the upper region. Nākaṃ: to heaven. Āruhat: he ascends. Saḥ: that same Vaiśvānara. Pūrvavat: as he provided for the former sages. Jantave: to this sacrificer, the praiser also. Dhanaṃ: wealth in the form of cattle and the like. Janayan: producing. Jāgṛviḥ: ever awake. Samānaṃ: common to all the gods. Ajmaṃ: the path of the sky (on the path). Paryoti [as printed]: travels in the form of the Sun.
+
+**भावार्थ (Bhāvārtha)**
+
+Vaiśvānara, praised by the singers, ascends as soon as he is born, like an ancient, to heaven, the upper region of the atmosphere. That same Vaiśvānara, producing for this sacrificer the praiser too wealth in the form of cattle and the like as he provided for the former sages, ever awake, travels in the form of the Sun on the path of the atmosphere common to all the gods.
+
+**Printed English translation**
+
+Glorified by his adorers, Vaishwanara of old ascended to the heaven that is above the firmament, bestowing wealth upon his (present) worshipper, as he did in former times; he travels, ever vigilant, the common path (of the gods).
+
 ---
 
-**Progress note:** Done through printed p. 592 (PDF 592). Sūkta 2 Ṛk 9 Special Topics; Ṛk 10 complete; Ṛk 11 Saṃhitā begun; p. 592 head merged, fixed; accent DIFF/NOMATCH logged
+**Progress note:** Done through printed p. 595 (PDF 595). Sūkta 2 Ṛk 11 complete; Ṛk 12 complete up to printed English; 1 accent DIFF
