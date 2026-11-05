@@ -21298,6 +21298,102 @@ In this Ṛk the word iḷāvān is an epithet of Agni, and the Bṛhaddevatā i
 > *devavyacā devaivyāptaṃ barhiśca | cārthe vāśabdaḥ | vistṛṇīmahi | viśeṣeṇa*
 > *stṛṇīmaḥ ‖*
 
+### Printed p. 686
+
+*[Running head, p. 686: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 4.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vāṃ: for you two (Agni and Barhis). Ūrdhvaḥ: high. Gātuḥ: the path of the sacrifice. Adhvare: in the sacrifice. Akāri: is prepared. Śocīṃṣi: bright. Rajāṃsi: oblations. Ūrdhvā: aloft. Prasthitā: have set out. Hotā: Agni the hotṛ. Divaḥ: of the shining. Nābhā: in the central region of the sacrifice. Nyasādi: sits. Devavyacāḥ: occupied by the gods. Barhiḥ vā: also the seat of sacred grass. Vi stṛṇīmahi [printed so]: we shall spread.
+
+**भावार्थ (Bhāvārtha)**
+
+O gods, Agni and Barhis, a high path of the sacrifice has been prepared for you two in the sacrifice. Bright oblations have set out aloft. Agni the hotṛ sits in the central region of the shining sacrificial house. We shall also spread the seat of sacred grass, which the gods occupy.
+
+**Printed English translation**
+
+An upward path has been prepared for you both in the sacrifice : the blazing oblations soar aloft : the invoker of the gods has sat down in the centre of the radiant (hall) : let us strew the sacred grass for the seats of the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the deity Barhis (the seat prepared of sacred grass) is praised. The meaning of this Ṛk too is somewhat difficult. It cannot be said for what purpose the dual word vāṃ is used. The bhāṣyakāra says that the word is used with reference to both the deity Barhis and Agni. Even so, the necessity of this word is not very evident.
+
+The main purport: O gods Agni and Barhis, this sacrifice is being performed in the best manner, addressed to you two. Excellent oblations have been made ready to offer to you. Agni, who invites the gods, is established in the sacrificial pit in the central region of the sacrificial altar. We shall spread the sacred grass called barhis and prepare a seat for the invited gods to come and sit upon.
+
+Barhis—this means is more concrete in form than the ideas of Idhma and Iḷaḥ. Barhis means the seat of sacred grass. To barhis no divine element is ascribed, as in "devīḥ dvāraḥ" it is ascribed to the doors. Only the sense of a seat for the gods is indicated.
+
+### Printed p. 687
+
+*[Running head, p. 687: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+Moreover, it is prayed that the doors open themselves, without other help, and make a way for the coming of the gods. Without divine power, lifeless doors cannot of themselves open and make a wide way. But in the case of barhis this ascription of power is not found. The priests must spread it. Not in this Ṛk alone, but in the other Ṛks of the Āprī sūktas also, it is said clearly that the spreading of the barhis must be done with the help of the priests and others. For example—
+
+प्राचीनं बर्हिरोजसा सहस्रवीरमस्तृणन् । यत्रादित्या विराजथ । (*prācīnaṃ barhirojasā sahasravīramastṛṇan | yatrādityā virājatha |*)
+(Ṛ. Saṃ. 1-188-4)
+
+In this Ṛk, and likewise in Ṛ. Saṃ. 9-5-4, ⟦ಬರ್ಹಿಃ ಪ್ರಾಚೀನಮೋಜಸಾ ಪವಮಾನಃ
+ಸ್ತೃಣನ್ ಹರಿಃ ।⟧, there is the description that the priests spread the barhis. In the same way in the Ṛks of the other Āprī sūktas also, the barhis is said to be a terrestrial and lifeless thing but a place that is a sacred seat for the gods. In the Praiṣa sūkta alone,
+
+⟦ಹೋತಾ ಯಕ್ಷದ್ಬರ್ಹಿಃ ಸುಷ್ಟರೀಮೋರ್ಣಂಮ್ರದಾ ಅಸ್ಮಿನ್ಯಜ್ಞೇ ವಿಚಪ್ರಚ ಪ್ರಥತಾಗ್ಂ
+ಸ್ವಾಸಸ್ಥಂ ದೇವೇಭ್ಯಃ । ಏಮೇನದದ್ಯ ವಸವೋ ರುದ್ರಾ ಆದಿತ್ಯಾಃ ಸದಂತು ಪ್ರಿಯಮಿಂದ್ರಸ್ಯಾಸ್ತು ವೇತ್ವಾಜ್ಯಸ್ಯ ಹೋತರ‍್ಯಜ ॥⟧
+(Tai. Brā. 3-6-2-1)
+
+बर्हिनामकं चतुर्थस्रय्याजदेवमग्निं (*barhināmakaṃ caturthasrayyājadevamagniṃ*) — it is said to be a seat that is a synonym of Agni and divine in nature. In the Aitareya Brāhmaṇa,
+
+बर्हिर्यजति । पशवो वै बर्हिः पशूनेव तत्रीणाति पशून्यजमाने दधाति । (*barhiryajati | paśavo vai barhiḥ paśūneva tatrīṇāti paśūnyajamāne dadhāti |*)
+(printed ಐ. ಬ್ರಾ. 2-4)
+
+it is interpreted as the animal that grazes on grass and is endowed with grass. But it is seen that there is not the slightest room for this meaning.
+
+The Nirukta authors say बर्हिः परिबर्हणात् । (*barhiḥ paribarhaṇāt |*): the sacred grass gets the name barhis because it grows swiftly (Ni. 8-8). In the Bṛhaddevatā,
+
+⟦ಬರ್ಹಿರೇವಾಯಮಗ್ನಿಸ್ತು ಸರ್ವಂ ಹಿ ಪರಿಬೃಂಹಿತಂ ।
+ಅನ್ನೇನ ಯದ್ದುತೋ ವಾ ಸನ್ನಿಧ್ಮೇನ ಪರಿಬೃಂಹಿತಃ ॥⟧
+(Bṛ. De. 3-5)
+
+the identity is stated that, because all food is pervaded by it, and because after the oblation it is filled by firewood, Agni himself is present in the form of barhis.
+
+### Printed p. 688
+
+*[Running head, p. 688: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+Although in many matters the authors of the Bṛhaddevatā followed the sentences of the Nirukta, in this context they show a slight difference: what the Nirukta authors call simply barhis, a seat of the gods, they interpret as a seat that is divine and a synonym of Agni.
+
+*[Stray line as supplied: "-~௨௰௪-" (Tamil numerals), kept as a note in kn.md.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स॒प्त हो॒त्राणि॒ मन॑सा वृणा॒ना इन्वं॑तो॒ विश्वं॒ प्रति॑ यन्नृ॒तेन॑ ।
+> नृ॒पेश॑सो वि॒दथे॑षु॒ प्र जा॒ता अ॒भी॒३॒॑३मं य॒ज्ञं वि च॑रंत पू॒र्विः ॥
+
+> *sapta hotrāṇi manasā vṛṇānā invaṃto viśvaṃ prati yannṛtena |*
+> *nṛpeśaso vidatheṣu pra jātā abhī3maṃ yajñaṃ vi caraṃta pūrviḥ ‖*
+
+*[The supplied text has before the Pada a garbled label "॥ ಹದಪಾಠ ॥" (for Pada-pāṭha), kept as a note in kn.md; it stood inside the Saṃhitā block, which was split.]*
+
+**॥ पदपाठः ॥**
+
+> सप्त । होत्राणि । मनसा । वृणानाः । इन्वंतः । विश्वं । प्रति । यन् । ऋतेन ।
+> नृपेशसः । विदथेषु । प्र । जाताः । अभि । इमं । यज्ञं । वि । चरंत । पूर्विः ॥५॥
+
+*(The Saṃhitā is printed ಅಭೀ೩ಮಂ with a digit ೩, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> मनसा वृणानाः प्रार्थ्यमाना ऋतेनोदकेन विश्वमिन्वंतः प्रीणयंतो
+> देवाः सप्त होत्राणि होतृणां वषट्कर्तृणां कर्माणि प्रतियन् । प्रतिगच्छंति ।
+> अतः परं द्वारां स्तुतिः । नृपेशसो नररूपा विदथेषु यागेषु जाता उत्पन्नाः
+> पूर्वर्बहो विग्रहवत्यो यज्ञद्वाराभिमानिदेवता इममस्मदीयं यज्ञं
+> प्र विचरंत । प्रविचरंतु ॥
+
+*(Gist: the gods, prayed to with the mind, filling the whole world with water, come to the works of the seven hotṛs; the door-deities, born as men in the sacrifices, in many forms, enter our sacrifice.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Manasā: with the (meditative) mind. Vṛṇānāḥ: those who are prayed to. Ṛtena: with water. Viśvaṃ: the whole world. Invantaḥ: the gods, who fill and gratify. Sapta hotrāṇi: to the works of seven vaṣaṭkartṛs. Prati yan: come facing. Nṛpeśasaḥ: those of human form. Vidatheṣu: in the sacrifices. Jātāḥ: those who are born. Pūrvīḥ: the deities presiding over the doors of the sacrifice, who are of bodily form. Imaṃ yajñaṃ abhi: towards this our sacrifice. Pra vi carantu: let them move about.
+
 ---
 
-**Progress note:** Done through printed p. 685 (PDF 685). Sūkta 4 Ṛk 3 complete (Iḷaḥ); Ṛk 4 Saṃhitā, Pada, bhāṣya; accent DIFF/NOMATCH logged
+**Progress note:** Done through printed p. 688 (PDF 688). Sūkta 4 Ṛk 4 Pratipadārtha, Bhāvārtha, Special Topics (barhis); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha
