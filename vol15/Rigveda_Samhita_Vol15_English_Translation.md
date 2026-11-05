@@ -23380,6 +23380,109 @@ Here the chief purport of this Ṛk is that Agni is the friend of the gods, of m
 
 *[The window ends here, at the end of p. 756; the next window continues.]*
 
+### Printed p. 757
+
+*[Running head, p. 757: Aṣṭaka 2, Adhyāya 8, Varga 24, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> पाति॑ प्रि॒यं रि॒पो अग्रं॑ प॒दं वेः पाति॑ य॒ह्वश्चर॑णं॒ सूर्य॑स्य ।
+> पाति॒ नाभा॑ स॒प्तशी॑र्षाणम॒ग्निः पाति॑ दे॒वाना॑मुप॒माद॑मृ॒ष्टः ॥५॥
+
+**॥ पदपाठः ॥**
+
+> पाति । प्रियं । रिपः । अग्रं । पदं । वेः । पाति । यह्वः । चरणं । सूर्यस्य ।
+> पाति । नाभा । सप्तशीर्षाणं । अग्निः । पाति । देवानां । उपमादं । ऋष्टः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋष्टो दर्शनीयोग्निर्वेर्गंत्राः सर्वव्याप्ताया रिपो भूम्याः
+> प्रियमग्रं प्रथमं पदं स्थानं पाति । रक्षति । यहो महान् सूर्यस्य चरणं ।
+> चरत्यत्रेति चरणमंतरिक्षं । पाति । नाभा नाभावंतरिक्षस्य मध्यॆ सप्तशीर्षाणं
+> मरुद्दणं पाति । देवानामुपमादमुपमादकं यज्ञं पाति । रक्षति ॥
+
+*(Gist: the beautiful Agni guards the earth's chief place, the sun's path (the atmosphere), the seven-grouped Maruts in the middle, and the sacrifice that delights the gods.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ṛṣṭvaḥ (so printed): of beautiful form. Agniḥ: Agni. Veḥ: of the moving. Ripaḥ: of the earth. Priyaṃ: the dear. Agraṃ: the principal. Padaṃ: place. Pāti: he guards. Yahvaḥ: the great Agni. Sūryasya: of the sun. Caraṇaṃ: the atmosphere, the place of his travel. Pāti: he guards. Nābhā: in the middle of the atmosphere. Saptaśīrṣāṇaṃ: the host of the Maruts counted as seven. Pāti: he guards. Devānāṃ: for the gods. Upamādaṃ: the sacrifice that gratifies. Pāti: he guards.
+
+**भावार्थ (Bhāvārtha)**
+
+The beautiful Agni guards the place dear and principal to the moving earth. The great Agni guards the atmosphere, the sun's place of travel. He guards the seven-numbered host of the Maruts in the middle of the atmosphere. Likewise he guards the sacrifice that gratifies the gods.
+
+### Printed p. 758
+
+*[Running head, p. 758: Sāyaṇabhāṣyasahitā, Maṃ. 3 (no period after 3, as printed), A. 1, Sū. 5.]*
+
+**Printed English translation**
+
+The graceful (Agni) protects the primary station of the moving earth : mighty, he protects the path of the sun : he protects the seven-headed (troop of the Maruts) in the centre (between heaven and earth) : he protects the exhilarating (oblations) of the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Every pāda of this Ṛk begins with the word pāti and is thus rhymed. Here it is stated that Agni protects the earth, the atmosphere, the host of the Maruts and the sacrifice.
+
+ऋष्टः अग्निः वेः रिपः प्रियं अग्रं पदं पाति (*ṛṣṭaḥ agniḥ veḥ ripaḥ priyaṃ agraṃ padaṃ pāti*): this Agni, who is beautiful, that is, shines with a gentle form, guards the dear and principal place of this earth, which has movement in the form of revolution, that is, the sacrificial altar. As the Śruti sentence आयं यज्ञो भुवनस्य नाभिः (*āyaṃ yajño bhuvanasya nābhiḥ*) (Ṛ. Saṃ. 1-164-35) says, the principal place of the earth is the sacrificial altar. Since there is a close relation between the sacrifice and Agni, it is natural for Agni to protect the sacrifice. The word रिपः (*ripaḥ*) is read among the names of the earth (Ni. 2-5).
+
+यह्वः सूर्यस्य चरणं पाति नाभा सप्तशीर्षाणं पाति (*yahvaḥ sūryasya caraṇaṃ pāti nābhā saptaśīrṣāṇaṃ pāti*): the word yahva is read among the names of "great" (printed सि (*si*). 3-13, i.e. Ni. 3-13). This greatly glorious Agni guards the atmosphere, the path on which the sun travels, and also the hosts of the Maruts who move between heaven and earth (in the atmosphere). Here the bhāṣyakāra has explained सप्तशीर्षाणं (*saptaśīrṣāṇaṃ*) as the Maruts, who have seven groups. The Śruti sentence सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*) supports this.
+
+देवानां उपमादं पाति (*devānāṃ upamādaṃ pāti*): Agni protects also the sacrifice that gives satisfaction to the gods; that is, he causes the sacrifice to be completed with all its parts without obstruction by demons and the like.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒भुश्च॑क्र॒ ईड्यं॒ चारु॒ नाम॒ विश्वा॑नि दे॒वो व॒युना॑नि वि॒द्वान् ।
+> स॒सस्य॒ चर्म॑ घृ॒तव॑त्प॒दं वेस्तदिद॒ग्नी र॑क्ष॒त्यप्र॑युच्छन् ॥ ६ ॥
+
+> *ṛbhuścakra īḍyaṃ cāru nāma viśvāni devo vayunāni vidvān |*
+> *sasasya carma ghṛtavatpadaṃ vestadidagnī rakṣatyaprayucchan ‖ 6 ‖*
+
+### Printed p. 759
+
+*[Running head, p. 759: Aṣṭaka 2, Adhyāya 8, Varga 25, Ṛgvedasaṃhitā.]*
+
+**॥ पदपाठः ॥**
+
+> ऋभुः । चक्रे । ईड्यं । चारु । नाम । विश्वानि । देवः । वयुनानि । विद्वान् ।
+> ससस्य । चर्म । धृतवत् । पदं । वेः । तत् । इत् । अग्निः । रक्षति । अप्रयुच्छन् ॥६॥
+
+> *ṛbhuḥ | cakre | īḍyaṃ | cāru | nāma | viśvāni | devaḥ | vayunāni | vidvān |*
+> *sasasya | carma | dhṛtavat | padaṃ | veḥ | tat | it | agniḥ | rakṣati | aprayucchan ‖6‖*
+
+*(The Saṃhitā has घृतवत् (*ghṛtavat*) and the Pada धृतवत् (*dhṛtavat*), as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋभुर्महान् विश्वानि सर्वाणि वयुनानि ज्ञातव्यानि पदार्थानि विद्वान्
+> जानन् देवोऽग्नि रीड्यं स्तुत्यं चारु मनोज्ञं नाम जलं चक्रे । करोति ।
+> नामेत्युदकनामसु पाठात् । वेव्याप्तस्य ससस्य स्वपतः शांतज्वालस्याप्यग्नेश्चर्म
+> रूपं धृतवद्दीप्तिमद्भवति । सोऽग्निस्तज्जलमप्रयुच्छन् अप्रमाद्यन् रक्षति ।
+> पालयति ॥
+
+*(Gist: the great, all-knowing Agni made the lovely, praiseworthy water; though his flames are quiet, his form is radiant; he guards that water, unforgetful.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ṛbhuḥ: the great one. Viśvāni: all. Vayunāni: things to be known. Vidvān: one who knows. Devaḥ: the divine Agni. Īḍyaṃ: the praiseworthy. Cāru: the lovely. Nāma: water. Cakre: has created. Veḥ: the pervading Agni. Sasasya: though with quiet flames. Carma: (Agni's) form. Ghṛtavat: is radiant. Agniḥ: that same Agni. Tat padaṃ: that water. Aprayucchan: without carelessness. Rakṣati: guards.
+
+**भावार्थ (Bhāvārtha)**
+
+The great one, the knower of all things to be known, the divine Agni, has created the praiseworthy and lovely water. Though the all-pervading Agni has quiet flames, the form of Agni is radiant. That same Agni guards that water without carelessness.
+
+**Printed English translation**
+
+The mighty; divine Agni, knowing all (things) that are to be known, made the commendable and beatiful [sic] water, the glossy skin, the station of the diffused slumbering (Agni), and, ever vigilant, preserves it.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋभुः विश्वानि वयुनानि विद्वान् देवः ईड्यं चारु नाम चक्रे (*ṛbhuḥ viśvāni vayunāni vidvān devaḥ īḍyaṃ cāru nāma cakre*): this Agni is a great one, that is, his glory is unfathomable; he knows everything, that is,
+
+*[The window ends here, at the end of p. 759, in the middle of this sentence; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 756 (PDF 756). Sūkta 5 Ṛk 3 Bhāvārtha, printed English, Special Topics; Ṛk 4 (full) and Special Topics (Agni as Mitra, hotṛ, Varuṇa, Jātavedas, adhvaryu, damūnas)
+**Progress note:** Done through printed p. 759 (PDF 759). Sūkta 5 Ṛk 5 (full) and Special Topics; Ṛk 6 (full) and Special Topics begun
