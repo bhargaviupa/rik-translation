@@ -6371,6 +6371,90 @@ Rudra, that I may attain to his felicity, as a man, distressed by heat,
 
 *Gist:* Where is that gracious, healing hand of yours, Rudra? With it protect me; showerer of desires, remove the sin caused by the gods and forgive me quickly. The tail explains *abhicakṣamīthāḥ*.
 
+### Printed p. 208
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रुद्र (*rudra*)—O Rudra. यः (*yaḥ*)—which hand. भेषजः (*bheṣajaḥ*)—that destroys disease. जलाषः (*jalāṣaḥ*)—that gives joy. अस्ति (*asti*)—is. ते (*te*)—your. मृळयाकुः (*mṛḷayākuḥ*)—the comforting. स्यः (*syaḥ*)—the well-known. हस्तः (*hastaḥ*)—hand. क्व (*kva*)—where? वृषभ (*vṛṣabha*)—O Rudra, showerer of desires. दैव्यस्य (*daivyasya*)—caused by the gods. रपसः (*rapasaḥ*)—also the sin. अपभर्ता (*apabhartā*)—you who have the power to destroy it. मा (*mā*)—me, the offender. नु (*nu*)—quickly. अभि चक्षमीथाः (*abhi cakṣamīthāḥ*)—forgive completely.
+
+**भावार्थ (Bhāvārtha)**
+
+O Rudra, where is that hand of yours, comforting and well known, which destroys disease and gives joy? O Rudra, showerer of desires, you who have the power to destroy even the sin done by the gods and to forgive: forgive me, the offender, quickly and completely.
+
+**Printed English translation**
+
+Where, Rudra, is your joy-dispensing hand, which is the healer and
+delighter (of all) : showerer (of benifits) [sic], you are the dispeller of the sins
+of the gods, quickly have compassion upon me.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रुद्र ते मृळयाकुः हस्तः क्व (*rudra te mṛḷayākuḥ hastaḥ kva*)—Asking where the comforting hand is, the text states the extraordinary quality of the hand: that this hand destroys the disease of all and is comforting to all; and it expresses the wish that Rudra protect the sacrificers with that hand (भेषजः जलाषः भैषज्यकृत् सर्वेषां सुखकरः (*bheṣajaḥ jalāṣaḥ bhaiṣajyakṛt sarveṣāṃ sukhakaraḥ*); तेन हस्तेन मां रक्ष (*tena hastena māṃ rakṣa*)).
+
+दैव्यस्य रपसः अपभर्ता मा अभिचक्षमीथाः (*daivyasya rapasaḥ apabhartā mā abhicakṣamīthāḥ*)—देवकृतस्य पापस्य विनाशयिता भूत्वा कृतापराधं मां अभिक्षमस्व (*devakṛtasya pāpasya vināśayitā bhūtvā kṛtāparādhaṃ māṃ abhikṣamasva*). It is explained thus: may Rudra destroy the sins that have come upon the sacrificer through contrary conduct towards the gods, and pardon me, the sacrificer who has committed the offence.
+
+जलाषः—सर्वेषां सुखकरः (*jalāṣaḥ—sarveṣāṃ sukhakaraḥ*). The word जलाष (*jalāṣa*) is stated by Yāska (Ni. 2-24) among the names of water; here the meaning "comforting" is given.
+
+### Printed p. 209
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> प्र ब॒भ्रवे॑ वृष॒भाय॑ श्वि ती॒चे म॒हो म॒हीं सु॑ष्टु॒तिमा॑रयामि ।
+> न॒म॒स्या क॑ल्मली॒किनं॒ नमो॑भिर्गृणी॒मसि॑ त्वे॒षं रु॒द्रस्य॒ नाम॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> प्र । बभ्रवे । वृषभाय । श्वितीचे । महः । महीं । सुस्तुतिं । ईरयामि ।
+> नमस्य । कल्मलीकिनं । नमःभिः । गृणीमसि । त्वेषं । रुद्रस्य । नाम ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> रुद्रदेवत्ये पशौ वपापुरोडाशहविषां क्रमेण प्र बभ्रव इत्याद्यास्ति स्रो
+> याज्याः । प्र बभ्रवे वृषभाय श्वितीच इति तिस्र आ पश्चातान्नासत्या पुरस्तात् ।
+> आ. ३-८. । इति ॥
+> बभ्रवे विश्वस्य भर्त्रॆ बभ्रुवर्णाय वा वृषभाय कामानां वर्षित्रे तद्वत्
+> प्रसह्यकारिणे वा श्चितीचे श्वैत्यमंचते ॥ श्चिता वर्णॆ । औणादिक इन्मत्तयः । श्ति-
+> मंचतीत्यंचतेर्यत्विगित्यादिना क्विन् । चतुर्थैकवचनेच इत्यकारलोपे चाविति
+> दीर्घत्वं । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं ॥ एवंगुणविशिष्टाय रुद्राय
+> महो महीं महतोऽपि महतीं सुष्टुतिं शोभनस्तुतिं प्रेरयामि । प्रकर्षे-
+> णोच्चारयामि । हे स्तोतः कल्मलीकिनं । ज्वलतो नामधेयमेतत्। नैघं. १-१७।
+> ज्वलंतं । कलयत्यपगमयति मलमिति कल्मलीकं तेजः । तद्वंतं रुद्रं नमोभि-
+> र्नमस्कारैर्हविर्भिर्वा नमस्य । पूजय । वयं च रुद्रस्य महादेवस्य त्वेषं
+> दीप्तं नाम गृणीमसि ! गृणीमः संकीर्तयामः ॥ गृ शब्दे । क्रैयादिकः ।
+> इदंतो मसिः । प्वादीनां ह्रस्वः ॥
+
+*Gist:* In the animal sacrifice to Rudra, this Ṛk and the next two are the yājyā verses for the vapā, puroḍāśa and oblations in order (Āśv. 3-8). Rudra is called *babhru*, *vṛṣabha*, *śvitīca*; the poet offers him a great praise and bids the worshipper adore the blazing Rudra. The tail treats *śvitīca*, *gṛṇīmasi*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+बभ्रवे (*babhrave*)—to the one of brown colour; वृषभाय (*vṛṣabhāya*)—the showerer of desires; श्वितीचे (*śvitīce*)—the one of white form, to Rudra. महो महीं (*maho mahīṃ*)—greater than the excellent. सुष्टुतिं (*suṣṭutiṃ*)—excellent praise. प्र ईरयामि (*pra īrayāmi*)—I offer with devotion. कल्मलीकिनं (*kalmalīkinaṃ*)—Rudra, who has the radiance that destroys impurity. नमोभिः (*namobhiḥ*)—with salutations or with oblations. नमस्य (*namasya*)—worship! (we also) रुद्रस्य (*rudrasya*)—of Rudra. त्वेषं (*tveṣaṃ*)—the radiant power. गृणीमसि नाम (*gṛṇīmasi nāma*)—we surely praise.
+
+### Printed p. 210
+
+**भावार्थ (Bhāvārtha)**
+
+To Rudra, who is of brown colour, the showerer of desires, and of white form, I offer praise greater than the excellent. Worship with oblations Rudra, who has the radiance that destroys impurity. We also praise the radiant power of Rudra.
+
+**Printed English translation**
+
+I address infinite and earnest praise to the showerer (of benifits) [sic], the
+cherisher (of all), the white-complexioned : adore the consumer (of sin),
+with prostrations: we gloriaify [sic] the illustrious name of Rudra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the animal sacrifice related to Rudra, when the vapā, puroḍāśa and oblations are offered, the Ṛk प्र बभ्रवे (*pra babhrave*) of this sūkta and the two following Ṛks are to be used in order as yājyā mantras; this is stated by the Āśvalāyana Śrauta Sūtra, प्र बभ्रवे वृषभाय श्वितीच इति तिस्र आ पश्चातान्नासत्या पुरस्तात् (*pra babhrave vṛṣabhāya śvitīca iti tisra ā paścātānnāsatyā purastāt*) (Āś. 3-8).
+
+बभ्रवे-विश्वस्य भर्त्रे बभ्रुवर्णाय वा (*babhrave-viśvasya bhartre babhruvarṇāya vā*): Rudra is the lord of the whole world, or he is of brown colour. वृषभाय कामानां वर्षित्रॆ तद्वत्पसह्यकारिणे वा (*vṛṣabhāya kāmānāṃ varṣitrè tadvatpasahyakāriṇe vā*): he fulfils the wishes of those who serve him, or, like a bull, does his work by force. श्वितीचे—शैत्यमंचते (*śvitīce—śaityamaṃcate*): he has a pure radiance. Having so described Rudra, the Ṛṣi, seer of the mantra, says that for Rudra possessed of these qualities, महो महीं सुष्टुतिं ईरयामि (*maho mahīṃ suṣṭutiṃ īrayāmi*), "I shall utter abundantly praise full of greatness."
+
+कल्मलीकिनं रुद्रं नमोभिः नमस्य—ज्वलंतं रुद्रं नमस्कारैः हविर्भिर्वा पूजय (*kalmalīkinaṃ rudraṃ namobhiḥ namasya—jvalaṃtaṃ rudraṃ namaskāraiḥ havirbhirvā pūjaya*): addressing the sacrificer and the priest who are the praisers, it is said: worship Rudra, who shines with radiance, with oblations and with salutations.
+
+रुद्रस्य तेषं नाम गृणीमसि—महादेवस्य दीप्तं नाम संकीर्तयामः (*rudrasya teṣaṃ nāma gṛṇīmasi—mahādevasya dīptaṃ nāma saṃkīrtayāmaḥ*): it is explained that we, the seers of the mantra, recite the name, shining with brilliance, of this Mahādeva who is full of greatness beyond all the gods.
+
+कल्मलीकिनं—कलयति अपगमयति मलमिति कल्मलीकं तेजः तद्वंतं (*kalmalīkinaṃ—kalayati apagamayati malamiti kalmalīkaṃ tejaḥ tadvaṃtaṃ*). Yāska, कल्मलीकिनं (*kalmalīkinaṃ*) the word, ज्वलतो नामधेयानि (*jvalato nāmadheyāni*) among the names of ज्वलतः (*jvalataḥ*) (blazing)
+
 ---
 
-**Progress note:** Done through printed p. 207 (PDF 207). Sūkta 33 Ṛk 5 Special Topics completed; Ṛk 6 complete; Ṛk 7 through bhāṣya gist (Pratipadārtha onward next); kn.md: image-description lines removed, p.206 Pada/bhāṣya labels fixed (garbled 'ಪದಪಾಠ'/'ಸಯಣಭದ್ರ' replaced), Bhāvārtha label fixed; as supplied: 'Si. 6-4' for Ni., 'ಋದೂದರಃ', 'ಫೃಣೀವ', 'ಅರಸಾ' for arapāḥ, 'ವೈನ್ಯ', 'ಸೂರನ', 'ವ್ಯಾಪು ಯಾಂ'
+**Progress note:** Done through printed p. 210 (PDF 210). Sūkta 33 Ṛk 7 Pratipadārtha to Special Topics, Ṛk 8 complete through Pratipadārtha and Special Topics; page 210 ends mid-sentence (Yāska on kalmalīkinam). kn.md: Pratipadārtha/Bhāvārtha un-quoted with labels, stray '14' removed; as supplied: 'ಸುಷ್ಟುತಿ' vs Pada 'ಸುಸ್ತುತಿಂ', 'ಶ್ವಿತೀಚೇ', 'ತೇಷಂ' for tveṣam in Special Topics
