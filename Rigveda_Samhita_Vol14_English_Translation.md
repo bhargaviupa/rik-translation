@@ -25363,4 +25363,138 @@ He, who is the encourager of the rich, and of the poor, and of the priest, who r
 
 ---
 
-**Progress note:** Done through printed p. 662 (PDF 685); the dispatcher's labels agree with the headers this time (offset −23). Sūkta 12: Ṛk 5's Viśeṣaviṣayagaḷu is finished on p. 660 (Tai. Br. quote, 8-100-3 and 8-100-4 quotes, Gṛtsamada's second half; ends p. 661 with the ṛṣi's exhortation); a short rule and Ṛk 6 follow on p. 661 (varga 8 in the header). Ṛk 6 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is broken off in its second paragraph (⟦यः कृशस्य यः ब्रह्मणः नाधमानस्य कीरेः ब्रह्मणः⟧) at "… ಇಂದ್ರನು ಪಕ್ಷಪಾತವಿಲ್ಲದೆ ಒಂದೇ ಸಮನಾಗಿ" — to continue on printed p. 663 (PDF 686). Flags: numeral file agrees on Tai. Br. 1-4-1, 2, on 8-100-4 and on 3-8-2 (bhāṣya, p. 661); the first reference 8-100-3 (p. 660) has no file row and is my unzoomed reading. Unzoomed: varga numeral 8, Ṛk number 6, sūkta numeral 12 in the headers. [?] places: "ಲೋಕಸ್ವಧಾವ" (probably lokasvabhāva), "अद्रागित्याह", "श्रदस्मै" (ā or ai), "विश्वासमत्र कुरुत" (clearer than p. 658's "विश्वासमात्रं कुरुते"), the compound marks in the Ṛk 6 Pada, the end of the bhāṣya "ब्रह्मवन्वानो … नान्नपरः".
+### Printed p. 663 (PDF 686)
+
+*(Header: "A. 2 A. 6. V. 8 ]", "Ṛgvedasaṃhitā", "663". The Viśeṣaviṣayagaḷu of Ṛk 6 continues from p. 662, which ended "… Indra, without partiality, in one and the same way". The varga numeral 8 and the Ṛk number 7 are not zoomed.)*
+
+… gives wealth and the like: this is the sense. Yāska has given for the word नाधमानाः (*nādhamānāḥ*) the explanation याचमानाः (*yācamānāḥ*) ("those who beg"), reference Nirukta 4-2 (as printed; the numeral file agrees). He has also read the word कीरि (*kīri*) among the names of the praiser (stotṛ), reference Nirukta 3-19 (the numeral file agrees).
+
+*Bhāṣya words quoted in the Kannada (the Sanskrit is the bhāṣya already given above):*
+
+> युक्तग्राव्णो योऽविता सुशिप्रः सुतसोमस्य—यश्च सुशिप्रः शोभनहनुः सुशीर्षको वा सन् युक्तग्राव्णोऽभिषवार्थमुद्यतग्राव्णः सुतसोमस्याभिषुतसोमस्य यजमानस्याविता रक्षिता भवति—
+
+> *yuktagrāvṇo yo 'vitā suśipraḥ sutasomasya—yaśca suśipraḥ śobhanahanuḥ suśīrṣako vā san yuktagrāvṇo 'bhiṣavārthamudyatagrāvṇaḥ sutasomasyābhiṣutasomasya yajamānasyāvitā rakṣitā bhavati—*
+
+Here ग्राव्णः (*grāvṇaḥ*) is the genitive singular of the word ग्रावन् (*grāvan*). Yāska has given for the word ग्रावाणः (*grāvāṇaḥ*) the explanation:
+
+> ग्रावाणो हन्तेर्वा गृह्णातेर्वा
+
+> *grāvāṇo hantervā gṛhṇātervā*
+
+*(Reference printed: नि. (*ni.*) 9-8; the numeral file agrees.)* That is: this (the stone) is called ग्रावाणः (*grāvāṇaḥ*) because it is taken in the hand for pounding, that is, for crushing, the Soma plant, or—as the second explanation:
+
+> गृहातेर्वा—स्तूयन्तेर्वा
+
+> *gṛhātervā—stūyantervā*
+
+*(Printed so, as I read it: "ಗೃಹಾತೇರ್ವಾ—ಸ್ತೂಯಂತೇರ್ವಾ" [?]; unzoomed. It is the second explanation, with the sense "because it is praised", as the Kannada says.)* Because it is praised, it is called ग्रावाणः (*grāvāṇaḥ*): thus they have given the meaning. Here युक्तग्राव्णः (*yuktagrāvṇaḥ*) means: standing ready, holding in the hands the stones called ग्रावाणः (*grāvāṇaḥ*) that are needed for the work of grinding the Soma plants to draw out the juice.
+
+सुशिप्रः (*suśipraḥ*)—one who has excellent cheeks (printed "ಕೆನ್ನೆ"), or one with a fine head: that is, Indra of beautiful form.
+
+सुतसोमस्य (*sutasomasya*)—of the sacrificer who waits, having prepared the Soma juice for offering to Indra.
+
+The meaning of the sentence: Indra protects the sacrificer who holds in his hands the stones that grind the Soma plants, the instruments for preparing the Soma juice, and who waits, having prepared the Soma juice for offering to Indra.
+
+---
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> यस्याश्वा॑सः प्र॒दिशि॒ यस्य॒ गावो॒ यस्य॒ ग्रामा॒ यस्य॒ विश्वे॒ रथा॑सः ।
+> यः सूर्यं॒ य उ॒षसं॑ ज॒जान॒ यो अ॒पां ने॒ता स ज॑नास॒ इन्द्रः॑ ॥ ७ ॥
+
+> *yasyāśvāsaḥ pradiśi yasya gāvo yasya grāmā yasya viśve rathāsaḥ |*
+> *yaḥ sūryaṃ ya uṣasaṃ jajāna yo apāṃ netā sa janāsa indraḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> यस्य । अश्वासः । प्रऽदिशि । यस्य । गावः । यस्य । ग्रामाः । यस्य । विश्वे । रथासः ।
+> यः । सूर्यं । यः । उषसं । जजान । यः । अपां । नेता । सः । जनासः । इन्द्रः ॥ ७ ॥
+
+> *yasya | aśvāsaḥ | pra 'diśi | yasya | gāvaḥ | yasya | grāmāḥ | yasya | viśve | rathāsaḥ |*
+> *yaḥ | sūryaṃ | yaḥ | uṣasaṃ | jajāna | yaḥ | apāṃ | netā | saḥ | janāsaḥ | indraḥ ‖ 7 ‖*
+
+*(The compound mark in प्रऽदिशि is hard to see under the accent stroke, unzoomed [?].)*
+
+---
+
+### Printed p. 664 (PDF 687)
+
+*(Header: "664", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12"; the last digit of the sūkta numeral is partly cut at the edge.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: in whose rule horses, cows, villages and all chariots are, who created the sun and the dawn and sends the waters by splitting the cloud: he is Indra.*
+
+> यस्य सर्वान्तर्यामितया [?] वर्तमानस्य प्रदिशि प्रदेशने ऽनुशासने ऽश्वासो ऽश्वा वर्तन्ते । यस्यानुशासने गावः । यस्यानुशासने ग्रामाः । ग्रसन्ते ऽत्रेति ग्रामा जनपदाः । यस्याज्ञायां विश्वे सर्वे रथासो रथा वर्तन्ते । यश्च वृत्रं हत्वा सूर्यं जजान । जनयामास । यश्चोषसं । तथा मन्त्रः जजान सूर्यमुषसं सुदंसाः । ३-३२-८ । इति । यश्च मेघभेदनद्वारापां नेता प्रेरकः स इन्द्र इत्यादि प्रसिद्धं ॥
+
+> *yasya sarvāntaryāmitayā [?] vartamānasya pradiśi pradeśane 'nuśāsane 'śvāso 'śvā vartante | yasyānuśāsane gāvaḥ | yasyānuśāsane grāmāḥ | grasante 'treti grāmā janapadāḥ | yasyājñāyāṃ viśve sarve rathāso rathā vartante | yaśca vṛtraṃ hatvā sūryaṃ jajāna | janayāmāsa | yaścoṣasaṃ | tathā mantraḥ jajāna sūryamuṣasaṃ sudaṃsāḥ | 3-32-8 | iti | yaśca meghabhedanadvārāpāṃ netā prerakaḥ sa indra ityādi prasiddhaṃ ‖*
+
+*(Doubtful, unzoomed: the first word group "सर्वान्तर्यामितया" (the last syllable is printed with a sign that looks like ो; the Pratipadārtha has "सर्वान्तर्यामियादवन"). The reference "३-३२-८" agrees with the numeral file. No grammatical tail on this Ṛk.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O all people. यस्य (*yasya*)—of whichever one who is the inner controller of all. प्रदिशि (*pradiśi*)—in the command. अश्वासः (*aśvāsaḥ*)—horses are. यस्य (*yasya*)—in whose command. गावः (*gāvaḥ*)—cows are. यस्य (*yasya*)—in whose regulation. ग्रामाः (*grāmāḥ*)—villages are. यस्य (*yasya*)—in whose regulation. विश्वे रथासः (*viśve rathāsaḥ*)—all chariots are (and). यः (*yaḥ*)—who (having slain Vṛtra). सूर्यं (*sūryaṃ*)—the sun. जजान (*jajāna*)—created (and). यः (*yaḥ*)—who. उषसं (*uṣasaṃ*)—the dawn. created. यः (*yaḥ*)—who (having split the cloud). अपां (*apāṃ*)—to the waters. नेता (*netā*)—is the impeller. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O all people, he under whose command are the horses, the cows, the villages and all the chariots; who, having slain Vṛtra, created the sun and the dawn; who, having split the cloud, is the impeller of the waters: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, under whose control are horses and cattle, and villages, and all chariots : he who gave birth to the sun and to the dawn : and who is the leader of the waters : he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 7)*
+
+प्रदिशि (*pradiśi*)—प्रदेशने अनुशासने (*pradeśane anuśāsane*). In the command, within the order (Under his control): the meaning is, within Indra's order, or subject to his rule.
+
+ग्रामाः (*grāmāḥ*)—ग्रसन्ते ऽत्रेति ग्रामा जनपदाः (*grasante 'treti grāmā janapadāḥ*). Sāyaṇa has explained the word ग्रामः (*grāmaḥ*) as जनपद (*janapada*) or जनाङ्ग (*janāṅga*), that is, the people of one nation (rāṣṭra); one may also say it means the villages in which people live, the cities and other dwelling places.
+
+---
+
+### Printed p. 665 (PDF 688)
+
+*(Header: "A. 2 A. 6. V. 8 ]", "Ṛgvedasaṃhitā", "665".)*
+
+अश्वासः गावः ग्रामाः रथासः (*aśvāsaḥ gāvaḥ grāmāḥ rathāsaḥ*)—horses, cows, villages and chariots: it must not be understood that only these four kinds are under Indra's rule and not other things. Since it is not possible to say all the things in the world one by one, only a few are mentioned here. Therefore one must understand that all beings and things in the world are subject to Indra's command.
+
+रथासः (*rathāsaḥ*)—For the word रथ (*ratha*) Yāska in his Nirukta has given the explanation:
+
+> रथो रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा रपतेर्वा रसतेर्वा
+
+> *ratho raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā rapatervā rasatervā*
+
+*(Reference printed: नि. (*ni.*) 9-11; the numeral file agrees.)* That is, the word रथ (*ratha*) may be formed from the root रंह् (*raṃh*), which denotes motion, or from the root स्थिरति (*sthirati*) (*sthirati*) with the sense "be steady" (here the first two letters of the root स्थिरति (*sthirati*) must be turned back to front, as the Kannada says). It is called a chariot because it is always going about. Or the warrior sitting in it is steady: that is, when one sits on horses and other vehicles the body shakes, but when one sits in a chariot one can sit firmly without shaking: therefore it is called a chariot. Or, because one sits in this chariot and roams about, it is called a chariot: thus they have set out the component meanings. *(The Kannada sentence is printed with misplaced brackets at the line break; the sense is as given.)*
+
+यः सूर्यं यः उषसं जजान (*yaḥ sūryaṃ yaḥ uṣasaṃ jajāna*)—Indra produced the Sun and the goddess Uṣas. In this matter—
+
+> इन्द्रस्य कर्म सुकृता पुरूणि व्रतानि देवा न मिनन्ति विश्वे ।
+> दाधार यः पृथिवीं द्यामुतेमां जजान सूर्यमुषसं सुदंसाः ॥
+
+> *indrasya karma sukṛtā purūṇi vratāni devā na minanti viśve |*
+> *dādhāra yaḥ pṛthivīṃ dyāmutemāṃ jajāna sūryamuṣasaṃ sudaṃsāḥ ‖*
+
+*(Reference printed: ऋ. सं. (*ṛ. saṃ.*) 3-32-8; the numeral file agrees. Read "पुरूणि" with ण as printed; unzoomed.)* In this Ṛk it is said that Indra, the doer of excellent deeds, upholds the earth and heaven, and created the sun and Uṣas.
+
+यः अपां नेता (*yaḥ apāṃ netā*)—यश्च मेघभेदनद्वारापां नेता प्रेरकः (*yaśca meghabhedanadvārāpāṃ netā prerakaḥ*). Indra strikes the clouds that are held back by Vṛtra in the atmosphere and makes the water flow; therefore Indra is said to be the impeller of the waters; that is, it is by Indra's impulsion that the clouds shed rain. The meaning is that the water reaches the earth through that rain.
+
+---
+
+#### Ṛk 8
+
+*(Small caption "Saṃhitāpāṭha", printed in tiny, blurred type.)*
+
+**॥ संहितापाठः ॥**
+
+> यं क्रन्द॑सी संय॒ती वि॒ह्वये॑ते॒ परेऽव॑र उ॒भया॑ अ॒मित्राः॑ ।
+> स॒मा॒नं चि॒द्रथ॑मातस्थि॒वांसा॒ नाना॑ हवेते॒ स ज॑नास॒ इन्द्रः॑ ॥ ८ ॥
+
+> *yaṃ krandasī saṃyatī vihvayete pare 'vara ubhayā amitrāḥ |*
+> *samānaṃ cidrathamātasthivāṃsā nānā havete sa janāsa indraḥ ‖ 8 ‖*
+
+*(Doubtful, unzoomed: the avagraha in "परेऽवर" (the print reads "परेवर" with a stroke I take as the sign). The Ṛk number printed is 8 as I read it, unzoomed.)*
+
+---
+
+**Progress note:** Done through printed p. 665 (PDF 688); the dispatcher's labels agree with the headers (offset −23). Sūkta 12: Ṛk 6's Viśeṣaviṣayagaḷu is finished on p. 663 (Yāska, Nirukta 4-2, 3-19, 9-8; the Kannada gist of the bhāṣya on ⟦युक्तग्राव्णः, सुशिप्रः, सुतसोमस्य⟧). Ṛk 7 is complete on pp. 663–665 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu with Nirukta 9-11 and Ṛg. 3-32-8). Ṛk 8 is open: only the Saṃhitā is written (at the foot of p. 665); the Pada begins on printed p. 666 (PDF 689). Numeral file agrees on all references (4-2, 3-19, 9-8, 3-32-8 twice, 9-11); the varga numeral 8, the Ṛk numbers 7 and 8 and the last digit of the header's sūkta numeral (p. 664, partly cut) are unzoomed. [?] places: "गृहातेर्वा—स्तूयन्तेर्वा" in Yāska's second explanation of ⟦ग्रावाणः⟧ (p. 663), "सर्वान्तर्यामितया" (p. 664 bhāṣya), the compound mark in the Pada of "प्रऽदिशि", the avagraha in "परेऽवर" (Ṛk 8 Saṃhitā).
