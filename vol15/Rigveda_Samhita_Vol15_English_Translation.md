@@ -20355,6 +20355,102 @@ Damūnāḥ—⟦ದಮೂನಾ ದಮಮನಾ ವಾ ದಾನಮನಾ ವ�
 
 Agne: O Agni. Svapatye: for the sake of good sons. Āyuni: for the sake of long life. Jarasva: praise the gods. Ūrjā: with food in the form of oblation. Pinvasva: satisfy them. Naḥ: to us. Iṣaḥ: plants and the like that are means of food
 
+### Printed p. 653
+
+*[Running head, p. 653: Aṣṭaka 2, Adhyāya 8, Varga 21, Ṛgvedasaṃhitā.]*
+
+(rain). Saṃ didīhi: provide. Jāgṛve: O Agni, ever awake! Bṛhataḥ: to the sacrificer endowed with greatness. Vayāṃsi ca: and foods. Jinva: provide. Sukratuḥ: you, endowed with excellent works. Vipāṃ: of the wise. Devānāṃ: gods. Uśik: dear. Asi: are.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, praise the gods for good sons and long life. Satisfy them with food in the form of oblation. Provide for us rain and plants, the means of food. O Agni, ever awake, provide foods to the sacrificer endowed with great qualities. You, endowed with excellent works, are dear to the wise gods.
+
+**Printed English translation**
+
+Agni, praise (the gods that we may enjoy) good offspring and long life : propitiate them by libations ; bestow upon us plentiful crops: ever vigilant, grant food to the respectable (institutor of this ceremony), for you are the desired of the gods, the object of the pious acts of the devout.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Ūrjā—रसेन अन्ने वा । (*rasena anne vā |*) The meaning is either by the sap in the nature of strength or by food. The word ūrja is read in the Nirukta among the names of food (Ni. 3-9). ⟦ಊರ್ಜಂ ಬಲಂ,
+ಬಲಪ್ರಾಣನಸಮರ್ಥಮನ್ನಂ ।⟧ — food that increases strength. In some places the purport is strength itself, as strength-giving food. The Nirukta authors cite the sentence
+
+⟦ದೇವೀ ಊರ್ಜಾಹುತೀ ಇಷಮೂರ್ಜಮನ್ಯಾವಕ್ಷತ್ ಸಗ್ನಿಂ ಸಪೀತಿಮನ್ಯಾ ನವೇನ
+ಪೂರ್ವಂ ದಯಾಮಾನಾಃ ಸ್ಯಾಮ ಪುರಾಣೇನ ನವಂ ತಾಮೂರ್ಜಮೂರ್ಜಾಹುತೀ
+ಊರ್ಜಯಮಾನೇ ॥⟧
+(printed ವಾ. ಸಂ. 28-16)
+
+to show that the word ūrja is used in one place as food and in another as strength, two meanings in a single sentence.
+
+⟦ಯೋ ವೈತಾಮಕ್ಷಿತಿಂ ವೇದ ಸೋಽನ್ನಮತ್ತಿ ಪ್ರತೀಕೇನ । ಸ ದೇವಾನಪಿ ಗಚ್ಛತಿ ಸ
+ಊರ್ಜಮುಪಜೀವತಿ ॥⟧
+(printed ಬೃ. ಉ. 1-5-1)
+
+### Printed p. 654
+
+*[Running head, p. 654: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+Since both words, anna and ūrja, are used there, the word ūrja there means simply strength. In the present Ṛk it means food that nourishes strength.
+
+In the present Ṛk Agni is praised as giver of food and as ever awake. The epithet jāgṛvi is because Agni has a thousand eyes and always knows all the forms of gods, men and the rest.
+
+अग्ने सहस्राक्षेति । हिरण्यशकलैर्वा एष सहस्राक्षः (*agne sahasrākṣeti | hiraṇyaśakalairvā eṣa sahasrākṣaḥ*) .................. ⟦ತ್ವಗ್ಂ ಸಾಹಸ್ರಸ್ಯ
+ರಾಯ ಈಶಿಷ್ಮಇತಿ ತ್ವಗ್ಂ ಸರ್ವಸ್ಯೈ ರಯ್ಯಾ ಈಶಿಷೇ ॥⟧
+(printed ಶ. ಬ್ರಾ. 9-2-3-32; the printed passage has a row of dots inside it)
+
+"O Agni, you are thousand-eyed; one who always looks at all the dealings of gods, men and the rest; lord of all food; giver of food; of the nature of strength": thus the qualities of Agni are described. Describing the very point praised in the present Ṛk, the Śatapatha and the Taittirīya Saṃhitā and others praise Agni's power of bestowing wealth in this way.
+
+अथ यद्वसुवने वसुधेयस्येति यजति । अग्निर्वै वसुवनिरिंद्रो वसुधेयः । (*atha yadvasuvane vasudheyasyeti yajati | agnirvai vasuvaniriṃdro vasudheyaḥ |*)
+(printed ಶ. ಬ್ರಾ. 1-8-2-16)
+
+Since Agni is the possessor of wealth, one should recite the mantra वसुवने वसुधेयस्य (*vasuvane vasudheyasya*) and make the oblation. Agni is the lord of wealth; therefore Agni is the giver of wealth, Indra the receiver: so Agni is praised. The same point is praised in the Taittirīya Saṃhitā (Tai. Saṃ. 2-6-9).
+
+Sukratuḥ—the word sukratu means one who has excellent power, or excellent wealth, or excellent works; but since the word kratu is a synonym of action, the meaning excellent work predominates. In the present context it is an epithet of Agni as doer of good works.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> वि॒श्वतिं॑ य॒ह्वमति॑थिं॒ नरः॒ सदा॑ यं॒तारं॑ धी॒नामु॒शिजं॑ च वा॒घतां॑ ।
+> अ॒ध्व॒राणां॒ चेत॑नं जा॒तवे॑दसं॒ प्र शं॑संति॒ नम॑सा जू॒तिभि॑र्वृ॒धे ॥
+
+> *viśvatiṃ yahvamatithiṃ naraḥ sadā yaṃtāraṃ dhīnāmuśijaṃ ca vāghatāṃ |*
+> *adhvarāṇāṃ cetanaṃ jātavedasaṃ pra śaṃsaṃti namasā jūtibhirvṛdhe ‖*
+
+### Printed p. 655
+
+*[Running head, p. 655: Aṣṭaka 2, Adhyāya 8, Varga 21, Ṛgvedasaṃhitā.]*
+
+**॥ पदपाठः ॥**
+
+> विश्वतिं । यद्वं । अतिथिं । नरः । सदा । यंतारं । धीनां । उशिजं । च । वाघतां ।
+> अध्वराणां । चेतनं । जातवेदसं । प्र । शंसंति । नमसा । जूतिभिः । वृधे ॥ ८ ॥
+
+*(The Pada is printed ಯದ್ವಂ where the Saṃhitā has ಯಹ್ವಂ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> नरो नेतारः स्तोतारो वा विश्वतिं विशां मनुष्याणां पतिं विश्वस्य पतिमिति
+> वा यह्वं महांतमतिथिं सर्वस्यातिथिभूतं धीनां बुद्धीनां कर्मणां वा यंतारं
+> नियंतारं नाघतामृत्विजां चोशिजं कांतं मनोज्ञमध्वराणां यागानां
+> चेतनं प्रज्ञापकं जूतिभिर्वेगैर्युक्तं जातवेदसमग्निं वृधे वृद्धये समृद्धये
+> नमसा नमस्कारेण स्तुतिभिश्च प्रशंसति । प्रशंसां कुर्वंति ॥
+
+*(Gist: the leaders praise with homage, for prosperity, Agni Jātavedas, lord of the people, great guest, controller of works, dear to the priests, awakener of sacrifices, endowed with speed.)*
+
+*[The supplied text has before the Pratipadārtha a garbled label "೧ ಪ್ರತಿಪದಾರ್ಥ ೧" inside the bhāṣya block, kept as a note in kn.md; the label was normalised and the Pratipadārtha un-quoted. The Pratipadārtha (and the Bhāvārtha) print "ಸಂಪತ್ಸಮೃದ್ಧ" followed by the Devanagari letters ्यर्थ; in kn.md these were rewritten letter for letter in Kannada script as ್ಯರ್ಥ, because the Kannada file allows no Devanagari.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Naraḥ: the priests and others who lead the sacrifice. Viśvatiṃ: the lord of all people. Yahvaṃ: the venerable. Atithiṃ: the guest of all. Dhīnāṃ: of all works. Yantāraṃ: the controller. Vāghatāṃ ca: of all priests. Uśijaṃ: the beloved. Adhvarāṇāṃ: of the sacrifices. Cetanaṃ: the one who makes known. Sadā: always. Jūtibhiḥ: with speed (endowed with power). Jātavedasaṃ: Agni of far-reaching knowledge. Vṛdhe: for increase of wealth. Namasā: with homage. Praśaṃsanti: they praise.
+
+**भावार्थ (Bhāvārtha)**
+
+The priests and others who lead the sacrifice praise with homage, for increase of wealth, Agni, the lord of all people, venerable, guest of all, controller of all works, beloved of all priests, always endowed with power and of far-reaching knowledge.
+
+**Printed English translation**
+
+The leaders (of holy rites) praise with prostration, for (the sake of) increase, the mighty lord of people, the guest (of men), regulator eternally of acts, the desired of the priests, the exposition of sacrifices, Jatavedas, endowed with (divine) energies.
+
 ---
 
-**Progress note:** Done through printed p. 652 (PDF 652). Sūkta 3 Ṛk 6 complete; Ṛk 7 begun (Pratipadārtha cut mid-list); Saṃhitā/Pada second lines moved to own blocks; accent DIFF/NOMATCH logged
+**Progress note:** Done through printed p. 655 (PDF 655). Sūkta 3 Ṛk 7 complete; Ṛk 8 complete up to printed English; Devanagari letters in a Kannada phrase rewritten in Kannada script
