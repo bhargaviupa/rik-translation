@@ -31752,6 +31752,112 @@ It has been partaken(by Indra) for his exhilaration, of this agreeable (sacrific
 
 *(The page ends here; the passage of the Special Topics may continue on p. 839.)*
 
+### Printed p. 839
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 23] Ṛgvedasaṃhitā 839".)*
+
+**Special Topics** *(continued from p. 838)*
+
+तव त्य इंदो अंधसो देवा मधोर्व्यश्वते (*tava tya iṃdo aṃdhaso devā madhorvyaśvate*) (Ṛ. Saṃ. 9-51-3)
+
+तरत्स मंदी धावति धारा सुतस्यांधसः (*taratsa maṃdī dhāvati dhārā sutasyāṃdhasaḥ*) (Ṛ. Saṃ. 9-58-1)
+
+अधा ते सख्ये अंधसो वि वो मदे रणन्गावो न यवसे विवक्षसे (*adhā te sakhye aṃdhaso vi vo made raṇangāvo na yavase vivakṣase*) (Ṛ. Saṃ. 10-25-1)
+
+In these and other Ṛks the word अंधसः (*aṃdhasaḥ*) indicates only the meaning "Soma juice".
+
+सुवानस्य मनीषिणः प्रयसः अस्य अंधसः मदाय अपायि (*suvānasya manīṣiṇaḥ prayasaḥ asya aṃdhasaḥ madāya apāyi*) — "Of the wise sacrificer who is pressing the Soma, of this agreeable food in the form of Soma, it was drunk for exhilaration." Sāyaṇa's sense (the Kannada says): the Soma juice, pressed by the sacrificer, who is wise and the performer of the sacrifice, and which gives delight, was drunk by Indra; this is the main intention. Although the word अंधसः (*aṃdhasaḥ*) is in the genitive here, Sāyaṇa says that the sense of the accusative is to be understood for this word; that is, "the food in the form of Soma", or "a small portion of the food in the form of Soma", either meaning may be taken.
+
+यस्मिन् प्रदिवि वावृधानो इंद्र ओको दधे (*yasmin pradivi vāvṛdhāno iṃdra oko dadhe*) — Sāyaṇa: "in which Soma-food of old Indra, growing, made his dwelling, as one served." In this sentence the sage praises the Soma juice. Indra made his dwelling in this Soma juice, which is ancient, that is, famous since a long time; the meaning is that Indra drank to his heart's content, or drank, such an excellent and famous Soma juice.
+
+ब्रह्मण्यंतः नरः च (*brahmaṇyaṃtaḥ naraḥ ca*) (दधे (*dadhe*)) — Sāyaṇa: "moreover, the priests, leaders of the rites, desiring praise, made their dwelling in it; this is connected with अपायि (*apāyi*) before." Besides this, the priests too, engaged in the sacrificial rite and carrying it out, drank in this sacrifice the Soma juice mentioned before. The meaning is that such Soma juice was drunk by Indra; it is to be construed with the preceding sentence.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अस्य मन्दानो मध्यो वज्रहस्तोऽहिमिन्नो अर्णोवृतं
+> नि वृश्चत् ।
+> प्र यद्वयो॒ न स्वस॑रा॒ण्यच्छा॒ प्रयां॑सि च न॒दीनां॒ चक्र॑मन्त॥
+
+> *asya mandāno madhyo vajrahasto 'himinno arṇovṛtaṃ*
+> *ni vṛścat |*
+> *pra yadvayo na svasarāṇyacchā prayāṃsi ca nadīnāṃ cakramanta‖*
+
+### Printed p. 840
+
+*(Header: "840 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 19".)*
+
+**॥ पदपाठः ॥**
+
+> अस्य । मंदानः । मध्वः । वज्रहस्तः । अहिं । इन्द्रः । अर्णःवृतं । वि । वृश्चत् ।
+> प्र । यत् । वयः । न । स्वसराणि । अच्छ । प्रयांसि । च । नदीनां । चक्रमन्त ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्य मध्वः ॥ तृतीयार्थे षष्ठी ॥ अनेन मदकरेण सोमेन मंदानो
+> हृष्यन् वज्रहस्तो वज्रयुक्तो हस्तो यस्य स इंद्रोऽर्णोवृतमुदकस्यावरक-
+> मुदकेनावृतं वाहिं वृत्रं मेघं वा विवृश्चत् । विशेषेणाच्चिनत्॥ ओव्रश्च छेदने।
+> तौदादिकः । लजि ग्रहिज्यादिना संप्रसारणं॥ यद्यदाहिभेदने जाते नदीनां प्रयांसि
+> प्रीणयित्यणि जलान्यच्छ समुद्रमभिलक्ष्य प्र चक्रमंत । गंतुमुपाक्रमन् । तत्र
+> दृष्टांतः । वयो न । यथा दक्षिणः स्वसराणि । सुष्वर्यंते प्राप्यंत इति स्वराणि
+> स्वसराणि कुलायाः । तानभिलक्ष्य गच्छंति तद्वत् ॥
+
+> *asya madhvaḥ ‖ tṛtīyārthe ṣaṣṭhī ‖ anena madakareṇa somena maṃdāno*
+> *hṛṣyan vajrahasto vajrayukto hasto yasya sa iṃdro 'rṇovṛtamudakasyāvaraka-*
+> *mudakenāvṛtaṃ vāhiṃ vṛtraṃ meghaṃ vā vivṛścat | viśeṣeṇāccinat‖ ovraśca chedane|*
+> *taudādikaḥ | laji grahijyādinā saṃprasāraṇaṃ‖ yadyadāhibhedane jāte nadīnāṃ prayāṃsi*
+> *prīṇayityaṇi jalānyaccha samudramabhilakṣya pra cakramaṃta | gaṃtumupākraman | tatra*
+> *dṛṣṭāṃtaḥ | vayo na | yathā dakṣiṇaḥ svasarāṇi | suṣvaryaṃte prāpyaṃta iti svarāṇi*
+> *svasarāṇi kulāyāḥ | tānabhilakṣya gacchaṃti tadvat ‖*
+
+*Gist: Indra, delighted by this Soma, splits the cloud or Vṛtra that encloses the waters; the waters of the rivers then flow towards the ocean as birds go to their nests. The grammatical tail (the root व्रश्च (*vraśca*) and the samprasāraṇa) is noted, not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यत् (*yat*)—when. अस्य मध्वः (*asya madhvaḥ*)—by the drinking of this exhilarating Soma. मंदानः (*maṃdānaḥ*)—having become gladdened. वज्रहस्तः (*vajrahastaḥ*)—holding the thunderbolt in his hand. इंद्रः (*iṃdraḥ*)—Indra. अर्णोवृतं (*arṇovṛtaṃ*)—covered with water. अहिं (*ahiṃ*)—Vṛtra (the cloud). विवृश्चत् (*vivṛścat*)—split; (then). नदीनां (*nadīnāṃ*)—of the rivers. प्रयांसि (*prayāṃsi*)—the agreeable waters. वयः (*vayaḥ*)—birds. स्व सराणि इव (*sva sarāṇi iva*)—as they fly towards their own nests. अच्छ (*accha*)—aiming at the ocean (facing the ocean). प्र चक्रमंत (*pra cakramaṃta*)—flowed on.
+
+**भावार्थ (Bhāvārtha)**
+
+When Indra, gladdened by drinking this exhilarating Soma and holding the thunderbolt in his hand, split the cloud that was covered with water, then the agreeable waters of the rivers flowed on, facing the ocean, as birds fly towards their own nests.
+
+**English Translation (as printed)**
+
+Exhilarated by the Soma juice, Indra, armed with the thunderbolt sevred [sic] the rain-confining cloud; where-upon the currents of the rivers proceedad [sic] (towards the ocean), like birds to their own nests.
+
+### Printed p. 841
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 23] Ṛgvedasaṃhitā 841".)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is clear. Indra drank the exhilarating Soma juice, and, enthused by its gladness, holding the thunderbolt in his hand, struck Vṛtrāsura, who held back the clouds enveloped by the waters. In this way, by the splitting of the cloud, the waters that had been held back until then fell on the earth in the form of rain, flowed as rivers, and moved on towards the ocean. An illustration on this matter is given here: as birds (in the evening) go and settle in their nests, so the waters of the rivers go and join, facing the ocean. Here the waters of the river are compared to birds, and the ocean to the nests of the birds.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> स माहि॑न॒ इन्नो॒ अर्णो॑ अ॒पां प्रैर॑यदहि॒हाच्छा॑
+> समु॒द्रं ।
+> अज॑नय॒त्सूर्यं॑ वि॒दद्गा अ॒क्तुनाह्नां॑ व॒युना॑नि साधत् ॥
+
+**॥ पदपाठः ॥**
+
+> सः । माहिनः । इन्द्रः । अर्णः । अपां । प्र । ऐरयत् । अहिहा । अच्छ । समुद्रं ।
+> अजनयत् । सूर्यं । विदत् । गाः । अक्तुना । अह्नां । वयुनानि । साधत् ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> माहिनो महनीयः पूजनीयो यद्वा महिमोपेतः । अहिहाहिं मेघं
+> हतवानिंद्रः ॥ ब्रह्मभ्रूणवृत्रेषु क्विप् । बहुलं छंदसीति भूतकाले क्विप् ॥ स
+> इंद्रोऽपामर्णः ॥ ऋ गत् ॥ स्रोतोलक्षणं प्रवाहं समुद्रामच्छाभिलक्ष्य प्रैर-
+> यत् । किंच स इंद्रोऽंगिरसां बिलांतर्वर्तिनामावृतानां गवां लाभाय सूर्य-
+> मजनयत् । ततो गाः पणिभिरपहृता गा विदत् । अलभत ॥ विदिर् लाभे । लुजीरितो
+> वेति चेरवादेशः । वाक्यभेदादनिघातः ॥ तथाक्तुना तेजसाह्नां दिवसानां वयु-
+> नानि प्रज्ञानानि प्रकाशान् साधत् । असादयत् ॥
+
+*Gist: Indra, the venerable slayer of the cloud, sent the stream of waters towards the ocean; for the Aṅgirases' cows he brought forth the sun, found the cows, and by his light brought the days' lights to full effect.*
+
 ---
 
-**Progress note:** Done through printed p. 838 (PDF 838). Sukta 18 completed (Rk 9 Bhavartha, English, Special Topics); Sukta 19 begun: intro, heading block, Rk 1 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, English; Special Topics of Rk 1 begun
+**Progress note:** Done through printed p. 841 (PDF 841). Sukta 19 Rk 1 Special Topics completed; Rk 2 complete; Rk 3 Samhita, Pada, bhasya written
