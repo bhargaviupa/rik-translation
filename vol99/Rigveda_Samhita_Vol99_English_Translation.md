@@ -600,6 +600,111 @@ Om. Sūkta 7. Maṇḍala 2, Anuvāka 1, Sūkta 7. Aṣṭaka 2, Adhyāya 5, Var
 
 यविष्ठ (*yaviṣṭha*)—most youthful. भारत (*bhārata*)—kinsman of the priests. वसो (*vaso*)—giver of dwelling. अग्ने (*agne*)—O Agni. श्रेष्ठं (*śreṣṭhaṃ*)—most praiseworthy. द्युमंतं (*dyumaṃtaṃ*)—brilliant. पुरुस्पृहं (*puruspṛhaṃ*)—desired by many. रयिं (*rayiṃ*)—wealth. आ भर (*ā bhara*)—bring.
 
+### Printed p. 519
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 28; Ṛgveda-saṃhitā, p. 519.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, most youthful, kinsman of the priests, giver of a dwelling: bring for us wealth that is most praiseworthy, brilliant and desired by many.
+
+**Printed English translation**
+
+Youngest(of the gods), Agni, descendant of Bharata, granter of dwellings, bring(to us) excellent, splendid, and enviable riches.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+भारत (भारत (*bhārata*)) — The word भारत (*bhārata*) is read among the names of priests (Ni. 3-18). भारत (*bhārata*) means a priest (ṛtvij). The word is derived from the root भृञ् भरणे (*bhṛñ bharaṇe*) and, according to Skandasvāmin's explanation, यज्ञद्वारेण नृन् संभरतीति (*yajñadvāreṇa nṛn saṃbharatīti*) — he has the sacrifice performed and by that means lifts up men (the sacrificers); therefore this priest is called Bhārata. Durgācārya, the commentator on the Nirukta, explains भ्रियंते दक्षिणाभिस्ते इति भारताः (*bhriyaṃte dakṣiṇābhiste iti bhāratāḥ*): since they cause the sacrifice to be performed and obtain satisfaction through the fees (dakṣiṇā) and the like, these priests are called Bhāratas. Thus the word *bharata* has two kinds of etymological sense.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> मा नो॒ अरा॑तिरीशत दे॒वस्य॒ मर्त्य॑स्य च ।
+> पर्षि॒ तस्या॑ उ॒त द्वि॒षः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> मा । नः । अरातिः । ईशत । बेवस्य । मर्त्यस्य । च ।
+> पर्षि । तस्याः । उत । द्विषः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वदनुग्रहान्नोऽस्मानरातिरदानं शत्रुत्वं । यद्वा छंदस्यरातिशब्दः
+> शत्रुवाची स्त्रीलिंगो भवति । अदाता शत्रुर्मेशत । पराभवितुं शक्तो मा भूत् ।
+
+> *he agne tvadanugrahānno 'smānarātiradānaṃ śatrutvaṃ | yadvā chaṃdasyarātiśabdaḥ*
+> *śatruvācī strīliṃgo bhavati | adātā śatrurmeśata | parābhavituṃ śakto mā bhūt |*
+
+### Printed p. 520
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 7, p. 520.*
+
+> मा विषयाकुर्यात् । आरातिर्विशेष्यते । देवस्य च मर्त्यस्य च संबंधिनी तैः
+> कारिता । उत अपि च तस्या उभयविधाया द्विषोऽस्मदरातेः पर्षि । पूरय ॥
+
+*Gist:* Let no enemy, of gods or of men, prevail over us; "pūraya" — protect us from that twofold hatred.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O Agni) देवस्य (*devasya*) — one belonging to the company of the gods, or मर्त्यस्य च (*martyasya ca*) — belonging to the company of men; आरातिः (*ārātiḥ*) — the enemy; नः (*naḥ*) — us; मा ईशत (*mā īśata*) — let him not be able to withstand and defeat; उत (*uta*) — and; तस्याः (*tasyāḥ*) — of those two kinds; द्विषः (*dviṣaḥ*) — from enemies; पर्षि (*parṣi*) — protect us.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, let the enemy, whether belonging to the company of the gods or to the company of men, not be able to withstand and defeat us; and protect us from enemies of both these kinds.
+
+**Printed English translation**
+
+Let no enemy prevail against us, whether of god or man; protect us from both such foes.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अरातिः (*arātiḥ*) — The bhāṣya says: अरातिरदानं । यद्वा छंदस्यरातिशब्दः शत्रुवाची स्त्रीलिंगो भवति । (*arātiradānaṃ | yadvā chaṃdasyarātiśabdaḥ śatruvācī strīliṃgo bhavati |*) That is, a man who gives nothing to anyone, or who does not give oblations and the like to the gods, is called *arāti*. Or, in the Veda the word *arāti* is used especially in the sense of "enemy"; then the word *arāti* is feminine, as the commentator explains. Yāska in the Nirukta gives two kinds of meaning: अरातयोऽदानकर्माणः (*arātayo 'dānakarmāṇaḥ*) — those who do not give are *arātis* (Ni. 3-11); or अरातीः—अमित्रानदानानिति वा (*arātīḥ—amitrānadānāniti vā*) — that is, enemies who are not friends, or those who do not give (Ni. 11-1).
+
+देवस्य (*devasya*) — For the word *deva* Yāska has given the explanation देवो दानाद्वा, दीपनाद्वा, द्योतनाद्वा, द्युस्थानो भवतीति वा (*devo dānādvā, dīpanādvā, dyotanādvā, dyusthāno bhavatīti vā*): he who gives, who shines, who is radiant with brilliance, or who dwells in heaven; therefore he is called *deva* (Ni. 7-15).
+
+मर्त्यस्य (*martyasya*) — This word is derived from the root मृज् प्राणत्यागे (*mṛj prāṇatyāge*); म्रियंत इति मर्त्याः (*mriyaṃta iti martyāḥ*) — those who die are *martya*, so men are called *martya*. The gods are said to be *amartya*. In the Ṛgveda the use of the words *martya* (*marta*) and *amartya* is frequent.
+
+### Printed p. 521
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 28; Ṛgveda-saṃhitā, p. 521.*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> विश्वा॑ उ॒त त्वया॑ व॒यं धारा॑ उद॒न्या॑ इव ।
+> अति॑ गाहेमहि॒ द्विषः॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> विश्वाः । उत । त्वया । वयं । धाराः । उदन्याः इव ।
+> अति । गाहेमहि । द्विषः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उत अपि च हे अग्ने वयं त्वदनुग्रहाद्विश्वा द्विषः सर्वानपि द्वेष्टान्
+> उदन्या धारा इव उदकसंबंधिनीर्धारा अल्पस्तुतीरिव त्मनात्मनैवान्यनिरपेक्षेणाति-
+> गाहेमहि । अतिक्रम्य गच्छेम ॥
+
+*Gist:* Through your favour, Agni, we shall pass over all hatreds easily, as one crosses small streams of water.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत (*uta*) — and; वयं (*vayaṃ*) — we; उदन्याः धाराः इव (*udanyāḥ dhārāḥ iva*) — as one crosses without effort streams in which only a little water flows; विश्वाः द्विषः (*viśvāḥ dviṣaḥ*) — all our enemies; त्वया (*tvayā*) — by your favour; अति गाहेमहि (*ati gāhemahi*) — may we become able to defeat and cross over.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, as (people) cross without effort small brooks or streams flowing with a little water, so may we also, by your favour, obtain the power to defeat all our enemies.
+
+**Printed English translation**
+
+Let us, through your favour, overwhelm all our foes, like torrents of water.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+धारा उदन्या इव (*dhārā udanyā iva*) — Rivers flowing deep and swift with abundant water cannot easily be crossed by people. But a small stream with only a little water, flowing gently, people pass over without effort. Likewise, the prayer is expressed here that we may defeat our enemies without effort.
+
 ---
 
-**Progress note:** Done through printed p. 518 (PDF 518). Sukta 6 Rk 8 (Samhita line 1 supplied chikitse vs Pada chikitvah), Sukta 7 intro and Rk 1; accent DIFFs on 3 lines
+**Progress note:** Done through printed p. 521 (PDF 521). Sukta 7 Rk 1 end, Rk 2, Rk 3; Rk 3 Pada label restored in kn.md; Rk 2 Pada reads bevasya
