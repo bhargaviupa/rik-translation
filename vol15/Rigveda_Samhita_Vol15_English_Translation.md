@@ -5160,6 +5160,89 @@ Further, आशवः पद्याभिः रजः तित्रतः (
 
 *(The Special Topics continue on p. 165.)*
 
+### Printed p. 165
+
+भूमेः उच्छ्रिते प्रदेशे पाण्युपलक्षितैः पादैः अत्यर्थं गच्छति (*bhūmeḥ ucchrite pradeśe pāṇyupalakṣitaiḥ pādaiḥ atyarthaṃ gacchati*)—the horses go exceedingly on the elevated regions of the earth with their feet, which are like hands (so the passage is explained).
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> उ॒त स्य न॒ इंद्रो॑ वि॒श्वच॑र्षणिर्दि॒वः शर्धे॑न॒ मारु॑तेन सु॒क्रतुः॑ ।
+> अनु॒ नु स्था॑त्यवृ॒काभि॑रू॒तिभी॒ रथं॑ म॒हे स॒नये॒ वाज॑सातये ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । स्यः । नः । इंद्रः । विश्वचर्षणिः । दिवः । शर्धेन । मारुतेन । सुक्रतुः ।
+> अनु । नु । स्थाति । अवृकाभिः । ऊतिभिः । रथं । महे । सनये । वाजसातये ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उत अपि च विश्वचर्षणिर्विश्वस्य सर्वस्य द्रष्टा यद्वा विश्वे चर्षणयो
+> मनुष्या यस्य परिचारकाः । अथवा विश्वे सर्वॆ लोकाश्चर्षणयो द्रष्टव्या येन ॥
+> बहुप्रीहौ विश्वं संज्ञायामिति पूर्वपदांतोदात्तत्वं ॥ मारुतेन मरुत्समूह-
+> रूपेण शर्धेन बलेन सह सुक्रतुः शोभनकर्मा शोभनप्रज्ञो वा स्य स
+> इंद्रोऽवृकाभिर्हिंसकरहिताभिरूतिभी रक्षाभिः सहितः सन् दिवो द्युलोकादागत्य
+> नु अद्य नोऽस्माकं रथमनुस्थाति । अनुगुण्येनाधितिष्ठतु ॥ छांदसः शपो लुक् ॥
+> किमर्थं । महे सनये महते धनाय । तथा वाजसातये वाजस्यान्नस्य सातये
+> संभजनार्थं ॥
+
+*Gist:* Indra, all-seeing and accompanied by the Maruts' might, is asked to come from heaven and mount our chariot for great wealth and food; the grammatical remarks concern accent and the dropped *śap*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Uta—and; viśvacarṣaṇiḥ—able to see everything; mārutena—of the Maruts' collective; śardhena—with the might; sukratuḥ—doer of excellent deeds; syaḥ indraḥ—that well-known Indra; avṛkābhiḥ—harmless; ūtibhiḥ—with protections; divaḥ—coming from the heavenly world; nu—now; mahe sanaye—for the sake of great wealth; vājasātaye—for the gain of food and wealth (set out); naḥ—our; rathaṃ—chariot; anu sthāti—let him mount and sit.
+
+### Printed p. 166
+
+**भावार्थ (Bhāvārtha)**
+
+May Indra, all-knowing and all-powerful, famous, doing excellent deeds together with the might that takes the form of the host of the Maruts, come from heaven together with harmless protections, mount and sit in our chariot, which has set out for great gain of wealth and of food, and be our protector.
+
+**Printed English translation**
+
+Or, may that all-beholding Indra, the accomplisher of great deeds, qy [sic] the collective vigour of the Maruts, (coming) from heaven, protect our chariot with unassailable protection, (for the sake of securing to us) ample wealth and abundant food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+विश्वचर्षणिः (*viśvacarṣaṇiḥ*) (*viśvacarṣaṇiḥ*)—the beholder of everything; or he whose attendants are all men; or he by whom all the worlds are to be looked upon. Yāska has read the word *carṣaṇi* (Ni. 3-13) among the verbs of seeing (*paśyati*). Sāyaṇa has explained the word in three ways: Indra is the one who sees everything; the one who has all men as attendants; the one who necessarily looks upon all the worlds. Having explained the meaning thus, the bhāṣya says that Indra, of such abundant greatness, is मारुतेन शर्धॆन सुक्रतुः (*mārutena śardhèna sukratuḥ*) as printed, that is, endowed with the strength in the form of the host of the Maruts and with excellent action or wisdom. Being so endowed, he comes from heaven; नः रथं अनुस्थाति-अस्माकं रथं अनुगुण्येन अधितिष्ठतु (*naḥ rathaṃ anusthāti-asmākaṃ rathaṃ anuguṇyena adhitiṣṭhatu*)—let him mount our chariot, ours who are the sacrificers, in such a way that there are no harmful fears; and महे सनाय (*mahe sanāya*) [sic, as printed; the Saṃhitā has *sanaye*]. For वाज (*vāja*) *vāja*-*sātaye*: that we may obtain abundant wealth and food, let him mount, sit in a manner suited to us, and protect. Thus the bhāṣya expresses the wish.
+
+The word *carṣaṇi* is stated by Yāska among the names of men (Ni. 3-7), and is explained by Durgācārya (Ni. 5-25) as: चर्षणिः चायिता, (*carṣaṇiḥ cāyitā,*) established in the form of the presiding deity of the intellect, the beholder of all beings.
+
+### Printed p. 167
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> उ॒त स्य दे॒वो भुव॑नस्य स॒क्षणि॒स्त्वष्टा॒ ग्नाभिः॑ स॒जोषा॑ जूजुव॒द्रथं॑ ।
+> इळा॒ भगो॑ बृहद्दि॒वोत रोद॑सी पू॒षा पुरं॑धिर॒श्विना॒वधा॒ पती॑ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । स्यः । देवः । भुवनस्य । सक्षणिः । त्वष्टा । ग्नाभिः । सजोषाः । जूजुवत् ।
+> रथं ।
+> इळा । भगः । बृहत्ऽदिवा । उत । रोदसी इति । पूषा । पुरंधिः । अश्विनौ । अध ।
+> पती इति ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उत अपि च स्यस देवो दानादिगुणयुक्तो भुवनस्य भूतजातस्य सक्षणिः
+> सचनीयः सेव्यो ग्नाभिर्देवपत्नीभिः । छंदांसि वै ग्ना इति तैत्तिरीयकं । गाय-
+> त्रादीनि छंदांसि च देवपत्न इत्युक्तं । सजोषाः समानप्रीतिः । एवंगुणविशिष्ट-
+> स्वष्टास्मदीयं रथं जूजुवत् । प्रेरयतु ॥ जु इति सौत्रो धातुर्गत्यर्थः ।
+> अस्माण्ण्यंताल्लुजि रूपं ॥ तथेळा तिसृणां देवीनामाद्येडाख्या देवी च रथं
+> प्रेरयतु । बृहद्दिवा बृहन्महद्दीव्यति द्योतत इति बृहद्दिवः ॥ इगुपधालक्षणः कः ।
+> सुपां सुलुगिति विभक्तेराकारः । तादृशो भगश्च प्रेरयतु । उत आपि च रोदसी
+> द्यावापृथिव्यौ पुरंधिर्बहुधीः पूषा पोषको देवश्च ॥ अधशब्दश्चार्थे ॥ पती
+> सूर्याया भर्तारावश्विनौ च एते सर्वॆSस्मदीयं [?] रथं प्रेरयंतित्यर्थः ॥
+
+*Gist:* Tvaṣṭṛ with the wives of the gods, Iḷā, Bhaga, heaven and earth, Pūṣan, Purandhi and the Aśvins are asked to set our chariot in motion; *ju* is a root of motion, and *jūjuvat* is a causal form with the *luṅ*-type ending.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Uta—and; syaḥ—the well-known; devaḥ—endowed with generosity and other qualities; bhuvanasya—of all beings; sakṣaṇiḥ—to be served; gnābhiḥ—with the wives of the gods; sajoṣāḥ—having equal affection; tvaṣṭā—the god Tvaṣṭṛ; rathaṃ—our chariot; jūjuvat—let him set in motion (make it go easily); (so also) iḷā—Iḷā; bṛhaddivā—of great splendour; bhagaḥ—Bhaga; uta—and; rodasī—heaven and earth; purandhiḥ—of special wisdom; pūṣā—Pūṣan; patī—the two husbands of Sūryā; aśvinau—the Aśvin deities (let them make our chariot move comfortably).
+
 ---
 
-**Progress note:** Done through printed p. 164 (PDF 164). Sūkta 31 Ṛk 1 completed (bhāṣya tail, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (cut off at end of p. 164, continues p. 165). Flags: kn.md hand-fixed (Bhāvārtha label inserted in Ṛk 2, stray '। ಭಾಷಾರ್ಥ ॥' line removed); accent script reported 2 DIFF, 1 NOMATCH lines
+**Progress note:** Done through printed p. 167 (PDF 167). Sūkta 31 Ṛk 2 Special Topics finished; Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha (Bhāvārtha next). Flags: Latin 'S' (avagraha slip) in Ṛk 4 bhāṣya marked [?]; odd readings left as supplied (ಸ್ಯಸ, ಬಹುಪ್ರೀಹೌ, ಅಸ್ಮಾಣ್ಣ್ಯಂತಾಲ್ಲುಜಿ, ಸೂರೈಯ, ಮಹೇ ಸನಾಯ in Special Topics); accent script 1 DIFF
