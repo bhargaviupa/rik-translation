@@ -33294,6 +33294,90 @@ The wise Usijas, celebrating his praises, have obtained by their sacrifice, from
 
 अभिस्वरा (*abhisvarā*)—अभितः स्वरः स्वरणं शब्दनं यस्य तेन स्तोत्रेण (*abhitaḥ svaraḥ svaraṇaṃ śabdanaṃ yasya tena stotreṇa*)—standing facing him and reciting the mantras with sound, that is, by praising; this is the sense.
 
+### Printed p. 887
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 27] Ṛgveda Saṃhitā 887", as supplied.)*
+
+निषदा (*niṣadā*)—उपसदेन च । (*upasadena ca |*) By standing near and worshipping, or by performing sacrificial and other rites.
+
+गाः हिन्वानाः (*gāḥ hinvānāḥ*)—स्तुतीः । (*stutīḥ |*) Praises in the form of words. The sense of "urging Indra" with these is "praising" him.
+
+अवस्यवः (*avasyavaḥ*)—This word, formed from the root अव रक्षणे (*ava rakṣaṇe*), means the Aṅgirasa sages, who desire Indra's protection.
+
+द्रविणानि (*draviṇāni*)—Since the word द्रविण (*draviṇa*) is read among the names of wealth, it means "riches". Here "riches in the form of cows" is meant, that is, the cows that had been carried off.
+
+The main purport is that the Aṅgirasa sages, who were wise and desired Indra's protection, worshipped Indra with sacrifices and other rites and with praises, found by his favour the place where the cows seized by the Paṇis were, and recovered them with Indra's help alone.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> इन्द्र॒ श्रेष्ठा॑नि॒ द्रवि॑णानि धेहि॒ चित्तिं॒ दक्ष॑स्य सुभग॒त्वम॒स्मे ।
+> पोषं॑ रयी॒णामरि॑ष्टिं त॒नूनां॑ स्वा॒द्मानं॑ वा॒चः सु॑दिन॒त्वमुह्नां॑ ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> इन्द्र । श्रेष्ठानि । द्रविणानि । धेहि । चित्तिं । दक्षस्य । सुभगत्वं । अस्मे इति ।
+> पोषं । रयाणां । अरिष्टिं । तनूनां । स्वाद्मानं । वाचः! सुदिनत्वं । आह्नां ॥६॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र श्रेष्ठान्युत्तमानि द्रविणानि धनान्यस्मभ्यं धेहि । निधेहि । दक्षस्य ॥
+> दक्षेर्भावे घञ् ॥ कर्मकरणसामर्थ्यस्य चित्तिं ख्यातिं धेहि । अस्मे अस्मभ्यं सुभ-
+> गत्वं शोभनधनवत्त्वं सौभाग्यं वा निधेहि । रयीणां त्वया दत्तानां धनानां
+> पोषं समृद्धिं धेहि । तनूनामंगानां । यद्वा तायत एभिः कुलमिति तन्नः पुत्राः।
+
+> *he iṃdra śreṣṭhānyuttamāni draviṇāni dhanānyasmabhyaṃ dhehi | nidhehi | dakṣasya ‖*
+> *dakṣerbhāve ghañ ‖ karmakaraṇasāmarthyasya cittiṃ khyātiṃ dhehi | asme asmabhyaṃ subha-*
+> *gatvaṃ śobhanadhanavattvaṃ saubhāgyaṃ vā nidhehi | rayīṇāṃ tvayā dattānāṃ dhanānāṃ*
+> *poṣaṃ samṛddhiṃ dhehi | tanūnāmaṃgānāṃ | yadvā tāyata ebhiḥ kulamiti tannaḥ putrāḥ|*
+
+### Printed p. 888
+
+*(Header: "888 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 21]", as supplied.)*
+
+> तनोतेः करण उप्रत्ययः ॥ तेषामरिष्टिमहिंसां धेहि । तथास्मदीयाया वाचः
+> स्वाद्मानं स्वादुतां । अह्नां सुदिनत्वं शोभनदिनत्वं च धेहि । येषु हींद्रादयो
+> देवा इज्यंते तानि सुदिनानि । तेषां भावः सुदिनत्वं ॥
+
+*Gist: Indra is asked for excellent wealth, renown for ability, good fortune, increase of wealth, freedom from harm for bodies or sons, sweetness of speech and good days.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; श्रेष्ठानि (*śreṣṭhāni*)—excellent; द्रविणानि (*draviṇāni*)—riches; धेहि (*dhehi*)—give to us; दक्षस्य (*dakṣasya*)—(for the performance of rites) able; चित्तिं (*cittiṃ*)—give renown; अस्मे (*asme*)—to us; सुभगत्वं (*subhagatvaṃ*)—good fortune also (give); रयीणां (*rayīṇāṃ*)—of the riches (given by you); पोषं (*poṣaṃ*)—increase also (give); तनूनां (*tanūnāṃ*)—for our bodies (or for our offspring); अरिष्टिं (*ariṣṭiṃ*)—do not cause harm; वाचः (*vācaḥ*)—of praising words; स्वाद्मानं (*svādmānaṃ*)—sweetness also; अह्नां (*ahnāṃ*)—of the days; सुदिनत्वं (*sudinatvaṃ*)—the state of being good days (in which Indra and the others are worshipped) also bring about.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, give us excellent riches, renown that is able to perform rites, good fortune and increase of wealth. Bring about unharmed happiness for our bodies and our sons. Let our praising words have sweetness, and let the days have the excellence of worshipping Indra and the others.
+
+**Printed English translation**
+
+Indra, bestow upon us most excellent treasures,(give us) the reputation of ability(to celebrate sacred rites): grant us prosperity, increase of wealth, security of person, sweetness of speech, and auspiciousness of days.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this last verse, which is the conclusion of the sūkta, the ṛṣi prays Indra to grant desired things, wealth and the rest.
+
+इंद्र श्रेष्ठानि द्रविणानि धेहि (*iṃdra śreṣṭhāni draviṇāni dhehi*)—The word द्रविण (*draviṇa*) is read among the names of wealth (Ni. 3-9). The meaning is: O Indra, give us excellent riches.
+
+चित्तिं दक्षस्य सुभगत्वं अस्मे (*cittiṃ dakṣasya subhagatvaṃ asme*) (धेहि (*dhehi*))—कर्मकरणसामर्थ्यस्य चित्तिं ख्यातिं धेहि अस्मभ्यं सुभगत्वं शोभनधनवत्त्वं सौभाग्यं ना निधेहि । (*karmakaraṇasāmarthyasya cittiṃ khyātiṃ dhehi asmabhyaṃ subhagatvaṃ śobhanadhanavattvaṃ saubhāgyaṃ nā nidhehi |*) (as supplied; ना (*nā*) where the bhāṣya has वा (*vā*) [sic]). Although the word दक्ष (*dakṣa*) has many meanings, such as Āditya, the one named Dakṣa among the eight sons of Aditi, and "able", here the word दक्ष (*dakṣa*) is used in the sense that indicates ability. Grant that our ability in sacrificial and other rites, and also in praising Indra and other
+
+### Printed p. 889
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 27] Ṛgveda Saṃhitā 889", as supplied.)*
+
+deities, may bring us fame. That is, the purport is: let the ability we have in performing sacrifices and the like become known to all.
+
+The word अस्मे (*asme*) is used in all seven case-meanings. Here the fifth case-ending (पंचमी (*paṃcamī*)) sense "to us" is stated [sic]. The bhāṣyakāra has given two meanings for the word सुभगत्वं (*subhagatvaṃ*). Since the word भग (*bhaga*) is read among the names of wealth (Ni. 3-9), one meaning is "obtaining excellent wealth"; or, सौभाग्यं (*saubhāgyaṃ*), excellent welfare or well-being: he has given two meanings. Therefore the purport of the sentence is: O Indra, grant that we may have excellent attainment of wealth, or be in good condition.
+
+पोषं रयाणां (*poṣaṃ rayāṇāṃ*)—त्वया दत्तानां धनानां पोषं समृद्धिं देहि (*tvayā dattānāṃ dhanānāṃ poṣaṃ samṛddhiṃ dehi*) (as supplied; the Saṃhitā and bhāṣya have धेहि (*dhehi*))—the prayer is: O Indra, make the wealth and the like given by you increase still more.
+
+अरिष्टिं तनूनां (*ariṣṭiṃ tanūnāṃ*)—तनूनामंगानां यद्वा तायत एभिः कुलमिति तन्नः पुत्राः। (*tanūnāmaṃgānāṃ yadvā tāyata ebhiḥ kulamiti tannaḥ putrāḥ|*) तनोतेः करण उप्रत्ययः । तेषामरिष्टिमहिंसां धेहि । (*tanoteḥ karaṇa upratyayaḥ | teṣāmariṣṭimahiṃsāṃ dhehi |*) तनूनां (*tanūnāṃ*) means one kind of meaning, "for the limbs", or for the various parts of the body such as hands and feet; and since the word तनु (*tanu*), formed from the root तनु विस्तारे (*tanu vistāre*), means "that which extends", तनूनां (*tanūnāṃ*) means "for sons who extend the family and increase the lineage", another kind of meaning. Therefore the purport of the sentence is: let there be no harm to the various parts of our body, hands, feet and the rest, or to our sons and others.
+
+स्वाद्मानं वाचः (*svādmānaṃ vācaḥ*)—अस्मदीयाया वाचः स्वाद्मानं स्वादुतां । (*asmadīyāyā vācaḥ svādmānaṃ svādutāṃ |*) The main purport is: grant that in the words we speak, or in the words of praise we address to you, Indra, there may be a charm (gentle sweetness) that is soft and pleasing to hear, joined with courtesy, modesty and the like and with prayers and the like.
+
+सुदिनत्वं अह्नां (*sudinatvaṃ ahnāṃ*)—सुदिनत्वं शोभनदिनत्वं च धेहि । येषु हींद्रादयो देवा इज्यंते तानि सुदिनानि । तेषां भावः सुदिनत्वं । (*sudinatvaṃ śobhanadinatvaṃ ca dhehi | yeṣu hīṃdrādayo devā ijyaṃte tāni sudināni | teṣāṃ bhāvaḥ sudinatvaṃ |*) The day on which Indra and the other deities are praised and worshipped in sacrifices and the like is a सुदिन (*sudina*), that is, a good day. The prayer is: make good days of this kind predominate among the days, that is, make it favourable for us, on many days, to praise and worship Indra and the other deities and obtain your favour.
+
 ---
 
-**Progress note:** Done through printed p. 886 (PDF 886). Sukta 21 Rk 4 Special Topics completed; Rk 5 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English; Special Topics begun (2 items)
+**Progress note:** Done through printed p. 889 (PDF 889). Sukta 21 Rk 5 Special Topics completed; Rk 6 (last of the sukta) complete, its Special Topics begun; colophon not yet reached
