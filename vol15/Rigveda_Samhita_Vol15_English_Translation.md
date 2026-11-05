@@ -21853,6 +21853,77 @@ An account of the mantras to be recited by the seven hotṛs at the morning pres
 
 *[The window ends here, at the end of p. 703, in the middle of this Sanskrit sentence, which breaks off at its last words as supplied; the next window continues.]*
 
+### Printed p. 704
+
+*[Running head, p. 704: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+*[Continuation of the Sanskrit sentence that broke off at the end of the previous page:]*
+
+⟦ಸೋಮ್ಯಂ ಮಧ್ವಿತಿ ಹೋತಾ ಯಜತೀಂದ್ರ ತ್ವಾ ವೃಷಭಂ ವಯಮಿತಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸೀ
+ನಾನಾದೇವತ್ಯಾಭಿರಿತರೇ ಕಥಂ ತೇಷಾಮೈಂದ್ರೋ ಭವಂತೀತಿ ।⟧
+(printed ಐ. ब्रा (*brā*). 28-10)
+
+Now they explain the nature of the prasthitayājyā mantras recited by the seven hotṛs at the morning pressing. After the recitation of the Unnīyamāna sūkta, the seven priests recite the prasthitayājyā mantras. As said before, यज्ञो वा ऐंद्रः (*yajño vā aiṃdraḥ*) means that the sacrifice is addressed to Indra; therefore it is right to recite at the pressings mantras addressed to Indra. But now, among the seven hotṛs, only the mantras recited by the two priests Hotṛ and Brāhmaṇācchaṃsin are addressed to Indra. The mantras recited by the remaining five priests are not addressed to Indra; they are addressed to other deities. Namely, the Hotṛ recites the Ṛk इदं ते सोम्यं (*idaṃ te somyaṃ*) (Ṛ. Saṃ. 8-65-8). This is the yājyā mantra recited by the Hotṛ. The words जुषाण इंद्र (*juṣāṇa iṃdra*) in the third pāda of this Ṛk address and praise Indra directly. In the yājyā mantra इंद्र त्वा वृषभं (*iṃdra tvā vṛṣabhaṃ*) (Ṛ. Saṃ. 3-40-1) recited by the priest called Brāhmaṇācchaṃsin, the word Indra is clearly read in the very first pāda. Therefore it is settled that the yājyā mantras recited by the two priests Hotṛ and Brāhmaṇācchaṃsin are addressed to Indra. But the five yājyā mantras recited by the other five priests are addressed to various deities and not to Indra. Is this not strange?
+
+⟦ಮಿತ್ರಂ ವಯಂ ಹವಾಮಹ ಇತಿ ಮೈತ್ರಾವರುಣೋ ಯಜತಿ ವರುಣಂ ಸೋಮಪೀತೆಯ ಇತಿ
+ಯದ್ವೈ ಕಿಂಚ ಪೀತವತ್ಪದಂ ತದೈಂದ್ರಂ ರೂಪಂ ತೇನೇಂದ್ರಂ ಪ್ರೀಣಾತಿ ।⟧
+
+That is, they give the answer to it. Although the Ṛks recited by the other five priests are addressed to other deities and not to Indra, there is a reason to count them as addressed to Indra. Namely, in the yājyā mantra मित्रं वयं हवामहे (*mitraṃ vayaṃ havāmahe*) (Ṛ. Saṃ. 1-23-4) recited by Maitrāvaruṇa (printed मृत्रावरुण (*mṛtrāvaruṇa*)) there are the words वरुणं सोमपीतये (*varuṇaṃ somapītaye*). Indra has great fondness for drinking Soma. Since words used in connection with the drinking of Soma give pleasure to Indra, Ṛks in which those words are used may be counted as addressed to Indra. As the words सोमपीतये (*somapītaye*) are used in the present Ṛk, this mantra gives pleasure to Indra. A mantra that gives pleasure to Indra must be taken to be addressed to Indra.
+
+⟦ಮರುತೋ ಯಸ್ಯ ಹಿ ಕ್ಷಯ ಇತಿ ಪೋತಾ ಯಜತಿ ಸ ಸುಗೋಪಾತಮೋ ಜನ ಇತೀಂದ್ರೋ
+ವೈ ಗೋಪಾಸ್ತದೈಂದ್ರಂ ರೂಪಂ ತೇನೇಂದ್ರಂ ಪ್ರೀಣಾತಿ ।⟧
+
+### Printed p. 705
+
+*[Running head, p. 705: Aṣṭaka 2 (no period after 2, as printed), Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+The priest called Potṛ recites the yājyā mantra मरुतो यस्य हि क्षये (*maruto yasya hi kṣaye*) (Ṛ. Saṃ. 1-86-1). In the third pāda of this mantra the word gopā occurs. Since protecting (gopṛtva) belongs to Indra, who is all-powerful, the recitation of this Ṛk gives pleasure to Indra.
+
+⟦ಅಗ್ನೇ ಸತ್ನೀರಿಹಾವಹೇತಿ ನೇಷ್ವಾ ಯಜತಿ ತ್ವಷ್ಟಾರಂ ಸೋಮಪೀತಯ ಇತೀಂದ್ರೋ ವೈ
+ತ್ವಷ್ಟಾ ತದೈಂದ್ರಂ ರೂಪಂ ತೇನೇಂದ್ರಂ ಪ್ರೀಣಾತಿ ।⟧
+
+The priest called Neṣṭṛ recites the yājyā mantra अग्ने पत्नीरिहावह (*agne patnīrihāvaha*) (Ṛ. Saṃ. 1-22-9). In this Ṛk the words त्वष्टारं सोमपीतये (*tvaṣṭāraṃ somapītaye*) are used. Here tvaṣṭā: शत्रूणां तनूकरणादिंद्रस्य त्वष्टृत्वं (*śatrūṇāṃ tanūkaraṇādiṃdrasya tvaṣṭṛtvaṃ*), that is, because he disregards enemies and defeats them, Indra is denoted by the word tvaṣṭṛ. Therefore in this Ṛk Indra is in effect propounded.
+
+⟦ಉಕ್ಷಾನ್ನಾಯ ವಶಾನ್ನಾಯೇತ್ಯಾಗ್ನೀಧ್ರೋ ಯಜತಿ ಸೋಮಪೃಷ್ಟಾಯ ವೇಧಸ ಇತೀಂದ್ರೋ
+ವೈ ವೇಧಾಸ್ತದ್ವೈಂದ್ರಂ ರೂಪಂ ತೇನೇಂದ್ರಂ ಪ್ರೀಣಾತಿ ।⟧
+
+In the second pāda of the yājyā mantra उक्षान्नाय वशान्नाय (*ukṣānnāya vaśānnāya*) (Ṛ. Saṃ. 8-43-11), recited and offered by the priest called Āgnīdhra (printed अग्नीध्र (*agnīdhra*)), the word vedhas is read as वेधसे (*vedhase*) (the supplied text has the form वेधश्यब्द (*vedhaśyabda*) for "the word vedhas", as printed). The word vedhas means one who arranges the order of the world. Since he arranges the order of the world, Indra is denoted by the word vedhas. Therefore this Ṛk is pleasing to Indra.
+
+⟦ಪ್ರಾತರ್ಯಾವಭಿರಾಗತಂ ದೇವೇಭಿರ್ಜೇನ್ಯಾವಸೂ । ಇಂದ್ರಾಗ್ನೀ ಸೋಮಪೀತಯ ಇತಿ
+ಸ್ವಯಂ ಸಮೃದ್ಧಾಚ್ಛ್ವಾನಾಕಸ್ಯ ।⟧
+
+The priest called Acchāvāka recites and offers, as the yājyā mantra, the Ṛk प्रातर्यावभिरागतं (*prātaryāvabhirāgataṃ*) (Ṛ. Saṃ. 8-38-7). The main purport of this Ṛk: O deities Indra and Agni, you have conquered enemies and obtained the riches in them. Such as you, come here, in the morning, for the sake of the morning pressing, together with the gods who come to the sacrificial ground, to drink Soma. Although in this Ṛk the expression इंद्राग्नी (*iṃdrāgnī*) occurs and the two deities Agni and Indra are both indicated, since the word Indra is directly used, this Ṛk is pleasing to Indra; this is the meaning.
+
+⟦ಏವಮು ಹೈತಾ ಐಂದ್ರೋ ಭವಂತಿ ಯನ್ನಾನಾದೇವತ್ಯಾಸ್ತೇನಾನ್ಯಾ ದೇವತಾಃ ಪ್ರೀಣಾತಿ ।
+ಯದು ಗಾಯತ್ರ್ಯಸ್ತೇನಾಗ್ನೇಯ್ಯಃ ಏತದು ಹೈತಾಭಿಸ್ತ್ರಯಮುಪಾಪ್ನೋತಿ ॥⟧
+(printed ಐ. ब्रा (*brā*). 28-10)
+
+*[Stray line as supplied at the foot of p. 705: "45", kept as a note in kn.md.]*
+
+### Printed p. 706
+
+*[Running head, p. 706: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+In this way the Indra-richness of the yājyā mantras recited by the seven priests has been shown. Besides, the deities propounded in these Ṛks, Mitra and Varuṇa, the Maruts, Agni, Vedhas and Indra-Agni, are also pleased. Since all these Ṛks are in the Gāyatrī metre, they are connected with Agni. Namely, since Agni and Gāyatrī were both produced from the mouth of Prajāpati, all Ṛks of the Gāyatrī metre are indirectly connected with Agni. Therefore in these yājyā mantras the propounding of various deities, the richness of Indra-relation (description relating to Indra), and the relation to Agni through the Gāyatrī metre, these three kinds of relation, have been explained.
+
+Here ends the account of the morning pressing.
+
+*[Image note as supplied in kn.md: "This image contains no text. It appears to be a decorative graphic or symbol consisting of black shapes on a white background."]*
+
+**Account of the midday pressing**
+
+At the midday pressing, as soon as it is directed by the Praiṣa mantra that the Unnīyamāna sūkta be recited, Maitrāvaruṇa recites the sūkta असावि देवं गोऋजीकमंधः (*asāvi devaṃ goṛjīkamaṃdhaḥ*) (Ṛ. Saṃ. 7-21, the 21st sūkta).
+
+⟦ಅಸಾವಿ ದೇವಂ ಗೋಋಜೀಕಮಂಧ ಇತಿ ಮಧ್ಯಂದಿನ ಉನ್ನೀಯಮಾನೇಭ್ಯೋಽನ್ವಾಹ
+ವೃಷಣ್ವತೀಃ ಪೀತವತೀಃ ಸುತವತೀರ್ಮದ್ವತೀ ರೂಪಸಮೃದ್ಧಾಃ ।⟧
+
+This sūkta has ten Ṛks, as said before. In the Ṛks of this sūkta there are words used in connection with the drinking of Soma: vṛṣa, pīta, suta, mada. Namely, in the second Ṛk of this sūkta the word vṛṣaṇa is read in वृषणो नृषाच (*vṛṣaṇo nṛṣāca*). In the third Ṛk the word dhenā occurs in रथ्यो न धेना (*rathyo na dhenā*). Since this word is formed from the root meaning "drink" (the root is printed in the supplied text as "धेट् पा ी (*dheṭ pā ī*)", garbled, as supplied), the use of this word indicates the sense of the word pīta. The word आसावि (*āsāvi*) (so printed) at the very beginning of the sūkta, formed from the root sunoti, indicates the sense of the word suta; and the word मदेषु (*madeṣu*) in अंधसो मदेषु (*aṃdhaso madeṣu*) at the end of the first Ṛk indicates madatva. Therefore, since this sūkta contains the words vṛṣa, pīta, suta and mada, concerned with the drinking of Soma, and has a sense fitting the present context, richness of form (rūpasamṛddhatva) is present in this sūkta.
+
+⟦ಐಂದ್ರೀರನ್ವಾಹೈಂದ್ರೋ ವೈ ಯಜ್ಞಸ್ತ್ರಿಷ್ಟುಭೋಽನ್ವಾಹ ತ್ರೈಷ್ಟುಭಂ ವೈ ಮಾಧ್ಯಂದಿನಂ
+ಸವನಂ ।⟧
+
+*[The window ends here, at the end of p. 706, with this Śruti sentence; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 703 (PDF 703). Sūkta 4 Ṛk 5 Special Topics (third-pressing Unnīyamāna sūkta 4-35; the two opinions on reciting them; Ai. Brā. 28-9; seven-hotṛ mantras begun)
+**Progress note:** Done through printed p. 706 (PDF 706). Sūkta 4 Ṛk 5 Special Topics (prasthitayājyā mantras of the morning pressing, Indra-richness; midday pressing begun)
