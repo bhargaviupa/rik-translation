@@ -31357,6 +31357,112 @@ In this Ṛk the sage describes that, so that Indra may come to the sacrificial 
 
 *(The bhāṣya of this Ṛk continues on the next page; it begins: O Indra, invoked by the Hotṛs, come to this sacrifice with two horses Hari to drink the Soma; come with four horses.)*
 
+### Printed p. 827
+
+*(Header: "[A. 2. A. 6. V. 21] Ṛgvedasaṃhitā 827". The page begins in the middle of the Sāyaṇa-bhāṣya of Ṛk 4, continued from p. 826.)*
+
+**Sāyaṇa-bhāṣya** (continued from p. 826)
+
+> पेयं ॥ पा पाने । कर्मण्यचो यत् । ईद्यतीतीत्वं ॥ पातव्यं सोमं प्रत्यष्टा-
+> भिरश्वैरायाहि ॥ अष्टनो दीर्घात् । पा. ६-१-१७२ । इति विभक्तेरुदात्तत्वं ॥ दशभि-
+> र्हरिभिरागच्छ । सुमख सुयज्ञ सुधन वा हे इंद्र आयं सोमस्त्वदर्थमभिषुतः ।
+> अतो यज्ञस्य मृधो हिंसा मा कः । मा कार्षिः ॥ करोतेर्लुजि मंत्रे घसे-
+> त्यादिना चेर्लुक् । गुणे कृते हल् ज्यादिना सिपो लोपः ॥ यद्यपींद्रस्य द्वावेव
+> हरे तथापि तयोर्विभूतिभेदाना नात्वं । अतोऽश्वबहुत्वमविरुद्धं ॥
+
+*Gist: Indra is to come, invoked by the Hotṛs, with two, four, six, eight or ten horses to drink the Soma that is pressed for him; the many horses do not contradict the two Haris.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; आ हूयमानः (*ā hūyamānaḥ*)—as soon as invoked; द्वाभ्यां हरिभ्यां (*dvābhyāṃ haribhyāṃ*)—with two horses; आ योहि (*ā yohi*) [as supplied]—come towards the sacrifice; चतुर्भिः (*caturbhiḥ*)—with four horses; आ(याहि) (*ā(yāhi)*)—come; षड्भिः (*ṣaḍbhiḥ*)—come with six horses; सोमपेयं (*somapeyaṃ*)—for the drinking of Soma; अष्टाभिः (*aṣṭābhiḥ*)—with eight horses; दशभिः (*daśabhiḥ*)—with ten horses; आ(याहि) (*ā(yāhi)*)—come; सुमख (*sumakha*)—O Indra, possessed of excellent wealth; आयं सुतः (*āyaṃ sutaḥ*) [as supplied]—this Soma juice has been pressed; मृधः (*mṛdhaḥ*)—harm; मा कः (*mā kaḥ*)—do not cause.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, as soon as you are called by us, come towards the sacrifice with two horses, or with four or six horses. To drink the Soma come with eight or ten horses. O Indra, possessed of excellent wealth, the Soma juice dear to you has been pressed. Do not cause harm to the sacrifice.
+
+**Printed English translation**
+
+Come, Indra, when invoked, with two horses, or with four, or with six, or with eight, or with ten, to drink the Soma juice: object of worship, the juice is poured out; do no wrong(to the libation).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk and in the next two Ṛks Indra is prayed to come to the sacrificial ground with horses, to drink the Soma. In so praying it is natural to invite him to come with द्वाभ्यां हरिभ्यां (*dvābhyāṃ haribhyāṃ*), that is, with the two horses of Indra called Harī. But in the other phrases, चतुर्भिः षड्भिः अष्टाभिः दशभिः (*caturbhiḥ ṣaḍbhiḥ aṣṭābhiḥ daśabhiḥ*), "come with four, six, eight, ten horses", is this not a contradiction? To this the bhāṣya answers: यद्यपींद्रस्य द्वावेव हरी तथापि तयोर्विभूतिभेदानानात्वं । अतोऽश्वबहुत्वमविरुद्धं । (*yadyapīṃdrasya dvāveva harī tathāpi tayorvibhūtibhedānānātvaṃ | ato 'śvabahutvamaviruddhaṃ |*) (the bhāṣya above reads नात्वं (*nātvaṃ*) where this passage has नानात्वं (*nānātvaṃ*)). The horses of Indra called Harī are only two (the page ends here; continued on p. 828).
+
+### Printed p. 828
+
+*(Header: "828 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 18". The page begins in the middle of the Special Topics of Ṛk 4, continued from p. 827.)*
+
+**Special Topics** *(continued from p. 827)*
+
+Yet by their greatness they are able to assume many forms. Therefore the mention of many horses does not suggest any contradiction: so the commentator explains.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> आ विंशत्या त्रिंशता याह्यर्वाजा चत्वारिंशता हरिभिर्युजानः । आ पञ्जाशता सुरथेभिरिन्द्रा षष्ट्या सप्तत्या सोमपेयं ॥
+
+**॥ पदपाठः ॥**
+
+> आ । विंशत्या । त्रिंशता । याहि । अर्वाज् । आ । चत्वारिंशता । हरिभिः । युजानः ।
+> आ । पञ्चाशता । सुरथेभिः । इन्द्र । आ । षष्ट्या । सप्तत्या । सोमपेयं ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र सोमपेयं पातव्यं सोमं प्रत्यर्वाज् अस्मदभिमुखः सन् विंशत्या
+> विंशति संख्याकैरश्वैरायाहि । त्रिंशता त्रिंशत्संख्याकैर्हरिभिरागच्छ । चत्वारिंशता
+> चत्वारिंशत्संख्याकैर्हरिभिर्युजानो युज्यमानस्यं सोमपानं प्रत्यायाहि सुर-
+> थेभिः सुरंहणैः सुगमनैः पंचाशता हरिभिरायाहि । तथा षष्ट्या षष्टि संख्याकैर्ह-
+> रिभिः सप्तत्या एतत्संख्याकैर्हरिभिः सोमपानं प्रत्यागच्छ ॥
+
+*Gist: Indra is to come towards our sacrifice, to drink the Soma, with twenty, thirty, forty, fifty, sixty or seventy horses.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; सोमपेयं (*somapeyaṃ*)—for the drinking of Soma; अर्वाज् (*arvāj*)—towards our sacrifice; विंशत्या (*viṃśatyā*)—with twenty horses; आ याहि (*ā yāhi*)—come; त्रिंशता (*triṃśatā*)—with those of thirty in number; चत्वरिंशता (*catvariṃśatā*) [as supplied]—and of forty in number; हरिभिः (*haribhiḥ*)—with horses; युजानः (*yujānaḥ*)—joined; आ(याहि) (*ā(yāhi)*)—come; सुरथेभिः (*surathebhiḥ*)—of excellent movement; पंचाशता (*paṃcāśatā*)—with fifty horses; आ (*ā*)—come (likewise); षष्ट्या (*ṣaṣṭyā*)—with those of sixty in number; सप्तत्या (*saptatyā*)—and of seventy in number, come with the horses.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, to drink the Soma, come towards our sacrifice with horses numbering twenty or thirty. Come also with horses of excellent movement numbering forty, or fifty, or sixty, or seventy.
+
+### Printed p. 829
+
+*(Header: "[A. 2. A. 6. V. 22.] Ṛgvedasaṃhitā 829".)*
+
+**Printed English translation**
+
+Come to our presence, Indra, having harnessed your car with twenty, thirty, or forty horses; or with fifty well-trained steeds; or with sixty or with seventy, Indra, to drink the Soma juice-
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Here Indra's horses are described by विंशत्या, त्रिंशता, चत्वारिंशता, पंचाशता, षष्ट्या, सप्तत्या (*viṃśatyā, triṃśatā, catvāriṃśatā, paṃcāśatā, ṣaṣṭyā, saptatyā*), that is, as horses numbering twenty, thirty, forty, fifty, sixty and seventy. In this matter what was said in the preceding Ṛk is to be applied here also.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> आशी॒त्या न॑व॒त्या या॑ह्य॒र्वाजा श॒तेन॒ हरि॑भिरु॒ह्यमा॑नः ।
+> अ॒यं हि ते॑ शु॒नहो॑त्रेषु॒ सोम॒ इन्द्र॑ त्वा॒या परि॑षिक्तो॒ मदा॑य ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । अशीत्या । नवत्या । याहि । अर्वाज् । आ । शतेन । हरिभिः । उह्यमानः ।
+> अयं । हि । ते । शुन्होत्रेषु । सोमः । इन्द्र । त्वाया । परिसिक्तः । मदाय॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अशीत्याशीतिसंख्याकैरश्वैः सोमपानार्थमर्वाज् अस्मदभिमुखः सन् आ-
+> याहि । नवत्या एतत्संख्याकैरश्वैरागच्छ । शतेन शतसंख्याकैर्हरिभिरुह्यमानो
+> धार्यमाणस्त्वमायाहि । हे इंद्र हि यस्मात्ते मदाय हर्षाय शुनहोत्रेषु ।
+> सुखेन हूयते सोमो यैरिति शुनहोत्रा: पात्रविशेषाः । तेष्टयं सोम-
+> स्वाया त्वत्कामनया परिषिक्तः ॥
+
+*Gist: Indra is to come towards us with eighty, ninety or a hundred horses; this Soma has been poured around in the Śunahotra vessels out of desire for him, for his exhilaration.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; अशीत्या (*aśītyā*)—with eighty horses; अर्वाज् (*arvāj*)—towards the sacrifice; आ याहि (*ā yāhi*)—come; नवत्या (*navatyā*)—with those of ninety in number; शतेन (*śatena*)—with a hundred (the Pratipadārtha breaks off here, at the foot of p. 829, after the Kannada word नूरु (*nūru*); the supplied text is cut off at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 826 (PDF 826). Sukta 18 Rk 2 printed English and Special Topics; Rk 3 complete; Rk 4 Pada and bhasya begun (Samhita garbled in supplied text)
+**Progress note:** Done through printed p. 829 (PDF 829). Sukta 18 Rk 4 bhasya, Pratipadartha, Bhavartha, English, Special Topics complete; Rk 5 complete; Rk 6 Samhita, Pada, bhasya, Pratipadartha begun (breaks off at the foot of p. 829)
