@@ -13305,6 +13305,117 @@ Vayu, whose are a thousand chariots, and the Niyut steeds, come to drink the Som
 
 This Ṛk and the next are addressed to Vāyu; the third Ṛk is addressed to Indra and Vāyu. In this Ṛk it is said that Vāyu has a thousand chariots. Sāyaṇa (printed सायणरु! (*sāyaṇaru!*), as supplied) has said that, since Vāyu has many forms, the prayer is made here that he come with all those forms and with his manifold excellences of power.
 
+### Printed p. 414
+
+*[Running head, p. 414: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+नियुत्वान् (*niyutvān*)—*niyut* is the name of the horse that is Vāyu's vehicle. In this matter Yāska says:
+
+हरी इंद्रस्य । रोहितोऽग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुतां । अरुण्यो गाव उषसः । श्यावा सवितुः । विश्वरूपा बृहस्पतेः । नियतो वायोः ॥ (*harī iṃdrasya | rohito 'gneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutāṃ | aruṇyo gāva uṣasaḥ | śyāvā savituḥ | viśvarūpā bṛhaspateḥ | niyato vāyoḥ ‖*)
+(Si. [as printed] 7-28)
+
+Having stated this etymological explanation, he explains the names of the vehicles of the various deities—that is, Indra's vehicles are called हरी (*harī*), two horses; Agni's vehicle is called रोहित (*rohita*); the vehicles of Āditya are the green horses called हरितः (*haritaḥ*); the vehicles of the Aśvin deities are two donkeys called रासभौ (*rāsabhau*); the vehicles of the deity Pūṣan are goats called अजाः (*ajāḥ*); the vehicles of the Marut deities are spotted deer called पृषत्यः (*pṛṣatyaḥ*); the vehicle of the goddess Uṣas is red cows called आरुण्यो गावः (*āruṇyo gāvaḥ*); the vehicle of the god Savitṛ is a dusky red horse called श्यावा (*śyāvā*); the vehicle of Bṛhaspati is horses of various forms called विश्वरूपा (*viśvarūpā*); and the vehicle of Vāyu is swift horses called नियुतः (*niyutaḥ*). Here the word नियुत्वान् (*niyutvān*) means Vāyu, who has the vehicles called नियुतः (*niyutaḥ*).
+
+शुक्रः (*śukraḥ*)—दीप्यमानः सोमः । (*dīpyamānaḥ somaḥ |*) The meaning is the shining Soma. It is customary to call the pure soma juice, freshly pressed and prepared and with no admixture of any *āśira* substances, by such light-denoting epithets as शुक्रः (*śukraḥ*) and शुचिः (*śuciḥ*).
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> नि॒युत्वा॑न्वाय॒वा ग॑ह्य॒यं शु॒क्रो अ॑यामि ते ।
+> गंता॑सि सुन्व॒तो गृ॒हं ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> नियुत्वान् । वायो इति । आ । गहि । अयं । शुक्रः । अयामि । ते ।
+> गंता । असि । सुन्वतः । गृहं ॥ २ ॥
+
+> *niyutvān | vāyo iti | ā | gahi | ayaṃ | śukraḥ | ayāmi | te |*
+> *gaṃtā | asi | sunvataḥ | gṛhaṃ ‖ 2 ‖*
+
+### Printed p. 415
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वायो नियुत्वान् । नियुतो वाहनानि वायोः । तैर्युक्तस्त्वमागहि । आगच्छ । अयं शुक्रो दीप्यमानः सोमस्ते तुभ्यमयामि । नियतो गृहीत
+> आसीत् ॥ यमेः कर्मणि लुज् ॥ सुन्वतः सोमाभिषवं कुर्वतो यजमानस्य
+> गृहं गंतासि । याता भवसि ॥
+
+> *he vāyo niyutvān | niyuto vāhanāni vāyoḥ | tairyuktastvamāgahi | āgaccha | ayaṃ śukro dīpyamānaḥ somaste tubhyamayāmi | niyato gṛhīta*
+> *āsīt ‖ yameḥ karmaṇi luj ‖ sunvataḥ somābhiṣavaṃ kurvato yajamānasya*
+> *gṛhaṃ gaṃtāsi | yātā bhavasi ‖*
+
+*(Gist: O Vāyu with the Niyut horses, come; this bright soma is prepared for you; you are the one who goes to the house of the presser. Hand-fixes to kn.md: a hyphenated line break was joined; the Pratipadārtha, which the supplied text had inside the bhāṣya block under a garbled label "॥ ಪ್ರತಿಪವಾರ್ಥ ॥", was set out as its own section and un-quoted; the garbled label is kept as a note in kn.md.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vāyo: O Vāyu. Niyutvān: together with your horses called Niyuts. Ā gahi: come. Ayaṃ śukraḥ: this bright soma. Te: for you. Ayāmi: has been prepared. Sunvataḥ: of the sacrificer who presses soma. Gṛhaṃ: to the house. Gantāsi: be one who goes.
+
+**भावार्थ (Bhāvārtha)**
+
+O Vāyu, come together with your horses called Niyuts. This bright soma has been prepared for you; go to the house of the sacrificer who presses soma.
+
+**Printed English translation**
+
+Vayu, of the Niyut steeds, approach : this bright (juice) has been accepted by you, for you go to the dwelling of the offerer of the libation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk, too, what was said in the preceding Ṛk is said again; only one sentence, गंतासि सुन्वतो गृहं (*gaṃtāsi sunvato gṛhaṃ*), is additional.
+
+गंता आसि सुन्वतः गृहं (*gaṃtā āsi sunvataḥ gṛhaṃ*)—सोमाभिषवं कुर्वतो यजमानस्य गृहं प्रति याता भवसि । (*somābhiṣavaṃ kurvato yajamānasya gṛhaṃ prati yātā bhavasi |*) O Vāyu, the prayer is made: go to the house of the sacrificer who has prepared and kept soma juice for you.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> शु॒क्रस्या॒द्य गवा॑शिर॒ इंद्र॑वायू नि॒युत्व॑तः ।
+> आ या॑तं॒ पिब॑तं नरा ॥ ३ ॥
+
+> *śukrasyādya gavāśira iṃdravāyū niyutvataḥ |*
+> *ā yātaṃ pibataṃ narā ‖ 3 ‖*
+
+### Printed p. 416
+
+*[Running head, p. 416: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+*[The supplied text has before the Pada a garbled label "೯ ಪಹಠಾಃ ॥" (for Pada-pāṭha), kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> शुक्रस्य । अद्य । गोऽआशिरः । इंद्रवायू इति । नियुत्वतः ।
+> आ । यातं । पिबतं । नरा ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे नरा नेतारौ हे इंद्रवायू अद्यास्मिन्नहनि नियुत्वतः ॥ विभक्तिव्यत्ययः ॥
+> नियुत्ववंतौ युवां गवाशिरः । गव्यं पय आशीराश्रपणसाधनं यस्य तस्य शुक्रस्य
+> दीप्तस्य सोमस्य पानार्थमायातं । आगच्छतं । अगत्य सोमं पिबतं ॥
+
+*(Gist: O leading Indra and Vāyu, with your Niyut horses come today to drink the bright soma mixed with milk.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Narā: O leaders. Indravāyū: O deities Indra and Vāyu. Adya: today. Niyutvataḥ: being joined with the horses called Niyuts. Gavāśiraḥ: mixed with milk. Śukrasya: of the bright soma juice (for the drinking). Āyātaṃ: come. Pibataṃ: drink the soma.
+
+**भावार्थ (Bhāvārtha)**
+
+*[The supplied text has the garbled label "॥ ಭಾಷಾರ್ಥ ॥" here, kept as a note in kn.md.]*
+
+O Indra and Vāyu, leaders, joined with the horses called Niyuts, come to us at this time of the sacrifice for the drinking of the soma juice, which is mixed with milk and bright. And drink the soma.
+
+**Printed English translation**
+
+Leaders (of rites), Indra and Vayu, lords of the Niyut steeds, come and drink to-day the mixture of milk and of the pure Soma juice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Indra and Vāyu are invited for the drinking of soma.
+
+नरा नेतारौ । (*narā netārau |*) The meaning is leaders, chiefs; or the sense may be given as those who see that the sacrificial rite is carried out completely and without defect or fault.
+
+नियुत्वतः (*niyutvataḥ*)—those whose vehicles are the horses called नियुत् (*niyut*). Although only for Vāyu is the horse called नियुत् (*niyut*) the vehicle, both Indra and Vāyu are described as having the same vehicle. And instead of the dual form नियुत्वंतौ (*niyutvaṃtau*), नियुत्वतः (*niyutvataḥ*) is used, a change of case-ending.
+
 ---
 
-**Progress note:** Done through printed p. 413 (PDF 413). Sukta 41 Anuvada finished (pp. 411-412) and heading lines noted; Rik 1 complete (p. 413). Flags: Anukramanika quotation spelled differently from the introduction as supplied; 19-19 for the Sarasvati tryca as printed; Sutra Ā. 4-8 here vs 4-9 in the introduction; yajyasya/sayanaru! as supplied; 1 accent DIFF in Rik 1
+**Progress note:** Done through printed p. 416 (PDF 416). Sukta 41 Rik 1 Special Topics finished (p. 414); Rik 2 complete (pp. 414-415); Rik 3 through Special Topics (p. 416). Flags: garbled labels for Pada/Bhavartha/Pratipadartha of Rik 3 and 2 kept as notes; Nirukta ref printed Si. 7-28; 1 accent DIFF
