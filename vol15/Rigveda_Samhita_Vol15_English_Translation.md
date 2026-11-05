@@ -15369,6 +15369,101 @@ What the word स्तेन (*stena*) means is: sin is gathered and filled in 
 
 **Sūkta 43** — Maṇḍala 2, Anuvāka 4, Sūkta 43; Aṣṭaka 2, Adhyāya 8, Varga 12. Number of ṛks in the sūkta: 3. Seer: Gṛtsamada. Deity: Indra in the form of the kapiñjala bird. Metre: 1, 3 Jagatī; 2 Atitakvarī (printed so; the Sanskrit introduction above has the form Atiśakvarī) or Aṣṭi.
 
+### Printed p. 485
+
+*[Running head, p. 485: Aṣṭaka 2, Adhyāya 8, Varga 12, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र॒द॒क्षि॒णिद॒भि गृ॑णंति का॒रवो॒ वयो॒ वदं॑त ऋतु॒था श॒कुंत॑यः ।
+> उ॒भे वाचौ॑ वदति साम॒गा इ॑व गाय॒त्रं च॒ त्रैष्टु॑भं॒ चानु॑
+> राजति ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> प्रदक्षिणित् । अभि । गृणंति । कारवः । वयः । वदंतः । ऋतुथा । शकुंतयः ।
+> उभे इति । वाचौ । वदति । सामगाःइव । गायत्रं । च । त्रैस्तुभं । च । अनु ।
+> राजति ॥ १ ॥
+
+*(The Pada is printed ತ್ರೈಸ್ತುಭಂ and ಸಾಮಗಾಃಇವ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> शकुंतयः कपिंजला ऋतुथा काले काले वयोऽन्नं वदंतः सूचयंतः
+> कारवः स्तोतार इव प्रदक्षिणित् प्रदक्षिणमभिगृणंति । अभिवदंतु ॥ बहुवचनं पूजार्थ० ॥ किं च उभे वाचौ गानं च श्रौतं च सामगा गायत्रं त्रैष्टुभं च सामनी
+> इव शकुंतिर्वदति । अनु राजति च । शृण्वतोऽनुरक्तान्करोतीत्यर्थः ॥
+
+*(Gist: the kapiñjala birds, season by season, indicating food, proclaim like praisers a circumambulation; the bird utters both kinds of speech, like Sāma singers chanting Gāyatra and Traiṣṭubha, and delights the hearers. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śakuntayaḥ: kapiñjala birds. Ṛtuthā: according to the season. Vayaḥ: food. Vadantaḥ: indicating (seeking). Kāravaḥ: like praisers. Pradakṣiṇit: movement in the form of a circumambulation. Abhigṛṇanti: proclaim. Sāmagāḥ: the singers of Sāma. Gāyatraṃ: Gāyatra. Traiṣṭubhaṃ ca: and Traiṣṭubha, as they recite (these birds too). Ubhe vācā: two kinds of speech. Vadati: utter. Anu rājati ca: afterwards (the hearers too) they delight.
+
+**भावार्थ (Bhāvārtha)**
+
+The kapiñjala birds, according to the season, seeking food, proclaim like praisers [the supplied text has सोतृगळंतॆ (*sotṛgaḷaṃtè*) for स्तोतृगळंतॆ (*stotṛgaḷaṃtè*)] a movement in the form of circumambulation. As the singers of Sāma recite Gāyatra and Traiṣṭubha, these birds too utter two kinds of speech. Afterwards they delight those who hear it.
+
+### Printed p. 486
+
+*[Running head, p. 486: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 43.]*
+
+**Printed English translation**
+
+Let the birds in quest of their food, according to the season, proclaim their circumambulations, like the celebrators (of sacred rites) : he utters both notes, as the chanter of the Sama recites the Gayatri and Trishtubh, and delights (the hearers).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಕಪಿಂಜಲಾಃ ಕಾಲೇಕಾಲೇ ಅನ್ನಂ ಸೂಚಯಂತಃ ಸ್ತೋತಾರ ಇವ ಪ್ರದಕ್ಷಿಣಂ ಅಭಿವದಂತು । ಇಲ್ಲಿ
+ಶಕುಂತಯಃ ಎಂಬ ಬಹುವಚನ ಪ್ರಯೋಗವು ಪೂಜ್ಯತೆ (ಗೌರವ) ವನ್ನು ಸೂಚಿಸುವುದಕ್ಕಾಗಿ ಉಪಯೋಗಿಸಲ್ಪಟ್ಟ⟧ Here the plural शकुंतयः (*śakuṃtayaḥ*) has been used, the commentator says, to indicate honour (respect). The word ऋतु (*ṛtu*) denotes time; Yāska has said ऋतुभिः कालैः (*ṛtubhiḥ kālaiḥ*) (Ni. 8-4). Here ऋतुथा (*ṛtuthā*) means at various times, in the respective seasons. The word कारवः (*kāravaḥ*) is read among the names of praisers (Ni. 3-19). The main intent is that the kapiñjala birds, in the respective times, that is in the various seasons, seeking their food (or indicating the food that may be found by us men), move about making a loud sound, as the priests who praise in sacrifices recite mantras loudly.
+
+⟦ಶ್ರೌತಂ ಚ ಸಾಮಗಾಃ ಗಾಯತ್ರಂ ತ್ರಿಷ್ಟುಭಂ ಯಥಾ ವದಂತಿ ತದ್ವತ್ ಶಕುಂತಿಃ ವದತಿ । ಶೃಣ್ವತೋS
+ನುರಕ್ತಾನ್ ಕರೋತಿ ಚ ॥ ಕಪಿಂಜಲಪಕ್ಷಿಯು ಉಚ್ಚಧ್ವನಿಮಾಡುತ್ತಾ ಸಂಚಾರಮಾಡುವುದೆಂದು ಹಿಂದಿನ
+ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಿದೆಯಷ್ಟೆ. ಆ ಧ್ವನಿಯನ್ನು ದೃಷ್ಟಾಂತಪೂರ್ವಕವಾಗಿ ವರ್ಣಿಸಿದೆ. ಯಜ್ಞಗಳಲ್ಲಿ ಸಾಮಮಂತ್ರ⟧ It has been said in the preceding sentence that the kapiñjala bird moves about making a loud sound. That sound is described with an illustration. As the priests such as the Udgātṛ who sing the Sāma mantras in sacrifices, and the priests such as the Hotṛ who recite the *śastra* mantras, utter with loud voice the two kinds of mantras, that is the mantras in the Gāyatrī and Triṣṭubh metres, that is the two kinds, chanting and recitation, in a way pleasant to the hearers, so the kapiñjala bird too, making a sweet sound, delights everyone: this is the main intent.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> उ॒द्गा॒ तेव॑ शकुने॒ साम॑ गायसि ब्रह्मपु॒त्र इ॑व॒ सव॑नेषु शंससि ।
+> वृषे॑व वा॒जी शिशु॑मतीर॒पीत्या॑ स॒र्वतो॑ नः शकुने भ॒द्रमा व॑द
+> वि॒श्वतो॑ नः शकुने॒ पुण्य॒मा व॑द ॥ २ ॥
+
+> *udgā teva śakune sāma gāyasi brahmaputra iva savaneṣu śaṃsasi |*
+> *vṛṣeva vājī śiśumatīrapītyā sarvato naḥ śakune bhadramā vada*
+> *viśvato naḥ śakune puṇyamā vada ‖ 2 ‖*
+
+### Printed p. 487
+
+*[Running head, p. 487: Aṣṭaka 2, Adhyāya 8, Varga 12, Ṛgvedasaṃhitā.]*
+
+**॥ पदपाठः ॥**
+
+> उद्घाता इव । शकुने । साम । गायसि । ब्रह्मपुत्रः इव । सवनेषु । शंससि ।
+> वृषा इव । वाजी । शिशुमतीः । अपि इत्य । सर्वतः । नः । शकुने । भद्रं । आ । वद ।
+> विश्वतः । नः । शकुने । पुण्यं । आ । वद ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> शकुने हे कपिंजल उद्घातेव साम यथोद्घाता साम गायति तथा त्वं
+> गायसि । गानस्वनं करोषि । ब्रह्मपुत्र इव यथा ब्राह्मणाच्छंसी सवनेषु शस्त्राणि
+> शंसति तथा त्वं कालेषु शंससि । श्रौतस्वरं करोषि । वृषेव वाजी सेचनसमर्थोSश्वः शिशुमतीर्वडवा अपीत्याभिगत्य यथा शब्दं करोति तथा त्वमपि वद । शिष्टं स्पष्टं॥
+
+*(Gist: O kapiñjala bird, you sing like the Udgātṛ, recite like the Brāhmaṇācchaṃsin, and cry like a stallion approaching mares; speak auspiciously to us from all sides. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śakune: O kapiñjala bird. Sāma: the Sāma. Udgāteva: as the Udgātṛ sings. Gāyasi: you sing. Savaneṣu: at the times of the sacrifice. Brahmaputra iva: as the Brāhmaṇācchaṃsin recites the *śastra* mantras. Śaṃsasi: you proclaim (the nature of the season). Vṛṣeva vājī: a horse of generative power. Śiśumatīḥ: the mare. Apītya: approaching (as he cries). Vada: you too make a sound indicating joy. Śakune: O bird. Naḥ: to us. Sarvataḥ: from all sides. Bhadraṃ: welfare. Ā vada: speak. Śakune: O bird. Naḥ: to us. Puṇyaṃ: sinless welfare. Ā vada: recite and speak.
+
+**भावार्थ (Bhāvārtha)**
+
+O kapiñjala bird, you sing as the Udgātṛ sings the Sāma; as the Brāhmaṇācchaṃsin recites the *śastra* mantras at the times of the sacrifice, you proclaim the nature of the season. As a stallion of generative power approaches a mare and cries, make you too a sound indicating joy. O bird, speak welfare to us from all sides. Recite sinless welfare.
+
+**Printed English translation**
+
+You sing, Bird, like the Udgatri chanting the Sama : you murmur like the Brahmaputra at sacrifices : like a horse (nighing) when
+
 ---
 
-**Progress note:** Done through printed p. 484 (PDF 484). Sukta 42 Rik 2 and Rik 3 complete (pp. 481-483); Sukta 43 begins on p. 484 (merged into p. 483 text, marker inserted by hand): title, Sayana introduction, Anuvada and heading lines. Flags: p. 484 added to window; garbled Bhavartha label kept as note; Atitakvarya printed; stray line 31 and ornament line kept as notes
+**Progress note:** Done through printed p. 487 (PDF 487). Sukta 43 Rik 1 complete (pp. 485-486); Rik 2 Samhita to Bhavartha (pp. 486-487), printed English begins and breaks off mid-sentence at 'like a horse (nighing) when'. Flags: Pada trastubham spelling as supplied; accent report 1 DIFF 1 NOMATCH; no closing lines yet
