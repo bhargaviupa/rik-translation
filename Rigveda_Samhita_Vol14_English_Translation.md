@@ -29896,6 +29896,82 @@ In the second half of this Ṛk Indra's form is described. Indra has filled his 
 > *na kṣoṇībhyāṃ paribhve ta iṃdriyaṃ na samudrèḥ parvatairiṃdra*
 > *te rathaḥ |*
 
+### Printed p. 779
+
+*(Header: "[A. 2 A. 6 V. 17] Ṛgvedasaṃhitā 779".)*
+
+*(Saṃhitā of Ṛk 3, continued from p. 778.)*
+
+> न ते वज्रमन्वश्नोति कश्चन यदाशुभिः पतसि योजना पुरु ॥
+
+**॥ पदपाठः ॥**
+
+*(The supplied text prints the label as "ಪಥಪಾಠ:"; read as the Pada label.)*
+
+> न । क्षोणीभ्यां । परिभ्वे । ते । इंद्रियं । न । समुद्रैः । पर्वतैः । इंद्र । ते
+> रथः ।
+> न । ते । वज्रं । अनु । अश्नोति । कः । चन । यत् । आशुभिः । पतसि । योजना ।
+> पुरु ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra's strength cannot be overcome by heaven and earth, his chariot cannot be stopped by oceans or mountains, and no one can withstand his thunderbolt when he travels many leagues to slay the asuras. Grammatical tail on the suffix and the accent of paribhve and on the root aś.*
+
+> हे इंद्र ते तवेंद्रियं बलं क्षोणीभ्यां द्यावापृथिवीभ्यां न परिभ्ये ।
+> न परिभवनीयं ॥ कृत्यार्थे तवैकेन्नेन्यत्वन इति केन्प्रत्ययः । उदात्तस्वरितॆयोरिति
+> स्वरितत्वं ॥ किंच ते रथः समुद्रॆः पर्वतैश्च न परिभवनीयः । ते वज्रमायुधं
+> कश्चन पुमान् नान्वश्योति । न व्याप्प्नोति परिभवितुं ॥ अशू व्याप्त् । व्यत्ययेन
+> पस्मैपदं ॥ यद्यदासुरवधार्थं दिग्विजयकाले पुरु पुरूणि बहूनि योजना यो-
+> जनानि पतसि । गच्छसि । तदा तव बलादि न परिभवनीयमिति समन्वयः ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; ते (*te*)—your; इंद्रियं (*iṃdriyaṃ*)—might; क्षोणीभ्यां (*kṣoṇībhyāṃ*)—by heaven and earth; न परिभ्वे (*na paribhve*)—cannot be surpassed; ते (*te*)—your; रथः (*rathaḥ*)—chariot; समुद्रैः (*samudraiḥ*)—by oceans; पर्वतैः (*parvataiḥ*)—by mountains; न (*na*)—cannot be stopped; यत् (*yat*)—when (for the conquest of the quarters); आशुभिः (*āśubhiḥ*)—with your swift horses; पुरु (*puru*)—many; योजना (*yojanā*)—leagues; पतसि (*patasi*)—you traverse (then); ते (*te*)—your; वज्रं (*vajraṃ*)—thunderbolt; कश्चन (*kaścana*)—any asura or human enemy; न अन्वश्नोति (*na anvaśnoti*)—is not able to withstand.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, your might cannot be surpassed even by heaven and earth. Your chariot cannot be stopped by oceans or by mountains. When you set out with your swift horses to conquer the quarters and cross many leagues, no asura or human enemy is able to withstand your thunderbolt.
+
+### Printed p. 780
+
+*(Header: "780 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 16]".)*
+
+**Printed English translation (Ṛk 3)**
+
+Thy might, Indra, is not to be overcome by(that of) heaven and earth; nor is you ohariot [sic] (to be stopped) by oceans or by mountains: no one can escape from your thunderbolt, when yon [sic] traverse many leagues with rapid(horses).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk describes Indra's extraordinary strength and power. The ṛṣi has explained it clearly.
+
+न क्षोणीभ्यां परिभ्ये त इंद्रियं (*na kṣoṇībhyāṃ paribhye ta iṃdriyaṃ*)—हे इंद्र तव बलं द्यावापृथिवीभ्यां न (*he iṃdra tava balaṃ dyāvāpṛthivībhyāṃ na*) परिभवनीयं । (*paribhavanīyaṃ |*) O Indra, your strength is not surpassed even by heaven and earth (earth and sky). That is, the purport is that your strength is greater than the strength possessed by heaven and earth. The word क्षोणिः (*kṣoṇiḥ*) is read among the names of the earth (Ni. 2-5). But since the dual क्षोणीभ्यां (*kṣoṇībhyāṃ*) is used in this passage, the bhāṣyakāra has explained the word as heaven and earth. The word क्षोणि (*kṣoṇi*) is formed from the root टुक्षु रुक्षु शब्दे (*ṭukṣu rukṣu śabde*) (adādi, parasmaipada) [spelling as supplied]. क्षूयते शब्दते, स्तूयते स्तोतृभिः । कुवंत्यस्यां भूतानीति वा । (*kṣūyate śabdate, stūyate stotṛbhiḥ | kuvaṃtyasyāṃ bhūtānīti vā |*) क्षोणीति ईकारांतं केचित् पठंति । (*kṣoṇīti īkārāṃtaṃ kecit paṭhaṃti |*) Because it is praised by the singers, or because creatures make sound upon it, the earth is called kṣoṇi. The word is read both as क्षोणिः (*kṣoṇiḥ*) ending in i and as क्षोणी (*kṣoṇī*) ending in ī. In the present Ṛk the form ending in ī is used.
+
+इंद्रियं (*iṃdriyaṃ*)—बलं । (*balaṃ |*) This is Sāyaṇa's explanation: strength. The word इंद्रिय (*iṃdriya*) is read among the names of wealth (Ni. 3-9). But here the bhāṣyakāra gives the meaning strength. For the word इंद्रिय (*iṃdriya*) there is the sūtra sentence—
+
+इंद्रियमिंद्रलिंगमिंद्रदृष्टमिंद्रसृष्टमिंद्रजुष्टमिंद्रदत्तमिति वा । (*iṃdriyamiṃdraliṃgamiṃdradṛṣṭamiṃdrasṛṣṭamiṃdrajuṣṭamiṃdradattamiti vā |*) (5-3-93). This word is formed from the root इदि पुमैश्वर्ये (*idi pumaiśvarye*) (bhū., parasmaipada) [as supplied]—इंद्रस्य लिंगं । धनेन हि ऐश्वर्ययुक्त इति व्यज्यते । (*iṃdrasya liṃgaṃ | dhanena hi aiśvaryayukta iti vyajyate |*) That which is endowed with lordship; that is, indriya means wealth. यद्वा इंद्रेण दृष्टं इंद्रियं । (*yadvā iṃdreṇa dṛṣṭaṃ iṃdriyaṃ |*) A thing seen by Indra is called indriya. यद्वा इंद्र आत्मा तत्कृतेन शुभाशुभेन (*yadvā iṃdra ātmā tatkṛtena śubhāśubhena*) कर्मणा सृष्टं । (*karmaṇā sṛṣṭaṃ |*) Indra means the self (ātman); the fruit, in the form of good and bad action, made by the self, is called indriya. इंद्रजुष्टं ना आत्मना सेवितं तद्दारेण भोगोत्पत्तेः । (*iṃdrajuṣṭaṃ nā ātmanā sevitaṃ taddāreṇa bhogotpatteḥ |*) What is served by the self; that is, the means of enjoyment and the like arising from the actions one has done. This too is called indriya. इंद्रदत्तं वा इंद्रेण पूर्वकर्मणा वा अस्तुपदत्तं । (*iṃdradattaṃ vā iṃdreṇa pūrvakarmaṇā vā astupadattaṃ |*) What is given by Indra, or by Indra's
+
+### Printed p. 781
+
+*(Header: "[A. 2. A. 6. V. 17.] Ṛgvedasaṃhitā 781".)*
+
+or his own earlier action, is called indriya. Thus the word इंद्रिय (*iṃdriya*) has various meanings. In modern Sanskrit the word indriya conveys the sense of bodily power (power arising from the senses or the limbs of the body). There is the nigama passage ओजो बलमिंद्रियं वीर्यं (*ojo balamiṃdriyaṃ vīryaṃ*).
+
+इंद्र ते रथः समुद्रॆः पर्वतैः न(परिभ्वे) (*iṃdra te rathaḥ samudrèḥ parvataiḥ na(paribhve)*)—The chariots ordinarily used by men travel only on easy roads. If there are obstacles on the way, such as rivers, reservoirs and mountains, they cannot cross them and stop. But neither ocean nor mountain can obstruct Indra's chariot. It has an unobstructed power of movement; whatever obstacle comes, it can remove it and go forward. The ṛṣi describes the greatness of the chariot as this very distinction of Indra's chariot.
+
+ते वज्रं न कश्चन अनु अश्नोति (*te vajraṃ na kaścana anu aśnoti*)—O Indra, just like the power of your chariot, your thunderbolt too has extraordinary power. The main idea is that no man is able to face the blow of this thunderbolt.
+
+यत् आशुभिः पतसि योजना पुरु (*yat āśubhiḥ patasi yojanā puru*)—यद्यदासुरवधार्थं दिग्विजयकाले (*yadyadāsuravadhārthaṃ digvijayakāle*) बहूनि योजनानि गच्छसि तदा तव बलादि न परिभवनीयमिति समन्वयः । (*bahūni yojanāni gacchasi tadā tava balādi na paribhavanīyamiti samanvayaḥ |*) O Indra, all the things said above happen when you go many leagues with your horses to slay the asuras. That is, when you travel many leagues with your famous horses called Harī for the conquest of the quarters, neither oceans nor mountains, nothing at all, causes an obstacle to your chariot. Your chariot goes passing over everything; your strength is greater than that of heaven and earth; your thunderbolt has no rival. This is the main idea of this Ṛk.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> विश्वे॒ ह्य॑स्मै यज॒ताय॑ धृ॒ष्णवे॒ क्रतुं॒ भरं॑ति वृष॒भाय॒ सश्च॑ते ।
+> वृषा॑ यजस्व ह॒विषा॑ वि॒दुष्ट॑रः॒ पिबें॑द्र॒ सोमं॑ वृष॒भेण॑ भा॒नुना॑ ॥ ४ ॥
+
+> *viśve hyasmai yajatāya dhṛṣṇave kratuṃ bharaṃti vṛṣabhāya saścate |*
+> *vṛṣā yajasva haviṣā viduṣṭaraḥ pibeṃdra somaṃ vṛṣabheṇa bhānunā ‖ 4 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 778 (PDF 778). Sukta 16 Rk 1 closed (printed English, special topics); Rk 2 complete (Pada rebuilt from html title residue); Rk 3 Samhita begun, split at p. 778/779
+**Progress note:** Done through printed p. 781 (PDF 781). Sukta 16 Rk 3 closed (Pada, bhasya, printed English, special topics on ksoni and indriya); Rk 4 Samhita placed
