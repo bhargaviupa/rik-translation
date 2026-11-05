@@ -1283,6 +1283,131 @@ The very swift horses (of Brahmanaspathi) listen to (our invocation); the priest
 
 Here it may be said that the oblation-portion offered for Brahmaṇaspati is of the nature of a debt, and, since it must necessarily be offered, it is like a debt. Having explained the meaning thus, Sāyaṇa quotes: अवदानस्य ऋणत्वं च—जायमानो वै ब्राह्मणस्त्रिभिर्यणवा (*avadānasya ṛṇatvaṃ ca—jāyamāno vai brāhmaṇastribhiryaṇavā*) (the passage continues on the next page; the window ends here).
 
+### Printed p. 43
+
+जायते ब्रह्मचर्यण ऋषिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्य एष वा अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी (*jāyate brahmacaryaṇa ṛṣibhyo yajñena devebhyaḥ prajayā pitṛbhya eṣa vā anṛṇo yaḥ putrī yajvā brahmacārivāsī*) (Tai. Saṃ. 6-3-10-5). A twice-born man is born already bound by three kinds of debts: the debt to the sages, to the gods and to the fathers. The debt to the sages is discharged by studying the Veda in brahmacarya, the debt to the gods by performing sacrifice, and the debt to the fathers by begetting a son. Since this is said, Sāyaṇa explains that the oblation-portion (हविरवदान (*haviravadāna*)) is here spoken of by the word ऋण (*ṛṇa*) (debt), and he cites the Taittirīya Saṃhitā passage. And a second meaning is also given: यद्वा वशस्य कामस्य अभिलाषस्य अनुगुणवादाता भवतु (*yadvā vaśasya kāmasya abhilāṣasya anuguṇavādātā bhavatu*), that is, may Brahmaṇaspati accept the oblations offered by the priests according to the wish of each priest, in order to fulfil that priest's desire. In this sense the word वश (*vaśa*) is given the meaning "wish" (desire).
+
+The word समिथे (*samithe*) is read by Yāska among the names of battle (Ni. 3-9). Sāyaṇa explains the word thus: संयंति संगच्छंते अस्मिन्नाहुतिभिः देवाः इति समिथो यज्ञः (*saṃyaṃti saṃgacchaṃte asminnāhutibhiḥ devāḥ iti samitho yajñaḥ*), that is, the rite in which the gods assemble, each with his own oblation-portion, is the sacrifice. तस्मात् हविष आदाता भवतु (*tasmāt haviṣa ādātā bhavatu*): therefore the prayer is explained to be that Brahmaṇaspati (together with all the gods) may be the receiver of the oblations in the sacrifices where all the gods gather together.
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> ब्रह्म॑ण॒स्पते॑रभवद्यथाव॒शं स॒त्यो म॒न्युर्महि॒ कर्मा॑ करिष्य॒तः ।
+> योगा उ॒दाज॒त्स दि॒वे वि चा॑भजन्म॒हीव॑ री॒तिः शव॑सासर॒त्पृथ॑क् ॥१४॥
+
+**॥ पदपाठः ॥**
+
+> ब्रह्मणः । पतेः । अभवत् । यथावशं । सत्यः । मन्युः । महि । कर्म । करिष्यतः ।
+> यः । गाः । उत्आजत् । सः । दिवे । वि । च । अभजत् । महीs इव । रीतिः । शवसा ।
+> असरत् । पृथक् ॥ १४ ॥
+
+> *brahmaṇaḥ | pateḥ | abhavat | yathāvaśaṃ | satyaḥ | manyuḥ | mahi | karma | kariṣyataḥ |*
+> *yaḥ | gāḥ | utājat | saḥ | dive | vi | ca | abhajat | mahīs iva | rītiḥ | śavasā |*
+> *asarat | pṛthak ‖ 14 ‖*
+
+### Printed p. 44
+
+**॥ सायणभाष्यम् ॥**
+
+> महि महत्कर्म करिष्यतो ब्रह्मणस्पतेर्मन्युर्मननसाधनो मंत्रः क्रोधो
+> वा यथावशं यथाकामं सत्योऽवितथोऽभवत् । स यथा कामयते तथा करो-
+> तीत्यर्थः । यो ब्रह्मणस्पतिः पणिभिरपहृता गा उदाजत् । उदगमयत् गुहाया
+> निरगमयदित्यर्थः । स ब्रह्मणस्पतिर्दिवे द्युलोकाय तत्रत्येभ्यो देवेभ्य
+> इत्यर्थः । व्यभजच्च । ता गा विभक्ताश्चाकरोत् । स च गोसमूहो महीव रीतिः ।
+> महती स्तुतिरितिव ॥ रीज् स्रवणे ॥ यथा गंगादीनां स्रोतो विभक्तं सत् निम्म दे-
+> शाभिमुखं प्रसरति तथा शवसात्मीयेन बलेन तत्तद्देवगृहं पृथक् विभिन्नोऽसरत् ।
+> अगच्छत ॥
+
+> *mahi mahatkarma kariṣyato brahmaṇaspatermanyurmananasādhano maṃtraḥ krodho*
+> *vā yathāvaśaṃ yathākāmaṃ satyo 'vitatho 'bhavat | sa yathā kāmayate tathā karo-*
+> *tītyarthaḥ | yo brahmaṇaspatiḥ paṇibhirapahṛtā gā udājat | udagamayat guhāyā*
+> *niragamayadityarthaḥ | sa brahmaṇaspatirdive dyulokāya tatratyebhyo devebhya*
+> *ityarthaḥ | vyabhajacca | tā gā vibhaktāścākarot | sa ca gosamūho mahīva rītiḥ |*
+> *mahatī stutiritiva ‖ rīj sravaṇe ‖ yathā gaṃgādīnāṃ sroto vibhaktaṃ sat nimma de-*
+> *śābhimukhaṃ prasarati tathā śavasātmīyena balena tattaddevagṛhaṃ pṛthak vibhinno 'sarat |*
+> *agacchata ‖*
+
+Gist: Brahmaṇaspati's mantra (or wrath), meant to do a great deed, proved true by his will; he drove out the cows and divided them among the gods, and they flowed apart like rivers.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+mahi—great. karma—the work. kariṣyataḥ—of him who will accomplish. brahmaṇaspateḥ—of Brahmaṇaspati. manyuḥ—the mantra, an instrument of meditation (or his wrath). yathāvaśam—according to his wish. satyaḥ—true in effect (not in vain). anubhavat [?]—became. yaḥ—the Brahmaṇaspati who. gāḥ—the cows (carried off by the Paṇis). udājat—released and brought out from the cave. saḥ—that same Brahmaṇaspati. dive—to the gods of the world of the gods. vi abhajat ca—divided and distributed (then that herd of cows). mahīva rītiḥ—like the currents of rivers such as the Gaṅgā, splitting into branches and flowing apart. śavasā—by their own strength. pṛthak—(to the houses of the gods) separately. āsarat—went.
+
+**भावार्थ (Bhāvārtha)**
+
+The mantra, an instrument of meditation, of Brahmaṇaspati who accomplishes great works, became fruitful in truth according to his wish. The same Brahmaṇaspati who released from the cave the cows carried off by the Paṇis divided them among the gods in the world of the gods. Then that herd of cows, like the currents of rivers such as the Gaṅgā breaking into branches and flowing apart, went by their own strength separately to the houses of the gods.
+
+**Printed English translation**
+
+The purpose of Brahmaspathi, engaging in a great work, has been successful, according to his wish ; for he it was who recovered (the stolen) cattle for (the dwellers in) heaven ; and distributed them ; so that of their own power they took different directions, like (the branches of) a mighty river.
+
+### Printed p. 45
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ब्रह्मणस्पतेः मन्युः सत्यः (*brahmaṇaspateḥ manyuḥ satyaḥ*): here the word मन्यु (*manyu*) is explained in two ways, as मननसाधनो मंत्रः क्रोधो वा (*mananasādhano maṃtraḥ krodho vā*), a mantra or (क्रोध (*krodha*)) anger; since Brahmaṇaspati is one who performs great works, the mantra of this god, or his anger as well, is true. And सः यथा कामयते तथा करोति (*saḥ yathā kāmayate tathā karoti*): this god acts as he wishes, that is, he performs his actions (duties) with complete independence; so it is explained.
+
+यः गाः उदजत्, सः दिवे विभजच्च (*yaḥ gāḥ udajat, saḥ dive vibhajacca*): this Brahmaṇaspati, पणिभिरपहृताः गाः उदगमयत् (*paṇibhirapahṛtāḥ gāḥ udagamayat*), brought back the cows seized by the demons, bringing them out of the cave and protecting them; द्युलोकाय तत्रत्येभ्यो देवेभ्यः विभक्ताश्च अकरोत् (*dyulokāya tatratyebhyo devebhyaḥ vibhaktāśca akarot*): he divided them and gave them to the gods dwelling in heaven. This narrative has been told earlier.
+
+महीव रीतिः शवसा पृथक् असरत् यथा गंगादीनां स्रोतः विभक्तं सत् निम्म देशाभिमुखं प्रसरति तथा विभिन्नः तत्तद्देवगृहं आत्मीयेन बलेन अगच्छत (*mahīva rītiḥ śavasā pṛthak asarat yathā gaṃgādīnāṃ srotaḥ vibhaktaṃ sat nimma deśābhimukhaṃ prasarati tathā vibhinnaḥ tattaddevagṛhaṃ ātmīyena balena agacchata*): as the current of the Gaṅgā flows towards low-lying regions and branches, so this herd of cows, in separate droves, reached the houses of the respective gods; thus the comparison with the Gaṅgā's current is stated.
+
+The word शवः (*śavaḥ*) is read by Yāska among the names of strength (Ni. 3-9).
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> ब्रह्म॑णस्पते सु॒यम॑स्य वि॒श्वहा॑ रा॒यः स्या॑म र॒थ्यो॒३॒॑३वय॑स्वतः ।
+> वी॒रेषु॑ वी॒रा उप॑ पृंगि न॒स्त्वं यदीशा॑नो॒ ब्रह्म॑णा॒ वेशि॑ मे॒॑
+> हवं ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> ब्रह्मणः । पते । सुयमस्य । विश्वहा । रायः । स्याम । रथ्यः । वयस्वतः ।
+> वीरेषु । वीरान् । उप । पृंगि । नः । त्वं । यत् । ईशानः । ब्रह्मणा । वेषि । मे
+> हवं ॥ १५ ॥
+
+> *brahmaṇaḥ | pate | suyamasya | viśvahā | rāyaḥ | syāma | rathyaḥ | vayasvataḥ |*
+> *vīreṣu | vīrān | upa | pṛṃgi | naḥ | tvaṃ | yat | īśānaḥ | brahmaṇā | veṣi | me*
+> *havaṃ ‖ 15 ‖*
+
+### Printed p. 46
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते मंत्राधिपते सुयमस्य सुष्टु नियंतव्यस्य वयस्सतोऽन्न-
+> युक्तस्य रायो धनस्य विश्वहा विश्लेषु सर्वॆष्टहःसु रथ्योऽधिपतयः स्याम ।
+> भूयास्म । रथा एषां संतीति रथ्यः ॥ छंदसीवनिपाविति मत्त्वर्थीय ईकारः ॥ अपि
+> च नोऽस्माकं वीरेषु वीर्याज्जातेष्वस्मदीयेषु पुत्रेषु वीरान् पुत्रान् त्वमुप
+> पृज्ञि । संपृक्तान् कुरु । उत्पादय ॥ पृची संपर्के । रौधादिकं ॥ वयं पौत्रानपि
+> लभेमहीति यावत् । ईशानः सर्वस्येश्वरस्त्वं ब्रह्मणा ॥ अन्ननामैतत् ॥ हविर्लक्ष-
+> णेनान्नेन सह मे हवं मदीयं स्तुतिलक्षणमाह्वानं वेषि । कामयसे ॥ वी गति-
+> प्रजननकांत्यसनखादनेषु ॥ अतो मयोक्तं कुर्वित्यर्थः ॥
+
+> *he brahmaṇaspate maṃtrādhipate suyamasya suṣṭu niyaṃtavyasya vayassato 'nna-*
+> *yuktasya rāyo dhanasya viśvahā viśleṣu sarvèṣṭahaḥsu rathyo 'dhipatayaḥ syāma |*
+> *bhūyāsma | rathā eṣāṃ saṃtīti rathyaḥ ‖ chaṃdasīvanipāviti mattvarthīya īkāraḥ ‖ api*
+> *ca no 'smākaṃ vīreṣu vīryājjāteṣvasmadīyeṣu putreṣu vīrān putrān tvamupa*
+> *pṛjñi | saṃpṛktān kuru | utpādaya ‖ pṛcī saṃparke | raudhādikaṃ ‖ vayaṃ pautrānapi*
+> *labhemahīti yāvat | īśānaḥ sarvasyeśvarastvaṃ brahmaṇā ‖ annanāmaitat ‖ havirlakṣa-*
+> *ṇenānnena saha me havaṃ madīyaṃ stutilakṣaṇamāhvānaṃ veṣi | kāmayase ‖ vī gati-*
+> *prajananakāṃtyasanakhādaneṣu ‖ ato mayoktaṃ kurvityarthaḥ ‖*
+
+Gist: May we be lords of well-regulated, food-bearing wealth every day; since you accept my invocation with oblation, grant heroic sons among our sons.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+brahmaṇaspate—O Brahmaṇaspati. suyamasya—of that which is excellently regulated. vayasvataḥ—and endowed with food. rāyaḥ—of wealth. viśvahā—on all days. rathyaḥ—as lords. syāma—may we be (grant it). yat—because. īśānaḥ—you, the lord of all. brahmaṇā—together with food in the form of the oblation. me—my. havam—invocation. veṣi—you desire (therefore). naḥ—our. vīreṣu—among the heroic sons. vīrān—heroic sons. upa pṛṅgi—cause them to be born.
+
+**भावार्थ (Bhāvārtha)**
+
+O Brahmaṇaspati, grant that we may be, on all days, lords of wealth that is excellently [निर्मितवादुदू (*nirmitavādudū*) "constructed", as supplied] ordered and endowed with food. Because you, lord of all, desire my invocation made with the food of the oblation, cause heroic sons to be born among our heroic sons.
+
+**Printed English translation**
+
+May we, Brahmanaspathi, be daily in the possession of well-regulated and food-supplying wealth: add for us posterity to posterity, since you, who are the ruler (of all), accept my invocation with (offered sacrificial) food.
+
 ---
 
-**Progress note:** Done through printed p. 42 (PDF 42). Sūkta 24: Ṛk 12 Special Topics finished (pp. 40, Sāyaṇa quotations); Ṛk 13 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English (pp. 40-41); Special Topics of Ṛk 13 begun (p. 42, ends mid-quotation at window end). Flags: hand fixes to kn.md: Ṛk 13 Saṃhitā/Pada garbled labels (ಮಕರಂದ, ಚರಿತೆ) replaced by standard ones and set as blocks; 4 [?] (Saṃhitā 'ಉತಾಃಷ್ಠಾ', 'ಆಮ' for ಅನು?; Pada 'ಧರತೇ' vs bhāṣya ಭರತೇ, 'ಸತಿ' for ಸ); other supplied slips left unmarked: 'ಉಪಕ/ಉಲಪಕ್ಷಿತಾನಿ' (p. 40), 'ಇಂದ್ರಾ ಪೃಥ್ವಿಸ್ಥಿತಿಗಳು' (p. 40), 'ಆತಸ್ತೇ', 'ತಸ್ಮಾದ್ಭವ ವಿಷ' (bhāṣya p. 41), 'ದೃಢಾನ್ ರಾಕ್ಷಸಾರ್ದೀ' (p. 42); no Ṛk number printed after Ṛk 12 Saṃhitā
+**Progress note:** Done through printed p. 46 (PDF 46). Sūkta 24: Ṛk 13 Special Topics finished (p. 43); Ṛk 14 complete (pp. 43-45); Ṛk 15 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English (pp. 45-46); no Special Topics yet for Ṛk 15. Flags: hand fixes to kn.md: p. 44 merged into p. 43 (marker/heading inserted), garbled labels (ಹದಪಾದಃ, ಪ.ತಿಪದಾರ್ಥ, ಭಾಷಾರ್ಥ, ಭವಾರ್ಥ) replaced by standard ones, Pratipadārtha/Bhāvārtha unblocked; 1 [?] (Pratipadārtha p. 44 'ಅನುಭವತ್' vs ಅಭವತ್); unmarked supplied slips: Ṛk 15 Pada 'ವೇಷಿ' vs Saṃhitā 'ವೇಶಿ', 'ವೀರವ್ಯಂತರಾದ' p. 46, 'ನಿಮ್ಮ ದೇಶ', 'ಉದಜತ್' (p. 45 vs ಉದಾಜತ್), 'ಪರಿತವಾಗಿದೆ'
