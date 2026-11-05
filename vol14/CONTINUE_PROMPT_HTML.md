@@ -21,3 +21,6 @@ You are the dispatcher for the **remaining pages of Volume 14** of the Rigveda S
 - A page without a running head is merged into the page before it; a window can then hold more than 3 pages of text.
 - Occasional single-letter OCR slips in the supplied text: never "fix" them from memory; unsettled places become `[?]` and go to `vol14/review/doubts.tsv` for the user.
 - Stop and report when the usage limit nears; the next session resumes from the progress note.
+
+## Note on the supplied text (user, Nov 5 2026)
+The supplied text ends at printed p. 954, which is the end of Vol 14. Printed numbers 790, 791, 870 and 876 are absent from the text because those pages begin a new heading and the original prints no page number; their content is present (merged into the page before). Do not flag them as gaps and do not stop for them.
