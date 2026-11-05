@@ -28677,4 +28677,126 @@ The Kannada: "Here हस्त्यं (*hastyaṃ*) means the soma juice prep
 
 ---
 
-**Progress note:** Done through printed p. 746 (PDF 769). Sūkta 14: the end of the Viśeṣaviṣayagaḷu of Ṛk 8 (the soma-preparation passage, p. 744) is written, and Ṛk 9 is complete on pp. 745–746 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu); a rule closes it at the foot of p. 746, and no grammar section is printed for Ṛks 8 or 9. Next: Ṛk 10 should open on printed p. 747 (PDF 770); check it before writing. The numeral file had 0 rows for these pages, so nothing was checked against it, and nothing was zoomed (single-call reading). Unzoomed and doubtful: all references on p. 744 (10-94-9, 10-116-4, 9-66-9, and the unread kośa/sadhastha/druh/vana/droṇa/sruva references); Ni. 6-13 (p. 746, closing bracket cut off); 2-24 (vanaṃ among the names of water). [?] words: the first letter of "मृजंति" and the forms "समग्रुवोऽन्ये" (p. 744 verse), the bold "द्र[?]" vessel-name (p. 744), "तुबट" and "मूसलुगेंपु" (p. 744 Kannada), "यज्-लुगंतस्य" (p. 745), "संभजनीयो" (p. 746). The page headers carry "Maṃ. 2 A. 2 Sū. 14" and "A. 2 A. 6 V. 14" as printed. Accents not reproduced.
+### Printed p. 747 (PDF 770)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 14 ]", "Ṛgvedasaṃhitā", "747". The numeral file had no rows for this page, and nothing was zoomed. Accents are not reproduced.)*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवः॒ पय॒सोध॒र्यथा॒ गोः सोमे॑भिरीं पृणता भो॒जमिंद्रं॑ ।
+> वेदा॒हम॑स्य॒ निभृ॑तं म ए॒तद्दित्सं॑तं॒ भूयो॑ यज॒तश्चि॑केत ॥
+
+> *adhvaryavaḥ payasodharyathā goḥ somebhirīṃ pṛṇatā bhojamiṃdraṃ |*
+> *vedāhamasya nibhṛtaṃ ma etadditsaṃtaṃ bhūyo yajataściketa ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the word "निभृतं" is printed with a small stroke between नि and भृतं, which I read as the compound mark (ऽ). "पृणत" is printed with spaced letters. The Ṛk number printed after the Pada is 10.)*
+
+> अध्वर्यवः । पयसा । ऊधः । यथा । गोः । सोमेभिः । ईं । पृणत । भोजं । इंद्रं ।
+> वेद । अहं । अस्य । निऽभृतं । मे । एतत् । दित्संतं । भूयः । यजतः । चिकेत ॥ १० ॥
+
+> *adhvaryavaḥ | payasā | ūdhaḥ | yathā | goḥ | somebhiḥ | īṃ | pṛṇata | bhojaṃ | iṃdraṃ |*
+> *veda | ahaṃ | asya | ni 'bhṛtaṃ | me | etat | ditsaṃtaṃ | bhūyaḥ | yajataḥ | ciketa ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Adhvaryus, fill Indra the bounty-giver with soma as a cow's udder is full of milk; Indra says he alone knows the hidden pleasure of this soma, and he is pleased with the generous offerer.*
+
+> हे अध्वर्यवः यथा गोरूधः पयसा पूर्णं तद्वदीमेनं भोजं फलस्य दातारं रक्षितारं चेंद्रं सोमेभिः सोम्यैः पृणुत[?] । पूरयत । मे मदीयस्य सोमस्य निभृतं गूढं सुखसाधनस्वभावमहमेव वेद । जानामि । इति पूर्वं न परस्मै कथितं । तथापि युष्मभ्यं ब्रवीमीत्येवं । दित्संतं सोमं दातुमिच्छंतं यजमानं यजतो यष्टव्य इंद्रो भूयोऽतिशयेन चिकेत ॥ दित्संतं । डुदाञ् दाने । इच्छार्थायां सन् । सनि मीमाघ्नित्या[?]कारस्य इसादेशः[?] । अत्र लोपोऽभ्यासस्येत्यभ्यासलोपः । सः स्यार्धधातुके इति सकारस्य तत्वं ॥
+
+> *he adhvaryavaḥ yathā gorūdhaḥ payasā pūrṇaṃ tadvadīmenaṃ bhojaṃ phalasya dātāraṃ rakṣitāraṃ ceṃdraṃ somebhiḥ somyaiḥ pṛṇuta[?] | pūrayata | me madīyasya somasya nibhṛtaṃ gūḍhaṃ sukhasādhanasvabhāvamahameva veda | jānāmi | iti pūrvaṃ na parasmai kathitaṃ | tathāpi yuṣmabhyaṃ bravīmītyevaṃ | ditsaṃtaṃ somaṃ dātumicchaṃtaṃ yajamānaṃ yajato yaṣṭavya iṃdro bhūyo 'tiśayena ciketa ‖ ditsaṃtaṃ | ḍudāñ dāne | icchārthāyāṃ san | sani mīmāghnityā[?]kārasya isādeśaḥ[?] | atra lopo 'bhyāsasyetyabhyāsalopaḥ | saḥ syārdhadhātuke iti sakārasya tatvaṃ ‖*
+
+*(The grammatical tail is transcribed, not explained: the desiderative of the root दा "to give" in दित्संतं, the substitution for the stem vowel before the desiderative suffix, loss of the reduplication, and the change of s to t. The sūtra "सनि मीमा…" is printed so and is partly doubtful; the substitution word "इसादेशः" is as I read it, doubtful. "पृणुत" is as I read it here; the later printing on p. 748 reads "पृणत", which agrees with the Pada. The sūtra numbers are not printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यथा (*yathā*)—in what manner. गोः (*goḥ*)—of the cow. ऊधः (*ūdhaḥ*)—the udder. पयसा (*payasā*)—as it is filled with milk. भोजं (*bhojaṃ*)—the giver of fruit and protector. ईं इंद्रं (*īṃ iṃdraṃ*)—this Indra. सोमेभिः (*somebhiḥ*)—with soma juices. पृणत (*pṛṇata*)—fill. मे (*me*)—dear to me. अस्य (*asya*)—of this soma. एतत् निभृतं (*etat nibhṛtaṃ*)—this hidden nature of happiness. अहं (*ahaṃ*)—I (alone). वेद (*veda*)—know (saying thus). यजतः (*yajataḥ*)—Indra, worthy of sacrifice. दित्संतं (*ditsaṃtaṃ*)—the yajamāna who wishes to offer the soma. भूयः (*bhūyaḥ*)—greatly. चिकेत (*ciketa*)—knows (that is, praises).
+
+### Printed p. 748 (PDF 771)
+
+*(Header, read from the strip: "748", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". No numeral-file rows; nothing zoomed.)*
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "O Adhvaryus, in the way that a cow's udder is filled with milk, fill with soma juices this Indra, the giver of fruit. 'I alone can know the nature of the happiness of this soma, dear to me,' says Indra, the one worthy of the sacrifice, and he appreciates (praises) the yajamāna who offers the soma greatly."
+
+**English Translation** *(as printed)*
+
+Priests, fill the bountiful Indra with libations, as the udder of a cow is filled with milk; so shall the adorable (Indra) fully comprehend (the liberality) of him who desires to present the gift, and shall say (to him), I acknowledge the secret (virtue) of this my (draught).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**अध्वर्यवः पयसा ऊधः यथा गोः सोमेभिः ईं पृणत भोजं इंद्रं (*adhvaryavaḥ payasā ūdhaḥ yathā goḥ somebhiḥ īṃ pṛṇata bhojaṃ iṃdraṃ*)**—
+
+> हे अध्वर्यवः यथा गोरूधः पयसा पूर्णं तद्वदीमेनं[?] भोजं फलस्य दातारं रक्षितारं चेंद्रं सोमेभिः सोम्यैः पृणत पूरयत ।
+
+> *he adhvaryavaḥ yathā gorūdhaḥ payasā pūrṇaṃ tadvadīmenaṃ[?] bhojaṃ phalasya dātāraṃ rakṣitāraṃ ceṃdraṃ somebhiḥ somyaiḥ pṛṇata pūrayata |*
+
+*(The word after तद्वद् is printed here so that I read the ending as -सं; on p. 747 the same phrase reads एनं, which I follow, doubtful.)*
+
+The Kannada: "O Adhvaryus, the priests, in the way that milk fills a cow's udder, fill Indra, who gives us fruit and protects us, well with soma juices. The udder of a cow, filled with milk, looks full and swollen. In the same way make Indra's belly look full and swollen, filled with soma juices; that is, offer soma juice to Indra in great (excessive) quantity: this is the main purport. 'In the way milk fills the udder of a cow, so fill the belly of Indra with soma juice': the ṛṣi has thus addressed and directed the Adhvaryus."
+
+**वेद अहं अस्य निभृतं मे (*veda ahaṃ asya nibhṛtaṃ me*)**—
+
+> मे मदीयस्य सोमस्य निभृतं गूढं सुखसाधनस्वभावमहमेव वेद । जनामि[sic?] । इति पूर्वं न परस्मै कथितं तथापि युष्मभ्यं ब्रवीमि ।
+
+> *me madīyasya somasya nibhṛtaṃ gūḍhaṃ sukhasādhanasvabhāvamahameva veda | janāmi[sic?] | iti pūrvaṃ na parasmai kathitaṃ tathāpi yuṣmabhyaṃ bravīmi |*
+
+*(The bhāṣya here is printed "जनामि", with the first syllable short; p. 747 reads "जानामि". Marked as printed.)*
+
+The Kannada: "Indra, satisfied by the drinking of soma juice, has spoken this sentence: 'I alone, who have drunk, can know the pleasure of this soma juice that I drank. It cannot be known by others. I have so far told this matter to no one. Now I tell you.' Thus Indra spoke, addressing the priests of the yajamāna."
+
+**एतत् दित्संतं भूयः यजतः चिकेत (*etat ditsaṃtaṃ bhūyaḥ yajataḥ ciketa*)**—The Kannada: "In this way, Indra will know the yajamāna's offering of soma as he wishes; that is, Indra will greatly approve (that is, praise) the yajamāna's offering of soma juice in abundance."
+
+*(A short rule closes the Viśeṣaviṣayagaḷu of Ṛk 10. No grammar page is printed for Ṛk 10.)*
+
+---
+
+### Printed p. 749 (PDF 772)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 14 ]" with the varga numeral hard to read, "Ṛgvedasaṃhitā", "749". No numeral-file rows; nothing zoomed.)*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यो दि॒व्यस्य॒ वस्वो॒ यः पार्थि॑वस्य॒क्षम्य॑स्य॒ राजा॑ ।
+> तमूर्द॑रं॒ न पृ॑णता॒ यवे॒नेंद्रं॒ सोमे॑भि॒स्तदपो॑ वो अस्तु ॥ ११ ॥
+
+> *adhvaryavo yo divyasya vasvo yaḥ pārthivasyakṣamyasya rājā |*
+> *tamūrdaraṃ na pṛṇatā yaveneṃdraṃ somebhistadapo vo astu ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । दिव्यस्य । वस्वः । यः । पार्थिवस्य । क्षम्यस्य । राजा ।
+> तं । ऊर्दरं । न । पृणत । यवेन । इंद्रं । सोमेभिः । तत् । अपः । वः । अस्तु ॥ ११ ॥
+
+> *adhvaryavaḥ | yaḥ | divyasya | vasvaḥ | yaḥ | pārthivasya | kṣamyasya | rājā |*
+> *taṃ | ūrdaraṃ | na | pṛṇata | yavena | iṃdraṃ | somebhiḥ | tat | apaḥ | vaḥ | astu ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra is lord of the wealth of heaven, atmosphere and earth; fill him with soma as a granary is filled with barley; may this work bring you welfare.*
+
+> हे अध्वर्यवः य इंद्रो दिव्यस्य द्युलोकार्हस्य वस्वो वसुनो राजा भवति । यश्च पार्थिवस्य । पृथिवीशब्देन विस्तीर्णमंतरिक्षमुच्यते । तत्रत्यं धनं पार्थिवं । तस्य राजा । यश्च क्षम्यस्य । क्षमा भूमिः । तत्रत्यं धनं क्षम्यं । तस्य च राजा भवति । तमेवंविधमिंद्रं सोमेभिः सोम्यैः पृणत[?] । पूरयत । तत्र दृष्टांतः । ऊर्दरं न । ऊर्ध्वं दीर्णमूर्दरं कुसूलं । यथा यवेन तत्पूर्णं तद्वदिंद्रं पूरयतेति । तादृशं सोमादिनेंद्रोदरपूरणलक्षणमपः कर्म वो युष्माकमस्तु ॥
+
+> *he adhvaryavaḥ ya iṃdro divyasya dyulokārhasya vasvo vasuno rājā bhavati | yaśca pārthivasya | pṛthivīśabdena vistīrṇamaṃtarikṣamucyate | tatratyaṃ dhanaṃ pārthivaṃ | tasya rājā | yaśca kṣamyasya | kṣamā bhūmiḥ | tatratyaṃ dhanaṃ kṣamyaṃ | tasya ca rājā bhavati | tamevaṃvidhamiṃdraṃ somebhiḥ somyaiḥ pṛṇata[?] | pūrayata | tatra dṛṣṭāṃtaḥ | ūrdaraṃ na | ūrdhvaṃ dīrṇamūrdaraṃ kusūlaṃ | yathā yavena tatpūrṇaṃ tadvadiṃdraṃ pūrayateti | tādṛśaṃ somādineṃdrodarapūraṇalakṣaṇamapaḥ karma vo yuṣmākamastu ‖*
+
+*(No grammatical tail is printed. "पृणत" is printed with a vowel sign I cannot settle between -त and -ते; I read it as -त, doubtful.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यः (*yaḥ*)—which Indra. दिव्यस्य (*divyasya*)—belonging to the heavenly world. वस्वः (*vasvaḥ*)—of all wealth. राजा (*rājā*)—is the lord (and likewise). यः (*yaḥ*)—who. पार्थिवस्य (*pārthivasya*)—of the wealth of the wide atmosphere. क्षम्यस्य (*kṣamyasya*)—of the wealth belonging to the earth; he who is master. तं (*taṃ*)—such. इंद्रं (*iṃdraṃ*)—Indra. यवेन (*yavena*)—with barley. ऊर्दरं न (*ūrdaraṃ na*)—like a granary. सोमेभिः (*somebhiḥ*)—with soma juices. पृणत (*pṛṇata*)—fill. तत् अपः (*tat apaḥ*)—such a work. वः (*vaḥ*)—your (for the sake of welfare). अस्तु (*astu*)—let it be.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "O Adhvaryus, fill with soma juices, as a granary is filled with barley, that Indra who is lord of all wealth belonging to the heavenly world, and likewise of all the wealth belonging to the atmosphere and the earth. May such a work bring you welfare."
+
+*(The printed English translation and the Viśeṣaviṣayagaḷu of Ṛk 11 are not on this page; they follow on p. 750.)*
+
+---
+
+**Progress note:** Done through printed p. 749 (PDF 772). Sūkta 14: Ṛk 10 is complete on pp. 747–748 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu; a rule closes it, no grammar section). Ṛk 11 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha are written on p. 749; the printed English and Viśeṣaviṣayagaḷu of Ṛk 11 are to come on p. 750 (PDF 773). The numeral file had 0 rows for these pages, so nothing was checked against it, and nothing was zoomed (single-call reading). Doubtful: the varga numeral in the p. 749 header (read as 14); "पृणुत" in the bhāṣya on p. 747 (the later printing on p. 748 reads "पृणत") and "पृणत/पृणते" on p. 749; "मीमाघ्नित्या…" and "इसादेशः" in the grammar tail (p. 747); "तद्वदीमेसं/एनं" (p. 748); "जनामि" printed short (p. 748, marked as printed). The Ṛk numbers 10 and 11 are as printed after the Pada. Accents not reproduced.
