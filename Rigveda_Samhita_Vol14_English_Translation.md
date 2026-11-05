@@ -34701,6 +34701,104 @@ Let not, Brihaspati, the murderous(weapon) of that man reach us, who, with unrig
 > *bhareṣu | havyaḥ | namasā | upasadyaḥ | gantā | vājeṣu | sanitā | dhanaṃdhanaṃ |*
 > *viśvāḥ | it | āryaḥ | abhidipsvaḥ | mṛdhaḥ | bṛhaspatiḥ | vi | vavarha | rathāniva ‖*
 
+### Printed p. 938
+
+*(Header: [Maṃ. 2 A. 3 Sū. 25] Sāyaṇabhāṣyasahitā, page 938, as supplied; the Ṛg-veda-saṃhitā header of this volume otherwise reads Sūkta 23.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> स बृहस्पतिर्भरेषु संग्रामेषु हव्यो योद्धृभिः स्वरक्षणार्थमाह्वातव्यो
+> नमसोपसद्यः सर्वैर्नमसोपसदनीयः । किंच वाजेषु गंता । संग्रामेषु
+> रक्षार्थं गमनशीलः । तथा धनं धनं सनिता संभक्ता दाता ॥ त्वनंतरत्वात्पष्ठीप्रति-
+> षेधः ॥ तथार्यः स्वामी बृहस्पतिरभिदिप्सोभिभवनेच्छावतीर्विश्वा इत् सर्वा एव
+> मृधो हिंसिकाः सेना रथानिव युद्धे वेगेन परकीयान्रथानिव विववर्ह । विशेषेण
+> शिथिलीचकार । यद्वा इवशब्दश्चार्थे । रथांश्च विववर्ह ॥ लडर्थे लिट् ॥
+
+*Gist: Bṛhaspati is to be invoked in battles by the warriors for their protection, approached by all with homage, goes to battles to help and gives wealth; like chariots, he overthrows all the hostile hosts that wish to overcome us. The grammatical tail is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Bṛhaspatiḥ—Bṛhaspati. Bhareṣu—in battles. Havyaḥ—he who is called (by the warriors). Namasā—by reverent homage. Upasadyaḥ—he who is approached. Vājeṣu—in battles. Gantā—he who goes to help. Dhanaṃdhanaṃ—abundant wealth. Sanitā—(repeatedly) giver; he is. Aryaḥ—the lord Bṛhaspati. Abhidipsvaḥ [as supplied: अभिदिस्त्वः: (*abhidistvaḥ:*)]—those who wish to overcome (us). Viśvā it mṛdhaḥ—all the hostile, harming hosts of the enemy. Rathāniva—as one splits and crushes the enemy chariots (in battle). Vi vavarha—destroyed completely.
+
+**भावार्थ (Bhāvārtha)**
+
+Bṛhaspati is called upon in battles by the warriors, is approached with reverent homage, goes to the battles to help, and gives abundant wealth again and again. The lord Bṛhaspati has destroyed all the enemy hosts that confront us and are harmful, as one splits and crushes the enemy chariots in battle.
+
+**Printed English translation**
+
+Brihaspati is to be invoked in battles: he is to be approached with reverence: he who moves amidst combats, the distributor of repeated wealth; the lord Brihaspati has verily overturned all the assailing malignant(hosts), like chariots(overturned in battle).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+भरेषु (*bhareṣu*), वाजेषु (*vājeṣu*)—Since these words are read among the names of battle (Nir. 3-9), the meaning is "in battles".
+
+### Printed p. 939
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 31] Ṛgveda-saṃhitā, page 939, as supplied.)*
+
+धनंधनं (*dhanaṃdhanaṃ*)—Because the word धन (*dhana*) is used twice here, the sense is excessive, exceeding, very great wealth. Or, since the word is used in connection with the plural वाजेषु (*vājeṣu*), the sense is: he who gives us abundant wealth in every battle.
+
+अभिदिस्स्वः (*abhidissvaḥ*) [as supplied]—अभिभवनेच्छावतीः । (*abhibhavanecchāvatīḥ |*) The meaning is: the enemy hosts that desire to defeat us in battle.
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> तेजि॑ष्ठया तप॒नी र॒क्षस॑स्तप॒ ये त्वा॑ नि॒दे द॑धि॒रे दृ॒ष्टवी॑र्यं ।
+> आ॒विस्तत्कृ॑ष्ट॒ यदस॑त्त उ॒क्थ्यं१॒॑ बृह॑स्पते॒ वि प॑रि॒रापो॑ अर्दय॥
+
+**॥ पदपाठः ॥**
+
+> तेजिष्ठया । तपनी । रक्षसः । तप । ये । त्वा । निदे । ददिरे । दृष्टवीर्यं ।
+> आविः । तत् । कृष्ण । यत् । असत् । ते । उक्थ्यं । बृहस्पते । वि । परिरपः । अर्दय॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते तेजिष्ठयातिठयेन तिग्मया तपनी तापकारिण्या हेत्या रक्षसो
+> राक्षसांस्तप । तापय । ये राक्षसा दृष्टवीर्यं युद्धेषु दृष्टपराक्रमं त्वां
+> निदे निंदाया विषयं दधिरे । कृतवंतः तान् तापयेति समन्वयः । ते तव्योक्थ्यं
+> सर्वैः प्रशंसनीयं यद्वीर्यमसत् पूर्वमासीत् तदधुनाविष्कृष्ट । प्रकटीकुरु ।
+> तेन च वीर्येण परिरापः परिवदतो निंदकानसुरान् व्यर्दय । विशेषेण बाधस्व ॥
+
+*Gist: O Bṛhaspati, burn with your sharp, scorching weapon the Rākṣasas who have made you, of known prowess, the object of abuse; show now your praiseworthy valour of old, and with it crush the revilers. The grammatical tail is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Bṛhaspate—O Bṛhaspati. Ye—which Asuras. Dṛṣṭavīryaṃ—although they have seen your valour in battle. Tvā—you. Nide—as the object of abuse. Dadhire—have made, such. Rakṣasaḥ—Rākṣasas. Tejiṣṭhayā [as supplied: तेजिस्थया (*tejisthayā*)]—with the most sharp. Tapanī—and scorching, your weapon. Tapa—burn them up. Te—your. Ukthyaṃ [as supplied: उक्ष्यं (*ukṣyaṃ*)]—praiseworthy. Yat—which valour. Asat—was famed of old. Tat—that. Āviḥ kṛṇa [sic: as supplied कृष्ण (*kṛṣṇa*), followed by a garbled reference "(ಈ ೧)"]—make manifest (the supplied text adds a garbled "(ಈ ೧)" and, further on, "ಅದೇ ವೀರ್ಯದಿಂವ" for "by that same valour"). Parirapaḥ—the abusive Asuras. Vi ardaya—destroy completely.
+
+### Printed p. 940
+
+*(Header: [940 Sāyaṇabhāṣyasahitā Maṃ. 2 A. 3 Sū. 23], as supplied.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, those Asuras who, although they have seen and known your prowess in battle, revile you: burn them up with your most sharp and scorching weapon. Make manifest now whatever praiseworthy valour of yours was famed of old. With that same valour destroy the abusive Asuras completely.
+
+**Printed English translation**
+
+Consume with your brightest(weapon) the Rakshasas, who have held your witnessed prowess in disdain: manifest, Brihaspati, your glorified (vigour), such as it was(of old), and destory [sic] those who speak against you
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+दुष्टवीर्यं (*duṣṭavīryaṃ*) [as supplied; the Saṃhitā and bhāṣya have दृष्टवीर्यं (*dṛṣṭavīryaṃ*)]—युद्धेषु दुष्टपराक्रमं त्वां । (*yuddheṣu duṣṭaparākramaṃ tvāṃ |*) The valour that Bṛhaspati shows against enemies in battles is great; the meaning is: you who have such valour.
+
+परिरपः (*parirapaḥ*)—In the Saṃhitā text the letter र (*ra*) (ra) is long [as supplied]. परिवदतो निंदकान् असुरान् । (*parivadato niṃdakān asurān |*) The sense is: the Asuras, or enemies, who defame with bad words. The explanation of this word is given in the Special Topics of the third Ṛk of this same sūkta.
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> बृह॑स्पते॒ अति॒ यद॒र्यो अर्हा॑द्दु॒ मद्वि॒भाति॒ क्रतु॑म॒ज्जने॑षु ।
+> यद्दी॒दय॒च्छव॑स ऋतप्रजात॒ तद॒स्मासु॒ द्रवि॑णं धेहि चि॒त्रं॥
+
+**॥ पदपाठः ॥**
+
+> बृहस्पते । अति । यत् । अर्यः । अर्हात् । द्युमत् । विभाति । क्रतुमत् । जनेषु ।
+> यत् । दीदयर् । शवसा । ऋत्यप्रजात । तत् । अस्मासु । द्रविणं । धेहि । चित्रं ॥
+
+> *bṛhaspate | ati | yat | aryaḥ | arhāt | dyumat | vibhāti | kratumat | janeṣu |*
+> *yat | dīdayar | śavasā | ṛtyaprajāta | tat | asmāsu | draviṇaṃ | dhehi | citraṃ ‖*
+
 ---
 
-**Progress note:** Done through printed p. 937 (PDF 937). Sukta 23 Rik 11 printed English and Special Topics; Rik 12 complete; Rik 13 Samhita and Pada given (bhasya follows); Rik 12 Samhita and Rik 13 Samhita joined to reference lines for accents
+**Progress note:** Done through printed p. 940 (PDF 940). Sukta 23 Rik 13 bhasya through Pratipadartha, Bhavartha, printed English and Special Topics; Rik 14 complete; Rik 15 Samhita and Pada given (bhasya follows); Rik 14 Samhita/Pada recovered from duplicated lines and a title attribute
