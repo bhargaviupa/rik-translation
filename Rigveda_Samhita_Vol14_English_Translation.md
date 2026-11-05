@@ -33470,6 +33470,78 @@ The Kannada: "This sūkta, त्रिकद्रुकेषु (*trikadruke�
 
 Indra, the great-souled, of abundant strength, who desires satisfaction, drank together with Viṣṇu, in the way he had wished before, the Soma pressed on the days of the Trikadruka and mixed with barley. That same Soma satisfied Indra, the great-souled one, expanded in lustre. In order to accomplish great deeds such as the slaying of Vṛtra, may the Soma, which is of true nature, flowing and shining, join Indra, who is of true nature and desires Soma, and pervade his body.
 
+### Printed p. 893
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 28] Ṛgveda Saṃhitā 893", as supplied.)*
+
+**Printed English translation**
+
+The adorable and powerful(Indra), partaking of the Soma, mixed with barley, effused at the Trikadruka rites, has drunk with Vishnu as much as he wished: the draught has excited that great and mighty Indra to perform great deeds: May that divine(Soma) pervade the divine(Indra), the true Soma(pervade) the true Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+त्रिकद्रुकेषु (*trikadrukeṣu*)—In the sacrifice called Abhiplava, the first three days are named in order ज्योतिः (*jyotiḥ*), गौः (*gauḥ*) and आयुः (*āyuḥ*). त्रिकद्रुकेषु (*trikadrukeṣu*) means "on the three days mentioned above".
+
+यवाशिरं (*yavāśiraṃ*)—The Soma juice prepared by crushing the Soma plants with stones, squeezing and straining them is called Soma or "pure" (तीव्र (*tīvra*), as supplied). This kind of Soma juice is pure; nothing is mixed with it. On some occasions, to make the Soma juice tasty, milk, curds or barley flour are mixed with it. Soma juice mixed with milk is called गवाशिर (*gavāśira*), Soma juice mixed with curds दध्याशिर (*dadhyāśira*), and Soma juice mixed with barley ((barley) as printed in Latin letters) flour यवाशिर (*yavāśira*). Here the particular Soma juice called यवाशिर (*yavāśira*) is spoken of. We have already explained at length how the Soma juice is prepared and the आशिर (*āśira*) substances mixed with it.
+
+महिषः (*mahiṣaḥ*)—महान्, पूज्यः (*mahān, pūjyaḥ*): great one, one possessed of greatness, adorable one. The word महिष (*mahiṣa*) is read among the names of "great" (Ni. 3-13), and there is an etymology महिषा महांत इति वा (*mahiṣā mahāṃta iti vā*) (Ni. 7-26). महि महति स्थाने सीदन्नास्ते इति महिषः (*mahi mahati sthāne sīdannāste iti mahiṣaḥ*): because the adorable one sits in a great or adorable place he is called महिषः (*mahiṣaḥ*); this is the analysis of the parts of the word.
+
+तुविशुष्कः (*tuviśuṣkaḥ*)—बहुबलः (*bahubalaḥ*): one of abundant strength. The word तुवि (*tuvi*) is read among the names of "much" (Ni. 3-13) and the word शुष्क (*śuṣka*) among the names of strength (Ni. 3-9). There is also the etymology शुष्कमिति बलनाम (*śuṣkamiti balanāma*) (Ni. 2-24).
+
+अपिबत् विष्णुना सुतं (*apibat viṣṇunā sutaṃ*)—तं सोमं विष्णुना सहापिबत् (*taṃ somaṃ viṣṇunā sahāpibat*): Indra drank the Soma together with Viṣṇu. Indra and Viṣṇu have a very close companionship. In Ṛ. Saṃ. 6-69 the sage Bharadvāja praises Indra and Viṣṇu together and describes the great deeds they did. Besides this, in many other places too there is a description of great deeds done by Indra and Viṣṇu together—
+
+### Printed p. 894
+
+*(Header: "894 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 22]", as supplied.)*
+
+इंद्राविष्णू पिबतं मध्वो अस्य सोमस्य दस्रा जठरं पृणेथां (*iṃdrāviṣṇū pibataṃ madhvo asya somasya dasrā jaṭharaṃ pṛṇethāṃ*) (Ṛ. Saṃ. 6-69 7, as printed). In this Ṛk Indra and Viṣṇu are invited to drink the Soma, with the prayer that they drink this tasty Soma juice so that their bellies are filled.
+
+अहिं यद्वत्रमपो वव्रिवांसं हन्नृजीषिन् विष्णुना सचानः (*ahiṃ yadvatramapo vavrivāṃsaṃ hannṛjīṣin viṣṇunā sacānaḥ*) (Ṛ. Saṃ. 6-20-2). In this Ṛk it is said that Indra, together with Viṣṇu, slew Vṛtra.
+
+इंद्राविष्णू दृंहिताः शंबरस्य नव पुरो नवतिं च शृथिष्टं (*iṃdrāviṣṇū dṛṃhitāḥ śaṃbarasya nava puro navatiṃ ca śṛthiṣṭaṃ*) (Ma. Saṃ. 7-99-5, as printed). In this Ṛk it is said that Indra and Viṣṇu together destroyed the ninety-nine cities of the demon Śambara. Besides this, in many other matters the friendship and companionship of Indra and Viṣṇu is mentioned here and there.
+
+सः ईं ममाद महि कर्म कर्तवे महां उरुं (*saḥ īṃ mamāda mahi karma kartave mahāṃ uruṃ*)—पीतः स सोमो महांतं तेजसा विस्तीर्णमेनमिंद्रं महद्वत्रहननादिलक्षणं कर्म कर्तुममादयत् (*pītaḥ sa somo mahāṃtaṃ tejasā vistīrṇamenamiṃdraṃ mahadvatrahananādilakṣaṇaṃ karma kartumamādayat*). That Soma, drunk by Indra, gave great delight to Indra, of great glory and endowed with lustre and strength, so that he might perform deeds such as the slaying of Vṛtra. That is, delighted by the drinking of Soma, Indra performed great deeds such as the slaying of Vṛtra. The main purport is that in such great deeds the drinking of Soma produced great delight and encouragement in Indra.
+
+सः एनं सश्चत् देवः देवं सत्यं इंद्रं सत्यः इंदुः (*saḥ enaṃ saścat devaḥ devaṃ satyaṃ iṃdraṃ satyaḥ iṃduḥ*)—दीप्यमानः सोमः स्रवन् यथार्थभूतं देवं सोमं कामयमानमिंद्रं व्याप्पोतु (*dīpyamānaḥ somaḥ sravan yathārthabhūtaṃ devaṃ somaṃ kāmayamānamiṃdraṃ vyāppotu*) (the supplied text has "!" after the last word). This last pāda is repeated in this Ṛk and in the next two Ṛks. May this shining Soma juice, flowing drop by drop as the Soma plant is crushed, reach Indra, who is of the nature of truth, and pervade him. That is, the main purport is that Indra should drink to his heart's content this freshly squeezed and prepared Soma juice and be satisfied.
+
+इंदुः (*iṃduḥ*)—इंदुरिंधेरुनत्तीर्वा (*iṃduriṃdherunattīrvā*) (Ni. 10-42). The Niruktakāras explain that this word may be formed either from the root इंथ (*iṃtha*) (as supplied), meaning "to blaze", or from the root उद् (*ud*) (as supplied), meaning "to flow so as to wet", and then quote the Ṛk
+
+प्र तद्वोचेयं भव्यायेंदवे हवो न य इषवान्मन्न रेजति रक्षोहा मन्म रेजति (*pra tadvoceyaṃ bhavyāyeṃdave havo na ya iṣavānmanna rejati rakṣohā manma rejati*) (Ma. Saṃ. 1-129-6, as printed; the comma after सं (*saṃ*) as supplied)
+
+### Printed p. 895
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 28] Ṛgveda Saṃhitā 895", as supplied.)*
+
+(The Special Topics of Ṛk 1 continue.) —and so explain the two kinds of meaning of the word इंदु (*iṃdu*) (the supplied text has दहरिसि (*daharisi*) for "quoting"). In the present Ṛk too the Soma juice is praised, describing both its shining quality and its quality of flowing in liquid form and wetting everything.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अध॒ त्विषी॑मा अ॒भ्योज॑सा॒ क्रिविं॑ यु॒धाभ॑व॒दा रोद॑सी अपृणदस्य म॒ज्मना॒ प्र वा॑वृधे ।
+> अध॑त्ता॒न्यं ज॒ठरे॒ प्रेम॑रिच्यत॒ सैनं॑ सश्चद्दे॒वो दे॒वं स॒त्यमिन्दं॑ स॒त्य इन्नुः॑ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> अध । त्विषिमान् । अभि । ओजसा । क्रिविं । युधा । अभवत् । आ । रोदसी इति ।
+> अपृणत् । अस्य । मज्मना । प्र । ववृधे ।
+> अधत्त । अन्यं । जठरे । प्र । ईं । अरिच्यत । सः । एनं । सश्चत् । देवः।देवं । सत्यं।
+> इन्द्रं । सत्यः । इन्दुः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अध अथ सोमपानानंतरं त्वषीमान् दीप्तिमानिंद्र ओजसा बलेन क्रिविं
+> नामासुरं युधा युद्धेनाभ्यभवत् । अभिभूतवान् । किंच स इंद्रो रोदसी
+> द्यावापृथिव्यावापृणत् । स्वतेजसा समंतात्तूरयामास । तथास्य पीतस्य सोमस्य
+> मज्मना बलेन प्रवावृधे । प्रकर्षेण वर्धते । यद्वा अस्य क्रिवेरसुरस्य मज्मना
+> सारेण रोदसी अपूरयत् । स इंद्रः सोमं द्वेधा विभज्यान्यं भागं स्वकीये
+> जठरेऽधत्त । ईमेनमपरं भागं देवेभ्यः प्रारिच्यत । प्रारेचयत् । एतेनार्ध-
+> मिंद्राय अर्धमन्येभ्यो देवेभ्य इत्युक्तं भवति । तथा तैत्तिरीयकं । यत्सर्वॆ-
+> षामर्धमिंद्रः प्रति तस्मादिंद्रो देवतानां भूयिष्ठभाक्तमः । त्रै. सं. ५-४-८-३ ।
+> इति ॥
+
+*Gist: After the Soma, Indra overcame the asura Krivi and filled heaven and earth; he kept half the Soma and gave half to the gods. (The bhāṣya continues on the next page.)*
+
 ---
 
-**Progress note:** Done through printed p. 892 (PDF 892). Sukta 21 closed (no colophon printed); Sukta 22 introduction, heading block, Rk 1 Samhita, Pada, bhasya, Pratipadartha and Bhavartha done; printed English of Rk 1 follows on the next page
+**Progress note:** Done through printed p. 895 (PDF 895). Sukta 22 Rk 1 printed English and Special Topics done; Rk 2 Samhita, Pada and first part of bhasya done (bhasya continues next page)
