@@ -20258,6 +20258,103 @@ Bhūrṇiṃ—भर्तारं । (*bhartāraṃ |*) The meaning is the l
 
 Here भुरण्यथः सर्वं जगत्पोषयथः । (*bhuraṇyathaḥ sarvaṃ jagatpoṣayathaḥ |*): "you nourish the whole world", is the praise. Since it is derived from the same root, in the present Ṛk too the meaning is nourisher. The use of this word in the sense of going has been told before and explained with examples.
 
+### Printed p. 650
+
+*[Running head, p. 650: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+Candraḥ—चंद्रश्चंदतेः कांतिकर्मणः । (*caṃdraścaṃdateḥ kāṃtikarmaṇaḥ |*) The word candra is derived from the root cand, which gives the sense of shedding light and causing delight. In the present context it is an epithet of Agni, who gives delight to the whole world.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अ॒ग्निर्दे॒वेभि॒र्मनु॑षश्च जं॒तुभि॑स्तन्वा॒नो य॒ज्ञं पु॑रु॒पेश॑सं॒
+> धिया ।
+> र॒थीरं॒तरी॑यते॒ साध॑दिष्टिभिर्जी॒रो दमू॑ना अभिशस्ति॒ चात॑नः ॥ ६ ॥
+
+> *agnirdevebhirmanuṣaśca jaṃtubhistanvāno yajñaṃ purupeśasaṃ*
+> *dhiyā |*
+> *rathīraṃtarīyate sādhadiṣṭibhirjīro damūnā abhiśasti cātanaḥ ‖ 6 ‖*
+
+*[In the supplied text the second lines of the Saṃhitā ("ರಥೀರಂತರೀಯತೇ… ॥ ೬ ॥") and of the Pada ("ರಥೀಃ । ಅಂತಃ …") are printed after the next label (the Saṃhitā line below the Pada label, the Pada line below the bhāṣya label). The lines were moved by hand to their own blocks; nothing was changed in them.]*
+
+**॥ पदपाठः ॥**
+
+> अग्निः । देवेभिः । मनुषः । च । जंतुभिः । तन्वानः । यज्ञं । पुरुपेशसं । धिया ।
+> रथीः । अंतः । ईयते । साधदिष्टिभिः । जीरः । दमूनाः । अभिशस्तिचातनः ॥ ६ ॥
+
+*(The Saṃhitā and Pada print ಪುರುಪೇಶಸಂ, while the bhāṣya and Pratipadārtha print ಪುರುಷೇಶಸಂ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> देवैः साधदिष्टिभिः साधितयज्ञैर्जंतुभिर्युत्विग्निश्च धिया कर्मणा मनुषो
+> यजमानस्य पुरुषेशसं बहुरूपं । पेश इति रूपनाम । पुरोडाशपशुसोमहविर्भेदैरेकाहाहीनसत्रात्मकभेदैश्च नानाविधरूपं यज्ञं तन्वानः कुर्वन् रथी
+> सर्वस्य लोकस्य नेता जीरः क्षिप्रकारी दमूना दांतमना दानमना वाभिशस्तिचातनोऽभिशस्तीनामरातीनां यज्ञविघ्नकारिणां रक्षसां चातयिता नाशयिताग्निरंतर्द्यावापृथिव्योर्मध्य ईयते । गच्छति ॥
+
+*(Gist: Agni, charioteer of the world, swift, calm-minded and destroyer of enemies, goes between heaven and earth, performing the manifold sacrifice together with the gods, priests and works.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Sādhadiṣṭibhiḥ: having accomplished sacrifices. Devebhiḥ: with the gods. Jantubhiḥ: with the priests. Dhiyā ca: together with works. Manuṣaḥ: of the sacrificer. Puruṣeśasaṃ [as printed]: manifold. Yajñaṃ: the sacrifice. Tanvānaḥ: performing. Rathīḥ: the leader of the world. Jīraḥ: swift in action. Damūnāḥ: of tranquil mind. Abhiśasticātanaḥ: destroyer of enemies. Agniḥ: Agni. Antaḥ: between heaven and earth. Īyate: moves.
+
+### Printed p. 651
+
+*[Running head, p. 651: Aṣṭaka 2, Adhyāya 8, Varga 21, Ṛgvedasaṃhitā.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, who is the leader of the world, swift in action, tranquil-minded and destroyer of enemies, together with the gods who are worshipped by sacrifices, the priests and the works, performing the manifold sacrifice of the sacrificer, moves pervading between heaven and earth.
+
+**Printed English translation**
+
+Perfecting in performance the multiform sacrifice of the worshipper, along with the gods to whom solemnities have been addressed, and together with the priests, Agni, the charioteer, the swift-moving, the humble-minded. the destroyer of foes, passes along between (heaven and earth).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Jantubhiḥ—this word is used in the Ṛgveda Saṃhitā so that it gives sense for any of the things that are born, according to the context. The words jantuḥ, jantavaḥ, jantubhiḥ are understood, in different contexts according to the passage, as applying to priests, sacrificers, enemies, all creatures and all things that have birth. In the present Ṛk it is a synonym for priest.
+
+Puruṣeśasaṃ—बहुरूपं । (*bahurūpaṃ |*) The word peśa means form (the Ṛk reads puru-peśasaṃ; the supplied text also prints puruṣeśasaṃ in the bhāṣya). The epithet is because the sacrifice has many forms. Sāyaṇa has explained that it is so because of the offering substances such as purodāśa, animal, soma and oblations, and the varieties of sacrifice such as ekāha, ahīna and satra.
+
+⟦ಸ ಏಷ ಯಜ್ಞಃ ಪಂಚವಿಧೋಽಗ್ನಿಹೋತ್ರಂ ದರ್ಶಪೂರ್ಣರ್ಮಾಸೌ ಚಾತುರ್ಮಾಸ್ಯಾನಿ ಪಶುಃ
+ಸೋಮಃ ॥⟧ (printed ಐ. ಆ. ೨-೩)
+
+The sacrifice is of five kinds: Agnihotra, the full-moon and new-moon sacrifices (the supplied text has "ದರ್ಶಪೂರ್ಣರ್ಮಾಸೌ"), Cāturmāsya, animal sacrifice and Soma sacrifice; thus the Aitareya (Āraṇyaka, printed as Brāhmaṇa) divides it into five. Since there are subdivisions within these divisions, all these are included and described by the epithet puruṣeśasaṃ.
+
+Abhiśasticātanaḥ—the word abhiśasti has many meanings such as curse, calamity and reproach. In the present context aratis, enemies, is the sense given. The meaning is one who destroys such enemies.
+
+### Printed p. 652
+
+*[Running head, p. 652: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+Damūnāḥ—⟦ದಮೂನಾ ದಮಮನಾ ವಾ ದಾನಮನಾ ವಾ ದಾಂತಮನಾ ವಾ । ಅಪಿ ವಾ
+ದಮ ಇತಿ ಗೃಹನಾಮ ತನ್ಮನಾಃ ಸ್ಯಾತ್ ॥⟧ The epithet damūnāḥ is either because he has a mind full of compassion, or a mind to give, or because he is engaged in self-control; or, since the word dama is a synonym of house, he may be one who is fond of the house (Ni. 4-5). That is why Sāyaṇa too gave the alternative meanings dānamanāḥ, damamanāḥ, dāntamanā vā. Whatever meaning is given with reference to Agni is appropriate.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> अग्ने॒ जर॑स्व स्वप॒त्य आयु॑न्यू॒र्जा पि॑न्नस्व॒ समिषो॑ दिदीहि नः ।
+> वयां॑सि जिन्व बृह॒तश्च॑ जागृव उ॒तिग्दे॒वाना॒मसि॑ सु॒क्रतु॑र्वि॒पां ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> अग्ने । जरस्व । सुऽपत्ये । आयुनि । ऊर्जा । पिन्नस्व । सं । इषः । दिदीहि । नः ।
+> वयांसि । जिन्व । बृहतः । च । जागृवे । उशिक् । देवानां । असि । सुक्रतुः । विपां॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने स्वपत्ये सुपुत्र आयुन्यायुषि ॥ निमित्तसप्तमेषा ॥ आयुषि
+> निमित्ते जरस्व । देवान् स्तुहि । होतारमधिष्ठायोर्जा रसेनान्नेन वा पिन्वस्व ।
+> देवान्श्रीणय । सोऽस्माकमिषः सस्यार्थं वृष्टिः संदिदीहि । संदीपय । वयांस्यन्नानि च ॥ वयः क्षद्मेत्यन्ननामसु पाठात् ॥ जिन्व । देहि । हे जागृवे सर्वदा
+> जागरणशील । बृहतो महतो यजमानस्य जिन्वेति संबंधः । सुक्रतुः शोभनकर्मा
+> शोभनयज्ञो वा त्वं विपां मेधाविनां देवानामुशिक् कांतोऽसि ॥
+
+*(Gist: O Agni, for good progeny and long life praise the gods, feed them with food, kindle rain for our crops, give food to the great sacrificer; ever awake, you are the wise lover of the gods.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Svapatye: for the sake of good sons. Āyuni: for the sake of long life. Jarasva: praise the gods. Ūrjā: with food in the form of oblation. Pinvasva: satisfy them. Naḥ: to us. Iṣaḥ: plants and the like that are means of food
+
 ---
 
-**Progress note:** Done through printed p. 649 (PDF 649). Sūkta 3 Ṛk 5 Special Topics: Śatapatha Brāhmaṇa 6-1-3 (the nine names of Agni), bhūrṇi
+**Progress note:** Done through printed p. 652 (PDF 652). Sūkta 3 Ṛk 6 complete; Ṛk 7 begun (Pratipadārtha cut mid-list); Saṃhitā/Pada second lines moved to own blocks; accent DIFF/NOMATCH logged
