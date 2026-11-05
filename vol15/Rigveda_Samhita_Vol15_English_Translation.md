@@ -8265,6 +8265,156 @@ Let us address to him the prayer that is conceived in our hearts, and may he ful
 
 The word आर्य (*ārya*) is stated among the names of the lord (Ni. 3-11). The word अपां नपात् (*apāṃ napāt*) is explained as the lightning Agni. This Agni is the master of all and destroys enemies. Therefore this deity, by the greatness of his natural might, creates the rain-waters, and by those rain-waters creates all living beings; thus it is explained.
 
+### Printed p. 263
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 22] Ṛgveda-saṃhitā, p. 263.*
+
+> अस्मै हृदं सुतष्टं इमं मंत्रं आ वोचेम—अपां नपात्संज्ञकाय
+> देवाय हृदयात् सुष्टु निर्मितं इमं मंत्रं सुष्टु अभिमुख्येन ब्रवाम ।
+
+> *asmai hṛdaṃ sutaṣṭaṃ imaṃ maṃtraṃ ā vocema—apāṃ napātsaṃjñakāya*
+> *devāya hṛdayāt suṣṭu nirmitaṃ imaṃ maṃtraṃ suṣṭu abhimukhyena bravāma |*
+
+Here the bhāṣya on Ṛk 2 is restated: for the deity named Apāṃ Napāt we recite, standing facing him, this mantra, well made from the heart, of the nature of praise, we the sacrificers, sincerely composed. अस्माभिरुक्तमिमं मंत्रं कुवित् वेदत्—बहुलं जानातु । (*asmābhiruktamimaṃ maṃtraṃ kuvit vedat—bahulaṃ jānātu |*) We the sacrificers have recited this hymn in order to please this deity; may the deity listen to it well: thus a prayer is stated. The discussion of the lightning Agni was given earlier.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> सम॒न्या यंत्युप॑ यंत्य॒न्याः स॑मा॒नमू॒र्वं न॒द्यः॑ पृणंति ।
+> तमू॒ शुचिं॒ शुच॑यो दीदि॒वांस॑म॒पां नपा॑तं॒ परि॑ तस्थु॒रापः॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> सं । अन्याः । यंति । उप । यंति । अन्याः । समानं । ऊर्वं । नद्यः । पृणंति ।
+> तं । ऊं इति । शुचिं । शुचयः । दीदिऽवांसं । अपां । नपातं । परि । तस्थुः । आपः॥३॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अपोनप्रीये वसतीवरीसमीप एकधनासु प्राप्तासु समन्या यंतीत्येषा-
+> नुवक्तव्या । सूत्रितं च । समन्या यंत्युपयंत्यन्या इति तीर्थदेशे । आ. ५-१. ।
+> इति ॥ सारस्वते च शस्त्रे यद्यप्सु शम्या निपतेत् तदानीमपोनप्रीयश्चरुः कार्यः।
+> तत्रेष्टैव याज्या । सूत्रितं च। समन्या यंत्युपयंत्यन्या इत्यातःसमानं सर्वॆषां।
+> आ. १२-६. । इति ॥
+> अन्या वर्ष्या आपो सं यंति । भूम्या संगच्छंते । अन्याश्च पूर्वं तत्राव-
+> स्थिता उपयंति । उपगच्छंति । ताः सर्वा अपः समानं सह नद्यो नदीभूता
+> ऊर्वं समुद्रमध्यॆ वर्तमानं वडवानलं पृणंति ॥ पृण प्रीणने तौदादिकः ॥
+> तमु तमेवापां नपातं शुचिं निर्मलं दीदिवांसं दीप्यमानं ॥ दीदेतिश्कांदसो
+> दीप्टिकर्मा । लिटः क्वसुः । वस्वेकाचाद्भसाविति नियमादिडभावः । छंदसि वेति वक्त-
+
+*Gist:* the Apōnaptrīya rite and the Sārasvata śastra use this Ṛk (with Āśvalāyana sūtra references); the other waters join the rain-waters. [The bhāṣya continues on the next page.]
+
+### Printed p. 264
+
+*Running head: 264 Sāyaṇabhāṣyasahitā [Maṃ. 3 (as printed), A. 4, Sū. 35].*
+
+> व्यमिति वचनाद्द्विर्वचनाभावः ॥ एवंभूतं शुचयः शुद्धा आपः परितस्थुः । परिवृत्य
+> तिष्ठंति । एष हि वैद्युताग्निरूपेण मेघे वर्तमानोऽस्मानजीजनदिति बुद्ध्या
+> वडवानलरूपेण वर्तमानं तं पर्युपासत इत्यर्थः । यद्वा अन्या एकधनाख्या
+> आपः संयंति । चात्वालोत्करयोर्मध्यॆ वसतीवरीभिः संगच्छंते । अन्या वसती
+> वर्याख्या अपश्चोपयंति । उपगच्छंति । ऐकमत्यं प्राप्ता भवंति । एताश्च मिलित्वा
+> यज्ञं साधयंत्यस्तत्साध्यवृष्टिद्वारा नद्यो भूत्वोर्वं पृणंतीत्यादि समानं !
+> एवं हि आपो ना अस्पर्धंत ः यं पूर्वं यज्ञं वक्ष्यामः । ऐ. ब्रा. २-२०. ।
+> इत्यादिकं ब्राह्मणविनियोगश्चानुगृह्यते ॥
+
+*Gist:* the waters, pure, surround the shining Apāṃ Napāt, the lightning fire in the cloud and the ocean fire; or, alternatively, the Ekadhanā and Vasatīvarī waters of the sacrifice unite and flow as rivers (Ai. Brā. 2-20).
+
+*Stray line in the supplied text after the bhāṣya, kept as supplied:* । क्रि.श. १२९८ ॥ (*| kri.śa. 1298 ‖*) (no explanation is given).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अन्याः (*anyāḥ*)—waters produced by rain; सं यंति (*saṃ yaṃti*)—together reach the earth; अन्याः (*anyāḥ*)—waters that were already on the earth; उप यंति (*upa yaṃti*)—join with these rain-waters; समानं (*samānaṃ*)—all these waters, gathering together; नद्यः (*nadyaḥ*)—in the form of rivers; ऊर्वं (*ūrvaṃ*)—the submarine fire in the midst of the ocean; पृणंति (*pṛṇaṃti*)—satisfy; शुचिं (*śuciṃ*)—the pure one; दीदिनांसं (*dīdināṃsaṃ*) (as supplied; the Pada has दीदिऽवांसं (*dīdi 'vāṃsaṃ*))—the shining one; तमु अपां नपातं (*tamu apāṃ napātaṃ*)—that same Agni named Apāṃ Napāt; शुचयः (*śucayaḥ*) pure; आपः (*āpaḥ*)—waters; परि तस्थुः (*pari tasthuḥ*)—stand around and attend upon.
+
+**भावार्थ (Bhāvārtha)**
+
+Waters produced by rain gather together on the earth. The waters that were already on the earth join with these rain-waters. All these waters, gathering together, flow as rivers and satisfy the submarine fire in the ocean. The pure waters stand around and attend upon that same pure and shining Agni named Apāṃ Napāt.
+
+**Printed English translation**
+
+Some waters collect together (from the rain): others, (already collected on earth), unite with them; as rivers they flow together to propitiate the ocean-fire : the pure waters are gathered round the pure and brilliant grandsons of the waters.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the sacrifice called Apōnaptrīya, the Ṛk beginning समन्या यंति (*samanyā yaṃti*) is to be recited as the anuvākya mantra near the Vasatīvarī waters, as explained by the Āśvalāyana-śrauta sūtra समन्यायंत्युपयंत्यन्या इति तीर्थदेशे (*samanyāyaṃtyupayaṃtyanyā iti tīrthadeśe*) (Ā. 5-1); also at the time of the Sārasvata śastra recitation,
+
+### Printed p. 265
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 22] Ṛgveda-saṃhitā, p. 265.*
+
+if the weapon called śamyā falls into the water, the Apōnaptrīya caru oblation is to be made, and then this Ṛk beginning समन्या यंति (*samanyā yaṃti*) is to be recited as the yājyā mantra, as explained by the Āśvalāyana-śrauta sūtra समन्या यंत्युपयंत्यन्या इत्यातः समानं सर्वेषां (*samanyā yaṃtyupayaṃtyanyā ityātaḥ samānaṃ sarveṣāṃ*) (Ā. 12-6).
+
+> अन्याः सं यंति, अन्याः उप यंति, समानं नद्यः ऊर्वं पृणंति—वर्ष्याः
+> आपः भूम्या संगच्छंते अन्याश्च पूर्वं तत्रावस्थिताः उपगच्छंति ताः सर्वाः आपः
+> नदीभूताः समुद्रमध्यॆ वर्तमानं वडवानलं प्रीणयंति ।
+
+> *anyāḥ saṃ yaṃti, anyāḥ upa yaṃti, samānaṃ nadyaḥ ūrvaṃ pṛṇaṃti—varṣyāḥ*
+> *āpaḥ bhūmyā saṃgacchaṃte anyāśca pūrvaṃ tatrāvasthitāḥ upagacchaṃti tāḥ sarvāḥ āpaḥ*
+> *nadībhūtāḥ samudramadhyè vartamānaṃ vaḍavānalaṃ prīṇayaṃti |*
+
+Waters coming as rain on the earth and the waters that were on the earth before unite and gather together. All these waters, combined, in the form of a river join the ocean; these waters, having joined the ocean in river form, are said to please the submarine fire that is in the midst of the ocean.
+
+> तं अपां नपातं शुचिं निर्मलं दीदिवांसं शुचयः आपः परि तस्थुः—
+> निर्मलं दीप्यमानं शुद्धाः आपः परिवृत्य शिष्ठंति । एष हि वैद्युताग्निरूपेण मेघे
+> वर्तमानः अस्मानजीजनदिति बुद्ध्या बडबानलरूपेण वर्तमानं तं पर्युपासत
+> इत्यर्थः ।
+
+> *taṃ apāṃ napātaṃ śuciṃ nirmalaṃ dīdivāṃsaṃ śucayaḥ āpaḥ pari tasthuḥ—*
+> *nirmalaṃ dīpyamānaṃ śuddhāḥ āpaḥ parivṛtya śiṣṭhaṃti | eṣa hi vaidyutāgnirūpeṇa meghe*
+> *vartamānaḥ asmānajījanaditi buddhyā baḍabānalarūpeṇa vartamānaṃ taṃ paryupāsata*
+> *ityarthaḥ |*
+
+This deity Apāṃ Napāt is wholly pure and shines with splendour. Being in the cloud, the form of the lightning Agni, he has created us who exist in the form of water; so thinking, the waters surround him, who is also in the midst of the ocean in the form of the submarine fire, and serve him. This is one kind of meaning described; second:
+
+> यद्वा अन्या एकधनाख्या आपः संयंति चात्वालोत्करयोर्मध्यॆ वसती
+> वरीभिः संगच्छंते । अन्या वसतीवर्याख्या अपश्चोपयंति उपगच्छंति । ऐकमत्यं
+> प्राप्ता भवंति । एताश्च मिलित्वा यज्ञं साधयंत्यः तत्साध्यवृष्टिद्वारा नद्यो
+> भूत्वा ऊर्वं प्रीणंति । एवं हि आपो वा अस्पर्धंत वयं पूर्वं यज्ञं वक्ष्या
+> मः (ऐ. ब्रा. २-२०) इत्यादि ब्राह्मणविनियोग अनुगृह्यते ।
+
+> *yadvā anyā ekadhanākhyā āpaḥ saṃyaṃti cātvālotkarayormadhyè vasatī*
+> *varībhiḥ saṃgacchaṃte | anyā vasatīvaryākhyā apaścopayaṃti upagacchaṃti | aikamatyaṃ*
+> *prāptā bhavaṃti | etāśca militvā yajñaṃ sādhayaṃtyaḥ tatsādhyavṛṣṭidvārā nadyo*
+> *bhūtvā ūrvaṃ prīṇaṃti | evaṃ hi āpo vā aspardhaṃta vayaṃ pūrvaṃ yajñaṃ vakṣyā*
+> *maḥ (ai. brā. 2-20) ityādi brāhmaṇaviniyoga anugṛhyate |*
+
+In the second meaning: among the waters used in the sacrificial acts, those known by the name Ekadhanā flow. In the sacrificial hall, in the region between the Cātvāla and the Utkara, they join with the waters called Vasatīvarī (some other waters). Thus all these waters come together. All of them together bring the sacrificial act to completion. After the rain to be obtained by the sacrifice has fallen, the waters flow in the form of rivers and serve the submarine fire in the midst of the ocean. The meaning is established in accordance with the passage stated in the Aitareya Brāhmaṇa.
+
+### Printed p. 266
+
+*Running head: 266 Sāyaṇabhāṣyasahitā [Maṃ. 2, A. 4, Sū. 35].*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> तमस्मे॑रा युव॒तयो॒ युवा॑नं मर्मृ॒ज्यमा॑नाः॒ परि॑ यं॒त्यापः॑!
+> स शु॒क्रेभिः॒ शिक्व॑भी रे॒वद॒स्मे दी॒दाया॑नि॒ध्मो घृ॒तनि॑र्णिग॒प्पु ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> तं । अस्मेराः । युवतयः । युवानं । मर्मृज्यमानाः । परि । यंति । आपः ।
+> सः । शुक्रेभिः । शिक्वभिः । रेवत् । अस्मे इति । दीदाय । अनिध्मः । घृतनिर्निक् । अप्सु॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तमपां नपातमग्निमस्मेरा अस्मयमाना दर्परहिता युवतयो
+> युवानं युवराजमिव मर्मृज्यमाना अत्यर्थमलंकुर्वाणा आपः ॥ मृजू
+> शौचालंकारयोः ॥ परि यंति । परितो गच्छंति प्राप्नुवंति । धृतनिर्निक् क्षरणशी-
+> लोदकनिर्नॆजनः । यद्वा निर्निगिति रूपनाम । दीप्तरूपः सोpां[?] नपादग्निरप्पु
+> मेघांतर्गतासु समुद्रगतासु वा मध्येऽनिद्म इंधनरहित एव सन् अस्मै अस्माकं
+> रेवद्धनयुक्तमन्नं यथा भवति तथा शुक्रेभिः शुभैर्निर्मलैः शिक्वभिस्तेजोभि-
+> र्दिदाय । दीप्यते ॥
+
+*Gist:* the waters, like modest young women adorning a young man, surround Agni; he shines among the waters without fuel, giving us wealth-bearing food.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अस्मेराः (*asmerāḥ*)—bashful; युवतयः (*yuvatayaḥ*)—young women; युवानं (*yuvānaṃ*)—a young man; मर्मृज्यमानाः (*marmṛjyamānāḥ*)—as if surrounding and adorning; आपः (*āpaḥ*)—the waters; तं (*taṃ*)—him, the Agni named Apāṃ Napāt; परि यंति (*pari yaṃti*)—surround and attend upon; धृतनिर्निक् (*dhṛtanirnik*) (as supplied; the Pada has घृतनिर्निक् (*ghṛtanirnik*))—having a form purified by ghee; सः (*saḥ*)—that Agni; अप्सु (*apsu*)—in the midst of the waters; अनिध्मः (*anidhmaḥ*)—remaining without fuel; आस्मे (*āsme*) (as supplied; Pada अस्मे (*asme*))—for us; रेवत् (*revat*)—so that food endowed with wealth is obtained; शुक्रेभिः (*śukrebhiḥ*)—with bright; शिक्ष्वभिः (*śikṣvabhiḥ*) (as supplied; Pada शिक्वभिः (*śikvabhiḥ*))—splendours; दीदायु (*dīdāyu*) (as supplied; Pada दीदाय (*dīdāya*))—he shines.
+
+**भावार्थ (Bhāvārtha)**
+
+As bashful young women surround and adorn a young man, so the waters surround and attend upon Agni named Apāṃ Napāt. That Agni, of a form purified by ghee, remaining without fuel in the midst of the waters, shines with bright splendours so that food endowed with wealth is obtained by us.
+
 ---
 
-**Progress note:** Done through printed p. 262 (PDF 262). Sūkta 35 Ṛk 1 Bhāvārtha, English, Special Topics complete; Ṛk 2 complete (p. 262); kn.md fixes: Special Topics Sanskrit made blocks, bhāṣya block split across pages kept as two blocks, label 'English Translation-' fixed, Bhāvārtha label inserted, '॥ ಭಾನುವಾರ ॥' kept as italic note; supplied 'ಜನಕ' (p. 261) and Nirukta quote 'ತನೂನಪ್ರಾ' kept as supplied; no [?]
+**Progress note:** Done through printed p. 266 (PDF 266). Sūkta 35 Ṛk 3 (pp. 263-265, Special Topics) and Ṛk 4 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha (p. 266); p. 264 was merged into the bhāṣya block of p. 263 and was split out (marker inserted, pages.json updated, so supplied text does contain p. 264); stray line '। क्रि.श. 1298' kept as italic note; running head of p. 264 prints Maṃ. 3 (as supplied); OCR slips kept: Latin 'p' in 'सोpां' [?], ಅಪ್ಪು/ಅಪ್ಸು, ದೀದಿನಾಂಸಂ, ಧೃತನಿರ್ನಿಕ್, ದೀದಾಯು; Ṛk 4 printed English not yet reached
