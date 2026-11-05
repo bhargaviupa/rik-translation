@@ -1,0 +1,21 @@
+{
+ "vol": 99,
+ "mandala": 2,
+ "branch": "claude/vol14-exp",
+ "source": [
+  "vol14/html/rig_14_2_figs.html@501-766"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol99/Rigveda_Samhita_Vol99_Kannada_Text.md",
+  "en": "vol99/Rigveda_Samhita_Vol99_English_Translation.md"
+ },
+ "work": "vol99/work",
+ "window": 3
+}
