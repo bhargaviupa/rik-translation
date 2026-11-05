@@ -28581,4 +28581,100 @@ The Kannada: "The intention is: take the soma juice, which has been purified wit
 
 ---
 
-**Progress note:** Done through printed p. 743 (PDF 766). Sūkta 14: Ṛk 7 is complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on Kutsa, Āyu and Atithigva); no grammar section is printed for Ṛk 7. Ṛk 8 is written to the end of the Viśeṣaviṣayagaḷu on gabhasti, which fills the bottom of p. 743. It may continue on p. 744 (a further Viśeṣa item or grammar note); check the next page before opening Ṛk 9. The numeral file had 0 rows for these pages, so nothing was checked against it, and nothing was zoomed (image-only reading). Unzoomed and doubtful: the p. 741 header (first numeral damaged, read 2); the references 1-51-6 and 1-53-10; the part-page references on p. 742 (13-235, 5-628, 8-748, 821, 380, 5-174, all [?]); the Nirukta references (6-13, 2-15, 3-8). [?] words: "अभिगंत्यान्प्रतिद्वंद्विनः", "त्वमस्मै" (printed "ತ್ವಮುಸ್ಮೈ"), "मंजनदोहनादिभिः", "अश्वीति", the Pada "गभस्तिपूतं" (compound mark). The Pratipadārtha headwords "भरते" and "जुहोते" are printed so, marked [sic]. Accents not reproduced.
+### Printed p. 744 (PDF 767)
+
+*(Header, read from the strip and not zoomed: "744", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". The numeral file had no rows for this page. This page continues the Viśeṣaviṣayagaḷu of Ṛk 8 on the preparation of soma. In the Kannada, the Ṛg references printed after each technical name are in small type and were not zoomed. They are given below only where legible enough for a guess, each marked [?].)*
+
+The Kannada: "Pounding the soma creepers is the general practice, and placing them on a hide (*camarmaṃ*) is customary. This hide is called त्वक् (*tvak*). For it they used a cow-hide (Ṛ. Saṃ. 10-94-9 [?], 10-116-4 [?]). The vessels in which soma is collected after pressing are called कोश (*kośa*) (Ṛ. Saṃ. numerals [?]), सधस्थ (*sadhastha*) (Ṛ. Saṃ. numerals [?]), द्र[?] (*dra[?]*) (the word is printed with a mark below it that I cannot settle; Ṛ. Saṃ. numerals [?]), वन (*vana*) (Ṛ. Saṃ. numerals [?]), द्रोण (*droṇa*) (Ṛ. Saṃ. numerals [?]), and so on. स्रुव (*sruva*) means the ladle (printed in English "ladle", after the Kannada word *sauṭu*; Ṛ. Saṃ. numerals [?]). The cloth or sieve that strains the soma juice is called पवित्र (*pavitra*). On some occasions they also strained the soma with the gaps between the fingers."
+
+> मृजंति[?] त्वा समग्रुवोऽन्ये[?] जीरावधि ष्वणि । रेभो यदज्यसे वने ।
+
+> *mṛjaṃti[?] tvā samagruvo 'nye[?] jīrāvadhi ṣvaṇi | rebho yadajyase vane |*
+
+(Ṛ. Saṃ. 9-66-9 [?])
+
+*(The first letter of "मृजंति" is printed so that I cannot tell whether it is ma or va; the word after "सम" is printed "ग्रुवो" with an unusual vowel sign and "ऽन्ये" is also doubtful. The reference numerals are unzoomed.)*
+
+The Kannada: "In Ṛks such as these it is said that the soma creeper is soaked in water, pounded, and the juice drawn off is purified with the fingers of the hands. That very matter is explained here by the word गभस्तिपूतं (*gabhastipūtaṃ*)."
+
+The Kannada: "The procedure of pounding the soma creeper and preparing the soma juice is nowhere described at length in the Ṛgveda. From some statements made in various places that procedure can be inferred. The stones that pound the soma creepers are called ग्रावा (*grāvā*) and अद्रि (*adri*). On some occasions wooden boards known by the name अधिषवण (*adhiṣavaṇa*) are also used. If the creeper is fresh, the juice comes out in larger quantity. If it is not (that is, if the creepers were dried and brought some days ago), they soak them in water and afterwards spread them out on the hide. Then they pound them with the stones and draw off the juice. Because the fibres and husks of the creeper and the like are mixed in the juice so drawn, they purify that juice, either with the gaps between the fingers of the hands, or with a sieve or cloth called पवित्र (*pavitra*), or with the *tubaṭa* [?] of a sheep (the word is printed "ತುಬಟ"; its sense is not clear to me). Juice purified in this way is bright, without impurities. It is called शुक्र (*śukra*) and शुचि (*śuci*). To the eye this juice is of a dull red [?] (the printed word is "ಮೂಸಲುಗೆಂಪು" as I read it) or of a red mixed with yellow. To Indra and Vāyu it is the custom to offer the pure soma juice, that is, one without admixture of *āśira* substances. To the other deities soma is offered with milk, curds or grain-flour mixed in. The soma juice mixed with these is called, in order, गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*)."
+
+### Printed p. 745 (PDF 768)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 14 ]", "Ṛgvedasaṃhitā", "745". The numeral file had no rows for this page.)*
+
+#### Ṛk 9
+
+*(The heading "संहितापाठः" is printed in small type before the Ṛk. The Ṛk number is printed "9" at the end of the Saṃhitā and again after the Pada, which agrees with the sequence. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवः॒ कर्त॑ना श्रु॒ष्टिम॑स्मै॒ वने॒ निपू॑तं॒ वन॒ उन्न॑यध्वं ।
+> जु॒षा॒णो हस्त्य॑म॒भि वा॑वशे व॒ इंद्रा॑य॒ सोमं॑ मदि॒रं जु॑होत ॥ ९ ॥
+
+> *adhvaryavaḥ kartanā śruṣṭimasmai vane nipūtaṃ vana unnayadhvaṃ |*
+> *juṣāṇo hastyamabhi vāvaśe va iṃdrāya somaṃ madiraṃ juhota ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the word "निपूतं" is printed with a small mark between "नि" and "पूतं" that is the compound sign (ऽ); I have read it so.)*
+
+> अध्वर्यवः । कर्तन । श्रुष्टिं । अस्मै । वने । निऽपूतं । वने । उत् । नयध्वं । जुषाणः । हस्त्यं । अभि । वावशे । वः । इंद्राय । सोमं । मदिरं । जुहोत ॥ ९ ॥
+
+> *adhvaryavaḥ | kartana | śruṣṭiṃ | asmai | vane | ni 'pūtaṃ | vane | ut | nayadhvaṃ | juṣāṇaḥ | hastyaṃ | abhi | vāvaśe | vaḥ | iṃdrāya | somaṃ | madiraṃ | juhota ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Adhvaryus, prepare the pleasant soma for Indra and lift up the water-purified soma in the vessel; Indra desires your hand-pressed soma, so offer it in the fire.*
+
+> हे अध्वर्यवः अस्मा इंद्राय सोमं श्रुष्टिं सुखकरं कर्तन । कुरुत ॥ करोतेर्लोटि बहुलं छंदसीति विकरणस्य लुक् । तप्तनप्तनथनाश्चेति तनबादेशः । आमंत्रितस्याविद्यमानत्वान्न निघातः ॥ किंच वने संभजनीये वन उदके निपूतमाप्यायनेन शोधितं सोममुन्नयध्वं । ऊर्ध्वं नयत । यद्वा वने तद्विकारे चमसे निपूतं दशापवित्रेण शोधितं सोमं वने चमस उन्नयध्वं । जुषाणः प्रीयमाणः स इंद्रो वो युष्माकं हस्त्यं हस्ताभ्यामभिषुतं सोममभिवावशे कामयते ॥ वश कांतौ । यज्[?]-लुगंतस्य लटि व्यत्ययेनात्मनेपदं । लोपस्त आत्मनेपदेष्विति तलोपः ॥ मदिरं मदकरमिमं सोममिंद्राय जुहोत । इंद्रोद्देशेनाग्नौ प्रक्षिपत ॥
+
+> *he adhvaryavaḥ asmā iṃdrāya somaṃ śruṣṭiṃ sukhakaraṃ kartana | kuruta ‖ karoterloṭi bahulaṃ chaṃdasīti vikaraṇasya luk | taptanaptanathanāśceti tanabādeśaḥ | āmaṃtritasyāvidyamānatvānna nighātaḥ ‖ kiṃca vane saṃbhajanīye vana udake nipūtamāpyāyanena śodhitaṃ somamunnayadhvaṃ | ūrdhvaṃ nayata | yadvā vane tadvikāre camase nipūtaṃ daśāpavitreṇa śodhitaṃ somaṃ vane camasa unnayadhvaṃ | juṣāṇaḥ prīyamāṇaḥ sa iṃdro vo yuṣmākaṃ hastyaṃ hastābhyāmabhiṣutaṃ somamabhivāvaśe kāmayate ‖ vaśa kāṃtau | yaj[?]-lugaṃtasya laṭi vyatyayenātmanepadaṃ | lopasta ātmanepadeṣviti talopaḥ ‖ madiraṃ madakaramimaṃ somamiṃdrāya juhota | iṃdroddeśenāgnau prakṣipata ‖*
+
+*(The grammatical tail is transcribed, not explained: कर्तन is formed from the root kṛ in the imperative with the verb-suffix dropped and the ending tana substituted; the root वश् "to desire" appears with the middle ending by exchange, and the ending's t is dropped. The word "यज्-लुगंतस्य" is printed so, with ज् as I read it, and is doubtful [?]. The sūtra numbers are not printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. अस्मै (*asmai*)—for this Indra. श्रुष्टिं (*śruṣṭiṃ*)—the pleasant soma. कर्तन (*kartana*)—prepare. वने (*vane*)—soaked in water and pounded. निपूतं (*nipūtaṃ*)—the purified soma. वने (*vane*)—in the camasa vessel. उन्नयध्वं (*unnayadhvaṃ*)—lift up and set down for the offering. जुषाणः (*juṣāṇaḥ*)—Indra, delighted. वः (*vaḥ*)—your. हस्त्यं (*hastyaṃ*)—soma pressed by the hands. अभि वावशे (*abhi vāvaśe*)—desires. मदिरं (*madiraṃ*)—intoxicating. सोमं (*somaṃ*)—soma. इंद्राय (*iṃdrāya*)—for Indra. जुहोत (*juhota*)—offer (in the fire).
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "O Adhvaryus, prepare the pleasant soma for this Indra, and lift up for the offering the soma, made beautiful (*śobhita*) with water, in the camasa vessel. Delighted Indra desires the soma pressed by your hands" *(the sentence continues on the next page)*
+
+### Printed p. 746 (PDF 769)
+
+*(Header, read from the strip and not zoomed: "746", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". The numeral file had no rows for this page.)*
+
+*(The Bhāvārtha continues:)* "… the soma pressed by your hands; offer the intoxicating soma in the fire, with Indra as the object."
+
+**English Translation** *(as printed)*
+
+Priests, offer to him the prompt (libation); llft [sic] it up, purified with water, in the ladle: well pleased, he desires it from your hand; present the exhilarating Soma juice to Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**अध्वर्यवः कर्तन श्रुष्टिं अस्मै (*adhvaryavaḥ kartana śruṣṭiṃ asmai*)**—The Kannada: "O Adhvaryus, prepare for this Indra the pleasant soma juice. Here the bhāṣyakāra explains the word श्रुष्टिं (*śruṣṭiṃ*) as सुखकरं (*sukhakaraṃ*) 'pleasant'. Yāska gives the sense 'quickly' for the word श्रुष्टिं (*śruṣṭiṃ*) (Ni. 6-13 [?]" *(the closing bracket is cut off at the edge of the print; the numerals are unzoomed)*.
+
+**वने निपूतं वन उत् नयध्वं (*vane nipūtaṃ vana ut nayadhvaṃ*)**—
+
+> वने संभजनीयो[?] वन उदके निपूतमाप्यायनेन शोधितं सोममुन्नयध्वं । ऊर्ध्वं नयत । यद्वा वने तद्विकारे चमसे निपूतं दशापवित्रेण शोधितं सोमं वने चमस उन्नयध्वं ।
+
+> *vane saṃbhajanīyo[?] vana udake nipūtamāpyāyanena śodhitaṃ somamunnayadhvaṃ | ūrdhvaṃ nayata | yadvā vane tadvikāre camase nipūtaṃ daśāpavitreṇa śodhitaṃ somaṃ vane camasa unnayadhvaṃ |*
+
+The Kannada: "Here the word वने (*vane*) is read twice. Because the word वनं (*vanaṃ*) is read among the names of water (2-24 [?], unzoomed), वने (*vane*) means 'in water'. Also, the large wooden vessel in which the prepared soma juice is collected and kept is called वन (*vana*); or the camasa vessel made of wood (of the udumbara tree) is also called वन (*vana*). Therefore, if in this sentence the first word वने (*vane*) is taken as 'water' and the second वने (*vane*) as 'the camasa vessel made of wood', the main purport of the sentence is suggested: 'Soak the soma creepers in water and cleanse them, then pound them, press and strain them; take the soma juice put into the wooden vessel called camasa near the uttaravedi, for offering to Indra.'" *(The bhāṣya word "संभजनीयो" is printed so; in the bhāṣya on the previous page it reads "संभजनीये". Doubtful [?].)*
+
+**जुषाणः हस्त्यं अभि वावशे वः (*juṣāṇaḥ hastyaṃ abhi vāvaśe vaḥ*)**—
+
+> जुषाणः प्रीयमाणः स इंद्रो वो युष्माकं हस्त्यं हस्ताभ्यामभिषुतं सोममभिवावशे कामयते ।
+
+> *juṣāṇaḥ prīyamāṇaḥ sa iṃdro vo yuṣmākaṃ hastyaṃ hastābhyāmabhiṣutaṃ somamabhivāvaśe kāmayate |*
+
+The Kannada: "Here हस्त्यं (*hastyaṃ*) means the soma juice prepared by pounding the soma creepers with the hands, pressing and purifying them. O Adhvaryus, the pleased Indra desires the soma juice purified and prepared by your hands. Therefore offer the intoxicating soma juice in the fire for Indra; this is the main purport."
+
+*(A short rule is printed here, closing the Viśeṣaviṣayagaḷu of Ṛk 9. No grammar section is printed for Ṛk 9 on this page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 746 (PDF 769). Sūkta 14: the end of the Viśeṣaviṣayagaḷu of Ṛk 8 (the soma-preparation passage, p. 744) is written, and Ṛk 9 is complete on pp. 745–746 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu); a rule closes it at the foot of p. 746, and no grammar section is printed for Ṛks 8 or 9. Next: Ṛk 10 should open on printed p. 747 (PDF 770); check it before writing. The numeral file had 0 rows for these pages, so nothing was checked against it, and nothing was zoomed (single-call reading). Unzoomed and doubtful: all references on p. 744 (10-94-9, 10-116-4, 9-66-9, and the unread kośa/sadhastha/druh/vana/droṇa/sruva references); Ni. 6-13 (p. 746, closing bracket cut off); 2-24 (vanaṃ among the names of water). [?] words: the first letter of "मृजंति" and the forms "समग्रुवोऽन्ये" (p. 744 verse), the bold "द्र[?]" vessel-name (p. 744), "तुबट" and "मूसलुगेंपु" (p. 744 Kannada), "यज्-लुगंतस्य" (p. 745), "संभजनीयो" (p. 746). The page headers carry "Maṃ. 2 A. 2 Sū. 14" and "A. 2 A. 6 V. 14" as printed. Accents not reproduced.
