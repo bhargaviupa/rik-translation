@@ -4666,6 +4666,128 @@ Yāska gives many meanings of the word गो (*go*) (Ni. 2-5). Sāyaṇa explai
 > *codau |*
 > *iṃdrāsomā yuvamasmai aviṣṭamasminbhayasthe kṛṇutamu lokaṃ ‖*
 
+### Printed p. 150
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2 [as printed; Maṃ. 1], Adhyāya 3 [as printed], Sūkta 30, p. 150.*
+
+**॥ पदपाठः ॥**
+
+> ॥ पदशातु ॥
+> प्र । हि । क्रतुं । वृहथः । यं । वनुथः । रध्रस्य । स्थः । यजमानस्य । चोदौ ।
+> इंद्रासोमा । युवं । अस्मान् । अविष्टं । अस्मिन् । भयस्थे । कृणुतं । ऊं इति ।
+> लोकं ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्रासोमौ यं वैरिणं वनुथो हिंसथः ॥ वनुष्यतिर्हंतिकर्मेति
+> यास्कः ॥ तं क्रतुं द्वेषस्य कर्तारं प्र हि वृहथः । प्रकर्षणोद्यच्छथः खलु ।
+> उन्मूलयथ इत्यर्थः ॥ वृहू उद्यमने तौदादिकः ॥ तथा रध्रस्य राधकस्य यज-
+> मानस्य चोदौ शत्रूणां प्रेरकौ स्थः । भवथः । तथा हे इंद्रासोमौ युवं
+> युवामस्मानविष्टं । अवतं । अस्मिन्भयस्थे भयस्थाने युद्धे ॥ घञार्थे कविधान-
+> मित्यधिकरणे कप्रत्ययः । मरुद्वधादित्वात्तूर्वपदांतोदात्तत्वं ॥ तस्मिन्युद्धे
+> लोकं भयरहितं स्थानं कृणुतं । कुरुतं । उ इति पादपूरणः ॥
+
+> *he iṃdrāsomau yaṃ vairiṇaṃ vanutho hiṃsathaḥ ‖ vanuṣyatirhaṃtikarmeti*
+> *yāskaḥ ‖ taṃ kratuṃ dveṣasya kartāraṃ pra hi vṛhathaḥ | prakarṣaṇodyacchathaḥ khalu |*
+> *unmūlayatha ityarthaḥ ‖ vṛhū udyamane taudādikaḥ ‖ tathā radhrasya rādhakasya yaja-*
+> *mānasya codau śatrūṇāṃ prerakau sthaḥ | bhavathaḥ | tathā he iṃdrāsomau yuvaṃ*
+> *yuvāmasmānaviṣṭaṃ | avataṃ | asminbhayasthe bhayasthāne yuddhe ‖ ghañārthe kavidhāna-*
+> *mityadhikaraṇe kapratyayaḥ | marudvadhāditvāttūrvapadāṃtodāttatvaṃ ‖ tasminyuddhe*
+> *lokaṃ bhayarahitaṃ sthānaṃ kṛṇutaṃ | kurutaṃ | u iti pādapūraṇaḥ ‖*
+
+Gist: O Indra and Soma, uproot the enemy you hate, impel the foes of the devoted sacrificer, protect us, and make a fearless place for us in this battle. The grammatical tail (the root वृहू (*vṛhū*) in the sense of lifting; the affix क in the locative sense; the accent of the compound; उ as a verse-filler) is noted without explanation.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indrāsomā—O Indra and Soma deities; yam—whichever enemy; vanuthaḥ—you hate; kratum—him, the obstructer of the sacrifice; pra hi vṛhathaḥ—uproot completely; radhrasya—(to you) who is obedient; yajamānasya—to the sacrificer; codau—as encouragers; sthaḥ—be; yuvam—you; asmān—us; aviṣṭam—protect; asmin bhayasthe—in this battle, the place of fear; lokam—a place free from fear; kṛṇutam—make.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra and Soma deities, whichever enemy you hate, uproot completely him, the obstructer of the sacrifice. Be encouragers of the sacrificer who is obedient to you. Protect us. In this battle, the place of fear, make a place free from fear.
+
+**Printed English translation**
+
+Indra and Soma, eradicate the worker (of evil), whom you hate : be the encouragers of the liberal institutor of the rite : protect us in this place of peril and make the world (free from fear).
+
+### Printed p. 151
+
+*Running head: Aṣṭaka 2 [as printed: "ಅ. ೨"], Adhyāya 7, Varga 13, Ṛgveda-saṃhitā, p. 151.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the two deities Indra and Soma are praised. 
+
+क्रतुं (*kratuṃ*)—द्वेषस्य कर्तारं (*dveṣasya kartāraṃ*): the word क्रतु (*kratu*) is stated by Yāska among the names of action (Ni. 3-2) and among the names of wisdom (Ni. 3-13). It is explained as क्रतुं कर्म ना प्रज्ञां वा (*kratuṃ karma nā prajñāṃ vā*) (Ni. 2-28) [as printed]. Sāyaṇa gives the meaning "one who makes hatred". Indra and Soma subject to harm the enemy who hates them and destroy him utterly (प्र हि वृहतः (*pra hi vṛhataḥ*), "root and all"); and रध्रस्य यजमानस्य चोदौ स्थः (*radhrasya yajamānasya codau sthaḥ*)—साधकस्य यजमानस्य शत्रोणां प्रेरकौ भवतः (*sādhakasya yajamānasya śatroṇāṃ prerakau bhavataḥ*) [sic], they become the driving-away of the enemies of the sacrificer who performs sacrifices: this is how he explains the sense.
+
+Addressing Indra and Soma, the sacrificers pray for their protection: युवं अस्मान् अविष्टं (*yuvaṃ asmān aviṣṭaṃ*), युवां अस्मान् अवतं (*yuvāṃ asmān avataṃ*); and भयस्थे लोकं कृणुतं (*bhayasthe lokaṃ kṛṇutaṃ*), भयस्थाने युद्धभयरहितं स्थानं कुरुतं (*bhayasthāne yuddhabhayarahitaṃ sthānaṃ kurutaṃ*): when a battle that causes fear to the sacrificers arrives, protection is prayed for, so that no fear arises.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> न मा॑ तम॒न्न श्र॑म॒न्नोत तं॑द्र॒न्न वो॑चाम॒ मा सु॑नो॒तेति॒॑
+> सोमं ।
+> यो मे॑ पृ॒णाद्यो दद॒द्यो नि॒बोधा॒द्यो मा॑ सु॒न्वंत॒मुप॒॒॑
+> गोभिरायत् ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> न । मा । तमत् । न । श्रमत् । न । उत । तंद्रत् । न । वोचाम । मा । सुनोत ।
+> इति । सोमं ।
+> यः । मे । पृणात् । यः । ददत् । यः । निबोधात् । यः । मा । सुन्वंतं ।
+> उप । गोभिः । आ । आयत् ॥ ७ ॥
+
+> *na | mā | tamat | na | śramat | na | uta | taṃdrat | na | vocāma | mā | sunota |*
+> *iti | somaṃ |*
+> *yaḥ | me | pṛṇāt | yaḥ | dadat | yaḥ | nibodhāt | yaḥ | mā | sunvaṃtaṃ |*
+> *upa | gobhiḥ | ā | āyat ‖ 7 ‖*
+
+### Printed p. 152
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2 [as printed], Adhyāya 3 [as printed], Sūkta 30, p. 152.*
+
+**॥ सायणभाष्यम् ॥**
+
+> स इंद्रो मां न तमत् । न तमयतु । न ग्लपयतु । तथा न श्रमत् । श्रांतं
+> मा करोतु ॥ तमु ग्लानौ श्रमु तपसि खेदे च । अनयोर्हेतुमण्ण्यंतयोर्ले-
+> ट्यडागमः । छंदस्युभयथेति शप अर्धधातुकत्वाण्णीरनिटीति णिलोपः ॥ उत अपि च
+> मां न तंद्रत् । न तंद्रयेत् । तंद्र्यालस्येन युक्तं मा करोतु ॥ तंद्रीशब्दा-
+> त्तत्करोतीति णिच् । णाविष्ठवत्पातिपदिकस्येति टलोपः । अन्यत् पूर्ववत् ॥ इंद्र-
+> यागाय सोमं मा सुनोत माभिषुणुतेत्यन्यान्यजमानान् प्रति न वोचाम ।
+> न ब्रवाम ॥ वक्तेश्चांदसो लुज् । सुनोतेत्यत्र तप्तनप्तनथनाश्चेति तस्य तबादेशः ।
+> तस्य पित्त्वेन जित्वाभावाद्गुणः ॥ य इंद्रो मे मम पृणात् कामान् पूरयेत्
+> यश्च ददत् अभीष्टं फलं दद्यात् यश्च निबोधात् आस्मदीयं स्तोत्रं यागं
+> वावगच्छेत् य इंद्रः सुन्वंतं सोममभिषुण्वंतं मामस्मभ्यं दातवैर्गोभिः
+> सहोपायत् उपागच्छेत् । स इंद्र इति पूर्वत्रान्वयः ॥ पृणादित्यादिषु
+> लेट्यडागमः ॥
+
+> *sa iṃdro māṃ na tamat | na tamayatu | na glapayatu | tathā na śramat | śrāṃtaṃ*
+> *mā karotu ‖ tamu glānau śramu tapasi khede ca | anayorhetumaṇṇyaṃtayorle-*
+> *ṭyaḍāgamaḥ | chaṃdasyubhayatheti śapa ardhadhātukatvāṇṇīraniṭīti ṇilopaḥ ‖ uta api ca*
+> *māṃ na taṃdrat | na taṃdrayet | taṃdryālasyena yuktaṃ mā karotu ‖ taṃdrīśabdā-*
+> *ttatkarotīti ṇic | ṇāviṣṭhavatpātipadikasyeti ṭalopaḥ | anyat pūrvavat ‖ iṃdra-*
+> *yāgāya somaṃ mā sunota mābhiṣuṇutetyanyānyajamānān prati na vocāma |*
+> *na bravāma ‖ vakteścāṃdaso luj | sunotetyatra taptanaptanathanāśceti tasya tabādeśaḥ |*
+> *tasya pittvena jitvābhāvādguṇaḥ ‖ ya iṃdro me mama pṛṇāt kāmān pūrayet*
+> *yaśca dadat abhīṣṭaṃ phalaṃ dadyāt yaśca nibodhāt āsmadīyaṃ stotraṃ yāgaṃ*
+> *vāvagacchet ya iṃdraḥ sunvaṃtaṃ somamabhiṣuṇvaṃtaṃ māmasmabhyaṃ dātavairgobhiḥ*
+> *sahopāyat upāgacchet | sa iṃdra iti pūrvatrānvayaḥ ‖ pṛṇādityādiṣu*
+> *leṭyaḍāgamaḥ ‖*
+
+Gist: May that Indra not tire, weary or make me slothful; we shall not tell other sacrificers not to press Soma for him; Indra, who fulfils my wishes, gives, heeds our rite and brings me cows, is to be understood as subject. The grammatical tail (the roots तमु (*tamu*), श्रमु (*śramu*) with the augment; लेट् (*leṭ*) forms; the elision of the ending after तंद्री; the तबादेश; the augment in पृणात्) is noted without explanation.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+yaḥ—which Indra; me—my; pṛṇāt—fulfils the desired things; yaḥ—who; dadat—gives (what I desire); yaḥ—who; nibodhāt—knows and (accepts) the worship performed by us; yaḥ—which Indra; sunvantaṃ mā—me who press the Soma juice; gobhiḥ—with cows; upa āyat—brings together. (saḥ—that Indra) mā—me; na tamat—may not vex; na śramat—may not make me weary; uta—and; na tandrat—may not make me slothful; somam—(for the Indra-sacrifice) the Soma; mā sunota—do not press; iti—thus; na vocāma—we shall not say (to the other sacrificers).
+
+**भावार्थ (Bhāvārtha)**
+
+May Indra, who fulfils my wishes, gives what I desire, knows the worship performed by us, and brings me, who press the Soma juice, together with cows, not vex me. May he not give me weariness, and may he not make me slothful. I shall not say to others, "Do not press the Soma juice for the Indra-sacrifice."
+
+**Printed English translation**
+
+Let not Indra vex me, or weary me, or make me slothful : never may we say (to another), do not offer the Soma libation : (for it is Indra)
+
 ---
 
-**Progress note:** Done through printed p. 149 (PDF 149). Sūkta 30 Ṛk 4 Bhāvārtha, printed English, Special Topics; Ṛk 5 complete with Special Topics; Ṛk 6 Saṃhitā only (Pada follows). Flags as supplied: 'ಅಶ್ವವತ್' (p. 149) vs bhāṣya 'ಅಶ್ಮವತ್', Pada 'ಆಸ್ಮಾನ್'/'ಸಾತಾ' vs Saṃhitā, Pratipadārtha 'ಅರ್ಥಂ' vs 'ಅರ್ಧಂ', 'ಸಿ. ೧೦-೧೨', Ṛk 6 Saṃhitā block spans three lines.
+**Progress note:** Done through printed p. 152 (PDF 152). Sūkta 30 Ṛk 6 complete; Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha; printed English begun (continues on p. 153). Flags: Ṛk 6 Pada 'ಭಯಸ್ಥೇ'/'ಅಸ್ಮಾನ್' vs Saṃhitā 'अस्मै' (as supplied), 'ಶತ್ರೋಣಾಂ', 'ಕ್ರತುಂ ಕರ್ಮ ನಾ' as printed
