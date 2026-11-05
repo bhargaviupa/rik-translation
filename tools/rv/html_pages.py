@@ -3,21 +3,32 @@ python3 tools/rv/html_pages.py FILE.html            list pages (printed number, 
 import: pages(path) -> {printed_page: text}  (page = text from one running head to the next; a running head contains the book title and the page number at either end)"""
 import re,html,sys
 KD=str.maketrans('೦೧೨೩೪೫೬೭೮೯','0123456789')
+ANOMALIES=[]
 def pages(path,heads=None,title=('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಸಾಯಣಭಾವ್ಯಸಹಿತಾ')):
+    """HTML form. Head numbers are noisy (OCR: '750' for 790, '79]' for 791): numbers that disagree with their neighbours are replaced by the
+    offset-median rule (as in pages_md); a head with no number takes the previous number + 1."""
     t=open(path,encoding='utf8',errors='replace').read(); b=t[t.find('<body'):]
-    parts=re.split(r'<header[^>]*>(.*?)</header>',b,flags=re.S); out={}; cur=None; last=0
+    parts=re.split(r'<header[^>]*>(.*?)</header>',b,flags=re.S); items=[]
     for i in range(1,len(parts),2):
         h=html.unescape(re.sub(r'<[^>]+>','',parts[i])).strip(); body=parts[i+1]
         isp=any(x in h for x in title) or bool(re.search(r'(^[0-9]{1,4}\s+\S)|(\S\s+-?\s*[0-9]{1,4}$)',h) and len(h)>12 and not re.search('ಪಾರಃ|ಪಾಠಃ|ಪಾದಃ',h))
+        m=re.findall(r'(?<![0-9೦-೯])[0-9]{1,4}(?![0-9೦-೯])',h) if isp else []
+        items.append([h,body,isp,int(m[0]) if m else None])
+    num=[k for k,it in enumerate(items) if it[2] and it[3] is not None]
+    off=[items[k][3]-j for j,k in enumerate(num)]; fixed={}
+    for j,k in enumerate(num):
+        nb=[off[x] for x in range(max(0,j-3),min(len(num),j+4)) if x!=j]
+        if off[j] in nb or not nb: fixed[k]=items[k][3]
+        else: w=sorted(nb); fixed[k]=j+w[len(w)//2]; ANOMALIES.append((k,items[k][3],fixed[k],items[k][0][:50]))
+    out={}; cur=None; last=0
+    for k,(h,body,isp,n) in enumerate(items):
         if isp:
-            m=re.findall(r'(?<![0-9೦-೯])[0-9]{1,4}(?![0-9೦-೯])',h)
-            cur=int(m[0]) if m else last+1; last=cur; out.setdefault(cur,[])
+            cur=fixed[k] if k in fixed else last+1; last=cur; out.setdefault(cur,[])
             if heads is not None: heads.setdefault(cur,h)
         txt=html.unescape(re.sub(r'<[^>]+>','',re.sub(r'<br\s*/?>|</(p|div|h\d|li|aside)>','\n',body)))
         if cur is not None: out[cur].append((h if not isp else '')+'\n'+txt if not isp else txt)
     return {k:re.sub(r'\n\s*\n+','\n','\n'.join(v)).strip() for k,v in out.items()}
 
-ANOMALIES=[]
 def _head_number(h):
     m=re.match(r'^[#\s]*([0-9][0-9:)]{0,4})(?=\s)',h) or re.search(r'\s([0-9]{1,4})\s*$',h)
     if not m: return None
