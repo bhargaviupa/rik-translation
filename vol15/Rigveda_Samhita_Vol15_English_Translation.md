@@ -11929,6 +11929,110 @@ Moving at dawn like two heroes in a car ; like a pair of goats; like two women l
 
 In this ṛk the Aśvins are described by several similes. प्रातर्यावाणा—प्रातरेव यज्ञार्थं गंतारौ । (*prātaryāvāṇā—prātareva yajñārthaṃ gaṃtārau |*) Those who go towards the sacrifice at dawn itself. Ordinarily the Aśvins, Uṣas and Savitṛ are invoked at dawn; so these are gods who go to the sacrifice at dawn. The Aśvins appear like two heroes seated in a chariot; like two goats of one form, that is, of like shape — the form of the two Aśvins is exactly the same, no difference is seen between them, so they are described as of like form, like twins; they are also like two beautiful women shining with charming bodies, and shine like a husband and wife endowed with beauty and youth. "Knowing the rites performed by people" means: knowing who in the land performs a sacrifice and at what times, they go there at their invitation. It is stated that such Aśvins should come together, both, to our sacrificial ground.
 
+### Printed p. 375
+
+*[Running head, p. 375: A. 2 Ad. 8 Va. 4, Ṛgvedasaṃhitā 375.]*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> शृंगे॑व नः प्रथ॒मा गं॑तम॒र्वाक्छ॒फावि॑न॒ जर्भु॑राणा॒ तरो॑भिः ।
+> च॒क्र॒वा॒केव॒ प्रति॒ वस्तो॑रुस्रा॒र्वांचा॑ यातं र॒थ्ये॑व शक्रा ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> शृंगा इव । नः । प्रथमा । गंतं । अर्वाक् । शफौ इव । जर्भुराणा । तरभिः ।
+> चक्रवाका इव । प्रति । वस्तोः । उस्रा । अर्वांचा । यातं । रथ्या इव । शक्रा ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विन् शृंगेव पशोः शृंगे इव प्रथमा देवानां प्रथमौ शफाविवाश्वादेः खुराविव तरोभिर्वेगैर्जर्भुराणा भृशं गच्छंतौ युवां नोऽस्मान्प्रत्यर्नागभिमुखमागंतं। आगच्छतं । किंच हे अश्विन् वस्तोः प्रति अहः प्रति चक्रवाकेव
+> चक्रवाकाविव हे उस्रा शत्रूणामुत्सारकौ गमनशीलौ वा रथ्येव रथिनाविव हे शक्रा
+> स्वकर्मणि शक्तावर्वांचास्मदभिमुखौ यातं । गच्छतं ॥
+
+> *he aśvin śṛṃgeva paśoḥ śṛṃge iva prathamā devānāṃ prathamau śaphāvivāśvādeḥ khurāviva tarobhirvegairjarbhurāṇā bhṛśaṃ gacchaṃtau yuvāṃ no 'smānpratyarnāgabhimukhamāgaṃtaṃ| āgacchataṃ | kiṃca he aśvin vastoḥ prati ahaḥ prati cakravākeva*
+> *cakravākāviva he usrā śatrūṇāmutsārakau gamanaśīlau vā rathyeva rathināviva he śakrā*
+> *svakarmaṇi śaktāvarvāṃcāsmadabhimukhau yātaṃ | gacchataṃ ‖*
+
+*(Gist: you two, the foremost of the gods, swift as a horse's hooves, come toward us; and like cakravāka birds awaiting day, like warriors in a chariot, able in your work, come to us. The supplied text reads प्रत्यर्नागभिमुखमागंतं (*pratyarnāgabhimukhamāgaṃtaṃ*) (line-end hyphen joined by hand; र्ना (*rnā*) looks like a slip but is left as supplied) — flagged.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Aśvinau—O Aśvin gods.) शृंगेव (*śṛṃgeva*)—you who are like the horns of an animal. प्रथमा (*prathamā*)—chief among the gods. शफाविव (*śaphāviva*)—you who are like the hooves of horses. तरोभिः (*tarobhiḥ*)—with swift motions. जर्भुराणा (*jarbhurāṇā*)—you who travel swiftly. नः अर्वाक् (*naḥ arvāk*)—toward us. गंतं (*gaṃtaṃ*)—come. वस्तोः प्रति (*vastoḥ prati*)—awaiting the day. चक्रवाकेव (*cakravākeva*)—you who are like cakravāka birds. उस्रा (*usrā*)—you Aśvin gods, who overthrow enemies. रथ्येव (*rathyeva*)—like heroes riding in chariots. शक्रा (*śakrā*)—you who are able in your deeds. अर्वांचा (*arvāṃcā*)—toward us. यातं (*yātaṃ*)—come.
+
+*[Stray line in the supplied text, kept: । भानुवार । (*| bhānuvāra |*) ("Sunday"), apparently a printed day-mark or margin note. The Bhāvārtha label, missing in the supplied text, was inserted by hand.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin gods, you who are like the horns of an animal, chief among the gods, like the hooves of horses, travelling swiftly with rapid motions, come toward us. You who are like cakravāka birds awaiting the day, overthrowers of enemies, O Aśvin gods, like heroes riding in chariots, able in your deeds, come toward us.
+
+### Printed p. 376
+
+*[Running head, p. 376: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 39.]*
+
+**English Translation (as printed)**
+
+Come to us, the first (before other gods), like a pair of horns or like two hoofs, travelling with rapid (steps); like a pair of Chakravakas, awaiting day; overthrowers of foes, like warriors in cars, able (to perform all things), come to our presence.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+O Aśvin gods, you are lofty like the two horns of an animal; the foremost among the gods, or those who come to the sacrificial ground before all the other gods; swift in going like the hooves of horses, that is, travelling quickly. Such as you are, come toward us as the cakravāka bird awaits the day itself; and you who are like heroes seated in a chariot, who destroy enemies and are able in your deeds, come toward us, to the sacrificial ground — this is the main sense.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It depicts a squiggly line or waveform pattern." It stands for a printed ornament between Ṛks; kept in kn.md as an italic note.]*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> ना॒वेव॑ नः पारयतं यु॒गेव॒ नभ्ये॑व न उप॒धीव॑ प्र॒धीव॑ ।
+> श्वाने॑व नो॒ अरि॑षण्या त॒नूनां॒ खृग॑लेव वि॒स्रसः॑ पातम॒स्मान् ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+*[Line-end hyphen of the Pada joined by hand in kn.md; the supplied text reads उपधीS (*upadhīS*) with a Latin S for the avagraha.]*
+
+> नावाइव । नः । पारयतं । युगाइव । नभ्याइव । नः । उपधी इवेत्युपधीSइव । प्रधी इवेति प्रधीSइव ।
+> श्वानाइव । नः । अरिषण्या । तनूनां । खृगलाइव । विस्स्रसः । पातं । अस्मान् ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विनौ नावेव नावाविव सिंधून् नोऽस्मान् दुर्गाणि पारयतं ।
+> युगेव यथा रथस्य युगे नभ्येव यथा च रथचक्रनाभिफलके । उपधी इव यथा
+> तत्पार्श्वस्थे फलके प्रधी इव यथा वा चक्रबाह्यवलयौ रथं पारयतः तथा
+
+> *he aśvinau nāveva nāvāviva siṃdhūn no 'smān durgāṇi pārayataṃ |*
+> *yugeva yathā rathasya yuge nabhyeva yathā ca rathacakranābhiphalake | upadhī iva yathā*
+> *tatpārśvasthe phalake pradhī iva yathā vā cakrabāhyavalayau rathaṃ pārayataḥ tathā*
+
+### Printed p. 377
+
+*[Running head, p. 377: A. 2 Ad. 8 Va. 4, Ṛgvedasaṃhitā 377. The bhāṣya block is split by the page break: the first part ends on p. 376, the rest follows here as a second block; line-end hyphens joined by hand.]*
+
+> नोऽस्मान्दुर्गाणि पारयतं । किंच श्वानेव श्वानाविव यथा श्वान् बाधकेभ्यो
+> रज्ञंतौ तनोर्हिंसामपनयतः तथा नोऽस्माकं तनूनामंगानामरिषण्यावहिंकौ भवतं । खृगलेव यथा तनु त्राणे तनु हिंसाया रक्षतः तथा विस्रसो जराया
+> अस्मान्युवां पातं ॥
+
+*(Gist: like boats carry across rivers, like the yoke, nave, spokes and rim carry a chariot across rough places, carry us over difficulties; like two dogs or two coats of mail, be harmless to our bodies and protect us from old age.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Aśvinau—O Aśvin gods.) नावेव (*nāveva*)—as boats carry across a river. नः (*naḥ*)—us. पारयतं (*pārayataṃ*)—carry across from sorrow and protect. युगेव (*yugeva*)—like the "rogas" [sic, as supplied; the Bhāvārtha has "nogas", i.e. yokes] of a chariot, नभ्येव (*nabhyeva*)—like the naves, उपधीव (*upadhīva*)—like the spokes (as supplied, इरचि (*iraci*)), प्रधी इव (*pradhī iva*)—like the outer rims (as all these carry across a chariot with a pair of wheels), नः (*naḥ*)—us (carry across from sorrow). श्वानेव (*śvāneva*)—as dogs protect from those who do harm. नः (*naḥ*)—our. तनूनां (*tanūnāṃ*)—of the bodies. अरिषण्या (*ariṣaṇyā*)—be harmless. खृगलेव (*khṛgaleva*)—as coats of mail protect from the harm of enemies. विस्रसः (*visrasaḥ*)—from old age. आस्मान् (*āsmān*) [sic, as supplied for अस्मान् (*asmān*)]—us. पातं (*pātaṃ*)—protect.
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin gods, as boats carry across a river, carry us across from sorrow and protect us. As the yokes, naves, spokes and outer rims of a chariot with two wheels carry it across rough places, so carry us across from sorrow. Like dogs and like coats of mail, protect us from the harm of enemies. Protect us from old age.
+
+**English Translation (as printed)**
+
+Bear us across (the sea of life), like two vessels, or (over difficult places), like the poles of a cas [sic], the axles, the spokes, the fellies (of two wheels): Be like two dogs, warding off injury to our persons, and, like two coats of mail, defend us from decay.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the Aśvin gods are prayed, by many illustrations, to carry us, who offer praise, out of our troubles.
+
+नावेव नः पारयतं—हे अश्विनौ नावाविव सिंधून् दुर्गाणि पारयतं । (*nāveva naḥ pārayataṃ—he aśvinau nāvāviva siṃdhūn durgāṇi pārayataṃ |*) O Aśvin gods, as a boat or ferry carries across rivers, remove our difficulties and carry us across our troubles. As rivers are crossed easily by a boat, so by your grace make us escape from our troubles — this is the sense.
+
 ---
 
-**Progress note:** Done through printed p. 374 (PDF 374). Sukta 39 Rk 1 and Rk 2 complete; p. 373 merged in supplied text (marker inserted by hand); flags: Samhita pratrarya-vana vs Pada pratahyavana, pratipadartha ajiva, Nirukta etymology arthorthe with Latin S as supplied, bhashya label garbled and replaced, ornament line kept as note
+**Progress note:** Done through printed p. 377 (PDF 377). Sukta 39 Rk 3 and Rk 4 complete (Rk 4 Special Topics may continue on p. 378); flags: bhashya pratyarnagabhimukha as supplied, pratipadartha yugeva 'rogas' vs Bhavartha 'nogas', 'asman' spelt with long a, printed 'cas' sic, stray line 'Bhanuvara' kept, squiggle note, Rk 4 Pada hyphen/S joined by hand, one accent DIFF
