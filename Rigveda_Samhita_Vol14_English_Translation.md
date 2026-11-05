@@ -34223,6 +34223,92 @@ In this Ṛk the many kinds of greatness of Bṛhaspati are described. Bṛhaspa
 
 ब्रह्मणस्पते (ब्रह्मणस्पते (*brahmaṇaspate*))—O Brahmaṇaspati. सुगोपाः (सुगोपाः (*sugopāḥ*))—thou, the excellent protector. यं (यं (*yaṃ*))—which man. रक्षसि (रक्षिसि (*rakṣisi*) [sic], as supplied)—thou protectest. तं (तं (*taṃ*))—that man. अंहः (अंधः (*aṃdhaḥ*) [sic], as supplied)—मुक्खवु (*mukkhavu*) [sic] *(the Pratipadārtha breaks off here at the end of printed p. 922; the word as supplied is doubtful, probably an OCR slip, and is not translated)*.
 
+### Printed p. 923
+
+*(Header: "[A. 2. A. 6 V. 29] Ṛgveda-saṃhitā 923", as supplied.)*
+
+न (*na*) (बाधते (*bādhate*))—does not afflict. दुरितं (*duritaṃ*)—sin. न (*na*)—does not afflict. अरातॆयः (*arātèyaḥ*) [sic, as supplied]—the harming enemies. कुतश्चन (*kutaścana*)—from any direction. न तितिरुः (*na titiruḥ*)—cannot harm. द्वयाविनः (*dvayāvinaḥ*)—deceivers. न (*na*)—cannot harm. ध्वरसः (*dhvarasaḥ*)—the harm-causing. विश्वाः इत् (*viśvāḥ it*)—the whole host of evil ones. वि बाधसे (*vi bādhase*)—thou harmest and drivest away.
+
+**भावार्थ (Bhāvārtha)**
+
+O Brahmaṇaspati, the man whom thou, the excellent protector, guardest, sin does not afflict. Neither sorrow nor enemies, who are harmful and deceitful, can harm him. Thou harmest and drivest away the whole host of evil ones that is harmful to him.
+
+**Printed English translation**
+
+The man whom you, Brahmanaspathi, a kind protector, defend,
+neither sorrow nor sin, nor adversaries, nor dissemblers ever harm, for you
+drive away from him all injurious(things).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Because the word Brahmaṇaspati occurs in this Ṛk, Brahmaṇaspati himself is the subject of the Ṛk *(supplied text: "ಪ್ರತಿ ಪಾರ್ಯನು", an apparent slip for "pratipādya", not corrected)*. For the man protected by him, sorrow and poverty do not arise, enemies do not harm him, and he does not come under the affliction of deceivers and other wicked people; thus the greatness of Brahmaṇaspati is described here.
+
+अंहः (*aṃhaḥ*)—the explanation of the meaning of this word was given in the previous Ṛk; one may see it there.
+
+दुरितं (*duritaṃ*)—for the word दुरित (*durita*) Yāska states the etymology दुरितं । दुर्गतिगमनानि सर्वाणि (*duritaṃ | durgatigamanāni sarvāṇi*) (Ni. 6-12). That is, दुर्गतिप्रापकाणि कर्माणि (*durgatiprāpakāṇi karmāṇi*)—deeds that cause an evil end, that is, sinful acts, is the meaning.
+
+द्वयाविनः (*dvayāvinaḥ*)—मनस्यन्यत्क्रियायां चान्यदित्येतद्वयं येषामस्ति ते द्वयाविनो वंचकाः (*manasyanyatkriyāyāṃ cānyadityetadvayaṃ yeṣāmasti te dvayāvino vaṃcakāḥ*). Deceivers who have an evil intention in the mind to do harm, yet pose as good people while speaking only good words with the mouth, are called द्वयाविनः (*dvayāvinaḥ*). Good people are those who have one and the same feeling in mind and in action; those who act contrary to this are the wicked, the deceivers.
+
+ध्वरसः (*dhvarasaḥ*)—since there is the Nirukta statement ध्वरतिर्हिंसाकर्मा (*dhvaratirhiṃsākarmā*) (Ni. 1-8), ध्वरसः (*dhvarasaḥ*) means acts of harm, or those who cause harm.
+
+### Printed p. 924
+
+*(Header: "924 Sāyaṇa-bhāṣya-sahitā [Maṃ. 2. A. 3. Sū. 23]", as supplied.)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> त्वं नो॑ गो॒पाः प॑थि॒कृद्वि॑चक्ष॒णस्तव॑ व्र॒ताय॑ म॒तिभि॑र्जरामहे ।
+> बृह॑स्पते॒ यो नो॑ अ॒भि ह्वरो॑ द॒धे स्वा तं म॑र्मतुर् दु॒च्चुना॒ हर॑स्वती ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । नः । गोपाः । पथिकृत् । विचक्षणः । तव । व्रताय । मतिभिः । जरामहे ।
+> बृहस्पते । यः । नः । अभि । ह्वरः । दधे । स्वा । तं । मर्मर्तु । दुच्चुना । हरस्वती ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते त्वं नोऽस्माकं गोपाः पालयिता पथिकृत् सन्मार्गश्च भवसि
+> विचक्षणो विशेषेण द्रष्टा सर्वज्ञस्त्वं । तव व्रताय त्वत्संबंधिने यज्ञाय मतिभिः
+> स्तोत्रैर्जरामहे । स्तुमः ॥ जरतिः स्तुतिकर्मा॥ यः पुमान् नोऽस्मानभि अभिलक्ष्य
+> ह्वरः ॥ ह्वृ कौटिल्ये । भावेऽसुन् ॥ कौटिल्यं दधे विदधाति तं स्वा स्वीया दुच्चुना
+> दुर्बुद्धिर्हरस्वती वेगवती सती मर्मर्तु । मोचयतु ॥ मृज् प्राणत्यागे ।
+> अंतर्भावितण्यर्थस्य यज्‌लुकि लोट रूपं ॥
+
+*Gist: Bṛhaspati is our protector, guide and all-seeing; we praise him with hymns at his sacrifice, and may the swift malice of whoever practises deceit against us destroy that man himself. The grammatical tail is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+बृहस्पते (*bṛhaspate*)—O Bṛhaspati. तं (*taṃ*) [sic, for त्वं (*tvaṃ*); as supplied]—thou. नः (*naḥ*)—to us. गोपाः (*gopāḥ*)—protector. पथिकृत् (*pathikṛt*)—guide of the way thou art. विचक्षणः (*vicakṣaṇaḥ*)—thou art all-knowing. तव (*tava*)—directed to thee. व्रताय (*vratāya*)—for the sacrifice. मतिभिः (*matibhiḥ*)—with hymns. जरामहे (*jarāmahe*)—we pray. यः (*yaḥ*)—who. नः अभि (*naḥ abhi*)—towards us. ह्वरः (*hvaraḥ*)—deceit. दधे (*dadhe*)—practises. तं (*taṃ*)—that wicked man. स्वा दुच्चुना (*svā duccunā*)—his own evil intention itself. हरस्वती (*harasvatī*)—having become of intense power. मर्मर्तु (*marmartu*)—may destroy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, thou art our protector and guide of the way. Thou art all-knowing. We pray with hymns for the sacrifice directed to thee. May the evil intention of that wicked man who practises deceit against us, itself becoming of intense power, destroy him.
+
+### Printed p. 925
+
+*(Header: "[A. 2 A. 6 V. 30] Ṛgveda-saṃhitā 925", as supplied.)*
+
+**Printed English translation**
+
+You, Brihaspati, are our protector, and the guide of(our) path:(you
+are) the discerner(of all things): we worship with praises for your adoration:
+may his own precipitate malice involve him(in destruction) who practises
+deceit against us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*(The supplied text prints the heading as "ವಿಶೇಷವಿವರಗಳು" (viśeṣavivaragaḷu), unmarked and run on directly after the English; the Kannada file gives the standard label.)*
+
+पथिकृत् (*pathikṛt*)—सन्मार्गश्च भविसि (*sanmārgaśca bhavisi*) [sic, as supplied]. One who makes people walk in the good way, a guide of the good way.
+
+व्रताय (*vratāya*)—त्वत्संबंधिने यज्ञाय (*tvatsaṃbaṃdhine yajñāya*): the sacrifice performed with thee in view is the meaning. There is an etymology: व्रतमिति कर्मनाम वृणोतीति सतः (*vratamiti karmanāma vṛṇotīti sataḥ*) (Ni. 2-13). That is, the word व्रत (*vrata*) has the meaning "work", because this word is formed from the root वृञ् वरणे (*vṛñ varaṇe*) and gives the sense "covers". Because work, good or bad, always covers (clings to) the doer, व्रत (*vrata*) is called work. Or: अन्नमपि व्रतमुच्यते यदा वृणोति शरीरं (*annamapi vratamucyate yadā vṛṇoti śarīraṃ*). Food too is called व्रत (*vrata*), because food pervades the body; that is, food enters the blood, spreads through the whole body and produces nourishment. Therefore the word व्रत (*vrata*) also means food. And: इदमपीतरत् व्रतमेतस्मादेव निवृत्ति कर्म वारयतीति सतः (*idamapītarat vratametasmādeva nivṛtti karma vārayatīti sataḥ*). Besides the ordinary meaning "work", the word व्रत (*vrata*) also means "work of abstention", because in this sense it is formed from the root वारयति (*vārayati*), meaning "restrain, hold back", and holds the mind back from bad pursuits, that is, from infatuation with women and the like. Thus Yāska has given three kinds of explanation for the word व्रत (*vrata*).
+
+मतिभिः (*matibhiḥ*)—स्तोत्रैः (*stotraiḥ*): with mantras of the nature of meditation, or with hymns, is the meaning.
+
+ह्वरः (*hvaraḥ*)—the word ह्वरः (*hvaraḥ*) is read among the names of anger (Ni. 3-9). Since this word is formed from the root ह्वृ कौटिल्ये (*hvṛ kauṭilye*), the word ह्वर (*hvara*) can be said to have the meanings crooked (deceitful) nature, evil mind, anger.
+
 ---
 
-**Progress note:** Done through printed p. 922 (PDF 922). Sukta 23 Rik 4 complete (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English, Special Topics: amhah, brahmadvishah); Rik 5 opened (Samhita, Pada, bhashya, Pratipadartha begun)
+**Progress note:** Done through printed p. 925 (PDF 925). Sukta 23 Rik 5 completed (Pratipadartha, Bhavartha, printed English, Special Topics: duritam, dvayavinah, dhvarasah); Rik 6 complete through Special Topics (pathikrt, vrata, mati, hvarah)
