@@ -67,3 +67,15 @@ Because the agent can zoom, no separate zoom-fix pass is needed for readings it 
 3. Write `volcfg.json` for Vol 14 first (proves the format), then Vol 15.
 4. Dry-run `batch.py` on a chunk from an already translated volume and compare with the existing text.
 5. Write `tools/rv/TRANSLATOR_RULES.md` from the Vol 14 runbook and API prompt (one version, used by the dispatcher for every batch).
+
+## 5. Open design question: which script is the primary reading? (raised Nov 5 2026, not tested)
+
+**Evidence from Vol 11** (English file vs Kannada file, same single viewing): 701 pages compared; `[?]` counts per page correlate at 0.92; 618 pages have `[?]` in both files, 12 only in the Kannada one, 11 only in the English one. The Kannada file's Sanskrit layers (bhāṣya, Saṃhitā, Pada) were converted by script from the Devanagari, so every misread letter appears in both files. Unique doubts in Vol 11: bhāṣya 1,396 (954 on Devanagari lines), Special Topics 1,930 (mostly numerals), grammar 593 (almost all numerals).
+
+**Vol 11 routine:** page image (Kannada script) -> model reads and converts in its head -> Devanagari -> script -> Kannada file.
+
+**Idea for Vol 15+ (to be tested on a few pages before adoption):** page image -> model transcribes the Sanskrit in **Kannada script** (same script as the page, easier to compare with the image) -> script converts Kannada -> Devanagari and IAST. This removes the model's mental conversion step and makes the Kannada file the primary reading. Needed: a Kannada -> Devanagari converter (the repo has only `publish/tools/translit/deva_to_kannada.py`; `indic_transliteration` can probably do both directions) and a check that it handles this print's conventions (hooked ma/ya, ಜ/ಙ, anusvāra/visarga, the compound mark in Pada lines).
+
+**Test to run first:** take 5 pages of an already translated volume (e.g. Vol 13), have the translator transcribe the bhāṣya in Kannada script, convert by script, and compare with the existing Devanagari. Differences are either converter problems or reading problems; look at each against the page. Only if the converted text is at least as accurate as the current Devanagari, adopt it.
+
+Not done: nothing here has been built or measured beyond the Vol 11 figures above.
