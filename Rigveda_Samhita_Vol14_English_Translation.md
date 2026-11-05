@@ -31343,12 +31343,20 @@ In this Ṛk the sage describes that, so that Indra may come to the sacrificial 
 
 #### Ṛk 4
 
-*(The supplied text gives the Saṃhitā of this Ṛk only inside a garbled figure caption, mixed Devanagari and Kannada with an extraneous heading "406 kāvyaḥ"; it is not reproduced here and is left for the user. The Pada is taken from the same caption.)*
+*(The Saṃhitā of this Ṛk is not readable in the text of the supplied file: it stands there only as a picture embedded in the file, with a garbled machine reading as its caption. It is read here from that picture, letter for letter. The Pada under it was likewise taken from the picture; it prints "करिति कः" (*kariti kaḥ*) as given.)*
+
+**॥ संहितापाठः ॥**
+
+> आ द्वाभ्यां॒ हरि॑भ्यामिन्द्र या॒ह्या च॒तुर्भि॒रा ष॒ड्भिर्हू॒यमा॑नः ।
+> आष्टा॒भिर्द॒शभिः॑ सोम॒पेय॑म॒यं सु॒तः सु॑मख॒ मा मृध॑स्कः ॥ ४ ॥
+
+> *ā dvābhyāṃ haribhyāmindra yāhyā caturbhirā ṣaḍbhirhūyamānaḥ |*
+> *āṣṭābhirdaśabhiḥ somapeyamayaṃ sutaḥ sumakha mā mṛdhaskaḥ ‖ 4 ‖*
 
 **॥ पदपाठः ॥**
 
 > आ । द्वाभ्यां । हरिभ्यां । इन्द्र । याहि । आ । चतुःभिः । आ । षट्भिः । हूयमान ।
-> आ । अष्टाभिः । दशभिः । सोमपेयं । अयं । सुतः । सुमख । मा । मृधः । करिति कः [?] ॥ ४ ॥
+> आ । अष्टाभिः । दशभिः । सोमपेयं । अयं । सुतः । सुमख । मा । मृधः । करिति कः ॥ ४ ॥
 
 **॥ सायणभाष्यम् ॥**
 
