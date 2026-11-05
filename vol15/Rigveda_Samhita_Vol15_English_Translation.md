@@ -8780,6 +8780,99 @@ The grandson of the waters is of golden form, of golden aspect, of golden hue, a
 
 अस्मै हिरण्यदाः अन्नं ददति (*asmai hiraṇyadāḥ annaṃ dadati*) — ईदृग्विधाय अपां नपाते दक्षिणारूपस्य दातारः यजमानाः हविर्लक्षणमन्नं प्रयच्छंति (*īdṛgvidhāya apāṃ napāte dakṣiṇārūpasya dātāraḥ yajamānāḥ havirlakṣaṇamannaṃ prayacchaṃti*). Addressing this deity of such abundant power, the sacrificers are described as giving gold as the sacrificial fee and offering food in the form of oblation.
 
+### Printed p. 279
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> तद॒स्यानी॑कमु॒त चारु॒ नामा॑पी॒च्यं॑ वर्धते॒ नपु॑र॒पां ।
+> यमिं॒धते॑ युव॒तयः॒ समि॒त्था हिर॑ण्यवर्णं घृ॒तमन्न॑मस्य ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> तत् । अस्य । अनेकं । उत । चारु । नाम । अपीच्यं । वर्धते । नपुः । अपां ।
+> यं । इंथते । युवतयः । सं । इत्था । हिरण्यवर्णं । घृतं । अन्नं । अस्य ॥११॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्यापांनपुर्देवस्यानीकं रश्मिसमूहरूपं शरीरं चारु शोभनं । उत
+> अपि च अस्य नाम संज्ञा च चारु शोभनं न पातयति न विनाशयतीति नपादिति
+> तद्व्युत्पत्तेः । तदुभयमपीच्यं । अंतर्हितनामैतत् । मेघांतर्हितं सद्वर्धते ।
+> युवतयः संगमनस्वभावा आपो हिरण्यवर्णं हिरण्यसमानतेजसं यमपांनपात-
+> मित्थामुत्रांतरिक्षे समिंधते । सम्यक् दीपयंति । अस्य च देवस्य धृतं क्षरणशील-
+> मुदकमन्नं भक्ष्यं । अबंधनो ह्यसौ वैद्युतोऽग्निः ॥
+
+*Gist: his body of massed rays and his name are both beautiful; hidden in the cloud they grow; the youthful waters kindle him in the firmament; water is his food.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+हिरण्यवर्णं (*hiraṇyavarṇaṃ*) — of form attractive like gold; यं (*yaṃ*) — whom, the Agni called Apāṃ napāt; युवतयः (*yuvatayaḥ*) — the waters, having the nature of joining together; इत्था (*itthā*) — in the firmament; सं इंधते (*saṃ iṃdhate*) — cause to blaze; अस्य (*asya*) — of such; अपां नप्तुः (*apāṃ naptuḥ*) — of the grandson of the waters, Agni; तत् अनेकं (*tat anekaṃ*) — that body, of the form of a mass of rays; चारु (*cāru*) — is charming; उत (*uta*) — and; नाम (*nāma*) — the name of this Agni too is attractive to the mind (this form and name, both attractive); अपीच्यं (*apīcyaṃ*) — hidden within the cloud; वर्धते (*vardhate*) — they grow; अस्य (*asya*) — to this deity; धृतं (*dhṛtaṃ*) — water; अन्नं (*annaṃ*) — is nourishing food.
+
+**भावार्थ (Bhāvārtha)**
+
+The waters, which have the nature of joining together, cause to blaze in the firmament the Agni called Apāṃ napāt, whose form is attractive like gold; the body of this grandson of the waters, in the form of a mass of rays, is charming. The name of this Agni too is charming. This attractive form and name, both of them, grow while hidden within the cloud. For this deity water is nourishing food.
+
+### Printed p. 280
+
+**Printed English**
+
+Beautiful is his form (of aggregated lustre, beautiful) is the name of the grandson of the waters; (both) flourish, though hidden (by the clouds); the youthful waters collectively kindle the golden-coloured divinity in the firmament, for water is his food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अस्यं अनेकं चारु—रश्मिसमूहरूपं शरीरं शोभनं (*asyaṃ anekaṃ cāru—raśmisamūharūpaṃ śarīraṃ śobhanaṃ*) — Taking the word *anīka* to mean a body in the form of a mass of rays, the body of this deity is handsome, being endowed with a multitude of rays (radiances).
+
+अस्य नाम चारु—अस्य संज्ञाच चारु शोभनं। न पातयति न विनाशयशीति नपादिति व्युत्पत्तेः। (*asya nāma cāru—asya saṃjñāca cāru śobhanaṃ| na pātayati na vināśayaśīti napāditi vyutpatteḥ|*) — The word *napāt* means "one who does not make fall" (*na pātayati*, does not abandon) or "one who does not destroy" (*na vināśayati*, does not bring to ruin). Hence this deity does not abandon or cast down or destroy those who have taken refuge in him, and for this reason the name of this deity too is auspicious.
+
+यं युवतयः अपीच्यं हिरण्यवर्णं इत्था समिंधते — संगमनस्वभावाः आपः मेघांतर्हितं हिरण्यसमानतेजसं अमुत्रांतरिक्षे समिंधते । (*yaṃ yuvatayaḥ apīcyaṃ hiraṇyavarṇaṃ itthā samiṃdhate — saṃgamanasvabhāvāḥ āpaḥ meghāṃtarhitaṃ hiraṇyasamānatejasaṃ amutrāṃtarikṣe samiṃdhate |*) The deity Apāṃ napāt is hidden in the midst of the clouds and has a lustre equal to gold. The waters, which have the nature of flowing or pervading, make this deity grow in the firmament. And in अस्य धृतं अन्नं—अस्य च देवस्य क्षरणशीलमुदकं भक्ष्यं । (*asya dhṛtaṃ annaṃ—asya ca devasya kṣaraṇaśīlamudakaṃ bhakṣyaṃ |*) the food of this deity is just the water, of flowing nature; and it is described that this deity is the lightning-fire, which is delightful (अभिनंदनवागिरुव (*abhinaṃdanavāgiruva*) in the Kannada explanation).
+
+अपीच्यं (*apīcyaṃ*) — this word is stated by Yāska (Nir. 3-19) among the names of hidden things.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मै ब॑हू॒नाम॑व॒माय॒ सख्ये॑ य॒ज्ञैर्वि॑धेम॒ नम॑सा ह॒विर्भिः॑ ।
+> सं सानु॒ मार्ज्मि॒ दिधि॑षामि॒ बिल्मै॒र्दधा॒म्यन्नैः॒ परि॑ वंद ऋ॒ग्भिः॥१२॥
+
+> *asmai bahūnāmavamāya sakhye yajñairvidhema namasā havirbhiḥ |*
+> *saṃ sānu mārjmi didhiṣāmi bilmairdadhāmyannaiḥ pari vaṃda ṛgbhiḥ‖12‖*
+
+### Printed p. 281
+
+**॥ पदपाठः ॥**
+
+> अस्मै । बहूनां । अवमाय । सख्ये । यज्ञैः । विधेम । नमसा । हविभिः ।
+> सं । सानु । मार्ज्मि । दिधिषामि । बिल्मैः । दधामि । अन्नैः । परि । वंदे । ऋक्भिः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्मै पुरोवर्तिने बहूनां देवानामवमायाद्याय सख्येSस्माभिः
+> समानख्यानायापां नपाते यज्ञैर्यागसाधनैर्हविर्भिश्चरुपुरोडाशादिभिर्नमसा
+> नमस्कारेण च विधेम । परिचरेम । अस्यापांनपातः नानु समुच्च्रतप्रदेशं
+> संमार्ज्जि । सम्यक् शोधयामि अलंकरोमि ना ॥ मृजू शौचालंकारयोः ।
+> चादिलोपे विभाषेत्यस्य निघातप्रतिषेधः ॥ दिधिषामि धारयामि च बिल्मैर्भासनैः
+> काष्ठैरेनं ॥ धिष शब्दे । अयं धारणार्थोSपि । जुहोत्यादित्वात् शपः श्लुः । मिपो
+> व्यत्ययेनाडागमः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ दधामि धारयामि चैनं
+> गार्हपत्यादिरूपेणान्नैर्हविलक्षणैः । तथा ऋग्निर्मंत्रैः परिवंदे । परितः सौमि ॥
+
+*Gist: to this first of many deities, our friend, we offer worship with sacrifices, oblations and homage; I adorn his high place, feed him with kindling wood and food, and praise him with Ṛks.*
+
+The grammatical tail of the bhāṣya (on the root *mṛj*, accent-suppression, *dhiṣ*, the reduplicated present and its accent) is transcribed above and not explained.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+बहूनां (*bahūnāṃ*) — among many deities; अवमाय (*avamāya*) — the first one; सख्ये (*sakhye*) — who is our friend; अस्मै (*asmai*) — to this Agni called Apāṃ napāt [sic, supplied text reads अपानं पात् (*apānaṃ pāt*)]; यज्ञैः (*yajñaiḥ*) — which are means of sacrifice; हविर्भिः (*havirbhiḥ*) — with oblations such as *caru* and *purodāśa*; नमसा (*namasā*) — with salutations; विधेम (*vidhema*) — I offer service; सानु (*sānu*) — the high place of Agni; सं मार्ज्मि (*saṃ mārjmi*) — I cleanse and adorn; बिल्मैः (*bilmaiḥ*) — with fuel that makes him blaze; दिधिषामि (*didhiṣāmi*) — I nourish; अन्नैः (*annaiḥ*) — with food in the form of oblations; दधामि (*dadhāmi*) — I support; ऋग्भिः (*ṛgbhiḥ*) — with hymns of praise; परि वंदे (*pari vaṃde*) — I salute, circumambulating.
+
+**भावार्थ (Bhāvārtha)**
+
+To this Agni called Apāṃ napāt, the first among many deities and our friend, I render service with the sacrificial *caru* and *purodāśa* and with salutations. I cleanse and adorn the high place of this Agni. I nourish him with fuel that makes him blaze. I support him with food in the form of oblations. With hymns of praise I salute him, circumambulating.
+
+**Printed English**
+
+To him our friend, the first of many (deities), we offer worship with sacrifices, oblations, and prostration: I decorate the high place
+
 ---
 
-**Progress note:** Done through printed p. 278 (PDF 278). Sūkta 35 Ṛk 9 complete (Pratipadārtha end, Bhāvārtha, printed English, Special Topics), Ṛk 10 complete (pp. 277-278); kn.md hand-fixes: garbled Bhāvārtha label, Tamil Kural couplet at head of p. 277 made an italic note (not translated), garbled varga-end mark noted not read; OCR slips kept: ಜಿಹ್ವಾನಾಂ/ಅಪಾಂ ನಷ್ಟೇ, ನಿಷ ದ್ಯ, ನಿಸದ್ಯ (Pada Ṛk 10)
+**Progress note:** Done through printed p. 281 (PDF 281). Sūkta 35 Ṛk 11 complete, Ṛk 12 begun (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha; printed English cut at end of p. 281, continues on p. 282); kn.md hand-fixes: garbled Pada and bhāṣya labels replaced by standard ones; OCR slips kept: ಅಪಾನಂ ಪಾತ್ (Ṛk 12 Pratipadārtha), ನಾನು/ನಾ in bhāṣya Ṛk 12, ನಶೀತಿ in Special Topics
