@@ -34403,6 +34403,106 @@ he has given, for the word अरातयः (*arātayaḥ*) occurring in it, t
 
 *Gist: Bṛhaspati, protector and speaker for us, who desires us, is invoked; he is asked to destroy the gods' revilers and not to let evil-minded enemies attain a better happiness. The printed page ends here.*
 
+### Printed p. 929
+
+*(Header: Ṛgveda-saṃhitā, page 929; the start of the supplied header is garbled.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अवस्पर्तः (*avaspartaḥ*)—one who protects from troubles. बृहस्पते (*bṛhaspate*)—O Bṛhaspati. तनूनां (*tanūnāṃ*)—of our bodies, or of our sons. त्रातारं (*trātāraṃ*)—protector. अधिवक्तारं (*adhivaktāraṃ*)—one who, out of affection, speaks to us encouraging words. अस्मयुं (*asmayuṃ*)—one who, because we offer oblations, desires us; (the supplied text then has अद (*ada*), apparently for आद (*āda*) "being"; not corrected). त्वा (*tvā*)—you. हवामहे (*havāmahe*)—we call. देवनिदः (*devanidaḥ*)—the asuras who revile (the supplied text reads "ದೇಹ", apparently for "ದೇವ", gods; not corrected). निबर्हय (*nibarhaya*)—destroy. दुरेवाः (*durevāḥ*)—enemies of evil mind. उत्तरं (*uttaraṃ*)—excellent. सुम्मं (*summaṃ*)—happiness. मा उन्नशन् (*mā unnaśan*)—may they not attain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, who saves from troubles, we call you, who protect our sons, who out of affection speak to us encouraging words, and who desire us because we offer oblations. Destroy the asuras who revile the gods. May the enemies of evil mind not attain excellent happiness.
+
+**Printed English translation**
+
+Brihaspati, defender(from calamity), we invoke you, the protector of our persons, the speaker of encouraging words, and well disposed towards us: do you destroy the revilers of the gods: let not the malevolent attain supreme felicity.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+तेनूनां (*tenūnāṃ*) (the supplied text reads thus, apparently for तनूनां (*tanūnāṃ*); not corrected)—अंगानां पुत्रादीनां वा (*aṃgānāṃ putrādīnāṃ vā*), of limbs, or of sons and the like. Two meanings can be given: "of the parts of our body" or "of our sons".
+
+अवस्पर्तः (*avaspartaḥ*)—उपद्रवेभ्यः पारयितः (*upadravebhyaḥ pārayitaḥ*); or अवसा रक्षणेनापद्भ्यः पारयितः (*avasā rakṣaṇenāpadbhyaḥ pārayitaḥ*). One who carries us over troubles and the like; or, since the word अवस् (*avas*) has the meaning protection or food, the sense may also be given: one who gives us food and the like, or protections, and so saves us from calamities.
+
+अधिवक्तारं (*adhivaktāraṃ*)—अस्मासु पक्षपातेनाधिकं वक्तारं (*asmāsu pakṣapātenādhikaṃ vaktāraṃ*). Because Bṛhaspati has great affection and trust toward us, the meaning is: one who speaks encouraging (special) words in our matter.
+
+आस्मयुं (*āsmayuṃ*) (as supplied)—हविष्पदानस्मान् कामयमानं त्वां (*haviṣpadānasmān kāmayamānaṃ tvāṃ*). You, who with a kindly mind desire us who offer oblations.
+
+### Printed p. 930
+
+*(Header: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 23, page 930, as supplied.)*
+
+दुरेवाः (*durevāḥ*)—दुष्टगमना दुर्बुद्धयः शत्रवः (*duṣṭagamanā durbuddhayaḥ śatravaḥ*). Those who proceed along an evil path, those of evil mind; that is, the meaning is enemies.
+
+#### Ṛk 9
+
+*(The supplied text has the label before the Saṃhitā garbled; it is given as the standard label. The first line of the Saṃhitā survives only inside a stray HTML title attribute, partly in Devanagari with slips; converted as supplied and the doubtful words marked [?]: सूपृधा (*sūpṛdhā*) against the Pada's सुवृधा (*suvṛdhā*), स्वाह्ना (*svāhnā*) (the Pada also has स्वाह्ना (*svāhnā*), the Pratipadārtha स्वार्हा (*svārhā*)), मनुष्पा (*manuṣpā*) against the Pada's मनुष्या (*manuṣyā*), ददौमहि (*dadaumahi*) against the Pada's ददीमहि (*dadīmahi*). In the Pada the supplied text reads जम्भयॆ (*jambhayè*) and lacks the stroke after तळितः (*taḷitaḥ*); not corrected. The Saṃhitā has the Kannada letter ळ (*ḷa*) in तळितो (*taḷito*), converted to ळ.)*
+
+**॥ संहितापाठः ॥**
+
+> त्वया वयं सूपृधा [?] ब्रह्मणस्पते स्वाह्ना [?] वसु मनुष्पा [?]
+> ददौमहि [?] ।
+> या नो॑ दू॒रे त॒ळितो॒ या अरा॑तयो॒ऽभि सन्ति॑ ज॒म्भया॒ ता अ॑न॒प्नसः॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वया । वयं । सुवृधा । ब्रह्मणः । पते । स्वाह्ना । वसु । मनुष्या । आ । ददी-
+> महि ।
+> याः । नः । दूरे । तळितः याः । अरातयः । अभि । सन्ति । जम्भयॆ। ताः । अनप्नसः॥९॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते सुवृधा सुष्टु वर्धयित्रा त्वया हेतुना वयं स्पार्हा
+> स्पृहणीयानि वसु धनानि मनुष्या ॥ सुपां सुलुगिति चतुर्थिबहुवचनस्याकारः ॥
+> मनुष्येभ्यो वातृभ्य आददीमहि । गृष्णीमहे ॥ आजो दोऽनास्यविहरण इत्या-
+> त्मनेपदं ॥ दूरे दूरदेशे या अरातयः याश्च तळितोऽंतिकेऽरातयो नोs-
+> स्मानभि संति । अभि भवंति । अनप्नसः कर्महीनान् ता अरातीस्तान् शत्रून् जंभय ।
+> नाशय ॥ जभि नाशने चुरादिः ॥ अत्र निरुक्तं । त्वया वयं सुवर्धयित्रा ब्रह्मणस्पते
+> स्पृहणीयानि वसूनि मनुष्येभ्य आददीमहि याश्च नो दूरे तळितो याश्चांति-
+> केऽरातयोऽदानकर्माणो वादानप्रज्ञा वा जंभय ता अनप्नसोऽप्प इति रूप-
+> नाम । नि. ३-११ । इति ॥
+
+*Gist: Brahmaṇaspati, as our promoter we take desirable wealth from givers through you; destroy the actionless enemies, near or far, who overcome us. The Nirukta reference is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ब्रह्मणस्पते (*brahmaṇaspate*)—O Brahmaṇaspati. सुवृधा (*suvṛdhā*)—(you who) bring us to prosperity. त्वया (*tvayā*)—by your help. वयं (*vayaṃ*)—we. स्वार्हा (*svārhā*) (as supplied)—much desired. वसु (*vasu*)—wealth(s) (the Kannada plural ending continues on the next page)
+
+### Printed p. 931
+
+*(Header: Ṛgveda-saṃhitā, page 931, as supplied.)*
+
+(continued from the previous page: गळन्नु (*gaḷannu*), the accusative plural ending of "wealths".) मनुष्या (*manuṣyā*)—from men who are givers. आ ददीमहि (*ā dadīmahi*)—we receive. याः अरातयः (*yāḥ arātayaḥ*)—which enemies. दूरे (*dūre*)—being in a far-off place, (and). याः (*yāḥ*)—which enemies. तळितः (*taḷitaḥ*)—being near. नः (*naḥ*)—us. अभि संति (*abhi saṃti*)—defeat and harm. अनप्नसः (*anapnasaḥ*)—actionless. ताः (*tāḥ*)—those enemies. जंभय (*jaṃbhaya*)—destroy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Brahmaṇaspati, by your help, who bring us to prosperity, we receive much-desired wealth from men who are givers. Destroy those actionless enemies, whether far off or near, who defeat and harm us.
+
+**Printed English translation**
+
+Through you, Brahmanaspati,(our) benefactor, may we obtain desirable wealth from men: destroy those(our) unrighteous enemies, whether nigh or far off, who prevail against us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुवृधा (*suvṛdhā*)—सुष्टु वर्धयित्रा त्वया (*suṣṭu vardhayitrā tvayā*). By you, who protect us well and make us prosper.
+
+तळितः (*taḷitaḥ*)—since the word तळित् (*taḷit*) is read among the eleven names of nearness, तळितः (*taḷitaḥ*) means "near" (Ni. 3-9).
+
+अनप्नसः (*anapnasaḥ*)—the word अप्पः (*appaḥ*) is read among the names of action (Ni. 3-1). अनप्नसः (*anapnasaḥ*) means, in the opposite sense, कर्महीनान् (*karmahīnān*), those who do not perform actions (sacrifices and other good works): wicked men, asuras and the like.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> त्वया॑ व॒यमु॑त्त॒मं धी॑महे॒ वयो॒ बृह॑स्पते॒ पप्रि॑णा॒ सस्नि॑ना यु॒जा ।
+> मा नो॑ दुः॒शंसो॑ अभिदि॒प्सुरी॑शत॒ प्र सु॒शंसा॑ म॒तिभि॑स्तारिषी-
+> महि ॥ १० ॥
+
+> *tvayā vayamuttamaṃ dhīmahe vayo bṛhaspate papriṇā sasninā yujā |*
+> *mā no duḥśaṃso abhidipsurīśata pra suśaṃsā matibhistāriṣī-*
+> *mahi ‖ 10 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 928 (PDF 928). Sukta 23 Rik 7 complete through Special Topics (arativa, vrka, devavitaye, suga, anagasah); Rik 8 Samhita, Pada, Bhasya given; text ends at printed p. 928 of this window
+**Progress note:** Done through printed p. 931 (PDF 931). Sukta 23 Rik 8 Pratipadartha/Bhavartha/English/Special Topics; Rik 9 complete; Rik 10 Samhita given; Rik 9 Samhita first line from stray title attribute with slips marked [?]
