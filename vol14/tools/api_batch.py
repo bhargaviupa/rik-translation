@@ -27,7 +27,7 @@ def main():
     if want and cur!=want and not os.environ.get('ALLOW_OTHER_BRANCH'):
         print(f'STOP: you are on branch {cur!r}, but Vol 14 runs belong on {want!r}. Run: git checkout {want}'); return 7
     import anthropic
-    cl=anthropic.Anthropic(api_key=os.environ['RIK_API_KEY'])
+    cl=anthropic.Anthropic(api_key=os.environ['RIK_API_KEY'],timeout=900.0,max_retries=2)
     sysprompt=''.join(open(os.path.join(ROOT,f)).read()+'\n\n=========\n\n' for f in ['CLAUDE.md','vol14/vol14_runbook.md'])+open(os.path.join(V,'API_PROMPT.md')).read()
     bs={'n':a.pages}
     for _ in range(a.loops):
@@ -62,7 +62,9 @@ def main():
                     for x in st.text_stream: txt+=x
                     fm=st.get_final_message(); u=fm.usage; stop=fm.stop_reason
                 break
-            except (anthropic.InternalServerError,anthropic.RateLimitError,anthropic.APIConnectionError,anthropic.APITimeoutError) as e:
+            except Exception as e:   # transient: overloaded / rate limit / connection dropped mid-stream (SSL read error); anything else is raised
+                transient=isinstance(e,(anthropic.InternalServerError,anthropic.RateLimitError,anthropic.APIConnectionError,anthropic.APITimeoutError,OSError)) or type(e).__module__.split('.')[0] in ('httpx','httpx2','httpcore','httpcore2','h11','h2','ssl','socket')
+                if not transient: raise
                 wait=[20,60,120,240,480,900][attempt]
                 print(f'API busy ({type(e).__name__}); retry {attempt+1}/6 in {wait}s',flush=True); time.sleep(wait)
         else:
