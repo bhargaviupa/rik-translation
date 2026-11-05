@@ -170,3 +170,5 @@ Accents re-run over all of Maṇḍala 2 (211 Saṃhitā lines, all accented) af
 Duplicate scan page PDF 671 (= 670; the print lacks p. 649 there). From PDF 672 printed = PDF − 23, numeral-file page = PDF − 5. Runner, numerals_for.py, doubt.py updated. Pages PDF 672-682 got numeral rows from the wrong file page (shifted by one; the translator noticed and read numerals from the strips). Done through printed p. 659 (PDF 682); next PDF 683 (printed 660).
 
 Sūkta 12 Ṛk 6 Saṃhitā: two short split lines accented by hand from the reference. Accent pass re-run over all Maṇḍala 2 (287 lines, all accented). Done through printed p. 737 (PDF 760); next PDF 761 (printed 738), Sūkta 14 Ṛk 6 open.
+
+Duplicate scan page PDF 783 (= 782). From PDF 784 printed = PDF − 24, numeral-file page = PDF − 6. Runner/numerals_for/doubt.py updated. Mac batches through printed p. 766 (PDF 790) merged; Sūkta 15 Ṛk 6 open (Viśeṣaviṣayagaḷu begun); next PDF 791 (printed 767). Accents: 311 Saṃhitā lines in Maṇḍala 2, all accented.

@@ -10,7 +10,7 @@ EN=os.path.join(ROOT,'Rigveda_Samhita_Vol14_English_Translation.md')
 COST=os.path.join(V,'parts','api_costs.jsonl'); DOUBTS=os.path.join(V,'review','api_doubts.tsv')
 PRICE=dict(inp=3.0,out=15.0)   # USD per million tokens; ASSUMED Sonnet-class list price, adjust with --price-in/--price-out
 def sh(c,**k): return subprocess.run(c,shell=True,capture_output=True,text=True,cwd=ROOT,**k)
-def printed(g): return g-18-(1 if g>=224 else 0)-(1 if g>=336 else 0)-(1 if g>=448 else 0)-(1 if g>=560 else 0)-(1 if g>=672 else 0)   # PDF 223, 335, 447, 559, 671 are duplicates of the previous page
+def printed(g): return g-18-(1 if g>=224 else 0)-(1 if g>=336 else 0)-(1 if g>=448 else 0)-(1 if g>=560 else 0)-(1 if g>=672 else 0)-(1 if g>=784 else 0)   # PDF 223, 335, 447, 559, 671, 783 are duplicates of the previous page
 def position():
     s=open(EN,encoding='utf8').read(); i=s.rfind('**Progress note:**'); note=s[i:]
     m=re.search(r'through printed p\. (\d+) \(PDF (\d+)\)',note); assert m,'no position in note'
@@ -34,7 +34,7 @@ def main():
         done,note,s=position(); pages=[]
         q=done+1
         while len(pages)<bs['n']:
-            if q not in (223,335,447,559,671): pages.append(q)
+            if q not in (223,335,447,559,671,783): pages.append(q)
             q+=1
         if any(p in (223,335) for p in pages): print('duplicate page in range; handle by hand',pages); return 2
         if spent()>=a.budget: print('budget reached',spent()); return 3
