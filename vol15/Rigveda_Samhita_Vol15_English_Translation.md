@@ -3028,6 +3028,94 @@ It is explained that for the sacrificer who has obtained the favour of the Ādit
 
 उभावर्धौ साधू—जगतः चराचरात्मकौ भागौ, मर्त्यामर्त्यात्मकौ वा । (*ubhāvardhau sādhū—jagataḥ carācarātmakau bhāgau, martyāmartyātmakau vā |*) The world is described as having two meanings: either it contains two kinds, the stationary (that does not move), in the form of trees, creepers and the like, and the moving, with beings able to move; or it contains two kinds of beings, those subject to death and those not subject to death, i.e. gods and mortals. All these are explained as becoming favourable and effective for the sacrificer.
 
+### Printed p. 99
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> या वो॑ मा॒या अ॑भि॒द्रुहे॑ यजत्राः॒ पाशा॑ आदित्या रि॒पवे॒ विचृ॑त्ताः ।
+> अ॒श्वीव॒ ता अति॑ येषं॒ रथे॒नारि॑ष्टा उ॒रावा [?] शर्म॑न्ताम ॥ १६ ॥
+
+**॥ पदपाठः ॥**
+
+> याः । वः । मायाः । अभिद्रुहे । यजत्राः । पाशाः । आदित्याः । रिपवे । विचृत्ताः ।
+> अश्वीऽइव [?] । तान् । अति । येषं । रथेन । अरिष्टाः । उरौ । आ । शर्मन् । स्याम ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यजत्रा यष्टव्या आदित्या वो युष्माकं या माया अभिद्रुहेऽभि-
+> द्रोहं कुर्वते राक्षसादये निर्मिताः ये च पाशा रिपवे शत्रवे विचृत्ताः ॥ चृती
+> हिंसासंग्रंथनयोः । प्रसारिता इत्यर्थः । तान्पाशान् मायाश्च रथेनातियेषं ।
+> अतीत्य प्रयतेयं । अतितरेयमित्यर्थः । तत्र दृष्टांतः । अश्वीव । यथा शोभ-
+> नाश्वः कश्चित्पुरुषो दुस्तरान्मार्गान् शीघ्रमतिक्रामति तद्वत् ॥ येषृ प्रयत्ने
+> भौवादिकोऽनुदात्तेत् । छांदसो लज् । व्यत्ययेन परस्मैपदं ॥ तथा मयम-
+> रिष्टाः शत्रुभिरहिंसिताः संत उर् विस्तीर्णे शर्मन् ॥ शर्मेति गृहनाम ॥ त्वया
+> दत्ते सुखे गृहे ना आ समंतात् स्याम । वर्तमाना भवेम ॥
+
+*Gist: the Ādityas' illusions and snares, spread against fiends and foes, are to be crossed by the sacrificers as a horseman quickly crosses a hard road; may they dwell unharmed in a wide house.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+yajatrāḥ: worthy of sacrifice; ādityāḥ: O Ādityas; abhidruhe: for the binding of fiends and others who work harm; vaḥ: your; yāḥ māyāḥ: whatever powers of illusion there are; ripave: for the binding of enemies; pāśāḥ: whatever snares; vicchatāḥ [?]: are spread out (such); tān: those snares and illusions; aśvīva: as a man possessed of a horse crosses a hard road; rathena: by chariot; ati yeṣam: help us to cross; ariṣṭāḥ: we, unharmed by enemies; urau: in a wide; śarman: house; ā syāma: may we be happy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Ādityas, worthy of sacrifice, with whatever powers of illusion you have for binding the fiends and others who work harm, and whatever snares are spread for binding enemies, using those snares and illusions as well, help us also to cross by chariot, as a man with a horse crosses a hard road. Unharmed by enemies, may we be happy in a wide house.
+
+### Printed p. 100
+
+**Printed English translation**
+
+Adorable Adityas, may I pass (safe) in your car from the illusions which (you devise) for the malignant, the snares which are spread for your foes, (in like manner) as a horseman (passes over a road); and thus may we abide secure in infinite felicity.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*yajatrāḥ ādityāḥ*: the Ādityas are addressed as worthy of being worshipped by the sacrificers with sacrifice. Since they have spread illusions and snares for the restraint of the fiends who work harm in every way, and for the destruction of enemies bent on injury, the sacrificers pray that, like अश्वीव रथेन (*aśvīva rathena*) — a man with a good (swift) horse who quickly crosses roads hard to cross (the Sanskrit explanation is quoted in the bhāṣya, beginning शोभनाश्वः कश्चित् पुरुषः (*śobhanāśvaḥ kaścit puruṣaḥ*)) — they may cross, seated in the chariot by the favour of the Ādityas, using the illusions spread for the binding and restraint of enemies and fiends. This is explained by way of an illustration.
+
+*ariṣṭāḥ urau śarman ā syāma*: the word *śarma* is listed among the names of house (Ni. 3-13; as printed in the supplied text, "ಸಿ. ೩-೧೩"). The sacrificers' wish is described: may we, unharmed by the injury of enemies, be happy in the large house granted by the Ādityas.
+
+#### Ṛk 17
+
+**॥ संहितापाठः ॥**
+
+> माहं म॒घोनो॑ वरुण प्रि॒यस्य॑ भूरि॒दान्न॒ आ वि॑दं॒ शून॑मा॒पेः ।
+> मा रा॒यो रा॑जन्स्य॒यमा॒दव॑ [?] स्थां बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+
+> *māhaṃ maghono varuṇa priyasya bhūridānna ā vidaṃ śūnamāpeḥ |*
+> *mā rāyo rājansyayamādava [?] sthāṃ bṛhadvadema vidathe suvīrāḥ ‖*
+
+### Printed p. 101
+
+**॥ पदपाठः ॥**
+
+> मा । अहं मघोनः । वरुण । प्रियस्य । भूर्इदाव्यः [?] । आ । विदं । शूनं । आपेः ।
+> मा । रायः । राजन् । सुयमात् । आव । स्थां । बृहत् । वदेम । विदथे । सु-
+> वीराः ॥ १७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण मघोनो धनवतः प्रियस्यानुकूलस्य भूरिदाव्यो भूरेर्बहुलस्य
+> दातुराढ्यस्याहं मा अविदं । मावेदयानि । आवेदनं विज्ञापनं मा करवाणि । किं
+> तदनावेद्यं । आपेर्ज्ञातेः शूनं शून्यं दारिद्रं ॥ वर्णलोपश्चांदसः ॥ यद्वा
+> शूनं गतं प्राप्तं दारिद्रं ॥ टुओश्वि गतिवृद्ध्योः । श्विदितो निष्ठायामितीट् प्रति-
+> षेधः । यजादित्वात्संप्रसारणं । ओदितश्चति नकारः । वृषादित्वादाद्युदात्तत्वं ॥
+> एतदुक्तं भवति अस्मदीयाः पुत्रादयः क्षुधिता इति प्रभुप्रभुसमीपेभिधाय
+> याचमानो मा भूवमिति । हेराजन् सुयमात् । सुष्टु नियम्यतेनेन पुरुषो
+> गृह इति सुयमः ॥ ईषद्दुःसुष्टिति खलु ॥ ताद्बशाद्रायो धनान्मावस्थां ।
+> अवयुत्य स्थितो मा भूवं । वयं सुवीराः शोभनपुत्रा विदथे यज्ञॆ गृहे
+> वर्तमानाः संतो बृहत् फ्रौढं स्तोत्रं वदेम । उच्चारयाम ॥
+
+*Gist: may I not, before a wealthy generous patron, plead my kinsmen's poverty and beg; may we, rich in sons, recite a great hymn at the sacrifice.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+varuṇa: O Varuṇa; maghonaḥ: of the wealthy one; priyasya: of the favourable one; bhūridānvaḥ: of the one who gives abundantly, before such a rich man; ahaṃ: I; āpeḥ: of my near kinsman; śūnaṃ: the poverty; mā ā vidaṃ: may I not have to declare; rājan: O lord Varuṇa; suyamāt: from the wealth gathered under restraint; rāyaḥ: by wealth; mā ava sthāṃ: may I not become empty; (vayaṃ: we); suvīrāḥ: together with excellent sons; vidathe: in the sacrificial house; bṛhat: a mature hymn; vadema: we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, before a wealthy, favourable, abundantly giving rich man, may I not say that my sons and other near kinsmen suffer in poverty and so ask him for wealth. May I not be left empty of the wealth gathered under restraint. Together with excellent sons we recite a mature hymn in the sacrificial house.
+
 ---
 
-**Progress note:** Done through printed p. 98 (PDF 98). Sūkta 27 Ṛk 14 complete (p. 96), Ṛk 15 complete (pp. 96-98); Sūkta 27 continues with Ṛk 16. Hand fixes to kn.md: labels and > blocks set, stray lines (garbled ' ಚರಿತೆ, '7', no-text line) removed, Pada label moved after page-97 marker, footnotes 1 ಜಯಗಣೇಶಾಯ ನಮಃ and 1 ಪ್ರವರ್ತಕ moved out of bhāṣya block. Flags [?]: Pada ಆಸ್ಮೈ, ಉಭೌ ಅರ್ಥೌ; Pratipadārtha ವ್ಯಾವಾಪೃಥಿವಿ, ಹೃತ್ಸು (for pṛtsu); bhāṣya ಸವಿಾಚೀ, ಅಸ್ಮಾಣ್ಣ್ಯಂತಾಚ್ಛಾಂದಸೋ unflagged slips
+**Progress note:** Done through printed p. 101 (PDF 101). Sūkta 27 Ṛk 16 (pp. 99-100) and Ṛk 17 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (p. 101); Printed English of Ṛk 17 to come. Hand fixes to kn.md: labels and > blocks set, stray lines removed. Flags [?]: Saṃhitā 16 ಉರಾವಾ (Pada ಉರೌ ಆ), Pada ಅಶ್ವೀಽಇವ, Pratipadārtha ವಿಚ್ಛತಾಃ (Saṃhitā ವಿಚೃತ್ತಾಃ), Saṃhitā 17 ರಾಜನ್ಸ್ಯಯಮಾದವ and Pada ಭೂರ್ಇದಾವ್ಯಃ; 'ದುಸ್ತರ್ರಾ' in Special Topics unflagged; accents DIFF 3 lines unmatched
