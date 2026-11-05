@@ -19669,6 +19669,68 @@ All the gods together prayed, "O Agni, kindly carry our oblation." That is why A
 ವೃಣೀಮಹ ಇತಿ ಸ ಹಿ ದೇವಾನಾಂ ದೂತ ಆಸೀದ್ದೋತಾರಂ ವಿಶ್ವವೇದಸಮಿತಿ ॥⟧
 (printed ಶ. ಬ್ರಾ. 1-4-1-34)
 
+### Printed p. 628
+
+*[Running head, p. 628: Sāyaṇabhāṣyasahitā, Maṃ. 3 (no stop printed), A. 1, Sū. 3.]*
+
+The gods and the asuras, both sons of Prajāpati, contended for the highest position. At that time the Gāyatrī stood between them. That is, since the earth is called Gāyatra, it means that the earth stood between them.
+
+Sāyaṇa has explained that the purport is that the gods are in Amarāvatī on the upper part of Mount Meru, the asuras in Irāvatī beneath it, and between these lies the earth:
+
+⟦ಮೇರೋರಗ್ರಭಾಗೇ ಹಿ ಅಮರಾವತೀ ನಾಮ ನಗರೀ ತಸ್ಯಾಂ ಹಿ ದೇವಾಃ । ತಥಾ
+ಮೇರೋರಧಸ್ತಾದ್ಭಾಗೇ ಚ ಯತ್ ಇರಾಮುಖಂ ನಾಮ ನಗರಂ ತಸ್ಮಿನ್‌ಹ್ಯಸುರಾ ನಿವಸಂತಿ
+ತಯೋರ್ಮಧ್ಯೆ ಪೃಥಿವೀ ವರ್ತತೇ !!⟧
+(printed ಶ. ಬ್ರಾ. ಭಾಷ್ಯಂ 1-4-1-34; the closing ॥ is printed "!!" in the supplied text)
+
+They understood that victory was assured to those on whose side this earth, or Gāyatrī, would join. Both groups secretly went and prayed that Gāyatrī join their side. At this time Agni, as the messenger of the gods, and Sahārakṣas (the asura-rakṣas, famous as the demon messenger), approached the Gāyatrī and prayed as above. Then the Gāyatrī followed Agni. Therefore in all sacrifices the human hotṛ also prays, "O Agni, since as divine messenger you helped the gods, we too accept you as messenger." Agni is addressed as viśvavedāḥ, all-knowing. The same point is told in the Taittirīya Saṃhitā somewhat differently.
+
+⟦ಅಗ್ನಿರ್ದೇವಾನಾಂ ದೂತ ಆಸೀದ್ವೈವೋಽಸುರಾಣಾಂ ತೌ ಪ್ರಜಾಪತಿಂ ಪ್ರಶ್ನಮೈತಾಗ್ರಂಸ
+ಪ್ರಜಾಪತಿರ್ಬ್ರಾಹ್ಮಣಮಬ್ರವೀದೇತದ್ವಿ ಬ್ರೂಹೀತ್ಯಾಶ್ರಾವಯೇತೀದಂ ದೇವಾಕೃಣುತೇತಿ
+ನಾವ ತದಬ್ರವೀದಗ್ನಿರ್ದೇವೋ ಹೋತೇತಿ ಯ ಏವ ದೇವಾನಾಂ ತಮವೃಣೀತ ತಶೋ
+ದೇವಾ ಅಭವನರಾಸುರಾಸುರಾ ಯಸ್ಯೆವಂ ವಿದುಷಃ ಪ್ರವರಂ ಪ್ರವೃಣತೇ
+ಭವತ್ಯಾತ್ಮನಾ ಪರಾಸ್ಯ ಭ್ರಾತ್ಪವ್ಯೋ ಭವತಿ ॥⟧
+(printed ಕೃ. ಸಂ. ೯೫-೧೮, as supplied)
+
+In the Śatapatha Brāhmaṇa the messenger of the asuras is called asurarakṣas; in the Taittirīya Saṃhitā he is called Daivya (the story also differs). Agni, the messenger of the gods, and Daivya, the messenger of the asuras, went to Prajāpati and asked about their state. Prajāpati looked at Brahman and said, "Make this clear to them." Then he addressed the gods and said that "the god Agni is the hotṛ and he is on the side of the gods." Then victory came to the gods and defeat to the asuras. One who knows this principle gains victory, and the enemy of such a person defeat.
+
+### Printed p. 629
+
+*[Running head, p. 629: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+Purohitaḥ—पुरः एनं दधतीति पुरोहितः (*puraḥ enaṃ dadhatīti purohitaḥ*) (Ni. 2-12). The Nirukta authors have given the general explanation that since they place him in front he is called purohita. The word hita is derived from the root dhā (to place).
+
+⟦ತತಸ್ತಂ ತು ಪುರೋಧತ್ತ ಆರ್ತ್ವಿಜ್ಯಾಯ ಸ ಶಂತನುಃ ।
+ಸ ಚಾಸ್ಯ ಚಕ್ರೇ ಕರ್ಮಾಣಿ ವಾರ್ಷಿಕಾಣಿ ಯಥಾವಿಧಿ ॥⟧
+(Bṛ. De. 8-6)
+
+This Bṛhaddevatā sentence explains the meaning of the Ṛgveda Saṃhitā sentence ⟦ಯದ್ದೇವಾಪಿಃ ಶಂತನವೇ ಪುರೋಹಿತೋ ಹೋತ್ರಾಯ
+ವೃತಃ⟧ (Ṛ. Saṃ. 10-98-7). The Nirukta authors too have cited this. The man whom kings place before them at the time of sacrifice is called purohita. But the man who stands in front of the king with the power to help him need not be a helper to him in the sacrifice only. He may stand before him and give good counsel to the king in the conduct of the government or at the time of war and the like. Whether the man who helps in such circumstances is called a purohita is a natural question. This will be discussed later with examples such as इंद्रं वृत्राय हंतवे देवासो दधिरे पुरः (*iṃdraṃ vṛtrāya haṃtave devāso dadhire puraḥ*) (Ṛ. Saṃ. 8-12-22). In the present context, one must understand what principle is indicated by this word, a term of sacrificial procedure; what are the characteristics of the purohita; and in particular what is special in Agni's being the purohita.
+
+⟦ಪುರೋ ವೋ ಮಂದ್ರಂ ದಿವ್ಯಂ ಸುವೃಕ್ತಿಂ ಪ್ರಯತಿ ಯಜ್ಞೇ ಅಗ್ನಿಮಧ್ವರೇ ದಧಿಧ್ವಂ ।
+ಪುರ ಉಕ್ತೇಭಿಃ ಸ ಹಿ ನೋ ವಿಭಾವಾ ಸ್ವಧ್ವರಾ ಕರತಿ ಜಾತವೇದಾಃ ॥⟧
+(printed ಮಿ. ಸಂ. 6-10-1)
+
+In this prayer, "O priests and sacrificers, make Agni, who is praiseworthy, divine in nature and the giver of happiness, your purodhas at the time of sacrifice; worship him with śastra mantras and make him your purodhas; he makes your sacrifice fruitful", the purodhas character of Agni, who must be most prominent at the time of sacrifice, is understood. This purodhas character helps to bring the fruit of the sacrifice quickly. How?
+
+⟦ಇಂದ್ರಾವರುಣಾ ವಧನಾಭಿರಪ್ರತಿ ಭೇದಂ ವನ್ವಂತಾ ಪ್ರ ಸುದಾಸಮಾವತಂ ।
+ಬ್ರಹ್ಮಾಣ್ಯೇಷಾಂ ಶೃಣುತಂ ಹವೀಮನಿ ಸತ್ಯಾ ತೃತೂನಾಮಭವತ್ಪುರೋಹಿತಿಃ ॥⟧
+(Ṛ. Saṃ. 7-83-4)
+
+In this mantra Sudās, praising Indra and Varuṇa and offering them his gratitude, shows the fruit of the purohita's office: "O Indra and Varuṇa, your priesthood performed for my help in battle became fruitful"
+
+### Printed p. 630
+
+*[Running head, p. 630: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1 (printed "೧-"), Sū. 3.]*
+
+Therefore, wherever the word purohita is used, there is room for the question whether it is the purohita-ship connected with the sacrifice or purohita-ship merely for help. But in the Vedic culture it can be said definitely that this word has a technical meaning.
+
+One who, as the right arm of the king, helps him in many ways in all his affairs and is the adviser who brings welfare to him and to his kingdom may broadly be called a purohita. If the place of the purohita is described thus, it is also understood that the place of the purohita is of greater value to the king than the place of the priests such as the hotṛ. Although the relation of king and purohita may be merely personal, the point that happiness and peace in the kingdom can be had only with the help of the purohita is clearly stated in the Saṃhitā, Brāhmaṇa and other texts. First some personal helps that the king gets from the purohita may be examined, and afterwards, on the basis of Vedic sentences, how effective the purohita's influence is in social and political life. The purohita is the king's personal friend, minister, and adviser both in war and in peace. Vasiṣṭha, who was purohita to Sudās, was not only the hotṛ at the king's sacrifice, merely reciting the mantras, but also helped him in many ways in his political affairs. The place of the purohita is the highest place, a place that works for the welfare of the world. About how its importance arose, some well-known English scholars have expressed a mistaken opinion. For example, the scholar Max-Muller:
+
+" The original occupation of the Purohita may simply have been to perform the usual sacrifices ; but with the ambitious policy of the Brahmins, it soon became a stepping stone to Political power. "
+[History of Ancient Sanskrit Literature. p. 257.]
+
+This scholar has said that at first the purohita took part only in the sacrificial works and held the position of helping the king in Vedic rites; afterwards the Brahmins, with expanded ambition, showed political importance for the same position and made for themselves an opportunity to share in the king's authority. But on close examination it can be said that this scholar's opinion is not right. In the position of the purohita no selfishness of any kind is seen. The Vedic sentences themselves tell that the chief spiritual principle is contained in it. Between the position of the purohita described in the Vedic sentences and the purohita who becomes a helper to Vedic rites in present-day life, any
+
 ---
 
-**Progress note:** Done through printed p. 627 (PDF 627). Sūkta 3 Ṛk 1 Special Topics end; Ṛk 2 complete up to Special Topics on hotṛ and dūta (Śatapatha Brāhmaṇa legends); accent DIFF logged
+**Progress note:** Done through printed p. 630 (PDF 630). Sūkta 3 Ṛk 2 Special Topics: Agni as messenger of the gods, purohita; cut mid-sentence
