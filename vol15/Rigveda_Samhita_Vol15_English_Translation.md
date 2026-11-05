@@ -24717,6 +24717,60 @@ In this Ṛk the word सूनो (*sūno*) is explained as son, and Agni is ca
 
 *[The window ends here, at the end of p. 799, after the Special Topics of the last Ṛk of Sūkta 6. The supplied text of this window has no further lines; the source file continues with the closing lines of the adhyāya, which come in the next window.]*
 
+### Printed p. 800
+
+*[Running head, p. 800: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 6.]*
+
+**Adhyāya colophon (Sanskrit; Aṣṭaka 2, Adhyāya 8):**
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्य
+> धुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे
+> ऋक्संहिताभाष्ये द्वितीयाष्टकेऽष्टमोऽध्यायः समाप्तः ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*
+> *iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājya*
+> *dhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe*
+> *ṛksaṃhitābhāṣye dvitīyāṣṭake 'ṣṭamo 'dhyāyaḥ samāptaḥ ‖*
+
+Sense: dispelling the darkness of the heart by the light of the meaning of the Veda, may Vidyātīrtha-Maheśvara grant the four human aims. The colophon names Sāyaṇācārya, bearer of the burden of the empire of the king Vīra-Bukka (the supporter of the Vedic path), as author of the Mādhavīya Vedārthaprakāśa, the commentary on the Ṛk-saṃhitā; here ends the eighth adhyāya of the second aṣṭaka.
+
+The supplied text then has this line, kept as supplied:
+
+> ॥ ओं शत्स्य ॥
+
+> *‖ oṃ śatsya ‖*
+
+*(The words are kept as supplied; the word शत्स्य (*śatsya*) is unclear in the supplied text, probably a misreading or misprint of the usual closing formula, and is flagged here for the reader without any correction.)*
+
+Closing line (Kannada):
+
+⟦ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ್ಯಸಹಿತವೂ ಕರ್ನಾಟಕಭಾಷಾನುವಾದಯುತವೂ ಆದ
+ಋಗ್ವೇದಸಂಹಿತೆಯ ದ್ವಿತೀಯಾಷ್ಟಕದಲ್ಲಿ
+ಎಂಟನೆಯ ಅಧ್ಯಾಯವು ಸಮಾಪ್ತವಾದುದು.⟧
+
+Here ends the eighth adhyāya, in the second aṣṭaka of the Ṛgveda-saṃhitā with Sāyaṇa's commentary and a Kannada translation.
+
+Then the verse of forgiveness and the two closing formulas (Sanskrit):
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥
+> । शुभं भूयात् ।
+> । मंगळं ॥
+
+> *yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*
+> *tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*
+> *| śubhaṃ bhūyāt |*
+> *| maṃgaḷaṃ ‖*
+
+Sense: whatever is wanting in syllable, word or measure, may all that be forgiven, O god, lord of speech; salutation to you. May there be good fortune. Auspiciousness.
+
+*[Stray line as supplied at the very end of the text: "Pages: 365/365" (a line left by the text converter), kept as a note in kn.md.]*
+
+*[This is the end of the supplied text: the last supplied lines are the forgiveness verse, "। शुभं भूयात् । (*| śubhaṃ bhūyāt |*)" and "। मंगळं ॥ (*| maṃgaḷaṃ ‖*)", followed only by the converter line above. Nothing has been added.]*
+
 ---
 
-**Progress note:** Done through printed p. 799 (PDF 799). Sūkta 6 Ṛk 11 (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); end of the Sūkta 6 text
+**Progress note:** Done through printed p. 800 (PDF 800). FINAL: Sūkta 6 closes; adhyāya colophon, closing line, forgiveness verse and auspicious formulas on printed p. 800; the supplied text is complete through printed p. 800 (final)
