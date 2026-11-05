@@ -19493,6 +19493,88 @@ The oblation offered in the fire reaches the gods. By that the gods are sustaine
 
 That derivation (the supplied text prints "ಯನ್ ಜ (ಯಜ್ಞ) ಚಲಿಸುತ್ತಲೇ ಉತ್ಪನ್ನ ವಾಗುತ್ತದೆ") which shows that the sacrifice is born while moving, indicates the dharma of sacrifice; that same dharma tells of the creation and the maintenance of the universe. As the sacrifice is the upholder of all, gods, men and the rest, so their creation too is only through the sacrifice.
 
+### Printed p. 622
+
+*[Running head, p. 622: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+⟦ಯ ಇಮಾ ವಿಶ್ವಾ ಭುವನಾನಿ ಜುಹ್ವದೃಷಿರ್ಹೋತಾ ನ್ಯಸೀದತ್ಪಿತಾ ನಃ ।
+ಸ ಆಶಿಷಾ ದ್ರವಿಣಮಿಚ್ಛಮಾನಃ ಪ್ರಥಮಚ್ಛದವರಾ ಆ ವಿವೇಶ ॥⟧
+(printed ಮ. ಸಂ ೧೦-೮೧-೧, i.e. Ṛ. Saṃ. 10-81-1)
+
+Viśvakarman, the seer and hotṛ, offered all the worlds as the oblation of the sacrifice. Afterwards he created everything again by austerity (⟦ಸ ತಪೋಽತಪ್ಯತ । ಸ ತಪಸ್ತಪ್ತಾ
+ಇದಗ್ಂಸರ್ವಮಸೃಜತ⟧). In this explanation, that the sacrifice became the root of the creation of the universe, one more point must be noted. From sentences such as स्वयं यजस्व तन्नवं वृधानः (*svayaṃ yajasva tannavaṃ vṛdhānaḥ*) (10-81-5), although Prajāpati (or Viśvakarman) before creation offered his own body in the form of the sacrificial oblation, it was possible for it to grow still more extensively; this explanation makes it clear that no sacrifice made in the form of a rite becomes a cause of destruction but rather a cause of growth. The secret of the principle of sacrifice, which has thus the nature of dharuṇa and of dharma, will be explained at length later, when the nature of the agnicayana is told.
+
+Vipaḥ—this word is read among the names of the finger (Ni. 2-5) and among the names of the wise (Ni. 3-15). In the present context it means the wise praisers.
+
+Gātave—सन्मार्गलाभाय । (*sanmārgalābhāya |*) The ethical meaning, "for the sake of conducting oneself on the good path", is given. These words, gātum and gātave, are used in some places in the sense of the path of practice and in others in the sense of the path of going to the world of the gods. In many places such as ⟦ಉರುಂ ನೋ
+ಗಾತುಂ ಕೃಣು ಸೋಮ ವಿಢ್ವಃ ।⟧ (9-85-4) it means simply path.
+
+युयोत नो अनपत्यानि गंतोः प्रजानान्नः पशुमा अस्तु गातुः ॥ (*yuyota no anapatyāni gaṃtoḥ prajānānnaḥ paśumā astu gātuḥ ‖*)
+(Ṛ. Saṃ. 3-54-18)
+
+"O Aditi, may our deeds not stray from the good path; may our home be full of cattle": in this prayer, for the word gātuḥ it is explained ⟦ಗಾಯಂತಿ ಸ್ತುವಂತಿ ಇಂದ್ರಾದೀನತ್ರ ಇತಿ
+ಗಾತುರ್ಗೃಹಂ ।⟧ — since it is the place where Indra and others are praised, gātuḥ means house.
+
+स ते जानाति सुमतिं यविष्ठ य ई ईवते ब्रह्मणे गातुमैरत् ॥ (*sa te jānāti sumatiṃ yaviṣṭha ya ī īvate brahmaṇe gātumairat ‖*)
+(printed ಋ. ಸಂ ೪ ೪-೬, as supplied)
+
+"O youthful Agni, he who recites and offers a hymn praising you, the auspicious, will know your auspicious grace": when it is thus praised,
+
+### Printed p. 623
+
+*[Running head, p. 623: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+for gātum it is said गीयते उच्चार्यते इति गातुः स्तोत्रं । (*gīyate uccāryate iti gātuḥ stotraṃ |*) — since the hymn is recited in the form of song, the hymn is called gātu; and—
+
+न्यस्मै देवी स्वधितिर्जहीत इंद्राय गातुरुशतीव येमे । (*nyasmai devī svadhitirjahīta iṃdrāya gāturuśatīva yeme |*)
+(printed ಮಿ. ಸಂ. ೫-೩೨-೧೦ [sic: apparently for Ṛ. Saṃ. 5-32-10])
+
+In this Ṛk, whose purport is that the goddess of heaven and the other worlds, standing on her own support, is also under Indra's rule, and the earth also offers her service to Indra, the word gātu is explained as the earth. Thus the meaning of this word must be given according to the context. In the present Ṛk the ethical meaning, going the good way, should be given.
+
+Agniḥ devān duvasyati—the word duvasyati is read in the Nirukta among the names of attending action (Ni. 3-13). The Nirukta authors cite the Ṛk
+
+⟦ಪರೇಯಿವಾಂಸಂ ಪ್ರವತೋ ಮಹೀರನು ಬಹುಭ್ಯಃ ಪಂಥಾಮನುಪಸ್ಪಶಾನಂ ।
+ವೈವಸ್ವತಂ ಸಂಗಮನಂ ಜನಾನಾಂ ಯಮಂ ರಾಜಾನಂ ಹವಿಷಾ ದುವಸ್ಯ ॥⟧
+(printed ಮ. ಸಂ. 10-14-1)
+
+in which Yama is praised. The Nirukta authors explain the word duvasya as ⟦ದುವಸ್ಯತಿಃ
+ರಾಧ್ಯೋತಿಕರ್ಮ ।⟧ (as supplied), the act of worship (Ni. 10-20). Besides,
+
+याभिर्वम्रं विपिपानमुपस्तुतं कलिं याभिर्वित्तजानिं दुवस्यथः ॥ (*yābhirvamraṃ vipipānamupastutaṃ kaliṃ yābhirvittajāniṃ duvasyathaḥ ‖*)
+(Ṛ. Saṃ. 1-112-15)
+
+In this Ṛk, whose purport is "O Aśvins, you protected the sage Vamra", the word duvasyathaḥ is used in the sense of protection. Since in the present Ṛk this word is used with reference to Agni, both meanings fit. How? When danger came to the gods, Agni protected them, and after that protection he served them; since there are many such situations, both kinds of meaning can be given to this word. How Agni protected the gods is as follows—
+
+⟦ಪ್ರಜಾಪತಿಃ ಪ್ರಜಾ ಅಸೃಜತ । ಸ ಪ್ರಜಾಃ ಸೃಷ್ಟಾ ಸರ್ವಮಾಜಿಮಿತ್ವಾ ವ್ಯಸ್ರಗ್‌ಂಸತ ತಸ್ಮಾದ್ವಿಸ್ರಸ್ತಾತ್ರಾಣೋ ಮಧ್ಯತ ಉದಕ್ರಾಮದಥಾಸ್ಮಾದ್ವೀರ್ಯಮುದಕ್ರಾಮತ್ತಸ್ಮಿನ್ನುತ್ಕಾಂತೇS-
+ಪದ್ಯತ ತಸ್ಮಾದನ್ನಾದನ್ನ ಮಸ್ರವದ್ಯಚ್ಚಕ್ಷುರಧ್ಯಶೇತ ತಸ್ಮಾದಸ್ಯಾನ್ನಮಸ್ರವನ್ನೋ ಹೇಹ
+ತರ್ಹಿ ಕಾಚನ ಪ್ರತಿಷ್ಠಾಸ ॥⟧
+(printed ಶ. ಬ್ರಾ. 7-1-2-1)
+
+### Printed p. 624
+
+*[Running head, p. 624: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+Prajāpati created creatures. After creating them he became tired and his limbs became worn. Then the inner breath went out from him. Without strength he fell down. The food within him too flowed out through the eye. Then the creatures had no support.
+
+⟦ತೇ ದೇವಾ ಅಬ್ರುವನ್ । ನ ವಾ ಇತೋಽನ್ಯಾಪ್ರತಿಷ್ಠಾಸ್ತೀಮಮೇವ ಪಿತರಂ ಪ್ರಜಾಪತಿಗ್ಂ
+ಸಂಸ್ಕರವಾಮ ಸೈವ ನಃ ಪ್ರತಿಷ್ಠಾ ಭವಿಷ್ಯತೀತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ. 7-1-2-2)
+
+Then all the gods came together and resolved: "We have no other support than this. Let us tend and restore this Prajāpati, the father of us all. He is the basis of our existence. Let us make every effort to give him new life."
+
+⟦ತೇಽಗ್ನಿಮಬ್ರುವನ್ । ನ ವಾ ಇತೋಽನ್ಯಾ ಪ್ರತಿಷ್ಠಾಸ್ತಿ ತ್ವಯೀಮಂ ಪಿತರಂ ಪ್ರಜಾಪತಿಗ್ಂ
+ಸಂಸ್ಕರವಾಮ ಸೈವ ನಃ ಪ್ರತಿಷ್ಠಾ ಭವಿಷ್ಯತೀತಿ ಕಿಂ ಮೇ ತತೋ ಭವಿಷ್ಯತೀತಿ ॥⟧
+(printed ಶ- ಬ್ರ. 7-1-2-&, the last character as supplied)
+
+Then they all, addressing Agni, prayed: "O Agni, besides this Prajāpati we have certainly no other refuge, support or protection. We shall restore this Prajāpati in you, with your help." He said, "What reward shall I have from doing that help?" Then, as an assurance, the gods spoke to Agni thus.
+
+⟦ತೇಽಬ್ರುವನ್ । ಅನ್ನಂ ವಾ ಆಯಂ ಪ್ರಜಾಪತಿಸ್ತನ್ಮುಖಾ ಏತದನ್ನಮದಾಮ ತ್ವನ್ಮುಖಾನಾಂ
+ನ ಏಷೋಽನ್ನಮಸದಿತಿ ತಥೇತಿ ತಸ್ಮಾದ್ದೇವಾ ಅಗ್ನಿಮುಖಾ ಅನ್ನಮದಂತಿ ಯಸ್ಯೈ ಹಿ
+ಕಸ್ಯೈ ಚ ದೇವತಾಯ್ಕೆ ಜುಹ್ವತ್ಯಗ್ನಾವೇವ ಜುಹ್ವತ್ಯಗ್ನಿಮುಖಾ ಹಿ ತದ್ದೇವಾ ಅನ್ನಮಕುರ್ವತ ॥⟧
+(printed ಟ. ಬ್ರ. 7-1-2-4, i.e. presumably Śat. Brā. 7-1-2-4)
+
+"This Prajāpati is food. This food, which is Prajāpati, we shall eat through your mouth. For the eating of this food you are the mouth for all of us," they asked. Agni agreed and gave them his protection, and made Prajāpati established again. Thereby the gods again obtained refuge and support, and so Agni came to protect their existence. By taking for himself the food of all the gods and distributing it to them, he served them all. Therefore in the present Ṛk both meanings can be given to the word duvasyati.
+
 ---
 
-**Progress note:** Done through printed p. 621 (PDF 621). Sūkta 3 Ṛk 1 Special Topics on dharuṇa/dharma/yajña: Śatapatha Brāhmaṇa and Chāndogya passages
+**Progress note:** Done through printed p. 624 (PDF 624). Sūkta 3 Ṛk 1 Special Topics: gātave, duvasyati, Prajāpati legend from Śatapatha Brāhmaṇa 7-1-2
