@@ -14332,6 +14332,93 @@ Along with the river Sarasvatī, the names of two other rivers, Dṛṣadvatī a
 
 Now let us consider Bharadvāja and his descendants. The seer of all three Ṛks Ṛ. Saṃ. 6-49-7; 6-50-12; 6-52-6 is Ṛjiśvā, son of Bharadvāja [the supplied text has "ಮೂ ಋಕ್ಕುಗಳಿಗೂ", for "three"]. Of these three Ṛks, in the first and the third it is clearly stated that Sarasvatī is a river. In the second mantra, though the name of Sarasvatī is mentioned along with the deities Rudra, Viṣṇu, Vāyu and Parjanya, it may be thought that Sarasvatī is the name of a river; for since the same sage has said in two Ṛks that Sarasvatī is a river, it is natural that in the other Ṛk, too, the same sage praised Sarasvatī thinking of her as a river. Bharadvāja's hermitage was at Prayāga (Allahabad). Therefore Ṛjiśvā, son of Bharadvāja, his
 
+### Printed p. 448
+
+*[Running head, p. 448: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+hermitage must have praised a river near it. The whole sūkta Ṛ. Saṃ. 6-61 of the sage Bharadvāja (14 Ṛks in all) is about Sarasvatī. Some Western scholars hold that the meaning of several words in this sūkta applies to the river Sindhu. But since these words apply to the river Sarasvatī also, there is no room for doubt.
+
+For the Ṛks in the seventh maṇḍala, Ṛ. Saṃ. 7-9-5; 7-35-11; 7-36-6; 7-40-3; 7-95; 7-96, Vasiṣṭha is the seer. It is known that the hermitage of the sage Vasiṣṭha was near the hill called Abu (Mount Abu, in English letters in the supplied text) in the Aravalli range in Rajputana [printed ಆರಾವಳೀವರ್ಪತ for ಪರ್ವತ]. The first four mantras and the last two sūktas praise Sarasvatī as a river. Some say that since the words सिंधुमाता (*siṃdhumātā*) and आसमुद्रात् (*āsamudrāt*) in these Ṛks apply especially to the river Sindhu, the river Sindhu is what is praised in these mantras. This dispute cannot be rejected altogether. Yet in speaking of one river, it is not impossible to compare another river with it and to praise it with hyperbole.
+
+For Ṛ. Saṃ. 8-21.17 and the 18th Ṛk [printed with a dot] in the eighth maṇḍala, Śobhari, son of the sage Kaṇva, is the seer. In the Ṛks mentioned this seer describes the sacrifice that a king named Citra performed on the bank of the river Sarasvatī and the praise of that king's gifts. Since in Śaunaka's Bṛhaddevatā (6-58 to 62) it is said that this king Citra performed his sacrifice at Kurukṣetra, Sarasvatī must be a river nearby. And—
+
+⟦ಪೂಷಾ ವಿಷ್ಣು ರ್ಹವನಂ ಮೇ ಸರಸ್ವತ್ಯವಂತು ಸಪ್ತ ಸಿಂಧವಃ ।
+ಅಪೋ ವಾತಃ ಪರ್ವತಾಸೋ ವನಸ್ಪತಿಃ ಶೃಣೋತು ಪೃಥಿವೀ ಹವಂ ।⟧
+(Ṛ. Saṃ. 8-54-4)
+
+In this Ṛk Sarasvatī is mentioned among the deities Pūṣan, Viṣṇu, the seven rivers, the waters, the wind, the mountains, the plants and the earth. Likewise, in Ṛ. Saṃ. 9-67-32 Vasiṣṭha or Pavitra, the seer of that mantra, has used the word सरस्वती (*sarasvatī*). Here Sarasvatī may be either of the two senses, a deity or a river. In Ṛ. Saṃ. 10-30-12 it is not stated definitely which river is meant by Sarasvatī. In Ṛ. Saṃ. 10-64-9 Gaya, the seer of this mantra (a descendant of the great sage Atri), mentions Sarasvatī together with the rivers Sindhu and Sarayū (Gogra, in English letters in the supplied text). And—
+
+⟦ಇಮಂ ಮೇ ಗಂಗೇ ಯಮುನೇ ಸರಸ್ವತಿ ಶುತುದ್ರಿ ಸ್ತೋಮಂ ಸಚತಾ ಪರುಷ್ಣಾ ।
+ಅಸಿಕ್ನ್ಯಾ ಮರುದ್ವೃಧೇ ವಿತಸ್ತಯಾರ್ಜೀಕೀಯೇ ಶೃಣುಹ್ಯಾ ಸುಷೋಮಯಾ ।⟧
+(Pu. [printed ಪು., for Ṛ.] Saṃ. 10-75-5)
+
+### Printed p. 449
+
+*[Running head, p. 449: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+In this Ṛk the river Sarasvatī is mentioned together with the rivers Gaṅgā (the Ganges), Yamunā (the Jamna), Śutudri (the Sutlej), Paruṣṇī [printed ಪರುಷ್ಠಿ] (the Ravi), Asiknī [printed ಅಸಿಕ್ಕಿ] (the Chinab), Vitastā (the Jhelam), Marudvṛdhā [printed ಮರುದ್ವಧಾ] (the United Stream of the Jhelam and Chenab), Ārjīkīyā (the Bias) and Suṣomā (the Indus); hence it is clear that the river Sarasvatī is a separate river and not the Sindhu. The whole sūkta containing the above Ṛk is about rivers; that is, rivers are the deities of all 9 Ṛks of this sūkta. The seer of this sūkta is Sindhukṣit, son of the sage Priyamedha.
+
+In the Āprī sūktas it is said that Sarasvatī is one of the three goddesses called तिस्रो देव्यः (*tisro devyaḥ*). In the Ṛgveda Saṃhitā there are 10 sūktas called Āprī sūktas. The details of these sūktas in Śaunaka's Anuvākānukramaṇī are as follows—
+
+⟦ಶ್ಲೋಕಸ್ಯಾಸ್ಯ ಯಥಾಸಂಖ್ಯಂ ಸೂಕ್ತಾನಿ ದಶ ವೈ ವಿದುಃ
+ನ ಆ ವಹಾಗ್ನ ಆ ವಹಾದ್ಯ ರಾಜಸೀತ್ಯಗ್ನಿರ್ನಿ ಚ
+ಸಮಿತ್ಸಮಿತ್ಸು ಶೋಚಿಷೇ ಜುಷಸ್ವ ವಿಶ್ವತಸ್ತಥಾ ।
+ಇಮಾಂ ಮೇ ಅದ್ಯ ಮನ್ವಿಮಾ ಯಥರ್ಷಿಪಕ್ಷ ಅಪ್ರಿಯಃ ।
+ವಸಿಷ್ಠಶುನಕೌ ವಿನಾ ಸಮಿದ್ಧ ಸರ್ವಪಕ್ಷತಾ ।
+ಜುಷಸ್ವಾದಿದ್ವಿತೀಯಯಾ ತನೂನಪಾದ್ವಿರೋಧಿತಾ ।
+ಯಜುಃ ಶ್ರುತೌ ತಥಾಶ್ರುತೇಃ ಸಮಿದ್ಧ ಸೂಕ್ತಮಧ್ಯತಃ ।
+ಪ್ರಜಾಪತೇಃ ಪಶೋಃ ಸದಾ ಭವೇಯುರದ್ಯ ಮನ್ವಿಮಾಃ ।
+ಇತೀರಿತಂ ಹಿ ಬಹ್ವೃಚೈರ್ಯಥರ್ಷಿ ವೇತಿ ಸೂತ್ರತಃ ॥⟧
+
+| No. | Beginning of the sūkta | Maṇḍala and sūkta | Seer of the sūkta |
+|---|---|---|---|
+| 1 | सुसमिद्धो न आवह (*susamiddho na āvaha*) | 1-13 | मेधातिथिः, काण्वः (*medhātithiḥ, kāṇvaḥ*) |
+| 2 | समिद्धो अग्न आवह (*samiddho agna āvaha*) | 1-142 | दीर्घतमा औचध्यः (*dīrghatamā aucadhyaḥ*) |
+| 3 | समिद्धो अद्य राजसि (*samiddho adya rājasi*) | 1-188 | अगस्त्यो मैत्रावरुणिः (*agastyo maitrāvaruṇiḥ*) |
+| 4 | समिद्धो अग्निर्निहितः (*samiddho agnirnihitaḥ*) | 2-3 | गृत्समदः (*gṛtsamadaḥ*) |
+| 5 | समित्समित्सुमना (*samitsamitsumanā*) | 3-4 | गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*) |
+| 6 | सुसमिद्धाय शोचीषे (*susamiddhāya śocīṣe*) | 5-5 | वसुश्रुत आत्रेयः (*vasuśruta ātreyaḥ*) |
+| 7 | जुषस्व नः समिधमग्ने (*juṣasva naḥ samidhamagne*) | 7-2 | मैत्रावरुणिर्वसिष्ठः (*maitrāvaruṇirvasiṣṭhaḥ*) |
+| 8 | समिद्धो विश्वतस्पतिः (*samiddho viśvataspatiḥ*) | 9-5 | काश्यपोऽसितो देवलो वा (*kāśyapo 'sito devalo vā*) |
+| 9 | इमां मे अग्ने समिधं (*imāṃ me agne samidhaṃ*) | 10-70 | सुमित्रो वाध्र्यश्वः (*sumitro vādhryaśvaḥ*) |
+| 10 | समिद्धो अद्य मनुषो (*samiddho adya manuṣo*) | 10-110 | जमदग्निभार्गवः (*jamadagnibhārgavaḥ*) |
+
+(The column headings of the table in the supplied text are, in order: number; beginning of the sūkta; maṇḍala and sūkta, number of Ṛks [as supplied]; seer of the sūkta.)
+
+Of the sūktas mentioned above, in sūktas 1-2 there are 12 and 13 Ṛks. All the other sūktas have 11 Ṛks. The deities of these 11 Ṛks are as follows—
+
+*[Stray line in the supplied text: "29", kept as a note in kn.md.]*
+
+### Printed p. 450
+
+*[Running head, p. 450: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+| | |
+|---|---|
+| 1 | नॆय ऋक्कु—इध्मः समिद्धोऽग्निर्वा (*nèya ṛkku—idhmaḥ samiddho 'gnirvā*) |
+| 2 | ,, तनूनपात् (*,, tanūnapāt*) |
+| 3 | ,, इळः (*,, iḷaḥ*) |
+| 4 | ,, बर्हिः (*,, barhiḥ*) |
+| 5 | ,, देवीर्द्वारः (*,, devīrdvāraḥ*) |
+| 6 | ,, उषासानक्ता (*,, uṣāsānaktā*) |
+| 7 | ,, देव्यौ होतारौ प्रचेतसौ (*,, devyau hotārau pracetasau*) |
+| 8 | ,, तिस्रो देव्यः सरस्वतीळाभारत्यः (*,, tisro devyaḥ sarasvatīḷābhāratyaḥ*) |
+| 9 | ,, त्वष्टा (*,, tvaṣṭā*) |
+| 10 | ,, वनस्पतिः (*,, vanaspatiḥ*) |
+| 11 | ,, स्वाहाकृतयः (*,, svāhākṛtayaḥ*) |
+
+(In this table, "1st Ṛk—" and the ditto marks apply to each row: Ṛk number, then the deity.)
+
+In the first sūkta, which has 12 Ṛks, the deity नराशंसः (*narāśaṃsaḥ*) also occurs, and in the second sūkta, which has 13 Ṛks, the deities नराशंसः (*narāśaṃsaḥ*) and इंद्रः (*iṃdraḥ*) also occur; therefore they have 12 and 13 Ṛks instead of the 11 Ṛks of the other sūktas. In other matters there is no difference. The metres and the seers are different. These sūktas are recited when the Prayāja oblations are made at the animal sacrifice, in praise of Agni (सविद्वोऽग्नि (*savidvo 'gni*) [as supplied]). In these sūktas there is praise of the goddesses called त्रिस्रो देव्यः (*trisro devyaḥ*) [printed so here, तिस्रो (*tisro*) above], that is, Iḷā, Sarasvatī and Bhāratī. The chief point to note here is this: Agni is worshipped in three forms, on earth, in the atmosphere and in heaven. Since Bhāratī denotes the rays of the Sun, this deity (that is, the Sun) is the form of Agni in heaven (*diva*). Since Sarasvatī is in many places described as the presiding deity of thunder and lightning, this Sarasvatī is the form of Agni in the atmosphere. Since the goddess Iḷā gives wealth and long life to the people on earth, this deity is the form of Agni on earth; thus this is the symbolism of Iḷā, Sarasvatī and Bhāratī. The seers have praised these three goddesses, asking that they come to the sacrificial altar and sit upon the spread *barhis* (the spread *darbha* grass).
+
+We shall give some examples of the seers' praising Sarasvatī, thinking of her not as a river but as another deity.
+
+(1) ⟦ತಾನ್ನೂರ್ವಯಾ ನಿವಿದಾ ಹೂಮಹೇ ವಯಂ ಭಗಂ ಮಿತ್ರಮದಿತಿಂ ದಕ್ಷಮಸ್ರಿಧಂ ।
+ಅರ್ಯಮಣಂ ವರುಣಂ ಸೋಮಮಶ್ವಿನಾ ಸರಸ್ವತೀ ನಃ ಸುಭಗಾ ಮಯಸ್ಕರತ್ ।⟧
+(Ṛ. Saṃ. 1-89-3)
+
+In this Ṛk Sarasvatī is thought of either as the goddess of speech or as the presiding deity of thunder and lightning.
+
 ---
 
-**Progress note:** Done through printed p. 447 (PDF 447). Sukta 41 Rik 16 Sarasvati note continued (pp. 445-447): five views on the goddess, Sarasvati as river with Rishi evidence; breaks off mid-sentence at Rijishva son of Bharadvaja. Flags: Latin-letter names and modern river names inside Kannada kept; muu Rikkugalige typo as supplied
+**Progress note:** Done through printed p. 450 (PDF 450). Sukta 41 Rik 16 Sarasvati note continued (pp. 448-450): Sarasvati river evidence in Mandalas 6-10, Apri sukta list (HTML tables turned into markdown tables), Trisro devyah; first deity-example (Rik 1-89-3) ends p. 450, note continues. Flags: pu. Sam. for Ri. Sam. 10-75-5, 8-21.17 dotted, Latin river names inside Kannada kept, stray line 29 kept as note
