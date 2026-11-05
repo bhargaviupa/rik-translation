@@ -30885,6 +30885,94 @@ Gist: As a husbandless daughter serving her parents asks her family home for her
 
 A virtuous daughter who, without getting a husband, serves her parents and stays with them until she grows old, asks from her parents' own house for the property needed for her livelihood [the sentence breaks off at the foot of p. 811 and continues on the next page].
 
+### Printed p. 812
+
+*(Header: "812 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 17]".)*
+
+…(the Bhāvārtha continues from p. 811) …as one desires property, so I pray to you for venerable wealth. Make that wealth which is to be given to me manifest, so that all may know it. Tell also the measure of that wealth. Bring it to me. Give me, for the nourishment of my body, the venerable wealth with which you honour your praisers.
+
+**Printed English translation (Ṛk 7)**
+
+As a virtuous(maiden), growing old in the same dwelling with her parents,(claims from them her support), so come I to you for wealth: make it conspicuous, measure it, bring it(hither), grant(a sufficient) portion for my bodily sustenance,(such as that) wherewith you honour(your worship-pers).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is difficult. To make the sense fit, some words have to be supplied, and the meaning of the sentence has to be guessed and settled from only a word or two. Therefore it cannot be said that the meaning given here for this Ṛk accords with the seer's intention.
+
+अमाजूः (*amājūḥ*)—Since the word अमा (*amā*) is read among the names of house (Ni. 3-13), अमा (*amā*) means house. यावज्जीवं गृह एव जीर्यंती (*yāvajjīvaṃ gṛha eva jīryaṃtī*)—the commentator's explanation is: a woman who stays in the house itself till the end of her life and grows old there, that is, who does not marry and go to her husband's house but stays in her father's house and grows old there. A woman may find herself in the position of having to remain unmarried, whether because of ugliness or bodily defect or for other reasons. If such a lot befalls a woman of good character, she will pass her life staying in her father's house. Such a woman is in her father's care as long as he lives, and afterwards, for her livelihood, wishes to have a share of her father's property for herself like the other sons. It is this woman's simile that is stated here.
+
+अमाजूरिव पित्रोः सचा सती समानात् आ सदसः त्वां इये भगं (*amājūriva pitroḥ sacā satī samānāt ā sadasaḥ tvāṃ iye bhagaṃ*)—यावजीवं गृह एव जीय्यंती मातापितृभ्यां सह भवंती तयोः शुश्रूषणापरा पतिमलभमाना सती दुहिता समानादात्मनः पित्रोश्च साधारणात् गृहात् गृह उपस्थायैव यथा भागं याचति तथा स्तोताहं भजनीयं धनं त्वां याचे । (*yāvajīvaṃ gṛha eva jīyyaṃtī mātāpitṛbhyāṃ saha bhavaṃtī tayoḥ śuśrūṣaṇāparā patimalabhamānā satī duhitā samānādātmanaḥ pitrośca sādhāraṇāt gṛhāt gṛha upasthāyaiva yathā bhāgaṃ yācati tathā stotāhaṃ bhajanīyaṃ dhanaṃ tvāṃ yāce |*) A woman who, for some other reason, does not get a husband and has no occasion for marriage, and so remains as she is, staying in maidenhood and living in her father's house, serving her parents with good conduct, and who continues until the end of life, that is, until she grows old, having no other means for her livelihood, asks for a share in the property of her father's house; in the same way I, who praise you, Indra, ask of you a small share of wealth. Praying for it, I come near you: this is the main purport.
+
+### Printed p. 813
+
+*(Header: "[A. 2. A. 6. V. 28] Ṛgvedasaṃhitā 813".)*
+
+The details, what kind of wealth Indra should give him and how he should give it, the seer will set out in three or four sentences in the latter half of this Ṛk.
+
+कृधि प्रकेतं (*kṛdhi praketaṃ*)—तत्र देयं धनं प्रकेतं प्रकर्षेण ज्ञातव्यं विश्वजनीयं कृधि कुरु । (*tatra deyaṃ dhanaṃ praketaṃ prakarṣeṇa jñātavyaṃ viśvajanīyaṃ kṛdhi kuru |*) Give the wealth that is to be given to me, that is, the wealth I have prayed for, so that all may know it, that is, in front of everyone. No secrecy is needed in this matter.
+
+उप मासि आभर (*upa māsi ābhara*)—एतावदिदं धनमिति कुरु । तत्र धनं संपादयॆ । (*etāvadidaṃ dhanamiti kuru | tatra dhanaṃ saṃpādayè |*) The purport is: when giving the wealth, state clearly, "This wealth is yours; I give it for you", and give me the wealth.
+
+दद्धि भागं तन्नः येन ममहः (*daddhi bhāgaṃ tannaḥ yena mamahaḥ*)—भागं भजनीयं धनं तन्नः शरीराय मह्यमिति यावत् दद्धि देहि । येन धनेन स्तोत्थूनिमान्पूजयसि । (*bhāgaṃ bhajanīyaṃ dhanaṃ tannaḥ śarīrāya mahyamiti yāvat daddhi dehi | yena dhanena stotthūnimānpūjayasi |*) Out of the wealth with which you honour (that is, gladden) those who praise you by giving to them, mark out the share that is to be given to me and say, "Here, this wealth is for your body, that is, for the nourishment of your body, or for you", and give it: this is the purport.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> भोजं त्वामिंद्र वयं ह्वैमे [?]
+> वाजान् ।
+> अ॒वि॒ड्डी॑नद्र चि॒त्रया॑ न ऊ॒त्री कृ॒धि वृ॑षन्निद्र॒ वस्य॑सो नः ॥८॥
+
+**॥ पदपाठः ॥**
+
+> भोजं । त्वां । इन्द्र । वयं । हुवेम । ददिः । त्वं । इन्द्र । अपांसि । वाजान् ।
+> अविद्धि । इन्द्र । चित्रया । नः । ऊती । कृधि । वृषन् । इन्द्र । वस्यसः । नः ॥ ८ ॥
+
+> *bhojaṃ | tvāṃ | indra | vayaṃ | huvema | dadiḥ | tvaṃ | indra | apāṃsi | vājān |*
+> *aviddhi | indra | citrayā | naḥ | ūtī | kṛdhi | vṛṣan | indra | vasyasaḥ | naḥ ‖ 8 ‖*
+
+### Printed p. 814
+
+*(Header: "814 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 17]".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र भोजं पालयितारं भोजयितारं ना त्वां वयं हुवेम ॥
+> ह्वयतेर्लिज्जि बहुलं छंदसीति संप्रसारणं ॥ हे इंद्र त्वमपांसि कर्माणि
+> वाजानन्नानि ददिः ॥ दाण् दाने । आद्यगमहनजन इति किप्रत्ययः । लिड्वद्भावादभ्या-
+> सादिकार्यं । न लोकाव्ययनिष्ठेति षष्ठीप्रतिषेधः ॥ दाता खलु । हे इंद्र चित्रया
+> नानाप्रकारयोती ऊत्या पालनेन नोऽस्मानविद्धि । रक्ष । वृषन् कामानां वर्षक
+> हे इंद्र नोऽस्मान्वस्यसोऽतिशयेन वसुमतः कृधि । कुरु ॥
+
+> *he iṃdra bhojaṃ pālayitāraṃ bhojayitāraṃ nā tvāṃ vayaṃ huvema ‖*
+> *hvayaterlijji bahulaṃ chaṃdasīti saṃprasāraṇaṃ ‖ he iṃdra tvamapāṃsi karmāṇi*
+> *vājānannāni dadiḥ ‖ dāṇ dāne | ādyagamahanajana iti kipratyayaḥ | liḍvadbhāvādabhyā-*
+> *sādikāryaṃ | na lokāvyayaniṣṭheti ṣaṣṭhīpratiṣedhaḥ ‖ dātā khalu | he iṃdra citrayā*
+> *nānāprakārayotī ūtyā pālanena no 'smānaviddhi | rakṣa | vṛṣan kāmānāṃ varṣaka*
+> *he iṃdra no 'smānvasyaso 'tiśayena vasumataḥ kṛdhi | kuru ‖*
+
+Gist: Indra, who gives enjoyment, is invoked; he is asked to grant food in return for rites, to protect with manifold aid, and to make us wealthy.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; भोजं (*bhojaṃ*)—who give the experience of happiness; त्वां (*tvāṃ*)—you; वयं (*vayaṃ*)—we; हुवेम (*huvema*)—call; इंद्र (*iṃdra*)—O Indra; त्वं (*tvaṃ*)—you; अपांसि (*apāṃsi*)—in return for (our) works; वाजान् (*vājān*)—foods; ददिः (*dadiḥ*)—give; इंद्र (*iṃdra*)—O Indra; चित्रया (*citrayā*)—of many kinds; ऊती (*ūtī*)—by protection; नः (*naḥ*)—us; अविड्डि (*aviḍḍi*)—protect; वृषन‘ (*vṛṣana‘*)—who shower the desired object; इंद्र (*iṃdra*)—O Indra; नः (*naḥ*)—us; वस्यसः (*vasyasaḥ*)—as wealthy ones; कृधि (*kṛdhi*)—make.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, we call you, who give the experience of happiness. Give food as the reward of our works. Protect us with manifold protection. O Indra, giver of what is desired, make us wealthy.
+
+**Printed English translation (Ṛk 8)**
+
+We invoke you, Indra, the bestower of enjoyment: you grant food, Indra,(in requital of pious) works; protect us, Indra, with manifold protections; Indra, showerer(of benefits), render as affluent.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk and the next form the conclusion of this sūkta. A prayer is made that Indra should give us food and other nourishment, and wealth and the like.
+
+भोजं त्वां इंद्र वयं हुवेम (*bhojaṃ tvāṃ iṃdra vayaṃ huvema*)—O Indra, we invoke you, who protect us, or who give us food and other nourishment and so preserve us.
+
+इंद्र त्वं अपांसि वाजान् ददिः (*iṃdra tvaṃ apāṃsi vājān dadiḥ*)—O Indra, the prayer is made that you be one who gives us the reward of the sacrificial and other rites we perform, and food and other nourishment. Here, since the word अपः (*apaḥ*) is read among the names of rites, अपांसि (*apāṃsi*) means the sacrificial and other rites we perform [the sentence breaks off at the foot of p. 814 and continues on the next page].
+
 ---
 
-**Progress note:** Done through printed p. 811 (PDF 811). Sukta 17 Rk 6 completed (bhasya tail, Pratipadartha, Bhavartha, printed English, Special Topics on Krivi and hatvi); Rk 7 begun: Samhita, Pada, bhasya, Pratipadartha, Bhavartha begun (breaks off at foot of p. 811). Rk 7 Samhita second line left unaccented (supplied tannoe3yena vs reference)
+**Progress note:** Done through printed p. 814 (PDF 814). Sukta 17 Rk 7 completed (Bhavartha end, printed English, Special Topics on amaju and the three verbs); Rk 8 begun through Special Topics (breaks off at foot of p. 814). Rk 8 Samhita as supplied was garbled (first line mixed scripts, last lines duplicated): duplicates removed, Devanagari converted letter-by-letter to Kannada in kn.md, unreadable words marked [?]; Samhita left unaccented/partly accented
