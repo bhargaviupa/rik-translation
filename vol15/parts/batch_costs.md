@@ -23,3 +23,4 @@ pp.71-73 | sonnet | n/a
 pp.74-76 | sonnet | n/a
 pp.77-79 | sonnet | n/a
 pp.80-82 | sonnet | n/a
+pp.83-85 | sonnet | n/a
