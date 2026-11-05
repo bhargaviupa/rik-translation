@@ -34799,6 +34799,79 @@ Consume with your brightest(weapon) the Rakshasas, who have held your witnessed 
 > *bṛhaspate | ati | yat | aryaḥ | arhāt | dyumat | vibhāti | kratumat | janeṣu |*
 > *yat | dīdayar | śavasā | ṛtyaprajāta | tat | asmāsu | draviṇaṃ | dhehi | citraṃ ‖*
 
+### Printed p. 941
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 31] Ṛgveda-saṃhitā, page 941, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> बार्हस्पत्ये पशावेषा हविषोऽनुवाक्या । प्रदानानामिति खंडे सूत्रितं । बृह-
+> स्पते अति यदर्यो अर्हात्तमृत्विया उप वाचः सचंते । आ. ३-७ । इति ॥ एष्यॆवा-
+> श्चिनशस्त्रे सरिधानीया । सूत्रितं । बृहस्पते अति यदर्यो अर्हादिति परिधानीया ।
+> आ. ६-५ । इति ॥
+> ऋतप्रजात सत्येनोत्पन्न हे बृहस्पते आर्यः श्रेष्ठो ब्राह्मणः सर्वान्
+> कामानतीत्य यद्ब्रह्मवर्चसं तेजोऽर्हात् । पूजयेत् ॥ अर्ह पूजायां ।
+> लेट्यडागमः ॥ जनेषु ब्राह्मणेषु द्युमत् दीप्तियुक्तं क्रतुमत् ज्ञानोपेतं
+> यद्ब्रह्मवर्चसं विभाति । विशेषेण दीप्यते । यच्च शवसा बलेन स्वाश्रयं जनं
+> दीदयत् ॥ दीदयतिर्दीप्तिकर्मा ॥ दीपयति । चित्रं चायनीयं तद्ब्रह्मवर्चस-
+> रूपं द्रविणमस्मासु धेहि । निधेहि ॥ यद्वा अर्य उदारोऽपि त्वया दत्तं धन-
+> मतीवाहार्तात् । श्रद्धधीत । यच्च त्वद्दत्तं धनं जनेषु तव स्तोत्रं कुर्वाणेषु
+> दीप्तियुक्तं कर्मसाधनं च विभाति यच्च धनं शवसान्नादिसमृद्ध्या दीदयत्
+> स्वाश्रयं दीपयति तादृशं धनमस्मासु धेहि ॥ तथा च ब्राह्मणं । बृहस्पते अति
+> यदर्यो अर्हादित्येतया परिदध्यात्तेजस्कामो ब्रह्मवर्चसकामोऽतीव वान्या-
+> न्ब्रह्मवर्चसमहति द्युमदिति द्युमदिव वै ब्रह्मवर्चसं विभातीति वीव वै ब्रह्म-
+> वर्चसं भाति यद्दीदयच्छवस ऋतप्रजातेति दीदायेव वै ब्रह्मवर्चसं तदस्मासु
+> द्रविणं धेहि चित्रमिति चित्रमिव वै ब्रह्मवर्चसं ब्रह्मवर्चसी ब्रह्मयशसी भवति ।
+> ऐ. ब्रा. ४-११ । इति ॥
+
+*Gist: Bṛhaspati, born of truth, grant us that brilliant, wonder-working wealth (the splendour of Brahman) which shines among the Brahmins and makes those who rely on it shine; a second sense takes it as ordinary wealth given by you. The Aitareya-brāhmaṇa passage (4-11) is quoted in support. The grammatical tail is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ṛtaprajāta—born of truth. Bṛhaspate—O Bṛhaspati. Aryaḥ—the excellent sacrificer. Ati—more than all else. Yat—which. Arhāt—may worship (and which). Janeṣu—among the sacrificers. Dyumat—radiant. Kratumat—endowed with knowledge. Vibhāti—shines forth specially. Yat—which. Śavasā—by its own power. Dīdayat—makes those who rely on it shine. Citraṃ—desired. Tat—that, of the nature of the splendour of Brahman. Draviṇaṃ—wealth. Asmāsu—in us. Dhehi—establish.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, born of truth, that which the excellent sacrificer worships above all other wealth, and which shines forth specially among the sacrificers, radiant and endowed with knowledge, and which by its own power makes those who rely on it full of vigour: establish in us that wealth, which is of the nature of the splendour of Brahman and is desired.
+
+### Printed p. 942
+
+*(Header: [942 Sāyaṇabhāṣyasahitā Maṃ. 2 A. 3 Sū. 23], as supplied.)*
+
+**Printed English translation**
+
+Bribaspati [sic], born of truth, grant us that wonderful treasure, wherewith the pious man may worship exceedingly; that(wealth) which shines amongst men: which is endowed with instre [sic],(is) the means of(performing holy) rites, and invigorates(its possesor [sic]) with strength.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Sāyaṇa has explained this Ṛk in two ways, and for the word द्रविण (*draviṇa*) he has given the ordinary meaning "wealth". But the Aitareya-brāhmaṇa, explaining this Ṛk, gives the word द्रविण (*draviṇa*) the meaning "splendour of Brahman" (ब्रह्मवर्चस्सु (*brahmavarcassu*)). Since both meanings are acceptable, both are explained here in full.
+
+ऋतप्रजात—सत्येनोत्पन्न । (*ṛtaprajāta—satyenotpanna |*) "Born of truth" means born of the truth that is the law of the universe. Since the word ऋत (*ṛta*) has many meanings, many senses can be given to this word; here the sense "of the nature of truth" becomes evident. It was said earlier that the mantras are born (come forth) from Bṛhaspati alone; hence the main idea is that the mantras, the subjects expounded in them and the deeds Bṛhaspati carries out are all of the nature of truth. The word ऋतप्रजात (*ṛtaprajāta*) is found in the Ṛgveda in this Ṛk and also in the Ṛks:
+
+सोमो न वेधा ऋतप्रजातः पशुर्न विश्वा विभुर्दूरेभाः । (*somo na vedhā ṛtaprajātaḥ paśurna viśvā vibhurdūrebhāḥ |*)
+(Ṛ. Saṃ. 1-65-10)
+
+इमां धियं सप्तशीर्ष्टीं पिशा न ऋतप्रजातां बृहतीमविंदत् । (*imāṃ dhiyaṃ saptaśīrṣṭīṃ piśā na ṛtaprajātāṃ bṛhatīmaviṃdat |*)
+(Ṛ. Saṃ. 10-67-1)
+
+In the first it is used of Agni, in the second of Bṛhaspati.
+
+बृहस्पते आर्यः अति यत् अर्हात्—हे बृहस्पते श्रेष्ठो ब्राह्मणः सर्वान्नामानतीत्य यद्ब्रह्मवर्चसं तेजः पूजयेत् । (*bṛhaspate āryaḥ ati yat arhāt—he bṛhaspate śreṣṭho brāhmaṇaḥ sarvānnāmānatītya yadbrahmavarcasaṃ tejaḥ pūjayet |*) O Bṛhaspati, the Brahmin who is excellent among the classes or among men, setting aside (that is, counting as inferior) all desires, may worship (desire) the supreme splendour of Brahman; grant that wealth, of the nature of brilliance. This connects with the last sentence तदस्मासु द्रविणं धेहि चित्रं (*tadasmāsu draviṇaṃ dhehi citraṃ*).
+
+### Printed p. 943
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 31] Ṛgveda-saṃhitā, page 943, as supplied.)*
+
+The splendour of Brahman (ब्रह्मवर्चस्सु (*brahmavarcassu*)) is a certain excellent radiance in the man who, having reflected well on the nature of Brahman and understood it, also manifests it in practice. Again, it is the radiance in the man who makes the study of the Veda a rule, understands well the meaning of the Vedic mantras, performs sacrifices and the like according to rule, and, having reflected from experience that all things in the universe are of the nature of the Supreme Brahman and that nothing exists apart from Brahman, behaves with equal regard to all, free of every kind of doubt, and is always cheerful in peace and contentment. Such splendour of Brahman is found in sages, ascetics and great men. Only those who, without special attachment to worldly affairs, are engaged in Vedic rites and in the pursuit of knowledge of the truth are fortunate enough to obtain it. The sage prays to Bṛhaspati to grant such splendour of Brahman. Such a prayer is not especially common in the Ṛgveda, but in the Yajurveda, in praising Agni and the other deities, the prayer to grant the splendour of Brahman is found frequently.
+
+जनेषु द्युमत् क्रतुमत् विभाति—ब्राह्मणेषु दीप्तियुक्तं ज्ञानोपेतं यद्ब्रह्मवर्चसं विभाति । (*janeṣu dyumat kratumat vibhāti—brāhmaṇeṣu dīptiyuktaṃ jñānopetaṃ yadbrahmavarcasaṃ vibhāti |*) This sentence and the following यद्दीदयच्छवसा (*yaddīdayacchavasā*) also connect, like the previous one, with the last sentence. The splendour of Brahman that shines brightly among Brahmins and is endowed with knowledge: grant that splendour. This sentence too describes the nature of the splendour of Brahman. It is ordinarily found in Brahmins alone; since it is joined with knowledge of Brahman, one who shines with it may be called all-knowing.
+
+यत् दीदयत् शवसा—बलेन स्वाश्रयं जनं दीपयति । (*yat dīdayat śavasā—balena svāśrayaṃ janaṃ dīpayati |*) This splendour of Brahman, by its own power, produces extraordinary radiance in the people who rely on it.
+
+तत् अस्मासु द्रविणं धेहि चित्रं (*tat asmāsu draviṇaṃ dhehi citraṃ*)—Bṛhaspati is prayed to establish in us, that is, give us, the wealth called the splendour of Brahman, which is described in the three sentences above and is wonderful.
+
+The explanation given above follows the meaning "splendour of Brahman" for the word द्रविण (*draviṇa*). Besides this, Sāyaṇa has also given another explanation, taking द्रविण (*draviṇa*) in the general sense "wealth" (the text of the window breaks off here, at the dash introducing it).
+
 ---
 
-**Progress note:** Done through printed p. 940 (PDF 940). Sukta 23 Rik 13 bhasya through Pratipadartha, Bhavartha, printed English and Special Topics; Rik 14 complete; Rik 15 Samhita and Pada given (bhasya follows); Rik 14 Samhita/Pada recovered from duplicated lines and a title attribute
+**Progress note:** Done through printed p. 943 (PDF 943). Sukta 23 Rik 15 bhasya, Pratipadartha, Bhavartha, printed English and start of Special Topics (draviṇa as brahmavarcas)
