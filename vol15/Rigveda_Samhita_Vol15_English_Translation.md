@@ -3413,6 +3413,103 @@ The Aditya, the upholder, has created all this water : the rivers flow by the po
 
 विधर्ता (*vidhartā*)—सेतुरिव जलस्य विधारयिता (*seturiva jalasya vidhārayitā*): as a dam holds back water, so Varuṇa holds the rain-waters; the explanation compares him to a dam,
 
+### Printed p. 111
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 9, Ṛgveda-saṃhitā, p. 111.*
+
+सिंधवः—स्यंदनशीलाः (*siṃdhavaḥ—syaṃdanaśīlāḥ*): "the flowing ones". The Nirukta authors have read this word among the names of rivers (Ni. 2-24), and they have also explained it, "Sindhu, from flowing" (Ni. 5-27). The comment says that Varuṇa created the waters, held them up for the benefit of the worlds, and made them flow over the earth in the form of rivers. These rivers never stop their flow; as swift-going birds, flying in the sky, also move about on the earth, so these rivers too, so that their waters are never in one place, flow in a single unvaried course (अनलसाः ऐकरूप्येण प्रवहंति (*analasāḥ aikarūpyeṇa pravahaṃti*)), giving no room for even the least sloth. The commentary explains that Varuṇa created the waters for the good of the world, held them, and made them flow ceaselessly over the earth. The Nirukta authors, too, have cited this same idea from the Ṛk beginning as follows (Ma. Saṃ. 8-69-12):
+
+सुदेवो असि वरुण यस्य ते सप्त सिंधवः । अनुक्षरंति काकुदं सूम्यं सुषिरामिव ॥ (*sudevo asi varuṇa yasya te sapta siṃdhavaḥ | anukṣaraṃti kākudaṃ sūmyaṃ suṣirāmiva ‖*)
+
+(The passage ends with "thus they have cited it from the Ṛk"; a software-generated line about a decorative symbol was removed from kn.md here. The reference is given as (Ma. Saṃ. 8-69-12) in kn.md.)
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> वि मच्छ्र॑थाय रश॒नामि॒वाग॑ ऋ॒ध्याम॑ ते वरुण॒ खामृ॒तस्य॑ ।
+> मा तंतु॑श्छेदि॒ वय॑तो॒ धियं॑ मे॒ मा मात्रा॑ शार्य॒पसः॑ पु॒र॒
+> ऋतोः ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> वि । मत् । श्रथय । रशनांइव । आगः । यध्याम । ते । वरुण । खां । ऋतस्य ।
+> मा । तंतुः । छेदि । वयतः । धियं । मे । मा । मात्रा । शारि । अपसः । पुरा ।
+> ऋतोः ॥ ५ ॥
+
+> *vi | mat | śrathaya | raśanāṃiva | āgaḥ | yadhyāma | te | varuṇa | khāṃ | ṛtasya |*
+> *mā | taṃtuḥ | chedi | vayataḥ | dhiyaṃ | me | mā | mātrā | śāri | apasaḥ | purā |*
+> *ṛtoḥ ‖ 5 ‖*
+
+(Readings as supplied: Saṃhitā ऋध्याम (*ṛdhyāma*) against Pada यध्याम (*yadhyāma*), Saṃhitā मच्छ्रथाय (*macchrathāya*) and खामृतस्य (*khāmṛtasya*) against Pada मत् । श्रथय (*mat | śrathaya*) and खां । ऋतस्य (*khāṃ | ṛtasya*), Saṃhitā शार्यपसः (*śāryapasaḥ*) against Pada शारि । अपसः (*śāri | apasaḥ*); the bhāṣya below reads ऋध्याम. Not altered.)
+
+### Printed p. 112
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 28, p. 112.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण मत् मत्सकाशात् रशनामिव रज्जुमिवागो विहिताननुष्ठानजनितं
+> पापं विश्रथय ! शिथिलीकुरु ! विमोचयेत्यर्थः । ते त्वत्संबंधिन ऋतस्योदकस्य
+> पूर्णां खां नदीं ॥ खा इति नदीनाम ॥ तामृध्याम । लभेमहि । अपि च धियं
+> कर्म वयतः संतन्वतो मे मम तंतुः कर्मसंततिर्मा छेदि। छिन्नो मा भूत् ।
+> नैरंतर्येणेत्यर्थः । कथा ऋतोः समाप्तिकालात्पुरा पूर्वमपसः कर्मणो
+> मात्रा शरीरं प्राज्योदीच्यांगलक्षणं मा शारि ! शीर्णं विकलं मा भूत् ॥
+> कृ हिंसायां । कर्मणि लुज् ॥ पुर ऋतोरित्यत्र ऋत्यक इति प्रकृतिभावः ॥
+
+> *he varuṇa mat matsakāśāt raśanāmiva rajjumivāgo vihitānanuṣṭhānajanitaṃ*
+> *pāpaṃ viśrathaya ! śithilīkuru ! vimocayetyarthaḥ | te tvatsaṃbaṃdhina ṛtasyodakasya*
+> *pūrṇāṃ khāṃ nadīṃ ‖ khā iti nadīnāma ‖ tāmṛdhyāma | labhemahi | api ca dhiyaṃ*
+> *karma vayataḥ saṃtanvato me mama taṃtuḥ karmasaṃtatirmā chedi| chinno mā bhūt |*
+> *nairaṃtaryeṇetyarthaḥ | kathā ṛtoḥ samāptikālātpurā pūrvamapasaḥ karmaṇo*
+> *mātrā śarīraṃ prājyodīcyāṃgalakṣaṇaṃ mā śāri ! śīrṇaṃ vikalaṃ mā bhūt ‖*
+> *kṛ hiṃsāyāṃ | karmaṇi luj ‖ pura ṛtorityatra ṛtyaka iti prakṛtibhāvaḥ ‖*
+
+*Gist:* "O Varuṇa, loosen from me the sin born of omitted rites, like a rope; may we obtain the river full of water; let the thread of my rite not be cut, nor the body of the rite broken before its completion." The grammatical tail explains the aorist *śāri* (from कृ हिंसायां (*kṛ hiṃsāyāṃ*), *luṅ* in the passive) and the natural form (*prakṛtibhāva*) of पुर ऋतोः (*pura ṛtoḥ*).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Varuṇa—O Varuṇa; Mat—from me; Raśanāmiva—binding like a rope; Āgaḥ—the sin consisting in the omission of the observance; Viśrathaya—destroy; Te—given by you; Ṛtasya—full of water; Khāṃ—the river; Ṛdhyāma—may we obtain; Dhiyaṃ—the rite; Vayataḥ—of one weaving; Me—my; Tantuḥ—the thread in the form of the rite; Mā chedi—may it not be cut; Ṛtoḥ—than the time of completion; Purā—before; Apasaḥ—of the rite; Mātrā—the body; Mā śāri—do not cause to be broken.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, remove from me the sin, consisting in the omission of the observance, that binds like a rope. May we obtain the river that is given by you and is full of water. May my thread of rite, while I weave the cloth of the rite, not be cut. Before the time of its completion, do not cause the body of my rite to be broken.
+
+**Printed English translation**
+
+Cast off from me sin, Varuna, as if it were a rope: may we obtain from you a channel (filled) with water : cut not the thread of me (engaged id [sic]) weaving pious works: blight not the elements of holy rites before the season (of their maturity).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रशनामिन आगः वि श्रथय (*raśanāmina āgaḥ vi śrathaya*)—The word आगः (*āgaḥ*) is explained by Yāska as "from the verb *gam* with the prefix *ā*" (Ni. 11 22, as printed). The word is formed by the prefix *ā* joined with the root *gam*. "It surely comes to the doer, the one who has performed the rite" (अवश्यमेवैतदागच्छति कर्तारं (*avaśyamevaitadāgacchati kartāraṃ*)): the meaning "that which comes to him" is thus settled.
+
+### Printed p. 113
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 10, Ṛgveda-saṃhitā, p. 113.*
+
+*Raśanā* means a thing fit for tying, so that clothes and the like stand firm when worn; usually a rope (cord) and the like. Since here it destroys freedom, the *raśanā* is said to be binding. For the word *agas* Sāyaṇa gives the meaning विहिताननुष्ठानजनितं पापं (*vihitānanuṣṭhānajanitaṃ pāpaṃ*), the sin that may arise from abandoning an obligatory duty. This sin lies in the rite of the doer of the rite, so that even if the rite is performed it does not yield its proper fruit; it turns into a fault, the sin of not having performed the rite in the prescribed way, and binds. So the sacrificer's prayer is expressed that these sins, binding like a rope (cord), be destroyed for us by Varuṇa's grace.
+
+धियं वयतः मे तंतुः मा छेदि (*dhiyaṃ vayataḥ me taṃtuḥ mā chedi*)—"May the continuity of my rite, while I carry the rite on, not be cut" (कर्म संतन्वतः मम कर्मसंततिः छिन्नो मा भूत् (*karma saṃtanvataḥ mama karmasaṃtatiḥ chinno mā bhūt*)). The word *dhī* is given among the names of rite (Ni. 3-2) and among the names of knowledge (Ni. 3-13); here it is used in the sense of rite. The word *vayataḥ*, formed from the root वेञ् (*veñ*) (*tantusantāne*, stretching threads), means weaving cloth. If the threads of one weaving cloth and the like break while he is at his work, his weaving does not come out right. In the same way the absence of interruption (*nicchitti* as supplied) in the sacrificers' rites is here prayed for. As a body is complete when joined with its limbs, so a rite is joined with its limbs (the rites to be performed in the middle). Whether the limb is lost, or the rite stops before completion, the rite is broken; the sacrificer's prayer is expressed that neither kind of breaking of the rite occur.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अपो॒ सु म्य॑क्ष वरुण भि॒यसं॒ मत्सम्रा॒ळ्कृता॒वोऽनु॑ मा गृभाय।
+> दामे॑व व॒त्साद्वि मु॑मु॒ग्धंहो॑ न॒हि त्वदा॒रे नि॒मिष॑श्च॒नेशे॑ ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> अपो इति । सु । म्यक्ष । वरुण । भियसं । मत् । संराट् । यत्नवः । अनु । मा ।
+> गृभाय ।
+> दामिइव । वत्सात् । वि । मुमुग्नि । अंहः । नहि । त्वत् । आरे । निमिषः । चन । ईशे ॥
+
+> *apo iti | su | myakṣa | varuṇa | bhiyasaṃ | mat | saṃrāṭ | yatnavaḥ | anu | mā |*
+> *gṛbhāya |*
+> *dāmiiva | vatsāt | vi | mumugni | aṃhaḥ | nahi | tvat | āre | nimiṣaḥ | cana | īśe ‖*
+
+(The Pada as supplied reads संराट् । यत्नवः (*saṃrāṭ | yatnavaḥ*) and मुमुग्नि (*mumugni*) against Saṃhitā मत्सम्राळ्कृतावोऽनु (*matsamrāḷkṛtāvo 'nu*) and वि मुमुग्धंहो (*vi mumugdhaṃho*), and अपो इति । सु (*apo iti | su*) against the Saṃhitā अपो सु (*apo su*); the Pada's closing Ṛk number is missing in the supplied text, which ends the page with a stray "8", removed. Not altered.) The remainder of Ṛk 6 follows on the next page.
+
 ---
 
-**Progress note:** Done through printed p. 110 (PDF 110). Sūkta 28 Ṛk 3 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (continue at ṛtaṃ/vidhartā, p. 110). Hand fixes to kn.md: garbled Pratipadārtha label replaced, Pratipadārtha un-quoted, stray digit before Ṛk 4 removed, labels and blocks set for Ṛk 4. Flags: Saṃhitā paptu vs Pada paptuḥ; no Ṛk number after Ṛk 3/4; praṇītaḥ as supplied
+**Progress note:** Done through printed p. 113 (PDF 113). Sūkta 28 Ṛk 4 Special Topics finished (sindhavaḥ); Ṛk 5 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 6 Saṃhitā and Pada (bhāṣya follows). Hand fixes to kn.md: label ‘शासनभाष्यं’ heading line replaced by standard bhāṣya label, decorative-symbol line and stray '8' removed. Flags: Saṃhitā/Pada differences in Ṛk 5 (ṛdhyāma/yadhyāma etc.) and Ṛk 6 Pada (saṃrāṭ yatnavaḥ, mumugni), as supplied; Ni. 11 22 printed without hyphen; no Ṛk number after Ṛk 5/6 Pada
