@@ -17665,6 +17665,88 @@ Then, when Jana Śārkarākṣya was asked, "O Sāyavasa, whom do you know as Va
 ಪ್ರಾದೇಶಮಾತ್ರಮಿವ ಹ ವೈ ದೇವಾಃ ಸುವಿದಿತಾ ಅಭಿಸಂಪನ್ನಾ ಸ್ತಥಾ ತು ವ ಏನಾನ್ವಕ್ಷ್ಯಾಮಿ
 ಯಥಾ ಪ್ರಾದೇಶಮಾತ್ರಮೇವಾಭಿಸಂಪಾದಯಿಷ್ಯಾಮೀತಿ ॥ ೧೦ ॥⟧
 
+### Printed p. 558
+
+*[Running head, p. 558: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1 (as printed; the sūkta is 2).]*
+
+Finally, addressing them all together, he said: "Each of you has grasped separate parts of Vaiśvānara; that is why you eat separate foods. I shall explain to you these well-known deities so that for you they are no longer limited to a mere span (Measure of a span)."
+
+⟦ಸ ಹೋವಾಚ । ಮೂರ್ಧಾನಮುಪದಿಶನ್ನೇಷ ವಾ ಅತಿಷ್ಠಾ ವೈಶ್ವಾನರ ಇತಿ ಚಕ್ಷುಷೀ
+ಉಪದಿಶನ್ನುವಾಚೈಷ ವೈ ಸುತತೇಜಾ ವೈಶ್ವಾನರ ಇತಿ ನಾಸಿಕೇಽಉಪದಿಶನ್ನುವಾಚೈಷ ವೈ
+ಪೃಥಗ್ವರ್ತ್ಮಾ ವೈಶ್ವಾನರ ಇತಿ ಮುಖ್ಯಮಾಕಾಶಮುಪದಿಶನ್ನುವಾಚೈಷ ವೈ ಬಹುಲೋ
+ವೈಶ್ವಾನರ ಇತಿ ಮುಖ್ಯಾ ಅಪ ಉಪದಿಶನ್ನುವಾಚೈಷ ವೈ ರಯಿರ್ವೈಶ್ವಾನರ ಇತಿ ಛುಬಕಮುಪದಿಶನ್ನುವಾಚೈಷ ವೈ ಪ್ರತಿಷ್ಠಾ ವೈಶ್ವಾನರ ಇತಿ ಸ ಏಷೋಽಗ್ನಿರ್ವೈಶ್ವಾನರೋ
+ಯತ್ಪುರುಷಃ ಸ ಯೋ ಹೈತಮೇವಮಗ್ನಿಂ ವೈಶ್ವಾನರಂ ಪುರುಷವಿಧಂ ಪುರುಷೇಽಂತಃ
+ಪ್ರತಿಷ್ಠಿತಂ ವೇದಾಪ ಪುನರ್ಮೃತ್ಯುಂ ಜಯತಿ ಸರ್ವಮಾಯುರೇತಿ ನ ಹಾಸ್ಯ ಬ್ರುವಾಣಂ
+ಚ ನ ವೈಶ್ವಾನರೋ ಹಿನಸ್ತಿ ॥ ೧೧ ॥⟧
+
+In the end, pointing to the head he said that it is the most excellent part of Vaiśvānara; pointing to the eyes, that they are the soma-radiance, a part of Vaiśvānara; pointing to the nose, that it is the diversity of Vaiśvānara's paths; pointing to space, that it is the abundant Vaiśvānara; pointing to the principal water, that it is Vaiśvānara's wealth; and showing the chin, that it is Vaiśvānara's support. He explained that this Vaiśvānara Agni is none other than the foremost of men; that one who knows this Vaiśvānara Agni, who is of the form of a person and is established within the person, conquers death and attains a full life; and that no harm ever comes to one who always praises him.
+
+Thus the Chāndogya and other Upaniṣads also describe the manner of explaining the nature of Vaiśvānara Agni, showing the relation between the performance of rites and the acquisition of spiritual knowledge. The Chāndogya Upaniṣad (Chā. Up. 5-11 to 5-18) also narrates the story of Vaiśvānara Agni exactly as told in the Śatapatha Brāhmaṇa, though there are small differences here and there in the names and in the details. Even so, Aśvapati Kaikeya, understanding the opinion of all the sages who had come to him for instruction, approved them all, and at the end explained, as in the Śatapatha Brāhmaṇa, that they are all different parts of Vaiśvānara Agni and that the harmony of all those parts is united in the complete Vaiśvānara, thus describing the all-sided nature of Vaiśvānara.
+
+⟦ತಸ್ಯ ಹ ವಾ ಏತಸ್ಯಾತ್ಮನೋ ವೈಶ್ವಾಸರಸ್ಯ ಮೂರ್ಧೈವ ಸುತೇಜಾಚಕ್ಷುರ್ವಿಶ್ವರೂಪಃ
+ಪ್ರಾಣಃ ಪೃಥಗ್ವರ್ಮಾತ್ಮಾ ಸಂದೇಹೋ ಬಹುಲೋ ಬಸ್ತಿರೇವ ರಯಿಃ ಪೃಥಿವ್ಯೇವ⟧
+
+### Printed p. 559
+
+*[Running head, p. 559: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+पादावुर एव वेदिर्लोमानि बर्हिर्हृदयं गार्हपत्यो मनोऽन्वाहार्यपचन आस्यमाहवनीयः ॥ (*pādāvura eva vedirlomāni barhirhṛdayaṃ gārhapatyo mano 'nvāhāryapacana āsyamāhavanīyaḥ ‖*)
+(Chā. Up. 5-18-2)
+
+The brightly shining atmosphere is the head of this universal-souled Vaiśvānara; this Āditya, of all forms, is his eye; the wind, of diverse paths, is his breath; the wide-spread quarter is his body; the wealth of water is his inner treasury; the all-supporting earth is his feet; the sacrificial altar is his breast; the sacred grass is his hair; the Gārhapatya fire is his heart; the Anvāhāryapacana fire is his mind; the Āhavanīya fire is his mouth.
+
+स य इदमविद्वानग्नि होत्रं जुहोति यथांगारानपोह्य भस्मनि जुहुयात्तादृक्तत्सात् । (*sa ya idamavidvānagni hotraṃ juhoti yathāṃgārānapohya bhasmani juhuyāttādṛktatsāt |*)
+(Chā. Up. 5-24-1)
+
+It shows the necessity of knowledge: one who performs the Agnihotra without knowing the nature of this Vaiśvānara Agni is like one who, having removed the live coals, pours the offering into ashes.
+
+⟦ಅಥ ಯ ಏತದೇವಂ ವಿದ್ವಾನಗ್ನಿಹೋತ್ರಂ ಜುಹೋತಿ ತಸ್ಯ ಸರ್ವೇಷು ಲೋಕೇಷು ಸರ್ವೇಷು
+ಭೂತೇಷು ಸರ್ವೆಷ್ವಾತ್ಮಸು ಹುತಂ ಭವತಿ ।⟧
+(printed ಭಾ. ಉ. 5-24-2, apparently a misprint for Chā. Up.)
+
+One who performs the Agnihotra knowing the greatness of this universal-souled Vaiśvānara Agni makes the offering, as it were, in all worlds, in all beings and in all selves. Thus the all-pervading nature of Vaiśvānara Agni is shown.
+
+अपि वा विश्वासनर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः । (*api vā viśvāsanara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ |*)
+(printed ಸಿ. 7-21, i.e. the Nirukta as quoted above)
+
+The explanation of the Nirukta authors quoted above is itself based on all these Śruti sentences. Following this explanation, Śaṅkarācārya also says:
+
+⟦ವಿಶ್ವಾನ್ನರಾನ್ನಯತಿ ಪುಣ್ಯಪಾಪಾನುರೂಪಾಂ ಗತಿಂ ಸರ್ವಾತ್ಮೈಷ ಈಶ್ವರೋ ವೈಶ್ವಾನರೋ
+ವಿಶ್ವೋ ನರ ಏವ ವಾ ಸರ್ವಾತ್ಮತ್ವಾತ್ । ವಿಶ್ವೈರ್ವಾ ನರೈಃ ಪ್ರತ್ಯಗಾತ್ಮತಯಾ ಪ್ರವಿಭಜ್ಯ
+ನೀಯತ ಇತಿ ವೈಶ್ವಾನರಸ್ತಮೇವಮುಪಾಸ್ತೇ । .... .... .... ... ವೈಶ್ವಾನರವಿತ್ಸರ್ವಾತ್ಮಾ ಸನ್ನನ್ನಮತ್ತಿ ।⟧
+(Chāndogya Upaniṣad Bhāṣya 5-18-1; the dotted gaps within the passage are as printed)
+
+Thus, exactly in keeping with the explanation of the Nirukta authors, he has explained the nature of the universal-souled Vaiśvānara Agni.
+
+### Printed p. 560
+
+*[Running head, p. 560: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1 (as printed; the sūkta is 2).]*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> वैश्वानरायेति पंचदशर्चं द्वितीयं सूक्तं । तथा चानुक्रमणिका । वैश्वानराय पंचोना वैश्वानरीयं तु जागतं त्विति । विश्वामित्र ऋषिः । जगती छंदः ।
+> वैश्वानरोऽग्निर्देवता ॥ पृष्ठ्याभिप्लविकयोस्कृतीयेऽहन्याग्निमारुते वैश्वानराय
+> धिषणामिति वैश्वानरनिविद्धानीयं सूक्तं । तृतीयस्येति खंडे सूत्रितं । वैश्वानराय
+> धिषणां धारावरा मरुतः । आ. ७-७ । इति ॥
+
+**Anuvāda (Kannada).** This sūkta beginning "Vaiśvānarāya" is the second sūkta in the first anuvāka. It has fifteen ṛks. The Anukramaṇikā says, as quoted in the bhāṣya above, that it is a Vaiśvānarīya sūkta in the Jagatī metre. The seer of this sūkta is Viśvāmitra; the deity is Agni named Vaiśvānara; the metre is Jagatī. On the third day of the sacrifices called Pṛṣṭhya and Abhiplava, when the Agnimāruta śastra mantras are recited, this sūkta beginning "Vaiśvānarāya dhiṣaṇām" is to be used as the nivid sūkta (for the recitation of the nivid mantras); this is explained in the section called "Tṛtīyasya" of the Āśvalāyana Śrautasūtra by the sūtra beginning "Vaiśvānarā dhiṣaṇām dhārāvarā marutaḥ" (Ā. 7-7).
+
+*[The supplied text here has the line: "This image contains no text. It depicts a stylized graphic of three fish swimming to the right." It is kept as a note; it is a software description of a printed ornament.]*
+
+**Sūkta 2** — Maṇḍala 3, Anuvāka 1, Sūkta 2; Aṣṭaka 2, Adhyāya 8, Varga 17, 18, 19. Number of ṛks in the sūkta: 15. Seer: Viśvāmitra. Deity: Agni Vaiśvānara. Metre: Jagatī.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> वै॒श्वा॒न॒राय॑ धि॒षणा॑मृता॒वृधे॑ घृ॒तं न पू॒तम॒ग्नये॑ जनामसि ।
+> द्वि॒ता होता॑रं॒ मनु॑षश्च वा॒घतो॑ धि॒या रथं॒ न कुलि॑शः॒ समृ॑ण्वति ॥
+
+> *vaiśvānarāya dhiṣaṇāmṛtāvṛdhe ghṛtaṃ na pūtamagnaye janāmasi |*
+> *dvitā hotāraṃ manuṣaśca vāghato dhiyā rathaṃ na kuliśaḥ samṛṇvati ‖*
+
 ---
 
-**Progress note:** Done through printed p. 557 (PDF 557). Sūkta 2 Pīṭhike: Nirukta conclusion, Chāndogya/Śatapatha Vaiśvānara-vidyā story (Aśvapati Kaikeya)
+**Progress note:** Done through printed p. 560 (PDF 560). Sūkta 2: Pīṭhike ends (Vaiśvānara story, Chāndogya, Śaṅkara); Sāyaṇa intro, Anuvāda, headers, Saṃhitā Ṛk 1
