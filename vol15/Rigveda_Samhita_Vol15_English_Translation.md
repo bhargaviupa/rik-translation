@@ -22455,6 +22455,94 @@ May the goddess of speech of the heaven-world, joined with the splendours relate
 
 *[The window ends here, at the end of p. 726; the next window continues with the printed English of Ṛk 8.]*
 
+### Printed p. 727
+
+*[Running head, p. 727: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+**Printed English translation**
+
+May Bharati, associated with the Bharatis; Ila with the gods and men; and Agni; and Saraswati with the Saraswatas; may the three goddesses sit down upon the sacred grass (strewn) before them.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk there is a prayer to the three goddesses Iḷā, Sarasvatī and Bhāratī. In the Āprī sūktas it is the usual custom to call them in general तिस्रो देव्यः (*tisro devyaḥ*), "the three goddesses".
+
+भारतीभिः—भरतस्य सूर्यस्य संबंधिनीभिः । (*bhāratībhiḥ—bharatasya sūryasya saṃbaṃdhinībhiḥ |*) Taking bharata to mean the Sun, the bhāṣyakāra explains bhāratībhiḥ as the Bhāratī-speech related to the Sun. Who this goddess Bhāratī is, is explained at the end of this discussion. Here the three goddesses are explained by assigning to them the places heaven, earth and atmosphere. Since Bhāratī belongs to the Sun in heaven, she comes to be in heaven. Since the goddess Iḷā is connected with men (manuṣyaḥ) (the word iḷā is read among the names of the earth), she comes to be a goddess of the earth-place. Sarasvatī comes to be a goddess of the atmosphere, that is, of the middle place. It is prayed that these three goddesses come to our sacrificial ground and sit upon the sacred grass called barhis spread as a seat.
+
+Agniḥ: why in this Ṛk Agni is prayed to come with Iḷā, Sarasvatī and Bhāratī is not clear. In the other Āprī sūktas there is no invitation to Agni with the three goddesses. Since there is a difference of opinion that all these deities of the Āprī sūktas are transformations of Agni, perhaps Agni has been praised in this Ṛk directly by the word Agni.
+
+In this Ṛk a group of three deities is addressed and prayed to honour the sacrifice. Except this sūkta and sūkta 1-142, in all the other Āprī sūktas too these deities are put together and indicated collectively as तिस्रो देवीः (*tisro devīḥ*). Iḷā, Sarasvatī and Bhāratī are these three. There is much difference of opinion about the nature of these deities. In 1-142 the goddess Bhāratī has the epithets hotrā, śuciḥ, (marutsu, deveṣu) arpitā, and the goddess Sarasvatī the epithet mahī. In some sūktas the word mahī, as an epithet, is used as a synonym of the goddess Bhāratī
+
+### Printed p. 728
+
+*[Running head, p. 728: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 4.]*
+
+[continuing:] In the present context, whether the nature of these deities can be precisely known can be examined on the authority of Śruti and similar sentences.
+
+On the matter of तिस्रो देवीः (*tisro devīḥ*) (the supplied text has the garbled form किस्रो देवी8 (*kisro devī8*)) Yāska says only
+
+शिस्त्रो दॆवीः । शिस्त्रोदेवीस्तिस्रो देव्यः ॥ (*śistro dèvīḥ | śistrodevīstisro devyaḥ ‖*)
+
+(the letters are as supplied), and in the Ṛk he gives as an example (printed "मक्किनल्लि (*makkinalli*)"):
+
+⟦ಆ ನೋ ಯಜ್ಞಂ ಭಾರತೀ ತೂಯಮೇತ್ವಿಳಾ ಮನುಷ್ವದಿಹ ಚೇತಯಂತೀ ।
+ತಿಸ್ರೋ ದೇವೀರ್ಬರ್ಹಿರೇದಂ ಸ್ಕೋನಂ ಸರಸ್ವತೀ ಸ್ವಪಸಃ ಸದಂತು ॥⟧
+(printed ಮ. सं (*saṃ*). 10-110-8)
+
+He explains it as follows:
+
+⟦ಐತು ನೋ ಯಜ್ಞಂ ಭಾರತೀ ಕ್ಷಿಪ್ರಂ । ಭರತ ಆದಿತ್ಯಸ್ತಸ್ಯ ಭಾ ಇಳಾ ಚ ಮನುಷ್ಪದಿಹ
+ಚೇತಯಮಾನಾ ತಿಸ್ರೋ ದೇವ್ಯೋ ಬರ್ಹಿರಿದಂ ಸುಖಂ ಸರಸ್ವತೀ ಚ ಸುಕರ್ಮಾಣ
+ಆಸೀದಂತು ॥⟧ (Ni. 8-13)
+
+That is: Bhāratī: Bharata is one of the twelve Ādityas. The radiance of the Āditya is called bhā. Therefore Bhāratī means the radiance of the Sun, or Agni in the form of light in the orb of the Sun. Iḷā: Iḷā means the earth. मनुष्वत् चेतयंती (*manuṣvat cetayaṃtī*): having the power to impel like men; that is, because she gives men on the earth food and other meals, wealth and the like, Iḷā is a special form of Agni in the earth-place. Sarasvatī: since she is the presiding deity of the thunder and lightning of the atmosphere, Sarasvatī is also said to be of the nature of Agni in the atmosphere. Therefore there is the custom of calling the three goddesses Iḷā, Sarasvatī and Bhāratī the three forms of Agni, in heaven, in the atmosphere and on the earth.
+
+In the Praiṣa sūkta, which collects the chief points of the Āprī sūktas, the mantra that indicates these deities is examined (the supplied text has "प्रैवसूक्तदल्लि (*praivasūktadalli*)", as supplied):
+
+⟦ಹೋತಾಯಕ್ಷತ್ತಿಸ್ರೋ ದೇವೀರಪಸಾಮಪಸ್ತಮಾ ಅಚ್ಛಿದ್ರಮದ್ಯೇ ದಮಪಸ್ತನ್ವತಾಂ ।
+ದೇವೇಭ್ಯೋ ದೇವೀರ್ದೇವಮಪೋ ವಿಯಂತ್ವಾಜಸ್ಯ ಹೋತರ್ಯಜ ॥⟧
+(printed तै (*tai*). ब्रा (*brā*). 3-6-2-2)
+
+In the text itself there is only तिस्रो देवीः (*tisro devīḥ*). Explaining it in the bhāṣya: सरस्वती, भारतीत्येवंरूपास्ति स्रोSष्टमप्रयाजदेव्यस्तद्रूपमग्निं दैवो होता (*sarasvatī, bhāratītyevaṃrūpāsti sroSṣṭamaprayājadevyastadrūpamagniṃ daivo hotā*) (preceded by the word Iḍā, as supplied)
+
+### Printed p. 729
+
+*[Running head, p. 729: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+यजतु । (*yajatu |*) It says that the three eighth-prayāja deities, Iḍā, Sarasvatī and Bhāratī, are deities that reflect Agni. Further, the epithet अपसां अपस्तमाः । कर्मवतीनां मध्येऽतिशयेन कर्मवत्यः । (*apasāṃ apastamāḥ | karmavatīnāṃ madhye 'tiśayena karmavatyaḥ |*) makes known that they are the most excellent among the active ones. In the Aitareya Brāhmaṇa:
+
+⟦ತಿಸ್ರೋ ದೇವೀರ‍್ಯಜತಿ ಪ್ರಾಣೋ ವಾ ಅಪಾನೋ ವ್ಯಾನಸ್ತಿಸ್ರೋ ದೇವ್ಯಸ್ತಾ ಏವ ತತ್ಪ್ರೀಣಾತಿ
+ತಾ ಯಜಮಾನೇ ದಧಾತಿ ।⟧
+(printed ಇ. ब्रा (*brā*). 2-4)
+
+Thus it states the identity of these three goddesses with the vital principles prāṇa, apāna and vyāna. The Nirukta author, quoting the Ṛk 10-110-8, आ नो यज्ञं (*ā no yajñaṃ*), gives this explanation of it:
+
+⟦ಐತು ನೋ ಯಜ್ಞಂ ಭಾರತೀ ಕ್ಷಿಪ್ರಂ । ಭರತ ಆದಿತ್ಯಸ್ತಸ್ಯ ಭಾ ಇಳಾ ಚ
+ಮನುಷ್ಯವದಿಹ ಚೇತಯಮಾನಾ ತಿಸ್ರೋ ದೇವ್ಯಾಃ ಬರ್ಹಿರಿದಂ ಸುಖಂ ಸರಸ್ವತೀ ಚ ಸುಕರ್ಮಾಣ
+ಆಸೀದಂತು ।⟧ (Ni. 8-13)
+
+May the goddess who is the radiance of Bharata (the Sun), Iḷā, and Sarasvatī adorn the barhis. In the Bṛhaddevatā:
+
+⟦ತಿಸ್ರಸ್ತು ದೇವ್ಯೋ ಯಾಃ ಪ್ರೋಕ್ತಾಸ್ತ್ರಿಸ್ಥಾನೈವೇಹ ಸಾ ತು ವಾಕ್ ।
+ತ್ರಿವಿಧೇನೋಚ್ಯತೇ ನಾಮ್ನಾ ಜ್ಯೋತಿಷು ತ್ರಿಷು ವರ್ತಿನೀ ॥
+ಅಗ್ನಿಮೇವಾನುಗೇಳಾ ತು ಮಧ್ಯಂ ಪ್ರಾಪ್ತಾ ಸರಸ್ವತೀ ।
+ಅಮೂ ಸ್ಥಿತಾಧಿ ಲೋಕಂ ತು ಭಾರತೀ ಭವತಿ ಹ್ಯಸೌ ॥
+ಸೈಷಾ ತು ತ್ರಿವಿಧಾ ವಾಗ್ವೈ ದಿವಿ ಚ ವ್ಯೋಮ್ಮಿ ಚೇಹ ಚ ।
+ವ್ಯಸ್ತಾ ಚೈವ ಸಮಸ್ತಾ ಚ ಭಜತ್ಯಗ್ನೀನಿಮಾನಪಿ ॥⟧
+(Bṛ. De. 3-12 to 14)
+
+"The three goddesses" means the presiding deities of speech in all three worlds. (The three forms of speech are explained in the verses 2-72 to 82 of the Bṛhaddevatā, Bṛ. De. 2-72 to 82.)
+
+अयं प्रयोगस्वेतेषां ज्योतिषां त्रिषु वर्ततां । (*ayaṃ prayogasveteṣāṃ jyotiṣāṃ triṣu vartatāṃ |*)
+(Bṛ. De. 1-90)
+
+As this says, the different deities in the three worlds are transformations of one presiding deity of speech. Of these, Iḷā followed the earthly Agni, Sarasvatī traversed the middle world, and Bhāratī came to be in the heaven-world. Still,
+
+देव्यस्ति स्रः श्रिताश्चैनं त्वष्टा चैवैतदाश्रयः । (*devyasti sraḥ śritāścainaṃ tvaṣṭā caivaitadāśrayaḥ |*)
+(Bṛ. De. 1-108)
+
+*[The window ends here, at the end of p. 729, after this quotation and its reference; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 726 (PDF 726). Sūkta 4 Ṛk 7 Special Topics (daivyā hotārau; Durga, Bṛ. De. 3-11); Ṛk 8 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha
+**Progress note:** Done through printed p. 729 (PDF 729). Sūkta 4 Ṛk 8 printed English and Special Topics so far (tisro devīḥ: Iḷā, Sarasvatī, Bhāratī; Ni. 8-13; Bṛ. De. 3-12 to 14, 1-90, 1-108)
