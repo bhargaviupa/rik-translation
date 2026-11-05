@@ -13650,6 +13650,123 @@ In this Ṛk and in the next two Ṛks the Aśvin deities are praised and invite
 अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः । अश्वैरश्विनावित्यौर्णवाभः । तत्कावश्विनौ द्यावापृथिव्यावित्येके । आहोरात्रावित्येके । सूर्याचंद्रमसावित्येके । राजानौ पुण्यकृतावित्यैतिहासिकाः ॥ (*aśvinau yadvyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ | aśvairaśvināvityaurṇavābhaḥ | tatkāvaśvinau dyāvāpṛthivyāvityeke | āhorātrāvityeke | sūryācaṃdramasāvityeke | rājānau puṇyakṛtāvityaitihāsikāḥ ‖*)
 (Si. [as printed] 12-1)
 
+### Printed p. 423
+
+*[Running head, p. 423: Aṣṭaka 2, Adhyāya 8, Varga 8, Ṛgvedasaṃhitā.]*
+
+Of these deities, one pervades everything with water and the other with light; therefore they are called the Aśvin deities: this is one opinion. Because they are yoked with horses they are called Aśvin deities: this is the opinion of Aurṇavābha. According to some they are Heaven and Earth. Others call them Day and Night. According to still others they are the Sun and the Moon. According to the view of the historians, two virtuous kings attained this rank. Thus there are many differences of opinion.
+
+नासत्या (*nāsatyā*)—the Aśvin deities are two. It is the custom to say that the name of one of them is Dasrā and of the other Nāsatyā; yet in many places these words are seen used to address both together. Concerning the meaning of the word नासत्या (*nāsatyā*) Yāska says:
+
+सत्यावेव नासत्यावित्यार्णवाभः । सत्यस्य प्रणेतारावित्याग्रायणः । नासिकाप्रभवौ बभूवतुरिति वा ॥ (*satyāveva nāsatyāvityārṇavābhaḥ | satyasya praṇetārāvityāgrāyaṇaḥ | nāsikāprabhavau babhūvaturiti vā ‖*)
+(Ni. 6-13)
+
+and has given the etymology. That is: what is not true is untrue; what is not untrue is *na* + *asatya* = नासत्या (*nāsatyā*); so the meaning of the word नासत्य (*nāsatya*) is "true" itself. Since the words these deities speak and the acts they perform are not untrue, they are called नासत्या (*nāsatyā*): this is the view of Aurṇavābha. Since they always propound truth and encourage it, they got the name नासत्या (*nāsatyā*): this is the view of one called Āgrāyaṇa. Some also say that they are called नासत्या (*nāsatyā*) because they were born from the nose. On this subject there is a story in the Purāṇas and similar works: formerly Saṃjñā, the wife of the Sun, being displeased with the Sun for some reason, went to the forest and performed austerities in the form of a mare; the Sun, learning of it, went to where she was in the form of a stallion and stayed some time; then the Aśvin deities were born to them as sons.
+
+In the Ṛgveda there are many sūktas concerning the Aśvin deities. They are very grave and describe their qualities, their prowess and the benefits they have done to others. We have explained all these at length on the respective occasions. In the Yajurveda and other Vedas it is said of them अश्विन् वै देवानां भिषज् (*aśvin vai devānāṃ bhiṣaj*)—the Aśvin deities are the physicians of the gods. For a detailed account of them see Ṛ. Saṃ. Part 2, pages 11 and 12, 20 and 21, and Part 13, page 566.
+
+### Printed p. 424
+
+*[Running head, p. 424: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+The main intent: O Aśvin deities, there is no untruth in you. You are the leaders (chiefs) of sacrificial rites. Go straight to the sacrificial ground, seated in your chariot. Grant that the sacrificer who offers soma to you obtains cows and horses as the fruit of the sacrificial rite.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> न यत्परो॒ नांत॑र आद॒धर्ष॑द्वषण्वसू ।
+> दुः॒शंसो॒ मत्यो॑र्वि॒पुः ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> न । यत् । परः । न । अंतरः । आदधर्षत् । वृषण्वसू इति वृषण्वसू ।
+> दुःशंसः । मर्त्यः । रिपुः ॥ ८ ॥
+
+*(The Pada is printed ವೃಷಣ್ವಸೂ ಇತಿ ವೃಷಣ್ವಸೂ at the seventh word, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> वृषण्वसू हे धनस्य वर्षितारौ यद्धनं परो दूरस्थो दुःशंसः शंसनायोग्यो मर्त्यो रिपुर्यन्नादधर्षत् तथोक्तलक्षणेतरोऽंतरः समीपवर्ति
+> मर्त्यो रिपुरपि यन्नादधर्षत् तद्धनमावोळ्हमिति शेषः ॥
+
+*(Gist: O showerers of wealth, bring that wealth which no malevolent enemy, whether far or near, can seize; "bring" is supplied as the remainder. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vṛṣaṇvasū: O showerers of wealth. Yat: which wealth. Paraḥ: a far-off, Duḥśaṃsaḥ: unpraiseworthy, Martyaḥ: human, Ripuḥ: enemy. Na ādadharṣat: cannot carry off (and likewise). Antaraḥ: an enemy near at hand. Na: cannot seize (provide us such wealth).
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, showerers of wealth, provide us such wealth as neither an unpraiseworthy enemy far off nor an enemy near at hand can steal.
+
+### Printed p. 425
+
+*[Running head, p. 425: Aṣṭaka 2, Adhyāya 8, Varga 8, Ṛgvedasaṃhitā.]*
+
+**Printed English translation**
+
+Showerers of wealth, (bring to us) such (riches) that the malevolent man, or foe, whether he be far off or nigh, may not take (it) away.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk there is no word denoting wealth. Yet the commentator has supplied many words and explained so that the sense fits in some way.
+
+वृषण्वसू (*vṛṣaṇvasū*)—for this dual word, formed from the root वृषु वर्षणे (*vṛṣu varṣaṇe*), the meaning is those who shower wealth or desired objects, that is, who give.
+
+परः (*paraḥ*)—दूरस्थः । (*dūrasthaḥ |*) "Far off" is the commentator's explanation. Though this meaning does not fit the word पर (*para*), since this Ṛk uses the word अंतरः (*aṃtaraḥ*), "near at hand", it is natural that पर (*para*) is explained as the opposite of that sense.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> ता न॒ आ वो॑ळ्ळमश्विना र॒यिं पि॒शंग॑संदृशं ।
+> धिष्ण्ण्या॑ वरिवो॒विदं॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> ता । नः । आ । वोळ्हं । अश्विना । रयिं । पिशंगसंदृशं ।
+> धिष्ण्या । वरिवःविदं ॥ ९ ॥
+
+*(The Pada is printed ವರಿವಃವಿದಂ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे धिष्ण्या धिषणार्हावश्विना हे अश्विन् ता तौ युवां पिशंगसंदृशं नानारूपं वरिवोविदं धनस्य लंभकं रयिं पशुं नोऽस्मभ्यमावोळ्हं । आवहतं ॥
+
+*(Gist: O worthy Aśvins, bring to us wealth in the form of cattle, of many forms, that obtains riches.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Dhiṣṭyā [printed धिष्ट्या (*dhiṣṭyā*), as supplied]: you who overcome enemies. Aśvinā: O Aśvin deities. Tā: you. Piśaṅgasaṃdṛśaṃ: of various forms. Varivovidaṃ: that increases wealth. Rayiṃ: wealth. Naḥ: to us. Ā voḷhaṃ [printed वोह्लं (*vohlaṃ*)]: bring.
+
+### Printed p. 426
+
+*[Running head, p. 426: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41; printed सायणभाव्यसहिता (*sāyaṇabhāvyasahitā*) in the supplied text, so the page was not split off by the script; the page marker and heading were inserted by hand and p. 426 added to the window.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, overcomers of enemies, bring us wealth of many forms, that increases wealth.
+
+**Printed English translation**
+
+Resolute Ashwins, bring to us riches of various sorts, and wealth begetting wealth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रयिं (*rayiṃ*)—the word रयि (*rayi*) is read among the names of water (Ni. 2-24) and among the names of wealth (Ni. 3-9). There is also the etymology रयिरिति धननाम रातेर्दानकर्मणः (*rayiriti dhananāma rāterdānakarmaṇaḥ*) (Ni. 4-17): Yāska explains रयि (*rayi*), formed from the root रा (*rā*) with the sense "give", as wealth. Although the commentator explains it as पशुं (*paśuṃ*) here, wealth in cattle too is counted as wealth, so either "wealth" or "cattle" may be said here.
+
+पिशंगसंदृशं (*piśaṃgasaṃdṛśaṃ*)—नानारूपं । (*nānārūpaṃ |*) The commentator explains पिशंग (*piśaṃga*) as "of many forms"; that is, wealth may be in forms such as goods, jewels, cattle, food; so the sense "in many forms" fits. Or, if पिशंग (*piśaṃga*) is explained as "of the colour पिशंग (*piśaṃga*), yellow", since gold and the like are yellow, it can be explained as "wealth such as gold".
+
+वरिवोविदं (*varivovidaṃ*)—धनस्य लंभकं । (*dhanasya laṃbhakaṃ |*) The meaning is that which provides wealth or increases wealth. The word वरिवः (*varivaḥ*) is read among the names of wealth (printed सि- ३-९ (*si- 3-9*), i.e. Ni. 3-9 as supplied).
+
+धिष्णा (*dhiṣṇā*) [as supplied]—धिषणार्ह । (*dhiṣaṇārha |*) Yāska, giving the etymology of this word, says:
+
+धिष्ट्यो—धिषणाभावः धिषणा वाग्निषेर्दधात्यर्थे । धीसादिनीति वा । धीसानिनीति वा ॥ (*dhiṣṭyo—dhiṣaṇābhāvaḥ dhiṣaṇā vāgniṣerdadhātyarthe | dhīsādinīti vā | dhīsāninīti vā ‖*)
+(Si. [as printed] 8-3)
+
+That is: धिषणा (*dhiṣaṇā*) means speech; the capacity that holds that speech is called धिष्णशि (*dhiṣṇaśi*) [as supplied]; the meaning is those who have the power of speech. Or, since the word धी (*dhī*) also means understanding or action, because that understanding or action (the sacrificial rite) sits, that is dwells, in them, they are called धिष्ण्या (*dhiṣṇyā*). In commenting on the word धिष्ण्या (*dhiṣṇyā*) in Ṛ. Saṃ. 1-3-2 the commentator explained धिष्ण्या धार्ष्ट्ययुक्तौ (*dhiṣṇyā dhārṣṭyayuktau*) as the courageous or the wise. Skandasvāmin—
+
 ---
 
-**Progress note:** Done through printed p. 422 (PDF 422). Sukta 41 Rik 6 complete (pp. 420-421); Rik 7 through Special Topics start (Yaska on Asvina quoted, p. 422). Flags: running heads print Mam. 3 / Ashtaka 3 as supplied; garbled bhashya/Bhavartha labels and stray line kept as notes; Ma. Sam. 6-67-8 and Si. 12-1 as printed; 2 accent DIFF
+**Progress note:** Done through printed p. 426 (PDF 426). Sukta 41 Rik 7 Special Topics finished (pp. 423-424); Rik 8 complete (pp. 424-425); Rik 9 through Special Topics (p. 426, ends mid-sentence at Skandasvamin). p. 426 merged into p. 425 text in the supplied file (misspelled running head), marker inserted by hand. Flags: Dhishnya spellings and Si./Ni. refs as supplied; 4 accent DIFF
