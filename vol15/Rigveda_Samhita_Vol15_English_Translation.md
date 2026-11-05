@@ -23600,6 +23600,90 @@ When Agni, as soon as he is born, is carried by the plants, then the shining pla
 
 *[The window ends here, at the end of p. 763, after the Bhāvārtha of Ṛk 8; the next window continues with its printed English.]*
 
+### Printed p. 764
+
+*[Running head, p. 764: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+**Printed English translation**
+
+As soon as generated he is borne aloft by the plants, which grow flourishing by moisture, as the beautifying waters descend : may he, in the bosom of his parents, protect us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಸದ್ಯೋ ಜಾತಃ ಯದಿ ಓಷಧೀಭಿಃ ವವಕ್ಷೇ ಪ್ರವತಾ ಆಪ ಇವ ಶುಂಭಮಾನಾಃ ಪ್ರಸ್ವಃ ಧೃತೇನ
+ವರ್ಧಂತಿ⟧: Agni, just born, is borne by the plants and trees; that is, the purport is that Agni is present within trees, vanaspatis, wood and herbs (creepers and the like). We have explained this matter in the sūktas addressed to Vaiśvānara. Agni, being in these plants and vanaspatis, makes them develop and grow well. It is known to all that without the fire element (heat, warmth) trees and the like do not grow. Since the Āditya is a transformation of Agni, the rays of the Āditya assist the growth of trees and the like. Without the help of the sun's rays or some kind of heat, neither trees nor animals can live. Therefore, because the plants and vanaspatis bear Agni, that is, because Agni pervades them, they grow stout and become fruitful. It is said here that the help of water too is necessary for this. Besides, an illustration is given here: प्रवता आप इव शुंभमानाः (*pravatā āpa iva śuṃbhamānāḥ*). Just as water flowing swiftly in a stream is powerful, that is, advances without regard to any obstacle or hindrance, so these plants, bearing Agni, grow luxuriantly without any obstacle and give fruit; thus the need of Agni and of water for the growth of plants is explained here.
+
+पित्रोः उपस्थे अग्निः उरुष्यत् (*pitroḥ upasthe agniḥ uruṣyat*): since the dual word pitroḥ is used here, this word indicates not only the father but the parents. In the same way, when the word mātṛ is used in the dual, the same sense holds. It is prayed that such an Agni, who grows between his parents, heaven and earth, protect us.
+
+*[Stray line as supplied at the foot of p. 764: "- 6523 -", kept as a note in kn.md.]*
+
+### Printed p. 765
+
+*[Running head, p. 765: Ā. (printed so for A.) 2, Ā. (printed so for A.) 8, Varga 25, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 9
+
+*[The supplied text has before the Saṃhitā the garbled label "१ संहितापाठ ॥ (*1 saṃhitāpāṭha ‖*)" (for Saṃhitā-pāṭha), and the two Saṃhitā lines were not marked as a block; the label is kept as a note in kn.md and the lines were made a block.]*
+
+**॥ संहितापाठः ॥**
+
+> उदु॑ ष्टु॒तः स॒मिधा॑ य॒हो अ॑द्यौ॒द्वर्ष्म॑न्दि॒वो अधि॒ नाभा॑ पृथि॒व्याः।
+> मि॒त्रो अ॒ग्नि रीड्यो॑ मात॒रिश्वा दू॒तो व॑क्षद्य॒जथा॑य दे॒वान् ॥९॥
+
+**॥ पदपाठः ॥**
+
+> उत् । ऊं इति । स्तुतः । संइधा । यह्वः । अद्यौत् । वर्ष्मन् । दिवः । अधि । नाभा ।
+> पृथिव्याः ।
+> मित्रः । अग्निः । ईड्यः । मातरिश्वा । आ । दूतः । वक्षत् । यजथाय । देवान् ॥ ९ ॥
+
+> *ut | ūṃ iti | stutaḥ | saṃidhā | yahvaḥ | adyaut | varṣman | divaḥ | adhi | nābhā |*
+> *pṛthivyāḥ |*
+> *mitraḥ | agniḥ | īḍyaḥ | mātariśvā | ā | dūtaḥ | vakṣat | yajathāya | devān ‖ 9 ‖*
+
+*[The supplied text has after the Pada the garbled label "१ सायणभाष्यं १ (*1 sāyaṇabhāṣyaṃ 1*)" (for Sāyaṇa-bhāṣya), inside the Pada block; it is kept as a note in kn.md and the standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उ इति पादपूरणः । स्तुतोऽस्माभिः स्तुतः समिधा समिंधनेन यहो
+> महान् अग्निः पृथिव्या उत्तरवेद्या नाभा नाभौ मध्यप्रदेशे स्थितः सन् दिवोऽंतरिक्षस्य
+> वर्षन् वर्षणि रूपे उदद्यौत् । द्योतते । मित्रः सर्वेषां मित्रभूत ईड्यः,
+> स्तुत्यो मातरिश्वा । मातर्यंतरिक्षे श्वसिति प्राणिति सूर्यरूपेण चेष्टत इति
+> मातरिश्वा । अथवा मातर्यरण्यां श्वसिति निवसतीति मातरिश्वा । तथाह यास्कः ।
+> मातर्यंतरिक्षे श्वसिति मातर्याश्वनितीति वा । नि. ७-२६ । दूतो देवानां दूतः
+> सन् यजथाय यज्ञाय देवानावक्षत् । आवहतु ॥
+
+*(Gist: Agni, praised and kindled, great, stationed at the navel of the earth, shines in the sky's form; he, friend, praiseworthy, Mātariśvan, the messenger, brings the gods to the sacrifice.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Stutaḥ: one praised by us. Samidhā: because kindled. Yahvaḥ: the great. Agniḥ: Agni. Pṛthivyāḥ: of the upper altar. Nābhā: being in the middle region. Divaḥ: of the atmosphere. Varṣman: in the form. Ut ādyaut: he shines. Mitraḥ: the friend of all. Īḍyaḥ: the praiseworthy. Mātariśvā: one who moves in the atmosphere in the form of the sun. Dūtaḥ: the messenger of the gods, Agni. Yajathāya: for the sacrifice. Devān: the gods. Ā vakṣat: let him bring.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, praised by us, great because kindled, being in the middle region of the upper altar, shines like the Āditya in the atmosphere. The friend of all, the praiseworthy one, moving in the atmosphere in the form of the sun, the messenger of the gods, Agni, let him bring the gods to the sacrifice (the end of the sentence is on the next page).
+
+### Printed p. 766
+
+*[Running head, p. 766: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+[continuing:] The praiseworthy one, moving in the atmosphere in the form of the sun, the messenger of the gods, Agni, let him bring the gods to the sacrifice (the supplied text has "युज्ञक्कागि (*yujñakkāgi*)", as printed).
+
+**Printed English translation**
+
+Praised and (nourished) by fuel, the mighty Agni, stationed on the (altar, the) navel of the earth, in the form of the firmament, has shone (brightly) : may the friendly and adorable Agni who respires in the mid-heaven, the messenger (of the gods), bring them to the sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+स्तुतः समिधा यह्वः अग्निः पृथिव्याः नाभा दिवः वर्ष्मन् उत् अदौत् (*stutaḥ samidhā yahvaḥ agniḥ pṛthivyāḥ nābhā divaḥ varṣman ut adaut*) (so printed): this Agni, well kindled with kindling-sticks (wood), blazing in great form, is praised by us; that is, we praise the greatly glorious Agni who blazes on the sacrificial altar. Such an Agni, on the sacrificial altar, which is the navel (middle region) of the earth, shines with great brilliance like the form in heaven (the sun). The bhāṣyakāra has explained the word दिवः (*divaḥ*) as the atmosphere. It may also be said to be heaven. If the sense heaven is taken, then for the words दिवः वर्ष्मन् (*divaḥ varṣman*) he shines in the form of the Āditya, the transformation of Agni in heaven; and if the word diva is taken as the atmosphere, then for दिवः वर्ष्मन् (*divaḥ varṣman*) two meanings may be given: he shines like lightning, the transformation of Agni in the atmosphere. That is, Agni established on the sacrificial altar shines with great brilliance like the Āditya in the heaven-place (heaven, the upper part of the atmosphere), or with extreme brilliance like the electric glow seen among the clouds in the atmosphere (like lightning); this is the purport.
+
+नाभा पृथिव्याः (*nābhā pṛthivyāḥ*): in the Ṛgveda and the other Vedas it is the custom to describe the sacrificial altar as the navel (middle region) of the earth. In the sentence ⟦ಅಯಂ
+ಯಜ್ಞೋ ಭುವನಸ್ಯ ನಾಭಿಃ⟧ of the Ṛk 1-164-35, and in the Yajurveda mantra of Tai. Brā. 2-6-7-1, ⟦ನಾಭಾ ಪೃಥಿವ್ಯಾ ಅಧಿ ।
+ದಿವೋ ವರ್ಷ್ಮನ್ ಸಮಿಧ್ಯತೇ ।⟧, it is said that the navel of the earth is the sacrificial altar.
+
+मित्रः ईड्यः मातरिश्वा दूतः यजथाय देवान् आ वक्षत् (*mitraḥ īḍyaḥ mātariśvā dūtaḥ yajathāya devān ā vakṣat*): this Agni is a friend of all, that is, one who wishes good like a friend. Therefore all praise this Agni. Here Agni is praised by the word mātariśvan. For the word mātariśvan the ordinary
+
+*[The window ends here, at the end of p. 766, in the middle of this sentence; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 763 (PDF 763). Sūkta 5 Ṛk 6 Special Topics end (sasa, carma, ghṛta; Ni. 5-3, 2-5, 2-2); Ṛk 7 (full) and Special Topics; Ṛk 8 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha
+**Progress note:** Done through printed p. 766 (PDF 766). Sūkta 5 Ṛk 8 printed English and Special Topics; Ṛk 9 (full) and Special Topics begun (Mātariśvan)
