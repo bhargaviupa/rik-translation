@@ -32941,6 +32941,110 @@ The Kannada: "This sūkta, विश्वजिते (*viśvajite*), is the te
 > *svarjite svargasya jetre 'dhipataye| satrājite satrā saṃtataṃ jayaśīlāya mahato jetre*
 > *vā | nṛjite nṛṇāṃ nāyakānāṃ jetre | urvarājite | urvarā sarvasasmāḍhyā bhū.*
 
+### Printed p. 875
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 27] Ṛgveda Saṃhitā 875", as supplied.)*
+
+*(Continuation of the Sāyaṇa-bhāṣya of Ṛk 1, begun on p. 874.)*
+
+> तस्या जेत्रे । अश्वजिते गोजिते बलेनापहृतानां गवां जेत्रे । अब्बिते वृत्रेणा-
+> क्रांतानामपां जेत्रे । यजताय यजनीयाय । तस्मा इंद्राय हर्यतं। हर्य
+> गतिकांत्योः । भ्रमृदृशीत्यादिना कर्मण्यतच् ॥ कमनीयं स्पृहणीयं वा सोमं
+> भरतेति समन्वयः ।
+
+*Gist: Indra is the conqueror of the horses, cattle and waters seized by Vṛtra and others; "yajatāya" means "worthy of sacrifice"; "haryata" is from the root "hary" (to go, to desire), meaning desirable Soma; bring that Soma to Indra.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O Adhvaryu.) विश्वजिते (*viśvajite*)—to him who has conquered everything and is lord of the whole universe; धनजिते (*dhanajite*)—who has conquered wealth; स्वर्जिते (*svarjite*)—who has conquered heaven and become its master; सत्राजिते (*satrājite*)—who always gains victory; नृजिते (*nṛjite*)—who has conquered the whole heart of the devoted human beings; उर्वराजिते (*urvarājite*)—who has conquered the earth; अश्वजिते (*aśvajite*)—who has conquered the horses; गोजिते (*gojite*)—who has conquered the cattle; अब्बिते (*abbite*)—who has conquered the waters (enveloped by Vṛtra); यजताय (*yajatāya*)—who is worshipful; इंद्राय (*iṃdrāya*)—for Indra; हर्यतं (*haryataṃ*)—desirable; सोमं (*somaṃ*)—the Soma juice; भर (*bhara*)—procure (prepare).
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryu, for Indra, who has conquered everything and is lord of the whole universe; who has conquered wealth and heaven and is the owner of them; who always and everywhere gains victory; who has conquered the hearts of devoted human beings and is their master; who has conquered the earth, the horses, the cattle and the waters and is the lord of all of them; and who is worshipful: procure (prepare) the desirable Soma juice.
+
+**Printed English translation**
+
+Bring the desired Soma to the adorable Indra, the lord of all, the lord of wealth, the lord of heaven, the perpetual lord, the lord of man, the lord of earth, the lord of horses, the lord of cattle, the lord of water.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the yajamāna, addressing the priest called Adhvaryu, tells him to prepare the Soma juice for Indra's drinking of Soma. Ten qualifying words beginning with विश्वजिते (*viśvajite*) are used to describe Indra's qualities.
+
+स्वर्जिते (*svarjite*)—Since the word स्वः (*svaḥ*) has the meanings heaven, the sun, the atmosphere and so on, the sense is "who has conquered them". Here the word जिते (*jite*) at the end of the words may be given the meaning "conquered" or "lord (adhipati)".
+
+### Printed p. 876
+
+*(Header: "376 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 21]", as supplied; the page number is misprinted or misread as 376 in the supplied text.)*
+
+For the words विश्वजिते (*viśvajite*), धनजिते (*dhanajite*), सत्राजिते (*satrājite*) the meaning is plain, so an explanation of them is unnecessary.
+
+उर्वराजिते (*urvarājite*)—Although the word उर्वरा (*urvarā*) is not read among the names of the earth in the Nirukta, the Bhāṣyakāra cites a lexicon, उर्वरा सर्वसस्याढ्या भूः (*urvarā sarvasasyāḍhyā bhūḥ*), and since उर्वरा (*urvarā*) means earth, he explains उर्वराजिते (*urvarājite*) as "who has conquered the earth".
+
+नृजिते (*nṛjite*)—नृणां नायकानां जेत्रे (*nṛṇāṃ nāyakānāṃ jetre*). The word नृ (*nṛ*) may be taken to mean the leaders or chiefs of men, or the enemies of the worshippers, evil people. The sense is: Indra, who conquered such people in battle.
+
+गोजिते (*gojite*)—वलेनापहृतानां गवां जेत्रे (*valenāpahṛtānāṃ gavāṃ jetre*). The sense is: he who won back and brought the cattle carried off by the demon Vala and the demons named Paṇis.
+
+अज्जिते (*ajjite*) (as printed here; the Saṃhitā has अब्बिते (*abbite*) in the supplied text)—वृत्रेणाक्रांतानामपां जेत्रे (*vṛtreṇākrāṃtānāmapāṃ jetre*). Because by slaying the demon Vṛtra he won the waters in the clouds, which had been seized by Vṛtra, and made rain fall on the earth, Indra is praised here by the word अज्जिते (*ajjite*) as the winner of the waters.
+
+यजताय (*yajatāya*)—यजनीयाय (*yajanīyāya*). Since Indra is not a visible deity, in order to offer Soma and the like to him one must offer them in sacrifices and other rites by pouring the Soma and the oblation into the fire. Therefore the qualifying word यजताय (*yajatāya*), meaning "worshipped through sacrifices and the like", is used.
+
+हर्यतं (*haryataṃ*)—हर्य गतिकांत्योः । कमनीयं स्पृहणीयं वा सोमं (*harya gatikāṃtyoḥ | kamanīyaṃ spṛhaṇīyaṃ vā somaṃ*). Since the word हर्यतं (*haryataṃ*) is derived from the root हर्य (*harya*), which gives the sense "to desire", हर्यतं (*haryataṃ*) means desirable, wished for by all: the Soma juice.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अ॒भि॒भुवे॑ऽभिभ॒ङ्गाय॑ वन्व॒तेषा॑ह्हाय॒ सह॑मानाय वे॒धसे॑ ।
+> तु॒वि॒ग्रये॒ वह्न॑ये दु॒ष्टरी॑तवे सत्रा॒साहे॒ नम॒ इंद्रा॑य वोचत ॥ २ ॥
+
+> *abhibhuve 'bhibhaṅgāya vanvateṣāhhāya sahamānāya vedhase |*
+> *tuvigraye vahnaye duṣṭarītave satrāsāhe nama iṃdrāya vocata ‖ 2 ‖*
+
+### Printed p. 877
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 27] Ṛgveda Saṃhitā 877", as supplied.)*
+
+**॥ पदपाठः ॥**
+
+> अभिभुवे । अभिभङ्गाय । वन्वते । अषाह्हाय । सहमानाय । वेधसे ।
+> तुविग्रये । वह्नये । दुस्तरीतवे । सत्रासहे । नमः । इन्दाय । वोचत ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अभिभुवे सर्वस्याभिभवित्रेऽभिभंगायासुराणां भंजकाय वन्वते ॥ वन षण
+> संभक्तौ । व्यत्ययेन उप्रत्ययः ॥ शत्रुणां धनानां संभजकाय । अषाळ्दाय ॥
+> सहेः कर्मणि निष्ठा । उत्वाभावश्चांदसः ॥ शत्रुभिरनभिभूताय । सहमानाय सर्वं-
+> सहाय वेधसे सर्वस्य विधात्रे । तुविग्रये पूर्णग्रीवाय ॥ यद्वा गृ शब्दे ।
+> औणादिकः कर्मणि कप्रत्ययः ॥ तुविभिर्बहुभिः स्तोतव्याय । वह्नये सर्वस्य वोढ्रॆ
+> दुष्टरीतवेऽन्यैर्दुस्तराय दुर्हिंसाय । सत्रासहे सर्वदाभिभवित्रे महतोऽभि-
+> भवित्रे वा एवंविधायेंद्राय नमो नमःशब्दपूर्वकं स्तोत्रं वोचत । हे
+> स्तोतारो यूयं ब्रूत ॥ ब्रूइणो लुज ब्रुवो वचिः । अस्यतिवक्तिख्यातिभ्योs-
+> ज्ञ त्यजादेशः । वच उमित्युम् । गुणः ॥
+
+> *abhibhuve sarvasyābhibhavitre 'bhibhaṃgāyāsurāṇāṃ bhaṃjakāya vanvate ‖ vana ṣaṇa*
+> *saṃbhaktau | vyatyayena upratyayaḥ ‖ śatruṇāṃ dhanānāṃ saṃbhajakāya | aṣāḷdāya ‖*
+> *saheḥ karmaṇi niṣṭhā | utvābhāvaścāṃdasaḥ ‖ śatrubhiranabhibhūtāya | sahamānāya sarvaṃ-*
+> *sahāya vedhase sarvasya vidhātre | tuvigraye pūrṇagrīvāya ‖ yadvā gṛ śabde |*
+> *auṇādikaḥ karmaṇi kapratyayaḥ ‖ tuvibhirbahubhiḥ stotavyāya | vahnaye sarvasya voḍhrè*
+> *duṣṭarītave 'nyairdustarāya durhiṃsāya | satrāsahe sarvadābhibhavitre mahato 'bhi-*
+> *bhavitre vā evaṃvidhāyeṃdrāya namo namaḥśabdapūrvakaṃ stotraṃ vocata | he*
+> *stotāro yūyaṃ brūta ‖ brūiṇo luja bruvo vaciḥ | asyativaktikhyātibhyos-*
+> *jña tyajādeśaḥ | vaca umityum | guṇaḥ ‖*
+
+*Gist: Indra is the overcomer of all, the breaker of the demons, the winner of enemies' wealth, unconquered, all-enduring, creator, praiseworthy, all-bearing, unassailable and ever-victorious; O worshippers, recite praise with homage to him. The grammatical tail explains the formation of वन्वते (*vanvate*), अषाळ्दाय (*aṣāḷdāya*), तुविग्रये (*tuvigraye*) and वोचत (*vocata*) (sūtras not numbered in the supplied text).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अभिभुवे (*abhibhuve*)—to him who defeats everything and himself wins victory; अभिभंगाय (*abhibhaṃgāya*)—the destroyer of enemies; वन्वते (*vanvate*)—who has taken the wealth (of the enemies); अषाळ्याय (*aṣāḷyāya*) (as printed)—the unobstructed one; सहमानाय (*sahamānāya*)—who endures everything; वेधसे (*vedhase*)—who creates everything; तुविग्रये (*tuvigraye*)—who is praised by all; वह्नये (*vahnaye*)—who bears everything; दुष्टरीतवे (*duṣṭarītave*)—who is not harmed by others; सत्रासहे (*satrāsahe*) who always gains victory; इंद्राय (*iṃdrāya*)—for Indra; नमः (*namaḥ*)—praise accompanied by homage; वोचत (*vocata*)—recite.
+
+**भावार्थ (Bhāvārtha)**
+
+To Indra, who defeats all and himself wins victory; the destroyer of enemies; who has taken the enemies' wealth; the unobstructed one (printed आप्रतिहत (*āpratihata*)); who endures everything; who creates everything; who is praised by all; who bears everything; who is not harmed by others; and who always gains victory: recite praise accompanied by homage.
+
+**Printed English translation**
+
+Offer adoration to Indra, the overcomer, the destoyer [sic], the munificent, the invincible, the all-enduring, the creator, the all-adorable: the sustainer, the unassailable, the ever-victorious.
+
 ---
 
-**Progress note:** Done through printed p. 874 (PDF 874). Sukta 20 Rk 9 (Samhita/Pada garbled, converted letter for letter; accent DIFF on spelling slips) and Special Topics (cross-reference only); Sukta 20 closed without colophon; Sukta 21 introduction, heading block and Rk 1 Samhita, Pada, bhashya begun (bhashya continues on p. 875)
+**Progress note:** Done through printed p. 877 (PDF 877). Sukta 21 Rk 1 closed (bhashya, Pratipadartha, Bhavartha, English, Special Topics); Rk 2 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English; Rk 2 Special Topics follow
