@@ -30605,6 +30605,91 @@ In this Ṛk another aspect of Indra's valour is described. When Indra fights wi
 
 रथेष्टेन हर्यश्वेन विच्युताः प्र जीरयः सिस्त्रते सध्रक् पृथक् (*ratheṣṭena haryaśvena vicyutāḥ pra jīrayaḥ sistrate sadhrak pṛthak*)—जीरयो जरयितारो बाधका असुं: रथस्थितेन हर्यश्वेन त्वया स्वस्थानाज्ञाविशाः संतः (*jīrayo jarayitāro bādhakā asuṃ: rathasthitena haryaśvena tvayā svasthānājñāviśāḥ saṃtaḥ*) (continued on the next page; the supplied text is cut off here at the end of the window).
 
+### Printed p. 803
+
+*(Header: "[A. 2. A. 6. V. 19.] Ṛgvedasaṃhitā 803".)*
+
+परस्परं संगताः भीत्या वियुक्ताः संतः प्रकर्षण धावंति । (*parasparaṃ saṃgatāḥ bhītyā viyuktāḥ saṃtaḥ prakarṣaṇa dhāvaṃti |*) (continuing the quotation from p. 802.) The asuras, who are of a reviling nature and cause trouble, having been dislodged from their respective places in the battlefield by you (Indra) seated in the chariot yoked with your horses called Hari, gathered together, were afraid of you and ran away in various directions. That is: when in battle you sit in the chariot you have got ready by yoking your Hari horses and fight, the enemy asuras who came to face you, afraid of your strength and valour and unable to fight, abandoned their places and all fled in confusion. Thus, having driven the enemies away, you displayed your strength before the praisers: so Indra is praised.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अधो॒ यो विश्वा॒ भुन॑ना॒भि म॒ज्जने॑शान॒कृत्प्रव॑या अ॒भ्यव॑ध्रत । [?]
+> आद्रोद॑सी॒ ज्योति॑षा॒ वह्नि॒रात॑नो॒त्सीव्य॒न्तमां॑सि॒ दुधि॑ता॒ सम॑व्ययत् ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अध । यः । विश्वा । भुवना । अभि । मज्मना । ईशानकृत् । प्रवयाः । अभि । अवर्धत ।
+> आत् । रोदसी इति । ज्योतिषा । वह्निः । आ । आतनोत् । सीव्यन् । तमांसि । दुधिता ।
+> सं । अव्ययत् ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अध अपि च प्रवयाः प्रवृद्दान्नः पुरातनो वा य इंद्रो विश्वा भुवना
+> सर्वान् लोकान् मज्मना बलेनाभिभूयेशानकृत् आत्मानं सर्वस्याधिपतिं कुर्वन् ।
+> यद्वा अग्न्यादीश्वेवान् तत्तल्लोकाधिपतीन्कुर्वन् अभ्यवर्धत । सर्वतः प्रवृद्दोS-
+> भवत् । आदनंतरं वह्निर्जगतां वोढा स इंद्रो ज्योतिषा स्वीयेन तेजसा
+> रोदसी द्यावापृथिव्यावातनोत् । व्याप्नोत् । किंच तमांसि तमोरूपाणि रक्षांसि
+> दुधिता दुःस्थितानि दुर्गतानि सीव्यन् विस्तारयन् समव्ययत् । आवृणोत् । जग-
+> द्व्याप्य वर्तत इत्यर्थः ॥
+
+> *adha api ca pravayāḥ pravṛddānnaḥ purātano vā ya iṃdro viśvā bhuvanā*
+> *sarvān lokān majmanā balenābhibhūyeśānakṛt ātmānaṃ sarvasyādhipatiṃ kurvan |*
+> *yadvā agnyādīśvevān tattallokādhipatīnkurvan abhyavardhata | sarvataḥ pravṛddoS-*
+> *bhavat | ādanaṃtaraṃ vahnirjagatāṃ voḍhā sa iṃdro jyotiṣā svīyena tejasā*
+> *rodasī dyāvāpṛthivyāvātanot | vyāpnot | kiṃca tamāṃsi tamorūpāṇi rakṣāṃsi*
+> *dudhitā duḥsthitāni durgatāni sīvyan vistārayan samavyayat | āvṛṇot | jaga-*
+> *dvyāpya vartata ityarthaḥ ‖*
+
+Gist: Indra, grown supreme over all worlds, filled heaven and earth with his light and spread over the dark, evil-dwelling demons.
+
+### Printed p. 804
+
+*(Header: "804 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 17".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध (*adha*)—besides; प्रवयाः (*pravayāḥ*)—ancient, or possessing abundant food; यः (*yaḥ*)—which same Indra; विश्वा भुवना अभि (*viśvā bhuvanā abhi*)—all the worlds; मज्मना (*majmanā*)—by his strength (having conquered); ईशानकृत् (*īśānakṛt*)—making himself the lord of the whole world; अभ्यवर्धत (*abhyavardhata*)—grew fully; आत् (*āt*)—thereafter; वह्निः (*vahniḥ*)—that Indra who bears the whole world; ज्योतिषा (*jyotiṣā*)—by his splendour; रोदसी (*rodasī*)—heaven and earth; आतनोत् (*ātanot*)—pervaded (and); दुधिता (*dudhitā*)—ill-placed (wicked); तमांसि (*tamāṃsi*)—the demons of the nature of darkness; सीव्यन् (*sīvyan*)—scatter (as printed: an imperative form); समव्ययन् (*samavyayan*)—pervaded the whole world (so printed here, where the Saṃhitā has समव्ययत् (*samavyayat*); reported, not changed).
+
+**भावार्थ (Bhāvārtha)**
+
+That same ancient Indra, who, having conquered all worlds by his strength and made himself lord of the whole world, grew fully: thereafter that Indra, who bears the whole world, pervaded heaven and earth by his splendour; and, scattering the wicked darknesses, he pervaded the whole world.
+
+*English Translation.*
+
+He indeed, the ancient Indra, making himself by his might sovereign over all worlds, became supreme over(all): and thenceforth sustaining heaven and earth, he overspread them with effulgence, and, scattering the malignant glooms, he pervaded(all things)-
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अध यः प्रवयाः विश्वा भुवना मज्मना अभि ईशानकृत् अभि अवर्धत (*adha yaḥ pravayāḥ viśvā bhuvanā majmanā abhi īśānakṛt abhi avardhata*)—अपि च प्रवृद्धान्नः पुरातनो वा य इंद्रो सर्वान् लोकान् बलेनाभिभूयात्मानं सर्वस्याधिपतिं कुर्वन् अवर्धत । (*api ca pravṛddhānnaḥ purātano vā ya iṃdro sarvān lokān balenābhibhūyātmānaṃ sarvasyādhipatiṃ kurvan avardhata |*) And this Indra, who has abundant food or is ancient, conquered all the worlds by his own power, made himself the lord of everything, and went on shining. Or: यद्वा अग्न्यादीन् देवान् तत्तल्लोकाधिपतीन् कुर्वन् अभ्यवर्धत सर्वतः प्रवृद्धोऽभवत् (*yadvā agnyādīn devān tattallokādhipatīn kurvan abhyavardhata sarvataḥ pravṛddho 'bhavat*); or, by his own power he made the gods Agni and the rest lords of their respective worlds (the earth, the atmosphere, heaven and so on) and, being himself the lord of them all, went on shining. The commentator has given this second sense as well.
+
+मज्जना (*majjanā*) (as printed; the headword above reads मज्मना (*majmanā*))—the word is read among the twenty-eight names of strength (Ni. 3-9). Formed from the root टुमस्जी शुद्धौ (*ṭumasjī śuddhau*) (tudādi, parasmaipada), it is used in the sense of strength, since it "drowns" the enemies, that is, destroys them (मज्जयति शत्रून् (*majjayati śatrūn*) (continued on the next page)
+
+### Printed p. 805
+
+*(Header: "[A. 2. A. 6. V. 19.] Ṛgvedasaṃhitā 805".)*
+
+—drowns the enemies). Although this word is in the instrumental singular, it is used also in the senses of other case-endings.
+
+प्रवयाः (*pravayāḥ*)—since this word is read among the names for "old" (Ni. 3-20), it is used in the sense प्रगतं वयो यस्य (*pragataṃ vayo yasya*), "one whose age has gone far", that is, ancient, old. Moreover, if the word is divided as प्र (*pra*), वयः (*vayaḥ*), then since वयः (*vayaḥ*) means food (Ni. 3-9), the sense "one with eminently, that is, abundantly, great wealth of food" is understood. The commentator has explained both these senses here.
+
+आत् रोदसी ज्योतिषा वह्निः आ आतनोत् (*āt rodasī jyotiṣā vahniḥ ā ātanot*)—आदनंतरं वह्निर्जगतां वोढा स इंद्रो ज्योतिषा स्वीयेन तेजसा रोदसी द्यावापृथिव्यावातनोत् व्याप्पोत् । (*ādanaṃtaraṃ vahnirjagatāṃ voḍhā sa iṃdro jyotiṣā svīyena tejasā rodasī dyāvāpṛthivyāvātanot vyāppot |*) (the supplied text has व्याप्पोत् (*vyāppot*); reported, not changed). Thereafter that Indra, who bears the world, pervaded heaven and earth everywhere by his own power, that is, heaven and earth; the meaning is that Indra's power shines everywhere in the earth, the atmosphere and heaven.
+
+आत् (*āt*)—अथ (*atha*), meaning "thereafter" (Ni. 4-11). The word रोदसी (*rodasī*) is read among the names of heaven and earth (Ni. 3-22). वह्निः (*vahniḥ*)—this word is formed from the root वह प्रापणे (*vaha prāpaṇe*), which means to bear, to hold, to carry; so वह्नि (*vahni*) is used of the horse in the sense of bearing the chariot, of Agni in the sense of bearing the oblation, and of Indra and the other gods in the sense of holding up and nourishing the world. In the present Ṛk it is used in the sense of Indra who holds up the world.
+
+तमांसि दुधिता सीव्यन् सं अव्ययत् (*tamāṃsi dudhitā sīvyan saṃ avyayat*)—किंच तमांसि तमोरूपाणि रक्षांसि दुधिता दुःस्थितानि दुर्गतानि सीव्यन् विस्तारयन् समव्ययत् आवृणोत् । जगद्व्याप्य वर्तत इत्यर्थ । (*kiṃca tamāṃsi tamorūpāṇi rakṣāṃsi dudhitā duḥsthitāni durgatāni sīvyan vistārayan samavyayat āvṛṇot | jagadvyāpya vartata ityartha |*) And this Indra, making the rākṣasas who are of the nature of darkness, that is, who move about at night, which is filled with darkness, fall into a bad state or ill fate, that is, destroying the rākṣasas and the like, remains pervading the whole world: thus the power and might of Indra are described.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स प्रा॒चीना॒न्सर्व॑तान्दृंह॒दोज॑साधरा॒चीन॑मकृणोद॒पामपः॑ ।
+
+> *sa prācīnānsarvatāndṛṃhadojasādharācīnamakṛṇodapāmapaḥ |*
+
+(The verse breaks off at the foot of p. 805; it continues on the next page.)
+
 ---
 
-**Progress note:** Done through printed p. 802 (PDF 802). Sukta 17 Rk 2 bhasya end, Pratipadartha, Bhavartha, printed English, Special Topics; Rk 3 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English, start of Special Topics
+**Progress note:** Done through printed p. 805 (PDF 805). Sukta 17 Rk 3 Special Topics completed; Rk 4 complete (Samhita first line taken from the supplied Devanagari title fragment, marked [?]); Rk 5 Samhita begun (breaks off at foot of p. 805)
