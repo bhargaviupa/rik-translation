@@ -20,6 +20,17 @@ def lev(a, b):
 f = open(log, "w", encoding="utf8"); f.write("md_line\tPDF\told\tnew\tnote\n"); done = set(); n_tok = n_skip = 0
 for x in rows:
     P, ln, new, old = x[0], x[4], x[2], x[5]
+    if old.endswith("-?"):   # incomplete md token '4-?' (+ 'as read' / '[?]'): replaced by the file's full value
+        kp = old[:-2].split("-"); fv = new.split("-")
+        if len(fv) <= len(kp) or (lev("-".join(kp), "-".join(fv[:len(kp)])) >= 2 or len("-".join(kp)) != len("-".join(fv[:len(kp)]))): f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED incomplete token, prefix differs\n"); n_skip += 1; continue
+        for i in range(max(0, ln - 9), min(len(L), ln + 8)):
+            def repi(m):
+                global n_tok
+                if re.findall(r"\d+", m.group(1).translate(D2A)) != kp: return m.group(0)
+                out = new.translate(A2D) if re.search("[०-९]", m.group(1)) else new
+                n_tok += 1; f.write(f"{i+1}\t{P}\t{m.group(0)}\t{out}\tincomplete\n"); return out
+            L[i] = re.sub(r"(?<![\d\-.])([०-९0-9]+(?:\s*-\s*[०-९0-9]+)*)\s*-\s*\?+(?:\s+as read)?(?:\s*\[\?\])?", repi, L[i])
+        continue
     if re.search(r"\d\s*,\s*\d", x[6] or "") and "-" not in (x[6] or ""): f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED plain list\n"); n_skip += 1; continue
     if "--parts-ok" not in sys.argv and len(old.split("-")) != len(new.split("-")): f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED part count differs (file likely lost/moved a separator)\n"); n_skip += 1; continue
     if lev(old, new) >= 4: f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED distance>=4\n"); n_skip += 1; continue
