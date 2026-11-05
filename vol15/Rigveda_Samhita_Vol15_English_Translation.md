@@ -1522,6 +1522,92 @@ Number of ṛks in the Sūkta: 5 ·
 > *jātena jātamati sa pra sarsṛte yaṃyaṃ yujaṃ kṛṇute brahmaṇa-*
 > *spatiḥ ‖ 1 ‖*
 
+### Printed p. 50
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 25, p. 50.*
+
+#### Ṛk 1 (continued)
+
+**॥ पदपाठः ॥**
+
+> इंधानः । अग्निं । वनवत् । वनुष्यतः । कृतब्रह्मा । शूशुवत् । रातहव्यः । इत् ।
+> जातेन । जातं । अति । सः । प्र । सर्सृते । यंयं । युजं । कृणुते । ब्रह्मणः ।
+> पतिः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अग्निमिंधानो ब्रह्मणस्पतेर्यागार्थमग्निं प्रज्वलयन्यजमानो वनु-
+> ष्यतो हिंसिष्यतो हिंसां कुर्वतो वा शत्रून्वनवत् । वनुयात् हिंस्यात् ॥
+> वनुष्यतिर्हंतिकर्मति यास्कः । इदिति जार्थे ॥ कृतब्रह्मा ! ब्रह्म स्तोत्रं कृतं
+> येन स तथोक्तः । रातहव्यः । रातं दत्तं हव्यं हविर्येन । एवंभूतः सन्
+> शूशुवत् । वर्धते॥ टुओश्वि गतिवृद्ध्योः। अस्माण्ण्यंताल्लुजु रूपं॥ तथा यजमानो
+> जातेन पुत्रेण जातं जनितमुत्पादितं स्वस्य पौत्रमिति प्रसस्पृते : अतीत्य भृशं
+> प्रसरति । पौत्रमपि पश्यन् चिरकालं जीवेदित्यर्थः ॥ सर्तेर्यज् लुगंताद्वत्य-
+> येनात्मनेपदं ॥ यंयं यजमानं ब्रह्मणस्पतिः स्तोत्रहविषोः स्वीकरणेन
+> युजं सखायं कृणुते । कुरुते । स समान एव भवतीत्यर्थः ॥
+
+*Gist:* the sacrificer who kindles the fire for Brahmaṇaspati destroys hostile enemies, prospers through hymn and oblation, and lives long enough to see his grandson; the grammatical remarks (roots *vanu*, *śuṣ/śū*, *sṛ*) are noted but not explained.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(For the sacrifice addressed to Brahmaṇaspati) *agnim*—the fire; *indhānaḥ*—the sacrificer who makes it blaze; *vanuṣyataḥ*—the enemies who cause obstruction to the sacrifice; *vanavat*—he strikes and drives far away; *it*—and; *kṛtabrahmā*—composing hymns; *rātahavyaḥ*—offering oblations; *śūśuvat*—he gains increase; *yaṃyam*—whichever sacrificer; *brahmaṇaspatiḥ*—Brahmaṇaspati; *yujam*—as a friend; *kṛṇute*—makes (him his own); *saḥ*—that sacrificer; *jātena*—(beyond) the son; *jātam*—the grandson born; *ati pra sarsṛte*—passes beyond and lives long (he lives long enough to see grandsons and others also).
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer who makes the fire blaze for the sacrifice addressed to Brahmaṇaspati strikes down and drives far away the enemies who obstruct the sacrifice; and, composing hymns and offering oblations, he gains increase. The sacrificer whom Brahmaṇaspati makes his friend lives long, so that he sees all his sons and grandsons and rejoices.
+
+### Printed p. 51
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 4, Ṛgveda-saṃhitā, p. 51.*
+
+**Printed English translation**
+
+Kindling the fire, may (the worshipper) overcome the malevolent (disturbers of the rite); may he, repeating prayers, and laden with oblations, prosper; he whom Brahmanaspathi makes his associate, lives to behold the son of his son.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अग्निं इंधानः (*agniṃ iṃdhānaḥ*)—ब्रहणस्पतेर्यागार्थमग्निं प्रज्वलर्य यजमानः (*brahaṇaspateryāgārthamagniṃ prajvalarya yajamānaḥ*). Here the word *indhānaḥ* is given the sense "the sacrificer who kindles the fire"; the meaning is explained thus: in the sacrifice performed for Brahmaṇaspati, the sacrificer drives far away, by the greatness of the fire, all the enemies who harm him. Yāska reads वनुष्यतिर्हिंसा कर्मा (*vanuṣyatirhiṃsā karmā*) (Ni. 5-2) ["vanuṣyati means the act of harming"], and cites it, explaining वनुयाम (*vanuyāma*), वनुष्यतः (*vanuṣyataḥ*).
+
+कृतब्रह्मा (*kṛtabrahmā*)—The word *brahma* is read by Yāska (Ni. 3-9) in the senses of food and wealth; Sāyaṇa here explains *brahma* as "hymn" with कृतं ब्रह्म स्तोत्रं येन (*kṛtaṃ brahma stotraṃ yena*).
+
+जातेन जातं (*jātena jātaṃ*)—यजमानः पुत्रेण जनितं स्वस्य पौत्रं अतीत्य भृशं प्रसरति । पौत्रमपि पश्यन् चिरकालं जीवेत् (*yajamānaḥ putreṇa janitaṃ svasya pautraṃ atītya bhṛśaṃ prasarati | pautramapi paśyan cirakālaṃ jīvet*). Here *jātena* means "by the son", i.e. by the sacrificer's son; *jātam* means the grandson born of such a son. So the words *jātena jātam* mean the son of the sacrificer's son, i.e. the grandson. The prayer made here to Brahmaṇaspati is that he grant us sacrificers life to last until the time of such a grandson, so that we may go on living [the source's word जीनिसिरुवंतॆ (*jīnisiruvaṃtè*) is printed thus, as supplied].
+
+ब्रह्मणस्पतिः यंयं युजं कृणुते सः (*brahmaṇaspatiḥ yaṃyaṃ yujaṃ kṛṇute saḥ*)—The explanation of the word *brahmaṇaspati* has been given earlier. Some hold that he is Bṛhaspati, others that he is a deity different from Bṛhaspati. It is explained that this god regards as his friend the sacrificer who has satisfied him with oblations and the like offered in his name, and makes him one of greatness equal to his own.
+
+### Printed p. 52
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 25, p. 52.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> वी॒रेभि॑र्वि॒रान्व॑नद्वनुष्य॒तो गोभी॑ र॒यिं प॑प्रथ॒द्योध॑ति॒ त्मना॑ ।
+> तो॒कं च॒ तस्य॒ तन॑यं च वर्धते॒ यंयं॒ युजं॑ कृणु॒ते ब्रह्म॑ण॒-॑
+> स्पतिः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> वीरेभिः । वीरान् । वनवत् । वनुष्यतः । गोभिः । रयिं । पप्रथत् । बोधति । त्मना ।
+> तोकं । च । तस्य । तनयं । च । वर्धते । यंऽयं । युजं । कृणुते । ब्रह्मणः ।
+> पतिः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स यजमानो वीरेभिर्वीरैरात्मीयैः पुत्रैर्वनुष्यतो हिंसतो वीरान्
+> शत्रुपुत्रान् वनवत् । वनुयात् हिंस्यात् । अपि च गोभिः सहितं धनं पप्रथत् ।
+> प्रथयति विस्तारयति ॥ प्रथयतेर्लुजि चज्येतद्रूपं ॥ तथा त्मना आत्मनैव बोधति ।
+> सर्वं जानाति । अनन्याधीनज्ञानो भवतीत्यर्थः । किंच तस्य यजमानस्य तोकं
+> पुत्रस्तनयं ॥ विभक्तिव्यत्ययः ॥ तनयस्तत्पुत्रश्च वर्धते । प्रवृद्दो भवति । यद्वा
+> तोकं तनयं पुत्रं पौत्रं च ब्रह्मणस्पतिर्वर्धयति ॥ वृधिरंतर्भावितण्यर्थो
+> द्रष्टव्यः । अन्यद्धतं ॥
+
+*Gist:* that sacrificer, with his own sons, destroys the enemies' sons, increases wealth with cattle, knows everything by himself; his son and grandson prosper (or Brahmaṇaspati makes them prosper).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*yaṃyam*—whichever sacrificer; *brahmaṇaspatiḥ*—Brahmaṇaspati; *yujam*—as a friend; *kṛṇute*—makes (that sacrificer); *vīrebhiḥ*—together with his heroic sons; *vanuṣyataḥ*—the harming; *vīrān*—enemy sons; *vanavat*—he will strike down; (and) *gobhiḥ*—with cattle; *rayim*—wealth; *paprathat*—he extends and increases; *tmanā*—by his own power; *bodhati*—he knows everything; *tasya*—of that sacrificer; *tokam ca*—the son; *tanayam ca*—and the grandson; *vardhate*—gain increase.
+
 ---
 
-**Progress note:** Done through printed p. 49 (PDF 49). Sūkta 24: Ṛk 15 Special Topics (p. 47), Ṛk 16 complete (pp. 47-49); Sūkta 25 introduction and Ṛk 1 Saṃhitā (p. 49). Flags: hand fixes to kn.md: stray divider line and a duplicate empty bhāṣya label removed, Sūkta 25 intro block split into bhāṣya block + Anuvāda prose + header prose; 1 [?] (Bhāvārtha Ṛk 16 'ಪತಿತವಾದ' for presumably ಪಠಿತ); unmarked supplied slips: 'ವೀರ್ರಾ' p. 47, 'ಪಡಿಸುವ' p. 48, 'ಬೃಹ್ಣಸ್ಪತಿಃ' in Sūkta 25 header, 'ಸರ್ವೆ' p. 48-49
+**Progress note:** Done through printed p. 52 (PDF 52). Sūkta 25: Ṛk 1 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, pp. 50-51); Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 52). Flags: hand fixes to kn.md: Pratipadārtha/Bhāvārtha split from bhāṣya block with standard labels (garbled '೧. ಪ್ರಣವಾರ್ಥ', 'ಭಾಷೆ'), garbled Pada label on p. 52 replaced; 0 [?]; unmarked supplied slips: 'ಬ್ರಹಣಸ್ಪತೇ', 'ಪ್ರಜ್ವಲರ್ಯ', 'ಜೀನಿಸಿರುವಂತೆ' p. 51, 'ಯಂಽಯಂ' in Ṛk 2 Pada, 'ಟುಓಶ್ವಿ' in Ṛk 1 bhāṣya tail; accent script: 2 DIFF, 1 NOMATCH line (see accent report)
