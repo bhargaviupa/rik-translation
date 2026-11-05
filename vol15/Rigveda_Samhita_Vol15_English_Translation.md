@@ -3991,6 +3991,104 @@ Addressing the sons of Aditi as Mitra, Varuṇa and Devāḥ, the poet says भ�
 
 O gods, you yourselves are excellent understanding and strength. Drive the demons and others who hate us to a hidden, distant place. You who strike enemies on every side, defeat them completely. Make us happy today, and in the same way hereafter.
 
+### Printed p. 129
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 11, p. 129.*
+
+**English Translation**
+
+You, gods, are intelligence, you are vigour: drive away the malevolent subduers (of enemies), overcome them entirely, and grant us felicity both now and in future.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+देवाः (*devāḥ*): Yāska explains the word deva as देवो दानाद्वा, दीपनाद्वा द्योतनाद्वा, द्युस्थानो भवतीति वा (*devo dānādvā, dīpanādvā dyotanādvā, dyusthāno bhavatīti vā*) (Nirukta 6-15; the text as supplied reads "ಸಿ." for "ನಿ.").
+
+ओजः (*ojaḥ*): This word is read by Yāska among the names of water (Nirukta 2-24) and the names of strength (Nirukta 3-9), and explained as ओज ओजतेर्वा उज्जतेर्वा (*oja ojatervā ujjatervā*) (Nirukta 6-8). Sāyaṇa takes the meaning here to be "strength".
+
+The gods are addressed. In regard to the sacrificer these gods are प्रमतिः—प्रकृष्टा मतिर्यस्य पित्रादेः (*pramatiḥ—prakṛṣṭā matiryasya pitrādeḥ*): protectors such as a father possessed of excellent understanding; and they are strength itself, able to carry out for the sacrificer the whole business of this world. The verse says that these gods should keep far away the demons, pisācas and the like who harm the sacrificer.
+
+These gods are अभिक्षत्तारः—अभितः शत्रून् हिंसितारः (*abhikṣattāraḥ—abhitaḥ śatrūn hiṃsitāraḥ*), destroyers of enemies on every side; therefore, having destroyed the sacrificer's enemies, may they protect or make us happy अद्य अपरं च कालं मृळयत (*adya aparaṃ ca kālaṃ mṛḷayata*), both now and in the time to come. Thus the prayer is made.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> किमू॒ नु वः॑ कृणवा॒माप॑रेण॒ किं सने॑न वसव॒ आप्ये॑न ।
+> यू॒यं नो॑ मित्रावरुणादिते च स्व॒स्तिमिं॑द्रामरुतो दधात ॥
+
+**॥ पदपाठः ॥**
+
+> किं । ऊं इति । नु । वः । कृणवाम । अपरेण । किं । सनेन । वसवः । अप्येन ।
+> यूयं । नः । मित्रावरुणा । अदिते । च । स्वस्तिं । इंद्रामरुतः । दधात ॥ ३ ॥
+
+> *kiṃ | ūṃ iti | nu | vaḥ | kṛṇavāma | apareṇa | kiṃ | sanena | vasavaḥ | apyena |*
+> *yūyaṃ | naḥ | mitrāvaruṇā | adite | ca | svastiṃ | iṃdrāmarutaḥ | dadhāta ‖ 3 ‖*
+
+### Printed p. 130
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 29, p. 130.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देवा वो युष्माकं नु अद्येदानीं किमु कृणवाम । किं खलु कर्तु०
+> शक्नवाम । न किमपीत्यर्थः । तथापरेणापरकालभाविना कर्मणा किं कर्तु० शक्ताः ।
+> तथा हे वसवो वासयितारो देवाः सनेन सनातनेनाप्येनाप्तव्येन कर्मणा
+> युष्माकं किं कर्तु० शक्ताः । सर्वदापि युष्मदनुगुणं परिचरणं कर्तु० न शक्ता
+> इत्यर्थः । हे मित्रावरुणौ हे अदिते हे इंद्रामरुतः ॥ देवताद्वंद्वे चेति
+> पूर्वपदस्यानज् ॥ ते च सर्वॆ यूयं स्वस्तिमविनाशं नोऽस्मभ्यं दधात । धत्त ।
+> प्रयच्छत ॥ लोटि तस्य तबादेशे, जित्वा भावेनातोलोपाभावः ॥
+
+*Gist:* What can we do for you, gods, now or later, or with an ancient, attainable rite? We cannot serve you adequately; grant us imperishable well-being. The grammatical tail (a rule on the dvandva of deity names, and the ending of the imperative) is not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*devāḥ*—O gods; *vaḥ*—to you; *nu*—now; *kimu kṛṇavāma*—what can we do? (how are we able to offer worship in a fitting manner?); *apareṇa*—at another time; *kiṃ*—in what manner can we serve fittingly?; *vasavaḥ*—O gods; *sanena*—with an ancient; *āpyena*—practicable rite, how can we worship you?; *aditē*—O Aditi; *indrāmarutaḥ*—O Indra and Maruts; *yūyam*—you; *svastiṃ*—imperishable welfare; *naḥ*—to us; *dadhāta*—bring about.
+
+**भावार्थ (Bhāvārtha)**
+
+O gods, whether now or at another time, how are we able to offer you worship in a fitting manner? O gods, with a rite that is ancient and practicable, how can we worship you? O Aditi, O Indra and Maruts, bring about for us imperishable welfare.
+
+**English Translation**
+
+What may we do for you, gods, either now, or in future: what may we do, Vasus, by perpetual and practicable (acts of devotion): Do you, Mitra, Aditi, Indra, and the Maruts, maintain our well-being.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वसवः—वासयितारः (*vasavaḥ—vāsayitāraḥ*): Yāska uses the word vasu in the senses of food (Nirukta 5-19), wealth (Nirukta 3-9) and ray (Nirukta 2-15). Here it is explained as "those who make one dwell in comfort".
+
+### Printed p. 131
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 11, p. 131.*
+
+The gods are addressed. These gods always make all beings dwell in comfort; the sacrificer says that even in the present time, the time of performing the sacrifice, he is unable to render them suitable service (worship and the like), and likewise in the past and future times and at all times; having thus declared his incapacity, he prays that the gods, forgiving this fault of the sacrificer, grant us imperishable protection.
+
+स्वस्तिं-अविनाशं (*svastiṃ-avināśaṃ*): Yāska explains स्वस्तीत्यविनाशिनाम । अस्तिरभिपूजितः सु अस्तीति (*svastītyavināśināma | astirabhipūjitaḥ su astīti*) (Nirukta 2-21). Sāyaṇa gives the meaning "without destruction".
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> ह॒ये दे॑वा यू॒यमिदा॒पयः॑ स्थ॒ते मृ॑ळत॒ नाध॑मानाय॒ मह्यं॑ ।
+> मा वो॒ रथो॑ मध्यम॒वाळ्कृ॒ते भू॒म्ना यु॒ष्माव॑त्स्वा॒पिषु॑ श्रमिष्म ॥
+
+**॥ पदपाठः ॥**
+
+> हये । देवाः । यूयं । इत् । अपयः । स्थ । ते । मृळत । नाधमानाय । मह्यं ।
+> मा । वः । रथः । मध्यमवाट् । ऋते । भूत् । मा । युष्मावत्सु । आपिषु ।
+> श्रमिष्म ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हये देवाः ॥ छांदसो वर्णोपजनः ॥ हे देवाः यूयमित् यूय-
+> मेवापयो धनस्य प्रापयितारो बंधवः स्थ । भवथ । ते यूयं नाधमानाया-
+> भिमतं फलं याचमानाय मह्यं स्तोत्रे मृळत । सुखयत । तथा वो युष्माकं
+> रथ ऋतेऽस्मदीये यज्ञे निमित्तभूते मध्यमवाट् मा भूत् । मध्यमेन
+> मंदगमनेन वाहको मा भूत् । शीघ्रं युष्मान्वहत्वित्यर्थः । वयं युष्मावत्तु
+> युष्मत्सदृशेश्वापिषु बंधुषु सत्सु मा श्रमिष्म । श्रांता मा भूम ॥ वतुप्पकरणे
+> युष्मदस्मद्भ्यां छंदसि सादृश्य उपसंख्यानमिति वतुप् । अ सर्वनाम्न इत्यात्वं ॥
+
+*Gist:* O gods, you alone are our kinsmen who bring wealth; make me, the petitioner, happy; let not your chariot be slow on account of our sacrifice; may we not be wearied while we have friends like you. The grammatical tail concerns the suffix vatup after yuṣmad and the substitution of ā.
+
 ---
 
-**Progress note:** Done through printed p. 128 (PDF 128). Sūkta 29 Ṛk 1 complete (bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics); Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (English and Special Topics continue p. 129). Hand fixes to kn.md: Pratipadārtha and Bhāvārtha split out of the bhāṣya block and unquoted, labels normalised. Flags: bhāṣya प्रित्रादे for पित्रादे, Pratipadārtha दृत for धृत, कर्तृ/कर्त as supplied; accent report has 1 DIFF
+**Progress note:** Done through printed p. 131 (PDF 131). Sūkta 29 Ṛk 2 English and Special Topics, Ṛk 3 complete, Ṛk 4 Saṃhitā, Pada, bhāṣya (Pratipadārtha continues p. 132). Hand fixes to kn.md: garbled labels replaced, stray '9' line removed, Pratipadārtha and Bhāvārtha split out of the bhāṣya block and unquoted. Flags: Nirukta reference printed as 'ಸಿ.' for 'ನಿ.' (6-15) as supplied; bhāṣya ಕರ್ತು೦ and ಶ್ಕಮಿಷ್ಮ-type OCR forms as supplied; accent report 2 DIFF
