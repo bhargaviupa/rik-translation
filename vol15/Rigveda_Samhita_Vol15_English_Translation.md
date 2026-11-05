@@ -210,6 +210,110 @@ Sāyaṇācārya, while commenting on Ṛk 5-43-12, says of the word Bṛhaspati
 
 That is: "Or this mantra may be said to be addressed to Agni. Because he is lord of the great, vast sacrificial work in hand, Agni is named Bṛhaspati. Likewise, black smoke is his back; the sacrificial altar is his seat; and by marks such as golden colour Bṛhaspati should be called Agni himself."
 
+### Printed p. 9
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 1, p. 9.*
+
+Now let us examine the examples in which Agni is spoken of as distinct from Bṛhaspati and Brahmaṇaspati.
+
+> सोषामविंदत्स स्वः १ सो अग्निं सो अर्कॆण वि बबाधे तमांसि ।
+> बृहस्पतिर्गो वपुषो वलस्य निर्मज्ञानं न पर्वणो जभार ॥
+
+> *soṣāmaviṃdatsa svaḥ 1 so agniṃ so arkèṇa vi babādhe tamāṃsi |*
+> *bṛhaspatirgo vapuṣo valasya nirmajñānaṃ na parvaṇo jabhāra ‖*
+
+(Ṛ. Saṃ. 10-68-… [the reference is printed twice, the first time broken off: "(ಋ. ಸಂ. ೧೦-೬೮", then "(ಋ, ಸಂ. ೧೦-೬೮-೯)"]; the second is 10-68-9.)
+
+In this ṛk it is said that Bṛhaspati obtained Uṣas, Svar (heaven) and Agni, and by a single mantra drove away the darkness; thus Bṛhaspati and Agni are stated to be different.
+
+> इंद्रं नो अग्ने वसुभिः सजोषा रुद्रं रुद्रेभिरा वहा बृहंतं ।
+> आदित्येभिरदितिं विश्वजन्यां बृहस्पतिमृक्वभिर्विश्ववारं ॥
+
+> *iṃdraṃ no agne vasubhiḥ sajoṣā rudraṃ rudrebhirā vahā bṛhaṃtaṃ |*
+> *ādityebhiraditiṃ viśvajanyāṃ bṛhaspatimṛkvabhirviśvavāraṃ ‖*
+
+(Ṛ. Saṃ. 7-10-4, as printed "ಮ. ಸಂ. ೭-೧೦-೪".)
+
+In this ṛk Agni is entreated to bring Indra together with the Vasus, Rudra together with the Rudras (Marut deities), Aditi, mother of all people, together with the Ādityas, and Bṛhaspati together with the Aṅgiras seers who praise him. Besides these, there are many ṛks in the Ṛgveda that indicate that Bṛhaspati or Brahmaṇaspati is one and Agni another: 3-20-5, 4-40-1, 5-51-12, 7-41-1, 7-44-1, 9-5-11, 10-35-11, 10-65-1, 10-130-4, 10-141-3, and others. Therefore the doctrine that Agni is one, Bṛhaspati another and Brahmaṇaspati another is supported in the Ṛgveda. (The text prints "ಋಗ್ವದದಲ್ಲಿ" for "Ṛgveda" in the last sentence, as supplied.)
+
+## Sūkta 24 (Maṇḍala 2)
+
+*The twenty-fourth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> अथ ऋषिच्छंदोदेवताविनियोगपुरःसरं सप्तमो व्याख्यायते ॥ गार्त्स-
+> मदस्य द्वितीयमंडलस्य तृतीयेऽनुवाके दश सूक्तानि । तत्रैकं सूक्तं व्याकृतं ।
+> सेमामिति षोडशर्चं द्वितीयं सूक्तं । अत्रानुक्रम्यते । सेमां षोडशांत्या
+> त्रिष्टप् द्वादशी च सैंद्री चेति । मंडलद्रष्टा गृत्समद ऋषिः । द्वादशीषोडश्यौ
+> त्रिष्टुभौ । शिष्टाश्चतुर्दश जगत्यः । ब्राह्मणस्पत्यं हेत्युक्तत्वात् तुह्यादिपरिभाषयेद-
+> मादीनि त्रीणि सूक्तानि ब्राह्मणस्पत्यानि । अस्य सूक्तस्य द्वादश्यैंद्री इंद्रदेवत्या ।
+> चशब्दाद्ब्राह्मणस्पत्या च ॥ सामान्यविनियोगः पूर्वमेवोक्तः । विशेषतस्तु
+> लिंगादवगंतव्यः ॥
+
+*Gist:* *semām* is the second sūkta of Anuvāka 3 of Maṇḍala 2, of sixteen ṛks, seen by Gṛtsamada; the deity is Brahmaṇaspati (Ṛk 12 also Indra); Ṛks 12 and 16 are *triṣṭubh*, the other fourteen *jagatī*.
+
+### Printed p. 10
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24, p. 10.*
+
+**Anuvāda (Kannada).** The Anuvāda of the sixth adhyāya of the second aṣṭaka has been given. Now the seventh adhyāya will be explained, with the subjects and discussions. In the third anuvāka of this second maṇḍala, seen by the seer Gṛtsamada, there are ten sūktas in all. Of these the first sūkta was explained earlier, that is, at the end of the sixth adhyāya. Now the second sūkta, *semām*, will be explained. There are sixteen ṛks in this sūkta. In the Anukramaṇikā it is said: "*semāṃ ṣoḍaśāntyā triṣṭub dvādaśī ca saindrī ceti*." The seer of this sūkta is Gṛtsamada himself, the seer of the maṇḍala; the twelfth and sixteenth ṛks are in the *triṣṭubh* metre; the remaining fourteen ṛks are in the *jagatī* metre. As stated in the Anukramaṇikā, Brahmaṇaspati is the deity of these three sūktas, that is, of this sūkta and the next two; the twelfth ṛk of this sūkta has Indra as deity, and because the word *ca* is used in the Anukramaṇikā, this ṛk has both Indra and Brahmaṇaspati as deities. The general application (*viniyoga*) of this sūkta has been stated earlier. The special application can be understood from the sense of each mantra.
+
+**Sūkta—24**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 24 ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 1 ‖
+Number of ṛks in the Sūkta: 16 ·
+Ṛṣi: Gṛtsamada · Devatā: Ṛks 1–11 and 13–16 Brahmaṇaspati; Ṛk 12 Brahmaṇaspati and Indra · Chandas: Ṛks 1–11 and 13–15 *jagatī*; Ṛks 12 and 16 *triṣṭubh*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> सेमाम॑विड्डि॒ प्रभृ॑तिं॒ य ईशि॑षे॒ऽया वि॑धेम॒ नव॑या म॒हा गि॒रा ।
+> यथा॑ नो मी॒ढ्वान्स्व॑ते॒ सखा॒ तव॒ बृह॑स्पते॒ सीष॑धः॒ सोत नो॒॑
+> मतिं ॥ १ ॥
+
+> *semāmaviḍḍi prabhṛtiṃ ya īśiṣe 'yā vidhema navayā mahā girā |*
+> *yathā no mīḍhvānsvate sakhā tava bṛhaspate sīṣadhaḥ sota no*
+> *matiṃ ‖ 1 ‖*
+
+### Printed p. 11
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 1, p. 11.*
+
+**॥ पदपाठः ॥**
+
+(The supplied text prints a stray line "॥ ದಶರಾತ್ರಿ ॥" at the head of the Pada block; kept as supplied, flagged below.)
+
+> ॥ दशरात्रि ॥
+> सः : इमां । अविद्धि । प्रभृतिं । यः । ईशिषे । अया । विधेम । नवया ।
+> महा । गिरा ।
+> यथा । नः । माध्वान् । स्तवते । सखा । तव । बृहस्पते । सीसधः । सः । उत । नः ।
+> मतिं । १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते यस्त्वमीशिषे सर्वस्य जगत ईश्वरो भवसि स त्वमिमामस्म-
+> दीयां प्रभृतिं प्रकर्षेण बृतां स्तुतिमविड्डि । प्राप्नुहि ॥ अवतेः प्राप्तर्थस्य
+> लोटैतद्रूपं ॥ वयं च त्वामया अनया ॥ छांदसो वर्णलोपः ॥ नवया
+> नूतनया प्रत्यग्रया महा महत्या गिरा वेदरूपया स्तुतिलक्षणया वाचा विधेम !
+> परिचरेम ॥ विधतिः परिचरणकर्मा ॥ उत आपि च नोऽस्माकं मध्यॆ मीढ्वान् सेक्ता
+> स्तुतेर्वषिता । कर्तॆति यावत् । तव सखा मित्रभूतः सन् यथा येन प्रकारेण
+> यत्कामनया स्तवते । त्वां स्तौति । हे बृहस्पते बृहतो ब्रह्मणो मंत्रस्य
+> स्वामिन् स त्वं नोऽस्माकं मतिं तदभिमतं फलं सीषधः । साधय ॥ छांदसे लुजि
+> चज्येतद्रूपं
+
+*Gist:* O Brahmaṇaspati, lord of all the world, accept our new, great praise; as the praiser, your friend, praises you, so fulfil our desire.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O Brahmaṇaspati) यः (*yaḥ*)—you who; ईशिषे (*īśiṣe*)—are lord of the whole world; सः (*saḥ*)—such as you; इमां (*imāṃ*)—this, recited by us; प्रभृतिं (*prabhṛtiṃ*)—and excellently composed, praise; अविद्धि (*aviddhi*)—accept; नवया (*navayā*)—new; महा (*mahā*)—and great; अया गिरा (*ayā girā*)—with this word in the form of praise; विधेम (*vidhema*)—we will serve you; उत (*uta*)—and; नः (*naḥ*)—among us; मिढ्वान् (*miḍhvān*) (as printed in the Pratipadārtha; the Pada has ಮಾಧ್ವಾನ್)—the praiser, showerer of praise; तव सखा (*tava sakhā*)—being your friend; यथा (*yathā*)—in what manner; स्तवते (*stavate*)—he praises you (accordingly); बृहस्पते (*bṛhaspate*)—O lord of mantras; सः (*saḥ*)—you; नः (*naḥ*)—our; मतिं (*matiṃ*)—desired object; सीषधः (*sīṣadhaḥ*)—fulfil.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, you who are lord of the whole world, accept the praise recited by us and excellently composed. With this new and great word of praise we serve you. O lord (printed "ಒಡನೆಯೇ", sic) of mantras, as the praiser among us praises you, accordingly fulfil our desired object.
+
 ---
 
-**Progress note:** Done through printed p. 8 (PDF 8). Maṇḍala 2 Pīṭhike continues: Bṛhaspati's qualities and deeds, Western scholars on Bṛhaspati/Brahmaṇaspati as forms of Agni, Sāyaṇa on 5-43-12. Three Sanskrit quotations on p. 8 made into blocks by hand; the ':' between 2-23-18 and 1-56-5 changed to ';' in kn.md (reference parsing); refs ಪು. ಸಂ. (2-1-3) printed as supplied; heading numeral 'ಮ.' on p. 7 as supplied. No [?].
+**Progress note:** Done through printed p. 11 (PDF 11). Pīṭhike Agni/Bṛhaspati examples end; Sūkta 24 intro, Ṛk 1 (Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha; printed English not yet reached). Hand-added > blocks for 2 prose Ṛks and the Sanskrit sūkta intro on p. 9; split pratipadārtha out of the bhāṣya block and replaced its garbled label 'ಪ್ರತಿಪವಾರ್ಧ' by the standard one; stray '॥ ದಶರಾತ್ರಿ ॥' line in the Pada block kept as supplied; ref '10-68' on p. 9 printed broken, then 10-68-9; accent script: 2 DIFF, 1 NOMATCH line. No [?].
