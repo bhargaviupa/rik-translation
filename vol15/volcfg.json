@@ -1,0 +1,33 @@
+{
+ "vol": 15,
+ "mandala": 2,
+ "branch": "claude/vol15",
+ "source": [
+  "vol15/html/rig_15_1.html@1-100"
+ ],
+ "scan": {
+  "glob": "vol15/scans/15 *.pdf"
+ },
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "numerals": {
+  "glob": "vol15/numerals/*.xlsx",
+  "file_page": [
+   [
+    1,
+    0
+   ]
+  ]
+ },
+ "out": {
+  "kn": "vol15/Rigveda_Samhita_Vol15_Kannada_Text.md",
+  "en": "vol15/Rigveda_Samhita_Vol15_English_Translation.md"
+ },
+ "work": "vol15/work",
+ "window": 3
+}
