@@ -33137,6 +33137,88 @@ I proclaim the mighty exploits of that Indra, who is ever victorious: the benefa
 
 सत्रासाहः (*satrāsāhaḥ*) (as supplied; the Saṃhitā has सत्रासहः (*satrāsahaḥ*))—the meaning of this word was explained in the preceding Ṛk. बहूनामभिभविता (*bahūnāmabhibhavitā*)—one who defeats many enemies in battles and the like: this is the sense.
 
+### Printed p. 881
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 27] Ṛgveda Saṃhitā 881", as supplied. The page ends with the signature mark "[56] Vol. 14".)*
+
+*(Continuation of the Special Topics of Ṛk 3.)*
+
+जनभक्षः (*janabhakṣaḥ*)—जनानां यजमानानां कामप्रदानेन संभक्ताः (*janānāṃ yajamānānāṃ kāmapradānena saṃbhaktāḥ*) तैः संभजनीय (*taiḥ saṃbhajanīya*) इति वा (*iti vā*). One who provides the desired objects to the many sacrificers who perform sacrifices, or one who is worshipped, that is, served, by many sacrificers.
+
+जनंसहः (*janaṃsahaḥ*)—बलिनां जनानामभिभविता (*balināṃ janānāmabhibhavitā*). One who defeats in battles and the like many mighty (enemy) people.
+
+च्यवनः (*cyavanaḥ*)—शत्रुणां च्यावयिता स्वस्थानात् (*śatruṇāṃ cyāvayitā svasthānāt*). In battle the enemies, unable to bear Indra's valour, leave their places and flee; therefore it is said that he drives the enemy people out of their own place.
+
+युध्धः (*yudhdhaḥ*) (as supplied; the Saṃhitā and Pada have युध्मः (*yudhmaḥ*))—योद्धा (*yoddhā*). One who fights. One who, without fear of the enemies in battle, stands facing them and fights them bravely.
+
+जोषं अनु उक्षितः (*joṣaṃ anu ukṣitaḥ*)—प्रीतिमनु सिक्तः सोमेन (*prītimanu siktaḥ somena*). One who drinks Soma with love. The sense is that Indra has an exceeding fondness for drinking Soma.
+
+वृतंचयः (*vṛtaṃcayaḥ*)—वृतस्याभीष्टस्याचेता संचेता दातेत्यर्थः (*vṛtasyābhīṣṭasyācetā saṃcetā dātetyarthaḥ*). The word वृत (*vṛta*), formed from the root वृत् वरणे (*vṛt varaṇe*) (the root has the sense "to desire"), means what is desired, what is wished for. The sense is that Indra gives such desired objects. यद्वा वर्तते पुनःपुनरभिमुख (*yadvā vartate punaḥpunarabhimukha*) मागच्छतीति वृत् शत्रुः (*māgacchatīti vṛt śatruḥ*). तं चयते हिनस्तीति वृतंचयः (*taṃ cayate hinastīti vṛtaṃcayaḥ*). चयतिर्हिंसाकर्मा (*cayatirhiṃsākarmā*). Or another sense can also be given to this word. If the word वृत (*vṛta*) is formed from the root वृत् (*vṛt*) in the sense "to surround, to besiege", then, since he comes again and again to face the enemy in battle in order to fight and confronts him, वृत् (*vṛt*) means the enemy; and since the root चयति (*cayati*) has the sense of injuring, वृतंचयः (*vṛtaṃcayaḥ*) may be given the meaning "one who injures and kills enemies in battle". As to the root चयति (*cayati*) having the sense of injuring, the bhāṣyakāra has cited the following sentence of the Aitareya Brāhmaṇa (Ai. Brā. 2-7):
+
+यो वै भागिनं भागान्नुदते चयते वैनं स यदि वैनं न चयतेऽथ पुत्र (*yo vai bhāginaṃ bhāgānnudate cayate vainaṃ sa yadi vainaṃ na cayate 'tha putra*)-मथ पौत्रं चयते त्वैवैनं (*matha pautraṃ cayate tvaivainaṃ*).
+
+सहुरिः विक्षु अरितः (*sahuriḥ vikṣu aritaḥ*)—जसिसहोरुरिन्नित्युरिन्प्रत्ययः (*jasisahorurinnityurinpratyayaḥ*) (as supplied). अभिभविता शत्रूणां विक्षु (*abhibhavitā śatrūṇāṃ vikṣu*) प्रजासु अरितः पालकत्वेन प्रापितो भवति (*prajāsu aritaḥ pālakatvena prāpito bhavati*). Indra, who defeats the enemies, protects the people as their guardian; that is, the people resort to Indra as their guardian.
+
+### Printed p. 882
+
+*(Header: "882 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 21.]", as supplied.)*
+
+इंद्रस्य वोचं प्र कृतानि वीर्या (*iṃdrasya vocaṃ pra kṛtāni vīryā*)—तादृशस्येंद्रस्य कृतानि (*tādṛśasyeṃdrasya kṛtāni*) (the bhāṣya continues in Sanskrit). The sense is: the seer declares that he will describe and recite the many kinds of heroic deeds of Indra, who is endowed with the qualities mentioned above, such as the slaying of Vṛtra.
+
+*(The supplied text has a stray line "೧೦೬ ಶಾರಾದಿ" here, between the end of the Special Topics and the verse; left in kn.md, not translated; reported.)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अ॒ना॒नु॒दो वृ॑ष॒भो दोध॑तो व॒धो ग॑म्भा॒र ऋ॒ष्टो अस॑मष्टकाव्यः ।
+> र॒ध्र॒चो॒दः शृथ॑नो वीळि॒तस्पृ॒थुरिन्द्रः॑ सुय॒ज्ञ उ॒षसः॒ स्व॑र्जनत् ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अननुदः । वृषभः । दोधतः । वधः । गम्भारः । ऋष्टः । असमष्टकाव्यः ।
+> रद्रचोदः । श्नथनः । वीळितः । पृथुः । इन्फ्रः । सुयज्ञः । उषसः । स्वः । जनत् ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अनामदः । अनु पश्चाद्द दातीत्यनुदः । आतश्चोपसर्ग इति कर्तरि कः । स नास्ति
+> यस्य स तथोक्तः । प्रभूतधनदानेन समानो नास्तीत्यर्थः । अत एव वृषभः कामा-
+> नां वर्षिता । दोधतः ॥ दुधिर्हिंसाकर्मा ॥ हिंसकस्यासुरस्य वधो हंता गंभीरो
+> महत्वेन गांभीर्योपेतः । ऋष्टो महान् यद्वा दर्शनीयः सर्वैः । असमष्ट-
+> काव्यः ॥ अशू व्याप्तौ । कर्मणि निष्ठा । ऊदित्त्वादिड्विकल्पः । नञ्चमासः ॥ अन्न्यैर-
+> व्याप्तकर्मा । रध्रचोदः ॥ रध हिंसासंराद्योः ॥ रध्राणां समृद्धानां प्रेरकः ।
+> यद्वा हिंसकानां शत्रूणां चोदकः । श्वथनः शत्रूणां बलापहारेण शातयिता ।
+> वीळितो दृढांगः पृथुः स्वतेजसा जगद्वाप्य वर्तमानः सुयज्ञः सुकर्मा । एता-
+> दृश इंद्र उषसः स्वः सूर्यं ज्योतिः । स्वः सूर्य इति हि ब्राह्मणं । सूर्यं च
+> जनत् । प्रादुश्चकार ॥
+
+*Gist: Indra has no equal in giving great wealth; showerer of wishes, slayer of the harming asura, great and profound; he weakens foes, spreads by his splendour, and brought forth the sun.*
+
+### Printed p. 883
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 27] Ṛgveda Saṃhitā 883", as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अनानुदः (*anānudaḥ*)—a giver without a second, since there is no other who gives like him; वृषभः (*vṛṣabhaḥ*)—the granter of desired objects; दोधतः (*dodhataḥ*)—of the harming asura; वधः (*vadhaḥ*)—the slayer; गंभीरः (*gaṃbhīraḥ*) (as supplied; the Saṃhitā has गम्भार (*gambhāra*))—endowed with the quality of profundity; ऋष्टः (*ṛṣṭaḥ*)—one who is visible to all; असमष्टकाव्यः (*asamaṣṭakāvyaḥ*)—one whose deeds are hidden and cannot be understood by others; रथ्रचोदः (*rathracodaḥ*) (as supplied; the Pada has रद्रचोदः (*radracodaḥ*))—the injurer of enemies, or the bestower of abundant wealth; श्नथनः (*śnathanaḥ*)—one who throws the enemy down; वीळितः (*vīḷitaḥ*)—of firm frame; पृथुः (*pṛthuḥ*)—one who pervades with his vast splendour; सुयज्ञः (*suyajñaḥ*)—the performer of excellent acts; इंद्रः (*iṃdraḥ*)—Indra; उषसः (*uṣasaḥ*)—of the dawn; स्वैः (*svaiḥ*) (as supplied; the Saṃhitā and Pada have स्वः (*svaḥ*))—the light that is of the nature of the sun; जनत् (*janat*)—created.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra is the giver without a second, the granter of desired objects, the slayer of the asura, endowed with the quality of profundity, visible to all, one whose hidden deeds others cannot understand, the injurer of enemies, the one who throws the enemy down and destroys him, of firm frame, pervading with his vast splendour, the performer of excellent acts; he created the light of the dawn, of the nature of the sun (the supplied text has सूरात्मक (*sūrātmaka*), apparently for सूर्यात्मक (*sūryātmaka*); and गांभीर (*gāṃbhīra*) for गांभीर्य (*gāṃbhīrya*); left as supplied).
+
+**Printed English translation**
+
+Unequalled in liberality, the showerer(of benefits), the slayer of the
+malevolent, profound, mighty,(endowed with) impenetrable sagacity, the
+dispenser of prosperity, the enfeebler(of foes), firm(of frame), vast(in bulk),
+the performer of pious acts, Indra has given birth to the light of the morning.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अनानुदः (*anānudaḥ*)—अनु पश्चाद्ददातीत्यनुदः (*anu paścāddadātītyanudaḥ*). स नास्ति यस्य स तथोक्तः (*sa nāsti yasya sa tathoktaḥ*). प्रभूत (*prabhūta*)-धनदानेन समानो नास्तीत्यर्थः (*dhanadānena samāno nāstītyarthaḥ*). One who, following (अनु (*anu*)), gives as another has given is called अनुदः (*anudaḥ*). One who is not such, that is, who has no equal in giving, is called अनानुदः (*anānudaḥ*). The principal sense of the word अनानुदः (*anānudaḥ*) is that Indra gives to those who resort to him abundant wealth and other things, and desired objects, which no one else is able to give.
+
+वृषभः (*vṛṣabhaḥ*)—कामानां वर्षिता (*kāmānāṃ varṣitā*). The many senses of the word वृषभ (*vṛṣabha*) we have already explained in earlier places, namely at the places printed as six dash five hundred thirty, ten dash three hundred thirty-six, thirteen dash two hundred nineteen, then two hundred fifty-two and four hundred thirty-six, and so on. The sense is that, as rain pours down water abundantly, so Indra pours down desired objects on those who praise him.
+
 ---
 
-**Progress note:** Done through printed p. 880 (PDF 880). Sukta 21 Rk 2 Special Topics closed; Rk 3 Samhita (from title attribute), Pada, bhashya, Pratipadartha, Bhavartha, English; Rk 3 Special Topics begun (first words only)
+**Progress note:** Done through printed p. 883 (PDF 883). Sukta 21 Rk 3 Special Topics completed; Rk 4 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English; Special Topics begun (two items)
