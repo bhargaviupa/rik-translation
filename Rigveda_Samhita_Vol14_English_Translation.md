@@ -30308,6 +30308,125 @@ The prayer is that, rather than removing the enemies' distress after it has surr
 
 इंद्र (*iṃdra*)—O Indra. ते (*te*)—given by you, and मघोनी (*maghonī*)—possessing abundant wealth. सा दक्षिणा (*sā dakṣiṇā*)—that dakṣiṇā. जरित्रॆ (*jaritrè*)—to the sacrificer who praises you. नूनं (*nūnaṃ*)—(the text breaks off here at the foot of the page and continues on p. 794).
 
+### Printed p. 794
+
+*(Header: "794 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 17". The page begins in the middle of the Pratipadārtha of Ṛk 9 of Sūkta 16, continued from p. 793.)*
+
+**Pratipadārtha** *(continued from p. 793)*
+
+नूनं (*nūnaṃ*)—assuredly: खंडितवागियू (*khaṃḍitavāgiyū*). वरं (*varaṃ*)—excellently. प्रति दुहीयत् (*prati duhīyat*)—fulfils the desired object (such a dakṣiṇā). स्तोतृभ्यः (*stotṛbhyaḥ*)—to us also, who are the praisers. शिक्ष (*śikṣa*)—give. भगः (*bhagaḥ*)—you, the adorable one. नः (*naḥ*)—us. माति धक् (*māti dhak*) (as supplied)—do not disregard. सुवीराः (*suvīrāḥ*)—we, endowed with excellent heroic sons. विदथे (*vidathe*)—in this sacrifice. बृहत् (*bṛhat*)—abundant hymn of praise. वदेम (*vadema*)—we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, that dakṣiṇā given by you, possessing abundant wealth, assuredly fulfils the desired object in an excellent manner for the praising sacrificer. Give such a dakṣiṇā to us also, the praisers. You, the adorable one, do not disregard us. We, endowed with excellent sons, recite abundant praise in this sacrifice.
+
+**Printed English translation (Ṛk 9)**
+
+That opulent donation which proceeds, Indra, from you, assuredly bestows upon him who praises you the boon(that he desires): grant it to(us) your adorers: do not you, who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk was already read earlier at Ṛ. Saṃ. 2-11-21, so its special topics have been written there at length; they may be seen on pages 638 to 640 of this same part.
+
 ---
 
-**Progress note:** Done through printed p. 793 (PDF 793). Sukta 16 Rk 8 (bhasya, Pratipadartha, Bhavartha, printed English, special topics: satakratu) and Rk 9 Samhita, Pada, bhasya, Pratipadartha begun. Flags: Rk 9 Samhita dhrgbhago/vidadhe as supplied (Pada dhak, vidathe), block was garbled HTML fragment and was rewritten from the Devanagari text; accent script DIFF on 1 line
+## Sūkta 17
+
+*(Printed title: "ಹದಿನೇಳನೆಯ ಸೂಕ್ತವು" — "The seventeenth sūkta".)*
+
+**Sāyaṇa's introduction (Sanskrit):**
+
+> तदस्मैति नवर्चं षष्ठं सूक्तं गार्त्समदमृंद्रं । अत्रानुक्रमणिका ।
+> तदस्मै द्वित्रिष्टुबंतमिति । अंत्ये द्वे त्रिष्टुभौ शिष्टाः सप्त जगत्यः ॥ अतिरात्रे द्वितीये
+> पर्यायेच्छावाकशस्त्रे तदस्मैति सूक्तं । अतिरात्रे पर्यायाणामिति खंडे
+> सूत्रितं । तदस्मै नव्यमस्य पिब यस्य जज्ञान इंद्रेति याज्या । आ. ६-४ । इति ॥
+
+> *tadasmaiti navarcaṃ ṣaṣṭhaṃ sūktaṃ gārtsamadamṛṃdraṃ | atrānukramaṇikā |*
+> *tadasmai dvitriṣṭubaṃtamiti | aṃtye dve triṣṭubhau śiṣṭāḥ sapta jagatyaḥ ‖ atirātre dvitīye*
+> *paryāyecchāvākaśastre tadasmaiti sūktaṃ | atirātre paryāyāṇāmiti khaṃḍe*
+> *sūtritaṃ | tadasmai navyamasya piba yasya jajñāna iṃdreti yājyā | ā. 6-4 | iti ‖*
+
+### Printed p. 795
+
+*(Header: "[A. 2. A. 6. V. 19.] Ṛgvedasaṃhitā 795".)*
+
+**Anuvāda**
+
+The Kannada: "This sūkta, तदस्मै (*tadasmai*), is the sixth sūkta in the second anuvāka. It has nine Ṛks. Gṛtsamada is the ṛṣi; Indra is the deity. Since the Anukramaṇikā says तदस्मै द्वित्रिष्टुबंतं (*tadasmai dvitriṣṭubaṃtaṃ*), the last two Ṛks of this sūkta are in the Triṣṭup metre; the remaining seven Ṛks are in Jagatī. The application of this sūkta तदस्मै (*tadasmai*) is for the recitation of the śastra mantras by the priest called Acchāvāka in the second paryāya of the sacrifice called Atirātra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, in the khaṇḍa अतिरात्रे पर्यायाणां (*atirātre paryāyāṇāṃ*), तदस्मै नव्यमस्य पिब यस्य जज्ञान इंद्रेति याज्या (*tadasmai navyamasya piba yasya jajñāna iṃdreti yājyā*) (Ā. 6-4)."
+
+**Sūkta heading block:**
+
+> ॥ ओं ॥
+> सूक्त-१७
+> ॥ मंडल—२ ॥ अनुवाक—२ ॥ सूक्त—१७ ॥
+> ॥ अष्टक— २ ॥ अध्याय— ६ ॥ वर्ग—१९, २० ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ-९ ।
+> ऋषिः—गृत्समदॆः ।
+> देवता—इंद्रः ।
+> छंदः—त्रिष्टुप् ।
+> छंदः—१-७, जगती । ८-९. त्रिष्टुप्
+
+*(As supplied: the printed "ಗೃತ್ಸಮದೆಃ" for the ṛṣi's name, and the chandas printed twice, first "ತ್ರಿಷ್ಟುಪ್" alone and then "1-7 Jagatī, 8-9 Triṣṭup"; the second agrees with the Anuvāda.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> तद॑स्मै॒ नव्य॑मज्गर॒स्वद॑र्चत॒ शुष्मा॒ यद॑स्य प्र॒त्नथो॒दीर॑ते ।
+> विश्वा॒ यद्यो॒त्रा सह॑सा॒ परी॑वृता॒ मदे॒ सोम॑स्य दृंहि॒तानैर॑यत् ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> तत् । अस्मै । नव्यं । अंगिरस्वत् । अर्चत । शुष्माः । यत् । अस्य । प्रत्यथा । उत्-
+> ईरते ।
+> विश्वा । यत् । गोत्रा । सहसा । परिवृता । मदे । सोमस्य । द्वंहितानि । ऐरयत् ॥
+
+*(The Pada as supplied reads ಅಂಗಿರಸ್ವತ್ where the Saṃhitā block has ಅಜ್ಗರಸ್ವತ್, and ಪ್ರತ್ಯಥಾ where the bhāṣya has ಪ್ರತ್ನಥಾ; reported, not changed.)*
+
+### Printed p. 796
+
+*(Header: "796 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 17".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> गृत्समदो ब्रूते । हे स्तोतारः नव्यं नवतरमन्येष्वदृष्टपूर्वं तत्तादृशं
+> स्तोत्रमंगिरस्वदंगिरस इवास्मा इंद्रायार्चत । ब्रूत । यद्यस्माच्चातमात्र-
+> स्यास्येंद्रस्य शुष्माः शत्रूणां शोषकाणि तेजांसि प्रत्नथा ॥ प्रश्नपूर्वविश्वेमात्थाल्
+> छंदसीतीवार्थे थाल्प्रत्ययः ॥ प्रश्नानि पुरातनानीवोदीरते! उद्धच्छंति ॥ ईर
+> गतौ अनुदात्तेत् । तिजि चोदात्तवतीति गतेर्निघातः ॥ यद्यस्माच्च विश्वा सर्वान्
+> गोत्रा मेघान् । गा उदकानि त्रायंते रक्षंतीति गोत्रा मेघाः । परीवृता
+> वृत्रेणाक्रांतान् ॥ सर्वत्र सुपो डादेशः ॥ तान् द्यंहितानि तेन दृढीकृतान्
+> मेघान् सोमस्य मदे हर्ष संजाते सति सहसा बलेनैरयत् । उदघाटयत् ।
+> मेघभेदनेनापः प्रेरयामासेत्यर्थः । यद्वा विश्वा सर्वाणि परीवृता बलासुरे-
+> णाक्रांतानि दृंहितानि पर्वतबिले निरुद्धानि गोत्रा ॥ इनित्रकट्यचश्चेति समूहार्थे
+> त्रप्रत्ययः ॥ गवां वृंदानि सहसैरयत् । तस्माद्बिलान्निरगमयत् । तस्मादर्चतेति
+> समन्वयः ॥ ऐरयत् । ईर गतौ । ण्यंतस्य लजु रूपं । यद्वृत्तयोगादनिघातः ॥
+
+> *gṛtsamado brūte | he stotāraḥ navyaṃ navataramanyeṣvadṛṣṭapūrvaṃ tattādṛśaṃ*
+> *stotramaṃgirasvadaṃgirasa ivāsmā iṃdrāyārcata | brūta | yadyasmāccātamātra-*
+> *syāsyeṃdrasya śuṣmāḥ śatrūṇāṃ śoṣakāṇi tejāṃsi pratnathā ‖ praśnapūrvaviśvemātthāl*
+> *chaṃdasītīvārthe thālpratyayaḥ ‖ praśnāni purātanānīvodīrate! uddhacchaṃti ‖ īra*
+> *gatau anudāttet | tiji codāttavatīti gaternighātaḥ ‖ yadyasmācca viśvā sarvān*
+> *gotrā meghān | gā udakāni trāyaṃte rakṣaṃtīti gotrā meghāḥ | parīvṛtā*
+> *vṛtreṇākrāṃtān ‖ sarvatra supo ḍādeśaḥ ‖ tān dyaṃhitāni tena dṛḍhīkṛtān*
+> *meghān somasya made harṣa saṃjāte sati sahasā balenairayat | udaghāṭayat |*
+> *meghabhedanenāpaḥ prerayāmāsetyarthaḥ | yadvā viśvā sarvāṇi parīvṛtā balāsure-*
+> *ṇākrāṃtāni dṛṃhitāni parvatabile niruddhāni gotrā ‖ initrakaṭyacaśceti samūhārthe*
+> *trapratyayaḥ ‖ gavāṃ vṛṃdāni sahasairayat | tasmādbilānniragamayat | tasmādarcateti*
+> *samanvayaḥ ‖ airayat | īra gatau | ṇyaṃtasya laju rūpaṃ | yadvṛttayogādanighātaḥ ‖*
+
+*Gist: Gṛtsamada bids the praisers offer a new hymn to Indra, as the Aṅgirases did, because with his might at birth and in the exhilaration of Soma he released the clouds that Vṛtra had enclosed (or, alternatively, the cattle-herds shut in the mountain cave). Grammatical tail on प्रत्नथा (*pratnathā*) (the affix थाल्) and ऐरयत् (*airayat*).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O praisers) यत् (*yat*)—by what greatness (at the very time of birth); अस्य (*asya*)—of this Indra; शुष्माः (*śuṣmāḥ*)—the enemy-destroying powers; प्रत्नथा (*pratnathā*)—as if most ancient; उदीरते (*udīrate*)—spread out and extend (and); यत् (*yat*)—by what greatness; परीवृता (*parīvṛtā*)—enclosed (by Vṛtra); दृंहितानि (*dṛṃhitāni*)—and made firm; विश्वा गोत्रा (*viśvā gotrā*)—all the clouds; सोमस्य मदे (*somasya made*)—when exhilarated by drinking the Soma juice; सहसा (*sahasā*)—by his own strength; ऐरयत् (*airayat*)—released and divided up; to Indra possessed of such greatness, अस्मै (*asmai*)—to this Indra; नव्यं (*navyaṃ*)—new; तत् (*tat*)—and excellent hymn of praise; अंगिरस्वत् (*aṃgirasvat*)—as the Aṅgirasa ṛṣis offered (formerly); अर्चित (*arcita*) (as supplied; the Saṃhitā has ಅರ್ಚತ)—recite and worship.
+
+**भावार्थ (Bhāvārtha)**
+
+O praisers, offer and worship with a new and excellent hymn of praise, as the Aṅgirasa ṛṣis offered it formerly, that Indra of such greatness: by whose greatness, at the very time of his birth, his enemy-destroying powers spread out and extend as if most ancient, and who, by his own strength, when exhilarated by drinking the Soma juice, released and divided up all the clouds that were enclosed by Vṛtra and made firm.
+
+*(The Kannada text ends here at the foot of p. 796; the printed English of Ṛk 1 and the Special Topics follow on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 796 (PDF 796). Sukta 16 Rk 9 completed (Pratipadartha, Bhavartha, printed English, special topics refer to 2-11-21); Sukta 17 begun: introduction, Anuvada, heading block, Rk 1 Samhita, Pada, bhasya, Pratipadartha, Bhavartha; printed English of Rk 1 follows. Flags: Samhita as supplied differs from reference (ajgarasvat, yadyotra, dumhitanairayat vs Pada angirasvat, gotra; Pada pratyatha vs bhasya pratnatha); rishi printed Gritsamadeh in heading block
