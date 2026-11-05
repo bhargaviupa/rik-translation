@@ -14147,6 +14147,69 @@ and Gṛtsamada besought Indra, and Indra came and had him released and brought 
 
 *(Gist: O Viśvedevas led by Indra, the Marut hosts, with Pūṣan as giver, listen to my invocation. A hyphenated line break was joined; the bhāṣya cites Ṛgveda 1-23-8 for the vocatives from इंद्रज्येष्ठा (*iṃdrajyeṣṭhā*).)*
 
+### Printed p. 439
+
+*[Running head, p. 439: Aṣṭaka 2, Adhyāya 8, Varga 9, Ṛgvedasaṃhitā.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indrajyeṣṭhāḥ: those who have Indra as their chief. Marudgaṇāḥ: accompanied by hosts of Maruts. Pūṣarātayaḥ: accompanied by the deity Pūṣan, the giver of wealth. Viśvedevāsaḥ: O Viśvedevas. Mama: my. Havaṃ: invocation. Śruta: hear.
+
+**भावार्थ (Bhāvārtha)**
+
+*[The supplied text has the garbled label "॥ ಭವಾರ್ಥ ॥" here, kept as a note in kn.md.]*
+
+O Viśvedevas, who are accompanied by the Marut hosts having Indra as chief and by the deity Pūṣan, the giver of wealth, hear my invocation.
+
+**Printed English translation**
+
+Maruts, of whom Indra is the chief; divinites [sic], of whom Pushan is the benefactor; do you all hear my invocation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk is read as the eighth Ṛk of the twenty-third sūkta in the first maṇḍala (Ṛ. Saṃ. 1-23-8).
+
+इंद्रज्येष्ठाः (*iṃdrajyeṣṭhāḥ*)—ज्येष्ठशब्दः प्रधानवचनः । इंद्रः प्रधानभूतो येषां त इंद्रज्येष्ठाः । (*jyeṣṭhaśabdaḥ pradhānavacanaḥ | iṃdraḥ pradhānabhūto yeṣāṃ ta iṃdrajyeṣṭhāḥ |*) ज्येष्ठ (*jyeṣṭha*) means chief, principal. Therefore the word इंद्रज्येष्ठाः (*iṃdrajyeṣṭhāḥ*) means the deities who have Indra as their principal, whose leader is Indra; that is, Indra is the leader of the gods. "Leader (Indra at their Heads)" [in English letters in the supplied text]; the meaning is the deities who have set out with him in front.
+
+पूषरातयः (*pūṣarātayaḥ*)—पूषाख्यो देवो रातिर्दाता येषां ते पूषरातयः । (*pūṣākhyo devo rātirdātā yeṣāṃ te pūṣarātayaḥ |*) राति (*rāti*) means giver, bestower of wealth. The intent is the Viśvedevas accompanied by the deity Pūṣan, the bestower of wealth.
+
+मरुद्दणाः (*maruddaṇāḥ*)—the meaning is those accompanied by the divine host called Marut. It is necessary to understand closely who these Marut hosts are and what their nature is. There is a story about the origin of the Marut deities. It is also the custom to call them sons of Rudra. मरुतोऽपि रुद्रा उच्यंते जन्यजनकयोरभेदात् । (*maruto 'pi rudrā ucyaṃte janyajanakayorabhedāt |*) रुद्राः (*rudrāḥ*) here means sons of Rudra. Because it is the custom to call a son by his father's name, and because in usage the produced and the producer are not counted as different, here the Marut deities, sons of Rudra, are described by the word रुद्र (*rudra*) itself.
+
+### Printed p. 440
+
+*[Running head, p. 440: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4 [printed ಆ.], Sū. 41.]*
+
+On how the Maruts became sons of Rudra, Sāyaṇa has given an ancient story in his commentary on Ṛ. Saṃ. 1-114-6:
+
+रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिंद्रोऽसुरान् जिगाय ! तदानीं दितिरसुरमातेंद्रहनसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्दर्भं लेभे । इमं वृत्तांतमवगच्छन्निंद्रो वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखंडमकरोत् । ते सर्वे गर्भैकदेशा योनेनिर्गत्यारुदन् । एतस्मिन्नवसरे लीलार्थं गच्छंतौ सार्वतीपरमेश्वराविमान् ददृशुः । महेशं प्रति सार्वत्येवमवोचत् । इमे मांसखंडा यथा प्रत्येकं पुत्राः संपद्यंतामेवं त्वया कार्यं मयि चेत्प्रीतिरस्तीति । स च महेश्वरस्तान्समानरूपान् समानवयसः समानालंकारान्पुत्रान्कृत्वा गौर्यै प्रददौ तवेमे पुत्राः संत्विति । अतः सर्वेषु मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्तूयंते । रौद्रेषु च मरुतां पिता रुद्र इति ॥ (*rudrasya ca marutāṃ pitṛtvamevamākhyāyate | purā kadācidiṃdro 'surān jigāya ! tadānīṃ ditirasuramāteṃdrahanasamarthaṃ putraṃ kāmayamānā tapasā bhartuḥ sakāśāddarbhaṃ lebhe | imaṃ vṛttāṃtamavagacchanniṃdro vajrahastaḥ san sūkṣmarūpo bhūtvā tasyā udaraṃ praviśya taṃ garbhaṃ saptadhā bibheda | punarapyekaikaṃ saptakhaṃḍamakarot | te sarve garbhaikadeśā yonenirgatyārudan | etasminnavasare līlārthaṃ gacchaṃtau sārvatīparameśvarāvimān dadṛśuḥ | maheśaṃ prati sārvatyevamavocat | ime māṃsakhaṃḍā yathā pratyekaṃ putrāḥ saṃpadyaṃtāmevaṃ tvayā kāryaṃ mayi cetprītirastīti | sa ca maheśvarastānsamānarūpān samānavayasaḥ samānālaṃkārānputrānkṛtvā gauryai pradadau taveme putrāḥ saṃtviti | ataḥ sarveṣu māruteṣu sūkteṣu maruto rudraputrā iti stūyaṃte | raudreṣu ca marutāṃ pitā rudra iti ‖*)
+
+That is: once in the past, when Indra conquered the asuras, Diti, the mother of the asuras, wishing for a son able to subdue Indra, performed austerities and became pregnant by serving her husband. Indra, learning of this, under the pretext of serving his mother, stayed near Diti, took a subtle form, and with his thunderbolt entered Diti's womb and split that embryo first into seven parts, and then each of these again into seven pieces, that is, forty-nine pieces. Thereupon the pieces of the embryo slipped out of the womb and fell on the earth weeping, and Pārvatī and Parameśvara, who were wandering for the good of the world, saw them. Pārvatī, taking pity on those pieces of flesh, begged her husband that they should all live, receiving life; and so Parameśvara made those forty-nine pieces of flesh into sons of one and the same form, ornament and age, and said to Pārvatī, "These are your sons." From this story the Maruts are said in the respective sūktas to be sons of Rudra, and Rudra the father of the Maruts.
+
+Indra and the Maruts are both of great power. Though each is independent in his own action and neither depends on the other's help, the friendship between Indra and the Maruts is so great that it is stated in many places that Indra is always with the Maruts, is invited to sacrifices and the like together with them, and that the Maruts, too, have helped Indra
+
+### Printed p. 441
+
+*[Running head, p. 441: Aṣṭaka 2, Adhyāya 8 [printed garbled], Varga 9, Ṛgvedasaṃhitā.]*
+
+मरुत्वान् (*marutvān*)—the permanent companionship of Indra and the Maruts is well known from the Śruti. The relation of king and subjects between Indra and the Maruts, the offering of oblations in the chief sacrificial acts to Indra together with the Maruts, and the Maruts' helping Indra when he fought the demon Vṛtra, are described in many places in the Saṃhitās and the Brāhmaṇas. A story of old telling how Indra, joined with the Maruts, was separate from the other deities can be seen in the Śatapatha Brāhmaṇa:
+
+आतिथ्येन वै देवा इष्ट्वा । तान्त्समदविंदत्ते चतुर्धा व्यद्रवन्नन्योन्यस्य श्रियातिष्ठमाना अग्निर्वसुभिः, सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्भिर्भृहस्पतिर्विश्वेदेवैः । (*ātithyena vai devā iṣṭvā | tāntsamadaviṃdatte caturdhā vyadravannanyonyasya śriyātiṣṭhamānā agnirvasubhiḥ, somo rudrairvaruṇa ādityairiṃdro marudbhirbhṛhaspatirviśvedevaiḥ |*)
+(Śat. Brā. 3-4-2-1)
+
+When the gods formerly performed the hospitality rite, discord arose among them, and, none willing to be defeated by another, they formed four groups and separated: Agni with the Vasus, Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Maruts, and Bṛhaspati with the Viśvedevas. In this story the close relation that Indra has kept with the Maruts, having developed companionship with them, is stated. Besides, it is said in many places that Indra is the chief and the Maruts the subjects. For example—
+
+क्षत्रं ना इंद्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति । (*kṣatraṃ nā iṃdro viśo maruto viśā vai kṣatriyo balavān bhavati |*)
+(Śat. Brā. 4-3-3-6)
+
+Indra is the king possessed of ruling radiance, the Maruts are the subjects. It is indicated that the king becomes powerful through the cooperation of the subjects, and that through the help of the Maruts Indra's prowess increased. Because of such a close relation and companionship, the practice of offering oblations addressing Indra and the Maruts together is also seen in the Śrutis.
+
+⟦ಅನವದ್ಯೈರಭಿದ್ಯುಭಿರ್ಮಖಿ ಸಹಸ್ವದರ್ಚತಿ ।
+ಗಣೈರಿಂದ್ರಸ್ಯ ಕಾಮ್ಯೈಃ ॥⟧
+(Ma. Saṃ. 1-6-8)
+
+मंद्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इंद्रे मरुतः परिष्टुभः । (*maṃdrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā iṃdre marutaḥ pariṣṭubhaḥ |*)
+(Ma. Saṃ. 1-166-11)
+
 ---
 
-**Progress note:** Done through printed p. 438 (PDF 438). Sukta 41 Rik 13 Special Topics finished (p. 436); Rik 14 complete (pp. 436-438); Rik 15 Samhita, Pada, bhashya (p. 438), Pratipadartha to follow. First window from second source file. Flags: garbled Pratipadartha label and p. 437 head numerals kept as notes; Yaska repeated and verb doubled as supplied; 4 accent DIFF
+**Progress note:** Done through printed p. 441 (PDF 441). Sukta 41 Rik 15 complete (pp. 439-441); Special Topics on Indra and the Maruts (Marut origin story quoted, Sat. Brahmana passages) ends at Ma. Sam. 1-166-11 on p. 441, discussion continues. Flags: garbled Bhavartha label kept as note; no Samhita lines so accent report empty; Latin phrase inside Kannada kept
