@@ -28307,4 +28307,154 @@ The Kannada: "O Adhvaryus, offer homa of the food in the form of oblation, in th
 
 ---
 
-**Progress note:** Done through printed p. 737 (PDF 760). Sūkta 14: the Viśeṣaviṣayagaḷu of Ṛk 5 is complete (Pipru, Namuci with the Taittirīya Brāhmaṇa story, the cited Ṛks, Rudhikra); no grammar section is printed for Ṛk 5. Ṛk 6 is open: only the Saṃhitā is written (Ṛk number not visible in the print, taken from the sequence); the Pada, bhāṣya, Pratipadārtha etc. follow on the next page (printed p. 738, PDF 761). The numeral file had 0 rows for these pages, so no numeral was checked against it, and none was zoomed. The second occurrence of the reference "8-14-13" (here read from the strip) supports the earlier reading against the file's "4.14.13". All Ṛgveda, Taittirīya Brāhmaṇa and part-page references on pp. 735–737 are unzoomed; those marked [?] are doubtful: 8-32-2, 5-29-11, 10-99-11, 1-101-1, 10-138-3, 4-16-13, 6-20-7, 1-51-5, part references 5-6[?]5 and 15-50, Tai. Brā. 1-7-1-5, 6, 7, and the Ṛk references 1-53-7, 5-30-7, 7-19-5, 10-73-7, 10-131-4. Other [?] places: "नाद्रो" and "ने वा" in the Brāhmaṇa passage, "तैर्वै" (print may read "त्रैर्वै"), "शततमाविवेषीरहञ्छ", "अपां" (print looks like "ಅಸಾಂ") in the 8-14-13 citation, "विमानं", "युजं" (hook: *ya* or *yu*), "जुहोते" in the bhāṣya heading. Accents not reproduced.
+### Printed p. 738 (PDF 761)
+
+*(Header, read from the strip and not zoomed: "738", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". The numeral file had no rows for this page. The Pada of Ṛk 6 ends with the Ṛk number, printed "6" with the hooked ೬ glyph, which agrees with the sequence.)*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । शतं । शंबरस्य । पुरः । बिभेद । अश्मनाऽइव । पूर्वीः ।
+> यः । वर्चिनः । शतं । इंद्रः । सहस्रं । अपाऽअवपत् । भरत । सोमं । अस्मै ॥ ६ ॥
+
+> *adhvaryavaḥ | yaḥ | śataṃ | śaṃbarasya | puraḥ | bibheda | aśmanā 'iva | pūrvīḥ |*
+> *yaḥ | varcinaḥ | śataṃ | iṃdraḥ | sahasraṃ | apā 'avapat | bharata | somaṃ | asmai ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra split Śambara's hundred ancient cities with a stone-like vajra; the second half concerns Varcin (the asura, or "the radiant") and his hundred thousand sons, thrown down at once.*
+
+> हे अध्वर्यवः य इंद्रः शंबरस्य मायाविनोऽसुरस्य पूर्वीः पुरातनीः शतं पुरः पुरीरश्मनेव अश्मसदृशेन वज्रेण बिभेद । यश्चेंद्रो वर्चिनः ॥ वर्च दीप्तौ । गमेरिनिः । उ. ४-६[?] । इति विधीयमान इनिर्बहुलवचनादस्माद्भवति ॥ यद्वा नाम्नैतत्[?] । तस्यासुरस्य शतं सहस्रमेतत्संख्याकानपरिमितान्वीरान् पुत्रानपावपत् । युगपदेव भूम्यामुपातयत्[?] । तथा च मंत्रवर्णः । शतं वर्चिनः सहस्रं च साकं हथो अप्रत्यसुरस्य वीरान् । ७-९९-५ । इति । अस्मा इंद्राय सोमं भरत ॥
+
+> *he adhvaryavaḥ ya iṃdraḥ śaṃbarasya māyāvino 'surasya pūrvīḥ purātanīḥ śataṃ puraḥ purīraśmaneva aśmasadṛśena vajreṇa bibheda | yaśceṃdro varcinaḥ ‖ varca dīptau | gameriniḥ | u. 4-6[?] | iti vidhīyamāna inirbahulavacanādasmādbhavati ‖ yadvā nāmnaitat[?] | tasyāsurasya śataṃ sahasrametatsaṃkhyākānaparimitānvīrān putrānapāvapat | yugapadeva bhūmyāmupātayat[?] | tathā ca maṃtravarṇaḥ | śataṃ varcinaḥ sahasraṃ ca sākaṃ hatho apratyasurasya vīrān | 7-99-5 | iti | asmā iṃdrāya somaṃ bharata ‖*
+
+*(The grammatical tail "वर्च दीप्तौ । गमेरिनिः (*varca dīptau | gameriniḥ*) …" is transcribed, not explained. The Uṇādi reference "4-6" and the words "नाम्नैतत्" and "भूम्यामुपातयत्" (ya/yu hook) are unzoomed and doubtful. The Ṛg reference is read 7-99-5.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+The Kannada gives the word-meanings as follows:
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यः (*yaḥ*)—which Indra. शंबरस्य (*śaṃbarasya*)—of the māyāvin asura Śambara. पूर्वीः (*pūrvīḥ*)—very ancient ones. शतं (*śataṃ*)—numbering a hundred. पुरः (*puraḥ*)—cities. अश्मनेव (*aśmaneva*)—with the extremely hard vajra weapon. बिभेद (*bibheda*)—split open. यः इंद्रः (*yaḥ iṃdraḥ*)—which Indra. वर्चिनः (*varcinaḥ*)—of the asura called Varcin. शतं सहस्रं (*śataṃ sahasraṃ*)—countless heroic sons etc. अपावपत् (*apāvapat*)—threw down together and destroyed. अस्मै (*asmai*)—to such an Indra. सोमं (*somaṃ*)—soma. भरत (*bharata*)—bring and offer.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "O Adhvaryus, bring and offer soma to such an Indra, who split open with the extremely hard vajra weapon the hundred very ancient cities of the māyāvin asura Śambara, and who threw down together and destroyed the one lakh of countless heroic sons etc. of the asura Varcin."
+
+**English Translation** *(as printed)*
+
+Priests, present the Soma libation to him, who, with the adamantine (thunderbolt). demolished the hundred ancient cities of Shambara, and cast down the hundred thousand (descendants) of Varchin.
+
+---
+
+### Printed p. 739 (PDF 762)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "739". All Ṛg and part-page reference numerals on pp. 739–740 are unzoomed readings; where marked [?] they are doubtful. The numeral file had no rows for these pages.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Kannada: "In this Ṛk it is stated that Indra destroyed the hundred cities of the asura named Śambara, and that he killed eleven hundred heroes (the print has "ಸಾವಿರದನೂರು ಮಂದಿ") of the asura named Varcin."
+
+**यः शतं शंबरस्य पुरः बिभेद अश्मनेव पूर्वीः (*yaḥ śataṃ śaṃbarasya puraḥ bibheda aśmaneva pūrvīḥ*)**
+
+*Gist: the bhāṣya's own explanation of the first half, repeated as the headword.*
+
+> यः इंद्रः शंबरस्य मायाविनोऽसुरस्य पूर्वीः पुरातनीः शतं पुरः पुरीरश्मनेव अश्मसदृशेन वज्रेण बिभेद ।
+
+> *yaḥ iṃdraḥ śaṃbarasya māyāvino 'surasya pūrvīḥ purātanīḥ śataṃ puraḥ purīraśmaneva aśmasadṛśena vajreṇa bibheda |*
+
+The Kannada: "The meaning of this sentence is that Indra split open (destroyed) the hundred ancient cities of the asura named Śambara with his vajra weapon, hard as a stone. Here the word शतं (*śataṃ*) can be taken in the sense 'much, many'. For—"
+
+> इंद्राविष्णू दृंहिताः शंबरस्य नव पुरो नवतिं च श्नथिष्टं ।
+
+> *iṃdrāviṣṇū dṛṃhitāḥ śaṃbarasya nava puro navatiṃ ca śnathiṣṭaṃ |*
+
+(Ṛ. Saṃ. 7-99-5)
+
+The Kannada: "In this Ṛk it is said that Indra, together with Viṣṇu, destroyed ninety-nine cities of Śambara. Therefore here too the words नव नवतिं (*nava navatiṃ*) can be given the sense 'many'. Similarly, on Indra's destroying Śambara's cities—"
+
+> भिनत्पुरो नवतिमिंद्र पूरवे दिवोदासाय महि दाशुषे नृतो वज्रेण दाशुषे नृतो ।
+> अतिथिग्वाय शंबरं गिरेरुग्रो अवाभरत्[?] ।
+
+> *bhinatpuro navatimiṃdra pūrave divodāsāya mahi dāśuṣe nṛto vajreṇa dāśuṣe nṛto |*
+> *atithigvāya śaṃbaraṃ girerugro avābharat[?] |*
+
+(Ṛ. Saṃ. 1-130-7)
+
+*(In the word "अवाभरत्" the first letter is read as *a*; it may be *ā*. Doubtful.)*
+
+The Kannada: "In this Ṛk it is said that Indra split open ninety-nine cities of Śambara."
+
+> दिवोदासाय नवतिं च नवेंद्रः पुरो व्यैरच्छंबरस्य ।
+
+> *divodāsāya navatiṃ ca naveṃdraḥ puro vyairacchaṃbarasya |*
+
+(Ṛ. Saṃ. 2-19-6)
+
+The Kannada: "In this it is said that Indra destroyed ninety-nine cities of Śambara for Divodāsa."
+
+The Kannada continues: "This Śambara is one of Indra's chief enemies. His name and his story are told in the Ṛks Ṛ. Saṃ. 1-51-6, 1-54-4, 1-59-6, 1-101-2, 1-?03-8 [?] (one digit damaged in the print), 1-112-14, 1-130-7, 2-12-11, 2-14-6, 2-19-6, 4-26-3, 4-30-14, 6-18-8, 6-26-5, 6-31-4, 6-31-1, 6-47-2, 6-47-21, 7-18-20, 7-99-5 [?]. *(All these numerals are unzoomed readings, doubtful.)* In general his name is recited together with Śuṣṇa, Pipru and Varcin. His cities are said to have been 90, 99 or 100. He is said, in Ṛks 1-51-6, 1-130-7, 2-19-6, 4-26-3 and others, to be the chief enemy of Divodāsa Atithigva, and to have been conquered by Atithigva with Indra's help. It is understood that he was one of the leaders among the earlier inhabitants of this country, and that, living in the mountains and hills, he used to give trouble to the Āryas"—*(the sentence runs on to the next page)*
+
+---
+
+### Printed p. 740 (PDF 763)
+
+*(Header, read from the strip and not zoomed: "740", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". No full stop is printed after the Sūkta number in the header.)*
+
+The Kannada continues: "…Āryas. We have discussed his matter in Ṛ. Saṃ. part 5-?24 [?], 5-694 [?], 8-224 [?], 10-550 [?] and other places." *(The part-page numerals are unzoomed and doubtful.)*
+
+**यः वर्चिनः शतं इंद्रः सहस्रं अपावपत् (*yaḥ varcinaḥ śataṃ iṃdraḥ sahasraṃ apāvapat*)**
+
+The Kannada: "Indra killed on the earth, by throwing them down, the one lakh of heroes (together with their sons, grandsons etc.) of the asura named Varcin. Here the bhāṣyakāra has given two kinds of meaning for the word वर्चिनः (*varcinaḥ*) (वर्च दीप्तौ (*varca dīptau*)): 'of the radiant ones', that is, of valorous heroes; or 'of the asura named Varcin'. Of these, to take the word वर्चिन् (*varcin*) as the asura of that name is the apt sense. For—"
+
+> शतं वर्चिनः सहस्रं च साकं हथो अप्रत्यसुरस्य वीरान् ।
+
+> *śataṃ varcinaḥ sahasraṃ ca sākaṃ hatho apratyasurasya vīrān |*
+
+(Ṛ. Saṃ. 7-99-5)
+
+> उत दासस्य वर्चिनः सहस्राणि शतावधीः ।
+
+> *uta dāsasya varcinaḥ sahasrāṇi śatāvadhīḥ |*
+
+(Ṛ. Saṃ. 4-30-15 [?])
+
+*(A gap is printed before the last digit of the reference, "4-30- 5"; read so with the missing digit supplied as 1, doubtful. The list on p. 739 gave 4-30-14.)*
+
+The Kannada: "In these Ṛks the killing of one lakh heroes of the asura Varcin is stated. Here the words शतं सहस्रं च (*śataṃ sahasraṃ ca*), 'a hundred thousand', can be taken in two ways, 'one lakh' or 'eleven hundred'. The intention is that, in all, very many heroes are meant. And—"
+
+> अहन् दासा वृषभो वस्नयंतोदव्रजे वर्चिनं शंबरं च ।
+
+> *ahan dāsā vṛṣabho vasnayaṃtodavraje varcinaṃ śaṃbaraṃ ca |*
+
+(Ṛ. Saṃ. 6-47-21)
+
+The Kannada: "In this Ṛk the killing of the asuras Varcin and Śambara is mentioned."
+
+*(A short rule is printed here, closing the Viśeṣaviṣayagaḷu of Ṛk 6. No grammar section is printed for Ṛk 6.)*
+
+---
+
+#### Ṛk 7
+
+*(The heading "संहितापाठः" is printed in small type before the Ṛk. The Ṛk number is printed "7" (flat-footed glyph) at the end of the Saṃhitā and again after the Pada, which agrees with the sequence. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यः श॒तमा स॒हस्रं॒ भूम्या॑ उ॒पस्थेऽव॑पज्जघ॒न्वान् ।
+> कुत्स॑स्या॒योर॑तिथि॒ग्वस्य॑ वी॒रान्न्यावृ॑ण॒ग्भर॑ता॒ सोम॑मस्मै ॥ ७ ॥
+
+> *adhvaryavo yaḥ śatamā sahasraṃ bhūmyā upasthe 'vapajjaghanvān |*
+> *kutsasyāyoratithigvasya vīrānnyāvṛṇagbharatā somamasmai ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the word "उपस्थे" is printed with a small mark that may be the compound sign ऽ (read "उपऽस्थे"); it is not settled and is left as "उपस्थे" [?].)*
+
+> अध्वर्यवः । यः । शतं । आ । सहस्रं । भूम्याः । उपस्थे[?] । अवपत् । जघन्वान् । कुत्सस्य । आयोः । अतिथिग्वस्य । वीरान् । नि । अवृणक् । भरत । सोमं । अस्मै ॥ ७ ॥
+
+> *adhvaryavaḥ | yaḥ | śataṃ | ā | sahasraṃ | bhūmyāḥ | upasthe[?] | avapat | jaghanvān | kutsasya | āyoḥ | atithigvasya | vīrān | ni | avṛṇak | bharata | somaṃ | asmai ‖ 7 ‖*
+
+*(Ṛk 7 continues on the next page: bhāṣya, Pratipadārtha and the rest follow.)*
+
+---
+
+**Progress note:** Done through printed p. 740 (PDF 763). Sūkta 14: Ṛk 6 is complete (Pada, bhāṣya with its grammatical tail, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on Śambara and Varcin); no grammar section is printed for Ṛk 6. Ṛk 7 is open: only the Saṃhitā and Pada are written, and the bhāṣya, Pratipadārtha etc. follow on printed p. 741 (PDF 764). The Ṛk numbers 6 and 7 are read from the print, with the 7 glyph flat-footed. The numeral file had 0 rows for these pages, so nothing was checked against it, and nothing was zoomed. Unzoomed and doubtful: all Ṛg references on pp. 739–740 (the Śambara list of 20 references; 1-130-7; 2-19-6; 4-30-15 with a gap in the print; 6-47-21; 7-99-5 read the same on all three occurrences); the part-page references 5-?24, 5-694, 8-224, 10-550; the Uṇādi reference "4-6". [?] words: "नाम्नैतत्", "भूम्यामुपातयत्" (ya/yu hook), "अवाभरत्" (a/ā), "उपस्थे" in the Pada (the compound mark may be ऽ). Accents not reproduced.
