@@ -25245,4 +25245,122 @@ In this Ṛk a special meaning is indicated. Since Indra, unlike the deities suc
 
 ---
 
-**Progress note:** Done through printed p. 659 (PDF 682); the dispatcher's labels "printed 658/659/660" for PDF 680/681/682 are one too high, the headers read 657, 658, 659 (offset −23 holds). The numeral-file rows are again shifted by one page: the row "PDF 680" (4.100-3) belongs to PDF 681, and the rows "PDF 682" (Tai. Br. 1-4-1, 2 and 8-100-4) belong to the next page (PDF 683), not yet written. Sūkta 12: Ṛk 4's Viśeṣaviṣayagaḷu is finished (point 2 completed on p. 657 with the Śūdra/Dasyu discussion, point 3 on śvaghnī with Yāska's kitava, Nir. 5-22 read from the strip, finished at the top of p. 658). Ṛk 5 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is broken off after the second paragraph (⟦यं स्म पृच्छन्ति कुह सः इति घोरं⟧) at "… ಅವನೆಲ್ಲಿರುವನು ಎಂದು ಅನೇಕರು ಪ್ರಶ್ನೆಮಾಡುವರು. ಮತ್ತು," — to continue on printed p. 660 (PDF 683). Flags: FILE DISAGREE on the bhāṣya reference "८-१००-३" (file: 4.100-3; my reading 8 kept, [?]). Unzoomed: varga numeral 7, sūkta numeral 12, Ṛk number 5. [?] places: "अपश्यन्तो", "श्रदस्मै" (ā or ai), "मीञ्", "विश्वासमात्रं", "निर्धारण-", "स इन्द्रो नाहमिति", the first "स्वं" in Yāska's sentence (printed "ಸ्ಟಂ").
+### Printed p. 660 (PDF 683)
+
+*(Header: "660", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12". The dispatcher's labels are right this time; offset −23 holds. The Viśeṣaviṣayagaḷu of Ṛk 5 continues from p. 659, which ended "… And,".)*
+
+उत ईं आहुः न एषः अस्ति इति एनं (*uta īṃ āhuḥ na eṣaḥ asti iti enaṃ*)—Besides this, some say that this Indra does not exist at all. The ṛṣi describes here what ordinary people say: if a thing can be seen by the eye, many look at it and say "it exists". No one can believe, without proper grounds, that a thing invisible to the eye exists. This is the way of the world (printed "ಲೋಕಸ್ವಧಾವ", probably *lokasvabhāva* [?]) and it has a reason. For—
+
+*Gist (from the Kannada that follows): with the mouth and the mind one can speak or think what is false, but what the eye sees is true.*
+
+> अनृतं वै वाचा वदति । अनृतं मनसा ध्यायति । चक्षुर्वै सत्यं । अद्रागित्याह । अदर्शमिति । तत्सत्यं ॥
+
+> *anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣurvai satyaṃ | adrāgityāha | adarśamiti | tatsatyaṃ ‖*
+
+*(Printed "ಅದ್ರಾಗಿತ್ಯಾಹ", read अद्रागित्याह as printed [?]. Reference printed after it: तै. ब्रा. (*tai. brā.*) 1-4-1, 2 — the numeral file agrees; not zoomed.)*
+
+With the mouth one can speak falsehood. In the mind also one can think falsehood. But whatever is seen with the eye is truth. When one says "I have seen this thing", since there is a Śruti sentence that the thing seen is indeed real, how can one believe that Indra, who is invisible to the eye, exists? Since he is not visible to the eye, people argue that this Indra does not exist at all. In this matter Sāyaṇa—
+
+*Gist: Sāyaṇa quotes a Ṛk in which the doubter says there is no Indra and asks who has seen him and whom one should praise.*
+
+> नेन्द्रो अस्तीति नेम उ त्व आह क ईं ददर्श कमभि ष्टवाम
+
+> *nendro astīti nema u tva āha ka īṃ dadarśa kamabhi ṣṭavāma*
+
+*(Reference printed after it: ऋ. सं. (*ṛ. saṃ.*) 8-100-3 — read from the strip; the numeral file has no row for it; not zoomed.)*
+
+*Gist: Indra's reply, in the next Ṛk: "Here I am, O praiser; look; by my great might I overcome all beings."*
+
+> अयमस्मि जरितः पश्य मेह विश्वा जातान्यभ्यस्मि मह्ना ।
+
+> *ayamasmi jaritaḥ paśya meha viśvā jātānyabhyasmi mahnā |*
+
+*(Reference printed after it: ऋ. सं. (*ṛ. saṃ.*) 8-100-4 — the numeral file agrees; not zoomed.)*
+
+—he has quoted a Ṛk with this same sense. In this Ṛk Nema says: "There is no Indra. Who has seen him? Whom shall we praise?" When he asks this, Indra, in the next Ṛk, answers: "O praiser, look here. I (Indra) am right here. By my great strength and valour I shall overcome all beings." *(Printed "ಹೇಳಿದಾನೆ".)*
+
+In the present Ṛk also, to remove the doubt of those who argue that Indra does not exist, the ṛṣi Gṛtsamada recites the second half of this Ṛk and removes the doubt.
+
+*Gist: in the second half the ṛṣi says that Indra harms the enemy's wealth like a disturber, so one should have faith in him although he is not seen.*
+
+> सः अर्यः पुष्टीः विजइव आ मिनाति श्रत् अस्मै धत्त—ईमिति पूरणः । स इन्द्रो विजइव । इवशब्द एवार्थे । उद्वेजक एव सन् अर्योऽरेः सम्बन्धीनि पुष्टीः पोषकाणि गवाश्वादीनि धनान्यामिनाति । सर्वतो हिनस्ति । तस्मात् श्रदस्मै इन्द्राय धत्त । स इन्द्रोऽस्तीति विश्वासमत्र कुरुत । यद्यप्यसौ विशेषतोऽस्माभिर्न दृश्यते तथापि अस्तीति विश्वासं कुरुत ॥
+
+> *saḥ aryaḥ puṣṭīḥ vijaiva ā mināti śrat asmai dhatta—īmiti pūraṇaḥ | sa indro vijaiva | ivaśabda evārthe | udvejaka eva san aryo 'reḥ sambandhīni puṣṭīḥ poṣakāṇi gavāśvādīni dhanānyāmināti | sarvato hinasti | tasmāt śradasmai indrāya dhatta | sa indro 'stīti viśvāsamatra kuruta | yadyapyasau viśeṣato 'smābhirna dṛśyate tathāpi astīti viśvāsaṃ kuruta ‖*
+
+*(Doubtful places: "श्रदस्मै" (printed with a sign that may be ā or ai) [?]; "विश्वासमत्र कुरुत" — this printing reads *matra*/*mātra* unclear, I read "मत्र", and the ending "कुरुत" not "कुरुते"; the earlier reading on p. 658 "विश्वासमात्रं कुरुते" was marked [?], and this clearer printing may correct it. The same bhāṣya passage was written on p. 658.)*
+
+In this sentence the word ईं (*īṃ*) is used to fill the verse-foot, and in विजइव (*vijaiva*) the word इव (*iva*) is used in the sense of एव (*eva*). Therefore the sentence means: Indra attacks the enemies and takes by force their wealth and other things, their cows, horses and the like. Therefore, O men, place faith (trust) in Indra, that is, have confidence that Indra exists. For although Indra is not visible to our eyes, since the daring deeds he performs come within our sight, have faith (trust) that he exists: thus the ṛṣi has addressed the people.
+
+---
+
+### Printed p. 661 (PDF 684)
+
+*(Header: "A. 2 A. 6. V. 8 ]", "Ṛgvedasaṃhitā", "661". The varga numeral 8 and the Ṛk number 6 are not zoomed. A short rule is printed after the Viśeṣaviṣayagaḷu of Ṛk 5.)*
+
+#### Ṛk 6
+
+*(Small caption "Saṃhitāpāṭha".)*
+
+**॥ संहितापाठः ॥**
+
+> यो र॒ध्रस्य॑ चोदि॒ता यः कृ॒शस्य॒ यो ब्र॒ह्मणो॒ नाध॑मानस्य॒
+> कीरेः ।
+> यु॒क्तग्रा॑व्णो॒ योऽवि॒ता सु॑शि॒प्रः सु॒तसो॑मस्य॒ स ज॑नास॒॑
+> इन्द्रः ॥ ६ ॥
+
+> *yo radhrasya coditā yaḥ kṛśasya yo brahmaṇo nādhamānasya*
+> *kīreḥ |*
+> *yuktagrāvṇo yo 'vitā suśipraḥ sutasomasya sa janāsa*
+> *indraḥ ‖ 6 ‖*
+
+*(Accent marks not reproduced.)*
+
+**॥ पदपाठः ॥**
+
+> यः । रध्रस्य । चोदिता । यः । कृशस्य । यः । ब्रह्मणः । नाधमानस्य । कीरेः ।
+> युक्तऽग्राव्णः । यः । अविता । सुऽशिप्रः । सुतऽसोमस्य । सः । जनासः । इन्द्रः ॥
+
+> *yaḥ | radhrasya | coditā | yaḥ | kṛśasya | yaḥ | brahmaṇaḥ | nādhamānasya | kīreḥ |*
+> *yukta 'grāvṇaḥ | yaḥ | avitā | su 'śipraḥ | suta 'somasya | saḥ | janāsaḥ | indraḥ ‖*
+
+*(The small compound mark is printed in युक्तऽग्राव्णः, सुऽशिप्रः, सुतऽसोमस्य; read by eye from the strip, not zoomed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: the one who urges wealth to the prosperous, the poor, the begging and the praising priest, and protects the sacrificer who has pressed Soma, is Indra; "brahman" here means the praiser, not food (accent).*
+
+> यो रध्रस्य ॥ रध हिंसासंराद्ध्योः ॥ समृद्धस्य चोदिता धनानां प्रेरयिता भवति । यश्च कृशस्य च दरिद्रस्य च यश्च नाधमानस्य ॥ नाधृ ञाधृ याच्ञोपतापैश्वर्याशीःषु ॥ याचमानस्य कीरेः ॥ करोतेः कीर्तयतेर्वा ॥ स्तोतुर्ब्रह्मणो ब्राह्मणस्य च धनानां प्रेरयिता । यश्च सुशिप्रः शोभनहनुः सुशीर्षको वा सन् युक्तग्राव्णोऽभिषवार्थमुद्यतग्राव्णः सुतसोमस्याभिषुतसोमस्य यजमानस्याविता रक्षिता भवति स एवेन्द्रो नाहमिति । ब्रह्मशब्दस्य त्वन्नपरत्वे ह्याद्युदात्तता स्यात् यथा ब्रह्मवन्वानो अजरं सुवीरं । ३-८-२ । इति । अयं त्वंतोदात्तः पद्यते इति नान्नपरः ॥
+
+> *yo radhrasya ‖ radha hiṃsāsaṃrāddhyoḥ ‖ samṛddhasya coditā dhanānāṃ prerayitā bhavati | yaśca kṛśasya ca daridrasya ca yaśca nādhamānasya ‖ nādhṛ ñādhṛ yācñopatāpaiśvaryāśīḥṣu ‖ yācamānasya kīreḥ ‖ karoteḥ kīrtayatervā ‖ stoturbrahmaṇo brāhmaṇasya ca dhanānāṃ prerayitā | yaśca suśipraḥ śobhanahanuḥ suśīrṣako vā san yuktagrāvṇo 'bhiṣavārthamudyatagrāvṇaḥ sutasomasyābhiṣutasomasya yajamānasyāvitā rakṣitā bhavati sa evendro nāhamiti | brahmaśabdasya tvannaparatve hyādyudāttatā syāt yathā brahmavanvāno ajaraṃ suvīraṃ | 3-8-2 | iti | ayaṃ tvaṃtodāttaḥ padyate iti nānnaparaḥ ‖*
+
+*(Doubtful, unzoomed: the quoted words "ब्रह्मवन्वानो अजरं सुवीरं" and the final sentence "अयं त्वंतोदात्तः पद्यते इति नान्नपरः"; "नाहमिति" as printed. The reference "३-८-२" is that of the numeral file; it agrees with the strip as I see it; not zoomed. Grammatical tail, only characterized: on रध्रस्य (*radhrasya*) the root रध (*radha*) "to injure, to prosper"; on नाधमानस्य (*nādhamānasya*) the roots नाधृ and ञाधृ "to beg, to trouble, to be lord, to bless"; on कीरेः (*kīreḥ*) a derivation from the root कृ or कीर्तय "to praise"; then the accent argument given above. No sūtra numbers printed.)*
+
+---
+
+### Printed p. 662 (PDF 685)
+
+*(Header: "662", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. रध्रस्य (*radhrasya*)—even to the rich man. चोदिता (*coditā*)—provides (wealth). यः (*yaḥ*)—who. कृशस्य (*kṛśasya*)—to the poor man (provides). यः (*yaḥ*)—who. नाधमानस्य (*nādhamānasya*)—to the one who begs. कीरेः (*kīreḥ*)—who praises. ब्रह्मणः (*brahmaṇaḥ*)—to the ṛtvij also (provides) wealth. यः (*yaḥ*)—who. सुशिप्रः (*suśipraḥ*)—having excellent cheeks. युक्तग्राव्णः (*yuktagrāvṇaḥ*)—holding in the hand the stone that presses the Soma juice. सुतसोमस्य (*sutasomasya*)—and having pressed the Soma juice, of the sacrificer. अविता (*avitā*)—who is the protector. सः (*saḥ*)—he alone. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who provides wealth in one and the same way to the rich, to the poor, to the one who begs, and to the ṛtvij who praises him; who, having excellent cheeks, is the protector of the sacrificer who holds in his hand the stone that presses the juice and has pressed the Soma juice: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, who is the encourager of the rich, and of the poor, and of the priest, who recites his praise, and is a suppliant ; who, of goodly features, is the protector of him, who, with ready stones, expresses the Soma juice ; he, men, is Indra.
+
+*(Printed "he’ / men" at the line break, a stray mark after "he"; the text is as above.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 6)*
+
+यो रध्रस्य चोदिता (*yo radhrasya coditā*)—रध हिंसासंराद्ध्योः । समृद्धस्य चोदिता (*radha hiṃsāsaṃrāddhyoḥ | samṛddhasya coditā*)—The root रध (*radha*) is used in two senses, injury and prosperity. Taking here the sense of prosperity, they explain the word रध्रस्य (*radhrasya*) as "of a man who is prosperous through wealth and the like". Therefore रध्रस्य चोदिता (*radhrasya coditā*) here means: one who provides wealth and other things to a man who is already well off, having wealth and the like, that is, one who gives wealth and the like.
+
+यः कृशस्य यः ब्रह्मणः नाधमानस्य कीरेः ब्रह्मणः (*yaḥ kṛśasya yaḥ brahmaṇaḥ nādhamānasya kīreḥ brahmaṇaḥ*)—As said above, it is not that Indra helps with wealth and the like only the man of wealth and neglects others. It is said in this sentence that he looks on all in one and the same way. Accordingly कृशस्य (*kṛśasya*)—to the poor man, who is without proper food and the like, or lacks nourishment through want of means; नाधमानस्य (*nādhamānasya*)—to the one who begs, that is, who is destitute and lives by begging; कीरेः ब्रह्मणः (*kīreḥ brahmaṇaḥ*)—to the Brāhmaṇa who praises, or to the ṛtvij called Brahman: to all these Indra, without partiality, in one and the same way *(the sentence runs over to the next page: "ಒಂದೇ ಸಮನಾಗಿ")*
+
+---
+
+**Progress note:** Done through printed p. 662 (PDF 685); the dispatcher's labels agree with the headers this time (offset −23). Sūkta 12: Ṛk 5's Viśeṣaviṣayagaḷu is finished on p. 660 (Tai. Br. quote, 8-100-3 and 8-100-4 quotes, Gṛtsamada's second half; ends p. 661 with the ṛṣi's exhortation); a short rule and Ṛk 6 follow on p. 661 (varga 8 in the header). Ṛk 6 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is broken off in its second paragraph (⟦यः कृशस्य यः ब्रह्मणः नाधमानस्य कीरेः ब्रह्मणः⟧) at "… ಇಂದ್ರನು ಪಕ್ಷಪಾತವಿಲ್ಲದೆ ಒಂದೇ ಸಮನಾಗಿ" — to continue on printed p. 663 (PDF 686). Flags: numeral file agrees on Tai. Br. 1-4-1, 2, on 8-100-4 and on 3-8-2 (bhāṣya, p. 661); the first reference 8-100-3 (p. 660) has no file row and is my unzoomed reading. Unzoomed: varga numeral 8, Ṛk number 6, sūkta numeral 12 in the headers. [?] places: "ಲೋಕಸ್ವಧಾವ" (probably lokasvabhāva), "अद्रागित्याह", "श्रदस्मै" (ā or ai), "विश्वासमत्र कुरुत" (clearer than p. 658's "विश्वासमात्रं कुरुते"), the compound marks in the Ṛk 6 Pada, the end of the bhāṣya "ब्रह्मवन्वानो … नान्नपरः".
