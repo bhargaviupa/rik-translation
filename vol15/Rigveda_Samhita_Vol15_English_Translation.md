@@ -6198,6 +6198,96 @@ Addressing Rudra, the commentary describes him, in जातस्य श्र�
 
 रुद्र (*rudra*)—O Rudra. त्वा (*tvā*)—you, नमोभिः (*namobhiḥ*)—with (defective) acts of worship, मा चुक्रुधाम (*mā cukrudhāma*)—we shall not make angry. वृषभ (*vṛṣabha*)—O Rudra, who showers desired objects. दुष्टुती (*duṣṭutī*)—with inauspicious praises, मा (*mā*)—we shall not make (you) angry.
 
+### Printed p. 202
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 33, p. 202.*
+
+(Pratipadārtha of Ṛk 4 continued:) सहूती (*sahūtī*)—by invoking, along with you, other deities unlike you, and worshipping them. मा (*mā*)—(we shall) not (cause) you anger. नः (*naḥ*)—our. वीरान् (*vīrān*)—heroic sons. भेषजेभिः (*bheṣajebhiḥ*)—with your medicines. उत् अर्पय (*ut arpaya*)—cause (them) to be united (with them). त्वा (*tvā*)—you. भिषजां (*bhiṣajāṃ*)—among physicians [as supplied: "ವೈದ್ಯರಲ್ಲಿಲ್ಲಾ"; the Bhāvārtha has "ವೈದ್ಯರೆಲ್ಲೆಲ್ಲಾ", among all physicians]. भिषक्तमं (*bhiṣaktamaṃ*)—as the most excellent physician. शृणोमि (*śṛṇomi*)—I have heard and know.
+
+**भावार्थ (Bhāvārtha)**
+
+O Rudra, giver of what is desired, may we not provoke you to anger by worship that is deficient, by inauspicious praises, or by calling and worshipping other, unlike deities together with you. We could not do so. Make our heroic sons united with your medicines. I have heard and know you to be the most excellent physician among all physicians.
+
+**Printed English translation**
+
+Let us not provoke you, Rudra, to wrath by our (imperfect)
+adorations; nor, showerer (of benifits) [sic], by our unworthy praise, nor by
+our invocation (of other deities); invigorate our sons by your medicinal
+plants, for I hear that you are a chief physician amongst physicians.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the verb चुक्रुदाम (*cukrudāma*) is repeated three times and added as the verb to each of the three sentences, and the sense is explained accordingly.
+
+In the first sentence: नमोभिः (*namobhiḥ*) — आयथाक्रियमाणैः नमस्कारैः हविर्भिर्वा (*āyathākriyamāṇaiḥ namaskāraiḥ havirbhirvā*): it is said that the sacrificers do not make this god Rudra angry by acts of homage performed without following the order laid down in the śāstra, or by offerings of oblation.
+
+दुष्टतौ—दुःस्तुत्या अशोभनया स्तुत्या (*duṣṭatau—duḥstutyā aśobhanayā stutyā*) [as supplied; the Ṛk has दुष्टुती (*duṣṭutī*)]—"not proper", that is: by reciting praises whose sense makes one understand either the might or the qualities of this god otherwise than they are, and thereby preventing this god from giving the sacrificer his wishes as desired, the sacrificers do not act so as to make this god angry; so the sense is described.
+
+सुहूती--सुहूत्या विसदृशैः अन्यैः देवैः सह आह्वानेन मा क्रोधयाम । श्रेष्ठो हि स्वस्मत् न्यूनेन सहाह्वाने न क्रुद्धो भवति । (*suhūtī--suhūtyā visadṛśaiḥ anyaiḥ devaiḥ saha āhvānena mā krodhayāma | śreṣṭho hi svasmat nyūnena sahāhvāne na kruddho bhavati |*) [as supplied; the Ṛk has सहूती (*sahūtī*)]. When this god is invoked at the sacrifices, he is not made angry with the sacrificers by being invoked together with other minor deities. If one who is superior in might and qualities is joined with one lower than himself, the impression arises that he has been slighted. Since that would amount to an offence, the sacrificers, knowing the might of this god, act accordingly; so it is described.
+
+### Printed p. 203
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 16; Ṛgvedasaṃhitā, p. 203.*
+
+(Continued:) Since in other mantras this god is declared "प्रथमो दैव्यो भिषक् (*prathamo daivyo bhiṣak*)" (Tai. Saṃ. 4-1-5-2), "the first divine physician", the sacrificers know him as त्वा भिषजां-चिकित्साभिज्ञानां मध्यॆ अतिशयेन भैषज्यस्य कर्तारं शृणोमि (*tvā bhiṣajāṃ-cikitsābhijñānāṃ madhyè atiśayena bhaiṣajyasya kartāraṃ śṛṇomi*)—the foremost among the physicians who treat and destroy diseases, whether of the mind or of the body. And for this reason also: नः वीर्रान् भेषजेभिः उत् अर्पय—अस्माकं पुत्रान् त्वदीयैः औषध्यैः उत्कृष्टं संयोजय (*naḥ vīrrān bheṣajebhiḥ ut arpaya—asmākaṃ putrān tvadīyaiḥ auṣadhyaiḥ utkṛṣṭaṃ saṃyojaya*) [as supplied: वीर्रान् (*vīrrān*)]. The wish is expressed that this god give proper medicines to the children of us sacrificers and make them excel all others.
+
+Since the performers of sacrifice first invoke all the gods, satisfy them with oblations and the like, and only afterwards invoke this Rudra separately, it is described in this way here that they should not incur this god's wrath.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> हवी॑मभि॒र्हव॑ते॒ यो ह॒विर्भि॒रव॒ स्तोमे॑भी रु॒द्रं दि॑षीय ।
+> ऋ॒दू॒दरः॑ सु॒हवो॒ मा नो॑ अ॒स्यै ब॒भ्रुः सु॒शिप्रो॑ रीरधन्म॒नाय्कॆ ॥॑
+
+**॥ पदपाठः ॥**
+
+> हवीमभिः । हवते । यः । हविभिः । अव । स्तोमेभिः । रुद्रं । दिषीय ।
+> यदूवरः । सुहवः । मा । नः । अस्यै । बभ्रुः । सुशिप्रः । रीरधत् । मनाय्कॆ ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यो रुद्रो हविर्भिश्चरुपुरोडाशादिभिः सहितैर्हवीमभिराह्वानैः स्तुतिलक्ष-
+> णैर्हवते । आह्वयते स्तूयते ॥ व्यत्ययेन कर्मणि कर्तृप्रत्ययः । बहुलं
+> छंदसीति ह्वयतेः संप्रसारणं ॥ तं रुद्रं स्तोमेभिः स्तोत्रैरवदिषीय ।
+
+> *yo rudro havirbhiścarupuroḍāśādibhiḥ sahitairhavīmabhirāhvānaiḥ stutilakṣa-*
+> *ṇairhavate | āhvayate stūyate ‖ vyatyayena karmaṇi kartṛpratyayaḥ | bahulaṃ*
+> *chaṃdasīti hvayateḥ saṃprasāraṇaṃ ‖ taṃ rudraṃ stomebhiḥ stotrairavadiṣīya |*
+
+### Printed p. 204
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 33, p. 204.*
+
+> अवखंडयामि । पृथक्करोमि । अपगतक्रोधं करोमीति यावत् ॥ दो अवखं-
+> दने । व्यत्ययेनात्मनेपदं । बहुलं छंदसीतीत्वं ॥ युदूदरः । युदूदरो
+> मृदूदर इति यास्कः । नि. ६ ४. । सुहवः शोभनाह्वानो बभ्रुर्भर्ता सर्वस्य
+> बभ्रुवर्णो वा । सुशिप्रः । शिप्रे हनू नासिके वा । शोभनशिप्रः । एवंगुणविशिष्टः
+> स रुद्रोस्यॆ मनाय्कॆ । हन्मीति मन्यमानाबुद्धिर्मना । तस्यै नोऽस्मान्मा रीरधत् ।
+> मा वशं नैषीत् ॥ रथ हिंसासंराद्योः । अस्माण्ण्यंताल्लुज चजु रूपं । रध्यति-
+> र्वशगमन इति यास्कः ॥
+
+*Gist:* The Rudra who is invoked with oblations and praises I will appease with hymns; may he, soft-bellied, bountiful, tawny and fair-jawed, not give us over to this hostile intent.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*)—the Rudra who. हविर्भिः (*havirbhiḥ*)—accompanied by cooked offerings, cakes and the like. हवीमभिः (*havīmabhiḥ*)—with invocations that are in the form of praise. हवते (*havate*)—is praised. रुद्रं (*rudraṃ*)—such a Rudra. स्तोमेभिः (*stomebhiḥ*)—with hymns. अव दिषीय (*ava diṣīya*)—I make (him) free from anger and calm of mind. ऋतूदरः (*ṛtūdaraḥ*) [as supplied; Saṃhitā ऋदूदरः (*ṛdūdaraḥ*), bhāṣya युदूदरः (*yudūdaraḥ*)]—one with a soft belly. सुहवः (*suhavaḥ*)—one with an excellent invocation. बभ्रुः (*babhruḥ*)—one of tawny colour. सुशिप्रः (*suśipraḥ*)—one with fine cheeks or nose, that Rudra. अस्यॆ मनाय्कॆ (*asyè manāykè*)—to this evil mind that wishes us harm. नः (*naḥ*)—us. मा रीरधत् (*mā rīradhat*)—may he not bring (us) under its sway.
+
+**भावार्थ (Bhāvārtha)**
+
+The Rudra who is praised with invocations that are in the form of praise and accompanied by cooked offerings, cakes and the like, such a Rudra I make free from anger and calm of mind by praising him with hymns. May Rudra, who has a soft belly, an excellent invocation, a form of tawny colour and a fine nose, not bring us under the sway of this evil mind that wishes us harm.
+
+**Printed English translation**
+
+May I pacify by my praises that Rudra, who is worshipped with
+invocations and oblations; and never may he who is soft-bellied. of a
+tawny hue, and handsome chin ; who is reverently invoked ; subject us not
+to that malevolent disposition (that purposes our destruction).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Rudra is ऋदूदरः सुहवः बभ्रुः सुशिप्रः (*ṛdūdaraḥ suhavaḥ babhruḥ suśipraḥ*) — शोभनाह्वानः भर्ता सर्वस्य बभ्रुवर्णो वा शिप्रे हनूनासिके वा सुशिप्रः (*śobhanāhvānaḥ bhartā sarvasya babhruvarṇo vā śipre hanūnāsike vā suśipraḥ*) — "soft-bellied", that is, of fierce [text breaks off here] (continued on the next page)
+
 ---
 
-**Progress note:** Done through printed p. 201 (PDF 201). Sūkta 33 Ṛks 2-3 complete, Ṛk 4 through Saṃhitā/Pada/bhāṣya and start of Pratipadārtha (window ends mid-Pratipadārtha on p. 201); kn.md: p.199 marker inserted, duplicate label removed, Pratipadārtha/Bhāvārtha unquoted, stray lines removed; as supplied: Ṛk 2 'अतीय' vs Pada 'अशीय', Ṛk 3 'षर्षि णः' vs 'पर्षि नः', 'ಅಂಧಸಃ' for aṃhasaḥ, 'ಹುದ್ರನು', Ṛk 4 Saṃhitā lacks ṛk number
+**Progress note:** Done through printed p. 204 (PDF 204). Sūkta 33 Ṛk 4 completed (Pratipadārtha end, Bhāvārtha, printed English, Special Topics); Ṛk 5 complete except Special Topics, which breaks off mid-sentence on p. 204; kn.md: Bhāvārtha label fixed, Ṛk 5 Pratipadārtha split out of bhāṣya block and unquoted, bhāṣya split by page break placed as two blocks; as supplied: Ṛk 5 'ऋदूदरः' (Saṃhitā) vs 'यदूवरः' (Pada) vs 'यूदूदरः' (bhāṣya) vs 'ऋतूदरः' (Pratipadārtha), 'ವೀರ್ರಾನ್', 'ದುಷ್ಟತೌ', 'ಸುಹೂತೀ' for sahūtī, 'ವೈದ್ಯರಲ್ಲಿಲ್ಲಾ'; Ṛk 5 Saṃhitā has no ṛk number (Pada has ५)
