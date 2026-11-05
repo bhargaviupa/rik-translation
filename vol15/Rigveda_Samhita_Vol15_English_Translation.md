@@ -14502,6 +14502,115 @@ Sarasvati: O Sarasvatī. Devyāṃ: radiant. Tve: in you. Viśvā: all. Āyūṃ
 
 O Sarasvatī, all foods rest in you who are radiant. Having drunk soma, be gratified among us of the Śunahotra lineage, and give us the wealth of sons.
 
+### Printed p. 454
+
+*[Running head, p. 454: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+**Printed English translation**
+
+In you, Saraswathi, who are divine, all existences are collected : rejoice, goddess, amongst the Shunahotras, grant us, goddess, progeny.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the prayer is made that Sarasvatī, who has abundant food, be gratified by the soma offered by the sage Gṛtsamada and his descendants, and bestow on them food and the wealth of sons, grandsons and so on.
+
+आयूंषि (*āyūṃṣi*)—the word आयुः (*āyuḥ*) is read among the names of food (printed सि. ३-९ (*si. 3-9*), i.e. Ni. 3-9, as supplied). Two kinds of meaning may be given, food and life.
+
+शुनहोत्रेषु (*śunahotreṣu*)—the sage Gṛtsamada and his descendants, that is, sons, grandsons and so on, and other relatives, followers and the like. The explanation of this word we have given in the Special Topics of the 14th Ṛk of this sūkta.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative symbol or logo consisting of three stylized shapes arranged horizontally." (an ornament), kept as a note.]*
+
+#### Ṛk 18
+
+**॥ संहितापाठः ॥**
+
+> इ॒मा ब्रह्म॑ सरस्वति जु॒षस्व॑ वाजिनीवति ।
+> या ते॒ मन्म॑ गृत्सम॒दा ऋ॑तावरि प्रि॒या दे॒वेषु॒ जुह्व॑ति ॥
+
+> *imā brahma sarasvati juṣasva vājinīvati |*
+> *yā te manma gṛtsamadā ṛtāvari priyā deveṣu juhvati ‖*
+
+*(The Ṛk number ॥ ೧೮ ॥ is missing after the Saṃhitā in the supplied text; the Pada has it.)*
+
+**॥ पदपाठः ॥**
+
+> इमा । ब्रह्म । सरस्वति । जुषस्व । वाजिनीवति ।
+> या । ते । मन्म । गृत्समदाः । ऋतवरि । प्रिया । देवेषु । जुह्वति ॥ १८ ॥
+
+*(The Pada is printed ಋತವರಿ where the Saṃhitā has ಋತಾವರಿ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> वाजिनीवत्यन्नवति ऋतावर्युदकवति हे सरस्वति इमेमानि ब्रह्म ब्रह्माणि
+> हवींषि जुषस्व । स्वीकुरु । या यानि मन्म मननीयानि देवेषु प्रिया देवानां
+> मध्ये तुभ्यं प्रियाणि देवेषु प्रियाणि वा ते त्वदर्थं गृत्समधा जुह्वति ॥
+
+*(Gist: O Sarasvatī, rich in food and water, accept these oblations that the Gṛtsamadas offer to you, dear among the gods.)*
+
+### Printed p. 455
+
+*[Running head, p. 455: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vājinīvati: endowed with food. Ṛtāvari: endowed with water. Sarasvati: O Sarasvatī. Yā: which oblations. Manma: attractive to the mind. Deveṣu: to the gods. Priyā: dear (therefore). Te: addressed to you. Gṛtsamadāḥ: we, the Gṛtsamadas. Juhvati: offer. Imā brahma: these oblations. Juṣasva: accept and partake.
+
+**भावार्थ (Bhāvārtha)**
+
+O Sarasvatī, endowed with food and with water, the oblations which are attractive to the mind and dear to the gods, and also to you, pre-eminent among them, we the Gṛtsamadas offer to you. Accept and partake of them and be gratified.
+
+**Printed English translation**
+
+Saraswati, abounding in food, abounding in water, be propitiated by these oblations, which the Gritsamadas offer as acceptable to you, and precious to the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वाजिनीवति (*vājinīvati*)—the word वाजः (*vājaḥ*) is read among the names of food (Ni. 3-9); therefore the word वाजनीवति (*vājanīvati*) [as supplied] means she who has food.
+
+ब्रह्म (*brahma*)—the word ब्रह्म (*brahma*) is read among the names of food (Ni. 3-9); therefore it means the oblations we offer. Although the word ब्रह्म (*brahma*) is in the singular here, the word इमा (*imā*) that qualifies it is in the plural, so the word ब्रह्म (*brahma*) must be taken in the plural sense. This kind of usage, that is, difference in number and case, is specially seen in the Ṛgveda.
+
+मन्म (*manma*)—मननीयानि । (*mananīyāni |*) The rules stated for the word ब्रह्म (*brahma*) apply also to this word.
+
+गृत्समदाः (*gṛtsamadāḥ*)—the sage Gṛtsamada and his relatives. See the explanation written for the word शुनहोत्रेषु (*śunahotreṣu*) in the Special Topics of the 14th Ṛk of this sūkta.
+
+ऋतावरि (*ṛtāvari*)—the word ऋत (*ṛta*) is read among the names of water (Ni. 2-24) and among the names of the sacrifice
+
+### Printed p. 456
+
+*[Running head, p. 456: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+(Ni. 2-24 above). And there is the etymology ऋतमित्युदकनाम प्रत्यृतं भवति (*ṛtamityudakanāma pratyṛtaṃ bhavati*) (Ni. 2-25), and also सत्यं वा यज्ञं वा (*satyaṃ vā yajñaṃ vā*) (Ni. 4-19). In the present Ṛk the commentator has explained ऋत (*ṛta*) as water and said that the river Sarasvatī has abundant water.
+
+#### Ṛk 19
+
+**॥ संहितापाठः ॥**
+
+> प्रेतां॑ य॒ज्ञस्य॑ शं॒भुवा॑ यु॒वामिदा वृ॑णीमहे ।
+> अ॒ग्निं च॑ हव्य॒वाह॑नं ॥ १९ ॥
+
+**॥ पदपाठः ॥**
+
+> प्र । इतां । यज्ञस्य । शंभुवा । युवां । इत् । आ । वृणेमहे ।
+> अग्निं । च । हव्यवाहनं ॥ १९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यज्ञस्य यागस्य शंभुवा सुखसंपादके हविर्धाने अनसी तद्रूपे द्यावापृथिव्यौ वा प्रेतां । उत्तरवेदेः पश्चिमभागं प्रति प्रगच्छतां । अथ प्रत्यक्षकृतः ।
+> युवामित् युवामेवावृणीमहे । प्रार्थयामहे । हव्यवाहनमग्निं चावृणीमहे । अग्निरत्र निपातभागिति ॥
+
+> *yajñasya yāgasya śaṃbhuvā sukhasaṃpādake havirdhāne anasī tadrūpe dyāvāpṛthivyau vā pretāṃ | uttaravedeḥ paścimabhāgaṃ prati pragacchatāṃ | atha pratyakṣakṛtaḥ |*
+> *yuvāmit yuvāmevāvṛṇīmahe | prārthayāmahe | havyavāhanamagniṃ cāvṛṇīmahe | agniratra nipātabhāgiti ‖*
+
+*(Gist: let Heaven and Earth, the two bringing welfare to the sacrifice, the Havirdhāna carts, go to the west of the Uttaravedi; we invoke you two and Agni, the oblation-bearer. Hyphenated line breaks were joined; the bhāṣya reads अनसी (*anasī*) and सम्यक् (*samyak*) as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yajñasya: for the sacrifice. Śaṃbhuvā: Heaven and Earth, which bring welfare. Pretāṃ: let them go and join (to the western part of the Uttaravedi) (O Heaven and Earth). Yuvāṃ it: you only. Ā vṛṇīmahe: we beseech. Havyavāhanaṃ: bearing the oblation (to the gods). Agniṃ ca: and Agni we also beseech.
+
+**भावार्थ (Bhāvārtha)**
+
+May Heaven and Earth, which bring welfare to the sacrifice, go and join the western part of the Uttaravedi. O Heaven and Earth, we beseech you, and Agni, the carrier of the oblation to the gods.
+
 ---
 
-**Progress note:** Done through printed p. 453 (PDF 453). Sukta 41 Rik 16 Sarasvati note finished (pp. 451-453): non-river examples, course of the river; Rik 17 Samhita, Pada, bhashya, Pratipadartha, Bhavartha (p. 453), printed English and Special Topics to follow. Flags: Latin-letter scholar and place names inside Kannada kept; 1. (2) numbering as supplied; 2 accent DIFF
+**Progress note:** Done through printed p. 456 (PDF 456). Sukta 41 Rik 17 complete (p. 454); Rik 18 complete (pp. 454-456); Rik 19 Samhita to Bhavartha (p. 456), printed English and Special Topics to follow. Flags: Rik 18 number missing after Samhita; Pada rtavari vs rtavari; anasi/vajinivati spellings as supplied; 1 accent DIFF
