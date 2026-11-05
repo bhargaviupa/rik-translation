@@ -24253,6 +24253,106 @@ Harness with traces, to your car, your long-maned, ruddy (steeds, to come) to th
 
 *[The window ends here, at the end of p. 784; the next window continues.]*
 
+### Printed p. 785
+
+*[Running head, p. 785: Aṣṭaka 2, Adhyāya 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+[continuing:] अथ विश्वान् देवान् आ वह (*atha viśvān devān ā vaha*): afterwards, bring to our sacrificial ground all the gods whom we invoke in the sacrifice. जातवेदः स्वध्वरा कृणुहि (*jātavedaḥ svadhvarā kṛṇuhi*): O Agni, who knows everything, make the sacrificial works we are performing be accompanied by excellent rites and pleasing to the gods.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> दि॒वश्रि॒दा ते॑ रुचयंत रो॒का उ॒षो वि॑भा॒तीरनु॑ भासि पू॒र्विः ।
+> अ॒पो यद॑ग्न उ॒शध॒ग्वने॑षु॒ होतु॑र्मं॒द्रस्य॑ प॒नयं॑त दे॒वाः॥७॥
+
+**॥ पदपाठः ॥**
+
+> दिवः । चित् । आ । ते । रुचयंत । रोकाः । उषः । विभातीः । अनु । भासि । पूर्विः।
+> अपः । यत् । अग्ने । उशधक् । वनेषु । होतुः । मंद्रस्य । पनयंत । देवाः ॥ ७ ॥
+
+> *divaḥ | cit | ā | te | rucayaṃta | rokāḥ | uṣaḥ | vibhātīḥ | anu | bhāsi | pūrviḥ|*
+> *apaḥ | yat | agne | uśadhak | vaneṣu | hotuḥ | maṃdrasya | panayaṃta | devāḥ ‖ 7 ‖*
+
+*[In the supplied text the Pada was split in two: its first line stood under the Pada label, and its second line (from "अपः । यत् । (*apaḥ | yat |*)") was placed under a mistaken label "सायणभाष्यं (*sāyaṇabhāṣyaṃ*)" together with the bhāṣya. The two Pada lines were put together in one block and the bhāṣya label moved before the bhāṣya proper.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने यत् यदा वनेष्वरण्येष्टप उशधक् कामयमानो दहंश्च
+> वर्तसे तदा ते रोकाश्च त्वदीया दीप्तयो दिवश्चित् सूर्यादप्यारुचयंत ।
+> आरोचंते । विभातीर्विशेषेण भांतीः प्रकाशमानाः पूर्वीः पुराणीरुष उषसोऽनु भासि । मंद्रस्य स्तुत्यस्य होतुस्तव रोकान् देवाः स्तोतारः पनयंत ।
+> स्तुवंति ॥
+
+*(Gist: when, O Agni, you burn the forest, your flames outshine even the sun and follow the old dawns; the gods praise your radiance as the praiseworthy hotṛ.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Yat: when. Vaneṣu: in the forests. Apaḥ: the waters (plants and the like). Uśadhak: you burn (then). Te: your. Rokāḥ: radiances. Divaścit: more than the sun. Ā rucayanta: shine. Vibhātīḥ: shining exceedingly. Pūrvīḥ: ancient (printed "अद (*ada*)"). Uṣaḥ: the dawns. Anu bhāsi: you shine, emulating. Mandrasya: of the praiseworthy. Hotuḥ: of the hotṛ, you. Devāḥ: the praisers. Panayanta: praise (your radiances).
+
+*[Stray line as supplied at the end of p. 785: "50", kept as a note in kn.md.]*
+
+### Printed p. 786
+
+*[Running head, p. 786: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 6.]*
+
+*[The label "१ भानार्थ १ (*1 bhānārtha 1*)" (garbled for Bhāvārtha) is kept as a note in kn.md; the standard label is inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, when you burn the plants and the like in the forests, your radiances shine more than the sun. You shine emulating the exceedingly bright and ancient dawns. The praisers praise the radiances of you, the praiseworthy hotṛ.
+
+**Printed English translation**
+
+When, Agni, you abide in the woods, consuming the waters at your pleasure, then your rays, illuminate the heavens, and you shine like many former radiant dawns : the gods themselves commend (the brilliancy) of their praise-meriting invoker.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अग्ने यत् वनेषु अपः अशधक् ते रोकाः दिवश्चित् आ रुचयंत (*agne yat vaneṣu apaḥ aśadhak te rokāḥ divaścit ā rucayaṃta*) (printed अशधक् (*aśadhak*)): O Agni, when you burn the trees and the like that have grown well in the forests with the help of waters, your blazing radiances shine far more than the rays or radiance of the sun. In this sentence the forest fire is described. It is a matter of common knowledge that the light and heat arising from Agni when he burns great trees in a forest are greater than the sun's brilliance. In this sentence the word अपः (*apaḥ*), "waters", indicates the trees and the like that have grown stout by the waters; it should be understood that the cause is stated in place of the effect. For the word चित् (*cit*) Yāska says
+
+चिदित्येषोऽनेककर्मा । आचार्यश्चिदिदं ब्रूयादिति पूजायां । दधिचिदित्युपमार्थे । कुल्माषांश्चिदाहरेत्यवकुत्सिते । (*cidityeṣo 'nekakarmā | ācāryaścididaṃ brūyāditi pūjāyāṃ | dadhicidityupamārthe | kulmāṣāṃścidāharetyavakutsite |*)
+(printed सि (*si*). 1-4)
+
+That is, the word cit has many meanings and is used according to the context. Saying that it is used to indicate honour, in the sense of comparison, and in censure, he explains by examples: that the word cit in the sentence अचार्यश्चिदिदं ब्रूयात् (*acāryaścididaṃ brūyāt*) (printed अचार्य (*acārya*)) indicates honour, that in the sentence दधिचिदित्युपमार्थे (*dadhicidityupamārthe*) it is used in the sense of comparison, and that in the sentence कुल्माषांक्षिदाहरेत् (*kulmāṣāṃkṣidāharet*) (so printed) it indicates censure. In the present Ṛk the words divaścit indicate comparison.
+
+### Printed p. 787
+
+*[Running head, p. 787: Aṣṭaka 2, Adhyāya 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+विभातीः पूर्वी उषः अनु भासि (*vibhātīḥ pūrvī uṣaḥ anu bhāsi*) (printed so): since Agni is kindled and installed for the sacrifice after the time of Uṣas, it is described here that you shine following the bright and ancient times of Uṣas. The plural is used here to indicate the times of Uṣas that appear on many days.
+
+मंद्रस्य होतुः देवाः पनयंत (*maṃdrasya hotuḥ devāḥ panayaṃta*): in this sentence the meaning fits properly if a word meaning radiance or qualities is supplied. O Agni, the gods praise the radiances or qualities of you, the praiseworthy one and the hotṛ who invokes the gods; this is the purport of the sentence.
+
+*[Image note as supplied in kn.md: "This image contains no text. It is a decorative symbol or ornament consisting of three stylized floral elements connected by stems and leaves, with small dots at each end."]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> उ॒रौ वा॒ ये अं॒तरि॑क्षे॒ मदं॑ति दि॒वो वा॒ ये रो॑च॒ने संति॒॑
+> दे॒वाः ।
+> ऊमा॑ वा॒ ये सु॒हवा॑सो॒ यज॑त्रा आयेमि॒रे र॒थ्यो॑ अग्ने॒॑
+> अश्वाः ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> उरौ । वा । ये । अंतरिक्षे । मदंति । दिवः । वा । ये । रोचने । संति । देवाः ।
+> ऊमाः । वा । ये । सुहवासः । यजत्राः । आयेमिरे । रथ्यः । अग्ने। विश्वाः ॥८॥
+
+> *urau | vā | ye | aṃtarikṣe | madaṃti | divaḥ | vā | ye | rocane | saṃti | devāḥ |*
+> *ūmāḥ | vā | ye | suhavāsaḥ | yajatrāḥ | āyemire | rathyaḥ | agne| viśvāḥ ‖8‖*
+
+*(The Saṃhitā ends "अश्वाः (*aśvāḥ*)" while the Pada ends "विश्वाः (*viśvāḥ*)", as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> उरौ विस्तीर्णेंतरिक्षे ये देवा मदंति । हृष्यंति । दिवः सूर्यस्य
+> रोचने प्रकाशन आलोके ये देवाः संति । ऊमाः । ऊमसंज्ञकाः पितरः संति ।
+> यजत्रा यष्टव्या ये देवाः सुहवासः शोभनाह्वाना आयेमिरे । आयच्छंति ।
+> रथ्यो रथिनस्तव येऽश्वाः संति हे अग्ने तैः सर्वैः सार्धमायाहीत्युत्तरयर्चा
+> संबंधः ॥
+
+*[The window ends here, at the end of p. 787, after the bhāṣya of Ṛk 8; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 784 (PDF 784). Sūkta 6 Ṛk 5 (full) and Special Topics; Ṛk 6 (full) and Special Topics (Agni's ruddy horses; Ni. 2-28)
+**Progress note:** Done through printed p. 787 (PDF 787). Sūkta 6 Ṛk 6 Special Topics end; Ṛk 7 (full) and Special Topics (cit, Ni. 1-4); Ṛk 8 Saṃhitā, Pada, bhāṣya
