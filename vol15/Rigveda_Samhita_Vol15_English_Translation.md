@@ -1188,6 +1188,101 @@ All truth, lords of wealth, (Indra and Brahmanaspathi), is inherent in you both 
 In this sūkta both Indra and Brahmaṇaspati are praised. मघवाना—तद्वंत् इंद्राब्रह्मणस्पती (*maghavānā—tadvaṃt iṃdrābrahmaṇaspatī*). The word मघ (*magha*) is stated by Yāska among the names of wealth (Ni. 3-9). By this word Indra and Brahmaṇaspati are addressed as possessors of wealth.
 युवयोरित् विश्वं सत्यं—युवयोरेव सर्वं स्तोत्रं यथार्थं । स्तुत्या यद्यद्गुणजातं प्रतिपाद्यते तत्सर्वं युवयोः विद्यमानमेव न त्वारोपितं (*yuvayorit viśvaṃ satyaṃ—yuvayoreva sarvaṃ stotraṃ yathārthaṃ | stutyā yadyadguṇajātaṃ pratipādyate tatsarvaṃ yuvayoḥ vidyamānameva na tvāropitaṃ*). Here the word विइल्लिश्व (*viilliśva*) [?] (as supplied, evidently विश्व (*viśva*) with a stray word run in) is given the meaning "all kinds (of every sort) of praises".
 
+### Printed p. 40
+
+*Running head: [Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied; the page number is garbled to "4)").*
+
+(Special Topics of Ṛk 12 continued.) All the qualities stated in the Ṛks of Indra and Brahmaṇaspati are really present in them; they are not merely attributed, as poets say in their poems. In this way the abundant excellence of their qualities is described.
+
+आपश्च वां व्रतं न प्रमिनंति—अपोऽपि । (*āpaśca vāṃ vrataṃ na praminaṃti—apo 'pi |*) Although the word आपः (*āpaḥ*) here names the waters, it is explained that all creatures pervaded by the five elements beginning with water (as supplied "ಉಪಕ", evidently for water) cannot destroy (cannot transgress) the obligatory duties performed by Indra and पृथ्विस्थितिगळु (*pṛthvisthitigaḷu*) (as supplied). The quoted Sanskrit has "ಏತದುಲಪಕ್ಷಿತಾನಿ" (as supplied).
+
+नः हविः युजीव वाजिना अच्छ- (*naḥ haviḥ yujīva vājinā accha-*) ... "Just as swift horses yoked to a chariot go quickly towards their fodder, so may you come quickly." Just as the swift horses yoked to a chariot come with speed for their food, so may Indra and Brahmaṇaspati come quickly to receive the oblations and the like in our sacrifice; thus the prayer of the sacrificer is stated.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> उताःष्ठा [?] आम [?] शृण्वंति वह्नयः सभेयो विप्रो भरते मतिः
+> धना ।
+> वी॒ळु॒द्वेषा॒ अनु॒ वश॑ ऋ॒णमा॑द॒दिः स ह॑ वा॒जी स॑मि॒थे ब्रह्म॑ण॒-॑
+> स्पतिः ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । आशिष्ठाः । अनु । शृण्वंति । वह्नयः । सभेयः । विप्रः । धरते [?] । मती । धना
+> वीळुद्वेषाः । अनु । वशा । ऋणं । आददिः । सति [?] . ह । वाजी । संइथे । ब्रह्मणः ।
+> पतिः ॥ १३ ॥
+
+> *uta | āśiṣṭhāḥ | anu | śṛṇvaṃti | vahnayaḥ | sabheyaḥ | vipraḥ | dharate [?] | matī | dhanā*
+> *vīḷudveṣāḥ | anu | vaśā | ṛṇaṃ | ādadiḥ | sati [?] . ha | vājī | saṃithe | brahmaṇaḥ |*
+> *patiḥ ‖ 13 ‖*
+
+### Printed p. 41
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 3] Ṛgveda-saṃhitā 41 (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+
+> उत अपि च आशिष्ठा आशुतराः शीघ्रगामिनो वह्नयः !! आश्वनामृतत् ॥
+> वोढारो ब्रह्मणस्पतेरश्वा अनु शृण्वंति । अस्माभिः कृतं स्तोत्रमनुक्रमेण
+> शृण्वंति । यद्वा ब्रह्मणस्पतिना कृतमनुशासनं शृण्वंति । आतस्ते तमस्मदीयं यज्ञं
+> प्रापयंत्विति शेषः । सभेयः सभायां साधुः ॥ ढश्चंदसीति ढः ॥ विप्रो मेधावी
+> अध्वर्युर्होता वा मती मत्या मननीयेन स्तोत्रेण ॥ सुपां सुलुगिति पूर्व-
+> सवर्णदीर्घः ॥ धना हविर्लक्षणानि धनानि तस्मै ब्रह्मणस्पतये भरते । बिभर्ति ।
+> संपादयतीति यावत् । यद्वा स्तोत्रेण धनानि भरते । बिभर्ति पोषयति । आतो
+> वीळुद्देषाः । वीळून् दृढान् प्रबलान् राक्षसादीन् द्वेष्टीति तादृशो ब्रह्मणस्पति-
+> र्वशा वशाया गोः ॥ सुपां सुलुगिति षष्ठ्या लुक् ! ऋत्यक इति प्रकृतिभावः ॥
+> ऋणमस्माभिर्यज्जभिः प्रदेयमवदानात्मकमनुक्रमेणाददिरादाता भवत्विति शेषः ।
+> अवदानस्य ऋणत्वं च तैत्तिरीये त्रिभिर्यणवा जायते ब्रह्मचर्येण ऋषिभ्यः ।
+> ६. ३. १०. ५. । इत्यादिना स्पष्टमाम्मातं । यद्वा अनुरानुगुण्ये । वशा वशस्य काम-
+> स्याभिलाषस्यानुगुणमादाता भवत्विति योज्यं । हशब्दः प्रसिद्धौ । स खलु ब्रह्मणस्पतिः
+> समिथे । संयंति संगच्छंतेऽस्मिन्नाहुतिभिर्देवा इति समिथो यज्ञः । तस्मिन्वाजी
+> अन्नवान् । तस्माद्भव विष आदाता भवत्वित्यर्थः ॥
+
+> *uta api ca āśiṣṭhā āśutarāḥ śīghragāmino vahnayaḥ !! āśvanāmṛtat ‖*
+> *voḍhāro brahmaṇaspateraśvā anu śṛṇvaṃti | asmābhiḥ kṛtaṃ stotramanukrameṇa*
+> *śṛṇvaṃti | yadvā brahmaṇaspatinā kṛtamanuśāsanaṃ śṛṇvaṃti | ātaste tamasmadīyaṃ yajñaṃ*
+> *prāpayaṃtviti śeṣaḥ | sabheyaḥ sabhāyāṃ sādhuḥ ‖ ḍhaścaṃdasīti ḍhaḥ ‖ vipro medhāvī*
+> *adhvaryurhotā vā matī matyā mananīyena stotreṇa ‖ supāṃ sulugiti pūrva-*
+> *savarṇadīrghaḥ ‖ dhanā havirlakṣaṇāni dhanāni tasmai brahmaṇaspataye bharate | bibharti |*
+> *saṃpādayatīti yāvat | yadvā stotreṇa dhanāni bharate | bibharti poṣayati | āto*
+> *vīḷuddeṣāḥ | vīḷūn dṛḍhān prabalān rākṣasādīn dveṣṭīti tādṛśo brahmaṇaspati-*
+> *rvaśā vaśāyā goḥ ‖ supāṃ sulugiti ṣaṣṭhyā luk ! ṛtyaka iti prakṛtibhāvaḥ ‖*
+> *ṛṇamasmābhiryajjabhiḥ pradeyamavadānātmakamanukrameṇādadirādātā bhavatviti śeṣaḥ |*
+> *avadānasya ṛṇatvaṃ ca taittirīye tribhiryaṇavā jāyate brahmacaryeṇa ṛṣibhyaḥ |*
+> *6. 3. 10. 5. | ityādinā spaṣṭamāmmātaṃ | yadvā anurānuguṇye | vaśā vaśasya kāma-*
+> *syābhilāṣasyānuguṇamādātā bhavatviti yojyaṃ | haśabdaḥ prasiddhau | sa khalu brahmaṇaspatiḥ*
+> *samithe | saṃyaṃti saṃgacchaṃte 'sminnāhutibhirdevā iti samitho yajñaḥ | tasminvājī*
+> *annavān | tasmādbhava viṣa ādātā bhavatvityarthaḥ ‖*
+
+Gist: The swift horses of Brahmaṇaspati hear our praise (or his command); the wise priest brings wealth with praise; may Brahmaṇaspati, destroyer of strong demons, accept our debt-like oblation, being rich in food at the sacrifice.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत (*uta*)—and; आशिष्ठाः (*āśiṣṭhāḥ*)—swift-going; वह्नयः (*vahnayaḥ*)—horses; अनु शृण्वंति (*anu śṛṇvaṃti*)—may they listen to our praises; सभेयः (*sabheyaḥ*)—excellent in the assembly; विप्रः (*vipraḥ*)—and wise, the Adhvaryu; मती (*matī*)—with a hymn worthy of thought; धना (*dhanā*)—the wealth in the form of oblations; भरते (*bharate*)—offers; वीळुद्देषाः (*vīḷuddeṣāḥ*)—Brahmaṇaspati, who hates the mighty demons; वशा (*vaśā*)—produced from the cow; ऋणं (*ṛṇaṃ*)—and offered by the sacrificers, the avadāna (offering); अनु आददिः (*anu ādadiḥ*)—may he accept (for the reason that); स ह ब्रह्मणस्पतिः (*sa ha brahmaṇaspatiḥ*)—that Brahmaṇaspati indeed; समिथे (*samithe*)—in this sacrifice; वाजी (*vājī*)—is possessed of food.
+
+**भावार्थ (Bhāvārtha)**
+
+May the swift horses of Brahmaṇaspati listen to our praises. The Adhvaryu, excellent in the assembly and wise, offers with a hymn worthy of thought the wealth in the form of oblations. May Brahmaṇaspati, who hates the mighty demons, accept the avadāna (the oblation), which is produced from the cow and offered by the sacrificers. For that Brahmaṇaspati is indeed possessed of food at this sacrifice.
+
+### Printed p. 42
+
+*Running head: [42 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied).*
+
+**Printed English**
+
+The very swift horses (of Brahmanaspathi) listen to (our invocation); the priest of the assembly offers with praise the (sacrificial) wealth: may Brahmanaspathi, the hater of the oppressor, accept (the payment of) the debt, agreeably to his pleasure : may he be the accepter of the (sacificial) [sic] food presented at this coremony [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+आशिष्ठा वयः अनु शृण्वंति— (*āśiṣṭhā vayaḥ anu śṛṇvaṃti—*) शीघ्रगामिनः ब्रह्मणस्पतेरश्वाः अस्माभिः कृतं (*śīghragāminaḥ brahmaṇaspateraśvāḥ asmābhiḥ kṛtaṃ*) स्तोत्रं अनुक्रमेण शृण्वंति । (*stotraṃ anukrameṇa śṛṇvaṃti |*) यद्वा ब्रह्मणस्पतिना कृतमनुशासनं शृण्वंति । (*yadvā brahmaṇaspatinā kṛtamanuśāsanaṃ śṛṇvaṃti |*) The horses of Brahmaṇaspati, moving with speed, listen to the praises of Brahmaṇaspati recited by the sacrificers or by the priests; or they listen to the command of Brahmaṇaspati. Therefore, the prayer of the sacrificers is stated: may those horses quickly bring Brahmaṇaspati to our sacrifice.
+
+विप्रः मती धना भरते—मेधावी अध्वर्युः होता वा मननीयेन स्तोत्रेण (*vipraḥ matī dhanā bharate—medhāvī adhvaryuḥ hotā vā mananīyena stotreṇa*) हनिर्लक्षणानि धनानि पोषयति । (*hanirlakṣaṇāni dhanāni poṣayati |*) The word विप्र (*vipra*) is stated by Yāska (Ni. 3-19) among the names of the wise. Sāyaṇa gives two kinds of sense: that the wise Adhvaryu, or the priest called Hotṛ, recites excellent praises and gathers this abundant wealth for the sacrifice of Brahmaṇaspati; or that by praiseworthy hymns he wins the favour of Brahmaṇaspati (by his grace) and increases the wealth so acquired.
+
+वीळुद्वेषाः वशा ऋणमाददिः— (*vīḷudveṣāḥ vaśā ṛṇamādadiḥ—*) Here the word वीळु (*vīḷu*) is read by Yāska among the names of strength (Ni. 3-9). By it the meaning is given that Brahmaṇaspati दृढान् राक्षसार्दी द्वेष्टि (*dṛḍhān rākṣasārdī dveṣṭi*) (as supplied), that is, subdues the demons and the like, who have abundant power. Thus Brahmaṇaspati, possessed of such greatness, अस्माभिः यज्ज्वभिः प्रदेयं अवदानात्मकं (हविः) (*asmābhiḥ yajjvabhiḥ pradeyaṃ avadānātmakaṃ (haviḥ)*) अनुक्रमेण आदाता भवतु (*anukrameṇa ādātā bhavatu*): the oblations that the officiating priests who perform the homa offer for him in the sacrifices (the materials given as a debt) are prayed to be accepted, as if a debt due were accepted without fail.
+
+Here it may be said that the oblation-portion offered for Brahmaṇaspati is of the nature of a debt, and, since it must necessarily be offered, it is like a debt. Having explained the meaning thus, Sāyaṇa quotes: अवदानस्य ऋणत्वं च—जायमानो वै ब्राह्मणस्त्रिभिर्यणवा (*avadānasya ṛṇatvaṃ ca—jāyamāno vai brāhmaṇastribhiryaṇavā*) (the passage continues on the next page; the window ends here).
+
 ---
 
-**Progress note:** Done through printed p. 39 (PDF 39). Sūkta 24: Ṛk 11 complete (bhāṣya to Special Topics, pp. 37-38); Ṛk 12 Saṃhitā, Pada, bhāṣya (pp. 38-39), Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (p. 39, ends at window end). Flags: hand fixes to kn.md: Pratipadārtha split from the Ṛk 11 bhāṣya block; 4 [?] in kn.md/3 in en.md (Pada 'ನಾಂ' for ವಾಂ, Bhāvārtha 'ಪಥಕ್ಕೆ' for ರಥಕ್ಕೆ, 'ಮಾರುವುದಿಲ್ಲ' for ಮೀರುವುದಿಲ್ಲ, 'ವಿಇಲ್ಲಿಶ್ವ'); stray '1' after ಮಘವಾನಾ in Pratipadārtha; no Ṛk number printed after Ṛk 12 Saṃhitā in supplied text; Special Topics of Ṛk 12 continues
+**Progress note:** Done through printed p. 42 (PDF 42). Sūkta 24: Ṛk 12 Special Topics finished (pp. 40, Sāyaṇa quotations); Ṛk 13 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English (pp. 40-41); Special Topics of Ṛk 13 begun (p. 42, ends mid-quotation at window end). Flags: hand fixes to kn.md: Ṛk 13 Saṃhitā/Pada garbled labels (ಮಕರಂದ, ಚರಿತೆ) replaced by standard ones and set as blocks; 4 [?] (Saṃhitā 'ಉತಾಃಷ್ಠಾ', 'ಆಮ' for ಅನು?; Pada 'ಧರತೇ' vs bhāṣya ಭರತೇ, 'ಸತಿ' for ಸ); other supplied slips left unmarked: 'ಉಪಕ/ಉಲಪಕ್ಷಿತಾನಿ' (p. 40), 'ಇಂದ್ರಾ ಪೃಥ್ವಿಸ್ಥಿತಿಗಳು' (p. 40), 'ಆತಸ್ತೇ', 'ತಸ್ಮಾದ್ಭವ ವಿಷ' (bhāṣya p. 41), 'ದೃಢಾನ್ ರಾಕ್ಷಸಾರ್ದೀ' (p. 42); no Ṛk number printed after Ṛk 12 Saṃhitā
