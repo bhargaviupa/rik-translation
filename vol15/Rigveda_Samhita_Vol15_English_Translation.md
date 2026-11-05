@@ -21577,6 +21577,136 @@ At this pressing only mantras of the Triṣṭubh metre must be recited. Among t
 
 *[The window ends here, at the end of p. 694: the reference after this Ṛk is cut off in the supplied text at "ಋ. सं (*saṃ*). ೬-", and no number is supplied; the next window continues.]*
 
+### Printed p. 695
+
+*[Running head, p. 695: Aṣṭaka 2, Ā. (printed so for A.) 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+*[Note on the join: the reference of the midday-pressing Hotṛ mantra on the previous page was cut off at "ಋ. सं (*saṃ*). ೬-"; the supplied text of p. 695 does not begin with its remainder but with the next item, so no number is supplied here.]*
+
+*[The first line of p. 695 is printed "1. ೨. मैत्रावरुण (*maitrāvaruṇa*)—" (a stray "1." before ೨), as supplied.]*
+
+2. Maitrāvaruṇa:
+
+⟦ಸ ಈ ಪಾಹಿ ಯ ಋಜೀಷೀ ತರುತ್ತೋ ಯಃ ಶಿಪ್ರವಾನ್ ವೃಷಭೋ ಯೋ ಮತೀನಾಂ ।
+ಯೋ ಗೋತ್ರಭಿದ್ವಜಭಿದ್ಯೋ ಹರಿಷ್ಠಾಃ ಸ ಇಂದ್ರ ಚಿತ್ರಾಂ ಅಭಿ ಶೃಂಧಿ ವಾಜಾನ್ ॥⟧
+(Ṛ. Saṃ. 6-17-2)
+
+3. Brāhmaṇācchaṃsin:
+
+⟦ಏವಾ ಪಾಹಿ ಪ್ರತ್ನಥಾ ಮಂದತು ತ್ವಾ ಶ್ರುಧಿ ಬ್ರಹ್ಮ ವಾವೃಧಸ್ವೋತ ಗೀರ್ಭಿಃ ।
+ಆವಿಃ ಸೂರ್ಯಂ ಕೃಣುಹಿ ಪೀಪಿಹೀಷೋ ಜಹಿ ಶತ್ರುರಭಿ ಗಾ ಇಂದ್ರ ತೃಂಧಿ ॥⟧
+(Ṛ. Saṃ. 6-17-2, as printed again)
+
+4. Potṛ:
+
+⟦ಅರ್ವಾಜೇಹಿ ಸೋಮಕಾಮಂ ತ್ವಾಹುರಯಂ ಸುತಸ್ತಸ್ಯ ಪಿಬಾ ಮದಾಯ ।
+ಉರುವ್ಯಚಾ ಜಠರ ಆ ವೃಷಸ್ವ ಪಿತೇವ ನಃ ಶೃಣುಹಿ ಹೂಯಮಾನಃ ॥⟧
+(Ṛ. Saṃ. 1-104-9)
+
+5. Neṣṭṛ:
+
+⟦ತವಾಯಂ ಸೋಮಸ್ಯಮೇಹ್ಯರ್ವಾಜ್ ಶಶ್ವತ್ತಮಂ ಸುಮನಾ ಅಸ್ಯ ಪಾಹಿ ।
+ಅಸ್ಮಿನ್ ಯಜ್ಞೆ ಬರ್ಹಿಷ್ಯಾ ನಿಷದ್ಯಾ ದಧಿಷ್ಟೇಮಂ ಜಠರ ಇಂದುಮಿಂದ್ರ ॥⟧
+(Ṛ. Saṃ. 3-35-6)
+
+6. Acchāvāka:
+
+⟦ಇಂದ್ರಾಯ ಸೋಮಾಃ ಪ್ರದಿವೋ ವಿದಾನಾ ಋಭುರ್ಯೇಭಿರ್ವೃಷಪರ್ವಾ ವಿಹಾಯಾಃ ।
+ಪ್ರಯಮ್ಯಮಾನಾನ್ ಪ್ರತಿ ಷೂ ಗೃಭಾಯೇಂದ್ರ ಪಿಬ ವೃಷಭೂತಸ್ಯ ವೃಷ್ಣಃ ॥⟧
+(Ṛ. Saṃ. 3-36-2)
+
+7. Āgnīdhra:
+
+⟦ಆಪೂರ್ಣೋ ಅಸ್ಯ ಕಲಶಃ ಸ್ವಾಹಾ ಸೇಕ್ತೇವ ಕೋಶಂ ಸಿಸಿಚೇ ಪಿಬಧ್ಯೈ ।
+ಸೆಮು ಪ್ರಿಯಾ ಆವವೃತ್ರನ್ ಮದಾಯ ಪ್ರದಕ್ಷಿಣಿದಭಿ ಸೋಮಾಸ ಇಂದ್ರಂ ॥⟧
+(Ṛ. Saṃ. 3-32-15)
+
+॥ तृतीयसवन ॥ (*‖ tṛtīyasavana ‖*) (Third pressing, as printed)
+
+All the mantras to be recited at this pressing are in the Jagatī metre.
+
+1. The Hotṛ:
+
+⟦ಇಂದ್ರ ಋಭುಭಿರ್ವಾಜವದ್ಧಿಃ ಸಮುಕ್ಷಿತಂ ಸುತಂ ಸೋಮಮಾ ವೃಷಸ್ವಾ ಗಭಸ್ತೋಃ ।
+ಧಿಯೇಷಿತೋ ಮಘವನ್ನಾಶುಷೋ ಗೃಹೇ ಸೌಧನ್ವನೇಭಿಃ ಸಹ ಮತ್ಸಾ ನೃಭಿಃ ॥⟧
+(Ṛ. Saṃ. 3-60-5)
+
+### Printed p. 696
+
+*[Running head, p. 696: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+*[The first line of p. 696 is printed "1. ೨. मैत्रावरुण (*maitrāvaruṇa*)—" (a stray "1." before ೨), as supplied.]*
+
+2. Maitrāvaruṇa:
+
+⟦ಇಂದ್ರಾವರುಣಾ ಸುತಪಾವಿಮಂ ಸುತಂ ಸೋಮಂ ಪಿಬತಂ ಮದ್ಯಂ ಧೃತವ್ರತಾ ।
+ಯುವೋ ರಥೋ ಆಧ್ವರಂ ದೇವವೀತಯೇ ಪ್ರತಿ ಸ್ವಸರಮುಪ ಯಾತಿ ಪೀತಯೇ ॥⟧
+(Ṛ. Saṃ. 6-68-10)
+
+3. Brāhmaṇācchaṃsin (printed ब्राह्मणाच्छंसि (*brāhmaṇācchaṃsi*)):
+
+⟦ಇಂದ್ರಶ್ಚ ಸೋಮಂ ಪಿಬತಂ ಬೃಹಸ್ಪತೇಽಸ್ಮಿನ್ಯಜ್ಞೆ ಮಂದಸಾನಾ ವೃಷಣ್ವಸೂ ।
+ಆ ನಾಂ ವಿಶಂತ್ವಿಂದವಃ ಸ್ವಾಭುವೋಽಸ್ಮೇ ರಯಿಂ ಸರ್ವವೀರಂ ನಿ ಯಚ್ಛತಂ ॥⟧
+(Ṛ. Saṃ. 4-50-10)
+
+4. Potṛ:
+
+⟦ಆ ವೋ ವಹಂತು ಸಪ್ತಯೋ ರಘುಷ್ಯದೋ ರಘುಪತ್ವಾನಃ ಪ್ರಜಿಗಾತ ಬಾಹುಭಿಃ ।
+ಸೀದತಾ ಬರ್ಹಿರುರು ವಃ ಸದಸ್ಯೃತಂ ಮಾದಯಧ್ವಂ ಮರುತೋ ಮಧ್ಯೋ ಅಂಧಸಃ ॥⟧
+(Ṛ. Saṃ. 1-85-6)
+
+5. Neṣṭṛ (printed नेष्ट्र (*neṣṭra*)):
+
+⟦ಅಮೇವ ನಃ ಸಹವಾ ಆ ಹಿ ಗಂತನ ನಿ ಬರ್ಹಿಷಿ ಸದತನಾ ರಣಿಷ್ಟನ ।
+ಅಥಾ ಮಂದಸ್ವ ಜುಜುಷಾಣೋ ಅಂಧಸಸ್ತ್ವರ್ದೇವೇಭಿರ್ಜನಿಭಿಃ ಸುಮದ್ಗಣಃ ॥⟧
+(Ṛ. Saṃ. 2-36-3)
+
+6. Acchāvāka:
+
+⟦ಇಂದ್ರಾವಿಷ್ಣೂ ಪಿಬತಂ ಮಧ್ಯೋ ಅಸ್ಯ ಸೋಮಸ್ಯ ದಸ್ರಾ ಜಠರಂ ಪೃಣೇಥಾಂ ।
+ಆ ವಾಮಂಧಾಂಸಿ ಮದಿರಾಣ್ಯಗ್ಮನ್ನುಪ ಬ್ರಹ್ಮಾಣಿ ಶೃಣುತಂ ಹವಂ ಮೇ ॥⟧
+(Ṛ. Saṃ. 6-69-7)
+
+7. Āgnīdhra:
+
+⟦ಇಮಂ ಸ್ತೋಮಮರ್ಹತೇ ಜಾತವೇದಸೇ ರಥಮಿವ ಸಂ ಮಹೇಮಾ ಮನೀಷಯಾ ।
+ಭದ್ರಾ ಹಿ ನಃ ಪ್ರಮತಿರಸ್ಯ ಸಂಸದ್ಯಗ್ನೇ ಸಖ್ಯೇ ಮಾ ರಿಷಾಮಾ ವಯಂ ತವ ॥⟧
+(printed मि (*mi*). सं (*saṃ*). 1-94-1, so printed for Ṛ. Saṃ.)
+
+In this way, at every pressing these seven priests, each reciting one Ṛk, recite seven Ṛks and make the offering. As said before, the offering is made with mantras of the Gāyatrī metre at the morning pressing, of the Triṣṭubh metre at the midday pressing, and of the Jagatī metre at the third pressing. This is the account of the mantras to be recited at the times of the pressings.
+
+॥ उन्नीयमानसूक्तगळ विवरणॆ ॥ (*‖ unnīyamānasūktagaḷa vivaraṇè ‖*) (Account of the Unnīyamāna sūktas, as printed)
+
+Having told the seven mantras each of the Gāyatrī, Triṣṭubh and Jagatī metres which the seven priests beginning with the Hotṛ recite and offer in the three pressings, the account of the procedure to be followed now at the time of the morning pressing, the mantras to be recited and so on, as stated in the Aitareya Brāhmaṇa (the 28th chapter, as printed ಐ. ब्रा (*brā*). २८ नॆय अध्याय (*28 nèya adhyāya*)), is given here. [The sentence breaks at the page end in mid-word: "अनुसरिस (*anusarisa*)" / "बेकाद (*bekāda*)".]
+
+### Printed p. 697
+
+*[Running head, p. 697: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+Before the offering at the time of the pressing, when the priests are ready, having filled the Soma juice in the camasa vessel (a ladle-like wooden vessel used for offering), the Adhvaryu directs, by a Praiṣa mantra, the priest called Maitrāvaruṇa to recite the Unnīyamāna sūkta. The Unnīyamāna sūkta is the sūkta recited while the Soma juice, filled in the camasa vessel for offering, is held up for offering.
+
+This Unnīyamāna sūkta recited at the morning pressing must be of the Gāyatrī metre, at the midday pressing of the Triṣṭubh metre, and at the third pressing of the Jagatī metre. Besides, there is a rule that a sūkta of nine Ṛks must be recited as the Unnīyamāna sūkta at the morning pressing, one of ten Ṛks at the midday pressing, and one of nine Ṛks at the third pressing.
+
+There is also another special point in the recitation of mantras. The mantras must be recited at these three pressings following the course of the sun. Namely, in the morning, since the sun's brightness is very faint, the mantras at the morning pressing must be recited in a soft voice. At midday, since the sun's brightness is very sharp, the mantras at the midday pressing must be pronounced in a high voice, that is, very loudly. In the evening, since the sun's heat has declined and become less, the mantras at the third pressing must be recited in a soft voice.
+
+The Unnīyamāna sūkta to be recited at the morning pressing:
+
+As soon as the Adhvaryu directs Maitrāvaruṇa, by the Praiṣa mantra, to recite the Unnīyamāna sūkta at the morning pressing, Maitrāvaruṇa recites accordingly the sūkta ⟦ಆ ತ್ವಾ ವಹಂತು
+ಹರಯಃ⟧ (Ṛ. Saṃ. 1-16):
+
+⟦ಆ ತ್ವಾ ವಹಂತು ಹರಯೋ ವೃಷಣಂ ಸೋಮಪೀತಯೇ ।
+ಇಂದ್ರ ತ್ವಾ ಸೂರಚಕ್ಷಸಃ ॥ ೧ ॥
+ಇಮಾ ಧಾನಾ ಧೃತಸ್ನ್ನುವೋ ಹರೀ ಇಹೋಪ ವಕ್ಷತಃ ।
+ಇಂದ್ರಂ ಸುಖತಮೇ ರಥೇ ॥ ೨ ॥
+ಇಂದ್ರಂ ಪ್ರಾತರ್ಹನಾಮಹ ಇಂದ್ರಂ ಪ್ರಯತ್ಯಧ್ವರೇ ।
+ಇಂದ್ರಂ ಸೋಮಸ್ಯ ಪೀತಯೇ ॥ ೩ ॥
+ಉಪ ನಃ ಸುತಮಾ ಗಹಿ ಹರಿಭಿರಿಂದ್ರ ಕೇಶಿಭಿಃ ।
+ಸುತೇ ಹಿ ತ್ವಾ ಹವಾಮಹೇ ॥ ೪ ॥
+ಸೇಮಂ ನಃ ಸ್ತೋಮಮಾ ಗಹ್ಯುಪೇದಂ ಸವನಂ ಸುತಂ ।
+ಗೌರೋ ನ ತೃಷಿತಃ ಪಿಬ ॥ ೫ ॥⟧
+
+*[The window ends here, at the end of p. 697, after the fifth Ṛk of that sūkta as supplied (॥ ५ ॥ (*‖ 5 ‖*)); the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 694 (PDF 694). Sūkta 4 Ṛk 5 Special Topics (door-deities, saptahotṛ prasthitayājyā mantras: morning pressing, midday begun)
+**Progress note:** Done through printed p. 697 (PDF 697). Sūkta 4 Ṛk 5 Special Topics (saptahotṛ mantras: midday and third pressing; Unnīyamāna sūkta 1-16 begun)
