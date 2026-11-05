@@ -4,7 +4,7 @@ One window = 3 consecutive PDF pages. The dispatcher only dispatches; a **fresh 
 
 ## Set-up (once per volume)
 1. `python3 tools/rv/batch.py new N --mandala M --start-page 1 --source "volN/html/FILE1.html@1-100" --source "volN/html/FILE2.md@101-200"` -> `volN/volcfg.json`, folders, empty `Rigveda_Samhita_VolN_English_Translation.md` and `..._Kannada_Text.md` (progress note: Done through printed p. START-1). Each `--source` is a file of the supplied machine-read text with the printed pages (`@FIRST-LAST`) taken from it; add one per file as the user supplies them. Strip embedded base64 images from a markdown file before committing it.
-2. Put the user's numeral file(s) in `volN/numerals/`. Set `numerals.file_page` (file page = PDF - delta) and `printed` (printed = PDF - k) in `volcfg.json` only to the extent the numeral file needs PDF numbers (`prep` warns when no rows are found).
+2. Numeral file: optional (the supplied text's numerals were found correct). If the user supplies one, put it in `volN/numerals/`; it is then used as a cross-check. Set `numerals.file_page` (file page = PDF - delta) and `printed` (printed = PDF - k) in `volcfg.json` only to the extent the numeral file needs PDF numbers (`prep` warns when no rows are found).
 3. Accented reference: `refs/mandala/rv_mandalaM.html` must exist for the volume's Maṇḍala (the user adds Maṇḍala 3+).
 4. Branch: create `claude/volN` from main; `volcfg.json` "branch" guards commits.
 5. Check the supplied text once: `python3 tools/rv/html_pages.py FILE` (page numbers present? a page with no running head merges into the previous one: the splitter needs a running head with the page number on each page; markdown files lacking one need that head restored).

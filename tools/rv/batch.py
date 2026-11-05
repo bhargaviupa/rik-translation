@@ -71,7 +71,7 @@ Write {rel}/en.md (the Kannada text is NOT retyped: Sanskrit blocks are placed w
     print(w); print(json.dumps(info,indent=1))
     miss=[p for p,_ in pages if p not in src]
     if miss: print('WARNING: not in the supplied text:',miss)
-    if any(i['numeral_rows']==0 for i in info): print('NOTE: no numeral-file rows for some pages (file not supplied, or the printed->PDF map / numerals.file_page offsets in volcfg.json are not set)')
+    if cfg.numeral_files() and any(i['numeral_rows']==0 for i in info): print('NOTE: a numeral file is configured but has no rows for some of these pages (check numerals.file_page in volcfg.json)')
 def cmd_build(a):
     cfg=rvlib.Cfg(a[0]); w=a[1]; kn=rd(os.path.join(w,'kn.md')); en=rd(os.path.join(w,'en.md'))
     if re.search(r'^> \*',en,re.M): sys.exit("FAIL: IAST typed by hand in en.md ('> *' lines): IAST is added by script")
