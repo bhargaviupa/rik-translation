@@ -27911,4 +27911,114 @@ That is, because it grows in the rainy season, *vṛtra* means the cloud. In thi
 
 ---
 
-**Progress note:** Done through printed p. 728 (PDF 751). Sūkta 14: Ṛk 2 is complete (no grammar section printed for it). Ṛk 3 is open: Saṃhitā, Pada and Sāyaṇa-bhāṣya written; the Pratipadārtha is begun and stops after "अप वः—हिंसिसिदनो" (the entries from ⟦वलं⟧ onward in this list are done; the next entry on the next page is "तस्मै"). The Bhāvārtha, printed English and Viśeṣaviṣayagaḷu follow. Header numerals (Sū. 14; A. 2 A. 6 V. 13) read and agree with the previous pages. Numeral references 2-21, 2-16, 1-61-12 and 10-147-1 agree with the numeral file; none zoomed, no FILE DISAGREE. The Tai. Saṃ. reference after the first Veda example and the sūtra number after "भू. आ-" are not printed. Doubtful places: Ṛk 3 Pada "वलं ः वरिति वः" (copied as printed); bhāṣya "सर्वान्[?]", "लुजं[?]", "हल्ङ्यादिना", "सोम्यैरिंद्रमा[?]", "आच्छाधयत"; the reading "vṛṣṭikarma" on p. 727; faint letters on p. 726.
+### Printed p. 729 (PDF 752)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "729". The page begins in the middle of the Pratipadārtha of Ṛk 3. Its first entry is "यः (*yaḥ*)—who", not "तस्मै (*tasmai*)" as the previous note expected. The earlier entries on the previous page were written before this page was seen, and their order may differ from the printed order; see the doubts.)*
+
+यः (*yaḥ*)—who. | गाः (*gāḥ*)—the cows (held back by that asura Vala). | उदाजत् (*udājat*)—freed. | तस्मै (*tasmai*)—for that Indra. | एतं (*etaṃ*)—this soma. | अंतरिक्षे (*aṃtarikṣe*)—in the antarikṣa. | वातं न (*vātaṃ na*)—as the wind is filled (covered) with streams of water, so fill. | जूः (*jūḥ*)—an old man. | वस्त्रैः न (*vastraiḥ na*)—as he becomes covered with garments. | इंद्रं (*iṃdraṃ*)—Indra. | सोम्यैः (*somyaiḥ*)—with soma juices. | आ ऊर्णुते (*ā ūrṇute*)—cover completely (and fill). *(The strip seems to show a final e-sign on "ऊर्णुत(े)" here, while the Saṃhitā and the heading of the Viśeṣaviṣaya have "ऊर्णुत"; written as printed, doubt logged.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, Indra killed the asura named Dṛbhīka. He also harassed the asura named Vala and freed the cows seized by him. Fill that Indra with soma juices so that he is completely covered. Do it as the wind in the antarikṣa is filled with streams of water, and as an old man is covered with garments.
+
+**English Translation** *(as printed)*
+
+Priests, offer this libation, which, like the wind in the firmament, (is the cause of rain); to him who slew Dribhika, destroyed Vala, and liberated the cows; heap Indra with Soma juice, as an old man (is covered) with garments· *(a raised dot stands where the full stop would be)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः दृभीकं जघान (*yaḥ dṛbhīkaṃ jaghāna*)—*Gist: Dṛbhīka is explained as the asura who tears all asunder and causes fear.*
+
+> सर्वान् विदारयति भियं करोतीति दृभीको नामासुरः । तमसुरं जघान ।
+
+> *sarvān vidārayati bhiyaṃ karotīti dṛbhīko nāmāsuraḥ | tamasuraṃ jaghāna |*
+
+The Kannada explains: an asura named Dṛbhīka used to tear everyone apart and cause fear. Therefore he got the name Dṛbhīka. Here it is said that Indra killed that asura. The name Dṛbhīka occurs in the Ṛgveda only in this Ṛk and nowhere else. Therefore nothing more can be said about him.
+
+यः गाः उदाजत् अप हि वलं वः (*yaḥ gāḥ udājat apa hi valaṃ vaḥ*)—Here it is described that Indra harassed the asura named Vala, who had stolen and hidden the cows of the gods, and freed those cows from bondage. We have discussed the matter of Vala in detail in Ṛ. Saṃ. 7-465, 5-232, 692 and 14-634 and other places. *(As printed; the numeral file agrees; "692" is printed without a part number; not zoomed.)*
+
+तस्मै एतं अंतरिक्षे वातं न सोम्यैः ऊर्णुत जूर्न वस्त्रैः (*tasmai etaṃ aṃtarikṣe vātaṃ na somyaiḥ ūrṇuta jūrna vastraiḥ*)—
+
+> तस्मा इंद्रायैतं सोममंतरिक्षे वातमिव धाराभिर्व्याप्तं कुरुते । सर्वते आच्छादयते । तत्र दृष्टांतः । जूर्न जीर्णो यथा वस्त्रैरंगमाच्छादयति तद्वत् ।
+
+> *tasmā iṃdrāyaitaṃ somamaṃtarikṣe vātamiva dhārābhirvyāptaṃ kurute | sarvate ācchādayate | tatra dṛṣṭāṃtaḥ | jūrna jīrṇo yathā vastrairaṃgamācchādayati tadvat |*
+
+*(Reading note: the strip appears to show a final e-sign on "कुरुते", "सर्वते" and "आच्छादयते", and "आच्छादयति" at the end; written as they look. This differs from the form "सर्वत आच्छाधयत" read on the previous page; doubt logged.)* The Kannada says: "To that Indra", that is, fill Indra, who has the qualities described above, well with soma juice, and make him well pervaded, that is, let Indra drink the soma juice abundantly. Two similes are given here *(continued on the next page)*.
+
+---
+
+### Printed p. 730 (PDF 753)
+
+*(Header, read from the strip and not zoomed: "730", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+The Viśeṣaviṣaya of Ṛk 3 continues: In the antarikṣa the wind makes the rain-water spread everywhere. In the same way, you should fill Indra with soma juice as much as he wishes; this is the meaning. And as an aged old man, unable to bear the cold, covers his body completely with garments, so make Indra (or Indra's belly) pervaded (covered) with soma juices. In this way the meaning of the simile is stated. *(No grammar section is printed for Ṛk 3.)*
+
+---
+
+#### Ṛk 4
+
+*(The accent marks of the Saṃhitā and Pada are not reproduced here. The Kannada letters "ಯು", "ಮು" in "ಯು ಉರಣಂ", "ಅರ್ಬುದಮುವ", "ಸೋಮುಸ್ಯ" are the hooked plain *ya* and *ma*, read as य, म.)*
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ य उर॑णं ज॒घान॒ नव॑ च॒ख्वांसं॑ नव॒तिं च॑ बा॒हून् ।
+> यो अर्बु॑द॒मव॑ नी॒चा ब॑बा॒धे तमिंद्रं॒ सोम॑स्य भृ॒थे हि॑नोत ॥ ४ ॥
+
+> *adhvaryavo ya uraṇaṃ jaghāna nava cakhvāṃsaṃ navatiṃ ca bāhūn |*
+> *yo arbudamava nīcā babādhe tamiṃdraṃ somasya bhṛthe hinota ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । उरणं । जघान । नव । चख्वांसं । नवतिं । च । बाहून् ।
+> यः । अर्बुदं । अव । नीचा । बबाधे । तं । इंद्रं । सोमस्य । भृथे । हिनोत ॥ ४ ॥
+
+> *adhvaryavaḥ | yaḥ | uraṇaṃ | jaghāna | nava | cakhvāṃsaṃ | navatiṃ | ca | bāhūn |*
+> *yaḥ | arbudaṃ | ava | nīcā | babādhe | taṃ | iṃdraṃ | somasya | bhṛthe | hinota ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra slew the asura Uraṇa, who displayed ninety-nine arms, and hurled Arbuda down headlong; propitiate him at the offering of soma.*
+
+*(Reading notes: the first sentence is printed "य इंद्रो ... चख्वांसं ॥". In "ऋनतेः" the first letter is printed in the shape used for ṛ and is read so; this is doubtful. The grammatical tail is transcribed without explanation; no sūtra numbers are printed in it.)*
+
+> हे अध्वर्यवः य इंद्रो नव नवतिं च एकोनशतं बाहून् चख्वांसं ॥ चष्टेरिदं रूपं । यद्वा ऋनतेः[?] क्वसौ रूपं । निलोपः । छांदसं रूपं ॥ सर्वस्य दर्शयंतं । यद्वा आत्मनो देहे निखातवंतमुरणमेतन्नामकमसुरं जघान । यश्चार्बुदमेतन्नामकमसुरं च नीचाधोमुखं कृत्वावबबाधे । तमेनमिंद्रं सोमस्य भृथे सोमं बिभ्रति पात्रे हिनोत । वर्धयत । यद्वा सोमस्य भृथे भरणे संपादने सति हिनोत । स्तोत्रैः प्रीणयत ॥ हि गतिवृद्ध्योः । स्वादिः ॥
+
+> *he adhvaryavaḥ ya iṃdro nava navatiṃ ca ekonaśataṃ bāhūn cakhvāṃsaṃ ‖ caṣṭeridaṃ rūpaṃ | yadvā ṛnateḥ[?] kvasau rūpaṃ | nilopaḥ | chāṃdasaṃ rūpaṃ ‖ sarvasya darśayaṃtaṃ | yadvā ātmano dehe nikhātavaṃtamuraṇametannāmakamasuraṃ jaghāna | yaścārbudametannāmakamasuraṃ ca nīcādhomukhaṃ kṛtvāvababādhe | tamenamiṃdraṃ somasya bhṛthe somaṃ bibhrati pātre hinota | vardhayata | yadvā somasya bhṛthe bharaṇe saṃpādane sati hinota | stotraiḥ prīṇayata ‖ hi gativṛddhyoḥ | svādiḥ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. | यः (*yaḥ*)—which Indra. | नव नवतिं च (*nava navatiṃ ca*)—ninety-nine in number. | बाहून् (*bāhūn*)—arms. | चख्वांसं (*cakhvāṃsaṃ*)—displaying (or having in his body). *(The Pratipadārtha continues on the next page.)*
+
+---
+
+### Printed p. 731 (PDF 754)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "731".)*
+
+उरणं (*uraṇaṃ*)—the asura named Uraṇa. | जघान (*jaghāna*)—killed. | यः (*yaḥ*)—who. | अर्बुदं (*arbudaṃ*)—the asura named Arbuda. | नीचा (*nīcā*)—making him face downward. | अव बबाधे (*ava babādhe*)—harassed and destroyed. | तं (*taṃ*)—such. | इंद्रं (*iṃdraṃ*)—Indra. | सोमस्य (*somasya*)—of soma juice. | भृथे (*bhṛthe*)—in the vessel (offering soma with a vessel full of it). | हिनोत (*hinota*)—make him grow.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, Indra killed the asura named Uraṇa, who was displaying his own ninety-nine arms by stretching them out. He also made the asura named Arbuda face downward, harassed him and destroyed him. Offer soma from a full vessel to such an Indra and make him grow.
+
+**English Translation** *(as printed)*
+
+Priests, propitiate, by the offering of the Soma, that Indra, who slew Urana, displaying nine and ninety arms; and hurled Arbuda down headlong· *(a raised dot stands where the full stop would be)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+य उरणं जघान नव चख्वांसं नवतिं च बाहून् (*ya uraṇaṃ jaghāna nava cakhvāṃsaṃ navatiṃ ca bāhūn*)—Sāyaṇa has explained this sentence in two ways.
+
+*(1)* इंद्रो नव नवतिं च एकोनशतं बाहून् चख्वांसं सर्वस्य दर्शयंतं उरणमेतन्नामकमसुरं जघान (*iṃdro nava navatiṃ ca ekonaśataṃ bāhūn cakhvāṃsaṃ sarvasya darśayaṃtaṃ uraṇametannāmakamasuraṃ jaghāna*) (the Kannada follows it): Indra killed the asura named Uraṇa, who displayed (held) ninety-nine arms for all to see. This is one kind of meaning.
+
+*(2)* यद्वा आत्मनो देहे चख्वांसं निखातवंतमुरणमेतन्नामकमसुरं जघान (*yadvā ātmano dehe cakhvāṃsaṃ nikhātavaṃtamuraṇametannāmakamasuraṃ jaghāna*) (as printed): or Indra killed the asura named Uraṇa, who, joined with his ninety-nine arms, fell upon Indra and was harassing him, sticking fast to him. This is another kind of meaning.
+
+Here the ninety-nine arms may belong to Indra or to the asura Uraṇa. "Ninety-nine" need not be taken as exactly that number; it may also be taken as "many". The meaning is that Indra killed the asura Uraṇa, who had many arms. The name Uraṇa occurs only in this Ṛk and nowhere else. Therefore nothing can be said about him.
+
+यः अर्बुदमव नीचा बबाधे (*yaḥ arbudamava nīcā babādhe*)—Here it is said that Indra made the asura named Arbuda face downward, harassed him and killed him. We have discussed the matter of the asura Arbuda in detail in Ṛ. Saṃ. part 5 [?], page 135 [?] *(the part and page numerals are doubtful)*, and in pages 633–634 of this same part. *(The numeral file agrees with 633–634 only.)*
+
+तमिंद्रं सोमस्य भृथे हिनोत (*tamiṃdraṃ somasya bhṛthe hinota*)—तमेनमिंद्रं सोमस्य भृथे सोमं बिभ्रति पात्रे हिनोत वर्धयत (*tamenamiṃdraṃ somasya bhṛthe somaṃ bibhrati pātre hinota vardhayata*) । The Kannada: "To such an Indra, the soma filled completely in the vessel …" *(the sentence runs on to the next page)*.
+
+---
+
+**Progress note:** Done through printed p. 731 (PDF 754). Sūkta 14: Ṛk 3 is complete (no grammar section printed for it). Ṛk 4 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written. The Viśeṣaviṣayagaḷu is open and breaks off mid-sentence on p. 731 after the Kannada "ಅಂತಹ ಇಂದ್ರನಿಗೆ ಪಾತ್ರೆಯಲ್ಲಿ ಪೂರ್ಣವಾಗಿ ತುಂಬಿದ ಸೋಮವನ್ನ" (under "तमिंद्रं सोमस्य भृथे हिनोत"). Header numerals read (Sū. 14; A. 2 A. 6 V. 13), not zoomed. Numeral file agrees for 7-465, 5-232, 692, 14-634 and 633-634; no FILE DISAGREE. The Ṛk 4 part number and page ("part 5 [?], page 135 [?]") are doubtful. Doubtful places: the final vowel signs of "कुरुते/सर्वते/आच्छादयते" and "ऊर्णुते" on p. 729; "ऋनतेः[?]" in the Ṛk 4 bhāṣya; the Pratipadārtha order at the start of p. 729 against the previous note. Accents not reproduced for Ṛk 4.
