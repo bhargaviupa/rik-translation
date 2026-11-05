@@ -30690,6 +30690,96 @@ He indeed, the ancient Indra, making himself by his might sovereign over all wor
 
 (The verse breaks off at the foot of p. 805; it continues on the next page.)
 
+### Printed p. 806
+
+*(Header: "806 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 17".)*
+
+*(Continuation of the Saṃhitā of Ṛk 5 from p. 805.)*
+
+> अधारयत्पृथिवीं विश्वधायसमस्तभ्नान्मायया द्यामनस्रसः ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । प्राचीनान् । पर्वतान् । द्वंहत् । ओजसा । अधराचीनं । अकृणोत् । अपां ।
+> अपः ।
+> आधारयत् । पृथिवीं । विश्वधायसं । अस्तभ्नात् । मायया । द्यां । अवस्रसः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स इंद्रः प्राचीनान् इतस्ततः प्रकर्षणांचतो गच्छतः सपक्षान् पर्वतान्
+> ओजसा बलेन दृंहत् । पक्षछेदं कृत्वा भूम् दृढीचकार । अचलानकरोदित्यर्थः ।
+> अपां मेघस्थितानामुदकानामपः स्यंदनलक्षणं कर्माधराचीनं । अधःप्रदेश-
+> मंचति गच्छतीत्यधराचीनं । तादृशमकृणोत् । मेघभेदनं कृत्वापो भूमाव-
+> पातयदित्यर्थः । किंच विश्वधायसं विश्वस्य धात्रीं पृथिवीं बलेनाधारयत् ।
+> मायया प्रज्ञयोपायेन द्यां द्युलोकमवस्रसः ॥ स्रंसु गतौ । संपदादिलक्ष-
+> णो भावे क्विप् ॥ अवसतनादस्तभ्नात् ॥
+
+> *sa iṃdraḥ prācīnān itastataḥ prakarṣaṇāṃcato gacchataḥ sapakṣān parvatān*
+> *ojasā balena dṛṃhat | pakṣachedaṃ kṛtvā bhūm dṛḍhīcakāra | acalānakarodityarthaḥ |*
+> *apāṃ meghasthitānāmudakānāmapaḥ syaṃdanalakṣaṇaṃ karmādharācīnaṃ | adhaḥpradeśa-*
+> *maṃcati gacchatītyadharācīnaṃ | tādṛśamakṛṇot | meghabhedanaṃ kṛtvāpo bhūmāva-*
+> *pātayadityarthaḥ | kiṃca viśvadhāyasaṃ viśvasya dhātrīṃ pṛthivīṃ balenādhārayat |*
+> *māyayā prajñayopāyena dyāṃ dyulokamavasrasaḥ ‖ sraṃsu gatau | saṃpadādilakṣa-*
+> *ṇo bhāve kvip ‖ avasatanādastabhnāt ‖*
+
+Gist: Indra fixed the mountains, made the cloud-waters fall downward, upheld the earth and held up heaven by his skill.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*) (*saḥ*)—Indra; प्राचीनान् (*prācīnān*) (*prācīnān*)—moving as they pleased; पर्वतान् (*parvatān*) (*parvatān*)—the mountains; ओजसा (*ojasā*) (*ojasā*)—by his strength; द्वंहत् (*dvaṃhat*) (*dvaṃhat*) (as supplied)—made them stay firmly settled on the earth without moving; अपां (*apāṃ*) (*apāṃ*)—of the waters; अपः (*apaḥ*) (*apaḥ*)—the action of flowing; अधराचीनं (*adharācīnaṃ*) (*adharācīnaṃ*)—as turned downward; अकृणोत् (*akṛṇot*) (*akṛṇot*)—made; विश्वधायसं (*viśvadhāyasaṃ*) (*viśvadhāyasaṃ*)—the sustainer of all; पृथिवीं (*pṛthivīṃ*) (*pṛthivīṃ*)—the earth; आधारयत् (*ādhārayat*) (*ādhārayat*)—he himself upheld; मायया (*māyayā*) (*māyayā*)—by his power of intelligence; द्यां (*dyāṃ*) (*dyāṃ*)—the heavenly world; अवस्रसः (*avasrasaḥ*) (*avasrasaḥ*)—from falling down (preventing it); अस्तभ्नात् (*astabhnāt*) (*astabhnāt*)—he checked and made it stand.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra, by his strength, made the mountains that used to move about as they pleased stay firmly settled on the earth without moving. He made the flowing action of the waters turn downward. He himself upheld the earth, the sustainer of all. By his power of intelligence he checked the heavenly world from falling down and made it stand.
+
+### Printed p. 807
+
+*(Header: "[A. 2. A. 6. V. 19.] Ṛgvedasaṃhitā 807".)*
+
+**Printed English translation (Ṛk 5)**
+
+By his strength he fixed the wandering mountains; he directed the downward course of the waters; he upheld the earth the nurse (of all creatures); and by his craft he stayed the heaven from falling.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk four heroic deeds of Indra are described. They will be explained one by one.
+
+सः प्राचीनान् पर्वतान् ओजसा द्यंहत् (*saḥ prācīnān parvatān ojasā dyaṃhat*) (*saḥ prācīnān parvatān ojasā dyaṃhat*) (as printed here; the Saṃhitā and Pada on p. 806 have द्वंहत् (*dvaṃhat*) (*dvaṃhat*))—स इंद्रः प्राचीनान् इतस्ततः प्रकर्षणांचतो गच्छतः सपक्षान् पर्वतान् ओजसा बलेन द्यंहत् । पक्षच्छेदं कृत्वा भूमौ दृढीचकार । अचलानकरोदित्यर्थः । (*sa iṃdraḥ prācīnān itastataḥ prakarṣaṇāṃcato gacchataḥ sapakṣān parvatān ojasā balena dyaṃhat | pakṣacchedaṃ kṛtvā bhūmau dṛḍhīcakāra | acalānakarodityarthaḥ |*) (*sa iṃdraḥ prācīnān itastataḥ prakarṣaṇāṃcato gacchataḥ sapakṣān parvatān ojasā balena dyaṃhat | pakṣacchedaṃ kṛtvā bhūmau dṛḍhīcakāra | acalānakarodityarthaḥ |*) The commentator explains the meaning thus: Indra, by his strength, cut off the wings of the mountains that used to move about here and there with the help of their wings, and made them stay always firmly in one place on the earth without moving. Here a doubt arises. The commentator's explanation follows the legends told in the Purāṇas and the like. The legend in the Purāṇas is that formerly the mountains had wings, and with their help flew about and settled upon villages, destroying them and the people; so Indra cut off the wings of those mountains with his thunderbolt and made the mountains remain in one place without moving. But there is no support for this legend anywhere in the Vedas, and above all in the Ṛgveda. Therefore it does not seem very reasonable to accept the explanation that Sāyaṇa has given of this sentence.
+
+प्राचीनान् (*prācīnān*) (*prācīnān*)—इतस्ततः प्रकर्षेणांचतो गच्छतः । (*itastataḥ prakarṣeṇāṃcato gacchataḥ |*) (*itastataḥ prakarṣeṇāṃcato gacchataḥ |*) "Moving about here and there" is the commentator's explanation. If, as we said above, the cutting off of the mountains' wings is not accepted, the word प्राचीन (*prācīna*) (*prācīna*) may be given the sense "ancient".
+
+अधराचीनं अकृणोत् अपां अपः (*adharācīnaṃ akṛṇot apāṃ apaḥ*) (*adharācīnaṃ akṛṇot apāṃ apaḥ*)—मेघस्थितानामुदकानामपः स्यंदनलक्षणं कर्माधराचीनं । अधःप्रदेशमंचति गच्छतीत्यधराचीनं । तादृशमकरोत् । मेघभेदनं कृत्वा भूमावपातयदित्यर्थः । (*meghasthitānāmudakānāmapaḥ syaṃdanalakṣaṇaṃ karmādharācīnaṃ | adhaḥpradeśamaṃcati gacchatītyadharācīnaṃ | tādṛśamakarot | meghabhedanaṃ kṛtvā bhūmāvapātayadityarthaḥ |*) (*meghasthitānāmudakānāmapaḥ syaṃdanalakṣaṇaṃ karmādharācīnaṃ | adhaḥpradeśamaṃcati gacchatītyadharācīnaṃ | tādṛśamakarot | meghabhedanaṃ kṛtvā bhūmāvapātayadityarthaḥ |*) (the supplied text has अकरोत् (*akarot*) (*akarot*) here, but अकृणोत् (*akṛṇot*) (*akṛṇot*) in the bhāṣya on p. 806; reported, not changed). He made the waters that were in the cloud fall downward; that is, Indra split with his thunderbolt the clouds that held back the water and prevented it from falling as rain, and made water fall and flow from the atmosphere downward on the earth. This is the purport.
+
+**Printed p. 807 ends; the Special Topics continue on p. 808.**
+
+### Printed p. 808
+
+*(Header: "808 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 17]".)*
+
+अधारयत् पृथिवीं विश्वधायसं (*adhārayat pṛthivīṃ viśvadhāyasaṃ*) (*adhārayat pṛthivīṃ viśvadhāyasaṃ*)—किंच विश्वस्य धात्रीं पृथिवीं बलेनाधारयत् । (*kiṃca viśvasya dhātrīṃ pṛthivīṃ balenādhārayat |*) (*kiṃca viśvasya dhātrīṃ pṛthivīṃ balenādhārayat |*) Indra, by his power, upheld the earth, which bears and nourishes all people and creatures; that is, he made it firm.
+
+अस्तभ्नात् मायया द्यां अवस्रसः (*astabhnāt māyayā dyāṃ avasrasaḥ*) (*astabhnāt māyayā dyāṃ avasrasaḥ*)—प्रज्ञयोपायेन द्युलोकमवस्रसः । अवपतनादस्तभ्नात् । (*prajñayopāyena dyulokamavasrasaḥ | avapatanādastabhnāt |*) (*prajñayopāyena dyulokamavasrasaḥ | avapatanādastabhnāt |*) By his power of intelligence or by a device, Indra checked the heavenly world in the atmosphere so that it should not fall below. Whatever object is to be set and kept up anywhere except on the earth, in the atmosphere, must chiefly have some support; just as the roof of a house stands on the support of pillars, a thing in the atmosphere must have a support, and nothing can be made to stand without support. But Indra established the heavenly world very high in the atmosphere and made it stand firm without any support and not fall below. That he has done so makes known Indra's greatness: this is the main purport.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> सास्मा॒ आरं॑ बा॒हुभ्यां॒ यं पि॒ताकृ॑णो॒द्विश्व॑स्मा॒दा ज॒नुषो॒ वेद॑स॒स्परि॑ ।
+> येना॑ पृथि॒व्यां नि क्रिविं॑ श॒यध्यै॒ वज्रे॑ण ह॒त्ववृ॑णक्तुवि॒स्वणिः॑ ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । अस्मै । अरं । बाहुभ्यां। यॆं । पिता । आकृणोत् । विश्वस्मात् । आ । जनुषः ।
+> वेदसः । परि ।
+> येन । पृथिव्यां । नि । क्रिनिं । शयध्यै । वज्रेण । हत्वी । अवृणक् । तुविस्वनिः ॥ ६ ।
+
+**॥ सायणभाष्यम् ॥**
+
+> स तादृश इंद्रोऽस्मै जगतेऽरमलं पर्याप्तो बभूव । रक्षकत्वेन स्वामी
+> बभूवेत्यर्थः । पिता सर्वस्य पालकः पजापतिर्विश्वस्मात्सर्वस्माज्जनुषो जनात् परि
+
+*(The bhāṣya breaks off at the foot of p. 808 and continues on the next page.)*
+
 ---
 
-**Progress note:** Done through printed p. 805 (PDF 805). Sukta 17 Rk 3 Special Topics completed; Rk 4 complete (Samhita first line taken from the supplied Devanagari title fragment, marked [?]); Rk 5 Samhita begun (breaks off at foot of p. 805)
+**Progress note:** Done through printed p. 808 (PDF 808). Sukta 17 Rk 5 completed (Samhita continuation, Pada, bhasya, Special Topics); Rk 6 begun (bhasya breaks off at foot of p. 808)
