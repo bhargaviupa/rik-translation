@@ -25597,4 +25597,118 @@ In this explanation of the Ṛk by Sāyaṇa some defects are seen. For the word
 
 ---
 
-**Progress note:** Done through printed p. 668 (PDF 691); header offset −23 holds. Sūkta 12: Ṛk 8 is complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, and the Viśeṣaviṣayagaḷu on pp. 667–668, the latter ending with Sāyaṇa's explanation criticised and a proposed meaning). The Pada resolves the Saṃhitā's "परेऽवरे" as परे । अवरे. Ṛk 9 is open: Saṃhitā, Pada, bhāṣya and a gist are written; the Pratipadārtha is written up to "यः—" at the foot of p. 668 and continues on p. 669 (the next batch continues this Pratipadārtha, then Bhāvārtha etc.). The numeral file gives 2 and 6 for the p. 667 header (agrees); the varga numeral 8 (p. 667), the sūkta numeral 12 in the p. 666 and p. 668 headers, and the Ṛk numbers 8 and 9 are unzoomed. [?] places: compound mark in आतस्थिवांसा (Pada, Ṛk 8); the closing "नाहमिति" of the bhāṣya on Ṛk 8; "द्वा रथिनौ" printed so. The Saṃhitā of Ṛk 9 has no printed Ṛk number.
+### Printed p. 669 (PDF 692)
+
+*(Header: "A. 2 A. 6 V. 8 ]", "Ṛgvedasaṃhitā", "669". The header has no row in the numeral file; the numerals are read from the strip, unzoomed. Ṛk 9 continues from p. 668.)*
+
+**प्रतिपदार्थ (Pratipadārtha)** *(Ṛk 9, continued)*
+
+यः (*yaḥ*)—who. विश्वस्य (*viśvasya*)—of the whole world. प्रतिमानं (*pratimānaṃ*)—as the representative (*pratinidhi*). बभूव (*babhūva*)—has become (and). यः (*yaḥ*)—who. अच्युतच्युत् (*acyutacyut*)—made unmoved mountains and the like move. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, without whom people cannot win victory, and therefore those engaged in battle call him for protection; he who has become the representative of the whole world, and who made the unmoved mountains and the like move: he said "Indra" *(the printed Kannada ends "ಇಂದನು", a misprint for "ಇಂದ್ರನು" [sic]; the sense is "he is Indra")*.
+
+**English Translation** *(as printed)*
+
+Without whom men do not conquer; whom, when engaged in conflict, they invoke for succour; he, who is the prototype of the universe and the caster down of the unyielding; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 9)*
+
+अच्युतच्युत्—अच्युतानां क्षयरहितानां पर्वतादीनां च्यावयिता (*acyutacyut—acyutānāṃ kṣayarahitānāṃ parvatādīnāṃ cyāvayitā*) (the word is explained as "the shaker of the unshaken, undecaying mountains and the like"; the Kannada continues across the page break): the commentator's explanation is that he has the power to make move the mountains and the like that are imperishable or do not move. What the correct meaning of this word is, is not clear. The ṛṣi's intention is to describe that Indra does work that cannot be done by ordinary people. Therefore, whatever is reckoned to be an object that is never destroyed, even that Indra is able to destroy by his extraordinary power: this is the main intention.
+
+---
+
+#### Ṛk 10
+
+*(Small captions "Saṃhitāpāṭha" and "Padapāṭha" printed. Accent marks of the Saṃhitā and Pada are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यः शश्व॑तो॒ मह्येनो॒ दधा॑ना॒नम॑न्यमाना॒ञ्छर्वा॑ ज॒घान॑ ।
+> यः शर्ध॑ते॒ नानु॒ददा॑ति शृ॒ध्यां यो दस्यो॑र्ह॒न्ता स ज॑नास॒ इन्द्रः॑ ॥ १० ॥
+
+> *yaḥ śaśvato mahyeno dadhānānamanyamānāñcharvā jaghāna |*
+> *yaḥ śardhate nānudadāti śṛdhyāṃ yo dasyorhantā sa janāsa indraḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+*(The Pada begins at the foot of p. 669 and ends on p. 670.)*
+
+> यः । शश्वतः । महि । एनः । दधानान् । अमन्यमानान् । शर्वा । जघान ।
+
+> *yaḥ | śaśvataḥ | mahi | enaḥ | dadhānān | amanyamānān | śarvā | jaghāna |*
+
+---
+
+### Printed p. 670 (PDF 693)
+
+*(Header: "670", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12". The Pada of Ṛk 10 continues.)*
+
+> यः । शर्धते । न । अनुऽददाति । शृध्यां । यः । दस्योः । हन्ता । सः । जनासः । इन्द्रः ॥ १० ॥
+
+> *yaḥ | śardhate | na | anu 'dadāti | śṛdhyāṃ | yaḥ | dasyoḥ | hantā | saḥ | janāsaḥ | indraḥ ‖ 10 ‖*
+
+*(The word-division in अनुऽददाति is printed with an odd small mark that I read as the compound sign (ऽ); [?].)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra struck with the vajra the many sinful, arrogant men who do not know the self or worship him; he gives no help to the arrogant; he is the slayer of the destroying enemy.*
+
+> यो मह्येनो महदेनः पापं दधानान् शश्वतो बहूनमन्यमानान् आत्मानमजानत इन्द्रमपूजयतो वा जनान् शर्वा । शृणाति शत्रूननेनेति शरुर्वज्रः । तेनायुधेन जघान ॥ हन्तेर्लिटि रूपं ॥ यश्च शर्धत उत्साहं कुर्वतेऽनात्मज्ञाय जनाय शृध्यामुत्साहनीयं कर्म नानुददाति । न प्रयुच्छति ॥ अनुपूर्वात् डुदाञ् दाने जौहोत्यादिकः । अभ्यस्तानामादिरिति तिङः चोदात्तावतीति गतेर्निघातः ॥ यश्च दस्योरुपक्षपयितुः शत्रोर्हन्ता घातकः स इन्द्र इत्यादि पूर्ववत् ॥
+
+> *yo mahyeno mahadenaḥ pāpaṃ dadhānān śaśvato bahūnamanyamānān ātmānamajānata indramapūjayato vā janān śarvā | śṛṇāti śatrūnaneneti śarurvajraḥ | tenāyudhena jaghāna ‖ hanterliṭi rūpaṃ ‖ yaśca śardhata utsāhaṃ kurvate 'nātmajñāya janāya śṛdhyāmutsāhanīyaṃ karma nānudadāti | na prayucchati ‖ anupūrvāt ḍudāñ dāne jauhotyādikaḥ | abhyastānāmādiriti tiṅaḥ codāttāvatīti gaternighātaḥ ‖ yaśca dasyorupakṣapayituḥ śatrorhantā ghātakaḥ sa indra ityādi pūrvavat ‖*
+
+*(Doubtful: "प्रयुच्छति" is read letter by letter as printed; "चोदात्तावती" in the grammatical tail is as printed [?]. The tail on अनु-√दा (the *abhyastānām ādiḥ* rule and the *nighāta* of the verb-prefix) is characterised, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. महि (*mahi*)—great. एनः (*enaḥ*)—sin. दधानान् (*dadhānān*)—those who bear. शश्वतः (*śaśvataḥ*)—those who are many in number. अमन्यमानान् (*amanyamānān*)—those full of arrogance; the people (such). शर्वा (*śarvā*)—with the vajra weapon. जघान (*jaghāna*)—killed. यः (*yaḥ*)—who. शर्धते (*śardhate*)—to the one who is not a knower of the self. शृध्यां (*śṛdhyāṃ*)—help that gives enthusiasm. न अनुददाति (*na anudadāti*)—does not give. यः (*yaḥ*)—who. दस्योः (*dasyoḥ*)—of the enemy who causes destruction. हन्ता (*hantā*)—is the destroyer. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who killed with the vajra weapon the people who bear great sin, who are many in number and are full of arrogance; who does not give the help that gives enthusiasm to one who is not a knower of the self; who is the destroyer of the enemy who causes destruction: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, who with the thunderbolt has destroyed many committing great sin, and offering (him) no homage: who grants not success to the confident; who is the slayer of the Dasyu; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 10)*
+
+शश्वतः (*śaśvataḥ*)—Since the word शश्वत् (*śaśvat*) is read among the twelve names for "many" beginning with उरु (*uru*) and तुवि (*tuvi*) (Nirukta 3-13 as printed; the numeral file agrees), शश्वतः (*śaśvataḥ*) means "numerous, many".
+
+---
+
+### Printed p. 671 (PDF 694)
+
+*(Header: "A. 2 A. 6 V. 9 ]", "Ṛgvedasaṃhitā", "671". The varga numeral is read as 9, unzoomed; on p. 669 it was 8, so the varga seems to change between Ṛk 10 and Ṛk 11, though no varga-end note was seen.)*
+
+एनः—एन एतेः (*enaḥ—ena eteḥ*) । *(Nirukta 11-24; the numeral file agrees)* तदस्यैवनोवावश्यमेव्यैति (*tadasyaivanovāvaśyamevyaiti*) *(letter by letter as printed [?])* । This (sin) follows the doer and necessarily comes to him; therefore एनः (*enaḥ*) means sin.
+
+अमन्यमानान्—आत्मानमजानत इन्द्रमपूजयतो वा जनान् (*amanyamānān—ātmānamajānata indramapūjayato vā janān*)—मन्यमानान् (*manyamānān*) means "those who know"; अमन्यमानान् (*amanyamānān*) means "those who do not know": that is, those who do not know their true state, or the true self (the Brahman-substance), or those who without knowing Indra's qualities or without worshipping him: this is the meaning.
+
+शर्वा (*śarvā*)—For the word शरु (*śaru*), formed from the root श्रा हिंसायां (*śrā hiṃsāyāṃ*) *(root letters read as printed; the vowel sign is unclear [?])*, the meaning is "that which harms" or "the vajra and similar weapons, the means of harming".
+
+यः शश्वतः महि एनः दधानान् अमन्यमानान् शर्वा जघान (*yaḥ śaśvataḥ mahi enaḥ dadhānān amanyamānān śarvā jaghāna*)—Indra struck with his vajra many people who have done great sin and who, being without true knowledge, would not worship Indra. That is, the main intention is that Indra destroyed many wicked asuras who, attached only to sinful deeds, performed no sacrifices and did not worship Indra.
+
+यः शर्धते न अनुददाति शृध्यां (*yaḥ śardhate na anudadāti śṛdhyāṃ*)—The word शर्धः (*śardhaḥ*) is read among the names of strength (Nirukta 3-9; the numeral file agrees). Here the commentator has explained this sentence as शर्धते उत्साहं कुर्वतेऽनात्मज्ञाय जनाय शृध्यामुत्साहनीयं कर्म नानुददाति न प्रयुच्छति (*śardhate utsāhaṃ kurvate 'nātmajñāya janāya śṛdhyāmutsāhanīyaṃ karma nānudadāti na prayucchati*) (the Kannada prints the last word thus [?]), that is, Indra does not create enthusiasm in a man who is full of enthusiasm but is not a knower of the self. That is, the main intention is that to one who is proud of his strength Indra gives no help of any kind and no encouragement. It does not seem that the sentence has this meaning rightly; the ṛṣi's intention cannot be known clearly.
+
+यः दस्योः हन्ता (*yaḥ dasyoḥ hantā*)—He who is to destroy the Dasyu people, the enemies of the Āryas. The slaying of the Dasyu is reckoned a special quality of Indra. When Indra is praised it is the custom to describe him as the destroyer of the Dasyus.
+
+---
+
+#### Ṛk 11
+
+*(Small caption "Saṃhitāpāṭha" printed. The Pada of Ṛk 11 follows on p. 672.)*
+
+**॥ संहितापाठः ॥**
+
+> यः शम्ब॑रं॒ पर्व॑तेषु क्षि॒यन्तं॑ चत्वारिं॒श्यां श॒रद्य॒न्ववि॑न्दत् ।
+> ओ॒जा॒यमा॑नं॒ यो अहिं॑ ज॒घान॒ दानुं॒ शया॑नं॒ स ज॑नास॒ इन्द्रः॑ ॥ ११ ॥
+
+> *yaḥ śambaraṃ parvateṣu kṣiyantaṃ catvāriṃśyāṃ śaradyanvavindat |*
+> *ojāyamānaṃ yo ahiṃ jaghāna dānuṃ śayānaṃ sa janāsa indraḥ ‖ 11 ‖*
+
+---
+
+**Progress note:** Done through printed p. 671 (PDF 694); header offset −23 holds. Sūkta 12: Ṛk 9 is complete (Pratipadārtha finished, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu); Ṛk 10 is complete (Saṃhitā, Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu). Ṛk 11 is open: only the Saṃhitā (ending "॥ ११ ॥") is written at the foot of p. 671; the next batch begins on p. 672 with its Pada. Accents are not reproduced in the Saṃhitā/Pada of Ṛks 10–11. The numeral file agrees with the printed 3-13 (p. 670) and 11-24 and 3-9 (p. 671); the headers of pp. 669 and 671 (varga numerals 8 and 9) and the Ṛk numbers 10 and 11 are unzoomed. The varga seems to change from 8 to 9 between pp. 669 and 671 (header only; no varga-end note seen). [?] places: the compound mark in अनुऽददाति (Pada, Ṛk 10); "चोदात्तावती" and "प्रयुच्छति" in the Ṛk 10 bhāṣya; the Nirukta quotation after "एनः—एन एतेः" (p. 671); the root "श्रा हिंसायां" (p. 671).
