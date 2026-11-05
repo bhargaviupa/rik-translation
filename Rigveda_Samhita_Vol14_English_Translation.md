@@ -33542,6 +33542,80 @@ The adorable and powerful(Indra), partaking of the Soma, mixed with barley, effu
 
 *Gist: After the Soma, Indra overcame the asura Krivi and filled heaven and earth; he kept half the Soma and gave half to the gods. (The bhāṣya continues on the next page.)*
 
+### Printed p. 896
+
+*(Header: "896 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 3. Sū. 22]", as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध (*adha*)—after the drinking of Soma. त्रिषीमान् (*triṣīmān*)—Indra, the resplendent. ओजसा (*ojasā*)—by his strength. क्रिविं (*kriviṃ*)—the asura called Krivi. युधा (*yudhā*)—in battle. अभि अभवत् (*abhi abhavat*)—defeated (and). रोदसी (*rodasī*)—heaven and earth. आ अपृणत् (*ā apṛṇat*)—filled with his lustre. अस्य (*asya*)—of the Soma juice drunk. मज्मना (*majmanā*)—by the strength. प्र वावृधे (*pra vāvṛdhe*)—grew in strength. सः (*saḥ*)—Indra (having divided the Soma into two parts). अन्यं (*anyaṃ*)—one part. जठरे (*jaṭhare*)—in his own belly. अधत्त (*adhatta*)—took in. ईं (*īṃ*)—this other part. प्र अरिच्यत (*pra aricyata*)—distributed (to the gods). सत्यः (*satyaḥ*)—that which is of true nature, and. इंदुः (*iṃduḥ*)—flowing, and. देवः (*devaḥ*)—shining, being such. सः (*saḥ*)—the Soma. सत्यं (*satyaṃ*)—who is of true nature, and. देवं (*devaṃ*)—who desires Soma, being such. एनं इंद्रं (*enaṃ iṃdraṃ*)—this Indra. सश्चत् (*saścat*)—joining, may it pervade his body.
+
+**भावार्थ (Bhāvārtha)**
+
+After the drinking of Soma the resplendent Indra, by his strength, defeated in battle the asura called Krivi, and filled heaven and earth with his lustre. He grew in strength by the strength of the Soma juice drunk. Indra divided the Soma into two parts and took one part into his own belly; the other part he distributed to the gods. May the Soma, which is of true nature, flowing and shining, join Indra, who is of true nature and desires Soma, and pervade his body.
+
+**Printed English translation**
+
+Thereupon, resplendent, he has overcome Krivi in conflict by his prowess: he has filled heaven and earth(with his lustre), and has been invigorated by the efficacy of the draught: one portion he has taken to himself: the other he has distributed(to the gods): May that divine(Soma) pervade the divine(Indra), the true Soma, the true(Indra).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अध त्वषीमान् ओजसा क्रिविं युधा अभि अभवत् (*adha tvaṣīmān ojasā kriviṃ yudhā abhi abhavat*)—सोमपानानंतरं दीप्तिमानिंद्रः बलेन क्रिविनामानमसुरं युद्धेनाभिभूतवान् (*somapānānaṃtaraṃ dīptimāniṃdraḥ balena krivināmānamasuraṃ yuddhenābhibhūtavān*): as said in the previous Ṛk, after the drinking of Soma Indra, strengthened by the joy born of drinking Soma, defeated the asura called Krivi in battle. We have already spoken of the asura Krivi.
+
+### Printed p. 897
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 28] Ṛgveda Saṃhitā 897", as supplied.)*
+
+(The Special Topics of Ṛk 2 continue.)
+
+आ रोदसी अप्पणत् अस्य मज्मना (*ā rodasī appaṇat asya majmanā*) (as supplied; the Saṃhitā has अपृणत् (*apṛṇat*))—सॆ इंद्रो स्वतेजसा द्यावापृथिवी समंतात्तूरयामास (*sè iṃdro svatejasā dyāvāpṛthivī samaṃtāttūrayāmāsa*) (the supplied text has सॆ (*sè*), इंद्रो (*iṃdro*)). तथा पीतस्य सोमस्य बलेन प्रकर्षण वर्धते (*tathā pītasya somasya balena prakarṣaṇa vardhate*). That Indra filled heaven and earth with his lustre or with his power and capacity; that is, the surpassing powers of Indra pervaded the earth and the atmosphere, this is the meaning. And by the strength born of the drinking of Soma Indra's power grew greatly. अथवा अस्य क्रिवेरसुरस्य मज्मना सारेण रोदसी अपूरयत् (*athavā asya kriverasurasya majmanā sāreṇa rodasī apūrayat*): having slain this asura Krivi, he filled the whole earth with the essence of his body. On this matter there is a story in the Purāṇas and elsewhere. In the beginning the whole universe was covered with water and there was no earth. Then, when Viṣṇu slew the demons called Madhu and Kaiṭabha, the fat (medas) of their bodies became the present earth. For this reason the earth is called Medinī; thus the story is told. The statement that Indra slew the asura Krivi and filled the earth with his essence may be the basis for this story.
+
+सः अन्यं जठरे अधत्त ईं प्र अरिच्यत (*saḥ anyaṃ jaṭhare adhatta īṃ pra aricyata*)—स इंद्रः सोमं द्वेधा विभज्यान्यं भागं स्वकीये जठरेऽधत्त । अपरं भागं देवेभ्यः प्रारिच्यत प्रारेचयत् । एतेनार्धमिंद्राय अर्धमन्येभ्यो देवेभ्य इत्युक्तं भवति (*sa iṃdraḥ somaṃ dvedhā vibhajyānyaṃ bhāgaṃ svakīye jaṭhare 'dhatta | aparaṃ bhāgaṃ devebhyaḥ prāricyata prārecayat | etenārdhamiṃdrāya ardhamanyebhyo devebhya ityuktaṃ bhavati*). Indra divided into two parts the Soma juice prepared for drinking, held one part in his own belly, that is, drank it, and distributed the remaining half among the gods. On this matter the commentator quotes the Taittirīya Saṃhitā sentence—
+
+यत्सर्वेषामर्धमिंद्रः प्रति तस्मादिंद्रो देवतानां भूयिष्ठभाक्तमः (*yatsarveṣāmardhamiṃdraḥ prati tasmādiṃdro devatānāṃ bhūyiṣṭhabhāktamaḥ*) (Tai. Saṃ. 5-4-8-3)
+
+in support of the statement. The meaning of the last pāda has already been explained.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> सा॒कं जा॒तः क्रतु॑ना सा॒कमोज॑सा वनक्षिथ सा॒कं वृ॒द्धो वी॒र्यैः॑ सास॒हिर्मृधो॒ विच॑र्षणिः ।
+> दात्ता॒ राधः॑ स्तुव॒ते काम्यं॒ वसु॒ सैनं॑ सश्चद्दे॒वो दे॒वं स॒त्यमिन्दं॑ स॒त्य इन्दुः॑ ॥ ३ ॥
+
+*(The supplied text has "[57] Vol. 14." at the foot of the page, a printer's signature.)*
+
+### Printed p. 898
+
+*(Header: "898 Sāyaṇabhāṣyasahitā [Maṃ. 2. Ā. 2 Sū. 22]", as supplied.)*
+
+**॥ पदपाठः ॥**
+
+> साकं । जातः । क्रतुना । साकं । ओजसा । ववक्षिथ । साकं । वृद्धः । वीर्यैः । ससहिः ।
+> मृधः । विचर्षणिः ॥
+> दाता । राधः । स्तुवते । काम्यं । वसु । सः । एनं । सश्चत् । देवः । देवं । सत्यं ।
+> इन्द्रं । सत्यः । इन्पुः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> क्रतुना कर्मणा प्रज्ञया वा साकं सह जातः साकमोजसा बलेन सह वव-
+> क्षिथ । विश्वं वोढुमिच्छसि ॥ वहेः सनंतस्य लिटि मंत्रत्वादाम्न भवति ॥ किंच त्वं
+> वीर्यैः शत्रुहननादिलक्षणैः पराक्रमैः साकं सह वृद्धः प्रवृद्दो मृधो हिंसकान्
+> संग्रामान्वा सासहिः ॥ न लोकाव्ययेति षष्ठिप्रतिषेधः ॥ तेषामभिभविता । विचर्षणिः
+> पुण्यकृतोऽपुण्यकृतश्च विशेषेण द्रष्टा स्तुवते स्तोत्रं कुर्वाणाय यजमानाय
+> राधः साधकं काम्यं प्रार्थनीयं वसु धनं दाता सन् ववक्षिथेति समन्वयः । सैन-
+> मिति परोक्षनिर्देशः सिद्धार्थश्च ॥
+
+*Gist: Indra, born with wisdom and strength, grown with heroic deeds, a vanquisher of enemies and a discerner, desires to bear the burden of the world and to give desirable wealth to the praiser.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+क्रतुना साकं (*kratunā sākaṃ*)—together with excellent action, or with wisdom. ओजसा साकं (*ojasā sākaṃ*)—together with strength. जातः (*jātaḥ*)—born, and. वीर्यैः साकं (*vīryaiḥ sākaṃ*)—joined with heroic deeds such as the slaying of enemies. वृद्धः (*vṛddhaḥ*)—grown strong. मृधः (*mṛdhaḥ*)—the violent asuras. सासहिः (*sāsahiḥ*)—one who confronts and defeats, and. विचर्षणिः (*vicarṣaṇiḥ*)—one who looks on, distinguishing (the good from the wicked), and, being such, thou. स्तुवते (*stuvate*)—to the sacrificer who praises. राधः (*rādhaḥ*)—effective, and. काम्यं (*kāmyaṃ*)—desirable, being such. वसु (*vasu*)—wealth. दाता (*dātā*)—as the giver. ववक्षिथ (*vavakṣitha*)—wished to bear (the burden of the world). सत्यः (*satyaḥ*)—that which is of true nature, and. इंदुः (*iṃduḥ*)—flowing, and. देवः (*devaḥ*)—shining, being such. सः (*saḥ*)—the Soma. सत्यं (*satyaṃ*)—who is of true nature, and. देवं (*devaṃ*)—who desires Soma, being such. एनं इंद्रं (*enaṃ iṃdraṃ*)—that Indra. सश्चत् (*saścat*)—joining, may it pervade his body.
+
+**भावार्थ (Bhāvārtha)**
+
+Thou who art born with excellent wisdom and strength, who, joined with heroic deeds such as the slaying of enemies, art grown strong, who confronts and defeats the violent asuras, who looks on, distinguishing the good from the wicked, to the sacrificer who praises, effective ... (the Bhāvārtha breaks off here, in mid-word, at the end of the page window: कार्यसाधकवा (*kāryasādhakavā*))
+
 ---
 
-**Progress note:** Done through printed p. 895 (PDF 895). Sukta 22 Rk 1 printed English and Special Topics done; Rk 2 Samhita, Pada and first part of bhasya done (bhasya continues next page)
+**Progress note:** Done through printed p. 898 (PDF 898). Sukta 22 Rk 2 Pratipadartha-Special Topics done; Rk 3 Samhita, Pada, bhasya, Pratipadartha done, Bhavartha begun (breaks off at page end)
