@@ -12967,6 +12967,92 @@ In this Ṛk the sage prays to Soma and Pūṣan: send towards us the chariot th
 
 *Stray line kept from the supplied text (a lone number at the end of the window, not part of the sense):* 26
 
+### Printed p. 402
+
+taken as a season, there are seven seasons in all. On the matter of there being thirteen months in a year, the commentator has also cited the Śruti text अस्ति त्रयोदशो मास इत्याहुः (*asti trayodaśo māsa ityāhuḥ*) (Tai. Saṃ. 6-5-3-4). These seasons proceed one after another in a cyclic order. When all seven seasons have come once and ended, the first season comes again. Therefore these seven seasons are compared to the seven wheels of a chariot that is always revolving. For the word अविश्वमिन्वं (*aviśvaminvaṃ*) the meaning is विश्वस्यापरिच्छेद्यं (*viśvasyāparicchedyaṃ*), that is, not distinct from the universe. The sense is: since everything, that is, all places and times, is contained in the universe, there is no thing distinct from (different from) the universe; following this doctrine the chariot called time is described here as non-different from the universe [the print reads विश्वदिंब (*viśvadiṃba*) for "from the universe", apparently a misprint]. And for the word विषूवृतं (*viṣūvṛtaṃ*) — विश्वक् सर्वत्र परिवर्तमानं (*viśvak sarvatra parivartamānaṃ*) — following the same doctrine, it is described here that, because time pervades everything and there is nothing outside time and place, the chariot called time is pervading everywhere.
+
+पंचरश्मिं (*paṃcaraśmiṃ*)—पंचर्तुरश्मिं । हेमंतशिशिरयोः समासेन ऋतवः पंच । (*paṃcarturaśmiṃ | hemaṃtaśiśirayoḥ samāsena ṛtavaḥ paṃca |*) Although there are six seasons in the year, one season to every two months, it is the custom to take the last two seasons, that is, Hemanta and Śiśira, as one season and to speak of them by the single word हेमंतशिशिरौ (*hemaṃtaśiśirau*); therefore it is also the custom to speak of five seasons. This matter is stated in the Aitareya Brāhmaṇa sentence द्वादशमासाः पंचर्तवो हेमंतशिशिरयोः समासेन (*dvādaśamāsāḥ paṃcartavo hemaṃtaśiśirayoḥ samāsena*) (Ai. Brā. 1-1), and the commentator has cited this Śruti proof. These five seasons are the five rays (ropes), that is, the five reins (bridles) of the horses, as explained here.
+
+मनसा युज्यमानं तं रथं जिन्वथः (*manasā yujyamānaṃ taṃ rathaṃ jinvathaḥ*)—मनोमात्रेण युज्यमानं प्रसिद्धं रथं प्रेरयथः । (*manomātreṇa yujyamānaṃ prasiddhaṃ rathaṃ prerayathaḥ |*) For yoking this chariot the help of hands and other limbs is not needed; by the mere resolve of the mind the chariot is yoked and made ready. The sage prays to Soma and Pūṣan: "Impel towards us such a chariot."
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> दि॒व्य१॒ं॑न्यः सद॑नं च॒क्र उ॒च्चा पृ॑थि॒व्याम॒न्यो अध्यं॒तरि॑क्षे ।
+> ताव॒स्मभ्यं॑ पुरु॒वारं॑ पुरु॒क्षुं रा॒यस्पोषं॒ वि ष्य॑तां॒ नाभि॑म॒स्मे॥
+
+> *divyaṃnyaḥ sadanaṃ cakra uccā pṛthivyāmanyo adhyaṃtarikṣe |*
+> *tāvasmabhyaṃ puruvāraṃ purukṣuṃ rāyaspoṣaṃ vi ṣyatāṃ nābhimasme‖*
+
+### Printed p. 403
+
+**॥ पदपाठः ॥**
+
+> दिवि । अन्यः । सदनं । चक्रे । उच्चा । पृथिव्यां । अन्यः । अधि । अंतरिक्षे ।
+> ता । अस्मभ्यं । पुरुऽवारं । पुरुऽक्षुं । रायः । पोषं । वि । स्यतां । नाभिं । अस्मे-इति ॥ ४ ॥
+
+> *divi | anyaḥ | sadanaṃ | cakre | uccā | pṛthivyāṃ | anyaḥ | adhi | aṃtarikṣe |*
+> *tā | asmabhyaṃ | puru 'vāraṃ | puru 'kṣuṃ | rāyaḥ | poṣaṃ | vi | syatāṃ | nābhiṃ | asme-iti ‖ 4 ‖*
+
+(The Saṃhitā reads वि ष्यतां (*vi ṣyatāṃ*) where the Pada reads वि । स्यतां (*vi | syatāṃ*), as printed.)
+
+**॥ सायणभाष्यम् ॥**
+
+> अन्यस्तयोरेकः पूषोच्चा उच्चैरुच्छ्रिते दिवि द्युलोके सदनं स्थानं
+> चक्रे । चकार । अन्नोऽपरः सोमः पृथिव्यामोषधिरूपेण अध्यंतरिक्षेऽंतरिक्षे च
+> चंद्ररूपेण सदनं चक्रे। तौ सोमापूषणौ युवां पुरुवारं बहुभिर्वर्णीयं
+> पुरुक्षुं बहुकीर्तिं रायस्पोषं धनस्य पुष्टिं । पश्वात्मकं धनमित्यर्थः । तथा च
+> ब्राह्मणं पशवो वै रायस्पोष इति । अस्मे अस्माकं नाभिं विश्वस्य भोगस्य हेतुभूतमस्मभ्यं भविष्यतां । विमुंचतां । प्रयच्छतामित्यर्थः ॥
+
+> *anyastayorekaḥ pūṣoccā uccairucchrite divi dyuloke sadanaṃ sthānaṃ*
+> *cakre | cakāra | anno 'paraḥ somaḥ pṛthivyāmoṣadhirūpeṇa adhyaṃtarikṣe 'ṃtarikṣe ca*
+> *caṃdrarūpeṇa sadanaṃ cakre| tau somāpūṣaṇau yuvāṃ puruvāraṃ bahubhirvarṇīyaṃ*
+> *purukṣuṃ bahukīrtiṃ rāyaspoṣaṃ dhanasya puṣṭiṃ | paśvātmakaṃ dhanamityarthaḥ | tathā ca*
+> *brāhmaṇaṃ paśavo vai rāyaspoṣa iti | asme asmākaṃ nābhiṃ viśvasya bhogasya hetubhūtamasmabhyaṃ bhaviṣyatāṃ | vimuṃcatāṃ | prayacchatāmityarthaḥ ‖*
+
+*Gist:* Of the two, Pūṣan has made his seat in high heaven; Soma, as the plant on earth and as the moon in the sky; may they give us wealth of cattle, the source of all enjoyment. (The print reads अन्नोऽपरः (*anno 'paraḥ*) in the bhāṣya; kept as supplied.)
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ಅನ್ಯಃ—(of Soma and Pūṣan) the one, the deity Pūṣan. ಉಚ್ಚಾ—very lofty. ದಿವಿ—in the heavenly world. ಸದನಂ—abode. ಚಕ್ರೇ—has made. ಅನ್ಯಃ—the other, Soma. ಪೃಥಿವ್ಯಾಂ—on the earth (in the form of the plant). ಅಧ್ಯಂತರಿಕ್ಷೇ—and in the atmosphere (in the form of the moon) has made an abode. ತೌ—those two, Soma and Pūṣan. ಅಸ್ಮೇ—our. ನಾಭಿಂ—that which is the cause (of all enjoyments). ಪುರುವಾರಂ—desired by many. ಪುರುಕ್ಷುಂ—possessing much fame. ರಾಯಸ್ಪೋಷಂ—the increase of wealth, which consists of cattle. ಅಸ್ಮಭ್ಯಂ—to us. ವಿ ಷ್ಯತಾಂ—may they provide.
+
+**भावार्थ (Bhāvārtha)**
+
+Of Soma and Pūṣan, the one, the deity Pūṣan, has made his abode in the very lofty heavenly world. The other, Soma, has made his abode on the earth in the form of the plant and in the atmosphere in the form of the moon. May those two, Soma and Pūṣan, provide us with the increase of wealth, which consists of cattle, which is the cause of all our enjoyments, desired by many and possessing much fame.
+
+**Printed English translation**
+
+One of them, (Pushan) has made his dwelling above in heaven ; the other, (soma), upon earth, and in the firmament : may they both grant
+
+### Printed p. 404
+
+us much-desired and much-commended abundant wealth of cattle, the source to us (of enjoyments.)
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पुरुवारं (*puruvāraṃ*)— बहुभिर्वर्णीयं । (*bahubhirvarṇīyaṃ |*) Desired by many; needed by everyone.
+
+पुरुक्षुं (*purukṣuṃ*)—बहुकीर्तिं (*bahukīrtiṃ*)—much fame. Since the word क्षु (*kṣu*) is read among the names of food (Ni. 3-9), the meaning "much food" can also be given.
+
+धनस्य पुष्टिं । पश्वात्मकं धनमित्यर्थः । (*dhanasya puṣṭiṃ | paśvātmakaṃ dhanamityarthaḥ |*) (on रायस्पोषं (*rāyaspoṣaṃ*)): the increase of wealth, that is, abundance of wealth. Indicating that it may also be said to mean wealth in cattle, wealth in the form of cattle, the commentator cites in support the Śruti sentence पशवो वै रायस्पोषः (*paśavo vai rāyaspoṣaḥ*) (Tai. Saṃ. 5-4-6-2). Since in the present Ṛk रायः पोषः (*rāyaḥ poṣaḥ*) are two separate words, the two words may be explained separately: रायः (*rāyaḥ*)—wealth, पोषः (*poṣaḥ*)—increase.
+
+दिव्यः अन्यः उच्चा सदनं चक्रे (*divyaḥ anyaḥ uccā sadanaṃ cakre*)—तयोरेकः पूषा उच्छ्रिते द्युलोके स्थानं चकार । (*tayorekaḥ pūṣā ucchrite dyuloke sthānaṃ cakāra |*) Of the two called Soma and Pūṣan, Pūṣan has set up his place of residence in the heavenly world, the very lofty region.
+
+अन्यः पृथिव्यां अधि अंतरिक्षे (*anyaḥ pṛthivyāṃ adhi aṃtarikṣe*)—अपरः सोमः पृथिव्यां ओषधिरूपेण अंतरिक्षे च चंद्ररूपेण सदनं चक्रे । (*aparaḥ somaḥ pṛthivyāṃ oṣadhirūpeṇa aṃtarikṣe ca caṃdrarūpeṇa sadanaṃ cakre |*) The other, the deity Soma, has set up his place of residence on the earth and in the atmosphere; the sense is that he is on the earth in the form of the plant, that is, of the soma creeper, and in the atmosphere in the form of the moon.
+
+Here a point calls for consideration. That the deity Soma dwells in the atmosphere in the form of the moon gives room for difference of opinion. The word *soma* is nowhere in the Ṛgveda used in the sense of the moon. The word is used only in the senses of the soma creeper, the soma juice, or the deity who is the presiding spirit of the soma creeper. In the Yajurveda and in the Purāṇas and similar works it is customary to give the word *soma*, besides the meaning of soma juice, the meaning of the moon, and of Īśvara or Rudra (उमया सहितः सोमः (*umayā sahitaḥ somaḥ*)). For the Śruti sentence सोम ओषधीनामधिपतिः (*soma oṣadhīnāmadhipatiḥ*) it is proper to explain that the soma creeper is the lord or king of the plants and trees. In the Purāṇas and similar works the meaning that the moon is the lord of them is explained. In the Yajurveda:
+
+> सोमाभूयो भरेत्याहापरिमितानेव पशूवनरुंधे चंद्रमसि मम
+> भोगाय भवेत्याह ।
+
+> *somābhūyo bharetyāhāparimitāneva paśūvanaruṃdhe caṃdramasi mama*
+> *bhogāya bhavetyāha |*
+
+(Kṛ. Saṃ. 6-1-4-8)
+
+*Note on the kn.md edits: the Yajurveda quotation at the end of p. 404 was moved into a `>` block with its reference on its own line; the hyphen line-breaks inside the Pada and bhāṣya blocks were joined (the Pada's अस्मे-इति (*asme-iti*) keeps the printed hyphen). The print's page 404 text breaks off here at the quotation; the translation of the sentence follows on the next page.*
+
 ---
 
-**Progress note:** Done through printed p. 401 (PDF 401). Sukta 40 Rik 2 Special Topics finished (p. 399); Rik 3 complete through Bhavartha and printed English; its Special Topics begins and breaks off mid-sentence at end of p. 401. Flags: hand-fixes to kn.md (quotes into blocks, hyphen joins, refs on own lines), lone '26' kept as note, Pratipadartha print jinvadhah as printed
+**Progress note:** Done through printed p. 404 (PDF 404). Sukta 40 Rik 3 Special Topics finished (p. 402); Rik 4 complete through printed English (p. 403-404); Special Topics of Rik 4 runs to a Yajurveda quotation at end of p. 404, sentence continues next page. Flags: Pada visyatam vs Samhita vishyatam as printed, bhashya anno'parah as supplied, vishvadimba in p. 402 prose likely misprint, 1 accent DIFF in Rik 4 Samhita, hand-fix of Yajurveda quote into block
