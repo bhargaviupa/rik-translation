@@ -26809,4 +26809,136 @@ You alone are lord of the whole universe. There is no other equal to you. The gr
 
 ---
 
-**Progress note:** Done through printed p. 701 (PDF 724). Sūkta 13: the Ṛk 5 Viśeṣaviṣayagaḷu is completed (p. 699), Ṛk 6 is complete (Saṃhitā to Viśeṣaviṣayagaḷu, pp. 699–701), and Ṛk 7 is OPEN: Saṃhitā, Pada and bhāṣya are written, and the Pratipadārtha is written up to "दाने अधि—क्षेत्रदल्लि" and breaks off at the end of p. 701. Bhāvārtha, printed English and Viśeṣaviṣayagaḷu are to follow from p. 702. No grammar pages. No FILE DISAGREE: the reference "Ni. 3-13" agrees with the strip. Unzoomed numerals: headers of pp. 699–701 (Varga 11 on pp. 699 and 701), Ṛk numbers 6 and 7 (the Ṛk 7 number was read only in the Pada). [?] places: Ṛk 6 glyph order in "आर्द्रात्"; "निदधिषे" (प/द); Ṛk 7 first letters of "पुष्पिणीः" and "प्रस्वः"; the sign above "ऊर्वा" in the Saṃhitā; the bhāṣya words "वावनीरवित्रीरोषधीर्दानेऽधि" and "जनेर्लजं". Accent marks not reproduced.
+### Printed p. 702 (PDF 725)
+
+*(Header, read from the strip and not zoomed: "Maṃ. 2 A. 2 Sū. 13". A blemish hides part of the sūkta numeral, which is read as 13 to agree with the sūkta in progress. The Pratipadārtha of Ṛk 7 continues from p. 701, resuming after "दाने अधि—in the field".)*
+
+धर्मणा (*dharmaṇā*)—by the action endowed with all characteristics. वि अधारयः (*vi adhārayaḥ*)—have you established? च (*ca*)—and. यः (*yaḥ*)—you who. दिवः (*divaḥ*)—of the luminous sun. असमाः (*asamāḥ*)—of various kinds. दिद्युतः (*didyutaḥ*)—the radiances. अजनः (*ajanaḥ*)—have you created (and). उरुः (*uruḥ*)—being of great bulk of body. अभितः (*abhitaḥ*)—all round. ऊर्वान् (*ūrvān*)—the great hosts of creatures. (अजनः (*ajanaḥ*) is to be taken again here:) have you created. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—you are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who have established, by the action endowed with all characteristics, in the field the herbs (oṣadhis) that are flowering and fruit-giving; and you who have created the various radiances of the luminous sun (and likewise the stars), and, being of great bulk of body, have created great hosts of creatures all round: such a one as you are praiseworthy.
+
+**English Translation** *(as printed)*
+
+You have caused, by culture, the flowering and fruitful (plants) to spread over the field; you have generated the varions [sic] luminaries of heaven; and who, of vast bulk, comprehend vast (bodies); yon [sic] are he who is to be praised. *(A stray mark is printed after "vast".)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> यः पुष्पिणीः च प्रस्वः च धर्मणा अधि दाने वि अवनीः अधारयः
+
+> *yaḥ puṣpiṇīḥ ca prasvaḥ ca dharmaṇā adhi dāne vi avanīḥ adhārayaḥ*
+
+Sāyaṇa's explanation, quoted here:
+
+> पुष्पवतीश्च प्रसूयमाना अवनीरवित्रीरोषधीर्दाने क्षेत्रे सकललक्षणेन कर्मणा न्यदधाः ।
+
+> *puṣpavatīśca prasūyamānā avanīravitrīroṣadhīrdāne kṣetre sakalalakṣaṇena karmaṇā nyadadhāḥ |*
+
+In this sentence the commentator has explained the word दान (*dāna*) as "field" (land, ploughed ground), अवनीः (*avanīḥ*) as "herbs" (rice and other crops), and the word धर्मणा (*dharmaṇā*) as "by action endowed with all characteristics". If these meanings are accepted, the sentence says: O Indra, you (printed "सीनु" [sic], for "नीनु", "you") have established natural laws of the world, so that the crops and the like that grow in fields, paddy fields and so on, in what seasons and in what manner they must grow and increase: first they put forth flowers, and afterwards become fruitful. That is, subject to your ordinance, crops and the like, and trees, creepers and the like, never fail to carry out, at their proper seasons, such functions as flowering and fruiting. This is the main intention.
+
+*(Note: this clearer later printing of the bhāṣya gives "अवनीरवित्रीरोषधीर्दाने क्षेत्रे". It suggests that the earlier reading "वावनीः…" in the Ṛk 7 bhāṣya, flagged [?] there, is really "अवनीः". The earlier text is not edited.)*
+
+> यः च असमाः अजनः दिद्युतः दिवः उरुः ऊर्वान् अभितः
+
+> *yaḥ ca asamāḥ ajanaḥ didyutaḥ divaḥ uruḥ ūrvān abhitaḥ*
+
+In this sentence too some words have to be supplied by inference (ūha) to state the meaning. The sun's various kinds of radiances, that is, the differences of light seen in the morning, at midday and in the evening, *(continues on p. 703)*
+
+---
+
+### Printed p. 703 (PDF 726)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "703". The Viśeṣaviṣayagaḷu of Ṛk 7 resumes in mid-sentence.)*
+
+…and the great trees, creatures, mountains, rivers and the like that are seen everywhere, you have created: thus Indra is addressed and described.
+
+---
+
+#### Ṛk 8
+
+*(Reading notes: the Ṛk number is printed "॥ ೮ ॥" at the end of both Saṃhitā and Pada, read from the glyph, unzoomed. The Saṃhitā ends "पुरुकृत्सास्युक्थ्यः", read together with the Pada, which has पुरुऽकृत् । सः । असि. In the Pada the sign after "अपरि" is read as the compound mark (ऽ) [?]. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यो ना॑र्म॒रं स॒हव॑सुं॒ निह॑न्तवे पृ॒क्षाय॑ च दा॒सवे॑शाय॒ चाव॑हः ।
+> ऊ॒र्जय॑न्त्या॒ अप॑रिविष्टमा॒स्य॑मु॒तैवाद्य पु॑रुकृ॒त्सास्यु॒क्थ्यः॑ ॥ ८ ॥
+
+> *yo nārmaraṃ sahavasuṃ nihantave pṛkṣāya ca dāsaveśāya cāvahaḥ |*
+> *ūrjayantyā apariviṣṭamāsyamutaivādya purukṛtsāsyukthyaḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । नार्मरं । सहऽवसुं । निऽहन्तवे । पृक्षाय । च । दासऽवेशाय । च । अवहः ।
+> ऊर्जयन्त्याः । अपरिऽविष्टं । आस्यं । उत । एव । अद्य । पुरुऽकृत् । सः । असि ।
+> उक्थ्यः ॥ ८ ॥
+
+> *yaḥ | nārmaraṃ | saha 'vasuṃ | ni 'hantave | pṛkṣāya | ca | dāsa 'veśāya | ca | avahaḥ |*
+> *ūrjayantyāḥ | apari 'viṣṭaṃ | āsyaṃ | uta | eva | adya | puru 'kṛt | saḥ | asi |*
+> *ukthyaḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, to slay the asura Sahavasu, son of Nṛmara, for food and for destroying dasyus, you today bore forward a faultless face (the vajra's edge), or turned a hostile spirit's mouth.*
+
+> पुरुकृत् पुरूणां कर्मणां कर्ता हे इन्द्र यस्त्वं नार्मरं । नृन् मनुष्यान् मारयतीति नृमरः कश्चिदसुरः । तस्यापत्यं नार्मरः । तं सहवसुं । वसुना सह वर्तत इति सहवसुः । असुरनामैतत् । एतन्नामकमसुरं निहन्तवे ॥ हन्तेस्तुमर्थे तवेन्प्रत्ययः । तादौ च निति गतेः प्रकृतिस्वरत्वं ॥ निहन्तुं ऊर्जयन्त्या बलवत्या वज्रधारया अपरिविष्टं मलादिभिरव्याप्तमास्यमद्यैवावहः । तमसुरं प्रापयः । यद्वा ऊर्जयन्त्याः पिशाचिकाया आस्यं प्रापयः । किमर्थं । पृक्षाय । तव हविर्लक्षणान्नलाभाय । दासवेशाय दासानां दस्यूनां वेशाय विनाशाय च । यद्वा अस्माकमन्नलाभाय दस्युविनाशाय च ॥
+
+> *purukṛt purūṇāṃ karmaṇāṃ kartā he indra yastvaṃ nārmaraṃ | nṛn manuṣyān mārayatīti nṛmaraḥ kaścidasuraḥ | tasyāpatyaṃ nārmaraḥ | taṃ sahavasuṃ | vasunā saha vartata iti sahavasuḥ | asuranāmaitat | etannāmakamasuraṃ nihantave ‖ hantestumarthe tavenpratyayaḥ | tādau ca niti gateḥ prakṛtisvaratvaṃ ‖ nihantuṃ ūrjayantyā balavatyā vajradhārayā apariviṣṭaṃ malādibhiravyāptamāsyamadyaivāvahaḥ | tamasuraṃ prāpayaḥ | yadvā ūrjayantyāḥ piśācikāyā āsyaṃ prāpayaḥ | kimarthaṃ | pṛkṣāya | tava havirlakṣaṇānnalābhāya | dāsaveśāya dāsānāṃ dasyūnāṃ veśāya vināśāya ca | yadvā asmākamannalābhāya dasyuvināśāya ca ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पुरुकृत् (*purukṛt*)—O Indra, who have performed extraordinary and manifold deeds. यः (*yaḥ*)—you who. पृक्षाय (*pṛkṣāya*)—for the gaining of food in the form of the oblation. दासवेशाय च (*dāsaveśāya ca*)—and also for the destruction of the dasyus. नार्मरं (*nārmaraṃ*)—the son of Nṛmara. सहवसुं (*sahavasuṃ*)—the son of the asura, he who bears the name Sahavasu, and *(continues on p. 704)*
+
+---
+
+### Printed p. 704 (PDF 727)
+
+*(Header, read from the strip and not zoomed: "704", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13".)*
+
+(the asura's son सहवसुं (*sahavasuṃ*) having been named—continuing the sentence of p. 703:) निहन्तवे (*nihantave*)—in order to slay. ऊर्जयन्त्याः (*ūrjayantyāḥ*)—of the mighty one, being in the form of the edge of the vajra. अपरिविष्टं (*apariviṣṭaṃ*)—free of dirt (impurity). आस्यं (*āsyaṃ*)—the mouth (the face). अद्य एव (*adya eva*)—at once. अवहः (*avahaḥ*)—have you borne. सः (*saḥ*)—such a one as you. उक्थ्यः (*ukthyaḥ*)—worthy of hymns. असि (*asi*)—you are.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, who have done extraordinary and manifold deeds: you who, for the gaining of food and for the destruction of the dasyus, in order to slay Sahavasu, the son of Nṛmara, have at once borne the mouth that is in the form of the edge of the vajra, mighty and free of dirt: such a one as you are worthy of hymns.
+
+**English Translation** *(as printed)*
+
+You, who are (famed for) many exploits, put on to-day an unclouded countenance, (as prepared) to slay Sahavasu, the son of Nrimara, with the sharpened (edge of the thunderbolt), in defence of the (sacrificial) food, and for the destruction of the Dasyus; you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नार्मरं (*nārmaraṃ*)—
+
+> नॄन् मनुष्यान् मारयतीति नृमरः कश्चिदसुरः
+
+> *nṝn manuṣyān mārayatīti nṛmaraḥ kaścidasuraḥ*
+
+The name of an asura. Because he kills human beings, it is the custom to call him by the name नृमर (*nṛmara*). The son of this Nṛmara is called नार्मर (*nārmara*). This word occurs in the Ṛgveda only in the Ṛk in hand. Since it is nowhere else, nothing more can be said about him. The scholar Ludwig takes the word ऊर्जयन्ती (*ūrjayantī*) in this Ṛk to mean a strong fort, and understands Nārmara as the king who is the lord of that fort or stronghold. But there is no adequate support for this opinion.
+
+सहवसुं (*sahavasuṃ*)—The son of the asura named Nṛmara. Not much is known of him either. The commentator has given the parts of the word and the sense:
+
+> वसुना सह वर्तते इति सहवसुः
+
+> *vasunā saha vartate iti sahavasuḥ*
+
+that is, the asura Sahavasu, who has much wealth.
+
+दासवेशाय (*dāsaveśāya*)—
+
+> दासानां दस्यूनां वेशाय विनाशाय
+
+> *dāsānāṃ dasyūnāṃ veśāya vināśāya*
+
+For the destruction of the wicked dasyu people.
+
+पृक्षाय (*pṛkṣāya*)—The word पृक्ष (*pṛkṣa*) is read among the names of food (Ni. 3-9). The commentator's
+
+> तव हविर्लक्षणान्नलाभाय अथवा अस्माकमन्नलाभाय
+
+> *tava havirlakṣaṇānnalābhāya athavā asmākamannalābhāya*
+
+has been explained in two ways: for the gain of the food in the form of the oblation that we offer you, or for the food that you give us.
+
+---
+
+**Progress note:** Done through printed p. 704 (PDF 727). Sūkta 13: Ṛk 7 is complete (Pratipadārtha end, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu to p. 703). Ṛk 8 is complete from Saṃhitā to Viśeṣaviṣayagaḷu as far as the end of p. 704; the Viśeṣaviṣayagaḷu may continue on p. 705, so check its first lines before opening Ṛk 9 (or the sūkta's close). No grammar pages. No FILE DISAGREE: the file's "3-9" for the Nirukta reference agrees with the strip. Unzoomed numerals: headers of pp. 702–704 (the sūkta numeral on p. 702 is partly hidden by a blemish and read as 13), the Ṛk 8 number (glyph read as 8). [?] places: the Pada sign after "अपरि" (read as the compound mark); the bhāṣya's "निहन्तुं" (printed with a letter like "सि" for "नि"), "तवेन्प्रत्ययः", and "नृन्/नॄन्". Flag: the bhāṣya reading "अवनीः" as given in the Viśeṣaviṣayagaḷu of p. 702 may correct the earlier "वावनीः" of the Ṛk 7 bhāṣya. Accent marks are not reproduced.
