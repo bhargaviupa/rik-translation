@@ -31463,6 +31463,114 @@ Here Indra's horses are described by विंशत्या, त्रिं�
 
 इंद्र (*iṃdra*)—O Indra; अशीत्या (*aśītyā*)—with eighty horses; अर्वाज् (*arvāj*)—towards the sacrifice; आ याहि (*ā yāhi*)—come; नवत्या (*navatyā*)—with those of ninety in number; शतेन (*śatena*)—with a hundred (the Pratipadārtha breaks off here, at the foot of p. 829, after the Kannada word नूरु (*nūru*); the supplied text is cut off at the end of the window).
 
+### Printed p. 830
+
+*(Header: "830 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 18]".)*
+
+*(Pratipadārtha of Ṛk 6, continued from p. 829:)* संख्यॆयुळ्ळवू आद (*saṃkhyèyuḷḷavū āda*) — (and) of that number; हरिभिः (*haribhiḥ*)—with horses; उद्धमानः (*uddhamānaḥ*) [as supplied; the Saṃhitā has उह्यमानः (*uhyamānaḥ*)]—borne, conveyed; आ(याहि) (*ā(yāhi)*)—come; ते (*te*)—your; मदाय (*madāya*)—for satisfaction; शुनहोत्रेषु (*śunahotreṣu*)—in the vessels called "Śunahotra"; आयं सोमः (*āyaṃ somaḥ*)—this Soma; त्वाया (*tvāyā*)—following your wish; परिषिक्तो हि (*pariṣikto hi*)—has been pressed, has it not.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, come to the sacrifice, to drink the Soma, together with horses numbering eighty, or conveyed by horses numbering ninety or a hundred. For your satisfaction this Soma has been pressed, in accordance with your wish, in the vessels called "Śunahotra".
+
+**Printed English translation**
+
+Come, Indra, to our presence, conveyed by eighty, ninety, or a hundred horses: this Soma has been poured into the goblet, Indra, for your exhilaration.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the first half of this Ṛk too Indra is prayed to come accompanied by horses numbering eighty, ninety and a hundred: आशीत्या, नवत्या, शतेन (*āśītyā, navatyā, śatena*).
+
+शुनहोत्रेषु—सुखेन हूयते सोमो यैरिति शुनहोत्राः पात्रविशेषाः। (*śunahotreṣu—sukhena hūyate somo yairiti śunahotrāḥ pātraviśeṣāḥ|*) The commentator has explained the word शुनहोत्र (*śunahotra*) as vessels in which the Soma juice is stored. But since the ṛṣi Gṛtsamada was a descendant of the ṛṣi named Śunahotra, the meaning "among us, the descendants of that ṛṣi" is the appropriate one. The commentator too, in the Ṛks
+
+तीव्रो वो मधुमा अयं शुनहोत्रेषु मत्सरः । एतं पिबत काम्यं ॥ (*tīvro vo madhumā ayaṃ śunahotreṣu matsaraḥ | etaṃ pibata kāmyaṃ ‖*) (Ṛ. Saṃ. 2-41-15 [closing bracket not printed])
+
+शुनहोत्रेषु मत्स्य प्रजां देवि दिदिड्डि नः । (*śunahotreṣu matsya prajāṃ devi didiḍḍi naḥ |*) [as supplied; the line is garbled] (printed "ಮ ಸಂ. 2-41.-87" [as supplied])
+
+has given for the word शुनहोत्रेषु (*śunahotreṣu*) occurring in them the meaning गृत्समदेव्वस्मासु शुनहोत्रवंशस्थराद (*gṛtsamadevvasmāsu śunahotravaṃśastharāda*) [as supplied; garbled], that is, among Gṛtsamada and others who are Śunahotra's descendants. The relation between Gṛtsamada and Śunahotra we have explained at the beginning of this Maṇḍala, that is, on p. 378 of this same part.
+
+### Printed p. 831
+
+*(Header: "[A. 2. A. 6. V. 22.] Ṛgvedasaṃhitā 831".)*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> मम॒ ब्रह्मे॑न्द या॒ह्यच्छा॒ विश्वा॒ हरी॑ धु॒रि धि॑ष्ट्वा॒ रथ॑स्य ।
+> पु॒रु॒त्रा हि वि॒हव्यो॑ ब॒भूथा॒स्मिञ्च॑र॒ सव॑ने मादयस्व ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> मम । ब्रह्म । इन्द्र । याहि । अच्छ । विश्वा । हरी इति । धुरि । धिष्व । रथस्य ।
+> पुरुत्रा । हि । विहव्यः । बभूथ । अस्मिन् । शूर । सवने । मादयस्व ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र मम ब्रह्मास्मदीयामेव स्तुतिमच्छाभिलक्ष्य याहि । विश्वा व्याप्तौ
+> हरी रथस्य धुरि युगप्रांते धिष्व । संयोजय । पुरुत्रा पुरुभिर्बहुभिर्यजमानै-
+> स्त्वं विहव्यो विविधं ह्वातव्यो बभूथ । बभूविथ ॥ बभूथाततॆंथ जगृभ्म ववर्थेति
+> निपातनादिडभावः ॥ हे शूर अस्मिन्सवने यज्ञॆ मादयस्व । सोमपानेन हृष्टो
+> भव ॥
+
+*Gist: Indra is to come towards my hymn, yoke his two horses to the chariot's pole, and be exhilarated at this sacrifice, since he is invoked in many ways by many sacrificers.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; मम (*mama*)—recited by me; ब्रह्म (*brahma*)—the hymn; अच्छ (*accha*)—having regarded; याहि (*yāhi*)—come; विश्वा (*viśvā*)—pervading; हरी (*harī*)—your horses; रथस्य (*rathasya*)—of the chariot; धुरि (*dhuri*)—to the region of the yoke-pole; धिष्ट्व (*dhiṣṭva*) [the Pada has धिष्व (*dhiṣva*)]—join; पुरुत्रा (*purutrā*)—by many sacrificers in many ways; विहव्यः (*vihavyaḥ*)—one invoked in a special manner; बभूथ (*babhūtha*)—you have become; शूर (*śūra*)—the valiant, O Indra; अस्मिन् सवने हि (*asmin savane hi*)—in this very sacrifice; मादयस्व (*mādayasva*)—(by drinking the Soma juice) be satisfied.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, regard the hymn recited by me and come facing me. Join your pervading horses to the region of the yoke-pole of the chariot. You are one who is invoked in a special manner, in many ways, by many sacrificers. O valiant Indra, in this very sacrifice of ours drink the Soma juice and be satisfied.
+
+**Printed English translation**
+
+Come hither, Indra, (having heard) my prayer: yoke your two universal steeds to the pole of your chariot; you have been the object of invocation in many ways by many (worshippers), bnt [sic] now, hero, be exhilarated in this (cur) [sic] sacrifice.
+
+### Printed p. 832
+
+*(Header: "832 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 18]".)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ब्रह्म (*brahma*)—The word ब्रह्म (*brahma*) is read among the names of food and among the names of wealth (Nir. 3-9). In the present Ṛk the commentator has taken the word ब्रह्म (*brahma*) to mean a hymn.
+
+पुरुत्रा हि विहव्यो बभूथ (*purutrā hi vihavyo babhūtha*)—पुरुभिर्बहुभियजमानैस्त्वं विहव्यो विविधं ह्वातव्यो बभूथ बभूविथ । (*purubhirbahubhiyajamānaistvaṃ vihavyo vividhaṃ hvātavyo babhūtha babhūvitha |*) You have been prayed to by the many sacrificers who perform sacrifice, in diverse ways, to come to the sacrificial ground.
+
+शूर (*śūra*)—For this word Yāska has given the derivation शवतेर्गतिकर्मणः (*śavatergatikarmaṇaḥ*) (Nir. 4-13). That is, स हि परानभिमुखो गच्छत्येव न पर्यावर्तते । (*sa hi parānabhimukho gacchatyeva na paryāvartate |*) A valiant man, who in battle charges forward against the enemy heroes and fights without turning back in fear, is called शूर (*śūra*).
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> न म॒ इन्द्रॆ॑ण स॒ख्यं वि यो॑षद॒स्मभ्य॑मस्य॒ दक्षि॑णा दुहीत ।
+> उप॒ ज्येष्टे॒ वरू॑थे॒ गभ॑स्तौ प्रा॒येप्रा॑ये जिगी॒वांसः॑ स्याम
+
+**॥ पदपाठः ॥**
+
+> न । मे । इन्प्रेण । सख्यं । वि । योषत् । अस्मभ्यं । अस्य । दक्षिणा । दुहीत ।
+> उप । ज्येष्ठे । वरूथे । गभस्तौ । प्रायेऽप्राये । जिगीवांसः । स्याम ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> इंद्रेण सह मे मम सख्यं यष्टव्यं यष्टव्यलक्षणं सख्यं न वि योषत् ।
+> कदाचिदपि न वियुज्यतां ॥ यौतेर्लॆटि सिब्बहुलमिति सिप् । आडागमः ॥ अस्येंद्रस्य
+> दक्षिणेंद्रकर्तृकं दानमस्मभ्यं दुहीत । अभिमतफलं दुग्धां ॥ दुहेर्लिज रूपं ॥
+> ज्येष्ठेतिशयेन प्रशस्यॆ वरूथ आपदां वारके वरणीये वा गभस्तौ बाहावुप
+> समीपे वर्तिनः स्याम । इंद्रस्य हस्तस्पर्शयोग्या भवेमेत्यर्थः । किंच प्राये
+> प्राये सोमपानार्थमिंद्रस्य यज्ञशालायां प्रवेशे प्रवेशे जगीवांसः
+> शत्रूणां जेतारो भवेम । यद्वा प्राये प्राये । प्रकर्षणेयते गम्यते
+> योद्धृभििरिति प्रायं युद्धं । तस्मिन्युद्धे जिगीवांसः शत्रून् जितवंतो भवेम ॥
+
+> *iṃdreṇa saha me mama sakhyaṃ yaṣṭavyaṃ yaṣṭavyalakṣaṇaṃ sakhyaṃ na vi yoṣat |*
+> *kadācidapi na viyujyatāṃ ‖ yauterlèṭi sibbahulamiti sip | āḍāgamaḥ ‖ asyeṃdrasya*
+> *dakṣiṇeṃdrakartṛkaṃ dānamasmabhyaṃ duhīta | abhimataphalaṃ dugdhāṃ ‖ duherlija rūpaṃ ‖*
+> *jyeṣṭhetiśayena praśasyè varūtha āpadāṃ vārake varaṇīye vā gabhastau bāhāvupa*
+> *samīpe vartinaḥ syāma | iṃdrasya hastasparśayogyā bhavemetyarthaḥ | kiṃca prāye*
+> *prāye somapānārthamiṃdrasya yajñaśālāyāṃ praveśe praveśe jagīvāṃsaḥ*
+> *śatrūṇāṃ jetāro bhavema | yadvā prāye prāye | prakarṣaṇeyate gamyate*
+> *yoddhṛbhiiriti prāyaṃ yuddhaṃ | tasminyuddhe jigīvāṃsaḥ śatrūn jitavaṃto bhavema ‖*
+
 ---
 
-**Progress note:** Done through printed p. 829 (PDF 829). Sukta 18 Rk 4 bhasya, Pratipadartha, Bhavartha, English, Special Topics complete; Rk 5 complete; Rk 6 Samhita, Pada, bhasya, Pratipadartha begun (breaks off at the foot of p. 829)
+**Progress note:** Done through printed p. 832 (PDF 832). Sukta 18 Rk 6 completed (Pratipadartha end, Bhavartha, English, Special Topics); Rk 7 complete; Rk 8 Samhita, Pada, bhasya placed (Pratipadartha onward in next window)
