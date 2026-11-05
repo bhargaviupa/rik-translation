@@ -16156,6 +16156,107 @@ As mares approach the young one born in their womb and caress it, the seven grea
 
 The seven great rivers augmented in might the auspicious, pure, and radiant Agni as soon as he was born, in like manner as mares (tend) the newborn foal : the gods cherished the body (of Agni) at this birth.
 
+### Printed p. 510
+
+*[Running head, p. 510: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सप्त यह्वीः सुभगं श्वेतं जज्ञानं महित्वा अरुषं अवर्धयन् (*sapta yahvīḥ subhagaṃ śvetaṃ jajñānaṃ mahitvā aruṣaṃ avardhayan*)—⟦ಸರ್ಪಣ-
+ಶೀಲಾ ಮಹತ್ಯೋ ನದ್ಯಃ ಶೋಭನಧನಂ ಶುಭ್ರಂ ಜಾತಂ ಮಹತ್ತ್ವೇನ ಆರೋಚಮಾನಮಪ್ಸು
+ಸ್ಥಿತಮಗ್ನಿಂ ಅವರ್ಧಯನ್ ।⟧ The rivers, of ever-flowing nature and great, caressed and made to grow Agni, who has excellent wealth, is pure, was just born, shines with great brilliance through his glory, and dwells in the water.
+
+सप्त—सृप गत् (*sapta—sṛpa gat*): the word सप्त (*sapta*), formed from the root सृप (*sṛpa*) of motion, means having movement, that is, flowing.
+
+यह्वः—या प्रापणे (*yahvaḥ—yā prāpaṇe*): this word, formed from the root या (*yā*), means rivers of flowing nature. The word यह्वः (*yahvaḥ*) is read among the names of rivers (Ni. 2-24), and since it is read among the names of the great (Ni. 3-13), यह्वः (*yahvaḥ*) may be given the meaning great rivers or rivers with much water.
+
+सुभगं—भगः (*subhagaṃ—bhagaḥ*) [the word भगः (*bhagaḥ*) is] read among the names of wealth (Ni. 3-9); सुभगं (*subhagaṃ*) means one who has excellent wealth.
+
+अरुषं—अरुषशब्दवु (*aruṣaṃ—aruṣaśabdavu*) is read among the names of the horse (Ni. 2-7), and since there is the etymology ⟦ಅರುಷಮಿತಿ
+ರೂಪನಾಮ⟧ (Ni. 6-7), it means one of radiant form.
+
+Regarding the rivers' caressing and nourishing of Agni, an illustration is given here: जातं शिशुं न अभि आरुः (*jātaṃ śiśuṃ na abhi āruḥ*)—as mares approach their newly born foals, that is, tend them lovingly, so the rivers nourished Agni and made him grow.
+
+⟦ದೇವಾಸಃ ಅಗ್ನಿಂ ಜನಿಮನ್ ವಪುಷ್ಯನ್— ದೇವಾಃ ಅಗ್ನಿಂ ಜನ್ಮನ್ಯುದಕೇ ವಾ ವಪುರ್ದಿಪ್ತಿ-
+ಮಕುರ್ವನ್ ।⟧ It was said in the preceding sentence that the rivers nourished Agni. The gods too made the body of Agni, born in the water, shine with brilliance.
+
+In this Ṛk and in some following Ṛks the origin of Agni is described. Since Agni is said to have three kinds of birth, that is explained here.
+
+श्रीणि जाना परि भूषंत्यस्य समुद्र एकं दिव्येकमप्सु । (*śrīṇi jānā pari bhūṣaṃtyasya samudra ekaṃ divyekamapsu |*)
+(Mi. [printed ಮಿ., for Ṛ.] Saṃ. 1-95-3)
+
+### Printed p. 511
+
+*[Running head, p. 511: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+⟦ದಿವಸ್ಪರಿ ಪ್ರಥಮಂ ಜಜ್ಞೇ ಅಗ್ನಿರಸ್ಮದ್ವಿತೀಯಂ ಪರಿ ಜಾತವೇದಾಃ ।
+ತೃತೀಯಮಪ್ಪು ನೃಮಣಾ ಅಜಸ್ರಮಿಂಧಾನ ಏನಂ ಜರತೇ ಸ್ವಾಧೀಃ ॥⟧
+(Ṛ. Saṃ. 10-45-1)
+
+In Ṛks such as these there is a description of the three kinds of births of Agni. The three kinds of existence of Agni and, corresponding to them, the three kinds of manifestation reflect the very basic principle of the world; this is known from the explanation in the Bṛhaddevatā.
+
+⟦ಭವದ್ಭೂತಸ್ಯ ಭವ್ಯಸ್ಯ ಜಂಗಮಸ್ಥಾವರಸ್ಯ ಚ ।
+ಅಸ್ಯೈಕೇ ಸೂರ್ಯಮೇವೈಕಂ ಪ್ರಭವಂ ಪ್ರಲಯಂ ವಿದುಃ ॥
+ಏತದ್ಭೂತೇಷು ಲೋಕೇಷು ಅಗ್ನಿಭೂತಂ ಸ್ಥಿತಂ ತ್ರಿಧಾ ।
+ಋಷಯೋ ಗೀರ್ಭಿರರ್ಚಂತಿ ವ್ಯಂಜಿತಂ ನಾಮಭಿಸ್ತ್ರಿಭಿಃ ॥⟧
+(Bṛ. De. 1-61; 1-64)
+
+In these verses, in describing the greatness of Agni, the authors of the Bṛhaddevatā say that Prajāpati, the source of all beings, has in the form of Agni his existence in three ways, in three places, as the source of creation and dissolution of all moving and unmoving beings in the past, future and present. The seers also, as seen below, speak of the manifestation of this threefold Agni by three names; continuing this very praise of Agni—
+
+⟦ತ್ರಿಸ್ಥಾನಂ ಚೈನಮರ್ಚಂತಿ ಹೋತ್ರಾಯಾಂ ವ್ಯಕ್ತಬರ್ಹಿಷಃ ।
+ಇಹೈವ ಪವಮಾನೋಽಗ್ನಿರ್ಮಧ್ಯಮೋಽಗ್ನಿರ್ವನಸ್ಪತಿಃ ।
+ಅಮುಷ್ಮಿನ್ನೇವ ವಿಪ್ರೈಸ್ತು ಲೋಕೇಽಗ್ನಿಃ ಶುಚಿರುಚ್ಯತೇ ॥
+ಇಹಾಗ್ನಿಭೂತಸ್ತ್ವೃಷಿಭಿರ್ಲೋಕೇ ಸ್ತುತಿಭಿರೀಳಿತಃ ।
+ಜಾತವೇದಾಃ ಸ್ತುತೋ ಮಧ್ಯೆ ಸ್ತುತೋ ವೈಶ್ವಾನರೋ ದಿವಿ ॥⟧
+(Bṛ. De. 1-65 to 67)
+
+Of these three, the Agni that manifests on earth is famous as Pavamāna-Agni, the Agni of the middle world as Vanaspati, and the Agni in the heavenly world as Śuci. These three divisions are read in the Taittirīya Saṃhitā (2-2-4) as the division Pavamāna, Śuci and Pāvaka. Besides, the names Agni, Jātavedas and Vaiśvānara also indicate three places and three kinds of nature. The Nirukta authors also, from the Ṛgveda Saṃhitā—
+
+⟦ಸ್ತೋಮೇನ ಹಿ ದಿವಿ ದೇವಾಸೋ ಅಗ್ನಿಮಜೀಜನಞ್ಕ್ತಿಭೀ ರೋದಸಿಪ್ರಾಂ ।
+ತಮೂ ಅಕೃಣ್ವನ್ ತ್ರೇಧಾ ಭುವೇ ಕಂ ಸ ಓಷಧೀಃ ಪಚತಿ ವಿಶ್ವರೂಪಾಃ ॥⟧
+(Ṛ. Saṃ. 10-88-10)
+(the reference is printed twice in the supplied text)
+
+### Printed p. 512
+
+*[Running head, p. 512: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+—citing this Ṛk, [give the explanation] तमकुर्वंस्त्रेधाभावायु पृथिव्यामंतरिक्षे दिवीति शाकपूणिः । (*tamakurvaṃstredhābhāvāyu pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ |*) According to Śākapūṇi's explanation, Agni has manifested in the three places divided as earth, atmosphere and heaven, in the three forms Agni, Jātavedas and Vaiśvānara; they explain these three forms clearly by examples of Saṃhitā sentences (Ni. 7-14 to 7-25).
+
+In the same way, in this Ṛk too the three places are described in order by the names समुद्रे (*samudre*), दिवि (*divi*), अप्पु (*appu*), it being explained that Agni appears in the sea as the submarine fire, in heaven in the form of the Sun, and in the waters, that is the atmosphere, in the form of lightning. Though at times the names of the places differ, the meaning is all one. For example, here, in place of earth, the sea is named, divided to suit this context. In sum, such threefold divisions are stated in the four Vedas in various contexts.
+
+⟦ದಿವಸ್ಪರಿ ಪ್ರಥಮಂ ಜಜ್ಞೇ ಅಗ್ನಿರಸ್ಮದ್ ದ್ವಿತೀಯಂ ಪರಿ ಜಾತವೇದಾಃ ।
+ತೃತೀಯಮಪ್ಪು ನೃಮಣಾ ಅಜಸ್ರಮಿಂಧಾನ ಏನಂ ಜರತೇ ಸ್ವಾಧೀಃ ॥⟧
+(Ṛ. Saṃ. 10-45-1; Vā. Saṃ. 12-18; Tai. Saṃ. 1-3-14-5)
+
+⟦ಅಗ್ನಿರಸ್ಮಿ ಜನ್ಮನಾ ಜಾತವೇದಾ ಘೃತಂ ಮೇ ಚಕ್ಷುರಮೃತಂ ಮ ಆಸನ್ ।
+ಅರ್ಕಸ್ತ್ರಿಧಾತೂ ರಜಸೋ ವಿಮಾನೋಽಜಸ್ರೋ ಘರ್ಮೋ ಹವಿರಸ್ಮಿ ನಾಮ ॥⟧
+(Ṛ. Saṃ. 3-26-7; Vā. Saṃ. 18-66; Ni. 14-2)
+
+From such explanations the nature of the description of Agni's three births is clearly understood.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative graphic design consisting of black swirls and loops on a white background." (an ornament), kept as a note.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> शु॒क्रेभि॒रंगै॒ रज॑ आतत॒न्वान् क्रतुं॑ पुना॒नः क॒विभिः॑ प॒वित्रैः॑ ।
+> शो॒चिर्वसा॑नः॒ पर्यायु॑र॒पां श्रियो॑ मिमाते बृह॒तीरनू॑नाः ॥
+
+> *śukrebhiraṃgai raja ātatanvān kratuṃ punānaḥ kavibhiḥ pavitraiḥ |*
+> *śocirvasānaḥ paryāyurapāṃ śriyo mimāte bṛhatīranūnāḥ ‖*
+
+*(The Ṛk number ॥ ೫ ॥ is missing after the Saṃhitā in the supplied text; the Pada has it.)*
+
+**॥ पदपाठः ॥**
+
+> शुक्रेभिः । अंगैः । रजः । आततन्वान् । क्रतुं । पुनानः । कविभिः । पवित्रैः ।
+> शोचिः । वसानः । परि । आयुः । अपां । श्रियः । मिमाते । बृहतीः । अनूनाः ॥ ५ ॥
+
+> *śukrebhiḥ | aṃgaiḥ | rajaḥ | ātatanvān | kratuṃ | punānaḥ | kavibhiḥ | pavitraiḥ |*
+> *śociḥ | vasānaḥ | pari | āyuḥ | apāṃ | śriyaḥ | mimāte | bṛhatīḥ | anūnāḥ ‖ 5 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 509 (PDF 509). Sukta 1 (Mandala 3) Rik 3 Special Topics finished (pp. 507-509): Rik 10-51-6 to 9 on Agni hiding, the Taittiriya story (2-6-6-1); Rik 4 complete through printed English (p. 509). Flags: Ma. Sam. printed for Ri. Sam. 10-51; Pada avardhayan and aruh as supplied; hyphenated breaks joined in bhashya; 1 accent DIFF
+**Progress note:** Done through printed p. 512 (PDF 512). Sukta 1 (Mandala 3) Rik 4 Special Topics finished (pp. 510-512): the seven rivers, word notes, Agni's three births with Rik citations and Brihaddevata; Rik 5 Samhita and Pada at end of p. 512. Flags: Mi. Sam. printed for Ri. Sam. 1-95-3; Rik 5 Samhita lacks closing number; ornament line kept as note; 1 accent DIFF
