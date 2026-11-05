@@ -13053,6 +13053,85 @@ Here a point calls for consideration. That the deity Soma dwells in the atmosphe
 
 *Note on the kn.md edits: the Yajurveda quotation at the end of p. 404 was moved into a `>` block with its reference on its own line; the hyphen line-breaks inside the Pada and bhāṣya blocks were joined (the Pada's अस्मे-इति (*asme-iti*) keeps the printed hyphen). The print's page 404 text breaks off here at the quotation; the translation of the sentence follows on the next page.*
 
+### Printed p. 405
+
+In this sentence Soma is addressed as being in the form of the moon. In the sense of Rudra, too, for the word *soma*—
+
+नमः सोमाय च रुद्राय च । (*namaḥ somāya ca rudrāya ca |*) (Tai. Saṃ. 4-5-8-1)
+
+*[The same line is repeated in the supplied text:]* नमः सोमाय च रुद्राय च । (*namaḥ somāya ca rudrāya ca |*) (Tai. Saṃ. 4-5-8-1)
+
+—many such sentences can be cited from the Yajurveda and the other Vedas. But in the Ṛgveda alone the word *soma* means the soma creeper or Soma, the deity presiding over it. In Ṛks such as या ओषधी सोमराज्ञीः (*yā oṣadhī somarājñīḥ*) (Ṛ. Saṃ. 10-97-18, 19) and ओषधयः सं वदंते सोमेन सह राज्ञा । (*oṣadhayaḥ saṃ vadaṃte somena saha rājñā |*) (10-98-22) too, it is stated quite clearly that the soma creeper, or Soma its presiding deity, is the king or lord of the plants and trees. Therefore to explain the word *soma* here as the moon, as is said in the Purāṇas and similar works, is not quite appropriate.
+
+Besides this, the sentence दिव्यः अन्यः सदनं चक्रे उच्चा (*divyaḥ anyaḥ sadanaṃ cakre uccā*) can also be explained in another way. The commentator has said that the word अन्यः (*anyaḥ*) here means the deity Pūṣan, one of Soma and Pūṣan. But the word अन्यः (*anyaḥ*) can also be explained as the deity Soma, one of Soma and Pūṣan. In that case the sense can be stated that Soma, one of Soma and Pūṣan, has made his abode in the extremely lofty heavenly world. In support of this there are many Śruti sentences, such as तृतीयास्यामितो दिवि सोम आसीत् (*tṛtīyāsyāmito divi soma āsīt*) (Tai. Brā. 3-2-1-1) and तृतीयस्यामितो दिवि सोमस्तमाहर (*tṛtīyasyāmito divi somastamāhara*) (Tai. Saṃ. 6-1-6-1).
+
+Next, the second sentence, पृथिव्यां अन्यः अधि अंतरिक्षे (*pṛthivyāṃ anyaḥ adhi aṃtarikṣe*), can be explained with reference to Pūṣan. This Pūṣan, being on the earth in the form of the deity Pūṣan, helps people by recovering lost things for them and by being a guide to those who have lost their way. Since Pūṣan is a portion of Āditya, that is the Sun, or is one of the twelve Ādityas, it is natural that this deity dwells in the atmosphere (in the Sun's place). Therefore this sentence can be explained as meaning that this deity Pūṣan has provided for himself a place both on the earth and in the atmosphere.
+
+तौ अस्मे नाभिं पुरुवारं पुरुक्षुं रायः पोषं अस्मभ्यं वि ष्यतां (*tau asme nābhiṃ puruvāraṃ purukṣuṃ rāyaḥ poṣaṃ asmabhyaṃ vi ṣyatāṃ*)—हे सोमापूषणौ युवां बहुभिर्वर्णीयं बहुकीर्तिं धनस्य पुष्टिं विश्वस्य भोगस्य नाभिं हेतुभूतं अस्मभ्यं प्रयच्छतां ॥ (*he somāpūṣaṇau yuvāṃ bahubhirvarṇīyaṃ bahukīrtiṃ dhanasya puṣṭiṃ viśvasya bhogasya nābhiṃ hetubhūtaṃ asmabhyaṃ prayacchatāṃ ‖*) Here the prayer is stated: O Soma and Pūṣan, may you two give us what is desired by many, great fame (or food), and the increase of wealth that is the means of enjoyment, that is, abundance of wealth and wealth in cattle.
+
+### Printed p. 406
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> विश्वा॑न्य॒न्नो भुव॑ना ज॒जान॒ विश्व॑म॒न्यो अ॑भि॒चक्षा॑ण एति ।
+> सोमा॑पूषणा॒वव॑तं॒ धियं॑ मे यु॒वाभ्यां॒ विश्वाः॒ पृत॑ना
+> जयेम ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> विश्वानि । अन्यः । भुवना । जजान । विश्वं । अन्यः । अभिचक्षणाः । एति ।
+> सोमापूषणौ । अवतं । धियं । मे । युवाभ्यां । विश्वाः । पृतनाः । जयेम ॥५॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सोमापूषणौ अन्नो युवयोरेकः सोमो विश्वानि भुवना भुवनानि
+> भूतजातानि जजान । अजनयत् । तथा च मंत्रः । सोमः पवते जनिता मतीनां ।
+> ऋग्वे. ९-९६-५ । इति । अन्नोऽपरः पूषादित्यो विश्वमभिचक्षाणोऽभिपश्यन्नेति ।
+> गच्छति । तौ युवां सोमापूषणौ मे धियं कर्म ॥ धीः शचीति कर्मनामसु
+> पाठात् ॥ अवतं । रक्षतं । किंच वयं युवाभ्यां हेतुभ्यां विश्वाः पृतनाः सर्वाः
+> शत्रुसेना जयेम । अभिभवेम ॥
+
+> *he somāpūṣaṇau anno yuvayorekaḥ somo viśvāni bhuvanā bhuvanāni*
+> *bhūtajātāni jajāna | ajanayat | tathā ca maṃtraḥ | somaḥ pavate janitā matīnāṃ |*
+> *ṛgve. 9-96-5 | iti | anno 'paraḥ pūṣādityo viśvamabhicakṣāṇo 'bhipaśyanneti |*
+> *gacchati | tau yuvāṃ somāpūṣaṇau me dhiyaṃ karma ‖ dhīḥ śacīti karmanāmasu*
+> *pāṭhāt ‖ avataṃ | rakṣataṃ | kiṃca vayaṃ yuvābhyāṃ hetubhyāṃ viśvāḥ pṛtanāḥ sarvāḥ*
+> *śatrusenā jayema | abhibhavema ‖*
+
+*(Gist: Soma, one of the two, produced all beings; the other, Pūṣan (Āditya), goes about beholding the universe; protect my rite; through you may we conquer all hostile hosts. Hand-fixes to kn.md: the doubled label Sāyaṇa-bhāṣya was reduced to one; the Pratipadārtha, which the supplied text had inside the bhāṣya block under a garbled label "1 ಪ್ರತಿಪದಾರ್ಥ 1", was set out as its own section and un-quoted. The bhāṣya cites the Ṛk reference as ऋग्वे. ९-९६-५ (*ṛgve. 9-96-5*) and the Special Topics as 9-96-2, as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O Soma and Pūṣan deities) One of you, Soma, created all beings. The other, Pūṣan (the Āditya), goes about looking upon the whole world. O Soma and Pūṣan, protect my rite (धियं (*dhiyaṃ*)). Through your help may we conquer all the hostile armies.
+
+**भावार्थ (Bhāvārtha)**
+
+O Soma and Pūṣan, one of you, Soma, has created all beings; the other, Pūṣan, moves about looking upon the whole world. O Soma and Pūṣan, protect my rite. With your help may we conquer all the hostile armies.
+
+### Printed p. 407
+
+**Printed English translation**
+
+One of you, (Soma), has generated all beings ; the other proceeds looking upon the universe : Soma and Pushan, protect my (pious) rite : through you, may we overcome all the hosts of our enemies.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सोमापूषण् अन्यः विश्वानि भुवनानि जजान (*somāpūṣaṇ anyaḥ viśvāni bhuvanāni jajāna*)—हे सोमापूषण् युवयोरेकः विश्वानि भुवनानि भूतानि अजनयत् । (*he somāpūṣaṇ yuvayorekaḥ viśvāni bhuvanāni bhūtāni ajanayat |*) O deities Soma and Pūṣan, one of you, the deity Soma, created all the worlds or all beings (living creatures). In this matter, in the Ṛk
+
+⟦ಸೋಮಃ ಪವತೇ ಜನಿತಾ ಮತೀನಾಂ ಜನಿತಾ ದಿವೋ ಜನಿತಾ ಪೃಥಿವ್ಯಾಃ ।
+ಜನಿತಾಗ್ನೇರ್ಜನಿತಾ ಸೂರ್ಯಸ್ಯ ಜನಿತೇಂದ್ರಸ್ಯ ಜನಿತೋತ ವಿಷ್ಣೋಃ ॥⟧
+(Ṛ. Saṃ. 9-96-2)
+
+it is said that the deity Soma purifies everything; that he is the one who impels the minds of all of us, or the author of the mantras; that he created the heavenly world (heaven) and the earth; and that he produced the deities Agni, Sūrya, Indra and Viṣṇu.
+
+विश्वं अन्यः अभिचक्षाणः एति (*viśvaṃ anyaḥ abhicakṣāṇaḥ eti*)—अपरः पूषा आदित्यः विश्वं अभिपश्यन् गच्छति । (*aparaḥ pūṣā ādityaḥ viśvaṃ abhipaśyan gacchati |*) The other of you, called Pūṣan, in the form of Āditya, goes about constantly looking upon the whole universe. As in the sentence आ देवो याति भुवनानि पश्यन् (*ā devo yāti bhuvanāni paśyan*) (Ṛ. Saṃ. 1-35-2), Āditya, in the form of Savitṛ, goes about constantly looking upon all beings and all worlds; there is nothing that does not fall within his sight. This too is said.
+
+मे धियं अवतं (*me dhiyaṃ avataṃ*)—मे कर्म अवतं । (*me karma avataṃ |*) Since the word धीः (*dhīḥ*) is read among the names of action, धियं (*dhiyaṃ*) means "action" (Ni. 3-1). O Soma and Pūṣan, protect my action, that is, the sacrificial rite I am now performing, so that it is completed in full; this is the sense.
+
+युवभ्यां विश्वाः पृतनाः जयेम (*yuvabhyāṃ viśvāḥ pṛtanāḥ jayema*) (as supplied; the Saṃhitā has युवाभ्यां (*yuvābhyāṃ*))—the word पृतनाः (*pṛtanāḥ*) is read among the names of battle (Ni. 3-9). O deities Soma and Pūṣan, by your favour, that is, with your help, may we conquer in battle all the hostile armies; so the prayer is made.
+
 ---
 
-**Progress note:** Done through printed p. 404 (PDF 404). Sukta 40 Rik 3 Special Topics finished (p. 402); Rik 4 complete through printed English (p. 403-404); Special Topics of Rik 4 runs to a Yajurveda quotation at end of p. 404, sentence continues next page. Flags: Pada visyatam vs Samhita vishyatam as printed, bhashya anno'parah as supplied, vishvadimba in p. 402 prose likely misprint, 1 accent DIFF in Rik 4 Samhita, hand-fix of Yajurveda quote into block
+**Progress note:** Done through printed p. 407 (PDF 407). Sukta 40 Rik 4 Special Topics finished (p. 405); Rik 5 complete (pp. 406-407). Flags: bhashya cites 9-96-5, Special Topics 9-96-2 as supplied; yuvabhyam vs yuvabhyam in Special Topics as supplied; Samhita accent DIFF/NOMATCH lines
