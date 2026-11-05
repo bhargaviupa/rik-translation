@@ -8415,6 +8415,108 @@ In the second meaning: among the waters used in the sacrificial acts, those know
 
 As bashful young women surround and adorn a young man, so the waters surround and attend upon Agni named Apāṃ Napāt. That Agni, of a form purified by ghee, remaining without fuel in the midst of the waters, shines with bright splendours so that food endowed with wealth is obtained by us.
 
+### Printed p. 267
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 22] Ṛgveda-saṃhitā, p. 267.*
+
+**Printed English translation**
+
+The young and modest (waters) wait upon the youth, assiduous in bathing him, and he, although unfed with fuel, yet cleansed with clarified butter, shines with bright rays amidst the waters, that abundanceee [sic] (may be) to us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+तं आपः अस्मेराः युवतयः युवानं मर्मृज्यमानाः परि यंति (*taṃ āpaḥ asmerāḥ yuvatayaḥ yuvānaṃ marmṛjyamānāḥ pari yaṃti*)—Sāyaṇa explains: अपांनपातमग्निं अस्मयमानाः दर्परहिताः युवतयः युवानां युवराजमिव आत्यर्थमलंकुर्वाणाः आपः परितः प्राप्नु वंति (*apāṃnapātamagniṃ asmayamānāḥ darparahitāḥ yuvatayaḥ yuvānāṃ yuvarājamiva ātyarthamalaṃkurvāṇāḥ āpaḥ paritaḥ prāpnu vaṃti*). The meaning is described thus: as young women in their youth, free of pride, attend upon a young prince in his youth, so the waters of the rivers that join the ocean greatly tend and serve the Agni named Apāṃ Napāt.
+
+सः अप्पु अनिध्मः (*saḥ appu anidhmaḥ*)—अपां नपादग्निः मेघांतर्गतासु समुद्रगतासु मध्यॆ वा इंधनरहितः (*apāṃ napādagniḥ meghāṃtargatāsu samudragatāsu madhyè vā iṃdhanarahitaḥ*)—the Agni named Apāṃ Napāt, in the midst of the waters that are within the clouds or have gone to the ocean, has no means of blazing; that is, he has the water itself as his fuel. And अस्मे रेवत् शुक्लेभिः शिक्वभिः दीदाय (*asme revat śuklebhiḥ śikvabhiḥ dīdāya*)—अस्माकं धनयुक्तं अन्नं यथा भवति तथा शुभ्रैः निर्मलैः तेजोभिः दीप्यते (*asmākaṃ dhanayuktaṃ annaṃ yathā bhavati tathā śubhraiḥ nirmalaiḥ tejobhiḥ dīpyate*): this Agni, granting to us the sacrificers food endowed with wealth, shines with pure and bright splendours; so it is described.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मै ति॒स्रो अ॑व्य॒थ्याय॒ नारी॑र्दे॒वाय॑ दे॒वीर्दि॑धिष॒न्त्यन्नं॑ ।
+> कृता॑ इ॒वोप॒ हि प्र॑स॒र्स्रॆ अ॒प्सु स पी॒यूषं॑ धयति पूर्व॒सूनां॑॥
+
+**॥ पदपाठः ॥**
+
+> अस्मै । तिस्रः । अव्यथाय । नारीः । देवाय । देवीः । दिधिषंति । अन्नं ।
+> कृताःइव । उप । हि । प्रसस्रे । अप्सु । सः । पीयूषं । धयति । पूर्वसूनां॥५॥
+
+> *asmai | tisraḥ | avyathāya | nārīḥ | devāya | devīḥ | didhiṣaṃti | annaṃ |*
+> *kṛtāḥiva | upa | hi | prasasre | apsu | saḥ | pīyūṣaṃ | dhayati | pūrvasūnāṃ‖5‖*
+
+### Printed p. 268
+
+*Running head: [268] Sāyaṇa-bhāṣya-sahitā [Maṃ. 2, A. 4, Sū. 35].*
+
+**॥ सायणभाष्यम् ॥**
+
+> नारीर्नेत्र्यस्तिस्रो देवीर्देव्य इळासरस्वतीभारश्याख्या अव्यथ्यायाव्यथना-
+> यास्मै देवायापां नपातेऽन्नं सोमाख्यं दिधिषंति । धारयंति ॥ धिष शब्दे
+> जौहोत्यादिकः । व्यत्ययेनांत्यादेशः । धातूनामनेकार्थत्वादत्र धारणार्थः ॥
+> अप्सूदकेषु कृता इवोपप्रसर्स्रॆ । प्रसरंति ॥ सृ गतौ । लिटीरयो रे इति रेआदेशः।
+> छांदसो हलादिशेषाभावः ॥ यस्मादेवं तस्मात्पूर्वसूनां पूर्वं ब्रह्मणः
+> सकाशादुत्पन्नानामपां पीयूषं सारभूतं सोमाख्यममृतं सोpां[?]नपाद-
+> ग्निर्धयति । पिबति ॥
+
+*Gist:* the three goddesses Iḷā, Sarasvatī and Bhāratī bear the Soma-food to the unharmed god Apāṃ Napāt; he drinks the essence of the waters, the Soma-ambrosia.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देवीः (*devīḥ*)—divine; शिस्रः[?] नारीः (*śisraḥ[?] nārīḥ*) (as supplied; the Saṃhitā has तिस्रः (*tisraḥ*))—three women, Iḷā, Sarasvatī and Bhāratī; अव्यथाय (*avyathāya*)—to the unharmed; अस्मै देवाय (*asmai devāya*)—to this Agni named Apāṃ Napāt; अन्नं (*annaṃ*)—the food in the form of Soma; दिधिषंति (*didhiṣaṃti*)—carry and offer; अप्पु (*appu*) (as supplied; Pada अप्सु (*apsu*))—in the waters themselves; कृता इव (*kṛtā iva*)—as if made; उप प्रसस्रे (*upa prasasre*)—they spread out and extend; पूर्वसूनां (*pūrvasūnāṃ*)—of the waters produced of old from Brahmā; पीयूषं (*pīyūṣaṃ*)—the ambrosia that is the essence and has the form of Soma; सः (*saḥ*)—that Agni named Apāṃ Napāt; धयति (*dhayati*)—drinks.
+
+**भावार्थ (Bhāvārtha)**
+
+The three divine women, Iḷā, Sarasvatī and Bhāratī, carry and offer the food in the form of Soma to this unharmed Agni named Apāṃ Napāt. As if made in the waters themselves, they spread out and extend. This Agni drinks the ambrosia, the essence of the waters produced of old from Brahmā, in the form of Soma.
+
+**Printed English translation**
+
+Three divine females present food to that uninjurable divinity ; as if formed in the waters they spread abroad, and he drinks the ambrosia of the first-created (element).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नारीः तिस्रः देवीः अव्यथाय अस्मै देवाय अन्नं दिधिषंति (*nārīḥ tisraḥ devīḥ avyathāya asmai devāya annaṃ didhiṣaṃti*)—नेत्रः इळा सरस्वतीभारत्याख्याः तिस्रः देव्यः अपांनपाते सोमाख्यं अन्नं धारयंति (*netraḥ iḷā sarasvatībhāratyākhyāḥ tisraḥ devyaḥ apāṃnapāte somākhyaṃ annaṃ dhārayaṃti*). Here the word *anna* is explained as Soma. The three goddesses Iḷā, Sarasvatī and Bhāratī, who control the world, that is, are the regulators of the world, for the god Apāṃ Nahāt [?], the food called Soma,
+
+### Printed p. 269
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 23] Ṛgveda-saṃhitā, p. 269.*
+
+bearing it, are serving him; and अप्पु कृता इव (*appu kṛtā iva*): this Soma, as if it had been produced in the waters themselves, abundantly spreads, and these goddesses offer Soma to this god. Therefore this god, पूर्वसूनां पीयूषं (*pūrvasūnāṃ pīyūṣaṃ*)—drinks the ambrosia named Soma, the essence of the waters that came into being first of what was created by Brahmā; so it is described, and in this way the greatness of this god, whom Iḷā, Bhāratī and Sarasvatī also serve, and the excellence of Soma are described.
+
+Yāska explains तिस्रोः देवीः (*tisroḥ devīḥ*) as तिस्त्रः देव्यः (*tistraḥ devyaḥ*) and, citing this reasoning (the following verse),
+
+> आ नो यज्ञं भारती तूयमेत्विळा मनुष्वदिह चेतयंती ।
+> तिस्रो देवीर्बर्हिरेदं स्योनं सरस्वती स्वससः सदंतु ॥
+
+> *ā no yajñaṃ bhāratī tūyametviḷā manuṣvadiha cetayaṃtī |*
+> *tisro devīrbarhiredaṃ syonaṃ sarasvatī svasasaḥ sadaṃtu ‖*
+
+(Ma. Saṃ. 10-110-8)
+
+and then explaining it:
+
+> ऐतु नो भारती यज्ञं क्षिप्रं । भरत आदित्यस्तस्य भा इळा च मनुष्यवदिह
+> चेतयमाना तिस्रो देव्यो बर्हिरिदं सुखं सरस्वती च सुकर्माण आसीदंतु ।
+
+> *aitu no bhāratī yajñaṃ kṣipraṃ | bharata ādityastasya bhā iḷā ca manuṣyavadiha*
+> *cetayamānā tisro devyo barhiridaṃ sukhaṃ sarasvatī ca sukarmāṇa āsīdaṃtu |*
+
+Ni. 8-14) (as printed, closing parenthesis only) he has explained the meaning thus: Bhāratī, the radiance of Āditya who nourishes all beings with waters; Iḷā, the well-known deity of the earth region; and Sarasvatī, the deity of the middle region, are called like human beings to the sacrificers' rites, and let them sit in the barhis-place of the sacrificial hall to receive the oblations offered by the sacrificers.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अश्व॒स्यात्र॒ जनि॑मा॒स्य च॒ स्व॑र्दु॒हो रि॒षः सं॒पृचः॑ पाहि सू॒रीन् ।
+> आ॒मासु॑ पू॒र्णु प॒रो अ॑प्रमृ॒ष्यं नारा॑तयो॒ वि न॑श॒न्नानृ॑तानि ॥
+
+**॥ पदपाठः ॥**
+
+> अश्वस्य । अत्र । जनिम । अस्य । च । स्वः । द्रुहः । रिषः । संपृचः । पाहि । सूरीन् ।
+> आमासु । पूर्ण । परः । अप्रमृष्यं । न । अरातयः । वि । नशत् । न । अन्मत्तानि ॥ ६ ॥
+
+> *aśvasya | atra | janima | asya | ca | svaḥ | druhaḥ | riṣaḥ | saṃpṛcaḥ | pāhi | sūrīn |*
+> *āmāsu | pūrṇa | paraḥ | apramṛṣyaṃ | na | arātayaḥ | vi | naśat | na | anmattāni ‖ 6 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 266 (PDF 266). Sūkta 35 Ṛk 3 (pp. 263-265, Special Topics) and Ṛk 4 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha (p. 266); p. 264 was merged into the bhāṣya block of p. 263 and was split out (marker inserted, pages.json updated, so supplied text does contain p. 264); stray line '। क्रि.श. 1298' kept as italic note; running head of p. 264 prints Maṃ. 3 (as supplied); OCR slips kept: Latin 'p' in 'सोpां' [?], ಅಪ್ಪು/ಅಪ್ಸು, ದೀದಿನಾಂಸಂ, ಧೃತನಿರ್ನಿಕ್, ದೀದಾಯು; Ṛk 4 printed English not yet reached
+**Progress note:** Done through printed p. 269 (PDF 269). Sūkta 35 Ṛk 4 printed English and Special Topics (p. 267), Ṛk 5 complete (pp. 267-269, Yāska quotations placed as blocks), Ṛk 6 Saṃhitā/Pada (p. 269); kn.md hand-fixes: garbled label ॥ ಭವಾರ್ಥ ॥ replaced by standard Bhāvārtha, two Yāska verse quotations made blocks; [?]: ನಹಾತ್, ಶಿಸ್ರಃ, Latin p in ಸೋpಾಂ; OCR slips kept: ಅಪ್ಪು/ಅಪ್ಸು, ಪ್ರಸರ್ಸ್ರೆ/ಪ್ರಸಸ್ರೇ, ಶುಕ್ಲೇಭಿಃ, ಮನುಷ್ವದಿಹ, ಅಶ್ವಸ್ಯಾತ್ರ; 'Ni. 8-14)' printed with closing paren only; printed English 'abundanceee' [sic]; Ṛk 6 bhāṣya next
