@@ -10233,6 +10233,115 @@ The Draviṇodas who drank Soma in the sacrifice performed by the Hotṛ, was sa
 
 Whether he has drink [sic] the Soma from the offering of the Hotri ; whether he has been exhilarated by the offering of the Potri ; whether he has been pleased with the (sacrificial) food presented as the act of the Neshtri ; still let Dravinodas quaff the unstrained amborsial [sic] cup the forrth [sic] offered by the priest.
 
+### Printed p. 326
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the priest called Maitrāvaruṇa speaks, addressing the priest called Acchāvāka. In the three preceding Ṛks Draviṇodas has been asked to drink the Soma offered in the sacrifices performed by the priests Hotṛ, Potṛ and Neṣṭṛ. The first half of this Ṛk states the same matter again. Now he is asked to drink the Soma that is in the fourth cup, offered by the priests.
+
+तुरीयं पात्रं (*turīyaṃ pātraṃ*) — the Soma juice in the fourth cup. What has been said up to now is, in order, the Soma juice in the three cups of the priests Hotṛ, Potṛ and Neṣṭṛ; it is explained that the Soma juice offered by these priests is in the fourth cup.
+
+अमृक्तं (*amṛktaṃ*) —
+> अमृष्टं, अशुद्धं, अपूर्णमित्यर्थः ।
+
+> *amṛṣṭaṃ, aśuddhaṃ, apūrṇamityarthaḥ |*
+O Draviṇodas, the Soma offered up to now by the priests Hotṛ, Potṛ and Neṣṭṛ is incomplete; that is, you have not been fully satisfied by drinking the Soma they offered. Therefore the intended sense is: drink the Soma juice in the fourth cup now offered by the priests and be satisfied.
+
+अमर्त्यं (*amartyaṃ*) —
+> अमरणसाधनं । यत् पीत्वा न म्रियते । अमनुष्ययोग्यं ।
+
+> *amaraṇasādhanaṃ | yat pītvā na mriyate | amanuṣyayogyaṃ |*
+"Preventing death", that is, one who drinks this Soma does not die. Therefore this divine Soma is not fit for human beings; it is fit for the gods and is like nectar (*amṛta*).
+
+द्रविणोदसः (*draviṇodasaḥ*) —
+> हवीरूपद्रविणस्य प्रदातारः ।
+
+> *havīrūpadraviṇasya pradātāraḥ |*
+The commentator explains it as the priests who offer oblations. Yāska also says:
+> एतदग्निं द्रविणोदसमाहेत्यृत्विजोSत्र द्रविणोदस उच्यंते हविषो
+> दातारस्ते चैनं जनयंति ॥
+
+> *etadagniṃ draviṇodasamāhetyṛtvijoStra draviṇodasa ucyaṃte haviṣo*
+> *dātāraste cainaṃ janayaṃti ‖*
+(Si. 8-2) [as supplied; the bhāṣya quotes this passage as Ni. 8-2]
+Thus he gives the etymology: Agni too is named Draviṇodas; because the priests offer oblations to that Agni, the priests also are called Draviṇodas.
+
+### Printed p. 327
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अ॒र्वांच॑म॒द्य य॒य्यं॑ नृ॒वाह॑णं॒ रथं॑ युंजाथामि॒ह वां॒॑॑
+> विमोचनं ।
+> पृं॒क्तं ह॒वींषि॒ मधु॒ना हि कं॑ ग॒तमथा॒ सोमं॑ पिबतं वाजिनी-
+> वसू ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> अर्वांचं । अद्य । यय्यं । नृवाहनं । रथं । युंजाथां । इह । वां ।
+> विमोचनं ।
+> पृंक्तं । हवींषि । मधुना । आ । हि । कं । गतं । अथ । सोमं । पिबतं । वाजिनी-
+> वसू इति वाजिनीवसू ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विनौ अद्यास्मिन्नहनि यय्यं ययिं गंतारं नृवाहणं नेत्रोर्युव-
+> योर्वोढारमिह यज्ञे वां युवयोर्विमोचनं विमोचयितारं रथमर्वां-
+> चं यथार्वाग्भवति तथा युंजाथां । किंच मधुना स्वादुरसेन हवींषि पृंकतं ।
+> संयोजयतं । अथ चा गतं । अगच्छतं ॥ हि कमिति पूरणे ॥ अथानंतरं हे
+> वाजिनीवसू। वाज एव वाजिनी । अन्नेन वासयितारौ बलवर्धनौ वा सोमं पिबतं॥
+
+*Gist:* The Aśvins are asked to yoke their car, facing us, for this sacrifice; to mix the oblations with sweet juice; to come and drink the Soma.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Aśvinau — O Aśvin gods.) Adya — at this time of the sacrifice. Yayyaṃ — that which moves about [as supplied]. Nṛvāhaṇaṃ — that which carries you, the leaders. Iha — in this sacrifice of ours. Vāṃ — you. Vimocanaṃ — that which sets down (brings and unloads). Rathaṃ — the car. Arvāṃcaṃ — so that it comes facing us. Yuṃjāthāṃ — yoke and make ready. Madhunā — with sweet juice. Havīṃṣi — the oblations. Pṛṃkaṃ [as supplied; the Saṃhitā and Pada read *pṛṃktaṃ*] — mix. Ā gataṃ hi — please come. Atha — afterwards. Vājinīvasū — O Aśvin gods, who give food and dwelling. Somaṃ — the Soma juice. Pibataṃ — drink.
+
+### Printed p. 328
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin gods, yoke and make ready, facing us, the car that moves about at this time of the sacrifice, that carries you the leaders, and that sets you down in this sacrifice of ours. Mix the oblations with sweet juice. After you have come here, O Aśvins, who give food and dwelling, drink the Soma juice.
+
+**Printed English translation**
+
+Yoke to-day, Ashwins, your rolling car, conveying (you), the leaders (of the rite) ; and setting you down before us : mix the oblations with the sweet juice : come, you are affluent with (abundant) food, and the Soma.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the Aśvin gods are asked to come to the sacrificial ground and drink the Soma offered by the sacrificer and others.
+
+अद्य (*adya*) —
+> अस्मिन्नहनि यज्ञे वा !
+
+> *asminnahani yajñe vā !*
+"On this day, or in the sacrifice we are now performing", is the meaning.
+
+नृवाहणं (*nṛvāhaṇaṃ*) —
+> नेत्रोर्युवयोर्वोढारं ।
+
+> *netroryuvayorvoḍhāraṃ |*
+The meaning is: that which carries you two, the Aśvin gods, the leaders of men, to our sacrificial ground. This word is an epithet of the word *rathaṃ*.
+
+इह नां विमोचनं रथं अर्वांचं युंजाथां (*iha nāṃ vimocanaṃ rathaṃ arvāṃcaṃ yuṃjāthāṃ*) [sic, as supplied; the Saṃhitā reads वां (*vāṃ*) for नां (*nāṃ*)] —
+> इह यज्ञे युवयोः
+> विमोचयितारं रथं यथा अर्वाक् भवति तथा युंजाथां ।
+
+> *iha yajñe yuvayoḥ*
+> *vimocayitāraṃ rathaṃ yathā arvāk bhavati tathā yuṃjāthāṃ |*
+O Aśvin gods, make ready, so that you come facing the sacrifice we are now performing and so that your car is brought and stopped before us and the horses unyoked; that is, turn your car towards the sacrifice so that it is convenient for it to come to our sacrificial ground, and yoke horses to your car so that this happens. This is the intended sense.
+
+वाजिनीवसू (*vājinīvasū*) — the word वाजः (*vājaḥ*) is read among the names of food (Ni. 3-9).
+> अन्नेन
+> वासयितारौ बलवर्धनौ वा ।
+
+> *annena*
+> *vāsayitārau balavardhanau vā |*
+"Those who nourish by giving food and the like to those who serve them", or "those who increase strength or power", is the meaning.
+
+O Aśvin gods, turn your car to face us and yoke the horses, so as to come to our sacrificial ground. Then come to our sacrificial ground and drink the sweet or tasty Soma juice. You are givers of food, or of strength, to those who worship you; such as you, drink Soma in our sacrifice. This is the main intention of this Ṛk.
+
 ---
 
-**Progress note:** Done through printed p. 325 (PDF 325). pp. 323-325: end of Sukta 37 Rk 3 (Bhavartha end, Special Topics on medyantu/vahni/dhisnya/vanaspati/ritu) and Rk 4 through Bhavartha and printed English; flags: fixed garbled Bhavartha label and software-generated image line (noted); supplied spellings kept as supplied
+**Progress note:** Done through printed p. 328 (PDF 328). pp. 326-328: Special Topics of Sukta 37 Rk 4 (all Sanskrit quotations in full) and Rk 5 through Special Topics; flags: kn.md Sanskrit quotations made > blocks, Samhita label/block fixed; supplied spellings (yayyam, nrvahanam, prnkam/prnktam, Si. 8-2, nam for vam) kept as supplied; 2 Samhita lines unaccented (spelling differs from reference)
