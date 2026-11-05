@@ -4788,6 +4788,108 @@ May Indra, who fulfils my wishes, gives what I desire, knows the worship perform
 
 Let not Indra vex me, or weary me, or make me slothful : never may we say (to another), do not offer the Soma libation : (for it is Indra)
 
+### Printed p. 153
+
+who will fulfil (my wishes), who will give (me riches), who will hear (my prayers), who will reward me, presenting libations, with cattle.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk only Indra is praised. मे पृणात् (*me pṛṇāt*) = may he fulfil my wishes; ददत् (*dadat*) = may he give the fruit desired; निबोधात् (*nibodhāt*) = may he know our praise or sacrifice; गोभिः सह उप आयत् (*gobhiḥ saha upa āyat*) = may he come with cows to me, who press the Soma, for our sake (दातवैः (*dātavaiḥ*)). The Ṛk describes Indra as one who fulfils the wishes of the sacrificer who performs the sacrifice, is the giver of fruit according to desire, knows the praises and comes to the sacrifices, and comes to the Soma sacrifices with cows that favour the sacrificer who presses the Soma juice. Having so described him, the sacrificer prays for Indra's grace: that Indra may not vex (न तमयतु (*na tamayatu*)), not weary (न ग्लपयतु (*na glapayatu*)), not make him tired (श्रांतं मा करोतु (*śrāṃtaṃ mā karotu*)), not make him slothful (न तंद्रयेत् (*na taṃdrayet*)): that no weariness arise, that he be not wearied, and that no sloth arise. इंद्रयागाय सोमं मा सुनोत इति न वो चाम (*iṃdrayāgāya somaṃ mā sunota iti na vo cāma*) and इंद्रयागाय सोमं मा अभिमणुत इति अन्यान् यजमानान् प्रति न ब्रवाम (*iṃdrayāgāya somaṃ mā abhimaṇuta iti anyān yajamānān prati na bravāma*): the wish is expressed that it may never happen that we go to other sacrificers who perform a sacrifice addressed to Indra and say, "Do not press the Soma juice for Indra."
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> सर॑स्वति॒ त्वम॒स्मा अ॑विड्डि म॒रुत्व॑ती धृष॒ती जे॑षि॒ शत्रू॑न् ।
+> त्यं चि॒च्छर्धं॑तं तविषी॒यमा॑ण॒मिंद्रो॑ हंति वृष॒भं शंडि॑कानां ॥
+
+**॥ पदपाठः ॥**
+
+> सरस्वति । त्वं । अस्मान् । अविड्डि । मरुत्वती । धृषती । जेषि । शत्रून् ।
+> त्यं । चित् । शर्धंतं । तविषीयमाणं । इंद्रः । हंति । वृषभं । शंडिकानां ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सरस्वति सरणवति देवि त्वमस्मान् स्तोत्यन् अविड्डि । रक्ष ॥ रक्षार्थस्यावते-
+> र्लेट्येतद्रूपं ॥ तथा मरुत्वती मरुद्भिर्युक्ता । मध्यमस्थाना हि वाक् सरस्वती
+> मरुतश्च मध्यमस्थानस्थाः । आतस्तद्वती सती धृषती धर्षयंती शत्रून् शातयित्स्यन्
+
+> *he sarasvati saraṇavati devi tvamasmān stotyan aviḍḍi | rakṣa ‖ rakṣārthasyāvate-*
+> *rleṭyetadrūpaṃ ‖ tathā marutvatī marudbhiryuktā | madhyamasthānā hi vāk sarasvatī*
+> *marutaśca madhyamasthānasthāḥ | ātastadvatī satī dhṛṣatī dharṣayaṃtī śatrūn śātayitsyan*
+
+### Printed p. 154
+
+> वैरिणो जेषि । जय ॥ जयतेश्चांदसः शपः श्लुः ॥ किंचायमिंध्रस्यं चित् तमप्य-
+> सुरं हंति । हतवान् ॥ व्यत्ययेन भूतार्थे लट् ॥ कीदृशं । शर्धंतं । प्रसहन-
+> शीलं ॥ शृधु प्रसहने ॥ तविषीयमाणं । तविषी बलमिवाचरंतं सर्वस्य भंजने
+> शक्तं । शंडिकानां । शंडामर्कावसुरपुरोहितौ । तै.सं. ६-४-१०-१। शंडवंश्यानां
+> मध्यॆ वृषभं प्रधानं ॥
+
+> *vairiṇo jeṣi | jaya ‖ jayateścāṃdasaḥ śapaḥ śluḥ ‖ kiṃcāyamiṃdhrasyaṃ cit tamapya-*
+> *suraṃ haṃti | hatavān ‖ vyatyayena bhūtārthe laṭ ‖ kīdṛśaṃ | śardhaṃtaṃ | prasahana-*
+> *śīlaṃ ‖ śṛdhu prasahane ‖ taviṣīyamāṇaṃ | taviṣī balamivācaraṃtaṃ sarvasya bhaṃjane*
+> *śaktaṃ | śaṃḍikānāṃ | śaṃḍāmarkāvasurapurohitau | tai.saṃ. 6-4-10-1| śaṃḍavaṃśyānāṃ*
+> *madhyè vṛṣabhaṃ pradhānaṃ ‖*
+
+Gist: O Sarasvatī, protect us; accompanied by the Maruts, bold, conquer the foes; Indra has slain that asura, the chief of the Śaṇḍikas, who is forceful and proud of his strength. Grammatical tail (lēṭ form of अवते (*avate*); the root शृधु (*śṛdhu*); the śap-luk of जि) noted without explanation; a Taittirīya Saṃhitā reference is printed as 6-4-10-1.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Sarasvatī—O goddess Sarasvatī; tvam—you; asmān—us, the praisers; avidḍi—protect; marutvatī—you who are joined with the Maruts; dhṛṣatī—who crush enemies; śatrūn—the enemies; jeṣi—conquer. Indraḥ—Indra; śardhantam—him of irresistible power; tavisīyamāṇam—who is proud of his strength; kaṃḍikānām [sic: as supplied; Saṃhitā has शंडिकानां (*śaṃḍikānāṃ*)]—of the Śaṇḍa lineage; vṛṣabham—the chief; tyaṃ cit—that asura; hanti—has slain [as printed: "ಕೊಂಡಿದ್ದಾನೆ"].
+
+**भावार्थ (Bhāvārtha)**
+
+O goddess Sarasvatī, protect us, your praisers. Joined with the Maruts and crushing enemies, conquer the enemies. At the same time Indra has killed the asura who has irresistible power, is proud of his strength, and is chief of the asuras of the Śaṇḍa lineage.
+
+**Printed English translation**
+
+Saraswati, protect us : associated with the Maruts, and firm (of purpose), overcome our foes, whilst Indra slays the chief of the Shandikas, defying him and confiding in his strength.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the first half of this Ṛk the goddess Sarasvatī is praised. सरस्वति (*sarasvati*)—the goddess who has motion (सरणवति देवि (*saraṇavati devi*)). Yāska has read the word सरस्वती (*sarasvatī*) among the names of speech (Nir. 2-23) and among the names of rivers (Nir. 2-24). And, quoting the Ṛk
+
+पावका नस्सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥ (*pāvakā nassarasvatī vājebhirvājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ ‖*) (the Saṃhitā reference is printed as पु. सं. १-३-१० (*pu. saṃ. 1-3-10*); the Kannada letters of the Ṛk are copied as supplied) 
+
+he explained the meaning सरस्वती—माध्यमिका वाक् (*sarasvatī—mādhyamikā vāk*) (Sarasvatī = the speech of the middle region). Here Sāyaṇa gives the meaning "the goddess who has motion", and explains that, addressing this goddess, protection for the praising sacrificers is prayed for from her.
+
+### Printed p. 155
+
+मरुत्वती—मरुद्भिर्युक्ता । मध्यमस्थाना हि वाक् सरस्वती मरुतश्च मध्यमस्थानस्थाः अतस्तद्वती (*marutvatī—marudbhiryuktā | madhyamasthānā hi vāk sarasvatī marutaśca madhyamasthānasthāḥ atastadvatī*). Because the speech-deity, who has the middle region as her place, is together with the Maruts, who are in the middle region, she is, like the Maruts, unconquerable by others; and शत्रून् जेषि—शातयित्वान् वैरिणः जय (*śatrūn jeṣi—śātayitvān vairiṇaḥ jaya*): it is wished that this goddess conquer the enemies of the sacrificers. In the second half Indra is praised.
+
+इंद्रः शर्धंतं तविषीयमाणं शंडिकानां वृषभं त्यं चित् हंति—प्रसहनशीलं बलमिवाचरंतं सर्वस्य भंजने शक्तं शंडिकानां प्रधानं असुरं हतवान् (*iṃdraḥ śardhaṃtaṃ taviṣīyamāṇaṃ śaṃḍikānāṃ vṛṣabhaṃ tyaṃ cit haṃti—prasahanaśīlaṃ balamivācaraṃtaṃ sarvasya bhaṃjane śaktaṃ śaṃḍikānāṃ pradhānaṃ asuraṃ hatavān*). Indra killed the asura called Śaṇḍa, chief of all the Śaṇḍa lineage, the priest of the asuras, who despises everyone because he has strength to destroy all; having said this, it is wished that this goddess conquer the enemies of the sacrificers. That those in the phrase शंडिकानां वृषभं असुरं (*śaṃḍikānāṃ vṛṣabhaṃ asuraṃ*) are born of the Śaṇḍa lineage is stated in बृहस्पतिर्देवानां पुरोहित आसीच्छडामर्कावसुराणां (*bṛhaspatirdevānāṃ purohita āsīcchaḍāmarkāvasurāṇāṃ*) (Taittirīya Saṃhitā 6-4-10-1; the text is as supplied).
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> यो नः॒ सनु॑त्य उ॒त वा॑ जिघ॒त्न्नुर॑भि॒ख्याय॒ तं ति॑गि॒तेन॑ विध्य ।
+> बृह॑स्पत॒ आयु॑धैर्जेषि॒ शत्रू॑न्द्र॒हे रीषं॑तं॒ परि॑ धेहि राजन् ॥
+
+**॥ पदपाठः ॥**
+
+> यः । नः । सनुत्यः । उत । वा । जिघत्नुः । अभिख्याय । तं । तिगितेन । विध्य ।
+> बृहस्पते । आयुधैः । जेषि । शत्रून् । द्रुहे । रिषंतं । परि । धेहि । राजन् ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते यो नोऽस्माकं सनुत्यः । सनुतरित्यंतर्हितनाम । अंतर्हिते
+> देशे भवश्चोरः ॥ सगर्भसयूथसनुताद्यत् ॥ उत वा अपि ना यो जिघत्न्नुर्जि-
+> फांसुर्भवति । तमभिख्याय संवीक्ष्य तिगितेन तीक्ष्णेनायुधेन विध्य । ताडय ।
+> तथास्मदीयान् शत्रून् आयुधैरायोधनसाधनैरिष्वादिभिर्जेषि । जय । तथा हे
+> राजन् राजमान बृहस्पते द्रुहे द्रोग्भे शत्रवे रिषंतं हिसंतं वज्रं परि धेहि ।
+> परितो धारये । प्रक्षिपेत्यर्थः ॥
+
+> *he bṛhaspate yo no 'smākaṃ sanutyaḥ | sanutarityaṃtarhitanāma | aṃtarhite*
+> *deśe bhavaścoraḥ ‖ sagarbhasayūthasanutādyat ‖ uta vā api nā yo jighatnnurji-*
+> *phāṃsurbhavati | tamabhikhyāya saṃvīkṣya tigitena tīkṣṇenāyudhena vidhya | tāḍaya |*
+> *tathāsmadīyān śatrūn āyudhairāyodhanasādhanairiṣvādibhirjeṣi | jaya | tathā he*
+> *rājan rājamāna bṛhaspate druhe drogbhe śatrave riṣaṃtaṃ hisaṃtaṃ vajraṃ pari dhehi |*
+> *parito dhāraye | prakṣipetyarthaḥ ‖*
+
+Gist: O Bṛhaspati, pierce with a sharp weapon the thief or killer who threatens us; conquer our enemies with weapons; hurl the thunderbolt around the hostile harmer.
+
 ---
 
-**Progress note:** Done through printed p. 152 (PDF 152). Sūkta 30 Ṛk 6 complete; Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha; printed English begun (continues on p. 153). Flags: Ṛk 6 Pada 'ಭಯಸ್ಥೇ'/'ಅಸ್ಮಾನ್' vs Saṃhitā 'अस्मै' (as supplied), 'ಶತ್ರೋಣಾಂ', 'ಕ್ರತುಂ ಕರ್ಮ ನಾ' as printed
+**Progress note:** Done through printed p. 155 (PDF 155). Sūkta 30 Ṛk 7 complete, Ṛk 8 complete, Ṛk 9 Saṃhitā, Pada, bhāṣya (Pratipadārtha etc. follow on p. 156). Flags: Ṛk 8 Pratipadārtha 'ಕಂಡಿಕಾನಾಂ' vs Saṃhitā 'ಶಂಡಿಕಾನಾಂ', 'ಇಂಧ್ರಸ್ಯಂ ಚಿತ್' in bhāṣya, Ṛk quotation 'ಪು. ಸಂ. ೧-೩-೧೦' as supplied; kn.md hand-fixed (stray image line removed, label restored)
