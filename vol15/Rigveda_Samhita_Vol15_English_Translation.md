@@ -8138,6 +8138,133 @@ Vājayuḥ—I, who desire food; īṃ vacasyām—this praise; upa asṛkṣi�
 
 Agni, famous as Apāṃ Napāt, enjoys praise with affection. Therefore I, desiring food, produce this praise. He who belongs to the sounding waters,
 
+### Printed p. 260
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 35, p. 260.*
+
+swift-moving, the grandson of the waters, may that Agni provide abundant food to me, his praiser.
+
+**Printed English translation**
+
+Desiring food, I put forth this laudatory hymn: may the sounding and swift-moving grandson of the waters bestow abundant food upon me his worshipper : may he make us of goodly appearance, for verily he is propitiated by praise.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> वाजयुः ईं वचस्यां उप आसृक्षि—अन्नमात्मन इच्छन्नहं एनां स्तोत्र-
+> स्येच्छां उत्पादयामि । अपां नपातं स्तोतुं प्रवृत्तः अस्मि ।
+
+> *vājayuḥ īṃ vacasyāṃ upa āsṛkṣi—annamātmana icchannahaṃ enāṃ stotra-*
+> *syecchāṃ utpādayāmi | apāṃ napātaṃ stotuṃ pravṛttaḥ asmi |*
+
+The seer of the mantra says that, desiring to obtain food, he will praise the deity named Apāṃ Napāt, who bestows food upon him.
+
+> स च नाद्यः आशुहेमा अपां नपात्—सः शब्दकारिणीनां मेघस्थानामपां
+> संबंधी, शीघ्रंगंता, अपां पौत्रस्थानीयः अद्भ्य ओषधिवनस्पतयो जायंते
+> ओषधिवनस्पतिभ्यो एष अग्निः जायते इति तत्पौत्रत्वं ।
+
+> *sa ca nādyaḥ āśuhemā apāṃ napāt—saḥ śabdakāriṇīnāṃ meghasthānāmapāṃ*
+> *saṃbaṃdhī, śīghraṃgaṃtā, apāṃ pautrasthānīyaḥ adbhya oṣadhivanaspatayo jāyaṃte*
+> *oṣadhivanaspatibhyo eṣa agniḥ jāyate iti tatpautratvaṃ |*
+
+This deity Apāṃ Napāt is connected with the waters in the sounding clouds that are filled with water; that is, he is the son's son of the waters. For this reason the deity has received the name Apāṃ Napāt. Plants and trees arise from the waters, and Agni arises from these plants and trees; so Agni is regarded as the grandson of the waters; thus it is explained.
+
+In explaining the word अपां नपात् (*apāṃ napāt*) the Nirukta authors say अपांनपात् (*apāṃnapāt*) is explained like तनूनप्रा (*tanūnaprā*) व्याख्यातः (*vyākhyātaḥ*) (Ni. 10-18) [as supplied]. The word तनूनपात् (*tanūnapāt*) is explained in two senses: अज्यमिति कात्थक्यः अग्निरिति शाकपूणिः (*ajyamiti kātthakyaḥ agniriti śākapūṇiḥ*) (Ni. 8-5) [as supplied]. Following the view of the teacher Śākapūṇi, the meaning of तनूनपात् (*tanūnapāt*), namely Agni, is taken over by the word अपां नपात् (*apāṃ napāt*); thus it is explained.
+
+> गिरः मे कुवित् चनः दधीत—एतत्संज्ञको देवः। गृणातीति गीर् स्तोता। तस्य
+> बहुलं अन्नं विदधातु ।
+
+> *giraḥ me kuvit canaḥ dadhīta—etatsaṃjñako devaḥ| gṛṇātīti gīr stotā| tasya*
+> *bahulaṃ annaṃ vidadhātu |*
+
+The word गिरः (*giraḥ*), formed from the root गृ (*gṛ*) meaning "to utter words", is used in the sense of one who recites stanzas (the praiser). And it is prayed that this deity Apāṃ Napāt bestow abundant food on the one who praises him.
+
+### Printed p. 261
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 22, p. 261.*
+
+> जोषिषत् सुपेशसः करति—अस्मान् शोभनरूपान् शोभनालंकारान् वा
+> करोतु । अयं देवः स्तोत्राणि सेवते तस्मादस्मानेवमनुगृह्णातु ।
+
+> *joṣiṣat supeśasaḥ karati—asmān śobhanarūpān śobhanālaṃkārān vā*
+> *karotu | ayaṃ devaḥ stotrāṇi sevate tasmādasmānevamanugṛhṇātu |*
+
+The word जोषिषत् (*joṣiṣat*) is used in the sense of one who hears the praises and is pleased; therefore it is prayed that this deity make us, who recite the praises, possessed of an excellent form or of auspicious ornaments.
+
+The word जनक (*janaka*) [as supplied] is cited by Yāska in the verse:
+
+> अद्धीदिंद्र प्रस्थितेमा हवींषि चनो दधिष्ट पचतोत सोमं ।
+> प्रयस्वंतः प्रति हर्यामसि त्वा सत्याः संतु यजमानस्य कामाः ॥
+
+> *addhīdiṃdra prasthitemā havīṃṣi cano dadhiṣṭa pacatota somaṃ |*
+> *prayasvaṃtaḥ prati haryāmasi tvā satyāḥ saṃtu yajamānasya kāmāḥ ‖*
+
+(Ṛ. Saṃ. 10-116-8)
+
+On this verse it is explained: चन इत्यन्न नाम (*cana ityanna nāma*) (Ni. 6-16) [as supplied], "caná is a name of food". The word कुवित् (*kuvit*) is included among the many-names (Ni. 3-13). Here the meaning बहुलं (*bahulaṃ*) is given.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> इ॒मं स्व॑स्मै हृ॒द आ सुत॑ष्टं॒ मंत्रं॑ वोचेम कु॒विद॑स्य॒ वेद॑त् ।
+> अ॒पां नपा॑दसु॒र्य॑स्य म॒ह्ना विश्वा॑न्य॒र्यो भुव॑ना जजान ॥ २ ॥
+
+> *imaṃ svasmai hṛda ā sutaṣṭaṃ maṃtraṃ vocema kuvidasya vedat |*
+> *apāṃ napādasuryasya mahnā viśvānyaryo bhuvanā jajāna ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> इमं । सु । अस्मै । हृदः । आ । सुतष्टं । मंत्रं । वोचेम । कुवित् । अस्य । वेदत् ।
+> अपां । नपात् । असुर्यस्य । मह्ना । विश्वानि । अर्यः । भुवना । जजान ॥ २ ॥
+
+> *imaṃ | su | asmai | hṛdaḥ | ā | sutaṣṭaṃ | maṃtraṃ | vocema | kuvit | asya | vedat |*
+> *apāṃ | napāt | asuryasya | mahnā | viśvāni | aryaḥ | bhuvanā | jajāna ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्मा अपांनपात्संज्ञकाय देवाय हृदो, हृदयात् सुतष्टं सुष्टु
+> निर्मितमिमं मंत्रं सुष्टु आभिमुख्येन वोचेम । ब्रवाम । आस्यास्माभिरुक्त-
+> मिमं मंत्रं कुविद्वेदत् । बहुलं जानातु ॥ वेत्तेर्लॆट्यडागमः । निपातैर्य-
+> द्यदिहंतेति निघातप्रतिषेधः ॥ किं स्तोत्रमिति चेदुच्यते । आर्यः स्वाम्यपांनपा
+
+*Gist:* We address to Apāṃ Napāt this well-made hymn from the heart; may he fully know it. [The bhāṣya continues on the next page.]
+
+### Printed p. 262
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 35, p. 262.*
+
+> त्संज्ञको वैद्युतोऽग्निरसुर्यस्य । असुरः शत्रून् क्षेप्ता । तस्य स्वभूतस्य बलस्य
+> मह्ना महिम्ना महत्वेन विश्वानि सर्वाणि भुवना भुवनानि वृष्ट्युदकानि वृष्टु-
+> त्पादनेन भूतजातानि वा जजान । जनयामास ॥
+
+*Gist:* the lord, the lightning Agni called Apāṃ Napāt, whose strength hurls down enemies, by that might has produced all beings (or the rain-waters, by causing rain).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अस्यै (*asyai*)—for offering to Agni, named Apāṃ Napāt; हृदः (*hṛdaḥ*)—from the heart (sincerely); सुतष्टं (*sutaṣṭaṃ*)—excellently fashioned; इमं मंत्रं (*imaṃ maṃtraṃ*)—this mantra, which is of the nature of praise; सु (*su*)—exceedingly; आ वोचेम (*ā vocema*)—we recite, standing facing him; अस्य (*asya*)—this mantra; कुवित् (*kuvit*)—fully; वेदत् (*vedat*)—may (Agni) know; आर्यः (*āryaḥ*)—the lord; अपां नपात् (*apāṃ napāt*)—Agni named Apāṃ Napāt; असुरस्य (*asurasya*)—of his strength, which defeats enemies; मह्ना (*mahnā*)—by the greatness; विश्वानि (*viśvāni*)—all; भुवना (*bhuvanā*)—beings; जजान (*jajāna*)—created.
+
+*॥ ಭಾನುವಾರ ॥* (printed between the Pratipadārtha and the Bhāvārtha, apparently "Sunday"; no explanation is given in the supplied text.)
+
+**भावार्थ (Bhāvārtha)**
+
+I recite this mantra, sincerely and excellently composed and of the nature of praise, standing before Agni, in order to offer it to him. May Agni know this mantra fully. Agni, the lord, named Apāṃ Napāt, by the greatness of his strength that defeats enemies, created all beings.
+
+**Printed English translation**
+
+Let us address to him the prayer that is conceived in our hearts, and may he fully understand (its purport); for he the lord, the grandson of the waters, has generated all beings by the greatness of his might.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> आर्यः असुर्यस्य मह्ना विश्वानि भुवना जजान—स्वामी अपां नपात्संज्ञ-
+> को वैद्युतोग्निः असुरः शत्रुन् क्षेप्ता । तस्य स्वभूतस्य बलस्य महत्वेन सर्वाणि
+> वृष्टु दकानि वृष्टुत्पादनेन भूतजातानि वा जनयामास ।
+
+> *āryaḥ asuryasya mahnā viśvāni bhuvanā jajāna—svāmī apāṃ napātsaṃjña-*
+> *ko vaidyutogniḥ asuraḥ śatrun kṣeptā | tasya svabhūtasya balasya mahatvena sarvāṇi*
+> *vṛṣṭu dakāni vṛṣṭutpādanena bhūtajātāni vā janayāmāsa |*
+
+The word आर्य (*ārya*) is stated among the names of the lord (Ni. 3-11). The word अपां नपात् (*apāṃ napāt*) is explained as the lightning Agni. This Agni is the master of all and destroys enemies. Therefore this deity, by the greatness of his natural might, creates the rain-waters, and by those rain-waters creates all living beings; thus it is explained.
+
 ---
 
-**Progress note:** Done through printed p. 259 (PDF 259). Sūkta 34 Ṛk 15 bhāṣya to Special Topics complete; Sūkta 35 begins, Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (ends mid-sentence at p. 259); kn.md fixes: labels, Pratipadārtha/Bhāvārtha un-quoted, Special Topics Sanskrit blocks, stray '17' removed, garbled varga mark kept as italic note, Pada label restored; no [?]
+**Progress note:** Done through printed p. 262 (PDF 262). Sūkta 35 Ṛk 1 Bhāvārtha, English, Special Topics complete; Ṛk 2 complete (p. 262); kn.md fixes: Special Topics Sanskrit made blocks, bhāṣya block split across pages kept as two blocks, label 'English Translation-' fixed, Bhāvārtha label inserted, '॥ ಭಾನುವಾರ ॥' kept as italic note; supplied 'ಜನಕ' (p. 261) and Nirukta quote 'ತನೂನಪ್ರಾ' kept as supplied; no [?]
