@@ -16257,6 +16257,112 @@ From such explanations the nature of the description of Agni's three births is c
 > *śukrebhiḥ | aṃgaiḥ | rajaḥ | ātatanvān | kratuṃ | punānaḥ | kavibhiḥ | pavitraiḥ |*
 > *śociḥ | vasānaḥ | pari | āyuḥ | apāṃ | śriyaḥ | mimāte | bṛhatīḥ | anūnāḥ ‖ 5 ‖*
 
+### Printed p. 513
+
+*[Running head, p. 513: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> अग्निः शुक्रेभिः शुक्रैरंगैस्तेजोभी रजोऽंतरिक्षमाततन्वान् आतन्वन्
+> व्याप्नुवन् क्रतुं कर्मणां कर्तारं यजमानं कविभिः क्रांतप्रज्ञैः स्तोतवैर्वा
+> पवित्रैः शोधकैस्तेजोभिः पुनानः शोधयन् शोचिर्दिप्तिं वस्त्रस्थानीयं परि
+> परितो वसान आच्छादयन् अपामपस्यतां कर्मवतामायुरन्नं बृहतीः प्रभूता
+> अनूनाः संपूर्णाः श्रियः संपदश्च मिमिते । करोति ॥
+
+*(Gist: Agni, pervading the atmosphere with bright flames, purifying the sacrificer with purifying lights, clothing himself in radiance, provides the workers with food and abundant undiminished wealth.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Agniḥ: Agni.) Śukrebhiḥ: with shining. Aṅgaiḥ: lights. Rajaḥ: the atmosphere. Ātatanvān: pervading. Kratuṃ: the sacrificer who does the rite. Kavibhiḥ: venerable. Pavitraiḥ: and purifying lights. Punānaḥ: purifying. Śociḥ: radiance. Pari: all around. Vasānaḥ: spreading like a garment. Apāṃ: to the workers. Āyuḥ: food. Bṛhatīḥ: abundant. Anūnāḥ: complete. Śriyaḥ: riches. Mimāte: he provides.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, pervading the atmosphere with shining lights, purifying the sacrificer who does the rite with venerable and purifying lights, spreading his radiance all around like a garment, provides the workers with food and with abundant, complete riches.
+
+**Printed English translation**
+
+Spreading through the firmament with shining limbs, sanctifying the rite with intelligent and purifying (energies), and clothed with radiance, he bestows upon the worshipper abundant food and great and undiminished prosperity.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the illustration शोचिः वसानः परि (*śociḥ vasānaḥ pari*) is stated. As a cloth completely covers an object, Agni pervades everything with his radiance and purifies it; so it is said. For the sense of the word रजसः (*rajasaḥ*) as the atmospheric world Yāska cites—
+
+एता उ त्या उषसः केतुमक्रत पूर्वे अह्ने रजसो भानुमंजते । (*etā u tyā uṣasaḥ ketumakrata pūrve ahne rajaso bhānumaṃjate |*)
+(Ṛ. Saṃ. 1-92-1)
+
+*[Stray line in the supplied text: "33", kept as a note in kn.md.]*
+
+### Printed p. 514
+
+*[Running head, p. 514: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+—and he has given the etymology अंतरिक्षलोकस्य (*aṃtarikṣalokasya*) for the word रजसः (*rajasaḥ*) in it (Ni. 12-7). The word क्रतु (*kratu*) is read among the names of rites (Ni. 3-1). The commentator explains it here as the sacrificer who does the rite, and the word अपां (*apāṃ*) as "to the workers"; the word अपः (*apaḥ*) too is read among the names of rites (Ni. 3-1). आयुः— (*āyuḥ—*) since the word आयुः (*āyuḥ*) is read among the names of food, it means food (Ni. 3-6).
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> व॒व्याजा॑ सी॒मन॑दती॒रद॑ब्धा दि॒वो य॒ह्वीरव॑साना॒ अन॑ग्नाः ।
+> सना॒ अत्र॑ युव॒तयः॒ सयो॑नी॒रेकं॒ गर्भं॑ दधिरे स॒प्त वाणीः॑ ॥ ६ ॥
+
+> *vavyājā sīmanadatīradabdhā divo yahvīravasānā anagnāḥ |*
+> *sanā atra yuvatayaḥ sayonīrekaṃ garbhaṃ dadhire sapta vāṇīḥ ‖ 6 ‖*
+
+*[The supplied text has before the Pada a garbled label "॥ ಪದಸಾರ ॥", kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> वप्राज । सीं । अनदतीः । अदब्बाः । दिवः । यह्वीः । अवसानाः । अनग्नाः ।
+> सनाः । अत्र । युवतयः । सयोनीः । एकं । गर्भं । दधिरे । सप्त । वाणीः ॥ ६ ॥
+
+*(The Pada is printed ವಪ್ರಾಜ and ಅದಬ್ಬಾಃ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> आनदतीरभक्षयंतीरदब्बा अहिंसिता मातृभूता अपोऽग्निः सीं सर्वतो
+> वव्राज । व्रजति । अग्निरपां शोषकः तं चापः शमयंति तदुभयमिह नास्तीत्युक्तं
+> भवति । कीदृश्यस्ताः । दिवो यह्वीः । अंतरिक्षस्यापत्यभूताः । अवसानाः । वस्त्रमनाच्छादयंत्यः । वस्त्रस्थानीयस्य जलस्य विद्यमानत्वात् । अत एवानाग्नाः । किंच ता अपि
+> सनाः सनातन्यो युवतयो नित्यतरुण्यः । नित्यवृद्धा इत्यर्थः । सयोनीः समानमंतरिक्षं स्थानं यासां ताः सप्त वाणीर्नद्य एकमग्निं गर्भं गर्भस्थं दधिरे ।
+> दधते ॥
+
+*(Gist: Agni goes all around the unconsuming, unharmed waters; they are children of the atmosphere, clothed yet not naked, ever young; seven rivers of one source bear Agni as their embryo. Hyphenated line breaks were joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Agniḥ: Agni.) Divaḥ: to the atmosphere. Yahvīḥ: children, not clothed, yet not naked. Avasānāḥ: not wearing garments. Anagnāḥ: (yet) not naked. Anadatīḥ: not eating (Agni). Adabbāḥ: unharmed (by Agni), the waters. Sīṃ: all around.
+
+### Printed p. 515
+
+*[Running head, p. 515: Aṣṭaka 2, Adhyāya 8, Varga 14, Ṛgvedasaṃhitā; merged into p. 514 in the supplied text because the head is misprinted मुग्वेदसंहिता (*mugvedasaṃhitā*); the page marker and heading were inserted by hand and p. 515 added to the window.]*
+
+Vavrāja: goes and joins. Atra: here. Sanāḥ: ancient. Yuvatayaḥ: ever youthful. Sayonīḥ: having one source, the atmosphere. Sapta: seven in number. Vāṇīḥ: rivers. Ekaṃ: the one Agni. Garbhaṃ: as their embryo (in the womb). Dadhire: bore.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni goes around and joins the waters, children of the atmosphere, not wearing garments yet not naked, not consuming Agni, unharmed by Agni. The ancient, ever youthful rivers, seven in number, having one source, the atmosphere, bore the one Agni as their embryo (in the womb).
+
+**Printed English translation**
+
+Agni everywhere repairs to the undevouring, undevoured (waters); the vast (offspring) of the firmament, not clothed, yet not naked, seven eternal, ever youthful rivers, sprung from the same source, received Agni as their common embryo.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is not easy to understand. Since it consists of difficult words and obscure explanations, it must be explained so that the intent fits.
+
+⟦ದಿವಃ ಯಹ್ವೀಃ ಅವಸಾನಾಃ ಅನಗ್ನಾಃ ಅನದತೀಃ ಅದಬ್ಬಾಃ ಸೀಂ ವವ್ರಾಜ—ಅಭಕ್ಷಯಂತೀಃ
+ಅಹಿಂಸಿತಾ ಮಾತೃಭೂತಾಃ ಅಪಃ ಅಗ್ನಿಃ ಸರ್ವತಃ ವ್ರಜತಿ ।⟧ Since burning is the very nature of Agni, no object around Agni escapes harm from him. But here the word अदब्बाः (*adabbāḥ*) indicates that the waters suffer no harm at all from Agni. Likewise, since Agni burns everything, he is said to be the devourer of all. But here Agni does not devour the waters; that is, the waters do not dry up through Agni's great heat. Moreover, the waters have the nature of quenching and calming Agni; yet no kind of trouble comes to Agni from the waters. Therefore Agni and the waters are gentle towards each other. And they describe the nature of these waters still more clearly: दिवः यह्वीः (*divaḥ yahvīḥ*) means अंतरिक्षस्यापत्य भूताः (*aṃtarikṣasyāpatya bhūtāḥ*), those who are like children of the atmosphere. How? Clouds full of water gather together in the atmosphere. From these clouds the waters fall to the earth as rain and flow as rivers. Since the waters thus originate (fall) from the atmosphere, it is natural to call them the offspring or children of the atmosphere
+
+### Printed p. 516
+
+*[Running head, p. 516: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+. And अवसानाः अनग्नाः (*avasānāḥ anagnāḥ*): here a mutual contradiction, "though without garments, not naked", is indicated. In the sense "without garments", since the very nature of clouds is watery, they have neither a garment nor any other kind of covering; that is, since in the clouds there are only waters and no other covering, these waters are described here as without garments. To say that they are not naked, though without garments, is a mutual contradiction. But although what is in the clouds is water itself, that water does not look like water to our eyes. It looks like a cloud, separate from water; that is, since the water is not seen, some covering must be covering it. But the water in the form of clouds has no covering. Yet the waters are not seen in their natural state. Since it appears that, because they are not visible to the eye, something hiding them must exist, it is said here that those waters are not naked. The main intent is that Agni pervades such waters in every way.
+
+सीं— (*sīṃ—*) on this word Yāska says सीमिति परिग्रहार्थियो वा पदपूरणो वा (*sīmiti parigrahārthiyo vā padapūraṇo vā*) (Ni. 1-7): that is, the word सीं (*sīṃ*) is used in the sense of "taking all around" or for filling out the pāda. Since there is the explanation अथ परिग्रहार्थीयं सर्वमेव परिगृह्णाति सर्वत इति वा (*atha parigrahārthīyaṃ sarvameva parigṛhṇāti sarvata iti vā*), if it is in the sense of "taking all around", it means everything or in all places.
+
+⟦ಸನಾಃ ಯುವತಯಃ ಸಯೋನೀಃ ಸಪ್ತ ವಾಣೀಃ ಏಕಂ ಗರ್ಭಂ ದಧಿರೇ—ಸನಾತನ್ಯಃ ನಿತ್ಯವೃ
+ದ್ದಾ ಸಮಾನಯೋನೀಃ ಸಪ್ತ ನದ್ಯಃ ಅಗ್ನಿಂ ಗರ್ಭಸ್ಥಂ ದಧತೇ ।⟧ Some words of this sentence need explanation. सनातन्यः (*sanātanyaḥ*): these rivers have existed from very ancient times; they are not recent. युवतयः (*yuvatayaḥ*): they are in an ever-increasing state. Because they are full of abundant waters, they are called increasing ones, and because they are not in the decaying state that denotes the alteration of age, but are always, that is every year, increasing, these rivers are called young women. सयोनीः (*sayonīḥ*): योनि (*yoni*) is the place of origin; सयोनि (*sayoni*) is a common place of origin. Though the rivers are different, they all have one place of origin, the atmosphere. The waters that fall from the atmosphere as rain flow as many rivers; since the atmosphere is the source of the waters of many rivers, it is said here सयोनीः (*sayonīḥ*). वाणीः (*vāṇīḥ*)—आपो वा वहनात् (*āpo vā vahanāt*) (Ni. 6-2): flowing water, that is a river, is called वाणी (*vāṇī*). सप्त (*sapta*) means seven. Although the main and great rivers are indicated here by the number seven, the word सप्त (*sapta*) must be explained as many or principal rivers. The main intent is that such principal rivers bore the one Agni in their womb. Because the word एकं (*ekaṃ*) is used here, how did seven separate rivers bear the one Agni in their womb? Because Agni is one
+
 ---
 
-**Progress note:** Done through printed p. 512 (PDF 512). Sukta 1 (Mandala 3) Rik 4 Special Topics finished (pp. 510-512): the seven rivers, word notes, Agni's three births with Rik citations and Brihaddevata; Rik 5 Samhita and Pada at end of p. 512. Flags: Mi. Sam. printed for Ri. Sam. 1-95-3; Rik 5 Samhita lacks closing number; ornament line kept as note; 1 accent DIFF
+**Progress note:** Done through printed p. 516 (PDF 516). Sukta 1 (Mandala 3) Rik 5 complete (pp. 513-514); Rik 6 complete through printed English and Special Topics (pp. 514-516), ends mid-sentence at 'Agni is one'. p. 515 merged into p. 514 (misprinted head), marker inserted by hand. Flags: garbled Pada label kept as note; stray line 33; 1 accent DIFF
