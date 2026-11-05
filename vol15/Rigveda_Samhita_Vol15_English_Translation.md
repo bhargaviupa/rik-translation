@@ -24147,6 +24147,112 @@ Some words in this Ṛk require explanation. For the word sadhastha Yāska state
 
 *[The window ends here, at the end of p. 781, at the end of the Ṛk 4 Special Topics; the next window continues.]*
 
+### Printed p. 782
+
+*[Running head, p. 782: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 6.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> व्र॒ता ते॑ अग्नि मह॒तो म॒हानि॒ तव॒ क्रत्वा॒ रोद॑सी॒ आ त॑तंथ ।
+> त्वं दू॒तो अ॑भवो॒ जाय॑मान॒स्त्वं ने॒ता वृ॑षभ चर्षणी॒नां ॥ ५ ॥
+
+> *vratā te agni mahato mahāni tava kratvā rodasī ā tataṃtha |*
+> *tvaṃ dūto abhavo jāyamānastvaṃ netā vṛṣabha carṣaṇīnāṃ ‖ 5 ‖*
+
+*[The supplied text has before the Pada a garbled label "१ पवनाथ ॥ (*1 pavanātha ‖*)" (for Pada-pāṭha), kept as a note in kn.md; it stood inside the Saṃhitā block, which was split.]*
+
+**॥ पदपाठः ॥**
+
+> व्रता । ते । अग्ने । महतः । महानि । तव । क्रत्वा । रोदसी इति । आ । ततंथ ।
+> त्वं । दूतः । अभवः । जायमानः । त्वं । नेता । वृषभ । चर्षणीनां ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने महतः सर्वोत्कृष्टस्य ते तव व्रता व्रतानि त्वत्संबंधीनि कर्माणि
+> महानि महांति भवंति । तव क्रत्वा क्रतुना प्रकाशेन रोदसी द्यावापृथिव्यावाततंथ।
+> विस्त्रतवानसि । त्वं दूतोऽभवः । भव । हे वृषभ वर्षणशील त्वं जायमानः सन्
+> चर्षन्णीनां यजमानानां नेतासि । फलप्रापकोऽसि ॥
+
+*(Gist: O Agni, great are your works; by your power you have extended heaven and earth; you became the messenger when born; you are the leader of men, bull of the people.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Mahataḥ: of the most excellent. Te: your. Vratā: the works in the form of rites. Mahāni: are of great nature. Tava: your. Kratvā: by the radiance in the form of kratu. Rodasī: heaven and earth. Ā tataṃtha: you have made them extend and grow. Tvaṃ: you. Dūtaḥ: as the messenger of the gods. Abhavaḥ: have become (printed "आगिरु (*āgiru*)"). Vṛṣabha: O Agni, giver of desired aims. Tvaṃ: you. Jāyamānaḥ (san): as soon as born. Carṣaṇīnāṃ: for the human sacrificers. Netā: you are the leader who brings the fruit.
+
+*[The label "भावार्थ (*bhāvārtha*) U" (garbled for Bhāvārtha) is kept as a note in kn.md; the standard label is inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, your works in the form of rites, you who are the most excellent, are of great nature. By your radiance in the form of kratu you have made heaven and earth extend and grow. Be the messenger of the gods. O Agni, giver of desired aims, as soon as you are born you are the leader who brings the fruit to the human sacrificers.
+
+### Printed p. 783
+
+*[Running head, p. 783: Aṣṭaka 2, Adhyāya 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+**Printed English translation**
+
+Great, Agni, are the deeds of you the mighty one : you have spread abroad by your power, the heaven and earth; you have been the messenger of the gods) ; as soon as begotten, you have become the leader of men.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is easy, without difficult words or doubtful matters described. Only the ordinary qualities of Agni are described. O Agni, your works, that is, the many works such as your carrying, as messenger of the gods, the oblations offered by men through you in sacrifices to the gods, are full of greatness; that is, these works cannot be done by others. By your extraordinary works and by your radiance, heaven and earth attain growth. Besides offering the oblation to the gods as their messenger, you, installed on the sacrificial altar, guide the sacrificers who perform the sacrifice and obtain their desired aims for them; this is the chief purport of this Ṛk.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒तस्य॑ वा के॒शिना॑ यो॒ग्य्याभि॑र्घृत॒स्नुवा॒ रोहि॑ता धु॒रि धि॑ष्ट ।
+> अथा व॑ह दे॒वान्दे॑व॒ विश्वा॑न्तस्वध्व॒रा कृ॑णुहि जातवेदः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> ऋतस्य । वा । केशिना । योग्य्याभिः । धृतस्नुना । रोहिता । धुरि । धिष्व ।
+> अथ । आ । वह । देवान् । देव । विश्वान् । सुअध्वरा । कृणुहि । जातवेदः ॥ ६ ॥
+
+> *ṛtasya | vā | keśinā | yogyyābhiḥ | dhṛtasnunā | rohitā | dhuri | dhiṣva |*
+> *atha | ā | vaha | devān | deva | viśvān | suadhvarā | kṛṇuhi | jātavedaḥ ‖ 6 ‖*
+
+*(The Pada has योग्य्याभिः (*yogyyābhiḥ*) and धृतस्नुना (*dhṛtasnunā*), against योग्य्याभिर् (*yogyyābhir*) and घृतस्नुवा (*ghṛtasnuvā*) in the Saṃhitā and bhāṣya, and धिष्व (*dhiṣva*) against धिष्ट (*dhiṣṭa*), as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देव केशिना प्रशस्तकेशवंतौ योग्याभिर्योजनसाधनभूताभी रज्जुभिर्युक्तौ धृतस्सुवा धृतं क्षरंतौ रोहिता रोहितावश्वौ ऋतस्य यज्ञस्य ॥ वाशब्दश्चार्थे ॥ धुरि च धिष्व । धेहि । योजयेत्यर्थः । आथानंतरं विश्वान् सर्वान्देवान्
+
+> *he deva keśinā praśastakeśavaṃtau yogyābhiryojanasādhanabhūtābhī rajjubhiryuktau dhṛtassuvā dhṛtaṃ kṣaraṃtau rohitā rohitāvaśvau ṛtasya yajñasya ‖ vāśabdaścārthe ‖ dhuri ca dhiṣva | dhehi | yojayetyarthaḥ | āthānaṃtaraṃ viśvān sarvāndevān*
+
+### Printed p. 784
+
+*[Running head, p. 784: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 6.]*
+
+*[The bhāṣya continues from the previous page:]*
+
+> रथे समारोप्य आ वह । हे जातवेदः तान् स्वध्वरा स्वध्वरान् शोभनाध्वरान्
+> कृणुहि कुरु ॥
+
+*(Gist: O Agni, yoke to the sacrifice's front your long-maned, ruddy horses with ropes, ghee-sleek; then bring all the gods in the chariot and make our sacrifices fair.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Deva: O shining Agni. Keśinā: the horses with praised manes. Yogyābhiḥ: provided with fitting (ropes). Ghṛtasnunā (printed धृतस्सुना (*dhṛtassunā*)): with bodies smooth as ghee. Rohitā: of ruddy colour. Ṛtasya: of the sacrifice. Dhuri: in the front. Dhiṣṭva (printed so): yoke (them). Atha: afterwards. Viśvān: all. Devān: the gods. Ā vaha: seat them in the chariot and bring them. Jātavedaḥ: O Agni, of born wisdom. Svadhvarā: the fair sacrifices. Kṛṇuhi: make (make the sacrifices fair).
+
+*[The label "॥ भवार्थ ॥ (*‖ bhavārtha ‖*)" (garbled for Bhāvārtha) is kept as a note in kn.md; the standard label is inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O shining Agni, yoke in the front of the sacrifice the horses with praised manes, provided with fitting ropes, with bodies smooth as ghee, and of ruddy colour. Afterwards seat all the gods in the chariot and bring them. O Agni, of born wisdom, make the sacrifices fair (make the sacrifices be fair).
+
+**Printed English translation**
+
+Harness with traces, to your car, your long-maned, ruddy (steeds, to come) to the sacrifice : bring hither, divine Jatavedas, all gods, and make them propitious to the oblation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+देव केशिना योग्याभिः धृतस्नुवा रोहिता ऋतस्य धुरि धिष्य (*deva keśinā yogyābhiḥ dhṛtasnuvā rohitā ṛtasya dhuri dhiṣya*) (printed धिष्य (*dhiṣya*)): since the hair on the neck is an ornament of horses, the horses of Agni's chariot are here described by the word केशिना (*keśinā*). Yāska, explaining the various vehicles of the gods, has stated the derivation that rohita is the name of Agni's vehicle, the horse: रोहितोSग्नेः (*rohitoSgneḥ*), "the red horse is Agni's vehicle" (Ni. 2-28). The word ṛta has the meanings truth and sacrifice; here it is used in the sense of sacrifice. Therefore, O shining Agni, to make your chariot ready to come towards our sacrifice, harness to the yoke of your chariot the dusky red horses, charming with thick manes on the neck, provided with ropes or bridles, and beautiful to look at with the bodily lustre smooth as ghee; this is the chief purport of this sentence.
+
+*[The window ends here, at the end of p. 784; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 781 (PDF 781). Sūkta 6 Ṛk 3 Special Topics end; Ṛk 4 (full) and Special Topics (sapatnī, sabardughe, dhenū; Ni. 3-15, 2-23)
+**Progress note:** Done through printed p. 784 (PDF 784). Sūkta 6 Ṛk 5 (full) and Special Topics; Ṛk 6 (full) and Special Topics (Agni's ruddy horses; Ni. 2-28)
