@@ -14884,6 +14884,82 @@ As stated in this story, the Triṣṭubh metre also tried to bring soma from he
 ⟦ಶಿಕ್ಷಮಾಣಸ್ಯ ದೇವೇತಿ ಶಿಕ್ಷತೇ ನಾ ಏಷ ಯೋ ಯಜತೇ ಕ್ರತುಂ ದಕ್ಷಂ ವರುಣ ಸಂಶಿಶಾಧೀತಿ
 ವೀರ್ಯಂ ಪ್ರಜ್ಞಾನಂ ವರುಣ ಸಂಶಿಶಾಧೀತ್ಯೇವ ತದಾಹ ।⟧
 
+### Printed p. 469
+
+*[Running head, p. 469: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+As long as the soma plants are tied with a rope and covered with a cloth, it is thought of as being in Varuṇa's possession. Now, by removing the bond and taking off the cloth, Varuṇa is besought. In so beseeching him, the Hotṛ, by reciting this mantra, prays to Varuṇa: O Varuṇa, give right understanding to this sacrificer who is performing the sacrifice; give keenness of the senses, the capacity to perform the sacrifice, and knowledge.
+
+⟦ಯಯಾತಿ ವಿಶ್ವಾ ದುರಿತಾ ತರೇಮ ಸುತರ್ಮಾಣಮಧಿ ನಾವಂ ರುಹೇಮೇತಿ ಯಜ್ಞೋ ವೈ
+ಸುತರ್ಮಾ ನೌಃ ಕೃಷ್ಣಾಜಿನಂ ವೈ ಸುತರ್ಮಾ ನೌವಾಗ್ನೈ ಸುತರ್ಮಾ ನೌರ್ವಾಚಮೇವ
+ತದಾರುಹ್ಯ ತಯಾ ಸ್ವರ್ಗಂ ಲೋಕಮಭಿ ಸಂತರತಿ ।⟧
+
+Here the boat is the sacrifice; the black-antelope skin used for consecration in the sacrifice is the boat; the words in the form of mantras are the boat. The intent is: "Embarking in such a boat, that is, beginning the sacrifice, undergoing consecration in it and performing the sacrifice reciting the mantras suited to the occasion, may we shed all our sins and attain the world of heaven." By reciting a Ṛk with such a meaning, the sacrificer who performs the sacrifice will attain heaven.
+
+⟦ತಾ ಏತಾ ಅಷ್ಟಾವನ್ನಾಹ ರೂಪಸಮೃದ್ಧಾಃ ಏತದ್ವೈ ಯಜ್ಞಸ್ಯ ಸಮೃದ್ಧಂ ಯದ್ರೂಪಸಮೃದ್ಧಂ
+ಯತ್ಕರ್ಮ ಕ್ರಿಯಮಾಣಮೃಗಭಿವದತಿ⟧
+
+These eight Ṛks together complete the rite called Somapravāhaṇa. By reciting Ṛks that complete the rite, the sacrifice is as if performed completely, and it is by reciting Ṛks relating to that rite and containing the same sense that the respective rites are completed and the sacrifice is performed completely.
+
+⟦ತಾಸಾಂ ತ್ರಿಃ ಪ್ರಥಮಾಮನ್ವಾಹ ತ್ರಿರುತ್ತಮಾಂ ತಾ ದ್ವಾದಶ ಸಂಪದ್ಯಂತೇ ದ್ವಾದಶ ವೈ ಮಾಸಾಃ
+ಸಂವತ್ಸರಃ ಸಂವತ್ಸರಃ ಪ್ರಜಾಪತಿಃ । ಪ್ರಜಾಪತ್ಯಾಯತನಾಭಿರೇವಾಭೀ ರಾಧ್ಯೋತಿ ಯ
+ಏವಂ ವೇದ । ತ್ರಿಃ ಪ್ರಥಮಾಂ ತ್ರಿರುತ್ತಮಾಮನ್ವಾಹ ಯಜ್ಞಸ್ಯೈವ ತದ್ವರ್ಸೌ ನಹ್ಯತಿ
+ಸ್ಥೇಮ್ನೇ ಬಲಾಯಾವಿಸ್ರಂಸಾಯ ॥⟧
+(Ai. [printed ಇ.] Brā. 3-13)
+
+When reciting these eight Ṛks, the first Ṛk and the last Ṛk are recited three times each. Thereby twelve Ṛks in all are recited. In a year there are twelve months. The year is of the nature of Prajāpati. These Ṛks too rest in Prajāpati. The man who knows this becomes victorious in the respective undertakings by reciting these Ṛks. By reciting the first and last Ṛks three times each at the beginning and end of the rite,
+
+### Printed p. 470
+
+*[Running head, p. 470: Sāyaṇabhāṣyasahitā, Maṃ. 3 [sic], A. 4, Sū. 41.]*
+
+the rite called sacrifice becomes firmly bound with the ropes of mantras and so stays firm, not slipping away.
+
+Here the rite called Somapravāhaṇa ends.
+
+**Uttarapīṭhikā** (the later introduction)
+
+Having so far explained the Ṛks relating to Somapravāhaṇa, they explain the order to be followed when this soma is taken down from the cart—
+
+अन्यतरोऽनड्वान्युक्तः स्यादन्यतरो विमुक्तोऽथ राजानमुपाहरेयुः । (*anyataro 'naḍvānyuktaḥ syādanyataro vimukto 'tha rājānamupāhareyuḥ |*)
+
+The cart that brought King Soma, the Soma deity, from the place of purchase to the Prācīnavaṃśa has two oxen yoked to it; only one of them is to be unyoked, and the other is left yoked as it is, and the priests take Soma down from the cart and carry him to the Uttaravedi. This is the rule.
+
+यदुभयोर्विमुक्तयोरुपावहरेयुः पितृदेवत्यं राजानं कुर्युः । (*yadubhayorvimuktayorupāvahareyuḥ pitṛdevatyaṃ rājānaṃ kuryuḥ |*)
+
+If, without following the rule stated above, both oxen yoked to the cart are unyoked and then Soma is taken to the Uttaravedi, then the Pitṛ deities receive the soma. The soma does not become fit for the gods and fit for the sacrifice.
+
+⟦ಯದ್ಯುಕ್ತಯೋರಯೋಗಕ್ಷೇಮಃ ಪ್ರಜಾ ವಿಂದೇತ್ತಾಃ ಪ್ರಜಾಃ ಪರಿಪ್ಲವೇರನ್ । ಯೋಽನಡ್ವಾ-
+ನ್ವಿಮುಕ್ತಸ್ತಚ್ಛಾಲಾಸದಾಂ ಪ್ರಜಾನಾಂ ರೂಪಂ ಯೋ ಯುಕ್ತಸ್ತಚ್ಚಕ್ರಿಯಾಣಾಂ ತೇ
+ಯೇ ಯುಕ್ತೇಽನ್ಯೇ ವಿಮುಕ್ತೇಽನ್ಯ ಉಪಾವಹರಂತ್ಯುಭಾವೇವ ತೇ ಕ್ಷೇಮಯೋಗೌ
+ಕಲ್ಪಯಂತಿ ।⟧
+
+If both oxen are left yoked to the cart, as they are, and Soma is taken down and carried away, then both the yoga of acquiring wealth and so on (good fortune) and the yoga of keeping and preserving what has been acquired are lost, and besides there will be the likelihood of the sacrificer's sons and others going off in various directions. Of the two oxen yoked to the cart, the ox that is unyoked from the cart is the form of the sons and others in the sacrificial hall and the house; the ox that is not unyoked from the cart is the form of the worldly and Vedic rites going on in the sacrificial hall. Here the word चक्रि (*cakri*) means the cart that has wheels. The sons, grandsons and others who are the progeny of the sacrificer travelling in that cart are called चक्रियाः (*cakriyāḥ*). Among the sacrificers who perform sacrifices
+
+### Printed p. 471
+
+*[Running head, p. 471: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+the wise, at the time of Soma's descent, unyoke one ox and leave the other as it is, and perform the descent of Soma, and so, as stated before, gain both the acquiring of wealth and its security. What is said in the Taittirīya Saṃhitā on this very matter is noteworthy.
+
+⟦ಯದುಭೌ ವಿಮುಚ್ಯಾತಿಥ್ಯಂ ಗೃಹ್ಣೀಯಾದ್ಯಜ್ಞಂ ವಿಚ್ಛಿಂದ್ಯಾದ್ಯದುಭಾವವಿಮುಚ್ಯ ಯಥಾನಾಗ
+ತಾಯ ತಿಥ್ಯಂ ಕ್ರಿಯತೇ ತಾದೃಗೇವ ತದ್ವಿಮುಕ್ತೋಽನ್ಯೋಽನಡ್ವಾನ್ಭವತ್ಯವಿಮುಕ್ತೋಽ
+ನ್ಯೂಽಥಾತಿಥ್ಯಂ ಗೃಹ್ಣಾತಿ ಯಜ್ಞಸ್ಯ ಸಂತತ್ಯೈ ।⟧
+(Tai. Saṃ. 6-2-1-1)
+
+If both oxen yoked to the cart that brought the soma are unyoked and Soma is taken down, King Soma does not accept hospitality, and by doing so there is a break in the sacrifice and the sacrifice is not completed but stops midway. If both oxen are left yoked in the cart and the cart is made to stand as it is, it is as if King Soma has not come to the house for hospitality; it is as if he has gone off. Therefore it is not right to leave both oxen yoked either. Then what should be done to complete the sacrifice in full? One ox must be unyoked from the cart. The other ox must be left yoked to the cart. If this is done, King Soma comes to the sacrificial ground and accepts the sacrificer's hospitality. The sacrifice also, without any break, reaches its completion: this is the intent.
+
+On the point that the rite of Somāparohaṇa (taking Soma down from the cart) must be done in the north-east, they cite and explain an ancient story—
+
+⟦ದೇವಾಸುರಾ ವಾ ಏಷು ಲೋಕೇಷು ಸಮಯತಂತ ತ ಏತಸ್ಯಾಂ ಪ್ರಾಚ್ಯಾಂ ದಿಶ್ಯಯತಂತ
+ತಾಂಸ್ತತೋಽಸುರಾ ಅಜಯಂಸ್ತೇ ದಕ್ಷಿಣಸ್ಯಾಂ ದಿಶ್ಯಯತಂತ ತಾಂಸ್ತತೋಽಸುರಾ
+ಅಜಯಂಸ್ತೇ ಪ್ರತೀಚ್ಯಾಂ ದಿಶ್ಯಯತಂತ ತಾಂಸ್ತತೋಽಸುರಾ ಅಜಯಂಸ್ತ ಉದೀಚ್ಯಾಂ
+ದಿಶ್ಯಯತಂತ ತಾಂಸ್ತತೋಽಸುರಾ ಅಜಯಂಸ್ತ ಉದಿಚ್ಯಾಂ ಪ್ರಾಚ್ಯಾಂ ದಿಶ್ಯಯತಂತ ತೇ
+ತತೋ ನ ಪರಾಜಯಂತ ಸೈಷಾ ದಿಗಪರಾಜಿತಾ ತಸ್ಮಾದೇತಸ್ಯಾಂ ದಿಶಿ ಯತೇತ ವಾ
+ಯಾತಯೇದ್ವೇಶ್ವರೋ ಹಾನೃಣಾಕರ್ತೋಃ ।⟧
+
+Formerly, in these worlds, the gods and the asuras were fighting. They fought in the east. In that battle the asuras defeated the gods; afterwards they fought in the south. There too the asuras won; afterwards they fought in the west. There too victory went to the asuras; afterwards they fought in the north. There too the asuras defeated the gods and became victorious; then they
+
 ---
 
-**Progress note:** Done through printed p. 468 (PDF 468). Sukta 41 Rik 19 Somapravahana rite finished (pp. 466-468): fourth pada, eighth Rik 8-42-3 to Varuna, Tai. Sam. 6-1-6 myth of Jagati, Tristubh, Gayatri bringing soma; last quoted lines are the explanation of Siksamanasya. Flags: Ma. Sam. for Ri. Sam. 8-42-3, iditypcche spelling as supplied; hyphenated breaks inside ⟦⟧ quotes retained
+**Progress note:** Done through printed p. 471 (PDF 471). Sukta 41 Rik 19 Special Topics (pp. 469-471): end of the Varuna rik explanation, eight riks recited with first and last thrice, Uttarapithika on unyoking the oxen, Tai. Sam. 6-2-1-1, devasura story begins; breaks off mid-sentence in the north-east story. Flags: Ai. Bra. printed i. Bra.; p. 470 head Man. 3 as supplied
