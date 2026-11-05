@@ -18165,6 +18165,109 @@ In the other Vedas, Bhṛgu is the representative of a gotra (Ā. Ve. 5-19-1, as
 
 The word Bhṛgu is derived from the root bhrāj (to shine, to be bright). Some hold that Bhṛgu is a name of Agni, and others that it is the name for the lightning form of Agni.
 
+### Printed p. 576
+
+*[Running head, p. 576: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अ॒ग्निं सु॒म्माय॑ दधिरे पु॒रो जना॒ वाज॑श्रवसमि॒ह वृ॒क्तब॑र्हिषः ।
+> य॒तस्रु॑चः सु॒रुचं॑ वि॒श्वदे॑व्यं रु॒द्रं य॒ज्ञानां॒ साध॑दिष्टिम॒पसां॑॥
+
+*[The supplied text prints no verse number after this Ṛk or its Pada; the verse is the next after Ṛk 4 and none is supplied here.]*
+
+*[The supplied text has before the Pada a garbled label "॥ ಪದಪದ್ಧತಿ ॥" (for Pada-pāṭha) and before the bhāṣya "॥ ಸಾಯುಧಭಾಷ್ಯಂ ॥" (for Sāyaṇa-bhāṣya), both kept as notes in kn.md; the blocks were separated and standard labels inserted.]*
+
+**॥ पदपाठः ॥**
+
+> अग्निं । सुम्नाय । दधिरे । पुरः । जनाः । वाजश्रवसं । इह । वृक्तबर्हिषः ।
+> यतस्रुचः । सुरुचं । विश्वदेव्यं । रुद्रं । यज्ञानां । साधत् ऽइष्टिं । अपसां॥
+
+*(The Pada is printed ಸುಮ್ನಾಯ where the Saṃhitā has ಸುಮ್ಮಾಯ, and ಸಾಧತ್ ಽಇಷ್ಟಿಂ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> वृक्तबर्हिषः स्तीर्णबर्हिषो यतस्रुचः प्राप्तस्रुच ऋत्विजः सुम्नाय
+> सुखार्थं वाजश्रवसं मनुष्येभ्यः प्रेरितान्नं सुरुचं प्रशस्तदीप्तिमंतं विश्वदेव्यं
+> विश्वेभ्यो देवेभ्यो हितं, रुद्रं दुःखानां द्रावकमपसां कर्मवतां यज्ञानां ।
+> यजंतीति यज्ञा यजमानाः । तेषां साधदिष्टिं साधितयज्ञमग्निमिह यज्ञे
+> पुरो दधिरे । स्तुवंति ॥
+
+*(Gist: the priests, with strewn grass and raised ladles, place before them Agni, giver of food, radiant, good to all gods, remover of sorrow, perfecter of the sacrificers' rites.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vṛktabarhiṣaḥ: those who have spread seats of sacred grass. Yatasrucaḥ: who hold up the ladles (to pour the oblation). Janāḥ: the priests. Sumnāya: for happiness. Vājaśravasaṃ: him who has sent food to men. Surucaṃ: of praiseworthy radiance. Viśvadevyaṃ: him who is for the welfare of all the gods. Rudraṃ: the remover of sorrow. Apasāṃ: of those who do the rites. Yajñānāṃ: of the sacrificers. Sādhadiṣṭiṃ: him who causes the sacrificial rite to be accomplished. Agniṃ: Agni. Iha: in this sacrifice. Puraḥ: facing him. Dadhire: they praise.
+
+**भावार्थ (Bhāvārtha)**
+
+The priests, who have spread seats of sacred grass and hold up the ladles to pour the oblation (the Kannada prints "ಸುಕ್ಷೇತ್ರೆ" for the ladle here, as supplied), praise in this sacrifice, standing facing him, Agni, who has sent food to men for their happiness, who is of praiseworthy radiance, who is for the welfare of all the gods, who removes sorrow and who causes the rite of the sacrificers who do the rites to be accomplished.
+
+### Printed p. 577
+
+*[Running head, p. 577: Aṣṭaka 2, Adhyāya 8, Varga 17, Ṛgvedasaṃhitā.]*
+
+**Printed English translation**
+
+Men with strewn holy grass, and uplifted ladles, place before them this solemnity for the sake of obtaining happiness, Agni, the bestower of food, the resplendent, the benefactor of all the gods, the remover of sorrow, the perfecter of the (holy) acts of the sacrificer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Vṛktabarhiṣaḥ—Yāska, giving the explanation of the word barhis, says ⟦ಪರಿಬರ್ಹಣಾತ್
+ಪರಿಚ್ಛೇದನಾತ್ ।⟧ That is, he explains the meaning as sacred grass whose tops (tips) have been cut, and, citing as proof the Ṛk
+
+⟦ಪ್ರಾಚೀನಂ ಬರ್ಹಿಃ ಪ್ರದಿಶಾ ಪೃಥಿವ್ಯಾ ವಸ್ತೋರಸ್ಯಾ ವೃಜ್ಯತೇ ಅಗ್ರೇ ಅಹ್ನಾಂ ।
+ವ್ಯು ಪ್ರಥತೇ ವಿತರಂ ವರಿಯೋ ದೇವೇಭ್ಯೋ ಆದಿತಯೇ ಸ್ಯೋನಂ ॥⟧
+(printed ಮ. ಸಂ. ೧೦-೧೧೦-೪, i.e. Ṛ. Saṃ. 10-110-4)
+
+he gives for it the explanation—
+
+⟦ಪ್ರಾಚೀನಂ ಬರ್ಹಿಃ ಪ್ರದಿಶಾ ಪೃಥಿವ್ಯಾ ವಸನಾಯಾಸ್ಯಾಃ ಪ್ರವೃಜ್ಯತೇ ಅಗ್ರೇ ಅಹ್ನಾಂ ಬರ್ಹಿಃ
+ಪೂರ್ವಾಹ್ನೇ ತದ್ವಿಪ್ರಥತೇ ವಿತರಂ ವಿಕೀರ್ಣತರಮಿತಿ ವಾ ವಿಸ್ತೀರ್ಣತರಮಿತಿ ನಾ ವರೀಯೋ
+ವರತರಮುರುತರಂ ವಾ ದೇವೇಭ್ಯಶ್ಚಾದಿತಯೇ ಚ ಸ್ಕೋನಂ । ಸ್ಕೋನಮಿತಿ ಸುಖನಾಮ ।
+ಸ್ಯತೇರವಸ್ಯಂತ್ಯೇತತ್ ಸೇವಿತವ್ಯಂ ಭವತೀತಿ ವಾ ।⟧
+(printed ಸಿ. 8-9, i.e. Ni. 8-9)
+
+At the time of the sacrifice, so that the gods invoked on the sacrificial altar may come and sit, the priests spread sacred grass with the tops cut and prepare it as a seat. Because the tips of the darbha grass are pointed and sharp like thorns and may prick the body and cause pain, they cut the tips so that all the grass is of one level, and spread it in three layers, one upon another, so that the seat is soft. This is called barhis. The seers pray that the gods, being invoked, may come and sit on this seat called barhis. On such a seat they also place the substances used in the sacrifice, such as soma, ghee and oblations. In the present Ṛk it is described that the priests have prepared such a seat on the sacrificial altar and are praying to Agni.
+
+Yatasrucaḥ—sruc (srucaḥ is plural) is a wooden vessel like a ladle used in the sacrifice for pouring ghee and the like into the fire. Yatasrucaḥ
+
+*[Lone numeral "37" at the foot of p. 577, kept as a note.]*
+
+### Printed p. 578
+
+*[Running head, p. 578: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+means that, having filled such a wooden ladle with ghee or other offering for pouring into the fire, they stand ready holding the ladles raised. The sense is that, as soon as Agni is invoked, they have prepared the seat of sacred grass called barhis for Agni to come and sit on; they have filled the ladle with offering material and hold up their hands to put it into the fire. It is stated that everything is thus ready.
+
+The word sumna is read among the names of happiness (printed ಸಿ. 3-13), the word vāja among the names of food (printed ಸಿ. 3-9), and the word apaḥ among the names of rite (printed ಸಿ. 3-1).
+
+Viśvadevyaṃ—विश्वेभ्यो देवेभ्यो हितं । (*viśvebhyo devebhyo hitaṃ |*) Two kinds of meaning can be given to this word: this Agni is good or dear to all the gods; or, since the oblations and the like offered to all the gods are poured into this Agni, he is the mouth of all the gods.
+
+Rudraṃ—दुःखानां द्रावकं । (*duḥkhānāṃ drāvakaṃ |*) Although the word rudra has many meanings, since here it is an epithet of Agni, the meaning is explained as one who drives away, that is, destroys, the sorrow of those who praise.
+
+Yajñānāṃ—यजंतीति यज्ञा यजमानाः । (*yajaṃtīti yajñā yajamānāḥ |*) The bhāṣyakāra has explained that here the word yajña means sacrificers, those who perform the sacrifice.
+
+Sādhadiṣṭiṃ—साधितयज्ञं । (*sādhitayajñaṃ |*) Iṣṭi means sacrifice (the Kannada prints "ಕಷ್ಟಿ" here, as supplied). One who accomplishes it, that is, who plays the chief part in the sacrifice and carries it out: this is an epithet of Agni.
+
+पुरः दधिरे—स्तुवंति । (*puraḥ dadhire—stuvaṃti |*) They stand facing Agni and praise; or the priests set Agni in front in order to perform the oblations and other rites in the sacrifice.
+
+*[Garbled label as supplied before the next Saṃhitā: "॥ ಸಂಚಾರಿ ॥" (for Saṃhitā-pāṭha); the standard label was inserted and the Saṃhitā made a block.]*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> पाव॑कशोचे॒ तव॒ हि क्षयं॒ परि॒ होत॑र्य॒ज्ञेषु॑ वृ॒क्तब॑र्हिषो॒॑
+> नरः ।
+> अग्ने॒ दुव॑ इ॒च्छमा॑नास॒ आप्य॒मुपा॑सते॒ द्रवि॑णं धेहि॒ तेभ्यः॑ ॥ ६ ॥
+
+> *pāvakaśoce tava hi kṣayaṃ pari hotaryajñeṣu vṛktabarhiṣo*
+> *naraḥ |*
+> *agne duva icchamānāsa āpyamupāsate draviṇaṃ dhehi tebhyaḥ ‖ 6 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 575 (PDF 575). Sūkta 2 Ṛk 4 complete: Pratipadārtha end, Bhāvārtha, printed English, Special Topics on the Bhṛgus
+**Progress note:** Done through printed p. 578 (PDF 578). Sūkta 2 Ṛk 5 complete; Ṛk 6 Saṃhitā begun; accent DIFF on 3 lines
