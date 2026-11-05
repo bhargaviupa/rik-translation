@@ -763,6 +763,122 @@ Those sages, who, searching on every side, discoverd [sic] the precious treasure
 
 In this Ṛk and in the next Ṛk the subject of Brahmaṇaspati or Bṛhaspati is not taken up. But the praise of the Aṅgirā sages, the descendants of Bṛhaspati, and a description of the daring deeds they did on the occasion of bringing the cows stolen by the Paṇis, are stated. To explain the meaning of this Ṛk the bhāṣyakāra has briefly set out here the story told in other places. Formerly the asuras called Paṇis stole the herd of cows of the gods (or of the Aṅgirā sages?) and kept it hidden in a secret place, that is, in a mountain cave. To search for these cows Indra sent the divine bitch called Saramā (the divine bitch of the world of the gods ... [the passage continues in the next window].
 
+### Printed p. 27
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 2] Ṛgveda-saṃhitā, p. 27 (as supplied).*
+
+(continued from p. 26) ... bitch) to find them. That bitch travelled a very long way, crossed the deep and brimming river called Rasā, came to the place where the Paṇis were, conversed with them, discovered the place where the cows had been hidden, and informed the gods. This matter is described at length in Ṛg-veda Saṃhitā, Maṇḍala 10, Sūkta 108. Afterwards the Aṅgirā sages, created by Brahmaṇaspati, went to the mountain cave where the Paṇis had hidden the cows, removed the many kinds of magical snares the Asuras had made, and came near the place where the cows were. They also set fire to the dwellings of the Asuras, burned them to ashes, and brought the cows back. The bhāṣyakāra has set out this matter as an introduction (pīṭhikā) to what is said in this Ṛk.
+
+अभिनक्षंतः ये पणीनां गुहा हितं परमं तं निधिं अभि आनशुः (*abhinakṣaṃtaḥ ye paṇīnāṃ guhā hitaṃ paramaṃ taṃ nidhiṃ abhi ānaśuḥ*)—अभितो गच्छंतो येंगिरसः पणिभिर्गुहायां स्थापितमुत्कृष्टं गोसमूहरूपं धनं अभिलक्ष्य प्राप्तवंतः (*abhito gacchaṃto yeṃgirasaḥ paṇibhirguhāyāṃ sthāpitamutkṛṣṭaṃ gosamūharūpaṃ dhanaṃ abhilakṣya prāptavaṃtaḥ*) — The Aṅgirā sages, while going about searching for the cows stolen by the Paṇis, learned that that treasure in the form of cows lay hidden by the Paṇis in a cave, a secret place, and came there. In this sentence the words अभिनक्षंतः ये (*abhinakṣaṃtaḥ ye*) mean only "those who go searching", but since in many contexts it is said that those who search for the cows in this way are the Aṅgirā sages, it must be inferred that here too the Aṅgirā sages are meant. Although the word पणीनां (*paṇīnāṃ*) is in the genitive case, the bhāṣyakāra explains that it must be taken in the sense of the instrumental case, that is, in the sense "by the Paṇis, the Asuras". The word निधिं (*nidhiṃ*) means the wealth in the form of a herd of cows. For, since it is said plainly पणीनां (पणिभिः) गुहा हितं (*paṇīnāṃ (paṇibhiḥ) guhā hitaṃ*) ("the treasure hidden by the Paṇis in the cave"), and since the Paṇis had hidden only cows, the word निधि (*nidhi*) here means wealth in the form of cows, that is, the cows themselves.
+
+ते विद्वांसः अनृता प्रतिचक्ष्य आविशं यतः ऊं आयन् पुनः तत् उत् ईयुः (*te vidvāṃsaḥ anṛtā praticakṣya āviśaṃ yataḥ ūṃ āyan punaḥ tat ut īyuḥ*)—अभिज्ञास्त्येऽर्जसोऽनृतान्यसुरैः कृता मायाः दृष्ट्वा प्रवेष्टुं यत एव स्थानादागच्छन् तत् स्थानं पुनः उत्कर्षण प्राप्ताः (*abhijñāstye 'rjaso 'nṛtānyasuraiḥ kṛtā māyāḥ dṛṣṭvā praveṣṭuṃ yata eva sthānādāgacchan tat sthānaṃ punaḥ utkarṣaṇa prāptāḥ*) (as supplied; the bhāṣya printed above has अभिज्ञास्तेऽंगिरसोऽनृता अनृतान्यसुरैः (*abhijñāste 'ṃgiraso 'nṛtā anṛtānyasuraiḥ*) and उत्कर्षेण (*utkarṣeṇa*) here). Because they knew everything, those Aṅgirā sages came again to the place which they had already come and learned beforehand — how to enter the secret place where the Paṇis, by tricks and devices, had hidden the cows so that no one knew. The sense is: the Aṅgirā sages knew by their discernment the cave in which the Paṇis had hidden the cows; even so, they had already looked at that cave and examined it beforehand and learned where and how it should be entered. Accordingly they came again to a place convenient for entering that cave first.
+
+### Printed p. 28
+
+*Running head: [28 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied).*
+
+Besides this meaning, another, different meaning can be given to this Ṛk. It also appears to suggest that the Aṅgirā sages, who know everything, by the power of their sacrificial rites made rain fall, when the clouds (अभिनक्षंतः (*abhinakṣaṃtaḥ*)) moving in the atmosphere were holding back, without pouring it down on the earth as rain, the water stored in them as treasure.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒तावा॑नः प्रति॒चक्ष्यान्वि॑ता॒ पुन॒रात॒ आ त॑स्थुः क॒वयो॑ म॒हस्प॒थः ।
+> ते बा॒हुभ्यां॑ धमि॒तम॒ग्निमश्म॑नि॒ नकिः॒ षो अ॒स्त्यर॑णो ज॒हुर्हि तं॥
+
+**॥ पदपाठः ॥**
+
+> ऋतवानः । प्रतिचक्ष्य । अनृता । पुनः । आ । अतः । आ ; तस्तुः । कवयः । महः ।
+> पथः ।
+> ते । बाहुभ्यां । धमितं । अग्निं । अश्मनि । नकिः । सः । अस्ति । अरणः । जहुः ।
+> हि । तं ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋतावानः । ऋतमिति सत्यनामधेयं । तद्वंतः कवयः क्रांतदर्शिनः सर्वज्ञा
+> अंगीरसोऽनृता अनृतानि प्रतिचक्ष्य पूर्वोक्तप्रकारेण दृष्ट्वा अतोऽस्मात्स्थानात्
+> पुनराजिगमषवो महस्पथो महतो मार्गान् प्रति आतस्थुः । अवतस्थिरे ।
+> अवतिष्ठमानाश्च ते बाहुभ्यां हस्ताभ्यां धमितं मंथनोत्पादितं प्रज्वालितमग्निम-
+> श्मनि पणीनां निवासभूते शिलोच्चये जहुर्हि। दग्दुं त्यक्तवंतः खलु । अरणोऽर
+> मयिता दाहेन दुःखकारी सोऽग्निः पूर्वं तत्र नकिरस्ति । न विद्यते । अविद्यमान-
+> मग्निं स्वसामर्थ्यादुत्पाद्य तत्र प्रचिक्षिपुरित्यर्थः ॥
+
+> *ṛtāvānaḥ | ṛtamiti satyanāmadheyaṃ | tadvaṃtaḥ kavayaḥ krāṃtadarśinaḥ sarvajñā*
+> *aṃgīraso 'nṛtā anṛtāni praticakṣya pūrvoktaprakāreṇa dṛṣṭvā ato 'smātsthānāt*
+> *punarājigamaṣavo mahaspatho mahato mārgān prati ātasthuḥ | avatasthire |*
+> *avatiṣṭhamānāśca te bāhubhyāṃ hastābhyāṃ dhamitaṃ maṃthanotpāditaṃ prajvālitamagnima-*
+> *śmani paṇīnāṃ nivāsabhūte śiloccaye jahurhi| dagduṃ tyaktavaṃtaḥ khalu | araṇo 'ra*
+> *mayitā dāhena duḥkhakārī so 'gniḥ pūrvaṃ tatra nakirasti | na vidyate | avidyamāna-*
+> *magniṃ svasāmarthyādutpādya tatra pracikṣipurityarthaḥ ‖*
+
+Gist: the truthful, all-seeing Aṅgirases, having seen the Asuras' illusions, turned back to the great paths and cast fire, kindled by churning with their arms, on the Paṇis' rocky dwelling, where no such fire had been before.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋतावानः (*ṛtāvānaḥ*)—endowed with truth; कवयः (*kavayaḥ*)—far-seeing (all-knowing) Aṅgirases; अनृता (*anṛtā*)—the false (illusions of the Asuras); प्रतिचक्ष्य (*praticakṣya*)—having seen; अतः (*ataḥ*)—from that place; पुनः (*punaḥ*)—wishing to return; महस्पथः (*mahaspathaḥ*)—to the great road; आ तस्थुः (*ā tasthuḥ*)—
+
+### Printed p. 29
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 2] Ṛgveda-saṃhitā, p. 29 (as supplied).*
+
+(continued from p. 28) ... came and stood; ते (*te*)—they; बाहुभ्यां (*bāhubhyāṃ*)—with their arms; धमितं (*dhamitaṃ*)—churned and kindled; तं अग्निं (*taṃ agniṃ*)—that fire; आत्मनी (*ātmanī*) (as supplied; the Saṃhitā and Pada have अश्मनि (*aśmani*))—on the rocks of the mountain (the dwelling of the Paṇis); जहुर्हि (*jahurhi*)—they placed; अरणः (*araṇaḥ*)—[the gloss is printed वहिसतक्क (*vahisatakka*), "bearing"; the Bhāvārtha has "burning"] [?]; सः (*saḥ*)—that fire; नकिः अस्ति (*nakiḥ asti*)—(before) was not there at all.
+
+**भावार्थ (Bhāvārtha)**
+
+The Aṅgirases, endowed with truth and all-knowing, having seen the illusions of the Asuras, which were untrue, and wishing to return from that place, came and stood on the great road. They placed the fire, churned with their arms and blazing, on the rocks of the mountain, the dwelling of the Paṇis. The burning fire had not been there before.
+
+**Printed English**
+
+Those sages, eminent for truth, having seen through the false (illusions of the Asura), again pursued the main road thither, and with their hands cast against the rock the destructive fire, which, till then, was not there.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋतावानः कवयः अनृता प्रतिचक्ष्य अतः पुनः महस्पथः आ तस्थुः (*ṛtāvānaḥ kavayaḥ anṛtā praticakṣya ataḥ punaḥ mahaspathaḥ ā tasthuḥ*)—Those Āṅgirā sages, truthful and far-seeing, that is, all-knowing, having seen the magical snares of the Asuras, found no way to enter inside the cave where the cows were hidden, and came and stood on the great road by which they had come. But they did not wish to go away without doing the task for which they had come. Therefore,
+
+ते बाहुभ्यां धमितं तं अग्निं अश्मनि जहुर्हि (*te bāhubhyāṃ dhamitaṃ taṃ agniṃ aśmani jahurhi*)—आतिष्ठमानाश्च ते हस्ताभ्यां मंथनोत्पादितं प्रज्वालितमग्निं पणीनां निवासभूतेशिलोच्चये दग्धुं त्यक्तवंतः खलु (*ātiṣṭhamānāśca te hastābhyāṃ maṃthanotpāditaṃ prajvālitamagniṃ paṇīnāṃ nivāsabhūteśiloccaye dagdhuṃ tyaktavaṃtaḥ khalu*). They strongly churned with their hands and produced fire, and while it blazed they set it alight in the dwellings on the mountain where the Paṇis lived, and made it burn. In general, when enemies are to be defeated in war and the like, it is even now the custom to set fire to their dwellings and cause them immense loss. Thereby the enemies are terrified and defeated. Following this method, the Aṅgirā sages churned out fire, and as soon as it was well kindled and began to blaze, they set fire to the town of the enemy Paṇis, or to their huts: this is the sense.
+
+### Printed p. 30
+
+*Running head: [30 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied; the word "bhāṣya" is misprinted सायणभाव्यसहिता (*sāyaṇabhāvyasahitā*) in the supplied text). The supplied text has no separate page head for p. 30; its contents were found inside p. 29 and are taken as p. 30.*
+
+अरणः सः नकिः अस्ति (*araṇaḥ saḥ nakiḥ asti*)—अरणो अरमयिता । दाहेन दुःखकारी सः अग्निः पूर्वं तत्र न विद्यते (*araṇo aramayitā | dāhena duḥkhakārī saḥ agniḥ pūrvaṃ tatra na vidyate*). In many places रण (*raṇa*) is explained as "delightful". अरणः (*araṇaḥ*) therefore means "not delightful". Here, because the heat of fire causes suffering in the form of burning and the like, fire is described as अरणः (*araṇaḥ*). Since fire has the nature of burning, it causes people suffering; that is, when dwellings are burning with fire, it is natural for people to feel great sorrow. Such a distress-causing [?] fire was not there before.
+
+(The supplied text has here an ornamental picture, described by the text-reading software as containing no text; it is not reproduced.)
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒तज्ये॑न क्षि॒प्रेण॒ ब्रह्म॑ण॒स्पति॒र्यत्र॒ वष्टि॒ प्र तद॑श्नोति॒ धन्व॑ना ।
+> तस्य॑ सा॒ध्वरिष॑वो॒ याभि॒रस्य॑ति नृ॒चक्ष॑सो दृ॒शये॒ कर्ण॑योनयः ॥
+
+**॥ पदपाठः ॥**
+
+> ऋतज्येन । क्षिप्रेण । ब्रह्मणः । पतिः । यत्र । वष्टि । प्र । तत् । अश्नोति । धन्वना ।
+> तस्य । साध्वीः । इषवः । याभिः । अस्यति । नृचक्षसः । दृशये । कर्णयोनयः ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋतं सत्यमेव ज्या यस्य तेन क्षिप्रेणेषूणां क्षेपकेण धन्वना धरणभूतेन
+> धनुषा ब्रह्मणस्पतिर्ब्रह्मणो मंत्रस्य पालयिता देवो यत्र यस्मिन्विषये वष्टि
+> कामयते, तत्पाश्नोति । प्रकर्षेण व्याप्प्नोति ॥ अश्नोतेर्व्यत्ययेन परस्मैपदं ॥
+> तस्य धनुषः साध्वीः साधिकास्ता इषवो भवंति याभिरिषुभिर्ब्रह्मणस्पतिरस्यति । राक्षसा-
+> दीन् क्षिपति । कीदृश्यस्ताः । नृचक्षसो नृन् पश्यतः । उपलक्षणमेतत् । सर्वज्ञस्य
+> ब्रह्मणस्पतेर्द्र्यशये दर्शनाय ज्ञानाय जाताः कर्णयोनयः श्रोत्रेंद्रियेण
+> ग्राह्या मंत्रभूता आकर्णकृष्णा वा बाणाः । ब्रह्मणस्पतिर्मंत्रैरेव सर्वं साधय-
+> तीति भावः ॥
+
+> *ṛtaṃ satyameva jyā yasya tena kṣipreṇeṣūṇāṃ kṣepakeṇa dhanvanā dharaṇabhūtena*
+> *dhanuṣā brahmaṇaspatirbrahmaṇo maṃtrasya pālayitā devo yatra yasminviṣaye vaṣṭi*
+> *kāmayate, tatpāśnoti | prakarṣeṇa vyāppnoti ‖ aśnotervyatyayena parasmaipadaṃ ‖*
+> *tasya dhanuṣaḥ sādhvīḥ sādhikāstā iṣavo bhavaṃti yābhiriṣubhirbrahmaṇaspatirasyati | rākṣasā-*
+> *dīn kṣipati | kīdṛśyastāḥ | nṛcakṣaso nṛn paśyataḥ | upalakṣaṇametat | sarvajñasya*
+> *brahmaṇaspaterdryaśaye darśanāya jñānāya jātāḥ karṇayonayaḥ śrotreṃdriyeṇa*
+> *grāhyā maṃtrabhūtā ākarṇakṛṣṇā vā bāṇāḥ | brahmaṇaspatirmaṃtraireva sarvaṃ sādhaya-*
+> *tīti bhāvaḥ ‖*
+
+Gist: Brahmaṇaspati, with a quick-shooting bow whose string is truth, attains whatever he desires; his arrows, perceived through the ear (the mantras), accomplish everything.
+
 ---
 
-**Progress note:** Done through printed p. 26 (PDF 26). Sūkta 24 Ṛk 5 Bhāvārtha end, printed English, Special Topics (pp. 24-25); Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English (pp. 25-26); Ṛk 6 Special Topics begun, breaks off mid-sentence at end of p. 26 (continues p. 27). Flags: hand fixes to kn.md p. 25 (garbled Saṃhitā label replaced, Ṛk 6 Saṃhitā put in a block, Pada/bhāṣya label split); supplied-text oddities kept: Pratipadārtha 'ಪತಿಚಕ್ಷ್ಯ' for Pada 'ಪ್ರತಿಚಕ್ಷ್ಯ', Bhāvārtha 'ಉಷ್ಕೃಷ್ಟ', Special Topics 'ಭವಿತ್ವಾ/ಭವೀತ್ವಾ', 'ಶರದ್ಧಿಃ'; printed English 'discoverd' [sic]; Ṛk 6 Saṃhitā has no Ṛk number (೬ appears after the Pada)
+**Progress note:** Done through printed p. 30 (PDF 30). Sūkta 24: Ṛk 6 Special Topics end (pp. 27-28); Ṛk 7 Saṃhitā to Special Topics (pp. 28-30); Ṛk 8 Saṃhitā, Pada, bhāṣya (p. 30) begun. Flags: supplied text had no separate head for p. 30 (its content was inside p. 29; taken as p. 30, next window starts p. 31); hand fixes to kn.md: garbled Pratipadārtha/Bhāvārtha labels replaced and their lines unquoted, ornament-description line removed; 2 [?] (Pratipadārtha ಅರಣಃ gloss 'ವಹಿಸತಕ್ಕ', Special Topics 'ಕೇಶಕಾರಿಯಾದ'); supplied-text oddities kept: Ṛk 7 Saṃhitā 'ಷೋ' vs Pada 'ಸಃ', Pada 'ಆ ; ತಸ್ತುಃ', bhāṣya 'ಪುನರಾಜಿಗಮಷವೋ', Pratipadārtha 'ಆತ್ಮನೀ' for ಅಶ್ಮನಿ, p. 27 quote 'ಅಭಿಜ್ಞಾಸ್ತ್ಯೇಽರ್ಜಸೋ'; Ṛk 7 Saṃhitā has no Ṛk number
