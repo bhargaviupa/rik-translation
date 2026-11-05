@@ -2738,6 +2738,97 @@ O Varuṇa, destroyer of enemies, you are the lord of all the gods and all men. 
 
 Varuna, destroyer of foes, you are the sovereign over all, whether they be gods or mortals: grant to us to behold a hundred years, and that we may enjoy lives such as were enjoyed by ancient (sages).
 
+### Printed p. 89
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+(Special Topics of Ṛk 10.) In this Ṛk Varuṇa is praised. The word असुर (*asura*) is explained as "destroyer of enemies"; it is described that Varuṇa is a destroyer of enemies and is the king of men and of gods; and the wish is expressed that this god may grant us, the sacrificers, to see a hundred years, that is, to live a hundred years. Further, पूर्वा सुधिता नि आयूंषि अश्याम: that we may live a hundred years, as was determined by the ancient gods; so the sacrificers pray for this god's favour, that such a lifespan may be granted to us.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> न द॑क्षि॒णा वि चि॑किते॒ न स॒व्या न प्रा॒चीन॑मादित्या॒ नोत प॒श्चा ।
+> पा॒क्या॑ चिद्वसवो धी॒र्या॑ चिद्यु॒स्मानी॑तो॒ अभ॑यं॒ ज्योति॑रश्यां ॥
+
+**॥ पदपाठः ॥**
+
+> न । दक्षिणा । वि । चिकिते । न । सव्या । न । प्राचीनं । आदित्याः । न । उत । पश्चा ।
+> पाक्या । चित् । वसवः । धीर्या । चित् । युष्मानीतः । अभयं । ज्योतिः । अश्यां ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अदित्यदेवताके पशौ न दक्षिणेत्येषा हविषो याज्या । तिस्रो भूमीर्धार-
+> यन्त्रींरुत द्यून् न दक्षिणा वि चिकिते न सन्या । आ. ३. ८. । इति ॥
+> हे आदित्याः दक्षिणा दक्षिणो न भागोविचिकिते । मया न विज्ञायते । सव्या
+> सव्योवामभागोऽपि न ज्ञायते ॥ उभयत्र सुपां सुलुगिति सोराजादेशः । तथा
+> प्राचीनं पुरस्तादपि न ज्ञायते ॥ विभाषांचेरदिक्ष्मियामिति स्वार्थे खः ॥ उत अपि
+> च पश्चा पश्चात् पृष्ठभागेऽपि न ज्ञायते । नैशेन तमसावृतत्वात् आंतरादज्ञा
+> नाद्वा ॥ पश्च पश्चा च छंदसि । पा. ५. ३. ३३. । इति निपात्यते ॥ किं बहुना । पाक्या
+> चित् । पाक्यः पक्तव्योऽपरिपक्वज्ञानोऽपि ॥ डुपचष् पाके । यहलोर्ण्यत् ।
+> तित्स्वरितं ॥ धीर्या चित् धीरे नेतव्यत्वेन भवो धीर्यः कातरः ॥ भवे छंदसीति
+
+> *adityadevatāke paśau na dakṣiṇetyeṣā haviṣo yājyā | tisro bhūmīrdhāra-*
+> *yantrīṃruta dyūn na dakṣiṇā vi cikite na sanyā | ā. 3. 8. | iti ‖*
+> *he ādityāḥ dakṣiṇā dakṣiṇo na bhāgovicikite | mayā na vijñāyate | savyā*
+> *savyovāmabhāgo 'pi na jñāyate ‖ ubhayatra supāṃ sulugiti sorājādeśaḥ | tathā*
+> *prācīnaṃ purastādapi na jñāyate ‖ vibhāṣāṃceradikṣmiyāmiti svārthe khaḥ ‖ uta api*
+> *ca paścā paścāt pṛṣṭhabhāge 'pi na jñāyate | naiśena tamasāvṛtatvāt āṃtarādajñā*
+> *nādvā ‖ paśca paścā ca chaṃdasi | pā. 5. 3. 33. | iti nipātyate ‖ kiṃ bahunā | pākyā*
+> *cit | pākyaḥ paktavyo 'paripakvajñāno 'pi ‖ ḍupacaṣ pāke | yahalorṇyat |*
+> *titsvaritaṃ ‖ dhīryā cit dhīre netavyatvena bhavo dhīryaḥ kātaraḥ ‖ bhave chaṃdasīti*
+
+### Printed p. 90
+
+> यत् ॥ कातरोऽपि ॥ उभयत्र सुपां सुलुगित्याकारः ॥ हे वसवो वासयितार
+> आदित्या युष्मानीतो युष्माभिर्नितः शोभनेन मार्गेण प्रापितः सन् अभयं
+> भयरहितं ज्योतिः सौरं तेज आंतरं वा ज्ञानात्मकमश्यां । प्राप्नुयां ॥
+
+> *yat ‖ kātaro 'pi ‖ ubhayatra supāṃ sulugityākāraḥ ‖ he vasavo vāsayitāra*
+> *ādityā yuṣmānīto yuṣmābhirnitaḥ śobhanena mārgeṇa prāpitaḥ san abhayaṃ*
+> *bhayarahitaṃ jyotiḥ sauraṃ teja āṃtaraṃ vā jñānātmakamaśyāṃ | prāpnuyāṃ ‖*
+
+Gist: Addressed to the Ādityas: neither right, left, front nor behind is known to the speaker; may he, guided by them, reach fearless light; the tail gives the grammar of पाक्या (*pākyā*), धीर्या (*dhīryā*), पश्चा (*paścā*).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आदित्याः (*ādityāḥ*): O Ādityas; दक्षिणा (*dakṣiṇā*): what lies on my right; न वि चिकिते (*na vi cikite*): is not known to me! सव्या (*savyā*): what lies on the left; न (*na*): is not known! प्राचीनं (*prācīnaṃ*): what lies in front; न (*na*): is not known. उत (*uta*): and; पश्चा (*paścā*): what lies at the back; न (*na*): is not known. पाक्या चित् (*pākyā cit*): though without mature knowledge; धीर्या चित् (*dhīryā cit*): though timid; वसवः (*vasavaḥ*): O Ādityas; युष्मानीतः (*yuṣmānītaḥ*): walking on the path laid down by you; अभयं (*abhayaṃ*): fearless; ज्योतिः (*jyotiḥ*): light; अश्यां (*aśyāṃ*): may I obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Ādityas, because of my ignorance and the darkness of night, I do not know what lies on my right, nor on my left, nor in front, nor behind. I am one without mature knowledge, and timid. Yet, walking on the path laid down by you, may I obtain the fearless light.
+
+**Printed English translation**
+
+Neither is the right hand known to us, Adityas, nor is the left : neither is that which is in front. nor that which is behind. (discerned by me): Givers of dwellings, may I, who am immature (in knowledge), and timid (in spirit), obtain, when guided by you, the light that is free from fear.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the sacrifice of an animal belonging to the Ādityas, this Ṛk, न दक्षिणा (*na dakṣiṇā*), is to be used as the yājyā mantra when the oblation is offered, as is set out by the Āśvalāyana Śrauta Sūtra passage तिस्रो भूमीर्धारयन्श्रीरुत द्यून् न दक्षिणा वि चिकिते न सव्या (*tisro bhūmīrdhārayanśrīruta dyūn na dakṣiṇā vi cikite na savyā*). In this Ṛk a prayer made to the Ādityas is stated: that the ignorance, like pitch darkness, may be destroyed.
+
+### Printed p. 91
+
+(Special Topics of Ṛk 11, continued.) Addressing the Ādityas, with the words दक्षिणा (*dakṣiṇā*), सव्या (*savyā*), प्राचीनं पश्चा (*prācīnaṃ paścā*) it is described that the darkness of night, or the ignorance grown up in the mind, envelops me who knows nothing and makes the right and left, and the arrangement of the east and west directions, imperceptible; and with पाक्या चित् (*pākyā cit*), धीर्या चित् (*dhīryā cit*), युष्मानीतः अभयं ज्योतिरश्यां (*yuṣmānītaḥ abhayaṃ jyotiraśyāṃ*) a prayer is stated: that the sacrificer, though of small knowledge (slow-witted) or dull, being favoured by these Ādityas and having fear from no one, may obtain the light that destroys the darkness connected with the sun, or the knowledge that removes ignorance.
+
+पाक्या (*pākyā*): पक्तव्यः अपरिपक्वज्ञानः (*paktavyaḥ aparipakvajñānaḥ*); Sāyaṇa explains it as one without complete knowledge. Yāska reads the word पाकः (*pākaḥ*) among the words for the praiseworthy (Ni. 3-13) and explains (Ni. 3-12): पाकः पक्तव्यो भवति विपक्वप्रज्ञ आदित्यः (*pākaḥ paktavyo bhavati vipakvaprajña ādityaḥ*). The explanation of the word पाक (*pāka*) was given earlier, in the Vāmana Sūkta.
+
+धीर्या चित् (*dhīryā cit*): धीरे नेतव्यत्वेन भवः धीर्यः कातरः (*dhīre netavyatvena bhavaḥ dhīryaḥ kātaraḥ*): Sāyaṇa explains the meaning as one who is intelligent (is taught) and acts as instructed, that is, one who has not even a little knowledge. For the word चित् (*cit*) the sense of "and" (samuccaya) is stated.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> यो राज॑भ्य ऋत॒निभ्यो॑ द॒दाश॒ यं व॒र्धय॑न्ति पु॒ष्टय॑श्च॒ नित्याः॑ ।
+> स रे॒वान्या॑ति प्रथ॒मो रथे॑न वसु॒दावा॑ वि॒दथे॑षु प्रश॒स्तः ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । राजभ्यः । ऋतनिभ्यः । ददाश । यं । वर्धयन्ति । पुष्टयः । च । नित्याः ।
+> ७ । रेवान् । याति । प्रथमः । रथेन । वस्तुदावा । विदथेषु । प्रशस्तः ॥ १२ ॥
+
+> *yaḥ | rājabhyaḥ | ṛtanibhyaḥ | dadāśa | yaṃ | vardhayanti | puṣṭayaḥ | ca | nityāḥ |*
+> *7 | revān | yāti | prathamaḥ | rathena | vastudāvā | vidatheṣu | praśastaḥ ‖ 12 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 88 (PDF 88). Sūkta 27 Ṛk 9 complete (pp. 86-87); Ṛk 10 complete (pp. 87-88). Hand fixes to kn.md: Ṛk 10 Pada label restored and 'पदपठे' line removed, duplicate bhāṣya label removed, Bhāvārtha and English labels standardised. Flags: supplied slips left (Pada ಧಾರ್ಪೂತಾಃ, ಯಜವೇ for ಋಜವೇ, ಶ್ರೀ for ತ್ರೀ, Pratipadārtha ಅನಿಮಿಷಾಃ 'strike the eyelid' vs Bhāvārtha 'do not', ಅವಸ್ಥಾಪರ್ಯ, ಸರ್ವೆಷಾಂ, ಸುಪಾರ); running heads ಆ. ೨. ಆ. ೭. ವ. ೭ (p. 87) and ಸೂ. ೨.೭ (p. 88) as supplied; accent check 1 DIFF
+**Progress note:** Done through printed p. 91 (PDF 91). (PDF 91). Sūkta 27 Ṛk 10 Special Topics (p. 89), Ṛk 11 complete (pp. 89-91, no Ṛk number printed); Ṛk 12 Saṃhitā and Pada only, rest next. Hand fixes to kn.md: Ṛk 11 Saṃhitā label and > block added, garbled bhāṣya label replaced, stray 'u ಕಃಕಃ' and 'no text' lines removed. Flags: Ṛk 12 Pada slips as supplied ('೭' for ಸಃ, ವಸ್ತುದಾವಾ), ಸನ್ಯಾ in bhāṣya, ಜೀವಿಸಿನಂತೆ, ಯನ್ತ್ರೀಂರುತ; accent check 1 DIFF
