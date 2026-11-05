@@ -21,3 +21,4 @@ pp.64-67 | sonnet | n/a
 pp.68-70 | sonnet | n/a
 pp.71-73 | sonnet | n/a
 pp.74-76 | sonnet | n/a
+pp.77-79 | sonnet | n/a
