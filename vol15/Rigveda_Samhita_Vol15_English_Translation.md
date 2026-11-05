@@ -17096,6 +17096,121 @@ You, Agni, are the commendable announcer of the gods, cognizant of all secred [s
 > *ni duroṇe amṛto martyānāṃ rājā sasāda vidathāni sādhan |*
 > *ghṛtapratīka urviyā vyadyaudagnirviśvāni kāvyāni vidvān ‖ 18 ‖*
 
+### Printed p. 539
+
+*[Running head, p. 539: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+*[The supplied text has before the Pada of Ṛk 18 a garbled label "। ಪವನಾತಿ ।" (for Pada-pāṭha), kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> नि । दुरोणे । अमृतः । मर्त्यानां । राजा । ससाद । विदथानि । साधन् ।
+> घृतप्रतीकः । उर्विया । वि । अद्यौत् । अग्निः । विश्वानि । काव्यानि । विद्वान् ॥ १८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अमृतो नित्यो राजा राजमातो योऽग्निर्विदथानि यज्ञान् साधन्
+> साधयन् मर्त्यानामग्निहोत्रिणां दुरोणे गृहे निषसाद । निषीदति । विश्वानि
+> काव्यानि विद्वान् जानन् धृतप्रतीको धृतेन संधुक्षितावयव उर्विया विस्तीर्णः
+> सोऽग्निर्व्यद्यौत् । विद्योतते ॥
+
+*(Gist: immortal, radiant Agni, accomplishing sacrifices, sits in the houses of the mortals who offer the Agnihotra; knowing all the praises, with limbs sprinkled with ghee, he shines broadly.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Amṛtaḥ: eternal. Rājā: the radiant Agni. Vidathāni: the sacrifices. Sādhan: accomplishing. Martyānāṃ: of men (who perform the Agnihotra and the like). Duroṇe: in the house. Ni sasāda: is present. Viśvāni: all. Kāvyāni: the praises and the rites. Vidvān: knowing. Ghṛtapratīkaḥ: with limbs sprinkled with ghee. Urviyā: with an expanded body. Agniḥ: Agni. Vyadyaut: shines.
+
+**भावार्थ (Bhāvārtha)**
+
+Eternal, radiant Agni, accomplishing the sacrifices, is present in the houses of men who perform the Agnihotra and the like. Knowing all the praises and rites, with limbs sprinkled with ghee, Agni, possessing an expanded body, shines.
+
+**Printed English translation**
+
+The immortal being has sat down in the dwelling of mortals, accomplishing (their) sacrifices : Agni, who is cognizant of all sacred rites, shines with expanded bulk when fed with clarified butter.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+दुरोणे—दुरोणे ऎंब शब्दवु गृहनामगळल्लि (*duroṇe—duroṇe èṃba śabdavu gṛhanāmagaḷalli*) (Ni. 3-13) is read; and since there is the etymology इति गृह नाम (*iti gṛha nāma*) (Ni. 4-4), this word means "in the house".
+
+धृतप्रतीकः— धृतेन संधुक्षितावयवः । (*dhṛtapratīkaḥ— dhṛtena saṃdhukṣitāvayavaḥ |*) He whose limbs are sprinkled with ghee.
+
+### Printed p. 540
+
+*[Running head, p. 540: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+घृतप्रतीको बृहता दिविस्पृशा द्युमद्वि भाति भरतेभ्यः शुचिः । (*ghṛtapratīko bṛhatā divispṛśā dyumadvi bhāti bharatebhyaḥ śuciḥ |*)
+(Ṛ. Saṃ. 5-11-1)
+
+चतुष्कपर्दा युवतिः सुपेशा घृतप्रतीका वयुनानि वस्ते ॥ (*catuṣkapardā yuvatiḥ supeśā ghṛtapratīkā vayunāni vaste ‖*)
+(Ṛ. Saṃ. 10-114-3)
+
+In Ṛks such as these the word धृतप्रतीक (*dhṛtapratīka*) is explained as धृतेन प्रज्वलितांगः (*dhṛtena prajvalitāṃgaḥ*), that is, one whose bodily limbs are made brilliant by the ghee offering. It is natural that this word is used in the sense that Agni becomes specially kindled by the offering of ghee and the like into the fire many times.
+
+#### Ṛk 19
+
+**॥ संहितापाठः ॥**
+
+> आ नो॑ गहि स॒ख्येभिः॑ शि॒वेभि॑र्म॒हान्म॒हीभि॑रू॒तिभिः॑ सर॒ण्यन् ।
+> अ॒स्मे र॒यिं ब॑हु॒लं संत॑रुत्रं सु॒वाचं॑ भा॒गं य॒शसं॑ कृधी नः ॥
+
+> *ā no gahi sakhyebhiḥ śivebhirmahānmahībhirūtibhiḥ saraṇyan |*
+> *asme rayiṃ bahulaṃ saṃtarutraṃ suvācaṃ bhāgaṃ yaśasaṃ kṛdhī naḥ ‖*
+
+*(The Ṛk number ॥ ೧೯ ॥ is missing after the Saṃhitā in the supplied text.)*
+
+**॥ पदपाठः ॥**
+
+> आ । नः । गहि । सख्येभिः । शिवेभिः । महान् । महीभिः । ऊतिभिः । सरण्यन् ।
+> अस्मे इति । रयिं । बहुलं । संतरुत्रं । सुवाचं । भागं । यशसं । कृधि । नः ॥
+
+*(The Pada lacks its closing number.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> सरण्यन् सर्वत्र सरणं गमनमिच्छन् महांस्त्वं शिवेभिः शिवंकरैः सख्येभिः
+> सख्यैः सखिकर्मभिर्महीभिर्महतीभिरूतिभी रक्षाभिश्च नोऽस्मान्प्रति आ गहि । आगच्छ ।
+> अस्मे अस्मभ्यं बहुलं विस्तीर्ण० संतरुत्रं सर्वेषामुपद्रवाणां संतारकं
+> सुवाचं शोभनवाचं भागं सर्वैर्भजनीयं यशसं यशसा कीर्त्या संयुक्तं
+> रयिं धनं नोऽस्मभ्यं कृधि । देहि । अस्मभ्यमिति पुनर्वचनवादरातिशयार्थ० ॥
+
+*(Gist: O Agni, great and all-moving, come to us with friendly, auspicious, great protections; grant us abundant wealth, a means of crossing all dangers, well-spoken of, shared by all, and renowned.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Saraṇyan: moving everywhere. Mahān: you who are great. Śivebhiḥ: auspicious. Sakhyebhiḥ: indicating friendship. Mahībhiḥ: and great. Ūtibhiḥ: with protections. Naḥ: to us. Ā gahi:
+
+### Printed p. 541
+
+*[Running head, p. 541: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+come. Asme: to us. Bahulaṃ: abundant. Saṃtarutraṃ: bringing across all troubles. Suvācaṃ: praiseworthy. Bhāgaṃ: venerable. Yaśasaṃ: renowned. Rayiṃ: wealth. Naḥ: to us. Kṛdhi: bring about.
+
+**भावार्थ (Bhāvārtha)**
+
+You who move everywhere and are great, come to us with auspicious, friendly and great protections. Provide us with abundant wealth that brings us across all troubles, praiseworthy, venerable and renowned.
+
+**Printed English translation**
+
+Come to us with friendly, auspicious, and mighty aids, you who are great and all-pervading: bestow upon us ample riches, safe from injury, well-spoken of, desirable, and renowned.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सरण्यन्—सर्वत्र सरणं गमनमिच्छन् । (*saraṇyan—sarvatra saraṇaṃ gamanamicchan |*) One who has movement in all places; that is, one who is in many forms in the many sacrifices performed by many sacrificers; and one who as messenger of the gods carries to the gods the oblations offered by the sacrificers; or, if thought of as Agni in the form of lightning, one who moves in various places in the atmosphere; or, if thought of as Agni in the form of the Sun in heaven, one who moves in the atmosphere from east to west: thus many meanings can be given to the word सरण (*saraṇa*) (motion).
+
+अस्मे— अस्मे ऎंब शब्दक्कॆ एळु विभक्त्यर्थगळन्नू (*asme— asme èṃba śabdakkè eḷu vibhaktyarthagaḷannū*) can be given, Yāska says, and he gives examples for all seven case-senses (Ni. 6-7). We have explained this matter earlier.
+
+#### Ṛk 20
+
+**॥ संहितापाठः ॥**
+
+> ए॒ता ते॑ अग्ने॒ जनि॑मा॒ सना॑नि॒ प्र पू॒र्व्याय॒ नूत॑नानि वोचं ।
+> म॒हांति॒ वृष्णे॒ सव॑ना कृ॒तेमा जन्मं॑जन्म॒न् निहि॑तो जा॒तवे॑दाः ॥
+
+> *etā te agne janimā sanāni pra pūrvyāya nūtanāni vocaṃ |*
+> *mahāṃti vṛṣṇe savanā kṛtemā janmaṃjanman nihito jātavedāḥ ‖*
+
+*(The Ṛk number ॥ ೨೦ ॥ is missing after the Saṃhitā in the supplied text.)*
+
 ---
 
-**Progress note:** Done through printed p. 538 (PDF 538). Sukta 1 (Mandala 3) Rik 16 complete (p. 536-537); Rik 17 complete (pp. 537-538); Rik 18 Samhita at end of p. 538. Flags: Rik 17 Samhita/Pada lack closing numbers; adevan/adevan spelling variants as supplied; 1 accent DIFF
+**Progress note:** Done through printed p. 541 (PDF 541). Sukta 1 (Mandala 3) Rik 18 complete (pp. 539-540); Rik 19 complete (pp. 540-541); Rik 20 Samhita at end of p. 541. Flags: garbled Pada label kept as note; Rik 19 and 20 Samhita and Rik 19 Pada lack closing numbers; 1 accent DIFF
