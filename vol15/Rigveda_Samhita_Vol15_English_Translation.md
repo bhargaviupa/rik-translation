@@ -12311,6 +12311,123 @@ In this Ṛk the word अस्मे (*asme*) means अस्मासु (*asm
 
 *(Note: the Saṃhitā ends without the Ṛk number, the Pada ends with ॥೭॥. The Pada's ಸಂದದೀ ಇತಿ ಸಂಸದದೀ, ಕ್ಷಾಮಇವ and ಕ್ಷೋತ್ರೇಣ ಇವ differ from the Saṃhitā's ಸಂದದೀ, ಕ್ಷಾಮೇವ and ಕ್ಷೋಣೇತ್ರೇಣೇವ; all as supplied, not corrected. The Sāyaṇa-bhāṣya of Ṛk 7 follows on the next page.)*
 
+### Printed p. 384
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विनौ हस्तेव हस्ताविव शक्तिं सामर्थ्यं नोऽस्माकमभिसंददी अभिमुख्येन
+> सम्यक् प्रयच्छंतौ भवतं । किंच क्षामेव रोदसी इव रजांसि स्थानान्युदकानि वा ॥
+> उदकं रज उच्यत इति यास्कः ॥ नोऽस्माकं समजतं । प्रेरयतं । आपिच अश्विना
+> हे अश्विनौ इमा गिरोऽस्माभिः कृताः स्तुतीर्युष्मयंतीर्युवामिच्छंतीः
+> स्वधितिमसिं क्ष्णोत्रेणेव तेजनशाणवत् संशिशीतं । सम्सक् तीक्ष्मीकुरुतं ॥
+
+*Gist: the Aśvins are asked to give strength like two hands, to bestow waters or abodes like heaven and earth, and to sharpen the praises like a blade on a whetstone.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अश्विनौ (*aśvinau*)—O Aśvin deities; हस्तेव (*hasteva*)—like two hands; शक्तिं (*śaktiṃ*)—strength; नः (*naḥ*)—to us; अभि संददी (*abhi saṃdadī*)—be givers (printed कोडुववरागिरि (*koḍuvavarāgiri*)); क्षामेव (*kṣāmeva*)—like heaven and earth; रजांसि (*rajāṃsi*)—waters (or places); नः (*naḥ*)—to us; समजतं (*samajataṃ*)—impel; स्वधितिं (*svadhitiṃ*)—a sword; क्षोत्रेणेव (*kṣotreṇeva*)—as one rubs it on a whetstone and makes it sharp; इमा गिरः (*imā giraḥ*)—our words of praise; युष्मयंतीः (*yuṣmayaṃtīḥ*)—approaching you and pleasing you; सं शिशीतं (*saṃ śiśītaṃ*)—make sharp.
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, be givers of strength to us, like two hands. Like heaven and earth, impel (give) waters to us. As a sword is rubbed on a whetstone and made sharp, make these our words of praise so sharp that they approach you and give you satisfaction.
+
+**Printed English translation**
+
+Like two hands, Ashwins, be ever investing us with vigour ; like heaven and earth, bestow upon us rain : give sharpness to the praises that are addressed to you, as they whet an axe upon a grindstone.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+क्षामा—रोदसी इव (*kṣāmā—rodasī iva*). Although the word क्ष्या (*kṣyā*) or क्षामा (*kṣāmā*) is listed among the names of the earth, here it is a dual-ending word and is used to denote heaven and earth. Since all the qualifying words describing the Aśvin deities in this sūkta are in the dual, the word क्षामा (*kṣāmā*) too must be taken as dual, and the sense "the two worlds" or "heaven and earth" given to it.
+
+### Printed p. 385
+
+रजांसि (*rajāṃsi*)—
+
+> रजो रजतेर्जोर्यती रज उच्यते । उदकं रज उच्यते । लोका रजांस्युच्यंते
+
+> *rajo rajaterjoryatī raja ucyate | udakaṃ raja ucyate | lokā rajāṃsyucyaṃte*
+
+(Nir. 4-19)
+
+Since Yāska gives this etymology, in the present context both meanings, water and worlds, can be given.
+
+क्षोत्रेणेव—तेजनशाणवत् (*kṣotreṇeva—tejanaśāṇavat*). A whetstone or another kind of stone used for rubbing and sharpening weapons such as swords and knives.
+
+स्वधितिं (*svadhitiṃ*)—The word स्वधिति (*svadhiti*) is read among the names of the thunderbolt (Nir. 3-11). It is also customary to call sharp swords and other weapons स्वधिति (*svadhiti*); in the scriptural sentence ओषधे त्रायस्यैनं स्वधिते मैनग्ं हिग्ंसीः (*oṣadhe trāyasyainaṃ svadhite mainagṃ higṃsīḥ*) too the word स्वधिति (*svadhiti*) is used in the sense of a knife (a razor).
+
+शिशीतं—सम्यक् तीक्ष्णीकुरुतं (*śiśītaṃ—samyak tīkṣṇīkurutaṃ*): make well sharp. For the word शिशीते (*śiśīte*) Yāska gives the etymology—
+
+> शिशीते । शिशीते शृंगे रक्षसे विनिक्षे । निश्यति शृंगे रक्षसो विनिक्षणनाय । रक्षो
+> रक्षितव्यमस्मात् । रहसि क्षणोतीति ना । रात्रौ नक्षत इति वा ॥
+
+> *śiśīte | śiśīte śṛṃge rakṣase vinikṣe | niśyati śṛṃge rakṣaso vinikṣaṇanāya | rakṣo*
+> *rakṣitavyamasmāt | rahasi kṣaṇotīti nā | rātrau nakṣata iti vā ‖*
+
+(Nir. 4-18)
+
+Quoting the mantra शिशीते शृंगे रक्षसे विनिक्षे (*śiśīte śṛṃge rakṣase vinikṣe*), he explains the meaning of the word शिशीते (*śiśīte*): a bull (or an animal) rubs and sharpens its horn in order to kill enemies or to protect itself.
+
+अश्विना हस्तेव शक्तिं नः अभि संददी (*aśvinā hasteva śaktiṃ naḥ abhi saṃdadī*)—
+
+> हे अश्विनौ हस्ताविव सामर्थ्यं
+> अस्माकमाभिमुख्येन प्रयच्छंतौ भवतं ।
+
+> *he aśvinau hastāviva sāmarthyaṃ*
+> *asmākamābhimukhyena prayacchaṃtau bhavataṃ |*
+
+No work can be done without the help of the hands; hence the hands are well known to have the power of working. Therefore, O Aśvin deities, as our hands give us strength in all our tasks and carry the work through, so you two, like two hands, produce in us strength and capacity in all matters: this is the purport.
+
+क्षामेव रजांसि नः समजतं (*kṣāmeva rajāṃsi naḥ samajataṃ*)—
+
+> रोदसी इव नः स्थानान्युदकानि वा प्रयच्छतं ।
+
+> *rodasī iva naḥ sthānānyudakāni vā prayacchataṃ |*
+
+As heaven and earth provide us dwelling places to live in, and give the rain-waters that sustain life, and protect us, so you too provide us with dwelling places and rain, and protect us.
+
+स्वधितिं क्ष्णोत्रेणेव इमा गिरः युष्मयंतीः सं शिशीतं (*svadhitiṃ kṣṇotreṇeva imā giraḥ yuṣmayaṃtīḥ saṃ śiśītaṃ*)—
+
+> अपि च हे
+> आश्विनौ आस्माभिः कृताः स्तुतीः युवामिच्छंतीः आसिं तेजनशाणवत् समक्तीक्ष्णि-
+
+*(Note: the Sanskrit line breaks off with a hyphen at the foot of p. 385; the printed sheet-mark "25" that follows on this page was removed from kn.md. The Sanskrit is continued on the next page.)*
+
+### Printed p. 386
+
+> कुरुतं ।
+
+> *kurutaṃ |*
+
+And, O Aśvin deities, as a sword is rubbed on a whetstone and made sharp, make sharp the words of praise we make for you; that is, listen to our praises with regard: this is the purport.
+
+*[A software-generated line in the supplied text, "This image contains no text. It shows a decorative floral or vine-like design.", is kept in kn.md as a note; it marks an ornament.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> ए॒तानि॑ वामश्विना॒ वर्ध॑नानि॒ ब्रह्म॒ स्तोमं॑ गृत्सम॒दासो॑ अक्रन् ।
+> तानि॑ नरा जुजुषा॒णोप॑ यातं बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> एतानि । वां । अश्विना । वर्धनानि । ब्रह्म । स्तोमं । गृत्समदासः । अक्रन् ।
+> तानि । नरा । जुजुषाणा । उप । यातं । बृहत् । वदेम । विदथे । सुवीराः ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अश्विना हे अश्विन् वां युवयोरेतानि वर्धनानि वृद्धिसाधनानि ब्रह्म ब्रह्माणि
+> मंत्रान् स्तोमं स्तोत्रं च गृत्समदासो गृत्समदा अक्रन् । अकुर्वन् ।
+> तानि ब्रह्माणि नरा नेतारौ जुजुषाणा भृशं प्रीयमाणौ युवामुपयातं ।
+> उपगच्छतं । किंच सुवीराः शोभनपुत्रा वयं विदथे यज्ञे युवां बृहद्वदेम ।
+> प्रभूतं स्तुमः ॥
+
+*Gist: the Gṛtsamadas made these growth-giving mantras and praise for the Aśvins; they are asked to come, pleased, and the we, with good sons, will praise them at the sacrifice.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अश्विना (*aśvinā*)—O Aśvin deities; वां (*vāṃ*)—of you two; वर्धनानि (*vardhanāni*)—means of growth (satisfaction); एतानि ब्रह्म (*etāni brahma*)—these mantras in the form of praise; स्तोमं (*stomaṃ*)—praise in the form of a stoma; गृत्समदासः (*gṛtsamadāsaḥ*)—the Gṛtsamada sages; अक्रन् (*akran*)—have made; तानि (*tāni*)—those praises; नरा (*narā*)—you leaders; जुजुषाणा (*jujuṣāṇā*)—enjoying them with regard; उपयातं (*upayātaṃ*)—come to us; सुवीराः (*suvīrāḥ*)—we, endowed with excellent heroic sons; विदथे (*vidathe*)—in the sacrificial house; बृहत् (*bṛhat*)—abundant praise; वदेम (*vadema*)—we recite.
+
 ---
 
-**Progress note:** Done through printed p. 383 (PDF 383). Sukta 39 Rk 6 complete (Bhavartha, printed English, Special Topics on asme with seven case examples); Rk 7 Samhita and Pada only (bhashya follows on p. 384). Flags: Special Topics verse quotations and Sanskrit lines turned into > blocks in kn.md, stray '1.' prefixes removed, image-text line kept as note; supplied spellings kept (tanna, sushrita, kshonetrena, Pada kshamaiva); accent DIFF 1 in Rk 7.
+**Progress note:** Done through printed p. 386 (PDF 386). Sukta 39 Rk 7 bhashya, Bhavartha, printed English, Special Topics (rajas, svadhiti, shishite Nirukta quotes); Rk 8 Samhita, Pada, bhashya, Pratipadartha (Bhavartha follows on p. 387). Flags: Special Topics Sanskrit passages made > blocks in kn.md, p.385 stray sheet-mark '25' removed, image-text line kept as note, Pratipadartha 'kodu' reading as supplied
