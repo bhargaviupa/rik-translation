@@ -13242,6 +13242,69 @@ May Pushan, who is the benefactor of all, be propitious to (this pious) rite; ma
 
 **Anuvāda (Kannada).** This sūkta beginning वायो ये ते (*vāyo ye te*) is the ninth sūkta in the fourth anuvāka. It has twenty-one Ṛks. Gṛtsamada is the seer of this sūkta; the Ṛk beginning अंबितमे (*aṃbitame*) and the Ṛk following it (Ṛks 16 and 17 of this sūkta) are in the *anuṣṭubh* metre; the Ṛk after that, that is, Ṛk 18, is in the *bṛhatī* metre; the remaining Ṛks are in the *gāyatrī* metre. In this sūkta the two Ṛks beginning वायो ये ते (*vāyo ye te*) are addressed to Vāyu; the third Ṛk, शुक्रस्याद्य (*śukrasyādya*), to Indra and Vāyu; and from there on, for the five *tṛcas* (a *tṛca* is three Ṛks) beginning अयं वां मित्रावरुणा (*ayaṃ vāṃ mitrāvaruṇā*), the deities in order are Mitrāvaruṇau, the Aśvins, Indra, the Viśvedevas and Sarasvatī. That is, in order, for Ṛks 4–6 of this sūkta the deities are Mitra and Varuṇa, for Ṛks 7–9 the Aśvin deities, for Ṛks 10–12 Indra, for Ṛks 13–15 the Viśvedevas, for Ṛks 16–18 Sarasvatī
 
+### Printed p. 411
+
+*[Running head, p. 411: Aṣṭaka 2, Adhyāya 8, Varga 7, Ṛgvedasaṃhitā.]*
+
+the deities, in order. Of the last three Ṛks, beginning प्रेतां यज्ञस्य (*pretāṃ yajñasya*), leaving aside the third pāda of the Ṛk प्रेतां यज्ञस्य (*pretāṃ yajñasya*), which is the 19th Ṛk, the remaining parts are applied, as stated in the Brāhmaṇa-sūkta, to the *nivid* mantras relating to Heaven and Earth among the Havirdhāna mantras; therefore Heaven and Earth, or the Havirdhānas, are the deities. For the third pāda of the nineteenth Ṛk, अग्निं च हव्यवाहनं (*agniṃ ca havyavāhanaṃ*), the deities are Heaven and Earth, the two Havirdhānas, or Agni. In the Anukramaṇikā it is said:
+
+वायो सैका गायत्रमुक्ता देवताः प्र उगेणाद्यॆ तु तृचेन्तैंद्रवायवी द्यावापृथिव्योऽन्यस्तृचो हाविर्धानो वा तृतीयः पादो वाग्नोऽम्यितमेऽनुष्टुभौ बृहती (*vāyo saikā gāyatramuktā devatāḥ pra ugeṇādyè tu tṛcentaiṃdravāyavī dyāvāpṛthivyo 'nyastṛco hāvirdhāno vā tṛtīyaḥ pādo vāgno 'myitame 'nuṣṭubhau bṛhatī*)
+
+*[The supplied text; its spelling differs in places from the Sanskrit introduction above (e.g. तृचेन्तैंद्रवायवी (*tṛcentaiṃdravāyavī*), वाग्नोऽम्यितमे (*vāgno 'myitame*)), left as supplied.]*
+
+On the sixth day of the sacrifices called Pṛṣṭha and Abhiplavaṣaḍaha, in the recitation of the Praüga *śastra* mantras, the Ṛks of this sūkta are applied except its last three Ṛks. For the Vāyavya *tṛca* (three Ṛks addressed to Vāyu) the Ṛk वायो ये ते सहस्रिणः (*vāyo ye te sahasriṇaḥ*) of this sūkta and the Ṛk next to it, two Ṛks in all; and in the Aindravāyava *tṛca* (three Ṛks addressed to Indra and Vāyu) the Ṛk शुक्रस्याद्य (*śukrasyādya*) is to be recited as the third Ṛk; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra:
+
+वायो ये ते सहस्रिण इति द्वे तीव्राः सोमास आ गहीत्येकोभा देवा दिविस्पृशेति द्वे शुक्रस्याद्य गवाशिर इत्येकायं वां मित्रावरुणेति पंच तृचाः (*vāyo ye te sahasriṇa iti dve tīvrāḥ somāsa ā gahītyekobhā devā divispṛśeti dve śukrasyādya gavāśira ityekāyaṃ vāṃ mitrāvaruṇeti paṃca tṛcāḥ*) (Ā. 7-6);
+
+on the twenty-fourth day, at the morning pressing, when the Maitrāvaruṇa *śastra* mantras are recited, the Ṛk अयं वां मित्रावरुणा (*ayaṃ vāṃ mitrāvaruṇā*) (the 4th Ṛk of this sūkta) is to be used as the *ṣaḷahastotriya*, as explained by the Āśvalāyana sūtra in the section beginning होताजनिष्ट (*hotājaniṣṭa*) in the twenty-fourth [day], अयं ना मित्रावरुणा पुरूरुणा चिद्धस्ति (*ayaṃ nā mitrāvaruṇā purūruṇā ciddhasti*) (Ā. 7-2) [as supplied]; on the days of the Abhiplava sacrifice also, in reciting the Maitrāvaruṇa *śastra* mantras at the morning pressing, this *tṛca*, that is, the three Ṛks beginning अयं वां (*ayaṃ vāṃ*), are to be used for the *āvāpa* (increase) of the Pañcadaśa and other *stomas*, as explained by the Āśvalāyana sūtra अयं वां मित्रावरुणा नो मित्रावरुणेति तृचाः (*ayaṃ vāṃ mitrāvaruṇā no mitrāvaruṇeti tṛcāḥ*) (Ā. 7-5); of this *tṛca*, the first Ṛk, अयं वा मित्रावरुणा (*ayaṃ vā mitrāvaruṇā*), is to be used as the *anuvākyā* mantra for the Maitrāvaruṇa cup, as explained by the Āśvalāyana sūtra मैत्रावरुणस्य आयं वां मित्रावरुणा (*maitrāvaruṇasya āyaṃ vāṃ mitrāvaruṇā*) (Ā. 5-5); and the *tṛca* beginning गोमदू षु (*gomadū ṣu*) (Ṛks 7-9 of this sūkta) is applied to the Gāyatrī-metre Ṛks of the Prātaranuvāka and the Āśvina *śastra*, as explained by the Āśvalāyana sūtra गोमदू षु नासत्येति तृचाः (*gomadū ṣu nāsatyeti tṛcāḥ*) (Ā. 4-15); in the sacrifice called Atirātra, in the first *paryāya*, the *tṛca* इंद्रो अंग महद्भयं (*iṃdro aṃga mahadbhayaṃ*) (Ṛks 10-12 of this sūkta) is applied to the *śastra* mantras to be recited by the priest called Brāhmaṇācchaṃsin, as explained by the Āśvalāyana
+
+### Printed p. 412
+
+*[Running head, p. 412: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+Śrauta Sūtra, in the section अतिरात्रे पर्यायाणां (*atirātre paryāyāṇāṃ*), by the sūtra इंद्रो अंग महद्भयमभि न्यू षु वाचं (*iṃdro aṃga mahadbhayamabhi nyū ṣu vācaṃ*) (Ā. 6-4); in the Āgrayaṇa, when the oblation addressed to the Viśvedevas is offered, the Ṛk विश्व देवासः (*viśva devāsaḥ*) (the 13th Ṛk of this sūkta) is to be used as the *anuvākyā* mantra, as explained by the Āśvalāyana sūtra in the section आग्रयणं (*āgrayaṇaṃ*), विश्वे देवास आ गत ये के च ज्मा महिनो आहिमायाः (*viśve devāsa ā gata ye ke ca jmā mahino āhimāyāḥ*) (Ā. 2-9); on the first day of the sacrifice called Daśarātra, when the Praüga *śastra* mantras are recited, the *tṛca* addressed to Sarasvatī, अंबितमे नदीतमे (*aṃbitame nadītame*) (Ṛks 19-19 of this sūkta, as supplied), is applied, as explained by the Āśvalāyana sūtra in the section चतुर्थेऽहनि (*caturthe 'hani*), अंबितमे नदीतम इत्यानुष्टुभं प्रलुगं (*aṃbitame nadītama ityānuṣṭubhaṃ pralugaṃ*) (Ā. 7-11); in the sacrifice called Vyūḍha-Daśarātra, at the time of the first Chandoma, when the Vaiśvadeva *śastra* mantras are recited, the *tṛca* प्रेतां यज्ञस्य शंभुवा (*pretāṃ yajñasya śaṃbhuvā*) (Ṛks 19-21 of this sūkta) is to be recited as the *nivid*-substitute mantra addressed to Heaven and Earth, as explained by the Āśvalāyana sūtra in the section अथ छंदोमा (*atha chaṃdomā*), प्रेतां यज्ञस्य शंभुवायं देवाय जन्मन इति तृचाः (*pretāṃ yajñasya śaṃbhuvāyaṃ devāya janmana iti tṛcāḥ*) (Ā. 8-9); and this *tṛca* (Ṛks 18-21 of this sūkta) is applied also in the setting in motion of the Havirdhānas, as explained by the Āśvalāyana sūtra प्रेतां यज्यस्य शंभुवा यमे इव यतमाने यदैतं (*pretāṃ yajyasya śaṃbhuvā yame iva yatamāne yadaitaṃ*) [यज्यस्य (*yajyasya*) as supplied], and the matter is stated also in the Aitareya Brāhmaṇa. (Ā. 4-8; Ai. Brā. 1-29) [the Sanskrit introduction above gives a different second number for this sūtra; as supplied].
+
+*[Heading lines of the supplied text, kept as a note:]* **Sūkta 41** — Maṇḍala 2, Anuvāka 4, Sūkta 41; Aṣṭaka 2, Adhyāya 8, Varga 7, 8, 9, 10. Number of ṛks in the sūkta: 21. Seer: Gṛtsamada. Deities: Ṛks 1, 2 Vāyu; 3 Indra and Vāyu; 4-6 Mitra and Varuṇa; 7-9 the two Aśvins; 10-12 Indra; 13-15 the Viśvedevas; 16-18 Sarasvatī; in Ṛk 19, pādas 1, 2 and 4, and in Ṛks 20, 21: Heaven and Earth, or the Havirdhānas; in Ṛk 19, pāda 3: Heaven and Earth, the Havirdhānas, or Agni (printed वाग्निवा (*vāgnivā*), as supplied). A stray digit "1" precedes "Deities" in the print. Metre: 1-15 and 19-21 Gāyatrī; 16, 17 Anuṣṭubh; 18 Bṛhatī.
+
+### Printed p. 413
+
+*[Running head, p. 413: Aṣṭaka 2, Adhyāya 8, Varga 7, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> वायो॒ ये ते॑ सह॒स्रिणो॒ रथा॑स॒स्तेभि॒रा ग॑हि ।
+> नि॒युत्वा॒न्नोस्म॑ेपीतये ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> वायो इति । ये । ते । सहस्रिणः । रथासः । तेभिः । आ । गहि ।
+> नियुत्वान् । सोमपीतये ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वायो ते त्वदीया ये सहस्रिणः सहस्रसंख्याका रथासो रथाः तेभिस्त्वैर्नियुत्वान् नियुद्भिर्युक्तस्तं सोमपीतये सोमपानार्थमा गहि । आगच्छ ।
+> नानारूपत्वाद्वायोः सर्वाभिर्विभूतिभिः । सहागमनं प्रार्थ्यत इति भावः ॥
+
+*(Gist: O Vāyu, come with your thousand chariots and your Niyut horses to drink the soma; the prayer is that he come with all his manifold forms and powers.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vāyo: O Vāyu. Te: your. Ye: which. Sahasriṇaḥ: numbering a thousand. Rathāsaḥ: chariots there are. Tebhiḥ: with them. Niyutvān: you, who have yoked your horses called Niyuts. Somapītaye: for the drinking of soma. Ā gahi: come.
+
+**भावार्थ (Bhāvārtha)**
+
+O Vāyu, with those thousand chariots of yours, you who have yoked your horses called Niyuts, come for the drinking of soma.
+
+**Printed English translation**
+
+Vayu, whose are a thousand chariots, and the Niyut steeds, come to drink the Soma juice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk and the next are addressed to Vāyu; the third Ṛk is addressed to Indra and Vāyu. In this Ṛk it is said that Vāyu has a thousand chariots. Sāyaṇa (printed सायणरु! (*sāyaṇaru!*), as supplied) has said that, since Vāyu has many forms, the prayer is made here that he come with all those forms and with his manifold excellences of power.
+
 ---
 
-**Progress note:** Done through printed p. 410 (PDF 410). Sukta 40 Rik 6 complete (pp. 408-409), Sukta 41 begins: Sayana introduction transcribed, Anuvada begins and breaks off mid-sentence at end of p. 410 (deities of Rks 16-18). Flags: Pada visvamIsh printed with avagraha-like sign as supplied; 1 accent DIFF in Rik 6; squiggly-line ornament note
+**Progress note:** Done through printed p. 413 (PDF 413). Sukta 41 Anuvada finished (pp. 411-412) and heading lines noted; Rik 1 complete (p. 413). Flags: Anukramanika quotation spelled differently from the introduction as supplied; 19-19 for the Sarasvati tryca as printed; Sutra Ā. 4-8 here vs 4-9 in the introduction; yajyasya/sayanaru! as supplied; 1 accent DIFF in Rik 1
