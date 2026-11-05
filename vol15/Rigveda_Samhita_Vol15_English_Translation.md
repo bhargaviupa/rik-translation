@@ -481,6 +481,88 @@ The deity Manyu is praised in the 83rd and 84th sūktas of the 10th Maṇḍala.
 > *sva 1 riti svaḥ ‖ 3 ‖*
 > 2
 
+### Printed p. 18
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24, p. 13 (as supplied; the page is printed 18).*
+
+**॥ सायणभाष्यम् ॥**
+
+> देवानामिंद्रादीनां मध्यॆ देवतमायातिशयेन दानादिगुणयुक्ताय ॥
+> षष्ठ्यर्थे चतुर्थी ॥ ईदृशस्य ब्रह्मणस्पतेस्तत्कर्त्वं कर्तव्यं कर्म । किं पुनस्तदिति
+> चेदुच्यते । दृळ्ता दृढानि पर्वतादीन्यश्रथन् ॥ श्रंथ विमोचनप्रतिहर्षणयोः ॥
+> अस्य बलेन श्रथितानि विश्लिष्टान्यभवन् । तथा वीळिता संस्तंभितानि दृढीकृतानि वृक्षादीनि ॥
+> वीळयतिश्च व्रीळयतिश्च संस्तंभकर्माणाविति यास्कः । नि. ५-१६ ॥ अव्रदंत ।
+> मृदून्यभवन् ॥ प्रदतिर्मृदूर्भावकर्मा । अपि च स ब्रह्मणस्पतिर्वलेनापहृता गा
+> उदाजत् ॥ अज गतिक्षेपणयोः ॥ देवान्प्रत्युदगमयत् । तथा ब्रह्मणात्मीयेन
+> मंत्रेण वलं सर्वस्यावारकमसुरमभिनत् । मंत्रस्य सामर्थ्येनाभैत्सीत् ।
+> तदनंतरं वलेनोत्पादितं तमो ध्वांतमगूहत् ॥ गुह संवरणे ॥ गूढमदृश्यम-
+> करोत् । तदनंतरं स्वरादित्यं व्यचक्षयत् । तमसो निराकरणेन तत्समदर्शयत् ॥
+> चष्टिः पश्यतिकर्मा ॥
+
+> *devānāmiṃdrādīnāṃ madhyè devatamāyātiśayena dānādiguṇayuktāya ‖*
+> *ṣaṣṭhyarthe caturthī ‖ īdṛśasya brahmaṇaspatestatkartvaṃ kartavyaṃ karma | kiṃ punastaditi*
+> *ceducyate | dṛḷtā dṛḍhāni parvatādīnyaśrathan ‖ śraṃtha vimocanapratiharṣaṇayoḥ ‖*
+> *asya balena śrathitāni viśliṣṭānyabhavan | tathā vīḷitā saṃstaṃbhitāni dṛḍhīkṛtāni vṛkṣādīni ‖*
+> *vīḷayatiśca vrīḷayatiśca saṃstaṃbhakarmāṇāviti yāskaḥ | ni. 5-16 ‖ avradaṃta |*
+> *mṛdūnyabhavan ‖ pradatirmṛdūrbhāvakarmā | api ca sa brahmaṇaspatirvalenāpahṛtā gā*
+> *udājat ‖ aja gatikṣepaṇayoḥ ‖ devānpratyudagamayat | tathā brahmaṇātmīyena*
+> *maṃtreṇa valaṃ sarvasyāvārakamasuramabhinat | maṃtrasya sāmarthyenābhaitsīt |*
+> *tadanaṃtaraṃ valenotpāditaṃ tamo dhvāṃtamagūhat ‖ guha saṃvaraṇe ‖ gūḍhamadṛśyama-*
+> *karot | tadanaṃtaraṃ svarādityaṃ vyacakṣayat | tamaso nirākaraṇena tatsamadarśayat ‖*
+> *caṣṭiḥ paśyatikarmā ‖*
+
+Gist: the Ṛk's deed is ascribed to Brahmaṇaspati: he loosened the firm mountains and made the rooted trees pliant, drove out the cows seized by Vala, split Vala by the mantra, hid the darkness and made the sun shine. Yāska is cited (Ni. 5-16) for *vīḷayati* and *vradati*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देवानां (*devānāṃ*)—among the gods, Indra and others; देवतमाय (*devatamāya*)—of Brahmaṇaspati, the most excellent god; कर्तृं (*kartṛṃ*) (as supplied; the Saṃhitā has कर्त्वं (*kartvaṃ*))—the extraordinary deed, which is famed as told below (namely); दृळ्हा (*dṛḷhā*) (the bhāṣya and Special Topics print दृळ्ता (*dṛḷtā*))—the firm mountains and the like; अश्रथन् (*aśrathan*)—he made loose; नीळिका (*nīḷikā*) (as supplied; the Saṃhitā and bhāṣya have वीळिता (*vīḷitā*))—the firmly rooted trees and the like; अव्रदंत (*avradaṃta*)—he made them soft; गाः (*gāḥ*)—the cows (taken away by Vala); उदाजत् (*udājat*)—he brought them out of the cave and made them go towards the gods; ब्रह्मणा (*brahmaṇā*)—by the power of his own mantra; वलं (*valaṃ*)—the asura named Vala; अभिनत् (*abhinat*)—he frightened and drove away (or destroyed); तमः (*tamaḥ*)—the darkness; अगूहत् (*agūhat*)—he scattered and made vanish; स्वः (*svaḥ*)—the sun; व्यचक्षयत् (*vyacakṣayat*)—he made shine.
+
+**भावार्थ (Bhāvārtha)**
+
+Among the gods, Indra and others, the extraordinary deed of Brahmaṇaspati, the most excellent god, is famed as told below. Namely: he loosened the firm mountains and the like. He made the firmly rooted trees and the like soft. He made the cows seized by Vala go towards the gods. By his mantra he frightened and drove away the asura Vala, and destroyed him. He scattered the darkness and made it vanish. He made the sun shine.
+
+### Printed p. 19
+
+*Running head: [A. 2 A. 7. V. 1.] Ṛgveda-saṃhitā, p. 19 (as supplied).*
+
+**Printed English**
+
+That was exploit, (performed) for the most divine of the gods, by which the firm (shut gates) were thrown open, the strong (barriers) were relaxed, (by him) who set the cows at liberty : who by the (force of the) sacred prayer, destroyed Vala : who dispersed the darkness and displayed the light.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the praise of the deeds done by Brahmaṇaspati is described. It also says that Brahmaṇaspati did all these feats by the power of his mantra alone.
+
+देवानां देवतमाय-इंद्रादीनां मध्यॆ अतिशयेन दानादिगुणयुक्ताय! (*devānāṃ devatamāya-iṃdrādīnāṃ madhyè atiśayena dānādiguṇayuktāya!*) Among all the gods Brahmaṇaspati is the most excellent. That is, among Indra and the other gods this Brahmaṇaspati is the one endowed in the highest degree with qualities such as generosity; the meaning is that he grants the desired objects to those who praise him more abundantly than Indra and the other gods. Or, if the word *devatama* is taken to mean "most excellent of the gods", the words देवानां देवतमाय (*devānāṃ devatamāya*) suggest the sense "one who is like the most excellent even among the gods", "god of gods"; just as one who is the foremost among kings is called "king of kings", so Brahmaṇaspati is described here by the words देवानां देवतमाय (*devānāṃ devatamāya*). Here the dative देवतमाय (*devatamāya*) is used in the sense of the genitive; such is the commentator's explanation.
+
+कर्त्वं—कर्तव्यं कर्म । (*kartvaṃ—kartavyaṃ karma |*) The deed that is done; that is, the feat that Brahmaṇaspati accomplished by the power of his mantra.
+
+दृळ्ता अश्रथन्, वीळिता अव्रदंतॆ (*dṛḷtā aśrathan, vīḷitā avradaṃtè*) (as supplied)—Some of Brahmaṇaspati's feats are described in this Ṛk. Among them are making the firm mountains and the like loose, and making soft the trees and the like that are well rooted and have grown firm. Here the verb अव्रदंतॆ (*avradaṃtè*) (as supplied) is formed from the root *vrand* [as supplied: व्रंद् (*vraṃd*)] and is used in the sense "to be soft". For the word व्रंदी (*vraṃdī*) formed from this root, Yāska gives the explanation व्रंदी व्रंदतेर्मृदुभावकर्मणः (*vraṃdī vraṃdatermṛdubhāvakarmaṇaḥ*) (Ni. 5-16) [sic as supplied: the hyphen of the line-break is printed व्रंदते- (*vraṃdate-*)]. In this connection the Ṛk—
+
+⟦ನಿ ಯದ್ವೃಣಕ್ಷಿ ಶ್ವಸನಸ್ಯ ಮೂರ್ಧನಿ ಶುಷ್ಣಸ್ಯ ಚಿದ್ವಂದಿನೋ ರೋರುವದ್ವನಾ ।
+ಪ್ರಾಚೀನೇನ ಮನಸಾ ಬರ್ಹಣಾವತಾ ಯದದ್ಯಾ ಚಿತ್ಕೃಣವಃ ಕಸ್ತ್ಯಾ ಪರಿ ॥⟧
+(Mu. Saṃ. 1-54-5)
+
+### Printed p. 20
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24, p. 20.*
+
+having been cited (by Yāska), he explains it thus: निवृणक्षि यच्छसनस्य मूर्धनि शब्दकारिणः शुष्ण स्यादित्यस्य च शोषयितू रोरूयमाणो वनानीति वा वधेनेति वा । अव्रदंत वीळिता इत्यपि निगमो भवति । वीळयतिश्च व्रीळयतिश्च संस्तंभकर्माणौ पूर्वेण संप्रयुज्येते । (*nivṛṇakṣi yacchasanasya mūrdhani śabdakāriṇaḥ śuṣṇa syādityasya ca śoṣayitū rorūyamāṇo vanānīti vā vadheneti vā | avradaṃta vīḷitā ityapi nigamo bhavati | vīḷayatiśca vrīḷayatiśca saṃstaṃbhakarmāṇau pūrveṇa saṃprayujyete |*) Having given this explanation, he also uses the present Ṛk, अव्रदंत वीळिता (*avradaṃta vīḷitā*), as an example. Of the wind that moves in the atmosphere and the sun, who is denoted by the word *vrandin* because he makes fruits and the like soft, Indra is greater than both, because he pours down water. Yāska himself says that applying the epithet *vrandin* to the sun, because he makes fruits and the like tender, is not so clear; and citing this very Ṛk he gives, for वीळिता (*vīḷitā*) here, the sense that he softened or loosened the trees with firm roots, अव्रदंत (*avradaṃta*). And: वीळयतिश्च व्रीळयतिश्च संस्तंभकर्माणौ (*vīḷayatiśca vrīḷayatiśca saṃstaṃbhakarmāṇau*) means that वीळिता (*vīḷitā*), formed from the root वीळयति (*vīḷayati*) or व्रीळयति (*vrīḷayati*), of the sense "to make stand firm like a pillar", is used together with the word अव्रंदत (*avraṃdata*) (as supplied; elsewhere अव्रदंत (*avradaṃta*)); so the meaning, making what is firm soft, is clearly explained.
+
+गाः उत् आजत्, ब्रह्मणा वलं अभिनत् (*gāḥ ut ājat, brahmaṇā valaṃ abhinat*)—Brahmaṇaspati, by the power of his mantra, split the asura Vala, and drove out from the mountain cave the cows of the gods that he had hidden in bondage. This is the main idea.
+
+तमः अगूहत्, स्वः वि आचक्षयत् (*tamaḥ agūhat, svaḥ vi ācakṣayat*)—He drove away the darkness that Vala had spread, and made the sun visible to all and shining. The asura Vala produced darkness and covered the sun so that he should not be seen by all. Bṛhaspati destroyed that darkness and made the sun shine; such is the idea.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अश्मा॑स्यमव॒तं ब्रह्म॑ण॒स्पति॒र्मधु॑धारम॒भि यमोज॒सातृ॑णत् ।
+> तमे॒व विश्वे॑ पपिरे स्व॒र्दृशो॑ ब॒हु सा॒कं सि॑सिचु॒रुत्स॑मु॒द्रिणं॑ ॥ ४ ॥
+
+> *aśmāsyamavataṃ brahmaṇaspatirmadhudhāramabhi yamojasātṛṇat |*
+> *tameva viśve papire svardṛśo bahu sākaṃ sisicurutsamudriṇaṃ ‖ 4 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 17 (PDF 17). Sūkta 24 Ṛk 2 bhāṣya end, Pratipadārtha, Bhāvārtha, printed English, Special Topics (pp. 15–17); Ṛk 3 Saṃhitā and Pada. Flags: Saṃhitā/Pada of Ṛk 3 accent DIFF (unaccented, printed spelling differs from reference, see accent_report); supplied-text oddities kept: 'ನನ್ತಾನಿ'/'ನಂತ್ವಾನಿ', 'ಬೃಹಸ್ಪತಿ', 'ಣಮು ಪ್ರಹ್ವತ್ತೇ', 'ವಲನಾಮ್ಮಾ', 'ಸಿಧಾನಾರ್ಥಂ', stray image-description line on p. 17. No hand fixes to kn.md.
+**Progress note:** Done through printed p. 20 (PDF 20). Sūkta 24 Ṛk 3 bhāṣya (gist), Pratipadārtha, Bhāvārtha, printed English, Special Topics (pp. 18–20); Ṛk 4 Saṃhitā only (Pada follows on p. 21). Flags: Ṛk 4 Saṃhitā accent DIFF if reported; supplied-text oddities kept: running head '13' on p. 18, 'ಕರ್ತೃಂ', 'ನೀಳಿಕಾ', 'ದೃಳ್ತಾ/ದೃಳ್ಹಾ', 'ಅವ್ರಂದತ', 'ವ್ರಂದೀ', 'ಮು. ಸಂ.'; hand fixes to kn.md p. 18 (labels, unquoted prose, stray Devanagari 'श्री राम राम' line replaced by Bhāvārtha label).
