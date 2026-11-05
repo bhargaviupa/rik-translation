@@ -21994,6 +21994,58 @@ At the beginning of the third pressing, as soon as the Adhvaryu directs Maitrāv
 
 *[The window ends here, at the end of p. 709; the next window continues.]*
 
+### Printed p. 710
+
+*[Running head, p. 710: Sāyaṇabhāṣyasahitā, Maṃ ೩ (no period after Maṃ, as printed), A. 1, Sū. 4.]*
+
+⟦ (*⟦*)⟧
+
+Is not the matter of a connection with the Ṛbhus at the time of the third pressing open to objection? Moreover, those who perform the Sāman chanting in the sacrifice do not praise the Ṛbhus with the Pavamāna stotra at the third pressing by adding Ṛks addressed to the Ṛbhus; they praise with mantras addressed to a deity other than the Ṛbhus, namely स्वादिष्टया मदिष्टया (*svādiṣṭayā madiṣṭayā*). So how the Pavamāna stotra comes to be ārbhava, that is, connected with the Ṛbhus, is also strange. The answer is given:
+
+प्रजापतिर्वै पित ऋभून्मत्यान्सतोऽमर्त्यान्कृत्या तृतीयसवन आभजत्तस्मान्नार्भवीषु स्तुवतेऽथार्भवः पवमान इत्याचक्षते । (*prajāpatirvai pita ṛbhūnmatyānsato 'martyānkṛtyā tṛtīyasavana ābhajattasmānnārbhavīṣu stuvate 'thārbhavaḥ pavamāna ityācakṣate |*)
+
+Why is the Pavamāna stotra recited at the third pressing called ārbhava (accompanied by the Ṛbhus) Pavamāna? There are no mantras addressed to the Ṛbhus in the Ṛks of this stotra. On this there is an ancient story. In the past Prajāpati, the father of all, made the Ṛbhus, who had been men, into immortal gods (we have explained this matter earlier in the Ṛbhu sūktas), and granted them the right to drink Soma at the third pressing. Therefore the Ṛbhus are entitled to a share of Soma at the third pressing only. For this reason it is said here आर्भवं शंसति (*ārbhavaṃ śaṃsati*) (the Ṛbhus are praised). This being so, since there is no state of being a deity for the Ṛbhus in the stotras, the priests such as the Udgātṛ, who chant the Sāman, do not praise the Ṛbhus in the Pavamāna stotras. Still the Pavamāna sūkta, which praises another deity (Pavamāna Soma), is called the ārbhava Pavamāna sūkta.
+
+⟦ಅಥಾಹ ಯದ್ಯಥಾಚ್ಛಂದಸಂ ಪೂರ್ವಯೋಃ ಸವನಯೋರನ್ವಾಹ ಗಾಯತ್ರೀಃ ಪ್ರಾತಃಸವನೇ
+ತ್ರಿಷ್ಟುಭೋ ಮಾಧ್ಯಂದಿನೇಽಥ ಕಸ್ಮಾಜ್ಜಾಗತೇ ಸತಿ ತೃತೀಯಸವನೇ ತ್ರಿಷ್ಟುಭೋಽನ್ವಾಹೇತಿ ।⟧
+
+The connection of the Ṛbhus with the drinking of Soma at the third pressing has been stated. Now they examine a strange matter concerning the metre of the Unnīyamāna sūkta recited at the third pressing. The rule that mantras of the Gāyatrī metre must be recited at the morning pressing, of the Triṣṭubh metre at the midday pressing, and of the Jagatī metre at the third pressing has been stated before. Accordingly it is right that the Unnīyamāna sūkta is recited with Ṛks of the Gāyatrī metre at the morning pressing and with Ṛks of the Triṣṭubh metre at the midday pressing. But in the Unnīyamāna sūkta इहोप यात (*ihopa yāta*) (Ṛ. Saṃ. 4-35) recited at the third pressing there are no Ṛks of the Jagatī metre; there are only Ṛks of the Triṣṭubh metre. जागतं तृतीयसवनं (*jāgataṃ tṛtīyasavanaṃ*)
+
+### Printed p. 711
+
+*[Running head, p. 711: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+[the Śruti sentence continues from the previous page:] is it not strange that, transgressing the Śruti sentence "the third pressing is of the Jagati", the Unnīyamāna sūkta इहोप यात (*ihopa yāta*) of the Triṣṭubh metre has been recited? The answer is given:
+
+⟦ಧೀತರಸಂ ವೈ ತೃತೀಯಸವನಮಥೈತದಧೀತರಸಂ ಶುಕ್ರಿಯಂ ಛಂದೋ ಯತ್ರಿಷ್ಟುಪ್ಸವನಸ್ಯ
+ಸರಸತಾಯಾ ಇತಿ ಬ್ರೂಯಾದಥೋ ಇಂದ್ರಮೇವೈತತ್ಸವನೇಽನ್ವಾಭಜತೀತಿ ।⟧
+
+Unlike the morning and midday pressings, at the third pressing the Soma plants that are crushed have no juice. Because its juice was drunk long ago by the Gāyatrī in the form of a falcon, it is juiceless. Namely, in the past Soma was in heaven. The gods thought that it must be brought to the earth to be used in sacrifices, and devised a means for it. Metres such as the Gāyatrī have the power to go to heaven and bring Soma. Therefore the gods prayed to the Gāyatrī and the other metres to bring Soma to the earth. Accepting that prayer, the Gāyatrī and the other metres agreed to go to heaven. On this there is a story, which the bhāṣyakāra cites here:
+
+⟦ಜಗತ್ಯುದಪತಚ್ಚತುರ್ದಶಾಕ್ಷರಾಸತೀ ಸಾಪ್ರಾಪ್ಯ ನ್ಯವರ್ತತ ತಸ್ಯೈ ದ್ವೇ ಅಕ್ಷರೇ ಅಮೀಯೇತಾಗ್ಂ ಸಾ ಪಶುಭಿಶ್ಚ ದೀಕ್ಷಯಾ ಚಾಗಚ್ಛತ್ತಸ್ಮಾಜ್ಜಗತೀಛಂದಸಾಂ ಪಶವ್ಯತಮಾ ತಸ್ಮಾತ್ಪಶುಮಂತಂ ದೀಕ್ಷೋಪನಮತಿ ತ್ರಿಷ್ಟುಗುದಪತತ್ರಯೋದಶಾಕ್ಷರಾಸತೀ ಸಾಪ್ರಾಪ್ಯ
+ನ್ಯವರ್ತತ ತಸ್ಯೈ ದ್ವೇ ಅಕ್ಷರೇ ಅಮೀಯೇತಾಗ್ಂ ಸಾ ದಕ್ಷಿಣಾಭಿಶ್ಚ ತಪಸಾ ಚಾಗಚ್ಛತ್ತಸ್ಮಾತ್ರಿಷ್ಟುಭೋ ಲೋಕೇ ಮಾಧ್ಯಂದಿನೇ ಸವನೇ ದಕ್ಷಿಣಾನೀಯಂತ ಏತತ್ಖಲು ವಾವ ತಪ
+ಇತ್ಯಾಹುರ್ಯಃ ಸ್ವಂ ದದಾತೀತಿ ಗಾಯತ್ಯುದಪತಚ್ಚತುರಕ್ಷರಾ ಸತ್ಯಜಯಾ ಜ್ಯೋತಿಷಾ
+ತಮಸ್ಯಾ ಅಜಾಭ್ಯರುಂಧತ ತದಜಾಯಾ ಅಜತ್ವಗ್ಂ ಸಾ ಸೋಮಂ ಚಾಹರಚ್ಚತ್ವಾರಿ
+ಚಾಕ್ಷರಾಣಿ ಸಾಷ್ಟಾಕ್ಷರಾ ಸಮಪದ್ಯತ ಬ್ರಹ್ಮನಾದಿನೋ ವದಂತಿ ಕಸ್ಮಾತ್ಸತ್ಯಾದ್ಗಾಯತ್ರೀ
+ಕನಿಷ್ಠಾ ಛಂದಸಾಗ್ಂ ಸತೀ ಯಜ್ಞಮುಖಂ ಪರೀಯಾಯೇತಿ ಯದೇವಾದಃ ಸೋಮಮಾಹರತ್ತಸ್ಮಾದ್ಯಜ್ಞಮುಖಂ ಪರ್ಯೈತ್ತಸ್ಮಾತ್ತೇಜಸ್ವಿನೀತಮಾ ಪದ್ಭ್ಯಾಂ ದ್ವೇ ಸವನೇ
+ಸಮಗೃಹ್ಣಾನ್ಮುಖೇನೈಕಂ ಯನ್ಮುಖೇನ ಸಮಗೃಹ್ಣಾತ್ತದಧಯತ್ತಸ್ಮಾದ್ವೇ ಸವನೇ
+ಶುಕ್ರವತೀ ಪ್ರಾತಃಸವನಂ ಚ ಮಾಧ್ಯಂದಿನಂ ಚ ತಸ್ಮಾತ್ತೃತೀಯಸವನಋಜೇಷಮಭಿಷುಣ್ವಂತಿ ಧೀತಮಿವ ಹಿ ಮನ್ಯಂತೇ ।⟧
+(printed तै (*tai*). सं (*saṃ*). 6-1-6_2, 3, 4)
+
+*[The reading धीतमिव (*dhītamiva*) near the end of the passage was printed in the supplied text with three Telugu letters; they were put into Kannada letters one for one (धीतम (*dhītama*)), and the Kannada text carries the same.]*
+
+First the Jagatī metre, saying "I shall go", leapt into the atmosphere. But before it had gone a little way its strength failed, and without strength to go further it had to turn back. By this it lost two syllables of the fourteen syllables that its pāda had before. Therefore
+
+### Printed p. 712
+
+*[Running head, p. 712: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+now every pāda of the Jagatī metre has only twelve syllables. Thus, returning for lack of strength to go forward, the Jagatī brought with it the animal, the means of the sacrifice, and the order of initiation (dīkṣā). Therefore the Jagatī metre has the power to give cattle. If the sacrificer who performs the sacrifice desires wealth in cattle, then when he is consecrated by the dīkṣā in the sacrifice, he is consecrated with mantras of the Jagatī metre alone. Next the Triṣṭubh metre, saying "I shall go", leapt into the atmosphere. Before it had gone a little way it too grew weary and had to turn back. Having lost two syllables of the thirteen syllables in its pāda, the pāda of the Triṣṭubh metre now has only eleven syllables. Returning, this Triṣṭubh metre brought with it from heaven the dakṣiṇā and the austerity (tapas), the means of the sacrifice. Therefore even now, in worldly usage, when a sacrifice is performed, there is the custom of giving the dakṣiṇā to the priests at the midday pressing. Giving away one's own earned wealth in this way is called tapas.
+
+Then the Gāyatrī, saying "I shall go", leapt into the atmosphere in the form of a falcon and flew away. In going it took with it, for help, a female goat. As it went, the pādas of the Gāyatrī metre had only four syllables. Although the Gāyatrī is small by the measure of syllables among all metres, by its own strength it reached heaven, overcame the guards there, and brought Soma. When bringing the Soma juice it brought back the two syllables each that the Jagatī and Triṣṭubh metres had lost. Those four syllables joined the four syllables the Gāyatrī had before, and every pāda of the Gāyatrī became eight syllables. Because it brought Soma from heaven, the Gāyatrī, though small in measure, obtained greater excellence. When bringing Soma to the earth, the Gāyatrī in the form of a falcon held Soma in its two feet and brought another part biting it in its beak. The portions of the Soma plants held in the two feet became the morning and midday pressings. The portion brought biting in the beak became the third pressing. While bringing it biting in its beak, the falcon bit the Soma plant and sucked its juice; therefore the Soma juice in those plants was not abundant and they became juiceless. That is why it is said here that the third pressing is not full of sap but juiceless. Even now, at the third pressing, without crushing and pressing fresh Soma plants, they soak in water the plants left like husks after the juice was pressed at the midday pressing, and press out the juice again. Since there is not much juice in these husks, in order to increase its juice they make a connection of it with the midday pressing, that is, with the mantras of the Triṣṭubh metre used at the midday pressing
+
+*[The window ends here, at the end of p. 712, in the middle of this sentence; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 709 (PDF 709). Sūkta 4 Ṛk 5 Special Topics (midday pressing: abhitṛṇṇavatī mantras; third pressing: Unnīyamāna sūkta 4-35, deities)
+**Progress note:** Done through printed p. 712 (PDF 712). Sūkta 4 Ṛk 5 Special Topics (third pressing: Ārbhava Pavamāna, Triṣṭubh instead of Jagatī; Tai. Saṃ. 6-1-6 story of the metres and Soma)
