@@ -27763,4 +27763,152 @@ The Kannada says: this Ṛk was seen by Gṛtsamada. In the sacrifice called Ati
 
 ---
 
-**Progress note:** Done through printed p. 725 (PDF 748). Sūkta 14: Ṛk 1 is complete (Viśeṣaviṣayagaḷu closed on p. 725 with Durgācārya's commentary; no grammar section printed for it). Ṛk 2 is open: Saṃhitā and Pada written (the Pada ends "॥ २ ॥"); the Sāyaṇa-bhāṣya, Pratipadārtha and the rest follow on the next page. The varga numeral in the headers of pp. 723 and 725 is read 13 (supports the doubtful reading on p. 721). Numeral references (1-164-16, 1-5, 5-1) agree with the numeral file; none zoomed, no FILE DISAGREE. Doubtful or noted places: "हृत्वामत्रेभिः" and "त्रैर्मद्यं" (p. 723, read as printed, same as p. 720); "सोमद्रव्यं" on p. 724 is clearly printed and seems to correct the p. 720 reading "सोमप्रव्यं"; "रात्रिपर्यायेः" (p. 724, as printed); the compound marks in the Ṛk 2 Pada (वव्रिऽवांसं, अशन्याऽइव, तत्ऽवशाय).
+### Printed p. 726 (PDF 749)
+
+*(Header, read from the strip and not zoomed: "726", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra struck Vṛtra (the cloud) with the vajra as lightning burns a tree. Offer him the soma; he is worthy of drinking it.*
+
+> हे अध्वर्यवः य इंद्रोऽप उदकानि वव्रिवांसमावृत्य स्थितं वृत्रं । वृणोत्याकाशमिति वृत्रो मेघः । तं मेघं वज्रेण जघान । हतवान् । अशन्येव । यथाशन्या वैद्युताग्निना वृक्षं दहति तद्वत् । तस्मै तद्वशाय सोमकामाय तस्मा इंद्रायैतं सोमं भरत । उत्तरवेदिं प्रति हरत । एष इंद्रोऽस्य सोमस्य पीतिं पानमर्हति ॥
+
+> *he adhvaryavaḥ ya iṃdro 'pa udakāni vavrivāṃsamāvṛtya sthitaṃ vṛtraṃ | vṛṇotyākāśamiti vṛtro meghaḥ | taṃ meghaṃ vajreṇa jaghāna | hatavān | aśanyeva | yathāśanyā vaidyutāgninā vṛkṣaṃ dahati tadvat | tasmai tadvaśāya somakāmāya tasmā iṃdrāyaitaṃ somaṃ bharata | uttaravediṃ prati harata | eṣa iṃdro 'sya somasya pītiṃ pānamarhati ‖*
+
+*(The first word of the bhāṣya is read as "य" and joined by sandhi to "इंद्रोऽप"; this is how the line is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. | यः (*yaḥ*)—which Indra. | अशन्या (*aśanyā*)—by the lightning-fire. | वृक्षं इव (*vṛkṣaṃ iva*)—as it splits and burns a tree. | अपः (*apaḥ*)—the waters. | वव्रिवांसं (*vavrivāṃsaṃ*)—who stood enveloping. | वृत्रं (*vṛtraṃ*)—the asura Vṛtra, or the cloud. | जघान (*jaghāna*)—split with the vajra weapon. | तस्मै (*tasmai*)—for such. | तद्वशाय (*tadvaśāya*)—for Indra, who is desirous of soma, in order to offer it. | एतं (*etaṃ*)—this soma. | भरत (*bharata*)—(to the uttaravedi) take and bring. | एषः इंद्रः (*eṣaḥ iṃdraḥ*)—this Indra. | अस्य (*asya*)—of this soma juice. | पीतिं (*pītiṃ*)—to obtain the drinking. | अर्हति (*arhati*)—is worthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, take this soma to the uttaravedi in order to offer it to Indra, who split with his vajra weapon the Vṛtra that stood enveloping the waters, as the lightning-fire splits and burns a tree. He is desirous of soma. This Indra is worthy of the drinking of the soma juice.
+
+**English Translation** *(as printed)*
+
+Priests, offer the libation to him who slew the rain-arresting Vritra, as (he strikes down) a tree with (his) thunderbolt; to him who desires it: and Indra is worthy of (the beverage).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः अपः वव्रिवांसं वृत्रं जघान अशन्येव वृक्षं (*yaḥ apaḥ vavrivāṃsaṃ vṛtraṃ jaghāna aśanyeva vṛkṣaṃ*)—The chief purport of the sentence is: "Offer soma to that Indra who struck the Vṛtra, the asura or the cloud, that had surrounded the waters in the sky and held them back so that the rain did not fall, as the lightning (*śiḍilu*) strikes and burns a tree." Here the one who held the water back so that it did not fall downwards, that is, on the earth, may be the cloud, or may be Vṛtra. *(The last line of the page is faintly printed in places, "bhūmiyu·ēle" and "āgabaha·du"; read as "bhūmiyamēle" and "āgabahudu" from the sense and not otherwise completed.)*
+
+---
+
+### Printed p. 727 (PDF 750)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "727".)*
+
+वृत्रं (*vṛtraṃ*)—The word *vṛtra* is read among the names of the cloud (Ni. 2-21, as printed; the numeral file agrees; not zoomed). Yāska, explaining the word *vṛtra*, says:
+
+> तत्को वृत्रः । मेघ इति नैरुक्ताः । त्वाष्ट्रोऽसुर इत्यैतिहासिकाः । अपां च ज्योतिषश्च मिश्रीभावकर्मणो वर्षकर्म जायते । तत्रोपमार्थेन युद्धवर्णा भवंति ।
+
+> *tatko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭro 'sura ityaitihāsikāḥ | apāṃ ca jyotiṣaśca miśrībhāvakarmaṇo varṣakarma jāyate | tatropamārthena yuddhavarṇā bhavaṃti |*
+
+(Ni. 2-16, as printed; the numeral file agrees; not zoomed.)
+
+The Kannada explains: with the question "Who is Vṛtra?" and the answers, Yāska has given the explanation. The Nairuktas say he is the cloud; the Aitihāsikas (those who write the history) say he is the asura Vṛtra, son of Tvaṣṭṛ Prajāpati. Pointing to this difference of opinion, he says: from the mixing of the sun's ray and the sea water (that is, the sun's ray falls on the sea) the action of rain arises as its effect *(the first letter of "vṛṣṭikarma" is printed so that it may be read pṛ- or vṛ-; read as the rain-action, from the Sanskrit "varṣakarma")*. This very rain (the heavy rain with thunderbolt, lightning and thunder) they have described by comparing it to a battle. That is, when the clouds in the sky, or Vṛtra, stand so blocking the rain that it does not fall on the earth, Indra strikes them with his vajra (the lightning) and makes the rain fall. They state their own opinion that the battle between Indra and Vṛtra is just this description.
+
+The Bhāṣyakāra explained:
+
+> वृणोत्याकाशमिति वृत्रो मेघः । वृणोतेराच्छादनार्थात् (स्वादि परस्मैपदि) ।
+
+> *vṛṇotyākāśamiti vṛtro meghaḥ | vṛṇoterācchādanārthāt (svādi parasmaipadi) |*
+
+That is, he has explained that since it covers (envelops) the sky, *vṛtra* means the cloud. Besides:
+
+> आच्छादयतीति ह्यसौ कृत्स्नं नभः
+
+> *ācchādayatīti hyasau kṛtsnaṃ nabhaḥ*
+
+Because it covers the whole space of the sky, making darkness spread, *vṛtra* means the cloud. Or:
+
+> गच्छत्यसौ कृत्स्नं नभः
+
+> *gacchatyasau kṛtsnaṃ nabhaḥ*
+
+Because it moves about in the sky, *vṛtra* means the cloud. Or:
+
+> वर्धतेर्वा वृद्ध्यर्थात् (भू. आ-) बाहुलकात् त्रन्, धकारस्य तकारो व्यत्ययेन, वर्धते हि वर्षासु मेघः
+
+> *vardhatervā vṛddhyarthāt (bhū. ā-) bāhulakāt tran, dhakārasya takāro vyatyayena, vardhate hi varṣāsu meghaḥ*
+
+That is, because it grows in the rainy season, *vṛtra* means the cloud. In this sense it should be understood that the word *vṛtra* is formed from the root *vṛdh*, and that the *t* has come in place of the *dh* by inversion (*vyatyāsa*). *(The sūtra number after "भू. आ-" is not printed.)* Support for such meanings is found in the Vedas themselves, as follows:
+
+*(1)*
+
+> यदिमाँल्लोकानवृणोत्तद्वृत्रस्य वृत्रत्वं स इषुमात्रमिषुमात्रं विष्वज् अवर्धत ।
+
+> *yadimā~llokānavṛṇottadvṛtrasya vṛtratvaṃ sa iṣumātramiṣumātraṃ viṣvaj avardhata |*
+
+(Tai. Saṃ. — the reference numbers are left blank in the print. Gloss, mine and tentative: "Because he covered these worlds, that is the Vṛtra-ness of Vṛtra; he grew an arrow's length, an arrow's length, in every direction.")
+
+*(2)*
+
+> अस्मा इदु प्र भरा तूतुजानो वृत्राय वज्रमीशानः कियेधाः ।
+
+> *asmā idu pra bharā tūtujāno vṛtrāya vajramīśānaḥ kiyedhāḥ |*
+
+(R. Saṃ. 1-61-12, as printed; the numeral file agrees; not zoomed.)
+
+*(3)*
+
+> श्रत्ते दधामि प्रथमाय मन्यवेऽहन्यद्वृत्रं नर्यं विवेरपः ।
+
+> *śratte dadhāmi prathamāya manyave 'hanyadvṛtraṃ naryaṃ viverapaḥ |*
+
+(R. Saṃ. 10-147-1, as printed; the numeral file agrees; not zoomed.)
+
+*(The candrabindu-like mark above the first word of (1) and the "श्रत्ते" of (3) are read as printed.)* There are many such examples.
+
+---
+
+### Printed p. 728 (PDF 751)
+
+*(Header, read from the strip and not zoomed: "728", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+अशन्येव वृक्षं (*aśanyeva vṛkṣaṃ*)—यथा अशन्या वैद्युताग्निना वृक्षं दहति तद्वत् (*yathā aśanyā vaidyutāgninā vṛkṣaṃ dahati tadvat*) ("as the lightning-fire burns a tree"). While the rain is pouring, the thunderbolt (*śiḍilu*), called the lightning-fire, strikes a tree that has grown tall and it burns up: this simile is compared with the vajra weapon that Indra uses when he slays Vṛtra. *(No grammar section is printed for Ṛk 2.)*
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यो दृभी॑कं ज॒घान॒ यो गा उ॒दाज॒दप॒ हि व॒लं वः ।
+> तस्मा॑ ए॒तमं॒तरि॑क्षे॒ न वात॒मिंद्रं॒ सोम्यै॒रोर्णु॑त॒ जूर्न वस्त्रैः॑ ॥ ३ ॥
+
+> *adhvaryavo yo dṛbhīkaṃ jaghāna yo gā udājadapa hi valaṃ vaḥ |*
+> *tasmā etamaṃtarikṣe na vātamiṃdraṃ somyairorṇuta jūrna vastraiḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+*(Reading note: the last words of the first Pada line are printed "वलं ः" and then, at the start of the next line, "वरिति वः"; they are copied as printed. The letters after "वलं" are doubtful and the Pada division of "अप वः" is not settled; compare the Sāyaṇa-bhāṣya below, which reads "अपवः". In "उत्ऽआजत्" the small stroke is read as the compound mark ऽ.)*
+
+> अध्वर्यवः । यः । दृभीकं । जघान । यः । गाः । उत्ऽआजत् । अप । हि । वलं ः वरिति वः ।
+> तस्मै । एतं । अंतरिक्षे । न । वातं । इंद्रं । सोम्यैः । आ । ऊर्णुत । जूः । न ।
+> वस्त्रैः ॥ ३ ॥
+
+> *adhvaryavaḥ | yaḥ | dṛbhīkaṃ | jaghāna | yaḥ | gāḥ | ut 'ājat | apa | hi | valaṃ ḥ variti vaḥ |*
+> *tasmai | etaṃ | aṃtarikṣe | na | vātaṃ | iṃdraṃ | somyaiḥ | ā | ūrṇuta | jūḥ | na |*
+> *vastraiḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra slew the asura Dṛbhīka, freed the cows shut in by Bala and slew Bala; cover him with soma juices as a worn man covers his body with clothes.*
+
+*(Reading notes: the first words of the bhāṣya are printed "सवान्विदारयति"; the reph of "सर्वान्" is not visible in the strip, so it is written "सर्वान्[?]". In the grammatical tail "लुजं[?]" and "हल्ङ्यादिना" are read as printed, the conjunct of the latter being unclear; "सोम्यैरिंद्रमा[?]" has an unclear conjunct after the *i* of the first syllable; "आच्छाधयत" has *dha* as printed. None of these is completed from memory.)*
+
+> हे अध्वर्यवः य इंद्रो दृभीकं । सर्वान्[?]विदारयति भियं करोतीति दृभीको नामासुरः । तमसुरं जघान । यश्च बलासुरेण । निरुद्धा गा उदाजत् । निरगमयत् । ततश्च तमेव बलमसुरं अपवः । अपावृणोत् । हिंसितवानित्यर्थः ॥ वृणोतेर्लुजं[?] मंत्रे घसेत्यादिना च्लेर्लुक् । हल्ङ्यादिना तिपो लोपः ॥ तस्मा इंद्रायैतं सोममंतरिक्षे वातं न वातमिव धाराभिर्व्याप्तं कुरुत । तदेवाह सोम्यैरिंद्रमा[?] ऊर्णुत । सर्वत आच्छाधयत ॥ ऊर्णुञ् आच्छादने । आदादिकः । लोटि रूपं ॥ तत्र दृष्टांतः । जूर्न जीर्णो यथा वस्त्रैरंगमाच्छादयति तद्वत् ॥
+
+> *he adhvaryavaḥ ya iṃdro dṛbhīkaṃ | sarvān[?]vidārayati bhiyaṃ karotīti dṛbhīko nāmāsuraḥ | tamasuraṃ jaghāna | yaśca balāsureṇa | niruddhā gā udājat | niragamayat | tataśca tameva balamasuraṃ apavaḥ | apāvṛṇot | hiṃsitavānityarthaḥ ‖ vṛṇoterlujaṃ[?] maṃtre ghasetyādinā clerluk | halṅyādinā tipo lopaḥ ‖ tasmā iṃdrāyaitaṃ somamaṃtarikṣe vātaṃ na vātamiva dhārābhirvyāptaṃ kuruta | tadevāha somyairiṃdramā[?] ūrṇuta | sarvata ācchādhayata ‖ ūrṇuñ ācchādane | ādādikaḥ | loṭi rūpaṃ ‖ tatra dṛṣṭāṃtaḥ | jūrna jīrṇo yathā vastrairaṃgamācchādayati tadvat ‖*
+
+*(The grammar tail is transcribed without explanation; no sūtra numbers are printed in it.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. | यः (*yaḥ*)—which Indra. | दृभीकं (*dṛbhīkaṃ*)—the asura called Dṛbhīka. | जघान (*jaghāna*)—killed (and). | वलं (*valaṃ*)—the asura called Vala. | अप वः (*apa vaḥ*)—harmed. *(The Pratipadārtha continues on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 728 (PDF 751). Sūkta 14: Ṛk 2 is complete (no grammar section printed for it). Ṛk 3 is open: Saṃhitā, Pada and Sāyaṇa-bhāṣya written; the Pratipadārtha is begun and stops after "अप वः—हिंसिसिदनो" (the entries from ⟦वलं⟧ onward in this list are done; the next entry on the next page is "तस्मै"). The Bhāvārtha, printed English and Viśeṣaviṣayagaḷu follow. Header numerals (Sū. 14; A. 2 A. 6 V. 13) read and agree with the previous pages. Numeral references 2-21, 2-16, 1-61-12 and 10-147-1 agree with the numeral file; none zoomed, no FILE DISAGREE. The Tai. Saṃ. reference after the first Veda example and the sūtra number after "भू. आ-" are not printed. Doubtful places: Ṛk 3 Pada "वलं ः वरिति वः" (copied as printed); bhāṣya "सर्वान्[?]", "लुजं[?]", "हल्ङ्यादिना", "सोम्यैरिंद्रमा[?]", "आच्छाधयत"; the reading "vṛṣṭikarma" on p. 727; faint letters on p. 726.
