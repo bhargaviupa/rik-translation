@@ -7371,6 +7371,99 @@ Gist: O Maruts of one mind, come to our food-offerings and Soma-libations as to 
 
 समन्यवः (*samanyavaḥ*)—those of equal minds; मरुतः (*marutaḥ*)—O Maruts; नः (*naḥ*)—to be offered by us; ब्रह्माणि (*brahmāṇi*)—the food; सवनानि (*savanāni*)—the Soma juice that has been pressed [as supplied: हिंदल्पट्ट (*hiṃdalpaṭṭa*)], desiring it; नरां (*narāṃ*)—of men (like us); शंसः न (*śaṃsaḥ na*)—as you come desiring praises; आ गंतन (*ā gaṃtana*)—come; (then) धेनुं (*dhenuṃ*)—the cloud that satisfies by giving water; अश्वामिव ऊधनि (*aśvāmiva ūdhani*)—as one makes the limbs of mares robust by giving them water to drink; पिप्यत (*pipyata*)—make it swell so as to be rain-producing; जरित्रे (*jaritre*)—for the singer; वाजपेशसं (*vājapeśasaṃ*)—so as to provide food; धियं (*dhiyaṃ*)—the rite; कर्त (*karta*)—perform. (The supplied text of this page ends here, at माडिरि (*māḍiri*), without Bhāvārtha or printed English.)
 
+### Printed p. 239
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts of one mind, come desiring the food offered by us and the pressed Soma juice, just as you come desiring the praises of men like us. Then make the cloud, which gratifies by giving water, swell so as to produce rain, as one makes the limbs of mares robust by giving them water to drink. Perform the rite so that food is provided to the singer.
+
+**Printed English translation**
+
+Maruts, who are of one mind, come to the food that is offered a1 (our) sacrifices, as (you come) to the praises of men : nourish the milch cow. (the cloud), so that it may be like a mare with a full udder, and render the pious rite productive of abundant food to the worshipper. [sic: "a1" as supplied; line break after "cow." as supplied]
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+On the first part (नः ब्रह्माणि सवनानि नरां न शंसः आ गंतन (*naḥ brahmāṇi savanāni narāṃ na śaṃsaḥ ā gaṃtana*)) the bhāṣya says: as our food, that is, oblations in the form of pressed Soma, come to us like praise that is worthy of being praised. The Kannada explanation adds: addressing the Maruts, the sacrificers say that, just as the Maruts come to hear the hymns we recite, they should come to accept the carefully pressed Soma juice and the food in the form of oblation that we offer.
+
+On धेनुं अश्वामिव ऊधनि पिप्यत (*dhenuṃ aśvāmiva ūdhani pipyata*) the bhāṣya says: as mares become plump-limbed through giving them water, so make the cloud capable of raining and swollen. The explanation adds: the Maruts, coming to the sacrificial hall and accepting the oblations we offer, should delight the whole world by pouring rain; as well-fed horses are robust, the cloud, filled with waters and capable of producing rain, should be made to swell so as to give us joy; this is the wish expressed.
+
+On जरित्रे वाजपेशसं धियं कर्त (*jaritre vājapeśasaṃ dhiyaṃ karta*) the bhāṣya says: perform for the singer a rite embraced by food. The explanation adds: the Maruts should perform the duties so that food increases for us, who recite praises at the sacrifices as priests or sacrificers; thus it is described.
+
+ब्रह्माणि (*brahmāṇi*) means foods. The word ब्रह्म (*brahma*) is said to occur among the names of food (Ni. 3-9) and among the names of wealth (Ni. 3-9) [both references as supplied].
+
+### Printed p. 240
+
+The Special Topics continue; the Ṛk cited for ब्रह्माणि (*brahmāṇi*) is:
+
+> यामधर्वा मनुष्यता दध्यङ्छयमत्नत ।
+> तस्मिन् ब्रह्माणि पूर्वथेंद्र उक्ता समग्मतार्चन्ननु स्वराज्यं ॥
+
+> *yāmadharvā manuṣyatā dadhyaṅchayamatnata |*
+> *tasmin brahmāṇi pūrvatheṃdra uktā samagmatārcannanu svarājyaṃ ‖*
+
+(Ma. Saṃ. 1-80-16)
+
+In that verse ब्रह्माणि (*brahmāṇi*) is explained as "works" (कर्माणि (*karmāṇi*)). Here the meaning "food" is given.
+
+The word धेनु (*dhenu*) is said to occur among the names of speech (Ni. 2-23). Here धेनुं (*dhenuṃ*) is used in the sense of "the one who gratifies" (प्रीणयितारं (*prīṇayitāraṃ*)), the one who delights.
+
+जरित्रे (*jaritre*) means स्तोत्रे (*stotre*), "for the singer". The word जरिता (*jaritā*) is said to occur among the names of singers (Ni. 3-19). The meaning is explained as the priests who recite praises.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> तं नो॑ दात मरुतो वा॒जिनं॒ रथ॑ आपा॒नं ब्रह्म॑ चि॒तय॑द्दि॒वेदि॑वे ।
+> इषं॑ स्तो॒तृभ्यो॑ वृ॒जने॑षु का॒रवे॑ स॒निं मे॒धामरि॑ष्टं दु॒ष्करं॒॑
+> सहः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> तं । नः । दात । मरुतः । वाजिनं । रथे । आपानं । ब्रह्म । चितयत् । दिवेदिवे ।
+> इषं । स्तोतृभ्यः । वृजनेषु । कारवे । सनिं । मेधां । अरिष्टं । दुस्तरं । सहः ॥७॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः तं पुत्रं नोऽस्मभ्यं दात । दत्त प्रयच्छत ॥ छांदसः शपो
+> लुक् ॥ कीदृशं । वाजिनमन्नवंतं बलवंतं वा । रथे रंहणे युष्मदीय आगमने
+> निमित्तभूते सति दिवेदिवे प्रतिदिवसं चितयत् प्रज्ञापयत् युष्मद्गुणप्रख्यापकं ।
+> ब्रह्म स्तोत्रमापानमाप्नुवंतं । अपि च इषमन्नं स्तोतृभ्योऽस्मभ्यं दात ।
+> प्रयच्छत । तथा वृजनेषु संग्रामेषु कारवे स्तोत्रे ॥ वचनव्यत्ययः ॥ मेधां
+> युद्ध प्रज्ञानं सनिं धनदातृत्वं चारिष्टं शत्रुभिरहिंसितं दुस्तरं शत्रुभिस्तरीतुमशक्यं
+> सहो बलं च प्रयच्छत ॥
+
+> *he marutaḥ taṃ putraṃ no 'smabhyaṃ dāta | datta prayacchata ‖ chāṃdasaḥ śapo*
+> *luk ‖ kīdṛśaṃ | vājinamannavaṃtaṃ balavaṃtaṃ vā | rathe raṃhaṇe yuṣmadīya āgamane*
+> *nimittabhūte sati divedive pratidivasaṃ citayat prajñāpayat yuṣmadguṇaprakhyāpakaṃ |*
+> *brahma stotramāpānamāpnuvaṃtaṃ | api ca iṣamannaṃ stotṛbhyo 'smabhyaṃ dāta |*
+> *prayacchata | tathā vṛjaneṣu saṃgrāmeṣu kārave stotre ‖ vacanavyatyayaḥ ‖ medhāṃ*
+> *yuddha prajñānaṃ saniṃ dhanadātṛtvaṃ cāriṣṭaṃ śatrubhirahiṃsitaṃ dustaraṃ śatrubhistarītumaśakyaṃ*
+> *saho balaṃ ca prayacchata ‖*
+
+Gist: O Maruts, give us that son, rich in food and strength, who daily proclaims your praise; also give food, battle-wisdom, liberality, and unharmed, unconquerable strength.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मरुतः (*marutaḥ*) (Marutaḥ)—O Maruts; वाजिनं (*vājinaṃ*)—him who has food; रथे (*rathe*)—on account of your coming; दिवेदिवे (*divedive*)—every day; चितयत् (*citayat*)—describing and making known your qualities; ब्रह्म (*brahma*)—the hymn;
+
+### Printed p. 241
+
+आपानं (*āpānaṃ*)—him who composes and recites; तं (*taṃ*)—that son; नः (*naḥ*)—to us; दात (*dāta*)—give; इषं (*iṣaṃ*)—food; स्तोतृभ्यः (*stotṛbhyaḥ*)—to us, the singers (give); वृजनेषु (*vṛjaneṣu*)—in battles; कारवे (*kārave*)—to the singer; मेधां (*medhāṃ*)—intelligence endowed with skill in battle; सनिं (*saniṃ*)—liberality in giving wealth; अरिष्टं (*ariṣṭaṃ*)—freedom from harm by enemies; दुस्तरं (*dustaraṃ*)—unrepelled by enemies; सहः (*sahaḥ*)—strength (give).
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts, give us, the singers, the son who is rich in food and who, on account of your coming, daily composes and recites the hymn that describes and makes known your qualities, and give food. In battles, give to the singer the skill needed to fight, freedom from harm by enemies, and unrepelled strength.
+
+**Printed English translation**
+
+Bestow upon us, Maruts, that (son) who shall enjoy abundance, and who shall be repeating your appropriate praises day by day to (induce) your coming: give food to those who praise you ; to him who glorifies you in battles: (grant him) liberality. intelligence, and unimpaired unsurp assable vigour.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing the Maruts as हे मरुतः (*he marutaḥ*), the sacrificers pray नः तं पुत्रं दात (*naḥ taṃ putraṃ dāta*): "may the Maruts grant us a son." The son they pray for is, in the bhāṣya's words, one who has food or strength and who, on account of the Maruts' coming, daily attains a hymn proclaiming their qualities. The explanation adds: the son granted to the sacrificers should be possessed of food and strength, and should daily recite their praises at the time of the Maruts' coming to the sacrifice; thus it is wished. And the sacrificers wish: स्तोतृभ्यः इषं, वृजिनेषु कारवे मेधां, सनिं, अरिष्टं, दुस्तरं महः प्रयच्छत (*stotṛbhyaḥ iṣaṃ, vṛjineṣu kārave medhāṃ, saniṃ, ariṣṭaṃ, dustaraṃ mahaḥ prayacchata*) (as supplied: वृजिनेषु (*vṛjineṣu*) and महः (*mahaḥ*) here, against वृजनेषु (*vṛjaneṣu*) and सहः (*sahaḥ*) in the Saṃhitā). May the Maruts grant food to the priests who recite praises; to him who recites the praise at the time of battle, intelligence that wins in battle; the generosity of giving wealth; and strength that cannot be despised by enemies.
+
+The word कारु (*kāru*) is said to occur among the names of singers (Ni. 3-19).
+
 ---
 
-**Progress note:** Done through printed p. 238 (PDF 238). Sūkta 34 Ṛk 5 (Pada, bhāṣya, printed English) p. 236; p. 237 repeats the Ṛk 5 Special Topics already given under p. 235 (as supplied); Ṛk 6 pp. 238 up to Pratipadārtha. Flags: duplicate Special Topics (p. 235/237), ಭವಾರ್ಥ label and ಸಾಯಜಭಾಷ್ಯಂ fixed in kn.md, ಹಷಾರ್ಥ, ಮಿ. ಸಂ. as supplied, p. 238 ends mid-Pratipadārtha
+**Progress note:** Done through printed p. 241 (PDF 241). Sūkta 34 Ṛk 6 Bhāvārtha and printed English (p. 239); Ṛk 7 pp. 240-241 complete. Flags: quoted Ṛk (Ma. Saṃ. 1-80-16) made a block in kn.md; Ni. refs 3-9 twice as supplied; ST has ವೃಜಿನೇಷು/ಮಹಃ vs Saṃhitā ವೃಜನೇಷು/ಸಹಃ as supplied; no [?]
