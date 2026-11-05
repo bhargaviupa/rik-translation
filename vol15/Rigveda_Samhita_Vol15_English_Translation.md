@@ -18902,6 +18902,108 @@ Mātariśvā—मातरिश्वा वायुर्मातर्य�
 श्वमग्ने प्रथमो मातरिश्वन आविर्भिव सुक्रतॆया विवस्वते । (*śvamagne prathamo mātariśvana āvirbhiva sukratèyā vivasvate |*)
 (printed ಮ. ಸಂ. 1-31-3, i.e. Ṛ. Saṃ. 1-31-3)
 
+### Printed p. 599
+
+*[Running head, p. 599: Aṣṭaka 2, Adhyāya 8, Varga 19, Ṛgvedasaṃhitā.]*
+
+स जायमानः परमे व्योमन्याविरग्नि रभवन्मातरिश्वने । (*sa jāyamānaḥ parame vyomanyāviragni rabhavanmātariśvane |*)
+(Ṛ. Saṃ. 1-43-2)
+
+and in other Ṛks it is praised. There are many Śruti sentences saying that this wind brought Agni, hidden in a very distant region, for the sacrificers Bhṛgu and Manu, and helped them. For example—
+
+द्विजन्मानं रयिमिव प्रशस्तं राशिं भरद्भृगवे मातरिश्वा । (*dvijanmānaṃ rayimiva praśastaṃ rāśiṃ bharadbhṛgave mātariśvā |*)
+(Ṛ. Saṃ. 1-60-1)
+
+यं मातरिश्वा मनवे परावतो देवं भाः परावतः । (*yaṃ mātariśvā manave parāvato devaṃ bhāḥ parāvataḥ |*)
+(Ṛ. Saṃ. 1-128-2)
+
+ऐनं नयन्मातरिश्वा परावतो देवेभ्यो मथितं परि । (*ainaṃ nayanmātariśvā parāvato devebhyo mathitaṃ pari |*)
+(Ṛ. Saṃ. 3-9-5)
+
+आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः । (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*)
+(Ṛ. Saṃ. 6-8-4)
+
+ईळेन्यं प्रथमं मातरिश्वा देवास्ततक्षुर्मनवे यजत्रं । (*īḷenyaṃ prathamaṃ mātariśvā devāstatakṣurmanave yajatraṃ |*)
+(Ṛ. Saṃ. 10-46-9)
+
+In these and many other Ṛks it is well known from the Śruti that Mātariśvan brought to earth, for the benefit of the sacrificers Bhṛgu and Manu, the Agni hidden in a far-off region, and thus did good to all the people on earth.
+
+Mātariśvā mathit—for the explanation of the word Mātariśvan see the Special Topics on Ṛ. Saṃ. 1-93-6. ⟦ಕೀದೃಶಃ ಮಾತರಿಶ್ವಾ । ವಿಭೃತಃ । ಪ್ರಾಣಿಷು ಪ್ರಾಣಾಪಾನಾದಿ ಪಂಚ
+ವೃತ್ತಿರೂಪೇಣ ವಿಹೃತೋ ವಿಭಜ್ಯ ಸ್ಥಿತಃ ।⟧ He explains the word vibhṛtaḥ as one who is spread, divided into five, in creatures as prāṇa, apāna, vyāna, udāna and samāna; and of these the bhāṣyakāra explains that Mātariśvan in this context is व्यानवृत्तिरूपेणावस्थितो मुख्यप्राणः । (*vyānavṛttirūpeṇāvasthito mukhyaprāṇaḥ |*), the principal breath, the wind existing in the form of vyāna. To support the view that the wind in this form was able to churn the fire and did this work, he cites from the Chāndogya Upaniṣad the praise of the wind in the form of vyāna:
+
+⟦ಅಥ ಯಃ ಪ್ರಾಣಾಪಾನಯೋಃ ಸಂಧಿಃ ಸ ವ್ಯಾನಃ । ಅತೋ ಯಾನ್ಯನ್ಯಾನಿ ವೀರ್ಯವಂತಿ ಕರ್ಮಾಣಿ
+ಯಥಾಗ್ನೇರ್ಮಂಥನಮಾಜೇಃ ಸರಣಂ ದೃಢಸ್ಯ ಧನುಷಃ ಆಯಮನಮಪ್ರಾಣನ್ನನಪಾನಂಸ್ತಾನಿ
+ಕರೋತಿ ।⟧ The purport of this Śruti sentence is that all the mighty acts that exceed the power of prāṇa and apāna, such as the churning of fire, can be done only by the wind in the form of vyāna. (printed ಛಾ. ಉ. 1-3-3-5)
+
+### Printed p. 600
+
+*[Running head, p. 600: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+There is an ancient story about the churning of fire. As it says, ⟦ಸರ್ವಮಿದಮಂಧಂ
+ತಮ ಅಸೀತ್ । ಅಥ ಮಾತರಿಶ್ವಾಕಾಶೇ ಸೂಕ್ಷ್ಮಮಗ್ನಿಮಪಶ್ಯತ್ । ತಮಮಥ್ನಾತ್ । ಮಧಿತ್ವಾಚಾನಯದಿತಿ ।⟧ In the past the whole world was covered by pitch darkness. Then Mātariśvan perceived the fire in subtle form in the sky and churned it. Afterwards he brought it to earth so that it could serve the sacrifice. This well-known story is told in brief in many places in the Ṛgveda Saṃhitā. For example—
+
+अन्यं दिवो मातारिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः । (*anyaṃ divo mātāriśvā jabhārāmathnādanyaṃ pari śyeno adreḥ |*)
+(printed ಋ ಸಂ. 1-93-6)
+
+आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः । (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*)
+(printed ಮ. ಸಂ. 6-8-4)
+
+In these Ṛks too Agni is praised as here, together with the earlier story. The meaning is that only after Mātariśvan had brought him did Agni shine in the sacrificial house.
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> शुचिं॒ न याम॑न्निषि॒रं स्व॒र्दृशं॑ के॒तुं दि॒वो रो॑चन॒स्थामु॑ष॒र्बुधं॑ ।
+> अ॒ग्निं मू॒र्धानं॑ दि॒वो अप्र॑तिष्कुतं॒ तमी॑महे॒ नम॑सा वा॒जिनं॒॑
+> बृहत् ॥ १४ ॥
+
+**॥ पदपाठः ॥**
+
+> शुचिं । न । यामन् । इषिरं । स्वःदृशं । केतुं । दिवः । रोचनस्थां । उषःबुधं ।
+> अग्निं । मूर्धानं । दिवः । अप्रतिस्कुतं । तं । ईमहे । नमसा । वाजिनं । बृहत् ॥
+
+*(The Pada is printed ಸ್ವಃದೃಶಂ, ಉಷಃಬುಧಂ and ಅಪ್ರತಿಸ್ಕುತಂ, where the Saṃhitā has ಅಪ್ರತಿಷ್ಕುತಂ and the bhāṣya ಅಪ್ರತಿಷ್ಠುತಂ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> नेति संप्रत्यर्थे । शुचिं दीप्तं यामन् यामनि यज्ञ इषिरमेषणीयं
+> स्वर्दृशं सर्वदृशं सर्वपदार्थविज्ञानयुक्तं दिवो द्युलोकस्य केतुं प्रज्ञापकं
+> रोचनस्थां रोचनस्थं । रोचनः सूर्यः । तस्मिन् शिष्ठंतं । उषर्बुधमग्निहो
+
+> *neti saṃpratyarthe | śuciṃ dīptaṃ yāman yāmani yajña iṣirameṣaṇīyaṃ*
+> *svardṛśaṃ sarvadṛśaṃ sarvapadārthavijñānayuktaṃ divo dyulokasya ketuṃ prajñāpakaṃ*
+> *rocanasthāṃ rocanasthaṃ | rocanaḥ sūryaḥ | tasmin śiṣṭhaṃtaṃ | uṣarbudhamagniho*
+
+### Printed p. 601
+
+*[Running head, p. 601: Aṣṭaka 2, Adhyāya 8, Varga 19, Ṛgvedasaṃhitā.]*
+
+*[The bhāṣya block is cut by the page break inside the word ಅಗ್ನಿಹೋತ್ರಿಕ… (…ಹೋ / ತ್ರಿಕ…); the print's end-of-line hyphen is not kept, and the continuation is placed as a second block.]*
+
+> त्रिकरूपेणोषिसि प्रबुध्यमानं दिवः स्वर्गस्य मूर्धानं प्रधानमप्रतिष्ठुतमप्रतिहतशब्दं वाजिनमन्नवंतं बृहत् महांतं तमग्निं नमसा स्तोत्रेणेमहे ।
+> याचामहे ॥
+
+*(Gist: we ask with praise for Agni, bright, desirable in the sacrifice, all-seeing, banner of heaven, dwelling in the Sun, waking at dawn, chief of heaven, of unchecked voice, food-giving, great.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Na: now. Śuciṃ: shining. Yāman: in the sacrifice. Iṣiraṃ: desired. Svardṛśaṃ: seen by all. Divaḥ: of the world of heaven. Ketuṃ: the revealer. Rocanasthāṃ: present within the Sun. Uṣarbudhaṃ: awake at the time of dawn (for the sacrifice). Divaḥ: for heaven. Mūrdhānaṃ: chief. Apratiṣṭhutaṃ: of unchecked voice. Vājinaṃ: possessed of food. Bṛhat: of great form. Taṃ agniṃ: that Agni. Namasā: with praise. Īmahe: we ask.
+
+**भावार्थ (Bhāvārtha)**
+
+We ask with praise Agni, who is shining, desired in the sacrifice, seen by all, the revealer of the world of heaven, present within the Sun, awake at dawn for the sacrifice, chief of heaven, of unchecked voice, possessed of food and of great form.
+
+**Printed English translation**
+
+We implore with prayer the mighty Agni, the giver of food, the unrefusing, (seated on) the front of heaven; the radiant in the sacrifice, him who is to be sought (for by all), the beholder of all, the emblem of heaven, the dweller in light, who is to be awakened at dawn.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Apratiṣṭutaṃ—Yāska gives for this word the explanation अप्रतिष्टुतोऽप्रतिष्ठितोऽप्रतिस्खलितो वा (*apratiṣṭuto 'pratiṣṭhito 'pratiskhalito vā*) (Ni. 6-16). That is, he does not reject our prayer. It also means one without a rival in speech, without an equal, unchecked; or one who does not turn his back in battle (in war).
+
+Svardṛśaṃ—सर्वदृशं सर्वपदार्थविज्ञानयुक्तं । (*sarvadṛśaṃ sarvapadārthavijñānayuktaṃ |*) One seen by all, that is, all see him as he shines in heaven (in the atmosphere) in the form of the Sun; or, as another meaning, one who has knowledge of all things.
+
 ---
 
-**Progress note:** Done through printed p. 598 (PDF 598). Sūkta 2 Ṛk 12 Special Topics; Ṛk 13 complete; Special Topics (Mātariśvan) cut at a broken line; accent DIFF/NOMATCH logged
+**Progress note:** Done through printed p. 601 (PDF 601). Sūkta 2 Ṛk 13 Special Topics (Mātariśvan) end; Ṛk 14 complete up to start of Special Topics; accent DIFF/NOMATCH logged
