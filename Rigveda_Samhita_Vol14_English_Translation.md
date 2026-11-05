@@ -26381,4 +26381,104 @@ The aggregated (streams) come, bearing everywhere the water, and conveying it as
 
 ---
 
-**Progress note:** Done through printed p. 689 (PDF 712). Sūkta 13, Ṛk 2 complete (pp. 687–689, Viśeṣaviṣayagaḷu ends on p. 689). Ṛk 3 is OPEN: Saṃhitā and the first half of the Pada (to "ईयते") are written; the second Pada line, the bhāṣya and the rest continue on p. 690. No grammar pages. FILE DISAGREE: header of p. 689 (file "2.8.6", strip A. 2 A. 6 V. 10 kept). Unzoomed numerals: headers of pp. 687–689; the "[44]" signature. [?] places: Pada "भरन्ते" (Saṃhitā has "भरन्त"); "अनुष्यन्दनीयः" (printed first letter as "असु"); Saṃhitā "प्रवतामनुष्यदे"; the Ṛk 3 number was not printed on this page.
+### Printed p. 690 (PDF 713)
+
+*(Header: "690", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed]. The numeral file has no row for this page. The Ṛk number "3" is printed at the end of the Pada. Continuation of Ṛk 3: the second Pada line.)*
+
+> विश्वाः । एकस्य । विनुदः । तितिक्षते । यः । ता । अकृणोः । प्रथमं । सः । असि ।
+> उक्थ्यः ॥ ३ ॥
+
+> *viśvāḥ | ekasya | vinudaḥ | titikṣate | yaḥ | tā | akṛṇoḥ | prathamaṃ | saḥ | asi |*
+> *ukthyaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: The sacrificer's oblation is announced by the Hotṛ; the Adhvaryu goes about cutting the victim's limbs; the Brahman repairs the defects. Indra, who has all this done, is praised.*
+
+*(Reading notes: "एकोऽध्वर्युर्रूपा" is as printed. The tail "गुप्तिज्किद्भ्यः सन् क्षमायामिष्यते" is read with one doubtful letter group [?]. No sūtra numbers are printed. Its grammatical tail is only characterised: it says that the affix सन् is used after the roots गुप्, तिज्, कित् in the sense of forbearance, which gives तितिक्षते.)*
+
+> यजमानो यद्धविर्देवेभ्यो ददाति तदेको होतानुवदति । याज्यापुरोनुवाक्याभ्यां देवताः स्मारयति । एकोऽध्वर्युर्रूपा पश्वादीनां रूपाणि मिनन् हिंसन् तदपास्तद्विशसनाख्यमपः कर्म यस्य ताद्दृशः सन् ईयते । देवयजने सर्वत्र गच्छति । एकस्याध्वर्योर्विश्वा विनुदः सर्वाणि तत्कर्तृकाणि विक्षेपणरूपाणि कर्मवैगुण्यानि तितिक्षते । तद्योग्यप्रायश्चित्तकरणेन ब्रह्मा सहते ॥ गुप्तिज्किद्भ्यः सन् क्षमायामिष्यते [?] ॥ तानि हविष्प्रदानादीनि कर्माणि यस्त्वमकृणोः । अकारयः सः त्वमुक्थ्योऽसि ॥
+
+> *yajamāno yaddhavirdevebhyo dadāti tadeko hotānuvadati | yājyāpuronuvākyābhyāṃ devatāḥ smārayati | eko 'dhvaryurrūpā paśvādīnāṃ rūpāṇi minan hiṃsan tadapāstadviśasanākhyamapaḥ karma yasya tāddṛśaḥ san īyate | devayajane sarvatra gacchati | ekasyādhvaryorviśvā vinudaḥ sarvāṇi tatkartṛkāṇi vikṣepaṇarūpāṇi karmavaiguṇyāni titikṣate | tadyogyaprāyaścittakaraṇena brahmā sahate ‖ guptijkidbhyaḥ san kṣamāyāmiṣyate [?] ‖ tāni haviṣpradānādīni karmāṇi yastvamakṛṇoḥ | akārayaḥ saḥ tvamukthyo 'si ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यजमानः (*yajamānaḥ*)—the sacrificer; यत् (*yat*)—which oblation (offered to the gods); ददाति (*dadāti*)—he offers (or "does he offer"); तत् (*tat*)—that; एकः (*ekaḥ*)—the one among the priests, the Hotṛ; अनुवदति (*anuvadati*)—makes known (to the gods) by the yājyā and puronuvākyā; एकः (*ekaḥ*)—another, the Adhvaryu; रूपा (*rūpā*)—the limbs of the animal and the rest; मिनन् (*minan*)—harming (killing); तदपाः (*tadapāḥ*)—engaged in the work of cutting up the limbs of the animal for the sacrificial offering; ईयते (*īyate*)—runs about; एकस्य (*ekasya*)—of the Adhvaryu; विश्वाः विनुदः (*viśvāḥ vinudaḥ*)—all the defects in the rites; तितिक्षते (*titikṣate*)—(the priest in the form of Brahman) sets right by atonements and the like; यः (*yaḥ*)—which you; ता अकृणोः (*tā akṛṇoḥ*)—having done all these rites and having had them performed; सः (*saḥ*)—such you; प्रथमं (*prathamaṃ*)—chiefly; उक्थ्यः असि (*ukthyaḥ asi*)—are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+The Hotṛ, one of the priests, makes known to the gods, by the yājyā and puronuvākyā, the oblation that the sacrificer offers to them. Another, the Adhvaryu, is engaged in the work of cutting up the limbs of the animal and the like. The Brahman, a priest, sets right by atonements and the like all the defects of their rites. You, Indra, who have done all these rites and have had them performed, are chiefly worthy of praise.
+
+**English Translation** *(as printed)*
+
+One (priest) announces (the offering) that he, (the institutor of the rite) presents; another performs the act that apportions the limbs (of the victim);
+
+*(The printed English continues on p. 691.)*
+
+---
+
+### Printed p. 691 (PDF 714)
+
+*(Header: "A. 2 A. 6 V. 10 ]" [unzoomed], "Ṛgvedasaṃhitā", "691". The numeral file has no row for this page.)*
+
+a third corrects all the deficiencies of either, and as he, who has enjoyed these (functions), you, (Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the ṛṣi describes the quality of Indra: the rites that the priests, the sacrificer, the Hotṛ, the Adhvaryu and the others, perform in the sacrifice, Indra has done by each of them, and he himself becomes pleased.
+
+अनु एकः वदति यत् ददाति (*anu ekaḥ vadati yat dadāti*)—
+
+> यजमानो यद्धविर्देवेभ्यो ददाति तदेको होतानुवदति । याज्यापुरोनुवाक्याभ्यां देवताः स्मारयति ।
+
+> *yajamāno yaddhavirdevebhyo dadāti tadeko hotānuvadati | yājyāpuronuvākyābhyāṃ devatāḥ smārayati |*
+
+In the sacrifice, when the sacrificer offers to the gods oblations, ājyāhuti and the like in the fire, mantras addressed to the deity must be recited, suited to each time and each rite. Of the priests, the Hotṛ recites such mantras. First, to whichever deity the sacrificer offers the oblation, the Hotṛ recites the mantra called निविद् (*nivid*), which is in the form of a song of praise to that deity. Afterwards he recites the mantra called पुरोनुवाक्या (*puronuvākyā*), in the form of praise or invocation of that deity, and invites the deity to come to the sacrificial ground. After the invocation of the deity, when the oblation is offered in the fire, the Hotṛ recites the Ṛk called याज्या (*yājyā*), whose meaning is that the deity should accept the oblation. In the case of every deity this same order is followed when the oblation is offered. Therefore the main intention is this: by the words यद्ददाति (*yaddadāti*) here, "whatever oblation the sacrificer offers", and by अन्वेको वदति (*anveko vadati*), "in accordance with that", that is, mantras containing that same meaning, one (that is, the Hotṛ, one of the priests) recites.
+
+(अनु एकः यत् ददाति (*anu ekaḥ yat dadāti*)) तद्रूपा मिनन् तदपा एक ईयते (*tadrūpā minan tadapā eka īyate*)—
+
+> एकोऽध्वर्युर्रूपा पश्वादीनां रूपाणि मिनन् हिंसन् तदपास्तद्विशसनाख्यमपः कर्म यस्य ताद्दृशः सन् ईयते देवयजने सर्वत्र गच्छति ।
+
+> *eko 'dhvaryurrūpā paśvādīnāṃ rūpāṇi minan hiṃsan tadapāstadviśasanākhyamapaḥ karma yasya tāddṛśaḥ san īyate devayajane sarvatra gacchati |*
+
+The commentator has explained the sense thus: after the Hotṛ has recited the mantra suited to the time or to the rite, the priest called Adhvaryu, becoming engaged in the work of killing the animal, and doing such things as cutting up the limbs of the animal according to the rule, in order to offer them separately in the oblations, runs about here and there on the sacrificial ground. A doubt arises here. In this sentence the word अध्वर्युः (*adhvaryuḥ*) is not used. And the words तद्रूपा मिनन्तदपाः (*tadrūpā minantadapāḥ*) mean: "killing (that is, slaying) the animal form, and doing the works connected with it, such as cutting up the limbs". Neither slaying the animal in the sacrifice nor cutting up its limbs is the work of the priest called Adhvaryu. There is one called Śamitā to do this work. Present
+
+*(The passage continues on p. 692.)*
+
+---
+
+### Printed p. 692 (PDF 715)
+
+*(Header: "692", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed]. The numeral file has one row, for the Nirukta reference "3-1" on this page; it agrees with the strip.)*
+
+in the Ṛk the word अध्वर्युः (*adhvaryuḥ*) is absent, and since the one who slays the animal is the so-called Śamitā, the Śamitā himself may be what is meant by the word एकः (*ekaḥ*) here. Or, since it is not impossible that the Adhvaryu on some occasions does the work of the other priests, the Adhvaryu himself may also be what is indicated here. At any rate the meaning of the word एकः (*ekaḥ*) in this sentence remains doubtful.
+
+तद्रूपा मिनन् तदपाः (*tadrūpā minan tadapāḥ*)—Here Sāyaṇa has explained the words तद्रूपा (*tadrūpā*) as the form (body) of animals and the like, and तदपः (*tadapaḥ*), that is तद्विशसनाख्यमपः (*tadviśasanākhyamapaḥ*), as the work of cutting it up. The word अपः (*apaḥ*) is read among the names of works (Ni. 3-1) *(as printed)*. Although the word "animal" is not present in this sentence, since the word मिनन् (*minan*), "harming", is used, there is no objection to taking तद्रूपा (*tadrūpā*) to mean "the form of the animal".
+
+विश्वाः एकस्य विनुदः तितिक्षते (*viśvāḥ ekasya vinudaḥ titikṣate*)—
+
+> एकस्याध्वर्योर्विश्वा विनुदः सर्वाणि तत्कर्तृकाणि विक्षेपणरूपाणि कर्मवैगुण्यानि तितिक्षते । तद्योग्यप्रायश्चित्तकरणेन ब्रह्मा सहते ।
+
+> *ekasyādhvaryorviśvā vinudaḥ sarvāṇi tatkartṛkāṇi vikṣepaṇarūpāṇi karmavaiguṇyāni titikṣate | tadyogyaprāyaścittakaraṇena brahmā sahate |*
+
+In the sacrifice, when through carelessness deficiency or deviation arises in the various rites, the priest called Brahman sets them right by atonements and the like. That is the Brahman's very work. Since in the sacrifice the Adhvaryu has to do many different works, it is not impossible that many slips occur. The main intention of this sentence is that the priest called Brahman sets right such works, and the deficiencies that occur in the works done by the other priests.
+
+यः ता अकृणोः प्रथमं सः असि उक्थ्यः (*yaḥ tā akṛṇoḥ prathamaṃ saḥ asi ukthyaḥ*)—The works done by the three priests mentioned above, you, Indra, bring about by your own impulse. Therefore, as one endowed with such qualities, you are worthy of praise: thus Indra is praised.
+
+---
+
+#### Ṛk 4
+
+*(Reading notes: the Ṛk number "4" is printed at the end of the Saṃhitā. The Saṃhitā word "असिन्वन्दंष्ट्र्यः" is read from the line as printed, with doubt about the letters before "दंष्ट्र्यः" [?]; the Pada, which follows on the next page, will show the word division. In "प्रभवन्तमायते" the printed hook on *ma* and *ya* is not the vowel *u*. The Pada, the bhāṣya and the rest continue on p. 693.)*
+
+**॥ संहितापाठः ॥**
+
+> प्र॒जाभ्यः॑ पु॒ष्टिं वि॒भज॑न्त आसते र॒यिमि॑व पृ॒ष्ठं प्र॒भव॑न्तमाय॒ते ।
+> असि॑न्व॒न्दंष्ट्र्यः॑ [?] पि॒तुर॑त्ति॒ भोज॑नं॒ यस्ताकृ॑णोः प्रथ॒मं सास्यु॒क्थ्यः॑ ॥ ४ ॥
+
+> *prajābhyaḥ puṣṭiṃ vibhajanta āsate rayimiva pṛṣṭhaṃ prabhavantamāyate |*
+> *asinvandaṃṣṭryaḥ [?] pituratti bhojanaṃ yastākṛṇoḥ prathamaṃ sāsyukthyaḥ ‖ 4 ‖*
+
+---
+
+**Progress note:** Done through printed p. 692 (PDF 715). Sūkta 13, Ṛk 3 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu all end on p. 692). Ṛk 4 is OPEN: only the Saṃhitā is written (number "4" printed); the Pada, bhāṣya and the rest continue on p. 693. No grammar pages. No FILE DISAGREE (file row "3-1" for the Nirukta reference agrees). Unzoomed numerals: headers of pp. 690–692 (numeral file has no rows for them). [?] places: bhāṣya tail "क्षमायामिष्यते" (p. 690); Saṃhitā word "असिन्वन्दंष्ट्र्यः" of Ṛk 4 (p. 692); "एकोऽध्वर्युर्रूपा" kept as printed.
