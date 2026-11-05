@@ -18599,6 +18599,114 @@ The gods, who long for the presence of Agni and are free from death, purified th
 
 The immortals, desirous (of his presence), sanctified the three radiances of the great circumambient Agni; one of them they have placed in the world of mortals as the nourisher (of all); the other two have gone to the neighbouring sphere.
 
+### Printed p. 589
+
+*[Running head, p. 589: Aṣṭaka 2, Adhyāya 8, Varga 18, Ṛgvedasaṃhitā.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Yahvasya—since the word yahva is read among the names of "great" (Ni. 3-13), yahvasya means great, large, endowed with greatness.
+
+Uśijaḥ—since the word uśik is read among the verbs of shining (Ni. 3-9), uśijaḥ means "desiring", those who wish.
+
+⟦ಉಶಿಜಃ ಅಮೃತ್ಯವಃ ಯಹ್ವಸ್ಯ ಪರಿಜ್ಮನಃ ಅಗ್ನೇಃ ಸಮಿಧಃ ತಿಸ್ರ ಅಪುನನ್—(ಅಗ್ನಿಂ)
+ಕಾಮಯಮಾನಾಃ ಮೃತ್ಯುರಹಿತಾ ದೇವಾಃ ಮಹತಃ ಪರಿತೋ ಗಂತುಃ ಅಗ್ನೇಃ ಪ್ರಕಾಶಿಕಾಃ ಪಾರ್ಥಿವವೈದ್ಯುತಸೂರ್ಯರೂಪಾಸ್ತಿಸ್ತ್ರಸ್ತನೂಃ ಅಶೋಧಯನ್ ।⟧ The gods, who long for Agni's presence and are free from death, examined well, purifying them, the three shining forms of Agni, of great glory and moving everywhere, that is, all-pervading: the terrestrial, the lightning and the solar. It has been said before that Agni has three forms. Agni on earth, in the form of terrestrial fire, is worshipped by the human sacrificers in sacrifices and the like, and carries out the sacrificial acts, offering to the gods the portions of oblation they have given and bringing the invoked gods to the sacrificial ground. Agni's second form, the lightning fire, being in the atmosphere in the form of lightning in the midst of the clouds, impels the clouds and makes rain fall on the earth. Agni's third form shines in heaven, that is, in the upper part of the atmosphere, in the form of the Sun, giving light to the men on earth and to the gods in the world of heaven, and being the cause of the divisions of time such as the year, the season, the month and the day.
+
+⟦ಭುಜಂ ತಾಸಾಂ ಏಕಾಂ ಮರ್ತ್ಯೇ ಅದಧುಃ—ತೇ ದೇವಾಃ ಸರ್ವೆಷಾಂ ಪಾಲಯಿತ್ರೀಂ
+ತಾಸಾಂ ತನೂನಾಂ ಮಧ್ಯೆ ಏಕಾಂ ಸಾರ್ಥಿವೀಂ ತನುಂ ಮರ್ತ್ಯಲೋಕೇ ನ್ಯದಧುಃ ।⟧ Of the three forms described above, the form of terrestrial fire, which protects all, was established by the gods in the world of men for the welfare of the people.
+
+द्वे जामिं लोकं उप ईयतुः—इतरे द्वे तनू आसन्नमंतरिक्षं गच्छतः । (*dve jāmiṃ lokaṃ upa īyatuḥ—itare dve tanū āsannamaṃtarikṣaṃ gacchataḥ |*) The other two forms went off to the atmosphere and the world of heaven: thus the three kinds of body or form of Agni are explained.
+
+The bhāṣyakāra has said that the word tisraḥ here can be understood otherwise than as the three forms of Agni described above.
+
+### Printed p. 590
+
+*[Running head, p. 590: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+अथवा शिस्त्रः समिध आघारसमिधौ द्वे अनूयाजसमिच्चैकेशि । शासां समिधामेकामनूयाजसमिधं मर्त्ये इह लोके भोगहेतुमनूयाजपर्यंतमदधुः धारयंति । प्रजा वा अनूयाजाः इति प्रजात्वेनानूयाजानां संस्तवात् तदाश्रयत्वाच्चानूयाजसमिधः । इतरे द्वे समिधावंतरिक्षे दिव्यभोगहेतू उपगच्छतः । श्रीन्परिधींस्ति स्रः समिधः इति हि निगमः ॥ (*athavā śistraḥ samidha āghārasamidhau dve anūyājasamiccaikeśi | śāsāṃ samidhāmekāmanūyājasamidhaṃ martye iha loke bhogahetumanūyājaparyaṃtamadadhuḥ dhārayaṃti | prajā vā anūyājāḥ iti prajātvenānūyājānāṃ saṃstavāt tadāśrayatvāccānūyājasamidhaḥ | itare dve samidhāvaṃtarikṣe divyabhogahetū upagacchataḥ | śrīnparidhīṃsti sraḥ samidhaḥ iti hi nigamaḥ ‖*)
+
+That is, the word tisraḥ can be taken to mean three samidhs: two āghāra samidhs and one anūyāja. Of these three samidhs, the one called anūyāja the gods established in this world of earth for the enjoyment of the people. According to the Śruti sentence प्रजा वा अनूयाजाः (*prajā vā anūyājāḥ*), the anūyāja is said to be beneficial to creatures. The other two āghāra samidhs are said to have gone to the atmosphere and other worlds for the enjoyment of the gods; the Śruti sentence ⟦ಶ್ರೀನ್ ಪರಿಧೀನ್
+ತಿಸ್ರಃ ಸಮಿಧಃ⟧ also supports this.
+
+*[Garbled label as supplied before the next Saṃhitā: "। ಸಂವಾದ ।" (for Saṃhitā-pāṭha); the standard label was inserted and the Saṃhitā made a block. The Pada and the bhāṣya likewise have garbled labels, "। ಚಡಕಾರ ।" and "೮ ಸಾಯುಜಾತಂ ।", kept as notes in kn.md.]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> वि॒शां क॒विं वि॒श्वतिं॒ मानु॑षी॒रिषः॒ सं सी॑मकृण्व॒न्तद्वधि॑तिं॒ न तेज॑से ।
+> स उ॒द्धतो॑ नि॒वतो॑ याति॒ वेवि॑ष॒त्स गर्भ॑मे॒षु भुव॑नेषु
+> दीधरत् ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> विशां । कविं । विश्वतिं । मानुषीः । इषः । सं । सीं । अकृण्वन् । स्वधितिं । न । तेजसे
+> सः । उर्‍वतः । निवतः । याति । वेविषत् । सः । गर्भं । एषु । भुवनेषु । दीधरत् ॥
+
+*(The Pada is printed ಉರ್‍ವತಃ where the Saṃhitā has ಉದ್ಧತೋ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> इषः पश्वादिलक्षणं . धनमिच्छंत्यो मानुषीर्मनुष्यप्रजा विशां प्रजानां
+> विश्वतिं प्रभुं कविं मेधाविनं सीमेनं स्वधितिं न असिमिव तेजसे तैष्कार्थं समकृण्वन् । समस्कुर्वन् । सोग्निरुद्वत उच्छ्रावतो निवतो नीचैर्भाववतश्च
+> प्रदेशान्वेविषत् व्याप्पुवन् याति । गच्छति । स एषु भुवनेषु गर्भमरण्या दीधरत् ।
+> आधारयत् ॥
+
+*(Gist: human subjects who desire wealth in cattle and the like refine Agni, wise lord of the people, as one whets a knife for sharpness; he goes through high and low places and bears the embryo in these regions.)*
+
+### Printed p. 591
+
+*[Running head, p. 591: Aṣṭaka 2, Adhyāya 8, Varga 18, Ṛgvedasaṃhitā.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Iṣaḥ: those who desire wealth in the form of cattle and the like. Mānuṣīḥ: human subjects. Viśāṃ: of all the people. Viśvatiṃ: him who is the lord. Kaviṃ: him who is wise. Sīṃ: this Agni. Svadhitiṃ na: as one whets and sharpens a knife. Tejase: for sharpness. Saṃ akṛṇvan: they refined. Saḥ: that same Agni. Udvataḥ: high. Nivataḥ: low (printed "ನಿಮ್ಮ", as supplied) regions, all of them. Veviṣat: pervading. Yāti: moves about. Saḥ: he. Eṣu bhuvaneṣu: in these regions. Garbhaṃ: the embryo form in the fire-stick. Dīdharat: bears.
+
+**भावार्थ (Bhāvārtha)**
+
+Human subjects who desire wealth in the form of cattle and the like refined Agni, who is the lord of all people and is wise, for sharpness, as one whets a knife to sharpen it. That same Agni moves about pervading all the high and low regions. He bears in these regions the embryo form of the fire-stick.
+
+**Printed English translation**
+
+Human beings, wishing for wealth, give brightness, (by their praises), to the lord of men, the wise (Agni), as they add lustre, (by polishing), to on axe: spreading everywhere, he goes alike through high and low places, and has taken an embryo (condition) in these regions.
+
+*[The printed English reads "to on axe" for "to an axe", as supplied.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Svadhitiṃ—the word svadhiti is read among the names of the thunderbolt (Ni. 3-11). Svadhiti means a weapon such as a knife useful for cutting. Yāska gives the explanation स्वधिते मैनग्ं हिग्ंसीः (*svadhite mainagṃ higṃsīḥ*) (Ni. 1-15): the prayer of the razor, "O knife, do not harm him", is stated.
+
+उद्वतः निवतः—उच्छ्रायवतः नीचैर्भाववतश्च । (*udvataḥ nivataḥ—ucchrāyavataḥ nīcairbhāvavataśca |*) The meaning is: situated on high and situated in low ground. Yāska, explaining the Ṛk beginning "pareyivāṃsam" (Ṛ. Saṃ.), says प्रवत उद्वतो निवत इति । अवतिर्गतिकर्मा (*pravata udvato nivata iti | avatirgatikarmā*) (Ni. 10-20). Durgācārya, commenting on this, says—
+
+⟦ಪ್ರವೃತಃ ಉದ್ವತಃ ನಿವತಃ ಚ ಭೂತಸಂಘಾನ್ । ಪ್ರವತಃ ಮನುಷ್ಯಾಃ ಉದ್ವತಃ ದೇವಾಃ
+ನಿವತಃ ತಿರ್ಯಂಚಃ ತಥಾ ಗತ್ಯುಪಪತ್ತೇಃ ।⟧
+
+### Printed p. 592
+
+*[Running head, p. 592: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2 (printed "ಸಾಯಣಭಾವ್ಯಸಹಿತಾ", "ಆ.", "ಸೂ. ೨." without closing bracket). In the supplied text this head was run into p. 591 without a page marker; the marker and heading were inserted by hand and p. 592 added to pages.json.]*
+
+Thus he explains: pravataḥ means the human beings who seek protection; udvataḥ means the high regions, that is, the gods in the atmosphere, heaven and so on; nivataḥ means the animals living in the low region.
+
+इषः मानुषीः विशां विश्वतिं सीं स्वधितिं न तेजसे अकृण्वन् (*iṣaḥ mānuṣīḥ viśāṃ viśvatiṃ sīṃ svadhitiṃ na tejase akṛṇvan*)—human subjects who desire wealth in the form of cattle and food made Agni, the lord of the people and the far-seeing, fit for the sacrifice by refining him with many kinds of sacrificial rites, as one whets a knife and sharpens it. Here, to sharpen a knife they rub it on a stone and sharpen it; afterwards it can easily cut trees and the like. In the same way, as soon as Agni is kindled, since he has not the power to give the sacrificer his desired ends, they refine him according to rule with mantras and the like, make him fit for the sacrifice and make him shine well. Afterwards Agni becomes useful for the sacrificer's sacrifices and the like, and able to give his desired ends: this is the sense.
+
+सः उद्वतः निवतः वेविषत् याति (*saḥ udvataḥ nivataḥ veviṣat yāti*)—Agni, who was produced, though small at that time, afterwards pervades everything and shines blazing both above and below. That is, though Agni is small at the time of churning, he gradually grows with the wood, the samidhs, ghee, oblations and the like offered in the sacrifice, pervades everything and shines with brightness: this is the sense.
+
+एषु भुवनेषु गर्भं दीधरत्—सः गर्भं अरण्या आधारयत् । (*eṣu bhuvaneṣu garbhaṃ dīdharat—saḥ garbhaṃ araṇyā ādhārayat |*) Such an Agni bore an embryo in the araṇis (the two pieces of wood used for churning fire are called araṇis). That is, before the churning he was in the form of an embryo in the araṇis, hidden so that no one could see him, and after the churning he appeared shining for all to see: this is the sense.
+
+*[Stray line as supplied: "-~௨௰௪-" (Tamil numerals), kept as a note in kn.md.]*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> स जि॑न्वते ज॒ठरे॑षु प्रजज्ञि॒वान्वृषा॑ चि॒त्रेषु॒ नान॑द॒न्न सिं॒हः ।
+> वै॒श्वा॒न॒रः पृ॑थु॒पाजा॒ अम॑र्त्यो॒ वसु॒ रत्ना॒ दय॑मानो॒ वि॒॑
+> दाशुषे ॥ ११ ॥
+
+> *sa jinvate jaṭhareṣu prajajñivānvṛṣā citreṣu nānadanna siṃhaḥ |*
+> *vaiśvānaraḥ pṛthupājā amartyo vasu ratnā dayamāno vi*
+> *dāśuṣe ‖ 11 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 588 (PDF 588). Sūkta 2 Ṛk 8 Special Topics end; Ṛk 9 complete up to printed English
+**Progress note:** Done through printed p. 592 (PDF 592). Sūkta 2 Ṛk 9 Special Topics; Ṛk 10 complete; Ṛk 11 Saṃhitā begun; p. 592 head merged, fixed; accent DIFF/NOMATCH logged
