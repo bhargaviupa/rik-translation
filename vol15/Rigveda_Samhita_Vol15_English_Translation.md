@@ -14611,6 +14611,68 @@ Yajñasya: for the sacrifice. Śaṃbhuvā: Heaven and Earth, which bring welfar
 
 May Heaven and Earth, which bring welfare to the sacrifice, go and join the western part of the Uttaravedi. O Heaven and Earth, we beseech you, and Agni, the carrier of the oblation to the gods.
 
+### Printed p. 457
+
+*[Running head, p. 457: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+**Printed English translation**
+
+May the two, (Heaven and Earth), who confer good fortune upon the sacrifice, proceed (to the altar); for, verily, we implore you both (to come), as well as Agni, the hearer of oblations.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk and the next two Ṛks praise the two carts called हविर्धाने (*havirdhāne*), which bring the soma plants, or Heaven and Earth, their presiding deities. Although the word for Heaven and Earth is not in Ṛks 19 and 21, Heaven and Earth are clearly addressed in Ṛk 20.
+
+On the word हविर्धाने (*havirdhāne*) Yāska says हविर्धाने । हविषां निधाने (*havirdhāne | haviṣāṃ nidhāne*) and Durgācārya explains हविषां निधाने सोमास्तयोर्निधीयंते (*haviṣāṃ nidhāne somāstayornidhīyaṃte*) (Ni. 9-36). That is, they are the two carts which, after the purchase of soma in the sacrifice, bring the soma plants to the sacrificial ground, that is, to the altar called Prācīnavaṃśa. Since the oblation or the soma plants are placed in them, they are called Havirdhāna.
+
+These carts are brought near the sacrificial altar of the Prācīnavaṃśa and left on the west. The rite of taking them to the Uttaravedi of the sacrificial ground is called Havirdhānapravāhaṇa or Havirdhānapratardana. During this rite the Havirdhāna, or Heaven and Earth, its presiding deities, are praised with these three Ṛks (Ṛks 19, 20, 21 of this sūkta). That is what is said here. This rite called Havirdhānapravāhaṇa is described in the Aitareya Brāhmaṇa; we explain it here.
+
+**The preliminary account of the rite of conveying soma.** Formerly soma was in heaven. When no one was able to bring it, Gāyatrī went to heaven in the form of a hawk, overcame the opposition of those there, and brought it to earth. While she was bringing it, on the way a Gandharva named Viśvāvasu stole that soma and kept it with him. The gods considered how to get it back from him, and since the Gandharvas are very fond of women and full of desire, they decided to show them the allurement of women and recover the soma. For that they went to the goddess of speech, told her the whole matter, and decided that she should become a beautiful woman, be sold to the Gandharvas, and the soma be brought in exchange. Accordingly the goddess of speech took the form of a beautiful woman; they gave her to the Gandharvas and brought the soma back. After the soma came into the power of the gods, the goddess of speech, who was in the form of a beautiful woman, took the form of a doe, escaped from the Gandharvas, and ran to join the gods
+
+### Printed p. 458
+
+*[Running head, p. 458: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+and came to them. Therefore from that time it became the custom to bring soma plants for use in sacrifices. The rite called Somakrayaṇa (purchase of soma) is still performed in the sacrifice. Moreover, since the best soma plants grow in high mountain regions (the mountain called Mūjavat is famous for soma plants), it is very laborious to bring them. It therefore appears that the custom arose of buying soma at a due price from those who, for the sake of gain, endured the labour and went to the mountains and brought it. Since formerly, when the Gandharva stole soma, it stayed with him for three nights, there is a rule that the soma taken in purchase must also remain for three nights. (All this is stated in the Aitareya Brāhmaṇa and the Taittirīya Saṃhitā.) After the purchase it is brought in the two carts called Havirdhāna and left near the sacrificial hall or the Prācīnavaṃśa. The part of the rite of bringing that soma with mantras to the Uttaravedi is called Somapravāhaṇa, so the approach is stated as in the Aitareya Brāhmaṇa (Ai. Brā. 3-12).
+
+प्राच्यां वै दिशि देवाः सोमं राजानमक्रीणंस्तस्मात्प्राच्यां दिशि क्रीयते । (*prācyāṃ vai diśi devāḥ somaṃ rājānamakrīṇaṃstasmātprācyāṃ diśi krīyate |*)
+
+Formerly, when the gods performed a sacrifice, they bought soma from the region to the east of the Prācīnavaṃśa (the sacrificial altar). Therefore even now soma must be bought from the east.
+
+⟦ತಂ ತ್ರಯೋದಶಾನ್ಮಾಸಾದಕ್ರೀಣಂಸ್ತಸ್ಮಾತ್ರಯೋದಶೋ ಮಾಸೋ ನಾನುವಿದ್ಯತೇ ನ ವೈ
+ಸೋಮವಿಕ್ರಯ್ಯನುವಿದ್ಯತೇ ಪಾಪೋ ಹಿ ಸೋಮವಿಕ್ರಯಾ ।⟧
+
+Formerly a year had thirteen months. The gods bought soma from the presiding deity of the thirteenth month. Now there is no thirteenth month in the year; there are only twelve months. Though on some occasions there is a thirteenth month, the intercalary month, it is of no use for any auspicious rites, so there is no custom of buying in it. Since selling soma is regarded as a very sinful act, the man who sells soma is also a sinner. No correct dealings can go on with him. On this subject the Taittirīya Śruti says: अस्मे ज्योतिः सोमविक्रयिणि तम इत्याह । ज्योतिरेव यजमाने दधाति । तमः सोमविक्रयिणमर्पयति । (*asme jyotiḥ somavikrayiṇi tama ityāha | jyotireva yajamāne dadhāti | tamaḥ somavikrayiṇamarpayati |*) Here तमः (*tamaḥ*) means sin. The ज्योतिः (*jyotiḥ*), that is, the strength and power, of the soma seller leaves him and joins the sacrificer who buys soma and performs the sacrifice; sin alone comes to the soma seller: this is the meaning of the Śruti sentence. There is a rule that after the purchase of soma, when it is brought near the Prācīnavaṃśa, eight Ṛks must be recited; for there is a reason for this. That is stated here—
+
+### Printed p. 459
+
+*[Running head, p. 459: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+⟦ತಸ್ಯ ಕ್ರೀತಸ್ಯ ಮನುಷ್ಯಾನಭ್ಯುಪಾವರ್ತಮಾನಸ್ಯ ದಿಶೋ ವೀರ್ಯಾಣೀಂದ್ರಿಯಾಣಿ
+ವ್ಯುದಸೀದಂಸ್ತಾನ್ಯೇಕಯರ್ಚಾವಾರುರುತ್ಸಂತ ತಾನಿ ನಾಶಕ್ಕುವಂಸ್ತಾನಿ ದ್ವಾಭ್ಯಾಂ ತಾನಿ
+ತಿಸೃಭಿಸ್ತಾನಿ ಚತಸೃಭಿಸ್ತಾನಿ ಪಂಚಭಿಸ್ತಾನಿ ಷಡ್ಭಿಸ್ತಾನಿ ಸಪ್ತಭಿರ್ನೈವಾವರುಂಧತ
+ತಾನ್ಯಷ್ಟಾಭಿರವಾರುಂಧತಾಷ್ಟಾಭಿರಾಶ್ನುವತ ಯದಷ್ಟಾಭಿರವಾರುಂಧತಾಷ್ಟಾಭಿರಾಶ್ನುವತ
+ತದಷ್ಟಾನಾಮಷ್ಟತ್ವಮಶ್ನುತೇ ಯದ್ಯತ್ಕಾಮಯತೇ ಯ ಏವಂ ವೇದ ।⟧
+
+After the soma was bought and brought, when it came near men (the sacrificers), its strength and powers dwindled; that is, the power belonging to soma (that comes to those who drink soma) of giving strength and making the senses such as the eye keen was all lost. Then the sacrificers, wishing to stop those powers from going, tried by reciting one Ṛk to make a binding of the quarters. It did not succeed. Then they recited two Ṛks, then three, four, five, six, up to seven Ṛks, and it did not succeed. Then, when they recited eight Ṛks, they were able to bind. Therefore, since the work was accomplished by reciting eight Ṛks, the use of the word अष्ट (*aṣṭa*) (from अश् प्राप्तौ (*aś prāptau*)) agrees here. The man who knows this obtains what he desires.
+
+तस्मादेतेषु कर्मस्वष्टावनूच्यंत इंद्रियाणां वीर्याणामवरुध्यॆति (*tasmādeteṣu karmasvaṣṭāvanūcyaṃta iṃdriyāṇāṃ vīryāṇāmavarudhyèti*)
+(Ai. Brā. 3-12)
+
+Therefore in these soma-conveying rites the Hotṛ priest must recite eight Ṛks separately. By reciting thus, it is possible to prevent the senses and powers (strength and capacities) from being lost.
+
+Here the preliminary account ends.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative symbol or ornament consisting of three stylized floral-like shapes connected by lines, resembling an infinity sign (∞)." (an ornament), kept as a note.]*
+
+**The rite called Somapravāhaṇa** (the rite of bringing the soma from near the Prācīnavaṃśa or sacrificial altar to near the Uttaravedi in the west)
+
+Up to here the number of Ṛks to be used in this Somapravāhaṇa rite has been made clear. Now the Adhvaryu recites the Praiṣa mantra, addressing the Hotṛ.
+
+सोमाय क्रीताय प्रोह्यमाणायानुब्रू ३ हीत्याहाध्वयुर् । (*somāya krītāya prohyamāṇāyānubrū 3 hītyāhādhvayur |*)
+
+Now the Adhvaryu, addressing the Hotṛ, says सोमाय क्रीताय प्रोह्यमाणायानुब्रू ३ हि (*somāya krītāya prohyamāṇāyānubrū 3 hi*) [with the hyphenated line break joined in kn.md]: that is, for the soma that has been bought, to be taken to the Uttaravedi, take
+
 ---
 
-**Progress note:** Done through printed p. 456 (PDF 456). Sukta 41 Rik 17 complete (p. 454); Rik 18 complete (pp. 454-456); Rik 19 Samhita to Bhavartha (p. 456), printed English and Special Topics to follow. Flags: Rik 18 number missing after Samhita; Pada rtavari vs rtavari; anasi/vajinivati spellings as supplied; 1 accent DIFF
+**Progress note:** Done through printed p. 459 (PDF 459). Sukta 41 Rik 19 printed English and Special Topics (pp. 457-459): Havirdhana carts, soma-purchase myth (Aitareya Brahmana 3-12), Somapravahana rite begins; breaks off mid-sentence at the Adhvaryu's praisha. Flags: ornament line kept as note; no Samhita lines so no accent report
