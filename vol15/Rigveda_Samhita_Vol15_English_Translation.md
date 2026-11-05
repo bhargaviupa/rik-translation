@@ -18502,6 +18502,103 @@ It is explained that Agni is contained in Vaiśvānara and Vaiśvānara in Agni,
 
 The explanation of the Bṛhaddevatā is that Agni is praised as Jātavedas like Indra of the middle world: because he knows everything at the very moment of birth, or because knowledge was born in him, or because at birth he knows and obtains all wealth, or because whenever he is born again and again he is known by all beings. In the same way, in the Śatapatha Brāhmaṇa too,
 
+### Printed p. 586
+
+*[Running head, p. 586: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+⟦ಯಃ ಸಂವತ್ಸರಂ ಜಾತಃ ಸ್ಯಾತ್ಪಾಣೋ ವಾ ಅಗ್ನಿಸ್ತಮೇತದ್ವಿಭರ್ತ್ಯಥ ಹ ವೈ
+ರೇತಃ ಸಿಕ್ತಂ ಪ್ರಾಣೋಽನ್ವವರೋಹತಿ ತದ್ವಿಂದತೇ ತದ್ಯಜ್ಞಾತಂ ಜಾತಂ ವಿಂದತೇ
+ತಸ್ಮಾಜ್ಜಾತವೇದಾಃ ॥⟧
+(printed ಶ. ಬ್ರಾ ೯-೫-೧೬-೮, i.e. Śat. Brā. 9-5-16-8)
+
+It is said that Agni in the form of breath is called Jātavedas because he pervades with his power all the beings that are born. The Upaniṣads describe this very Jātavedas, to be worshipped in the sacrificial house, as the universal-souled Brahman:
+
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ |*)
+(Praśna Upaniṣad 1-8)
+
+The Praśna Upaniṣad says that the Sun rises, of all forms, of a thousand rays, all-knowing, the support of the whole world, known to the wise and the inner self of all beings; and—
+
+⟦ಅರಣ್ಯೋರ್ನಿಹಿತೋ ಜಾತವೇದಾ ಗರ್ಭ ಇವ ಸುಭೃಥೋ ಗರ್ಭಿಣೀಭಿಃ ।
+ದಿವೇದಿವ ಈಡ್ಯೋ ಜಾಗೃವದ್ಭಿರ್ಹವಿಷ್ಮದ್ಭಿರ್ಮನುಷ್ಯೇಭಿರಗ್ನಿಃ ॥⟧
+(printed ಕರೋಪನಿಷತ್ 1-4.8)
+
+The Kaṭha Upaniṣad also describes that Jātavedas, who dwells between the two fire-sticks in the sacrifice and enjoys all oblations, whom the yogis keep in their hearts and meditate on, as pregnant women with affection nourish and rear their embryos, and to whom, as the worshipful Agni, the sacrificers offer oblations, is the universal-souled Parabrahman.
+
+⟦ಅರಣ್ಯೋರ್ನಿಹಿತೋ ಜಾತವೇದಾ ಗರ್ಭ ಇವ ಸುಧಿತೋ ಗರ್ಭಿಣೀಷು ।
+ದಿವೇದಿವ ಈಡ್ಯೋ ಜಾಗೃವದ್ಭಿವರ್ಹವಿಷ್ಮದ್ಭಿರ್ಮನುಷ್ಯೇಭಿರಗ್ನಿಃ ॥⟧
+(printed ಋ. ಸಂ. ೨೯೯ and, on the next line, ಮ. ಸಂ. 329-2, as supplied)
+
+As it is described in the Ṛgveda Saṃhitā, so it is described in the Kaṭha Upaniṣad. Thus all the Śrutis praise him as called Jātavedas because he is all-knowing, all-pervading, possessed of all wealth and the most excellent.
+
+अग्नि देवानां पुरोहितः अभवत्-अग्निः देवानां पुरस्तात् इष्टव्यतया (*agni devānāṃ purohitaḥ abhavat-agniḥ devānāṃ purastāt iṣṭavyatayā*) (the bhāṣyakāra's words)—placed in front of the gods so as to be worshipped first. The bhāṣyakāra's explanation is that Agni is established in front so as to be worshipped before worshipping all the gods
+
+### Printed p. 587
+
+*[Running head, p. 587: Aṣṭaka 2, Adhyāya 8, Varga 18, Ṛgvedasaṃhitā.]*
+
+at all. It can also be said to mean that he is the chief (Leader) of the gods, or their leader, taking the lead. On this subject—
+
+(1) अग्निर्वै देवानामवमो विष्णुः परमः । (*agnirvai devānāmavamo viṣṇuḥ paramaḥ |*)
+(Ai. Brā. 1-1, printed ಐ. ಬ್ರಾ.)
+
+(2) अग्निरग्रे प्रथमो देवतानां । संयातानामुत्तमो विष्णुरासीत् । (*agniragre prathamo devatānāṃ | saṃyātānāmuttamo viṣṇurāsīt |*)
+(Tai. Brā. 2-4-3-3, printed ತೈ. ಬ್ರಾ.)
+
+(3) सद्यो जातो व्यमिमित यज्ञमग्निर्देवानामभवत्पुरोगाः । (*sadyo jāto vyamimita yajñamagnirdevānāmabhavatpurogāḥ |*)
+(Ṛ. Saṃ. 10-110-11)
+
+(5) [numbered so in the supplied text; it follows (3)] ⟦ಅಗ್ನಿರ್ದೇವೋ ದೇವಾನಾಮಭವತ್ಪುರೋಹಿತೋಽಗ್ನಿಂ ಮನುಷ್ಯಾ ೩ ಋಷಯಃ
+ಸಮೀಧಿರೇ ।⟧
+(Ṛ. Saṃ. 10-150-4, printed ೧೦-೧೫೦-೪)
+
+(5) पुरोगा अग्निर्देवानां गायत्रेण समज्यते । (*purogā agnirdevānāṃ gāyatreṇa samajyate |*)
+(Ṛ. Saṃ. 1-188-11)
+
+In these and many other mantras it is said that Agni is the leader of the gods. (The supplied list is numbered "1. (೧)", ೨, ೩, ೫, ೫, with the fourth item numbered ೫, as printed; the "೩" after "ಮನುಷ್ಯಾ" in item ೫ is also as supplied.)
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> ति॒स्रो य॒ह्वस्य॑ स॒मिधः॒ परि॑ज्मनो॒ऽग्नेर॑पुनन्नु॒ शिजो॒ अमृ॑त्यवः ।
+> तासा॒मेका॒मद॑धु॒र्मर्त्ये॒ भुज॑मु लो॒कमु॒ द्वे उप॑ जा॒मिमी॑यतुः ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> तिस्रः । यह्वस्य । संइधः । परिज्जनः । अग्नेः । अपुनन् । उशिजः । अमृत्यवः ।
+> तासां । एकां । आदधुः । मर्त्ये । भुजं । ऊं इति । लोकं । ऊं इति । द्वे इति ।
+> उप । जामिं । ईयतुः ॥ ९ ॥
+
+*(The Saṃhitā is printed ಅಪುನನ್ನು ಶಿಜೋ and ಭುಜಮು ಲೋಕಮು; the Pada is printed ಸಂಇಧಃ, ಪರಿಜ್ಜನಃ and ಊಂ ಇತಿ, as supplied.)*
+
+### Printed p. 588
+
+*[Running head, p. 588: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उशिजः कामयमाना अमृत्यवो मृत्युरहिता देवा यह्वस्य महतः
+> परिज्जनः परितो गंतुः समिधः समिंधिकाः प्रकातिकास्तिस्रः पार्थिववैद्युतसूर्यरूपास्तिस्रस्तनूरपुनन् । अशोधयन् । ते देवा भुजं सर्वॆषां पालयित्रीं तासां
+> तनूनां व ध्य एकां पार्थिवीं तनुं मर्त्ये मर्त्यलोकेऽदधुः । न्यदधुः । उ इति
+> पादपूरणः । इतरे द्वे तनू जामिं लोकमासन्नमंतरिक्षमुपेयतुः । गच्छतः ।
+> अथवा तिस्रः समिध आघारसमिधौ द्वे अनूयाजसमिच्चैकेशि । तासां समिधामेकामनूयाजसमिधं मर्त्य इह लोके भोगहेतुमनूयाजपर्यंतमदधुः ।
+> धारयंति। प्रजा वा अनूयाजा इति प्रजात्वेनानूयाजानां संस्तवात् तदाश्रयत्वाच्चानूयाजसमिधः । इतरे द्वे समिधावंतरिक्षे दिव्यभोगहेतू उपेयतुः ।
+> उपगच्छतः । त्रीन्नरिधींस्तिस्रः समिध इति हि निगमः ॥
+
+*(Gist: the deathless gods purified the three bodies of great, far-going Agni, terrestrial, lightning and solar; they placed the terrestrial one among mortals, and the other two went to the sky. Alternatively the three samidhs, one of them the anūyāja.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Uśijaḥ: those who long (for Agni's presence). Amṛtyavaḥ: the gods, free from the nature of death. Yahvasya: of him who is endowed with greatness. Parijmanaḥ: who moves all round. Agneḥ: of Agni. Samidhaḥ: the shining. Tisraḥ: the three bodies, terrestrial, lightning and solar. Apunan: they purified. Tāsāṃ: among those bodies. Bhujaṃ: protecting all. Ekāṃ: the terrestrial form. Martye: in the world of mortals. Adadhuḥ: they placed. Dve: the other two bodies also. Jāmiṃ: that lies near. Lokaṃ: towards the atmosphere. Upa īyatuḥ: go and join.
+
+**भावार्थ (Bhāvārtha)**
+
+The gods, who long for the presence of Agni and are free from death, purified the three shining bodies of Agni, who is endowed with greatness and moves all round, the terrestrial, the lightning and the solar. Among those bodies, which protect all, they placed the terrestrial Agni in the world of mortals. The other two bodies also go and join the atmosphere, which lies near.
+
+**Printed English translation**
+
+The immortals, desirous (of his presence), sanctified the three radiances of the great circumambient Agni; one of them they have placed in the world of mortals as the nourisher (of all); the other two have gone to the neighbouring sphere.
+
 ---
 
-**Progress note:** Done through printed p. 585 (PDF 585). Sūkta 2 Ṛk 8 complete; Special Topics on Jātavedas cut mid-sentence (Śatapatha Brāhmaṇa); p. 583 head merged, fixed
+**Progress note:** Done through printed p. 588 (PDF 588). Sūkta 2 Ṛk 8 Special Topics end; Ṛk 9 complete up to printed English
