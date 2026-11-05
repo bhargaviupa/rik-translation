@@ -16363,6 +16363,106 @@ The meaning of this Ṛk is not easy to understand. Since it consists of difficu
 ⟦ಸನಾಃ ಯುವತಯಃ ಸಯೋನೀಃ ಸಪ್ತ ವಾಣೀಃ ಏಕಂ ಗರ್ಭಂ ದಧಿರೇ—ಸನಾತನ್ಯಃ ನಿತ್ಯವೃ
 ದ್ದಾ ಸಮಾನಯೋನೀಃ ಸಪ್ತ ನದ್ಯಃ ಅಗ್ನಿಂ ಗರ್ಭಸ್ಥಂ ದಧತೇ ।⟧ Some words of this sentence need explanation. सनातन्यः (*sanātanyaḥ*): these rivers have existed from very ancient times; they are not recent. युवतयः (*yuvatayaḥ*): they are in an ever-increasing state. Because they are full of abundant waters, they are called increasing ones, and because they are not in the decaying state that denotes the alteration of age, but are always, that is every year, increasing, these rivers are called young women. सयोनीः (*sayonīḥ*): योनि (*yoni*) is the place of origin; सयोनि (*sayoni*) is a common place of origin. Though the rivers are different, they all have one place of origin, the atmosphere. The waters that fall from the atmosphere as rain flow as many rivers; since the atmosphere is the source of the waters of many rivers, it is said here सयोनीः (*sayonīḥ*). वाणीः (*vāṇīḥ*)—आपो वा वहनात् (*āpo vā vahanāt*) (Ni. 6-2): flowing water, that is a river, is called वाणी (*vāṇī*). सप्त (*sapta*) means seven. Although the main and great rivers are indicated here by the number seven, the word सप्त (*sapta*) must be explained as many or principal rivers. The main intent is that such principal rivers bore the one Agni in their womb. Because the word एकं (*ekaṃ*) is used here, how did seven separate rivers bear the one Agni in their womb? Because Agni is one
 
+### Printed p. 517
+
+*[Running head, p. 517: Aṣṭaka 2, Adhyāya 8, Varga 14, Ṛgvedasaṃhitā.]*
+
+yet, through his greatness, that is, because he is of such a nature as to pervade everywhere at one time, he remains within the abundant waters of the many rivers: this is the main intent.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> स्त्री॒र्णा अ॑स्य सं॒हतो॑ वि॒श्वरू॑पा घृ॒तस्य॒ योन्सौ॑ स्र॒वथे॒ मधू॑नां ।
+> अस्फु॒रत्र॑ धे॒नवः॒ पिन्व॑माना म॒ही द॒स्मस्य॑ मा॒तरा॑ समी॒ची ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> स्त्रीर्णाः । अस्य । संहतः । विश्वरूपाः । धृतस्य । योन् । स्रवथे । मधूनां ।
+> अस्थुः । अत्र । धेनवः । पिन्वमानाः । मही इति । दस्मस्य । मातरा । समीची इति संईची ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> धृतस्योदकस्य योन् गौ गर्भस्थानेंतरिक्षे संहतः पुंजीभूताः ॥ हंतेः
+> क्विप् ॥ विश्वरूपा नानारूपाः स्तीर्णाः सर्वत्र प्रसृता अस्याग्ने रश्मयो मधूनामुदकानां स्रवथे स्रवणे सत्यस्थुः । तिष्ठंति । पिन्वमानाः पूर्यमाणा अत्राग्नावापो धेनवः सर्वेषां प्रीणयित्र्योभवन् । समीची समंचंत्यौ शोभमाने
+> मही महत्यौ द्यावापृथिव्यौ दस्मस्य दर्शनीयस्याग्नेर्मातरा मातरौ भवतः ॥
+
+> *dhṛtasyodakasya yon gau garbhasthāneṃtarikṣe saṃhataḥ puṃjībhūtāḥ ‖ haṃteḥ*
+> *kvip ‖ viśvarūpā nānārūpāḥ stīrṇāḥ sarvatra prasṛtā asyāgne raśmayo madhūnāmudakānāṃ sravathe sravaṇe satyasthuḥ | tiṣṭhaṃti | pinvamānāḥ pūryamāṇā atrāgnāvāpo dhenavaḥ sarveṣāṃ prīṇayitryobhavan | samīcī samaṃcaṃtyau śobhamāne*
+> *mahī mahatyau dyāvāpṛthivyau dasmasya darśanīyasyāgnermātarā mātarau bhavataḥ ‖*
+
+*(Gist: the many-formed rays of Agni, gathered in the atmosphere, the womb of water, stand ready for the flowing of the waters; the waters, filling up in him, become satisfying to all; Heaven and Earth are the parents of the beautiful Agni. Hyphenated line breaks were joined; the supplied text had the Pratipadārtha inside the bhāṣya block under a garbled label "। ಪ್ರತಿಪವಾರ್ಧ ॥", set out below as its own section.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Dhṛtasya: of the water. Yonsau [printed so]: in the atmosphere, the place of origin. Saṃhataḥ: gathered together. Viśvarūpāḥ: of many forms. Stīrṇāḥ: and spread everywhere. Asya: (the rays) of this Agni. Madhūnāṃ: of the waters. Sravaṇe: for the flow. Asthuḥ: stand (as helpers). Pinvamānāḥ [printed ಪಿನ್ನಮಾನಾಃ]: the overflowing waters. Atra: in this Agni. Dhenavaḥ: are satisfying to all. Samīcī: shining together. Mahī: and great, Heaven and Earth. Dasmasya: of the beautiful Agni. Mātarā: are parents.
+
+### Printed p. 518
+
+*[Running head, p. 518: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+**भावार्थ (Bhāvārtha)**
+
+The rays of Agni, gathered together in the atmosphere, the place of origin of water, of many forms and spread everywhere, stand as helpers for the flow of the waters. The overflowing waters, joining in this Agni, are satisfying to all. Heaven and Earth, great and shining together, are the parents of the beautiful Agni.
+
+**Printed English translation**
+
+Aggregated in the womb of the waters, (his rays) spread abroad ; and omniform, are here effective for the diffusion of the sweet (juice), like milch cows full uddered : the mighty (Heaven and Earth) are the fitting parents of the graceful Agni.
+
+*[In the supplied text the printed English stood before its label "English Translation."; the order was corrected in kn.md.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+धृतस्य—उदकस्य । (*dhṛtasya—udakasya |*) The word धृत (*dhṛta*) is read among the names of water (printed सि. २-२४ (*si. 2-24*), i.e. Ni. 2-24, as supplied).
+
+⟦ಧೃತಸ್ಯ ಯೋನ್ಸೌ ಸಂಹತಃ ವಿಶ್ವರೂಪಾಃ ಸ್ತೀರ್ಣಾಃ ಅಸ್ಯ (ರಶ್ಮಯಃ) ಮಧೂನಾಂ ಸ್ರವಣೇ
+ಅಸ್ಥುಃ⟧—in the atmosphere, the place of origin of water, that is, in the many masses of clouds gathered in the atmosphere, the rays of Agni, spread everywhere, are helpers for the pouring of rain. That is: in all those clouds Agni, in the form of lightning, spreads everywhere and helps the raining.
+
+⟦ಪಿನ್ವಮಾನಾಃ ಅತ್ರ ಧೇನವಃ—ಅಗ್ನೌ ಪೂರ್ಯಮಾಣಾ ಆಪಃ ಸರ್ವೇಷಾಂ ಪ್ರೀಣಯಿತ್ರ್ಯೋS
+ಭವನ್।⟧ The waters (clouds) that surround and fill the Agni present in the atmosphere in the form of lightning are delightful to all, being ready for the raining of rain.
+
+⟦ಸಮೀಚೀ ಮಹೀ ದಸ್ಮಸ್ಯ ಮಾತರಾ—ಸಮಂಚಂತ್ಯೌ ಶೋಭಮಾನೇ ಮಹತ್ವಾ ದ್ಯಾವಾಪೃ-
+ಥಿವ್ಯೌ ದರ್ಶನೀಯಸ್ಯಾಗ್ನೇಃ ಮಾತರೌ ಭವತಃ ।⟧ Because Agni, present in the form of lightning in the middle of the clouds in the atmosphere, is between Heaven and Earth, Heaven and Earth are described here as the mother and father of Agni, and Agni's form as lightning, being very brilliant, is attractive to look at.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative symbol or ornament consisting of three stylized floral-like shapes connected by curved lines." (an ornament), kept as a note.]*
+
+### Printed p. 519
+
+*[Running head, p. 519: Aṣṭaka 2, Adhyāya 8, Varga 14, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> ब॒भ्रा॒णः सू॑नो सहसो॒ व्य॑द्यौ॒द्दधा॑नः शु॒क्रा र॑भ॒सा वपूं॑षि ।
+> श्चोतं॑ति॒ धारा॒ मधु॑नो घृ॒तस्य॒ वृषा॒ यत्र॑ वावृ॒धे काव्ये॑न ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> बभ्राणः । सूनो इति । सहसः । वि । अद्यौत् । दधानः । शुक्रा । रभसा । वपूंषि ।
+> श्चोतंति । धाराः । मधुनः । घृतस्य । वृषा । यत्र । ववृधे । काव्येन ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सहसः सूनो सहसस्पुत्र बभ्राणः सर्वैधार्यमाणस्त्वं शुक्रा शुक्राणि
+> भास्वराणि रभसा वेगवंति वपूंष्यर्चिंषि दधानः धारयंस्त्वं व्यद्यात् । विद्योतसे । वृषाग्निर्यत्र यस्मिन्यजमाने काव्येन स्तोत्रेण ववृधे वृद्धिं प्राप्नोति
+> तदानीं मधुनोऽत्यंतं मधुरस्य धृतस्कोदकस्य धाराः श्चोतंति । स्रवंते। यदा
+> यजमानस्तोत्रेणाग्निस्तुष्टो भवति तदानीं वृष्टिर्भवतीत्यर्थः ॥
+
+*(Gist: O Agni, son of strength, sustained by all, you shine with bright and swift flames; when Agni is magnified by the praise of a sacrificer, streams of sweet water, rain, pour down. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Sahasaḥ sūno: O Agni, son of strength. Babhrāṇaḥ: you who are sustained by all. Śukrā: bright. Rabhasā: swift. Vapūṃṣi: flames. Dadhānaḥ: bearing. Vyadyaut: you shine. Vṛṣā: Agni, the showerer of desires. Yatra: in whichever sacrificer. Kāvyena: by praise. Vavṛdhe: he is magnified (then). Madhunaḥ: very sweet. Ghṛtasya: of water. Dhārāḥ: streams. Ścotanti: pour down.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, son of strength, sustained by all, you shine bearing bright and swift flames. In whichever sacrificer the showerer Agni is magnified by praise, there streams of very sweet water pour down.
+
+**Printed English translation**
+
+Son of strength, sustained by all, you shine, possessing bright and rapid rays: when the vigorous Agni is magnified by praise, then the showers of sweet rain descend.
+
 ---
 
-**Progress note:** Done through printed p. 516 (PDF 516). Sukta 1 (Mandala 3) Rik 5 complete (pp. 513-514); Rik 6 complete through printed English and Special Topics (pp. 514-516), ends mid-sentence at 'Agni is one'. p. 515 merged into p. 514 (misprinted head), marker inserted by hand. Flags: garbled Pada label kept as note; stray line 33; 1 accent DIFF
+**Progress note:** Done through printed p. 519 (PDF 519). Sukta 1 (Mandala 3) Rik 6 Special Topics finished (p. 517); Rik 7 complete (pp. 517-518); Rik 8 complete through printed English (p. 519), Special Topics to follow. Flags: garbled Pratipadartha label kept as note; English translation label order corrected in kn.md; hyphenated breaks joined in blocks; 2 accent DIFF
