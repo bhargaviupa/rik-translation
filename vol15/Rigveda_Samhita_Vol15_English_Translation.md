@@ -3720,6 +3720,86 @@ Varuṇa—O Varuṇa; Ṛṇā—the debts incurred by our forefathers; Parā s
 
 O Varuṇa, discharge the debts incurred by our forefathers and the debts now incurred by me. O Varuṇa, the lord, do not let me enjoy pleasure with wealth earned by others [the supplied text of the Bhāvārtha ends here, in mid-sentence, at the end of this window].
 
+### Printed p. 120
+
+(Continuation of the Bhāvārtha of Ṛk 9 from p. 119:) ... do not do so. Because I am under the pressure of debt, many shining dawns have, as it were, not dawned, and have become like darkness. In such dawn-times make us free of debt, so that we may have a peaceful life.
+
+**Printed English translation**
+
+Discharge, Varuna, the debts (contracted) by my progenitors, and those now (contracted) by me; and may I not royal Varuna be dependent (on the debts contacted [sic]) by another: many are the mornings that have as it were, indeed not dawned : make us, Varuna, alive in them.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the word ऋण (*ṛṇa*) (debt) and the verb परासावीः (*parāsāvīḥ*) are used only once. But since the words अध मत्कृतानि (*adha matkṛtāni*) are also used, Sāyaṇa repeats the object-word and the verb in explaining the sense: the debts incurred by the sacrificer's forefathers and the debts incurred by the sacrificer himself, both kinds, have to be paid by the sacrificer; hence the prayer is stated that Varuṇa grant that both kinds of debt be discharged.
+
+On भूयसीः उषसः अव्युष्टा इन्नु (*bhūyasīḥ uṣasaḥ avyuṣṭā innu*): the word इत् (*it*) is given the sense of combination (samuccaya), and नु (*nu*) the sense of comparison. Sāyaṇa's words: भूयस्यः उषसः अपररात्रेषूत्ताय ऋणानि चिंतयतो जाग्रतो मम व्युष्टाअपि अव्युष्टकल्पाः आर्स (*bhūyasyaḥ uṣasaḥ apararātreṣūttāya ṛṇāni ciṃtayato jāgrato mama vyuṣṭāapi avyuṣṭakalpāḥ ārsa*) (as supplied; the last word, आर्स (*ārsa*), is doubtful [?]). That is: even when one is awake in the last watch of the night, thinking how to repay the debts, the dawns that have arrived and have passed one after another remain, as it were, as if they had not passed; thus the sacrificer's anxiety is shown to be abundant. And तासु नः जीवान् आशाधि (*tāsu naḥ jīvān āśādhi*): addressing Varuṇa, the prayer is made that, for the sacrificer who thinks much in those dawn-times, the debts be discharged (ऋणान्यपकृत्य (*ṛṇānyapakṛtya*)) and wealth sufficient for enjoyment be given (भोगपर्याप्तं धनं प्रयच्छ (*bhogaparyāptaṃ dhanaṃ prayaccha*)).
+
+### Printed p. 121
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> यो मे॑ राज॒न्यज्यो॑ वा॒ सखा॑ वा॒ स्वप्ने॑ भ॒यं भी॒रवे॒ मह्य॒-॑
+> माह ।
+> स्ते॒नो वा॒ यो दिप्स॑ति नो॒ वृको॑ वा॒ त्वं तस्मा॑द्वरुण पाह्य॒स्मान् ॥
+
+**॥ पदपाठः ॥**
+
+> यः । मे । राजन् । युज्यः । वा । सखा । वा । स्वप्ने । भयं । भीरवे । मह्यं ।
+> आह ।
+> स्तेनः । वा । यः । दिप्सति । नः । वृकः । वा । त्वं । तस्मात् । वरुण । पाहि । आस्मान्॥१०॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे राजन् वरुण मे मदीयो युज्यो योजनसमर्थः पित्रादिर्वा सखा
+> समानख्यानोऽन्यो बांधवो वा स्वप्ने दृष्टं त्वद्विषयं भयं भीरवे भयशी-
+> लाय मह्यं य आह ब्रूते । तथा स्तेनश्चौरो वा वृकोऽरण्यश्वा वा यो
+> नोऽस्मान् दिप्सति । जिघांसति ॥ सनीवंतर्धोति विकल्पनादिडभावः । दंभ इच्छेतीत्वं ॥
+> हे वरुण त्वं तस्मात्सर्वस्मादस्मान्पाहि । रक्ष ॥
+
+> *he rājan varuṇa me madīyo yujyo yojanasamarthaḥ pitrādirvā sakhā*
+> *samānakhyāno 'nyo bāṃdhavo vā svapne dṛṣṭaṃ tvadviṣayaṃ bhayaṃ bhīrave bhayaśī-*
+> *lāya mahyaṃ ya āha brūte | tathā stenaścauro vā vṛko 'raṇyaśvā vā yo*
+> *no 'smān dipsati | jighāṃsati ‖ sanīvaṃtardhoti vikalpanādiḍabhāvaḥ | daṃbha icchetītvaṃ ‖*
+> *he varuṇa tvaṃ tasmātsarvasmādasmānpāhi | rakṣa ‖*
+
+Gist: Sāyaṇa takes the Ṛk to ask Varuṇa to protect from the fear that a relative or friend reports from a dream concerning him, and from a thief or wolf that wishes to harm; the tail explains the verb दिप्सति (*dipsati*) (from *dambh*, desiderative) with optional absence of the augment.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Rājan—O lord; Varuṇa—O Varuṇa; Me—my; Yaḥ yujyaḥ—whichever father or other kinsman; Vā—or; Sakhā vā—whichever other relative; Svapne—in a dream (seen with reference to you); Bhayaṃ—the fear; Bhīrave—to the timid; Mahyaṃ—to me; Āha—explains and tells, from that too; Yaḥ stenaḥ vā—whichever thief; Vā—or; Vṛkaḥ—wolf; Naḥ—us; Dipsati [the supplied text has दिप्पति (*dippati*), as supplied]—harms; Tasmāt—from all that fear and that harm; Tvaṃ—you; Asmān—us; Pāhi—protect.
+
+**भावार्थ (Bhāvārtha)**
+
+O lord Varuṇa, from whatever fear, seen in a dream with reference to you, that any father or other kinsman of mine, or any other relative, explains and tells to me, who am timid, or from whatever thief or wolf harms us, from all that fear and harm protect us completely.
+
+**Printed English translation**
+
+Protect us, Varuna, against every peril which a kinsman or a friend threatens me with alarmed in sleep; or from a thief or a wolf that attempts to destroy us.
+
+### Printed p. 122
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the sacrificer prays for protection from Varuṇa, with removal of fear; the causes of fear are also stated. First, युज्यः—योजनसमर्थः पित्रादिः (*yujyaḥ—yojanasamarthaḥ pitrādiḥ*), a father or the like able to support; and सखा—समानख्यानः अन्योवा बांधवः (*sakhā—samānakhyānaḥ anyovā bāṃdhavaḥ*), a friend of like understanding with oneself, or a kinsman, indicates to the sacrificer a fear concerning the deity worshipped by the sacrificer; hence protection from this deity is sought.
+
+Second, स्तेनः—चोरः, वृकः—अरण्यश्वा (*stenaḥ—coraḥ, vṛkaḥ—araṇyaśvā*): from creatures that cause harm, the thief and the wicked beasts that kill and eat in the forest (wolves), Varuṇa is prayed to protect.
+
+Although the word स्तेन (*stena*) is not read by Yāska among the names of thieves, it is explained as स्तेनः कस्मात् संस्थानमस्मिन् पापकमिति नैरुक्ताः (*stenaḥ kasmāt saṃsthānamasmin pāpakamiti nairuktāḥ*) (Ni. 3-19) [the supplied text has पापकमिति (*pāpakamiti*), as supplied].
+
+वृकः—अरण्यश्वा (*vṛkaḥ—araṇyaśvā*). The word वृक (*vṛka*) is read among the names of the thunderbolt (Ni. 3-11) and among the names of thieves (Ni. 3-19). It is also explained: वृकश्चंद्रमा भवति । विवृत ज्योतिष्को वा विकृतज्योतिष्टो वा, विक्रांतजोतिष्को वा (*vṛkaścaṃdramā bhavati | vivṛta jyotiṣko vā vikṛtajyotiṣṭo vā, vikrāṃtajotiṣko vā*) (Ni. 5-21); and वृको लांगलं भवति विकर्तनात् (*vṛko lāṃgalaṃ bhavati vikartanāt*) (Ni 6-26) — thus the meaning of the word वृक (*vṛka*) is explained. Sāyaṇa has explained the word as "wild dog (wolf)".
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> माहं म॒घोनो॑ वरुण प्रि॒यस्य॑ भूरि॒दान्न॒ आ वि॑दं॒ शून॑मा॒पेः ।
+> मा रा॒यो रा॑जन्सु॒ यमा॒दव॑ स्थां बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+
+> *māhaṃ maghono varuṇa priyasya bhūridānna ā vidaṃ śūnamāpeḥ |*
+> *mā rāyo rājansu yamādava sthāṃ bṛhadvadema vidathe suvīrāḥ ‖*
+
 ---
 
-**Progress note:** Done through printed p. 119 (PDF 119). Sūkta 28 Ṛk 7 Special Topics completed on p. 117; Ṛk 8 complete (p. 118); Ṛk 9 through Bhāvārtha start (window ends mid-Bhāvārtha, continues p. 120). Hand fixes to kn.md: prose Sanskrit into blocks, garbled labels (पदपाठ, सहिताषाठ, भाषार्थ) replaced by standard ones, stray 'सचिवालय' line removed, Ṛk 8/9 Saṃhitā put in blocks, bhāṣya label moved out of block. Flags as supplied: Ṛk 8 Pada 'ದುಃಸದಭ' vs Saṃhitā 'ದೂಳಭ'; Ṛk 9 Saṃhitā 'ಪರ' vs Pada 'ಪರಾ', bhāṣya 'ತಾಸೂಷಿಸು', 'ಅಪ್ರತಿಹನಾದ'; 'ಪು ಸಂ.' for Ṛg. Saṃ.; 'Si. 7-2'; Varuua [sic]
+**Progress note:** Done through printed p. 122 (PDF 122). Sūkta 28 Ṛk 9 complete (p. 120); Ṛk 10 complete (pp. 121-122); Ṛk 11 Saṃhitā only (Pada continues p. 123). Hand fixes to kn.md: Ṛk 10 and 11 Saṃhitā put in blocks with standard labels, garbled Saṃhitā label lines removed, bhāṣya label moved out of Pada block. Flags as supplied: ಆರ್ಸ [?] in Ṛk 9 Special Topics; Pada ಆಸ್ಮಾನ್, ದಿಪ್ಪತಿ in Pratipadārtha; ಪಾಪಕಮಿತಿ
