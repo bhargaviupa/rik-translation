@@ -3312,6 +3312,107 @@ May we, Varuna, deeply meditating on you earnestly praising you and (engaged) in
 
 (The Pada: प्रनेतरिति प्रनेतः (*pranetariti pranetaḥ*) against Saṃhitā प्रणेतः (*praṇetaḥ*), and आदितेः (*āditeḥ*), आदब्धाः (*ādabdhāḥ*) against अदिते (*adite*), अदब्धा (*adabdhā*) in the Saṃhitā, are as supplied; the Pada here shows no Ṛk number. The Sāyaṇa-bhāṣya of this Ṛk follows on the next page.)
 
+### Printed p. 108
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 28, p. 108.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे प्रणेतः सर्वस्य जगतः प्रकर्षेण नेतर्वरुण पुरुवीरस्य पुरुभिर्बहुभिः-
+> र्वीर्रैरुपेतस्य यद्वा पुरूणां बहूनां शत्रोणां विशेषेण प्रेरकस्योरु-
+> शंसस्योरुभिर्बहुभिः स्तूयमानस्य तव शर्मन् शर्मणि सुखे गृहे ना स्याम ।
+> अदितेः पुत्रा मित्रादयः ॥ परमपि छंदसीति परस्य षष्ठ्यंतस्य पूर्वामंत्रितांगव
+> द्भावेनानुप्रवेशात् पदद्वयसमुदायस्याष्टमिकं सर्वानुदात्तत्वं ॥ अदब्बाः
+> शत्रुभिरहिंसिताः । एवंभूता हे देवा यूयं नोऽस्मान् कृतापराधान्
+> युज्याय सख्यायाभिक्षमध्वं । अस्माभिः कृतमपराधं सहध्वं ॥
+
+*Gist:* Varuṇa, leader of all the world, may we dwell in your protection; sons of Aditi, unharmed by foes, forgive our offences and keep us in friendship.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Pranetaḥ (leader)—guide of the whole world; Varuṇa—O Varuṇa; Puruvīrasya—of you who are endowed with many kinds of valour; Uruśaṃsasya—praised by many people; Tava—your; Śarman—in the pleasant house; Syāma—may we be; Aditeḥ putrāḥ—O sons of Aditi, Mitra and the other gods; Adabdhāḥ—unharmed by enemies; Devāḥ—divine in nature; Yūyaṃ—you; Naḥ—us (even though we have committed offences); Yujyāya—for friendship; Abhi kṣamadhvaṃ—forgive.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, guide of the whole world, may we dwell in your pleasant house, you who are endowed with many kinds of valour and are praised by many people. O sons of Aditi, Mitra and the other gods, unharmed by enemies and divine in nature, forgive our offences and preserve our friendship with you.
+
+**Printed English translation**
+
+Varuna, chief guide (of men), may we abide in the felicity of you who are endowed with great prowess, and are glorified by many: divine sons of Aditi, unharmed (by foes), have compassion upon us through your benevolence.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+प्रणीतः (*praṇītaḥ*) (as supplied; the Ṛk has praṇetaḥ)—सर्वस्य जगतः प्रकर्षेण नेतः (*sarvasya jagataḥ prakarṣeṇa netaḥ*): Varuṇa leads the whole world abundantly, that is, he regulates it greatly; this is the meaning explained.
+
+### Printed p. 109
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 9, p. 109.*
+
+पुरुवीरस्य (*puruvīrasya*)—बहुभिर्वीरैरुपेतस्य यद्वा बहूनां शत्रूणां विशेषेण प्रेरकस्य (*bahubhirvīrairupetasya yadvā bahūnāṃ śatrūṇāṃ viśeṣeṇa prerakasya*). The word *vīra* is explained by Yāska as वीरो वीरयत्यमित्रान् । वेतेर्वा स्याद्दतिकर्मणः । वीरयतेर्वा (*vīro vīrayatyamitrān | vetervā syāddatikarmaṇaḥ | vīrayatervā*) (Ni. 1-7) [text as supplied]. Sāyaṇa gives two meanings, "endowed with strength" or "enemies", and so describes Varuṇa either as endowed with many heroes or as one who drives out enemies.
+
+शर्मन् (*śarman*)—गृहे सुखे वा (*gṛhe sukhe vā*): the word *śarma* is read by Yāska (Ni. 3-13) among the names both of "house" and of "happiness"; therefore Sāyaṇa gives both meanings.
+
+In the first half of this Ṛk Varuṇa is praised, in the second half the Ādityas, Mitra and the others, sons of Aditi. The sacrificers' dwelling in the happiness or house favoured by Varuṇa is prayed for, and the prayer is expressed that Mitra and the other Ādityas should forgive the sacrificers' offences.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> प्र सी॑मादि॒त्यो अ॑सृजद्विध॒र्ता ऋ॒तं सिंध॑वो॒ वरु॑णस्य यंति ।
+> न श्रा॑म्यंति॒ न वि मु॑चंत्ये॒ते वयो॒ न प॑प्तु रघु॒या परि॑ज्मन् ॥
+
+> *pra sīmādityo asṛjadvidhartā ṛtaṃ siṃdhavo varuṇasya yaṃti |*
+> *na śrāmyaṃti na vi mucaṃtyete vayo na paptu raghuyā parijman ‖*
+
+(The supplied text prints a stray "1," before the Saṃhitā label and no Ṛk number after the verse; the Saṃhitā reads पप्तु रघुया (*paptu raghuyā*) where the Pada has पप्तुः (*paptuḥ*). Both as supplied.)
+
+**॥ पदपाठः ॥**
+
+> प्र । सीं । आदित्यः । असृजत् । विधर्ता । ऋतं । सिंधवः । वरुणस्य । यंति ।
+> न । श्राम्यंति । न । वि । मुचंति । एते । वयः । न । पप्तुः । रघुया । परिज्मन् ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> विधर्ता सेतुरिव जलस्य विधारयितादित्योऽदितेः पुत्रो वरुण्ययतं विधारण-
+> हेतुभूतं सत्यं यद्वा नदीनामुपादानभूतमुदकं सीं सर्वतः प्रासृजत् ।
+> प्रकर्षेण सृष्टवान् ॥ अणोऽप्रगृह्यस्यानुनासिक इत्याकारः सानुनासिकः ॥ तेन
+> वरुणस्यर्तेन सिंधवः स्यंदनशीला नद्यो यंति ! गच्छंति प्रवहंति । एते सिंधवो
+
+> *vidhartā seturiva jalasya vidhārayitādityo 'diteḥ putro varuṇyayataṃ vidhāraṇa-*
+> *hetubhūtaṃ satyaṃ yadvā nadīnāmupādānabhūtamudakaṃ sīṃ sarvataḥ prāsṛjat |*
+> *prakarṣeṇa sṛṣṭavān ‖ aṇo 'pragṛhyasyānunāsika ityākāraḥ sānunāsikaḥ ‖ tena*
+> *varuṇasyartena siṃdhavaḥ syaṃdanaśīlā nadyo yaṃti ! gacchaṃti pravahaṃti | ete siṃdhavo*
+
+### Printed p. 110
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 28, p. 110.*
+
+> न श्राम्यंति । श्रांतिं न प्राप्नुवंति । न विमुचंति । उपरता न भवंति । अनलसाः
+> सर्वदैकरूप्येण प्रवहंतीत्यर्थः । एतदेवोच्यते । वयो न । वयः दक्षिण इव
+> रघुया रघवः शीघ्रगामिनः परिज्मन् परिज्मनि भूम्यां पप्तुः । पतंति गच्छंति ॥
+> पत्लृ गतौ । लिट्युसि तनिपत्योश्चंदसीत्युपधालोपॆः । स्थानिवद्भावाद्विर्वचनादि ।
+> रघुया इत्यत्र सुपां सुलुगिति जसो याजादेशः ॥
+
+*Gist:* Aditi's son Varuṇa, upholder like a dam, has sent forth the water (or truth); by his law the rivers flow untiringly and swiftly like birds. The grammatical tail explains the nasalised ā, the elision of the penultimate letter in the perfect *paptuḥ* (Pāṇini rules not numbered in the supplied text) and the substitution of *yāc* for *jas* in *raghuyā*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vidhartā—the holder of the water; Ādityaḥ—Varuṇa, son of Aditi; Ṛtaṃ—truth or water; Sīṃ—everywhere; Pra asṛjat—created; Varuṇasya—by Varuṇa's ordinance; Sindhavaḥ—the (flowing) rivers; Yanti—flow; Ete—these rivers; Na śrāmyanti—do not become weary; Na vi muñcanti—do not cease flowing; Vayo na—like birds; Raghuyā—swift; Parijman—on the earth; Paptuḥ—fall and glide.
+
+**भावार्थ (Bhāvārtha)**
+
+Varuṇa, the holder of the water and son of Aditi, created water everywhere. By the power of Varuṇa's command the rivers flow. These rivers neither become weary nor stop their flow. Swift like birds, they fall on the earth and flow on.
+
+**Printed English translation**
+
+The Aditya, the upholder, has created all this water : the rivers flow by the power of Varuna: they never weary, they never stop; they have descended with swiftness, like birds upon the circumambient (earth).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋतं (*ṛtaṃ*)—विधारणहेतुभूतं सत्यं यद्वा नदीनामुपादानभूतमुदकं (*vidhāraṇahetubhūtaṃ satyaṃ yadvā nadīnāmupādānabhūtamudakaṃ*). The word *ṛta* is read by Yāska among the names of water, truth and sacrifice (Ni. 2-24, 4-19). Sāyaṇa gives two meanings: truth, the chief cause of upholding everything, or water, which is pre-eminent in the rivers.
+
+विधर्ता (*vidhartā*)—सेतुरिव जलस्य विधारयिता (*seturiva jalasya vidhārayitā*): as a dam holds back water, so Varuṇa holds the rain-waters; the explanation compares him to a dam,
+
 ---
 
-**Progress note:** Done through printed p. 107 (PDF 107). Sūkta 28 Ṛk 1 printed English and Special Topics; Ṛk 2 complete; Ṛk 3 Saṃhitā and Pada (bhāṣya next, p. 108). Hand fixes to kn.md: stray image line and doubled Pada label removed, Bhāvārtha label normalised. Flags [?]: ದ್ವಿತೀಯಭಾವ ವಿಕಾರಭಾಂಜಿ (Special Topics p. 105); Pada/Saṃhitā differences in Ṛk 2 and 3 (ತುಷ್ಟುವಾಂಸಃ/ತುಸ್ತುವಾಂಸಃ, ಉಪಾಯನ/ಉಪಅಯನೇ, ಪ್ರಣೇತಃ/ಪ್ರನೇತಃ, ಅದಿತೇ/ಆದಿತೇಃ); Yāska refs printed ಸಿ for ನಿ (2-23, 11-30); no Ṛk number printed after Ṛk 3 Saṃhitā
+**Progress note:** Done through printed p. 110 (PDF 110). Sūkta 28 Ṛk 3 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (continue at ṛtaṃ/vidhartā, p. 110). Hand fixes to kn.md: garbled Pratipadārtha label replaced, Pratipadārtha un-quoted, stray digit before Ṛk 4 removed, labels and blocks set for Ṛk 4. Flags: Saṃhitā paptu vs Pada paptuḥ; no Ṛk number after Ṛk 3/4; praṇītaḥ as supplied
