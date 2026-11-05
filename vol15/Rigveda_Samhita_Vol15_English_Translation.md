@@ -14419,6 +14419,89 @@ We shall give some examples of the seers' praising Sarasvatī, thinking of her n
 
 In this Ṛk Sarasvatī is thought of either as the goddess of speech or as the presiding deity of thunder and lightning.
 
+### Printed p. 451
+
+*[Running head, p. 451: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+(2) सरस्वति त्वमस्मा अविद्धि मरुत्वती धृषती जेषि शत्रून् । (*sarasvati tvamasmā aviddhi marutvatī dhṛṣatī jeṣi śatrūn |*)
+(Ṛ. Saṃ. 2-30-8)
+
+(3) सरस्वती तृणवन् यज्ञॆयासो धाता रयिं सहवीरं तुरासः । (*sarasvatī tṛṇavan yajñèyāso dhātā rayiṃ sahavīraṃ turāsaḥ |*)
+(Ṛ. Saṃ. 3-54-13)
+
+In these Ṛks Sarasvatī is thought of either as a river or as the presiding deity of thunder and lightning. [The supplied text numbers this list "1. (2)", "(3)", and so on.]
+
+(4) ⟦ದಮೂನಸೋ ಅಪಸೋ ಯೇ ಸುಹಸ್ತಾ ವೃಷ್ಣಃ ಪತ್ನಿರ್ನದ್ಯೋ ವಿಭ್ವತಷ್ಟಾಃ ।
+ಸರಸ್ವತೀ ಬೃಹದ್ದಿವೋತ ರಾಕಾ ದಶಸ್ಯಂತೀರ್ವರಿವಸ್ಯಂತು ಶುಭ್ರಾಃ ।⟧
+(Ṛ. Saṃ. 5-42-12)
+
+(5) आ नो दिवो बृहतः पर्वतादा सरस्वती यजता गंतु यज्ञं । (*ā no divo bṛhataḥ parvatādā sarasvatī yajatā gaṃtu yajñaṃ |*)
+(Ṛ. Saṃ. 5-43-11)
+
+(6) उभा नासत्या रुद्रो अध ग्नाः पूषा भगः सरस्वती जुषंत । (*ubhā nāsatyā rudro adha gnāḥ pūṣā bhagaḥ sarasvatī juṣaṃta |*)
+(Ṛ. Saṃ. 5-46-2)
+
+In all three of these Ṛks Sarasvatī is the presiding deity of thunder and lightning. Griffith (in English letters in the supplied text) holds that in the first of these three Ṛks Sarasvatī is shown as one river, Sindhu or Sarasvatī, and in Ṛks 2-3 as a deity. K. C. Chattopadhyaya (name in Kannada letters with initials in English: "K. C. ಚಟ್ಟಪಾಧ್ಯಾಯ") says that Ṛks 1-2 apply to the river Sindhu. These three Ṛks were all spoken by descendants of the sage Atri. For the first Ṛk Atri, or Bhauma, son of Atri, is the seer; for the second Ṛk, Atri; for the third Ṛk, Pratikṣatra, a descendant of Atri. In the second Ṛk Sarasvatī is invited from heaven (दिवः (*divaḥ*)) and from the cloud region (पर्वतादा (*parvatādā*)). Since the word पत्निः (*patniḥ*) occurs in the first Ṛk, the commentator has imagined Sarasvatī and the other rivers to be the wives of Indra.
+
+(7) ⟦ಅಗ್ನಿರಿಂದ್ರೋ ವರುಣೋ ಮಿತ್ರೋ ಅರ್ಯಮಾ ವಾಯುಃ ಪೂಷಾ ಸರಸ್ವತೀ
+ಸಜೋಷಸಃ ।⟧
+(Ṛ. Saṃ. 10-65-1)
+
+(8) विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या । (*viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā |*)
+(Ṛ. Saṃ. 10-65-13)
+
+In both these Ṛks Sarasvatī is the goddess of speech;
+
+### Printed p. 452
+
+*[Running head, p. 452: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+(9) यत्सुरामं व्यपिबः शचीभिः सरस्वती त्वा मघवन्नभिष्णुक् । (*yatsurāmaṃ vyapibaḥ śacībhiḥ sarasvatī tvā maghavannabhiṣṇuk |*)
+(Ṛ. Saṃ. 10-131-5)
+
+Since in this Ṛk Sarasvatī is said to be with Indra, Sarasvatī may be thought of as the presiding deity of thunder and lightning.
+
+(10) गर्भं देहि सिनीवालि गर्भं देहि सरस्वति । (*garbhaṃ dehi sinīvāli garbhaṃ dehi sarasvati |*)
+(Ṛ. Saṃ. 10-184-2)
+
+Here it is proper to call Sarasvatī the goddess of speech.
+
+We shall explain as closely as is known where the river Sarasvatī flowed in that time. This explanation has been written following (1) R. D. Oldham in the Journal of the Asiatic Society of Bengal, 1886, page 322; (2) C. F. Oldham, Journal of the Royal Asiatic Society, 1893, page 51; (3) the maps of the Cambridge History of India, Vol. I, Ancient India; (4) the maps of the Punjab published by the Surveyor-General of India; (5) "Ancient India as described by Magastheneses and Arrian" [sic as supplied] (all given in English letters in the supplied text, with "ಎಂಬ ಭಾಷಣಗಳನ್ನನುಸರಿಸಿ", "the lectures called"). The river Sarasvatī was in that time a great river. Rising in the Sirmur (Sismur, in English letters) range of the Himalaya mountains, it flows west and a little south. At its source five small streams (small channels in which water flows) probably joined to form this river and went on; therefore it must have got the name पंचजाता (*paṃcajātā*). After flowing some distance, the river called Dṛṣadvatī (the modern Chitrang, printed "modren") comes flowing from the east and joins it. Āpayā [printed आपया (*āpayā*)] is a tributary of the Dṛṣadvatī. The Sarasvatī of that time was to the south of the present river Sarasuti. (Rivers that flow in sandy deserts often change their courses.) The small rivers Mārkaṇḍā (Markand) and Gaggar (Ghaggar) join the present river Sarasuti. Then Sarasvatī flows in the south and west and finally reaches the sea. The bed of the present dried-up river Hakra (Hakra) must have been the bed of the Sarasvatī of that time. It may have united with the present (Sutlej) river and merged into the river Sindhu; or it may have gone directly to join the Sindhu. At that time the Sindhu was far to the east of where it is now and joined the sea near the gulf of the Rann of Kachh (Rann of Kach). The scholar Max Müller (Max Muller) holds, on the basis of the word आसमुद्रात् (*āsamudrāt*) in Ṛk 7-95-2, that this river Sarasvatī went directly to join the sea. Since before reaching the sea this river flowed through a region of sandy desert, it may have been absorbed in the desert before reaching the sea
+
+### Printed p. 453
+
+*[Running head, p. 453: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+(see Muir's Sanskrit Texts, Vol. II, page 393, in English letters in the supplied text). The description of a river thus being lost in the desert is given also in the Mahābhārata (Vana Parva, the description of the pilgrimages) and in the Manu Saṃhitā (1-21). From all these reasons it can be said that the present river Sarasuti must be the former river Sarasvatī.
+
+#### Ṛk 17
+
+**॥ संहितापाठः ॥**
+
+> त्वे विश्वा॑ सरस्वति श्र॒तायूं॑षि दे॒व्यां ।
+> शु॒नहो॑त्रेषु मत्स्य प्र॒जां दे॑वि दिदिड्डि नः ॥ १७ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वे इति । विश्वा । सरस्वति । श्रिता । आयूंषि । देव्यां ।
+> शुनहोत्रेषु । मत्स्य । प्रजां । देवि । दिदिड्डि । नः ॥ १७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सरस्वति देव्यां द्योतमानायां त्वे त्वयि विश्वा विश्वानि सर्वाण्ययूंष्यन्नानि । आयुः सूनृतेत्यन्ननामसु पाठात् । श्रिता । आश्रितानि । सा त्वं शुनहोत्रेषु
+> गृत्समदेप्सस्मासु विषयेषु मत्स्य । सोमपानेव तृप्य । किंच हे देवि सरस्वति
+> नोऽस्मभ्यं प्रजां दिदिड्डि । पुत्रान्देहि ॥
+
+*(Gist: O radiant Sarasvatī, all foods rest in you; be gratified at the soma among us Śunahotras, and give us progeny. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Sarasvati: O Sarasvatī. Devyāṃ: radiant. Tve: in you. Viśvā: all. Āyūṃṣi: foods. Śritā: rest. Śunahotreṣu: in us of the Śunahotra lineage. Matsya: be gratified by drinking soma. Devi: O mother. Naḥ: to us. Prajāṃ: sons. Didiḍḍi: bestow.
+
+**भावार्थ (Bhāvārtha)**
+
+O Sarasvatī, all foods rest in you who are radiant. Having drunk soma, be gratified among us of the Śunahotra lineage, and give us the wealth of sons.
+
 ---
 
-**Progress note:** Done through printed p. 450 (PDF 450). Sukta 41 Rik 16 Sarasvati note continued (pp. 448-450): Sarasvati river evidence in Mandalas 6-10, Apri sukta list (HTML tables turned into markdown tables), Trisro devyah; first deity-example (Rik 1-89-3) ends p. 450, note continues. Flags: pu. Sam. for Ri. Sam. 10-75-5, 8-21.17 dotted, Latin river names inside Kannada kept, stray line 29 kept as note
+**Progress note:** Done through printed p. 453 (PDF 453). Sukta 41 Rik 16 Sarasvati note finished (pp. 451-453): non-river examples, course of the river; Rik 17 Samhita, Pada, bhashya, Pratipadartha, Bhavartha (p. 453), printed English and Special Topics to follow. Flags: Latin-letter scholar and place names inside Kannada kept; 1. (2) numbering as supplied; 2 accent DIFF
