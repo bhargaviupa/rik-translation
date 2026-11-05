@@ -10890,6 +10890,94 @@ Like a woman weaving cloth, the night again covers the spread-out world. The wis
 
 *(The printed English translation and the Special Topics of Ṛk 4 follow on the next page, p. 344.)*
 
+### Printed p. 344
+
+*Running head: ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, Maṇḍala 2 (printed "ಮ. ೨."), Aṣṭaka 4 (as printed), Sūkta 38, p. 344.*
+
+**Printed English translation**
+
+She, (Night) enwarps the extended (world) like (a woman) weaving (a garment): the prudent man lays aside the work he is able (to execute) iu [sic] the midst (of his labour); but all spring up (from repose) when the divine, unwearied Sun, who has divided the seasons, again appears.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk also it is said that as soon as night arrives, all the business and activities of the people stop half-done, and that they go on again after the rising of the Sun.
+
+वयंती विततं पुनः समव्यत् (*vayaṃtī vitataṃ punaḥ samavyat*) — वस्त्रं वयंती नारीव रात्रिः आलोकं पुनः संवेष्टयते (*vastraṃ vayaṃtī nārīva rātriḥ ālokaṃ punaḥ saṃveṣṭayate*) — as a woman who is weaving cloth covers everything with the cloth, so the night again, that is, as on the previous day so also on this day, covers the whole world with darkness. After the sun has set, darkness spreads everywhere and it becomes night; in the time of night, which is full of such darkness, people cannot see and therefore cannot do any work. Whatever work has been done up to the coming of darkness, they have to stop at that.
+
+धीरः कर्तोः शक्त्य मध्या न्यधात् संहाय उत् अस्थात् (*dhīraḥ kartoḥ śaktya madhyā nyadhāt saṃhāya ut asthāt*) — सवितर्युपरते सति प्रज्ञोSपि सर्वो लोकः क्रियमाणं कर्म० कर्तु० शक्यमपि मध्यॆ उपक्रांतं कर्मापरिसमाप्य निहितवान् । ततः सवितुरदयानंतरं सर्वो लोकः शय्यां विहाय अवशिष्टं कर्म कर्तु० पुनरुत्तिष्ठति । (*savitaryuparate sati prajñoSpi sarvo lokaḥ kriyamāṇaṃ karma0 kartu0 śakyamapi madhyè upakrāṃtaṃ karmāparisamāpya nihitavān | tataḥ savituradayānaṃtaraṃ sarvo lokaḥ śayyāṃ vihāya avaśiṣṭaṃ karma kartu0 punaruttiṣṭhati |*) (as supplied: ಕರ್ಮ೦, ಕರ್ತು೦, ಸವಿತುರದಯಾನಂತರಂ) When the god Savitṛ has set, darkness spreads; so a working man, however intelligent, cannot work in the dark and stops half-way the work that is half finished. Again, after the sun has risen, he gets up from his bed and begins to complete the work that had been left unfinished. That is, the people in the world, after sunset, stop in the middle the works they were doing, being unable to do them in the dark, and after sunrise, in the light of day, continue and complete the works they had stopped before — this is the meaning.
+
+सविता अरमतिः देवः आगात् (*savitā aramatiḥ devaḥ āgāt*) — सर्वस्य प्रसविता सूर्यः अनुपरतिः द्योतमान आगच्छति । (*sarvasya prasavitā sūryaḥ anuparatiḥ dyotamāna āgacchati |*) The god Savitṛ, the source of the whole world, shining, without ever taking rest, comes again and again, that is, every day; that is, he rises. People in the world, if they work every day, want rest from time to time; but the god Savitṛ
+
+### Printed p. 345
+
+*Running head: "ಅ. ೨. ಅ. ೮. ವ. ೨." (as printed, Aṣṭaka 2, Adhyāya 8, Varga 2), Ṛgvedasaṃhitā, p. 345.*
+
+(The sentence continues:) although he travels every day without fail, there is no rest for him. As he rose on the former days, so he will rise without fail in the future also — this is the main sense.
+
+ऋतून् वि अदर्धः (*ṛtūn vi adardhaḥ*) — कालविशेषांश्च विदारयति । (*kālaviśeṣāṃśca vidārayati |*) It has been said before that ऋतु (*ṛtu*) means a particular division of time. Since the god Savitṛ rises without fail every day, the divisions of the year, such as season (ṛtu), month, fortnight and day, can be known by his rising and setting. Therefore it is said here that Savitṛ makes the divisions of time.
+
+*Stray line as supplied (kept, not deleted; in kn.md as it stands): a line of Tamil-script numerals (apparently a printer's sheet mark) at the end of the page, before the next Ṛk.*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> नानौकां॑सि॒ दुर्यो॒ विश्व॒मायु॒र्वि ति॑ष्ठते प्रभ॒वः शोको॑ अ॒ग्नेः ।
+> ज्येष्ठं॑ मा॒ता सू॒नवे॑ भा॒गमाधा॒दन्व॑स्य॒ केत॑मिषि॒तं स॑वि॒त्रा ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> नाना । ओकांसि । दुर्यः । विश्वं । आयुः । वि । तिष्ठते । प्रभवः । शोकः । अग्नेः ।
+> ज्येष्ठं । माता । सूनवे । भागं । आ । आधात् । अनु । अस्य । केतं । इषितं । सवित्रा ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रभवः प्रभूतोऽग्नेः शोकस्तेजो दुर्यो गृह्यो गृहे भवो नानौ-
+> कांसि यजमानानां पृथग्भूतान्नगृहान्वितिष्ठते । अधितिष्ठति । विश्वमायुः सर्वमन्नं
+> चाधितिष्ठति ॥ आयुः सूनृतेत्यन्न नामसु पाठात् ॥ मातोषाः सवित्रान्विषितं प्रेषि-
+> तमस्य केतं प्रज्ञापकमग्निर्ज्येष्ठं प्रथममग्निहोत्राख्यं भागं सूनवेऽग्निय
+> आधात् । आदधाति ॥
+
+> *prabhavaḥ prabhūto 'gneḥ śokastejo duryo gṛhyo gṛhe bhavo nānau-*
+> *kāṃsi yajamānānāṃ pṛthagbhūtānnagṛhānvitiṣṭhate | adhitiṣṭhati | viśvamāyuḥ sarvamannaṃ*
+> *cādhitiṣṭhati ‖ āyuḥ sūnṛtetyanna nāmasu pāṭhāt ‖ mātoṣāḥ savitrānviṣitaṃ preṣi-*
+> *tamasya ketaṃ prajñāpakamagnirjyeṣṭhaṃ prathamamagnihotrākhyaṃ bhāgaṃ sūnave 'gniya*
+> *ādhāt | ādadhāti ‖*
+
+Gist: The bright power of Agni, born in the houses, spreads over the sacrificers' houses and all food; Uṣas, his mother, appoints for her son the first share, the Agnihotra.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+दुर्यः (*duryaḥ*) — connected with the house. अग्नेः शोकः (*agneḥ śokaḥ*) — the radiance of Agni. प्रभवः (*prabhavaḥ*) — abundantly. नाना ओकांसि (*nānā okāṃsi*) — in many sacrificial houses. वि तिष्ठते (*vi tiṣṭhate*) — spreads out and occupies. विश्वं आयुः (*viśvaṃ āyuḥ*) — (becomes the lord) of all food; माता (*mātā*) — the mother, Uṣas. सवित्रा (*savitrā*) — by Savitṛ. अनु ईषितं (*anu īṣitaṃ*) — sent. अस्य केतं (*asya ketaṃ*) — the indicator of this Agni. ज्येष्ठं (*jyeṣṭhaṃ*) — and the first, called Agnihotra. भागं (*bhāgaṃ*) — the share. सूनवे (*sūnave*) — to the son, Agni. आधात् (*ādhāt*) — she has appointed.
+
+### Printed p. 346
+
+*Running head: ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, "ಮಂ. ೩." (as printed; the Maṇḍala is 2), Aṣṭaka 4, Sūkta 38, p. 346.*
+
+**भावार्थ (Bhāvārtha)**
+
+The radiance of Agni, connected with the house, abundantly spreads over and occupies many sacrificial houses. It becomes the lord of all food. The mother Uṣas has appointed, for her son Agni, the first share, called Agnihotra, which is sent by Savitṛ and is the indicator of this Agni.
+
+**Printed English translation**
+
+The engendered domestic radiance of Agni spreads through various dewellings [sic], and presides over all (sorts of sacrificial) food : the mother, (Dawn). has assigned to her son, (Agni), the best portion (at sacrifices), which is the manifestation of him imparted by Savitri [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the description of the early morning, when the night has passed and Savitṛ is rising, is set out.
+
+ओकांसि (*okāṃsi*) — यजमानानां पृथग्भूतान् गृहान् । (*yajamānānāṃ pṛthagbhūtān gṛhān |*) The separate houses of many sacrificers; Yāska says ओक इति निवासनामोच्यते (*oka iti nivāsanāmocyate*) (Ni. 3-3): the explanation is that ओक (*oka*) is a name for a dwelling house. Since many sacrificers perform sacrifice at the same time, that is, in the early morning, in their separate houses, the plural is used in नाना ओकांसि (*nānā okāṃsi*), "many houses".
+
+दुर्यः (*duryaḥ*) — the word दुर्य (*durya*) is read among the names of houses (Ni.-13, as printed with no first number). गृह्यो गृहे भवः (*gṛhyo gṛhe bhavaḥ*) — Agni who is established in the house of the sacrificer is described here by the word दुर्य (*durya*).
+
+आयुः (*āyuḥ*) — the word आयुः (*āyuḥ*) is read among the names of food (Ni. 3-9). आयु (*āyu*) may also mean the span of life.
+
+शोकः (*śokaḥ*) — this word, formed from the root शुच दीप्तौ (*śuca dīptau*), means light, radiance.
+
+ज्येष्ठं (*jyeṣṭhaṃ*) — प्रथममग्निहोत्राख्यं । (*prathamamagnihotrākhyaṃ |*) The rite called Agnihotra, which is performed in the early morning before all other rites — this is the commentator's explanation.
+
+माता सूनवे भागं (*mātā sūnave bhāgaṃ*) — here the goddess Uṣas is called the mother of Agni. Since after the time of dawn the fire is established and the homa and other rites are performed, Uṣas is described as the mother of Agni.
+
 ---
 
-**Progress note:** Done through printed p. 343 (PDF 343). Sukta 38 Rk 3 complete (Pratipadartha end, Bhavartha, printed English, Special Topics on asu/nunam/atamanam); Rk 4 Samhita, Pada, bhashya, Pratipadartha, Bhavartha (printed English and Special Topics continue p. 344); kn.md: Nirukta/bhashya quotes in Special Topics made > blocks, stray line 'bhanuvara' kept as italic note, Bhavartha label inserted; flags: Rk 4 Samhita line 2 garbled as supplied [?]; Sanskrit 'ahyarsanam' etc as supplied
+**Progress note:** Done through printed p. 346 (PDF 346). Sukta 38 Rk 4 complete (printed English, Special Topics); Rk 5 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English, Special Topics complete; Tamil stray line kept as italic note; running heads misprinted (Mam. 3 on p.346) noted; flags: none new
