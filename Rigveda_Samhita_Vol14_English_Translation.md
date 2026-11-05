@@ -31957,6 +31957,83 @@ The commentator has not explained clearly what "obtaining the sun" means. Probab
 > *saḥ | sunvate | indraḥ | sūryaṃ | ā | devaḥ | riṇak | matyāya | stavān |*
 > *ā | yat | rayiṃ | guhat avadyaṃ | asmai | bharat | aṃśaṃ | na | etaśaḥ | vatsyan ‖5‖*
 
+### Printed p. 845
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 21] Ṛgvedasaṃhitā 845".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> स्तवान् एतशेन स्तूयमानो देवो द्योतमानः स इंद्रः सुन्वते सोमा-
+> भिषवं कुर्वते मर्त्याय मनुष्यायैतशाय सूर्यमारिणक् । एतशेन स्पर्धमानं
+> सूर्यं बलेनारेचयत् । तथा च निगमः । प्रैतशं सूर्ये पस्पृधानं सौवश्ये
+> सुष्टिमावदिंद्र इति । यद्यस्मादेतशः सौवश्यो राजा दशस्यन् यजमानोऽस्मा
+> इंद्राय गुहदवद्यं प्रच्छन्नावद्यं रयिं सोमरूपमभरत् । संपादयामास ।
+> तत्र दृष्टांतः । अंशं न । यथा पितांशं भागं पुत्राय भरति तद्वत् ॥
+
+*Gist: Etaśa, praising Indra, presented him with secret, praiseworthy Soma-wealth as a father gives a son his portion; Indra made the Sun yield to Etaśa.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यॆत् (*yèt*)—for which reason. एतशः (*etaśaḥ*)—the king named Etaśa. दशस्यन् (*daśasyan*)—as sacrificer. अस्कै (*askai*)—to this Indra. गुहदवद्यं (*guhadavadyaṃ*)—secret and sacred. रयिं (*rayiṃ*)—wealth of the form of Soma. अंशं न (*aṃśaṃ na*)—as a father divides his property and gives the son his share. आभरत् (*ābharat*)—procured and gave; for which reason, स्तवान् (*stavān*)—(by Etaśa) praised, देवः (*devaḥ*)—and resplendent, स इंद्रः (*sa iṃdraḥ*)—that Indra, सुन्नते (*sunnate*)—to him who presses the Soma-juice, मर्त्याय (*martyāya*)—and is a man, to Etaśa, सूर‍्यं (*sūryaṃ*)—the Sun, आ रिणक् (*ā riṇak*)—made to bow down.
+
+**भावार्थ (Bhāvārtha)**
+
+For which reason the king named Etaśa, as sacrificer, procured and gave to Indra secret and sacred wealth of the form of Soma, as a father divides his property and gives the son his share, for that reason Indra, praised by Etaśa and resplendent, made the Sun bow down to Etaśa, who presses the Soma-juice and is a man.
+
+**English Translation (as printed)**
+
+The divine Indra, when lauded(by Etasha), humbled the Sun(in be-half) of the mortal who offered to him the libation; for the munificent Etasha presented him with mysterious and inestimable riches:(as a father gives) his portion(to a son).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+एतशः (*etaśaḥ*)—Regarding this sage named Etaśa, the commentator wrote as follows in his commentary on Ṛk 1-61-15 of the Ṛgveda Saṃhitā—
+
+### Printed p. 846
+
+*(Header: "846 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū 19".)*
+
+अस्मा इदु त्यदनु दाय्येषामेको यद्वन्ने भूरेरीशानः । प्रैतशं सूर्ये पस्पृधानं सौवश्ये सुष्टिमावदिंद्रः ॥ (*asmā idu tyadanu dāyyeṣāmeko yadvanne bhūrerīśānaḥ | praitaśaṃ sūrye paspṛdhānaṃ sauvaśye suṣṭimāvadiṃdraḥ ‖*) (Ṛ. Saṃ. 1-61-15, Sā. Bhā.)
+
+स्वश्वो नाम कश्चिद्राजा । स च पुत्रकामः सूर्यमुपासां चक्रे । तस्य च सूर्य एव पुत्रो बभूव । तेन सहैतशनान्नो महर्षेयुद्धं जातमिति तदेतदिहोच्यते ॥ (*svaśvo nāma kaścidrājā | sa ca putrakāmaḥ sūryamupāsāṃ cakre | tasya ca sūrya eva putro babhūva | tena sahaitaśanānno maharṣeyuddhaṃ jātamiti tadetadihocyate ‖*) (Ṛ. Saṃ. 1-61-15, Sā. Bhā.; the supplied text prints the abbreviation as "ಮ. ಸಂ.")
+
+In earlier times there was a king named Svaśva. He had no children. Wishing for children he worshipped the Sun, and the Sun himself was then born as his son. A battle arose between him and the great sage named Etaśa; it is this that is stated in this Ṛk, he has explained. And when a fierce battle arose between the Sun, who was in the form of the son of the king Svaśva, and this sage named Etaśa, the sage Etaśa prepared Soma-juice and offered it to Indra. Pleased with it, Indra took Etaśa's side and helped him in the battle; this is what is said in this Ṛk. This same matter the sage Gṛtsamada has described in the preceding Ṛk and in this Ṛk, saying पस्पृधानेभ्यः सूर्यस्य (*paspṛdhānebhyaḥ sūryasya*)—Indra helped the sage Etaśa who was contending with the Sun. Besides this—
+
+अयं चक्रमिषणत्सूर्यस्य नैतशं रीरमत्सृमाणं । (*ayaṃ cakramiṣaṇatsūryasya naitaśaṃ rīramatsṛmāṇaṃ |*) (Ṛ. Saṃ. 4-17-14)
+
+प्रैतशं सूर्ये पस्पृधानमित्यर्धर्चे (*praitaśaṃ sūrye paspṛdhānamityardharce*) Ṛ. Saṃ. 1-61-15. पूर्वं काचिदाख्यायिका सूचिता । अत्राप्ययं चक्रमिति पूर्वार्थे सा सूच्यते । स्वश्वनामा कश्चिद्राजा । स च पुत्रार्थं सूर्यमुपास्ते । स च सूर्यः पुत्रॆरूपेण स्वयमेव तत्रोत्पन्नः सन् एतशाख्येन महर्षिणा सार्धं युद्धं चकार । तदानीं स ऋषियुद्धे जयार्थमिंद्रं तुष्टाव । स इंद्रस्तेन सूयमानः सन् स्वश्वपुत्रस्य सूर्यस्य संबंधिनः संग्रामादेनमपालयदिति ॥ (*pūrvaṃ kācidākhyāyikā sūcitā | atrāpyayaṃ cakramiti pūrvārthe sā sūcyate | svaśvanāmā kaścidrājā | sa ca putrārthaṃ sūryamupāste | sa ca sūryaḥ putrèrūpeṇa svayameva tatrotpannaḥ san etaśākhyena maharṣiṇā sārdhaṃ yuddhaṃ cakāra | tadānīṃ sa ṛṣiyuddhe jayārthamiṃdraṃ tuṣṭāva | sa iṃdrastena sūyamānaḥ san svaśvaputrasya sūryasya saṃbaṃdhinaḥ saṃgrāmādenamapālayaditi ‖*) (Ṛ. Saṃ. 4-17-14, Sā. Bhā.; printed "ಮ. ಸಂ.")
+
+In the commentary on this Ṛk also Sāyaṇa has told the same story given above and explained the meaning in the same way. This matter is—
+
+यत्रोत मर्त्याय कमारिणा इंद्र सूर्यं । प्रावः शचीभिरेतशं ॥ (*yatrota martyāya kamāriṇā iṃdra sūryaṃ | prāvaḥ śacībhiretaśaṃ ‖*) (Ṛ. Saṃ. 4-30-6)
+
+यथा प्राव एततं कृत्वे धने यथा वशं दशव्रजे । (*yathā prāva etataṃ kṛtve dhane yathā vaśaṃ daśavraje |*) (Ṛ. Saṃ. 8-50-9)
+
+### Printed p. 847
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 24] Ṛgvedasaṃhitā 847".)*
+
+is described in such Ṛks. Besides, the word एतश (*etaśa*) has also the meaning "horse": एतश इत्यश्वनाम (*etaśa ityaśvanāma*). In many Ṛks the word ऎतश (*ètaśa*) is used to denote the horse of the Sun. But the matter of the sage Etaśa explained above is one thing; the matter of the Sun's horse is another. Some English scholars have confused these two meanings and made wrong interpretations—
+
+Etasa!s in several passages of Rigveda, according to Roth the name of a protege whom Indra helped against the Sun-God Surya. But in all these passages Etasa seems merely to designate the horse of the sun. (Vedic Index of Names and Subjects p. 120). [sic: "Etasa!s" as supplied]
+
+One cannot but say that this opinion is purely wrong. But another English scholar, Griffith, explaining the meaning of this Ṛk, says—
+
+The legend says that a certain king who wished for a son worshipped Surya, who to grant his prayer, was born himself as the king's son. Afterwards when some dispute arose between this king's son who was named Surya and the Rishi Etasa, Indra sided with the latter. In I‑61‑15 a chariot race appears to be referred to, and I have translated the passage accordingly, following sayana in taking Surya to be the name of a man. If, however, as is very possible, Surya is the Sun-God the meaning is that Indra, in order to favour his faithful worshipper Etasa, compelled Surya or the sun to bring back his chariot and horses to the east, that is the return of day on some particular occasion is attributed to Indra's intervention on behalf of his favourite. This appears to be the meaning of this verse also. See also I—121‑13.
+
+This scholar's opinion is in accordance with Sāyaṇa's commentary, and is not opposed to the meaning of the other Ṛks on this subject.
+
+In the commentary on this Ṛk, the meaning which the commentator has given to यद्यस्मादेतशः सौवश्वो राजा (*yadyasmādetaśaḥ sauvaśvo rājā*), namely "the king Etaśa, son of the king named Svaśva", is contrary to the preceding and following context. As explained above, Etaśa is a sage; Svaśva or Sauvaśva (स्वश्त्व (*svaśtva*) as supplied) is the son of the king named Svaśva (the Sun). These two are different persons and opponents of each other.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> स र॑न्थयत्स॒दिवः॒ सार॑थये॒ शुष्ण॑म॒शुषं॒ कुय॑वं॒ कुत्सा॑य ।
+> दिवो॑दासाय नव॒तिं च॒ नवेन्द्रः॒ पुरो॒ वै॑र॒च्छम्ब॑रस्य ॥ ६ ॥
+
+> *sa ranthayatsadivaḥ sārathaye śuṣṇamaśuṣaṃ kuyavaṃ kutsāya |*
+> *divodāsāya navatiṃ ca navendraḥ puro vairacchambarasya ‖ 6 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 844 (PDF 844). Sukta 19 Rk 3 Pratipadartha, Bhavartha, Special Topics; Rk 4 complete; Rk 5 Samhita and Pada written (bhashya next)
+**Progress note:** Done through printed p. 847 (PDF 847). Sukta 19 Rk 5 bhashya, Pratipadartha, Bhavartha, printed English, Special Topics (Etasha legend); Rk 6 Samhita written (Pada next)
