@@ -13767,6 +13767,107 @@ Resolute Ashwins, bring to us riches of various sorts, and wealth begetting weal
 
 That is: धिषणा (*dhiṣaṇā*) means speech; the capacity that holds that speech is called धिष्णशि (*dhiṣṇaśi*) [as supplied]; the meaning is those who have the power of speech. Or, since the word धी (*dhī*) also means understanding or action, because that understanding or action (the sacrificial rite) sits, that is dwells, in them, they are called धिष्ण्या (*dhiṣṇyā*). In commenting on the word धिष्ण्या (*dhiṣṇyā*) in Ṛ. Saṃ. 1-3-2 the commentator explained धिष्ण्या धार्ष्ट्ययुक्तौ (*dhiṣṇyā dhārṣṭyayuktau*) as the courageous or the wise. Skandasvāmin—
 
+### Printed p. 427
+
+*[Running head, p. 427: Aṣṭaka 2, Adhyāya 8, Varga 8, Ṛgvedasaṃhitā.]*
+
+says:
+
+धिषणेति वाज्ञाम । तस्याः पुत्रौ धिष्णौ । अपत्ये यत्पत्ययो द्रष्टव्यः । अथवा धीरिति प्रज्ञानाम । ष्नै वेष्टने । धीः वेष्टयित्रि सर्वार्थग्रहणसमर्थः ययोस्तौ धिष्णौ । धिष्णावेव धिष्णौ । अत्यंतप्रज्ञावित्यर्थः ॥ (*dhiṣaṇeti vājñāma | tasyāḥ putrau dhiṣṇau | apatye yatpatyayo draṣṭavyaḥ | athavā dhīriti prajñānāma | ṣnai veṣṭane | dhīḥ veṣṭayitri sarvārthagrahaṇasamarthaḥ yayostau dhiṣṇau | dhiṣṇāveva dhiṣṇau | atyaṃtaprajñāvityarthaḥ ‖*)
+
+That is: धिषणा (*dhiṣaṇā*) is the name of speech; its sons; or धीः (*dhīḥ*) is understanding. [The supplied text has "ಷ್ಟೈ—ಯುಕ್ತರಾದವರು"] Those joined with understanding, that is, possessed of understanding, capable of grasping all things, extremely wise: this is the meaning. धिषणा (*dhiṣaṇā*) means speech or a mass of words, and this word is formed from the root धीः (*dhīḥ*). Therefore other commentators have explained the word धिष्ण्या (*dhiṣṇyā*) in the sense of those who impel the mind (or sentences).
+
+धिष्ण्या (*dhiṣṇyā*)—for this word Sāyaṇa explains उन्नतस्थानार्हौ । (*unnatasthānārhau |*): worthy of a lofty place or rank; the meaning is worthy of worship. Since this word is also a synonym of places such as the *āgnīdhrya*, it can here also mean worthy of such a place. The two words धिषणा (*dhiṣaṇā*) and धिष्ण्या (*dhiṣṇyā*) ordinarily have one meaning (a difference of meaning between them is very rare). The Nirukta authors have included the word धिषणा (*dhiṣaṇā*) both among the names of speech (Ni. 2-23) and among the names of Heaven and Earth (Ni. 3-31).
+
+⟦ಮೇದ್ಯಂತು ತೇ ವಹ್ನಯೋ ಯೇಭಿರೀಯಸೇಽರಿಷಣ್ಯನ್ವೀಳೆಯಸ್ವಾ ವನಸ್ಪತೇ ।
+ಆಯೂಯಾ ಧೃಷ್ಣೋ ಅಭಿಗೂರ್ಯಾ ತ್ವಂ ನೇಷ್ಟಾತ್ಸೋಮಂ ದ್ರವಿಣೋದಃ ಪಿಬ ಋತುಭಿಃ ॥⟧
+(Ṛ. Saṃ. 2-37-3)
+
+Citing this Ṛk, he gives there धिष्ण्याद्धिष्ण्यो धिषण्यो धिषणाभवः । धिषणा वाक् धिषेर्दधात्यर्थे । धीसादिनीति वा । धी सानिनीति वा । (*dhiṣṇyāddhiṣṇyo dhiṣaṇyo dhiṣaṇābhavaḥ | dhiṣaṇā vāk dhiṣerdadhātyarthe | dhīsādinīti vā | dhī sāninīti vā |*): formed from the root धिष् (*dhiṣ*), which gives the sense "hold", it means speech; or it also gives the sense "spread or acquire understanding". Therefore he shows the etymology that the word धिषणा (*dhiṣaṇā*) means speech. But other meanings, too, are possible for this word.
+
+आपश्च मित्रं धिषणा च साधन्देवा अग्निं धारयन्द्रविणोदां । (*āpaśca mitraṃ dhiṣaṇā ca sādhandevā agniṃ dhārayandraviṇodāṃ |*)
+(Ṛ. Saṃ. 1-96-1)
+
+इमां ते धियं प्र भरे महो महीमस्य स्तोत्रे धिषणा यत्त आनजे । (*imāṃ te dhiyaṃ pra bhare maho mahīmasya stotre dhiṣaṇā yatta ānaje |*)
+(Ṛ. Saṃ. 1-102-1)
+
+In Ṛks such as these the meaning is speech or understanding. If "speech" is taken to mean speech in the form of praise, then the word धिष्ण्या (*dhiṣṇyā*) means "worthy of praise", "worthy of worship", and in this sense the same word is used in many places.
+
+### Printed p. 428
+
+*[Running head, p. 428: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+⟦ತನ್ನೋ ವಾತೋ ಮಯೋಭು ವಾತು ಭೇಷಜಂ ತನ್ಮಾತಾ ಪೃಥಿವೀ ತತ್ಪಿತಾ ದ್ಯೌಃ ।
+ತದ್ಗಾವಾಣಃ ಸೋಮಸುತೋ ಮಯೋಭುವಸ್ತದಶ್ವಿನಾ ಶೃಣುತಂ ಧಿಷ್ಣ್ಯಾ ಯುವಂ ॥⟧
+(Ṛ. Saṃ. 1-8-94 [as printed])
+
+Here the word धिष्ण्या (*dhiṣṇyā*) is an epithet of the Aśvin deities themselves. For it Sāyaṇa explains धिषणा बुद्धिः, तदार्हावश्विन् (*dhiṣaṇā buddhiḥ, tadārhāvaśvin*), that is, worthy of meditation. Likewise,
+
+⟦ಯುವಂ ಶ್ರೀಭಿರ್ದರ್ಶತಾಭಿರಾಭಿಃ ಶುಭೇ ಪುಷ್ಟಿಮೂಹಥುಃ ಸೂರ್ಯಾಯಾಃ ।
+ಪ್ರ ವಾಂ ವಯೋ ವಪುಷೇಽನು ಪಪ್ತನ್ನಕ್ಷದ್ವಾಣೀ ಸುಷ್ಟುತಾ ಧಿಷ್ಟ್ಯಾ ವಾಂ ॥⟧
+(Ṛ. Saṃ. 6-62)
+(Ma. Saṃ. 6-63-6 [as printed])
+
+and in such passages (Ṛ. Saṃ. 8-5-14; 2-26-12) this epithet is used of the Aśvin deities, and everywhere is used in the sense "worthy of praise, worthy of worship"
+
+⟦ಕದ್ಧಿಷ್ಣಾಸು ವೃಧಸಾನೋ ಅಗ್ನೇ ಕದ್ವಾತಾಯ ಪ್ರತವಸೇ ಶುಭಂ ಯೇ ।
+ಪರಿಜ್ಮನೇ ನಾಸತ್ಯಾಯ ಕ್ಷೇ ಬ್ರವಃ ಕದಗ್ನೇ ರುದ್ರಾಯ ನೃಘ್ನೇ ॥⟧
+(Ma. Saṃ. 4-3-6)
+
+[The supplied text has no full stop before the last Ṛk.] In Ṛks such as this, where धिष्ट्य (*dhiṣṭya*) is cited with the sense "place", the sense is आग्नीध्रियादि स्थानेषु (*āgnīdhriyādi sthāneṣu*), "in places such as the Āgnīdhrīya" (Ṛ. Saṃ. 10-114-9). Although the general sense is "worthy of worship", in some places the word has been included among the names of Heaven and Earth (Ni. 3-21).
+
+महस्करथो वरिवो यथा नोऽस्मे क्षयाय धिषणे अनेहः । (*mahaskaratho varivo yathā no 'sme kṣayāya dhiṣaṇe anehaḥ |*)
+(Ṛ. Saṃ. 6-50-3)
+
+समीचीने धिषणे वि ष्कभायति वृष्टः पीत्वा मद उक्कानि शंसति ॥ (*samīcīne dhiṣaṇe vi ṣkabhāyati vṛṣṭaḥ pītvā mada ukkāni śaṃsati ‖*)
+(Ṛ. Saṃ. 10-44-8)
+
+In Ṛks such as these the meaning is Heaven and Earth. In some contexts the word also means the bag that is filled with soma juice. In some places Sāyaṇa, without taking any of the above meanings, shows another etymology of this word and gives a rare meaning. For example—
+
+⟦ಅಗ್ನೇ ದಿವೋ ಅರ್ಣಮಚ್ಛಾ ಜಿಗಾಸ್ಯಚ್ಛಾ ದೇವಾ ಊಚಿಷೇ ಧಿಷ್ಟ್ಯಾ ಯೇ ।
+ಯಾ ರೋಚನೇ ಪರಸ್ತಾತ್ಸೂರ್ಯಸ್ಯ ಯಾಶ್ಚಾವಸ್ತಾದುಪತಿಷ್ಠಂತ ಆಪಃ ॥⟧
+(Ma. Saṃ. 3-22-3)
+
+### Printed p. 429
+
+*[Running head, p. 429: Aṣṭaka 2, Adhyāya 8, Varga 8, Ṛgvedasaṃhitā.]*
+
+in this he explains धियं बुद्भुपहितं देहं उष्णंत्युष्टीकुर्वंति इति धिष्ण्याः (*dhiyaṃ budbhupahitaṃ dehaṃ uṣṇaṃtyuṣṭīkurvaṃti iti dhiṣṇyāḥ*) [as supplied]: because they show attachment in the body furnished with understanding, they are named धिष्ण्य (*dhiṣṇya*). In the Ṛk cited it is an epithet of the deities. Since the word is used in many such senses, in the present Ṛk it means the Aśvin deities who have taken possession of a place of worship.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> इंद्रो॑ अं॒ग म॒हद्भ॒यम॒भी षदप॑ चुच्यवत् ।
+> स हि स्थि॒रो विच॑र्षणिः ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> इंद्रः । अंग । महत् । भयं । अभि । सत् । अप । चुच्यवत् ।
+> सः । हि । स्थिरः । विचर्षणिः ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> इंद्रो महदधिकमभीषदभिभवद्भयं भयकारणमपचुच्यवत् । अपच्यावयेत् । हि यस्मात्कारणात् स स्थिरः केनापि चालयितुमशक्यो विचर्षन्विविश्वस्य
+> द्रष्टा ॥
+
+> *iṃdro mahadadhikamabhīṣadabhibhavadbhayaṃ bhayakāraṇamapacucyavat | apacyāvayet | hi yasmātkāraṇāt sa sthiraḥ kenāpi cālayitumaśakyo vicarṣanviviśvasya*
+> *draṣṭā ‖*
+
+*(Gist: may Indra drive away the great overpowering danger, for he is firm and the seer of all. A hyphenated line break was joined. The supplied text had the Pratipadārtha inside the bhāṣya block under a garbled label "॥ ಪ್ರತಿಪವಾರ್ಧ ॥"; it was set out as its own section and un-quoted, the garbled label kept as a note in kn.md.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra: Indra. Aṅga: (may he remove) the great, the overwhelming fear that envelops us and cows us. Bhayaṃ: fear. Apa cucyavat: may he destroy. Hi: because. Saḥ: that Indra. Sthiraḥ: is immovable. Vicarṣaṇi [printed विचर्षन्ति (*vicarṣanti*)]: all-knowing.
+
+**भावार्थ (Bhāvārtha)**
+
+Since Indra is immovable and all-knowing, may he destroy the fear that is exceedingly great and cows us.
+
+**Printed English translation**
+
+May Indra dissipate all great and overpowering danger, for he is resolute, and the beholder of all.
+
 ---
 
-**Progress note:** Done through printed p. 426 (PDF 426). Sukta 41 Rik 7 Special Topics finished (pp. 423-424); Rik 8 complete (pp. 424-425); Rik 9 through Special Topics (p. 426, ends mid-sentence at Skandasvamin). p. 426 merged into p. 425 text in the supplied file (misspelled running head), marker inserted by hand. Flags: Dhishnya spellings and Si./Ni. refs as supplied; 4 accent DIFF
+**Progress note:** Done through printed p. 429 (PDF 429). Sukta 41 Rik 9 Special Topics finished (pp. 427-429); Rik 10 through printed English (p. 429), Special Topics to follow. Flags: Rik refs printed 1-8-94 and Ma. Sam. as supplied; garbled Pratipadartha label kept as note
