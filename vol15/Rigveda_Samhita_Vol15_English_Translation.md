@@ -8701,6 +8701,85 @@ All other beings are, as it were, branches of him, who, truthful, eternal, and v
 
 अपां नपात् (*apāṃ napāt*) — Agni named Apāṃ napāt; जिह्मानां (*jihmānāṃ*) — in the midst of the waters of crooked course; ऊर्ध्वः (*ūrdhvaḥ*) — shining in an elevated region; विद्युत् (*vidyut*) — brilliance
 
+### Printed p. 276
+
+, i.e. the shining cloud; वसानः (*vasānaḥ*) — clothed in it; उपस्थं (*upasthaṃ*) — the atmosphere, the lap (resting-place) of the waters; आ ह्यस्थात् (*ā hyasthāt*) — has taken his stand, resorting to it. तस्य (*tasya*) — of this Apāṃ napāt, the maker of rain; ज्येष्ठं (*jyeṣṭhaṃ*) — praiseworthy; महिमानं (*mahimānaṃ*) — greatness; वहंतीः (*vahaṃtīḥ*) — bearing along; यह्वीः (*yahvīḥ*) — and mighty; हिरण्यवर्णाः (*hiraṇyavarṇāḥ*) — the rivers; परि यंति (*pari yaṃti*) — flow all around.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni named Apāṃ napāt shines in an elevated region in the midst of the waters of crooked course, clothed in the shining cloud as in a covering, and stands resting on the atmosphere, the lap of the waters. The mighty rivers, bearing along the praiseworthy greatness of this rain-maker Apāṃ napāt, flow all around.
+
+**Printed English**
+
+The grandson of the waters has ascended the firmament above (the region) of the tortuously-moving (clouds), arrayed in lightnlng [sic] : the broad and golden-coloured (rivers) spread around, bearing (to all quarters) his exceeding glory.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the cooked-grain oblation connected with the Apōnaptrīya of the Sārasvata sacrifice mentioned earlier, this Ṛk beginning अपांनपादा हि (*apāṃnapādā hi*) is to be recited as the anuvākyā mantra, as set out in the Āśvalāyana Śrauta Sūtra by the sūtra अपां नष्टे चरुमपां नपादा ह्यस्थादुपस्थं (*apāṃ naṣṭe carumapāṃ napādā hyasthādupasthaṃ*) (Ā. 12-6).
+
+जिह्वानां ऊर्ध्वः विद्युतं वसानः (*jihvānāṃ ūrdhvaḥ vidyutaṃ vasānaḥ*) — see the Sāyaṇa passage (given above) that begins कुटिलगतीनामपां मध्ये (*kuṭilagatīnāmapāṃ madhye*). In the midst of the waters flowing in a crooked manner this deity shines with his upward-directed splendours; covering the cloud that shines with his own radiance, and pervading the atmosphere, he causes the rain-waters to pour down.
+
+यह्वीं हिरण्यवर्णाः परियंति (*yahvīṃ hiraṇyavarṇāḥ pariyaṃti*) — see the passage above beginning महत्यः हिरण्यवन्निर्मलरूपा नद्यः (*mahatyaḥ hiraṇyavannirmalarūpā nadyaḥ*). The word हिरण्यवर्णाः (*hiraṇyavarṇāḥ*) is stated among the names of rivers (Ni. 2-4). The very large rivers, pure and radiant like gold, abundant rain-waters according to their flow,
+
+### Printed p. 277
+
+*[A Tamil couplet (the Kural verse beginning அன்புடைமை ஆன்ற குடிப்பிறத்தல் (*அன்புடைமை ஆன்ற குடிப்பிறத்தல்*)) is printed at the head of this page in the supplied text; it is not part of the Rigveda commentary and is not translated.]*
+
+are produced by this deity called Apāṃ napāt; in the matter of the benefit he has done, they are, as it were, manifesting gratitude, spreading the greatness of this deity everywhere, and flow filled with waters. So it is described.
+
+*(The varga-end mark that follows, a number between tildes, is garbled in the supplied text and is not read.)*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> हिर॑ण्यरूपः॒ स हिर॑ण्यसंदृग॒पां नपा॒त्सेदु॒ हिर॑ण्यवर्णः ।
+> हि॒र॒ण्यया॒त्परि॒ योने॑र्नि॒षद्या॑ हिरण्य॒दा द॑द॒त्यन्न॑मस्मै ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> हिरण्यरूपः । सः । हिरण्यसंदृक् । अपां । नपात् । सः । इत् । ऊं इति । हिरण्य-
+> वर्णः ।
+> हिरण्ययात् । परि । योनेः । निसद्य । हिरण्यदाः । ददति । अन्नं । अस्मै ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सोऽपांनपात् हिरण्यरूपः । रूप्यत इति रूपं शरीरं । सुवर्ण-
+> मयशरीरो हितरमणीयशरीरो वा । तथा हिरण्यसंदृक् । सम्यक् पश्यंतीति
+> संदृश इंद्रियाणि । सुवर्णमयेंद्रियो हितरमणीयेंद्रियो वा । सेदु स
+> एवापांनपात् हिरण्यवर्णो हिरण्यसदृशकांतियुक्तः । एवंभूतः सन् हिरण्य-
+> यात्सुवर्णमयाद्योनेः स्थानात् पर्युपरि निषद्योपविश्य राजत इति शेषः ।
+> आस्मा ईदृग्विधायापां नपाते हिरण्यदा दक्षिणारूपस्य हिरण्यस्य दातारो यजमाना
+> अन्नं हविर्लक्षणं ददति । प्रयच्छंति ॥
+
+*Gist: Apāṃ napāt has a golden body and golden senses (or a body and senses beneficial and pleasing), is golden in hue, sits above his golden seat; the sacrificers who give gold as fee offer him oblation-food.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः अपां नपात् (*saḥ apāṃ napāt*) — the deity Apāṃ napāt; हिरण्यरूपः (*hiraṇyarūpaḥ*) — having a form made of gold; हिरण्यसंदृक् (*hiraṇyasaṃdṛk*) — having attractive senses; सेदु (*sedu*) — he himself; हिरण्यवर्णः (*hiraṇyavarṇaḥ*) — being of golden colour; हिरण्ययात् (*hiraṇyayāt*) — golden; योनेः (*yoneḥ*) — of the seat; परि (*pari*) — upon; निषद्य (*niṣadya*) — seated (he shines); अस्मै (*asmai*) — to this Apāṃ napāt
+
+### Printed p. 278
+
+deity, addressing him; हिरण्यदाः (*hiraṇyadāḥ*) — the sacrificers who offer gold (as fee); अन्नं (*annaṃ*) — food in the form of oblation; ददति (*dadati*) — offer.
+
+**भावार्थ (Bhāvārtha)**
+
+The deity Apāṃ napāt, of golden form, with attractive senses and of golden hue, shines seated upon a golden seat. The sacrificers who offer gold as fee to this Agni also offer food in the form of oblation.
+
+**Printed English**
+
+The grandson of the waters is of golden form, of golden aspect, of golden hue, and (shines) seated upon a seat of gold : the givers of gold (at solemn rites) present to him (sacrificial) food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सः अपां नपात् हिरण्यरूपः (*saḥ apāṃ napāt hiraṇyarūpaḥ*) — रूप्यत इति रूपं शरीरं । सुवर्णमयशरीरः हितरमणीयशरीरो वा (*rūpyata iti rūpaṃ śarīraṃ | suvarṇamayaśarīraḥ hitaramaṇīyaśarīro vā*). Here the word rūpa is used in the sense of body. The deity Apāṃ napāt wears a body of golden lustre, or a body pleasant and charming to all, so it is explained.
+
+हिरण्यसंदृक् (*hiraṇyasaṃdṛk*) — सम्यक् पश्यंतीति संदृश इंद्रियाणि । सुवर्णमयेंद्रियो हितरमणीयेंद्रियो वा (*samyak paśyaṃtīti saṃdṛśa iṃdriyāṇi | suvarṇamayeṃdriyo hitaramaṇīyeṃdriyo vā*). The word sandṛś is used in the sense of the senses, the means of full knowledge. The senses of this deity are radiant like gold, or productive of pleasure and charming; the deity is explained as possessing such senses.
+
+हिरण्ययात् योनेः परि निष द्य (*hiraṇyayāt yoneḥ pari niṣa dya*) — सुवर्णमयात् स्थानादुपरि उपविश्य राजते (*suvarṇamayāt sthānādupari upaviśya rājate*). This deity shines, seated comfortably above a region of golden lustre.
+
+अस्मै हिरण्यदाः अन्नं ददति (*asmai hiraṇyadāḥ annaṃ dadati*) — ईदृग्विधाय अपां नपाते दक्षिणारूपस्य दातारः यजमानाः हविर्लक्षणमन्नं प्रयच्छंति (*īdṛgvidhāya apāṃ napāte dakṣiṇārūpasya dātāraḥ yajamānāḥ havirlakṣaṇamannaṃ prayacchaṃti*). Addressing this deity of such abundant power, the sacrificers are described as giving gold as the sacrificial fee and offering food in the form of oblation.
+
 ---
 
-**Progress note:** Done through printed p. 275 (PDF 275). PDF 275. Sūkta 35 Ṛk 7 Special Topics (p. 273), Ṛk 8 complete (pp. 273-275, Special Topics split at the page break), Ṛk 9 Saṃhitā/Pada/bhāṣya (p. 275) and Pratipadārtha begun, cut off in the supplied text after ವಿದ್ಯುತ್—ಪ್ರಕಾಶ; kn.md hand-fixes: garbled Pada/bhāṣya labels replaced, stray line 18 removed; OCR slips kept: ಅಪ್ಪು (for ಅಪ್ಸು), ನಸಾದಾ (Saṃhitā Ṛk 9), ವಿದ್ಯುತ್ವ/ವಿದ್ಯುತಂ; Ṛk 9 next section: rest of Pratipadārtha
+**Progress note:** Done through printed p. 278 (PDF 278). Sūkta 35 Ṛk 9 complete (Pratipadārtha end, Bhāvārtha, printed English, Special Topics), Ṛk 10 complete (pp. 277-278); kn.md hand-fixes: garbled Bhāvārtha label, Tamil Kural couplet at head of p. 277 made an italic note (not translated), garbled varga-end mark noted not read; OCR slips kept: ಜಿಹ್ವಾನಾಂ/ಅಪಾಂ ನಷ್ಟೇ, ನಿಷ ದ್ಯ, ನಿಸದ್ಯ (Pada Ṛk 10)
