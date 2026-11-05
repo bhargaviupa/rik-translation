@@ -5243,6 +5243,78 @@ The word *carṣaṇi* is stated by Yāska among the names of men (Ni. 3-7), and
 
 Uta—and; syaḥ—the well-known; devaḥ—endowed with generosity and other qualities; bhuvanasya—of all beings; sakṣaṇiḥ—to be served; gnābhiḥ—with the wives of the gods; sajoṣāḥ—having equal affection; tvaṣṭā—the god Tvaṣṭṛ; rathaṃ—our chariot; jūjuvat—let him set in motion (make it go easily); (so also) iḷā—Iḷā; bṛhaddivā—of great splendour; bhagaḥ—Bhaga; uta—and; rodasī—heaven and earth; purandhiḥ—of special wisdom; pūṣā—Pūṣan; patī—the two husbands of Sūryā; aśvinau—the Aśvin deities (let them make our chariot move comfortably).
 
+### Printed p. 168
+
+**भावार्थ (Bhāvārtha)**
+
+May the god Tvaṣṭṛ, famous, endowed with generosity and other qualities, served by all beings, and equally well pleased with the wives of the gods, urge on our chariot; likewise may Iḷā, the resplendent Bhaga, Heaven and Earth, Pūṣan of special wisdom, and the Aśvin deities, the husbands of Sūryā, urge on our chariot.
+
+**Printed English translation**
+
+Or, may the divine Twashtri, the defender of the world, together with the wives (of the gods), well pleased, urge on the chariot ; or may Ila, the resplendent Bhaga, Heaven and Earth, the sagacious Pushan, and the Ashwins, the two husbands (or Surya), urge on the chariot.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ग्नाभिः सजोषाः (*gnābhiḥ sajoṣāḥ*)—"equally fond of the wives of the gods." The word ग्नाः (*gnāḥ*) is stated by Yāska among the names of speech (Ni. 2-27), and is explained (Ni. 3-21) as "मेना ग्ना इति स्त्रीणां, ग्ना गच्छंत्येनाः (*menā gnā iti strīṇāṃ, gnā gacchaṃtyenāḥ*)" (*menā* and *gnā* are names of women; *gnā*s are those to whom men go). Sāyaṇa takes the god (written in the supplied text तृषृ (*tṛṣṛ*) [?], i.e. Tvaṣṭṛ) to be one equally fond of the wives of the gods, explains that the word is used in the sense of "wives of the gods", cites the Taittirīya Saṃhitā sentence "छंदांसि वै ग्नाः (*chaṃdāṃsi vai gnāḥ*)" and states the meaning: the metres Gāyatrī and the rest are the wives of the gods. When the Nirukta discusses the meaning of the word त्वष्टा (*tvaṣṭā*) it cites the Ṛk
+
+त्वष्टा दुहित्रे वहतुं कृणोतीदं विश्वं भुवनं समेति । यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश ॥ (*tvaṣṭā duhitre vahatuṃ kṛṇotīdaṃ viśvaṃ bhuvanaṃ sameti | yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa ‖*) (R.S. 10-17-1).
+
+Durgācārya gives the meaning in the historical view as "त्वष्टा हि विश्वकर्मा (*tvaṣṭā hi viśvakarmā*)" and the etymological (Nairukta) view as "तृष्णा मध्यमः (*tṛṣṇā madhyamaḥ*)" (as supplied). Sāyaṇa has commented in accord with both views.
+
+The god Tvaṣṭṛ has the qualities of giving gifts and so on; he is served by all beings in the world. The sacrificer's wish is stated: may this god of such greatness urge on our chariot.
+
+### Printed p. 169
+
+इळा (*iḷā*)—"Iḷā, the first of the three goddesses." The word इळा (*iḷā*) is stated among the names of the earth (Si. [?] 2-5), among the names of speech (Ni. 2-23), among the names of food (Si. [?] 3-9) and among the names of cows (Ni. 3-9), and is explained as derived from ईट्टेः स्तुतिकर्मणः (*īṭṭeḥ stutikarmaṇaḥ*) (the root *īḍ*, to praise).
+
+Sāyaṇa explains the meaning thus: of the three goddesses Iḷā, Sarasvatī and Bhāratī, the goddess called Iḷā, the first, is to urge on the sacrificer's chariot.
+
+बृहद्दिवा भगः (*bṛhaddivā bhagaḥ*)—"he who shines greatly, he who is resplendent, is बृहद्दिवः (*bṛhaddivaḥ*); such a one also let him urge on." May the god named Bhaga, who shines with abundant radiance, also urge on our chariot.
+
+रोदसी पुरंधिः पूषा (*rodasī puraṃdhiḥ pūṣā*)—"Heaven and Earth, and the god who is of much wisdom and the nourisher." The words रोदसी (*rodasī*) and पुरंधी (*puraṃdhī*) are stated among the names of Heaven and Earth (Ni. 3-22). Yāska explains the word पुरंधि (*puraṃdhi*) as "पुरंधिर्बहुधीस्तत्क पुरंधिर्भगः (*puraṃdhirbahudhīstatka puraṃdhirbhagaḥ*)" (Ni. 6-13) [text as supplied, apparently incomplete], and also (of Indra and Varuṇa) "इंद्र इत्यपरं स बहुकर्मतमः, पुरां च दारयितृतमः वरुण इत्यपरं (*iṃdra ityaparaṃ sa bahukarmatamaḥ, purāṃ ca dārayitṛtamaḥ varuṇa ityaparaṃ*)". Durgācārya describes the meaning as "पुरंधिः बहुधनस्य दाता (*puraṃdhiḥ bahudhanasya dātā*)" (Ni. 11-2); and the word is also explained (Ni. 12-30) as "पुरंध्या स्तुत्या (*puraṃdhyā stutyā*)". The word पूषा (*pūṣā*) is stated among the names of the earth (Ni. 2-5), and is explained (Ni. 12-17) as "अथ यद्रश्मिपोषं पुष्यति तत् पूषा भवति (*atha yadraśmipoṣaṃ puṣyati tat pūṣā bhavati*)" (now, because he nourishes with the nourishment of rays, he is Pūṣan). As the meanings of these words have been explained at length in the earlier volumes, they are not explained here. The wish is expressed: may Heaven and Earth and the god Pūṣan, of abundant wisdom, urge on the chariots of us, the sacrificers.
+
+पती अश्विनौ (*patī aśvinau*)—"the two husbands of Sūryā, and the Aśvins; let these urge on our chariot." The explanation of the word *aśvinī* was given earlier. The matter of the Aśvin deities marrying the goddess Sūryā has also been told earlier. The sacrificers pray: may the Aśvin deities, the husbands of the goddess Sūryā, urge on our chariot.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> उ॒त तै दे॒वी सु॒भगे॑ मिथू॒दृशो॒षासा॒नक्ता॒ जग॑तामपी॒जुवा॑ ।
+> स्तु॒षे यद्वां॑ पृथिवि॒ नव्य॑सा॒ वचः॑ स्था॒तुश्च॒ वय॒स्त्रिव॑या उप॒स्थिरे॑ ॥
+
+> *uta tai devī subhage mithūdṛśoṣāsānaktā jagatāmapījuvā |*
+> *stuṣe yadvāṃ pṛthivi navyasā vacaḥ sthātuśca vayastrivayā upasthire ‖*
+
+### Printed p. 170
+
+**॥ पदपाठः ॥**
+
+> उत । त्ये इति । देवी इति । सुभगे इति सुभगे । मिथुऽदृशा । उषसानक्ता । जगतां।
+> अपिजुवा ।
+> स्तुषे । यत् । वां । पृथिवि । नव्यसा । वचः । स्थातुः । च । वयः । त्रिवयाः ।
+> उपस्थिरे ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उत अपि च त्ये ते प्रसिद्धे देवी देव्यौ देवनशीले सुभगे शोभनधने
+> मिथूदृशा मिथः परस्परं पश्यंत्यौ एवंभूते उषासानक्ता उषाश्च रात्रिश्च जगतां
+> जंगमानामपीजुवा प्रेरयित्र्यौ भवतः । तस्मादस्मदीयमपि रथं प्रेरय तां ।
+> उत्तरोर्धर्चो द्यावापृथिव्यः प्रत्यक्षकृतः । हे पृथिवि वां युवां त्वां दिवं च
+> नव्यसा नवीयसा नवतरेण प्रशस्येन वचो वचसा ॥ सुपां सुलुगिति तृतीयाया
+> लुक् ॥ यद्यदा स्तुषे स्तुवे ॥ उत्तमस्य व्यत्ययेन मध्यमः ॥ तदानीं स्थातुः
+> स्थावरस्य व्रीह्यादेः संबंधि वयोऽन्नं चरुपुरोडाशादिलक्षणं त्रिवयाः । वय
+> इत्यन्ननाम । ओषधिपशुसोमात्मकानि हविर्लक्षणान्यन्नानि यस्य तादृशोऽहमुप-
+> स्तिरे । उपस्तृणामि । आज्येनोपस्तरणाभिघारणपूर्वकं प्रयच्छामीत्यर्थः ॥
+> स्तृज् आच्छादने । लट्युत्तमे छांदसो विकरणस्य लुक् । अत्रत्यश्चशब्दश्चणिति
+> निपातांतरं पादपूरणं । ऋत इद्दातोरितीत्वं । निपातैर्यद्यदिहंतेति निघात
+> प्रतिषेधः ॥
+
+*Gist:* The Dawn and Night, goddesses who look at each other, drive on the moving world, so let them urge on our chariot too; the Ṛk's second half addresses Heaven and Earth, with the sacrificer offering with ghee the three kinds of food (plants, animals, Soma); the grammar concerns *stṛ*, the dropped ending, *ca* as a particle and the suppression of the accent.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Uta—and; tye—the famous; devī—shining; subhage—possessing excellent wealth; mithūdṛśā—looking at each other; uṣāsānaktā—O Day-and-Night (you); jagatām—of the world consisting of moving things; apījuvā—are the impellers (therefore urge on our chariot too). Pṛthivi—O Heaven and Earth; vām—you two; navyasā—with new; vacaḥ—speech in the form of praise; yat—when; stuṣe—I praise (then); sthātuḥ—of the stationary rice and the like; vayaḥ—food; trivayāḥ—I who have prepared the threefold oblation (of plants, animals and Soma); upastire—I offer, spreading it with ghee.
+
 ---
 
-**Progress note:** Done through printed p. 167 (PDF 167). Sūkta 31 Ṛk 2 Special Topics finished; Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha (Bhāvārtha next). Flags: Latin 'S' (avagraha slip) in Ṛk 4 bhāṣya marked [?]; odd readings left as supplied (ಸ್ಯಸ, ಬಹುಪ್ರೀಹೌ, ಅಸ್ಮಾಣ್ಣ್ಯಂತಾಲ್ಲುಜಿ, ಸೂರೈಯ, ಮಹೇ ಸನಾಯ in Special Topics); accent script 1 DIFF
+**Progress note:** Done through printed p. 170 (PDF 170). Sūkta 31 Ṛk 4 Bhāvārtha, printed English, Special Topics; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha (Bhāvārtha next). Flags: Si. [?] (supplied 'ಸಿ.' for Ni.) in two Special Topics refs; 'ತೃಷೃ' for Tvaṣṭṛ left as supplied; kn.md Pada label ('ಪದಹಾಡು') fixed to standard
