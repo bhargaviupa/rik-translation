@@ -16548,6 +16548,117 @@ At his birth he knew the udder of his parent, and let forth its torreents [sic],
 > *vṛṣṇe | sapatnī iti sapatnī | śucaye | sabaṃdhū iti sabaṃdhū | ubhe iti | asmai |*
 > *manuṣye iti | ni | pāhi ‖ 10 ‖*
 
+### Printed p. 523
+
+*[Running head, p. 523: Aṣṭaka 2, Adhyāya 8, Varga 14, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> अयमग्निः पितुश्चांतरिक्षस्य गर्भं वृष्टिद्वारा गर्भभूतं जनितुः सर्वस्य
+> लोकस्य जनयितुश्च ब्रह्मणश्च लोकमोषध्यादिकं बभ्रे । बिभर्ति । एक एवाग्निः
+> पूर्विर्बह्वीः पीप्यानाः प्यायमाना वृद्धिं प्राप्ता ओषधीरधयत् । धयति ।
+> भक्षयति । सपत्नी समान एकः सूर्यः पतियोस्ते मनुष्ये मनुष्येभ्यो हिते
+> उभे व्यावापृथिव्या वृष्णे वर्षित्रेऽस्मै शुचयेऽग्नये संबंधू भवतः । अनयोरग्निरेव बंधुरित्यर्थः । हे अग्ने त्वं ते द्यावापृथिवी नि पाहि । नितरां रक्ष ॥
+
+*(Gist: this Agni bears the embryo of the atmosphere, the father, in the form of rain, and the world of plants and the like of the creator Brahmā; the one Agni consumes the many flourishing plants; Heaven and Earth, co-wives of the Sun, are kinsfolk of the pure showerer Agni; protect them. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Agniḥ: Agni.) Pituḥ ca: of the atmosphere. Garbhaṃ: the embryo, in the form of rain. Janituḥ ca: of the creator (the world of plants and the like). Babhre: has borne. Ekaḥ: the one Agni. Pūrvīḥ: the numerous. Pīpyānāḥ: flourishing. Oṣadhis: all plants. Adhayat: consumes. Sapatnī: those who have the Sun himself as common husband. Manuṣye: and are beneficial to man. Ubhe: Heaven and Earth, both. Vṛṣṇe: to the showerer of desires. Asmai śucaye: to this Agni. Sabandhū: are kinsfolk. (O Agni) Ni pāhi: protect (those Heaven and Earth).
+
+**भावार्थ (Bhāvārtha)**
+
+Agni bears the embryo of the atmosphere in the form of rain, and the world of plants and the like of the creator. The one Agni consumes all the numerous, flourishing plants. Heaven and Earth, who have the Sun for their common husband and are beneficial to men, are kinsfolk of this showerer of desires, Agni. O Agni, protect those Heaven and Earth.
+
+**Printed English translation**
+
+He cherishes the embryo of the parent (firmament), and of the generetor [sic] (of the world): he alone consumes many flourishing (plants): the associated brides (of the sun, Heaven and Earth), who are kind to man. are both of kin to that pure showerer (of blessing): do you, Agni, ever preserve them.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पितुः च गर्भं जनितुः च बभ्रे— (*pituḥ ca garbhaṃ janituḥ ca babhre—*) here जनितुः (*janituḥ*) means of the creator Brahmā, and they have supplied the word लोकमोषध्यादिकं (*lokamoṣadhyādikaṃ*) for the fitness of the sense. This Agni has borne the mass of clouds in embryo-form in the atmosphere and the world things such as plants created by the creator
+
+### Printed p. 524
+
+*[Running head, p. 524: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. [as printed] 1, Sū. 1; merged into p. 523 in the supplied text because the head is misspelled सायणभाव्यसहिता (*sāyaṇabhāvyasahitā*); the page marker and heading were inserted by hand and p. 524 added to the window.]*
+
+—that is, by the power of this Agni the clouds in the atmosphere pour rain; and Agni, being within the plants and trees that grow on earth by that rain, is their protector: this is the intent.
+
+एकः पूर्विः पीप्यानाः अधयत्— (*ekaḥ pūrviḥ pīpyānāḥ adhayat—*) though Agni is one, he is able to consume (in the form of forest fire) the many flourishing herbs and trees (the numerous trees and the like in the forest).
+
+सपत्नी मनुष्य उभे वृष्णि अस्मै शुचये सबंधू नि पाहि (*sapatnī manuṣya ubhe vṛṣṇi asmai śucaye sabaṃdhū ni pāhi*) [as supplied]—since the Sun stays between Heaven and Earth and lights them with his radiance, the simile is given here that the Sun is the husband and Heaven and Earth are two wives. Such Heaven and Earth, who stand in the position of co-wives and bring welfare to men, are kinsfolk of Agni, the cause and giver of rain. That is, Agni is a kinsman of Heaven and Earth. "O Agni, protect well these Heaven and Earth, your kinsfolk": so the seer prays.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> उ॒रौ म॒हा अ॑निबा॒धे व॑व॒र्धापो॑ अ॒ग्निं य॒शसः॒ सं हि पू॒र्वीः ।
+> ऋ॒तस्य॒ योना॑वशय॒द्दमू॑ना जामी॒नाम॒ग्नि र॒पसि॒ स्वसृ॑णां ॥ ११ ॥
+
+*[The supplied text has before the Pada a garbled label "೧ ಪದಪಾಠಿ ೧", kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> उरौ । महान् । अनिबाधे । ववर्ध । आपः । अग्निं । यशसः । सं । हि । पूर्विः ।
+> ऋतस्य । योन् । अशयत् । दमूनाः । जामीनां । अग्निः । अपसि । स्वसृणां ॥ ११.॥
+
+> *urau | mahān | anibādhe | vavardha | āpaḥ | agniṃ | yaśasaḥ | saṃ | hi | pūrviḥ |*
+> *ṛtasya | yon | aśayat | damūnāḥ | jāmīnāṃ | agniḥ | apasi | svasṛṇāṃ ‖ 11.‖*
+
+*(The Pada ends with ॥ ೧೧.॥ as printed, with a stray dot.)*
+
+### Printed p. 525
+
+*[Running head, p. 525: Aṣṭaka 2, Adhyāya 8, Varga 15, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> महानयमग्निरनिबाधेऽसंबाध उर् विस्तीर्णेऽंतरिक्षे पवर्ध । वर्धते ।
+> अस्य वर्धने कारणमाह। हि यस्मात्कारणात्पूर्विर्बहो यशसो । यशोऽन्नं ।
+> तद्वत्य आपोऽग्निं संवर्धयंति । एवमद्भिवृद्धिं प्राप्तोऽग्निर्यतस्योदकस्य
+> योन् स्थानेऽंतरिक्षे स्थितः स्वस्थणां स्वतः सरंतीनां जामिनां भगिनीस्थानीयानां
+> हेतुभूतेऽपसि पयसि दमूना दांतमनाः सन् अशयत् । शीते ॥
+
+*(Gist: the great Agni grows in the unobstructed broad atmosphere, because the waters, rich in nourishment, make him grow; thus grown, he lies calm in the water, the cause of the sister rivers, in the atmosphere, the birthplace of water. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Mahān: the great Agni. Anibādhe: unbounded. Urau: in the vast atmosphere. Vavardha: grows. Hi: how. Pūrvīḥ: abundant. Yaśasaḥ: food-giving. Āpaḥ: the waters. Agniṃ: Agni. Saṃ (vardhayanti): make him grow. Agniḥ: (thus grown) Agni. Ṛtasya: of the water. Yonsau [printed so]: being in the atmosphere, the place of origin. Svasmaṇāṃ [printed so]: of those of flowing nature. Jāmīnāṃ: sister-like rivers, the cause of. Apasi: in the water. Damūnāḥ: asleep. Aśayat: lies.
+
+**भावार्थ (Bhāvārtha)**
+
+The great Agni grows in the unbounded, vast atmosphere. How? The waters, rich in food, make Agni grow. Thus grown, Agni, being in the atmosphere, the birthplace of water, lies asleep in the water, the cause of the rivers of flowing nature that are as sisters.
+
+**Printed English translation**
+
+The great Agni increases on the broad unbounded (firmament), for the waters supply abundant nutriment; and placid, he sleeps in the birth-place of the waters for the service of the sister streams.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+महान् अनिबाधे उर् ववर्ध— (*mahān anibādhe ur vavardha—*) this great Agni grows, or attains increase, in the vast atmosphere that has no obstruction of any kind. That is, in the vast atmosphere the brilliance of lightning shines with great splendour.
+
+हि पूर्विः यशस्सि आपः अग्निं सं (वर्धयंति)— (*hi pūrviḥ yaśassi āpaḥ agniṃ saṃ (vardhayaṃti)—*) abundant waters, the cause of plants and trees and through them of food and other foods, make Agni grow; here plants and trees are born of water and grow; from plants and trees food and other foods are obtained. Therefore the word यशस्सि (*yaśassi*) [as supplied], "having food", is used as an epithet of आपः (*āpaḥ*), waters. It is said that because such waters exist in very great quantity in the clouds, Agni grows. Ordinarily, if there are only thin clouds, there is little likelihood of much rain; there is no lightning in such clouds either. But when blue clouds full of much water gather in one place, there is not only much rain but lightning, thunderbolt and thunder all together
+
+### Printed p. 526
+
+*[Running head, p. 526: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+. It is described here that Agni grows in the abundant waters because, in the middle of the dark clouds, very brilliant lightning flashes from time to time and disappears.
+
+पूर्विः-पुरुशब्दवु बहुनामगळल्लि पठितवागिरुवुदरिंद (नि. ३-१३) पूर्विः ऎंदरॆ (*pūrviḥ-puruśabdavu bahunāmagaḷalli paṭhitavāgiruvudariṃda (ni. 3-13) pūrviḥ èṃdarè*) [the supplied text: since the word पुरु (*puru*) is read among the names of the many (Ni. 3-13), पूर्विः (*pūrviḥ*) means many.]
+
+यशसः—यशः शब्दवु अन्न नामगळल्लि पठितवागिदॆ (*yaśasaḥ—yaśaḥ śabdavu anna nāmagaḷalli paṭhitavāgidè*) (Ni. 3-9). This word and the word पूर्विः (*pūrviḥ*) are epithets of the word आपः (*āpaḥ*).
+
+⟦ಅಗ್ನಿಃ ಋತಸ್ಯ ಯೋನ್ ಸ್ವಸ್ಯಣಾಂ ಜಾಮೀನಾಂ ಅಪಸಿ ದಮೂನಾಃ ಅಶಯತ್—ಅಯ-
+ಮಗ್ನಿಃ ಉದಕಸ್ಯ ಸ್ಥಾನೇಽನ್ತರಿಕ್ಷೇ ಸ್ಥಿತಃ ಸ್ವತಃ ಸರಂತೀನಾಂ ಭಗಿನೀಸ್ಥಾನೀಯಾನಾಂ ಹೇತುಭೂತೇ
+ಅಪಸಿ ದಾಂತಮನಾಃ ಸನ್ ಶೇತೇ ।⟧ This Agni, in the atmosphere, the place of the water, lies in a calm state, with no movement of any kind, in the waters that are as his sisters, moving (in the form of clouds); that is, Agni, who formerly appeared in the form of lightning in the rainy season amid the blue clouds, now, in the time without rain, remains within the waters amid the clouds, expressing no brilliance of any kind, not visible to anyone, silent. When there are only clouds without rain, there is no lightning. Yet, even though he does not appear to us in the form of lightning, the intent is that Agni remains hidden in the waters of the clouds.
+
+ऋतस्य—ऋतशब्दवु नूरॊंदु उदकनामगळल्लि पठितवागिदॆ. (*ṛtasya—ṛtaśabdavu nūròṃdu udakanāmagaḷalli paṭhitavāgidè.*) And the two words ऋतस्य योनिः (*ṛtasya yoniḥ*) together are read in the sense "water" among the 101 names of water mentioned above (Ni. 2-24). Although the word ऋत (*ṛta*) has many meanings such as sacrifice, here it means water. In this Ṛk ऋतस्य योन् (*ṛtasya yon*) means the atmosphere, the original place of waters (the place where clouds gather).
+
+स्वसृणां—सरणशीलानां । (*svasṛṇāṃ—saraṇaśīlānāṃ |*) Since the word स्वसृ (*svasṛ*) also means जामि (*jāmi*), sister, they give the meaning "sister" for the word जामि (*jāmi*) and the meaning "of moving nature, that is, moving to and fro (the clouds) in the atmosphere by the stroke of the wind" for the word स्वसृ (*svasṛ*), and use it as an epithet of जामिनां (*jāmināṃ*).
+
+जामिनां—जामिशब्दवु उदकनामगळल्लियू पठितवागिदॆ (*jāmināṃ—jāmiśabdavu udakanāmagaḷalliyū paṭhitavāgidè*) (Ni. 2-24). But here they explain the word जामिनां (*jāmināṃ*) as भगिनीस्थानीयानां (*bhaginīsthānīyānāṃ*), of those who stand in the place of sisters. Yāska in his Nirukta—
+
 ---
 
-**Progress note:** Done through printed p. 522 (PDF 522). Sukta 1 (Mandala 3) Rik 8 Special Topics finished (p. 520); Rik 9 complete (pp. 520-522); Rik 10 Samhita and Pada at end of p. 522 (labels inserted by hand). Flags: Rik 10 Samhita printed with closing number typed as danda 10; stray line kept as note; asyajat spelling; 3 accent DIFF
+**Progress note:** Done through printed p. 526 (PDF 526). Sukta 1 (Mandala 3) Rik 10 complete (pp. 523-524); Rik 11 complete through Special Topics (pp. 524-526), ends at 'Yaska in his Nirukta--'. p. 524 merged into p. 523 (misspelled head), marker inserted by hand. Flags: garbled Pada label kept as note; svasmanam/yonsau spellings as supplied; 2 accent DIFF
