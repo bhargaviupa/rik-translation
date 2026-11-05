@@ -30427,6 +30427,92 @@ O praisers, offer and worship with a new and excellent hymn of praise, as the A�
 
 *(The Kannada text ends here at the foot of p. 796; the printed English of Ṛk 1 and the Special Topics follow on the next page.)*
 
+### Printed p. 797
+
+*(Header: "[A. 2. A. 6. V. 19] Ṛgvedasaṃhitā 797".)*
+
+**Printed English translation (Ṛk 1)**
+
+Address, worshippers, after the manner of Angiras, a new(hymn) to that Indra, whose withering(energies) were devaloped [sic] of old; who, in the exhilaration of the Soma, forced open the obstructed and solid clouds.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+तत् अस्मै नव्यं अंगिरस्वत् अर्चत (*tat asmai navyaṃ aṃgirasvat arcata*)—The ṛṣi Gṛtsamada, addressing the praisers, says: "O praisers, offer new hymns to Indra and recite them, as the Aṅgirasa ṛṣis praised him of old." Here नव्यं (*navyaṃ*) means a hymn not seen by other ṛṣis before, but newly seen or composed by us just now. The word अंगिरस्वत् (*aṃgirasvat*) means "like the Aṅgirasa ṛṣis". In the past the Aṅgirasa ṛṣis were famous for praising Indra and the other deities and for performing sacrifices and other rites. Therefore it is the usage in the Ṛgveda that when other ṛṣis describe some matter as excellent, they describe it as "done as the Aṅgirasa ṛṣis did". For example:
+
+मनुष्टदग्ने अंगिरस्वदंगिरो ययातिवत्सदने पूर्ववच्चुचे । (*manuṣṭadagne aṃgirasvadaṃgiro yayātivatsadane pūrvavaccuce |*) (Ṛ. Saṃ. 1-31-17)
+
+अंगिरस्वनहिव्रत प्रस्कण्वस्य श्रुधी हवं । (*aṃgirasvanahivrata praskaṇvasya śrudhī havaṃ |*) (Ṛ. Saṃ. 1-45-3)
+
+प्र मन्महे शवसानाय शूषमांगूषं गिर्वणसे अंगिरस्वत् । (*pra manmahe śavasānāya śūṣamāṃgūṣaṃ girvaṇase aṃgirasvat |*) (Ṛ. Saṃ. 1-62-1)
+
+तमु त्वा वाजसातममंगिरस्वद्धनामहे । (*tamu tvā vājasātamamaṃgirasvaddhanāmahe |*) (Ṛ. Saṃ. 1-78-3)
+
+तमंगिरस्वन्नमसा सपर्यन्नव्यं कृणोमि सन्यसे पुराजां । (*tamaṃgirasvannamasā saparyannavyaṃ kṛṇomi sanyase purājāṃ |*) (Ṛ. Saṃ. 3-31-19)
+
+अचित्रं चिद्दि जिन्वथा वृधन्त इत्था नक्षंतो नरो अंगिरस्वत् । (*acitraṃ ciddi jinvathā vṛdhanta itthā nakṣaṃto naro aṃgirasvat |*) (Ṛ. Saṃ. 6-49-11)
+
+एवेंद्राग्निभ्यां पितृवन्नवीयो मांधातृवदंगिरस्वदवाचि । (*eveṃdrāgnibhyāṃ pitṛvannavīyo māṃdhātṛvadaṃgirasvadavāci |*) (Ṛ. Saṃ. 8-40-12)
+
+उत त्वा भृगुवच्चुचे मनुष्टदग्न आहुत । अंगिरस्वद्धनामहे । (*uta tvā bhṛguvaccuce manuṣṭadagna āhuta | aṃgirasvaddhanāmahe |*) (Ṛ. Saṃ. 8-43-13)
+
+In these Ṛks, अंगिरस्वत् (*aṃgirasvat*) gives the comparison with the Aṅgirasa ṛṣis, "as the Aṅgirasa ṛṣis did". Besides this, some of the Ṛks above also name well-known persons as models of comparison: Manu, Yayāti, the Pitṛs, Māndhātā and Bhṛgu (text continues on the next page).
+
+### Printed p. 798
+
+*(Header: "798 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 1.7".)*
+
+Since the hymns and rites performed by these well-known persons are regarded as very famous, the ṛṣis have described here and there comparisons with the deeds done by them.
+
+शुष्मा यत् अस्य प्रत्नथा उदीरते (*śuṣmā yat asya pratnathā udīrate*)—यद्यस्माज्ञातमात्रस्यास्येंद्रस्य शुष्माः (*yadyasmājñātamātrasyāsyeṃdrasya śuṣmāḥ*) शत्रूणां शोषकाणि तेजांसि प्रत्नथा पुरातनानीवोदीरते उद्गच्छंति । (*śatrūṇāṃ śoṣakāṇi tejāṃsi pratnathā purātanānīvodīrate udgacchaṃti |*) In this sentence and in the next one the ṛṣi describes what is special in the greatness of Indra when he is praised with a new hymn. As soon as this Indra was born, his strength and valour were so great as to dry up (destroy) his enemies. That is: it is well known in the world that ordinary men are born with little strength, grow, and gain great strength and ability when they have developed. But the case of Indra is not so; as soon as he was born he was already full of the greatest strength and ability. Therefore Indra's strength and valour are praised as very ancient. This is the sense.
+
+शुष्माः (*śuṣmāḥ*)—The word शुष्क (*śuṣka*) [sic] is read among the names of strength (Ni. 3-9). Moreover there is the explanation शुष्ममिति बलनाम शोषयतीति सतः । (*śuṣmamiti balanāma śoṣayatīti sataḥ |*) (Ni. 2-24), that is: śuṣma is strength; because it dries up, the word means strength.
+
+प्रश्ना (*praśnā*)—The word प्रश्न (*praśna*) is stated among the names of "ancient" (Ni. 3-20).
+
+यत् परीवृता दृंहितानि विश्वा गोत्रा सोमस्य मदे सहसा ऐरयत् (*yat parīvṛtā dṛṃhitāni viśvā gotrā somasya made sahasā airayat*)—यद्यस्माच्च सर्वान् मेघान् वृत्रेणाक्रांतान् तेन दृढीकृतान् सोमस्य मदे (*yadyasmācca sarvān meghān vṛtreṇākrāṃtān tena dṛḍhīkṛtān somasya made*) हर्षॆ संजाते सति बलेनैरयत् उदघातयत् मेघभेदनेनापः प्रेरयामासे- (*harṣè saṃjāte sati balenairayat udaghātayat meghabhedanenāpaḥ prerayāmāse-*)त्यर्थः । (*tyarthaḥ |*) Indra's greatness is described in this sentence. When Indra was in the elation of having drunk Soma, he attacked all the clouds, struck with the strength born of the Soma-drinking the demon Vṛtra, who had made them firm and held back the rain, and freed the water from his grasp. This is the sense. The commentator has given another kind of meaning for this sentence: यद्वा विश्वा सर्वाणि परीवृता वलासुरेणाक्रांतानि दृंहितानि पर्वतबिले निरुद्धानि गोत्रा (*yadvā viśvā sarvāṇi parīvṛtā valāsureṇākrāṃtāni dṛṃhitāni parvatabile niruddhāni gotrā*) गवां वृंदानि सहसैरयत् । तस्माद्बिलान्निरगमयत् । (*gavāṃ vṛṃdāni sahasairayat | tasmādbilānniragamayat |*) That is: the demon Vala surrounded all the cows of the gods, carried them off and hid them confined in the mountain-holes (caves); Indra freed them and brought them out of the mountain-hole.
+
+गोत्रा (*gotrā*)—The word गोत्र (*gotra*) is read among the names of cloud (Ni. 2-21). गा उदकानि त्रायंते (*gā udakāni trāyaṃte*) रक्षंतीति गोत्रा मेघाः । (*rakṣaṃtīti gotrā meghāḥ |*) Because they store waters in themselves and protect them, gotra means cloud: this is the commentator's explanation. Moreover: गुज्-अव्यक्ते शब्दे । मेघो (*guj-avyakte śabde | megho*) (continued on the next page).
+
+### Printed p. 799
+
+*(Header: "[A. 2. A. 6. V. 19.] Ṛgvedasaṃhitā 799".)*
+
+गर्जितलक्षणमव्यक्ताक्षरं शब्दं करोति, गूयते शब्दते वा । (*garjitalakṣaṇamavyaktākṣaraṃ śabdaṃ karoti, gūyate śabdate vā |*) The word gotra may be derived from the root guj, which means "to make an indistinct sound". Then, because the cloud makes the thunder, which has no distinct syllables, the cloud is called gotra: this is another kind of meaning. Or अथवा गां पशुजातिं त्रायते वा वृष्टा पानीयप्रदानात् (*athavā gāṃ paśujātiṃ trāyate vā vṛṣṭā pānīyapradānāt*)—because it gives rain-water as drink to cows and other kinds of cattle and protects them, the cloud may be called gotra: this is yet another explanation. All these are meanings referring to the cloud. For the word gotra in the sense of "cows": गोत्रा । इनित्रकट्य चश्चेति समूहार्थे (*gotrā | initrakaṭya caśceti samūhārthe*) त्रप्रत्ययः । गवां वृंदानि । (*trapratyayaḥ | gavāṃ vṛṃdāni |*) Here the affix tra denotes a collection, so gotra means a collection of cows. In the present Ṛk there is room for both of these kinds of meaning.
+
+सहसा (*sahasā*)—The word सहः (*sahaḥ*) is read both among the names of water (Ni. 2-24) and among the names of strength (Ni. 3-9). In the present sentence सहसा (*sahasā*) means "by strength".
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> स भू॑तु॒ यो ह॑ प्रथ॒मय॒ धाय॑स॒ ओजो॒ मिमा॑नो महि॒मान॒माति॑रत् ।
+> शूरो॒ यो यु॒त्सु त॒न्वं॑ परि॒व्यत॑ शी॒र्षणि॒ द्यां म॑हि॒ना प्रत्य॑मुंछत ॥ २ ॥
+
+> *sa bhūtu yo ha prathamaya dhāyasa ojo mimāno mahimānamātirat |*
+> *śūro yo yutsu tanvaṃ parivyata śīrṣaṇi dyāṃ mahinā pratyamuṃchata ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । भूतु । यः । ह । प्रथमाय । धायसे । ओजः । मिमानः । महिमानं । अ ।
+> अतिरत् ।
+> शूरः । यः । युत्सु । तन्वं । परिव्यत । शीर्षणि । द्यां । महिनाप्रति । अमुञ्चित॥
+
+> *saḥ | bhūtu | yaḥ | ha | prathamāya | dhāyase | ojaḥ | mimānaḥ | mahimānaṃ | a |*
+> *atirat |*
+> *śūraḥ | yaḥ | yutsu | tanvaṃ | parivyata | śīrṣaṇi | dyāṃ | mahināprati | amuñcita‖*
+
+*(As supplied: the first Saṃhitā line was recovered from a stray attribute of the supplied text, and the supplied Saṃhitā reads प्रथमय where the Pada has ಪ್ರಥಮಾಯ; the second verse-line mixes scripts in the source. Reported, not changed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> स इंद्रो भूतु । भवतु । वर्धतामित्यर्थः । य इंद्र ओजस्तेजो बलं
+> मिमानः कुर्वाणः सन् प्रथमाय प्राथमिकाय धायसे ॥ धेट् पाने ॥ सोम-
+
+> *sa iṃdro bhūtu | bhavatu | vardhatāmityarthaḥ | ya iṃdra ojastejo balaṃ*
+> *mimānaḥ kurvāṇaḥ san prathamāya prāthamikāya dhāyase ‖ dheṭ pāne ‖ soma-*
+
+*(The bhāṣya of this Ṛk breaks off at the foot of p. 799, in the middle of the gloss on सोम- (*soma-*) ; it continues on the next page.)*
+
 ---
 
-**Progress note:** Done through printed p. 796 (PDF 796). Sukta 16 Rk 9 completed (Pratipadartha, Bhavartha, printed English, special topics refer to 2-11-21); Sukta 17 begun: introduction, Anuvada, heading block, Rk 1 Samhita, Pada, bhasya, Pratipadartha, Bhavartha; printed English of Rk 1 follows. Flags: Samhita as supplied differs from reference (ajgarasvat, yadyotra, dumhitanairayat vs Pada angirasvat, gotra; Pada pratyatha vs bhasya pratnatha); rishi printed Gritsamadeh in heading block
+**Progress note:** Done through printed p. 799 (PDF 799). Sukta 17 Rk 1 printed English and Special Topics (Angirasvat, sushma, gotra, sahasa); Rk 2 Samhita, Pada and start of bhasya placed; Rk 2 bhasya breaks off at foot of p. 799. Flags: Rk 2 Samhita as supplied prathamaya (Pada prathamaya long a) and pratyamunchata (supplied ...mumchata vs reference mu~ncata); first Samhita line recovered from stray HTML attribute.
