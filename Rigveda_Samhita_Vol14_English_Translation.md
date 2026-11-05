@@ -25837,4 +25837,158 @@ In such Ṛks the word शरत् (*śarat*) is used in the sense of "year".
 
 ---
 
-**Progress note:** Done through printed p. 674 (PDF 697); header offset −23 holds. Sūkta 12: Ṛk 11 is complete (Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu, continued over pp. 672–674). Ṛk 12 is open: Saṃhitā, Pada, bhāṣya with gist are written, and the Pratipadārtha is begun, breaking off at "सप्त सिन्धून्—सप…" at the foot of p. 674; the next batch begins on p. 675 with the rest of that Pratipadārtha. FILE DISAGREE: Ṛ. Saṃ. 7-66-16 (p. 673; the file says 6-66-16, read as 7 from the flat-footed glyph, unzoomed). Pāṇini reference on p. 672 read as 3-1-11-2 (file "3-110-2", probably a segmentation slip). Unzoomed numerals: the list of Śambara Ṛk references on p. 673 (file agrees except 4-26-3, where the file has "4.263"); one group between 6-31-4 and 6-47-2 is illegible [?]; headers of pp. 672–674 (Sūkta 12, varga 9 on p. 673) and the Ṛk numbers 11 and 12. Other [?] places: "ये चेमेऽशिमिविद्विषः" (p. 674 bhāṣya), "दानुर्दादनी" and "शृ हिंसायां" (p. 673), "स इन्द्रो नाहमिति" (p. 672 bhāṣya). The Saṃhitā reading "तुविष्मानवासृजत्" of Ṛk 12 is as printed. No grammar pages in this batch.
+### Printed p. 675 (PDF 698)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [numerals unzoomed], "Ṛgvedasaṃhitā", "675". The Pratipadārtha of Ṛk 12 continues from p. 674, where it broke off in "सप्त सिन्धून्—सप…".)*
+
+*(…continuing:)* "…seven-numbered rivers", or the waters that flow in them *(the Kannada word printed as "ಪ್ರವಿಸತಕ್ಕ" looks like a misprint for "flowing" [sic?])*. सर्तवे (sartave (*sartave*))—for the purpose of flowing. अवासृजत् (avāsṛjat (*avāsṛjat*))—released (from Ahi). यः (yaḥ (*yaḥ*))—who. वज्रबाहुः (vajrabāhuḥ (*vajrabāhuḥ*))—holding the vajra weapon in his hand. द्यां (dyāṃ (*dyāṃ*))—the heavenly world. आरोहन्तं (ārohantaṃ (*ārohantaṃ*))—who was climbing. रौहिणं (rauhiṇaṃ (*rauhiṇaṃ*))—the asura named Rauhiṇa. अस्फरत् (aspharat (*aspharat*))—killed. सः (saḥ (*saḥ*))—he. इन्द्रः (indraḥ (*indraḥ*))—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who has seven rays, who sends rain, who is mighty, who released the seven rivers beginning with Gaṅgā from Ahi so that they should flow; who, holding the vajra in his hand, killed the asura named Rauhiṇa who was climbing to heaven: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, the seven-rayed, the showerer, the powerful, who let loose the seven rivers to flow ; who, armed with the thunderbolt, crushed Rauhina [sic; the Sanskrit has Rauhiṇa] when scaling heaven ; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सप्तरश्मिः (saptaraśmiḥ (*saptaraśmiḥ*))—The Kannada quotes the bhāṣya's explanation:
+
+> सप्तरश्मिः—सप्तसंख्याकाः पर्जन्या रश्मयो यस्य । ते च रश्मयो—वराहवः स्वतपसः । विद्युन्महसो धूपयः । श्वापयो गृहमेधाश्चेत्येते । ये चेमेऽशिमिविद्विषः । पर्जन्याः सप्त पृथिवीमभिवर्षन्ति । वृष्टिभिरिति
+
+> *saptaraśmiḥ—saptasaṃkhyākāḥ parjanyā raśmayo yasya | te ca raśmayo—varāhavaḥ svatapasaḥ | vidyunmahaso dhūpayaḥ | śvāpayo gṛhamedhāścetyete | ye ceme 'śimividviṣaḥ | parjanyāḥ sapta pṛthivīmabhivarṣanti | vṛṣṭibhiriti*
+
+*(the Taittirīya-Āraṇyaka reference is printed "तै. आ. 1-9-4 ರಿಂದ 5", i.e. "from 1-9-4 to 5"; the numeral file agrees with 1-9-4, unzoomed).*
+
+Gloss, mine and tentative: "Seven-rayed: he whose rays are seven Parjanyas. These are the Varāhas, the Svatapasas, the Vidyunmahasas, the Dhūpayas, the Śvāpayas, the Gṛhamedhas, and these Aśimiviḍviṣas; the seven Parjanyas rain on the earth with their showers." The Kannada explains: when Indra sends rain, that is, when he drives the clouds to rain, those clouds rain together with seven kinds of rays, or with the Parjanya deities; this is the meaning. To support it the commentator quotes the Taittirīya-Āraṇyaka passage. In the words पर्जन्याः सप्त (parjanyāḥ sapta (*parjanyāḥ sapta*)) of the quotation the sense is given as "clouds (Parjanyas) accompanied by seven kinds of wind-groups send rain". The seven kinds of Parjanyas are:
+
+(1) **वराहवः** (varāhavaḥ (*varāhavaḥ*)):
+
+> वराहवः—वरं श्रेष्ठं वर्षमाह्वयतीति वराहः (हुः) ते च बहवो वराहवः ।
+
+> *varāhavaḥ—varaṃ śreṣṭhaṃ varṣamāhvayatīti varāhaḥ (huḥ) te ca bahavo varāhavaḥ |*
+
+Because they bring about excellent rain, that wind-group is called *varāha*; the clouds accompanied by such a wind-group are called varāhavaḥ (*varāhavaḥ*). *(The "(हुः)" after वराहः is as printed.)*
+
+(2) **स्वतपसः** (svatapasaḥ (*svatapasaḥ*)):
+
+> स्वतपसः—यो वायवः स्वतपसः स्वयमेव तपन्ति न तु तापार्थमग्निमादित्यं वापेक्षन्ते स्वतपसः ।
+
+> *svatapasaḥ—yo vāyavaḥ svatapasaḥ svayameva tapanti na tu tāpārthamagnimādityaṃ vāpekṣante svatapasaḥ |*
+
+Clouds accompanied by a wind-group that burns by its own power, without depending for heat (*śākha*) on fire or on the sun, are called svatapasaḥ (*svatapasaḥ*).
+
+(3) **विद्युन्महसः** (vidyunmahasaḥ (*vidyunmahasaḥ*)) *(this is on p. 676)*.
+
+*Note: this item and the following ones are on p. 676.*
+
+---
+
+### Printed p. 676 (PDF 699)
+
+*(Header: "676", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12" [numerals unzoomed].)*
+
+(3) **विद्युन्महसः** (vidyunmahasaḥ (*vidyunmahasaḥ*)):
+
+> विद्युन्महसः—विद्युत्समानं महस्तेजो येषां ते विद्युन्महसः—विद्युत्…
+
+> *vidyunmahasaḥ—vidyutsamānaṃ mahastejo yeṣāṃ te vidyunmahasaḥ—vidyut…*
+
+*(The line breaks off at the end of the Kannada line as printed; the Kannada continues:)* clouds accompanied by a wind-group shining with great radiance like that of lightning (the flash), or with lightning, are called vidyunmahasaḥ (*vidyunmahasaḥ*).
+
+(4) **धूपयः** (dhūpayaḥ (*dhūpayaḥ*)):
+
+> धूपयः—गुग्गुलदशाङ्गादिद्रव्यान्तरैरनपेक्षेण स्वशरीरगतसुगन्धेनैव सर्वान्पदार्थान् धूपयन्तो वासितान् कुर्वन्तो वर्तन्ते ।
+
+> *dhūpayaḥ—gugguladaśāṅgādidravyāntarairanapekṣeṇa svaśarīragatasugandhenaiva sarvānpadārthān dhūpayanto vāsitān kurvanto vartante |*
+
+Clouds accompanied by a wind-group endowed with its own natural fragrance, without depending on fragrant substances such as guggula and daśāṅga, are called dhūpayaḥ (*dhūpayaḥ*).
+
+(5) **श्वापयः** (śvāpayaḥ (*śvāpayaḥ*)):
+
+> श्वापयः—शु शब्द अशुशब्दपर्यायस्ततः शीघ्रव्यापिन इत्युक्तं भवति ।
+
+> *śvāpayaḥ—śu śabda aśuśabdaparyāyastataḥ śīghravyāpina ityuktaṃ bhavati |*
+
+*(The printed "अशु" is read as printed; it may be meant for "आशु" [?].)* Clouds accompanied by a wind-group that spreads quickly in all places are called śvāpayaḥ (*śvāpayaḥ*).
+
+(6) **गृहमेधाः** (gṛhamedhāḥ (*gṛhamedhāḥ*)):
+
+> गृहमेधाः—गृहेषु मेधार्हा गृहमेधाः ।
+
+> *gṛhamedhāḥ—gṛheṣu medhārhā gṛhamedhāḥ |*
+
+Clouds accompanied by a wind-deity that is worshipped in houses and the like are called gṛhamedhāḥ (*gṛhamedhāḥ*).
+
+(7) **अशिमिविद्विषः** (aśimividviṣaḥ (*aśimividviṣaḥ*)):
+
+> अशिमिविद्विषः—शिमिः कर्म कृष्यादिकं तस्य विघातकाः शिमिवद्विषः तद्विपरीता अशिमिविद्विषः कृष्याद्यनुकूलप्रवृत्तयो वायवः इत्यर्थः ।
+
+> *aśimividviṣaḥ—śimiḥ karma kṛṣyādikaṃ tasya vighātakāḥ śimivadviṣaḥ tadviparītā aśimividviṣaḥ kṛṣyādyanukūlapravṛttayo vāyavaḥ ityarthaḥ |*
+
+Clouds accompanied by wind-groups that help in sending rain at the proper times so as to be favourable to works of agriculture, such as farming, are called aśimividviṣaḥ (*aśimividviṣaḥ*).
+
+Since seven kinds are said to exist in the Parjanyas, or clouds, "seven-rayed" here means that Indra sends rain with the seven kinds of clouds; this is the intention.
+
+यः अवासृजत् सर्तवे सप्त सिन्धून् (yaḥ avāsṛjat sartave sapta sindhūn (*yaḥ avāsṛjat sartave sapta sindhūn*))—Indra sent rain with the seven kinds of clouds, and after those rain-waters fell on the earth he made the seven main rivers, Gaṅgā, Yamunā and the others, run in streams. The words sapta sindhūn (*sapta sindhūn*) here need not be understood as exactly seven rivers; they mean only the main rivers. The main intention is that he made the water fallen on the earth run in the rivers and in other regions.
+
+यः रौहिणं अस्फरत् वज्रबाहुः द्यां आरोहन्तं (yaḥ rauhiṇaṃ aspharat vajrabāhuḥ dyāṃ ārohantaṃ (*yaḥ rauhiṇaṃ aspharat vajrabāhuḥ dyāṃ ārohantaṃ*))—It is said that Indra killed with his vajra the asura named Rauhiṇa who was climbing up to heaven. The same matter is stated in the Ṛk:
+
+> आहन्नहिमभिनद्रौहिणं व्यहन्व्यंसं मघवा शचीभिः ।
+
+> *āhannahimabhinadrauhiṇaṃ vyahanvyaṃsaṃ maghavā śacībhiḥ |*
+
+*(Ṛ. Saṃ. 1-103-2; the numeral file gives "1-103", the final "-2" is read from the strip, unzoomed. Gloss, mine and tentative: "Maghavan, with his powers, struck Ahi, split Rauhiṇa, and struck [the one] without shoulders [?]".)*
+
+---
+
+### Printed p. 677 (PDF 700)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [unzoomed], "Ṛgvedasaṃhitā", "677". The Viśeṣaviṣaya of Ṛk 12 continues from p. 676.)*
+
+…is said also in that Ṛk *(the Kannada begins "ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಹೇಳಿದೆ")*. In the Ṛgveda the name of the asura Rauhiṇa is mentioned only in these two places and nowhere else. Therefore nothing more can be said about this Rauhiṇa. Besides, since the word rauhiṇa (*rauhiṇa*) is read among the names of cloud (Ni. 2-21; the numeral file agrees), it can also be said that the meaning is: Indra struck the cloud with the vajra and caused rain. Likewise, since the word śambara (*śambara*) is also read among the names of cloud, the killing of Śambara can, in the respective contexts, be said to have the other meaning of striking a cloud.
+
+---
+
+#### Ṛk 13
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> द्यावा॑ चिदस्मै पृथि॒वी न॑मेते॒ शुष्मा॑च्चिदस्य॒ पर्व॑ता भयन्ते ।
+> यः सो॑म॒पा नि॑चि॒तो वज्र॑बाहु॒र्यो वज्र॑हस्तः॒ स ज॑नास॒ इन्द्रः॑ ॥ १३ ॥
+
+> *dyāvā cidasmai pṛthivī namete śuṣmāccidasya parvatā bhayante |*
+> *yaḥ somapā nicito vajrabāhuryo vajrahastaḥ sa janāsa indraḥ ‖ 13 ‖*
+
+*(A small caption "Padapāṭha" is printed.)*
+
+**॥ पदपाठः ॥**
+
+> द्यावा । चित् । अस्मै । पृथिवी इति । नमेते इति । शुष्मात् । चित् । अस्य । पर्वताः ।
+> भयन्ते ।
+> यः । सोमऽपाः । निऽचितः । वज्रऽबाहुः । यः । वज्रऽहस्तः । सः । जनासः । इन्द्रः ॥ १३ ॥
+
+> *dyāvā | cit | asmai | pṛthivī iti | namete iti | śuṣmāt | cit | asya | parvatāḥ |*
+> *bhayante |*
+> *yaḥ | soma 'pāḥ | ni 'citaḥ | vajra 'bāhuḥ | yaḥ | vajra 'hastaḥ | saḥ | janāsaḥ | indraḥ ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Heaven and earth bow of themselves to Indra, and the mountains fear his strength; he is the Soma-drinker, firm of body and armed with the vajra.*
+
+> अस्मा इन्द्राय द्यावा पृथिवी ॥ इतरेतरापेक्षया द्विवचनं प्र मित्रयोर्वरुणयोः । ७-६६-१ । इतिवत् ॥ नमेते । स्वयमेव प्रह्वीभवतः ॥ णमु प्रह्वत्वे । कर्मकर्तरि न दुहस्नुनमां यक्चिणौ इति यकः प्रतिषेधः ॥ चिदपि च अस्येन्द्रस्य शुष्माद्बलात्पर्वता भयन्ते । बिभ्यति । यः सोमपाः सोमस्य पाता निचितः सर्वैः । यद्वा अन्येभ्योऽपि देवेभ्यो दृढाङ्गः । वज्रबाहुर्वज्रसदृशबाहुः । यश्च वज्रहस्तो वज्रयुक्तः स इन्द्र इत्यादि प्रसिद्धम् ॥
+
+> *asmā indrāya dyāvā pṛthivī ‖ itaretarāpekṣayā dvivacanaṃ pra mitrayorvaruṇayoḥ | 7-66-1 | itivat ‖ namete | svayameva prahvībhavataḥ ‖ ṇamu prahvatve | karmakartari na duhasnunamāṃ yakciṇau iti yakaḥ pratiṣedhaḥ ‖ cidapi ca asyendrasya śuṣmādbalātparvatā bhayante | bibhyati | yaḥ somapāḥ somasya pātā nicitaḥ sarvaiḥ | yadvā anyebhyo 'pi devebhyo dṛḍhāṅgaḥ | vajrabāhurvajrasadṛśabāhuḥ | yaśca vajrahasto vajrayuktaḥ sa indra ityādi prasiddham ‖*
+
+*(Reading notes: the first word is printed "अस्मा" [probably for "अस्मै"] and is given as printed [?]. The reference "7-66-1" is read from the strip, unzoomed; the numeral file has "7.661". The Pāṇini sūtra quoted is printed without its number. The grammatical remarks on नमेते [root णमु, the prohibition of *yak*] are characterised, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (janāsaḥ (*janāsaḥ*))—O people. अस्मै (asmai (*asmai*))—to this Indra. द्यावापृथिवी (dyāvāpṛthivī (*dyāvāpṛthivī*))—both heaven and earth. नमेते (namete (*namete*))—bow with humility. चित् (cit (*cit*))—and. अस्य (asya (*asya*))—of this Indra. शुष्मात् चित् (śuṣmāt cit (*śuṣmāt cit*))—through his strength alone. पर्वताः (parvatāḥ (*parvatāḥ*))—the mountains. भयन्ते (bhayante (*bhayante*))—are afraid. यः (yaḥ (*yaḥ*))—who. सोमपाः (somapāḥ (*somapāḥ*))— *(the page ends here; Ṛk 13 is left open in its Pratipadārtha, which continues on p. 678)*
+
+---
+
+**Progress note:** Done through printed p. 677 (PDF 700); header offset −23 holds. Sūkta 12: Ṛk 12 is complete (Pratipadārtha finished, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu over pp. 675–677, with the seven Parjanya names). Ṛk 13 is open: Saṃhitā, Pada, bhāṣya with gist and the Pratipadārtha are written, the last breaking off after "सोमपाः—" at the foot of p. 677; the next batch begins on p. 678 with the rest of that Pratipadārtha (from "यः सोमपाः…"). No grammar pages. FILE DISAGREE: none (Ni. 2-21 agrees; Ṛ. Saṃ. 1-103 agrees, the final "-2" read from the strip; Ṛ. Saṃ. 7-66-1 on p. 677 read as 7 with the file giving "7.661"). Unzoomed numerals: Taittirīya-Āraṇyaka 1-9-4,5 (file agrees), headers of pp. 675–677 (Sūkta 12, varga 9) and the Ṛk number 13. [?] places: "अस्मा" in the Ṛk 13 bhāṣya (probably for अस्मै); "अशु" in the श्वापयः explanation (p. 676); the Kannada word "ಪ್ರವಿಸತಕ್ಕ" (p. 675).
