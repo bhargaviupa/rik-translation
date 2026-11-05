@@ -4388,6 +4388,93 @@ Number of ṛks in the Sūkta: 11 ·
 
 The waters never find rest for the sake of the sacrifice directed to Indra, who makes the water in the form of rain, who is divine, who is the impeller of all affairs, and the slayer of Vṛtra. The flow of such waters flows every day. At what time did their first creation happen? That is to say, they are without beginning.
 
+### Printed p. 141
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 12, p. 141.*
+
+**Printed English translation**
+
+The waters cease not (to flow in libations) to the divine Indra, the sender of rain, the animator (of all), the slayer of Ahi; day by day proceeds the current of the waters; at what period of time was their first creation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋतं-वृष्टिलक्षणं उदकं (*ṛtaṃ-vṛṣṭilakṣaṇaṃ udakaṃ*): Although the word *ṛta* has many meanings (truth, sacrifice, water), here the sense is given as rain-water.
+
+देवाय— द्योतमानाय (*devāya— dyotamānāya*): Since the word *deva* is said to have the grounds of usage dāna (giving), dīpana (illumining), dyotana (shining) and dyusthāna-sthiti (dwelling in heaven), the sense is explained, among the various etymologies, as "the one who shines".
+
+सवित्रे—सर्वस्य प्रेरकाय (*savitre—sarvasya prerakāya*): Yāska has explained the sense as सविता—सर्वस्य प्रसविता (*savitā—sarvasya prasavitā*) (Si. 10-32); it is described as the one who impels everything.
+
+आहिघ्ने—वृत्रं हतवते (*āhighne—vṛtraṃ hatavate*): The word *ahi* is stated among the names of cloud (Ni. 2-21) and among the names of water (Ni. 2-24), and is explained as अहिरयनात् (*ahirayanāt*) (Ni. 10-43). Here the sense "the demon Vṛtra" is given, and he is described as the one who destroyed Vṛtra.
+
+इंद्राय (*iṃdrāya*): The etymology of the word *indra* (Ni. 10-8) is also stated in many ways. It is explained that for the sacrifice performed in honour of Indra, who creates rain-water, who shines always, who impels everything in its own way, and who destroyed the demon Vṛtra, the waters flow in fear; and that this current of waters flows forward every day without the slightest hindrance.
+
+आसां सर्गः प्रथमः कियत्या (*āsāṃ sargaḥ prathamaḥ kiyatyā*): The question is asked: "the first creation of these waters, कियति काले निष्पन्नं (*kiyati kāle niṣpannaṃ*), took place when?" Then it is considered: सः कालः कियान्, किं परिमाणं तस्य कालस्य (*saḥ kālaḥ kiyān, kiṃ parimāṇaṃ tasya kālasya*), what is the measure of that time? The answer is given: न किमपि (*na kimapi*), the measure of that time cannot be known by anyone; and it is established that नित्या एव हि ताः (*nityā eva hi tāḥ*), those currents of water are eternal.
+
+### Printed p. 142
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 30, p. 142.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यो वृ॒त्राय॒ सिन॒मत्राभ॑रिष्य॒त्प्रतं जनि॑त्रि वि॒दुष॑ उवाच ।
+> प॒थो रदं॑ती॒रनु॒ जोष॑मस्मै दि॒वेदि॑वे॒ धुन॑यो यं॒त्यर्थ॑० ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । वृत्राय । सिनं । अत्र । अभरिष्यत् । प्र । तं । जनित्री । विदुषे । उवाच ।
+> पथः । रदंतीः । अनु । जोषं । अस्मै । दिवेऽदिवे । धुनयः । यंति । अर्थ० ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यः पुरुषो वृत्रायासुराय सिनमन्नमत्र पाकस्थान आहर्तुमभरिष्यत्
+> संपादितवान् तं पुरुषं जनित्रि जनयित्रींद्रस्य मातादितिर्विदुषेऽभिज्ञायेंद्राय
+> प्रोवाच । प्रोक्तवती । प्रवचनस्य हननार्थत्वात् तं वृत्रं हतवानिति शेषः । अपि
+> चास्मा अस्येंद्रस्यानुजोषमनुकाममिच्छामनुसृत्य पथो मार्गान् रदंतीर्विलि-
+> खंत्यो धुनयो नद्यो दिवेदिवे प्रतिदिवसमर्थमर्तव्यं गंतव्यं समुद्रं प्रति
+> यंति । गच्छंति ॥
+
+*Gist:* The man who offered food to Vṛtra was pointed out by Indra's mother Aditi to Indra, who slew him; for Indra's pleasure the rivers cut their paths and flow daily to the ocean.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*)—the man who; वृत्राय (*vṛtrāya*)—to the demon; सिनं (*sinaṃ*)—food; अत्र (*atra*)—in this place of cooking, to offer; अभरिष्यत् (*abhariṣyat*)—procured (food); तं (*taṃ*)—that man; जनित्रि (*janitri*)—Aditi, Indra's mother; विदुषे (*viduṣe*)—to the wise Indra; प्र उवाच (*pra uvāca*)—declared; अस्मै (*asmai*)—of this Indra; अनु जोषं (*anu joṣaṃ*)—following the wish; पथः (*pathaḥ*)—paths; रदंतीः (*radaṃtīḥ*)—digging out; धुनयः (*dhunayaḥ*)—the rivers; दिवेदिवे (*divedive*)—every day; अर्थं (*arthaṃ*)—to their destination, the ocean; यंति (*yaṃti*)—go and join.
+
+**भावार्थ (Bhāvārtha)**
+
+The man who procured food in this place of cooking in order to offer it to the demon, that man Aditi, Indra's mother, declared to the wise Indra. Following the wish of this Indra, the rivers, digging out their paths of their own accord, go and join every day the ocean, their destination.
+
+### Printed p. 143
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 12, p. 143.*
+
+**Printed English translation**
+
+His mother, (Aditi), declared to him the man who had offered (sacrificial) food to Vritra; obedient to his pleasure, the rivers, tracing out their paths. flow day by day to their object, (the ocean).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वृत्राय—असुराय (*vṛtrāya—asurāya*): The meaning of the word *vṛtra* is stated by Yāska (Ni. 2-16); it is also read among the names of cloud (Si. 2-22) [sic as supplied] and stated among the names of wealth (Ni. 3-9). Here the sense "demons" is given.
+
+सिनं— अन्नं (*sinaṃ— annaṃ*): The word *sina* is read among the names of food (Ni. 3-9) and is explained as सिनमन्नं भवति सिनाति भूतानि (*sinamannaṃ bhavati sināti bhūtāni*) (Ni. 5-5).
+
+यः वृत्राय सिनं अभरिष्यत् तं जनित्रि विदुषे प्रउवाच यः पुरुषः असुराय अन्नमाहर्तु० संपादितवान्, तं पुरुषं इंद्रस्य माता अदितिः अभिज्ञाय इंद्राय प्रोवाच । तं हतवान् । (*yaḥ vṛtrāya sinaṃ abhariṣyat taṃ janitri viduṣe prauvāca yaḥ puruṣaḥ asurāya annamāhartu0 saṃpāditavān, taṃ puruṣaṃ iṃdrasya mātā aditiḥ abhijñāya iṃdrāya provāca | taṃ hatavān |*) It is described thus: Aditi, Indra's mother, having learnt that someone had gathered food to offer to the demon Vṛtra, told Indra; and Indra killed him. This episode has been explained earlier.
+
+अस्मै अनुजोषं धुनयः दिवे दिवे अर्थं यन्ति—यस्य इंद्रस्य इच्छामनुसृत्य नद्यः प्रतिदिनं गंतव्यं समुद्रं गच्छंति । (*asmai anujoṣaṃ dhunayaḥ dive dive arthaṃ yanti—yasya iṃdrasya icchāmanusṛtya nadyaḥ pratidinaṃ gaṃtavyaṃ samudraṃ gacchaṃti |*) It is described that in accordance with the wish of Indra, who protects by bringing the waters in the clouds to the earth as rain, the rivers lay out for themselves the paths along which they flow, and, flowing every day (without halting in one region), reach the ocean, the place where they go and settle. Thus the protection that Indra practises, and the regulating of the rivers that supply the waters to the earth, are described.
+
+The word धुनयः (*dhunayaḥ*) is stated among the names of rivers (Si. 2-24) and is explained as धुनिः धुनोतेः (*dhuniḥ dhunoteḥ*) (Si. 5-12).
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> ऊ॒र्ध्वो ह्यस्था॒दध्यं॒तरि॒क्षेSधा॑ वृ॒त्राय॒ प्र व॒धं ज॑भार ।
+> मिहं॒ वसा॑न॒ उप॒ हीमदु॑द्रोत्ति॒ग्म्यायु॑धो अजय॒च्छत्रु॒मिंद्रः॑॥
+
+> *ūrdhvo hyasthādadhyaṃtarikṣeSdhā vṛtrāya pra vadhaṃ jabhāra |*
+> *mihaṃ vasāna upa hīmadudrottigmyāyudho ajayacchatrumiṃdraḥ‖*
+
 ---
 
-**Progress note:** Done through printed p. 140 (PDF 140). Sūkta 29 Ṛk 7 printed English and Special Topics; Sūkta 30 introduction, Anuvāda and header; Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (printed English follows). Hand fixes to kn.md: Anuvāda/header lines and Pratipadārtha/Bhāvārtha taken out of the bhāṣya block, labels set. Flags: p. 138 running head reads Maṇḍala 3 as supplied; Ṛk 1 Saṃhitā ends 'ಆಪಃ !' (supplied) and accent script gave DIFF for 2.30.1 (Saṃhitā/Pada kept as supplied, no accents added there); Pada 'ಅಹಃ।ಅಹಃ' and Saṃhitā 'ಕಿಯಾತ್ಯಾ' vs Pada 'ಕಿಯತಿ । ಆ' as supplied; Special Topics ಶುನಂ vs ಶೂನಂ as supplied
+**Progress note:** Done through printed p. 143 (PDF 143). Sūkta 30 Ṛk 1 printed English and Special Topics; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; Ṛk 3 Saṃhitā only (Pada follows). Hand fix to kn.md: stray garbled line after p. 141 removed. Flags: accent script DIFF on 4 Saṃhitā lines (kept as supplied, unaccented); Ṛk 2 Saṃhitā/Pada have 'ಅರ್ಥ೦', Saṃhitā 'ಅತ್ರಾ' vs Pada 'ಅತ್ರ', 'ಧುನಯೋ' as supplied; p. 143 Ṛk 3 Saṃhitā 'ಅಧಾ'/'ಜಭಾರ' as supplied; Special Topics p. 143 cites 'ಸಿ. 2-22' (Si. for Ni.) as supplied; p. 143 running head Adhyāya 6 as supplied
