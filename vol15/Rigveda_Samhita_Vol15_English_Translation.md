@@ -4300,6 +4300,94 @@ O Varuṇa, may I not have to go before the rich man, who is wealthy, favourable
 
 *Note on readings: the Saṃhitā has भूरिदान्न (*bhūridānna*), the Pada भूर्इदान्वः (*bhūridānvaḥ*) and the bhāṣya भूरिदाव्यो (*bhūridāvyo*), as supplied; the Pada's भूर्इदान्वः (*bhūridānvaḥ*) and the Pratipadārtha's भूरिदाव्यः (*bhūridāvyaḥ*) differ. The Pada ends "॥ ೭ ॥" as printed.*
 
+### Printed p. 138
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala "3" [sic, as supplied; elsewhere 2], Adhyāya 3, Sūkta 29, p. 138.*
+
+**English Translation**
+
+May I never (have to) represent, Varuna, the destitution of a (once)
+opulent, dear, and munificent kinsman : may I never, royal Varuna, be
+devoid of well-regulated riches : (and) may we, blessed with excellent
+descendants, worthily glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+By the word वरुण (*varuṇa*) the Āditya is addressed here. That Varuṇa too is one of the twelve Ādityas has been explained earlier.
+
+मघोनः (*maghonaḥ*)—धनवतः (*dhanavataḥ*) (of the wealthy). The word *magha* is read among the names for wealth by Yāska (Ni. 3-9). The meaning is explained as "one who has wealth".
+
+प्रियस्य भूरिदान्वः आपेः शुनं मा आ विदं (*priyasya bhūridānvaḥ āpeḥ śunaṃ mā ā vidaṃ*) (as supplied, with शुनं (*śunaṃ*))—the bhāṣya says, in Sanskrit, that near a rich man who gives abundantly, "our sons and others are hungry", stating their poverty, I should not become a supplicant. In Kannada: the prayer is explained thus: "may we, the sacrificers, not have to go to a wealthy man who is benevolent and gives liberally, say that our sons and others are fasting from poverty, and beg wealth".
+
+शूनं (*śūnaṃ*)—the bhāṣya gives शून्यं (*śūnyaṃ*) or शूनं गतं प्राप्तं दारिद्र्यं (*śūnaṃ gataṃ prāptaṃ dāridryaṃ*). The meaning given for the word *śūna* is: the absence of any kind of thing, or the poverty (destitution) that brings one to a state of emptiness.
+
+राजन् सुयमात् रायः मा अवस्थाम् (*rājan suyamāt rāyaḥ mā avasthām*)—the explanation सुष्टु नियम्यते अनेन पुरुषो गृहे इति सुयमः (*suṣṭu niyamyate anena puruṣo gṛhe iti suyamaḥ*) is given. Addressing Varuṇa by the word *rājan*, it is prayed that by this Varuṇa's favour the wealth accumulated by us, the sacrificers, may never be destroyed.
+
+बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*)—"we, the sacrificers, recite hymns in the sacrifices together with our excellent sons; therefore cause favour to be shown to us": thus the prayer is made.
+
+### Printed p. 139
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 12, Ṛgveda-saṃhitā, p. 139.*
+
+## Sūkta 30 (Maṇḍala 2)
+
+*The thirtieth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> ऋतं देवायेत्येकादशर्चमष्टमं सूक्तं गार्त्समदं । अंत्या जगती
+> शिष्टास्त्रिष्टुभः । प्र हि क्रतुमित्येषेंद्रासोमदेवताका । सरस्वति त्वमस्मानित्यर्धर्चः
+> सारस्वतः । यो नः सनुत्य इत्येषा बार्हस्पत्या । अंत्या मारुती । शिष्टा ऐंद्र्यः ।
+> तथा चानुक्रांतं । ऋतमेकादश जगत्त्यंतं षष्ठ्यैंद्रासोमी सरस्वति त्वमिति
+> सारस्वतोऽर्धर्चो यो नो बार्हस्पत्या तं वो मारुतीति ॥ गतो विनियोगः ॥
+
+*Gist:* *ṛtaṃ devāya* is the eighth sūkta of Anuvāka 3, of eleven ṛks, of the Gārtsamada seer; the last ṛk is *jagatī*, the rest *triṣṭubh*; the deities are named ṛk by ṛk (Indra; Indra and Soma; Sarasvatī; Bṛhaspati; the Maruts); the Anukramaṇī is quoted; the application is stated as already given.
+
+**Anuvāda (Kannada).** The sūkta ऋतं देवाय (*ṛtaṃ devāya*) is the eighth sūkta in the third anuvāka. It has eleven ṛks. The seer of this sūkta is Gṛtsamada; the last ṛk of the sūkta is of *jagatī* metre; the remaining ṛks are of *triṣṭubh* metre. In this sūkta the ṛk प्र हि क्रतुं (*pra hi kratuṃ*) (the 6th ṛk) has Indra and Soma as deity; the first half of the ṛk सरस्वति त्वमस्मान् (*sarasvati tvamasmān*) (the 8th ṛk) has Sarasvatī as deity; the ṛk यो नः सनुत्य (*yo naḥ sanutya*) (the 9th ṛk) has Bṛhaspati as deity; the last ṛk (the 11th ṛk) has the Maruts as deity. The remaining ṛks (1-5, 7, the latter half of 8, and 10) have Indra as deity. In the Anukramaṇikā it is said ऋतमेकादश जगत्तंतं षष्ठैंद्रासोमी सरस्वति त्वमिति सारस्वतोऽर्धर्चो यो नो बार्हस्पत्या तं वो मारुतीति (*ṛtamekādaśa jagattaṃtaṃ ṣaṣṭhaiṃdrāsomī sarasvati tvamiti sārasvato 'rdharco yo no bārhaspatyā taṃ vo mārutīti*). The application has been stated earlier.
+
+**Sūkta—30**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 30 ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 12, 13 ‖
+Number of ṛks in the Sūkta: 11 ·
+Ṛṣi: Gṛtsamada · Devatā: 1-5, 7, the latter half of 8, 10, Indra; 6, Indra and Soma; the first half of 8, Sarasvatī; 9, Bṛhaspati; 11, the Maruts · Chandas: 1-10 *triṣṭubh*; 11 *jagatī*.
+
+### Printed p. 140
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 30, p. 140.*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒तं दे॒वाय॑ कृण्व॒ते स॑वि॒त्र इंद्रा॑याहि॒घ्ने न र॑मंत॒ आपः॑ !
+> अह॑रहर्यात्य॒क्तुर॒पां किया॒त्या प्र॑थ॒मः सर्ग॑ आसां ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> ऋतं । देवाय । कृण्वते । सवित्रे । इंद्राय । अहिघ्ने । न । रमंते । आपः ।
+> अहः।अहः । याति । अक्तुः । अपां । कियति । आ । प्रथमः । सर्गः । आसां ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋतमुदकं वृष्टिलक्षणं कृण्वते कुर्वते देवाय, द्योतमानाय सवित्रे
+> सर्वस्य प्रेरकायाहिघ्नेऽहिं वृत्रं हतवत इंद्राय यागार्थमापो न रमंते ।
+> तस्माद्भेतोर्भित्या नोपरता भवंति ॥ तस्माद्वृत्ययेन चतुर्थी ॥ अपि तु शासा-
+> मपामक्तुः सेचकं स्तोतोऽहरहः प्रत्यहं याति । गच्छति । आसां प्रथमः सर्गः
+> प्राथमिकं जन्म कियात्या ! कियति काले निष्पन्नं । आकारः प्रश्ने । किंशब्द आक्षेपे ।
+> यावति काले ता अजायंत स कालः कियान् । किं परिमाणं तस्य कालस्य । न किमपि ।
+> नित्या एव हि ता इत्यर्थः ॥
+
+*Gist:* For Indra's sacrifice the waters never rest; their stream flows every day; the question "in how long a time was their first creation?" implies that they are eternal.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋतं (*ṛtaṃ*)—the water in the form of rain; कृण्वते (*kṛṇvate*)—to the maker; देवाय (*devāya*)—to the divine one; सवित्रे (*savitre*)—to the impeller of all affairs; अहिघ्ने (*ahighne*)—to the slayer of Vṛtra; इंद्राय (*iṃdrāya*)—for the sacrifice directed to Indra; आपः (*āpaḥ*)—the waters; न रमंते (*na ramaṃte*)—never find rest; अपां (*apāṃ*)—of (such) waters; अक्तुः (*aktuḥ*)—the flow; अहरहः (*aharahaḥ*)—every day; याति (*yāti*)—flows; आसां (*āsāṃ*)—of them; प्रथमः (*prathamaḥ*)—the first; सर्गः (*sargaḥ*)—creation; कियात्या (*kiyātyā*)—at what time did it happen?
+
+**भावार्थ (Bhāvārtha)**
+
+The waters never find rest for the sake of the sacrifice directed to Indra, who makes the water in the form of rain, who is divine, who is the impeller of all affairs, and the slayer of Vṛtra. The flow of such waters flows every day. At what time did their first creation happen? That is to say, they are without beginning.
+
 ---
 
-**Progress note:** Done through printed p. 137 (PDF 137). Sūkta 29 Ṛk 6 Pada to Pratipadārtha/Bhāvārtha/English, Special Topics; Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (printed English follows on p. 138). Hand fixes to kn.md: garbled labels replaced, Pada/bhāṣya split, Bhāvārtha label fixed, stray image line removed. Flags: Ṛk 7 Saṃhitā ಭೂರಿದಾನ್ನ / Pada ಭೂರ್ಇದಾನ್ವಃ / bhāṣya ಭೂರಿದಾವ್ಯೋ differ as supplied; special-topics ವ್ಯವೇಯಂ as supplied; Ṛk 6 Pada lacks ॥ ೬ ॥ in supplied text
+**Progress note:** Done through printed p. 140 (PDF 140). Sūkta 29 Ṛk 7 printed English and Special Topics; Sūkta 30 introduction, Anuvāda and header; Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (printed English follows). Hand fixes to kn.md: Anuvāda/header lines and Pratipadārtha/Bhāvārtha taken out of the bhāṣya block, labels set. Flags: p. 138 running head reads Maṇḍala 3 as supplied; Ṛk 1 Saṃhitā ends 'ಆಪಃ !' (supplied) and accent script gave DIFF for 2.30.1 (Saṃhitā/Pada kept as supplied, no accents added there); Pada 'ಅಹಃ।ಅಹಃ' and Saṃhitā 'ಕಿಯಾತ್ಯಾ' vs Pada 'ಕಿಯತಿ । ಆ' as supplied; Special Topics ಶುನಂ vs ಶೂನಂ as supplied
