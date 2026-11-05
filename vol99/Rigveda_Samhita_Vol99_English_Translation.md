@@ -1038,6 +1038,101 @@ in the commentary on the mantra त्वामिंद्र मतिभि�
 
 य उ (*ya u*)—that same Agni; श्रिया (*śriyā*)—with the flame full of radiance; दमेषु (*dameṣu*)—in the sacrificial houses; आ (*ā*)—coming; दोषा (*doṣā*)—in the nights; उषसि (*uṣasi*)—in the days; प्रशस्यते (*praśasyate*)—is praised (and); यस्य (*yasya*)—of that same Agni; व्रतं (*vrataṃ*)—the rite; न मीयते (*na mīyate*)—is not diminished.
 
+### Printed p. 531
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 29, Ṛgveda-saṃhitā, p. 531.*
+
+**भावार्थ (Bhāvārtha)**
+
+The same Agni described above, filled with radiance and endowed with flame, comes to the sacrificial houses and is praised in the night-times, in the dawn-times and in the days. And the rite of worshipping that Agni is never impaired.
+
+**Printed English translation**
+
+Who, invested with radiance, is glorified, morning and evening, in (our) dwelling: whose worship is never neglected.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> आ यः स्व१॒॑र्ण भा॒नुना॑ चि॒त्रो वि॒भात्य॒र्चिषा॑ ।
+> अं॒जा॒नो अ॒जरै॑र॒भि ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । यः । स्वः । न । भानुना । चित्रः । विभाति । अर्चिषा ।
+> अंजानः । अजरैः । अभि ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> योऽग्निश्चित्रिश्चायनीयो नानावर्णो वार्चिषा ज्वालया रश्मिसमूहेना-
+> विभाति । सर्वतो भासते । तत्र दृष्टांतः । स्वर्भानुना । किरणेन सूर्य इव । स
+> यथा विभाति तद्वत् । किं कुर्वन् । अजरैर्नित्यैर्ज्वालासमूहैरभि सर्वतोऽंजानो
+> व्यंजयन् प्रकाशयन् ॥
+
+*Gist:* Agni of manifold hues shines all round with his rays and unageing flames, like the sun with its beams.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+स्वः (*svaḥ*)—the sun; भानुना न (*bhānunā na*)—as he shines with his rays; यः (*yaḥ*)—that same Agni who; चित्रः (*citraḥ*)—being of manifold hues; अर्चिषा (*arciṣā*)—and endowed with masses of rays; अजरैः (*ajaraiḥ*)—with his everlasting flames; अभि (*abhi*)—all round; अंजानः (*aṃjānaḥ*)—spreading splendour; आ विभाति (*ā vibhāti*)—shines fully.
+
+**भावार्थ (Bhāvārtha)**
+
+As the sun shines with his rays, Agni, of manifold hues and endowed with masses of rays, shines fully, spreading splendour all round with his everlasting flames.
+
+### Printed p. 532
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 8, p. 532.*
+
+**Printed English translation**
+
+Who, many-tinted, shines with radiance, like the sun with(his) lustre, spreading light over(all) by his imperishable(flames),
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+स्वः न भानुना (*svaḥ na bhānunā*)—the meaning is "as the sun shines with his rays". The word स्वः (*svaḥ*) is read among the common names (sādhāraṇa-nāmāni), स्वः पृश्निः नाकः (*svaḥ pṛśniḥ nākaḥ*) and so on. साधारणान्युत्तराणि षट् दिवश्चादित्यस्य च (*sādhāraṇānyuttarāṇi ṣaṭ divaścādityasya ca*) (Ni. 2-13): that is, the six words स्वः पृश्निः नाकः गौः विष्टपं नभः (*svaḥ pṛśniḥ nākaḥ gauḥ viṣṭapaṃ nabhaḥ*) are common designations, both as synonyms of the heavenly world and as referring to the sun; so the Nirukta-kāra states. Then, explaining what the root of the word स्वः (*svaḥ*) is in the sense of the sun, and how the word is derived, he says:
+
+स्वरादित्यो भवति सु अरणः सु ईरणः स्वृतो रसान् स्वृतो भासं ज्योतिषां । स्वृतो भासेति वा (*svarādityo bhavati su araṇaḥ su īraṇaḥ svṛto rasān svṛto bhāsaṃ jyotiṣāṃ | svṛto bhāseti vā*) (Ni. 2-14).
+
+The Nirukta-kāra states that the sun has this name because he is very far-travelling, or because he thoroughly scatters and destroys darkness, or because he enters into the juice (rasa) and becomes inward with it, or because he spreads his light in the orb of radiance and becomes one with it, or because he pervades the universe in the form of light; and for this very reason (एतेन द्यौर्वाख्याता (*etena dyaurvākhyātā*)) the heavenly world also has the name स्वः (*svaḥ*).
+
+स्वरादित्यो भवति स एनानि सारयति (*svarādityo bhavati sa enāni sārayati*) (Ni. 5-4).
+
+Because he makes the days move, too, the sun is called स्वः (*svaḥ*). Where the word is used in the Ṛgveda:
+
+प्रत्यज् देवानां विशः प्रत्यज्जुदेषि मानुषान् । प्रत्यज् विश्वं स्वर्दृशे (*pratyaj devānāṃ viśaḥ pratyajjudeṣi mānuṣān | pratyaj viśvaṃ svardṛśe*) (Ma. Saṃ. 1-50-5) [as printed]
+
+in such Ṛks the word स्वः (*svaḥ*) means the heavenly world (svarga).
+
+त्मना वहंतो दुरो व्यृण्वन्नवंत विश्वे स्व १ र्दृशीके (*tmanā vahaṃto duro vyṛṇvannavaṃta viśve sva 1 rdṛśīke*) (Ṛ. Saṃ. 1-69-10)
+
+in such Ṛks the word स्वः (*svaḥ*) means "in the sky, in the atmosphere" (नभसि (*nabhasi*)).
+
+दानो अग्ने बृहतो दाः सहस्रिणो दुरो न वाजं श्रुत्या अपा वृधि । प्राची द्यावापृथिवी ब्रह्मणा कृधि स्व १ र्ण शुक्रमुषसो वि दिम्युतुः (*dāno agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi | prācī dyāvāpṛthivī brahmaṇā kṛdhi sva 1 rṇa śukramuṣaso vi dimyutuḥ*) (Pu. Saṃ. 2-2-7) [as printed]
+
+### Printed p. 533
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 29, Ṛgveda-saṃhitā, p. 533.*
+
+in such Ṛks the word स्वः (*svaḥ*) has been explained as the sun. In the same way the words स्वर्वत् (*svarvat*) and the like, formed with suffixes such as वत् (*vat*), are also to be explained according to the context. For example:
+
+या इंद्र भुज आभरः स्वर्ना असुरेभ्यः । स्तोतारमिन्मघवन्नस्य वर्धय ये च त्वे व्यक्तबर्हिषः (*yā iṃdra bhuja ābharaḥ svarnā asurebhyaḥ | stotāraminmaghavannasya vardhaya ye ca tve vyaktabarhiṣaḥ*) (Ṛ. Saṃ. 8-97-1)
+
+In this Ṛk—सुखवान्, स्वर्गवान् ना अथवा स्वशब्दः सर्वपर्यायः । सर्वं भूतजातं आत्मन एवोत्पन्नत्वात्तद्वान् (*sukhavān, svargavān nā athavā svaśabdaḥ sarvaparyāyaḥ | sarvaṃ bhūtajātaṃ ātmana evotpannatvāttadvān*). Since the word स्वः (*svaḥ*) has the meanings happiness, heaven or "all", स्वर्वान् (*svarvān*) means one who has happiness, one who dwells in heaven, or one who has obtained everything. When it is an epithet of Indra, all these meanings fit; and again:
+
+तं शिशीता स्वध्वरं सत्यं सत्वानमृत्वियं । उतो नु चिद्य ओहत आंडा शुष्णस्य भेदत्यजैः स्वर्वतीरपो नभंतामन्यके समे (*taṃ śiśītā svadhvaraṃ satyaṃ satvānamṛtviyaṃ | uto nu cidya ohata āṃḍā śuṣṇasya bhedatyajaiḥ svarvatīrapo nabhaṃtāmanyake same*) (Ṛ. Saṃ. 8-40-11)
+
+In such passages, when सर्वतीः अपः (*sarvatīḥ apaḥ*) [sic, as printed] is an epithet of water, दिव्यानि (*divyāni*) means water produced in the heavenly world. This epithet also describes the qualities of other deities such as Agni.
+
+ज्योतिष्मतीमदितिं धारयत् क्षितिं स्वर्वतीमा सचेते दिवे दिवे जागृवांसा दिवेदिवे (*jyotiṣmatīmaditiṃ dhārayat kṣitiṃ svarvatīmā sacete dive dive jāgṛvāṃsā divedive*) (Ma. Saṃ. 1-136-3) [as printed]
+
+Here स्वर्णती (*svarṇatī*) [as printed] is an epithet of Aditi. Here it is explained as यज्ञनिष्पत्तिद्दारा स्वर्गवतीं (*yajñaniṣpattiddārā svargavatīṃ*) [as printed], as if so interpreted.
+
+आ ते शुष्मो वृषभ एतु पश्चादोत्तरादधराद पुरस्तात् । आ विश्वतो अभि समेत्वर्वाजिंद्र द्युम्नं स्वर्वद्धेह्यस्मे (*ā te śuṣmo vṛṣabha etu paścādottarādadharāda purastāt | ā viśvato abhi sametvarvājiṃdra dyumnaṃ svarvaddhehyasme*) (Ṛ. Saṃ. 6-19-9)
+
+In such Ṛks the meaning सुखयुक्तं धनं (*sukhayuktaṃ dhanaṃ*) ("wealth accompanied by happiness") is also indicated. In the present Ṛk the meaning is the sun.
+
+भानुना (*bhānunā*)—since the word भानुः (*bhānuḥ*) is read among the twelve names of day (ahar-nāmāni), वस्तोः द्यौः (*vastoḥ dyauḥ*) and so on, it means the shining day. भानुः भासते हैतत् ज्योतिषा (*bhānuḥ bhāsate haitat jyotiṣā*): because it shines by its own light, it is explained here as the rays of the sun.
+
 ---
 
-**Progress note:** Done through printed p. 530 (PDF 530). Sukta 8 Rk 1 special topics end; Rk 2 and 3 (Rk 3 through Pratipadartha); pada/bhasya merge split in kn.md
+**Progress note:** Done through printed p. 533 (PDF 533). Sukta 8 Rk 3 Bhavartha end; Rk 4 and special topics on svar (in progress)
