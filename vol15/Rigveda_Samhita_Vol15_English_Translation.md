@@ -22935,6 +22935,104 @@ the meaning of the mantra is: may he offer to the gods the oblations offered by 
 
 *[The window ends here, at the end of p. 741, in the middle of this sentence, which breaks off at "ऎंब वाक्यदिंद (*èṃba vākyadiṃda*)"; the next window continues.]*
 
+### Printed p. 742
+
+*[Running head, p. 742: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 4.]*
+
+[continuing:] it indicates [the identity]. The Nirukta authors first state the derivation of the word vanaspati and then explain the nature of vanaspati in an Āprī sūkta. While explaining the Ṛk 2-37-3, showing the derivation of the word vanaspati in it (Ni. 8-3), they say ⟦ವನಾನಾಂ ಪಾತಾ ವಾ ಪಾಲಯಿತಾ ವಾ ।
+ವನಂ ವನೋತೇಃ⟧: Agni is known as vanaspati either because he is lord of the forests or because he is their protector; and it is formed from the root van meaning "to obtain". Then, discussing the nature of the deities of the Āprī sūkta (8-18), stating the two opinions ⟦ತತ್
+ಕೋ ವನಸ್ಪತಿಃ, ಯೂಪ ಇತಿ ಕಾತ್ಥಕ್ಯಃ ಅಗ್ನಿರಿತಿ ಶಾಕಪೂಣಿಃ ।⟧, to support Kātthakya's opinion
+
+⟦ಅಂಜಂತಿ ತ್ವಾಮಧ್ವರೇ ದೇವಯಂತೋ ವನಸ್ಪತೇ ಮಧುನಾ ದೈವ್ಯೇನ ।
+ಯದೂರ್ಧ್ವಸ್ತಿಷ್ಠಾ ದ್ರವಿಣೇಹ ಧತ್ತಾದ್ಯದ್ವಾ ಕ್ಷಯೋ ಮಾತುರಸ್ಯಾ ಉಪಸ್ಥೇ ॥⟧
+(Ṛ. Saṃ. 3-8-1)
+
+this Ṛk is quoted. In this Ṛk Sāyaṇa has addressed the word vanaspati as the post (yūpa). Then, to support Śākapūṇi's opinion, the Nirukta authors quote
+
+⟦ವನಸ್ಪತೇ ರಶನಾಯಾ ನಿಯೂಯಾ ದೇವಾನಾಂ ಪಾಥ ಉಪ ವಕ್ಷಿ ವಿದ್ವಾನ್ ।
+ಸ್ವದಾತಿ ದೇವಃ ಕೃಣವದ್ಧವೀಂಷ್ಯವತಾಂ ದ್ಯಾವಾಪೃಥಿವೀ ಹವಂ ಮೇ ॥⟧
+(10-70-10)
+
+Here too Sāyaṇa has explained it as the post. But the Nirukta authors' opinion is that it is Agni within the post. Durgācārya, explaining this Ṛk in the Nirukta commentary:
+
+⟦ಏವಮಗ್ನಿರ್ವನಸ್ಪತಿಃ । ಯತ್ ಪುನರೇತದುಕ್ತಂ ಯೂಪಾಂಜನೀಯಾಯಾಂ 'ಯೂಪೇ ವನಸ್ಪತಿಶಬ್ದಃ'
+ಇತಿ । ಅತ್ರ ಬ್ರೂಮಃ—ಅಗ್ನಿ ರೇವಾಸೌ ಯೂಪಾಂತರ್ಗತೋ ಯೂಪಾತ್ಮನಾ ವರ್ತಮಾನೋ
+ಯೂಪಾಂಜನೀಯಾಯಾಂ ವನಸ್ಪತಿಶಬ್ದೇನೋಚ್ಯತೇ ।⟧
+
+He has established that here vanaspati means only the Agni within the post and nothing else. The Bṛhaddevatā authors:
+
+⟦ವನಸ್ಪತಿಂ ತು ಯಂ ಪ್ರಾಹುರಯಂ ಸೋಽಗ್ನಿರ್ವನಸ್ಪತಿಃ ।
+ಅಯಂ ವನಾನಾಂ ಹಿ ಪತಿಃ ಪಾತಾ ಪಾಲಯತೀತಿ ವಾ ।
+ಅಗ್ನಿಗೃತ್ಸಮದೇನಾಯಂ ವನಸ್ಪತಿರಿತೀಳಿತಃ ।
+ಮಂದಸ್ವೇತ್ಯಸ್ಯ ಸೂಕ್ತಸ್ಯ ಷಳ್ಳಚಸ್ಯ ತೃತೀಯಯಾ ॥
+ಯೂಪವತ್ತರುವಚ್ಚೈವ ಸ್ತುತಿರ್ಯಾಸ್ಯ ಪ್ರಸಂಗಜಾ ।
+ಸರ್ವೆಣಾಂಜಂತಿಸೂಕ್ತೇನ ತೃತೀಯೇ ಸಾ ತು ಮಂಡಲೇ ॥⟧
+(Bṛ. De. 3-26 to 28)
+
+### Printed p. 743
+
+*[Running head, p. 743: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+By these sentences they discuss the nature of the Āprī deity addressed in the Ṛk 1-13-11, and state that here vanaspati means the earthly Agni, and that in the Ṛk 2-37-2 Gṛtsamada also meant this same earthly Agni by the word vanaspati, and that only in some Ṛks of the third Maṇḍala does it mean the post or a tree, and that too is incidental (prasaṅgaja). Besides this,
+
+XXX (*XXX*)
+(Bṛ. De. 1-66)
+
+Here, showing that vanaspati means the Agni of the middle world, they state precisely that, except in a few places of the Ṛksaṃhitā, in the many other places this word indicates Agni, without doubt.
+
+#### Ṛk 11
+
+*[The supplied text has before the Saṃhitā the line "This image contains no text. It shows a decorative squiggly line or border.", which was in the Saṃhitā block and is kept as an italic note in kn.md.]*
+
+**॥ संहितापाठः ॥**
+
+> आ या॑ह्यग्ने समिधा॒नो अ॒र्वाजिंद्रे॑ण दे॒वैः स॒रथं॑ तु॒रेभिः॑ ।
+> ब॒र्हिर्न॑ आस्ता॒मदि॑तिः सुपु॒त्रा स्वाहा॑ दे॒वा अ॒मृता॑ मादयंतां॥
+
+**॥ पदपाठः ॥**
+
+> आ । याहि । अग्ने । संइधानः । अर्वाज् । इंद्रेण । देवैः । सरथं । तुरेभिः ।
+> बर्हिः । नः । आस्तां । अदितिः । सुपुत्रा । स्वाहा । देवाः । अमृताः । मादयंतां ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने अर्वाक् अस्मदभिमुखं समिधानः समिध्यमानो ज्वालारूपेण
+> दीप्यमानस्त्वमायाहि । देवतारूपेणागच्छ । कथमिति उच्यते । नोऽस्माकं यज्ञमिंद्रेण देवैश्च तुरेभिस्वरमाणैर्देवैः सरथं समानरथं यथा तथायाहि ।
+> किंच सुपुत्रादितिरपि नो बर्हिरास्तां । अध्यास्तां । स्वाहाकारेण युक्ता अमृता
+> नित्या देवा मादयंतां । तृप्यंतु ॥
+
+*(Gist: O Agni, kindled, come towards us in one chariot with Indra and the swift gods; may Aditi with good sons sit on the grass and the immortal gods be satisfied.)*
+
+### Printed p. 744
+
+*[Running head, p. 744: Sāyaṇabhāṣyasahitā, Maṃ. 3 (no period after 3, as printed), A. 1, Sū. 4.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Arvāk: towards us. Samidhānaḥ: you who are kindled. Indreṇa: with Indra. Turebhiḥ: swift-moving. Devaiḥ: with the gods. Sarathaṃ: seated in one chariot. Ā yāhi: come to our sacrifice. Suputrāḥ: having excellent sons. Aditiḥ: Aditi too. Naḥ: our. Barhiḥ: upon the seat of sacred grass. Āstāṃ: let her sit. Amṛtāḥ: the immortal. Devāḥ: the gods. Svāhā: with the oblation offered with the call svāhā. Mādayantāṃ: let them obtain satisfaction.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, kindled towards us, come to our sacrifice seated in one chariot, together with Indra and the swift-moving gods. May Aditi, having excellent sons, also sit upon our seat of sacred grass. May the immortal gods obtain satisfaction with the oblation offered with the call svāhā.
+
+**Printed English translation**
+
+Agni, kindled into flame, come to our presence in the same chariot with Indra and with the swift-moving gods : may Aditi, the mother of excellent sons, sit down on the sacred grass, and may the immortal gods be satisfied with the reverentially-offered oblation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk, which is the conclusion of this sūkta, it is prayed that the deity presiding over the svāhā call, and all the gods beginning with Aditi, the mother of the gods, who has excellent sons, come to this sacrificial ground and sit upon the seat of sacred grass called barhis spread there, and receive the oblations and the like offered by the sacrificers with the svāhā call and be satisfied.
+
+Yāska's explanation of the word svāhā:
+
+⟦ಸ್ವಾಹಾಕೃತಯಃ । ಸಾಹಾಕೃತಯಃ ಸ್ವಾಹೇತ್ಯೇತತ್ ಸು ಆಹೇತಿ ವಾ । ಸ್ವಾ ವಾಗಾಹೇತಿ ವಾ ।
+ಸ್ವಂ ಪ್ರಾಹೇತಿ ವಾ । ಸ್ವಾಹುತಂ ಹವಿರ್ಜುಹೋತೀತಿ ವಾ ॥⟧
+(printed सि (*si*). 8-21; the supplied text had three Telugu letters in the reference, put into Kannada letters one for one)
+
+The word svāhā has four kinds of component meanings.
+
+*[The window ends here, at the end of p. 744; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 741 (PDF 741). Sūkta 4 Ṛk 10 bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics so far (śamitā, adhrigu, vanaspati; Ni. 5-11, 7-19, 8-3, 8-18)
+**Progress note:** Done through printed p. 744 (PDF 744). Sūkta 4 Ṛk 10 Special Topics end (vanaspati: Ni. 8-3, 8-18; Bṛ. De. 3-26 to 28, 1-66); Ṛk 11 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) and Special Topics begun (svāhā, Ni. 8-21)
