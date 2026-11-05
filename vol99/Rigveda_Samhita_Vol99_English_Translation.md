@@ -403,6 +403,104 @@ Lord of wealth, giver of wealth, possessor of riches, Agni, you are wise, unders
 
 सः (*saḥ*)—that same Agni described above. नः (*naḥ*)—to us. दिवस्परि (*divaspari*)—from the atmosphere. वृष्टिं (*vṛṣṭiṃ*)—rain (he pours). सः (*saḥ*)—he. नः (*naḥ*)—to us. अनर्वाणं (*anarvāṇaṃ*)—(everlasting) abundant. वाजं (*vājaṃ*)—strength (may he give; likewise). नः (*naḥ*)—to us. सहस्रिणीः (*sahasriṇīḥ*)—countless. इषः (*iṣaḥ*)—foods. सः (*saḥ*)—may that same Agni give.
 
+### Printed p. 513
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 27, Ṛgveda-saṃhitā, p. 513.*
+
+**Bhāvārtha** (continued from p. 512)
+
+That same Agni described above pours rain on us from the atmosphere. May he give us abundant strength and unlimited food.
+
+**Printed English**
+
+(For you are) he(who gives) us rain from heaven; he(who gives) us undecaying strength, he(who gives) us infinite(abundance of) food.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> ईळा॑नायाव॒स्यवे॒ यवि॑ष्ठ दूत नो गि॒रा ।
+> यजि॑ष्ठ होत॒रा ग॑हि ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> ईळानाय । अवस्यवे । यविष्ठ । दूत । नः । गिरा ।
+> यजिष्ठ । होतः । आ । गहि ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यविष्ठ युवत्तम दूत देवानां यज्ञादिसूचक यजिष्ठातिशयेन
+> यष्टव्य होतर्देवानामाह्वातरग्ने नो गिरास्मदीयया स्तुत्येळानाय पूजयि-
+> त्रेवस्यवे स्वरक्षणमिच्छते मदर्थमागहि । आगच्छ ॥
+
+*Gist:* Agni, youthful messenger and invoker of the gods, is asked to come at our praise to the worshipper who seeks his protection.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यविष्ठ (*yaviṣṭha*)—most youthful. दूत (*dūta*)—messenger of the gods. यजिष्ठ (*yajiṣṭha*)—possessed of exceeding worthiness of sacrifice. होतः (*hotaḥ*)—O Agni, who call the gods to the sacrifice. नः (*naḥ*)—our. गिरा (*girā*)—by the voice that takes the form of praise. ईळानाय (*īḷānāya*)—to me who worship. अनस्यवे (*anasyave*) [sic, as supplied; the Saṃhitā and Pada have अवस्यवे (*avasyave*)]—who desire protection. आ गहि (*ā gahi*)—be gracious, come.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, most youthful, messenger of the gods, exceedingly worthy of sacrifice, who call the gods to the sacrifice: be gracious to me, who worship you with the voice of praise and desire your protection.
+
+### Printed p. 514
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 6, p. 514.*
+
+**Printed English**
+
+Youngest(of the gods), their messenger, their invoker, most deserving of worship, come, upon our praise, to him who offers(you) adoration, and is desirous of(your) protection.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> अं॒त्यर्ह्य॑ग्न॒ ईय॑से वि॒द्वाञ्जनो॒भया॑ कवे ।
+> दूते जन्मेव मित्रः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> अंशः । हि । अग्ने । ईयसे । विद्वान् । जन्म । उभया । कवे ।
+> दूतः । जन्माऽइव । मित्रैः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे कवे मेधाविन्नग्ने अंतर्जनानाका हृदय ईयसे हि । गच्छसि जानासि वा ।
+> हिः स होता सेदु दूत्यं चिकित्त्वा अंतरीयते । ४-८-४ । इत्यादिमंत्रांतरप्रसिद्धि-
+> द्योतनार्थः । कीदृशस्त्वं । उभया उभयविधानि जन्म जन्मानि यष्ट्यणां यज-
+> मानानां यष्टव्यानां देवानां च संबंधीनि विद्वान् जानन् सन् । ईयस इति
+> संबंधः । तत्र दृष्टांतः । जन्यो ज र्भ्यो हितो मित्रो विशेषेण मित्रेभ्यो
+> हितो दूत इव । स यथा प्रजानां चित्तवृत्तिज्ञानाय राज्ञा प्रेरितस्तासां मनो
+> जानाति तद्वत् त्वमप्यस्माकमंतरीयस इत्यर्थः ॥
+
+*Gist:* Agni, knowing both kinds of births, those of worshippers and of gods, goes within men like a messenger friendly to men and especially to friends.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+कवे (*kave*)—wise. अग्ने (*agne*)—O Agni. उभया जन्म (*ubhayā janma*)—the births of both kinds, the sacrificers and the gods worthy of the sacrifice. विद्वान् (*vidvān*)—knowing well. जन्यः (*janyaḥ*)—beneficial to people. मित्रः (*mitraḥ*)—and especially one who does good to friends. दूत इव (*dūta iva*)—as a messenger knows the mind of his master and acts for his good (so do you also). अंतः (*aṃtaḥ*)—in the hearts of men. ईयसे हि (*īyase hi*)—you surely enter and understand it.
+
+**भावार्थ (Bhāvārtha)**
+
+O wise Agni, knowing well the birth of the sacrificers and the birth of the gods worthy of the sacrifice, beneficial to people and especially doing good to friends, like a messenger who knows the mind of his master and acts for his good, you also
+
+### Printed p. 515
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 27, Ṛgveda-saṃhitā, p. 515.*
+
+enter the hearts of men, know their wishes and fulfil their desires.
+
+**Printed English**
+
+Sage Agni, you penetrate the innermost(man) knowing the birth of both(the worshipper and the worshipped); like a messenger favourable to men, especially to his friends.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अंतः हि अग्ने ईयसे (*aṃtaḥ hi agne īyase*)—O Agni, you enter the hearts of men; that is, you know all the matters in the hearts or minds of men: this is the meaning intended. The commentator has given as an example, indicating this same sense, the Ṛk स होता सेदु दूत्यं चिकित्त्वा अंतरीयते (*sa hotā sedu dūtyaṃ cikittvā aṃtarīyate*) (Ma. Saṃ. 4-8-4) [reference as supplied]. But in the commentary on that Ṛk the idea that he enters the hearts of men and knows what is in their minds is not indicated. Instead, for the words अंतः ईयते (*aṃtaḥ īyate*) he explains the sense अंतर्द्यावापृथिव्योर्मध्य ईयते गच्छति (*aṃtardyāvāpṛthivyormadhya īyate gacchati*), that is, he goes (moves about) between heaven and earth (earth and atmosphere). Therefore the Ṛk given here as an example does not establish the meaning of the present Ṛk.
+
+जन्म उभया विद्वान् (*janma ubhayā vidvān*)—उभयविधानि जन्मानि यष्टणां यजमानानां यष्टव्यानां देवानां च संबंधीनि च जानन् (*ubhayavidhāni janmāni yaṣṭaṇāṃ yajamānānāṃ yaṣṭavyānāṃ devānāṃ ca saṃbaṃdhīni ca jānan*)—here Agni is described as knowing the two kinds of births. The commentator explains this as knowing the birth, or order of origin, of the sacrificing worshippers and of the gods who are worshipped in the sacrifice.
+
+दूतो जन्मेव मित्रः (*dūto janmeva mitraḥ*)—here an illustration is given. जनेभ्यो हितो विशेषेण मित्रेभ्यो हितो दूत इव । स यथा प्रजानां चित्तवृत्तिज्ञानाय राज्ञा प्रेरितस्तासां मनो जानाति तद्वत् त्वमप्यस्माकमंतरीयस इत्यर्थः (*janebhyo hito viśeṣeṇa mitrebhyo hito dūta iva | sa yathā prajānāṃ cittavṛttijñānāya rājñā preritastāsāṃ mano jānāti tadvat tvamapyasmākamaṃtarīyasa ityarthaḥ*). Agni is praised as being like a messenger who is a well-wisher of people, and especially of those who are friends. How? In the world a messenger sent by the king, moving among the people to learn their minds, learns their wishes and reports them to the king; in the same way Agni too enters the minds of men and, like a well-wisher, makes their heart's desire known to the gods to whom it is directed: this is the intention.
+
 ---
 
-**Progress note:** Done through printed p. 512 (PDF 512). Sukta 6 Rks 3-5 (Maṇḍala 2); labels and blocks of Rks 3-5 restored in kn.md; Rks 4-5 Samhita not accented (DIFF)
+**Progress note:** Done through printed p. 515 (PDF 515). Sukta 6 Rks 6-7; Rk 7 Samhita/Pada spelling oddities, accent DIFF/NOMATCH
