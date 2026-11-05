@@ -21,3 +21,4 @@ pp. 408-410 | sonnet | tokens n/a | ~3 min
 | 788-790 (redo after splitter fix) | sonnet | n/a | see agent | ~2 min |
 | 791-793 | sonnet | n/a | see agent | ~2 min |
 | 794-796 | sonnet | n/a | see agent | ~2 min |
+| 797-799 | sonnet | n/a | see agent | ~2 min |
