@@ -31102,6 +31102,84 @@ The Kannada: "This sūkta, प्राता रथ (*prātā ratha*), is the s
 > *prātariti | rathaḥ | navaḥ | yoji | sasni: | catuḥyugaḥ | trikaśaḥ | saptaraśmiḥ |*
 > *daṭhaaritraḥ | manuṣyaḥ | svasāḥ | saḥ | iṣṭibhiḥ | matibhiḥ | raṃhyaḥ | bhūt ‖ 1 ‖*
 
+### Printed p. 818
+
+*(Header: "818 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 18]".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> रथो रंहणाद्रथो यज्ञः । स च नवः । नूयते स्तूयतेऽत्रेति नवः स्तुति-
+> मान् । सस्निः ॥ स्ना शौचे । आदृगमहनेति किन्पत्ययः ॥ शुद्धः । एवंविधो यज्ञः
+> प्रातः प्रातःकाले योजि । अयोज्यस्माभिः । चतुर्युगः । युज्यंत इति युगानि
+> ग्रावाणः । चत्वारि युगानि यस्य स तथोक्तः । अध्वर्याद्यत्विगभिप्रायं वा ।
+> त्रिकशः । तिस्रः कशा वाचो मंद्रमध्यमोत्कृष्टरूपा यस्य स तथोक्तः । सवनत्र-
+> याभिप्रायं वा । सप्तरश्मिः । अश्नुवते व्याप्न्निवंति कर्माणीति रश्मयश्चंदांसि ।
+> सप्तसंख्याकानि गायत्रादीनि छंदांसि यस्य स तथोक्तः । दशारित्रः । अरिभ्यः पापे-
+> भ्यस्तायंत इत्यरित्रा ग्रहाः । दशसंख्याका ग्रहा यस्य स तादृशः । चमसाध्वर्यभि-
+> प्रायं वा । मनुष्यो मनुष्याणां हितः । स्वर्षाः स्वर्गस्य दाता । स एवंविधो
+> यज्ञ इष्टिभिः प्रायणीयातिथ्यादिभिर्मतिभिर्मननीयैः स्तोत्रै रंह्यः शब्दनीयो
+> भूत् । अभूत् । यद्वा नवोऽभिनवः सस्निः ॥ सनोतेर्द्विवचनादि ॥ कामानां दाता
+> रथो रमंतेऽस्मिन्निति रथः स्यंदनः प्रातःसवने च सोमपानार्थं योजि । अश्वै-
+> रयोजि । कीदृशः । चतुर्युगः । त्रिकशः । तिस्रः कशा यस्य स तथोक्तः । सप्तरश्मिः
+> सप्तरज्जुः । दशारित्रो दशचक्रः । मनुष्यो मनुष्यहितः स्वर्षाः स्वर्गस्य संगमयि-
+> तेंद्ररथ इष्टिभिर्यागैर्मतिभिः स्तोत्रैश्च व्याप्तव्यो भवति ॥
+
+*Gist: the sacrifice (ratha) is praiseworthy and pure, has four pressing-stones (or four priests), three tones, seven metres and ten vessels; the second explanation takes ratha as Indra's chariot yoked with horses.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नवः (*navaḥ*)—praiseworthy; सस्निः (*sasniḥ*)—pure; रथः (*rathaḥ*)—the sacrifice; प्रातः (*prātaḥ*)—at dawn itself; योजि (*yoji*)—has been instituted; चतुर्युगः (*caturyugaḥ*)—having four pressing-stones, or having four kinds of priests beginning with the Adhvaryu; त्रिकशः (*trikaśaḥ*)—having three kinds of chants, low (mandra), middle and high; सप्तरश्मिः (*saptaraśmiḥ*)—accompanied by seven metres; दशारित्रः (*daśāritraḥ*)—having ten vessels (graha); मनुष्यः (*manuṣyaḥ*)—beneficial to men; स्वर्गाः (*svargāḥ*) [sic, as supplied]—conferring heaven; सः (*saḥ*)—the sacrifice; इष्टिभिः (*iṣṭibhiḥ*)—together with the other sacrificial rites (which are its parts); मतिभिः (*matibhiḥ*)—with contemplative praises; रंह्यः (*raṃhyaḥ*)—in a resounding manner; भूत् (*bhūt*)—became.
+
+**भावार्थ (Bhāvārtha)**
+
+The praiseworthy and pure sacrifice has been instituted at dawn itself. It has four kinds of priests beginning with the Adhvaryu (or four pressing-stones), three kinds of chants, low, middle and high, it is accompanied by seven metres, accompanied by ten vessels, beneficial to men, conferring heaven; that sacrifice, together with the
+
+### Printed p. 819
+
+*(Header: "[A. 2. A. 6. V. 21] Ṛgvedasaṃhitā 819".)*
+
+other rites that are its parts and with contemplative praises, came to be resounding (with the chanting of the Veda).
+
+**Printed English translation (Ṛk 1)**
+
+A laudable and pure sacrifice has been instituted at dawn; having four pairs(of stones for bruising the Soma; three tones(of prayer): seven metres, and ten vessels; beneficial to man, conferring heaven, and sanctifiable with solemn rites and praises. [Parentheses unclosed as printed.]
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Sāyaṇa has given two kinds of explanation for this Ṛk, one with reference to the sacrifice and the other with reference to the chariot. Accordingly, some words in this Ṛk are explained so as to suit each context.
+
+The first explanation, with reference to the sacrifice: रथः । रंहणाद्रथो यज्ञः । (*rathaḥ | raṃhaṇādratho yajñaḥ |*) Since the root रंहत (*raṃhata*) has the sense of motion, the word ratha formed from that root is called ratha as being a means of going about. Since the root of motion also has the senses "to happen, to be obtained", here the rite that is going on, that is obtained, at dawn is indicated by the word ratha. The meaning conveyed here is the sacrifice that is obtained, that is, performed, as soon as dawn comes.
+
+नवः (*navaḥ*)—For this word नवः (*navaḥ*), formed from the root णु स्तुतौ (*ṇu stutau*), the meaning is "that which is praised", that is, accompanied by hymns and the like. In this sacrifice the priests recite hymns addressed to the several deities. Therefore the word nava is an epithet of the word ratha, meaning the sacrifice that is praised.
+
+सस्नि: (*sasni:*)—For the word sasni, formed from the root स्ना शौचे (*snā śauce*), the meaning is "perfectly pure". This word too is an epithet of the word ratha (sacrifice).
+
+चतुर्युगः (*caturyugaḥ*)—युज्यंत इति युगानि ग्रावाणः । चत्वारि युगानि यस्य स तथोक्तः । (*yujyaṃta iti yugāni grāvāṇaḥ | catvāri yugāni yasya sa tathoktaḥ |*) Because the stones (ग्रावाणः (*grāvāṇaḥ*)) are employed in sacrificial acts, that is, in the work of pressing the Soma, they are called yuga. Because four stones are used here (in this sacrifice) (since, for crushing the Soma plant, each of the two priests, the Adhvaryu and the Pratiprasthātṛ, uses two stones), the word चतुर्युगः (*caturyugaḥ*) is used as an epithet of the sacrifice. That is, it is said that four stones are used in this sacrifice for pressing out the Soma juice. Or the word caturyuga may be understood to mean the four priests, Hotṛ, Adhvaryu, Udgātṛ and Brahman. The meaning is that all these four priests take part in this sacrifice.
+
+त्रिकशः (*trikaśaḥ*)—⟦ತಿಸ್ರಃ ಕಶಾ ವಾಚೋ ಮಂದ್ರಮಧ್ಯಮೋತ್ಕೃಷ್ಟರೂಪಾ ಯಸ್ಯ ಸಃ । ಸವನತ್ರಯಾಭಿ
+
+### Printed p. 820
+
+*(Header: "820 Sāyaṇabhāṣyasahitā । Maṃ. 2 A. 2 Sū. 18".)*
+
+ಪ್ರಾಯಂ ವಾ ।⟧ The sound of the mantras recited in the sacrifice is of three kinds, low, middle and high (softly, moderately, loudly). Or, since the Soma juice is pressed three times in the sacrifice, the three pressings (savana), the morning pressing, the midday pressing and the third pressing, are indicated here. This is explained by the word त्रिकशः (*trikaśaḥ*).
+
+सप्तरश्मि: (*saptaraśmi:*)—अश्नुवते व्याप्प्पुवंति कर्माणीति रश्मयश्चंदांसि । सप्तसंख्याकानि गायत्रादीनि छंदांसि यस्य स तथोक्तः । (*aśnuvate vyāpppuvaṃti karmāṇīti raśmayaścaṃdāṃsi | saptasaṃkhyākāni gāyatrādīni chaṃdāṃsi yasya sa tathoktaḥ |*) The mantras recited in the sacrifice pervade the several rites according to each rite; therefore those mantras or metres are called raśmi (rays). Among such metres, mantras in the seven chief metres, Gāyatrī, Triṣṭup, Jagatī and the rest, are recited in the sacrifices.
+
+दशारित्र: (*daśāritra:*)—अरिभ्यः पापेभ्यस्त्रायंत इत्यरित्रा ग्रहाः । (*aribhyaḥ pāpebhyastrāyaṃta ityaritrā grahāḥ |*) Because they protect from sins, the vessels (graha) are called aritra. Since the number "ten" is stated here, daśāritra means, according to the Śruti text स्पृश्य कपालानि चाग्निहोत्रहवणी च तूर्पं च कृष्णाजिनं च तम्मा चोलूखलं च मुसलं च दृषच्छोपला चैतानि वै दश यज्ञायुधानि (*spṛśya kapālāni cāgnihotrahavaṇī ca tūrpaṃ ca kṛṣṇājinaṃ ca tammā colūkhalaṃ ca musalaṃ ca dṛṣacchopalā caitāni vai daśa yajñāyudhāni*) (Tai. Saṃ. 1-6-8), that there are ten sacrificial implements or chief appliances (vessels) used in the sacrifice:
+
+(1) स्पृः—च्छेदनादिकृत् । (*spṛḥ—cchedanādikṛt |*) the knife used for cutting darbha grass and the like.
+
+(2) कपालानि—हविरधिश्रयणार्थानि । (*kapālāni—haviradhiśrayaṇārthāni |*) the earthen potsherds on which the oblation, that is, the oblation called puroḍāśa, is placed on the fire and baked.
+
+(3) अग्निहोत्रहवणी (*agnihotrahavaṇī*)—the wooden vessel like a ladle used for offering the oblation.
+
+(4) शूर्पं (*śūrpaṃ*)—the winnowing basket [mara, "wood", as supplied] used for winnowing grain.
+
+(5) कृष्णाजिनं (*kṛṣṇājinaṃ*)—the hide of the antelope called kṛṣṇājina, used near the mortar when grain is pounded.
+
+(6) शम्या (*śamyā*)—the implement used for killing the animal in the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 817 (PDF 817). Sukta 17 Rk 8 Special Topics completed; Rk 9 (repeat of 2-11-21, Special Topics by cross-reference); Sukta 18 begun with Rk 1 Samhita and Pada. Rk 9 Samhita as supplied was mixed-script with duplicated fragments: cleaned, joined into reference lines, Devanagari letters converted to Kannada mechanically; supplied spellings left unchanged.
+**Progress note:** Done through printed p. 820 (PDF 820). Sukta 18 Rk 1 bhasya (stray label line removed), Pratipadartha, Bhavartha, printed English, Special Topics begun (list of ten sacrificial implements runs to item 6; continues next window)
