@@ -34960,6 +34960,93 @@ O Bṛhaspati, those thieves who take delight in a practice of the nature of inj
 
 Deliver us not to the thieves, the enemies delighting in violence, who seize ever upon the food(of others), those who cherish in their hearts the abandonment(of the gods);(they), Brihaspati, who do not know the extent of(your) power(against evil spirits).
 
+### Printed p. 947
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 32] Ṛgveda-saṃhitā, page 947, as supplied; the running title is misprinted in the supplied text.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Bṛhaspati is prayed not to put us, who praise him, under the control of thieves; and it is described what wicked-natured people those thieves are.
+
+मा नः स्तेनेभ्यः (*mā naḥ stenebhyaḥ*)—Sāyaṇa: "O Bṛhaspati, to us, to the thieves": स्तेन (*stena*) means thieves, those in whom there is स्त्यान (*styāna*) (as in the Sanskrit gloss). "Do not give us to them": the meaning of the sentence is, "O Bṛhaspati, do not put us under the control of thieves." Since only the particle मा (*mā*) is present, the verb दाः (*dāḥ*) has to be supplied. For the word स्तेन (*stena*) Yāska says in the Nirukta (Ni. 3-19) that, according to the etymologists, the thief is called स्तेन (*stena*) because a mass of sin or sinful action पापकर्म (*pāpakarma*) is present in him; that is, if one asks why the name स्तेन (*stena*) came to the thief, it is because he has sin-mass or sinful action. What the evil qualities of such thieves are, and what wicked deeds they do, the seer describes in the following sentences of this Ṛk.
+
+ये द्रुहः पदे निरामिणः (*ye druhaḥ pade nirāmiṇaḥ*)—Sāyaṇa: those thieves who are always inclined to delight in the place of injury to life. These thieves take special delight in doing injury to others, or in wicked deeds of the nature of taking away life. Injuring others is the very nature of thieves.
+
+रिपवः अन्नेषु अभि जागृधुः (*ripavaḥ anneṣu abhi jāgṛdhuḥ*)—Being injurers they covet the food of others. These thieves harm people and are greedy for the food and other provisions of others.
+
+आ देवानां ओहते वि व्रयः हृदि (*ā devānāṃ ohate vi vrayaḥ hṛdi*)—Sāyaṇa: and they bring in their own hearts the special abandonment of the gods. That is, those thieves have given up worshipping the gods: they hold in their hearts the evil thought, "We shall not propitiate the gods by sacrifices and other rites, nor praise them." Here Sāyaṇa says that the two roots व्री व्ली (*vrī vlī*) exist in the sense of abandoning; he gives the sense "abandonment" to the word व्रयः (*vrayaḥ*) formed from the root व्री (*vrī*) meaning "abandon", and, in support of that sense, cites the Taittirīya-brāhmaṇa sentence य एवं दक्षिणां प्रतिगृह्णाति नैनं दक्षिणा प्लीनाति (*ya evaṃ dakṣiṇāṃ pratigṛhṇāti nainaṃ dakṣiṇā plīnāti*) (Tai. Brā. 2-2-5-1) (as supplied; the supplied text has प्लीनाति (*plīnāti*) here where Sāyaṇa's own quotation has व्लीनाति (*vlīnāti*)).
+
+ये परः साम्मः न विदुः (*ye paraḥ sāmmaḥ na viduḥ*)—Sāyaṇa: those men who do not know the Sāman that is beyond you, the other, superior one, the Sāman that destroys demons ("the Sāman indeed is the slayer of demons"). Those thieves do not know your surpassing power of destroying demons; that is, the thieves do not know your greatness. The purport is, "Do not put us under such thieves." Here Sāyaṇa explains the word साम (*sāma*) as the power of destroying demons, and in support of it gives the Śruti sentence साम वै रक्षोहा (*sāma vai rakṣohā*). Yāska, stating the derivation of the word साम (*sāma*), says—
+
+### Printed p. 948
+
+*(Header: [948 Sāyaṇabhāṣyasahitā Maṃ. 2 A. 3 Sū. 25], as supplied; the word "Sāyaṇabhāṣya" is misprinted in the supplied text.)*
+
+साम संमितमृचास्त्येर्वचा समं मेन इति नैदानाः (*sāma saṃmitamṛcāstyervacā samaṃ mena iti naidānāḥ*) (Si. 7-12; reference as supplied).
+
+That is, this mantra (the mantra of the Sāmaveda, or the Sāman) is equal to the Ṛk in measure, and therefore is called साम (*sāma*). Generally the Ṛks of the Ṛgveda are the very ones that are in the Sāmaveda; but their notes (the Sāmaveda has seven notes) and the manner of reciting them in the form of song are different. Because they are the same in measure, that mantra is called Sāman. Or: the Sāma-mantra is in the Ṛk of the Ṛgveda itself and, being also one in measure, this mantra got the name Sāman; so Yāska states the derivation of the word सामन् (*sāman*) as the view of the authors of the Nidāna works.
+
+#### Ṛk 17
+
+**॥ संहितापाठः ॥**
+
+> विश्वे॑भ्यो॒ हि त्वा॒ भुव॑नेभ्य॒स्परि॒ त्वष्टाज॑न॒त्साम्णः॑साम्नः क॒विः ।
+> स ऋ॑ण॒चिदृ॑ण॒या ब्रह्म॑ण॒स्पति॑द्रु॒हो ह॒न्ता म॒ह ऋ॒तस्य॑ ध॒र्तरि॑ ॥ १७ ॥
+
+**॥ पदपाठः ॥**
+
+> विश्वेभ्यः । हि । त्वा । भुवनेभ्यः । परि । त्वष्टा । अजनत् । साम्नःसाम्नः । कविः ।
+> सः । ऋणचित् । ऋणयाः । ब्रह्मणः । पतिः । द्रुहः । हन्ता । महः । ऋतस्य ।
+> धर्तरि ॥ १७ ॥
+
+> *viśvebhyaḥ | hi | tvā | bhuvanebhyaḥ | pari | tvaṣṭā | ajanat | sāmnaḥsāmnaḥ | kaviḥ |*
+> *saḥ | ṛṇacit | ṛṇayāḥ | brahmaṇaḥ | patiḥ | druhaḥ | hantā | mahaḥ | ṛtasya |*
+> *dhartari ‖ 17 ‖*
+
+*(Note: the Saṃhitā block as supplied reads साम्णःसाम्नः (*sāmṇaḥsāmnaḥ*) with ಣ in the first half, where the Pada and the bhāṣya have साम्नःसाम्नः (*sāmnaḥsāmnaḥ*) with ನ; left as supplied. Also in the Saṃhitā, त्वष्टाजनत् (*tvaṣṭājanat*) and भुवनेभ्यस्परि (*bhuvanebhyaspari*) are printed unseparated. The Pada reads ऋणयाः (*ṛṇayāḥ*) and ब्रह्मणः पतिः (*brahmaṇaḥ patiḥ*).)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते त्वष्टा प्रजापतिर्विश्वेभ्यो भुवनेभ्यस्परि सर्वॆभ्यो भूत-
+> जातेभ्य उत्कृष्टं त्वामजनद्धि । अजीजनत् खलु । ततस्त्वं साम्नः साम्नः सर्वस्यापि
+> साम्नः कविः ॥ कु शब्दे । आच इरिति इप्रत्ययः ॥ उच्चारयिता कर्तासि । यव्वा कविः
+> क्रांतदर्शि त्वष्टा साम्नः साम्नः सर्वस्यापि साम्नः सारेण त्वामजीजनत् । किंच स
+> ब्रह्मणस्पतिर्महो महत ऋतस्य यज्ञस्य धर्तरि धारके यजमाने ऋणचित् स्तोतृ-
+> काममृणमिव चिनोतीति ऋणचित् । किंच ऋणयाः पापरूपस्य ऋणस्य यावयिता
+> पृथक्कर्ता च द्रुहः कर्मणो द्रोग्बुरस्य हंता भवेति ॥
+
+> *he brahmaṇaspate tvaṣṭā prajāpatirviśvebhyo bhuvanebhyaspari sarvèbhyo bhūta-*
+> *jātebhya utkṛṣṭaṃ tvāmajanaddhi | ajījanat khalu | tatastvaṃ sāmnaḥ sāmnaḥ sarvasyāpi*
+> *sāmnaḥ kaviḥ ‖ ku śabde | āca iriti ipratyayaḥ ‖ uccārayitā kartāsi | yavvā kaviḥ*
+> *krāṃtadarśi tvaṣṭā sāmnaḥ sāmnaḥ sarvasyāpi sāmnaḥ sāreṇa tvāmajījanat | kiṃca sa*
+> *brahmaṇaspatirmaho mahata ṛtasya yajñasya dhartari dhārake yajamāne ṛṇacit stotṛ-*
+> *kāmamṛṇamiva cinotīti ṛṇacit | kiṃca ṛṇayāḥ pāparūpasya ṛṇasya yāvayitā*
+> *pṛthakkartā ca druhaḥ karmaṇo drogburasya haṃtā bhaveti ‖*
+
+*Gist: O Brahmaṇaspati, Tvaṣṭṛ (Prajāpati) produced you as the best of all beings; you are the maker of every Sāman; the lord of prayer pays the debt of the worshipper and destroys the oppressor of the sacrifice. (The supplied bhāṣya text has some slips such as सर्वॆभ्यो (*sarvèbhyo*), अजनद्धि (*ajanaddhi*), यव्वा (*yavvā*), द्रोग्बुरस्य (*drogburasya*), left as supplied.) The grammatical tail (कु शब्दे (*ku śabde*), the suffix इ (*i*) in कविः (*kaviḥ*)) is not explained.*
+
+### Printed p. 949
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 32] Ṛgveda-saṃhitā, page 949, as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ब्रह्मणस्पते (*brahmaṇaspate*)—O Brahmaṇaspati. त्वा (*tvā*)—you. त्वष्टा (*tvaṣṭā*)—Prajāpati. विश्वेभ्यः (*viśvebhyaḥ*)—than all. भुवनेभ्यः (*bhuvanebhyaḥ*)—worlds. परि (*pari*)—as superior. अजनत् हि (*ajanat hi*)—has he not created. साम्नःसाम्नः (*sāmnaḥsāmnaḥ*)—for every hymn in the form of Sāman. कविः (*kaviḥ*)—(you yourself) are the maker and speaker. सः ब्रह्मणस्पतिः (*saḥ brahmaṇaspatiḥ*)—that same Brahmaṇaspati. महः (*mahaḥ*)—of the great. ऋतस्य (*ṛtasya*)—sacrifice. धर्तरि (*dhartari*)—in regard to the sacrificer who is its upholder (gratitude). ऋणचित् (*ṛṇacit*)—has kept the feeling of doing a favour (and moreover). ऋणयाः (*ṛṇayāḥ*)—he is the destroyer of the debt in the form of sin. द्रुहः (*druhaḥ*)—of the treacherous Asura. हंता (*haṃtā*)—he is also the destroyer.
+
+**भावार्थ (Bhāvārtha)**
+
+O Brahmaṇaspati, has not Prajāpati created you as superior to all the worlds? For every hymn in the form of Sāman you yourself are the maker and speaker. That same Brahmaṇaspati has kept the grateful feeling of doing a favour in regard to the sacrificer, the upholder of the great sacrifice. Moreover he is the destroyer of the debt in the form of sin and the destroyer of the treacherous Asura.
+
+**Printed English translation**
+
+Twashtri engendered you(chief) amongst all beings,(whence) you are the reciter of many a holy hymn: Brahmanaspati acknowledges a debt to the performer of a sacred rite: he is the acquitter(of the debt), and the destroyer of the oppressor.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+(हे ब्रह्मणस्पते (*he brahmaṇaspate*)) त्वष्टा विश्वेभ्यः भुवनेभ्यः परि त्वा अजनत् (*tvaṣṭā viśvebhyaḥ bhuvanebhyaḥ pari tvā ajanat*)—Sāyaṇa: हे ब्रह्मणस्पते प्रजापतिर्विश्वेभ्यो भूतजातेभ्य उत्कृष्टं त्वामजीजनत् (*he brahmaṇaspate prajāpatirviśvebhyo bhūtajātebhya utkṛṣṭaṃ tvāmajījanat*). That is, O Brahmaṇaspati, Prajāpati created you as the most excellent among all classes of beings (and among all the worlds); the purport is that among all the creatures created by Prajāpati you alone are superior to all. Here Sāyaṇa has taken the word त्वष्टा (*tvaṣṭā*) to mean Prajāpati. Or, giving to the word त्वष्टा (*tvaṣṭā*) the sense of the god Tvaṣṭṛ, he has explained it in another way too.
+
+यद्वा कविः त्वष्टा साम्नः साम्नः त्वामजीजनत् (*yadvā kaviḥ tvaṣṭā sāmnaḥ sāmnaḥ tvāmajījanat*)—Sāyaṇa: क्रांतदर्शि त्वष्टा सर्वस्यापि साम्नः सारेण त्वामजीजवत् (*krāṃtadarśi tvaṣṭā sarvasyāpi sāmnaḥ sāreṇa tvāmajījavat*) (the supplied text has त्वामजीजवत् (*tvāmajījavat*), where the bhāṣya on p. 948 has त्वामजीजनत् (*tvāmajījanat*) [sic]). Or: the far-seeing god Tvaṣṭṛ made you out of the essence of all the Sāma-mantras. This is another manner of explaining the meaning.
+
 ---
 
-**Progress note:** Done through printed p. 946 (PDF 946). Sukta 23 Rik 15 Special Topics (second sense of dravina, Aitareya-brahmana passage, Haug's translation) completed; Rik 16 Samhita, Pada, bhasya, Pratipadartha, Bhavartha and printed English written; Rik 16 Samhita first line recovered from an HTML title attribute
+**Progress note:** Done through printed p. 949 (PDF 949). Sukta 23 Rik 16 Special Topics (thief, Nirukta stena, Samaveda sama derivation) completed; Rik 17 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English written; Rik 17 Special Topics begun (first two senses of tvashta); Samhita lines joined for accent matching
