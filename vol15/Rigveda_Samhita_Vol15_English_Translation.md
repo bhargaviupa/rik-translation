@@ -17303,6 +17303,112 @@ The Kaṭha Upaniṣad describes thus: that Jātavedas who, placed between the *
 ದಿವೇದಿವ ಈಡ್ಯೋ ಜಾಗೃವದ್ಭಿವರ್ಹವಿಷ್ಮದ್ಭಿರ್ಮನುಷ್ಯೇಭಿರಗ್ನಿಃ ॥⟧
 (Ṛ. Saṃ. 3-29-2)
 
+### Printed p. 545
+
+*[Running head, p. 545: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+—as described in the Ṛgveda Saṃhitā, so it is described in the Kaṭha Upaniṣad also. Thus all the Śrutis praise him, saying that he is called Jātavedas because he is all-knowing, all-pervading, possessed of all wealth, and the most excellent.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative graphic design consisting of symmetrical shapes and swirls." (an ornament), kept as a note.]*
+
+#### Ṛk 21
+
+**॥ संहितापाठः ॥**
+
+> जन्मं॑जन्म॒न् निहि॑तो जा॒तवे॑दा वि॒श्वामि॑त्रेभिरिध्यते॒ अज॑स्रः ।
+> तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥ २१ ॥
+
+> *janmaṃjanman nihito jātavedā viśvāmitrebhiridhyate ajasraḥ |*
+> *tasya vayaṃ sumatau yajñayasyāpi bhadre saumanase syāma ‖ 21 ‖*
+
+*[The supplied text has, between the lines of the Pada, a garbled line "ಃ ಚಡತಾ ॥", and the Pada has no label; the label was inserted by hand and the garbled line kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> जन्मन् जन्मन् । निहितः । जातवेदाः । विश्वामित्रेभिः । इध्यते । अजस्रः ।
+> तस्य । वयं । सुमतौ । यज्ञियस्य । अपि । भद्रे । सौमनसे । स्याम ॥ २१ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> जन्मन् जन्मन् सर्वॆषु मनुष्येषु निहितो जातवेदा विश्रामित्रेभिर्विश्वामित्रैः।
+> पूजायां बहुवचनं। महर्षिणा विश्वामित्रेण यो जातवेदा अजस्रोऽजस्रमनवरतमिध्यते । दीप्यते । सुमतौ वर्तमाना वयं तस्य यज्ञियस्य यज्ञार्हस्याग्नेर्भद्रे भजनीये सौमनसे सुमनोभावेऽनुग्रहबुद्धावपि स्याम । अपि भवेम ।
+> प्रार्थनायां लिज् ॥
+
+*(Gist: Jātavedas is established in every man; he is kindled unceasingly by the Viśvāmitras (honorific plural: the sage Viśvāmitra and his line); may we be in the auspicious favour of that sacrifice-worthy Agni. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Janman janman: in every man (or in every moment of birth). Nihitaḥ: established. Jātavedāḥ: Agni, of understanding. Viśvāmitrebhiḥ: by the seer Viśvāmitra or his descendants. Ajasraḥ: unceasingly. Idhyate: is kindled. Sumatau: possessed of excellent understanding. Vayaṃ: we. Yajñiyasya [printed ಯಜ್ಜಿಯಸ್ಯ]: of the one worthy of sacrifice. Tasya: of that Agni. Bhadre: of the auspicious. Saumanase: and gracious mind. Api syāma: may we be under the shelter.
+
+*[Stray line in the supplied text: "35", kept as a note in kn.md.]*
+
+### Printed p. 546
+
+*[Running head, p. 546: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+**भावार्थ (Bhāvārtha)**
+
+*[The supplied text has the garbled label "॥ ಭಾಷಾರ್ಥ ॥" here, kept as a note in kn.md.]*
+
+Agni, of understanding, established in men at every birth, is kindled unceasingly by the seer Viśvāmitra or his descendants. May we, with excellent understanding, be under the shelter of the auspicious and gracious mind of the sacrifice-worthy Agni.
+
+**Printed English translation**
+
+The undecaying Jatavedas, who in every birth is established (amongst men), is kindled by the Vishwamitras : may we, (enjoying) his favour, ever be (held) in the auspicious good-will of that adorable (deity).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+विश्वामित्रेभिः—विश्वामित्रैः । पूजायां बहुवचनं । (*viśvāmitrebhiḥ—viśvāmitraiḥ | pūjāyāṃ bahuvacanaṃ |*) Here the word विश्वामित्र (*viśvāmitra*) is used in the plural, the commentator explains, to indicate the veneration due to the sage Viśvāmitra. Besides, the meaning "by Viśvāmitra and his progeny, relatives, followers and so on" is the fitting one.
+
+#### Ṛk 22
+
+**॥ संहितापाठः ॥**
+
+> इ॒मं य॒ज्ञं स॑हसाव॒न् त्वं नो॑ देव॒त्रा धे॑हि सुक्रतो॒ ररा॑णः ।
+> प्रयं॑सि होतर्बृह॒तीरिषो॒ नोग्ने॒ महि॒ द्रवि॑ण॒मा य॑जस्व ॥ २२ ॥
+
+**॥ पदपाठः ॥**
+
+> इमं । यज्ञं । सहस्रावन् । त्वं । नः । देवत्रा । धेहि । सुक्रतो इति सुक्रतो ।
+> रराणः ।
+> प्र । यंसि । होतः । बृहतीः । इषः । नः । आग्ने । महि । द्रविणं । आ । यजस्व ॥ २२ ॥
+
+> *imaṃ | yajñaṃ | sahasrāvan | tvaṃ | naḥ | devatrā | dhehi | sukrato iti sukrato |*
+> *rarāṇaḥ |*
+> *pra | yaṃsi | hotaḥ | bṛhatīḥ | iṣaḥ | naḥ | āgne | mahi | draviṇaṃ | ā | yajasva ‖ 22 ‖*
+
+### Printed p. 547
+
+*[Running head, p. 547: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सहसावन् सहस्वन बलवन् सुक्रतो शोभनकर्मन् हे अग्ने रराणः
+> सर्वदा रममाणः शब्दं कुर्वाणो वा त्वं नोऽस्मदीयमिमं यज्ञं देवत्रा
+> देवेषु धेहि । निधेहि । हे होतर्देवानामाह्वातः बृहतीरिषोऽन्नानि नोऽस्मभ्यं
+> प्रयंसि । प्रयच्छ । हे अग्ने महि महद्द्रविणं पश्वादिलक्षणं धनमायजस्व ।
+> प्रयच्छ । अत्र यजिर्दानकर्मा ॥
+
+*(Gist: O mighty Agni, doer of good works, rejoicing, establish this our sacrifice among the gods; O Hotṛ, give us abundant food; O Agni, give great wealth in cattle and the like. In this context the root *yaj* means giving.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Sahasāvan: powerful. Sukrato: O Agni of excellent works. Rarāṇaḥ: ever roaming. Tvaṃ: you. Naḥ: our. Yajñaṃ: sacrifice. Devatrā: among the gods. Dhehi: establish. Hotaḥ: O Agni, who give the invitation to the gods. Bṛhatīḥ: abundant. Iṣaḥ: foods. Naḥ: to us. Pra yaṃsi: give. Agne: O Agni. Mahi: great. Draviṇaṃ: wealth in the form of cattle and the like. Ā yajasva: bestow graciously.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, powerful and of excellent works, ever roaming, establish our sacrifice among the gods. O Agni, who give the invitation to the gods, supply us with abundant foods. O Agni, bestow on us great wealth in the form of cattle and the like.
+
+**Printed English translation**
+
+Powerful Agni, (fulfiller) of good works, eonvey [sic], rejoicing, this our sacrifice towards the gods: Invoker of the gods, bestow upon as [sic] abundant food; grant us, Agni, great wealth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सहसावन्—सहःशब्दवु बलनामगळल्लि परितवागिदॆ. (*sahasāvan—sahaḥśabdavu balanāmagaḷalli paritavāgidè.*) (Ni. 3-9). सहसावन् (*sahasāvan*) means "O Agni, possessed of strength", Agni being so addressed. Since, at the time of churning, force is applied to produce fire, the meaning "one who has strength" may also be given.
+
+द्रविणं—द्रविणशब्दवु धननामगळल्लि पठितवागिरुवुदरिंद द्रविणं ऎंदरॆ धनवन्नु (*draviṇaṃ—draviṇaśabdavu dhananāmagaḷalli paṭhitavāgiruvudariṃda draviṇaṃ èṃdarè dhanavannu*) means wealth (Ni. 3-9).
+
 ---
 
-**Progress note:** Done through printed p. 544 (PDF 544). Sukta 1 (Mandala 3) Rik 20 complete through printed English and Special Topics on janima and Jatavedas with Brihaddevata, Satapatha, Prasna and Katha Upanishad citations (pp. 542-544); Special Topics end with Rik 3-29-2; may continue. Flags: Rik 20 Pada closing number printed as 20; bhashya block ends with stray quote; no Samhita lines
+**Progress note:** Done through printed p. 547 (PDF 547). Sukta 1 (Mandala 3) Rik 20 note finished (p. 545); Rik 21 complete (pp. 545-546); Rik 22 complete (pp. 546-547) through Special Topics; Rik 23 (last of the sukta) follows. Flags: Rik 21 Pada unlabelled with a garbled line, labels inserted; garbled Bhavartha label and stray line 35 kept as notes; 2 accent DIFF
