@@ -19156,6 +19156,89 @@ The rites prescribed for the earlier rites become attached also to the later rit
 
 Therefore all the sacrificial rites that precede the Agniṣṭoma and those performed after it come to their conclusion in the Agniṣṭoma itself. Taking together all the stotras recited in these rites, they add up to one hundred and ninety-nine. Of them ninety
 
+### Printed p. 608
+
+*[Running head, p. 608: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+only, corresponds to the trivṛt stoma counted as ten, and the other ninety to another group of ten-counted trivṛt stomas. Of the remaining ten, one stotriya mantra and one trivṛt remained. That one shines forth, illuminating all the rest, under the name of the ekaviṃśa. The stotriya mantra, which holds the place of pre-eminence, is joined with this ekaviṃśa. That is the sacrificer. That is the kṣatra endowed with divine power, that is the one full of all strength. One who knows this principle obtains kṣatriya power, every kind of radiance and strength, communion with this divine power, a like form and pervasion of all worlds.
+
+⟦ದೇವಾ ವಾ ಅಸುರೈರ್ವಿಜಿಗ್ಯಾನಾ ಊರ್ಧ್ವಾಃ ಸ್ವರ್ಗಂ ಲೋಕಮಾಯಾನ್ಸೋಽಗ್ನಿರ್ದಿವಿಸ್ಪೃಗೂರ್ಧ್ವ ಉದಶ್ರಯತ ಸ ಸ್ವರ್ಗಸ್ಯ ಲೋಕಸ್ಯ ದ್ವಾರಮವೃಣೋದಗ್ನಿರ್ವೈ ಸ್ವರ್ಗಸ್ಯ
+ಲೋಕಸ್ಯಾಧಿಪತಿಸ್ತಂ ವಸವಃ ಪ್ರಥಮಾ ಆಗಚ್ಛಂಸ್ತ ಏನಮಬ್ರುವನ್ನತಿ ನೋರ್ಜಸ್ಯಾಕಾಶಂ
+ನಃ ಕುರ್ವಿತಿ ಸ ನಾಸ್ತುತೋಽತಿಸ್ರಕ್ಷ್ಯ ಇತ್ಯಬ್ರವೀತ್ ಸ್ತುತೆ ನು ಮೇತಿ ತಥೇತಿ ತಂ ತೇ
+ತ್ರಿವೃತಾ ಸ್ತೋಮೇನಾಸ್ತುವಂಸ್ತಾಂಸ್ತುತೋಽತ್ಯಾರ್ಜತ ತೇ ಯಥಾಲೋಕಮಗಚ್ಛಂಸ್ತಂ
+ರುದ್ರಾ ಆಗಚ್ಛಂಸ್ತ ಏನಮಬ್ರುವನ್ನಿತಿ ನೋರ್ಜಸ್ಯಾಕಾಶಂ ನಃ ಕುರ್ವಿತಿ ಸ ನಾಸ್ತುತೋಽತಿಪ್ರಕ್ಷ್ಯ ಇತ್ಯಬ್ರವೀತ್ ಸ್ತುತ ನು ಮೇತಿ ತಥೇತಿ ತಂ ತೇ-ಪಂಚದಶೇನ ಸ್ತೋಮೇನಾಸ್ತುವಂಸ್ತಾಂಸ್ತುತೋಽತ್ಯಾರ್ಜತ ತೇ ಯಥಾಲೋಕಮಗಚ್ಛಂಸ್ತಮಾದಿತ್ಯಾ ಆಗಚ್ಛಂಸ್ತ ಏನಮಬ್ರುವನ್ನತಿ ನೋರ್ಜಸ್ಯಾಕಾಶಂ ನಃ ಕುರ್ವಿತಿ ಸ ನಾಸ್ತುತೋಽತಿಸ್ರಕ್ಷ್ಯ ಇತ್ಯಬ್ರವೀತ್ಸ್ತುತ ನು ಮೇತಿ ತಥೇತಿ ತಂ ತೇ ಸಪ್ತದಶೇನ ಸ್ತೋಮೇನಾಸ್ತುವನ್ ತಾನ್ ಸ್ತುತೋಽತ್ಯಾರ್ಜತ ತೇ ಯಥಾಲೋಕಮಗಚ್ಛನ್ ॥⟧
+(printed ಐ. ಬ್ರಾ. 14-42, i.e. Ai. Brā. 14-42)
+
+The gods, having conquered the asuras with the help of Agni, reached heaven. Agni, of the power described above, flew up to the atmosphere, opened the door of heaven and became lord of all heaven. The other gods had to enter heaven only with his permission. Then the Vasus came to him and asked that they too be allowed entry. When he said, "If you do not praise me, there is no entry for you", the Vasus at once praised Agni with the trivṛt stoma; then Agni gave them room to enter. The Vasus entered heaven and took their places. Then the Rudras came and asked to be given entry. Agni said that there was no entry unless they praised him. They agreed to praise him and praised him with the pañcadaśa stoma. Then Agni gave them room to enter, and at once they entered heaven and took their places. Then the Ādityas came and prayed to Agni, "Give us also the opportunity to enter heaven." Again Agni told them too, "Unless you praise me you have no right of entry." They agreed to praise him and praised his glory with the saptadaśa stoma. Then they entered heaven and took their places.
+
+### Printed p. 609
+
+*[Running head, p. 609: Aṣṭaka 2 (printed ಅ.), Adhyāya 8, Varga 20, Ṛgvedasaṃhitā (printed ಮುಗ್ವೇದಸಂಹಿತಾ, apparently a misprint or reading slip). In the supplied text this head was not recognised, so p. 609 was merged into the text of p. 608; the page marker and heading were inserted by hand and the page added to pages.json.]*
+
+⟦ತಂ ವಿಶ್ವೇ ದೇವಾ ಆಗಚ್ಛಂಸ್ತ ಏನಮಬ್ರುವನ್ನತಿ ನೋರ್ಜಸ್ಯಾಕಾಶಂ ನಃ ಕುರ್ವಿತಿ ಸ
+ನಾಸ್ತುತೋಽತಿಸ್ರಷ್ಟ ಇತ್ಯಬ್ರವೀತ್ ಸ್ತುತ ನು ಮೇತಿ ತಥೇತಿ ತಂ ತಂ ಏಕವಿಂಶೇನ
+ಸ್ತೋಮೇನಾಸ್ತುವಂಸ್ತಾಂಸ್ತುತೋಽತ್ಯಾರ್ಜತ ತೇ ಯಥಾಲೋಕಮಗಚ್ಛನ್ನೇಕೈಕೇನ
+ವೈ ತಂ ದೇವಾಃ ಸ್ತೋಮೇನಾಸ್ತುವಂಸ್ತಾಂಸ್ತುತೋಽತ್ಯಾರ್ಜತ ತೇ ಯಥಾಲೋಕಮಗಚ್ಛನ್ನಥ ಹೈನಮೇಷ ಏತೈಃ ಸರ್ವೈಃ ಸ್ತೋಮೈಃ ಸ್ತೌತಿ ಯೋ ಯಜತೇ ಯಶ್ಚೈನ
+ಮೇವಂ ವೇದಾತೀ ತು ತಮರ್ಜಾತಾ ಅತಿ ಹ ವಾ ಏನಮರ್ಜುತೇ ಸ್ವರ್ಗಂ ಲೋಕಮಭಿ
+ಯ ಏವಂ ವೇದ ॥⟧
+(printed (3-42), i.e. presumably Ai. Brā. 14-42; the printed reference reads "(೩-೪೨)")
+
+Then the Viśvedevas approached Agni and said, "Give us also the opportunity to enter heaven." He said, "Unless you praise me you cannot be given the opportunity to enter." At once they agreed to praise him and praised him with the ekaviṃśa stoma. Then they got the opportunity to enter and went and took their own places. In this way Agni has been praised by the stomas. Having praised him and gained his favour, the other gods are well established in heaven. The sacrificer too, who knowing this principle performs the sacrifice and praises Agni with the stomas, becomes worthy of Agni's favour; he gets the opportunity to enter heaven and is well established in heaven.
+
+*[Lone numeral "39" at the foot of p. 609 in the supplied text, kept as a note.]*
+
+2. Agniṣṭoma, Catuṣṭoma and Jyotiṣṭoma are all only other names of Agni in the form of light.
+
+⟦ಸ ವಾ ಏಷೋಽಗ್ನಿರೇವ ಯದಗ್ನಿಷ್ಟೋಮಸ್ತಂ ಯದಸ್ತುವಂಸ್ತಸ್ಮಾದಗ್ನಿಸ್ತೋಮಸ್ತಮಗ್ನಿಸ್ತೋಮಂ ಸಂತಮಗ್ನಿಷ್ಟೋಮ ಇತ್ಯಾಚಕ್ಷತೇ ಪರೋಕ್ಷೇಣ ಪರೋಕ್ಷಪ್ರಿಯಾ ಇವ ಹಿ
+ದೇವಾಸ್ತಂ ಯಚ್ಚತುಷ್ಟಯಾ ದೇವಾಶ್ಚತುರ್ಭಿಃ ಸ್ತೋಮೈರಸ್ತುವಂಸ್ತಸ್ಮಾಚ್ಚತುಸ್ತೋಮಸ್ತಂ ಚತುಸ್ತೋಮಂ ಸಂತಂ ಚತುಷ್ಟೋಮ ಇತ್ಯಾಚಕ್ಷತೇ ಪರೋಕ್ಷೇಣ ಪರೋಕ್ಷಪ್ರಿಯಾ ಇವ ಹಿ ದೇವಾ ಅಥ ಯದೇನಮೂರ್ಧ್ವಂ ಸಂತಂ ಜ್ಯೋತಿರ್ಭೂತಮಸ್ತುವಂಸ್ತಸ್ಮಾಜ್ಯೋತಿಸ್ತೋಮಸ್ತಂ ಜ್ಯೋತಿಸ್ತೋಮಂ ಸಂತಂ ಜ್ಯೋತಿಷ್ಟೋಮ ಇತ್ಯಾಚಕ್ಷತೇ
+ಪರೋಕ್ಷೇಣ ಪರೋಕ್ಷಪ್ರಿಯಾ ಇವ ಹಿ ದೇವಾಃ ಸ ವಾ ಏಷೋಽಪೂರ್ವೋಽನಪರೋ
+ಯಜ್ಞಕ್ರತುರ್ಯಥಾ, ರಥಚಕ್ರಮನಂತಮೇವಂ ಯದಗ್ನಿಷ್ಟೋಮಸ್ತಸ್ಯ ಯಥೈವ
+ಪ್ರಾಯಣಂ ತಥೋದಯನಂ ತದೇಷಾ ಯಜ್ಞಗಾಥಾ ಗೀಯತೇ ।⟧
+
+The gods, who love the indirect, called the praise of Agni the Agniṣṭoma. In this Agniṣṭoma there are praise-sentences that extol the greatness of Agni. All these are forms of Agni; yet the gods did not call them simply Agni but called them Agniṣṭoma. The gods describe nothing directly. They love secret meanings. Therefore in their descriptions there is always a hidden meaning.
+
+### Printed p. 610
+
+*[Running head, p. 610: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+Because the groups of gods, four in number, praised this same Agni, and because there are four stomas in it, it has the name Catuṣṭoma. The gods, who love the indirect, have shown a hidden meaning in this too. When Agni flew up to the atmosphere and shone in the form of light, the gods praised this light; therefore it has the name Jyotiṣṭoma. The gods, who love the indirect, have shown the secret of the principle here too. In this way this sacrificial rite, called by the names Agniṣṭoma, Catuṣṭoma and Jyotiṣṭoma, is without beginning and without end. This Agniṣṭoma is endless like a chariot wheel. Therefore the praise-sentence that extols its greatness is as follows.
+
+⟦ಯದಸ್ಯ ಪೂರ್ವಮಪರಂ ತದಸ್ಯ ಯದ್ವಸ್ಯಾಪರಂ ತದ್ವಸ್ಯ ಪೂರ್ವಂ । ಅಹೇರಿವ ಸರ್ಪಣಂ
+ಶಾಕಲಸ್ಯ ನ ವಿಜಾನಂತಿ ಯತರತ್ಪರಸ್ತಾದಿತಿ ಯಥಾ ಹ್ಯೇವಾಸ್ಯ ಪ್ರಾಯಣಮೇವಮುದಯನಮಸದಿತಿ ತದಾಹುರ್ಯತ್ರಿವೃತ್ಪ್ರಾಯಣಮೇಕವಿಂಶಮುದಯನಂ ಕೇನ ತೇ
+ಸಮೇ ಇತಿ ಯೋ ವಾ ಏಕವಿಂಶಸ್ತ್ರಿವೃದ್ಧೈ ಸೋಽಥೋ ಯದುಭೌ ತೃಚೌ ತೃಚಿನಾವಿತಿ
+ಬ್ರೂಯಾತ್ತೇನೇತಿ ।⟧ (printed (೧೪-೪೩), Ai. Brā. 14-43)
+
+Whatever is the end of this Agniṣṭoma is its beginning; whatever is the beginning is its end. The revolution of this śākala is like the winding of a snake. Concerning its beginning and end, no one can say which is the first and which the last, which the cause and which the effect. It is without beginning and without end. Therefore those who know say, "What is the beginning must also be the end." But here there is room for another doubt. "The beginning of this Agniṣṭoma has the trivṛt; the end is of the nature of the ekaviṃśa. So the beginning is one thing and the end another. How can both be called one?" This question is natural. But there is no ground for doubt there. The ekaviṃśa is also trivṛt and is of the nature of tṛca; therefore there is no difference at all between the beginning and the end.
+
+⟦ಯೋ ವಾ ಏಷ ತಪತ್ಯೇಷೋಽಗ್ನಿಷ್ಟೋಮ ಏಷ ಸಾಹ್ನಸ್ತಂ ಸಹೈವಾಹ್ನಾ ಸಂಸ್ಥಾಪಯೇಯುಃ
+ಸಾಹ್ನೋ ವೈ ನಾಮ ತೇನಾಸಂಶ್ವರಮಾಣಾಶ್ಚರೇಯುರ್ಯಥೈವ ಪ್ರಾತಃಸವನ ಏವಂ
+ತೃತೀಯಸವನ ಏವಮು ಹ ಯಜಮಾನೋಽಪ್ರಮಾಯುಕೋ ಭವತಿ ಯದ್ಧ ನಾ ಇದಂ
+ಪೂರ್ವಯೋಃ ಸವನಯೋರಸನ್ತ್ವರಮಾಣಾಶ್ಚರಂತಿ ತಸ್ಮಾದ್ದೇದಂ ಪ್ರಾಜ್ಯೋಗ್ರಾಮತಾ
+ಬಹುಲಾವಿಷ್ಟಾ ಅಥ ಯದ್ದೇದಂ ತೃತೀಯಸವನೇ ಸಂಶ್ವರಮಾಣಾಶ್ಚರಂತಿ ತಸ್ಮಾದ್ದೇದಂ
+ಪ್ರತ್ಯಂಚಿ ದೀರ್ಘಾರಣ್ಯಾನಿ ಭವಂತಿ ತಥಾ ಹ ಯಜಮಾನಃ ಪ್ರಮಾಯುಕೋ ಭವತಿ
+ತೇನಾಸಂಶ್ವರಮಾಣಾಶ್ಚರೇಯುರ್ಯಥೈವ ಪ್ರಾತಃಸವನ ಏವಂ ಮಾಧ್ಯಂದಿನ ಏವಂ ತೃತೀಯ
+ಸವನ ಏವಮು ಹ ಯಜಮಾನೋಽಪ್ರಮಾಯುಕೋ ಭವತಿ ।⟧
+
+### Printed p. 611
+
+*[Running head, p. 611: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+Vaiśvānara Agni, shining in the form of Āditya, is the Agniṣṭoma. This Agniṣṭoma, which is a rite, is to be finished within one oblation. The end of the rite too must be joined with the end of the day; therefore it also has the name sāhna. As at the morning pressing, so at the midday pressing and at the third pressing these rites are to be carried out without the slightest hurry, with deliberation. Because the rite is performed with great deliberation at the first two pressings, the villages of the eastern part are all full of crops and people. Because at the third pressing the rites are done in some haste, the regions in the western part are all forest, uninhabited. If the work is done in haste in this way, harm comes to the sacrificer. As at the morning and midday pressings he carries out the acts with faith and deliberation, if he carries them out in the same way at the third pressing too, without haste and with deliberation, there is no harm of any kind to the sacrificer. He becomes prosperous.
+
+⟦ಸ ಏತಮೇವ ಶಸ್ತ್ರೇಣಾನುಪರ್ಯಾವರ್ತೇತ ಯದಾ ವಾ ಏಷ ಪ್ರಾತರುದೇತ್ಯಥ ಮಂದ್ರಂ ತಪತಿ
+ತಸ್ಮಾನ್ಮಂದ್ರೀಯಾ ವಾಚಾ ಪ್ರಾತಃಸವನೇ ಶಂಸೇದಥ ಯದಾಭ್ಯೇತ್ಯಥ ಬಲೀಯಸ್ತಪತಿ
+ತಸ್ಮಾದ್ಮಲೀಯಸ್ಯಾ ವಾಚಾ ಮಧ್ಯಂದಿನೇ ಶಂಸೇದಥ ಯದಾ ಭಿತರಾಮೇತ್ಯಥ ಬಲಿಷ್ಠತಮಂ
+ತಪತಿ ತಸ್ಮಾದ್ಬಲಿಷ್ಠತಮಯಾ ವಾಚಾ ತೃತೀಯಸವನೇ ಶಂಸೇದೇವಂ ಶಂಸೇದ್ಯದಿ ವಾಚಿ
+ಈಶೀತ ವಾಗ್ನಿ ಶಸ್ತ್ರಂ ಯಯಾ ತು ವಾಚೋತ್ತರೋತ್ತರಿಣೋತ್ಸಹೇತ ಸಮಾಪನಾಯ
+ತಯಾ ಪ್ರತಿಪದ್ಯೇತೈತತ್ಸುಶಸ್ತತಮಮಿವ ಭವತಿ ಸ ವಾ ಏಷ ನ ಕದಾಚೆನಾಸ್ತಮೇತಿ
+ನೋದೇತಿ ತಂ ಯದಸ್ತಮೇತೀತಿ ಮನ್ಯಂತೇಽಹ್ನ ಏವ ತದಂತಮಿತ್ವಾಥಾತ್ಮಾನಂ
+ವಿಪರಸ್ಯತೇ ರಾತ್ರಿಮೇವಾವಸ್ತಾತ್ಕುರುತೇಽಹಃ ಪರಸ್ತಾದಥ ಯದೇನಂ ಪ್ರಾತರುದೇತೀತಿ ಮನ್ಯಂತೇ ರಾತ್ರೇರೇವ ತದನ್ತಮಿತ್ವಾಥಾತ್ಮಾನಂ ವಿಪರಸ್ಯತೇಽಹರೇನಾವಸ್ತಾತ್ಕುರುತೇ ರಾತ್ರಿಂ ಪರಸ್ತಾತ್ಸ ವಾ ಏಷ ನ ಕದಾಚನ ನಿಮೋಚತಿ ನ ಹ ವೈ ಕದಾಚನ
+ನಿಮೋಚತ್ಯೇತಸ್ಯ ಹ ಸಾಯುಜ್ಯಂ ಸರೂಪತಾಂ ಸಲೋಕತಾಮಶ್ನುತೇ ಯ ಏವಂ ವೇದ
+ಯ ಏವಂ ವೇದ⟧
+(printed ಇ ಬ್ರಾ. 14-44, i.e. Ai. Brā. 14-44; the last words are followed by a stray "li" in the supplied text, for the closing ॥)
+
+These rites of the Jyotiṣṭoma must be followed in every way in accordance with the movement of Āditya. In the recitation of mantras too the qualities in the revolution of Āditya must be followed. Since Āditya at rising shines gently, the sacrificer (or hotṛ) should recite the mantra gently (softly) at the time of the morning pressing. At midday the radiance and heat of Āditya increase, and so at the time of the midday pressing the recitation of the mantras should be with a raised body and a high voice. As he moves further, the heat of the radiance of Āditya still
+
 ---
 
-**Progress note:** Done through printed p. 607 (PDF 607). Sūkta 3 Pīṭhike: Agniṣṭoma identity, Aitareya Brāhmaṇa 14-39 to 14-41; cut mid-sentence
+**Progress note:** Done through printed p. 611 (PDF 611). Sūkta 3 Pīṭhike: Aitareya Brāhmaṇa 14-42 to 14-44 (Agniṣṭoma, Catuṣṭoma, Jyotiṣṭoma); p. 609 head merged, fixed; cut mid-sentence
