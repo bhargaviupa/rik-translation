@@ -15783,6 +15783,93 @@ Render me vigorous, Agni, since you have made me the bearer of the Soma to offer
 ⟦ಅಗ್ನೇ ವಿದಥೇ ಯಜಧ್ಯೈ ಸೋಮಸ್ಯ ವಹ್ನಿಂ ಮಾ ಚಕರ್ಥ ತವಸಂ ವಕ್ಷಿ—ಹೇ ಅಗ್ನೇ
 ಯಜ್ಞೇ ಯಷ್ಟುಂ ಸೋಮಸ್ಯ ವೋಢಾರಂ ಮಾಂ ಚಕರ್ಥ ತಸ್ಮಾನ್ಮಾಂ ಬಲಿನಂ ಕಾಮಯಸ್ವ ।⟧ O Agni, you have made me the bearer of soma, to offer in the sacrifice; therefore wish me strong. O Agni, in the sacrifice we are now performing, to offer to the gods you have made me the bearer of soma, so that I may bear it
 
+### Printed p. 498
+
+*[Running head, p. 498: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+(standing holding it) you have made me. Therefore wish and give the strength required for doing that work. That is: I stand ready, bearing soma to offer to the gods at the sacrifice. This is your power. The sacrificer prays to Agni to give him also the strength and capacity fit to carry out that work successfully.
+
+विदथे— (*vidathe—*)the word विदथ (*vidatha*) is read among the names of the sacrifice (Ni. 3-9). For a detailed explanation of this word see Ṛ. Saṃ. Part 13, pages 9 to 13.
+
+वह्निं- (*vahniṃ-*)the word वह्नि (*vahni*) is read among the names of the horse (Ni. 2-27), and Yāska has given the etymology वह्नयो वोढारः (*vahnayo voḍhāraḥ*) (Ni. 8-3). The word वह्नि (*vahni*) means bearing a burden, carrying.
+
+⟦ದೇವಾನ್ ಅಚ್ಛ ದೀದ್ಯತ್ ಅದ್ರಿಂ ಯುಂಜೇ ಶಮಾಯೇ—ಹೇ ಅಗ್ನೇ ದೇವಾನಭಿ ದೀಪ್ಯಮಾ
+ನೋSಹಂ ಸೋಮಾಭಿಷವಣಾಯ ಗಾವಾಣಂ ಯುನಜ್ಮಿ ದೇವಾನ್ ಸ್ತೌಮಿ ಚ ।⟧ O Agni, for pressing the soma, that is, for crushing the soma plants and extracting the juice, I hold in my hand the stone that is the means of it, and, standing before the gods (facing them), I honour and praise them.
+
+अच्छ— (*accha—*)on this word Yāska has given the etymology अच्छाभेराप्तुमिति शाकपूणिः । (*acchābherāptumiti śākapūṇiḥ |*) Durgācārya: ⟦ಅಚ್ಛ ಇತ್ಯೇವ ಶಬ್ದೋ ಅಭೇಃ ಅರ್ಥೇ ಭವತಿ । ಆಪ್ತಂ ಇತಿ ।
+ಯೋSರ್ಥಃ ಉಕ್ತಃ ಸ್ಯಾತ್ ಸ ಏವಾರ್ಥಃ ಅಚ್ಛೇತ್ಯನೇನೋಕ್ತೋ ಭವತಿ ಏವಂ ಶಾಕಪೂಣಿಃ
+ಆಚಾರ್ಯೋ ಮನ್ಯತೇ ।⟧ Here Yāska states only the view of the teacher Śākapūṇi regarding the word अच्छ (*accha*): the meaning the word अभि (*abhi*) has (below) is the meaning of the word अच्छ (*accha*) too. In general this word may be used in any sense. Therefore the word अच्छ (*accha*) is explained as "facing". Though this word ends in a short vowel, it is used with a long final vowel in the Saṃhitā text for the convenience of the metre.
+
+अद्रिं—अभिषवसाधनं । (*adriṃ—abhiṣavasādhanaṃ |*) The meaning is the stone that crushes and presses the soma juice. For this implement there are two usages, अद्रि (*adri*) and ग्राव (*grāva*). Although both these words have the common meaning "stone", it may be said, from their descriptions and epithets, that अद्रि (*adri*) and ग्राव (*grāva*), the implements for pressing the soma juice, must have differed in form. In general, whenever the word अद्रि (*adri*) occurs, Sāyaṇa explains it as ग्राव (*grāva*), and whenever the word ग्राव (*grāva*) occurs, as stone
+
+### Printed p. 499
+
+*[Running head, p. 499: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+(पाषाण (*pāṣāṇa*)). But this difference of meaning is not the basis for showing their difference. It is known that these two implements are different from the epithets that describe their form, from the comparisons, and from the words indicating the sounds they make while pressing the soma juice. ⟦ಬಬೃಹಾಣ, (ಋ. ಸಂ. ೫-೪೧-೧೨); ಪರ್ವತ (೧೦-೯೪-೧); ಆಶ್ರಮಣ, ಅಶೃಥಿತ, ಅಮೃತ್ಯು, ಅನಾತುರ,
+ಅಜರ, ಅಮವಿಷ್ಣು (೧೦-೯೪-೧೧); ಧ್ರುವ, ಕ್ಷೇಮಕಾಮ⟧ (Ṛ. Saṃ. 5-41-12; 10-94-1; 10-94-11; 10-94-12), all these are epithets showing the distinctive character of अद्रि (*adri*). In the same way epithets such as पृथु (*pṛthu*) and पृथुबुध (*pṛthubudha*) show the distinctive character of ग्राव (*grāva*) alone. ग्राव (*grāva*) is generally compared to a bull and अद्रि (*adri*) to a horse.
+
+अद्रिरादृणात्येतेन । अपि ना अत्तेः स्यात् ॥ (*adrirādṛṇātyetena | api nā atteḥ syāt ‖*)
+(Ni. 4-4)
+
+The word अद्रि (*adri*) is formed either from the root दृ (*dṛ*), giving the sense "split", or from the root अद् (*ad*), giving the sense "eat". This word is used not only in the sense of pressing the juice or its implement but in other senses too. For example—
+
+⟦ಉತ ಸ್ಮ ತೇ ಪರುಷ್ಣ್ಯಾಮೂರ್ಣಾ ವಸತ ಶುಂಧ್ಯವಃ ।
+ಉತ ಪವ್ಯಾ ರಥಾನಾಮದ್ರಿಂ ಭಿಂದಂತ್ಯೋಜಸಾ ॥⟧
+(Ṛ. Saṃ. 5-52-9)
+
+Here the strength of the chariots of the Maruts is described. When it is said that even the अद्रि (*adri*) are split by the force of the wheels of that chariot, the word अद्रि (*adri*) is explained as a cloud (मेघं (*meghaṃ*)) or गिरिं (*giriṃ*), a cloud or a mountain.
+
+⟦ಬ್ರಹ್ಮಾಣಿ ಮೇ ಮತಯಃ ಶಂ ಸುತಾಸಃ ಶುಷ್ಮ ಇಯರ್ತಿ ಪ್ರಭೃತೋ ಮೇ ಅದ್ರಿಃ ।
+ಆ ಶಾಸತೇ ಪ್ರತಿ ಹರ್ಯಂತುಕ್ಥೇಮಾ ಹರೀ ವಹತಸ್ತಾ ನೋ ಅಚ್ಛ ॥⟧
+(Ṛ. Saṃ. 1-165-4)
+
+Here, in the conversation between Indra and the Maruts, Indra praises the power of his thunderbolt. Here the word अद्रि (*adri*) means शत्रोणां भक्षको वज्रः । (*śatroṇāṃ bhakṣako vajraḥ |*) [as supplied], the thunderbolt that destroys enemies.
+
+बृहस्पतिर्भिनदद्रिं विदद्गाः समुद्रियाभिर्वावशंत नरः ॥ (*bṛhaspatirbhinadadriṃ vidadgāḥ samudriyābhirvāvaśaṃta naraḥ ‖*)
+(Ṛ. Saṃ. 1-62-3)
+
+In Ṛks such as this it is taken to mean an asura, and—
+
+⟦ಮಹಃ ಸ ರಾಯ ಏಷತೇ ಪತಿರ್ದನ್ನಿನ ಇನಸ್ಯ ವಸುನಃ ಪದ ಆ ।
+ಉಪ ಧ್ರಜಂತಮದ್ರಯೋ ವಿಧನ್ನಿತ್ ॥⟧
+(Ṛ. Saṃ. 1-149-9)
+
+### Printed p. 500
+
+*[Running head, p. 500: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+in places such as this it means sacrificers who have अद्रि (*adri*), that is, pressing stones. Thus the word अद्रि (*adri*) has many meanings. Besides, it is also explained as अत्तारं, असुरं, भक्षकं पणिं (*attāraṃ, asuraṃ, bhakṣakaṃ paṇiṃ*). In another context, when giving an explanation of this word, the Nirukta authors—
+
+⟦ಯದಿಂದ್ರ ಚಿತ್ರ ಮೇಹನಾಸ್ತಿ ತ್ವಾದಾತಿಮದ್ರಿವಃ ।
+ರಾಧಸ್ತನ್ನೋ ವಿದದ್ವಸ ಉಭಯಾಹಸ್ತ್ಯಾ ಭರ ॥⟧
+(Ma. [printed ಮ., for Ṛ.] Saṃ. 5-39-1)
+
+—cite this Ṛk and show how the sense वज्रवन् इंद्र (*vajravan iṃdra*), "Indra with the thunderbolt", is possible for the vocative that means "possessor of the stone" in this Ṛk. Thus, since the root or roots of the word अद्रि (*adri*) give different meanings through derivations suited to the context, it must be explained according to each occasion. In the present Ṛk it means अभिषवसाधनं । (*abhiṣavasādhanaṃ |*), the stone that presses the soma juice.
+
+शमाये—शाम्यामि । (*śamāye—śāmyāmi |*) I pacify, that is, I appease. On this matter the commentator—
+
+ऋतेन देवस्सविता शमायत ऋतस्य शृंगमुर्विया वि पप्रथे । (*ṛtena devassavitā śamāyata ṛtasya śṛṃgamurviyā vi paprathe |*)
+(Ma. [printed so] Saṃ. 8-86-5)
+
+—cites this Ṛk and shows that the word शमायते (*śamāyate*) in it has the meaning ⟦ಸಾಯಂಕಾಲೇ ಸ್ವಕಿರಣಸಮೂಹಂ
+ಶಮಯತಿ⟧, "the Sun, in the evening, calms his mass of rays", that is, withdraws. Besides, saying that शमाये (*śamāye*) has another meaning, सौमि (*saumi*), "I praise", for its support he cites—
+
+सो अग्न ईजे शशमे च मर्तो यस्त आनट् समिधा हव्यदातिं । (*so agna īje śaśame ca marto yasta ānaṭ samidhā havyadātiṃ |*)
+(Ma. [printed so] Saṃ. 6-1-9)
+
+—and shows that the word शशमे (*śaśame*) in it has the sense शशमे—स्तौति (*śaśame—stauti*), "praises".
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> प्रांचं॑ य॒ज्ञं च॑क्रम॒ वर्ध॑तां॒ गीः स॒मिद्धि॑र॒ग्निं नम॑सा दुवस्यन् ।
+> दि॒वः श॑शासुर्वि॒दथा॑ कवी॒नां गृत्सा॑य चित्त॒वसे॑ गा॒तुमी॑षुः ॥ २ ॥
+
+> *prāṃcaṃ yajñaṃ cakrama vardhatāṃ gīḥ samiddhiragniṃ namasā duvasyan |*
+> *divaḥ śaśāsurvidathā kavīnāṃ gṛtsāya cittavase gātumīṣuḥ ‖ 2 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 497 (PDF 497). Pithike to Viswamitra finished (p. 495; sentence on Rigveda evidence cut off in supplied text); Sukta 1 of Mandala 3 begins (pp. 495-496): Sayana introduction, Anuvada start (breaks off), heading; Rik 1 complete (pp. 496-497); Special Topics start, ends mid-sentence. Flags: truncated lines in supplied text at p. 495 and p. 496; stray line 32; ornament lines as notes; 1 accent DIFF
+**Progress note:** Done through printed p. 500 (PDF 500). Sukta 1 (Mandala 3) Rik 1 Special Topics finished (pp. 498-500): word notes on vidatha, vahni, accha, adri (many Rik citations), shamaye; Rik 2 Samhita placed at end of p. 500. Flags: Ma. Sam. for Ri. Sam. in several citations; 1 accent DIFF; all inline quotes script-copied
