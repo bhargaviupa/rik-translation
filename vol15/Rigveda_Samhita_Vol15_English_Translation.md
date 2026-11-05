@@ -212,4 +212,4 @@ That is: "Or this mantra may be said to be addressed to Agni. Because he is lord
 
 ---
 
-**Progress note:** Done through printed p. 8 (PDF 8). Done through printed p. 8 (PDF 8). Maṇḍala 2 Pīṭhike continues: Bṛhaspati's qualities and deeds, Western scholars on Bṛhaspati/Brahmaṇaspati as forms of Agni, Sāyaṇa on 5-43-12. Three Sanskrit quotations on p. 8 made into blocks by hand; the ':' between 2-23-18 and 1-56-5 changed to ';' in kn.md (reference parsing); refs ಪು. ಸಂ. (2-1-3) printed as supplied; heading numeral 'ಮ.' on p. 7 as supplied. No [?].
+**Progress note:** Done through printed p. 8 (PDF 8). Maṇḍala 2 Pīṭhike continues: Bṛhaspati's qualities and deeds, Western scholars on Bṛhaspati/Brahmaṇaspati as forms of Agni, Sāyaṇa on 5-43-12. Three Sanskrit quotations on p. 8 made into blocks by hand; the ':' between 2-23-18 and 1-56-5 changed to ';' in kn.md (reference parsing); refs ಪು. ಸಂ. (2-1-3) printed as supplied; heading numeral 'ಮ.' on p. 7 as supplied. No [?].
