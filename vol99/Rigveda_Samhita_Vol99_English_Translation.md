@@ -824,6 +824,116 @@ Agni, descendant of Bharata, you are entirely ours. when sacrificed to with preg
 > *dru 'nnaḥ | sarpi 'āsutiḥ | pratnaḥ | hotā | vareṇyaḥ |*
 > *sahasaḥ | putraḥ | adbhutaḥ ‖ 6 ‖*
 
+### Printed p. 525
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 28, Ṛgveda-saṃhitā, p. 525.*
+
+**॥ सायणभाष्यम् ॥**
+
+> द्र्वन्नः समिद्रूपान्नः सर्पिरासुतिः सर्पिरासूयत आसिच्यते यस्मिन् तादृशः
+> प्रत्नः पुरातनो होता होमनिष्पादको वरेण्यो वरणीयः सहसस्पुत्रः सहसो
+> बलस्य पुत्रस्थानीयः । बलेनोत्पन्नत्वात् । अद्भुत आश्चर्यभूतः । रमणीय
+> इत्यर्थः । एवं महानुभावोऽग्निर्मामनुजानात्वित्यर्थः ॥
+
+*Gist:* Agni, whose food is fuel, sprinkled with ghee, ancient, the invoker, the choice one, the son of strength, wonderful; may such an Agni favour me.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+द्वन्नः (*dvannaḥ*)—one whose food is fuel. सर्पिरासुतिः (*sarpirāsutiḥ*)—one who is sprinkled with ghee. प्रत्नः (*pratnaḥ*)—the ancient one. होता (*hotā*)—the accomplisher of the oblation. वरेण्यः (*vareṇyaḥ*)—the desired one. सहसस्पुत्रः (*sahasasputraḥ*)—the son of strength [the supplied text reads "ಶಕ್ತಿ ಪುತ್ರನೂ", "son of power"]. अद्भुतः (*adbhutaḥ*)—the wondrous one [printed आश्चरभूतनू (*āścarabhūtanū*), as supplied]. (May such Agni favour us.)
+
+**भावार्थ (Bhāvārtha)**
+
+May Agni, whose food is fuel, who is sprinkled with ghee, the ancient one, the accomplisher of the oblation, desired by all, the son of strength, the wondrous one, favour us.
+
+**Printed English translation**
+
+Feeder upon fuel, to whom butter is offered,(you are) the ancient, the invoker of the gods, the excellent; the son of strength, the wonderful.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+द्र्वन्नः (*drvannaḥ*)—द्रुऽन्नः (*dru 'nnaḥ*). समिद्रूपान्नः (*samidrūpānnaḥ*). Fuel sticks are the food (nourishment) of Agni. The fuel sticks are connected with द्रु (*dru*), a tree; so द्र्वन्नः (*drvannaḥ*) means Agni who has as food the fuel sticks connected with trees.
+
+सर्पिरासुतिः (*sarpirāsutiḥ*)—Although the word सर्पिः (*sarpiḥ*) is read among the names of water (Ni. 2-24), the word सर्पिः (*sarpiḥ*) also means ghee. The commentator in the Ṛks
+
+त्वं हि मानुषे जनेऽग्ने सुप्रीत इध्यसे । सुचस्त्वा यंत्यानुषक्सुजात सर्पिरासुते ॥ (*tvaṃ hi mānuṣe jane 'gne suprīta idhyase | sucastvā yaṃtyānuṣaksujāta sarpirāsute ‖*) (Ṛ. Saṃ. 5-21-2)
+
+आ यस्ते सर्पिरासुतेऽग्ने शमस्ति धायसे । (*ā yaste sarpirāsute 'gne śamasti dhāyase |*) (Ṛ. Saṃ. 5-7-9)
+
+has explained the word सर्पिरासुते (*sarpirāsute*) as "food mixed with ghee". Since ghee is offered into Agni in sacrifices, that ghee is said to be Agni's food. Therefore Agni is addressed in many places by the word सर्पिरासुति (*sarpirāsuti*).
+
+### Printed p. 526
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 8, p. 526.*
+
+**Special Topics (continued)**
+
+प्रश्नॆ (*praśnè*) [as supplied; the word commented is प्रत्न (*pratna*) of the Ṛk]—the word is read among the names of the ancient (Ni. 3-20); it means one who is old, who has existed from long ago. Not only this sage who praises Agni, but those more ancient than this sage also praised him for a long time. Therefore Agni is said to be of very ancient time.
+
+सहसः पुत्रः (*sahasaḥ putraḥ*)—When fire is produced by churning in the fire-sticks (araṇi), the priests have to use the strength of their arms greatly; hence it is very common in the Ṛgveda to say that Agni is born of strength, the son of strength.
+
+*The eighth sūkta.*
+
+## Sūkta 8 (Maṇḍala 2)
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> वाजयन्निवेति षडृचमष्टमं सूक्तं । सोमाहुतेर्हशब्दानुवृत्तस्याभावा-
+> न्मंडलद्रष्टा गृत्समद ऋषिः । अग्निर्देवता । हिशब्दाद्गायत्री छंदः । अंत्यानुष्टुप् ।
+> वाजयन्निवांत्यानुष्टुबित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोस्तृतीयसूक्तत्वे-
+> नास्योत्तमावर्जितस्य विनियोग उक्तः ॥
+
+*Gist:* *vājayanniva* is the eighth sūkta, six ṛks; seer Gṛtsamada, deity Agni, Gāyatrī with the last Ṛk Anuṣṭubh; used in the Prātaranuvāka and Āśvina-śastra.
+
+**Anuvāda (Kannada)**
+
+This sūkta वाजयन्निव (*vājayanniva*) is the eighth sūkta in the first anuvāka. It has six ṛks. The seer of this sūkta is Gṛtsamada, the seer of the maṇḍala; the deity is Agni; the metre is Gāyatrī, only the last ṛk being in Anuṣṭubh. In the Anukramaṇikā it is said: वाजयन्निवांत्यानुष्टुप् (*vājayannivāṃtyānuṣṭup*). It was said before that the Ṛks of this sūkta (except the last) are employed for the Gāyatrī-metre ṛks in the recitation of the Prātaranuvāka and the Āśvina-śastra mantras.
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 8. Maṇḍala 2, Anuvāka 1, Sūkta 8. Aṣṭaka 2, Adhyāya 5, Varga 29. Number of ṛks in the sūkta: 6. Seer: Gṛtsamada. Deity: Agni. Metre: 1–5 Gāyatrī, 6 Anuṣṭubh.
+
+### Printed p. 527
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 29, Ṛgveda-saṃhitā, p. 527.*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> वा॒ज॒यन्नि॑व॒ नू रथा॒न्योगा॑ अ॒ग्नेरुप॑ स्तुहि ।
+> य॒शस्त॑मस्य मा॒हुषः॑ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> वाजयन् इव । नु । रथान् । योगान् । अग्नेः । उप । स्तुहि ।
+> यशःतमस्य । माहुषः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अंतरात्मन् नु क्षिप्रमग्नेयोगानश्वनुपस्तुहि । कीदृशस्याग्नेः । यशस्त-
+> मस्य प्रवृद्धयशसः ॥ मत्त्वर्थो लुप्यते ॥ मीळ्हुषः सेक्तुः फलस्य । ईदृशस्य
+> योगान् स्तुहि । होतरिति वा संबोध्यं । स्तुतौ दृष्टांतः । वाजयन्निव । अन्न-
+> मिच्छन् पुरुष इव । स यथाश्वान् गमनाय स्तौति तद्वत् । यद्योक्तलक्षणस्याग्ने-
+> र्गमनसाधनान्रथान् स्तुहि ॥
+
+*Gist:* O inner self, quickly praise the horses and chariots of Agni, the most renowned and munificent, like one wishing for food who urges his horses.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यशस्तमस्य (*yaśastamasya*)—of him whose fame is spread most widely; मीळ्हुषः (*mīḷhuṣaḥ*)—who gives fruits generously; अग्नेः (*agneḥ*)—of Agni; योगान् (*yogān*)—the horses; रथान् (*rathān*)—the chariots; वाजयन्निव (*vājayanniva*)—as one who desires food urges the horses of his chariot; नु (*nu*)—quickly; उप स्तुहि (*upa stuhi*)—praise.
+
+**भावार्थ (Bhāvārtha)**
+
+O inner self, as one who desires food urges the horses of his chariot, quickly praise the horses and chariots of Agni, whose fame is spread most widely and who gives fruits generously.
+
+**Printed English translation**
+
+Praise quickly the yoked chariot of the glorious and munificent Agni, like one who is desirous of food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk, Sāyaṇa has explained the meaning of the Ṛk by addressing the inner self (antarātman) and saying "praise the horses and chariots of Agni". Here it is not necessary to address the inner self alone. Any of the priests taking part in the sacrifice, or the sacrificer, may be addressed.
+
 ---
 
-**Progress note:** Done through printed p. 524 (PDF 524). Sukta 7 Rk 4-5 complete, Rk 6 Samhita and Pada; labels and blocks of Rk 4, 5, 6 repaired in kn.md
+**Progress note:** Done through printed p. 527 (PDF 527). Sukta 7 Rk 6 bhasya and special topics; Sukta 8 intro and Rk 1; Pada/bhasya merge split in kn.md
