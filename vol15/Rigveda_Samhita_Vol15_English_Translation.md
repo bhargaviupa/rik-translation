@@ -12033,6 +12033,99 @@ In this ṛk the Aśvin gods are prayed, by many illustrations, to carry us, who
 
 नावेव नः पारयतं—हे अश्विनौ नावाविव सिंधून् दुर्गाणि पारयतं । (*nāveva naḥ pārayataṃ—he aśvinau nāvāviva siṃdhūn durgāṇi pārayataṃ |*) O Aśvin gods, as a boat or ferry carries across rivers, remove our difficulties and carry us across our troubles. As rivers are crossed easily by a boat, so by your grace make us escape from our troubles — this is the sense.
 
+### Printed p. 378
+
+*[Running head, p. 378: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 39. Line-end hyphens in the Sanskrit quotation joined by hand in the Kannada text. The Special Topics of Ṛk 4 continue from p. 377.]*
+
+युगेव नभ्येव उपधीव प्रधीव नः (पारयतं) (*yugeva nabhyeva upadhīva pradhīva naḥ (pārayataṃ)*)—The yokes of a chariot, its axle, its spokes (*iraci*, as supplied) and its outer rims carry the chariot over (so that it travels easily); in the same way carry us out of sorrow.
+
+श्वानेव नः तनूनां अरिषण्या—यथा श्वानौ बाधकेभ्यो रक्षंतौ तनोर्हिंसामपनयतः तथा अस्माकं अंगानां अहिंसकौ भवतं । (*śvāneva naḥ tanūnāṃ ariṣaṇyā—yathā śvānau bādhakebhyo rakṣaṃtau tanorhiṃsāmapanayataḥ tathā asmākaṃ aṃgānāṃ ahiṃsakau bhavataṃ |*) As the dogs we keep near us protect us from enemies who would do us harm, so protect us that no harm comes to our bodies.
+
+खृगलेव विस्रसः अस्मान् पातं—यथा तनुत्राणे तनुहिंसाया रक्षतः तथा युवां जरायाः अस्मान् पातं । (*khṛgaleva visrasaḥ asmān pātaṃ—yathā tanutrāṇe tanuhiṃsāyā rakṣataḥ tathā yuvāṃ jarāyāḥ asmān pātaṃ |*) As the protective armour (iron coats of mail, "Armour" as printed in English) that we wear in battle and the like guards our body from the weapons of enemies, so protect us from the affliction of old age — this is the main purport.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> वाते॑वाजु॒र्या न॒द्ये॑व री॒तिर॒क्षी इ॑व॒ चक्षु॒षा या॑तम॒र्वाक् ।
+> हस्ता॑विव त॒न्ने॒३॒॑ ३ शंभ॑विष्ठा॒ पादे॑व नो नयतं॒ वस्यो॒ अच्छ॑ ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> वाताइव । अजुर्या । नद्याइव । रीतिः । अक्षी इवेत्यक्षी इव । चक्षुषा । आ ।
+> यातं । अर्वाक् ।
+> हस्तौ इव । तन्वे । शंभविष्ठा । पादाइव । नः । नयतं । वस्यः । अच्छ ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विनौ वातेव वाताविवाजुर्या जरितुमशक्य नद्येव नद्याविव रीतिः ॥
+> व्यत्ययेनैकवचनं ॥ शीघ्रं गंतार् युवां । अक्षी इव आक्षिणी इव चक्षुषा दर्शनेनार्वागस्मदभिमुखमायातं । आगच्छतं । किंच हस्तेव हस्ताविव पादेव पादाविव
+> तन्वे शरीराय शंभविष्ठा सुखस्य भावयितृतमौ युवां नोऽस्मान् वस्को वसीयः
+> श्रेष्ठं धनमच्छ प्रति नयतं । प्रापयतं ॥
+
+> *he aśvinau vāteva vātāvivājuryā jaritumaśakya nadyeva nadyāviva rītiḥ ‖*
+> *vyatyayenaikavacanaṃ ‖ śīghraṃ gaṃtār yuvāṃ | akṣī iva ākṣiṇī iva cakṣuṣā darśanenārvāgasmadabhimukhamāyātaṃ | āgacchataṃ | kiṃca hasteva hastāviva pādeva pādāviva*
+> *tanve śarīrāya śaṃbhaviṣṭhā sukhasya bhāvayitṛtamau yuvāṃ no 'smān vasko vasīyaḥ*
+> *śreṣṭhaṃ dhanamaccha prati nayataṃ | prāpayataṃ ‖*
+
+*(Gist: like winds, like rivers, like two eyes come toward us; like hands and feet, bringers of comfort to the body, lead us to the best wealth. The bhāṣya has a Saṃhitā-form हस्तेव (*hasteva*) for the Saṃhitā's हस्ताविव (*hastāviva*) in places, and गंतार् (*gaṃtār*) and वस्को (*vasko*) as supplied; not corrected. The Saṃhitā's तन्ने (*tanne*) is as supplied; the Pada has तन्वे (*tanve*).)*
+
+### Printed p. 379
+
+*[Running head, p. 379, as supplied: "ಅ. ೨. ಅ. ೮. ನ. ೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 379" (garbled; the page is 379). The bhāṣya of Ṛk 5 is complete on p. 378.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Aśvinau—O Aśvin gods.) अजुर्या (*ajuryā*) (*ajuryā*)—of unobstructed power. वातेव (*vāteva*) (*vāteva*)—like the storm winds. रीतिः (*rītiḥ*) (*rītiḥ*)—swiftly flowing. नद्येव (*nadyeva*) (*nadyeva*)—like rivers. चक्षुषा (*cakṣuṣā*) (*cakṣuṣā*)—having power of sight. अक्षीव (*akṣīva*) (*akṣīva*)—like eyes. अर्वाक् (*arvāk*) (*arvāk*)—toward us. आ यातं (*ā yātaṃ*) (*ā yātaṃ*)—come. हस्तौ इव (*hastau iva*) (*hastau iva*)—like two hands. पादा इव (*pādā iva*) (*pādā iva*)—like two feet. तन्वे (*tanve*) (*tanve*)—to the body. शंभविष्ठा (*śaṃbhaviṣṭhā*) (*śaṃbhaviṣṭhā*)—you who bring comfort. नः (*naḥ*) (*naḥ*)—us. वस्यः अच्छ (*vasyaḥ accha*) (*vasyaḥ accha*)—toward the best wealth. नयतं (*nayataṃ*) (*nayataṃ*)—lead.
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin gods, come toward us like the storm winds of unobstructed power, like swiftly flowing rivers, like eyes that have the power of sight. You who bring comfort to the body like two hands and two feet, lead us toward the best wealth.
+
+**English Translation (as printed)**
+
+Irresistible as two winds, rapid as two rivers, and quick of sight, come like two eyes before ns [sic]; like two hands; like two feet; subservient to the well-being of our bodies, conduct us to (the acquirement) of excellent (wealth).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अजुर्या वातेव, रीतिः नद्येव, चक्षुषा अक्षी इव अर्वाक् आ यातं । (*ajuryā vāteva, rītiḥ nadyeva, cakṣuṣā akṣī iva arvāk ā yātaṃ |*) The ṛṣi prays by illustrations that the Aśvin gods come quickly to us. Nothing can check the speed of a storm wind; it uproots the trees and the like in front of it. Often huts and houses cannot bear its force and are flung to a distant place. At sea it sinks ships. Therefore the force of the storm is unobstructed; nothing stands against it. In the same way a swiftly flowing river sweeps away everything in its path, and no one can stop a river's flow. For well-seeing eyes nothing is hidden; they can see what is near and what is far; their power of sight is vast. Therefore, O Aśvin gods, come toward us with unobstructed motion like the force of the storm, like a swiftly flowing river, like eyes that see everything. No one has the power to stop your coming toward us.
+
+### Printed p. 380
+
+*[Running head, p. 380: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 39. The Special Topics of Ṛk 5 continue from p. 379.]*
+
+हस्ताविव पादेव तन्ने शंभविष्ठा नः वस्य अच्छ नयतं—यथा हस्तौ पादौ शरीराय सुखस्य भावयित्यृतमौ तथा युवां आस्मान् श्रेष्ठं धनं प्रति प्रापयतं । (*hastāviva pādeva tanne śaṃbhaviṣṭhā naḥ vasya accha nayataṃ—yathā hastau pādau śarīrāya sukhasya bhāvayityṛtamau tathā yuvāṃ āsmān śreṣṭhaṃ dhanaṃ prati prāpayataṃ |*) As the legs and hands in the body, wishing only the welfare of the body, work to give the body comfort, so, for our comfort, provide us, both of you, with the best wealth we need — this is the purport. (Quotation as supplied: तन्ने (*tanne*), भावयित्यृतमौ (*bhāvayityṛtamau*), आस्मान् (*āsmān*) not corrected.)
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> ओष्ठा॑विन॒ मध्वा॒स्ने वदं॑ता॒ स्तना॑विन पिप्यतं जी॒वसे॑ नः ।
+> नासे॑व नस्त॒न्वो॑ रक्षि॒तारा॒ कर्णा॑विन सु॒श्रुता॑ भूतम॒स्मे ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> ओष्ठौ इव । मधु । आस्ने । वदंता । स्तन्सौ इव । पिप्यतं । जीवसे । नः ।
+> नासा इव । नः । तन्वः । रक्षितारा । कर्णौ इव । सुश्रुता । भूतं । आस्मे इति ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विनौ ओष्ठाविवास्न आस्याय मधुररसवद्वचनं वदंतौ स्तनाविव नोऽस्मान्
+> जीवसे जीवनाय पिप्यतं । प्याययतं । किंच नासेव नासिके इव नोऽस्माकं
+> तन्वस्तनो रक्षितारा रक्षितारौ भूतं । भवतं । अपि च कर्णाविवास्मे आस्माकं सुश्रुता
+> सुश्रवणे युवां भूतं । भवतं ॥
+
+> *he aśvinau oṣṭhāvivāsna āsyāya madhurarasavadvacanaṃ vadaṃtau stanāviva no 'smān*
+> *jīvase jīvanāya pipyataṃ | pyāyayataṃ | kiṃca nāseva nāsike iva no 'smākaṃ*
+> *tanvastano rakṣitārā rakṣitārau bhūtaṃ | bhavataṃ | api ca karṇāvivāsme āsmākaṃ suśrutā*
+> *suśravaṇe yuvāṃ bhūtaṃ | bhavataṃ ‖*
+
+*(Gist: like lips speaking sweetly to the mouth, like breasts nourish us for life; like the nose guard our bodies; like ears be good listeners for us. Spellings in the Saṃhitā and Pada (ओष्ठाविन (*oṣṭhāvina*), स्तनाविन (*stanāvina*), स्तन्सौ (*stansau*), आस्मे (*āsme*)) are as supplied, not corrected.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Aśvinau—O Aśvin gods!) आस्ने (*āsne*) (*āsne*)—in the mouth. ओष्ठाविन (*oṣṭhāvina*) (*oṣṭhāvina*) [as supplied]—like the lips. मधु (*madhu*) (*madhu*)—sweetly. वदंता (*vadaṃtā*) (*vadaṃtā*)—speaking, and. स्तनाविव (*stanāviva*) (*stanāviva*)—like breasts (the Kannada gloss is printed स्तगळंतॆ (*stagaḷaṃtè*), a syllable missing). नः (*naḥ*) (*naḥ*)—us. जीवसे (*jīvase*) (*jīvase*)—for life. पिप्यतं (*pipyataṃ*) (*pipyataṃ*)—be nourishers. नासेव (*nāseva*) (*nāseva*)—like the nose. नः (*naḥ*) (*naḥ*)—our. तन्वः (*tanvaḥ*) (*tanvaḥ*)—of the body. रक्षितारा (*rakṣitārā*) (*rakṣitārā*)—be protectors. कर्णाविव (*karṇāviva*) (*karṇāviva*)—like ears. सुश्रिता (*suśritā*) (*suśritā*) [as supplied; the Saṃhitā has सुश्रुता (*suśrutā*)]—hearing excellent praises and the like. अस्मे (*asme*) (*asme*)—on our behalf. भूतं (*bhūtaṃ*) (*bhūtaṃ*)—be.
+
 ---
 
-**Progress note:** Done through printed p. 377 (PDF 377). Sukta 39 Rk 3 and Rk 4 complete (Rk 4 Special Topics may continue on p. 378); flags: bhashya pratyarnagabhimukha as supplied, pratipadartha yugeva 'rogas' vs Bhavartha 'nogas', 'asman' spelt with long a, printed 'cas' sic, stray line 'Bhanuvara' kept, squiggle note, Rk 4 Pada hyphen/S joined by hand, one accent DIFF
+**Progress note:** Done through printed p. 380 (PDF 380). Sukta 39 Rk 4 Special Topics complete; Rk 5 complete; Rk 6 through Pratipadartha (Bhavartha, printed English, Special Topics follow on p. 381). Flags: line-end hyphens joined by hand in one bhashya block and one Special Topics quotation; supplied spellings kept (tanne, asman/asmaan, oshthavina, stanavina, stansau, sushrita vs sushruta, vasko, gantar); garbled p. 379 running head noted; printed 'ns' sic
