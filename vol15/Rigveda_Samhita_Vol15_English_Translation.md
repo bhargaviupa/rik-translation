@@ -20724,6 +20724,93 @@ In these Ṛks, and in the Ṛks Ṛ. Saṃ. 3-7-1; 3-54-16; 4-33-3; 4-34-9; 4-3
 ते सूनवः स्वपसः सुदंससो मही जज्जुर्मातरा पूर्वचित्तये । (*te sūnavaḥ svapasaḥ sudaṃsaso mahī jajjurmātarā pūrvacittaye |*)
 (Ṛ. Saṃ. 1-159-3)
 
+### Printed p. 665
+
+*[Running head, p. 665: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+and in the Ṛks Ṛ. Saṃ. 1-142-7; 3-1-7; 3-5-7; 3-7-1; 3-33-1; 3-33-3; 4-22-4; 5-5-6; 6-17-7; 6-32-1; 7-2-5; 7-7-3; 8-99-6; 9-9-3; 9-68-4; 9-70-6; 9-75-4; 9-85-12; 9-102-7; 10-1-7; 10-35-3; 10-59-8; 10-64-14; 10-79-4; 10-120-7; 10-140-2, the word mātarā is used in the sense of parents. Besides, the word mātarāpitarā
+
+न यस्य सातुर्जुनितोरवारि न मातरापितरा नू चिदिष्टौ । (*na yasya sāturjunitoravāri na mātarāpitarā nū cidiṣṭau |*)
+(Ṛ. Saṃ. 4-6-7)
+
+is read in only this one Ṛk. The same meaning applies to this word. Generally these words, besides indicating the sense of parents, in many contexts indicate heaven and earth too.
+
+Dyāvāpṛthivī—heaven and earth are said in many places to be the parents of the gods. In the same way they are said to be the parents of Agni too.
+
+दौर्मे पिता जनिता नाभिरत्र बंधुर्मे माता पृथिवी महीयं । (*daurme pitā janitā nābhiratra baṃdhurme mātā pṛthivī mahīyaṃ |*)
+(Ṛ. Saṃ. 1-164-33)
+
+In this Ṛk it is said that heaven is the father (begetter) of Agni and the earth his mother.
+
+## Sūkta 4 (Maṇḍala 3)
+
+*The fourth sūkta of the Third Maṇḍala.*
+
+*[Garbled heading as supplied before the introduction: "ಪಿ ೯ ರಿ ಕೆ." (for Pīṭhike), kept as a note in kn.md.]*
+
+**Pīṭhike (Introduction) to Sūkta 4**
+
+We have given the explanation of the Āprī sūktas in Ṛgveda Saṃhitā Part 2, pages 73 to 74 and 528 (printed so with Latin digits). In the Ṛgveda there are ten Āprī sūktas in all. Among them there are mantras addressed to the deities Idhmaḥ (Samiddho agniḥ), Narāśaṃsaḥ, Tanūnapāt, Iḷaḥ, Barhiḥ, Devīr dvāraḥ, Uṣāsānaktā, Daivya hotārau pracetasau, Tisro devyaḥ Sarasvatī-Iḷā-Bhāratyaḥ, Tvaṣṭā, Vanaspatiḥ and Svāhākṛtayaḥ. But as to the deities Narāśaṃsa and Tanūnapāt, in some sūktas only one deity, Narāśaṃsa, is praised, in some others only one deity, Tanūnapāt, and in yet others both deities, Narāśaṃsa and Tanūnapāt. According to this, the Āprī sūktas have been divided into three kinds, namely the Āprī sūktas composed by the seers Vasiṣṭha, Atri, Vādhryaśva and Gṛtsamada, that is—
+
+1. जुषस्व नः समिधमग्ने (*juṣasva naḥ samidhamagne*) - Ṛ. Saṃ. 7-2 (Maitrāvaruṇi Vasiṣṭha)
+2. सुसमिद्धाय शोचिषे (*susamiddhāya śociṣe*) - Ṛ. Saṃ. 5-5 (Vasuśruta Ātreya)
+3. इमां मे अग्ने समिधं (*imāṃ me agne samidhaṃ*) - Ṛ. Saṃ. 10-70 (Sumitra Vādhryaśva)
+4. समिद्धो अग्निर्निहितः (*samiddho agnirnihitaḥ*) - Ṛ. Saṃ. 2-3 (Gṛtsamada)
+
+*[The supplied list begins "1. ೧." with a stray extra "1.".]*
+
+### Printed p. 666
+
+*[Running head, p. 666: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+These four sūktas belong to one group. In each of them there is one Ṛk addressed to the deity Narāśaṃsa. Therefore these four sūktas are called narāśaṃsavantisūktāni, Āprī sūktas that praise the deity Narāśaṃsa alone.
+
+1. सुसमिद्धोन आ वहः (*susamiddhona ā vahaḥ*) - Ṛ. Saṃ. 1-13 (Medhātithi Kāṇva)
+2. समिद्धो अग्न आ वह (*samiddho agna ā vaha*) - Ṛ. Saṃ. 1-142 (Dīrghatamas Aucathya)
+
+These two Āprī sūktas belong to the second group. In them there are Ṛks addressed to both deities, Narāśaṃsa and Tanūnapāt, one each. Therefore these Āprī sūktas are known as sūktas with both kinds of deity, Narāśaṃsa and Tanūnapāt. Since both deities are in these sūktas, in the sūkta 1-142, leaving out Indra, there are twelve oblations in place of the eleven prayāja oblations.
+
+1. समिद्धो अद्य राजसि (*samiddho adya rājasi*) - Ṛ. Saṃ. 1-188 (Agastya Maitrāvaruṇi)
+2. समित्समित्सुमना (*samitsamitsumanā*) - Ṛ. Saṃ. 3-4 (Viśvāmitra, son of Gādhin)
+3. समिद्धो विश्वतस्पतिः (*samiddho viśvataspatiḥ*) - Ṛ. Saṃ. 9-5 (Asita Kāśyapa or Devala)
+4. समिद्धो अद्य मनुषो (*samiddho adya manuṣo*) - Ṛ. Saṃ. 10-110 (Jamadagni Bhārgava)
+
+These sūktas belong to the third group. In them there are only Ṛks addressed to the deity Tanūnapāt (there are no Ṛks addressed to Narāśaṃsa). Therefore they are called tanūnapātvantisūktāni, that is, Āprī sūktas containing mantras addressed to the deity Tanūnapāt.
+
+These Āprī sūktas are recited when the animal oblation is made, in order to perform the eleven (ekādaśa) prayāja oblations. There is the Taittirīya Saṃhitā sentence एकादशावदानान्यवद्यति दश वै पशोः प्राणा आत्मैकादशः (*ekādaśāvadānānyavadyati daśa vai paśoḥ prāṇā ātmaikādaśaḥ*) (Tai. Saṃ. 6-3-10-3). In reciting these Āprī sūktas for the animal oblation there is a special rule: sacrificers born in a particular gotra, when performing the sacrifice, must recite the Āprī sūkta composed by the seer of that gotra (Ā. 3-2). The present Āprī sūkta must be recited by those born in the gotra of the seer Viśvāmitra.
+
+To understand the nature of the Āprī sūktas and the place they hold in the performance of rites, our sources are of two kinds. The first is the Śruti sentences of the Brāhmaṇas and the like;
+
+### Printed p. 667
+
+*[Running head, p. 667: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+the second, the sentences of derivation in the Nirukta and the like. Of these two kinds of source, the derivation sentences of the Nirukta and the like are more reasoned and are accompanied by scientific explanations.
+
+Looking at the derivation of the word āprī stated in the Aitareya and other Brāhmaṇas, it can be said that they all understood and explained this word from the point of view of the performance of sacrifices and the like. For example—
+
+तद्यदा प्रीणाति तस्मादाप्रियो नाम । (*tadyadā prīṇāti tasmādāpriyo nāma |*)
+(printed ಶಾ. ಬ್ರಾ. 10-3)
+
+the Kauṣītaki Brāhmaṇa says that the name is because it is a means of gratifying;
+
+आप्रीभिराप्नुवन् । तदाप्रीणामाप्रित्वं ॥ (*āprībhirāpnuvan | tadāprīṇāmāpritvaṃ ‖*)
+(Tai. Brā. 2-2-8-6)
+
+saying the same thing the Taittirīya Brāhmaṇa also;
+
+यदेतान्याप्रिया आज्यानि भवंति । आत्मानामेवेतैराप्रीणाति । (*yadetānyāpriyā ājyāni bhavaṃti | ātmānāmevetairāprīṇāti |*)
+(Tāṇḍya Brā. 15-8-2, printed ತಾ. ಬ್ರಾ.)
+
+the Tāṇḍya Brāhmaṇa has also shown the nature of the word āprī.
+
+In the Aitareya Brāhmaṇa the explanation of the Āprīs is given while directing the duties that the hotṛ must perform at the time of the Agniṣṭoma sacrifice. After the description of the animal that is to be offered to Agni and Soma (2-3), eleven prayāja mantras are stated (2-4). In that context—
+
+आप्रीभिराप्रीणाति । तेजो वै ब्रह्मवर्चसमाप्रियस्तेजसैवेनं तद्ब्रह्मवर्चसेन समर्धयति । (*āprībhirāprīṇāti | tejo vai brahmavarcasamāpriyastejasaivenaṃ tadbrahmavarcasena samardhayati |*)
+(printed ಇ . ಬ್ರಾ. 2-4)
+
+The Āprī Ṛks are full of radiance and endowed with Brahmic splendour. By such Ṛks (the hotṛ) becomes the cause of satisfaction; thus there too it is told that they are a means of self-satisfaction. Afterwards it is told that the deities Samidh, Tanūnapāt and so on have identity with principles such as breath. The Aitareya Brāhmaṇa itself says before all others, telling these sūktas stated in the different Maṇḍalas of the Ṛgveda Saṃhitā, their fruit, and the seers who recited them
+
 ---
 
-**Progress note:** Done through printed p. 664 (PDF 664). Sūkta 3 Ṛk 11 complete incl. Special Topics (dṃsanā, svapasyā, bhūriretasā, pitarā)
+**Progress note:** Done through printed p. 667 (PDF 667). Sūkta 3 Ṛk 11 Special Topics end (Sūkta 3 ends); Sūkta 4 begun: Pīṭhike on the Āprī sūktas
