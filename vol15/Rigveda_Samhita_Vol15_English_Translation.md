@@ -8620,6 +8620,87 @@ Agni named Apāṃ napāt sits in his own home, the atmosphere. He whose cow, th
 
 He, the grandson of the waters, who abides in his own dwelling ; of whom is the readily-milked cow; who augments the nectar (of the skies and thence) eats the sacrificial food ; he, gatheing [sic] strength in the midst of the waters, shines for the sake of conferring wealth upon his worshipper.
 
+### Printed p. 273
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The deity named Apāṃ napāt is described thus: in "sve dame" (his own home, the home in the form of the atmosphere) he dwells; "dhenuḥ sudughā" — the cow connected with this deity, namely the middle-region speech (his power), is called upon to produce comfort for all, and so is beneficial to all; "svadhāṃ pīpāya" — this deity increases (the food), the rain-water (because he is in the home of atmospheric form). Thus described, this deity "subhu annaṃ ca atti" — he eats the food in the form of oblation, excellently produced from the rain-water. "Saḥ devaḥ apsyantaḥ" — Apāṃ napāt, being in the midst of the waters in the clouds, "vidhate ūrjayan vasudeyāya vibhāti" — shines with his exceeding splendours in order to bestow strength and abundant wealth upon the clouds and upon the sacrificers who serve him; so it is described.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> यो अ॒प्स्वा शुचि॑ना॒ दैव्ये॑न ऋ॒तावाज॑स्र उर्वि॒या वि॒भाति॑ ।
+> व॒या इद॒न्या भुव॑नान्यस्य॒ प्र जा॑यंते वी॒रुध॑श्च प्र॒जाभिः॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । अप्सु । आ । शुचिना । दैव्येन । ऋतवा । अजस्रः । उर्विया । विभाति ।
+> वयाः । इत् । अन्या । भुवनानि । अस्य । प्र । जायंते । वीरुधः । च । प्रजाभिः ॥८॥
+
+**॥ सायणभाष्यम् ॥**
+
+> योऽपांनपादृतावा । ऋतमित्युदकनाम । तद्वान् सत्यवान्वा अजस्रो नित्य
+> एकरूपेण सदा वर्तमान उर्विया उरुविस्तीर्णोऽप्सु मेघस्थासु मध्यॆ शुचिना
+> शोचकेन दैव्येन देवसंबंधिना तेजसा आ समंताद्वभाति । विशेषेण प्रकाशते ।
+> अस्यापांनपातोऽन्या अन्यानि भुवनानि सर्वाणि भूतजातानि वया इत् शाखा एव ।
+> वीरुध ओषधयः प्रजाभिः स्वकीयाभिः पुष्पफलादिभिः सहास्मादेव प्रजायंते ॥
+
+*Gist: Ṛta means water; Apāṃ napāt, truthful (or possessed of water), eternal, ever of one form and vast, shines in the midst of the cloud-waters with divine radiance; all other beings are his branches, and the plants are born with their offspring (flowers and fruits) from him.*
+
+### Printed p. 274
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*) — which deity Apāṃ napāt; ऋतावा (*ṛtāvā*) — being truthful; अजस्रः (*ajasraḥ*) — being eternal and of one form; उर्विया (*urviyā*) — being exceedingly vast; अप्पु (*appu*) — in the midst of the waters in the clouds; शुचिना (*śucinā*) — with the radiant; दैव्येन (*daivyena*) — and divine; with (that) splendour; आ (*ā*) — all around; विभाति (*vibhāti*) — shines exceedingly. अस्य (*asya*) — of that same deity; वया इत् (*vayā it*) — as branches; अन्या भुवनानि (*anyā bhuvanāni*) — all other beings exist. वीरुधश्च (*vīrudhaśca*) — the plants also; प्रजाभिः (*prajābhiḥ*) — together with their offspring in the form of fruits and flowers; प्रजायंते (*prajāyaṃte*) — are born of this Agni itself.
+
+**भावार्थ (Bhāvārtha)**
+
+The deity Apāṃ napāt, who is truthful, eternal, of one form and exceedingly vast, shines exceedingly all around with a radiant and divine splendour in the midst of the waters in the clouds; all other beings are, as it were, branches of that deity. The plants also, together with their fruits and flowers, are born of this Agni itself.
+
+**Printed English**
+
+All other beings are, as it were, branches of him, who, truthful, eternal, and vast, shines amidst the waters with pure and divine (radiance); and the shrubs, with their products, are born (of him).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः ऋतावा—तद्वान् सत्यवान् वा (*yaḥ ṛtāvā—tadvān satyavān vā*). Although the word ṛta has the meanings truth, water and wisdom (prajñā), Sāyaṇa takes it here in the sense of water or truth, and so explains Apāṃ napāt as one who possesses water or is truthful. अजस्रः—नित्यः सदा एकरूपेण वर्तमानः (*ajasraḥ—nityaḥ sadā ekarūpeṇa vartamānaḥ*): this deity is imperishable and at all times of one kind. उर्विया उरु विस्तीर्णः (*urviyā uru vistīrṇaḥ*): this deity, who pervades exceedingly, अप्पु शुचिना दैव्येन आ विभाति (*appu śucinā daivyena ā vibhāti*) — shines everywhere with his divine splendour in the midst of the waters in the cloud. अस्य अन्या भुवनानि वया इत् (*asya anyā bhuvanāni vayā it*): since the many kinds of beings in the worlds are all born of this deity, they are said to belong to him (like branches to a tree)
+
+### Printed p. 275
+
+वीरुधः प्रजाभिः प्रजायंते (*vīrudhaḥ prajābhiḥ prajāyaṃte*) — (the word prajā is explained as the flowers and fruits produced on creepers) the creepers, and their flowers and fruits too, are born of this deity alone; thus the abundant power of this deity is described.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> अ॒पां नसा॒दा ह्यस्था॑दु॒पस्थं॑ जि॒ह्माना॑मू॒र्ध्वो वि॒द्युत्व॒ वसा॑नः।
+> तस्य॒ जेष्ठं॑ महि॒मानं॒ वहं॑ती॒र्हिर॑ण्यवर्णाः॒ परि॑ यंति य॒ह्वीः ॥९॥
+
+**॥ पदपाठः ॥**
+
+> अपां । नपात् । आ । हि । अस्थात् । उपस्थं । जिह्मानां । ऊर्ध्वः । विद्युतं । वसानः ।
+> तस्य । ज्येष्ठं । महिमानं । वहंतीः । हिरण्यवर्णाः । परि । यंति । यह्वीः ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> पूर्वोक्ते सारस्वतसत्रस्यापोनप्रीये चरावपां नपादा हीत्येषानुवाक्या ।
+> सूत्रितं च । अपां नप्रे चरुमपां नपादा ह्यस्थादुपस्थं । आ. १२-६. । इति ॥
+> अपांनपात्संज्ञकोग्निरुपस्थमपामुपस्थानमंतरिक्षमा ह्यस्थात् । आस्थित-
+> वान् आरूढवान् खलु । किं कुर्वन् । जिह्मानां कुटिलगतीनामपां मध्य ऊर्ध्वः
+> स्वयमूर्ध्व० ज्वलन् विद्युतं विद्योतमानं मेघं वसान आच्छादयन् ।
+> अंतरिक्षमास्थाय वर्षणं कृतवान् । तस्य वर्षितुरपांनपातो ज्येष्ठं प्रशस्यतमं
+> महिमानं माहात्म्यं वहंतीर्वहंत्यः सर्वत्र प्रापयंत्यो यह्वीर्यहो
+> महत्यो हिरण्यवर्णाः । नदीनामैतत् । हिरण्यवन्निर्मलरूपा नद्यः परियंति ।
+> परितो गच्छंति । अपांनप्रा महती वृष्टिरस्माकं प्रवाहनायोत्पादितेति कृतज्ञया
+> तदीयं माहात्म्यं सर्वत्र प्रकटयंत्य इव नद्यः प्रवहंतीत्यर्थः ॥
+
+*Gist: This is the anuvākyā of the Apōnaptrīya (oblation of cooked grain) of the Sārasvata sattra (sūtra reference printed as "Ā. 12-6"). Apāṃ napāt rose into the atmosphere, clothing the lightning cloud, and rained; the golden, mighty rivers flow everywhere as if proclaiming his greatness out of gratitude.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अपां नपात् (*apāṃ napāt*) — Agni named Apāṃ napāt; जिह्मानां (*jihmānāṃ*) — in the midst of the waters of crooked course; ऊर्ध्वः (*ūrdhvaḥ*) — shining in an elevated region; विद्युत् (*vidyut*) — brilliance
+
 ---
 
-**Progress note:** Done through printed p. 272 (PDF 272). Sūkta 35 Ṛk 6 bhāṣya/Pratipadārtha/Bhāvārtha/printed English/Special Topics (pp. 270-271), Ṛk 7 Saṃhitā/Pada (p. 271), bhāṣya etc. (p. 272); kn.md hand-fixes: bhāṣya label inserted, heading line ॥ ಜಯಭಾಸ್ಕರ ॥ kept as italic line out of the block, garbled Bhāvārtha label replaced; OCR slips kept: ಪೂರ್ಣು, ಅಪ್ಪು, ಅರ್‍ಸು, ವಸ್ತುದೇಯಾಯ (Pada) vs ವಸುದೇಯಾಯ; printed English 'hin', 'wether', 'gatheing' [sic]; accent check 1 DIFF; Ṛk 7 next section: Special Topics
+**Progress note:** Done through printed p. 275 (PDF 275). PDF 275. Sūkta 35 Ṛk 7 Special Topics (p. 273), Ṛk 8 complete (pp. 273-275, Special Topics split at the page break), Ṛk 9 Saṃhitā/Pada/bhāṣya (p. 275) and Pratipadārtha begun, cut off in the supplied text after ವಿದ್ಯುತ್—ಪ್ರಕಾಶ; kn.md hand-fixes: garbled Pada/bhāṣya labels replaced, stray line 18 removed; OCR slips kept: ಅಪ್ಪು (for ಅಪ್ಸು), ನಸಾದಾ (Saṃhitā Ṛk 9), ವಿದ್ಯುತ್ವ/ವಿದ್ಯುತಂ; Ṛk 9 next section: rest of Pratipadārtha
