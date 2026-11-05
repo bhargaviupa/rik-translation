@@ -21142,6 +21142,77 @@ Devāsaḥ: the gods. Varuṇaḥ: Varuṇa. Mitraḥ: Mitra. Agniḥ: Agni. Ya�
 
 O Agni, in the form of Tanūnapāt, make this sacrifice of ours, which is performed so as to be a cause of water, endowed with water; you whom Varuṇa, Mitra and Agni worship every day at the three times.
 
+### Printed p. 680
+
+*[Running head, p. 680: Sāyaṇabhāṣyasahitā, Maṃ. 3 (printed with a comma), A. 1, Sū. 4.]*
+
+**Printed English translation**
+
+Tanunapat, whom the deities, Mitra, Varuna, and Agni, worship daily thrice a day, render this our sacred rain-engendering sacrifice productive of water.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ವರುಣಃ ಮಿತ್ರಃ ಅಗ್ನಿಃ ದೇವಾಸಃ ಯಂ ದಿವೇದಿನೇ ಅಹನ್ ತ್ರಿಃ ಆಯಜಂತೇ—ವರುಣಃ
+ಮಿತ್ರಃ ಅಗ್ನಿಃ ಏತೇ ತ್ರಯೋ ದೇವಾಃ ಯಮಗ್ನಿಂ ಪ್ರತಿದಿವಸಂ ಅಹನಿ ಪ್ರಾತರ್ಮಧ್ಯಾಹ್ನಸಾಯಂತನೇಷು ಸವನೇಷು ತ್ರಿವಾರಂ ಆಯಜಂತೇ ।⟧ The deity of this Ṛk is the god called Tanūnapāt (a special form of Agni). The three gods Varuṇa, Mitra and Agni worship this god called Tanūnapāt every day at the three pressings, morning, midday and evening, which are performed in the day.
+
+⟦ಸಃ ತನೂನಪಾತ್ ಧೃತಯೋನಿಂ ವಿಧಂತಂ ನಃ ಇಮಂ ಯಜ್ಞಂ ಮಧುಮಂತಂ ಕೃಧಿ-ಹೇ
+ತನೂನಪಾತ್, ಸ ತ್ವಂ ಉದಕಸ್ಯ ಕಾರಣಂ ವಿಧೀಯಮಾನಂ ಅಸ್ಮದೀಯಮಿಮಂ ಯಜ್ಞಂ ವೃಷ್ಟ್ಯಾದಿಫಲಯುಕ್ತಂ ಕುರು ।⟧ — O Agni, bearing the name Tanūnapāt, you, make this sacrifice that we perform, desiring water, productive of the fruit of rain: so it is prayed. The words ghṛta and madhu are read among the hundred and one names of water (Ni. 2-24). In this Ṛk the deity named Tanūnapāt is prayed to grant that rain come from the sacrifice we perform. That rain arises from sacrifices performed according to rule is stated in many places. In the 98th sūkta of the tenth Maṇḍala of the Ṛgveda an ancient story is told on this subject. In the past a king named Ṛṣṭiṣeṇa had two sons, Devāpi and Śantanu. After the father's death a quarrel arose between the two over the kingdom, and the younger drove out his elder brother and became king himself. Although the elder had the right to the kingdom, the younger's seizing it unjustly was held to be adharma. Therefore, in his kingdom, which had injustice and adharma, no rain fell for twelve years. Then the king summoned the Brahmins and asked why this had happened, and they said, "You have driven out your elder brother, who is entitled to the kingdom, and rule yourself without keeping to justice; this is adharma. Therefore the deity Parjanya does not rain in your kingdom." Hearing this, the king repented, and went to his elder brother, who was practising austerity in the forest, and begged him to rule the kingdom. But he refused, saying, "I will not give up my austerity and come; you rule the kingdom yourself. If you want rain in your kingdom, perform a sacrifice according to the rule. In that sacrifice I shall myself take the office of purohita and carry out the sacrifice."
+
+### Printed p. 681
+
+*[Running head, p. 681: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+Having said so, he prayed to Bṛhaspati, obtained instruction in the mantra by his favour, and carried out the king's sacrifice. As a result, plentiful rain fell in his kingdom: so it is told.
+
+Tanūnapāt—यज्ञ शरीरस्य न पातयिता (*yajña śarīrasya na pātayitā*), that is, one who does not destroy the body (tanu) of the sacrifice, the protector of the sacrifice: this is one kind of meaning. ⟦ಯದ್ವಾ! ಆಪೋಽತ್ರತನ್ನ ಉಚ್ಯಂತ
+ಇತ್ಯುಕ್ತತ್ವಾದಪಾಂ ನ ಪಾತಯಿತಾ ತಾಸಾಂ ನಪ್ತಾ ವಾ । ಅದ್ಭ್ಯಃ ಓಷಧಯಃ ಓಷಧೀಭೋಽಗ್ನಿರಿತಿ
+ನಪ್ತೃತ್ವಂ।⟧ Or, apaḥ here should be taken to mean body (tanu); that is, nap-tṛ (grandson) of the waters (apaḥ). How? From the waters (from rain and other waters) arise plants and trees. From those plants and trees (from the wooden pieces called araṇi) Agni is born. Therefore Agni is the grandson of the waters: this is the purport. We have explained at length before that the two words tanūnapāt and apāṃnapāt have the same meaning.
+
+For the word tanūnapāt Sāyaṇa has given two kinds of meaning on the authority of the Nirukta. First, ⟦ತನೂನಪಾತ್ ಆಜ್ಯಂ ಇತಿ ಕಾತ್ಕ್ಯಪಕ್ಷೇ ತನ್ನೋ ಗಾವೋ ಭೋಗಾನಾಂ
+ತಾಸು ಜಾಯಮಾನತ್ವಾತ್ । ತಾಭ್ಯಃ ಉತ್ಪನ್ನಂ ಕ್ಷೀರಂ ಕ್ಷೀರಾತ್ಸರ್ಪಿಃ ಇತಿ ಆಜ್ಯಸ್ಯ ನಪ್ತೃತ್ವಂ ।
+ತದ್ವಾನ್ ಯಜ್ಞಃ ।⟧ If Kātkya's meaning of tanūnapāt as ghee is accepted, then the word tanu means cow; since ghee is produced from the milk born from it, tanūnapāt means ghee, or a sacrifice endowed with ghee. In this context, from the sentence of the Nirukta authors ⟦ನಪಾದಿತ್ಯನಂತರಾಯಾಃ
+ಪ್ರಜಾಯಾ ನಾಮಧೇಯಂ ನಿರ್ಣಿತತಮಾ ಭವತಿ⟧ (Ni. 8-5), the word napāt means grandson, so here too it means ghee produced from the milk born of the cow. Second, अग्निपक्षे अपस्तन्व उच्यंते । ताभ्यः ओषधिवनस्पतयः, तेभ्योSग्निरिति नप्तृत्वं । आरणीभ्यां इति भावः । (*agnipakṣe apastanva ucyaṃte | tābhyaḥ oṣadhivanaspatayaḥ, tebhyoSgniriti naptṛtvaṃ | āraṇībhyāṃ iti bhāvaḥ |*) The word tanu means water; from it plants and trees (araṇis) arise, and from them Agni is born; hence the name tanūnapāt. Thus two kinds of meaning are given. In the Bṛhaddevatā,
+
+⟦ಅಯಂ ತನೂನಪಾದಗ್ನಿರಸೌ ಹಿ ತನನಾತ್ತನುಃ ।
+ತತಸ್ತು ಮಧ್ಯಮೋ ಜಜ್ಞೇ ಸ್ಥಾನೇಯಂ ಮಧ್ಯಮಾತ್ತತಃ ॥
+ಅನಂತರಾಂ ಪ್ರಜಾಮಾಹುರ್ನಪಾದಿತಿ ಕೃಪಣ್ಯವಃ ।
+ನಪಾದಮುಷ್ಯ ಚೈವಾಯಮಗ್ನಿಸ್ತೇನ ತನೂನಪಾತ್ ।⟧
+(printed ಬೃ. ದೇ. 2-76 to 77)
+
+⟦ತನೂನಪಾದಯಂ ತ್ವೇವ ನಾಮ್ನಾ ಯಚ್ಛತ್ವಸೌ ತನುಂ ।
+ನಪಾದಿತಿ ಪ್ರಜಾಮಾಹುರಮುತೋಽಸ್ಯ ಚ ಸಂಭವಂ⟧
+(printed ಬೃ. ದೇ. 3-1)
+
+### Printed p. 682
+
+*[Running head, p. 682: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 4.]*
+
+This terrestrial Agni is the napāt, grandson, of the Agni of the divine world; how? The divine Agni, being endowed with the power of spreading (tananāt), is called by the synonymous name tanu. From him arose the Agni of lightning in the atmosphere, and from him this terrestrial Agni; hence the terrestrial Agni gets the name tanūpāt (the supplied text prints "ತನೂಪಾತ್"). It is explained that he is named tanūpāt also because he spread from his own body and was born in this form.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> प्र दीधि॑तिर्वि॒श्ववा॑रा जिगाति॒ होता॑रमि॒ळः प्र॑थ॒मं यज॑ध्यै ।
+> अच्छा॒ नमो॑भिर्वृष॒भं वं॒दध्यै॒ स दे॒वान्य॑क्षदिषि॒तो यजी॑यान्॥३॥
+
+**॥ पदपाठः ॥**
+
+> प्र । दीधितिः । विश्ववारा । जिगाति । होतारं । इळः । प्रथमं । यजध्यै ।
+> अच्छ । नमःभिः । वृषभं । वंदध्यै । सः । देवान् । यक्षत् । इषितः । यजीयान् ॥३॥
+
+**॥ सायणभाष्यम् ॥**
+
+> विश्ववारा विश्वैर्जनैर्वर्णीया दीधितिः स्तुतिर्दिप्तिर्वा होतारं देवानामाह्वातारमग्निं प्रजिगाति । जिगातु । प्रकर्षेण गच्छतु । प्रथमं मुख्यमच्छाभिमुख्येन वृषभं संपदां वर्षितारं वंदध्यॆ वंदितुं योग्यमिति शेषः । अग्निं नमोभिर्नमस्कारैः सहेळ इषो हवीरूपाण्यन्नानि यजध्यॆ यष्टुं प्रीणयितुं
+> प्रजिगातु । इषितोऽस्माभिः प्रेरितो यजीयान् यष्टृतमः सोग्निर्देवान्
+> यक्षत् । यजतु ॥
+
+*(Gist: may the praise desired by all go to Agni the hotṛ, first of the ilā offerings, to honour the showerer with homage; sent by us, the best sacrificer, he will sacrifice to the gods.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Viśvavārā: desired by all. Dīdhitiḥ: praise (or radiance). Hotāraṃ: Agni, who invites the gods. Pra jigāti: let it go and join facing him. Prathamaṃ: the chief. Vṛṣabhaṃ: the shower of desires. Vandadhyai: the one worthy of worship, Agni. Accha: facing him. Namobhiḥ: with homage. Iḷaḥ [printed so]: foods in the form of oblation. Yajadhyai: let them go and join for the sacrifice. Iṣitaḥ: sent (by us). Yajīyān: the most worshipful. Saḥ: Agni. Devān: the gods (addressing). Yakṣat: let him sacrifice
+
 ---
 
-**Progress note:** Done through printed p. 679 (PDF 679). Sūkta 4 Ṛk 1 Special Topics (samiddha, idhma, Brāhmaṇa views); Ṛk 2 up to Bhāvārtha; join with previous window flagged
+**Progress note:** Done through printed p. 682 (PDF 682). Sūkta 4 Ṛk 2 complete (Tanūnapāt; Devāpi–Śantanu story); Ṛk 3 begun, Pratipadārtha cut mid-list
