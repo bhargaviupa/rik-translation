@@ -9323,6 +9323,130 @@ The word विप्र (*vipra*) is stated among the names of the wise (Ni. 3-
 
 होतः उशन् त्रिषु योनिषु निषद (*hotaḥ uśan triṣu yoniṣu niṣada*)—देवानामाह्वातः त्वं अस्मदीयं कामयमानः गार्हपत्यादि लक्षणेषु त्रिषु स्थानेषु उपविश (*devānāmāhvātaḥ tvaṃ asmadīyaṃ kāmayamānaḥ gārhapatyādi lakṣaṇeṣu triṣu sthāneṣu upaviśa*). Explaining the word होतः (*hotaḥ*) as one who invokes the gods for the sacrifice, it
 
+### Printed p. 297
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 25, Ṛgveda-saṃhitā, p. 297 (as supplied).*
+
+… in the sacrifices of the sacrificers he desires the offering of the oblation, and it expresses the wish that this Agni sit in the sacrificial hall in the respective places fixed for him and known as the Gārhapatya, the Āhavanīya and the Dakṣiṇāgni.
+
+प्रस्थितं सोम्यं मधु प्रति वीहि (*prasthitaṃ somyaṃ madhu prati vīhi*) and the explanation that follows (उपविश्यच होमार्थमुत्तरवेदिं प्रत्यानीतं सोममयं मधु प्रतिकामयस्व (*upaviśyaca homārthamuttaravediṃ pratyānītaṃ somamayaṃ madhu pratikāmayasva*)): the sacrificers, having offered the oblation in the places fixed for the fires, each according to its rite, place this Agni, when performing the Paśuka and Soma rites, at another place called the Uttaravedi, and there offer Soma, ghee and the other oblations in the fire. It is described as the wish of the sacrificers that Agni, seated on the Uttaravedi in those rites, accept the sweet drink known as Soma.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> ए॒ष स्य ते॑ त॒न्नो॑ नृम्म॒वर्ध॑नः॒ सह॒ ओजः॑ प्र॒दिवि॑ बा॒ह्वोर्हि॒तः ।
+> तुभ्यं॑ सु॒तो म॑घव॒न्नुभ्य॒माभृ॑त॒स्त्वम॑स्य॒ ब्राह्म॑णा॒दा त्व॒पत्पि॑ब ॥
+
+**॥ पदपाठः ॥**
+
+*(The supplied text had a garbled duplicate of the last Pada line, "ಸಿಬ ॥ ೫ ॥", before "ಪಿಬ ॥ ೫ ॥"; the duplicate was removed from kn.md.)*
+
+> एषः । स्यः । ते । तन्वः । नृम्णवर्धनः । सहः । ओजः । प्रदिवि । बाह्वोः । हितः ।
+> तुभ्यं । सुतः । मघवन् । तुभ्यं । आभृतः । त्वं । अस्य । ब्राह्मणात् । आ । तृपत् ।
+> पिब ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र स्यः स एष सोमस्ते तव तन्नः शरीरस्य नृण्ववर्धनः । बलस्य वर्धकः।
+> तुभ्यं सुत इत्युत्तरत्र संबंधः । येन सोमेन प्रदिवि पुराणे त्वयि बाह्वोह-
+> स्तयोः सहः परेषामभिभवनलक्षणं सामर्थ्यमोजस्तत्कारणभूतं बलं च हितः ।
+> निहितं भवति ॥ लिंगव्यत्ययः ॥ हे मघवन् धनवन्निंद्र तुभ्यं त्वदर्थं तादृशः
+> सोमः सुतोऽध्वर्युभिरभिषुतः । तुभ्यं होतुमाभृतः । उत्तरवेद्यां प्रत्या-
+
+> *he iṃdra syaḥ sa eṣa somaste tava tannaḥ śarīrasya nṛṇvavardhanaḥ | balasya vardhakaḥ|*
+> *tubhyaṃ suta ityuttaratra saṃbaṃdhaḥ | yena somena pradivi purāṇe tvayi bāhvoha-*
+> *stayoḥ sahaḥ pareṣāmabhibhavanalakṣaṇaṃ sāmarthyamojastatkāraṇabhūtaṃ balaṃ ca hitaḥ |*
+> *nihitaṃ bhavati ‖ liṃgavyatyayaḥ ‖ he maghavan dhanavanniṃdra tubhyaṃ tvadarthaṃ tādṛśaḥ*
+> *somaḥ suto 'dhvaryubhirabhiṣutaḥ | tubhyaṃ hotumābhṛtaḥ | uttaravedyāṃ pratyā-*
+
+### Printed p. 298
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 36, p. 298 (as supplied).*
+
+> हृतश्च । अस्येमं सोमं ब्राह्मणात् ब्राह्मणाच्छंसिनो यागात्तृपत् तृप्यं-
+> स्त्वमापिब । अभिमुख्येन पिब ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाद-
+> स्येति चतुर्थ्यर्थे षष्ठी ॥
+
+*Gist:* Sāyaṇa: this Soma augments Indra's bodily strength and places might in his arms; it is pressed and brought for him; let him drink it, satisfied, from the Brāhmaṇācchaṃsin's sacrifice.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+O Indra; स्यः (*syaḥ*)—the well-known; एषः (*eṣaḥ*)—this Soma juice; ते (*te*)—your; तन्वः (*tanvaḥ*)—body's; नृम्मवर्धनः (*nṛmmavardhanaḥ*)—is the increaser of strength (the Soma juice by which); प्रदिवि (*pradivi*)—of you, the ancient one; बाहोः (*bāhoḥ*)—in the arms; सहः (*sahaḥ*)—the strength that defeats enemies; ओजः (*ojaḥ*)—the inner power that is its root; हितः (*hitaḥ*)—has been established; मघवन् (*maghavan*)—O wealthy Indra; तुभ्यं (*tubhyaṃ*)—for you alone; सुतः (*sutaḥ*)—(this juice) has been pressed; तुभ्यं (*tubhyaṃ*)—for the sake of performing the sacrifice directed to you; आभृतः (*ābhṛtaḥ*)—has been brought to the Uttaravedi; अस्य (*asya*)—this Soma; ब्राह्मणात् (*brāhmaṇāt*)—from the sacrifice of the Brāhmaṇācchaṃsin; तृपत् (*tṛpat*)—becoming satisfied; त्वं (*tvaṃ*)—you; आ पिब (*ā piba*)—come face to face and drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, this well-known Soma juice is the increaser of the strength of your body. By this same Soma juice the strength that defeats enemies and the inner power that is its root have been established in the arms of you, the ancient one. O wealthy Indra, this juice has been pressed for you alone; it has been brought to the Uttaravedi for the sake of performing the sacrifice directed to you. In the sacrifice of the Brāhmaṇācchaṃsin come face to face, drink the Soma and be satisfied.
+
+**Printed English**
+
+This (libation), Indra, is the augmenter of your bodily (vigour), favourable of old to the resistless strength of (your) arms : it is effused Maghavan, for you : it is brought to you from the Brahmana ; drink and be satisfied.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नृष्णवर्धनः—बलस्य वर्धनः (*nṛṣṇavardhanaḥ—balasya vardhanaḥ*). The words नृष्णं (*nṛṣṇaṃ*), सहः (*sahaḥ*) and ओजः (*ojaḥ*) are read by Yāska among the names of strength (Ni. 3-9). For the word नृष्णवर्धनः (*nṛṣṇavardhanaḥ*) Sāyaṇa gives शरीरस्य बलस्य वर्धकः (*śarīrasya balasya vardhakaḥ*): Soma increases the strength connected with the body. By this he states the use of the word नृष्ण (*nṛṣṇa*) in the sense of bodily strength. बाह्वोः सहः—हस्तयोः परेषामभिभवनलक्षणं सामर्थ्यं (*bāhvoḥ sahaḥ—hastayoḥ pareṣāmabhibhavanalakṣaṇaṃ sāmarthyaṃ*); ओजः—तत्कारणभूतं बलं (*ojaḥ—tatkāraṇabhūtaṃ balaṃ*): this is the commentary given. By it the meaning is explained: सहः (*sahaḥ*)
+
+### Printed p. 299
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 25, Ṛgveda-saṃhitā, p. 299 (as supplied; the head was not recognised by the splitter and the page marker was inserted by hand).*
+
+is the valour famed for overcoming enemies, and ओजः (*ojaḥ*) is the power of mind that is its cause. It is further explained that Soma is said to produce these three kinds of capacity in Indra. Having thus described the power of the Soma juice, the verse addresses Indra as मघवन्—धनवन् (*maghavan—dhanavan*), the wealthy, and says तुभ्यं सुतः, तुभ्यमाभृतः (*tubhyaṃ sutaḥ, tubhyamābhṛtaḥ*): the Soma, pressed by the priests beginning with the Adhvaryu and ready on the Uttaravedi to be offered with reference to Indra, ब्राह्मणात् तृपन् आ पिब (*brāhmaṇāt tṛpan ā piba*) (the text as supplied reads तृपन् (*tṛpan*) here, and तृपत् (*tṛpat*) in the verse) — ब्राह्मणांच्छंसिनो यागात् तृप्यन् (आ पिब) अभिमुख्येन पिब (*brāhmaṇāṃcchaṃsino yāgāt tṛpyan (ā piba) abhimukhyena piba*). It is described as the wish of the sacrificer that Indra drink, until he is satisfied, what the priest called Brāhmaṇācchaṃsin offers in the fire.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+(The label in the supplied text read "ಸಹಿತಾಪಾಠ" between double dandas and the verse lines stood as prose; label made standard and lines made a block in kn.md.)
+
+> जुषेथां यज्ञं बोधतं हवस्य मे सत्तो होता निविदः
+> पूर्व्या अनु ।
+> अच्छा राजाना नम एत्यावृतं प्रशास्त्रादा पिबतं सोम्यं मधु॥
+
+**॥ पदपाठः ॥**
+
+> जुषेथां । यज्ञं । बोधतं । हवस्य । मे । सत्तः । होता । निविदः । पूर्व्याः ।
+> अनु ।
+> अच्छ । राजाना । नमः । एति । अवृतं । प्रशास्त्रात् । अ । पिबतं । सोम्यं । मधु ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मित्रावरुणौ मदीयमिमं यज्ञं जुषेथां । सेवेथां । मे मम
+> हवस्य हवमाह्वानं ॥ पूर्ववत्कर्मणि षष्ठी ॥ बोधतं । अवगच्छतं । तथा सत्तो
+> निषण्णोऽस्मदीयो होता पूर्व्याश्चिरंतनीर्विविदः ॥ वाङ्णामैतत् ॥ शस्त्रलक्षणा
+> वाचोऽनु शंसतीति शेषः । उद्गातृभिः कृतस्य स्तोत्रस्यानुगुण्येनाज्यादीनि
+
+> *he mitrāvaruṇau madīyamimaṃ yajñaṃ juṣethāṃ | sevethāṃ | me mama*
+> *havasya havamāhvānaṃ ‖ pūrvavatkarmaṇi ṣaṣṭhī ‖ bodhataṃ | avagacchataṃ | tathā satto*
+> *niṣaṇṇo 'smadīyo hotā pūrvyāściraṃtanīrvividaḥ ‖ vāṅṇāmaitat ‖ śastralakṣaṇā*
+> *vāco 'nu śaṃsatīti śeṣaḥ | udgātṛbhiḥ kṛtasya stotrasyānuguṇyenājyādīni*
+
+### Printed p. 300
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 36, p. 300 (as supplied, printed "309" for 300).*
+
+> शस्त्राणि शंसतीत्यर्थः । अपि च नमः सोमलक्षणमन्नमावृतमृत्वग्निर्वॆष्टितं
+> राजाना राजमानौ युवामच्छाभिमुख्येनैति । गच्छति प्राप्नोति । तादृशं
+> सोम्यं सोममयं मधु मादकं हविः प्रशास्त्रात् प्रशास्तुर्यागादापिबतं
+> अभिमुख्येन पिबतं ॥
+
+*Gist:* Sāyaṇa addresses Mitra and Varuṇa: enjoy my sacrifice and note my call; the seated Hotṛ recites the ancient nivids; the Soma food, surrounded by the priests, comes to you; drink the sweet Soma from the Praśāstṛ's sacrifice.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa; यज्ञं (*yajñaṃ*)—this sacrifice; जुषेथाः (*juṣethāḥ*)—enjoy [the supplied text reads जुषेथाः (*juṣethāḥ*) against जुषेथां (*juṣethāṃ*) in the verse]; मे (*me*)—my; हवस्य (*havasya*)—call; बोधतं (*bodhataṃ*)—understand; सत्तः (*sattaḥ*)—the seated; होता (*hotā*)—Hotṛ; पूर्व्या (*pūrvyā*)—ancient; निविदः (*nividaḥ*)—nivid mantras; अनु (*anu*)—recites; आवृतं (*āvṛtaṃ*)—surrounded by the priests; नमः (*namaḥ*)—the food in the form of Soma; राजाना (*rājānā*)—you who shine; अच्छ (*accha*)—coming face to face; एति (*eti*)—approaches; सोम्यं (*somyaṃ*)—made of Soma; मधु (*madhu*)—and intoxicating; the oblation; प्रशास्त्रात् (*praśāstrāt*)—from the sacrifice of the Praśāstṛ; आ पिबतं (*ā pibataṃ*)—drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O Mitra and Varuṇa, enjoy this sacrifice. Understand my call. The Hotṛ seated here recites the ancient nivid mantras. The food in the form of Soma, surrounded by the priests, comes face to face with you who shine and approaches you. Drink the oblation, made of Soma and intoxicating, from the sacrifice of the Praśāstṛ.
+
+**Printed English**
+
+Mitra and Varuna, both be gratified with the sacrifice: hear my invocation as the seated Hotri repeats in succession the ancient praises : the (sacrificial) food, encompassed (by the priests), attends the royal pair; drink both of you, the sweet Soma libation, offered by the Prasastri.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यज्ञं जुषेथां—हे मित्रावरुणौ मदीयमिमं यज्ञं सेवेथां (*yajñaṃ juṣethāṃ—he mitrāvaruṇau madīyamimaṃ yajñaṃ sevethāṃ*). Addressing Mitra and Varuṇa, it is expressed as a wish that they enjoy the sacrifices of the sacrificers; and मे हवस्य बोधतं—मम हवमाह्वानं अवगच्छतं (*me havasya bodhataṃ—mama havamāhvānaṃ avagacchataṃ*): the meaning of the word हव (*hava*) is explained as invocation. It is expressed as a wish that Mitra and Varuṇa take note of the sacrificer's invocation, calling them to come for the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 296 (PDF 296). Sūkta 36 Ṛk 3 Pratipadārtha to Special Topics complete (pp. 294-295), Ṛk 4 Saṃhitā/Pada/bhāṣya (p. 295), Ṛk 4 Pratipadārtha/Bhāvārtha/English and Special Topics begun (p. 296, continues); kn.md fix: stray Tamil numeral line moved out of Saṃhitā block as italic note; OCR slips kept: ಪ್ರೋತೃ-type, 'propitions' [sic], ಕರದುಕೊಂಡು, ಇಚ್ಚಿಸಿ
+**Progress note:** Done through printed p. 300 (PDF 300). Sūkta 36 Ṛk 4 Special Topics end, Ṛk 5 complete (pp. 297-298), Ṛk 6 Saṃhitā to Special Topics begun (pp. 299-300, continues); kn.md fixes: image line and garbled duplicate Pada line ಸಿಬ removed, p. 299 marker inserted, Ṛk 6 label/block made standard; readings noted: ನೃಮ್ಮ/ನೃಷ್ಣ, ತೃಪತ್/ತೃಪನ್, ಜುಷೇಥಾಂ/ಜುಷೇಥಾಃ, head '309' for 300
