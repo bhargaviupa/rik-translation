@@ -32744,6 +32744,91 @@ Indra, the slayer of Vritra, the destroyer of cities, has scattered the black-sp
 
 मनवे क्षां अपः च अजनयत् (*manave kṣāṃ apaḥ ca ajanayat*)—That Indra created the earth and the water for Manu. "For Manu" here means for the descendants of Manu, the human beings, for men.
 
+### Printed p. 869
+
+*(Header: "[A. 2. Adhyāya 6. Varga 26] Ṛgvedasaṃhitā 869", as supplied; "Ṛgveda" appears as "Mgveda" on p. 871.)*
+
+सत्रा शंसं यजमानस्य तूतोत् (*satrā śaṃsaṃ yajamānasya tūtot*)—Sāyaṇa gives two kinds of meaning for this sentence. One: यजमानस्य महांतं अभिलाषं कामप्रदानेन पूरयितु (*yajamānasya mahāṃtaṃ abhilāṣaṃ kāmapradānena pūrayitu*)—let Indra fulfil, by granting desired objects, the great wish and desires of the sacrificer who performs the sacrifice. The other: यद्वा सत्रा महत् शंसं शंसनीयं शस्त्रं (*yadvā satrā mahat śaṃsaṃ śaṃsanīyaṃ śastraṃ*) … वर्धयत् (*vardhayat*)—or, let him grant desired objects and fulfil the sacrificer who recites the great śastra mantras and praises him.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> तस्मै॑ तव॒स्य१॒॑गमनु॑ दायि स॒त्रेन्दा॑य दे॒वेभि॒रण॑सात् ।
+> प्रति॒ यद॑स्य॒ वज्रं॑ बा॒ह्वोर्धुर्ह॒त्वी दस्यू॒न्पुर॒ आय॑सी॒र्नि ता॑रीत् ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> तस्मै । तवस्यं । अनु । दायि । सत्रा । इन्प्राय । देवेभिः । अर्णसात् ।
+> प्रति । यत् । अस्य । वज्रं । बाह्वोः । धुः । हत्वी । दस्यून् । पुरः । आयसीः । नि ।
+> तारीत् ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> देवेभिर्देवनशीलैः स्तोतृभिरणसातावुदकलाभे निमित्ते तस्मा इंद्राय
+> तवस्यं तवसे बलाय हितं बलवर्धनं हविः सत्रा संततं सर्वॆष्टहःसु अनु आनु-
+> क्रमेण सवनत्रये दायि । अदायि । यद्वा तवस्यं । यद्बलं प्रवृद्धाय दीयते
+> तत्तवस्यं । देवेभिर्देवैरुदकभजनेऽनुक्रमेण तद्बलं तस्मा इंद्रायादायि । तथा
+> मंत्रः । अनु ते दायि मह इंद्रियायेति । यद्यदास्येंद्रस्य बाह्वोर्वज्रं प्रति
+> धुः । स्तोतारोऽसुरवधसूचकेन स्तोत्रेण प्रतिनिदधुः । स्तूयमानो हींद्रो
+> दस्युवधार्थं वज्रमादत्ते ॥ दधुः । दधातेर्लुजि गातिस्थेति सिचो लुक् । आत इति
+> झॆर्जुस् ॥ ततस्तेन वज्रेण दस्युनसुरान् हत्वी हत्वा तदीया आयसीरयोमयीः
+> पुरो नितारीत् । नितरामनाशयत् ॥
+
+> *devebhirdevanaśīlaiḥ stotṛbhiraṇasātāvudakalābhe nimitte tasmā iṃdrāya*
+> *tavasyaṃ tavase balāya hitaṃ balavardhanaṃ haviḥ satrā saṃtataṃ sarvèṣṭahaḥsu anu ānu-*
+> *krameṇa savanatraye dāyi | adāyi | yadvā tavasyaṃ | yadbalaṃ pravṛddhāya dīyate*
+> *tattavasyaṃ | devebhirdevairudakabhajane 'nukrameṇa tadbalaṃ tasmā iṃdrāyādāyi | tathā*
+> *maṃtraḥ | anu te dāyi maha iṃdriyāyeti | yadyadāsyeṃdrasya bāhvorvajraṃ prati*
+> *dhuḥ | stotāro 'suravadhasūcakena stotreṇa pratinidadhuḥ | stūyamāno hīṃdro*
+> *dasyuvadhārthaṃ vajramādatte ‖ dadhuḥ | dadhāterluji gātistheti sico luk | āta iti*
+> *jhèrjus ‖ tatastena vajreṇa dasyunasurān hatvī hatvā tadīyā āyasīrayomayīḥ*
+> *puro nitārīt | nitarāmanāśayat ‖*
+
+*Gist: The worshippers offered Indra strength-giving oblations at the three pressings to obtain water; when the thunderbolt was placed in his hands he slew the Dasyus and destroyed their iron cities. The grammatical tail (on the form दधुः (*dadhuḥ*), "they placed", and on हत्वी (*hatvī*) and नितारीत् (*nitārīt*)) is transcribed but not explained.*
+
+### Printed p. 870
+
+*(Header: "370 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 20]", as supplied; the page number 370 for 870 is an OCR slip.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देवेभिः (*devebhiḥ*)—by the worshippers of the gods, the praisers; अर्णसात् (*arṇasāt*)—for the obtaining of water; तस्मै इंद्राय (*tasmai iṃdrāya*)—to that Indra; तवस्यं (*tavasyaṃ*)—the strength-increasing oblation; सत्रा अनु (*satrā anu*)—in due order at the three pressing-times; दायि (*dāyi*)—was offered; यत् (*yat*)—when; अस्य (*asya*)—of Indra; बाह्वोः (*bāhvoḥ*)—in the arms; वज्रं (*vajraṃ*)—the thunderbolt; प्रति धुः (*prati dhuḥ*)—was placed, then (Indra with that thunderbolt); दस्यून् (*dasyūn*)—the asuras; हत्वी (*hatvī*)—having slain; आयसीः (*āyasīḥ*)—made of steel; पुरः (*puraḥ*)—their cities; नि तारीत् (*ni tārīt*)—destroyed completely.
+
+**भावार्थ (Bhāvārtha)**
+
+The praisers, worshippers of the gods, offered to that Indra, for the obtaining of water, the strength-increasing oblation at all three pressing-times. As soon as they placed the thunderbolt in Indra's arms, he slew the asuras with that thunderbolt and destroyed completely their cities made of steel.
+
+**English Translation (as printed)**
+
+Vigour has been perpetually imparted to Indra by his worshippers (with oblations), for the sake of obtaining rain: for which purpose they have placed the thunderbolt in his hands, wherewith, having slain the Dasyus, he has destroyed their iron cities-
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अर्णसात् (*arṇasāt*)—उदकलाभे निमित्ते (*udakalābhe nimitte*): for the obtaining of water in the form of rain. The word अर्ण (*arṇa*) (arṇa) is read among the names of water (Nir. 2-24). For the word आर्ण (*ārṇa*) [sic, as supplied], formed from the root ऋ गतौ (*ṛ gatau*) (ṛ, "to go"), the parts of the word are explained thus: आर्यते तत्पाणिभिः (*āryate tatpāṇibhiḥ*)—since all living beings desire this (water), arṇa means water; ऋच्छति गच्छति निम्मप्रदेशमिति वा (*ṛcchati gacchati nimmapradeśamiti vā*) (as supplied; "ನಿಮ್ಮ" is probably a slip)—or, since it flows from a high place to a low region, arṇa means water; or ऋणाति गच्छति दिवो भूमिं (*ṛṇāti gacchati divo bhūmiṃ*) … वृषमाणं (*vṛṣamāṇaṃ*)—that is, since it falls from the sky to the earth in the form of rain, arṇa means water.
+
+तवस्यं (*tavasyaṃ*)—तवसे बलाय हितं बलवर्धनं (*tavase balāya hitaṃ balavardhanaṃ*). The word तवः (*tavaḥ*) (tavaḥ) is read among the names of strength (Nir. 3-9; the supplied text has "ಪರಿತ" for "ಪಠಿತ", "read"). तवस्यं (*tavasyaṃ*) means (the oblation) that increases strength.
+
+सत्रा अनु (*satrā anu*)—संततं सर्वेष्टहस्सु अनुक्रमेण सवनत्रये (*saṃtataṃ sarveṣṭahassu anukrameṇa savanatraye*). Here the word सत्रा (*satrā*) is taken to mean "always", and अनु (*anu*) in due order, so that the meaning given is: at the three pressings, namely the morning pressing, the midday pressing and the third pressing.
+
+### Printed p. 871
+
+*(Header: "[A. 2. Adhyāya 6. Varga 26] Ṛgvedasaṃhitā 871", as supplied, with "Mgveda" for "Ṛgveda".)*
+
+तस्मै इंद्राय देवेभिः तवस्यं अर्णसात् दायि (*tasmai iṃdrāya devebhiḥ tavasyaṃ arṇasāt dāyi*)—the bhāṣyakāra gives two kinds of meaning for this sentence. One: देवेभिर्देवनशीलैः स्तोतृभिः अर्णसातावुदकलाभे (*devebhirdevanaśīlaiḥ stotṛbhiḥ arṇasātāvudakalābhe*) … हविः आदायि (*haviḥ ādāyi*)—by the shining praisers a strength-increasing oblation was offered to Indra for obtaining water in the form of rain. Another: यद्वा तवस्यं यद्बलं प्रवृद्धाय दीयते (*yadvā tavasyaṃ yadbalaṃ pravṛddhāya dīyate*) … तस्मा इंद्रायादायि (*tasmā iṃdrāyādāyi*)—or, strength that promotes growth was given to Indra by the gods for obtaining water in the form of rain; that is, the gods gave Indra strength, and Indra, grown by that strength, slew Vṛtra and poured down on the earth the waters in the form of rain. In support of this meaning the bhāṣyakāra has cited the Ṛk:
+
+अनु ते दायि मह इंद्रियाय सत्रा ते विश्वमनु वृत्रहत्ये । (*anu te dāyi maha iṃdriyāya satrā te viśvamanu vṛtrahatye |*)
+अनु क्षत्रमनु सहो यजत्रेंद्र देवेभिरनु ते नृषह्ये ॥ (*anu kṣatramanu saho yajatreṃdra devebhiranu te nṛṣahye ‖*)
+(Ṛ. Saṃ. 6-25-8; printed "ಮ. ಸಂ.", as supplied.)
+
+(Mine and tentative gloss: "To you has been given, after, great vigour; always all is yours in the slaying of Vṛtra; after it, dominion; after it, might, O worthy of worship, Indra; with the gods, after, in the overcoming of men, [it is given] to you.") The chief intention is: O Indra, for the slaying of Vṛtra the gods gave you great strength that promotes growth.
+
+दस्यून् हत्वी पुरः आयसीः नि तारीत् (*dasyūn hatvī puraḥ āyasīḥ ni tārīt*)—Indra, the wielder of the thunderbolt, slew the Dasyu people and destroyed completely their cities made of steel. "Dasyu people" here may mean asuras. There is a story about their steel (iron) cities in the Taittirīya Saṃhitā of the Yajurveda, but there it is said that Rudra destroyed those cities:
+
+तेषामसुराणां तिस्रःपुर आसन्नयस्मय्यवमाथरजताथ हरिणी ता देवा जेतुं (*teṣāmasurāṇāṃ tisraḥpura āsannayasmayyavamātharajatātha hariṇī tā devā jetuṃ*) नाशक्कुवन् (*nāśakkuvan*) (Tai. Saṃ. 6-2-3-1; the words are given as supplied, with possible slips).
+
+It is said that those asuras had three chief cities, made respectively of iron, silver and gold, and that the gods were unable to conquer them. But it must be understood that this matter is one thing, and the asura cities destroyed by Indra are another. Since the cities of the black people or asuras were protected by very strong forts, they may have been described as cities made of steel (iron).
+
 ---
 
-**Progress note:** Done through printed p. 868 (PDF 868). Sukta 20: Rk 6 bhashya to Special Topics complete; Rk 7 Samhita (first line from title attribute, converted letter for letter, with [?] marks), Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics complete; Rk 8 follows
+**Progress note:** Done through printed p. 871 (PDF 871). Sukta 20 Rk 7 Special Topics end; Rk 8 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics (to Rk 8 'dasyun hatvi'); sukta not yet closed
