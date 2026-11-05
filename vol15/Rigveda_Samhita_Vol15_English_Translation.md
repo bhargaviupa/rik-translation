@@ -5463,6 +5463,101 @@ Adorable (gods), I desire that these (my) earnest praises (should please) you: m
 
 रथ्यः (*rathyaḥ*)—सप्तिर्न धीतिं अश्याः (*saptirna dhītiṃ aśyāḥ*)—रथसंबंधी सर्पणशीलो अश्व इव युष्मद्गणः अस्मदीयं कर्म प्राप्पोतु (*rathasaṃbaṃdhī sarpaṇaśīlo aśva iva yuṣmadgaṇaḥ asmadīyaṃ karma prāppotu*). Like a swift horse fit to be yoked to a chariot, (the text breaks off at the page end)
 
+### Printed p. 177
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 15, Ṛgveda-saṃhitā, p. 177.*
+
+accepts the praise and the service of one who serves it, so may the Viśve devāḥ accept all the duties that concern them, namely the recitation of praises, the offering of oblations and so on, performed by us the sacrificers: thus the wish is expressed.
+
+आयवः (*āyavaḥ*)—मनुष्याः (*manuṣyāḥ*). This word is stated among the names of men (Ni. 3-8). Here the sense is given as men such as those who perform the sacrifice.
+
+सप्तिः (*saptiḥ*)—सर्पणशीलः अश्वः (*sarpaṇaśīlaḥ aśvaḥ*). The word *sapti* is read among the names of the horse (Ni. 2-27). The meaning is explained as a horse of a swiftly moving nature.
+
+रथ्याः (*rathyāḥ*)—Yāska has described the plural form of the word *rathya* as रथस्य वोढारः (*rathasya voḍhāraḥ*) (Ni. 10-3). The word *rathya*, used as an epithet of *sapti*, is interpreted as "connected with a chariot".
+
+## Sūkta 32 (Maṇḍala 2)
+
+*The thirty-second sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> अस्य म इत्यष्टर्चं दशमं सूक्तं गृत्समदस्यार्षं षष्ठ्याद्यास्तिस्रोऽनु-
+> ष्टुभः । शिष्टाः पंच जगत्यः । प्रथमा द्यावापृथिवीया ततॊ द्वे ऐंद्रौ त्वाष्टौ
+> ना । ततो द्वे राकादेवत्ये द्वे सिनीवालीदेवत्ये अंत्या गुंग्वादिषड् देवताका ।
+> तथा चानुक्रांतं । अस्यमेऽष्टौ जागतं त्रैनुष्टुबंतं । द्यावापृथिव्येका द्वे
+> ऐंद्रौ त्वाष्टौ ना द्वे द्वे राकासिनीवाल्ल्योरंत्या लिंगोक्तदेवतेति ॥ अभिप्लविके
+> चतुर्थेऽहनि वैश्वदेवशस्त्र आद्यस्तृचो द्यावापृथिवीयनिविद्धानः । तथा च सूत्रितं ।
+> अस्य मे द्यावापृथिवी इति तिस्रस्ततं मे अप इति वैश्वदेवं । आ. ७-७ । इति ॥
+
+*Gist:* the tenth sūkta of Anuvāka 3, of eight ṛks, of the Gṛtsamada seer; the last three ṛks are *anuṣṭubh*, the other five *jagatī*; deities as in the Anuvāda; the Anukramaṇī and the Āśvalāyana Śrauta-sūtra (7-7) are quoted for the application.
+
+**Anuvāda (Kannada).** This sūkta, अस्य मे (*asya me*), is the tenth sūkta in the third anuvāka. It has eight ṛks. The seer of this sūkta is Gṛtsamada; the last three ṛks, from the sixth to the eighth, are of *anuṣṭubh* metre; the remaining five ṛks are of *jagatī* metre. In this sūkta the first ṛk has Dyāvāpṛthivī (Heaven and Earth) as deity; the next two ṛks (ṛks 2-3) have Indra or Tvaṣṭṛ as deity; the next two ṛks (ṛks 4-5) have Rākā as deity; the next two ṛks (ṛks 6-7) have Sinīvālī as deity; the last ṛk (the 8th) has as deities six persons beginning with Gungū
+
+### Printed p. 178
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 3, Sūkta 32, p. 178.*
+
+(Gungū and others). In the Anukramaṇikā it is said: अस्य मेऽष्टौ जागतं त्र्यनुष्टुबंतं द्यावापृथिव्यैका द्वे ऐंद्रौ त्वाष्टौ वा द्वे द्वे राकासिनीवाल्ल्योरंत्या लिंगोक्तदेवतेति (*asya me 'ṣṭau jāgataṃ tryanuṣṭubaṃtaṃ dyāvāpṛthivyaikā dve aiṃdrau tvāṣṭau vā dve dve rākāsinīvāllyoraṃtyā liṃgoktadevateti*). On the fourth day of the Abhiplava sacrifice, at the recitation of the Vaiśvadeva-śastra mantras, the first three ṛks of this sūkta are to be used as nivid-mantras relating to Dyāvāpṛthivī, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra beginning अस्य मे द्यावापृथिवी (*asya me dyāvāpṛthivī*) and ending वैश्वदेवं (*vaiśvadevaṃ*) (Āś. 7-7).
+
+**Sūkta—32**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 32 ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 15 ‖
+Number of ṛks in the Sūkta: 8 ·
+Ṛṣi: Gṛtsamada · Devatā: 1. Dyāvāpṛthivī (printed द्यावाप्यथिवी (*dyāvāpyathivī*) [sic]); 2-3. Indra or Tvaṣṭṛ (printed स्वष्टा (*svaṣṭā*) [sic]); 4-5. Rākā; 6-7. Sinīvālī; 8. the deities named in the text (*liṅgokta*) · Chandas: 1-5 *jagatī*; 6-8 *anuṣṭubh*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्य मे॑ द्यावापृथिवी ऋताय॒तो भू॒तम॑वि॒त्री वच॑सः॒ सिषा॑सतः ।
+> ययो॒रायुः॑ प्रत॒रं ते इ॒दं पु॒र उप॑स्तुते वसू॒युर्वा०॒॑॑
+> महो दधे ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्य । मे । द्यावापृथिवी इति । ऋत्ययतः । भूतं । अवित्री इति । वचसः । सिसासतः ।
+> ययोः । आयुः । प्रतरं । ते इति । इदं । पुरः । उपस्तुते इत्युपस्तुते ।
+> वसुयुः । वां । महः । दधे ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> द्यावापृथिवी हे द्यावापृथिव्यौ ऋतायत ऋतं यज्ञमात्मन इच्छतः
+> सिषासतो युवां संभक्तुमिच्छतोऽस्य वचसः ॥ वक्तीति वचाः स्तोता । असुन् ॥
+
+> *dyāvāpṛthivī he dyāvāpṛthivyau ṛtāyata ṛtaṃ yajñamātmana icchataḥ*
+> *siṣāsato yuvāṃ saṃbhaktumicchato 'sya vacasaḥ ‖ vaktīti vacāḥ stotā | asun ‖*
+
+### Printed p. 179
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 15, Ṛgveda-saṃhitā, p. 179.*
+
+> स्तोतुरस्य मे ममावित्री अवित्यौ पालयित्र्य भूतं । भवतं । ययोर्द्यावा-
+> पृथिव्योरायुरन्नं प्रतरं प्रकृष्टतरमुत्पद्यत इति शेषः । इदमिदानीं ते द्यावा-
+> पृथिव्यावुपस्तुते तत्र तत्र स्थितैः स्तोतृभिः स्तुते वां युवां वसूयुर्धनका-
+> मोSहं महो महतः ॥ विभक्तिव्यत्ययः ॥ महता स्तोत्रेण पुरो दधे ।
+> पुरस्करोमि ॥
+
+*Gist:* O Heaven and Earth, protect me, who desire the sacrifice and wish to serve you; whose food is the best; I, wanting wealth, honour you with great praise.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+द्यावापृथिवी (*dyāvāpṛthivī*)—O Heaven and Earth. ऋतायतः (*ṛtāyataḥ*)—one who desires to perform the sacrifice, and सिषासतः (*siṣāsataḥ*)—who wishes to serve you, and वचसः (*vacasaḥ*)—a praiser: अस्य मे (*asya me*)—for this me, अवित्री (*avitrī*)—be protectresses; भूतं (*bhūtaṃ*)—be. ययोः (*yayoḥ*)—of which Heaven and Earth, आयुः (*āyuḥ*)—the food प्रतरं (*prataraṃ*)—is the most excellent; ते (*te*)—such, and उपस्तुते (*upastute*)—praised by all: नां (*nāṃ*) [sic, as supplied; the Saṃhitā has *vāṃ*]—you two; इदं (*idaṃ*)—now; वसूयुः (*vasūyuḥ*)—desiring wealth; महः (*mahaḥ*)—with great praise; पुरः दधे (*puraḥ dadhe*)—I extol.
+
+**भावार्थ (Bhāvārtha)**
+
+O Heaven and Earth, be the protectresses of this me, who desire to perform the sacrifice, am eager to serve you, and am your praiser. You whose food is the most excellent and who are praised by all: you two I now extol with great praise, desiring wealth.
+
+**Printed English translation**
+
+Heaven and Earth, be the protectors of me your worshipper, anxious to propitiate you by worship and adoration, for of you two is abundant food : desiring riches, I glorify you both, and celebrate you with great (laudation).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Heaven and Earth are praised. Addressing Heaven and Earth, the wish is expressed that they may be protectors of the sacrificer, who desires to serve them both by performing the sacrifice and by reciting praise, and who is reciting the praise.
+
+वचसः (*vacasaḥ*)—वक्तीति वचाः स्तोता (*vaktīti vacāḥ stotā*). Since he recites praises, the word *vacasaḥ* is used in the sense of a reciter of praise.
+
 ---
 
-**Progress note:** Done through printed p. 176 (PDF 176). Sūkta 31 Ṛk 6 Special Topics complete; Ṛk 7 through Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (Yajatrā, Rathya), breaking off mid-sentence at p. 176. Flags: Si. [?] 10-18 (supplied 'ಸಿ.'); Pratipadārtha 'ಧೀಶಿಂ' for dhītim and bhāṣya 'ಮತ್ಪಭೃತಯೋ/ಮತ್ಪೃತಯೋಃ' as supplied; accent DIFF 1 line
+**Progress note:** Done through printed p. 179 (PDF 179). Sūkta 31 Ṛk 7 Special Topics finished; Sūkta 32 introduction/Anuvāda and Ṛk 1 complete. Flags: as supplied, not changed: ದ್ಯಾವಾಪ್ಯಥಿವೀ, ಸ್ವಷ್ಟಾ (for tvaṣṭā), Pada ಋತ್ಯಯತಃ/ಸಿಸಾಸತಃ/ವಸುಯುಃ vs Saṃhitā, Pratipadārtha ನಾಂ for vāṃ, Latin S in ಮೋSಹಂ, ತಿಸ್ಪ್ರಸ್ತತಂ (p.178) vs ತಿಸ್ರಸ್ತತಂ; accent DIFF 1 line
