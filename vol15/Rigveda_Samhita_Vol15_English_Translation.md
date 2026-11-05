@@ -4089,6 +4089,104 @@ The gods are addressed. These gods always make all beings dwell in comfort; the 
 
 *Gist:* O gods, you alone are our kinsmen who bring wealth; make me, the petitioner, happy; let not your chariot be slow on account of our sacrifice; may we not be wearied while we have friends like you. The grammatical tail concerns the suffix vatup after yuṣmad and the substitution of ā.
 
+### Printed p. 132
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2 [sic, as supplied], Adhyāya 3, Sūkta 29, p. 132.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+हये देवाः (*haye devāḥ*)—O gods; यूयमित् (*yūyamit*)—you indeed; आपयः (*āpayaḥ*)—as kinsmen, givers of wealth; स्थॆ (*sthè*) [sic: as supplied]—you are; ते (*te*)—such you; नाधमानस्य (*nādhamānasya*) [as supplied; the Saṃhitā has नाधमानाय (*nādhamānāya*)]—to one who asks for the desired object; मध्यं (*madhyaṃ*) [as supplied; the Saṃhitā has मह्यं (*mahyaṃ*)]—to me; मृळत (*mṛḷata*)—bring about happiness; वः (*vaḥ*)—your; रथः (*rathaḥ*)—chariot; ऋते (*ṛte*)—(when coming) for our sacrifice; मध्यमवाट् मा भूत् (*madhyamavāṭ mā bhūt*)—let it not be slow-moving; युष्मावत्तु (*yuṣmāvattu*) [as supplied; the Saṃhitā has युष्मावत्सु (*yuṣmāvatsu*)]—such as you; आपिषु (*āpiṣu*)—while there are kinsmen; मा श्रमिष्म (*mā śramiṣma*)—may we never be wearied.
+
+**भावार्थ (Bhāvārtha)**
+
+O gods, you yourselves are our kinsmen, givers of wealth. Being such, bring happiness to me, who ask for the desired object. When your chariot comes for our sacrifice, let it not be slow-moving but come swiftly. While we have kinsmen such as you, may we never suffer weariness.
+
+**English Translation**
+
+O gods, you, verily, are our kinsmen : being so, grant felicity to me your suppliant; let not your chariot be tardy in coming to the sacrifice ; let us never be weary of relatives such as you are.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+हये देवाः यूयमित् आपयः स्थ (*haye devāḥ yūyamit āpayaḥ stha*)—यूयमेव धनस्य प्रापयितारो बंधवो भवथ (*yūyameva dhanasya prāpayitāro baṃdhavo bhavatha*): here Sāyaṇa gives the particle इत् (*it*) the emphatic sense of एव (*eva*) (an upasarga, as the text calls it), and explains आपयः (*āpayaḥ*) as kinsmen who give wealth. हये (*haye*) is a particle of address. The verse addresses the gods, saying the sacrificers know the gods to be their kinsmen who bring wealth; the wish expressed in नाधमानाय मह्यं मृळत (*nādhamānāya mahyaṃ mṛḷata*) is that the gods, being kinsmen of the sacrificer, grant happiness to him who asks for desired benefits and praises them.
+
+वः रथः ऋते मध्यमवाट् माभूत् (*vaḥ rathaḥ ṛte madhyamavāṭ mābhūt*)—युष्माकं रथः अस्मदीये यज्ञे मध्यमेन गमनेन वाहको मा भूत् । शीघ्रं युष्मान् वहतु (*yuṣmākaṃ rathaḥ asmadīye yajñe madhyamena gamanena vāhako mā bhūt | śīghraṃ yuṣmān vahatu*): the prayer is that the gods' chariot, without slow movement, bring the gods quickly for the sacrificer's sacrifice.
+
+युष्मावत्सु आपिषु मा श्रमिष्म (*yuṣmāvatsu āpiṣu mā śramiṣma*)—युष्मत्सदृशेषु बंधुषु सत्तु श्रांता मा भूम (*yuṣmatsadṛśeṣu baṃdhuṣu sattu śrāṃtā mā bhūma*): the state prayed for is that we sacrificers, while we have kinsmen like the gods, may be without any weariness at all.
+
+### Printed p. 133
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 11, p. 133.*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> प्र व॒ एको॑ मिमय॒ भूर्यागो॒ यन्मा॑ पि॒तेव॑ कित॒वं श॑शा॒स ।
+> आ॒रे पाशा॑ आ॒रे अ॒घानि॑ देवा॒ मा माधि॑ पु॒त्रे विमि॑व ग्रभीष्ट ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> प्र । वः । एकः । मिमय । भूरि । आगः । यत् । मा । पिताइव । कितवं । शशास ।
+> आरे । पाशाः । आरे । अघानि । देवाः । मा । मा । अधि । पुत्रे । विंइव । ग्रभीष्ट ॥ ५॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देवा वो युष्माकं मध्येऽहमेकः सन् भूरि बहुलवागः पापं
+> प्र मिमय । अहं प्रकर्षणाहिंसिषं । कथमस्माकं मध्ये त्वमेव इति चेदुच्यते।
+> यद्यस्मान्मां पितेव कितवं यथापथप्रवृत्तं पुत्रं पितानुशास्ति तथा शशास । अनु-
+> शिष्टं चकृढ्वे ॥ शासु अनुशिष्टावित्यस्माल्लिटि मध्यमस्य रूपं ॥ अपि च हे देवा
+> युष्मदीयाः पाशा आरेऽस्मत्तो दूरदेशे संतु । अघानि पापानि चारे संतु ।
+> मा माधि पुत्रे ॥ अधिः सप्तम्यर्थानुवादी ॥ पुत्रे पश्यति सति पितरं संतं विमिव
+> पक्षिणमिव व्याधो मा ग्रभीष्ट । मा गृह्णिध्वं ॥ माजि लुजि हृग्रहोर्भ इति
+> भत्वं ॥
+
+> *he devā vo yuṣmākaṃ madhye 'hamekaḥ san bhūri bahulavāgaḥ pāpaṃ*
+> *pra mimaya | ahaṃ prakarṣaṇāhiṃsiṣaṃ | kathamasmākaṃ madhye tvameva iti ceducyate|*
+> *yadyasmānmāṃ piteva kitavaṃ yathāpathapravṛttaṃ putraṃ pitānuśāsti tathā śaśāsa | anu-*
+> *śiṣṭaṃ cakṛḍhve ‖ śāsu anuśiṣṭāvityasmālliṭi madhyamasya rūpaṃ ‖ api ca he devā*
+> *yuṣmadīyāḥ pāśā āre 'smatto dūradeśe saṃtu | aghāni pāpāni cāre saṃtu |*
+> *mā mādhi putre ‖ adhiḥ saptamyarthānuvādī ‖ putre paśyati sati pitaraṃ saṃtaṃ vimiva*
+> *pakṣiṇamiva vyādho mā grabhīṣṭa | mā gṛhṇidhvaṃ ‖ māji luji hṛgrahorbha iti*
+> *bhatvaṃ ‖*
+
+*Gist:* O gods, alone among you I have committed much sin; correct me as a father corrects a straying son; let your snares and sins be far from me; do not seize me, your son, as a fowler seizes a bird. The tail explains the perfect of शासु (*śāsu*) and the भ (*bha*) substitution in the aorist of ग्रह् (*grah*).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देवाः (*devāḥ*)—O gods; वः (*vaḥ*)—in your regard; एकः (*ekaḥ*)—being alone; भूरि (*bhūri*)—abundant; आगः (*āgaḥ*)—sin; प्र मिमय (*pra mimaya*)—I have committed; यत् (*yat*)—with which freedom and affection; पिता (*pitā*)—a father; कितवं इव (*kitavaṃ iva*)—as he corrects the fault of a son on a bad path and urges him onto the good path (so you also); मा (*mā*)—me; शशास (*śaśāsa*)—correct properly and direct to behave on the good path; पाशाः (*pāśāḥ*)—your snares; आरे (*āre*)—be far from us; अघानि (*aghāni*)—sins; आरे (*āre*)—be far; विमिव (*vimiva*)—(as a fowler) catches birds; पुत्रे (*putre*)—in me, who am as a son to you; मा मा अधि ग्रेभिष्ट (*mā mā adhi grebhiṣṭa*) [as supplied; the Saṃhitā has ग्रभीष्ट (*grabhīṣṭa*)]—do not cast a binding snare and bind me.
+
+**भावार्थ (Bhāvārtha)**
+
+O gods, being alone, I have committed abundant sin against you. With the freedom and pride with which a father corrects the fault of a son on a bad path and urges him onto the good path, so do you also correct me properly and direct me to behave on the good path.
+
+### Printed p. 134
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2 [sic, as supplied], Adhyāya 3, Sūkta 29, p. 134.*
+
+(The Bhāvārtha continues from p. 133.) Let your snares be far from us, and let sins be far. As a fowler catches birds, do not cast a binding snare on me, who am as a son to you, and bind me.
+
+**English Translation**
+
+Alone among you, I have committed many offences, (correct them) as a father corrects a naughty(son): far from me, gods, be bonds; far from me be sins: seize not upon me (your) son as (a fowler) catches a bird.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning that Sāyaṇa gives to the first half of this Ṛk does not fit well. वः एकः भूरि आगः प्रमिमय (*vaḥ ekaḥ bhūri āgaḥ pramimaya*)—युष्माकं मध्यॆ अहमेकस्सन् बहुलं पापं अहं प्रकर्षेण अहिंसिषं (*yuṣmākaṃ madhyè ahamekassan bahulaṃ pāpaṃ ahaṃ prakarṣeṇa ahiṃsiṣaṃ*): addressing the gods, "I alone have committed abundant sins against you." यत् मां पितेव कितवं शशास (*yat māṃ piteva kitavaṃ śaśāsa*)—यथा अपथप्रवृत्तं पुत्रं पिता अनुशास्ति तथा अनुशिष्यं चकृड्वे (*yathā apathapravṛttaṃ putraṃ pitā anuśāsti tathā anuśiṣyaṃ cakṛḍve*) [as supplied]: as a father corrects a son on a bad path and punishes him so that he is on the right path, so you should instruct me, who have committed many sins; this is Sāyaṇa's rendering. The text remarks that this sense is not quite fitting; it might perhaps fit if the word मध्यॆ (*madhyè*) in Sāyaṇa's युष्माकं मध्यॆ (*yuṣmākaṃ madhyè*) / अस्माकं मध्यॆ (*asmākaṃ madhyè*) were omitted.
+
+मा माधि पुत्रे विमिव (*mā mādhi putre vimiva*)—पुत्रे पश्यति सति पितरं संतं पक्षिणमिव व्याधः मा गृह्णीध्वं (*putre paśyati sati pitaraṃ saṃtaṃ pakṣiṇamiva vyādhaḥ mā gṛhṇīdhvaṃ*): as a fowler catches a bird, do not cast a snare on me, who am like your son, and bind me; and अघानि आरे संतु (*aghāni āre saṃtu*): the sins that bind us are also to be far from us. The gods are addressed with this prayer.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अ॒र्वांचो॑ अ॒द्या भ॑वता यजत्रा॒ आ वो॒ हार्दि॒ भय॑मानो
+> व्ययेयं ।
+> त्राध्वं॑ नो देवा नि॒जुरो॒ वृक॑स्य॒ त्राध्वं॑ क॒र्ताद॑व॒पदो॑ यजत्राः॥
+
+> *arvāṃco adyā bhavatā yajatrā ā vo hārdi bhayamāno*
+> *vyayeyaṃ |*
+> *trādhvaṃ no devā nijuro vṛkasya trādhvaṃ kartādavapado yajatrāḥ‖*
+
 ---
 
-**Progress note:** Done through printed p. 131 (PDF 131). Sūkta 29 Ṛk 2 English and Special Topics, Ṛk 3 complete, Ṛk 4 Saṃhitā, Pada, bhāṣya (Pratipadārtha continues p. 132). Hand fixes to kn.md: garbled labels replaced, stray '9' line removed, Pratipadārtha and Bhāvārtha split out of the bhāṣya block and unquoted. Flags: Nirukta reference printed as 'ಸಿ.' for 'ನಿ.' (6-15) as supplied; bhāṣya ಕರ್ತು೦ and ಶ್ಕಮಿಷ್ಮ-type OCR forms as supplied; accent report 2 DIFF
+**Progress note:** Done through printed p. 134 (PDF 134). Sūkta 29 Ṛk 4 Pratipadārtha to Special Topics, Ṛk 5 complete, Ṛk 6 Saṃhitā (Pada continues p. 134/135). Hand fixes to kn.md: stray image line removed, 'Englis Translation' label fixed. Flags: Pratipadārtha OCR forms ಸ್ಥೆ, ನಾಧಮಾನಸ್ಯ ಮಧ್ಯಂ, ಯುಷ್ಮಾವತ್ತು, ಗ್ರೇಭಿಷ್ಟ and ಚಕೃಡ್ವೇ as supplied; running head reads Maṇḍala 2 as supplied
