@@ -15162,6 +15162,85 @@ Kanikradat: (the kapiñjala bird) crying again and again. Januṣaṃ: what will
 
 The kapiñjala bird, crying again and again and foretelling beforehand what will come into being, sends forth its cry as a boatman gives directions to steer a boat. O kapiñjala bird, may you have good fortune. May no calamity approach you from any quarter.
 
+### Printed p. 478
+
+*[Running head, p. 478: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 42.]*
+
+**Printed English translation**
+
+Crying repeatedly, and foretelling what will come to pass, (the Kapinjala) gives (due) direction to its voice, as a helmsman (guides) a boat : be ominous, bird, of good fortune, and may no calamity whatever befall you from any quarter.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+For the three Ṛks of this sūkta and the three Ṛks of the next sūkta, Indra in the form of the kapiñjala bird is said to be the deity. Although the word कपिंजल (*kapiṃjala*) is not indicated in these Ṛks, the Anukramaṇikā says that Indra in the form of the kapiñjala is the deity. The kapiñjala is a bird; in English it is called the Francoline partridge or hazel-cock (in English letters in the supplied text). The word कपिंजल (*kapiṃjala*) is not used in the Ṛgveda. In other Vedas, that is, Taittirīya Saṃhitā 2-5-1-1; 5-5-16-1; Maitrāyaṇī Saṃhitā 3-14-1; Kāṭhaka Saṃhitā 12-10 [printed with a colon, changed to a semicolon in kn.md]; Vājasaneya Saṃhitā 24-20, 38; Śatapatha Brāhmaṇa 1-6-3-3; 5-5-4-4; 13-5-1-13; Jaiminīya Brāhmaṇa 1-154-2 and other places, the kapiñjala bird is mentioned. When explaining the similes called अर्थोपमा (*arthopamā*) and लुप्तोपमा (*luptopamā*), Yāska speaks of the kapiñjala bird—
+
+⟦ಕಪಿಂಜಲಃ ಕಪಿರಿವ ಜೀರ್ಣಃ ಕಪಿರಿವ ಜವತ ಈಷತ್ಪಿಂಗಲೋ ವಾ ಗಮನೀಯಂ ಶಬ್ದಂ
+ಪಿಂಜಯತೀತಿ ವಾ ॥⟧
+(Si. [as printed] 3-18)
+
+That is, the bird called kapiñjala has the name kapiñjala either because its body looks worn out like a monkey's, or because it has a dusky yellow colour like a monkey's, or because it makes a pleasant, that is auspicious, sweet sound: so he has given the etymology. It is well known that it is a good omen if the kapiñjala bird cries in the south. Therefore the sage Gṛtsamada besought the kapiñjala bird (Indra in the form of the kapiñjala) that no calamity of any kind befall him and that auspiciousness come in all quarters—
+
+⟦ಭದ್ರಂ ವದ ದಕ್ಷಿಣತೋ ಭದ್ರಮುತ್ತರತೋ ವದ ।
+ಭದ್ರಂ ಪುರಸ್ತಾನ್ನೋ ವದ ಭದ್ರಂ ಪಶ್ಚಾತ್ಕಪಿಂಜಲ ॥⟧
+
+This mantra is stated in the Pariśiṣṭa, that is, among the Khila mantras. O kapiñjala bird, being in the south, utter an auspicious omen. Likewise in the north, in front of us
+
+### Printed p. 479
+
+*[Running head, p. 479: Aṣṭaka 2, Adhyāya 8, Varga 11, Ṛgvedasaṃhitā.]*
+
+and behind us, utter only an auspicious omen: so the sage Gṛtsamada besought the kapiñjala bird. On this Ṛk Yāska has given an etymology—
+
+⟦ನ್ಯಕ್ರಂದೀಜ್ಜನ್ಮ ಪ್ರಬ್ರುವಾಣೋ ಯಥಾಸ್ಯ ಶಬ್ದಸ್ತಥಾ ನಾಮೇರಯತಿ ವಾಚಮೀರಯಿತೇವ
+ನಾವಂ ಸುಮಂಗಲಶ್ಚ ಶಕುನೇ ಭವ ಕಲ್ಯಾಣಮಂಗಲಃ । ಮಂಗಲಂ ಗಿರಿತೇರ್ಗೃಣಾತ್ಯರ್ಥೇ,
+ಗಿರತ್ಯನರ್ಥಾನಿತಿ ವಾ । ಅಂಗಲಮಂಗವತ್ । ಮಜ್ಜಯತಿ ಪಾಪಕಮಿತಿ ನೈರುಕ್ತಾಃ ।
+ಮಾಂ ಗಚ್ಛತ್ವಿತಿ ವಾ । ಮಾ ಚ ತ್ವಾ ಕಾಚಿದಭಿಭೂತಿಃ ಸರ್ವತೋ ವಿದತ್ ॥⟧
+(Ni. 9-4)
+
+O omen-bird, you, crying again and again, indicate by your voice, as a helmsman impels a boat, the future event that will come. Having explained the main sense, that "may good fortune be yours", he has explained the component senses of some words.
+
+सुमंगलः—कल्याणमंगलः । (*sumaṃgalaḥ—kalyāṇamaṃgalaḥ |*) Furnished with excellent auspiciousness. मंगलं (*maṃgalaṃ*) गिरतेर्गृणात्यर्थॆ, गिरत्यर्थानिति वा । (*giratergṛṇātyarthè, giratyarthāniti vā |*) Because it indicates, in the present, a matter worthy of praise, it is called मंगल (*maṃgala*). Or, because it destroys misfortunes, it is called मंगल (*maṃgala*). Or, if the letter म् (*m*) at the end of the word अंगलं (*aṃgalaṃ*) is transposed and used at the beginning, the form म् + अंगल = मंगल (*m + aṃgala = maṃgala*) results. The word अंगलं (*aṃgalaṃ*) can also be explained as "so that auspiciousness arises from auspicious substances such as curds, honey and unbroken rice". Or मज्जयति पापकमिति नैरुक्ताः । (*majjayati pāpakamiti nairuktāḥ |*): the Nirukta authors say it is called मंगल (*maṃgala*) because it drowns and destroys sins. Or मां गच्छत्विति (*māṃ gacchatviti*) [as supplied; the supplied text has वा (*vā*) earlier and ना (*nā*) here]: the word मंगल (*maṃgala*) may be formed from the sentence मां गच्छत्विति (*māṃ gacchatviti*), meaning "may a good thing (wealth) come and join me", so he explains.
+
+कनिक्रदत् जनुषं प्रब्रुवाणः नावं अरितेव वाचं इयर्ति (*kanikradat januṣaṃ prabruvāṇaḥ nāvaṃ ariteva vācaṃ iyarti*)—this kapiñjala bird (or omen-bird) cries again and again. As a boatman, while rowing a boat, pushes again and again, that is, makes it go forward, so this kapiñjala bird, by crying again and again, impels, that is makes known, the events to come. The first half of this Ṛk is *parokṣakṛta* (in the third person) and the latter half *pratyakṣakṛta* (in the second person). That is, since the first half describes the action the bird is performing, thinking the bird to be elsewhere and not before the speaker, the first half of the Ṛk is called *parokṣakṛta*; and since in the latter half the bird is thought of as before him, addressed and conversed with, the latter half is called *pratyakṣakṛta*.
+
+⟦ಶಕುನೇ (ತ್ವಂ) ಸುಮಂಗಲಶ್ಚ ಭವಾಸಿ । ಕಾ ಚಿದಭಿಭಾ ತ್ವಾ ವಿಶ್ವಾ ಮಾ ವಿದತ್—ಹೇ
+ಶಕುನೇ ತ್ವಂ ಪ್ರಕೃಷ್ಟಕಲ್ಯಾಣಃ ಭವಾಸಿ । ಕಿಂಚ ಕೋಽಪ್ಯಭಿಭವಃ ತ್ವಾ ಸರ್ವಾಸು ದಿಕ್ಷು ಮಾ ಪ್ರಾಪತ್ ।⟧
+
+### Printed p. 480
+
+*[Running head, p. 480: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 42.]*
+
+O omen-bird, be furnished with excellent auspiciousness, and may no calamity of any kind approach you in any quarter: this blessing of the seer is stated here. The Pariśiṣṭa mantras relating to this sūkta and the following sūktas are explained at the end of this maṇḍala.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It appears to be a decorative graphic or symbol consisting of black shapes and lines on a white background." (an ornament), kept as a note.]*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> मा त्वा॑ श्ये॒न उद्ध॑धी॒न्मा सु॑प॒र्णो मा त्वा॑ विद॒दिषु॑मान्वी॒रो॑
+> अस्ता ।
+> पित्र्या॒मनु॑ प्र॒दिशं॒ कनि॑क्रदत्सुमं॒गलो॑ भद्रवा॒दी व॑दे॒ह ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> मा । त्वा । श्येनः । उत् । वधीत् । मा । सुपर्णः । मा । त्वा । विदत् । इषुमान् ।
+> वीरः । अस्ता ।
+> पित्र्यां । अनु । प्रदिशं । कनिक्रदत् । सुमंगलः । भद्रवादी । वद । इह ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे शकुने त्वा त्वां श्येनः प्रबलः पक्षिविशेषो मा वधीत् । मा हिंसीत् ।
+> उत अपि च सुपर्णो गरुडः पक्षी मा वधीत् । तथेषुमान् । वाणवान्वीरोस्ता
+> शराणां क्षेप्ता धन्वी त्वा त्वां मा विदत् । मा प्रापत् । किंच पित्र्यां प्रदिशं दक्षिणां
+> दिशमनु । दक्षिणस्यां दिशीत्यर्थः । कनिक्रदत् पुनःपुनः शब्दं कुर्वन् सुमंगलः कल्याणमंगलो भद्रवादो शोभनवादी सन् इहास्मद्विषये वद । मंगलं सूचय ॥
+
+*(Gist: O omen-bird, may neither the hawk nor the eagle nor an archer strike you; crying in the south, speak auspiciously here. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+O kapiñjala bird, Tvā: you. Śyenaḥ: the (strong and powerful) hawk. Mā ut vadhīt: let it not fall upon and harm. Suparṇaḥ: the eagle bird. Mā (vadhīt): let it not harm. Iṣumān: bearing arrows. Vīraḥ: powerful. Astā: the shooter, that is the hero who fights with the bow
+
 ---
 
-**Progress note:** Done through printed p. 477 (PDF 477). Sukta 41 complete (Rik 20 note finished p. 475; Rik 21 complete pp. 475-476); Sukta 42 begins on p. 476: Sayana introduction, Anuvada, heading; Rik 1 complete on p. 477. Flags: garbled bhashya label kept as note; Ni. 9-4 inside bhashya; 2 accent DIFF
+**Progress note:** Done through printed p. 480 (PDF 480). Sukta 42 Rik 1 printed English and Special Topics (pp. 478-479, kapinjala bird, Nirukta 9-4 etymology of mangala); Rik 2 Samhita, Pada, bhashya, Pratipadartha begun (p. 480), ends mid-sentence. Flags: Si. 3-18 printed; colon in reference list changed to semicolon in kn.md; ornament line kept as note; accent DIFF 1 and NOMATCH 1 in Rik 2 Samhita
