@@ -10432,6 +10432,82 @@ In this Ṛk Agni is prayed to drink Soma. O Agni, enjoy the fuel sticks (pieces
 > *asthāt |*
 > *nūnaṃ | devebhyaḥ | vi | hi | dhāti | ratnaṃ | atha | ā | abhajat | vītihotraṃ | svastau ‖ 1 ‖*
 
+### Printed p. 332
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Aṣṭaka 4 (as printed), Sūkta 38, p. 332.*
+
+#### Ṛk 1 (continued from p. 331)
+
+**॥ सायणभाष्यम् ॥**
+
+> स्यः स देवो द्योतमानः सविता सवाय लोकानां प्रसवायानुज्ञायै शश्व-
+> त्तमं प्रतिदिनमुदस्थात् । उत्तिष्ठति । कीदृशः सविता । तदपाः तत्पसवकर्मा ॥ अपः अप्प इति
+> कर्मनामसु पाठात् ॥ वह्निर्वोढा जगतां । किंच नूनं संप्रति देवेभ्यः स्तोतृ-
+> भ्यो रत्नं धनं वि हि धाति । प्रयच्छति ॥ हीति पूरणे ॥ अथ अपि च वीतिहोत्रं
+> कांतयज्ञं यजमानं स्वस्तावविनाशे क्षेमेऽभजत् । भागिनं करोतु । यद्यपि
+> स्वस्तिशब्दो विभक्त्यंतनिर्दिष्टशब्दपरस्तथाप्यपर्यवसानादर्थपरो भवति ॥
+
+> *syaḥ sa devo dyotamānaḥ savitā savāya lokānāṃ prasavāyānujñāyai śaśva-*
+> *ttamaṃ pratidinamudasthāt | uttiṣṭhati | kīdṛśaḥ savitā | tadapāḥ tatpasavakarmā ‖ apaḥ appa iti*
+> *karmanāmasu pāṭhāt ‖ vahnirvoḍhā jagatāṃ | kiṃca nūnaṃ saṃprati devebhyaḥ stotṛ-*
+> *bhyo ratnaṃ dhanaṃ vi hi dhāti | prayacchati ‖ hīti pūraṇe ‖ atha api ca vītihotraṃ*
+> *kāṃtayajñaṃ yajamānaṃ svastāvavināśe kṣeme 'bhajat | bhāginaṃ karotu | yadyapi*
+> *svastiśabdo vibhaktyaṃtanirdiṣṭaśabdaparastathāpyaparyavasānādarthaparo bhavati ‖*
+
+Gist: Savitṛ, the doer of the world's work and its bearer, rises daily for the world's generation, grants wealth to the praisers, and is asked to make the sacrificer share in lasting well-being.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*tadapāḥ* — he who has the work of the creation of the world. *vahniḥ* — he who bears the burden of the world. *syaḥ* — the well-known. *devaḥ* — the shining. *savitā* — Savitṛ. *savāya* — for the generation of the world. *śaśvattamaṃ* — every day. *ut asthāt* — rises up, having dawned. *nūnaṃ* — certainly. *devebhyaḥ* — to the praisers. *ratnaṃ* — wealth. *vi hi dhāti* — he gives. *atha* — and. *vītihotraṃ* — the sacrificer who performs the sacrifice. *svasau* [?] — to well-being (the printed text reads स्वसौ (*svasau*); the Saṃhitā has *svastau*; the text after it, "ಆ" before *abhajat*, is garbled as supplied). *abhajat* — may he make a sharer.
+
+**भावार्थ (Bhāvārtha)**
+
+Savitṛ, who has the work of the creation of the world, who bears the burden of the world, the well-known, the shining, rises up daily, having dawned, for the generation of the world, and is the giver of wealth to the praisers. In the same way, may he bring well-being to the sacrificer who performs the sacrifice.
+
+**Printed English translation**
+
+In truth, the divine Savitri, the bearer (of the world), has perpetually been present for the generation (of mankind), for such is his office: verily he grants wealth to the pious (worshippers): may he. therefore, bestow upon the offerer of the oblation (sufficient) for his well-being.
+
+*(The Kannada text prints the heading "English Translation-" before the above; it stands inside the Bhāvārtha lines as supplied.)*
+
+*Note: the Pada reading given on p. 331 ends *tattvāpasāḥ*, while the Pratipadārtha and the bhāṣya here have *tadapāḥ* / तदपाः (*tadapāḥ*); reported as supplied.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*devaḥ savitā* — On the deity Savitṛ Yāska says: सविता सर्वस्य प्रसविता । आदित्योSपि सवितोच्यते (*savitā sarvasya prasavitā | ādityoSpi savitocyate*) (Nirukta 10-31, 32, 33). That is: he who brings forth the whole world, the cause of the origin of all the world; the Āditya (the sun too) is also called Savitṛ. Thus he has given the etymology.
+
+### Printed p. 333
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2 (printed "ಅ."), Adhyāya 8, Varga 2, p. 333.*
+
+Eleven sūktas of the Ṛgveda, and parts of some other sūktas, praise the deity Savitṛ. The opinion of the commentators is that the sun just at the moment of rising is the deity Savitṛ, and afterwards it is the sun. Savitṛ is, for the most part, a deity of gold. His eye (Ṛ. S. 1-35-8), his hands (1-35-9, 10), his tongue (6-71-3) and all his other limbs are described as golden. His chariot too is golden (1-35-2, 5).
+
+The radiance of the god Savitṛ is immense. His golden light spreads over and illumines the whole world. He raises his golden arms and wakes all the living beings that were sleeping in the night (2-38-2; 4-53-3, 4; 6-71-1, 5; 7-45-2). Seated in his golden chariot he goes along looking over all creatures (1-35-2, 3). Shining with the sun's rays, Savitṛ of yellow-brown hair sends forth his light constantly from the eastern quarter (10-139-1). He goes round three times the three upper regions that light up the atmosphere and the sky (4-53-5); he is the one who gives the gods immortality and men long life (4-54-2). Just as the sun is prayed to, so Savitṛ is prayed to for the removal of bad dreams (5-82-4) and for release from sin (4-54-3). Water and wind are subject to his rule (2-38-2). The other deities follow his lead (5-81-3). Indra, Mitra, Varuṇa, Aryaman, Rudra and others cannot resist his determination or his independence (2-38-7, 9; 5-83-2). The Vasus, Aditi, Varuṇa, Mitra and Aryaman praise his fame (7-38-3, 4). Like Pūṣan and Sūrya, Savitṛ is the lord of things moving and unmoving (4-53-6). All things desired by everyone are under his control. He himself, being in heaven, earth and sky, brings about what is auspicious (1-24-3; 2-28-11); like the other deities he too is the support of the sky (4-53-2; 10-149-4), the support of the whole world (4-54-4); he has bound the earth with bonds and set it to stand firm, and he has made the sky stand in the intervening space that has no beams or supports (10-149-1).
+
+Because Savitṛ is the maker of rain, and because his path lies in the atmosphere, he is spoken of as a deity of the middle region. In the Śatapatha Brāhmaṇa (Ś. Brā. 12-3-5-1) the view is expressed that Savitṛ and Prajāpati are one and the same deity. In the Taittirīya Brāhmaṇa (1-6-4-1) it is said that Prajāpati himself, as Savitṛ, created the creatures (the printed text reads प्रजाप्रतिये (*prajāpratiye*) [?], presumably for *prajāpati*; the opening bracket of the reference is missing in the print). In the Ṛk 3-62-10 it is said that, having meditated on the vigour and greatness of Savitṛ, his vigour may impel all. This very mantra is known in the Vedas as the Gāyatrī, and has gained pre-eminence among all the Vedic mantras. As a rule the word *deva* is used together with the word *savitṛ*.
+
+### Printed p. 334
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Aṣṭaka 4 (as printed), Sūkta 38, p. 334.*
+
+(The sentence begun on p. 333 ends at the top of this page: "…the custom is that the word *deva* is used.") The name Savitṛ is given to a special power of the sun that produces life in the world and gives the power of motion to creatures. According to some, the sun is this gross disc, a mass of light seen in the sky, and Savitṛ is the divine power, embodied, of that sun.
+
+Many matters concerning the deity Savitṛ we shall explain in detail when we give the explanation of the Ṛk Ṛ. S. 3-62-10 (Gāyatrī).
+
+सवाय—लोकानां प्रसवाय । (*savāya—lokānāṃ prasavāya |*) The meaning is: in order that the activities of the creatures in the world, such as their birth and continuance, may go on. If the sun (Savitṛ) does not rise, neither the birth of creatures nor activities such as movement go on. The idea is that Savitṛ is the cause of all the activities of the world.
+
+तदपाः— (*tadapāḥ—*) The word *apaḥ* is read among the names of works (Nirukta 3-2). Here *tadapāḥ* means one who is endowed with those works, that is, the cause of the works of creation, continuance and so on.
+
+वह्निः— (*vahniḥ—*) The word *vahni*, formed from the root वह प्रापणे (*vaha prāpaṇe*), means one who bears, that is, one who sustains the world. That is, all the activities of the world go on through this god Savitṛ. The idea is that he is both the sustainer and the nourisher of the world.
+
+देवेभ्यः—स्तोतृभ्यः । (*devebhyaḥ—stotṛbhyaḥ |*) On the word *deva* Yāska has given the etymology: देवो दानाद्वा दीपनाद्वा द्योतनाद्वा द्युस्थानो भवतीति वा । (*devo dānādvā dīpanādvā dyotanādvā dyusthāno bhavatīti vā |*) That is, the word *deva* may mean "giver"; or, he is called *deva* because he illumines, or because his qualities are described and praised, or because he dwells in heaven. In the present Ṛk, taking the meaning of *dīpana* or *dyotana* as describing the qualities of the god Savitṛ and making them shine, the sense is explained as the priests who describe the qualities of the deity, that is, who praise him.
+
+रत्नं-रमणीयं धनं । (*ratnaṃ-ramaṇīyaṃ dhanaṃ |*) It means pleasing wealth, that is, wealth attractive to people.
+
+नीतिहोत्रं [?]—कांतयज्ञं यजमानं । (*nītihotraṃ [?]—kāṃtayajñaṃ yajamānaṃ |*) (The headword is printed *nītihotram* [?]; the Saṃhitā and Pada have *vītihotram*.) The idea is: to the sacrificer who desires a sacrifice, that is, who desires to perform a sacrifice addressed to the deities.
+
+स्वस्तौ—अविनाशे क्षेमे । (*svastau—avināśe kṣeme |*) Yāska's etymology is स्वस्तित्यविनाशि नाम (*svastityavināśi nāma*) (Nirukta 3-21): well-being that does not perish, or wealth and other prosperity.
+
 ---
 
-**Progress note:** Done through printed p. 331 (PDF 331). pp. 329-331: Sukta 37 Rk 6 (last) and Sukta 38 intro + Rk 1 Samhita/Pada; flags: kn.md Sukta 38 Sanskrit intro made a > block; p.330 running head prints Mandala 3/Astaka 4 as supplied; Rk 6 Special Topics ends mid-passage at p. 330 as supplied; some Samhita lines unaccented/DIFF in accent step
+**Progress note:** Done through printed p. 334 (PDF 334). pp. 332-334: Sukta 38 Rk 1 bhashya, Pratipadartha, Bhavartha, printed English, Special Topics (Savitr, with Nirukta quotes); flags: 3 [?] (headword nitihotram for vitihotram, svasau for svastau, prajapratiye); Pada reads tattvapasah vs bhashya tadapah; no Sukta 37 continuation on these pages
