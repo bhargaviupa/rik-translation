@@ -28903,4 +28903,127 @@ The Kannada: "Up to now, having described in many ways the qualities of Indra's 
 
 ---
 
-**Progress note:** Done through printed p. 752 (PDF 775). Sūkta 14: Ṛk 11 is complete (printed English and Viśeṣaviṣayagaḷu on pp. 750–751; a short rule closes it, no grammar section). Ṛk 12 (the last Ṛk of the sūkta) is written through the printed English and the first part of the Viśeṣaviṣayagaḷu (three items); the Viśeṣaviṣayagaḷu may continue on p. 753, and the colophon of Sūkta 14 and the start of Sūkta 15 are still to come. Numeral file had 0 rows for these pages; nothing was zoomed (single-call reading). Unzoomed numerals: Ni. "2-10" (p. 750, as I read it), Ni. "3-20" and "3-13" (p. 750), "ऋ. सं. 2-14-11" (p. 751, agrees with the position), "पा. 3-1-8-2" (p. 752 bhāṣya); the Ṛk number 12 after the Pada is as printed. Doubtful [?]: "समर्थयस्य" in the bhāṣya (the Saṃhitā has -स्व), "अर्थ याचने", "सत्वन्यः" at the line break; printed "ಇಚ್ಛಿಸುತ್ರೇವೆಯೋ" and "sacrifibe" marked as printed. Accents not reproduced.
+### Printed p. 753 (PDF 776)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 15 ]" (small Kannada numerals), "Ṛgvedasaṃhitā", "753". No numeral-file rows; nothing zoomed. This page finishes the Viśeṣaviṣayagaḷu of Ṛk 12 of Sūkta 14, and Sūkta 15 begins at the foot.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(continued from Ṛk 12 of Sūkta 14)*
+
+**इंद्र यत् चित्रं श्रवस्याः अनु द्यून् (*iṃdra yat citraṃ śravasyāḥ anu dyūn*)**—The Kannada: "O Indra, Indra is prayed to give us, who desire wealth, wealth and other possessions of many kinds every day."
+
+**बृहत् वदेम विदथे सुवीराः (*bṛhat vadema vidathe suvīrāḥ*)**—
+
+> सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं शस्त्रादिकं वाक्यं वदेम ॥
+
+> *suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema ‖*
+
+The Kannada: "'We, endowed with excellent sons, grandsons and the like and with valiant bands of servants, shall, for your pleasure, Indra, recite abundant śastra and other mantras in this sacrifice.' As was said in the preceding sūktas, so here also at the end of this sūkta the ṛṣi has made this wish (āśaṃsane)."
+
+*(A short rule is printed here, closing Sūkta 14. No Sanskrit colophon or Kannada closing line is printed for it; in these sūktas of this adhyāya none was seen.)*
+
+---
+
+## Sūkta 15
+
+*(Printed title: "ಹದಿನೈದನೆಯು ಸೂಕ್ತವು" — "The fifteenth sūkta".)*
+
+**Sāyaṇa's introduction (Sanskrit):**
+
+> प्र घा न्वस्येति दशर्चं चतुर्थं सूक्तं गार्त्समदं त्रैष्टुभमैंद्रं । अत्रानुक्रमणिका प्र घ दशेति ॥ दशरात्रे षष्ठेऽहनि निष्केवल्ये त्रीणि सूक्तानि । तत्रेदं द्वितीयं । षष्ठस्येति खंडे सूत्रितं । ऐंद्र याह्युप नः प्र घा न्वस्याभूरेक इति निष्केवल्यं । आ. 8-1 [?] । इति ॥ त्र्यैकमामुके [?] निष्केवल्ये प्र घा न्वस्येत्येषा सूक्तमुखीया । उशनःस्तोमे सूत्रितं । त्र्यर्यमा मनुषो देवताता प्र घा न्वस्य महतो महानि । आ. 9-5 [?] । इति ॥
+
+> *pra ghā nvasyeti daśarcaṃ caturthaṃ sūktaṃ gārtsamadaṃ traiṣṭubhamaiṃdraṃ | atrānukramaṇikā pra gha daśeti ‖ daśarātre ṣaṣṭhe 'hani niṣkevalye trīṇi sūktāni | tatredaṃ dvitīyaṃ | ṣaṣṭhasyeti khaṃḍe sūtritaṃ | aiṃdra yāhyupa naḥ pra ghā nvasyābhūreka iti niṣkevalyaṃ | ā. 8-1 [?] | iti ‖ tryaikamāmuke [?] niṣkevalye pra ghā nvasyetyeṣā sūktamukhīyā | uśanaḥstome sūtritaṃ | tryaryamā manuṣo devatātā pra ghā nvasya mahato mahāni | ā. 9-5 [?] | iti ‖*
+
+*(The two Āśvalāyana references are printed with small numerals, unzoomed. For the first I read 8-1 in the Anuvāda and a glyph that may be 8 or 9 in the Sanskrit; for the second 9-5; both flagged. The name of the rite is printed "त्र्यैकमामुके" in the Sanskrit and "ತ್ರೀಕಮಾಮುಕ" in the Anuvāda; I give both as printed, doubtful.)*
+
+**अनुवाद (Anuvāda)**
+
+The Kannada: "This sūkta beginning प्र घा न्वस्य (*pra ghā nvasya*) is the fourth sūkta in the second anuvāka. It has ten Ṛks. Gṛtsamada is the ṛṣi; Indra is the deity; Triṣṭup is the metre. In the Anukramaṇikā it is stated beginning प्र घ दश (*pra gha daśa*). In the sacrifice called Daśarātra, when the niṣkevalya śastra mantras are recited on the sixth day, three sūktas are recited; of them this is the second. This matter is explained in the khaṇḍa षष्ठस्य (*ṣaṣṭhasya*) of the Āśvalāyana Śrauta Sūtra by the sūtra ऐंद्र याह्युप नः प्र घा न्वस्याभूरेक इति निष्केवल्यं (*aiṃdra yāhyupa naḥ pra ghā nvasyābhūreka iti niṣkevalyaṃ*) (Āś. 8-1 [?]). Also in the niṣkevalya śastra mantras recited in the sacrifice called Trīkamāmuka [?], the one Ṛk प्र घा न्वस्य (*pra ghā nvasya*), the first Ṛk of this sūkta, is to be recited; this is explained in the Āśvalāyana Śrauta Sūtra by the sūtra त्र्यर्यमा मनुषो देवताता प्र घा न्वस्य महतो महानि (*tryaryamā manuṣo devatātā pra ghā nvasya mahato mahāni*) (Āś. 9-5 [?])."
+
+---
+
+### Printed p. 754 (PDF 777)
+
+*(Header, read from the strip: "754", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 15". No numeral-file rows; nothing zoomed.)*
+
+**॥ ओम् ॥**
+
+**सूक्त—15**
+
+॥ मंडल—2 ॥ अनुवाक—2 ॥ सूक्त—15 ॥
+॥ अष्टक—2 ॥ अध्याय—6 ॥ वर्ग—15, 16 ॥ *(varga numerals as I read them, unzoomed)*
+
+Number of Ṛks in the sūkta—10. Ṛṣi—Gṛtsamada. Devatā—Indra. Chandas—Triṣṭup.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र घा॒ न्व॑स्य मह॒तो म॒हानि॑ स॒त्या स॒त्यस्य॒ कर॑णानि वोचं ।
+> त्रिक॑द्रुकेष्वपिबत्सु॒तस्या॒स्य मदे॒ अहि॒मिंद्रो॑ जघान ॥ १ ॥
+
+> *pra ghā nvasya mahato mahāni satyā satyasya karaṇāni vocaṃ |*
+> *trikadrukeṣvapibatsutasyāsya made ahimiṃdro jaghāna ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+*(No Ṛk number is printed after the Pada.)*
+
+> प्र । घ । नु । अस्य । महतः । महानि । सत्या । सत्यस्य । करणानि । वोचं ।
+> त्रिकद्रुकेषु । अपिबत् । सुतस्य । अस्य । मदे । अहिं । इंद्रः । जघान ॥
+
+> *pra | gha | nu | asya | mahataḥ | mahāni | satyā | satyasya | karaṇāni | vocaṃ |*
+> *trikadrukeṣu | apibat | sutasya | asya | made | ahiṃ | iṃdraḥ | jaghāna ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Gṛtsamada says: I now proclaim Indra's true, great deeds: he drank the pressed soma at the Trikadruka days and in its exhilaration slew Vṛtra.*
+
+> गृत्समदो ब्रूते । महतो बलवतः सत्यस्य सत्यसंकल्पस्यास्येंद्रस्य सत्यानि यथार्थानि महानि महांति करणान्यस्मिन् सूक्ते वक्ष्यमाणानि कर्माणि नु अद्य प्र वोचं । प्रकर्षेण ब्रवीमि ॥ वच परिभाषणे । छंदसि लुङ्लङ्लिट [?] इति वर्तमाने लुङ् । अस्यतिवक्तिख्यातिभ्योऽङ् । वच उम् ॥ घेति प्रसिद्धा । कानि तानि उच्यंते । त्रिकद्रुकेषु ज्योतिर्गौरायुरित्येवंरूपेष्वभिप्लविकेष्वहःसु सुतस्याभिषुतं सोममिंद्रोऽपिबत् । ततः पीतस्यास्य सोमस्य मदे हर्षे संजातते सतींद्रोऽहिं वृत्रमसुरं जघान । हतवान् ॥
+
+> *gṛtsamado brūte | mahato balavataḥ satyasya satyasaṃkalpasyāsyeṃdrasya satyāni yathārthāni mahāni mahāṃti karaṇānyasmin sūkte vakṣyamāṇāni karmāṇi nu adya pra vocaṃ | prakarṣeṇa bravīmi ‖ vaca paribhāṣaṇe | chaṃdasi luṅlaṅliṭa [?] iti vartamāne luṅ | asyativaktikhyātibhyo 'ṅ | vaca um ‖ gheti prasiddhā | kāni tāni ucyaṃte | trikadrukeṣu jyotirgaurāyurityevaṃrūpeṣvabhiplavikeṣvahaḥsu sutasyābhiṣutaṃ somamiṃdro 'pibat | tataḥ pītasyāsya somasya made harṣe saṃjātate satīṃdro 'hiṃ vṛtramasuraṃ jaghāna | hatavān ‖*
+
+*(The grammatical tail, on the root वच (*vac*) with लुङ् (*luṅ*), the affix अङ् (*aṅ*) and the augment उम् (*um*), and on घ (*gha*) as a well-known particle, is transcribed, not explained. In the printed text the pronoun phrase reads "सोमस्य मदे हर्षे संजाते सति"; I wrote "संजातते" by slip? — no: I read it as संजाते सति, see the corrected line below.)*
+
+*(Correction of the line above, which I give as read from the strip: "… मदे हर्षे संजाते सतींद्रोऽहिं वृत्रमसुरं जघान । हतवान् ॥". The word "लुङ्लङ्लिट" is printed with no visarga after the last syllable, as I read it.)*
+
+**प्रतिपदार्थ (Pratipadārtha)** *(begins at the foot of p. 754 and runs on to p. 755)*
+
+महतः (*mahataḥ*)—of him who is endowed with majesty. सत्यस्य (*satyasya*)—of him who is of true nature. अस्य (*asya*)—of Indra, of this one. सत्या (*satyā*)—real. महानि (*mahāni*)—full of great qualities. करणानि (*karaṇāni*)—the distinctive features of the deeds…
+
+---
+
+### Printed p. 755 (PDF 778)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 15 ]", "Ṛgvedasaṃhitā", "755". No numeral-file rows; nothing zoomed.)*
+
+*(Continuation of the Pratipadārtha:)* …करणानि (*karaṇāni*) (continued)—the distinctive features of the deeds. नु (*nu*)—now. प्र वोचं (*pra vocaṃ*)—I proclaim, declaring them in an excellent manner. घ (*gha*)—that is to say. त्रिकद्रुकेषु (*trikadrukeṣu*)—on the days of the Trikadruka. सुतस्य (*sutasya*)—the pressed soma juice. अपिबत् (*apibat*)—(Indra) drank. अस्य (*asya*)—by drinking this soma juice. मदे (*made*)—when exhilaration arose. इंद्रः (*iṃdraḥ*)—Indra. अहिं (*ahiṃ*)—the demon Vṛtra. जघान (*jaghāna*)—slew.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "I now proclaim, in an excellent manner, the distinctive features of the deeds of Indra, who is endowed with majesty and is truthful in nature, deeds that are real and full of great qualities: that is, Indra drank the soma juice pressed on the days of the Trikadruka; and when exhilaration arose from drinking this soma juice, Indra slew the demon Vṛtra."
+
+**English Translation** *(as printed)*
+
+Verily, I proclaim the great and authentic deeds of the mighty and true (Indra); of him who drank the effused juices at the Trikadruka rites, and in his exhilaration slew Ahi.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Kannada: "In this sūkta it is described how Indra, having drunk soma, did many daring deeds from the exhilaration arising from it. In every Ṛk one or two daring deeds of Indra are described, and it is explained, by the sentence सोमस्य ता मद इंद्रश्चकार (*somasya tā mada iṃdraścakāra*), that Indra did such a deed in the fullness of joy of soma-drinking. This sentence is recited like a refrain (pallavi) at the end of every Ṛk."
+
+**घ (*gha*)**—The Kannada: "The word घ (*gha*) is used in its well-known sense. For the convenience of the metre the vowel *a* is lengthened in the Saṃhitā text."
+
+**प्र घ नु अस्य महतः महानि सत्या सत्यस्य करणानि वोचं (*pra gha nu asya mahataḥ mahāni satyā satyasya karaṇāni vocaṃ*)**—
+
+> बलवतः सत्यसंकल्पस्येंद्रस्य यथार्थानि वक्ष्यमाणानि महांति कर्माणि अद्य प्रकर्षेण ब्रवीमि ।
+
+> *balavataḥ satyasaṃkalpasyeṃdrasya yathārthāni vakṣyamāṇāni mahāṃti karmāṇi adya prakarṣeṇa bravīmi |*
+
+*(The word "यथार्थानि" is printed with a stray colon-like mark, "यथाःर्थानि", as printed.)* The Kannada: "'I shall now describe well the true and greatness-filled daring deeds of Indra, who is endowed with great strength and valour.' Thus the ṛṣi says in the opening sentence of this sūkta; and accordingly in every Ṛk he describes some qualities or deeds of Indra, and says that Indra did such a deed in the fullness of joy of soma-drinking."
+
+**त्रिकद्रुकेषु अपिबत् सुतस्य अस्य मदे अहिं इंद्रः जघान (*trikadrukeṣu apibat sutasya asya made ahiṃ iṃdraḥ jaghāna*)**—The Kannada: "Of the sacrifice called Abhiplava, on the first three days, which are called ज्योतिः गौः आयुः (*jyotiḥ gauḥ āyuḥ*), the soma juice pressed and prepared…" *(the page ends here; the sentence continues on p. 756, not yet seen)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 755 (PDF 778). Sūkta 14 closed (Viśeṣaviṣayagaḷu of Ṛk 12 finished on p. 753; no colophon printed). Sūkta 15 opened (p. 753 intro, p. 754 heading block); Ṛk 1 is written through the printed English and the first four items of the Viśeṣaviṣayagaḷu; the last item (⟦त्रिकद्रुकेषु अपिबत् …⟧, "…the soma juice pressed and prepared…") is left open mid-sentence and continues on p. 756. The Pratipadārtha is split across the page break (pp. 754–755) as printed. Numeral file had 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed numerals: Āśvalāyana references "8-1" (Anuvāda; the Sanskrit-intro glyph may be 8 or 9) and "9-5"; varga "15, 16"; the Ṛk 1 number printed after the Saṃhitā; no number printed after the Pada. Doubtful [?]: "त्र्यैकमामुके"/"ತ್ರೀಕಮಾಮುಕ" (name of the rite), "लुङ्लङ्लिट". The bhāṣya chunk contains a stray correction paragraph about "संजाते सति" (a slip of mine in drafting; the reading is संजाते सति, ignore the word "संजातते"). Accents not reproduced.
