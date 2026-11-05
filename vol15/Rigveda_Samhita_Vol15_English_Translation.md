@@ -7895,6 +7895,116 @@ the Maruts, with their (powerful) strength that quickly spreads, make the rain-w
 
 The word पेशसं (*peśasaṃ*) is given among the names of form (Ni. 3-13) and among the names of gold, and is explained: पेश इति रूपनाम पिंशतेर्विपिशितं भवति (*peśa iti rūpanāma piṃśatervipiśitaṃ bhavati*) (Ni. 8-12).
 
+### Printed p. 254
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> ता इ॑या॒नो महि॒ वरू॑थमू॒तय॒ उप॒ फेदे॒ना नम॑सा
+> गृणीमसि ।
+> त्रि॒तो न यान्पंच॒ होत्था॑न॒भिष्ट॑य आव॒नवर्त॒दव॑राञ्च॒क्रियाव॑से ॥
+
+**॥ पदपाठः ॥**
+
+> तान् । इयानः । महि । वरूथं । ऊतये । उप । घ । इत् । एना । नमसा ।
+> गृणेमसि ।
+> त्रितः । न । यान् । पंच । होत्यन् । अभिष्टये । आववर्तत् । अवरान् । चक्रिया ।
+> अवसे ॥ १४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तान् मरुतो महि महद्वरूथं वरणीयं प्रशस्तं धनं तन्मरुत ऊतये
+> रक्षणार्थमियान इयाना याचमाना वयं ॥ सुपां सुलुगिति जसः सुः ॥ एनानेन
+> नमसा नमस्कारेण स्तोत्रेण वोपेत् उपेत्य गृणीमसि । स्तुमः ॥ घेति पादपू-
+> रणः । एनेत्यत्र सुपां सुलुगिति तृतीयाया आजादेशः । नशब्दः समुच्चये ॥ त्रित
+> ऋषिश्च यानेतान् मरुतः पंच होत्थन् अध्यात्मप्राणापानादिपंचवृत्तात्मना
+> वर्तमानान् अत एव होमनिष्पादकान् अवरान् मुख्यानभिष्टयेऽभिलषितसिद्ध्यर्थं
+> चक्रिया नाभिचक्रेणावसेऽवितुं संगंतुमाववर्तत् । स्वस्मान्निर्जिगमिषून्प्राणान्
+> स्वात्माभिमुखमावर्तयत् । यद्वा चक्रिया ऋष्टाख्येनायुधेन युक्तान् अवसे
+> स्तुत्यादिभिस्तर्पयितुमावर्तयत् । तान् स्तुम इति संबंधः ॥ ववर्तदिति वृतेर्ण्यं-
+> ताल्लुजि चङि रूपं ॥
+
+> *tān maruto mahi mahadvarūthaṃ varaṇīyaṃ praśastaṃ dhanaṃ tanmaruta ūtaye*
+> *rakṣaṇārthamiyāna iyānā yācamānā vayaṃ ‖ supāṃ sulugiti jasaḥ suḥ ‖ enānena*
+> *namasā namaskāreṇa stotreṇa vopet upetya gṛṇīmasi | stumaḥ ‖ gheti pādapū-*
+> *raṇaḥ | enetyatra supāṃ sulugiti tṛtīyāyā ājādeśaḥ | naśabdaḥ samuccaye ‖ trita*
+> *ṛṣiśca yānetān marutaḥ paṃca hotthan adhyātmaprāṇāpānādipaṃcavṛttātmanā*
+> *vartamānān ata eva homaniṣpādakān avarān mukhyānabhiṣṭaye 'bhilaṣitasiddhyarthaṃ*
+> *cakriyā nābhicakreṇāvase 'vituṃ saṃgaṃtumāvavartat | svasmānnirjigamiṣūnprāṇān*
+> *svātmābhimukhamāvartayat | yadvā cakriyā ṛṣṭākhyenāyudhena yuktān avase*
+> *stutyādibhistarpayitumāvartayat | tān stuma iti saṃbaṃdhaḥ ‖ vavartaditi vṛterṇyaṃ-*
+> *tālluji caṅi rūpaṃ ‖*
+
+Gist: We, imploring the Maruts for ample, choice wealth for protection, approach and praise them with this homage; Trita turned the five Maruts towards himself.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+न (*na*)—and; पंच (*paṃca*)—five in number, as prāṇa, apāna and the rest; यान् (*yān*)—which Maruts; अवरान् (*avarān*)—very chief; होत्यन् (*hotyan*)—as priests (for the sacrifice); अभिष्टये (*abhiṣṭaye*)—for the accomplishment of his desired end; चक्रिया (*cakriyā*)—with their weapons; अवसे (*avase*)—for protecting himself;
+
+### Printed p. 255
+
+त्रितः (*tritaḥ*)—Trita; अववर्तत् (*avavartat*)—whom he prayed not to go out and held back in himself; तान् (*tān*)—those Maruts; मही (*mahi*)—great; वरूथं (*varūthaṃ*)—and praiseworthy wealth; ऊतये (*ūtaye*)—for protection; इयानः (*iyānaḥ*)—we who pray; एना नमसा (*enā namasā*)—with this praise accompanied by homage; उप इत् (*upa it*)—approaching; गृणीमसि (*gṛṇīmasi*)—we praise.
+
+**भावार्थ (Bhāvārtha)**
+
+We who pray for great and praiseworthy wealth for protection approach with this praise accompanied by homage, and praise those Maruts — the five, prāṇa, apāna and the rest, whom Trita, for the accomplishment of his desired end, as very chief priests of the sacrifice, and for protecting himself with their weapons, prayed not to go out and held back within himself.
+
+**English Translation (as printed)**
+
+Imploring them for ample wealth, and (having recourse to him) for protection, we glorify them with this praise ; like the five chief priests whom Trita detained for the (performance of) the sacrifice, and to protect it with their weapons.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> त्रितः यान् पंच होत्यन् अपर्रा अभिष्टये चक्रिया अवसे आववर्तत्-त्रित
+> ऋषिः एतान् मरुतः अध्यात्मप्राणापानादिपंचवृत्तात्मना वर्तमानान् आत एव
+> होमनिष्पादकान् मुख्यान् अभिलषितसिद्ध्यर्थं, नाभिचक्रेण अनितुं संगंतुं स्वस्मा
+> न्निर्जिगमिषून् प्राणान् स्वात्माभिमुखमावर्तयत् । यद्वा चक्रिया ऋष्टाख्येना
+> युधेन युक्तान् स्तुत्यादिभिः तर्पयितुं आवर्तयत् !
+
+> *tritaḥ yān paṃca hotyan aparrā abhiṣṭaye cakriyā avase āvavartat-trita*
+> *ṛṣiḥ etān marutaḥ adhyātmaprāṇāpānādipaṃcavṛttātmanā vartamānān āta eva*
+> *homaniṣpādakān mukhyān abhilaṣitasiddhyarthaṃ, nābhicakreṇa anituṃ saṃgaṃtuṃ svasmā*
+> *nnirjigamiṣūn prāṇān svātmābhimukhamāvartayat | yadvā cakriyā ṛṣṭākhyenā*
+> *yudhena yuktān stutyādibhiḥ tarpayituṃ āvartayat !*
+
+Here the word पंचहोत्यन् (*paṃcahotyan*) is used in the sense that in this body the Maruts (the winds), bearing the names prāṇa, apāna, vyāna, udāna and samāna, dwell doing their respective functions in keeping with the body, as the maintainers of the state of the self. By this it is indicated that they are the chief means by which the worship of the bodily Vaiśvānara fire is accomplished. Since their seat is in the heart as prāṇa, in the anal region as apāna, and in the navel as samāna, the sage Trita held these Maruts, who were eager to go out of the body, in the Svādhiṣṭhāna wheel in the navel, and made them face himself; and it is said that by this Trita's protection came about, and that these Maruts are chief in bringing about all desired ends and the meditation that takes the form of worship of the self; and also that in the sacrifices performed in the world by the sacrificers, the Marut deities, receiving the oblations, are chief in accomplishing the sacrificers' desires.
+
+### Printed p. 256
+
+The Marut deities' accomplishing of the oblation is described in two ways, and their chief place in fulfilment of desires in three ways. In the second sense, the Maruts bear a spear-weapon named ṛṣṭi; and for protecting the sacrificers, or those who praise them, the sage Trita turned them back so that they should be in his navel-wheel, in order to please the Maruts with praise and the like. So it is explained.
+
+> तान् महि वरूथं ऊतये इयानः उप इत् गृणीमसि—मरुतः महत्
+> प्रशस्तं धनं तत्! मरुतः रक्षणार्थं यजमानाः वयं अनेन नमस्कारेण
+> स्तोत्रेण वा उपेत्य स्तुमः
+
+> *tān mahi varūthaṃ ūtaye iyānaḥ upa it gṛṇīmasi—marutaḥ mahat*
+> *praśastaṃ dhanaṃ tat! marutaḥ rakṣaṇārthaṃ yajamānāḥ vayaṃ anena namaskāreṇa*
+> *stotreṇa vā upetya stumaḥ*
+
+Thus it is described: we sacrificers, praying to the Marut deities for obtaining the wealth that can necessarily be had for our protection, and for protecting us, will worship them with homage or with praises.
+
+The word वरूथ (*varūtha*) is mentioned by Yāska among the names of houses (Ni. 3 13). Here Sāyaṇa gives the sense "choice" and explains it as praiseworthy wealth. In त्रितः न (*tritaḥ na*) he states that the word न is used in the sense of conjunction (नशब्दः समुच्चये (*naśabdaḥ samuccaye*)).
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> यया॑ र॒ध्रं पा॒रय॒थात्यंहो॒ यया॑ नि॒दो मुं॒चथ॒॑॑
+> वंदितारं ।
+> अ॒र्वाची॒ सा म॑रुतो॒ या व॑ ऊ॒तिरो षु वा॒श्रेव॑ सुम॒तिर्जि॑-
+> गातु ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> यया । रध्रं । पारयथ । अति । अंहः । यया । निदः । मुंचथ । वंदितारं ।
+> अर्वाची । सा । मरुतः । या । वः । ऊतिः । ओ इति । सु । वाश्राइव । सुमतिः ।
+> जिगातु ॥ १५ ॥
+
+> *yayā | radhraṃ | pārayatha | ati | aṃhaḥ | yayā | nidaḥ | muṃcatha | vaṃditāraṃ |*
+> *arvācī | sā | marutaḥ | yā | vaḥ | ūtiḥ | o iti | su | vāśrāiva | sumatiḥ |*
+> *jigātu ‖ 15 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 253 (PDF 253). Sūkta 34 Ṛk 12 Bhāvārtha end and Special Topics (pp. 251-252); Ṛk 13 complete (pp. 252-253) with Special Topics; kn.md fixes: Bhāvārtha continuation unquoted, Special Topics Sanskrit made blocks, stray divider and garbled Pada label replaced, mega-block split; no [?]
+**Progress note:** Done through printed p. 256 (PDF 256). Sūkta 34 Ṛk 14 complete (pp. 254-256) with Special Topics; Ṛk 15 Saṃhitā and Pada begin; kn.md fixes: garbled Pratipadārtha label replaced and un-quoted, Special Topics Sanskrit made blocks; accent script reported 2 unmatched lines; no [?]
