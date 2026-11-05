@@ -14960,6 +14960,98 @@ On the point that the rite of Somāparohaṇa (taking Soma down from the cart) m
 
 Formerly, in these worlds, the gods and the asuras were fighting. They fought in the east. In that battle the asuras defeated the gods; afterwards they fought in the south. There too the asuras won; afterwards they fought in the west. There too victory went to the asuras; afterwards they fought in the north. There too the asuras defeated the gods and became victorious; then they
 
+### Printed p. 472
+
+*[Running head, p. 472: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+fought in the north-east, which lies between the north and the east. There the gods suffered no defeat; victory was theirs. Therefore (since the gods were not defeated) the north-east quarter was named अपराजिता (*aparājitā*), the unconquered. Therefore whatever good work is to be done must be done, or an effort must be made to do it, in that quarter, the north-east. By doing so the sacrificer clears his debt and becomes free from it.
+
+[Here what is debt, and what is its discharge, is clearly described in the Taittirīya Saṃhitā—
+
+⟦ಜಾಯಮಾನೋ ವೈ ಬ್ರಾಹ್ಮಣಸ್ತ್ರಿಭಿರ್ಯಣವಾ ಜಾಯತೇ ಬ್ರಹ್ಮಚರ್ಯೇಣ ಋಷಿಭ್ಯೋ
+ಯಜ್ಞೇನ ದೇವೇಭ್ಯಃ ಪ್ರಜಯಾ ಪಿತೃಭ್ಯ ಏಷ ನಾ ಅನೃಣೋ ಯಃ ಪುತ್ರೀ ಯಜ್ವಾ
+ಬ್ರಹ್ಮಚಾರಿವಾಸೀ ।⟧
+(Tai. Saṃ. 6-3-10-5)
+
+That is: a twice-born man (Brahmin, Kṣatriya, Vaiśya) is born already carrying three kinds of debt, the debt to the seers, the debt to the gods and the debt to the fathers. For these debts to be paid: if after the *upanayana* he studies the Veda in the teacher's household in the student stage, the debt to the seers is paid; then by marrying, entering the householder's stage, performing sacrifices and worshipping the gods, the debt to the gods is paid; by begetting sons in the married wife for the continuation of the line of dharma, the debt to the fathers is paid. It is said here that the sacrificer becomes free from these three debts.]
+
+Now the cause of King Soma's victory is stated—
+
+⟦ತೇ ದೇವಾ ಅಬ್ರುವನ್ನ ರಾಜತಯಾ ವೈ ನೋ ಜಯಂತಿ ರಾಜಾನಂ ಕರನಾಮಹಾ ಇತಿ ತಥೇತಿ
+ತೇ ಸೋಮಂ ರಾಜಾನಮಕುರ್ವಂಸ್ತೇ ಸೋಮೇನ ರಾಜ್ಞಾ ಸರ್ವಾ ದಿಶೋಜಯನ್ನೇಷ
+ವೈ ಸೋಮರಾಜಾ ಯೋ ಯಜತೇ ಪ್ರಾಚಿ ತಿಷ್ಠತ್ಯಾದದತಿ ತೇನ ಪ್ರಾಚೀಂ ದಿಶಂ ಜಯತಿ
+ತಂ ದಕ್ಷಿಣಾ ಪರಿವಹಂತಿ ತೇನ ದಕ್ಷಿಣಾಂ ದಿಶಂ ಜಯತಿ ತಂ ಪ್ರತ್ಯಂಚಮಾವರ್ತಯಂತಿ
+ತೇ ಪ್ರತೀಚೀಂ ದಿಶಂ ಜಯತಿ ತಮುದೀಚಸ್ತಿಷ್ಠತ ಉಪಾವಹರಂತಿ ತೇನೋದೀಚೀಂ ದಿಶಂ
+ಜಯತಿ ಸೋಮೇನ ರಾಜ್ಞಾ ಸರ್ವಾ ದಿಶೋ ಜಯತಿ ಯ ಏವಂ ವೇದ ॥⟧
+(Ai. [printed ಇ.] Brā. 3-14)
+
+The gods spoke among themselves thus: we have no king who will take the lead in battle and so on and secure victory for us. That is why we met with defeat in the east and the other quarters. Therefore let us fix on a king; so resolving, they chose the Soma deity to be their king.
+
+### Printed p. 473
+
+*[Running head, p. 473: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+Thereby the gods obtained victory in the east and the other quarters. Therefore, for whichever sacrificer performs the Soma sacrifice, Soma is the king. Through the power of this King Soma the sacrificer gains victory everywhere. How? When bringing soma in the cart, the priests make the cart stand facing east and place the soma in it. Since Soma is in the east-facing cart, the sacrificer gains victory in the east; then, as the soma is brought, they turn the cart with the soma towards the south. Since Soma then faces south, the sacrificer obtains victory in the south as well; afterwards, by turning the cart to the west he gets victory in the west; afterwards, by turning the cart to the north he gets victory in the north. Afterwards, when the cart stands between the north and east, from there (from the north-east) they take the soma down from the cart and carry it to the Uttaravedi. That is, the cart that was left on the west of the Prācīnavaṃśa is turned to face east in order to bring it to the Uttaravedi, which is on the east of the sacrificial hall; then, going round the sacrificial hall, it is brought to the south, then to the west, then to the north, and when it comes to the north-east the soma is taken down from the cart: this is the intent. The sage Āpastamba explains this matter with the sentence—
+
+⟦ಸಂಜಗ್ರಾಹ
+ಪ್ರತ್ಯವಸ್ತನುವಸ್ಯತ ಇತಿ ಪ್ರಾಂಚೋಽಭಿಪ್ರವಾಯ ದಕ್ಷಿಣಮಾವರ್ತತ ಇತ್ಯಗ್ರೇಣ ಪ್ರಾಗ್ವಂಶಂ ಪ್ರಾಗೀ-
+ಷಮುದಗೀಷಂ ವಾ ಶಕಟಮವಸ್ಥಾಪ್ಯ⟧
+
+The man who knows this will conquer all the quarters.
+
+Here the Uttarapīṭhikā ends.
+
+The explanation of the rite called Somapravāhaṇa ends.
+
+#### Ṛk 20
+
+**॥ संहितापाठः ॥**
+
+> द्यावा॑ नः पृथि॒वी इ॒मं सि॒ध्रम॒द्य दि॑वि॒स्पृशं॑ ।
+> य॒ज्ञं दे॒वेषु॑ यच्छतां ॥ २० ॥
+
+**॥ पदपाठः ॥**
+
+> द्यावा । नः । पृथिवी इति । इमं । सिध्रं । अद्य । दिविस्पृतं ।
+> यज्ञं । देवेषु । यच्छतां ॥ २० ॥
+
+> *dyāvā | naḥ | pṛthivī iti | imaṃ | sidhraṃ | adya | divispṛtaṃ |*
+> *yajñaṃ | deveṣu | yacchatāṃ ‖ 20 ‖*
+
+### Printed p. 474
+
+*[Running head, p. 474: Sāyaṇabhāṣyasahitā, Ma. [as printed] 2, A. 4, Sū. 41.]*
+
+*[The supplied text has before the bhāṣya a garbled label "। ಸಾಯುಣಭಾಷ್ಯಂ ।", kept as a note in kn.md.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> द्यावा द्यौः पृथिवी चोभे सिध्रं स्वर्गादेः साधकं दिविस्पृशं देवान्
+> गच्छंतं नोऽस्माकमिमं यज्ञं देवेषु यच्छतां । नियच्छतां ॥
+
+*(Gist: Heaven and Earth, the means of reaching heaven and going to the gods, are to convey this our sacrifice to the gods.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Dyāvā pṛthivī: Heaven and Earth. Sidhraṃ: that which leads to heaven. Divispṛśaṃ: that which goes towards heaven, to the gods. Naḥ imaṃ yajñaṃ: this our sacrifice. Deveṣu: among the gods. Yacchatāṃ: let them convey.
+
+**भावार्थ (Bhāvārtha)**
+
+May Heaven and Earth convey to the gods this our sacrifice, which leads to heaven and is directed towards heaven.
+
+**Printed English translation**
+
+Heaven and Earth, bear to the gods to-day our heaven-aspiring sacrifice, the means of obtaining Swarga.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+On this Ṛk Yāska has given the etymology ⟦ದ್ಯಾವಾಪೃಥಿವ್ಯೌ ನ ಇಮಂ ಸಾಧನಮದ್ಯ ದಿವಿಸ್ಪೃಶಂ ಯಜ್ಞಂ ದೇವೇಷು
+ನಿಯಚ್ಛತಾಂ-⟧, and he explains the word सिध्र (*sidhra*) as "leading to heaven" and the word दिविस्पृशं (*divispṛśaṃ*) as "touching the gods in heaven" (Ni. 9-37).
+
+द्यावा, पृथिवी (*dyāvā, pṛthivī*)—Heaven and Earth; although there are many mantras that praise together the two deities named Heaven and Earth, the presiding deities of heaven and earth, there are some mantras that praise them using the separate words दौः पृथिवी (*dauḥ pṛthivī*). In the present Ṛk, too, these deities are indicated by the two separate words द्यावा (*dyāvā*) and पृथिवी (*pṛthivī*). In this Ṛk these deities are said to be the presiding deities of the two carts called हविर्धाने (*havirdhāne*), used to fill with soma plants and bring them to the sacrificial altar.
+
+There are twenty-four words, beginning with स्वधे पुरंधी (*svadhe puraṃdhī*), that indicate the sense of the word द्यावापृथिवी (*dyāvāpṛthivī*) (Ni. 3-22). In the Taittirīya Saṃhitā द्यौः पितः पृथिवि मातः (*dyauḥ pitaḥ pṛthivi mātaḥ*) is said, that is, heaven is addressed as father and earth as mother. In the Ṛgveda, too, there are mantras in many places that express this sense. In many places it is said that Heaven and Earth are the parents of the gods. In the Ṛgveda the world is generally described as heaven, atmosphere and earth
+
 ---
 
-**Progress note:** Done through printed p. 471 (PDF 471). Sukta 41 Rik 19 Special Topics (pp. 469-471): end of the Varuna rik explanation, eight riks recited with first and last thrice, Uttarapithika on unyoking the oxen, Tai. Sam. 6-2-1-1, devasura story begins; breaks off mid-sentence in the north-east story. Flags: Ai. Bra. printed i. Bra.; p. 470 head Man. 3 as supplied
+**Progress note:** Done through printed p. 474 (PDF 474). Sukta 41 Rik 19 Special Topics finished (pp. 472-473): north-east story, three debts, Soma as king, Apastamba on the cart; Rik 20 complete (pp. 473-474) with Heaven and Earth note continuing to end of p. 474. Flags: garbled bhashya label kept as note; Ai. Bra. printed i. Bra.; 2 accent DIFF; ends mid-sentence
