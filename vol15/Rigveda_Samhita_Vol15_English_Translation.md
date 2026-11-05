@@ -5315,6 +5315,84 @@ Sāyaṇa explains the meaning thus: of the three goddesses Iḷā, Sarasvatī a
 
 Uta—and; tye—the famous; devī—shining; subhage—possessing excellent wealth; mithūdṛśā—looking at each other; uṣāsānaktā—O Day-and-Night (you); jagatām—of the world consisting of moving things; apījuvā—are the impellers (therefore urge on our chariot too). Pṛthivi—O Heaven and Earth; vām—you two; navyasā—with new; vacaḥ—speech in the form of praise; yat—when; stuṣe—I praise (then); sthātuḥ—of the stationary rice and the like; vayaḥ—food; trivayāḥ—I who have prepared the threefold oblation (of plants, animals and Soma); upastire—I offer, spreading it with ghee.
 
+### Printed p. 171
+
+**भावार्थ (Bhāvārtha)**
+
+O Day and Night, renowned, shining, possessed of excellent wealth, looking at one another: as you are the quickeners of the whole moving world, urge on our chariot. O Heaven and Earth, whenever I, who hold the threefold oblation (plants, animals, Soma), praise you both with a new hymn, then I offer the food of the stationary rice and the like, spreading it with ghee.
+
+**Printed English translation**
+
+Or, may the two divine auspicious and mutually contemplating Day
+and Night, the animators of moving (creatures, urge it on): and, Earth
+Heaven [sic], whilst I praise you both with a new hymn, I offer you food
+of the standing (corn), although provided with the three (sorts of
+sacrificial) viands.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उषासानक्ता (*uṣāsānaktā*)—Yāska explains the word उषासानक्ता (*uṣāsānaktā*) (*uṣāsānaktā*) as "Uṣas and Night; *naktā* is a name of night; it envelops beings, or with dew; indistinct in colour" (Ni. 8-11). A detailed description of this word was given earlier.
+
+देवी सुभगे मिथूदृशा उषासानक्ता जगतां अपीजुवा (*devī subhage mithūdṛśā uṣāsānaktā jagatāṃ apījuvā*)—Sāyaṇa's Sanskrit: the two shining, richly endowed goddesses, looking at each other, Uṣas and Night, are impellers of the moving; therefore let them urge on our chariot. The explanation given: shining by nature with radiance, joined with abundant and pleasant wealth, looking at one another, the goddess Uṣas and Night, being impellers of all moving beings, are prayed by the sacrificers to urge on our chariots.
+
+Addressing the Earth-goddess as "O Pṛthivī", युवां दिवं च (*yuvāṃ divaṃ ca*): Uṣas, Night and the sky; the sacrificer is described as praising with नव्यसा वचना (*navyasā vacanā*), new and praiseworthy hymns; and स्थातुः वयः त्रिवयाः उपस्तृणे (*sthātuḥ vayaḥ trivayāḥ upastṛṇe*): I, the sacrificer, possessing the food of the stationary (rice-related, in the form of *caru*, *puroḍāśa* and so on), offer the oblation-food, spreading it with ghee ritually.
+
+### Printed p. 172
+
+त्रिवयाः (*trivayāḥ*)—वय इत्यन्न नाम (*vaya ityanna nāma*): the word *vayaḥ* is stated among the names of food (Ni. 3-9). The foods offered to the deities as oblation are of three kinds: Soma-juice, animal and *caru*; the sacrificer possesses them.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> उ॒त वः॒ शंस॑मु॒शिजा॑मिव श्म॒स्यहि॑र्बु॒ध्न्यो॒३॒॑३ज एक॑पादु॒त ।
+> त्रि॒त ऋ॑भु॒क्षाः स॑वि॒ता चनो॑ दधे॒ऽपां नपा॑दाशु॒हेमा॑ धि॒या॑
+> शमि ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । वः । शंसं । उशिजां इव । स्मसि । अहिः । बुध्न्यः । अजः । एकपात् । उत ।
+> त्रितः । ऋभुक्षाः । सविता । चनः । दधे । अपां । नपात् । आशुहेमा । धिया । शमि ॥६॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उत अपि च हे देवा उशिजामिव । इवेति संप्रत्यर्थियः । अस्मत्तः स्तुतिं
+> कामयमानानां वो युष्माकं शंसं स्तुतिं संप्रति स्मसि । उश्मसि कामयामहे ॥
+> वश कांतौ । इदंतो मसिः । ग्रहिज्यादिना संप्रसारणं । छांदसो वर्णलोपः ॥
+> उत अपि च अहिर्बुध्न्यः । बुध्ममंतरिक्षं । तत्र भवोऽहिनामा देवः । अज एकपात् ।
+> न जायत इत्यजः । एक एव पद्यते गच्छतीत्येकपात् । अज एकपात्संज्ञकः सूर्यः ।
+> त्रितस्तीर्णतम ऋभुक्षा उरुक्षय उरुनिवास ऋभूणां निवासयिता वेंद्रश्च सविता
+> प्रसविता चनोऽन्नं दधे । विदधातु सर्वस्य । अस्मभ्यं करोतु । तथाशुहेमा
+> शीघ्रगामि ॥ हि गतानित्यस्मादन्येभ्योऽपि दृश्यंत इति मनिन् ॥ तादृशोऽपां नपात्
+> अपां पौत्रीयस्थानीयोऽग्निः ॥ अद्भ्य ओषधिवनस्पतयो जायंते । ओषधिवनस्पतिभ्य-
+> श्चायमग्निर्जायत इत्यग्नेरपां पौत्रत्वं । स च धिया स्तुत्या शमि । शमीति कर्म-
+> नाम । यज्ञकर्मणि प्रीतो भवत्विति शेषः ॥
+
+*Gist:* The sacrificers desire to praise the gods as the gods desire praise; may Ahirbudhnya, Aja Ekapād, Trita, Ṛbhukṣan and Savitṛ grant food, and may Agni, grandson of the waters, be pleased by the praise and the rite. The tail explains *smasi* (from *vaś*), the swift-going, and *śami* as a word for action.
+
+### Printed p. 173
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Uta—and (O gods); उशिजामिव (*uśijāmiva*)—who desire our praises; vaḥ—for your satisfaction; śaṃsam—praise; smasi—we offer with devotion. Uta—and; ahirbudhnyaḥ—Ahirbudhnya; aja ekapāt—the god called Aja Ekapād; tritaḥ—Trita; यभुक्षाः (*yabhukṣāḥ*) [?]—Ṛbhukṣan (printed with य (*ya*) as supplied); savitā—Savitṛ; canaḥ—food; dadhe—may (they) provide (and likewise); āśuhemā—the swift-going; apāṃ napāt—Agni, the grandson of the waters; dhiyā—by our praises; śami—by our rites (may he be gratified).
+
+**भावार्थ (Bhāvārtha)**
+
+O gods, for the satisfaction of you who desire our praises, we offer praise with devotion. And may Ahirbudhnya, the god called Aja Ekapād, Trita, Ṛbhukṣan and Savitṛ provide us with food. Likewise may the swift-going Agni, renowned by the name Apāṃ Napāt, be gratified by our rites.
+
+**Printed English translation**
+
+We desire, gods, to repeat the praise of you, who are propitiated by
+praise: may Ahirbudhnya, Ajaekapad, Trita, Ribhukshin, Savitri, bestow
+upon us food, and may the swift-moving grandson of the waters, (Agni,
+be gratified by) our praises and our worship.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उशिजामिव शंसं स्मसि (*uśijāmiva śaṃsaṃ smasi*)—Sāyaṇa's Sanskrit says "we desire now your praise, you who desire praise from us". Here the word *iva* is given the meaning *samprati*, "now". The word उशिक् (*uśik*) is stated among the names of the wise (Ni. 3-19) and explained as उशिक् वष्टेः कांतिकर्मणः (*uśik vaṣṭeḥ kāṃtikarmaṇaḥ*) (Ni. 6-11). The sense is given as those who seek praise from the reciter. The meaning is explained: we sacrificers desire to recite the praises of you gods, who desire praise recited by sacrificers performing the rite.
+
+अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—बुद्धमंतरिक्षं तत्र भवः अहिनामा देवः (*buddhamaṃtarikṣaṃ tatra bhavaḥ ahināmā devaḥ*). The word *ahirbudhnya* is explained by Yāska as योऽहिः स बुद्ध्यो बुध्ममंतरिक्षं तन्निवासात् (*yo 'hiḥ sa buddhyo budhmamaṃtarikṣaṃ tannivāsāt*) (Si. [?] 10-46) [text as supplied]. The word *budhna* is given the meaning "atmosphere", and the god named Ahi, born in the atmosphere, is the sense explained.
+
 ---
 
-**Progress note:** Done through printed p. 170 (PDF 170). Sūkta 31 Ṛk 4 Bhāvārtha, printed English, Special Topics; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha (Bhāvārtha next). Flags: Si. [?] (supplied 'ಸಿ.' for Ni.) in two Special Topics refs; 'ತೃಷೃ' for Tvaṣṭṛ left as supplied; kn.md Pada label ('ಪದಹಾಡು') fixed to standard
+**Progress note:** Done through printed p. 173 (PDF 173). Sūkta 31 Ṛk 5 Bhāvārtha, printed English, Special Topics; Ṛk 6 complete, Special Topics begun (Ahirbudhnya). Flags: Si. [?] 10-46 (supplied 'ಸಿ.'); Pratipadārtha 'ಯಭುಕ್ಷಾಃ' for Ṛbhukṣāḥ left as supplied; Pada 'ಸ್ಮಸಿ' vs Saṃhitā 'ಶ್ಮಸಿ' as supplied; bhāṣya tail partly garbled; 'Englis Translation.' label standard
