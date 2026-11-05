@@ -21924,6 +21924,76 @@ This sūkta has ten Ṛks, as said before. In the Ṛks of this sūkta there are
 
 *[The window ends here, at the end of p. 706, with this Śruti sentence; the next window continues.]*
 
+### Printed p. 707
+
+*[Running head, p. 707: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+They now examine the Ṛks of this sūkta and the matter of their metre and deities. As the Śruti sentence ऐंद्रो वै यज्ञः (*aiṃdro vai yajñaḥ*) says, the sacrifice must be of the form of Indra. Accordingly, since the word Indra is used in the second pāda of the first Ṛk, Indra-ness has been stated for this sūkta. In the other Ṛks too Indra-ness is indicated in the same way. And in accordance with the rule that mantras of the Triṣṭubh metre must be recited at the midday pressing, it is well known that this sūkta contains Ṛks of the Triṣṭubh metre.
+
+⟦ತದಾಹುರ್ಯತ್ತೃತೀಯಸವನಸ್ಯೈವ ರೂಪಂ ಮದ್ವದಥ ಕಸ್ಮಾನ್ಮಧ್ಯಂದಿನೇ ಮದ್ವತೀರನು
+ಚಾಹ ಯಜಂತಿ ಚಾಭಿರಿತಿ ।⟧
+
+In this sūkta the matter concerning intoxication produced by drinking Soma is stated in मदेषु (*madeṣu*). But at the third pressing, the last pressing, made at the end of the day, joy arises in all the gods after they have drunk Soma, so it would be natural to use the word mada then. Is it not improper, instead, to recite at the midday pressing itself Ṛks in which the word mada is used? This seems strange. The answer:
+
+⟦ಮಾದ್ಯಂತೀವ ವೈ ಮಧ್ಯಂದಿನೇ ದೇವತಾಃ ಸಮೇವ ತೃತೀಯಸವನೇ ಮಾದಯಂತೇ
+ತಸ್ಮಾನ್ಮಧ್ಯಂದಿನೇ ಮದ್ವತೀರನು ಚಾಹ ಯಜಂತಿ ಚಾಭಿಃ ।⟧
+
+They give the answer to it. Even at the time of the midday pressing certain principal deities drink Soma and become joyful. At the third pressing the other deities, who did not drink Soma at the midday pressing, also drink Soma and become joyful. Therefore it is proper for Maitrāvaruṇa to recite at the midday pressing the Ṛks in which the word mada is used. Likewise the seven priests, Hotṛ and the rest, also make the offering at the midday pressing with yājyā mantras in which the word mada is used.
+
+⟦ತೇ ವೈ ಖಲು ಸರ್ವ ಏವ ಮಾಧ್ಯಂದಿನೇ ಪ್ರಸ್ಥಿತಾನಾಂ ಪ್ರತ್ಯಕ್ಷಾದ್ಯಂದ್ರೀಭಿರ್ಯಜಂತಿ
+ಅಭಿತೃಣ್ಣವತೀಭಿರೇಕೇ ।⟧
+
+Now they explain the nature of the prasthitayājyā mantras with which the priests, Hotṛ and the rest, make the offering. In the prasthitayājyā mantras that the seven priests, Hotṛ and the rest, use for offering at this midday pressing, the word Indra must be directly used. But only in the yājyā mantras recited by the three priests Hotṛ, Maitrāvaruṇa and Brāhmaṇācchaṃsin are there, besides words indicating Indra-ness, the use of the word अभितृण्ण (*abhitṛṇṇa*) also, which indicates drinking. The word abhitṛṇṇa is formed from the root tṛd joined to the prefix abhi and indicates the sense of drinking.
+
+### Printed p. 708
+
+*[Running head, p. 708: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+पिबा सोममभि यमुग्र तर्द इति होता यजति । (*pibā somamabhi yamugra tarda iti hotā yajati |*)
+
+They explain the yājyā mantras recited separately by the seven priests, Hotṛ and the rest. First the Hotṛ recites the Ṛk पिबा सोममभि यमुग्र तर्दः (*pibā somamabhi yamugra tardaḥ*) (Ṛ. Saṃ. 6-17-1). In this Ṛk the words abhi and tarda together indicate the word abhitṛṇṇa.
+
+स ईं पाहि य ऋजीषी तरुत्र इति मैत्रावरुणो यजति । (*sa īṃ pāhi ya ṛjīṣī tarutra iti maitrāvaruṇo yajati |*)
+
+The priest called Maitrāvaruṇa recites the Ṛk स ईं पाहि य ऋजीषी तरुत्रः (*sa īṃ pāhi ya ṛjīṣī tarutraḥ*) (Ṛ. Saṃ. 6-17-2). In the fourth pāda of this Ṛk the word अभितृंधि (*abhitṛṃdhi*) indicates the sense of abhitṛṇṇa.
+
+एवा पाहि प्रत्नथा मंदतु त्वेति ब्राह्मणाच्छंसी यजति । (*evā pāhi pratnathā maṃdatu tveti brāhmaṇācchaṃsī yajati |*)
+
+The priest called Brāhmaṇācchaṃsin recites the Ṛk एवा पाहि प्रत्नथा मंदतु त्वा (*evā pāhi pratnathā maṃdatu tvā*) (Ṛ. Saṃ. 6-17-3). In the fourth pāda of this Ṛk, in अभिगा इंद्र तृंधि (*abhigā iṃdra tṛṃdhi*), the word abhitṛndhi is used. In this way, in the yājyā mantras recited by the three priests Hotṛ, Maitrāvaruṇa and Brāhmaṇācchaṃsin, the words Indra and abhitṛṇṇa (drinking) are used.
+
+⟦ಅರ್ವಾಜೇಹಿ ಸೋಮಕಾಮಂ ತ್ವಾಹುರಿತಿ ಪೋತಾ ಯಜತಿ ತವಾಯಂ ಸೋಮಸ್ತ್ವಮೇಹ್ಯರ್ವಾಜತಿ ನೇಷ್ಟಾ ಯಜತಿ ಇಂದ್ರಾಯ ಸೋಮಾಃ ಪ್ರದಿವೋ ವಿದಾನಾ ಇತ್ಯಚ್ಛಾವಾಕೋ
+ಯಜತಿ ಆಪೂರ್ಣೋ ಅಸ್ಯ ಕಲಶಃ ಸ್ವಾಹೇತ್ಯಾಗ್ನಿಧ್ರೋ ಯಜತಿ ।⟧
+
+Now they indicate the yājyā mantras recited by the remaining four priests. The priest called Potṛ recites the Ṛk अर्वाजीहि सोमकामं त्वाहुः (*arvājīhi somakāmaṃ tvāhuḥ*) (Ṛ. Saṃ. 1-104-9); the priest called Neṣṭṛ the Ṛk तवायं सोमस्तमेह्यर्वाच् (*tavāyaṃ somastamehyarvāc*) (Ṛ. Saṃ. 3-35-6); the priest called Acchāvāka the Ṛk इंद्राय सोमाः प्रदिवो विदानाः (*iṃdrāya somāḥ pradivo vidānāḥ*) (Ṛ. Saṃ. 3-36-2); and the priest called Āgnīdhra the Ṛk आपूर्णो अस्य कलशः स्वाहा (*āpūrṇo asya kalaśaḥ svāhā*) (Ṛ. Saṃ. 3-32-15), each as his own yājyā mantra. (The printed forms of the first two differ slightly from those in the sentence above, as supplied.)
+
+⟦ತಾಸಾಮೇತಾ ಅಭಿತೃಣ್ಣವತ್ಯೋ ಭವಂತೀದ್ರೋ ವೈ ಪ್ರಾತಃಸವನೇ ನ ವ್ಯಜಯತ ಸ ಏತಾಭಿರೇವ ಮಾಧ್ಯಂದಿನಂ ಸವನಮಭ್ಯತೃಣದ್ಯದಭ್ಯತೃಣತ್ತಸ್ಮಾದೇತಾ ಅಭಿತೃಣ್ಣವತ್ಯೋ
+ಭವಂತಿ ।⟧
+
+Of the seven yājyā mantras explained above, the first three Ṛks are well known as abhitṛṇṇavatī mantras. For in these Ṛks there is the use of a word formed from the root tṛd with the prefix abhi, and so these Ṛks have come to be called abhitṛṇṇavatī Ṛks.
+
+### Printed p. 709
+
+*[Running head, p. 709: Ā. (printed so for A.) 2, Ā. 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+Since the root tṛd means to injure or kill, the words abhitardana or abhitṛṇṇa indicate Indra's power of subduing enemies. Namely, formerly, when Indra went out to conquer enemies after drinking Soma at the morning pressing, victory did not come to him. But at the midday pressing the priests recited the Ṛks beginning पिबा सोमं (*pibā somaṃ*), with the use of the word abhitarda (abhitṛṇṇa), which indicates the subduing of enemies (the supplied text has "ऋत्विक्कुगळन्नु पठिसि (*ṛtvikkugaḷannu paṭhisi*)", "recited the priests", as printed), and increased Indra's power. And Indra too, drinking Soma abundantly at the midday pressing and becoming joyful, became able to defeat his enemies. In this way, since in the first three Ṛks beginning पिबा सोमं (*pibā somaṃ*) the condition (Indra's power) has been made firm and bound ("दृढ (*dṛḍha*): ंधनयुक्त (*ṃdhanayukta*)", garbled as supplied) by the word abhitarda, the name abhitṛṇṇavatī Ṛks for these three Ṛks is apt.
+
+Here ends the account of the midday pressing.
+
+**Account of the third pressing**
+
+As said before, at the beginning of the third pressing the Unnīyamāna sūkta is recited by the priest called Maitrāvaruṇa.
+
+⟦ಇಹೋಪ ಯಾತ ಶವಸೋ ನಪಾತ ಇತಿ ತೃತೀಯಸವನ ಉನ್ನೀಯಮಾನೇಭ್ಯೋಽನ್ವಾಹ
+ವೃಷಣ್ವತೀಃ ಪೀತವತೀಃ ಸುತವತೀರ್ಮದ್ವತೀ ರೂಪಸಮೃದ್ಧಾಸ್ತಾ ಐಂದ್ರಾರ್ಭವ್ಯೋ ಭವಂತಿ।⟧
+
+वृषण्वतीः पीतवतीः सुतवतीर्मद्वती रूपसमृद्धास्ता ऐंद्रार्भव्यू भवंति। (*vṛṣaṇvatīḥ pītavatīḥ sutavatīrmadvatī rūpasamṛddhāstā aiṃdrārbhavyū bhavaṃti|*)
+
+*[The second Sanskrit passage repeats the last words of the first, with the variant spelling ऐंद्रार्भव्यू (*aiṃdrārbhavyū*), as supplied.]*
+
+At the beginning of the third pressing, as soon as the Adhvaryu directs Maitrāvaruṇa by the Praiṣa mantra to recite the Unnīyamāna sūkta, Maitrāvaruṇa (printed मैत्रावरण (*maitrāvaraṇa*)) recites the sūkta of nine Ṛks इहोप यात शवसो नपात (*ihopa yāta śavaso napāta*) (Ṛ. Saṃ. 4-35, the 35th sūkta). In the Ṛks of this sūkta the words vṛṣa, pīta, suta and mada are used. Namely, in the fourth pāda of the 6th Ṛk of this sūkta, since it says आ तक्षत वृषणो मंदसानाः (*ā takṣata vṛṣaṇo maṃdasānāḥ*), the word vṛṣaṇa; in the second pāda of the 2nd Ṛk, since there is सुषुतस्य पीतिः (*suṣutasya pītiḥ*), the words suta and pīta; and in the fourth pāda of the first Ṛk, इंद्रमनु वो मदासः (*iṃdramanu vo madāsaḥ*), the word mada: so this sūkta has richness of form. The deities of the Ṛks of this sūkta are Indra and the Ṛbhus, the sons of Sudhanvan. Although the Anukramaṇikā names the Ṛbhus as the deity of this sūkta, in the first Ṛk, in सौधन्वना ऋभवो (*saudhanvanā ṛbhavo*) … गमत्विंद्रमनु वो मदासः (*gamatviṃdramanu vo madāsaḥ*) (the dots as printed), and in the 7th Ṛk, in समृभुभिः पिबस्व (*samṛbhubhiḥ pibasva*) … सखीयान् इंद्र (*sakhīyān iṃdra*) (the dots as printed), it is prayed that Indra drink Soma together with the Ṛbhus; therefore there is no reason for doubt that Indra too is a deity of this sūkta.
+
+*[The window ends here, at the end of p. 709; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 706 (PDF 706). Sūkta 4 Ṛk 5 Special Topics (prasthitayājyā mantras of the morning pressing, Indra-richness; midday pressing begun)
+**Progress note:** Done through printed p. 709 (PDF 709). Sūkta 4 Ṛk 5 Special Topics (midday pressing: abhitṛṇṇavatī mantras; third pressing: Unnīyamāna sūkta 4-35, deities)
