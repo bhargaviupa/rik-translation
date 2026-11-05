@@ -34503,6 +34503,108 @@ Through you, Brahmanaspati,(our) benefactor, may we obtain desirable wealth from
 > *mā no duḥśaṃso abhidipsurīśata pra suśaṃsā matibhistāriṣī-*
 > *mahi ‖ 10 ‖*
 
+### Printed p. 932
+
+*(Header: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 23, page 932, as supplied.)*
+
+*(The label before the Pada of Ṛk 10 is garbled in the supplied text (ಬರಹ); given as the standard label. The Pada reads उत्कतमं (*utkatamaṃ*) where the Saṃhitā has उत्तमं (*uttamaṃ*), अभिदिप्पुः (*abhidippuḥ*) where the Saṃhitā has अभिदिप्सु (*abhidipsu*), and शारिषीमहि (*śāriṣīmahi*) where the Saṃhitā (printed on the previous page) has a different first letter; all as supplied, not corrected.)*
+
+**॥ पदपाठः ॥**
+
+> त्वया । वयं । उत्कतमं । धीमहे । वयः । बृहस्पते । पप्रिणा । सस्निना । युजाः
+> मा । नः । दुःशंसः । अभिदिप्पुः । ईशत । प्र । सुशंसाः । मतिभिः । शारिषीमहि॥१०॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते पप्रिणा ॥ प्प पालनपूरणयोः । अदृगमहनेति किन्प्रत्ययः ।
+> छांदसो यणादेशः ॥ कामानां पूरकेण सस्निना शुद्धेन युजा सहायेन त्वया
+> हेतुनोत्तमं वयो हविर्लक्षणमन्नं वयं धीमहे । धारयामः ॥ धी धारणे ।
+> वैवादिकः ॥ दुःशंसो दुःशंसनीयोऽभिदिप्पुरभिदंभितुमभिभवितुमिच्चुः पुरुषो
+> नोऽस्माकं मा ईशत । मा ईशिष्ट । ईश्वरो मा भवतु ॥ ईश ऐश्वर्ये । लेट्यडा-
+> गमः ॥ वयं मतिभिः स्तोत्रैः सुशंसाः शोभनशंसनोपेताः संतः प्रतारिषीमहि ।
+> प्रकर्षेण वर्धॆमहि ॥
+
+*Gist: through you, fulfiller of desires and a pure helper, we hold the best food; let no wicked man who wishes to overcome us rule us; with good praises may we prosper.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Bṛhaspate—O Bṛhaspati. Papriṇā—(you who are) the fulfiller of our desires, and. Sasninā—pure, and. Yujā—being with us, our helper. Tvayā—by your favour alone. Uttamaṃ—excellent. Vayaḥ—food in the form of oblation. Vayaṃ—we. Dhīmahe—have obtained. Duḥśaṃsaḥ—(the man) of wicked mind, and. Abhidiṣṭuḥ [sic: as supplied; the Saṃhitā has अभिदिप्सु (*abhidipsu*)]—who wishes to push (us) down, such a man. Naḥ—over us. Mā īśata—let him not show lordship. Vayaṃ—we. Matibhiḥ—by hymns. Suśaṃsāḥ—having praiseworthy conduct. Pratāriṣīmahi—may we attain growth.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, by your favour alone, who fulfil our desires, are pure, and are with us as our helper, we have obtained excellent food in the form of oblation. May the man of wicked mind who wishes to push us down not show lordship over us. May we, endowed with excellent praises and having praiseworthy conduct, attain growth.
+
+**Printed English translation**
+
+Through you, Brihaspati,(who are) the fulfiller of our desires, pure, and associated(with us), we possess excellent food: let not the wicked man who wishes to deceive us be our master: but let us, excelling in(pious) praises, attain prosperity.
+
+### Printed p. 933
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 31] Ṛgveda-saṃhitā, page 933, as supplied.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वयः (*vayaḥ*)—since the word वय (*vaya*) is read among the names of food (नि. ३-९ (*ni. 3-9*): Ni. 3-9), वयः (*vayaḥ*) means food in the form of oblation, that is, an oblation fit to be offered to the gods.
+
+पप्रिणा (*papriṇā*)—प्य पालनपूरणयोः (*pya pālanapūraṇayoḥ*) (the root letter is printed प्य (*pya*) in the supplied text; not corrected). कामानां पूरकेण (*kāmānāṃ pūrakeṇa*): by one who fulfils (our) desires.
+
+सस्निना (*sasninā*)—शुद्धेन (*śuddhena*): by you who are pure. For the word सस्नि (*sasni*) Yāska gives the explanation (the supplied text prints the reference as सि. ५-१ (*si. 5-1*); given as printed, 5-1):
+
+सस्निमविंदच्चरणे नदीनां । सस्निं संस्नातं मेघं । (*sasnimaviṃdaccaraṇe nadīnāṃ | sasniṃ saṃsnātaṃ meghaṃ |*) (5-1)
+
+and says that here, from the context, the word denotes a cloud: प्रकरणादत्र मेघाभिधेयं । प्रकरणसामर्थाच्छब्दोऽप्यर्थांतरं भजते । (*prakaraṇādatra meghābhidheyaṃ | prakaraṇasāmarthācchabdo 'pyarthāṃtaraṃ bhajate |*) That is, although the word सस्नि (*sasni*) has the sense "cloud" in the earlier Ṛk (Ṛg-veda Saṃhitā 10-139-6), Durgācārya, the commentator on the Nirukta, says that different meanings must be given to this word according to the context. सस्निं संस्कृतं अद्भिः (*sasniṃ saṃskṛtaṃ adbhiḥ*): being washed with water, that is, being pure — this sense "has ceased" (निवृतवागिदॆ (*nivṛtavāgidè*) as supplied; the intended sense is perhaps "holds", mine and tentative) in the present context.
+
+मा नः दुःशंसः अभिदिप्सुः ईशत (*mā naḥ duḥśaṃsaḥ abhidipsuḥ īśata*)—दुःशंसनीयोऽभिदिप्सुरभिदंभितुमभिभवितुमिच्छुः पुरुषो अस्माकं मा ईशिष्ट । ईश्वरो मा भवतु । (*duḥśaṃsanīyo 'bhidipsurabhidaṃbhitumabhibhavitumicchuḥ puruṣo asmākaṃ mā īśiṣṭa | īśvaro mā bhavatu |*) May the man who is a slanderer or of wicked mind, and who wishes to defeat us, not exercise authority over us; that is, protect us so that we do not come under the control of such a wicked man.
+
+सुप्रशंसाः मतिभिः प्र तारिषीमहि (*supraśaṃsāḥ matibhiḥ pra tāriṣīmahi*)—शोभनशंसनोपेताः संतः प्रकर्षण वर्धेमहि (*śobhanaśaṃsanopetāḥ saṃtaḥ prakarṣaṇa vardhemahi*): O Bṛhaspati, praising you with excellent words of praise, may we attain growth; that is, may we obtain prosperity by praising you.
+
+#### Ṛk 11
+
+*(The Saṃhitā ends with ॥ (*‖*) but no Ṛk number is printed in the supplied text; none is supplied here. The label before the Saṃhitā is garbled in the supplied text (संहापाकः (*saṃhāpākaḥ*)); given as the standard label.)*
+
+**॥ संहितापाठः ॥**
+
+> अ॒ना॒नु॒दो वृ॑ष॒भो जग्मि॑राह॒वं निष्ट॑प्ता॒ शत्रुं॒ पृत॑नासु सास॒हिः ।
+> असि॑ स॒त्य ऋ॑ण॒या ब्र॑ह्मणस्पत उ॒ग्रस्य॑ चिद्दमि॒ता वी॑ळुह॒र्षिणः॑॥
+
+> *anānudo vṛṣabho jagmirāhavaṃ niṣṭaptā śatruṃ pṛtanāsu sāsahiḥ |*
+> *asi satya ṛṇayā brahmaṇaspata ugrasya ciddamitā vīḷuharṣiṇaḥ‖*
+
+### Printed p. 934
+
+*(Header: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 23, page 934, as supplied.)*
+
+*(The label before the Pada is garbled (सदहारु (*sadahāru*)); given as the standard label. The Pada reads अननुदः (*ananudaḥ*) for the Saṃhitā's अनानुदो (*anānudo*), ससहिः (*sasahiḥ*) for सासहिः (*sāsahiḥ*), वमिता (*vamitā*) for दमिता (*damitā*); all as supplied, not corrected. Likewise the labels before the Pratipadārtha (प्रतिवादि (*prativādi*)) and the Bhāvārtha (बसवण्ण (*basavaṇṇa*)) were garbled and are given as the standard labels. The supplied bhāṣya has बग्निर्गंता (*bagnirgaṃtā*) and a grammar-note numeral run of "Pā-" with a space; as supplied.)*
+
+**॥ पदपाठः ॥**
+
+> अननुदः । वृषभः । जग्मिः । अहवं । निःशतप्ता । शत्रुं । पृतनासु । ससहिः ।
+> असि । सत्यः । ऋणयाः । ब्रह्मणः । पते । उग्रस्य । चित् । वमिता । वीळुहर्षिणः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते अनानुदः । अनु पश्चाद्वदातीत्यनुदः । स यस्य नास्तीत्यननुदः
+> वात्रंतरशून्य इत्यर्थः । आत एव वृषभः कामानां वर्षिता । आहवं ॥ आह्वयतेS-
+> त्रेत्याहवो युद्धं । अजि’ युद्धे । पा- ३-३-७३ । इत्थप् प्रत्ययः संप्रसारणं च ॥
+> तद्युद्धं बग्निर्गंता ॥ आदृगमहनेति किन्प्रत्ययः । लिड्डद्भावादाहवमित्यत्र षष्ठि-
+> प्रतिषेधः ॥ शत्रुं शातयितारं निष्टप्ता । नितरां तस्य तापकः ॥ तृनंतत्वाक्षष्ठिप्रति-
+> षेधः । निसस्तपतावनासेवने । पा. ८-३-१०२ । इति षत्वं । तादौ च नितीति गतेः स्वरः ॥
+> पृतनासु संग्रामेषु सासहिः शत्रूणामभिभविता । एतादृशस्त्वं सत्यः सत्यपराक्रमः
+> सत्यप्रज्ञो वासि । ऋणया ऋणस्य यावयितासि ॥ यु मिश्रणामित्रणयोः ।
+> ण्यंतस्य क्विपि णिलोपे लोपो व्योर्वलीति वलोपः ॥ किंच उग्रस्य चित्
+> ओजस्विनोऽपि दमितोपशमयिता वीळुहर्षिणो दृढहर्षस्य कामुकस्य नास्तिकस्य
+> चिद्दमितासि ॥
+
+*Gist: Brahmaṇaspati has no one after him in giving, rains desires, is a scorcher of enemies and a conqueror in battles, true in valour, and tames even the fierce and the arrogant. The grammatical tail (Pāṇini rules on the forms āhava, niṣṭaptā, ṛṇayā) is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Brahmaṇaspate—O Brahmaṇaspati. Anānudaḥ [as supplied]—the giver who has no equal. Vṛṣabhaḥ—the rainer of desires. Āhavaṃ—to battle. Jagmiḥ—who rushes forward. Śatruṃ—the enemy. Niṣṭaptā—who burns up completely. Pṛtanāsu—in battles. Sasahiḥ [as supplied: सासहिः (*sāsahiḥ*)]—who defeats the enemies, you who are such. Satyaḥ asi—you are a valiant one whose valour is true. Ṛṇayāḥ—and you are one who pays off the debt. Ugrasya cit—even though he has terrible power. Vīḷuharṣiṇaḥ—the enemy gratified by his own evil power. Damitā—you subdue.
+
+**भावार्थ (Bhāvārtha)**
+
+O Brahmaṇaspati, you who are the unrivalled giver, the rainer of desires, who rush forward to battle, who burn up the enemy completely, who defeat enemies in battles: you are a valiant one whose valour is true ([sic] the supplied text prints पराक्रवि (*parākravi*) for पराक्रमि (*parākrami*)) and a releaser from debt. Even if the enemy, gratified by his own evil power, has extremely terrible power, you subdue him.
+
 ---
 
-**Progress note:** Done through printed p. 931 (PDF 931). Sukta 23 Rik 8 Pratipadartha/Bhavartha/English/Special Topics; Rik 9 complete; Rik 10 Samhita given; Rik 9 Samhita first line from stray title attribute with slips marked [?]
+**Progress note:** Done through printed p. 934 (PDF 934). Sukta 23 Rik 10 complete; Rik 11 Samhita, Pada, bhasya, Pratipadartha, Bhavartha given (printed English and Special Topics follow); garbled labels in kn.md replaced by standard ones, Rik 11 Samhita joined to reference lines for accents
