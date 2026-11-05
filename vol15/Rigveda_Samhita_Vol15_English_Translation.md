@@ -879,6 +879,93 @@ Those sages, eminent for truth, having seen through the false (illusions of the 
 
 Gist: Brahmaṇaspati, with a quick-shooting bow whose string is truth, attains whatever he desires; his arrows, perceived through the ear (the mantras), accomplish everything.
 
+### Printed p. 31
+
+*Running head: [A. 2 A. 7 V. 2.] Ṛgveda-saṃhitā, p. 31 (as supplied). The window begins inside Ṛk 8, at the Pratipadārtha.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋतज्येन (ऋतज्येन (*ṛtajyena*))—with the one whose bowstring is truth; क्षिप्रेण (क्षिप्रेण (*kṣipreṇa*))—that shoots arrows swiftly; धन्वना (धन्वना (*dhanvanā*))—with the bow; ब्रह्मणस्पतिः (ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*))—Brahmaṇaspati; यत्र (यत्र (*yatra*))—at whatever target; वष्टि (वष्टि (*vaṣṭi*))—takes aim and desires; तत् (तत् (*tat*))—that; प्र अश्नोति (प्र अश्नोति (*pra aśnoti*))—he attains fully; याभिः (याभिः (*yābhiḥ*))—with which arrows; अस्यति (अस्यति (*asyati*))—Bṛhaspati [sic: so in the Kannada] overthrows the Rākṣasas and the like, such (arrows); नृचक्षसः (नृचक्षसः (*nṛcakṣasaḥ*))—of the all-knowing Brahmaṇaspati; दृशये (दृशये (*dṛśaye*))—produced for the sake of knowledge; कर्णयोनयः (कर्णयोनयः (*karṇayonayaḥ*))—perceptible by the organ of hearing, and of the nature of mantras; तस्य (तस्य (*tasya*))—of that bow; इषवः (इषवः (*iṣavaḥ*))—the arrows; साध्वीः (साध्वीः (*sādhvīḥ*))—accomplish their work.
+
+**भावार्थ (Bhāvārtha)**
+
+With the bow whose string is truth and which shoots arrows swiftly, Brahmaṇaspati fully attains whatever target he takes aim at and desires. The arrows of that bow, with which Bṛhaspati [so in the Kannada] overthrows the Rākṣasas and the like, which are produced for the knowledge of the all-knowing Brahmaṇaspati, and which are perceived by the organ of hearing and are of the nature of mantras, accomplish their work.
+
+**Printed English**
+
+Whatever Brahmanaspathi aims at with the truthrst-rung [sic] quick-darting bow, that (mark) he surely attains: holy are its arrows with which he shoots, (intended) for the eyes of men, and having their abode in the ear.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ब्रह्मणस्पतिः ऋतज्येन क्षिप्रेण धन्वना यत्र वष्टि तत् प्र अश्नोति (*brahmaṇaspatiḥ ṛtajyena kṣipreṇa dhanvanā yatra vaṣṭi tat pra aśnoti*)—सत्यमेव ज्या यस्य तेन इषूणां क्षेपकेण धनुषा ब्रह्मणस्पतिर्ब्रह्मणो मंत्रस्य पालयिता देवः यस्मिन् विषये कामयते तत्पकर्षेण प्राप्नोति (*satyameva jyā yasya tena iṣūṇāṃ kṣepakeṇa dhanuṣā brahmaṇaspatirbrahmaṇo maṃtrasya pālayitā devaḥ yasmin viṣaye kāmayate tatpakarṣeṇa prāpnoti*). Brahmaṇaspati is the god who protects the mantras; that is, with mantras he can accomplish any undertaking. The bowstring (ज्या (*jyā*)) of his bow is of the nature of truth; that is, truth itself is the string (cord) of his bow. Fitting such a string called truth to his bow, with arrows shot in quick succession (that is, with mantras), whatever matter Brahmaṇaspati aims at he accomplishes without fail. He does not miss the mark he has set; that is, he does not leave unaccomplished an undertaking he has resolved to carry out. Here the arrows are mantras, or the oblation offered to the gods. As the English translator Wilson says, "The arrows are oblations and mantras": the arrows are the oblation offered by him and the mantras uttered.
+
+### Printed p. 32
+
+*Running head: [32 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied; "bhāṣya" misspelt in the supplied text).*
+
+There is nothing that cannot be accomplished by these. Therefore they carry the qualifying expression साद्वी8 (*sādvī8*) [?] (so in the supplied text; evidently साध्वीः (*sādhvīḥ*)), साधिकाः (*sādhikāḥ*), that is, "accomplishing the intended work".
+
+नृचक्षसः कर्णयोनयः—नृन्‌पश्यतः, सर्वज्ञस्य बृहस्पतेः, श्रोत्रेंद्रियेण ग्राह्याः मंत्रभूता आकर्णकृष्टा वा बाणाः । ब्रह्मणस्पतिः मंत्रैरेव सर्वं साधयतीति भावः (*nṛcakṣasaḥ karṇayonayaḥ—nṛnpaśyataḥ, sarvajñasya bṛhaspateḥ, śrotreṃdriyeṇa grāhyāḥ maṃtrabhūtā ākarṇakṛṣṭā vā bāṇāḥ | brahmaṇaspatiḥ maṃtraireva sarvaṃ sādhayatīti bhāvaḥ*). Sāyaṇa understands नृचक्षसः (*nṛcakṣasaḥ*) as "seeing men", that is, "all-knowing", and कर्णयोनयः (*karṇayonayaḥ*) as "perceptible by the organ of hearing, of the nature of mantras, or arrows drawn back to the ear". Here he has applied नृचक्षसः (*nṛcakṣasaḥ*) to Brahmaṇaspati and stated his omniscience. But if we take the view of the English scholars cited above, the arrows are of two forms, oblation and mantra. Of these the oblations are नृचक्षसः (*nṛcakṣasaḥ*), visible to men, and the mantras are कर्णयोनयः (*karṇayonayaḥ*), to be heard by the ears of men [the Kannada reads किविगैकेळसतक्कवु (*kivigaikeḷasatakkavu*), apparently a misreading of "to be heard by the ear"]. Thus the mantras employed by Brahmaṇaspati and the oblations given are capable of doing the intended work. This Sāyaṇācārya has explained by the sentence ब्रह्मणस्पतिः मंत्रेणैव सर्वं साधयति (*brahmaṇaspatiḥ maṃtreṇaiva sarvaṃ sādhayati*) ("Brahmaṇaspati accomplishes everything by mantra alone"). The text ends with a numeral-like mark (as supplied: "-௨௰௪-", i.e. apparently the Sūkta number 24; not read further).
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> स सं॑न॒यः स वि॑न॒यः पु॒रोहि॑तः॒ स सुष्टु॑तः॒ स यु॒धि ब्रह्म॑ण॒स्पतिः॑ ।
+> चा॒क्ष्मो यद्वाजं॒ भर॑ते म॒ती धनादित्सूर्य॑स्तपति तप्य॒तुर्वृथा॑ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । संनयः । सः । विनयः । पुरहितः । सः । सुस्तुतः । सः । युधि । ब्रह्मणः ।
+> पतिः ।
+> चाक्ष्मः । यत् । वाजं । भरते । मती । धना । आत् । इत् । सूर्यः । तपति ।
+> तप्यतुः । वृथा ॥ ९ ॥
+
+> *saḥ | saṃnayaḥ | saḥ | vinayaḥ | purahitaḥ | saḥ | sustutaḥ | saḥ | yudhi | brahmaṇaḥ |*
+> *patiḥ |*
+> *cākṣmaḥ | yat | vājaṃ | bharate | matī | dhanā | āt | it | sūryaḥ | tapati |*
+> *tapyatuḥ | vṛthā ‖ 9 ‖*
+
+### Printed p. 33
+
+*Running head: [A. 2. A. 7. V. 2.] Ṛgveda-saṃhitā, p. 33 (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+
+> पुरोहितो देवैः पुरतोऽत्र स्थापितः स ब्रह्मणस्पतिः संनयः विश्लिष्टानां
+> मंत्रैः संगमयिता भवति । विनयः संगतानां विविधं नेता पृथक्कर्तापि स एव ।
+> तथा सुष्टुतः शोभनं स्तोतृभिः स्तुतश्च भवति । तथा युधि संग्रामे स स्तोतृणा-
+> मनुग्रहाय प्रादुर्भवतीति शेषः । यद्यदा चाक्ष्मः ॥ चष्टेः क्षमतीर्वा ॥ सर्वस्य
+> द्रष्टा सर्वसहो ना ब्रह्मणस्पतिर्वाजमन्नं मती मननीयं प्रशस्तं धना धनं च
+> स्तोतृणामर्थाय भरते । बिभर्ति । वृष्टिद्वारा पोषयति । आदित् अनंतरमेव
+> तप्यतुस्तापकः सूर्यो वृथा । अनायासवचनमेतत् । अनायासेन तपति । दीप्यते।
+> ब्रह्मणस्पतिना दत्तैरन्नॆर्धनैश्च यज्ञस्य सिद्धत्वात् स्वयं केवलं हवींषि भुंजान
+> एव वर्तत इत्यर्थः ॥
+
+> *purohito devaiḥ purato 'tra sthāpitaḥ sa brahmaṇaspatiḥ saṃnayaḥ viśliṣṭānāṃ*
+> *maṃtraiḥ saṃgamayitā bhavati | vinayaḥ saṃgatānāṃ vividhaṃ netā pṛthakkartāpi sa eva |*
+> *tathā suṣṭutaḥ śobhanaṃ stotṛbhiḥ stutaśca bhavati | tathā yudhi saṃgrāme sa stotṛṇā-*
+> *manugrahāya prādurbhavatīti śeṣaḥ | yadyadā cākṣmaḥ ‖ caṣṭeḥ kṣamatīrvā ‖ sarvasya*
+> *draṣṭā sarvasaho nā brahmaṇaspatirvājamannaṃ matī mananīyaṃ praśastaṃ dhanā dhanaṃ ca*
+> *stotṛṇāmarthāya bharate | bibharti | vṛṣṭidvārā poṣayati | ādit anaṃtarameva*
+> *tapyatustāpakaḥ sūryo vṛthā | anāyāsavacanametat | anāyāsena tapati | dīpyate|*
+> *brahmaṇaspatinā dattairannèrdhanaiśca yajñasya siddhatvāt svayaṃ kevalaṃ havīṃṣi bhuṃjāna*
+> *eva vartata ityarthaḥ ‖*
+
+Gist: Brahmaṇaspati, set in front by the gods as priest, joins and separates things by mantras, is well praised and comes to aid his praisers in battle; he brings food and wealth, and the sun shines effortlessly.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पुरोहितः (पुरोहितः (*purohitaḥ*))—established at the head (of the gods); सः ब्रह्मणस्पतिः (सः ब्रह्मणस्पतिः (*saḥ brahmaṇaspatiḥ*))—that Brahmaṇaspati; संनयः (संनयः (*saṃnayaḥ*))—he who brings together, by the power of his mantras, things that are separate; विनयः (विनयः (*vinayaḥ*))—he who separates what is joined together; सः (सः (*saḥ*))—he; सुष्टुतः (स सुष्टुतः (*sa suṣṭutaḥ*))—is excellently praised; युधि (युधि (*yudhi*))—in battle; सः (सः (*saḥ*))—he is the helper of the praisers; यत् (यत् (*yat*))—when; चाक्ष्मी (चाक्ष्मी (*cākṣmī*)) (as supplied; the Saṃhitā has चाक्ष्मो (*cākṣmo*) and the Pada चाक्ष्मः (*cākṣmaḥ*))—the all-knowing Brahmaṇaspati; वाजं (वाजं (*vājaṃ*))—food; मती (मती (*matī*))—excellent; धना (धना (*dhanā*))—wealth; भरते (भरते (*bharate*))—he bears (for the praisers); आदित् (आदित् (*ādit*))—immediately thereupon; तप्यतुः (तप्यतुः (*tapyatuḥ*))—the burning; सूर्यः (सूर्यः (*sūryaḥ*))—the sun; वृथा (वृथा (*vṛthā*))—effortlessly; तपति (तपति (*tapati*))—shines.
+
+**भावार्थ (Bhāvārtha)**
+
+That same Brahmaṇaspati, established as priest of the gods, is the one who by the power of his mantras brings together things that are separate and separates what is joined. He is also excellently praised. In battle he is the helper. When Brahmaṇaspati bears food and excellent wealth for his praisers, immediately thereupon the burning sun shines effortlessly.
+
+**Printed English**
+
+He Brahmanaspathi, is the aggregator and subjugator (of objects); the family priest (of the gods); and the renowed [sic] in battle; the beholder (of all), who bestows food and desired treasures, whence the radiant sun shines without exertion.
+
 ---
 
-**Progress note:** Done through printed p. 30 (PDF 30). Sūkta 24: Ṛk 6 Special Topics end (pp. 27-28); Ṛk 7 Saṃhitā to Special Topics (pp. 28-30); Ṛk 8 Saṃhitā, Pada, bhāṣya (p. 30) begun. Flags: supplied text had no separate head for p. 30 (its content was inside p. 29; taken as p. 30, next window starts p. 31); hand fixes to kn.md: garbled Pratipadārtha/Bhāvārtha labels replaced and their lines unquoted, ornament-description line removed; 2 [?] (Pratipadārtha ಅರಣಃ gloss 'ವಹಿಸತಕ್ಕ', Special Topics 'ಕೇಶಕಾರಿಯಾದ'); supplied-text oddities kept: Ṛk 7 Saṃhitā 'ಷೋ' vs Pada 'ಸಃ', Pada 'ಆ ; ತಸ್ತುಃ', bhāṣya 'ಪುನರಾಜಿಗಮಷವೋ', Pratipadārtha 'ಆತ್ಮನೀ' for ಅಶ್ಮನಿ, p. 27 quote 'ಅಭಿಜ್ಞಾಸ್ತ್ಯೇಽರ್ಜಸೋ'; Ṛk 7 Saṃhitā has no Ṛk number
+**Progress note:** Done through printed p. 33 (PDF 33). Sūkta 24: Ṛk 8 Pratipadārtha to Special Topics (pp. 31-32); Ṛk 9 Saṃhitā to Printed English (pp. 32-33). Flags: hand fixes to kn.md: garbled Pratipadārtha label on p. 31 replaced and its lines unquoted; 1 [?] (p. 32 'ಸಾದ್ವೀ8' for ಸಾಧ್ವೀಃ); oddities kept: Pratipadārtha 'ಚಾಕ್ಷ್ಮೀ' vs Saṃhitā 'ಚಾಕ್ಷ್ಮೋ'/Pada 'ಚಾಕ್ಷ್ಮಃ', Pada 'ಪುರಹಿತಃ', 'ಸುಸ್ತುತಃ', 'ಬ್ರಹ್ಮಣಃ । ಪತಿಃ', Special Topics 'ಕಿವಿಗೈಕೇಳಸತಕ್ಕವು', Bṛhaspati for Brahmaṇaspati, stray '-௨௰௪-' on p. 32; Ṛk 9 bhāṣya sections not printed in the Kannada text apart from the one block
