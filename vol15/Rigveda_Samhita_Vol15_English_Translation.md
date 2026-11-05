@@ -14673,6 +14673,80 @@ Up to here the number of Ṛks to be used in this Somapravāhaṇa rite has been
 
 Now the Adhvaryu, addressing the Hotṛ, says सोमाय क्रीताय प्रोह्यमाणायानुब्रू ३ हि (*somāya krītāya prohyamāṇāyānubrū 3 hi*) [with the hyphenated line break joined in kn.md]: that is, for the soma that has been bought, to be taken to the Uttaravedi, take
 
+### Printed p. 460
+
+*[Running head, p. 460: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. [printed "ಅ. ಸೂ. ೪."], Sū. 41.]*
+
+to go, he directs him to recite the mantra required in this rite called Somapravāhaṇa, which is performed for the going.
+
+भद्रादभि श्रेयः प्रेहीत्यन्वाह । (*bhadrādabhi śreyaḥ prehītyanvāha |*)
+
+Hearing this, the Hotṛ recites the mantra भद्रादभि श्रेयः प्रेहि (*bhadrādabhi śreyaḥ prehi*) [the supplied text has "ಇದದ್ದು" for "ಇದನ್ನು", "this"]. This mantra is not in the Ṛgveda Saṃhitā; it is stated in the Taittirīya branch, that is, in the Yajurveda. That mantra is—
+
+⟦ಭದ್ರಾದಭಿ ಶ್ರೇಯಃ ಪ್ರೇಹಿ ಬೃಹಸ್ಪತಿಃ ಪುರ ಏತಾ ತೇ ಅಸ್ತು ।
+ಅಥೇಮವಸ್ಯ ವರ ಆ ಪೃಥಿವ್ಯಾ ಆರೇ ಶತ್ರೂನ್ ಕೃಣುಹಿ ಸರ್ವವೀರಃ ॥⟧
+(Tai. Saṃ. 1-2-3-3)
+
+Its meaning is this: O Soma, set out from this auspicious earth, the place of purchase, towards the region of the Prācīnavaṃśa, which equals the place of heaven. As you go thus, Bṛhaspati will go before you as your guide. When you have gone there, settle the fit and excellent place for you to sit in the region of the sacrificial ground belonging to the earth. Then, you who are the bravest of all, cause all the sinful enemies who hate the sacrifice to be kept far away; that is, cause them to depart far away. This is the meaning of the mantra. The explanation of the first pāda is given, explaining the result of reciting this mantra:
+
+⟦ಅಯಂ ವಾವ ಲೋಕೋ ಭದ್ರಸ್ತಸ್ಮಾದಸಾವೇವ ಲೋಕಃ ಶ್ರೇಯಾನ್ ಸ್ವರ್ಗಮೇವ
+ತಲ್ಲೋಕಂ ಯಜಮಾನಂ ಗಮಯತಿ ।⟧
+
+As stated in the first pāda, this earth is auspicious. But heaven is far more conducive to welfare than this world. The recitation of this mantra brings the sacrificer who performs the sacrifice to that heaven.
+
+बृहस्पतिः पुर एता ते अस्त्विति ब्रह्म वै बृहस्पतिर्ब्रह्मैवासा एतत्पुरोगवमकर्ण वै ब्रह्मण्वद्रिष्यति ॥ (*bṛhaspatiḥ pura etā te astviti brahma vai bṛhaspatirbrahmaivāsā etatpurogavamakarṇa vai brahmaṇvadriṣyati ‖*)
+
+Then the Hotṛ recites the second pāda, बृहस्पतिः पुरा एता ते अस्तु (*bṛhaspatiḥ purā etā te astu*). For the gods, Bṛhaspati is the priest called Brahmā; the priest Brahmā, the best of Brahmins, will be the guide. Since it is so said, a sacrificial rite carried out under the leadership of a Brahmin does not fail at all; it comes to an end conferring welfare. (The Brāhmaṇa text is given as supplied; the word पुरोगवमकर्ण (*purogavamakarṇa*) is as it stands after the hyphenated line break was joined.)
+
+### Printed p. 461
+
+*[Running head, p. 461: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+⟦ಅಥೇಮವಸ್ಯ ವರ ಆ ಪೃಥಿವ್ಯಾ ಇತಿ ದೇವಯಜನಂ ವೈ ವರಂ ಪೃಥಿವ್ಯೈ ದೇವಯಜನ
+ಏವೈನಂ ತದವಸಾಯಯತ್ಯಾರೇ ಶತ್ರೂನ್ಕೃಣುಹಿ ಸರ್ವವೀರ ಇತಿ ದ್ವಿಷಂತಮೇವಾಸ್ಮೈ
+ತತ್ಪಾಪ್ಮಾನಂ ಭ್ರಾತೃವ್ಯಮಪಭಾಧತೇಽಧರಂ ಪಾದಯತಿ ।⟧
+
+Now they explain the third pāda: अथेमवस्य वर आ पृथिव्याः (*athemavasya vara ā pṛthivyāḥ*) is the third pāda. The excellent region on the earth is the place of worship of the gods. By reciting this third pāda he makes the soma settle in the excellent place belonging to the earth, that is, in the region of worship of the gods. By reciting the fourth pāda, आरे शत्रून्कृणुहि सर्ववीरः (*āre śatrūnkṛṇuhi sarvavīraḥ*), help is given in driving away the enemy in the form of sin that hates the sacrificer. Therefore the Hotṛ, reciting this fourth pāda, drives away the enemy who would bring harm to the sacrificer and makes that enemy go to a low region (a very mean place).
+
+⟦ಸೋಮ ಯಾಸ್ತೇ ಮಯೋಭುವ ಇತಿ ತೃಚಂ ಸೌಮ್ಯಂ ಗಾಯತ್ರಮನ್ನಾಹ ಸೋಮೇ ರಾಜನಿ
+ಪ್ರೋಹ್ಯಮಾಣೇ ಸ್ವಯೈವೈನಂ ತದ್ದೇವತಯಾ ಸ್ವೇನ ಛಂದಸಾ ಸಮರ್ಧಯತಿ ।⟧
+
+Then the Hotṛ—
+
+⟦ಸೋಮ ಯಾಸ್ತೇ ಮಯೋಭುವ ಊತೆಯಃ ಸಂತಿ ದಾಶುಷೇ ।
+ತಾಭಿರ್ನೋಽವಿತಾ ಭವ ॥
+ಇಮಂ ಯಜ್ಞಮಿದಂ ವಚೋ ಜುಜುಷಾಣ ಉಪಾಗಹಿ ।
+ಸೋಮ ತ್ವಂ ನೋ ವೃಧೇ ಭವ ॥
+ಸೋಮ ಗೀರ್ಭಿಷ್ಟ್ವಾ ವಯಂ ವರ್ಧಯಾಮೋ ವಚೋವಿದಃ ।
+ಸುಮೃಳೀಕೋ ನ ಆ ವಿ ಶ ॥⟧
+(Ṛ. Saṃ. 1-91-9, 10, 11)
+
+—recites these three Ṛks. These three Ṛks are addressed to Soma and are in the Gāyatrī metre. They are to be recited at the time of bringing the soma. By reciting Gāyatrī-metre Ṛks that praise the Soma deity himself and are dear to the Soma deity, it is as if the Soma deity were praised with his own mantras and with his own Gāyatrī metre, and the Soma deity becomes prosperous, that is, glad. The substance brought here is soma, and the mantras of praise are addressed to Soma; therefore the mantras are said to be his own. Since it was Gāyatrī that brought the soma from heaven to earth, the Gāyatrī metre is regarded as Soma's own. This matter is stated in the Taittirīya Saṃhitā in the anuvāka beginning कद्रूश्च वै (*kadrūśca vai*) (Tai. Saṃ. 6-1-6). Therefore here it is explained that the three Ṛks above and the Gāyatrī metre are Soma's own.
+
+सर्वे नंदंति यशसागतेनेत्यन्नाह । (*sarve naṃdaṃti yaśasāgatenetyannāha |*)
+
+### Printed p. 462
+
+*[Running head, p. 462: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. [printed "ಆ."] 4, Sū. 41.]*
+
+Then the Hotṛ recites the fifth Ṛk—
+
+⟦ಸರ್ವೇ ನಂದಂತಿ ಯಶಸಾಗತೇನ ಸಭಾಸಾಹೇನ ಸಖ್ಯಾ ಸಖಾಯಃ ।
+ಕಿಲ್ಪಿಷಸ್ಪೃತ್ಪಿತುಷಣಿರ್ಹೈಷಾಮರಂ ಹಿತೋ ಭವತಿ ವಾಜಿನಾಯ ॥⟧
+(Ma. Saṃ. 10-72-10)
+
+This Ṛk is in the Ṛgveda Saṃhitā itself. The main intent of this Ṛk is as follows. The sacrificer, the priests and the other people taking part in the sacrifice are glad to see this deity Soma, a friend and dear to all, arrived at the sacrificial ground. This Soma brings fame; as a scholar who overcomes all in an assembly of the learned by his unusual learning enters the assembly and delights everyone, so all are glad at the arrival of this deity Soma; and this Soma destroys the faults, that is, the sins and defects of the priests and sacrificers and protects them; he is the giver of food to them, that is, all are satisfied by drinking soma. Soma, endowed with such great qualities, has been brought to this altar and placed here in order to favour all with food, strength of the senses, and vigour. This matter is well known: this is the main intent of the Ṛk.
+
+⟦ಯಶೋ ವೈ ಸೋಮೋ ರಾಜಾ ಸರ್ವೋ ಹ ವಾ ಏತೇನ ಕ್ರಿಯೇಮಾಣೇನ ನಂದಂತಿ ಯಶ್ಚ
+ಯಜ್ಞೇ ಲಪ್ಸ್ಯಮಾನೋ ಭವತಿ ಯಶ್ಚ ನ ।⟧
+
+The first pāda of this Ṛk is explained. The deity Soma is the cause of fame. Indra and the others, having drunk soma, did many daring deeds and became renowned; therefore Soma is said to be of the nature of fame. In the sacrifice some obtain wealth by performing the priests' rites, and some are glad merely on seeing the sacrifice. Therefore all are glad on seeing this soma, bought and brought to the sacrificial ground.
+
+⟦ಸಭಾಸಾಹೇನ ಸಖ್ಯಾ ಸಖಾಯ ಇತ್ಯೇಷ ವೈ ಬ್ರಾಹ್ಮಣಾನಾಂ ಸಭಾಸಾಹಃ ಸಖಾ ಯತ್ತೋಮೋ
+ರಾಜಾ ।⟧
+
+The second pāda is explained: this Soma, shining radiantly, shines with his learning, having defeated all in the assemblies of the learned among Brahmins. Since this deity brings benefit to Brahmins and to the sacrificers and priests, he is a friend.
+
 ---
 
-**Progress note:** Done through printed p. 459 (PDF 459). Sukta 41 Rik 19 printed English and Special Topics (pp. 457-459): Havirdhana carts, soma-purchase myth (Aitareya Brahmana 3-12), Somapravahana rite begins; breaks off mid-sentence at the Adhvaryu's praisha. Flags: ornament line kept as note; no Samhita lines so no accent report
+**Progress note:** Done through printed p. 462 (PDF 462). Sukta 41 Rik 19 Somapravahana rite (pp. 460-462): Taittiriya mantra Bhadradabhi, soma verses 1-91-9 to 11, Ma. Sam. 10-72-10 and Brahmana explanations; ends after the second pada explanation. Flags: Brahmana text spellings as supplied (anna ha, purogavamakarna); header 'a. su. 4' garbled
