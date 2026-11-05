@@ -19093,6 +19093,69 @@ In these sentences the identity of Agni and the Agniṣṭoma is stated. In such
 ತಾನಸಂಭಾವ್ಯಂ ಪರಾಭಾವಯತ್ತತೋ ವೈ ದೇವಾ ಅಭವನರಾಸುರಾ ಭವತ್ಯಾತ್ಮನಾ
 ಪರಾಸ್ಯ ದ್ವಿಷನ್ಸಾಪ್ತಾ ಭ್ರಾತೃವ್ಯೋ ಭವತಿ ಯ ಏವಂ ವೇದ ॥⟧
 
+### Printed p. 605
+
+*[Running head, p. 605: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+The gods began a war with the asuras with the aim of conquering them. But Agni did not wish to join them and help them. Then the gods prayed to Agni: "You too are ours. You must join us to help us." Then Agni said: "If you do not recite my praising mantras and praise me, I will not come with you." They all praised Agni accordingly. At once Agni set out with them. Then Agni divided himself into three ranks and set out in three groups to conquer the asuras. The metres became the three ranks, and the three pressings became the three divisions of the army. With these implements he fought and defeated the asuras and drove them away. One who knows this principle defeats and destroys the enemy who hates him.
+
+⟦ಸಾ ವಾ ಏಷಾ ಗಾಯತ್ರ್ಯೇವ ಯದಗ್ನಿಷ್ಟೋಮಶ್ಚತುರ್ವಿಂಶತ್ಯಕ್ಷರಾ ವೈ ಗಾಯತ್ರೀ
+ಚತುರ್ವಿಂಶತಿರಗ್ನಿಷ್ಟೋಮಸ್ಯ ಸ್ತುತಶಸ್ತ್ರಾಣಿ ತದ್ವೈ ಯದಿದಮಾಹುಃ ಸುಧಾಯಾಂ ಹ ವೈ
+ವಾಜೀ ಸುಹಿತೋ ದಧಾತೀತಿ ಗಾಯತ್ರೀ ವೈ ತನ್ನ ಹ ವೈ ಗಾಯತ್ರೀ ಕ್ಷಮಾರಮತ
+ಊರ್ಧ್ವಾಹ ವಾ ಏಷಾ ಯಜಮಾನಮಾದಾಯ ಸ್ವರೇತೀತ್ಯಗ್ನಿಷ್ಟೋಮೋ ವೈ ತನ್ನ ಹ ವಾ
+ಅಗ್ನಿಷ್ಟೋಮಃ ಕ್ಷಮಾ ರಮತ ಊರ್ಧ್ವೋ ಹ ವಾ ಏಷ ಯಜಮಾನಮಾದಾಯ ಸ್ವರೇತಿ
+ಸ ವಾ ಏಷ ಸಂವತ್ಸರ ಏವ ಯದಗ್ನಿಷ್ಟೋಮಶ್ಚತುರ್ವಿಂಶತ್ಯರ್ಧಮಾಸೋ ವೈ ಸಂವತ್ಸರಶ್ಚತುರ್ವಿಂಶತಿರಗ್ನಿಷ್ಟೋಮಸ್ಯ ಸ್ತುತಶಸ್ತ್ರಾಣಿ ತಂ ಯಥಾ ಸಮುದ್ರಂ ಸೋತ್ಯಾ ಏವಂ
+ಸರ್ವೇ ಯಜ್ಞಕ್ರತವೋಪಯಂತಿ ॥⟧
+(printed ಇ. ಬ್ರಾ. 14-39, i.e. Ai. Brā. 14-39)
+
+Just as there are twenty-four syllables in the Gāyatrī, so in the Agniṣṭoma there are twenty-four stotras and śastras; therefore the identity of the Agniṣṭoma and the Gāyatrī must be stated. That is why it is said in the world that a horse bearing an excellent load is a convenient vehicle for the sacrificer. This same Gāyatrī, of such greatness, is not content with an existence merely on earth, but takes the sacrificer with it and flies up to heaven. In the same way the Agniṣṭoma too is not content with a merely earthly existence but takes the sacrificer with it and flies up to heaven. As the year has twenty-four half-months, so the Agniṣṭoma has twenty-four stotras and śastra mantras; therefore the Agniṣṭoma is of the nature of the year. As all streams come together and unite in the ocean, in this Agniṣṭoma all the other series of rites too unite.
+
+⟦ದೀಕ್ಷಣೀಯೇಷ್ಟಿಸ್ತಾಯತೇ ತಾಮೇವಾನು ಯಾಃ ಕಾಶ್ಚೇಷ್ಟಯಸ್ತಾಃ ಸರ್ವಾ ಅಗ್ನಿಷ್ಟೋಮಮಪಿಯಂತೀಳಾಮುಪಹ್ವಯತ ಇಳಾವಿಧಾ ವೈ ಪಾಕಯಜ್ಞಾ ಇಳಾಮೇವಾನು ಯೇ ಕೇ ಚ
+ಪಾಕಯಜ್ಞಾಸ್ತೇ ಸರ್ವೇಽಗ್ನಿಷ್ಟೋಮಮಪಿಯಂತಿ ಸಾಯಂ ಪ್ರಾತರಗ್ನಿಹೋತ್ರಂ ಜುಹ್ವತಿ⟧
+
+### Printed p. 606
+
+*[Running head, p. 606: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+⟦ಸಾಯಂಪ್ರಾತರ್ವತಂ ಪ್ರಯಚ್ಛಂತಿ ಸ್ವಾಹಾಕಾರೇಣಾಗ್ನಿಹೋತ್ರಂ ಜುಹ್ವತಿ ಸ್ವಾಹಾಕಾರೇಣ
+ವ್ರತಂ ಸ್ವಾಹಾಕಾರಮೇವಾನ್ವಗ್ನಿಹೋತ್ರಮಗ್ನಿಷ್ಟೋಮಮಪ್ಯೇತಿ ಪಂಚದಶ ಪ್ರಾಯಣೀಯೇ ಸಾಮಧೇನೀರನ್ವಾಹ ಪಂಚದಶ ದರ್ಶಪೂರ್ಣಮಾಸಯೋಃ ಪ್ರಾಯಣೀಯಮೇವಾನು ದರ್ಶಪೂರ್ಣಮಾಸಾವಗ್ನಿಷ್ಟೋಮಮಪೀತಃ ॥⟧
+(printed ಇ. ಬ್ರಾ. 14-40)
+
+When the dīkṣā sacrifice is performed all the oblations too attain unity in the Agniṣṭoma. When, praying to Iḷā in the form of food, one performs the cooked-offering sacrifice by her favour, all the oblations offered there go to the Agniṣṭoma. The Agnihotra, which includes the cakes and the like offered with svāhā in the evening and the morning at the time of the Agnihotra, is also included in the Agniṣṭoma. In the full-moon and new-moon sacrifices the new-moon and full-moon rites, to which the introductory oblations were offered while the fifteen sāmidhenī mantras are recited, also attain identity in the Agniṣṭoma.
+
+⟦ಸೋಮಂ ರಾಜಾನಂ ಕ್ರೀಣಂತೌಷಧೋ ವೈ ಸೋಮೋ ರಾಜೌಷಧಿಭಿಸ್ತಂ ಭಿಷಜ್ಯಂತಿ ಯಂ
+ಭಿಷಜ್ಯಂತಿ ಸೋಮಮೇವ ರಾಜಾನಂ ಕ್ರೀಯಮಾಣಮನು ಯಾನಿ ಕಾನಿ ಚ ಭೇಷಜಾನಿ
+ತಾನಿ ಸರ್ವಾಣ್ಯಗ್ನಿಷ್ಟೋಮಮಪಿಯಂತ್ಯಗ್ನಿಮಾತಿಥ್ಯೇ ಮಂಥಂತ್ಯಗ್ನಿಂ ಚಾತುರ್ಮಾಸ್ಯೇಷ್ವಾತಿಥ್ಯಮೇವಾನು ಚಾತುರ್ಮಾಸ್ಯಾನ್ಯಗ್ನಿಷ್ಟೋಮಮಪಿಯಂತಿ ಪಯಸಾ ಪ್ರವರ್ಗ್ಯೇ
+ಚರಂತಿ ಪಯಸಾ ದಾಕ್ಷಾಯಣಯಜ್ಞೇ ಪ್ರವರ್ಗ್ಯಮೇವಾನು ದಾಕ್ಷಾಯಣಯಜ್ಞೋಽಗ್ನಿಷ್ಟೋಮಮಪ್ಯೇತಿ ಪಶುರುಪವಸಥೇ ಭವತಿ ತಮೇವಾನು ಯೇ ಕೇ ಚ ಪಶುಬಂಧಾಸ್ತೇ
+ಸರ್ವೇಽಗ್ನಿಷ್ಟೋಮಮಪಿಯಂತೀಳಾದಧೋ ನಾಮ ಯಜ್ಞಕ್ರತುಸ್ತಂ ದಧ್ನಾ ಚರಂತಿ
+ದಧ್ನಾ ದಧಿಘರ್ಮೇ ದಧಿಘರ್ಮಮೇವಾನ್ವಿಳಾದಧೋಽಗ್ನಿಷ್ಟೋಮಮಪ್ಯೇತಿ ॥⟧
+(printed ಐ. ಬ್ರಾ. 14-40)
+
+The purchase of soma, king of plants, is conducted according to the śāstra. With the help of these plants they cure all the sick. Therefore after the purchase of soma, along with whatever medicinal plants there are, King Soma becomes of the nature of the Agniṣṭoma. In the Cāturmāsyas the churning of fire is performed as part of the hospitality rite. All these Cāturmāsya rites, preceded by the churning of fire, are included in the Agniṣṭoma. They prepare for the Pravargya sacrifice with milk. This same milk-material is also the apparatus of the Dākṣāyaṇa sacrifice; therefore the Dākṣāyaṇa, preceded by the Pravargya, joins the Agniṣṭoma. All animal sacrifices too are included in the Agniṣṭoma through the animal offered on the first day. The Iḷādadha rite is performed with curds; so is the dadhigharma rite. Therefore the dadhigharma rite attains unity in the Agniṣṭoma with the help of the Iḷādadha.
+
+### Printed p. 607
+
+*[Running head, p. 607: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+⟦ಇತಿ ನು ಪುರಸ್ತಾದಥೋಪರಿಷ್ಟಾತ್ಪಂಚದಶೋಕ್ಷ್ಯಸ್ಯ ಸ್ತೋತ್ರಾಣಿ ಪಂಚದಶ ಶಸ್ತ್ರಾಣಿ ಸ
+ಮಾಸೋ ಮಾಸಧಾ ಸಂವತ್ಸರೋ ವಿಹಿತಃ ಸಂವತ್ಸರೋಗ್ನಿರ್ವೈಶ್ವಾನರೋಗ್ನಿರಗ್ನಿಷ್ಟೋಮಃ ಸಂವತ್ಸರಮೇವಾನೂಕ್ಷ್ಯೋಗ್ನಿಷ್ಟೋಮಮಪ್ಯೇತ್ಯುಕ್ಥಮಪಿ ಯಂತಮನು ವಾಜಪೇಯೋಽಪ್ಯೇತ್ಯುಕ್ಥೋ ಹಿ ಸ ಭವತಿ ದ್ವಾದಶರಾತ್ರೇಃ ಪರ್ಯಾಯಾಸ್ಸರ್ವೇ ಪಂಚದಶಾಸ್ತೇ
+ದ್ವೌ ದ್ವೌ ಸಂಪದ್ಯ ತ್ರಿಂಶಕದೇಕವಿಂಶಂ ಷೋಳಶಿಸಾಮ ತ್ರಿವೃತ್ಸಂಧಿಃ ಸಾ ತ್ರಿಂಶತ್ಸ ಮಾಸಸ್ತ್ರಿಂಶನ್ಮಾಸಸ್ಯ ರಾತ್ರಯೋ ಮಾಸಧಾ ಸಂವತ್ಸರೋ ವಿಹಿತಃ ಸಂವತ್ಸರೋಗ್ನಿರ್ವೈಶ್ವಾನರೋಗ್ನಿ ರಗ್ನಿಷ್ಟೋಮಃಸಂವತ್ಸರಮೇವಾನ್ವತಿರಾತ್ರೋಗ್ನಿಷ್ಟೋಮಮಪ್ಯೇತ್ಯತಿರಾತ್ರಮಪಿ
+ಯಂತಮನ್ವಪ್ತೋರ್ಯಾಮೋಽಪ್ಯೇತ್ಯತಿರಾತ್ರೋ ಹಿ ಸ ಭವತಿ ॥⟧
+(printed ಇ. ಬ್ರಾ. 14-41)
+
+The rites prescribed for the earlier rites become attached also to the later rites. In the ukthya there are fifteen stotras and fifteen śastras. These thirty are parts of the month. By the order of these months the year is completed. Agni Vaiśvānara is the year. Agni is the Agniṣṭoma. Since the vājapeya too is only a variety of the ukthya, the resolve for the vājapeya is made as soon as the resolve for the ukthya is made. In the pañcadaśa stoma there are twelve night-turns. Doubled, this is thirty. The Ṣoḍaśin is of the nature of ekaviṃśa and the saṃdhi is trivṛt. These are equal to the thirty nights in the month of thirty. By such an arrangement of months there is the year. This year-form is Agni Vaiśvānara. The Agniṣṭoma is Agni. Therefore, through the year, the atirātra is conceived in the Agniṣṭoma.
+
+⟦ಏತದ್ವೈ ಯೇ ಚ ಪುರಸ್ತಾದ್ಯೇ ಚೋಪರಿಷ್ಟಾದ್ಯಜ್ಞಕ್ರತವಸ್ತೇ ಸರ್ವೆಽಗ್ನಿಷ್ಟೋಮಮಪಿಯಂತಿ
+ತಸ್ಯ ಸಂಸ್ತುತಸ್ಯ ನವತಿಶತಂ ಸ್ತೋತ್ರಿಯಾಃ ಸಾ ಯಾ ನವತಿಸ್ತೇ ದಶ ತ್ರಿವೃತೋಽಥ ಯಾ
+ನವತಿಸ್ತೇ ದಶಾಥ ಯಾ ದಶ ತಾಸಾಮೇಕಾ ಸ್ತೋತ್ರಿಯೋದೇತಿ ತ್ರಿವೃತ್ಪರಿಶಿಷ್ಯತೇ
+ಸೋಽಸಾವೇಕವಿಂಶೋಽಧ್ಯಾಹಿತಸ್ತಪತಿ ವಿಷುವಾನ್ವಾ ಏಷ ಸ್ತೋಮಾನಾಂ ದಶ ವಾ
+ಏತಸ್ಮಾದರ್ವಾಂಚಸ್ತ್ರಿವೃತೋ ದಶ ಪರಾಂಚೋ ಮಧ್ಯ ಏಷ ಏಕವಿಂಶ ಉಭಯತೋಽಧ್ಯಾಹಿತಸ್ತಪತಿ ತದ್ಯಾಸೌ ಸ್ತೋತ್ರಿಯೋದೇತಿ ಸೈತಸ್ಮಿನ್ನಧೂಳ್ಹಾ ಸ ಯಜಮಾನಸ್ತದ್ದೈವಂ
+ಕ್ಷತ್ರಂ ಸಹೋಬಲಮಶ್ನುತೇ ಹ ವೈ ದೈವಂ ಕ್ಷತ್ರಂ ಸಹೋಬಲಮೇತಸ್ಯ ಹ ಸಾಯುಜ್ಯಂ
+ಸರೂಪತಾಂ ಸಲೋಕತಾಮಶ್ನುತೇ ಯ ಏವಂ ವೇದ ॥⟧
+(printed ಇ. ಬ್ರಾ. 14-41)
+
+Therefore all the sacrificial rites that precede the Agniṣṭoma and those performed after it come to their conclusion in the Agniṣṭoma itself. Taking together all the stotras recited in these rites, they add up to one hundred and ninety-nine. Of them ninety
+
 ---
 
-**Progress note:** Done through printed p. 604 (PDF 604). Sūkta 2 Ṛk 15 complete (end of Sūkta 2); Sūkta 3 begun: Pīṭhike (Agni and Agniṣṭoma), Aitareya Brāhmaṇa legend cut at end of quoted passage; accent DIFF/NOMATCH logged
+**Progress note:** Done through printed p. 607 (PDF 607). Sūkta 3 Pīṭhike: Agniṣṭoma identity, Aitareya Brāhmaṇa 14-39 to 14-41; cut mid-sentence
