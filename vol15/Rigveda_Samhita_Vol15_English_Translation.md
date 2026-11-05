@@ -17834,6 +17834,82 @@ The nivid mantras are in the form of embryos for the uktha hymns. That is, at th
 ಶಂಸ್ರೇ ದದ್ಯಾದಿತಿ ತದು ಖಲು ವರಮೇವ ದದತಿ । ನ ನಿವಿದಃ ಪದಮತೀಯಾದ್ಯದ್ಯನ್ನಿವಿದಃ ಪದಮತೀಯಾದ್ಯಜ್ಞಸ್ಯ ತಚ್ಛಿದ್ರಂ ಕುರ್ಯಾದ್ಯಜ್ಞಸ್ಯ ವೈ ಛಿದ್ರಂ ಸ್ರವದ್ಯಜಮಾನೋಽನು ಪಾಪೀಯಾನ್ ಭವತಿ ತಸ್ಮಾನ್ನ ನಿವಿದಃ ಪದಮತೀಯಾತ್ । ನ ನಿವಿದಃ ಪದೇ
 ವಿಪರಿಹರೇದ್ಯನ್ನಿವಿದಃ ಪದೇ ವಿಪಹರೇನ್ಮೋಹಯೇದ್ಯಜ್ಞಂ ಮುಗ್ಧೋ ಯಜಮಾನಃ⟧
 
+### Printed p. 564
+
+*[Running head, p. 564: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+⟦ಸ್ಯಾತ್ತಸ್ಮಾನ್ನ ನಿವಿದಃ ಪದೇ ವಿಪರಿಹರೇತ್ । ನ ನಿವಿದಃ ಪದೇ ಸಮಸ್ಯೇದ್ಯನ್ನಿವಿದಃ
+ಪದೇ ಸಮಸ್ಯೆದ್ಯಜ್ಞಸ್ಯ ತದಾಯುಃ ಸಂಹರೇತ್ಪ್ರಮಾಯುಕೋ ಯಜಮಾನಃ ಸ್ಯಾತ್ತಸ್ಮಾನ್ನ
+ನಿವಿದಃ ಪದೇ ಸಮಸ್ಯೆತ್ । ಪ್ರೇದಂ ಬ್ರಹ್ಮ ಪ್ರೇದಂ ಕ್ಷತ್ರಮಿತ್ಯೇತೇ ಏವ ಸಮಸ್ಯೆದ್ಬ್ರಹ್ಮಕ್ಷತ್ರಯೋಃ ಸಂಶ್ರಿತ್ಯೈ ತಸ್ಮಾದ್ಬ್ರಹ್ಮ ಚ ಕ್ಷತ್ರಂ ಚ ಸಂಶ್ರಿತೇ । ನ ತೃಚಂ ನ
+ಚತುರ್ಯಚಮತಿಮನ್ಯೇತ ನಿವಿದ್ಧಾನಮೇಕೈಕಂ ವೈ ನಿವಿದಃ ಪದಮೃಚಂ ಸೂಕ್ತಂ ಪ್ರತಿ
+ತಸ್ಮಾನ್ನ ತೃಚಂ ನ ಚತುರ್ಯಚಮತಿಮನ್ಯೇತ ನಿವಿದ್ಧಾನಂ ನಿವಿದಾ ಹ್ಯೇವ ಸ್ತೋತ್ರಮತಿಶಸ್ತ್ರಂ ಭವತಿ ।⟧
+(Ai. Brā. 11-11, printed ಇ. ಬ್ರಾ.)
+
+All the nivid deities belong to the Sun. The mantras of the morning, midday and third pressings follow the course of the Sun from rising to setting. The gods gathered the sacrifice together by means of measures consisting of pādas (quarter-verses); that is why the nivid mantras are in the form of sentences made of pādas. As a result of the gods collecting all the portions of the sacrifice together, the horse came into being; that is why there is a rule that a horse is to be given to the priest who recites these mantras. In the nivid mantras one must not pass over any pada and go ahead; if any pada is left unrecited it is as though a hole were made in the sacrifice, and it brings harm to the sacrificer. Nor should two sentences in these mantras be joined together, nor the earlier joined to the later or the later to the earlier in recitation. If that is done, the rite itself falls into uncertainty and the sacrificer too becomes confused. If two sentences are joined, contraction arises in the rite itself, and the sacrificer's life may be contracted so that he may die. Therefore one must not mix sentences and cause contraction in the recitation of the mantras. Only the two sacred and divine mantras "prā'idaṃ brahma" and "prā'idaṃ kṣatram" may be mixed; hence the brahma-radiance and the kṣatra-radiance become mixed. The nivid mantras must be contained within three or four verses and must not be exceeded; it is through the nivid that the recitation of the hymn is extended.
+
+⟦ಏಕಾಂ ಪರಿಶಿಷ್ಯ ತೃತೀಯಸವನೇ ನಿವಿದಂ ದಧ್ಯಾತ್ । ಯದ್ವೇ ಪರಿಶಿಷ್ಯ ದಧ್ಯಾತ್ಪೃಜನನಂ
+ತದುಪಹನ್ಯಾದ್ಗರ್ಭೈಸ್ತತ್ಪಜಾ ವ್ಯರ್ಧಯೇತ್ತಸ್ಮಾದೇಕಾಮೇವ ಪರಿಶಿಷ್ಯ ತೃತೀಯಸವನೇ
+ನಿವಿದಂ ದಧ್ಯಾತ್ । ನ ಸೂಕ್ತೇನ ನಿವಿದಮತಿಪದ್ಯೇತ । ಯೇನ ಸೂಕ್ತೇನ ನಿವಿದಮತಿ
+ಪದ್ಯೇತ ನ ತತ್ಪುನರುಪನಿವರ್ತೇತ ವಾಸ್ತುಹಮೇವ ತತ್ । ಅನ್ಯತ್ತದ್ದೈವತಂ ತಚ್ಛಂದಸಂ
+ಸೂಕ್ತಮಾಹೃತ್ಯ ತಸ್ಮಿನ್ನಿವಿದಂ ದಧ್ಯಾತ್ । ಮಾ ಪ್ರ ಗಾಮ ಪಥೋ ವಯಮಿತಿ ಪುರಸ್ತಾ⟧
+
+### Printed p. 565
+
+*[Running head, p. 565: Aṣṭaka 2 (printed ಆ. for ಅ.), Adhyāya 8, Varga 17, Ṛgvedasaṃhitā.]*
+
+⟦ತೂಕ್ತಸ್ಯ ಶಂಸತಿ । ಪಥೋ ವಾ ಏಷ ಪ್ರೈತಿ ಯೋ ಯಜ್ಞೇ ಮುಹ್ಯತಿ ಮಾ ಯಜ್ಞಾದಿಂದ್ರ ಸೋಮಿನ ಇತಿ ಯಜ್ಞಾದೇವ ತನ್ನ ಪ್ರಚ್ಯವತೇ । ಮಾಂತಸ್ಸುರ್ನೋ ಅರಾತಯ
+ಇತ್ಯರಾತೀಯತ ಏವ ತದಪಹಂತಿ । ಯೋ ಯಜ್ಞಸ್ಯ ಪ್ರಸಾಧನಸ್ತಂತುರ್ದೇವೇಷ್ವಾತತಃ ।
+ತಮಾಹುತಂ ನಶೀಮಹೀತಿ । ಪ್ರಜಾ ವೈ ತಂತುಃ ಪ್ರಜಾಮೇವಾಸ್ಮಾ ಏತತ್ಸಂತನೋತಿ ।
+ಮನೋ ನ್ಯಾಹುವಾಮಹೇ ನಾರಾಶಂಸೇನ ಸೋಮೇನೇತಿ । ಮನಸಾ ವೈ ಯಜ್ಞಸ್ತಾಯತೇ
+ಮನಸಾ ಕ್ರಿಯೆತೇ । ಸೈವ ತತ್ರ ಪಾಯಶ್ಚಿತ್ತಿಃ ಪ್ರಾಯಶ್ಚಿತ್ತಿಃ ॥⟧
+(Ai. Brā. 11-11, printed ಇ. ಬ್ರಾ.)
+
+At the third pressing the nivid is to be inserted leaving out one ṛk. If it is inserted leaving out two ṛks, powerlessness arises and barrenness follows; therefore it should be inserted leaving out one only, and then the rite is complete. It must not be inserted leaving out two, for that would destroy the power of generation; the power of conception would go and people would become barren. A sūkta which is fit for a nivid must not be recited without inserting the nivid mantras. Once it has been recited, it is no longer fit for the insertion. If such a lapse occurs, another sūkta with the same deity and the same metre is to be chosen and the nivid mantras inserted in it. At such a time:
+
+⟦ಮಾ ಪ್ರ ಗ್ರಾಮ ಪಥೋ ವಯಂ ಮಾ ಯಜ್ಞಾದಿಂದ್ರ ಸೋಮಿನಃ ।
+ಮಾಂತಃ ಸ್ಥುನೋರ್ನ ಆರಾತಯಃ ॥⟧
+(printed ಮ. ಸಂ ೧೦-೫೭-೧; i.e. Ṛ. Saṃ. 10-57-1)
+
+First one prays that we may not go astray from the path, that we may not be cast out of the sacrificial rite, and that evil powers may not overcome us; then the sūkta with the nivid mantras is to be recited. Then the rite proceeds without any confusion and without hindrance, and the evil powers are destroyed. "The thread of the fruit of the sacrifice that is stretched out among the gods, may that same thread be spread among us the sacrificers" (Ṛ. Saṃ. 10-57-2): so the sacrificer recites. Progeny is that thread; for the sacrificer this thread in the form of descendants is obtained in unbroken sequence.
+
+⟦ತದ್ಯದೇತಾಂ ಪುರಸ್ತಾತ್ ಸೂಕ್ತಸ್ಯ ನಿವಿದಂ ದಧಾತಿ ಪ್ರಜಾತ್ಯೈ ಪ್ರಜಾಯತೇ ಪ್ರಜಯಾ
+ಪಶುಭಿರ್ಯ ಏವಂ ವೇದ ॥⟧
+(printed ಐ ಬ್ರಾ. 10-1)
+
+For this reason the hotṛ, by reciting the nivid mantra at the beginning of the sūkta, gains offspring; sacrificers with this understanding obtain good offspring and all other wealth.
+
+### Printed p. 566
+
+*[Running head, p. 566: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+This is stated elsewhere too. From many places in the Ṛgveda Saṃhitā it is known that it is customary, with the faith that the recitation of mantras gives the most excellent fruit, to praise, when invoking the respective deities, the nature of each deity, its power, its great deeds and so on, and to recite accordingly. For example—
+
+तान्नूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्त्रिधं । (*tānnūrvayā nividā hūmahe vayaṃ bhagaṃ mitramaditiṃ dakṣamastridhaṃ |*)
+(Ṛ. Saṃ. 1-89-3)
+
+जुषेथां यज्ञं बोधतं हवस्य मे सत्तो होता निविदः पूर्व्या अनु । (*juṣethāṃ yajñaṃ bodhataṃ havasya me satto hotā nividaḥ pūrvyā anu |*)
+(Ṛ. Saṃ. 2-36-6)
+
+किमु ष्ट्विदस्मै निविदो भनंतेंद्रस्यावद्यं दिधिषंत आपः । (*kimu ṣṭvidasmai nivido bhanaṃteṃdrasyāvadyaṃ didhiṣaṃta āpaḥ |*)
+(Ṛ. Saṃ. 4-18-7)
+
+वि यद्वाचं कीस्तासो भरंते शंसंति के चिन्नि विदो मनानाः । (*vi yadvācaṃ kīstāso bharaṃte śaṃsaṃti ke cinni vido manānāḥ |*)
+(Ṛ. Saṃ. 6-67-10)
+
+In such contexts the glory of the nivid mantras is praised. In the Ṛk Ṛ. Saṃ. 1-176-6 the nivid mantra addressed to Indra is indicated by the words ⟦ತಾಮನು ತ್ವಾ ನಿವಿದಂ
+ಜೋಹವೀಮಿ⟧. There is also some difference of opinion in determining which sūkta contains the nivid mantras addressed to Indra. For example—
+
+जनिष्ठा उग्रः सहसे तुरायेति निविद्धानमैकाहिकं । (*janiṣṭhā ugraḥ sahase turāyeti nividdhānamaikāhikaṃ |*)
+(Ai. Ā. 1-2-2, as printed)
+
+The Aitareya Brāhmaṇa (the Kannada text says Brāhmaṇa, while the reference it cites is printed ಐ. ಆ.) says that the sūkta Ṛ. Saṃ. 10-73, beginning with the Ṛk quoted just above, contains nivid mantras. But in the Śāṅkhāyana Āraṇyaka (1-3) it is said that the sūkta Ṛ. Saṃ. 6-19, beginning with the Ṛk ⟦ಮಹಾ ಇಂದ್ರೋ
+ನೃವಧಾ⟧, contains these mantras. In the Ṛk above the seer of the sūkta declares his resolve: "I shall praise Indra with nivid mantras that praise Indra's nature, valour and distinction."
+
+⟦ಋತಾವೃಧೇ ವೈಶ್ವಾನರಾಯ ಅಗ್ನಯೇ ಪೂತಂ ಧೃತಂ ನ ಧಿಷಣಾಂ ಜನಾಮಸಿ—ಉದಕಸ್ಯ
+ಯಜ್ಞಸ್ಯ ವಾ ವರ್ಧಯಿತ್ರೇ ವೈಶ್ವಾನರಾಯ ಅಗ್ನಯೇ ಪೂತಂ ಧೃತಮಿವ ಸ್ತುತಿಂ ಜನಯಾಮಃ ।⟧
+
+We shall fashion praise for the Agni named Vaiśvānara, the augmenter of water or of the sacrifice, as pure ghee, that is, praise that will cause delight in the way pure ghee causes delight.
+
 ---
 
-**Progress note:** Done through printed p. 563 (PDF 563). Sūkta 2 Ṛk 1 complete up to Special Topics on nivid mantras (cut mid-passage)
+**Progress note:** Done through printed p. 566 (PDF 566). Sūkta 2 Ṛk 1 Special Topics on nivid mantras (Aitareya Brāhmaṇa, Ṛgveda citations)
