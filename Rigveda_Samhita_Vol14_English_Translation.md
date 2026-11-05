@@ -29798,6 +29798,104 @@ Number of Ṛks in the sūkta—9. Ṛṣi—Gaitsamada [as printed]. Devatā—
 
 O sacrificers, for you I offer the oblation into the blazing fire for Indra, the most excellent among the great gods, and in the same way I recite praise. We call for protection Indra, who is free from decay, who makes others decay, who is sprinkled with soma juice, ancient and ever young.
 
+### Printed p. 776
+
+*(Header: "776 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 16]".)*
+
+**Printed English translation (Ṛk 1)**
+
+I bear the libation for you to the best of the holy(gods, to be poured) on the kindled fire,(and I offer to him fitting praise): we invoke for(our) protection the ever-youthful Indra, the undecaying, the causer cf [sic] decay, sprinkled(with the Soma libation).
+
+**Special Topics (Viśeṣaviṣayagaḷu)** *(heading printed "ವಿಶೇಷವಿವರಗಳು")*
+
+वः सतां ज्येष्ठतमाय अग्नाविव समिधाने हविः प्र भरे (*vaḥ satāṃ jyeṣṭhatamāya agnāviva samidhāne haviḥ pra bhare*)—the bhāṣya says: "O sacrificers, for your sake I prepare the oblation in the very blazing fire for Indra, the best of the great gods." In Kannada: "O sacrificers, for you I offer the oblation into the kindled fire, addressed to Indra, the best of all the gods," says the ṛṣi Gṛtsamada. On Indra's being the best of all the gods:
+
+अयग्ं राजा जगतश्चर्षणीनां । स एव वीरः स उ वीर्यावान् । स एक राजो जगतः परस्पाः (*ayagṃ rājā jagataścarṣaṇīnāṃ | sa eva vīraḥ sa u vīryāvān | sa eka rājo jagataḥ paraspāḥ*) ... अथैकराजो अभवज्जनानां (*athaikarājo abhavajjanānāṃ*) ... इंद्रो देवानामभवत्पुरोगाः (*iṃdro devānāmabhavatpurogāḥ*) (Tai. Brā. 2-8-3-21-22; "ಪರಸ್ಪಾಃ" as supplied)
+
+इंद्रो ना अकामयत । जैष्ठ्यं देवानामभिजयेयमिति (*iṃdro nā akāmayata | jaiṣṭhyaṃ devānāmabhijayeyamiti*) (Tai. Brā. 3-1-5-2; "ನಾ" as supplied)
+
+In passages such as these it is stated that Indra is the best of the gods.
+
+अजुर्यं जरयंतं (*ajuryaṃ jarayaṃtaṃ*)—the bhāṣya: अजरणीयं सर्वमन्यज्जरयंतं (*ajaraṇīyaṃ sarvamanyajjarayaṃtaṃ*). Indra alone is free from decay and free from the changes of age such as old age, but he makes the lives of other beings wane. That is, unlike other beings he is not subject to time; he is always of one condition, ever young: this is the main idea. The use of the words सनात् (*sanāt*) (*sanāt*), "ancient, always existing", and युवानं (*yuvānaṃ*) (*yuvānaṃ*), "ever young, always in the state of youth", in this verse makes this idea clear.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यस्मा॒दिंद्रा॑द्बृह॒तः किं च॒नेमृ॒ते विश्वा॑न्यस्मि॒न्तसंभृ॒ताधि॑ वी॒र्या॑ ।
+> ज॒ठरे॒ सोमं॑ त॒न्वी॒३॒॑३ सहो॒ महो॒ हस्ते॒ वज्रं॒ भर॑ति शी॒र्षणि॒॑
+> क्रतुं ॥ २ ॥
+
+> *yasmādiṃdrādbṛhataḥ kiṃ canemṛte viśvānyasmintasaṃbhṛtādhi vīryā |*
+> *jaṭhare somaṃ tanvī3 saho maho haste vajraṃ bharati śīrṣaṇi*
+> *kratuṃ ‖ 2 ‖*
+
+### Printed p. 777
+
+*(Header: "[A. 2 A. 6 V. 17] Ṛgvedasaṃhitā 777". The Saṃhitā of Ṛk 2 is split by the page break at the end of p. 776: its first line and a half stand on p. 776, the rest on p. 777 within one block.)*
+
+**॥ पदपाठः ॥**
+
+*(The supplied text prints the Pada with the label garbled as "ಹಡಪಾರಃ", and the Devanagari lines carry stray image-markup text; the first Pada line survives only in that markup. The block was rebuilt from it. Kannada vowel signs and conjunct marks that had slipped into the Devanagari were rewritten in Devanagari script; no letter was changed. The Pada reads तन्वि where the Saṃhitā has तन्वी३, and शीर्षणी where the Saṃhitā has शीर्षणि; noted as supplied.)*
+
+> यस्मात् । इंद्रात् । बृहतः । किं । चन । ऊं । ऋते । विश्वा । अस्मिन् । संभृता ।
+> अधि । वीर्या ।
+> जठरे । सोमं । तन्वि । सहः । महः । हस्तं । वज्रं । भरति । शीर्षणी । क्रतुं ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Without Indra nothing at all exists, or alternatively this small world is nothing before him; all powers are stored in him; he holds soma in his belly, strength and brilliance in his body, the thunderbolt in his hand and knowledge in his head. Grammatical tail on the accent (nighāta) of bharati and on śīrṣaṇi.*
+
+> बृहतो महतो यस्मादिंद्रादृते किमपीमिदं जगच्चन । नास्तीत्यर्थः ॥ चेति
+> नेति निपातद्वयसमुदायश्च नेति । चेति चिदित्यर्थे नेति निषेधार्थे । ऐकपद्यं तु
+> सांप्रदायिकं ॥ उक्तार्थे मंत्रः । नेंद्रादृते पवते धाम किं चनेति । यद्वा
+> इंद्रादृत ईमिदं जगत् किं । न क्षुद्रमत्यल्पमित्यर्थः । कुत एतत् तदेवोच्यते ।
+> आस्मिन्निंद्रे विश्वानि सर्वाणि वीर्याणि सामर्थ्यान्धि संभृता । अधिकं संभृतान्यासते ।
+> यश्चेंद्रो जठरे स्नोदरे सोममभिषुतं सोमरसं भरति बिभर्ति । किंच तन्नि
+> तन्वां स्वकीये सर्वस्मिन् शरीरे सहो बलं महस्तेजश्च बिभर्ति । हस्ते वज्रमा-
+> युधं बिभर्ति । शीर्षणि शिरसि क्रतुं विज्ञानं भरति । बिभर्ति ॥ यद्वृत्तयोगादनि-
+> घातः । वाक्यभेदाद्वा निघाताभावः । शीर्षणि शीर्षन् छंदसीति ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+bṛhataḥ—of great nature; yasmāt indrāt ṛte—without which Indra; īṃ—this world; kiṃcana—would not have existed at all; asmin—in that Indra; viśvāni vīryā—all powers; adhi saṃbhṛtā—are gathered; jaṭhare—in the belly; somaṃ—soma juice; bharati—(Indra) carries filled; tanvi—in his body; sahaḥ—strength; mahaḥ—brilliance (he bears); haste—in the hand; vajraṃ—the thunderbolt (he holds); śīrṣaṇi—in the head; kratuṃ—knowledge, he has obtained.
+
+**भावार्थ (Bhāvārtha)**
+
+Without that Indra of great nature this world would not have existed at all; in that Indra all powers are gathered. Indra has filled his belly with soma juice. In his body he bears strength and brilliance. In his hand he holds the thunderbolt. In his head he has obtained knowledge.
+
+### Printed p. 778
+
+*(Header: "778 Sāyaṇabhāṣyasahitā । Maṃ. 2 A. 2. Sū. 16."; the supplied text reads "ಗಾಯಣಭಾಷ್ಯಸಹಿತಾ" for "ಸಾಯಣ…".)*
+
+**Printed English translation (Ṛk 2)**
+
+For without that mighty Indra, this(world) were nothing: in him all powers whatever are aggregated: he receives the Soma juice into his stomach, and in his body(exhibits) strength and energy: he bears the thunderbolt in his hand, and wisdom in his head.
+
+**Special Topics (Viśeṣaviṣayagaḷu)** *(heading printed "ವಿಶೇಷವಿವರಗಳು")*
+
+यस्मात् बृहतः इंद्रात् ऋते किं ईं चन (*yasmāt bṛhataḥ iṃdrāt ṛte kiṃ īṃ cana*)—Apart from this greatly glorious Indra, that is, if Indra were not there, this world would not exist, or nothing would exist; or, before Indra's great glory how much is this small world? Two meanings are given. The main idea is that this world has been made by Indra; Indra is the cause of this world. For:
+
+विश्वानि अस्मिन् संभृता अधि वीर्या (*viśvāni asmin saṃbhṛtā adhi vīryā*)—the bhāṣya: अस्मिन्निंद्रे सर्वाणि सामर्थ्य्यन्यधि अधिकं संभृतान्यासते (*asminniṃdre sarvāṇi sāmarthyyanyadhi adhikaṃ saṃbhṛtānyāsate*) (spelling as supplied). In this Indra alone all powers and capacities are concentrated. Since all powers are abundantly filled in Indra, there is no room for the world or for other things to exist without Indra. On this the Śruti passage केंद्रादृते पवते धाम किं चन (*keṃdrādṛte pavate dhāma kiṃ cana*) (Ṛ. Saṃ. 9-69-6) is cited. [The supplied text prints केंद्रादृते (*keṃdrādṛte*) here, whereas the bhāṣya of this Ṛk quotes नेंद्रादृते (*neṃdrādṛte*); noted, not changed.] The main idea is that everything proceeds from Indra's glory, that is, from his powers and capacities.
+
+In the second half of this Ṛk Indra's form is described. Indra has filled his belly with soma juice, bears strength and brilliance in his body, holds the thunderbolt in his hand, and bears knowledge in his head (that is, in the brain); that is, Indra's intelligence is superior. The main idea is that Indra's powers and capacities, such as these, are surpassing.
+
+चन (*cana*)—This word consists of the two particles च (*ca*) and न (*na*). च (*ca*) indicates चित् (*cit*), and न (*na*) the sense of negation. Hence the word चन (*cana*) means "not at all".
+
+*(A stray word, "ಪಂಡಿತರಾಜ", printed twice in the supplied text on this page, appears to be a stamp or marginal mark and is left out.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+*(The Saṃhitā of Ṛk 3 begins at the foot of p. 778 and continues on p. 779.)*
+
+> न क्षो॒णीभ्यां॑ परि॒भ्वे॑ त इंद्रि॒यं न स॑मु॒द्रॆः पर्व॑तैरिंद्र॒॑
+> ते॒ रथः॑ ।
+
+> *na kṣoṇībhyāṃ paribhve ta iṃdriyaṃ na samudrèḥ parvatairiṃdra*
+> *te rathaḥ |*
+
 ---
 
-**Progress note:** Done through printed p. 775 (PDF 775). Sukta 15 Rk 10 closed (bhashya tail, pratipadartha, bhavartha, English, special topics refer to 2-11-21); Sukta 16 begun, Rk 1 complete. Samhita of Rk 1 split by the page break; Pada has suStuti/susstuti difference noted
+**Progress note:** Done through printed p. 778 (PDF 778). Sukta 16 Rk 1 closed (printed English, special topics); Rk 2 complete (Pada rebuilt from html title residue); Rk 3 Samhita begun, split at p. 778/779
