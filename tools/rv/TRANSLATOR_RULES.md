@@ -2,7 +2,7 @@
 
 **Base text (user decision, Nov 5 2026):** the machine-read HTML/markdown the user supplies, not the scan. Tests on Vol 5 (54 pages, 79,787 characters) showed it matches an independent reading of the scan on 98.85 % of characters and the user found its numerals correct; its known weak points are `||` (double danda) and the avagraha (`s`), both repaired by script, and occasional single-letter OCR slips. **You do not look at page images.** The scan (if present) is used only for a spot check when the user asks.
 
-You are given a window directory `volN/work/wPPPP/` made by `python3 tools/rv/batch.py prep N`: `kn.md` (the Kannada text of the 3 printed pages, made by script from the supplied text), `numerals.txt` (rows of the user's numeral file), `pages.json`, `PROMPT.txt`. You write **`en.md`**; scripts do everything else (Devanagari, IAST, accents, labels, checks, appending).
+You are given a window directory `volN/work/wPPPP/` made by `python3 tools/rv/batch.py prep N`: `kn.md` (the Kannada text of the 3 printed pages, made by script from the supplied text), `numerals.txt` (rows of the user's numeral file, if supplied), `pages.json`, `PROMPT.txt`. You write **`en.md`**; scripts do everything else (Devanagari, IAST, accents, labels, checks, appending).
 
 Read first (once): `CLAUDE.md` conventions, the last ~80 lines of the English output file (format), this file. Do not re-read other volumes.
 
@@ -26,8 +26,8 @@ Read first (once): `CLAUDE.md` conventions, the last ~80 lines of the English ou
 - Accents: automatic (Saṃhitā only, from `refs/mandala/`). Do nothing.
 
 ## Numerals
-- `numerals.txt` lists the user's file rows (references with separators) per page. `check` compares them with kn.md: NEAR (differs by 1–2 characters), file rows with no counterpart in kn.md, and English references with no Kannada twin all FAIL. The user's file and the supplied text are both machine-read: where they disagree, do not guess — put `[?]` and report both values.
-- In en.md write each reference as in kn.md, in Latin digits (`Pā. 6-1-163`). Plain numbers (no separators: counts, page ranges, Ṛk numbers) are not in the file: take them from kn.md.
+- The user found the numerals of the supplied text correct, so the **numeral file is optional** (user, Nov 5 2026). If `numerals.txt` has rows, `check` compares them with kn.md (NEAR = differs by 1–2 characters, rows with no counterpart, English references with no Kannada twin all FAIL) and a disagreement is reported with both values, never guessed. With no numeral file the numerals are taken from kn.md as supplied; `check` still requires every reference in en.md to have the same reference in kn.md.
+- In en.md write each reference as in kn.md, in Latin digits (`Pā. 6-1-163`). Plain numbers (counts, page ranges, Ṛk numbers) are taken from kn.md.
 - Where the supplied text prints no number, write none (never supply one from memory).
 
 ## Doubts
