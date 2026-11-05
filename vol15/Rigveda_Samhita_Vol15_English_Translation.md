@@ -19575,6 +19575,100 @@ Then they all, addressing Agni, prayed: "O Agni, besides this Prajāpati we have
 
 "This Prajāpati is food. This food, which is Prajāpati, we shall eat through your mouth. For the eating of this food you are the mouth for all of us," they asked. Agni agreed and gave them his protection, and made Prajāpati established again. Thereby the gods again obtained refuge and support, and so Agni came to protect their existence. By taking for himself the food of all the gods and distributing it to them, he served them all. Therefore in the present Ṛk both meanings can be given to the word duvasyati.
 
+### Printed p. 625
+
+*[Running head, p. 625: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā (closing bracket missing).]*
+
+#### Ṛk 2
+
+*[Garbled label as supplied before the Saṃhitā: "। ಸಂಹಾಪಾಠ ।" (for Saṃhitā-pāṭha); the standard label was inserted and the Saṃhitā made a block. The verse number ॥೨॥ is printed after the Saṃhitā.]*
+
+**॥ संहितापाठः ॥**
+
+> अं॒तर्दू॒तो रोद॑सी द॒स्म ई॑यते॒ होता॒ निष॑त्तो॒ मनु॑षः॒॑
+> पु॒रोहि॑तः ।
+> क्षयं॑ बृ॒हंतं॒ परि॑ भूषति॒ द्युभि॑र्दे॒वेभि॑र॒ग्नि रि॑षि॒तो धि॒याव॑सुः ॥२॥
+
+**॥ पदपाठः ॥**
+
+> अंतः । दूतः । रोदसी इति । दस्मः । ईयते । होता । निसत्तः । मनुष्यः । पुरःहितः ।
+> क्षयं । बृहंतं । परि । भूषति । द्युभिः । देवेभिः । अग्निः । इषितः । धियावसुः ॥
+
+*(The Pada is printed ನಿಸತ್ತಃ and ಮನುಷ್ಯಃ where the Saṃhitā has ನಿಷತ್ತೋ and ಮನುಷಃ, as supplied.)*
+
+*[Garbled label as supplied before the bhāṣya: "I, ಸಾಯಣಭಾಷ್ಯಂ I", kept as a note in kn.md; the bhāṣya was made a separate block.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> दस्मो दर्शनीयो होताग्निर्दूतो देवानां दूतः सन् रोदस्योर्द्र्यावापृथिव्योरंतर्मध्य ईयते । गच्छति । मनुषो मनोर्जातस्य मनुष्यस्य
+> पुरोहित आहवनीयादिरूपेण पुरतः स्थापितोनिषत्तो निषण्णः सन् अग्निर्द्युभिर्दिप्तिभिर्बृहंतं महांतं क्षयं यज्ञगृहं परिभूषति । अलंकुरते । देवेभिर्देवैरिषितः प्रेषितो धियावसुः प्रज्ञया व्याप्तः । एते द्वे अग्निविशेषेणे ॥
+
+*(Gist: handsome Agni, the hotṛ, as messenger of the gods moves between heaven and earth; placed before man, he adorns the great sacrificial house with his rays, sent by the gods and filled with wisdom.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Dasmaḥ: he who is of beautiful form. Hotā: Agni, who invites (the gods to the sacrifice). Dūtaḥ: being the messenger of the gods. Rodasī: of heaven and earth. Antaḥ: in the middle. Īyate: moves about. Devebhiḥ: by the gods. Iṣitaḥ: sent. Dhiyāvasuḥ: filled with wisdom. Agniḥ: Agni. Manuṣaḥ: of man. Purohitaḥ: placed in front (in the form of the Āhavanīya and so on). Niṣattaḥ: seated. Dyubhiḥ: by his rays. Bṛhantaṃ: great. Kṣayaṃ: the sacrificial house. Paribhūṣati: adorns.
+
+*[Garbled label as supplied: "। ಆವಾರ್ಥ ।" (for Bhāvārtha), kept as a note in kn.md.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, who is of beautiful form and invites the gods to the sacrifice, being the messenger of the gods, moves in the middle of heaven and earth. Agni, sent by the gods and filled with wisdom,
+
+*[Lone numeral "40" at the foot of p. 625 in the supplied text, kept as a note.]*
+
+### Printed p. 626
+
+*[Running head, p. 626: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+placed in front of man in the form of the Āhavanīya and so on, adorns the great sacrificial house with his rays.
+
+**Printed English translation**
+
+The graceful messenger (of the gods) goes between heaven and earth : sitting (on the altar), and placed before men, he ornaments the spacious chambers (of sacrifice) with his rays, animated by the gods, and affluent in wisdom.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Dasma—two kinds of meaning follow from this word: one, destroyer of enemies; the other, of beautiful form. If it is derived from the root दसि दर्शनदंशनयोः (*dasi darśanadaṃśanayoḥ*) it means "worth seeing", of lovely, attractive form; if from the root दसु उपक्षये (*dasu upakṣaye*) it means destroyer (of enemies). Since Agni has both these powers, either meaning may be given.
+
+Hotā—Agni is designated by the word hotṛ. Since there is non-difference between Agni and the sacrifice, and an identity between the sacrifice and the hotṛ, it is natural that Agni is signified by the word hotṛ.
+
+‘ यज्ञो वै होता स एवास्यामेकद्यज्ञं प्रतिदधाति । (*yajño vai hotā sa evāsyāmekadyajñaṃ pratidadhāti |*)
+(printed ಶ. ಬ್ರಾ. 14-1-3-7)
+
+Because the hotṛ is the direct cause of re-establishing the sacrifice, non-difference between the hotṛ and the sacrifice can be stated; thus the importance of the hotṛ in the sacrifice is shown. Many Śruti sentences stating the identity of Agni and the sacrifice have been cited before, and it has been told that Agni is the one signified by the word yajña. But as to when and how Agni was appointed to the place of hotṛ, there is a historical circumstance.
+
+⟦ಚತುರ್ಧಾ ವಿಹಿತೋ ಹ ವಾ ಅಗ್ರೇಽಗ್ನಿರಾಸ । ಸ ಯಮಗ್ರೇಽಗ್ನಿಗ್ಂ ಹೋತ್ರಾಯ
+ಪ್ರಾವೃಣತ ಸ ಪ್ರಾಧನ್ವದ್ಯಂ ದ್ವಿತೀಯಂ ಪ್ರಾವೃಣತ ಸ ಪ್ರೈವಾಧನ್ವದ್ಯಂ ತೃತೀಯಂ
+ಪ್ರಾವೃಣತ ಸ ಪ್ರೈವಾಧನ್ವದಥ ಯೋಽಯಮೇತರ್ಹ್ಯಗ್ನಿಃ ಸ ಭೀಷಾ ನಿಲಿಲ್ಯೇ ಸೋpಪಃ
+ಪ್ರವಿವೇಶ ತಂ ದೇವಾ ಅನುವಿದ್ಯ ಸಹಸೈವಾದ್ಭ್ಯ ಆನಿನ್ಯುಃ⟧ ........ ॥ (the printed passage ends with a row of dots and ॥)
+(printed ಶ. ಬ್ರಾ. 1-2-3-1)
+
+### Printed p. 627
+
+*[Running head, p. 627: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+In the beginning Agni was in four divisions, in four forms. The gods prayed the first part of Agni to become the hotṛ in their sacrifice. But at once it met death. In the same way the second and third forms too met death. Then the fourth part of Agni, which is now famous as Agni, hid in the waters through fear. But the gods went and brought that form of Agni out.
+
+“यत्र वै देवा अग्रेग्निग्ं होत्राय प्रावृणत तद्धोवाच न वा अहमिदमुत्सहे यद्वो होता स्यां यद्वो हव्यं वहेयं (*yatra vai devā agregnigṃ hotrāya prāvṛṇata taddhovāca na vā ahamidamutsahe yadvo hotā syāṃ yadvo havyaṃ vaheyaṃ*) ................”
+(printed ಶ. ಬ್ರಾ. 1-3-3-13; the printed passage ends with a row of dots)
+
+Then, when the gods approached this fourth part of Agni and prayed that he be their hotṛ, he said, "I am not able to be your hotṛ and carry your oblation. If I am to do that work, it will do if you bring back to life my three brothers." Then the gods accomplished that work and made Agni their hotṛ. The same is said in the Ṛgveda Saṃhitā too:
+
+⟦ವಿಶ್ವೇ ಹಿ ತ್ವಾ ಸಜೋಷಸೋ ದೇವಾಸೋ ದೂತಮಕ್ರತ ।
+ಶ್ರುಷ್ಟೀ ದೇವ ಪ್ರಥಮೋ ಯಜ್ಞಿಯೋ ಭುವಃ ।⟧
+(printed ಮಿ. ಸಂ. 8-23-18, apparently for Ṛ. Saṃ. 8-23-18)
+
+All the gods together prayed, "O Agni, kindly carry our oblation." That is why Agni also became the messenger of the gods: so it is described. Therefore in the present mantra too there is the epithet dūtaḥ. In Agni's being the messenger of the gods too there is a tradition.
+
+“ ⟦ಅಗ್ನಿಂ ದೂತಂ ವೃಣೀಮಹ ಇತಿ ದೇವಾಶ್ಚ ನಾ ಅಸುರಾಶ್ಚೋಭಯೇ ಪ್ರಾಜಾಪತ್ಯಾಃ
+ಪಸ್ಪೃಧಿರೇ ತಾನ್ಸರ್ಧಮಾನಾನ್ಗಾಯತ್ರ್ಯಂತರಾ ತಸ್ಥೌ ಯಾ ವೈ ಸಾ ಗಾಯತ್ರ್ಯಾಸೀದಿಯಂ ವೈ ಸಾ ಪೃಥಿವೀಯಗ್ಂ ಹೈವ ತದಂತರಾ ತಸ್ಥೌ ತ ಉಭಯ ಏವ ವಿದಾಂ
+ಚಕ್ರುರ್ಯತರಾನ್ವೈ ನ ಇಯಮುಪಾವರ್ತ್ಯತಿ ತೇ ಭವಿಷ್ಯಂತಿ ಪರೇತರೇ ಭವಿಷ್ಯಂತೀತಿ
+ತಾಮುಭಯ ಏವೋಪಮಂತ್ರಯಾಂ ಚಕ್ರಿರೇಽಗ್ನಿರೇವ ದೇವಾನಾಂ ದೂತ ಆಸ ಸಹರಕ್ಷಾ
+ಇತ್ಯಸುರರಕ್ಷಸಮಸುರಾಣಾಗ್ಂಸಾಗ್ನಿಮೇವಾನುಪ್ರೇಯಾಯ ತಸ್ಮಾದನ್ವಾಹಾಗ್ನಿಂ ದೂತಂ
+ವೃಣೀಮಹ ಇತಿ ಸ ಹಿ ದೇವಾನಾಂ ದೂತ ಆಸೀದ್ದೋತಾರಂ ವಿಶ್ವವೇದಸಮಿತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ. 1-4-1-34)
+
 ---
 
-**Progress note:** Done through printed p. 624 (PDF 624). Sūkta 3 Ṛk 1 Special Topics: gātave, duvasyati, Prajāpati legend from Śatapatha Brāhmaṇa 7-1-2
+**Progress note:** Done through printed p. 627 (PDF 627). Sūkta 3 Ṛk 1 Special Topics end; Ṛk 2 complete up to Special Topics on hotṛ and dūta (Śatapatha Brāhmaṇa legends); accent DIFF logged
