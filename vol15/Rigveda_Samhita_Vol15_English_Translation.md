@@ -9961,6 +9961,126 @@ Lordship exists in all the deities; therefore Agni also gives strength and wealt
 
 (Ma. Saṃ. 2-7-6)
 
+### Printed p. 317
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 8, Varga 1, p. 317.*
+
+> त्वं ह यद्यविष्ठ्य सहसःसूनवाहुत ।
+> यता वा यज्ञियो भुवः ॥
+
+> *tvaṃ ha yadyaviṣṭhya sahasaḥsūnavāhuta |*
+> *yatā vā yajñiyo bhuvaḥ ‖*
+
+(Ma. Saṃ. 8-75-3)
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो ।
+> अस्मे धेहि जातवेदो महि श्रवः ॥
+
+> *agne vājasya gomata īśānaḥ sahaso yaho |*
+> *asme dhehi jātavedo mahi śravaḥ ‖*
+
+(Ṛ. Saṃ. 1-79-4)
+
+In these Ṛks the words सहसस्पुत्र (*sahasasputra*), सहसः सूनु (*sahasaḥ sūnu*) and सहसो यहु (*sahaso yahu*) respectively are used when praising Agni. Therefore, although other deities too are givers of strength, it is Agni in particular who is denoted by the word द्रविणोदाः (*draviṇodāḥ*).
+
+Here let us take up the statements of the Bṛhaddevatā and see to which deity this epithet chiefly belongs, and what qualities of that deity are learned from it. The Bṛhaddevatā first explains the derivation of the word अग्नि (*agni*) and then considers why the epithet द्रविणोदाः (*draviṇodāḥ*) is applied to Agni.
+
+> जातो यदग्रे भूतानां अग्रणीरध्वरे च यत् ।
+> नाम्ना संनयते वांगं स्तुतोग्निरिति सूरिभिः ॥
+
+> *jāto yadagre bhūtānāṃ agraṇīradhvare ca yat |*
+> *nāmnā saṃnayate vāṃgaṃ stutogniriti sūribhiḥ ‖*
+
+(Bṛ. De. 2-24)
+
+Because he is born first of all beings, because he is the leader (the one who conducts) in sacrifices and rites, and because whatever thing he enters he makes it merge into himself, he is praised by the sages as Agni. This derivation agrees with the derivations stated in the Nirukta: अग्रणीर्भवति अग्रं यज्ञेषु प्रणीयते, अंगं नयति सन्नममानः (*agraṇīrbhavati agraṃ yajñeṣu praṇīyate, aṃgaṃ nayati sannamamānaḥ*) (Ni. 7-14). After explaining the word Agni, it states the derivation of the word द्रविणोदाः (*draviṇodāḥ*):
+
+> द्रविणं धनं बलं वापि प्रायच्छद्येन कर्मणा ।
+> तत्कर्म दृष्ट्वा कुत्सस्तु प्राहैनं द्रविणोदसं ॥
+
+> *draviṇaṃ dhanaṃ balaṃ vāpi prāyacchadyena karmaṇā |*
+> *tatkarma dṛṣṭvā kutsastu prāhainaṃ draviṇodasaṃ ‖*
+
+(Bṛ. De. 2-25)
+
+The sage Kutsa, having observed the deeds of Agni, who gives wealth and strength generously, praised Agni as द्रविणोदाः (*draviṇodāḥ*), the giver of wealth or of strength.
+
+> द्रविणोदा द्रविणसस्तुरस्य द्रविणोदाः सनरस्य प्र यंसत् ।
+> द्रविणोदा वीरवतीमिषं नो द्रविणोदा रासशे दीर्घमायुः ॥
+
+> *draviṇodā draviṇasasturasya draviṇodāḥ sanarasya pra yaṃsat |*
+> *draviṇodā vīravatīmiṣaṃ no draviṇodā rāsaśe dīrghamāyuḥ ‖*
+
+(Ma. Saṃ. 1-96-8)
+
+### Printed p. 318
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 37, p. 318.*
+
+Having thus pointed to Kutsa's praise of Agni in this Ṛk, the Bṛhaddevatā again maintains that this indication belongs to the deity Agni and is not meant for other deities:
+
+> अयं हि द्रविणोदोऽग्निरयं दाता बलस्य हि ।
+> जायते च बलेनायं मध्यकृत्यृषिभिरध्वरे ॥
+> द्रविणोदोऽग्निरेवायं द्रविणोदास्तदोच्यते ।
+> आग्नेयेष्टेव दृश्यंते प्रवादा द्रविणोदसः ॥
+
+> *ayaṃ hi draviṇodo 'gnirayaṃ dātā balasya hi |*
+> *jāyate ca balenāyaṃ madhyakṛtyṛṣibhiradhvare ‖*
+> *draviṇodo 'gnirevāyaṃ draviṇodāstadocyate |*
+> *āgneyeṣṭeva dṛśyaṃte pravādā draviṇodasaḥ ‖*
+
+(Bṛ. De. 3-61; 3-65)
+
+Because Agni is the giver of wealth, the giver of strength, and born of strength, the praise द्रविणोदाः (*draviṇodāḥ*) is fitting for him. Hence the authors of the Bṛhaddevatā maintain that this epithet belongs to the deity Agni.
+
+अंधसः (*aṃdhasaḥ*): of the Soma, which is the food of the gods. The word अंधः (*aṃdhaḥ*) is read among the names of food (Ni. 3-9). Soma is said to be the food of the gods; therefore the word अंधसः (*aṃdhasaḥ*) means the Soma juice in the form of food. Besides, the word अंधः (*aṃdhaḥ*) in the Ṛgveda generally denotes the Soma juice.
+
+होत्रात् अनु जोषं मंदस्व (*hotrāt anu joṣaṃ maṃdasva*): here the word होत्रात् (*hotrāt*) means "from the sacrifice performed by the Hotṛ", that is, offered in the sacrifice performed by the priest called Hotṛ. The sense is that the deity (Draviṇodas) drinks the Soma juice which the Hotṛ offers into the fire as an oblation addressed to him, and is satisfied.
+
+अध्वर्यवः (*adhvaryavaḥ*): O Adhvaryus, the priests called Adhvaryu. In a sacrifice the parts of the Hotṛ and the Adhvaryu are the chief ones. The Hotṛ recites the mantras suited to each moment in order to invoke the gods; the Adhvaryu performs the oblations and other rites in accordance with those mantras. Hence the Śruti statement अध्वर्युर्वा ऋत्विजां प्रथमो युज्यते (*adhvaryurvā ṛtvijāṃ prathamo yujyate*): among the priests the Adhvaryu is the chief.
+
+The word अध्वर (*adhvara*) means a sacrifice that produces an imperishable fruit. In the Nirukta: अध्वर इति यॆज्ञनाम ध्वरतिर्हिंसा कर्म तत्प्रतिषेधः (*adhvara iti yèjñanāma dhvaratirhiṃsā karma tatpratiṣedhaḥ*) (Ni. 1-8): the word अध्वर (*adhvara*) conveys the meaning "sacrifice"; the roots ध्वरति (*dhvarati*) and धूर्वति (*dhūrvati*) convey the meaning of doing harm; therefore Yāska has given the word अध्वर (*adhvara*), formed from those roots, the meaning "a rite without harm". Further, the word अध्वर (*adhvara*) is stated both among the sixteen names of the atmosphere (Ni. 2-10) and among the fifteen names of sacrifice (Ni. 3-19). Therefore, for the word अध्वर्यु (*adhvaryu*) —
+
+### Printed p. 319
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 8, Varga 1, p. 319.*
+
+> अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं - कामयत इति वा ।
+> अपि वाधीयाने युरुपबंधः अध्वर इति यज्ञनाम । ध्वरतिर्हिंसाकर्म
+> तत्प्रतिषेधः ॥
+
+> *adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ - kāmayata iti vā |*
+> *api vādhīyāne yurupabaṃdhaḥ adhvara iti yajñanāma | dhvaratirhiṃsākarma*
+> *tatpratiṣedhaḥ ‖*
+
+(Ni. 1-8)
+
+the derivation is thus given. That is, in the word अध्वरयु (*adhvarayu*) the vowel a in the letter ra is dropped and it becomes अध्वर्यु (*adhvaryu*). The one who joins (brings together) the sacrificial work: that is, he has the rites that should take place at each time performed by the respective priests and so carries the sacrifice through. Or he looks after the sacrifice so that it is completed with all its parts. Or the meaning is given as "one who desires the sacrifice".
+
+अध्वर्यवः सः पूर्णां असिचं वष्टि (*adhvaryavaḥ saḥ pūrṇāṃ asicaṃ vaṣṭi*): O Adhvaryus, that god called Draviṇodas desires the oblation of full Soma juice. Therefore offer the Soma oblation into the fire for Draviṇodas: thus the sacrificer addresses the priests called Adhvaryus.
+
+तस्मै एतं भरत तद्वशः ददिः (*tasmai etaṃ bharata tadvaśaḥ dadiḥ*): O Adhvaryus, bear (that is, offer) this oblation of Soma juice to that Draviṇodas. Pleased with that Soma, Draviṇodas will give you your desired ends.
+
+द्रविणोदः होत्रात् ऋतुभिः सोमं पिब (*draviṇodaḥ hotrāt ṛtubhiḥ somaṃ piba*): in this sentence the sacrificer addresses Draviṇodas himself and prays: O Draviṇodas, in this sacrifice (or oblation) performed by the priest called Hotṛ, drink the Soma juice together with the Ṛtu deities who preside over the months of Iṣa (Āśvayuja). In the same way, in the next Ṛk the prayer is made in the sacrifice of the priest called Potṛ, in the Ṛk after that in the sacrifice of the priest called Neṣṭṛ, and in the Ṛk after that it is prayed that the Soma in the fourth vessel be drunk together with the Ṛtu deities.
+
+*(The supplied text has here a software-generated line, "This image contains no text. It is a drawing of an object with wavy lines on both sides and horizontal stripes across it", which stands for a printed ornament; removed from kn.md and noted here.)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यमु॒ पूर्व॒महु॑वे॒ तमि॒दं हु॑वे॒ सेदु॒ हव्यो॑ द॒दिर्यो नाम॒॑
+> पत्यते ।
+> अ॒ध्व॒र्युभिः॒ प्रस्थि॑तं सो॒म्यं मधु॑ प्रो॒त्रात्सोमं॑ द्रविणोदः॒॒॑॑
+> पिब ऋतुभिः ॥ २ ॥
+
+> *yamu pūrvamahuve tamidaṃ huve sedu havyo dadiryo nāma*
+> *patyate |*
+> *adhvaryubhiḥ prasthitaṃ somyaṃ madhu protrātsomaṃ draviṇodaḥ*
+> *piba ṛtubhiḥ ‖ 2 ‖*
+
+*(Note: the supplied Saṃhitā text of this Ṛk reads प्रोत्रात्सोमं (*protrātsomaṃ*) where Ṛk 1 and the bhāṣya have होत्रात् (*hotrāt*); also पत्यते (*patyate*), सोम्यं (*somyaṃ*); kept as supplied, not corrected.)*
+
 ---
 
-**Progress note:** Done through printed p. 316 (PDF 316). pp. 314-316: Sūkta 37 Ṛk 1 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics on Draviṇodas (Nirukta 8-1 etc.); Ṛk 2 next; open flags: Nirukta quotations made > blocks by hand in kn.md; ಅಶ್ಮನೋ/ಅತ್ಮನೋ differ, kept as supplied; Pada ತತ್ತ್ವವಶಃ, ದ್ರವಿಣಃದಃ and 'ದ್ರವಿ/ಹೋದಸಾಃ' as supplied
+**Progress note:** Done through printed p. 319 (PDF 319). pp. 317-319: Sūkta 37 Ṛk 1 Special Topics end (Bṛhaddevatā on Draviṇodas, adhvaryu, Nirukta 1-8); Ṛk 2 Saṃhitā only, Pada next; flags: Nirukta/Bṛ. De. quotations made > blocks by hand, software 'This image contains' line removed, Saṃhitā ಪ್ರೋತ್ರಾತ್ as supplied
