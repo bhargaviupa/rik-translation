@@ -29690,4 +29690,4 @@ gained in that(contest) the gold(of the Asuras); in the exhilaration of the Soma
 
 ---
 
-**Progress note:** Done through printed p. 772 (PDF 772). Done through printed p. 772 (PDF 772). Sukta 15 Rk 8 closed; Rk 9 complete; Rk 10 begun, bhashya breaks off at foot of p. 772. Rk 10 Samhita text garbled in supplied text, 2 places [?]
+**Progress note:** Done through printed p. 772 (PDF 772). Sukta 15 Rk 8 closed; Rk 9 complete; Rk 10 begun, bhashya breaks off at foot of p. 772. Rk 10 Samhita text garbled in supplied text, 2 places [?]
