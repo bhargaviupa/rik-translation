@@ -4972,6 +4972,110 @@ The word वसु (*vasu*) is read by Yāska in many senses; here the sense "we
 > *taṃ vaḥ śardhaṃ mārutaṃ sumnayurgiropa bruve namasā daivyaṃ janaṃ |*
 > *yathā rayiṃ sarvavīraṃ naśāmahā apatyasācaṃ śrutyaṃ divedive ‖*
 
+### Printed p. 159
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 13, Ṛgveda-saṃhitā, p. 159.*
+
+**॥ पदपाठः ॥**
+
+> तं । वः । शर्धं । मारुतं । सुम्नयुः । गिरा । उप । ब्रुवे । नमसा । दैव्यं ।
+> जनं ।
+> यथा । रयिं । सर्ववीरं । नशामहै । अपत्यसाचं । श्रुत्यं । दिवेऽदिवे ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतो वो युष्माकं शर्धं बलं मारुतं मरुत्समूहरूपं दैव्यं
+> देवेनेंद्रेण संबद्धं प्रादुर्भूतं एवंगुणविशिष्टं बलं नमसा नमस्कारेण
+> हविषा वा गिरा स्तोत्रेणोपब्रुवे । सौमि । यथा येन प्रकारेण वयं सर्व-
+> वीरं सर्वैर्विरैर्विशेषेण शत्रुणां प्रेरकैर्भटैरुपेतमपत्यसाचमपत्यैरपतन-
+> हेतुभूतैः पुत्रादिभिरुपेतं श्रुत्यं श्रवणीयं प्रशस्यभूतं रयिं दिवेदिवे
+> प्रतिदिवसं नशामहै । व्याप्नवाम ॥ नशतिर्व्याप्तिकर्मा । लेट्यडागमः । वैतोऽन्य-
+> त्रेत्यैकारः ॥
+
+> *he maruto vo yuṣmākaṃ śardhaṃ balaṃ mārutaṃ marutsamūharūpaṃ daivyaṃ*
+> *deveneṃdreṇa saṃbaddhaṃ prādurbhūtaṃ evaṃguṇaviśiṣṭaṃ balaṃ namasā namaskāreṇa*
+> *haviṣā vā girā stotreṇopabruve | saumi | yathā yena prakāreṇa vayaṃ sarva-*
+> *vīraṃ sarvairvirairviśeṣeṇa śatruṇāṃ prerakairbhaṭairupetamapatyasācamapatyairapatana-*
+> *hetubhūtaiḥ putrādibhirupetaṃ śrutyaṃ śravaṇīyaṃ praśasyabhūtaṃ rayiṃ divedive*
+> *pratidivasaṃ naśāmahai | vyāpnavāma ‖ naśatirvyāptikarmā | leṭyaḍāgamaḥ | vaito 'nya-*
+> *tretyaikāraḥ ‖*
+
+Gist: O Maruts, I praise with homage, offering and hymn your divine, manifest, Maruts' strength, so that we may daily obtain wealth with brave followers and offspring.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Maruts—O Marut deities; yathā—in which manner; sarvavīram—accompanied by all brave warriors; apatyasācam—accompanied by sons and the like; śrutyam—renowned; rayim—wealth; divedive [as supplied; the Pratipadārtha has दिवेदिने (*divedine*)]—every day; naśāmahai—we fully obtain, such (wealth); namasā—with homage and with offering; girā—by the voice in the form of praise; vaḥ—of you; mārutam—consisting of the Marut host; śardham—having a collective power; daivyam—belonging to the gods (or connected with Indra); janam—manifested, such a power; bruve—I praise and worship.
+
+**भावार्थ (Bhāvārtha)**
+
+O Marut deities, by what manner of worship we may daily fully obtain wealth that is accompanied by all brave warriors, accompanied by sons and the like, and renowned, by that I praise and worship, with a hymn of praise joined with homage and offerings, your strength, which consists of the host of the Maruts, has a collective power, is divine and connected with the god Indra, and has manifested itself so as to be visible to all.
+
+### Printed p. 160
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 31, p. 160 [as printed: मं. २. आ. ३. (*maṃ. 2. ā. 3.*)].*
+
+**Printed English translation**
+
+Desirous of felicity, Maruts, I glorify with praise and homage your divine, manifest, and congregated strength ; that we may thereby daily enjoy distinguished affluence, accompanied by valiant dependants and posterity.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the Maruts are praised. The sacrificer, addressing the Maruts, describes their strength: मारुतं (*mārutaṃ*) (mārutam)—since the Maruts are seven, it is made up of their host; दैव्यं (*daivyaṃ*) (daivyam)—connected with the radiant Indra; जनं (*janaṃ*) (janam)—manifested from time to time. Having so described it, he says that the sacrificers praise this strength नमसा गिरा (*namasā girā*) (namasā girā)—with homage, with offerings of oblations and with the recitation of hymns. The wish is expressed that the Maruts, hearing these praises, favour us so that we sacrificers may obtain every day wealth that is सर्ववीरं (*sarvavīraṃ*) (sarvavīram)—possessed of abundant valour, fit to destroy enemies; अपत्यसाचं (*apatyasācaṃ*) (apatyasācam)—accompanied by sons and others who do not bring misfortune; and श्रुत्यं (*śrutyaṃ*) (śrutyam)—worthy of praise.
+
+शर्धं (*śardhaṃ*)—बलं (*balaṃ*) (śardham—balam). The word शर्धः (*śardhaḥ*) is stated among the names of strength (Ni. 3-9 as printed).
+
+Since the word नमस्यति (*namasyati*) is read by Yāska (Ni. 3-13) among the words of service, the word नमसा (*namasā*) is explained in two ways: as homage, or as an offering of oblation.
+
+रयिः (*rayiḥ*)—धनं (*dhanaṃ*) (rayiḥ—dhanam). This word is stated by Yāska among the names of water (Ni. 2-24) and among the names of wealth (Ni. 2-9), and is explained as रयिरिति धननाम रातेर्दानकर्मणः (*rayiriti dhananāma rāterdānakarmaṇaḥ*).
+
+## Sūkta 31 (Maṇḍala 2)
+
+*The thirty-first sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> आस्माकमिति सप्तर्चं नवमं सूक्तं गृत्समदस्यार्षं वैश्वदेवं । अंत्या
+> त्रिष्टुप् । शिष्टा जगत्यः । तथा चानुक्रांतं । आस्माकं सप्त वैश्वदेवं त्रिष्टुबंतमिति ॥
+> विनियोगो लैंगिकः ॥
+
+*Gist:* *āsmākam* is the ninth sūkta of Anuvāka 3, of seven ṛks, of the Gṛtsamada seer, for the Viśve devāḥ; the last ṛk is *triṣṭubh*, the rest *jagatī*; the Anukramaṇī is quoted; the application is by indication (*laiṅgika*).
+
+### Printed p. 161
+
+*Running head: Aṣṭaka 2, Adhyāya 6 [as printed], Varga 14, Ṛgveda-saṃhitā, p. 161.*
+
+**Anuvāda (Kannada).** The sūkta अस्माकं (*asmākaṃ*) (*asmākam*) is the ninth sūkta in the third anuvāka. It has seven ṛks. The seer of this sūkta is Gṛtsamada; the deities are the Viśve devāḥ; the last ṛk of this sūkta is of *triṣṭubh* metre; the remaining ṛks are of *jagatī* metre. In the Anukramaṇikā it is said अस्माकं सप्त वैश्वदेवं त्रिष्टुबंतं (*asmākaṃ sapta vaiśvadevaṃ triṣṭubaṃtaṃ*). The application is *laiṅgika*.
+
+**Sūkta—31**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 31 ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 14 ‖
+Number of ṛks in the Sūkta: 7 ·
+Ṛṣi: Gṛtsamada · Devatā: the Viśve devāḥ · Chandas: 1-6 *jagatī*; 7 *triṣṭubh*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्माकं॑ मित्रावरुणावतं॒ रथ॑मादि॒त्यै रु॒द्रैर्वसु॑भिः सचा॒भुवा॑ ।
+> प्र यद्वयो॒ न पप्त॒न्वस्म॑न॒स्परि॑ श्रव॒स्यवो॒ हृषी॑वंतो वन॒र्षदः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्माकं । मित्रावरुणा । अवतं । रथं । आदित्यैः । रुद्रैः । वसुभिः । सचाभुवा ।
+> प्र । यत् । वयः । न । पप्तन । वस्मनः । परि । श्रवस्यवः । हृषीवंतः । वनसदः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> मित्रावरुणा हे मित्रावरुणौ आदित्यैर्धात्रर्यमादिभिर्द्वादशभिः रुद्रैरे-
+> कादशसंख्याकैः वसुभिर्धरो ध्रुव इत्यादिभिरष्टसंख्याकैः एवं त्रिभिर्देवगणैः
+> सचाभुवा सह भवंतौ सह वर्तमानौ युवामस्माकं रथमन्नलाभाय प्रवृत्तम-
+> वतं । यद्यदास्मदीया रथा वस्पनस्परि ॥ वसंत्यस्मिन्निति वस्य निवासस्थानं । औणादिको
+> मनिन् ॥ तस्मात्स्थानात्परि उपरि देशांतरे ॥ पंचम्याः परावध्यर्थ इति सत्यं ।
+> अध्यर्थ उपर्यर्थ इति वृत्तिः ॥ वयो न दक्षिण इव प्रपप्तन् । प्रपतंति । प्रकर्षेण
+
+*(The bhāṣya continues on p. 162.)*
+
 ---
 
-**Progress note:** Done through printed p. 158 (PDF 158). Sūkta 30 Ṛk 9 completed, Ṛk 10 complete, Ṛk 11 Saṃhitā only (Pada, bhāṣya follow on p. 159). Flags: kn.md hand-fixed (Ṛk 11 Saṃhitā put in a > block, stray '೧ ಸಂಹಿತಾಪಾಠ ೧' line replaced by label); Special Topics 'ಕೂರ' for ಶೂರ, 'ಜಿಘತ್ತುಃ' vs 'ಜಿಘತ್ಸುಃ', 'ಇಷ್ಟಾದಿಭಿಃ' vs bhāṣya 'इष्वादिभिः', 'ದೋಗ್ಭೇ' as supplied; accent DIFF 1 in report
+**Progress note:** Done through printed p. 161 (PDF 161). Sūkta 30 Ṛk 11 completed (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Sūkta 31 begun, Ṛk 1 Saṃhitā, Pada and bhāṣya start (bhāṣya continues on p. 162). Flags: kn.md hand-fixed (bhāṣya label split out of Pada block, divider line removed, Sūkta 31 intro put in a block with label, stray '11' removed); Pratipadārtha 'ದಿವೇದಿನೇ' vs Saṃhitā 'ದಿವೇದಿವೇ' as supplied; Anuvāda gives Adhyāya 6 in running head p.161 as printed
