@@ -21394,6 +21394,85 @@ Although in many matters the authors of the Bṛhaddevatā followed the sentence
 
 Manasā: with the (meditative) mind. Vṛṇānāḥ: those who are prayed to. Ṛtena: with water. Viśvaṃ: the whole world. Invantaḥ: the gods, who fill and gratify. Sapta hotrāṇi: to the works of seven vaṣaṭkartṛs. Prati yan: come facing. Nṛpeśasaḥ: those of human form. Vidatheṣu: in the sacrifices. Jātāḥ: those who are born. Pūrvīḥ: the deities presiding over the doors of the sacrifice, who are of bodily form. Imaṃ yajñaṃ abhi: towards this our sacrifice. Pra vi carantu: let them move about.
 
+### Printed p. 689
+
+*[Running head, p. 689: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+**भावार्थ (Bhāvārtha)**
+
+The gods who are prayed to with the meditating mind and who fill and gratify the whole world with water come facing the vaṣaṭkartṛs. The door-deities of the sacrifice, who have human form, are born in sacrifices and are of bodily form, are to come towards our sacrifice.
+
+**Printed English translation**
+
+The gods who gratify the universe with rain are present at the seven offerings (of the minstering priests), when solicited with (sincerity cf ) mind : may the many deities, who are engendered in sensible shapes at sacrifices come to this our rite.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the door-deities of the sacrificial hall, called devīr dvāraḥ, are praised. Since the sacrificial hall has doors in all four directions, they are addressed in the plural.
+
+मनसा वृणानाः—मनसा ध्यानेन वा प्रार्थ्यमानाः । (*manasā vṛṇānāḥ—manasā dhyānena vā prārthyamānāḥ |*): with a mind engaged in meditation, that is, those who are prayed to while one meditates on those very gods in the mind.
+
+ऋतेन विश्वं इन्वंतः—वृष्ट्युदकेन विश्वं प्रीणयंतः । (*ṛtena viśvaṃ invaṃtaḥ—vṛṣṭyudakena viśvaṃ prīṇayaṃtaḥ |*): those who, having caused rain, gladden the entire world by it; the word ṛta is read among the hundred and one names of water (Ni. 2-24).
+
+In Ṛ. Saṃ. 1-188-5, where the door-deities of the sacrificial house (duraḥ) are prayed to, there is another special point: the names of the four doors, in the four directions of the sacrificial house, are indicated there. In the other Āprī sūktas such names do not occur. Still, it is also reasonable to supply an etymological sense for words such as virāṭ and state them as epithets of the word duraḥ. The bhāṣyakāra has made both kinds of attempts.
+
+दुरः—द्वारः (*duraḥ—dvāraḥ*): the door-deities of the sacrificial house. On who these are, Yāska says
+
+⟦ದ್ವಾರಃ । ದ್ವಾರೋ ಜವತೇರ್ವಾ ದ್ರವತೇರ್ವಾ ವಾರಯತೇರ್ವಾ । ಗೃಹದ್ವಾರ ಇತಿ ಕಾತ್ಥಕ್ಯಃ।
+ಅಗ್ನಿರಿತಿ ಶಾಕಪೂಣಿಃ ॥⟧
+(printed सि (*si*). 8-10)
+
+meaning that a door is so called because it is for entering, for going inside, or for stopping one from going inside. The door is the house-door (the doorway), according to Kātthakya; Agni, according to Śākapūṇi. It is also said that the house of offering, where oblations are made, is of the form of Agni, and therefore its doors too are special forms of Agni (अग्नि विशेषमूर्तयः (*agni viśeṣamūrtayaḥ*)). The doors of the chamber in
+which the oblation is offered are said to be personifications of Agni.
+
+### Printed p. 690
+
+*[Running head, p. 690: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+*[Stray line as supplied at the foot of p. 689: "44", kept as a note in kn.md.]*
+
+Sāyaṇa has explained them as the door-deities of the sacrificial house. There is difference of opinion whether these doors are the doors of the sacrificial house or this is merely a figurative usage. If the word here does not mean the house-doors, then even in respect of the deities of the Āprī sūktas, meanings differing from the points stated now would have to be imagined. From the ritual point of view, only two things, barhis and svāhākṛti, are without ascription of divinity and merely earthly, yet, being connected with the sacrifice, are described with qualities of an extra-worldly purity. In "tisro devīḥ", because Sarasvatī has a purely divine element and the other two rivers are added together with that river, all are called deities together. Likewise in "daivau hotārau" the earthly hotṛ too is meant as a deity, being together with Agni, who is of divine nature. But in "devīḥ dvāraḥ" there is no room for this. If these doors are the doors of the sacrificial house, the question arises why they should have a special place that barhis and svāhākṛti do not have. If only certain implements that are parts of the sacrifice must be regarded from the divine point of view, then the name of the most important thing of all, the sacrificial altar, is absent. Not only this: another point to be noticed here is that the plural "doors" is used.
+
+⟦ಸಪ್ತ ಹೋತ್ರಾಣಿ ಮನಸಾ ವೃಣಾನಾ ಇನ್ವಂತೋ ವಿಶ್ವಂ ಪ್ರತಿ ಯನ್ನೃತೇನ ।
+ನೃಪೇಶಸೋ ವಿಧಥೇಷು ಪ್ರ ಜಾತಾ ಅಭೀಷಮಂ ಯಜ್ಞಂ ವಿ ಚರಂತ ಪೂರ್ವಿಃ ॥⟧
+(printed ऋ सं (*ṛ saṃ*). 3-4-5)
+
+In this Ṛk of the Āprī sūkta the epithet पूर्विः (*pūrviḥ*) also is in the plural. And if the duties of these door-deities are examined:
+
+1. विश्रयंतामृतावृधो द्वारो देवीरसश्चतः (*viśrayaṃtāmṛtāvṛdho dvāro devīrasaścataḥ*): "take (the doors) apart for the convenience of the sacrificial work", thus in the Ṛk 1-13-6;
+
+2. दुरो धृतान्यक्षरन् । (*duro dhṛtānyakṣaran |*): "they poured out waters", thus in the Ṛk 1-188-5.
+
+### Printed p. 691
+
+*[Running head, p. 691: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+3. प्रप्रयज्ञं प्रणीत न । (*praprayajñaṃ praṇīta na |*): "they fill the sacrifice with fruit", thus in 5-5-5;
+
+4. इन्वंतो विश्वं प्रति यन्नृतेन। (*invaṃto viśvaṃ prati yannṛtena|*): "they make the whole world full of life with water", thus in this Ṛk. In this way their duties are indicated in many other ways. Some hold that many of these actions are merely ornamental and formal, ascribed to them, and that there is no truth in them.
+
+⟦ಸಮಿದ್ಧೋ ಅದ್ಯ ಮನುಷೋ ದುರೋಣೇ ದೇವೋ ದೇವಾನ್ ಯಜಸಿ ಜಾತವೇದಃ ।
+ಆ ಚ ವಹ ಮಿತ್ರಮಹಶ್ಚಿ ಕಿತ್ವಾನ್ತ್ವಂ ದೂತಃ ಕವಿರಸಿ ಪ್ರಚೇತಾಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 10-110-1)
+
+In this Ṛk, since it says मनुषो दुरोणे । (*manuṣo duroṇe |*), "in the sacrificial house of man", this figurative language for the merely worldly house-doors may even appear as an excess of poetic fancy. Some critics hold that the epithets नृपेशसः (*nṛpeśasaḥ*), ऋतावृधः (*ṛtāvṛdhaḥ*), पावका (*pāvakā*) and the like are also not fitting. In the present context, for supporting or refuting these views, it is good to learn the opinions of the Vedic scholars who are the source of the preservation of the Vedic tradition.
+
+⟦ಸ್ವಾಧ್ಯೋ೩ ವಿ ದುರೋ ದೇವಯಂತೋಽಶಿಶ್ರಯೂ ರಥಯುರ್ದೇವತಾತಾ ।
+ಪೂರ್ವಿ ಶಿಶುಂ ನ ಮಾತರಾ ರಿಹಾಣೇ ಸಮಗ್ರುವೋ ನ ಸಮನೇಷ್ವಂಜನ್ ।⟧
+(printed ಮ. सं (*saṃ*). 7-2-5)
+
+In this Ṛk of the Āprī sūkta they state clearly यज्ञगृहद्वाराणि इत्यर्थः । (*yajñagṛhadvārāṇi ityarthaḥ |*), "the meaning is the doors of the sacrificial house". Likewise some other scholars explain that for the verb व्यशिश्रयुः (*vyaśiśrayuḥ*) the subject is यजमानाः (*yajamānāḥ*), and that the construction is that they stood resting on the door of the sacrificial house. The English scholars Oldenberg, Grassman and Ludwig also approve this same explanation, and say that in
+
+विराट्संम्राड्विभ्वीः प्रभ्वीर्बह्वीश्च भूयसीश्च याः । दुरो धृतान्यक्षरन् । (*virāṭsaṃmrāḍvibhvīḥ prabhvīrbahvīśca bhūyasīśca yāḥ | duro dhṛtānyakṣaran |*)
+(printed ಋ. सं (*saṃ*). 1-188-5)
+
+the words virāṭ and samrāṭ are the names of two leaves of the door. The scholar Max Muller says that these are the gates of heaven, down which the gods descend (History of Ancient Sanskrit Literature, p. 245). And in the Praiṣa sūkta:
+
+⟦ಹೋತಾಯಕ್ಷದ್ದುರ ಋಷ್ವಾಃ ಕವಷ್ಯೋಽಕೋಷಧಾವನೀರುದಾತಾಭಿರ್ಜಿಹತಾಂ ವಿ ಪಕ್ಷೋಭಿಃ
+ಶ್ರಯಂತಾಂ । ಸುಪ್ರಾಯಣಾ ಅಸ್ಮಿನ್ಯಜ್ಞೇ ವಿಶ್ರಯಂತಾಮೃತಾವೃಧೋ ವಿಯಂತ್ವಾಜ್ಯಸ್ಯ ಹೋತರಜ ।⟧ (printed तै (*tai*). ब्रा (*brā*). 3-6-2-2)
+
+*[The window ends here, at the end of p. 691, in the middle of the Special Topics; the supplied text of this passage stops at "होतरज । (*hotaraja |*)" with the reference, and the discussion continues on p. 692.]*
+
 ---
 
-**Progress note:** Done through printed p. 688 (PDF 688). Sūkta 4 Ṛk 4 Pratipadārtha, Bhāvārtha, Special Topics (barhis); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha
+**Progress note:** Done through printed p. 691 (PDF 691). Sūkta 4 Ṛk 5 Bhāvārtha, printed English, Special Topics (door-deities; Praiṣa passage begun)
