@@ -19948,6 +19948,134 @@ The supreme principle is one. That is the imperishable great Brahman. All beings
 
 It is told, on the basis of a sentence of the Ṛgveda Saṃhitā, that Mitra, described as purohita in the Ṛgveda Saṃhitā, and his companion Varuṇa are none other than parts of Agni. Mitra (the purohita) is Kratu, in the form of resolve; Varuṇa is Dakṣa, in the form of action, who carries out this resolve. "I wish this work to be done. Let it be accomplished", and so on
 
+### Printed p. 640
+
+*[Running head, p. 640: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+the resolve belongs to Mitra, who is of the form of kratu; the making of it succeed in the form of action belongs to Varuṇa. Mitra, who is of the form of the purohita, is of the form of Brahman. Varuṇa, the king, has kṣatriya radiance. Brahman is the approacher; the kṣatriya is the doer (this is the relation between the purohita and the king). By sentences such as नो एव पुरोधा (*no eva purodhā*) (printed ಶ. ಬ್ರಾ. 4-1-4-5) the greatness of the purohita, and in what way this purohita brings welfare to the kṣatriya and through him to the whole world, are also told. That is why the epithet विद्वान् ब्राह्मणो राष्ट्रगोपः पुरोहितः (*vidvān brāhmaṇo rāṣṭragopaḥ purohitaḥ*), guardian of the realm, is well known for the purohita. Therefore the purohita is not merely a helper in the king's personal affairs but a source of inspiration for the protection of the world that he carries out. In this sense Agni is in many places signified by the word purohita.
+
+Dhiyāvasuḥ—the word vasu is taken to mean a pervading property, and dhī to mean wisdom; the purport is that he pervades everywhere by wisdom. The Nirukta authors have explained dhiyāvasu as karmavasu (wealth through works). But,
+
+पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥ (*pāvakā naḥ sarasvatī vājebhirvājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ ‖*)
+(Ṛ. Saṃ. 1-3-10)
+
+citing this Ṛk, they have explained this word, which is an epithet of Sarasvatī, as above. When this word is an epithet of Indra, the meaning karmavasu and karmadhana (wealth of works) fits.
+
+सुनीथाय नः शवसान नोधाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ (*sunīthāya naḥ śavasāna nodhāḥ prātarmakṣū dhiyāvasurjagamyāt ‖*)
+(printed ಋ ಸಂ. 1-62-13)
+
+Where it is an epithet of Indra, they give the alternative sense धिया बुद्धा कर्मणा वा प्राप्तवसुरिंद्र (*dhiyā buddhā karmaṇā vā prāptavasuriṃdra*) (Indra who has obtained wealth by intelligence or by work). The same Ṛk Ṛ. Saṃ. 1-3-10, "pāvakā naḥ sarasvatī", is recited in the Aitareya Āraṇyaka, where it is said यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः । (*yajñaṃ vaṣṭu dhiyāvasuriti vāgvai dhiyāvasuḥ |*) (printed ಐ. ಅ. 1-1-4), stating the identity of speech and dhiyāvasu. Here the word dhī may mean wisdom, praise or work; the word vasu may mean work or one who has the property of pervasion. In the present Ṛk too, as an epithet of Agni, any meaning given to this word fits.
+
+### Printed p. 641
+
+*[Running head, p. 641: Aṣṭaka (printed ಅ. ೩.), Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 3
+
+*[Garbled label as supplied before the Saṃhitā: "। ಸಂಹಿತಾಚಾರ್ಯ ।" (for Saṃhitā-pāṭha); the standard label was inserted and the Saṃhitā made a block.]*
+
+**॥ संहितापाठः ॥**
+
+> के॒तुं य॒ज्ञानां॑ वि॒दथ॑स्य॒ साध॑नं॒ विप्रा॑सो अ॒ग्निं म॑हयंत॒॑
+> चित्ति॑भिः ।
+> अपां॑सि॒ यस्मि॒न्नधि॑ संद॒धुर्गिर॒स्तस्मि॑न्तु॒स्मानि॒ यज॑मान॒ आ च॑के ॥
+
+**॥ पदपाठः ॥**
+
+> केतुं । यज्ञानां । विदथस्य । साधनं । विप्रासः । अग्निं । महयंत । चित्तिभिः ।
+> अपांसि । यस्मिन् । अधि । संसदधुः । गिरः । तस्मिन् । सुम्मानि । यजमानः । आ । चके ॥
+
+*(The Pada is printed ಸಂಸದಧುಃ and ಸುಮ್ಮಾನಿ, where the Saṃhitā has ಸಂದಧುಃ and ತುಸ್ಮಾನಿ [as printed], as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> यज्ञानां केतुं प्रज्ञापकं विदथस्य।यज्ञस्य गृहस्य वा साधनं प्राप्तिसाधनमसाधारणकारणं संतमग्निं विप्रासो विप्राश्चित्तिभिः स्वकर्मभिर्महयंत । पूजयंति । किंच गिरः स्तोतारो यस्मिन्नग्नावपांसि स्वानुष्ठेयानि कर्माण्यधि संदधुः
+> संदधते यजमानस्तस्मिन्नग्नौ सुम्नानि सुखानि प्राप्याचके । कामयते ॥
+
+*(Gist: the wise priests honour with their rites Agni, banner of sacrifices and means of the sacrifice; the reciters place their works in him, and the sacrificer seeks happiness in him.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yajñānāṃ: for the sacrifices. Ketuṃ: the revealer. Vidathasya: for the sacrifice. Sādhanaṃ: the unique cause. Agniṃ: Agni. Viprāsaḥ: the wise priests. Cittibhiḥ: by their own works. Mahayanta: worship. Giraḥ: the praisers. Yasmin: in which Agni. Apāṃsi: their works. Ādi saṃdadhuḥ [printed so]: perform. Tasmin: in that same Agni (through Agni). Yajamānaḥ: the sacrificer who performs the sacrifice. Summāni: happiness. Ā cake: seeks.
+
+**भावार्थ (Bhāvārtha)**
+
+The wise priests worship with their own works Agni, the revealer of sacrifices and the unique cause of the sacrifice. The praisers perform their works in that Agni; through that same Agni the sacrificer who performs the sacrifice seeks happiness.
+
+*[Lone numerals "41" and "41" at the foot of p. 641 in the supplied text, kept as a note.]*
+
+### Printed p. 642
+
+*[Running head, p. 642: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+**Printed English translation**
+
+The wise worship, with (pious) rites, Agni, the sign of sacrifices, the accomplishment of the solemnity, in whom the reciters of (his) praises have accumulated (their) acts (of devotion), and from whom the worshipper hopes for happiness.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Cittibhiḥ—स्वकर्मभिः । (*svakarmabhiḥ |*) it is explained as "by their own works". It has been told before that the Nirukta authors, explaining the Ṛk ⟦ಆಯಂ
+ಸ ಶಿಂಕ್ತೇ⟧, also gave the sense work for the word citti (Ni. 2-9). But this word is used more often in the meanings cetas, that is, mind, or knowledge arising from it. For example,
+
+चित्तिमचित्तिं चिनवद्वि विद्वान् पृष्ठेव वीता वृजिना च मर्तान् ॥ (*cittimacittiṃ cinavadvi vidvān pṛṣṭheva vītā vṛjinā ca martān ‖*)
+(printed ಮ. ಸಂ. 4-2-11)
+
+In this mantra, which prays, "May Agni, who knows, separate knowledge from ignorance, or separate merit, which is to be known, from sin, which is not to be known", the word is used in the sense of knowledge. Besides,
+
+इंद्र श्रेष्ठानि द्रविणानि धेहि चित्तिं दक्षस्य सुभगत्वमस्मे । (*iṃdra śreṣṭhāni draviṇāni dhehi cittiṃ dakṣasya subhagatvamasme |*)
+(printed ಮ. ಸಂ. 2-21-6)
+
+In this mantra, "O Indra, give excellent wealth; give knowledge that is productive of good work", since the word dakṣa denotes work, the word citti must be in the sense of knowledge relating to this work.
+
+चित्तिरा उपबर्हणं चक्षुरा अभ्यंजनं । (*cittirā upabarhaṇaṃ cakṣurā abhyaṃjanaṃ |*)
+(printed ಮ. ಸಂ. 10-85-7)
+
+Here the word citti is taken as a special deity. When the word is used to indicate the sense of "a mind absorbed in meditation", it is used so that knowledge about good works, the works in accordance with that knowledge, and the faith in these works all appear together. For example—
+
+चित्तिः स्रुक्; चित्तमाज्यं; आधीतं बर्हिः । (*cittiḥ sruk; cittamājyaṃ; ādhītaṃ barhiḥ |*)
+(printed ತೈ. ಆ. 3-1-2)
+
+This sentence is cited also in the Taittirīya Āraṇyaka. Explaining its purport, Sāyaṇa says
+
+चित्ती संज्ञान इति धातोश्चित्ति शब्दनिष्पत्तिः । इदं वस्त्विदृशमेव न त्वन्यथेति (*cittī saṃjñāna iti dhātościtti śabdaniṣpattiḥ | idaṃ vastvidṛśameva na tvanyatheti*)
+
+### Printed p. 643
+
+*[Running head, p. 643: Aṣṭaka 2 (printed ಅ.), Adhyāya 8, Varga 20, Ṛgvedasaṃhitā (printed ಮುಗ್ವೇದಸಂಹಿತಾ, apparently a misprint). In the supplied text this head was run into the Sanskrit sentence above; the page marker and heading were inserted by hand and p. 643 added to pages.json.]*
+
+या सम्यग् ज्ञानरूपा मनोवृत्तिः सा चित्तिः ॥ (*yā samyag jñānarūpā manovṛttiḥ sā cittiḥ ‖*) This word is derived from the root cit, meaning to know well. The mental state that has precise and full knowledge, that "this is the truth of the thing; it is not otherwise", is called citti. In the present mantra this can be understood as works preceded by such knowledge.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> पि॒ता य॒ज्ञाना॒मसु॑रो विप॒श्चितां॑ वि॒मान॑म॒ग्निर्व॒युनं॑ च॒॑
+> वाघतां ।
+> आ वि॑वेश॒ रोद॑सी॒ भूरि॑वर्पसा पुरुप्रि॒यो भं॑दते॒ धाम॑भिः क॒विः॥
+
+*[Garbled labels as supplied: "೧ ಪದಪಾಠ ೧" (Pada-pāṭha) and "೧ ಸಾಯಣಭಾಷ್ಯಂ ೧" (Sāyaṇa-bhāṣya), kept as notes in kn.md; the Saṃhitā, Pada and bhāṣya, run together in one block, were separated and standard labels inserted. The Saṃhitā has no verse number after it, and the Pada none either.]*
+
+**॥ पदपाठः ॥**
+
+> पिता । यज्ञानां । असुरः । विपःचितां । विमानं । अग्निः । वयुनं । च । वाघतां ।
+> आ । विवेश । रोदसी इति । भूर्ववर्पसा । पुरुप्रियः । भंदते । धामभिः । कविः ॥
+
+*(The Pada is printed ಭೂರ್ವವರ್ಪಸಾ where the Saṃhitā has ಭೂರಿವರ್ಪಸಾ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> यज्ञानां पिता पालयिता विपश्चितां विदुषां स्तोत्कृणामसुरो बलप्रदः ।
+> वाघतामृत्वजां वयुनं ज्ञानसाधनं । विमानं च । विमायते फलमिति विमानं
+> यज्ञादिकर्मसाधनं । सोग्निर्भूरिवर्पसा पार्थिववैद्युतादिबहुविधरूपेण
+> रोदसी द्यावापृथिव्यावाविवेश । प्रविशति । पुरुप्रियो मनुष्यॆष्टधिकं प्रियः ।
+> अथवा पुराणां श्रेष्ठानां प्रियः पुरुप्रियः । धामभिस्तेजोभिर्युक्तः कविरग्निर्भंदते । यजमानेन स्तूयते ॥
+
+*(Gist: Agni, protector of sacrifices, giver of strength to the wise, means of knowledge for priests and of the sacrifice, enters heaven and earth in many forms; much loved, he is praised by the sacrificer.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yajñānāṃ: for the sacrifices. Pitā: protector. Vipaścitāṃ: for the learned praisers. Asuraḥ: giver of strength. Vāghatāṃ: for the priests. Vayunaṃ: means of knowledge. Vimānaṃ: helper of the works. Agniḥ: Agni. Bhūrivarpasā: the terrestrial, lightning and the like
+
 ---
 
-**Progress note:** Done through printed p. 639 (PDF 639). Sūkta 3 Ṛk 2 Special Topics: purohita and king as Agni and Indra, Mitra-Varuṇa as Kratu and Dakṣa; cut mid-sentence
+**Progress note:** Done through printed p. 643 (PDF 643). Sūkta 3 Ṛk 2 Special Topics end; Ṛk 3 complete; Ṛk 4 begun (Pratipadārtha cut mid-list); p. 643 head merged, fixed; accent DIFF/NOMATCH logged
