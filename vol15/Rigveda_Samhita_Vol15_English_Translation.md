@@ -21707,6 +21707,81 @@ As soon as the Adhvaryu directs Maitrāvaruṇa, by the Praiṣa mantra, to reci
 
 *[The window ends here, at the end of p. 697, after the fifth Ṛk of that sūkta as supplied (॥ ५ ॥ (*‖ 5 ‖*)); the next window continues.]*
 
+### Printed p. 698
+
+*[Running head, p. 698: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 4.]*
+
+⟦ಇಮೇ ಸೋಮಾಸ ಇಂದವಃ ಸುತಾಸೋ ಅಧಿ ಬರ್ಹಿಷಿ ।
+ತಾ ಇಂದ್ರ ಸಹಸೇ ಪಿಬ ॥ ೬ ॥
+ಅಯಂ ತೇ ಸ್ತೋಮೋ ಅಗ್ರಿಯೋ ಹೃದಿಸ್ಪೃಶಸ್ತು ಶಂತಮಃ ।
+ಅಥಾ ಸೋಮಂ ಸುತಂ ಪಿಬ ॥ ೭ ॥
+ವಿಶ್ವಮಿತ್ಸವನಂ ಸುತಮಿಂದ್ರೋ ಮದಾಯ ಗಚ್ಛತಿ ।
+ವೃತ್ರಹಾ ಸೋಮಪೀತಯೇ ॥ ೮ ॥
+ಸೇಮಂ ನಃ ಕಾಮಮಾ ಪೃಣ ಗೋಭಿರಶ್ವೈಃ ಶತಕ್ರತೋ ।
+ಸ್ತವಾಮ ತ್ವಾ ಸ್ವಾಧ್ಯಃ ॥ ೯ ॥⟧
+(printed Ṛ. Saṃ. 1-16-1 to 9, the Ṛks 6 to 9 of the sūkta following here)
+
+Maitrāvaruṇa recites the above sūkta in this way. Now they explain why this sūkta is to be used at the morning pressing, and what special feature this sūkta has in relation to the pressing.
+
+⟦ಆ ತ್ವಾ ವಹಂತು ಹರಯ ಇತಿ ಪ್ರಾತಃಸವನ ಉನ್ನೀಯಮಾನೇಭ್ಯೋಽನ್ವಾಹ ವೃಷಣ್ವತೀಃ
+ಪೀತವತೀಃ ಸುತವತೀರ್ಮದ್ವತೀ ರೂಪಸಮೃದ್ಧಾಃ ।⟧
+(printed ಇ. ब्रा (*brā*). 5-9)
+
+All 9 Ṛks in this sūkta are in the Gāyatrī metre. And in the Ṛks of this sūkta there are words used for the drinking of Soma, such as vṛṣa, suta, mada. In the second pāda of the first Ṛk there is the use of the words vṛṣa and pīta in वृषणं सोमपीतॆये (*vṛṣaṇaṃ somapītèye*) (so printed). In the fourth Ṛk the word suta is read in the sentence सुते हि त्वा हवामहे (*sute hi tvā havāmahe*). In the eighth Ṛk the word mada occurs in the sentence इंद्रो मदाय गच्छति (*iṃdro madāya gacchati*). Although all these words are not in every Ṛk, they are repeated here and there many times in the whole sūkta. The idea that Indra, the giver of rain, drinks the Soma juice and becomes joyful is expressed by the four words vṛṣaṇa, suta, soma and madāya. Therefore this sūkta is "rich in form" (rūpasamṛddha) in respect of Indra's drinking of Soma.
+
+Rūpasamṛddha means: when speaking with a definite subject in view, the mantras used there must contain a meaning that explains that subject. Thus the use, as suits the context, of mantras containing words that indicate the explanation and meaning of the respective rites is what is called rūpasamṛddha.
+
+⟦ಐಂದ್ರೀರನ್ವಾಹೈಂದ್ರೋ ವೈ ಯಜ್ಞೋ ಗಾಯತ್ರೀರನ್ವಾಹ ಗಾಯತ್ರಂ ವೈ ಪ್ರಾತಸ್ಸವನಂ ನವ
+ನ್ಯೂನಾಃ ಪ್ರಾತಸ್ಸವನೇಽನ್ವಾಹ ನ್ಯೂನೇ ವೈ ರೇತಃ ಸಿಚ್ಯತೇ ।⟧
+
+### Printed p. 699
+
+*[Running head, p. 699: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+This sūkta is addressed to Indra; that is, in this sūkta Indra is prayed to come to the sacrificial hall and drink Soma. Therefore all the Ṛks of this sūkta praise Indra alone. Now a doubt arises here. In a sacrifice made in honour of Indra, it is right to recite a sūkta and Ṛks addressed to Indra. But since this rite called the morning pressing is performed also in other sacrifices, should a sūkta and Ṛks in honour of other deities be recited in those sacrifices? No. In all sacrifices, that is, even in sacrifices made in honour of deities other than Indra, this very sūkta addressed to Indra must be recited. For since the Śruti says इंद्रो वै यज्ञः (*iṃdro vai yajñaḥ*), "Indra is the sacrifice", or the sacrifice is of the form of Indra, it is right in any sacrifice to recite this sūkta addressed to Indra at the time of the pressing; this is the meaning. Granting then that the recitation of a sūkta addressed to Indra is right in all sacrifices, why must mantras of the Gāyatrī metre alone be recited? Because in Śruti sentences such as “गायत्रं वै प्रातस्सवनं (*gāyatraṃ vai prātassavanaṃ*)”, “प्रातस्सवने वै गायत्रेण छंदसा (*prātassavane vai gāyatreṇa chaṃdasā*)” (Tai. Saṃ. 7-1-2-1) there is the injunction that the morning-pressing rite is to be performed by the recitation of mantras of the Gāyatrī metre; therefore it is right to use at the morning pressing the Unnīyamāna sūkta spoken of above, आ त्वा वहंतु हरयः (*ā tvā vahaṃtu harayaḥ*), containing Ṛks of the Gāyatrī metre, and likewise the seven Gāyatrī mantras beginning “⟦ಇದಂ ತೇ ಸೋಮ್ಯಂ
+ಮಧು⟧” which the seven priests, the Hotṛ and the rest, use for the yājyā mantras (offering mantras).
+
+Besides, another matter here deserves consideration. For the Unnīyamāna sūkta there is the injunction to recite a sūkta of nine Ṛks at the morning pressing, of ten Ṛks at the midday pressing, and again of nine Ṛks at the third pressing. In this connection the sūkta recited at the morning pressing has one Ṛk less than that recited at the midday pressing. Since one Ṛk is thus less, does not a deficiency arise in the sacrificial rite and, therefore, harm to the sacrificer? There is no room for that. In worldly usage, even if the semen poured at the time of conception is very small, there is no deficiency in the production of offspring. So, even if the morning pressing has one Ṛk less than the midday, by the power of the mantra there is no reason for a deficiency in the sacrificial rite or for harm to the sacrificer; this is the meaning.
+
+दश मध्यंदिनेऽन्वाह न्यूने वै रेतः सिक्तं मध्यं स्त्रियै प्राप्य स्थविष्ठं भवति ॥ (*daśa madhyaṃdine 'nvāha nyūne vai retaḥ siktaṃ madhyaṃ striyai prāpya sthaviṣṭhaṃ bhavati ‖*)
+
+Now they explain the sūkta recited at the midday pressing. At the midday pressing the sūkta ⟦ಅಸಾವಿ ದೇವಂ
+ಗೋಯಜೀಕಮಂಧಃ⟧ (Ṛ. Saṃ. 7-21, the 21st sūkta) is to be recited as the Unnīyamāna sūkta.
+
+### Printed p. 700
+
+*[Running head, p. 700: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+The Unnīyamāna sūkta to be recited at the midday pressing:
+
+⟦ಅಸಾವಿ ದೇವಂ ಗೋಋಜೀಕಮಂಧೋ ನ್ಯಸ್ಮಿನ್ನಿಂದ್ರೋ ಜನುಷೇಮುವೋಚ ।
+ಬೋಧಾಮಸಿ ತ್ವಾ ಹರ್ಯಶ್ವ ಯಜ್ಞೈರ್ಬೋಧಾ ನಃ ಸೋಮಮಾಧಸೋ ಮದೇಷು ॥ ೧ ॥
+ಪ್ರ ಯಂತಿ ಯಜ್ಞಂ ವಿಪಋಂತಿ ಬರ್ಹಿಃ ಸೋಮಮಾದೋ ವಿದಥೇ ದುಧ್ರವಾಚಃ ।
+ನ್ಯು ಭ್ರಿಯಂತೇ ಯಶಸೋ ಗೃಭಾದಾ ದೂರಉಪಬ್ದೋ ವೃಷಣೋ ನೃಷಾಚಃ ॥ ೨ ॥
+ತ್ವಮಿಂದ್ರ ಸ್ರವಿತವಾ ಅಪಸ್ಕಃ ಪರಿಷ್ಠಿತಾ ಅಹಿನಾ ಶೂರ ಪೂರ್ವೀಃ ।
+ತ್ವದ್ವಾವಕ್ರೇ ರಥ್ಯೋ೩ನ ಧೇನಾ ರೇಜಂತೇ ವಿಶ್ವಾ ಕೃತ್ರಿಮಾಣಿ ಭೀಷಾ ॥ ೩ ॥
+ಭೀಮೋ ವಿವೇಷಾಯುಧೇಭಿರೇಷಾಮಪಾಂಸಿ ವಿಶ್ವಾ ನರ್ಯಾಣಿ ವಿದ್ವಾನ್ ।
+ಇಂದ್ರಃ ಪುರೋ ಜರ್ಹ್ಮಷಾಣೋ ವಿ ದೂಧೋದ್ವಿ ವಜ್ರಹಸ್ತೋ ಮಹಿನಾ ಜಘಾನ ॥ ೪ ॥
+ನ ಯಾತವ ಇಂದ್ರ ಜೂಜುವುರ್ನೋ ನ ವಂದನಾ ಶವಿಷ್ಠ ವೇದ್ಯಾಭಿಃ ।
+ಸ ಶರ್ಧದಯೋ ವಿಷುಣಸ್ಯ ಜಂತೋರ್ಮಾ ಶಿಶ್ನದೇವಾ ಅಪಿ ಗುರ್ಯತಂ ನಃ ॥ ೫ ॥
+ಅಭಿ ಕ್ರತ್ವೇಂದ್ರ ಭೂರಧ ಜನ್ ನ ತೇ ವಿವ್ಯಜ್ ಮಹಿಮಾನಂ ರಜಾಂಸಿ ।
+ಸ್ಪೇನಾ ಹಿ ವೃತ್ರಂ ಶವಸಾ ಜಘಂಥ ನ ಶತ್ರುರಂತಂ ವಿವಿದದ್ಯುಧಾ ತೇ ॥ ೬ ॥
+ದೇವಾಶ್ಚಿತ್ತೇ ಅಸುರ್ಯಾಯ ಪೂರ್ವೇಽನು ಕ್ಷತ್ರಾಯ ಮಮಿರೇ ಸಹಾಂಸಿ ।
+ಇಂದ್ರೋ ಮಘಾನಿ ದಯತೇ ವಿಷಹ್ಯೇಂದ್ರಂ ವಾಜಸ್ಯ ಜೋಹುವಂತ ಸಾತೌ ॥ ೭ ॥
+ಕೀರಿಶ್ಚಿದ್ದಿ ತ್ವಾಮವಸೇ ಜುಹಾವೇಶಾನಮಿಂದ್ರ ಸೌಭಗಸ್ಯ ಭೂರೇಃ ।
+ಅವೋ ಬಭೂಥ ಶತಮೂತೇ ಅಸ್ಮೇ ಅಭಿಕ್ಷತ್ತು ಸ್ತ್ಯಾವತೋ ವರೂತಾ ॥ ೮ ॥
+ಸಖಾಯಸ್ತ ಇಂದ್ರ ವಿಶ್ವಹ ಸ್ಯಾಮ ನಮೋವೃಧಾಸೋ ಮಹಿನಾ ತರುತ್ರ ।
+ವನ್ವಂತು ಸ್ಮಾ ತೇವಸಾ ಸಮಾಕೇತಿಭೀತಿಮರ್ಯೋ ವನುಷಾಂ ಶವಾಂಸಿ ॥ ೯ ॥
+ಸ ನ ಇಂದ್ರ ತ್ರಯತಾಯಾ ಇಷೇ ಧಾಸ್ತ್ಮನಾ ಚ ಯೇ ಮಘವಾನೋ ಜುನಂತಿ ।
+ವಸ್ವೀ ಷು ತೇ ಜರಿತ್ರೆ ಅಸ್ತು ಶಕ್ತಿಯೂಯಂ ಪಾತ ಸ್ವಸ್ತಿಭಿಃ ಸದಾ ನಃ ॥ ೧೦ ॥⟧
+(Ṛ. Saṃ. 7-21-1 to 10)
+
+The Ṛks of this sūkta are in the Triṣṭubh metre, and this sūkta has ten Ṛks. Here too the example of the womb is given. In the world, the small quantity of semen poured into the womb of a woman, which is small in measure, reaches the middle part of the woman's body, grows in the form of an embryo, and becomes a very stout child; in the same way, this sūkta of ten Ṛks recited at this midday pressing, which has the form of the womb, that is, stands in the middle of the three pressings, will bring about an abundance of fruit; this is the meaning.
+
+नव न्यूनास्तृतीयसवनेऽन्वाह न्यूनाद्वै प्रजाः प्रजायंते ॥ (*nava nyūnāstṛtīyasavane 'nvāha nyūnādvai prajāḥ prajāyaṃte ‖*)
+
+*[The window ends here, at the end of p. 700, with this Śruti sentence on the third pressing; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 697 (PDF 697). Sūkta 4 Ṛk 5 Special Topics (saptahotṛ mantras: midday and third pressing; Unnīyamāna sūkta 1-16 begun)
+**Progress note:** Done through printed p. 700 (PDF 700). Sūkta 4 Ṛk 5 Special Topics (Unnīyamāna sūktas: 1-16 Ṛks 6-9, rūpasamṛddha; midday sūkta 7-21)
