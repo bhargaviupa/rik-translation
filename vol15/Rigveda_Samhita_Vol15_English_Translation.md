@@ -5393,6 +5393,76 @@ be gratified by) our praises and our worship.
 
 अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—बुद्धमंतरिक्षं तत्र भवः अहिनामा देवः (*buddhamaṃtarikṣaṃ tatra bhavaḥ ahināmā devaḥ*). The word *ahirbudhnya* is explained by Yāska as योऽहिः स बुद्ध्यो बुध्ममंतरिक्षं तन्निवासात् (*yo 'hiḥ sa buddhyo budhmamaṃtarikṣaṃ tannivāsāt*) (Si. [?] 10-46) [text as supplied]. The word *budhna* is given the meaning "atmosphere", and the god named Ahi, born in the atmosphere, is the sense explained.
 
+### Printed p. 174
+
+अज एकपात् (*aja ekapāt*)—Yāska explains: न जायत इत्यजः (*na jāyata ityajaḥ*) ("he is *aja* because he is not born"); he is *ekapād* because he goes (moves) by one foot alone; or he drinks (or protects) with one foot; or one foot belongs to him (Ni. 12-30). Durgācārya says that this is the Sun, ever moving, one foot (a quarter) of Brahman. It is known that Fire is a foot, Wind is a foot, the Sun is a foot, the Quarters are a foot. Entering the whole world with one portion he protects it; at the time of sleep, as fire, he digests the food of living beings; with one foot (portion) he drinks the water of the whole world; as the life-principle he has entered the whole world as one foot (Ni. 12-30). Thus the word is explained as the Sun: he is one foot of the formless Supreme Brahman of pure being-consciousness-bliss, always moving, protecting the whole world by one portion; and to this Sun, the one foot of the four-footed Brahman (Fire, Wind, Sun, Quarters), Durgācārya ascribes identity with the Supreme Self in the form of action. The explanation of this word was given earlier. Sāyaṇa explains the word as the Sun, the one who moves alone, the unborn.
+
+त्रितः ऋभुक्षाः (*tritaḥ ṛbhukṣāḥ*)—Sāyaṇa: Trita is "the one who has crossed over most" (*tīrṇatama*), Ṛbhukṣāḥ is "of wide dwelling, he who settles the Ṛbhus", and both are Indra. Yāska explains त्रितस्तीर्णतमो मेधया बभूव (*tritastīrṇatamo medhayā babhūva*) ("Trita surpassed all by his intelligence"), or else a number may be intended: "from one, two, three; they became three" (Ni. 4-6); त्रितः त्रिस्थान इंद्रः (*tritaḥ tristhāna iṃdraḥ*) ("Trita is Indra of the three stations", Ni. 9-25). The word ऋभुक्षाः (*ṛbhukṣāḥ*) is stated among the names of the great (Ni. 3-13) and explained by Yāska as उरुक्षयणः ऋभूणां राजा (*urukṣayaṇaḥ ṛbhūṇāṃ rājā*) ("of wide dwelling, king of the Ṛbhus", Ni. 9-3). Sāyaṇa takes both words as epithets of Indra: one who surpasses all by the power of his intellect, who, pervading (abundantly) many places, is fit for his office, or who keeps the Ṛbhus in comfort.
+
+सविता (*savitā*)—"the impeller of all." Yāska explains this word as सर्वस्य प्रसविता (*sarvasya prasavitā*) (Ni. 10-32). The sacrificer's prayer is thus stated: may the god named Ahi, the Sun renowned as Aja Ekapād, Indra and the god Savitṛ grant food to us the sacrificers.
+
+### Printed p. 175
+
+आशुहेमा अपान्नपात् (*āśuhemā apānnapāt*)—"the swift-going Agni, who stands in the place of the grandson of the waters." Yāska explains अपांनपात् तनूनप्रा व्याख्यातः (*apāṃnapāt tanūnaprā vyākhyātaḥ*) (Si. [?] 10-18).
+
+धिया शमि (*dhiyā śami*)—Sāyaṇa: शमीति कर्मनाम (*śamīti karmanāma*), "*śami* is a name for rite": may he be gratified in the sacrificial rite; or, by our rite in the form of service, may there be happiness (*śam*) for that reason. *Śamī* is stated among the names of rites (Ni. 3-2). One sense is thus stated: from the waters herbs and trees are born, and from these Agni is born; therefore Agni, as the "grandson" (in the place of a grandson) of the waters, swiftly pervading, hearing our praises in the sacrificial rites of us the sacrificers, may be pleased. Or, since the locative singular of the word meaning "happiness" is *śami*, it is explained that Agni may be one who produces happiness for us by the services performed by us sacrificers.
+
+धिया (*dhiyā*)—"by praise." The word *dhī* is read by Yāska among the names of rites (Ni. 3-2) and among the names of wisdom (Ni. 3-13). Here Sāyaṇa explains it as praise.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> ए॒ता वो॑ व॒श्मुद्य॑ता यजत्रा॒ अत॑क्षन्ना॒यवो॒ नव्य॑से॒ सं ।
+> श्र॒व॒स्यवो॒ वाजं॑ चका॒नाः सप्ति॒र्न रथ्यो॒ अह॑ धी॒तिम॑श्याः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> एता । वः । वश्मि । उत्यता । यजत्राः । अतक्षन् । आयवः । नव्यसे । सं ।
+> श्रवस्यवः । वाजं । चकानाः । सप्तिः । न । रथ्यः । अह । धीतिं । अश्याः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यजत्रा यजनीया विश्वे देवा वो युष्मदीयान्येतैतान्युद्यतोद्य-
+> तानि वचांसि वश्मि। कामये । नव्यसे नवतराय स्तुत्यतमाय युष्मद्गणायायवो
+> मत्पभृतयो मनुष्याः कामितानि स्तोत्राणि समतक्षन् । समस्कुर्वन् । किमिच्छंतः।
+> श्रवस्यवः श्रवणीयं यशोऽन्नं वात्मन इच्छंतः । वाजं बलं चकानाः कामय-
+
+> *he yajatrā yajanīyā viśve devā vo yuṣmadīyānyetaitānyudyatodya-*
+> *tāni vacāṃsi vaśmi| kāmaye | navyase navatarāya stutyatamāya yuṣmadgaṇāyāyavo*
+> *matpabhṛtayo manuṣyāḥ kāmitāni stotrāṇi samatakṣan | samaskurvan | kimicchaṃtaḥ|*
+> *śravasyavaḥ śravaṇīyaṃ yaśo 'nnaṃ vātmana icchaṃtaḥ | vājaṃ balaṃ cakānāḥ kāmaya-*
+
+### Printed p. 176
+
+> मानाः ॥ कन दीप्ति कांतिगतिषु । लिटः क्‌नच् ॥ रथ्यो रथसंबंधी सप्तिर्न सर्पणशी-
+> लोऽश्व इव युष्मद्गणो धीतिमस्मदीयं कर्माश्याः । प्राप्पोतु ॥ अशू व्याप्तौ ।
+> व्यत्ययेन परस्मैपदमध्यमौ । बहुलं छंदसीति विकरणस्य लुक् ॥
+
+> *mānāḥ ‖ kana dīpti kāṃtigatiṣu | liṭaḥ knac ‖ rathyo rathasaṃbaṃdhī saptirna sarpaṇaśī-*
+> *lo 'śva iva yuṣmadgaṇo dhītimasmadīyaṃ karmāśyāḥ | prāppotu ‖ aśū vyāptau |*
+> *vyatyayena parasmaipadamadhyamau | bahulaṃ chaṃdasīti vikaraṇasya luk ‖*
+
+Gist: the sacrificer desires to recite these praises to the worshipful Viśve Devāḥ; men wishing for food and strength have fashioned hymns for them; may their host come like a chariot-horse to our rite.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yajatrāḥ—O gods worthy of sacrifice. Vaḥ—addressed to you. Etā udyatā—these praise-words, to be recited with faith. Vaśmi—I wish to recite. Śravasyavaḥ—seekers of food. Vājam—strength. Cakānāḥ—those who desire. Āyavaḥ—men like me. Navyase—for the worship of you, the worshipful. Samatakṣan—(they) fashion (praises). Rathyaḥ—yoked to a chariot. Saptiḥ na—like a horse. Dhīśiṃ [sic, as supplied; the Saṃhitā has *dhītim*]—towards our rite. Aśyāḥ—(may your host) come and arrive.
+
+**भावार्थ (Bhāvārtha)**
+
+O gods worthy of sacrifice, I wish to recite these praise-words, addressed to you and to be recited with faith. Men like me, seeking food and desiring strength, fashion praises for the worship of you, the worshipful. Like a horse yoked to a chariot, may your host come to our rite.
+
+**Printed English translation**
+
+Adorable (gods), I desire that these (my) earnest praises (should please) you: men wishing for food, desirous of vigour, have constructed (hymns) for yours [sic] celebration; may you hasten like a (swift) chariot-horse to our (pious) rite.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यजत्रा (*yajatrā*)—यजनीयाः (*yajanīyāḥ*). Since the Viśve Devāḥ are worthy of sacrifice, they are addressed by this word. वः एता उद्यता वश्मि (*vaḥ etā udyatā vaśmi*)—युष्मदीयानि एतानि उद्यतानि वचांसि कामये (*yuṣmadīyāni etāni udyatāni vacāṃsi kāmaye*): it is described that the sacrificer wishes to recite praises addressed to these gods; and आयवः नव्यसे समतक्षन् (*āyavaḥ navyase samatakṣan*)—मत्पृतयोः मनुष्याः स्तुत्यतमाय युष्मद्गणाय स्तोत्राणि समस्कुर्वन् (*matpṛtayoḥ manuṣyāḥ stutyatamāya yuṣmadgaṇāya stotrāṇi samaskurvan*) (as supplied; the bhāṣya reads *matprabhṛtayaḥ*): the sacrificers and others, desiring fame, food and strength, have worshipped these gods with praises fit to be recited.
+
+रथ्यः (*rathyaḥ*)—सप्तिर्न धीतिं अश्याः (*saptirna dhītiṃ aśyāḥ*)—रथसंबंधी सर्पणशीलो अश्व इव युष्मद्गणः अस्मदीयं कर्म प्राप्पोतु (*rathasaṃbaṃdhī sarpaṇaśīlo aśva iva yuṣmadgaṇaḥ asmadīyaṃ karma prāppotu*). Like a swift horse fit to be yoked to a chariot, (the text breaks off at the page end)
+
 ---
 
-**Progress note:** Done through printed p. 173 (PDF 173). Sūkta 31 Ṛk 5 Bhāvārtha, printed English, Special Topics; Ṛk 6 complete, Special Topics begun (Ahirbudhnya). Flags: Si. [?] 10-46 (supplied 'ಸಿ.'); Pratipadārtha 'ಯಭುಕ್ಷಾಃ' for Ṛbhukṣāḥ left as supplied; Pada 'ಸ್ಮಸಿ' vs Saṃhitā 'ಶ್ಮಸಿ' as supplied; bhāṣya tail partly garbled; 'Englis Translation.' label standard
+**Progress note:** Done through printed p. 176 (PDF 176). Sūkta 31 Ṛk 6 Special Topics complete; Ṛk 7 through Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (Yajatrā, Rathya), breaking off mid-sentence at p. 176. Flags: Si. [?] 10-18 (supplied 'ಸಿ.'); Pratipadārtha 'ಧೀಶಿಂ' for dhītim and bhāṣya 'ಮತ್ಪಭೃತಯೋ/ಮತ್ಪೃತಯೋಃ' as supplied; accent DIFF 1 line
