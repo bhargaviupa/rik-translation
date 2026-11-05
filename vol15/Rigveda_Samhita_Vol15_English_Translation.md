@@ -15241,6 +15241,134 @@ O omen-bird, be furnished with excellent auspiciousness, and may no calamity of 
 
 O kapiñjala bird, Tvā: you. Śyenaḥ: the (strong and powerful) hawk. Mā ut vadhīt: let it not fall upon and harm. Suparṇaḥ: the eagle bird. Mā (vadhīt): let it not harm. Iṣumān: bearing arrows. Vīraḥ: powerful. Astā: the shooter, that is the hero who fights with the bow
 
+### Printed p. 481
+
+*[Running head, p. 481: Aṣṭaka 2, Adhyāya 8, Varga 11, Ṛgvedasaṃhitā.]*
+
+Tvā: you. Mā vidat: let it not approach. Pitryāṃ pradiśaṃ anu: in the south itself. Kanikradat: crying again and again. Sumaṅgalaḥ: of auspicious form. Bhadravādī: speaking our coming welfare. Iha: here. Vada: speak an auspicious word.
+
+**भावार्थ (Bhāvārtha)**
+
+O kapiñjala bird, let the powerful hawk not fall upon and harm you. Let the eagle not trouble you. Let the archer who shoots arrows, the hunter, not approach you. In the south itself, crying again and again, of auspicious form, speaking our coming welfare, speak here an auspicious word.
+
+**Printed English translation**
+
+May no kite, no eagle, kill you; may no archer, armed with arrows, reach you: crying repeatedly, in the region of the Pitris, be ominous of good fortune; proclaimer of good luck, speak to us on this occasion.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk and the next Ṛk, the sage Gṛtsamada expresses the wish that no kind of injury or trouble come to the kapiñjala bird from anyone, and that, crying from the south, it bring him good fortune.
+
+त्वा श्येनः मा उत् वधीत् सुपर्णः मा (*tvā śyenaḥ mā ut vadhīt suparṇaḥ mā*)—O kapiñjala bird, let neither the powerful hawk nor the eagle with good wings harm you. It is well known that the hawk is a very strong bird and falls upon and kills other kinds of birds not as strong as itself. Therefore the seer expresses the wish that no trouble come to you from such a powerful hawk, and likewise that the eagle, which has good wings and can fly very far, not harm you.
+
+इषुमान् वीरः अस्ता त्वा मा विदत् (*iṣumān vīraḥ astā tvā mā vidat*)—the intent is: let the hero (or hunter) who sets out with bow and arrows to destroy enemies not approach you shooting arrows. On the word वीरः (*vīraḥ*) Yāska—
+
+वीरो वीरयत्यमित्रान् । वेतेर्वा स्याद्गतिकर्मणः वीरयतेर्वा । (*vīro vīrayatyamitrān | vetervā syādgatikarmaṇaḥ vīrayatervā |*)
+(Ni. 1-7)
+
+*[Stray line in the supplied text: "31", kept as a note in kn.md.]*
+
+### Printed p. 482
+
+*[Running head, p. 482: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 42.]*
+
+—has given the etymology. That is, he is वीर (*vīra*) because he destroys enemies in many ways (formed from the root वीरयति (*vīrayati*) meaning "destroy"), or because, formed from the root वेति (*veti*) indicating motion, he rushes upon enemies, or because, formed from the root वीरयति (*vīrayati*) indicating prowess, it indicates the sense "valiant": so the derivation of this word is stated.
+
+पित्र्यां दिशं अनु कनिक्रदत् सुमंगलः भद्रवादी इह वद (*pitryāṃ diśaṃ anu kanikradat sumaṃgalaḥ bhadravādī iha vada*)—O kapiñjala bird, take your stand in the direction belonging to the fathers, that is, the south, and from there, of auspicious form, utter a good and beneficial sound: this is the intent. The direction belonging to the fathers means the south. On this matter, according to the Śruti sentence ⟦ದೇವಮನುಷ್ಯಾ ದಿಶೋ ವ್ಯಭಜಂತ ಪ್ರಾಚೀ
+ದೇವಾ ದಕ್ಷಿಣಾ ಪಿತರಃ ಪ್ರತೀಚೀಂ ಮನುಷ್ಯಾ ಉದೀಚೀಗಂ ರುದ್ರಾಃ⟧ (Tai. Saṃ. 6-1-1-1) the south belongs to the fathers. Therefore in the present Ṛk पित्र्यां दिशं (*pitryāṃ diśaṃ*) means the south belonging to the Pitṛ deities, that is, to the fathers. Since it is well known that the cry of the kapiñjala bird in the south is a good omen, the seer prays in this Ṛk and the next that the kapiñjala, being in the south, speak words beneficial to us.
+
+The meaning of the word सुमंगल (*sumaṃgala*) was already explained in the preceding Ṛk. भद्रवादी (*bhadravādī*) means भद्रं वदतीति भद्रवादी (*bhadraṃ vadatīti bhadravādī*), one who utters an auspicious sound.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अव॑ क्रंद दक्षिण॒तो गृ॒हाणां॑ सुमं॒गलो॑ भद्रवा॒दी श॑कुंते ।
+> मा नः॑ स्ते॒न ई॑शत॒ माघशं॑सो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ३
+
+**॥ पदपाठः ॥**
+
+> अव । क्रंद । दक्षिणतः । गृहाणां । सुमंगलः । भद्रवादी । शकुंते ।
+> मा । नः । स्तेनः । ईशत । मा । अघशंसः । बृहत् । वदेम । विदथे । सुवीराः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> शकुंते हे कपिंजल त्वं सुमंगलो भद्रवादी च सन् गृहाणां दक्षिणतो
+> दक्षिणस्यां दिश्यवक्रंद । शब्दं कुरु । दक्षिणतः शब्दायमानः शकुंतो मंगलसू-
+
+> *śakuṃte he kapiṃjala tvaṃ sumaṃgalo bhadravādī ca san gṛhāṇāṃ dakṣiṇato*
+> *dakṣiṇasyāṃ diśyavakraṃda | śabdaṃ kuru | dakṣiṇataḥ śabdāyamānaḥ śakuṃto maṃgalasū-*
+
+### Printed p. 483
+
+*[Running head, p. 483: Aṣṭaka 2, Adhyāya 8, Varga 11, Ṛgvedasaṃhitā.]*
+
+> चको हि । नोऽस्माकं स्तेनस्तस्करो मेशत । मेशिष्ट । अघशंसोSनर्थकानां
+> शंसकोऽपि मेशिष्ट । उत्तमः पादो व्याख्यातचरः ॥
+
+> *cako hi | no 'smākaṃ stenastaskaro meśata | meśiṣṭa | aghaśaṃsoSnarthakānāṃ*
+> *śaṃsako 'pi meśiṣṭa | uttamaḥ pādo vyākhyātacaraḥ ‖*
+
+*(Gist: O kapiñjala bird, being of good omen, cry from the south of the houses; let no thief and no one wishing evil prevail over us. The bhāṣya block is split where the print splits it at the page break, in the word that begins मंगलसू (*maṃgalasū*) and continues चको (*cako*). The Saṃhitā ends without the closing "॥" in the supplied text.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śakunte: O kapiñjala bird. Sumaṅgalaḥ: you of auspicious nature. Bhadravādī: speaking of welfare. Gṛhāṇāṃ: of our houses. Dakṣiṇataḥ: in the south. Ava kranda: make a sound. Naḥ: upon us. Stenaḥ: the thief. Mā īśata: let him not show his power. Aghaśaṃsaḥ: the enemy who does sin to us. Mā: let him not harm. Suvīrāḥ: we, with excellent sons. Vidathe: in the sacrificial hall. Bṛhat: (describing your qualities) mature praises. Vadema: shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+*[The supplied text has the garbled label "॥ ಭವಾರ್ಥ ॥" here, kept as a note in kn.md.]*
+
+O kapiñjala bird, being of auspicious nature and speaking of welfare, cry in the south of our houses. Let the thief not show his power over us. Let the enemy who does sin to us also not exert his influence. With excellent sons, we shall recite in the sacrificial hall mature praises describing your qualities.
+
+**Printed English translation**
+
+Bird, you are ominous of good fortune, the proclaimer of good luck ; cry from the south of dwellings: may no thief, no evil-doer, prevail against us; that, blessed with excellent descendants, we may worthily praise you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the first half of this Ṛk the seer prays what was said in the preceding Ṛk, that is: being in the south of our houses, make an auspicious sound.
+
+नः स्तेनः मा ईशत (*naḥ stenaḥ mā īśata*)—let the thief not show his power over us; that is, may we not fall into the thief's hands; let the thief not exert his influence over us: this is the intent. On the word स्तेन (*stena*) Yāska—
+
+स्तेनः कस्मात् संस्क्यानमस्मिन् पापकमिति नैरुक्ताः । (*stenaḥ kasmāt saṃskyānamasmin pāpakamiti nairuktāḥ |*) (Ni. 3-19)
+
+What the word स्तेन (*stena*) means is: sin is gathered and filled in him. That is, to the heap of many kinds of sins, such as stealing, harming innocent people and taking away their property, the name संस्तान (*saṃstāna*) (collecting together in one place) is given. Since this heap of sins is in the thief, the thief is named स्तेन (*stena*): so the Nirukta authors say; this is the intent of the etymology indicated above.
+
+अघशंसः मा (ईशत)—अनर्थकानां शंसकोऽपि मा ईशिष्ट । (*aghaśaṃsaḥ mā (īśata)—anarthakānāṃ śaṃsako 'pi mā īśiṣṭa |*) The word अघशंस (*aghaśaṃsa*) is read also among the names of the thief (Ni. 3-19); it means a thief. Besides, on the word अघशंस (*aghaśaṃsa*) Yāska—
+
+अघस्य शंसितारं । अघं हंते निर्ह्रसितोपसर्ग आहंतीति । (*aghasya śaṃsitāraṃ | aghaṃ haṃte nirhrasitopasarga āhaṃtīti |*) (Ni. 6-11)
+
+—has also given the etymology. The word अघ (*agha*) is formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*), that is, from the root हन (*hana*) with the sense "injure, kill". The prefix आ (*ā*) is transposed and becomes the word अघ (*agha*). Therefore the word अघशंस (*aghaśaṃsa*) means one who says "kill", or one who causes harm. May such a harmful sinner not exert his influence over us; that is, may we not fall into the hands of such a wicked man: this is the intent.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative symbol consisting of two curved lines connected by four circular loops, resembling an infinity sign or Celtic knotwork." (an ornament), kept as a note.]*
+
+### Printed p. 484
+
+*[Running head, p. 484: Sāyaṇabhāṣyasahitā, Maṃ. 2, Ā. [as printed] 4, Sū. 43. This page was merged into p. 483 in the supplied text because of the misspelled running head; the page marker and heading were inserted by hand and p. 484 added to the window.]*
+
+*The forty-third sūkta.*
+
+## Sūkta 43 (Maṇḍala 2)
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रदक्षिणिदिति तृचमेकादशं सूक्तं गार्त्समदं जागतं । तथा चानुक्रांतं ।
+> प्रदक्षिणिज्जागतं मध्येऽतिशक्वर्यष्टिर्वेति । द्वितीयातिशक्वरी अष्टिर्वा । इतरे जगत्यौ ।
+> कपिंजलरूपींद्रो देवता । वयसाममनोज्ञां वाचं श्रुत्वा प्रदक्षिणिदिति सूक्तं
+> जपेत् । सूत्रं प्रागेवोदाहृतं ॥
+
+> *pradakṣiṇiditi tṛcamekādaśaṃ sūktaṃ gārtsamadaṃ jāgataṃ | tathā cānukrāṃtaṃ |*
+> *pradakṣiṇijjāgataṃ madhye 'tiśakvaryaṣṭirveti | dvitīyātiśakvarī aṣṭirvā | itare jagatyau |*
+> *kapiṃjalarūpīṃdro devatā | vayasāmamanojñāṃ vācaṃ śrutvā pradakṣiṇiditi sūktaṃ*
+> *japet | sūtraṃ prāgevodāhṛtaṃ ‖*
+
+**Anuvāda (Kannada).** This sūkta beginning प्रदक्षिणित् (*pradakṣiṇit*) is the eleventh sūkta in the fourth anuvāka. It has three Ṛks. Gṛtsamada is the seer of this sūkta; the metre is Jagatī. In the Anukramaṇikā it is said प्रदक्षिणिज्जागतं मध्येऽतिशक्वर्यष्टिर्वा (*pradakṣiṇijjāgataṃ madhye 'tiśakvaryaṣṭirvā*). The second Ṛk of this sūkta is in the metre called Atiśakvarī or Aṣṭi; the remaining two Ṛks are in the Jagatī metre. Indra in the form of the kapiñjala bird is the deity. As said for the preceding sūkta, if one hears the harsh cry of birds, this sūkta प्रदक्षिणित् (*pradakṣiṇit*) is to be repeated; its application has been stated before.
+
+**Sūkta 43** — Maṇḍala 2, Anuvāka 4, Sūkta 43; Aṣṭaka 2, Adhyāya 8, Varga 12. Number of ṛks in the sūkta: 3. Seer: Gṛtsamada. Deity: Indra in the form of the kapiñjala bird. Metre: 1, 3 Jagatī; 2 Atitakvarī (printed so; the Sanskrit introduction above has the form Atiśakvarī) or Aṣṭi.
+
 ---
 
-**Progress note:** Done through printed p. 480 (PDF 480). Sukta 42 Rik 1 printed English and Special Topics (pp. 478-479, kapinjala bird, Nirukta 9-4 etymology of mangala); Rik 2 Samhita, Pada, bhashya, Pratipadartha begun (p. 480), ends mid-sentence. Flags: Si. 3-18 printed; colon in reference list changed to semicolon in kn.md; ornament line kept as note; accent DIFF 1 and NOMATCH 1 in Rik 2 Samhita
+**Progress note:** Done through printed p. 484 (PDF 484). Sukta 42 Rik 2 and Rik 3 complete (pp. 481-483); Sukta 43 begins on p. 484 (merged into p. 483 text, marker inserted by hand): title, Sayana introduction, Anuvada and heading lines. Flags: p. 484 added to window; garbled Bhavartha label kept as note; Atitakvarya printed; stray line 31 and ornament line kept as notes
