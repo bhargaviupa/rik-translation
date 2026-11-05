@@ -14824,6 +14824,66 @@ Since the meaning of the first pāda is clear, the second and third pādas are e
 
 *[Stray line in the supplied text: "30", kept as a note in kn.md.]*
 
+### Printed p. 466
+
+*[Running head, p. 466: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+⟦ಅವೀರಹಾ ಪ್ರಚರಾ ಸೋಮ ದುರ್ಯಾನಿತಿ ಗೃಹಾ ವೈ ದುರ್ಯಾ ಬಿಭ್ಯತಿ ವೈ ಸೋಮಾದ್ರಾಜ್ಞ
+ಆಯತೋ ಯಜಮಾನಸ್ಯ ಗೃಹಾಃ ಸ ಯದೇತಾಮನ್ವಾಹ ಶಾಂತ್ಯೈವೈನಂ ತಚ್ಛಮಯತಿ
+ಸೋಽಸ್ಯ ಶಾಂತೋ ನ ಪ್ರಜಾಂ ನ ಪಶೂನ್ ಹಿನಸ್ತಿ ।⟧
+
+Now the meaning of the fourth pāda is explained: seeing this King Soma coming towards the sacrificer's house, the heroic men in the sacrificer's house are afraid, thinking that this god will be angry if there is any excess or deficiency in the service we do to this King Soma; so the heroes and others in the house become afraid. Then, to remove that fear, the Hotṛ recites the fourth pāda, containing the word अवीरहा (*avīrahā*), "this Soma deity is not a killer of heroes", and, speaking words of peace, pacifies King Soma. King Soma too, satisfied with those words of peace, does not harm the sacrificer's sons and others, his cows and his household.
+
+इमां धियं शिक्षमाणस्य देवेति वारुण्या परिदधाति । (*imāṃ dhiyaṃ śikṣamāṇasya deveti vāruṇyā paridadhāti |*)
+
+Now the Hotṛ recites the eighth Ṛk, इमां धियं (*imāṃ dhiyaṃ*), addressed to Varuṇa, and brings this rite called Somapravāhaṇa to its completion.
+
+⟦ಇಮಾಂ ಧಿಯಂ ಶಿಕ್ಷಮಾಣಸ್ಯ ದೇವ ಕ್ರತುಂ ದಕ್ಷಂ ವರುಣ ಸಂಶಿಶಾಧಿ ।
+ಯಯಾತಿ ವಿಶ್ವಾ ದುರಿತಾ ತರೇಮ ಸುತರ್ಮಾಣಮಧಿ ನಾವಂ ರುಹೇಮ ॥⟧
+(Ma. [printed ಮ., for Ṛ.] Saṃ. 8-42-3)
+
+This Ṛk too is in the Ṛgveda Saṃhitā itself. The main intent of this Ṛk is: O god Varuṇa, instruct well this sacrificer, who is devoted to the intention directed at the performance of this sacrifice (that is, who wishes to perform the sacrifice in the prescribed manner), in power, skill and knowledge relating to the sacrifice. May we board the boat of your instruction, in the form of speech, and cross and escape all misfortunes and sins.
+
+⟦ವರುಣದೇವತ್ಯೋ ವಾ ಏಷ ತಾವದ್ಯಾವದುಪನದ್ಧೋ ಯಾವತ್ಪರಿಶ್ರಿತಾನಿ ಪ್ರಪದ್ಯತೇ
+ಸ್ವಯೈವೈನಂ ತದ್ದೇವತಯಾ ಸ್ವೇನ ಛಂದಸಾ ಸಮರ್ಧಯತಿ ।⟧
+
+Why a Ṛk addressed to Varuṇa should be recited to end this Somapravāhaṇa rite, the reason is stated. The soma that was sold and brought was till now tied with bonds such as rope, covered with cloths and the like, and brought to places such as the Prācīnavaṃśa. A bond tied round any object, or a cover of cloth and the like thrown over it, is subject to the noose of the god Varuṇa. By the rule that, to undo it, a Ṛk beseeching Varuṇa must be recited, the Hotṛ recites the mantra addressed to Varuṇa. Formerly, when Soma
+
+### Printed p. 467
+
+*[Running head, p. 467: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+was besought, he was praised with Ṛks in the Gāyatrī metre, dear or proper to Soma. Now this mantra addressed to Varuṇa, with which he is praised at the time of the completion of this rite, is in the Triṣṭubh metre. That too is Soma's own metre. How? On this matter there is an ancient story. Formerly soma was in the world of the gods. The gods thought it should be brought to earth, and, considering who was able to bring it, it was decided that the metres such as Gāyatrī were capable of bringing soma.
+
+⟦ಜಗತ್ಯುದಪತಚ್ಚತುರ್ದಶಾಕ್ಷರಾ ಸತೀ ಸಾಪ್ರಾಪ್ಯ ನ್ಯವರ್ತತ ತಸ್ಯೈ ದ್ವೇ ಅಕ್ಷರೇ ಅಮೀಯೇ-
+ತಾಗ್ಂ ಸಾ ಪಶುಭಿಶ್ಚ ದೀಕ್ಷಯಾ ಚಾಗಚ್ಛತ್ತಸ್ಮಾಜ್ಜಗತೀ ಛಂದಸಾಂ ಪಶವ್ಯತಮಾ ತಸ್ಮಾ-
+ತ್ಪಶುಮಂತಂ ದೀಕ್ಷೋಪನಮತಿ ತ್ರಿಷ್ಟುಗುದಪತತ್ರಯೋದಶಾಕ್ಷರಾ ಸತೀ ಸಾಪ್ರಾಪ್ಯ
+ನ್ಯವರ್ತತ ತಸ್ಯೈ ದ್ವೇ ಅಕ್ಷರೇ.ಅಮೀಯೇತಾಗ್ಂ ಸಾ ದಕ್ಷಿಣಾಭಿಶ್ಚ ತಪಸಾ ಜಾಗಚ್ಛತ್ತ-
+ಸ್ಮಾತ್ರಿಷ್ಟುಭೋ ಲೋಕೇ ಮಾಧ್ಯಂದಿನೇ ಸವನೇ ದಕ್ಷಿಣಾ ನೀಯಂತ ಏತತ್ಖಲು ವಾವ ತಪ
+ಇತ್ಯಾಹುರ್ಯಃ ಸ್ವಂ ದದಾತೀತಿ ಗಾಯತ್ಯುದಪತಚ್ಚತುರಕ್ಷರಾ ಸತ್ಯಜಯಾ ಜ್ಯೋತಿಷಾ
+ತಮಸ್ಯಾ ಅಜಾಭ್ಯರುಂಧತ ತದಜಾಯಾ ಅಜತ್ವಗ್ಂ ಸಾ ಸೋಮಂ ಚಾಹರಚ್ಚತ್ವಾರಿ
+ಚಾಕ್ಷರಾಣಿ ಸಾಷ್ಟಾಕ್ಷರಾ ಸಮಪದ್ಯತ ಬ್ರಹ್ಮವಾದಿನೋ ವದಂತಿ ಕಸ್ಮಾತ್ಸತ್ಯಾದ್ದಾಯತ್ರೀ
+ಕನಿಷ್ಠಾ ಛಂದಸಾಗ್ಂ ಸತೀ ಯಜ್ಞಮುಖಂ ಪರೀಯಾಯೇತಿ ಯದೇವಾದಃ
+ಸೋಮಮಾಹರತ್ತಸ್ಮಾದ್ಯಜ್ಞಮುಖಂ ಪರ್ಯೈತ್ತಸ್ಮಾತ್ತೇಜಸ್ವಿನೀತಮಾ ಪದ್ಭ್ಯಾಂ ದ್ವೇ
+ಸವನೇ ಸಮಗೃಹ್ಣಾನ್ಮುಖೇನೈಕಂ ಯನ್ಮುಖೇನ ಸಮಗೃಹ್ಣಾತ್ತದಧಯತ್ತಸ್ಮಾದ್ವೇ
+ಸವನೇ ಶುಕ್ರವತೀ ಪ್ರಾತಃಸವನಂ ಚ ಮಾಧ್ಯದಿನಂ ಚ ತಸ್ಮಾತ್ತೃತೀಯಸವನಮೃಜೇಷ-
+ಮಭಿಷುಣ್ವಂತಿ ಧೀತಮಿವ ಹಿ ಮನ್ಯಂತೇ ಆಶಿರಮವನಯತಿ ಸಶುಕ್ರತ್ವಾಯಾಥೋ
+ಸಂಭರತ್ಯೇವೈನತ್ ।⟧
+(Tai. Saṃ. 6-1-6-2, 3, 4, 5)
+
+At that time the Jagatī metre first set out, saying that it would bring soma, and leapt into the atmosphere. At that time each pāda of the Jagatī metre had fourteen syllables. But unable to bring the soma, it grew weary and came back exhausted. Then it lost two syllables of the fourteen. But on returning it brought with it the sacrificial animals there and the order of consecration (the rule of undertaking consecration in a sacrifice). Therefore the Jagatī metre became known in the world as the one with many animals; and consecration follows the sacrificer who has the wealth of animals. Next the Triṣṭubh metre set out, saying that it would bring soma, and leapt into the atmosphere. At that time each pāda of the Triṣṭubh metre had thirteen syllables. The Triṣṭubh too, unable to bring the soma, wearied and exhausted, lost two syllables of its thirteen and
+
+### Printed p. 468
+
+*[Running head, p. 468: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+returned. On returning it brought with it the sacrificial fee and austerity. Therefore, when a sacrifice is performed, fees are brought and given at the midday pressing (to the priest). Giving away what one has is said to be austerity. Next the Gāyatrī metre set out, saying that it would bring soma, and flew into the atmosphere in the form of a hawk. At that time the Gāyatrī metre had four syllables to each pāda. On setting out Gāyatrī took with her, for help, a radiant female goat. This goat helped Gāyatrī in bringing the soma. Therefore the name अजा (*ajā*) became famous for the goat. Then Gāyatrī brought back the soma that was in heaven and the four syllables which the Jagatī and Triṣṭubh metres had lost. The four syllables she brought back together with the four she had before came to eight syllables to each pāda of Gāyatrī (the Jagatī metre became twelve syllables and the Triṣṭubh metre 11 syllables). As the Brahma-expounders say, a doubt arises here: though the Gāyatrī metre is much smaller than all the other metres, how did it gain prominence in the sacrifice? The answer is: this Gāyatrī brought the soma; therefore Gāyatrī has precedence in sacrificial rites, and it also shines with great brilliance. When this Gāyatrī brought soma from heaven, taking the form of a hawk, she held with her two feet (of the three pādas of eight syllables of Gāyatrī, two are called feet and the third the mouth) the two pressings called the morning pressing and the midday pressing, and brought the third, the third pressing, gripping it with her mouth (beak). Since the morning and midday pressings held in the feet underwent no change, in those two pressings the soma plants are crushed and the bright, pure juice is pressed out. But since it is thought that, when the third pressing was brought with the beak, she bit the soma plant a little and pressed out and drank the juice, at the time of the third pressing fresh soma plants are not used; the juice is pressed once in the morning and midday pressings, and then from the husk-like crushed plants (ऋजीष (*ṛjīṣa*)) the remaining juice is pressed out again once more. Since the juice so extracted is not abundant, *āśira* substances (milk, curds, flour) are added to it to make it fit for drinking.
+
+As stated in this story, the Triṣṭubh metre also tried to bring soma from heaven. Therefore here the Triṣṭubh metre, too, is said to be Soma's own.
+
+⟦ಶಿಕ್ಷಮಾಣಸ್ಯ ದೇವೇತಿ ಶಿಕ್ಷತೇ ನಾ ಏಷ ಯೋ ಯಜತೇ ಕ್ರತುಂ ದಕ್ಷಂ ವರುಣ ಸಂಶಿಶಾಧೀತಿ
+ವೀರ್ಯಂ ಪ್ರಜ್ಞಾನಂ ವರುಣ ಸಂಶಿಶಾಧೀತ್ಯೇವ ತದಾಹ ।⟧
+
 ---
 
-**Progress note:** Done through printed p. 465 (PDF 465). Sukta 41 Rik 19 Somapravahana rite (pp. 463-465): remaining pada explanations of the Ma. Sam. 10-72-10 verse, sixth Rik 4-53-7 and seventh Rik 1-91-4 with Brahmana comments; section may continue. Flags: Mi. Sam. for Ri. Sam. 1-91-4 and 'ya se dhamani' as supplied; stray line 30 kept as note
+**Progress note:** Done through printed p. 468 (PDF 468). Sukta 41 Rik 19 Somapravahana rite finished (pp. 466-468): fourth pada, eighth Rik 8-42-3 to Varuna, Tai. Sam. 6-1-6 myth of Jagati, Tristubh, Gayatri bringing soma; last quoted lines are the explanation of Siksamanasya. Flags: Ma. Sam. for Ri. Sam. 8-42-3, iditypcche spelling as supplied; hyphenated breaks inside ⟦⟧ quotes retained
