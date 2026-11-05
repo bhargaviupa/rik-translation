@@ -2374,6 +2374,83 @@ Gist: in the Agnicayana dīkṣaṇīyā, "dhārayanta" etc. are two yājyā-anu
 
 The Ādityas, who establish and uphold the moving beings and the fixed things, who are possessed of generosity and other qualities, protectors of the whole world, of far-reaching understanding, guarding the water residing in the clouds [text of the page ends here; the sentence continues in the next window]
 
+### Printed p. 77
+
+(Bhāvārtha of Ṛk 4, continued) …who collect it and guard it at the proper time, truthful, and discharging the debts that the praisers owe to others — may such Ādityas favour us.
+
+**Printed English translation**
+
+The divine Adityas are the upholders (of all things). moveable or immoveble [sic]; the protectors of the universe: the provident in acts; the collectors of rain; the possessors of veracity; the acquitters of our debts.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the dīkṣaṇīyā rite when the Agnicayana is performed, in the Āditya offering, the Ṛk "dhārayanta ādityāsaḥ" धारयंत आदित्यासः (*dhārayaṃta ādityāsaḥ*) and the Ṛk following it are to be used as the yājyā and puro'nuvākyā mantras; and these Ṛks are also applied to the Āditya deities qualified as "bhuvadvat" and "bhuvanapati". This is concluded from the Āśvalāyana Śrauta Sūtra, in the section beginning "tathā ca dīkṣaṇīyāyām", by the sūtra "dhārayanta ādityāso jagatsthā iti dve ete eva bhuvadvadbhyo bhuvanapatibhyo vā" धारयंत आदित्यासो जगत्सा इति द्वे एते एव भुवद्वद्भ्यो भुवनपतिभ्यो वा (*dhārayaṃta ādityāso jagatsā iti dve ete eva bhuvadvadbhyo bhuvanapatibhyo vā*) (Āś. 4-2 as printed).
+
+जगत् स्थाःधारयंत— स्थावरं जंगमं च उभयविधं भूतजातं अवस्थापयंतः (*jagat sthāḥdhārayaṃta— sthāvaraṃ jaṃgamaṃ ca ubhayavidhaṃ bhūtajātaṃ avasthāpayaṃtaḥ*): it is described that the Ādityas have placed the two kinds of beings — the fixed, in the form of trees, creepers and so on, and the moving, in the form of animals, beasts, birds, men and the rest — each in accordance with its fitness; and the Ādityas are explained as देवाः—दानादिगुणयुक्ताः (*devāḥ—dānādiguṇayuktāḥ*), those endowed with qualities such as generosity.
+
+दीर्घाधियः—धीर्घाणि धियः कर्माणि ज्ञानानि ना येषां (*dīrghādhiyaḥ—dhīrghāṇi dhiyaḥ karmāṇi jñānāni nā yeṣāṃ*): the Ādityas are described as those who perform abundant acts and are possessed of powerful knowledge.
+
+असुरं रक्षमाणाः— असवः प्राणाः । तेन च तद्धेतुभूताः आपः लक्ष्यंते । असुमुदकं ददातीत्यसुरो मेघः । तत्र भवं मेघांतर्वतिनमुदकं तत्तत्काले वृष्ट्यत्पादनाय रक्षंतः (*asuraṃ rakṣamāṇāḥ— asavaḥ prāṇāḥ | tena ca taddhetubhūtāḥ āpaḥ lakṣyaṃte | asumudakaṃ dadātītyasuro meghaḥ | tatra bhavaṃ meghāṃtarvatinamudakaṃ tattatkāle vṛṣṭyatpādanāya rakṣaṃtaḥ*): here the meaning of the word *asu* is given as breath (life); from this the waters, which are the cause of breath, are meant. Because clouds give water to the earth, they are denoted by the word *asura*. It is described that the Ādityas guard, in the proper seasons, the water in the clouds so as to give it to the earth in the form of rain. And, अपां तद्देतुत्वं च आपोमयः प्राणः (*apāṃ taddetutvaṃ ca āpomayaḥ prāṇaḥ*) (Chāṃ. U. 6-5-4): explaining that the waters are the cause of breath, a sentence of the Chāndogya Upaniṣad is also cited.
+
+ऋतावानः—सत्यवंतो यज्ञवंतो वा (*ṛtāvānaḥ—satyavaṃto yajñavaṃto vā*): the Ādityas are those who act by truth alone, or who perform sacrifice; ऋणानि चायमानाः—स्तोतृभिः अन्येभ्यः (*ṛṇāni cāyamānāḥ—stotṛbhiḥ anyebhyaḥ*) [the text of the page ends here; the sentence continues on p. 78]
+
+### Printed p. 78
+
+(Special Topics of Ṛk 4, continued) प्रदेयानि अपगमयंतः (*pradeyāni apagamayaṃtaḥ*) — it is described that the priests who praise them will have the debts they owe to others discharged.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> वि॒द्यामा॑दित्या॒ अव॑सो वो अ॒स्य यद॑र्यमन्भ॒य आ चि॑न्मयो॒भु ।
+> यु॒ष्माकं॑ मित्रावरुणा॒ प्रणी॑तौ॒ परि॒ श्वभ्रे॑व दुरि॒तानि॑ वृज्यां ॥
+
+**॥ पदपाठः ॥**
+
+> विद्यां । आदित्याः । अवसः । वः । अस्य । यत् । अर्यमन् । भये । आ । चित् ।
+> मयःभु ।
+> युष्माकं । मित्रावरुणा । प्रनीत् । परि । श्वभ्रा इव । दुःइतानि । वृज्यां ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे आदित्याः अदितेः पुत्रा वो युष्माकमस्यावसः ॥ कर्मणि षष्ठी ॥
+> इदं रक्षणं विद्यां । लभेय । भये राक्षसादिभ्य अगते सति यद्युष्मदीयं रक्षणं ।
+> चिच्छब्दश्चार्थे । मयोभु मयसः सुखस्य भावयित्रु च तदितं लभेयेत्यन्वयः ।
+> हे अर्यमन् हे मित्रावरुणा युष्माकं प्रणीतावस्मद्विषये प्रकृष्टे नयने सति
+> श्वभ्रेव श्वभ्राणीव स्थातुमयोग्यानि गर्तवंति स्थलानीव दुरितानि पापानि परिवृज्यां ।
+> परित्यजेयं ॥ वृजी वर्जने । बहुलं छंदसीति विकरणस्य लुक् ॥ ६ ॥
+
+> *he ādityāḥ aditeḥ putrā vo yuṣmākamasyāvasaḥ ‖ karmaṇi ṣaṣṭhī ‖*
+> *idaṃ rakṣaṇaṃ vidyāṃ | labheya | bhaye rākṣasādibhya agate sati yadyuṣmadīyaṃ rakṣaṇaṃ |*
+> *cicchabdaścārthe | mayobhu mayasaḥ sukhasya bhāvayitru ca taditaṃ labheyetyanvayaḥ |*
+> *he aryaman he mitrāvaruṇā yuṣmākaṃ praṇītāvasmadviṣaye prakṛṣṭe nayane sati*
+> *śvabhreva śvabhrāṇīva sthātumayogyāni gartavaṃti sthalānīva duritāni pāpāni parivṛjyāṃ |*
+> *parityajeyaṃ ‖ vṛjī varjane | bahulaṃ chaṃdasīti vikaraṇasya luk ‖ 6 ‖*
+
+Gist: the Ādityas, sons of Aditi, are asked for the protection that brings happiness in time of fear from Rākṣasas etc.; under Aryaman's and Mitra-Varuṇa's guidance may I avoid sins as one avoids pits.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ādityas: O Ādityas. Which protection of yours, when fear has come (from Rākṣasas etc.), removes that fear and produces happiness, that protection of yours — may I obtain it. Aryaman: O Aryaman. Mitra-Varuṇa: O Mitra and Varuṇa. When your excellent guidance exists, may I cross over sins [दुरिशानि (*duriśāni*) [?], as supplied] as one crosses a dangerous pit.
+
+### Printed p. 79
+
+**भावार्थ (Bhāvārtha)**
+
+O Ādityas, may we obtain that protection of yours which, even when fear has come from Rākṣasas and others, removes that fear and brings happiness. O Aryaman [अरम (*arama*) [?], as supplied] and Mitra-Varuṇa, under your excellent guidance may I cross over sins as one crosses a dangerous pit.
+
+**Printed English translation**
+
+May I be conscious, Adityas, of this your protection, the cause of happiness (and security) in danger; Aryaman. Mitra, and Varuna, May I, through your guidance, escape the sins which are like pitfalls (in my path).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the sacrificer prays for two kinds of protection performed by the Ādityas. First, वः अस्य अवसः विद्यां लभेय (*vaḥ asya avasaḥ vidyāṃ labheya*): may the protection given by the Ādityas be knowledge-giving. And भये मयोभु—भये राक्षसादिभ्य आगते सति सुखस्य च भावयितृ (*bhaye mayobhu—bhaye rākṣasādibhya āgate sati sukhasya ca bhāvayitṛ*): when fear caused by Rākṣasas and the like has come upon the sacrificer, may the protection given by the Ādityas produce happiness. This is the second wish described.
+
+Addressing Aryaman and Mitra-Varuṇa: युष्माकं प्रणीतौ श्वभ्रे दुरिशानि [?] परिवृज्यां—युष्माकं प्रकृष्णनयने सति स्थातुमयोग्यानि गर्तवंति स्कूलानीव पापानि परित्यजेयं (*yuṣmākaṃ praṇītau śvabhre duriśāni [?] parivṛjyāṃ—yuṣmākaṃ prakṛṣṇanayane sati sthātumayogyāni gartavaṃti skūlānīva pāpāni parityajeyaṃ*): the wish is expressed that, while these two protect the sacrificer, he may reach the state of getting rid of the abundant sins which bring misfortune, as one falls into big pits and has no chance to stand firm. A comparison of sins with deep pits is stated, and it is explained that protection from them is of the nature of release.
+
+The word मयोभु (*mayobhu*) is used in the sense "producer of happiness" (सुखस्य भावयितृ (*sukhasya bhāvayitṛ*)), since Yāska has stated मयः (*mayaḥ*) among the words for happiness (Ni. 3-13).
+
 ---
 
-**Progress note:** Done through printed p. 76 (PDF 76). Sūkta 27 Ṛk 3 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, pp. 74-75); Ṛk 4 Saṃhitā (p. 75), Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (cut at end of p. 76). No hand fixes to kn.md. Supplied slips left: Ṛk 4 Saṃhitā ಜಗತ್ಸಾಥ and ಅಸುರ್ಯಮೃತಾನಾಶ್ಚರ್ಯಮಾನಾ (Pada has ಸ್ಥಾಃ, ಋತವಾನಃ ಚಯಮಾನಾಃ), Ṛk 3 Pratipadārtha ಅದಬ್ಬಾಸಃ/ದಿಪ್ಪಂತಃ/ಭೂರ್ರಕ್ಷಾಃ vs Pada ಅದಬ್ಧಾಸಃ/ದಿಪ್ಸನ್ತಃ/ಭೂರಿ ಅಕ್ಷಾಃ; running head says Maṃ. 2 A. 3 Sū. 27
+**Progress note:** Done through printed p. 79 (PDF 79). Sūkta 27 Ṛk 4 finished (Bhāvārtha, printed English, Special Topics, pp. 77-78); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics complete (pp. 78-79). Hand fixes to kn.md: removed software 'no text' line; Pada of Ṛk 5 continued after the page-78 break joined into one block; Pratipadārtha split out of the bhāṣya block. [?]: ದುರಿಶಾನಿ (Pratipadārtha, Special Topics; Saṃhitā has ದುರಿತಾನಿ), ಅರಮ in Bhāvārtha (for Aryaman); Pada ends ೫ but bhāṣya ends ೬ as supplied; other supplied slips left (ರಕ್ಷನಾದಿ, ಪ್ರಕೃಷ್ಣನಯನೇ, ಸ್ಕೂಲಾನೀವ, ಪ್ರನೀತ್, Saṃhitā ಜಗತ್ಸಾ in p. 77 sūtra quotation)
