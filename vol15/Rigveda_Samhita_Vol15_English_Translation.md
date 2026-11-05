@@ -8005,6 +8005,139 @@ The word वरूथ (*varūtha*) is mentioned by Yāska among the names of hou
 > *arvācī | sā | marutaḥ | yā | vaḥ | ūtiḥ | o iti | su | vāśrāiva | sumatiḥ |*
 > *jigātu ‖ 15 ‖*
 
+### Printed p. 257
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 21, p. 257.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतो ययोत्या रध्रमाराधकं यजमानमंहः पापमति पारयथ।
+> अतिक्रमयथ । ययोत्या वंदितारं स्तोतारं निदो निंदितुः शत्रोः सकाशान्मुं-
+> चथ । मोचयथ । हे मरुतो वो युष्मदीया योतिः सर्वाच्यस्मदभिमुखा
+> भवतु । तथा सुमतिर्युष्मदीया शोभना मतिरनुग्रहात्मिका बुद्धिश्च वाश्रेव
+> हंभारवं कुर्वती धेनुरिव वत्सं सुष्टु ओ जिगातु । एवं गच्छतु । आस्मान् प्रति
+> सर्वथागच्छत्व्यर्थः ॥
+
+> *he maruto yayotyā radhramārādhakaṃ yajamānamaṃhaḥ pāpamati pārayatha|*
+> *atikramayatha | yayotyā vaṃditāraṃ stotāraṃ nido niṃdituḥ śatroḥ sakāśānmuṃ-*
+> *catha | mocayatha | he maruto vo yuṣmadīyā yotiḥ sarvācyasmadabhimukhā*
+> *bhavatu | tathā sumatiryuṣmadīyā śobhanā matiranugrahātmikā buddhiśca vāśreva*
+> *haṃbhāravaṃ kurvatī dhenuriva vatsaṃ suṣṭu o jigātu | evaṃ gacchatu | āsmān prati*
+> *sarvathāgacchatvyarthaḥ ‖*
+
+Gist: O Maruts, may the protection by which you carry the worshipper over sin and free the praiser from the reviler, and your gracious thought, like a cow lowing to her calf, come towards us.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Marutaḥ—O Maruts; yayā—by which protection; radhram—the worshipping sacrificer; aṃhaḥ—from sin; ati pārayatha—you carried over; yayā—by which protection; vaṃditāram—the devotee who praises you; nidaḥ—from the reviling enemy; muṃcatha—you released; vaḥ—your; yā ūtiḥ—that well-known protection which is yours; sā—that; arvācī—may it be turned towards us; vāśreva—as a cow, making her sound of affection, goes to and joins her calf; sumatiḥ—your gracious thought also; su—exceedingly; o jigātu—may it come towards us.
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts, by whatever protection you carried the worshipping sacrificer across sin, and by whatever protection you freed the devotee who praises you from the reviling enemy, may that same protection be turned towards us also. As a cow, making her sound of affection, goes to her calf, may your gracious thought also spread exceedingly towards us.
+
+**English Translation (as printed)**
+
+Maruts, may that protection wherewith you convey the worshipper beyond sin, wherewith you rescue thc [sic] reciter of your praise from the scoffer, be present with us: may your benign disposition tend towards us, like a loving (cow towards her calf).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> यया ऊत्या रध्रं अंहतः अति पारयथ, वंदितारं निदः मुंचथ वः सा
+> आर्वाची—अराधकं यजमानं पापमतिक्रमयथ स्तोतारं निंदितुः शत्पोः
+> सकाशात् मोचयथ युष्मदीया सा ऊतिः अस्मदभिमुखा भवतु ।
+
+> *yayā ūtyā radhraṃ aṃhataḥ ati pārayatha, vaṃditāraṃ nidaḥ muṃcatha vaḥ sā*
+> *ārvācī—arādhakaṃ yajamānaṃ pāpamatikramayatha stotāraṃ niṃdituḥ śatpoḥ*
+> *sakāśāt mocayatha yuṣmadīyā sā ūtiḥ asmadabhimukhā bhavatu |*
+
+Explained thus: the Maruts carry the worshipping sacrificer across sins; they free the praiser from the reviling enemy; may that protection of yours be turned towards us. The Marut deities are said to possess a manner of protection that carries across sins the sacrificer who serves them, and
+
+### Printed p. 258
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 35, p. 258.*
+
+that destroys the enemies who revile and injure those who praise them, and protects the latter. So the power of protection belonging to the Maruts is to be turned towards the sacrificers; thus the sacrificers' prayer is described.
+
+> सुमतिः वाश्रेव सुष्टु ओजिगातु - युष्मदीया शोभना मतिः अनुग्रहात्मिका
+> बुद्धिश्च हंभारवं कुर्वती धेनुरिव वत्समिव गच्छतु
+
+> *sumatiḥ vāśreva suṣṭu ojigātu - yuṣmadīyā śobhanā matiḥ anugrahātmikā*
+> *buddhiśca haṃbhāravaṃ kurvatī dhenuriva vatsamiva gacchatu*
+
+The thought of the Marut deities, which protects others or bestows favour, is to be well disposed towards us sacrificers, as a milch cow approaches her calf with a lowing sound. So it is prayed.
+
+*The varga-end mark that follows (a number between tildes) is garbled in the supplied text and is not read.*
+
+## Sūkta 35 (Maṇḍala 2)
+
+*The thirty-fifth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> उपेमिति पंचदशर्चं तृतीयं सूक्तं गार्त्समदं त्रैष्टुभमपांनपाद्दे-
+> वताकं । > तथा चानुक्रांतं । उपेमपोनप्रीयमिति ॥ सूक्तविनियोगो लैंगिकः ॥
+
+*Gist:* the third sūkta of the fourth anuvāka, of fifteen ṛks, of the Gārtsamada seer, in *triṣṭubh*, for Apāṃ Napāt; the Anukramaṇī is quoted; the use of the sūkta is by the Liṅga (indication).
+
+**Anuvāda (Kannada).** This sūkta beginning उपेमसृक्षि (*upemasṛkṣi*) [as supplied] is the third sūkta in the fourth anuvāka. It has fifteen ṛks. Gṛtsamada is the seer; Apāṃ Napāt is the deity; the metre is *triṣṭubh*. The Anukramaṇikā says: उपेमपोनप्रीयमिति (*upemaponaprīyamiti*) [as supplied]. The use (viniyoga) is *laiṅgika* (by indication).
+
+**Sūkta 35** — Maṇḍala 2, Anuvāka 4, Sūkta 35; Aṣṭaka 2, Adhyāya 7, Vargas 22, 23, 24. Number of ṛks in the sūkta: 15. Seer: Gṛtsamada (the label is printed as "यमः" for ऋषिः). Deity: Apāṃ Napāt (printed "अपांसपात्" [sic]). Metre: *triṣṭubh*.
+
+### Printed p. 259
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 22, p. 259.*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> उपे॑मसृक्षि वाज॒युर्व॑च॒स्यां चनो॑ दधीत ना॒द्यो गिरो॑ मे ।
+> अ॒पां नपा॑दाशु॒हेमा॑ कु॒वित्स सु॒पेश॑सस्करति॒ जोषि॑ष॒द्धि ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> उप । ईं । अस्पृक्षि । वाजयुः । वचस्यां । चनः । दधीत । नाद्यः । गिरिः । मे ।
+> अपां । नपात् । आशुहेमा । कुवित् । सः । सुपेशसः । करति । जोषिषत् । हि ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वाजयुर्वाजमन्नमात्मन इच्छन्न हमीमेनां वचस्यां वचसः स्तोत्रस्ये-
+> च्छामुपासृक्षि । उपासृजामि । उत्पादयामि । अपां नपातं स्तोतुं प्रवृत्तोS-
+> स्मीत्यर्थः ॥ सृजेश्कांदसो लुज् । लिज् सिचावात्मनेपदेष्टिति सिचः कित्ताद्गुणाभावः॥
+> स च नाद्यो नदीनां शब्दकारिणीनां मेघस्थानामपां संबंधी आशुहेमा आशु
+> शीघ्रं गंता ॥ हि गतावित्यस्मादन्येभ्योSपि दृश्यंत इति मनिन् ॥ एवंभूतोSपां
+> नपात् अपां पौत्रस्थानीयः । अद्भ्य ओषधिवनस्पतयो जायंते ओषधिवनस्पतिभ्य
+> एषोSग्निर्जायत इति तत्पौत्रत्वं । एतत्संज्ञको देवो गिरः । गृणातीति गीः स्तोता।
+> तस्य मे मम कुवित् । बहुनामैतत् । बहुलं चनोSन्नं दधीत । दधातु ।
+> विदधातु । प्रयच्छृत्वित्यर्थः । अपि चास्मान् सुपेशसः शोभनरूपान् शोभनालंका-
+> रान्वा करति । करोतु ॥ करोतेर्व्यत्ययेन शप् । कःकरत्करतिकृधिकृतेष्वनदितेः ।
+> सा. ८-३-५०. । इति विसर्जनीयस्य सत्वं ॥ हि यस्मादयं देवो जोषिषत् ।
+> स्तोत्राणि सेवते तस्मादस्मानेवमनुगृह्णात्वत्यर्थः ॥ जुषी प्रीतिसेवनयोः ।
+> लेट्यडागमः । विकरणः सिप् । इडागमश्च । हि चेति निघातप्रतिषेधः ॥
+
+> *vājayurvājamannamātmana icchanna hamīmenāṃ vacasyāṃ vacasaḥ stotrasye-*
+> *cchāmupāsṛkṣi | upāsṛjāmi | utpādayāmi | apāṃ napātaṃ stotuṃ pravṛttoS-*
+> *smītyarthaḥ ‖ sṛjeśkāṃdaso luj | lij sicāvātmanepadeṣṭiti sicaḥ kittādguṇābhāvaḥ‖*
+> *sa ca nādyo nadīnāṃ śabdakāriṇīnāṃ meghasthānāmapāṃ saṃbaṃdhī āśuhemā āśu*
+> *śīghraṃ gaṃtā ‖ hi gatāvityasmādanyebhyoSpi dṛśyaṃta iti manin ‖ evaṃbhūtoSpāṃ*
+> *napāt apāṃ pautrasthānīyaḥ | adbhya oṣadhivanaspatayo jāyaṃte oṣadhivanaspatibhya*
+> *eṣoSgnirjāyata iti tatpautratvaṃ | etatsaṃjñako devo giraḥ | gṛṇātīti gīḥ stotā|*
+> *tasya me mama kuvit | bahunāmaitat | bahulaṃ canoSnnaṃ dadhīta | dadhātu |*
+> *vidadhātu | prayacchṛtvityarthaḥ | api cāsmān supeśasaḥ śobhanarūpān śobhanālaṃkā-*
+> *rānvā karati | karotu ‖ karotervyatyayena śap | kaḥkaratkaratikṛdhikṛteṣvanaditeḥ |*
+> *sā. 8-3-50. | iti visarjanīyasya satvaṃ ‖ hi yasmādayaṃ devo joṣiṣat |*
+> *stotrāṇi sevate tasmādasmānevamanugṛhṇātvatyarthaḥ ‖ juṣī prītisevanayoḥ |*
+> *leṭyaḍāgamaḥ | vikaraṇaḥ sip | iḍāgamaśca | hi ceti nighātapratiṣedhaḥ ‖*
+
+Gist: wishing for food, I produce this praise for Apāṃ Napāt (Agni, the grandson of the waters), who hears praises; may he give me abundant food and make us well-formed.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vājayuḥ—I, who desire food; īṃ vacasyām—this praise; upa asṛkṣi—I produce [as supplied: "ನಿರ್ಮಿಸುತ್ತೇನೆ"]; hi—because; saḥ—Agni (Agni in the form of Apāṃ Napāt); joṣiṣat—enjoys the praises; nādyaḥ—belonging to the sounding waters of the clouds; āśuhemā—swift-moving; apāṃ napāt—the one who is the grandson of the waters, that Agni; giraḥ—of the praiser; me—to me; kuvit—abundantly [as supplied: "ಪ್ರಭೂತವಾಗ", the final letter apparently lost]; canaḥ—food; dadhīta—may he provide; supeśaḥ—having a beautiful form; karati—may he make (us).
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, famous as Apāṃ Napāt, enjoys praise with affection. Therefore I, desiring food, produce this praise. He who belongs to the sounding waters,
+
 ---
 
-**Progress note:** Done through printed p. 256 (PDF 256). Sūkta 34 Ṛk 14 complete (pp. 254-256) with Special Topics; Ṛk 15 Saṃhitā and Pada begin; kn.md fixes: garbled Pratipadārtha label replaced and un-quoted, Special Topics Sanskrit made blocks; accent script reported 2 unmatched lines; no [?]
+**Progress note:** Done through printed p. 259 (PDF 259). Sūkta 34 Ṛk 15 bhāṣya to Special Topics complete; Sūkta 35 begins, Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (ends mid-sentence at p. 259); kn.md fixes: labels, Pratipadārtha/Bhāvārtha un-quoted, Special Topics Sanskrit blocks, stray '17' removed, garbled varga mark kept as italic note, Pada label restored; no [?]
