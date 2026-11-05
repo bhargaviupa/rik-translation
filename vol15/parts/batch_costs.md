@@ -8,3 +8,4 @@ pp.21-23 | sonnet | n/a
 pp.24-26 | sonnet | n/a
 pp.27-30 | sonnet | n/a
 pp.31-33 | sonnet | n/a
+pp.34-36 | sonnet | n/a
