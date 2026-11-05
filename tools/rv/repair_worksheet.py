@@ -29,7 +29,7 @@ def page_marks(lines):
     return res
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument('--md'); ap.add_argument('--html'); ap.add_argument('--first-line',type=int); ap.add_argument('--last-line',type=int); ap.add_argument('--out'); a=ap.parse_args()
-    L=open(a.md,encoding='utf8').read().split('\n'); pm=page_marks(L); P=html_pages.pages(a.html); out=[]
+    L=open(a.md,encoding='utf8').read().split('\n'); pm=page_marks(L); P=html_pages.load(a.html); out=[]
     cache={}
     def refs(p):
         if p not in cache: cache[p]=html_refs(P.get(p,''))

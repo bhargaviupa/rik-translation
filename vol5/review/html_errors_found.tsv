@@ -5,3 +5,4 @@ html_page	what_the_HTML_has	what_the_scan_shows	note
 1	two lines: ...ವೇದಾದ್ವಾಯಿ ಸದಾಶಿವಃ and ...ವೇದಾಧ್ಯಾಯೀ ಸದಾಶಿವಃ	one line (ವೇದಾಧ್ಯಾಯೀ)	a garbled duplicate line
 80	ಪೂಜನೀಯೇ ಪೋಷೋದೇವತೇ	ಪೂಜನೀಯೇ ವೋಷೋದೇವತೇ	ವೋ->ಪೋ
 79	ವಾ. ೨೨೯೪ (after ೩-೩-೮)	ವಾ. ೨೯೪ (as I read it at 250 dpi; unresolved)	possibly an extra digit
+(second file rig_5_2.md)	not yet compared with the scan	-	the HTML/markdown for printed pp. 85-184 was used only for numerals that the md could not read; the 18 Sanskrit-word and meta [?] in that range were left (see git log)
