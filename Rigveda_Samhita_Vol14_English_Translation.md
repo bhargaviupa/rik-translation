@@ -29232,4 +29232,128 @@ The Kannada: "...is the Ṛk which they give as the example."
 
 ---
 
-**Progress note:** Done through printed p. 760 (PDF 784). Ṛk 3 is complete (its Bhāvārtha, printed English and Viśeṣaviṣayagaḷu on p. 759, with the last item finishing at the head of p. 760). PDF 783 is an exact duplicate image of PDF 782 (both show header 759), so nothing was written for it; the offset is now printed = PDF − 24 from PDF 784 (the task label "761" for PDF 784 was wrong: the header reads 760). Sūkta 15, Ṛk 4 is open: Saṃhitā, Pada (number 4 printed after the Pada), bhāṣya with gist and Pratipadārtha are written; the Bhāvārtha comes next on p. 761. The numeral file had 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed/doubtful: varga numeral in the p. 759 header (read 15); Ṛgveda reference "3-33-6" and the words "अस्मा" and "बाहुरसाहन्" in the quoted mantra on p. 759; the Saṃhitā/Pada form प्रवोळ्ह्वान्; the bhāṣya words "तस्मात्पुरान्" and the second "प्रवोढ्वान्". Earlier flag stands: the Ṛk 2 chunk contains a duplicate Pada block (and a stray note under its Pratipadārtha) to be removed when the file is tidied. Accents not reproduced.
+### Printed p. 761 (PDF 785)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 15 ]" in small Kannada numerals (varga read as 15, unzoomed), "Ṛgvedasaṃhitā", "761". The task label said 762, but the header reads 761, in line with offset 24. No numeral-file rows; nothing zoomed.)*
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "Indra confronted the Asuras who were going away carrying off the royal sage Dabhīti, and burnt all their weapons in the blazing fire. He gave those Asuras' cows, horses and chariots to Dabhīti. When exhilaration arose from drinking the soma juice, Indra accomplished these great deeds."
+
+**English Translation** *(as printed)*
+
+Encountering the (Asuras), carrying off Dabhiti, he burnt all their weapons in a kindled fire, and enriched (the prince) with their cattle, their horses, and their chariots : in the exhilaration of the Soma, Indraa [sic] has done these (deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Kannada: "In this Ṛk the matter of Indra protecting the royal sage Dabhīti is described. In Ṛ. Saṃ. 1-112-23 [?] (numerals as read, unzoomed) it is said that the Aśvin deities protected Dabhīti. But in the other places everywhere it is said that Indra protected Dabhīti; therefore this daring deed is fitting for Indra. In the 707th page of this same volume we have introduced the matter of Dabhīti." *(The figure "707" is printed in Latin numerals.)*
+
+The Kannada: "The commentator has said: In former times two Asuras named Cumuri and Dhuni besieged the city of the royal sage Dabhīti, and as they were running away carrying him off, Indra killed those Asuras and protected Dabhīti: there is this itihāsa (old account). It is this that is described in this Ṛk." Then he cites the following Ṛks.
+
+*Citation 1 (printed with the reference "Ṛ. Saṃ. 10-113-9" after it, unzoomed). The words after दंभयु are garbled in the print; I give them letter by letter and bracket them:*
+
+> इंद्रो धुनिं च चुमुरिं च दंभयु [?]भ्रद्धामनस्या शृणुते दभीतये ।
+
+*Citation 2 (reference printed "Ṛ. Saṃ. 2-15-9" [?], unzoomed; there is no full stop after "Ṛ"):*
+
+> स्वप्नेनाभ्युप्या चुमुरिं धुनिं च जघंथ दस्युं प्र दभीतिमावः ।
+
+*Citation 3 (reference printed "Ṛ. Saṃ. 7-19-4" [?], unzoomed):*
+
+> त्वं नि दस्युं चुमुरिं धुनिं चास्वापयो दभीतये सुहंतु ।
+
+> *tvaṃ ni dasyuṃ cumuriṃ dhuniṃ cāsvāpayo dabhītaye suhaṃtu |*
+
+The Kannada: "In these Ṛks it is said that Indra made the Asuras Cumuri and Dhuni 'nidrāparavaśa' (overcome by sleep), that is, made them faint away, and so released and protected Dabhīti."
+
+*Citation 4 (reference printed "Ṛ. Saṃ. 6-20-13", unzoomed; the first word reads as तप, not तव, and the end of the last line is garbled in print: both bracketed):*
+
+> तप [?] ह त्यदिंद्र विश्वमाजौ सस्तो धुनीचुमुरी या ह सिष्वप् ।
+> दीदयेदित्तुभ्यं सोमेभिः सुन्वन् दभीतिरिध्मभृतिः पक्थ्यैंर्कैः [?] ॥
+
+> *tapa [?] ha tyadiṃdra viśvamājau sasto dhunīcumurī yā ha siṣvap |*
+> *dīdayedittubhyaṃ somebhiḥ sunvan dabhītiridhmabhṛtiḥ pakthyaiṃrkaiḥ [?] ‖*
+
+---
+
+### Printed p. 762 (PDF 786)
+
+*(Header, read from the strip: "762", "Sāyaṇabhāṣyasahitā", "[ Maṃ. 2 A. 2 Sū. 15" in small Kannada numerals. The task label said 763; the header reads 762. No numeral-file rows; nothing zoomed.)*
+
+*Citation 5 (reference printed "Ṛ. Saṃ. 6-26-6" [?], unzoomed):*
+
+> त्वं श्रद्धाभिर्मंदसानः सोम्यैर्दभीतये चुमुरिमिंद्र सिष्वप् ।
+
+> *tvaṃ śraddhābhirmaṃdasānaḥ somyairdabhītaye cumurimiṃdra siṣvap |*
+
+The Kannada: "In these Ṛks it is said that Indra, having drunk the soma juice prepared by Dabhīti and become delighted by it, made the Asuras Camuri [sic: spelled so here] and Dhuni overcome by sleep in the battle, and protected the royal sage Dabhīti who had been harassed by them."
+
+*Citation 6 (reference printed "Ṛ. Saṃ. 4-30-21" [?], unzoomed):*
+
+> अस्वापयद्दभीतये सहस्रा त्रिंशतं हथैः । दासानामिंद्रो मायया ।
+
+> *asvāpayaddabhītaye sahasrā triṃśataṃ hathaiḥ | dāsānāmiṃdro māyayā |*
+
+The Kannada: "In this Ṛk it is said that Indra, in order to protect Dabhīti, by the power of his māyā made 30000 (thirty thousand) dasyu-people, enemies of his, overcome by sleep. These thirty thousand dasyu-people may have been the soldiers of the Asuras Camuri and Dhuni. And the main intention is that in the battle they waged with Dabhīti, Indra bewildered the enemy soldiers and protected Dabhīti. In all the contexts where it is said that Indra protected Dabhīti, the statement that he made the enemy soldiers, or this man's chief enemies the Asuras Dhuni and Cumuri, overcome by sleep through his māyā, is to be called a peculiarity in this matter."
+
+The Kannada: "And as regards the protection of Dabhīti, one or two matters absent from the other descriptions connected with this are stated in this Ṛk: that the enemies carried Dabhīti off (from his city); that their weapons were thrown into the blazing fire and destroyed; and that Indra brought the cows, horses, chariots and the like belonging to the enemies under Dabhīti's control. In the description of Dabhīti's protection given in the other Ṛks this is not found. But the matter that he made the enemies overcome by sleep is stated there. The statement 'nidrāparavaśa' ('made overcome by sleep') is perhaps used in the sense of making them bewildered or swooning."
+
+---
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स ईं॑ म॒हीं धुनि॒मेतो॑ररम्णा॒त्सो अ॑स्ना॒त्वान॑पारयत्स्व॒स्ति ।
+> त उ॒त्स्नाय॑ र॒यिम॒भि प्र त॑स्थुः॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+> *sa īṃ mahīṃ dhunimetoraramṇātso asnātvānapārayatsvasti |*
+> *ta utsnāya rayimabhi pra tasthuḥ somasya tā mada iṃdraścakāra ‖*
+
+*(Ṛk number "५" printed after the Saṃhitā, between double daṇḍas. The word अस्नात्वान् is as read from the strip and from the Pada and Pratipadārtha on the next page; the Saṃhitā line is unzoomed.)*
+
+---
+
+### Printed p. 763 (PDF 787)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 15.]" in small Kannada numerals, "Ṛgvedasaṃhitā", "763". The task label said 764; the header reads 763. No numeral-file rows; nothing zoomed.)*
+
+**॥ पदपाठः ॥**
+
+> सः । ईं । महीं । धुनिं । एतोः । अरम्णात् । सः । अस्नात्वान् । अपारयत् । स्वस्ति ।
+> ते । उत्स्नाय । रयिं । अभि । प्र । तस्थुः । सोमस्य । ता ! मदे । इंद्रः । चकार ॥
+
+> *saḥ | īṃ | mahīṃ | dhuniṃ | etoḥ | aramṇāt | saḥ | asnātvān | apārayat | svasti |*
+> *te | utsnāya | rayiṃ | abhi | pra | tasthuḥ | somasya | tā ! made | iṃdraḥ | cakāra ‖*
+
+*(A stray "!" is printed after ता in the Pada. No Ṛk number is printed after the Pada.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra calmed the great river Paruṣṇī, brought safely across the sages who could not cross it, and they set out toward their desired wealth.*
+
+> अतिमूर्तिनाम्न्येकाहे मरुत्वतीये सूक्तमुखीयो । अतिमूर्तिनेति खंडे सूत्रितं । स ईं महीं धुनिमेतोररम्णात् । आ. ९-८ [?] । इति ॥
+
+> *atimūrtināmnyekāhe marutvatīye sūktamukhīyo | atimūrtineti khaṃḍe sūtritaṃ | sa īṃ mahīṃ dhunimetoraramṇāt | ā. 9-8 [?] | iti ‖*
+
+> स इंद्र ईमेनां महीं महतीं धुनिं । धुनोति स्तोतॄणां [?] पापानीति धुनिः पुरुष्णी नदी । तामेतोः ॥ ईश्वरपदासंनिधानेऽपि तोसुन्प्रत्ययः । पा. ३-४-१३ [?] ॥ ऋषीणां गमनार्थमरम्णात् उपाशमयत् । महाजलां नदीमल्पोदकामकरोदित्यर्थः । ततः स इंद्रोऽस्नात्वान् स्नातुमशक्तान् । तरणासमर्थान्नृषीन् स्वस्ति क्षेमेणापारयत् । ते महर्षय उत्स्नाय तां नदीमुत्तीर्य यं रयिमपेक्ष्य गच्छंति तं रयिमभिलक्ष्य प्रतस्थुः । प्रतस्थिरे । शिष्टं सिद्धं ॥
+
+> *sa iṃdra īmenāṃ mahīṃ mahatīṃ dhuniṃ | dhunoti stotṝṇāṃ [?] pāpānīti dhuniḥ puruṣṇī nadī | tāmetoḥ ‖ īśvarapadāsaṃnidhāne 'pi tosunpratyayaḥ | pā. 3-4-13 [?] ‖ ṛṣīṇāṃ gamanārthamaramṇāt upāśamayat | mahājalāṃ nadīmalpodakāmakarodityarthaḥ | tataḥ sa iṃdro 'snātvān snātumaśaktān | taraṇāsamarthānnṛṣīn svasti kṣemeṇāpārayat | te maharṣaya utsnāya tāṃ nadīmuttīrya yaṃ rayimapekṣya gacchaṃti taṃ rayimabhilakṣya pratasthuḥ | pratasthire | śiṣṭaṃ siddhaṃ ‖*
+
+*(Doubtful and unzoomed: the Āśvalāyana reference "9-8" after the first sentence, the Pāṇini reference "3-4-13", and the word स्तोतॄणां. The grammatical remark that the tosun suffix applies even when the word īśvara is not adjacent is transcribed, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—Indra. महीं (*mahīṃ*)—the great one. ईं धुनिं (*īṃ dhuniṃ*)—this river, the destroyer of sin. एतोः (*etoḥ*)—for the sages' passage. अरम्णात् (*aramṇāt*)—(having made the water shallow) he calmed it. सः (*saḥ*)—that same Indra. अस्नात्वान् (*asnātvān*)—the sages who had no strength to cross. स्वस्ति (*svasti*)—in safety. अपारयत् (*apārayat*)—he caused to cross. ते (*te*)—those great sages. उत्स्नाय (*utsnāya*)—having crossed the river. रयिं (*rayiṃ*)—toward the wealth they had in view. प्र तस्थुः (*pra tasthuḥ*)—they set out. सोमस्य (*somasya*)—by drinking the soma juice. मदे (*made*)—when exhilaration arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—did.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "Indra calmed this great river, the destroyer of sin, for the passage of the sages. That same Indra brought safely across the sages who had no strength to cross. Those great sages crossed the river and set out toward the wealth they had in view. When exhilaration arose from drinking the soma juice, Indra did these great deeds."
+
+**English Translation** *(as printed)*
+
+He tranquillized this great river, (so that it) might be crossed ; he conveyed across it in safety (the sages) who had been unable to pass over it, *(the printed English breaks off here at the foot of the page; it continues on p. 764, not yet seen)*
+
+---
+
+**Progress note:** Done through printed p. 763 (PDF 787); the task labels (762–764) were each one too high, since the headers read 761, 762, 763, so offset 24 holds. Sūkta 15: Ṛk 4 is complete (Bhāvārtha, printed English, and the Viśeṣaviṣayagaḷu with the six cited Ṛks). The Viśeṣaviṣayagaḷu ends on p. 762 before a rule line. Ṛk 5 is open: Saṃhitā (number ५ printed after the Saṃhitā), Pada, bhāṣya with gist, Pratipadārtha and Bhāvārtha are written; the printed English is begun and breaks off mid-sentence at the foot of p. 763 ("…unable to pass over it,"). The rest of the English and the Viśeṣaviṣayagaḷu come on p. 764. Numeral file: 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed and doubtful: the cited references (1-112-23, 10-113-9, 2-15-9, 7-19-4, 6-20-13, 6-26-6, 4-30-21), the Āśvalāyana reference 9-8, the Pāṇini reference 3-4-13, and the varga numerals in the headers. Doubtful readings: the garbled words in citation 1 and the end of citation 4, तप in citation 4, and स्तोतॄणां. The Ṛk 2 chunk still holds a duplicate Pada block to be tidied. Accents not reproduced.
