@@ -23660,13 +23660,13 @@ Stutaḥ: one praised by us. Samidhā: because kindled. Yahvaḥ: the great. Agn
 
 **भावार्थ (Bhāvārtha)**
 
-Agni, praised by us, great because kindled, being in the middle region of the upper altar, shines like the Āditya in the atmosphere. The friend of all, the praiseworthy one, moving in the atmosphere in the form of the sun, the messenger of the gods, Agni, let him bring the gods to the sacrifice (the end of the sentence is on the next page).
+Agni, praised by us, great because kindled, being in the middle region of the upper altar, shines like the Āditya in the atmosphere. The friend of all,
 
 ### Printed p. 766
 
 *[Running head, p. 766: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
 
-[continuing:] The praiseworthy one, moving in the atmosphere in the form of the sun, the messenger of the gods, Agni, let him bring the gods to the sacrifice (the supplied text has "युज्ञक्कागि (*yujñakkāgi*)", as printed).
+[continuing:] the praiseworthy one, moving in the atmosphere in the form of the sun, the messenger of the gods, Agni, let him bring the gods to the sacrifice (printed "युज्ञक्कागि (*yujñakkāgi*)", as supplied).
 
 **Printed English translation**
 
@@ -23684,6 +23684,95 @@ Praised and (nourished) by fuel, the mighty Agni, stationed on the (altar, the) 
 
 *[The window ends here, at the end of p. 766, in the middle of this sentence; the next window continues.]*
 
+### Printed p. 767
+
+*[Running head, p. 767: Aṣṭaka 2, Adhyāya 8, Varga 25, Ṛgvedasaṃhitā.]*
+
+[continuing:] meaning is the wind that blows in the atmosphere; yet the component meaning of the word mātariśvan has been stated with reference to Agni: मातर्यंतरिक्षे श्वसिति प्राणति सूर्यरूपेण चेष्टत इति मातरिश्वा । अथवा मातर्यरण्यां श्वसिति निवसतीति मातरिश्वा ! (*mātaryaṃtarikṣe śvasiti prāṇati sūryarūpeṇa ceṣṭata iti mātariśvā | athavā mātaryaraṇyāṃ śvasiti nivasatīti mātariśvā !*) That is, the sun moving in the atmosphere shines, giving vitality to all living beings. Since this sun is itself a transformation of the Agni in the heaven-world, the word mātariśvan may be said to denote Agni in the form of the Āditya. Or, since Agni is produced by churning in the araṇis (pieces of wood), the araṇis are in the place of mothers to Agni; since Agni is in such araṇis, mātariśvan means Agni: this is another derivation of the form. Yāska has stated for the word mātariśvan the derivation ⟦ಮಾತರಿಶ್ವಾ ವಾಯುರ್ಮಾಶರ್ಯಂತರಿಕ್ಷೇ ಶ್ವಸಿತಿ ಮಾರ್ತರ್ಯಾಶ್ವನಿತೀತಿ
+ನಾ⟧ (Ni. 7-26) (so printed). Mātari means in the atmosphere; śvasiti means it moves; therefore it is the wind that moves in the atmosphere: one meaning. Or, because it moves swiftly (āśu) in the atmosphere (mātari) (aniti, gacchati), the wind is named mātariśvan: another meaning. That is, the word mātariśvan has been explained as a deity moving in the atmosphere. Not only the wind moves in the atmosphere; the sun too moves in the atmosphere, so the sun too is called mātariśvan. Since the sun is a transformation of Agni in the heaven-world, Agni is here described by the word mātariśvan. We have said before that Agni is the messenger of the gods. It is prayed here that such an Agni, of these qualities and the messenger of the gods, bring the gods to the sacrificial ground for the sacrifice, that is, to accept the oblations in this sacrifice we are performing and favour us.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> उद॑स्तंभीत्स॒मिधा॒ नाक॑मृ॒ष्वो॒३॒॑ग्नि र्भव॑न्नुत्त॒मो रो॑च॒नानां॑ ।
+> यदी॒ भृगु॑भ्यः॒ परि॑ मात॒रिश्वा॒ गुहा॒ संतं॑ हव्य॒वाहं॑ समा॒धे॥१०॥
+
+**॥ पदपाठः ॥**
+
+> उत् । अस्तंभीत् । संइधा । नाकं । ऋष्वः । अग्निः । भवन् । उत्तमः । रोचनानां ।
+> यदि । भृगुभ्यः । परि । मातरिश्वा । गुहा । संतं । हव्यवाहं । संईधे ॥ १० ॥
+
+> *ut | astaṃbhīt | saṃidhā | nākaṃ | ṛṣvaḥ | agniḥ | bhavan | uttamaḥ | rocanānāṃ |*
+> *yadi | bhṛgubhyaḥ | pari | mātariśvā | guhā | saṃtaṃ | havyavāhaṃ | saṃīdhe ‖ 10 ‖*
+
+### Printed p. 768
+
+*[Running head, p. 768: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋष्टो महानग्निः समिधा तेजसा नाकं स्वर्गमुदस्तंभीत् । उदस्तभ्नात् ।
+> रोचनानां शोभनानां तेजसां मध्य उत्तमो भवन् उष्कृष्टतमो भवन्
+> मातरिश्वा वायुर्भृगुभ्य आदित्यस्य रश्मिभ्यो गुहा गुहायां संतं हव्यवाहं
+> हव्यानां वोढारमग्निं यदि यदा समाधे सम्मेंद्ध तदा नाकमस्तभ्नादिति संबंधः ॥
+
+*(Gist: the great Agni, when the wind, from the Sun's rays, kindled him hidden in the cave, as the best of the lights propped up heaven with his radiance.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yadi: when. Mātariśvā: the wind. Bhṛguhyaḥ: from the rays of the Āditya. Guhā santaṃ: one who was hidden in a cave. Havyavāhaṃ: Agni, who carries the oblation to the gods. Samīdhe: has kindled (then). Ṛṣṭvaḥ: the great. Agniḥ: Agni. Rocanānāṃ: in the midst of the radiant orbs of light. Uttamaḥ bhavan: being the best. Samidhā: with his own radiance. Nākaṃ: heaven. Udastambhīt: held up.
+
+*[The label "॥ भवार्थ ॥ (*‖ bhavārtha ‖*)" (garbled for Bhāvārtha) is kept as a note in kn.md; the standard label is inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+When the wind, from the rays of the Āditya, kindled Agni, who was hidden in a cave and carries oblations to the gods, then the great Agni, being the best in the midst of all the orbs of light, held up heaven with his own radiance.
+
+**Printed English translation**
+
+The mighty Agni, being the best of the heavenly luminaries, sustained the heaven with radiance, when the wind made the bearer of oblations, visible (till then cocecaled [sic]) in a cave, fron [sic] the Bhrigus.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಯದಿ ಮಾತರಿಶ್ವಾ ಬೃಗುಭ್ಯಃ ಗುಹಾ ಸಂತಂ ಹವ್ಯವಾಹಂ ಸಮಾಧೇ (ತದಾ) ಋಷ್ಯಃ ಅಗ್ನಿಃ
+ರೋಚನಾನಾಂ ಉತ್ತಮಃ ಭವನ್ ಸಮಿಧಾ ನಾಕಂ ಉದಸ್ತಂಭೀತ್⟧ (printed बृगुभ्यः (*bṛgubhyaḥ*) and ऋष्यः (*ṛṣyaḥ*)): Agni, hidden in a cave, that is, hidden so as to be seen by no eye, was made to blaze by the wind with the rays of the Āditya. Then Agni, who carries the oblation to the gods, made heaven, in the midst of all the orbs of light, shine with his extraordinary radiance; this is the chief purport of this Ṛk (the supplied text has "मख्याभिप्राय (*makhyābhiprāya*)"). This matter was stated before in the Ṛks Ṛ. Saṃ. 1-71-3 and 1-93-6 and others. In this Ṛk Sāyaṇa has explained the word बृगुभ्यः (*bṛgubhyaḥ*) as अदित्यस्य रश्मिभ्यः (*adityasya raśmibhyaḥ*) (printed अदित्यस्य (*adityasya*)), by means of the sun's rays
+
+### Printed p. 769
+
+*[Running head, p. 769: Aṣṭaka 2, Adhyāya 8, Varga 25, Ṛgvedasaṃhitā.]*
+
+[continuing:] But in the Ṛks cited above the word bhṛgu is taken to mean the seer of that name.
+
+There is an ancient well-known story of the churning of fire; as told in it:
+
+⟦ಸರ್ವಮಿದಮಂಧಂತಮ ಆಸೀತ್ । ಅಥ ಮಾತರಿಶ್ವಾಕಾಶೇ ಸೂಕ್ಷ್ಮಮಗ್ನಿಮಪಶ್ಯತ್ । ತಮಮಥ್ನಾತ್ । ಮಥಿತ್ವಾ
+ಜಾನಯದಿತಿ ।⟧
+
+Formerly the whole world was covered with black darkness. Then Mātariśvan recognised Agni in subtle form in the sky and churned him. Afterwards he brought that Agni to the earth for the convenience of the sacrifice. The well-known story is told in the Ṛgveda in
+
+आन्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः । (*ānyaṃ divo mātariśvā jabhārāmathnādanyaṃ pari śyeno adreḥ |*)
+(Ṛ. Saṃ. 1-93-6)
+
+आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः । (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*)
+(Ṛ. Saṃ. 6-8-4)
+
+in these Ṛks and in others there is the description praising Agni, that he shone in the sacrificial house only after Mātariśvan brought him.
+
+मातरिश्वा वायुर्मातर्यंतरिक्षे श्वसिति मातराश्वनितीति वा। (*mātariśvā vāyurmātaryaṃtarikṣe śvasiti mātarāśvanitīti vā|*) Because he breathes or moves in the atmosphere, the wind is named mātariśvan. In the Ṛk 1-96-4 the word is explained as Agni, and in 1-141-3 as the sacrificer. But except in one or two such places, everywhere mātariśvan means the wind.
+
+अन्यं मातरिश्वा दिव आ जभार (*anyaṃ mātariśvā diva ā jabhāra*): the supernatural manifestation and the worldly origin of Agni, the soul of the sacrifice, are described in many ways. Agni, who is the banner of the sacrifices, the means of the vidatha, the father of the rites and the king of the sacrifices (see the descriptions in the Ṛks 3-3-3; 3-11-2; 4-2-3 and others), had his manifestation in the form of lightning first for the wind, as in the Ṛksaṃhitā:
+
+त्वमग्वे प्रथमो मातरिश्वन आविर्भव सुकृतू या विवस्वते । (*tvamagve prathamo mātariśvana āvirbhava sukṛtū yā vivasvate |*)
+(printed मि (*mi*). सं (*saṃ*). 1-31-3)
+
+सजायमानः परमे व्योमन्याविरग्नि रभवन्मातरिश्वने । (*sajāyamānaḥ parame vyomanyāviragni rabhavanmātariśvane |*)
+(printed ಮ. सं (*saṃ*). 1-143-2)
+
+*[Stray line as supplied at the end of p. 769: "49", kept as a note in kn.md.]*
+
+*[The window ends here, at the end of p. 769; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 766 (PDF 766). Sūkta 5 Ṛk 8 printed English and Special Topics; Ṛk 9 (full) and Special Topics begun (Mātariśvan)
+**Progress note:** Done through printed p. 769 (PDF 769). Sūkta 5 Ṛk 9 Special Topics end (Mātariśvan; Ni. 7-26); Ṛk 10 (full) and Special Topics (Bhṛgu, churning of fire; 1-93-6, 6-8-4, 1-31-3, 1-143-2)
