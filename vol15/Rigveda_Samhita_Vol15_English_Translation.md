@@ -19239,6 +19239,80 @@ Vaiśvānara Agni, shining in the form of Āditya, is the Agniṣṭoma. This Ag
 
 These rites of the Jyotiṣṭoma must be followed in every way in accordance with the movement of Āditya. In the recitation of mantras too the qualities in the revolution of Āditya must be followed. Since Āditya at rising shines gently, the sacrificer (or hotṛ) should recite the mantra gently (softly) at the time of the morning pressing. At midday the radiance and heat of Āditya increase, and so at the time of the midday pressing the recitation of the mantras should be with a raised body and a high voice. As he moves further, the heat of the radiance of Āditya still
 
+### Printed p. 612
+
+*[Running head, p. 612: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3 (printed "ಮ." for "ಮಂ.").]*
+
+is intense. Therefore at the time of the third pressing the mantras should be recited with a very high voice. Since speech itself is the śastra, if the sacrificer follows this order of reciting the śastra, he gains lordship over speech. He should recite the śastra mantra as high as he can with his strength.
+
+From the saying "the Sun sets" one should not understand that the Sun really sets. For him there is neither rising nor setting; the meaning of "he sets" is that the day remains below and the night comes to the upper part. In the same way the saying "he rises" too must be given the opposite meaning. There is no real setting. He is eternal and always endowed with light. That one who, knowing this principle of Agni in the form of light in the form of the movement of Āditya, worships Agni, obtains communion with this Agni and likeness to him and obtains pervasion of all worlds: this is the description of the greatness of the Agniṣṭoma.
+
+For the Agniṣṭoma, of such greatness, there is a rule that at the time of reciting the Āgnimāruta śastra, which is part of it, the present sūkta praising Vaiśvānara Agni is to be recited. What the greatness of Vaiśvānara Agni described in the Āgnimāruta śastra is must now be examined.
+
+3. The great qualities of Vaiśvānara Agni described in the Āgnimāruta śastra.
+
+वैश्वानरीयेणाग्निमारुतं प्रतिपद्यते वैश्वानरो ना एतद्रेतः........॥ (*vaiśvānarīyeṇāgnimārutaṃ pratipadyate vaiśvānaro nā etadretaḥ........‖*)
+(printed ಐ. ಬ್ರಾ. 13-35, i.e. Ai. Brā. 13-35; the printed quotation has a row of dots before the closing ॥)
+
+Showing the relation between Vaiśvānara and the Āgnimāruta śastra: "Vaiśvānara set in motion the seed that had been poured on the earth; therefore he is praised here." The above sentences indicate the historical circumstance that shows the relation between this śastra mantra and Vaiśvānara Agni. That story is as follows,
+
+⟦ಪ್ರಜಾಪತಿರ್ನೈ ಸ್ವಾಂ ದುಹಿತರಮಭ್ಯಧ್ಯಾಯದ್ದಿವಮಿತ್ಯನ್ಯ ಆಹುರುಷಸಮಿತ್ಯನ್ಯೇ ತಾಮೃಶ್ಯೋ
+ಭೂತ್ವಾ ರೋಹಿತಂ ಭೂತಾಮಭ್ಯೈತ್ತಂ ದೇವಾ ಅಪಶ್ಯನ್ನಕೃತಂ ವೈ ಪ್ರಜಾಪತಿಃ ಕರೋತೀತಿ
+ತೇ ತಮ್ಮೈಚ್ಛನ್ಯ ಏನಮಾರಿಷ್ಯತ್ಯೇತಮನ್ಯೋನ್ಯಸ್ಮಿನ್ನಾವಿಂದಂಸ್ತೇಷಾಂ ಯಾ ಏವ
+ಘೋರತಮಾಸ್ತನ್ವ ಆಸಂಸ್ತಾ ಏಕಧಾ ಸಮಭರಂಸ್ತಾಃ ಸಂಭೃತಾ ಏಷ ದೇವೋಽಭವತ್ತದಸ್ಯೈತದ್ಭೂತವನ್ನಾಮ ಭವತಿ ವೈ ಸ ಯೋಽಸ್ಯೈತದೇವಂ ನಾಮ ವೇದ ತಂ ದೇವಾ
+ಅಬ್ರುವ ನ್ನಯಂ ವೈ ಪ್ರಜಾಪತಿರಕೃತಮಕರಿಮಂ ವಿಧ್ಯೆತಿ ಸ ತಥೇತ್ಯಬ್ರವೀತ್ಸ ವೈ ವೋ
+ವರಂ ವೃಣಾ ಇತಿ ವೃಣೀಷ್ಟೇತಿ ಸ ಏತಮೇವ ಪರಮವೃಣೀತ ಪಶೂನಾಮಾಧಿಪತ್ಯಂ
+ತದಸ್ಯೈತತ್ಪಶುಮನ್ನಾಮ ಪಶುಮಾನ್ಭವತಿ ಯೋಽಸ್ಯೈತದೇವಂ ನಾಮ ವೇದ ॥⟧
+
+### Printed p. 613
+
+*[Running head, p. 613: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+Prajāpati became infatuated with his own daughter; some say this daughter was Dyu (heaven), others that she was Uṣas. Himself becoming a stag, he followed that daughter, who had taken the form of a doe. The gods saw this scene and understood, "An improper act that has not been done until now is being done by Prajāpati." When they tried to punish him, none among them had the power to punish Prajāpati. Then, when they gathered their terrible forms together and brought them into one person, it became endowed with a greatness that also indicated divinity. The name Bhūtavat (lord) became famous for it. One who knows this name, thus famous, and its greatness becomes wealthy. Then the gods said to him, "Prajāpati has done an improper act that he has never done until now; therefore he must be punished." When they prayed, he said, "Before doing this work I desire a boon from you; you must grant it." When the gods agreed, he asked that he be called Paśupati. The gods called him so; he became famous by that name. Likewise his name Bhūtapati became famous. One who knows the origin of this sacred name and the greatness of the name becomes endowed with cattle.
+
+⟦ತಮಭ್ಯಾಯತ್ಯಾವಿಧ್ಯತ್ಸ ವಿದ್ಧ ಊರ್ಧ್ವ ಉದಪ್ರಪತತ್ತಮೇತಂ ಮೃಗ ಇತ್ಯಾಚಕ್ಷತೇ ಯ ಉ
+ಏವ ಮೃಗವ್ಯಾಧಃ ಸ ಉ ಏವ ಸ ಯಾ ರೋಹಿತ್ಸಾ ರೋಹಿಣೀ ಯೋ ಏವೇಷುಸ್ತ್ರಿಕಾಂಡಾ
+ಸೋ ಏವೇಷುಸ್ತ್ರಿಕಾಂಡಾ ತದ್ವಾ ಇದಂ ಪ್ರಜಾಪತೇ ರೇತಃ ಸಿಕ್ತಮಧಾವತ್ತತ್ಸರೋS ಭವತ್ತೇ
+ದೇವಾ ಅಬ್ರುವನ್ಮೇದಂ ಪ್ರಜಾಪತೇ ರೇತೋ ದುಷದಿತಿ ಯದಬ್ರುವನ್ಮೇದಂ ಪ್ರಜಾಪತೇ
+ರೇತೋ ದುಷದಿತಿ ತನ್ನಾದುಷಮಭವತ್ತನ್ಮಾದುಷಸ್ಯ ಮಾದುಷತ್ವಂ ಮಾದುಷಂ ಹ ವೈ
+ನಾಮೈತದ್ಯನ್ಮಾನುಷಂ ಸನ್ಮಾನುಷಮಿತ್ಯಾಚಕ್ಷತೇ ಪರೋಕ್ಷೇಣ ಪರೋಕ್ಷಪ್ರಿಯಾ ಇವ ಹಿ
+ದೇವಾಃ ॥⟧
+(printed ಐ. ಬ್ರಾ. 13-33)
+
+When Paśupati threw his trident aiming at Prajāpati, it pierced Prajāpati. Then Prajāpati leapt up. Then he was called Mṛga (the stag). Paśupati became famous as Mṛgavyādha (the hunter of the stag). The doe was called Rohiṇī. The three-jointed shaft became the trident. From him who was pierced by it, Prajāpati's seed went out and flowed. Then it became a great lake. The gods did not wish to defile it; they kept it undefiled and pure. Therefore it has the name "māduṣa". Because what pertains to man is māduṣa, the gods, who love the indirect, called this māduṣa mānuṣa. Having described the story of Prajāpati, the greatness of Vaiśvānara Agni is thereby praised.
+
+### Printed p. 614
+
+*[Running head, p. 614: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+⟦ತದಗ್ನಿ ನಾ ಪಯಾದಧುಸ್ತನ್ಮರುತೋ ಧೂನ್ವಂಸ್ತದಗ್ನಿರ್ನ ಪ್ರಾಚ್ಯಾವಯತ್ತದಗ್ನಿನಾ ವೈಶ್ವಾನರೇಣ
+ಪಯಾದಧುಸ್ತನ್ಮರುತೋ ಧೂನ್ವಂಸ್ತದಗ್ನಿರ್ವೈಶ್ವಾನರಃ ಪ್ರಾಚ್ಯಾವಯತ್ತಸ್ಯ ಯದ್ರೇತಸಃ
+ಪ್ರಥಮಮುದದೀಪ್ಯತ ತದಸಾವಾದಿತ್ಯೋಭವದ್ಯದ್ವಿತೀಯಮಾಸೀತ್ತದ್ಭಗುರಭವತ್ತಂ
+ವರುಣೋ ನೃಗೃಹೀತ ತಸ್ಮಾತ್ಸ ಭೃಗುರ್ವಾರುಣಿರಥ ಯತ್ತೃತೀಯಮದೀದೇದಿವ ತ
+ಆದಿತ್ಯಾ ಅಭವನ್ಯಂಗಾರಾ ಆಸಂಸ್ತೇಂಗಿರಸೋಭವನ್ಯದಂಗಾರಾಃ ಪುನರವಶಾಂತಾ
+ಉದದೀಪ್ಯಂತ ತದ್‌ಬೃಹಸ್ಪತಿರಭವದ್ಯಾನಿ ಪರಿಕ್ಷಣಾನ್ಯಾಸಂಸ್ತೇ ಕೃಷ್ಣಾಃ ಪಶವೋಭವನ್ಯಾ
+ಲೋಹಿನೀ ಮೃತ್ತಿಕಾ ತೇ ರೋಹಿತಾ ಅಥ ಯದ್ಭಸ್ಮಾಸೀತ್ತತ್ಪರುಷ್ಯಂ ವ್ಯಸರ್ಪದೌರೋ
+ಗವಯ ಋಶ್ಯ ಉಷ್ಟೋ ಗರ್ದಭ ಇತಿ ಯೇ ಚೈತೇರುಣಾಃ ಪಶವಸ್ತೇ ಚ ತಾನ್ನಾ ಏಷ
+ದೇವೋಭವದತ ಮಮ ವಾ ಇದಂ ಮಮ ವೈ ವಾ ಸ್ತುಹಮಿತಿ ತಮೇತಯರ್ಚಾ
+ನಿರವಾದಯಂತ ಯೈಷಾ ರೌದ್ರೀ ಶಸ್ಯತ ಆತೇ ಪಿತರ್ಮರುತಾಂ ಸುಮ್ಮನೇತು ಮಾ ನಃ
+ಸೂರ್ಯಸ್ಯ ಸಂದೃಶೋ ಯುಯೋಥಾಃ ॥ ತ್ವಂ ನೋ ವೀರೋ ಅರ್ವತಿ ಕ್ಷಮೇಥಾ ಇತಿ⟧ (the supplied text ends this quotation with "!!", apparently the closing ॥)
+
+The gods made that seed to be surrounded by Agni. Then the Maruts tried to set it in motion, but could not. At once they made it surrounded by Vaiśvānara Agni. Then, when the Maruts blew on it, it began to move. Then the first part of the kindled seed shone in the atmosphere in the form of Āditya. The second part turned into the form of Bhṛgu. Varuṇa received it. Therefore Bhṛgu is called Vāruṇi, or son of Varuṇa. The third part of that seed was transformed into the form of the Ādityas of the world of heaven and shone in the form of radiance. The embers became the Aṅgirases; when these embers were quenched they blazed again, and then Bṛhaspati arose. The quenched embers became black cattle, and the ashes spread in various ways were transformed into buffalo, gavaya, camel, ass and the like. This divine person, Paśupati, said, "All these belong to me." But the gods praised him with the mantra आ ते पितर्मरुतांसुम्म मेतु (*ā te pitarmarutāṃsumma metu*) (Ṛ. Saṃ. 2-33-1) and prayed, "O Paśupati (Rudra), father of the Maruts, let your grace be upon us. Do not separate us from the sight of the Sun. Have pity on these our cattle; protect us." Therefore,
+
+‘ ⟦ಬ್ರೂಯಾನ್ನಾಭಿ ನ ಇತ್ಯನಭಿಮಾನುಕೋ ಹೈಷ ದೇವಃ ಪ್ರಜಾ ಭವತಿ ಪ್ರಜಾಯೇಮಹಿ
+ರುದ್ರಿಯ ಪ್ರಜಾಭಿರಿತಿ ಬ್ರೂಯಾನ್ನ ರುದ್ರೆತ್ಯೇತಸ್ಯೆವ ನಾಮ್ನಃ ಪರಿಹೃತ್ಯೈ ತದು ಖಲು
+ಶಂ ನಃ ಕರತೀತ್ಯೇವ ಶಂಸೇಚ್ಛಮಿತಿ ಪ್ರತಿಪದ್ಯತೇ ಸರ್ವಸ್ಮಾ ಏವ ಶಾಂತೈ ನೃಭ್ಯೋ⟧
+
+*[The supplied text repeats this passage, the first copy cuts off at "ನೃಭ್ಯೋ" and has small spelling variants such as ಶಾಂತೈ for ಶಾಂತ್ಯೈ and ರುದ್ರೆತ್ಯೇತಸ್ಯೆವ for ರುದ್ರೇತ್ಯೇತಸ್ಯೈವ; the second copy, complete, follows.]*
+
+‘ ⟦ಬ್ರೂಯಾನ್ನಾಭಿ ನ ಇತ್ಯನಭಿಮಾನುಕೋ ಹೈಷ ದೇವಃ ಪ್ರಜಾ ಭವತಿ ಪ್ರಜಾಯೇಮಹಿ
+ರುದ್ರಿಯ ಪ್ರಜಾಭಿರಿತಿ ಬ್ರೂಯಾನ್ನ ರುದ್ರೇತ್ಯೇತಸ್ಯೈವ ನಾಮ್ನಃ ಪರಿಹೃತ್ಯೈ ತದು ಖಲು
+ಶಂ ನಃ ಕರತೀತ್ಯೇವ ಶಂಸೇಚ್ಛಮಿತಿ ಪ್ರತಿಪದ್ಯತೇ ಸರ್ವಸ್ಮಾ ಏವ ಶಾಂತ್ಯೈ ನೃಭ್ಯೋ
+ನಾರಿಭ್ಯೋ ಗವ ಇತಿ ಪುಮಾಂಸೋ ವೈ ನರಸ್ತ್ರಿಯೋ ನಾರ್ಯಃ ಸರ್ವಸ್ಮಾ ಏವ ಶಾಂತ್ಯೈ
+ಸೋಽನಿರುಕ್ತಾ ರೌದ್ರೀ ಶಾಂತಾ ಸರ್ವಾಯುಃ ಸರ್ವಾಯುತ್ವಾಯ ಸರ್ವಮಾಯುರೇತಿ
+ಯ ಏವಂ ವೇದ ಸೋ ಗಾಯತ್ರೀ ಬ್ರಹ್ಮ ವೈ ಗಾಯತ್ರೀ ಬ್ರಹ್ಮಣ್ಯೈನಂ ತಂ ನಮಸ್ಯತಿ ॥⟧
+(printed ಐ. ಬ್ರಾ. 13-34)
+
 ---
 
-**Progress note:** Done through printed p. 611 (PDF 611). Sūkta 3 Pīṭhike: Aitareya Brāhmaṇa 14-42 to 14-44 (Agniṣṭoma, Catuṣṭoma, Jyotiṣṭoma); p. 609 head merged, fixed; cut mid-sentence
+**Progress note:** Done through printed p. 614 (PDF 614). Sūkta 3 Pīṭhike: Āgnimāruta śastra, Prajāpati–Paśupati legend (Aitareya Brāhmaṇa 13-33 to 13-35); duplicated passage kept
