@@ -1,0 +1,53 @@
+md_line	html_page	kind	old	new
+101	1	Sanskrit word	त्रिति [?]	त्विति
+103	1	Sanskrit word	triti [?]	tviti
+105	1	twin note	prāgāthaṃ triti" is printed so	prāgāthaṃ tviti" is printed so
+107	1	Sanskrit word	*ayaṃ daśa prāgāthaṃ …*' [?]	*ayaṃ daśa prāgāthaṃ tv iti*'
+171	4	numeral	(Pā. 5-2-94 [?]: the last two digits look printed as "೪೯")	(Pā. 5-2-49 as printed)
+172	4	numeral confirmed	(Pā. 3-6-76 as printed [?]; for 3-2-76)	(Pā. 3-6-76 as printed; for 3-2-76)
+244	9	numeral	(Pā. 3-4-10[?] — the last digit is not ೧; for 3-4-101)	(Pā. 3-4-107 as printed; for 3-4-101)
+353	13	no number in the HTML	(Uṇ. [?])	(Uṇ.; no sūtra number is printed here)
+558	23	numeral confirmed	(Ni. 2-27 [?])	(Ni. 2-27)
+569	24	numeral confirmed	(Uṇ. 3-312 [?], as printed)	(Uṇ. 3-312, as printed)
+679	30	Sanskrit word	bārhatatvāpayeyujo bṛhatyo yujaḥ satobṛhatyaḥ [?]	bārhatatvād ayujo bṛhatyo yujaḥ satobṛhatyaḥ
+679	30	Sanskrit words	saha ṣoḷaśoṣasyaṃ [?] ity atrānukramaṇikā	saha ṣoḷaśoṣasyaṃ tv ity anukramaṇikā
+679	30	numeral confirmed	ā. 4-14 [?]	ā. 4-14
+679	30	numeral confirmed	ā. 6-5 [?]	ā. 6-5
+679	30	numeral confirmed	(Āśv. 4-14 [?])	(Āśv. 4-14)
+679	30	numeral confirmed	(Āśv. 6-5 [?])	(Āśv. 6-5)
+739	31	numeral confirmed	पा. २-१-२-६ [?]	पा. २-१-२-६
+739	31	numeral	पा. ५-२-९४ [?]	पा. ५-२-१४
+741	31	numeral confirmed	pā. 2-1-2-6 [?]	pā. 2-1-2-6
+741	31	numeral	pā. 5-2-94 [?]	pā. 5-2-14
+743	31	numeral	in "pā. 5-2-94" the last two digits look like "೧೪" [?].)	in "pā. 5-2-14" the last two digits are "೧೪", confirmed from the HTML text.)
+763	32	numeral	(Ni. 12-[?]: the last digit, ೬ or ೭, is not settled)	(Ni. 12-7)
+781	34	numeral confirmed	(Uṇ. "6-28" as printed [?]; elsewhere	(Uṇ. "6-28" as printed; elsewhere
+809	35	numeral confirmed	pā. 6-4-133 [?]	pā. 6-4-133
+973	46	numeral confirmed	परि. ७९ [?]	परि. ७९
+975	46	numeral confirmed	pari. 79 [?]	pari. 79
+997	47	numeral confirmed	(Uṇ. "578" as printed [?])	(Uṇ. "578" as printed)
+1000	48	numeral confirmed	(Pā. 5-4-111 as printed [?]; for 8-2-10)	(Pā. 5-4-111 as printed; for 8-2-10)
+1000	48	numeral confirmed	(Paribhāṣā 79 [?])	(Paribhāṣā 79)
+1221	61	numeral confirmed	(Ni. 2-21 [?])	(Ni. 2-21)
+1247	63	numeral	(Uṇ. 4-[?]: the number is small and not settled)	(Uṇ. 4-505)
+1303	67	numeral	(Uṇ. 4-[?]: the small digits are not settled)	(Uṇ. 4-5-78 as printed)
+1341	69	numeral confirmed	(Pā. 1-4-49 [?])	(Pā. 1-4-49)
+1341	69	numeral confirmed	(Pā. 1-4-51 [?])	(Pā. 1-4-51)
+1341	69	numeral	*nīvahyor hartreś ca*, [?])	*nīvahyor hartreś ca*, 1-4-51 as printed)
+1472	77	numeral confirmed	(Ni. 2-28 [?])	(Ni. 2-28)
+1502	77	numeral confirmed	(Ni. 3-13 [?])	(Ni. 3-13)
+1553	81	numeral	(Ni. 1-[?] as read)	(Ni. 1-4)
+1555	81	numeral	*(Ni. 1-[?] as read [?])*	*(Ni. 1-4)*
+1613	84	numeral confirmed	(Uṇ. 1-29 [?])	(Uṇ. 1-29)
+1613	84	numeral	(Uṇ. 2-108 [?])	(Uṇ. 2-109 as printed)
+190	6	confirmed by HTML	I give it as printed [?].)*	I give it as printed; the HTML text also reads *trivandhureṇa*.)*
+1037	50	Sanskrit word (HTML reads tad-)	परस्यास्त्वद्विधानात् [?]	परस्यास्तद्विधानात्
+1039	50	Sanskrit words (twin of the Devanagari line; HTML)	antodāttāc chapaḥ [?] … [crowded, ?]	antodāttāc chatuḥ parasyāstadvidhānāt
+1039	50	twin made equal to the Devanagari line	yuṣmattatvakṣuḥṣv antaḥpādam iti [?] ṣatvaṃ	yuṣmattatatkṣuḥṣv antaḥpādam iti ṣatvaṃ
+1039	50	Sanskrit word (HTML)	tatkṛ[…]yate	tat kriyate
+1039	50	twin of the Devanagari line; numeral from HTML	kasipater graheś chandasi [?] | pā. 6-4-69 [?]	kanipatyoś chandasi [as printed; for tanipatyoś chandasi] | pā. 6-4-99
+1041	50	Sanskrit word	"antodāttāc chatuḥ parasyāstvadvidhānāt" is printed so but its last word is uncertain [?].	"antodāttāc chatuḥ parasyāstadvidhānāt" (the last word reads tadvidhānāt in the HTML text).
+1043	50	gloss, HTML text	*antaḥpāda*-type rule [?]	*antaḥpāda*-type rule (*… antaḥpādam iti ṣatvaṃ*)
+1508	79	numeral: sūtra from HTML + scan; vārttika unresolved	(Pā. 3-3-58, vārttika "294" as printed [?])	(Pā. 3-3-8; vārttika "294" [?] — the HTML text reads 2294)
+1634	84	numeral (HTML p. 84)	the bhāṣya gives 2-108	the bhāṣya gives 2-109
+99	1	meta note	; the words marked [?] are crowded)	; the doubtful words were repaired from the HTML text)
