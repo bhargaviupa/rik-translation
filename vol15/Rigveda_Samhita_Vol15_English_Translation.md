@@ -23963,6 +23963,113 @@ Devout ministrants, who are to be inspired by prayer, bring forth (the ladle) de
 
 *[The window ends here, at the end of p. 775; the next window continues.]*
 
+### Printed p. 776
+
+*[Running head, p. 776: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 6.]*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> आ रोद॑सी अप्पणा॒ जाय॑मान उ॒त प्र रि॑क्षा॒ अध॒ नु प्र॑यज्यो ।
+> दि॒वश्चि॑दग्ने महि॒ना पृ॑थि॒व्या व॒च्यंतां॑ ते॒ वह्न॑यः स॒प्तजि॑ह्वाः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । रोदसी इति । अप्पणाः । जायमानः । उत । प्र । रिक्षाः । अध । नु । प्रयज्यो
+> इति प्रयज्यो ।
+> दिवः । चित् । अग्ने । महिना । पृथिव्याः । वच्यंतां । ते । वह्नयः । सप्तजिह्वाः॥ २ ॥
+
+> *ā | rodasī iti | appaṇāḥ | jāyamānaḥ | uta | pra | rikṣāḥ | adha | nu | prayajyo*
+> *iti prayajyo |*
+> *divaḥ | cit | agne | mahinā | pṛthivyāḥ | vacyaṃtāṃ | te | vahnayaḥ | saptajihvāḥ‖ 2 ‖*
+
+*(In the Pada अप्पणाः (*appaṇāḥ*) is printed so, against अपृणाः (*apṛṇāḥ*) in the bhāṣya, and प्र रिक्षाः (*pra rikṣāḥ*) against प्ररिक्थाः (*prarikthāḥ*), as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने जायमानस्त्वं रोदसी द्यावापृथिव्यौ आ अपृणाः । आपूरयः ।
+> किंच हे प्रयज्यो यष्टव्य दिवश्चित् दिवश्चांतरिक्षात्पृथिव्याश्च महिना महिम्ना
+> प्ररिक्थाः । अतिरिक्तश्चासि । अनेन वह्नेरतिशय उक्तः । एवंविधस्य ते तव वह्नयोऽग्नयोऽंशभूता वह्नय आहवनीयादयो वच्यंतां । किंविधास्ते । सप्तजिह्वाः ।
+> सप्तजिह्वात्मकाः ॥
+
+*(Gist: O Agni, as soon as born you fill heaven and earth and exceed them in greatness; may your seven-tongued fires, the Āhavanīya and the rest, be praised.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Jāyamānaḥ: you, as soon as born. Rodasī: both heaven and earth. Ā apṛṇāḥ: have pervaded. Uta: and. Prayajyo: O Agni, worthy of sacrifice. Mahinā: by your greatness. Divaścit: more than the atmosphere. Pṛthivyāḥ: more than the earth. Pra rikthāḥ: have exceeded and pervaded. Saptajihvāḥ: having seven tongues. Te: your. Vahnayaḥ: the divisions such as the Āhavanīya. Vacyantāṃ: let them be praised.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, worthy of sacrifice, as soon as you are born you have pervaded both heaven and earth; and by your greatness you have exceeded and pervaded earth and atmosphere. May your seven-tongued divisions, the Āhavanīya and the rest, be praised.
+
+**Printed English translation**
+
+Agni, as soon as born, occupy both heaven and earth ; for you, to whom sacrifice is to be offered, exceed in magnitude the firmament and the earth : may your seven-tongued fires be glorified.
+
+### Printed p. 777
+
+*[Running head, p. 777: Aṣṭaka 2, Adhyāya 8, Varga 26, Ṛgvedasaṃhitā.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अग्ने जायमानः रोदसी आ अप्पणाः (*agne jāyamānaḥ rodasī ā appaṇāḥ*) (so printed): O Agni, as soon as you are born you have pervaded heaven and earth with your radiance. Here the meaning Āditya, the transformation of Agni in the heaven-place, may be given for Agni. The chief purport is that as soon as Agni is born, that is, as soon as the Āditya (the Sun), a transformation of Agni, rises, earth and atmosphere are all filled with his radiance. The word rodasī is read among the names of heaven and earth (Ni. 3-22).
+
+उत प्रयज्यो महिना दिवश्चित् पृथिव्याः प्र रिक्षाः (*uta prayajyo mahinā divaścit pṛthivyāḥ pra rikṣāḥ*): besides, O Agni, you who are worshipped in sacrifices and the like, by your boundless greatness you have exceeded and pervaded more than earth and atmosphere. Here the word पृथु विस्तारे (*pṛthu vistāre*)-derived pṛthivyāḥ is used in the sense of the extremely extensive earth. It is a matter of experience that the atmosphere (or heaven) too extends much farther than we can see with the eye. The purport is that Agni pervades beyond even such extremely extensive earth and atmosphere.
+
+ते सप्तजिह्वा वह्नयः वच्यंतां (*te saptajihvā vahnayaḥ vacyaṃtāṃ*): may these divisions of Agni, the Āhavanīya and the rest, with your seven kinds of tongues or flames, be praised. For Agni the flames are the tongues. It is said here that there are seven such tongues. In the Purāṇas and elsewhere these seven tongues have different names such as Kālī and Karālī. Here the plural word vahnayaḥ must be understood as the divisions of Agni, Āhavanīya, Gārhapatya and Dakṣiṇāgni, which are established on the sacrificial altar and carry the oblations offered to the gods. The chief purport is that we praise such Agnis.
+
+*[Image note as supplied in kn.md: "This image contains no text. It appears to be a graphic or abstract design consisting of black shapes on a white background."]*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> दौश्च॑ त्वा पृथि॒वी य॒ज्ञिया॑सो॒ नि होता॑रं सादयंते॒ दमा॑य ।
+> यदी॒ विशो॒ मानु॑षीर्देव॒यंतीः॒ प्रय॑स्वती॒रीळ॑ते शु॒क्रम॒र्चिः॥३॥
+
+**॥ पदपाठः ॥**
+
+> द्याः । च । त्वा । पृथिवी । यज्ञियासः । नि । होतारं । सादयंते । दमाय ।
+> यॆदि । विशः । मानुषीः । देवयंतीः । प्रयस्वतीः । ईळते । शुक्रं । अर्चिः ॥ ३ ॥
+
+> *dyāḥ | ca | tvā | pṛthivī | yajñiyāsaḥ | ni | hotāraṃ | sādayaṃte | damāya |*
+> *yèdi | viśaḥ | mānuṣīḥ | devayaṃtīḥ | prayasvatīḥ | īḷate | śukraṃ | arciḥ ‖ 3 ‖*
+
+*(In the Pada यॆदि (*yèdi*) is printed so for यदि (*yadi*), as supplied.)*
+
+### Printed p. 778
+
+*[Running head, p. 778: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 6.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> दौश्चांतरिक्षं पृथिवी च यज्ञियासो यज्ञार्हा देवाश्च होतारं त्वा
+> त्वां दमाय । दमो यज्ञः । तस्मा अर्थं निषादयंते । उपशमयंति । यदि
+> यदा मानुषीर्मनोः संबंधिन्यो देवयंतीर्देवकामाः प्रयस्वतीर्हविष्मत्यो
+> विशः प्रजा होतारः शुक्रं दीप्तमर्चिरीळते । स्तुवंति ॥
+
+*(Gist: heaven, earth and the worthy gods seat you, the hotṛ, for the sacrifice (dama) when the devout people of Manu praise your bright flame with oblations.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yadi: when. Mānuṣīḥ: the descendants of Manu. Devayantīḥ: the devoted to the gods. Payasvatīḥ (printed पयस्वतीः (*payasvatīḥ*)): those who hold oblations. Viśaḥ: the people. Śukraṃ: bright. Arciḥ: flame. Īḷate: praise (then). Dyauśca: the atmosphere. Pṛthivī: the earth. Yajñiyāsaḥ: also the gods worthy of the sacrifice. Hotāraḥ (so printed): you in the form of hotṛ. Tvā: you. Damāya: for the sacrifice. Ni sādayante: appease (worship).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, when the people, descendants of Manu, devoted to the gods and holding oblations, praise your bright flame, then the atmosphere, the earth and the gods worthy of the sacrifice worship and satisfy you, in the form of hotṛ, for the sake of the sacrifice.
+
+**Printed English translation**
+
+The firmament and the earth and the adorable (gods) propitiate you their invoker, for the (completion of the) sacrifice, whenever the descendants of Manu, pious, and bearing oblations, glorify your radiant flame.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಯದಿ ಮಾನುಷೀಃ ದೇವಯಂತೀಃ ಪಯಸ್ವತೀಃ ವಿಶಃ ಶುಕ್ರಂ ಅರ್ಚಿಃ ಈಳತೇ ದ್ಯೌಶ್ಚ
+ಪೃಥಿವೀ ಯಜ್ಞಯಾಸಃ ಹೋತಾರಂ ತ್ವಾ ದಮಾಯ ನಿ ಸಾದಯಂತೇ⟧: O Agni, when human beings (human people), who wish to worship the gods and obtain their favour, prepare oblations for offering to the gods and pray to you, to offer through you (by offering in Agni), then heaven and earth and the other gods worthy of the sacrifice also appease and worship you for the sake of the sacrifice, that is, in order that the sacrifice be completed with all its parts; this is the chief purport of this Ṛk.
+
+*[The window ends here, at the end of p. 778; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 775 (PDF 775). Sūkta 5 ends (Ṛk 11 Special Topics); Sūkta 6 (Maṇḍala 3) begins: Sāyaṇa intro, Ṛk 1 (full) and Special Topics (kāravaḥ, sruc)
+**Progress note:** Done through printed p. 778 (PDF 778). Sūkta 6 Ṛk 2 (full) and Special Topics (seven tongues); Ṛk 3 (full) and Special Topics
