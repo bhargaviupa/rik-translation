@@ -15962,6 +15962,107 @@ the word देवाः (*devāḥ*) must be supplied. The gods came from the w
 > *mayaḥ | dadhe | medhiraḥ | pūtadakṣaḥ | divaḥ | subaṃdhuḥ | januṣā | pṛthivyāḥ |*
 > *aviṃdan | ūṃ iti | darśataṃ | apasu | aṃtaḥ | devāsaḥ | agniṃ | apasi | svasyaṇāṃ‖*
 
+### Printed p. 504
+
+*[Running head, p. 504: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. [as printed] 1, Sū. 1.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> मेधिरो मेधावान् प्राज्ञः पूतदक्षः शुद्धबलो जनुषा जन्ममात्रेण
+> सुबंधुः शोभनबंधुः । स्वत एव बंधुरिति यावत् । योग्निर्दिवो द्युलोकस्य
+> पृथिव्या भूमेकश्च मयः सुखं दधे विदधाति । देवानां मनुष्याणां च सुखं
+> करोतीति यावत् । तं दर्शतं दर्शनीयमग्निं देवासो देवाः स्वस्त्यणां सरण
+> शीलानां नदीनामप्संतर्गूढं स्थितमपसि यज्ञवहनरूपे कर्मणि निमित्ते ॥
+> उ इति पूरणः ॥ अविंदन् । लब्धवंतः ॥
+
+> *medhiro medhāvān prājñaḥ pūtadakṣaḥ śuddhabalo januṣā janmamātreṇa*
+> *subaṃdhuḥ śobhanabaṃdhuḥ | svata eva baṃdhuriti yāvat | yognirdivo dyulokasya*
+> *pṛthivyā bhūmekaśca mayaḥ sukhaṃ dadhe vidadhāti | devānāṃ manuṣyāṇāṃ ca sukhaṃ*
+> *karotīti yāvat | taṃ darśataṃ darśanīyamagniṃ devāso devāḥ svastyaṇāṃ saraṇa*
+> *śīlānāṃ nadīnāmapsaṃtargūḍhaṃ sthitamapasi yajñavahanarūpe karmaṇi nimitte ‖*
+> *u iti pūraṇaḥ ‖ aviṃdan | labdhavaṃtaḥ ‖*
+
+*(Gist: Agni, wise, of pure strength, a good friend from birth, who brings happiness to heaven and earth, was found by the gods hidden in the waters of the flowing rivers, for the sake of the sacrificial act. The bhāṣya reads स्वस्त्यणां (*svastyaṇāṃ*) while the Saṃhitā reads स्वसृणां (*svasṛṇāṃ*), and the Pratipadārtha has two further variants, as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Medhiraḥ: wise. Pūtadakṣaḥ: of pure strength. Januṣā: from birth. Subandhuḥ: an excellent friend (the Agni who). Divaḥ: to the world of heaven. Pṛthivyāḥ: to the earth. Mayaḥ: happiness. Dadhe: brings about (such a one). Darśataṃ: worthy of being seen. Agniṃ: Agni. Devāsaḥ: the gods. Svasṛṇāṃ [printed so, as ಸ್ವಸ್ಮಣಾಂ]: of the flowing rivers. Apsyantaḥ [printed so]: in the midst of the waters. Apasi: for the sake of the sacrificial act. Avindan u: sought and found.
+
+**भावार्थ (Bhāvārtha)**
+
+The gods found Agni, who is wise, of pure strength, a natural friend from birth, a bringer of happiness to heaven and earth, and worthy of being seen, in the midst of the waters of the rivers, for the sake of the sacrificial act.
+
+**Printed English translation**
+
+The gods discovered the graceful Agni (concealed) amidst the waters of the flowing (rivers), for the purpose of (sacred) acts: Agni, who is inteligent [sic], of purified vigour, and friendly; who from his birth bestowed happiness on earth and heaven.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಮೇಧಿರಃ ಪೂತದಕ್ಷಃ ಜನುಷಾ ಸುಬಂಧುಃ ದಿವಃ ಪೃಥಿವ್ಯಾಃ ಮಯಃ ದಧೇ—ಮೇಧಾವಾನ್
+ಪ್ರಾಜ್ಞಃ ಶುದ್ಧಬಲಃ ಜನ್ಮಮಾತ್ರೇಣ ಸುಬಂಧುಃ ಯೋಽಗ್ನಿಃ ದ್ಯುಲೋಕಸ್ಯ ಭೂಮೇಶ್ವ ಸುಖಂ
+ವಿದಧಾತಿ ।⟧ Wise, of great strength, a good friend from the time of his birth (from the time of his origin), Agni brings happiness to the world of the gods and also to the earth
+
+### Printed p. 505
+
+*[Running head, p. 505: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+—that is, he brings happiness to the gods in heaven and to men on earth. By conveying to the gods in heaven the oblations and the like that the sacrificers offer in the sacrifices men perform, he brings happiness to gods and men; so it is said. Since the oblations that men offer in their sacrifices reach the gods, the sacrifice is as if performed completely and its fruit reaches men; thereby men have happiness. The gods too, as if receiving through Agni the portions of oblation offered to them in the sacrifices, find happiness through Agni: this is the main intent.
+
+पूतदक्षः- पूत = शुद्ध, दक्ष = बल (*pūtadakṣaḥ- pūta = śuddha, dakṣa = bala*) (pure strength) is the component sense of this word. The word दक्ष (*dakṣa*) is read among the names of strength (Ni. 2-9). This word is read in the Ṛks—
+
+अबुद्धे राजा वरुणो वनस्योर्ध्वं स्तूपं दधते पूतदक्षः । (*abuddhe rājā varuṇo vanasyordhvaṃ stūpaṃ dadhate pūtadakṣaḥ |*)
+(Ṛ. Saṃ. 1-24-7)
+
+अर्चंति त्वा मरुतः पूतदक्षास्त्वमेषामृषिरिंद्रासि धीरः । (*arcaṃti tvā marutaḥ pūtadakṣāstvameṣāmṛṣiriṃdrāsi dhīraḥ |*)
+(Ṛ. Saṃ. 5-29-1)
+
+प्रति वां सूर उदिते सूक्तैर्मित्रं हुवे वरुणं पूतदक्षं । (*prati vāṃ sūra udite sūktairmitraṃ huve varuṇaṃ pūtadakṣaṃ |*)
+(Ṛ. Saṃ. 7-65-1)
+
+and also in Ṛks such as Ṛ. Saṃ. 1-23-4; 5-66-4; 6-51-9; 8-23-30; 8-25-1; 8-94-7; 8-94-10; 10-92-4. In explaining these Ṛks the commentator has explained पूतदक्षः (*pūtadakṣaḥ*) as pure strength, power, capacity. The authors of "Vedārthayatna" explain this word as "mind", and the English scholar Geldner (in English letters in the supplied text) as "purpose". But the meaning "strength" stated by the commentator, following the Nighaṇṭu (Ni. 2-9), is the appropriate one. In the Yajurveda's Taittirīya Saṃhitā, when commenting on the sentence दक्षश्च मे बलं च मे (*dakṣaśca me balaṃ ca me*) (Tai. Saṃ. 4-7-1-1), Mahīdhara explains दक्षः (*dakṣaḥ*) as skill of the organs of knowledge and बलं (*balaṃ*) as skill of the organs of action. The word दक्ष (*dakṣa*) indicates intellectual power and the word बल (*bala*) bodily power. Therefore the word दक्ष (*dakṣa*)—
+
+(1) दक्षं दधाते अपसं । (*dakṣaṃ dadhāte apasaṃ |*)
+(Ṛ. Saṃ. 1-2-9)
+
+as in this Ṛk, means ability or proficiency in doing a work, and—
+
+(2) दक्षं दधासि जीवसे । (*dakṣaṃ dadhāsi jīvase |*)
+(Ṛ. Saṃ. 1-91-7)
+
+### Printed p. 506
+
+*[Running head, p. 506: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+द्युमत्तमं दक्षं धैह्यस्मे सेधा जनानां पूर्वीररातीः । (*dyumattamaṃ dakṣaṃ dhaihyasme sedhā janānāṃ pūrvīrarātīḥ |*)
+(Ṛ. Saṃ. 6-44-9)
+
+य इंद्रो हरिवान्न दभंति तं रिपो दक्षं दधाति सोमिनि । (*ya iṃdro harivānna dabhaṃti taṃ ripo dakṣaṃ dadhāti somini |*)
+(Ṛ. Saṃ. 7-32-12)
+
+स्व दक्षाय प्रचेतसा । (*sva dakṣāya pracetasā |*) (Ṛ. Saṃ. 8-9-20)
+
+In Ṛks such as these the word दक्ष (*dakṣa*) has the sense "intellectual power". Besides, the word दक्ष (*dakṣa*) indicates the purpose or resolve of the mind, and the word क्रतु (*kratu*) indicates understanding, that is, the power of knowing.
+
+(1) भद्रं नो अपि वातय मनो दक्षमुत क्रतुं । (*bhadraṃ no api vātaya mano dakṣamuta kratuṃ |*)
+(Ṛ. Saṃ. 10-25-1)
+
+(2) आ त एतु मनः पुनः क्रत्वे दक्षाय जीवसे । (*ā ta etu manaḥ punaḥ kratve dakṣāya jīvase |*)
+(Ṛ. Saṃ. 10-57-4)
+
+(3) त्वं सोम क्रतुभिः सुक्रतुर्भूस्त्वं दक्षैः सुदक्षो विश्ववेदाः । (*tvaṃ soma kratubhiḥ sukraturbhūstvaṃ dakṣaiḥ sudakṣo viśvavedāḥ |*)
+(Ṛ. Saṃ. 1-91-2)
+
+(4) अधा ह्यग्ने क्रतोर्भद्रस्य दक्षस्य साधोः । (*adhā hyagne kratorbhadrasya dakṣasya sādhoḥ |*)
+(Ṛ. Saṃ. 4-10-2)
+
+In Ṛks such as these, and in Ṛ. Saṃ. 10-31-2; 1-111-2; 4-37-2; 5-10-2; 5-43-5; 6-16-7; 7-86-6; 8-42-3; 8-48-8; 8-68-4; 9-4-3; 9-16-2 [the supplied text has a colon between the last two references, changed to a semicolon]; 10-92-10, the meanings stated above are indicated.
+
+⟦ದರ್ಶತಂ ಅಗ್ನಿಂ ದೇವಾಸಃ ಸ್ವಸೃಣಾಂ ಅಪ್ಸ್ವಂತಃ ಅಪಸಿ ಅವಿಂದನ್—ತಂ ದರ್ಶನೀಯಮಗ್ನಿಂ
+ದೇವಾಃ ಸರಣಶೀಲಾನಾಂ ನದೀನಾಂ ಅಪ್ಸು ಗೂಢಂ ಸ್ಥಿತಂ ಯಜ್ಞವಹನರೂಪೇ ಕರ್ಮಣಿ ನಿಮಿತ್ತೇ
+ಲಬ್ಧವಂತಃ ।⟧ That Agni, fit to be seen, that is, of gentle form, the gods found hidden amid the waters of the flowing rivers and got again, in order to bear the portion of oblations to the gods in sacrifices. There is a story about why Agni hid in the water and how the gods sought him out and brought him back.
+
+In the 51st sūkta of the tenth maṇḍala of the Ṛgveda (Ṛ. 10-51-6 to 9) this matter is described in detail:—
+
 ---
 
-**Progress note:** Done through printed p. 503 (PDF 503). Sukta 1 (Mandala 3) Rik 2 complete (pp. 501-503); Rik 3 Samhita and Pada at end of p. 503. Flags: garbled Pada label kept as note; Pada of Rik 3 lacks closing number; p. 502 head A. printed; 1 accent DIFF
+**Progress note:** Done through printed p. 506 (PDF 506). Sukta 1 (Mandala 3) Rik 3 complete (pp. 504-506): word notes on medhira, putadaksha (many Rik citations), darshata; the story of Agni hiding in the waters is introduced and breaks off at the citation of Rik 10-51-6 to 9. Flags: colon between two references in the list changed to semicolon in kn.md; variants svasrnam/svastyanam as supplied
