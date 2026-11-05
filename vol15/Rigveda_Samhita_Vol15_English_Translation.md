@@ -1067,6 +1067,127 @@ The wealth to be obtained from this Bṛhaspati — विभु, प्रभ�
 > *saḥ | devaḥ | devān | prati | paprathe | pṛthu | viśvā | it | ūṃ iti | tā | paribhūḥ |*
 > *brahmaṇaḥ | patiḥ ‖ 11 ‖*
 
+### Printed p. 37
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 3] Ṛgveda-saṃhitā 37 (as supplied).*
+
+(Ṛk 11 continues.)
+
+**॥ सायणभाष्यम् ॥**
+
+> विश्वथा सर्वप्रकारेण विभुर्व्याप्तो रणो रमयिता स्तोतव्यो वा यो
+> ब्रह्मणस्पतिरवरे निकृष्टे वृजने वर्जनहेतुभूते बले वर्तमानं । दुर्बलमिति
+> यावत् । महामु महांतं च ॥ छांदसो वर्णलोपः ॥ उभयविधं स्तोतारं
+> शवसात्मीयेन बलेन ववक्षिथ । वोढुमिच्छति । सर्वदा वहतीति यावत् ॥ वहते?
+> सनंतस्य लिट्येतद्रूपं । पुरुषव्यत्ययः ॥ स देवो दानादिगुणयुक्तो देवान्
+> प्रति सर्वेषां देवानां । प्रतिनिधिः सन् पृथु पप्रथे । अत्यंतं प्रथते । यशसा
+> विस्तीर्णो भवतीति यावत् । यस्मादेवं तस्माद्विश्वेदु सर्वाण्येव ता तानि सर्वाणि
+> भूतजातानि परिभूः परिभवन् अभिभवन् वर्तत इति शेषः ॥
+
+> *viśvathā sarvaprakāreṇa vibhurvyāpto raṇo ramayitā stotavyo vā yo*
+> *brahmaṇaspatiravare nikṛṣṭe vṛjane varjanahetubhūte bale vartamānaṃ | durbalamiti*
+> *yāvat | mahāmu mahāṃtaṃ ca ‖ chāṃdaso varṇalopaḥ ‖ ubhayavidhaṃ stotāraṃ*
+> *śavasātmīyena balena vavakṣitha | voḍhumicchati | sarvadā vahatīti yāvat ‖ vahate?*
+> *sanaṃtasya liṭyetadrūpaṃ | puruṣavyatyayaḥ ‖ sa devo dānādiguṇayukto devān*
+> *prati sarveṣāṃ devānāṃ | pratinidhiḥ san pṛthu paprathe | atyaṃtaṃ prathate | yaśasā*
+> *vistīrṇo bhavatīti yāvat | yasmādevaṃ tasmādviśvedu sarvāṇyeva tā tāni sarvāṇi*
+> *bhūtajātāni paribhūḥ paribhavan abhibhavan vartata iti śeṣaḥ ‖*
+
+Gist: Brahmaṇaspati, pervasive and delightful, wishes to bear by his own strength both the lowly and the eminent worshipper; being the foremost representative of the gods he is widely renowned and surpasses all beings.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विश्वथा (*viśvathā*)—in every way; विभुः (*vibhuḥ*)—all-pervading; रण्वः (*raṇvaḥ*)—delightful; यः ब्रह्मणस्पतिः (*yaḥ brahmaṇaspatiḥ*)—which Brahmaṇaspati; अवरे (*avare*)—low; वृजने (*vṛjane*)—the worshipper who is in a miserable state; महामु (*mahāmu*)—the worshipper who is in an excellent state; शवसा (*śavasā*)—with his strength; ववक्षिथ (*vavakṣitha*)—wishes to bear; सः देवः (*saḥ devaḥ*)—he, the divine one; देवान् प्रति (*devān prati*)—in the eyes of the gods; पृथु (*pṛthu*)—exceedingly; पप्रथे (*paprathe*)—has become widely spread (by his fame he is renowned beyond all of them); विश्वेदु (*viśvedu*)—all; ता (*tā*)—beings; परिभूः (*paribhūḥ*)—surpassing, he is superior to all.
+
+**भावार्थ (Bhāvārtha)**
+
+Brahmaṇaspati, who is all-pervading and delightful, wishes to bear with his strength both the worshipper in a low, wretched state and the worshipper in an excellent state. The same Brahmaṇaspati, being of divine nature, is more famed than all the gods. Surpassing all beings, he is superior to everything.
+
+**Printed English**
+
+He, who is all-pervading and delighting, is willing to sustain by his strength the noble worshipper, as well as one who is in low distress: greatly is that Brahmanaspathi renowned amongst the gods, and therefore is he verily supreme above all (beings).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Brahmaṇaspati is pervasive in many ways; this god, who is a giver of happiness or worthy of praise, is, according to Sāyaṇa, वृजने—वर्जनहेतुभूते बले वर्तमानं दुर्बलं (*vṛjane—varjanahetubhūte bale vartamānaṃ durbalaṃ*)
+
+### Printed p. 38
+
+*Running head: [38 Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24] (as supplied).*
+
+(Special Topics continued.) — one who is weak, abandoned by all, and महांतं च (*mahāṃtaṃ ca*), one who is filled with greatness: it is described that he wishes to protect, by his own power, the worshippers of these two kinds; and that this god, who is endowed with qualities such as generosity, shines alone as the representative of all the gods (देवान् पप्रथे (*devān paprathe*)), and therefore his fame is widespread. विश्वेदु ता परिभूः - सर्वाणि भूतजातानि अभिभवन् वर्तते (*viśvedu tā paribhūḥ - sarvāṇi bhūtajātāni abhibhavan vartate*): it is concluded that this god shines, overcoming all creatures by his fame and by his power.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> विश्वं॑ स॒त्यं म॑घवाना यु॒वोरिदाप॑श्च॒न प्रमि॑नंति व्र॒तं वां॑ ।
+> अच्छें॑द्राब्रह्मणस्पती ह॒विर्नोऽन्नं॒ युजी॑व वा॒जिना॑ जिगातं ॥
+
+**॥ पदपाठः ॥**
+
+> विश्वं । सत्यं । मघवाना । युवोः । इत् । आपः । चन । प्र । मिनंति । व्रतं । नां [?] !
+> अच्छ । इंद्राब्रह्मणस्पती इति । हविः । नः । अन्नं । युजाइव । वाजिना । जिगातं ॥
+
+**॥ सायणभाष्यम् ॥**
+
+(No Ṛk number is printed after the Saṃhitā in the supplied text. The bhāṣya runs on to p. 39.)
+
+> हे मघवाना । मघमिति धननाम । तद्वंताविंद्राब्रह्मणस्पती युवोरित्
+> युवयोरेव विश्वं सर्वं स्तोत्रं सत्यं यथार्थं । स्तुत्या यद्यद्गुणजातं
+> प्रतिपाद्यते तत्सर्वं युवयोर्विद्यमानमेव न त्वारोपितमित्यर्थः । तथा
+> चनेत्येतत्पदद्वयसमुदायः । ऐकपद्यं त्वध्यापकसांप्रदायिकं यद्येव शब्दस्य
+> पूर्वपदे न । अपश्च आपोऽपि । उपलक्षणमेतत् । एतदुपलक्षितानि सर्वाण्यपि
+> भूतानि वां युवयोर्व्रतं कर्म न प्रमिनंति । न हिंसंति ॥ मीज् हिंसायां
+> क्रैयादिकः । मीनार्तेनिगम इति ह्रस्वत्वं ॥ हे इंद्राब्रह्मणस्पती नोऽस्माकं
+> हविरच्छाभिमुख्येन जिगातं । गच्छतं । आगच्छतमिति यावत् ॥ जिगातिर्गतिकर्मा ।
+> जौहोत्यादिकः ॥ तत्र दृष्टांतः । युजीव वाजिना । युजा रथे नियुक्तौ वाजिनौ
+
+> *he maghavānā | maghamiti dhananāma | tadvaṃtāviṃdrābrahmaṇaspatī yuvorit*
+> *yuvayoreva viśvaṃ sarvaṃ stotraṃ satyaṃ yathārthaṃ | stutyā yadyadguṇajātaṃ*
+> *pratipādyate tatsarvaṃ yuvayorvidyamānameva na tvāropitamityarthaḥ | tathā*
+> *canetyetatpadadvayasamudāyaḥ | aikapadyaṃ tvadhyāpakasāṃpradāyikaṃ yadyeva śabdasya*
+> *pūrvapade na | apaśca āpo 'pi | upalakṣaṇametat | etadupalakṣitāni sarvāṇyapi*
+> *bhūtāni vāṃ yuvayorvrataṃ karma na praminaṃti | na hiṃsaṃti ‖ mīj hiṃsāyāṃ*
+> *kraiyādikaḥ | mīnārtenigama iti hrasvatvaṃ ‖ he iṃdrābrahmaṇaspatī no 'smākaṃ*
+> *haviracchābhimukhyena jigātaṃ | gacchataṃ | āgacchatamiti yāvat ‖ jigātirgatikarmā |*
+> *jauhotyādikaḥ ‖ tatra dṛṣṭāṃtaḥ | yujīva vājinā | yujā rathe niyuktau vājinau*
+
+### Printed p. 39
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 3] Ṛgveda-saṃhitā 39 (as supplied).*
+
+(Bhāṣya of Ṛk 12 continues, mid-word.)
+
+> वेजनवंतावश्वावन्नं घासं प्रति यथा स्वयमेव शीघ्रं गच्छतस्तद्वत् शीघ्रमाग-
+> च्छतमित्यर्थः ॥ युजेवेत्यत्र सुपां सुलुगिति प्रथमाद्वि वचनस्याकारः । तृतियायां
+> हि सावेकाच इति विभक्तेरुदात्तत्वं ॥
+
+> *vejanavaṃtāvaśvāvannaṃ ghāsaṃ prati yathā svayameva śīghraṃ gacchatastadvat śīghramāga-*
+> *cchatamityarthaḥ ‖ yujevetyatra supāṃ sulugiti prathamādvi vacanasyākāraḥ | tṛtiyāyāṃ*
+> *hi sāvekāca iti vibhakterudāttatvaṃ ‖*
+
+Gist: "All praise is true of you both, Indra and Brahmaṇaspati; creatures (waters) do not violate your rite; come swiftly to our oblation like two harnessed horses to their fodder." The grammatical tail (the ending of the dual, accent of the instrumental) is not explained.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मघवाना (*maghavānā*)—lords of wealth [as supplied, a stray "1" follows this word]; इंद्राब्रह्मणस्पती (*iṃdrābrahmaṇaspatī*)—O gods, Indra and Brahmaṇaspati; विश्वं (*viśvaṃ*)—all praise; सत्यं (*satyaṃ*)—in truth; युवोरित् (*yuvorit*)—is yours alone; आपश्च (*āpaśca*)—and all beings that rest on water; वां (*vāṃ*)—of you two; व्रतं (*vrataṃ*)—the rite; न प्र मिनंति (*na pra minaṃti*)—do not harm (do not transgress); युजा (*yujā*)—yoked to a chariot; वाजिना (*vājinā*)—horses; अन्नं इव (*annaṃ iva*)—as they go eagerly towards grass; नः (*naḥ*)—our; हविः (*haviḥ*)—to the oblation; अच्छ (*accha*)—facing; जिगातं (*jigātaṃ*)—come.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra and Brahmaṇaspati, lords of wealth, all praise is truly yours. All beings that rest on water do not [?] your rite. As horses harnessed to a पथ (*patha*)-[?] (the supplied text has पथक्कॆ (*pathakkè*) "to the path", probably for रथक्कॆ (*rathakkè*) "to the chariot") go eagerly towards grass, so come to our oblation.
+
+(Doubt: the supplied text has मारुवुदिल्ल (*māruvudilla*) "will not sell" where the Pratipadārtha has "do not harm (transgress)"; probably मीरुवुदिल्ल (*mīruvudilla*) "do not transgress".)
+
+**Printed English**
+
+All truth, lords of wealth, (Indra and Brahmanaspathi), is inherent in you both : the waters injure not your rites: come to our presence (to receive) our oblations, like a pair of steeds (to receive) their provender.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this sūkta both Indra and Brahmaṇaspati are praised. मघवाना—तद्वंत् इंद्राब्रह्मणस्पती (*maghavānā—tadvaṃt iṃdrābrahmaṇaspatī*). The word मघ (*magha*) is stated by Yāska among the names of wealth (Ni. 3-9). By this word Indra and Brahmaṇaspati are addressed as possessors of wealth.
+युवयोरित् विश्वं सत्यं—युवयोरेव सर्वं स्तोत्रं यथार्थं । स्तुत्या यद्यद्गुणजातं प्रतिपाद्यते तत्सर्वं युवयोः विद्यमानमेव न त्वारोपितं (*yuvayorit viśvaṃ satyaṃ—yuvayoreva sarvaṃ stotraṃ yathārthaṃ | stutyā yadyadguṇajātaṃ pratipādyate tatsarvaṃ yuvayoḥ vidyamānameva na tvāropitaṃ*). Here the word विइल्लिश्व (*viilliśva*) [?] (as supplied, evidently विश्व (*viśva*) with a stray word run in) is given the meaning "all kinds (of every sort) of praises".
+
 ---
 
-**Progress note:** Done through printed p. 36 (PDF 36). Sūkta 24: Ṛk 9 Special Topics (p. 34); Ṛk 10 complete (pp. 34-36); Ṛk 11 Saṃhitā and Pada (p. 36). Flags: hand fix to kn.md: garbled labels for Ṛk 10 Saṃhitā/Pada on p. 34 replaced, lines quoted; 1 [?] (p. 34 'ಸಂಗಶಾನಾಂ' evidently for ಸಂಗತಾನಾಂ); oddities kept: 'ಚಾಕ್ಷೃಃ', 'ಸ್ತೋತ್ಯಣಾಮ', bhāṣya 'ಲಬ್ಬವ್ಯಾನಿ', Pada 'ಪೃಜನೇ' vs Saṃhitā 'ವೃಜನೇ', Pada 'ಮಹಾಂ । ಊಂ ಇತಿ'; Special Topics of Ṛk 10 breaks across pp. 35-36 mid-sentence; Ṛk 11 continues
+**Progress note:** Done through printed p. 39 (PDF 39). Sūkta 24: Ṛk 11 complete (bhāṣya to Special Topics, pp. 37-38); Ṛk 12 Saṃhitā, Pada, bhāṣya (pp. 38-39), Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (p. 39, ends at window end). Flags: hand fixes to kn.md: Pratipadārtha split from the Ṛk 11 bhāṣya block; 4 [?] in kn.md/3 in en.md (Pada 'ನಾಂ' for ವಾಂ, Bhāvārtha 'ಪಥಕ್ಕೆ' for ರಥಕ್ಕೆ, 'ಮಾರುವುದಿಲ್ಲ' for ಮೀರುವುದಿಲ್ಲ, 'ವಿಇಲ್ಲಿಶ್ವ'); stray '1' after ಮಘವಾನಾ in Pratipadārtha; no Ṛk number printed after Ṛk 12 Saṃhitā in supplied text; Special Topics of Ṛk 12 continues
