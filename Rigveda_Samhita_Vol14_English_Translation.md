@@ -26099,4 +26099,90 @@ In this Ṛk it is stated that Indra becomes pleased by the oblations and the li
 
 ---
 
-**Progress note:** Done through printed p. 680 (PDF 703); header offset −23 holds. Sūkta 12: Ṛk 13 is complete (rest of the Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on p. 678). Ṛk 14 is complete (Saṃhitā, Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha on p. 679; printed English and Viśeṣaviṣayagaḷu on p. 680). Ṛk 15 is open: only its Saṃhitā is written (foot of p. 680); the next batch begins on p. 681 with its Padapāṭha. No grammar pages. FILE DISAGREE: none (the numeral file has no rows for these pages). Unzoomed numerals: headers of pp. 678–680 (Sūkta 12, varga 9), Ṛk numbers 14 and 15. [?] places: "यस्यैदं" in the Ṛk 14 Saṃhitā (printed with the ai-sign; Pada and bhāṣya have इदम्); "परिवृढं" in the Ṛk 14 bhāṣya; "यजमानमुवः" in the Viśeṣaviṣaya heading (printed so; bhāṣya has यजमानमवति).
+### Printed p. 681 (PDF 704)
+
+*(Header: "A. 2 A. 6 V. 9 ]" [unzoomed], "Ṛgvedasaṃhitā", "681". Ṛk 15 continues from p. 680. A small caption "Padapāṭha" is printed. Accents and the underlines of the Pada are not reproduced.)*
+
+**॥ पदपाठः ॥**
+
+> यः । सुन्वते । पचते । दुध्रः । आ । चित् । वाजं । दर्दर्षि । सः । किल । असि । सत्यः ।
+> वयं । ते । इन्द्र । विश्वह । प्रियासः । सुऽवीरासः । विदथं । आ । वदेम ॥ १५ ॥
+
+> *yaḥ | sunvate | pacate | dudhraḥ | ā | cit | vājaṃ | dardarṣi | saḥ | kila | asi | satyaḥ |*
+> *vayaṃ | te | indra | viśvaha | priyāsaḥ | su 'vīrāsaḥ | vidathaṃ | ā | vadema ‖ 15 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: The ṛṣi now speaks to Indra directly: you, irresistible, give food and strength to the Soma-presser who cooks the oblations, and so you are true; may we, dear to you and blessed with good sons, praise you daily.*
+
+*(Reading notes: "वादर्दर्षि" is printed as one word, probably "वा दर्दर्षि" [?]; "सर्वेष्वहःसु" is as printed.)*
+
+> इदानीमृषिः साक्षात्कृतमिन्द्रं प्रति प्रब्रूते । हे इन्द्र यो दुध्रो दुर्धरः सन् सुन्वते सोमाभिषवं कुर्वते पुरोडाशादिहवींषि पचते यजमानाय वाजमन्नं बलं वादर्दर्षि । भृशं प्रापयसि स तादृशस्त्वं सत्यो यथार्थभूतोऽसि । न पुनर्नास्तीति बुद्धियोग्योऽसि । किलेति प्रसिद्धौ । ते तव प्रियासः सुवीरासः कल्याणपुत्रपौत्राः सन्तो वयं विश्वह सर्वेष्वहःसु विदथं स्तोत्रमावदेम । ब्रूयाम ॥
+
+> *idānīmṛṣiḥ sākṣātkṛtamindraṃ prati prabrūte | he indra yo dudhro durdharaḥ san sunvate somābhiṣavaṃ kurvate puroḍāśādihavīṃṣi pacate yajamānāya vājamannaṃ balaṃ vādardarṣi | bhṛśaṃ prāpayasi sa tādṛśastvaṃ satyo yathārthabhūto 'si | na punarnāstīti buddhiyogyo 'si | kileti prasiddhau | te tava priyāsaḥ suvīrāsaḥ kalyāṇaputrapautrāḥ santo vayaṃ viśvaha sarveṣvahaḥsu vidathaṃ stotramāvadema | brūyāma ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इन्द्र (*indra*)—O Indra. यः (*yaḥ*)—who. दुध्रः (*dudhraḥ*)—being unobstructed. सुन्वते (*sunvate*)—to the one who presses Soma juice, पचते (*pacate*)—and who cooks the purodāśa and the like, that is, to the yajamāna. वाजं (*vājaṃ*)—food and strength. आ दर्दर्षि (*ā dardarṣi*)—do you give abundantly. सः (*saḥ*)—such as you are. सत्यः (*satyaḥ*)—of true nature. असि किल (*asi kila*)—are you not? ते (*te*)—to you. प्रियासः (*priyāsaḥ*)—dear ones, सुवीरासः (*suvīrāsaḥ*)—(by your favour) endowed with auspicious sons, grandsons and the like. वयं (*vayaṃ*)—we. विश्वह (*viśvaha*)—on all days. विदथं (*vidathaṃ*)—the stotra. आ वदेम (*ā vadema*)—we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who, unobstructed, give food and strength in abundance to the yajamāna who presses Soma juice and cooks the purodāśa and the like: such as you are, you are of true nature, are you not? We, who are dear to you, and who by your favour are endowed with auspicious sons, grandsons and the like, recite the stotra on all days.
+
+**English Translation** *(as printed)*
+
+Indra, you are difficult of approach; you, verily, are a true (benefactor), who bestow (abundant) food upon him who offers the libation, who prepares (the mixed curds and butter): may we, enjoying your favour, blessed with progeny, daily repeat (your praise) at the sacrifice.
+
+---
+
+### Printed p. 682 (PDF 705)
+
+*(Header: "682", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12" [numerals unzoomed].)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk, which closes the sūkta, the ṛṣi addresses Indra directly and prays that he give desired things such as food and heroic sons and grandsons.
+
+Yāska has said that mantras are of many kinds according to the meaning in them. It is necessary to state this here briefly:
+
+*(Reading notes: in the line "यत्काम ऋषियु स्यां" the printed letters are as given, probably for "ऋषिर्यस्यां" [?]; "देवतायामार्थपत्यम्" is read with the ā-sign, doubtful [?]. Reference printed: Nirukta, Daivatakāṇḍa 7-1 to 3.)*
+
+> तद्यानि नामानि प्राधान्यस्तुतीनां देवतानां तद्दैवतमित्याचक्षते । यत्काम ऋषियु स्यां देवतायामार्थपत्यमिच्छन्स्तुतिं प्रयुङ्क्ते तद्दैवतः स मन्त्रो भवति । ताः त्रिविधा ऋचः परोक्षकृताः प्रत्यक्षकृता आध्यात्मिकाश्च । तत्र परोक्षकृताः सर्वाभिर्नामविभक्तिभिर्युज्यन्ते प्रथमपुरुषैश्चाख्यातस्य । अथ प्रत्यक्षकृता मध्यमपुरुषोपयोगास्त्वमिति चैतेन सर्वनाम्ना । अथाध्यात्मिक्य उत्तमपुरुषयोगा अहमिति चैतेन सर्वनाम्ना । परोक्षकृताः प्रत्यक्षकृताश्च मन्त्रा भूयिष्ठा अल्पश आध्यात्मिकाः ॥
+
+> *tadyāni nāmāni prādhānyastutīnāṃ devatānāṃ taddaivatamityācakṣate | yatkāma ṛṣiyu syāṃ devatāyāmārthapatyamicchanstutiṃ prayuṅkte taddaivataḥ sa mantro bhavati | tāḥ trividhā ṛcaḥ parokṣakṛtāḥ pratyakṣakṛtā ādhyātmikāśca | tatra parokṣakṛtāḥ sarvābhirnāmavibhaktibhiryujyante prathamapuruṣaiścākhyātasya | atha pratyakṣakṛtā madhyamapuruṣopayogāstvamiti caitena sarvanāmnā | athādhyātmikya uttamapuruṣayogā ahamiti caitena sarvanāmnā | parokṣakṛtāḥ pratyakṣakṛtāśca mantrā bhūyiṣṭhā alpaśa ādhyātmikāḥ ‖*
+
+That is: mantras are of many kinds according to their meaning—daivata-mantra, stuti-mantra, āśīr-mantra, śapatha, abhiśāpa, kaścid-bhāva, paridevanā, nindā and praśaṃsā. A daivata-mantra is a mantra describing the greatness of the deities; stuti is a mantra containing praise (stotra) or prayers; āśīḥ is blessing, a mantra wishing good; śapatha is a vow or promise; abhiśāpa is an evil wish (a curse); kaścid-bhāva is the statement of some matter or principle; paridevanā is lament or distress; nindā is blame, censure; praśaṃsā is praise, such as the dāna-stuti, and so on.
+
+Among the many kinds of mantras mentioned above, the Ṛks called daivata are of three kinds: parokṣakṛta, pratyakṣakṛta and ādhyātmika. Parokṣakṛta means mantras in which, because the deity praised is not present before the speaker, nouns in the third person and verbs are used with reference to that deity while praising (Third person both in subject and predic.te [sic]). Pratyakṣakṛta means Ṛks that praise by imagining the deity praised as present before one's eyes and addressing it with second-person words (Second person) such as "you" and "your". Ādhyātmika means mantras that praise by using the first person (First person). Among these three kinds of mantras, the two kinds, parokṣakṛta and pratyakṣakṛta, are the more numerous; the ādhyātmika mantras are very few. In the present sūkta the first 14 Ṛks are parokṣakṛta mantras. The last, the 15th Ṛk, is pratyakṣakṛta.
+
+*(A short rule closes Sūkta 12.)*
+
+---
+
+### Printed p. 683 (PDF 706)
+
+*(Header: "A. 2 A. 6 V. 10 ]" [unzoomed], "Ṛgvedasaṃhitā", "683".)*
+
+## The thirteenth Sūkta (हदिमूरनेय सूक्तवु)
+
+*(Ṛṣi Gṛtsamada; devatā Indra; Ṛks 1–12 jagatī, Ṛk 13 triṣṭubh; 13 Ṛks; second Anuvāka, second Sūkta: all as stated in the bhāṣya and the Anuvāda below.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: A Gṛtsamada sūkta of 13 Ṛks to Indra, the last a triṣṭubh and the rest jagatī; used in the Acchāvāka's śastra at the third savana of the Ukthya, and on the sixth day of the Daśarātra.*
+
+*(Reading notes: the Anukramaṇikā words "सप्तोनान्त्या" and the word "देवता" [printed perhaps "धेवता", read as देवता] are as read; "मर्तो" is read as printed [?]. The sūtra references printed: "आ. ६-१" and "आ. ८-४", both agreeing with the numeral file.)*
+
+> ऋतुर्जनित्रीति त्रयोदशर्चं द्वितीयं सूक्तं गात्समदं । ऋतुः सप्तोनान्त्या त्रिष्टुबित्यनुक्रमणिका । अस्मभ्यं तद्वसो इति त्रयोदशी त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । इन्द्रो देवता ॥ उक्थ्ये तृतीयसवनेऽच्छावाकशस्त्रेऽस्य सूक्तस्य विनियोगः । सूत्रितं च । ऋतुर्जनित्री नो मर्तो भवा मित्रः । आ. ६-१ । इति ॥ दशरात्रे षष्ठेऽहन्यपि तृतीयसवनेऽच्छावाकशस्त्र एतत्सूक्तं । ऋतुर्जनित्रीति नित्यान्यैकाहिकानि । आ. ८-४ । इति सूत्रितं ॥
+
+**Anuvāda (as printed in Kannada, rendered)**
+
+Anuvāda—This sūkta beginning ऋतुर्जनित्री (*ṛturjanitrī*) is the second sūkta in the second Anuvāka. It has thirteen Ṛks. The ṛṣi of this sūkta is Gṛtsamada. Since the Anukramaṇikā says ऋतुः सप्तोनान्त्या त्रिष्टुप् (*ṛtuḥ saptonāntyā triṣṭup*), the last Ṛk, the thirteenth, beginning अस्मभ्यं तद्वसो (*asmabhyaṃ tadvaso*), is in triṣṭubh metre; the remaining twelve Ṛks are in jagatī metre. Indra is the deity. That this sūkta is applied (viniyoga) to the śastra-mantras to be recited by the ṛtvij called Acchāvāka at the third savana in the Ukthya sacrifice is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, ऋतुर्जनित्री नो मर्तो भवा मित्रः (*ṛturjanitrī no marto bhavā mitraḥ*) (Ā. 6-1); and that this sūkta is to be recited among the śastra-mantras recited by the ṛtvij called Acchāvāka at the third savana on the sixth day of the sacrifice called Daśarātra is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, ऋतुर्जनित्रीति नित्यान्यैकाहिकानि (*ṛturjanitrīti nityānyaikāhikāni*) (Ā. 8-4).
+
+*(The page ends here; Ṛk 1 of this sūkta begins on p. 684.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 683 (PDF 706). Sūkta 12 is complete: Ṛk 15 finished (Padapāṭha, bhāṣya with gist, Pratipadārtha, Bhāvārtha, printed English on p. 681; Viśeṣaviṣayagaḷu on p. 682, with the Nirukta passage and the three kinds of daivata Ṛks). Sūkta 13 (Gṛtsamada, Indra, 13 Ṛks, Ṛks 1–12 jagatī, 13 triṣṭubh) is opened on p. 683 with the bhāṣya and the Anuvāda; no Ṛk of it is written yet; the next batch begins on p. 684 with Ṛk 1. No grammar pages. FILE DISAGREE: none (file 7-1, 6-1, 8-4 agree with the strips; no file rows for p. 681). Unzoomed numerals: headers of pp. 681–683 (Sūkta 12 varga 9; p. 683 varga 10), Ṛk number 15, "14"/"15" in the Viśeṣa. [?] places: "वादर्दर्षि" (printed joined) in the Ṛk 15 bhāṣya; "ऋषियु स्यां" and "देवतायामार्थपत्यम्" in the Nirukta passage; "देवता" (possibly printed "धेवता") and "मर्तो" in the Sūkta 13 bhāṣya; Sūkta 13 heading written as "The thirteenth Sūkta".
