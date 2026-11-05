@@ -15,3 +15,4 @@ pp. 408-410 | sonnet | tokens n/a | ~3 min
 | 770-772 | sonnet | 10 tool uses | 98974 tokens | ~2 min |
 | 773-775 | sonnet | n/a | see agent | ~2 min |
 | 776-778 | sonnet | n/a | see agent | ~2 min |
+| 779-781 | sonnet | n/a | see agent | ~2 min |
