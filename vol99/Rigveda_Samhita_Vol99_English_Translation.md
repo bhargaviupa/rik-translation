@@ -181,6 +181,114 @@ This sūkta *imāṃ me* is the sixth sūkta in the first anuvāka. It has eight
 
 Om. Sūkta 6. Maṇḍala 2, Anuvāka 1, Sūkta 6. Aṣṭaka 2, Adhyāya 5, Varga 27. Number of ṛks in the sūkta: 8. Seer: सोमहृतिर्भार्गवः (*somahṛtirbhārgavaḥ*) (as supplied; the introduction above has Somāhuti). Deity: Agni (printed देवका (*devakā*)). Metre: Gāyatrī (printed छंद‘ (*chaṃda‘*) गायत्री (*gāyatrī*)).
 
+### Printed p. 507
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 27, Ṛgveda-saṃhitā, p. 507.*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> इ॒मां मे॑ अग्ने स॒मिध॑मि॒मामु॑प॒सदं॑ वनेः ।
+> इ॒मा उ॒ शु श्रु॑धी॒ गिरः॑ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> इमां । मे । अग्ने । संइधं । इमां । उपसदं । वनेरिति वनेः ।
+> इमाः । ऊं इति । सु । श्रुधि । गिरः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने मे मदीयामिमामाधीयमानां समिधं इमामुपसदमुप-
+> सदनसाधनामाहुतिमुपसद्यागे क्रियमाणां वा वनेः । संभजेथाः । तथेमा उ
+> इमा अपि गिरः स्तुतीः सु सुष्टु श्रुधि । शृणु ॥
+
+*Gist:* O Agni, accept this fuel and this oblation of the Upasad rite, and listen well to these praises.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*)—O Agni. मे (*me*)—my (offered by me). इमां समिधं (*imāṃ samidhaṃ*)—this fuel-stick too. इमां उपसदं (*imāṃ upasadaṃ*)—this oblation, a part of the Upasad sacrifice. वनेः (*vaneḥ*)—accept and partake. इमा उ गिरः (*imā u giraḥ*)—these praises also. सु श्रुधि (*su śrudhi*)—listen with favour.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, accept this fuel-stick offered by me and this oblation that belongs to the Upasad sacrifice. Listen with favour to these praises also.
+
+**Printed English**
+
+Agni, accept this my fuel, this my oblation; listen, well pleased, to my praises.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उपसदं (*upasadaṃ*)—Upasad is said to be an important part of the Jyotiṣṭoma sacrifice.
+
+समिधं (*samidhaṃ*)—इंध् दीप्तौ (*iṃdh dīptau*): from the root meaning "to shine well, to burn", this word is the name for the ends of certain dry trees that burn well. When offering in the fire
+
+### Printed p. 508
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 6, p. 508.*
+
+as a homa, these are the small dry twigs fallen beneath sacrificially suitable trees such as the aśvattha (peepal). They are thinner than a little finger and four to six inches long. The tip (end) is called the agra-bhāga (front part); sticks having such a tip are used for offering in the fire. When the sticks are offered, certain prescribed Ṛks are recited; these are called Sāmidhenī mantras, and there are seventeen of them.
+
+गिरः (*giraḥ*)—praises in the form of speech or of a Ṛk. Yāska has read the word गीः (*gīḥ*) among the words for speech (Nir. 2-23); also गिरः—स्तुतयो गिरो गृणातेः (*giraḥ—stutayo giro gṛṇāteḥ*) (Nir. 1 10) [as supplied]. The word गिरः (*giraḥ*) is derived from the root गृ शब्दे (*gṛ śabde*); गिरः (*giraḥ*) means praises. There is also the explanation गृणातिः स्तुतिकर्मा (*gṛṇātiḥ stutikarmā*) (Nir. 3-5). Moreover there is the explanation गिरा—गीत्या स्तुत्या (*girā—gītyā stutyā*) (Nir. 6-24 and Nir. 10-5); hence गिरः (*giraḥ*) means hymns of praise.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अ॒या ते॑ अग्ने विधे॒नोर्जो॑ नपा॒दश्व॑मिष्टे ।
+> ए॒ना सू॒क्तेन॑ सुजात ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> अया । ते । अग्ने । विधेम । ऊर्जः । नपात् । अश्वं इष्टे ।
+> एना । सुउक्तेन । सुजात ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने ते त्वामयानयाहुत्या विधेम । परिचरेम । हे ऊर्जो नपात्
+> बलस्य नप्तः तस्य नपातयितर्वा हे अश्वमिष्टे व्यापकयज्ञ । यद्वा आशु क्रियमाणं
+> कर्माश्वं । तदिच्छतीत्यश्वमिष्टिः । संश्वरमाणा ह्युपसदमाचरंति । ते कर्मभिः सम-
+> त्वरंत ते तिस्रः सामिधेनीरनूच्य तिस्रो देवता आयजन्निति ब्राह्मणं । ऐ। ब्रा ३-४५।
+> तादृशाग्ने ते त्वामयानयाहुत्या विधेम । परिचरेम । तथा हे सुजात शोभन-
+> जनन एना एतेन सूक्तेन स्तोत्रेण प्रीणयेमेति शेषः । यद्वा स्तुत्युपवृहितेन
+> विधेम ॥
+
+> *he agne te tvāmayānayāhutyā vidhema | paricarema | he ūrjo napāt*
+> *balasya naptaḥ tasya napātayitarvā he aśvamiṣṭe vyāpakayajña | yadvā āśu kriyamāṇaṃ*
+> *karmāśvaṃ | tadicchatītyaśvamiṣṭiḥ | saṃśvaramāṇā hyupasadamācaraṃti | te karmabhiḥ sama-*
+> *tvaraṃta te tisraḥ sāmidhenīranūcya tisro devatā āyajanniti brāhmaṇaṃ | ai| brā 3-45|*
+> *tādṛśāgne te tvāmayānayāhutyā vidhema | paricarema | tathā he sujāta śobhana-*
+> *janana enā etena sūktena stotreṇa prīṇayemeti śeṣaḥ | yadvā stutyupavṛhitena*
+> *vidhema ‖*
+
+*Gist:* We serve you, Agni, with this oblation and this hymn; the bhāṣya explains अश्वमिष्टे (*aśvamiṣṭe*) as one who desires swift, wide-spread sacrifice, citing a Brāhmaṇa on the Upasad.
+
+### Printed p. 509
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 27, Ṛgveda-saṃhitā, p. 509.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऊर्जो नपात् (*ūrjo napāt*)—son of strength. अश्वमिष्टे (*aśvamiṣṭe*)—one who desires the Upasad sacrifice performed promptly and with faith. अग्ने (*agne*)—O Agni. ते (*te*)—you. आया (*āyā*) [as supplied]—by this oblation. विधेम (*vidhema*)—we shall serve. सुजात (*sujāta*)—O Agni of excellent birth. एना सूक्तेन (*enā sūktena*)—also with this hymn in the form of praise (we shall honour you).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, son of strength, who desire the Upasad sacrifice performed promptly and with faith, we shall serve you with this oblation. O Agni of excellent birth, we shall honour you also with this mantra in the form of praise. [The supplied text reads परिचयिसुवॆवु (*paricayisuvèvu*) "we shall make acquainted" for the first verb; the Pratipadārtha has परिचरिसुवॆवु (*paricarisuvèvu*) "we shall serve".]
+
+**Printed English**
+
+May we propitiate you, Agni, by this(oblation); graudson [sic] of strength, you are gratified by prompt sacrifice;(my [sic] we please you), well-horn [sic], by this hymn.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सूक्तेन (*sūktena*)—सुष्टु उक्तेन (*suṣṭu uktena*): well recited, that is, a hymn or Ṛk that praises the qualities of the gods well. In the Ṛgveda a group of many such Ṛks is called a sūkta. In sum, sūkta means a hymn of praise.
+
+ऊर्जो नपात् (*ūrjo napāt*)—बलस्य नप्तः (*balasya naptaḥ*): when fire is churned out of the araṇi sticks, Agni arises only by churning with great force; therefore Agni is addressed with the words सहसस्पुत्र (*sahasasputra*) [as supplied] and ऊर्जोनपात् (*ūrjonapāt*).
+
+अश्वमिष्टे (*aśvamiṣṭe*)—व्यापकयज्ञ (*vyāpakayajña*): one who pervades the sacrifice. If the word अश्व (*aśva*) is understood as derived from the root अशू व्याप्तौ (*aśū vyāptau*), the above meaning results. Or आशु क्रियामणं कर्म अश्वं (*āśu kriyāmaṇaṃ karma aśvaṃ*) [as supplied]: the word अश्वं (*aśvaṃ*), formed from अशु (*aśu*) meaning "quickly", also means a sacrifice performed quickly. Here both meanings are possible.
+
+अया (*ayā*)—आनया (*ānayā*) [as supplied]: for the convenience of the metre the na of अनया (*anayā*) is dropped, giving आया (*āyā*). Likewise the a of आत्मना (*ātmanā*) is dropped and the form त्मना (*tmanā*) is used in many places. Such usages are numerous in the Ṛgveda.
+
 ---
 
-**Progress note:** Done through printed p. 506 (PDF 506). Mandala 2 Sukta 5 Rks 7-8 end; Sukta 6 introduction (Rk 8 Samhita/Pada read from figure)
+**Progress note:** Done through printed p. 509 (PDF 509). Sukta 6 Rks 1-2 (Maṇḍala 2); Rk 2 bhāṣya label repaired
