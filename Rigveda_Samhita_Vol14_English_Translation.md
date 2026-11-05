@@ -33045,6 +33045,98 @@ To Indra, who defeats all and himself wins victory; the destroyer of enemies; wh
 
 Offer adoration to Indra, the overcomer, the destoyer [sic], the munificent, the invincible, the all-enduring, the creator, the all-adorable: the sustainer, the unassailable, the ever-victorious.
 
+### Printed p. 878
+
+*(Header: "878 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 21]", as supplied.)*
+
+*(Special Topics of Ṛk 2, continued from the previous page.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk too the yajamāna tells the priests to praise Indra, and he describes Indra's many kinds of qualities—
+
+अभिभुवे (*abhibhuve*)—सर्वस्याभिभवित्रे (*sarvasyābhibhavitre*). Indra overcomes everyone. No one at all is able to conquer him. The yajamāna's word is: "Recite praise for such an Indra."
+
+अभिभंगाय (*abhibhaṃgāya*)—असुराणां भंजकाय (*asurāṇāṃ bhaṃjakāya*). The sense is: in order to rescue those who praise him, he destroys and annihilates their enemies, the wicked asuras who inflict many kinds of harm on good people.
+
+वन्वते (*vanvate*)—वन षण संभक्तौ (*vana ṣaṇa saṃbhaktau*). व्यत्ययेन उप्रत्ययः (*vyatyayena upratyayaḥ*). शत्रोणां धनानां संभजकाय (*śatroṇāṃ dhanānāṃ saṃbhajakāya*) (शत्रोणां (*śatroṇāṃ*) as supplied). The word वन्वते (*vanvate*) is formed from the root वन (*vana*), which has the sense "to obtain, to cause to obtain". The word means one who conquers enemies in battle and acquires their wealth, or one who acquires that wealth for the people who praise him.
+
+अषाळ्याय (*aṣāḷyāya*) (as supplied)—सहेः कर्मणि निष्ठा (*saheḥ karmaṇi niṣṭhā*). उत्वाभावश्चांदसः (*utvābhāvaścāṃdasaḥ*). शत्रुभिरनभिभूताय (*śatrubhiranabhibhūtāya*). One who cannot be conquered by enemies. The sense is that no enemy who has come into conflict with Indra can defeat him.
+
+सहमानाय (*sahamānāya*)—सर्वं सहाय (*sarvaṃ sahāya*). One who endures everything. Because Indra is exceedingly strong, he bravely endures the blows and the like of enemies in battle, or he fearlessly endures the slander, abuse and so on made by wicked people.
+
+वेधसे (*vedhase*)—विधात्रे (*vidhātre*). The creator of everything. That is, it is said in many places that Indra himself created the sun, the atmosphere, heaven, the earth, plants and so on.
+
+तुविग्रये (*tuvigraye*)—पूर्णग्रीवाय (*pūrṇagrīvāya*). The word तुवि (*tuvi*) is read among the "many"-names (Ni. 3-13). One with a swollen or full neck, that is, one of sturdy build, firm of limb: this is the sense. Or गृ शब्दे (*gṛ śabde*). औणादिकः कर्मणि कप्रत्ययः (*auṇādikaḥ karmaṇi kapratyayaḥ*). तुविभिः बहुभिः स्तोतव्याय (*tuvibhiḥ bahubhiḥ stotavyāya*). Since the root गृ (*gṛ*) has the sense "to make a sound", if the word ग्रीवाय (*grīvāya*) is formed from this root, the word तुविग्रीवाय (*tuvigrīvāya*) may be given the sense "one who is praised by many people".
+
+### Printed p. 879
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 27] Ṛgveda Saṃhitā 879", as supplied.)*
+
+वह्नये (*vahnaye*)—सर्वस्य वोढ्रे (*sarvasya voḍhre*). One who bears everything, the support of all. That is, heaven and earth, the sun, the worlds, the living beings, everything is subject to Indra's command and, being under his control, performs its own tasks. For this reason Indra is said to be the support of all.
+
+दुष्टरीतवे (*duṣṭarītave*)—अन्यैर्दुस्तराय दुर्हिंसाय (*anyairdustarāya durhiṃsāya*). One who cannot be harmed by others, that is, by enemies. Because Indra is very strong and valiant, his enemies are unable to trouble him. The sense is that no one is able to harm him.
+
+सत्रासहे (*satrāsahe*)—सर्वदाभिभवित्रे (*sarvadābhibhavitre*). महतोऽभिभवित्रे वा (*mahato 'bhibhavitre vā*). One who always defeats enemies, or one who has great strength and valour in overcoming enemies.
+
+#### Ṛk 3
+
+*(The supplied text prints the Saṃhitā in damaged mixed Kannada, Devanagari and Malayalam letters: a garbled Kannada fragment "ಸಂಜೆ ಶಾರದೆ", then Devanagari lines, and again the whole verse inside an HTML title attribute; the Pada is printed twice, the first time followed by a fragment of the title attribute. The Saṃhitā is taken from the title attribute and converted letter for letter to Kannada letters, not corrected; the garbled fragment, the duplicate Pada and the title fragment are left out. It differs from the Pada in places, for example ಸತ್ರಾರಾಸೋ (*satrārāso*) against the Pada ಸತ್ರಾಸಹಃ, ಜೋಷಮುಕ್ತಿತಃ against the Pada's ಜೋಷಂ । ಉಕ್ಷಿತಃ, ಸಹುರ್ವಿರ್ಕ್ಷಾರಿತ against the Pada's ಸಹುರಿಃ । ವಿಷ್ಣು । ಅರಿತಃ; the Pada's ವಿಷ್ಣು also differs from the bhāṣya's and Pratipadārtha's ವಿಕ್ಷು. Reported, not settled. The label before the bhāṣya is printed garbled as "ಸಾಯುಣ್ಯಭಾಷ್ಯಂ" and is given in standard form.)*
+
+**॥ संहितापाठः ॥**
+
+> स॒त्रा॒रा॒सो ज॑नभ॒क्षो ज॑नंस॒हश्च्यव॑नो यू॒ध्मो अनु॒ जोष॑मुक्ति॒तः ।
+> वृ॒तं॒च॒यः सहु॑र्वि॒र्क्षा॑रि॒त इन्द्र॑स्य वोचं॒ प्र कृ॒तानि॑ वी॒र्या॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> सत्रासहः । जनभक्षः । जनंसहः । च्यवनः । युध्मः । अनु । जोषं । उक्षितः ।
+> वृतंचयः । सहुरिः । विष्णु । अरितः । इन्द्रस्य । वोचं । प्र । कृतानि । वीर्या ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सत्रासहो बहूनामभिभविता जनभक्षो जनानां यजमानानां कामप्रदा-
+> नेन संभक्ता तैः संभजनीय इति वा । जनंसहो बलिनां जनानामभिभविता च्यवनः
+> शत्रुणां च्यावयिता स्वस्थानात् । युध्मो योद्धा जोषमनु प्रीतिमनु उक्षितः
+> सिक्तः सोमेन । वृतंचयो वृतस्याभीष्टस्याचेता संचेता दातेत्यर्थः । यद्वा
+> वर्तते पुनःपुनरभिमुखमागच्छतीति वृत् शत्रुः । तं चयते हिनस्तीति वृतंचयः ।
+
+> *satrāsaho bahūnāmabhibhavitā janabhakṣo janānāṃ yajamānānāṃ kāmapradā-*
+> *nena saṃbhaktā taiḥ saṃbhajanīya iti vā | janaṃsaho balināṃ janānāmabhibhavitā cyavanaḥ*
+> *śatruṇāṃ cyāvayitā svasthānāt | yudhmo yoddhā joṣamanu prītimanu ukṣitaḥ*
+> *siktaḥ somena | vṛtaṃcayo vṛtasyābhīṣṭasyācetā saṃcetā dātetyarthaḥ | yadvā*
+> *vartate punaḥpunarabhimukhamāgacchatīti vṛt śatruḥ | taṃ cayate hinastīti vṛtaṃcayaḥ |*
+
+### Printed p. 880
+
+*(Header: "880 Sāyaṇabhāṣyasahitā. Maṃ. 2 A. 2. Sū 21.", as supplied.)*
+
+*(Continuation of the Sāyaṇa-bhāṣya of Ṛk 3, begun on p. 879.)*
+
+> चयतिर्हिंसाकर्मा । तथा च ब्राह्मणं । यो वै भागिनं भागान्नुदते चयते वैनं
+> स यदि वैनं न चयतेऽथ पुत्रमथ पौत्रं चयते त्वैवैनं । ऐ- ब्रा. २-७ । इति ।
+> सहुरिः ॥ जसिसहोरुरिन्नित्युरिन्प्रत्ययः ॥ अभिभविता शत्रूणां विक्षु प्रजास्वारितः
+> पालकत्वेन प्रापितो भवति । तादृशस्येंद्रस्य कृतानि वृत्रहननादिरूपाणि वीर्या
+> सामर्थ्यानि प्रवोचं । प्रकर्षेण वदामि ॥
+
+*Gist: Indra overcomes many, is worshipped by his people for granting wishes, defeats the strong, drives foes from their place, is a warrior soaked with Soma, protects the people; the poet recites his deeds (cites Ai. Brā. 2-7 for the root "chayati").*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इंद्रः (*iṃdraḥ*)—Indra.) सत्रासहः (*satrāsahaḥ*)—always and everywhere victorious; जनभक्ष्यः (*janabhakṣyaḥ*) (as supplied; the Saṃhitā and Pada have जनभक्षः (*janabhakṣaḥ*))—(granting the sacrificers their desired objects) worshipped by them, or the benefactor of the sacrificers; जनंसहः (*janaṃsahaḥ*)—who defeats the strong; च्यवनः (*cyavanaḥ*)—who makes (enemies) move from their place; युध्मः (*yudhmaḥ*)—the warrior; जोषं अनु (*joṣaṃ anu*)—with love; उक्षितः (*ukṣitaḥ*)—sprinkled with Soma; वृतंचयः (*vṛtaṃcayaḥ*)—the granter of desired objects; सहुरिः (*sahuriḥ*)—the slayer of enemies (supplied as शुत्रुघातकनू (*śutrughātakanū*)); विक्षु (*vikṣu*)—among the people; अरितः (*aritaḥ*)—is the protector, resorted to by them; इंद्रस्य (*iṃdrasya*)—of such an Indra; वीर्या (*vīryā*)—endowed with power; कृतानि (*kṛtāni*)—deeds such as the slaying of Vṛtra; प्र वोचं (*pra vocaṃ*)—I recite exceedingly.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra is always and everywhere victorious; he grants the sacrificers their desired objects and is worshipped by them; he defeats the strong; he makes enemies move from their place; he is a warrior, satisfied with the Soma offered with love, the granter of desired objects, the slayer of enemies, and the protector of the people, resorted to by them. The heroic deeds performed by Indra, who has such great qualities (the supplied text breaks off at "ಮಹದ್ಗುಣಗಳಿ", the line-end word apparently cut), I recite exceedingly.
+
+**Printed English translation**
+
+I proclaim the mighty exploits of that Indra, who is ever victorious: the benefactor of man, the overthrower of(the strong) man, the caster down (of foes), the warrior; who is gratified by our libations, the granter of desires the subduer of enemies, the refuge of the people.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सत्रासाहः (*satrāsāhaḥ*) (as supplied; the Saṃhitā has सत्रासहः (*satrāsahaḥ*))—the meaning of this word was explained in the preceding Ṛk. बहूनामभिभविता (*bahūnāmabhibhavitā*)—one who defeats many enemies in battles and the like: this is the sense.
+
 ---
 
-**Progress note:** Done through printed p. 877 (PDF 877). Sukta 21 Rk 1 closed (bhashya, Pratipadartha, Bhavartha, English, Special Topics); Rk 2 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English; Rk 2 Special Topics follow
+**Progress note:** Done through printed p. 880 (PDF 880). Sukta 21 Rk 2 Special Topics closed; Rk 3 Samhita (from title attribute), Pada, bhashya, Pratipadartha, Bhavartha, English; Rk 3 Special Topics begun (first words only)
