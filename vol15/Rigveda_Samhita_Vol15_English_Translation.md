@@ -23297,6 +23297,89 @@ Mitraḥ: the friend of the sacrificers. Ṛtena: by truth. Sādhan: one who acc
 
 *[The window ends here, at the end of p. 753, after the Pratipadārtha of Ṛk 3; the next window continues with the Bhāvārtha.]*
 
+### Printed p. 754
+
+*[Running head, p. 754: Sāyaṇabhāṣyasahitā, Ma. (printed so, "ಮ.", for Maṃ.) 3, A. 1, Sū. 5.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, the friend of the sacrificers, who accomplishes the desired aims by truth and is the womb of the waters, has been established by the gods among the people who are the descendants of Manu. The desirable and worshipful Agni has taken his station on the raised region. The wise Agni has become worshipful to the praisers.
+
+**Printed English translation**
+
+Agni the embryo of the waters, the friend (of the pious), compli-shing (all desires) with truth, has been placed (by the gods) amongst men, the descendants of Manu : desirable, and adorable, he has taken his station on high, where the wise Agni is to receive the oblations of the devout.
+
+*(The word is printed "compli-" at a line end and "shing" on the next line, as supplied.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+मित्रः ऋतेन साधन् अपां गर्भः अग्निः मानुषीषु विक्षु अधायि (*mitraḥ ṛtena sādhan apāṃ garbhaḥ agniḥ mānuṣīṣu vikṣu adhāyi*): this Agni is a friend of the priests and sacrificers who perform the sacrifice, that is, one who does good like a friend; one who accomplishes the desired aims of the sacrificers by truth and by sacrificial works; one who is in the waters in the form of a womb, that is, in the middle part; that is, he is in the form of the submarine fire in the seas and other reservoirs of water on the earth, and in the form of lightning in the clouds in the atmosphere. The purport is that the gods established such an Agni among men, that is, on the sacrificial altar on the earth, for carrying out sacrifices and the like, or for carrying to the gods the oblations offered by the human sacrificers in the sacrifice.
+
+हर्यतः यजतः सानु आ अस्थात् (*haryataḥ yajataḥ sānu ā asthāt*): Agni, who is desired by all, worthy of worship in sacrifices and the like, or the chief means of performing the sacrificial works, is established in the fire-pit called Āhavanīya in the upper altar. That is, in the sacrifice, after the churning of fire, the priests have duly brought Agni to the upper altar through the rite called agnyānayana and established him there; this is the purport.
+
+विप्रः मतीनां हव्यः अभूत् (*vipraḥ matīnāṃ havyaḥ abhūt*): this wise Agni has become worshipful to those who praise him; that is, the priests, sacrificers and other people praise this wise Agni with stotras.
+
+### Printed p. 755
+
+*[Running head, p. 755: Aṣṭaka 2, Adhyāya 8, Varga 24, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> मि॒त्रो अ॒ग्नि र्भ॑वति॒ यत्समि॑द्दो मि॒त्रो होता॒ वरु॑णो जा॒तवे॑दाः ।
+> मि॒त्रो अ॑ध्व॒र्युरि॑षि॒रो दमू॑ना मि॒त्रः सिंधू॑नामु॒त पर्व॑तानां ॥ ४ ॥
+
+> *mitro agni rbhavati yatsamiddo mitro hotā varuṇo jātavedāḥ |*
+> *mitro adhvaryuriṣiro damūnā mitraḥ siṃdhūnāmuta parvatānāṃ ‖ 4 ‖*
+
+*[The supplied text has before the Pada a garbled label "१ पदहार १ (*1 padahāra 1*)" (for Pada-pāṭha), kept as a note in kn.md; it stood inside the Saṃhitā block, which was split. Two hyphenated line breaks in the Saṃhitā block were joined.]*
+
+**॥ पदपाठः ॥**
+
+> मित्रः । अग्निः । भवति । यत् । संइद्दः । मित्रः । होता । वरुणः । जातवेदाः ।
+> मित्रः । अध्वर्युः । इषिरः । दमूनाः । मित्रः । सिंधूनां । उत । पर्वतानां ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> इयमृक् अग्निं सर्वात्मकत्वेन स्तौति । यद्यदा समिद्धोऽग्निः तदा मित्रो
+> भवति । सूर्यो भवति । मित्र एव सन् होता भवति । वरुणो भवति जातवेदा
+> जातप्रज्ञः । स मित्रोऽध्वर्युर्भवति दमूना दानमना दांतमना वा । स एवेषिरः
+> प्रेरको वायुर्भवति । उत अपि च सिंधूनां नदीनां पर्वतानां च मित्रः
+> सहायो भवति ॥
+
+*(Gist: this Ṛk praises Agni as all-in-one: when kindled he is Mitra (Sun), hotṛ, Varuṇa, Jātavedas, adhvaryu, damūnas, Vāyu, and friend of rivers and mountains.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yat: when. Agniḥ: Agni. Samiddhaḥ: becomes kindled (then). Mitraḥ: like the Sun. Bhavati: shines with great radiance. Mitraḥ: in that Mitra form. Hotā: becomes the hotṛ. Varuṇaḥ: he becomes Varuṇa too. Jātavedāḥ: one of born wisdom; Mitraḥ: the same Mitra. Adhvaryuḥ: becomes the adhvaryu too (printed "अध्वर्यूवू (*adhvaryūvū*)"). Damūnāḥ: that same one of controlled mind. Iṣiraḥ: becomes the Vāyu that impels (everything). Uta: and. Sindhūnāṃ: for the rivers. Parvatānāṃ: for the mountains. Mitraḥ: becomes the impeller.
+
+**भावार्थ (Bhāvārtha)**
+
+As soon as Agni is kindled he is transformed into Mitra (the Sun); in that Mitra form he becomes the hotṛ. He is also Varuṇa. The same Mitra, of born wisdom, is the adhvaryu. The same one, of controlled mind, is Vāyu, who impels everything. He is also the impeller of the rivers and the mountains.
+
+### Printed p. 756
+
+*[Running head, p. 756: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+**Printed English translation**
+
+Agni, when kindled, is Mitra ; and, as Mitra, is the invoker (of the gods) : Varuna is Jatavedas : Mitra is the ministering priest : Damunas is the agitator (Vayu) : Mitra (is the associate) of rivers and mountains.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Agni is described as the all-in-one and as the form of all the gods. Every pāda of this Ṛk begins with the word mitra and is thus rhymed.
+
+यत् अग्निः समिद्धः मित्रः भवति (*yat agniḥ samiddhaḥ mitraḥ bhavati*): when Agni is kindled, that is, is blazing well, he shines like the Sun with great radiance. Here the word mitra means the Sun, or Agni shining like the Sun.
+
+मित्रः होता वरुणः जातवेदाः मित्रः अध्वर्युः दमूनाः (*mitraḥ hotā varuṇaḥ jātavedāḥ mitraḥ adhvaryuḥ damūnāḥ*): this Agni, shining like the Sun, is the hotṛ, who plays the part of the chief priest in the sacrifice, or one who invokes the gods to the sacrificial ground; he is also Varuṇa, who holds the whole world under his control and regulates it; he is the omniscient one who knows everything; he is the priest called adhvaryu who carries out the sacrifice; and he gives the sacrificers the fruit of the sacrifice and their desired aims. Or (as the meaning of the word damūnāḥ goes) one who, established in houses under the name Gārhapatya, becomes the householder-fire and is worshipped by the sacrificers: there is Yāska's explanation दमूनाः क्षेत्रसाधाः (*damūnāḥ kṣetrasādhāḥ*) (Ni. 2-2).
+
+इषिरः उत सिंधूनां पर्वतानां मित्रः (*iṣiraḥ uta siṃdhūnāṃ parvatānāṃ mitraḥ*): he is also the Vāyu who impels everything; and besides, he is the friend beneficial to the rivers and the mountains.
+
+Here the chief purport of this Ṛk is that Agni is the friend of the gods, of men, and of all moving and unmoving things. The words mitra, varuṇa, jātavedāḥ indicate the gods, the words hotā, adhvaryu indicate men, the word iṣiraḥ indicates moving beings, and the words sindhūnām, parvatānām indicate immovable, fixed forms. Therefore the chief purport of this Ṛk is that Agni is the beneficial friend of the gods, of men, and of the whole world, moving and unmoving.
+
+*[The window ends here, at the end of p. 756; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 753 (PDF 753). Sūkta 5 Ṛk 2 (full) and Special Topics; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha
+**Progress note:** Done through printed p. 756 (PDF 756). Sūkta 5 Ṛk 3 Bhāvārtha, printed English, Special Topics; Ṛk 4 (full) and Special Topics (Agni as Mitra, hotṛ, Varuṇa, Jātavedas, adhvaryu, damūnas)
