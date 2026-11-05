@@ -10342,6 +10342,96 @@ O Aśvin gods, make ready, so that you come facing the sacrifice we are now perf
 
 O Aśvin gods, turn your car to face us and yoke the horses, so as to come to our sacrificial ground. Then come to our sacrificial ground and drink the sweet or tasty Soma juice. You are givers of food, or of strength, to those who worship you; such as you, drink Soma in our sacrifice. This is the main intention of this Ṛk.
 
+### Printed p. 329
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> जोष्य॑ग्ने स॒मिधं॒ जोष्याहु॑तिं॒ जोषि॒ ब्रह्म॒ जन्मं॒ जोषि॒॑
+> सुष्टु॒तिं ।
+> विश्वे॑भि॒र्विश्वा॑ ऋ॒तुना॑ वसो म॒ह उ॒शन्दे॒वा उ॑श॒तः पा॑यया॒
+> हविः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> जोषि । अग्ने । संइधं । जोषि । आहुतिं । जोषि । ब्रह्म । जन्यं । जोषि ।
+> सुस्तुतिं ।
+> विश्वेभिः । विश्वान् । ऋतुना । वसो इति । महः । उशन् । देवान् । उशतः ।
+> पायय । हविः ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने समिधं जोषि । जुषस्व । आहुतिं जोषि । जुषस्व । ब्रह्म शस्त्रं जन्यं
+> जनेभ्यो हितं जोषि । जुषस्व । सुष्टुतिं शोभनस्तोत्रं जोषि । जुषस्व । किंचॆ
+> वसो सर्वेषामावासभूत हे अग्ने उशतः कामयमानान् महो महतो
+> विश्वान् सर्वानेवान् उशन् कामयमानस्त्वमृतुना तपस्यसंज्ञकेन सह तथा
+> विश्वेभिः सर्वैर्देवैः सह हविर्हवीरूपं सोमं पायय ॥
+
+*Gist:* O Agni, enjoy the fuel, the oblation, the prayer and the praise; desiring the great gods, drink the Soma together with the Ṛtu and all the gods.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agni — O Agni. Samidham — the fuel. Joṣi — enjoy it and be satisfied. Āhutim — the oblation. Joṣi — enjoy. Brahma — the prayer in the form of a *śastra*. Janyam — as good for men. Joṣi — enjoy. Suṣṭutim — the excellent praise. Joṣi — enjoy. Vaso — O Agni, the abode of all. Uśataḥ — those who desire the oblation. Mahaḥ — and are endowed with great qualities. Viśvān devān — all the gods. Uśan — you who desire them. Ṛtunā — together with the deity named Tapasya. Viśvebhiḥ — together with all the gods. Haviḥ — the Soma in the form of the oblation. Pāyaya — drink.
+
+### Printed p. 330
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 3 (as printed; the Maṇḍala is 2), Aṣṭaka 4 (as printed), Sūkta 37, p. 330.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, enjoy the fuel, the oblation, the prayer in the form of a *śastra*, and the excellent praise, and be satisfied. Thereby make it good for men. O Agni, abode of all, you who desire all the gods, who wish for the oblation and are endowed with great qualities, drink the Soma in the form of the oblation together with the Ṛtu deity named Tapasya and with all the other gods.
+
+**Printed English translation**
+
+Be pleased, Agni, with the fuel ; be pleased with the oblation ; be pleased with the sacred prayer that is good for men ; be pleased with holy praise, asylum of all : Agni, willing (to accept oblations), render all the great gods desirous (of the same), and with them all, and with the Ritu drink the oblation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Agni is prayed to drink Soma. O Agni, enjoy the fuel sticks (pieces of wood) that we offer in the fire; enjoy the oblation (the offering) that we make; hear and be pleased with the *śastra* mantras that we recite; and listen with favour to the excellent praise that we utter to please you. Thus pleased, come with all the gods to the sacrificial ground and drink the Soma juice prepared for you, together with the deity presiding over the month Tapasya. This is the main purport of the Ṛk.
+
+समिधं (*samidhaṃ*) — well-dried pieces of wood used for offering in the fire. These pieces should be about four fingers' breadth in length, with their tips, and should come from certain prescribed trees such as the Aśvattha and the Palāśa.
+
+ब्रह्म (*brahma*) — the word *brahma* is read both among the names of food and among the names of praise. Here the commentators explain it as a *śastra*-mantra that praises Agni. (The printed text of the page ends here, without a full stop; the passage may continue on the next page.)
+
+### Printed p. 331
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2 (printed "ಅ:"), Adhyāya 8, Varga 2, p. 331.*
+
+## Sūkta 38 (Maṇḍala 2)
+
+*The thirty-eighth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> उदु ष्य इत्येकादशर्चं षष्ठं सूक्तं गार्त्समदं त्रैष्टुभं सवितृदेवताकं ।
+> अत्रानुक्रमणिका । उदु ष्य एकादश सावित्रमिति ॥ व्यूढे दशरात्रे षष्ठेऽहनि वैश्वदे-
+> वशस्त्र एतत्तूक्तं सावित्रनिविद्वानीयं । व्यूळ्हश्चेदिति खंडे सूत्रितं । षष्ठस्योदु ष्य
+> देव इति गार्त्समदं । आ. ८-८ । इति ॥
+
+**Anuvāda (Kannada).** The sūkta beginning *Udu ṣya* is the sixth sūkta in the fourth anuvāka. It has eleven ṛks. Gṛtsamada is the seer of this sūkta; Savitṛ is the deity; the metre is *triṣṭubh*. The Anukramaṇikā says: "*Udu ṣya*, eleven, addressed to Savitṛ." In the Daśarātra sacrifice called Vyūḍha, on the sixth day, while reciting the Vaiśvadeva *śastra* mantras, this sūkta is applied for the *nivid* mantras addressed to Savitṛ, as explained by the sūtra "*ṣaṣṭhasyodu ṣya deva iti gārtsamadam*" in the section beginning "*vyūḍhaś cet*" of the Āśvalāyana Śrauta Sūtra (as printed, Ā. 8-8).
+
+**Sūkta 38** — Maṇḍala 2, Anuvāka 4, Sūkta 38; Aṣṭaka 2, Adhyāya 8, Varga 2, 3 (as printed). Number of ṛks in the sūkta: 11. Seer: Gṛtsamada. Deity: Savitṛ. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> उदु॒ ष्य दे॒वः स॑वि॒ता स॒वाय॑ शश्वत्त॒मं तद॑सा॒ वह्नि॑रस्थात् ।
+> नू॒नं दे॒वेभ्यो॒ वि हि धाति॒ रत्न॒मथाभ॑जद्वी॒तिहो॑त्रं स्व॒स्तौ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> उत् । ऊं इति । स्यः । देवः । सविता । सवाय । शश्वत्तमं । तत्त्वापसाः । वह्निः ।
+> अस्थात् ।
+> नूनं । देवेभ्यः । वि । हि । धाति । रत्नं । अथ । आ । अभजत् । वीतिहोत्रं । स्वस्तौ ॥ १ ॥
+
+> *ut | ūṃ iti | syaḥ | devaḥ | savitā | savāya | śaśvattamaṃ | tattvāpasāḥ | vahniḥ |*
+> *asthāt |*
+> *nūnaṃ | devebhyaḥ | vi | hi | dhāti | ratnaṃ | atha | ā | abhajat | vītihotraṃ | svastau ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 328 (PDF 328). pp. 326-328: Special Topics of Sukta 37 Rk 4 (all Sanskrit quotations in full) and Rk 5 through Special Topics; flags: kn.md Sanskrit quotations made > blocks, Samhita label/block fixed; supplied spellings (yayyam, nrvahanam, prnkam/prnktam, Si. 8-2, nam for vam) kept as supplied; 2 Samhita lines unaccented (spelling differs from reference)
+**Progress note:** Done through printed p. 331 (PDF 331). pp. 329-331: Sukta 37 Rk 6 (last) and Sukta 38 intro + Rk 1 Samhita/Pada; flags: kn.md Sukta 38 Sanskrit intro made a > block; p.330 running head prints Mandala 3/Astaka 4 as supplied; Rk 6 Special Topics ends mid-passage at p. 330 as supplied; some Samhita lines unaccented/DIFF in accent step
