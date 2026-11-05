@@ -14210,6 +14210,80 @@ Indra is the king possessed of ruling radiance, the Maruts are the subjects. It 
 मंद्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इंद्रे मरुतः परिष्टुभः । (*maṃdrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā iṃdre marutaḥ pariṣṭubhaḥ |*)
 (Ma. Saṃ. 1-166-11)
 
+### Printed p. 442
+
+*[Running head, p. 442: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+स नो मरुद्भिवृषभ श्रवोधा उग्र उग्रेभिः स्थविरः सहोदाः । (*sa no marudbhivṛṣabha śravodhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*)
+(Ma. Saṃ. 1-171-5)
+
+By these and other Ṛks the invocation and the offering of oblations are made to Indra and the Maruts together. It is because of such companionship that the epithet मरुत्वान् (*marutvān*) is used here too. The Bṛhaddevatā explains this epithet, which indicates the relation of these deities, saying that whenever Indra, accompanied by the Maruts, is meant, he is called मरुत्वान् (*marutvān*):
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*)
+(Bṛ. De. 4-56)
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> अंबि॑तमे॒ नदी॑तमे॒ देवि॑तमे॒ सर॑स्वति ।
+> अ॒प्र॒श॒स्ता इ॑व स्मसि॒ प्रश॑स्तिमंब नस्कृधि ॥ १६ ॥
+
+**॥ पदपाठः ॥**
+
+> अंबितमे । नदीतमे । देवीतमे । सरस्वति ।
+> अप्रशस्ताः इव । स्मसि । प्रशस्तिं । अंब । नः । कृधि ॥ १६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अंबितमे मातृणां श्रेष्ठे नदीतमे नदीनां श्रेष्ठे देवितमे देवीनां
+> श्रेष्ठे हे सरस्वति अप्रशस्ता इव धनाभावादसमृद्धा इव वयं स्मसि । भवामः । अंब
+> हे मातः सरस्वति नोऽस्मभ्यं प्रशस्तिं धनसमृद्धिं कृधि । कुरु । प्रयच्छेत्यर्थः ॥
+
+*(Gist: O Sarasvatī, best of mothers, rivers and goddesses, we are as if without repute for lack of wealth; mother, grant us wealth and distinction.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Aṃbitame: O one who is best among mothers, nadītame: best among rivers, devitame: best among the divine, O Sarasvatī. Apraśastā iva: as if we were without distinction through lack of wealth. Smasi: we are. Aṃba: O mother. Naḥ: to us. Praśastiṃ: wealth and prosperity. Kṛdhi: bring about.
+
+### Printed p. 443
+
+*[Running head, p. 443: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+**भावार्थ (Bhāvārtha)**
+
+*[The supplied text has the garbled label "i ಭಾವಾರ್ಥ i" here, kept as a note in kn.md.]*
+
+O Sarasvatī, supreme among mothers, among rivers and among the divine, through lack of wealth we are as if without distinction. O mother, bring us abundance of wealth.
+
+**Printed English translation**
+
+Saraswathi, best of mothers, best of rivers, best of goddessess [sic], we are, as it were, of no repute ; grant us, mother, distinction.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अंबितमे, नदीतमे, देवितमे (*aṃbitame, nadītame, devitame*)—मातृणां श्रेष्ठे, नदीनां श्रेष्ठे, देवीनां श्रेष्ठे (*mātṛṇāṃ śreṣṭhe, nadīnāṃ śreṣṭhe, devīnāṃ śreṣṭhe*)—since the suffix तमे (*tame*) means "best", Sāyaṇa explains अंबितमे (*aṃbitame*) as best among mothers, नदीनां श्रेष्ठे (*nadīnāṃ śreṣṭhe*) as best among rivers, and देवीनां श्रेष्ठे (*devīnāṃ śreṣṭhe*) as best among goddesses. Here there is room for a certain doubt. When Sarasvatī is said to be best among rivers and best among deities, that sense is natural. But when she is said to be best among mothers, the doubt naturally arises whether this means the many mothers of many men, or whether one man has many mothers. That many men have many mothers (one mother for each man) is a matter known to the world; there is no ground for doubt in this. When it is said that one man has many mothers, various senses must be imagined for the word "mother". In this context "mother" must be taken to mean one who gives food and nourishes and protects. Therefore the earth, which makes plants grow and provides us food; the rivers, which provide the water needed for the nourishment of plants (through channels); the cow, which protects us by giving milk; the mother who bore us; and the goddesses who remove our troubles and protect us (that is, the wives of the gods)—all these must be called mothers. The commentator's view is that among all these Sarasvatī is supremely the best.
+
+सरस्वति अप्रशस्ता इव स्मसि अंब नः प्रशस्तिं कृधि (*sarasvati apraśastā iva smasi aṃba naḥ praśastiṃ kṛdhi*)—हे सरस्वति वयं धनाभावादसमृद्धा इव भवामः । तस्मात् हे अंब अस्मभ्यं धनसमृद्धिं प्रयच्छ । (*he sarasvati vayaṃ dhanābhāvādasamṛddhā iva bhavāmaḥ | tasmāt he aṃba asmabhyaṃ dhanasamṛddhiṃ prayaccha |*) O Sarasvatī, since we have no wealth, no one honours us; we are not worthy of praise. Therefore, O mother, give us abundant wealth and make everyone honour us: this is the intent.
+
+### Printed p. 444
+
+*[Running head, p. 444: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+सरस्वति (*sarasvati*)—Sāyaṇācārya has given five kinds of explanation of the word सरस्वती (*sarasvatī*) as used in the Ṛgveda mantras. [The supplied text numbers the list "1. (1)".]
+
+(1) River—Ṛ. Saṃ. 1-142-9; 1-164-52; 2-30-8, and so on.
+
+(2) Name of a river—Ṛ. Saṃ. 1-3-12; 2-14-16; 3-23-4; in 6-41 the Ṛks 4, 7, 10, 11, 13; 6-52-6; 6-61-2; 7-36-6; 7-95-1 and 2; 7-96-1; 8-21-17 and 18; 10-64-9; 10-65-13.
+
+(3) Name of a deity—Ṛ. Saṃ. 5-43-11; 5-46-2; 6-49-7; 5-50-12; 10-17-7; 10-30-12.
+
+(4) Deity presiding over the sky (one of the three deities Iḷā, Bhāratī and Sarasvatī)—Ṛ. Saṃ. 1-188-8.
+
+(5) Goddess of speech—Ṛ. Saṃ. 2-1-11; 3-4-8; 3-54-13; 5-42-12; 7-39-5; 7-40-3; 9-67-32.
+
+In the Ṛgveda there are many mantras that praise the goddess Sarasvatī. But on the question who that goddess Sarasvatī is and what her nature is, the Nirukta author has said nothing. He says only नदीवद्देवतावच्च निगमा भवंति (*nadīvaddevatāvacca nigamā bhavaṃti*): that is, in some mantras addressed to Sarasvatī she is described as a river and in some as a deity. But it is not clear whether the river called Sarasvatī was regarded as a deity and praised, or whether the deity was regarded as a river and praised. Therefore it must be said that सरस्वती (*sarasvatī*) denotes both a river and a deity. If it is said that Sarasvatī is a deity, who is that deity, what is her nature, what are her position and rank? To give a satisfactory answer to such questions is not easy. If it is said that Sarasvatī is a river, it may be said that a river famous by that name existed in the past (the modern Sarsuti, in English letters in the supplied text) and that it was praised in the Ṛgveda. In saying so, the doubt arises whether the treatment of inanimate things such as rivers is not forbidden in sacrifices addressed to particular deities. On this matter the sage Jaimini, in his Mīmāṃsā Sūtra, stated a prima facie view with अचेतनेSर्थबंधनात् (*acetaneSrthabaṃdhanāt*) (Jai. Sū. 1-2-35); and the commentators have given the solution by citing the Vedānta Sūtra अभिमानिव्यपदेशः (*abhimānivyapadeśaḥ*) (Ve. Sū. 2-1-5). That is, where inanimate things are addressed in many places in the Vedic mantras, it is to be understood that the presiding deities of those inanimate things are meant.
+
 ---
 
-**Progress note:** Done through printed p. 441 (PDF 441). Sukta 41 Rik 15 complete (pp. 439-441); Special Topics on Indra and the Maruts (Marut origin story quoted, Sat. Brahmana passages) ends at Ma. Sam. 1-166-11 on p. 441, discussion continues. Flags: garbled Bhavartha label kept as note; no Samhita lines so accent report empty; Latin phrase inside Kannada kept
+**Progress note:** Done through printed p. 444 (PDF 444). Sukta 41 Rik 15 Special Topics finished (p. 442); Rik 16 complete (pp. 442-443) with Sarasvati note (reference list) continuing through p. 444, ends after Mimamsa/Vedanta sutra remark. Flags: garbled Bhavartha label kept as note; 1-list numbering '1. (1)' as supplied; sarsuti in Latin letters kept
