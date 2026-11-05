@@ -2451,6 +2451,108 @@ Addressing Aryaman and Mitra-Varuṇa: युष्माकं प्रणी�
 
 The word मयोभु (*mayobhu*) is used in the sense "producer of happiness" (सुखस्य भावयितृ (*sukhasya bhāvayitṛ*)), since Yāska has stated मयः (*mayaḥ*) among the words for happiness (Ni. 3-13).
 
+### Printed p. 80
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> सु॒गो हि वो॑ अर्यमन्मित्र॒ पन्था॑ अनृक्ष॒रो व॑रुण सा॒धुरस्ति॑ ।
+> तेना॑दित्या॒ अधि॑ वोचता नो॒ यच्छ॑ता नो दुष्परि॒हन्नु॒ शर्म॑ ॥६॥
+
+**॥ पदपाठः ॥**
+
+> सुगः । हि । वः । अर्यमन् । मित्र । पन्थाः । अन्वृक्षरः । वरुण । साधुः । अस्ति ।
+> तेन । आदित्याः । अधि । वोचत । नः । यच्छत । नः । दुःपरिहन्नु । शर्म ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे आर्यवान् मित्र वरुण वो युष्माकॆं सुगः सुखेन गंतव्योऽनृक्षरः ।
+> ऋक्षरः कंटक ऋच्छतेरिति । तद्रहितः साधुः साधकः शोभनो वा । एवंगुणविशिष्टः
+> पंथा मार्गोऽस्ति । विद्यते खलु । आतस्तेन पथास्मान् शोभनं नयतेति शेषः ।
+> हे आदित्या नोऽस्माकमधिवोचत । अधिवचनं पक्षपातेन वचनं कुरुत । अपि च
+> नोऽस्मभ्यं दुष्परिहंतु परिहंतुं विनाशयितुमशक्यं शर्म सुखं यच्छत । दत्त ॥
+> दाण् दाने ! शपि प्राघ्रेत्यादिना यच्छादेशः ॥
+
+> *he āryavān mitra varuṇa vo yuṣmākèṃ sugaḥ sukhena gaṃtavyo 'nṛkṣaraḥ |*
+> *ṛkṣaraḥ kaṃṭaka ṛcchateriti | tadrahitaḥ sādhuḥ sādhakaḥ śobhano vā | evaṃguṇaviśiṣṭaḥ*
+> *paṃthā mārgo 'sti | vidyate khalu | ātastena pathāsmān śobhanaṃ nayateti śeṣaḥ |*
+> *he ādityā no 'smākamadhivocata | adhivacanaṃ pakṣapātena vacanaṃ kuruta | api ca*
+> *no 'smabhyaṃ duṣparihaṃtu parihaṃtuṃ vināśayitumaśakyaṃ śarma sukhaṃ yacchata | datta ‖*
+> *dāṇ dāne ! śapi prāghretyādinā yacchādeśaḥ ‖*
+
+Gist: the path of Aryaman, Mitra and Varuṇa is easy and free of thorns; the Ādityas are asked to lead us by it, to speak kindly to us and to grant undisturbed happiness.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Aryaman: O Aryaman. Mitra: O god Mitra. Varuṇa: O Varuṇa. Your path: easy to travel (सुगः), free of thorns (अनृक्षरः), and auspicious (साधुः). Pantha: as the path. Asti hi: it is well known to exist. Tena: by that same path (lead us). Ādityāḥ: O Ādityas. Naḥ: with us. Adhi vocata: speak lovingly. Naḥ: to us. Duṣparihantu: that which cannot be destroyed. Śamaṃ [?]: happiness. Yacchata: give.
+
+**भावार्थ (Bhāvārtha)**
+
+O Aryaman, Mitra and Varuṇa, it is well known that your path is easy to travel, free of thorns and auspicious. Lead us by that same path. O Ādityas, speak lovingly with us. Give us happiness that enemies cannot destroy.
+
+### Printed p. 81
+
+**Printed English translation**
+
+Aryaman, Mitra, and Varuna, easy is the path (you show us), and free from thorns, and pleasant: therefore, Adityas, (lead us) by (it): speak to us favouably [sic], and grant us happiness difficult to be disturbed.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Aryaman, Mitra and Varuṇa, the wish is described that the sacrificer may enter upon a straight, thornless, pleasant path. अनृक्षरः साधुः पंथाः तेन (*anṛkṣaraḥ sādhuḥ paṃthāḥ tena*) — कंटकरहितः साधकः शोभनः मार्गः तेन शोभनं नयत (*kaṃṭakarahitaḥ sādhakaḥ śobhanaḥ mārgaḥ tena śobhanaṃ nayata*). The word अनृक्षरः is explained as ऋक्षरः कंटकः ऋच्छतेः (*ṛkṣaraḥ kaṃṭakaḥ ṛcchateḥ*) (Ni. 9-38); for this word the meaning is given as a path free from both thorns and fear.
+
+आदित्याः नः अधिवोचत—अस्माकं पक्षपातेन वचनं कुरुत (*ādityāḥ naḥ adhivocata—asmākaṃ pakṣapātena vacanaṃ kuruta*): addressing the Ādityas, the wish is expressed that they speak to the sacrificers with confidence (affection). And दुष्परिहंतु शर्म यच्छत (*duṣparihaṃtu śarma yacchata*): the sacrificer's prayer is explained thus, that the Ādityas should bestow happiness that is always without break and does not meet destruction.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> पिप॑र्तु नो॒ अदि॑ती॒ राज॑पु॒त्राति॒ द्वेषां॑स्यर्य॒मा सु॒गेभिः॑ ।
+> बृ॒हन्मि॒त्रस्य॒ वरु॑णस्य॒ शर्मोप॑ स्याम पुरु॒वीरा॒ अरि॑ष्टाः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> पिपर्तु । नः । अदितिः । राजपुत्रा । अति । द्वेषांसि । आर्यमा । सुगेभिः ।
+> बृहत् । मित्रस्य । वरुणस्य । शर्म । उप । स्याम । पुरुवीराः । अरिष्टाः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> राजपुत्रा राजानो राजमाना मित्रादयः पुत्रा यस्यास्तादृश्यदितिरदीना
+> अखंडनीया वा देवी नोऽस्मान् द्वेषांसि द्वेष्टणि रक्षांस्यति पिपर्तु । अति
+
+> *rājaputrā rājāno rājamānā mitrādayaḥ putrā yasyāstādṛśyaditiradīnā*
+> *akhaṃḍanīyā vā devī no 'smān dveṣāṃsi dveṣṭaṇi rakṣāṃsyati pipartu | ati*
+
+### Printed p. 82
+
+> पारयतु । अतिक्रम्य तद्रहितं देशं प्रापयत्वित्यर्थः । आर्यमा च सुगेभिः सुष्टु
+> गंतवैर्मार्गैरस्मान्सारयतु । अपि च वयिं पुरुवीरा बहुभिर्वीरैः पुत्रादिभिरु .
+> पेता अरिष्टाः केनाप्यहिंसिताश्च संतो मित्रस्य वरुणस्य च बृहत्परिवृढं शर्म
+> सुखमुपस्याम । उपगता भवेम ॥
+
+> *pārayatu | atikramya tadrahitaṃ deśaṃ prāpayatvityarthaḥ | āryamā ca sugebhiḥ suṣṭu*
+> *gaṃtavairmārgairasmānsārayatu | api ca vayiṃ puruvīrā bahubhirvīraiḥ putrādibhiru .*
+> *petā ariṣṭāḥ kenāpyahiṃsitāśca saṃto mitrasya varuṇasya ca bṛhatparivṛḍhaṃ śarma*
+> *sukhamupasyāma | upagatā bhavema ‖*
+
+Gist: Aditi, whose sons are the shining Mitra and others, is asked to carry us across enemies' hatred; Aryaman to lead us by good paths; and we to attain the great happiness of Mitra and Varuṇa.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Rājaputrā: she whose sons are the shining Mitra and others. Aditi: the indivisible divine mother. Naḥ: us. Dveṣāṃsi: from the hatred of enemies. Ati pipartu: carry across (to a place free of hatred). Aryamā: Aryaman also. Sugebhiḥ: by excellent, easily travelled paths (lead us). (Vayam: we also.) Puruvīrāḥ: accompanied by many heroic sons. Ariṣṭāḥ: unharmed by anyone. Mitrasya: belonging to Mitra. Varuṇasya: belonging to Varuṇa. Bṛhat: very great. Śarma: happiness. Upa syāma: may we attain.
+
+**भावार्थ (Bhāvārtha)**
+
+May the divine mother, whose sons are the shining Mitra and other gods and who is indivisible, carry us across the hatred of enemies to a place free of such hatred. May Aryaman [अरमन (*aramana*) [?], as supplied] also lead us by excellent, easily travelled paths. May we too, accompanied by many heroic sons and unharmed by anyone, attain the great happiness belonging to Mitra and Varuṇa.
+
+**Printed English translation**
+
+May Aditi, the mother of royal sons, place us beyond the malice (of our enemies): may Aryaman lead us by easy paths, and may we, blessed with many descendants, and safe from harm, attain the great happiness of Mitra and Varuna.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+राजपुत्रा अदितिः—राजमानाः मित्रादयः पुत्राः यस्याः अखंडनीया या देवी (*rājaputrā aditiḥ—rājamānāḥ mitrādayaḥ putrāḥ yasyāḥ akhaṃḍanīyā yā devī*). The abundant power of Aditi is described: the goddess Aditi has sons who shine with radiance. The word Aditi is stated by Yāska among the names of the earth (Ni. 2-5), of speech (Ni. 2-23), of cows (Ni. 3-9), and of heaven-and-earth (Ni. 3-22). And
+
 ---
 
-**Progress note:** Done through printed p. 79 (PDF 79). Sūkta 27 Ṛk 4 finished (Bhāvārtha, printed English, Special Topics, pp. 77-78); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics complete (pp. 78-79). Hand fixes to kn.md: removed software 'no text' line; Pada of Ṛk 5 continued after the page-78 break joined into one block; Pratipadārtha split out of the bhāṣya block. [?]: ದುರಿಶಾನಿ (Pratipadārtha, Special Topics; Saṃhitā has ದುರಿತಾನಿ), ಅರಮ in Bhāvārtha (for Aryaman); Pada ends ೫ but bhāṣya ends ೬ as supplied; other supplied slips left (ರಕ್ಷನಾದಿ, ಪ್ರಕೃಷ್ಣನಯನೇ, ಸ್ಕೂಲಾನೀವ, ಪ್ರನೀತ್, Saṃhitā ಜಗತ್ಸಾ in p. 77 sūtra quotation)
+**Progress note:** Done through printed p. 82 (PDF 82). Sūkta 27 Ṛk 6 complete (pp. 80-81); Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done, Special Topics begun and cut off mid-sentence at end of p. 82 (continues). Hand fixes to kn.md: removed software 'no text' line, garbled Saṃhitā label of Ṛk 7 replaced and verse put in block, stray '6' lines removed; Ṛk 7 bhāṣya kept as two blocks across the p. 81/82 break. [?]: ಶಮಂ (Ṛk 6 Pratipadārtha; Saṃhitā has ಶರ್ಮ), ಅರಮನೂ (Ṛk 7 Bhāvārtha). Flags: p. 80 running head reads ಸೂ. ೨೬ but p. 82 reads ೨೭ (kept 27 as before); Pada ಅನ್ವೃಕ್ಷರಃ vs Saṃhitā/bhāṣya ಅನೃಕ್ಷರಃ; supplied slips left (ಯುಷ್ಮಾಕೆಂ, ಸುಖವಂಗಿ, ಶತ್ರುಗಳಿಂಪ, ವಯಿಂ, ದ್ವೇಷ್ಟಣಿ, ಅತಿ-ಪಿಪರ್ತು missing danda); p. 81 head ಅ. ೨. ಅ. ೭. ನ. ೭. as supplied
