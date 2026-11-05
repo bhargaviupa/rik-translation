@@ -22543,6 +22543,104 @@ As this says, the different deities in the three worlds are transformations of o
 
 *[The window ends here, at the end of p. 729, after this quotation and its reference; the next window continues.]*
 
+### Printed p. 730
+
+*[Running head, p. 730: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+[continuing:] As said in this sentence, the deities of these three worlds too serve the earthly Agni alone, so everything is concluded at the end in favour of Agni.
+
+इळा सरस्वती मही तिस्रो देवीर्मयोभुवः । बर्हिः सीदंत्वस्रिधः ॥ (*iḷā sarasvatī mahī tisro devīrmayobhuvaḥ | barhiḥ sīdaṃtvasridhaḥ ‖*)
+(Ṛ. Saṃ. 1-13-9)
+
+In this Ṛk, and in the Ṛk 5-5-8, which has the same order, since there is no mention of Bhāratī, Sāyaṇa has said that mahī is a synonym of the goddess Bhāratī. In the Ṛk 1-188-8 and in
+
+⟦ಭಾರತೀ ಪವಮಾನಸ್ಯ ಸರಸ್ವತೀಳಾ ಮಹೀ ।
+ಇಮಂ ನೋ ಯಜ್ಞಮಾ ಗಮನಿಸ್ಸ್ರೋ ದೇವೀಃ ಸುಪೇಶಸಃ ॥⟧
+
+(printed "मक्कळल्लि (*makkaḷalli*)", for Ṛk, as supplied) too it is an epithet. (Ṛ. Saṃ. 9-5-8)
+
+Iḷā: since the Bṛhaddevatā says अग्निमेवानुरागेळा (*agnimevānurāgeḷā*) (3-13), "Iḷā followed the earthly Agni", and since in the Ṛk
+
+⟦ಪ್ರ ದೀಧಿತಿರ್ವಿಶ್ವವಾರಾ ಜಿಗಾತಿ ಹೋತಾರಮಿಳಃ ಪ್ರಥಮಂ ಯಜಧ್ಯೈ ।
+ಅಚ್ಛಾ ನಮೋಭಿರ್ವೃಷಭಂ ವಂದಧ್ಯೈ ಸ ದೇವಾನ್ಯಕ್ಷದಿಷಿತೋ ಯಜೀಯಾನ್ .।⟧
+(Ṛ. Saṃ. 3-4-3)
+
+the word iḷaḥ is explained as food in the form of oblation, and since in the Ṛk 7-16-8 there is the epithet dhṛtahastā and in 10-20-8 the epithet dhṛtapadī, it seems that iḷā can be explained as oblation. Probably for this reason, in
+
+⟦ಉತ್ತಾನಾಯಾಮವ ಭರಾ ಚಿಕಿತ್ವಾನ್ತಸ್ಯದ್ಯಃ ಪ್ರವೀತಾ ವೃಷಣಂ ಜಜಾನ ।
+ಅರುಷಸ್ತೂಪೋ ರುಶದಸ್ಯ ಪಾಜ ಇಳಾಯಾಸ್ಪುತ್ರೋ ವಯುನೇಽಜನಿಷ್ಟ ॥⟧
+(Ṛ. Saṃ. 3-29-3)
+
+in this Ṛk he is called the son of Iḷā.
+
+Bhāratī: in the Nirukta it is said to be the radiance of the Āditya (bharata is the Āditya, his bhā). The scholar Macdonell, in his Vedic Mythology (P. 87), explained it as oblation offered by the family of Bharata, and Grassmann as the goddess of speech. Or it may be explained as related to Agni.
+
+### Printed p. 731
+
+*[Running head, p. 731: Ā. (printed so for A.) 2, A. 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+⟦ತಸ್ಮಾ ಅಗ್ನಿರ್ಭಾರತಃ ಶರ್ಮ ಯಂಸಜ್ಯೋಕ್ಷಶ್ಯಾತ್ಸೂರ್ಯಮುಚ್ಚರಂತಂ ।
+ಯ ಇಂದ್ರಾಯ ಸುನವಾಮೇತ್ಯಾಹ ನರೇ ನರ್ಯಾಯ ನೃತಮಾಯ ನೃಣಾಂ ॥⟧
+(Ṛ. Saṃ. 4-25-4)
+
+Since in this Ṛk bhārataḥ is an epithet of Agni, the goddess related to him may be named Bhāratī: this is the view of some others.
+
+Sarasvatī: सर इत्युदकनाम । तद्वतीस्तनितादिरूपा माध्यमिका च वाक् । (*sara ityudakanāma | tadvatīstanitādirūpā mādhyamikā ca vāk |*) The word sara means water. Sāyaṇa has explained her as a transformation of the goddess of speech of the atmosphere, who has water and has sounds such as thunder. According to some, Sarasvatī is a river with divine nature. Or, since it is said देव्यस्ति स्रः श्रिताश्चनं (*devyasti sraḥ śritāścanaṃ*) (Bṛ. De. 1-108) that these three have taken refuge in Agni, and since Agni is in three forms in the earth, the atmosphere and the heaven-world, and since Bhāratī is said to be the radiance of the Sun, and Sarasvatī to be the deity of thunder and lightning, and Iḷā too has a direct relation with Agni, it is the opinion of some that all three are transformations of Agni. In the explanation of the Praiṣa sūkta the expression तद्रूपमग्निं (*tadrūpamagniṃ*) has been mentioned above.
+
+Since Sarasvatī is described in many places as the presiding deity of thunder and lightning, this Sarasvatī is a form of Agni in the atmosphere. Since the goddess Iḷā gives the people on the earth wealth and the like and long life, this deity is a form of Agni on the earth. This is the indication of Iḷā, Sarasvatī and Bhāratī. The seers have praised that these three deities should come to the sacrificial altar and sit upon the spread sacred grass (barhis). We give some examples where the seers, taking Sarasvatī to be a deity other than the river, have praised her.
+
+*[The next two lines are each printed with a stray "1." before the numbering "(1)" and "(4)"; kept as supplied.]*
+
+1. (1) ⟦ತಾನ್ಪೂರ್ವಯಾ ನಿವಿದಾ ಹೂಮಹೇ ವಯಂ ಭಗಂ ಮಿತ್ರಮದಿತಿಂ ದಕ್ಷಮಸ್ರಿಧಂ ।
+ಅರ್ಯಮಣಂ ವರುಣಂ ಸೋಮಮಶ್ವಿನಾ ಸರಸ್ವತೀ ನಃ ಸುಭಗಾ ಮಯಸ್ಕರತ್ ॥⟧
+(Ṛ. Saṃ. 1-89-3)
+
+In this Ṛk Sarasvatī is the goddess of speech, or the presiding deity of thunder and lightning.
+
+(2) सरस्वती त्वमस्मा अविड्डि मरुत्वती धृषती जेषि शत्रून् । (*sarasvatī tvamasmā aviḍḍi marutvatī dhṛṣatī jeṣi śatrūn |*)
+(Ṛ. Saṃ. 2-30-8)
+
+(3) सरस्वती शृणवन् यज्ञियासो धाता रयिं सहवीरं तुरासः । (*sarasvatī śṛṇavan yajñiyāso dhātā rayiṃ sahavīraṃ turāsaḥ |*)
+(printed ಋ. ಸ. 3-54-13)
+
+### Printed p. 732
+
+*[Running head, p. 732: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+In these Ṛks Sarasvatī is taken to be either a river or the presiding deity of thunder and lightning.
+
+1. (4) ⟦ದಮೂನಸೋ ಅಪಸೋ ಯೇ ಸುಹಸ್ತಾ ವೃಷ್ಣಃ ಪತ್ನಿರ್ನದ್ಯೋ ವಿಭ್ವತಷ್ಟಾಃ ।
+ಸರಸ್ವತೀ ಬೃಹದ್ದಿವೋತ ರಾಕಾ ದಶಸ್ಯಂತೀರ್ವರಿವಸ್ಯಂತು ಶುಭ್ರಾಃ ॥⟧
+(Ṛ. Saṃ. 5-42-12)
+
+(5) आ नो दिवो बृहतः पर्वतादा सरस्वती यजता गंतु यज्ञं । (*ā no divo bṛhataḥ parvatādā sarasvatī yajatā gaṃtu yajñaṃ |*)
+(Ṛ. Saṃ. 5-43-11)
+
+(6) उभा नासत्या रुद्रो अध ग्नाः पूषा भगः सरस्वती जुषंत । (*ubhā nāsatyā rudro adha gnāḥ pūṣā bhagaḥ sarasvatī juṣaṃta |*)
+(Ṛ. Saṃ. 5-46-2)
+
+In all three Ṛks Sarasvatī is the presiding deity of thunder and lightning. Griffith holds that in the first of these three Ṛks Sarasvatī is some river, either the Sindhu or the Sarasvatī, and in the Ṛks the second and third (printed "२-३ नॆय (*2-3 nèya*)") she is shown as a goddess. K. C. Chattopadhyaya says that the first and second Ṛks (printed "१-२ नॆय (*1-2 nèya*)") apply to the river Sindhu. These three Ṛks were all uttered by descendants of the seer Atri. The seer of the first Ṛk is Atri, or Bhauma, the son of Atri; of the second Atri; of the third Pratikṣatra, a descendant of Atri. In the second Ṛk Sarasvatī is invoked from heaven (divaḥ) and from the cloud-region (parvatāt ā). Since the word patniḥ occurs in the first Ṛk, the bhāṣyakāra takes Sarasvatī and the other rivers to be wives of Indra.
+
+(7) अग्निरिंद्रो वरुणो मित्रो आर्यमा वायुः पूषा सरस्वती सजोषसः। (*agniriṃdro varuṇo mitro āryamā vāyuḥ pūṣā sarasvatī sajoṣasaḥ|*)
+(Ṛ. Saṃ. 10-65-1)
+
+(8) विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या । (*viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā |*)
+(Ṛ. Saṃ. 10-65-13)
+
+In both these Ṛks Sarasvatī is the goddess of speech.
+
+(9) यत्सुरामं व्यपिबः शचीभिः सरस्वती त्वा मघवन्नभिष्टुक् । (*yatsurāmaṃ vyapibaḥ śacībhiḥ sarasvatī tvā maghavannabhiṣṭuk |*)
+(printed Ṛ Saṃ. 10-131-5)
+
+In this Ṛk, since Sarasvatī is said to be with Indra, one may take her to be the presiding deity of thunder and lightning.
+
+(10) गर्भं धेहि सिनीवालि गर्भं धेहि सरस्वति । (*garbhaṃ dhehi sinīvāli garbhaṃ dhehi sarasvati |*)
+(Ṛ. Saṃ. 10-184-2)
+
+Here it is proper to call Sarasvatī the goddess of speech.
+
+*[The window ends here, at the end of p. 732; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 729 (PDF 729). Sūkta 4 Ṛk 8 printed English and Special Topics so far (tisro devīḥ: Iḷā, Sarasvatī, Bhāratī; Ni. 8-13; Bṛ. De. 3-12 to 14, 1-90, 1-108)
+**Progress note:** Done through printed p. 732 (PDF 732). Sūkta 4 Ṛk 8 Special Topics (Iḷā, Bhāratī, Sarasvatī; Ṛ. Saṃ. 1-13-9, 3-4-3, 3-29-3, 4-25-4; Sarasvatī examples 1 to 10)
