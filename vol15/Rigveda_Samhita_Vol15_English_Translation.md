@@ -18268,6 +18268,111 @@ Sādhadiṣṭiṃ—साधितयज्ञं । (*sādhitayajñaṃ |*) 
 > *naraḥ |*
 > *agne duva icchamānāsa āpyamupāsate draviṇaṃ dhehi tebhyaḥ ‖ 6 ‖*
 
+### Printed p. 579
+
+*[Running head, p. 579: Aṣṭaka 2, Adhyāya 8, Varga 18 (the Varga number changes here), Ṛgvedasaṃhitā.]*
+
+**॥ पदपाठः ॥**
+
+> पावकशोचे । तव । हि । क्षयं । परि । होतः । यज्ञेषु । वृक्तबर्हिषः । नरः ।
+> अग्ने । दुवः । इच्छमानासः । आप्यं । उप । आसते । द्रविणं । धेहि । तेभ्यः ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे पावकशोचे शोधकदीप्ते हे होतर्देवानामाह्वातः यज्ञेषु परि
+> परितो व्यक्तबर्हिषः स्तीर्णबर्हिषो दुवः परिचरणमिच्छमानास इच्छंतो नरो
+> नेतारो यजमाना आप्यमाप्तुं योग्यं तव त्वत्संबंधिनं क्षयं निवासं याग-
+> गृहमुपासते । सेवंते । तेभ्यो द्रविणं धनं धेहि । विधेहि ॥
+
+*(Gist: O purifying-bright invoker Agni, sacrificers with spread grass, desiring your service, attend your sacrificial abode; give wealth to them. The bhāṣya has the spelling ವ್ಯಕ್ತಬರ್ಹಿಷಃ, as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Pāvakaśoce: O Agni of purifying radiance. Hotaḥ: giver of the invitation to the gods. Agne: O Agni. Yajñeṣu: in the sacrifices. Pari: all round. Vṛktabarhiṣaḥ: those who have spread seats of sacred grass. Duvaḥ: (your) service. Icchamānāsaḥ: those who desire. Naraḥ: the sacrificers, who are leaders. Āpyaṃ: that which is fit to be approached. Tava: connected with you. Kṣayaṃ: the sacrificial house. Upāsate: they attend. Tebhyaḥ: to them. Draviṇaṃ: wealth. Dhehi: give.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, of purifying radiance, who purifies the world, and who gives the invitation to the gods: the sacrificers, who have spread seats of sacred grass all round in the sacrifices and who desire your service, and who are leaders, attend the sacrificial house, which is fit to be approached and belongs to you. Give wealth to them.
+
+**Printed English translation**
+
+Agni, of purifying lustre, invoker, of the gods, men desirous of worshipping (you), having strewn the sacred grass, repair to your appropriate abode at sacrifices : bestow upon them wealth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Pāvakaśoce—शोधकदीप्ते । (*śodhakadīpte |*) Since Agni purifies everything with his light, he is praised with the epithet pāvakaśociḥ.
+
+### Printed p. 580
+
+*[Running head, p. 580: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+Kṣayaṃ—the word kṣaya, derived from the root क्षि निवासे (*kṣi nivāse*), means dwelling-place. Here Agni's dwelling-place is the sacrificial house.
+
+Draviṇaṃ—since the word draviṇa is read among the names of wealth (Ni. 3-9), draviṇa means wealth.
+
+O Agni, the sacrificers prepare in their sacrificial altar a seat of sacred grass for the gods to sit upon and attend you, who invite the gods. They also enter the sacrificial house in order to attend you with sacrifices and the like. Agni is prayed to give wealth and so on to such sacrificers.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> आ रोद॑सी अपृण॒दा स्व॑र्म॒हज्जा॒तं यदे॑नम॒पसो॒ आधा॑रयन् ।
+> सो अ॑ध्व॒राय॒ परि॑ णीयते क॒विरत्यो॒ न वाज॑सातये॒ चनो॑हितः ।
+
+> *ā rodasī apṛṇadā svarmahajjātaṃ yadenamapaso ādhārayan |*
+> *so adhvarāya pari ṇīyate kaviratyo na vājasātaye canohitaḥ |*
+
+*[The supplied text prints no verse number after this Saṃhitā; the number ॥ ೭ ॥ is printed after the Pada.]*
+
+**॥ पदपाठः ॥**
+
+> आ । रोदसी इति । अपृणत् । स्वः । महत् । जातं । यत् । एनं । अपसः आधारयन् ।
+> सः । अध्वराय । परि । नीयते । कविः । अत्यः । न । वाजसाशये । चनःहितः ॥ ७ ॥
+
+> *ā | rodasī iti | apṛṇat | svaḥ | mahat | jātaṃ | yat | enaṃ | apasaḥ ādhārayan |*
+> *saḥ | adhvarāya | pari | nīyate | kaviḥ | atyaḥ | na | vājasāśaye | canaḥhitaḥ ‖ 7 ‖*
+
+*(The Pada is printed ವಾಜಸಾಶಯೇ where the Saṃhitā has ವಾಜಸಾತಯೇ, and ಅಪಸಃ ಆಧಾರಯನ್ for ಅಪಸಃ । ಆಧಾರಯನ್ as a single unit, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> रोदसी द्यावापृथिव्यावापृणत् । आपूरयत् । तथा महत्पभूतं स्वरंत-
+> रिक्षमापृणच्च । अपसः कर्मवंतो यजमाना जातं यद्यमेनमग्निमधारयन्
+> अत्यो न अश्व इव कविः क्रांतः सर्वत्र व्याप्तश्चनोहितो निहितान्न सोऽयमग्नि-
+> र्वाजसातये वाजस्यान्नस्य कीर्तेर्वा सातये लाभाय परिणीयते । यज्ञार्थं
+> नीयते ॥
+
+*(Gist: Agni fills heaven, earth and the sky; the sacrificers hold him once born; like a horse, wise and food-bestowing, he is led to the sacrifice to obtain food.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Agniḥ: Agni.) Rodasī: heaven and earth. Ā apṛṇat: he has pervaded. Mahat: the great. Svaḥ: the firmament too. Ā (apṛṇat): he has pervaded. Avasaḥ [printed so; the Saṃhitā has apasaḥ]: the sacrificers, who do the rites. Jātaṃ: born. Yat enaṃ: this Agni whom. Ādhārayan: they held. Atyo na: like a horse. Kaviḥ: him who pervades everywhere. Canohitaḥ: him who has established food. Saḥ: that Agni. Vājasātaye: for the gaining of food. Adhvarāya: for the sacrifice. Pariṇīyate: is brought (to the sacrificial ground).
+
+### Printed p. 581
+
+*[Running head, p. 581: Aṣṭaka 2, Adhyāya 8, Varga 18, Ṛgvedasaṃhitā.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Agni has pervaded heaven and earth and the great firmament. The sacrificers, who do the rites, held him when he was born; that Agni, like a horse, pervading everywhere, establishing food, is brought to the sacrificial ground for the sacrifice for the gaining of food.
+
+**Printed English translation**
+
+He has filled both heaven and earth and the spacious firmament, he whom the performers of (sacred) rites have laid hold of as soon as born . he, the sage, the giver of food, is brought like a horse to the sacrificer, for (the sake of) obtaining food.
+
+*[The printed English has "born ." with a stray space and full stop, as supplied.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रोदसी आ अपृणत् महत् स्वः आ (*rodasī ā apṛṇat mahat svaḥ ā*)—this Agni has pervaded heaven and earth and the firmament. That is, Agni has pervaded the earth in the form of terrestrial fire, the atmosphere in the form of lightning fire, and heaven in the form of the Sun.
+
+⟦ಜಾತಂ ಯತ್ ಏನಂ ಅಪಸಃ ಆಧಾರಯನ್— ಕರ್ಮವಂತೋ ಯಜಮಾನಾಃ ಜಾತಂ
+ಯಮಗ್ನಿಂ ಆಧಾರಯನ್ ।⟧ The sacrificers who perform the sacrifice held (in order to carry him to the northern altar) Agni, who was just born by the churning of the fire-sticks.
+
+चनोहिति (*canohiti*) (as printed; the Saṃhitā has canohitaḥ)—the meaning is that he has stored up food to give to those who praise him.
+
+सः वाजसातये अध्वराय परिणीयते (*saḥ vājasātaye adhvarāya pariṇīyate*)—that Agni is carried from the place of churning to the northern altar for the sacrificial rites performed to gain food. The rite of carrying Agni with mantras to the northern altar immediately after the churning is called agnipraṇayana. It is important among the sacrificial rites. It is explained at length in the Aitareya Brāhmaṇa. Accordingly we have explained this rite at length in Part 14, pages 541 to 549 (printed so with Latin digits).
+
 ---
 
-**Progress note:** Done through printed p. 578 (PDF 578). Sūkta 2 Ṛk 5 complete; Ṛk 6 Saṃhitā begun; accent DIFF on 3 lines
+**Progress note:** Done through printed p. 581 (PDF 581). Sūkta 2 Ṛk 6 complete; Ṛk 7 complete incl. Special Topics (agnipraṇayana); 1 accent DIFF
