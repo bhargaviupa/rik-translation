@@ -34605,6 +34605,102 @@ Brahmaṇaspate—O Brahmaṇaspati. Anānudaḥ [as supplied]—the giver who h
 
 O Brahmaṇaspati, you who are the unrivalled giver, the rainer of desires, who rush forward to battle, who burn up the enemy completely, who defeat enemies in battles: you are a valiant one whose valour is true ([sic] the supplied text prints पराक्रवि (*parākravi*) for पराक्रमि (*parākrami*)) and a releaser from debt. Even if the enemy, gratified by his own evil power, has extremely terrible power, you subdue him.
 
+### Printed p. 935
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 31] Ṛgveda-saṃhitā, page 935, as supplied.)*
+
+**Printed English translation**
+
+You, Brahmanaspati, who have no requiter(of your bounty), who are the showerer(of benefits), the repairer to combat, the consnmer [sic] of foes, the victor in battles, you are true, the discharger of debts, the humiliator of the fierce and of the exulting.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अनानुदः (*anānudaḥ*)—अनु पश्चाद्द दातीत्यनुदः । स यस्य नास्तीत्यननुदः । दात्रंतरशून्य इत्यर्थः । (*anu paścādda dātītyanudaḥ | sa yasya nāstītyananudaḥ | dātraṃtaraśūnya ityarthaḥ |*) One who gives following another, that is, who gives as another has given, is called अनुदः (*anudaḥ*); one who is not so is called अननुदः (*ananudaḥ*). That is, one who gives as no one gives; the meaning is an unequalled giver.
+
+आहवं (*āhavaṃ*)—since the word आहव (*āhava*) is read among the names of battle (नि. ३-९ (*ni. 3-9*) Ni. 3-9), आहव (*āhava*) means battle. आह्वयंतेऽत्र परस्परं स्पर्धया योधा इत्याहवं (*āhvayaṃte 'tra parasparaṃ spardhayā yodhā ityāhavaṃ*)—because the warriors taking part in it call one another to fight, आहव (*āhava*) means battle; such is the etymological sense of this word.
+
+पृतनासु (*pṛtanāsu*)—the word पृतनाः (*pṛtanāḥ*) is read among the names of battle (नि. ३-९ (*ni. 3-9*) Ni. 3-9), and this word is always used in the plural.
+
+ऋणयाः (*ṛṇayāḥ*)—ऋणस्य यावयितासि । यु मिश्रणामिश्रणयोः । (*ṛṇasya yāvayitāsi | yu miśraṇāmiśraṇayoḥ |*) The meaning is: one who removes a debt or loan.
+
+वीळुहर्षिणः (*vīḷuharṣiṇaḥ*)—the word वीळु (*vīḷu*) is read among the names of strength (नि. ३-९ (*ni. 3-9*) Ni. 3-9). दृढहर्षस्य कामुकस्य नास्तिकस्य दमितासि । (*dṛḍhaharṣasya kāmukasya nāstikasya damitāsi |*) The commentator explains: you are the subduer of a man who is exceedingly joyful, lustful or an unbeliever. If this word is taken as an epithet of the word उग्रस्य (*ugrasya*), then the sense "you subdue the cruel one who is exceedingly elated, thinking that he alone will conquer in battle" is suitable to the context.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> अदे॑वेन॒ मन॑सा॒ यो रि॑ष॒ण्यति॑ शा॒सामु॒ग्रो मन्य॑मानो॒ जिघां॑सति ।
+> बृह॑स्पते॒ मा प्रण॒क्तस्य॑ नो व॒धो नि क॑र्म म॒न्युं दु॒रेव॑स्य॒ शर्ध॑तः ॥ १२ ॥
+
+> *adevena manasā yo riṣaṇyati śāsāmugro manyamāno jighāṃsati |*
+> *bṛhaspate mā praṇaktasya no vadho ni karma manyuṃ durevasya śardhataḥ ‖ 12 ‖*
+
+### Printed p. 936
+
+*(Header: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 23, page 936, as supplied.)*
+
+*(The Saṃhitā block was split by the page break in the supplied text; the two halves are joined above, no letter changed. The label before the Pada is garbled in the supplied text (ಪದಹಾರಃ) and is given as the standard label. The Pada reads ದುಃಏವಸ್ಯ for the Saṃhitā's ದುರೇವಸ್ಯ, as supplied, not corrected.)*
+
+**॥ पदपाठः ॥**
+
+> अदेवेन । मनसा । यः । रिषण्यति । शासां । उग्रः । मन्यमानः । जिघांसति ।
+> बृहस्पते । मा । प्रणक् । तस्य । नः । वधः । नि । कर्म । मन्युं । दुःएवस्य । शर्धतः॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यः पुमान् अदेवेन देवानमन्यमानेन यद्वा आसुरवृत्तिविशिष्टेन मनसा-
+> स्मान् रिषण्यति । हिनस्ति ॥ दुरस्युद्र्रविणस्युवृषण्यति रिषण्यतीति निपातितः ॥ यश्चोग्रति
+> पापचित्तो मन्यमान आत्मानं बहु मन्यमानः पुमान् शासामुक्थस्य शंसितारं ।
+> यद्वा अस्माकमाशंसां । शासित्यणामुग्र इति वा योजनीयं । अस्मान् जिघांसति ।
+> हंतुमिच्छति ॥ हंतेः सन्यज्ञनगमां सनीति दीर्घः ॥ हे बृहस्पते तस्य वधः ॥ वध्य-
+> तेऽनेनेति वध आयुधं ॥ नोऽस्मान्मा प्रणक् ॥ पृची संपर्के श्नम् विकरणी ।
+> व्यत्ययेनामागमः । चादिलोप इति न निघातः । व्यत्ययेनाद्युदात्तः ॥ किंच दुरे-
+> वस्य दुष्टगमनस्य शर्धतो बलवतः । यद्वा दुष्वाभिसंधेर्वेगं कुर्वतस्तस्य मन्युं
+> क्रोधं ज्ञानं वा नि कर्म । त्वत्पसादान्निराकुर्मश्च ॥
+
+*Gist: He who with a godless, demonic mind harms us and, fierce and arrogant, wishes to kill us (the praisers): Bṛhaspati, may his weapon not reach us, and may we put down the wrath of that strong evildoer. The grammatical tail is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Bṛhaspate—O Bṛhaspati. Yaḥ—which enemy. Adevena—with a godless, demonic-natured. Manasā—mind. Riṣaṇyati—harms (us). (Who is) Ugraḥ—terrible, of sinful intent. Manyamānaḥ—and self-conceited. Śāsāṃ—us, the praisers. Jighāṃsati—wishes to kill. Tasya—of such an enemy. Vadhaḥ—the weapon (the instrument of killing). Naḥ—us. Mā praṇak—let it not approach. Durevasya—of him whose conduct is wicked. Tardhataḥ [sic: the Saṃhitā has शर्धतः (*śardhataḥ*), as supplied]—and who is strong. Manyuṃ—wrath. Ni karma—grant that we may face and destroy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, the enemy who with a godless mind of demonic nature harms us, who, terrible, of sinful intent and self-conceited, wishes to kill us who praise: may the weapon, the instrument of killing, of such an enemy not approach us. Grant that we may face and destroy the wrath of that man of wicked conduct and strength.
+
+### Printed p. 937
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 31] Ṛgveda-saṃhitā, page 937, as supplied; the bhāvārtha above runs over from p. 936.)*
+
+**Printed English translation**
+
+Let not, Brihaspati, the murderous(weapon) of that man reach us, who, with unrighteous mind, seeks to harm us: who, fierce and arrogant, designs to kill(your) worshippers: may we baffle the wrath of the strong evildoer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+आदेवेन (*ādevena*) [as supplied; the Saṃhitā has अदेवेन (*adevena*)]—देवानमन्यमानेन यद्वा आसुरवृत्तिविशिष्टेन । (*devānamanyamānena yadvā āsuravṛttiviśiṣṭena |*) Without regard for the gods, that is, of demonic nature, of bad nature, is the meaning.
+
+शासां उग्रः (*śāsāṃ ugraḥ*)—शासामुक्थस्य शंसितारं । यद्वा अस्माकमाशंसां शासित्यणामुग्रः । (*śāsāmukthasya śaṃsitāraṃ | yadvā asmākamāśaṃsāṃ śāsityaṇāmugraḥ |*) The meaning is: one who behaves with a cruel nature toward us, who are praising the gods with mantras and the like.
+
+वधः (*vadhaḥ*)—वध्यतेऽनेनेति वध आयुधं । (*vadhyate 'neneti vadha āyudhaṃ |*) Because it is used as an instrument for killing, the word वध (*vadha*) means weapon.
+
+दुरेवस्य (*durevasya*)—दुष्टगमनस्य । यद्वा दुष्टाभिसुधेर्वेगं कुर्वतस्तस्य । (*duṣṭagamanasya | yadvā duṣṭābhisudhervegaṃ kurvatastasya |*) The meaning is: of the enemy who is rushing forward to confront us with evil intent.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> भरे॑षु॒ हव्यो॒ नम॑सोप॒सद्यो॒ गन्ता॒ वाजे॑षु॒ सनि॑ता॒ धनं॑-धनं ।
+> विश्वा॒ इद॒र्यो अ॑भिदि॒स्वॊ॒३॒॑ मृधो॒ बृह॒स्पति॒र्वि न॑वर्हा॒ रथा॑ इन ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> भरेषु । हव्यः । नमसा । उपसद्यः । गन्ता । वाजेषु । सनिता । धनंधनं ।
+> विश्वाः । इत् । आर्यः । अभिदिप्स्वः । मृधः । बृहस्पतिः । वि । ववर्ह । रथान्इव ॥
+
+> *bhareṣu | havyaḥ | namasā | upasadyaḥ | gantā | vājeṣu | sanitā | dhanaṃdhanaṃ |*
+> *viśvāḥ | it | āryaḥ | abhidipsvaḥ | mṛdhaḥ | bṛhaspatiḥ | vi | vavarha | rathāniva ‖*
+
 ---
 
-**Progress note:** Done through printed p. 934 (PDF 934). Sukta 23 Rik 10 complete; Rik 11 Samhita, Pada, bhasya, Pratipadartha, Bhavartha given (printed English and Special Topics follow); garbled labels in kn.md replaced by standard ones, Rik 11 Samhita joined to reference lines for accents
+**Progress note:** Done through printed p. 937 (PDF 937). Sukta 23 Rik 11 printed English and Special Topics; Rik 12 complete; Rik 13 Samhita and Pada given (bhasya follows); Rik 12 Samhita and Rik 13 Samhita joined to reference lines for accents
