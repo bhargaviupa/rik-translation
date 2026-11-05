@@ -289,6 +289,120 @@ May we propitiate you, Agni, by this(oblation); graudson [sic] of strength, you 
 
 अया (*ayā*)—आनया (*ānayā*) [as supplied]: for the convenience of the metre the na of अनया (*anayā*) is dropped, giving आया (*āyā*). Likewise the a of आत्मना (*ātmanā*) is dropped and the form त्मना (*tmanā*) is used in many places. Such usages are numerous in the Ṛgveda.
 
+### Printed p. 510
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 6, p. 510.*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तं त्वा॑ गी॒र्भिर्गिर्व॑णसं द्रविण॒स्युं द्र॑विणोदः ।
+> स॒प॒र्येम॑ सप॒र्यवः॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> तं । त्वा । गीःभिः । गिर्वणसं । द्रविणस्युं । द्रविणःदः ।
+> सपर्येम । सपर्यवः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे द्रविणोदो धनस्य दातरग्ने तं तादृशं गिर्वणसं गीर्भिः स्तुतिभिर्वन-
+> नीयं द्रविणस्युं हविर्लक्षणधनेच्छुं त्वा त्वां सपर्यवः परिचरणकर्तारो वयं
+> गीर्भिः स्तुतिभिः सपर्येम । परिचरेम ॥
+
+*Gist:* Agni, giver of wealth, praised by hymns and desiring the wealth of oblations, is to be served by us, his worshippers, with praises.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+द्रविणोदः (*draviṇodaḥ*)—O Agni, giver of wealth. गिर्वणसं (*girvaṇasaṃ*)—one who is worshipped with praises. द्रविणस्युं (*draviṇasyuṃ*)—one who desires wealth in the form of oblation. तं त्वा (*taṃ tvā*)—you, the well-known one. सपर्यवः (*saparyavaḥ*)—we, your worshippers. गीर्भिः (*gīrbhiḥ*)—with praises. सपर्येम (*saparyema*)—we shall worship.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, giver of wealth, worshipped with praises, desiring wealth in the form of oblation, the well-known one: we, your worshippers, shall worship you with praises.
+
+**Printed English**
+
+Granter of riches, may we, your worshippers, propitiate you, who are desirous of(sacrificial) wealth, and deserving of laudation, by our praises.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+द्रविणोदः (*draviṇodaḥ*)—a detailed explanation of this word has been given on pages four hundred and seven to four hundred and nine of this same volume.
+
+गिर्वणसं (*girvaṇasaṃ*)—स्तुतिलक्षणैर्वचोभिः संभजनीयं (*stutilakṣaṇairvacobhiḥ saṃbhajanīyaṃ*): one to be resorted to by words in the form of praise; that is, one worthy of hymns, one fit to be praised. There is Yāska's explanation: गिर्वणा देवो भवति गीर्भिरेनं वनयंति (*girvaṇā devo bhavati gīrbhirenaṃ vanayaṃti*) (Nirukta 6-14).
+
+### Printed p. 511
+
+*Running head: A. 2, A. 5, V. 27, Ṛgveda-saṃhitā, p. 511.*
+
+सपर्यवः (*saparyavaḥ*)—परिचरणकर्तारो वयं (*paricaraṇakartāro vayaṃ*): we who attend on you; that is, we, the sacrificers and priests who serve you.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> स बो॑धि सू॒रिर्म॒घवा॒ वसु॑पते॒ वसु॑दावन् ।
+> यु॒यो॒ध्य१॒॑ १ स्मद्वेषां॑सि ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । बोधि । सूरिः । मघवा । वसुपते । वसुदावन् ।
+> युयोधि । अस्मत् । द्वेषांसि ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> मघवान्नवान् सूरिर्विद्वान् प्रेरको ना स उक्तलक्षणकस्त्वं बोधि । बुध्यस्वास्मदीयं स्तोत्रं । किंच हे अग्ने द्वेषांसि द्वेष्टानस्मदस्मत्तो युयोधि ।
+> पृथक्कुरु ॥
+
+*Gist:* Agni, wise and wealthy, is asked to attend to our hymn and to keep our hateful enemies away from us.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसुपते (*vasupate*)—lord of wealth. वसुदावन् (*vasudāvan*)—giver of wealth, O Agni. मघवा (*maghavā*)—possessor of wealth. सूरिः (*sūriḥ*)—wise, or inspirer of the rite. सः (*saḥ*)—that you. बोधि (*bodhi*)—understand (our rite and praise). द्वेषांसि (*dveṣāṃsi*)—our enemies who hate us. अस्मत् (*asmat*)—from us. युयोधि (*yuyodhi*)—separate (drive far away).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, lord and giver of wealth, possessor of wealth, wise or inspirer of the rite: understand our rite and our praise. Separate from us the enemies who hate us.
+
+**Printed English**
+
+Lord of wealth, giver of wealth, possessor of riches, Agni, you are wise, understand(our prayers), and scatter our enemies.
+
+### Printed p. 512
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 6, p. 512.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+मघवा (*maghavā*)—the word मघ (*magha*) is read among the names of wealth (Nirukta 3-9). There is also the explanation मघमिति धननामधेयं महंतेर्दानकर्मणः (*maghamiti dhananāmadheyaṃ mahaṃterdānakarmaṇaḥ*) (Nirukta 1-7), which indicates the act of giving. The word मघ (*magha*), derived from the root मंहति (*maṃhati*) [as supplied], means wealth; मघवान् (*maghavān*) means one who has wealth. This word is used also of other deities such as Agni and Indra; because its use is most frequent in connection with Indra, in modern Sanskrit the word मघवत् (*maghavat*) has no meaning other than Indra.
+
+सूरिः (*sūriḥ*)—the word सूरि (*sūri*) is read among the names of praisers (Nirukta 2-19). This word has the meanings intelligent, wise, clever, inspirer, and so on.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स नो॑ वृ॒ष्टिं दि॒वस्परि॒ स नो॒ वाज॑मन॒र्वाणं॑ ।
+> स नः॑ सह॒स्रिणी॒रिषः॑ ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । नः । वृष्टिं । दिवः । परि । सः । नः । वाजं । अनर्वाणं ।
+> सः । नः । सहस्रिणीः । इषः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सः स एवाग्निर्नोऽस्मदर्थं दिवस्परि द्युलोकादंतरिक्षात् ॥ परीति पंच-
+> म्यर्थानुवादी ॥ वृष्टिं करोति च शेषः । स एव नोस्मदर्थमनर्वाणमविचल-
+> मनल्पं वाजं बलं ददातु । तथा सहस्रिणीरपरिमितप्रकाराणीषोऽन्नानि स एवाग्नि-
+> र्ददातु ॥
+
+*Gist:* May that same Agni send rain from the sky, and give us abundant unfailing strength and countless foods.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—that same Agni described above. नः (*naḥ*)—to us. दिवस्परि (*divaspari*)—from the atmosphere. वृष्टिं (*vṛṣṭiṃ*)—rain (he pours). सः (*saḥ*)—he. नः (*naḥ*)—to us. अनर्वाणं (*anarvāṇaṃ*)—(everlasting) abundant. वाजं (*vājaṃ*)—strength (may he give; likewise). नः (*naḥ*)—to us. सहस्रिणीः (*sahasriṇīḥ*)—countless. इषः (*iṣaḥ*)—foods. सः (*saḥ*)—may that same Agni give.
+
 ---
 
-**Progress note:** Done through printed p. 509 (PDF 509). Sukta 6 Rks 1-2 (Maṇḍala 2); Rk 2 bhāṣya label repaired
+**Progress note:** Done through printed p. 512 (PDF 512). Sukta 6 Rks 3-5 (Maṇḍala 2); labels and blocks of Rks 3-5 restored in kn.md; Rks 4-5 Samhita not accented (DIFF)
