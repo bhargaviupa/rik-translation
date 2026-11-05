@@ -1,0 +1,2 @@
+# Missing / unsettled places (Vol 14 supplied-text pass)
+- Sūkta 18 Ṛk 4 (printed p. 826): the Saṃhitā is not in the body of the supplied text; it survives only inside an image title attribute at `vol14/html/rig_14_2.html` ~line 4950, as mixed Devanagari/Kannada with OCR slips (`इन्द्वा`, `याह्या`, `षट्त्रिर्होय-मानः`, `सोमुपೇಯमयम्`). Not reproduced; the English file carries an italic note under `#### Ṛk 4`. User to supply/approve the verse. The Pada follows the figure's Kannada lines and carries one `[?]` ("ಕರಿತಿ ಕಃ").
