@@ -17211,6 +17211,98 @@ Come to us with friendly, auspicious, and mighty aids, you who are great and all
 
 *(The Ṛk number ॥ ೨೦ ॥ is missing after the Saṃhitā in the supplied text.)*
 
+### Printed p. 542
+
+*[Running head, p. 542: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+**॥ पदपाठः ॥**
+
+> एता । ते । अग्ने । जनिम । सनानि । प्र । पूर्व्याय । नूतनानि । वोचं ।
+> महांति । वृष्णे । सवना । कृता । इमा । जन्मन्जन्मन् । निहितः । जातवेदाः ॥२०॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने पूर्व्याय पुरातनाय ते तुभ्यं सनानि सनातनानि महद्भिः संभजनीयानि ना नूतनान्यन्येष्टविद्यमानान्यद्यतनानि वैतैतानि जनिम जन्मानि कर्माणि
+> स्तोत्राणि वा प्रवोचं । जातवेदा जातप्रज्ञो जातधनो वा जन्मन् जन्मन् ।
+> जायंत इति जन्मानः । तेषु सर्वेषु मनुष्येषु निहितो यागार्थं । तस्मै वृष्णॆ ।
+> संपदां वर्षित्रेऽग्निय इमेमानि सवना सवनानि कृता । कृतानि ।'
+
+*(Gist: O Agni, to you, ancient, I have recited these eternal and these recent praises; Jātavedas is established in every man who sacrifices; for that showerer these great pressings are made. A hyphenated line break was joined; the block ends in the supplied text with a stray quotation mark.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Pūrvyāya: ancient. Te: addressed to you. Sanāni: venerable (eternal). Nūtanāni: and newly composed. Etā janima: these praises. Pravocaṃ: I recite. Jātavedāḥ: Agni, of understanding. Janman janman: in every man who is born (or in every birth). Nihitaḥ: is established. Vṛṣṇe: for that showerer of desires, Agni. Mahānti: endowed with greatness. Imā savanā: these praises. Kṛtā: are composed.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, to you, the ancient, I recite these praises, both eternal and newly composed. Agni, who is of understanding, is established in every man. For that showerer of desires, Agni, these praises, endowed with greatness, are composed.
+
+**Printed English translation**
+
+I address to you, Agni, who are of old, these eternal as well as recent adorations: these solemn sacrifices are offerd [sic] to the showerer of benefits. who in every birth is established (amongst men), cognizant of all that exists.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+जनिम—कर्माणि स्तोत्राणि वा । (*janima—karmāṇi stotrāṇi vā |*) The commentator has explained it as rites or praises. Since Yāska has said कर्मसूदयेषु (*karmasūdayeṣu*) of the word जन्म (*janma*) or जनिम (*janima*) (Ni. 11-23)
+
+### Printed p. 543
+
+*[Running head, p. 543: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+[the sense of] "rising" can be given. Rising means that in the sacrifice Agni is born in the *araṇi*s or rises. Since such risings take place in many sacrifices, it is described here that Agni's rising or birth is manifold. That is, the risings of Agni are many in the many sacrifices held in the past and in the many sacrifices being held now.
+
+जन्मन् जन्मन्— जायंत इति जन्मानः । तेषु सर्वेषु मनुष्येषु । (*janman janman— jāyaṃta iti janmānaḥ | teṣu sarveṣu manuṣyeṣu |*) The meaning is that Agni is born many times in all the sacrifices that men perform.
+
+⟦ಜಾತಾನಿ ವೇದ । ಜಾತಾನಿ ನೈನಂ ವಿದುಃ, ಜಾತೇ ಜಾತೇ ವಿದ್ಯತ ಇತಿ ವಾ; ಜಾತವಿತ್ತೋ ವಾ
+ಜಾತಧನೋ ವಾ ಜಾತವಿದ್ಯೋ ವಾ ಜಾತಜ್ಞಾನಃ ।⟧ The Nirukta authors explain (Ni. 7-19) that it may mean one who knows all that has been born, or one whom all that is born knows, or one who pervades all that is born; or one who has all the wealth that has been born; or one who has understanding that knows all. In the Bṛhaddevatā too the nature and place of Jātavedas are clearly stated—
+
+⟦ಇಹಾಗ್ನಿ ಭೂತಸ್ತೃಷಿಭಿರ್ಲೋಕೇ ಸ್ತುತಿಭಿರೀಳಿತಃ ।
+ಜಾತವೇದಾಃ ಸ್ತುತೋ ಮಧ್ಯೆ ಸ್ತುತೋ ವೈಶ್ವಾನರೋ ದಿವಿ ॥⟧
+(Bṛ. De. 1-67)
+
+In this verse it is said that the seers call the fire on earth Agni, the fire in the middle world Jātavedas, and the one in the heavenly world Vaiśvānara; and continuing the same idea,
+
+⟦ವೈಶ್ವಾನರಂ ಶ್ರಿತೋ ಹ್ಯಗ್ನಿರಗ್ನಿಂ ವೈಶ್ವಾನರಃ ಶ್ರಿತಃ ।
+ಅನಯೋರ್ಜಾತವೇದಾಸ್ತು ತಥೈತೇ ಜಾತವೇದಸಿ ॥⟧
+(Bṛ. De. 1-97)
+
+it is explained that Agni is contained in Vaiśvānara and Vaiśvānara in Agni, that Jātavedas is contained in both, and that these two are two parts of Jātavedas. Thus, having stated the places of Jātavedas in the first chapter, the nature and etymology are given in the second chapter.
+
+⟦ಭೂತಾನಿ ವೇದ ಯಜ್ಞಾ ತೋ ಜಾತವೇದಾಥ ಕಥ್ಯತೇ ।
+ಯಚ್ಚೈಷ ಜಾತವಿದ್ಯೋಽಭೂತ್ ವಿತ್ತಂ ಜಾತೋಽಧಿವೇತ್ತಿ ವಾ ॥⟧
+(Bṛ. De. 2-30)
+
+### Printed p. 544
+
+*[Running head, p. 544: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+⟦ವಿದ್ಯತೇ ಸರ್ವಭೂತೈರ್ಹಿ ಯದ್ವಾ ಜಾತಃ ಪುನಃ ಪುನಃ ।
+ತೇನ್ನೈಷ ಮಧ್ಯಭಾಗೇಂದ್ರೋ ಜಾತವೇದಾ ಇತಿ ಸ್ತುತಃ ॥⟧
+(Bṛ. De. 2-31)
+
+The Bṛhaddevatā's etymology is that Agni is praised as Jātavedas like Indra of the middle world: because he knows everything as soon as he is born, or because knowledge was born in him, or because as soon as he is born he knows and obtains all wealth, or because he is known by all beings every time he is born again. In the same way in the Śatapatha Brāhmaṇa also—
+
+⟦ಯಃ ಸಂವತ್ಸರಂ ಜಾತಃ ಸ್ಯಾತ್ಪಾಣೋ ವಾ ಅಗ್ನಿಸ್ತಮೇತದ್ವಿಭರ್ತ್ಯಥ ಹ ವೈ ರೇತಃ ಸಿಕ್ತಂ
+ಪ್ರಾಣೋSನ್ವವರೋಹತಿ ತದ್ವಿಂದತೇ ತದ್ಯಜ್ಜಾತಂ ಜಾತಂ ವಿಂದತೇ ತಸ್ಮಾಜ್ಜಾತವೇದಾಃ ॥⟧
+(Śat. Brā. 9-5-16-8)
+
+It is said that Agni in the form of the vital breath is called Jātavedas because with his power he pervades all beings that are born. The Upaniṣads describe this Jātavedas, worshipped in the sacrificial house, as Brahman, the soul of the universe.
+
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ |*)
+(Praśna Upaniṣad 1-8)
+
+The Praśna Upaniṣad says that the Sun rises as one of all forms, with a thousand rays, all-knowing, the refuge of all the world, known by the wise, and the inner self of all beings; and—
+
+⟦ಅರಣ್ಯೋರ್ನಿಹಿತೋ ಜಾತವೇದಾ ಗರ್ಭ ಇವ ಸುಭೃತೋ ಗರ್ಭಿಣೀಭಿಃ ।
+ದಿವೇದಿವ ಈಡ್ಯೋ ಜಾಗೃವದ್ಭಿರ್ಹವಿಷ್ಮದ್ಭಿರ್ಮನುಷ್ಯೇಭಿರಗ್ನಿಃ ॥⟧
+(Kaṭha Upaniṣad 1-4-8)
+
+The Kaṭha Upaniṣad describes thus: that Jātavedas who, placed between the *araṇi*s in the sacrifice, enjoys all oblations, whom the yogis meditate on, keeping in their hearts the Supreme Person as pregnant women with affection nourish and rear their embryos, and to whom, the venerable Agni, sacrificers offer oblations, that Jātavedas is the Supreme Brahman, the soul of the universe.
+
+⟦ಅರಣ್ಯೋರ್ನಿಹಿತೋ ಜಾತವೇದಾ ಗರ್ಭ ಇವ ಸುಧಿತೋ ಗರ್ಭಿಣೀಷು ।
+ದಿವೇದಿವ ಈಡ್ಯೋ ಜಾಗೃವದ್ಭಿವರ್ಹವಿಷ್ಮದ್ಭಿರ್ಮನುಷ್ಯೇಭಿರಗ್ನಿಃ ॥⟧
+(Ṛ. Saṃ. 3-29-2)
+
 ---
 
-**Progress note:** Done through printed p. 541 (PDF 541). Sukta 1 (Mandala 3) Rik 18 complete (pp. 539-540); Rik 19 complete (pp. 540-541); Rik 20 Samhita at end of p. 541. Flags: garbled Pada label kept as note; Rik 19 and 20 Samhita and Rik 19 Pada lack closing numbers; 1 accent DIFF
+**Progress note:** Done through printed p. 544 (PDF 544). Sukta 1 (Mandala 3) Rik 20 complete through printed English and Special Topics on janima and Jatavedas with Brihaddevata, Satapatha, Prasna and Katha Upanishad citations (pp. 542-544); Special Topics end with Rik 3-29-2; may continue. Flags: Rik 20 Pada closing number printed as 20; bhashya block ends with stray quote; no Samhita lines
