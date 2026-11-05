@@ -13968,6 +13968,79 @@ Let Indra, the beholder of all, the conqueror of foes, tend us security from all
 
 विचर्षणिः (*vicarṣaṇiḥ*)—the word विचर्षणिः (*vicarṣaṇiḥ*) or विश्वचर्षणिः (*viśvacarṣaṇiḥ*) is read among the eight words denoting the act of seeing, beginning चक्यत् (*cakyat*) and चाकनत् (*cākanat*) (Ni. 3-13); so विचर्षणिः (*vicarṣaṇiḥ*) means one who sees. विशेषेण सर्वस्य द्रष्टा (*viśeṣeṇa sarvasya draṣṭā*)—one who sees everything in particular; this word is used of many deities such as Agni and Indra.
 
+### Printed p. 433
+
+*[Running head, p. 433: Aṣṭaka 2, Adhyāya 8, Varga 9, Ṛgvedasaṃhitā.]*
+
+In this Ṛk, Indra, the conqueror of enemies and the seer of all (that is, of all the doings of the world), is besought to remove and protect us from the fear that may come to us from all quarters.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> विश्वे॑ देवास॒ आ ग॑त शृणु॒ता म॑ इ॒मं हवं॑ ।
+> एदं ब॒र्हिर्नि षी॑दत ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> विश्वे । देवासः । आ । गत । शृणुत । मे । इमं । हवं ।
+> आ । इदं । बर्हिः । नि । सीदत ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे विश्वेदेवा आ गत । इहागच्छत । मे मदीयमिमं हवमाह्वानं शृणुत ।
+> इदं बर्हिरस्मिन्बर्हिष्यानिषीदत । उपविशत ॥
+
+*(Gist: O Viśvedevas, come here, hear my invocation, and sit on this sacred grass.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Viśve devāsaḥ: O Viśvedevas. Ā gata: come. Me: my. Imaṃ havaṃ: this invocation. Śṛṇuta: hear. Idaṃ barhiḥ: on this seat. Ā niṣīdata: sit down.
+
+**भावार्थ (Bhāvārtha)**
+
+O Viśvedevas, hear my invocation and come here. Sit down on this seat.
+
+**Printed English translation**
+
+Universal gods, come hither; hear this my invocation ; sit down upon this sacred grass.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk and the next two Ṛks, three Ṛks in all, are called the Vaiśvadeva *tṛca*; that is, the Viśvedevas are the deity of all these three Ṛks.
+
+*[Stray line in the supplied text: "28", kept as a note in kn.md.]*
+
+### Printed p. 434
+
+*[Running head, p. 434: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+विश्वे देवासः (*viśve devāsaḥ*)—the name of these deities is read among the thirty-one names denoting special deities such as the Aśvins. The commentator has said that they are separate special deities. Some say they are all the deities. But from the matter in other sūktas it can be said clearly that the sages worshipped separate deities called Viśvedevas. On this question Yāska wrote an explanation of this Ṛk:
+
+अवितारो नावनीया वा मनुष्यधृतः सर्वॆ देवा इहागच्छत दत्तवंतो दत्तवतः सुतमिति, तदेतदेकमेव वैश्वदेवं गायत्रं तृचं दशतयीषु विद्यते यत्तु किंचिद्दहुदैवतं तद्वैश्वदेवानां स्थाने युज्यते यदेव विश्वलिंगमिति शाकपूणिः (*avitāro nāvanīyā vā manuṣyadhṛtaḥ sarvè devā ihāgacchata dattavaṃto dattavataḥ sutamiti, tadetadekameva vaiśvadevaṃ gāyatraṃ tṛcaṃ daśatayīṣu vidyate yattu kiṃciddahudaivataṃ tadvaiśvadevānāṃ sthāne yujyate yadeva viśvaliṃgamiti śākapūṇiḥ*) (Ni. 12-40)
+
+As to the meaning of this Ṛk, there is no difference between the meaning we have given and Yāska's. But according to Yāska विश्वेदेवाः (*viśvedevāḥ*) means all the deities, while Yāska himself says that it is the view of one called Śākapūṇi that Viśvedevas means the special deities called by that name; therefore it can be said firmly that there was a difference of opinion on this question even in his time. Speaking now as is customary in domestic and other rites, it appears that these Viśvedevas do not belong to the group of ordinary deities, and that they are a special group of thirteen persons of their own. Be that as it may, it seems proper to say that the Viśvedevas described in the Ṛgveda belong to a separate group of deities.
+
+It is necessary to state here some main points concerning the Viśvedevas. In the Ṛgveda there are 63 sūktas that praise only the Viśvedevas. Besides, in Ṛ. Saṃ. sūkta 1-164 the first 41 Ṛks are addressed to the Viśvedevas. In all of these, except sūkta 10-155, many deities are praised, and trees, rivers, mountains, cows, horses and the like are also dealt with. Besides these, in other sūktas addressed to other deities, in many places a total of 17 Ṛks are addressed to the Viśvedevas. In all these places the Viśvedevas are said to be the deities of these Ṛks. Further, in Ṛ. Saṃ. 10-125-1 the Vasus, Rudras and Ādityas are included along with the Viśvedevas. In Vājasaneya Saṃhitā (Śukla Yajurveda) 2-22, Indra, the Ādityas, the Vasus and the Maruts are besought to join with the Viśvedevas. In the same Saṃhitā, in mantras 33-45 to 47, Indra, Vāyu and other deities are praised together with the Viśvedevas.
+
+In the Atharvaveda, in mantra 20-62-6, the Viśvedevas are indicated in the singular, and there are many sūktas addressed to the Viśvedevas in the Atharvaveda.
+
+### Printed p. 435
+
+*[Running head, p. 435: Aṣṭaka 2, Adhyāya 8, Varga 9, Ṛgvedasaṃhitā.]*
+
+In the Brāhmaṇas, too, the name of the Viśvedevas is mentioned here and there. In Kauṣītaki Brāhmaṇa 4-14 and Gopatha Brāhmaṇa 1-20, all the deities are addressed by the name Viśvedevas. In Śatapatha Brāhmaṇa 3-9-2-6 the Viśvedevas are called the rays of the Sun; in Śat. Brā. 14-2-2-37, the vital airs such as *prāṇa*; in Śat. Brā. 7-1-1-42, sacrificial acts; and in Śat. Brā. 2-4-4-13 [printed with a stray mark before the number], Indra and Agni. In the Taittirīya Āraṇyaka (Tai. Ā. 5-1-6) Indra and Agni are praised together with the Viśvedevas.
+
+In the Purāṇas the Viśvedevas are in some places said to be the lords of the quarters. In the Nirukta (Ni. 12-39) it is said that Viśvedevas means all the deities. Durgācārya, the commentator on the Nirukta, has explained Viśvedevas as the rays of the Sun. Yāska, the author of the Nirukta, states the view that Viśvedevas means all the deities and also indicates the view of Śākapūṇi. Śaunaka, in his work Bṛhaddevatā (Bṛ. De. 2-128 to 134, the verses), says on this subject that Yāska and Śāṇḍilya hold that विश्वेदेवाः (*viśvedevāḥ*) means all the deities; Śaunaka's view is likewise. Sāyaṇācārya, in commenting on this Ṛk, has expressed his opinion that thirty-one deities, such as the Aśvins, together are called the Viśvedevas.
+
+Among Western scholars, Langlois, Kaegi and Hopkins hold that Viśvedevas means all the deities [the supplied text has "ಸಮಸ" for "ಸಮಸ್ತ" here, as supplied], and Wilson, Griffith and Macdonell accept both senses, "all the deities" or "a separate group of deities called Viśvedevas".
+
+The main intent is: in former times, that is, in very ancient times, the meaning "all the deities" was current for Viśvedevas, and in the course of time the idea that Viśvedevas are a group of separate deities of that name came into use. In many Brāhmaṇas and Purāṇas the Viśvedevas are indicated as a separate group of deities. But that there was a difference of opinion on this matter even in Yāska's time is known from Yāska's Nirukta itself.
+
+*[Stray line in the supplied text: "Pages: 450/450", kept as a note in kn.md.]*
+
+बर्हिः (*barhiḥ*)—परिबर्हणात्, परिच्छेदनात् (*paribarhaṇāt, paricchedanāt*)—the *darbha* grasses are cut to one equal measure and spread soft on the sacrificial altar. Upon this, in order that the deities come and sit—
+
 ---
 
-**Progress note:** Done through printed p. 432 (PDF 432). Sukta 41 Rik 10 Special Topics finished (p. 430); Rik 11 complete (pp. 430-431); Rik 12 complete (p. 432). Flags: none beyond supplied spellings (nasthanna/ṣaṣṭhyabhāvaḥ, aḍ hrasvatvam as supplied)
+**Progress note:** Done through printed p. 435 (PDF 435). Sukta 41 Rik 12 Special Topics finished (p. 433); Rik 13 complete with long Visvedevas note (pp. 433-435); Rik 13 Special Topics on barhih breaks off mid-sentence at end of p. 435 (last page of first source file). Flags: stray lines 28 and Pages: 450/450 kept as notes; Western names in Latin letters as supplied; samasa truncated; 1 accent DIFF
