@@ -11,3 +11,4 @@ pp. 399-401 | sonnet | tool_uses 28 | subagent_tokens 119694 | 4.2 min (rerun af
 pp. 402-404 | sonnet | tool_uses 22 | subagent_tokens 109201 | 2.8 min
 pp. 405-407 | sonnet | tool_uses 18 | subagent_tokens 109018 | 1.9 min
 pp. 408-410 | sonnet | tokens n/a | ~3 min
+| 767-769 | sonnet | 6 tool uses | 90944 tokens | ~1 min |
