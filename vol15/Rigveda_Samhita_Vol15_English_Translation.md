@@ -13868,6 +13868,106 @@ Since Indra is immovable and all-knowing, may he destroy the fear that is exceed
 
 May Indra dissipate all great and overpowering danger, for he is resolute, and the beholder of all.
 
+### Printed p. 430
+
+*[Running head, p. 430: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk and in the next two Ṛks Indra is besought to remove and protect us from the fear that may arise from enemies.
+
+अंग (*aṃga*)—for the word अंग (*aṃga*) Yāska has given the etymology अंगमंगनादंचनाद्वा । (*aṃgamaṃganādaṃcanādvā |*) (Ni. 4-3). Durgācārya explains the meaning: ⟦ಅಂಗನಾತ್ ಅಂಗಿತಂ ತತ್ಕಾಲೇನ ಭವತಿ ಗತಮಿತ್ಯರ್ಥಃ । ಅಂಚ
+ನಾದ್ವಾ । ಅಂಚತಿರಪಿ ಗತ್ಯರ್ಥ ಏವ ಧಾತ್ವನ್ಯತ್ವಮರ್ಥೈಕತ್ವಂ ।⟧ The word अंग (*aṃga*), denoting the sense of motion, is formed either from अंगनात् (*aṃganāt*) or from अंचनात् (*aṃcanāt*). Though the two roots are separate, the meaning is one. Therefore in the present Ṛk the word अंग (*aṃga*), as an epithet of the word भयं (*bhayaṃ*), conveys the sense "that has reached us", that is, "that envelops us".
+
+सः हि स्थिरः विचर्षणिः (*saḥ hi sthiraḥ vicarṣaṇiḥ*)—सः इंद्रः केनापि चालयितुमशक्यः विश्वस्य द्रष्टा। (*saḥ iṃdraḥ kenāpi cālayitumaśakyaḥ viśvasya draṣṭā|*) In the first half of this Ṛk the prayer is made that the great fear enveloping us be removed. Whether Indra has the strength and power for removing fear is stated in the second half of the Ṛk. Indra's power is immeasurable, for he is firm; no one can make him move. Besides, he sees and knows everything. Indra has the power to hear and understand our prayer and the power to fulfil it. Therefore it is said that Indra is सर्वस्य द्रष्टा (*sarvasya draṣṭā*), the seer of all, all-knowing.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> इंद्र॑श्च मृ॒ळया॑ति नो॒ न नः॑ प॒श्चाद॒घं न॑शत् ।
+> भ॒द्रं भ॑वाति नः पु॒रः ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> इंद्रः । च । मृळयाति । नः । न । नः । पश्चात् । अघं । नशत् ।
+> भद्रं । भवाति । नः । पुरः ॥ ११ ॥
+
+> *iṃdraḥ | ca | mṛḷayāti | naḥ | na | naḥ | paścāt | aghaṃ | naśat |*
+> *bhadraṃ | bhavāti | naḥ | puraḥ ‖ 11 ‖*
+
+### Printed p. 431
+
+*[Running head, p. 431: Aṣṭaka 2, Adhyāya 8, Varga 9, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> इंद्रश्च परमैश्वर्यवानिंद्रश्चेत् नोऽस्मान् मृळयाति सुखयेत् । पश्चात्
+> पृष्ठतो नोऽस्मानघं दुरितं न नशत् । प्राप्नोति । नोऽस्माकं पुरः पुरस्ताद्भद्रं
+> कल्याणं च भवाति । भवति ॥
+
+*(Gist: if Indra, possessed of supreme lordship, gladdens us, evil will not reach us from behind and good will come to us from before.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indraḥ ca: if Indra. Naḥ: us. Mṛḷayāti: makes happy. Paścāt: from behind. Naḥ: us. Aghaṃ: sin. Na naśat: will not approach. Naḥ: our. Puraḥ: from before. Bhadraṃ: welfare. Bhavāti: will come and join.
+
+**भावार्थ (Bhāvārtha)**
+
+If Indra makes us happy, sin will not approach us from behind, and welfare will come to us from before.
+
+**Printed English translation**
+
+If Indra provide for our happiness, evil will not come behind us, good will be before us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is quite clear. The main intent is: if Indra, endowed with all lordship, causes us happiness, the sins and misdeeds we have committed so far will all be destroyed and only happiness will come to us in future.
+
+इंद्रः (*iṃdraḥ*)—the derivation of the word इंद्र (*iṃdra*), its various meanings and its etymology we have explained earlier.
+
+अघं (*aghaṃ*)—आज् पूर्वात् हंतेः अन्येष्टपि दृश्यते इति डः । पृषोदरादित्वात् आज् ह्रस्वत्वं हकारस्य घत्वं चॆ । (*āj pūrvāt haṃteḥ anyeṣṭapi dṛśyate iti ḍaḥ | pṛṣodarāditvāt āj hrasvatvaṃ hakārasya ghatvaṃ cè |*) Formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*) with the prefix आज् (*āj*), this word means to kill or to afflict. Therefore the word अघ (*agha*) means sin, evil, which causes affliction.
+
+### Printed p. 432
+
+*[Running head, p. 432: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 41.]*
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> इंद्र॒ आशा॑भ्य॒स्परि॒ सर्वा॑भ्यो॒ अभ॑यं करत् ।
+> जेता॒ शत्रू॒न्विच॑र्षणिः ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> इंद्रः । आशाभ्यः । परि । सर्वाभ्यः । अभयं । करत् ।
+> जेता । शत्रून् । विचर्षणिः ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> विचर्षणिर्विविधं द्रष्टा जेता शत्रूनसुरान् जेता ॥ तृनंतत्वात् षष्ठ्यभावः ॥
+> इंद्रः परमैश्वर्यवान् सर्वाभ्य आशाभ्यो दिग्भोSस्माकमभयं करत् । करोतु ॥
+> परीति पंचमीद्योतकः ॥
+
+*(Gist: Indra, the all-seeing conqueror of enemies, is to make us fearless from all quarters.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vicarṣaṇiḥ: the all-knowing. Śatrūn jetā: conqueror of enemies. Indraḥ: Indra. Sarvābhyaḥ: from all. Āśābhyaḥ pari: quarters. Abhayaṃ: freedom from fear. Karat: may he bring about.
+
+**भावार्थ (Bhāvārtha)**
+
+May Indra, the all-knowing conqueror of enemies, bring about freedom from fear from all quarters.
+
+**Printed English translation**
+
+Let Indra, the beholder of all, the conqueror of foes, tend us security from all quarters.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+विचर्षणिः (*vicarṣaṇiḥ*)—the word विचर्षणिः (*vicarṣaṇiḥ*) or विश्वचर्षणिः (*viśvacarṣaṇiḥ*) is read among the eight words denoting the act of seeing, beginning चक्यत् (*cakyat*) and चाकनत् (*cākanat*) (Ni. 3-13); so विचर्षणिः (*vicarṣaṇiḥ*) means one who sees. विशेषेण सर्वस्य द्रष्टा (*viśeṣeṇa sarvasya draṣṭā*)—one who sees everything in particular; this word is used of many deities such as Agni and Indra.
+
 ---
 
-**Progress note:** Done through printed p. 429 (PDF 429). Sukta 41 Rik 9 Special Topics finished (pp. 427-429); Rik 10 through printed English (p. 429), Special Topics to follow. Flags: Rik refs printed 1-8-94 and Ma. Sam. as supplied; garbled Pratipadartha label kept as note
+**Progress note:** Done through printed p. 432 (PDF 432). Sukta 41 Rik 10 Special Topics finished (p. 430); Rik 11 complete (pp. 430-431); Rik 12 complete (p. 432). Flags: none beyond supplied spellings (nasthanna/ṣaṣṭhyabhāvaḥ, aḍ hrasvatvam as supplied)
