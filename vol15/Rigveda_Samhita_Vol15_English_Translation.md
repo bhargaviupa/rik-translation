@@ -7074,6 +7074,86 @@ O Maruts, who wear a golden-coloured ornament on the breast, when Rudra, capable
 
 Since, golden-breasted Maruts, the vigorous (Rudra) begot you of the pure womb of Prishni, therefore they, the devourers (of their enemies), are conspicuous (by their ornaments), as the heavens are by the constellatoins [sic] ; and, senders of rain, they are brilliant as the cloud-born (lightning).
 
+### Printed p. 230
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 34, p. 230.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+स्त्वभिः द्यावो न चितयंत (*stvabhiḥ dyāvo na citayaṃta*)—"As the heavens make themselves known by the stars": just as the luminous worlds make themselves shine, so the Maruts, खादिनः (*khādinaḥ*) (devourers of their enemies), are known by their own ornaments. Or खादः (*khādaḥ*) is a bracelet (कटकं (*kaṭakaṃ*)), and, possessed of it, they shine. Yāska (नि. ३-२० (*ni. 3-20*)) has read स्त्वभिः (*stvabhiḥ*) among the twenty-six names beginning with the two-word group उत्तराणि नामानि (*uttarāṇi nāmāni*), and explains: ऋक्षाः स्त्वभिरिति नक्षत्राणां (*ṛkṣāḥ stvabhiriti nakṣatrāṇāṃ*) (these are names of the stars) and स्त्वभिस्तीर्णानीव ख्यायंते (*stvabhistīrṇānīva khyāyaṃte*) (they appear as if strewn). Sāyaṇa has thus given two kinds of meaning: as the worlds, beginning with the atmosphere, that shine with light reveal their own form by the stars, so the Maruts, the destroyers of enemies, are known by their ornaments; or खाद (*khāda*) means the ornament called a bracelet worn on the hand, and the Maruts shine with the bracelets they wear on their hands.
+
+वृष्टयः अभ्रिया न विद्योतयंत (*vṛṣṭayaḥ abhriyā na vidyotayaṃta*)—The rain-giving Maruts light up the whole world like the lightning born in the clouds. The Marut deities who pour down rain-water make all the worlds full of light, as the lightnings born in the clouds illuminate the world. In both these sentences न (*na*) is used as a particle of comparison.
+
+वृषा रुद्रः पृश्नाः शुक्रे ऊधनि वः अजनयत् (*vṛṣā rudraḥ pṛśnāḥ śukre ūdhani vaḥ ajanayat*)—Mahādeva, capable of sprinkling (seed), begot (you) in the pure, raised region (उद्धतप्रदेशे (*uddhatapradeśe*)) of Pṛśni, the Mādhyamikā Vāk (the speech of the middle region). Yāska has read the word पृश्निः (*pṛśniḥ*) among the common names (सि. २-१३ (*si. 2-13*) as supplied). One kind of meaning has been set forth thus: Mahādeva, who is able to sprinkle, placed his seed in the pure womb of the goddess Pṛśni, who has the form of the Mādhyamikā Vāk, and so produced the Marut deities. Secondly, यदा पृश्निर्नानावर्णेयं भूमिः पुरा गोरूपधरा आसीत् । तस्यां महेशः वृषो भूत्वा मरुतः उत्पादयामासेत्याचक्षते । तदत्रोच्यते (*yadā pṛśnirnānāvarṇeyaṃ bhūmiḥ purā gorūpadharā āsīt | tasyāṃ maheśaḥ vṛṣo bhūtvā marutaḥ utpādayāmāsetyācakṣate | tadatrocyate*): this earth of many colours, in former times, when she had taken the form of a cow, Maheśvara took the form of a bull and produced the Maruts; so they say, and this legend is told by this sentence. Sāyaṇa explains this view, and, because the origin of the Maruts is of this kind, describes the Maruts as रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*) (रुक्मं रोचमानाभरणं येषां ते (*rukmaṃ rocamānābharaṇaṃ yeṣāṃ te*): those who have a shining ornament), adorned with shining ornaments; as stars make the atmosphere shine, so they make the whole world shine with their ornaments; and, being born of Mahādeva, they are possessed of abundant greatness.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+### Printed p. 231
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 19, p. 231.*
+
+> उ॒क्षंते॒ अश्वा॒ अत्या॑ इवा॒ जिषु॑ न॒दस्य॒ कर्णै॑स्तुरयंत आ॒शुभिः॑ ।
+> हिर॑ण्यशिप्रा मरुतो॒ दवि॑ध्वतः पृ॒क्षं या॑थ॒ पृष॑तीभिः समन्यवः ॥
+
+**॥ पदपाठः ॥**
+
+> उक्षंते अश्वान् । अत्यान् इव । आजिषु । नदस्य । कर्णैः । तुरयंते । आशुभिः ।
+> हिरण्यशिप्राः । मरुतः । दविध्वतः । पृक्षं । याथ । पृषतीभिः । समन्यवः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> मरुतोऽश्वान् व्याप्तान् लोकानुक्षंते । सिंचंति । अशू व्याप्त् । औणादिकः
+> क्वन्त्रत्रयः । आजिसु संग्रामेष्वत्यानिव सततगामिनस्तुरगान् यथा स्वेदापनोदा-
+> योदकैः सिंचंति तद्वत् । अपि च ते मरुत आशुभिः शीघ्रगमनैरश्वर्नदस्य शब्दवतो
+> मेघस्य कर्णैः कृतैर्मध्यप्रदेशैस्तुरयंते । वर्षाणार्थं वृष्टुत्पादनाय त्वरितं
+> गच्छंति ॥ तुर त्वरणे ॥ शेषः प्रत्यक्षकृतः । हे हिरण्यशिप्राः । शिप्रं शिरस्त्राणं ।
+> सुवर्णमयशिरस्त्राणाः समन्यवः समानमनस्काः समानक्रोधा वा हे मरुतो
+> दविध्वतो महीरुहादिकं कंपयंतो यूयं ॥ धूञ् कंपन इत्यस्माद्वाध-
+> र्त्यादावेतद्रूपं निपात्यते ॥ पृषतीभिर्युष्मद्रथे योजिताभिः श्वेतबिंद्वंकिताभि-
+> र्मृगीभिर्वडवाभिर्वा वृक्षं । अन्ननामैतत् । हविर्लक्षणान्नवंतं यजमानं ॥
+> अर्श आदित्वादच् ॥ याथ । गच्छत ॥
+
+> *maruto 'śvān vyāptān lokānukṣaṃte | siṃcaṃti | aśū vyāpt | auṇādikaḥ*
+> *kvantratrayaḥ | ājisu saṃgrāmeṣvatyāniva satatagāminasturagān yathā svedāpanodā-*
+> *yodakaiḥ siṃcaṃti tadvat | api ca te maruta āśubhiḥ śīghragamanairaśvarnadasya śabdavato*
+> *meghasya karṇaiḥ kṛtairmadhyapradeśaisturayaṃte | varṣāṇārthaṃ vṛṣṭutpādanāya tvaritaṃ*
+> *gacchaṃti ‖ tura tvaraṇe ‖ śeṣaḥ pratyakṣakṛtaḥ | he hiraṇyaśiprāḥ | śipraṃ śirastrāṇaṃ |*
+> *suvarṇamayaśirastrāṇāḥ samanyavaḥ samānamanaskāḥ samānakrodhā vā he maruto*
+> *davidhvato mahīruhādikaṃ kaṃpayaṃto yūyaṃ ‖ dhūñ kaṃpana ityasmādvādha-*
+> *rtyādāvetadrūpaṃ nipātyate ‖ pṛṣatībhiryuṣmadrathe yojitābhiḥ śvetabiṃdvaṃkitābhi-*
+> *rmṛgībhirvaḍavābhirvā vṛkṣaṃ | annanāmaitat | havirlakṣaṇānnavaṃtaṃ yajamānaṃ ‖*
+> *arśa āditvādac ‖ yātha | gacchata ‖*
+
+Gist: the Maruts sprinkle the pervaded worlds as men sprinkle horses in battle; they rush in the middle regions of the sounding cloud; golden-helmeted and like-minded, they shake the trees and come with their spotted mares to the sacrificer's food.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आजिषु (*ājiṣu*)—in battles; अत्यानिव (*atyāniva*)—as (to remove fatigue) water is poured over horses; (मरुतः (*marutaḥ*)—the Maruts) अश्वान् (*aśvān*)—all the pervaded worlds; उक्षंते (*ukṣaṃte*)—drench with water; (the same Maruts) आशुभिः (*āśubhiḥ*)—with swift horses; नदस्य (*nadasya*)—of the sounding clouds; कर्णैः (*karṇaiḥ*)—through the paths made (in the middle regions); तुरयंते (*turayaṃte*)—rush swiftly (to produce rain); हिरणशिप्राः (*hiraṇaśiprāḥ*) (as supplied; the Saṃhitā has हिरण्यशिप्रा (*hiraṇyaśiprā*))—O you who have helmets made of gold; समन्यवः (*samanyavaḥ*)—and of equal mind; मरुतः (*marutaḥ*)—O Maruts; दविध्वतः (*davidhvataḥ*)—you who make trees and the like tremble; पृषतीभिः (*pṛṣatībhiḥ*)—with horses coloured with spots; 
+
+### Printed p. 232
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 34, p. 232.*
+
+प्रक्षं (*prakṣaṃ*) (as supplied; the Saṃhitā has पृक्षं (*pṛkṣaṃ*))—towards the sacrificer who is provided with food in the form of the oblation; याथ (*yātha*)—come.
+
+**भावार्थ (Bhāvārtha)**
+
+As water is poured over horses in battles to remove their fatigue, the Maruts drench all the worlds with water. The same Maruts, with swift horses, make paths in the middle region of the sounding clouds and rush swiftly to produce rain. O Maruts, with helmets made of gold and of equal mind, you who make trees and the like tremble, come with your horses coloured with spots towards the sacrificer who is provided with food in the form of the oblation.
+
+**Printed English translation**
+
+They sprinkle the wide-extended (lands) with water, as (men sprinkle) horses (when heated) in battles; and they rush along with swift (horses) on the skirts of the sounding (cloud): Maruts, golden-helmed, and of one mind, agitating (the trees), come with your spotted deer to (receive the sacrificial) food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अश्वान् अजिषु अत्यानिव सिंचंति (*aśvān ajiṣu atyāniva siṃcaṃti*) (as supplied)—The Maruts sprinkle the pervaded worlds in battles, as horses that move constantly are sprinkled with water to remove their sweat. Yāska has read the two words अश्व (*aśva*) and अत्य (*atya*) among the names of the horse (नि. २-२७ (*ni. 2-27*)). Sāyaṇa gives अश्व (*aśva*) the meaning "that which pervades", and explains that the Marut deities sprinkle the pervaded worlds with rain-water, the illustration being stated as: as horses that move constantly in battles are sprinkled with water to remove their sweat, and so relieved of fatigue.
+
+आशुभिः नदस्य कर्णैः तुरयंते (*āśubhiḥ nadasya karṇaiḥ turayaṃte*)—Those Maruts, with swift-going horses, go quickly through the middle regions of the sounding cloud to produce rain. It is explained thus: in the middle of the clouds that are filled with water and sound, the Maruts, making the middle regions of the clouds into swiftly moving horses, move rapidly so that the waters in the cloud may pour down on the earth as rain.
+
+हिरण्यशिप्रा: (*hiraṇyaśiprā:*)—सुवर्णमयशिरस्त्राणाः । शिप्रं शिरस्त्राणं (*suvarṇamayaśirastrāṇāḥ | śipraṃ śirastrāṇaṃ*): the Marut deities wear a head-ornament (helmet) made of gold; समन्यवः (*samanyavaḥ*)—समासमनस्काः समानक्षोडवा (*samāsamanaskāḥ samānakṣoḍavā*) (as supplied; the text of this window breaks off here, the sentence continues in the next window)
+
 ---
 
-**Progress note:** Done through printed p. 229 (PDF 229). Sūkta 34 Ṛk 1 Special Topics finished; Ṛk 2 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English). kn.md hand-fixed (verse quotes and Ṛk 2 Saṃhitā/Pada into blocks, garbled labels and stray numeral line removed). As supplied: Pada ಸ್ತ್ರೃಭಿಃ/ರುಕ್ಷ್ಮ/ಪೃಶ್ನಾಃ/ಶುಕ್ರೆ vs Saṃhitā; Bhāvārtha ಹೃದಯ vs Pratipadārtha ಉದರ; ಪು. ಸಂ for ಋ. ಸಂ.; ಪ್ರಕಾಶಪಶಸಿಕೊಳ್ಳು; 'constellatoins' [sic]
+**Progress note:** Done through printed p. 232 (PDF 232). Sūkta 34 Ṛk 2 Special Topics (p. 230) and Ṛk 3 through its Special Topics, which break off mid-sentence at ಸಮಾನಕ್ಷೋಡವಾ (⟦ಸಮನ್ಯವಃ⟧ entry; window ends). As supplied: ಸಿ. ೨-೧೩ for Nir., ಹಿರಣಶಿಪ್ರಾಃ/ಪ್ರಕ್ಷಂ vs Saṃhitā, ಅಶ್ವರ್ನದಸ್ಯ, ತುರರ್ಗಾ.
