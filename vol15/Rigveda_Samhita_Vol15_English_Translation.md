@@ -15870,6 +15870,98 @@ in places such as this it means sacrificers who have अद्रि (*adri*), t
 > *prāṃcaṃ yajñaṃ cakrama vardhatāṃ gīḥ samiddhiragniṃ namasā duvasyan |*
 > *divaḥ śaśāsurvidathā kavīnāṃ gṛtsāya cittavase gātumīṣuḥ ‖ 2 ‖*
 
+### Printed p. 501
+
+*[Running head, p. 501: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+*[The supplied text has before the Pada a garbled label "೧ ಪದಪಾರಃ ೧" (for Pada-pāṭha), kept as a note in kn.md.]*
+
+**॥ पदपाठः ॥**
+
+> प्रांचं । यज्ञं । चक्रम । वर्धतां । गीः । समित्भिः । अग्निं । नमसा । दुवस्यन् ।
+> दिवः । शशासुः । विदथा । कवीनां । गृत्साय । चित् । तवसे । गातुं । ईषुः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने वयं यज्ञं प्रांचं प्रकर्षेण गच्छंतं चक्रम । अकार्ष्म ।
+> गीर्मदीया स्तुतिर्वर्धतां । विधतां । अग्निं समिद्धिर्नमसा हविषा च दुवस्यन् ।
+> अस्मदीयाः परिचरेयुः । किंच दिवो द्युलोकादागत्य देवाः कवीनां स्तोतृणां
+> विदथा ज्ञानानि स्तोत्राणि ना शशासुः । अन्वशिषन् । अपि च गृत्साय । गृणातेरिदं
+> रूपं । स्तोतव्यायाग्नये तवसे वृद्धाय गातुं स्तोतुमीषुश्चित् । स्तोतार
+> इच्छंति च । चिदिति चार्थे ॥
+
+*(Gist: O Agni, we have made the sacrifice go forward; may my praise increase; may they serve Agni with fuel and offering; the gods coming from heaven have taught the seers' praises; the praisers wish to praise the mighty Agni.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Agne: O Agni.) Yajñaṃ: the sacrifice (we). Prāñcaṃ: so that it succeeds. Cakrama: have performed. Agniṃ: Agni. Samiddhiḥ: with fuel. Namasā: with oblations. Duvasyan: serving. Gīḥ: my words of praise. Vardhatāṃ: let them increase. Divaḥ: from the world of the gods (the gods who came). Kavīnāṃ: of the praisers. Vidathā: the knowledge. Śaśāsuḥ: sought, desiring. Gṛtsāya: the worthy of praise and powerful. Tavase: to Agni. Gātuṃ: to offer praise. Īṣuścit: desired.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, we have performed the sacrifice so that it succeeds. May my words of praise, serving Agni with fuel and oblations, increase you. The gods who came from the world of the gods sought, desiring it, the knowledge of praise of the praisers. They desired to offer praise to Agni, who is worthy of praise and powerful.
+
+**Printed English translation**
+
+We have performed, Agni, a successful sacrifice : may my praise magnify (you) as worshipping you with fuel and with reverence; (the goods) from heaven desire the adoration of the pious, who are anxious to praise the adorable and mighty (Agni).
+
+### Printed p. 502
+
+*[Running head, p. 502: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. [as printed] 1, Sū. 1.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यज्ञं प्रांचं चक्रम—हे अग्ने वयं यज्ञं प्रकर्षेण गच्छंतं अकार्ष्म। (*yajñaṃ prāṃcaṃ cakrama—he agne vayaṃ yajñaṃ prakarṣeṇa gacchaṃtaṃ akārṣma|*) O Agni, now we have made the sacrifice go on well, that is, performed it successfully. Here the commentator explains the word प्रांचं (*prāṃcaṃ*) as प्रकर्षेण गच्छंतं (*prakarṣeṇa gacchaṃtaṃ*), going in an excellent way. Yāska has explained the word प्राचीं (*prācīṃ*) as प्रवृद्धां (*pravṛddhāṃ*), going on increasing (Ni. 11-11).
+
+गीः वर्धतां—मदीया स्तुतिः विधतां । (*gīḥ vardhatāṃ—madīyā stutiḥ vidhatāṃ |*) The seer's wish is expressed that the speech in the form of praise that I am offering, praising Agni's qualities, should prosper.
+
+⟦ಅಗ್ನಿಂ ಸಮಿದ್ಧಿಃ ನಮಸಾ ದುವಸ್ಯನ್—ಅಗ್ನಿಂ ನಮಸಾ ಹವಿಷಾ ಚ ಅಸ್ಮದೀಯಾಃ
+ಪರಿಚರೇಯುಃ ।⟧ May our priests attend, that is serve, Agni with salutations or with oblations and fuel. That is, when Agni is blazing in the sacrifice the priests offer fuel and oblation into Agni with mantras and make the offering; thereby Agni is served: this is the intent expressed here.
+
+समिद्धिः— (*samiddhiḥ—*) the word समित् (*samit*), formed from the root इञ्ञेइंधी दीप्तौ (*iññeiṃdhī dīptau*) [as supplied], means burning brightly. For Agni to blaze well, wood and the like must be put in. The wood so put in is called समित् (*samit*). In sacrifices and the like, the tip portions of the branches of certain particular trees such as the aśvattha, palāśa and khādira, cut when dry to a length of about four finger-breadths, are used for offering into the fire, only those having the tip. It is customary to call such wood समित् (*samit*). In the present Ṛk it is said that we serve Agni with such fuel.
+
+नमसा— (*namasā—*) the word नमः (*namaḥ*) is read among the names of food (Ni. 3-9). The word नमः (*namaḥ*), formed from the root णमु प्रह्वत्वे (*ṇamu prahvatve*), also means salutation and praise. Here for the word नमसा (*namasā*) two kinds of meaning may be given: with the oblation that is food, or with salutation or praise.
+
+दुवस्यन्— (*duvasyan—*) since the word दुवस्यति (*duvasyati*) is read among the words denoting the act of serving (Ni. 3-13), दुवस्यन् (*duvasyan*) means they serve.
+
+⟦ದಿವಃ ಕವೀನಾಂ ವಿದಥಾ ಶಶಾಸುಃ—ದ್ಯುಲೋಕಾದಾಗತ್ಯ ದೇವಾಃ ಸ್ತೋತೃಣಾಂ ಜ್ಞಾನಾನಿ
+ಸ್ತೋತ್ರಾಣಿ ವಾ ಅನ್ವಶಿಷ್ಯನ್ । ಇಲ್ಲಿ ದಿವಃ ಎಂಬ ಶಬ್ದಮಾತ್ರವಿರುವುದರಿಂದ ದೇವಾಃ ಎಂಬ ಶಬ್ದವನ್ನು
+
+<!-- printed 503 -->
+*[ಅ. ೨. ಅ. ೮. ವ. ೧೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 503]*
+
+ಅಧ್ಯಾಹಾರಮಾಡಿಕೊಳ್ಳಬೇಕು.⟧ [the supplied text breaks across the page here, in the middle of the sentence] Hence
+
+### Printed p. 503
+
+*[Running head, p. 503: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+the word देवाः (*devāḥ*) must be supplied. The gods came from the world of the gods and sought out the knowledge of those who praise them, or what the nature of the praises is. Although the word विदथ (*vidatha*) has many meanings such as sacrifice, here the commentator gives the sense knowledge or praise. Yāska has said विदथानि वेदनानि (*vidathāni vedanāni*) (Ni. 6-8). Durgācārya explains this word as विज्ञानानि (*vijñānāni*). We have explained the derivation and a detailed account of the word विदथ (*vidatha*) in Ṛ. Saṃ. Part 13, page 13. Although the word कवि (*kavi*) is read among the names of the wise (Ni. 3-19), the commentator gives here the meaning "praiser".
+
+⟦ಗೃತ್ಸಾಯ ತವಸೇ ಗಾತುಂ ಈಷುಃ ಚಿತ್—ಸ್ತೋತವ್ಯಾಯಾಗ್ನಯೇ ವೃದ್ಧಾಯ ಸ್ತೋತುಂ
+ಸ್ತೋತಾರ ಇಚ್ಛಂತಿ ಚ ।⟧ Those gods wished to offer praise to Agni, who is worthy of praise and powerful. Since the word तवः (*tavaḥ*) is read among the names of strength (Ni. 3-9), तवसे (*tavase*) means to Agni who has strength.
+
+चित्— (*cit—*) Yāska says that the particle चित् (*cit*) is चिदित्येषोऽनेककर्मा (*cidityeṣo 'nekakarmā*), that the word चित् (*cit*) is used in many kinds of senses, and in support of it—
+
+⟦ಆಚಾರ್ಯಶ್ಚಿದಿದಂ ಬ್ರೂಯಾದಿತಿ ಪೂಜಾಯಾಂ । ದಧಿ ಚಿದಿತ್ಯುಪಮಾರ್ಥೇ । ಕುಲ್ಮಾ-
+ಷಾಂಶ್ಚಿದಾಹರೇತ್ಯವಕುತ್ಸಿತೇ ।⟧ (Ni. 1-4)
+
+—he explains by examples that in the sentence आचार्यश्चित् (*ācāryaścit*) the word चित् (*cit*) is used in the sense of respect, in the sentence दधिचित् (*dadhicit*) in the sense of comparison, and in कुल्माषांश्चित् (*kulmāṣāṃścit*) in a contemptuous sense. In the present Ṛk Sāyaṇa says चिदिति चार्थे (*ciditi cārthe*): the word चित् (*cit*) is used in the sense "and".
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> मयो॑ दधे॒ मेधि॑रः पू॒तद॑क्षो दि॒वः सु॒बंधु॑र्ज॒नुषा॑ पृथि॒व्याः ।
+> अविं॑दन्नु दर्श॒तम॒प्स१॒॑न्नर्दे॒वासो॑ अ॒ग्निम॒पसि॒ स्वसृ॑णां ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> मयः । दधे । मेधिरः । पूतदक्षः । दिवः । सुबंधुः । जनुषा । पृथिव्याः ।
+> अविंदन् । ऊं इति । दर्शतं । अपसु । अंतः । देवासः । अग्निं । अपसि । स्वस्यणां॥
+
+> *mayaḥ | dadhe | medhiraḥ | pūtadakṣaḥ | divaḥ | subaṃdhuḥ | januṣā | pṛthivyāḥ |*
+> *aviṃdan | ūṃ iti | darśataṃ | apasu | aṃtaḥ | devāsaḥ | agniṃ | apasi | svasyaṇāṃ‖*
+
 ---
 
-**Progress note:** Done through printed p. 500 (PDF 500). Sukta 1 (Mandala 3) Rik 1 Special Topics finished (pp. 498-500): word notes on vidatha, vahni, accha, adri (many Rik citations), shamaye; Rik 2 Samhita placed at end of p. 500. Flags: Ma. Sam. for Ri. Sam. in several citations; 1 accent DIFF; all inline quotes script-copied
+**Progress note:** Done through printed p. 503 (PDF 503). Sukta 1 (Mandala 3) Rik 2 complete (pp. 501-503); Rik 3 Samhita and Pada at end of p. 503. Flags: garbled Pada label kept as note; Pada of Rik 3 lacks closing number; p. 502 head A. printed; 1 accent DIFF
