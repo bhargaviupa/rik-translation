@@ -26481,4 +26481,98 @@ In the sacrifice, when through carelessness deficiency or deviation arises in th
 
 ---
 
-**Progress note:** Done through printed p. 692 (PDF 715). Sūkta 13, Ṛk 3 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu all end on p. 692). Ṛk 4 is OPEN: only the Saṃhitā is written (number "4" printed); the Pada, bhāṣya and the rest continue on p. 693. No grammar pages. No FILE DISAGREE (file row "3-1" for the Nirukta reference agrees). Unzoomed numerals: headers of pp. 690–692 (numeral file has no rows for them). [?] places: bhāṣya tail "क्षमायामिष्यते" (p. 690); Saṃhitā word "असिन्वन्दंष्ट्र्यः" of Ṛk 4 (p. 692); "एकोऽध्वर्युर्रूपा" kept as printed.
+### Printed p. 693 (PDF 716)
+
+*(Header: "A. 2 A. 6 V. 10 ]", "Ṛgvedasaṃhitā", "693" [numerals unzoomed; the numeral file has no row for this page]. Continuation of Ṛk 4, whose Saṃhitā stands on p. 692. In the Pada the word-division is read as printed; a compound mark is printed in प्रऽजाभ्यः, विऽभजन्तः, रयिंऽइव, प्रऽभवन्तं and, apparently, आऽयते. No danda is printed between प्रभवन्तं and आयते, only a space. The ending of the word दंष्ट्र्यैः is read from the bhāṣya and Pratipadārtha, which have दंष्ट्र्यैः, "with the teeth"; in the Pada line the ending mark is not certain [?]. The Saṃhitā of this Ṛk, as written on p. 692, has the word as "असिन्वन्दंष्ट्र्यः [?]", and the Pada now shows the division असिन्वन् । दंष्ट्र्यैः.)*
+
+**॥ पदपाठः ॥**
+
+> प्रऽजाभ्यः । पुष्टिं । विऽभजन्तः । आसते । रयिंऽइव । पृष्ठं । प्रऽभवन्तं आऽयते ।
+> असिन्वन् । दंष्ट्र्यैः । पितुः । अत्ति । भोजनं । यः । ता । अकृणोः । प्रथमं । सः ।
+> असि । उक्थ्यः ॥ ४ ॥
+
+> *pra 'jābhyaḥ | puṣṭiṃ | vi 'bhajantaḥ | āsate | rayiṃ 'iva | pṛṣṭhaṃ | pra 'bhavantaṃ ā 'yate |*
+> *asinvan | daṃṣṭryaiḥ | pituḥ | atti | bhojanaṃ | yaḥ | tā | akṛṇoḥ | prathamaṃ | saḥ |*
+> *asi | ukthyaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Householders divide the wealth given by Indra among their dependents, as one gives to a guest. The world, or Agni, eats the food from the protecting sky with teeth (or with flames); Indra, who has done all this, is praised.*
+
+> हे इन्द्र पुष्टिं त्वयो दत्तं पोषकं धनं स्वकीयाभ्यः प्रजाभ्यो विभजन्तोऽस्यैतावदस्यैतावदिति विभागं कुर्वन्तो गृहमेधिन आसते । स्वस्वगृहेषु निवसन्ति । तत्र दृष्टान्तः । आयते गृहं प्रत्यागच्छतेऽतिथये पृष्ठं धारकं प्रभवन्तं बहुभरणसमर्थं रयिं धनं यथा विभज्य प्रयच्छन्ति तद्वत् । असिन्वन् सेतुबन्धादिकं कर्म कुर्वन् लोकः पितुः पालयित्र्या दिवः सकाशादागतं भोजनमुदकं तत्कार्या ओषधीर्दंष्ट्र्यैर्दन्तैरत्ति । भक्षयति । यद्वा असिन्वन् अव्याप्रियमाणोऽग्निः पितुः पालकस्य यजमानस्य सम्बन्धि भोजनं हविर्लक्षणमन्नं दंष्ट्र्यैर्दन्तरूपैर्ज्वालैरत्ति । यस्ताकृणोरित्यादि सिद्धम् ॥
+
+> *he indra puṣṭiṃ tvayo dattaṃ poṣakaṃ dhanaṃ svakīyābhyaḥ prajābhyo vibhajanto 'syaitāvadasyaitāvaditi vibhāgaṃ kurvanto gṛhamedhina āsate | svasvagṛheṣu nivasanti | tatra dṛṣṭāntaḥ | āyate gṛhaṃ pratyāgacchate 'tithaye pṛṣṭhaṃ dhārakaṃ prabhavantaṃ bahubharaṇasamarthaṃ rayiṃ dhanaṃ yathā vibhajya prayacchanti tadvat | asinvan setubandhādikaṃ karma kurvan lokaḥ pituḥ pālayitryā divaḥ sakāśādāgataṃ bhojanamudakaṃ tatkāryā oṣadhīrdaṃṣṭryairdantairatti | bhakṣayati | yadvā asinvan avyāpriyamāṇo 'gniḥ pituḥ pālakasya yajamānasya sambandhi bhojanaṃ havirlakṣaṇamannaṃ daṃṣṭryairdantarūpairjvālairatti | yastākṛṇorityādi siddham ‖*
+
+*(Reading note: "त्वयो दत्तं" is as printed; the same words are repeated on p. 694. No grammar is printed in the tail of this bhāṣya.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आयते (*āyate*)—to the guest who comes to the house. पृष्ठं (*pṛṣṭhaṃ*)—sufficient. प्रभवन्तं (*prabhavantaṃ*)—fit to support many people. रयिं (*rayiṃ*)—wealth, as if one were distributing it. पुष्टिं (*puṣṭiṃ*)—nourishing (wealth given by you). प्रजाभ्यः (*prajābhyaḥ*)—to sons and other progeny. विभजन्तः (*vibhajantaḥ*)—the sacrificers who divide and give. आसते (*āsate*)—live happily in their own houses. असिन्वन् (*asinvan*)—doing works such as the building of dams. पितुः (*pituḥ*)—given by the protecting world of the gods. भोजनं (*bhojanaṃ*)—water, and the food produced by it. दंष्ट्र्यैः (*daṃṣṭryaiḥ*)—with the help of teeth. अत्ति (*atti*)—(the world) eats. यः (*yaḥ*)—you who. ता अकृणोः (*tā akṛṇoḥ*)—have caused all these works to be done. सः (*saḥ*)—such you. प्रथमं (*prathamaṃ*)—chiefly. उक्थ्यः असि (*ukthyaḥ asi*)—are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificers divide the nourishing wealth given by you among their sons and other progeny, as one divides and gives to a guest who comes to the house wealth that is sufficient and fit to support many people; and they live happily in their own houses. Carrying out works such as the building of dams,
+
+*(The Bhāvārtha continues on p. 694.)*
+
+---
+
+### Printed p. 694 (PDF 717)
+
+*(Header: "694", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed; the numeral file has no row for this page].)*
+
+the world eats, with the help of its teeth, the water given by the protecting world of the gods and the food produced from it. You who have caused all these works to be done, such as you are, are chiefly praiseworthy.
+
+**English Translation** *(as printed)*
+
+Distributing nourishment to their progeny, they, (the householders), abide (in their dwellings), as if offering ample and sustaining wealth to a guest: constructing (useful works, a man) eats with his teeth the food (given him) by (his) protector, and as he, who has enjoined these (things to be done), you, (Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is not clear what subject the ṛṣi describes. The commentator has given one kind of meaning, but since the meanings of some words are not clear, it cannot be said that the ṛṣi's intention is just so.
+
+प्रजाभ्यः पुष्टिं विभजन्तः आसते (*prajābhyaḥ puṣṭiṃ vibhajantaḥ āsate*)—
+
+> हे इन्द्र त्वयो दत्तं पोषकं धनं स्वकीयाभ्यः प्रजाभ्यो विभजन्तोऽस्यैतावदस्यैतावदिति विभागं कुर्वन्तो गृहमेधिन आसते ।
+
+> *he indra tvayo dattaṃ poṣakaṃ dhanaṃ svakīyābhyaḥ prajābhyo vibhajanto 'syaitāvadasyaitāvaditi vibhāgaṃ kurvanto gṛhamedhina āsate |*
+
+O Indra, the householders divide the wealth you gave among those who are under their shelter—"this for you, that for him"—for everybody, and live happily in their own houses. Here "wealth" may mean substance, or food and the like. For the word पुष्टिं (*puṣṭiṃ*) suggests the meaning "food and such things as bring nourishment to the body". The chief intention is this: the sacrificers do not enjoy those things given by Indra by themselves alone; they divide them, according to each one's need, among those related to them—wife, sons, servants and the rest—and among the other people under their shelter, and, enjoying only a small share of it themselves, live happily in their own houses.
+
+रयिमिव पृष्ठं प्रभवन्तं आयते (*rayimiva pṛṣṭhaṃ prabhavantaṃ āyate*)—In the sentence just explained, an illustration is given here concerning the sacrificers' distributing the wealth:
+
+> आयते गृहं प्रत्यागच्छतेऽतिथये पृष्ठं धारकं प्रभवन्तं बहुभरणसमर्थं रयिं धनं यथा विभज्य प्रयच्छन्ति तद्वत् ।
+
+> *āyate gṛhaṃ pratyāgacchate 'tithaye pṛṣṭhaṃ dhārakaṃ prabhavantaṃ bahubharaṇasamarthaṃ rayiṃ dhanaṃ yathā vibhajya prayacchanti tadvat |*
+
+Just as the householders honour, according to rule, a guest or visitor who has come to their house and give him, from a sense of duty (dharma), the food and the wealth he needs, so they divide the wealth given by Indra among those who are under their shelter: so the illustration is said. This illustration is not very meaningful.
+
+---
+
+### Printed p. 695 (PDF 718)
+
+*(Header: "A. 2 A. 6 V. 10 ]", "Ṛgvedasaṃhitā", "695" [unzoomed]. The reference numerals "10-79-1" and "6-4" below were taken from the numeral file and agree with what the strip appears to show; not zoomed.)*
+
+असिन्वन् दंष्ट्र्यैः पितुः अत्ति भोजनं (*asinvan daṃṣṭryaiḥ pituḥ atti bhojanaṃ*)—The meaning that the commentator has explained for this sentence is not suited to the context, and it is contrary to Yāska's explanation.
+
+> असिन्वन् सेतुबन्धादिकं कर्म कुर्वन् लोकः पितुः पालयित्र्या दिवः सकाशादागतं भोजनमुदकं तत्कार्या ओषधीर्दंष्ट्र्यैर्दन्तैरत्ति । भक्षयति । यद्वा असिन्वन् अव्याप्रियमाणोऽग्निः पितुः पालकस्य यजमानस्य सम्बन्धि भोजनं हविर्लक्षणमन्नं दंष्ट्र्यैर्दन्तरूपैर्ज्वालैरत्ति ।
+
+> *asinvan setubandhādikaṃ karma kurvan lokaḥ pituḥ pālayitryā divaḥ sakāśādāgataṃ bhojanamudakaṃ tatkāryā oṣadhīrdaṃṣṭryairdantairatti | bhakṣayati | yadvā asinvan avyāpriyamāṇo 'gniḥ pituḥ pālakasya yajamānasya sambandhi bhojanaṃ havirlakṣaṇamannaṃ daṃṣṭryairdantarūpairjvālairatti |*
+
+That is: the world, or the people of the world, doing works such as the building of dams, eat with their teeth, chewing it, the food in the form of water—rain that falls from the protecting antarikṣa (svarga)—or the food in the form of oṣadhi (grain produced from plants and crops) produced from that water; or Agni, who is friendly towards the sacrificer, eats with his flames, which are like teeth, the food in the form of the oblation that the sacrificer offers in him. Thus he has given two kinds of meaning.
+
+A little deliberation is needed on these meanings of the sentence. Here, for the word असिन्वन् (*asinvan*) the commentator explains सेतुबन्धादिकं कर्म कुर्वन् (*setubandhādikaṃ karma kurvan*)—"doing works such as building a dam"; this explanation does not help the meaning suggested in this sentence. Even if the people of the world eat rain-water or the food produced from it, they have no connection whatever with the work of building dams, nor with eating the food. Therefore Yāska, rejecting for the word असिन्वन् (*asinvan*) the meaning "works such as dam-building", quotes the Ṛk containing this very word (Ṛ. Saṃ. 10-79-1):
+
+> अपश्यमस्य महतो महित्वममर्त्यस्य मर्त्यासु विक्षु ।
+> नाना हनू विभृते सं भरेते असिन्वती बप्सती भूर्यत्तः ॥
+
+> *apaśyamasya mahato mahitvamamartyasya martyāsu vikṣu |*
+> *nānā hanū vibhṛte saṃ bharete asinvatī bapsatī bhūryattaḥ ‖*
+
+and for the word असिन्वती (*asinvatī*) in it gives the explanation असिन्वती असंखादन्त्यौ (*asinvatī asaṃkhādantyau*) (Ni. 6-4). असंखादन्त्यौ (*asaṃkhādantyau*) means असंचूर्णयन्त्याविव भक्षयन्त्यौ (*asaṃcūrṇayantyāviva bhakṣayantyau*)—Durgācārya in his commentary explains it as "eating without chewing well". If the same meaning is to be given to the word असिन्वन् (*asinvan*) in the present Ṛk, then the sentence असिन्वन् दंष्ट्र्यैः पितुः अत्ति भोजनं (*asinvan daṃṣṭryaiḥ pituḥ atti bhojanaṃ*) means: the people of the world, not chewing it well with their teeth, eat greedily (since they are hungry) the rain-water obtained from the protecting sky, or the food produced from it. This meaning appears to be the right one. Sāyaṇa himself, in the bhāṣya of the Ṛk he gave earlier as an illustration, followed Yāska's explanation of the word असिन्वती (*asinvatī*) and gave the meaning असंखादन्त्यौ (*asaṃkhādantyau*). Only here is it not known why he gave an unnecessary, or unclear, meaning for the word असिन्वन् (*asinvan*). Even in the meaning relating to Agni, Yāska's
+
+*(The passage continues on p. 696.)*
+
+---
+
+**Progress note:** Done through printed p. 695 (PDF 718). Sūkta 13, Ṛk 4 is OPEN: Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; the Viśeṣaviṣayagaḷu is in progress and breaks off at the end of p. 695 in the middle of a sentence ("Even in the meaning relating to Agni, Yāska's …"), to be continued on p. 696. No grammar pages. No FILE DISAGREE (file rows "10-79-1" and "6-4" on p. 695 agree with the strip as seen, unzoomed). Unzoomed numerals: headers of pp. 693–695. [?] places: ending of Pada word "दंष्ट्र्यैः" (p. 693; the earlier Saṃhitā reading "दंष्ट्र्यः" of p. 692 remains as written); "त्वयो दत्तं" kept as printed.
