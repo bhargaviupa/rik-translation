@@ -2829,6 +2829,115 @@ In the sacrifice of an animal belonging to the Ādityas, this Ṛk, न दक�
 > *yaḥ | rājabhyaḥ | ṛtanibhyaḥ | dadāśa | yaṃ | vardhayanti | puṣṭayaḥ | ca | nityāḥ |*
 > *7 | revān | yāti | prathamaḥ | rathena | vastudāvā | vidatheṣu | praśastaḥ ‖ 12 ‖*
 
+### Printed p. 92
+
+**॥ सायणभाष्यम् ॥**
+
+> यो यजमानो राजभ्यो रुजमानेभ्य ऋतनिभ्य ऋतस्य सत्यस्य वा नेतृभ्य
+> आदित्येभ्यो ददाश । चरुपुरोडाशादिकं ददाति। यं यजमानं पुष्टयः पोषका
+> नित्याः शाश्वता आदित्याश्च वर्धयंति । स यजमानो देवान्थनवान् प्रथमः प्रथितः
+> प्रख्यातः वसुदावा वसूनां धनानां दाता सन् प्रशस्तः सर्वैः प्रशस्यमानो विद-
+> धेषु वेद्येषु लब्धव्येषु गृहेषु रथेन वाहनेन याति । गच्छति ॥
+
+*Gist: the sacrificer who offers cooked oblations to the Ādityas is made to prosper by them, and goes to the sacrifice in a chariot, wealthy, famed and praised.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+yaḥ: the sacrificer who; rājabhyaḥ: to the shining ones; ṛtanibhyaḥ: to the Ādityas, who are leaders of the sacrifice; dadāśa: offers cooked offerings, cakes and the like (and); yaṃ: whom (which sacrificer); puṣṭayaḥ: the nourishing; nityāḥ: the eternal Ādityas; vardhayanti: cause to prosper; saḥ: that sacrificer; revān: as one wealthy; prathamaḥ: as one renowned; vasudāvā: as a giver of wealth; praśastaḥ: as one praised by all; vidatheṣu: in the sacrificial houses (to the sacrificial houses); rathena: seated in a chariot; yāti: goes.
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer who offers cooked offerings, cakes and the like to the shining Ādityas, the leaders of the sacrifice, and whom the nourishing and eternal Ādityas cause to prosper, that sacrificer, wealthy, renowned, a giver of wealth and praised by all, goes seated in a chariot to the sacrificial houses.
+
+**Printed English translation**
+
+He who presents offerings to the royal and true (Adityas); he whom their constant favours exalt ; he proceeds, wealthy. renowned, munificent and honoured, to sacrifices, in his chariot.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋतनिभ्यः ददाश (ऋतनिभ्यः ददाश (*ṛtanibhyaḥ dadāśa*)): he offers cooked offerings, cakes and the like to the Ādityas, the leaders of truth or of the sacrifice. Because the Ādityas stand in front and protect truth and the sacrifice, they are leaders; knowing this, the sacrificer offers them cooked offerings and cakes, the form of the oblation, and
+
+### Printed p. 93
+
+(continued) so pleases them. These Ādityas, पुष्टयः नित्याः (*puṣṭayaḥ nityāḥ*), nourish the whole world and are imperishable, and so they favour the sacrificer who offers them oblations, that he may prosper. The sacrificer who has won their favour, by the wealth obtained through that favour, is the chief of all, famous among all, and a giver of wealth to others; thus the greatness of the Ādityas' favour, as obtained by sacrificers, is described. And it is explained that the sacrificer, praised by others, seated in a chariot, goes towards the sacrificial house (प्र शस्तः विदथेषु रथेन याति (*pra śastaḥ vidatheṣu rathena yāti*)).
+
+The word वसु (*vasu*) is given by Yāska among the names of rays (Ni. 2-13) and among the names of wealth (Ni. 3-9, as printed). In यस्त्वा यंतं वसुना प्रातरित्वः (*yastvā yaṃtaṃ vasunā prātaritvaḥ*) (Ṛ. Saṃ. 1-125--2) it is used in the sense of food (वसुना अन्नेन (*vasunā annena*)). Sāyaṇa says it is used here in the sense of wealth, and explains the word वसुदावा (*vasudāvā*) as one who gives wealth.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> शुचि॑र॒सः सू॒यव॑सा॒ अद॑ब्ध॒ उप॑ क्षेति वृ॒द्धव॑याः सु॒वीरः॑ ।
+> निकि॒ष्टं घ्न॒न्त्यन्ति॑तो॒ न दू॒राद्य आ॑दि॒त्यानां॒ भव॑ति॒ प्रणी॑तौ ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> शुचिः । अपः । सुयवसाः । अदब्धः । उप । क्षेति । वृद्धवयाः । सुवीरः ।
+> नकिः । तं । घ्न्ति । अन्तितः । न । दूरात् । यः । आदित्यानां । भवति । प्रनीशौ ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स यजमानः शुचिर्दिप्यमानः शुद्धो वा अदब्धः सपत्नैरबाधितो वृद्ध-
+> वयाः प्रभूतान्नः सुवीरः शोभनपुत्रश्च सन् सुयवसाः शोभनसस्यान्यपो वृष्टि-
+> लक्षणान्युदकान्युपक्षेति । उपनिवसति । सर्वदा सुसस्यानामपां समीपे निवसती-
+> त्यर्थः । तथा नकिर्न च तं घ्नंति हिंसंत्यंतितो न अंतिकात्समीपदेशाच्च दूराद्वि-
+> प्रकृष्टाच्च देशादागता बाधकाः ॥ अंतिकस्य तसि कादिलोप इति लोपः ॥ यो
+> यजमान आदित्यानामदितेः पुत्राणां मित्रादीनां प्रणीतौ प्रकृष्टे नयने प्रापणे
+> भवति वर्तते स इति पूर्वत्र संबंधः ॥
+
+*Gist: the sacrificer is pure, unharmed, rich in food and sons, dwells near fertile waters, and no enemy near or far harms him who is under the Ādityas' guidance.*
+
+### Printed p. 94
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+yaḥ: the sacrificer who; ādityānāṃ: of the Ādityas; praṇītau: in the excellent guidance; bhavati: is (that sacrificer); śuciḥ: as one pure; adabdhaḥ: not harmed by others; vṛddhavayāḥ: possessing abundant food; suvīraḥ: with excellent sons; being so, sūyavasāḥ: fit for growing good plants; apaḥ: of the waters; upa: near; kṣeti: dwells; taṃ: that sacrificer; nakiḥ: no one; ghnanti: harms; antitaḥ: whether near; dūrāt: or far; na: none can harm.
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer who lives under the excellent guidance of the Ādityas is pure, unharmed by others, possessed of abundant food and excellent sons, and dwells near waters fit for growing good plants. No one harms that sacrificer, whether near or far.
+
+**Printed English translation**
+
+Pure unmolested, possessing (abundant) food and virtuous descendants, he dwells amidst fertilizing waters: no one, whether nigh or afar, harms him who is (safe) in the good guidance of the Adityas.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शुचिः (शुचिः (*śuciḥ*)): shining or pure. The word शुचि (*śuci*) is explained by Yāska as शुक् शोचतेः, शुचि शोचतेः, ज्वलतिकर्मणः (*śuk śocateḥ, śuci śocateḥ, jvalatikarmaṇaḥ*) (Ni. 6-1). Sāyaṇa gives the meanings "shining with radiance" and "perfectly pure". So two meanings are stated: the sacrificer who worships the Ādityas is bright with lustre and also perfectly pure. Further, this sacrificer is not subject to the harm of enemies, possesses abundant food, has virtuous sons, and सुसस्यानां अपां समीपे सर्वदा निवसति (*susasyānāṃ apāṃ samīpe sarvadā nivasati*): he lives always in regions full of plants and rich in water, without difficulty in food and drink; thus the power of the Ādityas' favour that can reach the sacrificer is stated.
+
+नकिः (नकिः (*nakiḥ*)): this word is stated by Yāska in the list of all words (Ni. 3-14) and is used here in the sense of "nearby" (as the Kannada puts it). The greatness of the Ādityas is described: enemies cannot harm the sacrificer who has gained their favour, whether from near or from far.
+
+### Printed p. 95
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> अदि॑ते॒ मित्र॒ वरु॑णो॒त मृ॑ळ॒ यद्वो॑ व॒यं च॑क्र॒मा कच्चि॒दागः॑ ।
+> उ॒र्व॑श्या॒मभ॑यं॒ ज्योति॑रिन्द्र॒ मा नो॑ दी॒र्घा अ॒भि न॑शं॒तमि॑स्राः ॥
+
+**॥ पदपाठः ॥**
+
+> आदते [?] । मित्र । वरुण । उत । मृळ । यत् । वः । चक्रम । कत् । चित् । आगः ।
+> उरु । अश्यां । अभयं । ज्योतिः । इन्त्र । मा । नः । दीर्घाः । अभि । नशन् । शमिस्ताः [?] ॥ १४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उत आपि च हे आदिते मित्र वरुण ॥ आमंत्रितं पूर्वमविद्यमानवदिति
+> पूर्वपूर्वस्थ्यामंत्रितस्याद्यमानवद्भावात् सर्वेषां षाष्ठिकमामंत्रितस्येत्या-
+> द्युदात्तत्वं ॥ यूयं प्रत्येकं मृळ । आस्माकमुपरि दयां कुरु । रक्षेत्यर्थः ।
+> यत् यद्यपि वयं वो युष्माकं कच्चित् किंचिदागोSपराधं चक्रम । अकुर्म ।
+> तथापि मृलेत्यर्थः । हे इंद्र परमैश्वर्योपेतादित्य उरु विस्तीणमभयं भय-
+> रहितं ज्योतिस्तद्वीयं प्रकाशं ज्ञानात्मकं वाश्यां । अहं प्राप्नुयां । दीर्घा
+> विस्त्रतास्तमिस्रास्तमसा युक्ता निशाः ॥ ज्योत्सातमिस्तातृंगिणा । पा. ५. २. ११४ । इति
+> निपात्यते ॥ ता नोऽस्यान् माभिनशन् । माभिमुख्यन व्याप्पुवंतु ॥
+
+*Gist: the Ādityas are addressed: forgive whatever offence we have committed; may I obtain fearless wide light, and may long nights of darkness not overtake us.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+uta: and; adite: O Aditi; mitra: O Mitra; varuṇa: O Varuṇa; yat: if; vayaṃ: we; vaḥ: in regard to you; kaccit: any; āgaḥ: offence; cakrama: have committed; mṛḷa: show kindness to us and protect us; indra: O Āditya, endowed with excellent wealth; uru: wide; abhayaṃ: and fearless; jyotiḥ: light; aśyāṃ: may I obtain; dīrghāḥ: very long; tamisrāḥ: nights full of darkness; naḥ: us; mā abhi naśan: may they not encircle and pervade.
+
 ---
 
-**Progress note:** Done through printed p. 91 (PDF 91). (PDF 91). Sūkta 27 Ṛk 10 Special Topics (p. 89), Ṛk 11 complete (pp. 89-91, no Ṛk number printed); Ṛk 12 Saṃhitā and Pada only, rest next. Hand fixes to kn.md: Ṛk 11 Saṃhitā label and > block added, garbled bhāṣya label replaced, stray 'u ಕಃಕಃ' and 'no text' lines removed. Flags: Ṛk 12 Pada slips as supplied ('೭' for ಸಃ, ವಸ್ತುದಾವಾ), ಸನ್ಯಾ in bhāṣya, ಜೀವಿಸಿನಂತೆ, ಯನ್ತ್ರೀಂರುತ; accent check 1 DIFF
+**Progress note:** Done through printed p. 95 (PDF 95). Sūkta 27 Ṛk 12 complete (p. 92), Ṛk 13 complete (pp. 93-94), Ṛk 14 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 95); Bhāvārtha next. Hand fixes to kn.md: page 94 marker added (merged into p. 93), Ṛk 13/14 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha labels and > blocks, garbled/stray lines removed, Ṛk 14 Saṃhitā ' and : replaced by । and ॥. Flags: Ṛk 14 Pada ಆದತೇ [?], ಶಮಿಸ್ತಾಃ [?] (hyphen-split joined); Latin S in ಗೋSಪರಾಧಂ; ಜ್ಯೋತ್ಸಾತಮಿಸ್ತಾತೃಂಗಿಣಾ; Ṛk 13 Pada slips ಘ್ನ್ತಿ, ಪ್ರನೀಶೌ; Ni. 3-9 printed as ಸಿ. ೩-೯; Pā. 5-2-114 not twinned; accent DIFF 3
