@@ -5650,6 +5650,98 @@ In this Ṛk and in the next Ṛk both Indra and the deity called Tvaṣṭṛ (
 > *aheḷatā | manasā | śruṣṭiṃ | ā | vaha | duhānāṃ | dhenuṃ | pipyuṣīṃ | asaścataṃ ‖*
 > *padyābhiḥ | aśuṃ | vacasā | ca | vājinaṃ | tvāṃ | hinomi | puruhūta | viśvahā ‖ 3 ‖*
 
+### Printed p. 183
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 15, Ṛgveda-saṃhitā, p. 183.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र त्वष्टर्वा अहेळता अक्रुध्यता मनसा श्रुष्टिं सुखकरीं दुहानां
+> दोग्निं पिप्युषीं प्रवृद्धां पीनां ॥ प्याया वृद्धौ । लिटः क्वसुः । लिड्यजोश्चेति
+> पीभावः । उगितश्चेति जीप् । संप्रसारणमिति संप्रसारणं । शासिवसिघसीनां चेति
+> षत्वं ॥ असश्चतमसक्तावयनां एवंभूतां धेनुं गामावह। अभिमुख्येन प्रापय।
+> अपि च हे पुरुहूत बहुभिराहूतेंद्र त्वष्टर्वा पद्याभिः पादगतिभिराशुं व्यापन-
+> शीलं वचसा वाचा च वाजिनं वेगवंतं त्वां विश्वहा सर्वेष्वहःसु हिनोमि ।
+> स्तुतिभिः प्रेरयामि ॥ हि गतौ वृद्धौ च ॥
+
+*Gist:* O Indra (or Tvaṣṭṛ), bring us the well-nourished, milk-yielding cow; I urge you, swift in your steps and in your words, with praises on all days.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O Indra) अहेळता (*aheḷatā*)—without anger. मनसा (*manasā*)—with the mind. श्रुष्टिं (*śruṣṭiṃ*)—that gives happiness. दुहानां (*duhānāṃ*)—that is to be milked. पिप्युषीं (*pipyuṣīṃ*)—well-fed. असश्चतं (*asaścataṃ*)—having limbs well fitted together. धेनुं (*dhenuṃ*)—the milch cow. आ वह (*ā vaha*)—bring and join to us, towards us. पुरुहूत (*puruhūta*)—O Indra, who are called by many. पद्याभिः (*padyābhiḥ*)—by the movements of the feet. आशुं (*āśuṃ*)—who pervade everything. वचसा (*vacasā*)—by speech. वाजिनं च (*vājinaṃ ca*)—and swift. त्वां (*tvāṃ*)—you. विश्वहा (*viśvahā*)—on all days. हिनोमि (*hinomi*)—I urge with praises.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, with a mind free from anger, bring and join to us, towards us, the cow that gives happiness, that is to be milked, that is well-fed and has limbs well fitted together. O Indra, who are called by many, you who pervade everything by the movements of your feet and are swift by speech, I urge on all days with praises.
+
+**Printed English translation**
+
+Bring to us, with benignant mind, the well-nourished and compactly-limbed milch cow, yielding milk, and conferring happiness : daily I glorify, you, who are adored by many, quick (your) steps, and rapid in (your) words.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Let Indra, or the god Tvaṣṭṛ, with a mind free from anger, that is अहेळता मनसा (*aheḷatā manasā*)—अक्रुध्यता मनसा (*akrudhyatā manasā*), that is, a mind filled with joy, towards us the sacrificers, grant us for our good a cow (milch cow) that gives happiness, that yields milk
+
+### Printed p. 184
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 3, Sūkta 32, p. 184.*
+
+abundantly, whose body is well grown, and that is free from bad marks; thus the wish is expressed.
+Indra and the god Tvaṣṭṛ are addressed as पुरुहूत (*puruhūta*)—बहुभिराहूत (*bahubhirāhūta*), called in many sacrifices, with recitation of praises, by many priests and sacrificers. Then, पद्याभिः आशुं वचसा च वाजिनं त्वा विश्वहा हिनोमि (*padyābhiḥ āśuṃ vacasā ca vājinaṃ tvā viśvahā hinomi*)—the greatness of this god is described: he pervades everything by the movements of his own feet and is swift by his words; and it is said that, addressing this god who is endowed with such greatness, the sacrificer recites praises on all days.
+श्रुष्टिं (*śruṣṭiṃ*)—सुखकरीं (*sukhakarīṃ*). The word श्रुष्टी (*śruṣṭī*) is explained by Yāska as श्रुष्टीति क्षिप्रनाम (*śruṣṭīti kṣipranāma*) (Ni. 6-13). Durgācārya, giving the meaning श्रुष्टीवरीः सुखवतीः (*śruṣṭīvarīḥ sukhavatīḥ*), explains that the word is used in several senses.
+अहेळता (*aheḷatā*)—अक्रुध्यता (*akrudhyatā*). Yāska (Ni. 3-9) has read हेळतेः (*heḷateḥ*) among the words for the action of being angry. On this basis Sāyaṇa has explained the meaning here as "free from anger".
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> रा॒काम॒हं सु॒हवां॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॒ बोध॑तु॒॑
+> त्मना॑ ।
+> सीव्य॒त्वपः॑ सू॒च्याच्छि॑द्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्त्यं॑ ॥
+
+**॥ पदपाठः ॥**
+
+> राकां अहं । सुहवां । सुस्तुती । हुवे । शृणोतु । नः । सुभगा । बोधतु ।
+> त्मना ।
+> सीव्यतु । अपः । सूच्या । अच्छैद्यमानया । ददातु । वीरं । शतदायं । उक्तं ॥
+
+> *rākāṃ ahaṃ | suhavāṃ | sustutī | huve | śṛṇotu | naḥ | subhagā | bodhatu |*
+> *tmanā |*
+> *sīvyatu | apaḥ | sūcyā | acchaidyamānayā | dadātu | vīraṃ | śatadāyaṃ | uktaṃ ‖*
+
+### Printed p. 185
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 15, Ṛgveda-saṃhitā, p. 185.*
+
+**॥ सायणभाष्यम् ॥**
+
+> पत्नीसंयाजेषु गृहपतेः प्राक् राकासिनीवाल्यौ यष्टव्ये । तत्र राकाया-
+> गस्य राकामहमित्यादिके याज्यानुवाक्ये । सूत्रितं च । राकामहं सिनीवालि कुहू-
+> महमिति द्वे द्वे याज्यानुवाक्ये । आ. १-१० । इति ॥ तथाग्निमारुतेष्टेते धाय्कॆ ।
+> सूत्रितं च । राकामहमिति द्वे । आ. ५-२० । इति ॥
+> संपूर्णचंद्रा पौर्णमासी राका । तां देवीं सुहवां स्वाह्वानामाह्वान-
+> प्रयोजनकारिणीं सुष्टती शोभनया स्तुत्याहं हुवे । आह्वयामि ॥ सुष्टुति-
+> शब्दात्तृतीयैकवचनस्य सुपां सुलुगिति पूर्वसवर्ण ईकारः॥ सा च सुभगा शोभन-
+> धना नोऽस्माकमाह्वानं शृणोतु । श्रुत्वा च त्मना आत्मना स्वयमेव बोधतु ।
+> अस्मदभिप्रायं बुध्यतां । बुद्ध्वा चापः कर्म पुत्रोत्पादनलक्षणं सूच्या सूची-
+> स्थानीययाच्छिद्यमानयाविच्छन्नयानुग्रहबुद्ध्या सीव्यतु । संतनोतु । यथा
+> वस्त्रादिकं सूच्या सूतं चिरं तिष्ठति एवमिदं करोतु । कृत्वा च वीरं विक्रांतं
+> शतदायं बहुधनं बहुप्रदं वोक्ष्यं प्रशस्यं पुत्रं ददातु ॥
+
+*Gist:* Rākā, the full-moon deity, is invoked with praise at the Patnīsaṃyāja offerings; may she hear, understand, and bestow a valiant, wealthy, praiseworthy son.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुहवां (*suhavāṃ*)—worthy of an excellent invocation. राकां (*rākāṃ*)—the deity called Rākā. सुष्टुती (*suṣṭutī*)—with excellent praise. अहं (*ahaṃ*)—I. हुवे (*huve*)—call. सुभगा (*subhagā*)—that goddess who has excellent wealth. नः (*naḥ*)—our invocation. शृणोतु (*śṛṇotu*)—may she hear! त्मना (*tmanā*)—of her own accord. बोधतु (*bodhatu*)—may she understand our desire. अपः (*apaḥ*)—the work in the form of begetting a son. सूच्या (*sūcyā*)—like a needle. अच्छिद्यमानया (*acchidyamānayā*)—unbroken. With a mind of favour सीव्यतु (*sīvyatu*)—may she weave. वीरं (*vīraṃ*)—a valiant. शतदायं (*śatadāyaṃ*)—wealthy. उक्ष्यं (*ukṣyaṃ*) (as supplied; the Saṃhitā has उक्त्यं (*uktyaṃ*))—praiseworthy son. ददातु (*dadātu*)—may she give.
+
+**भावार्थ (Bhāvārtha)**
+
+I call the deity called "Rākā", who is worthy of an excellent invocation, with excellent praise. May that goddess, who has excellent wealth, hear our invocation. May she understand our desire of her own accord. May she weave the work in the form of begetting a son with a mind of favour that is like a needle and unbroken. May she give a son who is valiant, wealthy and praiseworthy.
+
+**Printed English translation**
+
+I invoke, with suitable praise, Raka, who is worthily invoked : may she, who is auspicious of good fortune, hear us, and spontaneously
+
 ---
 
-**Progress note:** Done through printed p. 182 (PDF 182). Sūkta 32 Ṛk 1 Special Topics finished; Ṛk 2 complete; Ṛk 3 Saṃhitā and Pada only (bhāṣya follows). Flags, as supplied and not changed: ತೃಷ್ಟ/ತ್ವಷ್ಟ, ರಿಷಃ ನಃ ಅರ್ಹ in p.182 quotation, ಸುಮ್ಮಾಯತಾ/ಸುಮ್ಮ vs ಸುಮ್ನ, Pratipadārtha ವಿದ್ಭಿ vs Pada ವಿದ್ದಿ, ಅಶುಂ in Pada vs Saṃhitā ಆಶುಂ, accent DIFF 3 lines; removed a doubled Pada label in kn.md
+**Progress note:** Done through printed p. 185 (PDF 185). Sūkta 32 Ṛk 3 finished; Ṛk 4 (Rākā) Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha; printed English cut at p. 185 end (continues). Flags as supplied: ಉಕ್ಷ್ಯಂ (Pratipadārtha) vs ಉಕ್ತ್ಯಂ (Saṃhitā) vs ವೋಕ್ಷ್ಯಂ (bhāṣya), ಸುಷ್ಟತೀ in bhāṣya, Pada ಅಚ್ಛೈದ್ಯಮಾನಯಾ vs Saṃhitā ಅಚ್ಛಿದ್ಯ; Ṛk 4 number inferred (garbled label '೧ ಸಹಿತಾಪಾತು' replaced by standard label, stray ೧ removed); accent DIFF 2
