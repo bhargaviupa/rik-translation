@@ -3800,6 +3800,114 @@ Although the word स्तेन (*stena*) is not read by Yāska among the name
 > *māhaṃ maghono varuṇa priyasya bhūridānna ā vidaṃ śūnamāpeḥ |*
 > *mā rāyo rājansu yamādava sthāṃ bṛhadvadema vidathe suvīrāḥ ‖*
 
+### Printed p. 123
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 8, p. 123.*
+
+**॥ पदपाठः ॥**
+
+> मा । अहं । मघोनः । वरुण । प्रियस्य । भूर्इदान्वः । आ । विदं । शूनं । आपेः ।
+> मा । रायः । राजन् । सुयमात् । अव । स्थां । बृहत् । वदेम । विदथे । सु-
+> वीराः ॥ १७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण मघोनो धनवतः प्रियस्यानुकूलस्य भूरिदाव्यो भूरेर्बहुलस्य
+> दातुराड्यस्याहं मा आविदं । मावेदयानि । आवेदनं विज्ञापनं मा करवाणि । किं
+> तदनावेद्यं । आपेर्ज्ञातेः शूनं शून्यं दारिद्रं ॥ वर्णलोपश्रांदसः ॥ यद्वा
+> शूनं गतं प्राप्तं दारिद्रं ॥ टुओश्वि गतिवृद्ध्योः । श्वीदितो निष्ठायामितीट् प्रति-
+> षेधः । यजादित्वात्संप्रसारणं । ओदितश्चति नकारः । वृषादित्वादाद्युदात्तत्वं ॥
+> एतदुक्तं भवति । अस्मदीयाः पुत्रादयः क्षुधिता इति प्रभुप्रभुसमीपेभिधाय
+> याचमानो मा भूवमिति । हे राजन् सुयमात् । सुष्टु नियम्यतेनेन पुरुषो
+> गृह इति सुयमः ॥ ईषद्दुःसुष्टिति खलु ॥ तादृशाद्रायो धनान्मावस्थां ।
+> अवयुत्य स्थितो मा भूवं । वयं सुनीराः शोभनपुत्रा विदथे यज्ञे गृहे
+> वर्तमानाः संतो बृहत् फौढं स्तोत्रं वदेम । उच्चारयाम ॥
+
+> *he varuṇa maghono dhanavataḥ priyasyānukūlasya bhūridāvyo bhūrerbahulasya*
+> *dāturāḍyasyāhaṃ mā āvidaṃ | māvedayāni | āvedanaṃ vijñāpanaṃ mā karavāṇi | kiṃ*
+> *tadanāvedyaṃ | āperjñāteḥ śūnaṃ śūnyaṃ dāridraṃ ‖ varṇalopaśrāṃdasaḥ ‖ yadvā*
+> *śūnaṃ gataṃ prāptaṃ dāridraṃ ‖ ṭuośvi gativṛddhyoḥ | śvīdito niṣṭhāyāmitīṭ prati-*
+> *ṣedhaḥ | yajāditvātsaṃprasāraṇaṃ | oditaścati nakāraḥ | vṛṣāditvādādyudāttatvaṃ ‖*
+> *etaduktaṃ bhavati | asmadīyāḥ putrādayaḥ kṣudhitā iti prabhuprabhusamīpebhidhāya*
+> *yācamāno mā bhūvamiti | he rājan suyamāt | suṣṭu niyamyatenena puruṣo*
+> *gṛha iti suyamaḥ ‖ īṣadduḥsuṣṭiti khalu ‖ tādṛśādrāyo dhanānmāvasthāṃ |*
+> *avayutya sthito mā bhūvaṃ | vayaṃ sunīrāḥ śobhanaputrā vidathe yajñe gṛhe*
+> *vartamānāḥ saṃto bṛhat phauḍhaṃ stotraṃ vadema | uccārayāma ‖*
+
+*Gist:* Sāyaṇa takes the Ṛk as a prayer that the sacrificer may never have to go to a rich, kind and generous patron and plead his kinsman's poverty, nor be emptied of well-regulated wealth; the grammatical tail explains शूनम् (*śūnam*) from *śvi* (to go, to grow), with elision of a letter, and सुयमात् (*suyamāt*).
+
+*(Readings as supplied: the Pada reads भूर्इदान्वः for the Saṃhitā's भूरिदान्नः; the bhāṣya and Pratipadārtha have भूरिदाव्यः; the bhāṣya has सुनीराः where the Saṃhitā and Pada have सुवीराः; the bhāṣya tail has an odd sequence "ಟುಓಶ್ವಿ". All left as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Varuṇa—O Varuṇa; Maghonaḥ—of the wealthy; Priyasya—of the favourable one; Bhūridāvyaḥ—of him who gives abundantly, that is, of the rich man, in front of him; Ahaṃ—I; Āpeḥ—of my near kinsman; Śūnaṃ—the poverty; Mā ā vidaṃ—may I not (have to) tell it; Rājan—O lord Varuṇa; Suyamāt—from what is gathered under restraint (regulation); Rāyaḥ—from wealth; Mā ava sthāṃ—may I not become empty; (Vayaṃ—we); Suvīrāḥ—together with excellent sons; Vidathe—in the sacrificial house; Bṛhat—a mature hymn of praise; Vadema—we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, may I never, before a rich, favourable and abundantly generous man, say that my sons and other near kinsmen are suffering in poverty, and so ask him for wealth. May I never be emptied of the wealth gathered under restraint. Together with excellent sons we shall recite a mature hymn of praise in the sacrificial house.
+
+### Printed p. 124
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 3 [as printed; elsewhere 2], Adhyāya 3, Sūkta 28, p. 124.*
+
+**Printed English translation**
+
+May I never (have to) represent, Varuna, the destitution of a (once) opulent, dear, and munificent kinsman : may I never, royal Varuna, be devoid of well-regulated riches : (and) may we, blessed with excellent descendants, worthily glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+By the word वरुण (*varuṇa*) the Āditya is here addressed; it has been explained earlier that Varuṇa is one of the twelve Ādityas.
+
+मघोनः—धनवतः (*maghonaḥ—dhanavataḥ*). The word मघ (*magha*) is read among the names of wealth by Yāska (Ni. 3-9); the meaning "possessed of wealth" is explained.
+
+प्रियस्य भूरिदान्वः आपेः शुनं मा आ विदं (*priyasya bhūridānvaḥ āpeḥ śunaṃ mā ā vidaṃ*) [the supplied text has शुनं (*śunaṃ*) here, against शूनं (*śūnaṃ*) in the bhāṣya] — बहुलस्य दातुराड्यस्य समीपे अस्मदीयाः पुत्रादयः क्षुधिता इति दारिद्रमभिदाय याचमानो मा भूवं (*bahulasya dāturāḍyasya samīpe asmadīyāḥ putrādayaḥ kṣudhitā iti dāridramabhidāya yācamāno mā bhūvaṃ*): the prayer is explained thus: may we, the sacrificers, not have to go near a wealthy man who is kind and gives abundantly, state that our sons and the rest are in poverty, and beg wealth.
+
+शूनं—शून्यं, यद्वा शूनं गतं प्राप्तं दारिद्रं (*śūnaṃ—śūnyaṃ, yadvā śūnaṃ gataṃ prāptaṃ dāridraṃ*): for the word शून (*śūna*) the meaning is explained as the state of having no kind of thing at all, or poverty (ownership) fit to bring about a state of emptiness.
+
+राजन् सुयमात् रायः मा अवस्थाम्—सुष्टु नियम्यते अनेन पुरुषो गृहे इति सुयमः (*rājan suyamāt rāyaḥ mā avasthām—suṣṭu niyamyate anena puruṣo gṛhe iti suyamaḥ*): Varuṇa is addressed by the word राजन् (*rājan*), and it is prayed that by his favour the wealth gathered by us, the sacrificers, may never perish.
+
+बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*): it is prayed that we, the sacrificers, reciting hymns in the sacrifices together with our excellent sons, may be granted favour.
+
+### Printed p. 125
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 11, p. 125.*
+
+## Sūkta 29 (Maṇḍala 2)
+
+*The twenty-ninth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> धृतव्रता इति सप्तर्चं सप्तमं सूक्तं गार्त्समदस्य कूर्मस्य गृत्समदस्य
+> वार्षं त्रैष्टुभं वैश्वदेवं । तथा चानुक्रांतं । धृतव्रताः सप्त वैश्वदेवमिति ।
+> गतो विनियोगः ॥
+
+*Gist:* *dhṛtavratāḥ* is the seventh sūkta of Anuvāka 3, of seven ṛks, by Kūrma Gārtsamada or Gṛtsamada, in *triṣṭubh* metre, to the Viśvedevas; the Anukramaṇī is quoted; the application is stated as already given.
+
+**Anuvāda (Kannada).** The sūkta *dhṛtavratāḥ* is the seventh sūkta in the third anuvāka. It has seven ṛks. The seer of this sūkta is Kūrma, son of Gṛtsamada, or Gṛtsamada himself; the deity is the Viśvedevas; the metre is *triṣṭubh*. In the Anukramaṇikā it is said धृतव्रताः सप्त वैश्वदेवं (*dhṛtavratāḥ sapta vaiśvadevaṃ*) (the seven *dhṛtavratāḥ* are for the Viśvedevas). The application is *laiṅgika*.
+
+**Sūkta—29**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 29 ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 11 ‖
+Number of ṛks in the Sūkta: 7 ·
+Ṛṣi: as supplied "ಕರ್ಮೋ ಗಾರ್ತಮದೋ ಗೃತ್ಸಮದೋ ವಾ" (Kūrma Gārtsamada, or Gṛtsamada; the first word and the second are garbled as supplied, left as they are) · Devatā: the Viśvedevas · Chandas: *triṣṭubh*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> धृत॑व्रता॒ आदि॑त्या॒ इषि॑रा आ॒रे मत्क॑र्त रह॒सूरि॒वागः॑ ।
+> शृ॒ण्व॒तो वो॒ वरु॑ण॒ मित्र॒ देवा॑ भ॒द्रस्य॑ वि॒द्वा अव॑से हुवे वः ॥
+
+**॥ पदपाठः ॥**
+
+> धृतव्रताः । आदित्याः । इषिराः । आरे । मत् । कर्त । रहसूः इव । आगः ।
+> शृण्वतः । वः । वरुण । मित्र । देवाः । भद्रस्य । विद्वान् । आवसे । हुवे । वः ॥ १ ॥
+
+> *dhṛtavratāḥ | ādityāḥ | iṣirāḥ | āre | mat | karta | rahasūḥ iva | āgaḥ |*
+> *śṛṇvataḥ | vaḥ | varuṇa | mitra | devāḥ | bhadrasya | vidvān | āvase | huve | vaḥ ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 122 (PDF 122). Sūkta 28 Ṛk 9 complete (p. 120); Ṛk 10 complete (pp. 121-122); Ṛk 11 Saṃhitā only (Pada continues p. 123). Hand fixes to kn.md: Ṛk 10 and 11 Saṃhitā put in blocks with standard labels, garbled Saṃhitā label lines removed, bhāṣya label moved out of Pada block. Flags as supplied: ಆರ್ಸ [?] in Ṛk 9 Special Topics; Pada ಆಸ್ಮಾನ್, ದಿಪ್ಪತಿ in Pratipadārtha; ಪಾಪಕಮಿತಿ
+**Progress note:** Done through printed p. 125 (PDF 125). Sūkta 28 Ṛk 11 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics); Sūkta 29 introduction and Ṛk 1 Saṃhitā and Pada (bhāṣya continues p. 126). Hand fixes to kn.md: stray line and punctuation removed, bhāṣya introduction put in a block, Anuvāda unquoted. Flags as supplied: Pada भूर्इदान्वः, bhāṣya सुनीराः/भूरिदाव्यः, शुनं vs शूनं; p. 124 head prints Maṇḍala 3
