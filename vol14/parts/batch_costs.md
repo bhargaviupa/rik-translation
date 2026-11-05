@@ -67,3 +67,4 @@ pp. 408-410 | sonnet | tokens n/a | ~3 min
 | 926-928 | sonnet | n/a | see agent | ~2 min |
 | 929-931 | sonnet | n/a | see agent | ~2 min |
 | 932-934 | sonnet | n/a | see agent | ~2 min |
+| 935-937 | sonnet | n/a | see agent | ~2 min |
