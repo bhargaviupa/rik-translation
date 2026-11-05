@@ -25497,4 +25497,104 @@ He, under whose control are horses and cattle, and villages, and all chariots : 
 
 ---
 
-**Progress note:** Done through printed p. 665 (PDF 688); the dispatcher's labels agree with the headers (offset −23). Sūkta 12: Ṛk 6's Viśeṣaviṣayagaḷu is finished on p. 663 (Yāska, Nirukta 4-2, 3-19, 9-8; the Kannada gist of the bhāṣya on ⟦युक्तग्राव्णः, सुशिप्रः, सुतसोमस्य⟧). Ṛk 7 is complete on pp. 663–665 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu with Nirukta 9-11 and Ṛg. 3-32-8). Ṛk 8 is open: only the Saṃhitā is written (at the foot of p. 665); the Pada begins on printed p. 666 (PDF 689). Numeral file agrees on all references (4-2, 3-19, 9-8, 3-32-8 twice, 9-11); the varga numeral 8, the Ṛk numbers 7 and 8 and the last digit of the header's sūkta numeral (p. 664, partly cut) are unzoomed. [?] places: "गृहातेर्वा—स्तूयन्तेर्वा" in Yāska's second explanation of ⟦ग्रावाणः⟧ (p. 663), "सर्वान्तर्यामितया" (p. 664 bhāṣya), the compound mark in the Pada of "प्रऽदिशि", the avagraha in "परेऽवर" (Ṛk 8 Saṃhitā).
+### Printed p. 666 (PDF 689)
+
+*(Header: "666", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12"; the last digits of the sūkta numeral are unzoomed. Ṛk 8 continues from p. 665, where only its Saṃhitā was written.)*
+
+**॥ पदपाठः ॥**
+
+> यं । क्रन्दसी इति । संयती इति सम्ऽयती । विह्वयेते इति विऽह्वयेते । परे । अवरे । उभयाः । अमित्राः ।
+> समानं । चित् । रथं । आतस्थिवांसा । नाना । हवेते इति । सः । जनासः । इन्द्रः ॥ ८ ॥
+
+> *yaṃ | krandasī iti | saṃyatī iti sam 'yatī | vihvayete iti vi 'hvayete | pare | avare | ubhayāḥ | amitrāḥ |*
+> *samānaṃ | cit | rathaṃ | ātasthivāṃsā | nānā | havete iti | saḥ | janāsaḥ | indraḥ ‖ 8 ‖*
+
+*(In the Pada the small stroke between स्थि and वां of आतस्थिवांसा may be a compound mark; unzoomed [?]. The Pada gives परे । अवरे as two words, which fits the Saṃhitā's परेऽवरे.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Whom two armies, the high and the low enemies, and two charioteers in one chariot each call for help: he is Indra. Alternative: Indra and Agni.*
+
+> यं क्रन्दसी रोदसी शब्दं कुर्वाणे मानुषी देवी च द्वे सेने वा संयती परस्परं सङ्गच्छन्त्यौ यमिन्द्रं विह्वयेते । स्वरक्षार्थं विविधमाह्वयतः । पर उत्कृष्टा अवरेऽधमाश्चोभया उभयविधा उभयमाह्वयन्ति । समानमिन्द्ररथसदृशं रथमातस्थिवांसा आस्थितौ द्वा रथिनौ तमेवेन्द्रं नाना पृथक् पृथक् हवेते । अह्वयेते । यद्वा समानमेकरथमारूढाविन्द्राग्नी हवेते । यज्ञार्थं यजमानैः पृथगाहूयेते । तयोरन्यतरः स इन्द्रो नाहमिति ॥
+
+> *yaṃ krandasī rodasī śabdaṃ kurvāṇe mānuṣī devī ca dve sene vā saṃyatī parasparaṃ saṅgacchantyau yamindraṃ vihvayete | svarakṣārthaṃ vividhamāhvayataḥ | para utkṛṣṭā avare 'dhamāścobhayā ubhayavidhā ubhayamāhvayanti | samānamindrarathasadṛśaṃ rathamātasthivāṃsā āsthitau dvā rathinau tamevendraṃ nānā pṛthak pṛthak havete | ahvayete | yadvā samānamekarathamārūḍhāvindrāgnī havete | yajñārthaṃ yajamānaiḥ pṛthagāhūyete | tayoranyataraḥ sa indro nāhamiti ‖*
+
+*(Doubtful: the closing words "स इन्द्रो नाहमिति" are read as printed; the sense of "नाहम्" there is not clear to me [?]. "द्वा रथिनौ" is as printed. No grammatical tail on this Ṛk.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यं (*yaṃ*)—whom. क्रन्दसी (*krandasī*)—both heaven and earth, or the divine army and the human army, making sound, together. संयती (*saṃyatī*)—coming together. विह्वयेते (*vihvayete*)—call for protection. परे (*pare*)—the superior ones. अवरे (*avare*)—the inferior ones. उभयोः (*ubhayoḥ*, as printed)—both these kinds. अमित्राः (*amitrāḥ*)—enemies also call. समानं चित् (*samānaṃ cit*)—similar to Indra's chariot. रथं (*rathaṃ*)—the chariot. आतस्थिवांसा (*ātasthivāṃsā*)—the two charioteers who have mounted. नाना हवेते (*nānā havete*)—call each separately. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he whom the divine army and the human army, calling out together, call for protection; whom the enemies, both the superior and the inferior, also call; and whom the two charioteers who have mounted a chariot like Indra's chariot call separately for protection: he is Indra.
+
+**English Translation** *(as printed)*
+
+Whom (two hosts), calling and mutually encountering, call upon; whom both adversaries, high and low, (appeal to); whom two (charioteers), standing in the same car, severally invoke; he, men, is Indra.
+
+---
+
+### Printed p. 667 (PDF 690)
+
+*(Header: "A. 2 A. 6 V. 8 ]", "Ṛgvedasaṃhitā", "667". The numeral file gives 2 and 6; the varga numeral 8 is read from the print, unzoomed.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 8)*
+
+The meaning of this Ṛk is somewhat awkward (the Kannada says *toḍaku*, "tangled"); or the meaning that Sāyaṇa has set out is not quite fitting. As Sāyaṇa explains: "O people, he whom the divine army and the human army, calling out together, call for protection; whom the enemies, both the superior and the inferior, call; and whom two charioteers who have mounted a chariot like Indra's chariot call separately for protection: he is Indra": this is the main meaning of the Ṛk.
+
+Another kind of meaning is also possible. Namely: when two armies join together in the battlefield and fight, both armies call upon Indra alone for protection. That is, Indra is not a partisan of one man or of one army. Of the armies of the two enemies, one may be superior, or larger in number, or stronger; the other may be smaller (*kaniṣṭha*), or of little strength. Yet since the men of both armies call Indra, wishing him to be their protector, it becomes clear that Indra is needed by both and is not a partisan of either. Though the men of the two armies are enemies to each other, Indra is needed by both; therefore both call him: this may be the intention of the ṛṣi. And in the second half of the Ṛk also it is said that two warriors, seated in a chariot and fighting, call Indra alone, who has equal affection for the two of them.
+
+Here the commentator has explained the words समानं चित् (*samānaṃ cit*) as इन्द्रसदृशं रथमातस्थिवांसा (*indrasadṛśaṃ rathamātasthivāṃsā*) ("two who have mounted a chariot like Indra's chariot"), meaning a chariot equal to Indra's chariot; but the words समानं चित् (*samānaṃ cit*) can be explained as "Indra alone, who has equal affection (for both)". It seems right to explain them so.
+
+In this explanation of the Ṛk by Sāyaṇa some defects are seen. For the words क्रन्दसी संयती (*krandasī saṃyatī*), the explanation रोदसी शब्दं कुर्वाणे (*rodasī śabdaṃ kurvāṇe*) is given: heaven and earth, making sound, call Indra for protection. If that is said, is there mutual hatred between heaven and earth? If so, did they begin fighting, making noise, and seek Indra's help for protection? Such doubts arise. Therefore this kind of explanation does not hold. Or, according to the other meaning the commentator has given, मानुषी देवी च द्वे सेने वा (*mānuṣī devī ca dve sene vā*), that is, the two armies, the human army and the divine army: in this meaning too, how did hatred arise between men and gods? If by "men" is meant asuras, it is well known that gods and asuras are mutual enemies, and that they fight is natural; but since the asuras are enemies of Indra, they do not seek Indra's help or protection. So this meaning too does not fit well. Besides, there is no need at all to supply (*adhyāhāra*), as Sāyaṇa says, the word रोदसी (*rodasī*) (heaven and earth) in this Ṛk, because उभयाः अमित्राः (*ubhayāḥ amitrāḥ*) means "two enemy parties, hostile to each other,"
+
+---
+
+### Printed p. 668 (PDF 691)
+
+*(Header: "668", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 12"; the end of the sūkta numeral is unzoomed.)*
+
+… as is said clearly in the Ṛk itself. For the words परे अवरे (*pare avare*) one may explain "one large army and another small army". To say that the word समानं (*samānaṃ*) means "chariot" is also not right; it must be explained as Indra. If it is done so, the meaning of the Ṛk becomes clear, and there is no tangle of any kind. Therefore for this Ṛk—
+
+"O people, he whom two enemy parties, having come together for battle, call for protection, and whom two warriors seated facing each other in a chariot, eager for battle, call separately, each for protection, Indra alone: he is Indra": this can be given as the main meaning.
+
+---
+
+#### Ṛk 9
+
+*(Small captions "Saṃhitāpāṭha" and "Padapāṭha" printed above the Saṃhitā and Pada.)*
+
+**॥ संहितापाठः ॥**
+
+> यस्मा॒न्न ऋ॒ते वि॒जय॑न्ते॒ जना॑सो॒ यं युध्य॑माना॒ अव॑से॒ हव॑न्ते ।
+> यो विश्व॑स्य प्रति॒मानं॑ ब॒भूव॒ यो अ॑च्युत॒च्युत्स ज॑नास॒ इन्द्रः॑ ॥
+
+> *yasmānna ṛte vijayante janāso yaṃ yudhyamānā avase havante |*
+> *yo viśvasya pratimānaṃ babhūva yo acyutacyutsa janāsa indraḥ ‖*
+
+*(The Ṛk number is not printed at the end of the Saṃhitā; the Pada ends with "॥ 9 ॥" as read, unzoomed.)*
+
+**॥ पदपाठः ॥**
+
+> यस्मात् । न । ऋते । विऽजयन्ते । जनासः । यं । युध्यमानाः । अवसे । हवन्ते ।
+> यः । विश्वस्य । प्रतिऽमानं । बभूव । यः । अच्युतऽच्युत् । सः । जनासः । इन्द्रः ॥ ९ ॥
+
+> *yasmāt | na | ṛte | vi 'jayante | janāsaḥ | yaṃ | yudhyamānāḥ | avase | havante |*
+> *yaḥ | viśvasya | prati 'mānaṃ | babhūva | yaḥ | acyuta 'cyut | saḥ | janāsaḥ | indraḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Without whom people do not win; fighters call him for protection; who became the counterpart of the whole world and the shaker of the unshaken mountains: he is Indra.*
+
+> यस्मादृते जनासो जना न विजयन्ते । विजयं न प्राप्नुवन्ति । अतो युध्यमाना युद्धं कुर्वाणा जना अवसे स्वरक्षणाय यमिन्द्रं हवन्ते । आह्वयन्ति । यश्च विश्वस्य सर्वस्य जगतः प्रतिमानं प्रतिनिधिर्बभूव । यश्चाच्युतच्युत् अच्युतानां क्षयरहितानां पर्वतादीनां च्यावयिता स इन्द्र इत्यादि प्रसिद्धं ॥
+
+> *yasmādṛte janāso janā na vijayante | vijayaṃ na prāpnuvanti | ato yudhyamānā yuddhaṃ kurvāṇā janā avase svarakṣaṇāya yamindraṃ havante | āhvayanti | yaśca viśvasya sarvasya jagataḥ pratimānaṃ pratinidhirbabhūva | yaścācyutacyut acyutānāṃ kṣayarahitānāṃ parvatādīnāṃ cyāvayitā sa indra ityādi prasiddhaṃ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यस्मात् ऋते (*yasmāt ṛte*)—without whom. जनासः (*janāsaḥ*)—people. न विजयन्ते (*na vijayante*)—cannot obtain victory (and therefore). यं (*yaṃ*)—whom. युध्यमानाः (*yudhyamānāḥ*)—those engaged in battle. अवसे (*avase*)—for protection. हवन्ते (*havante*)—call. यः (*yaḥ*)— *(the Pratipadārtha breaks off here at the foot of p. 668 and continues on p. 669; Ṛk 9 is left open)*
+
+---
+
+**Progress note:** Done through printed p. 668 (PDF 691); header offset −23 holds. Sūkta 12: Ṛk 8 is complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, and the Viśeṣaviṣayagaḷu on pp. 667–668, the latter ending with Sāyaṇa's explanation criticised and a proposed meaning). The Pada resolves the Saṃhitā's "परेऽवरे" as परे । अवरे. Ṛk 9 is open: Saṃhitā, Pada, bhāṣya and a gist are written; the Pratipadārtha is written up to "यः—" at the foot of p. 668 and continues on p. 669 (the next batch continues this Pratipadārtha, then Bhāvārtha etc.). The numeral file gives 2 and 6 for the p. 667 header (agrees); the varga numeral 8 (p. 667), the sūkta numeral 12 in the p. 666 and p. 668 headers, and the Ṛk numbers 8 and 9 are unzoomed. [?] places: compound mark in आतस्थिवांसा (Pada, Ṛk 8); the closing "नाहमिति" of the bhāṣya on Ṛk 8; "द्वा रथिनौ" printed so. The Saṃhitā of Ṛk 9 has no printed Ṛk number.
