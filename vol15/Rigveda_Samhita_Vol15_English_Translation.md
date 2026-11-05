@@ -10163,6 +10163,76 @@ Draviṇodaḥ — O Draviṇodas. Yobhiḥ [as supplied] — by which bearers. 
 
 O Draviṇodas, may those bearers by which you are brought be satisfied. O Lord of the forest, become one of firm body, but do not be harmful. O subduer of enemies, O
 
+### Printed p. 323
+
+Draviṇodas, come, approve our sacrifice, and in the sacrifice performed by the Neṣṭṛ drink the Soma together with the deities called Sahas [as supplied].
+
+**Printed English translation**
+
+May these your bearers, by whom you are borne along, be satisfied ; lord of the forest, be firm, doing no injury, steadfast of resolve ; come, and being gracious, drink, Dravinodas, along with the Ritus, the Soma, the offering the Neshtri [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+द्रविणोदः येभिः ईयसे ते वह्नयः मेद्यंतु (*draviṇodaḥ yebhiḥ īyase te vahnayaḥ medyaṃtu*) — the supplied text then adds a Sanskrit explanation (the words of Sāyaṇa's gloss, not repeated here). Kannada explanation: O Draviṇodas, the officiating priests who bring you, born in the fire-sticks (araṇis), to the sacrificial altar: may they be satisfied; thus the prayer is made.
+
+Yāska has given an etymology for this passage (Ni. 8-3): वेद्यंतु ते वह्नयो वोढारो (*vedyaṃtu te vahnayo voḍhāro*) [as supplied; the quotation continues over several lines through वनस्पत इत्येन (*vanaspata ityena*) ... पिबर्तुभिः (*pibartubhiḥ*) and is not retyped here; its words as supplied are in the Kannada file].
+
+According to this etymology the word *medyantu* is derived from the root इम्मिदा (*immidā*) [as supplied], "to be affectionate"; मेद्यंतु (*medyaṃtu*) is the third person plural imperative: "let them rejoice, let them be satisfied". *Vahnayaḥ* means "bearers" (the supplied text has प्रोढारः (*proḍhāraḥ*)): the word *vahni* is formed from the root *vah*, meaning "to carry, to bear, to reach", so *vahnayaḥ* means those who carry. The word can also mean a horse that bears a burden; here it is used in the sense of the priests who carry Agni (Draviṇodas). *Ariṣaṇyat* means "not harming, not being harmed", an epithet of Agni. *Dhṛṣṇu* is generally "one who destroys enemies".
+
+*Dhiṣṇya*, *dhiṣaṇya*: *dhiṣaṇā* means speech (*vāk*). Because the Hotṛ sits near the deity and praises him in verses of praise, *dhiṣṇya* means "one who is praised". Or, according to धीसादिनीति वा धीसानिनीति वा (*dhīsādinīti vā dhīsāninīti vā*): *dhīḥ* means understanding or ritual work (sacrificial work), and since he is reached by understanding or ritual work he is *dhiṣṇya*; or since understanding or ritual work resides in him, or he gives them to those who worship him, the word *dhiṣṇya* may be so derived. *Dhiṣṇya* may also mean sacrificial work or the sacrificial ground. Here the prayer is that Soma be drunk in the sacrifice performed by the priest called Neṣṭṛ.
+
+### Printed p. 324
+
+*Vanaspate* is a vocative addressed to Agni. How is Agni called by the name *vanaspati*? Yāska says (as supplied): एष हि वनानां पाता ना पालयिता वा (*eṣa hi vanānāṃ pātā nā pālayitā vā*) [sic, as supplied; *nā* for *vā*?] — the passage goes on to say that, although Agni is within the forest trees and able to burn them, he does not burn them, and so is their protector. The word *vana* is derived from a root meaning "to be, to dwell". Here *vanaspati* means the lord or protector of trees: Agni, though dwelling within trees, does not burn them but guards them, and is therefore called *vanaspati*, protector of trees.
+
+ऋतुभिः—कालैः (*ṛtubhiḥ—kālaiḥ*): *ṛtus* are definite periods of time. If a year is divided into six equal parts, each part, containing two months, indicates a fixed period of time; such a period is described by the word *ṛtu*.
+
+*[Software-generated line in the supplied text, removed from the Kannada text: "This image contains no text. It shows a decorative squiggly line or border." Noted, not translated.]*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अपा॑द्दो॒त्रादु॒त पो॒त्राद॑मत्तो॒त ने॒ष्ट्राद॑जुषत॒ प्रयो॑ हि॒तं ।
+> तु॒रीयं॒ पात्र॒ममृ॑क्त॒मम॑र्त्यं द्रविणो॒दाः पि॑बतु द्राविणो-॒
+> दसः ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अपात् । होत्रात् । उत । पोत्रात् । अमत्त । उत । नेष्ट्रात् । अजुषत । प्रयः ।
+> हितं ।
+> तुरीयं । पात्रं । अमृक्तं । अमर्त्यं । द्रविणःदाः । पिबतु । द्राविणःदसः ॥ ४ ॥
+
+> *apāt | hotrāt | uta | potrāt | amatta | uta | neṣṭrāt | ajuṣata | prayaḥ |*
+> *hitaṃ |*
+> *turīyaṃ | pātraṃ | amṛktaṃ | amartyaṃ | draviṇaḥdāḥ | pibatu | drāviṇaḥdasaḥ ‖ 4 ‖*
+
+### Printed p. 325
+
+**॥ सायणभाष्यम् ॥**
+
+> अच्छावाकस्येयं । यो द्रविणोदा होत्राद्दोतुर्यागात् सोममपात्
+> पीतवान् उत किंच पोत्रात्पोतुर्यागादमत्त सोमं पीत्वामाद्यत् । उत आपि
+> च नेष्ट्रात् नेष्टुर्यागाद्धितं दत्तं प्रयो देवानामन्न रूपं सोममजुषत ।
+> आसेविष्ट । स द्राविणोदसो हवीरूपद्रविणस्य प्रदातृभ्य ऋत्विग्यो हितः ॥ ऋत्वि-
+> जोऽत्र द्रविणोदस उच्यंते हविषो दातारस्ते चैनं जनयंति । नि. ८-२ । इति
+> यास्केनोक्तत्वात् ॥ तादृशो द्रविणोदा अमृतं दशापवित्रॆणामृष्टममर्त्यम-
+> मरणसाधनं तुरीयं पात्रं चतुर्थपात्रस्थं सोमं पिबतु ॥
+
+*Gist:* This verse belongs to the Acchāvāka. Draviṇodas, who drank Soma at the Hotṛ's, Potṛ's and Neṣṭṛ's sacrifices, is asked to drink the unstrained, immortal Soma in the fourth cup.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yaḥ — which Draviṇodas. Hotrāt — in the sacrifice performed by the Hotṛ. Apāt — drank the Soma. Uta — and. Potrāt — in the sacrifice performed by the Potṛ. Amatta — was satisfied with drinking Soma. Uta — and. Neṣṭrāt — in the sacrifice performed by the Neṣṭṛ. Hitaṃ — offered. Prayaḥ — food-like for the gods, the Soma. Ajuṣata — enjoyed. (Saḥ — that Draviṇodas.) Draviṇodasaḥ — is for the priests who offer wealth in the form of oblations. Draviṇodāḥ — the same god. Amṛktaṃ — unhurt. Amartyaṃ — free of death. Turīyaṃ pātraṃ — contained in the fourth cup, the Soma. Pibatu — let him drink. (Spellings ಆಪಾತ್, ಆಮತ್ತ, ತುರಿಯಂ, ನೇಷ್ಟೃಕರ್ತಕವಾದ, ಅನ್ನ ಪ್ರಾಯದುದೂ kept as supplied.)
+
+**भावार्थ (Bhāvārtha)**
+
+The Draviṇodas who drank Soma in the sacrifice performed by the Hotṛ, was satisfied by drinking Soma in the sacrifice performed by the Potṛ, and enjoyed the Soma offered in the sacrifice performed by the Neṣṭṛ, which is like food for the gods, is there for the priests who offer wealth in the form of oblations. Let that same god drink the Soma that is unhurt, free of death and contained in the fourth cup.
+
+**Printed English translation**
+
+Whether he has drink [sic] the Soma from the offering of the Hotri ; whether he has been exhilarated by the offering of the Potri ; whether he has been pleased with the (sacrificial) food presented as the act of the Neshtri ; still let Dravinodas quaff the unstrained amborsial [sic] cup the forrth [sic] offered by the priest.
+
 ---
 
-**Progress note:** Done through printed p. 322 (PDF 322). pp. 320-322: Sūkta 37 Ṛk 2 (Pada onward) and Ṛk 3 through bhāṣya, Pratipadārtha and start of Bhāvārtha (kn.md window ends mid-sentence); flags: stray '21' line noted, supplied spellings (ಯೋಭಿಃ, ವೀಳೆಯಸ್ವ, ನೇಷ್ವಾತ್, ಸಹಃ, ಪಡಪೂರಣಃ, thc) kept as supplied
+**Progress note:** Done through printed p. 325 (PDF 325). pp. 323-325: end of Sukta 37 Rk 3 (Bhavartha end, Special Topics on medyantu/vahni/dhisnya/vanaspati/ritu) and Rk 4 through Bhavartha and printed English; flags: fixed garbled Bhavartha label and software-generated image line (noted); supplied spellings kept as supplied
