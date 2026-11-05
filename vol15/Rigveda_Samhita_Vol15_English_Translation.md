@@ -12580,6 +12580,100 @@ Somāpūṣaṇā (Soma + Pūṣan)—
 
 *[Note: in kn.md the twelve quotations of this page were made `>` blocks with the reference left on its own line. The last quotation is printed रयाणां (*rayāṇāṃ*) here as supplied (the bhāṣya on p. 388 has रयीणां (*rayīṇāṃ*)).]*
 
+### Printed p. 390
+
+*[Running head, p. 390: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 40.]*
+
+Somārudrā (Soma + Rudra)—
+
+*[Note: the heading is printed in the supplied text but no quotation follows it; none is supplied.]*
+
+Vātāparjanyā (Vāta + Parjanya)—
+
+> धर्कारो दिव ऋभवः सुहस्ता वातापर्जन्या महिषस्य तन्यतोः [?]
+
+> *dharkāro diva ṛbhavaḥ suhastā vātāparjanyā mahiṣasya tanyatoḥ [?]*
+
+(Ṛ. Saṃ. 10-66-10).
+
+*[Note: the first word of the quotation is धर्कारो (*dharkāro*) as supplied; marked [?]. In kn.md the quotations of this page were made `>` blocks with the reference left on its own line.]*
+
+Agnīṣomau (Agni + Soma)—
+
+> अग्नीषोमाविमं सु मे
+
+> *agnīṣomāvimaṃ su me*
+
+(Ṛ. Saṃ. 1-93-1).
+
+Agnīsarjanyā (Agni + Sarjanya) [sic: the heading reads सर्जन्य (*sarjanya*) where the quotation has पर्जन्य (*parjanya*)]—
+
+> अग्नीपर्जन्याववतं धियं मे
+
+> *agnīparjanyāvavataṃ dhiyaṃ me*
+
+(Ya. Saṃ. 6-52-16) [reference printed with the abbreviation य. सं. (*ya. saṃ.*) as supplied].
+
+Agnāviṣṇū (Agni + Viṣṇu)—
+
+> अग्नाविष्णू सजोषसा
+
+> *agnāviṣṇū sajoṣasā*
+
+(Tai. Saṃ. 4-7-1).
+
+There are many such *saṃstava* mantras in the Ṛgveda. There are also many Ṛks which, when indicating a pair of deities, do not use the dual number but use the singular separately for each. For example—
+
+> अग्न इंद्रश्च दाशुषे दुरोणे
+
+> *agna iṃdraśca dāśuṣe duroṇe*
+
+(Ṛ. Saṃ. 3-25-4).
+
+> त्वं नो अग्ने वरुणस्य विद्वान्
+
+> *tvaṃ no agne varuṇasya vidvān*
+
+(Ṛ. Saṃ. 4-1-4).
+
+> मरुतः पिबत ऋतुना
+
+> *marutaḥ pibata ṛtunā*
+
+(Ṛ. Saṃ. 1-15-2).
+
+and so on. In these Ṛks, although the pairs of deities Agni + Indra, Agni + Varuṇa, Marut + Ṛtu are indicated, the dual number has not been used. The deities are indicated separately, each in the singular.
+
+**Soma.** We have given explanations about the Soma plant many times. But everywhere there it was said that soma is the juice drawn from a kind of creeper called soma, that it gives enthusiasm and joy to those who drink it, and that, when the deities are invoked, they should come to the sacrificial ground and drink the soma juice; many such descriptions have been given. Apart from the ninth Maṇḍala, sūktas praising Soma as a deity are very rare in the other Maṇḍalas. All the sūktas of the ninth Maṇḍala praise only the deity Soma. On that occasion a detailed account of Soma is necessary, but a brief account here cannot be out of place.
+
+*[End of the page text; the note "..", a doubled full stop after स्तुतिसुवुदागिदॆ (*stutisuvudāgidè*), is printed as supplied.]*
+
+### Printed p. 391
+
+*[Running head, p. 391: Aṣṭaka 2, Adhyāya 8, Varga 6; Ṛgvedasaṃhitā 391.]*
+
+Since Soma sacrifices are the most important among the rites of the Ṛgveda, it is natural that the deity Soma too is one of the principal deities. The 114 sūktas of the ninth Maṇḍala and 6 other sūktas, 120 sūktas in all, praise the deity Soma. Parts of 4–5 sūktas, and 5–7 sūktas jointly with Indra, Agni, Pūṣan or Rudra, also praise the deity Soma. The name Soma occurs, alone or as part of a compound, about 120 times. In terms of number, the deity Soma stands third. Anthropomorphism is very sparing. Since the Soma plant and its juices are mentioned again and again, it is impossible to forget them entirely; hence references to the form, limbs or movements of that deity are also rare. Whatever deeds of prowess are mentioned are similar to those of other deities, and are colourless or subordinate. Like other deities, under the name Indu or Soma he too is invited to come to the sacrifice, sit on the *darbha* seat and accept the offerings. Throughout the ninth Maṇḍala the matter in hand is the Soma juice: pressing out the juice with stones, filtering it through a woollen sieve into wooden vessels, offering it to the deities as a drink through Agni (1-94-14; 5-51-1; 8-43-11 etc.), or its being drunk by the priests, and so on.
+
+The Soma juice is mixed in three ways (*trāśiraḥ*, 5-27-5): mixed with milk (*gavāśir*), mixed with curds (*dadhyāśir*) and mixed with barley (*yavāśir*). This mixing is called "putting on a garment" (*vastra*, *vāsaḥ*, *atka*); "*nirṇik*" (shining garment, 9-14-5) is also said. This word is also used of the sieve (9-70-7). For this reason Soma is described as beautiful (9-34-4; etc.) and as abundantly adorned with ornaments (9-81-2). Rarely a mixing with ghee (9-82-2) or with water is also mentioned; but the word *āśir* is not used for these.
+
+In the sacrifices *āpyāyana* (soaking again in water the half-pressed soma plants) is a rite (Mai. Saṃ. 4-5-5). In the Ṛgveda this root (*āpyā*) is used in connection with Soma, but here it is used to indicate that Soma is equal to the moon. Only in one place (9-31-4) might this sacrificial rite be indicated. It is said that the Soma juice swells like a river or the sea (9-64-8, 9-107-12).
+
+Soma is pressed three times a day. The Ṛbhu deities are invoked to the evening pressing (4-33-11 etc.), Indra alone (4-36-7) to the midday pressing (3-21-1 and 2; 8-37-1), and Indra, to drink first, to the morning pressing (10-112-1).
+
+*[Note: in kn.md two colons between references (after "3-21-1 and 2" on p. 391 and after "9-77-1" on p. 392) were changed to semicolons so that the check does not read them as one reference.]*
+
+### Printed p. 392
+
+*[Running head, p. 392: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 40.]*
+
+The Soma juice has an inexpressible power which ordinary food or drink does not have. By this power it invigorates men, or whoever drinks it, and makes them accomplish even deeds that are impossible for men. For that reason it is a divine drink, equal to nectar, and gives occasion to the idea that it is nectar itself. It would not be an exaggeration to say that those who drink it become immortal. It is the intoxicating drink dear to the deities (9-85-2) and the bestower of immortality (1-84-4); this juice, pressed by men and mixed with milk, is drunk by all the deities (9-109-15); by it they are quickly exhilarated (8-2-18) and, having drunk, become glad (8-58-11). Soma is eternal (1-43-9; 8-88-12; 9-3-1 etc.); the deities drank it to obtain immortality (9-106-8). He (the deity Soma) bestows immortality on the deities (1-91-6; 9-108-3) and on men (1-91-1; 8-48-3). In the imperishable world, the seat of everlasting radiance and glory, the dwelling-place of Vaivasvata, he makes his worshipper immortal and places him there (9-113-7 and 8).
+
+By drinking the Soma juice a man's enthusiasm increases. But the Soma juice is chiefly offered to the deities; therefore the joy and enthusiasm arising from Soma arise in the deities. The effect of the intoxication arising from Soma falls mostly on Indra. It helps Indra to subdue the hostile powers in the atmosphere. It is said many times that the special power and ability needed to fight Vṛtra came from the Soma juice (8-81-17 etc.). In the intoxication produced by the Soma juice Indra defeats all enemies (9-1-10), and no one can face in battle Indra who has drunk Soma (6-47-1). Soma is the very self of Indra (9-85-3); the auspicious Mitra (10-25-9) increases Indra's might (9-76-2) and helps in the slaying of Vṛtra (9-61-22). Accompanied by Soma, Indra made the waters flow for men and slew the serpent (4-28-1). Hence sometimes Soma itself is called Indra's thunderbolt (9-72-7; 9-77-1; 9-111-3). This Soma juice, belonging to Indra, becomes the thunderbolt that wins a thousand victories (9-47-3). The intoxicant that can destroy hundreds of strongholds is the Soma juice (9-48-2), and it is the plant that slays Vṛtra and intoxicates (6-17-11). In this way the deity Soma himself, like Indra, is called the slayer of Vṛtra and the breaker of strongholds (9-88-4). Indra's own epithet "Vṛtrahā" is applied to Soma five or six times.
+
+Because it is the most important plant, the Soma plant is called the lord of all plants (9-114-2), the king (9-97-18 and 19), the lord of the forest (*vanaspati*, 1-91-6; 9-12-7) and of all plants
+
+*[The text of p. 392 breaks off here, in mid-sentence, as supplied; it continues on p. 393.]*
+
 ---
 
-**Progress note:** Done through printed p. 389 (PDF 389). Sukta 39 Rk 8 Bhavartha, English, Special Topics; Sukta 40 (Soma-Pushan) introduction, Anuvada, Pithike begun (12 Samstavika quotations, p. 389). Flags: Sukta 40 bhashya/header lines kept as notes; bhashya sutra spelled rayinam/yanam/rayanam as supplied; Pithike text continues on p. 390
+**Progress note:** Done through printed p. 392 (PDF 392). Sukta 40 Pithike continues (Samstavika quotations end, Soma essay: sacrifice, mixing, three pressings, immortality, Indra); text of p. 392 ends mid-sentence. Flags: ಧರ್ಕಾರೋ [?]; Somarudra heading without quotation; Agnisarjanya heading vs parjanya; colons changed to semicolons
