@@ -9840,6 +9840,127 @@ The Ṛtuyāja oblations are of the nature of the breath. (This matter is also s
 > *tasmā etaṃ bharata tadvaśo dadirhotrātsomaṃ draviṇodaḥ piba*
 > *ṛtubhiḥ ‖ 1 ‖*
 
+### Printed p. 314
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 37, p. 314.*
+
+**॥ पदपाठः ॥**
+
+> मंदस्व । होत्रात् । अनु । जोषं । अंधसः । अध्वर्यवः । सः । पूर्णां । वष्टि ।
+> आसिचं ।
+> तस्मै । एतं । भरत । तत्त्ववशः । ददिः । होत्रात् । सोमं । द्रविणःदः । पिब ।
+> ऋतुभिः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे द्रविणोदो द्रविणसोधनस्य दातरेतन्नामक देव अंधसो देवानाम-
+> न्नरूपस्य सोमस्य सोमेन होत्रात् होतृकर्तृकाद्यागादनु जोषं प्रतिमनु
+> मंदस्व । हे अध्वर्यवः स द्रविणोदाः पूर्णां संपूर्णमासिचं सिच्यमानामा-
+> हुतिं वष्टि । कामयते । अतस्तस्मै द्रविणोदसेऽग्निय एतं सोमं भरत । प्राप-
+> यत । तद्वशस्तत्कामो द्रविणोदा ददिर्दाता युष्माकमभीष्टफलस्य दाता भवतीति
+> शेषः। किंच हे द्रविणोदो होत्रात् होतुर्यागात् ऋतुभिरिषमासाभिमानिभि-
+> र्यतुदेवैः सह सोमं पिब ॥
+
+*(Gist: O Draviṇodas, rejoice in the Soma-food of the Hotṛ's sacrifice; Adhvaryus, offer him the full libation, for he desires it and gives the wished-for fruit; drink Soma with the Ṛtu-deities.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Draviṇodaḥ — O Draviṇodas.) Hotrāt — from the sacrifice performed by the Hotṛ, obtained thereby; aṃdhasaḥ — with the food that is of the nature of Soma; anu joṣaṃ — being pleased; maṃdasva — be gratified. Adhvaryavaḥ — O Adhvaryus. Saḥ — that same Draviṇodas; pūrṇāṃ — full; āsicaṃ — oblation; vaṣṭi — desires. Tasmai — to that Draviṇodas; etaṃ — this Soma; bharata — bring and offer; tadvaśaḥ — that god who desires it; dadiḥ — is a giver of fruit! Draviṇodaḥ — O Draviṇodas; hotrāt — obtained from the sacrifice performed by the Hotṛ; somaṃ — Soma; ṛtubhiḥ — along with the Ṛtu-deities; piba — drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O Draviṇodas, being pleased with the food, of the nature of Soma, obtained from the sacrifice performed by the Hotṛ, be gratified. O Adhvaryus, that same Draviṇodas desires a full oblation. Offer this Soma to that Draviṇodas. That god, who desires it, is a giver of fruit. O Draviṇodas, drink the Soma obtained from the sacrifice performed by the Hotṛ together with the Ṛtu-deities.
+
+### Printed p. 315
+
+*Running head: Aṣṭaka 2, Adhyāya 8, Varga 1, Ṛgvedasaṃhitā, p. 315 (the first abbreviation is printed "ಅ." as supplied).*
+
+**Printed English translation**
+
+Be gratified, Dravinodas, by the sacrificial food presented as the offering of the Hotri; He desires, priests, a full libation ; present it to him, and influenced (by it, he will be your) benefactor : drink, Dravinodas, along with the Ritus, the Soma, the offering of the Hatri [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+द्रविणोदाः (*draviṇodāḥ*) — Yāska has written a detailed explanation of this word:
+
+> द्रविणोदाः । द्रविणोदाः कस्माद्धनं द्रविणमुच्यते । यदेनदभिद्रवंति ।
+> बलं वा द्रविणं यदेनेनाभिद्रवंति । तस्य दाता द्रविणोदाः ॥
+
+> *draviṇodāḥ | draviṇodāḥ kasmāddhanaṃ draviṇamucyate | yadenadabhidravaṃti |*
+> *balaṃ vā draviṇaṃ yadenenābhidravaṃti | tasya dātā draviṇodāḥ ‖*
+
+(Ni. 8-1)
+
+Here the derivation of the word द्रविणोदाः (*draviṇodāḥ*) is "one who gives draviṇa". The word द्रविण (*draviṇa*) has two meanings, wealth and strength. Therefore द्रविणोदाः (*draviṇodāḥ*) means one who gives wealth or strength. This is the meaning of the parts of the word. Besides this, Yāska gives the following explanation (nirvacana) of the Ṛk beginning द्रविणोदाः (*draviṇodāḥ*):
+
+> द्रविणोदा यस्त्वं । द्रविणस इति द्रविणसादिन इति वा द्रविणसानिन इति वा
+> द्रविणसस्तस्मात् पिबत्विति वा । यज्ञेषु देवमीळते । याचंति स्तुवंति,
+> वर्धयंति पूजयंतीति वा ॥
+
+> *draviṇodā yastvaṃ | draviṇasa iti draviṇasādina iti vā draviṇasānina iti vā*
+> *draviṇasastasmāt pibatviti vā | yajñeṣu devamīḷate | yācaṃti stuvaṃti,*
+> *vardhayaṃti pūjayaṃtīti vā ‖*
+
+That is: the priests who desire wealth, oblations and the like pray to you, called Draviṇodas, to drink the Soma in the sacrifices; this is the main sense. Although द्रविणोदाः (*draviṇodāḥ*) here is a nominative singular, how does it qualify the accusative singular देवं (*devaṃ*)? The words must be supplied so that the sense becomes: द्रविणोदा यः देवः तं देवं (*draviṇodā yaḥ devaḥ taṃ devaṃ*), "that god who is the giver of wealth". Of द्रविणसः (*draviṇasaḥ*) many meanings can be given: they ask for wealth or oblations for the worship of the deities, they praise, they worship.
+
+> तत्कथा द्रविणोदा इंद्र इति क्रौष्टुकिः ।
+> स बलधनयोर्दात्तमस्तस्य च सर्वा बलकृतिः ॥
+
+> *tatkathā draviṇodā iṃdra iti krauṣṭukiḥ |*
+> *sa baladhanayordāttamastasya ca sarvā balakṛtiḥ ‖*
+
+The word द्रविणोदाः (*draviṇodāḥ*) has now been explained by the meaning of its parts. But who is this deity Draviṇodas? It is Indra who is called Draviṇodas, because Indra is the one who gives in the highest degree strength and wealth, which the word द्रविण (*draviṇa*) denotes; therefore Indra himself should be called Draviṇodas. This is the opinion of one called Krauṣṭuki.
+
+### Printed p. 316
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 37, p. 316.*
+
+> अथाप्यग्निं द्रविणोदसमाहैष पुनरेतस्माज्जायते ।
+> यो अत्मनोरंतरग्निं जजान इत्यपि निगमो भवति ॥
+
+> *athāpyagniṃ draviṇodasamāhaiṣa punaretasmājjāyate |*
+> *yo atmanoraṃtaragniṃ jajāna ityapi nigamo bhavati ‖*
+
+Besides this, he gives another meaning for this word: Indra created heaven and earth, and in the middle of them he also created Agni; therefore the word द्रविणोदाः (*draviṇodāḥ*) may also be said to mean Agni. To support this meaning he has given as an example the Ṛk "अश्मनोरंतरग्निं जजान (*aśmanoraṃtaragniṃ jajāna*)" (the quoted Nirukta text above reads अत्मनोरंतरग्निं जजान (*atmanoraṃtaragniṃ jajāna*); the two readings differ in the supplied text, noted as supplied).
+
+> अथाप्यतुयाजेषु द्रविणोदसाः प्रवादा भवंति । तेषां पुनः पात्रस्येंद्र-
+> पानमिति भवति ॥ अथाप्येनं सोमपानेन स्तौति । अथाप्याह द्रविणोदाः
+> पिबतु द्रविणोदस इति ॥
+
+> *athāpyatuyājeṣu draviṇodasāḥ pravādā bhavaṃti | teṣāṃ punaḥ pātrasyeṃdra-*
+> *pānamiti bhavati ‖ athāpyenaṃ somapānena stauti | athāpyāha draviṇodāḥ*
+> *pibatu draviṇodasa iti ‖*
+
+In the sacrifices addressed to the Ṛtus, it is said that Indra drinks Soma from the vessel in the hands of the priests, and Indra is praised with mantras connected with Soma-drinking; hence there is a custom of calling the priests Draviṇodasas. All this is the opinion of Krauṣṭuki.
+
+> अयमेवाग्निर्द्रविणोदा इति शाकपूणिः अग्नेयेष्टेव हि सूक्तेषु द्रवि
+> होदसाः प्रवादा भवंति ॥
+
+> *ayamevāgnirdraviṇodā iti śākapūṇiḥ agneyeṣṭeva hi sūkteṣu dravi*
+> *hodasāḥ pravādā bhavaṃti ‖*
+
+Agni himself is Draviṇodas, according to Śākapūṇi; for in the hymns related to Agni the priests, when praising Agni, use the word द्रविणोदाः (*draviṇodāḥ*) as an epithet of Agni. (In the block the supplied text breaks the word at the line end as द्रवि (*dravi*) / होदसाः (*hodasāḥ*), as supplied.)
+
+> यथो एतत्स बलधनयोर्दातृतम इति सर्वासु देवतास्वैश्वर्यं विद्यते
+> यथो “ एतदोजसोजातमुतमन्य एनं ” इति चाहेत्ययमप्यग्नि-
+> रोजसा बलेन मध्यमानो जायते तस्मादेनमाह सहसस्पुत्रं सहसः
+> सूनुं सहसो यहुं ॥
+
+> *yatho etatsa baladhanayordātṛtama iti sarvāsu devatāsvaiśvaryaṃ vidyate*
+> *yatho “ etadojasojātamutamanya enaṃ ” iti cāhetyayamapyagni-*
+> *rojasā balena madhyamāno jāyate tasmādenamāha sahasasputraṃ sahasaḥ*
+> *sūnuṃ sahaso yahuṃ ‖*
+
+Lordship exists in all the deities; therefore Agni also gives strength and wealth, and because he gives strength and wealth Agni too may be called Draviṇodas. Moreover the word द्रविण (*draviṇa*) means strength. Because Agni is generated by churning with force (strongly), there is a tradition that Agni was born of strength. Therefore Agni is praised with the words सहसस्पुत्रं (*sahasasputraṃ*) (Sahasaḥ — of strength, putraṃ — the son, Agni), सहसः सूनुं (*sahasaḥ sūnuṃ*), सहसो यहुं (*sahaso yahuṃ*) —
+
+> द्रव्यः सर्पिरासुतिः प्रत्नो होता वरेण्यः ।
+> सहसस्पुत्रो अद्भुतः ॥
+
+> *dravyaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ |*
+> *sahasasputro adbhutaḥ ‖*
+
+(Ma. Saṃ. 2-7-6)
+
 ---
 
-**Progress note:** Done through printed p. 313 (PDF 313). pp. 311-313: Sūkta 37 introduction ends (Aitareya Brāhmaṇa on the Ṛtuyājas as prāṇa/apāna/vyāna, Āpastamba and Taittirīya quotations, no vaṣaṭkāra); Sūkta 37 summary and Ṛk 1 Saṃhitā only (Pada not yet reached); open flags: garbled opening word of the Brāhmaṇa quotation (p. 311), ನಮೇವ in the third quotation, ಪರಿಸಬೇಕೆಂಬ (p. 312) marked [?]
+**Progress note:** Done through printed p. 316 (PDF 316). pp. 314-316: Sūkta 37 Ṛk 1 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics on Draviṇodas (Nirukta 8-1 etc.); Ṛk 2 next; open flags: Nirukta quotations made > blocks by hand in kn.md; ಅಶ್ಮನೋ/ಅತ್ಮನೋ differ, kept as supplied; Pada ತತ್ತ್ವವಶಃ, ದ್ರವಿಣಃದಃ and 'ದ್ರವಿ/ಹೋದಸಾಃ' as supplied
