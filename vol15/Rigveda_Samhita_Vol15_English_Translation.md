@@ -11690,6 +11690,119 @@ May he, who is adored by men, the protector of the wives (of the gods), preserve
 
 नराशंसः—नरैः शंसनीयः (*narāśaṃsaḥ—naraiḥ śaṃsanīyaḥ*) ।—One praised by men. There is also a separate deity Narāśaṃsa. This deity is said to be a transformation of Agni. A detailed account of this deity we have given in the Āprī-sūktas (see Ṛ. Saṃ. part 8, page 546).
 
+### Printed p. 368
+
+*[Running head, p. 368: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 38.]*
+
+ग्नास्पतिः (*gnāspatiḥ*)—The word ग्नाः (*gnāḥ*) is read among the names of speech (Ni. 2-23) and among the names of women (Ni. 3-21). Yāska's explanation is also अपि च ग्ना व्यंतु देवपत्न्यः (*api ca gnā vyaṃtu devapatnyaḥ*) (Ni. 24-46) [as printed]. The commentator also cites the Vedic sentence छंदांसि वै ग्नाः (*chaṃdāṃsi vai gnāḥ*), that is, the metres too are called ग्ना (*gnā*). Therefore ग्नास्पतिः (*gnāspatiḥ*) may be taken as "the lord of the metres" or as "the husband of the gods' wives, that is, of the divine women". Yāska, citing the Ṛk
+
+> उत ग्ना व्यंतु देवपत्नीरिंद्राण्य १ ग्नाय्यश्विनी राट् ।
+> आ रोदसी वरुणानी शृणोतु व्यंतु देवीर्य ऋतुर्जनीनां ॥
+
+> *uta gnā vyaṃtu devapatnīriṃdrāṇya 1 gnāyyaśvinī rāṭ |*
+> *ā rodasī varuṇānī śṛṇotu vyaṃtu devīrya ṛturjanīnāṃ ‖*
+
+(Ṛ. Saṃ. 5-46-8)
+
+has stated the names of the gods' wives in his explanation:
+
+> अपि च ग्ना व्यंतु देवपत्न्यः । इंद्राणींद्रस्य पत्न्यग्नाय्यग्नेः पत्न्यश्विन्यश्विनोः पत्नि राट् राजते । रोदसी रुद्रस्य पत्नि । वरुणानी च वरुणस्य पत्नि ॥
+
+> *api ca gnā vyaṃtu devapatnyaḥ | iṃdrāṇīṃdrasya patnyagnāyyagneḥ patnyaśvinyaśvinoḥ patni rāṭ rājate | rodasī rudrasya patni | varuṇānī ca varuṇasya patni ‖*
+
+(Si. 12-46) [as printed]
+
+That is: Indra's wife is called Indrāṇī, Agni's wife Agnāyī, the wife of the Aśvin gods Aśvinī, Rudra's wife Rodasī, and Varuṇa's wife Varuṇānī.
+
+*[Note: in kn.md the two Sanskrit quotations above, printed as prose in the supplied text, were made `>` blocks with their references on their own lines; a line break with hyphen inside the second (पत्न्यश्विन्य- / श्विनोः (*patnyaśvinya- / śvinoḥ*)) was joined; the readings इंद्राण्य १ ग्नाय्यश्विनी (*iṃdrāṇya 1 gnāyyaśvinī*) in the first and the reference letter सि. (*si.*) (for the Nirukta) are kept as supplied.]*
+
+The main purport: this god Savitṛ is worshipful and worthy of meditation, praised by men, the guardian of the gods' wives or the lord of the metres. May Savitṛ protect us who worship such a god. The meaning stated is that we, by worshipping this Savitṛ for the gain of wealth and the obtaining of cattle, may become the objects of his love.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मभ्यं॒ तद्दि॒वो अ॒द्भ्यः पृ॑थि॒व्यास्त्वया॑ द॒त्तं काम्यं॒ राध॒ आ गा॑त् ।
+> शं यत्सो॒तृभ्य॑ आ॒पये॒ भवा॑त्युरु॒शंसा॑य सवितर्जरि॒त्रॆ ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्मभ्यं । तत् । दिवः । आर्‍भ्यः । पृथिव्याः । त्वया । दत्तं । काम्यं । राधः । आ ।
+> गात् ।
+> शं । यत् । स्तोतृभ्यः । अपये । भवाति । उरुशंसाय । सवितः । जरित्रे ॥ ११ ॥
+
+> *asmabhyaṃ | tat | divaḥ | ārbhyaḥ | pṛthivyāḥ | tvayā | dattaṃ | kāmyaṃ | rādhaḥ | ā |*
+> *gāt |*
+> *śaṃ | yat | stotṛbhyaḥ | apaye | bhavāti | uruśaṃsāya | savitaḥ | jaritre ‖ 11 ‖*
+
+*[Note: the Pada as supplied reads आर्‍भ्यः (*ārbhyaḥ*) after दिवः (*divaḥ*), where the Saṃhitā and the Pratipadārtha have अद्भ्यः (*adbhyaḥ*) and अदृश्यः (*adṛśyaḥ*); kept as supplied, for the user to settle. The Pada's आ । गात् (*ā | gāt*) is split over two lines in the supplied text.]*
+
+### Printed p. 369
+
+*[Running head, p. 369: A. 2, A. 8, Va. 3, Ṛgvedasaṃhitā (the first abbreviation printed अ. (*a.*) for Aṣṭaka, as supplied).]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सवितः अस्मभ्यं त्वया दत्तं तत् प्रसिद्धं काम्यं कमनीयं राधो धनं
+> दिवो द्युलोकात् अद्भो०तरिक्षलोकात् पृथिव्या भूमेश्चा गात् । आगच्छतु ।
+> किंच स्तोतृभ्यः स्तोतृणामापये बंधवे तद्वंशजाय यद्धनं शं सुखकरं
+> भवाति भवेत् उरुशंसाय बहुस्तुतये जरित्रे स्तोत्रे मह्यं ॥ जरिता कारुरिति
+> स्तोतृनामसु पाठात् ॥ हे सवितः तत्पयच्छ ॥
+
+*Gist: Savitṛ, may the coveted wealth you give come to us from heaven, atmosphere and earth; may the wealth that brings happiness to the praisers' kin be mine, the praiser.*
+
+*[Note: the bhāṣya as supplied reads अद्भो०तरिक्षलोकात् (*adbho0tarikṣalokāt*); kept as supplied.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सवितः (*savitaḥ*)—O Savitṛ; अस्मभ्यं (*asmabhyaṃ*)—to us; त्वया (*tvayā*)—by you; दत्तं (*dattaṃ*)—that which is given; तत् (*tat*)—the well-known; काम्यं (*kāmyaṃ*)—the attractive; राधः (*rādhaḥ*)—wealth; दिवः (*divaḥ*)—from the heavenly world; अदृश्यः (*adṛśyaḥ*) [as supplied; evidently meant for अद्भ्यः (*adbhyaḥ*)]—from the atmosphere; पृथिव्याः (*pṛthivyāḥ*)—from the earth; आ गात् (*ā gāt*)—may it come and join; स्तोतृभ्यः (*stotṛbhyaḥ*)—of those who praise you; आपये (*āpaye*)—to the kinsfolk; यत् (*yat*)—which wealth; शं (*śaṃ*)—as happiness-bringing; भवाति (*bhavāti*)—becomes; (तत् (*tat*)—that); उरुशंसाय (*uruśaṃsāya*)—to me who praises you greatly; जरित्रे (*jaritre*)—a devotee, the praiser (may it be obtained).
+
+**भावार्थ (Bhāvārtha)**
+
+O Savitṛ, may the wealth given by you, well known and attractive, come and join me from the heavenly world, from the atmosphere and from the earth. The very wealth that becomes a source of happiness to the kinsfolk of those who praise you, may it be obtained also by me, who worship you and am your praiser.
+
+**Printed English translation**
+
+May that desirable wealth which is granted to us, Savitri, by you proceed from the sky, from the waters, from the earth; and may the happiness (which belongs) to the race of those who eulogise you, devolve upon me, repeating diligently you [sic] praises.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अद्भ्यः—अंतरिक्षलोकात् (*adbhyaḥ—aṃtarikṣalokāt*)—Since the word अप् (*ap*) is read among the names of the atmosphere (Ni. 2-10), अद्भ्यः (*adbhyaḥ*) means "from the atmospheric world".
+
+राधः (*rādhaḥ*)—Since the word राधः (*rādhaḥ*) is read among the names of wealth (Ni 3-9) [as printed, without the full stop], राधः (*rādhaḥ*) means wealth.
+
+*[Printed at the foot of p. 369: the stray figure "24" (a signature number), kept as an italic note.]*
+
+### Printed p. 370
+
+*[Running head, p. 370: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 38.]*
+
+आपॆये—बंधवे तद्वंशजाय (*āpèye—baṃdhave tadvaṃśajāya*)—[The Kannada text spells the headword आपॆये (*āpèye*), as supplied.] To the kinsfolk, and also to those born in their line.
+
+उरुशंसाय—बहुस्तुतये (*uruśaṃsāya—bahustutaye*)—The word उरु (*uru*) is read among the names of "much" (Ni. 3-13). The meaning is: to one who praises you in many ways.
+
+जरित्रे—स्तोत्रे मह्यं (*jaritre—stotre mahyaṃ*)—To me who am praising; the word जरिता (*jaritā*) is read among the names of praisers (Ni. 3-19).
+
+The main purport: O god Savitṛ, whatever wealth you give to other praisers, obtainable from earth, atmosphere and heaven, give such wealth to me, who praise you in many ways, and to my kinsfolk. May happiness come to me through that attractive wealth that you give.
+
+*The thirty-ninth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> ग्रावेणेवेत्यष्टर्चं सप्तमं सूक्तं गार्त्समदं त्रैष्टुभमाश्विनं ग्रावाणेनाष्टावाश्विनमित्यनुक्रांतत्वात् ॥ प्रवर्ग्येऽभिष्टवे पूर्वे पटलेऽस्य विनियोगः ।
+> सूत्रितं च । ग्रावाणेवेळे द्यावापृथिवी । आ. ४-६ । इति ॥ प्रातरनुवाकाश्विनशस्त्रयोरपीदं सूक्तं । सूत्रितं च । ग्रावाणेव नासत्याभ्यामिति त्रीणि । आ. ४-१५ । इति ॥
+
+> *grāveṇevetyaṣṭarcaṃ saptamaṃ sūktaṃ gārtsamadaṃ traiṣṭubhamāśvinaṃ grāvāṇenāṣṭāvāśvinamityanukrāṃtatvāt ‖ pravargye 'bhiṣṭave pūrve paṭale 'sya viniyogaḥ |*
+> *sūtritaṃ ca | grāvāṇeveḷe dyāvāpṛthivī | ā. 4-6 | iti ‖ prātaranuvākāśvinaśastrayorapīdaṃ sūktaṃ | sūtritaṃ ca | grāvāṇeva nāsatyābhyāmiti trīṇi | ā. 4-15 | iti ‖*
+
+**Anuvāda (Kannada).** The sūkta beginning *Grāṇeva* [as supplied; the Sanskrit above has ग्रावेणेव (*grāveṇeva*)] is the seventh sūkta in the fourth anuvāka. It has eight ṛks. Gṛtsamada is the seer of this sūkta; the Aśvin gods are the deity; the metre is *triṣṭubh*. The Anukramaṇikā says: ग्राणेवाष्टावाश्विनं (*grāṇevāṣṭāvāśvinaṃ*) ("*Grāṇeva*, eight, addressed to the Aśvins" [the supplied text has ग्राणे (*grāṇe*) here]). Its application is in the Pravargya sacrifice, in the Abhiṣṭava in the earlier *paṭala*, as explained by the sūtra ग्राणेवेळे द्यावापृथिवी (*grāṇeveḷe dyāvāpṛthivī*) (Ā. 4-6) of the Āśvalāyana Śrauta Sūtra [as supplied]; and its application in the Prātaranuvāka and in the recitation of the Āśvina *śastra* is explained by the sūtra ग्राणेव नासत्याभ्यामिति त्रीणि (*grāṇeva nāsatyābhyāmiti trīṇi*) (Ā. 4-15).
+
+*[Note: in kn.md the Sanskrit introduction was made a `>` block with an inserted label सायणभाष्यं (*sāyaṇabhāṣyaṃ*), and two hyphenated line breaks were joined.]*
+
+**Sūkta 39** — the heading lines of the supplied text: Sūkta 39; Maṇḍala 2, Anuvāka 4, Sūkta 39; Aṣṭaka 2, Adhyāya 8, Varga 4, 5 (as printed). Number of ṛks in the sūkta: 8 (printed मुक्संख्यॆ (*muksaṃkhyè*), as supplied). Seer: printed महिषि—गृत्समदः (*mahiṣi—gṛtsamadaḥ*) ("mahiṣi", as supplied, for ṛṣi): Gṛtsamada. Deity: Aśvins. Metre: Triṣṭubh.
+
 ---
 
-**Progress note:** Done through printed p. 367 (PDF 367). Sukta 38: Special Topics of Rk 9 finished (Aditya numbers, Aryaman, Rudra); Rk 10 complete incl. Special Topics begun (Purandhi, Narashamsa), text ends p. 367 after Narashamsa; flags: 6 Sanskrit quotations made > blocks, ma. for r. kept as supplied, Pada numbered 11 vs Samhita 10 and Pada readings gnapatih/rayanam/savishuh differ from Samhita, Rk 10 label inserted in kn.md
+**Progress note:** Done through printed p. 370 (PDF 370). Sukta 38 Rk 10 Special Topics finished (Gnaspati), Rk 11 complete, Sukta 39 introduction begun (no Rk yet); flags: Pada reads arbhyah and Pratipadartha adrishyah against Samhita adbhyah, bhashya adbho-ntariksha as supplied, Nirukta ref letter si. and Ni. 24-46 as printed, Anuvada grane-va vs Sanskrit grave-nevа, 2 quotations made > blocks, stray figure 24 kept as note
