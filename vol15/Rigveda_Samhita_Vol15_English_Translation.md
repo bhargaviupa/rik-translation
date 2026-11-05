@@ -9044,6 +9044,88 @@ I:have [sic] come, Agni, to you, (the giver) of good dwellings. for the sake of 
 
 The meaning of the first half of this Ṛk may be said to be a prayer of the seer who saw the mantra, and that of the second half a prayer of the sacrificers (who perform the sacrifice).
 
+### Printed p. 288
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 35, p. 288.*
+
+[Continuing the Special Topics of Ṛk 15:] Addressing Agni with अग्ने (*agne*), the commentary says सुकृतिं जनाय आयासं (*sukṛtiṃ janāya āyāsaṃ*): "I have approached (you of) an excellent dwelling, for the birth of our sons and others"; that is, it is prayed that Agni, who has an excellent abode, may cause sons and others to be born to us who serve him. Here, for the word जनाय (*janāya*) the meaning पुत्रादिजननं (*putrādijananaṃ*), "the birth of sons and others", is given. Although the word मघ (*magha*) is listed among the names of wealth (Nighaṇṭu 3-9), for the word मघवद्भ्यः (*maghavadbhyaḥ*) the commentary gives हविर्लक्षणधनयुक्तेभ्यः (*havirlakṣaṇadhanayuktebhyaḥ*), "for those who possess wealth in the form of oblations", i.e. for the sacrificers; and it explains that an excellent hymn concerning Agni is recited for them.
+
+The prayer that we sacrificers make to Agni is this: यत् भद्रं सर्वे देवाः अवंति (*yat bhadraṃ sarve devāḥ avaṃti*), "the good which all the gods desire and protect" — may that good also come to us sacrificers. So it is expressed.
+
+## Sūkta 36 (Maṇḍala 2)
+
+*The thirty-sixth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> तुभ्यमिति षडृचं चतुर्थं सूक्तं गार्त्समदं जागतं । प्रथमाया इंद्रो
+> मधुश्च देवता । द्वितीयाया मरुतो माधवश्च । तृतीयायास्त्वष्टा शुक्रश्च ।
+> चतुर्थ्या अग्निः शुचिश्च । पंचम्या इंद्रो नभश्च । षष्ठ्या मित्रावरुणौ नभस्यश्च ॥ तथा
+> चानुक्रांतं । तुभ्यं षडृतव्यं तु जागतं त्विति ॥ दशरात्रे षष्ठेऽहनि ऋतुयाजेषु
+> ऋक्शिरस्कैः प्रैषैः प्रेषितव्यं यष्टव्यं च । तताद्यानां षण्णां प्रैषाणामुपरि-
+> ष्वादेव ताः षडृचोऽहोरात्रादिभिः क्रमेणावपनीयाः । तथा च सूत्रितं ।
+> उपरिष्टात्त्वृच ऋतुयाजानामित्युपक्रम्य तुभ्यं हिन्वानो वसिष्ट गा अप इति
+> द्वादशेत्यंतेन । आ. ८-१. ॥
+
+*Gist:* the fourth sūkta of the fourth anuvāka, of six ṛks, of the Gārtsamada seer, in *jagatī*; the deities of the six ṛks are listed (Indra and Madhu; the Maruts and Mādhava; Tvaṣṭṛ and Śukra; Agni and Śuci; Indra and Nabha; Mitra-Varuṇa and Nabhasya); the Anukramaṇī is quoted; the use is in the Ṛtuyājas of the sixth day of the Daśarātra, with the Āśvalāyana Śrauta-sūtra cited (8-1).
+
+**Anuvāda (Kannada).** This sūkta, तुभ्यं हिन्वानः (*tubhyaṃ hinvānaḥ*), is the fourth sūkta in the fourth anuvāka. It has six ṛks. Gṛtsamada is the seer of this sūkta; the metre is *jagatī*. For the first ṛk of this sūkta the deities are Indra and the month Madhu (the month of Caitra); for the second ṛk, the Marut deities and Mādhava, that is, the month of Vaiśākha; for the third ṛk, Tvaṣṭṛ and Śukra, or the month of Jyeṣṭha; for the fifth ṛk, Indra and Nabha, or the month of Śrāvaṇa; for the sixth ṛk, Mitra and Varuṇa and Nabhasya, or the month of Bhādrapada. [The fourth ṛk, Agni and Śuci, is not mentioned in the Kannada here as supplied.]
+
+### Printed p. 289
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 25, p. 289 (the Kannada text prints the first abbreviation as "ಅ." as supplied).*
+
+What the Anukramaṇikā says is: तुभ्यं षडृतव्यं तु जागतं त्विति (*tubhyaṃ ṣaḍṛtavyaṃ tu jāgataṃ tviti*). On the sixth day of the sacrifice called Daśarātra, when the oblations called Ṛtuprayājas are made, the ṛks of this sūkta are to be used both as Praiṣa mantras and as Yājyā mantras. Of the Praiṣa mantras, the use of the six ṛks of this sūkta is stated for the first six. Thereafter, the same six ṛks are to be used, in order, in the days and nights for the Āvapanīya mantras; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra beginning उपरिष्टात्त्वृच ऋतुयाजानामित्युपक्रम्य (*upariṣṭāttvṛca ṛtuyājānāmityupakramya*) and ending तुभ्यं हिन्वानो वसिष्ठ गा अप इति द्वादशेत्यंतेन (*tubhyaṃ hinvāno vasiṣṭha gā apa iti dvādaśetyaṃtena*) (Ā. 8-1).
+
+**Sūkta 36** — Maṇḍala 2, Anuvāka 4, Sūkta 36; Aṣṭaka 2, Adhyāya 7, Varga 25. Number of ṛks in the sūkta: 6. Seer: Gṛtsamada. Deities: 1. Indra and Madhu; 2. the Maruts and Mādhava; 3. Tvaṣṭṛ and Śukra; 4. Agni and Śuci; 5. Indra and Nabha; 6. Mitra-Varuṇa and Nabhasya. Metre: *jagatī*. (The supplied text has stray figures "५" before and after the metre line; not read.)
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> तुभ्यं॑ हिन्वा॒नो व॑सिष्ट॒ गा अ॒पोऽधु॑क्षन्नी॒मवि॑भि॒रद्रि॑भि॒र्नरः॑ ।
+> पिबें॑द्र॒ स्वाहा॒ प्रहु॑तं॒ वष॑ट्कृतं हो॒त्रादा सोमं॑ प्रथ॒मो॑
+> य ईशिषे ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> तुभ्यं । हिन्वानः । वसिष्ट । गाः । अपः । अधुक्सन् । सीं । अविभिः । अद्रिभिः । नरः ।
+> पिब । इंद्र । स्वाहा । प्रहुतं । वषट्कृतं । होत्रात् । आ । सोमं । प्रथमः ।
+> यः । ईशिषे ॥ १ ॥
+
+> *tubhyaṃ | hinvānaḥ | vasiṣṭa | gāḥ | apaḥ | adhuksan | sīṃ | avibhiḥ | adribhiḥ | naraḥ |*
+> *piba | iṃdra | svāhā | prahutaṃ | vaṣaṭkṛtaṃ | hotrāt | ā | somaṃ | prathamaḥ |*
+> *yaḥ | īśiṣe ‖ 1 ‖*
+
+### Printed p. 290
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 36, p. 290.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र तुभ्यं त्वदर्थं हिन्वानः प्रेर्यमाणः सोमो गा गोविकाराणि
+> दधिपयःप्रभृतीनि श्रपणद्रव्याणि वसतीवर्याख्या अपश्च वसिष्ट!! वस्ते । आच्छादयति ।
+> तैः संयुज्यत इत्यर्थः । नरो यज्ञस्य नेतारोऽध्वर्यवश्च सीमेनं सोममवि-
+> भिरवेर्वालमय्यर्दशापवित्रैरद्रिभिग्र्रावभिश्चाधुक्सन् । अक्षारयन् । ग्रावभिरभिषुत्य
+> दशापवित्रेण पुनंतीत्यर्थः । हे इंद्र यस्त्वमीशिषे । सर्वस्य जगत ईश्वरो भवसि
+> त्वं प्रथमोऽन्येभ्यो देवेभ्यः पूर्वभावी सन् स्वाहा स्वाहाकारेण प्रहुतं
+> प्रकर्षणाग्नौ क्षिप्तं वषट्कृतं वषट्कारेण च त्यक्तं तं सोमं होत्राद्दोतु-
+> र्यागादा समंतात्पिब ॥
+
+*Gist: Indra, the Soma pressed for you is mixed with milk products and waters; the priests have pressed it with stones and strained it; you, lord of the world, drink it first, from the Hotṛ's sacrifice.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra. तुभ्यं (*tubhyaṃ*)—for you. हिन्वानः (*hinvānaḥ*)—the Soma that has been pressed. गाः (*gāḥ*)—the products of the cow, milk and the like. अपः (*apaḥ*)—the waters, the Vasatīvarī and others. वसिष्ठ (*vasiṣṭha*)—has joined with (them). नरः (*naraḥ*)—the leaders, the Adhvaryus. सीं (*sīṃ*)—this Soma. आविभिः (*āvibhiḥ*)—with the ten-fold filters [as supplied]. अद्रिभिः (*adribhiḥ*)—with stones. अधुक्सन् (*adhuksan*)—have pressed and strained. इंद्र (*iṃdra*)—O Indra. यः (*yaḥ*)—you who. ईशिषे (*īśiṣe*)—are lord of the whole world (such as you are). प्रथमः (*prathamaḥ*)—before the other gods. स्वाहा (*svāhā*)—with the cry Svāhā. प्रहुतं (*prahutaṃ*)—cast into the fire. वषट् कृतं (*vaṣaṭ kṛtaṃ*)—offered with the cry Vaṣaṭ. सोमं (*somaṃ*)—the Soma. होत्रात् (*hotrāt*)—receiving it from the Hotṛ's sacrifice. आ पिब (*ā piba*)—drink.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, the Soma pressed for you is joined with the products of the cow, such as milk, and with waters such as the Vasatīvarī. The leaders, the Adhvaryus, have pressed this Soma with the pressing stones and strained it with the ten-fold filters. O Indra, you who are lord of the whole world, coming before the other gods, receive from the Hotṛ's sacrifice the Soma that has been cast in with the cry Svāhā and purified with the cry Vaṣaṭ, and drink it.
+
+**Printed English**
+
+(The libation) that is being presented, Indra, to you, comprises the (products of the) cow, and the (consecrated) water ; and the leaders (of the rite) have expressed it with stones, and strained it through woollen (filters) : Indra, you are the first (of the gods), and rule (over the world), drink the Soma offered [printed "off ered"] by the Hotri, and sanctificed [sic] bythe [sic] exclamations Swaha and Vashat.
+
 ---
 
-**Progress note:** Done through printed p. 287 (PDF 287). Sūkta 35 Ṛk 14 complete, Ṛk 15 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics complete (p. 287); kn.md fixes: garbled Bhāvārtha labels (ಭವಾರ್ಥ, ಭಾನುವಾರ) replaced by standard; OCR slips kept: ಧೃತಂ, ತಸ್ಥಿಂವಾಂಸಂ, ಶೀಲ್ಕೆಃ, ಅಧ್ವಸ್ಮಭಿ, ಮಘವತ್ಸ್ಭ್ಯಃ; accent DIFF 1 line
+**Progress note:** Done through printed p. 290 (PDF 290). Sūkta 35 closed (Special Topics of Ṛk 15 continued, p. 288); Sūkta 36 intro, Anuvāda, Ṛk 1 complete (p. 290); kn.md fixes: sūkta intro Sanskrit made a > block, stray '19' line removed; OCR slips kept: ವಸಿಷ್ಟ!!, ಆವಿಭಿಃ spelling; stray ೫ marks around the metre line; accent DIFF 2, 1 line unmatched
