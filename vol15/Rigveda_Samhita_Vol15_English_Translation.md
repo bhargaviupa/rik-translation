@@ -563,6 +563,116 @@ having been cited (by Yāska), he explains it thus: निवृणक्षि 
 > *aśmāsyamavataṃ brahmaṇaspatirmadhudhāramabhi yamojasātṛṇat |*
 > *tameva viśve papire svardṛśo bahu sākaṃ sisicurutsamudriṇaṃ ‖ 4 ‖*
 
+### Printed p. 21
+
+*Running head: [A. 2 A. 7. V. 1.] Ṛgveda-saṃhitā, p. 21 (as supplied).*
+
+**॥ पदपाठः ॥**
+
+> अश्वआस्यं । अवतं । ब्रह्मणः । पतिः । मधुधारं । अभि ! यं । ओजसा । अतृणत् ।
+> तं । एव । विश्वे । पपिरे । स्वःदृशः । बहु । साकं । सिसिचुः । उत्सं । उद्रिणं ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> ब्रह्मणस्पतिर्ब्रह्मणो मंत्रस्य पतिः पालयिता देवोSश्मास्यमश्नवद्दृढत-
+> रास्यं । यास्कस्त्वाह । अशनवंतमास्यंदनवंतं । नि. १०-१३ । इति । व्यापनवंतमा-
+> सेचनवंतमिति तस्यार्थः । मधुधारं मधुर्मादयित्रि उदकधारा यस्य
+> तादृशमवतमवस्तात्ततं विस्तृतं यं मेघमोजसा बलेनाभ्यतृणत् ॥ उत्कृदिर्
+> हिंसानादरयोः ॥ अहिंसीत् । वर्षणार्थमवधीदित्यर्थः । तमेव मेघं विश्वे
+> सर्वॆ स्वर्दृशः । स्वरादित्यः । तस्य संबंधिनो द्रष्टारो रश्ययः पपिरे । घर्मकाले
+> पिबंति । मेघन वृष्टस्योदकस्य पानात्तमेव पिबंतीत्युच्यते । ते च रश्मयो
+> वर्षासूत्समुत्सेचनवंतमुद्रिणमुदकवंतं मेघं साकं सह युगपदेव बहु
+> सिसिचुः । घर्मकाले यत्पीतं ततोSपि बहुतरं सहस्रगुणितं सिंचंतीत्यर्थः ॥
+
+> *brahmaṇaspatirbrahmaṇo maṃtrasya patiḥ pālayitā devoSśmāsyamaśnavaddṛḍhata-*
+> *rāsyaṃ | yāskastvāha | aśanavaṃtamāsyaṃdanavaṃtaṃ | ni. 10-13 | iti | vyāpanavaṃtamā-*
+> *secanavaṃtamiti tasyārthaḥ | madhudhāraṃ madhurmādayitri udakadhārā yasya*
+> *tādṛśamavatamavastāttataṃ vistṛtaṃ yaṃ meghamojasā balenābhyatṛṇat ‖ utkṛdir*
+> *hiṃsānādarayoḥ ‖ ahiṃsīt | varṣaṇārthamavadhīdityarthaḥ | tameva meghaṃ viśve*
+> *sarvè svardṛśaḥ | svarādityaḥ | tasya saṃbaṃdhino draṣṭāro raśyayaḥ papire | gharmakāle*
+> *pibaṃti | meghana vṛṣṭasyodakasya pānāttameva pibaṃtītyucyate | te ca raśmayo*
+> *varṣāsūtsamutsecanavaṃtamudriṇamudakavaṃtaṃ meghaṃ sākaṃ saha yugapadeva bahu*
+> *sisicuḥ | gharmakāle yatpītaṃ tatoSpi bahutaraṃ sahasraguṇitaṃ siṃcaṃtītyarthaḥ ‖*
+
+Gist: Brahmaṇaspati, the lord of the mantra, split with his strength the hard, water-streaming cloud that hangs downward; the sun's rays drink its water in the hot season and in the rains pour it down again in abundance.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati. अश्मास्यं (*aśmāsyaṃ*)—hard like a stone; मधुधारं (*madhudhāraṃ*)—full of water; अवतं (*avataṃ*)—hanging down, spread out and swaying; that यं (*yaṃ*)—which cloud; ओजसा (*ojasā*)—by his own strength; अभि अतृणत् (*abhi atṛṇat*)—he split open and divided! तमेव (*tameva*)—that very cloud (the water enclosed in the cloud); विश्वे (*viśve*)—all; स्पर्दृशः (*spardṛśaḥ*) (as supplied)—the rays of the sun; पपिरे (*papire*)—drink (in the hot season). (Again in the rainy season) उत्सं (*utsaṃ*)—in the form of a stream; उद्रिणं (*udriṇaṃ*)—full of water, that is the rain; साकं (*sākaṃ*)—gathering together; बहु (*bahu*)—abundantly; सिसिचुः (*sisicuḥ*)—they pour down.
+
+**भावार्थ (Bhāvārtha)**
+
+The cloud that is hard like a stone, full of water and hanging down, which Brahmaṇaspati split and divided by his strength: all the water enclosed in that cloud the sun's rays drink up in the summer. Again, in the rainy season, all of them gathering together pour down abundantly the rain, which is in the form of a stream and full of water.
+
+### Printed p. 22
+
+*Running head: [22] Sāyaṇa-bhāṣya-sahitā [Maṃ. 2. A. 3. Sū. 24.] (as supplied; the Maṇḍala figure is printed 2 in the supplied text).*
+
+**Printed English**
+
+That stone-like, solid, down-hanging, water-laden (cloud), which Bramhmanspathi has with his strength divided, the universal solar rays have drunk up: but they have again shed together the showering and water-spreading (rain).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अश्मास्यं (*aśmāsyaṃ*)—the text gives अश्ववद्दृढतरास्यं (*aśvavaddṛḍhatarāsyaṃ*) (as supplied; the bhāṣya has अश्नवद्दृढतरास्यं (*aśnavaddṛḍhatarāsyaṃ*)); Sāyaṇa's explanation is "very firm like a stone". Yāska, explaining this word, takes the present Ṛk itself as his example and explains: अशनवंतमास्यंदनवंतमवातितं (*aśanavaṃtamāsyaṃdanavaṃtamavātitaṃ*) (Nir. 10-13, printed "ಸಿ ೧೦-೧೩"). That is: व्यापनवंतमासेचनवंतमिति तस्यार्थः (*vyāpanavaṃtamāsecanavaṃtamiti tasyārthaḥ*), that is, a cloud that is pervaded with water and pours down rain. And for this Ṛk he gives the explanation:
+
+अशनवंतमास्यंदनवंतमवतितं ब्रह्मणस्पतिर्मधुधारमभियमोजसा बलेनाभ्यतृणत् तमेव सर्वॆ पिबंति रश्मयः सूर्यदृशो बह्वेनं सह सिंचंत्युत्समुद्रिणमुदकदंतं (*aśanavaṃtamāsyaṃdanavaṃtamavatitaṃ brahmaṇaspatirmadhudhāramabhiyamojasā balenābhyatṛṇat tameva sarvè pibaṃti raśmayaḥ sūryadṛśo bahvenaṃ saha siṃcaṃtyutsamudriṇamudakadaṃtaṃ*) (Nir. 10-13).
+
+The main idea is: this Brahmaṇaspati struck, with his power, the cloud that is full of water and hard as a stone, and made that cloud pour its sweet water downward on the earth. The rays of the sun drink up (suck up) that very water, that is, the water lying on the earth, and again pour it on the earth in the form of rain. When the sun's sharp rays fall upon the sea, rivers, lakes and other reservoirs on the earth, a part of the water in them is heated by the heat of the rays, spreads in the atmosphere as vapour and appears in the form of cloud. That this cloud again rains the water it holds upon the earth is known to all. Modern science also supports this. Therefore the origin of cloud and the causes of rain stated here accord with experience and with science.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> सना॒ ता का चि॒द्भुत॑ना॒ भवी॑त्वा मा॒द्भिः श॒रद्भि॒रुरो॑ वरंत वः ।
+> अय॑तंता चरतो अ॒न्यद॑न्य॒दिद्या च॒कार॑ व॒युना॒ ब्रह्म॑ण॒स्पतिः॑ ॥ ५ ॥
+
+> *sanā tā kā cidbhutanā bhavītvā mādbhiḥ śaradbhiruro varaṃta vaḥ |*
+> *ayataṃtā carato anyadanyadidyā cakāra vayunā brahmaṇaspatiḥ ‖ 5 ‖*
+
+### Printed p. 23
+
+*Running head: [A. 2. A. 7. V. 1.] Ṛgveda-saṃhitā, p. 23 (as supplied).*
+
+**॥ पदपाठः ॥**
+
+> सना । ता । का । चित् । भुवना । भवीत्वा। मार्त्भिः । शरत्भिः । दुरः । वरंत । वः।
+> अयतंता । चरतः । अन्यत् अन्यत् । इत् । या । चकार । वयुना । ब्रह्मणः । पतिः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ऋत्विग्यजमाना वो युष्मदर्थं सना सनातनानि ता तानि का चित् कानि
+> चित् ब्रह्मणस्पतेः प्रज्ञानानि भुवना भुवनानां ॥ सुपां सुलुगिति षष्ठ्या लुक् ॥
+> भुवनानामुदकानां भवीत्वा भाव्यानां दुरो द्वाराणि माद्भिर्मासैः ॥ पद्दन्नित्या-
+> दिना मासशब्दस्य मास्भावः । स्वतवस्थासोषसां च त इष्यते । पा. ७-४-४८-२. ।
+> इति तत्वं ॥ शरद्भिः संवत्सरैश्च वरंत । निवृण्वंति । तत्काले वर्षणार्थं मेघद्वारा-
+> ण्युद्वाटयंतीत्यर्थः। कानि पुनस्तानि। ब्रह्मणस्पतियार्यानि वयुना॥ ज्ञाननामैतत् ॥
+> ज्ञानानि मंत्रविषयाणि चकार । कृतवान् । तदनंतरमयतंता अयतमानाव-
+> प्रयत्नावुभौ लोक् दौश्च पृथिवी च अन्यदन्यदित् अन्यदन्यदेव पृथिवी वृष्टिजलं
+> दिव्यमुदकं द्यौरुदककार्यं हनिर्लक्षणं पार्थिवमन्नं एवं परस्परव्यतिहारेण
+> चरतः । भुंजाते ॥ चर गतिभक्षणयोः ॥
+
+> *he ṛtvigyajamānā vo yuṣmadarthaṃ sanā sanātanāni tā tāni kā cit kāni*
+> *cit brahmaṇaspateḥ prajñānāni bhuvanā bhuvanānāṃ ‖ supāṃ sulugiti ṣaṣṭhyā luk ‖*
+> *bhuvanānāmudakānāṃ bhavītvā bhāvyānāṃ duro dvārāṇi mādbhirmāsaiḥ ‖ paddannityā-*
+> *dinā māsaśabdasya māsbhāvaḥ | svatavasthāsoṣasāṃ ca ta iṣyate | pā. 7-4-48-2. |*
+> *iti tatvaṃ ‖ śaradbhiḥ saṃvatsaraiśca varaṃta | nivṛṇvaṃti | tatkāle varṣaṇārthaṃ meghadvārā-*
+> *ṇyudvāṭayaṃtītyarthaḥ| kāni punastāni| brahmaṇaspatiyāryāni vayunā‖ jñānanāmaitat ‖*
+> *jñānāni maṃtraviṣayāṇi cakāra | kṛtavān | tadanaṃtaramayataṃtā ayatamānāva-*
+> *prayatnāvubhau lok dauśca pṛthivī ca anyadanyadit anyadanyadeva pṛthivī vṛṣṭijalaṃ*
+> *divyamudakaṃ dyaurudakakāryaṃ hanirlakṣaṇaṃ pārthivamannaṃ evaṃ parasparavyatihāreṇa*
+> *carataḥ | bhuṃjāte ‖ cara gatibhakṣaṇayoḥ ‖*
+
+Gist: the eternal wisdom-deeds of Brahmaṇaspati open, month by month and year by year, the doors of the coming waters (rain) for the sacrificers; heaven and earth, unexerted, exchange water and offering-food.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O priests and sacrificers) ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati; या (*yā*)—which; वयुना (*vayunā*)—knowledge-endowed acts; चकार (*cakāra*)—did (as the fruit of the mantra recitation); सना (*sanā*)—ancient; ता का चित् (*tā kā cit*)—those acts, of many forms and renowned; भुवना (*bhuvanā*)—of the waters; भवित्वा (*bhavitvā*) (as supplied; the Pada and Saṃhitā have भवीत्वा (*bhavītvā*))—of the future; दुरः (*duraḥ*)—the doors; मार्धिः (*mārdhiḥ*) (as supplied; the Pada has मार्त्भिः (*mārtbhiḥ*))—during the span of months; शरद्भिः (*śaradbhiḥ*)—during the span of years; वः (*vaḥ*)—for your use; वरंत (*varaṃta*)—they open (they make a way for the flow of the waters). (Thereafter) अयतंता (*ayataṃtā*)—heaven and earth, which act of their own impulse without effort; अन्यदन्यदित् (*anyadanyadit*)—the foods given to each other (the water given by the heaven-world to the earth, and the food in the form of oblation given by the earth to the heaven-world); चरतः (*carataḥ*)—they make use of.
+
+**भावार्थ (Bhāvārtha)**
+
+O priests and sacrificers, those acts, endowed with knowledge, that Brahmaṇaspati accomplished as the fruit of reciting the mantra, ancient, of many kinds and renowned, open the doors of the future of the waters, during the span of months and of years, for your use [the Bhāvārtha continues on p. 24, in the next window].
+
 ---
 
-**Progress note:** Done through printed p. 20 (PDF 20). Sūkta 24 Ṛk 3 bhāṣya (gist), Pratipadārtha, Bhāvārtha, printed English, Special Topics (pp. 18–20); Ṛk 4 Saṃhitā only (Pada follows on p. 21). Flags: Ṛk 4 Saṃhitā accent DIFF if reported; supplied-text oddities kept: running head '13' on p. 18, 'ಕರ್ತೃಂ', 'ನೀಳಿಕಾ', 'ದೃಳ್ತಾ/ದೃಳ್ಹಾ', 'ಅವ್ರಂದತ', 'ವ್ರಂದೀ', 'ಮು. ಸಂ.'; hand fixes to kn.md p. 18 (labels, unquoted prose, stray Devanagari 'श्री राम राम' line replaced by Bhāvārtha label).
+**Progress note:** Done through printed p. 23 (PDF 23). Sūkta 24 Ṛk 4 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (pp. 21-22); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 23); Bhāvārtha of Ṛk 5 begun, continues on p. 24. Flags: 1 accent DIFF in the window; supplied-text oddities kept: Pada 'अश्वआस्यं', Special Topics 'अश्ववद्', 'स्पर्दृशः', 'ಸಿ ೧೦-೧೩', 'ಭವಿತ್ವಾ/ಭವೀತ್ವಾ', 'ಮಾರ್ಧಿಃ/ಮಾರ्त्भिः'; hand fix to kn.md p. 23: garbled Bhāvārtha label.
