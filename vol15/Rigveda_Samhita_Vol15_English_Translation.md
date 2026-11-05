@@ -14284,6 +14284,54 @@ Saraswathi, best of mothers, best of rivers, best of goddessess [sic], we are, a
 
 In the Ṛgveda there are many mantras that praise the goddess Sarasvatī. But on the question who that goddess Sarasvatī is and what her nature is, the Nirukta author has said nothing. He says only नदीवद्देवतावच्च निगमा भवंति (*nadīvaddevatāvacca nigamā bhavaṃti*): that is, in some mantras addressed to Sarasvatī she is described as a river and in some as a deity. But it is not clear whether the river called Sarasvatī was regarded as a deity and praised, or whether the deity was regarded as a river and praised. Therefore it must be said that सरस्वती (*sarasvatī*) denotes both a river and a deity. If it is said that Sarasvatī is a deity, who is that deity, what is her nature, what are her position and rank? To give a satisfactory answer to such questions is not easy. If it is said that Sarasvatī is a river, it may be said that a river famous by that name existed in the past (the modern Sarsuti, in English letters in the supplied text) and that it was praised in the Ṛgveda. In saying so, the doubt arises whether the treatment of inanimate things such as rivers is not forbidden in sacrifices addressed to particular deities. On this matter the sage Jaimini, in his Mīmāṃsā Sūtra, stated a prima facie view with अचेतनेSर्थबंधनात् (*acetaneSrthabaṃdhanāt*) (Jai. Sū. 1-2-35); and the commentators have given the solution by citing the Vedānta Sūtra अभिमानिव्यपदेशः (*abhimānivyapadeśaḥ*) (Ve. Sū. 2-1-5). That is, where inanimate things are addressed in many places in the Vedic mantras, it is to be understood that the presiding deities of those inanimate things are meant.
 
+### Printed p. 445
+
+*[Running head, p. 445: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+(see Part 1, pages 380 and 381). Therefore, where a river is praised, it must be understood that the deity presiding over that river is praised. Many people hold many different opinions about this goddess Sarasvatī—
+
+(1) In the Purāṇas and similar works Sarasvatī is said to be वागधिष्ठात्री, शारदा, विद्यास्वरूपिणी, हंसवाहिनी । (*vāgadhiṣṭhātrī, śāradā, vidyāsvarūpiṇī, haṃsavāhinī |*): a special deity, the deity presiding over speech, famous by the name Śāradā, of the nature of learning, seated on a swan.
+
+(2) Or they say that this goddess Sarasvatī is of the form of Āditya, qualified by a particular limiting condition (*upādhi*). The *upādhi* is the twilight; therefore, in the opinion of some, Āditya himself, with the light of twilight, is praised here in the form of Sarasvatī.
+
+(3) The word सरः (*saraḥ*) is formed from the root सृ (*sṛ*), "go, move". सरः अस्या अस्तीति अथवा सरः तेजो यस्या विद्यते सा सरस्वतीति भवति (*saraḥ asyā astīti athavā saraḥ tejo yasyā vidyate sā sarasvatīti bhavati*): that is, because she shines with a form of brilliance, she is called Sarasvatī.
+
+(4) Or—
+
+⟦ಪ್ರಾತರ್ವಾಚಾಂ ಪ್ರವರ್ತಿಕಾ, ಪ್ರಾಣಿನಾಂ ಸ್ವಾಪಪರಿತ್ಯಾಗೇನ ಸ್ತೋಚಿತ
+ವ್ಯವಹಾರೇಷು ಪ್ರವೃತ್ತೌ ಶಬ್ದಾಯಮಾನತಾಯಾಃ ಪ್ರವೃತ್ತೇಃ, ರಾತ್ರೌ ಚ ವಾಚಾಂ
+ನಿರೋಧಕಾ ರಾತ್ರೌ ಪ್ರಾಣಿನಾಂ ನಿಲಾಯನಿಲೀನತ್ವೇನ ಸುಪ್ಯಮಾ ನತಯಾ ಶಬ್ದ
+ವಿರಾಮಾತ್ । ಏವಂ ಚ ಶಬ್ದಸ್ಯ ಪ್ರವರ್ತಿಕಾ ನಿವರ್ತಿಕಾ ಏಷೈವ ಲೋಕೇ
+ಸರಸ್ವತೀತ್ವೇನ ವ್ಯಪದಿಶ್ಯತೇ ನಾನ್ಯಾ॥⟧
+
+That is: in the morning, creatures awake from sleep and engage in their respective activities, such as speaking; at night, when creatures are absorbed in sleep, they cease from activities, with no speaking or making sound. Therefore, because this goddess of speech is the cause of the starting and stopping of speaking or making sound, she is called Sarasvatī.
+
+(5) As said before, since this deity has the nature of speech and so on, this goddess Sarasvatī is of the form of Uṣas. Therefore her name stands among the names of the deity Uṣas, such as सूनृता (*sūnṛtā*), सूनृतावती (*sūnṛtāvatī*), सूनृतावरी (*sūnṛtāvarī*) [printed "ದೂದಲಾದ"] and so on. Here the word सूनृत (*sūnṛta*) means pleasant and true words.
+
+### Printed p. 446
+
+*[Running head, p. 446: Sāyaṇabhāṣyasahitā, Ma. [as printed] 2, A. 4, Sū. 41.]*
+
+In the same way Śaunaka, the author of the Bṛhaddevatā, and other authors have explained the deity Sarasvatī in various ways.
+
+Now let us consider a little in what senses the word सरस्वती (*sarasvatī*) is used in the Ṛgveda. Three points are chiefly to be noticed in this matter: (1) the present Ṛk अंबितमे (*aṃbitame*) that we are now commenting on; (2) the other Ṛks addressed to Sarasvatī; (3) the sages who composed these Ṛks and their descendants. We shall examine all three.
+
+In sūkta 1-3 of the Ṛgveda the Ṛks 10, 11 and 12 are mantras addressed to Sarasvatī. In Ṛks 10 and 11 the river Sarasvatī itself is imagined as a deity and praised. The commentator Sāyaṇācārya has explained Sarasvatī in Ṛks 10-11 as the goddess of speech, and in Ṛk 12 as the deity presiding over the river called Sarasvatī. The scholar Griffith (name in English letters in the supplied text) explains Sarasvatī as the goddess of speech. But when पावका (*pāvakā*) is explained as "purifying with water", and when आर्ण (*ārṇa*) is explained as "river", it has to be said that Sarasvatī means a river or the deity presiding over a river. Some modern scholars hold that Sarasvatī means the river Sindhu. But since it is said that the hermitage of the sage Madhucchandas, son of Viśvāmitra, who composed this Ṛk, was on the western bank of the present river Sarasuti at Kurukṣetra (Mahābhārata, Śalya Parva, chapter 43), there is room to suppose that the sage Madhucchandas praised this very river Sarasuti. For when praising a river it does not seem reasonable to say that he praised some other river, far away (of the same name), leaving aside the famous river near the place where he lived. The Ṛks addressed to Sarasvatī in the second maṇḍala, Ṛ. Saṃ. 2-30-8; 2-32-8; and 2-41-16 to 18, were all composed by the sage Gṛtsamada, son of Śunahotra. This sage Gṛtsamada is known to be the sixth in descent from the sage Atri in the family of Atri (according to the book *Pravara and Gotra*, No. 25, printed in the Mysore Government Oriental Library); Viśvāmitra is the fifth in descent from Atri. In eight Ṛks in all this sage Gṛtsamada has praised Sarasvatī. In Ṛ. Saṃ. 2-1-11 and 2-3-8 he praises Sarasvatī together with Iḍā and Bhāratī. In Ṛ. Saṃ. 2-35-5 he speaks of these three, that is, Iḍā, Sarasvatī and Bhāratī, as three goddesses. In Ṛ. Saṃ. 2-30-8 he praises Sarasvatī together with Indra and the Maruts. In Ṛ. Saṃ. 2-32-8 he speaks of Sarasvatī as a deity. In Ṛ. Saṃ. 2-41
+
+### Printed p. 447
+
+*[Running head, p. 447: Aṣṭaka 2, Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+sūkta, in the 16th Ṛk, he describes Sarasvatī as the greatest river and the greatest goddess, and in the 18th Ṛk as ऋतावरी (*ṛtāvarī*), that is (ऋत (*ṛta*)—water) a river with abundant water. Seeing this, some Western scholars say that since she is called the greatest river it must be the river Sindhu. But that is not right. For when a poet praises a river or a deity (even if small or ordinary) it is usual to describe it as very great. Some hold that in Ṛk 2-30-8 this sage Gṛtsamada praised Sarasvatī thinking of her as the presiding deity of thunder and lightning. But it does not seem reasonable to say that one sage described one deity in different senses. The seers of sūkta 3-23 of the Ṛgveda are Devaśravā and Devavāta, sons of Bharata. According to the book *Gotra-Pravara* mentioned before, these seers are known to be sons of Viśvāmitra; from the same book it is known that Bharata is the sixth in descent from Atri and Viśvāmitra the seventh, and that both are descendants of Purūravas, a great-grandson of Atri. In Ṛk 3-23-4 they say—
+
+⟦ನಿ ತ್ವಾ ದಧೇ ವರ ಆ ಪೃಥಿವ್ಯಾ ಇಳಾಯಾಸ್ಪದೇ ಸುದಿನತ್ವೇ ಅಹ್ನಾಂ ।
+ದೃಷದ್ವತ್ಯಾಂ ಮಾನುಷಾ ಅಪಯಾಯಾಂ ಸರಸ್ವತ್ಯಾಂ ರೇವದಗ್ನೇ ದಿದೀಹಿ ॥⟧
+(Ṛ. Saṃ. 3-23-4)
+
+Along with the river Sarasvatī, the names of two other rivers, Dṛṣadvatī and Apayā, are given. Dṛṣadvatī is the present Citrāṅga river (in English letters in the supplied text: the modern Chitrang, Chautag, or Chitang) and Apayā is the present river Apagā (the modern Apaga). Since these two rivers are close to the river Sarasvatī, it can be said confidently that Sarasvatī is not the Sindhu. Recent investigations have also shown that the hermitage of the sage Viśvāmitra was on the western bank of this river Sarasvatī (at Kurukṣetra) (see Dey's Geographical Dic[tionary], in English letters in the supplied text). All that has been said so far concerns the descendants of the sages Atri and Viśvāmitra.
+
+Now let us consider Bharadvāja and his descendants. The seer of all three Ṛks Ṛ. Saṃ. 6-49-7; 6-50-12; 6-52-6 is Ṛjiśvā, son of Bharadvāja [the supplied text has "ಮೂ ಋಕ್ಕುಗಳಿಗೂ", for "three"]. Of these three Ṛks, in the first and the third it is clearly stated that Sarasvatī is a river. In the second mantra, though the name of Sarasvatī is mentioned along with the deities Rudra, Viṣṇu, Vāyu and Parjanya, it may be thought that Sarasvatī is the name of a river; for since the same sage has said in two Ṛks that Sarasvatī is a river, it is natural that in the other Ṛk, too, the same sage praised Sarasvatī thinking of her as a river. Bharadvāja's hermitage was at Prayāga (Allahabad). Therefore Ṛjiśvā, son of Bharadvāja, his
+
 ---
 
-**Progress note:** Done through printed p. 444 (PDF 444). Sukta 41 Rik 15 Special Topics finished (p. 442); Rik 16 complete (pp. 442-443) with Sarasvati note (reference list) continuing through p. 444, ends after Mimamsa/Vedanta sutra remark. Flags: garbled Bhavartha label kept as note; 1-list numbering '1. (1)' as supplied; sarsuti in Latin letters kept
+**Progress note:** Done through printed p. 447 (PDF 447). Sukta 41 Rik 16 Sarasvati note continued (pp. 445-447): five views on the goddess, Sarasvati as river with Rishi evidence; breaks off mid-sentence at Rijishva son of Bharadvaja. Flags: Latin-letter names and modern river names inside Kannada kept; muu Rikkugalige typo as supplied
