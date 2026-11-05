@@ -12126,6 +12126,191 @@ Irresistible as two winds, rapid as two rivers, and quick of sight, come like tw
 
 (Aśvinau—O Aśvin gods!) आस्ने (*āsne*) (*āsne*)—in the mouth. ओष्ठाविन (*oṣṭhāvina*) (*oṣṭhāvina*) [as supplied]—like the lips. मधु (*madhu*) (*madhu*)—sweetly. वदंता (*vadaṃtā*) (*vadaṃtā*)—speaking, and. स्तनाविव (*stanāviva*) (*stanāviva*)—like breasts (the Kannada gloss is printed स्तगळंतॆ (*stagaḷaṃtè*), a syllable missing). नः (*naḥ*) (*naḥ*)—us. जीवसे (*jīvase*) (*jīvase*)—for life. पिप्यतं (*pipyataṃ*) (*pipyataṃ*)—be nourishers. नासेव (*nāseva*) (*nāseva*)—like the nose. नः (*naḥ*) (*naḥ*)—our. तन्वः (*tanvaḥ*) (*tanvaḥ*)—of the body. रक्षितारा (*rakṣitārā*) (*rakṣitārā*)—be protectors. कर्णाविव (*karṇāviva*) (*karṇāviva*)—like ears. सुश्रिता (*suśritā*) (*suśritā*) [as supplied; the Saṃhitā has सुश्रुता (*suśrutā*)]—hearing excellent praises and the like. अस्मे (*asme*) (*asme*)—on our behalf. भूतं (*bhūtaṃ*) (*bhūtaṃ*)—be.
 
+### Printed p. 381
+
+*[Running head, p. 381, as supplied: "ಅ. ೨. ಆ. ೮. ವ. ೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 381". The Pratipadārtha of Ṛk 6 was complete on p. 380.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin gods, be to us like lips in the mouth, speaking sweetly; be like breasts, nourishing us for our living; and be like the nose, protectors of our body. Be to our share like ears, hearing excellent praises and the like.
+
+**English Translation (as printed)**
+
+Like two lips uttering sweet words; like two breasts yielding nourishment for our existence; be to us like two noses, preserving our persons, and like two ears for the hearing of agreeable (sounds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+> आस्ने ओष्ठाविव मधु वदंता—हे अश्विनौ ओष्ठाविव आस्याय मधुररसवद्वचनं
+> वदंतौ ।
+
+> *āsne oṣṭhāviva madhu vadaṃtā—he aśvinau oṣṭhāviva āsyāya madhurarasavadvacanaṃ*
+> *vadaṃtau |*
+
+O Aśvin gods, just as the two lips in our mouth give us joy when they speak pleasant words, sweet like honey-juice, so do good to us.
+
+स्तनाविव नः जीवसे पिप्यतं (*stanāviva naḥ jīvase pipyataṃ*)—As the breasts of the mother, when we were infants, gave us milk and made us grow, so nourish us by giving us food and the like.
+
+नासेव नः तन्न रक्षितारा (*nāseva naḥ tanna rakṣitārā*) (as supplied; the Pratipadārtha has ತನ್ವಃ)—As our nose, by giving warning, keeps us from going to foul-smelling places, so protect us from any harm by enemies and from other kinds of danger.
+
+कर्णाविव सुश्रिता अस्मे भूतं (*karṇāviva suśritā asme bhūtaṃ*) (as supplied)—As our ears feel joy on hearing pleasing words, so hear the excellent praises we recite and take delight.
+
+अस्मे (*asme*)—This word is used in the sense of all seven case-endings. Example—
+
+(1)
+
+> अस्मे ते बंधुः । वयमित्यर्थः ॥
+
+> *asme te baṃdhuḥ | vayamityarthaḥ ‖*
+
+> अस्मे इत्येतत्पदं सर्वविभक्त्यंतं । तस्मादनेकार्थं । एकमेव हैतच्छब्धरूपं
+> सप्तस्वपि विभक्त्यर्थेषु वर्तते । प्रकरणादिवशात् तस्य नियमो भवति । तद्यथा—
+> प्रथमायास्तावत्—अस्मे ते बंधुः । वयमित्यर्थः ॥
+
+> *asme ityetatpadaṃ sarvavibhaktyaṃtaṃ | tasmādanekārthaṃ | ekameva haitacchabdharūpaṃ*
+> *saptasvapi vibhaktyartheṣu vartate | prakaraṇādivaśāt tasya niyamo bhavati | tadyathā—*
+> *prathamāyāstāvat—asme te baṃdhuḥ | vayamityarthaḥ ‖*
+
+That is, the word अस्मे (*asme*) is used in the sense of the seven case-endings according to context; that is, according to the passage, any one of the seven case meanings can be given to this word. For example, in the sentence अस्मे (*asme*) (continued on the next page)
+
+### Printed p. 382
+
+*[Running head, p. 382: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 39. A stray "1." printed before items (2) and, on p. 383, (6) in the supplied text was removed.]*
+
+ते बंधुः (*te baṃdhuḥ*), the word अस्मे (*asme*) means वयं (*vayaṃ*)—"we". This is an example of the sense of the nominative.
+
+(2)
+
+> अस्मे यातं नासत्या सजोषाः । आस्मानित्यर्थः ॥
+
+> *asme yātaṃ nāsatyā sajoṣāḥ | āsmānityarthaḥ ‖*
+
+द्वितीयायास्तावत् (*dvitīyāyāstāvat*)—for the word अस्मे (*asme*) the meaning is the accusative अस्मान् (*asmān*)—"us". As an example of this meaning:
+
+> आ श्येन्यस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः ।
+> हवे हि वामश्विना रातहव्यः शश्वत्तमाया उषसो व्युष्टौ ॥
+
+> *ā śyenyasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |*
+> *have hi vāmaśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ‖*
+
+(Ṛ. Saṃ. 1-118-111 as printed)
+
+They have given this Ṛk. In it the word अस्मे (*asme*) means अस्मान् (*asmān*)—"us".
+
+(3)
+
+> अस्मे समानेभिवृषभ पौंस्येभिः । अस्माभिरित्यर्थः ।
+
+> *asme samānebhivṛṣabha pauṃsyebhiḥ | asmābhirityarthaḥ |*
+
+तृतीयायास्तावत् (*tṛtīyāyāstāvat*)—here अस्मे (*asme*) means अस्माभिः (*asmābhiḥ*)—"by us", the sense of the instrumental. On this point—
+
+> भूरि चकर्थ युज्येभिरस्मे समानेभिवृषभ पौंस्येभिः ।
+> भूरीणि हि कृणवामा शविष्ठेंद्र क्रत्वा मरुतो यद्वशाम ॥
+
+> *bhūri cakartha yujyebhirasme samānebhivṛṣabha pauṃsyebhiḥ |*
+> *bhūrīṇi hi kṛṇavāmā śaviṣṭheṃdra kratvā maruto yadvaśāma ‖*
+
+(Ṛ. Saṃ. 1-165-7)
+
+They have given this Ṛk as the example. Here अस्मे (*asme*) means अस्माभिः (*asmābhiḥ*)—"by us".
+
+(4)
+
+> अस्मे प्रयंधि मघवन्नजीषिन् । अस्मभ्यमित्यर्थः ॥
+
+> *asme prayaṃdhi maghavannajīṣin | asmabhyamityarthaḥ ‖*
+
+चतुर्थ्यास्तावत् (*caturthyāstāvat*)—here अस्मे (*asme*) means अस्मभ्यं (*asmabhyaṃ*)—"for us", the sense of the dative. Example—
+
+> अस्मे प्रयंधि मघवन्नजीषिन्निंद रायो विश्ववारस्य भूरेः ।
+> अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्छत इंद्र शिप्रिन् ॥
+
+> *asme prayaṃdhi maghavannajīṣinniṃda rāyo viśvavārasya bhūreḥ |*
+> *asme śataṃ śarado jīvase dhā asme vīrāñchata iṃdra śiprin ‖*
+
+(Ṛ. Saṃ. 3-36-10)
+
+In this Ṛk the words अस्मे (*asme*) mean अस्मभ्यं (*asmabhyaṃ*)—"for us", the sense of the dative.
+
+(5)
+
+> अस्मे आराच्चिद्वेषः सनुतर्ययोतु । अस्मदित्यर्थः ।
+
+> *asme ārāccidveṣaḥ sanutaryayotu | asmadityarthaḥ |*
+
+पंचम्यास्तावत् (*paṃcamyāstāvat*) here अस्मे (*asme*) means अस्मत् (*asmat*)—"from our side" (the Kannada text has ದೆಶೆಯಿಂದ, as supplied). Example—
+
+> तस्य वयं सुमता यज्ञियस्यापि भद्रे सौमनसे स्याम ।
+> स सुत्रामा स्ववा इंद्रो अस्मे आराचिद्वेषः सनुतर्ययोतु ॥
+
+> *tasya vayaṃ sumatā yajñiyasyāpi bhadre saumanase syāma |*
+> *sa sutrāmā svavā iṃdro asme ārācidveṣaḥ sanutaryayotu ‖*
+
+(Ṛ. Saṃ. 6-47-13)
+
+### Printed p. 383
+
+*[Running head, p. 383, as supplied: "ಅ. ೨. ಅ. ೮. ವ. ೫ ] ಋಗ್ವೇದಸಂಹಿತಾ 383".]*
+
+In this Ṛk the word अस्मे (*asme*) means अस्मत् (*asmat*)—"from our side"; this is the sense of the ablative (the Kannada text prints ಸಂಚಮೀ, as supplied).
+
+(6)
+
+> ऊर्व इव पप्रथे कामो अस्मे । अस्माकमित्यर्थः ।
+
+> *ūrva iva paprathe kāmo asme | asmākamityarthaḥ |*
+
+षष्ठ्यास्तावत् (*ṣaṣṭhyāstāvat*)—here अस्मे (*asme*) means अस्माकं (*asmākaṃ*)—"to us" (as supplied; "our"). To explain this meaning—
+
+> आ नो भर भगमिंद्र द्युमंतं नि ते देष्णस्य धीमहि प्ररेके ।
+> ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनां ॥
+
+> *ā no bhara bhagamiṃdra dyumaṃtaṃ ni te deṣṇasya dhīmahi prareke |*
+> *ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnāṃ ‖*
+
+(Ṛ. Saṃ. 3-30-19)
+
+They have cited this Ṛk. In it the word अस्मे (*asme*) means अस्माकं (*asmākaṃ*)—"our, to us", the sense of the genitive.
+
+(7)
+
+> अस्मे धत्त वसवो वसूनि । अस्मास्वित्यर्थः ॥
+
+> *asme dhatta vasavo vasūni | asmāsvityarthaḥ ‖*
+
+सप्तम्यास्तावत् (*saptamyāstāvat*)—here अस्मे (*asme*) means "in us". For example—
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो ।
+> अस्मे धेहि जातवेदो महि श्रवः ॥
+
+> *agne vājasya gomata īśānaḥ sahaso yaho |*
+> *asme dhehi jātavedo mahi śravaḥ ‖*
+
+(Ṛ. Saṃ. 1-29-4)
+
+In this Ṛk the word अस्मे (*asme*) means अस्मासु (*asmāsu*)—"in us", the sense of the locative.
+
+*[A software-generated line in the supplied text, "This image contains no text. It shows a decorative floral or vine-like pattern.", is kept here as a note; it marks an ornament.]*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> हस्ते॑व श॒क्तिम॒भि सं॑द॒दी नः॒ क्षामे॑व नः॒ सम॑जतं॒ रजां॑सि ।
+> इ॒मा गिरो॑ अश्विना युष्म॒यंतीः॒ क्षोणेत्रे॑णेव॒ स्वधि॑तिं॒ सं शि॑शीतं॥
+
+**॥ पदपाठः ॥**
+
+> हस्ता इव । शक्तिं । अभि । संददी इति संसददी । नः । क्षामइव । नः । सं । अजतं ।
+> रजांसि ।
+> इमाः । गिरः । अश्विना । युष्मयंतीः । क्षोत्रेण इव । स्वधितिं । सं । शिशीतं ॥७॥
+
+> *hastā iva | śaktiṃ | abhi | saṃdadī iti saṃsadadī | naḥ | kṣāmaiva | naḥ | saṃ | ajataṃ |*
+> *rajāṃsi |*
+> *imāḥ | giraḥ | aśvinā | yuṣmayaṃtīḥ | kṣotreṇa iva | svadhitiṃ | saṃ | śiśītaṃ ‖7‖*
+
+*(Note: the Saṃhitā ends without the Ṛk number, the Pada ends with ॥೭॥. The Pada's ಸಂದದೀ ಇತಿ ಸಂಸದದೀ, ಕ್ಷಾಮಇವ and ಕ್ಷೋತ್ರೇಣ ಇವ differ from the Saṃhitā's ಸಂದದೀ, ಕ್ಷಾಮೇವ and ಕ್ಷೋಣೇತ್ರೇಣೇವ; all as supplied, not corrected. The Sāyaṇa-bhāṣya of Ṛk 7 follows on the next page.)*
+
 ---
 
-**Progress note:** Done through printed p. 380 (PDF 380). Sukta 39 Rk 4 Special Topics complete; Rk 5 complete; Rk 6 through Pratipadartha (Bhavartha, printed English, Special Topics follow on p. 381). Flags: line-end hyphens joined by hand in one bhashya block and one Special Topics quotation; supplied spellings kept (tanne, asman/asmaan, oshthavina, stanavina, stansau, sushrita vs sushruta, vasko, gantar); garbled p. 379 running head noted; printed 'ns' sic
+**Progress note:** Done through printed p. 383 (PDF 383). Sukta 39 Rk 6 complete (Bhavartha, printed English, Special Topics on asme with seven case examples); Rk 7 Samhita and Pada only (bhashya follows on p. 384). Flags: Special Topics verse quotations and Sanskrit lines turned into > blocks in kn.md, stray '1.' prefixes removed, image-text line kept as note; supplied spellings kept (tanna, sushrita, kshonetrena, Pada kshamaiva); accent DIFF 1 in Rk 7.
