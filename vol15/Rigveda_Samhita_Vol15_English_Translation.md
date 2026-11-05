@@ -15687,6 +15687,102 @@ Concerning the sage Viśvāmitra, Yāska says in his Nirukta—
 
 —stating an ancient story. विश्वामित्र (*viśvāmitra*) means that this seer is a friend to all or all are his friends: such is the component sense of the word. This seer was the priest of a king named Sudās, son of Pijavana. Once, taking the wealth given by that king and setting out to go to his hermitage, he came to the confluence of the rivers Vipāś and Śutudri (of the Panjab
 
+### Printed p. 495
+
+*[Running head, p. 495: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+in the Panjab, the present Beas and Sutlej rivers, in English letters in the supplied text) to the place of their confluence. Thieves, wishing to rob him of the property he had with him, were following him. Learning this, Viśvāmitra tried somehow to cross these rivers lying across his path, but they were so deep with the water of their flood that he could not. Then the seer, praying to these rivers, praised them so that they might lessen their water and make it convenient for him to pass; this is said in Ṛ. Saṃ. sūkta 3-33 and in Ṛ. Saṃ. 3-53, Ṛks 9-11.
+
+In the above sūkta, that is in Ṛ. Saṃ. 3-33-8, this seer Viśvāmitra has declared himself to be the son of Kuśika. It is said in the Rāmāyaṇa, the Mahābhārata and other Purāṇas that there were enmity and jealousy between Viśvāmitra and the sage Vasiṣṭha. For this there is basis in some places in the Ṛgveda also. That has been mentioned in the Pīṭhike of this part.
+
+The name of Viśvāmitra and of this seer's descendants is read in mantras such as Ṛ. Saṃ. 3-1-21; 3-18-4; 3-53-23; 10-89-17; Atharvaveda 18-3-6; 18-4-54; Jaiminīya Upaniṣad Brāhmaṇa 3-15-1 and others. Viśvāmitra's part is very important in the story of Śunaḥśepa. We have explained that at length in Part 2 of the Ṛ. Saṃ. That Viśvāmitra is a chief seer is described in Aitareya Āraṇyaka 2-2-1; Ai. Brā. 6-18-1; 6-20-3; Tai. Saṃ. 2-2-1-2; 3-1-7-3; 5-2-3-4; Kāṭhaka Saṃhitā 16-19; 20-9; Maitrāyaṇīya Saṃhitā 2-7-19; Kauṣītaki Brāhmaṇa 15-1; 26-14; 27-1, 2; 29-3; Pañcaviṃśa Brāhmaṇa 14-3-12; Bṛ. U. 2-2-4; Jaiminīya Upaniṣad Brāhmaṇa 3-3-13; 3-15-1 and other places.
+
+In the Purāṇas and similar works it is said that Viśvāmitra was a king and became a Brahmin by performing austerities. In the Ṛgveda, for this matter [the supplied text breaks off here: "ಈ ವಿಷಯಕ್ಕೆ ಯ", the rest of the sentence is missing from the print or the supplied text]
+
+*[Heading line of the supplied text: मॊदलनॆय सूक्तवु. (*mòdalanèya sūktavu.*) ("The first sūkta."), and the software-generated line "This image contains no text. It is a decorative symbol or ornament consisting of three stylized floral-like shapes connected by curved lines, resembling an infinity sign (∞).", kept as notes in kn.md.]*
+
+## Sūkta 1 (Maṇḍala 3)
+
+*The first sūkta of the Third Maṇḍala.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> वैश्वामित्रे तृतीये पंचानुवाकाः । तत्र प्रथमेऽनुवाके द्वादश सूक्तानि ।
+> तत्र सोमस्य मेति त्रयोविंशत्यृचं प्रथमं सूक्तं । तथा चानुक्रांतं! सोमस्य
+
+> *vaiśvāmitre tṛtīye paṃcānuvākāḥ | tatra prathame 'nuvāke dvādaśa sūktāni |*
+> *tatra somasya meti trayoviṃśatyṛcaṃ prathamaṃ sūktaṃ | tathā cānukrāṃtaṃ! somasya*
+
+### Printed p. 496
+
+*[Running head, p. 496: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+> त्र्यधिकेति । अस्य मंडलद्रष्टा विश्वामित्र ऋषिः । अनुक्तत्वात् त्रिष्टुप् छंदः । मंड-
+> लादिष्टाग्नेयमिति परिभाषयाग्निर्देवता ॥ प्रातरनुवाकाश्विनशस्त्रयोस्रैष्टुभे
+> छंदसि विनियोगः । तथा च सूत्रं । सोमस्य मा तवसं प्रत्यग्निरिति त्रीणि । आ. ४-१३।
+> इति ॥
+
+> *tryadhiketi | asya maṃḍaladraṣṭā viśvāmitra ṛṣiḥ | anuktatvāt triṣṭup chaṃdaḥ | maṃḍa-*
+> *lādiṣṭāgneyamiti paribhāṣayāgnirdevatā ‖ prātaranuvākāśvinaśastrayosraiṣṭubhe*
+> *chaṃdasi viniyogaḥ | tathā ca sūtraṃ | somasya mā tavasaṃ pratyagniriti trīṇi | ā. 4-13|*
+> *iti ‖*
+
+*[Note: in kn.md the Sanskrit introduction was made into `>` blocks, split where the print splits it at the page break (inside the word मंड (*maṃḍa*) / लादि (*lādi*)).]*
+
+**Anuvāda (Kannada).** In this Third Maṇḍala seen by the sage Viśvāmitra there are five anuvākas. In the first anuvāka there are twelve sūktas (the supplied text breaks off here, at the end of the Anuvāda line on p. 496).
+
+**Sūkta 1** — Maṇḍala 3, Anuvāka 1, Sūkta 1; Aṣṭaka 2, Adhyāya 8, Varga 13, 14, 15, 16. Number of ṛks in the sūkta: 23. Seer: Viśvāmitra, son of Gādhin. Deity: Agni. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> सोम॑स्य मा त॒वसं॒ वक्ष्य॑ग्ने॒ वह्निं॑ चकर्थ वि॒दथे॒ यज॑ध्यै ।
+> दे॒वा अच्छा॒ दीद्य॑द्युं॒जे अद्रिं॑ शमा॒ये अ॑ग्ने त॒न्वं॑ जुषस्व ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> सोमस्य । मा । तवसं । वक्षि । अग्ने । वह्निं । चकर्थ । विदथे । यजध्यै ।
+> देवान् । अच्छ । दीद्यत् । युंजे । अद्रिं । शंआये । अग्ने । तन्नं । जुषस्व ॥ १ ॥
+
+*(The Pada is printed ಶಂಆಯೇ and ತನ್ನಂ, as supplied.)*
+
+### Printed p. 497
+
+*[Running head, p. 497: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वं विदथे यज्ञे यजध्यै यष्टुं सोमस्य वह्निं वोढारं यं
+> मां चकर्थ कृतवानसि । तं मां तवसं तवस्विनं बलिनं वक्षि ! कामयस्व । किंच हे
+> अग्ने देवानच्छाभि दीद्यत् दीप्यमानोऽहमद्रिं ग्रावाणं युंजे । अभिषवणाय
+> युनज्मि । शमाये । शाम्यामि च । तथा च मंत्रांतरं । ऋतेन देवः सविता
+> शमायते । ऋग्वे. ८-८६-५ । इति । यद्वा शमाये । सौमि । शशमानो जरतीति
+> स्तुतिकर्मसु पाठात् । तथा च मंत्रांतरं । सो अग्न ईजे शशमे च मर्तः ।
+> ऋग्वे ६-१-९ । इति । किंच हे अग्ने तन्नं शरीरं जुषस्व । रक्षाय्कॆ सेवस्व । यद्वा
+> कर्माणि तन्नंतं मां सेवस्त्यर्थः ॥
+
+*(Gist: O Agni, you have made me the bearer of soma to offer at the sacrifice; make me strong; I take the pressing-stone, praise the gods, and serve you; protect my body. Ṛgveda 8-86-5 and 6-1-9 are cited inside the bhāṣya.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Vidathe: in the sacrifice. Yajadhyai: to offer for the sacrifice. Somasya vahniṃ: as the bearer of soma. Mā: me. Cakartha: you have appointed. Tavasaṃ: (such as I am) so that I obtain strength fit for it. Vakṣi: wish. Devān: the gods. Accha: going to meet. Dīdyat: honouring. Adriṃ: the stone that presses the juice. Yuṃje: I hold in my hand. Śamāye: I worship and praise (them). Agne: O Agni. Tanvaṃ [printed ತನ್ನಂ]: my body. Juṣasva: serve for protection.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you have appointed me as the bearer of soma to offer at the sacrifice. Make me fit with strength suited to it. Going to meet the gods and honouring them, I hold in my hand the stone that presses the juice. I praise and worship them. O Agni, serve me for the protection of my body.
+
+**Printed English translation**
+
+Render me vigorous, Agni, since you have made me the bearer of the Soma to offer it in the sacrifice : honouring the gods who are present, I take hold of the stone (to express the juice); I propitiate them; Agni, protect my person.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಅಗ್ನೇ ವಿದಥೇ ಯಜಧ್ಯೈ ಸೋಮಸ್ಯ ವಹ್ನಿಂ ಮಾ ಚಕರ್ಥ ತವಸಂ ವಕ್ಷಿ—ಹೇ ಅಗ್ನೇ
+ಯಜ್ಞೇ ಯಷ್ಟುಂ ಸೋಮಸ್ಯ ವೋಢಾರಂ ಮಾಂ ಚಕರ್ಥ ತಸ್ಮಾನ್ಮಾಂ ಬಲಿನಂ ಕಾಮಯಸ್ವ ।⟧ O Agni, you have made me the bearer of soma, to offer in the sacrifice; therefore wish me strong. O Agni, in the sacrifice we are now performing, to offer to the gods you have made me the bearer of soma, so that I may bear it
+
 ---
 
-**Progress note:** Done through printed p. 494 (PDF 494). Second Mandala ends: Khila mantras 5-8 and the Arthanuvada (p. 491-492), end-of-mandala mantras (p. 492), Sanskrit colophon and Kannada closing line (p. 493); Third Mandala begins p. 494 (heading, invocation, Pithike to Viswamitra) breaking off mid-sentence. p. 492 merged into p. 491 text, marker inserted by hand. Flags: Si. 9-24 printed; stray lines kept as notes
+**Progress note:** Done through printed p. 497 (PDF 497). Pithike to Viswamitra finished (p. 495; sentence on Rigveda evidence cut off in supplied text); Sukta 1 of Mandala 3 begins (pp. 495-496): Sayana introduction, Anuvada start (breaks off), heading; Rik 1 complete (pp. 496-497); Special Topics start, ends mid-sentence. Flags: truncated lines in supplied text at p. 495 and p. 496; stray line 32; ornament lines as notes; 1 accent DIFF
