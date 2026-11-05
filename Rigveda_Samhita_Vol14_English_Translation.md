@@ -31180,6 +31180,103 @@ The first explanation, with reference to the sacrifice: रथः । रंह�
 
 (6) शम्या (*śamyā*)—the implement used for killing the animal in the sacrifice.
 
+### Printed p. 821
+
+*(Header: "[A. 2. A. 6. V. 21] Ṛgvedasaṃhitā 821".)*
+
+(7) उलूखलं (*ulūkhalaṃ*)—the mortar used for pounding grain and for crushing the Soma plants.
+
+(8) मुसलं (*musalaṃ*)—the pestle for pounding grain.
+
+(9) दृष्टत् (*dṛṣṭat*) [sic, as supplied]—the stone, or flat stone, used underneath when the plants are crushed for the Soma juice.
+
+(10) उपला (*upalā*)—the round stone used for crushing the things (the Soma plants) placed on the stone called दृष्टत् (*dṛṣṭat*) mentioned above.
+
+These ten kinds of sacrificial implements are indicated here by the word दशारित्र (*daśāritra*).
+
+मनुष्य (*manuṣya*)—मनुष्याणां हितः । (*manuṣyāṇāṃ hitaḥ |*) The sacrifice is beneficial to men.
+
+स्पर्षाः (*sparṣāḥ*) [as supplied]—स्वर्गस्य दाता । (*svargasya dātā |*) The sacrifice gives the fruit of heaven.
+
+स इष्टिभिः मतभिः रंहः भूत् (*sa iṣṭibhiḥ matabhiḥ raṃhaḥ bhūt*) [as supplied]—एवं विधो यज्ञ इष्टिभिः प्रायणीयातिथ्यादि-भिर्मतिभिर्मननीयैः स्तोत्रैः रंह्यः शब्दनीयोभूत् । (*evaṃ vidho yajña iṣṭibhiḥ prāyaṇīyātithyādi-bhirmatibhirmananīyaiḥ stotraiḥ raṃhyaḥ śabdanīyobhūt |*) The sacrifice of the kind described above was being performed with the sacrificial rites (iṣṭi) such as the Prāyaṇīya and the Ātithya, and with the Vedic chanting of the priests, together with the hymns, of the mantra kind, recited aloud.
+
+Main idea: The sacrifice is being performed this very morning. The priests are reciting newly composed mantras in this sacrifice. This sacrifice is pure. Four stones are ready in it for pressing out the Soma juice; or four priests beginning with the Hotṛ are ready to take part in it. In this sacrifice there are three pressings, mantras in seven metres, and ten kinds of sacrificial implements. This sacrifice, beneficial to men, gives the fruit of heaven to the sacrificers. Such a sacrifice is being performed this morning with the chanting of mantras by the priests and with the many rites that are parts of the sacrifice.
+
+The second explanation, with reference to the chariot: in the sense of the chariot the words have different meanings.
+
+नवः (*navaḥ*)—अभिनवः । (*abhinavaḥ |*) new.
+
+सस्निः (*sasniḥ*)—सनोतेर्द्विवचनादिः । कामानां दाता । (*sanoterdvivacanādiḥ | kāmānāṃ dātā |*) Since the word सस्नि (*sasni*) can be formed from the root सनोति (*sanoti*), which has the sense of "to give", सस्निः (*sasniḥ*) means "the giver of desired things".
+
+रथः (*rathaḥ*)—On the word रथ (*ratha*) Yāska (says):
+
+रथो रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठ-तीति वा, रपतेर्वा, रसतेर्वा । (*ratho raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya | ramamāṇo 'smiṃstiṣṭha-tīti vā, rapatervā, rasatervā |*) (Ni. 9-11)
+
+That is: the word रथ (*ratha*) has been formed, as the author of the Nirukta explains, either from the root रंह् (*raṃh*), which gives the sense of motion or speed; or, by transposition of letters, from स्थिर (*sthira*) (that which is not stationary); or from the root रम् (*ram*), meaning "one rejoices sitting in it"; or from the root रप् (*rap*) or रस् (*ras*), meaning "to make a sound".
+
+### Printed p. 822
+
+*(Header: "822 Sāyaṇabhāṣyasahitā । Maṃ. 2 A. 2 Sū. 18".)*
+
+रथः योजि (*rathaḥ yoji*)—स्यंदनः प्रातःसवने सोमपानार्थं अश्वैरयोजि । (*syaṃdanaḥ prātaḥsavane somapānārthaṃ aśvairayoji |*) For Indra to come to the sacrificial ground to drink the Soma at the time of the morning pressing, horses have been yoked to the chariot.
+
+चतुर्युगः (*caturyugaḥ*)—this chariot has four yokes to which the horses are fastened.
+
+त्रिकशः (*trikaśaḥ*)—शिस्त्रः कशा यस्य सः । (*śistraḥ kaśā yasya saḥ |*) [as supplied] there are three whips for urging on the horses.
+
+सप्तरश्मिः (*saptaraśmiḥ*)—सप्तरज्जुः । (*saptarajjuḥ |*) there are seven reins for keeping the horses under control.
+
+दशारित्रः (*daśāritraḥ*)—दशचक्रः । (*daśacakraḥ |*) this chariot has ten wheels.
+
+मनुष्यः (*manuṣyaḥ*)—मनुष्यहितः । (*manuṣyahitaḥ |*) one that does good to men.
+
+स्वर्गाः (*svargāḥ*)—the chariot of Indra, which carries to heaven.
+
+इष्टिभिर्मतिभिः रंह्यः भूत् (*iṣṭibhirmatibhiḥ raṃhyaḥ bhūt*)—इष्टिभिर्मतिभिः स्तोत्रैश्च व्याप्तव्यो भवति । (*iṣṭibhirmatibhiḥ stotraiśca vyāptavyo bhavati |*) Let the chariot of Indra, praised in this sacrifice by the rites we perform and by the hymns, come to the sacrificial ground. [The Kannada line has a garbled word here: इंशह (*iṃśaha*) as supplied.]
+
+Main idea: Indra's chariot has been newly built. It gives desired things to those who praise. In the morning the horses have been yoked and made ready so that Indra may go to the sacrificial ground to drink the Soma. This chariot has four yokes; three whips have been got ready for urging the horses in it; there are seven reins; there are ten wheels. This chariot of Indra, which does good to men, has been got ready this very morning to come to the sacrificial ground for the drinking of the Soma. We praise this chariot with mantras in the sacrificial rite.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> सास्मा॒ अरं॑ प्रथ॒मं स द्वि॒तीय॑मु॒तो तृ॒तीयं॒ मनु॑षः॒ स होता॑ ।
+> अ॒न्यस्या॒ गर्भ॑म॒न्य ऊ॑ जनंत॒ सो अ॒न्येभिः॑ सचते॒ जेन्यूः॒ वृषा॑ ॥ २ ॥
+
+> *sāsmā araṃ prathamaṃ sa dvitīyamuto tṛtīyaṃ manuṣaḥ sa hotā |*
+> *anyasyā garbhamanya ū janaṃta so anyebhiḥ sacate jenyūḥ vṛṣā ‖ 2 ‖*
+
+### Printed p. 823
+
+*(Header: "[A. 2. A. 6. V. 21] Ṛgvedasaṃhitā 823".)*
+
+**॥ पदपाठः ॥**
+
+> सः । अस्मै । आरं । प्रथमं । सः । द्वितीयं । उतो इति । तृतीयं । मनुषः । सः ।
+> होता ।
+> अन्यस्याः । गर्भं । अन्ये । ऊं इति । जनन्त । सः । अन्येभिः । सचिते । जेन्यः । वृषा ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स यज्ञः सोमो नास्मा इंद्राय प्रथमं प्रातःसवनेऽरं । पर्यापोऽ-
+> भूत् । स च द्वितीयं माध्यंदिने सवने पर्यापोऽभूत् । उतो अपि च स तृती-
+> यं तृतीये सवने पर्यापोऽभूत् ॥ सर्वत्र कालाध्वनोरिति द्वितीया ॥ स यज्ञः
+> सोमो वा मनुषो मनुष्यस्य होता शुभानां वोढा भवति । किंच अन्ये
+> ऋत्विजोऽन्यस्याः पृथिव्या वेदात्मिकाया वाचो वा गर्भं संतं सोमं यज्ञं वा
+> जनंत । अजनयंत ॥ उ प्रसिद्ध्यर्थः ॥ वृषाभिमतफलवर्षको जेन्नो जय-
+> समर्थः स यज्ञः सोमो वान्येभिरन्यैरिंद्रादिभिर्देवैः सचते । संगच्छते ॥ सच
+> समवाये । अनुदात्तेत् ॥
+
+*Gist: the sacrifice (or Soma) suffices for Indra in the first, second and third pressings; it bears the good of man; other priests produce it; it joins the other gods.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—this sacrifice (or Soma); अस्मै (*asmai*)—for this Indra; प्रथमः (*prathamaḥ*) [as supplied]—at the time of the morning pressing; आरं (*āraṃ*)—becomes sufficient; सः (*saḥ*)—the same; द्वितीयं (*dvitīyaṃ*)—becomes sufficient in the midday pressing too; उतो (*uto*)—and; तृतीयं (*tṛtīyaṃ*)—in the third pressing too (becomes sufficient); सः (*saḥ*)—the sacrifice (or Soma); मनुषः (*manuṣaḥ*)—for man; होता (*hotā*)—is that which bears good; अन्ये (*anye*)—the other priests; अन्यस्याः (*anyasyāḥ*)—in the other regions of the earth; गर्भं (*garbhaṃ*)—the Soma (or the sacrifice) that is of the nature of an embryo; जनंत उ. (*janaṃta u.*)—have produced, have they not; वृषा (*vṛṣā*)—that which gives the desired object; जेन्यः (*jenyaḥ*)—and is victorious; सः (*saḥ*)—the sacrifice (or Soma); अन्येभिः (*anyebhiḥ*)—with the other gods; सचते (*sacate*)—joins.
+
+**भावार्थ (Bhāvārtha)**
+
+This sacrifice (or Soma) is sufficient for Indra in the morning pressing, in the midday pressing and in the evening pressing. It bears good for man. The other priests have produced this sacrifice (or the Soma juice), which is of the nature of an embryo, in the other regions of the earth in the form of the altar. This, which gives the desired object and is victorious, joins the other gods.
+
 ---
 
-**Progress note:** Done through printed p. 820 (PDF 820). Sukta 18 Rk 1 bhasya (stray label line removed), Pratipadartha, Bhavartha, printed English, Special Topics begun (list of ten sacrificial implements runs to item 6; continues next window)
+**Progress note:** Done through printed p. 823 (PDF 823). Sukta 18 Rk 1 Special Topics completed (items 7-10, chariot explanation); Rk 2 Samhita, Pada, bhasya, Pratipadartha, Bhavartha
