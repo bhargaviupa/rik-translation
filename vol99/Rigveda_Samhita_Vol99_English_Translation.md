@@ -934,6 +934,110 @@ Praise quickly the yoked chariot of the glorious and munificent Agni, like one w
 
 In this Ṛk, Sāyaṇa has explained the meaning of the Ṛk by addressing the inner self (antarātman) and saying "praise the horses and chariots of Agni". Here it is not necessary to address the inner self alone. Any of the priests taking part in the sacrifice, or the sacrificer, may be addressed.
 
+### Printed p. 528
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 8, p. 528.*
+
+(Continuation of the Special Topics of Ṛk 1.)
+
+योगान् रथान् (*yogān rathān*)—this can be understood either as "praise the horses and the chariots" or as "praise the chariots to which horses are yoked".
+
+वाजयन्निव (*vājayanniva*)—the word वाजः (*vājaḥ*) is read among the names for food (Ni. 3-9) and among the names for battle (वाजे (*vāje*)) (Ni. 3-9). Here the meaning "food" is taken, and the illustration is given of a man who desires food.
+
+नु (*nu*)—नु इत्येषोऽनेककर्मा । इदं करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे (*nu ityeṣo 'nekakarmā | idaṃ kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe*) (Ni. 1-4). The particle नु (*nu*) has many meanings. In इदं नु करिष्यति (*idaṃ nu kariṣyati*) the word नु (*nu*) has the sense of a reason ("therefore"); in कथं नु करिष्यति (*kathaṃ nu kariṣyati*) it is interrogative. Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*)—the word नु (*nu*) is also used when a comparison is indicated. For example:
+
+अक्षो न चक्र्योः शूर बृहन्प्रते मह्ना रिरिचे रोदस्योः । वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः ॥ (*akṣo na cakryoḥ śūra bṛhanprate mahnā ririce rodasyoḥ | vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ ‖*)
+
+(Ṛ. Saṃ. 6-24-3, as printed: "ಮ. ಸಂ.")
+
+The Nirukta-writer has cited this Ṛk and explained नु (*nu*) in the sense of comparison: "like a tree, or like the branches of a tree" (वृक्षस्येव ते पुरुहूत-शाखाः (*vṛkṣasyeva te puruhūta-śākhāḥ*)). Likewise,
+
+नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् । प्र यः सत्राचा मनस्सा यजात एतावंतं नर्यमाविवासात् ॥ (*nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat | pra yaḥ satrācā manassā yajāta etāvaṃtaṃ naryamāvivāsāt ‖*)
+
+(Ṛ. Saṃ. 7-100-1, as printed: "ಮ. ಸಂ.")
+
+in Ṛks of this kind नु (*nu*) has the sense of क्षिप्रं (*kṣipraṃ*), "quickly"; and in
+
+नू इंद्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्वा नावृधस्व । उप नो वाजान्मिमाह्युप स्तीन्यूयं पात स्वस्तिभिः सदा नः ॥ (*nū iṃdra śūra stavamāna ūtī brahmajūtastanvā nāvṛdhasva | upa no vājānmimāhyupa stīnyūyaṃ pāta svastibhiḥ sadā naḥ ‖*)
+
+(Ṛ. Saṃ. 7-19-11)
+
+and similar Ṛks the sense "now, at once" (अद्य (*adya*)). And, as the Nirukta-writer says, नु इत्येषोऽनेककर्मा (*nu ityeṣo 'nekakarmā*) (Ni. 1-4), the word नु (*nu*) is used in still other senses. In the present Ṛk the meaning is "quickly, soon".
+
+### Printed p. 529
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 29, Ṛgveda-saṃhitā, p. 529.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यः सु॑नी॒थो द॑दा॒शुषे॑ ऽ जु॒र्यो ज॒रय॑न्न॒रिं ।
+> चारु॑प्रतीक॒ आहु॑तः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । सुनीथः । ददाशुषे । अजुर्यः । जरयन् । अरिं ।
+> चारुप्रतीकः । आहुतः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सुनीथः शोभननयनोऽजुर्योऽजरणीयोऽनभिभाव्यः चारुप्रतीकः शोभ-
+> नोपक्रमो योऽस्ति सोऽग्निर्ददाशुषे हविर्दत्तवते यजमानाय तदर्थमरिं
+> तस्य शत्रुं जरयन् नाशयन् आहुतः । समंतादाराधितो भवति ॥
+
+*Gist:* Agni, a good leader, unconquerable and of beautiful form, destroys the foe of the sacrificer who offers oblations, being worshipped.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुनीथः (*sunīthaḥ*) (*sunīthaḥ*)—the exceeding guide; अजुर्यः (*ajuryaḥ*) (*ajuryaḥ*)—the unopposed; चारुप्रतीकः (*cārupratīkaḥ*) (*cārupratīkaḥ*)—of lovely form; यः (*yaḥ*)—the Agni who (is such); ददाशुषे (*dadāśuṣe*)—for the sacrificer who offers oblations; अरिं (*ariṃ*)—his enemy; जरयन् (*jarayan*)—destroying; आहुतः (*āhutaḥ*)—becomes worshipped.
+
+**भावार्थ (Bhāvārtha)**
+
+The Agni who is the exceeding guide, unopposed and of lovely form becomes worshipped, destroying the enemy of the sacrificer who offers oblations.
+
+**Printed English translation**
+
+Who, sagacious, invincible, and of graceful gait, destroys, when propitiated, his foe, for him who presents(offerings).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुनीथः—शोभननयनः (*sunīthaḥ—śobhananayanaḥ*). Sāyaṇa has explained it as "a good guide". Since Yāska reads the word सुनीथ (*sunītha*) among the ten names of the praiseworthy (आस्रेमाः, अनेमाः (*āsremāḥ, anemāḥ*) etc.) (Ni. 3-13), सुनीथः (*sunīthaḥ*) may also mean "praiseworthy, worthy of praise". Besides,
+
+### Printed p. 530
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 8, p. 530.*
+
+in the commentary on the mantra त्वामिंद्र मतिभिः सुते सुनिथासो वसूयवः । गोभिः क्राणा अनूषत (*tvāmiṃdra matibhiḥ sute sunithāso vasūyavaḥ | gobhiḥ krāṇā anūṣata*) Durgācārya explains: सुनीथासः सुष्टु ये स्तोतुं शक्नुवंति ते सुनीथाः (*sunīthāsaḥ suṣṭu ye stotuṃ śaknuvaṃti te sunīthāḥ*), "those who are able to praise well" (Ni. 4-19).
+
+अजुर्यः (*ajuryaḥ*)—अजरणीयोऽनभिभाव्यः (*ajaraṇīyo 'nabhibhāvyaḥ*). This word is formed from the root ज्ञ वयोहानौ (*jña vayohānau*) [as printed]; since it has the negative prefix आ (*ā*) (sic, as printed: "ಉಗಸರ್ಗ"), it means "one who is not old", that is, one who, like a youth, is unopposed.
+
+चारुप्रतीकः (*cārupratīkaḥ*)—for the word प्रतीक (*pratīka*) Yāska gives the etymology प्रतीकं-प्रत्यक्तं भवति प्रत्यंचितं प्रतिगतं प्रकाशस्य (*pratīkaṃ-pratyaktaṃ bhavati pratyaṃcitaṃ pratigataṃ prakāśasya*) (Ni. 7-31); hence चारुप्रतीकः (*cārupratīkaḥ*) means one who has a charming form or shape.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> य उ॑ श्रि॒या दमे॒ष्वा दो॒षोषसि॑ प्रश॒स्यते॑ ।
+> यस्य॑ व्र॒तं न मीय॑ते ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । ऊं इति । श्रिया । दमेषु । आ । दोषा । उषसि । प्रशस्यते ।
+> यस्य । व्रतं । न । मीयते ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> योऽग्निरु श्रिया ज्वालया युक्तः सन् दमेषु आ अगत्य दोषा रात्रिषु
+> उषस्यहःसु च प्रशस्यते । स्तूयते । यस्याग्नेव्रतं कर्म न मीयते । न हिंस्यते
+> न क्षीयते वा ॥
+
+*Gist:* Agni, endowed with splendour of flame, is praised in the sacrificial houses by night and by day; his rite is never diminished.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+य उ (*ya u*)—that same Agni; श्रिया (*śriyā*)—with the flame full of radiance; दमेषु (*dameṣu*)—in the sacrificial houses; आ (*ā*)—coming; दोषा (*doṣā*)—in the nights; उषसि (*uṣasi*)—in the days; प्रशस्यते (*praśasyate*)—is praised (and); यस्य (*yasya*)—of that same Agni; व्रतं (*vrataṃ*)—the rite; न मीयते (*na mīyate*)—is not diminished.
+
 ---
 
-**Progress note:** Done through printed p. 527 (PDF 527). Sukta 7 Rk 6 bhasya and special topics; Sukta 8 intro and Rk 1; Pada/bhasya merge split in kn.md
+**Progress note:** Done through printed p. 530 (PDF 530). Sukta 8 Rk 1 special topics end; Rk 2 and 3 (Rk 3 through Pratipadartha); pada/bhasya merge split in kn.md
