@@ -22330,6 +22330,131 @@ In this Ṛk the deities called दैव्या होतारौ (*daivyā 
 
 *[The window ends here, at the end of p. 722; the next window continues.]*
 
+### Printed p. 723
+
+*[Running head, p. 723: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+ऋतं शंसंतः (*ṛtaṃ śaṃsaṃtaḥ*): the word ṛta is read among the names of water (Ni. 2-24). The priests who desire water, that is, the priests who perform the sacrifice for the sake of rain and praise Agni; by performing the sacrifice rain comes, and in that sacrifice the priests praise Agni.
+
+व्रतपाः दीध्यानाः (*vratapāḥ dīdhyānāḥ*): these words too are epithets of the priests. The word vrata has the meaning "rite". Those who keep the rite, that is, since they perform sacrifices and other rites duly, the priests are described by the word vratapāḥ. Dīdhyānāḥ: the purport is that by offering ghee and other oblations in Agni they make Agni blaze, that is, shine.
+
+दैव्या होतारा— देवसंबंधिनौ होतारौ । आयं च मध्यमस्थानश्च इत्युभौ (*daivyā hotārā— devasaṃbaṃdhinau hotārau | āyaṃ ca madhyamasthānaśca ityubhau*): Sāyaṇa has explained these as the two forms of Agni, the divine hotṛs, the earthly Agni and the Agni in the atmosphere. Some modern scholars have given different meanings and shown difference of opinion among themselves. The scholar Geldner has taken them to be the sacrificing hotṛ and his fire, Haug the hotṛ and the adhvaryu, and Oldenberg the hotṛ and his assistant Maitrāvaruṇa. None of these is reasonable.
+
+That the main duty of these hotṛs is to perform the sacrifice is stated in the Ṛks 1-13-8 and 1-188-7 by यज्ञं नो यक्षतामिमं । (*yajñaṃ no yakṣatāmimaṃ |*) and in the Ṛk 2-3-7 by देवान्यजंतावृतुथा । (*devānyajaṃtāvṛtuthā |*). This statement of duty applies to the human hotṛ, and Agni is addressed figuratively.
+
+On the word दैन्व्या होतारा (*dainvyā hotārā*) (so printed) Yāska's explanation:
+
+दैव्या होतारा दैव्या होतारावयं चाग्नि रसौ च मध्यमः ॥ (*daivyā hotārā daivyā hotārāvayaṃ cāgni rasau ca madhyamaḥ ‖*)
+(printed सि (*si*). 8-12; the supplied text had three Telugu letters in the reference, put into Kannada letters one for one)
+
+That is, this word indicates Agni. As an example in this matter they have given that, since Agni invites the gods, Agni stands between the gods and men.
+
+⟦ದೈವ್ಯಾ ಹೋತಾರಾ ಪ್ರಥಮಾ ಸುವಾಚಾ ಮಿಮಾನಾ ಯಜ್ಞಂ ಮನುಷೋ ಯಜಧ್ಯೆ ।
+ಪ್ರಚೋದಯಂತಾ ವಿಧಥೇಷು ಕಾರೂ ಪ್ರಾಚೀನಂ ಜ್ಯೋತಿಃ ಪ್ರದಿಶಾ ದಿಶಂತಾ ॥⟧
+(Ṛ. Saṃ. 10-110-7)
+
+### Printed p. 724
+
+*[Running head, p. 724: its running head is misspelled in the supplied text ("724 सायणभाव्यसहिता (*sāyaṇabhāvyasahitā*) …") and had been merged into the text of p. 723; it was separated by hand and p. 724 added to the page list.]*
+
+Durgācārya's commentary on this:
+
+⟦ಯಾವೇತ್ ದೈವೌ ಹೋತಾರೌ । ದೇವೇಷು ಭವೌ ದೇವ್ಯೌ ದೇವಾನೇವ ದೈವೌ । ಸ್ವಾರ್ಥೇ
+ಏವ ತದ್ಧಿತಃ । ಮನುಷ್ಯಹೋತಾರೌ ಅಪೇಕ್ಷ್ಯ । ದೈವೌ ಹೋತಾರೌ ಹೋತೃಮೈತ್ರಾವರುಣೌ ಇತಿ ವಿಶೇಷಣಂ । ಹೋತಾರಾ ಹೋತಾರೌ ಆಹ್ವಾತಾರೌ ದೇವಾನಾಂ ವಾಯ್ವಗ್ನೀ ।
+ಪ್ರಥಮಾ ಪ್ರಥಮೌ ಮುಖ್ಯೌ ಮನುಷ್ಯಹೋತಾರಾವಪೇಕ್ಷ್ಯ । ಸುವಾಚಾ ಸುವಾಚೌ,
+ಪ್ರಶಸ್ತವಾಚೌ, ಸುಸ್ತುತಾ । ಮಿಮಾನಾ ಯಜ್ಞಂ ಯಜ್ಞನಿರ್ಮಾತಾರೌ ನಿತ್ಯಂ । ಮನುಷ್ಯಃ
+ಮನುಷ್ಯಸ್ಯ ಯಜಧ್ಯೈ ಯಜನಾಯ । ಪ್ರಚೋದಯಂತಾ ಪ್ರಚೋದಯಮಾನೌ ।
+ವಿದಥೇಷು ಯಜ್ಞೇಷು । ಕಾರೂ ಕರ್ತಾರೌ । ಇತ್ಯಾದಿ ।⟧
+
+The chief purport of this: for the gods, Agni and Vāyu are the hotṛs, and for men the priests called Hotṛ and Maitrāvaruṇa are the hotṛs. Because Agni, or Agni and Vāyu, standing between the gods and men, create a relation between them, Agni is called the middle one (madhyama).
+
+The name of the deities दैव्या होतारा (*daivyā hotārā*), apart from the Āprī sūktas, is read only in the two Ṛks
+
+त्वष्टारं वायुमृभवो य ओहते दैव्या होतारा उषसं स्वस्तये । (*tvaṣṭāraṃ vāyumṛbhavo ya ohate daivyā hotārā uṣasaṃ svastaye |*)
+(Ṛ. Saṃ. 10-65-10)
+
+दैव्या होतारा प्रथमा पुरोहित ऋतस्य पंथामन्वेमि साधुया । (*daivyā hotārā prathamā purohita ṛtasya paṃthāmanvemi sādhuyā |*)
+(Ṛ. Saṃ. 10-66-13)
+
+In the Ṛk 7-2-7 they are called jātavedasā and in the Ṛk 10-70-7 purohitā. And since the words in the Ṛks quoted above, मिमाना यज्ञं मनुषो यजध्यै (*mimānā yajñaṃ manuṣo yajadhyai*) and प्रचोदयंता विदथेषु कारू (*pracodayaṃtā vidatheṣu kārū*), say that these deities carry out the sacrifices that men perform, it is natural that they are called purohitas. If among the gods the hotṛs are Agni and Vāyu, among men the Hotṛ and his assistant priest Maitrāvaruṇa are called hotṛs. This Maitrāvaruṇa directs the other priests, by Praiṣa mantras, to do their respective works. In the Yajurveda (Tai. Saṃ. 6-1-4-2) it is said: मैत्रावरुणो हि पुरस्तादृत्विग्भो वाचं विभजति (*maitrāvaruṇo hi purastādṛtvigbho vācaṃ vibhajati*).
+
+Thus, although some epithets are common to the two hotṛs and point to the duty of the human hotṛ, still other epithets, though common to both, describe the duties of Agni, the divine hotṛ. For example:
+
+### Printed p. 725
+
+*[Running head, p. 725: Aṣṭaka 2 (printed "अ ८ (*a 8*)" without the period after ಅ in Adhyāya), Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+⟦ದೈವ್ಯಾ ಹೋತಾರಾ ಪ್ರಥಮಾ ನ್ಯೃಂಜೇ ಸಪ್ತ ಪೃಕ್ಷಾಸಃ ಸ್ವಧಯಾ ಮದಂತಿ ।
+ಋತಂ ಶಂಸಂತ ಋತಮಿತ್ತ ಆಹುರನು ವ್ರತಂ ವ್ರತಪಾ ದೀಧ್ಯಾನಾಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 3-4-7)
+
+In this Ṛk there is no doubt that the epithet prathamā refers to Agni, the divine hotṛ. In 1-13-4, होता मनुर्हितः (*hotā manurhitaḥ*) is an epithet of Agni. The precise difference between these two hotṛs is stated in the Praiṣa sūkta thus:
+
+⟦ಹೋತಾ ಯಕ್ಷದ್ದೈವ್ಯಾ ಹೋತಾರಾ ಮಂದ್ರಾ ಪೋತಾರಾ ಕವೀ ಪ್ರಚೇತಸಾ । ಸ್ವಿಷ್ಟ
+ಮದ್ಯಾನ್ಯಃ ಕರದಿಷಾ ಸ್ವಭಿಗೂರ್ತಮನ್ಯ ಊರ್ಜಾ ಸತವಸೇಮಂ ಯಜ್ಞಂ ದಿವಿ ದೇವೇಷು
+ಧತ್ತಾಂ ವೀಶಾಮಾಜ್ಯಸ್ಯ ಹೋತರ್ಯಜ ।⟧
+(Tai. Brā. 3-6-2-2)
+
+In this sentence it is suggested that one hotṛ should make the sacrifice acceptable with the oblation in the form of food, and the other should establish this sacrifice in heaven among the gods. This exchange of works shows the difference between the human hotṛ and Agni, the divine hotṛ. In the Aitareya Brāhmaṇa:
+
+⟦ದೈವ್ಯಾ ಹೋತಾರಾ ಯಜತಿ ಪ್ರಾಣಾಪಾನೌ ವೈ ದೈವ್ಯಾ ಹೋತಾರಾ ಪ್ರಾಣಾಪಾನಾವೇವ
+ಶತ್ರ್ಣಾತಿ ಪ್ರಾಣಾಪಾನೌ ಯಜಮಾನೇ ದಧಾತಿ ।⟧
+(printed ಇ. ब्रा (*brā*). 2-4)
+
+Having stated the identity of these hotṛs with prāṇa and apāna, it says that the one who recites this mantra secures for the sacrificer the good state of prāṇa and apāna. In the Nirukta:
+
+दैव्या होतारा दैव्या होतारावयं जाग्निरसौ च मध्यमः । (*daivyā hotārā daivyā hotārāvayaṃ jāgnirasau ca madhyamaḥ |*)
+(printed सि (*si*). 8-12)
+
+By these authoritative sentences supporting Sāyaṇa's meaning, it says they are the earthly Agni and the Agni of the atmosphere. In the Bṛhaddevatā too, approving the same view:
+
+⟦ದೈವ್ಯಾವಿತಿ ತು ಹೋತಾರಾವಗ್ನೀ ಪಾರ್ಥಿವಮಧ್ಯಮೌ ।
+ದಿವ್ಯಾದಗ್ನೀರ್ಹಿ ಬಜ್ಞಾತೇ ದೈವ್ಯಾ ತೇನೇಹ ಜನ್ಮನಾ ॥⟧
+(Bṛ. De. 3-11)
+
+It says that these two hotṛs are the earthly Agni and the Agni of the middle region (the atmosphere).
+
+### Printed p. 726
+
+*[Running head, p. 726: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> आ भार॑ती॒ भार॑तीभिः स॒जोषा॒ इळा॑ दे॒वैर्म॑नु॒ष्ये॑भिर॒ग्निः ।
+> सर॑स्वती सारस्व॒तेभि॑र॒र्वाक् ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दंतु ॥ ८ ॥
+
+> *ā bhāratī bhāratībhiḥ sajoṣā iḷā devairmanuṣyebhiragniḥ |*
+> *sarasvatī sārasvatebhirarvāk tisro devīrbarhiredaṃ sadaṃtu ‖ 8 ‖*
+
+*[The supplied text has before the Pada a garbled label "१ पदपात १ (*1 padapāta 1*)" (for Pada-pāṭha), kept as a note in kn.md; it stood inside the Saṃhitā block, which was split.]*
+
+**॥ पदपाठः ॥**
+
+> आ । भारती । भारतीभिः । सजोषाः । इळा । देवैः । मनुष्येभिः । अग्निः ।
+> सरस्वती । सारस्वतेभिः । अर्वाक् । तिस्रः । देवीः । बर्हिः । आ । इदं । सदंतु ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> भारतीभिर्भरतस्य सूर्यस्य संबंधिनीभिः सजोषाः संगता भारती वाक्
+> आगच्छतु । देवैर्मनुष्येभिर्मनुष्यश्च संगत्येळा च भूमिश्चागच्छतु अग्निश्च ।
+> सारस्वतेभिः सरस्वतीसंबंधिभिर्मध्यमस्थानैः सह सरस्वती माध्यमिका वागागच्छतु ।
+> तिस्रो दिव्यो वागिळाभारत्य आगच्छंतु । अर्वागाभिमुखमेतद्बर्हिरा सदंतु ।
+> आसीदंतु ॥
+
+*(Gist: may Bhāratī with the solar radiances, Iḷā (earth) with gods and men, Agni, and Sarasvatī of the middle region with her radiances, the three goddesses, come and sit on this sacred grass.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Bhāratībhiḥ: with the splendours related to the Sun. Sajoṣāḥ: joined. Bhāratī: the goddess of speech in the heaven-world. Ā (gacchatu): may she come towards the sacrifice. Devaiḥ: with the gods. Manuṣyebhiḥ: with men (joined). Iḷā: the earth. Agniḥ: Agni (may come). Sārasvatebhiḥ: joined with the splendours of the middle world. Sarasvatī: the goddess of speech of the middle region (may come towards the sacrifice). Tisraḥ devīḥ: also the three goddesses, Bhāratī, Iḷā and Sarasvatī. Arvāk: coming towards us. Idaṃ barhiḥ: on this seat of sacred grass. Ā sadantu: may they sit.
+
+**भावार्थ (Bhāvārtha)**
+
+May the goddess of speech of the heaven-world, joined with the splendours related to the Sun, the earth joined with gods and men, Agni, and the goddess of speech of the middle region joined with the splendours of the middle world, come towards our sacrifice. May the three goddesses Bhāratī, Iḷā and Sarasvatī come towards us and sit on this seat of sacred grass.
+
+*[The window ends here, at the end of p. 726; the next window continues with the printed English of Ṛk 8.]*
+
 ---
 
-**Progress note:** Done through printed p. 722 (PDF 722). Sūkta 4 Ṛk 6 Special Topics end (Uṣāsānaktā, Bṛ. De. 3-8 to 10); Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun
+**Progress note:** Done through printed p. 726 (PDF 726). Sūkta 4 Ṛk 7 Special Topics (daivyā hotārau; Durga, Bṛ. De. 3-11); Ṛk 8 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha
