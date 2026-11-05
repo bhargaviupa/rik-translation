@@ -7254,6 +7254,123 @@ The prompt-giving Maruts ever confer upon the (offerer of sacrificial) food, as 
 
 In this Ṛk: मधु न ऊर्मि० । मधु सोमं इत्यौपमिकं माद्यतेः । इदमपीतर-न्मध्वेतस्मादेव । (नि. ४-८) (*madhu na ūrmi0 | madhu somaṃ ityaupamikaṃ mādyateḥ | idamapītara-nmadhvetasmādeva | (ni. 4-8)*) (as supplied). Because it produces intoxication, Soma is described as the meaning of the word मधु (*madhu*).
 
+### Printed p. 236
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 4, Sū. 34 (as supplied). The page begins with the Pada-pāṭha of Ṛk 5; its Saṃhitā-pāṭha was not on this page.*
+
+**॥ पदपाठः ॥**
+
+> इंधन्वभिः । धेनुभिः । रप्यदूधभिः । अध्वस्मभिः । पथिभिः । भ्राजत् ऽयष्टयः ।
+> आ । हंसासः । न । स्वसराणि । गंतन । मधोः । मदाय । मरुतः । समन्यवः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> समन्यवः समानमनस्काः समानक्रोधाः समानतेजसो ना हे मरुतो
+> भ्राजदृष्टयो दीप्यमानायुधा यूयमिंधन्वभिः समिंधनवद्भिः ॥ इंधन-
+> शब्दाच्छंदसीवनिपाविति मत्त्वर्थीयो वनिप् । छांदसो वर्णलोपः ॥ धेनुभिः
+> प्रीणयितृभिश्च रष्यदूधभिः । विरप्यीति महन्नाम । महोधस्मैः । ऊधांसि
+> जलस्रोतोमार्गः । यद्वा रप लप व्यक्तायां वाचि । शब्दायमानोच्चृत-
+> प्रदेशैरध्वस्मभिर्ध्वंसनरहितैः पथिभिः । पतंति गच्छंतीति पंथानो मेघाः । एवं-
+> भूतैर्मेघैः सह मार्गैरेव नागंतन । किमर्थं । मधोर्मदाय । सोमस्य
+> मदार्थं । तत्र दृष्टांतः । हंसासो न । यथा हंसाः स्वसराणि स्वकीयानि
+> निवासस्थानानि प्राप्नुवंति तद्वत् ॥
+
+> *samanyavaḥ samānamanaskāḥ samānakrodhāḥ samānatejaso nā he maruto*
+> *bhrājadṛṣṭayo dīpyamānāyudhā yūyamiṃdhanvabhiḥ samiṃdhanavadbhiḥ ‖ iṃdhana-*
+> *śabdācchaṃdasīvanipāviti mattvarthīyo vanip | chāṃdaso varṇalopaḥ ‖ dhenubhiḥ*
+> *prīṇayitṛbhiśca raṣyadūdhabhiḥ | virapyīti mahannāma | mahodhasmaiḥ | ūdhāṃsi*
+> *jalasrotomārgaḥ | yadvā rapa lapa vyaktāyāṃ vāci | śabdāyamānoccṛta-*
+> *pradeśairadhvasmabhirdhvaṃsanarahitaiḥ pathibhiḥ | pataṃti gacchaṃtīti paṃthāno meghāḥ | evaṃ-*
+> *bhūtairmeghaiḥ saha mārgaireva nāgaṃtana | kimarthaṃ | madhormadāya | somasya*
+> *madārthaṃ | tatra dṛṣṭāṃtaḥ | haṃsāso na | yathā haṃsāḥ svasarāṇi svakīyāni*
+> *nivāsasthānāni prāpnuvaṃti tadvat ‖*
+
+Gist: O Maruts of one mind, with shining weapons, come by the unobstructed paths of the clouds, with their full-uddered streams, for the joy of the Soma, as swans reach their own dwellings.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+समन्यवः (*samanyavaḥ*)—those of equal minds; मरुतः (*marutaḥ*)—O Maruts; भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*)—you who have shining weapons; इंधन्वभिः (*iṃdhanvabhiḥ*)—lustrous; धेनुभिः (*dhenubhiḥ*)—satisfying; रष्यदूधभिः (*raṣyadūdhabhiḥ*)—having great streams of water; अध्वस्मभिः (*adhvasmabhiḥ*)—indestructible; पथिभिः (*pathibhiḥ*)—by the paths of the clouds; मधोः (*madhoḥ*)—obtained by drinking the Soma juice; मदाय (*madāya*)—for joy [the supplied text has ಹಷಾರ್ಥವಾಗಿ, as printed]; स्वसराणि (*svasarāṇi*)—going to and reaching their own dwelling places; हंसासो न (*haṃsāso na*)—like swans, with a stately gait; आ गंतन (*ā gaṃtana*)—come.
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts of equal minds, you who have shining weapons, come, with the lustrous cows (clouds) and by the indestructible paths of the clouds that have great streams of water, for the joy to be obtained from drinking the Soma juice, like swans with a stately gait going to and reaching their own dwellings.
+
+**Printed English translation**
+
+Maruts, who are of one mind, and are armed with shining lances, come with the bright, full-uddered cows, by unobstructed paths, to partake of the exhilaration of the (soma) juice, as swans (fly) to their nests.
+
+### Printed p. 237
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 19, p. 237 (as supplied, in the form "ಅ. ೨. ಅ. ೭. ಪ. ೧೯."). Note: this page repeats, apparently from the same source text, the Special Topics already reproduced under "Printed p. 235" above (samanyavaḥ … madhor madāya); it is given again here as supplied and the duplication needs the user's check (see vol15/review/page_flags.md).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+समन्यवः—समानमनस्काः, समानक्रोधाः समानतेजसो वा । (*samanyavaḥ—samānamanaskāḥ, samānakrodhāḥ samānatejaso vā |*) The author of the Nirukta has read the word मन्यु (*manyu*) among the names of anger (नि. (*ni.*) 3-9) and has explained: मन्युर्मन्यतेर्दिप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा (*manyurmanyaterdiptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo vā*) (नि. (*ni.*) 10-31). It is described that the Marut deities have one and the same kind of mind, one and the same kind of anger and splendour, and are भ्राजदृष्टयः—दीप्यमानायुधाः (*bhrājadṛṣṭayaḥ—dīpyamānāyudhāḥ*), having shining weapons; they are described as coming to the sacrificial hall.
+
+धेनुभिः रष्यदूधभिः अध्वस्मभिः पथिभिः हंसासो न स्वसराणि—प्रीणयितृभिः महोधस्कैः यद्वा शब्दायमानोच्छ्रितप्रदेशैः मेघैसह् मार्गैरेव वा यथा हंसाः स्वकीयानि निवासस्थानानि प्राप्नुवंति तद्वत् । (*dhenubhiḥ raṣyadūdhabhiḥ adhvasmabhiḥ pathibhiḥ haṃsāso na svasarāṇi—prīṇayitṛbhiḥ mahodhaskaiḥ yadvā śabdāyamānocchritapradeśaiḥ meghaisah mārgaireva vā yathā haṃsāḥ svakīyāni nivāsasthānāni prāpnuvaṃti tadvat |*) The way and the order in which the Maruts come to the sacrifices for the drinking of Soma are stated. It is explained that they come to the sacrificial hall, either with the clouds that gladden the whole world and have abundant (thick) streams of water, or that sound and stand in lofty regions, or by the paths, as swans reach their own dwelling places.
+
+रष्यदूधभिः—विरष्यीति महन्नाम । ऊधांसि जलस्रोतोमार्गः । महोधस्कैः । यद्वा शब्दायमानोच्छ्रितप्रदेशाः । (*raṣyadūdhabhiḥ—viraṣyīti mahannāma | ūdhāṃsi jalasrotomārgaḥ | mahodhaskaiḥ | yadvā śabdāyamānocchritapradeśāḥ |*) विरष्यी (*viraṣyī*) is stated among the names of the great (नि. (*ni.*) 3-13). The path along which water pours down in a stream is called ऊधन् (*ūdhan*). Sāyaṇa has explained it as "having drops (streams) of thick water", or as "lofty regions that make a strong sound".
+
+पथिभिः—पतंति गच्छंतीति पंथानो मेघाः । (*pathibhiḥ—pataṃti gacchaṃtīti paṃthāno meghāḥ |*) Because they are of a moving nature, the clouds are spoken of by the word पंथानः (*paṃthānaḥ*).
+
+मधोर्मदाय—सोमस्य मदार्थं । (*madhormadāya—somasya madārthaṃ |*) The word मधु (*madhu*) is stated among the names of water (नि. (*ni.*) 2-24). And—
+
+> समन्यवः समानमनसः समानक्रोधा वा हे मरुतो नोऽस्माकं ब्रह्माणि ॥
+> अन्ननामैतत् ॥ अन्नानि सवनान्यभिषुतसोमलक्षणानि हवींष्यागंतन । आगच्छत ॥
+> गमेर्लोटि छांदसः शपो लुक् । तप्तनप्तनथनाश्चति तस्य तनबादेशः । आत एव
+> जित्वाभावादनुनासिकलोपाभावः ॥ तत्र दृष्टांतः । नरां न शंसः । नरामस्माकं
+> शंसः शंसनीयं स्तोत्रं यथागच्छथ तद्वत् ॥ नरशब्दात् षष्ठीबहुवचनस्यानित्य-
+> मागमशासनमिति नुडभावः । शंसः कर्मणि घञंत आद्युदात्तः । सुपां सुलुगित्यमः
+> सुआदेशः ॥ आगत्य च धेनुमुदकदानेन प्रीणयितारमश्वामिवोधनि पिप्यत ।
+> यथाश्वाः पीनावयवा भवंति तद्वन्मेघं वर्षणसमर्थमाप्यायितं कुरुतेत्यर्थः ।
+> अपि च जरित्रॆ स्तोत्रे वाजपेशसं वाजैरन्नॆराश्लिष्टं ॥ पिश अवयवे ॥ धियं
+> कर्म कर्त । कुरुत ॥ करोतेश्छांदसः शपो लुक् । पूर्ववत्तशब्दस्य तबादेशः ॥
+
+> *samanyavaḥ samānamanasaḥ samānakrodhā vā he maruto no 'smākaṃ brahmāṇi ‖*
+> *annanāmaitat ‖ annāni savanānyabhiṣutasomalakṣaṇāni havīṃṣyāgaṃtana | āgacchata ‖*
+> *gamerloṭi chāṃdasaḥ śapo luk | taptanaptanathanāścati tasya tanabādeśaḥ | āta eva*
+> *jitvābhāvādanunāsikalopābhāvaḥ ‖ tatra dṛṣṭāṃtaḥ | narāṃ na śaṃsaḥ | narāmasmākaṃ*
+> *śaṃsaḥ śaṃsanīyaṃ stotraṃ yathāgacchatha tadvat ‖ naraśabdāt ṣaṣṭhībahuvacanasyānitya-*
+> *māgamaśāsanamiti nuḍabhāvaḥ | śaṃsaḥ karmaṇi ghañaṃta ādyudāttaḥ | supāṃ sulugityamaḥ*
+> *suādeśaḥ ‖ āgatya ca dhenumudakadānena prīṇayitāramaśvāmivodhani pipyata |*
+> *yathāśvāḥ pīnāvayavā bhavaṃti tadvanmeghaṃ varṣaṇasamarthamāpyāyitaṃ kurutetyarthaḥ |*
+> *api ca jaritrè stotre vājapeśasaṃ vājairannèrāśliṣṭaṃ ‖ piśa avayave ‖ dhiyaṃ*
+> *karma karta | kuruta ‖ karoteśchāṃdasaḥ śapo luk | pūrvavattaśabdasya tabādeśaḥ ‖*
+
+(मि. सं. (*mi. saṃ.*) 3-47-1, as supplied)
+
+In this Ṛk: मधु न ऊर्मि० । मधु सोमं इत्यौपमिकं माद्यतेः । इदमपीतरन्मध्वेतस्मादेव । (*madhu na ūrmi0 | madhu somaṃ ityaupamikaṃ mādyateḥ | idamapītaranmadhvetasmādeva |*) (नि. (*ni.*) 4-8). Because it produces intoxication, Soma is described as the meaning of the word मधु (*madhu*).
+
+### Printed p. 238
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 4, Sū. 34 (as supplied).*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> म॒रुत्वा॑ इंद्र वृष॒भो रणा॑य॒ पिबा॒ सोम॑मनुष्व॒धं मदा॑य ।
+> आ सिं॑चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वं राजा॑सि प्र॒दिवः॑ सु॒तानां॑ ॥
+
+**॥ पदपाठः ॥**
+
+> आ नो ब्रह्माणि मरुतः समन्यवो नरां न शंसः सवनानि गंतन ।
+> अश्वामिव पिप्यत धेनुमूधनि कर्ता धियं जरिते वाजपेशसं ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> आ । नः । ब्रह्माणि । मरुतः । समन्यवः । नरां । न । शंसः । सवनानि । गंतन ।
+> अश्वां इव । पिप्यत । धेनुं । ऊधनि । कर्त । धियं । जरित्रे । वाजपेशसं ॥ ६ ॥
+
+> *ā | naḥ | brahmāṇi | marutaḥ | samanyavaḥ | narāṃ | na | śaṃsaḥ | savanāni | gaṃtana |*
+> *aśvāṃ iva | pipyata | dhenuṃ | ūdhani | karta | dhiyaṃ | jaritre | vājapeśasaṃ ‖ 6 ‖*
+
+Gist: O Maruts of one mind, come to our food-offerings and Soma-libations as to the praise of men, make the cloud swell like a mare's udder, and fashion a rite that brings food to the singer.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+समन्यवः (*samanyavaḥ*)—those of equal minds; मरुतः (*marutaḥ*)—O Maruts; नः (*naḥ*)—to be offered by us; ब्रह्माणि (*brahmāṇi*)—the food; सवनानि (*savanāni*)—the Soma juice that has been pressed [as supplied: हिंदल्पट्ट (*hiṃdalpaṭṭa*)], desiring it; नरां (*narāṃ*)—of men (like us); शंसः न (*śaṃsaḥ na*)—as you come desiring praises; आ गंतन (*ā gaṃtana*)—come; (then) धेनुं (*dhenuṃ*)—the cloud that satisfies by giving water; अश्वामिव ऊधनि (*aśvāmiva ūdhani*)—as one makes the limbs of mares robust by giving them water to drink; पिप्यत (*pipyata*)—make it swell so as to be rain-producing; जरित्रे (*jaritre*)—for the singer; वाजपेशसं (*vājapeśasaṃ*)—so as to provide food; धियं (*dhiyaṃ*)—the rite; कर्त (*karta*)—perform. (The supplied text of this page ends here, at माडिरि (*māḍiri*), without Bhāvārtha or printed English.)
+
 ---
 
-**Progress note:** Done through printed p. 235 (PDF 235). Sūkta 34 Ṛk 3 Special Topics finished (p. 233); Ṛk 4 complete (pp. 233-234); p. 235 reproduced as supplied. Flags: p. 235 starts a fresh Special Topics (samanyavaḥ, dhenubhiḥ…) that does not follow p. 234's broken sentence and its head reads 237 — page order/content to check; supplied ಹನಿರ್ಲಕ್ಷಣ for ಹವಿರ್ಲಕ್ಷಣ, ಹಯಣಭಾಷ್ಯಂ label; p. 235 Ṛk not identified
+**Progress note:** Done through printed p. 238 (PDF 238). Sūkta 34 Ṛk 5 (Pada, bhāṣya, printed English) p. 236; p. 237 repeats the Ṛk 5 Special Topics already given under p. 235 (as supplied); Ṛk 6 pp. 238 up to Pratipadārtha. Flags: duplicate Special Topics (p. 235/237), ಭವಾರ್ಥ label and ಸಾಯಜಭಾಷ್ಯಂ fixed in kn.md, ಹಷಾರ್ಥ, ಮಿ. ಸಂ. as supplied, p. 238 ends mid-Pratipadārtha
