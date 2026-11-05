@@ -29482,6 +29482,104 @@ The Kannada: "Here it is said that Indra, by his greatness, turned the river tha
 
 **वज्रेण अनः उषसः संपिपेष (*Vajreṇa anaḥ uṣasaḥ saṃpipeṣa*)**: The Kannada: "Indra, with his thunderbolt, ground the wagon of the goddess Uṣas, or her chariot, to powder, that is, pulverized it. This matter—" *(The sentence breaks off here at the foot of the page, with a dash, and continues on the next page, not yet seen.)*
 
+### Printed p. 767
+
+*(Header: "A. 2 A. 6 V. 16", "Ṛgvedasaṃhitā", "767". The page begins inside the Special Topics of the preceding Ṛk 6, whose Sanskrit quotation is given here in Kannada script, with its sources.)*
+
+दिवश्चिद्वा दुहितरं महान्महीयमानां । उषासमिंद्र सं पिणक् ॥ (*divaścidvā duhitaraṃ mahānmahīyamānāṃ | uṣāsamiṃdra saṃ piṇak ‖*)
+अपोषा अनसः सरत्संपिष्टादह बिभ्युषी । नि यत्सीं शिश्नथद्वृषा ॥ (*apoṣā anasaḥ saratsaṃpiṣṭādaha bibhyuṣī | ni yatsīṃ śiśnathadvṛṣā ‖*)
+एतदस्या अनः शये सुसंसिष्टं विपाश्या । ससार सीं परावतः ॥ (*etadasyā anaḥ śaye susaṃsiṣṭaṃ vipāśyā | sasāra sīṃ parāvataḥ ‖*)
+उत सिंधुं विबाल्यं वितस्थानामधि क्षमि । परि ष्ठा इंद्र मायॆया ॥ (*uta siṃdhuṃ vibālyaṃ vitasthānāmadhi kṣami | pari ṣṭhā iṃdra māyèyā ‖*)
+(Ṛ. Saṃ. 4-30-9 to 12)
+
+The Kannada: "What is said in these Ṛks is this: O Indra, you are of great glory. You pulverised the (chariot of the) goddess Uṣas, the daughter of heaven, who is worthy of worship. O Indra, giver of what is desired, when you pulverised the chariot of the goddess Uṣas, she was greatly frightened and moved away from that shattered chariot. The chariot of the goddess Uṣas that Indra had pulverised lay fallen on the bank of the river named Vipāśī. Because the chariot lay broken, the goddess Uṣas moved away from that region. O Indra, you confronted by your power of illusion (māyā) the river (the river Sindhu) that was flowing full of water. This is the main purport of these Ṛks. But why Indra pulverised and destroyed the chariot of the goddess Uṣas is not clear. Perhaps, because by Indra's power the goddess Uṣas (the dawn time) vanishes as soon as the sun rises, the matter may have been described in this way. For"
+
+इंद्रस्य वज्रादबिबेदभिश्चथः प्राक्रामच्छुनूध्यरजहादुषा अनः । (*iṃdrasya vajrādabibedabhiścathaḥ prākrāmacchunūdhyarajahāduṣā anaḥ |*)
+(Ṛ. Saṃ. 10-138-5; printed "ಮ. ಸಂ." in the Kannada)
+
+The Kannada: "in this Mukku (verse) the same purport is indicated."
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> स वि॒द्वा अ॑पगो॒हं क॒नीना॑मा॒विर्भव॒न्नुद॑तिष्ठत्परा॒वृक् ।
+> प्रति॑ श्रो॒णः स्था॒द्व्य१॒ं॑गनग॑चष्ट॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+**॥ पदपाठः ॥**
+
+> सः । विद्वान् । अप्रगोहं । कनीनां । आविः । भवन् । उत् । अतिष्ठत् । परावृक् ।
+> प्रति । श्रोणः । स्थात् । वि । अनक् । अचष्ट । सोमस्य । ता । मदे । इंद्रः । चकार ॥
+> ॥ ७ ॥
+
+> *saḥ | vidvān | apragohaṃ | kanīnāṃ | āviḥ | bhavan | ut | atiṣṭhat | parāvṛk |*
+> *prati | śroṇaḥ | sthāt | vi | anak | acaṣṭa | somasya | tā | made | iṃdraḥ | cakāra ‖*
+> *‖ 7 ‖*
+
+### Printed p. 768
+
+*(Header: "768", "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 2 Sū. 15".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Long ago maidens mocked the lame and blind sage Parāvṛj; he praised Indra, gained eyes and feet, and then saw and overtook them.*
+
+> पुरा किल कन्यकाश्चक्षुर्हीनं पादहीनं परावृजं जिघृक्षुमृषिं दृष्ट्वाभिदु-
+> द्रुवुः । ततः स ऋषियिंद्रं स्तुत्वा चक्षुः पादं च लेभे । तदेतदाह । कनीनां कन्य-
+> कानामपगोहमपगोहनं तिरोभावं विद्वान् परावृगृषिराविर्भवन् सर्वेषां
+> प्रत्यक्षो भवन् उदतिष्ठत् । श्रोणः पूर्वं पंगुरिदानीमिंद्रस्य प्रसादाद्विभग्न-
+> जानुस्ताः कन्याः प्रति स्थात् । पूर्वमंधोऽधुना चक्षुर्लाभाद्व्यचष्ट । ताः कन्यका
+> विशेषेण पश्यति स्म । तानीमानि कर्माणि स इंद्रश्चकार ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+कनीनां (*kanīnāṃ*)—of the maidens. अपगोहं (*apagohaṃ*)—the disappearance (hiding). विद्वान् (*vidvān*)—knowing. सः परावृक् (*saḥ parāvṛk*)—that sage named Parāvṛk. आविर्भवन् (*āvirbhavan*)—becoming visible to all. उदतिष्ठत् (*udatiṣṭhat*)—stood up. श्रोणः (*śroṇaḥ*)—having formerly been lame, and having by Indra's favour got his leg properly. प्रति स्थात् (*prati sthāt*)—he chased those maidens and caught them. अनक् (*anak*)—having formerly been blind and now having got eyes. व्यचष्ट (*vyacaṣṭa*)—he saw them all. सोमस्य (*somasya*)—by the drinking of the soma juice. मदे (*made*)—when exhilaration arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—did.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada (the label is printed बानार्थ (*bānārtha*), as supplied): "The sage named Parāvṛk, knowing the disappearance (hiding) of the maidens who were mocking him, became visible to all and stood up. Having formerly been lame, and having by Indra's favour got his leg properly, he chased those maidens and caught them. Having formerly been blind, and afterwards having got eyes, he saw them all. When exhilaration arose from the drinking of the soma juice, Indra did these great deeds." *(The text twice prints कनैयर (*kanaiyara*) for कन्यॆयर (*kanyèyara*), as supplied.)*
+
+**English Translation** *(as printed)*
+
+Conscious of the disappearancee [sic] of the damsels, tho(Rishi) [sic] Paravrij, becoming manifest, stood up; the lame man overtook(them), the blind man beheld(them): in the exhilaration of the Soma, Indra has done these(deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+परावृक् (*parāvṛk*)—He is a sage. He was lame and blind. It is said in many places that by Indra's favour he obtained legs and eyes. We have described him at length on pages 715–717 of this same volume.
+
+### Printed p. 769
+
+*(Header: "A. 2 A. 6 V. 16", "Ṛgvedasaṃhitā", "769". The page begins with the continuing commentary on the preceding Ṛk.)*
+
+सः विद्वान् अपगोहं कनीनां आविः भवन् उदतिष्ठत् परावृक् (*saḥ vidvān apagohaṃ kanīnāṃ āviḥ bhavan udatiṣṭhat parāvṛk*)—The Kannada: "In former times there was a very intelligent sage named Parāvṛk. He had no legs and was lame. His eyes also could not see; therefore he was blind. Seeing this, some maidens (girls), out of mischief, came near him and, troubling him in various ways, went on mocking him. If he resisted, they would run far away. This sage, being lame, had no strength to catch them. Therefore he praised Indra, and Indra, pleased with his prayer, gave him legs and eyes. By that he became able to walk and see like everyone. That is what is described in this Ṛk. While those maidens were looking on, this sage appeared before them and stood up. Until then those maidens were not visible to him; now they became visible. Until then he had no strength to walk. Now, because legs had come, he stood up before them like everyone else, or chased them and caught them. This is the main purport."
+
+प्रति श्रोणः स्थात्—पूर्वं पंगुरिदानीमिंद्रस्य प्रसादाद्विभग्नजानुस्ताः कन्याः प्रति स्थात् । (*prati śroṇaḥ sthāt—pūrvaṃ paṃguridānīmiṃdrasya prasādādvibhagnajānustāḥ kanyāḥ prati sthāt |*) The Kannada: "Formerly he was lame without legs. Now, because legs had come by Indra's favour, he stood up before those maidens."
+
+वि अनक् अचष्ट—पूर्वमंधोऽधुना चक्षुर्लाभाद्व्यचष्ट । ताः कन्याका विशेषेण पश्यति स्म । (*vi anak acaṣṭa—pūrvamaṃdho 'dhunā cakṣurlābhādvyacaṣṭa | tāḥ kanyākā viśeṣeṇa paśyati sma |*) The Kannada: "Having formerly been blind, he could see nothing. Now, because eyes had come, he saw well those maidens (कन्निकॆयरन्नु (*kannikèyarannu*)) who were before him. This is the main purport."
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> भि॒नद्व॒लमंगि॑रोभिर्गृणा॒नो वि पर्व॑तस्य दृंहि॒तान्यै॑रत् ।
+> रि॒णग्रोधां॑सि कृ॒त्रिमा॑ण्येषां॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार॥
+
+**॥ पदपाठः ॥**
+
+> भिनत् । वलं । अंगिरःभिः । गृणानः । वि । पर्वतस्य । द्वंहितानि । ऐ र त् ।
+> रिणक् । रोधांसि । कृत्रिमाणि । एषां । सोमस्य । ता । मदे । इंद्रः । चकार ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, praised by the Aṅgirases, split Vala and burst open the mountain's strongly fastened doors that confined the cows (the text breaks off at the foot of the page).*
+
+> अंगिरोभिर्गृणानः स्तूयमानः स इंद्रो वलं वलनामकमसुरं भिनत् ।
+> अभिनत् । तथा गवां निरोधकस्य पर्वतस्य दृंहितानि शिलाभिर्दृढीकृतानि द्वाराणि
+
+> *aṃgirobhirgṛṇānaḥ stūyamānaḥ sa iṃdro valaṃ valanāmakamasuraṃ bhinat |*
+> *abhinat | tathā gavāṃ nirodhakasya parvatasya dṛṃhitāni śilābhirdṛḍhīkṛtāni dvārāṇi*
+> [49] Vol. 14.
+
 ---
 
-**Progress note:** Done through printed p. 766 (PDF 790); the task labels (765–767) were each one too high, since the headers read 764, 765, 766, so offset 24 holds. Sūkta 15: Ṛk 5 is complete (printed English finished on p. 764; the Viśeṣaviṣayagaḷu ends on p. 765 before a rule line). Ṛk 6 is open: Saṃhitā, Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is begun (Sindhu turned north; the sentence on Uṣas's wagon breaks off at the foot of p. 766 with "This matter—"). Numeral file: 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed and doubtful: the Nighaṇṭu reference (read 2-24 [?]), the Āśvalāyana reference 9-8, the bhāṣya reference 4-30-9, the references 4-30-11 and 4-30-12, the varga numeral 16 in the p. 765 header, the smudged place after सेना in the Ṛk 6 bhāṣya, the sandhi विवृश्चन्सोमस्य in the Saṃhitā, स्तोतॄणां, and परुष्णी (here) against पुरुष्णी (p. 763 bhāṣya). The bold heading on p. 764 prints आपारयत् (as printed). Accents not reproduced.
+**Progress note:** Done through printed p. 769 (PDF 769). Sukta 15 Rk 7 complete (printed English with [sic]); Rk 8 begun, bhashya breaks off at foot of p. 769
