@@ -31649,6 +31649,109 @@ is exceedingly praiseworthy. It protects us from calamities (difficulties), and 
 
 O Indra, that gift given by you, possessed of abundant wealth, certainly fulfils the desire of the praising sacrificer in an excellent manner.
 
+### Printed p. 836
+
+*(Header: "836 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 19]".)*
+
+(Bhāvārtha of Ṛk 9 continued.) Give such a gift also to us, your praisers. You who are worthy of worship, do not disregard us. Accompanied by excellent sons, we recite abundant praise in this sacrifice.
+
+**English Translation (as printed)**
+
+That opulent donation which proceeds, Indra, from you, assuredly bestows upon him who praises you the boon(that he desires): grant it to(us) your adorers: do not you, who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you in this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk was already read earlier at Ṛ. Saṃ. 2-11-21, so its special topics have been written there at length; they may be seen on pages 638 to 640 of this same part.
+
+*(Printed title: "ಹತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು" — "The nineteenth sūkta". A short rule follows the title.)*
+
 ---
 
-**Progress note:** Done through printed p. 835 (PDF 835). Sukta 18 Rk 8 completed (Pratipadartha, Bhavartha, English, Special Topics); Rk 9 Samhita, Pada, bhasya, Pratipadartha placed; Bhavartha begun (continues next window)
+## Sūkta 19
+
+**Sāyaṇa's introduction (Sanskrit):**
+
+> अपाय्यस्येति नवर्चमष्टमं सूक्तं गार्त्समदं त्रैष्टुभन्मृंद्रं । अपा-
+> यीत्यनुक्रांतं । लैंगिकः सूक्तविनियोगः । द्वितीये पर्याये होतृतस्रयाज्या-
+> पायीत्येषा । आ. ६-४ ॥
+
+**Anuvāda**
+
+The Kannada: "This sūkta, अपाय्यस्य (*apāyyasya*), is the eighth sūkta in the second anuvāka. It has nine Ṛks. Gṛtsamada is the ṛṣi; Indra is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said to begin with अपायि (*apāyi*). The application (viniyoga) of this sūkta is Laiṅgika. Besides, in the second paryāya the Hotṛ, when reciting the śastra mantras, is to recite the first Ṛk of this sūkta, अपायि (*apāyi*), as the yājyā mantra, as stated in the Āśvalāyana Śrauta Sūtra (Ā. 6-4)."
+
+### Printed p. 837
+
+*(Header: "[A. 2. A. 6. V. 23] Ṛgvedasaṃhitā 837".)*
+
+**Sūkta heading block:**
+
+> ॥ ओं ॥
+> सूक्त—१९
+> ॥ मंडल—२ ॥ अनुवाक—२ ॥ सूक्त—१९ ॥
+> ॥ अष्टक—२॥ अध्याय—६ ॥ वर्ग— २३, २४॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ-९ ॥
+> ऋषिः—गृत्समदः ॥
+> देवता—इंद्रः ॥
+> छंदः—त्रिष्टुप् ॥
+
+> *‖ oṃ ‖*
+> *sūkta—19*
+> *‖ maṃḍala—2 ‖ anuvāka—2 ‖ sūkta—19 ‖*
+> *‖ aṣṭaka—2‖ adhyāya—6 ‖ varga— 23, 24‖*
+> *‖ sūktadalliruva ṛksaṃkhyè-9 ‖*
+> *ṛṣiḥ—gṛtsamadaḥ ‖*
+> *devatā—iṃdraḥ ‖*
+> *chaṃdaḥ—triṣṭup ‖*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अपा॑य्य॒स्यान्द॑सो॒ मदा॑य॒ मनी॑षिणः सुवा॒नस्य॒ प्रय॑सः ।
+> यस्मि॒न्निन्नः॑ प्र॒दिवि॑ वावृधा॒न ओको॑ द॒धे ब्र॑ह्म॒ण्यन्त॑श्च॒ नरः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> अपायि । अस्य । अन्फसः । मदाय । मनीषिणः । सुवानस्य । प्रयसः ।
+> यस्मिन् । इन्प्रः । प्रदिवि । ववृधानः । ओकः । दधे । ब्रह्मण्यन्तः । च । नरः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सुवानस्य सोमाभिषवं कुर्वाणस्य मनीषिणः प्राज्ञस्य यजमानस्य संबंधिनः
+> प्रयसः ॥ प्रीज् पर्पणे । असुन् । प्रीतिकरस्यास्य सोमलक्षणस्यांधसो मदाया-
+> पायि । एतदन्नमिंद्रेण पीतमित्यर्थः ॥ यद्वा अपायीति पातेर्वत्ययो बहुल-
+> मिति जिह् कर्तरि भवति । छंदसि लुङ्ङिट् इति लोडर्थे लुज् ॥ प्रीतिकरस्यांधसो
+> मदायापायि ॥ शेषविवक्षया कर्मणि षष्ठी ॥ इंद्रः सोमं पिबतु । प्रदिवि पुराणे
+> यस्मिन्नोमलक्षणेऽंधसि वावृधानो वर्धमान इंद्र ओको दधे । सेव्यतया
+> निवासं चकार । किंच ब्रह्मण्यंत इंद्राय स्तोत्रमिच्छंतो नरः कर्मणां नेतार
+> ऋत्विजो यस्मिन्निवासं दधिरे । तदेतदपायाति पूर्णेजान्वयः ॥
+
+*Gist: Indra has drunk this pleasing Soma food of the wise sacrificer, in which he grew and made his dwelling, where the priests too abide.*
+
+### Printed p. 838
+
+*(Header: "838 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 19.]".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+प्रदिवि (*pradivi*)—ancient; यस्मिन् (*yasmin*)—in which food in the form of Soma; वावृधानः (*vāvṛdhānaḥ*)—thriving; इंद्रः (*iṃdraḥ*)—Indra; ओकः (*okaḥ*)—a fitting dwelling; दधे (*dadhe*)—made for himself (and in which); ब्रह्मण्यंतः (*brahmaṇyaṃtaḥ*)—desiring to offer praise; नरश्च (*naraśca*)—and the priests, the conductors of the rite, also (obtained a dwelling), such a one; सुवानस्य (*suvānasya*)—of the one who presses the Soma juice; मनीषिणः (*manīṣiṇaḥ*)—offered by the wise sacrificer; प्रयसः (*prayasaḥ*)—and agreeable; अस्य अंधसः (*asya aṃdhasaḥ*)—this food in the form of Soma (the Soma juice); मदाय (*madāya*)—for gaining exhilaration; अपायि (*apāyi*)—has been drunk (by Indra).
+
+**भावार्थ (Bhāvārtha)**
+
+The ancient food in the form of Soma, in which Indra, thriving, made for himself a fitting dwelling, and in which the priests too, desiring to offer praise to Indra, obtained a dwelling, and which is offered by the sacrificer who presses the Soma juice and is agreeable, this food in the form of Soma (the Soma juice) has been drunk by Indra for exhilaration.
+
+**English Translation (as printed)**
+
+It has been partaken(by Indra) for his exhilaration, of this agreeable (sacrificial) food, the libation of his devout(worshipper); thriving by which ancient(beverage), he has bestowed a(fitting) dwelling, where the adoring conductors(of the ceremony) abide.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अंधसः (*aṃdhasaḥ*)—the word अंधः (*aṃdhaḥ*) is read among the names of food (Nir. 3-9). And "अंध इत्यन्ननामाध्यानीयं भवति (*aṃdha ityannanāmādhyānīyaṃ bhavati*)" (Nir. 5-1). Since everyone prays for or desires it, अंधः (*aṃdhaḥ*) means food. This food may be in the form of any nourishment, or in the form of the Soma juice fit for drinking. The author of the Nirukta explains it by the Vedic passage आमत्रेभिः सिंचता मद्यमंधः (*āmatrebhiḥ siṃcatā madyamaṃdhaḥ*); the sense is the Soma juice that produces exhilaration. In the present Ṛk the use of the two words मदाय (*madāya*) (producing exhilaration or joy) and सुवानस्य (*suvānasya*) (preparing the Soma juice) supports precisely the meaning "Soma juice" for the word अंधसः (*aṃdhasaḥ*). In many places, where the Soma juice is indicated, the word अंधः (*aṃdhaḥ*) is used.
+
+त्वं विप्रत्वं कविर्मधु प्रजातमंधसः (*tvaṃ vipratvaṃ kavirmadhu prajātamaṃdhasaḥ*) (Pu. Saṃ. 9-18-2 [as supplied])
+
+*(The page ends here; the passage of the Special Topics may continue on p. 839.)*
+
+---
+
+**Progress note:** Done through printed p. 838 (PDF 838). Sukta 18 completed (Rk 9 Bhavartha, English, Special Topics); Sukta 19 begun: intro, heading block, Rk 1 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, English; Special Topics of Rk 1 begun
