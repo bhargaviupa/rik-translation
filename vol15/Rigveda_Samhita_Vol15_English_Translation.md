@@ -20811,6 +20811,91 @@ In the Aitareya Brāhmaṇa the explanation of the Āprīs is given while direct
 
 The Āprī Ṛks are full of radiance and endowed with Brahmic splendour. By such Ṛks (the hotṛ) becomes the cause of satisfaction; thus there too it is told that they are a means of self-satisfaction. Afterwards it is told that the deities Samidh, Tanūnapāt and so on have identity with principles such as breath. The Aitareya Brāhmaṇa itself says before all others, telling these sūktas stated in the different Maṇḍalas of the Ṛgveda Saṃhitā, their fruit, and the seers who recited them
 
+### Printed p. 668
+
+*[Running head, p. 668: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+ताभिर्य्यथयष्याप्रीणीयाद्यद्यथयष्या प्रीणाति यजमानमेव तद्बंधुताया नोत्सृजति । (*tābhiryyathayaṣyāprīṇīyādyadyathayaṣyā prīṇāti yajamānameva tadbaṃdhutāyā notsṛjati |*)
+(printed ಇ. ಬ್ರಾ. 2-4)
+
+It is told that, by reciting these Ṛks composed by seers, he keeps the sacrificer from being parted from the sacrifice; thus the fruit of reciting these Ṛks is told. These sūktas were not seen by a single seer. Different seers saw these sūktas in their own personal circumstances. Even so, the nature of these sūktas and the fruit of reciting them appear alike in all of them.
+
+It is known from the explanation of the Nirukta authors that from the time of the Brāhmaṇas and the like there has been a difference of opinion about these Āprī sūktas and the deities of these sūktas.
+
+⟦ಅಥಾತ ಆಪ್ರಿಯಃ । ಆಪ್ರಿಯಃ ಕಸ್ಮಾದಾಪ್ನೋತೇಃ ಪ್ರೀಣಾತೀರ್ವಾ । ಆಪ್ರೀಭಿರಾಪ್ರಿಣಾತೀತಿ
+ಚ ಬ್ರಾಹ್ಮಣಂ ।⟧
+(printed ನಿ. 8-4)
+
+The Nirukta authors have shown that, about the Āprī sūktas, the view of the Brāhmaṇas and the like differs from their own. Besides, they have cited from time to time the opinions of sages such as Kātkya, Śākapūṇi and Mādhyamika. It has been told in the special topics of the respective Ṛks that although Kātkya and the others were ritualists, in many contexts they do not accept the derivations given in the Brāhmaṇas. Having stated all these opinions, Yāska finally gives his own definite opinion. For example, he first collects all the opinions stated in the Brāhmaṇas and the like about the Āprī deities.
+
+⟦ಇತೀಮಾ ಆಪ್ರೀದೇವತಾ ಅನುಕ್ರಾಂತಾಃ । ಅಥ ಕಿಂ ದೇವತಾಃ ಪ್ರಯಾಜಾನುಯಾಜಾಃ
+ಆಗ್ನೇಯಾ ಇತ್ಯೇಕೇ । ಆಗ್ನೇಯಾ ವೈ ಪ್ರಯಾಜಾ ಆಗ್ನೇಯಾ ಅನುಯಾಜಾ ಇತಿ ಚ
+ಬ್ರಾಹ್ಮಣಂ । ಛಂದೋದೇವತಾ ಇತ್ಯಪರಂ । ಛಂದಾಂಸಿ ವೈ ಪ್ರಯಾಜಾಶ್ಚಂದಾಂಸ್ಯನುಯಾಜಾ ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ । ಋತುದೇವತಾ ಇತ್ಯಪರಂ । ಋತವೋ ವೈ ಪ್ರಯಾಜಾ
+ಋತವೋಽನುಯಾಜಾ ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ । ಪಶುದೇವತಾ ಇತ್ಯಪರಂ । ಪಶವೋ ವೈ
+ಪ್ರಯಾಜಾಃ ಪಶವೋಽನುಯಾಜಾ ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ । ಪ್ರಾಣದೇವತಾ ಇತ್ಯಪರಂ ।
+ಪ್ರಾಣಾವೈ ಪ್ರಯಾಜಾ ಪ್ರಾಣಾ ವಾ ಅನುಯಾಜಾ ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ । ಆತ್ಮದೇವತಾ
+ಇತ್ಯಪರಂ । ಆತ್ಮಾ ವೈ ಪ್ರಯಾಜಾಃ ಆತ್ಮಾ ವಾ ಅನುಯಾಜಾ ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ ।
+ಆಗ್ನೇಯಾ ಇತಿ ತು ಸ್ಥಿತಿಃ । ಭಕ್ತಿಮಾತ್ರಮಿತರಂ ॥⟧
+(printed ಸಿ. 8-22, i.e. Ni. 8-22)
+
+Stating the respective views in this way, first,
+
+### Printed p. 669
+
+*[Running head, p. 669: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+⟦ತವ ಪ್ರಯಾಜಾ ಅನುಯಾಜಾಶ್ಚ ಕೇವಲ ಊರ್ಜಸ್ವಂತೋ ಹವಿಷಃ ಸಂತು ಭಾಗಾಃ ।
+ತವಾಗ್ನೇ ಯಜ್ಞೋಽಯಮಸ್ತು ಸರ್ವಸ್ತುಭ್ಯಂ ನಮಂತಾಂ ಪ್ರದಿಶಶ್ಚ ತಸ್ರಃ ।⟧
+(Ṛ. Saṃ. 10-51-9)
+
+citing this Ṛk, he gives his own explanation that, as stated in it, the prayāja and anuyāja mantras are addressed to Agni alone, and afterwards states other opinions. Of these, this same view is supported by the Brāhmaṇa sentence. But some say that they are addressed to the metres as deities (Śat. Brā. 1-3-2-9); others, to the deities of the nature of seasons (Śat. Brā. 1-3-2-8); others, to the sacrificial animal (Kau. Brā. 3-4); some, to the deity of the nature of breath (Ai. Brā. 1-11, Śat. Brā. 11-2-7-27); and still others, to the self (Tai. Saṃ. 6-1-5-4). Having collected all that has been said, he states his definite opinion that to say they are addressed to Agni is the sound view.
+
+In Kātyāyana's Sarvānukramaṇī a difference is stated between the words āpra and aprī (this difference is told at the end of the Aprī sūkta, that is, the sūkta 1-142: it shows that the Ṛks addressed to the deity Narāśaṃsa are known as āpra mantras and those addressed to the deity Tanūnapāt as aprī mantras). In the Bṛhaddevatā,
+
+⟦ದ್ವಿತೀಯೇ ದ್ವಾದಶರ್ಚೆ ತು ಪ್ರತ್ಯೃಚಂ ಯಾಸ್ತು ದೇವತಾಃ ।
+ಸೂಯಂತೇ ಹ್ಯಗ್ನಿನಾ ಸಾರ್ಧಂ ತಾಸಾಂ ನಾಮಾನಿ ಮೇ ಶೃಣು ॥
+ಪ್ರಥಮಾಯಾಂ ಸ್ತುತಶ್ಚೇಧ್ಮೋ ದ್ವಿತೀಯಾಯಾಂ ತನೂನಪಾತ್ ।
+ನರಾಶಂಸಸ್ತ್ರಿತಿಯಾಯಾಂ ಚತುರ್ಥ್ಯಾ೦ ಸೂಯತೇ ತ್ವಿಳಃ ॥
+ಬರ್ಹಿರೇವ ತು ಪಂಚಮ್ಯಾಂ ದ್ವಾರೋ ದೇವ್ಯಸ್ತತೋಽನ್ಯಯಾ ॥
+ನಕ್ತೋಷಾಸಾ ತು ಸಪ್ತಮ್ಯಾಮಷ್ಟಮ್ಯಾಂ ಸಂಸ್ತುತೌ ಸಹ ।
+ದೇವ್ಯಾವಿತಿ ತು ಹೋತಾರ್ ನವಮಾಮೃಚಿ ಸಂಸ್ತುತಾಃ ॥
+ತಿಸ್ರೋ ದೇವ್ಯೋ ದಶಮ್ಯಾಂ ತು ಜ್ಞೇಯಸ್ವಷ್ಟೈವ ತು ಸ್ತುತಃ ।
+ಏಕಾದಶ್ಯಾಂ ತು ಸೂಕ್ತಸ್ಯ ಸ್ತುತಂ ವಿದ್ಯಾದ್ವನಸ್ಪತಿಂ ॥
+ದ್ವಾದಶ್ಯಾಂ ತು ಸ್ತುತಾ ದೇವೀರ್ವಿದ್ಯಾತ್ಸಾಹಾಕೃತೀರಿತಿ ।
+ಸೂಕ್ತೇಽಸ್ಮಿನ್ಪ್ರತ್ಯೃಚಂ ಯಾಸು ದೇವತಾಃ ಪರಿಕೀರ್ತಿತಾಃ ॥
+ತಾ ಏವ ಸರ್ವಾಸ್ವಾಪ್ರೀಷು ದ್ವಿತೀಯಾ ತು ವಿಕಲ್ಪ್ಯತೇ ।⟧
+(printed ಬೃ. ದೇ. 2-146 to 151)
+
+### Printed p. 670
+
+*[Running head, p. 670: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+Naming in this way all the deities beginning with Idhma, it also shows the order of the sūkta and that in each Ṛk there is a separate deity.
+
+Speaking of how many Āprī sūktas there are, the Nirukta authors say—
+
+इतीमान्येकादशाप्रीसूक्तानि । तेषां वासिष्ठ मात्रेयं वाध्र्यश्वं गार्त्समदमिति नाराशंसवंति । मैधातिथं दैर्घतमसं प्रैषितमित्युभयवंत्यतोऽन्यानि तनूनपात्वंति तनूनपात्वंति । (*itīmānyekādaśāprīsūktāni | teṣāṃ vāsiṣṭha mātreyaṃ vādhryaśvaṃ gārtsamadamiti nārāśaṃsavaṃti | maidhātithaṃ dairghatamasaṃ praiṣitamityubhayavaṃtyato 'nyāni tanūnapātvaṃti tanūnapātvaṃti |*)
+(printed ಸಿ. 8-22)
+
+Of these sūktas, the praises seen by Vasiṣṭha, Atri, Vādhryaśva and Gṛtsamada are directed to Narāśaṃsa; those seen by the seers Medhātithi and Dīrghatamas, and the Praiṣa sūkta also, are addressed to both deities, Tanūnapāt and Narāśaṃsa; the remaining four sūktas are addressed to the deity Tanūnapāt alone. In all (counting the Praiṣa sūkta) there are eleven Āprī sūktas. The Bṛhaddevatā too has the same view:
+
+⟦ಪ್ರೇಷೈಃ ಸಹಾಪ್ರೀಸೂಕ್ತಾನಿ ತಾನ್ಯೇಕಾದಶ ಸಂತಿ ಚ ।
+ಯಜೂಂಷಿ ಪ್ರೈಷಸೂಕ್ತಂ ವಾ ದಶೈತಾನೀತರಾಣಿ ತು ॥
+ಸೌತ್ರಾಮಣ್ಯಾನಿ ತು ತ್ರೀಣಿ ಪ್ರಾಜಾಪತ್ಯಾಶ್ವಮೇಧಿಕೇ ।
+ಪುರುಷಸ್ಯ ತು ಯನ್ಮೇಧೇ ಯಜುಷ್ಟೇವ ತು ತಾನಿ ಷಟ್ ॥
+ಅತ್ರೈವ ಪ್ರೈಷಸೂಕ್ತಂಸ್ಯಾನ್ನಯಜುಷ್ವಾದ್ರಿಯೇತ ತತ್ ।
+ತೇಷಾಂ ಪ್ರೈಷಗತಂ ಸೂಕ್ತಂ ಯಚ್ಚ ದೀರ್ಘತಮಾ ಜಗೌ ।
+ಮೇಧಾತಿಥೌ ಯದುಕ್ತಂ ಚ ತ್ರಿಣ್ಯೇವೋಭಯವಂತಿ ತು ।
+ಋಷೌ ಗೃತ್ಸಮದೇ ಯಚ್ಚ ವಾಧ್ಯಶ್ವೇ ಚ ಯದುಚ್ಯತೇ ॥
+ನರಾಶಂಸವದತ್ರೇಶ್ಚ ದದರ್ಶ ಚ ಯದೌರ್ವಶಃ ।
+ತನೂನಪಾದಗಸ್ತ್ಯಶ್ಚ ಜಮದಗ್ನಿಶ್ಚ ಯಜ್ಜಗೌ ॥
+ವಿಶ್ವಾಮಿತ್ರ ಋಷಿಯರ್ಯಶ್ಚ ಜಗೌ ವೈ ಕಾಶ್ಯಪೋಽಸಿತಃ ।
+ಮೇಧಾತಿಥೇರ್ಯುಚಾಂ ಯಾಸ್ತು ಪ್ರೋಕ್ತಾ ದ್ವಾದಶ ದೇವತಾಃ ॥
+ಸಂಪದ್ಯಂತೇ ಯಥಾಗ್ನಿಂ ತಾಃ ಸಂಪದಂ ತಾಂ ನಿಬೋಧತ ।⟧
+(printed ಬೃ. ದೇ. 2-152 to 157)
+
+In these sentences it is said that with the Praiṣa sūkta there are eleven Āprī sūktas in all, and without it ten; and, following the Nirukta sentence, the order of the sūktas addressed to Narāśaṃsa, Tanūnapāt and the other deities, and composed by seers such as Medhātithi, is given.
+
 ---
 
-**Progress note:** Done through printed p. 667 (PDF 667). Sūkta 3 Ṛk 11 Special Topics end (Sūkta 3 ends); Sūkta 4 begun: Pīṭhike on the Āprī sūktas
+**Progress note:** Done through printed p. 670 (PDF 670). Sūkta 4 Pīṭhike on the Āprī sūktas continues (Nirukta 8-4, 8-22; Bṛhaddevatā 2-146 to 157)
