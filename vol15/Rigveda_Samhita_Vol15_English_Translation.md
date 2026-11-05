@@ -21213,6 +21213,91 @@ This terrestrial Agni is the napāt, grandson, of the Agni of the divine world; 
 
 Viśvavārā: desired by all. Dīdhitiḥ: praise (or radiance). Hotāraṃ: Agni, who invites the gods. Pra jigāti: let it go and join facing him. Prathamaṃ: the chief. Vṛṣabhaṃ: the shower of desires. Vandadhyai: the one worthy of worship, Agni. Accha: facing him. Namobhiḥ: with homage. Iḷaḥ [printed so]: foods in the form of oblation. Yajadhyai: let them go and join for the sacrifice. Iṣitaḥ: sent (by us). Yajīyān: the most worshipful. Saḥ: Agni. Devān: the gods (addressing). Yakṣat: let him sacrifice
 
+### Printed p. 683
+
+*[Running head, p. 683: Aṣṭaka 2 (printed "ಅ. ೨:" with a colon), Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+*[Garbled label as supplied: "। ಭಾಷಾರ್ಥ ।" (for Bhāvārtha), kept as a note in kn.md.]*
+
+**भावार्थ (Bhāvārtha)**
+
+May the praise desired by all go and join Agni, the hotṛ of the gods. May the foods in the form of oblation go with homage and join Agni, the chief, the shower of desires, the venerable, and help the sacrifice. May Agni, sent by us and most worshipful, perform the sacrifice to the gods.
+
+**Printed English translation**
+
+May the all-approved praise reach the invoker of the gods : may Ila first proceed to worship and to praise with prostrations the showerer (of benefits) in his presence : may the adorable (Agni), instigated (by us), worship the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The deity of this Ṛk is the god called Iḷaḥ (Iḍaḥ). The bhāṣyakāra has explained the word iḷaḥ in this Ṛk as इषः हवीरूपाण्यन्नानि (*iṣaḥ havīrūpāṇyannāni*), foods in the form of oblation. But as said in the other Āprī sūktas, here too iḷaḥ should be the name of a deity. Therefore it is proper to explain the word iḷaḥ as meaning a deity. There is one more peculiarity in the bhāṣyakāra's explanation. Since for all the Ṛks of the Āprī sūkta, and especially for the first five Ṛks, Agni or the forms of Agni, Samiddhaḥ Agniḥ, Tanūnapāt, Iḍaḥ and others, are stated as deities, it is not unreasonable to praise Agni himself as the chief in this Ṛk. Even so, following the usage of the Āprī sūktas, it is proper to explain this Ṛk with reference to the deity Iḷaḥ. Accordingly the main purport of this Ṛk is: may the praises and the like made by all go and join Agni, who invites the gods; may the deity Iḷaḥ also, endowed with homage or foods, go and join Agni, the chief among the gods and shower of desired ends, for the sacrifice; may that Agni, sent by us and most worshipful, perform the sacrifice to the gods. Even so, the meaning does not fit this Ṛk well.
+
+Īḍyaḥ—सर्वैः स्तुत्यः इळनामकः त्वं । (*sarvaiḥ stutyaḥ iḷanāmakaḥ tvaṃ |*) It is explained as Agni who is praised by all and famous by the name Iḍaḥ. ⟦ಈಳ ಈಟ್ಟೇಃ ಸ್ತುತಿಕರ್ಮಣಃ ;
+ಇಂಧತೇರ್ವಾ ।⟧ It may be derived from the root īḍ, meaning to praise, or from the root indh, meaning to blaze (Ni. 8-8). Showing this derivation of the word, the Nirukta authors cite the Ṛk 10-110-3 and explain the right meaning of the word.
+
+### Printed p. 684
+
+*[Running head, p. 684: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+First, like the word samidh, this word too appears to be used only as an epithet of Agni, without a separate indication of a deity. Since the help and support of Agni must be complete at the time of carrying on the sacrifice, he is naturally praiseworthy. At the beginning Agni must be (1) kindled. Then, (2) by the name Tanūnapāt or Narāśaṃsa, he must make the oblations of the sacrifice full of sweetness. Then he must bring the gods to the sacrifice. For this work he must be īḍya (praiseworthy). Therefore in this context he is (3) īḍya by the sacrificers (is prayed to). In the Āprī sūktas this word, derived from the root īḍ, is used in eight places as an epithet meaning "praised" or "praiseworthy", and in one place as an epithet showing Agni's office as messenger, nine places in all, with reference to Agni. And in the present Ṛk, composed by Viśvāmitra,
+
+⟦ಪ್ರ ದೀಧಿತಿರ್ವಿಶ್ವವಾರಾ ಜಿಗಾತಿ ಹೋತಾರಮಿಳಃ ಪ್ರಥಮಂ ಯಜಧ್ಯೈ ।
+ಅಚ್ಛಾ ನಮೋಭಿವೃಷಭಂ ವಂದಧ್ಯೈ ಸ ದೇವಾನ್ಯಕ್ಷದಿಷಿತೋ ಯಜೀಯಾನ್ ।⟧
+(Ṛ. Saṃ. 3-4-3)
+
+only, the meaning is foods in the form of oblation. Even so it is related to Agni, the chief deity of that Ṛk. This meaning differs from the tradition of the Āprī sūkta. But in the Praiṣa sūkta it is a synonym of Agni.
+
+⟦ಹೋತಾಯಕ್ಷದಗ್ನಿ ಮಿಡ ಈಡಿತೋ ದೇವೋ ದೇವಾಗ್ಂ ಅವಕ್ಷದ್ದೂತೋ ಹವ್ಯವಾಡಮೂರಃ ।
+ಉಪೇಮಂ ಯಜ್ಞ ಮುಪೇಮಾಂ ದೇವೋ ದೇವಹೂತಿಮವತು ನೇತ್ವಾಜ್ಯಸ್ಯ ಹೋತರ್ಯಜ ।⟧
+(Tai. Brā. 3-6-2-1)
+
+For this sentence the bhāṣyakāra says इडेत्येतन्नामकमग्निं तृतीयप्रयाजदेवं (*iḍetyetannāmakamagniṃ tṛtīyaprayājadevaṃ*), a synonym of Agni. In the Aitareya Brāhmaṇa—
+
+इळो यजत्यन्नं वा इळोऽन्नमेव तत्रीणात्यन्नं यजमाने दधाति । (*iḷo yajatyannaṃ vā iḷo 'nnameva tatrīṇātyannaṃ yajamāne dadhāti |*)
+(printed ಐ. ಬ್ರಾ. 2-4)
+
+Iḷaḥ is said to be the food in the form of oblation offered in the sacrifice, and as the fruit of offering this food the sacrificer also obtains food. As explained above, Yāska's showing of a relation between this word and such a root is not understood properly. Here Yāska has not stated Kātthakya's opinion. In the Bṛhaddevatā,
+
+⟦ಇಳಸ್ತೃಷಿಕೃತಂ ರೂಪಂ ಈಡೇಶಶ್ಚ ಸ್ತುತಿಕರ್ಮಣಃ ।
+ಇಳಾವಾಂಸ್ತೇನ ವೋಕ್ತೋಗ್ನಿರಿಡಿನಾ ವೃದ್ಧಿಕರ್ಮಣಾ ॥⟧
+(Bṛ. De. 3-4)
+
+### Printed p. 685
+
+*[Running head, p. 685: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+by these sentences this word is shown to be a seer's word and a synonym of Agni, and the word iḷāvān is an epithet of Agni.
+
+⟦ಗೋಮಾ ಅಗ್ನೇಽವಿಮಾ ಅಶ್ವೀ ಯಜ್ಞೋ ನೃವತ್ಸಖಾ ಸದಮಿದಪ್ರಮೃಷ್ಯಃ ।
+ಇಳಾವಾ ಏಷೋ ಅಸುರ ಪ್ರಜಾವಾನ್ದೀರ್ಘೋ ರಯಿಃ ಪೃಥುಬುಧ್ನಃ ಸಭಾವಾನ್ ॥⟧
+(Ṛ. Saṃ. 4-2-5)
+
+In this Ṛk the word iḷāvān is an epithet of Agni, and the Bṛhaddevatā indicates that point. Although such differences of tradition are seen in the explanations, it may be said in all that it is a synonym of the deity Agni, holding the third place in the sūkta.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> ऊ॒र्ध्वो वां॑ गा॒तुर॑ध्व॒रे अ॑कार्यू॒र्ध्वा शो॒चींषि॒ प्रस्थि॑ता॒॑
+> रजांसि ।
+> दि॒वो वा॒ नाभा॒ न्य॑सादि॒ होता॑ स्तृणी॒महि॑ दे॒वव्य॑चा॒ वि ब॒र्हिः ॥४॥
+
+**॥ पदपाठः ॥**
+
+> ऊर्ध्वः । वां । गातुः । अध्वरे । अकारि । ऊर्ध्वा । शोचींषि । प्रस्थिता । रजांसि ।
+> दिवः । वा । नाभा । नि । असादि । होता । स्तृणीमहि । देवव्यचाः । वि । बर्हिः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वां युवयोः अग्निश्च बर्हिश्चभौ वामित्युच्येते । समिदादिभिः सहितस्यॆवाग्निर्देवतात्वात् । ऊर्ध्व उन्नतो गातुर्यज्ञमार्गोऽध्वरे यज्ञीऽकारि ।
+> आश्रयः क्रियते । शोचींष्यर्चिष्मंति रजांसि हवींष्यूध्वोर्ध्वं प्रस्थिता । होताग्निर्दिवो दीप्यमानस्य यागगृहस्य नाभा नाभौ मध्यप्रदेशे न्यसादि । निषीदति ।
+> देवव्यचा देवैव्याप्तं बर्हिश्च । चार्थे वाशब्दः । विस्तृणीमहि । विशेषेण
+> स्तृणीमः ॥
+
+> *vāṃ yuvayoḥ agniśca barhiścabhau vāmityucyete | samidādibhiḥ sahitasyèvāgnirdevatātvāt | ūrdhva unnato gāturyajñamārgo 'dhvare yajñī 'kāri |*
+> *āśrayaḥ kriyate | śocīṃṣyarciṣmaṃti rajāṃsi havīṃṣyūdhvordhvaṃ prasthitā | hotāgnirdivo dīpyamānasya yāgagṛhasya nābhā nābhau madhyapradeśe nyasādi | niṣīdati |*
+> *devavyacā devaivyāptaṃ barhiśca | cārthe vāśabdaḥ | vistṛṇīmahi | viśeṣeṇa*
+> *stṛṇīmaḥ ‖*
+
 ---
 
-**Progress note:** Done through printed p. 682 (PDF 682). Sūkta 4 Ṛk 2 complete (Tanūnapāt; Devāpi–Śantanu story); Ṛk 3 begun, Pratipadārtha cut mid-list
+**Progress note:** Done through printed p. 685 (PDF 685). Sūkta 4 Ṛk 3 complete (Iḷaḥ); Ṛk 4 Saṃhitā, Pada, bhāṣya; accent DIFF/NOMATCH logged
