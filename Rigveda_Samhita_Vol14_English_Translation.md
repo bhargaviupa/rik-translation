@@ -26185,4 +26185,100 @@ Anuvāda—This sūkta beginning ऋतुर्जनित्री (*ṛturja
 
 ---
 
-**Progress note:** Done through printed p. 683 (PDF 706). Sūkta 12 is complete: Ṛk 15 finished (Padapāṭha, bhāṣya with gist, Pratipadārtha, Bhāvārtha, printed English on p. 681; Viśeṣaviṣayagaḷu on p. 682, with the Nirukta passage and the three kinds of daivata Ṛks). Sūkta 13 (Gṛtsamada, Indra, 13 Ṛks, Ṛks 1–12 jagatī, 13 triṣṭubh) is opened on p. 683 with the bhāṣya and the Anuvāda; no Ṛk of it is written yet; the next batch begins on p. 684 with Ṛk 1. No grammar pages. FILE DISAGREE: none (file 7-1, 6-1, 8-4 agree with the strips; no file rows for p. 681). Unzoomed numerals: headers of pp. 681–683 (Sūkta 12 varga 9; p. 683 varga 10), Ṛk number 15, "14"/"15" in the Viśeṣa. [?] places: "वादर्दर्षि" (printed joined) in the Ṛk 15 bhāṣya; "ऋषियु स्यां" and "देवतायामार्थपत्यम्" in the Nirukta passage; "देवता" (possibly printed "धेवता") and "मर्तो" in the Sūkta 13 bhāṣya; Sūkta 13 heading written as "The thirteenth Sūkta".
+### Printed p. 684 (PDF 707)
+
+*(Header: "684", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [read from the strip; the file has no row for it].)*
+
+**॥ ॐ ॥**
+
+**सूक्त—१३** (*Sūkta 13*)
+
+*(Printed heading block, rendered: Maṇḍala 2 ‖ Anuvāka 2 ‖ Sūkta 13. Aṣṭaka 2 ‖ Adhyāya 6 ‖ Varga 10, 11, 12. Number of Ṛks in the sūkta: 13. Ṛṣi: गृत्समदः (*gṛtsamadaḥ*). Devatā: इन्द्रः (*indraḥ*). Chandas: Ṛks 1–12 जगती (*jagatī*); Ṛk 13 त्रिष्टुप् (*triṣṭup*). The numerals "13" and "1–12" agree with the numeral file; Maṇḍala, Anuvāka, Aṣṭaka, Adhyāya and varga numbers were read from the strip without zoom.)*
+
+---
+
+#### Ṛk 1
+
+*(A small caption "Saṃhitāpāṭha" is printed. Accents and the underlines are not reproduced. "मक्षू" is read as printed [the Saṃhitā has the long ū-sign, the Pada the short one]; the Kannada *ma* carries a hook like the u-sign.)*
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒तुर्जनि॑त्री॒ तस्या॑ अ॒पस्परि॑ म॒क्षू जा॒त आवि॑श॒द्यासु॒ वर्ध॑ते ।
+> तदा॑ह॒ना अ॑भवत्पि॒प्युषी॒ पयों॒ऽशोः पी॒यूषं॑ प्रथ॒मं तदु॒क्थ्यं॑
+
+> *ṛturjanitrī tasyā apaspari makṣū jāta āviśadyāsu vardhate |*
+> *tadāhanā abhavatpipyuṣī payoṃ 'śoḥ pīyūṣaṃ prathamaṃ tadukthyaṃ*
+
+**॥ पदपाठः ॥**
+
+> ऋतुः । जनित्री । तस्याः । अपः । परि । मक्षु । जातः । आ । अविशत् । यासु । वर्धते ।
+> तत् । आहनाः । अभवत् । पिप्युषी । पयः । अंशोः । पीयूषं । प्रथमं । तत् । उक्थ्यं ॥ १ ॥
+
+> *ṛtuḥ | janitrī | tasyāḥ | apaḥ | pari | makṣu | jātaḥ | ā | aviśat | yāsu | vardhate |*
+> *tat | āhanāḥ | abhavat | pipyuṣī | payaḥ | aṃśoḥ | pīyūṣaṃ | prathamaṃ | tat | ukthyaṃ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: The rainy season is Soma's mother; Soma born of her quickly entered the waters in which it grows, and so becomes fit for pressing; the plant's essence is Indra's choicest offering.*
+
+*(Reading notes: "पिप्युषी" is read with the printed hook as the u-sign [?]; in the grammatical tail the rule-word "लद्यजोश्च" is doubtful [?]; no sūtra numbers are printed there; the reference "९-७५-५" is as printed. The tail explains पिप्युषी: the root प्याय् in the perfect with the kvasu affix, the substitution पी, the samprasāraṇa of the vasu affix, and the feminine ending ङीप् [characterised only].)*
+
+> ऋतुर्वर्षाख्यः कालो जनित्री सोमस्य जनयित्री जननी भवति । तस्याः परि तस्या जनन्याः सकाशाज्जातः सोमोऽपि उदकानि मक्षु शीघ्रमाविशत् । यास्वप्सु सोमो वर्धते ता अविशदित्यन्वयः । तस्मादप्सु प्रविष्टत्वात् सोम आहना आहन्तव्योऽभिषोतव्यो भवति । आहना इति सकारान्तमिदं पदं । तथा च मन्त्रवर्णः । येते मदा आहनसो विहायसः । ९-७५-५ । इति । या चांशुरूपा सोमलता पयः सारभूतं पिप्युषी वर्धयन्त्यभवत् ॥ प्यायतेर्लिटि क्वसौ लद्यजोश्चेति पीभावः । वसोः संप्रसारणं । उगितश्चेति ङीप् ॥ अंशोस्तस्याः सोमलतायाः पीयूषं रसभूतं पय उक्थ्यं प्रशस्यं हविरिन्द्रस्य भवति ॥
+
+> *ṛturvarṣākhyaḥ kālo janitrī somasya janayitrī jananī bhavati | tasyāḥ pari tasyā jananyāḥ sakāśājjātaḥ somo 'pi udakāni makṣu śīghramāviśat | yāsvapsu somo vardhate tā aviśadityanvayaḥ | tasmādapsu praviṣṭatvāt soma āhanā āhantavyo 'bhiṣotavyo bhavati | āhanā iti sakārāntamidaṃ padaṃ | tathā ca mantravarṇaḥ | yete madā āhanaso vihāyasaḥ | 9-75-5 | iti | yā cāṃśurūpā somalatā payaḥ sārabhūtaṃ pipyuṣī vardhayantyabhavat ‖ pyāyaterliṭi kvasau ladyajośceti pībhāvaḥ | vasoḥ saṃprasāraṇaṃ | ugitaśceti ṅīp ‖ aṃśostasyāḥ somalatāyāḥ pīyūṣaṃ rasabhūtaṃ paya ukthyaṃ praśasyaṃ havirindrasya bhavati ‖*
+
+---
+
+### Printed p. 685 (PDF 708)
+
+*(Header: "Ā. 2 A. 6 V. 10 ]" [unzoomed], "Ṛgvedasaṃhitā", "685". No numeral-file rows for this page.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋतुः (*ṛtuḥ*)—the rainy season. जनित्री (*janitrī*)—is the mother of Soma (is the producing season). तस्याः परि (*tasyāḥ pari*)—from that mother. जातः (*jātaḥ*)—the Soma that is born. यासु (*yāsu*)—in which waters. वर्धते (*vardhate*)—it grows. अपः (*apaḥ*)—such waters. मक्षु (*makṣu*)—quickly. आ विशत् (*ā viśat*)—enters, and. तत् (*tat*)—that. आहनाः (*āhanāḥ*)—becomes fit for pressing (that same Soma plant). पयः (*payaḥ*)—as being the essence. पिप्युषी (*pipyuṣī*)—as being one that grows. अभवत् (*abhavat*)—becomes. अंशोः (*aṃśoḥ*)—of that same Soma plant. पीयूषं (*pīyūṣaṃ*)—that which is the essence. प्रथमं (*prathamaṃ*)—and the chief, तत् (*tat*)—that juice. उक्थ्यं (*ukthyaṃ*)—becomes worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+The season called the rains is the mother of Soma. The Soma born of that mother quickly enters the waters in which it grows. And, being the essence and one that increases, it becomes fit for pressing. That juice, the essence and the chief part of the Soma plant, is worthy of praise.
+
+**English Translation** *(as printed)*
+
+The season (of the rains) is the parent (of the Soma plant), which, as soon as born of her, enters into the waters in which it grows; thence it is fit for expression, as concentrating (the essence of the) water; and the juice of the Soma is especially to be praised (as the libation proper for Indra).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋतुर्जनित्री (*ṛturjanitrī*)—The rainy season is the mother of Soma. That is, just as other plants grow in the rainy season, the Soma plant also grows well with the rain-water and flourishes. For this reason the ṛṣi describes the rainy season as the mother of Soma. Although there is no word in this Ṛk that denotes the Soma plant, the words आहनाः (*āhanāḥ*) पयः (*payaḥ*) अंशोः (*aṃśoḥ*) are present, which help the explanation relating to Soma juice, and the Ṛk too speaks only of the pressing of Soma. So, to complete the sentence "ऋतुः सोमस्य जनित्री (*ṛtuḥ somasya janitrī*)", the word सोमस्य (*somasya*) must be supplied (adhyāhāra).
+
+तस्याः अपः परि मक्षु जातः आ अविशत् यासु वर्धते (*tasyāḥ apaḥ pari makṣu jātaḥ ā aviśat yāsu vardhate*)—The Soma plant growing in that rainy season grows only by the support of water, and so "entered the waters": that is, the sap (water) filled the creeper and it grew strong. This is the meaning intended. Whatever plant it may be, in the rainy season it not only grows well with the help of water, but becomes moist, green and juicy. The Soma plant too grows well in the rainy season and is full of sap. The ṛṣi describes in a different way the very fact that the creeper is full of sap: "growing in water, it entered the water itself."
+
+*(The passage continues on p. 686.)*
+
+---
+
+### Printed p. 686 (PDF 709)
+
+*(Header: "686", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [unzoomed].)*
+
+*(Continuation of the Viśeṣa passage begun on p. 685.)*
+
+तत् आहनाः (*tat āhanāḥ*)—तस्मादप्सु प्रविष्टत्वात् सोम आहना आहन्तव्योऽभिषोतव्यो भवति । आहना इति सकारान्तमिदं पदं । तथा च मन्त्रवर्णाः । येते मदा आहनसो विहायसः । (*tasmādapsu praviṣṭatvāt soma āhanā āhantavyo 'bhiṣotavyo bhavati | āhanā iti sakārāntamidaṃ padaṃ | tathā ca mantravarṇāḥ | yete madā āhanaso vihāyasaḥ |*) (Ṛ. Saṃ. 9-75-5) *(as printed)*—Because the Soma plant is full of water (sap), it must be pounded to bring the sap out; that is, it must be beaten well with stones and crushed. When it is so crushed, the sap flows out from the creeper. This act is called आहनाः (*āhanāḥ*) or अभिषवणं (*abhiṣavaṇaṃ*) (pressing). The commentator has said that आहनाः (*āhanāḥ*) is a word ending in *s* and is in the nominative singular. In this matter, citing the Ṛk—
+
+येते मदा आहनसो विहायसस्तेभिरिन्द्रं चोदय दातवे मघं ।
+
+(Ṛ. Saṃ. 9-75-5) *(as printed)*
+
+he has shown that the word आहनसः (*āhanasaḥ*) occurring in it is a word ending in *s*, a plural in the nominative.
+
+अभवत् पिप्युषी पयः अंशोः पीयूषं प्रथमं तत् उक्थ्यं (*abhavat pipyuṣī payaḥ aṃśoḥ pīyūṣaṃ prathamaṃ tat ukthyaṃ*)—या चांशुरूपा सोमलता पयः सारभूतं पिप्युषी वर्धयन्त्यभवत् । अंशोस्तस्याः सोमलतायाः पीयूषं रसभूतं पय उक्थ्यं प्रशस्यं हविरिन्द्रस्य भवति (*yā cāṃśurūpā somalatā payaḥ sārabhūtaṃ pipyuṣī vardhayantyabhavat | aṃśostasyāḥ somalatāyāḥ pīyūṣaṃ rasabhūtaṃ paya ukthyaṃ praśasyaṃ havirindrasya bhavati*)—For the word अंशु (*aṃśu*) Yāska has said—
+
+अंशुः शमष्णमात्रो भवति । अननायु शं भवतीति वा । [?]
+
+(Nirukta 2-5) *(as printed; the reading of the first sentence is doubtful [?])*
+
+Since this Soma juice pervades the sacrificer (is spread in the sacrificer) — that is, since the sacrificer, by drinking Soma, becomes happy, thinking "I have no sorrow or worry" — Soma is called अंशु (*aṃśu*); or, since it pervades the sacrificer and makes happiness, Soma is called अंशु (*aṃśu*); or, since it makes happiness in the life of all creatures (when Soma is drunk), it is called अंशु (*aṃśu*); or, since it makes happiness for those who have drunk Soma, Soma is called अंशु (*aṃśu*): thus the derivation has been given. From such a juice-rich Soma plant, the sap which is its essence, or the Soma juice, increases (by pressing). That is, because the Soma creepers, moist, green and wholly filled with sap, are crushed with stones and the sap is pressed out, the Soma juice increases abundantly; this is the summary. The Soma juice prepared in this way becomes a praiseworthy, or excellent, or drinkable oblation (food) for Indra: this is the main intention.
+
+---
+
+---
+
+**Progress note:** Done through printed p. 686 (PDF 709). Sūkta 13 (Gṛtsamada, Indra; Ṛks 1–12 jagatī, 13 triṣṭubh): the heading block on p. 684 and Ṛk 1 are complete (Saṃhitā, Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu); Ṛk 2 begins on p. 687. No Ṛk open. No grammar pages. FILE DISAGREE: none (file rows 1–12 / 13, 9-75-5 and Nirukta 2-5 agree with the strips; the file's OCR "ಯ. ಸಂ." for "ಋ. ಸಂ." was not followed). Unzoomed numerals: headers of pp. 684–686 and the heading block (Maṇḍala 2, Anuvāka 2, Aṣṭaka 2, Adhyāya 6, Varga 10–12). [?] places: "पिप्युषी" (printed hook read as u), "मक्षू/मक्षु", "लद्यजोश्चेति" in the bhāṣya tail, and the Nirukta line "अंशुः शमष्णमात्रो भवति । अननायु शं भवतीति वा".
