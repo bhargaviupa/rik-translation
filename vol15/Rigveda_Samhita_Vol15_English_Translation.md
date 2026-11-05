@@ -20451,6 +20451,103 @@ The priests and others who lead the sacrifice praise with homage, for increase o
 
 The leaders (of holy rites) praise with prostration, for (the sake of) increase, the mighty lord of people, the guest (of men), regulator eternally of acts, the desired of the priests, the exposition of sacrifices, Jatavedas, endowed with (divine) energies.
 
+### Printed p. 656
+
+*[Running head, p. 656: Sāyaṇabhāṣyasahitā, Maṃ. 3 (printed "ಮ."), A. 1, Sū. 3.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Jātavedasaṃ (printed "ಚಾತವೇದಸಂ")—Agni is famous as Jātavedas because he knows all that is born. There is a historical story about this—
+
+⟦ಪ್ರಜಾಪತಿಃ ಪ್ರಜಾ ಅಸೃಜತ ತಾಃ ಸೃಷ್ಟಾಃ ಪರಾಚ್ಯ ಏವಾಯನ್ನ ವ್ಯಾವರ್ತಂತ ತಾ ಅಗ್ನಿನಾ
+ಪರ್ಯಗಚ್ಛತ್ತಾ ಅಗ್ನಿಮುಪಾವರ್ತಂತ ತಮೇವಾದ್ಯಾಪ್ಯುಪಾವೃತ್ತಾಃ ಸೋಽಬ್ರವೀಜ್ಜಾತಾ
+ವೈ ಪ್ರಜಾ ಅನೇನಾವಿದಮಿತಿ ಯದಬ್ರವೀಜ್ಜಾತಾ ವೈ ಪ್ರಜಾ ಅನೇನಾವಿದಮಿತಿ ತಜ್ಞಾತವೇದಸ್ಯಮಭವತ್ತಜ್ಞಾತವೇದಸೋ ಜಾತವೇದಸ್ತ್ವಂ ।⟧
+(printed ಐ ಬ್ರಾ. 13-36)
+
+Prajāpati created creatures. All those created creatures escaped. Then he made Agni surround them. All of them approached Agni. Then he said, "I have known the creatures born (created) from Prajāpati." Because he knew what was born, the name Jātavedas became famous for Agni.
+
+तद्विंदते तद्यज्जातं जातं विंदते तस्माज्जातवेदाः । (*tadviṃdate tadyajjātaṃ jātaṃ viṃdate tasmājjātavedāḥ |*)
+(printed ಶ. ಬ್ರಾ. 9-5-1-68)
+
+It is stated in the Śatapatha Brāhmaṇa too that the name Jātavedas became famous because Agni knows all that is born at the moment of birth. Since the word vindate in the above sentence is also given the sense "pervades", it can be said that the name Jātavedas is because he pervades everything at the moment of birth. The Nirukta authors have given some other explanations as well.
+
+⟦ಜಾತಾನಿ ವೇದ । ಚಾತಾನಿ ವೈನಂ ವಿದುಃ । ಜಾತೇ ಜಾತೇ ವಿದ್ಯತ ಇತಿ ವಾ । ಜಾತವಿತ್ತೋ
+ನಾ ಜಾತಧನೋ ನಾ ಜಾತವಿದ್ಯೋ ವಾ ಜಾತಜ್ಞಾನಃ ।⟧ (Ni. 7-19)
+
+They explain the word thus: one who has knowledge of all things at birth, who pervades all beings, or who has all wealth, or who has a wisdom that knows everything. (Ni. 7-19)
+
+⟦ಭೂತಾನಿ ವೇದ ಯಜ್ಞಾತೋ ಜಾತವೇದಾಥ ಕಥ್ಯತೇ ।
+ಯಚ್ಚೈಷ ಜಾತವಿದ್ಯೋಽಭೂತ್ ವಿತ್ತಂ ಜಾತೋಽಧಿವೇತ್ತಿ ವಾ ॥
+ವಿದ್ಯತೇ ಸರ್ವಭೂತೈರ್ಹಿ ಯದ್ವಾ ಜಾತಃ ಪುನಃಪುನಃ ।
+ತೇನ್ನೈಷ ಮಧ್ಯಭಾಗೇಂದ್ರೋ ಜಾತವೇದಾ ಇತಿ ಸ್ತುತಃ ॥⟧
+(printed ಬೃ. ದೇ. 2-30, 31)
+
+The explanation of the Bṛhaddevatā is that Agni, like Indra of the middle world, is praised as Jātavedas: because at birth he knows everything, or because he is the basis of the origin of knowledge, or because, as said above, at birth he knows and obtains all wealth, or because at his birth he is known by all creatures.
+
+### Printed p. 657
+
+*[Running head, p. 657: Aṣṭaka 2, Adhyāya 8, Varga 21, Ṛgvedasaṃhitā.]*
+
+Jūtibhiḥ—वेगैर्युक्तं । (*vegairyuktaṃ |*) The purport is stated as "endowed with speeds or powers". In some places the word jūti is also taken to mean wisdom. Besides, in the sentence
+
+“ संज्ञानमाज्ञानं (*saṃjñānamājñānaṃ*)............मनीषा जूतिः स्मृतः (*manīṣā jūtiḥ smṛtaḥ*) ”
+(printed ಇ. ಉ. ೩-೨)
+
+which describes the qualities of the self that obtains knowledge of Brahman, jūti is said to be one quality. Śaṅkarācārya explaining it says रुजादिदुःखत्वाभावः । (*rujādiduḥkhatvābhāvaḥ |*) — he has shown it to be the quality of having no mental impurity of any kind. Probably the purport is that a mind free from impurity strives with speed for the attainment of knowledge.
+
+⟦ಮಖಸ್ಯ ತೇ ತವಿಷಸ್ಯ ಪ್ರ ಜೂತಿಮಿಯರ್ಮಿ ವಾಚಮಮೃತಾಯ ಭೂಷನ್ ।
+ಇಂದ್ರ ಕ್ಷಿತೀನಾಮಸಿ ಮಾನುಷೀಣಾಂ ವಿಶಾಂ ದೈವೀನಾಮುತ ಪೂರ್ವಯಾವಾ ॥⟧
+(Ṛ. Saṃ. 3-34-2)
+
+In this Ṛk, whose prayer is "O Indra, to you, full of power and venerable, I offer this praise impelled by the mind", the meaning is the same as in the sentence of the Aitareya Upaniṣad cited above. For jūtiṃ Sāyaṇa has given the meaning "impelled by the mind". Whether it is mental or physical, when this word is used the speed of the action is understood.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> वि॒भावा॑ दे॒वः सु॒रणः॒ परि॑ क्षि॒तीर॒ग्निर्ब॑भूव॒ शव॑सा सु॒मद्र॑थः ।
+> तस्य॑ व्र॒तानि॑ भूरिपो॒षिणो॑ व॒यमुप॑ भूषेम॒ दम॒ आ सु॑वृ॒क्तिभिः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> विभावा । देवः । सुरणः । परि । क्षितीः । अग्निः । बभूव । शवसा । सुमत्र्रथः ।
+> तस्य । व्रतानि । भूरिपोषिणः । वयं । उप । भूषेम । दमे । आ । सुवृक्तिभिः ॥ ९ ॥
+
+*(The Pada is printed ಸುಮತ್ರ್ರಥಃ, as supplied; the Saṃhitā has ಸುಮದ್ರಥಃ.)*
+
+*[Lone numeral "42" at the foot of p. 657 in the supplied text, kept as a note.]*
+
+### Printed p. 658
+
+*[Running head, p. 658: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> विभावा दीप्तिमान् :देवः स्तूयमानः सुरणः । अत्र वर्णलोपश्कांदसः !
+> शोभनं रमयितीति सुरमणः । सुमद्रथः शोभनरथोऽग्निः शवसा बलेन्मक्षितीः
+> सर्वाः प्रजाः परिबभूव । परितो गृह्णाति । अत्र भवतेरुपसर्गवशात् परिग्रहार्थत्वं ।
+> भूरिपोषिणो बहूनां पोषयितुः पालयितुर्दमे यज्ञगृहे । दम इति
+> गृहनामसु पाठात् । निवसतस्तस्याग्नेर्व्रतानि कर्माणि वयं सुवृक्तिभिः स्तोत्रैरुप.
+> भूषेम । उपभूषयामः । प्रकाशयामः ॥
+
+*(Gist: shining Agni, with a fine chariot, encompasses all creatures by his might; we adorn with praises the works of him who nourishes many, in his house.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vibhāvā: the shining. Devaḥ: of divine nature. Suraṇaḥ: the one who delights exceedingly. Sumadrathaḥ: the one endowed with an excellent chariot. Agniḥ: Agni. Śavasā: by his own power. Kṣitīḥ: all creatures. Pari babhūva: comprehends everywhere. Bhūripoṣiṇaḥ: the nourisher of many. Dame: dwelling in the sacrificial house. Tasya: of that Agni. Vratāni: the works. Vayaṃ: we. Suvṛktibhiḥ: with praises. Upa bhūṣema: let us adorn and make shine.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, who is shining, of divine nature, delighting exceedingly and endowed with an excellent chariot, comprehends all creatures everywhere by his own power. Let us, by praises, adorn and make shine the works of that Agni, who nourishes many and pervades the sacrificial house.
+
+**Printed English translation**
+
+The resplendent and adorable Agni, riding in an auspicious chariot, has comprehended the whole earth by his vigour : let us glorify with fit praises, the acts of that cherisher of multitudes in his own abode.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Sumadrathaḥ—सुमत्स्ययमित्यर्थः (*sumatsyayamityarthaḥ*) (Ni. 6-22). The Nirukta authors have explained this word as svayam, that is, acting of itself without the impulse of another. The word is also used in the sense of auspicious, excellent. सुमद्गणः, सुमदंशु॥ (*sumadgaṇaḥ, sumadaṃśu‖*) and so on
+
 ---
 
-**Progress note:** Done through printed p. 655 (PDF 655). Sūkta 3 Ṛk 7 complete; Ṛk 8 complete up to printed English; Devanagari letters in a Kannada phrase rewritten in Kannada script
+**Progress note:** Done through printed p. 658 (PDF 658). Sūkta 3 Ṛk 8 Special Topics (jātavedas, jūti); Ṛk 9 complete up to Special Topics on sumadratha
