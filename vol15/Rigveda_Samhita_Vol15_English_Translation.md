@@ -5989,6 +5989,80 @@ Here the goddess Kuhū is meant by the word गुंगूः (*guṃgūḥ*). 
 
 **Anuvāda (Kannada).** There are eleven sūktas in the fourth anuvāka of the second maṇḍala. Of them this sūkta beginning आ ते पितर्मरुतां (*ā te pitarmarutāṃ*) is the first. It has fifteen ṛks. The seer of this sūkta is Gṛtsamada; Rudra is the deity; the metre is *triṣṭubh*. What is said in the Anukramaṇikā—आ ते पंचोना रौद्रमिति (*ā te paṃconā raudramiti*)—is explained: in the Rudra sacrifices beginning with the one named Śūlagava the western-quarter deity is to be worshipped with this sūkta, as set out by the Āśvalāyana Gṛhya-sūtra sūtra कद्रुद्रायेमा रुद्राया ते पितरिमा रुद्राय स्थिरधन्वन इति सर्वरुद्रयज्ञेषु दिशामुपस्थानं (*kadrudrāyemā rudrāyā te pitarimā rudrāya sthiradhanvana iti sarvarudrayajñeṣu diśāmupasthānaṃ*) (Gṛ. Sū. 4-8-23). In the animal sacrifice to Rudra, when the oblation is offered, the Ṛk आ ते पितः (*ā te pitaḥ*) is to be recited as the anuvākyā mantra, as set out by the Āśvalāyana Śrauta-sūtra sūtra आ ते पितर्मरुतां सुम्मनेतु प्रबभ्रवे वृषभाय .श्वितीच इति तिस्रः (*ā te pitarmarutāṃ summanetu prababhrave vṛṣabhāya .śvitīca iti tisraḥ*) (Ā. 3-8). And on the application of this sūkta the sage Śaunaka says in the book Ṛgvidhāna: चतुर्दशीमुपोष्यकां कृष्णस्य जुहुयाच्चरुं । आतेसूक्तेन रौद्रेण प्रत्यृचं वाग्यतः शुचिः ॥ पूर्वमाज्याहुतीर्हुत्वाथोपस्थाय च शंकरं । हविःशेषेण वर्तेतैकांतरमतंद्रितः ॥ पूर्णमासे जयेन्मृत्युं रोगैश्च परिमुच्यते ॥ (*caturdaśīmupoṣyakāṃ kṛṣṇasya juhuyāccaruṃ | ātesūktena raudreṇa pratyṛcaṃ vāgyataḥ śuciḥ ‖ pūrvamājyāhutīrhutvāthopasthāya ca śaṃkaraṃ | haviḥśeṣeṇa vartetaikāṃtaramataṃdritaḥ ‖ pūrṇamāse jayenmṛtyuṃ rogaiśca parimucyate ‖*) (Ṛgvidhāna 1-30). That is: on the fourteenth day of the dark fortnight, fasting, self-controlled and pure, one is to recite each Ṛk of this Rudra sūkta, and having cooked the caru ... [the sentence continues on the next page].
 
+### Printed p. 195
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 16, p. 195.*
+
+[Continuing the Anuvāda from p. 194:] ... and having cooked the caru, one is to offer the oblation with ghee. After the oblation, the deity Rudra is to be approached (*upasthāna*). Then on that day only the remnant of the oblation is to be eaten, in solitude, without harbouring any anxiety; no other food is to be taken. If one observes this from the fourteenth day onwards for a month, one is said to be freed from untimely death and disease and to live happily.
+
+**Sūkta 33** — Maṇḍala 2, Anuvāka 4, Sūkta 33; Aṣṭaka 2, Adhyāya 7, Vargas 16, 17, 18. Number of ṛks in the sūkta: 15. Seer: Gṛtsamada. Deity: Rudra. Metre: *triṣṭubh*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> आ ते॑ पितर्मरुतां सु॒म्ममे॑तु॒ मा नः॒ सूर्य॑स्य सं॒दृशो॑-
+> युयोथाः ।
+> अ॒भि नो॑ वी॒रो अर्व॑ति क्षमेत॒ प जा॑येमहि रुद्र प्र॒जाभिः॑ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । ते । पितः । मरुतां । सुम्मं । एतु । मानः । नः । सूर्यस्य । संदृशः ।
+> युयोथाः ।
+> अभि । नः । वीरः । अर्वति । क्षमेत । प्र । जायेमहि । रुद्र । प्रजाभिः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतां पितः मरुत्संज्ञानां देवानामुत्पादक रुद्र ॥ परमपि छंदसीति
+> षष्ठ्यंतस्य पूर्वामंत्रितांगवद्भावात्सर्वानुदात्तत्वं ॥ ते त्वदीयमस्मभ्यं दातव्यं
+> सुम्मं सुखमैतु । आगच्छतु । रुद्रस्य च मरुतां पितृत्वमिदं पित्रे मरुतामाख्या-
+> यिकामुखेनावादिष्ट । ऋग्वे. १-११४-६. । तथा त्वं नोऽस्मान् सूर्यस्य संदृशः
+> संदर्शनान्मा युयोथाः । मा पृथक्कार्षिः ॥ यु मिश्रणामिश्रणयोः । लङ्ग
+> छांदसः शपः श्लुः । छंदस्युभयथेत्यार्थधातुकत्वेन जित्वाभावाद्गुणः ॥ अर्वति
+
+> *he marutāṃ pitaḥ marutsaṃjñānāṃ devānāmutpādaka rudra ‖ paramapi chaṃdasīti*
+> *ṣaṣṭhyaṃtasya pūrvāmaṃtritāṃgavadbhāvātsarvānudāttatvaṃ ‖ te tvadīyamasmabhyaṃ dātavyaṃ*
+> *summaṃ sukhamaitu | āgacchatu | rudrasya ca marutāṃ pitṛtvamidaṃ pitre marutāmākhyā-*
+> *yikāmukhenāvādiṣṭa | ṛgve. 1-114-6. | tathā tvaṃ no 'smān sūryasya saṃdṛśaḥ*
+> *saṃdarśanānmā yuyothāḥ | mā pṛthakkārṣiḥ ‖ yu miśraṇāmiśraṇayoḥ | laṅga*
+> *chāṃdasaḥ śapaḥ śluḥ | chaṃdasyubhayathetyārthadhātukatvena jitvābhāvādguṇaḥ ‖ arvati*
+
+### Printed p. 196
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 3 [sic, as printed; Anuvāka 4], Sūkta 33, p. 196.*
+
+> शत्रु । भ्रातृव्यो वा अर्वेति श्रुतेः । नोऽस्माकं वीरो वीर्यवान् पुत्रादिरभिक्ष-
+> मेत । अभिभवतु । यद्वा वीरस्यं नोऽस्मानभिक्षमेथाः । अस्मान् कृतापराधानभि-
+> क्षमस्व । हे रुद्र प्रजाभिः पुत्रपौत्रादिभिः प्रजायेमहि । प्रभूताः स्याम ॥
+
+*Gist:* O Rudra, father of the Maruts, may your happiness come to us; do not separate us from the sight of the sun; may our brave son overcome the enemy (or: do you forgive our offences); may we increase with progeny. The tail treats *yuyothāḥ*, *arvati* and *abhikṣameta*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मारुतां पितः (*mārutāṃ pitaḥ*)—O Rudra, the father of the Maruts. ते (*te*)—from you to be obtained. सुम्मं (*summaṃ*)—happiness. आ एतु (*ā etu*)—may it come and reach us. नः (*naḥ*)—us. सूरस्य (*sūrasya*) [sic, as supplied]—of the sun. संदृशः (*saṃdṛśaḥ*)—from the sight. मा युयोथाः (*mā yuyothāḥ*)—do not separate (do not take his light away from us). अर्वति (*arvati*)—with the enemy (while fighting). नः (*naḥ*)—our. वीरः (*vīraḥ*)—brave son. अभिक्षमेत (*abhikṣameta*)—may he obtain the power to defeat him. रुद्र (*rudra*)—O Rudra. प्रजाभिः (*prajābhiḥ*)—with sons, grandsons and so on. प्र जायेमहि (*pra jāyemahi*)—cause us to increase.
+
+**भावार्थ (Bhāvārtha)**
+
+O Rudra, father of the Maruts, may the happiness that is to be had from you come and reach us. Do not separate us from the sight of the sun and keep us in darkness. May our brave son, fighting the enemy, obtain the power to defeat him. O Rudra, cause our line to prosper through sons, grandsons and the rest.
+
+**Printed English translation**
+
+Father of the Maruts, may your felicity extend to us : exclude us not from the sight of the sun : (grant that) our valiant (descendants) may overcome (these) foes, and that we may be multiplied, Rudra, by (our) progeny.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रुद्र (*rudra*)—Sāyaṇa has explained the word *rudra* in six ways. The word *rudra* is formed from the root रुद् (*rud*) with the causative suffix. Yāska: रुद्रो रौतीति सतः रोरूयमाणो द्रवतीति वा रोदयतेर्वा (*rudro rautīti sataḥ rorūyamāṇo dravatīti vā rodayatervā*). *Rudra* means रौति (*rauti*)—he who makes a sound, like the thunder of a cloud; रोरूयमाणो द्रवति (*rorūyamāṇo dravati*)—he who runs in the midst of the cloud making a noise; रोदयतेर्वा (*rodayatervā*)—he who defeats enemies and makes them weep: thus the meaning is explained. Further, following the history well known in the Kaṭha Upaniṣad [as printed], or following the Maitrāyaṇīya and third-śākhā text, यदरुदत् तद्रुद्रत्वं (*yadarudat tadrudratvaṃ*) ("because he wept, that is Rudra-hood": when his father Prajāpati was struck by arrows, he saw him, was distressed and wept) and यदरोदीत् तद्रुद्रस्य रुद्रत्वम् (*yadarodīt tadrudrasya rudratvam*)—because he wept, he is named Rudra (Ni. 10-7): thus the derivation of the word *rudra* is given.
+
+### Printed p. 197
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 16, p. 197.*
+
+Sāyaṇa's explanation of the word *rudra* is different from this. He is *rudra* either because at the time of dissolution he makes all weep; or because he destroys the sorrow called *saṃsāra*; or because he is taught by the Upaniṣads, which are of the nature of sound; or because he teaches self-knowledge to the worshippers of self-knowledge; or because he destroys ignorance, which covers knowledge as thick darkness covers light. Thus, by showing the differences of meaning arising from the sense of the root रुत् (*rut*), the meaning of the word *rudra* is explained. And in accordance with the history set out in the Aitihāsika view, the meaning of the word *rudra*, formed from the root रुदिल् अश्रुविमोचने (*rudil aśruvimocane*) ("to shed tears"), is explained by citing the Vedic text सोऽरोदिद्यदरोदीत्तद्रुद्रस्य रुद्रत्वं (*so 'rodidyadarodīttadrudrasya rudratvaṃ*) (Tai. Saṃ. 1-5-1-1). From this the greatness of Rudra and his compassion towards living beings become evident.
+
+मरुतां पितः रुद्र ते सुम्नं आ एतु (*marutāṃ pitaḥ rudra te sumnaṃ ā etu*)—मरुत्संज्ञानां देवानामुत्पादक रुद्र त्वदीयमस्मभ्यं दातव्यं सुखं आगच्छतु (*marutsaṃjñānāṃ devānāmutpādaka rudra tvadīyamasmabhyaṃ dātavyaṃ sukhaṃ āgacchatu*) (Sāyaṇa's gloss: "O Rudra, begetter of the gods called Maruts, may your happiness, to be given to us, come"). Yāska has explained the word *marutaḥ* as मितराविणो वा, मितरोचिनो वा, महत् द्रवंतीति वा (*mitarāviṇo vā, mitarocino vā, mahat dravaṃtīti vā*) (Ni. 11-14) [as printed]; and having read the word *rudra* among the names of praisers (Ni. 3-19) [as printed] and commented रुद्रो रौतीति सतः, रोरूयमाणो द्रवतीति वा. रोदयतीर्वा (*rudro rautīti sataḥ, rorūyamāṇo dravatīti vā. rodayatīrvā*), he has cited the Kāṭhaka text यदरुदत् तद्रुद्रस्य रुद्रत्वं (*yadarudat tadrudrasya rudratvaṃ*) and the Maitrāyaṇīya-śākhā text यदरोदीत् तद्रुद्रस्य रुद्रत्वं (*yadarodīt tadrudrasya rudratvaṃ*) (Ni. 10-7). Sāyaṇa, explaining that the Marut deities are Rudra's sons, says रुद्रस्य च मरुतां पितृत्वं “ इदं पित्रॆ मरुतां ” (ऋ. सं. १-११४-६) इत्यत्र आख्यायिकामुखीनावादिष्म (*rudrasya ca marutāṃ pitṛtvaṃ “ idaṃ pitrè marutāṃ ” (ṛ. saṃ. 1-114-6) ityatra ākhyāyikāmukhīnāvādiṣma*) [as supplied; the bhāṣya above reads *-mukhenāvādiṣṭa*]: in explaining the sūkta इदं पित्रॆ मरुतां (*idaṃ pitrè marutāṃ*) he has described, by way of a narrative, Rudra as the begetter of the Maruts. The wish is that the happiness granted by Rudra, begetter of the Marut deities, may come to us, the sacrificers.
+
+नः सूर्यस्य संदृशः मा युयोथाः (*naḥ sūryasya saṃdṛśaḥ mā yuyothāḥ*)—अस्मान् सूर्यस्य संदर्शनात् मा पृथक्कार्षिः (*asmān sūryasya saṃdarśanāt mā pṛthakkārṣiḥ*). The wish is that the god Rudra may protect us, the sacrificers, so that the light of the sun is not lost to us; and, in नः वीरः अर्वति अभिक्षमेत (*naḥ vīraḥ arvati abhikṣameta*), that Rudra may grant our sons and others the strength to overcome the enemy; or, यद्वा वीरस्त्वं नो अस्मानभिक्षमेथाः अस्मान् कृतापराधानभि क्षमस्व (*yadvā vīrastvaṃ no asmānabhikṣamethāḥ asmān kṛtāparādhānabhi kṣamasva*), that the heroic Rudra may forgive us our offences; and, प्रजाभिः प्रजायेमहि (*prajābhiḥ prajāyemahi*), that we sacrificers may prosper through sons, grandsons and the rest.
+
 ---
 
-**Progress note:** Done through printed p. 194 (PDF 194). Sūkta 32 Ṛk 7 Special Topics, Ṛk 8 (last) complete; Sūkta 33 begins (Sanskrit intro + Anuvāda, cut off mid-sentence at p. 194 end, continues next window); kn.md: labels/blocks added, stray garbled lines removed; open: Pada ताका [?] (Rākā), Saṃhitā numbered ९ vs Pada ८ as supplied
+**Progress note:** Done through printed p. 197 (PDF 197). Sūkta 33 Ṛk 1 complete through Special Topics (rudra etymology; continues p. 198 possibly); kn.md: Pratipadārtha/Bhāvārtha unquoted with labels, stray '१ भानुवार' line removed; as supplied: Saṃhitā 'सुम्ममेतु/मा नः', Pada 'मानः । नः', 'पः जायेमहि', 'सूरस्य', 'सुम्नं/सुम्मं', p.196 head 'Maṃ. 3'
