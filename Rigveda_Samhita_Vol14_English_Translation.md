@@ -29688,6 +29688,116 @@ gained in that(contest) the gold(of the Asuras); in the exhilaration of the Soma
 > *saṃjñakamabhitaṣṭaiveti sūktaṃ | nūnaṃ sā ta ityeṣā tasyāṃte śaṃsanīyā | sūtritaṃ ca |*
 > *nūnaṃ sā ta atyaṃtamuttamaṃ | ā. 7_4 | iti ‖*
 
+### Printed p. 773
+
+*(Header: "[A. 2 A. 6 V. 16.] Ṛgvedasaṃhitā 773". The page begins in the middle of the Sāyaṇa-bhāṣya of Ṛk 10 of Sūkta 15.)*
+
+**Sāyaṇa-bhāṣya** *(continued)*
+
+*Gist: Indra, may the wealthy donation (dakṣiṇā) that fulfils the worshipper's wish be given also to us; do not pass us over for others; blessed with sons, we shall recite abundant praise at this sacrifice. The tail cites Nirukta 1-7 on the word vīra.*
+
+> हे इंद्र या दक्षिणा दक्षमत्साहनं करोतीति दक्षिणा स्तोतृभ्यो देया ते
+> त्वत्संबंधिनी मघोनी धनवती जरित्रे स्तोत्रे वरं श्रेष्ठमभिमतमर्थं नूनं
+> प्रतिदुहीयत् । इदानीं प्रतिदोग्नि । संपादयतीत्यर्थः । तादृशीं दक्षिणां स्तोतृ-
+> भ्योSस्मभ्यं शिक्ष । प्रयच्छ । किंच भगो भजनीयस्त्वं माति धक् ॥ दहेर्दानार्थस्य
+> लुजति मंत्रे घसेत्यादिना चेर्लुक् ॥ नोSस्मानतिक्रम्यान्येभ्यो दक्षिणां मा दाः ।
+> प्रथममस्मभ्यं दत्ता पश्चादन्येभ्यो दीयतामित्यर्थः। यद्वा नोSस्माकं कामान्
+> मा धक् । मा धाक्षीः । अपेक्षितफलदानेन पूरयेत्यर्थः । सुवीराः शोभनपुत्र-
+> पौत्राः संतो वयं विदथेSस्मिन् ज्ञे बृहत् प्रभूतं स्तोत्रं वदेम । त्वामुद्दिश्य
+> ब्रवाम ॥ अत्र सा ते प्रतिदुग्धामिति प्रकृत्य वीरो वीरयत्यमित्रान् वेतीर्वा
+> स्याद्गतिकर्मणो वीरयतेर्वेत्यंतं निरुक्तमनुसंधेयं । नि. १-७ ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra—O Indra. te—given by you; maghonī—possessing abundant wealth; sā dakṣiṇā—that donation; jaritre—to the worshipper who praises (the sacrificer); nūnaṃ—assuredly; varaṃ—excellently; prati duhīyat—fulfils the desired object. (Such a donation) stotṛbhyaḥ—to us also, the praisers; śikṣa—give. bhagaḥ—you, the adorable; naḥ—us; māti dhak—do not disregard. suvīrāḥ—we, accompanied by excellent heroic sons; vidathe—in this sacrifice; bṛhat—abundant praise; vadema—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, that donation given by you, possessing abundant wealth, assuredly fulfils the desired object of the sacrificer who praises you, in an excellent manner. Give such a donation to us also, the praisers. You, the adorable, do not disregard us. We, accompanied by excellent sons, shall recite abundant praise at this sacrifice.
+
+**English Translation** *(as printed)*
+
+That opulent donation which proceeds, Indra, from you, assuredly bestows npon [sic] him who praises you the boon(that he desires): grant it to(us) your adorers: do not yon [sic], who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you at this sacrifice.
+
+### Printed p. 774
+
+*(Header: "774 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 16.]")*
+
+**Special Topics (Viśeṣaviṣayagaḷu)** *(heading printed "ವಿಶೇಷವಿಸಯಗಳು")*
+
+This Ṛk was already read earlier at Ṛ. Saṃ. 2-11-21, so its special topics have been written there at length, that is, on pages 628 to 640 of this same part. They may be seen there.
+
 ---
 
-**Progress note:** Done through printed p. 772 (PDF 772). Sukta 15 Rk 8 closed; Rk 9 complete; Rk 10 begun, bhashya breaks off at foot of p. 772. Rk 10 Samhita text garbled in supplied text, 2 places [?]
+## Sūkta 16
+
+*(Printed title: "ಹದಿನಾರನೆಯ ಸೂಕ್ತವು" — "The sixteenth sūkta".)*
+
+**Sāyaṇa's introduction (Sanskrit, printed as running prose in the supplied text):** it begins प्र वः सतां (*pra vaḥ satāṃ*) and names the sūkta as the fifth, of nine Ṛks, Gārtsamada, to Indra; it quotes the Anukramaṇikā प्र वो नवांत्या त्रिष्टुब् (*pra vo navāṃtyā triṣṭub*), says the ninth is Triṣṭubh and the rest Jagatī, and that in the third paryāya of the Atirātra the Acchāvāka's śastra uses the sūkta प्र वः सतां (*pra vaḥ satāṃ*); the Āśvalāyana sūtra in the khaṇḍa Atirātra is quoted: प्र वः सतां प्रो द्रोणे हरयः कर्माग्मन्निति याज्या (*pra vaḥ satāṃ pro droṇe harayaḥ karmāgmanniti yājyā*) (Ā. 6-4).
+
+**Anuvāda**
+
+The Kannada: "This sūkta, प्र वः सतां (*pra vaḥ satāṃ*), is the fifth sūkta in the second anuvāka. It has nine Ṛks. Gṛtsamada is the ṛṣi; Indra is the deity. Since the Anukramaṇikā says प्र वो नवांत्या त्रिष्टुप् (*pra vo navāṃtyā triṣṭup*), the last Ṛk of this sūkta, the ninth, is in the Triṣṭup metre; the remaining Ṛks are in Jagatī. The application of this sūkta is for the śastra mantras to be recited by the priest called Acchāvāka in the third paryāya of the sacrifice called Atirātra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, in the khaṇḍa called Atirātra, प्र वः सतां प्रो द्रोणे हरयः कर्माग्मन्निति याज्या (*pra vaḥ satāṃ pro droṇe harayaḥ karmāgmanniti yājyā*) (Ā. 6-4)."
+
+*(Two Oṃ lines are printed, "॥ ಓಂ ॥" and "॥ ಒಂ ॥", as supplied.)*
+
+**सूक्त—16**
+
+॥ मंडल—2 ॥ अनुवाक—2 ॥ सूक्त—16 ॥
+॥ अष्टक—2 ॥ अध्याय—6 ॥ वर्ग—17, 18 ॥
+
+Number of Ṛks in the sūkta—9. Ṛṣi—Gaitsamada [as printed]. Devatā—Indra. Chandas—Ṛks 1 to 8 Jagatī; 9 Triṣṭup. *(Printed "೦-೮ ಜಗತೀ", the first numeral as supplied.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र वः॑ स॒तां ज्येष्ठ॑तमाय सुष्टु॒तिम॒ग्नावि॑व समिधा॒ने ह॒वि-॑
+> र्भरे ।
+
+> *pra vaḥ satāṃ jyeṣṭhatamāya suṣṭutimagnāviva samidhāne havi-*
+> *rbhare |*
+
+### Printed p. 775
+
+*(Header: "[A. 2 A. 6 V. 17] Ṛgvedasaṃhitā 775". The Saṃhitā of Ṛk 1 is split by the page break after "havir-bhare".)*
+
+> इंद्रमजुर्यं जरयंतमुक्षितं सनाद्युवानमवसे हवा-
+> महे ॥ १ ॥
+
+> *iṃdramajuryaṃ jarayaṃtamukṣitaṃ sanādyuvānamavase havā-*
+> *mahe ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+*(The Pada reads सुस्तुतिं (*sustutiṃ*) where the Saṃhitā has सुष्टुतिं (*suṣṭutiṃ*); noted, as supplied.)*
+
+> प्र । वः । सतां । ज्येष्ठतमाय । सुस्तुतिं । अग्नौ इव । संइधाने । हविः । भरे ।
+> इंद्रं । अजुर्यं । जरयंतं । उक्षितं । सनात् । युवानं । अवसे । हवामहे ॥
+
+> *pra | vaḥ | satāṃ | jyeṣṭhatamāya | sustutiṃ | agnau iva | saṃidhāne | haviḥ | bhare |*
+> *iṃdraṃ | ajuryaṃ | jarayaṃtaṃ | ukṣitaṃ | sanāt | yuvānaṃ | avase | havāmahe ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Gṛtsamada says: sacrificers, for your sake I offer the oblation into the blazing fire for Indra, the greatest of the gods, and then offer fine praise; we call Indra, ageless, soma-sprinkled, ancient, ever young, for protection. Grammatical tail on bharē (root bhṛ, liṭ).*
+
+> गृत्समदो ब्रूते । हे यजमाना वो युष्मदर्थं सतां महतां देवानां
+> ज्येष्ठतमातिशयेन श्रेष्ठायेंद्राय तदर्थं। अग्नाविव समिधाने।इवशब्द एवार्थः।
+> दीप्यमान एवाग्नौ हविः प्रभरे । संपादयामि । ततः परं सुष्टुतिं शोभनां स्तुतिं
+> करोमि ॥ भर इति भृञ् भरणे इत्त्वादुभयपदी । लिटि रूपं ॥ अजुर्यमजर-
+> णीयं जरयंतं सर्वमन्यज्जरयंतमुक्षितं सोमेन सिक्तं सनात्सनातनं युवानं
+> नित्यतरुणं तादृशमिंद्रमवसेऽस्माकं रक्षणाय तस्य तर्पणाय वा हवामहे ।
+> आह्वयामः ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O sacrificers) vaḥ—on your behalf; satāṃ—among the great gods; jyeṣṭhatamāya—to Indra, the most excellent; samidhāne—blazing; agnāviva—in the fire itself; haviḥ—the oblation; pra bhare—I offer; suṣṭutiṃ—excellent praise also I offer. ajuryaṃ—himself free from decay (but); jarayantaṃ—making all others decay; ukṣitaṃ—sprinkled with soma juice (the soma-drinker); sanāt—ancient; yuvānaṃ—ever young; indraṃ—Indra; avase—for protection; havāmahe—we call.
+
+**भावार्थ (Bhāvārtha)**
+
+O sacrificers, for you I offer the oblation into the blazing fire for Indra, the most excellent among the great gods, and in the same way I recite praise. We call for protection Indra, who is free from decay, who makes others decay, who is sprinkled with soma juice, ancient and ever young.
+
+---
+
+**Progress note:** Done through printed p. 775 (PDF 775). Sukta 15 Rk 10 closed (bhashya tail, pratipadartha, bhavartha, English, special topics refer to 2-11-21); Sukta 16 begun, Rk 1 complete. Samhita of Rk 1 split by the page break; Pada has suStuti/susstuti difference noted
