@@ -20076,6 +20076,98 @@ This sentence is cited also in the Taittirīya Āraṇyaka. Explaining its purpo
 
 Yajñānāṃ: for the sacrifices. Pitā: protector. Vipaścitāṃ: for the learned praisers. Asuraḥ: giver of strength. Vāghatāṃ: for the priests. Vayunaṃ: means of knowledge. Vimānaṃ: helper of the works. Agniḥ: Agni. Bhūrivarpasā: the terrestrial, lightning and the like
 
+### Printed p. 644
+
+*[Running head, p. 644: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+in many kinds of forms. Rodasī: both heaven and earth. Ā viveśa: has entered and pervaded. Purupriyaḥ: dear to many. Dhāmabhiḥ: with radiances (endowed). Kaviḥ: wise Agni. Bhandate: is praised (by the sacrificers).
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, the protector of sacrifices, giver of strength to the learned praisers, means of knowledge for the priests and helper of the works, has entered and pervaded both heaven and earth in many kinds of forms, terrestrial, lightning and so on. Agni, dear to many, endowed with radiances and wise, is praised by the sacrificers.
+
+**Printed English translation**
+
+The parent of sacrifices, the invigorator of the wise, the end (of the rite), the instruction of the priests, Agni, who has pervaded heaven and earth in many forms, the friend of man, wise, (and endowed) with splendours, is glorified (by the worshipper).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Asuraḥ—in the present context the word asura means endowed with power. ⟦ಅಸುರಃ ಶತ್ರೂಣಾಂ ನಿರಸಿತಾ ।
+ಯದ್ವಾ । ಅಸುಃ ಪ್ರಾಣೋ ಬಲಂ ವಾ ತದ್ವಾನ್ ।⟧ — one who drives away enemies; or, since the word asu means breath or strength, one who has breath or strength. Or asavaḥ means waters; since he gives them, the word asura is also a synonym of Indra. When the word is an epithet of Agni all these meanings are possible. In the same way there are meanings such as wise, giver, "the year of the nature of time" and cloud. These varieties of meaning and their uses have been explained fully before. In the present context it means strong, or giver of breath.
+
+Vāghatāṃ—it is derived from the root vah. The Nirukta authors have read this word among the names of priests (Ni. 3-19). The priests may have been spoken of by this word because they carry out the sacrificial work. It has been explained in two ways, वोढारो मेधाविनो वा (*voḍhāro medhāvino vā*). Both meanings may refer to the priests.
+
+Vayunaṃ—this word is read among the names of knowledge such as ketaḥ, ketuḥ (Ni. 3-13). It is said to have this meaning because it produces light. वयुनं वेतेः कांतिर्वा प्रज्ञा वा । (*vayunaṃ veteḥ kāṃtirvā prajñā vā |*)
+
+### Printed p. 645
+
+*[Running head, p. 645: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+(Ni. 5-15). The Nirukta authors show that, derived from the root vī, which gives the sense of weaving, it gives the sense of desire or knowledge, and
+
+⟦ಸ ಇತ್ತಮೋಽವಯುನಂ ತತನ್ವತ್ಸೂರ್ಯೇಣ ವಯುನವಚ್ಚಕಾರ ।
+ಕದಾ ತೇ ಮರ್ತಾ ಅಮೃತಸ್ಯ ಧಾಮೇ ಯಕ್ಷಂತೋ ನ ಮಿನಂತಿ ಸ್ವಧಾವಃ ॥⟧
+(printed ಋ. ಸಂ ೬-೨೧-೩)
+
+citing this Ṛk they explain स तमोऽप्रज्ञानं ततन्वत्सूतं सूर्येण प्रज्ञानवच्चकार । (*sa tamo 'prajñānaṃ tatanvatsūtaṃ sūryeṇa prajñānavaccakāra |*) (Ni. 5-5): the meaning is that he made what was in the form of darkness and beyond perception an object of knowledge. In the present Ṛk it means knowledge.
+
+Bhūrivarpasā—"with many kinds of forms, terrestrial, lightning and so on": the many forms and powers of Agni are described. In the Special Topics of the Ṛk beginning "trīṇi jānā" (Ṛgveda Saṃhitā Part ೮, pp. ೧೮-೧೯) the different forms of Agni in the terrestrial and other realms have been explained. There is one kind of description that he is seen in the sea as the submarine fire, in heaven as Āditya and in the atmosphere as lightning. Besides, the names Pavamāna for the terrestrial Agni, Vanaspati for the Agni of the middle world and Śuci for the Agni of heaven are also well known. These distinctions were told before.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> चं॒द्रम॒ग्निं चं॒द्रर॑थं॒ हरि॑व्रतं वैश्वान॒रम॑प्सु॒षदं॑ स्व॒र्विदं॑ ।
+> वि॒गा॒हं तूर्णिं॒ तवि॑षीभि॒रावृ॑तं॒ भूर्णिं॑ दे॒वास॑ इ॒ह सु॒श्रियं॑
+> दधुः ॥ ५ ॥
+
+> *caṃdramagniṃ caṃdrarathaṃ harivrataṃ vaiśvānaramapsuṣadaṃ svarvidaṃ |*
+> *vigāhaṃ tūrṇiṃ taviṣībhirāvṛtaṃ bhūrṇiṃ devāsa iha suśriyaṃ*
+> *dadhuḥ ‖ 5 ‖*
+
+*[Garbled label as supplied before the Pada: "೧ ಪದಪಾರಂ ೧" (for Pada-pāṭha), kept as a note in kn.md; the Saṃhitā and Pada, run together in one block, were separated. The verse number ॥ ೫ ॥ is printed after both.]*
+
+**॥ पदपाठः ॥**
+
+> चंद्रं । अग्निं । चंद्ररथं । हरिऽव्रतं । वैश्वानरं । अप्सुसदं । स्वःविदं ।
+> विगाहं । तूर्णिं । तविषीभिः । आवृतं । भूर्णिं । देवासः । इह । सुत्रियं ।
+> दधुः ॥ ५ ॥
+
+*(The Pada is printed ಹರಿಽವ್ರತಂ, ಅಪ್ಸುಸದಂ and ಸುತ್ರಿಯಂ where the Saṃhitā has ಹರಿವ್ರತಂ, ಅಪ್ಸುಷದಂ and ಸುಶ್ರಿಯಂ, as supplied.)*
+
+### Printed p. 646
+
+*[Running head, p. 646: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+*[Garbled label as supplied before the bhāṣya: "। ಶಾಯುಜಭಾಷ್ಯಂ ।" (for Sāyaṇa-bhāṣya), kept as a note in kn.md.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> देवासो देवाश्चंद्रमाह्लादकरं चंद्ररथं । चंद्र आह्लादको रथो
+> यस्येति तं हरिव्रतं पिंगलवर्णं हरित्वचं वा । हरित्वचमिति शाखांतरं । अप्सुषदमप्पु सीदंतं स्वर्विदं सर्वज्ञं विगाहं विगाहमानं सर्वत्र व्याप्तं तूर्णिं
+> क्षिप्रगामिनं शत्रुणां हिंसितारं वा तविषीभिर्बलैरावृतं भूर्णिं भर्तारं सुश्रियं
+> शोभनदीप्तिं वैश्वानरमिहेहलोके दधुः । आदधुः ॥
+
+*(Gist: the gods placed here Vaiśvānara Agni, delightful, with a delightful chariot, tawny, seated in the waters, omniscient, all-pervading, swift, surrounded by powers, sustainer, of fine radiance.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Devāsaḥ: the gods. Candraṃ: the delightful one. Candrarathaṃ: he who has a delightful chariot. Harivrataṃ: the golden-hued. Apsuṣadaṃ: he who is established in the waters. Svarvidaṃ: the omniscient. Vigāhaṃ: he who pervades everywhere. Tūrṇiṃ: the swift-moving. Taviṣībhiḥ: with powers of all kinds. Āvṛtaṃ: the complete. Bhūrṇiṃ: sustainer (of the world). Suśriyaṃ: of excellent radiance. Vaiśvānaraṃ agniṃ: Agni in the form of Vaiśvānara. Iha: in this world. Dadhuḥ: have established.
+
+*[Garbled label as supplied: "೧ ಭಾಷಾರ್ಥ ೧" (for Bhāvārtha), kept as a note in kn.md.]*
+
+**भावार्थ (Bhāvārtha)**
+
+The gods have established in this world Agni, the delightful, whose chariot is delightful, golden-hued, established in the waters, omniscient, all-pervading, swift, complete with powers of all kinds, sustainer of the world, of excellent radiance, in the form of Vaiśvānara.
+
+**Printed English translation**
+
+The gods have placed in this world the delightful Agni in a delightful chariot, the tawny-hued Vaishwanara, the sitter in the waters, the omniscient, the all-pervading, the endowed with energies, the cherisher, the illustrious.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the previous Ṛk Agni was described and praised by epithets such as bhūrivarpasā, and in the present Ṛk by the epithets vigāhaṃ, taviṣībhiḥ and āvṛtaṃ. In this Ṛk he is praised as Agni who pervades everywhere, is endowed with powers of all kinds and sustains the world. The great power of Agni and his fame under many names owing to his many powers are described in the Śatapatha in this way.
+
 ---
 
-**Progress note:** Done through printed p. 643 (PDF 643). Sūkta 3 Ṛk 2 Special Topics end; Ṛk 3 complete; Ṛk 4 begun (Pratipadārtha cut mid-list); p. 643 head merged, fixed; accent DIFF/NOMATCH logged
+**Progress note:** Done through printed p. 646 (PDF 646). Sūkta 3 Ṛk 4 complete; Ṛk 5 complete up to start of Special Topics; accent DIFF/NOMATCH logged
