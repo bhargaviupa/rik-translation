@@ -10633,6 +10633,141 @@ The (Agni) whose ordinance is not transgressed..................................
 
 22 (Ṛ. Saṃ. 2-8-3) (the stray "22" before the reference is as supplied).
 
+### Printed p. 338
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Aṣṭaka 4 (as printed), Sūkta 38, p. 338.*
+
+> इंद्रस्य कर्म सुकृता पुरूणि व्रतानि देवा न मिनंति विश्वे ।
+
+> *iṃdrasya karma sukṛtā purūṇi vratāni devā na minaṃti viśve |*
+
+(Ṛ. Saṃ. 3 32-8, as printed, with a space where a hyphen is expected.) Indra's deeds of valour are many and well done. The gods do not break (do not transgress) Indra's rules and ordinances.
+
+> विश्वं सत्यं मघवाना युवोरिदापश्चन प्र मिनंति व्रतं वां ।
+
+> *viśvaṃ satyaṃ maghavānā yuvoridāpaścana pra minaṃti vrataṃ vāṃ |*
+
+(Ṛ. Saṃ. 2-24-12.) O mighty gods, all that is yours is true. Even the waters do not transgress your rules and ordinances. (The printed translation has a stray colon before "your".)
+
+> वनानि विभ्यो नकिरस्य तानि व्रता देवस्य सवितुर्मिनंति ।
+
+> *vanāni vibhyo nakirasya tāni vratā devasya saviturminaṃti |*
+
+(Ṛ. Saṃ. 2-38-7, the "." after "Saṃ" missing in print.) No one transgresses these rules of the god Savitṛ.
+
+*Garbled duplicate line as supplied (kept, not deleted): the verse of Ṛ. Saṃ. 1-92-12 appears twice in the supplied text, first with जेति (*jeti*) for चेति (*ceti*) and then again below; the first copy is kept here as an italic note in kn.md.*
+
+> अमिनती दैव्यानि व्रतानि सूर्यस्य चेति रश्मिभिर्दृशाना ।
+
+> *aminatī daivyāni vratāni sūryasya ceti raśmibhirdṛśānā |*
+
+(Ṛ. Saṃ. 1-92-12.)
+
+> अमिनती द्यैव्यानि व्रतानि प्रमिनती मनुष्या युगानि ।
+
+> *aminatī dyaivyāni vratāni praminatī manuṣyā yugāni |*
+
+(Ṛ. Saṃ. 1-124-12.) This goddess Uṣas does not transgress the rules and ordinances of the gods.
+
+> किं स्विन्नो राजा जगृहे कदस्याति व्रतं चकृमा को वि वेद ।
+
+> *kiṃ svinno rājā jagṛhe kadasyāti vrataṃ cakṛmā ko vi veda |*
+
+(Ṛ. Saṃ. 10-12-5.) Which rule (of this Agni) shall we transgress?
+
+> अयमेक इत्था पुरूरु चष्टे वि विश्वतिः । तस्य व्रतान्यनु वश्चरामसि ।
+
+> *ayameka itthā purūru caṣṭe vi viśvatiḥ | tasya vratānyanu vaścarāmasi |*
+
+(Ṛ. Saṃ. 8-25-16.) We shall follow (observe) his rules. In these and other Ṛks, and also in the Ṛks Ṛ. Saṃ. 10-33-9; 7-5-4; 7-87-7, the word व्रत (*vrata*) indicates the sense of rules and ordinances.
+
+And the word अनुव्रतं (*anuvrataṃ*) occurring in the Ṛks Ṛ. Saṃ. 2-38-3; 2-38-6; 8-40-8; 1-136-5; 3-61-1; 4-13-2; 5-69-1 and others indicates the sense "in accordance with the rules and ordinances".
+
+(3) In some contexts, when the rules of the gods are explained in the sense of sacrifice or sacrificial acts, the word व्रत (*vrata*) is used. It is said that by performing sacrifices and the like one does not neglect the wish or the ordinance of the gods
+
+### Printed p. 339
+
+*Running head: Aṣṭaka 2 (printed "ಅ."), Adhyāya 8, Varga 2, p. 339 (Ṛgvedasaṃhitā).*
+
+(The sentence of p. 338 continues:) the wish or ordinance of the gods is not neglected, it is said—
+
+> यो अग्नीषोमा हविषा सपर्याद्देवद्रीचा मनसा यो धृतेन ।
+> तस्य व्रतं रक्षतं पातमहंसो विशे जनाय महि शर्म यच्छतं ।
+
+> *yo agnīṣomā haviṣā saparyāddevadrīcā manasā yo dhṛtena |*
+> *tasya vrataṃ rakṣataṃ pātamahaṃso viśe janāya mahi śarma yacchataṃ |*
+
+(Ṛ. Saṃ. 1-93-8.) O Agni and Soma, the man (the sacrificer) who worships Agni and Soma with oblations and other substances, wholeheartedly — protect his sacrifice, guard him so that no harm befalls him.
+
+> त्वमग्ने प्रथमो अंगिरस्तमः कविर्देवानां परि भूषसि व्रतं ।
+
+> *tvamagne prathamo aṃgirastamaḥ kavirdevānāṃ pari bhūṣasi vrataṃ |*
+
+(printed "ಮ ಸಂ. ೧-೩೧-೨", the Ṛ missing in print; as supplied.) O Agni, you are the foremost among the Aṅgiras sages, the first, and a poet. Perform the sacrifice of the gods.
+
+> तस्य व्रतानि भूरिपोषिणो वयमुप भूषेम दम आ सुवृक्तिभिः ।
+
+> *tasya vratāni bhūripoṣiṇo vayamupa bhūṣema dama ā suvṛktibhiḥ |*
+
+(Ṛ. Saṃ. 3-3-9.) We, endowed with wealth and other riches, shall perform in our house Agni's sacrificial acts with hymns of praise and so on — in these and other Ṛks, and also in the Ṛks Ṛ. Saṃ. 3-6-5; 8-42-1; 6-14-3; 1-24-15; 6-54-9; 10-36-13; 5-18-5, the word व्रत (*vrata*) is used in one of the senses "sacrifice", "sacrificial act" or "act". When the words of the various mantras are explained so that the meaning fits, whichever of the three kinds of meaning given by Yāska for the word व्रत (*vrata*) fits properly according to the context is to be given. This is the principal meaning and the usage of the word व्रत (*vrata*).
+
+The Nirukta explains the words of this Ṛk thus:
+
+> देवः पृथुपाणिः विश्वस्य श्रुष्टये हि ऊर्ध्वः बाहवा प्रसिसर्ति
+
+> *devaḥ pṛthupāṇiḥ viśvasya śruṣṭaye hi ūrdhvaḥ bāhavā prasisarti*
+
+— "For the happiness of the whole world this god Savitṛ rises up and stretches out his arms." Here "arms" means rays. The Sun (Savitṛ), having risen, makes his rays spread in all directions and gives happiness to the creatures of the world.
+
+> निम्मग्राः आपः चित् अस्य व्रते आ (स्यंदंति)
+
+> *nimmagrāḥ āpaḥ cit asya vrate ā (syaṃdaṃti)*
+
+— "By the rule of this god, that is, by his work called creation, the waters produced flow in the forms of Gaṅgā and other rivers, purifying the people of the world." In this sentence the verb स्यंदंति (*syaṃdaṃti*) is to be supplied. (The first word is printed निम्मग्राः (*nimmagrāḥ*) in the supplied text, as supplied; compare the Pratipadārtha on p. 336.) By the rays of the sun the waters in the sea and other reservoirs are heated, gather in the atmosphere in the form of vapour, remain some time in the form of clouds, and then he makes those waters fall on the earth in the form of rain. The rain-waters gather together and flow in the form of rivers. By the water of those rivers
+
+### Printed p. 340
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Aṣṭaka 4 (as printed), Sūkta 38, p. 340.*
+
+people are not only purified but also obtain food and other nourishment through the growth of plants and so on, and live happily. It is indicated here that for all this the व्रत (*vrata*) of the god Savitṛ, that is, his work (his rule), is the cause.
+
+"This wind also sports in the all-pervading atmosphere" — that is, the wind around us moves about playfully in the atmosphere which is spread everywhere. The meaning is: that the wind blows in the wide atmosphere for the good of men is also the rule of that god Savitṛ.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> आ॒शुभि॑श्चि॒द्यान्वि मु॑चाति नू॒नमरी॑रम॒दत॑मानं चि॒देतोः॑ ।
+> अ॒ह्यर्षू॑णां चि॒न्न्य॑या अवि॒ष्यामनु॑ व्र॒तं स॑वि॒तुर्मोक्यागा॑त् ॥
+
+**॥ पदपाठः ॥**
+
+> आशुभिः । चित् । यान् । वि । मुचाति । नूनं । अरीरमत् । आतमानं । चित् । एतोः।
+> अह्यर्षूणां । चित् । नि । अयान् । अविष्यां । अनु । व्रतं । सवितुः । मोकी । आ ।
+> अगात् ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यान् गच्छन् सविताशुभिश्चिच्छीघ्रगामिभिरपि रश्मिभिर्विमुचाति । विमुच्यते ।
+> नूनमिति पूरणः । अतमानं चित्सततं गच्छंतमपि जनमेतोर्गमनादरीरमत् ।
+> उपरमयति । किंच अह्यर्षणां । अहिमाहंतारं शत्रुमर्षंत्यभिगच्छंतीत्यह्य-
+> र्षवः । तेषामप्यविष्यां गमनेच्छां न्ययान् । नियच्छति। सवितुः प्रेरकस्य सूर्यस्य
+> व्रतं कर्मानु पश्चान्मोकी रात्रिः । मोकी शोकीति रात्रिनामसु पाठात् ॥ आगात्!
+> आगच्छति । सवितुश्चॆष्टोपरतौ रात्रिरागच्छतीति यावत् ॥
+
+> *yān gacchan savitāśubhiścicchīghragāmibhirapi raśmibhirvimucāti | vimucyate |*
+> *nūnamiti pūraṇaḥ | atamānaṃ citsatataṃ gacchaṃtamapi janametorgamanādarīramat |*
+> *uparamayati | kiṃca ahyarṣaṇāṃ | ahimāhaṃtāraṃ śatrumarṣaṃtyabhigacchaṃtītyahya-*
+> *rṣavaḥ | teṣāmapyaviṣyāṃ gamanecchāṃ nyayān | niyacchati| savituḥ prerakasya sūryasya*
+> *vrataṃ karmānu paścānmokī rātriḥ | mokī śokīti rātrināmasu pāṭhāt ‖ āgāt!*
+> *āgacchati | savituścèṣṭoparatau rātrirāgacchatīti yāvat ‖*
+
+Gist: Savitṛ, going, releases (the horses) with swift rays; he stops even the constantly moving; he restrains the wish of the warriors to go; after his work the night comes.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यान् (*yān*) — Savitṛ who moves. आशुभिश्चित् (*āśubhiścit*) — by the swift-going rays. वि मुचाति (*vi mucāti*) — becomes released. अतमानं चित् (*atamānaṃ cit*) — even people who move constantly. एतोः (*etoḥ*) — from their moving. अरीरमत् (*arīramat*) — he stops. अह्यर्षणां (*ahyarṣaṇāṃ*) — of the warriors, the assailants of enemies (the Pratipadārtha continues on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 337 (PDF 337). pp. 335-337: Sukta 38 Rk 1 Special Topics end; Rk 2 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English; Special Topics on sruṣṭi and vrata begun (Nirukta and Rk quotes in full); Pratipadartha un-quoted and Nirukta/Rk quotes made > blocks in kn.md; flags: 2 [?] (tapadah for tadapah at p. 335 start; Samhita/Pada spelling differences in Rk 2 noted as supplied; stray 22 before ref 2-8-3; Si. 2-13 reference as printed; Special Topics continues on p. 338)
+**Progress note:** Done through printed p. 340 (PDF 340). pp. 338-340: Sukta 38 Rk 2 Special Topics end (vrata: rules, sacrifice; Nirukta quotes); Rk 3 Samhita, Pada, bhashya, Pratipadartha begun (continues p. 341); kn.md: Rk quotes made > blocks, garbled duplicate of 1-92-12 (jeti for ceti) kept as italic note; flags: 0 [?]; 'nimmagrah' as supplied; ref '3 32-8' and 'ma. sam.' as printed
