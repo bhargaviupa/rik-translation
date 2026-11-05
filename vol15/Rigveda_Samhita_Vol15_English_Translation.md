@@ -17747,6 +17747,93 @@ Thus, exactly in keeping with the explanation of the Nirukta authors, he has exp
 > *vaiśvānarāya dhiṣaṇāmṛtāvṛdhe ghṛtaṃ na pūtamagnaye janāmasi |*
 > *dvitā hotāraṃ manuṣaśca vāghato dhiyā rathaṃ na kuliśaḥ samṛṇvati ‖*
 
+### Printed p. 561
+
+*[Running head, p. 561: Aṣṭaka 2 (printed ಆ. for ಅ.), Adhyāya 8, Varga 17, Ṛgvedasaṃhitā.]*
+
+**॥ पदपाठः ॥**
+
+> वैश्वानराय । धिषणां । ऋत्यवृधे । घृतं । न । पूतं । अग्नये । जनामसि ।
+> द्विता । होतारं । मनुषः । च । वाघतः । धिया । रथं । न । कुलिशः । सं । ऋण्वति ॥
+
+> *vaiśvānarāya | dhiṣaṇāṃ | ṛtyavṛdhe | ghṛtaṃ | na | pūtaṃ | agnaye | janāmasi |*
+> *dvitā | hotāraṃ | manuṣaḥ | ca | vāghataḥ | dhiyā | rathaṃ | na | kuliśaḥ | saṃ | ṛṇvati ‖*
+
+*[The supplied text has before the bhāṣya a garbled label "॥ ಸಾಯುಣಭಾಷ್ಯಂ ॥" (for Sāyaṇa-bhāṣya), kept as a note in kn.md; the standard label was inserted and the bhāṣya made a separate block.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋतावृधे ऋतस्योदकस्य यज्ञस्य वा वर्धयित्रे वैश्वानराय । वैश्वानरशब्दो यास्केन व्याख्यातः । वैश्वानरः कस्माद्विश्वान्नरान्नयति विश्व एनं नरा नयंतीति
+> वा । अपि वा विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरस्तस्येषा भवति।
+> नि. ७-२१ । इति । तस्मै पूतं धृतं न धृतमिव धिषणां स्तुतिं जनामसि । जनयामः ।
+> यथा धृतं प्रीतिं जनयति तथा प्रीतिं करोमीत्यर्थः । द्विता द्विधा गार्हपत्याहवनीयरूपाभ्यां युक्तं होतारं देवानामाह्वातारमग्निं मनुषो मनुष्या
+> वाघतश्च ऋत्विजश्च धिया कर्मणा कुलिशो वास्यादी रथं न रथमिव समृण्वति ।
+> संस्कुर्वंति ॥
+
+*(Gist: to Vaiśvānara Agni, augmenter of water or of the sacrifice, we offer praise as pure as ghee; priests and men prepare the twofold invoker with their rites as a carpenter fashions a chariot. Vaiśvānara is explained from Nirukta 7-21.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ṛtāvṛdhe: to the augmenter of the sacrifice. Vaiśvānarāya: to him who has the form of Vaiśvānara. Agnaye: addressed to Agni. Pūtaṃ: pure. Ghṛtaṃ na: like ghee. Dhiṣaṇāṃ: praise. Janāmasi: let us fashion. Dvitā: him who is joined with the Gārhapatya and Āhavanīya forms. Hotāraṃ: the invoker of the gods, Agni. Manuṣaḥ: the men who are sacrificers. Vāghataḥ ca: and the priests. Dhiyā: by their rite. Kuliśaḥ: the carpenter. Rathaṃ na: as one fashions a chariot. Samṛṇvati: they fashion.
+
+**भावार्थ (Bhāvārtha)**
+
+Let us fashion praise, pure like ghee, addressed to Agni, the augmenter of the sacrifice, who has the form of Vaiśvānara. The men who are sacrificers and the priests, by their rite, fashion and perfect Agni, who is joined with the Gārhapatya and Āhavanīya forms and is the invoker of the gods, as a carpenter fashions a chariot.
+
+**Printed English translation**
+
+We offer to Agni, who is Vaishwanara, the augmenter of water, praise (as bland) as pure clarified butter ; and the priests and the
+
+*[Lone numeral "36" at the foot of p. 561 in the supplied text, kept as a note.]*
+
+### Printed p. 562
+
+*[Running head, p. 562: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+worshipper incite by their (pious) rites the invoker of the gods to his two-fold function, as a wheelwright fabricates a car.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The application (viniyoga) states that this sūkta is used for the recitation of the nivid mantras. A careful explanation is necessary of what nivid mantras are and what their nature is. The name nivid mantra is well known for mantras that address a deity, or a group of deities, describe their extraordinary qualities and invoke them. Saying this very thing, the Bṛhaddevatā states:
+
+⟦ಕರ್ಮೈವ ತಾವತ್ಸಾವಿತ್ರಾಂ ನಿವಿದಿ ಸ್ತೌತಿ ಕರ್ಮಣಾ ।
+ಯುದ್ಧೇನುಃ ಸಪ್ತ್ಯನಡ್ವಾಹೌ ವೋಳ್ಹಾ ದೋಗ್ಧಾಶುರೇವ ನಾ ॥⟧
+(Bṛ. De. 3-50)
+
+By the word dogdhi (milks) a milch cow is meant, by āśu (swift) a swift one, and by voḍhā (bearer of a burden) an ox; as the distinction of each is understood from its respective epithet, so through the nivid mantras the individual qualities of each deity can be understood from the description of its respective deeds. For example,
+
+अभि त्वा देव सवितरीशानं वार्याणां । सदाववन्नागमीमहे । (*abhi tvā deva savitarīśānaṃ vāryāṇāṃ | sadāvavannāgamīmahe |*)
+(Ṛ. Saṃ. 1-24-3)
+
+in this Ṛk the nivid mantra addressed to the deity Savitṛ shows his distinction by describing his extraordinary deed. The glory of the nivid mantras, and the relation of cause and effect between the creation of the world and these great mantras, is read in the Aitareya Brāhmaṇa in this way—
+
+⟦ಪ್ರಜಾಪತಿರ್ವಾ ಇದಮೇಕ ಏವಾಗ್ರ ಆಸ ಸೋಽಕಾಮಯತ ಪ್ರಜಾಯೇಯ ಭೂಯನ್ತಾಶಿಮಿತಿ ಸ ತಪೋಽತಪ್ಯತ ಸ ವಾಚಮಯಚ್ಛತ್ಸ ಸಂವತ್ಸರಸ್ಯ ಪರಸ್ತಾದ್ವಾಹರದ್ವಾದಶಕೃತ್ವೋ ದ್ವಾದಶಪದಾ ನಾ ಏಷಾ ನಿವಿದೇತಾಂ ವಾವ ತಾಂ ನಿವಿದಂ ವ್ಯಾಹರತ್ತಾಂ
+ಸರ್ವಾಣಿ ಭೂತಾನ್ಯನ್ವಸೃಜ್ಯಂತ ।⟧
+(Ai. Brā. 10-1, printed ಇ. ಬ್ರಾ,)
+
+In the beginning Prajāpati was alone; he desired to make creatures and to become many, resorted to silence for a year and practised austerity. Afterwards he recited twelve times the nivid mantras, which contain twelve great phrases, and then all the creatures of the world were created
+
+### Printed p. 563
+
+*[Running head, p. 563: Aṣṭaka 2, Adhyāya 8, Varga 17, Ṛgvedasaṃhitā.]*
+
+(in this way the Brāhmaṇa shows the power of these mantras), and then it explains the special character of this mantra at the times of rites and the order of its use as follows—
+
+⟦ಗರ್ಭಾ ವಾ ಏತ ಉಕ್ತಾನಾಂ ಯನ್ನಿವಿದಸ್ತದ್ಯತ್ಪುರಸ್ತಾದುಕ್ಥಾನಾಂ ಪ್ರಾತಃಸವನೇ ಧೀಯಂತೇ
+ತಸ್ಮಾತ್ಪರಾಂಚೋ ಗರ್ಭಾ ಧೀಯಂತೇ ಪರಾಂಚಃ ಸಂಭವತಿ । ಯನ್ಮಧ್ಯತೋ ಮಧ್ಯಂದಿನೇ
+ಧೀಯಂತೇ ತಸ್ಮಾನ್ಮಧ್ಯೇ ಗರ್ಭಾ ಧೃತಾಃ । ಯದಂತತಸ್ತೃತೀಯಸವನೇ ಧೀಯಂತೇ
+ತಸ್ಮಾದಮುತೋರ್ವಾಂಚೋ ಗರ್ಭಾಃ ಪ್ರಜಾಯಂತೇ ಪ್ರಜಾತ್ಯೈ । ಪ್ರಜಾಯತೇ
+ಪ್ರಜಯಾ ಪಶುಭಿರ್ಯ ಏವಂ ವೇದ । ಪೇಶಾ ವಾ ಏತ ಉಕ್ತಾನಾಂ ಯನ್ನಿವಿದಸ್ತದ್ಯತ್ಪುರಸ್ತಾದುಕ್ಥಾನಾಂ ಪ್ರಾತಃಸವನೇ ಧೀಯಂತೇಯಥೈವ ಪ್ರವಣಯತಃ ಪೇಶಃ ಕುರ್ಯಾತ್ತಾದೃಕ್ತದ್ಯನ್ಮಧ್ಯತೋ ಮಧ್ಯಂದಿನೇ ಧೀಯಂತೇ ಯಥೈವ ಮಧ್ಯತಃ ಪೇಶಃ ಕುರ್ಯಾತ್ತಾದೃಕ್ತದ್ಯದಂತತಸ್ತೃತೀಯಸವನೇ ಧೀಯಂತೇ ಯಥೈವಾವಪ್ರಜ್ಜನತಃ ಪೇಶಃ ಕುರ್ಯಾತ್ತಾದೃಕ್ತತ್ । ಸರ್ವತೋ ಯಜ್ಞಸ್ಯ ಪೇಶಸಾ ಶೋಭತೇ ಯ ಏವಂ ವೇದ ॥⟧
+(Ai. Brā. 11-10, as printed)
+
+The nivid mantras are in the form of embryos for the uktha hymns. That is, at the morning pressing they are recited before the ukthas; therefore the embryos too begin facing away. At the midday pressing these mantras are recited in the middle; therefore the embryos are held in the middle. At the third pressing the nivid mantras are recited in the later parts, and so the child in the womb is born head downwards. One who knows these principles is endowed with progeny and cattle. The nivid mantras, being in the form of ornaments of the ukthas, increase their beauty and brilliance. The mantras to be recited at the morning pressing are like the ornaments of the upper part, those at the midday time like the ornaments of the middle region, and the mantras of the third pressing like the ornaments of the lower part; they give adornment. One who knows this adorns the sacrifice and shines himself. And further,
+
+⟦ಸೌರ್ಯಾ ವಾ ಏತಾ ದೇವತಾ ಯನ್ನಿವಿದಿಸ್ತದ್ಯತ್ಪುರಸ್ತಾದುಕ್ಥಾನಾಂ ಪ್ರಾತಃಸವನೇ ಧೀಯಂತೇ
+ಮಧ್ಯತೋ ಮಧ್ಯಂದಿನೇ ತತಸ್ತೃತೀಯಸವನ ಆದಿತ್ಯಸ್ಯೈವ ತದ್ವ್ರತಮನು ಪರ್ಯಾವರ್ತಂತೇ । ಪಚ್ಚೋ ವೈ ದೇವಾ ಯಜ್ಞಂ ಸಮಭರಂಸ್ತಸ್ಮಾತ್ಪಚ್ಚೋ ನಿವದಃ ಶಸ್ಯಂತೇ ।
+ಯದ್ವೈ ತದ್ದೇವಾ ಯಜ್ಞಂ ಸಮಭರಂಸ್ತಸ್ಮಾದಶ್ವಃ ಸಮಭವತ್ತಸ್ಮಾದಾಹುರಶ್ವಂ ನಿವಿದಾಂ
+ಶಂಸ್ರೇ ದದ್ಯಾದಿತಿ ತದು ಖಲು ವರಮೇವ ದದತಿ । ನ ನಿವಿದಃ ಪದಮತೀಯಾದ್ಯದ್ಯನ್ನಿವಿದಃ ಪದಮತೀಯಾದ್ಯಜ್ಞಸ್ಯ ತಚ್ಛಿದ್ರಂ ಕುರ್ಯಾದ್ಯಜ್ಞಸ್ಯ ವೈ ಛಿದ್ರಂ ಸ್ರವದ್ಯಜಮಾನೋಽನು ಪಾಪೀಯಾನ್ ಭವತಿ ತಸ್ಮಾನ್ನ ನಿವಿದಃ ಪದಮತೀಯಾತ್ । ನ ನಿವಿದಃ ಪದೇ
+ವಿಪರಿಹರೇದ್ಯನ್ನಿವಿದಃ ಪದೇ ವಿಪಹರೇನ್ಮೋಹಯೇದ್ಯಜ್ಞಂ ಮುಗ್ಧೋ ಯಜಮಾನಃ⟧
+
 ---
 
-**Progress note:** Done through printed p. 560 (PDF 560). Sūkta 2: Pīṭhike ends (Vaiśvānara story, Chāndogya, Śaṅkara); Sāyaṇa intro, Anuvāda, headers, Saṃhitā Ṛk 1
+**Progress note:** Done through printed p. 563 (PDF 563). Sūkta 2 Ṛk 1 complete up to Special Topics on nivid mantras (cut mid-passage)
