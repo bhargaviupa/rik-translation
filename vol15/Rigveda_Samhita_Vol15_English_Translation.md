@@ -7464,6 +7464,117 @@ Addressing the Maruts as हे मरुतः (*he marutaḥ*), the sacrificer
 
 The word कारु (*kāru*) is said to occur among the names of singers (Ni. 3-19).
 
+### Printed p. 242
+
+Sūkta 34, Ṛk 7, Special Topics (continued from p. 241): Sāyaṇa explains सनिं (*saniṃ*) as धनदातृत्वं (*dhanadātṛtvaṃ*) ("liberality in giving wealth"). Yāska has explained the meaning in this verse:
+
+> हिनोता नो अध्वरं देवयाज्या हिनोत ब्रह्म सनये धनानां ।
+> ऋतस्य योगे वि प्यध्वमूढः श्रुष्टिवरीर्भूतनास्मभ्यमापः ॥
+
+> *hinotā no adhvaraṃ devayājyā hinota brahma sanaye dhanānāṃ |*
+> *ṛtasya yoge vi pyadhvamūḍhaḥ śruṣṭivarīrbhūtanāsmabhyamāpaḥ ‖*
+
+(Ṛ. Saṃ. 10-30-11)
+
+Here he explains that सनये (*sanaye*) means लब्धये (*labdhaye*), "for the obtaining of wealth" (Ni. 6-22).
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> यद्युं॒जते॑ म॒रुतो॑ रु॒क्मव॑क्ष॒सोऽश्वा॒न्रथे॑षु॒ भग॒ आ सु॒दान॑वः ।
+> धे॒नुर्न शिश्वे॒ स्वस॑रेषु पिन्नते॒ जना॑य रा॒तह॑विषे म॒हीमिषं॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> यत् । युंजते । मरुतः । रुक्ष्मवक्षसः । अश्वान् । रथेषु । भगे । आ । सुदानवः ।
+> धेनुः । न । शिश्वे । स्वसरेषु । पिन्नते । जनाय । रातहविषे । महीं । इषं ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> रुक्ष्मवक्षसो रोचमानाभरणोरस्काः सुदानवः शोभनदाना मरुतो
+> यद्यदा रथेषु भगे भजनीये स्थाने । धुरीत्यर्थः । अश्वानायुंजते । अभिमु-
+> ख्येन युक्तान्कुर्वंति । तदानीमेव रातहविषे दत्तहविष्काय यजमानाय महीं
+> महतीमिषमन्नं तत्कारणभूतमुदकं वा स्वसरेषु स्वकीयेषु गृहेषु पिन्नते ।
+> सिंचंति किरंति ॥ पिवि सेचने ॥ तत्र दृष्टांतः । धेनुर्न शिश्वे । यथा धेनुः प्रसुत-
+> स्तनी सती स्वकीयाय वत्साय क्षीरं प्रयच्छति तद्वत् ॥
+
+> *rukṣmavakṣaso rocamānābharaṇoraskāḥ sudānavaḥ śobhanadānā maruto*
+> *yadyadā ratheṣu bhage bhajanīye sthāne | dhurītyarthaḥ | aśvānāyuṃjate | abhimu-*
+> *khyena yuktānkurvaṃti | tadānīmeva rātahaviṣe dattahaviṣkāya yajamānāya mahīṃ*
+> *mahatīmiṣamannaṃ tatkāraṇabhūtamudakaṃ vā svasareṣu svakīyeṣu gṛheṣu pinnate |*
+> *siṃcaṃti kiraṃti ‖ pivi secane ‖ tatra dṛṣṭāṃtaḥ | dhenurna śiśve | yathā dhenuḥ prasuta-*
+> *stanī satī svakīyāya vatsāya kṣīraṃ prayacchati tadvat ‖*
+
+Gist: When the Maruts, with gleaming ornaments on their breasts, yoke their horses to the chariot-poles, they pour abundant food or water into the houses of the sacrificer, as a cow gives milk to her calf.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रुक्मवक्षसः (*rukmavakṣasaḥ*)—those whose breasts bear golden ornaments; सुदानवः (*sudānavaḥ*)—those who give excellent gifts; मरुतः (*marutaḥ*)—the Maruts; यत् (*yat*)—when; रथेषु भगे (*ratheṣu bhage*)—in the yoke-regions of the chariots; अश्वान् (*aśvān*)—horses; आ युंजते (*ā yuṃjate*)—they yoke facing forward
+
+### Printed p. 243
+
+(at that very moment); रातहविषे (*rātahaviṣe*)—to him who has offered the oblation; जनाय (*janāya*)—to the sacrificer; महीं (*mahīṃ*)—great; इषं (*iṣaṃ*)—food; स्वसरेषु (*svasareṣu*)—in their own houses; शिश्वे (*śiśve*)—to her calf; धेनुर्न (*dhenurna*)—as a cow gives milk abundantly; पिन्वते (*pinvate*) [sic: printed पिन्नते (*pinnate*) in the Saṃhitā and Pada]—they pour out.
+
+**भावार्थ (Bhāvārtha)**
+
+The Maruts, whose breasts are adorned with golden ornaments and who give excellent gifts, the moment they yoke horses to their chariots, pour great food into the houses of the sacrificers who have offered oblations, as a cow gives abundant milk to her calf.
+
+**Printed English translation**
+
+When the golden-breasted munificent Maruts yoke their horses to their chariots on an auspicious (occasion), they shed in their peculiar (directions) abundant food upon him who offers them oblations, as a milch cow (gives milk) to her calf.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रुक्मवक्षसः सुदानवः मरुतः (*rukmavakṣasaḥ sudānavaḥ marutaḥ*)—the Maruts, who wear golden ornaments (necklaces) on their breasts and give abundant gifts, sit in their chariots to receive the oblation at the sacrifice, and to the sacrificers who offer shares of the oblation, महीं इषं (*mahīṃ iṣaṃ*) (explained as great food, or the water that causes it), that is, abundant food, or the rain-waters that cause the growth of the plants and the like from which food arises, they grant. So it is described.
+
+स्वसरेषु धेनुर्न शिश्वे (*svasareṣu dhenurna śiśve*)—the Sanskrit explanation given is स्वकीयेषु गृहेषु यथा धेनुः प्रस्तुतस्तनीयाय (*svakīyeṣu gṛheṣu yathā dhenuḥ prastutastanīyāya*) followed by वत्साय क्षीरं प्रयच्छति तद्वत् (*vatsāya kṣīraṃ prayacchati tadvat*) (as a cow gives milk to her calf). As cows in their own dwelling give milk for their calves, so the Maruts of their own accord bestow food and waters on the sacrificers who offer them oblations; thus their generosity is described.
+
+The word स्वसर (*svasara*) is listed among the names of houses (Ni. 3-13) and among the names of days (Ni. 2-21), and Yāska has explained it in Ni. 5-4 (स्वसराण्य- (*svasarāṇya-*) ... स्वयं सारीण्यपिवा (*svayaṃ sārīṇyapivā*), the passage as supplied). Here it is used in the sense of "house".
+
+### Printed p. 244
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> यो नो॑ मरुतो वृ॒कता॑ति॒ मर्त्यो॑ रि॒पुर्द॒धे व॑सवो॒ रक्ष॑ता॒
+> रि॒षः ।
+> व॒र्तय॑त॒ तपु॑षा च॒क्रिया॒भि तमन॑ रुद्रा अ॒शसो॑ हंतना॒ वधः॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । नः । मरुतः । वृकताति । मर्त्यः । रिपुः । दधे । वसवः । रक्षत । रिषः ।
+> वर्तयत । तपुषा । चक्रिया । अभि । तं । अव । रुद्राः । अशसः । हंतन । वधरिति ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः यो मर्त्यो मनुष्यो वृकताति आदाताः वृकः ॥ वृक आदाने ।
+> वृकज्येष्ठाभ्यां तिल्तातिलौ च छंदसि । पा. ५-४-४१. । इति स्वार्थिकस्तातिल्पत्ययः ॥
+> तादृशः सन् नोऽस्माकं रिपुर्दधे । रिपुतयात्मानं धारयति । हे वसवो वासयि-
+> तारो मरुतो रिषो हिंसकादस्मान्रक्षत । पालयत । आस्माकं शत्रुभूतं मर्त्य०
+> तपुषा तापयित्रा चक्रिया ऋष्टाख्यया शक्त्याभिवर्तयत । अभितो निवर्तयत ।
+> हे रुद्रा रुद्रपुत्राः । यद्वा रोरूयमाणा द्रवंतः अशसो भक्षकस्य ॥
+> अश भोजन इत्यस्मादौणादिकोऽसिप्रत्ययः ॥ तादृशस्य राक्षसादेवधर्हनन-
+> साधनमायुधमवहंतन । अवयुत्यास्मत्तः पृथक्कृत्य नाशयत ॥ हंतेर्लोटि
+> तप्तनप्तनथनाश्चति तनप् ॥
+
+> *he marutaḥ yo martyo manuṣyo vṛkatāti ādātāḥ vṛkaḥ ‖ vṛka ādāne |*
+> *vṛkajyeṣṭhābhyāṃ tiltātilau ca chaṃdasi | pā. 5-4-41. | iti svārthikastātilpatyayaḥ ‖*
+> *tādṛśaḥ san no 'smākaṃ ripurdadhe | riputayātmānaṃ dhārayati | he vasavo vāsayi-*
+> *tāro maruto riṣo hiṃsakādasmānrakṣata | pālayata | āsmākaṃ śatrubhūtaṃ martya0*
+> *tapuṣā tāpayitrā cakriyā ṛṣṭākhyayā śaktyābhivartayata | abhito nivartayata |*
+> *he rudrā rudraputrāḥ | yadvā rorūyamāṇā dravaṃtaḥ aśaso bhakṣakasya ‖*
+> *aśa bhojana ityasmādauṇādiko 'sipratyayaḥ ‖ tādṛśasya rākṣasādevadharhanana-*
+> *sādhanamāyudhamavahaṃtana | avayutyāsmattaḥ pṛthakkṛtya nāśayata ‖ haṃterloṭi*
+> *taptanaptanathanāścati tanap ‖*
+
+The bhāṣya cites a Pāṇini sūtra (Pā. 5-4-41) for the affix तातिल् (*tātil*) in वृकताति (*vṛkatāti*), and an Uṇādi affix असि (*asi*) for अशसः (*aśasaḥ*). Gist: O Maruts, protect us from the mortal who, wolf-like, makes himself our enemy; turn him back with your burning weapon, and destroy the weapon of that devouring foe.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसवः (*vasavaḥ*)—O you who provide dwelling-places; मरुतः (*marutaḥ*)—O Maruts; यः मर्त्यः (*yaḥ martyaḥ*)—whatever mortal; वृकताति (*vṛkatāti*)—like a cruel wolf; नः (*naḥ*)—towards us; रिपुः (*ripuḥ*)—enmity; दधे (*dadhe*)—fosters; रिषः (*riṣaḥ*)—from that harmful enemy; रक्षत (*rakṣata*)—protect (us); तं (*taṃ*)—that enemy; तपुषा (*tapuṣā*)—with the burning; चक्रिया (*cakriyā*)—weapon called ṛṣṭi; अभि वर्तयत (*abhi vartayata*)—make him turn away from us; रुद्राः (*rudrāḥ*)—O Maruts, sons of Rudra; अशसः (*aśasaḥ*)—of such a devouring asura; वधः (*vadhaḥ*)—the weapon that kills; अव हंतन (*ava haṃtana*)—destroy.
+
 ---
 
-**Progress note:** Done through printed p. 241 (PDF 241). Sūkta 34 Ṛk 6 Bhāvārtha and printed English (p. 239); Ṛk 7 pp. 240-241 complete. Flags: quoted Ṛk (Ma. Saṃ. 1-80-16) made a block in kn.md; Ni. refs 3-9 twice as supplied; ST has ವೃಜಿನೇಷು/ಮಹಃ vs Saṃhitā ವೃಜನೇಷು/ಸಹಃ as supplied; no [?]
+**Progress note:** Done through printed p. 244 (PDF 244). Sūkta 34 Ṛk 7 Special Topics end (p. 242); Ṛk 8 complete (pp. 242-243); Ṛk 9 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 244); Bhāvārtha and printed English follow. Flags: Saṃhitā/Pada ರುಕ್ಮ/ರುಕ್ಷ್ಮ and ಪಿನ್ನತೇ/ಪಿನ್ವತೇ as supplied; garbled labels replaced; no [?]
