@@ -23120,6 +23120,96 @@ In these Ṛks, since the gods are made glad by the mantra svāhā, it is indica
 
 *[The window ends here, at the end of p. 747; the next window continues.]*
 
+### Printed p. 748
+
+*[Running head, p. 748: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5 (the sūkta number is now 5).]*
+
+## Sūkta 5 (Maṇḍala 3)
+
+*The fifth sūkta of the Third Maṇḍala.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रत्यग्निरुषस इत्येकादशर्चं पंचमं सूक्तं वैश्वामित्रं त्रैष्टुभमाग्नेयं ।
+> अत्रानुक्रमणिका । प्रत्यग्निरिति ॥ प्रातरनुवाकाश्विनशस्त्रयोरिदमादिसूक्तत्रयस्य
+> विनियोगः । सूत्रितं च । प्रत्यग्निरुषस इति त्रीणि । आ. ४-१३ । इति । इळामग्न
+> इत्यस्योक्तो विनियोगः ॥
+
+> *pratyagniruṣasa ityekādaśarcaṃ paṃcamaṃ sūktaṃ vaiśvāmitraṃ traiṣṭubhamāgneyaṃ |*
+> *atrānukramaṇikā | pratyagniriti ‖ prātaranuvākāśvinaśastrayoridamādisūktatrayasya*
+> *viniyogaḥ | sūtritaṃ ca | pratyagniruṣasa iti trīṇi | ā. 4-13 | iti | iḷāmagna*
+> *ityasyokto viniyogaḥ ‖*
+
+**Anuvāda (Kannada).** This sūkta, प्रत्यग्निरुषसः (*pratyagniruṣasaḥ*), is the fifth sūkta in the first anuvāka. It has eleven ṛks. The seer of this sūkta is Viśvāmitra; the deity is Agni; the metre is Triṣṭubh. In the Anukramaṇikā it begins with "pratyagniḥ". This sūkta and the next two sūktas are applied (viniyoga) for the recitation of the Prātaranuvāka and the Āśvina śastra mantras, as is stated by the Āśvalāyana Śrauta Sūtra प्रत्यग्निरुषस इति त्रीणि (*pratyagniruṣasa iti trīṇi*) (Ā. 4-13). The application of the ṛk इळामग्ने (*iḷāmagne*) has been stated before.
+
+Sūkta—5. Maṇḍala—3. Anuvāka—1. Sūkta—5. Aṣṭaka—2. Adhyāya—8. Varga—24, 25. Number of ṛks in the sūkta—11. Ṛṣi—Viśvāmitra. Devatā—(printed आग्निः (*āgniḥ*)) Agni. Chandas—Triṣṭubh. (As supplied: the sūkta lines were inside the bhāṣya block and were moved out of it.)
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्रत्य॒ग्नि रु॒षस॒श्चेकि॑ता॒नोऽबो॑धि॒ विप्रः॑ पद॒वीः क॑वी॒नां ।
+> पृ॒थु॒पाजा॑ देव॒यद्भिः॒ समि॒द्धोऽप॒ द्वारा॒ तम॑सो॒ वह्नि॑रावः ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> प्रति । अग्निः । उषसः । चेकितानः । अबोधि । विप्रः । पद्मवीः । कवीनां ।
+> पृथुपाजाः । देवयत्भिः । संइद्धः । अप । द्वारा । तमसः । वह्निः । आवरित्यावः॥
+
+> *prati | agniḥ | uṣasaḥ | cekitānaḥ | abodhi | vipraḥ | padmavīḥ | kavīnāṃ |*
+> *pṛthupājāḥ | devayatbhiḥ | saṃiddhaḥ | apa | dvārā | tamasaḥ | vahniḥ | āvarityāvaḥ‖*
+
+*(In the Pada the word पद्मवीः (*padmavīḥ*) is printed so, against पदवीः (*padavīḥ*) in the Saṃhitā, and the last word is printed आवरित्यावः (*āvarityāvaḥ*), as supplied.)*
+
+### Printed p. 749
+
+*[Running head, p. 749: Aṣṭaka 2, Adhyāya 8, Varga 24, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उषसश्चेकितानो जानन् विप्रो मेधावी कवीनां क्रांतदृशां पदवीमार्गान् गच्छन् योग्निः प्रत्यबोधि प्रतिबुध्यते पृथुपाजाः पृथुतेजा
+> देवयद्भिर्देवकामैः समिद्धः सम्यक् दीप्तः स वह्निस्तमसोऽज्ञानस्य द्वारागमन
+> द्वाराण्यपावः । अपावृणोति ॥
+
+*(Gist: Agni, knowing the dawns, follows the sages' paths; kindled by the devout, the shining Vahni opens the doors of darkness (ignorance).)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Uṣasaḥ: the influence of Uṣas. Cekitānaḥ: one who knows. Vipraḥ: the sagacious. Kavīnāṃ: of the far-seeing. Padavīḥ: one who follows the paths. Agniḥ: Agni. Prati abodhi: awakes. Pṛthupājāḥ: one with abundant radiance. Devayadbhiḥ (printed देवयद्धिः (*devayaddhiḥ*)): by those devoted to the gods. Samiddhaḥ: kindled. Vahniḥ: Vahni. Tamasaḥ: of black darkness. Dvārā: the doors. Apa āvaḥ: he opens.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, who knows the influence of Uṣas, is sagacious and follows the paths of the far-seeing, awakes. Vahni, who has abundant radiance and is kindled by those devoted to the gods, opens the doors of the black darkness and makes it disperse.
+
+**Printed English translation**
+
+The sagacious Agni, cognizant of the dawn, is awakened to (follow) the paths of the sages : the luminous Vahni, kindled by the devout, has thrown open the gates of darkness.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उषसः चेकितानः विप्रः कवीनां पदवीः अग्निः प्रति अबोधि (*uṣasaḥ cekitānaḥ vipraḥ kavīnāṃ padavīḥ agniḥ prati abodhi*): Agni is very sagacious, that is, very intelligent. He follows the path of the poets (kavis) who know past, future and present; that is, like the poets Agni too has knowledge of the times past, future and present. Such a glorious Agni awakes knowing that the time of Uṣas has appeared, that is, that night has passed and the time of Uṣas has arrived. That is, before sunrise in the morning the sacrificers who perform the sacrifice, having prepared all the materials for the sacrifice, come and sit at the sacrificial altar with the priests, Hotṛ and the rest, and are ready to perform the sacrifice. Since in the sacrifice Agni is the principal, the work of installing Agni must be performed first.
+
+### Printed p. 750
+
+*[Running head, p. 750: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+Therefore, at the time of Uṣas itself, as soon as the sacrificers and the priests pray to him, Agni awakens and is ready to come to the sacrificial ground; this is the chief purport of this sentence.
+
+The word विप्रः (*vipraḥ*) is read among the names of the sagacious (Ni. 3-19). The word kavi is also read among the names of the sagacious, and Yāska has explained it: मेधावी कविः क्रांतदर्शनो भवति कवतेर्वा (*medhāvī kaviḥ krāṃtadarśano bhavati kavatervā*) (Ni. 12-13). For the words medhāvin and kavi, "far-seeing", or, as in the explanation of the word kavi ⟦ಕವತಿ
+ಗಚ್ಛತ್ಯಸೌ ನಿತ್ಯಂ ಕಿಂಚ ಕವಿತ್ವಾದೇವ ಜನಯತಿ⟧, the commentators have explained the sense of the word kavi as one who always knows everything, and who by his poetic power gives people joy or good fortune.
+
+पदवीः— पदं मार्गं वीति गच्छतीति पदवीः । (*padavīḥ— padaṃ mārgaṃ vīti gacchatīti padavīḥ |*) One who follows the path of the poets; that is, like them he too is wise; this is the purport.
+
+पृथुपाजाः देवयद्भिः समिद्धः वह्निः तमसः द्वारा अप आवः (*pṛthupājāḥ devayadbhiḥ samiddhaḥ vahniḥ tamasaḥ dvārā apa āvaḥ*): this Agni, established at the sacrificial altar by the priests and sacrificers who wish to invoke and worship the gods in the sacrifice, shining with great radiance, destroys the darkness or ignorance. For the sentence तमसः द्वारा अप अवः (*tamasaḥ dvārā apa avaḥ*) here, "he uncovers the doors of darkness", that is, he opens the closed doors. Opening the doors of darkness means that at night all places are covered with darkness so that nothing is seen by the eye. In the time of Uṣas, before sunrise, while the darkness has not yet entirely gone, Agni installed in the sacrificial pit drives away by his boundless radiance all the darkness that had covered the sacrificial hall and makes light everywhere; this is the purport. Or if the word tamas is taken to mean ignorance, since Agni is wise he removes the ignorance of the priests and sacrificers and grants them the knowledge and ability necessary in carrying out the sacrificial work; this is the purport.
+
+पृथुपाजाः— पृथुतेजाः । (*pṛthupājāḥ— pṛthutejāḥ |*) One who shines with abundant radiance. The word pṛthu means "much" and pājas means "radiance". Since the word pājas is read among the names of strength (Ni. 3-9), the purport is that he shines with great strength, that is, with extreme radiance.
+
+Samiddhaḥ: formed from the root इंधी दीप्तौ (*iṃdhī dīptau*) with the prefix sam; the purport is Agni shining well, kindled and blazing with abundant brightness, or burning.
+
+*[The window ends here, at the end of p. 750; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 747 (PDF 747). Sūkta 4 Ṛk 11 Special Topics (svāhā, svāhākṛti; Ni. 8-21, 8-22; Bṛ. De. 3-29 to 30; Ṛ. Saṃ. 10-110-11, 1-188-11, 10-70-11)
+**Progress note:** Done through printed p. 750 (PDF 750). Sūkta 5 (Maṇḍala 3) begins: Sāyaṇa intro, Ṛk 1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) and Special Topics so far
