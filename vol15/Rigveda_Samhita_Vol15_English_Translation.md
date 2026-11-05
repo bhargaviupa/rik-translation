@@ -6063,6 +6063,141 @@ Sāyaṇa's explanation of the word *rudra* is different from this. He is *rudra
 
 नः सूर्यस्य संदृशः मा युयोथाः (*naḥ sūryasya saṃdṛśaḥ mā yuyothāḥ*)—अस्मान् सूर्यस्य संदर्शनात् मा पृथक्कार्षिः (*asmān sūryasya saṃdarśanāt mā pṛthakkārṣiḥ*). The wish is that the god Rudra may protect us, the sacrificers, so that the light of the sun is not lost to us; and, in नः वीरः अर्वति अभिक्षमेत (*naḥ vīraḥ arvati abhikṣameta*), that Rudra may grant our sons and others the strength to overcome the enemy; or, यद्वा वीरस्त्वं नो अस्मानभिक्षमेथाः अस्मान् कृतापराधानभि क्षमस्व (*yadvā vīrastvaṃ no asmānabhikṣamethāḥ asmān kṛtāparādhānabhi kṣamasva*), that the heroic Rudra may forgive us our offences; and, प्रजाभिः प्रजायेमहि (*prajābhiḥ prajāyemahi*), that we sacrificers may prosper through sons, grandsons and the rest.
 
+### Printed p. 198
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 33, p. 198.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> त्वाद॑त्तेभी रुद्र॒ शंत॑मेभिः श॒तं हिमा॑ अतीय भेष॒जेभिः॑ ।
+> व्य१॒॑गस्मद्वेषो॑ वित॒रं व्यंहो॒ व्यमी॑वाश्चातयस्वा॒ विषू॑चीः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वादत्तेभिः । रुद्र । शंतमेभिः । शतं । हिमाः । अशीय । भेषजेभिः ।
+> वि । अस्मत् । द्वेषः । वितरं । वि । अंहः । वि । अमीवाः । चातयस्व । विषूचीः ॥ २॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे रुद्र त्वादत्तेभिस्त्वया दत्तैः शंतमेभिरतिशयेन सुखकरैर्भेषजेभिर्भे
+> षजैरौषधैः शतं हिमाः शतं हेमंतान् शतं संवत्सरानशीय । व्याप्नुयां ॥
+> अश्नोतेर्लिजि छांदसो विकरणस्य लुक् ॥ अपि च अस्मदस्मत्तो द्वेषो द्वेष्टन्
+> विचातयस्व । विनाशय । तथांहः पापं वितरमत्यंतं विचातयस्व । अमीना रोगा-
+> न्विषूचीर्विषु नानांचंतीः कृत्स्नशरीरव्यापकान् रोगान्विचातयस्व । अस्मत्तः
+> पृथक्कृत्य विनाशय ॥
+
+*Gist:* O Rudra, may I live a hundred years through the soothing medicines given by you; drive away our haters, sin, and the diseases that spread through the whole body. The tail treats *aśīya* (loss of the vikaraṇa) and *vi-cātayasva*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रुद्र (*rudra*)—O Rudra. त्वादत्तेभिः (*tvādattebhiḥ*)—by those given by you, शंतमेभिः (*śaṃtamebhiḥ*)—and conducive to happiness, भेषजेभिः (*bheṣajebhiḥ*)—from the herbs. शतं हिमाः (*śataṃ himāḥ*)—a hundred years अशीय (*aśīya*)—may I attain in full. अस्मत् (*asmat*)—from us, द्वेषः (*dveṣaḥ*)—our enemies, वि चातयस्व (*vi cātayasva*)—destroy completely. अंहः (*aṃhaḥ*)—sin, वितरं वि (*vitaraṃ vi*)—(destroy) utterly. विषूचीः (*viṣūcīḥ*)—spreading through the body in many ways, अमीवाः वि (*amīvāḥ vi*)—the diseases (destroy).
+
+**भावार्थ (Bhāvārtha)**
+
+O Rudra, nourished by the use of the herbs given by you and conducive to happiness, may I live fully a hundred years. Destroy completely our enemies, sin, and the diseases that spread in many ways through the body.
+
+### Printed p. 199
+
+*Running head: Ṛgvedasaṃhitā [as printed मग्वेदसंहिता (*magvedasaṃhitā*)], Aṣṭaka 2, Adhyāya 7, Varga 16, p. 199.*
+
+**Printed English translation**
+
+Nourished by the sanatory vegetables which are bestowed by you, may I live a hundred winters: extirpate my enemies, my exceeding sin, and my manifold infirmities.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Rudra, the sacrificer expresses the wish that, by the medicines given by Rudra, शंतमेभिः भेषजेभिः (*śaṃtamebhiḥ bheṣajebhiḥ*), that is, abundantly happiness-giving, he may live शतं हिर्मा अशीय (*śataṃ hirmā aśīya*) [as supplied; *hima*], many years, happily; and, in अस्मत् द्वेषः विचातयस्व (*asmat dveṣaḥ vicātayasva*), that Rudra may destroy those who hate us, the sacrificers. And in अंहः वितर (*aṃhaḥ vitara*)—पापं अत्यंतं वि चातयस्व (*pāpaṃ atyaṃtaṃ vi cātayasva*)—he prays that Rudra may destroy our sins. विषूचीः (*viṣūcīḥ*)—विषु नाना अंचतीः कृत्स्नशरीरव्यापर्का (*viṣu nānā aṃcatīḥ kṛtsnaśarīravyāparkā*) [as supplied; *-vyāpakān*]: explaining the word विसूची (*visūcī*) [as supplied] as diseases that pervade the whole body in many ways, the sacrificers pray to the god Rudra that such diseases may be destroyed so that they do not befall the sacrificers.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> श्रेष्ठो॑ जा॒तस्य॑ रुद्र श्रि॒यासि॑ त॒वस्त॑मस्त॒वसां॑ वज्रबाहो ।
+> षर्षि॑ णः पा॒रमंह॑सः स्व॒स्ति विश्वा॑ अ॒भी॑ती॒ रप॑सो युयोधि ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> श्रेष्ठः । जातस्य । रुद्र । श्रिया । असि । तवःतमः । तवसां । वज्रबाहो इति
+> वज्रबाहो ।
+> पर्षि । नः । पारं । अ०हसः । स्वस्ति । विश्वाः । अभिइतीः । रपसः । युयोधि ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे रुद्र जातस्योत्पन्नस्य सर्वस्य जगतो मध्ये श्रियैश्वर्येण श्रेष्ठः
+> प्रशस्यतमोऽसि । भवसि । तथा हे वज्रबाहो आयुधहस्त रुद्र तवसां प्रवृद्धानां
+
+> *he rudra jātasyotpannasya sarvasya jagato madhye śriyaiśvaryeṇa śreṣṭhaḥ*
+> *praśasyatamo 'si | bhavasi | tathā he vajrabāho āyudhahasta rudra tavasāṃ pravṛddhānāṃ*
+
+### Printed p. 200
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 33, p. 200.*
+
+> मध्ये तवस्तमोऽतिशयेन प्रवृद्दोऽसि । स त्वं नोऽस्मानंहसः पापस्य पारं तीरं
+> स्वस्ति क्षेमेण पर्षि । पारय । तथा रपसः पापस्य विश्वाः सर्वा अभीतीरभिगमनानि
+> युयोधि । पृथक्कुरु ॥ यौतेश्छांदसः शपः श्लुः । वा छंदसीत्यपित्त्वस्य विकल्पनात्
+> जित्वाभावेऽजितश्चेति हेर्धिः ॥
+
+*Gist:* O Rudra, you are the best of all born beings in glory and the mightiest of the mighty; carry us across the far shore of sin safely and keep off all approaches of sin. The tail treats *yuyodhi*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रुद्र (*rudra*)—O Rudra. जातस्य (*jātasya*)—of the whole created world, श्रिया (*śriyā*)—in splendour, श्रेष्ठः (*śreṣṭhaḥ*)—you are supreme. वज्रबाहो (*vajrabāho*)—O Rudra, holding the thunderbolt. तवसा (*tavasā*) [as supplied; Saṃhitā *tavasām*]—among the mighty तवस्तमः (*tavastamaḥ*)—you are the most powerful. नः (*naḥ*)—us, अंहसः (*aṃhasaḥ*)—of sin पारं (*pāraṃ*)—to the end (bring), स्वस्ति (*svasti*)—safely पर्षि (*parṣi*)—carry (us) across it. रपसः (*rapasaḥ*)—of sin, विश्वाः (*viśvāḥ*)—all अभीतीः (*abhītīḥ*)—blows, युयोधि (*yuyodhi*)—ward off.
+
+**भावार्थ (Bhāvārtha)**
+
+O Rudra, among all created beings you are supreme by your glory. O Rudra, holding the thunderbolt as weapon, among the mighty you are the mightiest. Bring us to the end of sin and carry us safely across it. Ward off the blows of every kind of sin.
+
+**Printed English translation**
+
+You, Rudra, are the chiefest of beings in glory : you, wielder of the thunderbolt, are the mightiest of the mighty : do you waft us in the safety over (the ocean) of sin : repel all the assaults of iniquity.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Rudra, the commentary describes him, in जातस्य श्रिया श्रेष्ठः (*jātasya śriyā śreṣṭhaḥ*)—उत्पन्नस्य सर्वस्य जगतः मध्ये ऐश्वर्येण प्रशस्यतमः (*utpannasya sarvasya jagataḥ madhye aiśvaryeṇa praśasyatamaḥ*)—as the most praiseworthy of all, in the created world, by his power in the form of lordship over it.
+
+वज्रबाहो तवसां तवस्तमः (*vajrabāho tavasāṃ tavastamaḥ*)—आयुधहस्त रुद्र प्रवृद्धानां मध्यॆ अतिशयेन प्रवृद्योसि (*āyudhahasta rudra pravṛddhānāṃ madhyè atiśayena pravṛdyosi*) [as supplied; *-vṛddho 'si*]. Explaining the word वज्र (*vajra*) as "weapon", it describes Rudra as bearing the weapon in his hand and as endowed with greatness exceeding that of all the great. The prayer is that this god may release the sacrificers from the sins each has committed and grant welfare; by the sentence अंधसः पारं स्वस्ति पर्षि (*aṃdhasaḥ pāraṃ svasti parṣi*) [as supplied; the ṛk has *aṃhasaḥ*] that he may remove sins committed earlier and bring about welfare; and, in रपसः विश्वाः अभीतीः युयोधि (*rapasaḥ viśvāḥ abhītīḥ yuyodhi*)—पापस्य (*pāpasya*) (continued on the next page)
+
+### Printed p. 201
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 16, p. 201.*
+
+(Continued:) सर्वाः अभिगमनानि पृथक्कुरु (*sarvāḥ abhigamanāni pṛthakkuru*)—that Rudra may keep us separate from contact with all the kinds of sin that may befall the sacrificers in future, that is, may destroy sins; thus the sacrificers' prayer is described.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> मा त्वा॑ रुद्र चुक्रुधामा॒ नमो॑भि॒र्मा दुष्टु॑ती वृषभ॒ मा॑
+> सहू॑ती ।
+> उन्नो॑ वी॒रा अ॑र्पय भेष॒जेभि॑र्भि॒षक्त॑मं त्वा भि॒षजां॑ शृणोमि ॥
+
+**॥ पदपाठः ॥**
+
+> मा । त्वा । रुद्र । चुक्रुधाम । नमभिः । मा । दुःस्तुती । वृषभ । मा । सहूती ।
+> उत् । नः । वीरान् । अर्पय । भेषजेभिः । भिषक्तमं । त्वा । भिषजां ।
+> शृणोमि ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे रुद्र त्वा त्वां नमोभिरयथाक्रियमाणैर्नमस्कारैर्हविर्भिर्वा मा
+> चुक्रुधाम । मा क्रोधयाम । क्रुद्धं मा कार्ष्म ॥ क्रुद्ध कोपे । अस्माण्ण्यंता-
+> ल्लुजि चजि रूपं ॥ हे वृषभ कामानां वर्षितर्दुष्टुती दुःस्तुत्याशोभनया
+> स्तुत्या मा चुक्रुधामेत्येव । तथा सहूती सहूत्या विसदृशैरन्यर्दॆवैः सहाह्वानेन
+> मा क्रोधयाम । श्रेष्ठो हि स्वस्मान्न्यूनेन सहाह्वाने क्रुद्धो भवति । स त्वं
+> नोऽस्माकं वीरान् पुत्रान्वेषजेभिस्त्वदीयैर्भेषजैरौषधैरुदर्पय । उत्कृष्टं
+> संयोजय । हे रुद्र त्वा त्वां भिषजां चिकित्साभिज्ञानां मध्यॆ भिषक्तममतिशयेन
+> भैषज्यस्य कर्तारं शृणोमि । प्रथमो दैव्यो भिषक् । वा. सं. १६-५. । इति च
+> मंत्रांतरेpप्युक्तं ॥
+
+*Gist:* O Rudra, may we not anger you by faulty homage, bad praise, or by invoking other gods along with you; make our sons thrive with your medicines; I hear you are the best of physicians.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रुद्र (*rudra*)—O Rudra. त्वा (*tvā*)—you, नमोभिः (*namobhiḥ*)—with (defective) acts of worship, मा चुक्रुधाम (*mā cukrudhāma*)—we shall not make angry. वृषभ (*vṛṣabha*)—O Rudra, who showers desired objects. दुष्टुती (*duṣṭutī*)—with inauspicious praises, मा (*mā*)—we shall not make (you) angry.
+
 ---
 
-**Progress note:** Done through printed p. 197 (PDF 197). Sūkta 33 Ṛk 1 complete through Special Topics (rudra etymology; continues p. 198 possibly); kn.md: Pratipadārtha/Bhāvārtha unquoted with labels, stray '१ भानुवार' line removed; as supplied: Saṃhitā 'सुम्ममेतु/मा नः', Pada 'मानः । नः', 'पः जायेमहि', 'सूरस्य', 'सुम्नं/सुम्मं', p.196 head 'Maṃ. 3'
+**Progress note:** Done through printed p. 201 (PDF 201). Sūkta 33 Ṛks 2-3 complete, Ṛk 4 through Saṃhitā/Pada/bhāṣya and start of Pratipadārtha (window ends mid-Pratipadārtha on p. 201); kn.md: p.199 marker inserted, duplicate label removed, Pratipadārtha/Bhāvārtha unquoted, stray lines removed; as supplied: Ṛk 2 'अतीय' vs Pada 'अशीय', Ṛk 3 'षर्षि णः' vs 'पर्षि नः', 'ಅಂಧಸಃ' for aṃhasaḥ, 'ಹುದ್ರನು', Ṛk 4 Saṃhitā lacks ṛk number
