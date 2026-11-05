@@ -33890,6 +33890,46 @@ Long ago, in the Kuru family, a king named Ṛṣṭiṣeṇa had two sons, Dev�
 
 *(The page ends here; the passage continues on p. 908.)*
 
+### Printed p. 908
+
+*(Header: "908 Sāyaṇa-bhāṣya-sahitā [Maṃ. 2 A. 3 Sū. 23]".)*
+
+(and there) no rain fell and a great famine came about. Then King Śantanu, thinking what he should do about this, asked the advice of the Brahmins. The Brahmins said to the king: "According to the Dharmaśāstra the king's eldest son is the one entitled to the kingdom. Therefore your elder brother Devāpi should have ruled. But you, giving him no opportunity for that, drove him out and seized the kingdom. Because you are thus practising unrighteousness, the god of rain does not pour rain in your kingdom." King Śantanu repented of the wrong he had done, summoned his elder brother Devāpi, who was performing austerities in the forest, and handed the kingdom over to him. But Devāpi said that he did not want the kingdom, that he would stay in the forest performing austerities and resort to the path of renunciation, and that Śantanu should perform a sacrifice to remove the drought that had arisen in the kingdom, in which he himself would take up the priesthood and help to bring about rain. When the king agreed, Devāpi took the part of the ṛtvij called the hotṛ in his sacrifice. Bṛhaspati became the ṛtvij called Brahmā. In that sacrifice, performed for the sake of rain, the hotṛ Devāpi addressed the Brahmā Bṛhaspati and prayed: "O Bṛhaspati, you have great influence over the minds of the gods. Therefore make known to me the mantras that win them over." Bṛhaspati said "so be it" and taught the hotṛ Devāpi the mantras containing the prayers to the deities needed for bringing rain. When offerings were made to the deities with those mantras, rain fell abundantly, it is said. Therefore this sūkta is also called the Vṛṣṭikāma-sūkta ("hymn desiring rain"). This matter, with some differences, is also told in the Purāṇa works such as the Viṣṇu Purāṇa 4-20-7, the Mahābhārata Ādiparva, and the Bhāgavata Purāṇa 9-22-14 to 17.
+
+In the 10th Maṇḍala of the Ṛg-veda Saṃhitā, in sūkta 18, there is another story. Asuras called Paṇis had stolen the cows of the gods (the water-bearing clouds) and hidden them in an impregnable fortress. Indra sent Saramā, the divine bitch, to search for it. Saramā came to the Paṇis, engaged them in a dispute and asked them to give back the stolen cows. The Paṇis said: "What is the strength of Indra? We are great heroes and our weapons are very sharp. Therefore the gods cannot conquer us, nor can the gods even find out the place where the cows are kept. So if Saramā leaves the side of the gods and joins their own band, they will give her the wealth and so on that she wants." Though they urged her in many ways, Saramā did not consent, returned from there and told the gods all about it. Then Bṛhaspati by his own power discovered the place where the cows had been hidden. Afterwards the gods subdued them and brought the cows back. Such is the story.
+
+### Printed p. 909
+
+*(Header: "[A. 2. A. 6. V. 29] Ṛgveda-saṃhitā 909".)*
+
+In many such deeds of daring the part of Bṛhaspati is very prominent. Above all, when human beings need rain, the help of Bṛhaspati is indispensable. This kind of prayer is seen especially in the sūktas addressed to Bṛhaspati.
+
+Let us examine closely what the qualities and achievements of Bṛhaspati are, as described in the Ṛgveda. Bṛhaspati was born of Heaven and Earth, and it is by their greatness that he is nourished (Ṛ. Saṃ. 7-97-8). But in one place (2-23-17) it is said that Tvaṣṭṛ produced him. He has the name "father of the gods" (2-26-3); and it is also said (10-72-8) that the gods arose from him as sparks of fire fly from the blows of a smith's hammer.
+
+He has the name Brahmā (the ṛtvij called Brahmā) (10-141-3). He is connected with the ṛtvijs (7-10-4, 10-14-3). He is also called Aṅgirasa (4-40-1, 4-23-1, 10-47-6). He is the composer and utterer of praise-words, their lord and impeller (2-23-1, 2, 1-40-5, 10-98-7); he accomplishes all his aims by the mantra alone (2-24-3); mounting the sacrifice, his brilliant chariot, he sets out to conquer the enemies of the gods and of the praisers (2-23-3). He is the nourisher and protector of the faithful, and their guide; he brings them out of dangers (2-23-4); he bestows on them wealth and the like (2-23-9). He is called the father of all the gods; he is endowed with all divine qualities (3-62-4, 4-50-6); he is of all forms, and all the things that everyone desires are in him (7-10-4, 7-97-4); he bears a golden spear (7-97-7); together with Indra he too is leader of the armies (10-103-8). He increases life (10-100-5); plants arose from him (10-97-15 and 19); it is said that tawny horses are his vehicle (Ni. 2-28).
+
+It is said (1-105-17) that Bṛhaspati, hearing the cry of distress of Trita, who had been thrown into a well by demons and was calling on the gods for help, released him from that perilous state; and that (2-23-18; 1-56-5) Bṛhaspati together with Indra made the water, which had been wrapped in darkness, flow again.
+
+Bṛhaspati by his own power broke the stone door of the well full of honey. The gods drank that honey and rained abundantly (2-24-3, 4); when Bṛhaspati pierced the fortresses of Vala with fire-spitting rays, the herds of cows became visible; he drove the cows out as one breaks an egg; seeing the honey (the water) covered by stone, with his lion's roar
+
+### Printed p. 910
+
+*(Header: "910 Sāyaṇa-bhāṣya-sahitā [Maṃ. 2 A. 3 Sū. 23]".)*
+
+he split it and brought it out (10-68-4 to 9). Bṛhaspati brought the cows out from the rocks; he seized Vala's cows and brought them under his own control (10-68-5). Bṛhaspati is endowed with divinity (2-23-2); he is akin to (one's own among) all the gods (3-62-4; 4-50-6); and among the gods he has the most divinity: in the form of a deity he gathers into himself all the gods and all things (2-24-11; 8-61-8). He, the able one, keeps the two ends of the earth far apart (4-50-1); the rising of the sun and moon one after the other is his inimitable deed (10-68-10). In the Taittirīya Saṃhitā (in the Yajurveda) a relation between Bṛhaspati and certain constellations is stated: Bṛhaspati is the deity of the constellation Puṣya (Tai. Saṃ. 4-4-10-1); in the Purāṇas and other works Bṛhaspati is described as Vācaspati and as the presiding deity of the planet Bṛhaspati (Jupiter).
+
+Some scholars have expressed the opinion that the deities Bṛhaspati and Brahmaṇaspati are transformed forms of Agni. A scholar called M. Langlois, in volume I pp. 249, 254, 578 of his work called the translation of the Ṛgveda, has supported with many examples that these two deities are transformed forms of Agni. A scholar called Wilson, too, has expressed the same opinion in the introduction to the first volume of his translation of the Ṛgveda. The scholar Max Muller also (says)—
+
+Brihaspati and Brahmanaspati are both varieties of Agni, the priest and the purohit of the Gods and men aud [sic] as such he is invoked together with the Maruts &c.
+
+that is, Bṛhaspati and Brahmaṇaspati are both transformed forms of Agni; they stand in the position of ṛtvij and purohita for the gods and men; it is from this point of view that they are invoked together with the Marut deities in many places, he says. We give one or two examples stating this identity of Agni with Bṛhaspati and Brahmaṇaspati.
+
+त्वमग्न इंद्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्य । (*tvamagna iṃdro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasya |*) त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या ॥ (*tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā ‖*) (Ṛ. Saṃ. 2-1-3)
+
+O Agni, you are Indra, the best among the good; you are Viṣṇu, the worshipful one of huge body; and you, O Brahmaṇaspati, are the wealthy ṛtvij named Brahmā; thus Agni is described as the form of many deities.
+
+तं शुभ्रमग्निमवसे हवामहे वैश्वानरं मातरिश्वानमुक्थं । (*taṃ śubhramagnimavase havāmahe vaiśvānaraṃ mātariśvānamukthaṃ |*) बृहस्पतिं मनुषो देवतातॆये विप्रं श्रोतारमतिथिं रघुष्यदं ॥ (*bṛhaspatiṃ manuṣo devatātèye vipraṃ śrotāramatithiṃ raghuṣyadaṃ ‖*) (Ma. Saṃ. 3-26-2)
+
 ---
 
-**Progress note:** Done through printed p. 907 (PDF 907). Sukta 23 general Special Topics continued: Brahmanaspati vs Brihaspati, Nirukta and Durga passages, Devapi-Santanu history begun
+**Progress note:** Done through printed p. 910 (PDF 910). Sukta 23 Special Topics: Devapi-Santanu story concluded, Brihaspati's attributes, Agni identity opinions; text of Vol 14 continues
