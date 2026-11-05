@@ -32250,6 +32250,116 @@ may Gṛtsamada and his relatives (we), who have composed a new hymn for you and
 
 *Gist: This is the last Ṛk of the hymn to be recited at the end of the Acchāvāka's śastra; Indra, give the sacrificial fee that grants the wish, and do not burn our desires; with good sons we shall speak a great praise at the sacrifice.*
 
+### Printed p. 854
+
+*(Header: "854 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 20]".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; ते (*te*)—given by you; मघोनी (*maghonī*)—possessed of abundant wealth; सा दक्षिणा (*sā dakṣiṇā*)—that sacrificial gift; जरित्रॆ (*jaritrè*)—to the praising sacrificer; नूनं (*nūnaṃ*)—certainly; वरं (*varaṃ*)—in an excellent manner; प्रति दुहीयत् (*prati duhīyat*)—fulfils the wish (such a gift); स्तोतृभ्यः (*stotṛbhyaḥ*)—to us too, the praisers; शिक्ष (*śikṣa*)—give; भगः (*bhagaḥ*)—you who are worthy of worship; नः (*naḥ*)—us; माति धक् (*māti dhak*)—do not disregard; सुवीराः (*suvīrāḥ*)—we, accompanied by excellent heroic sons; विदथे (*vidathe*)—in this sacrifice; बृहत् (*bṛhat*)—abundant praise; वदेम (*vadema*)—recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, that sacrificial gift, given by you and possessed of abundant wealth, certainly fulfils in an excellent manner the wish of the praising sacrificer. Give such a gift also to us, the praisers. You who are worthy of worship, do not disregard us. Accompanied by excellent sons, we recite abundant praise in this sacrifice.
+
+**English Translation (as printed)**
+
+That opulent donation which proceeds, Indra, from you, assuredly bestows upon him who praises you the boon(that he desires): grant it to(us) your adorers: do not you, who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you in this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk was already read earlier at Ṛ. Saṃ. 2-11-21, so its special topics have been written there at length; they may be seen on pages 638 to 640 of this same part.
+
+*(Printed title: "ಇಪ್ಪತ್ತನೆಯ ಸೂಕ್ತವು" — "The twentieth sūkta".)*
+
 ---
 
-**Progress note:** Done through printed p. 853 (PDF 853). Sukta 19 Rk 7 Special Topics finished; Rk 8 complete; Rk 9 Samhita (mixed-script supplied text converted letter for letter to Kannada), Pada and bhashya; text ends at the end of the bhashya
+## Sūkta 20
+
+**Sāyaṇa's introduction (Sanskrit):**
+
+> वयं ते वय इति नवर्चं नवमं सूक्तं गार्त्समदं त्रैष्टुभमैंद्रं ।
+> वयं त इत्यनुक्रांतं । सूक्तविनियोगो लिंगादवधार्यतां ॥
+
+**Anuvāda**
+
+The Kannada: "This sūkta, वयं ते वय (*vayaṃ te vaya*), is the ninth sūkta in the second anuvāka. It has nine Ṛks. Gṛtsamada is the ṛṣi; Indra is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said to begin with वयं न (*vayaṃ na*) (as printed; the Sanskrit verse above has वयं त (*vayaṃ ta*)). The application (viniyoga) of this sūkta is according to the sense of the respective Ṛks."
+
+### Printed p. 855
+
+*(Header: "[A. 2. Adhyāya 6. Varga 25.] Ṛgvedasaṃhitā 855".)*
+
+**Sūkta heading block:**
+
+> ॥ ओं ॥
+> सूक्त-२०
+> ॥ मंडल—२ ॥ अनुवाक—२ ॥ सूक्त—२० ॥
+> ॥ अष्टक— २ ॥ अध्याय— ६ ॥ वर्ग—२५, २६ ॥
+> । सूक्तदल्लिरुव ऋक्संख्यॆ-९ ।
+> ऋषिः—गृत्समदॆः ।
+> देवता—इंद्रः ।
+> छंदः—त्रि ष्टुप् ।
+
+> *‖ oṃ ‖*
+> *sūkta-20*
+> *‖ maṃḍala—2 ‖ anuvāka—2 ‖ sūkta—20 ‖*
+> *‖ aṣṭaka— 2 ‖ adhyāya— 6 ‖ varga—25, 26 ‖*
+> *| sūktadalliruva ṛksaṃkhyè-9 |*
+> *ṛṣiḥ—gṛtsamadèḥ |*
+> *devatā—iṃdraḥ |*
+> *chaṃdaḥ—tri ṣṭup |*
+
+*(In the heading block the supplied text reads गृत्समदॆः (*gṛtsamadèḥ*) and त्रि ष्टुप् (*tri ṣṭup*), as supplied; the Varga numbers are printed 25, 26.)*
+
+#### Ṛk 1
+
+*(The supplied text prints the Saṃhitā and Pada in damaged mixed Kannada-Devanagari letters, and again inside an HTML title attribute; the lines are taken from there and converted letter for letter, not corrected. They show visible slips against the bhāṣya, for example वयूं त्ते (*vayūṃ tte*) for वयं ते (*vayaṃ te*), शु (*śu*) for सु (*su*), दीध्यतौ (*dīdhyatau*) in the Saṃhitā against दीध्यतः (*dīdhyataḥ*) in the Pada, and न्यन् (*nyan*) for the bhāṣya's नृन् (*nṛn*); the labels are printed garbled as "ಸಂಹ ತಾಪಾಡಿ" and "ಸಾಯಣಭಾವ್ಯಂ" and are given in standard form.)*
+
+**॥ संहितापाठः ॥**
+
+> व॒यूं त्ते॒ वय॑ इन्द्र वि॒द्धि शु णः॒ प्र भ॑रामहे वाज॒युर्न रथं॑ ।
+> वि॒प॒न्त्यवो॒ दीध्य॑तौ मनी॒षा सु॒म्न मिय॑क्षन्त॒ स्त्वा व॑तो॒ न्यन् ॥
+
+**॥ पदपाठः ॥**
+
+> वयूं । त्ते । वयः । इन्द्र । विद्धि । सु । नः । प्र । भरामहे । वाजयुः । न । रथं ।
+> विपन्त्यवः । दीध्यतः । मनीषा । सुम्न । इयक्षन्त । त्वावतः । न्यन् ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र ते तुभ्यं वयं वयः सोमलक्षणमन्नं प्रभरामहे । प्रकर्षण
+> संपादयामः । तत्र दृष्टांतः । वाजयुर्न । यथान्नमात्मन इच्छन् पुमान् रथं
+> शकटं संपादयति तद्वत् । एवं हविःसंपादकान् नोऽस्मान् सु सुष्टु विद्दि ।
+> जानीहि ॥ विदेर्ज्ञानार्थस्य लोटि रूपं । वाक्यादित्वादनिघातः ॥ किं कुर्वतो
+> वयं । विपन्यवः । तव स्तोत्रं कुर्वाणाः । मनीषा मनस इषया स्तुत्या दीध्यतो
+> दीप्यमानाः॥ दीधीज् दीप्ति देवनयोः । व्यत्ययेन शतृ ॥ त्वावतः ॥ युष्मदस्मद्भां
+> छंदसि सादृश्य उपसंख्यानमिति वतुप् ॥ त्वत्सदृशान् नृन् नेत्यन् अग्न्यादीन्
+> सुम्मं सुखमियक्षंतः । याचमानाः । यद्वा सुम्मं सुखेन नृन् नेत्यन् अग्न्या-
+> दीन्देवानियक्षंतः ॥ इयक्षतिर्गतिकर्मा ॥ हविषा तान् प्राप्नुवंतो वयं भरामह
+> इति समन्वयः ॥
+
+*Gist: Indra, we offer you Soma-food as a man wanting food gets a cart; we praise you and ask happiness of gods like you; know us well.*
+
+### Printed p. 856
+
+*(Header: "856 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 20]".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; विपन्यवः (*vipanyavaḥ*)—those who make your praise; मनीषा (*manīṣā*) by praise दीध्यतः (*dīdhyataḥ*)—who make you shine; त्वावतः (*tvāvataḥ*)—those like you; नृन् (*nṛn*)—leaders, such as Agni and the others (from them); सुम्मं (*summaṃ*)—happiness; इयक्षंतः (*iyakṣaṃtaḥ*)—who ask; वयं (*vayaṃ*)—we; ते (*te*)—for you; वयः (*vayaḥ*)—food in the form of Soma; वाजयुः (*vājayuḥ*)—one who desires food; रथं न (*rathaṃ na*)—as he gets a cart; प्र भरामहे (*pra bharāmahe*)—procure abundantly; नः (*naḥ*)—us, such as we are (our devotion); सु (*su*)—clearly (with a gracious mind) विद्धि (*viddhi*)—know (look upon).
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, we who make your praise, who make you shine by praise, and who ask happiness of Agni and the other gods, your equals, procure for you Soma-food as one who desires food gets a cart. Know our devotion clearly; look upon it with a gracious mind.
+
+**English Translation (as printed)**
+
+We bring to you, Indra,(sacrificial) food, as one desiring food brings his waggon: regard us benevolently, when glorifying you, rendering(you) illustrious by(our) praise, and soliciting such guides as you are to felicity-
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+इंद्र ते वयं वयः प्र भरामहे वाजयुः रथं न । नः सु विद्दि (*iṃdra te vayaṃ vayaḥ pra bharāmahe vājayuḥ rathaṃ na | naḥ su viddi*)—हे इंद्र (*he iṃdra*) वयं तुभ्यं सोमलक्षणमन्नं अन्नमात्मन इच्छन् पुमान् रथं संपादयति तद्वत् (*vayaṃ tubhyaṃ somalakṣaṇamannaṃ annamātmana icchan pumān rathaṃ saṃpādayati tadvat*) प्रभरामहे प्रकर्षण संपादयामः । एवं हविःसंपादकान् सुष्टु जानाहि । (*prabharāmahe prakarṣaṇa saṃpādayāmaḥ | evaṃ haviḥsaṃpādakān suṣṭu jānāhi |*) O Indra, we offer you with devotion food in the form of Soma juice. As a man who needs food prepares a cart to take it away, so we offer you Soma juice. In our case may you be of a gracious mind: this is the main intention. In this passage the comparison made between our offering Soma juice to Indra and preparing a cart for the sake of food is not quite fitting. It is not clear why a cart is needed for the sake of food. It cannot be known properly whether the cart is needed to carry the food away, or whether a cart is needed for the sake of food or wealth, to defeat enemies in battle. वाजयुर्न रथं (*vājayurna rathaṃ*) (the text breaks off here at the end of the supplied pages).
+
+---
+
+**Progress note:** Done through printed p. 856 (PDF 856). Sukta 19 Rk 9 completed (Pratipadartha, Bhavartha, printed English, Special Topics reference); Sukta 20 begun: introduction, Anuvada, heading block, Rk 1 Samhita/Pada/bhashya (damaged supplied letters converted as supplied), Pratipadartha, Bhavartha, printed English, Special Topics begun
