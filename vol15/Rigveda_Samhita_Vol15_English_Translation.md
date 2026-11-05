@@ -3510,6 +3510,96 @@ Cast off from me sin, Varuna, as if it were a rope: may we obtain from you a cha
 
 (The Pada as supplied reads संराट् । यत्नवः (*saṃrāṭ | yatnavaḥ*) and मुमुग्नि (*mumugni*) against Saṃhitā मत्सम्राळ्कृतावोऽनु (*matsamrāḷkṛtāvo 'nu*) and वि मुमुग्धंहो (*vi mumugdhaṃho*), and अपो इति । सु (*apo iti | su*) against the Saṃhitā अपो सु (*apo su*); the Pada's closing Ṛk number is missing in the supplied text, which ends the page with a stray "8", removed. Not altered.) The remainder of Ṛk 6 follows on the next page.
 
+### Printed p. 114
+
+*Running head: Maṃ. 2, A. 3, Sū. 28, Sāyaṇabhāṣya-sahitā, p. 114.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण भियसं भयं मत् मत्तः सु सुष्टु अपो म्यक्ष । अपगमयॆ ।
+> हे सम्राट् समग्राजमान हे ऋतावः सत्यवन् यज्ञवन्वा वरुण मा मामनुगृ-
+> भाय । अनुगृहाण ॥ छंदसि शायजपीति त्वः शायजादेशः । हृगृहोर्भ इति भत्वं ॥
+> अपि च दामेव वत्सात् यथा दोग्धा वत्ससकाशाद्बंधनीं रज्जुं विमुंचति तथांहः
+> पापं मत्सकाशाद्विमुमुग्नि । विमुंच ॥ छांदसः शपः श्लुः ॥ पृथक्कुरु । त्वदारे
+> त्वत्तो दूरदेशे वर्तमानः । त्वदन्य इत्यर्थः । त्वत्तोऽन्यः कश्चित् निमिषश्चन
+> निमेषस्यापि अक्षिपक्षचलनस्यापि नहीशे । नेष्टे । त्वमेवेश्वर इत्यर्थः ॥ लोपस्त
+> आत्मनेपदेष्टिति तलोपः ॥
+
+*Gist:* "O Varuṇa, drive fear away from me and favour me; as a milker looses the tether from a calf, loosen sin from me; no one apart from you is master even for the twinkling of an eye." The grammatical tail explains the Vedic forms (the substitution *śāyaj* and the change to *bh* in *gṛbhāya*; the *śap*-elision in *mumugni*; the loss of *ta* in *īśe*).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Varuṇa—O Varuṇa; Bhiyasaṃ—fear; Mat—from me; Su—completely; Apo mṛkṣa [sic, as supplied; the Saṃhitā and Pada read म्यक्ष (*myakṣa*)]—remove; Samrāṭ—you who shine completely; Ṛtāvaḥ—you who are truthful, O Varuṇa; Mā—me; Anu gṛbhāya—favour; Vatsāt—from a calf (eager to drink milk), from its neck; Dāmeva—as one looses a rope; Aṃhaḥ—sin; Vi mumugni—release (from me); Tvadāre—whatever person is far from you; Nimiṣaścana—even for the time of a twinkling; Nahi īśe—it is not possible to be independent.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, remove fear from me. O Varuṇa, who shine completely and are truthful, favour me. As the rope is loosed from the neck of a calf eager to drink milk, release sin from me. No person who is far from you can be independent even for the time of a twinkling.
+
+**Printed English translation**
+
+Keep off all danger from me, Varuna : supreme monarch, endowed with truth, bestow your favour upon me: cast off (frem [sic] me) sin, like a tether from a calf: no one rules for the twinkling of an eye, apart fram [sic] you.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Varuṇa, भियसं मत् सु आपो म्यक्ष (*bhiyasaṃ mat su āpo myakṣa*): the sacrificers pray for Varuṇa's favour, which is the state in which fear is wholly removed, so that fear arises from nobody and in no way.
+
+### Printed p. 115
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 10, Ṛgveda-saṃhitā, p. 115.*
+
+दामेव वत्सात् अंहः वि मुमुग्नि (*dāmeva vatsāt aṃhaḥ vi mumugni*)—as a milker looses the tether-rope from a calf, so loosen sin from me. The word *aṃhas* is explained by Yāska: "*aṃhati*, *aṃhas* and *aṃhu* are derived from the root *han*, with an irregular (nirūḍha) infix" (Ni. 4-25); that is, the words *aṃhati*, *aṃhas*, *aṃhu* are formed from the root *han*, and the meaning "sin" is understood from them. The prayer is expressed for Varuṇa's favour that the sacrificer be freed from sins, as one milking the cow looses the calf from the rope. This is stated here by way of a simile. In त्वदारे (*tvadāre*), the word *āre* is read among the names for "far" (Ni. 3-20). Sāyaṇa interprets त्वत्तो दूरदेशे वर्तमानस्त्वदन्यः (*tvatto dūradeśe vartamānastvadanyaḥ*) as: one who is in a place far from Varuṇa (that is, one who does not regard Varuṇa as protector; "other than Varuṇa" means one who is not a recipient of Varuṇa's favour). Such a person, whoever he may be, cannot be independent even for निमिषश्चन (*nimiṣaścana*), the subtle time in which the eyelid moves; and Varuṇa's power is declared, that he alone favours all so that they may be independent.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> मा नो॑ व॒धैर्व॑रुण॒ ये त॑ इ॒ष्टावेनः॑ कृ॒ण्वंत॑मसुर भ्री॒णंति॑ ।
+> मा ज्योति॑षः प्रवस॒थानि॑ गन्म॒ वि षू मृधः॑ शिश्रथो जी॒वसे॑ नः ॥
+
+**॥ पदपाठः ॥**
+
+> मा । नः । वधैः । वरुण । ये । ते । इष्टौ । एनः । कृण्वंतं । असुर । भ्रीणंति ।
+> मा । ज्योतिषः । प्रवसथानि । गन्म । वि । सु । मृधः । शिश्रथः । जीवसे । नः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण नोऽस्मान् वधैर्हननसाधनैरायुधैर्मा हिंसीरिति शेषः । हे
+> असुर पापकृतां निरसितः ते त्वदीय इष्टौ यज्ञ एनो विहिताननुष्ठानेन जनितं
+> पापं कृण्वंतं कुर्वंतं पुरुषं ये वधा भ्रीणंति हिंसंति शैरिति पूर्वत्र
+> संबंधः ॥ भ्रीष् हिंसायां क्रैयादिकः ॥ अपि च ज्योतिषो गृहे वर्तमानादग्नेः
+
+> *he varuṇa no 'smān vadhairhananasādhanairāyudhairmā hiṃsīriti śeṣaḥ | he*
+> *asura pāpakṛtāṃ nirasitaḥ te tvadīya iṣṭau yajña eno vihitānanuṣṭhānena janitaṃ*
+> *pāpaṃ kṛṇvaṃtaṃ kurvaṃtaṃ puruṣaṃ ye vadhā bhrīṇaṃti hiṃsaṃti śairiti pūrvatra*
+> *saṃbaṃdhaḥ ‖ bhrīṣ hiṃsāyāṃ kraiyādikaḥ ‖ api ca jyotiṣo gṛhe vartamānādagneḥ*
+
+### Printed p. 116
+
+*Running head: Maṃ. 2, A. 3, Sū. 28, Sāyaṇabhāṣya-sahitā, p. 116.*
+
+> सौरप्रकाशाद्वा प्रवसथानि प्रवासान्मा गन्म । मा गच्छाम । सर्वदा गृहे वर्तमानः
+> सूर्यं पश्यंश्चिरकालं जीवेयमित्यर्थः ॥ गमेर्लुजि मंत्रे घसेति चेर्लुक् ॥
+> तथा नोऽस्माकं जीवसे जीवनाय मृधो हिंसकान् सुष्टु विशिश्रिथः । विश्लेषय ।
+> बाधस्वेत्यर्थः ॥
+
+*Gist:* "O Varuṇa, do not harm us with the weapons that slay the sinner at your sacrifice; may we not go away from the sacrificial fire; scatter the harmful, that we may live long, seeing the sun in our own home." The tail gives *luk* forms of *gam* (*gan-ma*) in the Veda.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Asura—you who drive out the sinful; Varuṇa—O Varuṇa; Te—directed to you; Iṣṭau—in the sacrifice; Enaḥ—sin (born of omission of the rite); Kṛṇvantaṃ—the man who commits; Ye—whichever weapons, instruments of slaying; Bhrīṇanti—injure (such); Vadhaiḥ—with weapons; Naḥ—us; Mā—do not injure; Jyotiṣaḥ—from the sacrificial fire; Pravasathāni—dwelling in another place; Mā ganma—may we not reach; Naḥ—our; Jīvase—for a (happy) life; Mṛdhaḥ—the harmful enemies; Vi śiśrathaḥ—destroy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, who drive out the sinful, do not injure us with those weapons, instruments of slaying, which injure the man who, in the sacrifice directed to you, commits sin born of omission of the rite. May we not dwell in a place without the sacrificial fire. Destroy the harmful enemies so that we may obtain a happy life.
+
+**Printed English translation**
+
+Harm us not, Varuna, with those destructive (weapons), which, repeller (of foes), demolish him who does evil at your sacrifice : let us not depart (before our time) from the regions of light : scatter the malevolent, that we may live.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+असुर—पापकृतां निरसितः (*asura—pāpakṛtāṃ nirasitaḥ*). The word *asura* is stated among the names of cloud (Si. 2-22, as printed). It is explained: "*asurāḥ*: from the places (*sthāna*), or because they are *asu*-givers [as supplied]; 'from *asu* he created the *asuras*, hence the *asura*-ness of the asuras'" (Ni. 3-8). Sāyaṇa explains that Varuṇa is addressed by this word because he destroys sinners. And वधैः एनः कृण्वंतं ये भ्रीणंति नः मा (*vadhaiḥ enaḥ kṛṇvaṃtaṃ ye bhrīṇaṃti naḥ mā*)—"with weapons (instruments of slaying) which injure the man who commits sin born of omission of the prescribed observance, do not injure us" (as printed, with the misprint आयुध्यैः (*āyudhyaiḥ*) and आस्मान् (*āsmān*)): protection is prayed for, that Varuṇa not harm us, the sacrificers, with the weapons that destroy those who do harm and those who neglect duty in the sacrifices performed for Varuṇa.
+
 ---
 
-**Progress note:** Done through printed p. 113 (PDF 113). Sūkta 28 Ṛk 4 Special Topics finished (sindhavaḥ); Ṛk 5 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 6 Saṃhitā and Pada (bhāṣya follows). Hand fixes to kn.md: label ‘शासनभाष्यं’ heading line replaced by standard bhāṣya label, decorative-symbol line and stray '8' removed. Flags: Saṃhitā/Pada differences in Ṛk 5 (ṛdhyāma/yadhyāma etc.) and Ṛk 6 Pada (saṃrāṭ yatnavaḥ, mumugni), as supplied; Ni. 11 22 printed without hyphen; no Ṛk number after Ṛk 5/6 Pada
+**Progress note:** Done through printed p. 116 (PDF 116). Sūkta 28 Ṛk 6 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 7 complete. Hand fix to kn.md: removed software-generated image line. Flags: Pratipadārtha 'apo mṛkṣa' vs Saṃhitā/Pada 'myakṣa'; 'Si. 2-22' printed for Ni.; 'ಆಯುಧ್ಯೈಃ', 'ಆಸ್ಮಾನ್' and 'ಪಾಪಃ', 'ಜೋಧ್ಯ' as supplied; Ṛk 6 Pada has no Ṛk number
