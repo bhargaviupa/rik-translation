@@ -17575,6 +17575,96 @@ The statement of the Saṃhitā text that Vaiśvānara extends himself and joins
 
 If Vaiśvānara were the Sun himself, then the nature and activity of atmospheric deities such as Savitṛ, Pūṣan, Viṣṇu and the Viśvedevas would have to be supplied and described in him, and descriptions such as "he rises, he sets, he revolves" would have to be present. But since only descriptions relating to Agni are here, it becomes firmly known that he is a synonym of the terrestrial Agni. On the basis of these and other grounds,
 
+### Printed p. 554
+
+*[Running head, p. 554: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+they conclude: यस्तु सूक्तं भजते यस्मै हविर्निरूप्यतेऽयमेव सोऽग्निर्वैश्वानरः । (*yastu sūktaṃ bhajate yasmai havirnirūpyate 'yameva so 'gnirvaiśvānaraḥ |*) It can be said with certainty that the reciter of the sūkta and the offering of the oblation are both directed to this very Agni in his form as Vaiśvānara (Ni. 7-22 to 7-31). Even in his manifestation on earth he is the same, राजा हि कं भुवनानामभिश्रीः । (*rājā hi kaṃ bhuvanānāmabhiśrīḥ |*): the lord and the refuge of all beings. Therefore it is stated clearly in many places that gods, men and all others can attain welfare only through his worship. To know his terrestrial form through the performance of rites and to worship him is one way; the worship done with the knowledge, of the nature of spiritual insight, of his greatness as pervading the universe and dwelling within all the moving and unmoving things of the whole world is another. The Brāhmaṇas such as the Śatapatha and the Upaniṣads such as the Chāndogya explain the glory of the universal-souled Vaiśvānara Agni, showing the relation between the performance of rites and the worship of knowledge. The Śatapatha Brāhmaṇa narrates the story of the sages who went in search of an excellent teacher in order to learn his true nature (Śat. Brā. 10-6-1-1 to 11).
+
+अपि ना विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः । (*api nā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ |*) (Ni. 8-21)
+
+In keeping with this explanation of the Nirukta authors, that he pervades everywhere and is inherent in all beings, this story shows the nature of Vaiśvānara, the inner controller of all.—
+
+⟦ಅಥ ಹೈತೇಽರುಣೇ ಔಪವೇಶೌ ಸಮಾಜಗ್ಮುಃ ಸತ್ಯಯಜ್ಞಃ ಪೌಲುಷಿರ್ಮಹಾಶಾಲೋ ಜಾಬಾಲೋ ಬುಡಿಲ ಅಶ್ವತರಾಶ್ವಿರಿಂದ್ರದ್ಯುಮ್ಮೋ ಭಾಲ್ಲವೇಯೋ ಜನಃ ಶಾರ್ಕರಾಕ್ಷ್ಯಸ್ತೇ ಹ
+ಸಮಾಸತ ತೇಷಾಂ ಹ ವೈಶ್ವಾನರೇ ನ ಸಮಿಯಾಯ ॥ ೧ ॥⟧
+
+Satyayajña Paulūṣi, Mahāśāla Jābāla, Buḍila Aśvatarāśvi, Indradyumna Bhāllaveya and Jana Śārkarākṣya assembled together in the house of Aruṇa Aupaveśi. Although they all met and discussed in order to know the nature of Vaiśvānara Agni, they reached no settled understanding, and differences of opinion and doubt arose among them.
+
+⟦ತೇ ಹೋಚುಃ । ಅಶ್ವಪತಿರ್ವಾಯಂ ಕೈಕೇಯಃ ಸಂಪ್ರತಿ ವೈಶ್ವಾನರಂ ವೇದ ತಂ ಗಚ್ಛಾಮೇತಿ
+ತೇ ಹಾಶ್ವಪತಿಂ ಕೈಕೇಯಮಾಜಗ್ಮುಸ್ತೇಭ್ಯೋ ಹ ಪೃಥಗಾವಸಥಾನ್ಪೃಥಗಪಚಿತೀಃ ಪೃಥಕ್
+ಸಾಹಸ್ರಾನ್ಸೋಮಾನ್ಸೋವಾಚ ತೇ ಹ ಪ್ರಾತರಸಂವಿದಾನಾ ಏವ ಸಮಿತ್ಪಾಣಯಃ ಪ್ರತಿಚಕ್ರಮಿರ ಉಪತ್ವಾಯಾಮೇತಿ ॥ ೨ ॥⟧
+
+Then they all went to Aśvapati Kaikeya, who knew the nature of Vaiśvānara Agni completely. He honoured these guests who had come to him by giving each separate lodgings,
+
+### Printed p. 555
+
+*[Running head, p. 555: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+separate personal marks of respect and thousands of draughts of soma. Next morning they all, keeping their differences of opinion as they were, took fuel sticks in their hands and made the request: "We wish to become your pupils."
+
+⟦ಸ ಹೋವಾಚ । ಯನ್ನು ಭಗವಂತೋಽನೂಚಾನಾ ಅನೂಚಾನಪುತ್ರಾಃ ಕಿಮಿದಮಿತಿ ತೇ
+ಹೋಚುರ್ವೈಶ್ವಾನರಂ ಹ ಭಗವಾನ್ತಂಪ್ರತಿ ವೇದ ತಂ ನೋ ಬ್ರೂಹೀತಿ ಸ ಹೋವಾಚ
+ಸಂಪ್ರತಿ ಖಲು ನ್ಯಾ ಅಹಂ ವೈಶ್ವಾನರಂ ವೇದಾಭ್ಯಾಧತ್ತ ಸಮಿಧ ಉಪೇತಾ ಸ್ಥೇತಿ ॥ ೩ ॥⟧
+
+Then he, astonished, asked them: "You are all sons of men who have mastered all the śāstras, and you have studied yourselves; why have you come to me as pupils?" When they requested: "You know well the nature of Vaiśvānara Agni; teach us also its secret," he said: "I know that secret and will tell it to you also. Offer fuel sticks to the fire and say, 'From today we are your pupils.'"
+
+⟦ಸ ಹೋವಾಚಾರುಣಮೌಪವೇಶಿಂ । ಗೌತಮ ಕಂ ತ್ವಂ ವೈಶ್ವಾನರಂ ವೇತ್ಥೇತಿ ಪೃಥಿವೀಮೇವ
+ರಾಜನ್ನಿತಿ ಹೋವಾಚೋಮಿತಿ ಹೋವಾಚೈಷ ವೈ ಪ್ರತಿಷ್ಠಾ ಏತಂ ರಯಿಂ ವೈಶ್ವಾನರ ಏತಂ
+ಹಿ ವೈ ತ್ವಂ ಪ್ರತಿಷ್ಠಾ ವೈಶ್ವಾನರಂ ವೇತ್ಥ ತಸ್ಮಾತ್ತ್ವಂ ಪ್ರತಿಷ್ಠಿತಃ ಪ್ರಜ್ಞಯಾ ಪಶುಭಿರಸಿ
+ಯೋ ನಾ ಏತಂ ಪ್ರತಿಷ್ಠಾಂ ವೈಶ್ವಾನರಂ ವೇದಾಪ ಪುನರ್ಮೃತ್ಯುಂ ಜಯತಿ ಸರ್ವಮಾಯುರೇತಿ ಪಾದೌ ತ್ವಾ ಏತೌ ವೈಶ್ವಾನರಸ್ಯ ಪಾದೌ ತೇಽಮ್ಲಾಸ್ಯತಾಂ ಯದಿ ಹ ನಾಗಮಿಷ್ಯ
+ಇತಿ ಪಾದೌ ತೇಽವಿದಿತಾವಭವಿಷ್ಯತಾಂ ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತಿ ವಾ ॥ ೪ ॥⟧
+
+Then, addressing Aruṇa Aupaveśi: "Gautama, whom do you know as Vaiśvānara?" When asked, he said, "The earth is Vaiśvānara." The king then said: "Yes, that is the all-supporting Vaiśvānara. Because you know this secret, you stand firmly established with cattle, sons and the rest. One who knows this conquers death and obtains a full life. But truly these are only the feet of Vaiśvānara. If you had not come here (to learn the full nature of Vaiśvānara), your feet would have become slack and wasted away, or would never have come within your knowledge."
+
+⟦ಅಥ ಹೋವಾಚ ಸತ್ಯಯಜ್ಞಂ ಪೌಲುಷಿಂ । ಪ್ರಾಚೀನಯೋಗ್ಯ, ಕಂ ತ್ವಂ ವೈಶ್ವಾನರಂ
+ವೇತ್ಥೇತ್ಯಪ ಏವ ರಾಜನ್ನಿತಿ ಹೋವಾಚೋಮಿತಿ ಹೋವಾಚೈಷ ವೈ ರಯಿರ್ವೈಶ್ವಾನರ ಏತಂ
+ಹಿ ವೈ ತ್ವಂ ರಯಿಂ ವೈಶ್ವಾನರಂ ವೇತ್ಥ ತಸ್ಮಾತ್ತ್ವಂ ರಯಿಮಾನ್ಪುಷ್ಟಿಮಾನಸಿ ಯೋ ವಾ
+ಏತಂ ರಯಿಂ ವೈಶ್ವಾನರಂ ವೇದಾಪಪುನರ್ಮೃತ್ಯುಂ ಜಯತಿ ಸರ್ವಮಾಯುರೇತಿ ವಸ್ತಿಸ್ತಾ
+ಏಷ ವೈಶ್ವಾನರಸ್ಯ ವಸ್ತಿ ಸ್ವಾಹ್ಯದ್ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತಿ ವಸ್ತಿ ಸ್ತೇವಿದಿತೋಽಭವಿಷ್ಯದ್ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತಿ ವಾ ॥ ೫ ॥⟧
+
+### Printed p. 556
+
+*[Running head, p. 556: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1 (as printed; the sūkta is 2).]*
+
+Then, addressing Satyayajña Paulūṣi: "O Prācīnayogya, whom do you know as Vaiśvānara?" When asked, he said, "Water only." Approving this too, the king said: "That is the wealth of Vaiśvānara. Because you know the nature of that wealth, you are rich and flourishing. One who knows it conquers death and certainly obtains a full life. But this is only the inner treasury (the bladder) of Vaiśvānara. If you had not come here, your treasury also would have become useless, or would never have come within your knowledge."
+
+⟦ಅಥ ಹೋವಾಚ ಮಹಾಶಾಲಂ ಜಾಬಾಲಂ । ಔಪಮನ್ಯವ ಕಂ ತ್ವಂ ವೈಶ್ವಾನರಂ ವೇತ್ಥೇತ್ಯಾಕಾಶಮೇವ ರಾಜನ್ನಿತಿ ಹೋವಾಚೋಮಿತಿ ಹೋವಾಚೈಷ ವೈ ಬಹುಲೋ ವೈಶ್ವಾನರ ಏತಂ
+ಹಿ ವೈ ತ್ವಂ ಬಹುಲಂ ವೈಶ್ವಾನರಂ ವೇತ್ಥ ತಸ್ಮಾತ್ತ್ವಂ ಬಹು ಪ್ರಜಯಾ ಪಶುಭಿರಸಿ ಯೋ
+ನಾ ಏತಂ ಬಹುಲಂ ವೈಶ್ವಾನರಂ ವೇದಾಪ ಪುನರ್ಮೃತ್ಯುಂ ಜಯತಿ ಸರ್ವಮಾಯುರೇತ್ಯಾತ್ಮಾ ತ್ವಾ ಏಷ ವೈಶ್ವಾನರಸ್ಯಾತ್ಮಾ ತ್ವಾಹಾಸ್ಯದ್ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತ್ಯಾತ್ಮಾ ತೇವಿದಿತೋSಭವಿಷ್ಯದ್ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತಿ ವಾ ॥ ೬ ॥⟧
+
+Then, addressing Mahāśāla Jābāla: "O Aupamanyava, whom do you know as Vaiśvānara?" He answered, "Space." Accepting that also, the king said that it is Vaiśvānara the abundant (the full), and that "because you know this, you have abundance of cattle, sons and the rest. One who knows this conquers death and obtains a full life. But this is only the main trunk of Vaiśvānara. If you had not come here, the principal part of your body would have become useless, or would never have been known to you."
+
+⟦ಅಥ ಹೋವಾಚ ಬುಡಿಲಮಾಶ್ವತರಾಶ್ವಿಂ । ವೈಯಾಘ್ರಪದ್ಯ, ಕಂ ತ್ವಂ ವೈಶ್ವಾನರಂ ವೇತ್ಥೇತಿ
+ವಾಯುಮೇವ ರಾಜನ್ನಿತಿ ಹೋವಾಚೋಮಿತಿ ಹೋವಾಚೈಷ ವೈ ಪೃಥಗ್ವರ್ತ್ಮಾನ್ ವೈಶ್ವಾನರ
+ಏತಂ ಹಿ ವೈ ತ್ವಂ ಪೃಥಗ್ವರ್ತ್ಮಾನಂ ವೈಶ್ವಾನರಂ ವೇತ್ಥ ತಸ್ಮಾತ್ವಾಂ ಪೃಥಗ್ರಥಶ್ರೇಣಯೋಽನುಯಾಂತಿ ಯೋ ವಾ ಏತಂ ಪೃಥಗ್ವರ್ತ್ಮಾನಂ ವೈಶ್ವಾನರಂ ವೇದಾಪ ಪುನರ್ಮೃತ್ಯುಂ
+ಜಯತಿ ಸರ್ವಮಾಯುರೇತಿ ಪ್ರಾಣಸ್ತ್ವಾ ಏಷ ವೈಶ್ವಾನರಸ್ಯ ಪ್ರಾಣಸ್ತ್ವಾಹಾಸ್ಯದ್ಯದಿ ಹ
+ನಾಗಮಿಷ್ಯ ಇತಿ ಪ್ರಾಣಸ್ತೇಽವಿದಿತೋಽಭವಿಷ್ಯದ್ಯದಿಹ ನಾಗಮಿಷ್ಯ ಇತಿ ವಾ ॥ ೭ ॥⟧
+
+Again, addressing Buḍila Āśvatarāśvi: "O Vaiyāghrapadya, whom do you know as Vaiśvānara?" He said, "Air." The royal sage accepted that also, saying: "Air is the diversity of paths of Vaiśvānara. Because you know this, chariots moving on many paths follow you. One who knows this certainly conquers death and obtains a full life. But this is only the breath of Vaiśvānara. If you had not come to me, your breath also would have become useless to you,
+
+### Printed p. 557
+
+*[Running head, p. 557: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+or you would not have known of it."
+
+⟦ಅಥ ಹೋವಾಚೇಂದ್ರದ್ಯುಮ್ನಂ ಭಾಲ್ಲವೇಯಂ । ವೈಯಾಘ್ರಪದ್ಯ ಕಂ ತ್ವಂ ವೈಶ್ವಾನರಂ
+ವೇತ್ಥೇತ್ಯಾದಿತ್ಯಮೇವ ರಾಜನ್ನಿತಿ ಹೋವಾಚೋಮಿತಿ ಹೋವಾಚೈಷ ವೈ ಸುತತೇಜಾ
+ವೈಶ್ವಾನರ ಏತಂ ಹಿ ವೈ ತ್ವಾಂ ಸುತತೇಜಸಂ ವೈಶ್ವಾನರಂ ವೇತ್ಥ ತಸ್ಮಾತ್ತವೈಷ ಸುತೋSದ್ಯಮಾನಃ ಪಚ್ಯಮಾನೋSಕ್ಷೀಯಮಾಣೋ ಗೃಹೇಷು ತಿಷ್ಠತಿ ಯೋ ವಾ ಏತಂ ಸುತತೇಜಸಂ ವೈಶ್ವಾನರಂ ವೇದಾಪ ಪುನರ್ಮೃತ್ಯುಂ ಜಯತಿ ಸರ್ವಮಾಯುರೇತಿ ಚಕ್ಷುಸ್ತಾ
+ಏತದ್ವೈಶ್ವಾನರಸ್ಯ ಚಕ್ಷುಸ್ತ್ವಾಹಾಸ್ಯದ್ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತಿ ಚಕ್ಷುಸ್ತೇSವಿದಿತಮಭವಿಷ್ಯದ್ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತಿ ವಾ ॥ ೮ ॥⟧
+
+Then, when Indradyumna Bhāllaveya was asked whom he knew as Vaiśvānara, he said that the Āditya (the Sun) is Vaiśvānara. Approving this also, the king said: "Truly, it is the radiance of soma that is Vaiśvānara. Because you know this, soma-juice and its cooking are never wanting in your house. One who knows this conquers death and obtains a full life. But this is only the eye of Vaiśvānara. If you had not come to me, your eye also would have become useless, or you would not have known of it."
+
+⟦ಅಥ ಹೋವಾಚ ಜನಂ ಶಾರ್ಕರಾಕ್ಷ್ಯಂ । ಸಾಯವಸ ಕಂ ತ್ವಂ ವೈಶ್ವಾನರಂ ವೇತ್ಥೇತಿ ದಿವಮೇವ ರಾಜನ್ನಿತಿ ಹೋವಾಚ ಓಮಿತಿ ಹೋವಾಚೈಷ ವಾಅತಿಷ್ಠಾ ವೈಶ್ವಾನರ ಏತಂ ಹಿ
+ವೈ ತ್ವಮತಿಷ್ಠಾ ವೈಶ್ವಾನರಂ ವೇತ್ಥ ತಸ್ಮಾತ್ತಂ ಸಮಾನಾನತಿತಿಷ್ಠಸಿ ಯೋ ನಾ ಏತಮತಿಷ್ಠಾಂ ವೈಶ್ವಾನರಂ ವೇದಾಪ ಪುನರ್ಮೃತ್ಯುಂ ಜಯತಿ ಸರ್ವಮಾಯುರೇತಿ ಮೂರ್ಧಾ
+ತ್ವಾ ಏಷ ವೈಶ್ವಾನರಸ್ಯ ಮೂರ್ಧಾ ತ್ವಾಹಾಸ್ಯದ್ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತಿ ಮೂರ್ಧಾ ತೇಽವಿದಿತೋಽಭವಿಷ್ಯದ್ಯದಿ ಹ ನಾಗಮಿಷ್ಯ ಇತಿ ವಾ ॥ ೯ ॥⟧
+
+Then, when Jana Śārkarākṣya was asked, "O Sāyavasa, whom do you know as Vaiśvānara?", he said, "The sky (heaven)," [the Kannada commentary renders his answer as "antarikṣa" (atmosphere)]. Approving, the king said that the sky is the most excellent part of Vaiśvānara: "Because you know this, you are pre-eminent among all your equals. One who knows this conquers death and obtains a full life. But this is only the head of Vaiśvānara. If you had not come to me, your head also would have become useless, or you would not have known of it."
+
+⟦ತಾನ್ ಹೋವಾಚ ಏತೇ ವೈ ಯೂಯಂ ಪೃಥಗ್ವೈಶ್ವಾನರಾನ್ವಿದ್ವಾಂಸಃ ಪೃಥಗನ್ನಮಘಸ್ತ
+ಪ್ರಾದೇಶಮಾತ್ರಮಿವ ಹ ವೈ ದೇವಾಃ ಸುವಿದಿತಾ ಅಭಿಸಂಪನ್ನಾ ಸ್ತಥಾ ತು ವ ಏನಾನ್ವಕ್ಷ್ಯಾಮಿ
+ಯಥಾ ಪ್ರಾದೇಶಮಾತ್ರಮೇವಾಭಿಸಂಪಾದಯಿಷ್ಯಾಮೀತಿ ॥ ೧೦ ॥⟧
+
 ---
 
-**Progress note:** Done through printed p. 553 (PDF 553). Sūkta 2 Pīṭhike on Vaiśvānara Agni continues (Nirukta discussion); no hand-fixes
+**Progress note:** Done through printed p. 557 (PDF 557). Sūkta 2 Pīṭhike: Nirukta conclusion, Chāndogya/Śatapatha Vaiśvānara-vidyā story (Aśvapati Kaikeya)
