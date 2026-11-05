@@ -3908,6 +3908,89 @@ Number of ṛks in the Sūkta: 7 ·
 > *dhṛtavratāḥ | ādityāḥ | iṣirāḥ | āre | mat | karta | rahasūḥ iva | āgaḥ |*
 > *śṛṇvataḥ | vaḥ | varuṇa | mitra | devāḥ | bhadrasya | vidvān | āvase | huve | vaḥ ‖ 1 ‖*
 
+### Printed p. 126
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 29, p. 126.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे धृतव्रता धृतकर्माण आदित्या आदितेः पुत्रा इषीरा गमनशीलाः सर्वैरभ्ये-
+> षणीयाः प्रार्थनीया वा हे विश्वे देवा मदारे मत्तो दूरदेश आगो विहिता-
+> ननुष्ठानादिजनितं पापं कर्त । कुरुत ॥ करोतेश्चांदसो विकरणस्य लुक् । तप्तन-
+> स्तनथनाश्लेति तबादेशः ॥ तत्र दृष्टांतः । रहसूरिव । रहस्यनैरज्ञाते प्रदेशे
+> सूयत इति रहसूर्यभिचारिणी । सा यथा गर्भं पातयित्वा दूरदेशे परित्यजति
+> तद्वत् । हे वरुण मित्र देवाश्च वो युष्मदीयस्य भद्रस्य युष्माभिः करणीयं
+> श्रेयो विद्वान् जानन्नहं शृण्वतो मत्कृतानि स्तोत्राणि श्रोत्रेण जानतो वो
+> युष्मान् अवसे रक्षणार्थं हुवे । आह्वयामि ॥
+
+*Gist:* O Ādityas, sons of Aditi, upholders of rites, seekers of favour: cast my sin of faulty performance far away, as a secretly delivering woman casts away her child; knowing the good you bestow, I call you for protection.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*dhṛtavratāḥ*—those who hold to their rites; *iṣirāḥ*—desired by all; *ādityāḥ*—O Ādityas; *rahasūḥ iva*—like a woman who has given birth in secret and throws the child far away so that no one sees it; *āgaḥ*—my sin, consisting of lapse in performance; *mat*—from me; *āre*—in a place very far away; *karta*—cast away and make it unseen; *varuṇa*—O Varuṇa; *mitra*—O Mitra; *devāḥ*—O Viśvedevas; *vaḥ*—to be obtained from you; *bhadrasya*—of the auspicious nature; *vidvān*—I who know; *śṛṇvataḥ*—you who hear my praise; *vaḥ*—you; *avase*—for protection; *huve*—I call.
+
+**भावार्थ (Bhāvārtha)**
+
+O Ādityas, who hold to your rites and are prayed to by all: as a woman who has given birth in secret throws the child far away where no one sees it, so throw my sin of lapse in performance far from me, out of sight. O Varuṇa, Mitra and Viśvedevas, I who know the auspicious good that comes from you call you, who hear my praise, for protection.
+
+**English translation (as printed)**
+
+Adityas, upholders of pious works, and who are to be sought by all, remove sin far from me, like, a woman delivered in secret: knowing, Mitra, Varuna, and (universal) gods, the good that follows from your hearing our prayers, I invoke you for (our) protection.
+
+### Printed p. 127
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 11, p. 127.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+इषिराः—गमनशीलाः सर्वैरभ्येषणीयाः प्रार्थनीया वा (*iṣirāḥ—gamanaśīlāḥ sarvairabhyeṣaṇīyāḥ prārthanīyā vā*): Sāyaṇa explains the word as "of a moving nature; to be sought, or prayed to, by all", applying it as an epithet of the Ādityas: those of a roving nature, desired by all, worthy of being prayed to by all that their wishes be fulfilled. Yāska explains the word (Nirukta 4-7) as इषिरेण—ईषणेन ना एषणेन ना ऋषणेन ना (*iṣireṇa—īṣaṇena nā eṣaṇena nā ṛṣaṇena nā*). The Viśvedevas, sons of Aditi, are always of a moving nature; they are desired by all for the fulfilment of their tasks and wishes, and prayed to by all. Therefore may these Ādityas keep far away, that is, forgive or destroy, the offence in the form of a deficiency arising from variation in the performance of sacrifices and other rites by the sacrificer. Thus the Viśvedevas are addressed and taken to be sons of the goddess Aditi. The plural आदित्याः (*ādityāḥ*) is used in this ṛk; Sāyaṇa explains it as हे आदित्याः अदितिपुत्राः हे विश्वे देवाः (*he ādityāḥ aditiputrāḥ he viśve devāḥ*). Yāska explains विश्वे देवाः—सर्वॆ देवाः (*viśve devāḥ—sarvè devāḥ*) (Nirukta 12-40).
+
+रहसूः इव—रहसि अन्यैरज्ञाते प्रदेशे सूयत इति रहसूः व्यभिचारिणी । सा यथा गर्भं पातयित्वा दूरदेशे परित्यजति तद्वत् (*rahasūḥ iva—rahasi anyairajñāte pradeśe sūyata iti rahasūḥ vyabhicāriṇī | sā yathā garbhaṃ pātayitvā dūradeśe parityajati tadvat*): since she gives birth in a place unknown to others and without human traffic, the unchaste woman is here designated by the word रहसूः (*rahasūḥ*).
+
+As this woman throws far away the child she has borne, so may the offences of the sacrificer, the deficiencies consisting of non-performance of rites, be removed by the favour of these Ādityas or Viśvedevas; thus the prayer.
+
+Addressing the sons of Aditi as Mitra, Varuṇa and Devāḥ, the poet says भद्रस्य विद्वान्—युष्माभिः करणीयं श्रेयः जानन् (*bhadrasya vidvān—yuṣmābhiḥ karaṇīyaṃ śreyaḥ jānan*): that he knows the greatness of the good which these gods bestow on the sacrificer; and शृण्वतः (*śṛṇvataḥ*): because these gods hear the hymns recited by the sacrificer, he will call them for his protection.
+
+भद्रस्य (*bhadrasya*): in explaining this word Yāska says भद्रं भगेन व्याख्यातं (*bhadraṃ bhagena vyākhyātaṃ*) and then भजनीयं, भूतानां अभिद्रवणीयं, भवद्रमयतीति वा, भाजनवद्वा (*bhajanīyaṃ, bhūtānāṃ abhidravaṇīyaṃ, bhavadramayatīti vā, bhājanavadvā*) (Nirukta 4-9). Its meaning has been explained before.
+
+### Printed p. 128
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 29, p. 128.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यू॒यं दे॑वाः॒ प्रम॑तियूर्यू॒यमोजो॑ यू॒यं द्वेषां॑सि॒॑
+> सनु॒तर्यु॑योत ।
+> अ॒भि॒क्ष॒त्तारो॑ अ॒भि च॒ क्षम॑ध्वम॒द्या च॑ नो मृ॒ळय॑ताप॒रं च॑ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> यूयं । देवाः । प्रमतिः । यूयं । ओजः । यूयं । द्वेषांसि । सनुतः ।
+> युयोत ।
+> अभिक्षत्तारः । अभि । च । क्षमध्वं । आद्य । च । नः । मृळयत । अपरं । च ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देवाः प्रमतिः प्रकृष्टा मतिर्यस्य प्रित्रादेस्तादृशा अपि यूयमेव ।
+> तथौजो बलमपि यूयमेव । आपि च यूयं द्वेषांसि द्वेष्ट्यणि रक्षःपिशाचा-
+> दीनि । सनुतरित्यव्ययं । अंतर्हितनामैतत् । अंतर्हिते प्रदेशे युयोत ।
+> पृथक्कुरुत ॥ यु मिश्रणामिश्रणयोः । छांदसः शपः श्लुः । पूर्ववत्तस्य तबादेशः ॥
+> अभिक्षत्तारोऽभितः शत्रूणां हिंसितारो यूयमभि च क्षमध्वं । अभिभवत शत्रून् ।
+> अद्यास्मिन्निने नोऽस्मान्मृळयत । सुखयत । अपरं च अपरमपि कालं । आगामिन्यपि
+> कालेऽस्मान् मृळयत ॥
+
+*Gist:* O gods, you are wisdom and strength; drive our enemies, the demons and the like, to a hidden place; overcome our foes, and make us happy today and hereafter.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*devāḥ*—O gods; *pramatiḥ*—excellent understanding; *yūyam*—you yourselves are; *ojaḥ*—strength; *yūyam*—you also; *yūyam*—you; *dveṣāṃsi*—the demons and others who hate us; *sanutaḥ*—to a hidden, distant place; *yuyota*—drive away; *abhikṣattāraḥ*—you who strike enemies on every side; *abhi ca kṣamadhvam*—defeat them completely; *adya ca*—today also; *naḥ*—us; *mṛḷayata*—make happy; *aparaṃ ca*—on another day also (make us happy).
+
+**भावार्थ (Bhāvārtha)**
+
+O gods, you yourselves are excellent understanding and strength. Drive the demons and others who hate us to a hidden, distant place. You who strike enemies on every side, defeat them completely. Make us happy today, and in the same way hereafter.
+
 ---
 
-**Progress note:** Done through printed p. 125 (PDF 125). Sūkta 28 Ṛk 11 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics); Sūkta 29 introduction and Ṛk 1 Saṃhitā and Pada (bhāṣya continues p. 126). Hand fixes to kn.md: stray line and punctuation removed, bhāṣya introduction put in a block, Anuvāda unquoted. Flags as supplied: Pada भूर्इदान्वः, bhāṣya सुनीराः/भूरिदाव्यः, शुनं vs शूनं; p. 124 head prints Maṇḍala 3
+**Progress note:** Done through printed p. 128 (PDF 128). Sūkta 29 Ṛk 1 complete (bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics); Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (English and Special Topics continue p. 129). Hand fixes to kn.md: Pratipadārtha and Bhāvārtha split out of the bhāṣya block and unquoted, labels normalised. Flags: bhāṣya प्रित्रादे for पित्रादे, Pratipadārtha दृत for धृत, कर्तृ/कर्त as supplied; accent report has 1 DIFF
