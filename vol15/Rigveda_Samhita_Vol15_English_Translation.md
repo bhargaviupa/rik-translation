@@ -5558,6 +5558,98 @@ In this ṛk Heaven and Earth are praised. Addressing Heaven and Earth, the wish
 
 वचसः (*vacasaḥ*)—वक्तीति वचाः स्तोता (*vaktīti vacāḥ stotā*). Since he recites praises, the word *vacasaḥ* is used in the sense of a reciter of praise.
 
+### Printed p. 180
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 3, Sūkta 32, p. 180.*
+
+उपस्तुते (*upastute*)—तत्र तत्र स्थितैः स्तोतृभिः स्तुते । (*tatra tatra sthitaiḥ stotṛbhiḥ stute |*) It is explained that at the times of the sacrifices the Ṛtvijs and the sacrificers, each in his own place, praise (Heaven and Earth).
+
+वसूयुः (*vasūyuḥ*)—धनकामः ! (*dhanakāmaḥ !*) Yāska explained the meaning as “वसूयवो वसुकामाः (*vasūyavo vasukāmāḥ*)” (Ni. 6-5) and also as “वसूयुः वसुमान् (*vasūyuḥ vasumān*)” (Ni. 6-32).
+
+ययोः आयुः प्रतरं (*yayoḥ āyuḥ prataraṃ*)—It is described that the food obtained from these Heaven and Earth is abundant; and इदं ते उपस्तुते (*idaṃ te upastute*)—for this reason these Heaven and Earth are now praised by the respective Ṛtvijs in the sacrifices; and वसूयुः महः पुरः दधे (*vasūyuḥ mahaḥ puraḥ dadhe*)—the sacrificer, wishing to obtain wealth and the like, will gratify these Heaven and Earth by reciting laudable hymns.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> मा नो॒ गुह्या॒ रिप॑ आ॒योरह॑न्दभ॒न्मा न॑ अ॒भ्योरी॑रधो दु॒च्चु-॑
+> ना॑भ्यः ।
+> मा नो॒ वि यौः॑ स॒ख्या वि॒द्धि तस्य॑ नः सुम्नाय॒ता मन॑सा॒ तत्त्वे॑-
+> महे ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> मा । नः । गुह्याः । रिपः । आयोः । अहन् । दभन् । मा । नः । अभ्यः । रीरधः ।
+> दुच्चुनाभ्यः ।
+> मा । नः । वि । यौः । सख्या । विद्दि । तस्य । नः । सुम्नयता । मनसा । तत् । त्वा ।
+> ईमहे ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र त्वष्टर्वा आयोर्मनुष्यस्य शत्रुभूतस्य गुह्या गोप्या ज्ञातुम-
+> शक्या रिपो हिंसारूपा माया नोऽस्मान् अहन् । उपलक्षणमेतत् । अदनि राष्टौ
+
+> *he iṃdra tvaṣṭarvā āyormanuṣyasya śatrubhūtasya guhyā gopyā jñātuma-*
+> *śakyā ripo hiṃsārūpā māyā no 'smān ahan | upalakṣaṇametat | adani rāṣṭau*
+
+### Printed p. 181
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 15, Ṛgveda-saṃhitā, p. 181.*
+
+> च मा दभन् । मा हिंसिषुः । तथा नोऽस्मानाभ्यो दुच्चुनाभ्यः । शुनमिति सुख-
+> नाम । दुःशुना दुच्चुनाः । दुःखकारिणीभ्यः शत्रुसेनाभ्यो मा रीरथः । वशं मा
+> नैषीः । रध्यतिर्वशगमन इति यास्कः । रध हिंसासंराद्योः । अस्माण्ण्यंताल्लुजि चजि
+> रूपं ॥ अपि च नोऽस्माकं सख्या सख्यानि सखित्वानि मा वि यौः । त्वया वियुक्तानि
+> मा कार्षिः । अपि तु नोऽस्माकं तस्य तत् सखित्वं सुम्नायता सुखमस्माकमिच्छता
+> मनसा विद्धि । जानीहि ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे
+> षष्ठी ॥ तत् त्वा त्वादृशं त्वामीमहे । अभिमतफलं याचामहे ॥ सुपां सुलुगिति
+> तच्छब्दादुत्तरस्या विभक्तेर्लुक् ॥
+
+*Gist:* O Indra (or Tvaṣṭṛ), may the hidden, harmful wiles of the hostile man not harm us; do not hand us to the enemy hosts, nor sever our friendship; know it with a mind wishing us well; we ask this of you.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+O Indra. आयोः (*āyoḥ*)—of the man who is an enemy. गुह्याः (*guhyāḥ*)—secret. रिपः (*ripaḥ*)—the wiles of a harmful kind! नः (*naḥ*)—us. अहन् (*ahan*)—whether by day or by night. मा दभन् (*mā dabhan*)—may they not harm. नः (*naḥ*)—us. आभ्यः दुच्चुनाभ्यः (*ābhyaḥ duccunābhyaḥ*)—to these hostile armies that cause suffering. मा रीरधः (*mā rīradhaḥ*)—do not make us subject. नः (*naḥ*)—with us. सख्या (*sakhyā*)—your friendship. मा वि यौः (*mā vi yauḥ*)—do not cause it to be broken. नः (*naḥ*)—with us. तस्य (*tasya*)—that friendship. सुम्नायता (*sumnāyatā*)—desiring happiness. मनसा (*manasā*)—with the mind. विद्भि (*vidbhi*)—know. तत् त्वा (*tat tvā*)—you, such a trusted friend. ई महे (*ī mahe*)—I ask for the desired fruit.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, may the secret and harmful wiles of the man who is our enemy not harm us, whether by day or by night. Do not make us subject to these hostile armies that cause suffering. Do not let your friendship with us be broken, but increase it so that it becomes a source of happiness. From you, such a trusted friend, I ask for the desired fruit.
+
+**Printed English translation**
+
+Let not the secret guile of man, (Indra), harm us by day (or night); leave us not subject to the malevolent, disunite us not from your friendship; regard us with the favourable thoughts that (spring) from it: we ask this (boon) of you.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk and in the next Ṛk both Indra and the deity called Tvaṣṭṛ (printed तृष्ट (*tṛṣṭa*), as supplied) are praised. The derivation of the word Indra and of the word Tvaṣṭṛ (printed तृष्ट (*tṛṣṭa*)) has been stated earlier.
+
+### Printed p. 182
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 3, Sūkta 32, p. 182.*
+
+आयोः—गुह्याः रिषः नः अर्ह— शत्रुभूतस्य मनुष्यस्य ज्ञातुमशक्याः मायाः हिंसारूपाः अहनि रात्रौ च मा हिंसिषुः । (*āyoḥ—guhyāḥ riṣaḥ naḥ arha— śatrubhūtasya manuṣyasya jñātumaśakyāḥ māyāḥ hiṃsārūpāḥ ahani rātrau ca mā hiṃsiṣuḥ |*) (text as supplied; the words रिषः नः अर्ह (*riṣaḥ naḥ arha*) differ from the Saṃhitā.) The word आयुः (*āyuḥ*) is explained as the enemy, a man. It is a prayer to Indra and to Tvaṣṭṛ (printed तृष्ट (*tṛṣṭa*)) that the deeds practised by this enemy to harm us, the sacrificers, deeds that we are unable to know, may not harm us by day and night.
+
+दुच्चुनाभ्यः (*duccunābhyaḥ*)—दुःशुनाः दुच्चुनाः दुःखकारिणीभ्यः शत्रुसेनाभ्यः । (*duḥśunāḥ duccunāḥ duḥkhakāriṇībhyaḥ śatrusenābhyaḥ |*) The word शुन (*śuna*) is stated by Yāska among the words for happiness (Ni. 3-13). When the prefix दुः (*duḥ*) with the meaning “producing suffering” joins the word शुन (*śuna*), which denotes happiness, the word दुच्चुन (*duccuna*) results. The sacrificers pray that Indra and the god Tvaṣṭṛ may not hand us over to the power of enemies who cause suffering.
+
+नः सख्या मा वि यौ:—अस्माकं सखित्वानि त्वया वियुक्तानि मा कार्षिः । (*naḥ sakhyā mā vi yau:—asmākaṃ sakhitvāni tvayā viyuktāni mā kārṣiḥ |*) The sacrificers pray that their friendship with Indra may not be broken; and नः तस्य सुम्नायता मनसा विद्धि (*naḥ tasya sumnāyatā manasā viddhi*)—अस्माकं तत्सखित्वं सुखमस्माकमिच्छता मनसा जानीहि (*asmākaṃ tatsakhitvaṃ sukhamasmākamicchatā manasā jānīhi*)—that Indra should regard the friendship that has arisen between him and us with a mind that grants happiness to us sacrificers; this prayer of the sacrificers is stated.
+
+सुम्मायता (*summāyatā*) (as supplied) - सुखमिच्छता । (*sukhamicchatā |*) Since the word सुम्म (*summa*) (as supplied) is stated among the words for happiness (Ni. 3-13), the meaning “desiring happiness” is given here for this word.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अहे॑ळता॒ मन॑सा श्रु॒ष्टिमा व॑ह॒ दुहा॑नां धे॒नुं पि॒प्युषी॑मस॒श्चतं॑ ।
+> पद्या॑भिरा॒शुं वच॑सा च वा॒जिनं॒ त्वां हि॑नोमि पुरुहूत वि॒श्वहा॑ ॥
+
+**॥ पदपाठः ॥**
+
+> अहेळता । मनसा । श्रुष्टिं । आ । वह । दुहानां । धेनुं । पिप्युषीं । असश्चतं ॥
+> पद्याभिः । अशुं । वचसा । च । वाजिनं । त्वां । हिनोमि । पुरुहूत । विश्वहा ॥ ३ ॥
+
+> *aheḷatā | manasā | śruṣṭiṃ | ā | vaha | duhānāṃ | dhenuṃ | pipyuṣīṃ | asaścataṃ ‖*
+> *padyābhiḥ | aśuṃ | vacasā | ca | vājinaṃ | tvāṃ | hinomi | puruhūta | viśvahā ‖ 3 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 179 (PDF 179). Sūkta 31 Ṛk 7 Special Topics finished; Sūkta 32 introduction/Anuvāda and Ṛk 1 complete. Flags: as supplied, not changed: ದ್ಯಾವಾಪ್ಯಥಿವೀ, ಸ್ವಷ್ಟಾ (for tvaṣṭā), Pada ಋತ್ಯಯತಃ/ಸಿಸಾಸತಃ/ವಸುಯುಃ vs Saṃhitā, Pratipadārtha ನಾಂ for vāṃ, Latin S in ಮೋSಹಂ, ತಿಸ್ಪ್ರಸ್ತತಂ (p.178) vs ತಿಸ್ರಸ್ತತಂ; accent DIFF 1 line
+**Progress note:** Done through printed p. 182 (PDF 182). Sūkta 32 Ṛk 1 Special Topics finished; Ṛk 2 complete; Ṛk 3 Saṃhitā and Pada only (bhāṣya follows). Flags, as supplied and not changed: ತೃಷ್ಟ/ತ್ವಷ್ಟ, ರಿಷಃ ನಃ ಅರ್ಹ in p.182 quotation, ಸುಮ್ಮಾಯತಾ/ಸುಮ್ಮ vs ಸುಮ್ನ, Pratipadārtha ವಿದ್ಭಿ vs Pada ವಿದ್ದಿ, ಅಶುಂ in Pada vs Saṃhitā ಆಶುಂ, accent DIFF 3 lines; removed a doubled Pada label in kn.md
