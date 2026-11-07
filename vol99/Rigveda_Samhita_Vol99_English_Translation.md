@@ -1602,6 +1602,107 @@ In this way the hotṛ recites the eight ṛks stated above. All of these togeth
 
 The Agni-praṇayana rite is concluded.
 
+### Printed p. 550
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 550.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> त्वं दू॒तस्त्वमु॑ नः पर॒स्पास्त्वं वस्य॒ आ वृ॑षभ प्रणे॒ता ।
+> अग्ने॑ तो॒कस्य॑ न॒स्तने॑ त॒नूना॒मप्र॑युच्छ॒न्दीद्य॑द्बोधि गो॒पाः
+> ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । दूतः । त्वं । ऊं इति । नः । परःपाः । त्वं । वस्यः । आ । वृषभ । प्रनेता ।
+> अग्ने । तोकस्य । नः । तने । तनूनां । अप्रयुच्छन् । दीद्यत् । जोधि । गोपाः
+> ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वृषभ अभिमतफलवर्षक हे अग्ने त्वं दूतोऽस्मदीये यज्ञे
+> देवाह्वानार्थं दूतो भव । त्वमु त्वमेव नोऽस्माकं परस्पा अपद्भ्यः
+> पारयिता पाता च भव । किंच त्वं वस्यो वसुनो धनस्य आ प्रणीतास्मदाभि-
+> मुख्येन प्रापयिता भव । अप्रयुच्छन् अप्रमाद्यन् । दीद्यत् ॥ दीदय-
+> तिर्दिप्तिकर्मा ॥ शोभमानः । त्वं नोऽस्माकं तोकस्य पुत्रस्य तने ।
+> तनोति विस्तारयति कुलमिति तनः पौत्रः । तस्मिन् अस्मदीयानां तनूनां गोपा
+> गोपायिता । तथा च ब्राह्मणं । अग्निर्वै देवानां गोपा अग्निमेव तत्स-
+> र्वतो गोप्तारं परिदत्त आत्मने च यजमानाय च । ऐ.ब्रा. १. २८. । इति ।
+> तादृशस्त्वं च गोपायिता भवामीति बोधि । बुध्यस्व ॥
+
+*Gist:* O showerer Agni, be our messenger to the gods, our rescuer from dangers, and the one who brings us wealth; shining, be the guardian of our sons, grandsons and bodies, as the Brāhmaṇa also says.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ವೃಷಭ (*vṛṣabha*)—O one who showers the desired objects. ಅಗ್ನೇ (*agne*)—O Agni. ತ್ವಂ (*tvaṃ*)—you. ದೂತಃ (*dūtaḥ*)—be the messenger (to our sacrifice) who calls the gods. ತ್ವಮು (*tvamu*)—you alone. ನಃ (*naḥ*)—to us. ಪರಸ್ಪಾಃ (*paraspāḥ*)—be the protector from calamity. ತ್ವಂ (*tvaṃ*)—you. ವಸ್ಯಃ (*vasyaḥ*)—of wealth (the wealth). ಆ ಪ್ರಣೇತಾ (*ā praṇetā*)—be the one who brings it together towards us. ಅಪ್ರಯುಚ್ಛನ್ (*aprayucchan*)—having a steady gaze. ದೀದ್ಯತ್ (*dīdyat*)—and shining. ನಃ (*naḥ*)—our. ತೋಕಸ್ಯ (*tokasya*)—of sons. ತನೇ (*tane*)—of grandsons. ತನೂನಾಂ (*tanūnāṃ*)—of our own bodies. ಗೋಪಾಃ (*gopāḥ*)—be the protector.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, giver of the desired objects: be the messenger who calls the gods to our sacrifice, the protector against calamities, the one who provides us with wealth, one whose gaze is free from heedlessness [the supplied text reads ಪ್ರಮಾವರಹಿತವಾದ, apparently for ಪ್ರಮಾದರಹಿತವಾದ; left as supplied], shining, and protector of our sons and grandsons and likewise of our own bodies.
+
+### Printed p. 551
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 551.*
+
+**Printed English translation**
+
+Showerer(of benefits), Agni, be our messenger(to the gods); our preserver from evil; the conveyer to us of wealth; the protector of our sons and grandsons, and of our persons; understand(our prayer), ever heedful and resplendent.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ದೂತಃ (*dūtaḥ*)—In accordance with the Śruti sentence अग्निर्देवानां दूत आसीत् (*agnirdevānāṃ dūta āsīt*) ("Agni was the messenger of the gods"), Agni is said to be the messenger between gods and men, because he performs such tasks as invoking the gods in the sacrificial rites of the human sacrificers, conveying to them the oblations offered in the fire, and presenting to the gods the hymns and prayers of the ṛtvij priests.
+
+ಪರಸ್ಪಾಃ (*paraspāḥ*)—अस्माकं आपद्भ्यः पारयिता पाता च (*asmākaṃ āpadbhyaḥ pārayitā pātā ca*): one who rescues and protects us from calamities of many kinds and from fear of enemies.
+
+ವೃಷಭ (*vṛṣabha*)—अभिमतफलवर्षक (*abhimataphalavarṣaka*): one who showers the desired objects on us like rain, that is, one who gives; this is the meaning.
+
+ತೋಕಸ್ಯ, ತನೇ (*tokasya, tane*)—The word तोक (*toka*) is read among the fifteen words for offspring (Ni. 3-2); therefore तोक (*toka*) means a son. The word तनय (*tanaya*) is read in the same place and also means a son; but when तनय (*tanaya*) or तन (*tana*) occurs, especially when both words occur in one ṛk, it is customary to explain it as grandson. Yāska, on this point, quotes the ṛk
+
+ಯಾ ತೇ ದಿದ್ಯುದವಸೃಷ್ಟಾ ದಿವಸ್ಪರಿ ಕ್ಷ್ಮಯಾ ಚರತಿ ಪರಿ ಸಾ ವೃಣಕ್ತು ನಃ । ಸಹಸ್ರಂ ತೇ ಸ್ವಪಿನಾತ ಭೇಷಜಾ ಮಾನಸ್ತೋಕೇಷು ತನಯೇಷು ರೀರಿಷಃ ॥ (Ma. Saṃ. 7-46-3)
+
+and explains the words तोकेषु (*tokeṣu*) and तनयेषु (*tanayeṣu*) occurring in it as पुत्रेषु च पौत्रेषु च (*putreṣu ca pautreṣu ca*) (Ni. 10-7). Sāyaṇa explains the word तने (*tane*) as तनोति विस्तारयति कुलमिति तनः पौत्रः (*tanoti vistārayati kulamiti tanaḥ pautraḥ*): that is, this word, formed from the root तनु विस्तारे (*tanu vistāre*), means one who extends the family by increasing it, hence तन (*tana*), a grandson (pautra).
+
+### Printed p. 552
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 552.*
+
+Therefore, according to Yāska's view, the word तोक (*toka*) can be taken to mean a son, and तन (*tana*) or तनय (*tanaya*) to mean a pautra, that is, a grandson.
+
+ನಃ ತನೂನಾಂ ಗೋಪಾಃ (*naḥ tanūnāṃ gopāḥ*)—अस्मदीयानां तनूनां गोपा गोपायिता (*asmadīyānāṃ tanūnāṃ gopā gopāyitā*): explaining this as "one who protects our bodies, that is, us", Sāyaṇa quotes the Brāhmaṇa sentence अग्निर्वै देवानां गोपा अग्निमेव तत्सर्वतो गोप्तारं परिदत्त आत्मने च यजमानाय च (*agnirvai devānāṃ gopā agnimeva tatsarvato goptāraṃ paridatta ātmane ca yajamānāya ca*) (Ai. Brā. 1-28). The meaning of this Brāhmaṇa sentence we have already explained earlier, in the Agni-praṇayana rite (page 449).
+
+Kaṇṭhanātha [the supplied text has only the name, with no content following it].
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> वि॒धेम॑ ते पर॒मे जन्म॑न्नग्ने वि॒धेम॒ स्तोमै॒रव॑रे स॒धस्थे॑ ।
+> यस्मा॒द्योने॑रु॒दारि॑था॒ यजे॒ तं प्र त्वे ह॒वींषि॑ जुहुरे॒ समि॑द्धे ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> विधेम । ते । परमे । जन्मन् । अग्ने । विधेम। स्तोमैः । अवरे । सधस्थे ।
+> यस्मात् । योनेः । उत्आरिथ । यजे । तं । प्र । त्वे इति । हवींषि । जहुरे ।
+> संइद्दे ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हॆ आग्ने परम उत्कृष्टे जन्मन्! जायते प्रादुर्भवत्यस्मिन्निति जन्मस्थानं
+> द्यौः । तस्मिन् द्युलोकेऽवस्थिताय ते तुभ्यं विधेम । स्तुतिभिः परिचरेम ।
+> अवरे द्युलोकादधस्तने सदस्येऽंतरिक्षे स्थिताय तुभ्यं स्तोमैः स्तोत्रैर्विधेम ।
+> परिचरेम । यस्माद्योनेः पृथिवीरूपात्स्थानात् त्वमुदारिथ उद्धतोऽसि प्रादु-
+> र्भूतोऽसि तं पृथिवीप्रदेशं यजे । पूजयामि । तत्र हि समिद्धे समिद्धिः
+> समिध्यमाने त्वे त्वयि हवींषि पुरोडाशादीनि प्रजुहुरे । अध्वर्याद्वयः
+> प्रजुह्वति । जुहोतेर्लिटि रूपं ॥
+
+*Gist:* Agni is worshipped with hymns in his highest birthplace, heaven, and in the lower seat, the atmosphere; and on earth, his place of origin, the oblations are offered into him when kindled.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ಅಗ್ನೇ (*agne*)—O Agni. ಪರಮೇ (*parame*)—in the most excellent heaven. ಜನ್ಮನ್ (*janman*)—having your origin. ತೇ (*te*)—to you (you). ವಿಧೇಮ (*vidhema*)—we will serve with hymns. ಅವರೇ (*avare*)—in the lower one, below that. [The Pratipadārtha continues on the next page of the print.]
+
 ---
 
-**Progress note:** Done through printed p. 549 (PDF 549). Agni-pranayana Rks 6-8 of the hotr's recitation, Brahmana conclusion (Special Topics)
+**Progress note:** Done through printed p. 552 (PDF 552). Sukta 9 Rik 2 complete; Rik 3 Samhita, Pada, Bhashya, Pratipadartha begun
