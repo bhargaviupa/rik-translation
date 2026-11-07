@@ -2074,6 +2074,89 @@ To support this matter the Aitareya Brāhmaṇa passage अग्निर्व
 > *śūyā agniścitrabhānurhavaṃ me viśvābhirgīrbhiramṛto vicetāḥ |*
 > *śyāvā rathaṃ vahato rohitā votāruṣāha cakre vibhṛtraḥ ‖ 2 ‖*
 
+### Printed p. 565
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 2, p. 565.*
+
+**॥ पदपाठः ॥**
+
+> श्रुयाः । अग्निः । चित्रभानुः । हवं । मे । विश्वाभिः । गीभिः । अमृतः । विचेताः ।
+> श्यावा । रथं । वहतः । रोहिता । वा । उत । अरुषा । अह । चक्रे । विभृत्रः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अमृतो मरणधर्मरहितो विचेता विशिष्टप्रज्ञश्चित्रभानुर्विचित्रदीप्तिश्चाय-
+> नीयदीप्तिर्वा सोग्निर्विश्वाभिर्गीर्भिः स्तुतिसाधनभूतैः सर्वैर्वाक्यैः क्रियमाणं
+> मे मम हवं स्तोत्रं श्रूयाः । शृणोतु । तस्याग्ने रथं श्यावा श्याववर्णावशौ
+> वहतः । वा अपि वा रोहिता रोहिद्वर्णावशौ रथं वहतः । रोहिद्वर्णयोरश्वयोः
+> श्यावादिवर्णपरिग्रहः स्वेच्छया भवति । विभृत्यो नानास्थानेषु विहृतश्चक्रे । ऋत्विघ्न-
+> कारि खलु ॥ करोतेः कर्मणि लिट् ॥
+
+*Gist:* Immortal, all-wise, variously radiant Agni is asked to hear my praise; tawny, red and ruddy horses draw his car; the priests set him in various places.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अमृतः (*amṛtaḥ*)—one free from the nature of death; विचेताः (*vicetāḥ*)—one with distinguished wisdom; चित्रभानुः (*citrabhānuḥ*)—one with wondrous radiance; अग्निः (*agniḥ*)—Agni. विश्वाभिर्गिर्भिः (*viśvābhirgirbhiḥ*)—with all the words composed; मे (*me*)—my; हवं (*havaṃ*)—praise; श्रूयाः (*śrūyāḥ*)—may he hear. श्यावा (*śyāvā*)—those that are brown; वा (*vā*)—or (and); रोहिता (*rohitā*)—those that are red; उत (*uta*)—and; अरुषा (*aruṣā*)—those of saffron colour, being horses. रथं (*rathaṃ*)—they draw the car of Agni (and). विभृतः (*vibhṛtaḥ*)—being carried (by the priests) to various places. चक्रे अह (*cakre aha*)—is he not made?
+
+**भावार्थ (Bhāvārtha)**
+
+May Agni, who is free from the nature of death, of distinguished wisdom and of wondrous radiance, hear this praise composed by me with all kinds of speech. Brown and saffron-coloured horses draw Agni's car. The priests carry such an Agni to various places and establish him there.
+
+**Printed English translation**
+
+May Agni, who is immortal, of manifold wisdom, and wonderful splendour, hear my invocation,(preferred) with all laudations: tawny, or red, or purple horses draw his car; he has been borne in various directions.
+
+### Printed p. 566
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 1, Sūkta 10, p. 566.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+चित्रभानुः (*citrabhānuḥ*)—विचित्रदीप्तिश्चायनीयदीप्तिर्वा (*vicitradīptiścāyanīyadīptirvā*). Wondrous, that is, of many kinds: one who shines with flames of many colours such as white, red and yellow. The word *bhānu*, formed from the root भा—दीप्तौ (*bhā—dīptau*), is read among the names of day (Ni. 2-20). The word *bhānu* has many meanings: sun, ray, radiance, day and so on. Here the meaning "radiance" is made clear.
+
+श्यावा रथं वहतः रोहिता वा उत अरुषा (*śyāvā rathaṃ vahataḥ rohitā vā uta aruṣā*)—It is said here that the car of Agni is drawn by horses that are श्यावा (*śyāvā*), ash-coloured (the print gives "Tawny"), or रोहिता (*rohitā*), red, or अरुषा (*aruṣā*) (the print gives "purple"), dull red. That Agni's horse is red is stated in the passage
+
+हरी इंद्रस्य । रोहितोऽग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्योर्मरुतां । अरुण्यो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः (*harī iṃdrasya | rohito 'gneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyormarutāṃ | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ*) (Ni. 2-28).
+
+Yāska has stated the various vehicles of the deities: the two horses called *harī* belong to Indra, the red horse to Agni, the green horse to Āditya, the asses to the Aśvin deities, the goats to Pūṣan, the spotted deer to the Maruts, the red cows to Uṣas, the ash-coloured horses to Savitṛ, the horses of many colours to Bṛhaspati, and the deer called *niyut* to Vāyu. In the present Ṛk, however, it is natural that Agni's horses are red. But the statement that horses of the colours *śyāvā* and *aruṣā* also draw Agni's car may be an exaggeration (उत्पेक्षॆ (*utpekṣè*)). Since Uṣas and Savitṛ rise in the early morning, the sage may have described that the horses *śyāvā* and *aruṣā*, the vehicles of Uṣas and Savitṛ, also draw the car of Agni kindled at such a morning time.
+
+चक्रे विभृत्रः (*cakre vibhṛtraḥ*)—विभृत्रो नानास्थानेषु विहृतश्चक्रे । ऋत्विग्निरकारि खलु (*vibhṛtro nānāsthāneṣu vihṛtaścakre | ṛtvignirakāri khalu*) (as supplied; the bhāṣya on p. 565 reads ऋत्विघ्नकारि (*ṛtvighnakāri*) in the same place). Here it is explained that, since the priests (ऋत्विज (*ṛtvija*)), the Adhvaryu and others, establish Agni in the various places of the sacrifice such as the Āhavanīya, Agni becomes established in many places.
+
+### Printed p. 567
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 2, p. 567.*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> उ॒त्ता॒नाया॑मजनय॒न्तु सुषू॑तं॒ भुव॑द॒ग्निः पु॑रु॒षेशा॑सु॒ गर्भः॑ ।
+> शिरि॑णायां चिद॒क्तुना॒ महो॑भि॒रप॑रीवृतो वसति॒ प्रचे॑ताः ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> उत्तानायां । अजनयन् । सुसूतं । भुवत् । अग्निः । पुरुषेशासु । गर्भः ।
+> शिरिणायां । चित् । अक्तुना । महोभिः । अपरिवृतः । वसति । प्रचेताः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उत्तानायामुत्तानशयायामरण्यां सुषूतमग्निहोत्रार्थं सुष्टु प्रेरित-
+> मग्निमजनयन् । अध्वय्यादय उदपादयन् । सोऽग्निः पुरुषेशासु । पेश इति
+> रूपनाम । बहुरूपास्वोषधीषु गर्भो भुवत् । अंतर्वर्तमानतया गर्भ इव
+> भवेत् । भवतेर्लिजि रूपं ॥ शिरिणायां । शीर्यंतेऽस्यां भूतानीति शिरणा रात्रिः ।
+> तस्यामप्यक्तुना । अंजनादक्तुस्तमः । तेन तमसापरीवृतोऽसंस्पृष्टः आत एव
+> महोभिस्तेजोभिर्युक्तः प्रचेताः प्रकृष्टप्रज्ञः सन् वसति । दीप्यमानो वर्तते ॥
+
+*Gist:* The priests produced Agni in the upward-lying araṇi; he becomes the embryo in the many-formed plants and, though not enclosed by night's darkness, dwells shining and wise.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत्तानायां (*uttānāyāṃ*)—in the araṇi (fire-stick) that lies face upward. सुषूतं (*suṣūtaṃ*)—Agni, urged on (for the Agnihotra). अजनयन् (*ajanayan*)—(the Adhvaryus) caused to be produced. अग्निः (*agniḥ*)—that same Agni. पुरुषेशासु (*puruṣeśāsu*)—in the plants of many forms. गर्भः (*garbhaḥ*)—in the form of an embryo. भुवत् (*bhuvat*)—becomes inside (अंतर्वतिरागुत्तानॆ (*aṃtarvatirāguttānè*) as supplied). शिरिणायां चित् (*śiriṇāyāṃ cit*)—even in the night. आक्तुना (*āktunā*)—by darkness. आपरीवृतः (*āparīvṛtaḥ*)—not enclosed. महोभिः (*mahobhiḥ*)—endowed with his great radiance. प्रचेताः (*pracetāḥ*)—endowed with excellent knowledge. वसति (*vasati*)—remains shining.
+
+**भावार्थ (Bhāvārtha)**
+
+The Adhvaryus caused to be produced the Agni who, lying asleep in the araṇi that lies face upward, was urged on for the Agnihotra. That same Agni, in the plants of many forms (text breaks off at the end of this page)
+
 ---
 
-**Progress note:** Done through printed p. 564 (PDF 564). Sukta 10 begins: Rik 1 complete through Special Topics start (p. 564), Rik 2 Samhita; DIFF on Rik 1 line (printed pluta 1: after accent script) and Rik 2
+**Progress note:** Done through printed p. 567 (PDF 567). Rik 2 Pada to Bhavartha with printed English and Special Topics; Rik 3 Samhita/Pada from figure fig_line1389, through Bhavartha start
