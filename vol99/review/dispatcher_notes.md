@@ -10,3 +10,4 @@
 - w0634: '(10-92-15:1-127-2)' colon-joined reference written in words + explanation (checker reads it as one). Similar to w0607.
 - w0658 Suk.12 Rk 5 fig_line2656: glyph after 'ತೇ' read as 'ಮಾ' without [?] though agent could not settle it from the picture; Pada visarga before avagraha uncertain.
 - w0682 Suk.13 Rk 1 Samhita: 'अभवत्प्॒युषी' stray accent on virama (supplied text drops ಪಿ vs Pada ಪಿಪ್ಯುಷೀ); left as supplied.
+- w0700 Suk.13 Rk 7 Samhita line (volume file line ~5900): 'व्य१॒॑गवनी॒रधा॑रयः' two marks after pluta digit; printed spelling differs from reference; left.
