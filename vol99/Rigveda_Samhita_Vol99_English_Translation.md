@@ -5342,6 +5342,102 @@ In this Ṛk Indra's great power and ability are stated. Heaven and earth bow to
 
 वज्रबाहुः वज्रहस्तः (*vajrabāhuḥ vajrahastaḥ*) — these two words have one meaning. Because they occur thus in one sentence, the commentators have explained वज्रबाहुः (*vajrabāhuḥ*) as one having arms like the thunderbolt, that is, hard as the thunderbolt (of exceeding arm-strength), and वज्रहस्तः (*vajrahastaḥ*) as one who bears the thunderbolt in his hand.
 
+### Printed p. 679
+
+*Running head: [ಅ. ೨. ಅ. ೬. ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 679*
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> यः सु॒न्वंत॒मव॑ति॒ यः पचं॑तं॒ यः शंसं॑तं॒ यः श॑शमा॒नमू॒ती ।
+> यस्य॒ ब्रह्म॒ वर्ध॑नं॒ यस्य॒ सोमो॒ यस्ये॒दं राधः॒ स ज॑नास॒ इंद्रः॑
+
+**॥ पदपाठः ॥**
+
+> यः । सुन्वंतं । अवति । यः । पचंतं । यः । शंसंतं । यः । शशमानं । ऊती ।
+> यस्य । ब्रह्म । वर्धनं । यस्य । सोमः । यस्य । इदं । राधः । सः । जनासः । इंद्रः
+> ॥ १४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यः सुन्वंतं सोमाभिषवं कुर्वंतं यजमानमवति । रक्षति । यश्च पुरो-
+> डाशादीनि हवींषि पचंतं । यश्चोती ऊतये॥ सुपां सुलुगिति चतुर्थ्याः पूर्व-
+> सवर्णदीर्घः ॥ स्वरक्षायै शस्त्राणि शंसंतं यश्च शशमानमवति । स्तोत्रं कुर्वाणं
+> रक्षति । ब्रह्म परिवृढं स्तोत्रं यस्य वर्धनं वृद्धिकरं भवति । तथा यस्य सोमो
+> वृद्धिहेतुर्भवति । यस्य चेदमस्मदीयं राधः पुरोडाशादिलक्षणमन्नं वृद्धिकरं
+> भवति । स इंद्र इत्यादि प्रसिद्धं ॥
+
+*Gist:* Indra protects the sacrificer who presses Soma, cooks the oblations, recites and praises; prayer, Soma and the food offered increase him.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यः (*yaḥ*) — who. सुन्वंतं (*sunvaṃtaṃ*) — the sacrificer who presses the Soma juice. अवति (*avati*) — protects. यः (*yaḥ*) — who. पचंतं (*pacaṃtaṃ*) — protects the one who cooks the purodāśa and the like. यः (*yaḥ*) — who. ऊती (*ūtī*) — for protection. शंसंतं (*śaṃsaṃtaṃ*) — protects the one who prays. यः (*yaḥ*) — who. शशमानं (*śaśamānaṃ*) — protects the one who praises (and). यस्य (*yasya*) — to whom. ब्रह्म (*brahma*) — praise. वर्धनं (*vardhanaṃ*) — is an increaser. यस्य (*yasya*) — to whom. सोमः (*somaḥ*) — the drinking of the Soma juice is an increaser. यस्य (*yasya*) — to whom. इदं (*idaṃ*) — given by us. राधः (*rādhaḥ*) — the purodāśa and other food is an increaser. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who protects the sacrificer who presses the Soma juice, who protects the one who cooks the purodāśa and the like, who protects those who ask for protection, who protects the praiser, and for whom praise, Soma juice and the purodāśa and other foods are increasers: he is Indra.
+
+### Printed p. 680
+
+*Running head: [680 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ[ಮಂ. ೨. ಅ. ೨ ಸೂ. ೧೨]*
+
+**Printed English translation**
+
+He, who protects(the worshipper) offering the libation, or preparing (the mixed curds and butter), repeating his praise and soliciting his assi- stance; he, of whom the sacred prayer, the(offered) Soma juice, the(presented sacrificial) food, augment(the vigour); he, men, is Indra.
+
+**Viśeṣaviṣayagaḷu**
+
+This Ṛk states that Indra is pleased by the oblations and the like made and offered by the sacrificer and the priests.
+
+यः सुन्वंतं अवति (*yaḥ sunvaṃtaṃ avati*) — सोमाभिषवं कुर्वंतं यजमानमवः (*somābhiṣavaṃ kurvaṃtaṃ yajamānamavaḥ*). Since Soma-drinking is pleasing to Indra, Indra protects the sacrificer who presses and prepares the Soma juice at the sacrifice to offer it to Indra.
+
+यः पचंतं यः शंसंतं यः शशमान ऊती (*yaḥ pacaṃtaṃ yaḥ śaṃsaṃtaṃ yaḥ śaśamāna ūtī*) — पुरोडाशादिहवींषि पचंतं, ऊतये स्वरक्षायै शस्त्राणि शंसंतं स्तोत्रं कुर्वाणं रक्षति (*puroḍāśādihavīṃṣi pacaṃtaṃ, ūtaye svarakṣāyai śastrāṇi śaṃsaṃtaṃ stotraṃ kurvāṇaṃ rakṣati*). It must not be understood that Indra protects only the sacrificer who performs the sacrifice. The intended sense is that he also protects and looks after the priest who cooks (boils) the oblations and the like in the fire to offer them to Indra at the sacrifice; the priest called Hotṛ who recites the śastra mantras for Indra's pleasure; and the other priests and the like who pray to Indra for their own protection.
+
+यस्य ब्रह्म वर्धनं यस्य सोमः यस्य इदं राधः (*yasya brahma vardhanaṃ yasya somaḥ yasya idaṃ rādhaḥ*) — in this sentence the meaning stated above is stated again in another way. It has been said that Indra protects the sacrificer and the priests. For the praise made to Indra by the priests or sacrificers is an increaser, that is, it is pleasing. In the same way the Soma juice and the oblations and the like that they offer are increasers for Indra. Therefore the sage explains that Indra protects the sacrificers and other people who praise him.
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> यः सु॑न्व॒ते पच॑ते दु॒ध्र आ चि॒द्वाजं॒ दर्द॑षि॒ स किला॑सि स॒त्यः ।
+> व॒यं त॑ इंद्र वि॒श्वह॑ प्रि॒यासः॑ सु॒वीरा॑सो वि॒दथ॒मा व॑देम ॥१५॥
+
+> *yaḥ sunvate pacate dudhra ā cidvājaṃ dardaṣi sa kilāsi satyaḥ |*
+> *vayaṃ ta iṃdra viśvaha priyāsaḥ suvīrāso vidathamā vadema ‖15‖*
+
+### Printed p. 681
+
+*Running head: [ಅ. ೨. ಅ. ೬. ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 681*
+
+**॥ पदपाठः ॥**
+
+> यः । सुन्वते । पचिते । दुध्रः । आ । चित् । वाजं । दर्दषि । सः । किल । असि । सत्यः ।
+> वयं । ते । इंद्र । विश्वह । प्रियासः । सुवीरासः । विदथं । आ । वदेम ॥ १५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> इदानीमृषिः साक्षात्कृतमिंद्रं प्रति प्रब्रूते । हे इंद्र यो दुध्रो
+> दुर्धरः सन् सुन्नते सोमाभिषवं कुर्वते पुरोडाशादिहवींषि पचिते यजमा-
+> नाय वाजमन्नं बलं वादर्दर्षि । भृशं प्रापयसि स तादृशस्त्वं सत्यो यथार्थ-
+> भूतोऽसि । न पुनर्नास्तीति बुद्धियोग्योऽसि । किलेति प्रसिद्दौ । ते तव प्रियासः
+> सुवीरासः कल्याणपुत्रपौत्राः संतो वयं विश्वह सर्वेष्वहःसु विदथं स्तोत्रमा-
+> वदेम । ब्रूयाम ॥
+
+*Gist:* The sage addresses Indra: he who, unassailable, gives food and strength to the sacrificer who presses Soma and cooks the oblations is truly real; blessed with sons, we shall recite praise daily.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*) — O Indra. यः (*yaḥ*) — who. दुद्रः (*dudraḥ*) — unassailable. सुन्वते (*sunvate*) — to the sacrificer who presses the Soma juice. पचते (*pacate*) — and who cooks the purodāśa and the like. वाजं (*vājaṃ*) — food and strength. आ दर्दर्षि (*ā dardarṣi*) — you give abundantly. सः (*saḥ*) — such a you. सत्यः (*satyaḥ*) — of the nature of truth. असि किल (*asi kila*) — you are, are you not. ते (*te*) — to you. प्रियासः (*priyāsaḥ*) — dear ones. सुवीरासः (*suvīrāsaḥ*) — (by your favour) endowed with auspicious sons, grandsons and so on. वयं (*vayaṃ*) — we. विश्वह (*viśvaha*) — on all days. विदथं (*vidathaṃ*) — praise. आ वदेम (*ā vadema*) — we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who, unassailable, give abundantly food and strength to the sacrificer who presses the Soma juice and cooks the purodāśa and the like, you are indeed of the nature of truth, are you not? We, who are dear to you and endowed by your favour with auspicious sons, grandsons and so on, recite praise on all days.
+
+**Printed English translation**
+
+Indra, you are difficult of approach; you, verily, are a true(bene-- factor), who bestow(abundant) food upon him who offers the libation, who prepares(the mixed curds and butter): may we, enjoying your favour, blessed with progeny, daily repeat(your praise) at the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 678 (PDF 678). Sukta 12 Rik 12 special topics (cont.), Rik 13
+**Progress note:** Done through printed p. 681 (PDF 681). Sukta 12 Rik 14-15 from supplied text
