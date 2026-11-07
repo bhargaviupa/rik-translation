@@ -4105,6 +4105,93 @@ Bṛhaspati, too, is included in the release of the cows connected with the Pa�
 
 The Aṅgirases are also included in the company of the Pitṛs (1-139-1); in the Anukramaṇikā it is said that the Aṅgirases belong to the family of the purohitas. For the seers of the ninth Maṇḍala, and in the phrase Atharva-Aṅgirasa too, they themselves
 
+### Printed p. 637
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgvedasaṃhitā, p. 637.*
+
+are indicated. The Atharvaveda is also named Atharvāṅgirasa (A. Ve. 10-7-20). The same view is found in the Śatapatha Brāhmaṇa (Śa. Brā. 11-5-6-7, etc.).
+
+The name of the Virūpas, who have a connection with the Aṅgirases, is mentioned in the plural (*virūpāsaḥ*) in three places (3-53-7; 10-62-5, 6). It is said that the Aṅgirases and the Virūpas are sons of the sky-deity (*divas putrāsaḥ*) (3-53-7). It is also said there that the Virūpas and the Aṅgirases are sons of Agni. Sāyaṇa explains the word *virūpāsaḥ* as "having various forms" and construes it as an epithet of the Aṅgirases. It is not clear whether, as Sāyaṇa says, the *virūpāsaḥ* are the Aṅgirases themselves, having various forms, or other sages by the name Virūpa.
+
+Besides the descriptions given so far, many other matters concerning the Aṅgirases are mentioned here and there. They will be discussed as occasion arises.
+
+#### Ṛk 21
+
+**॥ संहितापाठः ॥**
+
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑द्र॒दक्षि॑णा म॒घोनी॑।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ द॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ २१ ॥
+
+**॥ पदपाठः ॥**
+
+> नूनं । सा । ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
+> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथे । सुवीराः॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अहर्गणेषु माध्यंदिनसवनेषु तायमानरूपेष्वच्छावाकस्याहरहः शस्यसंज्ञक-
+> मभितष्ट्वेवेति सूक्तं । नूनं सा त इत्येषा तस्यांते शंसनीया । सूत्रितं च । नूनं
+> सा त अत्यंतमुत्तमं । आ. ७-४ । इति ॥
+> हे इंद्र या दक्षिणा दक्षमत्साहनं करोतीति दक्षिणा स्तोतृभ्यो देया ते
+> त्वत्संबंधिनी मघोनी धनवती जरित्रे स्तोत्रे वरं श्रेष्ठमभिमतमर्थं नूनं
+
+> *ahargaṇeṣu mādhyaṃdinasavaneṣu tāyamānarūpeṣvacchāvākasyāharahaḥ śasyasaṃjñaka-*
+> *mabhitaṣṭveveti sūktaṃ | nūnaṃ sā ta ityeṣā tasyāṃte śaṃsanīyā | sūtritaṃ ca | nūnaṃ*
+> *sā ta atyaṃtamuttamaṃ | ā. 7-4 | iti ‖*
+> *he iṃdra yā dakṣiṇā dakṣamatsāhanaṃ karotīti dakṣiṇā stotṛbhyo deyā te*
+> *tvatsaṃbaṃdhinī maghonī dhanavatī jaritre stotre varaṃ śreṣṭhamabhimatamarthaṃ nūnaṃ*
+
+### Printed p. 638
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṇḍala 2, Adhyāya 1, Sūkta 11; p. 638.*
+
+> प्रतिदुहीयत् । इदानीं प्रतिदोग्धि । संपादयतीत्यर्थः । तादृशीं दक्षिणां स्तोतृ-
+> भ्योऽस्मभ्यं शिक्ष । प्रयच्छ । किंच भगो भजनीयस्त्वं माति धक् ॥ दहेर्दानार्थस्य
+> लुज मंत्रे घसेत्यादिना चेर्लुक् ॥ नोऽस्मानतिक्रम्यान्येभ्यो दक्षिणां मा दाः ।
+> प्रथममस्मभ्यं दत्वा पश्चादन्येभ्यो दीयतामित्यर्थः । यद्वा नोऽस्माकं कामान्
+> मा धक् । मा धाक्षीः । अपेक्षितफलदानेन पूरयेत्यर्थः । सुवीराः शोभनपुत्र-
+> पौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं स्तोत्रं वदेम । त्वामुद्दिश्य
+> ब्रवाम ॥ अत्र सा ते प्रतिदुग्गामिति प्रकृत्य वीरो वीरयत्यमित्रान् वेतेर्वा
+> स्याद्गतिकर्मणो वीरयतेर्वेत्यंतं निरुक्तमनुसंधेयं । नि- १-७ ॥
+
+*Gist:* Indra is asked to give to us, his praisers, the same rich fee that fulfils the wishes of the sacrificer, not to pass us by, and to give it to us first; blessed with sons, we shall recite abundant praise at this sacrifice. The bhāṣya ends by referring to Yāska's Nirukta (Si. [sic] 1-7) on the word *vīra*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra. ते (*te*)—given by you. मघोनी (*maghonī*)—possessing abundant wealth. सा दक्षिणा (*sā dakṣiṇā*)—that fee. जरित्रे (*jaritre*)—to the praising sacrificer. नूनं (*nūnaṃ*)—certainly. वरं (*varaṃ*)—in the best way. प्रति दुहीयत् (*prati duhīyat*)—fulfils the desired object (such a fee). स्तोतृभ्यः (*stotṛbhyaḥ*)—also to us, the praisers. शिक्ष (*śikṣa*)—give. भगः (*bhagaḥ*)—you, the venerable. नः (*naḥ*)—us. माति धक् (*māti dhak*)—do not reject. सुवीराः (*suvīrāḥ*)—we, accompanied by excellent sons. विदथे (*vidathe*)—in this sacrifice. बृहत् (*bṛhat*)—abundant praise. वदेम (*vadema*)—we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, that fee, given by you and possessing abundant wealth, certainly fulfils in the best manner the desired object of the praising sacrificer. Give such a fee also to us, the praisers. Do not reject us, you who are venerable. Accompanied by excellent sons, we recite abundant praise at this sacrifice.
+
+**Printed English**
+
+That opulent donation, which proceeds, Indra, from you, assuredly bestows upon him who praises you the boon(which he desires): grant it to us, your praisers; do not you, who are the object of adoration, disregard(our prayer): so that, blessed with worthy descendants, we may glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*Mā ati dhak bhagaḥ naḥ:* अस्मानतिक्रम्यान्येभ्यो दक्षिणां मा दाः । प्रथममस्मभ्यं दत्वा पश्चादन्येभ्यो दीयतामित्यर्थः । यद्वा नोऽस्माकं कामान्’ मा (*asmānatikramyānyebhyo dakṣiṇāṃ mā dāḥ | prathamamasmabhyaṃ datvā paścādanyebhyo dīyatāmityarthaḥ | yadvā no 'smākaṃ kāmān’ mā*)
+
+### Printed p. 639
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgvedasaṃhitā, p. 639.*
+
+धक् मा धाक्षीः । (*dhak mā dhākṣīḥ |*) This means: when giving such a fee, do not pass us over and give to others; or give to us first and afterwards to others; or do not reject us without giving our desired objects. Thus he has explained the meaning.
+
+*Dakṣiṇā:* The word *dakṣiṇā* has many meanings. In sacrifices and in the performance of other good works, the goods, such as wealth, given as a reward for the work they have done to the officiating priests (*ṛtvij*) and purohitas, who take up the role for the sacrificer and carry out the tasks, are called *dakṣiṇā*. This fee may be in the form of wealth, or of useful things such as cows, or of jewels, a dwelling house, food and the like. The word *dakṣiṇā* also denotes a deity presiding over the fee; on this subject there is a whole sūkta in the Ṛgveda praising the fee, the sacrificer who gives it, the priests who receive it, and so on (Ṛ. Saṃ. 10-107). Besides, here and there are Ṛks on this subject (Ṛ. Saṃ. 1-18-5; 1-125-6). The daughter of Prajāpati also bears the name Dakṣiṇā. Yāska in his Nirukta has derived the meaning of the word *dakṣiṇā* thus:
+
+दक्षिणा दक्षतेः समर्धयति कर्मणो व्युद्धं समर्थयतीति । अपि वा प्रदक्षिणागमनात् । दिशमभिप्रेत्य दिग्वस्तप्रकृतिः दक्षिणो हस्तो दक्षतेरुत्साहकर्मणः । दाशतेर्वा स्याद्दानकर्मणः ॥ (*dakṣiṇā dakṣateḥ samardhayati karmaṇo vyuddhaṃ samarthayatīti | api vā pradakṣiṇāgamanāt | diśamabhipretya digvastaprakṛtiḥ dakṣiṇo hasto dakṣaterutsāhakarmaṇaḥ | dāśatervā syāddānakarmaṇaḥ ‖*) (Si. [sic] 1-7)
+
+and has given four kinds of meaning:
+
+(1) दक्षिणा दक्षतेः समर्धयति कर्मणो व्युर्धं समर्धयतीति (*dakṣiṇā dakṣateḥ samardhayati karmaṇo vyurdhaṃ samardhayatīti*)—the word *dakṣiṇā* is formed from the root *dakṣ*. This root means "to increase (wealth)". Because it greatly increases (in the form of the fruit) the small wealth spent in the sacrifice, that is, given as fee, this word is called *dakṣiṇā*.
+
+(2) अपि ना प्रदक्षिणागमनात् (*api nā pradakṣiṇāgamanāt*) (as printed; the quotation above reads अपि वा (*api vā*))—at the sacrificial altar one goes round the places called Gārhapatya, Sadas and Āgnīdhrīya in a clockwise circuit (*pradakṣiṇā*) and stands within the altar; the going round done in this way is called *dakṣiṇā*.
+
+(3) दिशमभिप्रेत्य दिग्धस्तप्रकृतिः दक्षिणो हस्तो दक्षतेरुत्साहकर्मणः (*diśamabhipretya digdhastaprakṛtiḥ dakṣiṇo hasto dakṣaterutsāhakarmaṇaḥ*) (as printed; the quotation above reads दिग्वस्त (*digvasta*))—of the hands of Prajāpati, who faces east, the right hand is turned towards the south (the southern direction), and whatever work is to be done, the right hand does it with zeal; therefore it is customary to call the right hand by the word *dakṣiṇa*, as दक्षिणो हस्तः (*dakṣiṇo hastaḥ*).
+
+(text of the supplied page ends here; the fourth meaning is not on this page)
+
 ---
 
-**Progress note:** Done through printed p. 636 (PDF 636). Sukta 11 Special Topics (Arbuda, Vala, Panis, Angirases); colon-joined reference explained in text
+**Progress note:** Done through printed p. 639 (PDF 639). Sukta 11 Rik 21 (Samhita, Pada, bhashya, Special Topics on daksina begun); Pada label restored from garbled line
