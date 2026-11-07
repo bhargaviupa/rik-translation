@@ -5,3 +5,4 @@
 - Reference spelled out by agent, restored: Suk.8? 'Ni' 9.82; 10-170 (w0592).
 - w0607: reference '3-36-7, 8: 3-40-5' read by checker as 8-3-40-5; en.md carries a bracketed explanation.
 - Figures read by agents (low-quality print): w0565 fig_line1389, w0556, w0592, w0601, w0607, w0616.
+- TODO at end: multi-line ⟦…⟧ spans left in Kannada script in en file (10 places, e.g. lines 1732,1747,1757,1770,3639,3726,3923): convert to Devanagari+IAST by script.

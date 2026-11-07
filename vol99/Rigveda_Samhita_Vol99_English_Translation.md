@@ -3940,6 +3940,50 @@ This same matter is told at length in the Taittirīya-saṃhitā (Taittirīya-sa
 
 In former times Viśvarūpa, the son of Tvaṣṭṛ, was the family priest of the gods. Since he was the son of the Asuras' sister, he had affection also for the Asuras. This Viśvarūpa had three heads (heads). With one of those three heads he drank Soma, with another he drank Surā (liquor), and with the third head he ate food and the like. While matters stood so, this Viśvarūpa used to say openly before all that he would procure for the gods their share of the oblation in the sacrifice; but within, unknown to anyone, he helped the Asuras.
 
+### Printed p. 628
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 11; p. 628.*
+
+सर्वस्मै वै प्रत्यक्षं भागं वदंति यस्मा एव परोक्षं वदंति तस्य भाग उदितस्तस्मादिंद्रोऽबिभेदीदृज् वै राष्ट्रं विपर्यावर्तयतीति तस्य वज्रपादाय शीर्षाण्यच्छिनत् ॥ (*sarvasmai vai pratyakṣaṃ bhāgaṃ vadaṃti yasmā eva parokṣaṃ vadaṃti tasya bhāga uditastasmādiṃdro 'bibhedīdṛj vai rāṣṭraṃ viparyāvartayatīti tasya vajrapādāya śīrṣāṇyacchinat ‖*)
+
+People promise a share to everyone openly, face to face; but those who actually fulfil the promise are very rare. If a share is promised secretly (in private, so as to be trusted), that word is certainly kept. Therefore Indra, seeing Viśvarūpa's secret dealing, became afraid: fearing that he would betray him and hand the kingdom over to others (the Asuras), he took his thunderbolt and cut off all three heads of Viśvarūpa.
+
+यत्सोमपानमासीत्स कपिंजलोऽभवद्यत्सुरापानग्ं स कलविंको यदन्नादनग्ं स तित्तिरिस्तस्यांजलिना ब्रह्महत्यामुपागृह्णात्ताग्ं संवत्सरमबिभस्तं भूतान्यभ्यक्रोशन् ब्रह्महन्निति ॥ (*yatsomapānamāsītsa kapiṃjalo 'bhavadyatsurāpānagṃ sa kalaviṃko yadannādanagṃ sa tittiristasyāṃjalinā brahmahatyāmupāgṛhṇāttāgṃ saṃvatsaramabibhastaṃ bhūtānyabhyakrośan brahmahanniti ‖*)
+
+Of the three heads cut off by Indra, the one that used to drink Soma became the bird called Kapiñjala (hazecock); the second, which used to drink Surā, became the Kalaviṅka, that is the sparrow; the third, which used to eat food, became the bird called Tittiri (partridge). Since Indra had killed Viśvarūpa, a Brāhmaṇa, the fault of brahmin-slaying fell upon him, and Indra had to take it upon his own hands. So he bore the fault of brahmin-slaying for one year. All the creatures, seeing him (Indra), cried out: "O Indra, you are a slayer of a Brāhmaṇa."
+
+स पृथिवीमुपासीददस्यै ब्रह्महत्यायै तृतीयं प्रतिगृहाणेति साब्रवीद्वरं वृणै खातात्पराभविष्यंती मन्ये ततो मा पराभूवमिति पुरा ते संवत्सरादपिरोहादित्यब्रवीत्तस्मात्पुरा संवत्सरात्पृथिव्यै खातमपिरोहति वारेवृतग्ग् ह्यस्यै तृतीयं ब्रह्महत्यायै प्रत्यगृह्णात्तत्त्वकृतमिरिणमभवत्तस्मादाहिताग्निः श्रद्धादेवः स्वकृत इरिणे नावस्येद्ब्रह्महत्यायै ह्येष वर्णः ॥ (*sa pṛthivīmupāsīdadasyai brahmahatyāyai tṛtīyaṃ pratigṛhāṇeti sābravīdvaraṃ vṛṇai khātātparābhaviṣyaṃtī manye tato mā parābhūvamiti purā te saṃvatsarādapirohādityabravīttasmātpurā saṃvatsarātpṛthivyai khātamapirohati vārevṛtagg hyasyai tṛtīyaṃ brahmahatyāyai pratyagṛhṇāttattvakṛtamiriṇamabhavattasmādāhitāgniḥ śraddhādevaḥ svakṛta iriṇe nāvasyedbrahmahatyāyai hyeṣa varṇaḥ ‖*)
+
+Seeing this, Indra (ashamed) went to Pṛthivī (the Earth) to be rid of the fault of brahmin-slaying and said: "O Earth, take one third of this brahmin-slaying that has come upon me." The Earth replied: "Then I shall ask a boon: people dig the earth and make pits, and that is a disgrace to me. Grant me a boon that this may not be so." Indra said: "So be it. Let a pit so dug, without any effort, within one year
+
+### Printed p. 629
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgveda-saṃhitā, p. 629.*
+
+close up of itself, and let the earth become level as before." Thus he gave the boon. Therefore a pit dug in the earth closes up of itself before a year has passed. This is the boon the Earth asked for. Having received such a boon, the Earth took one third of Indra's fault of brahmin-slaying; thus it became natural to the Earth. Therefore a man who has kept the sacred fires, performed sacrifices and placed faith and devotion in the gods must not choose a dug pit in the earth as the sacrificial altar for a sacrifice, because such a dug pit is the sign (varṇa) of the brahmin-slaying that the Earth took upon herself.
+
+स वनस्पतीनुपासीददस्यै ब्रह्महत्यायै तृतीयं प्रतिगृह्णीतेति तेऽब्रुवन् वरं वृणामहै वृक्षात्पराभविष्यंतो मन्यामहे ततो मा पराभूमेत्याव्रश्चनाद्यो भूयागांस उत्तिष्ठानित्यब्रवीत्तस्मादाव्रश्चनाद्वृक्षाणां भूयाग्ंस उत्तिष्ठंति वारेवृतग्स् हैषां तृतीयं ब्रह्महत्यायै प्रत्यगृह्णन्स् निर्यासोऽभवत्तस्मान्निर्यासस्य नाश्यं ब्रह्महत्यायै ह्येष वर्णोऽथो खलु य एव लोहितो यो वाव्रश्चनान्निर्येषति तस्य नाश्यं काममन्यस्य ॥ (*sa vanaspatīnupāsīdadasyai brahmahatyāyai tṛtīyaṃ pratigṛhṇīteti te 'bruvan varaṃ vṛṇāmahai vṛkṣātparābhaviṣyaṃto manyāmahe tato mā parābhūmetyāvraścanādyo bhūyāgāṃsa uttiṣṭhānityabravīttasmādāvraścanādvṛkṣāṇāṃ bhūyāgṃsa uttiṣṭhaṃti vārevṛtags haiṣāṃ tṛtīyaṃ brahmahatyāyai pratyagṛhṇans niryāso 'bhavattasmānniryāsasya nāśyaṃ brahmahatyāyai hyeṣa varṇo 'tho khalu ya eva lohito yo vāvraścanānniryeṣati tasya nāśyaṃ kāmamanyasya ‖*)
+
+Then Indra went near the trees and said: "O trees, take one third of my fault of brahmin-slaying." The trees replied: "Then we ask a boon: people cut the branches and so on of a tree, and that brings us harm. Grant that it may not be so." Indra said: "Very well; when a branch is cut, let more shoots sprout around the cut part." So he gave the boon. Therefore, as the trees asked, when branches are cut, more shoots sprout at that place. Then the trees, as they had said, accepted one third of Indra's brahmin-slaying. The sap that comes out when a tree is cut is the sign of this brahmin-slaying. Therefore no one should drink the sap that flows out of a cut tree, because it is the colour of brahmin-slaying. Or, if the sap flowing from the cutting of a tree is red, it should not be drunk; if it is not so, it may be drunk if one wishes.
+
+स स्त्रीषग्ंसादमुपासीददस्यै ब्रह्महत्यायै तृतीयं प्रतिगृह्णीतेति ता अब्रुवन्वरं वृणामहा ऋत्वियात् प्रजां विंदामहै काममाविजनितोः संभवामेति तस्मादृत्वियात् स्त्रियः प्रजां विंदंते काममा विजनितोः संभवंति वारेवृतग्स् ह्यासां तृतीयं ब्रह्महत्यायै प्रत्यगृह्णन्ता मलवद्वासा अभवत् ॥ (*sa strīṣagṃsādamupāsīdadasyai brahmahatyāyai tṛtīyaṃ pratigṛhṇīteti tā abruvanvaraṃ vṛṇāmahā ṛtviyāt prajāṃ viṃdāmahai kāmamāvijanitoḥ saṃbhavāmeti tasmādṛtviyāt striyaḥ prajāṃ viṃdaṃte kāmamā vijanitoḥ saṃbhavaṃti vārevṛtags hyāsāṃ tṛtīyaṃ brahmahatyāyai pratyagṛhṇantā malavadvāsā abhavat ‖*)
+
+### Printed p. 630
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 11; p. 630.*
+
+Next Indra went to the company of women and said to them: "O women, take the remaining third of my fault of brahmin-slaying." The women replied: "Then we ask a boon: after our monthly course (after the ritual bath) we should bear children, and until delivery we should be able to find satisfaction of desire in union, if we wish." Indra said: "So be it." Therefore women obtain offspring after the course and, until delivery, have union at their wish. For this is the boon they asked. Then those women took one third of Indra's brahmin-slaying. The flow (rajas) that comes when women have their course is the sign of this brahmin-slaying. At the time of the flow (the course) women are impure (unclean).
+
+तस्मान्मलवद्वाससा न संवदेत न सहासीत नास्या अन्नमद्याद्ब्रह्महत्यायै हैषा वर्णं प्रतिमुच्यास्तेऽथो खल्वाहुरभ्यंजनं वाव स्त्रिया अन्नमभ्यंजनमेव न प्रतिगृह्यं काममन्यदिति ॥ (*tasmānmalavadvāsasā na saṃvadeta na sahāsīta nāsyā annamadyādbrahmahatyāyai haiṣā varṇaṃ pratimucyāste 'tho khalvāhurabhyaṃjanaṃ vāva striyā annamabhyaṃjanameva na pratigṛhyaṃ kāmamanyaditi ‖*)
+
+Therefore one should not speak with a woman having her course, nor sit with her, nor eat food given or touched by her; for she wears the sign of brahmin-slaying, the impure flow. During the course no oil-anointing and the like should be done, and no one should accept food and the like from her (touched by her).
+
+यां मलवद्वाससग्ं संभवंति यस्ततो जायते सोऽभिशस्तो यामरण्ये तस्यै स्तेनो यां पराचीं तस्यै ह्रीतमुख्यपगल्भो या स्नाति तस्या अप्पु मारुको याभ्यंक्ते तस्यैदुश्चर्मा या प्रलिखते तस्यै खलतिरपमारी यांक्ते तस्यै काणो या दतो धावते तस्यै श्यावदन् या नखानि निकृंतते तस्यै कुनखी या कृणत्ति तस्यै क्लीबो या रज्जुग्ं सृजति तस्या उद्बंधुको या पर्णॆन पिबति तस्या उन्मादुको या खर्वॆण पिबति तस्यै खर्वस्तिस्रो रात्रीर्वतं चरेदंजलिना वा पिबेदखर्वण वा पात्रेण प्रजाय्कॆ गोपीथाय ॥ (*yāṃ malavadvāsasagṃ saṃbhavaṃti yastato jāyate so 'bhiśasto yāmaraṇye tasyai steno yāṃ parācīṃ tasyai hrītamukhyapagalbho yā snāti tasyā appu māruko yābhyaṃkte tasyaiduścarmā yā pralikhate tasyai khalatirapamārī yāṃkte tasyai kāṇo yā dato dhāvate tasyai śyāvadan yā nakhāni nikṛṃtate tasyai kunakhī yā kṛṇatti tasyai klībo yā rajjugṃ sṛjati tasyā udbaṃdhuko yā parṇèna pibati tasyā unmāduko yā kharvèṇa pibati tasyai kharvastisro rātrīrvataṃ caredaṃjalinā vā pibedakharvaṇa vā pātreṇa prajāykè gopīthāya ‖*)
+
+(Tai. Saṃ. 2-5-1-1 to 7)
+
+If one has union with a woman during her course, the son born of it becomes cursed; if a woman in her course has union in the forest, the son born to her becomes a thief; if the union is with the face covered or turned away, the son born becomes a bashful fellow who from shame cannot speak properly with anyone; to a woman who bathes during the course a son is born who will die drowned in water; (the text breaks off here, at the end of p. 630, in the middle of the account of the woman who anoints herself with oil)
+
 ---
 
-**Progress note:** Done through printed p. 627 (PDF 627). Rk 19 Pratipadartha-Bhavartha and Special Topics on Trita and Visvarupa
+**Progress note:** Done through printed p. 630 (PDF 630). Special Topics on Trita and Visvarupa (Taittiriya-samhita 2-5-1) continued; text breaks off mid-sentence at end of p. 630
