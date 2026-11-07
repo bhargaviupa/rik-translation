@@ -7389,6 +7389,108 @@ Having so far described in many ways the heroic deeds of Indra, the seer now, in
 
 Translation—This sūkta beginning प्र घा नस्वस्य (*pra ghā nasvasya*) [as supplied; the Sanskrit above reads प्र घा नव्य (*pra ghā navya*)] is the fourth sūkta in the second anuvāka. It has ten ṛks. Gṛtsamada is the seer of this sūkta, Indra the deity, Triṣṭubh the metre. The Anukramaṇikā says प्र घ दश (*pra gha daśa*) and so on. In the sacrifice called Daśarātra, on the sixth day, when the Niṣkevalya śastra mantras are recited, three sūktas are recited; of them this sūkta is the second. This matter is set out in the Āśvalāyana Śrauta-sūtra, in the section षष्ठस्य (*ṣaṣṭhasya*), by the sūtra एंद्र याह्युप नः प्र घा नस्व्याभूरेक इति निष्केवल्यं (*eṃdra yāhyupa naḥ pra ghā nasvyābhūreka iti niṣkevalyaṃ*) (Ā. 8-1) [as supplied; the Sanskrit above has Ā. 9-1]. Also in the Niṣkevalya śastra mantras recited in the sacrifice called Traikamāmaka, one Ṛk, the first Ṛk of this sūkta, प्र घा नस्वस्य (*pra ghā nasvasya*), is to be recited, as set out in the Āśvalāyana Śrauta-sūtra by the sūtra त्र्यर्यमा मनुषो देवता प्र घा नस्वस्य महतो महानि (*tryaryamā manuṣo devatā pra ghā nasvasya mahato mahāni*) (Ā. 9-5).
 
+### Printed p. 754
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 3 (as printed), Sūkta 15; p. 754.*
+
+## Sūkta 15 (Maṇḍala 2)
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 15. Maṇḍala 2, Anuvāka 2, Sūkta 15. Aṣṭaka 2, Adhyāya 6, Varga 15, 16. Number of ṛks in the sūkta: 10. Seer: Gṛtsamada (printed गृत्समदॆः (*gṛtsamadèḥ*)). Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र घा॒ न्व॑स्य मह॒तो म॒हानि॑ स॒त्या स॒त्यस्य॒ कर॑णानि वोचं ।
+> त्रिक॑द्रुकेष्वपिबत्सु॒तस्या॒स्य मदे॒ अहि॒मिंद्रो॑ जघान ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> प्र । घ । नु । अस्य । महतः । महानि । सत्या । सत्यस्य । करणानि । वोचं ।
+> त्रिकद्रुकेषु । अपिबत् । सुतस्य । अस्य । मदे । अहिं । इंद्रः । जघान ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> गृत्समदो ब्रूते । महतो बलवतः सत्यस्य सत्यसंकल्पस्यास्येंद्रस्य सत्यानि
+> यथार्थानि महानि महांति करणान्यस्मिन् सूक्ते वक्ष्यमाणानि कर्माणि नु अद्य
+> प्र वोचं । प्रकर्षण ब्रवीमि ॥ वच परिभाषणे । छंदसि लुङ्ङिट् इति वर्तमाने
+> लुजि अस्यतिवक्तिख्यातिभ्योऽज् । वच उम् ॥ घेति प्रसिद्दौ । कानि तानि उच्यंते!
+> त्रिकद्रुकेषु ज्योतिर्गौरायुरित्येवंरूपेष्वाभिप्लविकेष्टहःसु सुतस्याभिषुतं सोम-
+> मिंद्रोऽपिबत् । ततः पीतस्यास्य सोमस्य मदे हर्षॆ संजाते सतींद्रोऽहिं
+> वृत्रमसुरं जघान । हतवान् ॥
+
+*Gist:* Gṛtsamada speaks: I now proclaim the true, great deeds of the mighty and truthful Indra; at the Trikadruka days he drank the pressed Soma and, in the joy of it, slew Ahi (Vṛtra).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+महतः (*mahataḥ*)—endowed with power, and सत्यस्य (*satyasya*)—of truthful nature; अस्य (*asya*)—of this Indra. सत्या (*satyā*)—what is real, महानि (*mahāni*)—endowed with great qualities; करणानि (*karaṇāni*)—of the deeds, the distinction (continued on the next page).
+
+### Printed p. 755
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 15; Ṛgveda-saṃhitā; p. 755.*
+
+**Pratipadārtha (continued)**
+
+वैशिष्ट्यवन्नु (*vaiśiṣṭyavannu*) (the distinction). नु (*nu*)—now. प्र वोचं (*pra vocaṃ*)—I shall declare, proclaiming in an exceptional manner. घ (*gha*)—that is to say. त्रिकद्रुकेषु (*trikadrukeṣu*)—on the days of the Trikadruka. सुतस्य (*sutasya*)—the pressed Soma juice. अपिबत् (*apibat*)—(Indra) drank. अस्य (*asya*)—from drinking this Soma juice. मदे (*made*)—when joy arose. इंद्रः (*iṃdraḥ*)—Indra. अहिं (*ahiṃ*)—the demon Vṛtra. जघान (*jaghāna*)—slew.
+
+**भावार्थ (Bhāvārtha)**
+
+I shall now proclaim in an exceptional manner the distinction of the deeds of Indra, who is endowed with power and truthful in nature, deeds that are real and endowed with great qualities. That is: on the days of the Trikadruka Indra drank the pressed Soma juice, and when joy arose from drinking this Soma juice Indra slew the demon Vṛtra.
+
+**Printed English translation**
+
+Verily, I proclaim the great and authentic deeds of the mighty and true(Indra); of him who drank the effused juices at the Trikadruka rites, and in his exhilaration slew Ahi.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this sūkta it is described how Indra drank Soma and, in the joy that arose from it, performed various heroic deeds. In each Ṛk one or two heroic deeds of Indra are described, and the statement that Indra did such a deed in the exhilaration of drinking Soma is made by the sentence सोमस्य ता मद इंद्रश्चकार (*somasya tā mada iṃdraścakāra*). This sentence is repeated at the end of every Ṛk like a refrain (the supplied text prints परितवागिदॆ (*paritavāgidè*), evidently a slip for the word meaning "repeated").
+
+The word घ (*gha*) is used in the sense of "well known". For the convenience of the metre the vowel is lengthened in the Saṃhitā-pāṭha.
+
+प्र घ नु अस्य महतः महानि सत्या सत्यस्य करणानि वोचं (*pra gha nu asya mahataḥ mahāni satyā satyasya karaṇāni vocaṃ*)—the commentary says: बलवतः सत्यसंकल्पस्येंद्रस्य यथार्थानि वक्ष्यमाणानि महांति कर्माणि आद्य प्रकर्षण ब्रवीमि (*balavataḥ satyasaṃkalpasyeṃdrasya yathārthāni vakṣyamāṇāni mahāṃti karmāṇi ādya prakarṣaṇa bravīmi*). That is: I shall now describe well the real and grand deeds, many and heroic, of Indra, who is endowed with great strength and valour; the seer says this in the opening sentence of the sūkta, and accordingly in every Ṛk he describes some qualities or deeds of Indra and says that Indra did such a deed in the elation of drinking Soma.
+
+त्रिकद्रुकेषु अपिबत् सुतस्य अस्य मदेः अहिं इंद्रः जघान (*trikadrukeṣu apibat sutasya asya madeḥ ahiṃ iṃdraḥ jaghāna*) (so printed, मदेः (*madeḥ*))—Indra drank the Soma pressed and prepared on the first three days, called Jyotiḥ, Gauḥ and Āyuḥ, of the sacrifice named Abhiplava, and by its exhilaration (joy) destroyed the demon Vṛtra; thus the slaying of Vṛtra, the chief heroic deed of Indra,
+
+### Printed p. 756
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 15; p. 756.*
+
+**Special Topics (continued)**
+
+is described at the beginning. The various meanings of the word अहि (*ahi*) we have explained at length before.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अ॒वं॒शे द्याम॑स्तभायद्बृ॒हंत॒मा रोद॑सी अप्पणदं॒तरि॑क्षं ।
+> स धा॑रयत्पृथि॒वीं प॒प्रथ॑च्च॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+**॥ पदपाठः ॥**
+
+> अवंशे । द्यां । अस्तभायत् । बृहंतं । आ । रोदसी इति । अपृणत् । अंतरिक्षं ।
+> सः । धारयत् । पृथिवीं । प्रप्रथत् । च । सोमस्य । ता । मदे । इंद्रः । चकार ॥२॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अवंश आकाशे द्यां द्योतमानं सूर्यं द्युलोकं वास्तभायत् ।
+> इंद्रोऽस्तभ्नात् । अनवलंबनस्य तस्यावस्थापनमकरोदित्यर्थः ॥ स्तंभु इति सौत्रो
+> धातुः क्रादिः । लजु व्यत्ययो बहुलमित्यहावपि शायजादेशः ॥ बृहंतं महदंत-
+> रिक्षं रोदसी द्यावापृथिव्यौ चापृणत् । स्वतेजसा पूरितवान् । किंच स इंद्रः पृथि-
+> वीं विस्तीर्णां भूमिं धारयत् । आधारयत् । तथा पप्रथच्च । एनां भूममप्रथ-
+> यत् ॥ प्रथ प्रख्याने । ण्यंतस्य लुजु चजु रूपं । चङ्गन्यतरस्यामिति मध्योदा-
+> त्तत्वं ॥ सोमस्य मदे हर्षे संजाते सति तानीमानि कर्माणींद्रश्चकार ॥
+
+*Gist:* Indra, in the empty sky, fixed heaven (or the sun), filled the great atmosphere and the two worlds with his splendour, held the earth and spread it out; all this in the exhilaration of Soma.
+
+The grammatical remarks of the commentary (the root *stambh*, the substitution of the Vedic ending, the root *prath* in the causative aorist and its accent) are not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अवंशे (*avaṃśe*)—in the sky, which has no support. द्यां (*dyāṃ*)—the heaven, or the shining sun (the supplied text prints सूरनन्नु (*sūranannu*)). अस्तभायत् (*astabhāyat*)—established. बृहंतं (*bṛhaṃtaṃ*)—great. अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere also. रोदसी (*rodasī*)—heaven and earth. आपृणत् (*āpṛṇat*)—filled (with his splendour). सः (*saḥ*)—that Indra. पृथिवीं (*pṛthivīṃ*)—the extended earth (printed विस्त्रतवाद (*vistratavāda*)). धारयत् (*dhārayat*)—held up. पप्रथच्च (*paprathacca*)—and made it known so that it is famous in the world. सोमस्य (*somasya*)—from drinking Soma juice. मदे (*made*)—when joy arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—performed.
+
 ---
 
-**Progress note:** Done through printed p. 753 (PDF 753). Sukta 14 Rk 12 end, Sukta 15 intro (pp. 751-753)
+**Progress note:** Done through printed p. 756 (PDF 756). Sukta 15 Rk 1 and Rk 2 start (Samhita, Pada, bhashya, Pratipadartha)
