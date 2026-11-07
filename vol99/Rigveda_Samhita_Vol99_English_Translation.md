@@ -3227,6 +3227,83 @@ and Vṛtra, the son of Dānu (Danu), is here called by the name Dānava.
 
 Vṛtra's mother is named Dānu, and she is compared to a cow (Ṛ. Saṃ. 1-32-9). This same word (dānu) in the neuter gender means a stream, and in the feminine heavenly water (the passage runs on to the next page)
 
+### Printed p. 604
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 1, Sūkta 11, p. 604.*
+
+denotes. These two words may be one and the same. This same word is used in the masculine for the Asura Vṛtra; probably it is that name because he was the son of Dānu (Ṛ. Saṃ. 2-12-11; 4-30-7). In the same way the name is given to Vṛtra, who is like an Aurṇavābha (a spider) (2-11-18), and to the seven Rākṣasas slain by Indra (10-120-6). The word dānava, formed from the word dānu (giving the sense "son of Dānu"), denotes the Rākṣasa who fought with Indra (probably the Asura Vṛtra). It is said in the present Ṛk that Indra removed all the māyās (tricks) of the deceitful Dānava. And it is said that he struck down the roaring Dānava (5-29-4), and afterwards released the waters (5-32-1). In this sūkta are described, with slight differences, the very matters relating to the slaying of Vṛtra that are told in the thirty-second sūkta of the first Maṇḍala (the sūkta beginning इंद्रस्यनु वीर्याणि (*iṃdrasyanu vīryāṇi*)).
+
+अरोरवीत् वृष्णो अस्य वज्रो अमानुषं (*aroravīt vṛṣṇo asya vajro amānuṣaṃ*) (Aroravīt vṛṣṇo asya vajro amānuṣaṃ)—For the word अमानुषं (*amānuṣaṃ*) (amānuṣaṃ) here the bhāṣyakāra gives two meanings, in the words यद्यदा अमानुषं मनुष्याणां रहितं । यद्वामानुषोऽहं न भवामीत्येवं मन्यमानं तमसुरं (*yadyadā amānuṣaṃ manuṣyāṇāṃ rahitaṃ | yadvāmānuṣo 'haṃ na bhavāmītyevaṃ manyamānaṃ tamasuraṃ*): that is, the Asura Vṛtra who is devoid of men (human beings), or who, thinking "I am not a mere insignificant man", struts about in arrogance. The chief sense of the sentence is that when Indra was slaying Vṛtra he made, with his thunderbolt, an exceedingly terrible sound (thunder). It is stated here that the lightning, which flashes very brightly and suddenly in the sky while rain is falling, is Indra's thunderbolt, and that since the thunder and rumbling, full of great noise, are heard within an extremely short time after the lightning is seen, that sound arose from Indra's use of the thunderbolt.
+
+नि मायिनः दानवस्य मायाः अपादयत् पपिवान् सुतस्य (*ni māyinaḥ dānavasya māyāḥ apādayat papivān sutasya*) (Ni māyinaḥ dānavasya māyāḥ apādayat papivān sutasya)—In this sentence of the second half of the Ṛk it is stated that Indra drank Soma and destroyed the deceits of his enemies. It is said here and there that in such deeds as the slaying of Vṛtra also, Indra drank Soma and increased his strength and power:
+
+त्रिकद्रुकेष्वपिबत्सुतस्यास्य मदे अहिमिंद्रो जघान (*trikadrukeṣvapibatsutasyāsya made ahimiṃdro jaghāna*) (Ṛ. Saṃ. 2-15-1)
+
+अस्य मंदानो मध्यो वज्रहस्तोऽहिमिंद्रो अर्णोवृतं वि वृश्चत् (*asya maṃdāno madhyo vajrahasto 'himiṃdro arṇovṛtaṃ vi vṛścat*) (Ṛ. Saṃ. 2-19-2)
+
+उतो न्व १ स्य पपिवांसमिंद्रं न कश्चन सहत आहवेषु । अयं स्वादुरिह मदिष्ट आस यस्येंद्रो वृत्रहत्ये ममाद (*uto nva 1 sya papivāṃsamiṃdraṃ na kaścana sahata āhaveṣu | ayaṃ svāduriha madiṣṭa āsa yasyeṃdro vṛtrahatye mamāda*) (Ṛ. Saṃ. 6-47-1, 2)
+
+In these and other Ṛks the idea is described that the Soma drunk by Indra gave great help in the work of slaying Vṛtra.
+
+### Printed p. 605
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 5; Ṛgvedasaṃhitā, p. 605.*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> पिबा॑पि॒बेदिं॑द्र शूर॒ सोमं॒ मंदं॑तु त्वा म॒ुंदिनः॑ सु॒तासः॑।
+> पृ॒णंत॑स्ते कु॒क्षी व॑र्धयंत्वि॒त्था सु॒तः पौ॒र इंद्र॑माव ॥११॥
+
+**॥ पदपाठः ॥**
+
+> पिबपिब । इत् । इंद्र । शूर । सोमं । मंदंतु । त्वा । मंदिनः । सुतासः ।
+> पृणंतः । ते । कुक्षी इति । वर्धयंतु । इत्था । सुतः । पौरः । इंद्रं । आव ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> शूर बलवन् हे इंद्र पिब पिबेत् । अभिषुतमिमं सोमं पिबैव । आदरा-
+> र्थैषा वीप्सा । मंदिनो मदकराः सुतास्तेऽभिषुताः सोमास्त्वा मंदंतु । त्वां
+> मादयंतु ॥ मदि स्तुत्यादिषु । व्यत्ययेन परस्मैपदं ॥ ते सोमास्ते तव कुक्षि
+> उदरस्योभौ पार्श्वा पृणंतः पूरयंतः संतस्त्वां वर्धयंतु । इत्थानेन प्रकारेण
+> पौर उदरपूरकः सुतोऽभिषुतः सोम इंद्रं त्वामाव । तर्पयतु ॥ अवतेस्तर्प-
+> णार्थस्य लिटि रूपं ॥
+
+*Gist: Indra is urged to drink the pressed Soma; the exhilarating juices will please him and fill his flanks, and the Soma that fills the belly will satisfy him; āva is a perfect form of the root meaning "to satisfy".*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śūra—mighty. Indra—O Indra. Somaṃ—the Soma juice. Pibapibet [sic, as supplied; the Pada has pibapiba, it]—drink fully. Mandinaḥ—the gladdening. Sutāsaḥ—and pressed (Soma juices). Tvā—you. Mandantu—may they satisfy (and). Te—your. Kukṣī—the two flanks of the belly. Hṛṇantaḥ [sic, "ಹೃಣಂತಃ" as supplied; the Pada has pṛṇantaḥ]—filling. Vardhayentu [sic, as supplied]—may they cause to grow. Itthā—in this manner. Pauraḥ—the belly-filling. Sutaḥ—the pressed. Soma. Indraṃ—you, the lord. Āva—may it satisfy.
+
+**भावार्थ (Bhāvārtha)**
+
+O mighty Indra, drink fully this offered Soma juice. May the gladdening, pressed Soma juices satisfy you, and, filling the two flanks of your belly, make you grow. In this manner may the Soma juice that fills the belly, being pressed, satisfy you, the lord.
+
+### Printed p. 606
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 1, Sūkta 11, p. 606.*
+
+**Printed English translation**
+
+Drink, hero, Indra, drink the Soma: may the exhilarating juices delight you:may they, distending your flanks, augment(your prowess), and in this manner may the replenishing effused libation satisfy Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk speaks of Indra's drinking of Soma. In the Ṛgveda, in inviting the gods to drink Soma, no other god has been called as much as Indra. On the gods' drinking of Soma:
+
+माद्यंतीव वै मध्यंदिने देवताः समेव तृतीयसवने मादयंते (*mādyaṃtīva vai madhyaṃdine devatāḥ sameva tṛtīyasavane mādayaṃte*) (Ai. Brā. 28-3)
+
+that is, at the midday pressing (at noon) the gods drink Soma; and at the third pressing (in the evening) the gods drink Soma to excess and become intoxicated (gladdened). There are descriptions, in Ṛks such as Ṛ. Saṃ. 1-4-8; 1-32-3; 1-84-1; 2-15-1; 2-15-2; 2-19-1; 2-21-1; 3-36-3; 3-40-1; 3-42-1; 6-23-1, 5, 6; 6-27-1; 6-29-4; 7-22-1; 7-29-1; 8-3-1; 8-81-5, 6; 10-104-1, of the invitation to Indra to drink Soma, or of Indra being gladdened (or having been gladdened) by the drinking of Soma.
+
+आर्वाजेहि सोमकामं त्वाहुरयं सुतस्तस्य पिबा मदाय । उरुव्यचा जठर आ वृषस्व पितेव नः शृणुहि हूयमानः (*ārvājehi somakāmaṃ tvāhurayaṃ sutastasya pibā madāya | uruvyacā jaṭhara ā vṛṣasva piteva naḥ śṛṇuhi hūyamānaḥ*) (Ma. Saṃ. 1-104-9 [sic, "ಮ. ಸಂ." as supplied for Ṛ. Saṃ.])
+
+In this Ṛk the extreme eagerness of Indra for Soma-drinking is described thus: "O Indra, the wise say that Soma juice is very dear to you. We have pressed this Soma juice for you. Therefore come toward us and drink that Soma juice for your delight. Since your limbs are broad and far-spreading, distend your belly and fill it with that juice. As a father hears his children's words, so hear our call when we invite you with praise." And:
+
+इंद्र इत्सोमपा एक इंद्रः सुतपा विश्वायुः । अंतर्दे नान्मर्त्यांश्च (*iṃdra itsomapā eka iṃdraḥ sutapā viśvāyuḥ | aṃtarde nānmartyāṃśca*) (Mi. Saṃ. 8-2-4 [sic, "ಮಿ. ಸಂ." as supplied for Ṛ. Saṃ.])
+
+In this Ṛk it is also said that among gods and among men it is Indra who drinks Soma to the greatest degree.
+
 ---
 
-**Progress note:** Done through printed p. 603 (PDF 603). Maṇḍala 2 Sūkta 11 Ṛk 9 bhāṣya ends; Ṛk 10 begins (Saṃhitā and Pada from the picture); window ends inside the Special Topics of Ṛk 10.
+**Progress note:** Done through printed p. 606 (PDF 606). Sukta 11 Rk 10 Special Topics ends; Rk 11 complete
