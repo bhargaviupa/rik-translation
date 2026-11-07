@@ -6219,6 +6219,77 @@ Your heroism, hero, is to be glorified, by which, with a single effort, you have
 
 सुप्रवाचनं तव वीर वीर्यं (*supravācanaṃ tava vīra vīryaṃ*) — हे बलवन्निंद्र तव वीर्यं सामर्थ्यं सुष्टु प्रवचनीयं सर्वैः श्लाघनीयमित्यर्थः (*he balavanniṃdra tava vīryaṃ sāmarthyaṃ suṣṭu pravacanīyaṃ sarvaiḥ ślāghanīyamityarthaḥ*). O valiant Indra, your
 
+### Printed p. 712
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 712.*
+
+(Special Topics of Ṛk 11, continued from the previous page.) power is praised by all. Here "heroism" means Indra's special capacity or his deed of daring. Which deed that is, is explained in the next sentence.
+
+यत् एकेन क्रतुना विंदसे वसु (*yat ekena kratunā viṃdase vasu*) — by one deed you gain the wealth of enemies; or, you bring that wealth to us who praise you; and that is what is to be praised. The word क्रतु (*kratu*) is read among the names for "action" (Nirukta 3-1), so क्रतुना (*kratunā*) means "by a deed" or "by a deed of daring". Defeating enemies is that deed. By one such deed, the overthrow of enemies, you acquire wealth or bring that wealth to us, your praisers. Whatever deed so defeats the enemy and brings us wealth is praised by all; this is how it connects with the previous sentence.
+
+जातूस्थिरस्य प्र वयः सहस्वतः (*jātūsthirasya pra vayaḥ sahasvataḥ*) — you gave food (वयः (*vayaḥ*)) to Jātūsthira, who is mighty (सहस्वतः (*sahasvataḥ*)). The word सहस् (*sahas*) is read among the names for "strength" (Nirukta 3-9), so सहस्वतः (*sahasvataḥ*) means "possessing strength". O Indra, you helped a mighty man named Jātūsthira by supplying him with food; this too is one of your deeds of daring. The name Jātūsthira occurs in the Ṛgveda only in this Ṛk, nowhere else. So who he was, what his story was, and why Indra helped him with food cannot be stated. Perhaps, when this Jātūsthira was in distress without food, Indra supplied him with it at his prayer; that is what is said here.
+
+The commentator also gives another sense (the Sanskrit alternative beginning जातूष्ठिरस्य (*jātūṣṭhirasya*)): जातु (*jātu*) "ever, always", so the word could mean a sacrifice that is steady because it is always performed by people; सहस्वतः (*sahasvataḥ*) could mean "strong", that is, endowed with greatness or giving abundant fruit. Then the meaning is: O Indra, in the sacrifices and other rites that people always perform, which give abundant fruit, you receive food in the form of oblation. But since the sense "possessing strength, valiant" suits सहस्वतः (*sahasvataḥ*) properly, the meaning that जातूस्थिरस्य (*jātūsthirasya*) denotes a man of that name is the fitting one.
+
+या चकर्थ सः इंद्र विश्वा असि उक्तः (*yā cakartha saḥ iṃdra viśvā asi uktaḥ*) — O Indra, because of the daring deeds of the kind mentioned above that you have done, you are praiseworthy; that is, people praise you for the deeds of daring you have done. This is the main purport.
+
+### Printed p. 713
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 12; Ṛgveda-saṃhitā; p. 713.*
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> अर॑मयः॒ सर॑पस॒स्तरा॑य॒ कं तु॒र्वीत॑ये च व॒य्या॑य च स्तु॒तिं ।
+> नी॒चा संत॒मुद॑नयः परा॒वृजं॒ प्रान्थं श्रो॒णं श्र॒वय॒न्तास्यु॒क्थैः॑ ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> अरमयः । सरऽपसः । तराय । कं । तुर्वीतये । च । वय्याय । च । स्तुतिं ।
+> नीचा । संतं । उत् । अनयः । परावृजं । प्र । अंधं । श्रोणं । श्रवयन् । सः ।
+> असि । उक्त्यः ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र सरपसः! सरणमसः कर्म यासां ताः सरपसः ॥ शंकध्वादित्वात्पर-
+> रूपत्वं ॥ ता अपः कं सुखेन तराय तरणायारमयः । अक्रीडयः । किंच तुर्वि-
+> तये । तुर्वितिर्नाम कश्चिद्राजर्षिः । तस्मै वय्याय च । वय्यो नाम कश्चित् तस्मै ।
+> ताभ्यां स्तुतिं सरणं प्रत्यरमयः । तौ हि जलपूर्णां महानदीं दृष्ट्वा तरीतु-
+> मसमर्थावास्तां । तौ च त्वया तारित् । परावृजं । परितः पापानि वृणक्ति दहतीति
+> परावृक् कश्चिदृषिः । तमप्पु मग्नं तथा नीचा नीचं संतमुदनयः । आपद्भ
+> ऊर्ध्वं नीतवानसि । किंच अंधं संतं श्रोणं पंगुं संतं चक्षुर्दानादपंगु-
+> करणाच्चोदनयः । किं कुर्वन् । प्रकर्षण श्रवयन् । आत्मानं कीर्तिमंतं
+> कुर्वन् । उदनय इति समन्वयः । स इत्यादि सिद्धं ॥
+
+*Gist: Indra made the flowing waters easy to cross for Turviti and Vayya, and raised the fallen, blind and lame Parāvṛj from distress; he is thus praiseworthy.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Indra — O Indra) तुर्वीतये (*turvītaye*) — for the royal sage Turviti; वय्याय च (*vayyāya ca*) — and for Vayya; सरससः (*sarasasaḥ*) — the flowing rivers; कं (*kaṃ*) — comfortably; तराय (*tarāya*) — for crossing; स्रुतिं (*srutiṃ*) — a path; अरमयः (*aramayaḥ*) — you made; प्र श्रवयन् (*pra śravayan*) — making your fame shine; नीचा (*nīcā*) — below; संतं (*saṃtaṃ*) — who was fallen; अंधं (*aṃdhaṃ*) — who was blind; शोणं (*śoṇaṃ*) — who was lame; परावृजं (*parāvṛjaṃ*) — Parāvṛk by name; उदनयः (*udanayaḥ*) — you saved from calamity and lifted up; सः (*saḥ*) — such a you; उक्ष्यः (*ukṣyaḥ*) — worthy of praise; असि (*asi*) — you are.
+
+### Printed p. 714
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 714.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you made a path for the royal sage Turviti and for Vayya to cross the flowing rivers comfortably. Making your fame shine, you saved from calamity and lifted up Parāvṛk, who had fallen below, and was blind and lame. Such a you are worthy of praise.
+
+**Printed English translation of Ṛk 12**
+
+You have provided a passage for the easy crossing of the flowing waters for Turviti and for Vayya: rendering(yourself) renowned, you have uplifted the blind and lame Paravrij from the lowliness(of affliction); you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अरमयः (*aramayaḥ*) — अक्रीडयः (*akrīḍayaḥ*) (you caused to play). Although the root रमु क्रीडायां (*ramu krīḍāyāṃ*) means "to sport, to play", here the meaning "you made, you constructed" can be given.
+
+सरपसः (*sarapasaḥ*) — the Pada-pāṭha authors have divided this word as सरअपसः (*saraapasaḥ*), that is, the two words सर (*sara*) and अपसः (*apasaḥ*) combined should give सरापसः (*sarāpasaḥ*); for the convenience of the metre the long vowel has been shortened to give सरपसः (*sarapasaḥ*). Sāyaṇa explains the word as सरणमपः कर्म यासां ताः सरपसः (*saraṇamapaḥ karma yāsāṃ tāḥ sarapasaḥ*), that is, rivers whose action is to move or flow, whose nature is to flow on.
+
+The commentator's Sanskrit passage, which repeats his bhāṣya on the words Turviti, Vayya and स्तुतिं अरमयः (*stutiṃ aramayaḥ*), is quoted here. Its sense: O Indra, you prepared a way for Turviti and Vayya to cross comfortably the river flowing full with its flood. Turviti is a royal sage; Vayya is a man; when the two, unable to cross the river brimming with floodwater, were in distress, you took them across; this is the commentator's explanation of the sentence.
+
+तुर्वीतये, वय्यायॆ (*turvītaye, vayyāyè*) — an account of Turviti and Vayya is necessary here. In the present Ṛk the commentator says that Turviti is a royal sage, and Vayya is a ... (the page, and this window, ends here in the supplied text, in mid-sentence at वय्यनॆंबु (*vayyanèṃbu*)).
+
 ---
 
-**Progress note:** Done through printed p. 711 (PDF 711). Sukta 13 Rik 10 Pratipadartha end to Special Topics; Rik 11 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English; Special Topics begun
+**Progress note:** Done through printed p. 714 (PDF 714). Sukta 13 Rik 11 Special Topics end, Rik 12 complete to Special Topics begun
