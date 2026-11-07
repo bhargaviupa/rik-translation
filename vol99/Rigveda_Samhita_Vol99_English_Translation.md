@@ -2225,6 +2225,108 @@ I offer oblations with butter to Agni, who spreads through all regions, vast, ex
 
 पृथुं तिरश्चा वयसा बृहंतं (*pṛthuṃ tiraścā vayasā bṛhaṃtaṃ*)—महांतं सर्वतः प्रवर्तमानेन पेशसा प्रवृद्धं (*mahāṃtaṃ sarvataḥ pravartamānena peśasā pravṛddhaṃ*). Because Agni spreads and extends in all places (in forms such as the forest fire), he is here described as having a very extensive and great form.
 
+### Printed p. 571
+
+व्यचिष्ठं अन्नैः रभसं दृशानं (*vyaciṣṭhaṃ annaiḥ rabhasaṃ dṛśānaṃ*)—हविर्लक्षणैरन्नैर्वाप्तं बलवंतमेवंगुणवत्तया दृश्यमानं (*havirlakṣaṇairannairvāptaṃ balavaṃtamevaṃguṇavattayā dṛśyamānaṃ*). Growing strong through oblations, firewood, kindling sticks, clarified butter and the like, and becoming powerful, that is, blazing with flames and with radiance, visible to our eyes and facing us: such is the Agni meant. The sage describes that he will offer oblation and ghee into such an Agni.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> आ वि॒श्वतः॑ प्र॒त्यंचं॑ जिघर्म्यर॒क्षसा॒ मन॑सा॒ तज्जु॑षेत ।
+> मर्य॑श्रीः स्पृह॒यद्व॑र्णो अ॒ग्निर्नाभि॒मृशे॑ त॒न्वा॒३॒॑३जर्भु॑राणः ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । विश्वतः । प्रत्यंचं। जिघर्मि । अरक्षसा । मनसा । तत् । जुषेत ।
+> मर्यश्रीः । स्पृहयत्वर्णः । अग्निः । न । अभिमृशे । तन्वा । जर्भुराणः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> विश्वतः सर्वत्र व्याप्य वर्तमानं प्रत्यंचं यज्ञं प्रत्यागच्छंतमग्निं येन
+> घृतेनाजिघर्मि । आसिंचामि । अरक्षसा बाधकरहितेन मनसा स्तोत्रेण सह तदाज्यं
+> जुषेत । भवान् सेवेत । मर्यॆश्रीः । मर्यैर्मर्त्यैः श्रयणीयो भजनीयः ।
+> स्पृहयद्वर्णः । यादृशं वर्णं यजमानः स्पृहयति तादृशवर्णोपेतः । तना
+> तेजसा जर्भुराणः पूर्यमाणोऽग्निर्नाभिमृशे । अतितेजस्वितयाभिमर्शनीयो
+> न भवति ॥ अभिपूर्वान्मृशेः कृत्यार्थे केन्प्रत्ययः ।
+
+> *viśvataḥ sarvatra vyāpya vartamānaṃ pratyaṃcaṃ yajñaṃ pratyāgacchaṃtamagniṃ yena*
+> *ghṛtenājigharmi | āsiṃcāmi | arakṣasā bādhakarahitena manasā stotreṇa saha tadājyaṃ*
+> *juṣeta | bhavān seveta | maryèśrīḥ | maryairmartyaiḥ śrayaṇīyo bhajanīyaḥ |*
+> *spṛhayadvarṇaḥ | yādṛśaṃ varṇaṃ yajamānaḥ spṛhayati tādṛśavarṇopetaḥ | tanā*
+> *tejasā jarbhurāṇaḥ pūryamāṇo 'gnirnābhimṛśe | atitejasvitayābhimarśanīyo*
+> *na bhavati ‖ abhipūrvānmṛśeḥ kṛtyārthe kenpratyayaḥ |*
+
+*Gist:* Sāyaṇa: I pour ghee into Agni, who pervades everywhere and comes toward the sacrifice; may he accept it with my hostility-free hymn; he is shining in form and cannot be touched because of his excess of radiance. The grammatical tail explains the formation of अभिमृशे (*abhimṛśe*).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विश्वतः (*viśvataḥ*)—of him who pervades everywhere, and प्रत्यंचं (*pratyaṃcaṃ*)—who comes toward the sacrifice, that is, addressing Agni. आ जिघर्मि (*ā jigharmi*)—I offer ghee in the form of a sprinkling. अरक्षसा (*arakṣasā*)—free from anything harmful. मनसा (*manasā*)—offered together with a hymn. तत् (*tat*)—that ghee. जुषेत (*juṣeta*)—may Agni enjoy. मरृश्रीः (*marṛśrīḥ*) [as supplied; the Pada and the bhāṣya read मर्यश्रीः (*maryaśrīḥ*)]—who is worshipped by men. स्पृहयद्वर्णः (*spṛhayadvarṇaḥ*)—who has a colour that attracts the sacrificer, तन्वा (*tanvā*)—with radiance, जर्भुराणः (*jarbhurāṇaḥ*)—who is filled; अग्निः (*agniḥ*)—Agni; नाभिमृशे (*nābhimṛśe*)—is endowed with a brilliance impossible to withstand.
+
+### Printed p. 572
+
+**भावार्थ (Bhāvārtha)**
+
+I offer ghee in the form of a sprinkling to Agni, who pervades everywhere and comes toward the sacrifice; may Agni enjoy that ghee, offered together with a hymn free from anything harmful. Agni, who is worshipped by men, who has a colour that attracts the sacrificer, and who is filled with radiance, is endowed with a brilliance impossible to withstand.
+
+**Printed English translation**
+
+I offer oblations to Agni, who is present at all(sacrifices); may he accept(them), offered with an unhesitating mind,(to him) who is the refuge of man, endowed with any form that may be desired, blazing with a radiance(that it is) not(possible) to endure.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+आ विश्वतः प्रत्यंचं (*ā viśvataḥ pratyaṃcaṃ*)—the meaning is: Agni, who is everywhere and who comes toward the sacrifice.
+
+अरक्षसा मनसा (*arakṣasā manasā*)—बाधकरहितेन मनसा, स्तोत्रेण सह (*bādhakarahitena manasā, stotreṇa saha*). That is, with a mind free from evil thought, with a good mind, with a mind fixed on Agni, or together with a hymn.
+
+मर्यश्रीः (*maryaśrīḥ*)—मर्यैर्मर्त्यैः श्रयणीयो भजनीयः (*maryairmartyaiḥ śrayaṇīyo bhajanīyaḥ*). One who is worshipped by men, or one who is praised.
+
+स्पृहयद्वर्णः (*spṛhayadvarṇaḥ*)—यादृशं वर्णं यजमानः स्पृहयति तादृशवर्णोपेतः (*yādṛśaṃ varṇaṃ yajamānaḥ spṛhayati tādṛśavarṇopetaḥ*). The sacrificer who worships Agni desires Agni to have a certain colour or form; Agni assumes just that form, that is, he assumes the form the sacrificer needs. Such is the sense.
+
+न अभिमृशे (*na abhimṛśe*)—अतितेजस्वितया अभिमर्शनीयो न भवति (*atitejasvitayā abhimarśanīyo na bhavati*). Because Agni shines with excessive radiance, his radiance cannot be endured; this is the sense.
+
+### Printed p. 573
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> ज्ञे॒या भा॒गं स॑हसा॒नो वरे॑ण॒ त्वादू॑तासो मनु॒वद्व॑देम।
+> अनू॑नम॒ग्निं जु॒ह्वा॑ वच॒स्या म॑धु॒पृचं॑ धन॒सा जो॑हवीमि ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> ज्ञेयाः । भागं । सहसानः । वरेण । त्वादूतासः । मनुवत् । वदेम ।
+> अनूनं । अग्निं । जुह्वा । वचस्या । मधुपृचं । धनसाः । जोहवीमि ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वरेण । वारयत्यनेन शत्रूनिति वरं तेजः । तेन सहसानः शत्रूनभिभवन् त्वं
+> भागं भजनीयं स्तोत्रं ज्ञेयाः । जानीहि ॥ आशीर्लिज वान्यस्य संयोगादेः ।
+> पा. ६-४-६८ । इत्येत्वं ॥ त्वादूतासः । त्वं दूतो येषामसि ते त्वादूतासः । यद्वा
+> त्वया प्रेरिता वयं मनुवत् मनुरिव वदेम । स्तोत्रं ब्लूयामः । जुह्वा ।
+> हूयतेऽस्यामिति जुहूर्ज्वाला पात्रविशेषो वा । तयारनूनं संपूर्णं मधु-
+> पृचं मधुना कर्मफलेन यजमानं संयोजयंतमग्निं धनसा धनस्य संभक्ताहं
+> वचस्या स्तुतिकामनया जोहवीमि । आह्वयामि ॥
+
+> *vareṇa | vārayatyanena śatrūniti varaṃ tejaḥ | tena sahasānaḥ śatrūnabhibhavan tvaṃ*
+> *bhāgaṃ bhajanīyaṃ stotraṃ jñeyāḥ | jānīhi ‖ āśīrlija vānyasya saṃyogādeḥ |*
+> *pā. 6-4-68 | ityetvaṃ ‖ tvādūtāsaḥ | tvaṃ dūto yeṣāmasi te tvādūtāsaḥ | yadvā*
+> *tvayā preritā vayaṃ manuvat manuriva vadema | stotraṃ blūyāmaḥ | juhvā |*
+> *hūyate 'syāmiti juhūrjvālā pātraviśeṣo vā | tayāranūnaṃ saṃpūrṇaṃ madhu-*
+> *pṛcaṃ madhunā karmaphalena yajamānaṃ saṃyojayaṃtamagniṃ dhanasā dhanasya saṃbhaktāhaṃ*
+> *vacasyā stutikāmanayā johavīmi | āhvayāmi ‖*
+
+*Gist:* Sāyaṇa: with radiance, overcoming enemies, accept the hymn; we, with you as messenger, speak like Manu; with the ladle I, a seeker of wealth, call Agni with praise. Grammar: ज्ञेयाः (*jñeyāḥ*) is explained with a Pāṇini rule, Pā. 6-4-68.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O Agni) वरेण (*vareṇa*)—with radiance. सहमानः (*sahamānaḥ*) [as supplied; the Pada reads सहसानः (*sahasānaḥ*)]—you who face and defeat enemies. भागं (*bhāgaṃ*)—the hymn worthy of worship. ज्ञेयाः (*jñeyāḥ*)—know. त्वादूतासः (*tvādūtāsaḥ*)—we who know you as the messenger of the gods. मनुवत् (*manuvat*)—as Manu praised formerly. वदेम (*vadema*)—we recite your hymn. जुह्वा (*juhvā*)—with the ladle or with the flame. अन नं (*ana naṃ*) [as supplied; the Saṃhitā and Pada read अनूनं (*anūnaṃ*)]—him who is full. मधुपृचं (*madhupṛcaṃ*)—who unites us with the sweet fruit of rites. अग्निं (*agniṃ*)—Agni. धनसाः (*dhanasāḥ*)—I, who seek wealth. वचस्या (*vacasyā*)—with praise. जोहवीमि (*johavīmi*)—I call.
+
+**भावार्थ (Bhāvārtha)**
+
+You who overcome enemies with your radiance, understand and accept the hymn worthy of worship. We, who know you as the messenger of the gods, recite your hymn as Manu praised you formerly. I, who seek wealth, call with praise Agni, who is full of flame and who unites us with the sweet fruit of rites.
+
 ---
 
-**Progress note:** Done through printed p. 570 (PDF 570). Sukta 10 Rik 3 Bhavartha end, Special Topics; Rik 4 Samhita/Pada/bhashya, Pratipadartha, Bhavartha, printed English, Special Topics begun
+**Progress note:** Done through printed p. 573 (PDF 573). Sukta 10 Rik 4 Special Topics end; Rik 5 complete; Rik 6 Samhita to Bhavartha, printed English follows
