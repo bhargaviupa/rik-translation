@@ -4578,6 +4578,83 @@ In the first quarter of this Ṛk the use of the word यः (*yaḥ*) (the rela
 > *yaḥ | hatvā | ahiṃ | ariṇāt | sapta | siṃdhūn | yaḥ | gāḥ | utājat | apadhā |*
 > *valasya |*
 
+### Printed p. 652
+
+*Running head: [652 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+> यः । अश्मनोः । अंतः । अग्निं । जजान । संवृक् । समत्सु । सः । जनासः ।
+> इंद्रः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> योऽहिं मेघं हत्वा मेघहननं कृत्वा सप्त सर्पणशीलाः सिंधून् स्यंदन-
+> शीला अपोऽरिणात् । प्रैरयत् । यद्वा सप्त गंगायुमुनाद्या मुख्या नदीररि-
+> णात् ॥ रीज् स्रवणे क्रादिः ॥ यश्च वलस्य वलनामकस्यासुरस्यापधा तत्कर्तृकान्नि-
+> रोधान्निरुद्धा गा उदाजत् । निरगमयत् ॥ अपधा । अपपूर्वाद्भधातेरातश्चो-
+> पसर्गे । पा- ३-३-१०६ । इति भार्वेऽज् प्रत्ययः । सुपां सुलुगिति पंचम्या आकारः ॥
+> यश्चाश्मनोः । अश्नुते व्याप्त्यंतरिक्षमित्यश्मा मेघः ॥ अत्यंतमृदुरूपयो-
+> र्मेघयोरंतर्मध्यॆ वैद्युतमग्निं जजान । उत्पादयामास । यश्च समत्तु ।
+> संभक्षयंति योद्धरणामायूंषीति समदः संग्रामाः । तेषु संवृक् भवति ॥
+> वृणक्तेर्हिंसार्थस्य क्विपि रूपं ॥ स इंद्रो नाहमिति ॥
+
+> *yo 'hiṃ meghaṃ hatvā meghahananaṃ kṛtvā sapta sarpaṇaśīlāḥ siṃdhūn syaṃdana-*
+> *śīlā apo 'riṇāt | prairayat | yadvā sapta gaṃgāyumunādyā mukhyā nadīrari-*
+> *ṇāt ‖ rīj sravaṇe krādiḥ ‖ yaśca valasya valanāmakasyāsurasyāpadhā tatkartṛkānni-*
+> *rodhānniruddhā gā udājat | niragamayat ‖ apadhā | apapūrvādbhadhāterātaśco-*
+> *pasarge | pā- 3-3-106 | iti bhārve 'j pratyayaḥ | supāṃ sulugiti paṃcamyā ākāraḥ ‖*
+> *yaścāśmanoḥ | aśnute vyāptyaṃtarikṣamityaśmā meghaḥ ‖ atyaṃtamṛdurūpayo-*
+> *rmeghayoraṃtarmadhyè vaidyutamagniṃ jajāna | utpādayāmāsa | yaśca samattu |*
+> *saṃbhakṣayaṃti yoddharaṇāmāyūṃṣīti samadaḥ saṃgrāmāḥ | teṣu saṃvṛk bhavati ‖*
+> *vṛṇakterhiṃsārthasya kvipi rūpaṃ ‖ sa iṃdro nāhamiti ‖*
+
+*Gist:* "He who, having slain the cloud, set the seven flowing waters (or the seven chief rivers such as the Gaṅgā and Yamunā) in motion; who drove out the cows held back by Vala; who produced lightning between two clouds; who is irresistible in battles: he is Indra, not I." The grammatical tail (roots रीज् (*rīj*), वृणक्तेः (*vṛṇakteḥ*) and the formation अपधा (*apadhā*)) is not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यः (*yaḥ*) — who. अहिं (*ahiṃ*) — the cloud. हत्वा (*hatvā*) — having slain. सप्त (*sapta*) — seven in number, and सिंधून् (*siṃdhūn*) — flowing waters (the rivers Gaṅgā and the others). अरिणात् (*ariṇāt*) — released and made to flow. यः (*yaḥ*) — who. वलस्य (*valasya*) — of the asura named Vala. अपधा (*apadhā*) — caught in the obstruction. गाः (*gāḥ*) — the cows. उदाजत् (*udājat*) — released. यः (*yaḥ*) — who. अश्मनोः (*aśmanoḥ*) — of the clouds. अंतः (*aṃtaḥ*) — in the middle region. अग्निं (*agniṃ*) — the fire in the form of lightning. जजान (*jajāna*) — created (and). समत्सु (*samatsu*) — in battles. संवृक् (*saṃvṛk*) — remains unobstructed. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who slew the cloud and made the seven flowing rivers, the Gaṅgā and the others, run; who released the cows caught in the obstruction of the asura named Vala; who created the fire in the form of lightning in the middle region of the clouds; and who remains unobstructed in battles: he is Indra.
+
+**Printed English**
+
+He, who having destroyed Ahi, set free the seven rivers; who re-covered the cows detained by Vala; who generated fire in the clouds: who is invincible in battle: he, men, is Indra.
+
+### Printed p. 653
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 653.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk too, four heroic deeds of Indra are described: Indra struck the demon Vṛtra, or the cloud, brought down rain and made the waters flow; he released the cows hidden by Vala; he produced (created) lightning-fire in the middle of the clouds in the atmosphere [the printed word reads "antaśikṣa", a misprint for the atmosphere; as printed]; and in battle he is unconquered by enemies.
+
+यो हत्वा अहिं अरिणात् सप्त सिंधून् (*yo hatvā ahiṃ ariṇāt sapta siṃdhūn*) — the commentary's passage on this is the one given in the bhāṣya above. That is, Indra struck the cloud (with the thunderbolt), made the held-back rain fall, and made the fallen water flow in the form of a flood, or in the form of the seven rivers beginning with the Gaṅgā: such is the meaning.
+
+अहिं (*ahiṃ*) — The word ahi is read among the names of the cloud (Ni. 2-21) and among the names of water (Ni. 2-24). Moreover, Yāska gives for the word ahi the explanation अहिरयनात् (*ahirayanāt*) — because it moves (in the atmosphere), the cloud is called ahi (Ni. 2-24).
+
+(1) If the word ahi is derived from the root इण् (*iṇ*) "to go" (Adādi, Parasmaipada), the explanation एत्यंतरिक्षे (*etyaṃtarikṣe*), आयतेरेव (*āyatereva*) means: because it moves in the atmosphere, ahi means the cloud;
+
+(2) or, if the word ahi is derived from a root meaning "to go" (Bhvādi, Ātmanepada), then too, because it travels in the atmosphere, the word ahi means the cloud;
+
+(3) if it is derived from the root अह (*aha*) meaning "to pervade" (Svādi, Parasmaipada): अह्नोति (*ahnoti*) — it pervades the sky or the various quarters; so ahi means the cloud;
+
+(4) or: the root हन (*hana*) "to injure, to go", with the prefix आज् (*āj*): if derived thus, then in the sense of injury, since by contact with cold water it destroys the heat all around, the word ahi means the cloud. Or, if the root han is given the sense of "going", then because it has the nature of moving about in the atmosphere, ahi means the cloud;
+
+(5) or another meaning is possible for the root han in the sense of injury. Namely: हिः हंता, न हंता अहंता (*hiḥ haṃtā, na haṃtā ahaṃtā*) — hiḥ is the one who injures, ahiḥ is the one who does not injure, that is, the non-injuring one, because it always gives rain to the world. Hiḥ means injuring; ahiḥ means not injuring: the cloud, because the cloud pours rain for the benefit of the people of the world and is therefore non-injuring. Hence ahi means the cloud.
+
+### Printed p. 654
+
+*Running head: [654 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+In support of this meaning, there is the passage of the Vājasaneyi Saṃhitā of the Śukla Yajurveda: "He came to be united with Agni and Soma; he became all knowledge, all fame, all food, all splendour; because he became all this, he is Ahi." In the Ṛk at hand ahi means the cloud only.
+
+सप्तसिंधून् (*saptasiṃdhūn*) — Sāyaṇa has given two kinds of meaning for these words. सप्त सर्पणशीलाः (*sapta sarpaṇaśīlāḥ*) — the word sapta is taken to mean "of a pushing, gliding nature", and सिंधून् (*siṃdhūn*) — the word sindhu to mean "of a flowing nature"; he impelled the rain-waters, that is, he impelled the cloud to pour rain: this is one kind of meaning. Or: सप्त गंगायमुनाद्या मुख्या नदीररिणात् (*sapta gaṃgāyamunādyā mukhyā nadīrariṇāt*) — having impelled the cloud to pour rain, he made those waters flow in the seven chief rivers, the Gaṅgā, Yamunā and the others: this is the other kind of meaning.
+
+यो गा उदाजदपधा वलस्य (*yo gā udājadapadhā valasya*) — About the asura named Vala and the cows hidden by him, we have given a detailed explanation in this same volume on pages six hundred thirty-four to six hundred thirty-seven. Here too it is said that Indra released the cows of the gods which this asura Vala had held back and kept in a cave.
+
+यः अश्मनोः अंतः अग्निं जजान (*yaḥ aśmanoḥ aṃtaḥ agniṃ jajāna*) — The word ashman is derived from the root अशू (*aśū*) "to pervade" (Svādi, Ātmanepada); for it the explanation is: because it pervades the atmosphere, ashman means the cloud. So अश्मनोः (*aśmanoḥ*) means "of the clouds" [dual in the text, "of two clouds"]. The word ashmā is also read among the cloud-names (the printed word reads "mena-names", a misprint for the cloud-names, as printed) (Ni. 2-21). Between two extremely soft clouds Indra produced the fire of lightning. It is very easy, and well known in the world, to produce fire by the friction of two very hard things such as stones. But to produce lightning between two clouds which are as soft as cotton is not possible for ordinary men or for the gods. The sage describes that it is possible only for the supremely glorious Indra, and so praises Indra's surpassing power. The use of the dual form here, अश्मनोः (*aśmanoḥ*), "between two clouds", is noteworthy; for, according to the opinion of modern scientists, electricity arises from the friction of two clouds charged with different kinds of electric current. (Even the modern scientists agree that clouds charged defferenty [sic] by positive and negetive [sic] electricity coming together cause lightning).
+
 ---
 
-**Progress note:** Done through printed p. 651 (PDF 651). Sukta 12 Rik 1 Special Topics end, Rik 2 complete, Rik 3 Samhita and start of Pada; Rik 2 Samhita and Special Topics headings repaired
+**Progress note:** Done through printed p. 654 (PDF 654). Sukta 12 Rik 3 bhashya, Pratipadartha, Bhavartha, Special Topics begun (ahi, saptasindhun, vala, ashman)
