@@ -3584,6 +3584,91 @@ explained the word सजोषाः (*sajoṣāḥ*) in it as सह जोष
 
 In this Ṛk the meaning is given: इंद्रेण सह जोषणाः सजोषसः परमैश्वर्येण नित्यमासेविताः (*iṃdreṇa saha joṣaṇāḥ sajoṣasaḥ paramaiśvaryeṇa nityamāsevitāḥ*), that is, those served by Indra with supreme prosperity.
 
+### Printed p. 616
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṇḍala 2, Adhyāya 1, Sūkta 11; p. 616.*
+
+वायवः (*vāyavaḥ*) (vāyavaḥ): this word, formed from the root वा गतिगंधनयोः (*vā gatigaṃdhanayoḥ*), has the sense "those who go", the meaning being the Marut deities who go towards the sacrificial ground. Or, as the saying वायुर्हि सोमस्याग्रपाता (*vāyurhi somasyāgrapātā*) has it, since the deity Vāyu drinks the Soma first, one may also interpret: "give him the greater strength that he obtains from it". Although वायवः (*vāyavaḥ*) is plural here, it is used in the sense of honour (to show respect), so the singular sense, "the strength of Vāyu", is what is indicated.
+
+अग्रनीतिं (*agranītiṃ*) (agranītiṃ): अग्रे नीयमानं सोमं (*agre nīyamānaṃ somaṃ*), "the Soma being led in front"; the meaning is the Soma juice brought forward and placed before all, so that all can see it.
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> व्यंत्विन्नु येषु॑ मंदसा॒नस्तृ॒पत्सोमं॑ पाहि द्र॒ह्यदिं॑द्र ।
+> अ॒स्मान्त्सु पृ॒त्स्व त॑रु॒त्राव॑र्धयो॒ द्यां बृ॒हद्भि॑र॒र्कैः ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> व्यंतु । इत् । नु । येषु । मंदसानः । तृपत् । सोमं । पाहि । द्रह्यत् । इंद्र ।
+> अस्मान् । सु । पृत्सु । आ । तरुत्र । अवर्धयः । द्यां । बृहत्भिः । अर्कैः ॥ १५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र येषु तव सहायभूतेषु मरुत्सु मंदसानो माद्यन्भवसि ते
+> मरुतो नु क्षिप्रं व्यंतु । सोमं भक्षयंतु । इत् एवार्थे । द्रह्यत् ॥ दृंहतेरिदं
+> रूपं ॥ आत्मानं दृढीकुर्वन् त्वं तृपत् तर्पयंतमिमं सोमं पाहि । पिब ।
+> तरुत्र शत्रूणां हिंसक हे इंद्र बृहद्भिर्बलवद्भिरर्कॆरर्चनीय्मैर्मरुद्धिः सहितस्त्वं।
+> आ इति चार्थे । तेनास्मान् द्यां च सु सुष्टु पृत्सु पशुपुत्रादिभिरस्मान् अस्मत्पाल-
+> नेन च दिवमवर्धयः । यद्वा येषु सोमेषु मंदसानो मोदमानो भवसि
+> ते सोमा व्यंतु । त्वां गच्छंतु । शेषं पूर्ववत् ॥
+
+*(Gist: O Indra, let the Maruts in whom you rejoice come and drink the Soma; you too drink it; with the Maruts, augment us and heaven, or, in the other reading, let the Somas come to you.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra: O Indra. Yeṣu: among which Maruts, who are your helpers. Mandasānaḥ: you who are joyful, those Maruts. Nu: quickly. Vyantu it: let them come and drink the Soma. Drahyat: you who are endowed with firmness. Tṛpat: that which brings satisfaction. Somam: the Soma juice. Pāhi: drink. Tarutra: O Indra, destroyer of enemies. Bṛhadbhiḥ: mighty. Arkaiḥ: and adorable, together with the Maruts. Asmān ā dyām: us and the people of the world of the gods. Su: in an excellent manner. Pṛtsu: so as to be endowed with cattle, sons and the like. Avardhayaḥ: cause to prosper.
+
+### Printed p. 617
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 5; Ṛgvedasaṃhitā, p. 617.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, may those Maruts among whom, your helpers, you are joyful come quickly and drink the Soma. Do you, endowed with firmness, drink the Soma juice that brings satisfaction. O Indra, destroyer of enemies, together with the mighty and adorable Maruts, cause us and the people of the world of the gods to prosper, endowed with cattle, sons and the like, and in an excellent manner.
+
+**Printed English**
+
+Let those in whom you are delighted repair(to the libation), and do you, Indra, confiding, drink the satiating Soma: liberator(from evil), associated with the mighty and adorable(Maruts), augment our prosperity, and(that of) heaven.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the drinking of Soma by Indra together with the Maruts is indicated. On this subject:
+
+⟦ಸಜೋಷಾ ಇಂದ್ರ ಸಗಣೋ ಮರುದ್ಭಿಃ ಸೋಮಂ ಪಿಬ ವೃತ್ರಹಾ ಶೂರ ವಿದ್ವಾನ್ ।
+ಜಹಿ ಶತ್ರುರಪ ಮೃಧೋ ನುದಸ್ವಾಥಾಭಯಂ ಕೃಣುಹಿ ವಿಶ್ವತೋ ನಃ ॥⟧ (Ṛ. Saṃ. 3-47-2)
+
+अधा नियुत्वः सगणो मरुद्भिरस्मिन् यज्ञॆ बर्हिषि मादयस्व (*adhā niyutvaḥ sagaṇo marudbhirasmin yajñè barhiṣi mādayasva*) (Ṛ. Saṃ. 1-101-9)
+
+ये त्वा नूनमनुमदंति विप्राः पिबेंद्र सोमं सगणो मरुद्भिः । (*ye tvā nūnamanumadaṃti viprāḥ pibeṃdra somaṃ sagaṇo marudbhiḥ |*) (Ṛ. Saṃ. 3-47-4)
+
+अपूपमद्धि सगणो मरुद्भिः सोमं पिब वृत्रहा शूर विद्वान् । (*apūpamaddhi sagaṇo marudbhiḥ somaṃ piba vṛtrahā śūra vidvān |*) (Ṛ. Saṃ. 3-52-7)
+
+सजोषा इंद्र वरुणेन सोमं सजोषाः पाहि गिर्वणो मरुद्भिः । (*sajoṣā iṃdra varuṇena somaṃ sajoṣāḥ pāhi girvaṇo marudbhiḥ |*) (Ṛ. Saṃ. 4-34-7)
+
+### Printed p. 618
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṇḍala 2, Adhyāya 1, Sūkta 11; p. 618.*
+
+In these and similar Ṛks Indra is invoked and prayed to drink Soma together with the Maruts.
+
+तरुत्र (*tarutra*) (tarutra): शत्रूणां हिंसक (*śatrūṇāṃ hiṃsaka*) (the supplied text reads शत्रुवाणं (*śatruvāṇaṃ*)), "destroyer of enemies". Sāyaṇa explains the word तरुत्र (*tarutra*) as "one who injures enemies". Yāska, when giving the etymology for the Ṛk
+
+त्यमूषु वाजिनं देवजूतं सहावानं तरुतारं रथानां । (*tyamūṣu vājinaṃ devajūtaṃ sahāvānaṃ tarutāraṃ rathānāṃ |*) (as printed "ಮ. ಸಂ.", no numbers)
+
+explains the word तरुतारं (*tarutāraṃ*) as तारयितारं (*tārayitāraṃ*), "one who carries (people) across (dangers)".
+
+नु, इत् (*nu, it*) (nu, it): नु (*nu*) means क्षिप्रं (*kṣipraṃ*), "quickly, soon"; इत् (*it*) is used in the sense एवार्थे (*evārthe*), that is, in the sense of "indeed".
+
+अर्कैः (*arkaiḥ*) (arkaiḥ): अर्चनीय्यैः (*arcanīyyaiḥ*) (as supplied), "worthy of worship"; it is used as an epithet of the Marut deities.
+
+अस्मान् सु पृत्सु आ तरुत्र अवर्धयः द्यां बृहद्भिः अर्कैः (*asmān su pṛtsu ā tarutra avardhayaḥ dyāṃ bṛhadbhiḥ arkaiḥ*): the meaning that the commentator has given in one way to this sentence of the second half does not appear quite suitable here. The sentence can be interpreted in another way as well. The word पृत्सु (*pṛtsu*) is read among the names of battle (Nirukta 3-9). For the word द्यु (*dyu*) the etymology is द्युरित्यहो नामधेयं द्योतत इति सतः (*dyurityaho nāmadheyaṃ dyotata iti sataḥ*), "day" (Nirukta 1-7). The word अर्क (*arka*) also has the sense "food": अर्कमन्नं भवति (*arkamannaṃ bhavati*) (Nirukta 3-9). If, keeping these meanings, the above sentence is interpreted:
+
+तरुत्र शत्रुहिंसकेंद्र । पृत्सु संग्रामेषु अस्मान् सु आ अवर्धयः शत्रुभिः रक्षित्वा यथा जयं लभेमहि तथा सुष्टु वृद्धिं कुरुष्ट । किंच द्यां अहस्सु दिवसेषु बृहद्भिरर्कॆः प्रभूतान्नैनार्नाविधैरन्नॆर्वा अस्थानवर्धयः त्वत्पसादद्वृद्धिं लभेमहि ॥ (*tarutra śatruhiṃsakeṃdra | pṛtsu saṃgrāmeṣu asmān su ā avardhayaḥ śatrubhiḥ rakṣitvā yathā jayaṃ labhemahi tathā suṣṭu vṛddhiṃ kuruṣṭa | kiṃca dyāṃ ahassu divaseṣu bṛhadbhirarkèḥ prabhūtānnainārnāvidhairannèrvā asthānavardhayaḥ tvatpasādadvṛddhiṃ labhemahi ‖*)
+
+(the text is printed so; the words रक्षित्वा (*rakṣitvā*), कुरुष्ट (*kuruṣṭa*), प्रभूतान्नैनार्नाविधैरन्नॆर्वा अस्थानवर्धयः (*prabhūtānnainārnāvidhairannèrvā asthānavardhayaḥ*), त्वत्पसादद्वृद्धिं (*tvatpasādadvṛddhiṃ*) look garbled in the supplied text [?]). That is: "O Indra, destroyer of enemies, protect us from enemies in battles and make us prosper well; and cause us to prosper on every day with abundant food, so that we may gain increase by your grace" — another kind of meaning can also be given.
+
 ---
 
-**Progress note:** Done through printed p. 615 (PDF 615). Sukta 11 Rk 13 Special Topics end, Rk 14 complete with Special Topics begun (mitra, marutam sardhah, sajosasah); Rk 14 accent DIFF 0.962
+**Progress note:** Done through printed p. 618 (PDF 618). Sukta 11 Rk 14 Special Topics end; Rk 15 complete with Special Topics begun; fig_line2147 read from picture
