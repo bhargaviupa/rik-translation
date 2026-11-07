@@ -2494,6 +2494,101 @@ The seer of the Maṇḍala, Gṛtsamada, has so far praised Agni, and from here
 
 O Indra, destroyer of enemies, the abundant waters that you made to grow were first seized by Vṛtra; afterwards you released those waters of great extent and made them flow. You, grown strong by the śastra-mantras, split down the asura who harms all and who thought himself deathless, so that he fell.
 
+### Printed p. 580
+
+**Printed English translation**
+
+Indra, hero, you have set free the copious(waters) which were formerly arrested by Ahi, and which you have distributed: invigorated by hymns, you have cast down headlong the slave, conceiting himself immortal.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the slaying of the asura Vṛtra is told. The sense stated here is that Indra killed Vṛtra and made the waters, which Vṛtra had held back in the form of cloud, fall head-downwards as rain. This matter is explained at length in Ṛg-veda Saṃhitā 1-32 (Ṛ. Saṃ. part 3, page 588).
+
+अहिना (*ahinā*)—मेघेन (*meghena*): by the cloud. Among the thirty cloud-names beginning with adri and grāvan the word ahi is read (Ni. 2-21). Ahi also means water (Ni. 2-24). In later Sanskrit ahi means a serpent.
+
+दासं (*dāsaṃ*)—सर्वस्योपक्षपयितारं (*sarvasyopakṣapayitāraṃ*): the meaning is Vṛtra, who afflicts everyone. Explaining the word dāsa Yāska says, in giving the nirvacana of the Ṛk
+
+दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः । (*dāsapatnīrahigopā atiṣṭhanniruddhā āpaḥ paṇineva gāvaḥ |*)
+अपां बिलमपिहितं यदासीद्वृत्तं जघन्वा अप तद्ववार ॥ (*apāṃ bilamapihitaṃ yadāsīdvṛttaṃ jaghanvā apa tadvavāra ‖*)
+
+(Ṛ. Saṃ. 1-32-11)
+
+that: दासपत्निर्दासाधिपत्यः । (*dāsapatnirdāsādhipatyaḥ |*) दासो दस्यतेरुपदासयति कर्माणि (*dāso dasyaterupadāsayati karmāṇi*) (Ni. 2-17). That is, dāsa means कर्मकरः (*karmakaraḥ*), one who works; the derivation of the form is that one who does agricultural and similar work is to be called dāsa.
+
+The words dāsa and dasyu are used in many places in the Ṛg-veda in the sense of the earlier inhabitants of this country, enemies of the Āryas.
+
+इंद्रो विश्वस्य दमिता विभीषणो यथावशं नयति दासमार्यः । (*iṃdro viśvasya damitā vibhīṣaṇo yathāvaśaṃ nayati dāsamāryaḥ |*)
+
+(Ṛ. Saṃ. 5-34-6)
+
+यथा दासान्यार्याणि वृत्रा करो वज्रिन् सुतुका नाहुषाणि । (*yathā dāsānyāryāṇi vṛtrā karo vajrin sutukā nāhuṣāṇi |*)
+
+(Ṛ. Saṃ. 6-22-10)
+
+### Printed p. 581
+
+तत्व ता इंद्रोभया अमित्रान् दासा वृत्राण्यार्या च शूर । (*tatva tā iṃdrobhayā amitrān dāsā vṛtrāṇyāryā ca śūra |*)
+
+(Ṛ. Saṃ. 6-33-3)
+
+हतो वृत्राण्यार्या हतो दासानि सत्पती । हतो विश्वा अप द्विषः । (*hato vṛtrāṇyāryā hato dāsāni satpatī | hato viśvā apa dviṣaḥ |*)
+
+(Ṛ. Saṃ. 6-60-6)
+
+In these Ṛks, and in Ṛ. Saṃ. 7-83-1; 10-38-3; 10-69-6; 10-83-1; Atharva-veda 5-11-3 and other Ṛks, a people called Dāsas are said to be enemies of the Āryas. When Indra is prayed to destroy these Dasyus, enemies of the Āryas, Indra makes war on the Dasyus (Ṛ. Saṃ. 6-18-3; 6-52-2). Therefore the name Dasyuhā is well known for Indra.
+
+प्रति यदस्य वज्रं बाह्योधुर्हत्वी दस्यून् पुर आयसीर्नि तारीत् । (*prati yadasya vajraṃ bāhyodhurhatvī dasyūn pura āyasīrni tārīt |*)
+
+(Ṛ. Saṃ. 2-20-8)
+
+In this Ṛk it is said that these Dasyu people had forts (or towns) built of iron. It is said that these people called Dāsas lived together in groups belonging to a tribe (clans) (Ṛ. Saṃ. 2-11-4; 4-28-4; 6-25-2). Because their complexion was dark, unlike the Āryas, the description कृष्णां त्वचं (*kṛṣṇāṃ tvacaṃ*) (having black skin) is found in
+
+मनवे शासदव्रतान् त्वचं कृष्णामरंधयत् । (*manave śāsadavratān tvacaṃ kṛṣṇāmaraṃdhayat |*)
+
+(1-130-8)
+
+प्र ये गावो न भूर्णयस्त्वेषा अयासो अक्रमुः । (*pra ye gāvo na bhūrṇayastveṣā ayāso akramuḥ |*)
+घ्नंतः कृष्णामप त्वचं ॥ (*ghnaṃtaḥ kṛṣṇāmapa tvacaṃ ‖*)
+
+(Ṛ. Saṃ. 9-41-1)
+
+and other Ṛks. In contrast to this, the colour of the Āryas is said to be fair in the Ṛk Ṛ. Saṃ. 3-39-9.
+
+अनासो दस्यूरमृणो वधेन नि दुर्योण अवृणज् मृध्रवाचः । (*anāso dasyūramṛṇo vadhena ni duryoṇa avṛṇaj mṛdhravācaḥ |*)
+
+(Ṛ. Saṃ. 5-29-10)
+
+In this Ṛk these Dasyus are described as noseless or flat-nosed, and as speaking a bad language. That they do not perform sacrifices (अय ज्ञानः (*aya jñānaḥ*)), that they have no god (अब्रह्मा (*abrahmā*)), that they are enemies of the gods (ब्रह्मद्विषः (*brahmadviṣaḥ*)), that they do evil work (आपव्रतान् (*āpavratān*), अकर्मा (*akarmā*), अन्यव्रतः (*anyavrataḥ*)), and that they behave contrary to human nature (अमानुषः (*amānuṣaḥ*)) are descriptions found in many Ṛks, Ṛ. Saṃ. 1-3, 3-4, 5 [as printed]; 4-16-9; 5-7-10; 5-42-9; 6-14-3; 8-70-10; 10-22-7, 8 and others.
+
+### Printed p. 582
+
+आरं दासो न माळ्हुषे कराण्यहं देवाय भूर्णयेऽनागाः । (*āraṃ dāso na māḷhuṣe karāṇyahaṃ devāya bhūrṇaye 'nāgāḥ |*)
+
+(Ṛ. Saṃ. 7-86-2)
+
+शतं मे गर्दभानां शतमूर्णावतीनां । शतं दासा अति स्रजः । (*śataṃ me gardabhānāṃ śatamūrṇāvatīnāṃ | śataṃ dāsā ati srajaḥ |*)
+
+(Ṛ. Saṃ. 8-56-3)
+
+उत दासा परिविषे स्मद्दिष्टी गोपरीणसा । यदुस्तुर्वश्च मामहे । (*uta dāsā pariviṣe smaddiṣṭī goparīṇasā | yadusturvaśca māmahe |*)
+
+(Ṛ. Saṃ. 10-62-10)
+
+In these Ṛks the sense of the Dāsas as slaves is suggested. It appears that the Āryas defeated these people in war and set them to work as slaves. It appears that these people possessed much wealth and other goods, for:
+
+अपि वृश्च पुराणवद्वृततेरिव गुष्टितमोजो दासस्य दंभय । (*api vṛśca purāṇavadvṛtateriva guṣṭitamojo dāsasya daṃbhaya |*)
+वयं तदस्य संस्कृतं वस्विंद्रेण वि भजेमहि नभंतामन्यके समे ॥ (*vayaṃ tadasya saṃskṛtaṃ vasviṃdreṇa vi bhajemahi nabhaṃtāmanyake same ‖*)
+
+(Ṛ. Saṃ. 8-40-6)
+
+In this Ṛk Indra is prayed to cut down this Dāsa as one cuts a branch of a tree; and it is said that we shall share the wealth that Indra wins and brings. Among these Dāsa people Ilībiśa, Cumuri, Dhuni, Pipru, Varśi and Śambara are the chief. Their matter will be explained in the respective Ṛks as the context requires.
+
+उक्तं स्तोत्रं (*uktaṃ stotraṃ*): ukta (hymn of praise). Only the ordinary meaning, "hymn of praise", is given in the commentary. But since it says त्यत् ते उक्तं (*tyat te uktaṃ*), "the well-known ukta addressed to you", it is indicated that this is the ukta addressed to Indra, which has been recited at the sacrifice from of old. This ukta addressed to Indra has an extraordinary distinction.
+
+The nature of the ukta and its greatness, its relation to śastra and sāman and the fine differences among them, and the order in which the hotṛ and his assisting ṛtviks should recite it at the time of the savana have been explained in detail in the previous volume. Here, since Indra's greatness is praised through the ukta, the power of the ukta, and through it the greatness of Indra, is subtly made known together with the earlier story connected with it. There is a story in the Aitareya Brāhmaṇa that the power of the ukta is very great, that the asuras took refuge in it and so their power also increased, and that Indra then, being praised, came and drove them away.
+
+ते वा असुरा मैत्रावरुणस्योक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमा-नितोऽसुरान्नोत्स्यावहा इत्यहं चेत्यब्रवीद्वरुणस्तस्माद्यैंद्रावरुणं (*te vā asurā maitrāvaruṇasyoktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemā-nito 'surānnotsyāvahā ityahaṃ cetyabravīdvaruṇastasmādyaiṃdrāvaruṇaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 579 (PDF 579). Sukta 11 Rik 1 complete, Rik 2 Samhita to Bhavartha
+**Progress note:** Done through printed p. 582 (PDF 582). Rik 2 printed English and Special Topics (Dasa/Dasyu, ukta); breaks off in Aitareya Brahmana quotation
