@@ -5516,6 +5516,84 @@ Om. Sūkta 13. Maṇḍala 2, Anuvāka 2, Sūkta 13. Aṣṭaka 2, Adhyāya 6, V
 
 *Gist:* The season (the rainy season) is the mother of Soma; Soma, born of her, quickly entered the waters in which he grows; hence he is to be pressed. The plant's milk, the essence, is the offering for Indra.
 
+### Printed p. 685
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 10] Ṛgveda-saṃhitā; p. 685.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋतुः (*ṛtuḥ*) — the rainy season. जनित्री (*janitrī*) — is the mother of Soma (the time that produces it). तस्याः परि (*tasyāḥ pari*) — from that mother. जातः (*jātaḥ*) — the Soma that has been born. यासु (*yāsu*) — in which waters. वर्धते (*vardhate*) — it grows. अपः (*apaḥ*) — such waters. मक्षु (*makṣu*) — quickly. आ विशत् (*ā viśat*) — enters, and. तत् (*tat*) — it. आहनाः (*āhanāḥ*) — becomes fit for pressing (that same Soma plant). पयः (*payaḥ*) — as the essence. पिप्युषी (*pipyuṣī*) — as the one that grows. अभवत् (*abhavat*) — becomes. अंशोः (*aṃśoḥ*) — of that same Soma plant. पीयूषं (*pīyūṣaṃ*) — the one that is the essence. प्रथमं (*prathamaṃ*) — the one that is chief. तत् (*tat*) — that juice. उक्थ्यं (*ukthyaṃ*) — becomes worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+The season called Varṣā (the rains) is the mother of Soma. The Soma born of that mother quickly enters the waters in which it grows. And, becoming the essence and the one that grows, it becomes fit for pressing. The juice of that same Soma plant, which is the essence and the chief, is worthy of praise.
+
+**Printed English translation**
+
+The season(of the rains) is the parent(of the Soma plant), which, as soon as born of her, enters into the waters in which it grows; thence it is fit for expression, as concentrating(the essence of the) water; and the juice of the Soma is especially to be praised(as the libation proper for Indra).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋतुर्जनित्री (*ṛturjanitrī*) — the rainy season, that is, the monsoon, is the mother of Soma. That is, just as other plants grow in the monsoon, the Soma plant also grows well and flourishes with the rain water. Therefore the seer describes the rainy season as the mother of Soma. Although this Ṛk has no word denoting the Soma plant, yet because the words अहनाः (*ahanāḥ*) पयः (*payaḥ*) अंशोः (*aṃśoḥ*), which help the explanation concerning the Soma juice, are present, and because the Ṛk too speaks of the pressing of Soma, the word सोमस्य (*somasya*) must be supplied by adhyāhāra so as to complete the sentence ऋतुः सोमस्य जनित्री (*ṛtuḥ somasya janitrī*).
+
+तस्याः अपः परि मक्षु जातः आ अविशत् यासु वर्धते (*tasyāḥ apaḥ pari makṣu jātaḥ ā aviśat yāsu vardhate*) — Since the Soma plant that grows in that rainy season grows only by the support of water, "it entered the water" means that the plant filled with juice (water) and grew sturdy. This is the sense. Any plant, with the help of water in the rainy season, not only grows well but becomes moist, green and juicy. The Soma plant too, growing well in the rains and being full of juice — this juiciness of the plant the seer describes in another manner, as "growing in water and entering the water".
+
+तत् आहनाः तस्मादप्पु प्रविष्टत्वात् सोम आहना आहंतवोऽभिषोतव्यो भवति । आहना इति सकारांतमिदं पदं । तथा च मंत्रवर्णाः । ये ते मदा आहनसो विहायसः (*tat āhanāḥ tasmādappu praviṣṭatvāt soma āhanā āhaṃtavo 'bhiṣotavyo bhavati | āhanā iti sakārāṃtamidaṃ padaṃ | tathā ca maṃtravarṇāḥ | ye te madā āhanaso vihāyasaḥ*) (Ṛ. Saṃ. 9-75-5) — Because the Soma plant is full of water (juice), it must be struck in order to bring that out, that is, it must be well beaten and crushed with stones. When it is so crushed, the juice comes out of the plant. This process is called आहनाः (*āhanāḥ*) or pressing. आहनाः (*āhanāḥ*) is a word ending in स (*sa*); the commentator says it is nominative singular. On this point he cites the Ṛk
+
+ये ते मदा आहनसो विहायसस्तेभिरिंद्रं जोदय दातवे मघं (*ye te madā āhanaso vihāyasastebhiriṃdraṃ jodaya dātave maghaṃ*)
+
+(Ṛ. Saṃ. 9-75-2)
+
+and shows that the word आहनसः (*āhanasaḥ*) in it is a word ending in स (*sa*) and in the nominative plural.
+
+अभवत् पिप्युषी पयः अंशोः पीयूषं प्रथमं तत् उक्ष्यं (*abhavat pipyuṣī payaḥ aṃśoḥ pīyūṣaṃ prathamaṃ tat ukṣyaṃ*) (as printed) — या चांशुरूपा सोमलता पयः सारभूतं पिप्युषी वर्धयंत्यभवत् । अंशोस्तस्याः सोमलतायाः पीयूषं रसभूतं पय उक्ष्यं प्रशस्यं हविरिंद्रस्य भवति (*yā cāṃśurūpā somalatā payaḥ sārabhūtaṃ pipyuṣī vardhayaṃtyabhavat | aṃśostasyāḥ somalatāyāḥ pīyūṣaṃ rasabhūtaṃ paya ukṣyaṃ praśasyaṃ haviriṃdrasya bhavati*) — On the word अंशु (*aṃśu*) Yāska says:
+
+अंशुः शमष्टमात्रो भवति । अननाय शं भवतीति वा । (*aṃśuḥ śamaṣṭamātro bhavati | ananāya śaṃ bhavatīti vā |*)
+
+(Si. 9-5, as supplied)
+
+Since this Soma juice pervades the sacrificer (is spread in the sacrificer), that is, since the sacrificer drinks Soma, he becomes happy, thinking he has no sorrow or worry; since Soma pervades the sacrificer and produces happiness, Soma is called अंशु (*aṃśu*); or, since it produces happiness in the life of all beings (when Soma is drunk), it is called अंशु (*aṃśu*); or, since it gives happiness to those who have drunk Soma, Soma is called अंशु (*aṃśu*): so he has stated the etymology. From such a juicy Soma plant, its essential juice, the Soma juice, increases (by pressing). That is, by crushing with stones the Soma plants, which are moist, green and full of juice, and pressing out the juice, the Soma juice increases greatly, that is, is collected. The chief sense is that the Soma juice prepared in this way becomes an offering (food) praiseworthy, excellent or fit to be drunk, for Indra.
+
+### Printed p. 686
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 686.*
+
+### Printed p. 687
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 10] Ṛgveda-saṃhitā; p. 687.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> स॒ध्रीमा यं॑ति॒ परि॒ बिभ्र॑तीः॒ पयो॑ वि॒श्वप्स्न्या॑य॒ [?] प्र भ॑रंत॒ भोज॑नं ।
+> स॒मा॒नो अध्वा॑ प्र॒वता॑मनु॒स्यदे॒ यस्ताकृ॑णोः प्रथ॒मं
+> सास्यु॒क्थ्यः॑ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> सध्री । ईं । आ । यंति । परि । बिभ्रतीः । पयः । विश्वप्स्न्याय [?] । प्र । भरंत ।
+> भोजनं ।
+> समानः । अध्वा । प्रवतां । अनुस्यदे । यः । ता । अकृणोः । प्रथमं । सः । असि ।
+> उक्थ्यः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सध्री । अंचतेर्लुक् छांदसः । सहस्य सध्रिरिति सध्रादेशोऽंतोदात्तत्वेन
+> निपातितः। सध्रीचीनाः पय उदकं परि परितो बिभ्रतीर्बिभ्राणा ईमेता नद्य आयंति।
+> सर्वतो गच्छंति । ता नद्यो विश्वप्न्यास्यय विश्वासामपामाश्रयभूताय समुद्राय
+> भोजनं ॥ भुज्यत इति भोजनं पयः ॥ प्रभरंत । प्रकर्षण संपादयंति । कुत
+> एतत् तदाह । प्रवतां प्रवणवतां निम्मगानां पयसामनुष्यदे ॥ कृत्यार्थे तवै-
+> केन्नेन्यत्वन इति केन्प्रत्ययः ॥ अनुष्यंदनीयोऽध्वा मार्गः समान एको हि ।
+> यस्ता तानि सोमोत्पादननदीप्रवर्तनादीनि कर्माणि प्रथमं पूर्वमकृणोः ।
+> अकरोः । स तादृङ्महिमोपेतस्त्वमुक्थोऽसि । सर्वैः प्रशस्यो भवसि ॥
+
+*Gist:* The rivers, flowing together and bearing water, bring it as food to the sea, the support of all waters; the one path of flow is common, and Indra, who first did these deeds, is praised by all.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सध्री (*sadhrī*) — flowing together. पयः (*payaḥ*) — water. परि (*pari*) — all around. बिभ्रतीः (*bibhratīḥ*) — bearing. ईं (*īṃ*) — these rivers. आ यंति (*ā yaṃti*) — spread and flow (and). विश्वप्स्याय (*viśvapsyāya*) — to the sea, the support of all waters. भोजनं (*bhojanaṃ*) — water. प्रभरंत (*prabharaṃta*) — fill completely. प्रवतां (*pravatāṃ*) — for the waters flowing to your region. अनुष्यदे (*anuṣyade*) — for flowing. अध्वा (*adhvā*) — the path. समानः (*samānaḥ*) — is of one form. यः (*yaḥ*) — who. ता (*tā*) — such
+
 ---
 
-**Progress note:** Done through printed p. 684 (PDF 684). Sukta 12 Rik 15 Special Topics; Sukta 13 introduction and Rik 1 Samhita, Pada, bhashya start
+**Progress note:** Done through printed p. 687 (PDF 687). Sukta 13 Rik 1 Pratipadartha-Special Topics; Rik 2 Samhita/Pada from figure, bhashya, Pratipadartha start
