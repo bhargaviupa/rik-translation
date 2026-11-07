@@ -1729,10 +1729,7 @@ In this Ṛk Agni is described as born in heaven, the atmosphere and the earth. 
 
 Here the births of Agni are stated one by one: त्रीणि जाना त्रिसंख्याकानि (*trīṇi jānā trisaṃkhyākāni*), that is, three kinds of births. This description shows the original nature of Agni's manifestation. That Agni's threefold existence, and the corresponding threefold manifestation, reflect the fundamental principle of the world is known from the explanation of the Bṛhaddevatā:
 
-⟦ಭವದ್ಭೂತಸ್ಯ ಭವ್ಯಸ್ಯ ಜಂಗಮಸ್ಥಾವರಸ್ಯ ಚ ।
-ಅಸ್ಯೈಕೇ ಸೂರ್ಯಮೇವೈಕಂ ಪ್ರಭವಂ ಪ್ರಲಯಂ ವಿದುಃ ॥
-ಏತದ್ಭೂತೇಷು ಲೋಕೇಷು ಅಗ್ನಿಭೂತಂ ಸ್ಥಿತಂ ತ್ರಿಧಾ ।
-ಋಷಯೋ ಗೀರ್ಭಿರರ್ಚಂತಿ ವ್ಯಂಜಿತಂ ನಾಮಭಿಸ್ತ್ರಿಭಿಃ ॥⟧
+भवद्भूतस्य भव्यस्य जंगमस्थावरस्य च । अस्यैके सूर्यमेवैकं प्रभवं प्रलयं विदुः ॥ एतद्भूतेषु लोकेषु अग्निभूतं स्थितं त्रिधा । ऋषयो गीर्भिरर्चंति व्यंजितं नामभिस्त्रिभिः ॥ (*bhavadbhūtasya bhavyasya jaṃgamasthāvarasya ca | asyaike sūryamevaikaṃ prabhavaṃ pralayaṃ viduḥ ‖ etadbhūteṣu lokeṣu agnibhūtaṃ sthitaṃ tridhā | ṛṣayo gīrbhirarcaṃti vyaṃjitaṃ nāmabhistribhiḥ ‖*)
 
 (Bṛ. De. 1-61; 1-64)
 
@@ -1744,18 +1741,13 @@ In these verses, in describing the greatness of Agni, the authors of the Bṛhad
 
 of the past, present and future [text continued from the previous page]. The sages also speak of this threefold manifestation of Agni by three names, as seen below; continuing the praise of the same Agni:
 
-⟦ತ್ರಿಸ್ಥಾನಂ ಚೈನಮರ್ಚಂತಿ ಹೋತ್ರಾಯಾಂ ವ್ಯಕ್ತಬರ್ಹಿಷಃ ॥
-ಇಹೈವ ಪವಮಾನೋಽಗ್ನಿರ್ಮಧ್ಯಮೋಽಗ್ನಿರ್ವನಸ್ಪತಿಃ ।
-ಅಮುಷ್ಮಿನ್ನೇವ ವಿಪ್ರೈಸ್ತು ಲೋಕೇಽಗ್ನಿಃ ಶುಚಿರುಚ್ಯತೇ ॥
-ಇಹಾಗ್ನಿಭೂತಸ್ತ್ವೃಷಿಭಿರ್ಲೋಕೇ ಸ್ತುತಿಭಿರೀಳಿತಃ ।
-ಜಾತವೇದಾಃ ಸ್ತುತೋ ಮಧ್ಯೆ ಸ್ತುತೋ ವೈಶ್ವಾನರೋ ದಿವಿ ॥⟧
+त्रिस्थानं चैनमर्चंति होत्रायां व्यक्तबर्हिषः ॥ इहैव पवमानोऽग्निर्मध्यमोऽग्निर्वनस्पतिः । अमुष्मिन्नेव विप्रैस्तु लोकेऽग्निः शुचिरुच्यते ॥ इहाग्निभूतस्त्वृषिभिर्लोके स्तुतिभिरीळितः । जातवेदाः स्तुतो मध्यॆ स्तुतो वैश्वानरो दिवि ॥ (*tristhānaṃ cainamarcaṃti hotrāyāṃ vyaktabarhiṣaḥ ‖ ihaiva pavamāno 'gnirmadhyamo 'gnirvanaspatiḥ | amuṣminneva vipraistu loke 'gniḥ śucirucyate ‖ ihāgnibhūtastvṛṣibhirloke stutibhirīḷitaḥ | jātavedāḥ stuto madhyè stuto vaiśvānaro divi ‖*)
 
 (Bṛ. De. 1-65 to 67)
 
 Among these three kinds, the Agni who manifests on the earth is known as Pavamāna-agni, the Agni of the middle world as Vanaspati, and the Agni who is in heaven as Śuci. These three divisions are read in the Taittirīya Saṃhitā (2-2-4) under the division Pavamāna, Śuci, Pāvaka. Besides, the names Agni, Jātavedas and Vaiśvānara also indicate the three places and the three kinds of forms. The Nirukta-writer also, citing the Ṛk of the Ṛk-saṃhitā:
 
-⟦ಸ್ತೋಮೇನ ಹಿ ದಿವಿ ದೇವಾಸೋ ಅಗ್ನಿಮಜೀಜನಇೃಕ್ತಿಭೀ ರೋದಸಿಪ್ರಾಂ ।
-ತಮೂ ಅಕೃಣ್ವನ್ ತ್ರೇಧಾ ಭುವೇ ಕಂ ಸ ಓಷಧೀಃ ಪಚತಿ ವಿಶ್ವರೂಪಃ ॥⟧
+स्तोमेन हि दिवि देवासो अग्निमजीजनइृक्तिभी रोदसिप्रां । तमू अकृण्वन् त्रेधा भुवे कं स ओषधीः पचति विश्वरूपः ॥ (*stomena hi divi devāso agnimajījanaiṛktibhī rodasiprāṃ | tamū akṛṇvan tredhā bhuve kaṃ sa oṣadhīḥ pacati viśvarūpaḥ ‖*)
 
 (Ma. Saṃ. 10-88-10, as printed)
 
@@ -1767,13 +1759,11 @@ In the same way in this Ṛk also the three places are described in order by the
 
 *Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 555.*
 
-⟦ದಿವಸ್ಪರಿ ಪ್ರಥಮಂ ಜಜ್ಞೇ ಅಗ್ನಿರಸ್ಮದ್ ದ್ವಿತೀಯಂ ಪರಿ ಜಾತವೇದಾಃ ।
-ತೃತೀಯಮಪ್ಸು ನೃಮಣಾ ಅಜಸ್ರಮಿಂಧಾನ ಏನಂ ಜರತೇ ಸ್ವಾಧೀಃ ॥⟧
+दिवस्परि प्रथमं जज्ञे अग्निरस्मद् द्वितीयं परि जातवेदाः । तृतीयमप्सु नृमणा अजस्रमिंधान एनं जरते स्वाधीः ॥ (*divaspari prathamaṃ jajñe agnirasmad dvitīyaṃ pari jātavedāḥ | tṛtīyamapsu nṛmaṇā ajasramiṃdhāna enaṃ jarate svādhīḥ ‖*)
 
 (Ṛ. Saṃ. 10-45-1; Vā. Saṃ. 12-18; Tai. Sa. 1-3-14-5)
 
-⟦ಅಗ್ನಿರಸ್ಮಿ ಜನ್ಮನಾ ಜಾತವೇದಾ ಧೃತಂ ಮೇ ಚಕ್ಷುರಮೃತಂ ಮ ಆಸನ್ ।
-ಅರ್ಕಸ್ತ್ರಿಧಾತೂ ರಜಸೋ ವಿಮಾನೋಽಜಸ್ರೋ ಘರ್ಮೋ ಹವಿರಸ್ಮಿ ನಾಮ ॥⟧
+अग्निरस्मि जन्मना जातवेदा धृतं मे चक्षुरमृतं म आसन् । अर्कस्त्रिधातू रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥ (*agnirasmi janmanā jātavedā dhṛtaṃ me cakṣuramṛtaṃ ma āsan | arkastridhātū rajaso vimāno 'jasro gharmo havirasmi nāma ‖*)
 
 (Ṛ. Saṃ. 3-26-7; Vā. Saṃ. 18-16; Ni. 14-2)
 
@@ -3636,8 +3626,7 @@ Let those in whom you are delighted repair(to the libation), and do you, Indra, 
 
 In this Ṛk the drinking of Soma by Indra together with the Maruts is indicated. On this subject:
 
-⟦ಸಜೋಷಾ ಇಂದ್ರ ಸಗಣೋ ಮರುದ್ಭಿಃ ಸೋಮಂ ಪಿಬ ವೃತ್ರಹಾ ಶೂರ ವಿದ್ವಾನ್ ।
-ಜಹಿ ಶತ್ರುರಪ ಮೃಧೋ ನುದಸ್ವಾಥಾಭಯಂ ಕೃಣುಹಿ ವಿಶ್ವತೋ ನಃ ॥⟧ (Ṛ. Saṃ. 3-47-2)
+सजोषा इंद्र सगणो मरुद्भिः सोमं पिब वृत्रहा शूर विद्वान् । जहि शत्रुरप मृधो नुदस्वाथाभयं कृणुहि विश्वतो नः ॥ (*sajoṣā iṃdra sagaṇo marudbhiḥ somaṃ piba vṛtrahā śūra vidvān | jahi śatrurapa mṛdho nudasvāthābhayaṃ kṛṇuhi viśvato naḥ ‖*) (Ṛ. Saṃ. 3-47-2)
 
 अधा नियुत्वः सगणो मरुद्भिरस्मिन् यज्ञॆ बर्हिषि मादयस्व (*adhā niyutvaḥ sagaṇo marudbhirasmin yajñè barhiṣi mādayasva*) (Ṛ. Saṃ. 1-101-9)
 
@@ -3723,8 +3712,7 @@ is said in the Taittirīya Brāhmaṇa. The barhis grass is to be spread in thre
 
 that is, the name *barhis* is well known for darbha grass that is cut evenly and used as a seat in the sacrifice; and as an illustration he cites
 
-⟦ಪ್ರಾಚೀನಂ ಬರ್ಹಿಃ ಪ್ರದಿಶಾ ಪೃಥಿವ್ಯಾ ವಸ್ತೋರಸ್ಯಾ ವೃಜ್ಯತೇ ಅಗ್ರೇ ಅಹ್ನಾಂ ।
-ವ್ಯು ಪ್ರಥತೇ ವಿತರಂ ವರೀಯೋ ದೇವೇಭ್ಯೋ ಆದಿತಯೇ ಸ್ಯೋನಂ ॥⟧ (Pu. [sic] Saṃ. 10-10-4)
+प्राचीनं बर्हिः प्रदिशा पृथिव्या वस्तोरस्या वृज्यते अग्रे अह्नां । व्यु प्रथते वितरं वरीयो देवेभ्यो आदितये स्योनं ॥ (*prācīnaṃ barhiḥ pradiśā pṛthivyā vastorasyā vṛjyate agre ahnāṃ | vyu prathate vitaraṃ varīyo devebhyo āditaye syonaṃ ‖*) (Pu. [sic] Saṃ. 10-10-4)
 
 and gives its etymology:
 
@@ -3920,23 +3908,17 @@ Viśvarūpam: the matter of Indra's slaying the one named Viśvarūpa is stated 
 
 *Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgveda-saṃhitā, p. 627.*
 
-⟦ಭೂರೀದಿಂದ್ರ ಉದಿನಕ್ಷಂತಮೋಜೋಽವಾಭಿನತ್ಸತ್ಪತಿರ್ಮನ್ಯಮಾನಂ ।
-ತ್ವಾಷ್ಟ್ರಸ್ಯ ಚಿದ್ವಿಶ್ವರೂಪಸ್ಯ ಗೋನಾಮಾಚಕ್ರಾಣಸ್ತ್ರೀಣಿ ಶೀರ್ಷಾ ಪರಾ ವರ್ಕ್ ॥⟧ (Ṛg-veda-saṃhitā 10-8-9)
+भूरीदिंद्र उदिनक्षंतमोजोऽवाभिनत्सत्पतिर्मन्यमानं । त्वाष्ट्रस्य चिद्विश्वरूपस्य गोनामाचक्राणस्त्रीणि शीर्षा परा वर्क् ॥ (*bhūrīdiṃdra udinakṣaṃtamojo 'vābhinatsatpatirmanyamānaṃ | tvāṣṭrasya cidviśvarūpasya gonāmācakrāṇastrīṇi śīrṣā parā vark ‖*) (Ṛg-veda-saṃhitā 10-8-9)
 
 in this Ṛk it is said that Indra cut off the three heads of the one named Viśvarūpa, the son of Tvaṣṭṛ. That Indra did this deed for Trita, and that Trita helped Indra in this matter, is stated in the seventh Ṛk of the same sūkta:
 
-⟦ಅಸ್ಯ ತ್ರಿತಃ ಕ್ರತುನಾ ವವ್ರೇ ಅಂತರಿಚ್ಛನ್ ಧೀತಿಂ ಪಿತುರೇವೈಃ ಪರಸ್ಯ ।
-ಸಚಸ್ಯಮಾನಃ ಪಿತ್ರೋರುಪಸ್ಥೇ ಜಾಮಿ ಬ್ರುವಾಣ ಆಯುಧಾನಿ ವೇತಿ ।
-ಸ ಪಿತ್ರಾಣ್ಯಾಯುಧಾನಿ ವಿದ್ವಾನಿಂದ್ರೆಷಿತ ಆಪ್ತ್ಯೋ ಅಭ್ಯಯುಧ್ಯತ್ ।
-ತ್ರಿಶೀರ್ಷಾಣಂ ಸಪ್ತರಶ್ಮಿಂ ಜಘನ್ವಾನ್ ತ್ವಾಷ್ಟ್ರಸ್ಯ ಚಿನ್ನಿಃ ಸಸ್ಯಜೇ ತ್ರಿತೋ ಗಾಃ ॥⟧ (Ṛg-veda-saṃhitā 10-8-7, 8)
+अस्य त्रितः क्रतुना वव्रे अंतरिच्छन् धीतिं पितुरेवैः परस्य । सचस्यमानः पित्रोरुपस्थे जामि ब्रुवाण आयुधानि वेति । स पित्राण्यायुधानि विद्वानिंद्रॆषित आप्त्यो अभ्ययुध्यत् । त्रिशीर्षाणं सप्तरश्मिं जघन्वान् त्वाष्ट्रस्य चिन्निः सस्यजे त्रितो गाः ॥ (*asya tritaḥ kratunā vavre aṃtaricchan dhītiṃ piturevaiḥ parasya | sacasyamānaḥ pitrorupasthe jāmi bruvāṇa āyudhāni veti | sa pitrāṇyāyudhāni vidvāniṃdrèṣita āptyo abhyayudhyat | triśīrṣāṇaṃ saptaraśmiṃ jaghanvān tvāṣṭrasya cinniḥ sasyaje trito gāḥ ‖*) (Ṛg-veda-saṃhitā 10-8-7, 8)
 
 In the commentary on these Ṛks Sāyaṇa has told a story: Indra asked the help of Trita to kill Viśvarūpa, the son of Tvaṣṭṛ, who had three heads. Trita, in order to increase his own strength, asked as a boon that a share of the oblation in the sacrifices be given to him. Indra agreed and gave him water for washing the hands and a share of the sacrifice. Then Trita, equipped with the weapons that belonged to his father and urged on by Indra, fought with Viśvarūpa, the son of Tvaṣṭṛ, struck him hard with his weapons and made him swoon. Afterwards Indra cut off the three heads of that Viśvarūpa; so it is said in the Ṛks above.
 
 This same matter is told at length in the Taittirīya-saṃhitā (Taittirīya-saṃhitā 2-5-1-1). That too is set out here with its meaning:
 
-⟦ವಿಶ್ವರೂಪೋ ವೈ ತ್ವಾಷ್ಟ್ರಃ ಪುರೋಹಿತೋ ದೇವಾನಾಮಾಸೀತ್ ಸ್ವಸ್ರೀಯೋಽಸುರಾಣಾಂ ತಸ್ಯ
-ತ್ರೀಣಿ ಶೀರ್ಷಾಣ್ಯಾಸನ್ತ್ಸೋಮಪಾನಗ್ಂ ಸುರಾಪಾನಮನ್ನಾದನಗ್ಂ ಸ ಪ್ರತ್ಯಕ್ಷಂ ದೇವೇ.
-ಭ್ಯೋ ಭಾಗಮವದತ್ ಪರೋಕ್ಷಮಸುರೇಭ್ಯಃ ॥⟧
+विश्वरूपो वै त्वाष्ट्रः पुरोहितो देवानामासीत् स्वस्रीयोऽसुराणां तस्य त्रीणि शीर्षाण्यासन्त्सोमपानग्ं सुरापानमन्नादनग्ं स प्रत्यक्षं देवे. भ्यो भागमवदत् परोक्षमसुरेभ्यः ॥ (*viśvarūpo vai tvāṣṭraḥ purohito devānāmāsīt svasrīyo 'surāṇāṃ tasya trīṇi śīrṣāṇyāsantsomapānagṃ surāpānamannādanagṃ sa pratyakṣaṃ deve. bhyo bhāgamavadat parokṣamasurebhyaḥ ‖*)
 
 In former times Viśvarūpa, the son of Tvaṣṭṛ, was the family priest of the gods. Since he was the son of the Asuras' sister, he had affection also for the Asuras. This Viśvarūpa had three heads (heads). With one of those three heads he drank Soma, with another he drank Surā (liquor), and with the third head he ate food and the like. While matters stood so, this Viśvarūpa used to say openly before all that he would procure for the gods their share of the oblation in the sacrifice; but within, unknown to anyone, he helped the Asuras.
 
