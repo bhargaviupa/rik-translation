@@ -3984,6 +3984,89 @@ Therefore one should not speak with a woman having her course, nor sit with her,
 
 If one has union with a woman during her course, the son born of it becomes cursed; if a woman in her course has union in the forest, the son born to her becomes a thief; if the union is with the face covered or turned away, the son born becomes a bashful fellow who from shame cannot speak properly with anyone; to a woman who bathes during the course a son is born who will die drowned in water; (the text breaks off here, at the end of p. 630, in the middle of the account of the woman who anoints herself with oil)
 
+### Printed p. 631
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgveda-saṃhitā, p. 631.*
+
+...a woman who plaits (her hair) at that time bears a son afflicted with a skin disease (leprosy, white patches); a woman who combs her hair bears a son who is bald, with no hair on his head, and weak. A woman who applies collyrium to her eyes bears a son who becomes blind; a woman who cleans her teeth at that time bears a son with foul teeth; a woman who cuts her nails bears a son whose nails are bad and ugly to look at; a woman who weaves (mats and the like) at that time bears a son who becomes impotent; a woman who twists rope bears a son who dies by suicide; a woman who drinks water from leaves (lotus leaves and the like) bears a son who becomes a drunkard; a woman who drinks water from a broken or cracked vessel bears a son who is deformed or has some defect of limb. Therefore women, while in their course, must observe the vow (rule) very strictly until three nights have passed. To obtain good offspring, women drinking water at that time should drink only from the hollow of the hands or from a good, unbroken vessel.
+
+In the matters stated above, the slaying of Viśvarūpa by Indra, the fault of brahmin-slaying that came upon Indra from that slaying, the acts Indra performed to remove that fault, and, as a result, the rule to be observed by women during their course, have been stated. In the present context only the account of the slaying of Viśvarūpa is needed, but the other matters connected with it and found in the same anuvāka are also mentioned here. For in the Purāṇas and similar works it is said that the fault of brahmin-slaying came upon Indra from the slaying of Vṛtra and that Indra made efforts to remove it as described above; so this explanation became necessary to show the difference between the details of the Veda and those of the Purāṇas and the like.
+
+#### Ṛk 20
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्य सु॑वा॒नस्य॑ म॒ुंदिन॑स्त्रि॒तस्य॒ न्यर्बु॑दं वावृधा॒नो अ॑स्तः ।
+> अव॑र्तय॒त्सूर्यो॒ न च॒क्रं भि॒नद्व॒लमिंद्रो॒ अंगि॑रस्वान्
+
+**॥ पदपाठः ॥**
+
+> अस्य । सुवानस्य । मंदिनः । त्रितस्य । नि । अर्बुदं । ववृधानः । अस्तरित्यस्तः ।
+> अवर्तयत् । सूर्यः । न । चक्रं । भिनत् । वलं । इंद्रः । अंगिरस्वान् ॥ २० ॥
+
+> *asya | suvānasya | maṃdinaḥ | tritasya | ni | arbudaṃ | vavṛdhānaḥ | astarityastaḥ |*
+> *avartayat | sūryaḥ | na | cakraṃ | bhinat | valaṃ | iṃdraḥ | aṃgirasvān ‖ 20 ‖*
+
+### Printed p. 632
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Anuvāka 1, Sūkta 11; p. 632.*
+
+**॥ सायणभाष्यम् ॥**
+
+> मंदिनोऽस्य मदकरमिमं सुवानस्य सुतवतस्तितस्य तीर्णनमस्कस्य महर्षे-
+> रर्थ० वावृधानः सोमेन वर्धमान इंद्रोऽर्बुदं । अंबूनि ददातीत्यर्बुदो
+> मेघः । अनुस्वारस्य रेफश्रांदसः । यद्वा नामैतत् । अर्बुदाख्यमसुरं न्यस्तः ॥
+> स्त्र हिंसायामित्यस्य लजि तिपि बहुलं छंदसीति विकरणस्य लुक् । गुणे कृते हल्वा-
+> दिना तिलोपः ॥ नितरामवधीत् । महांतं चिदर्बुदं नि क्रमीः पदा । १-५१-६ ॥
+> इत्यादिष्वर्बुदवधः स्पष्टमुक्तः । किंच अंगिरस्वान् अंगिरोभिः सहित इंद्रोS-
+> वर्तयत् । असुरहननार्थ० वज्रमभ्रामयत् । सूर्यो न । यथा सूर्यश्चक्रं
+> भ्रामयति तद्वत् । यद्वा यस्मादसुराद्भिया सूर्यः स्वकीयं रथचक्रं नावर्त-
+> यत् । निषेधार्थियोऽत्र नकारः । वर्तयितुं नाशकत् । तं वलं पणीनां प्रभु-
+> मसुरं भिनत् । वज्रेणाभिनत् । यद्वा द्विचक्रो हि पूर्व० सूर्यस्य रथः । तस्यैकं
+> चक्रमिंद्रॆणापहृतं । सूर्य इति सुपां सुलुगिति षष्ठेकवचनस्य सुः । सूर्यस्य
+> संबंध्यपहृतं तदेकं चक्रमवर्तयत् । रक्षोहननार्थमभ्रामयत् । तेन चक्रेण
+> वलमभिनच्च । नश्चार्थे ॥
+
+*Gist:* Indra, grown strong by the Soma of the pressing Trita, slew the Arbuda (cloud or asura); with the Aṅgirases he whirled his bolt as the sun whirls its wheel, and split Vala. The bhāṣya also offers a second sense, that Indra whirled the one wheel taken from the Sun's two-wheeled chariot, and gives its grammar.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मंदिनः (*maṃdinaḥ*) (as printed in this section; the Pada reads another spelling)—intoxicating. अस्य (*asya*)—of this Soma juice. सुवानस्य (*suvānasya*)—that is pressed. श्रितस्य (*śritasya*) (as printed)—for the sage called Trita. वावृधानः (*vāvṛdhānaḥ*)—having grown (by drinking the Soma juice), you. अर्बुदं (*arbudaṃ*)—the cloud, or the asura called Arbuda. न्यस्तः (*nyastaḥ*)—destroyed completely. सूरो न चक्रं (*sūro na cakraṃ*) (as printed)—as the sun turns his wheel. अंगिरस्वान् (*aṃgirasvān*)—joined with the sages called Aṅgiras. इंद्रः (*iṃdraḥ*)—Indra. अवर्तयत् (*avartayat*)—whirled the bolt. वलं (*valaṃ*)—Vala, the asura who is lord of the Paṇis. भिनत् (*bhinat*)—split.
+
+**भावार्थ (Bhāvārtha)**
+
+You, who have grown by the Soma juice, drunk from the intoxicating Soma pressed for the sage Trita, slew the asura called Arbuda. As the sun turns his wheel, Indra, joined with the sages called Aṅgiras, whirled his bolt and split the asura called Vala, lord of the Paṇis.
+
+**English Translation (as printed)**
+
+Invigorated(by the libation) of the exulting Trita, offering you the Soma, you have annihilated Arbuda: Indra aided by the Angirasas, has whirled round his bolt, as the sun turns round his wheel, and slain Vala.
+
+### Printed p. 633
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 6; p. 633.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अर्बुदं (*arbudaṃ*)—अर्बुदं । अंबूनि ददातीत्यर्बुदो मेघः । यद्वा नामैतत् । अर्बुदाख्यमसुरं । (*arbudaṃ | aṃbūni dadātītyarbudo meghaḥ | yadvā nāmaitat | arbudākhyamasuraṃ |*) Because it gives water (pours down water in the form of rain), the cloud is called *arbuda*; or it is the name of a certain rākṣasa called Arbuda: the bhāṣyakāra gives these two kinds of meaning. For the word *arbuda* Yāska gives this derivation:
+
+अर्बुदो मेघो भवति । अरणमंबु तद्दोऽमृदः । अंबुमद्भातीति वा । अंबुमद्भवतीति वा । स यथा महान् बहुर्भवति वर्षंस्तदिवार्बुदं ॥ (*arbudo megho bhavati | araṇamaṃbu taddo 'mṛdaḥ | aṃbumadbhātīti vā | aṃbumadbhavatīti vā | sa yathā mahān bahurbhavati varṣaṃstadivārbudaṃ ‖*) (Ni. 3-10)
+
+*Arbuda* means a cloud. *Araṇam* means "of a moving nature", and *ambu* is water, since it has a flowing nature; *araṇam* or *ambu* means water. *Tad-daḥ*: because it gives that (water), it is *ambuda* or *arbuda*, that is, a cloud. It is well known that when a cloud pours rain it pours a great deal of water. As that water is plentiful, so the cloud-word *arbuda* is also a word for a large number: this is the explanation of the word. As a number-word, *arbuda* means a hundred crores. In the present context this meaning is not needed.
+
+For the word *arbuda* in the sense of an asura of this name:
+
+महांतं चिदर्बुदं नि क्रमीः पदा सनादेव दस्युहत्याय बज्जिषे । (*mahāṃtaṃ cidarbudaṃ ni kramīḥ padā sanādeva dasyuhatyāya bajjiṣe |*) (Mā. Saṃ. 1-51-6, as printed)
+
+यो अर्बुदमव नीचा बबाधे तमिंद्रं सोमस्य भृथे हिनोत । (*yo arbudamava nīcā babādhe tamiṃdraṃ somasya bhṛthe hinota |*) (Ṛ. Saṃ. 2-14-4)
+
+अहन् वृत्रमृजीषम टीर्णवाभमहीशुवं । हिमेनाविध्यदर्बुदं । (*ahan vṛtramṛjīṣama ṭīrṇavābhamahīśuvaṃ | himenāvidhyadarbudaṃ |*) (Ṛ. Saṃ. 8-32-26)
+
+निरबर्बुदस्य मृगयस्य मायिनो निः पर्वतस्य गा आजः । (*nirabarbudasya mṛgayasya māyino niḥ parvatasya gā ājaḥ |*) (Ṛ. Saṃ. 8-3-19)
+
+न्यर्बुदस्य विष्टपं वर्षाणं बृहतस्तिर । कृषे तदिंद्र पौंस्यं ॥ (*nyarbudasya viṣṭapaṃ varṣāṇaṃ bṛhatastira | kṛṣe tadiṃdra pauṃsyaṃ ‖*) (Ṛ. Saṃ. 8-32-3)
+
+इंद्रो मह्ना महतो अर्णवस्य वि मूर्धानमभिनदर्बुदस्य । (*iṃdro mahnā mahato arṇavasya vi mūrdhānamabhinadarbudasya |*) (Ṛ. Saṃ. 10-67-12)
+
 ---
 
-**Progress note:** Done through printed p. 630 (PDF 630). Special Topics on Trita and Visvarupa (Taittiriya-samhita 2-5-1) continued; text breaks off mid-sentence at end of p. 630
+**Progress note:** Done through printed p. 633 (PDF 633). Sukta 11 Rik 20 Samhita-Special Topics (Arbuda); kn.md Bhavartha label repaired
