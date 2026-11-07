@@ -3017,6 +3017,107 @@ Your swift horses, Indra, have uttered a loud sound, announcing rain: the level 
 
 कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतंति । त आ ववृत्रन्तदनादृतस्यादिद्भृतेन पृथिवी व्युद्यते ॥ (*kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divamutpataṃti | ta ā vavṛtrantadanādṛtasyādidbhṛtena pṛthivī vyudyate ‖*) (Ma. Saṃ. 1-164-87) [sic, "Ma." as supplied]
 
+### Printed p. 598
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 1, Sūkta 11, p. 598.*
+
+In these and other Ṛks the word धृत (*dhṛta*) is explained as meaning water. In the present Ṛk, धृतश्चुतं (*dhṛtaścutaṃ*) means the (cloud) that pours down water.
+
+पर्वतः (*parvataḥ*)—Sāyaṇa explains it as "in its own dwelling-place, a region to be filled"; पर्ववान् (*parvavān*), "having joints", hence पर्वतः (*parvataḥ*). पर्व पुनः पृणातेः प्रीणातेर्वा (*parva punaḥ pṛṇāteḥ prīṇātervā*) (Ni. 1-20): Yāska explains the word पर्व (*parva*) as that which is filled with stones, peaks and the like. Having said प्रीणातेर्वा (*prīṇātervā*) ("or from the root *prī*"), he indicates that it need not mean only filling with stones: it may be said to be a thing (पर्वत (*parvata*)) that gratifies the gods beautifully by means of stones and the like. The word पर्वत (*parvata*) is read among the names of the cloud (Ni. 2-21). In the present Ṛk the word पर्वत (*parvata*) means the cloud.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> नि पर्व॑तः सा॒द्यप्र॑युच्छ॒न्तं मा॒तृभि॑र्वावशा॒नो अ॑क्रान् ।
+> दू॒रे पा॒रे वाणीं॑ व॒र्धयं॑त॒ इंद्रे॑षितां ध॒मनिं॑ पप्रथ॒न्नि ॥ ८ ॥
+
+> *ni parvataḥ sādyaprayucchantaṃ mātṛbhirvāvaśāno akrān |*
+> *dūre pāre vāṇīṃ vardhayaṃta iṃdreṣitāṃ dhamaniṃ paprathanni ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> नि । पर्वतः । सादि । अप्रयुच्छन् । सं । मातृभिः । वावशानः । अक्रान् ।
+> दूरे । पारे । वाणीं । वर्धयंतः । इंद्रइषितां । धमनिं । पप्रथन् । नि ॥ ८ ॥
+
+> *ni | parvataḥ | sādi | aprayucchan | saṃ | mātṛbhiḥ | vāvaśānaḥ | akrān |*
+> *dūre | pāre | vāṇīṃ | vardhayaṃtaḥ | iṃdraiṣitāṃ | dhamaniṃ | paprathan | ni ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अप्रयुच्छन् अप्रमाद्यन् वर्षणे सावधानः पर्वतो मेघो निषादि ।
+> नभसि निषण्ण आसीत् । मातृभिरद्भिर्माध्यमिकाभिर्वाग्निर्वा संवावशानः सह शब्दं
+> कुर्वाणोऽक्रान् । अक्रमीत् । इतस्ततः संचारमकरोत् ॥ क्रमतेर्लजं बहुलं
+> छंदसीति विकरणस्य लुक् ॥ दूरे सारेऽतिदूरेऽंतरिक्षे स्थितां वाणीं माध्यमिकां
+> वाचं वर्धयंतः स्तोत्रैः समृद्धां कुर्वंतः स्तोतारो मरुतो वेंद्रेषिता-
+> मिंद्रेण प्रेरितां धमनिं शब्दं कुर्वाणां तां वाचं नितरां पप्रथन् । अप्रथयन्॥
+
+*Gist:* The cloud, attentive in its task of raining, stayed in the sky and roamed about, roaring with the waters; the Maruts or singers augmented the sound.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अप्रयुच्छन् (*aprayucchan*)—endowed with an unheedful, attentive mind. पर्वतः (*parvataḥ*)—the cloud. नि षादि (*ni ṣādi*)—is stationed in the sky. मातृभिः (*mātṛbhiḥ*)—with the middle-region voices, or with the waters.
+
+### Printed p. 599
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 4, p. 599.*
+
+संवावशानः (*saṃvāvaśānaḥ*)—gathering together and making sound. अक्रान् (*akrān*)—moved about all around. दूरे पारे (*dūre pāre*)—very far, situated in the sky. वाणीं (*vāṇīṃ*)—the middle-region voice. वर्धयंतः (*vardhayaṃtaḥ*)—the Maruts or the singers who make it grow long. इंद्रेषितां (*iṃdreṣitāṃ*)—impelled by Indra. धमनिं (*dhamaniṃ*)—that voice of the nature of sound. नि पप्रथन् (*ni paprathan*)—made it manifest exceedingly and increased it.
+
+**भावार्थ (Bhāvārtha)**
+
+The cloud, unheedless and attentive, is stationed in the sky, and gathering together with the middle-region voices it made sound and moved about all around. The Maruts, who make the middle-region voice, situated very far in the sky, grow long, made that voice, impelled by Indra and of the nature of sound, manifest exceedingly and increased it.
+
+**Printed English translation**
+
+The cloud, not heedless(of its office), is suspended(in the sky); resonant with maternal(waters), it has spread about;(the winds), augmenting the sound in the distant horizon, have promulgated the voice uttered by Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नि पर्वतः सादि अप्रयुच्छन् (*ni parvataḥ sādi aprayucchan*)—Here too the word पर्वत (*parvata*) means the cloud. The meaning is that the cloud, though not heedless in calling forth rain, remained attentive yet sat quietly without calling forth rain, that is, it floated about in the sky.
+
+सं मातृभिः नावशानः अक्रान् (*saṃ mātṛbhiḥ nāvaśānaḥ akrān*) [sic, "ನಾವಶಾನಃ" as supplied]—मातृभिरद्भिर्माध्यमिकाभिर्वाग्निर्वा संवावशानः सह शब्दं कुर्वाणोऽक्रान् । अक्रमीत् । इतस्ततः संचारमकरोत् । (*mātṛbhiradbhirmādhyamikābhirvāgnirvā saṃvāvaśānaḥ saha śabdaṃ kurvāṇo 'krān | akramīt | itastataḥ saṃcāramakarot |*) Although the word मातृ (*mātṛ*) is stated here among the names of rivers (Ni. 2-24), the commentator explains it as अद्भिः (*adbhiḥ*), "by the waters", or as माध्यमिका वाग्निर्वा (*mādhyamikā vāgnirvā*), that is, by the sound of the nature of thunderbolt and thunder. Yāska has given the explanation of the words "voice of the middle region" thus: नागर्थेषु विधीयते तस्मान्माध्यमिकां वाचं मन्यंते (*nāgartheṣu vidhīyate tasmānmādhyamikāṃ vācaṃ manyaṃte*) (Ni. 11-27). And:
+
+यद्वाग्तदंत्यविचेतनानि राष्ट्री देवानां निषसाद मंद्रा । चतस्र ऊर्ज० दुदुहे पयांसि क्व स्विदस्याः परमं जगाम ॥ (*yadvāgtadaṃtyavicetanāni rāṣṭrī devānāṃ niṣasāda maṃdrā | catasra ūrja0 duduhe payāṃsi kva svidasyāḥ paramaṃ jagāma ‖*) (Ma. Saṃ. 8-100-10)
+
+Explaining this Ṛk, Yāska says: माध्यमिका वाग्त्वदंती निर्वचयंती अविचेतनानि अविज्ञातार्थानि शब्दरूपाणि स्तनयित्लुलक्षणानि या माध्यमिकानां देवतानां (*mādhyamikā vāgtvadaṃtī nirvacayaṃtī avicetanāni avijñātārthāni śabdarūpāṇi stanayitlulakṣaṇāni yā mādhyamikānāṃ devatānāṃ*) (the passage runs on to the next page)
+
+### Printed p. 600
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 1, Sūkta 11, p. 600.*
+
+That is, the voice of the deities of the middle region is the middle-region voice. He thus indicates that the meaning of that voice is not clearly known and that it is of the nature of the roar of the cloud. For the words मातृभिः सं वावशानः (*mātṛbhiḥ saṃ vāvaśānaḥ*) in the present Ṛk, the chief sense is that the clouds in the sky, mingled with waters or with the sound of clouds, keep moving to and fro in the sky itself (by the stroke of the wind).
+
+दूरे पारे वाणीं वर्धयंतः इंद्रेषितां धमनि पप्रथन् नि (*dūre pāre vāṇīṃ vardhayaṃtaḥ iṃdreṣitāṃ dhamani paprathan ni*)—For this sentence in the second half of the Ṛk the commentator gives two kinds of explanation: the priests mingle the sound of the hymns they recite with the thunder of the cloud heard very far off in the region of the sky; or the Marut deities (the Maruts, the fiercely blowing storm) join the sound of their blowing to the voice of Indra and make the sound greater. The chief sense is: when rain (water), accompanied by thunderbolt, lightning and thunder, pours down with the violently blowing wind, the hymns and the like recited by the priests merge with the cloud-sound heard very far off; or the sound of the storm blowing violently merges with the cloud-sound impelled by Indra, and that sound spreads exceedingly everywhere.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> इंद्रो॑ म॒हां सिंधु॑मा॒शया॑नं माया॒विनं॑ वृ॒त्रम॑स्सुर॒न्निः।
+> अरे॑जेतां॒ रोद॑सी भिया॒ने कनि॑क्रदतो॒ वृष्णो॑ अस्य॒ वज्रा॑त् ॥ ९ ॥
+
+> *iṃdro mahāṃ siṃdhumāśayānaṃ māyāvinaṃ vṛtramassuranniḥ|*
+> *arejetāṃ rodasī bhiyāne kanikradato vṛṣṇo asya vajrāt ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> इंद्रः । महां । सिंधुं । आशयानं । मायाविनं । वृत्रं । अस्फुरत् । निः ।
+> अरेजेतां । रोदसी इति । भियाने इति । कनिक्रदतः । वृष्णः । अस्य । वज्रात् ॥ ९ ॥
+
+> *iṃdraḥ | mahāṃ | siṃdhuṃ | āśayānaṃ | māyāvinaṃ | vṛtraṃ | asphurat | niḥ |*
+> *arejetāṃ | rodasī iti | bhiyāne iti | kanikradataḥ | vṛṣṇaḥ | asya | vajrāt ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> बलवानिंद्रो महां सिंधुं । स्यंदत इतस्ततः संचरतीति सिंधुर्मेघः ।
+> तमाशयानं तमधिष्ठाय शयानं मायाविनं वृत्रमसुरं । यद्वा सिंधुरुदकं ।
+> तदधिष्ठाय शयानं वृत्रं । वृणोत्याकाशमिति वृत्रो मेघः । तं निरस्फुरत् ।
+
+> *balavāniṃdro mahāṃ siṃdhuṃ | syaṃdata itastataḥ saṃcaratīti siṃdhurmeghaḥ |*
+> *tamāśayānaṃ tamadhiṣṭhāya śayānaṃ māyāvinaṃ vṛtramasuraṃ | yadvā siṃdhurudakaṃ |*
+> *tadadhiṣṭhāya śayānaṃ vṛtraṃ | vṛṇotyākāśamiti vṛtro meghaḥ | taṃ nirasphurat |*
+
 ---
 
-**Progress note:** Done through printed p. 597 (PDF 597). Maṇḍala 2 Sūkta 11 Ṛks 6-7; Special Topics continued
+**Progress note:** Done through printed p. 600 (PDF 600). Maṇḍala 2 Sūkta 11 Ṛk 8 and Ṛk 9 (to bhāṣya); kn.md labels and Saṃhitā blocks repaired
