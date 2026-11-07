@@ -6822,6 +6822,69 @@ Gist: Adhvaryus, Indra slew Aśna, Śuṣṇa, Vyaṃsa, Pipru, Namuci and Rudhi
 
 अध्वर्यवः (अध्वर्यवः (*adhvaryavaḥ*))—O Adhvaryus. यः (यः (*yaḥ*))—the Indra who. अश्नं (अश्नं (*aśnaṃ*))—the asura named Aśna. सु जघान (सु जघान (*su jaghāna*))—destroyed completely. यः (यः (*yaḥ*))—who. अशुषं (अशुषं (*aśuṣaṃ*))—(by others) impossible to defeat. शुष्णं (शुष्णं (*śuṣṇaṃ*))—the asura named Śuṣṇa. व्यंसं (व्यंसं (*vyaṃsaṃ*))—cutting off the arm (slew).
 
+### Printed p. 733
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 13; Ṛgveda-saṃhitā; p. 733.*
+
+यः (*yaḥ*)—who. पिपुं (*pipuṃ*)—the asura named Pipu. नमुचिं (*namuciṃ*)—Namuci, whom he slew. यः (*yaḥ*)—who. रुधिक्रां (*rudhikrāṃ*)—the asura named Rudhikra. जघान (*jaghāna*)—slew. तस्मै इंद्राय (*tasmai iṃdrāya*)—to that Indra. अंधसः (*aṃdhasaḥ*)—the foods in the form of oblation. जुहोत (*juhota*)—offer and make the oblation.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, offer and make oblations of food, in the form of oblation, to that Indra who utterly destroyed the asura named Aśna; who cut off the arms of the asura named Śuṣṇa, who cannot be dried up by others, and then slew him; and who slew Pipu, Namuci and the asuras named Rudhikra.
+
+**Printed English translation**
+
+Priests, offer the Soma libation to that Indra, who slew Ashna, the, unabsorbable Sushna, and the mutilated(Vritra); who destroyed Pipru Namuchi and Rudhikra
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is said that Indra destroyed the asuras named Āśna, Śuṣṇa, Pipu, Namuci and Rudhikra.
+
+यः सु अश्वं जघान (*yaḥ su aśvaṃ jaghāna*)—अश्नाति भक्षयति प्राणिजातमिति । यद्वा अश्नुते स्वतेजसा सर्वं व्याप्नोतीत्यश्नः । कश्चिदसुरः । तमसुरं सुष्टु इंद्रो जघान । (*aśnāti bhakṣayati prāṇijātamiti | yadvā aśnute svatejasā sarvaṃ vyāpnotītyaśnaḥ | kaścidasuraḥ | tamasuraṃ suṣṭu iṃdro jaghāna |*) Because he devours all living beings, this asura is named Ashma [sic, as printed]; or, because he pervades everything with his own radiance (power), he may also be called Ashma [sic, as printed]. Here it is said that Indra struck this asura named Aśna well and destroyed him. Since the name of that Aśna asura occurs nowhere else, little is known about him.
+
+यः शुष्णं अशुषं यो व्यंसं (*yaḥ śuṣṇaṃ aśuṣaṃ yo vyaṃsaṃ*)—अशुषं केनाप्यशोषणीयं शुष्णमसुरं यश्च तमसुरं व्यंसमंसहीनं कृत्वा जघान (*aśuṣaṃ kenāpyaśoṣaṇīyaṃ śuṣṇamasuraṃ yaśca tamasuraṃ vyaṃsamaṃsahīnaṃ kṛtvā jaghāna*)—it is said that Indra first cut off the arms of the asura Śuṣṇa, who cannot be dried up, and afterwards slew him. Or, since the word यः (*yaḥ*) is read twice here, it may be taken that there are two separate sentences, यः शुष्णं आशुषं जघान (*yaḥ śuṣṇaṃ āśuṣaṃ jaghāna*) and यः व्यंसं जघान (*yaḥ vyaṃsaṃ jaghāna*). In that case the meaning can be given as: for the first sentence, Indra slew the asura Śuṣṇa; for the second, he cut the asura Vṛtra into pieces and slew him. The matter of Indra's slaying the asuras Śuṣṇa and Pipu mentioned in this Ṛk is
+
+### Printed p. 734
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 3, Sū. 14; p. 734.*
+
+also stated in the Ṛk
+
+यो व्यंसं जाहृषाणेन मन्युना यः शंबरं यो अहन्पिप्रमव्रतं । (*yo vyaṃsaṃ jāhṛṣāṇena manyunā yaḥ śaṃbaraṃ yo ahanpipramavrataṃ |*)
+इंद्रो यः शुष्णमशुषं न्यावृणङ्मरुत्वंतं सख्याय हवामहे ॥ (*iṃdro yaḥ śuṣṇamaśuṣaṃ nyāvṛṇaṅmarutvaṃtaṃ sakhyāya havāmahe ‖*)
+(Ṛ. Saṃ. 1-101-2)
+
+Here too it is said that Indra slew the asura Śuṣṇa, who is अशुषं (*aśuṣaṃ*) (not to be killed), that is, who cannot be killed by anyone other than Indra. This asura named Śuṣṇa drinks up all the water on the earth and causes drought. He is extremely powerful; apart from Vṛtra he is the most dangerous enemy. After he was slain by Indra the earth became rich in plants and full of fruit. The name of this Śuṣṇa is read about forty times in the Ṛgveda. He is chiefly the enemy of Kutsa. It is said that Indra destroys Śuṣṇa for Kutsa's sake or together with Kutsa (Ṛ. Saṃ. 4-16-12, 5-29-9, etc.); since there are descriptions that he has horns (1-33-12), eggs (8-40-10, 11) and hisses (1-54-5), he may be called an asura of serpent form. He has strong forts ( -51-11 [sic, as printed, the first numeral missing]; 4-30-13), and these are moving forts (8-1-28). Indra destroys Śuṣṇa's forts and releases the waters (1-51-11). Having destroyed Śuṣṇa's line, he wins the heavenly waters (स्वर्वतीः (*svarvatīḥ*)) (8-40-10). The epithet कुयव (*kuyava*) (one who produces bad grain) is used four times of Śuṣṇa. In the Ṛks Ṛ. Saṃ. 1-103-8 and 1-104-3 the word कुयव (*kuyava*) itself is used in place of the name of Śuṣṇa. There are descriptions (8-85-17) and others that the result of the battle between Indra and Śuṣṇa is not only the release of the waters but may also be the gaining of the cows or of the sun. In the Kāṭhaka it is said that Śuṣṇa is a dānava who keeps nectar within himself. From the sentences mentioned above, Śuṣṇa may be called the cause of drought. We have dealt with him in Ṛ. Saṃ. Part 5-693, 6-72, 8-275, 10-2550, 13-380 and so on.
+
+पिपुं (*pipuṃ*)—It is said in many Ṛks that the asura named Pipu was defeated by Indra many times. Just as Indra fought with Śambara for Divodāsa and Atithigva, so he fought with Pipu for Ṛjiśvan. The matter of Pipu is described in the Ṛks Ṛ. Saṃ. 1-101-1, 2; 4-16-13, 5-29-11, 6-20-7, 8-49-10, 10-99-11, 10-138-3, 1-103-8, 6-18-8, and so on.
+
+वि पिप्रोरहिमायस्य दृळ्हाः पुरो वज्रञ्भवसा न दर्दः । (*vi piprorahimāyasya dṛḷhāḥ puro vajrañbhavasā na dardaḥ |*)
+(Ṛ. Saṃ. 6-20-7)
+
+### Printed p. 735
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 13; Ṛgveda-saṃhitā; p. 735.*
+
+In this Ṛk it is said that Indra destroyed the firm ramparts (forts) of Pipu.
+
+यः स्वबिंदमनशनिं पिपुं दासमहीशुवं । (*yaḥ svabiṃdamanaśaniṃ pipuṃ dāsamahīśuvaṃ |*)
+(Ṛ. Saṃ. 8-32-2)
+
+In this Ṛk it is also said that Pipu belonged to the company of the Dāsa people. Some doubt whether Pipu was an asura or a man belonging to the company of the Dasyu people devoid of vows.
+
+It is uncertain whether he was a demon, according to Roth’s view, which is favoured by the use of the word असुर (*asura*) or a human foe. as Ludwing, Oldenberg, Hillebrandt believe. The name may mean resister from the root प्रृ (*prṛ*). (Vedic Index of Names and Subjects p. 532)
+
+This Pipu is the enemy of Ṛjiśvan, the dependent of Indra. This Ṛjiśvan, offering Soma juice to Indra, gets Indra's help when he fights against Pipru (Ṛ. Saṃ. 5-29-11, 10-99-11). Indra, together with Ṛjiśvan or for him, defeated Pipu (1-101-1, 2; 10-138-3, 4-16-13, 6-20-7). Pipru, endowed with the māyās of Ahi, has many forts under his control. Indra breaks them (1-51-5, 6-20-7). Indra slew Pipru the Dāsa and some others and released the waters (8-32-2). Indra, being with Ṛjiśvan, demolished the strong forts of the asura Pipu, the possessor of māyā (10-138-3). Indra handed over to Ṛjiśvan Pipru, who was in the form of a wild beast; and he defeated fifty thousand black people and broke open the strongholds (4-16-3). Joining with Ṛjiśvan, Indra destroyed the very progeny of the black people (1-111-1). Many such descriptions about Pipru are stated here and there.
+
+नमुचिं (*namuciṃ*)—इंद्रेण सह युद्धं न मुंचतीति नमुचिः तं । (*iṃdreṇa saha yuddhaṃ na muṃcatīti namuciḥ taṃ |*) Because he does not give up fighting with Indra, he is named Namuci. Namuci is an asura. Since he was very mighty, it became very difficult for Indra to fight and conquer him. We have written about this asura in Ṛ. Saṃ. Part 5-695, 105-50. But since the commentator indicates that Indra's slaying of Namuci is stated in the Taittirīya Brāhmaṇa, we have set it out here—
+
+इंद्रो वृत्रेग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं (*iṃdro vṛtregṃ hatvā | asurān parābhāvya | namucimāsuraṃ nālabhata | tagṃ*)
+शच्यागृह्णात् । तौ समलभेतां। सोऽस्मादभिशुनतरोऽभवत् । सोऽब्रवीत् । (*śacyāgṛhṇāt | tau samalabhetāṃ| so 'smādabhiśunataro 'bhavat | so 'bravīt |*)
+संधाग्ं संदधावहै । अथ त्वावस्रक्ष्यामि । न मा शुष्केण नार्द्रेण हनः । न (*saṃdhāgṃ saṃdadhāvahai | atha tvāvasrakṣyāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | na*)
+दिवा न नक्तमिति । स एतमपां फेनमसिंचत् । न वा एष शुष्को नार्द्रो (*divā na naktamiti | sa etamapāṃ phenamasiṃcat | na vā eṣa śuṣko nārdro*)
+
+(The passage continues on the next page.)
+
 ---
 
-**Progress note:** Done through printed p. 732 (PDF 732). Sukta 14 Rk 3 Special Topics end, Rk 4, Rk 5 start
+**Progress note:** Done through printed p. 735 (PDF 735). Sukta 14 Rk 5 end, Special Topics (Shushna, Pipru, Namuci)
