@@ -5863,6 +5863,84 @@ greatly increases or shines. Many sentences are found here and there with the se
 
 *Gist: Indra gives food and strengthening wealth to the sacrificers, milks sweet juice even from dry stalks, places wealth in the house of the one who serves him, and rules alone over the whole world.*
 
+### Printed p. 700
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 700.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इंद्र (*iṃdra*) — O Indra.) यः (*yaḥ*) — you who. भोजनं (*bhojanaṃ*) — food and the like. दयसे (*dayase*) — you give (to the sacrificers and others). च (*ca*) — and. वर्धनं च (*vardhanaṃ ca*) — wealth and strength that cause increase, too, you give; (likewise). आद्र्रात् (*ādrrāt*) — from the moist stalk. शुष्कं (*śuṣkaṃ*) — dried grain and the like. मधुमत् (*madhumat*) — as endowed with sweet juice. दुदोहिथ (*dudohitha*) — you have milked. सः (*saḥ*) — such you. विवस्वति (*vivasvati*) — in the sacrificer who offers you service. शेवधिं (*śevadhiṃ*) — a treasure of wealth. नि दधिषे (*ni dadhiṣe*) — you lay down. (And) विश्वस्य (*viśvasya*) — of the whole world. एकः (*ekaḥ*) — being without a second. ईशिषे (*īśiṣe*) — you are the lord. सः (*saḥ*) — such you. उक्त्यः असि (*uktyaḥ asi*) — are worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who give the sacrificers and others food and the like, and also wealth and strength that cause increase; and who, as it were, milk from the moist stalk dried grain endowed with sweet juice, such a one as you lay down a treasure of wealth in the sacrificer who offers you service. You are the one, unequalled lord of the whole world; such an excellent one, you are worthy of praise.
+
+**Printed English**
+
+(You are he) who bestow both food and increase, and milk the dry nutritious(grain) from out the humid stalk: he, who gives wealth to the worshipper, and are sole sovereign of the Universe; you are he,(Indra), who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यो भोजनं च दयसे च वर्धनं (*yo bhojanaṃ ca dayase ca vardhanaṃ*) — भुज्यत इति भोजनमन्नादि (*bhujyata iti bhojanamannādi*) and the rest (the commentator's Sanskrit, as in the Bhāṣya above). The meaning is: Indra, you give the sacrificers who perform sacrifice, or the priests who sing praises, food and the like, and wealth or strength that grows.
+
+आद्र्रात् आ शुष्कं मधुमत् मुदोहिथ (*ādrrāt ā śuṣkaṃ madhumat mudohitha*) — तथाद्र्रात्कांडात् शुष्कमनार्द्रं व्रीह्यादिकं मधुमत् मधुररसोपेतं दुदोहिथ दुग्धवानसि (*tathādrrātkāṃḍāt śuṣkamanārdraṃ vrīhyādikaṃ madhumat madhurarasopetaṃ dudohitha dugdhavānasi*) (the commentator's Sanskrit). Sāyaṇa's explanation is that you provide, from the moist stalk, grain such as rice that is well dried and agreeable. In this sentence there is no word that denotes grain; yet the commentator supplies that word and explains the meaning. Or, if it be thought that the seer's intention may be that you produce sweet Soma juice from the moist Soma creeper, then the word शुष्कं (*śuṣkaṃ*) would have no meaning. In short, the meaning of this sentence is not clear.
+
+### Printed p. 701
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 11] Ṛgveda-saṃhitā; p. 701.*
+
+शेवधिं (*śevadhiṃ*) — The word शेवं (*śevaṃ*) is read among the names for happiness (Ni. 3-13). The commentator explains शेवधिं (*śevadhiṃ*) as धनसदनं (*dhanasadanaṃ*) a treasure, that is, an immense heap of wealth. Since happiness is obtained from wealth, this meaning too may be given.
+
+विश्वस्य एक ईशिषे (*viśvasya eka īśiṣe*) — सर्वस्य जगत एकोऽद्वितीय एव सन् ईशिषे स्वामी भवसि (*sarvasya jagata eko 'dvitīya eva san īśiṣe svāmī bhavasi*) (the commentator's Sanskrit). You alone are the lord of the entire universe. There is no other equal to you. You are the master of all: thus Indra's greatness is described.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> यः पु॒ष्पिणी॑श्च प्र॒स्व॑श्च॒ धर्म॒णाधि॒ दाने॒ व्य१॒॑गवनी॒रधा॑रयः ।
+> यश्चास॑मा॒ अज॑नो दि॒द्युतो॑ दि॒व उ॒रुरू॒र्वा अ॒भितः॒ सास्यु॒क्थ्यः॑ ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । पुष्पिणीः । च । प्रस्वः । च । धर्मणा । अधि । दाने । वि । अवनीः । अधारयः ।
+> यः । च । असमाः । अजनः । दिद्युतः । दिवः । उरुः । ऊर्वान् । अभितः । सः । असि ।
+> उक्थ्यः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र यस्त्वं पुष्पिणीः पुष्पवतीश्च प्रस्वः प्रसूताः प्रसूयमाना नाव-
+> नीरवित्रीरोषधीर्दानेऽधि ॥ उपलूयंते सस्यान्यत्रेति दानं क्षेत्रं । अधिकरणे
+> ल्युट् ॥ तस्मिन् क्षेत्रे धर्मणा सकललक्षणेन कर्मणा व्यधारयः । न्यदधाः । यश्च
+> त्वं दिवो द्योतमानस्य सूयस्यासमा विषमा नानाप्रकारा दिद्युतो दीप्तीरजनः ।
+> अजनयः । यद्वा दिवो नक्षत्राणि ॥ जनेर्लजः व्यत्ययेन शप् ॥ यश्चोरुर्महां-
+> स्त्वमभितः सर्वत ऊर्वान् महतः प्राणिनिकायान् पर्वतान्वाजनयः शिष्टं स्पष्टं ॥
+
+*Gist: Indra established flowering and fruiting plants in the field by proper rite, created the sun's varied rays, and made vast creatures; he is to be praised.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इंद्र (*iṃdra*) — O Indra.) यः (*yaḥ*) — you who. पुष्पिणीः (*puṣpiṇīḥ*) — those endowed with flowers. च (*ca*) — and. प्रस्वः (*prasvaḥ*) — those that yield fruits. अवनीः (*avanīḥ*) — the plants. दाने अधि (*dāne adhi*) — in the field.
+
+### Printed p. 702
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13 (as printed "ಸೂ. ೩"); p. 702.*
+
+धर्मणा (*dharmaṇā*) — by a rite endowed with all characteristics. वि आधारयः (*vi ādhārayaḥ*) — you have established. च (*ca*) — moreover. यः (*yaḥ*) — you who. दिवः (*divaḥ*) — of the shining sun. असमाः (*asamāḥ*) — of many kinds. दिद्युतः (*didyutaḥ*) — the rays. अजनः (*ajanaḥ*) — you created (and). उरुः (*uruḥ*) — being of vast body. अभितः (*abhitaḥ*) — all around. ऊर्वान् (*ūrvān*) — great multitudes of creatures too you created. सः (*saḥ*) — such. (you,) उक्त्यः असि (*uktyaḥ asi*) — are worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who by a rite endowed with all characteristics have established in the field the plants that are endowed with flowers and yield fruits; moreover, who have created the many kinds of rays of the shining sun (and likewise the stars), and, being of vast body, have created great multitudes of creatures: such a one you are worthy of praise.
+
+**Printed English**
+
+You have caused, by culture, the flowering and fruitful(plants) to spread over the field; you have generated the varions [sic] luminaries of heaven; and who, of vast bulk, comprehend vast‘(bodies); yon [sic] are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः पुष्टिणीः च प्रस्वः च धर्मणा अधि दाने वि अवनीः आधारयः (*yaḥ puṣṭiṇīḥ ca prasvaḥ ca dharmaṇā adhi dāne vi avanīḥ ādhārayaḥ*) — पुष्पवतीक्ष्य प्रसूयमाना अवनीरवित्रीरोषधीर्दाने क्षेत्रे सकललक्षणेन कर्मणा न्यदधाः (*puṣpavatīkṣya prasūyamānā avanīravitrīroṣadhīrdāne kṣetre sakalalakṣaṇena karmaṇā nyadadhāḥ*) (the commentator's Sanskrit; the supplied text has पुष्टिणीः (*puṣṭiṇīḥ*) for पुष्पिणीः (*puṣpiṇīḥ*) and पुष्पवतीक्ष्य (*puṣpavatīkṣya*), reported, not changed). In this sentence the commentator has taken the word दान (*dāna*) to mean a field (land, a plot), अवनीः (*avanīḥ*) to mean plants (rice and similar crops), and धर्मणा (*dharmaṇā*) to mean by a rite endowed with all characteristics. If these meanings are accepted, the sentence means: O Indra, you have set up natural cosmic laws by which the plants and the like that grow in fields, paddies and so on, in whatever seasons and in whatever manner they should grow and increase, first put forth flowers and afterwards bear fruit. That is, plants, trees, creepers and the like, subject to your regulation, continue without fail to perform such functions as flowering and fruiting at their proper seasons: this is the main intention.
+
+यः च असमाः अजनः दिद्युतः दिवः उरुः ऊर्वान् अभितः (*yaḥ ca asamāḥ ajanaḥ didyutaḥ divaḥ uruḥ ūrvān abhitaḥ*) — In this sentence also the meaning must be given by supposing some words. The various kinds of rays of the sun
+
 ---
 
-**Progress note:** Done through printed p. 699 (PDF 699). Sukta 13 Rik 5 bhashya to Special Topics; Rik 6 Samhita, Pada, bhashya
+**Progress note:** Done through printed p. 702 (PDF 702). Sukta 13 Rik 6 Special Topics, Rik 7 (Samhita and Pada read from figure)
