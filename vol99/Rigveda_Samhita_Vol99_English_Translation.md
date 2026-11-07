@@ -2806,6 +2806,112 @@ Thus the Kaṭha-upaniṣad shows the greatness of the stoma and the spiritual p
 
 In the Chāndogya [as stated in the Kannada text; the reference given is "Bhā. U."] also, describing the greatness of the udgītha, it is stated that one should meditate relying on that stoma by which the stotra becomes complete in accordance with the circumstances of the occasion [?]. In the same way in the present ṛk also, "stotra" means a stotra of chanted nature, that is recited by the hotṛ priests and others at the time of the rite [कर्षुकालदल्लि (*karṣukāladalli*) as supplied; sense uncertain [?]], which gives exceptional benefit and is an ornament to the rite. Sāyaṇa has explained it as स्तोत्रैर्गानयुक्तमंत्रसाध्यैः (*stotrairgānayuktamaṃtrasādhyaiḥ*) ("by stotras, effected by mantras joined with chant").
 
+### Printed p. 592
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 11, p. 592.*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> शु॒भ्रं नु ते॒ शुष्मं॑ व॒र्धयं॑तः शु॒भ्रं वज्रं॑ बा॒ह्वोर्दधा॑नाः ।
+> शु॒भ्रस्त्वमिं॑द्र वावृधा॒नो अ॒स्मे दासी॒र्विशः॒ सूर्ये॑ण सह्याः ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> शुभ्रं । नु । ते । शुष्मं । वर्धयंतः । शुभ्रं । वज्रं । बाह्वोः । दधानाः ।
+> शुभ्रः । त्वं । इंद्र । ववृधानः । अस्मे इति । दासीः । विशः । सूर्येण । सह्याः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र ते तव शुभ्रं शोभनं शुष्मं बलं स्तोत्रैर्वर्धयंतः शुभ्रं
+> दीप्तं वज्रमायुधं नु क्षिप्रं तव बाह्वोर्धधाना निदधानाः । स्तूयमानो
+> हींद्रोऽसुरवधाय वज्रमादत्त इतीत्थंरूपेणायुधं निदधाना भवामः । नावृ-
+> धानः स्तोत्रैर्वर्धमानः शुभ्रस्तेजसा युक्तस्त्वमस्मे अस्माकं दासीरुपक्षपयित्रि-
+> र्विश आसुरीः प्रजाः सूर्येण सुष्टु प्रेरकेण । आयुधं हि प्रेरयति त्वं युध्य-
+> स्वति । एवंरूपेण बाह्वोनिहितेन वज्रेण सह्याः । अभिभव । सहतेर्व्यत्ययेन
+> लिजि परस्मैपदं ॥
+
+*Gist:* We, strengthening your bright might, place the shining thunderbolt in your hands; you, bright and growing, overcome the servile (Asura) peoples with it.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र—O Indra (इंद्र (*iṃdra*)). ते (*te*)—your. शुभ्रं (*śubhraṃ*)—beautiful. शुष्मं (*śuṣmaṃ*)—strength. वर्धयंतः (*vardhayaṃtaḥ*)—causing to grow (by praises and the like). शुभ्रं (*śubhraṃ*)—shining. वज्रं (*vajraṃ*)—the thunderbolt. नु (*nu*)—quickly. बाह्वोः (*bāhvoḥ*)—in your arms. दधानाः (*dadhānāḥ*)—we place. वावृधानः (*vāvṛdhānaḥ*)—grown great (through praises and the like). शुभ्रः (*śubhraḥ*)—endowed with brilliance. त्वं (*tvaṃ*)—you. अस्मे (*asme*)—our. दासीः (*dāsīḥ*)—harmful. विशः (*viśaḥ*)—the Asura peoples. सूर्येण (*sūryeṇa*)—with the weapon that is excellently hurled. सह्याः (*sahyāḥ*)—defeat.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, we place in your arms the shining thunderbolt, quickly, while making your beautiful strength grow by praises and the like; you, grown great, [continues on the next page]
+
+### Printed p. 593
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 3, p. 593.*
+
+endowed with brilliance, defeat our harmful Asura peoples with the weapon that is excellently hurled.
+
+**Printed English translation**
+
+We are invigorating your brilliant strength(by our praises), and placing the thunderbolt in your hands: do you, Indra, radiant, increasing in strength, and(encouraged) by the sun, overpower, for our(good), the servile people.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अस्मे (*asme*)—The word अस्मे (*asme*) is used in all seven case-meanings; that is, the word is used in the senses "we", "us", "by us" and so on. In this ṛk the sense of the sixth case, "our", must be understood. Various uses of the word अस्मे (*asme*), with examples, are explained at Ṛ. Saṃ. Part 6, page 538, and in the ninth and tenth Maṇḍalas (as printed, nine, eighty-two; ten, one hundred seventy), and other places.
+
+दासी विशः (*dāsī viśaḥ*)—Asura peoples. The explanation of the words दास (*dāsa*) and दस्यु (*dasyu*) and other matters we have explained at length in this Part, on the pages numbered five hundred and eighty to five hundred and eighty-two.
+
+सूर्येण (*sūryeṇa*)—"by one who impels well". Here the commentator, taking the word सूर्येण (*sūryeṇa*) in the sense "one who impels well", has stated it as an epithet of Indra.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> गुहा॑ हि॒तं गुह्यं॑ गू॒ळ्हम॒प्स्वपी॑वृतं मा॒यिनं॑ क्षि॒यंतं॑ ।
+> उ॒तो अ॒पो द्यां त॑स्त॒भ्वांस॒मह॒न्नहिं॑ शूर वी॒र्ये॑ण ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> गुहा । हितं । गुह्यं । गूळ्हं । अप्सु [?] । अपिवृतं [?] । मायिनं । क्षियंतं ।
+> उतो इति । अपः । द्यां । तस्तभ्वांसं । अहन् । अहिं । शूर । वीर्येण ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे शूरेंद्र गुहा गुहायां हितं निहितं आत एव गुह्यमप्रकाश्यं गूढं
+> गूढमपीवृतं तिरोहितं । अत्रैकस्मिंस्तिरोधानरूपेऽर्थे पुनरुक्तयस्तिरोधान-
+
+> *he śūreṃdra guhā guhāyāṃ hitaṃ nihitaṃ āta eva guhyamaprakāśyaṃ gūḍhaṃ*
+> *gūḍhamapīvṛtaṃ tirohitaṃ | atraikasmiṃstirodhānarūpe 'rthe punaruktayastirodhāna-*
+
+### Printed p. 594
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 11, p. 594.*
+
+> भूयस्त्वप्रतिपादनपराः । अभ्यासे हि भूयानर्थो भवति । यथाहो दर्शनीया-
+> हो दर्शनीयेति । तादृशं मायिनं मायाविनमसुरं क्षियंतं निवसंतं उतो
+> अपि चापो द्यां दिवं च तस्तभ्वांसं स्वसामर्थ्येन स्तंभयंतं इत्थंभूतमहिम-
+> सुरं मेघं वा वीर्येण सामर्थ्यभूतेन वज्रेणाहन् । हतवानसि ॥ हनहिंसा-
+> गत्योरित्यस्य लजि रूपं ॥
+
+*Gist:* Indra, you have slain with your thunderbolt the Asura (or cloud) who lay hidden, concealed and covered in the waters, and who held back the waters and the sky.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+शूर (*śūra*)—O valiant Indra. गुहा हितं (*guhā hitaṃ*)—one hidden in a cave. गुह्यं (*guhyaṃ*)—one without light. गूढं (*gūḍhaṃ*)—one who is concealed. अपीवृतं (*apīvṛtaṃ*)—one who has been hidden. मायिनं (*māyinaṃ*)—one of deceitful mind. अप्पु (*appu*) [sic, as supplied]—in the waters. क्षियंतं (*kṣiyaṃtaṃ*)—one who dwells in hiding. उतो (*uto*)—moreover. अपः (*apaḥ*)—the waters. द्यां (*dyāṃ*)—the heavenly world. तस्तभ्वांसं (*tastabhvāṃsaṃ*)—one who has held back (by his power). अहिं (*ahiṃ*)—the Asura. वीर्येण (*vīryeṇa*)—with the thunderbolt endowed with your own power. अहन् (*ahan*)—you have slain.
+
+**भावार्थ (Bhāvārtha)**
+
+O valiant Indra, you have slain the Asura who was hidden in a cave, without light, concealed, hidden away, of deceitful mind, dwelling secretly in the waters, and who, moreover, held back the waters and the heavenly world by his power, with your thunderbolt endowed with your own power.
+
+**Printed English translation**
+
+Indra, hero, you have slain by your prowess the glorified Ahi, hidden privily in a cave, lurking in concealment, covered by the waters iu [sic] which he was abiding, and arresting the rains in the sky.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+गुहा हितं (*guhā hitaṃ*)—"cave-like", that is, hidden in an inaccessible secret place. Here गुहा (*guhā*) may be taken to mean either a cave or a secret place. In the Ṛgveda and in the Upaniṣads it is customary to denote a thing placed in a secret place unknown to anyone by the words गुहा हितं (*guhā hitaṃ*)—
+
+गुहा त्रीणि निहिता नेंगयंति तुरीयं वाचो मनुष्या वदंति । (*guhā trīṇi nihitā neṃgayaṃti turīyaṃ vāco manuṣyā vadaṃti |*) (Ṛ. Saṃ. 1-164-45)
+
+अविंदद्दिवो निहितं गुहा निधिं वेर्न गर्भं परिवीतमश्मनंते अंतरत्मनि । (*aviṃdaddivo nihitaṃ guhā nidhiṃ verna garbhaṃ parivītamaśmanaṃte aṃtaratmani |*) (Ṛ. Saṃ. 1-130-3)
+
 ---
 
-**Progress note:** Done through printed p. 591 (PDF 591). Stoma-vṛddhi/āvāpa, Taittirīya passages on stomas (Special Topics, Maṇḍala 2 Sūkta 11)
+**Progress note:** Done through printed p. 594 (PDF 594). Maṇḍala 2 Sūkta 11 Ṛks 4-5; figures read for Saṃhitā 4, 5 and Pada 5
