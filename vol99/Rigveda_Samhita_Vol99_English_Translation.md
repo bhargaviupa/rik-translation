@@ -6970,6 +6970,104 @@ O Adhvaryus, offer Soma, bringing it, to that Indra who split with the very hard
 
 Priests, present the Soma libation to him, who, with the adamantine (thunderbolt). demolished [sic, as printed] the hundred ancient cities of Shambara, and cast down the hundred thousand(descendants) [sic, as printed] of Varchin.
 
+### Printed p. 739
+
+*Running head: Ṛgvedasaṃhitā; Maṃ. 2, A. 2, A. 6, V. 13; p. 739.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is stated that Indra destroyed a hundred cities of the asura named Śambara, and that he killed eleven hundred heroes (a hundred and a thousand) of the asura Varcin.
+
+यः शतं शंबरस्य पुरः बिभेद अश्मनेन पूर्विः (*yaḥ śataṃ śaṃbarasya puraḥ bibheda aśmanena pūrviḥ*)—यः इंद्रः शंबरस्य मायाविनोऽसुरस्य पूर्विः पुरातनीः शतं पुरः पुरीरश्मनेव अश्मसदृशेन वज्रेण बिभेद (*yaḥ iṃdraḥ śaṃbarasya māyāvino 'surasya pūrviḥ purātanīḥ śataṃ puraḥ purīraśmaneva aśmasadṛśena vajreṇa bibheda*). The meaning of this sentence is that Indra split (destroyed) with his thunderbolt, hard as stone, the hundred ancient cities of the asura named Śambara. Here the word शतं (*śataṃ*) can be taken to mean "many, numerous". Because—
+
+इंद्राविष्णू द्यंहिताः शंबरस्य नव पुरो नवतिं च श्वथिष्टं (*iṃdrāviṣṇū dyaṃhitāḥ śaṃbarasya nava puro navatiṃ ca śvathiṣṭaṃ*)
+(Ma. Saṃ. 7-99-5)
+
+in this Ṛk it is said that Indra, together with Viṣṇu, destroyed ninety-nine cities of Śambara. Therefore here too the words नव नवतिं (*nava navatiṃ*) can be given the sense "many". Similarly, on the destruction of Śambara's cities by Indra—
+
+भिनत्पुरो नवतिमिंद्र पूरवे दिवोदासाय महि दाशुषे नृतो वज्रेण दाशुषे नृतो (*bhinatpuro navatimiṃdra pūrave divodāsāya mahi dāśuṣe nṛto vajreṇa dāśuṣe nṛto*) ।
+अतिथिग्वाय शंबरं गिरेरुग्रो अवाभरत् (*atithigvāya śaṃbaraṃ girerugro avābharat*) ।
+(Ma. Saṃ. 1-130-7)
+
+in this Ṛk it is said that Indra split ninety cities of Śambara.
+
+दिवोदासाय नवतिं च ननेंद्रः पुरो वैरच्छंबरस्य (*divodāsāya navatiṃ ca naneṃdraḥ puro vairacchaṃbarasya*) ।
+(Ṛ. Saṃ. 2-19-6)
+
+here it is said that Indra destroyed ninety-nine cities of Śambara for Divodāsa.
+
+This Śambara is one of Indra's chief enemies. His name and his story are mentioned in the Ṛks Ṛ. Saṃ. 1-51-6, 1-54-4, 1-59-6, 1-101-2, 1-.03-8 [?], 1-112-14, 1-130-7, 2-12-11, 2-14-6, 2-19-6, 4-26-3, 4-30-14, 6-18-8, 6-26-5, 6-31-4, 6-31-1, 6-47-2, 6-47-21, 7-18-20, 7-99-5. His name is commonly read together with Śuṣṇa, Pipru and Varcin. His cities are said to have been 90, 99 and 100. He is said to have been the chief enemy of Divodāsa Atithigva, and that Atithigva defeated him with Indra's help, in the Ṛks 1-51-6, 1-130-7, 2-19-6, 4-26-3 and others. It can be understood that he was a chieftain among the early inhabitants of this country, who lived in the hills and hillocks and gave trouble to the Āryas
+
+### Printed p. 740
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 740.*
+
+(continued from p. 739:) He was a chieftain who caused trouble to the Āryas; so it can be understood. We have described his story in Ṛ. Saṃ. Bhāga 5-74, 5-694, 8-274, 10-550 and other places.
+
+यः वर्चिनः शतं इंद्रः सहस्रं अपावपत् (*yaḥ varcinaḥ śataṃ iṃdraḥ sahasraṃ apāvapat*)—Indra felled to the ground and killed a hundred thousand heroes (together with the sons, grandsons and others of) the asura named Varcin. Here the commentator has given two kinds of meaning to the word वर्चिनः (*varcinaḥ*) (वर्च-दीप्तौ (*varca-dīptau*)): either "resplendent, that is, valiant heroes", or "of the asura named Varcin". Of these, taking the word Varcin as the asura of that name is the more fitting. Because—
+
+शतं वर्चिनः सहस्रं च साकं हथो अप्रत्यसुरस्य वीरान् (*śataṃ varcinaḥ sahasraṃ ca sākaṃ hatho apratyasurasya vīrān*) ।
+(Ṛ. Saṃ. 7-99-5)
+
+उत दासस्य वर्चिनः सहस्राणि शतावधीः (*uta dāsasya varcinaḥ sahasrāṇi śatāvadhīḥ*) ।
+(Ṛ. Saṃ. 4-30-5)
+
+in these Ṛks the killing of a hundred thousand heroes of the asura Varcin is stated. Here the words शतं सहस्रं च (*śataṃ sahasraṃ ca*) can be understood in two ways, as "a hundred thousand", that is one lakh, or as "eleven hundred". The sense on the whole is "many heroes". And—
+
+अहन् दासा वृषभो वस्ययंतोदव्रजे वर्चिनं शंबरं च (*ahan dāsā vṛṣabho vasyayaṃtodavraje varcinaṃ śaṃbaraṃ ca*) ।
+(Ṛ. Saṃ. 6-47-21)
+
+in this Ṛk the slaying of the asuras Varcin and Śambara is mentioned.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यः श॒तमा स॒हस्रं॒ भूम्या॑ उ॒पस्थेव॑पज्जघ॒न्वान् ।
+> कुत्स॑स्या॒योर॑तिथि॒ग्वस्य॑ वी॒रान्न्यवृ॑ण॒ग्भर॑ता॒ सोम॑मस्मै ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । शतं । आ । सहस्रं । भूम्याः । उपस्थे । अवपत् । जघन्वान् ।
+> कुत्सस्य । आयोः । अतिथिग्वस्य । वीरान् । नि । अवृणक् । भरत । सोमं । अस्मै ॥ ७ ॥
+
+> *adhvaryavaḥ | yaḥ | śataṃ | ā | sahasraṃ | bhūmyāḥ | upasthe | avapat | jaghanvān |*
+> *kutsasya | āyoḥ | atithigvasya | vīrān | ni | avṛṇak | bharata | somaṃ | asmai ‖ 7 ‖*
+
+### Printed p. 741
+
+*Running head: Ṛgvedasaṃhitā; Maṃ. 2, A. 2, A. 6, V. 14; p. 741.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवो जघन्वान् पूर्वं शत्रून् हतवान् य इंद्रः शतं सहस्रम-
+> सुरान् भूम्या उपस्थ उत्संगेवपत् । एकैकेन प्रकारेणापातयत् । किंच यः
+> कुत्सस्यॆतन्नामकस्य राजर्षेः । अयोः पौरूरवसस्य राजर्षेः । अतिथिग्वस्य दिवो-
+> दासस्य । एतेषां त्रयाणां वीरानभिगंत्यान्प्रतिद्वंद्विनः शुष्णादीनसुरान् न्यवृणक् ।
+> वृणक्तिर्हिंसाकर्मा । अवधीत् । तथा च मंत्रवर्णः । त्वं कुत्सं शुष्णहत्येश्वा-
+> विधारंधयोऽतिथिग्वाय शंबरं । १.५१_६ । इति । तादृशायेंद्राय सोमं भरत ॥
+
+*Gist:* Adhvaryus, offer Soma to that Indra who felled hundreds and thousands of asuras on the earth's lap and destroyed the foes of Kutsa, Ayu and Atithigva, such as Śuṣṇa.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यः (*yaḥ*)—the Indra who. शतं सहस्रं (*śataṃ sahasraṃ*)—thousands upon thousands (immeasurable in number) of asuras. जघन्वान् (*jaghanvān*)—having killed. भूम्याः (*bhūmyāḥ*)—of the earth. उपस्थे (*upasthe*)—upon the lap. आवपत् (*āvapat*)—felled one by one (and moreover). कुत्सस्य (*kutsasya*)—for the sage Kutsa. आयोः (*āyoḥ*)—for Āyu. अतिथिग्वस्य (*atithigvasya*)—for the sage named Atithigva. वीरान् (*vīrān*)—all the asuras, Śuṣṇa and others, who were hostile and tormenting. न्यवृणक् (*nyavṛṇak*)—destroyed. अस्मै (*asmai*)—to such an Indra. सोमं (*somaṃ*)—Soma. भरत (*bharata*)—bring and offer.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, offer Soma juice, bringing it, to that Indra who killed thousands of asuras and felled them one by one on the lap of the earth, and who, moreover, destroyed all the asuras, Śuṣṇa and others, who were hostile to the sages Kutsa, Āyu and Atithigva and tormented them.
+
+**Printed English translation**
+
+Priests, presented the Soma libation to him, who, slaying hundreds and thousands(of Asuras). cast them down upon the lap of the earth; who dest- royed [sic] the assailants of Kutsa, Ayu, aud [sic] Atithigwa.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+कुत्सस्य आयोः अतिथिग्वस्य (*kutsasya āyoḥ atithigvasya*)—It is said that Indra felled and killed many heroes who were enemies of these three persons, in order to help them. About them—
+
+त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने आरंधनायः (*tvamasmai kutsamatithigvamāyuṃ mahe rājñe yūne āraṃdhanāyaḥ*) ।
+(Ma. Saṃ. 1-53-10)
+
 ---
 
-**Progress note:** Done through printed p. 738 (PDF 738). Sukta 14 Rk 5 Special Topics (Namuci, Rudhikra); Rk 6
+**Progress note:** Done through printed p. 741 (PDF 741). Sukta 14 Rk 6 Special Topics; Rk 7 Samhita/Pada from figure, bhashya, Pratipadartha, Bhavartha, Special Topics begun
