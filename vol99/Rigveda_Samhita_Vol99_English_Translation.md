@@ -2688,6 +2688,84 @@ O valiant Indra, in the praises in the form of ukta, and in the happiness-bringi
 
 Indra, hero, these brilliant(laudations), in(the form of) hymns, in which you delight, and in(that of) the praises uttered by the worshippers by which you are gratified, are addressed to you, to bring you,(to our sacrifice).
 
+### Printed p. 586
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 11, p. 586.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रुद्रियेषु (*rudriyeṣu*) (Rudriyeṣu)—Since the word रुद्रः (*rudraḥ*) (rudraḥ) is read among the thirteen names of worshippers (stotṛ) beginning with रेभः (*rebhaḥ*) (rebhaḥ) and जरिता (*jaritā*) (jaritā), "in the rudriyas" means in the hymns, or in the stomas, recited by the priests called udgātṛs.
+
+वायवे (*vāyave*) (Vāyave)—This word is formed from the root वा गतिगंधनयोः (*vā gatigaṃdhanayoḥ*) (vā gatigandhanayoḥ); it means "for you who are coming", that is, for you who are coming to the place of sacrifice with reference to our sacrifice: this is the sense.
+
+स्तोमेषु (*stomeṣu*) (Stomeṣu)—In the Abhiplava-ṣaḍaha sacrifice, on the odd days, that is the first, third and fifth days, at the midday pressings (Mādhyandina-savana; the rite of pressing the Soma juice at midday) the udgātṛ and other priests praise with the Sāma chants called Rathantara; hence these days are called Rathantara-pṛṣṭha. In the same way, on the even days, that is the second, fourth and sixth days, they praise with the Sāma chant called Bṛhat-sāma; hence these days are called Bṛhat-pṛṣṭha days. From the third day onward, when the pṛṣṭhya hymns are recited each day, special Sāma mantras called Vairūpa, Vairāja and Śākvara-raivata are sung in their place. At that time, in accordance with the Sāma chanting, the priests of the hotṛ class recite certain ṛks called a stoma. The explanation of the stoma is as follows—
+
+एकं साम तृचे क्रियते । तस्य च तृचस्य आवृत्ता ऋचां संख्या वर्धनीया भवति या स्तोमशब्देनोच्यत इति ॥ (*ekaṃ sāma tṛce kriyate | tasya ca tṛcasya āvṛttā ṛcāṃ saṃkhyā vardhanīyā bhavati yā stomaśabdenocyata iti ‖*)
+
+A tṛca means three ṛks. These three ṛks must be such as to set forth one and the same deity. Such ṛks can be increased into many ṛks by varying their positions in many ways, and by reciting each ṛk more than once. Example: in one tṛca there are the ṛks 1, 2, 3. Both by changes of position such as 1, 2, 3; 3, 2, 1; 1, 3, 2; 2, 1, 3; 2, 3, 1; 3, 1, 2, and so on, and by additional repetitions such as 1, 1, 1, 2, 3; 1, 2, 2, 2, 3; 1, 2, 3, 3, 3, and so on, when they are recited the three ṛks become many ṛks. Reciting the three ṛks called a tṛca in any one such order, that is, beginning with 1, 2, 3 or with 1, 2, 3, 3, 3, is called a paryāya. When there are three such paryāyas, one viṣṭuti is formed. For every stoma such viṣṭutis are of many kinds, with different names.
+
+### Printed p. 587
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 3, p. 587.*
+
+Therefore, reciting the tṛca of three ṛks in three paryāyas, each in a different order, is what is called a stoma. Among the stomas there are nine kinds: Trivṛt, Pañcadaśa, Saptadaśa, Ekaviṃśa, Triṇava, Trayastriṃśa, Caturviṃśa, Catuścatvāriṃśa and Aṣṭācatvāriṃśa. In the Trivṛt stoma the tṛca is recited three times in different orders, so this stoma is called Trivṛt-stoma. Hence the total number of ṛks in the three paryāyas of the Trivṛt-stoma is 9. In the stomas beginning with Pañcadaśa, the three paryāyas contain fifteen or more ṛks, in keeping with the name of each stoma; that is, in the Pañcadaśa-stoma the three paryāyas together have 15 ṛks, in the Saptadaśa-stoma the three paryāyas together have 17 ṛks, and so on. Thus the stomas have received their names in accordance with the numbers of ṛks. There is no rule that every paryāya must have the same number of ṛks. The viṣṭutis of the respective stomas must contain the fixed number of ṛks by means of three paryāyas. The details are as follows—
+
+(1) Trivṛt-stoma—by three paryāyas, 9 ṛks in all
+
+(1) Trivṛt-stoma [sic, as printed त्रिवृत्सोम (*trivṛtsoma*); and "ಮುಕ್ಕುಗಳು" for "ಋಕ್ಕುಗಳು"; the line is a garbled repetition of the previous one in the supplied text]—by three paryāyas, 9 ṛks in all
+
+[Table of the nine stomas, in the order of the supplied text, whose layout is garbled so that numbers and names cannot be paired with certainty [?]: the names are (2) Pañcadaśa-stoma, (3) Saptadaśa-stoma, (4) Ekaviṃśa-stoma, (5) Triṇava-stoma, (6) Trayastriṃśa-stoma, (7) Caturviṃśa-stoma, (8) Catuścatvāriṃśa-stoma, (9) Aṣṭācatvāriṃśa-stoma; each line reads "by three paryāyas ... ṛks in all" (shown by the ditto marks ",,"), and the numbers appearing in the supplied text are, in order, 15, 17, 20, 21, 22, 23, 24, 24, 28 [?].]
+
+Thus the numbers of ṛks of the nine stomas are in keeping with the name of each stoma. It should be understood that this number applies to each viṣṭuti in the stoma. That is, since the Trivṛt-stoma has three viṣṭutis, it is to be understood that for each viṣṭuti the three paryāyas have 9 ṛks; the three viṣṭutis together make not 9 ṛks but 27 ṛks. And so on.
+
+It has already been said that every stoma has many viṣṭutis. Their details are given below—
+
+1\. For the Trivṛt-stoma—
+
+(1) Udyatī, (2) Parivartinī, (3) Kulāyinī: three viṣṭutis. [Names as supplied in Kannada script: उद्यती (*udyatī*), परिवर्तिनी (*parivartinī*), कुलायिनी (*kulāyinī*).]
+
+### Printed p. 588
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 11, p. 588.*
+
+II\. For the Pañcadaśa-stoma—
+
+(1) पंचपंचिनी (*paṃcapaṃcinī*) (Pañcapañcinī), (2) उद्यती प्रथमा (*udyatī prathamā*) (Udyatī Prathamā), (3) उद्यती द्वितीया (*udyatī dvitīyā*) (Udyatī Dvitīyā): three viṣṭutis.
+
+III\. For the Saptadaśa-stoma—
+
+(1) दशसप्ता प्रथमा (*daśasaptā prathamā*) (Daśasaptā Prathamā), (2) दशसप्ता द्वितीया (*daśasaptā dvitīyā*) (Daśasaptā Dvitīyā), (3) सप्तस्थिता प्रथमा (*saptasthitā prathamā*) (Saptasthitā Prathamā), (4) सप्तस्थिता द्वितीया (*saptasthitā dvitīyā*) (Saptasthitā Dvitīyā), (5) अनामिका (*anāmikā*) (Anāmikā), (6) उद्यती (*udyatī*) (Udyatī), (7) भस्त्रा (*bhastrā*) (Bhastrā): seven viṣṭutis.
+
+IV\. For the Ekaviṃśa-stoma—
+
+(1) सप्तसप्तिनी (*saptasaptinī*) (Saptasaptinī), (2) उद्यती (*udyatī*) (Udyatī), (3) प्रतिष्टुतिः (*pratiṣṭutiḥ*) (Pratiṣṭutiḥ), (4) सूर्मा (*sūrmā*) (Sūrmā): four viṣṭutis.
+
+V\. For the Triṇava-stoma—
+
+(1) प्रतिष्ठिता (*pratiṣṭhitā*) (Pratiṣṭhitā), (2) उद्यती (*udyatī*) (Udyatī): two viṣṭutis.
+
+VI\. For the Trayastriṃśa-stoma—
+
+(1) समत्र्यंशा (*samatryaṃśā*) (Samatryaṃśā), (2) नेदीयस्संक्रमा (*nedīyassaṃkramā*) (Nedīyassaṃkramā), (3) उद्यती (*udyatī*) (Udyatī), (4) प्रत्यवरोहिणी (*pratyavarohiṇī*) (Pratyavarohiṇī), (5) अंतिमा (*aṃtimā*) (Antimā): five viṣṭutis.
+
+VII\. For the Caturviṃśa-stoma—
+
+This has only one viṣṭuti.
+
+VIII\. For the Catuścatvāriṃśa-stoma—
+
+(1) प्रथमा (*prathamā*) (Prathamā), (2) निर्मध्या (*nirmadhyā*) (Nirmadhyā), (3) तृतीया (*tṛtīyā*) (Tṛtīyā): three viṣṭutis.
+
+IX\. For the Aṣṭācatvāriṃśa-stoma—
+
+(1) प्रथमा (*prathamā*) (Prathamā), (2) नेदीयस्संक्रमा (*nedīyassaṃkramā*) (Nedīyassaṃkramā): two viṣṭutis.
+
+In all, the nine stomas have thirty viṣṭutis.
+
+The stomas, their viṣṭutis, the number of ṛks in them, the order of reciting them, and other such matters are explained at length in the Tāṇḍya-brāhmaṇa of the Sāma-veda.
+
+Among these stomas, the Trivṛt-stoma is recited at the time of the morning pressing (Prātaḥ-savana), the Pañcadaśa-stoma at the midday pressing, and the Saptadaśa-stoma at the third pressing. In sacrifices such as the Abhiplava-ṣaḍaha, after the stomas such as Trivṛt, which are to be chanted in the rites beginning with the morning pressing, have been chanted, it is the practice in some circumstances to chant along with them some further stomas called uttara-stomas. Chanting additional stomas in this way is called stoma-vṛddhi. After the udgātṛ and others have performed the chants of this stoma-vṛddhi, in accordance with it, that is, so as to be equal to the stoma-vṛddhi, certain additional numbers of ṛks [the Special Topics continue on the next page]
+
 ---
 
-**Progress note:** Done through printed p. 585 (PDF 585). Rik 3 (Maṇḍala 2 Sūkta 11): Aitareya/Śatapatha/Bṛhadāraṇyaka ukta quotations, Rik 3 Saṃhitā-bhāṣya-Pratipadārtha-Bhāvārtha, printed English
+**Progress note:** Done through printed p. 588 (PDF 588). Maṇḍala 2 Sūkta 11 Rik 3 Special Topics: stoma, paryāya, viṣṭuti lists (garbled table flagged)
