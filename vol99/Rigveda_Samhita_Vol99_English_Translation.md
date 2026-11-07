@@ -5594,6 +5594,85 @@ Since this Soma juice pervades the sacrificer (is spread in the sacrificer), tha
 
 सध्री (*sadhrī*) — flowing together. पयः (*payaḥ*) — water. परि (*pari*) — all around. बिभ्रतीः (*bibhratīḥ*) — bearing. ईं (*īṃ*) — these rivers. आ यंति (*ā yaṃti*) — spread and flow (and). विश्वप्स्याय (*viśvapsyāya*) — to the sea, the support of all waters. भोजनं (*bhojanaṃ*) — water. प्रभरंत (*prabharaṃta*) — fill completely. प्रवतां (*pravatāṃ*) — for the waters flowing to your region. अनुष्यदे (*anuṣyade*) — for flowing. अध्वा (*adhvā*) — the path. समानः (*samānaḥ*) — is of one form. यः (*yaḥ*) — who. ता (*tā*) — such
 
+### Printed p. 688
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 688.*
+
+(Pratipadārtha of Ṛk 2, continued:) प्रवाहानुकूलवाद कर्मगळन्नु (*pravāhānukūlavāda karmagaḷannu*) — the deeds favourable to the flow; प्रथमं (*prathamaṃ*) — first; अकृणोः (*akṛṇoḥ*) — you did; सः (*saḥ*) — such you, Indra; उक्त्यः असि (*uktyaḥ asi*) — you are worthy of praise (by all).
+
+**भावार्थ (Bhāvārtha)**
+
+The rivers, flowing together and full of water, spread out and flow; and they fill with water the sea, the support of all waters. For the waters that flow to your region (the low ground) the path of flow is of one form. You, Indra, who first made such deeds favourable to the flow, are worthy of praise.
+
+**Printed English**
+
+The aggregated(streams) come, bearing everywhere the water, and conveying it as sustenance for the asylum of all rivers,(the ocean); the same path is(assigned) to all the descending(currents) to follow; and as he, who has(assigned) them(their course), you,(Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सध्री ईं आ यंति परि बिभ्रतीः पयॆः (*sadhrī īṃ ā yaṃti pari bibhratīḥ payèḥ*) — The rivers that flow in the rainy season carry in their broad beds the water that falls everywhere on the earth as rain. That is, all the rain water that falls on the earth comes and joins the rivers. In this way "all around" means the waters that come flowing and joining from their left and right; "bearing" means that the rivers hold them in their (river) beds and flow.
+
+विश्वप्स्याय प्र भरंत भोजनं (*viśvapsyāya pra bharaṃta bhojanaṃ*) — The rivers bring and supply food to the sea, which is the support of all waters (the Sanskrit explanation of the words is quoted in the source). Where do the rivers that flow in this way go? All of them flow in order to bring water to the sea, the support of all waters, and fill it.
+
+विश्वप्स्याय (*viśvapsyāya*) — to the sea, the support of all waters; the meaning is the sea, the support of the whole mass of water. If one says that the water that falls from the sky as rain and the water that flows in the river (being sweet) are different, so that this water does not rest on the sea, it is not so. Rain water and river water were at one time sea water itself. How? Sea water, heated by the sharp rays of the sun, is drawn up by the wind in the form of vapour and is transformed into clouds in the sky. From those clouds
+
+### Printed p. 689
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 10] Ṛgveda-saṃhitā; p. 689.*
+
+rain arises, and that water falls on the earth, flows, and joins some river. If that river is a tributary flowing in your region, it joins a bigger river; if it is a big river it flows on by itself and finally reaches the sea. The final resting place of all rivers is the sea. Therefore the sea alone is said to be the support of the whole mass of water, whether on the earth or in the sky (in the form of clouds).
+
+भोजनं—भुज्यत इति भोजनं पयः (*bhojanaṃ—bhujyata iti bhojanaṃ payaḥ*) — Whatever is eaten, a thing in the form of food, is called bhojana. Here the thing the sea needs is water. As the belly of animals or men is filled by food, so the sea is filled by water. "Water is the food of the sea" means that the waters the rivers bring and fill are in the form of food for the sea; that is, they are waters brought and poured in to fill it. The sentence विश्वप्न्यास्यय प्र भरंत भोजनं (*viśvapnyāsyaya pra bharaṃta bhojanaṃ*) used here by the Ṛṣi, with its words full of meaning and its sense full of feeling joined to a simile, displays the Ṛṣi's excellent skill of composition and his mastery of poetry.
+
+समानः अध्वा प्रवतां अनुस्यदे यः ता अकृणोः प्रथमं सः असि उक्त्यः (*samānaḥ adhvā pravatāṃ anusyade yaḥ tā akṛṇoḥ prathamaṃ saḥ asi uktyaḥ*) — The path of the flowing water, or of the rivers, is the same; that is, since all the rivers flow in your regions, in the low ground, that low path is the path by which the rivers go and join the sea. The chief sense is: you, Indra, who first created (made) such a path, are worthy of praise. The Ṛṣi describes that Indra himself made the path by which the rain poured from the clouds falls on the earth, becomes rivers and flows to the sea, and that this immense work of Indra is praiseworthy.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अन्वेको॑ वदति॒ यद्ददा॑ति॒ तद्रू॒पा मि॒नन्तद॑पा॒ एक॑ ईयते।
+> विश्वा॒ एक॑स्य वि॒नुद॑स्तिक्षते॒ यस्ताकृ॑णोः प्रथ॒मं सास्यु॒त्थ्यः॑॥
+
+**॥ पदपाठः ॥**
+
+> अनु । एकः । वदति । यत् । ददाति । तत् । रूपा । मिनन् । तत् अपाः । एकः ।
+> ईयते ।
+
+> *anu | ekaḥ | vadati | yat | dadāti | tat | rūpā | minan | tat apāḥ | ekaḥ |*
+> *īyate |*
+
+### Printed p. 690
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 690.*
+
+> विश्वाः । एकस्य । विनुदः । ति ति क्षते । यः । ता । अकृणोः । प्रथमं । सः । असि ।
+> उक्त्यः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यजमानो यद्धनिर्देवेभ्यो ददाति तदेको होतानुवदति । याज्या-
+> पुरोनुवाक्याभ्यां देवताः स्मारयति । एकोऽध्वर्यू रूपा पश्वादीनां रूपाणि
+> मिनन् हिंसन् तदपास्तद्विशसनाख्यमपः कर्म यस्य तादृशः सन् ईयते । देवय-
+> जने सर्वत्र गच्छति । एकस्याध्वर्योर्विश्वा विनुदः सर्वाणि तत्कर्तृकाणि विक्षेपणरूपाणि
+> कर्मवैगुण्यानि तितिक्षते । तद्योग्यप्रायश्चित्तकरणेन ब्रह्मा सहते ॥ गुप्तिज्ङ्भः सन्
+> क्षमायामिष्यते ॥ तानि हविष्प्रदानादीनि कर्माणि यस्त्वमकृणोः । अकारयः सः
+> त्वमुक्थोऽसि ॥
+
+*Gist:* The sacrificer's offering is announced by the Hotṛ; the Adhvaryu moves about at the cutting of the victim; the Brahman priest repairs all ritual faults; you, Indra, who have had these rites performed, are praised.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(यजमानः (*yajamānaḥ*) — the sacrificer.) यत् (*yat*) — the oblation that (he offers to the gods); ददाति (*dadāti*) — offers; तत् (*tat*) — that; एकः (*ekaḥ*) — one of the priests, the Hotṛ; अनुवदति (*anuvadati*) — announces (to the gods) with the yājyā and puronuvākyā verses. एकः (*ekaḥ*) — another, the Adhvaryu; रूपा (*rūpā*) — the limbs of the victim and the like; मिनन् (*minan*) — injuring (killing); तदपाः (*tadapāḥ*) — engaged in the work of cutting the limbs of the victim for the sacrificial offering; ईयते (*īyate*) — moves about. एकस्य (*ekasya*) — of the Adhvaryu; विश्वाः विनुदः (*viśvāḥ vinudaḥ*) — all the ritual faults; तितिक्षते (*titikṣate*) — (the priest in the form of Brahman) sets right by expiatory rites and the like; यः (*yaḥ*) — you who; ता अकृणोः (*tā akṛṇoḥ*) — have had all these rites performed and partaken of them; सः (*saḥ*) — such you; प्रथमं (*prathamaṃ*) — above all; उक्थः आसि (*ukthaḥ āsi*) — are worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+The oblation that the sacrificer offers to the gods is announced to the gods by the Hotṛ, one of the priests, with the yājyā and puronuvākyā verses. The other, the Adhvaryu, is engaged in the work of cutting up the victim and the like. All the ritual faults of these two are set right by the priest in the form of Brahman, by expiatory rites and the like. You, who have had all these rites performed and partaken of them, are praised above all.
+
+**Printed English**
+
+One(priest) announces(the offering) that he,(the institutor of the rite)
+presents; another performs the act that apportions the limbs(of the victim);
+
 ---
 
-**Progress note:** Done through printed p. 687 (PDF 687). Sukta 13 Rik 1 Pratipadartha-Special Topics; Rik 2 Samhita/Pada from figure, bhashya, Pratipadartha start
+**Progress note:** Done through printed p. 690 (PDF 690). Sukta 13 Rik 2 Pratipadartha end, Bhavartha, Special Topics; Rik 3 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English start
