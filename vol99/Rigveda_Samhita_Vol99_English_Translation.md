@@ -6132,6 +6132,93 @@ In these Ṛks Dabhīti is called a royal sage, and it is said that for him Indr
 
 विश्वा इत् (*viśvā it*) — all. रोधनाः (*rodhanāḥ*) — the rivers. अस्य (*asya*) — of you who are Indra. पौंस्यं (*pauṃsyaṃ*) — the heroic deed. अनु (*anu*) — following (as its result) they flow. अस्मै (*asmai*) — to you, such an Indra. ददुः (*daduḥ*) — (the sacrificers) offer (the oblation). कृत्नवे (*kṛtnave*) — to you, the doer of excellent deeds. धनं (*dhanaṃ*) — wealth. दधिरे (*dadhire*) — (all) offer. विस्तिरः (*vistiraḥ*) — wide (the entry breaks off here at the end of the page; it continues on the next page).
 
+### Printed p. 709
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 11; Ṛgveda-saṃhitā; p. 709.*
+
+(Pratipadārtha of Ṛk 10, continued from the previous page.) विस्तिरः (*vistiraḥ*) — you who are pervading widely. षट् (*ṣaṭ*) — the six creations of yours, earth and the rest, six in number. अस्तभ्नाः (*astabhnāḥ*) — you have kept under control. पंच संदृशः (*paṃca saṃdṛśaḥ*) — the five peoples. परि (*pari*) — everywhere. परः (*paraḥ*) — as protector. अभवः (*abhavaḥ*) — you have become. सः (*saḥ*) — such a you. उक्ष्यः आसि (*ukṣyaḥ āsi*) — you are worthy of praise (as printed here उक्ष्यः (*ukṣyaḥ*); the Saṃhitā and Pada of Ṛk 10 read उक्थ्यः (*ukthyaḥ*) / उक्त्यः (*uktyaḥ*)).
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, all the rivers, in the form of Indra, flow following your heroic deed and as its result. The sacrificers offer oblations to you. They offer wealth to you, the supreme doer of deeds. You who pervade widely have kept under control the six creations of yours, earth and the rest, six in number; and you protect the five peoples everywhere. Such a you are exceedingly worthy of praise.
+
+**Printed English translation of Ṛk 10**
+
+You are he, from whose manhood all the rivers(have proceeded); to whom(the pions) have given(offerings); to whom, doer of mighty deeds, they have presented wealth: you are he, who have regulated the six expan- sive(objects), and are the protector of the five(races), that look up to you: you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+विश्वा इत् अनु रोधनाः अस्य पौंस्यं (*viśvā it anu rodhanāḥ asya pauṃsyaṃ*) — here रोधनाः (*rodhanāḥ*) means रोधस्वत्यो नद्यः (*rodhasvatyo nadyaḥ*), the rivers that flow each in its own bed, that is, between two banks. पौंस्यं (*pauṃsyaṃ*) means पुंसो भावः (*puṃso bhāvaḥ*), the manly power that should be natural to men, or an excess of ability. All the rivers flow following Indra's manly power, that is, his exceeding ability. The sense is that the rivers flow in their beds only through Indra's ability.
+
+ददु: अस्मै (*dadu: asmai*) — हविर्लक्षणमन्नं इंद्राय यजमानाः प्रयच्छंति (*havirlakṣaṇamannaṃ iṃdrāya yajamānāḥ prayacchaṃti*). At the sacrifice the sacrificers offer food in the form of oblation, with Indra as its object.
+
+दधिरे कृत्स्नवे धनं (*dadhire kṛtsnave dhanaṃ*) — कृत्स्नवे कर्मणां कर्त्र इंद्राय धनं दधिरे । सर्वॆ जना धारयंति (*kṛtsnave karmaṇāṃ kartra iṃdrāya dhanaṃ dadhire | sarvè janā dhārayaṃti*). Here the word कृत्स्नवे (*kṛtsnave*) is explained as कर्मणां कर्त्र इंद्राय (*karmaṇāṃ kartra iṃdrāya*), that is, "for Indra who performs deeds of daring". For the word सुरूपकृत्नुं (*surūpakṛtnuṃ*) (Ṛ. Saṃ. 1-4-1) the commentator explained the word कृत्सु (*kṛtsu*) in the same manner as is said here: शोभनरूपोपेतस्य कर्मणः कर्तारमिंद्रं (*śobhanarūpopetasya karmaṇaḥ kartāramiṃdraṃ*). Therefore the sense of this sentence is that the people, or the sacrificer and priests, offer wealth for Indra, who performs many deeds of daring such as the slaying of Vṛtra, that is, wealth in the form of oblation or Soma at the sacrifice. In this matter,
+
+इंद्राय द्याव ओषधीरुतापो रयिं रक्षंति जीरयो वनानि (*iṃdrāya dyāva oṣadhīrutāpo rayiṃ rakṣaṃti jīrayo vanāni*)
+
+(Ma. [sic, as printed] Saṃ. 3-51-5)
+
+the commentator quotes this Ṛk and explains its sense: heaven, the plants and trees, the waters, men and the trees all keep guarded the wealth that is in them (the things in the form of wealth) in order to offer it to Indra.
+
+### Printed p. 710
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 710.*
+
+षट् अस्तभ्नाः विस्तिरः (*ṣaṭ astabhnāḥ vistiraḥ*) — विष्टिरो विस्तीर्णाः षट् षट्संख्याका उर्वीः । ताश्च दौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधय इत्येवंरूपाः । ता अस्तभ्नाः नियमितवानसि (*viṣṭiro vistīrṇāḥ ṣaṭ ṣaṭsaṃkhyākā urvīḥ | tāśca dauśca pṛthivī cāhaśca rātriścāpaścauṣadhaya ityevaṃrūpāḥ | tā astabhnāḥ niyamitavānasi*). The six kinds of wide regions are subject to you: heaven, earth, day, night, water, and the plants and trees. All these six kinds are extremely extensive, that is, their range is very great; yet Indra is the controller of them all. This is the meaning.
+
+पंच संदृशः परि परः अभवः (*paṃca saṃdṛśaḥ pari paraḥ abhavaḥ*) — for the word संदृशः (*saṃdṛśaḥ*) in this sentence the commentator says सम्यक् पश्यंतीति संदृशो जनाः (*samyak paśyaṃtīti saṃdṛśo janāḥ*): because they are able to see well (or to understand), संदृश (*saṃdṛśa*) is explained as "people", and पंचसंदृशः (*paṃcasaṃdṛśaḥ*) as the five peoples. By the five peoples some mean five kinds of people, Gandharvas, Pitṛs, gods, Asuras and Rākṣasas; according to Upamanyu and others they are five kinds of people consisting of Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra and the Niṣādas, the hunter caste. Sāyaṇa has approved this. The authors of the Nirukta say that Niṣādas are those who kill animals, or that they are called Niṣāda because sin is full in them. Besides, there may have been in that time five main tribes or peoples (janapadas). A detailed account of these five peoples and Yāska's explanation in this matter we have written in Ṛ. Saṃ. part 2, p. 296; part 8, p. 227; part 9, p. 321; part 13, p. 407. The main sense is that you, Indra, bring such five peoples out of trouble, or protect them.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> सु॒प्र॒वा॒च॒नं तव॑ वीर वी॒र्यं१॒॑ यदेके॑न॒ क्रतु॑ना विं॒दसे॒ वसु॑ ।
+> जा॒तूष्ठि॑रस्य॒ प्र वयः॒ सह॑स्वतो॒ या च॒कर्थ॒ सेंद्र॒ विश्वा॑स्यु॒क्थ्यः॑ ॥
+
+> *supravācanaṃ tava vīra vīryaṃ yadekena kratunā viṃdase vasu |*
+> *jātūṣṭhirasya pra vayaḥ sahasvato yā cakartha seṃdra viśvāsyukthyaḥ ‖*
+
+**॥ पदपाठः ॥**
+
+> सुप्रवाचनं । तव । वीर । वीर्यं । यत् । एकेन । क्रतुना । विंदसे । वसु ।
+> जातूस्थिरस्य । प्र । वयः । सहस्वतः । या । चकर्थ । सः । इंद्र । विश्वा । असि । उक्त्यः॥
+
+> *supravācanaṃ | tava | vīra | vīryaṃ | yat | ekena | kratunā | viṃdase | vasu |*
+> *jātūsthirasya | pra | vayaḥ | sahasvataḥ | yā | cakartha | saḥ | iṃdra | viśvā | asi | uktyaḥ‖*
+
+### Printed p. 711
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 12; Ṛgveda-saṃhitā; p. 711.*
+
+**॥ सायणभाष्यम् ॥**
+
+> वीर बलवन् हे इंद्र तव वीर्यं सामर्थ्यं सुप्रवाचनं । सुष्टु प्रवच-
+> नीयं । सर्वै श्लाघनीयमित्यर्थः । किं तत् । एकेन क्रतुना कर्मणा वसु विंदसे ।
+> शत्रूणां धनं लभसे ॥ विद्ललाभे । तुदादिः स्वरितेत् ॥ यद्वा तदीयं धनं
+> स्तोत्थान्पयसीति यत् तत्पशस्यमित्यर्थः । सहस्वतो बलवतो जातूष्ठिरस्य ।
+> एतन्नामकः कश्चित् । तस्य वयोऽन्नं प्रादाः । यद्वा जातूष्ठिरस्य । जातु कदाचित्
+> सर्वदा स्थिरस्य सहस्वतो बलवतो यज्ञादेः कर्मणः संबंधि वयो हनिर्लक्षण-
+> मन्नं प्र विंदस इति समन्वयः । या यानीमान्यन्यानि विश्वा सर्वाणि कर्माणि चकर्थ
+> कृतवानसि । स तादृशस्त्वमुक्थः । सर्वैः प्रशंसनीयो भवसि ॥
+
+*Gist: Hero Indra, your power is to be praised by all: with a single deed you win the enemies' wealth, and you take the strong, ever-steady oblation-food; by all the deeds you have done you are praiseworthy.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वीर (*vīra*) — O mighty Indra. यत् (*yat*) — for which reason. एकेन क्रतुना (*ekena kratunā*) — by a unique deed. वसु (*vasu*) — the wealth (of the enemy). निंदसे (*niṃdase*) — you obtain (and). सहस्वतः (*sahasvataḥ*) — which is mighty. जातूष्ठिरस्य (*jātūṣṭhirasya*) — which is ever steady. वयः (*vayaḥ*) — the food in the form of oblation. प्र (*pra*) — you eat (therefore). तव (*tava*) — your. वीर्यं (*vīryaṃ*) — power. सुप्रवाचनं (*supravācanaṃ*) — is to be praised by all. इंद्र (*iṃdra*) — O Indra. या विश्वा (*yā viśvā*) — all these deeds which. चकर्थ (*cakartha*) — you have done. सः (*saḥ*) — such a you. उक्त्यः असि (*uktyaḥ asi*) — you are worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+O mighty Indra, your power is to be praised by all, both because by your unique deed you win the wealth of the enemy and because you partake of the oblation, which is full of vigour and ever steady. O Indra, such a you, who have done all these deeds, are worthy of praise.
+
+**Printed English translation of Ṛk 11**
+
+Your heroism, hero, is to be glorified, by which, with a single effort, you have acquired wealth;(wherewith) the(sacrificial) food of(every) solemn and constant(ceremony is provided); for all(the acts) you have per- formed, you Indra, are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुप्रवाचनं तव वीर वीर्यं (*supravācanaṃ tava vīra vīryaṃ*) — हे बलवन्निंद्र तव वीर्यं सामर्थ्यं सुष्टु प्रवचनीयं सर्वैः श्लाघनीयमित्यर्थः (*he balavanniṃdra tava vīryaṃ sāmarthyaṃ suṣṭu pravacanīyaṃ sarvaiḥ ślāghanīyamityarthaḥ*). O valiant Indra, your
+
 ---
 
-**Progress note:** Done through printed p. 708 (PDF 708). Sukta 13 Rik 9 Pratipadartha to Special Topics; Rik 10 Samhita, Pada, bhashya; Pratipadartha begun
+**Progress note:** Done through printed p. 711 (PDF 711). Sukta 13 Rik 10 Pratipadartha end to Special Topics; Rik 11 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English; Special Topics begun
