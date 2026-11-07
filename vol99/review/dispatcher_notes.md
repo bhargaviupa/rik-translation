@@ -8,3 +8,4 @@
 - TODO at end: multi-line ⟦…⟧ spans left in Kannada script in en file (10 places, e.g. lines 1732,1747,1757,1770,3639,3726,3923): convert to Devanagari+IAST by script.
 - Rk 20 Samhita mark order fixed (mu + anudatta); Rk 19/20 etc. Rk numbers missing in supplied Samhita for several Rks (agents reported).
 - w0634: '(10-92-15:1-127-2)' colon-joined reference written in words + explanation (checker reads it as one). Similar to w0607.
+- w0658 Suk.12 Rk 5 fig_line2656: glyph after 'ತೇ' read as 'ಮಾ' without [?] though agent could not settle it from the picture; Pada visarga before avagraha uncertain.
