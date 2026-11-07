@@ -5166,6 +5166,97 @@ He, who discovered Shambara dwelling in the mountains for forty years; who slew 
 
 शंबरं (*śaṃbaraṃ*) — The word शंबर (*śaṃbara*) is read among the names of cloud (Ni. 2-21) and among the names of water (Ni. 2-24) (the supplied text prints a different, apparently misspelt, word for "is read" [sic]). In the present Ṛk, शंबर (*śaṃbara*) means the asura of that name.
 
+### Printed p. 673
+
+*Running head: [A. 2 A. 6 V. 9. Ṛgvedasaṃhitā 673]*
+
+This Śambara is an enemy of Indra. His name and his story occur in the Ṛks Ṛ. Saṃ. 1-51-6, 1-54-4, 1-59-6, 1-101-2, 1-103-8, 1-112-14, 1-130-7, 2-12-11, 2-14-6, 2-19-6, 4-26-3, 4-30-14, 6-18-8, 6-26-5, 6-31-4, 6-31-1, 6-47-2, 6-47-21, 7-18-20, 7-99-5. In Ṛ. Saṃ. 6-26-5 he is called a Dāsa, the son of one Kulikāra. As a rule his name is recited together with Śuṣṇa, Pipru and Varcin. That he had 90, 99 or 100 forts (strongholds) is said in the Ṛks Ṛ. Saṃ. 1-130-7, 2-19-6 and 2-14-6. In Ṛ. Saṃ. 2-24-2 the very word शंबराणि (*śaṃbarāṇi*) is used to denote his strongholds. That he was the chief enemy of Divodāsa Atithigva, and that Atithigva defeated him with the help of Indra, is said in Ṛks such as Ṛ. Saṃ. 1-51-6, 1-130-7, 2-19-6 and 4-26-3.
+
+Some Western scholars express a different opinion about this Śambara. Some hold that the doubt arises whether he was really a living person or one famous only by name. The scholar Hillebrandt takes him to be a real person, the chief enemy of one Divodāsa. Some hold that he was a well-known chieftain among the earlier inhabitants of this country, who lived in the hills and mountains and troubled the Āryas.
+
+**Viśeṣaviṣayagaḷu (continued from the previous page)**
+
+ओजायमानं—बलमाचरंतं । (*ojāyamānaṃ—balamācaraṃtaṃ |*) Endowed with energy (ojas) or strength; the meaning is "very strong".
+
+अहिं—आहंतारं । (*ahiṃ—āhaṃtāraṃ |*) For this word, formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*), the meaning "slayer" is given.
+
+दानुं—दानवं । दनोः पुत्रं । (*dānuṃ—dānavaṃ | danoḥ putraṃ |*) "the son of Danu, the mother of the rākṣasas". The commentator says in the bhāṣya of Ṛ. Saṃ. 1-32-9 that दानुर्दादनी वृत्रमाता (*dānurdādanī vṛtramātā*) (Dānu is Dā-danī, the mother of Vṛtra).
+
+शरदि (*śaradi*) — in the autumn, that is, in the year. This word is formed from the root श्व हिंसायां (*śva hiṃsāyāṃ*) [as printed]; शीर्यंते अस्यां ओषधयः इति शरत् संवत्सरः (*śīryaṃte asyāṃ oṣadhayaḥ iti śarat saṃvatsaraḥ*): the plants, leaves and the like dry up in this season and fall down; therefore that season is called शरत् (*śarat*) or the autumn season. Since autumn comes only once in a year, it is customary in the Vedas to use the word शरत् (*śarat*) in the sense of "year".
+
+तच्चक्षुर्देवहितं शुक्रमुच्चरत् । (*taccakṣurdevahitaṃ śukramuccarat |*)
+पश्येम शरदः शतं जीवेम शरदः शतं ॥ (*paśyema śaradaḥ śataṃ jīvema śaradaḥ śataṃ ‖*)
+(Ṛ. Saṃ. 7-66-16)
+
+### Printed p. 674
+
+*Running head: [674 Sāyaṇabhāṣyasahitā, Maṃ. 2 A. 2 Sū. 12]*
+
+दीर्घायुरस्या यः पतिर्जीनाति शरदः शतं । (*dīrghāyurasyā yaḥ patirjīnāti śaradaḥ śataṃ |*)
+(Ma. Saṃ. 10-85-39)
+
+In such Ṛks the word शरत् (*śarat*) is used in the sense of "year".
+
+यः शंबरं पर्वतेषु क्षियंतं चॆत्वारुंश्यां शरदि अन्वविंदत् (*yaḥ śaṃbaraṃ parvateṣu kṣiyaṃtaṃ cètvāruṃśyāṃ śaradi anvaviṃdat*) — Indra searched out and slew the asura Śambara, who had hidden in the mountains for forty years so that no one could get at him. This describes Indra's valour.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> यः स॒प्तर॑श्मिर्वृष॒भस्तु वि॑ष्मान॒वासृ॑ज॒त्सर्त॑वे स॒प्त सिंधू॑न् ।
+> यो रौ॑हि॒णमस्सु॑र॒द्वज्र॑बाहु॒र्दार्मा मा॒रोहं॑तं॒ स ज॑नास॒ इंद्रः॑ ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । सप्तरश्मिः । वृषभः । तुविष्मान् । अव्यअसृजत् । सर्तवे । सप्त । सिंधून् ।
+> यः । रौहिणं । अस्फुरत् । वज्रबाहुः । द्यां । आरोहंतं । सः । जनासः । इंद्रः ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यः सप्तरश्मिः सप्तसंख्याकाः पर्जन्या रश्मयो यस्य । ते च रश्मयो वरा-
+> हवः स्वतपसो विद्युन्महसो धूपयः श्वापयो गृहमेधाश्चतीति ये चेमेS-
+> शिमिविद्विषः पर्जन्याः सप्त पृथिवीमभिवर्षंति वृष्टिभिः । तै आ. १-९-४,५ । इति तैत्तिरी-
+> यारण्यके ह्याम्नाताः । वृषभो वर्षकस्तुविष्मान् वृद्धिमान्बलवान्वा सप्त सर्पण-
+> स्वभावान्सिंधूनपः सर्तवे सरणायानासृजत् । अवसृष्टवान् । यद्वा गंगाद्याः सप्त
+> मुख्या नदीरस्पजत् । यश्च वज्रबाहुः सन् द्यां दिवमारोहंतं रौहिणमसुरम-
+> स्फुरत् । जघान ॥ स्फुर स्पुरणे तुदादिः ॥
+
+> *yaḥ saptaraśmiḥ saptasaṃkhyākāḥ parjanyā raśmayo yasya | te ca raśmayo varā-*
+> *havaḥ svatapaso vidyunmahaso dhūpayaḥ śvāpayo gṛhamedhāścatīti ye cemeS-*
+> *śimividviṣaḥ parjanyāḥ sapta pṛthivīmabhivarṣaṃti vṛṣṭibhiḥ | tai ā. 1-9-4,5 | iti taittirī-*
+> *yāraṇyake hyāmnātāḥ | vṛṣabho varṣakastuviṣmān vṛddhimānbalavānvā sapta sarpaṇa-*
+> *svabhāvānsiṃdhūnapaḥ sartave saraṇāyānāsṛjat | avasṛṣṭavān | yadvā gaṃgādyāḥ sapta*
+> *mukhyā nadīraspajat | yaśca vajrabāhuḥ san dyāṃ divamārohaṃtaṃ rauhiṇamasurama-*
+> *sphurat | jaghāna ‖ sphura spuraṇe tudādiḥ ‖*
+
+*Gist:* The seven rays are seven Parjanyas (rain-clouds with their wind-hosts); the "showerer" lets the seven rivers flow, or the seven chief rivers beginning with the Gaṅgā; Indra slew the Asura Rauhiṇa as he climbed to heaven. The note on the root स्फुर (*sphura*) closes it.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यः (*yaḥ*) — who. सप्तरश्मिः (*saptaraśmiḥ*) — he who has seven rays; वृषभः (*vṛṣabhaḥ*) — the showerer of rain; तुविष्मान् (*tuviṣmān*) — being powerful; सप्त सिंधून् (*sapta siṃdhūn*) — the seven rivers, or flowing waters;
+
+### Printed p. 675
+
+*Running head: [A. 2 A. 6 V. 9] Ṛgvedasaṃhitā 675]*
+
+सर्तवे (*sartave*) — for flowing. अवास्पजत् (*avāspajat*) [as supplied] — released (from Ahi). यः (*yaḥ*) — who. वज्रबाहुः (*vajrabāhuḥ*) — holding the thunderbolt in his hand. द्यां (*dyāṃ*) — the heavenly world. आरोहंतं (*ārohaṃtaṃ*) — climbing. रौहिणं (*rauhiṇaṃ*) — the asura named Rauhiṇa. अस्फुरत् (*asphurat*) — killed. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who, having seven rays, a showerer of rain and powerful, released the seven rivers beginning with the Gaṅgā from Ahi so that they might flow; who, holding the thunderbolt in his hand, killed the asura named Rauhiṇa as he climbed to the heavenly world: he is Indra.
+
+**Printed English translation**
+
+He, the seven-rayed, the showerer, the powerful, who let loose the seven rivers to flow; who, armed with the thunderbolt, crushed Rauhina when scaling heaven; he, men, is Indra.
+
+**Viśeṣaviṣayagaḷu**
+
+सप्तरश्मि:—सप्त संख्याकाः पर्जन्या रश्मयो यस्य । (*saptaraśmi:—sapta saṃkhyākāḥ parjanyā raśmayo yasya |*) The passage that follows in the text (Tai. Ā. 1-9-4 to 5) names the seven rays as वराहवः (*varāhavaḥ*), स्वतपसः (*svatapasaḥ*), विद्युन्महसो (*vidyunmahaso*), धूपयः (*dhūpayaḥ*), श्वापयो (*śvāpayo*) and गृहमेधाः (*gṛhamedhāḥ*), and says that the seven Parjanyas rain upon the earth with showers. When Indra pours down rain, that is, strikes the clouds and makes them rain, those clouds rain together with seven kinds of rays, or Parjanya deities; this is the meaning given, and the commentator cites the passage of the Taittirīya Āraṇyaka in support. Explaining the words पर्जन्याः सप्त (*parjanyāḥ sapta*) in the quotation, it is said that the Parjanyas (clouds) accompanied by seven kinds of wind-hosts pour down rain. Which are those seven kinds of Parjanyas? —
+
+(1) वराहवः (*varāhavaḥ*) — the commentary derives वराह (*varāha*) as that which calls forth excellent rain (वरं श्रेष्ठं वर्षमाह्वयतीति (*varaṃ śreṣṭhaṃ varṣamāhvayatīti*)); because it pours excellent rain, that wind-host is called वराह (*varāha*). The clouds accompanied by such a wind-host are called वराहवः (*varāhavaḥ*).
+
+(2) स्वतपसः (*svatapasaḥ*) — those winds which burn of themselves, not depending on fire or the sun for heat. The clouds accompanied by a wind-host of the nature that burns by its own power, without needing fire or the sun for warmth, are called स्वतपसः (*svatapasaḥ*).
+
 ---
 
-**Progress note:** Done through printed p. 672 (PDF 672). Sukta 12 Rik 10 rest, Rik 11
+**Progress note:** Done through printed p. 675 (PDF 675). Sukta 12 Rik 11 special topics, Rik 12
