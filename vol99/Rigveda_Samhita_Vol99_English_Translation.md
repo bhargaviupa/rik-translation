@@ -4489,6 +4489,95 @@ Since the commentary written by Durgācārya on this etymology is very clear, we
 
 Its main meaning is: as soon as Indra was born he attained the chief position among all beings (and gods), that is, he became the foremost leader of all. This Indra is very wise (intelligent); other intelligent persons, after being born, attain a high position after some time; but Indra gained the high position as soon as he was born. Though born as a god, by his heroic exertions he became acceptable as chief and lord of the other gods. Not only that, by his power he surpassed all the other gods in strength and daring.
 
+### Printed p. 649
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 649.*
+
+Heaven and earth (the heavens and the earth) trembled in fear of such great bodily strength of Indra. For they trembled in fear, thinking that Indra, by the greatness of his mighty valour together with his army, would destroy them (heaven and earth). Therefore, "O asura people, one with such greatness is Indra. I am not he; I am only a poor Brahmin. By the grace of that Indra I have taken on a form like his": this story shows the sage Gṛtsamada, the seer of the mantra, and his exceeding love for Indra. Since this narrative is historical, and it cannot be said that the mantras have this kind of meaning, some people disregard the matter contained in this narrative: such is the main idea.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यः पृ॑थि॒वीं व्यथ॑माना॒मदृं॑ह॒द्यः पर्व॑ता॒न्प्रकु॑पिता॒ अर॑म्णात् ।
+> यो अं॒तरि॑क्षं विम॒मे वरी॑यो॒ यो द्यामस्त॑भ्ना॒त्स ज॑नास॒ इंद्रः॑ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । पृथिवीं । व्यथमानां । अदृंहत् । यः । पर्वतान् । प्रकुपितान् । अरम्हात् ।
+> यः । अंतरिक्षं । विममे । वरीयः । यः । द्यां । अस्तभ्नात् । सः । जनासः । इंद्रः॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे जनाः य इंद्रो व्यथमानां चलंतीं पृथिवीमद्यंहत् । शर्करादिभि-
+> र्दृढामकरोत् ॥ दृह दृहि वृदौ ॥ यश्च प्रकुपितान् इतस्ततश्चलितान्पक्षयुक्तान्पर्व-
+> तानरम्मात् । नियमितवान् । स्वे स्वे स्थाने स्थापितवान् ॥ अरम्मात् रमु क्रीडायां।
+> अंतर्भावितण्यर्थस्य व्यत्ययेन श्नाप्रत्ययः ॥ यश्च वरीय उरुतममंतरिक्षं
+> विममे । निर्ममे । विस्तीर्णं चकारेत्यर्थः । यश्च द्यां दिवमस्तभ्नात् । स्तंभ-
+> निरुद्धामकरोत् ॥ स्तंभु रोधन इति सौत्रो धातुः ॥ स एवेंद्रो नाहमिति ॥
+
+> *he janāḥ ya iṃdro vyathamānāṃ calaṃtīṃ pṛthivīmadyaṃhat | śarkarādibhi-*
+> *rdṛḍhāmakarot ‖ dṛha dṛhi vṛdau ‖ yaśca prakupitān itastataścalitānpakṣayuktānparva-*
+> *tānarammāt | niyamitavān | sve sve sthāne sthāpitavān ‖ arammāt ramu krīḍāyāṃ|*
+> *aṃtarbhāvitaṇyarthasya vyatyayena śnāpratyayaḥ ‖ yaśca varīya urutamamaṃtarikṣaṃ*
+> *vimame | nirmame | vistīrṇaṃ cakāretyarthaḥ | yaśca dyāṃ divamastabhnāt | staṃbha-*
+> *niruddhāmakarot ‖ staṃbhu rodhana iti sautro dhātuḥ ‖ sa eveṃdro nāhamiti ‖*
+
+*Gist:* "O people, he who made firm the trembling earth, restrained the agitated mountains, measured out the wide atmosphere and propped up heaven: he is Indra, not I." The grammatical tail (roots दृह (*dṛha*), रमु (*ramu*), स्तंभु (*staṃbhu*)) is not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यः (*yaḥ*) — who. व्यथमानां (*vyathamānāṃ*) — the shaking. पृथिवीं (*pṛthivīṃ*) — the earth. अदृंहत् (*adṛṃhat*) — made stand firm. यः (*yaḥ*) — who. प्रकुपितान् (*prakupitān*) —
+
+### Printed p. 650
+
+*Running head: [650 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+moving about everywhere with wings. पर्वतान् (*parvatān*) — the mountains. अरम्णात् (*aramṇāt*) — made bow to his control and remain steady. यः (*yaḥ*) — who. वरीयः (*varīyaḥ*) — wide. अंतरिक्षं (*aṃtarikṣaṃ*) — the atmosphere. विममे (*vimame*) — fashioned. यः (*yaḥ*) who. द्यां (*dyāṃ*) — the world of heaven. अस्तभ्नात् (*astabhnāt*) — stopped and fixed. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who made the shaking earth stand firm; who made the mountains, which were moving about everywhere with wings, bow to his control and remain steady; who fashioned the wide atmosphere; who stopped and fixed the world of heaven: he is Indra.
+
+**Printed English**
+
+He, who fixed firm the moving earth; who tranquillized the incensed mountains; who spread the spacious firmament; who consolidated the heaven; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk four heroic deeds of Indra are stated. Indra firmly established the earth so that it does not shake; he calmed the misdeeds of the mountains, which were full of anger; he fashioned the wide atmosphere; he established heaven so that it is solid (so that it does not fall down): descriptions of these four matters are given.
+
+यः पृथिवीं व्यथमानां अद्यंहत् (*yaḥ pṛthivīṃ vyathamānāṃ adyaṃhat*) — Indra made the shaking earth immovable, that is, made it stand firm in one place without shaking. Although the earth stands firm always in one and the same place, without shaking this way and that, the sage describes that it is so by Indra's power.
+
+यः पर्वतान् प्रकुपितान् अरम्नात् (*yaḥ parvatān prakupitān aramnāt*) — The commentator explains the meaning thus: the mountains, in anger, did not stay steady in one place but moved about from here to there with the help of their wings; Indra stopped this, cut off their wings, and subjected those mountains to restraint so that they stay settled steadily in one place. It is said in the Purāṇas and elsewhere that formerly mountains had wings, and as they flew about and settled on villages, towns and so on and destroyed them, Indra cut off the wings of those mountains with his thunderbolt. The commentator has explained just that here. But the matter of mountains having wings is not seen mentioned anywhere in the Ṛgveda.
+
+### Printed p. 651
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 651.*
+
+Therefore there is a difference of opinion about accepting this kind of meaning given by the commentator for this sentence. Since this sentence says प्रकुपितान् पर्वतान् (*prakupitān parvatān*) — "angry mountains", some think that fire-spewing fire-mountains (volcanoes) may be meant here. Or, since the word पर्वत (*parvata*) has the meaning "cloud" (Ni. 2-21), it is also the opinion of some that the sage's view may be that Indra struck and calmed the clouds roaring in anger (thundering) with his thunderbolt (lightning).
+
+यः अंतरिक्षं विममे वरीयः (*yaḥ aṃtarikṣaṃ vimame varīyaḥ*) — Indra fashioned the wide atmosphere, or made the atmosphere very wide: such is the idea.
+
+यः द्यां अस्तभ्नात् (*yaḥ dyāṃ astabhnāt*) — Indra propped up heaven (so that it does not fall down), held it in check. Since it is well known that heaven is very high in the atmosphere, it is described here that heaven, being so, stands without any support (without the support of pillars and the like), and that he checked it so that it does not fall down upon the earth. Ordinarily in the world, when houses and the like are built, it is well known that pillars are set up so that the roof above or an upper floor and such parts stay firm without falling down, and the weight rests on them. But here, in the atmosphere, without any support (pillars), heaven is made not to fall down, that is, to stand firm: the sage describes the greatness of Indra who has done this as worthy of praise.
+
+In the first quarter of this Ṛk the use of the word यः (*yaḥ*) (the relative word) and in the last quarter the use of the word सः (*saḥ*) (the correlative word) emphasize the idea that the person who has performed such an extraordinary deed is Indra.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> यो ह॒त्वाहि॒मरि॑णात्स॒प्त सिंधू॒न्यो गा उ॒दाज॑दप॒था व॒लस्य॑।
+> यो अश्म॑नोरं॒तर॒ग्निं ज॒जान॑ सं॒वृक्ष॒मत्तु॒ स ज॑नास॒ इंद्रः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । हत्वा । अहिं । अरिणात् । सप्त । सिंधून् । यः । गाः । उत्आजत् । अपधा ।
+> वलस्य ।
+
+> *yaḥ | hatvā | ahiṃ | ariṇāt | sapta | siṃdhūn | yaḥ | gāḥ | utājat | apadhā |*
+> *valasya |*
+
 ---
 
-**Progress note:** Done through printed p. 648 (PDF 648). Sukta 12 Special Topics (Rik 1) pp. 646-648; Yaska/Durga Nirukta quotations; one doubt (makkaligĕ)
+**Progress note:** Done through printed p. 651 (PDF 651). Sukta 12 Rik 1 Special Topics end, Rik 2 complete, Rik 3 Samhita and start of Pada; Rik 2 Samhita and Special Topics headings repaired
