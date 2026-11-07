@@ -5790,6 +5790,79 @@ explanation alone fits properly. For in the illustrating Ṛk this word is used 
 > *taṃ | tvā | stomebhiḥ | udabhiḥ | na | vājinaṃ | devaṃ | devāḥ | ajanan | saḥ | asi |*
 > *uktyaḥ ‖ 5 ‖*
 
+### Printed p. 697
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 10] Ṛgveda-saṃhitā; p. 697.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र अध आपि च त्वं दिवे द्योतमानाय सूर्याय पृथिवीं चलितां
+> सतीं दृढीकृत्य संदृशे संदर्शनीयामकृणोः । अकरोः ॥ दृशे विख्ये चेति
+> केन्प्रत्ययांतत्वेन निपातितः ॥ यश्च त्वं धौतीनां चलंतीनां नदीनां पथो
+> मार्गानरिणक् । अरेचयः । गंतुं योग्यानकरोरित्यर्थः ॥ रुचिर् विरेचने । लजु
+> सिप् । तस्य हल्बादिना लोपः ॥ अहिहन् अहेर्वत्रस्य मेघस्य वा हंतर्हे इंद्र
+> देवाः स्तोतारस्तं तादृशं देवं त्वां स्तोमेभिः स्तोत्रैरजनन् । तत्र दृष्टांतः ।
+> उदभिर्न वाजिनं । यथा वाजिनमश्वमुदभिरुदकैर्वर्धयंति तद्वत् ॥ पद्दन्नोमा-
+> सित्यादिनोदकस्योदन्भावः ॥ शेषं सिद्धं ॥
+
+*Gist: O Indra, you made the earth firm and visible to the shining sun and opened paths for the flowing rivers; the gods praised you thus, as men strengthen a horse with water.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*) — O Indra. अध (*adha*) — besides the extraordinary deeds told above. दिवे (*dive*) — for the shining sun. पृथिवीं (*pṛthivīṃ*) — the earth. संदृशे (*saṃdṛśe*) — so as to be fit for sight. अकृणोः (*akṛṇoḥ*) — you made. यः (*yaḥ*) — you who. धौतीनां (*dhautīnāṃ*) — of the flowing rivers. पथः (*pathaḥ*) — the paths. अरिणक् (*ariṇak*) — have laid out. अहिहन् (*ahihan*) — O Indra, slayer of Vṛtra. देवं तं त्वा (*devaṃ taṃ tvā*) — you, such a one, of divine nature. देवाः (*devāḥ*) — the praisers. वाजिनं (*vājinaṃ*) — a horse. उदभिर्न (*udabhirna*) — as one makes it strong with water. स्तोमेभिः (*stomebhiḥ*) — with praises. अजनन् (*ajanan*) — made you grow. सः (*saḥ*) — such you. उक्ष्यः आसि (*ukṣyaḥ āsi*) — are worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, besides the extraordinary deeds described above, you made the earth fit to be seen by the shining sun. You who laid out the paths of the flowing rivers, O Indra, slayer of Vṛtra, such a one of divine nature, the praisers made to grow with praises, as one makes a horse strong with water. Such a one you are worthy of praise.
+
+**Printed English**
+
+Inasmuch as you have rendered earth visible to heaven, and set open the path of the rivers by slaying Ahi; therefore the gods have rendered you divine by praises, as(men) invigorate a horse by water; (and) you are;(Indra), to be praised.
+
+### Printed p. 698
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 698.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अध अकृणोः पृथिवीं संदृशे दिवे (*adha akṛṇoḥ pṛthivīṃ saṃdṛśe dive*) — The commentator's Sanskrit (हे इंद्र अध अपि च त्वं दिवे द्योतमानाय सूर्याय पृथिवीं चलितां सतीं दृढीकृत्य संदृशे संदर्शनीयामकृणोः (*he iṃdra adha api ca tvaṃ dive dyotamānāya sūryāya pṛthivīṃ calitāṃ satīṃ dṛḍhīkṛtya saṃdṛśe saṃdarśanīyāmakṛṇoḥ*)) is explained in the Kannada: "O Indra, you made this trembling earth firm and unmoving, and made it visible to the sun shining in the atmosphere." That is the commentator's meaning. Another kind of meaning can also be given: you struck with the thunderbolt Vṛtra, or the clouds, spread in the atmosphere between the earth and the sun, made the water fall on the earth as rain, destroyed the clouds that had covered the atmosphere so that the sun was not seen, and made the earth visible to the sun. When cloud has gathered in the atmosphere and it is dark, the sun is not seen, and the earth is not seen by the sun. On such an occasion, by destroying the clouds through producing rain, the atmosphere becomes clear without any covering, and so the earth is well visible to the sun; this is the main intention.
+
+यः धौतीनां अहिहन् अरिणक् पथः (*yaḥ dhautīnāṃ ahihan ariṇak pathaḥ*) — Here the commentator's Sanskrit (यश्च त्वं धौतीनां चलंतीनां नदीनां पथो मार्गानरिणक् । अरेचयः । गंतुं योग्यानकरोरित्यर्थः (*yaśca tvaṃ dhautīnāṃ calaṃtīnāṃ nadīnāṃ patho mārgānariṇak | arecayaḥ | gaṃtuṃ yogyānakarorityarthaḥ*)) is followed by the Kannada: O Indra, you slew Vṛtra the Asura, or the clouds, who had held back the rain in the atmosphere, made the rain fall on the earth, and laid out the way by which those rain waters go and join the sea. All the rain water falling on the earth joins a river. The river flows in its own, that is, a definite channel, and goes and joins the sea. Since the river water ordinarily flows to the sea along a definite path (or one that gradually slopes down), and since that path remains always the same without change, the main intention is that Indra built that definite path along which the river flows. [The supplied text has "ಮೇಘಗಗಳನ್ನು" for the clouds; reported, not changed.]
+
+अहिहन् (*ahihan*) — अहेर्वत्रस्य मेघस्य वा हंतः (*ahervatrasya meghasya vā haṃtaḥ*): Vṛtra the Asura or the cloud. Because Indra is the destroyer of these, he is addressed by the word अहिहन् (*ahihan*).
+
+तं त्वा स्तोमेभिः उदभिः न वाजिनं देवं देवा अजनन् (*taṃ tvā stomebhiḥ udabhiḥ na vājinaṃ devaṃ devā ajanan*) — O Indra, the commentator's explanation is that the gods sing your qualities with praises and the like and make you endowed with qualities, as one makes a horse grow with waters. The meaning of this sentence is not clear. The main intention is that the gods praise you (Indra) with hymns and that Indra's power grows by hymns. It is the custom of the seers to say that when praise is offered, the power of the gods
+
+### Printed p. 699
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 11] Ṛgveda-saṃhitā; p. 699.*
+
+greatly increases or shines. Many sentences are found here and there with the sense त्वां वर्धंतु नो गिरः (*tvāṃ vardhaṃtu no giraḥ*), "may our words of praise, or hymns, cause you (Indra) to grow (praise you)". The illustration उदभिः न वाजिनं (*udabhiḥ na vājinaṃ*) given to make the sense of this sentence clear does not accord with the meaning; what the right meaning of "as a horse is made to grow with waters" is, cannot be known. Probably it may be explained as: as giving water to a horse tired by walking a long distance removes its fatigue and brings back its former strength, or as washing with water a horse that looked dirty with dust and the like makes it look well. But these meanings do not fit this context properly.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> यो भोज॑नं च॒ दय॑से च॒ वर्ध॑नमा॒र्दारदा शुष्कं॒ मधु॑मद्दु॒दोहि॑थ ।
+> सः शे॑व॒धिं नि द॑धिषे वि॒वस्व॑ति॒ विश्व॒स्यैक॑ ईशिषे॒ सास्यु॒क्थ्यः॑ ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । भोजनं । च । दयसे । च । वर्धनं । आर्द्रात् । आ । शुष्कं । मधुमत् । दुदोहिथ ।
+> सः । शेव्यधिं । नि । दधिषे । विवस्वति । विश्वस्य । एकः । ईशिषे । सः । असि । उक्तः ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र यस्त्वं भोजनं । भुज्यत इति भोजनमन्नादि । च दयसे । यज-
+> मानेभ्यः प्रयच्छसि ॥ दय दानगतिरक्षणहिंसाग्रहणेषु आत्मनेपदी ॥ किंच वर्धनं
+> वृद्धिकरं धनं बलं वा दयसे । तथाद्र्रात्कांडात् शुष्कमनाद्रं प्रीह्यादिकं
+> मधुमत् मधुररसोपेतं दुदोहिथ । दुग्धवानसि ॥ दुहेर्लिटि क्रादिनियमादि-
+> डागमः ॥ स तादृशस्त्वं विवस्वति ते परिचरणं कुर्वाणे यजमाने शेवधिं धनसदनं
+> निदधिषे । निदधासि । किं बहुना । विश्वस्य सर्वस्य जगत एकोद्वितीय एव सन् ईशिषे ।
+> स्वामी भवसि ॥ ईश ऐश्वर्ये । ईशः स इतीडागमः ॥ स इत्यादि सिद्धं ॥
+
+*Gist: Indra gives food and strengthening wealth to the sacrificers, milks sweet juice even from dry stalks, places wealth in the house of the one who serves him, and rules alone over the whole world.*
+
 ---
 
-**Progress note:** Done through printed p. 696 (PDF 696). Sukta 13 Rik 4 Bhavartha end, Special Topics; Rik 5 Samhita, Pada
+**Progress note:** Done through printed p. 699 (PDF 699). Sukta 13 Rik 5 bhashya to Special Topics; Rik 6 Samhita, Pada, bhashya
