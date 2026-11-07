@@ -1536,6 +1536,72 @@ After that the hotṛ recites the fifth ṛk—
 
 The main sense of the first half of this ṛk: "O Agni, you who are endowed with armies in the form of flames, come, as the chief of all the gods, and sit in this navel-place called the northern altar." By the use of the word विश्वेभिः (*viśvebhiḥ*) here it is indicated that all the gods are established together with Agni; that is, the sense is that Agni, together with all the gods, will sit on the northern altar, which is like a bird's nest, made soft by spreading strands of wool. Being on the northern altar, the navel region, which is abundantly supplied with firewood and the like and sprinkled with ghee, ... the sacrificer's sacrificial rites (text breaks off at the end of this page)
 
+### Printed p. 547
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 547.*
+
+... "perform well" is the sense of the second half. Here the words कुलायिनं धृतवंतं (*kulāyinaṃ dhṛtavaṃtaṃ*) in the third pāda suggest a bird's nest. That is, a bird builds its nest by weaving together small twigs of the khadira or devadāru tree, gum (resin), woollen threads, and a kind of fragrant grass. The navel-place of Agni is compared here to that. How? In building a nest the bird uses twigs; here the logs called paridhi are placed around Agni. Likewise, in place of gum, the fragrant substances such as ghee placed for the homa; in place of woollen threads, sacrificial animals such as the goat; in place of grass, the fuel-sticks (samidh) are prepared and placed around Agni. Thus the northern altar (the fire-pit) established for Agni is described by comparison with a bird's nest. The prayer expressed here is that Agni, established in the northern altar which is like such a bird's nest, may perform well the sacrificial acts of the sacrificer.
+
+सीद होतः स्व उ लोके चिकित्वानित्यग्निर्वै देवानां होता तस्यैष स्वो लोको यदुत्तरवेदीनाभिः । सादया यज्ञं सुकृतस्य योनाविति (*sīda hotaḥ sva u loke cikitvānityagnirvai devānāṃ hotā tasyaiṣa svo loko yaduttaravedīnābhiḥ | sādayā yajñaṃ sukṛtasya yonāviti*)
+यजमानो वै यज्ञो यजमानाय्नैवैतामाशिषमाशास्ते । देवावीर्देवान् हविषा यजास्यग्ने बृहद्यजमाने वयो धा इति प्राणो वै (*yajamāno vai yajño yajamānāynaivaitāmāśiṣamāśāste | devāvīrdevān haviṣā yajāsyagne bṛhadyajamāne vayo dhā iti prāṇo vai*)
+वयः प्राणमेव तद्यजमाने दधाति ॥ (*vayaḥ prāṇameva tadyajamāne dadhāti ‖*)
+
+Thereafter the hotṛ proceeds and, in this part of the rite, recites the sixth ṛk, which is to be said—
+
+(6) सीद होतः स्व उ लोके चिकित्वान्तादया यज्ञं सुकृतस्य योन् । (*sīda hotaḥ sva u loke cikitvāntādayā yajñaṃ sukṛtasya yon |*)
+देवावीर्देवान् हविषा यजास्यग्ने बृहद्यजमाने वयो धाः ॥ (*devāvīrdevān haviṣā yajāsyagne bṛhadyajamāne vayo dhāḥ ‖*)
+(Ma. Saṃ. 3-29-8)
+
+Agni is the priest called hotṛ of the gods; and the navel of the northern altar is Agni's own place. Therefore the prayer in the first pāda is: "O Agni, you are the accomplisher of the homa, the hotṛ of the gods; being such, sit in your own place, the northern altar." In the second pāda the word यज्ञ (*yajña*) means the sacrificer who performs the sacrifice. The meaning of the second pāda is: "O Agni, establish this sacrificer in the place of those who perform meritorious acts, the virtuous (sukṛta)." In the second half, the word वयः (*vayaḥ*) means life-breath (prāṇa). Therefore: "O Agni, dear to the gods, worship and satisfy the gods with the oblation, and bestow (that is, increase) life-breath, that is, length of life, in the sacrificer who performs the sacrifice." According to the Śruti sentence (यावदस्मिन् शरीरे प्राणो वसति तावदायुः (*yāvadasmin śarīre prāṇo vasati tāvadāyuḥ*), "as long as the life-breath dwells in this body, so long is there life"), as long as the life-breath
+
+### Printed p. 548
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 548.*
+
+remains in the body a man has life; since this is said, the word prāṇa is used here in the sense of "life". The purport is: "Grant long life to the sacrificer."
+
+नि होता होतृषदने विदान इत्यग्निर्वै देवानां होता तस्यैतद्दोतृषदनं यदुत्तरवेदीनाभिः । त्वेषो दीदिना असदत्सुदक्ष इत्यासन्नू हि (*ni hotā hotṛṣadane vidāna ityagnirvai devānāṃ hotā tasyaitaddotṛṣadanaṃ yaduttaravedīnābhiḥ | tveṣo dīdinā asadatsudakṣa ityāsannū hi*)
+स तर्हि भवति । अदब्धव्रतप्रमतिर्वसिष्ठ इत्यग्निर्वै देवानां वसिष्ठः । सहस्रं (*sa tarhi bhavati | adabdhavratapramatirvasiṣṭha ityagnirvai devānāṃ vasiṣṭhaḥ | sahasraṃ*)
+भरः शुचिजिह्वो अग्निरित्येषा ह वा अस्य सहस्रंभरता यदेनमेकं संतं (*bharaḥ śucijihvo agnirityeṣā ha vā asya sahasraṃbharatā yadenamekaṃ saṃtaṃ*)
+बहुधा विहरंति प्र ह वै साहस्रं पोषमाप्नोति य एवं वेद ॥ (*bahudhā viharaṃti pra ha vai sāhasraṃ poṣamāpnoti ya evaṃ veda ‖*)
+
+The hotṛ recites, as the seventh ṛk—
+
+(7) नि होता होतृषदने विदानस्त्वेषो दीदिना असदत्सुदक्षः । (*ni hotā hotṛṣadane vidānastveṣo dīdinā asadatsudakṣaḥ |*)
+अदब्धव्रतप्रमतिर्वसिष्ठः सहस्रंभरः शुचिजिह्वो अग्निः ॥ (*adabdhavratapramatirvasiṣṭhaḥ sahasraṃbharaḥ śucijihvo agniḥ ‖*)
+(Ma. Saṃ. 2-9-1)
+
+this mantra. Agni is the hotṛ of the gods. The place of the navel of the northern altar is the place called hotṛṣadana, where this divine hotṛ Agni sits: this is the meaning of the first pāda. The second pāda means that this Agni, who is radiant and skilled in sacrificial acts, is seated in this northern-altar navel called hotṛṣadana. Since Agni carries the oblation to the gods, he has obtained the best place in heaven, the gods' own abode. This Agni, whose mind is bent on unharmed sacrifices and the like, is one who has an excellent dwelling: this is the meaning of the third pāda. The meaning of the word सहस्रंभर (*sahasraṃbhara*) is that, although Agni appears in a single form, he is present in all, the priests and the rest, and performs the duty of each, and so bears many forms; or, that Agni, being in many sacrificial houses and fulfilling the sacrifices of many sacrificers, bears many forms. Because his tongue (flame) is purified by receiving the oblation and the like, Agni is called शुचिजिह्व (*śucijihva*). It is praised here that such an Agni gives the sacrificer nourishment by the thousand, in cattle, gold and the like.
+
+त्वं दूतस्त्वमु नः परस्पा इत्युत्तमया परिदधाति त्वं वस्य आ वृषभ प्रणेता । (*tvaṃ dūtastvamu naḥ paraspā ityuttamayā paridadhāti tvaṃ vasya ā vṛṣabha praṇetā |*)
+अग्ने तोकस्य नस्तने तनूनामप्रयुच्छन्विद्यद्बोधिं गोपा इति अग्निर्वै (*agne tokasya nastane tanūnāmaprayucchanvidyadbodhiṃ gopā iti agnirvai*)
+देवानां गोपा अग्निमेव तत्सर्वतो गोप्तारं परिदत्त आत्मने च (*devānāṃ gopā agnimeva tatsarvato goptāraṃ paridatta ātmane ca*)
+यजमानाय च यत्रैवं विद्वानेतया परिदधात्यथो संवत्सरीणामे- (*yajamānāya ca yatraivaṃ vidvānetayā paridadhātyatho saṃvatsarīṇāme-*)
+नैतां स्वस्तिं कुरुते ॥ (*naitāṃ svastiṃ kurute ‖*)
+
+Next the hotṛ recites the last, the eighth ṛk, and brings the Agni-praṇayana rite to its close—
+
+### Printed p. 549
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 549.*
+
+(8) त्वं दूतस्त्वमु नः परस्पास्त्वं वस्य आ वृषभ प्रणेता । (*tvaṃ dūtastvamu naḥ paraspāstvaṃ vasya ā vṛṣabha praṇetā |*)
+अग्ने तोकस्य नस्तने तनूनामप्रयुच्छन् दीद्यद्वोधि गोपाः ॥ (*agne tokasya nastane tanūnāmaprayucchan dīdyadvodhi gopāḥ ‖*)
+(Ṛ. Saṃ. 2-9 [the reference is cut off in the supplied text]) (Ma. Saṃ. 9-2)
+
+This is the last ṛk in the Agni-praṇayana rite. Generally the last ṛk of a rite is called the paridhāna (covering) of that rite. According to the Śruti sentence अग्निर्देवानां दूत आसीत् (*agnirdevānāṃ dūta āsīt*) ("Agni was the messenger of the gods"), the meaning of the first pāda is: "O Agni, you are the messenger of the gods; you are our protector." Having recited this, the hotṛ recites the mantra that marks the completion of the Agni-praṇayana rite. "O Agni, you are the best among gods or among men; you have your dwelling in all places; you are the impeller in many rites; watching over our sons, grandsons and the rest, and over ourselves, so that no mishap may befall, you protect us." This is the main sense of the ṛk. Agni is the protector even of the gods; he brings protection to us and to the sacrificer. The man who knows this obtains protection from Agni for a whole year and lives in well-being.
+
+ता एता अष्टावन्वाह रूपसमृद्धा एतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं (*tā etā aṣṭāvanvāha rūpasamṛddhā etadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ*)
+यॆत्कर्म क्रियामाणमृगभिवदति । तासां त्रिः प्रथमामन्वाह त्रिरुत्तमां (*yètkarma kriyāmāṇamṛgabhivadati | tāsāṃ triḥ prathamāmanvāha triruttamāṃ*)
+ता द्वादश संपद्यंते द्वादश वै मासाः संवत्सरः संवत्सरः प्रजापतिः (*tā dvādaśa saṃpadyaṃte dvādaśa vai māsāḥ saṃvatsaraḥ saṃvatsaraḥ prajāpatiḥ*)
+प्रजाप्रत्यायतनाभिरेवाभी राध्योति य एवं वेद त्रिः प्रथमां त्रिरुत्त- (*prajāpratyāyatanābhirevābhī rādhyoti ya evaṃ veda triḥ prathamāṃ trirutta-*)
+मामन्वाह यज्ञस्यैव तद्बर्सो नह्यति स्थेन्ने बलायाविस्रंसाय ॥ (*māmanvāha yajñasyaiva tadbarso nahyati sthenne balāyāvisraṃsāya ‖*)
+(Ai. Brā. 5-2)
+
+In this way the hotṛ recites the eight ṛks stated above. All of these together form a rite that has obtained a complete form. By saying at the proper times mantras that describe and explain the meaning of the respective acts, the sacrificial act is helped to be completed in full. Of these eight mantras the hotṛ recites the first and the last ṛks three times each. Thereby there come to be twelve ṛks in all in this rite. Twelve months make one year. Prajāpati is of the nature of the year. Therefore whoever knows the nature and the order of these mantras, which are established in Prajāpati, will prosper. Because the hotṛ recites the first and the last ṛks three times each, it is as though the two ends of the sacrifice were tied firmly so that they do not slip and fall.
+
+The Agni-praṇayana rite is concluded.
+
 ---
 
-**Progress note:** Done through printed p. 546 (PDF 546). Sukta 9 Agni-pranayana: Ṛks 2-5 of the hotṛ's recitation (Special Topics); Vacovisarjana story from Tai. Saṃ.
+**Progress note:** Done through printed p. 549 (PDF 549). Agni-pranayana Rks 6-8 of the hotr's recitation, Brahmana conclusion (Special Topics)
