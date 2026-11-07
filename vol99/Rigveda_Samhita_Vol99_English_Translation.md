@@ -7068,6 +7068,79 @@ Priests, presented the Soma libation to him, who, slaying hundreds and thousands
 त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने आरंधनायः (*tvamasmai kutsamatithigvamāyuṃ mahe rājñe yūne āraṃdhanāyaḥ*) ।
 (Ma. Saṃ. 1-53-10)
 
+### Printed p. 742
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 742.*
+
+त्वं कुत्सं शुष्णहत्येष्वाविधारंधयेऽतिथिग्वाय शंबरं । (*tvaṃ kutsaṃ śuṣṇahatyeṣvāvidhāraṃdhaye 'tithigvāya śaṃbaraṃ |*)
+(Ṛ. Saṃ. 1-51-6)
+
+and similar Ṛks say this. The matter of Kutsa and Āyu is stated in Ṛ. Saṃ. Part 13-335; the matter of Kutsa in Ṛ. Saṃ. 5-678, 8-768, 821; 13-335, 380 (the pages named); and the matter of Atithigva in Ṛ. Saṃ. 5-174.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यन्न॑रः का॒मया॑ध्वे श्रु॒ष्टी वहं॑तो नशथा॒ तदिंद्रे॑ ।
+> गभ॑स्तिपूतं भरत श्रु॒तायेंद्रा॑य॒ सोमं॑ यज्यवो जुहोत ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यत् । नरः । कमयाध्वे । श्रुष्टी । वहंतः । न श थ । तत् । इंद्रे ।
+> गभस्तिपूतं । भरत । श्रुताय । इंद्राय । सोमं । यज्यवः । जुहोत ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> नरः कर्मणां नेतारो हे अध्वर्यवः यदभिलषितमर्थं कामयाध्वे ॥
+> कामयतेर्लेट्र्यडागमः ॥ श्रुष्टी क्षिप्रमिंद्रे सोमं वहंतः प्रापयंतो
+> यूयं तदभिलषितं फलं नशथ । प्राप्नुत । श्रुताय लोके प्रसिद्धायेंद्राय
+> गभस्तिपूतं हस्ताभ्यां मंजनदोहनादिभि शोधितं सोमं भरत । उत्तरवेदिं प्रति
+> हरत । ततो यज्यवो यागं कुर्वाणा हे अध्वर्यव आह्ृतं सोममिंद्राय
+> जुहोत । जुहुत । अग्नौ प्रक्षिपत ॥
+
+*Gist:* Adhvaryus, you who lead the rites, bring the Soma quickly to Indra and offer it in the fire; thereby you will obtain what you desire.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नरः (*naraḥ*)—O leaders of the rite. अध्वरवः (*adhvaravaḥ*)—O Adhvaryus. यत् (*yat*)—whatever desired objects. कामयाध्वै (*kāmayādhvai*)—you wish to be fulfilled. तत् (*tat*)—all that. इंद्रे (*iṃdre*)—for Indra. श्रुष्टि (*śruṣṭi*)—quickly. वहंतः (*vahaṃtaḥ*)—by bringing and carrying the Soma juice. नशथ (*naśatha*)—obtain.
+
+### Printed p. 743
+
+*Running head: A. 2, A. 6, V. 14; Ṛgvedasaṃhitā; p. 743.*
+
+श्रुताय (*śrutāya*)—renowned in all the world. इंद्राय (*iṃdrāya*)—to Indra. गभस्तिपूतं (*gabhastipūtaṃ*)—purified with both hands by pressing, milking and the like. सोमं (*somaṃ*)—the Soma. भरत (*bharata*)—take and bring. यज्यवः (*yajyavaḥ*)—O Adhvaryus, performers of the sacrifice. जुहोत (*juhota*)—offer (that juice) in the fire.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, leaders of the rite, whatever desired objects of yours you wish to be fulfilled, obtain all that by quickly offering the Soma juice to Indra. O Adhvaryus, performers of the sacrifice, bring to Indra, renowned in all the world, the Soma purified with both hands by pressing, milking and the like, and offer it.
+
+**Printed English translation**
+
+Priests, leaders(of the ceremony), may you, quickly bringing the offer- ing to Indra, receive that(recompense) which you may desire: solemnizing the sacrifice, offer the Soma libation, purified by expressing, to the renowned Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नरः—कर्मणां नेतारः । (*naraḥ—karmaṇāṃ netāraḥ |*) Since they take the chief part in sacrifices and other rites and carry those rites through successfully, the word नरः (*naraḥ*) is used here as an epithet of the word अध्वर्यवः (*adhvaryavaḥ*).
+
+श्रुष्टी—श्रुष्टीति क्षिप्रनाम—आशु अष्टीति । (*śruṣṭī—śruṣṭīti kṣipranāma—āśu aṣṭīti |*) (Ni. 6-13) Since it indicates the sense "pervade swiftly", श्रुष्ठी (*śruṣṭhī*) means "quickly".
+
+श्रुष्टी वहंतः नशथ तत् इंद्रे (*śruṣṭī vahaṃtaḥ naśatha tat iṃdre*)—Here the final letter of the word नशथ (*naśatha*) is long in the Saṃhitā text for the convenience of the metre. The chief sense is that you (the Adhvaryus), who carry the Soma juice for Indra, "in Indra", that is, for Indra, and offer it, will obtain the due reward of that rite.
+
+गभस्तिपूतं भरत श्रुताय इंद्राय सोमं—लोके प्रसिद्धायेंद्राय गभस्तिपूतं हस्ताभ्यां मंजनदोहनादिभिः शोधितं सोमं भरत । उत्तरवेदिं प्रति हरत । (*gabhastipūtaṃ bharata śrutāya iṃdrāya somaṃ—loke prasiddhāyeṃdrāya gabhastipūtaṃ hastābhyāṃ maṃjanadohanādibhiḥ śodhitaṃ somaṃ bharata | uttaravediṃ prati harata |*) The sense is: bring to the Uttaravedi the Soma juice, purified with the hands and prepared for drinking, for Indra, who is renowned for having done many deeds of daring. The word गभस्ति (*gabhasti*) is read among the names of rays (Ni. 2-15) and among the names of arms (Ni. 3-8). Here the sense "arms" (hands) should be accepted.
+
+### Printed p. 744
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 744.*
+
+When Soma plants are crushed, it is customary to place them on hides. This hide is called त्वक् (*tvak*). A cow-hide was used for it (Ṛ. Saṃ. 10-94-9, 10-116-4). The vessels in which the Soma is stored have names such as कोश (*kośa*) (Ṛ. Saṃ. 7-101-4, 8-20-8), सधस्थ (*sadhastha*) (Ṛ. Saṃ. 3-62-15, 9-1-2, 9-17-8), द्रु (*dru*) (Ṛ. Saṃ 9-1-2, 9-65-6, 9-98-2), वन (*vana*) (Ṛ. Saṃ. 2-14-9, 9-66-9) and द्रोण (*droṇa*) (Ṛ. Saṃ 9-15-7, 9-33-2). स्रुव (*sruva*) means a ladle (Ṛ. Saṃ 1-1-6-24 [as printed]); the cloth or sieve that strains the Soma juice is called पवित्र (*pavitra*); in some cases the Soma was also strained through the gaps between the fingers.
+
+मृजंति त्वा समग्रवोऽव्ये जीरावधि स्वणि । रेभो यदज्यसे वने । (*mṛjaṃti tvā samagravo 'vye jīrāvadhi svaṇi | rebho yadajyase vane |*)
+(Pu. Saṃ 9-66-9)
+
+In such Ṛks it is said that the juice obtained by soaking the Soma plant in water, crushing and squeezing it, is strained with the fingers of the hand; that same matter is explained here by the word गभस्तिपूतं (*gabhastipūtaṃ*).
+
+The method of crushing the Soma plant and preparing the Soma juice is nowhere described at length in the Ṛgveda. It can be inferred from some sentences stated here and there. The stones for crushing the Soma plants have the names ग्रावा (*grāvā*) and अद्रि (*adri*). In some cases wooden boards known as अधिषवण (*adhiṣavaṇa*) are also used. If the plant is fresh, much juice comes; if not, that is, if some days have passed since it was cut and brought, they soak it in water and afterwards place it on the hide. Then they crush it with stones and take out the juice. Since the juice so obtained is mixed with husks, bits and the like of the plant, they strain it either through the gaps between the fingers, or through the sieve or cloth called पवित्र (*pavitra*), or through sheep's wool. The juice strained in this way is clear, without impurities. It has the names शुक्र (*śukra*) and शुचि (*śuci*). In appearance this juice is dull red or red mixed with yellow. It is customary to offer to Indra and Vāyu pure Soma juice, that is, without any admixture of आशिर (*āśira*) substances. For other deities milk, curds and grain flour are mixed in and used. The Soma juice mixed with these has the names गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*) respectively.
+
 ---
 
-**Progress note:** Done through printed p. 741 (PDF 741). Sukta 14 Rk 6 Special Topics; Rk 7 Samhita/Pada from figure, bhashya, Pratipadartha, Bhavartha, Special Topics begun
+**Progress note:** Done through printed p. 744 (PDF 744). Rk 8 of Sukta 14 (Samhita/Pada from figure), Special Topics on Soma pressing
