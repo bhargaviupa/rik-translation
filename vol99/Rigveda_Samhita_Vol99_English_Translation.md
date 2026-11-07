@@ -4192,6 +4192,128 @@ and has given four kinds of meaning:
 
 (text of the supplied page ends here; the fourth meaning is not on this page)
 
+### Printed p. 640
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 1, Sūkta 11; p. 640.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+(4) दाशतेर्वा स्याद्दानकर्मणः (*dāśatervā syāddānakarmaṇaḥ*)—the root *dāśati* means "to give a gift". Since in giving a gift the right hand (*dakṣiṇa-hasta*) is ordinarily used, the act of giving is called *dakṣiṇā*.
+
+Of these four kinds of meaning, the last-mentioned one, the act of giving, is the meaning stated in this Ṛk.
+
+The greatness of gift-giving in the form of *dakṣiṇā* is praised in many places in this way. In अयमात्मा दक्षिणान्नं वनुते यो न आत्मेति ह्यस्यृषिणाभ्युक्तं (*ayamātmā dakṣiṇānnaṃ vanute yo na ātmeti hyasyṛṣiṇābhyuktaṃ*) (Śa. Bhā. 10-12-10) it is said that the gift of *dakṣiṇā* secures and provides food. (Reference as printed: Śa. Bhā.)
+
+Again:
+
+य एष तपति तद्यॆत्तदादित्यो यशो यज्यो हैव तद्यशस्त्रद्यत्तदृत्वजो (*ya eṣa tapati tadyèttadādityo yaśo yajyo haiva tadyaśastradyattadṛtvajo*) यशो दक्षिणा हैव तद्यशस्त्रस्माद्यामस्मै दक्षिणामानयेयुर्न ता (*yaśo dakṣiṇā haiva tadyaśastrasmādyāmasmai dakṣiṇāmānayeyurna tā*) … द्योऽन्यस्मा अतिदिशेश् (*dyo 'nyasmā atidiśeś*) (Śa. Brā. 4-1.1-32; the word broken at the line-end "ಇತ್ಸ-ದ್ಯೋ" is as supplied). Since *dakṣiṇā* is itself a glory (*yaśas*), a blessing, it should not be rejected. And, as Sāyaṇa has cited,
+
+ब्राह्मणा विविदिषंति यज्ञेन दानेन (*brāhmaṇā vividiṣaṃti yajñena dānena*) (Bṛ. U. 4-4-22)
+
+—knowers of Brahman desire to become knowers (*jñānin*) by sacrifice and also by gift-giving; and
+
+दानमिति सर्वाणि भूतानि प्रशग्ंसंति दानान्ना तिदुश्चरं तस्माद्दाने रमंते (*dānamiti sarvāṇi bhūtāni praśagṃsaṃti dānānnā tiduścaraṃ tasmāddāne ramaṃte*) (Tai. U. 4-100)
+
+दानं यज्ञानां वरूथं दक्षिणा लोके दातारग्ं सर्वभूतान्युपजीवंति (*dānaṃ yajñānāṃ varūthaṃ dakṣiṇā loke dātāragṃ sarvabhūtānyupajīvaṃti*)
+
+दानेनारातीरपानुदंत दानेन द्विषंतो मित्रा भवंति दाने सवस्ति (*dānenārātīrapānudaṃta dānena dviṣaṃto mitrā bhavaṃti dāne savasti*)
+
+प्रतिष्ठितं तस्माद्दानं परमं वदंति (*pratiṣṭhitaṃ tasmāddānaṃ paramaṃ vadaṃti*) (Tai. U. 4-101)
+
+That is: all people praise the act of giving. By giving gifts all undertakings are accomplished; nothing is impossible through it. Gift-giving is the means, like a chariot, by which a sacrifice proceeds well. In the world everyone lives depending on the giver. By gifts even enemies become friends. In gift-giving all the dharmas are established. Therefore they call gift-giving the highest of acts. Thus the praise of *dakṣiṇā*, or of gift-giving, is stated in many places. As said before, the eleven Ṛks of Ṛ. Saṃ. 10-107, beginning आविरभून्महि माघोनमेषां (*āvirabhūnmahi māghonameṣāṃ*), are wholly in praise of the *dakṣiṇā* and of those who give it; since writing all that out would be too lengthy, it will be explained on another occasion.
+
+### Printed p. 641
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 641.*
+
+*The twelfth sūkta.*
+
+## Sūkta 12 (Maṇḍala 2)
+
+**Introduction to the sūkta (Sanskrit, transcribed)**
+
+> द्वितीयेऽनुवाक एकादश सूक्तानि । तत्र यो जात इति पंचदशर्चं प्रथमं
+> सूक्तं गार्त्समदं त्रैष्टुभमैंद्रं ॥ संसवे निष्केवल्यॆ निविद्वानीयस्य पुरस्ताद्यो
+> जात एवेति शंस्येत् । यदि पर्यायानिति खंडे सूत्रितं । यो जात एवेति निष्क-
+> वल्यॆ । अ. ६-६ । इति ॥ अभिप्लविके तृतीयेऽहनि निष्केवल्यॆ यो जात एवेति निविद्दा-
+> नीयं । सूत्रितं च । तृतीयस्य त्र्यर्यमा यो जात एवेति मध्यंदिनः । आ. ७-७ ।
+> इति ॥ विश्वजिति माध्यंदिनसवने मैत्रावरुणः स्वशस्त्रे प्राकृतात्तूक्तूर्वं यो
+> जात इति सामसूक्तं शंसेत् । विश्वजितोऽग्निं नर इति खंडे सूत्रितं । सत्रा मदासो
+> यो जात एवाभूरेक इति सामसूक्तानि । अ. ८-७ । इति ॥ अग्निष्टुन्निष्केवल्यॆ निवि-
+> द्धानमिदं । श्येनाजिराभ्यामिति खंडे सूत्रितं । तिष्ठा हरी इति यो जात एवेति
+> मध्यंदिनः । आ. ९-७ । इति ॥ महाव्रते निष्केवल्यॆ यो जात एवेति सूक्तं । ऊरू
+> इति खंडे सूत्रितं । वने न वा यो न्यधायि चाकन् यो जात एव प्रथमो मन-
+> स्वान् । ऐ. आ. ५-३-१ इति ॥ अत्रेतिहासो बृहद्देवतायामुक्तः । संयुज्य तपसा-
+> त्मानमैंद्रं बिभ्रह्नहद्वपुः । अदृश्यत मुहूर्तन दिवि च व्योम्मि चेह च ॥ तमिंद्र
+> इति मत्वा तु दैत्यौ भीमपराक्रमौ । धुनिश्च चुमुरिश्चोभौ सायुधावभिपेततुः ॥
+> विदित्वा स तयोर्भावमृषिः पापं चिकीर्षतोः । यो जात इति सूक्तेन कर्मा-
+> ण्यॆंद्राण्यकीर्तयत् । अन्ये त्वन्यथा वर्णयंति । पुरा किलेंद्रादयो वैन्ययज्ञं
+> समाजग्मुः । गृत्समदोऽपि तत्रागत्य सदस्यासीत् । दैत्याश्चेंद्रजिघांसया तत्र
+> समागमन् । तान् दृष्ट्वा निर्जगामेंद्रो यज्ञादृत्समदाकृतिः । स च गृत्समदो
+> वैन्यन पूजितो यज्ञवाटानिरगच्छत् । निर्गच्छंतं तमृषिं दृष्ट्वा अयमेवेंद्र
+> इति मन्यमानास्तमसुराः परिववुः। नाहमिंद्रस्तुच्छः किंत्वेवंगुणोपेतः स इत्यनेन
+> सूक्तेन तात्पृत्युवाच ॥ अपरे त्वेवं कथयंति । गृत्समदस्य यज्ञे प्रविष्टमेकाकिन-
+> मिंद्रं ज्ञात्वासुराः परिववुः । स इंद्रो गृत्समदरूपेण यज्ञवाटान्निर्गत्य स्वर्गं
+> जगाम । ततोऽसुरा इंद्रो विलंबित इत्यंतः प्रविश्य गृत्समदं दृष्ट्वा पूर्वमेव
+> गृत्समदो गतः अयं त्विंद्रोऽस्मद्वयादृत्समदरूपेणास्त इति तं जगृहुः । स
+> तान् नाहमिंद्रोयमित्यनेन सूक्तेन प्रत्युवाच । अयमेवार्थो महाभारते
+> प्रपंचितः ॥
+
+> *dvitīye 'nuvāka ekādaśa sūktāni | tatra yo jāta iti paṃcadaśarcaṃ prathamaṃ*
+> *sūktaṃ gārtsamadaṃ traiṣṭubhamaiṃdraṃ ‖ saṃsave niṣkevalyè nividvānīyasya purastādyo*
+> *jāta eveti śaṃsyet | yadi paryāyāniti khaṃḍe sūtritaṃ | yo jāta eveti niṣka-*
+> *valyè | a. 6-6 | iti ‖ abhiplavike tṛtīye 'hani niṣkevalyè yo jāta eveti nividdā-*
+> *nīyaṃ | sūtritaṃ ca | tṛtīyasya tryaryamā yo jāta eveti madhyaṃdinaḥ | ā. 7-7 |*
+> *iti ‖ viśvajiti mādhyaṃdinasavane maitrāvaruṇaḥ svaśastre prākṛtāttūktūrvaṃ yo*
+> *jāta iti sāmasūktaṃ śaṃset | viśvajito 'gniṃ nara iti khaṃḍe sūtritaṃ | satrā madāso*
+> *yo jāta evābhūreka iti sāmasūktāni | a. 8-7 | iti ‖ agniṣṭunniṣkevalyè nivi-*
+> *ddhānamidaṃ | śyenājirābhyāmiti khaṃḍe sūtritaṃ | tiṣṭhā harī iti yo jāta eveti*
+> *madhyaṃdinaḥ | ā. 9-7 | iti ‖ mahāvrate niṣkevalyè yo jāta eveti sūktaṃ | ūrū*
+> *iti khaṃḍe sūtritaṃ | vane na vā yo nyadhāyi cākan yo jāta eva prathamo mana-*
+> *svān | ai. ā. 5-3-1 iti ‖ atretihāso bṛhaddevatāyāmuktaḥ | saṃyujya tapasā-*
+> *tmānamaiṃdraṃ bibhrahnahadvapuḥ | adṛśyata muhūrtana divi ca vyommi ceha ca ‖ tamiṃdra*
+> *iti matvā tu daityau bhīmaparākramau | dhuniśca cumuriścobhau sāyudhāvabhipetatuḥ ‖*
+> *viditvā sa tayorbhāvamṛṣiḥ pāpaṃ cikīrṣatoḥ | yo jāta iti sūktena karmā-*
+> *ṇyèṃdrāṇyakīrtayat | anye tvanyathā varṇayaṃti | purā kileṃdrādayo vainyayajñaṃ*
+> *samājagmuḥ | gṛtsamado 'pi tatrāgatya sadasyāsīt | daityāśceṃdrajighāṃsayā tatra*
+> *samāgaman | tān dṛṣṭvā nirjagāmeṃdro yajñādṛtsamadākṛtiḥ | sa ca gṛtsamado*
+> *vainyana pūjito yajñavāṭāniragacchat | nirgacchaṃtaṃ tamṛṣiṃ dṛṣṭvā ayameveṃdra*
+> *iti manyamānāstamasurāḥ parivavuḥ| nāhamiṃdrastucchaḥ kiṃtvevaṃguṇopetaḥ sa ityanena*
+> *sūktena tātpṛtyuvāca ‖ apare tvevaṃ kathayaṃti | gṛtsamadasya yajñe praviṣṭamekākina-*
+> *miṃdraṃ jñātvāsurāḥ parivavuḥ | sa iṃdro gṛtsamadarūpeṇa yajñavāṭānnirgatya svargaṃ*
+> *jagāma | tato 'surā iṃdro vilaṃbita ityaṃtaḥ praviśya gṛtsamadaṃ dṛṣṭvā pūrvameva*
+> *gṛtsamado gataḥ ayaṃ tviṃdro 'smadvayādṛtsamadarūpeṇāsta iti taṃ jagṛhuḥ | sa*
+> *tān nāhamiṃdroyamityanena sūktena pratyuvāca | ayamevārtho mahābhārate*
+> *prapaṃcitaḥ ‖*
+
+*Gist:* The twelfth sūkta, यो जात (*yo jāta*), fifteen Ṛks, opens the second anuvāka (eleven sūktas); seer Gṛtsamada, deity Indra, Triṣṭubh. It is prescribed for the Nishkevalya-śastra of several rites, citing Āśvalāyana Śrauta-sūtra passages (6-6, 7-7, 8-7, 9-7) and the Aitareya Āraṇyaka (5-3-1). Two versions of the story are told: Gṛtsamada, taking Indra's form, is mistaken for Indra by demons; he proclaims Indra's deeds, or replies "I am not Indra".
+
+### Printed p. 642
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2 [as supplied], Sūkta 12; p. 642.*
+
+**Anuvāda (Kannada)**
+
+Translation—With this sūkta the second anuvāka of this second Maṇḍala begins. In this anuvāka there are eleven sūktas. Of them, the sūkta beginning यो जात एव (*yo jāta eva*) is the first. It has fifteen Ṛks. The seer of this sūkta is Gṛtsamada; the deity is Indra; the metre is Triṣṭubh. At the *saṃsava* sacrifice, while the Nishkevalya-śastra mantras are recited, this sūkta यो जात एव (*yo jāta eva*) is to be recited before the Nivid-sūktas, as expounded by the sūtra यो जात एवेति निष्केवल्य (*yo jāta eveti niṣkevalya*) in the section यदि पर्यायान् (*yadi paryāyān*) of the Āśvalāyana Śrauta-sūtra (Ā. 6-6). And on the third day of the *abhiplava* sacrifice, at the time of reciting the Nishkevalya-śastra, this sūkta यो जात एव (*yo jāta eva*) is to be recited as the Nivid-sūkta, as expounded by the sūtra तृतीयस्य त्र्यर्यमा यो जात एवेति मध्यंदिनः (*tṛtīyasya tryaryamā yo jāta eveti madhyaṃdinaḥ*) of the same Sūtra (Ā. 7-7). And in the *viśvajit* sacrifice, at the midday pressing, when the Maitrāvaruṇa-śastra mantras are recited, the Sāma-sūkta यो जात एव (*yo jāta eva*) is to be recited before those mantras, as expounded in the section विश्वजितोग्निं नर (*viśvajitogniṃ nara*) of the Āśvalāyana Śrauta-sūtra by the sūtra सत्रा मदासो यो जात एवाभूरेक इति सामसूक्तानि (*satrā madāso yo jāta evābhūreka iti sāmasūktāni*) (Ā. 8-7). And when the Nishkevalya-śastra mantras relating to the praise of Agni are recited, this sūkta is to be recited as the Nivid-sūkta, as expounded in the section श्येनाजि.राभ्यां (*śyenāji.rābhyāṃ*) of the Āśvalāyana Śrauta-sūtra by the sūtra तिष्ठा हरी इति यो जात एवेति मध्यंदिनः (*tiṣṭhā harī iti yo jāta eveti madhyaṃdinaḥ*) (Ā. 9-7) (the supplied text has a stray full stop inside श्येनाजि.राभ्यां (*śyenāji.rābhyāṃ*)). And in the sacrifice called *mahāvrata* too, this sūkta यो जात एव (*yo jāta eva*) is to be recited for the Nishkevalya-śastra, as stated in the Aitareya Āraṇyaka in the section ऊरू (*ūrū*), in the sentence वने न वा यो न्यधायि चाकन् यो जात एव प्रथमो मनस्वान् (*vane na vā yo nyadhāyi cākan yo jāta eva prathamo manasvān*) (Ai. Ā. 5-3-1).
+
+In the work called Bṛhaddevatā there is an account concerning this sūkta—
+
+> संयुज्य तपसात्मानमैंद्रं बिभ्रन्महद्वपुः ।
+> अदृश्यत मुहूर्तेन दिवि च व्योम्मि चेह च ॥
+> तमिंद्र इति मत्वा तु दैत्या भीमपराक्रमौ ।
+> धुनिश्च चुमुरिश्चोभौ सायुधावभिपेततुः ॥
+> विदित्वा स तयोर्भावमृषिः पापं चिकीर्षतोः ।
+> यो जात इति सूक्तेन कर्माण्यैंद्राण्यकीर्तयत् ॥
+
+> *saṃyujya tapasātmānamaiṃdraṃ bibhranmahadvapuḥ |*
+> *adṛśyata muhūrtena divi ca vyommi ceha ca ‖*
+> *tamiṃdra iti matvā tu daityā bhīmaparākramau |*
+> *dhuniśca cumuriścobhau sāyudhāvabhipetatuḥ ‖*
+> *viditvā sa tayorbhāvamṛṣiḥ pāpaṃ cikīrṣatoḥ |*
+> *yo jāta iti sūktena karmāṇyaiṃdrāṇyakīrtayat ‖*
+
+Once upon a time, Gṛtsamada, the seer of this sūkta, performed austerity and, by its power, assumed the great form of Indra, and moved invisibly, unseen by the eye, in the regions where Indra dwells, such as the atmosphere and heaven, within a moment. Then two demons of great prowess, Dhuni and Cumuri, taking Gṛtsamada, who was moving in this way, to be Indra himself, and him— (the supplied text breaks off here, mid-sentence, at the end of printed p. 642: the Kannada ends with the word ಅವನನ್ನು, "him").
+
 ---
 
-**Progress note:** Done through printed p. 639 (PDF 639). Sukta 11 Rik 21 (Samhita, Pada, bhashya, Special Topics on daksina begun); Pada label restored from garbled line
+**Progress note:** Done through printed p. 642 (PDF 642). Dakshina special topics ended; Sukta 12 introduction (bhashya, Anuvada begun, Brihaddevata verses)
