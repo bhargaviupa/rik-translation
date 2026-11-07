@@ -4796,6 +4796,100 @@ In the first of these Ṛks Nema speaks thus: "There is no Indra. Who has seen h
 
 सः आर्यः पुष्टीः विजइव आ मीनाति श्रत् अस्मै धत्त (*saḥ āryaḥ puṣṭīḥ vijaiva ā mīnāti śrat asmai dhatta*) — ईमिति पूरणः । स इंद्रो विजइव । इवशब्द एवार्थे । उद्वेजक एव सन् अर्योऽरेः संबंधीनि पुष्टीः पोषकाणि गवाश्वादीनि धनान्यामिनाति । सर्वतो हिनस्ति । तस्मात् श्रदस्मा इंद्राय धत्त । स इंद्रोऽस्तीति विश्वासमत्र कुरुत । यद्यप्यसौ विशेषतोऽस्माभिर्न द्व्यश्यते तथापि अस्तीति विश्वासं कुरुत ॥ (*īmiti pūraṇaḥ | sa iṃdro vijaiva | ivaśabda evārthe | udvejaka eva san aryo 'reḥ saṃbaṃdhīni puṣṭīḥ poṣakāṇi gavāśvādīni dhanānyāmināti | sarvato hinasti | tasmāt śradasmā iṃdrāya dhatta | sa iṃdro 'stīti viśvāsamatra kuruta | yadyapyasau viśeṣato 'smābhirna dvyaśyate tathāpi astīti viśvāsaṃ kuruta ‖*) In this sentence the word ईं (*īṃ*) is for filling out the pāda (the printed text breaks off here, in mid-sentence, at the end of this page).
 
+### Printed p. 661
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 8.] Ṛgvedasaṃhitā, p. 661.*
+
+Since the word इव (*iva*) in विजइव (*vijaiva*) is also used in the sense of एव (*eva*) ("only, indeed"), the sentence means: Indra strikes down the enemies and seizes and plunders the riches and the cattle, horses and the like that are with them. Therefore, O men, place faith (trust) in Indra, that is, have confidence that Indra exists. For although Indra is not seen by our eyes, the daring deeds he performs are visible to our sight; hence the Ṛṣi, addressing the people, says: have confidence (trust) that he exists.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> यो र॒ध्रस्य॑ चोदि॒ता यः कृ॒शस्य॒ यो ब्र॒ह्मणो॒ नाध॑मानस्य॒
+> की॒रेः ।
+> यु॒क्तग्रा॑व्णो॒ योऽवि॒ता सु॑ति॒प्रः सु॒तसो॑मस्य॒ स ज॑नास॒॑
+> इंद्रः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । रध्रस्य । चोदिता । यः । कृशस्य । यः । ब्रह्मणः । नाधमानस्य । कीरेः ।
+> युक्तग्राव्णः । यः । अविता । सुशिप्रः । सुत्यसोमस्य । सः । जनासः । इंद्रः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यो रध्रस्य ॥ रधहिंसासंराद्योः ॥ समृद्धस्य चोदिता धनानां प्रेरयिता
+> भवति । यश्च कृशस्य च दरिद्रस्य च यश्च नाधमानस्य ॥ नाध्य णाध्य याज्योपता-
+> पैश्वर्याशीषु ॥ याचमानस्य कीरेः ॥ करोतेः कीर्तयतेर्वा॥ स्तोतुब्रह्मणो
+> ब्राह्मणस्य च धनानां प्रेरयिता । यश्च सुशिप्रः शोभनहनुः सुशीर्षको वा सन्
+> युक्तग्राव्णोऽभिषवार्थमुद्यतग्राव्णः सुतसोमस्याभिषुतसोमस्य यजमानस्या-
+> विता रक्षिता भवति स एवेंद्रो नाहमिति । ब्रह्मशब्दस्य त्वन्न परत्वे ह्याद्युदात्तता स्यात्
+> यथा ब्रह्मवन्वानो अजरं सुवीरं । ३-८-२ । इति । आयं त्वंतोदात्तः पद्यत इति
+> नान्नपरः ॥
+
+> *yo radhrasya ‖ radhahiṃsāsaṃrādyoḥ ‖ samṛddhasya coditā dhanānāṃ prerayitā*
+> *bhavati | yaśca kṛśasya ca daridrasya ca yaśca nādhamānasya ‖ nādhya ṇādhya yājyopatā-*
+> *paiśvaryāśīṣu ‖ yācamānasya kīreḥ ‖ karoteḥ kīrtayatervā‖ stotubrahmaṇo*
+> *brāhmaṇasya ca dhanānāṃ prerayitā | yaśca suśipraḥ śobhanahanuḥ suśīrṣako vā san*
+> *yuktagrāvṇo 'bhiṣavārthamudyatagrāvṇaḥ sutasomasyābhiṣutasomasya yajamānasyā-*
+> *vitā rakṣitā bhavati sa eveṃdro nāhamiti | brahmaśabdasya tvanna paratve hyādyudāttatā syāt*
+> *yathā brahmavanvāno ajaraṃ suvīraṃ | 3-8-2 | iti | āyaṃ tvaṃtodāttaḥ padyata iti*
+> *nānnaparaḥ ‖*
+
+*Gist:* Indra is the one who sends wealth to the prosperous, the poor, the suppliant and the praising priest, and protects the sacrificer who has pressed Soma; he alone is Indra. A remark on the accent of the word ब्रह्म (*brahma*) follows.
+
+### Printed p. 662
+
+*Running head: [662 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यः (*yaḥ*) — who. रध्रस्य (*radhrasya*) — to the rich man. चोदिता (*coditā*) — provides (wealth). यः (*yaḥ*) — who. कृशस्य (*kṛśasya*) — to the poor man (provides). यः (*yaḥ*) — who. नाधमानस्य (*nādhamānasya*) — to the one who begs. कीरेः (*kīreḥ*) — to the praising. ब्रह्मणः (*brahmaṇaḥ*) — to the priest (provides wealth). यः (*yaḥ*) — who. सुशिप्रः (*suśipraḥ*) — having excellent cheeks. युक्तग्राव्णः (*yuktagrāvṇaḥ*) — holding in the hand the stone for pressing Soma juice. सुतसोमस्य (*sutasomasya*) — of the sacrificer who has pressed the Soma juice. अविता (*avitā*) — is the protector. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who provides wealth alike to the rich, to the poor, to the one who begs of him and to the praising priest; he who, having excellent cheeks, is the protector of the sacrificer who holds in his hand the stone for pressing the juice and has pressed the Soma juice: he is Indra.
+
+**Printed English translation**
+
+He, who is the encourager of the rich, and of the poor, and of the priest, who recites his praise, and is a suppliant; who, of goodly features, is the protector of him, who, with ready stones, expresses the Soma juice; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यो रध्रस्य चोदिता (*yo radhrasya coditā*) — रथ हिंसासंराद्ध्योः । समृद्धस्य चोदिता । (*ratha hiṃsāsaṃrāddhyoḥ | samṛddhasya coditā |*) Since the root रथ (*ratha*), as printed in the Kannada) is used in the two senses of injuring and prospering, the commentator takes the sense "prospering" here and explains the word रध्रस्य (*radhrasya*) as "of a man who is prosperous with wealth and the like". Therefore रध्रस्य चोदिता (*radhrasya coditā*) here means one who impels wealth and other goods to a man who already has wealth and is well off, that is, one who gives wealth and the like.
+
+यः कृशस्य यः ब्रह्मणः नाधमानस्य कीरेः ब्रह्मणः (*yaḥ kṛśasya yaḥ brahmaṇaḥ nādhamānasya kīreḥ brahmaṇaḥ*) — It is not that, as said above, Indra helps only the wealthy with wealth and the like and neglects the rest; this sentence says that he looks on all alike. Accordingly: कृशस्य (*kṛśasya*) — to the poor man who has no proper food and the like or who is not nourished for want of means; नाधमानस्य (*nādhamānasya*) — to one who makes a request, that is, to the helpless man who lives by begging; कीरेः ब्रह्मणः (*kīreḥ brahmaṇaḥ*) — to the Brāhmaṇa who recites praise, or to the priest called Brahman. To all these Indra gives wealth and the like impartially and equally, is the sense. (Page 662 ends here, the sentence running on to the next page.)
+
+### Printed p. 663
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 8.] Ṛgvedasaṃhitā, p. 663.*
+
+(Continuation of the sentence of p. 662.) Yāska explains the word नाधमानाः (*nādhamānāḥ*) as याचमानाः (*yācamānāḥ*) ("those who ask") (Ni. 4-2), and has listed the word कीरि (*kīri*) among the names of the praiser (Ni. 3-19).
+
+युक्तग्राव्यो योऽविता सुशिप्रः सुतसोमस्य (*yuktagrāvyo yo 'vitā suśipraḥ sutasomasya*) — यश्च सुशिप्रः शोभनहनुः सुशीर्षको वा सन् युक्तग्राव्योऽभिषवार्थमुद्यतग्राव्णः सुतसोमस्याभिषुतसोमस्य यजमानस्याविता रक्षिता भवति (*yaśca suśipraḥ śobhanahanuḥ suśīrṣako vā san yuktagrāvyo 'bhiṣavārthamudyatagrāvṇaḥ sutasomasyābhiṣutasomasya yajamānasyāvitā rakṣitā bhavati*) — Here ग्राव्णः (*grāvṇaḥ*) is the genitive singular of the word ग्रावन् (*grāvan*). Yāska explains the word ग्रावाणः (*grāvāṇaḥ*) as ग्रावाणो हंतेर्वा गृह्णातेर्वा (*grāvāṇo haṃtervā gṛhṇātervā*) (Ni. 9-8). That is: this (the stone) is taken in the hand (गृह्णातेर्वा (*gṛhṇātervā*)) for striking, that is, crushing, the Soma plant, and so it is called ग्रावाणः (*grāvāṇaḥ*). Or, from गृणातेर्वा (*gṛṇātervā*), सूयंतेर्वा (*sūyaṃtervā*) [as printed], because it is praised it is called ग्रावाणः (*grāvāṇaḥ*); such is the explanation of the meaning. Here युक्तग्राव्णः (*yuktagrāvṇaḥ*) means: standing ready, holding the stones called ग्रावाणः (*grāvāṇaḥ*) needed for the work, in order to crush the Soma plants and press out the juice.
+
+सुशिप्रः (*suśipraḥ*) — one with excellent cheeks, or one with a (fine) head, that is, Indra of beautiful form.
+
+सुतसोमस्य (*sutasomasya*) — of the sacrificer who waits, having pressed the Soma juice and kept it ready to offer to Indra.
+
+The sense of the sentence: Indra protects the sacrificer who, holding in his hands the stones for crushing the Soma plants, the means of preparing the Soma juice, waits with the pressed Soma juice kept ready to offer to Indra.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> यस्याश्वा॑सः प्र॒दिशि॒ यस्य॒ गावो॒ यस्य॒ ग्रामा॒ यस्य॒ विश्वे॒ रथा॑सः ।
+> यः सूर्यं॒ य उ॒षसं॑ ज॒जान॒ यो अ॒पां ने॒ता स ज॑नास॒॑
+> इंद्रः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> यस्य । अश्वासः । प्रदिशि । यस्य । गावः । यस्य । ग्रामाः । यस्य । विश्वे । रथासः ।
+> यः । सूर्यं । यः । उषसं । जजान । यः । अपां नेता । सः। जनासः। इंद्रः॥७॥
+
+> *yasya | aśvāsaḥ | pradiśi | yasya | gāvaḥ | yasya | grāmāḥ | yasya | viśve | rathāsaḥ |*
+> *yaḥ | sūryaṃ | yaḥ | uṣasaṃ | jajāna | yaḥ | apāṃ netā | saḥ| janāsaḥ| iṃdraḥ‖7‖*
+
 ---
 
-**Progress note:** Done through printed p. 660 (PDF 660). Sukta 12 Rik 4 Special Topics end; Rik 5 complete; Special Topics begun (Nema, Tai. Brahmana quotation)
+**Progress note:** Done through printed p. 663 (PDF 663). Sukta 12 Rik 5 Special Topics end; Rik 6 complete; Rik 7 Samhita and Pada
