@@ -7141,6 +7141,95 @@ In such Ṛks it is said that the juice obtained by soaking the Soma plant in wa
 
 The method of crushing the Soma plant and preparing the Soma juice is nowhere described at length in the Ṛgveda. It can be inferred from some sentences stated here and there. The stones for crushing the Soma plants have the names ग्रावा (*grāvā*) and अद्रि (*adri*). In some cases wooden boards known as अधिषवण (*adhiṣavaṇa*) are also used. If the plant is fresh, much juice comes; if not, that is, if some days have passed since it was cut and brought, they soak it in water and afterwards place it on the hide. Then they crush it with stones and take out the juice. Since the juice so obtained is mixed with husks, bits and the like of the plant, they strain it either through the gaps between the fingers, or through the sieve or cloth called पवित्र (*pavitra*), or through sheep's wool. The juice strained in this way is clear, without impurities. It has the names शुक्र (*śukra*) and शुचि (*śuci*). In appearance this juice is dull red or red mixed with yellow. It is customary to offer to Indra and Vāyu pure Soma juice, that is, without any admixture of आशिर (*āśira*) substances. For other deities milk, curds and grain flour are mixed in and used. The Soma juice mixed with these has the names गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*) respectively.
 
+### Printed p. 745
+
+*Running head: A. 2, A. 6, V. 14; Ṛgvedasaṃhitā; p. 745.*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवः॒ कर्त॑ना श्रु॒ष्टिम॑स्मै॒ वने॒ निपू॑तं॒ वन॒ उन्न॑यध्वं।
+> जु॒षा॒णो हस्य॑म॒भि वा॑वशे व॒ इंद्रा॑य॒ सोमं॑ मदि॒रं जु॑होत ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । कर्तन । श्रुष्टिं । अस्मै । वने । निपूतं । वने । उत् । नयध्वं ।
+> जुषाणः । हस्यं । अभि । वावशे । वः । इंद्राय । सोमं । मदिरं । जुहोत ॥९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवः अस्मा इंद्राय सोमं श्रुष्टिं सुखकरं कर्तन । कुरुत ॥
+> करोतेर्लोटि बहुलं छंदसीति विकरणस्य लुक् । तप्तनप्तनथनाश्चति तनबादेशः ।
+> आमंत्रितस्याविद्यमानत्वान्न निघातः ॥ किंच वने संभजनीये वन उदके निपूतमा-
+> प्यायनेन शोधितं सोममुन्नयध्वं । ऊर्ध्वं नयत । यद्वा वने तद्विकारे
+> चमसे निपूतं दशापवित्रेण शोधितं सोमं वने चमस उन्नयध्वं । जुषाणः
+> प्रीयमाणः स इंद्रो वो युष्माकं हस्तं हस्ताभ्यामभिषुतं सोममभिवावशे
+> कामयते ॥ वश कांतौ । यज्-लुगंतस्य लटि व्यत्ययेनात्मनेपदं । लोपस्त
+> आत्मनेपदेष्टिति तलोपः ॥ मदिरं मदकरमिमं सोममिंद्राय जुहोत ।
+> इंद्रोद्देशेनागौ प्रक्षिपत ॥
+
+*Gist:* Adhvaryus, prepare the Soma for Indra, lift the purified Soma up in the ladle, and offer it in the fire, for Indra desires it.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. अस्मै (*asmai*)—for this Indra (for Indra's sake). श्रुष्टिं (*śruṣṭiṃ*)—the pleasant (agreeable) Soma. कर्तन (*kartana*)—prepare. वने (*vane*)—pounded after being soaked in water. निपूतं (*nipūtaṃ*)—the purified Soma. वने (*vane*)—in the ladle vessel. उन्नयध्वं (*unnayadhvaṃ*)—lift up and set down for the offering. जुषाणः (*juṣāṇaḥ*)—Indra, gladdened. वः (*vaḥ*)—your. हस्त्यं (*hastyaṃ*)—the Soma pressed out by the hands. अभि वावशे (*abhi vāvaśe*)—desires. मदिरं (*madiraṃ*)—exhilarating. सोमं (*somaṃ*)—Soma. इंद्राय (*iṃdrāya*)—for Indra. जुहोत (*juhota*)—offer (in the fire).
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, prepare the pleasant Soma for this Indra, and lift up in the ladle vessel the Soma purified together with the water, for the offering. Indra, gladdened, desires the Soma pressed out by your hand-
+
+### Printed p. 746
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 1, 4 [as printed]; p. 746.*
+
+s; offer the exhilarating Soma to Indra in the fire.
+
+**Printed English translation**
+
+Priests, offer to him the prompt(libation); lift it up, purified with water, in the ladle: well pleased, he desires it from your hand; present the exhilarating Soma juice to Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अध्वर्यवः कर्तन श्रुष्टिं अस्मै (*adhvaryavaḥ kartana śruṣṭiṃ asmai*)—O Adhvaryus, prepare for this Indra the pleasant Soma juice. Here the commentator has explained the word श्रुष्टिं (*śruṣṭiṃ*) as सुखकॆरं (*sukhakèraṃ*) [sic, as supplied; the bhāṣya reads सुखकरं (*sukhakaraṃ*)]. Yāska has given the word श्रुष्टिं (*śruṣṭiṃ*) the sense "quickly" (Ni. 6-13 [sic: no closing parenthesis in the source]).
+
+वने निपूतं वन उत् नयध्वं (*vane nipūtaṃ vana ut nayadhvaṃ*)—वने संभजनीये वन उदके निपूतमाप्यायनेन शोधितं सोममुन्नयध्वं । ऊर्ध्वं नयत । यद्वा वने तद्विकारे चमसे निपूतं दशापवित्रेण शोधितं सोमं वने चमस उन्नयध्वं । (*vane saṃbhajanīye vana udake nipūtamāpyāyanena śodhitaṃ somamunnayadhvaṃ | ūrdhvaṃ nayata | yadvā vane tadvikāre camase nipūtaṃ daśāpavitreṇa śodhitaṃ somaṃ vane camasa unnayadhvaṃ |*) Here the word वने (*vane*) is read twice. Since the word वनं (*vanaṃ*) is read among the names of water (2-24), वने (*vane*) means "in water". Also, the large wooden vessel in which the prepared Soma juice is collected and kept is called वन (*vana*); or the ladle vessel (चमस (*camasa*)) made of wood (of the udumbara tree) is also called वन (*vana*). Therefore, if in this sentence the first वने (*vane*) is taken as "water" and the second वने (*vane*) as the ladle vessel made of wood, the chief sense of the sentence is suggested: take to the Uttaravedi, in order to offer it to Indra, the Soma juice that was soaked in water, cleansed, then pounded, pressed, strained and put into the wooden vessel called चमस (*camasa*).
+
+जुषाणः हस्तं अभि वावशे वः (*juṣāṇaḥ hastaṃ abhi vāvaśe vaḥ*)—जुषाणः प्रीयमाणः स इंद्रो वो युष्माकं हस्तं हस्ताभ्यामभिषुतं सोममभिवावशे कामयते । (*juṣāṇaḥ prīyamāṇaḥ sa iṃdro vo yuṣmākaṃ hastaṃ hastābhyāmabhiṣutaṃ somamabhivāvaśe kāmayate |*) Here हस्तं (*hastaṃ*) means the Soma juice prepared by pounding the Soma plants with the hands, pressing and straining them. O Adhvaryus, Indra, being pleased, desires the Soma juice prepared and strained by your hands. Therefore the chief sense is: make an oblation in the fire to Indra of the exhilarating Soma juice.
+
+### Printed p. 747
+
+*Running head: A. 2, A. 6, V. 14; Ṛgvedasaṃhitā; p. 747.*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवः॒ पय॒सोध॒र्यथा॒ गोः सोमे॑भिरीं पृणता भो॒जमिंद्रं॑ ।
+> वेदा॒हम॑स्य॒ निभृ॑तं म ए॒तद्दित्सं॑तं॒ भूयो॑ यज॒तश्चि॑केत ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । पयसा । ऊधः । यथा । गोः । सोमेभिः । ईं । पृणत । भोजं ।
+> इंद्रं ।
+> वेद । अहं । अस्य । निभृतं । मे । एतत् । दित्संतं । भूयः । यजतः । चिकेत ॥१०॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवः यथा गोरूधः पयसा पूर्णं तद्वदीमेनं भोजं
+> फलस्य दातारं रक्षितारं चेंद्रं सोमेभिः सोमृः पृणुत । पूरयत । मे मदी-
+> यस्य सोमस्य निभृतं गूढं सुखसाधनस्वभावमहमेव वेद । जानामि । इति पूर्वं
+> न परस्मै कथितं । तथापि युष्मभ्यं ब्रवीमीत्येवं । दित्संतं सोमं दातुमिच्छंतं
+> यजमानं यजतो यष्टव्य इंद्रो भूयोऽतिशयेन चिकेत ॥ दित्संतं । डुदाञ्
+> दाने । इच्छायां सन् । सनि मीमाघ्वित्याकारस्य इसादेशः । अत्र लोपोऽभ्यासस्ये-
+> त्यभ्यासलोपः । सः स्यार्धधातुक इति सकारस्य तत्वं ॥
+
+*Gist:* Fill Indra with Soma as a cow's udder is full of milk; I alone know the hidden nature of this Soma, and Indra knows the sacrificer who wishes to give.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वरवः (*adhvaravaḥ*) [sic: as supplied; the Saṃhitā and Pada read अध्वर्यवः (*adhvaryavaḥ*)]—O Adhvaryus. यथा (*yathā*)—in what manner. गोः (*goḥ*)—of the cow. ऊधः (*ūdhaḥ*)—the udder. पयसा (*payasā*)—is full of milk, like that. भोजं (*bhojaṃ*)—the giver of fruit and the protector. ईं इंद्रं (*īṃ iṃdraṃ*)—this Indra. सोमेभिः (*somebhiḥ*)—with Soma juices. पृणत (*pṛṇata*)—fill. मे (*me*)—dear to me. अस्य (*asya*)—of this Soma. एतत् निभृतं (*etat nibhṛtaṃ*)—this hidden nature of its pleasantness. अहं (*ahaṃ*)—I (alone). वेद (*veda*)—know (saying so). यजतः (*yajataḥ*)—Indra, worthy of sacrifice. दित्संतं (*ditsaṃtaṃ*)—the sacrificer who offers the Soma. भूयः (*bhūyaḥ*)—exceedingly. चिकेत (*ciketa*)—knows (praises).
+
 ---
 
-**Progress note:** Done through printed p. 744 (PDF 744). Rk 8 of Sukta 14 (Samhita/Pada from figure), Special Topics on Soma pressing
+**Progress note:** Done through printed p. 747 (PDF 747). Rk 9 and 10 of Sukta 14; Special Topics on vana, hastya
