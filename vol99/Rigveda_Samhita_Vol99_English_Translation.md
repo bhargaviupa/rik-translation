@@ -2157,6 +2157,74 @@ Yāska has stated the various vehicles of the deities: the two horses called *ha
 
 The Adhvaryus caused to be produced the Agni who, lying asleep in the araṇi that lies face upward, was urged on for the Agnihotra. That same Agni, in the plants of many forms (text breaks off at the end of this page)
 
+### Printed p. 568
+
+is in the interior, in the form of an embryo. At night, not enveloped by darkness, he continues to shine, endowed with his great radiance and with the knowledge in question.
+
+**Printed English translation**
+
+They have generated(Agni) when soundly sleeping on his upturned (couch): that Agni who is an embryo in many(vegetable) forms, and who, (rendered manifest) by the oblation, abides conscious in the night, unenveloped by darkness.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उत्तानायां अजनयन् सुसूतं (*uttānāyāṃ ajanayan susūtaṃ*)—*Uttānā* means the lower one of the araṇis (fire-sticks) used for churning out Agni. It is made of the śamī tree. It is broad like a plank, with a slight hollow in the middle. The upper araṇi is made of the wood of the aśvattha tree and is shaped like a stick; it is placed on the lower araṇi of śamī wood and churned, with the help of a rope, as curds are churned. The mouth (or face) of the lower araṇi is always turned upward. Therefore Sāyaṇa explains the word उत्तानायां (*uttānāyāṃ*) here as "in the lower araṇi of śamī wood, which faces upward, of the two araṇis". सुसूतं (*susūtaṃ*) means सुष्टु प्रेरितं (*suṣṭu preritaṃ*), "well urged": that is, the Agni that lay in a state of sleep (slumber) in the araṇis was urged on (awakened) and brought into being by the Adhvaryu and the other priests; this is the chief sense. The Brāhmaṇa sentence शमीगर्भादग्निं मंथति । एषा वा अग्नेर्यज्ञिया तनूः (*śamīgarbhādagniṃ maṃthati | eṣā vā agneryajñiyā tanūḥ*) (Tai. Brā. 1-1-9-1) supports this same sense.
+
+भुवत् अग्निः पुरुषेशासु गर्भः (*bhuvat agniḥ puruṣeśāsu garbhaḥ*)—पेश इति रूपनाम । बहुरूपास्वोषधीषु गर्भो भुवत् । अंतर्वर्तमानतया गर्भ इव भवेत् (*peśa iti rūpanāma | bahurūpāsvoṣadhīṣu garbho bhuvat | aṃtarvartamānatayā garbha iva bhavet*). The word *peśa* is listed among the names of gold (Ni. 2-10) and among the names of form (Ni. 3-13), and there is also an etymology: पेश इति रूपनाम पिंशतेर्विपिशितं भवति (*peśa iti rūpanāma piṃśatervipiśitaṃ bhavati*) (Ni. 8-12). The word *peśa* is derived from the root *piṃś*, which gives the sense of "unfolded, developed", and has the meaning "form". In the present Ṛk, although पुरुषेशासु (*puruṣeśāsu*) would by the sense of its parts mean "in many forms", the commentator here says "in plants of many forms". Since Agni burns plants, trees and the like, it is customary to say that Agni lies hidden in their womb, that is, in their interior (inside). Or, since Agni is produced from the araṇis, which are modifications of trees, one may also explain that Agni dwells in the womb of trees and the like.
+
+### Printed p. 569
+
+शिरिणायां चित् आक्तुना अपरीवृतः (*śiriṇāyāṃ cit āktunā aparīvṛtaḥ*)—The word शिरिणा (*śiriṇā*) is listed among the names of night (Ni. 2-18). This word is derived from the root शीज् स्वप्ने (*śīj svapne*) and is explained as शीर्यंतेऽस्यां भूतानीति शिरिणा रात्रिः (*śīryaṃte 'syāṃ bhūtānīti śiriṇā rātriḥ*) or शाययति प्राणिनः इति शिरिणा (*śāyayati prāṇinaḥ iti śiriṇā*): because living beings sleep at this time, *śiriṇā* means night. Besides this, the word अक्तुः (*aktuḥ*) is also listed among the names of night (Ni. 2-18). This word *aktu* is derived from the root अंजू व्यक्तिम्रक्षणकांतिगतिषु (*aṃjū vyaktimrakṣaṇakāṃtigatiṣu*) and is explained as अज्यते सिच्यतेऽस्यामवश्यायेन जगत् (*ajyate sicyate 'syāmavaśyāyena jagat*): since the whole world is covered by this (darkness), night is called *aktu*. Or, taking the sense of motion, गच्छति वा प्रतिदिनं अक्तुः (*gacchati vā pratidinaṃ aktuḥ*): because it arrives every day, night is called *aktu*. Since in this Ṛk both words शिरिणायां (*śiriṇāyāṃ*) and अक्तुना (*aktunā*) denote night, the commentator explains शिरिणायां (*śiriṇāyāṃ*) as "in the night" and अक्तुना (*aktunā*) as "by darkness or gloom". The sense is: Agni, who is not enveloped, that is, not touched, by the deep darkness of such a night. Since Agni is always shining, he has no contact with the darkness that exists in the night. The chief sense is that such an Agni, endowed with excellent knowledge, shines at night by his own radiance.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> जिघ॑र्म्य॒ग्निं ह॒विषा॑ घृ॒तेन॑ प्रतिक्षि॒यंतं॒ भुव॑नानि॒ विश्वा॑ ।
+> पृ॒थुं ति॑र॒श्चा वय॑सा बृ॒हंतं॒ व्यचि॑ष्ठ॒मन्नै॑ रभ॒सं दृशा॑नं ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> जिघर्मि । अग्निं । हविषा । घृतेन । प्रतिक्षियंतं । भुवनानि । विश्वा ।
+> पृथुं । तिरश्चा । वयसा । बृहंतं । व्यचिष्ठं । अन्नैः । रभसं । दृश्यानं ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> विश्वा सर्वाणि भुवनानि प्रतिक्षियंतं वैश्वानरात्मनाधितिष्ठंतं पृथुं महांतं
+> तिरश्चा सर्वतः प्रवर्तमानेन वयसा पेशसा बृहंतं प्रवृद्धमन्नैर्हविलक्षणैर्व्य-
+> चिष्ठं व्याप्तं रभसं बलवंतं दृशानमेवंगुणवत्तया दृश्यमानमुग्निं पुरो-
+
+> *viśvā sarvāṇi bhuvanāni pratikṣiyaṃtaṃ vaiśvānarātmanādhitiṣṭhaṃtaṃ pṛthuṃ mahāṃtaṃ*
+> *tiraścā sarvataḥ pravartamānena vayasā peśasā bṛhaṃtaṃ pravṛddhamannairhavilakṣaṇairvya-*
+> *ciṣṭhaṃ vyāptaṃ rabhasaṃ balavaṃtaṃ dṛśānamevaṃguṇavattayā dṛśyamānamugniṃ puro-*
+
+### Printed p. 570
+
+> डाशादिलक्षणेन हविषा धृतेन च जिघर्मि ॥ प्रति हैष सर्वाणि भूतानि क्षेति पृथुं
+> तिरश्चा वयसा धूमेन बृहंतं व्यचिष्ठमन्नॆ रभसं दृशानमित्यवकाशनवंतमन्नॆर-
+> न्नादं दीप्यमानमित्येतदा विश्वत इत्या सर्वतः प्रत्यंचं जुहोमीत्येतदरक्षसेत्य-
+> हेळमानेन मनसेदं जुषेतेत्येतन्मर्यश्रीरिति मर्यश्रीरित्येष स्पृहयद्वर्णो
+> अग्निर्नाभिमृश इति न हैष मृशेत दीप्यमानो भवतीति ॥
+
+*Gist:* Sāyaṇa: I make Agni blaze with oblation and ghee; he abides in all worlds as Vaiśvānara, vast, nourished by foods, powerful. A Brāhmaṇa passage then explains each word.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विश्वा (*viśvā*)—all. भुवनानि (*bhuvanāni*)—worlds. प्रतिक्षियंतं (*pratikṣiyaṃtaṃ*)—who pervades in the form of Vaiśvānara. पृथुं (*pṛthuṃ*)—who has greatness. तिरश्चा (*tiraścā*)—moving everywhere. वयसा (*vayasā*)—by form. बृहंतं (*bṛhaṃtaṃ*)—who has grown great. अन्नैः (*annaiḥ*)—by foods in the form of oblations. व्यचिष्ठं (*vyaciṣṭhaṃ*)—who is pervaded. रभसं (*rabhasaṃ*)—who is powerful. दृशानं (*dṛśānaṃ*)—who is seen with all such qualities. अग्निं (*agniṃ*)—Agni. हविसा (*havisā*) (as supplied; the Pada reads हविषा (*haviṣā*))—with the oblation. धृतेन (*dhṛtena*) (as supplied; the Saṃhitā reads घृतेन (*ghṛtena*))—with ghee. जिघर्मि (*jigharmi*)—I cause to shine.
+
+**भावार्थ (Bhāvārtha)**
+
+I offer oblation and ghee to Agni, who pervades all the worlds in the form of Vaiśvānara, has greatness, has grown great in a form moving everywhere, is pervaded by the food that is the oblation, and is powerful.
+
+**Printed English translation**
+
+I offer oblations with butter to Agni, who spreads through all regions, vast, expanding, with all-comprehending form, nourished(with sacrificial) food, powerful, conspicuous.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+प्रतिक्षियंतं भुवनानि विश्वा (*pratikṣiyaṃtaṃ bhuvanāni viśvā*)—प्रति ह्येष सर्वाणि भूतानि क्षेति (*prati hyeṣa sarvāṇi bhūtāni kṣeti*). This Agni dwells in all living beings in the form of Vaiśvānara. That is, as Vaiśvānara fire he dwells in herbs, forest trees, creepers, trees and the like; as the digestive fire (*jāṭharāgni*) in the classes of beings such as men; as terrestrial fire in the earth; as the fire of lightning (flash) in the atmosphere; and as the sun in heaven. Therefore it is said that he dwells in all worlds, भुवनानि विश्वा (*bhuvanāni viśvā*), and in all living beings.
+
+पृथुं तिरश्चा वयसा बृहंतं (*pṛthuṃ tiraścā vayasā bṛhaṃtaṃ*)—महांतं सर्वतः प्रवर्तमानेन पेशसा प्रवृद्धं (*mahāṃtaṃ sarvataḥ pravartamānena peśasā pravṛddhaṃ*). Because Agni spreads and extends in all places (in forms such as the forest fire), he is here described as having a very extensive and great form.
+
 ---
 
-**Progress note:** Done through printed p. 567 (PDF 567). Rik 2 Pada to Bhavartha with printed English and Special Topics; Rik 3 Samhita/Pada from figure fig_line1389, through Bhavartha start
+**Progress note:** Done through printed p. 570 (PDF 570). Sukta 10 Rik 3 Bhavartha end, Special Topics; Rik 4 Samhita/Pada/bhashya, Pratipadartha, Bhavartha, printed English, Special Topics begun
