@@ -2912,6 +2912,111 @@ Indra, hero, you have slain by your prowess the glorified Ahi, hidden privily in
 
 अविंदद्दिवो निहितं गुहा निधिं वेर्न गर्भं परिवीतमश्मनंते अंतरत्मनि । (*aviṃdaddivo nihitaṃ guhā nidhiṃ verna garbhaṃ parivītamaśmanaṃte aṃtaratmani |*) (Ṛ. Saṃ. 1-130-3)
 
+### Printed p. 595
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 4, p. 595.*
+
+तिस्रो मही रुपरास्तस्थुरत्यागुहा द्वे निहिते दर्शेका । (*tisro mahī ruparāstasthuratyāguhā dve nihite darśekā |*) (Ṛ. Saṃ. 3-56-2)
+
+In many such Ṛks (like this) the same meaning is set out.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> स्तवा॒ नु त॑ इंद्र पू॒र्व्या म॒हान्यु॒त स्त॑वाम॒ नूत॑ना कृ॒तानि॑।
+> स्तवा॒ वज्रं॑ बा॒ह्वोरु॒शंतं॒ स्तवा॒ हरी॒ सूर्य॑स्य के॒तू ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> स्तव । नु । ते । इंद्र । पूर्वा । महानि । उत । स्तवाम । नूतना । कृतानि ।
+> स्तव । वज्रं । बाह्वोः । उशंतं । स्तव । हरी इति । सूर्यस्य । केतू इति ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र पूर्वा पुरातनानि महानि महांति ते तव कर्माणि नु क्षिप्रं स्तव ।
+> स्तवाम । उत अपि च नूतनाधुनातनानि कृतानि कर्माणि स्तवाम । बाह्वोरुशंतं
+> दीप मानं वज्रं स्तव । स्तवाम । किंच सूर्यस्य सुष्टु प्रेरकस्य सुवीर्यस्य वा
+> सूर्यात्मनो वेंद्रस्य केतू प्रज्ञापकौ हरी एतन्नामकावश्च स्तव । स्तवाम॥ ष्टुञ्
+> स्तुता । तिजां तिजो भवंतीत्युत्तमबहुवचनस्य मध्यमैकवचनादेशः । बहुलं
+> छंदसीति शपो लुगभावः ॥
+
+*Gist:* Indra, we praise your ancient and recent deeds, your shining thunderbolt, and your two horses, the signs of the sun-like Indra.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra. पूर्व्यं (*pūrvyaṃ*)—ancient, and महांति (*mahāṃti*)—endowed with great qualities: ते (*te*)—your deeds. नु (*nu*)—quickly. स्तव (*stava*)—we praise. उत (*uta*)—and. नूतन (*nūtana*)—new. कृतानि (*kṛtāni*)—deeds also. स्तवाम (*stavāma*)—we shall praise. बाह्वोः (*bāhvoḥ*)—between your arms. उशंतं (*uśaṃtaṃ*)—shining. वज्रं (*vajraṃ*)—the thunderbolt also. स्तव (*stava*)—we shall praise. सूर्यस्य (*sūryasya*)—of Indra (you), who is endowed with valour or is the impeller. केतू (*ketū*)—by the signs. हरी (*harī*)—the horses named Hari also. स्तव (*stava*)—we shall praise.
+
+### Printed p. 596
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 11, p. 596.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, your ancient deeds, which are endowed with great qualities, and your new deeds we shall praise. The thunderbolt shining between your arms, and your horses, named Hari, which are the signs of you who are endowed with valour, we shall praise.
+
+**Printed English translation**
+
+We glorify, Indra, your mighty(deeds) of old: we glorify your(more) recent exploits: we praise the thunderbolt shining in your arms, and we celebrate the horses, the signs of(Indra as) the sun.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सूर्यस्य (*sūryasya*)—In this Ṛk too, the commentator explains this word, as "one who impels well", that is, one who impels excellently, or as "of the nature of the sun", as an epithet of Indra.
+
+केतू (*ketū*)—The word केतु (*ketu*) is read among the names for knowledge (Ni. 3-13).
+
+हरी (*harī*)—हरी (*harī*) is the name of the two horses of Indra. Although the word हरि (*hari*) is used in the sense of horse with reference to other deities, the dual form हरी (*harī*) is always used of the horses of Indra's chariot. Yāska explains the vehicles of various deities: हरी इंद्रस्य । रोहितोSग्नेः । (*harī iṃdrasya | rohitoSgneḥ |*) and so on (Ni. 2-28).
+
+In this Ṛk the sage says that he describes the heroic deeds which Indra performed in the past and those he now performs anew.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> हरी॒ नु त॑ इंद्र वा॒जयं॑ता घृत॒श्चुतं॑ स्वा॒रम॑स्वाष्टां ।
+> वि स॑म॒ना भूमि॑रप्रथि॒ष्टारं॑स्त॒ पर्व॑तश्चित्सरि॒ष्यन् ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> हरी इति । नु । ते । इंद्र । वाजयंता । घृतश्चुतं । स्वारं । अस्वाष्वा० ।
+> वि । समना । भूमिः । अप्रथिष्ट । अरंस्त । पर्वतः । चित् । सरिष्यन् ॥ ७ ॥
+
+> *harī iti | nu | te | iṃdra | vājayaṃtā | ghṛtaścutaṃ | svāraṃ | asvāṣvā0 |*
+> *vi | samanā | bhūmiḥ | aprathiṣṭa | araṃsta | parvataḥ | cit | sariṣyan ‖ 7 ‖*
+
+### Printed p. 597
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 4, p. 597.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र वाजयंता वेगं कुर्वंतौ॥ तत्करोतीति णिच्॥ ते तव हरी एतन्ना-
+> मकावश्त्वा धृतश्चुतं धृतस्योदकस्य च्यावयितारं स्वारं मेघध्वनिं नु क्षिप्रमस्वा-
+> र्ष्टां ॥ स्वरतिः शब्दकर्मा । पाकं पचतीतिवदेकधातोरनुवादः। लजि रूपं॥ समना
+> समस्थला यद्वा समना सर्वतो व्यप्रतिष्ठ । गर्जनं श्रुत्वा मनोपरि वृष्टिर्भवतीति
+> प्रथिताभूत् । तथा पर्वतश्चित् मेघोऽपि सरिष्यन् वर्षणार्थमितस्ततो गमिष्यन्
+> अरंस्त । अरमत ॥ रमतेर्लुजि रूपं ॥
+
+*Gist:* Your swift horses roared like the rain-cloud; the earth awaited the rain and the cloud moved about, to rain.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra. वाजयंता (*vājayaṃtā*)—swift-going. ते (*te*)—your. हरी (*harī*)—horses named Hari. धृतश्चुतं (*dhṛtaścutaṃ*)—that pours down water. स्वारं (*svāraṃ*)—the sound of the cloud. नु (*nu*)—quickly. अस्वार्ष्टां (*asvārṣṭāṃ*)—resounded. समना (*samanā*)—the earth with level ground [or]. भूमिः (*bhūmiḥ*)—the earth, everywhere. वि अप्रथिष्ट (*vi aprathiṣṭa*)—looked for rain. पर्वतश्चित् (*parvataścit*)—the cloud also. सरिष्यन् (*sariṣyan*)—moving about for the sake of raining. अरंस्त (*araṃsta*)—roamed.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, your swift horses, named Hari, quickly resounded with the sound of the cloud that pours down water. Then the earth looked for rain everywhere. The cloud also moved about and roamed for the sake of raining.
+
+**Printed English translation**
+
+Your swift horses, Indra, have uttered a loud sound, announcing rain: the level earth anxiously expects its fall, as the gathering cloud has passed.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+धृतश्चुतं (*dhṛtaścutaṃ*)—The word धृत (*dhṛta*) has various meanings. अथापि नैगमेभ्यो भाषिका उष्णं धृतमिति (*athāpi naigamebhyo bhāṣikā uṣṇaṃ dhṛtamiti*) (Ni. 2-2). Yāska's explanation is that in the Veda the word धृत (*dhṛta*) generally has the meaning "hot", of a burning nature. Further, since the word धृत (*dhṛta*) is read among the hundred and one names of water beginning with अणः (*aṇaḥ*) and क्षोद (*kṣoda*), the use of धृत (*dhṛta*) in the sense of water also (Ni. 2-24) is frequent in the Ṛgveda:
+
+कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतंति । त आ ववृत्रन्तदनादृतस्यादिद्भृतेन पृथिवी व्युद्यते ॥ (*kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divamutpataṃti | ta ā vavṛtrantadanādṛtasyādidbhṛtena pṛthivī vyudyate ‖*) (Ma. Saṃ. 1-164-87) [sic, "Ma." as supplied]
+
 ---
 
-**Progress note:** Done through printed p. 594 (PDF 594). Maṇḍala 2 Sūkta 11 Ṛks 4-5; figures read for Saṃhitā 4, 5 and Pada 5
+**Progress note:** Done through printed p. 597 (PDF 597). Maṇḍala 2 Sūkta 11 Ṛks 6-7; Special Topics continued
