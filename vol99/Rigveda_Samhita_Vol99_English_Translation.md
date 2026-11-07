@@ -7230,6 +7230,80 @@ Priests, offer to him the prompt(libation); lift it up, purified with water, in 
 
 अध्वरवः (*adhvaravaḥ*) [sic: as supplied; the Saṃhitā and Pada read अध्वर्यवः (*adhvaryavaḥ*)]—O Adhvaryus. यथा (*yathā*)—in what manner. गोः (*goḥ*)—of the cow. ऊधः (*ūdhaḥ*)—the udder. पयसा (*payasā*)—is full of milk, like that. भोजं (*bhojaṃ*)—the giver of fruit and the protector. ईं इंद्रं (*īṃ iṃdraṃ*)—this Indra. सोमेभिः (*somebhiḥ*)—with Soma juices. पृणत (*pṛṇata*)—fill. मे (*me*)—dear to me. अस्य (*asya*)—of this Soma. एतत् निभृतं (*etat nibhṛtaṃ*)—this hidden nature of its pleasantness. अहं (*ahaṃ*)—I (alone). वेद (*veda*)—know (saying so). यजतः (*yajataḥ*)—Indra, worthy of sacrifice. दित्संतं (*ditsaṃtaṃ*)—the sacrificer who offers the Soma. भूयः (*bhūyaḥ*)—exceedingly. चिकेत (*ciketa*)—knows (praises).
 
+### Printed p. 748
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 748.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, just as the udder of a cow is full of milk, so fill with Soma juices this Indra, the giver of fruit. Saying, "I alone can know the hidden nature of the pleasure of this Soma, which is dear to me", the sacrifice-worthy Indra comes to know exceedingly well the sacrificer who offers the Soma (that is, he is pleased with him).
+
+**Printed English translation**
+
+Priests, fill the bountiful Indra with libations, as the udder of a cow is filled with milk; so shall the adorable(Indra) fully comprehend(the liberality) of him who desires to present the gift, and shall say(to him), I acknowledge the secret(virtue) of this my(draught).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अध्वर्यवः पयसा ऊधः यथा गोः सोमेभिः ईं पृणत भोजं इंद्रं (*adhvaryavaḥ payasā ūdhaḥ yathā goḥ somebhiḥ īṃ pṛṇata bhojaṃ iṃdraṃ*)—हे अध्वर्यवः यथा गोरूधः पयसा पूर्णं तद्वदीमेनं भोजं फलस्य दातारं रक्षितारं चेंद्रं सोमेभिः सोमैः पृणत पूरयत । (*he adhvaryavaḥ yathā gorūdhaḥ payasā pūrṇaṃ tadvadīmenaṃ bhojaṃ phalasya dātāraṃ rakṣitāraṃ ceṃdraṃ somebhiḥ somaiḥ pṛṇata pūrayata |*) O priests called Adhvaryu, just as the udder of a cow is full of milk, so fill well with Soma juices Indra, who grants us fruit and protects us. The udder of a cow, filled with milk, looks swollen. In the same way, make Indra's belly look swollen by filling it with Soma juices; that is, offer Soma juice to Indra in abundance (in very great quantity): this is the chief intention. The sage has addressed the Adhvaryus and directed them: just as milk fills a cow's udder, so fill Indra's belly with Soma juice.
+
+वेद अहं अस्य निभृतं मे (*veda ahaṃ asya nibhṛtaṃ me*)—मे मदीयस्य सोमस्य निभृतं गूढं सुखसाधनस्वभावमहमेव वेद । जनामि । इति पूर्वं न परस्मै कथितं तथापि युष्ठभ्यं ब्रवीमि । (*me madīyasya somasya nibhṛtaṃ gūḍhaṃ sukhasādhanasvabhāvamahameva veda | janāmi | iti pūrvaṃ na parasmai kathitaṃ tathāpi yuṣṭhabhyaṃ bravīmi |*) [Note: the supplied text has जनामि (*janāmi*) and युष्ठभ्यं (*yuṣṭhabhyaṃ*) as supplied; left uncorrected.] Indra, satisfied by drinking the Soma juice, has spoken this sentence: "Only I, who have drunk it, know the experience of pleasure from this Soma juice that I drank; others cannot know it. I have told this to no one until now; now I tell you." Thus Indra has spoken, addressing the sacrificer-priests.
+
+एतत् दित्संतं भूयः यजतः चिकेत (*etat ditsaṃtaṃ bhūyaḥ yajataḥ ciketa*)—In this way Indra knows the sacrificer offering the Soma as he wishes; that is, Indra greatly approves of the sacrificer's offering Soma juice in abundance (that is, he praises him).
+
+### Printed p. 749
+
+*Running head: A. 2, A. 6, P. 14 [as printed]; Sugvedasaṃhitā [sic, as supplied for Ṛgvedasaṃhitā]; p. 749.*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यो दि॒व्यस्य॒ वस्वो॒ यः पार्थि॑वस्य॒ क्षम्य॑स्य॒ राजा॑।
+> तमूर्द॑रं॒ न पृ॑णता॒ यवे॒नेंद्रं॒ सोमे॑भि॒स्तदपो॑ वो अस्तु ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । दिव्यस्य । वस्वः । यः । पार्थिवस्य । क्षम्यस्य । राजा ।
+> तं । ऊर्दरं । न । पृणत । यवेन । इंद्रं । सोमेभिः । तत् । अपः । वः । अस्तु ॥११॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवः य इंद्रो दिव्यस्य द्युलोकार्हस्य वसो वसुनो राजा
+> भवति । यश्च पार्थिवस्य । पृथिवीशब्देन विस्तीर्णमंतरिक्षमुच्यते । तत्रत्यं धनं
+> पार्थिवं । तस्य राजा । यश्च क्षम्यस्य । क्षमा भूमिः । तत्रत्यं धनं क्षम्यं । तस्य च
+> राजा भवति । तमेवंविधमिंद्रं सोमेभिः सोमैः पृणुतॆ । पूरयत । तत्र
+> दृष्टांतः । ऊर्दरं न । ऊर्ध्वं दीर्घमूर्दरं कुसूलं। यथा यवेन तत्पूर्णं
+> तद्वदिंद्रं पूरयतेति । तादृशं सोमादिनेंद्रोदरपूरणलक्षणमपः कर्म पो
+> युष्माकमस्तु ॥
+
+*Gist:* O Adhvaryus, fill with Soma juices that Indra, lord of the wealth of heaven, mid-region and earth, as a granary is filled with barley.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यः (*yaḥ*)—the Indra who. दिव्यस्य (*divyasya*)—belonging to the world of heaven. वस्वः (*vasvaḥ*)—of all wealth. राजा (*rājā*)—is lord (so also). यः (*yaḥ*)—who. पार्थिवस्य (*pārthivasya*)—of the wealth of the vast mid-region. क्षम्यस्य (*kṣamyasya*)—of the terrestrial wealth, is the master. तं (*taṃ*)—that. इंद्रं (*iṃdraṃ*)—Indra. यवेन (*yavena*)—with barley. ऊर्दरं न (*ūrdaraṃ na*)—as a granary is filled. सोमेभिः (*somebhiḥ*)—with Soma juices. पृणत (*pṛṇata*)—fill. तत् अपः (*tat apaḥ*)—such a rite. वः (*vaḥ*)—(for) your (welfare). अस्तु (*astu*)—may it be.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, fill with Soma juices, as a granary is filled with barley, that Indra who is lord of all the wealth belonging to the world of heaven, and likewise of all the riches connected with the mid-region and the earth. May such a rite bring you welfare.
+
+### Printed p. 750
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 750.*
+
+**Printed English translation**
+
+Priests, fill with libations, as a granary(is filled) with barley, Indra, who is lord of the riches of heaven, of mid-heaven, of earth; and may such(pious) act be for your(good).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः दिव्यस्य वस्वः पार्थिवस्य क्षम्यस्य(वस्वः) राजा (*yaḥ divyasya vasvaḥ pārthivasya kṣamyasya(vasvaḥ) rājā*)—य इंद्रो द्युलोकार्हस्य वस्वो वसुनो राजा भवति। यश्च पार्थिवस्य पृथिवीशब्देन विस्तीर्णमंतरिक्षमुच्यते । तत्रत्यधनं पार्थिवं । तस्य राजा । यश्च क्षम्यस्य क्षमा भूमिः तत्रत्यं धनं क्षम्यं । तस्य च राजा भवति । (*ya iṃdro dyulokārhasya vasvo vasuno rājā bhavati| yaśca pārthivasya pṛthivīśabdena vistīrṇamaṃtarikṣamucyate | tatratyadhanaṃ pārthivaṃ | tasya rājā | yaśca kṣamyasya kṣamā bhūmiḥ tatratyaṃ dhanaṃ kṣamyaṃ | tasya ca rājā bhavati |*) Here the word पृथिवी (*pṛthivī*) is read among the names of the mid-region (Ni. 2-10); therefore the sage has described Indra as king (lord) of all the wealth that is in the heaven-world, in the mid-region and on the earth.
+
+तं ऊर्दरं न पृणत यवेन इंद्रं सोमेभिः (*taṃ ūrdaraṃ na pṛṇata yavena iṃdraṃ somebhiḥ*)—Fill Indra, the owner of all wealth in earth, mid-region and heaven (that is, Indra's belly), with Soma juices, as a granary is filled with barley. In the previous Ṛk Indra's belly was compared to the udder of a cow filled with milk; in this Ṛk it is compared to a granary filled with barley. On the word ऊर्दर (*ūrdara*) Yāska has given this explanation:
+
+ऊर्दरं कृदरमित्यावपनस्य । ऊर्दरमुद्दीर्णं भवंति ऊर्जे दीर्णं वा । तमूर्दरं न पृणता य वेन इत्यपि निगमो भवति। तमूर्दरमिव पूरयति यवेन । कृदरं कृतदरं भवति ॥ (*ūrdaraṃ kṛdaramityāvapanasya | ūrdaramuddīrṇaṃ bhavaṃti ūrje dīrṇaṃ vā | tamūrdaraṃ na pṛṇatā ya vena ityapi nigamo bhavati| tamūrdaramiva pūrayati yavena | kṛdaraṃ kṛtadaraṃ bhavati ‖*) ((२ २-२०) (*(2 2-20)*) [reference as printed; the digits and spacing are as supplied])
+
+The word ऊर्दर (*ūrdara*) is stated, as ऊर्दरं कृदरं (*ūrdaraṃ kṛdaraṃ*), among the twenty-six "dviśa" names (Ni. 3-20); "dviśa names" are two words with one and the same meaning, that is, the two words ऊर्दरं कृदरं (*ūrdaraṃ kṛdaraṃ*) are synonyms. The word कृदर (*kṛdara*) is read among the names of houses (Ni. 3-13). The two words ऊर्दर (*ūrdara*) and कृदर (*kṛdara*) are names of an आवपन (*āvapana*) (a house for storing grain); or else, because it is filled up to the top, or because it is stored for food, a granary is called ऊर्दर (*ūrdara*). Having explained thus, he gave the present Ṛk itself as the example. This word ऊर्दर (*ūrdara*) is read in the Ṛgveda [printed ऋग्वदल्लि (*ṛgvadalli*), sic] only in this Ṛk; it is not used anywhere else.
+
 ---
 
-**Progress note:** Done through printed p. 747 (PDF 747). Rk 9 and 10 of Sukta 14; Special Topics on vana, hastya
+**Progress note:** Done through printed p. 750 (PDF 750). Rk 10 end, Rk 11, Special Topics on urdara
