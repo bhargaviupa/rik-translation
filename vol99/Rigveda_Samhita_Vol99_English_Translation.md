@@ -6885,6 +6885,91 @@ This Pipu is the enemy of Ṛjiśvan, the dependent of Indra. This Ṛjiśvan, o
 
 (The passage continues on the next page.)
 
+### Printed p. 736
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 736.*
+
+व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्भिवा न नक्तं । तस्यैतस्मिन्लोके। अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्ततॆ । मित्रद्रुगिति । स एतानपामार्गानजनयॆत् । तानजुहोत् । त्वर्वै स रक्षाग्‌स्यपाहत । यदपामार्गहोमो भवति । रक्षसामपहत्यै ॥ (*vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etadbhivā na naktaṃ | tasyaitasminloke| apāṃ phenena śira udavartayat | tadenamanvavartatè | mitradrugiti | sa etānapāmārgānajanayèt | tānajuhot | tvarvai sa rakṣāgsyapāhata | yadapāmārgahomo bhavati | rakṣasāmapahatyai ‖*)
+(Śai. Brā. 1-7-15, 6, 7)
+
+After Indra had slain the asura Vṛtra he also slew other rākṣasas. But he could not conquer the asura named Namuci. This one was extremely mighty and did not yield to weapons of any kind. Indra therefore wished to defeat him by his own bodily strength alone, and began a wrestling-fight with him. Yet the more they fought, the more Namuci's strength increased. Indra could not escape from his grip. Then Indra asked Namuci to release him, and the asura said to Indra: "O Indra, if I am to release you, you must do as I say. Let us now make a pact with each other. You may again wish to fight me by some stratagem and kill me. In such a case the weapon you use to kill me must be neither wet nor dry; you must not kill me by day, nor by night. If you agree to these conditions I shall release you." Indra agreed, saying "So be it", freed himself from his grip, and began to think how he might conquer him. After some time an expedient occurred to him. The foam of the sea lying before him fell within his sight. "This foam is neither wet nor dry; so I shall make it my weapon and slay Namuci." When the night has passed and the time of dawn has begun, before the sun rises, it is quite light. That time is not night, since it is not dark, and not day, since the sun has not risen. Having decided that if he fought at such a time and killed him with a weapon made of the water's foam he would not break the word he had given, he fought Namuci accordingly and cut off his head with that foam. Yet the asura did not die, but pursued Indra to kill him. "Hey, Indra, betrayer of a friend! Stop, stop! You gave your word that you would not kill me, and now you have done such a friend-betraying deed. I shall not let you go without killing you." Then Indra, frightened, created a special tree named apāmārga and made an offering in the fire with its sticks for the increase of his vigour. By that Indra's strength grew greater and he slew Namuci. Therefore it is said that those who wish to be rid of the affliction of rākṣasas should make an offering with apāmārga sticks. This matter of Indra's slaying this Namuci
+
+### Printed p. 737
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 13; Ṛgveda-saṃhitā; p. 737.*
+
+is stated not only in this [?] but in the Ṛgveda [?]—
+
+नम्मा यदिंद्र सख्या परावति निबर्हयो नमुचिं नाम मायिनं । (*nammā yadiṃdra sakhyā parāvati nibarhayo namuciṃ nāma māyinaṃ |*)
+(Ṛ. Saṃ. 1-53-7)
+अत्रा दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् । (*atrā dāsasya namuceḥ śiro yadavartayo manave gātumicchan |*)
+(Ṛ. Saṃ. 5-30-7)
+युजं हि मामकृथा आदिदिंद्र शिरो दासस्य नमुचेर्मथायन् । (*yujaṃ hi māmakṛthā ādidiṃdra śiro dāsasya namucermathāyan |*)
+(Ṛ. Saṃ. 5-30-8)
+प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् । (*pra śyeno na madiramaṃśumasmai śiro dāsasya namucermathāyan |*)
+(Ṛ. Saṃ. 6-20-6)
+निवेशने शततमाविवेषीरहञ्च वृत्रं नमुचिमुताहन् । (*niveśane śatatamāviveṣīrahañca vṛtraṃ namucimutāhan |*)
+(Ṛ. Saṃ. 7-19-5)
+अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः । (*apāṃ phenena namuceḥ śira iṃdrodavartayaḥ |*)
+(Ṛ. Saṃ. 8-14-13)
+त्वं जघंथ नमुचिं मुखस्युं दासं कृष्णान ऋषये विमानं । (*tvaṃ jaghaṃtha namuciṃ mukhasyuṃ dāsaṃ kṛṣṇāna ṛṣaye vimānaṃ |*)
+(Ṛ. Saṃ. 10-73-7)
+युवं सुराममश्विना नमुचावासुरे सचा । (*yuvaṃ surāmamaśvinā namucāvāsure sacā |*)
+(Ṛ. Saṃ. 10-131-4)
+
+It is stated in these Ṛks; nowhere else. [The supplied text then repeats a variant line: "It is stated in these words; nowhere else."]
+
+यः रुधिक्रां तस्मै इंद्राय अंधसः जुहोत (*yaḥ rudhikrāṃ tasmai iṃdrāya aṃdhasaḥ juhota*)—रुधिक्रामेतन्नामकमसुरं यश्च जघान । तस्मा इंद्रायांधसो हविर्लक्षणान्यन्नानि जुहोत । जुहुत । (*rudhikrāmetannāmakamasuraṃ yaśca jaghāna | tasmā iṃdrāyāṃdhaso havirlakṣaṇānyannāni juhota | juhuta |*) O Adhvaryus, offer an oblation of food, in the form of oblation, into the fire to that Indra who slew the asura named Rudhikra. Since the name of the asura Rudhikra is not mentioned anywhere else in the Ṛgveda, nothing more can be said about him
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यः श॒तं शंब॑रस्य॒ पुरो॑ बि॒भेदाश्म॑नेव पू॒र्विः।
+> यो व॒र्चिनः॑ श॒तमिंद्रः॑ स॒हस्र॑म॒पाव॑प॒द्भर॑ता॒ सोम॑मस्मै ॥
+
+> *adhvaryavo yaḥ śataṃ śaṃbarasya puro bibhedāśmaneva pūrviḥ|*
+> *yo varcinaḥ śatamiṃdraḥ sahasramapāvapadbharatā somamasmai ‖*
+
+### Printed p. 738
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 738.*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । शतं । शंबरस्य । पुरः । बिभेद । अश्मनाइव । पूर्विः ।
+> यः । वर्चिनः । शतं । इंद्रः । सहस्रं । अपअवपत् । भरत । सोमं । अस्मै ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवः य इंद्रः शंबरस्य मायाविनोऽसुरस्य पूर्वीः पुरातनीः
+> शतं पुरः पुरीरश्मनेव अश्वसदृशेन वज्रेण बिभेद । यश्चेंद्रो वर्चिनः ॥ वर्च
+> दीप्तौ । गमेरिनिः । उ. ४-६ । इति विधीयमान इनिर्बहुलवचनादस्माद्भवति ॥ यद्वा
+> नामैतत् । तस्यासुरस्य शतं सहस्रमेतत्संख्याकानपरिमितान्वीरान् पुत्रानपावपत् ।
+> युगपदेव भूम्यामपातयत् । तथा च मंत्रवर्णः । शतं वर्चिनः सहस्रं च साकं
+> हथो अप्रत्यसुरस्य वीरान् । ७-९९_५ । इति । अस्मा इंद्राय सोमं भरत ॥
+
+> *he adhvaryavaḥ ya iṃdraḥ śaṃbarasya māyāvino 'surasya pūrvīḥ purātanīḥ*
+> *śataṃ puraḥ purīraśmaneva aśvasadṛśena vajreṇa bibheda | yaśceṃdro varcinaḥ ‖ varca*
+> *dīptau | gameriniḥ | u. 4-6 | iti vidhīyamāna inirbahulavacanādasmādbhavati ‖ yadvā*
+> *nāmaitat | tasyāsurasya śataṃ sahasrametatsaṃkhyākānaparimitānvīrān putrānapāvapat |*
+> *yugapadeva bhūmyāmapātayat | tathā ca maṃtravarṇaḥ | śataṃ varcinaḥ sahasraṃ ca sākaṃ*
+> *hatho apratyasurasya vīrān | 7-99_5 | iti | asmā iṃdrāya somaṃ bharata ‖*
+
+Gist: Adhvaryus, Indra split Śambara's hundred ancient cities with the thunderbolt and felled Varcin's hundred thousand sons; offer Soma to him.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यः (*yaḥ*)—the Indra who. शंबरस्य (*śaṃbarasya*)—of the māyā-wielding asura Śambara. पूर्विः (*pūrviḥ*)—very ancient. शतं (*śataṃ*)—a hundred in number. पुरः (*puraḥ*)—cities. अश्मनेव (*aśmaneva*)—with the very hard thunderbolt. बिभेद (*bibheda*)—split asunder. यः इंद्रः (*yaḥ iṃdraḥ*)—the Indra who. वर्चिनः (*varcinaḥ*)—of the asura named Varci. शतं सहस्रं (*śataṃ sahasraṃ*)—innumerable heroic sons and others. अपावपत् (*apāvapat*)—felled all together and destroyed. अस्मै (*asmai*)—to such an Indra. सोमं (*somaṃ*)—Soma. भरत (*bharata*)—bring and offer.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, offer Soma, bringing it, to that Indra who split with the very hard thunderbolt the very ancient hundred cities (the supplied text reads "hundred-numbered" with a misprint in the Kannada word) of the māyā-wielding asura Śambara, and who felled all together and destroyed a hundred thousand, innumerable, heroic sons and others of the asura named Varci.
+
+**Printed English translation**
+
+Priests, present the Soma libation to him, who, with the adamantine (thunderbolt). demolished [sic, as printed] the hundred ancient cities of Shambara, and cast down the hundred thousand(descendants) [sic, as printed] of Varchin.
+
 ---
 
-**Progress note:** Done through printed p. 735 (PDF 735). Sukta 14 Rk 5 end, Special Topics (Shushna, Pipru, Namuci)
+**Progress note:** Done through printed p. 738 (PDF 738). Sukta 14 Rk 5 Special Topics (Namuci, Rudhikra); Rk 6
