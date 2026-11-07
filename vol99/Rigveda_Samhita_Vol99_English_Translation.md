@@ -2327,6 +2327,61 @@ I offer oblations to Agni, who is present at all(sacrifices); may he accept(them
 
 You who overcome enemies with your radiance, understand and accept the hymn worthy of worship. We, who know you as the messenger of the gods, recite your hymn as Manu praised you formerly. I, who seek wealth, call with praise Agni, who is full of flame and who unites us with the sweet fruit of rites.
 
+### Printed p. 574
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 10, p. 574.*
+
+**Printed English translation**
+
+Overpowering( your foes) with lustre, may you recognize your portion: may we, having you for our messenger, recite(praise) like Manu: desiring wealth, I offer oblation with the sacrificial ladle and with praises, to that entire Agni, who rewards(the worshipper) with the sweet(fruit) of the sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वरेण सहसानः (*vareṇa sahasānaḥ*)—वारयत्यनेन शत्रुनिति वरं तेजः तेन सहसानः शत्रुनभिभवन् (*vārayatyanena śatruniti varaṃ tejaḥ tena sahasānaḥ śatrunabhibhavan*). Because it wards off or defeats enemies, वरं (*varaṃ*) means lustre, valour. The sense is: Agni, who defeats enemies with such lustre.
+
+भागं (*bhāgaṃ*)—भजनीयं स्तोत्रं (*bhajanīyaṃ stotraṃ*). Because it goes and reaches the gods, the praise is called "portion".
+
+त्वादूतासः मनुवद्वदेम (*tvādūtāsaḥ manuvadvadema*)—त्वं दूतो येषामसि ते त्वादूतासः (*tvaṃ dūto yeṣāmasi te tvādūtāsaḥ*) । यद्वा त्वया प्रेरिता वयं मनुवत् मनुरिव वदेम (*yadvā tvayā preritā vayaṃ manuvat manuriva vadema*) । स्तोत्रं ब्रूमः (*stotraṃ brūmaḥ*). "Those for whom you (Agni) are the messenger": that is, since Agni is the messenger of men to the gods, it means "we who regard you as the messenger". Or: "we, impelled by you, will recite the praise like Manu" is the sense.
+
+Although the name of Manu is recited in many places in the Ṛgveda, nowhere is much detail found. It is understood that Manu is the primal ancestor of the human race and a guide in the order of performing sacrifices and rites. When he was dividing his property among his children, his youngest son, Nābhānediṣṭha, was studying in the teacher's house as a celibate student, and so received no share of the inheritance. It is related that when he finished his studies, came back and asked his father for his share, Manu sent him to the place where the sages of the Aṅgiras line were performing a sacrifice, saying that if he taught them some mantras they would give him wealth as much as he wished. This story is told in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā of the Yajurveda. Because the sacrifice performed by Manu is chiefly famous, the matter of the sacrifice performed by Manu is mentioned here and there in the Ṛgveda.
+
+As is learned from the Ṛgveda, it was Manu who began the sacrifices. He kindled Agni and, together with the seven sages, gave the first oblation to the gods (Ṛ. Saṃ. 10-63-7).
+
+### Printed p. 575
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 6, Varga 2, p. 575.*
+
+The sacrifice performed by Manu is the very one that everyone now performs; the present sacrifice is likened to the sacrifice that the Manus performed for the gods (1-76-5). By the adverb मनुष्वत् (*manuṣvat*) ("like Manu") sacrificial acts are likened to his again and again: they kindle Agni like Manu (5-21-1); they praise Agni, kindled by Manu, just as Manu did (7-2-3); they offer the Soma juice like Manu (4-37-3). Soma is entreated to flow for them now, as it flowed formerly for Manu (9-96 12) [as supplied; the reference has no hyphen before the last number]. Such acts are compared to the acts of Manu. Manu established Agni so that it might be a light for all creatures (1-36-19). Indra drank Soma in company with Manu, the son of Vivasvat (Vā. 4-1), or with Manu Sāvarṇi (Vā. Saṃ. 3-1). For the strength needed to fight the demon Vṛtra, Indra drank the Soma juice belonging to Manu (5-29-7). Such descriptions occur.
+
+Manu is conceived as the son of Vivasvat; he has the name Vaivasvata Manu (Vā. Saṃ. 4-1; 3-1; Atharvaveda 8-10-24; Śatapatha Brāhmaṇa 13-4-3-3). In the Purāṇas and similar works the name Vaivasvata is customary for Manu. Yama is one of the children of Vivasvat, and he is the first among men. That is, Manu and Yama are the primal ancestors of mankind. But Manu is the first among those who live; Yama is said to be the first among those who have died, and the lord of the world of the dead. In the Śatapatha Brāhmaṇa Vaivasvata Manu is called the king of men and Yama the king of the dead (Śatapatha Brāhmaṇa 13-4-3-3). The Nirukta (Ni. 12-10) describes Manu as the son of the Āditya called Vivasvat and of the woman called Savarṇā (10-17-2), and indicates him as one of the gods of the heavenly world.
+
+There is a story in the Śatapatha Brāhmaṇa that at the time of the great flood, when all other creatures were drowned, Manu alone was saved in a boat by a fish (an incarnation of Viṣṇu) (Śatapatha Brāhmaṇa 1-8-1-1 to 10). It was then that Manu became the source of the human race through his daughter Iḍā (Iḷā), born of oblations. This story of the flood is also told in the Atharvaveda (Atharvaveda 19-39-8).
+
+Besides the Ṛgveda, this Manu is spoken of in the Atharvaveda (14-2-41), the Taittirīya Saṃhitā (1-5-1-3; 7-5-15-3; 2-5-9-1; 2-6-7-1; 3-3-2-1; 5-4-10-5; 6-6-6-1), the Kāṭhaka Saṃhitā (8-15), the Śatapatha Brāhmaṇa (1-1-4-14), the Jaiminīya Upaniṣad Brāhmaṇa (3-15-2) and other places.
+
+### Printed p. 576
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 10, p. 576.*
+
+*The eleventh sūkta.*
+
+## Sūkta 11 (Maṇḍala 2)
+
+**Introduction to the sūkta (Sanskrit, transcribed)**
+
+> श्रुधी हवमित्येकविंशत्यृचमेकादशं सूक्तं गार्त्समदं । अत्रानुक्रमणिका।
+> श्रुधि सैकैंद्रं विराट् स्थानमृते०त्यामिति । विराट् स्थाना त्रिष्टुप् । तल्लक्षणमनुक्रम-
+> ण्यामुक्तं । नवकौ वैराजस्त्रैष्टुभश्च द्वौ वा वैराजौ नवकस्त्रैष्टुभश्च विराट् स्थानेति ।
+> अंत्या त्रिष्टुप् विशेषस्यानुक्तत्वात् । इंद्रो देवता ॥ पृष्टस्य चतुर्थेऽहनि
+> मरुत्वतीयशस्त्रे द्वे सूक्ते निविद्वाने । तत्रेदं तृतीयं सूक्तं । चतुर्थेऽहनीति
+> खंडे सूत्रितॆं । श्रुधी हवमिंद्र मरुत्वा इंद्रेति मरुत्वतीयं ॥ आ. ७-११ । इति ॥
+
+*Gist:* *śrudhī havam* is the eleventh sūkta, of twenty-one ṛks, by Gṛtsamada; deity Indra; the metre is Virāṭ-sthānā Triṣṭubh, the last ṛk Triṣṭubh; it is used at the Marutvatīya-śastra of the fourth day, as stated in the Āśvalāyana Śrauta-sūtra (Āś. 7-11).
+
+**Anuvāda (Kannada)**
+
+This sūkta श्रुधी हवं (*śrudhī havaṃ*) is the eleventh sūkta in the first anuvāka. It has twenty-one ṛks. The seer of this sūkta is Gṛtsamada. In the Anukramaṇī it is said: श्रुधि सैकैंद्रं विराट् स्थानमृतेऽन्यां (*śrudhi saikaiṃdraṃ virāṭ sthānamṛte 'nyāṃ*). Twenty ṛks of this sūkta are in the metre called Virāṭ-sthānā Triṣṭubh. Its characteristic is stated in the Anukramaṇī: नवकौ वैराजस्त्रैष्टुभश्च द्वौ वा वैराजौ नवकस्त्रैष्टुभश्च विराट् स्थानेति (*navakau vairājastraiṣṭubhaśca dvau vā vairājau navakastraiṣṭubhaśca virāṭ sthāneti*). That is, in the Vairāja Triṣṭubh metre two pādas have nine syllables each, another pāda has ten syllables like the Virāṭ metre, and another pāda has eleven syllables like the Triṣṭubh metre (39 syllables in all); in the metre called Virāṭ-sthānā Triṣṭubh two pādas have ten syllables each like the Virāṭ metre, one pāda has nine syllables, and another pāda has eleven syllables like the Triṣṭubh metre (40 syllables in all). Thus the characteristics of these metres are stated. The last ṛk of this sūkta is in the Triṣṭubh metre. Indra alone is the deity. In the sacrifice called Pṛṣṭha, on the fourth day, when the Marutvatīya-śastra mantras are recited, after two sūktas have been recited as nivid mantras, this sūkta is to be recited as the third; this is explained by the Āśvalāyana Śrauta-sūtra in the section beginning चतुर्थेऽहनि (*caturthe 'hani*) in the sūtra श्रुधी हवमिंद्र मरुत्वा इंद्रेति मरुत्वतीयं (*śrudhī havamiṃdra marutvā iṃdreti marutvatīyaṃ*) (Āś. 7-11).
+
 ---
 
-**Progress note:** Done through printed p. 573 (PDF 573). Sukta 10 Rik 4 Special Topics end; Rik 5 complete; Rik 6 Samhita to Bhavartha, printed English follows
+**Progress note:** Done through printed p. 576 (PDF 576). Sukta 10 Rik 6 printed English and Special Topics (Manu); Sukta 11 introduction
