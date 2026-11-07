@@ -6374,6 +6374,103 @@ If their view is examined together with what goes before and after, one must say
 
 The grammatical remarks of the commentary (the root अर्थ (*artha*) in the sense of asking, of the Curādi class, ātmanepada; वसव्यं (*vasavyaṃ*) with the suffix yat in its own sense by the rule on वस्व (*vasva*) and the like; the accusative with अनु द्यून् (*anu dyūn*); श्रवस्याः (*śravasyāḥ*) formed with kyac from श्रवः (*śravaḥ*) in the sense of desiring, with a note on the two objects, the example माणवकं पुत्रीयति (*māṇavakaṃ putrīyati*), and the reference Pā. 3-1-8-2 as printed; the Vedic subjunctive with the augment) are not explained here.
 
+### Printed p. 718
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 718.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसो (*vaso*) (*vaso*)—wealthy; इंद्र (*iṃdra*) (*indra*)—O Indra; चित्रं (*citraṃ*) (*citraṃ*)—of many kinds and delightful; यत् (*yat*) (*yat*)—which wealth; अनु द्यून् (*anu dyūn*) (*anu dyūn*)—every day; श्रवस्याः (*śravasyāḥ*) (*śravasyāḥ*)—whether we wish to enjoy it or you wish us to enjoy it; ते (*te*) (*te*)—belonging to you, बहु (*bahu*) (*bahu*)—abundant; वसव्यं (*vasavyaṃ*) (*vasavyaṃ*)—rich in possessions (the source prints "ಅದ" after it, apparently a slip); तत् राधः (*tat rādhaḥ*) (*tat rādhaḥ*)—that wealth; अस्मभ्यं (*asmabhyaṃ*) (*asmabhyaṃ*)—to us; दानाय (*dānāya*) (*dānāya*)—for giving and also for enjoyment; समर्थयस्व (*samarthayasva*) (*samarthayasva*)—give completely; सुवीराः (*suvīrāḥ*) (*suvīrāḥ*)—we, accompanied by excellent sons; विदथे (*vidathe*) (*vidathe*)—in this sacrifice; बृहत् (*bṛhat*) (*bṛhat*)—abundant śastra and other mantras; वदेम (*vadema*) (*vadema*)—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O wealthy Indra, give completely, both for giving and for enjoyment, that wealth which we wish to enjoy every day and which is abundant and rich in possessions with you. Accompanied by excellent sons, we shall recite abundant śastra and other mantras at this sacrifice.
+
+**English Translation**
+
+Possessor of riches, exert your ability to bestow wealth upon us; for yours is great affluence: may you, Indra, be disposed to grant us exceeding abundanoe [sic] day by day, so that, blessed with worthy descendants, we may glorify you at(our) sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Having described Indra's heroic deeds and qualities in many ways up to now, the seer, in this Ṛk, which is the last of the sūkta, concludes by praising Indra and praying that he give wealth and the like.
+
+वसो (*vaso*) (*vaso*)—the Sanskrit gloss says "vasu-man or vāsaka of all, O Indra": the word is explained in two ways, either "O Indra, who provides a dwelling for all" or "O wealthy Indra".
+
+अस्मभ्यं दानाय राधः समर्थयस्व (*asmabhyaṃ dānāya rādhaḥ samarthayasva*) (*asmabhyaṃ dānāya rādhaḥ samarthayasva*)—the meaning is: give us wealth both for giving to others and for our own enjoyment.
+
+बहु ते वसव्यं (*bahu te vasavyaṃ*) (*bahu te vasavyaṃ*)—this sentence suggests that Indra has abundant wealth and the like, and therefore that he is able to give wealth and the like to those who praise him.
+
+### Printed p. 719
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 13; Ṛgveda-saṃhitā; p. 719.*
+
+इंद्र यत् चित्रं श्रवस्याः अनु द्यून् (*iṃdra yat citraṃ śravasyāḥ anu dyūn*) (*indra yat citraṃ śravasyāḥ anu dyūn*)—O Indra, Indra is prayed to give us, who desire wealth, wealth and other things of many kinds every day.
+
+बृहत् वदेम विदथे सुवीराः (*bṛhat vadema vidathe suvīrāḥ*) (*bṛhat vadema vidathe suvīrāḥ*)—the commentary says: सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं शस्त्रादिकं वाक्यं वदेम (*suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema*) (*suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'smin yajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema*). That is: accompanied by excellent sons and grandsons and by valiant attendants, we shall recite the śastra and other mantras abundantly at this sacrifice, for your pleasure, Indra; as was said in the preceding sūktas, the seer expresses this wish at the end of this sūkta too.
+
+*The fourteenth sūkta.*
+
+**Introduction to the sūkta (Sanskrit, transcribed)**
+
+> अध्वर्यवो भरतेति द्वादशर्चं तृतीयं सूक्तं गार्त्समदं त्रैष्टुभ-
+> मैंद्रं । अध्वर्यवो द्वादशेत्यनुक्रांतं ॥ सूक्तविनियोगो लैंगिकः । अतिरात्रॆ
+> प्रथमे पर्याये होतुः शस्त्रयाज्याध्वर्यव इत्येषा । अध्वर्यवो भरतेंद्राय
+> सोममिति याज्या । आ. ६-४ । इति सूत्रितं ॥
+> अनुवादवु—अध्वर्यवो भरत ऎंब ई सूक्तवु ऎरडनॆय अनुवाकदल्लि मूरनॆय
+> सूक्तवु. इदरल्लि हन्नॆरडु ऋक्कुगळिरुववु. ई सूक्तक्कॆ गृत्समदनु ऋषियु; इंद्रनु देव
+> तॆयु; त्रिष्टुप् छंदस्सु अनुक्रमणिकॆयल्लि अध्वर्यवो द्वादश ऎंदु मुंतागि हेळिरुवुदु.
+> ई सूक्तद विनियोगवु लैंगिकवु. अतिरात्रवॆंब यागदल्लि प्रथम पर्यायदल्लि होतृवु अध्व-
+> र्यवो भरत ऎंब ई सूक्तद मॊदलनॆय ऋक्कन्नु शस्त्रयाज्यामंत्रवन्नागि पठिसबेकॆंदु
+> आश्वलायन शौतसूत्रद—अध्वर्यवो भरतेंद्राय सोममिति याज्या ऎंब सूत्रदिंद
+> विवृतवागिरुवुदु(आ. ६-४).
+
+*Gist:* The fourteenth sūkta, *adhvaryavo bharata*, has twelve ṛks; the third sūkta of the second anuvāka; seer Gṛtsamada, deity Indra, metre Triṣṭubh; applied in the Atirātra, first paryāya, as the Hotṛ's śastra-yājyā, as prescribed in the Āśvalāyana Śrauta-sūtra (Ā. 6-4).
+
+**Anuvāda (Kannada)**
+
+Translation—This sūkta beginning अध्वर्यवो भरत (*adhvaryavo bharata*) (*adhvaryavo bharata*) is the third sūkta in the second anuvāka. It has twelve ṛks. Gṛtsamada is the seer of this sūkta, Indra the deity, Triṣṭubh the metre; the Anukramaṇikā says अध्वर्यवो द्वादश (*adhvaryavo dvādaśa*) (*adhvaryavo dvādaśa*) and so on. The application of this sūkta is the Liṅga (by the sense of the text). In the sacrifice called Atirātra, in the first paryāya, the Hotṛ priest is to recite the first Ṛk of this sūkta अध्वर्यवो भरत (*adhvaryavo bharata*) (*adhvaryavo bharata*) as the śastra-yājyā mantra; this is set out in the Āśvalāyana Śrauta-sūtra by the sūtra अध्वर्यवो भरतेंद्राय सोममिति याज्या (*adhvaryavo bharateṃdrāya somamiti yājyā*) (*adhvaryavo bharatendrāya somam iti yājyā*) (Ā. 6-4).
+
+### Printed p. 720
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 14; p. 720.*
+
+## Sūkta 14 (Maṇḍala 2)
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 14. Maṇḍala 2, Anuvāka 2, Sūkta 14. Aṣṭaka 2, Adhyāya 6, Varga 13, 14. Number of ṛks in the sūkta: 12. Seer: Gṛtsamada (printed गृत्समदॆः! (*gṛtsamadèḥ!*), a misprint or reading slip in the supplied text). Deity: Indra. Metre: Triṣṭubh. (A stray line "१०६ राडाळि (*106 rāḍāḷi*)" follows in the supplied text; its meaning is unclear.)
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ भर॒तेंद्रा॑य॒ सोम॒माम॑त्रेभिः सिंचता॒ मद्य॒मंधः॑ ।
+> का॒मी हि वी॒रः सद॑मस्य पी॒तिं जु॒होत॒ वृष्णे॒ तदिदे॒ष व॑ष्टि ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । भरत । इंद्राय । सोमं । आ । अमत्रेभिः । सिंचत । मद्यं । अंधः ।
+> कामी । हि । वीरः । सदं । अस्य । पीतिं । जुहोत । वृष्णे । तत् । इत् । एषः । वष्टि ।
+> ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> गृत्समदो ब्रूते । अध्वर्यवः अध्वरस्य नेतारः । अध्वरं यजमानाये-
+> च्छंतः ॥ कव्यध्वरपृतनस्यर्चि लोप इत्यकारलोपः । अत्र यास्कः । अध्वर्युरध्वर-
+> युरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति । नि. १-८ ॥ हे अध्वर्यवः
+> इंद्राय देवाय सोमं हविर्धानादुत्तरवेदिं प्रति भरत । हरत ॥ आमंत्रित-
+> स्याविद्यमानत्वादनिघातः ॥ हृत्वामत्रेभिः । अमा सहादंत्यत्र होत्रादय इत्यम-
+> त्राणि चमसाः । त्रैर्मद्यं मदकरमंधः सोमलक्षणमन्नमासिंचत । अग्नौ प्रक्षिपत ।
+> अत्र यास्कः । आ सिंचतामत्रैर्मदनीयमंधोऽमत्रं पात्रममा अस्मिन्नदंति
+> नि. ५-१ । इति । वीरः स इंद्रोऽस्य सोमस्य प्रीतिं पानं प्रति सदं सदैव कामी हि ।
+> कामयमानो हि । तस्माद्वृष्टे वर्षित्र इंद्राय सोमं जुहोत । जुहुत ॥
+> हु दानादनयोः । लोटि तप्तनप्तनथनाश्चति तबादेशः ॥ ऐष इंद्रस्तदिश् तदेव
+> सोमद्रव्यं वष्टि । कामयते ॥
+
+*Gist:* Gṛtsamada speaks: O Adhvaryus, carry Soma for Indra and pour the intoxicating Soma food into the fire; Indra, the hero, always desires the drinking of it, so offer it to him.
+
+The grammatical remarks of the commentary (the elision of *a* in अध्वर्यवः (*adhvaryavaḥ*) (*adhvaryavaḥ*), Yāska's explanation of *adhvaryu* (Ni. 1-8) and of the Soma vessels (Ni. 5-1), the non-accent of the vocative, the imperative of the root *hu*) are not explained here.
+
 ---
 
-**Progress note:** Done through printed p. 717 (PDF 717). Sukta 13 Rk 12 end of Special Topics, Rk 13 Samhita to bhashya; colon-joined reference explained in text
+**Progress note:** Done through printed p. 720 (PDF 720). Sukta 13 end; Sukta 14 intro, heading and Rk 1 Samhita to bhashya (Samhita and Pada read from figure line3511)
