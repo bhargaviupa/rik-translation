@@ -4984,6 +4984,78 @@ O people, he whom the divine host and the human host, making noise together, cal
 
 Whom(two hosts), calling and mutually encountering, call upon; whom both adversaries, high and low,(appeal to); whom two(charioteers), stand-ing in the same car, severally invoke; he, men, is Indra.
 
+### Printed p. 667
+
+*Running head: [Ā. 2 A. 6 V. 8. Ṛgvedasaṃhitā 667]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is somewhat difficult, or rather the meaning explained by Sāyaṇa is not so well suited. According to Sāyaṇa: O people, the divine host and the human host, making a noise together, call whom for protection, and the enemies also, the superior and the inferior, call whom, and the two charioteers who have mounted a chariot like Indra's call whom separately for protection: he is Indra. This is the principal meaning of the Ṛk. Another kind of meaning is also possible. Namely: when two armies have come together on the battlefield and are fighting, both armies call upon Indra himself for protection. That is, Indra is not partial to one person or one army. Of two hostile armies, one may be superior, or greater in number or strength; the other may be inferior, or small in strength. Yet, since the people of both armies call upon Indra to be their protector, it becomes clear that Indra is wanted by both and is partial to neither. Though the people of the two armies are enemies of each other, Indra is wanted by both; therefore both call him: this may be the seer's intention. And in the second half of the Ṛk also it is said that the two warriors who sit in a chariot and fight call upon Indra alone, who has equal affection for the two of them. Here the commentator has explained the words समानं चित् (*samānaṃ cit*) as इंद्रसदृशं रथमातस्थिवांसा (*iṃdrasadṛśaṃ rathamātasthivāṃsā*), "seated in a chariot equal to Indra's chariot"; but the words समानं चित् (*samānaṃ cit*) can be interpreted as "Indra himself, who has equal affection". It appears that doing so is right.
+
+Some defects are seen in Sāyaṇa's explanation of the meaning of this Ṛk. For the words क्रंदसी संयती (*kraṃdasī saṃyatī*) he says रोदसी शब्दं कुर्वाणे (*rodasī śabdaṃ kurvāṇe*), that heaven and earth make a noise and call Indra for protection. If so, is there mutual enmity between heaven and earth? If so, did they fight with noise and seek Indra's help for protection? Such doubts arise. Therefore this kind of explanation does not fit. Or, according to the other meaning the commentator has given, मानुषी देवी च द्वे सेने वा (*mānuṣī devī ca dve sene vā*), that is, two armies, a human army and a divine army: in this meaning also, where does enmity between men and gods come from? If perhaps "men" is taken to mean Asuras, it is well known that the gods and Asuras are enemies of each other, and it is natural that they fight. But since the Asuras are enemies of Indra, they are not people who desire Indra's help or protection. Therefore this meaning also does not fit properly. Besides, in this Ṛk there is no need at all to supply the word रोदसी (*rodasī*) (heaven and earth), as Sāyaṇa does. For the Ṛk itself says plainly उभयाः अमित्राः (*ubhayāḥ amitrāḥ*), the two parties of enemies, mutually hostile,
+
+### Printed p. 668
+
+*Running head: [668 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+and the words परे अवरे (*pare avare*) can be taken to mean one big army and another small army. To give the word समानं (*samānaṃ*) the meaning "chariot" is also not right; it must be interpreted as "Indra" (accusative). If this is done, the meaning of the Ṛk becomes clear and no difficulty remains. Therefore the principal meaning of this Ṛk may be stated thus: O people, whom the two parties of enemies call for protection when they have come together for battle, and whom the two warriors, eager for battle, sitting in a chariot facing each other, call separately, Indra himself, for protection: he is Indra.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> यस्मा॒न्न ऋ॒ते वि॒जयं॑ते॒ जना॑सो॒ यं युध्य॑माना॒ अव॑से॒ हवं॑ते ।
+> यो विश्व॑स्य प्रति॒मानं॑ ब॒भूव॒ यो अ॑च्युत॒च्युत्स ज॑नास॒ इंद्रः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> यस्मात् । न । ऋते । विजयंते । जनासः । यं । युध्यमानाः । अवसे । हवंते ।
+> यः । विश्वस्य । प्रतिमानं । बभूव । यः । अच्युतच्युत् । सः । जनासः । इंद्रः ॥९॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यस्मादृते जनासो जना न विजयंते । विजयं न प्राप्नुवंति । अतो
+> युध्यमाना युद्धं कुर्वाणा जना अवसे स्वरक्षणाय यमिंद्रं हवंते । आह्व-
+> यंति । यश्च विश्वस्य सर्वस्य जगतः प्रतिमानं प्रतिनिधिर्बभूव । यश्चाच्युतच्युत्
+> अच्युतानां क्षयरहितानां पर्वतादीनां च्यावयिता स इंद्र इत्यादि प्रसिद्धं ॥
+
+*Gist:* People do not win without Indra; hence fighters invoke him for protection; he is the counterpart of the whole world and the shaker of unshaken mountains and the like.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यस्मात् ऋते (*yasmāt ṛte*) — without whom. जनासः (*janāsaḥ*) — men. न विजयंते (*na vijayaṃte*) — cannot win victory (and therefore). यं (*yaṃ*) — whom. युध्यमानाः (*yudhyamānāḥ*) — those engaged in battle. अवसे (*avase*) — for protection. हवंते (*havaṃte*) — call. यः (*yaḥ*) —
+
+### Printed p. 669
+
+*Running head: [A. 2 Ā. 6 V. 8. Ṛgvedasaṃhitā 669]*
+
+who. विश्वस्य (*viśvasya*) — of the whole world. प्रतिमानं (*pratimānaṃ*) — as the counterpart (representative). बभूव (*babhūva*) — has become (and). यः (*yaḥ*) — who. अच्युतच्युत् (*acyutacyut*) — made the unmoved mountains and the like move. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he without whom men cannot win victory, and therefore those engaged in battle call whom for protection, who is the representative of the whole world, and who made the unmoved mountains and the like move: he is Indra. (The supplied text prints इंदनु (*iṃdanu*) at the end, apparently a misprint for इंद्रनु (*iṃdranu*) [sic].)
+
+**Printed English translation**
+
+Without whom men do not conquer; whom, when engaged in conflict, they invoke for succour; he, who is the protctype [sic] of the universe and the caster down of the unyielding; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अच्युतच्युत् (*acyutacyut*) — अच्युतानां क्षयरहितानां पर्वतादीनां च्यावयिता (*acyutānāṃ kṣayarahitānāṃ parvatādīnāṃ cyāvayitā*): the commentator's explanation is that he has the power to make mountains and the like, which are imperishable or do not move, move. It is not clear what the correct meaning of this word is. The seer's intention is to describe Indra as doing work that ordinary people cannot do. Therefore the main idea is that Indra is able, by his extraordinary power, to destroy even what is regarded as indestructible.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> यः शश्व॑तो॒ मह्येनो॒ दधा॑ना॒नम॑न्यमाना॒ञ्र्वा॑ ज॒घान॑ ।
+> यः शर्ध॑ते॒ नानु॒ददा॑ति श्र॒ध्यां यो दस्यो॑र्हं॒ता स ज॑नास॒ इंद्रः॑ ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> यः । शश्वतः । महि । एनः । दधानान् । अमन्यमानान् । शर्वा । जघान ।
+
+> *yaḥ | śaśvataḥ | mahi | enaḥ | dadhānān | amanyamānān | śarvā | jaghāna |*
+
 ---
 
-**Progress note:** Done through printed p. 666 (PDF 666). Sukta 12 Rik 7 bhashya to Rik 8 complete
+**Progress note:** Done through printed p. 669 (PDF 669). Sukta 12 Rik 8 special topics, Rik 9 complete, Rik 10 Samhita and Pada start
