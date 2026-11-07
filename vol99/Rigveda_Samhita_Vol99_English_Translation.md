@@ -5257,6 +5257,91 @@ He, the seven-rayed, the showerer, the powerful, who let loose the seven rivers 
 
 (2) स्वतपसः (*svatapasaḥ*) — those winds which burn of themselves, not depending on fire or the sun for heat. The clouds accompanied by a wind-host of the nature that burns by its own power, without needing fire or the sun for warmth, are called स्वतपसः (*svatapasaḥ*).
 
+### Printed p. 676
+
+*Running head: [675 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ[ ಮಂ. ೨. ಅ. ೨ ಸೂ ೧೨]*
+
+(3) विद्युन्महसः (*vidyunmahasaḥ*) — विद्युत्समानं महस्तेजो येषां ते विद्युन्महसः (*vidyutsamānaṃ mahastejo yeṣāṃ te vidyunmahasaḥ*): those whose great radiance equals lightning. The clouds with their wind-hosts, shining with a great radiance equal to lightning (the flash), or with lightning itself, are called विद्युन्महसः (*vidyunmahasaḥ*).
+
+(4) धूपयः (*dhūpayaḥ*) — they go about making all things fragrant by their own natural perfume alone, without depending on other substances such as guggulu or the ten-fold incense (दशांग (*daśāṃga*)). The clouds with their wind-hosts, endowed with such natural fragrance, are called धूपयः (*dhūpayaḥ*).
+
+(5) श्वापयः (*śvāpayaḥ*) — the syllable शु (*śu*) is a synonym of आशु (*āśu*) (quick), hence "those that spread swiftly". The clouds with their wind-hosts, whose nature is to spread swiftly everywhere, are called श्वापयः (*śvāpayaḥ*).
+
+(6) गृहमेधाः (*gṛhamedhāḥ*) — those worthy of worship in houses. The clouds accompanied by wind-deities, worshipped in houses and the like, are called गृहमेधाः (*gṛhamedhāḥ*).
+
+(7) अशिमिविद्विषः (*aśimividviṣaḥ*) — the commentary explains शिमि (*śimi*) as work such as ploughing, and the winds that are favourable to ploughing and the like are meant. The clouds accompanied by wind-hosts that help to pour rain at the proper seasons, favourably to agriculture such as tilling, are called अशिमिविद्विषः (*aśimividviṣaḥ*).
+
+Since it is said that Parjanya, or the clouds, are of the seven kinds stated above, सप्तरश्मि (*saptaraśmi*) here means that Indra pours rain by seven kinds of clouds.
+
+यः अवासृजत् सर्तवे सप्त सिंधून् (*yaḥ avāsṛjat sartave sapta siṃdhūn*) — Indra, having poured rain with the seven kinds of clouds, after those waters fell on the earth, made the seven chief rivers, the Gaṅgā, Yamunā and the others, flow in streams. The expression सप्त सिंधून् (*sapta siṃdhūn*) here need not be understood as exactly seven rivers; they are only the chief rivers. The main sense is that he made the water fallen on the earth flow in the rivers and in other regions.
+
+यः रौहिणं अस्फुरत् वज्रबाहुः द्यां आरोहंतं (*yaḥ rauhiṇaṃ asphurat vajrabāhuḥ dyāṃ ārohaṃtaṃ*) — it is said that Indra killed with the thunderbolt the asura named Rauhiṇa as he was climbing to heaven. The same matter is stated also in:
+
+अहस्य हिमभिनदौ हिणं व्यहन्वंसं मघवा शचीभिः । (*ahasya himabhinadau hiṇaṃ vyahanvaṃsaṃ maghavā śacībhiḥ |*)
+
+(Ṛ. Saṃ. 1-103-2)
+
+### Printed p. 677
+
+*Running head: [ಅ. ೨. ಅ. ೬. ವ. ೯] ಋಗ್ವೇದಸಂಹಿತಾ 677]*
+
+The Ṛk above says so too. In the Ṛgveda the name of the asura Rauhiṇa is mentioned only in these two places and nowhere else. Therefore nothing more can be said about this Rauhiṇa. Besides, since the word रौहिण (*rauhiṇa*) is also read among the names of cloud (Ni. 2-21), the meaning can also be given that Indra struck the cloud with the thunderbolt and produced rain.
+
+In the same way, since the word शंबर (*śaṃbara*) too is read among the names of cloud, the slaying of Śambara may be understood, in the respective contexts, as the striking of the cloud: another kind of meaning.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> द्यावा॑ चिदस्मै पृथि॒वी न॑मेते॒ शुष्मा॑च्चिदस्य॒ पर्व॑ता भयंते ।
+> यः सो॑म॒पा नि॑चि॒तो वज्र॑बाहु॒र्यो वज्र॑हस्तः॒ स ज॑नास॒ इंद्रः॑
+
+**॥ पदपाठः ॥**
+
+> द्यावा । चित् । अस्मै । पृथिवी इति । नमेते इति । शुष्मात् । चित् । अस्यॆ । पर्वताः ।
+> भयंते ।
+> यः । सोमपाः । निचितः । वज्रबाहुः । यः । वज्रहस्तः । सः । जनासः । इंद्रः
+> ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्मा इंद्राय द्यावा पृथिवी ॥ इतरेतरापेक्षया द्विवचनं प्र मित्रयो-
+> र्वरुणयोः । ७_६६_१ । इतिवत् ॥ नमेते । स्वयमेव प्रह्वीभवतः ॥ णमु प्रह्वत्वे।
+> कर्मकर्तरि न दुहस्सुनमां यक्चिणाविति यकः प्रतिषेधः ॥ चिदपि च अस्येंद्रस्य
+> शुष्माद्बलात्पर्वता भयंते । बिभ्यति । यः सोमपाः सोमस्य पाता निचितः सर्वैः ।
+> यद्वा अन्येभ्योऽपि देवेभ्यो दृढांगः । वज्रबाहुर्वज्रसदृशबाहुः । यश्च वज्र-
+> हस्तो वज्रयुक्तः स इंद्र इत्यादि प्रसिद्धं ॥
+
+*Gist:* Heaven and earth bow of themselves to Indra; mountains fear his might; he is the Soma-drinker, firm of body, with arms like the thunderbolt and the thunderbolt in his hand.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. अस्मै (*asmai*) — to this Indra. द्यावापृथिवी (*dyāvāpṛthivī*) — heaven and earth both. नमेते (*namete*) — bow in humility. चित् (*cit*) — and. अस्य (*asya*) — of this Indra. शुष्मात् चित् (*śuṣmāt cit*) — by (his) might alone. पर्वताः (*parvatāḥ*) — the mountains. भयंते (*bhayaṃte*) — are afraid. यः (*yaḥ*) — who. सोमपाः (*somapāḥ*) —
+
+### Printed p. 678
+
+*Running head: [678 ಸಾಯಣಭಾವ್ಯಸಹಿತಾ[ ಮಂ. ೨ ಅ. ೨. ಸೂ. ೧೨.]*
+
+drinker of the Soma juice, निचितः (*nicitaḥ*) — firm of body, वज्रबाहुः (*vajrabāhuḥ*) — having arms equal to the thunderbolt. यः (*yaḥ*) — who. वज्रहस्तः (*vajrahastaḥ*) — holds the thunderbolt in his hand. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+To this Indra heaven and earth both bow in humility; and by this Indra's might alone the mountains are afraid. He who is a drinker of the Soma juice, firm of body, and has arms equal to the thunderbolt, he who holds the thunderbolt in his hand, he is Indra.
+
+**Printed English translation**
+
+He, to whom heaven and earth bow down; he, at whose might the mountains are appalled; he, who is the drinker of the Soma juice, the firm(of frame), the adamant-armed, the wielder of the thunderbolt; he, men, is Indra.
+
+**Viśeṣaviṣayagaḷu**
+
+In this Ṛk Indra's great power and ability are stated. Heaven and earth bow to Indra; the mountains (or clouds) are afraid on seeing Indra's strength: thus the sage describes Indra's surpassing might.
+
+पर्वताः (*parvatāḥ*) — mountains or clouds. Since the word पर्वत (*parvata*) is read among the names of cloud, two kinds of meaning, clouds and mountains, may be given here.
+
+सोमपाः (*somapāḥ*) — we have already explained Indra's Soma-drinking at length earlier. It has been said much that among the Soma-drinking deities Indra is the foremost, and that Indra has great fondness for Soma-drinking. For the Soma-drinking Indra is invited more than all the other deities.
+
+वज्रबाहुः वज्रहस्तः (*vajrabāhuḥ vajrahastaḥ*) — these two words have one meaning. Because they occur thus in one sentence, the commentators have explained वज्रबाहुः (*vajrabāhuḥ*) as one having arms like the thunderbolt, that is, hard as the thunderbolt (of exceeding arm-strength), and वज्रहस्तः (*vajrahastaḥ*) as one who bears the thunderbolt in his hand.
+
 ---
 
-**Progress note:** Done through printed p. 675 (PDF 675). Sukta 12 Rik 11 special topics, Rik 12
+**Progress note:** Done through printed p. 678 (PDF 678). Sukta 12 Rik 12 special topics (cont.), Rik 13
