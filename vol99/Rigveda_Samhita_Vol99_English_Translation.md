@@ -1984,6 +1984,96 @@ This sūkta जोहूत्रः (जोहूत्रः (*johūtraḥ*)) 
 
 *(The supplied text ends the page with a stray footer "[36] Vol. 14".)*
 
+### Printed p. 562
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 10, p. 562.*
+
+## Sūkta 10 (Maṇḍala 2)
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 10. Maṇḍala 2, Anuvāka 1, Sūkta 10. Aṣṭaka 2, Adhyāya 6, Varga 2. Number of ṛks in the sūkta: 6. Seer: Gṛtsamada. Deity: Agni. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> जो॒हूत्रो॑ अ॒ग्निः प्र॑थ॒मः पि॒तेवे॒ळस्प॒दे मनु॑षा॒ यत्समि॑द्धः।
+> श्रियं॒ वसा॑नो अ॒मृतो॒ विचे॑ता मर्मृ॒जेन्यः॑ श्रव॒स्य१॒१:॑ स वा॒जी ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> जोहूत्रः । अग्निः । प्रथमः । पिता इव । इळॆः । पदे । मनुषा । यत् । संइद्धः ।
+> श्रियं । वसानः । अमृतः । विचेताः । मर्मृजेन्यः । श्रवस्यः । सः । वाजी ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> जोहूत्रः सर्वैर्यज्ञार्थं ह्वातव्यो होतव्यो वा ॥ हूयतेर्जुहो-
+> तेर्वा रूपं ॥ तादृशः प्रथमः । अग्निर्वै देवानामवम इत्याम्नानात् । मुख्यो
+> यो अग्नि । यत् यदेळॆ इळायाः पद उत्तरवेद्यात्मके स्थाने मनुषा मनुष्येण
+> यजमानेन समिद्धः सोऽग्निः पितेव देवानां हविष्प्रापणेन पालको भवति । श्रियं
+> दीप्तिं वसान आच्छादयन् अमृतो मरणधर्मरहितो विचेता विविधप्रज्ञः श्रवस्यः ।
+> श्रव इत्यन्ननाम । तस्मै हितः । वाजी बलवान् । सोऽग्निर्मर्मृजेन्यः सर्वैः
+> परिचरणीयो भवति ॥ यण्णु गंतात्केन्य प्रत्ययः ॥
+
+> *johūtraḥ sarvairyajñārthaṃ hvātavyo hotavyo vā ‖ hūyaterjuho-*
+> *tervā rūpaṃ ‖ tādṛśaḥ prathamaḥ | agnirvai devānāmavama ityāmnānāt | mukhyo*
+> *yo agni | yat yadeḷè iḷāyāḥ pada uttaravedyātmake sthāne manuṣā manuṣyeṇa*
+> *yajamānena samiddhaḥ so 'gniḥ piteva devānāṃ haviṣprāpaṇena pālako bhavati | śriyaṃ*
+> *dīptiṃ vasāna ācchādayan amṛto maraṇadharmarahito vicetā vividhaprajñaḥ śravasyaḥ |*
+> *śrava ityannanāma | tasmai hitaḥ | vājī balavān | so 'gnirmarmṛjenyaḥ sarvaiḥ*
+> *paricaraṇīyo bhavati ‖ yaṇṇu gaṃtātkenya pratyayaḥ ‖*
+
+*Gist:* Agni, invoked or offered to by all, is first among the gods; kindled by the sacrificer on the northern altar he becomes like a father to the gods, immortal, wise, food-giving and strong, to be served by all. The grammatical tail (a kenya-suffix formation for मर्मृजेन्यः (*marmṛjenyaḥ*)) is not explained here.
+
+### Printed p. 563
+
+*Running head: Ṛgveda-saṃhitā, Maṇḍala 2, Aṣṭaka 2, Adhyāya 6, Varga 2, p. 563.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जोहूत्रः (*johūtraḥ*)—the one called by all, or worshipped. प्रथमः (*prathamaḥ*)—chief (among all the gods). अग्निः (*agniḥ*)—Agni. यत् (*yat*)—when. इळः (*iḷaḥ*)—of the earth. पदे (*pade*)—in the place that is the northern altar. मनुषा (*manuṣā*)—by man. समिद्धः (*samiddhaḥ*)—when he is kindled (then). पितेव (*piteva*)—he becomes like a father, the protector (of the gods, by carrying the oblation to them). श्रियं (*śriyaṃ*)—splendour. वसानः (*vasānaḥ*)—the one who wears. अमृतः (*amṛtaḥ*)—free from the nature of death. विचेताः (*vicetāḥ*)—possessed of manifold understanding. श्रवस्यः (*śravasyaḥ*)—the giver of food. वाजी (*vājī*)—mighty. सः (*saḥ*)—that Agni. मर्मजेन्यः (*marmajenyaḥ*) (as supplied; the Saṃhitā and Pada read मर्मृजेन्यः (*marmṛjenyaḥ*))—is the one to be worshipped by all.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, who is called by all for help and is chief among all the gods, when he is kindled by man on the northern altar, the place of the earth, becomes like a father, the protector of the gods, because he carries the oblation to them. Agni, who wears splendour, is free from the nature of death, has manifold understanding, gives food and is mighty, is the one to be worshipped by all.
+
+**Printed English translation**
+
+The adorable Agni, the first(of the gods), and their nourisher when kindled by man upon the altar; he who is clothed in radiance, is immortal, discriminating, food-bestowing, powerful; he is to be worshipped.
+
+**Viśeṣaviṣayagaḷu**
+
+जोहूत्रः (*johūtraḥ*)—This word may be formed either from the root ह्वयति (*hvayati*) meaning "to call" or from the root जुहोति (*juhoti*) meaning "to offer in the fire". For this word the bhāṣya says सर्वैर्यज्ञार्थं ह्वातव्यो होतव्यो वा (*sarvairyajñārthaṃ hvātavyo hotavyo vā*): that is, one who is to be called by all for the sacrifice, or one to whom offerings are to be made. The sense is that at the sacrifice all the sacrificers invite and call Agni, and make offerings in Agni, directed to Agni and the other gods.
+
+प्रथम: (*prathama:*) (as supplied)—Of the word प्रथम (*prathama*) Yāska says प्रथमः इति मुख्यनाम प्रतमो भवति (*prathamaḥ iti mukhyanāma pratamo bhavati*): the word means "chief"; or the explanation given is प्रथमः-प्रकृष्टतमः (*prathamaḥ-prakṛṣṭatamaḥ*), the most excellent (Ni. 2-22). In the present Ṛk प्रथमः (*prathamaḥ*) means that Agni is the chief or most excellent among the gods.
+
+### Printed p. 564
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 10, p. 564.*
+
+To support this matter the Aitareya Brāhmaṇa passage अग्निर्वै देवानामवमो विष्णुः परमः (*agnirvai devānāmavamo viṣṇuḥ paramaḥ*) (Ai. Brā. 1-1) is cited; that is, in the list of the gods Agni is the first and Viṣṇu the last. Besides, there is the Taittirīya Brāhmaṇa passage अग्निरग्रे प्रथमो देवतानां । संयातानामुत्तमो विष्णुरासीत् (*agniragre prathamo devatānāṃ | saṃyātānāmuttamo viṣṇurāsīt*) (Tai. Brā. 2-4-3-3): among all the gods the first place belongs to Agni and the last place to Viṣṇu.
+
+इळस्पदे (*iḷaspade*)—यत् यदेळ इळायाः पद उत्तरवेद्यात्मके स्थाने (*yat yadeḷa iḷāyāḥ pada uttaravedyātmake sthāne*). The word इळा (*iḷā*) is read among the names of the earth (Ni. 2-5), among the names of speech (Ni. 2-23; as supplied "vājñāmagaḷu"), among the names of food (Ni. 3-9 as printed "3.9") and among the names of cows (Ni. 3-9). Also the etymology इळा ईट्टेःस्तुतिकर्मणः (*iḷā īṭṭeḥstutikarmaṇaḥ*) (as supplied) is given (Ni. 11-48): the word इळा (*iḷā*) is formed from the root ईट्टे (*īṭṭe*) (as supplied) meaning "to praise". Ordinarily the word इळा (*iḷā*) in इळस्पदे (*iḷaspade*) denotes the earth. इळस्पदे (*iḷaspade*) means the northern altar, the navel-place of the earth. On such a northern altar Agni is मनुषा समिद्धः (*manuṣā samiddhaḥ*), kindled and blazing, lit by a human sacrificer. The same sense is made plain in the verse
+
+इळस्पदे समिध्यसे स नो वसून्याभर (*iḷaspade samidhyase sa no vasūnyābhara*) (Ṛ. Saṃ. 10-191-1; as printed "ಋ ಸಂ.")
+
+(the Kannada text calls it "mukku", apparently a misprint for ऋक्कु (*ṛkku*)).
+
+विचेताः (*vicetāḥ*) (as supplied विचेता: (*vicetā:*))—विविधप्रज्ञः (*vividhaprajñaḥ*): one with manifold understanding, that is, the all-knowing.
+
+मर्मृजेन्यः (*marmṛjenyaḥ*)—सर्वैः परिचरणीयः (*sarvaiḥ paricaraṇīyaḥ*): to be served by all, that is, by the sacrificer, the officiating priests and all others.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> शू॒या अ॒ग्निश्चि॒त्रभा॑नु॒र्हवं॑ मे॒ विश्वा॑भिर्गी॒र्भिर॒मृतो॒ विचे॑ताः ।
+> श्या॒वा रथं॑ वहतो॒ रोहि॑ता वो॒तारु॒षाह॑ चक्रे॒ विभृ॑त्रः ॥ २ ॥
+
+> *śūyā agniścitrabhānurhavaṃ me viśvābhirgīrbhiramṛto vicetāḥ |*
+> *śyāvā rathaṃ vahato rohitā votāruṣāha cakre vibhṛtraḥ ‖ 2 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 561 (PDF 561). Sukta 9 Rik 5 special topics, Rik 6 complete; Sukta 10 introduction
+**Progress note:** Done through printed p. 564 (PDF 564). Sukta 10 begins: Rik 1 complete through Special Topics start (p. 564), Rik 2 Samhita; DIFF on Rik 1 line (printed pluta 1: after accent script) and Rik 2
