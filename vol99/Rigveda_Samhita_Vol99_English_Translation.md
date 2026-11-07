@@ -5741,6 +5741,55 @@ In this Ṛk the qualities of Indra are described: the functions that the priest
 
 Householders, the sacrificers who divide among their offspring such as sons the nourishing wealth given by you, as one shares out wealth sufficient for a guest who comes to the house and fit to support many people, dwell happily in their respective houses. Doing works such as the building of dams
 
+### Printed p. 694
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 694.*
+
+performing works, the world eats, with the help of its teeth, the water given by the protecting world of the gods and the food created from it. You who have caused all these acts to be done, such a one you are, very specially worthy of praise.
+
+**Printed English**
+
+Distributing nourishment to their progeny, they,(the householders), abide(in their dwellings), as if offering ample and sustaining wealth to a guest: constructing(useful works, a man) eats with his teeth the food(given him) by(his) protector, and as he, who has enjoined these(things to be done), you,(Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+It is not clear what subject the Ṛṣi describes in this Ṛk. The commentator has fitted together one kind of meaning, but since the sense of some words is not clear, it cannot be said that the Ṛṣi's intention is just so.
+
+प्रजाभ्यः पुष्टिं विभजंतः आसते (*prajābhyaḥ puṣṭiṃ vibhajaṃtaḥ āsate*) — The commentator's Sanskrit (हे इंद्र त्वया दत्तं पोषकं धनं (*he iṃdra tvayā dattaṃ poṣakaṃ dhanaṃ*) …, the bhāṣya passage continuing to गृहमेधिन (*gṛhamedhina*) आसते (*āsate*)) is followed in the Kannada by the explanation: "O Indra, the householders dwell, dividing the wealth you gave among their own offspring, saying 'this much to you, this much to you'." The householders, the masters of houses, divide the wealth you gave among those who depend on them, saying "this is for you, that is for him", and dwell happily in their respective houses. Wealth here may mean property, or food and the like. For the word पुष्टिं (*puṣṭiṃ*) indicates the sense of food and the like that produce nourishment in the body. The main intention is that the householders do not enjoy by themselves alone the things given by Indra, but divide them according to each one's need among their wives, sons, servants and the others who depend on them, enjoy a small part themselves, and live happily in their houses.
+
+रयिमिव पृष्ठं प्रभवंतं आयते (*rayimiva pṛṣṭhaṃ prabhavaṃtaṃ āyate*) — In the sentence above an illustration has been given here about the householders' dividing of wealth. The commentator explains it in Sanskrit as: as they divide and give to a guest who comes to the house sufficient wealth, able to support many. That is, as the householders of a house receive a guest or visitor who has come to their house, honour him according to rule, and give him with a religious mind the food and wealth he needs, so, the illustration says, they divide among their dependants the wealth given by Indra. This illustration is not very meaningful.
+
+### Printed p. 695
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 10] Ṛgveda-saṃhitā; p. 695.*
+
+असिन्वन् दंष्ट्रैः पितुः अत्ति भोजनं (*asinvan daṃṣṭraiḥ pituḥ atti bhojanaṃ*) — The meaning that the commentator has given for this sentence is not suited to the context and is contrary to Yāska's explanation. The commentator's Sanskrit says, in substance: the world, doing works such as dam-building, eats with its teeth the water that has come from the protecting heaven, and the plants that come from it; or the fire, not being engaged, eats with its tooth-like flames the food in the form of oblation belonging to the sacrificer who protects it. That is to say, the world, or the people of the world, doing works such as the building of bridges, eat with their teeth the food in the form of water, falling as rain from the protecting atmosphere (heaven), or the food that arises from that water, the plants (grain produced from trees and plants); or the fire, friendly to the sacrificer, eats, that is, burns, with its flames, which are like teeth, the oblation-food that the sacrificer offers in it. Two kinds of meaning have been given.
+
+A little examination of these sentence-meanings is necessary. Here the commentator's explanation of the word असिन्वन् (*asinvan*) as "doing works such as dam-building", that is, building bridges and the like, does not help the sense indicated in this sentence. Though the people of the world eat rain-water or the food produced from it, there is no connection at all between building bridges and eating food. Therefore Yāska, rejecting the meaning "works such as dam-building" for the word असिन्वन् (*asinvan*), quotes a Ṛk in which the same word is used (Ṛk 10-79-1, as supplied "Pu. Saṃ. 10-79-1"), and gives for the word असिन्वती (*asinvatī*) in it the etymology असिन्वती असंखादंत्यौ (*asinvatī asaṃkhādaṃtyau*) (Nirukta 6-4). Durgācārya explains in his commentary that असंखादंत्यौ (*asaṃkhādaṃtyau*) means "eating as if not crushing well", that is, eating without chewing well. If the same meaning is given to the word असिन्वन् (*asinvan*) in the present Ṛk, the sentence असिन्वन् दंष्ट्रैः पितुः अत्ति (*asinvan daṃṣṭraiḥ pituḥ atti*) comes to mean that the people of the world eat hurriedly, without chewing well with the teeth (because they are hungry), the rain-water obtained from the protecting atmosphere, or the food produced from it [the supplied text reads नृष्युदक (*nṛṣyudaka*) here, probably for वृष्ट्युदक (*vṛṣṭyudaka*); reported, not changed]. This meaning appears to be the proper one. Sāyaṇa himself, in his commentary on the Ṛk quoted above as an illustration, has given for the word असिन्वती (*asinvatī*) the same meaning, असंखादंत्यौ (*asaṃkhādaṃtyau*), following Yāska's etymology. Why only here he has given the word असिन्वन् (*asinvan*) an unnecessary or unclear meaning is not known. In the meaning referring to Agni also, Yāska's
+
+### Printed p. 696
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 696.*
+
+explanation alone fits properly. For in the illustrating Ṛk this word is used with reference to Agni. And in the Ṛk (as supplied, "Ma. Saṃ. 10-79-2") that begins गुहा शिरो निहितमृधगक्षी (*guhā śiro nihitamṛdhagakṣī*) also, the commentator has explained the word असिन्वन् (*asinvan*) as असिन्वन् दंतैरसंखादजिह्वया (*asinvan daṃtairasaṃkhādajihvayā*). Here too the meaning refers to Agni: when Agni burns the oblation or the forests, it does not chew slowly with its teeth (flames) but spreads quickly and eats, that is, burns; the word असिन्वन् (*asinvan*) seems to be used in this sense. Therefore the meaning referring to Agni that the commentator has given in the present Ṛk may be the Ṛṣi's intention. Moreover, though the word असिन्वन् (*asinvan*) is used in the Ṛks Ṛ. Saṃ. 7-39-6 and 8-45-38, there the commentator has explained the sense taking the word to be formed from a root meaning "to throw" (असु-क्षेपणे (*asu-kṣepaṇe*)).
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अधा॑कृणोः पृथि॒वीं सं॒दृशे॑ दि॒वे यो धौ॑ती॒नाम॑हिह॒न्नारि॑णक्प्॒रथः ।
+> तं त्वा॒ स्तोमे॑भिरु॒दभि॒र्न वा॒जिनं॑ दे॒वं दे॒वा अ॑जन॒न्तास्यु॒क्थः॑ ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> अध । अकृणोः । पृथिवीं । संदृशे । दिवे । यः । धौतीनां । अहिहन् । अरिणक् । पथः ।
+> तं । त्वा । स्तोमेभिः । उदभिः । न । वाजिनं । देवं । देवाः । अजनन् । सः । असि ।
+> उक्त्यः ॥ ५ ॥
+
+> *adha | akṛṇoḥ | pṛthivīṃ | saṃdṛśe | dive | yaḥ | dhautīnāṃ | ahihan | ariṇak | pathaḥ |*
+> *taṃ | tvā | stomebhiḥ | udabhiḥ | na | vājinaṃ | devaṃ | devāḥ | ajanan | saḥ | asi |*
+> *uktyaḥ ‖ 5 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 693 (PDF 693). Sukta 13 Rik 3 Special Topics; Rik 4 Samhita, Pada, bhashya, Pratipadartha, Bhavartha start
+**Progress note:** Done through printed p. 696 (PDF 696). Sukta 13 Rik 4 Bhavartha end, Special Topics; Rik 5 Samhita, Pada
