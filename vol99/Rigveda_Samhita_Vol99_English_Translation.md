@@ -7760,6 +7760,30 @@ it need not be said that Indra conveyed only sages. It may be said that he conve
 
 Gist: Indra turned the river Sindhu, flowing east, to face north by his greatness; he crushed Ushas's cart with his thunderbolt and, with swift forces, scattered the slow, weak ones. The commentary adds grammatical remarks on the root व्रश्च (*vraśca*), not explained here.
 
+### Printed p. 766
+
+*Running head: [Maṃ. 2, A. 2, Sū. 15] Sāyaṇabhāṣyasahitā; p. 766.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+He, Indra; the river Sindhu (that was flowing eastwards) by his greatness turned so that it flows northwards (*udañcam*, "northward"); of Ushas, the goddess of dawn, the weak (*ajavasaḥ*) armies, with his swift (*javinībhiḥ*) forces, scattering and destroying them completely (*vivṛścan*); her cart (*anaḥ*) with his thunderbolt he ground to pieces (*saṃ pipeṣa*); in the exhilaration produced by drinking Soma; these great deeds; Indra; did.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra, by his greatness, made the river that was flowing eastwards flow northwards. Scattering and destroying completely the weak armies of the goddess Ushas with his own swift forces, he ground her cart to pieces with his thunderbolt. Indra did these great deeds when he was exhilarated by drinking Soma.
+
+**Printed English**
+
+By his great power he turned the Sindhu towards the north; with his thunderbolt he ground to pieces the waggon of the dawn, scattering the tardy enemy with his swift forces, in the exhilaration of the Soma, Indra has done these(deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सः उदंचं सिंधुं अरिणात् महित्वा (*saḥ udaṃcaṃ siṃdhuṃ ariṇāt mahitvā*): the Sanskrit gloss given here is स इंद्रः सिंधुं प्रांचं संतं महित्वा (*sa iṃdraḥ siṃdhuṃ prāṃcaṃ saṃtaṃ mahitvā*) followed by स्वकीयेन महिन्नोदंचमरिणात् उदज्मुखमकरोत् (*svakīyena mahinnodaṃcamariṇāt udajmukhamakarot*). The text says here that Indra, by his greatness, turned a river that was flowing towards the east so that it flows towards the north. It is not clear whether the word सिंधुं (*siṃdhuṃ*) here means any river in general or the famous river called Sindhu. Since the Sindhu does not flow either towards the east or towards the north, some other river must be meant; it is not possible to say which. Because this same matter is indicated in Ṛg-veda Saṃhitā 4-30-11, the river may perhaps be the Vipāśī, as said there. Or, because the river Sindhu is mentioned in Ṛg-veda Saṃhitā 4-30-12, it may be the Sindhu after all.
+
+वज्रेण अनः उषसः संपिपेष (*vajreṇa anaḥ uṣasaḥ saṃpipeṣa*): Indra crushed, that is, ground to powder, with his thunderbolt the cart or chariot of the goddess Ushas. This matter—
+
+(The page ends here, mid-sentence; the continuation, from p. 767 onwards, belongs to a part that is already done elsewhere.)
+
 ---
 
-**Progress note:** Done through printed p. 765 (PDF 765). Sukta 15 Rk 5 Pada to Special Topics, Rk 6 Samhita/Pada/bhashya
+**Progress note:** Done through printed p. 766 (PDF 766). p. 766 Rk 6 Pratipadartha to Special Topics (page ends mid-sentence; continuation in other part)
