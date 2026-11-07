@@ -6628,6 +6628,94 @@ Priests, offer the libation to him who slew the rain-arresting Vritra, as(he str
 
 (Note on readings: the Saṃhitā has वव्रिवांसं (*vavrivāṃsaṃ*) while the Pada, the bhāṣya and the Pratipadārtha have वन्विवांसं (*vanvivāṃsaṃ*); the Pada has तत्र्वशाय (*tatrvaśāya*) where the Saṃhitā and the Pratipadārtha have तद्वशाय (*tadvaśāya*); the bhāṣya reads इंद्राय्यतं (*iṃdrāyyataṃ*); all as supplied. The Saṃhitā line of this Ṛk is printed in the supplied text without the Ṛk number, which the Pada carries.)
 
+### Printed p. 727
+
+*Running head: Ṛgveda-saṃhitā; Aṣṭaka 2, Adhyāya 6, Varga 13; p. 727.*
+
+**Special Topics** (continued)
+
+वृत्रं (*vṛtraṃ*)—The word वृत्र (*vṛtra*) is read among the names of cloud (Ni. 2-21). Explaining the word वृत्र (*vṛtra*), Yāska says:
+
+तत्को वृत्रः । मेघ इति नैरुक्ताः । त्वाष्टोऽसुर इत्यैतिहासिकाः । अपां च ज्योतिषश्च मिश्रीभावकर्मणो वर्षकर्म जायते । तत्रोपमार्थेन युद्धवर्णा भवंति । (*tatko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭo 'sura ityaitihāsikāḥ | apāṃ ca jyotiṣaśca miśrībhāvakarmaṇo varṣakarma jāyate | tatropamārthena yuddhavarṇā bhavaṃti |*) (Ni. 2-16)
+
+This is the explanation he gives. That is: having asked "Who is Vṛtra?", he answers, and indicates the difference of opinion: the etymologists (Nairuktas) say that it is the cloud; the narrators of ancient history (Aitihāsikas) say that it is the demon Vṛtra, son of Tvaṣṭṛ Prajāpati. From the mixing of the sun's rays and the water of the ocean, that is, when the sun's rays fall upon the ocean, the act of raining arises as its effect. This very rain (a heavy downpour accompanied by lightning, flashes and thunder) is described by comparison with a battle. That is, when the clouds in the atmosphere, or the demon Vṛtra, hold back the rain from falling on the earth, Indra strikes them with his thunderbolt (lightning) and makes the rain fall. They have expressed their view that the battle between Indra and Vṛtra means just this description.
+
+The commentator says: वृणोत्याकाशमिति वृत्रो मेघः । वृणोतेराच्छादनार्थात् (*vṛṇotyākāśamiti vṛtro meghaḥ | vṛṇoterācchādanārthāt*) (स्वादि परस्मैपदि (*svādi parasmaipadi*)). That is, because it remains covering the sky, Vṛtra means the cloud; this is the explanation of the meaning. Further, आच्छादयति ह्यसौ कृत्सं नभः (*ācchādayati hyasau kṛtsaṃ nabhaḥ*)—because it covers the whole region of the atmosphere and makes darkness spread, Vṛtra means the cloud; or गच्छत्यसौ कृत्सं नभः (*gacchatyasau kṛtsaṃ nabhaḥ*)—because it moves about in the sky, Vṛtra means the cloud; or वर्धतेर्वा वृद्ध्यर्थात् (*vardhatervā vṛddhyarthāt*) (भू. अ. (*bhū. a.*)) बाहुलकात् त्रन्, धकारस्य तकारो व्यत्ययेन, वर्धते हि वर्षासु मेघः (*bāhulakāt tran, dhakārasya takāro vyatyayena, vardhate hi varṣāsu meghaḥ*)—that is, because it grows in the rainy season, Vṛtra means the cloud. In this sense it should be understood that the word वृत्र (*vṛtra*) is formed from the root वृथ् (*vṛth*) [as printed], and that the त (*ta*) has arisen by variation in place of the ध (*dha*). How these meanings have support in the Vedas themselves:
+
+(1) यदिमाल्लोकानवृणोत्तद्वत्रस्य वृत्रत्वं स इषुमात्रमिषुमात्रं विष्टज् अवर्धत (*yadimāllokānavṛṇottadvatrasya vṛtratvaṃ sa iṣumātramiṣumātraṃ viṣṭaj avardhata*) (Tai. Saṃ.) [as printed]
+
+(2) अस्मा इदु प्र भरा तूतुजानो वृत्ताय वज्रमीशानः कियेधाः । (*asmā idu pra bharā tūtujāno vṛttāya vajramīśānaḥ kiyedhāḥ |*) (Ṛ. Saṃ. 1-61-12)
+
+(3) श्रत्ते दधामि प्रथमाय मन्यवेऽहन्यद्वत्रं नर्यं विवेरपः । (*śratte dadhāmi prathamāya manyave 'hanyadvatraṃ naryaṃ viverapaḥ |*) (Ṛ. Saṃ. 10-147-1)
+
+and so on; there are many examples.
+
+### Printed p. 728
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 14; p. 728.*
+
+अशन्येव वृक्षं (*aśanyeva vṛkṣaṃ*)—यथा अशन्या वैद्युताग्निना वृक्षं दहति तद्वत् । (*yathā aśanyā vaidyutāgninā vṛkṣaṃ dahati tadvat |*) While the rain is pouring, the lightning, called the electric fire, strikes a tall-grown tree and it is burnt up; the simile is made to the thunderbolt which Indra uses when he destroys Vṛtra.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यो दृभी॑कं ज॒घान॒ यो गा उ॒दाज॒दप॒ हि व॒लं वः ।
+> तस्मा॑ ए॒तमं॒तरि॑क्षे॒ न वात॒मिंद्रं॒ सोम्मै॒रोर्णु॑त॒ जूर्न वस्त्रैः॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । दृभीकं । जघान । यः । गाः । उत्ऽआजत् । अप । हि । वलाः [?]
+> वरिति [?] वः ।
+> तस्मै । एतं । अंतरिक्षे । न । वातं । इंद्रं । सोम्मैः । अ । ऊर्णुत । जूः । न ।
+> वस्त्रैः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवः य इंद्रो दृभीकं । सवान्विदारयति भियं करोतीति दृभी-
+> को नामासुरः । तमसुरं जघान । यश्च बलासुरेण । निरुद्धा गा उदाजत् । निरग-
+> मयत् । ततश्च तमेव बलमसुरं अपवः । अपावृणोत् । हिंसितवानित्यर्थः ॥
+> वृणोतेर्लुङ् मंत्रे घसेत्यादिना ज्लेर्लुक् । हल्ब्यदिना तिपो लोपः ॥ तस्मा
+> इंद्रायैतं सोममंतरिक्षे वातं न वात्मिव धाराभिर्वाप्तं कुरुत । तदेवाह
+> सोमैरिंद्रमा ऊर्णुत । सर्वत अच्छाधयत ॥ ऊर्णुञ् आच्छादने । आदादिकः ।
+> लोटि रूपं ॥ तत्र दृष्टांतः । जून्र जीर्णो यथा वस्त्रैरंगमाच्छादयति तद्वत्॥
+
+> *he adhvaryavaḥ ya iṃdro dṛbhīkaṃ | savānvidārayati bhiyaṃ karotīti dṛbhī-*
+> *ko nāmāsuraḥ | tamasuraṃ jaghāna | yaśca balāsureṇa | niruddhā gā udājat | niraga-*
+> *mayat | tataśca tameva balamasuraṃ apavaḥ | apāvṛṇot | hiṃsitavānityarthaḥ ‖*
+> *vṛṇoterluṅ maṃtre ghasetyādinā jlerluk | halbyadinā tipo lopaḥ ‖ tasmā*
+> *iṃdrāyaitaṃ somamaṃtarikṣe vātaṃ na vātmiva dhārābhirvāptaṃ kuruta | tadevāha*
+> *somairiṃdramā ūrṇuta | sarvata acchādhayata ‖ ūrṇuñ ācchādane | ādādikaḥ |*
+> *loṭi rūpaṃ ‖ tatra dṛṣṭāṃtaḥ | jūnra jīrṇo yathā vastrairaṃgamācchādayati tadvat‖*
+
+Gist: Adhvaryus, Indra slew Dṛbhīka, and destroyed Vala and freed the cows; cover him on all sides with Soma, as one covers the wind with streams of water in the sky, and as an old man with garments.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. यः (*yaḥ*)—the Indra who. दृभीकं (*dṛbhīkaṃ*)—the demon named Dṛbhīka. जघान (*jaghāna*)—slew (and). वलं (*valaṃ*)—the demon named Vala. अप वः (*apa vaḥ*)—destroyed.
+
+### Printed p. 729
+
+*Running head: Ṛgveda-saṃhitā; Aṣṭaka 2, Adhyāya 6, Varga 13; p. 729.*
+
+यः (*yaḥ*)—who. गाः (*gāḥ*)—the cows (held back by that demon Vala). उदाजत् (*udājat*)—released. तस्मै (*tasmai*)—to that Indra. एतं (*etaṃ*)—this Soma. अंतरिक्षे (*aṃtarikṣe*)—in the atmosphere. वातं न (*vātaṃ na*)—as one covers the wind with streams of water, fill (him). जूः (*jūḥ*)—an old man. वस्त्रैः न (*vastraiḥ na*)—as he becomes covered with garments. इंद्रं (*iṃdraṃ*)—Indra. सोमैः (*somaiḥ*)—with Soma juices. आ ऊर्णुत (*ā ūrṇuta*)—cover completely (fill).
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, Indra who slew the demon named Dṛbhīka, and who destroyed the demon named Vala and released the cows held by him: cover that Indra completely (fill him) with Soma juices, as one fills the wind in the atmosphere with streams of water, and as one makes an old man covered with garments.
+
+**Printed English translation**
+
+Priests, offer this libation, which, like the wind in the firmament,(is the cause of rain); to him who slew Drihhika, destroyed Vala, and liberated the cows; heap Indra with Soma juice, as an old man(is covered) with garments.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः दृभीकं जघान (*yaḥ dṛbhīkaṃ jaghāna*)—सर्वान् विदारयति भियं करोतीति दृभीको नामासुरः । तमसुरं जघान । (*sarvān vidārayati bhiyaṃ karotīti dṛbhīko nāmāsuraḥ | tamasuraṃ jaghāna |*) An asura named Dṛbhīka went about splitting and killing everyone and causing fear; therefore he got the name Dṛbhīka. It is said here that Indra destroyed that asura. The name of this Dṛbhīka occurs in the Ṛgveda only in this Ṛk, nowhere else. Therefore not much can be said about him.
+
+यः गाः उदाजत् अप हि वलं वः (*yaḥ gāḥ udājat apa hi valaṃ vaḥ*)—It is described here that Indra injured the asura named Vala, who had stolen the cows of the gods and hidden them, and released those cows from bondage. We have explained the matter of Vala at length in places such as Ṛ. Saṃ. 7-465, 5-232, 692; 14-634.
+
+तस्मै एतं अंतरिक्षे वातं न सोमैः ऊर्णुत जूर्न वस्त्रैः (*tasmai etaṃ aṃtarikṣe vātaṃ na somaiḥ ūrṇuta jūrna vastraiḥ*)—तस्मा इंद्रायैतं सोममंतरिक्षे वात्मिव धाराभिर्वाप्तं कुरुत । सर्वत आच्छादयत । तत्र दृष्टांतः । जूर्न जीर्णो यथा वस्त्रैरंगमाच्छादयति तद्वत् । (*tasmā iṃdrāyaitaṃ somamaṃtarikṣe vātmiva dhārābhirvāptaṃ kuruta | sarvata ācchādayata | tatra dṛṣṭāṃtaḥ | jūrna jīrṇo yathā vastrairaṃgamācchādayati tadvat |*) To that Indra, that is, to Indra possessed of the qualities described above, fill the Soma juice well, make it spread well; that is, let Indra drink the Soma juice in abundance. Here two illustrations are
+
 ---
 
-**Progress note:** Done through printed p. 726 (PDF 726). Sukta 14 Rk 1 Special Topics (Durga on Rk 1), Rk 2 complete; no figures
+**Progress note:** Done through printed p. 729 (PDF 729). Sukta 14 Rk 2 Special Topics (Vritra), Rk 3 start (Samhita/Pada from figure)
