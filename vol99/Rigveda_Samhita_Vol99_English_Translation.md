@@ -5438,6 +5438,84 @@ O Indra, you who, unassailable, give abundantly food and strength to the sacrifi
 
 Indra, you are difficult of approach; you, verily, are a true(bene-- factor), who bestow(abundant) food upon him who offers the libation, who prepares(the mixed curds and butter): may we, enjoying your favour, blessed with progeny, daily repeat(your praise) at the sacrifice.
 
+### Printed p. 682
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 12; p. 682.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk, which concludes the sūkta, the seer addresses Indra directly and prays that he give the desired things, such as food and heroic sons and grandsons. Yāska has said that mantras are of many kinds according to the sense in them. It is necessary to state this briefly here—
+
+तद्यानि नामानि प्राधान्यस्तु तीनां देवतानां तद्वैवतमित्याचक्षते । यत्काम (*tadyāni nāmāni prādhānyastu tīnāṃ devatānāṃ tadvaivatamityācakṣate | yatkāma*) ऋषिय स्यां देवतायामार्थपत्यमिच्छन्तुतिं प्रयुंक्ते तद्वैवतः स (*ṛṣiya syāṃ devatāyāmārthapatyamicchantutiṃ prayuṃkte tadvaivataḥ sa*) मंत्रो भवति । तास्त्रिविधा ऋचः परोक्षकृताः प्रत्यक्षकृता आध्यात्मिकाश्च । (*maṃtro bhavati | tāstrividhā ṛcaḥ parokṣakṛtāḥ pratyakṣakṛtā ādhyātmikāśca |*) तत्र परोक्षकृताः सर्वाभिर्नामविभक्तिभिर्युज्यंते प्रथमपुरुषैश्चाख्यातस्य । (*tatra parokṣakṛtāḥ sarvābhirnāmavibhaktibhiryujyaṃte prathamapuruṣaiścākhyātasya |*) अथ प्रत्यक्षकृता मध्यमपुरुषोपयोगास्त्वमिति चैतेन सर्वनाम्मा । (*atha pratyakṣakṛtā madhyamapuruṣopayogāstvamiti caitena sarvanāmmā |*) अथाध्यात्मिक्य उत्तमपुरुषयोगा अहमिशि चैतेन सर्वनाम्मा । परोक्ष- (*athādhyātmikya uttamapuruṣayogā ahamiśi caitena sarvanāmmā | parokṣa-*) कृताः प्रत्यक्षकृताश्च मंत्रा भूयिष्ठा अल्पश आध्यात्मिकाः ॥ (*kṛtāḥ pratyakṣakṛtāśca maṃtrā bhūyiṣṭhā alpaśa ādhyātmikāḥ ‖*) (Nirukta, Daivata-kāṇḍa 7-1 to 3)
+
+That is, among mantras there are many kinds according to sense: the deity-mantra (दैवतमंत्र (*daivatamaṃtra*)), praise (स्तुति (*stuti*)), blessing (आशीः (*āśīḥ*)), oath (शपथ (*śapatha*)), curse (अभिशाप (*abhiśāpa*)), कश्चिद्भाव (*kaścidbhāva*), lament (परिदेवना (*paridevanā*)), censure (निंदा (*niṃdā*)) and eulogy (प्रशंसा (*praśaṃsā*)). A deity-mantra is one that describes the greatness of the deities; praise is a mantra containing hymns or prayers; आशीः (*āśīḥ*) is a benediction, a mantra wishing good; शपथ (*śapatha*) is a vow; अभिशाप (*abhiśāpa*) is an ill wish; कश्चिद्भाव (*kaścidbhāva*) is the explanation of some subject or principle; परिदेवना (*paridevanā*) is grief; निंदा (*niṃdā*) is blame, reviling; प्रशंसा (*praśaṃsā*) is praise, extolling; दानस्तु (*dānastu*) and so on [as printed].
+
+Among the many kinds of mantra mentioned above, the Ṛks called deity-mantras are of three kinds: परोक्षकृत (*parokṣakṛta*), प्रत्यक्षकृत (*pratyakṣakṛta*) and आध्यात्मिक (*ādhyātmika*). परोक्षकृत (*parokṣakṛta*) means: since the deity praised is not present before the speaker, the mantras use, in speaking of that deity, third-person nominal words and verbal forms (Third person both in subject and predicate); प्रत्यक्षकृत (*pratyakṣakṛta*) means the Ṛks that praise the deity as if present before one's eyes, addressing it with second-person words such as "you" and "your" (Second person); आध्यात्मिक (*ādhyātmika*) means the mantras that praise using the first person (First person). Among these three kinds, the two kinds परोक्षकृत (*parokṣakṛta*) and प्रत्यक्षकृत (*pratyakṣakṛta*) are the more numerous; the आध्यात्मिक (*ādhyātmika*) mantras are only few. In the present sūkta the first fourteen Ṛks are परोक्षकृत (*parokṣakṛta*) mantras; the last, the fifteenth Ṛk, is प्रत्यक्षकृत (*pratyakṣakṛta*).
+
+### Printed p. 683
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 10.] Ṛgvedasaṃhitā, p. 683.*
+
+*The thirteenth sūkta.*
+
+## Sūkta 13 (Maṇḍala 2)
+
+**Introduction to the sūkta (Sanskrit, transcribed)**
+
+> ऋतुर्जनित्रीति त्रयोदशर्चं द्वितीयं सूक्तं गार्त्समदं । ऋतुः सप्तो-
+> नांत्या त्रिष्टुबित्यनुक्रमणिका । अस्मभ्यं तद्वसो इति त्रयोदशी त्रिष्टुप् । शिष्टास्त्रि-
+> ष्टु बंतपरिभाषया जगत्यः । इंद्रो देवता ॥ उक्थे तृतीयसवनेच्छावाकशस्त्रेऽस
+> सूक्तस्य विनियोगः । सूत्रितं च । ऋतुर्जनित्री नू मर्तो भवा मित्रः । आ- ६-१ ।
+> इति ॥ दशरात्रे षष्ठेऽहन्यपि तृतीयसवनेच्छावाकशस्त्र एतत्तूक्तं । ऋतुर्जनित्रीति
+> नित्यान्यैकाहिकानि । आ. ८-४ । इति सूत्रितं ॥
+
+> *ṛturjanitrīti trayodaśarcaṃ dvitīyaṃ sūktaṃ gārtsamadaṃ | ṛtuḥ sapto-*
+> *nāṃtyā triṣṭubityanukramaṇikā | asmabhyaṃ tadvaso iti trayodaśī triṣṭup | śiṣṭāstri-*
+> *ṣṭu baṃtaparibhāṣayā jagatyaḥ | iṃdro devatā ‖ ukthe tṛtīyasavanecchāvākaśastre 'sa*
+> *sūktasya viniyogaḥ | sūtritaṃ ca | ṛturjanitrī nū marto bhavā mitraḥ | ā- 6-1 |*
+> *iti ‖ daśarātre ṣaṣṭhe 'hanyapi tṛtīyasavanecchāvākaśastra etattūktaṃ | ṛturjanitrīti*
+> *nityānyaikāhikāni | ā. 8-4 | iti sūtritaṃ ‖*
+
+*Gist:* The thirteenth sūkta, ऋतुर्जनित्री (*ṛturjanitrī*), thirteen Ṛks, is the second sūkta of the second anuvāka; seer Gṛtsamada; the first twelve Ṛks are Jagatī, the last Triṣṭubh; deity Indra. It is used in the Acchāvāka's śastra at the third pressing of the Ukthya rite and on the sixth day of the Daśarātra, as prescribed in the Āśvalāyana Śrauta-sūtra (6-1; 8-4).
+
+**Anuvāda (Kannada)**
+
+Translation—This sūkta beginning ऋतुर्जनित्री (*ṛturjanitrī*) is the second sūkta in the second anuvāka. It has thirteen Ṛks. The seer of this sūkta is Gṛtsamada. Since the Anukramaṇikā says ऋतुः सप्तोनांत्या त्रिष्टुप् (*ṛtuḥ saptonāṃtyā triṣṭup*), the last Ṛk, the thirteenth, beginning अस्मभ्यं तद्वसो (*asmabhyaṃ tadvaso*), is in the Triṣṭubh metre; the remaining twelve Ṛks are in the Jagatī metre; the deity is Indra. This sūkta is applied to the śastra mantras to be recited by the priest called Acchāvāka at the third pressing in the Ukthya sacrifice, as set out in the Āśvalāyana Śrauta-sūtra by the sūtra ऋतुर्जनित्री नू मर्तो भवा मित्रः (*ṛturjanitrī nū marto bhavā mitraḥ*) (6-1); and it is set out by the sūtra ऋतुर्जनित्री नित्यानैकाहिकानि (*ṛturjanitrī nityānaikāhikāni*) (8-4) that this sūkta is to be recited among the śastra mantras recited by the Acchāvāka priest at the third pressing on the sixth day of the sacrifice called Daśarātra.
+
+### Printed p. 684
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 684.*
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 13. Maṇḍala 2, Anuvāka 2, Sūkta 13. Aṣṭaka 2, Adhyāya 6, Varga 10, 11, 12. Number of ṛks in the sūkta: 13. Seer: Gṛtsamada. Deity: Indra. Metre: 1-12 Jagatī; 13 Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒तुर्जनि॑त्री॒ तस्या॑ अ॒पस्परि॑ म॒क्षू जा॒त आवि॑श॒द्यासु॒ वर्ध॑ते ।
+> तदा॑ह॒ना अ॑भवत्प्॒युषी॒ पयों॒शोः पी॒यूषं॑ प्रथ॒मं तदु॒क्थ्यं॑
+
+**॥ पदपाठः ॥**
+
+> ऋतुः । जनित्री । तस्याः । अपः । परि । मक्षु । जातः । आ । अविशत् । यासु । वर्धते ।
+> तत् । अहनाः । अभवत् । पिप्युषी । पयः । अंशोः । पीयुषं । प्रथमं । तत् ।
+> उक्तं ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋतुर्वर्षाख्यः कालो जनित्री सोमस्य जनयित्री जननी भवति । तस्याः परि
+> तस्या जनन्याः सकाशाज्ञातः सोमोऽप उदकानि मक्षु शीघ्रमाविशत् । यास्वप्सु
+> सोमो वर्धते ता अविशदित्यन्वयः । तस्मादप्पु प्रविष्टत्वात् सोम आहना आहंत-
+> व्योऽभिषोतव्यो भवति । आहना इति सकारांतमिदं पदं । तथा च मंत्रवर्णः ।
+> ये ते मदा आहनसो विहायसः । ९-७५-५ । इति । या चांशुरूपा सोमलता
+> पयः सारभूतं पिप्युषी वर्धयंत्यभवत् ॥ प्यायतेर्लिटि क्वसौ लड्यजोश्चेति
+> पीभावः । वसोः संप्रसारणं । उगितश्चेति जिप् ॥ अंशोस्तस्याः सोमलतायाः
+> पीयूषं रसभूतं पय उक्थं प्रशस्यं हविरिंद्रस्य भवति ॥
+
+*Gist:* The season (the rainy season) is the mother of Soma; Soma, born of her, quickly entered the waters in which he grows; hence he is to be pressed. The plant's milk, the essence, is the offering for Indra.
+
 ---
 
-**Progress note:** Done through printed p. 681 (PDF 681). Sukta 12 Rik 14-15 from supplied text
+**Progress note:** Done through printed p. 684 (PDF 684). Sukta 12 Rik 15 Special Topics; Sukta 13 introduction and Rik 1 Samhita, Pada, bhashya start
