@@ -1783,6 +1783,104 @@ From such explanations the nature of the description त्रीणि जा�
 
 Here the nature of the lightning-Agni is described. Praising the power of lightning, which at one and the same time has a heart-attracting loveliness and terrifying fearsome qualities, the description is given. The fire of lightning, which appears shining and of beautiful splendour in the midst of the waters of rain in the form of waves, is exceedingly lovely as soon as it is born. At the very same time the power of that lightning, surpassing all forces, is as terrifying as a lion when it overruns the world with unchecked speed and burning. For that very reason heaven and earth both pay homage to this Agni and serve him. Then it may be that not only the lightning-fire but also the earthly fire is described with these qualities [the sentence is obscure in the supplied text]. These differences of meaning can be understood from the explanation.
 
+### Printed p. 556
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 556.*
+
+[The Special Topics of Ṛk 3 continue; the Sanskrit of the commentator's explanation, begun on the previous page, ends here.] अत्रेदमुक्तं भवति । यदा मेघोदकरूपाभिर्गोभिर्युक्तः सन्नग्निर्वैद्युतः स्वकीयमुत्पृष्टतरं तेजस्तेजःपुंजपूर्णेंतरिक्षे प्रादुर्भावयति तदा तत्सर्वमंतरिक्षं तेन तेजसा प्रमृष्टं भवति यच्च तत्स्वरूपप्रादुर्भवनं तदेव देवांतरैः सहाग्नेर्गमनं भवतीति । (*atredamuktaṃ bhavati | yadā meghodakarūpābhirgobhiryuktaḥ sannagnirvaidyutaḥ svakīyamutpṛṣṭataraṃ tejastejaḥpuṃjapūrṇeṃtarikṣe prādurbhāvayati tadā tatsarvamaṃtarikṣaṃ tena tejasā pramṛṣṭaṃ bhavati yacca tatsvarūpaprādurbhavanaṃ tadeva devāṃtaraiḥ sahāgnergamanaṃ bhavatīti |*) Its sense, as the Kannada explains: when Agni, in the form of lightning in the midst of the clouds, appears in the atmosphere with his full brightness, shining, then through the light of Agni the whole atmosphere is filled with brightness, that is, it shines exceedingly. In this way Agni, having manifested, joins the other gods: this is the sense.
+
+Both the first half and the second half of this Ṛk admit of two kinds of construction. For the first half: first, that Agni, joining with the rain-waters in the atmosphere, causes his brightness to arise in the form of lightning; and second, that in the sacrificial house, joined with praises and with soma juices, he produces his blazing splendour. Such are the senses that may be taken.
+
+In this way the idea that Agni has births in heaven, the atmosphere and the earth is explained in this Ṛk.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अग्ने॒ यज॑स्व ह॒विषा॒ यजी॑यान्भृ॒ष्टी[?] दे॒ष्णम॒भि गृ॑णीहि॒ राधः॑ ।
+> त्वं ह्यसि॑ रयि॒पती॑ रयी॒णां त्वं शु॒क्रस्य॒ वच॑सो म॒नोता॑ ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अग्ने । यजस्व । हविषा । यजीयान् । श्रुष्टी[?] । देष्णं । अभि । गृणीहि । राधः ।
+> त्वं । हि । असि । रयिऽपतिः । रयीणां । त्वं । शुक्रस्य । वचसः । मनोता ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने यजीयान् यष्टृतमस्त्वं हविषास्मद्दत्तेन यजस्व । देवान्
+> संयोजय । देष्णं देयं राधोऽन्नं श्रुष्टी ॥श्रुष्टीति क्षिप्रनाम॥क्षिप्रमभिगृणीहि ।
+
+*Gist:* Agni, the best sacrificer, is to sacrifice with our oblation and quickly announce to the gods the food (or to us the wealth) to be given.
+
+### Printed p. 557
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 557.*
+
+> देवानां पुरत इदं स्वादुतरमिदं स्वादुतरमिति ब्रूहि । यद्वा श्रुष्टी क्षिप्रकारी त्वं
+> देष्णं देयं राधो धनमभिगृणीहि । अस्मदाभिमुख्येन ब्रूहि । प्रयच्छेत्यर्थः ।
+> दानसामर्थ्यं दर्शयति । त्वं रयीणां धनानां मध्यॆ रयिपतिरुत्तमस्य धनस्य पतिरसि
+> हि । यद्वा रयीणां रयिपतिरित्यत्रैको रयिशब्दोनुवादः । त्वं शुक्रस्य दीप्तस्य
+> वचसोऽस्मदीयस्य स्तोत्रस्य मनोता प्रज्ञाता भवसि । यद्वा मानयिता ॥
+
+*Gist (continued):* he is lord of the best wealth and the knower (or honourer) of our bright praise.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agni (अग्ने (*agne*)): O Agni. Yajīyān (यजीयान् (*yajīyān*)): you, the best sacrificer. With the oblation (हविषा (*haviṣā*)): (given by us) with the oblation. Sacrifice (यजस्व (*yajasva*)): perform the sacrifice addressed to the gods. Deṣṇam (देष्णं (*deṣṇaṃ*)): that which must be offered (to the gods). Rādhaḥ (राधः (*rādhaḥ*)): the food. Śruṣṭī (श्रुष्टी (*śruṣṭī*)): quickly. Abhi gṛṇīhi (अभि गृणीहि (*abhi gṛṇīhi*)): proclaim (before them). [Or: Deṣṇam: that which must be given to us. Rādhaḥ: the wealth. Śruṣṭī: quickly. Abhi gṛṇīhi: make known to us.] You (त्वं (*tvaṃ*)): you. Rayāṇām [sic, as supplied; the Pada has रयीणां (*rayīṇāṃ*)] (रयाणां (*rayāṇāṃ*)): among riches. Rayipatiḥ (रयिपतिः (*rayipatiḥ*)): as the best lord of wealth. Asi hi (असि हि (*asi hi*)): are you not? You (त्वं (*tvaṃ*)): you. Śukrasya (शुक्रस्य (*śukrasya*)): shining. Vacasaḥ (वचसः (*vacasaḥ*)): of our hymn, the greatness. Manotā (मनोता (*manotā*)): you are the one who knows.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you, the best sacrificer, sacrifice to the gods with the oblation given by us. Quickly proclaim before them the food that must be offered to the gods. And make known to us the wealth that must be given to us. You are the best lord of wealth, and the knower of the greatness of our shining praise.
+
+**Printed English translation**
+
+Agni, you are the chief of sacrificers; worship(the gods) with the oblation, and earnestly commend to them the(sacrificial) food that is to be given(them); for you, indeed, are the sovereign lord of riches; you are the appreciator of our pious prayer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+राधः (*rādhaḥ*) (*rādhaḥ*): since the word राधः (*rādhaḥ*) is read among the twenty-eight names of wealth beginning with मघं (*maghaṃ*) रेक्णः (*rekṇaḥ*) (Ni. 3-9) [the supplied text reads परित (*parita*), "paritā", where "read" (paṭhita) would be expected; kept as supplied], राधः (*rādhaḥ*) means wealth. In this Ṛk Sāyaṇa gives the word two meanings, food and wealth.
+
+श्रुष्टी (*śruṣṭī*): quickly. Yāska's explanation is that श्रुष्टीति क्षिप्रनाम (*śruṣṭīti kṣipranāma*) ("śruṣṭī is a name for 'quick'") (Ni. 6-13).
+
+### Printed p. 558
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1 (printed "Adhyāya 1"), Sūkta 9, p. 558.*
+
+रयीणां रयिपतिः (*rayīṇāṃ rayipatiḥ*): it means lord of wealth. Since the word रयिपतिः (*rayipatiḥ*) already means lord of wealth, the word रयीणां (*rayīṇāṃ*) is a mere repetition. Yet such repetitive usages are found here and there in the Ṛgveda, for example गणानां त्वा गणपतिं (*gaṇānāṃ tvā gaṇapatiṃ*), वसोरिंद्रं वसुपतिं (*vasoriṃdraṃ vasupatiṃ*), and so on.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> उ॒भयं॑ ते॒ न क्षी॑यते वस॒व्यं॑ दि॒वेदि॑वे॒ जाय॑मानस्य दस्म ।
+> कृ॒धि क्षु॒मंतं॑ जरि॒तार॑मग्ने कृ॒धि पतिं॑ स्वप॒त्यस्य॑ रा॒यः ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> उभयं । ते । न । क्षीयते । वसव्यं । दिनेदिवे । जायमानस्य । दस्म ।
+> कृधि । क्षुमंतं । जरितारं । अग्ने । कृधि । पतिं । सुअपत्यस्य । रायः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> दस्म दर्शनीय हे अग्ने दिवेदिवे प्रतिदिनमग्निहोत्रकाले जायमानस्य ते
+> तवोभयं वसव्यं दिव्यं भौमं च वसु ॥ वस्वादित्वात्स्वार्थिको यत्पत्ययः । पा-
+> ५. ४. ३०. ४ ॥ तादृशमुभयं वसु न क्षीयते । न हीयते । अस्योभयविधधन-
+> सद्भावे मंत्रवर्णः त्वं ह्यग्ने दिव्यस्य राजसि त्वं पार्थिवस्यॆत्यत्रोक्तः । अतस्त्वं
+> जरितारं तव स्तोत्रं कुर्वाणमिमं यजमानं क्षुमंतमन्नवंतं कीर्तिमंतं ना
+> कृधि । कुरु । किंच स्वपत्यस्य शोभनापत्ययुक्तस्य रायो धनस्य पतिं स्वामिनं कुरु ॥
+
+*Gist:* Both treasures of Agni, divine and earthly, never fail; so make the praiser rich in food and renown, and lord of wealth with fine offspring.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Dasma (दस्म (*dasma*)): O one of beautiful form. Agni (अग्ने (*agne*)): O Agni. Dive-dive (दिवेदिवे (*divedive*)): every day. Jāyamānasya (जायमानस्य (*jāyamānasya*)): of you who are born. Te (ते (*te*)): your. Ubhayaṃ vasavyam (उभयं वसव्यं (*ubhayaṃ vasavyaṃ*)): the two dwelling-places in the form of heaven and earth, both. Na kṣiyate (न क्षियते (*na kṣiyate*)) [the Saṃhitā and Pada have क्षीयते (*kṣīyate*)]: are without destruction. Jaritāram (जरितारं (*jaritāraṃ*)): the sacrificer who praises you. Kṣumantam (क्षुमंतं (*kṣumaṃtaṃ*)): as one possessing food. Kṛdhi (कृधि (*kṛdhi*)): make. Svapatyasya (स्वपत्यस्य (*svapatyasya*)): joined with excellent offspring. Rāyaḥ (रायः (*rāyaḥ*)): of wealth. Patiṃ kṛdhi (पतिं कृधि (*patiṃ kṛdhi*)): make also the lord.
+
+**भावार्थ (Bhāvārtha)**
+
+O beautiful-formed Agni, your two dwelling-places in the form of heaven and earth, you who are born every day, are both without destruction. Make the sacrificer who praises you a possessor of food, and make him also lord of wealth joined with excellent offspring.
+
+[The printed English translation of this Ṛk is not present in the supplied text of these pages; it is not supplied here.]
+
 ---
 
-**Progress note:** Done through printed p. 555 (PDF 555). Sukta 9 Rik 3 complete (Pratipadartha end, Bhavartha, printed English, Special Topics on the three births of Agni); window ends at end of Special Topics
+**Progress note:** Done through printed p. 558 (PDF 558). Sukta 9 Rik 4 (Samhita/Pada read from figure, 2 doubts) and Rik 5 (printed English absent from supplied text)
