@@ -1469,6 +1469,73 @@ The Vaiśya was produced from the middle region or the thigh region of Prajāpat
 यमप्नवानो भृगवो विरुरुचुर्वनेषु चित्रं विभ्वं विशेषिविशे ॥ (*yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhvaṃ viśeṣiviśe ‖*)
 (Ṛ. Saṃ. 4-7-1)
 
+### Printed p. 544
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 544.*
+
+... recites this ṛk of the Jagatī metre. For, as said before, the Vaiśya belongs to the Jagatī metre. Cattle (livestock wealth) also belong to the same class. Therefore the Vaiśya recites a mantra of the Jagatī metre in order to prosper, endowed with wealth. In the last pāda of this ṛk there is a word that indicates the word Vaiśya, namely विशॆविशे (*viśèviśe*) (as supplied). In sacrifices, if ṛks composed of words suited to the occasion are recited, the intended fruit is obtained in a special degree. Therefore the recitation here of this ṛk of the Jagatī metre, which contains a word indicating the Vaiśya, is in keeping with this occasion. In this way, having stated one first mantra (ṛk) each, of three different metres, Gāyatrī, Triṣṭup and Jagatī, according to the fruit desired by the Brahmin, the Kṣatriya and the Vaiśya respectively, the hotṛ now recites the second ṛk (mantra), which is to be recited in common by those of all the varṇas in this Agni-praṇayana rite—
+
+अयमु ष्य प्र देवयुरिति अनुष्टुभि वाचं विसृजते । वाग्वा अनुष्टुब्बाच्येव (*ayamu ṣya pra devayuriti anuṣṭubhi vācaṃ visṛjate | vāgvā anuṣṭubbācyeva*)
+तद्वाचं विसृजते । आयमु ष्य इति यदाहायमु स्यागमं या पुरा (*tadvācaṃ visṛjate | āyamu ṣya iti yadāhāyamu syāgamaṃ yā purā*)
+गंधर्वेष्टवाक्समित्येव तद्वाक्प्रब्रूते ॥ (*gaṃdharveṣṭavāksamityeva tadvākprabrūte ‖*)
+
+From the time of the Soma-krayaṇa (buying of the Soma), and in the rites performed from then up to now, the mantras were recited in a low voice, that is, in a soft tone, according to the injunction that mantras be recited in the upāṃśu manner. Now, that is, from here onwards, that rule is dismissed; that is, giving up speaking softly, the mantras will be recited in a firm (loud) voice. This procedure is named vācovisarjana (release of speech). It is well known that it is begun with a ṛk of the Anuṣṭup metre, because speech (vāk) itself is of the nature of the Anuṣṭup metre; therefore by a mantra of that metre itself the soft speaking is given up. Thus the hotṛ—
+
+(2) अयमु ष्य प्र देवयुर्होता यज्ञाय नीयते । (*ayamu ṣya pra devayurhotā yajñāya nīyate |*)
+रथो न योरभीवृतो फृणीनाइच्छितति त्मना ॥ (*ratho na yorabhīvṛto phṛṇīnāicchitati tmanā ‖*)
+(Ma. [sic as printed] Saṃ. 10-176-3)
+
+recites this ṛk in a firm voice. This speech (the goddess of speech) was formerly among the Gandharvas. Now she speaks thus: "I was formerly among the Gandharvas at the time of the Soma-krayaṇa. Now I have come back." Since this is said, the hotṛ recites the mantra in a firm voice accordingly.
+
+On the matter of the goddess of speech having been among the Gandharvas and saying that she has now come back, an episode is told in the Taittirīya Saṃhitā (तग्० सोममाह्रियमाणं गंधर्वो विश्वावसुः पर्यमुष्णात्स..................तेभ्य एव ददति ॥ (*tag0 somamāhriyamāṇaṃ gaṃdharvo viśvāvasuḥ paryamuṣṇātsa..................tebhya eva dadati ‖*) (Tai. Saṃ. 6-1-6-5, 6) [the supplied text has an odd start तग्० (*tag0*) and a run of dots]). While the Soma that was in the world of heaven was being brought, the Gandharva named Viśvāvasu stole it in the middle of the way and
+
+### Printed p. 545
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 545.*
+
+hid it for three nights. Even now, after the Soma-krayaṇa, it has become the custom to keep it so for three nights. Then the gods all assembled and deliberated how to bring Soma back from that Gandharva, and a thought suddenly struck them: the Gandharvas are greatly enamoured of women. So they thought that they could give a beautiful young woman to the Gandharvas and buy the Soma in exchange. Thereupon the gods called the goddess of speech and said: "O goddess of speech, assume the form of a beautiful young woman; we shall sell you to the Gandharvas, bring the Soma and complete the sacrifice." The goddess of speech agreed. Then they sold that beautiful young woman to the Gandharva king named Viśvāvasu (as supplied) and brought the Soma. After the gods had gone, the goddess of speech, who was in the form of the beautiful young woman, took the form of a red deer and ran from the Gandharvas to the neighbourhood of the gods. It is this matter that is stated here as the goddess of speech saying that she has come back. Everything that went on from the time the goddess of speech, in the form of a beautiful young woman, was with the Gandharvas until she came again to the gods, namely the Soma-krayaṇa (buying of Soma) and the rites so far performed in the Agni-praṇayana, is recited in a low voice (softly) because the goddess of speech is not near. After the goddess of speech has come back, the hotṛ begins fearlessly to recite the mantras in a firm voice: this is the main sense.
+
+Now the hotṛ proceeds and recites the third ṛk.
+
+अयमग्निरुरुष्यतीति अयं वा अग्निरुरुष्यति अमृता दिव जन्मन इत्यमृतत्वमेवास्मिंस्तद्दधाति सहसश्चित्सहीयान्देवो जीवातवे कृत इति देवो (*ayamagniruruṣyatīti ayaṃ vā agniruruṣyati amṛtā diva janmana ityamṛtatvamevāsmiṃstaddadhāti sahasaścitsahīyāndevo jīvātave kṛta iti devo*)
+हैष एतज्जीवातवे कृतो यदग्निः ॥ (*haiṣa etajjīvātave kṛto yadagniḥ ‖*)
+
+The mantra that is the third ṛk is as follows—
+
+(3) अयमग्निरुरुष्यत्यमृतादिव जन्मनः । (*ayamagniruruṣyatyamṛtādiva janmanaḥ |*)
+सहसश्चित्सहीयान् देवो जीवातवे कृतः ॥ (*sahasaścitsahīyān devo jīvātave kṛtaḥ ‖*)
+(Ma. [sic as printed] Saṃ. 18-176-4 [sic, as printed])
+
+The main sense of this ṛk: because this Agni produces for the sacrificers a birth of divine form, he protects them by warding off the fear that comes from men and the fear that comes from the gods. This Agni is exceedingly stronger than strength. He has been made (created) for the sacrifice or for granting long life. Thus here the hotṛ, by reciting the first half of this ṛk, makes the sacrificer free from death, that is, one possessed of long life. By reciting the second half, the power of this Agni becomes very capable. Therefore by reciting this ṛk Agni becomes favourable to protect our life.
+
+*Stray line kept from the supplied text (end of page 545, not part of the sense):* [35] Vol. 14
+
+### Printed p. 546
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 546.*
+
+इळायास्त्वा पदे वयं नाभा पृथिव्या अधीति एतद्वा इळायास्पदं यदुत्तरवेदीनाभिः । जातवेदो निधीमहीति निधास्यंतो ह्येनं भवंति । अग्ने (*iḷāyāstvā pade vayaṃ nābhā pṛthivyā adhīti etadvā iḷāyāspadaṃ yaduttaravedīnābhiḥ | jātavedo nidhīmahīti nidhāsyaṃto hyenaṃ bhavaṃti | agne*)
+हव्याय वोळ्हव इति हव्यं हि वक्ष्यन्भवति ॥ (*havyāya voḷhava iti havyaṃ hi vakṣyanbhavati ‖*)
+
+Then the hotṛ recites the fourth ṛk (the supplied text prints मुक्कवन्नु (*mukkavannu*) for ऋक्कन्नु (*ṛkkannu*), apparently a misprint)—
+
+(4) इळायास्त्वा पदे वयं नःभा पृथिव्या अधि । (*iḷāyāstvā pade vayaṃ naḥbhā pṛthivyā adhi |*)
+जातवेदो नि धीमह्यग्ने हव्याय वोळ्हवे ॥ (*jātavedo ni dhīmahyagne havyāya voḷhave ‖*)
+(Ṛ. Saṃ. 3-29-4)
+
+The main sense of this ṛk: "O Agni, named Jātavedas, we shall establish (place) you in the navel-place of the earth, the northern altar." The word इळा (*iḷā*) denotes the cow. इळायाः पदे (*iḷāyāḥ pade*) means: the navel region of the northern altar, on which the feet of the cow, made excellent by rites such as the pressing of ghee, are placed, is described by the words इळायास्पदं (*iḷāyāspadaṃ*). By the sentence जातवेदो निधीमहि (*jātavedo nidhīmahi*) the sense is indicated that we priests place Agni on the northern altar. The sentence in the last pāda, अग्ने हव्याय वोळ्तवे (*agne havyāya voḷtave*) (as supplied; the Saṃhitā reads वोळ्हवे (*voḷhave*)), indicates the sense that Agni is established here to carry the oblations and the like to the gods.
+
+अग्ने विश्वेभिः स्वनीक देवैरूर्णावंतं प्रथमः सीद योनिमिति विश्वैरेवैनं तद्देवैः सहासादयति । कुलायिनं धृतवंतं सवित्र इति कुलायमिव (*agne viśvebhiḥ svanīka devairūrṇāvaṃtaṃ prathamaḥ sīda yonimiti viśvairevainaṃ taddevaiḥ sahāsādayati | kulāyinaṃ dhṛtavaṃtaṃ savitra iti kulāyamiva*)
+ह्येतदज्ञे क्रियते यत्पैतुदारवाः परिधयो गुग्गु लूर्णास्तुकाः सुगंधितेजनानीति यज्ञं नय यजमानाय साध्विति यज्ञमेव तदृजुधा प्रतिष्ठापयति ॥ (*hyetadajñe kriyate yatpaitudāravāḥ paridhayo guggu lūrṇāstukāḥ sugaṃdhitejanānīti yajñaṃ naya yajamānāya sādhviti yajñameva tadṛjudhā pratiṣṭhāpayati ‖*)
+
+After that the hotṛ recites the fifth ṛk—
+
+(5) अग्ने विश्वेभिः स्वनीक देवैरूर्णावंतं प्रथमः सीद योनिं । (*agne viśvebhiḥ svanīka devairūrṇāvaṃtaṃ prathamaḥ sīda yoniṃ |*)
+कुलायिनं धृतवंतं सवित्रे यज्ञं नय यजमानाय साधु ॥ (*kulāyinaṃ dhṛtavaṃtaṃ savitre yajñaṃ naya yajamānāya sādhu ‖*)
+(Mu. [sic as printed] Saṃ. 6-15-16)
+
+The main sense of the first half of this ṛk: "O Agni, you who are endowed with armies in the form of flames, come, as the chief of all the gods, and sit in this navel-place called the northern altar." By the use of the word विश्वेभिः (*viśvebhiḥ*) here it is indicated that all the gods are established together with Agni; that is, the sense is that Agni, together with all the gods, will sit on the northern altar, which is like a bird's nest, made soft by spreading strands of wool. Being on the northern altar, the navel region, which is abundantly supplied with firewood and the like and sprinkled with ghee, ... the sacrificer's sacrificial rites (text breaks off at the end of this page)
+
 ---
 
-**Progress note:** Done through printed p. 543 (PDF 543). Sūkta 9 Ṛk 1 Special Topics: Agni-praṇayana and the metres for the three castes (Ai. Brā., Tai. Brā.)
+**Progress note:** Done through printed p. 546 (PDF 546). Sukta 9 Agni-pranayana: Ṛks 2-5 of the hotṛ's recitation (Special Topics); Vacovisarjana story from Tai. Saṃ.
