@@ -2382,6 +2382,118 @@ Besides the Ṛgveda, this Manu is spoken of in the Atharvaveda (14-2-41), the T
 
 This sūkta श्रुधी हवं (*śrudhī havaṃ*) is the eleventh sūkta in the first anuvāka. It has twenty-one ṛks. The seer of this sūkta is Gṛtsamada. In the Anukramaṇī it is said: श्रुधि सैकैंद्रं विराट् स्थानमृतेऽन्यां (*śrudhi saikaiṃdraṃ virāṭ sthānamṛte 'nyāṃ*). Twenty ṛks of this sūkta are in the metre called Virāṭ-sthānā Triṣṭubh. Its characteristic is stated in the Anukramaṇī: नवकौ वैराजस्त्रैष्टुभश्च द्वौ वा वैराजौ नवकस्त्रैष्टुभश्च विराट् स्थानेति (*navakau vairājastraiṣṭubhaśca dvau vā vairājau navakastraiṣṭubhaśca virāṭ sthāneti*). That is, in the Vairāja Triṣṭubh metre two pādas have nine syllables each, another pāda has ten syllables like the Virāṭ metre, and another pāda has eleven syllables like the Triṣṭubh metre (39 syllables in all); in the metre called Virāṭ-sthānā Triṣṭubh two pādas have ten syllables each like the Virāṭ metre, one pāda has nine syllables, and another pāda has eleven syllables like the Triṣṭubh metre (40 syllables in all). Thus the characteristics of these metres are stated. The last ṛk of this sūkta is in the Triṣṭubh metre. Indra alone is the deity. In the sacrifice called Pṛṣṭha, on the fourth day, when the Marutvatīya-śastra mantras are recited, after two sūktas have been recited as nivid mantras, this sūkta is to be recited as the third; this is explained by the Āśvalāyana Śrauta-sūtra in the section beginning चतुर्थेऽहनि (*caturthe 'hani*) in the sūtra श्रुधी हवमिंद्र मरुत्वा इंद्रेति मरुत्वतीयं (*śrudhī havamiṃdra marutvā iṃdreti marutvatīyaṃ*) (Āś. 7-11).
 
+### Printed p. 577
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 3, Ṛgveda-saṃhitā, p. 577.*
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 11. Maṇḍala 2, Anuvāka 1, Sūkta 11. Aṣṭaka 2, Adhyāya 6, Varga 3, 4, 5, 6. Number of ṛks in the sūkta: 21. Seer: गैत्समदः (*gaitsamadaḥ*) (as supplied; the seer is Gṛtsamada elsewhere). Deity: Indra. Metre: 1–20 Virāṭ-sthānā Triṣṭubh; 21 Triṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> श्रु॒धी हव॑मिंद्र॒ मा रि॑षण्यः॒ स्याम॑ ते दा॒वने॒ वसू॑नां ।
+> इ॒मा हि त्वामूर्जो॑ व॒र्धयं॑ति वसू॒यवः॒ सिंध॑वो॒ न क्षरं॑तः ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> श्रुधि । हवं । इंद्र । मा । रिषण्यः । स्याम । ते । दावने । वसूनां ।
+> इमाः । हि । त्वां । ऊर्जः । वर्धयंति । वसुयवः । सिंधवः । न । क्षरंतः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> गृत्समदः स्तौति । हे इंद्र मे हवं मदीयमिदं स्तोत्रं श्रुधि । शृणु ।
+> मा रिषण्यः । मा हिंसीः । इदमल्पं न साधीय इति मा निराकार्षिः ॥ दुरस्युद्र्-
+> विणस्युवृषण्यति रिषण्यतीति निपातितः ॥ वयं ते तव वसूनां दावने दानाय स्याम।
+> पात्रभूता भवेम । इमा अस्माभिर्दत्तानि वसूयवो दातुर्यजमानस्य धनमि-
+> च्छंति ॥ छंदसि परेच्छायां क्यच् ॥ तादृशानि क्षरंतः स्रवंतः सिंधव इव धृतक्षरणो-
+> पेतान्यूर्जो हविर्लक्षणान्यन्नानि त्वां वर्धयंति हि ॥
+
+> *gṛtsamadaḥ stauti | he iṃdra me havaṃ madīyamidaṃ stotraṃ śrudhi | śṛṇu |*
+> *mā riṣaṇyaḥ | mā hiṃsīḥ | idamalpaṃ na sādhīya iti mā nirākārṣiḥ ‖ durasyudr-*
+> *viṇasyuvṛṣaṇyati riṣaṇyatīti nipātitaḥ ‖ vayaṃ te tava vasūnāṃ dāvane dānāya syāma|*
+> *pātrabhūtā bhavema | imā asmābhirdattāni vasūyavo dāturyajamānasya dhanami-*
+> *cchaṃti ‖ chaṃdasi parecchāyāṃ kyac ‖ tādṛśāni kṣaraṃtaḥ sravaṃtaḥ siṃdhava iva dhṛtakṣaraṇo-*
+> *petānyūrjo havirlakṣaṇānyannāni tvāṃ vardhayaṃti hi ‖*
+
+*Gist:* Gṛtsamada praises Indra: hear my invocation and do not disregard it as slight; may we be fit recipients of your gifts, for the oblations (ऊर्जः (*ūrjaḥ*)) that seek wealth for the sacrificer, flowing like rivers, strengthen you. The grammatical tail (the *kyac* formation of रिषण्यः (*riṣaṇyaḥ*) and वसूयवः (*vasūyavaḥ*)) is not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra (O Indra), havam (this hymn made by me), śrudhi (hear); mā riṣaṇyaḥ (do not disregard it); vayam (we), te (your), vasūnām (of treasures), dāvane– [continued on p. 578]
+
+*(The supplied text ends the page with a stray footer "[37] Vol. 14", twice.)*
+
+### Printed p. 578
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 11, p. 578.*
+
+**Pratipadārtha** (continued)
+
+dāvane (for the gift), syāma (may we become fit recipients); imāḥ (these, given by us), vasūyavaḥ (desiring wealth for the sacrificer), sindhavaḥ na (like rivers), kṣarantaḥ (flowing); ūrjaḥ (foods in the form of ghee and the like), tvāṃ (you), vardhayanti hi (do indeed strengthen; the supplied text reads "pravṛthana" for "pravṛddha" in the corresponding word of this line, as supplied).
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, hear this hymn made by me. Do not disregard it. May we be fit recipients of the gift of your treasures. The foods in the form of ghee and the like, given by us, which desire wealth for the sacrificer and flow like rivers, make you grow strong.
+
+**Printed English**
+
+Indra, hear(my) invocation; disregard it not: may we be(thought worthy) of the gift of your treasures: these oblations; designed to obtain wealth, flowing(abundantly) like rivers, bring to you augmented vigour.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The seer of the Maṇḍala, Gṛtsamada, has so far praised Agni, and from here onward he praises Indra with twelve sūktas.
+
+श्रुधी हवमिंद्र मारिषण्यः (*śrudhī havamiṃdra māriṣaṇyaḥ*)—O Indra, hear our invocation and the hymns we make; the prayer is expressed that you should not harm us because the hymn we make is slight.
+
+इमा ऊर्जः (*imā ūrjaḥ*)—The word ūrk is read among the names of food (Ni. 3-9). Here it may be said to mean food in the form of oblation or ghee. In general the word ūrk is used especially when pointing to food (nourishment) in liquid form, ghee, milk, Soma and the like.
+
+सिंधवो न क्षरंतः (*siṃdhavo na kṣaraṃtaḥ*)—like flowing rivers; the word na is used here in the sense of comparison. There are two purposes in giving the simile of a flowing river to the food. Here the food in liquid form, ghee and the like, may be what is meant; therefore it is said that as water flows in a river, so may ghee and other liquid substances strengthen Indra. Or, since in a flowing river water is present in great quantity, the sense may also appear that the ghee and other liquids we offer to Indra are very abundant.
+
+### Printed p. 579
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 3, Ṛgveda-saṃhitā, p. 579.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> सृ॒जो म॒हीरिं॑द्र॒ या अपि॑न्वः॒ परि॑ष्ठिता॒ अहि॑ना शूर पू॒र्वीः ।
+> अम॑र्त्यं चिद्दा॒सं मन्य॑मान॒मवा॑भिनदु॒क्थैर्वा॑वृधा॒नः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> सृजः । महीः । इंद्र । याः । अपिन्वः । परिसस्थिताः । अहिना । शूर । पूर्वीः ।
+> अमर्त्यं । चित् । दासं । मन्यमानं । अव । अभिनत् । उक्षैः । ववृधानः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> शूर शत्रूणां हिंसक हे इंद्र या अपोऽपिन्वः । अवर्धयः । पूर्वी-
+> प्रभूतास्ता अहिना मेघेन वृत्रेण वा परिष्ठिताः । अधिष्ठिता आक्रांताः । ततस्त्वं
+> तस्मादहेः सकाशात् महीर्महतीरसः सृजः । व्यसृजः । उक्षैः शस्त्रैर्वावृधानो
+> वर्धमानस्त्वं दासं सर्वस्योपक्षपयितारमुमर्त्यं चित् मरणधर्मरहितमेवा-
+> त्मानं मन्यमानं तमसुरमवाभिनत् । अवाङ्मुखं यथा भवति तथा ॥ भिदिर् विदा-
+> रणे । लज् सिपि रूपं ॥
+
+> *śūra śatrūṇāṃ hiṃsaka he iṃdra yā apo 'pinvaḥ | avardhayaḥ | pūrvī-*
+> *prabhūtāstā ahinā meghena vṛtreṇa vā pariṣṭhitāḥ | adhiṣṭhitā ākrāṃtāḥ | tatastvaṃ*
+> *tasmādaheḥ sakāśāt mahīrmahatīrasaḥ sṛjaḥ | vyasṛjaḥ | ukṣaiḥ śastrairvāvṛdhāno*
+> *vardhamānastvaṃ dāsaṃ sarvasyopakṣapayitāramumartyaṃ cit maraṇadharmarahitamevā-*
+> *tmānaṃ manyamānaṃ tamasuramavābhinat | avāṅmukhaṃ yathā bhavati tathā ‖ bhidir vidā-*
+> *raṇe | laj sipi rūpaṃ ‖*
+
+*Gist:* The waters that Indra increased were seized by Vṛtra; he released the great waters and, strengthened by the hymns, split down the asura who thought himself immortal. The grammatical tail (root भिदिर् (*bhidir*), *laṅ*, second person singular) is not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śūra (O Indra, destroyer of enemies), yāḥ (the waters which), apinvaḥ (you made to grow), pūrvīḥ (those abundant waters), ahinā (by the cloud or by the asura Vṛtra), pariṣṭhitāḥ (were seized; afterwards), mahīḥ (those waters of great extent), sṛjaḥ (you released and made flow). ukṣaiḥ (with the śastra-mantras), vāvṛdhānaḥ (you, grown strong), dāsaṃ (the one who harms all), amartyaṃ cit (and who thought himself deathless), manyamānaṃ (thinking), the asura, ava abhinat (you split down, so that he fell).
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, destroyer of enemies, the abundant waters that you made to grow were first seized by Vṛtra; afterwards you released those waters of great extent and made them flow. You, grown strong by the śastra-mantras, split down the asura who harms all and who thought himself deathless, so that he fell.
+
 ---
 
-**Progress note:** Done through printed p. 576 (PDF 576). Sukta 10 Rik 6 printed English and Special Topics (Manu); Sukta 11 introduction
+**Progress note:** Done through printed p. 579 (PDF 579). Sukta 11 Rik 1 complete, Rik 2 Samhita to Bhavartha
