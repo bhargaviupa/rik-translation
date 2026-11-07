@@ -3669,6 +3669,103 @@ explains the word तरुतारं (*tarutāraṃ*) as तारयित�
 
 (the text is printed so; the words रक्षित्वा (*rakṣitvā*), कुरुष्ट (*kuruṣṭa*), प्रभूतान्नैनार्नाविधैरन्नॆर्वा अस्थानवर्धयः (*prabhūtānnainārnāvidhairannèrvā asthānavardhayaḥ*), त्वत्पसादद्वृद्धिं (*tvatpasādadvṛddhiṃ*) look garbled in the supplied text [?]). That is: "O Indra, destroyer of enemies, protect us from enemies in battles and make us prosper well; and cause us to prosper on every day with abundant food, so that we may gain increase by your grace" — another kind of meaning can also be given.
 
+### Printed p. 619
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgvedasaṃhitā, p. 619 (printed "119").*
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> बृ॒हंत॒ इन्नु ये ते॑ तरुत्रो॒क्षभि॑र्वा सु॒म्ममा॒विवा॑सान् ।
+> स्त्र॒णा॒नासो॑ ब॒र्हिः प॒स्ता॑व॒त्तोता॒ इदिं॑द्र॒ वाज॑मग्मन् ॥ १६ ॥
+
+**॥ पदपाठः ॥**
+
+> बृहंतः । इत् । नु । ये । ते । तरुत्र । उक्षेभिः । वा । सुम्मं । आऽविवासान् ।
+> स्त्र्णानासः । बर्हिः । पस्यवत् । त्वाऊताः । इत् । इंद्र । वाजं । अग्मन् ॥ १६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तरुत्र आपद्भ्यस्तारक हे इंद्र ये पुमांसः सुम्मं सुखकरं त्वामुक्थैः
+> शस्त्रैराविवासान् । परिचरेयुः ॥ विवासतेर्लॆट्व्यडागमः ॥ त एव पुमांसो नु
+> क्षिप्रमविलंबेन बृहंतो महांतो भवंतीति पूरणः । किंच बर्हिः स्तृणानासो
+> वेद्यां बर्हिराच्छादयंतो ये त्वां परिचरंति ते त्वोता इत् त्वया रक्षिताः संत
+> एव पस्तावत् गृहसहितं वाजमन्नमग्मन् । गच्छंति ॥
+
+*(Gist: O Indra, rescuer from dangers, those who serve you with praises quickly become great; those who strew the barhis are protected by you and obtain a house and food.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Tarutra: rescuer from distress. Indra: O Indra. Ye: those men who. Summam: you, the giver of happiness, with praises. Āvivāsān: worship. Te: those devotees of yours. Nu it: quickly indeed. Bṛhantaḥ: become endowed with great qualities and a great station. Barhiḥ: the darbha seat. Stṛṇānāsaḥ: those who spread it (on the altar) for you and worship you. Tvotā it: being protected by you alone. Pastāvat: together with a house. Vājam: food. Agman: obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, rescuer from distress, those men who worship you with pleasing praises, those devotees of yours, quickly become endowed with great qualities and a great station. Those who spread the darbha seat for you on the altar and worship you, being protected by you alone, obtain food together with a house.
+
+### Printed p. 620
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṇḍala 2, Adhyāya 1, Sūkta 11; p. 620.*
+
+**Printed English**
+
+Liberator(from evil), they who worship you, the giver of happiness, with holy hymns, quickly become great: they who strew the sacred grass(in honour of you) are protected by you, and, together with their families, obtain (abundant) food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Stṛṇānāso barhiḥ: the darbha grass called barhis, spread and prepared as a seat on which the gods come and sit, is called *barhistaraṇa* (spreading of the barhis). These darbha blades are cut to one even measure and laid in three layers so as to be soft. On this matter:
+
+त्रिवृद्बर्हिर्भवति । माता पिता पुत्रः ।........त्रेधा सन्नद्धं भवति । त्रय इमे लोकाः । एष्टेव लोकेषु प्रतितिष्ठति ॥ (*trivṛdbarhirbhavati | mātā pitā putraḥ |........tredhā sannaddhaṃ bhavati | traya ime lokāḥ | eṣṭeva lokeṣu pratitiṣṭhati ‖*) (Tai. Brā. 1-6-3.1)
+
+is said in the Taittirīya Brāhmaṇa. The barhis grass is to be spread in three layers, because these three layers are said to stand for mother, father and son, or for the three worlds: earth, atmosphere and heaven. Concerning this word Yāska explains:
+
+बर्हिः परिबहर्णात् परिच्छेदनात् । (*barhiḥ paribaharṇāt paricchedanāt |*) (Si. [sic] 8-9)
+
+that is, the name *barhis* is well known for darbha grass that is cut evenly and used as a seat in the sacrifice; and as an illustration he cites
+
+⟦ಪ್ರಾಚೀನಂ ಬರ್ಹಿಃ ಪ್ರದಿಶಾ ಪೃಥಿವ್ಯಾ ವಸ್ತೋರಸ್ಯಾ ವೃಜ್ಯತೇ ಅಗ್ರೇ ಅಹ್ನಾಂ ।
+ವ್ಯು ಪ್ರಥತೇ ವಿತರಂ ವರೀಯೋ ದೇವೇಭ್ಯೋ ಆದಿತಯೇ ಸ್ಯೋನಂ ॥⟧ (Pu. [sic] Saṃ. 10-10-4)
+
+and gives its etymology:
+
+प्राचीनं बर्हिः प्रदिशा पृथिव्या वसनायास्याः प्रवृज्यते अग्रे अह्नां बर्हिः पूर्वाह्ने तद्विप्रथते वितरं विकीर्णतरमिति वा विस्तीर्णतरमिति वा वरीयो वरतरमुरुतरं वा देवेभ्यश्चादितये च स्योनं । स्योनमिति सुखनाम स्यतेरवस्यंत्येतत् सेवितव्यं भवतीति वा ॥ (*prācīnaṃ barhiḥ pradiśā pṛthivyā vasanāyāsyāḥ pravṛjyate agre ahnāṃ barhiḥ pūrvāhne tadviprathate vitaraṃ vikīrṇataramiti vā vistīrṇataramiti vā varīyo varataramurutaraṃ vā devebhyaścāditaye ca syonaṃ | syonamiti sukhanāma syateravasyaṃtyetat sevitavyaṃ bhavatīti vā ‖*) (Si. [sic] 8-9)
+
+That is, at the time of the sacrifice, to prepare a seat on which the gods may come and sit on the sacrificial altar, the darbha blades are cut evenly and, to be soft, are laid one upon another in three layers.
+
+### Printed p. 621
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgvedasaṃhitā, p. 621.*
+
+The darbha blades so laid are spread out abundantly, widely and softly. Darbha spread in this way is called *barhis* or *barhirāstaraṇa* (spreading of the barhis). The matter of this spreading of the barhis is indicated on many occasions when the gods are invited and called.
+
+Pastāvat vājam: since the word *pastya* is read among the names of the house (Nirukta 3-13), *pasty*a means house. The word *vāja* is read among the names of food (Nirukta 3-9). Here "food together with a house" means that they obtain both a house and food; this is the intention.
+
+#### Ṛk 17
+
+**॥ संहितापाठः ॥**
+
+> उ॒ग्रेष्णिन्नु शू॑र मदसा॒नस्त्रिक॑द्रुकेषु पाहि॒ सोम॑मिंद्र ।
+> प्र॒दोधु॑व॒च्छश्रु॑षु प्रीणा॒नो या॒हि हरि॑भ्यां सु॒तस्य॑ पी॒तिं
+
+**॥ पदपाठः ॥**
+
+> उग्रेषु । इत् । नु । शूर । मंदसानः । त्रिकद्रुकेषु । पाहि । सोमं । इंद्र ।
+> प्रदोधुवत् । श्मश्रुषु । प्रीणानः । याहि । हरिभ्यां । सुतस्य । पीतिं ॥ १७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे शूर बलवन्निंद्र उग्रेषूद्गूर्णेषु बषुस्तोत्रशस्त्रवत्सु त्रिकद्रुकेषु
+> ज्योतिर्गौरायुरित्येतन्नामकेष्वाभिप्लविकेष्टहःसु मंदसानो हृष्यन् सोमं
+> पाहि । पिब । ततः प्रीणानः सोमपानेन प्रीतो भवन् श्मश्रुषु लिप्तं सोमं
+> प्रदोधुवत् ॥ धूञ् कंपने । यज्लुगंतस्य शतरि रूपं॥ पुनःपुनर्धून्वन् सुत-
+> स्याभिषुतस्य पीतिं पानमुद्दिश्य हरिभ्यामश्विभ्यां युक्तः सन् याहि । गच्छ ॥
+
+*(Gist: O Indra, rejoicing in the Soma-days, drink the Soma; pleased, shaking the Soma from your beard, come with your two bay horses to the drinking of the pressed Soma.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śūra: mighty. Indra: O Indra. Ugreṣu: in those carried out gravely with śastra-mantras. Trikadrukeṣu: on the days of Trikadruka. Mandasānaḥ: joyful. Somam: the Soma juice. Pāhi: drink (then). Prīṇānaḥ: pleased by it. Śmaśruṣu: the hairs of the face. Pradodhuvat: shaking repeatedly. Sutasya: of the pressed juice. Pītim: for the drinking. Haribhyām: with your horses. Yāhi: be pleased to come.
+
 ---
 
-**Progress note:** Done through printed p. 618 (PDF 618). Sukta 11 Rk 14 Special Topics end; Rk 15 complete with Special Topics begun; fig_line2147 read from picture
+**Progress note:** Done through printed p. 621 (PDF 621). Sukta 11 Rk 16 complete; Rk 17 Samhita, Pada, bhasya and Pratipadartha begun; Special Topics on barhis
