@@ -3880,6 +3880,66 @@ so Vṛtra the Asura spreads through the atmosphere, bars the clouds and obstruc
 > *madhyodāttaḥ | sanema vājaṃ tava | 8-61-4 | iti | taraṃtaḥ | tya plavanataraṇayoḥ |*
 > *śatari rūpaṃ | saṃjñāvacanaścedaṃtodāttaḥ | yathā taraṃta iva maṃhanā | 5-61-10 |iti|*
 
+### Printed p. 625
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgveda-saṃhitā, p. 625.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ye: we who. Te: your. Ūtibhiḥ: together with your protections. Viśvāḥ spṛdhaḥ: all the Asura-folk (the Dasyu people) who contend with us (who oppose us). Tarantaḥ: being those who destroy. Āryeṇa: with the Ārya spirit. Dasyūn: the destroying Asuras, harassing them on every side; such as we are. Sanema: may we obtain increase. Tat: that act of destroying those Asuras. Asmabhyam: for us (you have done). Sākhyasya: possessed of the state of friendship. Tritāya: for the great sage named Trita. Tvāṣṭram: the son of Tvaṣṭṛ. Viśvarūpam: the Asura named Viśvarūpa. Arandhayaḥ: you have slain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, may we, who together with your protections destroy all the Asura-folk that contend with us, and who, performing the rite with the Ārya spirit, drive far away the destroying Asuras, obtain increase. You did for us the act of destroying the Asuras. For the great sage named Trita, who possessed friendship, you slew the Asura named Viśvarūpa, the son of Tvaṣṭṛ.
+
+**English Translation (as printed)**
+
+Let us honour those men, who, through your protection, surpass all their rivals, as the Dasyus(are surpassed) by the Arya: this(have you wrought) for us: you have slain Vishvarupa, the son of Twashtri, through friendship for Trita.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the sage praises Indra, saying that for the royal sage named Trita he slew Viśvarūpa, the son of Tvaṣṭṛ. Who this Trita is, what is known of him, and many other matters concerning him, we have already explained at length in earlier places, namely in the Ṛg-veda-saṃhitā, Part 5, page 230, and Part 8, pages 443 and 473, and elsewhere. Although the word Trita occurs in many Ṛks, nothing more about him can be learned from them. Although the word Trita is also used in five or six places in the Atharva-veda, nothing is learned there either. Only his association with Indra is found in many places. What is known in all the places is only that, as is said, Trita is a deity dwelling very far away, and that sins or bad dreams are sent to him (Atharva-veda 1-131-1, 3; 19-56-4). In the Taittirīya-saṃhitā he is said to be the giver of long life
+
+### Printed p. 626
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 1, Sū. 11; p. 626.*
+
+(Taittirīya-saṃhitā 1-8-10-2); he is the preparer of the Soma juice that bestows immortality. Trita is one of the three deities named Ekata, Dvita and Trita; these three are sons of Agni; and Trita arose from water: so it is said in the Brāhmaṇas, in the Śatapatha-brāhmaṇa 1-2-3-1, 2 and the Taittirīya-brāhmaṇa 3-2-8-10, 11 and elsewhere.
+
+As stated in the Ṛg-veda, in three or four contexts Indra and Trita perform one and the same deed (the slaying of Rākṣasas). On one occasion Indra is the one who urges Trita on; in another place it is said that Indra himself is encouraged by Trita. Twice Indra has worked for Trita. As stated in the present Ṛk and as stated in the following Ṛk, Indra has slain for Trita the one named Viśvarūpa and also Arbuda. Trita seeks Agni; he kindles Agni in heaven; in the houses of men he dwells in place of Agni; his dwelling is hidden far away; Soma is there too. Indra drinks Soma, but Trita prepares the Soma. This is the difference between Indra and Trita.
+
+From the points stated above, Trita may be called a lightning deity, that is, the atmospheric form of Agni; like the deities Agni, Vāyu, Indra and Sūrya he is a deity of the middle region. But since all the deeds of this deity have been done by Indra, he is a minor deity in the Ṛg-veda. It may be that the connexion between Trita and Soma is stated because, in the form of lightning, he brought Soma from heaven to earth. Since the evidence is not abundant, learned men have held one opinion each concerning him. To mention only a few: the scholar named Roth (Roth) has said that he is the deity of water and wind; the one named Hillbrandt (Hillbrandt) [as printed], that he is the deity of the kindled sky; the one named Perry (Perry), that he is the deity of the storm; another scholar, Pischel (Pischel), that he was first a deity of the sea and of water, afterwards a physician among men, and then obtained divinity. The one named Hardy (Hardy) has said that he is a moon deity.
+
+In the present Ṛk, since Trita bears Indra's friendship, it is said that for his sake Indra slew the son of Tvaṣṭṛ named Viśvarūpa.
+
+Āryeṇa dasyūn: the explanation of the meaning of the word *dasyu* and other matters concerning the Dasyus we have set out on pages 580 to 582 of this Part.
+
+Viśvarūpam: the matter of Indra's slaying the one named Viśvarūpa is stated at the beginning of the fifth Prapāṭhaka of the second Kāṇḍa of the Taittirīya-saṃhitā. In the Ṛg-veda also, on this matter,
+
+### Printed p. 627
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgveda-saṃhitā, p. 627.*
+
+⟦ಭೂರೀದಿಂದ್ರ ಉದಿನಕ್ಷಂತಮೋಜೋಽವಾಭಿನತ್ಸತ್ಪತಿರ್ಮನ್ಯಮಾನಂ ।
+ತ್ವಾಷ್ಟ್ರಸ್ಯ ಚಿದ್ವಿಶ್ವರೂಪಸ್ಯ ಗೋನಾಮಾಚಕ್ರಾಣಸ್ತ್ರೀಣಿ ಶೀರ್ಷಾ ಪರಾ ವರ್ಕ್ ॥⟧ (Ṛg-veda-saṃhitā 10-8-9)
+
+in this Ṛk it is said that Indra cut off the three heads of the one named Viśvarūpa, the son of Tvaṣṭṛ. That Indra did this deed for Trita, and that Trita helped Indra in this matter, is stated in the seventh Ṛk of the same sūkta:
+
+⟦ಅಸ್ಯ ತ್ರಿತಃ ಕ್ರತುನಾ ವವ್ರೇ ಅಂತರಿಚ್ಛನ್ ಧೀತಿಂ ಪಿತುರೇವೈಃ ಪರಸ್ಯ ।
+ಸಚಸ್ಯಮಾನಃ ಪಿತ್ರೋರುಪಸ್ಥೇ ಜಾಮಿ ಬ್ರುವಾಣ ಆಯುಧಾನಿ ವೇತಿ ।
+ಸ ಪಿತ್ರಾಣ್ಯಾಯುಧಾನಿ ವಿದ್ವಾನಿಂದ್ರೆಷಿತ ಆಪ್ತ್ಯೋ ಅಭ್ಯಯುಧ್ಯತ್ ।
+ತ್ರಿಶೀರ್ಷಾಣಂ ಸಪ್ತರಶ್ಮಿಂ ಜಘನ್ವಾನ್ ತ್ವಾಷ್ಟ್ರಸ್ಯ ಚಿನ್ನಿಃ ಸಸ್ಯಜೇ ತ್ರಿತೋ ಗಾಃ ॥⟧ (Ṛg-veda-saṃhitā 10-8-7, 8)
+
+In the commentary on these Ṛks Sāyaṇa has told a story: Indra asked the help of Trita to kill Viśvarūpa, the son of Tvaṣṭṛ, who had three heads. Trita, in order to increase his own strength, asked as a boon that a share of the oblation in the sacrifices be given to him. Indra agreed and gave him water for washing the hands and a share of the sacrifice. Then Trita, equipped with the weapons that belonged to his father and urged on by Indra, fought with Viśvarūpa, the son of Tvaṣṭṛ, struck him hard with his weapons and made him swoon. Afterwards Indra cut off the three heads of that Viśvarūpa; so it is said in the Ṛks above.
+
+This same matter is told at length in the Taittirīya-saṃhitā (Taittirīya-saṃhitā 2-5-1-1). That too is set out here with its meaning:
+
+⟦ವಿಶ್ವರೂಪೋ ವೈ ತ್ವಾಷ್ಟ್ರಃ ಪುರೋಹಿತೋ ದೇವಾನಾಮಾಸೀತ್ ಸ್ವಸ್ರೀಯೋಽಸುರಾಣಾಂ ತಸ್ಯ
+ತ್ರೀಣಿ ಶೀರ್ಷಾಣ್ಯಾಸನ್ತ್ಸೋಮಪಾನಗ್ಂ ಸುರಾಪಾನಮನ್ನಾದನಗ್ಂ ಸ ಪ್ರತ್ಯಕ್ಷಂ ದೇವೇ.
+ಭ್ಯೋ ಭಾಗಮವದತ್ ಪರೋಕ್ಷಮಸುರೇಭ್ಯಃ ॥⟧
+
+In former times Viśvarūpa, the son of Tvaṣṭṛ, was the family priest of the gods. Since he was the son of the Asuras' sister, he had affection also for the Asuras. This Viśvarūpa had three heads (heads). With one of those three heads he drank Soma, with another he drank Surā (liquor), and with the third head he ate food and the like. While matters stood so, this Viśvarūpa used to say openly before all that he would procure for the gods their share of the oblation in the sacrifice; but within, unknown to anyone, he helped the Asuras.
+
 ---
 
-**Progress note:** Done through printed p. 624 (PDF 624). Sukta 11 Rk 17 end, Rk 18 complete, Rk 19 begun (bhasya)
+**Progress note:** Done through printed p. 627 (PDF 627). Rk 19 Pratipadartha-Bhavartha and Special Topics on Trita and Visvarupa
