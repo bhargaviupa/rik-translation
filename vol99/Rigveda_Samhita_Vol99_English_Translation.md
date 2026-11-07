@@ -6471,6 +6471,60 @@ Om. Sūkta 14. Maṇḍala 2, Anuvāka 2, Sūkta 14. Aṣṭaka 2, Adhyāya 6, V
 
 The grammatical remarks of the commentary (the elision of *a* in अध्वर्यवः (*adhvaryavaḥ*) (*adhvaryavaḥ*), Yāska's explanation of *adhvaryu* (Ni. 1-8) and of the Soma vessels (Ni. 5-1), the non-accent of the vocative, the imperative of the root *hu*) are not explained here.
 
+### Printed p. 721
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 13; Ṛgveda-saṃhitā; p. 721.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. इंद्राय (*iṃdrāya*)—for Indra. सोमं (*somaṃ*)—the Soma juice. भरत (*bharata*)—bring. अमत्रेभिः (*amatrebhiḥ*)—with the ladle-vessels (camasa). मद्यं (*madyaṃ*)—intoxicating. अंधः (*aṃdhaḥ*)—the food in the form of Soma. आ सिंचत (*ā siṃcata*)—offer (around the fire) in the manner of a sprinkling. वीरः (*vīraḥ*)—Indra, the valiant. अस्य (*asya*)—of this Soma juice. पीतिं (*pītiṃ*)—the drinking. सदं (*sadaṃ*)—always. कामी हि (*kāmī hi*)—he desires, does he not (therefore). वृष्टे (*vṛṣṭe*) [sic, as supplied]—to Indra, the giver of desired objects. जुहोत (*juhota*)—offer Soma and make the oblation. एषः (*eṣaḥ*)—Indra. तदित् (*tadit*)—that very Soma. वष्टि (*vaṣṭi*)—he desires.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, bring the Soma juice for Indra. With the camasa vessels offer the intoxicating food in the form of Soma around the fire, in the manner of a sprinkling. The valiant Indra always desires the drinking of this Soma juice. Therefore offer this Soma to Indra, the giver of desired objects, and make the oblation.
+
+**Printed English translation**
+
+Priests, bring the Soma libation for Indra; sprinkle with ladles the exhilarating beverage: he, the hero, is ever desirous of the draught: offer the libation to the showerer(of benefits), for, verily, he desires it.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This sūkta begins with the sentence अध्वर्यवो भरतेंद्राय सोमं (*adhvaryavo bharateṃdrāya somaṃ*); the meaning of this sentence is: "O priests called Adhvaryus, bring the Soma juice for Indra." Every Ṛk of this sūkta (except the last) begins with the word आध्वर्यवः (*ādhvaryavaḥ*) [sic, as supplied]. In every Ṛk one or two heroic deeds of Indra and the matter of Indra's drinking of Soma are told, and besides this the sentence अध्वर्यवो भरतेंद्राय सोमं (*adhvaryavo bharateṃdrāya somaṃ*) mentioned above, or another sentence containing its meaning, is certainly present.
+
+अध्वर्यवः (*adhvaryavaḥ*)—अध्वरस्य नेतारः । अध्वरं यजमानायेच्छंतः । (*adhvarasya netāraḥ | adhvaraṃ yajamānāyecchaṃtaḥ |*) अध्वर (*adhvara*) means sacrifice. The priest who takes the lead in it, that is, plays the chief part and carries out the various works of the sacrifice, is called Adhvaryu. Or: one who wishes to perform the sacrifice for the sacrificer, that is, who stands in as the sacrificer's representative and himself does the many procedures to be carried out in the sacrifice, is called Adhvaryu. Although there are many priests in a sacrifice, among them the Hotṛ plays the chief part in the recitation of mantras, and the Adhvaryu in all the other procedures.
+
+### Printed p. 722
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 14; p. 722.*
+
+**Special Topics (continued)**
+
+Therefore the Adhvaryu must give special attention to all the procedures that take place in the sacrifice. For this very reason the priests called Adhvaryus are addressed here, to prepare and set down Soma juice for Indra's drinking of Soma. On the derivation of the word अध्वर्यु (*adhvaryu*) Yāska says (Ni. 1-8):
+
+अध्वर्युरध्वरयुरध्वरं युनक्तध्वरस्य नेताध्वरं कामयत इति वा । अपि वाधीयाने युरुपबंधः । अध्वर इति यज्ञनाम । ध्वरतिर्हिंसाकर्मा तत्त्व,तिषेधः । (*adhvaryuradhvarayuradhvaraṃ yunaktadhvarasya netādhvaraṃ kāmayata iti vā | api vādhīyāne yurupabaṃdhaḥ | adhvara iti yajñanāma | dhvaratirhiṃsākarmā tattva,tiṣedhaḥ |*) (The supplied text reads तत्त्व,तिषेधः (*tattva,tiṣedhaḥ*) with a stray comma; the passage is left as supplied.)
+
+The word अध्वर्यु (*adhvaryu*) means one who brings about the form of the sacrifice. How? In the word अध्वर्यु (*adhvaryu*) the letter *a* that stood after the *r* has undergone elision according to the Veda-grammar (the supplied text prints नेदव्याकरणसास्त्रानुसारवागि (*nedavyākaraṇasāstrānusāravāgi*), apparently a misreading). If it is restored the form is अध्वरयुः (*adhvarayuḥ*). For this Yāska gives the derivation अध्वरं युनक्तीति अध्वरयुः (*adhvaraṃ yunaktīti adhvarayuḥ*)—one who joins the sacrifice. अध्वरस्य नेता (*adhvarasya netā*) means one who conducts the sacrifice. Or अध्वरं कामयते कर्तुमित्यध्वर्युः (*adhvaraṃ kāmayate kartumityadhvaryuḥ*)—because he desires to perform the sacrifice (for the sacrificer), this priest is called Adhvaryu. Or अपि वाधीयाने युरुपबंधः (*api vādhīyāne yurupabaṃdhaḥ*)—if यु (*yu*) is taken as a prefix, the word means a Brāhmaṇa (priest) who has studied the अध्वर (*adhvara*) or sacrifice (the Yajurveda, which teaches the matters of the sacrifice). Here the root ध्वरति (*dhvarati*) has the meaning "to do harm", so ध्वन (*dhvana*) [sic, as supplied] is harm; अध्वर (*adhvara*) is explained as the rite or sacrifice that is without ध्वन (*dhvana*), that is, without harm. Hence the main sense is that the word अध्वरयु (*adhvarayu*) or अध्वर्यु (*adhvaryu*) means the priest who carries out the sacrificial rite (which is not a rite of harm).
+
+अध्वर्यवः भरत इंद्राय सोमं (*adhvaryavaḥ bharata iṃdrāya somaṃ*)—हे अध्वर्यवः इंद्राय देवाय सोमं हविर्धानादुत्तरवेदिं प्रति भरत । (*he adhvaryavaḥ iṃdrāya devāya somaṃ havirdhānāduttaravediṃ prati bharata |*) "O priests called Adhvaryus, bring the Soma juice that is in the Havirdhāna place to the Uttaravedi, to offer it to Indra": thus the seer Gṛtsamada (or the sacrificer) has addressed the Adhvaryus.
+
+अंधः (*aṃdhaḥ*)—The word अंधः (*aṃdhaḥ*) is read among the names of food (Ni. 3-9). Moreover, Yāska has stated a derivation for this word:
+
+अंध इत्यन्ननामाध्यानीयं भवति । तमोऽप्यंध उच्यते नास्मिन् ध्यानं भवति । न दर्शनमंधंतम इत्यभिभाषंते । अयमपीतरोऽन्न एतस्मादेव । पश्यदक्षण्वान्न विचेतदंधः इत्यपि निगमो भवति ॥ (*aṃdha ityannanāmādhyānīyaṃ bhavati | tamo 'pyaṃdha ucyate nāsmin dhyānaṃ bhavati | na darśanamaṃdhaṃtama ityabhibhāṣaṃte | ayamapītaro 'nna etasmādeva | paśyadakṣaṇvānna vicetadaṃdhaḥ ityapi nigamo bhavati ‖*) (Ni. 5-1) (printed with the reference in the form of two figures joined by a full stop, as supplied)
+
+### Printed p. 723
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 13; Ṛgveda-saṃhitā; p. 723.*
+
+**Special Topics (continued)**
+
+That is: अंधः (*aṃdhaḥ*) is a name of food. Why? Because food is needed by all, it is prayed for (desired) by all; therefore अंधः (*aṃdhaḥ*) is food. अंधः (*aṃdhaḥ*) is also a name of darkness (tamas). Why? Because in darkness nothing is seen and so nothing can be done. Even in ordinary usage people say अंधंतम (*aṃdhaṃtama*) when darkness has fallen so that nothing can be seen by the eye. On this point there is also an example from the Veda: पश्यदक्षण्वान्न विचेतदंधः (*paśyadakṣaṇvānna vicetadaṃdhaḥ*) (Ṛ. Saṃ. 1-164-16).
+
+आ अमत्रेभिः सिंचत मद्यं अंधः (*ā amatrebhiḥ siṃcata madyaṃ aṃdhaḥ*)—हृत्वामत्रेभिः । अमा सहादंत्यत्र होत्रादय इत्यमत्राणि चमसाः । तैर्मद्यं मदकरमंधः सोमलक्षणमन्नमासिंचत । अग्नौ प्रक्षिपत । (*hṛtvāmatrebhiḥ | amā sahādaṃtyatra hotrādaya ityamatrāṇi camasāḥ | tairmadyaṃ madakaramaṃdhaḥ somalakṣaṇamannamāsiṃcata | agnau prakṣipata |*) In the previous sentence it was directed to the Adhvaryus that the Soma should be brought and placed near the Uttaravedi, to be offered to Indra. The main sense of this sentence is: "Make an oblation in the fire to Indra, with camasas (wooden ladles), of the Soma so brought, or the food in the form of Soma." On the word अमत्र (*amatra*) the commentator says अमा सहादंत्यत्र होत्रादय इत्यमत्राणि चमसाः (*amā sahādaṃtyatra hotrādaya ityamatrāṇi camasāḥ*), that is, because in the Soma-drinking of the sacrifice the Hotṛ and the other priests together, all from one vessel, eat or drink, such a vessel is called camasa. The camasa is made of wood, has a handle, and is in the shape of a ladle. All the priests drink Soma from this camasa; each does not use a separate vessel; one vessel is for all. Yāska, taking this very Ṛk as the example for the word अमत्रेभिः (*amatrebhiḥ*), gives the derivation (a Nirukta reference is printed after the passage in the supplied text in an irregular form; not reproduced here):
+
+आमत्रेभिः सिंचता मद्यमंधः । आसिंचतामत्रैर्मदनीयमंधः । अमत्रं पात्रममा अस्थिन्नदंत्यमा पुनरनिर्मितं भवति पात्रं पानात् । (*āmatrebhiḥ siṃcatā madyamaṃdhaḥ | āsiṃcatāmatrairmadanīyamaṃdhaḥ | amatraṃ pātramamā asthinnadaṃtyamā punaranirmitaṃ bhavati pātraṃ pānāt |*)
+
+That is, अमत्र (*amatra*) means a vessel. Why? Because from it (food or Soma) is taken little by little and eaten, such a ladle-like vessel is called अमत्र (*amatra*). अमा (*amā*) means that which is without measure. When Soma juice is filled in abundance (without measure or gauge) in a large vessel, to drink it they fill from it little by little with the wooden ladle called अमत्र (*amatra*) or camasa and drink (Like drinking tea or coffee by means of spoons). Such a vessel is called अमत्र (*amatra*) or camasa. The sense of the sentence is: "Take, with such camasas, the intoxicating, that is, joy-producing, food in the form of Soma, and put it (into the fire, for Indra)." Since Indra is not a visible deity, all the oblations offered to him are, with reference to him, with mantras
+
 ---
 
-**Progress note:** Done through printed p. 720 (PDF 720). Sukta 13 end; Sukta 14 intro, heading and Rk 1 Samhita to bhashya (Samhita and Pada read from figure line3511)
+**Progress note:** Done through printed p. 723 (PDF 723). Sukta 14 Rk 1 Pratipadartha to Special Topics (Yaska on adhvaryu, andhas, amatra); no figures
