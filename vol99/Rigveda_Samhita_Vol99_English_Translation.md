@@ -1394,6 +1394,81 @@ In this ṛk the seer Gṛtsamada praises Agni, describing him with various epit
 
 सहस्रंभरः (*sahasraṃbharaḥ*)—सहस्रस्यानेकविधस्य भर्ता । विहरणेन नानाविधरूपस्य धारक इत्यर्थः । यद्वा सहस्रस्य सर्वस्य भर्ता (*sahasrasyānekavidhasya bhartā | viharaṇena nānāvidharūpasya dhāraka ityarthaḥ | yadvā sahasrasya sarvasya bhartā*). Here the word सहस्र (*sahasra*) means "many"; Agni [the supplied text ends here, mid-sentence, at the foot of printed p. 540].
 
+### Printed p. 541
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 541.*
+
+[the Special Topics on सहस्रंभरः (*sahasraṃbharaḥ*) continue] ... capable of assuming many kinds of forms at his own wish, or, being the lord of many people, one who bears (supports, nourishes) them: this is the sense. In this matter the commentator has given as an example the śruti sentence of the Vājasaneya (Śukla Yajurveda) सर्वं वै सहस्रं सर्वंभर इत्येव तदाह (*sarvaṃ vai sahasraṃ sarvaṃbhara ityeva tadāha*).
+
+शुचिजिह्वः (*śucijihvaḥ*)—शुचिर्दिप्ता जिह्वा ज्वाला यस्य (*śucirdiptā jihvā jvālā yasya*). Śuci means shining; jihvā means the tongue; one with a shining tongue means one with brightly blazing flames; the sense is that the flames of Agni are called the tongues (jihvā) of Agni.
+
+होतृषदने (*hotṛṣadane*)—होतात्र सीदतीति होतृषदनमुत्तरा वेदी (*hotātra sīdatīti hotṛṣadanamuttarā vedī*). The place in the sacrificial altar where the priest called hotṛ sits is named hotṛṣadana (hotṛ + sadana); that is, the sense is the place called the northern altar (uttaravedi). In this matter the commentator has quoted a sentence of the Aitareya Brāhmaṇa (Ai. Brā. 1-28).
+
+The first two ṛks of this sūkta are, among the eight ṛks to be recited when the rite called Agni-praṇayana (placing Agni on the northern altar) is performed in the sacrifice, the last two (the 7th and 8th ṛks). This Agni-praṇayana is an important rite performed in the animal sacrifice and the Soma sacrifice; the rite of taking the fire that is in the āhavanīya fire to the northern altar is called Agni-praṇayana. While the adhvaryu performs it, he directs the priest called hotṛ, by means of the praiṣa mantra, to recite the mantras needed at that time. Therefore the details of the rite called Agni-praṇayana are explained here as stated in the Aitareya Brāhmaṇa—
+
+**The rite called Agni-praṇayana**
+
+अग्नये प्रणीयमानायानुब्रूहीत्याहाध्वर्युः (*agnaye praṇīyamānāyānubrūhītyāhādhvaryuḥ*).
+
+After the rite called Soma-krayaṇa (the buying of the Soma plants) performed in the sacrifice is finished, the adhvaryu (priest) addresses the hotṛ, in order to perform the rite called Agni-praṇayana, which is carried out to take the fire in the āhavanīya pit to the northern altar, and directs him (by the above praiṣa mantra): "O hotṛ, recite the ṛks prescribed for the Agni-praṇayana rite." Then, of the eight ṛks that the hotṛ has to recite for this purpose, he recites—
+
+(1) प्र देवं देव्या धिया भरता जातवेदसं । (*pra devaṃ devyā dhiyā bharatā jātavedasaṃ |*)
+हव्या नो वक्षदानुषगिति गायत्रीं ब्राह्मणस्यानुब्रूयात्॥ (*havyā no vakṣadānuṣagiti gāyatrīṃ brāhmaṇasyānubrūyāt‖*)
+(Ṛ. Saṃ. 10-176-2)
+
+the first ṛk—[the main sense of this ṛk: the sacrificer addresses the priests: "O priests, taking this Agni named Jātavedas to the neighbourhood of the northern altar, with the praises and the like fitting for this god and with the rite suited to the time, ...
+
+### Printed p. 542
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 542.*
+
+... let this Agni afterwards carry to the gods the oblations and the like that we offer," he says]. The ṛk stated above is in the Gāyatrī metre. If it is asked why a ṛk of this metre is to be recited—
+
+गायत्रो वै ब्राह्मणस्तेजो वै ब्रह्मवर्चसं गायत्री तेजसैनं तद्ब्रह्म- (*gāyatro vai brāhmaṇastejo vai brahmavarcasaṃ gāyatrī tejasainaṃ tadbrahma-*)
+वर्चसेन समर्धयति (*varcasena samardhayati*).
+
+If the sacrificer who performs the sacrifice is a Brahmin, a ṛk of the Gāyatrī metre must be recited, because the Brahmin is of the nature of Gāyatrī. Since the Brahmin was born from the mouth of Prajāpati (the Supreme Brahman) (ब्राह्मणोऽस्य मुखमासीत् (*brāhmaṇo 'sya mukhamāsīt*), Ṛ. Saṃ. 10-90-12), it is the radiance of Prajāpati that is in the Brahmin. In Gāyatrī too there is such brahma-radiance (brahmavarcas). Therefore the Brahmin must perform this rite by means of the ṛk of the Gāyatrī metre, which is endowed with brahma-radiance. On the question which metre's ṛks the Brahmin, the Kṣatriya and the Vaiśya must recite in sacrificial rites, the sentence of the Taittirīya Brāhmaṇa of the Yajurveda runs thus—
+
+गायत्रीभिर्बाह्मणस्यादध्यात् (*gāyatrībhirbāhmaṇasyādadhyāt*) । गायत्रछंदा वै ब्राह्मणः (*gāyatrachaṃdā vai brāhmaṇaḥ*) । स्वस्य छंदसः (*svasya chaṃdasaḥ*)
+प्रत्ययनस्त्वाय (*pratyayanastvāya*) । त्रिष्टुग्भी राजन्यस्य (*triṣṭugbhī rājanyasya*) । त्रिष्टुप्छंदा वै राजन्यः (*triṣṭupchaṃdā vai rājanyaḥ*) । स्वस्य (*svasya*)
+छंदसः प्रत्ययनस्त्वाय (*chaṃdasaḥ pratyayanastvāya*) । जगतीभिर्वैश्यस्य (*jagatībhirvaiśyasya*) । जगतीछंदा वै वैश्यः (*jagatīchaṃdā vai vaiśyaḥ*) । स्वस्य (*svasya*)
+छंदसः प्रत्ययनस्त्वाय (*chaṃdasaḥ pratyayanastvāya*)
+(Tai. Brā. 1-1-9-6, 7)
+
+That is, the Brahmin must perform the agnyādhāna (the newly begun sacrificial rite) with mantras of the Gāyatrī metre, because the Brahmin is of the nature of the Gāyatrī metre. For this very reason, to obtain brahma-radiance, the sacrificial rites must be performed using ṛks of the Gāyatrī metre. Likewise it is said that Kṣatriyas must perform sacrificial rites with ṛks of the Triṣṭup metre, and Vaiśyas with ṛks of the Jagatī metre. Because it is so said, if the sacrificer is a Kṣatriya, then in the Agni-praṇayana rite—
+
+इमं महे विदथ्याय शूषमिति त्रिष्टुभं राजन्यस्यानुब्रूयात् (*imaṃ mahe vidathyāya śūṣamiti triṣṭubhaṃ rājanyasyānubrūyāt*) त्रैष्टुभो (*traiṣṭubho*)
+वै राजन्य ओजो वा इंद्रियं वीर्यं त्रिष्टुबोजसैवैनं तदिंद्रियेण (*vai rājanya ojo vā iṃdriyaṃ vīryaṃ triṣṭubojasaivainaṃ tadiṃdriyeṇa*)
+वीर्येण समर्धयति (*vīryeṇa samardhayati*) ।
+
+The ṛks of the Triṣṭup metre beginning इमं महे विदथ्याय शूषं (*imaṃ mahe vidathyāya śūṣaṃ*) must be recited, because the Kṣatriya was produced from the arm of Prajāpati (बाहू राजन्यः कृतः (*bāhū rājanyaḥ kṛtaḥ*), Ṛ. Saṃ. 10-90-12). The arm is the symbol of ojas (strength), indriya, and vīrya (strength, valour, power and capacity). Since ojas and the rest are obtained from the Triṣṭup metre, the Kṣatriya must perform the sacrificial rite only with ṛks of the Triṣṭup metre. Therefore the hotṛ—
+
+### Printed p. 543
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 543.*
+
+(1) इमं महे विदथ्याय शूषं शश्वत् कृत्व ईड्याय प्र जभ्रुः । (*imaṃ mahe vidathyāya śūṣaṃ śaśvat kṛtva īḍyāya pra jabhruḥ |*)
+शृणोतु नो दम्येभिरनीकैः शृणोत्वग्निर्दिवैरजस्रः ॥ (*śṛṇotu no damyebhiranīkaiḥ śṛṇotvagnirdivairajasraḥ ‖*)
+(Ma. [sic as printed] Saṃ. 3-54-1)
+
+recites this ṛk of the Triṣṭup metre. The explanation of the meaning of this ṛk too is stated in the Brāhmaṇa sentence itself—
+
+शश्वत्कृत्व ईड्याय प्रजभ्रुरिति स्वानामेवैनं तच्छृष्ठ्यं गमयति शृणोतु (*śaśvatkṛtva īḍyāya prajabhruriti svānāmevainaṃ tacchṛṣṭhyaṃ gamayati śṛṇotu*)
+नो दम्येभिरनीकैः शृणोत्वग्निर्दिव्यैरजस्र इति आजरसं हास्मिन्नजस्रो (*no damyebhiranīkaiḥ śṛṇotvagnirdivyairajasra iti ājarasaṃ hāsminnajasro*)
+दीदाय य एवं वेद (*dīdāya ya evaṃ veda*) ॥
+
+The meaning of the above ṛk इमं महे (*imaṃ mahe*) is this: the priests brought to the neighbourhood of the northern altar Agni, the cause of happiness (for the success of the kings' sacrifice). Agni is one who is always praised. The hotṛ brings the sacrificer as the chief (so that he stands in front of his kinsmen). This is the meaning of the first half of this ṛk. The meaning of the second half: to hold the enemy armies of the sacrificer in check, may Agni, helping the sacrificer with his armies of flame, hear our praises and the like. May Agni know the sacrificial rites that the sacrificers perform well, and may this Agni, endowed with enjoyments and the like fit for the world of the gods, remaining in our houses, protect our sacrificers always, that is, throughout their lives: this is the main sense. Now the mantras to be recited by Vaiśyas are as follows—
+
+अयमिह प्रथमो धायि धातृभिरिति जगतीं वैश्यस्यानुब्रूयात् (*ayamiha prathamo dhāyi dhātṛbhiriti jagatīṃ vaiśyasyānubrūyāt*) । जागतो (*jāgato*)
+वै वैश्यो जागताः पशवः पशुभिरेवैनं तत्समर्थयति (*vai vaiśyo jāgatāḥ paśavaḥ paśubhirevainaṃ tatsamarthayati*) । वनेषु चित्रं (*vaneṣu citraṃ*)
+विभ्वं विशेषिविश इत्यभिरूपा यद्यज्ञेऽभिरूपं तत्समृद्धं (*vibhvaṃ viśeṣiviśa ityabhirūpā yadyajñe 'bhirūpaṃ tatsamṛddhaṃ*) ॥
+
+The Vaiśya was produced from the middle region or the thigh region of Prajāpati (ऊरू तदस्य यद्वैश्यः (*ūrū tadasya yadvaiśyaḥ*), Ṛ. Saṃ. 10-90-12). This matter is stated in the Taittirīya Saṃhitā: मध्यतः सप्तदशं निरमि- (*madhyataḥ saptadaśaṃ nirami-*)मात तं विश्वे देवा देवता अन्वसृज्यंत जगतीछंदो वैरूपं साम वैश्यो वै मनुष्याणां (*māta taṃ viśve devā devatā anvasṛjyaṃta jagatīchaṃdo vairūpaṃ sāma vaiśyo vai manuṣyāṇāṃ*). The Vaiśya is of the nature of the Jagatī metre, because cattle (livestock wealth) too are of the nature of the Jagatī metre. For him to be endowed with this wealth of cattle, the Vaiśya must recite ṛks of the Jagatī metre and perform the sacrificial rite. Therefore, if the sacrificer is a Vaiśya, the hotṛ—
+
+(1) अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्वीड्यः । (*ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣvīḍyaḥ |*)
+यमप्नवानो भृगवो विरुरुचुर्वनेषु चित्रं विभ्वं विशेषिविशे ॥ (*yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhvaṃ viśeṣiviśe ‖*)
+(Ṛ. Saṃ. 4-7-1)
+
 ---
 
-**Progress note:** Done through printed p. 540 (PDF 540). Maṇḍala 2 Sūkta 9 Ṛk 1; Special Topics continue (cut mid-sentence at foot of p. 540)
+**Progress note:** Done through printed p. 543 (PDF 543). Sūkta 9 Ṛk 1 Special Topics: Agni-praṇayana and the metres for the three castes (Ai. Brā., Tai. Brā.)
