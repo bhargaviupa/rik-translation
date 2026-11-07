@@ -1133,6 +1133,182 @@ In such Ṛks the meaning सुखयुक्तं धनं (*sukhayuktaṃ 
 
 भानुना (*bhānunā*)—since the word भानुः (*bhānuḥ*) is read among the twelve names of day (ahar-nāmāni), वस्तोः द्यौः (*vastoḥ dyauḥ*) and so on, it means the shining day. भानुः भासते हैतत् ज्योतिषा (*bhānuḥ bhāsate haitat jyotiṣā*): because it shines by its own light, it is explained here as the rays of the sun.
 
+### Printed p. 534
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 8, p. 534.*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अत्रि॒मनु॑ स्व॒राज्य॑म॒ग्निमु॒क्थानि॑ वावृधुः ।
+> विश्वा॒ अधि॒ श्रियो॑ दधे ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> अत्रिं । अनु । स्वराज्यं । अग्निं । उक्तानि । ववृधुः ।
+> विश्वाः । अधि । श्रियः । दधे ॥ ५ ॥
+
+> *atriṃ | anu | svarājyaṃ | agniṃ | uktāni | vavṛdhuḥ |*
+> *viśvāḥ | adhi | śriyaḥ | dadhe ‖ 5 ‖*
+
+(Note: the Saṃhitā as supplied reads वावृधुः (*vāvṛdhuḥ*) and उक्थानि (*ukthāni*), while the Pada reads ववृधुः (*vavṛdhuḥ*) and उक्तानि (*uktāni*); the two readings differ in the supplied text and are left as supplied.)
+
+**॥ सायणभाष्यम् ॥**
+
+> अत्रिं शत्रूणामन्नानां ना भक्षकं स्वराज्यं स्वयमेव राजमानं स्वराज्य-
+> मनु अभिलक्ष्य वाग्निमुक्थानि शस्त्राणि ववृधुः । वर्धयंति । स चाग्निर्विश्वाः सर्वाः
+> श्रियोऽधि दधे धारयति ॥
+
+*Gist:* The hymns of praise (uktha-śastras) magnify Agni, the devourer of enemies, self-shining; he holds all glories.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अत्रिं (*atriṃ*)—the devourer of enemies, or one who eats food; स्वराज्यं (*svarājyaṃ*)—who shines forth by himself as a perfect lord; अग्निं अनु (*agniṃ anu*)—recited with Agni as the object; उक्तानि (*uktāni*)—our śastra-mantras; ववृधुः (*vavṛdhuḥ*)—(they) make (him) grow strong; विश्वाः श्रियः (*viśvāḥ śriyaḥ*)—all wealths; अधि दधे (*adhi dadhe*)—he possesses.
+
+**भावार्थ (Bhāvārtha)**
+
+Our śastra-mantras, recited in praise of Agni, the devourer of enemies, who shines forth by himself as a perfect lord, make him grow strong. He possesses all wealths.
+
+**Printed English translation**
+
+Our praises have increased the self-irradiating devouring Agni: he is possessed of all glory.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अत्रिं (*atriṃ*)—For this word, formed from the root अद भक्षणे (*ada bhakṣaṇe*) ("ad", to eat), the commentator has given two kinds of meaning. अत्रिं (*atriṃ*)—one who eats (burns) and destroys enemies is अत्रिः (*atriḥ*): because he devours, or burns up and destroys, enemies he is called Atri; or
+
+### Printed p. 535
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 29, Ṛgveda-saṃhitā, p. 535.*
+
+according to the Śruti sentence अद्यत्तेऽत्ति च भूतानि । तस्मादन्नं तदुच्यत (*adyatte 'tti ca bhūtāni | tasmādannaṃ taducyata*) ("it is eaten and it eats beings; therefore it is called food"), a thing fit to be eaten is called food. Because he eats (consumes) such food, or the food in the form of the oblation, he is called Atri: thus two kinds of meaning are stated. Hence the sense is that Agni is the destroyer of enemies, or the eater of food in the form of the oblation.
+
+स्वराज्यं (*svarājyaṃ*)—स्वयमेव राजमानं स्वराज्यमनु अभिलक्ष्य वा (*svayameva rājamānaṃ svarājyamanu abhilakṣya vā*). Two meanings are explained: Agni shines by his own power, without the help of another shining thing; or Agni is the lord who gives wealth and the like to people and to creatures.
+
+उक्तानि (*uktāni*)—The word उक्त्य (*uktya*) is read among the names of praiseworthy things (Ni. 3-13). The meaning is hymns and the like recited in description of the qualities of the deities.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अ॒ग्नेरिंद्र॑स्य॒ सोम॑स्य दे॒वाना॑मू॒तिभि॑र्व॒यं ।
+> अरि॑ष्यंतः सचेमह्य॒भि ष्या॑म पृतन्य॒तः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> अग्नेः । इंद्रस्य । सोमस्य । देवानां । ऊतिभिः । वयं ।
+> अरिष्यंतः । सचेमहि । अभि । स्याम । पृतन्यतः ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अरिष्यंतः केनाप्यहिंस्यमाना वयमग्नेरिंद्रस्य सोमस्य देवानामन्येषा-
+> मप्यूतिभी रक्षणाभिः सचेमहि । युक्ता भवेम । तथा रक्षायुक्ता वयं पृतन्यतः
+> पृतनामात्मन इच्छतः शत्रूनभिष्याम । अभिभवेम ॥ पृतनाशब्दात्कचि कव्यध्वरपृतन-
+> स्यर्चि लोप इत्यवर्णलोपः ॥
+
+> *ariṣyaṃtaḥ kenāpyahiṃsyamānā vayamagneriṃdrasya somasya devānāmanyeṣā-*
+> *mapyūtibhī rakṣaṇābhiḥ sacemahi | yuktā bhavema | tathā rakṣāyuktā vayaṃ pṛtanyataḥ*
+> *pṛtanāmātmana icchataḥ śatrūnabhiṣyāma | abhibhavema ‖ pṛtanāśabdātkaci kavyadhvarapṛtana-*
+> *syarci lopa ityavarṇalopaḥ ‖*
+
+*Gist:* Unharmed, may we be joined with the protections of Agni, Indra, Soma and the gods, and overcome enemies who seek battle; a grammatical note on the elision of the vowel in पृतन (*pṛtana*) follows.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अरिष्यंतः (*ariṣyaṃtaḥ*)—not harmed by anyone; वयं (*vayaṃ*)—we; अग्नेः (*agneḥ*)—of Agni; इंद्रस्य (*iṃdrasya*)—of Indra; सोमस्य (*somasya*)—of Soma (and); देवानां (*devānāṃ*)—of all the other gods; ऊतिभिः (*ūtibhiḥ*)—with the protections
+
+### Printed p. 536
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 7 [as printed], p. 536.*
+
+; सचेमहि (*sacemahi*)—may we be united (and likewise); पृतन्यतः (*pṛtanyataḥ*)—the enemies who have armies; अभिष्याम (*abhiṣyāma*)—may we obtain the power to defeat (them).
+
+**भावार्थ (Bhāvārtha)**
+
+May we, unharmed by anyone, be united with the protections of Agni, Indra and Soma, and likewise with the protections of all the other gods; and may we obtain the power to defeat the enemies who have obtained exceedingly great military strength.
+
+**Printed English translation**
+
+May we, uninjured, be secure in the protection of Agni, Indra, Soma, and the gods, and, confident in battle, overcome(our enemies).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk, which forms the conclusion of the sūkta, protection is sought and prayed for from Agni, Indra, Soma and all the other gods.
+
+पृतन्यतः (*pṛtanyataḥ*)—Since the word प्रतना (*pratanā*) [sic, as printed; the Ṛk has पृतना (*pṛtanā*)] is read among the forty-six names of battle beginning with रणः (*raṇaḥ*) (Ni. 3-9), पृतना (*pṛtanā*) means war. पृतन्यतः (*pṛtanyataḥ*) means enemies who, accompanied by armies, intend to make war.
+
+The eighth sūkta is ended.
+
+**Adhyāya colophon (Sanskrit; Aṣṭaka 2, Adhyāya 5):**
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज-
+> धुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे
+> ऋक्संहिताभाष्ये द्वितीयाष्टके पंचमोऽध्यायः
+> ॥ समाप्तः ॥ ॥ समाप्तः ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*
+> *iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka śrīvīrabukkabhūpālasāmrāja-*
+> *dhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe*
+> *ṛksaṃhitābhāṣye dvitīyāṣṭake paṃcamo 'dhyāyaḥ*
+> *‖ samāptaḥ ‖ ‖ samāptaḥ ‖*
+
+Closing line (Kannada): "Here ends the fifth adhyāya, in the second aṣṭaka of the Ṛgveda-saṃhitā with Sāyaṇa's commentary and a Kannada translation." The Sanskrit verses give: dispelling the darkness of the heart by the light of the meaning of the Veda, may Vidyātīrtha-Maheśvara grant the four human aims; the colophon names Sāyaṇācārya as author of the Mādhavīya Vedārthaprakāśa on the Ṛk-saṃhitā.
+
+Then a verse of forgiveness (Sanskrit):
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर ननोऽस्तु ते ॥
+> ॥ शुभं भूयात् ॥ ॥ मंगळं ॥
+
+> *yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*
+> *tatsarvaṃ kṣamyatāṃ deva vāgīśvara nano 'stu te ‖*
+> *‖ śubhaṃ bhūyāt ‖ ‖ maṃgaḷaṃ ‖*
+
+The next printed leaf opens the sixth adhyāya. Invocation verses (to Gaṇapati, to Vidyātīrtha-Maheśvara, a verse stating that the fifth adhyāya of the middle of the second aṣṭaka has been explained by Sāyaṇa and the sixth will be explained, and a verse in praise of the Veda):
+
+> ॥ श्री ॥ ॥ श्री महागणाधिपतये नमः ॥
+> वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे
+> यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥
+> यस्य निश्वसितं वेदा यो वेदेभ्योखिलं जगत्
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥
+> द्वितीयाष्टकमध्यस्थः पंचमोध्याय आदरत् ।
+> व्याख्यातः सायणार्येण षष्ठश्च व्याकरिष्यते ॥
+> वेदः शिवः शिवो वेदो वेदाध्याया सदाशिवः ।
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+
+> *‖ śrī ‖ ‖ śrī mahāgaṇādhipataye namaḥ ‖*
+> *vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame*
+> *yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*
+> *yasya niśvasitaṃ vedā yo vedebhyokhilaṃ jagat*
+> *nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*
+> *dvitīyāṣṭakamadhyasthaḥ paṃcamodhyāya ādarat |*
+> *vyākhyātaḥ sāyaṇāryeṇa ṣaṣṭhaśca vyākariṣyate ‖*
+> *vedaḥ śivaḥ śivo vedo vedādhyāyā sadāśivaḥ |*
+> *tasmātsarvaprayatnena vedameva sadā japet ‖*
+
+Title: Ṛgveda-saṃhitā with Sāyaṇa's commentary; Second Aṣṭaka, Sixth Adhyāya ("In the second aṣṭaka, the sixth adhyāya"); Maṇḍala 2, Sūktas 9–23.
+
+> ॥ द्वितीयाष्टके षष्ठोऽध्यायः ॥
+
+> *‖ dvitīyāṣṭake ṣaṣṭho 'dhyāyaḥ ‖*
+
+## Sūkta 9 (Maṇḍala 2)
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> नि होतेति षडृचं नवमं सूक्तं गृत्समदस्यार्षं नि होतेत्यनुक्रांत-
+> त्वात् । अनुक्तत्वात् त्रिष्टुप् । मंडलादिपरिभाषयाग्निर्देवता ॥ प्रातरनुवाकाशिन-
+> शस्त्रयोराग्नेये क्रत् त्रैष्टुभे छंदस्यस्य विनियोगः । अथैतस्या इति खंडे
+> सूत्रितं । नि होता होतृषदन इति सूक्ते । आ. ४-१३ । इति ॥ अग्निप्रणयॆन आद्ये
+> ऋचौ विनियुक्ते । पंचम्यां पूर्णमास्यामिति खंडे सूत्रितं । नि होता होतृ-
+> षदन इति द्वे । आ. २-१७ ॥
+
+*Gist:* *ni hotā* is the ninth sūkta, six ṛks, by Gṛtsamada, deity Agni, Triṣṭubh; used in the Prātaranuvāka and the Āgneya-kratu; the first two ṛks are used in the agni-praṇayana, and the Pūrṇamāsa sūtra uses two ṛks.
+
 ---
 
-**Progress note:** Done through printed p. 533 (PDF 533). Sukta 8 Rk 3 Bhavartha end; Rk 4 and special topics on svar (in progress)
+**Progress note:** Done through printed p. 536 (PDF 536). Sukta 8 Rk 5-6 end; adhyaya 5 colophon; Sukta 9 bhashya intro
