@@ -3418,6 +3418,95 @@ In many such Ṛks the description of Indra's drinking of Soma is given. Because
 
 *Note: in the supplied text Saṃhitā and Pada of this Ṛk were not in the machine reading (a picture); they were written into kn.md from the picture. The Pada reads ऋत्यया (*ṛtyayā*) where the Saṃhitā has ऋतया (*ṛtayā*), as printed.*
 
+### Printed p. 610
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṇḍala 2, Adhyāya 1, Sūkta 11; p. 610.*
+
+**Sāyaṇa-bhāṣya** (continued from p. 609)
+
+> शिष्यज्जत्यज्जत्ययः ॥ किंच अवस्यवस्त्वत्तो रक्षणमिच्छंतः प्रशस्तिं । शस्तिः शंसनं ।
+> प्रकृष्टशंसनं स्तोत्रं धीमहि । त्वयि निदधीमहि । ततस्ते त्वदीयस्य रायो धनस्य
+> दावने दानाय पात्रभूताः सद्यः स्याम । इदानीं भवेम ॥
+
+*(Gist: the end of the grammatical note on the root vana, then: "desirous of protection, we offer you praise; thereby may we quickly become fit for the gift of your wealth.")*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra: O Indra. Viprāḥ: we, the wise. Tve: in your heart itself. Abhūma: may we be. Ṛtayā: with the wish for the fruit of the rite. Sapantaḥ: serving you. Dhiyam: the rite directed to you. Vanema: we worship. Avasyavaḥ: desiring your protection. Praśastim: your praise. Dhīmahi: I offer [as supplied; singular]. Te: your. Rāyaḥ: of wealth. Dāvane: for the gift. Sadyaḥ syāma: may we at once become fit.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, may we, the wise, be in your heart itself. Serving you with the wish for the fruit of the rite, we worship the rite directed to you. Desiring your protection, we offer you praise. May we at once become fit for the gift of your wealth.
+
+**Printed English**
+
+May we, your pious(worshippers), abide in you: approaching you with devotion, may we enjoy(the reward of) our adoration: desirous of protection, we meditate your glorification; may we ever be(thought worthy) of the gift of your treasures.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अपि (*api*) (api): "अपीति संसर्गं (*apīti saṃsargaṃ*)" (Nirukta 1-4). The word api ordinarily indicates the connection (saṃsarga) or relation between two words. Saṃsarga means joining one thing with another. Example: आहस्सु रात्रिष्टपि (*āhassu rātriṣṭapi*) [as supplied], that is, "in the day, and also in the night"; the word api indicates the relation, or the common quality, of night and day: the work that goes on in the day goes on in the night too. In the present Ṛk, as Sāyaṇa says, अपि सानुनयप्रश्ने वर्तते (*api sānunayapraśne vartate*) ("api is used in a courteous question"), it indicates a humble prayer.
+
+विप्राः (*viprāḥ*) (viprāḥ): मेधाविनो वयं (*medhāvino vayaṃ*), "we, the wise". Although the word asmad is not used here, because the first-person verbs vanema and syāma occur in this Ṛk, the word वयं (*vayaṃ*) ("we") must be supplied.
+
+### Printed p. 611
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 5; Ṛgvedasaṃhitā, p. 611.*
+
+ऋतया (*ṛtayā*) (ṛtayā): the various meanings of the word ṛta we have explained at length in Ṛg-veda Saṃhitā part 10, pp. 143 and 673. Here the commentator takes ṛta to mean कर्मफलं (*karmaphalaṃ*) (karmaphalam, "fruit of the rite") and explains ṛtayā as "from the desire for that fruit of the rite".
+
+धियं वनेम ऋतया सपंतः (*dhiyaṃ vanema ṛtayā sapaṃtaḥ*): O Indra, desiring the fruit of the rites we perform, serving you, or performing rites directed to you, we shall come near you (we shall reach you): this is the main sense of this sentence.
+
+त्वे इंद्राप्यभूम (*tve iṃdrāpyabhūma*): वयं त्वद्धदयेऽभूम (*vayaṃ tvaddhadaye 'bhūma*) ("we were in your heart"). The meaning is: let us be those whose minds are fixed on you, or let us be dear to you. The sense of the second half is clear.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> स्याम॒ ते त॑ इंद्र॒ ये त॑ ऊ॒ती अ॑व॒स्यव॒ ऊर्जं॑ व॒र्धयं॑तः।
+> शु॒ष्मिंत॑नुं॒ यं चा॒कना॑नु देवा॒स्मे र॒यिं रा॑सि वी॒रवं॑तं॥
+
+**॥ पदपाठः ॥**
+
+> स्याम । ते । ते । इंद्र । ये । ते । ऊती । अवस्यवः । उर्जं । वर्धयंतः ।
+> शुष्मिन्तमं । यं । चाकनाम । देव । अस्मे इति । रयिं । रासि । वीरवंतं ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र ते तवोती ऊत्या प्रणयनेन ॥ अवतेः प्राप्त्यर्थस्य क्रीनि रूपं ॥
+> ये ते तवावस्यवो रक्षाकामा ऊर्जं हविर्लक्षणमन्नं वर्धयंतो भवंति ते
+> तव वयं ते स्याम । त्वदधीना भवेम । देव द्योतमान हे इंद्र शुष्मिंतमं
+> दानभागायार्हतया बलवत्तमं यद्वा शत्रूणां शोषयितृतमं यं रयिं
+> चाकनाम । कामायामहे ॥ कनतेः कांत्यर्थस्य यज्लुगंतस्य लोटि रूपं ॥
+> वीरवंतं पुत्रपौत्रैः सहितं तादृशं रयिमस्मे अस्मभ्यं रासि । देहि ॥
+
+*(Gist: those devoted to you who increase your strength with offerings, may we be of their company; grant us such wealth, with sons and grandsons.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra: O Indra. Te: your. Ūtī: by favour. Ye: which devotees. Te: your. Avasyavaḥ: desiring protection. Ūrjam: food in the form of the oblation.
+
+### Printed p. 612
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṇḍala 2, Adhyāya 1, Sūkta 11; p. 612.*
+
+Vardhayantaḥ: who, offering abundantly, increase your strength. Te: those. Syāma: may we also become, joined to their company. Deva: O Indra, divine in nature. Śuṣmintamam: of strength to dry up enemies. Yam: which wealth. Cākanāma: we desire. Vīravantam: accompanied by heroic sons and others. Rayim: such wealth. Asme: to us. Rāsi: give.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, whichever devotees, by your favour, desiring your protection, offer you food in the form of the oblation in abundance and increase your strength, may we too join their company. O Indra, divine in nature, give us such wealth, accompanied by heroic sons and others, as has the strength to dry up enemies, which we desire.
+
+**Printed English**
+
+May we,(through) your(favour), Indra, be such as those are, who; desirous of your protection, augmeut(by their praises) your vigour: divine (Indra), you grant the wealth which we desire,(the source of) great power and of(numerous) progeny.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऊती (*ūtī*) (ūtī): ऊती ऊत्या प्रणयनेन । अवतेः प्राप्त्यर्थस्य क्तिनि रूपं (*ūtī ūtyā praṇayanena | avateḥ prāptyarthasya ktini rūpaṃ*) (the bhāṣya, as supplied: "ūtī is ūtyā, by leading; the form of the root avati in the sense of attainment with the suffix ktin"). Ordinarily the word ūti in the Ṛg-veda is formed from the root av, "to protect", and used in the sense of "protection"; but here the commentator says the word ūti is formed from the root avati having the sense of attainment (the meaning "to reach"), and that for ūtī, which stands in the nominative, the instrumental sense ūtyā must be understood; hence ūtī here means "by causing attainment, or by guidance".
+
+अवस्यवः (*avasyavaḥ*) (avasyavaḥ): this word too is formed from the root av, "to protect", and in the sense रक्षाकामाः (*rakṣākāmāḥ*) ("desiring protection") is an adjective of the supplied word वयं (*vayaṃ*) ("we").
+
+शुष्मिंतमं वीरवंतं रयिं चाकनाम (*śuṣmiṃtamaṃ vīravaṃtaṃ rayiṃ cākanāma*): in this sentence, the word शुष्मिंतमं (*śuṣmiṃtamaṃ*) is explained as दानभागायार्हतया बलवत्तमं (*dānabhāgāyārhatayā balavattamaṃ*): "very strong, because of the fitness for giving"; or शत्रूणां शोषयतृतमं (*śatrūṇāṃ śoṣayatṛtamaṃ*) [as supplied]: "most able to dry up or destroy enemies"; the rayim, that is, wealth. In the same way the word वीरवंतं (*vīravaṃtaṃ*) is explained as पुत्रपौत्रिः सहितं (*putrapautriḥ sahitaṃ*) [as supplied]: wealth accompanied by heroic sons, grandsons, servants and the like. Here
+
 ---
 
-**Progress note:** Done through printed p. 609 (PDF 609). Sukta 11 Rk 11 end of Special Topics, Rk 12 Samhita to start of bhashya; ref 8-3-40-5 as read from printed colon (noted)
+**Progress note:** Done through printed p. 612 (PDF 612). Sukta 11 Rk 12 end (bhashya, Pratipadartha, Special Topics), Rk 13 Samhita to Special Topics (cut off mid-sentence); Rk 13 Samhita lacks Rk number in supplied text
