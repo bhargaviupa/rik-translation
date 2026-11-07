@@ -1881,6 +1881,109 @@ O beautiful-formed Agni, your two dwelling-places in the form of heaven and eart
 
 [The printed English translation of this Ṛk is not present in the supplied text of these pages; it is not supplied here.]
 
+### Printed p. 559
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1; Ṛgveda-saṃhitā, p. 559.*
+
+**Printed English translation (Ṛk 5)**
+
+Beautiful Agni, the two dwelling-places(heaven and earth) of you, who are born day by day, never perish; confer upon him who praises you(abundant) food, and make him the master of riches,(supporting) virtuous offspring.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+दिवेदिवे जायमानस्य (दिवेदिवे जायमानस्य (*divedive jāyamānasya*)): "of him who is born every day, at the time of the Agnihotra." Because people kindle and worship Agni every day, at the Agnihotra time and at other times, he is said to be born every day. In the same way there are many descriptions of the goddess Uṣas and of the Sun being born every day.
+
+जरितारं (जरितारं (*jaritāraṃ*)): the sacrificer who is praising you. The word जरितृ (जरितृ (*jaritṛ*)) is read among the names of praisers (Ni. 3-19).
+
+उभयं वसव्यं (उभयं वसव्यं (*ubhayaṃ vasavyaṃ*)): the dwelling-place in heaven and earth. Two kinds of dwelling-place are meant here: in heaven, among the gods; on earth, in the sacrificial house of the sacrificers who perform sacrifices.
+
+क्षुमंतं (क्षुमंतं (*kṣumaṃtaṃ*)): "as one possessing food". The word क्षु (क्षु (*kṣu*)) is read among the names of food (Ni. 3-9). क्षुमंतं (क्षुमंतं (*kṣumaṃtaṃ*)) means one who has food.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> सैनानी॑केन सुवि॒दत्रो॑ अ॒स्मे यष्टा॑ दे॒वा आय॑जिष्ठः स्व॒स्ति ।
+> अद॑ब्बो गो॒पा उ॒त नः॑ पर॒स्पा अग्ने॑ द्यु॒मदु॒त रे॒वद्दि॑ दीहि ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । एना । अनीकेन । सुविदत्रः । अस्मे इति । यष्टा । देवान् । आयजिष्ठः । स्वस्ति ।
+> अदब्धः । गोपाः । उत । नः । परःपाः । आग्ने । द्युमत् । उत । रेवत् । दिदीहि ॥ ६ ॥
+
+> *saḥ | enā | anīkena | suvidatraḥ | asme iti | yaṣṭā | devān | āyajiṣṭhaḥ | svasti |*
+> *adabdhaḥ | gopāḥ | uta | naḥ | paraḥpāḥ | āgne | dyumat | uta | revat | didīhi ‖ 6 ‖*
+
+### Printed p. 560
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 560.*
+
+**॥ सायणभाष्यम् ॥**
+
+> साकमेधे पर्वणि पूर्वद्युरनुसवनं तिस्र इष्टयः कर्तव्याः । प्रथमाया-
+> मग्नेरनीकवतः सैनानीकेनेति याज्या । तथा ततः साकमेधा इति खंडे सूत्रितं ।
+> सैनानीकेन सुविदत्रो अस्मे । आ. २. १८. । इति ॥
+> हे अग्ने स तादृशस्त्वमेनानेनानीकेन युक्तस्त्वं सुविदत्रः सुप्रतिज्ञः
+> सुधनो वास्के अस्माकं भव । देवान्यष्टा देवानां हविष्पदानेन पूजक आय-
+> जिष्ठो यष्टृतमोऽदब्धः केनाप्यतिरस्कृतो गोपा देवानां गोपायिता । उत
+> अपि च नोऽस्माकं परस्पा दुरितेभ्यः पारयिता पाता च त्वं द्युमत् कांतियुक्तं
+> उत अपि च रेवत् धनयुक्तर यथा भवति तथा स्वस्ति दिदीहि । क्षेमेण सर्वतो
+> दिदीहि । क्षेमेण सर्वतो दीप्यस्व ॥
+
+*Gist:* At the Sākamedha, a Yājyā verse in the first iṣṭi (Āśvalāyana Śrauta-sūtra 2-18); Agni, with his host, is asked to be bountiful, unassailable protector and preserver, and to shine with wealth and well-being.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agni (अग्ने (*agne*)): O Agni. That one (सः (*saḥ*)): you, of the qualities described above. With this host (एना अनीकेन (*enā anīkena*)): together with all your attendants. To us (अस्मे (*asme*)): to us. Suvidatraḥ (सुविदत्रः (*suvidatraḥ*)): be the giver of excellent hope [the Kannada reads ಆಶಂಸೆ]. The gods (देवान् (*devān*)): the worshipper of the gods. Yaṣṭā (यष्टा (*yaṣṭā*)): the one who worships. Āyajiṣṭhaḥ (आयजिष्ठः (*āyajiṣṭhaḥ*)): the best even among worshippers. Adabdhaḥ (अदब्धः (*adabdhaḥ*)): one not despised by anyone. Gopāḥ (गोपाः (*gopāḥ*)): the protector (of the gods). And (उत (*uta*)): and. To us (नः (*naḥ*)): to us. Paraspāḥ (परस्पाः (*paraspāḥ*)): you who are also the deliverer from sin. Dyumat (द्युमत् (*dyumat*)): that which is bright. And (उत (*uta*)): and. Revat (रेवत् (*revat*)): that which is rich. Svasti (स्वस्ति (*svasti*)): so that well-being is obtained. Didīhi (दिदीहि (*didīhi*)): shine.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, most excellent one, together with all your attendants be the giver of excellent hope to us. You are the worshipper of the gods, the best among worshippers, unrejected by anyone, the protector, and the one who delivers us from sin: shine so that bright and wealthy well-being is obtained.
+
+**Printed English translation**
+
+Do you, with this(your) host(of attendants), be of good promise to us; be, the especial worshipper of the gods, their nnassailable [sic] protector, as well as our preserver; light up(all) with shining and affluent well-being.
+
+### Printed p. 561
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 2; Ṛgveda-saṃhitā, p. 561.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the sacrifice called Sākamedha, three iṣṭis (sacrifices) must be performed on the day before the Savana. In the first iṣṭi, in the Yājyā offering addressed to Agni, the deity (printed ಅಗ್ನಿ ರನೀಕನಾನ್, as supplied, "Agni anīkavān"), this Ṛk beginning सैनानीकेन (सैनानीकेन (*sainānīkena*)) is employed, as explained by the sūtra सैनानीकेन सुविदत्रो अस्मे (सैनानीकेन सुविदत्रो अस्मे (*sainānīkena suvidatro asme*)) in the section beginning ततः साकमेधाः (ततः साकमेधा (*tataḥ sākamedhā*)) of the Āśvalāyana Śrauta-sūtra (Ā. 2-18).
+
+In this Ṛk, the conclusion of the sūkta, Agni is prayed to make us free of sin and to bestow wealth and well-being.
+
+सुविदत्रः (सुविदत्रः (*suvidatraḥ*)): Sāyaṇa's explanation is सुप्रतिज्ञः सुधनो वा (सुप्रतिज्ञा सुधनो वा (*supratijñā sudhano vā*)) [as supplied, with ಸುಪ್ರತಿಜ್ಞಾ where the bhāṣya has ಸುಪ್ರತಿಜ್ಞಃ]: one of good promise, or one with wealth. Yāska:
+
+सुविदत्रः कल्याणविद्यः । आग्ने याहि सुविदत्रेभिरर्वाज् इत्यपि निगमो भवति ॥ (*suvidatraḥ kalyāṇavidyaḥ | āgne yāhi suvidatrebhirarvāj ityapi nigamo bhavati ‖*) (Ni. 6-14)
+
+That is, he gives the meaning of the word सुविदत्र (सुविदत्र (*suvidatra*)) as "of auspicious knowledge" or "of good knowledge", and gives the example beginning आग्ने याहि (आग्ने याहि (*āgne yāhi*)) [as supplied]. And further:
+
+पूषा त्वेतश्चावयतु प्र विद्वाननष्टपशुर्भुवनस्य गोपाः । (*pūṣā tvetaścāvayatu pra vidvānanaṣṭapaśurbhuvanasya gopāḥ |*)
+स त्वैतेभ्यः परि ददत्पितृभ्योग्निर्देवेभ्यः सुविदत्रियेभ्यः ॥ (*sa tvaitebhyaḥ pari dadatpitṛbhyognirdevebhyaḥ suvidatriyebhyaḥ ‖*) (Ṛ. Saṃ. 10-17-3)
+
+In giving the nirvacana for this Ṛk he says:
+
+सुविदत्रं धनं भवति विंदतेवैकोपसर्गाद्द दातेर्वा स्यात् द्व्यपसर्गात् । (*suvidatraṃ dhanaṃ bhavati viṃdatevaikopasargādda dātervā syāt dvyapasargāt |*) (Ni. 7-9)
+
+That is, सुविदत्र (सुविदत्र (*suvidatra*)) means wealth. He explains that this word can be formed either from the root विंदति (विंदति (*viṃdati*)), "to obtain", with the single prefix सु (सु (*su*)), or from the root ददाति (ददाति (*dadāti*)), "to give", with the two prefixes सु (सु (*su*)) and वि (वि (*vi*)).
+
+## Sūkta 10 (Maṇḍala 2)
+
+**Introduction to the sūkta (Sanskrit, transcribed)**
+
+> जोहूत्र इति षडृचं दशमं सूक्तं गार्त्समदं त्रैष्टुभमाग्नेयं जो-
+> हूत्र इत्यनुक्रांतत्वात् । सूक्तविनियोगः पूर्वेण सहोक्तः ॥
+
+*Gist:* *johūtra* is the tenth sūkta, six ṛks, by Gṛtsamada, deity Agni, Triṣṭubh; its application is as stated for the preceding sūkta.
+
+**Anuvāda (Kannada)**
+
+This sūkta जोहूत्रः (जोहूत्रः (*johūtraḥ*)) is the tenth sūkta in the first anuvāka. It has six ṛks. The seer of this sūkta is Gṛtsamada; the deity is Agni; the metre is Triṣṭubh. In the Anukramaṇī it is given as beginning with जोहूत्र (जोहूत्र (*johūtra*)). The application of this sūkta has been stated earlier.
+
+*(The supplied text ends the page with a stray footer "[36] Vol. 14".)*
+
 ---
 
-**Progress note:** Done through printed p. 558 (PDF 558). Sukta 9 Rik 4 (Samhita/Pada read from figure, 2 doubts) and Rik 5 (printed English absent from supplied text)
+**Progress note:** Done through printed p. 561 (PDF 561). Sukta 9 Rik 5 special topics, Rik 6 complete; Sukta 10 introduction
