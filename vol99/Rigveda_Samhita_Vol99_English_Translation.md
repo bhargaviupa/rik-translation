@@ -5673,6 +5673,74 @@ The oblation that the sacrificer offers to the gods is announced to the gods by 
 One(priest) announces(the offering) that he,(the institutor of the rite)
 presents; another performs the act that apportions the limbs(of the victim);
 
+### Printed p. 691
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 10] Ṛgveda-saṃhitā; p. 691.*
+
+a third corrects all the deficiencies of either, and as he, who has
+enjoyed these(functions), you,(Indra), are especially to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the qualities of Indra are described: the functions that the priests (ṛtvij) such as the sacrificer, the Hotṛ and the Adhvaryu perform in the sacrifice are made to be done by Indra through each of them, and he is pleased.
+
+अनु एकः वदति यत् ददाति (*anu ekaḥ vadati yat dadāti*) — यजमानो यद्धनिर्देवेभ्यो ददाति तदेको होतानुवदति । याज्यापुरोनुवाक्याभ्यां देवताः स्मारयति । (*yajamāno yaddhanirdevebhyo dadāti tadeko hotānuvadati | yājyāpuronuvākyābhyāṃ devatāḥ smārayati |*) When the sacrificer who performs the sacrifice offers to the gods the oblation, the ghee-offering and the like in the fire, he must do so reciting, appropriate to each time and each rite, mantras addressed to the deity. Such mantras are recited by the Hotṛ, one of the priests. First the Hotṛ recites the mantras called nivid, in praise of the qualities of the deity to whom the sacrificer offers the oblation. Then he recites the mantra called puronuvākyā, of the nature of praise or invitation to that deity, and invites the deity to come to the sacrificial ground. After the invitation, while the oblation is being offered in the fire to that deity, the Hotṛ recites the Ṛk called yājyā, whose sense is that the deity should accept the oblation. This same order is followed when an oblation is offered to every deity. Therefore, by the words यद्ददाति (*yaddadāti*) here is meant "whatever oblation the sacrificer offers", and by अन्वेको वदति (*anveko vadati*) that "in accordance with it, that is, mantras containing that very sense are recited by one (that is, by the Hotṛ, one of the priests)" is the main intention.
+
+(अनु एकः यत् ददाति (*anu ekaḥ yat dadāti*)) तद्रूपा मिनन् तदपा एक ईयते—एकोऽध्वर्यू रूपा पश्वादीनां रूपाणि मिनन् हिंसन् तदपास्तद्विशसनाख्यमपः कर्म यस्य तादृशः सन् ईयते देवयजने सर्वत्र गच्छति । (*tadrūpā minan tadapā eka īyate—eko 'dhvaryū rūpā paśvādīnāṃ rūpāṇi minan hiṃsan tadapāstadviśasanākhyamapaḥ karma yasya tādṛśaḥ san īyate devayajane sarvatra gacchati |*) The commentator explains the sense thus: after the Hotṛ has recited the mantra suited to each time or each rite, the priest called Adhvaryu, engaged in the work of killing the victim, goes to and fro on the sacrificial ground, doing, according to rule, such acts as cutting up the limbs of the victim so that separate oblations can be made in the sacrificial offerings. Here a doubt arises. In this sentence the word अध्वर्यु (*adhvaryu*) is not used. And the words तद्रूपा मिनन्तदपाः (*tadrūpā minantadapāḥ*) yield the sense: injuring (that is, killing) the form of the victim and doing the acts connected with it, such as cutting the limbs. In the sacrifice neither killing the victim nor cutting its limbs is the work of the priest called Adhvaryu; for this work there is one called Śamitā. Since in the present
+
+### Printed p. 692
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 692.*
+
+Ṛk the word अध्वर्यु (*adhvaryu*) is absent, and the one who kills the victim is the Śamitā, the word एकः (*ekaḥ*) here may indicate the Śamitā himself. Or, since it is not impossible that in some circumstances the Adhvaryu performs the duties of other priests, the Adhvaryu may be what is suggested here. At any rate the meaning of the word एकः (*ekaḥ*) in this sentence remains one attended by doubt.
+
+तद्रूपा मिनन् तदपाः (*tadrūpā minan tadapāḥ*) — Here Sāyaṇa explains the word तद्रूपा (*tadrūpā*) as the form (body) of the victim and the like, and तदपः (*tadapaḥ*) as तद्विशसनाख्यमपः (*tadviśasanākhyamapaḥ*), the rite of cutting it up. The word अपः (*apaḥ*) is read among the names of works (Nirukta 3-1). Although the word "victim" does not occur in this sentence, since the word मिनन् (*minan*) (injuring) is used, there is no objection to understanding तद्रूपा (*tadrūpā*) as the form of the victim.
+
+विश्वाः एकस्य विनुधः तितिक्षते (*viśvāḥ ekasya vinudhaḥ titikṣate*) — एकस्याध्वयोर्विश्वा विनुधः सर्वाणि तत्कर्तृकाणि विक्षेपणरूपाणि कर्मवैगुण्यानि तितिक्षते । तद्योग्यप्रायश्चित्तकरणेन ब्रह्मा सहते (*ekasyādhvayorviśvā vinudhaḥ sarvāṇi tatkartṛkāṇi vikṣepaṇarūpāṇi karmavaiguṇyāni titikṣate | tadyogyaprāyaścittakaraṇena brahmā sahate*) When, through inadvertence in the sacrifice, deficiency or deviation arises in the various rites, the priest called Brahman sets them right by expiations and the like. That is the very work of the Brahman. Since the Adhvaryu has to do many kinds of work here (that is, in the sacrifice), it is not impossible that many lapses occur. The chief intention of this sentence is that the priest called Brahman sets right such acts, and the deficiencies that occur in the acts done by the other priests.
+
+यः ता अकृणोः प्रथमं सः आसि उक्थ्यः (*yaḥ tā akṛṇoḥ prathamaṃ saḥ āsi ukthyaḥ*) — You, Indra, bring to completion by your inspiration the acts done by the three priests mentioned above. Therefore you, endowed with such a quality, are worthy of praise: thus Indra is praised.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> प्र॒जाभ्यः॑ पु॒ष्टिं वि॒भजं॑त आसते र॒यिमि॑न पृ॒ष्ठं प्र॒भवं॑तमाय॒ते ।
+> असि॑न्व॒न्दंष्ट्रैः॑ पि॒तुर॑त्ति॒ भोज॑नं॒ यस्ताकृ॑णोः प्रथ॒मं सास्यु॒क्थ्यः॑ ॥ ४ ॥
+
+> *prajābhyaḥ puṣṭiṃ vibhajaṃta āsate rayimina pṛṣṭhaṃ prabhavaṃtamāyate |*
+> *asinvandaṃṣṭraiḥ pituratti bhojanaṃ yastākṛṇoḥ prathamaṃ sāsyukthyaḥ ‖ 4 ‖*
+
+### Printed p. 693
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 10] Ṛgveda-saṃhitā; p. 693.*
+
+**॥ पदपाठः ॥**
+
+> प्रजाभ्यः । पुष्टिं । विभजंतः । आसते । रयिंइव । पृष्ठं । प्रभवंतं आयते ।
+> असिन्वन् । दंष्ट्रैः । पितुः । अत्ति । भोजनं । यः । ता । अकृणोः । प्रथमं । सः ।
+> असि । उक्तैः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र पुष्टिं त्वया दत्तं पोषकं धनं स्वकीयाभ्यः प्रजाभ्यो विभजं-
+> तोऽस्यॆतावदस्यॆतावदिति विभागं कुर्वंतो गृहमेधिन आसते । स्वस्वगृहेषु निव-
+> संति । तत्र दृष्टांतः । आयते गृहं प्रत्यागच्छतेऽतिथये पृष्ठं धारकं प्रभवंतं
+> बहुभरणसमर्थं रयिं धनं यथा विभज्य प्रयच्छंति तद्वत् । असिन्सन् सेतुबंधा-
+> दिकं कर्म कुर्वन् लोकः पितुः पालयित्रा दिवः सकाशादागतं भोजनमुदकं
+> तत्कार्या ओषधीर्दंष्ट्रैर्दंतैरत्ति । भक्षयति । यद्वा असिन्सन् अव्याप्रियमा-
+> णोऽग्निः पितुः पालकस्य यजमानस्य संबंधि भोजनं हविर्लक्षणमन्नं दंष्ट्रै-
+> र्दंतरूपैर्ज्वालैरत्ति । यस्ताकृणोरित्यादि सिद्धं ॥
+
+*Gist:* Householders dwell in their houses, dividing the wealth you gave among their offspring as one shares wealth with a guest; creatures eat the water and plants; you, who made all this, are praised.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आयते (*āyate*) — to the guest who comes to the house. पृष्ठं (*pṛṣṭhaṃ*) — sufficient. प्रभवंतं (*prabhavaṃtaṃ*) — fit to support many people. रयिं (*rayiṃ*) — as one shares out wealth. पुष्टिं (*puṣṭiṃ*) — nourishing (wealth given by you). प्रजाभ्यः (*prajābhyaḥ*) — to the offspring such as sons. विभजंतः (*vibhajaṃtaḥ*) — the sacrificers (householders) who divide and give. आसते (*āsate*) — dwell happily in their respective houses. असिन्वन् (*asinvan*) — doing works such as the building of dams. पितुः (*pituḥ*) — given by the protecting world of the gods. भोजनं (*bhojanaṃ*) — the water and the food created from it. दंष्ट्रैः (*daṃṣṭraiḥ*) — with the help of teeth. अत्ति (*atti*) — (the world) eats. यः (*yaḥ*) — you who. ता अकृणोः (*tā akṛṇoḥ*) — have caused all these acts to be done. सः (*saḥ*) — such you. प्रथमं (*prathamaṃ*) — very specially. उक्ष्यः असि (*ukṣyaḥ asi*) — are worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+
+Householders, the sacrificers who divide among their offspring such as sons the nourishing wealth given by you, as one shares out wealth sufficient for a guest who comes to the house and fit to support many people, dwell happily in their respective houses. Doing works such as the building of dams
+
 ---
 
-**Progress note:** Done through printed p. 690 (PDF 690). Sukta 13 Rik 2 Pratipadartha end, Bhavartha, Special Topics; Rik 3 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English start
+**Progress note:** Done through printed p. 693 (PDF 693). Sukta 13 Rik 3 Special Topics; Rik 4 Samhita, Pada, bhashya, Pratipadartha, Bhavartha start
