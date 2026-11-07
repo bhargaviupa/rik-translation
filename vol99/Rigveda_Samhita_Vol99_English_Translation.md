@@ -1309,6 +1309,91 @@ Title: Ṛgveda-saṃhitā with Sāyaṇa's commentary; Second Aṣṭaka, Sixth
 
 *Gist:* *ni hotā* is the ninth sūkta, six ṛks, by Gṛtsamada, deity Agni, Triṣṭubh; used in the Prātaranuvāka and the Āgneya-kratu; the first two ṛks are used in the agni-praṇayana, and the Pūrṇamāsa sūtra uses two ṛks.
 
+### Printed p. 538
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 538.*
+
+**Anuvāda (Kannada)**
+
+This sūkta नि होता (*ni hotā*) is the ninth sūkta in the first anuvāka of the second maṇḍala. It has six ṛks. The seer of this sūkta is Gṛtsamada, the seer of the maṇḍala; the deity is Agni; the metre is Triṣṭubh. It is used at the time of reciting the Prātaranuvāka and Aśvina-śastra mantras, as set out by the sūtra नि होता होतृषदन इति सूक्ते (*ni hotā hotṛṣadana iti sūkte*) in the section beginning अथैतस्या (*athaitasyā*) of the Āśvalāyana Śrauta-sūtra (Ā. 4-13); and the first two ṛks of this sūkta are used in the rite called agni-praṇayana, an auxiliary of the sacrifice, as set out by the sūtra नि होता होतृषदन इति द्वे (*ni hotā hotṛṣadana iti dve*) in the section beginning पंचम्यां पौण्यमास्यां (*paṃcamyāṃ pauṇyamāsyāṃ*) of the same Śrauta-sūtra (Ā. 2-17).
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 9. Maṇḍala 2, Anuvāka 1, Sūkta 9. Aṣṭaka 2, Adhyāya 6, Varga 1. Number of ṛks in the sūkta: 6. Seer: Gṛtsamada (printed गृत्समदॆः (*gṛtsamadèḥ*) in the supplied text). Deity: Agni. Metre: Triṣṭubh. A stray word कंठीरव (*kaṃṭhīrava*) follows the heading in the supplied text, apparently not part of the sūkta.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> नि होता॑ होतृ॒षद॑ने॒ विदा॑नस्त्वे॒षो दी॑दि॒वा अ॑सदत्सु॒दक्षः॑ ।
+> अद॑ब्धव्रतप्रमति॒र्वसि॑ष्ठः सहस्रंभ॒रः शुचि॑जिह्वो अ॒ग्निः ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> नि । होता । होतृसदने । विदानः । त्वेषः । दीदिवान् । असदत् । सुदक्षः ।
+> अदब्धव्रतप्रमतिः । वसिष्ठः । सहस्रंभरः । शुचिजिह्वः । अग्निः ॥ १ ॥
+
+> *ni | hotā | hotṛsadane | vidānaḥ | tveṣaḥ | dīdivān | asadat | sudakṣaḥ |*
+> *adabdhavratapramatiḥ | vasiṣṭhaḥ | sahasraṃbharaḥ | śucijihvaḥ | agniḥ ‖ 1 ‖*
+
+(Note: the Pada as supplied reads होतृसदने (*hotṛsadane*) where the Saṃhitā has होतृषदने (*hotṛṣadane*); left as supplied.)
+
+### Printed p. 539
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 539.*
+
+**॥ सायणभाष्यम् ॥**
+
+> गृत्समदः स्तौति । होता देवानामाह्वाता विदानो विद्वान् त्वेषः
+> प्रवृद्दो दीदिवान् दीप्यमानः सुदक्षः शोभनबलोऽदब्बव्रतप्रमतिः । अदब्बान्य-
+> हिंसितानि व्रतानि कर्माणि यस्याः सादब्बव्रता प्रमतिः प्रकृष्टा बुद्धिर्यस्य स
+> तथोक्तः । वसिष्ठः सर्वस्य वासयितृतमः ॥ वासयतेस्तृजंतस्यॆष्ठनि रूपं ॥
+> सहस्रंभरः सहस्रस्यानेकविधस्य भर्ता । विहरणेन नानाविधरूपस्य धारक इत्यर्थः ।
+> यद्वा सहस्रस्य सर्वस्य भर्ता । तथा च वाजसनेयं । सर्वं वै सहस्रं सर्वं-
+> भर इत्येव तदाहेति । शुचिजिह्वः । शुचिर्दिप्ता जिह्वा ज्वाला यस्य स तथोक्तः ।
+> एवंभूतोऽग्निर्होतृषदने । होतात्र सीदतीति होतृषदनमुत्तरा वेदी ॥
+> अधिकरणे ल्युट् ॥ तत्र न्यसदत् । नितरां सीदतु ॥ उक्तार्थे ब्राह्मणं । नि
+> होता होतृषदने विदाद इत्यग्निर्वै देवानां होता तस्यैतद्दोतृषदनं
+> यदुत्तरवेदीनाभिस्वेषो दीदिवा असदत्सुदक्ष इत्यासन्नो हि स तर्हि भवत्य-
+> दब्बव्रतप्रमतिर्वसिष्ठ! इत्यग्निर्वै देवानां वसिष्ठः सहस्रंभरः शुचिजिह्वो अग्निरित्येषा
+> ह वा अस्य सहस्रंभरता यदेनमेकं संतं बहुधा विहरंति । ऐ. ब्रा. १. २८. । इति ॥
+
+*Gist:* Gṛtsamada praises Agni, the invoker of the gods, wise, resplendent, of fair strength and unharmed rites, the best dweller, bearer of a thousand, bright-tongued; may he sit on the northern altar. A Brāhmaṇa passage (Ai. Brā. 1. 28) is cited.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+होता (*hotā*)—he who calls the gods to the sacrifice; विदानः (*vidānaḥ*)—the wise one; त्वेषः (*tveṣaḥ*)—the grown, the mighty; दीदिवान् (*dīdivān*)—the shining one; सुदक्षः (*sudakṣaḥ*)—he who has excellent strength; अदब्धव्रतप्रमतिः (*adabdhavratapramatiḥ*)—he who has the excellent knowledge that his rite cannot be harmed; वसिष्ठः (*vasiṣṭhaḥ*)—he who has the best dwelling-place; सहस्रंभरः (*sahasraṃbharaḥ*)—he who bears thousands of forms; शुचिजिह्वः (*śucijihvaḥ*)—he who has a tongue that is shining and of the form of flame; अग्निः (*agniḥ*)—Agni; होतृषदने (*hotṛṣadane*)—in the northern altar, the seat of the hotṛ; नि असदत् (*ni asadat*)—may he sit down.
+
+**भावार्थ (Bhāvārtha)**
+
+May Agni, who calls the gods to the sacrifice, the wise, the grown, the shining, the one of excellent strength, the one who knows that his rites cannot be harmed, the one of the best dwelling-place, the bearer of thousands of forms, the one whose tongue is bright and flame-like, sit down on the northern altar, the seat of the hotṛ.
+
+**Printed English translation**
+
+May Agni, the invoker(of the gods), the intelligent, the resplendent, the radiant, the very powerful; he who knows(how to maintain) his rites
+
+### Printed p. 540
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 540.*
+
+undisturbed; who is steady in(his own) place, and is the cherisher of thousands, sit in the station of the invoking priest.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the seer Gṛtsamada praises Agni, describing him with various epithets.
+
+होता (*hotā*)—the one who invokes the gods, that is, Agni, who brings the gods invited to the sacrifice to the sacrificial altar. The word होतृ (*hotṛ*) is used in the sacrifice in the sense of human hotṛ priests, in the sense of Agni who accomplishes the oblation, that is, performs the homa, and in the sense of Agni who invokes the gods. Here it is said to mean Agni who invokes the gods.
+
+त्वेषः (*tveṣaḥ*)—the grown, that is, Agni blazing up with fuel, wood and the like and burning fiercely. When fire is churned in the two fire-sticks it is very small, and is therefore said to be in the form of a child. The same Agni, when set up in the āhavanīya and other fires and burning large with wood and the like and with oblations of ghee, is said to be grown. The word त्वेषः (*tveṣaḥ*) is formed from the root त्विष् (*tviṣ*) (to shine) and indicates one who shines resplendently.
+
+सुदक्षः (*sudakṣaḥ*)—the word दक्षः (*dakṣaḥ*) is read [text: परित (*parita*), as supplied] among the twenty-eight names of strength such as ओजः (*ojaḥ*) and पाजः (*pājaḥ*) (Ni. 3-9); so सुदक्षः (*sudakṣaḥ*) means one of very great strength.
+
+अदब्धव्रतप्रमतिः (*adabdhavratapramatiḥ*)—अदब्बान्यहिंसितानि व्रतानि कर्माणि यस्याः सादब्धव्रता प्रमतिः प्रकृष्टा बुद्धिर्यस्य स तथोक्तः (*adabbānyahiṃsitāni vratāni karmāṇi yasyāḥ sādabdhavratā pramatiḥ prakṛṣṭā buddhiryasya sa tathoktaḥ*). That is, the rites of Agni, namely the auxiliary acts of the sacrifice such as invoking the gods and carrying the oblation, are unharmed, that is, of a nature that does no harm to anyone. The sense is: Agni, who has the excellent knowledge that the rites he performs are of such a nature. Compound words of more than two members (compound words) are very rare in the Ṛgveda. In this word three members, अदब्ध (*adabdha*) + व्रत (*vrata*) + प्रमति (*pramati*), join to make one compound; such usages are very scarce.
+
+वसिष्ठः (*vasiṣṭhaḥ*)—सर्वस्य वासयितृतमः (*sarvasya vāsayitṛtamaḥ*): the best among those who provide a dwelling-place for all; or one who has an excellent dwelling-place.
+
+सहस्रंभरः (*sahasraṃbharaḥ*)—सहस्रस्यानेकविधस्य भर्ता । विहरणेन नानाविधरूपस्य धारक इत्यर्थः । यद्वा सहस्रस्य सर्वस्य भर्ता (*sahasrasyānekavidhasya bhartā | viharaṇena nānāvidharūpasya dhāraka ityarthaḥ | yadvā sahasrasya sarvasya bhartā*). Here the word सहस्र (*sahasra*) means "many"; Agni [the supplied text ends here, mid-sentence, at the foot of printed p. 540].
+
 ---
 
-**Progress note:** Done through printed p. 536 (PDF 536). Sukta 8 Rk 5-6 end; adhyaya 5 colophon; Sukta 9 bhashya intro
+**Progress note:** Done through printed p. 540 (PDF 540). Maṇḍala 2 Sūkta 9 Ṛk 1; Special Topics continue (cut mid-sentence at foot of p. 540)
