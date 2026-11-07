@@ -4723,6 +4723,79 @@ in the hidden place, hell and the like: such is the explanation of the commentat
 
 श्वघ्नव यः जिगीवान् लक्षं आदत् अर्यः पुष्टानि (*śvaghnava yaḥ jigīvān lakṣaṃ ādat aryaḥ puṣṭāni*) — for the word श्वघ्नव (*śvaghnava*) in this sentence Sāyaṇa gives the explanation श्वघ्नव श्वभिर्मृगान् हंतीति श्वघ्नी व्याधः (*śvaghnava śvabhirmṛgān haṃtīti śvaghnī vyādhaḥ*): श्वघ्नि (*śvaghni*) means a hunter who kills animals; as such a hunter kills the animal at which he aims, so Indra conquered enemies and took their abundant wealth and other goods: so he has explained the meaning. But Yāska gives for the word श्वघ्नि (*śvaghni*) the etymology श्वघ्नी कितवो भवति स्वं हंति स्वं पुनराश्रितं भवति (*śvaghnī kitavo bhavati svaṃ haṃti svaṃ punarāśritaṃ bhavati*) (Ni. 5-22); that is, the word श्वघ्नि (*śvaghni*) means a gambler (kitava) [the printed word reads श्वघ्निशब्दक्क (*śvaghniśabdakka*), a slip for श्वघ्निशब्दक्कॆ (*śvaghniśabdakkè*); as printed]. The word kitava has the meanings cheat, deceiver, liar, gambler and so on. In the present sentence any of the meanings given above may be used. That is, as a gambler defeats his opponent
 
+### Printed p. 658
+
+*Running head: [658 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+so also the meaning may be given that Indra defeated his enemies, attacked them and plundered their wealth and other goods, as one robs another of the goods in his possession.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> यं स्मा॑ पृ॒च्छंति॒ कुह॒ सेति॑ घो॒रमु॒तेमा॑हु॒र्नैषो अ॒स्तीत्ये॑नं ।
+> सो अ॒र्यः पु॒ष्टीर्विज॑ इ॒वा मि॑नाति॒ श्रद॑स्मै धत्त॒ स ज॑नास॒ इंद्रः॑ ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> यं । स्म । पृच्छंति । कुह । सः । इति । घोरं । उत । ईं । आहुः । न । एषः । अस्ति ।
+> इति । एनं ।
+> सः । अर्यः । पुष्टीः । विजःऽइव । आ । मिनाति । श्रत् । अस्मै । धत्त । सः । जनासः । इंद्रः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अपश्यंतो जना घोरं शत्रूणां घातकं यं पृच्छंति स्म कुह सेति । स
+> इंद्रः कुत्र वर्तत इति ॥ सेति। सोऽचि लोपे चेत्पादपूरणमिति सोर्लोपे गुणः॥
+> न क्वचिदसौ तिष्ठतीति मन्यमाना जना एनमिंद्रमाहुः एष इंद्रो नास्तीति । तथा च
+> मंत्रैर्नेंद्रो अस्तीति नेम उ त्व आह । ९-१००-३ । इति । ईमिति पूरणः । स
+> इंद्रो विज इव । इवशब्द एवार्थे । उद्वेजक एव सन् अर्योऽरेः संबंधीनि
+> पुष्टिः पोषकाणि गवाश्वादीनि धनान्यामिनाति । सर्वतो हिनस्ति ॥ मीज् हिंसायां ।
+> मीनातेर्निगम इति ह्रस्वः ॥ तस्मात् श्रदस्मा इंद्राय धत्त । स इंद्रोऽस्तीति विश्वास-
+> मत्र कुरुत । यद्यप्यसौ विशेषतोऽस्माभिर्न दृश्यते तथापि अस्तीति विश्वासं कुरुत ।
+> एवं निर्धारणमहिमोपेतः स इंद्रो नाहमिति ॥
+
+*Gist:* People who cannot see Indra ask where the terrible destroyer of enemies is; some say he does not exist; he, as the one who agitates, destroys the enemy's cattle, horses and other riches; so have faith in him.
+
+### Printed p. 659
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 659.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*) — as for that Indra. कुह स्म इति (*kuha sma iti*) — "where is he?" घोरं (*ghoraṃ*) — terrible to the enemy. यं (*yaṃ*) — whom (concerning whom). पृच्छंति (*pṛcchaṃti*) — they ask. एनं (*enaṃ*) — concerning such an Indra. विषः (*viṣaḥ*) [sic, as printed] — he. न अस्तीति (*na astīti*) — "he is not in one place only". आहुः (*āhuḥ*) — (the learned) say. सः (*saḥ*) — that same Indra. विजइव (*vijaiva*) — as one who agitates. अर्यः (*aryaḥ*) — belonging to the enemy. पुष्टिः (*puṣṭiḥ*) — nourishing cattle, horses and the like. आ मिनाति (*ā mināti*) — destroys on every side. जनासः (*janāsaḥ*) — O people. सः (*saḥ*) — he who has such great qualities. इंद्रः (*iṃdraḥ*) — Indra. अस्मै (*asmai*) — in this Indra. श्रद्धत्त (*śraddhatta*) [sic, as printed] — place faith.
+
+**भावार्थ (Bhāvārtha)**
+
+Concerning that Indra, terrible to the enemy, about whom people ask "Where is he?", the learned say that he is not in one place only. That same Indra, as one who agitates, destroys on every side the cattle, horses and the like that belong to the enemy and nourish him. O people, place faith in such a great Indra.
+
+**Printed English translation**
+
+He, whom, terrible, they ask for,(saying), Where is he? or, verily, they say of him, he is not(in any one place); but who, inflicting(chastisement), destroys the cherished(treasures) of the enemy: in him have faith: for he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+A special meaning is suggested in this Ṛk. Because Indra, unlike Agni and the other gods, is not seen by people's eyes, people ask: where is that terrible and mighty Indra? Though some say there is no Indra at all, the wonderful deeds Indra performs and the slaying of enemies are plain to our direct perception; therefore the Ṛṣi describes (the Ṛk as saying): have firm faith that the god called Indra certainly exists.
+
+यं स्मृ पृच्छंति कुह सः इति घोरं (*yaṃ smṛ pṛcchaṃti kuha saḥ iti ghoraṃ*) — people ask where that Indra, the slayer of enemies, is. Agni, Sūrya and the other gods appear to us directly; there is no reason for doubt about their existence. But it is said that there is a god Indra of very great majesty. That Indra is not seen by our eyes; therefore many ask where he is. And,
+
+### Printed p. 660
+
+*Running head: [660 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+उत ईं आहुः न एषः अस्ति इति एनं (*uta īṃ āhuḥ na eṣaḥ asti iti enaṃ*) — besides, some say that this so-called Indra does not exist at all. If a thing can be seen, many say "it is" on seeing it; thus the Ṛṣi here describes what ordinary people say. No one can believe, without proper grounds, that a thing exists which cannot be seen. This is the way of the world and has a reason. For:
+
+अनृतं वै वाचा वदति । अनृतं मनसा ध्यायति । चक्षुर्वै सत्यं। अद्रागित्याह। आदर्शमिति । तत्सत्यं ॥ (*anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣurvai satyaṃ| adrāgityāha| ādarśamiti | tatsatyaṃ ‖*) (Tai. Brā. 1-4-1, 2)
+
+With the mouth one may speak untruth; with the mind too one may think untruth; but whatever is seen with the eye is true. When one says "I saw this thing," it is true that the thing seen exists. Since there is this Vedic statement, how can one believe that Indra, who is not seen by the eye, exists? Since he is not seen, people argue that there is no Indra at all. In this matter Sāyaṇa has cited the Ṛks of the same meaning:
+
+नेंद्रो अस्तीति नेम उत्व आह क ईं ददर्श कमभि ष्टवाम (*neṃdro astīti nema utva āha ka īṃ dadarśa kamabhi ṣṭavāma*) (Ṛ. Saṃ. 8-100-3)
+
+अयमस्मि जरितः पश्य मेह विश्वा जातान्यभ्यस्मि मह्ना । (*ayamasmi jaritaḥ paśya meha viśvā jātānyabhyasmi mahnā |*) (Ṛ. Saṃ. 8-100-4)
+
+In the first of these Ṛks Nema speaks thus: "There is no Indra. Who has seen him? Whom shall we praise?" When he asks so, Indra answers in the next Ṛk: "O praiser, behold, I am here itself; by my great might I overcome all beings." So he replied. In the present Ṛk too, to remove the doubt of those who argue that Indra does not exist, the Ṛṣi Gṛtsamada recites the second half of this Ṛk and removes the doubt.
+
+सः आर्यः पुष्टीः विजइव आ मीनाति श्रत् अस्मै धत्त (*saḥ āryaḥ puṣṭīḥ vijaiva ā mīnāti śrat asmai dhatta*) — ईमिति पूरणः । स इंद्रो विजइव । इवशब्द एवार्थे । उद्वेजक एव सन् अर्योऽरेः संबंधीनि पुष्टीः पोषकाणि गवाश्वादीनि धनान्यामिनाति । सर्वतो हिनस्ति । तस्मात् श्रदस्मा इंद्राय धत्त । स इंद्रोऽस्तीति विश्वासमत्र कुरुत । यद्यप्यसौ विशेषतोऽस्माभिर्न द्व्यश्यते तथापि अस्तीति विश्वासं कुरुत ॥ (*īmiti pūraṇaḥ | sa iṃdro vijaiva | ivaśabda evārthe | udvejaka eva san aryo 'reḥ saṃbaṃdhīni puṣṭīḥ poṣakāṇi gavāśvādīni dhanānyāmināti | sarvato hinasti | tasmāt śradasmā iṃdrāya dhatta | sa iṃdro 'stīti viśvāsamatra kuruta | yadyapyasau viśeṣato 'smābhirna dvyaśyate tathāpi astīti viśvāsaṃ kuruta ‖*) In this sentence the word ईं (*īṃ*) is for filling out the pāda (the printed text breaks off here, in mid-sentence, at the end of this page).
+
 ---
 
-**Progress note:** Done through printed p. 657 (PDF 657). Sukta 12 Rik 3 Special Topics end, Rik 4 complete to Special Topics begun (dasam varnam, svaghni)
+**Progress note:** Done through printed p. 660 (PDF 660). Sukta 12 Rik 4 Special Topics end; Rik 5 complete; Special Topics begun (Nema, Tai. Brahmana quotation)
