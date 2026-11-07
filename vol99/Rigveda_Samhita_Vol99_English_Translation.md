@@ -1703,6 +1703,86 @@ Kaṇṭhanātha [the supplied text has only the name, with no content following
 
 ಅಗ್ನೇ (*agne*)—O Agni. ಪರಮೇ (*parame*)—in the most excellent heaven. ಜನ್ಮನ್ (*janman*)—having your origin. ತೇ (*te*)—to you (you). ವಿಧೇಮ (*vidhema*)—we will serve with hymns. ಅವರೇ (*avare*)—in the lower one, below that. [The Pratipadārtha continues on the next page of the print.]
 
+### Printed p. 553
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 553.*
+
+[The Pratipadārtha of Ṛk 3 continues from the previous page.]
+
+ಸಧಸ್ಥೇ (*sadhasthe*)—you who are in the atmosphere. ಸ್ತೋಮೈಃ (*stomaiḥ*)—with hymns. ವಿಧೇಮ (*vidhema*)—we will serve. ಯಸ್ಮಾದ್ಯೋನೇಃ (*yasmādyoneḥ*)—the very earth which is your place of origin. ಉದಾರಿಥ (*udārittha*)—from there you have become manifest. ತಂ (*taṃ*)—you who are in the place of the earth. ಯಜೇ (*yaje*)—I worship. ಸಮಿದ್ಧೇ (*samiddhe*)—when you are kindled. ತ್ವೇ (*tve*)—in you. ಹವೀಂಷಿ (*havīṃṣi*)—oblations. ಪ್ರ ಜುಹುರೇ (*pra juhure*)—they offer.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, I worship with hymns you who were born in the most excellent world of heaven, who are in the atmosphere, and who have the earth as the womb, your place of origin. And when you are kindled, the priests such as the adhvaryu offer oblations to you.
+
+**Printed English translation**
+
+We adore you, Agni, in your loftiest birth-(place), and with hymns in your inferior station; I worship that seat whence you have issued; the priests have offered you, when kindled, oblations.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Agni is described as born in heaven, the atmosphere and the earth. The same matter is described, with a slight difference, in Ṛ. Saṃ. 1-95-3 also (as printed: "ಮ. ಸಂ."):
+
+त्रिणी जाना परि भूषंत्यस्य समुद्र एकं दिव्येकमप्सु । पूर्वामनु प्र दिशं प्रार्थिवानामृतून्प्रशासद्वि दधावनुष्टु ॥ (*triṇī jānā pari bhūṣaṃtyasya samudra ekaṃ divyekamapsu | pūrvāmanu pra diśaṃ prārthivānāmṛtūnpraśāsadvi dadhāvanuṣṭu ‖*)
+
+(Ṛ. Saṃ. 1-95-3)
+
+Here the births of Agni are stated one by one: त्रीणि जाना त्रिसंख्याकानि (*trīṇi jānā trisaṃkhyākāni*), that is, three kinds of births. This description shows the original nature of Agni's manifestation. That Agni's threefold existence, and the corresponding threefold manifestation, reflect the fundamental principle of the world is known from the explanation of the Bṛhaddevatā:
+
+⟦ಭವದ್ಭೂತಸ್ಯ ಭವ್ಯಸ್ಯ ಜಂಗಮಸ್ಥಾವರಸ್ಯ ಚ ।
+ಅಸ್ಯೈಕೇ ಸೂರ್ಯಮೇವೈಕಂ ಪ್ರಭವಂ ಪ್ರಲಯಂ ವಿದುಃ ॥
+ಏತದ್ಭೂತೇಷು ಲೋಕೇಷು ಅಗ್ನಿಭೂತಂ ಸ್ಥಿತಂ ತ್ರಿಧಾ ।
+ಋಷಯೋ ಗೀರ್ಭಿರರ್ಚಂತಿ ವ್ಯಂಜಿತಂ ನಾಮಭಿಸ್ತ್ರಿಭಿಃ ॥⟧
+
+(Bṛ. De. 1-61; 1-64)
+
+In these verses, in describing the greatness of Agni, the authors of the Bṛhaddevatā say that Prajāpati, the womb of all beings, has taken his existence in three ways, in the form of Agni, in three places, as the source of the creation and dissolution of all moving and unmoving beings
+
+### Printed p. 554
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Anuvāka 1, Sūkta 9, p. 554.*
+
+of the past, present and future [text continued from the previous page]. The sages also speak of this threefold manifestation of Agni by three names, as seen below; continuing the praise of the same Agni:
+
+⟦ತ್ರಿಸ್ಥಾನಂ ಚೈನಮರ್ಚಂತಿ ಹೋತ್ರಾಯಾಂ ವ್ಯಕ್ತಬರ್ಹಿಷಃ ॥
+ಇಹೈವ ಪವಮಾನೋಽಗ್ನಿರ್ಮಧ್ಯಮೋಽಗ್ನಿರ್ವನಸ್ಪತಿಃ ।
+ಅಮುಷ್ಮಿನ್ನೇವ ವಿಪ್ರೈಸ್ತು ಲೋಕೇಽಗ್ನಿಃ ಶುಚಿರುಚ್ಯತೇ ॥
+ಇಹಾಗ್ನಿಭೂತಸ್ತ್ವೃಷಿಭಿರ್ಲೋಕೇ ಸ್ತುತಿಭಿರೀಳಿತಃ ।
+ಜಾತವೇದಾಃ ಸ್ತುತೋ ಮಧ್ಯೆ ಸ್ತುತೋ ವೈಶ್ವಾನರೋ ದಿವಿ ॥⟧
+
+(Bṛ. De. 1-65 to 67)
+
+Among these three kinds, the Agni who manifests on the earth is known as Pavamāna-agni, the Agni of the middle world as Vanaspati, and the Agni who is in heaven as Śuci. These three divisions are read in the Taittirīya Saṃhitā (2-2-4) under the division Pavamāna, Śuci, Pāvaka. Besides, the names Agni, Jātavedas and Vaiśvānara also indicate the three places and the three kinds of forms. The Nirukta-writer also, citing the Ṛk of the Ṛk-saṃhitā:
+
+⟦ಸ್ತೋಮೇನ ಹಿ ದಿವಿ ದೇವಾಸೋ ಅಗ್ನಿಮಜೀಜನಇೃಕ್ತಿಭೀ ರೋದಸಿಪ್ರಾಂ ।
+ತಮೂ ಅಕೃಣ್ವನ್ ತ್ರೇಧಾ ಭುವೇ ಕಂ ಸ ಓಷಧೀಃ ಪಚತಿ ವಿಶ್ವರೂಪಃ ॥⟧
+
+(Ma. Saṃ. 10-88-10, as printed)
+
+says: तमकुर्वंस्त्रेधाभावाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः (*tamakurvaṃstredhābhāvāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ*). Following the explanation of Śākapūṇi, he explains clearly, by the examples of Saṃhitā sentences, that in these three places, with the divisions earth, atmosphere and heaven, Agni has manifested in three forms, Agni, Jātavedas and Vaiśvānara (Ni. 7-14 to 7-25).
+
+In the same way in this Ṛk also the three places are described in order by the names समुद्रे (*samudre*), दिवि (*divi*), अप्पु (*appu*) [sic, as supplied]: in the ocean as the submarine fire, in heaven as the Āditya (sun), and in अप्पु (*appu*), that is, the atmosphere, as lightning. Although the names of the places differ now and then, the meaning is all one. For example, here the ocean is put in place of the earth, divided according to this context. In sum, these three divisions have been spoken of in the four Vedas in various contexts.
+
+### Printed p. 555
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 1, Ṛgveda-saṃhitā, p. 555.*
+
+⟦ದಿವಸ್ಪರಿ ಪ್ರಥಮಂ ಜಜ್ಞೇ ಅಗ್ನಿರಸ್ಮದ್ ದ್ವಿತೀಯಂ ಪರಿ ಜಾತವೇದಾಃ ।
+ತೃತೀಯಮಪ್ಸು ನೃಮಣಾ ಅಜಸ್ರಮಿಂಧಾನ ಏನಂ ಜರತೇ ಸ್ವಾಧೀಃ ॥⟧
+
+(Ṛ. Saṃ. 10-45-1; Vā. Saṃ. 12-18; Tai. Sa. 1-3-14-5)
+
+⟦ಅಗ್ನಿರಸ್ಮಿ ಜನ್ಮನಾ ಜಾತವೇದಾ ಧೃತಂ ಮೇ ಚಕ್ಷುರಮೃತಂ ಮ ಆಸನ್ ।
+ಅರ್ಕಸ್ತ್ರಿಧಾತೂ ರಜಸೋ ವಿಮಾನೋಽಜಸ್ರೋ ಘರ್ಮೋ ಹವಿರಸ್ಮಿ ನಾಮ ॥⟧
+
+(Ṛ. Saṃ. 3-26-7; Vā. Saṃ. 18-16; Ni. 14-2)
+
+From such explanations the nature of the description त्रीणि जाना (*trīṇi jānā*) is clearly known.
+
+इदमुक्तं भवति । न साधारणवत्सवदयमग्निर्वत्सो दृश्यमानो मातुरुदरे वर्धते तर्हि दृश्यमान एव वर्धते । पशुवत्तिरश्चीनानां अब्रूपमात्यणामुदरे च तिरश्चिनो न वर्धते तर्हि ऊर्ध्वः सन् वर्धते । ता इव चायं न दीप्तिहीनस्तर्हि स्वयशाः स्वायत्तदीप्तिर्भवति । त्वष्टुस्तु यदायमग्निर्जातस्तदा व्यावापृथिव्यावपि तस्माद्भीत्वा परागते । पश्चात्पुनरागत्य तं सिंहसदृशमग्निं बालवत्सेवेते स्मेति भावः ॥ (*idamuktaṃ bhavati | na sādhāraṇavatsavadayamagnirvatso dṛśyamāno māturudare vardhate tarhi dṛśyamāna eva vardhate | paśuvattiraścīnānāṃ abrūpamātyaṇāmudare ca tiraścino na vardhate tarhi ūrdhvaḥ san vardhate | tā iva cāyaṃ na dīptihīnastarhi svayaśāḥ svāyattadīptirbhavati | tvaṣṭustu yadāyamagnirjātastadā vyāvāpṛthivyāvapi tasmādbhītvā parāgate | paścātpunarāgatya taṃ siṃhasadṛśamagniṃ bālavatsevete smeti bhāvaḥ ‖*) [Sanskrit as supplied; the words अब्रूपमात्यणामुदरे (*abrūpamātyaṇāmudare*) look garbled in the supplied text.] This means: unlike ordinary infants, this Agni did not grow hidden inside, unseen by anyone, in the mother's womb; he grows visibly to all (by the burning of wood and the like). Further, he did not grow hidden in the womb of the water-formed mothers, as animals do; he grows visibly, with upward-turned flames, that is, flames rising upwards. Nor is he without brightness like the water, his mothers; he shines with self-luminosity. Seeing Agni thus born with self-luminosity, heaven and earth were frightened, but they came again to him, who is like a lion, and served him: this is the sense.
+
+Here the nature of the lightning-Agni is described. Praising the power of lightning, which at one and the same time has a heart-attracting loveliness and terrifying fearsome qualities, the description is given. The fire of lightning, which appears shining and of beautiful splendour in the midst of the waters of rain in the form of waves, is exceedingly lovely as soon as it is born. At the very same time the power of that lightning, surpassing all forces, is as terrifying as a lion when it overruns the world with unchecked speed and burning. For that very reason heaven and earth both pay homage to this Agni and serve him. Then it may be that not only the lightning-fire but also the earthly fire is described with these qualities [the sentence is obscure in the supplied text]. These differences of meaning can be understood from the explanation.
+
 ---
 
-**Progress note:** Done through printed p. 552 (PDF 552). Sukta 9 Rik 2 complete; Rik 3 Samhita, Pada, Bhashya, Pratipadartha begun
+**Progress note:** Done through printed p. 555 (PDF 555). Sukta 9 Rik 3 complete (Pratipadartha end, Bhavartha, printed English, Special Topics on the three births of Agni); window ends at end of Special Topics
