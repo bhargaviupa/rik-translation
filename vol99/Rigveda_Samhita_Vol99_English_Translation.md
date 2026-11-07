@@ -7665,6 +7665,101 @@ Further, one or two matters concerning the protection of Dabhiti that are not fo
 > *sa īṃ mahīṃ dhunimetorarammātso asnātyanapārayatsvasti |*
 > *ta utsnāya rayimabhi pra tasthuḥ somasya tā mada iṃdraścakāra ‖ 5 ‖*
 
+### Printed p. 763
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 15] Ṛgvedasaṃhitā; p. 763.*
+
+**॥ पदपाठः ॥**
+
+> सः । ईं । महीं । धुनिं । एतोः । अरम्नात् । सः । अस्नात्यन् । अपारयत् । स्वस्ति ।
+> ते । उत्स्नाय । रयिं । अभि । प्र । तस्थुः । सोमस्य । ता! मदे । इंद्रः । चकार॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अतिमूर्तिनाम्मैकाहे मरुत्वतीये सूक्तमुखीया । अतिमूर्तिनेति
+> खंडे सूत्रितं । स ईं महीं धुनिमेतोररम्णात् । आ. ९-८ । इति ॥
+> स इंद्र ईमेनां महीं महतीं धुनिं । धुनोति स्तोतृणां पापानीति
+> धुनिः परुष्ठी नदी । तामेतोः ॥ ईश्वरपदासंनिधानेऽपि तोसुन्प्रत्ययः । पा.
+> ३-४-१३ ॥ ऋषीणां गमनार्थमरम्मात् उपाशमयत् । महाजलां नदीमल्पो-
+> दकामकरोदित्यर्थः। ततः स इंद्रोऽस्नात्वान् स्नातुमशक्तान् । तरणासमर्थानृषीन्
+> स्वस्ति क्षेमेणापारयत् । ते महर्षय उत्स्नाय तां नदीमुत्तीर्य यं रयि-
+> मपेक्ष्य गच्छंति तं रयिमभिलक्ष्य प्रतस्थुः । प्रतस्थिरे । शिष्टं सिद्धं ॥
+
+> *atimūrtināmmaikāhe marutvatīye sūktamukhīyā | atimūrtineti*
+> *khaṃḍe sūtritaṃ | sa īṃ mahīṃ dhunimetoraramṇāt | ā. 9-8 | iti ‖*
+> *sa iṃdra īmenāṃ mahīṃ mahatīṃ dhuniṃ | dhunoti stotṛṇāṃ pāpānīti*
+> *dhuniḥ paruṣṭhī nadī | tāmetoḥ ‖ īśvarapadāsaṃnidhāne 'pi tosunpratyayaḥ | pā.*
+> *3-4-13 ‖ ṛṣīṇāṃ gamanārthamarammāt upāśamayat | mahājalāṃ nadīmalpo-*
+> *dakāmakarodityarthaḥ| tataḥ sa iṃdro 'snātvān snātumaśaktān | taraṇāsamarthānṛṣīn*
+> *svasti kṣemeṇāpārayat | te maharṣaya utsnāya tāṃ nadīmuttīrya yaṃ rayi-*
+> *mapekṣya gacchaṃti taṃ rayimabhilakṣya pratasthuḥ | pratasthire | śiṣṭaṃ siddhaṃ ‖*
+
+Gist: Atimūrti is a one-day sacrifice, and this Ṛk opens the Marutvatīya recitation; the commentary explains धुनिं (*dhuniṃ*) as a river that shakes off the sins of the praisers, and says Indra made the river shallow so that the sages could cross; the grammatical remarks are not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—Indra. महीं (*mahīṃ*)—the great; ईं धुनिं (*īṃ dhuniṃ*)—and sin-destroying this river. एतोः (*etoḥ*)—for the passage (of the sages). अरम्यात् (*aramyāt*)—(reducing the water) he stilled. सः (*saḥ*)—the same Indra. आस्नात्यन् (*āsnātyan*)—the sages who were unable to cross. स्वस्ति (*svasti*)—in safety. अपारयत् (*apārayat*)—he conveyed across. ते (*te*)—those great sages. उत्स्नायॆ (*utsnāyè*)—having crossed the river. रयिं (*rayiṃ*)—towards the wealth they aimed at. प्र तस्थुः (*pra tasthuḥ*)—set out. सोमस्य (*somasya*)—by the drinking of Soma juice. मदे (*made*)—when joy arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—performed.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra stilled this great, sin-destroying river so that the sages might pass. The same Indra conveyed in safety the sages who were unable to cross. Those great sages, having crossed the river, set out towards the wealth they aimed at. When joy arose from drinking the Soma juice, Indra performed these great deeds.
+
+**Printed English translation**
+
+He tranquillized this great river,(so that it) might be crossed; he conveyed across it in safety(the sages) who had been unable to pass over it
+
+### Printed p. 764
+
+*Running head: 764 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 2, Adhyāya 2, Sūkta 15].*
+
+and who, having crossed, procceded [sic] to realize the wealth they sought: in the exhilaration of the Soma, Indra has done these(deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This Ṛk is prescribed as the first Ṛk of the sūkta at the start of the Marutvatīya śastra mantras in the one-day sacrifice named Atimūrti; this is made explicit by the sūtra स ईं महीं धुनिमेतोररम्णात् (*sa īṃ mahīṃ dhunimetoraramṇāt*) in the section अतिमूर्तिना (*atimūrtinā*) of the Āśvalāyana Śrauta-sūtra (Ā. 9-8).
+
+धुनिं (*dhuniṃ*)—The word धुनयः (*dhunayaḥ*) is read among the names of rivers (Ni. 2-24). The commentator explains this word: धुनोति स्तोत्थणां पापानीति धुनिः परुष्ठि नदी (*dhunoti stotthaṇāṃ pāpānīti dhuniḥ paruṣṭhi nadī*), that is, because it destroys the sins of those who praise, it is a धुनिः (*dhuniḥ*), a river; here he explains it as the river Paruṣṭī (printed षरुष्ठि (*ṣaruṣṭhi*)). In the Nirukta the commentator on the Nirukta says: धुनयः । धूञ् कंपने भौवादिः । धुन्वंति कंपयंति तीरवृक्षादीनि, कंपंते वा स्वयं गमनशीलत्वात् (*dhunayaḥ | dhūñ kaṃpane bhauvādiḥ | dhunvaṃti kaṃpayaṃti tīravṛkṣādīni, kaṃpaṃte vā svayaṃ gamanaśīlatvāt*); that is, the word धुनि (*dhuni*) is formed from the root धूञ् कंपने (*dhūñ kaṃpane*); rivers are called धुनयः (*dhunayaḥ*) because they make the trees on the banks tremble, or because the water itself trembles, being of a moving nature as it flows.
+
+सः ईं महीं धुनिं एतोः अरम्मात् (*saḥ īṃ mahīṃ dhuniṃ etoḥ arammāt*)—महाजलां नदीमल्लोदकामकरोदित्यर्थः (*mahājalāṃ nadīmallodakāmakarodityarthaḥ*). The main sense is that this Indra, by reducing the water of a great river, filled with much water, deep, wide-bedded and in flood, made it possible for people to cross. In former times it was not possible for ordinary people to cross great rivers flowing deep and wide. To cross rivers with much water and wide beds, such as the Sindhu and the Gaṅgā, was a great problem. There were no big boats. To cross by other means, such as a small boat or a coracle, was dangerous. There was not even a name for bridges. In such times crossing rivers, or helping others across, was regarded as a great feat of daring. Therefore it is described that Indra reduced the river's water itself and made crossing possible, and this is mentioned as one of Indra's exploits.
+
+सः अस्नात्यन् आपारयत् स्वस्ति (*saḥ asnātyan āpārayat svasti*)—तरणासमर्थान् ऋषीन् क्षेमेणापारयत् (*taraṇāsamarthān ṛṣīn kṣemeṇāpārayat*). Indra conveyed in safety the sages who, unable to cross the great rivers, were in difficulty. In this sentence the word अस्नात्यन् (*asnātyan*) means only "unable to cross", so
+
+### Printed p. 765
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 16] Ṛgvedasaṃhitā; p. 765.*
+
+it need not be said that Indra conveyed only sages. It may be said that he conveyed kings or the warriors on the kings' side who praise Indra, or other people. Moreover, because of the following sentence ते उत्साय रयिं अभि प्र तस्थुः (*te utsāya rayiṃ abhi pra tasthuḥ*), "they crossed the river and went forward to gain wealth" (that is, because the word रयिं (*rayiṃ*), "for the gaining of wealth", is used in this sentence), those who cross the river for gain of wealth and go to other countries may be kings, kings' soldiers, merchants seeking wealth, ordinary people and so on, any of them. It cannot be said that it applies only to sages. Even if sages desire wealth, they need not travel through countries for it; they can obtain it simply by praying to Indra.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> सोदं॑चं॒ सिंधु॑मरिणान्महि॒त्वा वज्रे॒णान॑ उ॒षसः॒ सं पि॑पेष ।
+> अ॒ज॒वसो॑ ज॒विनी॑भिर्विवृ॒श्चन्तोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥६॥
+
+**॥ पदपाठः ॥**
+
+> सः । उदंचं । सिंधुं । अरिणात् । महित्वा । वज्रेण । अनः । उषसः । सं । पिपेष ।
+> अजवसः । जविनीभिः । विवृश्चन् । सोमस्य । ता । मदे । इंद्रः । चकार ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स इंद्रः सिंधुं प्रांचं संतं महित्वा स्वकीयेन महिन्नोदंचमरिणात् ।
+> उदज्मुखमकरोत् ॥ सिंधुशब्दश्चंदसि पुल्लिंगः ॥ उषस उषोदेव्या अनः शकटं
+> वज्रेण संपिपेष । चूर्णीचकार । एतच्च दिवश्चि द्वा दुहितरं । ४-३०-९ । इत्यत्र स्पष्टं
+> वक्ष्यते । किं कुर्वन् । अजवसो जवहीना दुर्बलाः सेना जविनीभिर्जनयुक्ताभिः
+> सेनाभिर्विवृश्चन् । विशेषेण भिंदन् । पिपेषेति समन्वयः । ओव्रश्च छेदने । शतरि
+> ग्रहिज्यादिना संप्रसारणं । शिष्टं स्पष्टं ॥
+
+> *sa iṃdraḥ siṃdhuṃ prāṃcaṃ saṃtaṃ mahitvā svakīyena mahinnodaṃcamariṇāt |*
+> *udajmukhamakarot ‖ siṃdhuśabdaścaṃdasi pulliṃgaḥ ‖ uṣasa uṣodevyā anaḥ śakaṭaṃ*
+> *vajreṇa saṃpipeṣa | cūrṇīcakāra | etacca divaści dvā duhitaraṃ | 4-30-9 | ityatra spaṣṭaṃ*
+> *vakṣyate | kiṃ kurvan | ajavaso javahīnā durbalāḥ senā javinībhirjanayuktābhiḥ*
+> *senābhirvivṛścan | viśeṣeṇa bhiṃdan | pipeṣeti samanvayaḥ | ovraśca chedane | śatari*
+> *grahijyādinā saṃprasāraṇaṃ | śiṣṭaṃ spaṣṭaṃ ‖*
+
+Gist: Indra turned the river Sindhu, flowing east, to face north by his greatness; he crushed Ushas's cart with his thunderbolt and, with swift forces, scattered the slow, weak ones. The commentary adds grammatical remarks on the root व्रश्च (*vraśca*), not explained here.
+
 ---
 
-**Progress note:** Done through printed p. 762 (PDF 762). Sukta 15 Rk 4 with Special Topics; Rk 5 Samhita
+**Progress note:** Done through printed p. 765 (PDF 765). Sukta 15 Rk 5 Pada to Special Topics, Rk 6 Samhita/Pada/bhashya
