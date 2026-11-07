@@ -3507,6 +3507,83 @@ May we,(through) your(favour), Indra, be such as those are, who; desirous of you
 
 शुष्मिंतमं वीरवंतं रयिं चाकनाम (*śuṣmiṃtamaṃ vīravaṃtaṃ rayiṃ cākanāma*): in this sentence, the word शुष्मिंतमं (*śuṣmiṃtamaṃ*) is explained as दानभागायार्हतया बलवत्तमं (*dānabhāgāyārhatayā balavattamaṃ*): "very strong, because of the fitness for giving"; or शत्रूणां शोषयतृतमं (*śatrūṇāṃ śoṣayatṛtamaṃ*) [as supplied]: "most able to dry up or destroy enemies"; the rayim, that is, wealth. In the same way the word वीरवंतं (*vīravaṃtaṃ*) is explained as पुत्रपौत्रिः सहितं (*putrapautriḥ sahitaṃ*) [as supplied]: wealth accompanied by heroic sons, grandsons, servants and the like. Here
 
+### Printed p. 613
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 5; Ṛgvedasaṃhitā, p. 613.*
+
+(continuing the Special Topics of Ṛk 13) The two words शुष्मंतमं (*śuṣmaṃtamaṃ*) and वीरवंतं (*vīravaṃtaṃ*) are adjectives of the word रयिं (*rayiṃ*). Taken word by word the meaning is: wealth that is exceedingly strong and accompanied by sons and others who are heroes. In Sanskrit, and especially in the Ṛg-veda, when many things are to be indicated it is customary to name one principal thing and to describe the other things as accompanying that principal thing by means of adjectives. But the principal intention is this: that He should give us very great strength, that is, power and capacity; sons, grandsons, retainers and other followers who are valiant, that is, who fight in battle like heroic warriors; and wealth.
+
+अस्मे (*asme*): the word अस्मे (*asme*) is used in all seven case-senses. In the present Ṛk it is said in the sense of the dative case: अस्मे (*asme*) is अस्मभ्यं (*asmabhyaṃ*), "to us".
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> रासि॒ क्षयं॒ रासि॑ मि॒त्रम॒स्मे रासि॒ शर्ध॑ इंद्र॒ मारु॑तं नः ।
+> स॒जोष॑सो॒ ये च॑ मंदसा॒नाः प्र वा॒यवः॑ पां॒त्यग्र॑णीतिं ॥ १४ ॥
+
+**॥ पदपाठः ॥**
+
+> रासि । क्षयं । रासि । मित्रं । अस्मे इति । रासि । शर्धः । इंद्र । मारुतं । नः ।
+> सजोषसः । ये । च । मंदसानाः । प्र । वायवः । पांति । अग्रनीतिं ॥ १४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र क्षयं । क्षियंति निवसंत्यत्रेति क्षयो गृहं । तदस्मभ्यं रासि । देहि
+> तॆथा मित्रं सखायमस्मे अस्मभ्यं रासि॥ वाक्यभेदादनिघातः॥ मारुतं मरुतां देव-
+> विशां संबंधि शर्धो बलं नोऽस्मभ्यं रासि । एतेन मरुतामप्यागमनं प्रार्थ्यते ।
+> ये मरुतः सजोषसः सह प्रीयमाणा मदंतो मोदमाना वायवो यज्ञं
+> प्रति गंतारः संतोऽग्रणीतिमग्रे नीयमानं सोमं प्रपांति । प्रकर्षण पिबंति
+> तेषां शर्ध इति समन्वयः । यद्वा ये च वायवोऽग्रे नीयमानं सोमं
+> पिबंति तेषां वायूनां बलं रासि ॥ वायव इति पूजायां बहुवचनं । वायु-
+> र्हि सोमस्याग्रपातेति ॥
+
+*(Gist: O Indra, give us a dwelling and a friend; give us the combined strength of the Maruts, who, united and exulting, going to the sacrifice, drink the Soma brought first.)*
+
+### Printed p. 614
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṇḍala 2, Adhyāya 1, Sūkta 11; p. 614.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra: O Indra. Kṣayam: a house fit to dwell in. Rāsi: give. Mitram: a friend. Asme: to us. Rāsi: give. Ye ca: which Maruts. Sajoṣasaḥ: united together. Mandasānāḥ: of joyful mind. Vāyavaḥ: going towards the sacrifice. Agraṇītim: the Soma brought in the foremost part. Pra pānti: drink fully; such. Mārutam: belonging to the Marut deities. Śardhaḥ: collective strength. Naḥ: to us. Rāsi: give.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, give us a house fit to dwell in and friends fit for companionship. And give us the collective strength belonging to those Maruts who, united together and going towards the sacrifice, there drink fully the Soma juice that is brought in the foremost part.
+
+**Printed English**
+
+Grant us a habitation; grant us friends; grant us, Indra, the strength of the Maruts: the winds, who, propitious and exulting, drink copiously of the first offering(of the Soma juice).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+क्षयं (*kṣayaṃ*) (kṣayam): क्षियंति निवसंत्यत्रेति क्षयो गृहं (*kṣiyaṃti nivasaṃtyatreti kṣayo gṛhaṃ*). The word क्षय (*kṣaya*) is formed from the root क्षि (*kṣi*), "to dwell". A place where one dwells, that is, a house, a home: this is the meaning.
+
+मित्रं (*mitraṃ*) (mitram): सखायं (*sakhāyaṃ*), "a friend", or a well-wisher. The word मित्र (*mitra*) is formed from a root meaning "to be fond" (class 1, ātmanepada; the root as supplied is garbled in the print: इामिदा स्नेहने (*iāmidā snehane*) [?]). The chief mark that a friend or companion should have is to help one another in time of need. On this point the Ṛg-veda itself says:
+
+न स सखा यो न ददाति सख्ये सचाभुवे सचमानाय पित्वः (*na sa sakhā yo na dadāti sakhye sacābhuve sacamānāya pitvaḥ*) (Ṛ. Saṃ. 10-117-4, as printed "ಮ. ಸಂ"), that is: the man who gives nothing in time of need to his friend (does no kindness) is no friend at all; he is a hypocrite who pretends to be a friend. Besides this:
+
+ददाति प्रतिगृह्णाति गुह्यमाख्याति पृच्छति । भुंक्ते च भोजयत्येव षड्विधं मित्रलक्षणं ॥ (*dadāti pratigṛhṇāti guhyamākhyāti pṛcchati | bhuṃkte ca bhojayatyeva ṣaḍvidhaṃ mitralakṣaṇaṃ ‖*)
+
+### Printed p. 615
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 5; Ṛgvedasaṃhitā, p. 615.*
+
+Thus a poet has described the qualities a friend should have: that is, a friend (if he is a true friend) gives his friend the things he needs; he too receives from him what he needs; he tells him his own secret, and he too listens with faith to the secrets (confidential matters) that the other tells; he feeds his friend, and he too eats in his house. These six kinds are said to be the marks that friends should have. Indra is prayed to give such a well-wishing friend.
+
+मारुतं शर्धः (*mārutaṃ śardhaḥ*) (mārutaṃ śardhaḥ): the prayer is that He give the collective strength of the Marut deities. The reason why, although all the gods have abundant strength, the strength of the Maruts alone is prayed for here is this: the Maruts are forty-nine in number, and all of them are said to have the same form and the same strength. Therefore, if the strength of these forty-nine Maruts is added together, that combined strength becomes exceedingly great. Hence the prayer is that such strength be given. Whenever very great strength is to be spoken of, it is the custom to compare it to मारुतं शर्धः (*mārutaṃ śardhaḥ*), the collective (gathered together) strength of the Maruts. The commentators say that by the expression मारुतं शर्धः (*mārutaṃ śardhaḥ*) the coming of the Maruts is also indicated.
+
+सजोषसः (*sajoṣasaḥ*) (sajoṣasaḥ): सह प्रीयमाणाः । समानप्रीतियुक्ताः ऐकमत्यभाजः (*saha prīyamāṇāḥ | samānaprītiyuktāḥ aikamatyabhājaḥ*): "those who love together; endowed with equal love; sharing unanimity". The meaning is that the gods, having a love for Indra equal to the love they have among themselves, remain in unanimity in order to conquer the Asuras, make Indra stand in front, that is, make him their leader, and obtain victory through Indra himself. The Nirukta (Nir. 8-8) explains the word सजोषसः (*sajoṣasaḥ*) as "being together". Yāska, having quoted the Ṛk:
+
+आजुह्वान ईड्यो वंद्यश्चायाह्यग्ने वसुभिः सजोषाः त्वं देवनामसि यह्व होता स एनन्यक्षीषितो यजीयान् (*ājuhvāna īḍyo vaṃdyaścāyāhyagne vasubhiḥ sajoṣāḥ tvaṃ devanāmasi yahva hotā sa enanyakṣīṣito yajīyān*) (Ṛ. Saṃ. 10-110-3)
+
+explained the word सजोषाः (*sajoṣāḥ*) in it as सह जोषणः (*saha joṣaṇaḥ*), "one of equal love".
+
+आ रुद्रास इंद्रवंतस्सजोषसो हिरण्यरथाः सुविताय गंतन । इयं वो अस्मत्पतिहर्यते मतिस्त्रृष्णजे न दिव उत्सा उदन्यवे ॥ (*ā rudrāsa iṃdravaṃtassajoṣaso hiraṇyarathāḥ suvitāya gaṃtana | iyaṃ vo asmatpatiharyate matistrṛṣṇaje na diva utsā udanyave ‖*) (Ṛ. Saṃ. 4-3-2-11)
+
+In this Ṛk the meaning is given: इंद्रेण सह जोषणाः सजोषसः परमैश्वर्येण नित्यमासेविताः (*iṃdreṇa saha joṣaṇāḥ sajoṣasaḥ paramaiśvaryeṇa nityamāsevitāḥ*), that is, those served by Indra with supreme prosperity.
+
 ---
 
-**Progress note:** Done through printed p. 612 (PDF 612). Sukta 11 Rk 12 end (bhashya, Pratipadartha, Special Topics), Rk 13 Samhita to Special Topics (cut off mid-sentence); Rk 13 Samhita lacks Rk number in supplied text
+**Progress note:** Done through printed p. 615 (PDF 615). Sukta 11 Rk 13 Special Topics end, Rk 14 complete with Special Topics begun (mitra, marutam sardhah, sajosasah); Rk 14 accent DIFF 0.962
