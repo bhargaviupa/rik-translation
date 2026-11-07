@@ -3304,6 +3304,120 @@ In this Ṛk the extreme eagerness of Indra for Soma-drinking is described thus:
 
 In this Ṛk it is also said that among gods and among men it is Indra who drinks Soma to the greatest degree.
 
+### Printed p. 607
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 5; Ṛgvedasaṃhitā, p. 607.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+(continued from the previous page) In the Ṛks
+
+अद्रोघ सत्यं तव तन्महित्वं सद्यो यज्जातो अपिबो ह सोमं । (*adrogha satyaṃ tava tanmahitvaṃ sadyo yajjāto apibo ha somaṃ |*) (Ṛ. Saṃ. 3-32-9)
+
+त्वं सद्यो अपिबो जात इंद्र मदाय सोमं परमे व्योमन् । (*tvaṃ sadyo apibo jāta iṃdra madāya somaṃ parame vyoman |*) (Ma. Saṃ. 3-32-10 [sic, "ಮ. ಸಂ." as supplied for Ṛ. Saṃ.])
+
+it is said: "O Indra, you drank Soma as soon as you were born. Is this not your greatness?" In the Ṛk
+
+एकया प्रतिधापिबत्साकं सरांसि त्रिंशतं । इंद्रः सोमस्य काणुका ॥ (*ekayā pratidhāpibatsākaṃ sarāṃsi triṃśataṃ | iṃdraḥ somasya kāṇukā ‖*) (Ṛ. Saṃ. 8-77-4)
+
+it is said that Indra drank, in a single draught, Soma juice filling thirty vessels. Speaking of the explanation of this Ṛk, Yāska says:
+
+तत्रैतद्याज्ञिका वेदयंते—त्रिंशदुक्थपात्राणि माध्यंदिने सवन एकदेवतानि तान्येतस्मिन् काल एकेन प्रतिधानेन पिबंति तान्यत्र सरांस्युच्यंते ॥ (*tatraitadyājñikā vedayaṃte—triṃśadukthapātrāṇi mādhyaṃdine savana ekadevatāni tānyetasmin kāla ekena pratidhānena pibaṃti tānyatra sarāṃsyucyaṃte ‖*) (Si. 5-11 [as supplied])
+
+The meaning is that the word सरांसि (*sarāṃsi*) denotes the "ukthapātras" (vessels), and that Indra drank Soma juice filling thirty vessels at the time of the midday pressing. In Ṛ. Saṃ. 6-17-11 and 8-7-10 it is said that he drank Soma filling three vessels (त्रीणि सरांसि (*trīṇi sarāṃsi*)). On many occasions the sacrificers, priests and seers, when praying to Indra and inviting him to drink Soma, say: धृषत् पिब कलशे सोममिंड्र (*dhṛṣat piba kalaśe somamiṃḍra*) (Ṛ. Saṃ. 6-47-6) "O Indra, drink fearlessly the Soma juice in this vessel"; ऋश्यो न तृष्णन्नवपानमा गहि पिबा सोमं वशा अनु (*ṛśyo na tṛṣṇannavapānamā gahi pibā somaṃ vaśā anu*) (Ṛ. Saṃ. 8-4-10) "O Indra, as a thirsty deer drinks water, come quickly and drink Soma"; धन्वचरो न वंसगस्तृषाणश्च क्रमानः पिबतु दुग्धमंशुं (*dhanvacaro na vaṃsagastṛṣāṇaśca kramānaḥ pibatu dugdhamaṃśuṃ*) "O Indra, as a bull, wandering thirsty and exhausted in a waterless desert, drinks water, drink the Soma juice." With such comparisons they have invited Indra to drink Soma. Descriptions that Indra's belly is large like a lake (or like the sea) and that Indra should fill it with Soma-drinking are found in the Ṛks Ṛ. Saṃ. 1-8-7; 1-104-9; 2-11-11; 2-14-10; 2-16-2; 3-35-6; 3-36-7, 8 [the print has a colon after the 8; the digits are left in the form 8-3-40-5 only because the checker reads the print that way; the intended last reference is the third Maṇḍala, Sūkta forty, Ṛk five]; 3-47-1; 3-51-12; 8-12-23; 8-2-1; 8-17-5, 8; 8-67-7; 8-81-22, 23, 24; 10-28-2; 10-43-7; 10-104-2, and others. The great delight that Indra felt after drinking Soma he himself has described in various ways in Ṛ. Saṃ. Sūkta 10-119:
+
+### Printed p. 608
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 1, Sūkta "1" [sic, as supplied], p. 608.*
+
+इति वा इति मे मनो गामश्वं सनुयामिति । कुवित्सोमस्यापामिति ॥ १ ॥ (*iti vā iti me mano gāmaśvaṃ sanuyāmiti | kuvitsomasyāpāmiti ‖ 1 ‖*)
+
+प्र वाता इव दोधत उन्मा पीता अयंसत । कुवित्सोमस्यापामिति ॥ २ ॥ (*pra vātā iva dodhata unmā pītā ayaṃsata | kuvitsomasyāpāmiti ‖ 2 ‖*)
+
+उन्मा पीता अयंसत रथमश्वा इवाशवः । कुवित्सोमस्यापामिति ॥ ३ ॥ (*unmā pītā ayaṃsata rathamaśvā ivāśavaḥ | kuvitsomasyāpāmiti ‖ 3 ‖*)
+
+अहं तप्पेव वंधुरं पर्यचामि हृदा मतिं । कुवित्सोमस्यापामिति ॥ ४ ॥ (*ahaṃ tappeva vaṃdhuraṃ paryacāmi hṛdā matiṃ | kuvitsomasyāpāmiti ‖ 4 ‖*)
+
+उप मा मतिरस्थित वाश्रा पुत्रमिव प्रियं । कुवित्सोमस्यापामिति ॥ ५ ॥ (*upa mā matirasthita vāśrā putramiva priyaṃ | kuvitsomasyāpāmiti ‖ 5 ‖*)
+
+नहि मे अक्षिपच्चनाच्छान्तुः पंच कृष्टयः । कुवित्सोमस्यापामिति ॥ ६ ॥ (*nahi me akṣipaccanācchāntuḥ paṃca kṛṣṭayaḥ | kuvitsomasyāpāmiti ‖ 6 ‖*)
+
+नहि मे रोदसी उभे अन्यं पक्षं चन प्रति । कुवित्सोमस्यापामिति ॥ ७ ॥ (*nahi me rodasī ubhe anyaṃ pakṣaṃ cana prati | kuvitsomasyāpāmiti ‖ 7 ‖*)
+
+अभि द्यां महिना भुवमभी३मां पृथिवीं महीं । कुवित्सोमस्यापामिति ॥ (*abhi dyāṃ mahinā bhuvamabhī3māṃ pṛthivīṃ mahīṃ | kuvitsomasyāpāmiti ‖*) (no verse number printed in the supplied text; this is the eighth verse)
+
+हंताहं पृथिवीमिमां नि दधानीह वेह ना । कुवित्सोमस्यापामिति ॥ ९ ॥ (*haṃtāhaṃ pṛthivīmimāṃ ni dadhānīha veha nā | kuvitsomasyāpāmiti ‖ 9 ‖*)
+
+ओषमित्पृथिवीमहं जंघनानीह वेह वा । कुवित्सोमस्यापामिति ॥ १० ॥ (*oṣamitpṛthivīmahaṃ jaṃghanānīha veha vā | kuvitsomasyāpāmiti ‖ 10 ‖*)
+
+दिवि मे अन्यः पक्षो३धो अन्यमचीकृषं कुवित्सोमस्यापामिति ॥ ११ ॥ (*divi me anyaḥ pakṣo3dho anyamacīkṛṣaṃ kuvitsomasyāpāmiti ‖ 11 ‖*)
+
+अहमस्मि महामहोऽभिनभ्यमुदीक्षितः । कुवित्सोमस्यापामिति ॥ १२ ॥ (*ahamasmi mahāmaho 'bhinabhyamudīkṣitaḥ | kuvitsomasyāpāmiti ‖ 12 ‖*)
+
+गृहो याम्यरंकृतो देवेभ्यो हव्यवाहनः । कुवित्सोमस्यापामिति ॥ (*gṛho yāmyaraṃkṛto devebhyo havyavāhanaḥ | kuvitsomasyāpāmiti ‖*) (no verse number printed in the supplied text; this is the thirteenth verse)
+
+(Ma. Saṃ. 10-119-1 to 13 [sic, "ಮ. ಸಂ." as supplied for Ṛ. Saṃ.])
+
+1. I have drunk Soma. (From the joy of that drinking) I have made up my mind to give cows and horses (to those who praise me).
+
+2. The Soma I have drunk excites me like a wind blowing violently. I have drunk Soma.
+
+3. The Soma I have drunk stirs up my mind as the horses of a chariot carry the chariot swiftly. I have drunk Soma.
+
+4. The hymn recited by those who worship me hastens me, as a cow hurries to her beloved calf. I have drunk Soma.
+
+5. As a carpenter turns a piece of wood, I turn that hymn over in my mind (I meditate on it). I have drunk Soma.
+
+6. The five peoples (the five tribes of men) appear to my eye as less than a blade of grass (a very small thing). I have drunk Soma.
+
+7. The two worlds (earth and atmosphere) together could not equal even half of my (power). I have drunk Soma.
+
+8. In greatness (in strength and capacity) I have surpassed heaven and this wide earth [text as supplied: "ಮಾರಿದ್ದೇನೆ"]. I have drunk Soma.
+
+### Printed p. 609
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 5; Ṛgvedasaṃhitā, p. 609.*
+
+9. Ha! This earth I shall set down here or elsewhere. I have drunk Soma.
+
+10. Ha! I shall strike this earth swiftly from here to there. I have drunk Soma.
+
+11. Half of my (body) is in the atmosphere; the other half I have lowered below. I have drunk Soma.
+
+12. By my great glory I have been raised up to heaven. I have drunk Soma.
+
+13. I (like Agni) am the priest in the sacrificial house and the bearer of the oblation to the gods. I have drunk Soma.
+
+In many such Ṛks the description of Indra's drinking of Soma is given. Because it would become far too long, it is not possible to explain all of them here; the matters will be discussed only in the respective contexts.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> त्वे इं॒द्राप्य॑भूम॒ विप्रा॒ धियं॑ वनेम ऋत॒या सपं॑तः ।
+> अ॒व॒स्यवो॑ धीमहि॒ प्रश॑स्तिं स॒द्यस्ते॑ रा॒यो दा॒वने॑ स्याम ॥१२॥
+
+**॥ पदपाठः ॥**
+
+> त्वे इति । इंद्र । अपि । अभूम । विप्राः । धियं । वनेम । ऋत्यया । सपंतः ।
+> अवस्यवः । धीमहि । प्रशस्तिं । सद्यः । ते । रायः । दावने । स्याम ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र विप्रा मेधाविनो वयं त्वे त्वयि त्वद्धृदयेऽभूम । अपि सानु-
+> नयप्रश्ने वर्तते । ते तव हृदये किं वर्तामह इति । ऋतॆया । ऋतं कर्मफलं ।
+> तत्कामनया सपंतस्त्वां परिचरणाख्येन कर्मणा स्पृशंतो वयं धियं त्वदुद्दे-
+> शेन क्रियमाणं कर्म वनेम । संभजेमहि ॥ वन षण संभक्तौ! आशीर्लिज लिज्या-
+
+> *he iṃdra viprā medhāvino vayaṃ tve tvayi tvaddhṛdaye 'bhūma | api sānu-*
+> *nayapraśne vartate | te tava hṛdaye kiṃ vartāmaha iti | ṛtèyā | ṛtaṃ karmaphalaṃ |*
+> *tatkāmanayā sapaṃtastvāṃ paricaraṇākhyena karmaṇā spṛśaṃto vayaṃ dhiyaṃ tvadudde-*
+> *śena kriyamāṇaṃ karma vanema | saṃbhajemahi ‖ vana ṣaṇa saṃbhaktau! āśīrlija lijyā-*
+
+*(The bhāṣya is cut off at the foot of the page, in the middle of the grammatical note on the root वन (*vana*) (van, "to share, to worship"); it continues on the next page.)*
+
+*Note: in the supplied text Saṃhitā and Pada of this Ṛk were not in the machine reading (a picture); they were written into kn.md from the picture. The Pada reads ऋत्यया (*ṛtyayā*) where the Saṃhitā has ऋतया (*ṛtayā*), as printed.*
+
 ---
 
-**Progress note:** Done through printed p. 606 (PDF 606). Sukta 11 Rk 10 Special Topics ends; Rk 11 complete
+**Progress note:** Done through printed p. 609 (PDF 609). Sukta 11 Rk 11 end of Special Topics, Rk 12 Samhita to start of bhashya; ref 8-3-40-5 as read from printed colon (noted)
