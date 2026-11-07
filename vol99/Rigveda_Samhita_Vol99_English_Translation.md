@@ -6042,6 +6042,96 @@ You, who are(famed for) many exploits, put on to-day an unclouded countenance,(a
 > *vyatyayena śnam | halcyā dinā sipo lopaḥ | aḍabhāvaśkāṃdasaḥ ‖ kiṃca suprāvyaḥ*
 > *sukhena sarvairupasarpaṇīyo 'bhavaḥ | śiṣṭaṃ siddhaṃ ‖*
 
+### Printed p. 706
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 706.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इंद्रॆ (*iṃdrè*) — O Indra) एकस्य (*ekasya*) — of the excellent one. यस्य (*yasya*) — of you whose. श्रुष्टौ (*śruṣṭau*) — for the pleasure. शतं दश (*śataṃ daśa*) — ten hundred (a thousand) horses are ready (you who). साकं (*sākaṃ*) — together. आ आद्यः (*ā ādyaḥ*) — you who provide food for all. यद्ध (*yaddha*) — you who. चोदं (*codaṃ*) — the sacrificer who impels the praisers. अविथ (*avitha*) — have protected. (यः (*yaḥ*) — you who) दभीतये (*dabhītaye*) — to help the sage Dabhīti. दस्यून् (*dasyūn*) — the violent asuras. अरज् (*araj*) — in a prison without ropes. समुनप् (*samunap*) — have placed and tormented. (and) सुप्राव्यः (*suprāvyaḥ*) — easily approached by all. अभवः (*abhavaḥ*) — have become. सः (*saḥ*) — such you. उत्कृष्टः असि (*utkṛṣṭaḥ asi*) — are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, for the pleasure of you, the excellent one, a thousand horses are ready; you provide food for all and protect the sacrificer who impels the praisers; and you, to help the sage Dabhīti, placed the violent asuras in a prison without ropes and tormented them. Therefore you are easily approached by all, and such a you are exceedingly praiseworthy.
+
+**Printed English translation**
+
+You, for whose sole pleasure a thousand(steeds are ready); by whom all are to be fed; and who protect the institutor(of the sacrifice); who, for the sake of Dabhiti, have cast the Dasyus into unfettered(captivity), and who are to be approached(by all); you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शतं वा यस्य दश साकं आ अद्यः एकस्य श्रुष्टौ (*śataṃ vā yasya daśa sākaṃ ā adyaḥ ekasya śruṣṭau*) — here the word एकस्य (*ekasya*) means एकाकिनः श्रेष्ठस्य वा (*ekākinaḥ śreṣṭhasya vā*): for you who are one, for you alone, or for you who are excellent. O Indra, a thousand (ten hundred) horses are ready for you, the excellent or the only one, as mounts. The same idea is expressed in the Ṛk
+
+इंद्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश (*iṃdro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa*)
+
+(M. Saṃ. 6-47-18, as printed). It says that when Indra fights the asuras he takes on many magical forms and uses thousands of horses as mounts. Here
+
+### Printed p. 707
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 11] Ṛgveda-saṃhitā; p. 707.*
+
+"thousand" can mean one thousand or "many". The sage describes Indra's distinction: so many horses are ready for Indra alone.
+
+श्रुष्टौ (*śruṣṭau*) — for the word श्रुष्टी (*śruṣṭī*): श्रुष्टीति क्षिप्रनाम आशु अष्टीति (*śruṣṭīti kṣipranāma āśu aṣṭīti*). Yāska explains श्रुष्टी (*śruṣṭī*) as "quickly", or "pervading quickly" (Ni. 6-13). Here, however, the bhāṣyakāra gives for श्रुष्टौ (*śruṣṭau*) the sense सुखनिमित्ते (*sukhanimitte*), "for pleasure".
+
+यश्च आ आद्यः (*yaśca ā ādyaḥ*) — सर्वेषां सर्वत उपजीव्यः (*sarveṣāṃ sarvata upajīvyaḥ*). All live depending on Indra; that is, Indra provides food and the rest to all, everywhere. This is the sense.
+
+यत् ह चोदं आविध (*yat ha codaṃ āvidha*) — यश्च त्वं चोदं स्तोत्राणां प्रेरकं यजमानं रक्षितवानसि (*yaśca tvaṃ codaṃ stotrāṇāṃ prerakaṃ yajamānaṃ rakṣitavānasi*). "Impeller of the praises" means the sacrificer who urges the priests to praise Indra; the sense is that Indra protects him.
+
+अरज् दस्यून् सं उनप् दभीतये (*araj dasyūn saṃ unap dabhītaye*) — O Indra, to protect the sage called Dabhīti you bound and tormented the Dasyus in a prison without ropes (रज्जु (*rajju*)), says the sage. When the Dasyus were harassing the sage Dabhīti, Indra, at his prayer, fought them, put them in prison without binding them with ropes, and subjected them to many kinds of torment. In some places it is said that the Aśvins protected the sage Dabhīti, in others that Indra protected him.
+
+याभिः कुत्समार्जुनेयं शतक्रतू प्र तुर्वितिं प्र च दभीतिमावतं (*yābhiḥ kutsamārjuneyaṃ śatakratū pra turvitiṃ pra ca dabhītimāvataṃ*)
+
+(Ṛ. Saṃ. 1-112-23). In this Ṛk it is said that the Aśvins protected Dabhīti. In some places this Dabhīti is called a warrior, in others a sage:
+
+इंद्रो धुनिं च चुमुरिं च दंभयञ्छ्रद्दामनस्या शृणुते दभीतये (*iṃdro dhuniṃ ca cumuriṃ ca daṃbhayañchraddāmanasyā śṛṇute dabhītaye*)
+
+(Ṛ. Saṃ. 10-113-9)
+
+स्वप्नेनाभ्युप्या चुमुरिं धुनिं च जघंथ दस्युं प्र दभीतिमावः (*svapnenābhyupyā cumuriṃ dhuniṃ ca jaghaṃtha dasyuṃ pra dabhītimāvaḥ*)
+
+(Ṛ. Saṃ. 2-15-9)
+
+In these Ṛks Dabhīti is called a royal sage, and it is said that for him Indra conquered the asuras Chumuri and Dhuni. It is understood that he pressed and offered Soma juice to Indra and obtained Indra's favour.
+
+### Printed p. 708
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13; p. 708.*
+
+अस्वापयद्धभीतये सहस्रा त्रिशतं हथैः । दासानामिंद्रो मायया (*asvāpayaddhabhītaye sahasrā triśataṃ hathaiḥ | dāsānāmiṃdro māyayā*)
+
+(Ṛ. Saṃ. 4-30-21). In this Ṛk it is said that Indra by his magic put thirty thousand Dāsas to sleep for Dabhīti.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> विश्वेदनु॑ रोध॒ना अ॑स्य॒ पौंस्यं॑ द॒दुर॑स्मै दधि॒रे कृ॒त्स्नवे॒ धनं॑ ।
+> षळ॑स्तभ्ना वि॒ष्टिरः॒ पंच॑ सं॒दृशः॒ परि॑ प॒रो अ॑भवः॒ सास्यु॒क्थ्यः॑ ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> विश्वा । इत् । अनु । रोधनाः । अस्य । पौंस्यं । ददुः । अस्मै । दधिरे । कृत्नवे । धनं ।
+> षट् । अस्तभ्नाः । विस्तिरः । पंच । संदृशः । परि । परः । अभवः । सः । असि । उक्त्यः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> विश्वेत् ॥ सुपां सुलुगिति जस आकारः ॥ सर्वा एव रोधना रोधस्वत्यो
+> नद्योऽस्येंद्रस्य पौंस्यं । पुंसो भावः पौंस्यं । वीर्यमिति यावत् । अनु
+> तद्विर्यमनु वर्तंते । अस्मा इंद्राय ददुः । हविर्लक्षणमन्नं यजमानाः प्रय-
+> च्छंति । किंच कृत्नवे कर्मणां कर्त्र इंद्राय धनं दधिरे । सर्वॆ जना धारयंति ।
+> तढा च मंत्रः । इंद्राय द्याव ओषधीरुतापो रयिं रक्षंति जीरयो वनानि ।
+> ३-५१-५ । इति । विष्टिरो विस्तीर्णाः षट् षट्संख्याका उर्वीः । ताश्च द्यौश्च पृथिवी
+> चाहश्च रात्रिश्चापश्चौषधय इत्येवंरूपाः । ता अस्तभ्नाः । नियमितवानसि । संदृशः ।
+> सम्यक् पश्यंतीति संदृशो जनाः । पंच संदृशः पंच जनान् परि सर्वतः परः
+> पारयिता पालयिता वाभवः । भवसि । गतमन्यत् ॥
+
+*Gist: All the rivers flow in accordance with Indra's manly power; people give him oblations and wealth; he has restrained the six wide worlds and protects the five peoples.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विश्वा इत् (*viśvā it*) — all. रोधनाः (*rodhanāḥ*) — the rivers. अस्य (*asya*) — of you who are Indra. पौंस्यं (*pauṃsyaṃ*) — the heroic deed. अनु (*anu*) — following (as its result) they flow. अस्मै (*asmai*) — to you, such an Indra. ददुः (*daduḥ*) — (the sacrificers) offer (the oblation). कृत्नवे (*kṛtnave*) — to you, the doer of excellent deeds. धनं (*dhanaṃ*) — wealth. दधिरे (*dadhire*) — (all) offer. विस्तिरः (*vistiraḥ*) — wide (the entry breaks off here at the end of the page; it continues on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 705 (PDF 705). Sukta 13 Riks 8 and 9 (Samhita and Pada read from figures); Rik 9 bhashya in progress
+**Progress note:** Done through printed p. 708 (PDF 708). Sukta 13 Rik 9 Pratipadartha to Special Topics; Rik 10 Samhita, Pada, bhashya; Pratipadartha begun
