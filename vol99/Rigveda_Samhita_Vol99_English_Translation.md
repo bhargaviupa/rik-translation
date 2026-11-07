@@ -5941,6 +5941,107 @@ You have caused, by culture, the flowering and fruitful(plants) to spread over t
 
 यः च असमाः अजनः दिद्युतः दिवः उरुः ऊर्वान् अभितः (*yaḥ ca asamāḥ ajanaḥ didyutaḥ divaḥ uruḥ ūrvān abhitaḥ*) — In this sentence also the meaning must be given by supposing some words. The various kinds of rays of the sun
 
+### Printed p. 703
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 11] Ṛgveda-saṃhitā; p. 703.*
+
+(The Special Topics of Ṛk 7 continues:) ...the kinds of light that appear in the morning, at midday and in the evening, and the great trees, animals, mountains, rivers and so on seen everywhere: Indra is addressed and described as having created all these.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> यो ना॑र्म॒रं स॒हव॑सुं॒ निहं॑तवे पृ॒क्षाय॑ च दा॒सवे॑शाय॒ चाव॑हः ।
+> ऊ॒र्जयं॑त्या॒ अप॑रिविष्टमा॒स्य॑मु॒तैवाद्य पु॑रुकृ॒त्सास्यु॒क्थ्यः॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । नार्मरं । सहऽवसुं । निऽहंतवे । पृक्षाय । च । दासऽवेशाय । च । अवहः ।
+> ऊर्जयंत्याः । अपरिऽविष्टं । आस्यं । उत । एव । अद्य । पुरुऽकृत् । सः । असि ।
+> उक्थ्यः ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> पुरुकृत् पुरूणां कर्मणां कर्ता हे इंद्र यस्त्वं नार्मरं । न्यून् मनु-
+> ष्यान्मारयतीति नृमरः कश्चिदसुरः । तस्यापत्यं नार्मरः । तं सहवसुं । वसुना सह
+> वर्तत इति सहवसुः । असुरनामैतत् । एतन्नामकमसुरं निहंतवे ॥ हंतेस्तुमर्थे
+> तवेन्प्रत्ययः । तादौ च नितीति गतेः प्रकृतिस्वरत्वं ॥ निहंतुं ऊर्जयंत्या बलवत्या
+> वज्रधाराया अपरिविष्टं मलादिभिरव्याप्तमास्यमद्यॆनावहः । तमसुरं प्रापयः ।
+> यद्वा ऊर्जयंत्याः पिशाचिकाया आस्यं प्रापयः । किमर्थं । पृक्षाय । तव हवि-
+> र्लक्षणान्नलाभाय । दासवेशाय दासानां दस्यूनां वेशाय विनाशाय च । यद्वा
+> अस्माकमन्नलाभाय दस्युविनाशाय च ॥
+
+*Gist: Indra, doer of many deeds, bore a pure face to slay the asura Sahavasu, son of Nṛmara, for food and the destruction of the Dasyus; he is worthy of praise.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पुरुकृत् (*purukṛt*) — O Indra, who have done unusual and manifold deeds. यः (*yaḥ*) — you who. पृक्षाय (*pṛkṣāya*) — for the gain of food in the form of the oblation. दासवेशाय च (*dāsaveśāya ca*) — and also for the destruction of the Dasyus. नार्मरं (*nārmaraṃ*) — the son of Nṛmara, सहवसुं (*sahavasuṃ*) — bearing the name Sahavasu, the son of an asura (continued on the next page).
+
+### Printed p. 704
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 13 (as printed "ಸೂ ೧೩"); p. 704.*
+
+निहंतवे (*nihaṃtave*) — in order to kill. ऊर्जयंत्याः (*ūrjayaṃtyāḥ*) — strong, having the form of the edge of the thunderbolt, अपरिविष्टं (*apariviṣṭaṃ*) — and free from dirt: अस्यं (*asyaṃ*) [as supplied] — the face. अद्य एव (*adya eva*) — at once. अवहः (*avahaḥ*) — you bore. सः (*saḥ*) — such a you. उक्त्यः (*uktyaḥ*) [as supplied] — worthy of praise. असि (*asi*) — are.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, doer of many extraordinary deeds, you who, for the gain of food and the destruction of the Dasyus, at once took on a face in the form of the edge of the thunderbolt, free of dirt, to kill Sahavasu, the son of Nṛmara, such a one you are worthy of praise.
+
+**Printed English**
+
+You, who are(famed for) many exploits, put on to-day an unclouded countenance,(as prepared) to slay Sahavasu, the son of Nrimara, with the sharpened(edge of the thunderbolt), in defence of the(sacrificial) food, and for the destruction of the Dasyns [sic]; you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नार्मरं—न्यन् मनुष्यान् मारयतीति नृमरः कश्चिदसुरः (*nārmaraṃ—nyan manuṣyān mārayatīti nṛmaraḥ kaścidasuraḥ*) — the name of an asura. Because he kills men he is commonly called by the name Nṛmara. His son is called Nārmara. This word occurs in the Ṛgveda only in the present Ṛk and nowhere else, so nothing more can be said about him. The scholar Ludwig takes the word ऊर्जयंती (*ūrjayaṃtī*) in this Ṛk to mean a strong fort, and holds that Nārmara was the king, lord of that fort or stronghold; but this view has no adequate support.
+
+सहवसुं (*sahavasuṃ*) — the son of the asura named Nṛmara. Little is known of him either. The commentator, giving the word's component meaning वसुना सह वर्तत इति सहवसुः (*vasunā saha vartata iti sahavasuḥ*), explains it as "the asura Sahavasu, who possesses much wealth".
+
+दासवेशाय (*dāsaveśāya*) — दासानां दस्यूनां वेशाय विनाशाय (*dāsānāṃ dasyūnāṃ veśāya vināśāya*): for destroying the wicked Dasyu people.
+
+पृक्षाय (*pṛkṣāya*) — the word पृक्ष (*pṛkṣa*) is read among the names of food (Ni. 3-9). The commentator gives two senses: for gaining the food in the form of the oblation which we offer to you, or for the food which you give us.
+
+### Printed p. 705
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 11] Ṛgveda-saṃhitā; p. 705.*
+
+ऊर्जयंत्याः अपरिविष्टं आस्यं उत एव अद्य (*ūrjayaṃtyāḥ apariviṣṭaṃ āsyaṃ uta eva adya*) — for the word अपरिविष्टं (*apariviṣṭaṃ*) in this sentence the explanation given is मलादिभिरव्याप्तं (*malādibhiravyāptaṃ*): without dirt, pure. What the right sense of the sentence is, and the seer's intention, is not clear. Perhaps the intention is that Indra, to destroy the asura Sahavasu, son of Nṛmara, took on a form (shape) full of radiance and power and so destroyed that asura.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> श॒तं वा॒ यस्य॒ दश॑ सा॒कमाद्य॒ एक॑स्य श्रु॒ष्टौ यद्ध॑ चो॒दमावि॑थ ।
+> अ॒र॒ज्ञौ दस्यू॒न्त्समु॑नब्द॒भीत॑ये सुप्रा॒व्यो॑ अभवः॒ सास्यु॒क्थ्यः॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> शतं । वा । यस्य । दश । साकं । आ । अद्यः । एकस्य । श्रुष्टौ । यत् । ह । चोदं । आविथ ।
+> अरज्ञौ । दस्यून् । सं । उनप् । दभीतये । सुप्रऽआव्यः । अभवः । सः । असि ।
+> उक्थ्यः ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र एकस्यॆकाकिनः श्रेष्ठस्य वा यस्य ते श्रुष्टौ सुखनिमित्ते तदर्थं शतं
+> दश दश शतानि हरयो वाहनार्थं भवंति । तथा च मंत्रवर्णः । इंद्रो मायाभिः
+> पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश । ६-४७-१८ । इति । अपि च यश्च आ
+> अद्यः सर्वेषां सर्वत उपजीव्यः। न तस्येशे यं नाद्याद्यद्वैनं नाद्युरिति हि श्रुतिः ।
+> यद्ध यश्च त्वं चोदं स्तोत्राणां प्रेरकं यजमानमाविथ । रक्षितवानसि । किंच
+> यस्त्वमरज् रज्जुवर्जिते बंधनागारे दस्यनुपक्षपयित्थन् दभीतये । दभीति-
+> र्नाम कश्चि दृषिः । तदर्थं समुनप् । हिंसितवानसि ॥ उभतेर्हिंसाकर्मणो लजु
+> व्यत्ययेन श्नम् । हल्च्या दिना सिपो लोपः । अडभावश्कांदसः ॥ किंच सुप्राव्यः
+> सुखेन सर्वैरुपसर्पणीयोऽभवः । शिष्टं सिद्धं ॥
+
+> *he iṃdra ekasyèkākinaḥ śreṣṭhasya vā yasya te śruṣṭau sukhanimitte tadarthaṃ śataṃ*
+> *daśa daśa śatāni harayo vāhanārthaṃ bhavaṃti | tathā ca maṃtravarṇaḥ | iṃdro māyābhiḥ*
+> *pururūpa īyate yuktā hyasya harayaḥ śatā daśa | 6-47-18 | iti | api ca yaśca ā*
+> *adyaḥ sarveṣāṃ sarvata upajīvyaḥ| na tasyeśe yaṃ nādyādyadvainaṃ nādyuriti hi śrutiḥ |*
+> *yaddha yaśca tvaṃ codaṃ stotrāṇāṃ prerakaṃ yajamānamāvitha | rakṣitavānasi | kiṃca*
+> *yastvamaraj rajjuvarjite baṃdhanāgāre dasyanupakṣapayitthan dabhītaye | dabhīti-*
+> *rnāma kaści dṛṣiḥ | tadarthaṃ samunap | hiṃsitavānasi ‖ ubhaterhiṃsākarmaṇo laju*
+> *vyatyayena śnam | halcyā dinā sipo lopaḥ | aḍabhāvaśkāṃdasaḥ ‖ kiṃca suprāvyaḥ*
+> *sukhena sarvairupasarpaṇīyo 'bhavaḥ | śiṣṭaṃ siddhaṃ ‖*
+
 ---
 
-**Progress note:** Done through printed p. 702 (PDF 702). Sukta 13 Rik 6 Special Topics, Rik 7 (Samhita and Pada read from figure)
+**Progress note:** Done through printed p. 705 (PDF 705). Sukta 13 Riks 8 and 9 (Samhita and Pada read from figures); Rik 9 bhashya in progress
