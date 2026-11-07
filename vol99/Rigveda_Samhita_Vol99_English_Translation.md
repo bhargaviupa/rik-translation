@@ -5056,6 +5056,116 @@ Without whom men do not conquer; whom, when engaged in conflict, they invoke for
 
 > *yaḥ | śaśvataḥ | mahi | enaḥ | dadhānān | amanyamānān | śarvā | jaghāna |*
 
+### Printed p. 670
+
+*Running head: [670 Sāyaṇabhāṣyasahitā, Maṃ. 2 A. 2 Sū. 12]*
+
+**॥ पदपाठः ॥**
+
+> यः । शर्धते । न । अनुददाति । श्रध्यां । यः । दस्योः । हंता । सः । जनासः ।
+> इंद्रः ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यो महि महदेनः पापं दधानान् शश्वतो बहूनमन्यमानान् आत्मान-
+> मजानत इंद्रमपूजयतो वा जनान् शर्वा । शृणाति शत्रूननेनेति शरुर्वज्रः ।
+> तेनायुधेन जघान ॥ हंतेर्लिटि रूपं ॥ यश्च शर्धत उत्साहं कुर्वतेऽनात्म-
+> ज्ञाय जनाय शृध्यामुत्साहनीयं कर्म नानुददाति । न प्रयच्छति ॥ अनुपूर्वात्
+> डुदाञ् दाने चौहोत्यादिकः । अभ्यस्तानामादिरिति तिजि चोदात्तावतीति गतेर्नि-
+> घातः ॥ यश्च दस्योरुपक्षपयितुः शत्रोर्हंता घातकः स इंद्र इत्यादि पूर्ववत् ॥
+
+*Gist:* Indra with his thunderbolt slew the many sinful, arrogant men who did not honour him; he gives no encouragement to the proud, and he is the slayer of the Dasyu.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यः (*yaḥ*) — who. महि (*mahi*) — great. एनः (*enaḥ*) — sin. धधानान् (*dhadhānān*) [sic, as supplied] — those who bear (it), शश्वतः (*śaśvataḥ*) — numerous, अमन्यमानान् (*amanyamānān*) — and puffed up with arrogance: these men. शर्वा (*śarvā*) — with the thunderbolt. जघान (*jaghāna*) — slew. यः (*yaḥ*) — who. शर्धते (*śardhate*) — to the one who is not a knower of the Self. कृध्यां (*kṛdhyāṃ*) [as supplied; the Saṃhitā has श्रध्यां (*śradhyāṃ*)] — help that gives encouragement. न अनुददाति (*na anudadāti*) — does not give. यः (*yaḥ*) — who. दस्योः (*dasyoḥ*) — of the enemy who causes destruction. हंता (*haṃtā*) — is the destroyer. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who slew with the thunderbolt those who bear great sin, who are numerous and full of arrogance; who does not give (the supplied text has a misprint in this word [sic]) encouraging help to the one who is not a knower of the Self; who is the destroyer of the enemy that causes destruction: he is Indra.
+
+**Printed English translation**
+
+He, who with the thunderbolt has destroyed many committing great sin, and offering(him) no homage: who grants not success to the confident; who is the slayer of the Dasyu; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शश्वतः (*śaśvataḥ*) — Since the word शश्वत् (*śaśvat*) is read among the twelve words for "many" (उरु (*uru*), तुवि (*tuvi*) and the rest) (Ni. 3-13), शश्वतः (*śaśvataḥ*) means numerous, abundant.
+
+### Printed p. 671
+
+*Running head: [A. 2 A. 6 V. 9] Ṛgvedasaṃhitā 671]*
+
+एनः (*enaḥ*) — एन एतेः (*ena eteḥ*) (Ni. 11-24); तदस्येवमेवावश्यमेवैति (*tadasyevamevāvaśyamevaiti*). Because this (sin) follows the doer without fail, एनः (*enaḥ*) means sin.
+
+अमन्यमानान् (*amanyamānān*) — The commentator explains: आत्मानमजानत इंद्रमपूजयतो वा जनान् (*ātmānamajānata iṃdramapūjayato vā janān*). मन्यमानान् (*manyamānān*) means those who know; अमन्यमानान् (*amanyamānān*) means those who do not know, that is, those who do not know the true state of things or the true reality, the Self (the Brahman), or those who, not knowing Indra's qualities and the like, do not worship him.
+
+शर्वा (*śarvā*) — For the word शरु (*śaru*), formed from the root श्य हिंसायां (*śya hiṃsāyāṃ*), the meaning is that which injures, or a weapon such as the thunderbolt that is the means of injury.
+
+यः शश्वतः महि एनः दधानान् अमन्यमानान् शर्वा जघान (*yaḥ śaśvataḥ mahi enaḥ dadhānān amanyamānān śarvā jaghāna*) — Indra struck with his thunderbolt the many people who had done great sin and, devoid of true knowledge, did not worship Indra; that is, Indra destroyed many wicked asuras who, devoted to sinful acts only, performed no sacrifices and did not worship Indra. This is the main idea.
+
+यः शर्धते न अनुददाति श्रध्यां (*yaḥ śardhate na anudadāti śradhyāṃ*) — The word शर्धः (*śardhaḥ*) is read among the names of strength (Ni. 3-9). Here the commentator explains this sentence as शर्धत उत्साहं कुर्वतेनात्मज्ञाय जनाय श्रध्यामुत्साहनीयं कर्म नानुददाति न प्रयच्छति (*śardhata utsāhaṃ kurvatenātmajñāya janāya śradhyāmutsāhanīyaṃ karma nānudadāti na prayacchati*), that is, that Indra does not create enthusiasm in a man who is full of enthusiasm but is not a knower of the Self. The main idea is that Indra gives no help or encouragement of any kind to one who is proud of his strength. This meaning does not appear to be correct for the sentence. The seer's intention cannot be understood clearly.
+
+यः दस्योः हंता (*yaḥ dasyoḥ haṃtā*) — He who destroys the Dasyu people, the enemies of the Āryas. Slaying the Dasyu is regarded as a special quality of Indra. It is the custom, when praising Indra, to describe him as the destroyer of the Dasyus.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> यः शंब॑रं॒ पर्व॑तेषु क्षि॒यंतं॑ चत्वारुं॒श्यां श॒रद्य॒न्वविं॑दत् ।
+> ओ॒जा॒यमा॑नं॒ यो अहिं॑ ज॒घान॒ दानुं॒ शया॑नं॒ स ज॑नास॒ इंद्रः॑ ॥ ११ ॥
+
+> *yaḥ śaṃbaraṃ parvateṣu kṣiyaṃtaṃ catvāruṃśyāṃ śaradyanvaviṃdat |*
+> *ojāyamānaṃ yo ahiṃ jaghāna dānuṃ śayānaṃ sa janāsa iṃdraḥ ‖ 11 ‖*
+
+### Printed p. 672
+
+*Running head: [672 Sāyaṇabhāṣyasahitā, Maṃ. 2 A. 2 Sū. 12]*
+
+**॥ पदपाठः ॥**
+
+> यः । शंबरं । पर्वतेषु । क्षियंतं । चत्वारुंश्यां । शरदि । अनुअविंदत् ।
+> ओजायमानं । यः । अहिं । जघान । दानुं शयानं । सः । जनासः । इंद्रः । ॥१०॥
+
+> *yaḥ | śaṃbaraṃ | parvateṣu | kṣiyaṃtaṃ | catvāruṃśyāṃ | śaradi | anuaviṃdat |*
+> *ojāyamānaṃ | yaḥ | ahiṃ | jaghāna | dānuṃ śayānaṃ | saḥ | janāsaḥ | iṃdraḥ | ‖10‖*
+
+(The number printed at the end of the Pada is 10 [sic], as supplied; the Ṛk is the eleventh.)
+
+**॥ सायणभाष्यम् ॥**
+
+> यः पर्वतेषु क्षियंतमिंद्रभिया बहून् संवत्सरान्प्रच्छन्नो भूत्वा
+> पर्वतगुहासु निवसंतं शंबरमेतन्नामकं मायाविनमसुरं चत्वारिंश्यां शरदि
+> चत्वारिंशे संवत्सरेऽनविंदत् । अन्विष्यालभत । लब्धा च य ओजायमानं ॥ कर्तुः
+> क्यज् सलोपश्च ओजसोऽप्सरसो नित्यं । पा. ३-१-११-२ । इति सकारलोपः ॥ बलमा-
+> चरंतमहिमाहंतारं दानुं दानवं शयानं शंबरमसुरं जघान हतवान् स
+> इंद्रो नाहमिति ॥
+
+> *yaḥ parvateṣu kṣiyaṃtamiṃdrabhiyā bahūn saṃvatsarānpracchanno bhūtvā*
+> *parvataguhāsu nivasaṃtaṃ śaṃbarametannāmakaṃ māyāvinamasuraṃ catvāriṃśyāṃ śaradi*
+> *catvāriṃśe saṃvatsare 'naviṃdat | anviṣyālabhata | labdhā ca ya ojāyamānaṃ ‖ kartuḥ*
+> *kyaj salopaśca ojaso 'psaraso nityaṃ | pā. 3-1-11-2 | iti sakāralopaḥ ‖ balamā-*
+> *caraṃtamahimāhaṃtāraṃ dānuṃ dānavaṃ śayānaṃ śaṃbaramasuraṃ jaghāna hatavān sa*
+> *iṃdro nāhamiti ‖*
+
+*Gist:* Hidden for forty years in the mountain caves for fear of Indra, the demon Śambara was found in the fortieth year and slain by Indra; the grammatical note explains the loss of स् (*s*) in ओजायमानं (*ojāyamānaṃ*) (Pā. 3-1-11-2, as printed).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यः (*yaḥ*) — who. पर्वतेषु (*parvateṣu*) — in the mountains. क्षियंतं (*kṣiyaṃtaṃ*) — living in hiding. शंबरं (*śaṃbaraṃ*) — the asura named Śambara. चत्वारिंश्यां तरदि (*catvāriṃśyāṃ taradi*) [as supplied] — in the fortieth year. अन्वविंदत् (*anvaviṃdat*) — searched out and found. यः (*yaḥ*) — who. ओजायमानं (*ojāyamānaṃ*) — who relied on strength, अहिं (*ahiṃ*) — the slayer, दानुं (*dānuṃ*) — the son of Danu, शयानं (*śayānaṃ*) — who lay sleeping on the mountain: that Śambara. जघान (*jaghāna*) — slew. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who, after searching, at last found the asura named Śambara, who had lived hiding in the mountains for forty years, and who slew that demon who was strong and a slayer: he is Indra.
+
+**Printed English translation**
+
+He, who discovered Shambara dwelling in the mountains for forty years; who slew Ahi, growing in strength, and the sleeping son of Danu; he, mcn [sic], is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शंबरं (*śaṃbaraṃ*) — The word शंबर (*śaṃbara*) is read among the names of cloud (Ni. 2-21) and among the names of water (Ni. 2-24) (the supplied text prints a different, apparently misspelt, word for "is read" [sic]). In the present Ṛk, शंबर (*śaṃbara*) means the asura of that name.
+
 ---
 
-**Progress note:** Done through printed p. 669 (PDF 669). Sukta 12 Rik 8 special topics, Rik 9 complete, Rik 10 Samhita and Pada start
+**Progress note:** Done through printed p. 672 (PDF 672). Sukta 12 Rik 10 rest, Rik 11
