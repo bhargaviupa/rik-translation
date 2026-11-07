@@ -4890,6 +4890,100 @@ The sense of the sentence: Indra protects the sacrificer who, holding in his han
 > *yasya | aśvāsaḥ | pradiśi | yasya | gāvaḥ | yasya | grāmāḥ | yasya | viśve | rathāsaḥ |*
 > *yaḥ | sūryaṃ | yaḥ | uṣasaṃ | jajāna | yaḥ | apāṃ netā | saḥ| janāsaḥ| iṃdraḥ‖7‖*
 
+### Printed p. 664
+
+*Running head: [664 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> यस्य सर्वांतर्यामितया वर्तमानस्य प्रदिशि प्रदेशनेऽनुशासनेऽश्वासोऽश्वा
+> वर्तंते । यस्यानुशासने गावः । यस्यानुशासने ग्रामाः । ग्रसंतेऽत्रेति ग्रामा
+> जनपदाः । यस्याज्ञायां विश्वे सर्वॆ रथासो रथा वर्तंते । यश्च वृत्रं हत्वा
+> सूर्यं जजान । जनयामास । यश्चोषसं । तथा मंत्रः जजान सूर्यमुषसं
+> सुदंसाः । ३-३२-८ । इति । यश्च मेघभेदनद्वारापां नेता प्रेरकः स इंद्र इत्यादि
+> प्रसिद्धं ॥
+
+*Gist:* Horses, cows, villages and all chariots abide under Indra's rule; he begot the sun and the dawn and, by splitting the cloud, sets the waters in motion; he alone is Indra.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यस्य (*yasya*) — of whom, the inner controller of all. प्रदिशि (*pradiśi*) — under (his) command. अश्वासः (*aśvāsaḥ*) — the horses are. यस्य (*yasya*) — in whose command. गावः (*gāvaḥ*) — the cows are. यस्य (*yasya*) — in whose control. ग्रामाः (*grāmāḥ*) — the villages are. यस्य (*yasya*) — in whose control. विश्वे रथासः (*viśve rathāsaḥ*) — all the chariots are (and). यः (*yaḥ*) — who (having slain Vṛtra). सूर‍्यं (*sūryaṃ*) — the sun. जजान (*jajāna*) — created (and). यः (*yaḥ*) — who. उषसं (*uṣasaṃ*) — created the dawn. यः (*yaḥ*) — who (having split the cloud). अपां (*apāṃ*) — of the waters. नेता (*netā*) — is the leader. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he under whose rule are horses, cows, villages and all chariots, he who, having slain Vṛtra, created the sun and the dawn, he who, having split the cloud, is the leader (impeller) of the waters: he is Indra.
+
+**Printed English translation**
+
+He, under whose control are horses and cattle, and villages, and all chariots: he who gave birth to the sun and to the dawn: and who is the leader of the waters: he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+प्रदिशि (*pradiśi*) — प्रदेशने अनुशासने (*pradeśane anuśāsane*): in control, under command (Under his control); the sense is "subject to Indra's command or authority".
+
+ग्रामाः (*grāmāḥ*) — ग्रसंतेऽत्रेति ग्रामा जनपदाः (*grasaṃte 'treti grāmā janapadāḥ*): Sāyaṇa has explained the word *grāma* as *janapada* or communities, that is, the people of one nation; it may also be said to mean dwelling places such as villages and towns where people live.
+
+### Printed p. 665
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 8.] Ṛgvedasaṃhitā, p. 665.*
+
+अश्वासः गावः ग्रामाः रथासः (*aśvāsaḥ gāvaḥ grāmāḥ rathāsaḥ*) — It should not be understood that only these four kinds, horses, cows, villages and chariots, are subject to Indra and not other things. Since it is not possible to name all the things of the world one by one, only a few are mentioned here; likewise all creatures and things in the world are to be understood as subject to Indra's command.
+
+रथासः (*rathāsaḥ*) — For the word *ratha* Yāska in his Nirukta gives the etymology रथो रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा रपतेर्वा रसतेर्वा (*ratho raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā rapatervā rasatervā*) (Ni. 9-11). That is, the word *ratha* may be formed either from the root *raṃh*, which denotes motion, or from the root *sthirati* in the sense "to be firm" (here the first two syllables of the root *sthirati* must be transposed). As this vehicle is always going (moving about), it is called *ratha*. Or the warrior who sits in it is steady: just as the body shakes when one sits on horses and other animals, one can sit in a chariot firmly without shaking, so it is called *ratha*. Or, because one sits and roams about in it, it is called *ratha*. Thus the etymological meanings are explained.
+
+यः सूर्यं यः उषसं जजान (*yaḥ sūryaṃ yaḥ uṣasaṃ jajāna*) — Indra produced the sun and the goddess Uṣas. On this point:
+
+इंद्रस्य कर्म सुकृता पुरूणि व्रतानि देवा न मिनंति विश्वे । दाधार यः पृथिवीं द्यामुतेमां जजान सूर्यमुषसं सुदंसाः ॥ (*iṃdrasya karma sukṛtā purūṇi vratāni devā na minaṃti viśve | dādhāra yaḥ pṛthivīṃ dyāmutemāṃ jajāna sūryamuṣasaṃ sudaṃsāḥ ‖*) (Ṛ. Saṃ. 3-32-8)
+
+In this Ṛk it is said that Indra, the doer of excellent deeds, upholds the earth and heaven and created the sun and the dawn (printed उपस्स (*upassa*) in the Kannada, a misprint for *Uṣas* [sic]).
+
+यः अपां नेता (*yaḥ apāṃ netā*) — यश्च मेघभेदनद्वारापां नेता प्रेरकः (*yaśca meghabhedanadvārāpāṃ netā prerakaḥ*): Because Indra strikes the clouds in the atmosphere held back by Vṛtra and makes the water pour down, he is called the impeller of the waters; that is, it is by Indra's impulsion that the clouds shed rain, and by that rain the water comes to the earth. Such is the meaning.
+
+(The line कंठनाथः (*kaṃṭhanāthaḥ*) stands here in the supplied text, before the next Ṛk; it is not explained: reported for the user.)
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> यं क्रंद॑सी संय॒ती वि॒ह्वये॑ते॒ परेव॑र उ॒भया॑ अ॒मित्राः॑ ।
+> स॒मा॒नं चि॒द्रथ॑मातस्थि॒वांसा॒ नाना॑ हवेते॒ स ज॑नास॒ इंद्रः॑ ॥ ८ ॥
+
+> *yaṃ kraṃdasī saṃyatī vihvayete parevara ubhayā amitrāḥ |*
+> *samānaṃ cidrathamātasthivāṃsā nānā havete sa janāsa iṃdraḥ ‖ 8 ‖*
+
+### Printed p. 666
+
+*Running head: [666 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+**॥ पदपाठः ॥**
+
+> यं । क्रंदसी इति । संयती इति संयती । विह्वयेते इति विह्वयेते । परे ।
+> अवरे । उभयाः । अमित्राः ।
+> समानं । चित् । रथं । आतस्थिवांसा । नाना । हवेते इति । सः । जनासः । इंद्रः ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यं क्रंदसी रोदसी शब्दं कुर्वाणे मानुषी देवी च द्वे सेने वा संयती
+> परस्परं संगच्छंत्यायमिंद्रं विह्वयेते। स्वरक्षार्थं विविधमाह्वयतः। पर उत्कृष्टा
+> अवरेऽधमाश्चोभया उभयविधा उभयमाह्वयंति । समानमिंद्ररथसदृशं
+> रथमातस्थिवांसा आस्थितौ द्वौ रथिनौ तमेवेंद्रं नाना पृथक् पृथक् हवेते । आह्व-
+> येते । यद्वा समानमेकरथमारूढाविंद्राग्नी हवेते । यज्ञार्थं यजमानैः
+> पृथगाहूयेते । तयोरन्यतरः स इंद्रो नाहमिति ॥
+
+*Gist:* Indra is the one whom the two hosts, high and low enemies, and two charioteers in one car each invoke separately for help; alternatively Indra and Agni in one chariot are invoked by sacrificers, and one of the two is Indra.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. यं (*yaṃ*) — whom. क्रंदसी (*kraṃdasī*) — the two, heaven and earth, or the two hosts that make a noise, the divine host and the human host. संयती (*saṃyatī*) — coming together. विह्वयेते (*vihvayete*) — call for protection. परे (*pare*) — the superior ones. अवरे (*avare*) — and the inferior ones. उभयाः (*ubhayāḥ*) — of both these kinds. अमित्राः (*amitrāḥ*) — enemies also call. समानं चित् (*samānaṃ cit*) — like Indra's chariot. रथं (*rathaṃ*) — the chariot. आतस्थिवांसा (*ātasthivāṃsā*) — the two charioteers who have mounted and sit. नाना हवेते (*nānā havete*) — call separately. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he whom the divine host and the human host, making noise together, call for protection, and whom enemies also, the superior and the inferior, call; and whom the two charioteers who have mounted a chariot like Indra's call separately (for protection): he is Indra.
+
+**Printed English translation**
+
+Whom(two hosts), calling and mutually encountering, call upon; whom both adversaries, high and low,(appeal to); whom two(charioteers), stand-ing in the same car, severally invoke; he, men, is Indra.
+
 ---
 
-**Progress note:** Done through printed p. 663 (PDF 663). Sukta 12 Rik 5 Special Topics end; Rik 6 complete; Rik 7 Samhita and Pada
+**Progress note:** Done through printed p. 666 (PDF 666). Sukta 12 Rik 7 bhashya to Rik 8 complete
