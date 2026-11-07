@@ -7491,6 +7491,85 @@ The grammatical remarks of the commentary (the root *stambh*, the substitution o
 
 अवंशे (*avaṃśe*)—in the sky, which has no support. द्यां (*dyāṃ*)—the heaven, or the shining sun (the supplied text prints सूरनन्नु (*sūranannu*)). अस्तभायत् (*astabhāyat*)—established. बृहंतं (*bṛhaṃtaṃ*)—great. अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere also. रोदसी (*rodasī*)—heaven and earth. आपृणत् (*āpṛṇat*)—filled (with his splendour). सः (*saḥ*)—that Indra. पृथिवीं (*pṛthivīṃ*)—the extended earth (printed विस्त्रतवाद (*vistratavāda*)). धारयत् (*dhārayat*)—held up. पप्रथच्च (*paprathacca*)—and made it known so that it is famous in the world. सोमस्य (*somasya*)—from drinking Soma juice. मदे (*made*)—when joy arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—performed.
 
+### Printed p. 757
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 15] Ṛgvedasaṃhitā; p. 757.*
+
+**भावार्थ (Bhāvārtha)**
+
+Indra fixed the heaven and the shining sun in the unsupported sky. He filled the great atmosphere and heaven and earth with his splendour. That Indra upheld the extended earth and made it renowned. When joy arose from drinking the Soma juice, Indra performed these great deeds.
+
+**Printed English translation**
+
+Who fixed the heaven in unsupported(space), and filled the spacious firmament, and heaven, and earth,(with light): he it is who has upheld and has made the earth renowned: in the exhilaration of the Soma, Indra has done these(deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अवंशे (*avaṃśe*)—आकाशे (*ākāśe*): "in the sky, or in the atmosphere" is the commentator's explanation. The word अवंश (*avaṃśa*) occurs in the Ṛgveda in this Ṛk and in the Ṛk Ṛ. Saṃ. 7-58-1; nowhere else.
+
+द्यां (*dyāṃ*)—द्योतमानं सूर्यं द्युलोकं वा (*dyotamānaṃ sūryaṃ dyulokaṃ vā*): either of two meanings may be taken, the shining sun or the world of heaven (svarga). And there is the etymological statement that द्युः (*dyuḥ*) is a name of the day (अहः (*ahaḥ*)) (Ni. 1-7). The word द्यौः (*dyauḥ*) is read among the names of day (Ni. 2-21), and there is also the explanation द्यौरादित्यो भवति (*dyaurādityo bhavati*) ("heaven is the sun"). Here, as the commentator says, the meaning sun or heaven-world may be given to the word.
+
+In this Ṛk it is said that Indra fixed the sun in the sky, which has no support or foundation; that he filled the atmosphere and heaven and earth with his boundless splendour; and that he made the earth stand firm so that it does not move. These are the heroic deeds he performed, and it is said that he did all these deeds out of the joy born of drinking Soma.
+
+### Printed p. 758
+
+*Running head: 758 Sāyaṇa-bhāṣya-sahitā; [Maṇḍala 2, Adhyāya 2, Sūkta 15].*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> सद्मे॑व॒ प्राचो॒ वि मि॑माय॒ मानै॒र्वज्रे॑ण॒ खान्य॑तृणन्न॒दीनां॑ ।
+> वृथा॑सृजत्प॒थिभि॑र्दीर्घया॒थैः सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+**॥ पदपाठः ॥**
+
+> सद्मइव । प्राचः । वि । मिमाय । मानैः । वज्रेण । खानि । अतृणत् । नदीनां ।
+> वृथा । असृजत् । पथिभिः । दीर्घयाथैः । सोमस्य । ता । मदे । इंद्रः । चकार ॥
+> ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सद्मेव यथा यज्ञगृहान्मानैः षट्त्रिंशत्पक्रमप्राचीत्येवंरूपैः परिमाणै
+> प्राक्प्रवणान् कुर्वंति तद्वत् सिंधून् लोकान्वानृजून्वा मानैः परिमाणैः प्राचः
+> प्राज्मुखान्विमिमाय । इंद्रो विशेषेण निर्मितवान् । तथा नदीनां खानि निर्गमन-
+> द्वाराणि वज्रेण चातृणत् । अखनत् । तृदि हिंसानादरयोः । रुधादि । लज् ॥ तथा च
+> मंत्रः । इंद्रो अस्मा अरदद्वज्रबाहुः । ३-३३-६ । इति । तथा दीर्घयाथैर्बहु-
+> कालं गंतवैः पथिभिर्मार्गेर्वृथास्पृजत् । अनायासेन ता नदीः सृष्टवान् । सोम-
+> स्यॆति सिद्धार्थ इति ॥
+
+*Gist:* As men build a sacrificial house by measures, Indra measured out the eastern quarters (or the worlds); he dug the outlets of the rivers with the thunderbolt and sent them forth without effort along long courses.
+
+The grammatical remark of the commentary (the root *tṛd*, of the Rudhādi class, with the Vedic ending) is not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सद्म इव (*sadma iva*)—as a sacrificial house is measured and built with measuring instruments. मानैः (*mānaiḥ*)—with measures. प्राचः (*prācaḥ*)—the east-facing quarters. वि मिमाय (*vi mimāya*)—measured out and built in a special manner. नदीनां (*nadīnāṃ*)—for the rivers. खानि (*khāni*)—the outlets for flowing. वज्रेण (*vajreṇa*)—with the thunderbolt. अतृणत् (*atṛṇat*)—dug (and). दीर्घयाथैः (*dīrghayāthaiḥ*)—flowing for a long time. पथिभिः (*pathibhiḥ*)—by paths. वृथा (*vṛthā*)—without effort (without hindrance). असृजत् (*asṛjat*)—created so that they flow. सोमस्य (*somasya*)—by the drinking of Soma juice. मदे (*made*)—when joy arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—performed.
+
+**भावार्थ (Bhāvārtha)**
+
+As one measures and builds a sacrificial house with measuring instruments, Indra measured out and built the east-facing quarters in a special manner. He dug outlets for the rivers to flow in a special manner
+
+### Printed p. 759
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 15] Ṛgvedasaṃhitā; p. 759.*
+
+**Bhāvārtha (continued)**
+
+and by paths flowing for a long time he created them so that they flow without hindrance. When joy arose from drinking the Soma juice, Indra performed these great deeds.
+
+**Printed English translation**
+
+(He it is) who has measured thc [sic] eastern(quarters) with measures like a chamber; who has dug with the thunderbolt the beds of the rivers, and has easily sent them forth by long-continued paths: in the exhilaration of the Soma, Indra has done these(deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk three heroic deeds of Indra are described. सद्मेव प्राचो वि मिमाय मानैः (*sadmeva prāco vi mimāya mānaiḥ*)—Indra built the quarters beginning with the east according to the measures by which sacrificial houses must be built. Here सद्म (*sadma*) may mean a sacrificial house, or it may mean an ordinary dwelling-house. But for an ordinary house there is no rule that it must have just such a measure; only when a sacrificial house is built must it be built following the rules and regulations relating to it. Therefore, from the use of the word मानैः (*mānaiḥ*) ("by measures") in this sentence, the meaning "sacrificial house" for the word सद्म (*sadma*) is what is to be understood.
+
+वज्रेण खानि अतृणत् नदीनां (*vajreṇa khāni atṛṇat nadīnāṃ*)—Since the thunderbolt is Indra's chief instrument for any work he has to do, it is described here that Indra dug with the thunderbolt the channels in which the rivers flow, or the river-beds. In this matter, as an example of the same meaning, the passage इंद्रो अस्मै अरदद्वज्रबाहुरपाहन्वृत्रं परिधिं नदीनां । (*iṃdro asmai aradadvajrabāhurapāhanvṛtraṃ paridhiṃ nadīnāṃ |*) (Ma. Saṃ. 3-33-6 [as printed]) has been given.
+
+वृथा असृजत् पथिभिः दीर्घयाथैः (*vṛthā asṛjat pathibhiḥ dīrghayāthaiḥ*)—Indra created the river-beds mentioned above effortlessly, that is, without any kind of labour, as rivers flowing by paths of long duration or very great length. Here the word वृथा (*vṛthā*) means "effortlessly". When we have to do any work, much labour must be spent; but Indra created the beds of all the rivers, extending over many yojanas, without any labour, is the meaning intended. For the word दीर्घयाथैः (*dīrghayāthaiḥ*) the meaning "flowing for a very long time or for a very great distance"
+
 ---
 
-**Progress note:** Done through printed p. 756 (PDF 756). Sukta 15 Rk 1 and Rk 2 start (Samhita, Pada, bhashya, Pratipadartha)
+**Progress note:** Done through printed p. 759 (PDF 759). Sukta 15 Rk 2 Bhavartha and Rk 3 (partial Special Topics)
