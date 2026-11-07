@@ -4655,6 +4655,74 @@ In support of this meaning, there is the passage of the Vājasaneyi Saṃhitā o
 
 यः अश्मनोः अंतः अग्निं जजान (*yaḥ aśmanoḥ aṃtaḥ agniṃ jajāna*) — The word ashman is derived from the root अशू (*aśū*) "to pervade" (Svādi, Ātmanepada); for it the explanation is: because it pervades the atmosphere, ashman means the cloud. So अश्मनोः (*aśmanoḥ*) means "of the clouds" [dual in the text, "of two clouds"]. The word ashmā is also read among the cloud-names (the printed word reads "mena-names", a misprint for the cloud-names, as printed) (Ni. 2-21). Between two extremely soft clouds Indra produced the fire of lightning. It is very easy, and well known in the world, to produce fire by the friction of two very hard things such as stones. But to produce lightning between two clouds which are as soft as cotton is not possible for ordinary men or for the gods. The sage describes that it is possible only for the supremely glorious Indra, and so praises Indra's surpassing power. The use of the dual form here, अश्मनोः (*aśmanoḥ*), "between two clouds", is noteworthy; for, according to the opinion of modern scientists, electricity arises from the friction of two clouds charged with different kinds of electric current. (Even the modern scientists agree that clouds charged defferenty [sic] by positive and negetive [sic] electricity coming together cause lightning).
 
+### Printed p. 655
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 655.*
+
+संवृक् समत्सु (*saṃvṛk samatsu*) — in this sentence the word यः (*yaḥ*) and the verb भवति (*bhavati*) must be supplied. Done so: यः समत्सु संवृक् भवति (*yaḥ samatsu saṃvṛk bhavati*) — the Indra who injures, that is destroys, enemies in battles: Indra is he; such is the meaning of the sentence. संवृक् (*saṃvṛk*): वृणक्तेर्हिंसार्थस्य क्विपि रूपं (*vṛṇakterhiṃsārthasya kvipi rūpaṃ*) — the word संवृक् (*saṃvṛk*), formed from the root वृणक्ति (*vṛṇakti*) (which expresses injury) with the prefix सं (*saṃ*), means one who injures (enemies). And समत्सु (*samatsu*) — संभक्षयंति योद्धणामायूंषीति समदः संग्रामाः तेषु (*saṃbhakṣayaṃti yoddhaṇāmāyūṃṣīti samadaḥ saṃgrāmāḥ teṣu*) — because they devour (destroy) the lives of the warriors who fight, battles are called समदः (*samadaḥ*). The main purport of this sentence is that in such battles, where warriors die, Indra injures and destroys the enemies.
+
+**॥ संहितापाठः ॥**
+
+> येने॒मा विश्वा॒ च्यव॑ना कृ॒तानि॒ यो दासं॒ वर्ण॒मध॑रं॒ गुहाकः॑ ।
+> श्व॒घ्नीव॒ यो जि॑गी॒वां ल॒क्षमाद॑द॒र्यः पु॒ष्पानि॒ स ज॑नास॒ इंद्रः॑ ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> येन । इमा । विश्वा । च्यवना । कृतानि । यः । दासं । वर्णं । अधरं । गुहा ।
+> अकरित्यकः [?] ।
+> श्वघ्नीऽइव । यः । जिगीवान् । लक्षं । आदत् । आर्यः । पुष्वानि । सः । जनासः । इंद्रः ॥
+
+> *yena | imā | viśvā | cyavanā | kṛtāni | yaḥ | dāsaṃ | varṇaṃ | adharaṃ | guhā |*
+> *akarityakaḥ [?] |*
+> *śvaghnī 'iva | yaḥ | jigīvān | lakṣaṃ | ādat | āryaḥ | puṣvāni | saḥ | janāsaḥ | iṃdraḥ ‖*
+
+*Note: the word after गुहा in the Pada is garbled in the supplied text (अकरित्यकः (*akarityakaḥ*), left in doubt); the Pratipadārtha has अकः (*akaḥ*). The Saṃhitā and Pada print पुष्पानि (*puṣpāni*) / पुष्वानि (*puṣvāni*) while the bhāṣya and Pratipadārtha have पुष्टानि (*puṣṭāni*); kept as supplied.*
+
+**॥ सायणभाष्यम् ॥**
+
+> येनेंद्रेणेमेमानि विश्वा च्यवना नश्वराणि भुवनानि कृतानि । स्थिरीकृतानि ।
+> यश्च दासं वर्ण० शूद्रादिकं । यद्वा दासमुपक्षपयितारमधरं निकृष्टमसुरं
+> गुहा गुहायां गूढस्थाने नरके वाकः । अकार्षित् ॥ करोतेर्लुजु मंत्रे
+> घसेत्यादिना ज्लेलुकि रूपं ॥ लक्षं लक्ष्यं जिगीवान् ॥ जि जये । क्वसौ सन्‌लिटो-
+> र्जीरित्यभ्यासादुत्तरस्य कुत्वं । दीर्घश्चांदसः ॥ जितवान् योऽर्योऽरेः ॥ षष्ठ्ये-
+> कवचने छांदसो यणादेशः ॥ शत्रोः संबंधीनि पुष्टानि समृद्धान्यादत् आदत्ते!
+> तत्र दृष्टांतः । श्वघ्नव । श्वभिर्मृगान् हंतीति श्वघ्नी व्याधः । यथा व्याधो जिघृ-
+> क्षंस्तं मृगं परिगृह्णाति तद्वत् ॥
+
+*Gist:* "By Indra these perishable worlds were made firm; he put the base Dāsa tribe (or the asura) in a cave; he conquered the aimed-at enemy and took the enemy's rich possessions as a hunter seizes game." The grammatical tail (the form *akārṣīt*, root *ji*, the Vedic lengthening in *jigīvān*, the genitive in *aryaḥ*) is not explained here.
+
+### Printed p. 656
+
+*Running head: [656 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*) — O people. येन (*yena*) — by which Indra. च्यवना (*cyavanā*) — perishable. इमा विश्वा (*imā viśvā*) — all these worlds. कृतानि (*kṛtāni*) — were made (or were set firm). यः (*yaḥ*) — who. दासं (*dāsaṃ*) — the destructive. वर्ण० (*varṇa0*) — the Śūdra and other classes. अधरं (*adharaṃ*) — the base asura. गुहा (*guhā*) — in the cave which is hell. अकः (*akaḥ*) — made to dwell (and). लक्षं (*lakṣaṃ*) — the enemies aimed at. जिगीवान् (*jigīvān*) — conquered. यः (*yaḥ*) — who. अरः (*araḥ*) — of the enemy. पुष्टानि (*puṣṭāni*) — the abundant riches. श्वघ्नव (*śvaghnava*) — as a hunter takes possession of game. आदत् (*ādat*) — took into his own possession. सः (*saḥ*) — he. इंद्रः (*iṃdraḥ*) — Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, the Indra by whom all these perishable worlds were made as if firmly established; who made the destructive and base asura dwell in the cave that is hell; who conquered the enemy at whom he aimed; and who, as a hunter takes possession of game, made the abundant riches of the enemy his own: he is Indra.
+
+**Printed English translation**
+
+He, by whom all these perishable(regions) have been made; who consigned the base servile tribe to the cavern; who seizes triumphant the cherished(treasures) of the enemy, as a hunter(strikes) his prey; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk too there is a description of four kinds of heroic deeds of Indra.
+
+येन इमा विश्वा च्यवना कृतानि (*yena imā viśvā cyavanā kṛtāni*) — all these perishable worlds were made by Indra firm, that is, lasting. That is, because these worlds are perishable they did not exist before; Indra created them, or made them ever firm or lasting: such is the main purport.
+
+यः दासं वर्ण० अधरं गुहा अकः (*yaḥ dāsaṃ varṇa0 adharaṃ guhā akaḥ*) — यश्च दासं वर्ण० शूद्रादिकं यद्वा दासमुपक्षपयितारमधरं निकृष्टमसुरं गुहा गुहायां गूढस्थाने नरके वाकः अकार्षित् (*yaśca dāsaṃ varṇa0 śūdrādikaṃ yadvā dāsamupakṣapayitāramadharaṃ nikṛṣṭamasuraṃ guhā guhāyāṃ gūḍhasthāne narake vākaḥ akārṣit*). Indra made the people of the Śūdra and other classes, who serve like slaves the Brāhmaṇa and other classes, or the extremely low Dasyu people who cause harm to the Āryas, dwell in the cave, that is,
+
+### Printed p. 657
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 657.*
+
+in the hidden place, hell and the like: such is the explanation of the commentator. A doubt arises here. That the commentator has explained the words दासं वर्ण० (*dāsaṃ varṇa0*) as शूद्रादिकं (*śūdrādikaṃ*), people of the Śūdra and other classes, does not appear very reasonable. For the Śūdras too are included among the people of the four classes beginning with the Brāhmaṇa; that is, among the people of the fourfold order Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra, the Śūdras have a place (though the last). They too, subject to the rules of conduct of the fourfold order, can attain well-being. That being so, it does not seem just, either for the gods or for Indra, to put them in hell and other dreadful places merely because they are of the lowest class, even though no fault is found in them. Therefore, to say here that the words दासं वर्ण० (*dāsaṃ varṇa0*) mean शूद्रादिकं (*śūdrādikaṃ*) does not seem right. But if, as we have explained earlier the words dāsa and dasyu, we say that they mean the asuras who are not Āryas, who do not perform sacrifices and the like, who trouble the Āryas that praise the gods, or the dasyu people (wicked people), the original inhabitants of this land, the meaning can fit properly. And in this sentence the word गुहा (*guhā*) may be taken to mean inaccessible mountain caves rather than hell. Since war went on from time to time between the Āryas and the dasyu people, it is reasonable to say that Indra defeated in battle these dasyu people, enemies of the Āryas, slew many, and drove out the survivors, so that they fled in confusion and hid in the mountains and caves. Even now it is a matter known to all that the original inhabitants such as the Bhillas and Gonds live uncivilised in the hills and mountain regions like forest-folk. In many places there are plenty of descriptions that Indra destroyed the towns and forts of the asuras or dasyu people. In this connection Indra also has the apt name Purandara, destroyer of the towns of enemies. Considering all this, it is reasonable to take दासं वर्ण० (*dāsaṃ varṇa0*) to mean dasyu people or asuras, and गुहा (*guhā*) to mean inaccessible mountains.
+
+श्वघ्नव यः जिगीवान् लक्षं आदत् अर्यः पुष्टानि (*śvaghnava yaḥ jigīvān lakṣaṃ ādat aryaḥ puṣṭāni*) — for the word श्वघ्नव (*śvaghnava*) in this sentence Sāyaṇa gives the explanation श्वघ्नव श्वभिर्मृगान् हंतीति श्वघ्नी व्याधः (*śvaghnava śvabhirmṛgān haṃtīti śvaghnī vyādhaḥ*): श्वघ्नि (*śvaghni*) means a hunter who kills animals; as such a hunter kills the animal at which he aims, so Indra conquered enemies and took their abundant wealth and other goods: so he has explained the meaning. But Yāska gives for the word श्वघ्नि (*śvaghni*) the etymology श्वघ्नी कितवो भवति स्वं हंति स्वं पुनराश्रितं भवति (*śvaghnī kitavo bhavati svaṃ haṃti svaṃ punarāśritaṃ bhavati*) (Ni. 5-22); that is, the word श्वघ्नि (*śvaghni*) means a gambler (kitava) [the printed word reads श्वघ्निशब्दक्क (*śvaghniśabdakka*), a slip for श्वघ्निशब्दक्कॆ (*śvaghniśabdakkè*); as printed]. The word kitava has the meanings cheat, deceiver, liar, gambler and so on. In the present sentence any of the meanings given above may be used. That is, as a gambler defeats his opponent
+
 ---
 
-**Progress note:** Done through printed p. 654 (PDF 654). Sukta 12 Rik 3 bhashya, Pratipadartha, Bhavartha, Special Topics begun (ahi, saptasindhun, vala, ashman)
+**Progress note:** Done through printed p. 657 (PDF 657). Sukta 12 Rik 3 Special Topics end, Rik 4 complete to Special Topics begun (dasam varnam, svaghni)
