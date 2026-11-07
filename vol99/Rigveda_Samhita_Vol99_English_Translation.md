@@ -3118,6 +3118,115 @@ That is, the voice of the deities of the middle region is the middle-region voic
 > *tamāśayānaṃ tamadhiṣṭhāya śayānaṃ māyāvinaṃ vṛtramasuraṃ | yadvā siṃdhurudakaṃ |*
 > *tadadhiṣṭhāya śayānaṃ vṛtraṃ | vṛṇotyākāśamiti vṛtro meghaḥ | taṃ nirasphurat |*
 
+### Printed p. 601
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 4; Ṛgvedasaṃhitā, p. 601.*
+
+**Sāyaṇa-bhāṣya** (continued from the previous page)
+
+> निरहन् । वृष्णो वर्षकस्यास्येंद्रस्य कनिक्रदतः शब्दं कुर्वाणाद्वज्राद्भियाने भयं
+> प्राप्ते रोदसी द्यावापृथिव्यावरेजेतां । आकंपेतां ॥ दाधर्तिदर्धर्तित्यादिना
+> कनिक्रदत्यब्दो निपातितः ॥
+
+*Gist: the bhāṣya closes the explanation of the second half: the sky and earth trembled in fear at the sound of the roaring bolt; the word kanikradat is a form derived by the rule on reduplicated roots.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra—Indra. Mahāṃ—mighty. Siṃdhuṃ—the cloud, or the water. Āśayānaṃ—who lay resting (in it). Māyāvinaṃ—the deceitful one. Vṛtraṃ—the Asura (Vṛtra). Niḥ asphurat—destroyed completely. Vṛṣṇaḥ—of the showerer. Asya—of this Indra. Kanikradataḥ—making sound. Vajrāt—from the thunderbolt. Bhiyāne—when fear had come upon them. Rodasī—both heaven and earth. Ārejetāṃ—trembled.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra completely destroyed the deceitful Asura, who lay resting in the mighty cloud. When fear came upon heaven and earth at the sound of the thunderbolt of this showering Indra, both of them trembled.
+
+**Printed English translation**
+
+The mighty Indra has shattered the guileful Vritra, reposing in the cloud: heaven and earth shock, alarmed at the thundering bolt of the showerer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सिंधुं (*siṃdhuṃ*) (Siṃdhuṃ)—स्यंदत इतस्ततः संचरतीति सिंधुर्मेघः (*syaṃdata itastataḥ saṃcaratīti siṃdhurmeghaḥ*). Because it has the nature of moving to and fro in the sky under the blows of the wind, sindhu means the cloud. Here the word sindhu means a mass of water; since it moves in the sky, or since a mass of water moving in the sky is the cloud, it means the cloud.
+
+वृत्रं (*vṛtraṃ*) (Vṛtraṃ)—The word vṛtra is read among the names of the cloud (Ni. 2-21). वृणोत्याकाशमिति वृत्रो मेघः (*vṛṇotyākāśamiti vṛtro meghaḥ*). Because it has the nature of covering the whole sky, vṛtra (of the mass of water in the sky) means the cloud.
+
+मायाविनं (*māyāvinaṃ*) (Māyāvinaṃ)—It is well known that the Asuras are possessed of māyā. Māyāvins are those who wage war and the like by stratagem or deceit, the deceivers. In many places the Ṛgveda describes how Indra destroyed such enemies by stratagem, device and deceit alone.
+
+### Printed p. 602
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 1, Sūkta 11, p. 602.*
+
+मायाभिरिंद्र मायिनं त्वं शुष्णमवातिरः (*māyābhiriṃdra māyinaṃ tvaṃ śuṣṇamavātiraḥ*) (Ṛ. Saṃ. 1-11-7)
+
+वृजनेन वृजिनान्तं पिपेष मायाभिर्दस्यूरभिभूत्योजाः (*vṛjanena vṛjināntaṃ pipeṣa māyābhirdasyūrabhibhūtyojāḥ*) (Ṛ. Saṃ. 3-24-6)
+
+त्वं मायाभिरनवद्य मायिनं श्रवस्यता मनसा वृत्रमर्दयः (*tvaṃ māyābhiranavadya māyinaṃ śravasyatā manasā vṛtramardayaḥ*) (Ṛ. Saṃ. 10-147-2)
+
+In such passages there are descriptions that Indra destroyed the Asuras, who are possessed of māyā, by māyā itself.
+
+In the first half of this Ṛk it is said that Indra destroyed Vṛtra, who lay in the cloud hindering the pouring of rain. In the second half it is said that when Indra brandished the thunderbolt to slay Vṛtra, heaven and earth (earth and sky) quaked and trembled with fear at its sound (the crash). In one place, in the Ṛk
+
+अरेजेतां रोदसी होतृवूर्येऽसघ्नोर्भारमयजो महो वसो (*arejetāṃ rodasī hotṛvūrye 'saghnorbhāramayajo maho vaso*) (Ṛ. Saṃ. 1-31-3)
+
+it is stated that heaven and earth trembled with fear on seeing the greatness of Agni.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> अरो॑रवी॒द्वृष्णो॑ अस्य॒ वज्रोऽमा॑नुषं॒ यन्मानु॑षो नि॒जूर्वा॑त् ।
+> नि मा॒यिनो॑ दान॒वस्य॑ मा॒या अपा॑दयत्पपि॒वान्त्सु॒तस्य॑ ॥१०॥
+
+**॥ पदपाठः ॥**
+
+> अरोरवीत् । वृष्णः । अस्य । वज्रः । अमानुषं । यत् । मानुषः । निजूर्वात् ।
+> नि । मायिनः । दानवस्य । मायाः । अपादयत् । पपिवान् । सुतस्य ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वृष्णः कामानां वर्षकस्यास्येंद्रस्य वज्रोऽरोरवीत् । भृशं शब्दमकरोत् ।
+> कदेत्यपेक्षायामाह । यद्यदा अमानुषं मनुष्याणां रहितं। यद्वा मानुषोऽ-
+
+*(the bhāṣya runs on to the next page)*
+
+### Printed p. 603
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 4; Ṛgvedasaṃhitā, p. 603.*
+
+> हं न भवामीत्येवं मन्यमानं तमसुरं मानुषो मनुष्याणां हितकारी यद्वा
+> मतिमानिंद्रो निजूर्वात् । नितरां हिंस्यात् । जिघांसतीत्यर्थः ॥ जूर्वतेर्हिंसा-
+> कर्मणो लेटि रूपं ॥ सुतस्याभिषुतं सोमं पपिवान् पीतवान् मायिनो
+> मायाविनो दानवस्य । दानुर्नाम वृत्रमाता दानुः शय इत्यादिषु दृष्टत्वात् ।
+> तस्याः पुत्रस्य वृत्रस्य माया वचनानि न्यपादयत् । न्यपातयत् । बबाधॆति यावत् ॥
+
+> *haṃ na bhavāmītyevaṃ manyamānaṃ tamasuraṃ mānuṣo manuṣyāṇāṃ hitakārī yadvā*
+> *matimāniṃdro nijūrvāt | nitarāṃ hiṃsyāt | jighāṃsatītyarthaḥ ‖ jūrvaterhiṃsā-*
+> *karmaṇo leṭi rūpaṃ ‖ sutasyābhiṣutaṃ somaṃ papivān pītavān māyino*
+> *māyāvino dānavasya | dānurnāma vṛtramātā dānuḥ śaya ityādiṣu dṛṣṭatvāt |*
+> *tasyāḥ putrasya vṛtrasya māyā vacanāni nyapādayat | nyapātayat | babādhèti yāvat ‖*
+
+*Gist: मानुषः (*mānuṣaḥ*) is Indra, friend of men; the Asura is thought "I shall not be"; निजूर्वात् (*nijūrvāt*) means "would strike down, wishes to slay"; Dānava is the son of Dānu, mother of Vṛtra.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yat—when. Amānuṣaṃ—the cruel Asura. Mānuṣaḥ [sic, "ಮಾನಷಃ" as supplied]—Indra, the benefactor of men. Nijūrvāt—killed (then). Vṛṣṭaḥ [sic, "ವೃಷ್ಟಃ" as supplied; the Pada has vṛṣṇaḥ]—the showerer of desired objects. Asya—of Indra. Vajraḥ—the thunderbolt. Aroravīt—made a loud sound. Sutasya—the pressed Soma. Papivān—Indra who drank. Māyinaḥ—of the deceitful. Dānavasya—of the son of the Asura (of Vṛtra). Māyāḥ—the deceitful deeds. Nyapādayat—destroyed.
+
+**भावार्थ (Bhāvārtha)**
+
+When Indra, the benefactor of men, slew the cruel Asuras, the thunderbolt of Indra, the showerer of desired objects, made a loud sound. Indra, who drank the pressed Soma juice, destroyed the deceitful deeds of the deceitful Vṛtra.
+
+**Printed English translation**
+
+The thunderbolt of the showerer roared aloud, when(Indra), the friend of man, sought to slay the enemy of mankind. Drinking the Soma juice, he,(Indra), baffled the devices of the guileful Danava.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+दानवस्य (*dānavasya*) (Dānavasya)—Dānu means the daughter of Danu; the offspring belonging to the demon race born to the sage Kaśyapa from his wife named Danu are called Dānavas. That Vṛtra's mother belonged to that Dānava race is stated in the Ṛk
+
+उत्तरा सूरधरः पुत्र आसीद्दानुः शये सहवत्सा न धेनुः (*uttarā sūradharaḥ putra āsīddānuḥ śaye sahavatsā na dhenuḥ*) (Ma. Saṃ. 1-32-9, as supplied)
+
+and Vṛtra, the son of Dānu (Danu), is here called by the name Dānava.
+
+Vṛtra's mother is named Dānu, and she is compared to a cow (Ṛ. Saṃ. 1-32-9). This same word (dānu) in the neuter gender means a stream, and in the feminine heavenly water (the passage runs on to the next page)
+
 ---
 
-**Progress note:** Done through printed p. 600 (PDF 600). Maṇḍala 2 Sūkta 11 Ṛk 8 and Ṛk 9 (to bhāṣya); kn.md labels and Saṃhitā blocks repaired
+**Progress note:** Done through printed p. 603 (PDF 603). Maṇḍala 2 Sūkta 11 Ṛk 9 bhāṣya ends; Ṛk 10 begins (Saṃhitā and Pada from the picture); window ends inside the Special Topics of Ṛk 10.
