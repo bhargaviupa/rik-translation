@@ -2589,6 +2589,105 @@ The nature of the ukta and its greatness, its relation to śastra and sāman and
 
 ते वा असुरा मैत्रावरुणस्योक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमा-नितोऽसुरान्नोत्स्यावहा इत्यहं चेत्यब्रवीद्वरुणस्तस्माद्यैंद्रावरुणं (*te vā asurā maitrāvaruṇasyoktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemā-nito 'surānnotsyāvahā ityahaṃ cetyabravīdvaruṇastasmādyaiṃdrāvaruṇaṃ*)
 
+### Printed p. 583
+
+मैत्रावरुणस्तृतीयसवने शंसतींद्रश्च हि तान्वरुणश्च ततो नुदेतां ॥ (*maitrāvaruṇastṛtīyasavane śaṃsatīṃdraśca hi tānvaruṇaśca tato nudetāṃ ‖*)
+
+The asuras entered the ukta of the Maitrāvaruṇa. Then Indra asked, "Which of you will help me to drive these asuras out of this ukta?", and Varuṇa said that he would help. At that time the Maitrāvaruṇa, the assistant of the hotṛ, at the third pressing recited the sūkta beginning with the Ṛk
+
+इंद्रावरुणा युवमध्वराय नो विशे जनाय महि शर्म यच्छतं । (*iṃdrāvaruṇā yuvamadhvarāya no viśe janāya mahi śarma yacchataṃ |*)
+
+(Ṛ. Saṃ. 7-82-1; printed "Ma. Saṃ.")
+
+and praised Indra and Varuṇa. Then Indra and Varuṇa drove those asuras away with the Mitrāvaruṇa śastra.
+
+ते वै ततोऽपहता असुरा ब्राह्मणाच्छंसिन उक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्स्यावहा इत्यहं चेत्यब्रवीद्बृहस्पतिस्तस्मादैंद्राबार्हस्पत्यं ब्राह्मणाच्छंसी तृतीयसवने शंसतींद्रश्च हि तान्बृहस्पतिश्च हि ततो नुदेतां ॥ (*te vai tato 'pahatā asurā brāhmaṇācchaṃsina uktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsyāvahā ityahaṃ cetyabravīdbṛhaspatistasmādaiṃdrābārhaspatyaṃ brāhmaṇācchaṃsī tṛtīyasavane śaṃsatīṃdraśca hi tānbṛhaspatiśca hi tato nudetāṃ ‖*)
+
+The asuras driven out from there entered the ukta of the Brāhmaṇācchaṃsin. Then Indra rose and asked who would help him drive these asuras out from here; Bṛhaspati rose and said that he would help. Then the Brāhmaṇācchaṃsin at the third pressing recited the sūkta beginning with the Ṛk
+
+उदुपुतो न वयो रक्षमाणा वावदतो अभियस्येव घोषाः । (*uduputo na vayo rakṣamāṇā vāvadato abhiyasyeva ghoṣāḥ |*)
+
+(Ṛ. Saṃ. 10-68-1; printed "Ma. Saṃ")
+
+and praised Indra and Bṛhaspati. Then Indra and Bṛhaspati together drove the asuras away from there.
+
+ते वै ततोऽपहता असुरा अच्छावाकस्योक्तमश्रयंत सोऽब्रवीदींद्रः कश्चाहं चेमानितोऽसुरान्नोत्सावहा इत्यहं चेत्यब्रवीद्विष्णुस्तस्मादैंद्रावैष्णवमुच्छावाकस्तृतीयसवने शंसतींद्रश्च हि तान्विष्णुश्च ततो नुदेतां ॥ (*te vai tato 'pahatā asurā acchāvākasyoktamaśrayaṃta so 'bravīdīṃdraḥ kaścāhaṃ cemānito 'surānnotsāvahā ityahaṃ cetyabravīdviṣṇustasmādaiṃdrāvaiṣṇavamucchāvākastṛtīyasavane śaṃsatīṃdraśca hi tānviṣṇuśca tato nudetāṃ ‖*)
+
+(Ai. Brā. 15-6)
+
+The asuras driven out by the ukta of the Brāhmaṇācchaṃsin joined the ukta of the Acchāvāka. Then Indra rose and asked which of them would help him drive these out from here. Then Viṣṇu said that he would help. At that time the Acchāvāka recited
+
+### Printed p. 584
+
+सं वां कर्मणा समिषा हिनोमींद्राविष्णू अपसस्पारे अस्य । (*saṃ vāṃ karmaṇā samiṣā hinomīṃdrāviṣṇū apasaspāre asya |*)
+
+(Ṛ. Saṃ. 6-69-1)
+
+the sūkta beginning with this Ṛk, and praised Indra and Viṣṇu. Then they drove the asuras away from there too. This story is recited in the Aitareya Brāhmaṇa (15-6). From this the power of the ukta and the greatness of Indra become known. For this very reason it is said in the Śatapatha Brāhmaṇa also:
+
+इंद्रो वै यज्ञस्य देवता तस्मादाहेंद्राय त्वेति बृहद्वते वयस्वत इति वीर्यवत इत्येवैतदाह यदाह बृहद्वते वयस्वत इत्युक्थाख्यं गृह्णामीत्युक्थेभ्यो ह्येनं गृह्णाति । (*iṃdro vai yajñasya devatā tasmādāheṃdrāya tveti bṛhadvate vayasvata iti vīryavata ityevaitadāha yadāha bṛhadvate vayasvata ityukthākhyaṃ gṛhṇāmītyukthebhyo hyenaṃ gṛhṇāti |*)
+
+(Śa. Brā. 4-2-3-10)
+
+Indra is the deity of the whole sacrifice. Therefore it says, "To Indra, who is endowed with the great ukta and with vigour (vayas)", that is, "to the heroic one"; by saying "endowed with the great ukta and with vigour" it praises the ukta, the cause of Indra's heroism and satisfaction, and through it Indra.
+
+Just as the power of the ukta is described at the time of sacrifices and other rites, so too when spiritual knowledge is taught, the greatness of this ukta, which consists of praise, is extolled. In the Bṛhadāraṇyaka Upaniṣad:
+
+उक्कं प्राणो वा उक्कं प्राणो हीदं सर्वमुत्थापयत्युद्धास्मादुक्थविद्वीरस्तिष्ठत्युक्थस्य सायुज्यं सलोकतां जयति य एवं वेद । (*ukkaṃ prāṇo vā ukkaṃ prāṇo hīdaṃ sarvamutthāpayatyuddhāsmādukthavidvīrastiṣṭhatyukthasya sāyujyaṃ salokatāṃ jayati ya evaṃ veda |*)
+
+(Bṛ. U. 5-13-1)
+
+उक्तं तथोपासनांतरं । उक्तं शस्त्रं । तद्धि प्रधानं महाव्रते क्रत् । (*uktaṃ tathopāsanāṃtaraṃ | uktaṃ śastraṃ | taddhi pradhānaṃ mahāvrate krat |*)
+
+(Śāṅkara-bhāṣya)
+
+In the sacrifice called Mahāvrata the ukta, the principal śastra, is the vital breath (prāṇa). From it the rising up takes place. From it a son who knows the ukta is born, and he obtains likeness to it and equal honour. Thus the importance of the ukta is stated.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> उ॒क्केष्टिन्नु शू॑र॒ येषु॑ चा॒कन्सोमे॑ष्टिंद्र रु॒द्रिये॑षु च ।
+> तुभ्येदे॒ता यासु॑ मंदसा॒नः प्र वा॒यवे॑ सिस्रते॒ न शु॒भ्राः
+
+> *ukkeṣṭinnu śūra yeṣu cākansomeṣṭiṃdra rudriyeṣu ca |*
+> *tubhyedetā yāsu maṃdasānaḥ pra vāyave sisrate na śubhrāḥ*
+
+### Printed p. 585
+
+**॥ पदपाठः ॥**
+
+> उक्केषु । इत् । नु । शूर । येषु । चाकन् । स्तोमेषु । इंद्र । रुद्रियेषु । च ।
+> तुभ्य । इत् । एताः । यासु । मंदसानः । प्र । वायवे । सिस्रते । न । शुभ्राः । ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे शूरेंद्र येषूक्षेषु होत्रादिभिः क्रियमाणेषु शस्त्रेषु रुद्रियेषु ।
+> रुद्रियं सुखं । तत्साधनभूतेषु । यद्वा रुद्राः स्तोतारः । तत्कृतेषु उद्गात्कृणां स्तोमेषु च नु क्षिप्रं चाकन् । स्तुतिः कामयसे ॥ कमतेः कनतेर्वा
+> यज्ञकि रूपं ॥ यासु स्तोत्रशस्त्ररूपासु स्तुतिषु मंदसानो हृष्यन् भवसि ता
+> एताः शुभ्रा दीप्यमानाः स्तुतयो वायवेऽस्मदीयं यज्ञं प्रत्यागच्छते तुभ्येत्
+> तुभ्यमेव प्रसिस्रते । त्वदर्थमेव प्रसरंति । न संप्रत्यर्थे । ता अधुना सेवस्व ॥
+
+> *he śūreṃdra yeṣūkṣeṣu hotrādibhiḥ kriyamāṇeṣu śastreṣu rudriyeṣu |*
+> *rudriyaṃ sukhaṃ | tatsādhanabhūteṣu | yadvā rudrāḥ stotāraḥ | tatkṛteṣu udgātkṛṇāṃ stomeṣu ca nu kṣipraṃ cākan | stutiḥ kāmayase ‖ kamateḥ kanatervā*
+> *yajñaki rūpaṃ ‖ yāsu stotraśastrarūpāsu stutiṣu maṃdasāno hṛṣyan bhavasi tā*
+> *etāḥ śubhrā dīpyamānāḥ stutayo vāyave 'smadīyaṃ yajñaṃ pratyāgacchate tubhyet*
+> *tubhyameva prasisrate | tvadarthameva prasaraṃti | na saṃpratyarthe | tā adhunā sevasva ‖*
+
+Gist: O hero Indra, in the hymns and stomas in which you take delight, these shining praises go forth to you alone, not for any other present purpose; accept them now.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śūra: valiant. Indra: O Indra. Yeṣu: in which. Ukṣeṣu: in the praises in the form of ukta (and). Rudriyeṣu: bringing happiness, or recited by the udgātṛs. Stomeṣu: in the praises in the form of stoma. Ca nu: as soon as they are recited. Cākan: you show affection (and). Yāsu: in which mantras in the form of hymns. Mandasānaḥ: you obtain joy. Etāḥ: such. Śubhrāḥ: shining praises. Vāyave: to you who are coming to the sacrifice. Tubhyat: for you alone. Na: now. Pra sisrate: spreading forth, they approach you.
+
+**भावार्थ (Bhāvārtha)**
+
+O valiant Indra, in the praises in the form of ukta, and in the happiness-bringing stomas, as soon as they are recited you show affection; and by the mantras in the form of hymns you obtain joy; such shining praises, being recited now for you who are coming to the sacrifice, approach you. Accept them.
+
+**Printed English**
+
+Indra, hero, these brilliant(laudations), in(the form of) hymns, in which you delight, and in(that of) the praises uttered by the worshippers by which you are gratified, are addressed to you, to bring you,(to our sacrifice).
+
 ---
 
-**Progress note:** Done through printed p. 582 (PDF 582). Rik 2 printed English and Special Topics (Dasa/Dasyu, ukta); breaks off in Aitareya Brahmana quotation
+**Progress note:** Done through printed p. 585 (PDF 585). Rik 3 (Maṇḍala 2 Sūkta 11): Aitareya/Śatapatha/Bṛhadāraṇyaka ukta quotations, Rik 3 Saṃhitā-bhāṣya-Pratipadārtha-Bhāvārtha, printed English
