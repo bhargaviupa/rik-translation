@@ -7304,6 +7304,91 @@ Priests, fill with libations, as a granary(is filled) with barley, Indra, who is
 
 The word ऊर्दर (*ūrdara*) is stated, as ऊर्दरं कृदरं (*ūrdaraṃ kṛdaraṃ*), among the twenty-six "dviśa" names (Ni. 3-20); "dviśa names" are two words with one and the same meaning, that is, the two words ऊर्दरं कृदरं (*ūrdaraṃ kṛdaraṃ*) are synonyms. The word कृदर (*kṛdara*) is read among the names of houses (Ni. 3-13). The two words ऊर्दर (*ūrdara*) and कृदर (*kṛdara*) are names of an आवपन (*āvapana*) (a house for storing grain); or else, because it is filled up to the top, or because it is stored for food, a granary is called ऊर्दर (*ūrdara*). Having explained thus, he gave the present Ṛk itself as the example. This word ऊर्दर (*ūrdara*) is read in the Ṛgveda [printed ऋग्वदल्लि (*ṛgvadalli*), sic] only in this Ṛk; it is not used anywhere else.
 
+### Printed p. 751
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 14; Ṛgveda-saṃhitā; p. 751.*
+
+(Continuing the Special Topics of Ṛk 11.) This word occurs once in the Rigved a (Ṛ. Saṃ. 2-14-11) [as supplied] when reference is made to filling Indra with Soma as one fills an ऊर्दद (*ūrdada*) [as supplied; evidently a misreading of ऊर्दर] with grain (यव (*yava*)). Sayana renders it "granary" but Roth and Zimmer Seem [sic] more correct in simply making it a measure for holding grain or garner, (Vedic Index of names and subjects. p. 106) — this is the opinion of some English scholars. But since Sāyaṇa's explanation follows the opinion of Yāska, that alone is acceptable.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मभ्यं॒ तद्व॑सो दा॒नाय॒ राधः॒ सम॑र्थयस्व ब॒हु ते॑ वस॒व्यं॑ ।
+> इंद्र॒ यच्चि॒त्रं श्र॑व॒स्या अनु॒ द्यून्ब्र॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्मभ्यं । तत् । वसो इति । दानाय । राधः । सं । अर्थयस्व । बहु । ते । वसव्यं ।
+> इंद्र । यत् । चित्रं । श्रवस्याः । अनु । द्यून् । बृहत् । वदेम । विदथे । सुवीराः
+
+**॥ सायणभाष्यम् ॥**
+
+> वसो सर्वस्य वासक वसुमन्ता हे इंद्र स्तोतृभ्योऽस्मभ्यं तद्राधो धनं
+> दानाय । उपलक्षणमेतत् । भोगाय च समर्थयस्य । देहि । अस्मान् संगम-
+> येत्यर्थः ॥ अर्थ याचने चुरादिरदंत आत्मनेपदी ॥ ते तव तद्बहु प्रभूतं
+> वसव्यं ॥ वस्वेव वसव्यं । वस्वादित्वात् स्वार्थिको यत् ॥ तादृशं प्रभूतं धनमस्ति
+> खलु । चित्रं चायनीयं यद्धनमनु द्यून् अन्वहं ॥ कालाध्वनोरिति द्वितीया ॥
+> श्रवस्याः । भोग्यमिच्छेः ॥ अंतर्णीतण्यर्थत्पादकर्मकत्वं । यथा रोदितीति । स
+> त्वन्यः । द्वे ह्यत्र कर्मणी उद्देश्यकर्म च विधेयकर्मांतर्भूतं । उद्देश्य-
+> कर्मणा सकर्मको भविष्यति । यथा माणवकं पुत्रीयतीति भाष्य उदाहृतं । पा.
+> ३-१-८-२ । श्रवःशब्दाच्छंदसि परेच्छायां क्यच् । तदंतस्य लेट्यडागमे रूपं ॥
+> सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञॆ बृहत् प्रभूतं शस्त्रादिकं
+> वाक्यं वदेम ॥
+
+*Gist:* O Indra, lord of wealth, give us that abundant wealth for giving and for enjoyment; we, blessed with fine sons, will recite great śastra-hymns at this sacrifice.
+
+### Printed p. 752
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 752.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसो (वसो (*vaso*))—O wealthy one. इंद्र (इंद्र (*iṃdra*))—O Indra. चित्रं (चित्रं (*citraṃ*))—which is of many kinds and also delightful. यत् (यत् (*yat*))—which wealth. अनु द्यून् (अनु द्यून् (*anu dyūn*))—every day. श्रवस्याः (श्रवस्याः (*śravasyāḥ*))—whether we wish to enjoy it, or you wish us to enjoy it. ते (ते (*te*))—belonging to you, बहु (बहु (*bahu*))—abundant, वसव्यं (वसव्यं (*vasavyaṃ*))—rich in possessions: तत् राधः (तत् राधः (*tat rādhaḥ*))—that wealth. अस्मभ्यं (अस्मभ्यं (*asmabhyaṃ*))—to us. दानाय (दानाय (*dānāya*))—both for giving and for enjoyment. समर्थयस्व (समर्थयस्व (*samarthayasva*))—give completely. सुवीराः (सुवीराः (*suvīrāḥ*))—we, accompanied by excellent sons. विदथे (विदथे (*vidathe*))—at this sacrifice. बृहत् (बृहत् (*bṛhat*))—abundant śastra and other mantras. वदेम (वदेम (*vadema*))—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O wealthy Indra, give us completely that wealth which we wish to enjoy every day, which is abundant and rich in possessions with you, for giving and for enjoyment alike. We, accompanied by excellent sons, shall recite abundant śastra and other mantras at this sacrifice.
+
+**Printed English translation**
+
+Possessor of riches, exert your ability to bestow wealth upon us; for yours is great affluence: may you, Indra, be disposed to grant us exceeding abundance day by day, so that, blessed with worthy descendants, we may glorify you at(our) sacrificibe [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Having so far described in many ways the heroic deeds of Indra, the seer now, in this Ṛk, the last of the sūkta, praises Indra by way of conclusion and prays that he give wealth and the like.
+
+वसो—सर्वस्य वासक वसुमन्वा हे इंद्र । (*vaso—sarvasya vāsaka vasumanvā he iṃdra |*) Two kinds of meaning are given for this word: "O Indra, who provides a dwelling-place for all", or "O Indra, who possesses wealth".
+
+अस्मभ्यं दानाय राधः समर्थयस्व (*asmabhyaṃ dānāya rādhaḥ samarthayasva*)—The intention is: give us wealth both for giving to others and for our own enjoyment.
+
+बहु ते वसव्यं (*bahu te vasavyaṃ*)—By this sentence the sense is suggested that Indra has abundant wealth and the like, and therefore is able to give wealth and the like to those who praise him.
+
+### Printed p. 753
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 15; Ṛgveda-saṃhitā; p. 753.*
+
+इंद्र यत् चित्रं श्रवस्याः अनु द्यून् (*iṃdra yat citraṃ śravasyāḥ anu dyūn*)—O Indra, Indra is prayed to give us, who desire wealth, wealth and other things of many kinds every day.
+
+बृहत् वदेम विदथे सुवीराः (*bṛhat vadema vidathe suvīrāḥ*)—the commentary says: सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं शस्त्रादिकं वाक्यं वदेम (*suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema*). That is: accompanied by excellent sons and grandsons and by valiant attendants, we shall recite the śastra and other mantras abundantly at this sacrifice, for your pleasure, Indra; as was said in the preceding sūktas, the seer expresses this wish at the end of this sūkta too.
+
+*The fifteenth sūkta.*
+
+**Introduction to the sūkta (Sanskrit, transcribed)**
+
+> प्र घा नव्येति दशर्चं चतुर्थं सूक्तं गार्त्समदं त्रैष्टुभमैंद्रं । अत्रा-
+> नुक्रमणिका प्र घ दशेति ॥ दशरात्रे षष्ठेऽहनि निष्केवल्ये त्रीणि सूक्तानि । तत्रेदं
+> द्वितीयं । षष्ठस्येति खंडे सूत्रितं । एंद्र याहुप नः प्र घा नव्याभूरेक इति
+> निष्केवल्यं । आ. ९-१ । इति ॥ त्रैकमामके निष्केवल्ये प्र घा नव्येत्येषा सूक्तमु-
+> खीया । उशनःस्तोमे सूत्रितं । त्र्यर्यमा मनुषो देवताता प्र घा नव्य
+> महतो महानि । आ. ९.५ । इति ॥
+
+*Gist:* The fifteenth sūkta, *pra ghā navya*, has ten ṛks; the fourth sūkta of the second anuvāka; seer Gṛtsamada, deity Indra, metre Triṣṭubh; used in the Daśarātra, sixth day, in the Niṣkevalya śastra, and in the Traikamāmaka (Āśvalāyana Śrauta-sūtra, Ā. 9-1; Ā. 9.5).
+
+**Anuvāda (Kannada)**
+
+Translation—This sūkta beginning प्र घा नस्वस्य (*pra ghā nasvasya*) [as supplied; the Sanskrit above reads प्र घा नव्य (*pra ghā navya*)] is the fourth sūkta in the second anuvāka. It has ten ṛks. Gṛtsamada is the seer of this sūkta, Indra the deity, Triṣṭubh the metre. The Anukramaṇikā says प्र घ दश (*pra gha daśa*) and so on. In the sacrifice called Daśarātra, on the sixth day, when the Niṣkevalya śastra mantras are recited, three sūktas are recited; of them this sūkta is the second. This matter is set out in the Āśvalāyana Śrauta-sūtra, in the section षष्ठस्य (*ṣaṣṭhasya*), by the sūtra एंद्र याह्युप नः प्र घा नस्व्याभूरेक इति निष्केवल्यं (*eṃdra yāhyupa naḥ pra ghā nasvyābhūreka iti niṣkevalyaṃ*) (Ā. 8-1) [as supplied; the Sanskrit above has Ā. 9-1]. Also in the Niṣkevalya śastra mantras recited in the sacrifice called Traikamāmaka, one Ṛk, the first Ṛk of this sūkta, प्र घा नस्वस्य (*pra ghā nasvasya*), is to be recited, as set out in the Āśvalāyana Śrauta-sūtra by the sūtra त्र्यर्यमा मनुषो देवता प्र घा नस्वस्य महतो महानि (*tryaryamā manuṣo devatā pra ghā nasvasya mahato mahāni*) (Ā. 9-5).
+
 ---
 
-**Progress note:** Done through printed p. 750 (PDF 750). Rk 10 end, Rk 11, Special Topics on urdara
+**Progress note:** Done through printed p. 753 (PDF 753). Sukta 14 Rk 12 end, Sukta 15 intro (pp. 751-753)

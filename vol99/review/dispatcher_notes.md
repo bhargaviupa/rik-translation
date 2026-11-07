@@ -12,3 +12,4 @@
 - w0682 Suk.13 Rk 1 Samhita: 'अभवत्प्॒युषी' stray accent on virama (supplied text drops ಪಿ vs Pada ಪಿಪ್ಯುಷೀ); left as supplied.
 - w0700 Suk.13 Rk 7 Samhita line (volume file line ~5900): 'व्य१॒॑गवनी॒रधा॑रयः' two marks after pluta digit; printed spelling differs from reference; left.
 - w0715: '2-3-6:9-68-8' colon-joined reference written in words + explanation (like w0607, w0634). Fig fig_line3466 Rk 13 read; 'ವದೇಮ' glyph settled by agent without [?].
+- w0748 agent converted Telugu digits in a Nirukta ref to Kannada digits in kn.md (letter for letter).
