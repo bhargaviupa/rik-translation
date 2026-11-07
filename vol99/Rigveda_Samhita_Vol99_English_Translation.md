@@ -4431,6 +4431,64 @@ O people, he who, immediately on being born, became the chief of the gods, firm 
 
 He who as soon as born, is the first(of the deities); who has done honour to the gods by his exploits; he, at whose might heaven and earth are alarmed, and(who is known) by the greatness of his strength, he, men, is Indra.
 
+### Printed p. 646
+
+*Running head: [646 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2 Sū. 12.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In every Ṛk of this sūkta one or two qualities or heroic deeds of Indra are described, with the idea that the one who did such a great and daring deed is Indra; others than Indra are unable to do such a deed; only Indra has the wonderful strength and capacity to do such work. Therefore at the end of each Ṛk of this sūkta there is, like a refrain, a description of his qualities: स जनास इंद्रः (*sa janāsa iṃdraḥ*) — "O people, (the one who did this wonderful deed) he is Indra." In Ṛ. Saṃ. 1-112 also, the sūkta of 25 Ṛks beginning ईळे द्यावापृथिवी (*īḷe dyāvāpṛthivī*), the sage Kutsa Aṅgirasa, describing in each Ṛk the heroic deeds of the Aśvin deities, prays to the Aśvins with याभिर्भरे कारमंशाय जिन्वथस्ताभिरूषु ऊतिभिरश्विना गतं (*yābhirbhare kāramaṃśāya jinvathastābhirūṣu ūtibhiraśvinā gataṃ*): "(with those protections of yours) by which ... — come to our sacrificial ground, together with such protections of yours, which comprise such heroic deeds." Sūktas of this kind occur in many places in the Ṛgveda.
+
+जनासः (*janāsaḥ*) — जना हे असुराः । (*janā he asurāḥ |*) The sage addresses the asuras as "O asura people", describes Indra's qualities to them one by one so that they may understand, and says that the one who did such deeds is Indra, not I; thus the sage tries to remove the asuras' doubt. The account is this: once Indra was in Gṛtsamada's sacrificial ground, and knowing that the asuras were lying in wait to kill him, he escaped in the guise of the sage Gṛtsamada. The asuras waited a long time for Indra, but when he did not come out, they seized the real Gṛtsamada, thinking that Indra might be in that guise; and to remove the asuras' doubt he (saying "I am not Indra; Indra is one with such qualities", and describing Indra's qualities) recited this sūkta. We have explained this account at length in the introduction to this sūkta (p. 642).
+
+यो जात एव प्रथमो मनस्वान् देवो देवान् क्रतुना पर्यभूषत् (*yo jāta eva prathamo manasvān devo devān kratunā paryabhūṣat*) — for this sentence in the first half of the Ṛk the meaning is: as soon as Indra was born he became the leader of all the gods, and by his valour became worthy of honour even to the other gods; or he increased the honour of the other gods; or he became an ornament to the other gods.
+
+प्रथमः (*prathamaḥ*) — Yāska (for the word प्रथम (*prathama*)): प्रथम इति मुख्यनाम प्रतमो भवति (*prathama iti mukhyanāma pratamo bhavati*) (Ni. 2-22) [the supplied text has प्रतमो (*pratamo*) here, as supplied]; that is, "prathama" is a name for "chief". Indra is the chief among the gods, the forerunner, the leader, the commander of the gods: this is the meaning.
+
+जातः (*jātaḥ*) — Ordinarily men and gods alike become great by the heroic deeds they perform when grown up, or by their qualities. But in Indra's case it is not so. The sage has described that as soon as he was born he became chief and foremost among all the gods. In other places too there is support for this. In the sūktas Ṛ. Saṃ. 3-48 and 4-18 the birth of Indra is spoken of. Immediately on his birth he set the sun's wheel moving (Ṛ. Saṃ. 1-130-9); as soon as he was born he became a warrior (Ṛ. Saṃ. 3-51-8, 5-30-5, 8-45-4, 8-66-1, 10-113-4); from his birth he was unconquered (Ṛ. Saṃ. 1-102-8, 10-133-2); such descriptions of Indra's birth exist. [The sentence beginning "But in Indra's case" runs across the page break in the print.]
+
+### Printed p. 647
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 647.*
+
+यस्य शुष्माद्रोदसी अभ्यसेतां नृम्मस्य मह्ना (*yasya śuṣmādrodasī abhyasetāṃ nṛmmasya mahnā*) — in this sentence it is said that heaven and earth trembled at the greatness of Indra's great strength. The word शुष्मं (*śuṣmaṃ*) is read among the names of strength (Ni. 3-9), the word रोदसी (*rodasī*) among the names of heaven and earth (Ni. 3-13), and the word नृम्म (*nṛmma*) among the names of strength (and wealth) (Ni. 3-9). Since the etymology is given: भ्यसते रेजत इति भयवेपनयोः । "यस्य शुष्माद्रोदसि अभ्यसेतां," "रेजते अग्ने पृथिवी मखेभ्यः" इत्यपि निगमौ भवतः (*bhyasate rejata iti bhayavepanayoḥ | "yasya śuṣmādrodasi abhyasetāṃ," "rejate agne pṛthivī makhebhyaḥ" ityapi nigamau bhavataḥ*) (Ni. 3-21), the word अभ्यसेतां (*abhyasetāṃ*) means अवेपेतां (*avepetāṃ*), अबिभीतां (*abibhītāṃ*): they staggered and trembled with fear. On the matter that heaven and earth trembled at Indra's immense strength:
+
+तव त्विषो जनिमन् रेजत द्यौ रेजद्भूमिर्भियसा स्वस्य मन्योः । (*tava tviṣo janiman rejata dyau rejadbhūmirbhiyasā svasya manyoḥ |*)
+(Ṛ. Saṃ. 4-17-2)
+
+in this Ṛk it is said that at the time of Indra's birth heaven and earth trembled for fear of his wrath.
+
+अस्येदु भिया गिरयश्च दृळ्हा द्यावा च भूमा जनुषस्तुजीते । (*asyedu bhiyā girayaśca dṛḷhā dyāvā ca bhūmā januṣastujīte |*)
+(Ma. Saṃ. 1-61-14) [as supplied; "Ma." where one expects "Ṛ."]
+
+in this Ṛk it is said that as soon as Indra was born, the immovable mountains, heaven and earth shook for fear of him.
+
+इमे चित्तव मन्यवे वेपेते भियसा मही । (*ime cittava manyave vepete bhiyasā mahī |*)
+(Ṛ. Saṃ. 1-80-11)
+
+in this Ṛk it is said that earth and heaven trembled in fear of your (Indra's) wrath.
+
+अतश्चिदिंद्रादभयंत देवा विश्वा अपो अजयद्दासपत्नीः । (*ataścidiṃdrādabhayaṃta devā viśvā apo ajayaddāsapatnīḥ |*)
+(Ma. Saṃ. 5-30-5) [as supplied; "Ma." where one expects "Ṛ."]
+
+here it is said that all the gods were afraid of Indra. Thus, as soon as Indra was born, his strength and valour were so excessive that they made the gods and heaven and earth tremble with fear
+
+### Printed p. 648
+
+*Running head: [648 Sāyaṇabhāṣyasahitā; Maṃ. 2 Ā. 2. Sū. 12.]*
+
+— this is said in many places. The sage Gṛtsamada pacified the asuras who had come to kill him by saying that one of such immeasurable valour is Indra and not I. For this mantra [?] Yāska has given the etymology as follows:
+
+यो जायमान एव प्रथमो मनस्वी देवो देवान् क्रतुना कर्मणा पर्यभवत् पर्यगृह्णात् पर्यरक्षदत्यक्रामदिति वा । यस्य बलाद्द्यावापृथिव्यावप्यबिभीतां नृम्णस्य मह्ना बलस्य महत्वेन स जनास इंद्र इति । यषेर्दृष्टार्थस्य प्रीतिर्भवत्ख्याख्यानसंयुक्ता ॥ (*yo jāyamāna eva prathamo manasvī devo devān kratunā karmaṇā paryabhavat paryagṛhṇāt paryarakṣadatyakrāmaditi vā | yasya balāddyāvāpṛthivyāvapyabibhītāṃ nṛmṇasya mahnā balasya mahatvena sa janāsa iṃdra iti | yaṣerdṛṣṭārthasya prītirbhavatkhyākhyānasaṃyuktā ‖*)
+(Si- 10-10) [as supplied; probably the Nirukta, "Ni."]
+
+Since the commentary written by Durgācārya on this etymology is very clear, we have given it here and explained Yāska's meaning.
+
+यो जात एव जातमात्र एव प्रथमः मुख्यः सर्वभूतानां प्रतिमुख्यतां संपेदे । मनस्वी च मेधावी, अन्ये हि कालेन मुख्याः संपद्यंते मेधाविनश्च । देवो देवान् क्रतुना पर्यभूषत् । सत्यपि देवत्वाविशेषे इतरान् देवान् क्रतुना कर्मणा पर्यभूषत् पर्यगृह्णात्, परिगृहीतवान् स्वामित्वेन पर्यरक्षद्वा) मुख्यत्वात् अत्यक्रामद्वा प्रभावेण । यस्य च शुष्मात् शारीराद्बलात् रोदसी द्यावापृथिव्यावपि अभ्यसेतामबिभीतां। नृम्मस्य मह्ना बलस्य सेनालक्षणस्य महत्वेन अतिमहदसह्यमस्य बलमवश्यमयमावां सादयिष्यतीत्येवमतिमहत्यावेते द्यावापृथिव्यावबिभीतां यस्य शुष्मात् । जनासः हे असुरजनाः स इंद्रः नाहमिंद्रः ब्राह्मणोऽहं, तत्पसादादेवापत्तद्रूप इति । ऋषेर्दृष्टार्थस्य अनुभूतेंद्रमैत्रस्येंद्रवयस्यस्य गृत्समदस्य इंद्रं प्रति प्रीतिस्तुष्टिर्भवत्याख्यानसंयुक्ता आख्यानसंबंधात् । अतश्च दर्शयति मंत्राणामैतिहासिकोऽप्यर्थ उपेक्षितव्योऽसावपि तेषां विषय इति ॥ (*yo jāta eva jātamātra eva prathamaḥ mukhyaḥ sarvabhūtānāṃ pratimukhyatāṃ saṃpede | manasvī ca medhāvī, anye hi kālena mukhyāḥ saṃpadyaṃte medhāvinaśca | devo devān kratunā paryabhūṣat | satyapi devatvāviśeṣe itarān devān kratunā karmaṇā paryabhūṣat paryagṛhṇāt, parigṛhītavān svāmitvena paryarakṣadvā) mukhyatvāt atyakrāmadvā prabhāveṇa | yasya ca śuṣmāt śārīrādbalāt rodasī dyāvāpṛthivyāvapi abhyasetāmabibhītāṃ| nṛmmasya mahnā balasya senālakṣaṇasya mahatvena atimahadasahyamasya balamavaśyamayamāvāṃ sādayiṣyatītyevamatimahatyāvete dyāvāpṛthivyāvabibhītāṃ yasya śuṣmāt | janāsaḥ he asurajanāḥ sa iṃdraḥ nāhamiṃdraḥ brāhmaṇo 'haṃ, tatpasādādevāpattadrūpa iti | ṛṣerdṛṣṭārthasya anubhūteṃdramaitrasyeṃdravayasyasya gṛtsamadasya iṃdraṃ prati prītistuṣṭirbhavatyākhyānasaṃyuktā ākhyānasaṃbaṃdhāt | ataśca darśayati maṃtrāṇāmaitihāsiko 'pyartha upekṣitavyo 'sāvapi teṣāṃ viṣaya iti ‖*)
+(Ni. 10-10, Durga's commentary)
+
+Its main meaning is: as soon as Indra was born he attained the chief position among all beings (and gods), that is, he became the foremost leader of all. This Indra is very wise (intelligent); other intelligent persons, after being born, attain a high position after some time; but Indra gained the high position as soon as he was born. Though born as a god, by his heroic exertions he became acceptable as chief and lord of the other gods. Not only that, by his power he surpassed all the other gods in strength and daring.
+
 ---
 
-**Progress note:** Done through printed p. 645 (PDF 645). Sukta 12 intro continued (Anuvada, bhashya), heading, Rik 1 with Samhita from figure
+**Progress note:** Done through printed p. 648 (PDF 648). Sukta 12 Special Topics (Rik 1) pp. 646-648; Yaska/Durga Nirukta quotations; one doubt (makkaligĕ)
