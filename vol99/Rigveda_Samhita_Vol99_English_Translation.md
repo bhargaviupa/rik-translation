@@ -3766,6 +3766,120 @@ Pastāvat vājam: since the word *pastya* is read among the names of the house (
 
 Śūra: mighty. Indra: O Indra. Ugreṣu: in those carried out gravely with śastra-mantras. Trikadrukeṣu: on the days of Trikadruka. Mandasānaḥ: joyful. Somam: the Soma juice. Pāhi: drink (then). Prīṇānaḥ: pleased by it. Śmaśruṣu: the hairs of the face. Pradodhuvat: shaking repeatedly. Sutasya: of the pressed juice. Pītim: for the drinking. Haribhyām: with your horses. Yāhi: be pleased to come.
 
+### Printed p. 622
+
+*Running head: Maṃ. 2, A. 1, Sū. 11; Sāyaṇabhāṣyasahitā, p. 622.*
+
+**भावार्थ (Bhāvārtha)**
+
+O mighty Indra, in the Trikadruka days, solemnly performed with śastra-mantras, drink the Soma juice in gladness; then, pleased by it, repeatedly wiping the hairs of your face, come (go) with your horses to the drinking of the pressed juice.
+
+**English Translation (as printed)**
+
+Indra, hero, exulting in the solemn Trikadruka rites, quaff the Soma juice, and repeatedly shaking it from your beard, repair, well pleased with your steeds, to the drinking of the effused libation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Trikadrukeṣu: Sāyaṇa explains this word as "in the first three days, named Jyotiḥ, Gauḥ and Āyuḥ, of the sacrifice called Abhiplava". The word is also said to mean a wooden vessel in which the Soma juice is kept. It is always used in the plural. Since Soma-drinking takes place especially on these days, Indra is here prayed to come again and again for the Soma-drinking at that time.
+
+#### Ṛk 18
+
+**॥ संहितापाठः ॥**
+
+> धि॒ष्वा शवः॑ शूर॒ येन॑ वृ॒त्रम॒वाभि॑न॒द्दानु॑मौर्णवा॒भं ।
+> अपा॑वृणो॒र्ज्योति॒रार्या॑य॒ नि स॑व्य॒तः सा॑दि॒ दस्यु॑रिंद्र ॥१८॥
+
+**॥ पदपाठः ॥**
+
+> धिष्ट्व । शवः । शूर । येन । वृत्रं । अव्यअभिनत् । दानुं । और्णवाभं ।
+> अप । अवृणोः । ज्योतिः । आर्याय । नि । सव्यतः । सादि । दस्युः । इंद्र ॥ १८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> शूर हे इंद्र शवस्तादृशं बलं धिष्ट । धारय ॥ दधातेर्लोटि बहुलं
+> छंदसीति शपो लुक् । छंदस्युभयथेति ना स आर्द्धधातुकत्वादिडागमः ॥ येन
+> बलेन दानुं दानोः पुत्रं वृत्रमौर्णवाभं । ऊर्णनाभिः कीटविशेष और्णवाभ
+
+> *śūra he iṃdra śavastādṛśaṃ balaṃ dhiṣṭa | dhāraya ‖ dadhāterloṭi bahulaṃ*
+> *chaṃdasīti śapo luk | chaṃdasyubhayatheti nā sa ārddhadhātukatvādiḍāgamaḥ ‖ yena*
+> *balena dānuṃ dānoḥ putraṃ vṛtramaurṇavābhaṃ | ūrṇanābhiḥ kīṭaviśeṣa aurṇavābha*
+
+### Printed p. 623
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 6; Ṛgvedasaṃhitā, p. 623.*
+
+> इत्युच्यते । तमिनावाभिनत् । बिभेदिथ । यद्वा और्ण ऊर्णनाभिः । तदाभं तत्सदृश-
+> मित्यर्थः । ततस्तमोरूपस्य हननादार्याय कर्मणामनुष्ठात्रे जनाय कुत्साय
+> राजर्षये वा ज्योतिः प्रकाशकमादित्यमपावृणोः । उद्घाटितवानसि । दस्युः कर्म-
+> णामुपक्षपयिता स वृत्रः सव्यतस्तव सव्यपार्श्वे निषादि । त्वया नितरां सन्नो
+> बाधितो वर्तते ॥
+
+*(Gist: O Indra, keep the strength with which you struck Vṛtra, son of Danu, and opened the light for the Ārya; that Dasyu lies fallen on your left.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Śūra: valiant. Indra: O Indra. Yena: by which strength. Dānum: the son of Dānu. Vṛtram: Vṛtra the Asura. Aurṇavābham: (as one destroys) the enveloping spider. Avābhinat: you struck down. Āryasya [as printed; the Pada has *āryāya*]: for the royal sage who performs the rites. Jyotiḥ: the shining Āditya. Apāvṛṇoḥ: you uncovered and made to shine. Śavaḥ: strength (such as that). Dhiṣṭa: bear. Dasyuḥ: Vṛtra, the destroyer of rites. Savyataḥ: on your left side. Ni ṣādi: (struck by you) has fallen.
+
+**भावार्थ (Bhāvārtha)**
+
+O valiant Indra, keep up that natural strength of yours by which you struck down Vṛtra, the son of Dānu, as one destroys an enveloping spider, and by which you freed the shining Āditya from his covering and made him shine for the royal sage who performs the rites. Vṛtra, the destroyer of rites, has fallen on your left side, struck by you.
+
+**English Translation (as printed)**
+
+Indra, hero, keep up the strength wherewith you have crushed Vritra, the spider-like son of Danu, and let open the light to the Arya: the Dasyu has been aset [sic] side on your left hand.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Dānum: Dānu is the mother of Vṛtra. Here the word *dānu* is used in the sense of Vṛtra, the son of Dānu.
+
+Aurṇavābham: *ūrṇavābha* or *ūrṇanābhi* means a spider, which draws its thread from the navel region. Here *aurṇavābha* means that, just as a spider spins its web, covers a wide area and obstructs the movement of other insects such as mosquitoes and flies,
+
+### Printed p. 624
+
+*Running head: Maṃ. 2, A. 1, Sū. 11; Sāyaṇabhāṣyasahitā, p. 624.*
+
+so Vṛtra the Asura spreads through the atmosphere, bars the clouds and obstructs their movement and the rain; therefore Vṛtra is likened to a spider. The idea expressed in the second half of this Ṛk is that Indra struck down such a Vṛtra, made the sun (the sunlight), which had been covered by the veil of clouds that Vṛtra held back and so was not seen, visible to all the Āryas (all good people), and made the Dasyu Vṛtra fall on his left side.
+
+#### Ṛk 19
+
+**॥ संहितापाठः ॥**
+
+> सने॑म॒ ये त॑ ऊ॒तिभि॒स्तरं॑तो॒ विश्वाः॒ स्पृध॒ आर्ये॑ण॒ दस्यू॑न् ।
+> अ॒स्मभ्यं॒ तत्वा॒ष्टं वि॒श्वरू॑प॒मरं॑धयः सा॒ख्यस्य॑ त्रि॒ताय॑ ॥ १९ ॥
+
+**॥ पदपाठः ॥**
+
+> सनेम । ये । ते । ऊतिभिः । तरंतः । विश्वाः । स्पृधः । आर्येण । दस्यून् ।
+> अस्मभ्यं । तत् । त्वाष्टं । विश्वरूपं । अरंधयः । साख्यस्य । त्रिताय ॥ १९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सनेम तान्पुरुषान् संभजेम ये ते तवोतिभिः पालनैर्विश्वाः स्पृधः
+> स्पर्धमानाः सर्वा विशस्तरंतो हिंसंतः तथार्येणार्यभावेन दस्युनुपक्षपयि-
+> त्वान् हिंसंतो भवंति । तदस्मभ्यं वशमानय । किं तत् । तदाह । त्वाष्ट्रं त्वष्टुः
+> सुतं विश्वरूपमेतन्नामकमसुरमरंधयः ॥ रध्यतिर्वशगमने ॥ वशमानयः ।
+> यद्वा तमसुरमवधीः ॥ रथ हिंसासंराद्ध्योः । रधिजभोरचीति नुम् ॥ इंद्र-
+> स्टाष्ट्रमवधीदित्ययमर्थस्तॆत्तिरीयके विश्वरूपो वै त्वाष्ट्रः । तै- २-५-१ । इत्यत्र
+> महता प्रबंधेन प्रपंचितः । किंच साख्यस्य सखिभावस्यानुपालनाय त्रिताय मह-
+> र्षये वशमानयः । यद्वा सनेम ते वयं प्रवृद्धा भवेम ये वयं तव रक्षाभिः
+> स्पर्धमानाः प्रजा दस्यूंश्च तरंतोऽतिक्रामंतो भवेम ॥ सनेमेति वृद्ध्यर्थ
+> आद्युदात्तः । यथा सनेम मित्रावरुणा सनंतः । ७-५२-१ । इति । सकर्मकश्चेत्
+> मध्योदात्तः । सनेम वाजं तव । ८-६१-४ । इति । तरंतः । त्य प्लवनतरणयोः ।
+> शतरि रूपं । संज्ञावचनश्चेदंतोदात्तः । यथा तरंत इव मंहना । ५-६१-१० ।इति।
+
+> *sanema tānpuruṣān saṃbhajema ye te tavotibhiḥ pālanairviśvāḥ spṛdhaḥ*
+> *spardhamānāḥ sarvā viśastaraṃto hiṃsaṃtaḥ tathāryeṇāryabhāvena dasyunupakṣapayi-*
+> *tvān hiṃsaṃto bhavaṃti | tadasmabhyaṃ vaśamānaya | kiṃ tat | tadāha | tvāṣṭraṃ tvaṣṭuḥ*
+> *sutaṃ viśvarūpametannāmakamasuramaraṃdhayaḥ ‖ radhyatirvaśagamane ‖ vaśamānayaḥ |*
+> *yadvā tamasuramavadhīḥ ‖ ratha hiṃsāsaṃrāddhyoḥ | radhijabhoracīti num ‖ iṃdra-*
+> *sṭāṣṭramavadhīdityayamarthastèttirīyake viśvarūpo vai tvāṣṭraḥ | tai- 2-5-1 | ityatra*
+> *mahatā prabaṃdhena prapaṃcitaḥ | kiṃca sākhyasya sakhibhāvasyānupālanāya tritāya maha-*
+> *rṣaye vaśamānayaḥ | yadvā sanema te vayaṃ pravṛddhā bhavema ye vayaṃ tava rakṣābhiḥ*
+> *spardhamānāḥ prajā dasyūṃśca taraṃto 'tikrāmaṃto bhavema ‖ sanemeti vṛddhyartha*
+> *ādyudāttaḥ | yathā sanema mitrāvaruṇā sanaṃtaḥ | 7-52-1 | iti | sakarmakaścet*
+> *madhyodāttaḥ | sanema vājaṃ tava | 8-61-4 | iti | taraṃtaḥ | tya plavanataraṇayoḥ |*
+> *śatari rūpaṃ | saṃjñāvacanaścedaṃtodāttaḥ | yathā taraṃta iva maṃhanā | 5-61-10 |iti|*
+
 ---
 
-**Progress note:** Done through printed p. 621 (PDF 621). Sukta 11 Rk 16 complete; Rk 17 Samhita, Pada, bhasya and Pratipadartha begun; Special Topics on barhis
+**Progress note:** Done through printed p. 624 (PDF 624). Sukta 11 Rk 17 end, Rk 18 complete, Rk 19 begun (bhasya)
