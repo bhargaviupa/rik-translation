@@ -2854,7 +2854,7 @@ We are invigorating your brilliant strength(by our praises), and placing the thu
 
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 
-अस्मे (*asme*)—The word अस्मे (*asme*) is used in all seven case-meanings; that is, the word is used in the senses "we", "us", "by us" and so on. In this ṛk the sense of the sixth case, "our", must be understood. Various uses of the word अस्मे (*asme*), with examples, are explained at Ṛ. Saṃ. Part 6, page 538, and in the ninth and tenth Maṇḍalas (as printed, nine, eighty-two; ten, one hundred seventy), and other places.
+अस्मे (*asme*)—The word अस्मे (*asme*) is used in all seven case-meanings; that is, the word is used in the senses "we", "us", "by us" and so on. In this ṛk the sense of the sixth case, "our", must be understood. Various uses of the word अस्मे (*asme*), with examples, are explained at Ṛ. Saṃ. Part 6, page 538, and at 9.82 [as printed, with a full stop]; 10-170, and other places.
 
 दासी विशः (*dāsī viśaḥ*)—Asura peoples. The explanation of the words दास (*dāsa*) and दस्यु (*dasyu*) and other matters we have explained at length in this Part, on the pages numbered five hundred and eighty to five hundred and eighty-two.
 
