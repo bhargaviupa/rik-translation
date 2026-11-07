@@ -6525,6 +6525,109 @@ That is: अंधः (*aṃdhaḥ*) is a name of food. Why? Because food is nee
 
 That is, अमत्र (*amatra*) means a vessel. Why? Because from it (food or Soma) is taken little by little and eaten, such a ladle-like vessel is called अमत्र (*amatra*). अमा (*amā*) means that which is without measure. When Soma juice is filled in abundance (without measure or gauge) in a large vessel, to drink it they fill from it little by little with the wooden ladle called अमत्र (*amatra*) or camasa and drink (Like drinking tea or coffee by means of spoons). Such a vessel is called अमत्र (*amatra*) or camasa. The sense of the sentence is: "Take, with such camasas, the intoxicating, that is, joy-producing, food in the form of Soma, and put it (into the fire, for Indra)." Since Indra is not a visible deity, all the oblations offered to him are, with reference to him, with mantras
 
+### Printed p. 724
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 14; p. 724.*
+
+**Special Topics (continued)**
+
+(The passage continues from the previous page.) Since the oblation is to be made in the fire itself, the word आ सिंचत (*ā siṃcata*) conveys the sense "make the oblation in the fire itself, with the vaṣaṭ call". Moreover, in the second half of this Ṛk the expression जुहोत (*juhota*) ("make the oblation in the fire") actually occurs. Since both words मद्यं (*madyaṃ*) and अंधः (*aṃdhaḥ*) occur in this sentence, it may be understood either as the oblation in the form of intoxicating Soma juice (food), or as two kinds of substance, the intoxicating Soma juice and the food in the form of an oblation. But since in all the Ṛks of this sūkta only the matter of the Soma juice for Indra's drinking is mentioned, it is appropriate to take the words मद्यमंधः (*madyamaṃdhaḥ*) to mean the oblation in the form of Soma, that is, Soma.
+
+कामिा हि वीरः सदं अस्य पीतिं (*kāmiā hi vīraḥ sadaṃ asya pītiṃ*)—the heroic Indra surely desires the drinking of this Soma always. The main sense is: "Is not the valiant Indra one who longs for the drinking of Soma?" Indra's attachment to Soma-drinking is greater than that of all the other deities. Therefore all the seers pray that Indra may come to the sacrifices they perform and drink the Soma they offer.
+
+जुहोत वृष्णे तत् इत् एषः वष्टि (*juhota vṛṣṇe tat it eṣaḥ vaṣṭi*)—therefore offer Soma to the showerer Indra (वृष्णे (*vṛṣṇe*)). That very Soma substance this Indra desires. Therefore make the oblation of Soma juice in the fire for Indra, who gives rain or who gives the objects of desire; for it is this (the drinking of Soma) that this Indra desires. Although the matter stated in the second and the fourth pādas of this Ṛk is one, the seer has expressed the idea with different words and different sentences in order to explain the sense clearly.
+
+The commentary written on this Ṛk by Durgācārya, the commentator on the Nirukta, contains some clear explanations, so it is given here:
+
+गृत्समदस्येयमार्षं । रात्रिपर्याये शस्यते । होतुः शस्त्रे विनियुक्ता । (*gṛtsamadasyeyamārṣaṃ | rātriparyāye śasyate | hotuḥ śastre viniyuktā |*)
+
+अस्यैव च शस्त्रस्य याज्येषा ॥ हे अध्वर्यवः भरत प्रापयतेमं सोमं । (*asyaiva ca śastrasya yājyeṣā ‖ he adhvaryavaḥ bharata prāpayatemaṃ somaṃ |*)
+
+एतस्माद्धविर्धानादुत्तरवेदिं इंद्राय इंद्रार्थं । अथवा भरत धारयता- (*etasmāddhavirdhānāduttaravediṃ iṃdrāya iṃdrārthaṃ | athavā bharata dhārayatā-*)
+
+ग्नेरुपरि । ततश्चैनं आमत्रेभिः अमत्रैः पात्रॆः एभिः सोमचमस्यॆः (*gnerupari | tataścainaṃ āmatrebhiḥ amatraiḥ pātrèḥ ebhiḥ somacamasyèḥ*)
+
+वषट्कारे प्राप्ते आसिंचत तस्मिन्नग्नौ । मद्यं मदनीयं एतत्सोमाख्यं (*vaṣaṭkāre prāpte āsiṃcata tasminnagnau | madyaṃ madanīyaṃ etatsomākhyaṃ*)
+
+अंधः । तस्मात् पुनरेवं ब्रवीमि । इतः यस्मात् कामि हि वीरः कामयत (*aṃdhaḥ | tasmāt punarevaṃ bravīmi | itaḥ yasmāt kāmi hi vīraḥ kāmayata*)
+
+एव वीरः इंद्रः अस्य सोमस्य सदं सदैव नित्यकालमेव प्रीतिं पानमि- (*eva vīraḥ iṃdraḥ asya somasya sadaṃ sadaiva nityakālameva prītiṃ pānami-*)
+
+त्यर्थः । तस्मात् कारणात् जुहोत तस्मै वृष्टे वर्षित्रे इंद्राय एतं (*tyarthaḥ | tasmāt kāraṇāt juhota tasmai vṛṣṭe varṣitre iṃdrāya etaṃ*)
+
+सोमं । किमेतमेव केवलं सोममेष कामयते? नेत्युच्यते । (*somaṃ | kimetameva kevalaṃ somameṣa kāmayate? netyucyate |*)
+
+### Printed p. 725
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 13; Ṛgveda-saṃhitā; p. 725.*
+
+**Special Topics (continued)**
+
+तदिदेष वष्टि तत्तत्सोमप्रदानमेष इंद्रो वष्टि कामयत इत्यर्थः । (*tadideṣa vaṣṭi tattatsomapradānameṣa iṃdro vaṣṭi kāmayata ityarthaḥ |*)
+
+न केवलं रात्रिपर्यायेष्वित्यर्थः । तस्मादासिंचत इमं सोमं मा (*na kevalaṃ rātriparyāyeṣvityarthaḥ | tasmādāsiṃcata imaṃ somaṃ mā*)
+
+विलंबध्वमित्यभिप्रायः । एवमत्र दानसंबंधात् अंधः शब्दोऽन्नार्थ (*vilaṃbadhvamityabhiprāyaḥ | evamatra dānasaṃbaṃdhāt aṃdhaḥ śabdo 'nnārtha*)
+
+उपपद्यते । पठितमपि चान्ननामसु । अनेकार्थत्वात् तु संदिह्यते इत्येष (*upapadyate | paṭhitamapi cānnanāmasu | anekārthatvāt tu saṃdihyate ityeṣa*)
+
+निगम उपात्तेः ॥ (*nigama upātteḥ ‖*) (Ni. 5-1. Du. Vyā.)
+
+That is: this Ṛk was seen by the seer Gṛtsamada. In the Atirātra sacrifice, in the rātri-paryāya (night round), it is to be recited for the śastra mantras recited by the Hotṛ, and also as the yājyā mantra of that śastra; such is its application. O priests called Adhvaryus, take this Soma, for Indra's drinking, from the Havirdhāna place to the Uttaravedi. Then, with the camasa vessels, fill up this food in the form of intoxicating Soma juice and make the oblation in the fire. For this valiant Indra is at all times attached to Soma-drinking. Therefore make the oblation of Soma in the fire for Indra, the giver of all desired fruits. That is what Indra desires. Indra desires Soma-drinking not only at night but at all times. Therefore make the oblation of Soma without delay. Since the word अंध (*aṃdha*) also has the meaning "food", in order to show that in the present Ṛk the word अंधः (*aṃdhaḥ*) has just the meaning "food", the author of the Nirukta has cited the Vedic (nigama) sentence आमत्रेभिः सिंचता मद्यमंधः (*āmatrebhiḥ siṃcatā madyamaṃdhaḥ*) as an example. This is the main sense of the commentary above.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यो अ॒पो व॑व्रि॒वांसं॑ वृ॒त्रं ज॒घाना॒शन्ये॑व वृ॒क्षं ।
+> तस्मा॑ ए॒तं भ॑रत तद्व॒शाय॑ ए॒ष इंद्रो॑ अर्हति प्री॒तिम॑स्य ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । अपः । वन्विवांसं । वृत्रं । जघान । अशन्या इव । वृक्षं ।
+> तस्मै । एतं । भरत । तत्र्वशाय । एषः । इंद्रः । अर्हति । पीतिं । अस्य ॥ २ ॥
+
+> *adhvaryavaḥ | yaḥ | apaḥ | vanvivāṃsaṃ | vṛtraṃ | jaghāna | aśanyā iva | vṛkṣaṃ |*
+> *tasmai | etaṃ | bharata | tatrvaśāya | eṣaḥ | iṃdraḥ | arhati | pītiṃ | asya ‖ 2 ‖*
+
+### Printed p. 726
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2, Sūkta 14; p. 726.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवः य इंद्रोऽप उदकानि वन्विवांसमावृत्य स्थितं वृत्रं । वृणो-
+> श्याकाशमिति वृत्रो मेघः । तं मेघं वज्रेण जघान । हतवान् । अशन्येव । यथा-
+> शन्या वैद्युताग्निना वृक्षं दहति तद्वत् । तस्मै तद्वशाय सोमकामाय तस्मा इंद्रा-
+> य्यतं सोमं भरत । उत्तरवेदिं प्रति हरत । एष इंद्रोऽस्य सोमस्य प्रीतिं
+> पानमर्हति ॥
+
+> *he adhvaryavaḥ ya iṃdro 'pa udakāni vanvivāṃsamāvṛtya sthitaṃ vṛtraṃ | vṛṇo-*
+> *śyākāśamiti vṛtro meghaḥ | taṃ meghaṃ vajreṇa jaghāna | hatavān | aśanyeva | yathā-*
+> *śanyā vaidyutāgninā vṛkṣaṃ dahati tadvat | tasmai tadvaśāya somakāmāya tasmā iṃdrā-*
+> *yyataṃ somaṃ bharata | uttaravediṃ prati harata | eṣa iṃdro 'sya somasya prītiṃ*
+> *pānamarhati ‖*
+
+Gist: Adhvaryus, bring the Soma to the Uttaravedi for Indra, who with his thunderbolt struck down Vṛtra, the cloud that enclosed the waters, as lightning burns a tree; he is worthy of drinking it.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वरवः (*adhvaravaḥ*) (as printed in the supplied text)—O Adhvaryus. यः (*yaḥ*)—the Indra who. अशन्या (*aśanyā*)—with the lightning fire. वृक्षं इव (*vṛkṣaṃ iva*)—as one splits and burns a tree. अपः (*apaḥ*)—the waters. वन्विवांसं (*vanvivāṃsaṃ*)—who stood enclosing. वृत्रं (*vṛtraṃ*)—the demon Vṛtra, or the cloud. जघान (*jaghāna*)—split with the thunderbolt. तस्मै (*tasmai*)—to such. तद्वशाय (*tadvaśāya*)—to Indra, who desires Soma, in order to offer to him. एतं (*etaṃ*)—this Soma. भरत (*bharata*)—bring (to the Uttaravedi). एषः इंद्रः (*eṣaḥ iṃdraḥ*)—this Indra. अस्य (*asya*)—of this Soma juice. पीतिं (*pītiṃ*)—to obtain the drinking. अर्हति (*arhati*)—is worthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, bring this Soma to the Uttaravedi, to offer it to Indra, who desires Soma and who, as the lightning fire splits and burns a tree, split with his thunderbolt Vṛtra, who stood enclosing the waters. This Indra is worthy of the drinking of the Soma juice.
+
+**Printed English translation**
+
+Priests, offer the libation to him who slew the rain-arresting Vritra, as(he strikes down) a tree with(his) thunderbolt; to him who desires it: and Indra is worthy of(the beverage).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यः अपः वव्रिवांसं वृत्रं जघान अशन्येव वृक्षं (*yaḥ apaḥ vavrivāṃsaṃ vṛtraṃ jaghāna aśanyeva vṛkṣaṃ*)—offer Soma to the Indra who struck the demon Vṛtra, or the cloud, who in the atmosphere had enclosed the waters and held back the rain from falling, as the lightning (thunderbolt) burns a tree. This is the main sense of the sentence. Here that which held back the water from falling down, that is, upon the earth, may be the cloud or may be Vṛtra.
+
+(Note on readings: the Saṃhitā has वव्रिवांसं (*vavrivāṃsaṃ*) while the Pada, the bhāṣya and the Pratipadārtha have वन्विवांसं (*vanvivāṃsaṃ*); the Pada has तत्र्वशाय (*tatrvaśāya*) where the Saṃhitā and the Pratipadārtha have तद्वशाय (*tadvaśāya*); the bhāṣya reads इंद्राय्यतं (*iṃdrāyyataṃ*); all as supplied. The Saṃhitā line of this Ṛk is printed in the supplied text without the Ṛk number, which the Pada carries.)
+
 ---
 
-**Progress note:** Done through printed p. 723 (PDF 723). Sukta 14 Rk 1 Pratipadartha to Special Topics (Yaska on adhvaryu, andhas, amatra); no figures
+**Progress note:** Done through printed p. 726 (PDF 726). Sukta 14 Rk 1 Special Topics (Durga on Rk 1), Rk 2 complete; no figures
