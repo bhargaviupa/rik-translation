@@ -6716,6 +6716,112 @@ Priests, offer this libation, which, like the wind in the firmament,(is the caus
 
 तस्मै एतं अंतरिक्षे वातं न सोमैः ऊर्णुत जूर्न वस्त्रैः (*tasmai etaṃ aṃtarikṣe vātaṃ na somaiḥ ūrṇuta jūrna vastraiḥ*)—तस्मा इंद्रायैतं सोममंतरिक्षे वात्मिव धाराभिर्वाप्तं कुरुत । सर्वत आच्छादयत । तत्र दृष्टांतः । जूर्न जीर्णो यथा वस्त्रैरंगमाच्छादयति तद्वत् । (*tasmā iṃdrāyaitaṃ somamaṃtarikṣe vātmiva dhārābhirvāptaṃ kuruta | sarvata ācchādayata | tatra dṛṣṭāṃtaḥ | jūrna jīrṇo yathā vastrairaṃgamācchādayati tadvat |*) To that Indra, that is, to Indra possessed of the qualities described above, fill the Soma juice well, make it spread well; that is, let Indra drink the Soma juice in abundance. Here two illustrations are
 
+### Printed p. 730
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 730.*
+
+mentioned. The wind in the atmosphere makes the rain-water spread everywhere. In the same way, fill Indra abundantly with Soma juice, is the sense. And as an aged old man, unable to bear the cold, covers his body completely with garments, make Indra (or Indra's belly) be covered, that is, pervaded, by the Soma juices: thus the illustration has been stated.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ य उर॑णं ज॒घान॒ नव॑ च॒ख्यांसं॑ नव॒तिं च॑ बा॒हून् ।
+> यो अर्बु॑द॒मव॑ नी॒चा ब॑बा॒धे तमिंद्रं॒ सोम॑स्य भृ॒थे हि॑नोत ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । उरणं । जघान । नव । चख्यांसं । नवतिं । च । बाहून् ।
+> यः । अर्बुदं । अव । नीचा । बबाधे । तं । इंद्रं । सोमस्य । भृथे । हिनोत ॥४॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवः य इंद्रो नव नवतिं च एकोनशतं बाहून् चख्यांसं ॥
+> चष्टेरिदं रूपं । यद्वा खनतेः क्वसौ रूपं । निलोपः । छांदसं रूपं ॥ सर्वस्य
+> दर्शयंतं । यद्वा आत्मनो देहे निखातवंतमुरणमेतन्नामकमसुरं जघान ।
+> यश्चार्बुदमेतन्नामकमसुरं च नीचाधोमुखं कृत्वावबबाधे । तमेनमिंद्रं
+> सोमस्य बृथे सोमं बिभ्रति पात्रे हिनोत । वर्धयत । यद्वा सोमस्य बृथे
+> भरणे संपादने सति हिनोत । स्तोत्रैः प्रीणयत ॥ हि गतिवृद्ध्योः । स्वादिः ॥
+
+> *he adhvaryavaḥ ya iṃdro nava navatiṃ ca ekonaśataṃ bāhūn cakhyāṃsaṃ ‖*
+> *caṣṭeridaṃ rūpaṃ | yadvā khanateḥ kvasau rūpaṃ | nilopaḥ | chāṃdasaṃ rūpaṃ ‖ sarvasya*
+> *darśayaṃtaṃ | yadvā ātmano dehe nikhātavaṃtamuraṇametannāmakamasuraṃ jaghāna |*
+> *yaścārbudametannāmakamasuraṃ ca nīcādhomukhaṃ kṛtvāvababādhe | tamenamiṃdraṃ*
+> *somasya bṛthe somaṃ bibhrati pātre hinota | vardhayata | yadvā somasya bṛthe*
+> *bharaṇe saṃpādane sati hinota | stotraiḥ prīṇayata ‖ hi gativṛddhyoḥ | svādiḥ ‖*
+
+Gist: Adhvaryus, Indra slew Uraṇa, who displayed ninety-nine arms (or had them fixed in his body), and threw Arbuda down headlong; nourish him in the Soma vessel.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (अध्वर्यवः (*adhvaryavaḥ*))—O Adhvaryus. यः (यः (*yaḥ*))—the Indra who. नव नवतिं च (नव नवतिं च (*nava navatiṃ ca*))—possessing the number ninety-nine. बाहून् (बाहून् (*bāhūn*))—arms. चख्वांसं (चख्वांसं (*cakhvāṃsaṃ*))—displaying (or having in the body).
+
+### Printed p. 731
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 13; Ṛgveda-saṃhitā; p. 731.*
+
+उरणं (उरणं (*uraṇaṃ*))—the asura named Uraṇa. जघान (जघान (*jaghāna*))—slew. यः (यः (*yaḥ*))—who. अर्बुदं (अर्बुदं (*arbudaṃ*))—the asura named Arbuda. नीचा (नीचा (*nīcā*))—having made head-downward. अव बबाधे (अव बबाधे (*ava babādhe*))—injured and destroyed. तं (तं (*taṃ*))—that. इंद्रं (इंद्रं (*iṃdraṃ*))—Indra. सोमस्य (सोमस्यॆ (*somasyè*))—of the Soma juice. भृथे (भृथे (*bhṛthe*))—in the vessel (offering Soma with a full vessel). हिनोत (हिनोत (*hinota*))—increase (him).
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, Indra who slew the asura named Uraṇa, who was displaying all his ninety-nine arms, and who made the asura named Arbuda head-downward, injured and destroyed him: offer Soma with a full vessel to such an Indra and increase him.
+
+**Printed English translation**
+
+Priests, propitiate, by the offering of the Soma, that Indra, who slew Urana, displaying nine and ninety arms; and hurled Arbuda down headlong.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+य उरणं जघान नव चख्वांसं नवतिं च बाहून् (*ya uraṇaṃ jaghāna nava cakhvāṃsaṃ navatiṃ ca bāhūn*)—Sāyaṇa has explained this sentence in two ways. इंद्रो नव नवतिं च एकोनशतं बाहून् चख्वांसं सर्वस्य दर्शयंतं उरणमेतन्नामकसुरं जघान (*iṃdro nava navatiṃ ca ekonaśataṃ bāhūn cakhvāṃsaṃ sarvasya darśayaṃtaṃ uraṇametannāmakasuraṃ jaghāna*)—that is, Indra slew the asura named Uraṇa, displaying ninety-nine arms so as to be seen by all: this is one kind of meaning. यद्वा आत्मनो देहे चख्वांसं निखातवंतमुरणमेतन्नामकमसुरं जघान (*yadvā ātmano dehe cakhvāṃsaṃ nikhātavaṃtamuraṇametannāmakamasuraṃ jaghāna*)—or, Indra slew the asura named Uraṇa, who, with his ninety-nine arms, fell upon Indra and was wounding him: this is another kind of meaning. Here the ninety-nine arms may belong either to Indra or to the asura named Uraṇa. "Ninety-nine" need not be understood as exactly that number; it may be understood as "many". The sense is that Indra slew the asura named Uraṇa, who had many arms. Since the name Uraṇa occurs only in this Ṛk and nowhere else, nothing can be said about him.
+
+यः अर्बुदमव नीचा बबाधे (*yaḥ arbudamava nīcā babādhe*)—It is said here that Indra made the asura named Arbuda head-downward, injured and killed him. We have explained the matter of the asura named Arbuda at length in Ṛ. Saṃ. Part 5, p. 175, and in pp. 633–634 of this same part.
+
+तमिंद्रं सोमस्य भृथे हिनोत (*tamiṃdraṃ somasya bhṛthe hinota*)—तमेनमिंद्रं सोमस्य भृथे सोमं बिभ्रति पात्रॆ हिनोत वर्धयत (*tamenamiṃdraṃ somasya bhṛthe somaṃ bibhrati pātrè hinota vardhayata*). To such an Indra, offering the Soma filled completely in the vessel,
+
+### Printed p. 732
+
+*Running head: Sāyaṇabhāṣyasahitā; Maṃ. 2, A. 2, Sū. 14; p. 732.*
+
+increase him: this is one meaning; and यद्वा सोमस्य भृथे भरणे संपादने सति हिनोत स्तोत्रैः प्रीणयत (*yadvā somasya bhṛthe bharaṇe saṃpādane sati hinota stotraiḥ prīṇayata*)—or, after the vessel is filled with Soma juice, gratify Indra with hymns so that he may drink the Soma juice: this is another meaning; the commentator says both are possible.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यः स्वश्नं॑ ज॒घान॒ यः शुष्ण॑म॒शुषं॒ यो व्यं॑सं ।
+> यः पिपुं॒ नमु॑चिं॒ यो रु॑धि॒क्रां तस्मा॒ इंद्रा॒यांध॑सो जुहोत ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । सु । अश्वं । जघान । यः । शुष्णं । अशुषं । यः । विअंसं ।
+> यः । पिप्रुं । नमुचिं । यः । रुधिक्रां । तस्मै । इंद्राय । अंधसः । जुहोत ॥५॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अध्वर्यवः य इंद्रोऽश्नं । अश्नाति भक्षयति प्राणिजातमिति । यदा
+> अश्नुते स्वतेजसा सर्वं व्याप्नोतीत्यश्चः कश्चिदसुरः । तमसुरं सु सुष्टु जघान
+> अशुषं केनाप्यशोषणीयं शुष्णमसुरं यश्च तमसुरं व्यंसमंसहीनं कृत्वा
+> जघान । यश्च पिप्रुं तेजसा जगद्व्याप्य वर्तमानमेतन्नामकमसुरं नमुचिमसुरं
+> जघान यश्च । तैत्तिरीयके नमुचिमसुरं नालभतेति प्रकृत्य फेनेन शिर उदवर्त-
+> यदित्यंतेन वाक्यसंदर्भेण नमुचिवधः प्रपंचितः । तथा मंत्रश्च । अपां फेनेन
+> नमुचेः शिर इंद्रोदवर्तयः । ८-१४-१३ । इति । रुधिक्रामेतन्नामकमसुरं यश्च
+> जघान । तस्मा इंद्रायांधसो हविर्लक्षणान्यन्नानि जुहोत । जुहुत ॥
+
+> *he adhvaryavaḥ ya iṃdro 'śnaṃ | aśnāti bhakṣayati prāṇijātamiti | yadā*
+> *aśnute svatejasā sarvaṃ vyāpnotītyaścaḥ kaścidasuraḥ | tamasuraṃ su suṣṭu jaghāna*
+> *aśuṣaṃ kenāpyaśoṣaṇīyaṃ śuṣṇamasuraṃ yaśca tamasuraṃ vyaṃsamaṃsahīnaṃ kṛtvā*
+> *jaghāna | yaśca pipruṃ tejasā jagadvyāpya vartamānametannāmakamasuraṃ namucimasuraṃ*
+> *jaghāna yaśca | taittirīyake namucimasuraṃ nālabhateti prakṛtya phenena śira udavarta-*
+> *yadityaṃtena vākyasaṃdarbheṇa namucivadhaḥ prapaṃcitaḥ | tathā maṃtraśca | apāṃ phenena*
+> *namuceḥ śira iṃdrodavartayaḥ | 8-14-13 | iti | rudhikrāmetannāmakamasuraṃ yaśca*
+> *jaghāna | tasmā iṃdrāyāṃdhaso havirlakṣaṇānyannāni juhota | juhuta ‖*
+
+Gist: Adhvaryus, Indra slew Aśna, Śuṣṇa, Vyaṃsa, Pipru, Namuci and Rudhikrā; offer food-oblations to him. The bhāṣya cites the Taittirīya account of Namuci and a mantra on his beheading with the foam of waters.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (अध्वर्यवः (*adhvaryavaḥ*))—O Adhvaryus. यः (यः (*yaḥ*))—the Indra who. अश्नं (अश्नं (*aśnaṃ*))—the asura named Aśna. सु जघान (सु जघान (*su jaghāna*))—destroyed completely. यः (यः (*yaḥ*))—who. अशुषं (अशुषं (*aśuṣaṃ*))—(by others) impossible to defeat. शुष्णं (शुष्णं (*śuṣṇaṃ*))—the asura named Śuṣṇa. व्यंसं (व्यंसं (*vyaṃsaṃ*))—cutting off the arm (slew).
+
 ---
 
-**Progress note:** Done through printed p. 729 (PDF 729). Sukta 14 Rk 2 Special Topics (Vritra), Rk 3 start (Samhita/Pada from figure)
+**Progress note:** Done through printed p. 732 (PDF 732). Sukta 14 Rk 3 Special Topics end, Rk 4, Rk 5 start
