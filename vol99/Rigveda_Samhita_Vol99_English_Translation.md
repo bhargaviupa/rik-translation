@@ -6290,6 +6290,90 @@ The commentator's Sanskrit passage, which repeats his bhāṣya on the words Tur
 
 तुर्वीतये, वय्यायॆ (*turvītaye, vayyāyè*) — an account of Turviti and Vayya is necessary here. In the present Ṛk the commentator says that Turviti is a royal sage, and Vayya is a ... (the page, and this window, ends here in the supplied text, in mid-sentence at वय्यनॆंबु (*vayyanèṃbu*)).
 
+### Printed p. 715
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 12; Ṛgveda-saṃhitā; p. 715.*
+
+(Special Topics of Ṛk 12, continued from the previous page.) ...Vayya is a man, they say. But in Ṛ. Saṃ. 1-54-6 the commentator says of Vayya and Turviti: वय्यकुलजं तुर्वीतिनामानं राजानं (*vayyakulajaṃ turvītināmānaṃ rājānaṃ*) — the king named Turviti, born in the family of Vayya. Some say that Turviti was the son of Vayya. It is said that the Aśvin deities protected this Vayya and one Karkandhu, in the Ṛk
+
+याभिः कर्कंधुं वय्यं च जिन्वथस्ताभिरू षु ऊतिभिरश्विना गतं (*yābhiḥ karkaṃdhuṃ vayyaṃ ca jinvathastābhirū ṣu ūtibhiraśvinā gataṃ*) (Ṛ. Saṃ. 1-112-6).
+
+Concerning these two, Skandasvāmin in his Ṛgveda commentary says:
+
+कर्कंधुः वय्यश्च राजर्षि अतिकात्रौ तपस्तप्यमानौ यदृच्छया पर्यटंतावश्विन् ददृशतुः (*karkaṃdhuḥ vayyaśca rājarṣi atikātrau tapastapyamānau yadṛcchayā paryaṭaṃtāvaśvin dadṛśatuḥ*) and दृष्ट्वा च तावमृतेनाप्याययांचक्रतुरिति तदेतदिहोच्यते (*dṛṣṭvā ca tāvamṛtenāpyāyayāṃcakraturiti tadetadihocyate*) — the two royal sages Karkandhu and Vayya, practising very painful austerity and wandering in the forest, were seen by the Aśvins by chance; the Aśvins then satisfied them with the gift of ambrosia. And again, in the Ṛk
+
+ईशानकृद्दाशुषे दशस्यन्नुर्वीतये गाधं तुर्वणिः कः (*īśānakṛddāśuṣe daśasyannurvītaye gādhaṃ turvaṇiḥ kaḥ*) (Ma. Saṃ. 1-61-11, as supplied)
+
+it is said that Indra helped Turviti to cross the river-floods. In the Ṛk
+
+त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वितिं वय्यं शतक्रतो (*tvamāvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvitiṃ vayyaṃ śatakrato*) (Ma. Saṃ. 1-54-6)
+
+it is said that Indra protected Turviti and "Nayya" [sic, as supplied; evidently Vayya is meant]. In the Ṛk
+
+त्वं महीमवनिं विश्वधेनां तुर्वीतये वय्याय क्षरंतीं (*tvaṃ mahīmavaniṃ viśvadhenāṃ turvītaye vayyāya kṣaraṃtīṃ*) (Ma. Saṃ. 4-19-6)
+
+also it is said that Indra took Turviti and Vayya across a flowing river. Besides, Turviti is mentioned in the Ṛks Ṛ. Saṃ. 1-36-18 and 1-112-23, and Vayya in the Ṛks Ṛ. Saṃ. in two Ṛks, the second Maṇḍala, Sūkta 3, Ṛk 6, and the ninth Maṇḍala, Sūkta 68, Ṛk 8 (the print joins them with a colon, which the checker reads as one reference, 2-3-6-9-68-8). The scholar Ludwig holds that Turviti was king of the tribes called the Turvaśas and the Yadus, but this has no support; it can only be said that Turviti belonged to the Turvaśa group.
+
+The commentator's passage on the words of the Ṛk begins: नीचा संतं उत् अनयः परावृजं प्र अंधं श्रोणं श्रवयॆन् (*nīcā saṃtaṃ ut anayaḥ parāvṛjaṃ pra aṃdhaṃ śroṇaṃ śravayèn*) followed by परितः पापानि वृणक्ति दहतीति परावृक् कश्चिदृषिः (*paritaḥ pāpāni vṛṇakti dahatīti parāvṛk kaścidṛṣiḥ*) (Parāvṛk is a certain sage who, all around, destroys, burns, sins) and तमप्सु मग्नं तथा नीचा नीचं संत (*tamapsu magnaṃ tathā nīcā nīcaṃ saṃta*) (the passage breaks off here at the end of the page, mid-word, and continues on the next page).
+
+### Printed p. 716
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 3 (as printed), Sūkta 13; p. 716.*
+
+The passage continues: मुदनयः (*mudanayaḥ*) ... आपद्भ्य ऊर्ध्वं नीतवानसि (*āpadbhya ūrdhvaṃ nītavānasi*) (you have lifted him up out of calamities); किंच अंधं संतं श्रोणं पंगुं संतं चक्षुर्दानादपंगुकरणाच्चोदनयः (*kiṃca aṃdhaṃ saṃtaṃ śroṇaṃ paṃguṃ saṃtaṃ cakṣurdānādapaṃgukaraṇāccodanayaḥ*) (also, being blind and lame, you lifted him up by giving him sight and curing his lameness); किं कुर्वन् आत्मानं कीर्तिमंतं कुर्वन् (*kiṃ kurvan ātmānaṃ kīrtimaṃtaṃ kurvan*) (doing what? making yourself renowned).
+
+Parāvṛk was a great sage. By his power he could burn up sins so that they should not gather around him; hence the name Parāvṛk. He was lame, and blind so that he could not see, and had fallen into a lower place (or a pit). He praised Indra, and Indra, pleased with his hymn, lifted him up and saved him: this is what the sage describes here. About this sage, in the Ṛk
+
+याभिः शचीभिर्वृषणा परावृजं प्रांधं श्रोणं चक्षस एतवे कृथः (*yābhiḥ śacībhirvṛṣaṇā parāvṛjaṃ prāṃdhaṃ śroṇaṃ cakṣasa etave kṛthaḥ*) (Ma. Saṃ. 1-112-8)
+
+it is said that the Aśvin deities, just as in the present Ṛk, saved Parāvṛja, who was blind and lame, by giving him legs and eyes. In the Ṛk
+
+स विद्वा अपगोहं कनीनामाविर्भवन्नु दतिष्ठत् परावृक् (*sa vidvā apagohaṃ kanīnāmāvirbhavannu datiṣṭhat parāvṛk*) प्रति श्रोणः स्थाद्व्य १नगचष्ट सोमस्य ता मद इंद्रश्चकार (*prati śroṇaḥ sthādvya 1nagacaṣṭa somasya tā mada iṃdraścakāra*) (Ṛ. Saṃ. 2-15-7)
+
+it is said that because Indra rejoiced after drinking Soma, the lame and blind sage Parāvṛk received eyes and legs. In the Ṛk
+
+सरत्पदा न दक्षिणा परावृज्ज ता नु मे पृशन्यो जगृभ्रे (*saratpadā na dakṣiṇā parāvṛjja tā nu me pṛśanyo jagṛbhre*) (Ṛ. Saṃ. 10-61-8)
+
+the word Parāvṛk occurs, but Sāyaṇa explains it as परावर्जयिता सन् (*parāvarjayitā san*) (being one who rejects). Some English scholars hold that the word in this Ṛk means the sage mentioned above, and that the Ṛk speaks of his going to the south. They state their view:
+
+परावृज् (*parāvṛj*) is a term found in four passages of the Rigveda, in all of which it refers to a person in a forlorn condition while one of them also speaks of him as going South. Sayanas' view that the world [sic] is a proper name is most unlikely, while Grassmann's explanation of it as cripple is still less probable. Roth's interpretation of it as exile seems clearly right in the passage which refers to the परावृज् (*parāvṛj*) as going south. Zimmer accepts Roth's view for this passage, but in the others sees a reference to the child of a maiden exposed by her and in danger of being eaten by insects (वम्रि (*vamri*)). This view is supported by the fact that परावृक्त (*parāvṛkta*) seems to have the same sense and is accepted by Oldenberg. (Vedic Index of Names & Subjects by Macdonell and Keith. P. four hundred ninety-two to four hundred ninety-three)
+
+### Printed p. 717
+
+*Running head: Aṣṭaka 2, Adhyāya 6, Varga 12; Ṛgveda-saṃhitā; p. 717.*
+
+If their view is examined together with what goes before and after, one must say that they have not understood the meaning of Ṛ. Saṃ. 10-61-8. They suppose, wrongly, that the word Parāvṛj in this Ṛk denotes the sage under discussion and that he is going south, and so express doubt. Their opinion that Sāyaṇa's explanation, that the word Parāvṛk denotes the name of a sage, is itself not right, is also not acceptable.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मभ्यं॒ तद्व॑सो दा॒नाय॒ राधः॒ सम॑र्थयस्व ब॒हु ते॑ वस॒व्यं॑ ।
+> इंद्र॒ यच्चि॒त्रं श्र॑व॒स्या अनु॒ द्यून्बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्मभ्यं । तत् । वसो इति । दानाय । राधः । सं । अर्थयस्व । बहु । ते । वसव्यं ।
+> इंद्र । यत् । चित्रं । श्रवस्याः । अनु । द्यून् । बृहत् । वदेम । विदथे । सुवीराः ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वसो सर्वस्य वासक वसुमन्वा हे इंद्र स्तोतृभ्योऽस्मभ्यं तद्राधो धनं
+> दानाय । उपलक्षणमेतत् । भोगाय च समर्थयस्व । देहि । अस्मान् संगम-
+> येत्यर्थः ॥ अर्थ याचने चुरादिरदंत आत्मनेपदी ॥ ते तव तद्बहु प्रभूतं
+> वसव्यं ॥ वस्वेव वसव्यं । वस्वादित्वात् स्वार्थिको यत् ॥ तादृशं प्रभूतं धनमस्ति
+> खलु । चित्रं चायनीयं यद्धनमनु द्यून् अन्वहं ॥ कालाध्वनोरिति द्वितीया ॥
+> श्रवस्याः । भोग्यमिच्छेः ॥ अंतर्णीतण्यर्थत्पादकर्मकत्वं । यथा रोदितीति । स
+> त्वन्यः । द्वे ह्यत्र कर्मणी उद्देश्यकर्म च विधेयकर्मांतर्भूतं । उद्देश्य-
+> कर्मणा सकर्मको भविष्यति । यथा माणवकं पुत्रीयतीति भाष्य उदाहृतं । पा.
+> ३-१-८-२ । श्रवःशब्दाच्छंदसि परेच्छायां क्यच् । तदंतस्य लेट्यडागमे रूपं ॥
+> सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञॆ बृहत् प्रभूतं शस्त्रादिकं
+> वाक्यं वदेम ॥
+
+*Gist: O Indra, grant us abundant wealth for giving and enjoyment; may we, blessed with good sons and grandsons, speak great praise at the sacrifice.*
+
+The grammatical remarks of the commentary (the root अर्थ (*artha*) in the sense of asking, of the Curādi class, ātmanepada; वसव्यं (*vasavyaṃ*) with the suffix yat in its own sense by the rule on वस्व (*vasva*) and the like; the accusative with अनु द्यून् (*anu dyūn*); श्रवस्याः (*śravasyāḥ*) formed with kyac from श्रवः (*śravaḥ*) in the sense of desiring, with a note on the two objects, the example माणवकं पुत्रीयति (*māṇavakaṃ putrīyati*), and the reference Pā. 3-1-8-2 as printed; the Vedic subjunctive with the augment) are not explained here.
+
 ---
 
-**Progress note:** Done through printed p. 714 (PDF 714). Sukta 13 Rik 11 Special Topics end, Rik 12 complete to Special Topics begun
+**Progress note:** Done through printed p. 717 (PDF 717). Sukta 13 Rk 12 end of Special Topics, Rk 13 Samhita to bhashya; colon-joined reference explained in text
