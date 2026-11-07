@@ -7570,6 +7570,101 @@ In this Ṛk three heroic deeds of Indra are described. सद्मेव प�
 
 वृथा असृजत् पथिभिः दीर्घयाथैः (*vṛthā asṛjat pathibhiḥ dīrghayāthaiḥ*)—Indra created the river-beds mentioned above effortlessly, that is, without any kind of labour, as rivers flowing by paths of long duration or very great length. Here the word वृथा (*vṛthā*) means "effortlessly". When we have to do any work, much labour must be spent; but Indra created the beds of all the rivers, extending over many yojanas, without any labour, is the meaning intended. For the word दीर्घयाथैः (*dīrghayāthaiḥ*) the meaning "flowing for a very long time or for a very great distance"
 
+### Printed p. 760
+
+*Running head: 760 Sāyaṇa-bhāṣya-sahitā; [Maṇḍala 2, Adhyāya 2, Sūkta 15].*
+
+**Special Topics (continued)**
+
+it can be said to have two kinds of meaning: "flowing". पथिभिः (*pathibhiḥ*) पथिभिः (*pathibhiḥ*) means "by paths" or "by river-beds". In this sentence the word नदीः (*nadīḥ*) ("the rivers") must be supplied.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> स प्र॑वो॒ळ्हन्प॑रि॒गत्या॑ द॒भीते॒र्विश्व॑मधा॒गायु॑धमि॒द्दे आ॒ग्नौ ।
+> सं गोभि॒रश्वै॑रसृज॒द्रथे॑भिः॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+**॥ पदपाठः ॥**
+
+> सः । प्रवोळ्हान् । परिगत्य । दभीतेः । विश्वं । अधाक् । आयुधं । इद्दे । अग्नौ ।
+> सं । गोभिः । अश्वैः । असृजत् । रथेभिः । सोमस्य । ता । मदे । इंद्रः । चकार ॥४॥
+
+**॥ सायणभाष्यम् ॥**
+
+> प्राक्किल चुमुरिधुनिप्रभृतयोऽसुरा दभीतेः पुरं संरुध्य परिगृह्य तस्मात्पु-
+> रान्निरगुरिति कथा । स इंद्रो दभीतेः । दभीतिर्नाम कश्चिद्राजर्षिः । तस्य प्रवोळ्हान्
+> प्रवोढन् ॥ सहिवहोरोदवर्णस्येत्योत्वं ॥ प्रकर्षेण तं दभीतिं वहतस्तानसु-
+> रान् मध्यॆ मार्गं परिगण्य तेषां विश्वं सर्वमायुधमिद्धेऽग्नौ दीप्यमाने
+> वह्नावधाक् । अधाक्षीत् ॥ दहेर्लुजि मंत्रे घसेत्यादिना चेर्लुक् ॥ पश्चात्तं
+> दभीतिं गोभिरश्वै रथेभी रथैश्च समसृजत् । संयोजितवान् । सोमस्यादि सिद्ध-
+> मिति ॥
+
+> *prākkila cumuridhuniprabhṛtayo 'surā dabhīteḥ puraṃ saṃrudhya parigṛhya tasmātpu-*
+> *rānniraguriti kathā | sa iṃdro dabhīteḥ | dabhītirnāma kaścidrājarṣiḥ | tasya pravoḷhān*
+> *pravoḍhan ‖ sahivahorodavarṇasyetyotvaṃ ‖ prakarṣeṇa taṃ dabhītiṃ vahatastānasu-*
+> *rān madhyè mārgaṃ parigaṇya teṣāṃ viśvaṃ sarvamāyudhamiddhe 'gnau dīpyamāne*
+> *vahnāvadhāk | adhākṣīt ‖ daherluji maṃtre ghasetyādinā cerluk ‖ paścāttaṃ*
+> *dabhītiṃ gobhiraśvai rathebhī rathaiśca samasṛjat | saṃyojitavān | somasyādi siddha-*
+> *miti ‖*
+
+Gist: In the past the Asuras Chumuri, Dhuni and others besieged the city of Dabhiti and seized him; Indra met them on the way, burnt all their weapons in the fire and gave Dabhiti their cattle, horses and chariots. The commentary then adds grammatical remarks (on प्रवोळ्हान् (*pravoḷhān*) and अधाक् (*adhāk*)), not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—Indra. दभीतेः (*dabhīteḥ*)—the royal sage named Dabhiti. प्रवोळ्हान् (*pravoḷhān*)—the Asuras who were carrying (him) off. परिगत्य (*parigatya*)—confronting. विश्वं (*viśvaṃ*)—their entire. आयुधं (*āyudhaṃ*)—weapons. इद्दे (*idde*)—in the kindled. आग्नौ (*āgnau*)—fire. अधाक् (*adhāk*)—he burnt. गोभिः (*gobhiḥ*)—with (the Asuras') cattle. अश्वैः (*aśvaiḥ*)—with horses. रथेभिः (*rathebhiḥ*)—with chariots. समसृजत् (*samasṛjat*)—he united Dabhiti (with them). सोमस्य (*somasya*)—by the drinking of Soma juice. मदे (*made*)—when joy arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—performed.
+
+### Printed p. 761
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 15] Ṛgvedasaṃhitā; p. 761.*
+
+**भावार्थ (Bhāvārtha)**
+
+Indra confronted the Asuras who were carrying off the royal sage Dabhiti, and burnt all their weapons in the kindled fire. Their cattle, horses and chariots he caused to be given over to Dabhiti. When joy arose from drinking the Soma juice, Indra accomplished these great deeds.
+
+**Printed English translation**
+
+Encountering the(Asuras), carrying off Dabhiti, he burnt all their weapons in a kindled fire, and enriched(the prince) with their cattle, their horses, and their chariots: in the exhilaration of the Soma, Indraa [sic] has done these(deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk Indra's protection of the royal sage Dabhiti is described. In Ṛk 1-112-23 of the Ṛgveda-saṃhitā it is said that the Aśvins protected Dabhiti. But since everywhere else it is Indra who is said to have protected Dabhiti, it is only right that this heroic deed be attributed to Indra. Dabhiti has been mentioned on page 707 of this same part. The commentator says: in the past the two Asuras named Chumuri and Dhuni besieged the city of the royal sage Dabhiti and, while they were fleeing with him abducted, Indra killed those Asuras and protected Dabhiti; this is the story, and it is what is described in this Ṛk.
+
+इंद्रो धुनिं च चुमुरिं च दंभयञ्छद्धामनस्या शृणुते दभीतये । (*iṃdro dhuniṃ ca cumuriṃ ca daṃbhayañchaddhāmanasyā śṛṇute dabhītaye |*) (Ṛ. Saṃ. 10-113-9)
+
+स्वप्नेनाभ्युप्या चुमुरिं धुनिं च जघंथ दस्युं प्र दभीतिमावः । (*svapnenābhyupyā cumuriṃ dhuniṃ ca jaghaṃtha dasyuṃ pra dabhītimāvaḥ |*) (Ṛ. Saṃ. 2-15-9)
+
+त्वं नि दस्युं चुमुरिं धुनिं चास्वापयो दभीतये सुहंतु । (*tvaṃ ni dasyuṃ cumuriṃ dhuniṃ cāsvāpayo dabhītaye suhaṃtu |*) (Ṛ. Saṃ. 7-19-4) (the reference is printed twice, the second time with the abbreviation Ma. Saṃ.)
+
+In these Ṛks it is said that Indra made the Asuras Chumuri and Dhuni fall into a deep sleep, that is, swoon, and so released and protected Dabhiti.
+
+तव ह त्यदिंद्र विश्वमाजौ सस्तो धुनीचुमुरी या ह सिष्वप् । (*tava ha tyadiṃdra viśvamājau sasto dhunīcumurī yā ha siṣvap |*)
+दीदयदित्तुभ्यं सोमेभिः सुन्वन् दभीतिरिध्मभृतिः पक्थ्यंर्कैः ॥ (*dīdayadittubhyaṃ somebhiḥ sunvan dabhītiridhmabhṛtiḥ pakthyaṃrkaiḥ ‖*) (Ma. Saṃ. 6-20-13)
+
+### Printed p. 762
+
+*Running head: 762 Sāyaṇa-bhāṣya-sahitā; [Maṇḍala 2, Adhyāya 2, Sūkta 15].*
+
+त्वं श्रद्धाभिर्मंदसानः सोमैर्दभीतये चुमुरिमिंद्र सिष्वप् । (*tvaṃ śraddhābhirmaṃdasānaḥ somairdabhītaye cumurimiṃdra siṣvap |*) (Ma. Saṃ. 6-26-6)
+
+In these Ṛks it is said that Indra drank the Soma juice prepared by Dabhiti, was gladdened by it, put the Asuras Chamuri and Dhuni to sleep in battle, and protected the royal sage Dabhiti who was being harmed by them.
+
+अस्वापयद्दभीतये सहस्रा त्रिंशतं हथैः । दासानामिंद्रो मायमा । (*asvāpayaddabhītaye sahasrā triṃśataṃ hathaiḥ | dāsānāmiṃdro māyamā |*) (Ma. Saṃ. 4-30-21)
+
+In this Ṛk it is said that, to protect Dabhiti, Indra by the power of his magic put to sleep 30000 (thirty thousand) Dasyu people who were his enemies. These thirty thousand Dasyus may have been the soldiers of the Asuras Chamuri and Dhuni; the main sense is that in the battle they fought with Dabhiti, Indra bewildered the enemy soldiers and protected Dabhiti. It must be called a peculiarity of this subject that wherever Indra is said to have protected Dabhiti, it is said that he put the enemy soldiers, or Dabhiti's chief enemies, the Asuras Dhuni and Chamuri, into a sleep by his magic.
+
+Further, one or two matters concerning the protection of Dabhiti that are not found in the other descriptions of it are stated in this Ṛk: that the enemies carried Dabhiti off (from his town); that their weapons were thrown into the burning fire and destroyed; and that Indra brought the enemies' cattle, horses, chariots and so on into Dabhiti's possession. These are found only in this Ṛk; the description of Dabhiti's protection in the other Ṛks does not have them. But the putting of Dabhiti's enemies to sleep is mentioned there. Probably the expression "put to sleep" is used in the sense of "made them swoon" or "bewildered them".
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स ईं॑ म॒हीं धुनि॒मेतो॑ररम्मा॒त्सो अ॑स्ना॒त्यन॑पारयत्स्व॒स्ति ।
+> त उ॒त्स्नाय॑ र॒यिम॒भि प्र त॑स्थुः॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥ ५ ॥
+
+> *sa īṃ mahīṃ dhunimetorarammātso asnātyanapārayatsvasti |*
+> *ta utsnāya rayimabhi pra tasthuḥ somasya tā mada iṃdraścakāra ‖ 5 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 759 (PDF 759). Sukta 15 Rk 2 Bhavartha and Rk 3 (partial Special Topics)
+**Progress note:** Done through printed p. 762 (PDF 762). Sukta 15 Rk 4 with Special Topics; Rk 5 Samhita
