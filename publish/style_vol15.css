@@ -11,3 +11,8 @@ p > em:only-child { font-size: 8.8pt; color: #555; }
 p { overflow-wrap: break-word; }
 .toc li.ch { padding-left: 1em; }
 .copyright { padding-top: 3in; }
+.kfront { page-break-before: always; font-family: "Noto Serif Kannada", "Lohit Kannada", serif; font-size: 10pt; line-height: 1.6; text-align: left; }
+.kfront p { margin: 0 0 .5em; white-space: pre-line; }
+.kfront .pb { page-break-after: always; }
+.kfront .kfnote { font-family: "Noto Serif", serif; font-style: italic; font-size: 8.5pt; color: #666; text-align: center; margin-bottom: 1.2em; }
+.kfront strong { display: block; text-align: center; margin: .8em 0 .3em; }

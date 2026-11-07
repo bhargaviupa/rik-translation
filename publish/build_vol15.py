@@ -45,6 +45,21 @@ def add_missing_headings(md):
         out.append(line)
     return '\n'.join(out), sorted(done)
 
+def kannada_front_matter():
+    """Original Kannada front matter (title page ... list of abbreviations) of the supplied text, up to the Pīṭhike (printed p. 1)."""
+    lines = (ROOT / 'vol15' / 'html' / 'rig_15_1.md').read_text(encoding='utf-8').split('\n')
+    end = next(i for i, l in enumerate(lines) if l.startswith('\u0950'))      # the Om line that opens printed p. 1
+    keep = []
+    for l in lines[1:end]:                                                     # line 0 is the converter's "Markdown source"
+        if 'This image contains' in l: continue
+        keep.append(re.sub(r'^## (.*)$', r'**\1**', l))
+    md = '\n'.join(keep)
+    md = re.sub(r'\n---\n', '\n\n<div class="pb"></div>\n\n', md)
+    h = pandoc_html(md)
+    return ('<section class="kfront kn"><p class="kfnote">Original Kannada front matter, as supplied (machine-read text, '
+            'not proofread and not yet translated): title page, imprint, dedication, board of scholars, translator\'s note, '
+            'preface, contents and list of abbreviations.</p>' + h + '</section>')
+
 def pandoc_html(md):
     r = subprocess.run(['pandoc', '-f', 'markdown-yaml_metadata_block-smart+pipe_tables', '-t', 'html5', '--wrap=none'],
                        input=md, capture_output=True, text=True, check=True)
@@ -97,13 +112,14 @@ def build(html_only=False):
   <div class="who">English Translation by<br><span style="font-size:14pt;letter-spacing:.06em">Bhargavi Upadhya</span><br>
   <i style="font-size:9.5pt">prepared with the assistance of Claude, an AI model by Anthropic</i><br><br>
   <span style="font-size:9.5pt">Based on the Kannada edition of Asthāna Mahāvidvān H. P. Venkata Rao, Editor<br>
-  Śrī Jayacāmarājendra Vedaratna-mālā · Mysore, 1949</span></div>
+  Śrī Jayacāmarājendra Vedaratna-mālā · Mysore, 1952</span></div>
 </section>
-<section class="copyright"><p>Working text. Printed pages 1–800 of the supplied Kannada text; the front matter of the Kannada volume (title page, imprint, dedication, translator's note, preface, contents, abbreviations) is not yet translated.</p>
+<section class="copyright"><p>Working text. English translation of printed pages 1–800 of the supplied Kannada text. The front matter of the Kannada volume (title page, imprint, dedication, board of scholars, translator's note, preface, contents, abbreviations) follows here in the original Kannada, as supplied; it is not yet translated.</p>
 <p>Square-bracketed italic notes record the state of the supplied text (garbled words, printed variants, stray lines). Numbers and readings are given as supplied; doubtful places are marked [?].</p></section>'''
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Ṛgveda-saṃhitā, Volume 15</title>
 <link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../style_vol15.css"></head><body>
 {front}
+{kannada_front_matter()}
 {chr(10).join(tochtml)}
 {body}
 </body></html>'''
