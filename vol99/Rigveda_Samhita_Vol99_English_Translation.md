@@ -4314,6 +4314,123 @@ In the work called Bṛhaddevatā there is an account concerning this sūkta—
 
 Once upon a time, Gṛtsamada, the seer of this sūkta, performed austerity and, by its power, assumed the great form of Indra, and moved invisibly, unseen by the eye, in the regions where Indra dwells, such as the atmosphere and heaven, within a moment. Then two demons of great prowess, Dhuni and Cumuri, taking Gṛtsamada, who was moving in this way, to be Indra himself, and him— (the supplied text breaks off here, mid-sentence, at the end of printed p. 642: the Kannada ends with the word ಅವನನ್ನು, "him").
 
+### Printed p. 643
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 643.*
+
+**Anuvāda (Kannada)** (continued from p. 642)
+
+[Having taken him to be Indra, the two demons] chased the seer, brandishing their weapons in order to kill him. Gṛtsamada, who was in Indra's form, understood the evil intention of these demons, and with this present sūkta beginning यो जात एव (*yo jāta eva*) he described and praised the heroic deeds of Indra: so it is said. Besides this—
+
+**Sāyaṇa-bhāṣya (introduction, continued; Sanskrit transcribed)**
+
+> अन्ये त्वन्यथा वर्णयंति । पुरा किलेंद्रादयो वैन्ययज्ञं समाजग्मुः ।
+> गृत्समदोऽपि तत्रागत्य सदस्यासीत् । दैत्याश्चेंद्रजिघांसया तत्र समा-
+> गमन् । तान् दृष्ट्वा निर्जगामेंद्रो यज्ञाद्गृत्समदाकृतिः । स च गृत्स-
+> मदो वैन्येन पूजितो यज्ञवाटान्निरगच्छत् । निर्गच्छंतं तमृषिं
+> दृष्ट्वा अयमेवेंद्र इति मन्यमानास्तमसुरा परिवपुः । नाहमिंद्र-
+> स्तुच्छः किंत्वेवंगुणोपेत स इत्यनेन सूक्तेन तान्प्रत्युवाच ॥
+
+> *anye tvanyathā varṇayaṃti | purā kileṃdrādayo vainyayajñaṃ samājagmuḥ |*
+> *gṛtsamado 'pi tatrāgatya sadasyāsīt | daityāśceṃdrajighāṃsayā tatra samā-*
+> *gaman | tān dṛṣṭvā nirjagāmeṃdro yajñādgṛtsamadākṛtiḥ | sa ca gṛtsa-*
+> *mado vainyena pūjito yajñavāṭānniragacchat | nirgacchaṃtaṃ tamṛṣiṃ*
+> *dṛṣṭvā ayameveṃdra iti manyamānāstamasurā parivapuḥ | nāhamiṃdra-*
+> *stucchaḥ kiṃtvevaṃguṇopeta sa ityanena sūktena tānpratyuvāca ‖*
+
+Others, however, tell it in another way: in former times Indra and the other gods came to the sacrifice made by one named Vena. The seer Gṛtsamada also came there and was seated. Then the demons came there intending to kill Indra. Indra, knowing this trick, left the sacrificial ground in the guise of Gṛtsamada and went away. Gṛtsamada alone stayed there until Vena's sacrifice was completed, and, honoured by Vena, was setting out for his own hermitage. The demons saw that seer going to his hermitage, thought that Indra himself was going disguised as a seer, and surrounded him. Then Gṛtsamada said to those demons: "I am not that Indra; the qualities of that mean Indra are such as these"; so, describing in every Ṛk one quality of Indra, "O demon folk, he who has such qualities is that Indra, not I," he pacified them and went away to his hermitage.
+
+> अपरे त्वेवं कथयंति । गृत्समदस्य यज्ञे प्रविष्टमेकाकिनमिंद्रं ज्ञात्वा-
+> सुराः परिववुः । स इंद्रो गृत्समदरूपेण यज्ञवाटान्निर्गत्य स्वर्गं
+> जगाम । ततोऽसुरा इंद्रो विलंबित इत्यंतः प्रविश्य गृत्समदं दृष्ट्वा
+> पूर्वमेव गृत्समदो गतः अयं त्तिंद्रोऽस्मद्भयाद्गृत्समदरूपेणास्त
+> इति तं जगृहुः । स तान् नाहमिंद्रोऽयमित्यनेन सूक्तेन प्रत्युवाच ।
+> आयमेवार्थो महाभारते प्रपंचितः ॥
+
+> *apare tvevaṃ kathayaṃti | gṛtsamadasya yajñe praviṣṭamekākinamiṃdraṃ jñātvā-*
+> *surāḥ parivavuḥ | sa iṃdro gṛtsamadarūpeṇa yajñavāṭānnirgatya svargaṃ*
+> *jagāma | tato 'surā iṃdro vilaṃbita ityaṃtaḥ praviśya gṛtsamadaṃ dṛṣṭvā*
+> *pūrvameva gṛtsamado gataḥ ayaṃ ttiṃdro 'smadbhayādgṛtsamadarūpeṇāsta*
+> *iti taṃ jagṛhuḥ | sa tān nāhamiṃdro 'yamityanena sūktena pratyuvāca |*
+> *āyamevārtho mahābhārate prapaṃcitaḥ ‖*
+
+Still others say as follows: the seer Gṛtsamada was once performing a sacrifice. The Asuras learned that Indra had come in there alone and surrounded the sacrificial house. Meanwhile Indra, knowing this, took the form of the seer Gṛtsamada, left the sacrificial house, and reached heaven, his dwelling-place. Then, after waiting a very long time and seeing that Indra did not come out, the Asuras entered the sacrificial house, saw Gṛtsamada there, and said, "What is this?
+
+### Printed p. 644
+
+*Running head: Sāyaṇa-bhāṣya-sahitā; Maṇḍala 2, Adhyāya 2 [as supplied], Sūkta 12; p. 644.*
+
+Gṛtsamada has already gone away; how then has a Gṛtsamada come here? It is Indra himself who, afraid of us, sits here in the form of this Gṛtsamada," and they seized him (Gṛtsamada). Then Gṛtsamada said to those Asuras, "I am not Indra," and, describing the qualities of Indra with this sūkta, he pacified the Asuras and sent them away. This story is told in the Mahābhārata also.
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 12. Maṇḍala 2, Anuvāka 2, Sūkta 12. Aṣṭaka 2, Adhyāya 6, Varga 7, 8, 9. Number of ṛks in the sūkta: 15. Seer: Gṛtsamada. Deity: Indra. Metre: ತ್ರಿಷ್ಟ್ಪ (as supplied; Triṣṭubh is meant, but the supplied spelling is kept).
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> यो जा॒त ए॒व प्र॑थ॒मो मन॑स्वान्दे॒वो दे॒वान्क्रतु॑ना प॒र्युभू॑षत् ।
+> यस्य॒ शुष्मा॒द्रोद॑सी॒ अभ्य॑सेतां नृ॒म्णस्य॑ म॒ह्ना स ज॑नास॒ इंद्रः॑ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> यः । जातः । एव । प्रथमः । मनस्वान् । देवः । देवान् । क्रतुना । परिअभूषत् ।
+> यस्य । शुष्मात् । रोदसी इति । अभ्यसेतां । नृम्मस्य । मह्ना । सः । जनासः । इंद्रः ॥
+
+> *yaḥ | jātaḥ | eva | prathamaḥ | manasvān | devaḥ | devān | kratunā | pariabhūṣat |*
+> *yasya | śuṣmāt | rodasī iti | abhyasetāṃ | nṛmmasya | mahnā | saḥ | janāsaḥ | iṃdraḥ ‖*
+
+### Printed p. 645
+
+*Running head: [Aṣṭaka 2, Adhyāya 6, Varga 7.] Ṛgvedasaṃhitā, p. 645.*
+
+**॥ सायणभाष्यम् ॥**
+
+> गृत्समदो ब्रूते । जनासो जना हे असुराः यो जात एव जायमान
+> एव सन् प्रथमो देवानां प्रधानभूतो मनस्वान् मनस्सिनामग्रगण्यो देवो
+> द्योतमानः सन् क्रतुना वृत्रवधादिलक्षणेन स्वकीयेन कर्मणा देवान् सर्वान्याग-
+> देवान्पर्यभूषत् । रक्षकत्वेन पर्यग्रहीत् ॥ भूष अलंकारे भूवादिः । लजि
+> रूपं ॥ यद्वा सर्वानन्यान्देवान्पर्यभूषत् पर्यभवत् । अत्यक्रामत् ॥ अस्मिन्पक्षे
+> भवतेर्व्यत्ययेन क्सः । श्रुकः कितीतीट्प्रतिषेधः ॥ यस्येंद्रस्य शुष्मात् शरीरात्
+> बलात् रोदसी द्यावापृथिव्यावभ्यसेतां । अबिभीतां ॥ भ्यस भये । अनुदात्तेत् ।
+> भ्यस भयवेपनयोरिति नैरुक्ताः । नि- ३-२१ ॥ अभ्यसेतामवेपेतां वा । तथा च
+> मंत्रांतरं । इमे चित्तव मन्यवे वेपेते भियसा मही । १-८०-११ । इति । नृम्मस्य
+> सेनालक्षणस्य बलस्य मह्ना महत्वेन युक्तः स इंद्रो नाहमिति ॥ अत्र निरुक्तं ।
+> यो जायमान एव प्रथमो मनस्वी देवो देवान्कतुना कर्मणा पर्यभव-
+> त्पर्यगृह्णात्पर्यरक्षदत्यक्रामदिति वा यस्य बलवादा न्वापृथिव्यावप्यबिभीतां
+> नृम्मस्य मह्ना बलस्य महत्वेन स जनास इंद्र इत्यृषेर्दृष्टार्थस्य प्रीतिर्भवत्या-
+> ख्यानसंयुक्ता । नि- १०-१० । इति ॥
+
+> *gṛtsamado brūte | janāso janā he asurāḥ yo jāta eva jāyamāna*
+> *eva san prathamo devānāṃ pradhānabhūto manasvān manassināmagragaṇyo devo*
+> *dyotamānaḥ san kratunā vṛtravadhādilakṣaṇena svakīyena karmaṇā devān sarvānyāga-*
+> *devānparyabhūṣat | rakṣakatvena paryagrahīt ‖ bhūṣa alaṃkāre bhūvādiḥ | laji*
+> *rūpaṃ ‖ yadvā sarvānanyāndevānparyabhūṣat paryabhavat | atyakrāmat ‖ asminpakṣe*
+> *bhavatervyatyayena ksaḥ | śrukaḥ kitītīṭpratiṣedhaḥ ‖ yasyeṃdrasya śuṣmāt śarīrāt*
+> *balāt rodasī dyāvāpṛthivyāvabhyasetāṃ | abibhītāṃ ‖ bhyasa bhaye | anudāttet |*
+> *bhyasa bhayavepanayoriti nairuktāḥ | ni- 3-21 ‖ abhyasetāmavepetāṃ vā | tathā ca*
+> *maṃtrāṃtaraṃ | ime cittava manyave vepete bhiyasā mahī | 1-80-11 | iti | nṛmmasya*
+> *senālakṣaṇasya balasya mahnā mahatvena yuktaḥ sa iṃdro nāhamiti ‖ atra niruktaṃ |*
+> *yo jāyamāna eva prathamo manasvī devo devānkatunā karmaṇā paryabhava-*
+> *tparyagṛhṇātparyarakṣadatyakrāmaditi vā yasya balavādā nvāpṛthivyāvapyabibhītāṃ*
+> *nṛmmasya mahnā balasya mahatvena sa janāsa iṃdra ityṛṣerdṛṣṭārthasya prītirbhavatyā-*
+> *khyānasaṃyuktā | ni- 10-10 | iti ‖*
+
+*Gist:* Gṛtsamada speaks: O demons, he who, the moment he was born, became the foremost of the gods, wise and shining, and by his own deeds such as the slaying of Vṛtra guarded or surpassed all the gods, and at whose strength heaven and earth trembled, that is Indra, not I. The grammatical tail (the forms पर्यभूषत् (*paryabhūṣat*) and अभ्यसेतां (*abhyasetāṃ*)) and the Nirukta passage are not explained here.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Janāsaḥ: O people. Yaḥ: who. Jāta eva: immediately on being born. Prathamaḥ: the foremost, chief among the gods. Manasvān: firm in mind. Devaḥ: shining. Kratunā: by his deed in the form of the slaying of Vṛtra and the like. Devān: all the gods. Paryabhūṣat: honoured and protected; and yasya: whose; śuṣmāt: by the strength of the body; rodasī: both heaven and earth; abhyasetāṃ: were frightened; nṛmmasya: of the strength in the form of an army; mahnā: joined with greatness; saḥ: that very one; indraḥ: is Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who, immediately on being born, became the chief of the gods, firm of mind and shining, and who by his deed such as the slaying of Vṛtra honoured and protected all the gods, and by whose bodily strength heaven and earth were both frightened, he who is joined with the greatness of strength in the form of an army, he is Indra. [Kannada: ದ್ಯೋತಮಾನನಃ, as supplied; the full stop at the end is missing in the supplied text.]
+
+**Printed English**
+
+He who as soon as born, is the first(of the deities); who has done honour to the gods by his exploits; he, at whose might heaven and earth are alarmed, and(who is known) by the greatness of his strength, he, men, is Indra.
+
 ---
 
-**Progress note:** Done through printed p. 642 (PDF 642). Dakshina special topics ended; Sukta 12 introduction (bhashya, Anuvada begun, Brihaddevata verses)
+**Progress note:** Done through printed p. 645 (PDF 645). Sukta 12 intro continued (Anuvada, bhashya), heading, Rik 1 with Samhita from figure
