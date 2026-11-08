@@ -1,0 +1,9 @@
+/* Kannada edition: Kannada script is the main text */
+html { font-family: "Noto Serif Kannada", "Lohit Kannada", "Noto Serif", "Lohit Devanagari", "Noto Serif Devanagari", serif; font-size: 10.5pt; line-height: 1.65; text-align: left; hyphens: none; }
+blockquote { font-family: "Noto Serif Kannada", "Lohit Kannada", serif; }
+p.lab { text-align: center; font-weight: 700; font-style: normal; margin: 1.1em 0 .35em; font-size: 10pt; letter-spacing: .02em; page-break-after: avoid; }
+p > em:only-child { font-style: normal; color: #444; }
+p { white-space: normal; }
+h3.pg { font-family: "Noto Serif", serif; }
+.cover .cap, .titlepage .sub, .titlepage .who, .copyright, .portrait, .toc { font-family: "Noto Serif", "Noto Serif Kannada", serif; text-align: center; }
+.copyright { text-align: left; }
