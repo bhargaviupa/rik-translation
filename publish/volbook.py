@@ -67,12 +67,11 @@ def scan(img, cls='scan', alt=''):
 def contents_html(cfg):
     c = cfg['contents']
     lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
-    blocks = contents_parse.parse(lines, 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ', 'ಸಂಕೇತಾಕ್ಷರಗಳ')
-    fx = ROOT / c['fixes'] if c.get('fixes') else None
-    if fx and fx.exists():
-        f = json.loads(fx.read_text(encoding='utf8'))
-        for b in blocks:
-            if b['t'] == 'item' and str(b['src']) in f: b['page'] = f[str(b['src'])]
+    fxp = ROOT / c['fixes'] if c.get('fixes') else None
+    f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
+    blocks = contents_parse.parse(lines, 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ', 'ಸಂಕೇತಾಕ್ಷರಗಳ', f)
+    for b in blocks:
+        if b['t'] == 'item' and isinstance(f.get(str(b['src'])), int): b['page'] = f[str(b['src'])]
     h = c['heading']
     out = [f'<section class="pcontents kn"><p class="ph1">{h[0]}</p><p class="ph2">{h[1]}</p><p class="ph3">{h[2]}</p>']
     for b in blocks:
@@ -150,6 +149,10 @@ def write(doc, name, html_only):
         HTML(string=doc, base_url=str(out)).write_pdf(out / f'{name}.pdf')
         print(f'wrote out/{name}.pdf')
 
+def abbreviations(cfg):
+    role = cfg['front'].get('abbreviations')
+    return scan(fm(cfg)[role], 'scan', 'List of abbreviations') + '\n' if role else ''
+
 def build_eng(cfg, html_only):
     md = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
@@ -179,7 +182,8 @@ def build_eng(cfg, html_only):
         idx.append(f'<li class="{"su" if cls == "part" else "ch sk"}"><a href="#{hid}">{html.escape(lab)}</a></li>')
     idx.append('</ul></section>')
     ch, blocks = contents_html(cfg)
-    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + '\n'.join(idx) + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only)
+    ab = abbreviations(cfg)
+    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + ab + '\n'.join(idx) + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only)
 
 def kannada_front_matter_fallback(cfg):
     """Only used when the volume has no preface scans: the supplied text up to the Pīṭhike (the Om line that opens printed p. 1)."""
@@ -201,7 +205,7 @@ def build_kan(cfg, html_only):
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
     ch, blocks = contents_html(cfg)
-    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only)
+    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + abbreviations(cfg) + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only)
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--')]

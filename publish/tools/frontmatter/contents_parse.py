@@ -10,14 +10,17 @@ Rules: '---', roman page marks (iv, *vii*, '## v'), image-description lines are 
 containing 'ಸೂಕ್ತ' is a sukta heading; a line ending in a number is an item with that page; a line without a number is joined with the
 following one (max 2 lines) and written as an item without page if none follows.
 --check lists what is suspicious: items without a page, pages that go DOWN inside the volume (OCR errors such as 125 read as 1).
---fixes: JSON {"<line_no>": page, ...} (line numbers of the source md, as printed by --check) applied before writing.
+--fixes: JSON {"<line_no>": page, ...} (line numbers of the source md, as printed by --check) applied before writing;
+         {"<line_no>": {"page": N, "nojoin": true}} for an item whose own page number is missing in the md (it would otherwise be
+         joined with the next line). Every fix must be justified by the printed scan in volN/review/contents_check.md.
 """
 import argparse, json, re, sys, pathlib
 
 KDIG = '೦-೯'
 ROMAN = re.compile(r'^(?:##\s*)?\*?(?:[ivxlc]{1,6})\*?$', re.I)
 
-def parse(lines, start_word, end_word):
+def parse(lines, start_word, end_word, fixes=None):
+    fixes = fixes or {}
     idx = [i for i, l in enumerate(lines) if start_word in l]
     s = idx[1] if len(idx) > 1 else idx[0]
     e = next(i for i, l in enumerate(lines) if end_word in l and i > s)
@@ -47,6 +50,9 @@ def parse(lines, start_word, end_word):
         else:
             if pend: blocks.append({'t': 'item', 'text': pend[1], 'page': None, 'src': pend[0]})
             pend = (i + 1, txt)
+            fx = fixes.get(str(i + 1))
+            if isinstance(fx, dict) and fx.get('nojoin'):          # this line is a complete item whose page number the OCR lost
+                blocks.append({'t': 'item', 'text': txt, 'page': fx['page'], 'src': i + 1}); pend = None
     flush()
     return blocks
 
@@ -65,11 +71,11 @@ def main():
     ap.add_argument('--start', default='ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'); ap.add_argument('--end', default='ಸಂಕೇತಾಕ್ಷರಗಳ')
     a = ap.parse_args()
     lines = pathlib.Path(a.md).read_text(encoding='utf-8').split('\n')
-    blocks = parse(lines, a.start, a.end)
-    if a.fixes and pathlib.Path(a.fixes).exists():
-        fx = json.loads(pathlib.Path(a.fixes).read_text(encoding='utf8'))
-        for b in blocks:
-            if b['t'] == 'item' and str(b['src']) in fx: b['page'] = fx[str(b['src'])]
+    fx = json.loads(pathlib.Path(a.fixes).read_text(encoding='utf8')) if a.fixes and pathlib.Path(a.fixes).exists() else {}
+    blocks = parse(lines, a.start, a.end, fx)
+    for b in blocks:
+        v = fx.get(str(b['src']))
+        if b['t'] == 'item' and isinstance(v, int): b['page'] = v
     print(f'{sum(b["t"]=="sukta" for b in blocks)} sūktas, {sum(b["t"]=="item" for b in blocks)} items')
     if a.check:
         for p in check(blocks): print('CHECK', *p, sep='\t')

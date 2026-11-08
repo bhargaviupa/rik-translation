@@ -1,5 +1,5 @@
 {
- "source": "f905a7ad-Rig_Vol15t.pdf",
+ "source": "ac2fedfb-Rig_Vol15T.pdf",
  "pages": [
   {
    "n": 1,
@@ -77,6 +77,34 @@
    "role": "contents4",
    "w": 827,
    "h": 1184
+  },
+  {
+   "n": 12,
+   "file": "fm_12.jpg",
+   "role": "contents5",
+   "w": 820,
+   "h": 1165
+  },
+  {
+   "n": 13,
+   "file": "fm_13.jpg",
+   "role": "contents6",
+   "w": 829,
+   "h": 1176
+  },
+  {
+   "n": 14,
+   "file": "fm_14.jpg",
+   "role": "contents7",
+   "w": 798,
+   "h": 1143
+  },
+  {
+   "n": 15,
+   "file": "fm_15.jpg",
+   "role": "abbreviations",
+   "w": 444,
+   "h": 1087
   }
  ]
 }

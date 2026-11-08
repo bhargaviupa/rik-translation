@@ -1,5 +1,7 @@
-# Vol 15 printed contents — check against the clean scan (user's front-matter PDF, Nov 8 2026)
-- Scan pages iii–vi (items up to p. 488): all 83 page numbers equal the supplied md (compared item by item).
-- Scan pages vii–ix are not in the user's PDF; their numbers are as in the supplied md. `contents_parse.py --check` flags one:
-  md line 318 "ಜಾತವೇದಶ್ಯಬ್ದ ವಿವರಣೆ 443" (page goes down after 538). Set to **543** in `vol15/contents_fixes.json`: it fits the sequence
-  (538 < 543 < 549) and the Jātavedas discussion is on printed pp. 541–544 of the translation (p. 443 has none). **User to confirm on the scan.**
+# Vol 15 printed contents — check against the user's complete front-matter scan (Nov 8 2026, 15 pages, contents iii–ix)
+- All 159 page numbers of the typeset contents were compared item by item with the scan (pages iii–ix): identical.
+- One repair was needed in the md text: line 393 "ಮಾತರಿಶ್ವಾ ಎಂಬ ಶಬ್ದದ ನಿರ್ವಚನ" lost its number (766) in the machine reading and had been joined to the next line;
+  `vol15/contents_fixes.json` restores it as its own item (page 766, as printed).
+- "ಜಾತವೇದಶ್ಯಬ್ದ ವಿವರಣೆ **443**" (md line 318) is **as printed** on p. vii of the original (the sequence reads 538, 443, 549; the Jātavedas
+  discussion is on pp. 541–544, so 543 was probably meant). Kept as printed, not corrected; `contents_parse.py --check` flags it.
+  (An earlier version of this build set 543 before the full scan was available: reverted.)
