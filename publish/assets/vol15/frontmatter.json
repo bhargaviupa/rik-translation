@@ -1,0 +1,82 @@
+{
+ "source": "f905a7ad-Rig_Vol15t.pdf",
+ "pages": [
+  {
+   "n": 1,
+   "file": "fm_01.jpg",
+   "role": "cover",
+   "w": 1047,
+   "h": 1276
+  },
+  {
+   "n": 2,
+   "file": "fm_02.jpg",
+   "role": "title",
+   "w": 510,
+   "h": 1153
+  },
+  {
+   "n": 3,
+   "file": "fm_03.jpg",
+   "role": "portrait",
+   "w": 766,
+   "h": 1181
+  },
+  {
+   "n": 4,
+   "file": "fm_04.jpg",
+   "role": "permission",
+   "w": 828,
+   "h": 260
+  },
+  {
+   "n": 5,
+   "file": "fm_05.jpg",
+   "role": "board",
+   "w": 815,
+   "h": 1204
+  },
+  {
+   "n": 6,
+   "file": "fm_06.jpg",
+   "role": "preface1",
+   "w": 835,
+   "h": 1124
+  },
+  {
+   "n": 7,
+   "file": "fm_07.jpg",
+   "role": "preface2",
+   "w": 826,
+   "h": 600
+  },
+  {
+   "n": 8,
+   "file": "fm_08.jpg",
+   "role": "contents1",
+   "w": 800,
+   "h": 1084
+  },
+  {
+   "n": 9,
+   "file": "fm_09.jpg",
+   "role": "contents2",
+   "w": 823,
+   "h": 1175
+  },
+  {
+   "n": 10,
+   "file": "fm_10.jpg",
+   "role": "contents3",
+   "w": 809,
+   "h": 1149
+  },
+  {
+   "n": 11,
+   "file": "fm_11.jpg",
+   "role": "contents4",
+   "w": 827,
+   "h": 1184
+  }
+ ]
+}
