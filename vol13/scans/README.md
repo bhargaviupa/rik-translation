@@ -1,3 +1,3 @@
 Vol 13 scans go in this folder, in page order, named `12 rigveda samhita volume 13 1.pdf`, `… 2.pdf`, … (the number before `.pdf` sets the order; Git LFS if large). Use the best (high-resolution, ~600 dpi) scan from the start; do not translate from a low-resolution copy.
 
-**Scans removed (Nov 7 2026, on the user's confirmation):** the PDF scan files of this volume were `git rm`-ed after the translation/verification passes. Git history keeps them: `git checkout fd9796f -- "vol13/scans/<file>.pdf"` restores one.
+**Scans were removed from the repository on Nov 7–8 2026 and purged from all git history (user decision: repo size).** They cannot be restored from git; the originals are held by the user. To work with a scan locally, copy it into this folder: `.gitignore` keeps `vol*/scans/*` (except this README) out of commits.
