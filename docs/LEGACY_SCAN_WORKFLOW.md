@@ -53,3 +53,6 @@ Scans stay ordinary files in git (not LFS; no history rewrite). To keep sessions
 
 ## Lessons for new volumes' set-up (Oct 30, 2026; details in `vol13/vol13_runbook.md`, last section)
 Do not run whole-volume Tesseract scans (20+ min; used only to locate). Read printed page numbers from header-strip contact sheets (`vol13/tools/numsheets.py`, header row located by ink profile, not a fixed fraction). Crops are whole-page fractions. Check a prompt's claims (e.g. "pages upside down") by eye before building tools. Confirm range numerals against the contents' word forms. Front matter has its own roman numbering. If `git checkout` fails on an LFS "should have been a pointer" file, use the `GIT_LFS_SKIP_SMUDGE=1 … checkout -f` recipe. Kill background jobs by PID.
+
+
+**Update Nov 8 2026 (user):** all scan PDFs were removed from the working tree (Vols 4–12; history keeps them; each `volN/scans/README.md` gives the restore command) and `.gitignore` now ignores `vol*/scans/*`. Scans are no longer committed; keep them outside the repo and put a copy in `volN/scans/` only for a local pass.
