@@ -2876,4 +2876,4 @@ Grammar page, noted briefly. वृक्षासः (*vṛkṣāsaḥ*): root 
 
 ---
 
-**Progress note:** Done through printed p. 101 (PDF 101). pp. 99-101: Sukta 8 Rk 6 grammar finished; Rk 7 through grammar (grammar of Rk 7 continues on p. 101, partial: vrksasah, ksami)
+**Progress note:** Done through printed p. 101 (PDF 101). pp. 99-101: Sukta 8 Rk 6 grammar finished; Rk 7 written through Special Topics; the Rk 7 Vyakarana-prakriyā is only begun (vrksasah, ksami) and ends with p. 101, so check whether it continues on p. 102
