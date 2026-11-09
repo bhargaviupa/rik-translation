@@ -14449,6 +14449,90 @@ The gods, intending to dwell (in heaven), left, as a dear friend amongst the hum
 
 *(The supplied text ends here, at the end of the printed English of Ṛk 3 on p. 475; Ṛk 4 follows in the next window.)*
 
+### Printed p. 476
+
+*Running head (as supplied): [476 सायणभाष्यसहिता [मं. २ अ. १. सू. ४] (*[476 sāyaṇabhāṣyasahitā [maṃ. 2 a. 1. sū. 4]*).*
+
+*(Continuation of the Special Topics of Ṛk 3 of Sūkta 4 of Maṇḍala 2. As supplied, the label line of the Special Topics reads विशेषयुक्त: (*viśeṣayukta:*); standard label inserted.)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3)**
+
+देवाः क्षेष्यंतः मानुषीषु विक्षु प्रियं मित्रं न धुः (*devāḥ kṣeṣyaṃtaḥ mānuṣīṣu vikṣu priyaṃ mitraṃ na dhuḥ*): two kinds of meaning are explained for this sentence. देवाः स्वर्ग० प्रतिगच्छंतः मनुष्यसंबंधिनीषु प्रजासु अग्निं प्रीणयितारं स्थापितवंतः (*devāḥ svarga0 pratigacchaṃtaḥ manuṣyasaṃbaṃdhinīṣu prajāsu agniṃ prīṇayitāraṃ sthāpitavaṃtaḥ*) (the print has the digit zero for the anusvāra in the second word): the first meaning is that when the gods were going to heaven, they first established among the people who belong to men Agni, who gives them delight. The second meaning is by way of illustration: क्षेष्यंतः मित्रं न— रायं प्रतिगच्छंतो नराः प्रियं सखायं स्वगृहरक्षार्थं स्थापयंति तद्वत् (*kṣeṣyaṃtaḥ mitraṃ na— rāyaṃ pratigacchaṃto narāḥ priyaṃ sakhāyaṃ svagṛharakṣārthaṃ sthāpayaṃti tadvat*): as people going out to gain their wealth place their dear friends to guard their houses, so the gods have placed Agni among men: this second meaning is also explained.
+
+यः दास्यते दमे आ दाक्षाय्यः—एवं देवैः स्थापितः अग्निः हविर्दत्तवते यजमानाय यागगृहे आहितः समर्थयिता दाता वा (*yaḥ dāsyate dame ā dākṣāyyaḥ—evaṃ devaiḥ sthāpitaḥ agniḥ havirdattavate yajamānāya yāgagṛhe āhitaḥ samarthayitā dātā vā*) (as printed): Agni, thus established by the gods, placed in the sacrificial hall in his own dwelling by the sacrificers, fulfils the desired objects of the sacrificer who offers the oblation, or increases the wealth of the sacrificers: thus it is described.
+
+This Agni, उर्माः आ दीदयत् (*urmāḥ ā dīdayat*)—सर्वासु रात्रिषु दीप्यते सर्वरात्रीरादिपयति वा (*sarvāsu rātriṣu dīpyate sarvarātrīrādipayati vā*) (a line-end hyphen inside it is joined): he shines in the night-time, that is, he shines fully the whole night from evening to morning; or he shines in the nights of all days: two kinds of meaning are explained.
+
+#### Ṛk 4
+
+*[The Saṃhitā lines are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्य र॒ण्वा स्वस्ये॑व पु॒ष्टिः संदृ॑ष्टिरस्य हिया॒नस्य॒ धक्षोः॑ ।
+> वि यो भरि॑भ्र॒दोष॑धीषु जि॒ह्वामत्यो॒ न रथ्यो॑ दोधवीति॒ वारा॑न् ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्य । रण्वा । स्वस्य इव । पुष्टिः । संदृष्टिः । अस्य । हियानस्य । धक्षोः ।
+> वि । यः । भरिभ्रत् । ओषधीषु । जिह्वां । अत्यः । न । रथ्यः । दोधवीति । वारान् ॥ ४ ॥
+
+> *asya | raṇvā | svasya iva | puṣṭiḥ | saṃdṛṣṭiḥ | asya | hiyānasya | dhakṣoḥ |*
+> *vi | yaḥ | bharibhrat | oṣadhīṣu | jihvāṃ | atyaḥ | na | rathyaḥ | dodhavīti | vārān ‖ 4 ‖*
+
+### Printed p. 477
+
+*Running head (as supplied): [अ. २ अ. ५ व २४] ऋग्वेदसंहिता 477 (*[a. 2 a. 5 va 24] ṛgvedasaṃhitā 477*).*
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्याग्नेः पुष्टिः शरीरवृद्धी रण्वा रमणीया शब्दयुक्ता वा । तत्र
+> दृष्टांतः । स्वस्य पुष्टिरिव । यथा लोके स्वकीया पुष्टिः स्वस्मै रमणीया भवति
+> तद्वत् । यद्वास्याग्नेः संबंधिनी पुष्टियर्यथा यजमानविषया रण्वा तद्वत् ।
+> किंच हियानस्य समृद्धिं गच्छतो व्याप्नु वतो दक्षोः काष्ठान् दिधक्षोर्दग्धु-
+> मिच्छोरस्याग्नेः संदृष्टिः संदर्शनाविर्भावोऽपि रण्वा । योग्निरोषधीषु काष्ठेषु
+> जिह्वां ज्वालां । जात्येकवचनं । ज्वाला विभरिभ्रत् । अत्यर्थ० विहरति । कंपयती-
+> त्यर्थः ॥ हरतेर्यज्लुगंतत्वेन दाधर्त्यादिषु । पा. ७-४-६५ । निपातिताल्लेट्य-
+> डागमः । यद्योगादनिघातः ॥ तत्र दृष्टांतः । रथ्यो रथार्होऽत्यो न वाजी
+> यथा वारान् दंशवारणसाधनान्वाल्वान् दोधवीति । कंपयति तद्वत् । योS-
+> ग्निर्ज्वालाः कंपयति अस्याग्नेः पुष्टि रण्वति ॥
+
+*Gist:* Agni's growth is delightful like one's own; he shakes his flames among the fuel as a chariot-horse its tail.
+
+*(The bhāṣya contains grammatical remarks, including a reference to Pāṇini, on the verb form, the substitution and the accent; they are transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+रथ्यः—रथवन्नु वहिसलु योग्यवाद (*rathyaḥ—rathavannu vahisalu yogyavāda*) (fit to draw a chariot). अत्यः—अश्ववु (*atyaḥ—aśvavu*) (the horse). वारान्—सॊळ्ळॆगळन्नु ऒडिसुव तन्न बालद गॊंचलन्नु (*vārān—sòḷḷègaḷannu òḍisuva tanna bālada gòṃcalannu*) (the tuft of his tail that drives away mosquitoes (printed "oḍisuva")). दोधवीति न—बीसि आडिसुवंतॆ (*dodhavīti na—bīsi āḍisuvaṃtè*) (like one who sways and shakes it). यः—याव अग्नियु (*yaḥ—yāva agniyu*) (which Agni). ओषधीषु—काष्ठादिगळल्लि (*oṣadhīṣu—kāṣṭhādigaḷalli*) (in the fuel and the like). जिह्वां—जिह्वारूपवाद तन्न ज्वालॆयन्नु (*jihvāṃ—jihvārūpavāda tanna jvālèyannu*) (his flame in the form of a tongue). वि भरिभ्रत्—नाना कडॆगळल्लियू प्रसरिसि विहरिसुत्तानॆयो (*vi bharibhrat—nānā kaḍègaḷalliyū prasarisi viharisuttānèyo*) (he spreads about in many places and ranges). अस्य—आ अग्निय पुष्टियुतवाद प्रसरवु (*asya—ā agniya puṣṭiyutavāda prasaravu*) (the nourished spread of that Agni). स्वस्य— द्रष्टृविन (*svasya— draṣṭṛvina*) (of the seer himself). पुष्टिः इव—स्वंत शरीरद पुष्टियुतवाद बॆळवणिगॆयंतॆ (*puṣṭiḥ iva—svaṃta śarīrada puṣṭiyutavāda bèḷavaṇigèyaṃtè*) (like the nourishing growth of one's own body). रण्वा—रमणीयवागिदॆ (*raṇvā—ramaṇīyavāgidè*) (is delightful). हियानस्य—वृद्धियन्नु हॊंदि हरडुववनू (*hiyānasya—vṛddhiyannu hòṃdi haraḍuvavanū*) (of the one who grows and spreads). धक्षोः—काष्ठादिगळन्नु दहिसुववनू आद अदे अग्निय (*dhakṣoḥ—kāṣṭhādigaḷannu dahisuvavanū āda ade agniya*) (who burns the fuel and the like, of that same Agni). संदृष्टिः—मनोहरवाद दर्शनवू सह आकर्षकवागिदॆ. (*saṃdṛṣṭiḥ—manoharavāda darśanavū saha ākarṣakavāgidè.*) (the charming sight too is attractive).
+
+*[As supplied, the label line of the Bhāvārtha reads भानुवार (*bhānuvāra*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+As a horse fit to draw a chariot sways the tuft of its tail to drive away mosquitoes, the Agni who spreads his flame-like tongue in many places over the fuel and the like: the nourished spread of that Agni is delightful, like the nourishing growth of the seer's own body. The sight of that same Agni, who grows, spreads and burns the fuel and the like, is also attractive.
+
+**Printed English translation**
+
+The cherishing of Agni is as agreeable as (the cherishing) of one's self ; (pleasant) is his appearance, when spreading abroad, and consuming (the fuel) ; he brandishes his flame amongst the bushes, as a chariot-horse lashes with his tail.
+
+### Printed p. 478
+
+*Running head (as supplied): [478 सायणभाष्यसहिता [ मं. २. आ. १. सू ४] (*[478 sāyaṇabhāṣyasahitā [ maṃ. 2. ā. 1. sū 4]*).*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4)**
+
+अस्य पुष्टिः रण्वा स्वस्य पुष्टिरिव (*asya puṣṭiḥ raṇvā svasya puṣṭiriva*)—अग्नेः शरीरवृद्धिः रमणीया शब्दयुक्ता वा । (*agneḥ śarīravṛddhiḥ ramaṇīyā śabdayuktā vā |*) Agni's bodily growth is charming or accompanied by sound. An illustration is given for this: यथा लोके स्वकीया पुष्टिं स्वस्मै रमणीया (*yathā loke svakīyā puṣṭiṃ svasmai ramaṇīyā*) (as printed): as, in the world, the bodily nourishment of living beings is agreeable to each of them, so is the illustration for Agni's bodily growth. यद्वा अस्याग्नेः संबंधिनी पुष्टिः यजमानविषया रणा स्वस्याग्नेः पुष्टिः यथा रण्वा तद्वत् (*yadvā asyāgneḥ saṃbaṃdhinī puṣṭiḥ yajamānaviṣayā raṇā svasyāgneḥ puṣṭiḥ yathā raṇvā tadvat*) (as printed): another kind of meaning is explained: as the growth of this Agni by the oblations offered by the sacrificers is charming toward the sacrificers, so this Agni's own bodily growth also gives joy.
+
+हियानस्य धक्षोः संदृष्टिः रण्वा (*hiyānasya dhakṣoḥ saṃdṛṣṭiḥ raṇvā*)—समृद्धिं गच्छतो कार्ष्णा दग्गु मिच्छोः अस्याग्नेः संदर्शनाविर्भावोपि रण्वा । (*samṛddhiṃ gacchato kārṣṇā daggu micchoḥ asyāgneḥ saṃdarśanāvirbhāvopi raṇvā |*) (as printed): it is explained that the manifestation by which Agni, grown great and wishing to burn the herbs and the like that are in the forest, makes himself appear is also radiant and delightful to all.
+
+रथ्यः अत्यो न वार्ता दोधवीति (*rathyaḥ atyo na vārtā dodhavīti*) (as printed)—रथार्हः वाजी यथा दंशवारणसाधर्ना वार्ला कंपयति तद्वत् अग्निः काष्ठेषु ज्वालाः कंपयति (*rathārhaḥ vājī yathā daṃśavāraṇasādharnā vārlā kaṃpayati tadvat agniḥ kāṣṭheṣu jvālāḥ kaṃpayati*) (as printed): it is explained that as a horse that draws a chariot waves its tail to drive away flies and the like that trouble its body, so Agni, when he spreads over the fuel, makes his flames spread around and tremble. The word अत्य (*atya*) has been read by Yāska among the names of the horse (नि. २-२७ (*ni. 2-27*)).
+
+In this ṛk Agni in the form of a forest fire is described. As the bodily nourishment of people is agreeable and pleasing to them, so when Agni grows great and burns the fuel and the like with a roaring sound, it is charming and delightful to the people who watch it. An illustration is given for this here: when mosquitoes settle on a horse's hindquarters and bite, the horse merely sweeps its tail around to drive them off; in the same way Agni spreads his flames around, envelops trees and the like and burns them: this meaning is described here. It is also said that such a sight, though fearful, is in a way attractive or charming to look at.
+
+*[A stray ornament line of the supplied text, :੦: (*:੦:*), is kept as an italic note in the Kannada text.]*
+
+*(The supplied text ends here, at the end of the Special Topics of Ṛk 4 on p. 478; Ṛk 5 follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 475 (PDF 475). Mandala 2 Sukta 4 Rik 2 and Rik 3 complete; one Saṃhitā reading marked with a query
+**Progress note:** Done through printed p. 478 (PDF 478). Mandala 2 Sukta 4 Rik 3 Special Topics and Rik 4 complete
