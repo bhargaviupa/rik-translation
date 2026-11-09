@@ -4160,6 +4160,99 @@ in these and similar ṛks the word *manojuva* is used in the sense stated above
 
 आहिः (*āhiḥ*) [as printed with the long ā] (root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*)): by आजि श्रिहनिभ्यांह्रस्वश्च (उ सू. ४-५;७७) (*āji śrihanibhyāṃhrasvaśca (u sū. 4-5;77)*) the suffix *iṇ*; shortening of the *ā*; because the suffix is marked *ḍ* the *ṭi* (*an*) of the root is lost; the form is *ahi*. बुध्न्यः (*budhnyaḥ*): बुध्नमहर्तिति बुध्न्यः (*budhnamahartiti budhnyaḥ*) ("he who deserves the atmosphere"): the Vedic suffix *yat* in the sense "deserving"; by the sūtra यस्येति च (*yasyeti ca*) loss of *a*; by तित्‌स्वरितम् (पा. सू. ६-१-१८५) (*titsvaritam (pā. sū. 6-1-185)*) the *svarita* accent occurs. कॆः (*kèḥ*) [as printed, for *kaḥ*] (root डुकृञ् करणे (*ḍukṛñ karaṇe*)): by छंदसि लुज्लज्लिटः (*chaṃdasi lujlajliṭaḥ*) *laṅ* in the sense of the imperative; when *tip* comes, by इतश्च (*itaśca*) loss of *i*; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) *luk* of the thematic suffix; guṇa with *r* of the *ṛ* of the root because of *tip*; by हल्ज्याभ्योदीर्घा—(पा सू. (*haljyābhyodīrghā—(pā sū.*) ६-१-६८) (*6-1-68)*) the loss of *tip*; *visarga* for the *r* because of the pause; by the Vedic rule the augment *aṭ* does not occur; the *nighāta* accent arises. पिप्युषी (*pipyuṣī*) (root ओप्यायी वृद्धौ (*opyāyī vṛddhau*)): when the Vedic *liṭ* comes, by क्वसुश्च (पा. सू. (*kvasuśca (pā. sū.*) ३-२-१०७) (*3-2-107)*) the substitute *kvasu*; by लिड्यजोश्च (पा. सू. ६-१-२९) (*liḍyajośca (pā. sū. 6-1-29)*) the substitute *pī* for the root; doubling and so on of the root because of the suffix; in the feminine, by उगितश्च (*ugitaśca*) *ṅīp*; because of the *bha* designation *saṃprasāraṇa* of the *v* of the suffix, the earlier form; *yaṇ* substitution for the *ī* of the root; by शासिवसिघसीनां च (पा. सू, ८-३-६०) (*śāsivasighasīnāṃ ca (pā. sū, 8-3-60)*) *ṣ* for the *s* of the suffix; from the first-syllable acute of the suffix the word becomes middle-acute. [The window ends here, in the middle of the Ṛk 5 grammar page.]
 
+### Printed p. 148
+
+*Running head: [148 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186]. The window continues the Ṛk 5 grammar page of Sūkta 186 from p. 147, after the *pipyuṣī* entry.*
+
+वेति (*veti*) (root वी गत्यादिषु (*vī gatyādiṣu*)): *leṭ*, third person singular; the verb-*nighāta* accent arises. नपातम् (*napātam*): by नभ्राण् नपात्—(पा सू. ६-३-७५) (*nabhrāṇ napāt—(pā sū. 6-3-75)*) the non-loss of *n* is an irregular form; the accent of the earlier member after *nañ* arises. अपाम् (*apām*): by ऊडिदंपदादि—(पा. सू. ६-१-१७१) (*ūḍidaṃpadādi—(pā. sū. 6-1-171)*) the genitive plural ending is acute. जुनाम (*junāma*) (root जु गतौ (*ju gatau*), "to go"; the sūtra only is named): *kryādi* imperative, first person plural; since the prohibition of *nighāta* arises through यद्वृत्तानित्यम् (*yadvṛttānityam*) the word is middle-acute by the accent of the suffix. वहंति (*vahaṃti*): because of the relative *yat* there is no *nighāta*; by तास्यनुदात्तेत्—(पा. सू. ६-१-१८६) (*tāsyanudāttet—(pā. sū. 6-1-186)*) the *laḥ sārvadhātuka* is unaccented, so the accent of the root remains.
+
+#### Ṛk 6
+
+*[In the supplied text the Saṃhitā and Pada of this ṛk were a picture; the picture was viewed and agrees with the machine text, which has been used.]*
+
+**॥ संहितापाठः ॥**
+
+> उ॒त न॑ ईं॒ त्वष्टा गं॒त्वच्छा॒ स्मत्सू॒रिभि॑रभिपि॒त्वे स॒जोषाः॑ ।
+> आ वृ॑त्र॒हेंद्र॑श्चर्षणि॒प्रास्तु॒ विष्ट॑मो न॒रां न॑ इ॒ह ग॑म्याः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । नः । ईं । त्वष्टा । आ । गंतु । अच्छ । स्मत् । सूरिभिः । अभिपित्वे । सजोषाः ।
+> आ । वृत्रहा । इंद्रः । चर्षणिप्राः । तुविःतमः।नरां।नः । इह । गम्याः ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> त्वष्टा देवोऽपि नोऽस्मानच्छाभिप्राप्तमीमिदानीमिमं यज्ञं वा गंतु ।
+> आगत्य च । स्मत्सहार्थे प्राशस्त्ये ना वर्तते । अत्र प्रशंसायां । प्रशस्तं यथा
+> तथाभिपित्वेऽभिगंतव्ये यज्ञे निमित्तभूते सति सूरिभिः स्तोतृभिर्ऋत्विग्भिः सजोषाः
+> समानप्रीतिर्भवश्विति शेषः । तथा वृत्रहा वृत्रघाती चर्षणिप्राः । चर्षणयो
+> मनुष्या यजमानाः । कामैस्तेषां पूरकस्तु विष्टमो बहुतमो महत्तम इहा-
+> स्मिन्कर्मणि नरां नृणां नोऽस्माकमुक्तगुणोपेतः सन्ना गम्याः । आगच्छतु ॥
+
+*Gist:* May Tvaṣṭṛ come to our sacrifice, in accord with the priests; and may Indra, the Vṛtra-slayer, who fills the wishes of men, come to us.
+
+### Printed p. 149
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4. ] Ṛgveda-saṃhitā 149 (as supplied, "೨. ೨. ಅ. ೫. ವ. ೪.").*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत—मत्तु (*uta—mattu*). त्वष्टा (*tvaṣṭā*) — the deity named Tvaṣṭṛ. नः अभि (*naḥ abhi*) — towards us. ईं (*īṃ*) — to this sacrifice. आ गंतु (*ā gaṃtu*) — may he come; (then) अभिपित्वे (*abhipitve*) — at this sacrifice being performed forthwith. सूरिभिः (*sūribhiḥ*) — with his praisers, the priests. सजोषाः (*sajoṣāḥ*) — being of equal affection. स्मत् (*smat*) — may he make the sacrifice excellent. चर्षणिप्राः (*carṣaṇiprāḥ*) — fulfiller of men's wishes. तुविष्टमः (*tuviṣṭamaḥ*) — of the greatest might. वृताहा [?] (*vṛtāhā [?]*) — the Vṛtra-slayer. इंद्रः (*iṃdraḥ*) — Indra. इह (*iha*) — in this rite. नरां नः (*narāṃ naḥ*) — towards us men. आ गम्याः (*ā gamyāḥ*) — may he come.
+
+*[As supplied, the label line of the next section reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+May the deity named Tvaṣṭṛ come towards us to this sacrifice. At this sacrifice being performed now, being of equal affection with his praisers the priests, may he make the sacrifice excellent; and may Indra, the fulfiller and protector of men's wishes, of the greatest might and the slayer of Vṛtra, come in this rite towards us men.
+
+**Printed English translation**
+
+Or may Twashtri come to this sacrifice, equally well pleased with those who praise (him) at the excellent (rite) at which he is present : may the most potent Indra the protector of man, the destroyer of Vritra, come to the (solemnity) of our leadrs.
+
+*[As supplied, the label line of the next section reads विषयगळु: (*viṣayagaḷu:*); standard label inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Tvaṣṭṛ and Indra are praised. We have already spoken of Tvaṣṭṛ, famous as the craftsman of the gods.
+
+त्वष्टा (*tvaṣṭā*) — Yāska in his Nirukta has stated the derivation of this word as follows:
+
+त्वष्टा त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वास्याद्वीप्तिकर्मणस्त्वक्षतेर्वा (*tvaṣṭā tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervāsyādvīptikarmaṇastvakṣatervā*)
+स्यात्करोतिकर्मणः। माध्यमिकस्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । (*syātkarotikarmaṇaḥ| mādhyamikasvaṣṭetyāhurmadhyame ca sthāne samāmnātaḥ |*)
+अग्निरिति शाकपूणिः ॥ (*agniriti śākapūṇiḥ ‖*)
+(सि. ८-१४) (*(si. 8-14)*)
+
+that is, the Nirukta-authors say that *tvaṣṭā* is "one who pervades swiftly"; or "one who shines", or "one who does works (craftsman's works)"; some say he is *mādhyamika*, that is, one who is between heaven and earth; Śākapūṇi says he is Agni (printed "ಸಿ." for "ನಿ.").
+
+### Printed p. 150
+
+*Running head: [150 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 186] (the print has "ಆ." for the second abbreviation, as supplied).*
+
+Some also say that Tvaṣṭṛ, like Viśvakarman, is the craftsman of the gods; for in the ṛk that Yāska gave as an example:
+
+यॆ इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । (*yè ime dyāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā |*)
+तमद्य होतरिषितो यजीयान्देवं त्वष्टारमिह यक्षि विद्वान् । (*tamadya hotariṣito yajīyāndevaṃ tvaṣṭāramiha yakṣi vidvān |*)
+(म. सं. १०-११०-९) (*(ma. saṃ. 10-110-9)*)
+
+Tvaṣṭṛ is said to be the maker of heaven and earth and the cause of the form, beauty, prosperity, growth and so on suited to the beings in all the worlds. Besides, Śruti (Yajurveda) sentences such as त्वष्टा वै पशूनां मिथुनानाग्ं रूपकृत् (*tvaṣṭā vai paśūnāṃ mithunānāgṃ rūpakṛt*) ((तै. सं. ६-१-८-५) (*(tai. saṃ. 6-1-8-5)*)), त्वष्टा रूपाणामधिपतिः (*tvaṣṭā rūpāṇāmadhipatiḥ*) ((तै सं. ३-३) (*(tai saṃ. 3-3)*)) and त्वष्टा रूपाणि विकरोति (*tvaṣṭā rūpāṇi vikaroti*) affirm Tvaṣṭṛ's skill in making things. And:
+
+मध्यं त्वष्टा वज्रमतक्षदायसं मयि देवासोऽवृजन्नपि क्रतुं । (*madhyaṃ tvaṣṭā vajramatakṣadāyasaṃ mayi devāso 'vṛjannapi kratuṃ |*)
+(मु. वं. १०-४८-३) (*(mu. vaṃ. 10-48-3)*)
+
+Indra says that Tvaṣṭṛ made for him a thunderbolt of steel (printed "ಮು. ವಂ." for the reference "ಋ. ಸಂ."); many mantras of the Ṛgveda say that he made for the gods the sacrificial materials they need and many other things. Tvaṣṭṛ is a very skilful workman. He has made various things that show his skill. In fact there are no workmen as skilful as he. Therefore:
+
+त्वष्टा यद्वज्रं सुकृतं हिरण्ययं सहस्रभृष्टिं स्वपा अवर्तयत् । (*tvaṣṭā yadvajraṃ sukṛtaṃ hiraṇyayaṃ sahasrabhṛṣṭiṃ svapā avartayat |*)
+धत्त इंद्रो नर्यपांसि कर्तवेऽहन् वृत्रं निरपामौज्ज दर्णवं ॥ (*dhatta iṃdro naryapāṃsi kartave 'han vṛtraṃ nirapāmaujja darṇavaṃ ‖*)
+(म. प. १-८५-९) (*(ma. pa. 1-85-9)*)
+
+in this ṛk it is said that Tvaṣṭṛ made a very excellent thunderbolt, golden-bright, with a thousand edges, and gave it to Indra, and by it Indra killed Vṛtra.
+
+त्वष्टा माया वेदपसामपस्तमो बिभ्रत्पात्रा देवपानानि शंतमा । (*tvaṣṭā māyā vedapasāmapastamo bibhratpātrā devapānāni śaṃtamā |*)
+शिशीते नूनं परशुं स्वायसं येन वृश्चादेतशो ब्रह्मणस्पतिः ॥ (*śiśīte nūnaṃ paraśuṃ svāyasaṃ yena vṛścādetaśo brahmaṇaspatiḥ ‖*)
+(पु. सं. १०-५३-९) (*(pu. saṃ. 10-53-9)*)
+
+in this ṛk, since Tvaṣṭṛ is a very intelligent workman, it is said that he not only made drinking vessels for the gods to drink Soma, but also sharpened the steel axe of Brahmaṇaspati... [the window ends mid-sentence: "ಮಾಡಿ"].
+
 ---
 
-**Progress note:** Done through printed p. 147 (PDF 147). Done through printed p. 147 (Sukta 186 Rk 5 Special Topics complete; Rk 5 grammar page begun, ends after pipyushi)
+**Progress note:** Done through printed p. 150 (PDF 150). Done through printed p. 150 (Sukta 186 Rk 5 grammar page complete; Rk 6 complete through printed English; Special Topics on Tvashtri begun, ends mid-sentence)
