@@ -3640,6 +3640,77 @@ in this ṛk it is said that Mitra, Varuṇa and Aryaman divided autumn, the mon
 
 It is said in many places that it is he too who regulates the waters. It is he who made the rivers flow; by his command they flow ceaselessly ((ऋ. सं. २-२८-४) (*(ṛ. saṃ. 2-28-4)*)). That the rivers, though they rush into the sea and pour water, do not fill it, is by his hidden power ((ऋ. सं. ५-८५-६) (*(ṛ. saṃ. 5-85-6)*)). Varuṇa and Mitra are lords of the rivers. That Varuṇa is lord of the oceans is an established point, but it occurs very rarely in the Ṛgveda; perhaps the reason is that it is of no great importance. In the Purāṇas and the like Varuṇa is famous as lord of the waters, and it is said in the Purāṇas that, as one of the eight guardians of the quarters, he is lord of the west. There is no support for that in the Ṛgveda. In general all that is connected with Varuṇa is connected with the water in the atmosphere; among the deities prayed to for rain, Varuṇa and Mitra are chief. When the mountains are all covered by clouds, Varuṇa, with the overturned *bhāni* (cloud), pours water on heaven, earth and sky and wets the whole earth: so it is said in the ṛks ऋ. सं. ५-८५-३, ४नॆय (*ṛ. saṃ. 5-85-3, 4nèya*). A whole sūkta (ऋ. सं ५-६३नॆय (*ṛ. saṃ 5-63nèya*)) indicates their rain-giving power. In the Yajurveda Saṃhitā ((तै. सं ५-५ ४-१) (*(tai. saṃ 5-5 4-1)*)) आपो वरुणस्य पत्नय आसन् (*āpo varuṇasya patnaya āsan*) — the waters were Varuṇa's wives; and (तै. सं. ६-४-३-२) (*tai. saṃ. 6-4-3-2)*)) मित्रावरुणौ ना अपा नेतार् (*mitrāvaruṇau nā apā netār*) [?] ("Mitra and Varuṇa are the leaders of the waters"; the print has "ವಿತ್ರಾವರುಣರು" [?] in the Kannada) is also said.
 
+### Printed p. 127
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4.] Ṛgveda-saṃhitā 127 (as supplied). The window continues the Special Topics of Ṛk 2 of Sūkta 186 (Varuṇa, then Aryaman) from p. 126.*
+
+It is said again and again that the decrees of Varuṇa are well established; for this very reason he is called धृतव्रत (*dhṛtavrata*) ("he of firm laws"). This epithet is given to both Mitra and Varuṇa.
+
+परि धामानि मर्मृशद्वरुणस्य पुरो गये विश्वे देवा अनु व्रतं नभंता- (*pari dhāmāni marmṛśadvaruṇasya puro gaye viśve devā anu vrataṃ nabhaṃtā-*)
+मन्यके समे ॥ (*manyake same ‖*)
+((म. सं. ८-४१-७) (*(ma. saṃ. 8-41-7)*), as printed; the book prints "ಮ. ಸಂ.")
+न वां देवा अमृता आ मिनंति व्रतानि मित्रावरुणा ध्रुवाणि । (*na vāṃ devā amṛtā ā minaṃti vratāni mitrāvaruṇā dhruvāṇi |*)
+((म. सं. ५-६९-४) (*(ma. saṃ. 5-69-4)*))
+
+in these and similar ṛks it is said that the gods themselves obey the commands of Mitra, Varuṇa and Aryaman, and that even the ancient gods cannot violate their firm laws. Mitra and Varuṇa are the regulators of law (*ṛta*) and light. It is by the strength of these decrees that they are able to support the laws. This quality is found especially in these two, sometimes in the Ādityas, or in other common deities too. The epithet ऋतस्य गोपाः (*ṛtasya gopāḥ*) ("guardians of *ṛta*"), that is, those who keep the laws (or make them be kept), is found applied many times to Mitra and Varuṇa.
+
+The power of Varuṇa is unfathomable. Neither flying birds nor flowing rivers can reach the limit of his kingdom's border; they cannot exceed his power; they cannot withstand his anger. Neither the sky nor the rivers have reached the boundary of the territory of Mitra and Varuṇa. All things lie hidden in Varuṇa. The dwellings of all beings and the three heavens and the three earths are laid in him. Varuṇa is omniscient. The flight of birds in the sky, the course of ships on the sea, the path of the far-travelling wind: all these are known to him. He sees all things past or to come. He is the witness of the true and false deeds of men. All the deeds, thoughts and devices of every man are known to Varuṇa. He can grasp all that is in heaven and earth and beyond them. However far one runs beyond the sky, no one can leave the range of Varuṇa's sight.
+
+Since he is the regulator of morals, Varuṇa becomes very angry at sin; for both the violation of his laws and his anger he inflicts very cruel punishment. The noose of Varuṇa that binds sinners is spoken of in the ṛks १-२४-१५ ; १-२५-११ ; ६-७४-४ १०-८५-२४ (*1-24-15 ; 1-25-11 ; 6-74-4 10-85-24*) and others; that noose binds the speaker of untruth and releases the speaker of truth.
+
+युवो राष्ट्रं बृहदिन्वति द्यौर्यौ सेतृभिररज्जुभिः सिनीथः । (*yuvo rāṣṭraṃ bṛhadinvati dyauryau setṛbhirarajjubhiḥ sinīthaḥ |*)
+
+### Printed p. 128
+
+*Running head: [128 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185] (the supplied text reads "೧೮೫" here for 186, as printed).*
+
+परि नो हेळो [?] वरुणस्य वृज्या उरुं न इंद्रः कृणवदु लोकं ॥ (*pari no heḷo [?] varuṇasya vṛjyā uruṃ na iṃdraḥ kṛṇavadu lokaṃ ‖*)
+(ऋ. सं. ७-८४-२) (*(ṛ. saṃ. 7-84-2)*)
+(म. सं. ७-८४-२) (*(ma. saṃ. 7-84-2)*)
+
+(the reference is printed twice, first as "ಋ. ಸಂ." and then as "ಮ. ಸಂ.")
+
+in this ṛk it is said that Varuṇa, accompanied by Indra, binds with bonds that are not of rope. The word *pāśa* (noose) occurs in the whole Ṛgveda only in one place, in a mantra addressed to Agni, and that too in the context of praying that the noose that binds his worshippers be loosed; therefore it may be said that these acts of binding with the noose and of releasing it belong to Varuṇa alone.
+
+Varuṇa together with Mitra is the one who drives away, hates and punishes untruth. Mitra and Varuṇa punish those who are careless in their worship, but Varuṇa forgives those who repent. He unties as one unties a rope, and removes sin; he frees a man not only from sin committed by himself but also from sin committed by his ancestors. Those who daily violate the laws laid down by him and afterwards repent he also saves, and he shows compassion to those who have violated his commands through forgetfulness. In Varuṇa there are hundreds and thousands of medicines. He drives away death and removes sin. He can take away life and can give life. He is very skilful among those who protect immortality. Thus the description of the qualities of Varuṇa is in many ṛks. Here we have explained it very briefly; on a fitting occasion we shall explain it at length.
+
+In the Taittirīya Saṃhitā: फल्गुनीनक्षत्रमर्यमा देवता (*phalgunīnakṣatramaryamā devatā*) .... .... .... .... अनूराधा (*anūrādhā*) नक्षत्रं मित्रो देवता (*nakṣatraṃ mitro devatā*) .... .... .... .... ((तै. सं. ४-४-९-२)—ऎंदरॆ (*(tai. saṃ. 4-4-9-2)—èṃdarè*)) — that is, it is said that Aryaman is the lord of the Pūrva Phalgunī nakṣatra and Mitra of the Anurādhā nakṣatra.
+
+आर्यमा—आदित्यर (*āryamā—ādityara*) — in the sūktas addressed to the Ādityas the Ādityas are generally Mitra, Varuṇa and Aryaman. As we said before, in the Ṛgveda ((ऋ. सं. २-२७-१) (*(ṛ. saṃ. 2-27-1)*)) only the names of six are given: Mitra, Aryaman, Bhaga, Varuṇa, Dakṣa and Aṃśa. In the ṛk ऋ सं. ९-११४-३ नॆय ऋक्किनल्लि (*ṛ saṃ. 9-114-3 nèya ṛkkinalli*) the number of the Ādityas is said to be seven, and in ऋ. सं. १०-७२-८ रल्लि (*ṛ. saṃ. 10-72-8 ralli*) it is said that Aditi first presented seven sons to the gods and afterwards obtained the eighth, Mārtaṇḍa. In अ. वे. ८-९-२१ (*a. ve. 8-9-21*) and in तै. ब्रा. (*tai. brā.*) १-१-९-१ (*1-1-9-1*) it is said that Aditi has eight sons: Mitra, Aryaman, Varuṇa, Aṃśa, Bhaga, Dhātṛ, Indra and Vivasvān. In the Śatapatha Brāhmaṇa ((श. ब्रा. ६-१-२.८ ; ११-६-३-८) (*(śa. brā. 6-1-2.8 ; 11-6-3-8)*)) it is said that the Ādityas are twelve, one for each month. In the Purāṇas and the like also the Ādityas are twelve.
+
+Though the name of the deity Aryaman occurs about a hundred times in the Ṛgveda, because he has no complete individuality Yāska, in his Nirukta (the Nighaṇṭu), when explaining the forms and derivations of the names of deities, has left out the name of this deity Aryaman. Except in two mantras,
+
+### Printed p. 129
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4. ।] Ṛgveda-saṃhitā 129 (as supplied, with a danda).*
+
+everywhere else he is mentioned together with other deities, and mostly with Mitra and Varuṇa. When addressing Agni in winning over maidens:
+
+त्वमर्यमा भवसि यत्कनीनां नाम स्वधावन् गुह्यं बिभर्षि । (*tvamaryamā bhavasi yatkanīnāṃ nāma svadhāvan guhyaṃ bibharṣi |*)
+(( ऋ. सं. ५-३-२) (*( ṛ. saṃ. 5-3-2)*))
+
+he is said to be Aryaman: "you yourself."
+
+भगो अर्यमा सविता पुरंधिर्मह्यं त्वादुर्गार्हपत्याय देवाः । (*bhago aryamā savitā puraṃdhirmahyaṃ tvādurgārhapatyāya devāḥ |*)
+((ऋ. सं. १०-८५-३६) (*(ṛ. saṃ. 10-85-36)*))
+
+in this ṛk the bridegroom says: "O gods, Bhaga, Aryaman, Savitṛ and Purandhi gave this bride to me to assist my householder's life."
+
+न तमंहो न दुरितं देवासो अष्ट मर्त्यं । (*na tamaṃho na duritaṃ devāso aṣṭa martyaṃ |*)
+सजोषसो यमर्यमा मित्रो नयंति वरुणो अति द्विषः ॥ (*sajoṣaso yamaryamā mitro nayaṃti varuṇo ati dviṣaḥ ‖*)
+((म. सं. १०-१२६-१) (*(ma. saṃ. 10-126-1)*), as printed; the book prints "ಮ. ಸಂ.")
+शुनमस्मभ्यमूतये वरुणो मित्रो आर्यमा । (*śunamasmabhyamūtaye varuṇo mitro āryamā |*)
+शर्म यच्छंतु सप्रथ आदित्यासो यदीमहे अति द्विषः ॥ (*śarma yacchaṃtu sapratha ādityāso yadīmahe ati dviṣaḥ ‖*)
+((म. सं. १०-१२६-७) (*(ma. saṃ. 10-126-7)*))
+
+Although in the sūkta ऋ. सं. १०-१२६ (*ṛ. saṃ. 10-126*) the gods are called Viśve Devāḥ, from the ṛks quoted above it is chiefly the Ādityas who are praised here. Besides, the words देवासः अष्ट (*devāsaḥ aṣṭa*) ("eight gods") in the first ṛk refer to the eight Ādityas (the number of the Ādityas is nowhere said in the Veda to be more than eight); and the word आदित्यासः (*ādityāsaḥ*) in the seventh ṛk also makes this plain. That in every ṛk of this sūkta (except the last) the names वरुणो मित्रो अर्यमा (*varuṇo mitro aryamā*) ("Varuṇa, Mitra, Aryaman") are recited again and again like a refrain shows that among the Ādityas these Mitra, Varuṇa and Aryaman hold the chief place. Since not much about Aryaman is explained in the Ṛgveda, no special explanation is possible.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+गमंतु—गम्‌ल्य (*gamaṃtu—gamlya*) (root गमंतु—गम्‌ल्य (*gamaṃtu—gamlya*) "to go"): when the third person plural of the imperative follows, by बहुलं (*bahulaṃ*) छंदसि ऎंबुदरिंद (*chaṃdasi èṃbudariṃda*) the *luk* of the thematic suffix; because it follows a non-verb the *nighāta* accent arises. भुवन्—भू (*bhuvan—bhū*) (root भुवन्—भू (*bhuvan—bhū*) "to be"): when the optative follows, by लिज्याशिष्यज् (*lijyāśiṣyaj*) ((पा. सू. ३-१-८६) (*(pā. sū. 3-1-86)*)) the suffix *aj*; because it is marked *j* there is no guṇa of the *u* of the root; by अचिश्नु- (*aciśnu-*) धातुभ्रुवां (*dhātubhruvāṃ*) ... [the sentence breaks off at the end of p. 129 and continues in the next window]: आगमशास्त्रमनित्यम् (परि. ९३ २) (*āgamaśāstramanityam (pari. 93 2)*) (as printed).
+
+*[Stray lines in the supplied text, twice: "[9] Vol. 14". The window ends mid-sentence.]*
+
 ---
 
-**Progress note:** Done through printed p. 126 (PDF 126). Done through printed p. 126 (Sukta 186 Rk 2 Special Topics on Varuna continues)
+**Progress note:** Done through printed p. 129 (PDF 129). Done through printed p. 129 (Sukta 186 Rk 2 Special Topics complete: Varuna, Aryaman; Rk 2 grammar page begun, breaks off mid-sentence)
