@@ -6564,6 +6564,96 @@ O Agni, kindled by the priests engaged in the sacrifice and shining, you rule on
 
 You shine to-day, divine conqueror of thousands, kindled by the priests: do you, who are the sapient messenger (of the gods), convey (to them) our oblation.
 
+### Printed p. 227
+
+*Running head: [Aṣṭaka 2. Adhyāya 5 Varga 8] Ṛgveda-saṃhitā 227 (as supplied).*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1)**
+
+दॆवैः (*dèvaiḥ*) — व्यवहर्तृभिर्यत्विग्नि : (*vyavahartṛbhiryatvigni :*): the bhāṣyakāra explains this word as "by the priests taking part in the sacrificial rite".
+
+सहस्रजित् (*sahasrajit*) — सहस्रस्य धनस्य, एतावत्संख्याकानां शत्रूणां वा जेता (*sahasrasya dhanasya, etāvatsaṃkhyākānāṃ śatrūṇāṃ vā jetā*): lord of thousands of riches, the master, or the winner over thousands of enemies. Here the word *sahasra* does not mean a fixed number, one thousand; the word *sahasra* is used in the sense "many, much".
+
+दूतः (*dūtaḥ*) — Agni offers to the gods what men have offered in him, and brings the gods to the sacrificial ground; therefore Agni has the epithets *havyavāṭ* and *dūta*. In the ṛk
+
+अग्नि दूतं वृणीमहे होतारं विश्ववेदसं । (*agni dūtaṃ vṛṇīmahe hotāraṃ viśvavedasaṃ |*)
+(ऋ. सं. १-१२-१) (*(ṛ. saṃ. 1-12-1)*)
+
+he is prayed to as the messenger who brings the gods to the sacrificial ground and invites them. In
+
+अग्निमग्निं हवीमभिः सदा हवंत विश्वतिं । हव्यवाहं पुरुप्रियं ॥ (*agnimagniṃ havīmabhiḥ sadā havaṃta viśvatiṃ | havyavāhaṃ purupriyaṃ ‖*)
+(ऋ. सं. १-१२-२) (*(ṛ. saṃ. 1-12-2)*)
+
+अग्निनाग्निः समिध्यते कविर्गृहपतियुर्वा । हव्यवाट् जुह्वास्यः ॥ (*agnināgniḥ samidhyate kavirgṛhapatiyurvā | havyavāṭ juhvāsyaḥ ‖*)
+(ऋ. सं. १-१२-६) (*(ṛ. saṃ. 1-12-6)*)
+
+and other ṛks Agni is called the messenger who carries the oblation to the gods. Therefore in the present ṛk too Agni is addressed with दूतो हव्या कनिर्वह [?] (*dūto havyā kanirvaha [?]*) (the print has *kanirvaha*; marked [?]).
+
+कवि: (*kavi:*) — Yāska has given the explanation of the word *kavi*: मेधावी कविः क्रांतदर्शनो भवति, कवतेर्वा (*medhāvī kaviḥ krāṃtadarśano bhavati, kavatervā*) (नि. १२-१३ (*ni. 12-13*)). For the word *kavi* the bhāṣyakāra in many places says अतींद्रियज्ञः (*atīṃdriyajñaḥ*), that is, a man who by his own power knows what is not perceptible, that is, not known, to ordinary men. What the nature and power of the *kavi* are, and what nature and power the use of the word *kavi* in the Ṛk-saṃhitā conveys, has also been explained carefully before. The word *kavi* is used in the sense of a man able, by his inner vision, to know the hidden elements not perceptible to the world's eye and to make them known to the world (the print has शरुषनु [?] (*śaruṣanu [?]*) for the word "man", marked [?]).
+
+समिद्धः (*samiddhaḥ*) — सम्यग्दीपितः एतन्नामकः त्वं (*samyagdīpitaḥ etannāmakaḥ tvaṃ*): Sāyaṇa explains it as "you, famed by the name Samiddha". The Samiddha Agni, who holds the first place in the Āprī sūkta, is meant.
+
+### Printed p. 228
+
+*Running head: [228 Sāyaṇa-bhāṣya-sahitā [Maṃ. . A. 24 Sū. 188] (as supplied; the print has a blank where the adhyāya numeral belongs in the first abbreviation).*
+
+इध्मो यः सर्वमेवाग्निरयं हीध्मः समिध्यते । (*idhmo yaḥ sarvamevāgnirayaṃ hīdhmaḥ samidhyate |*)
+ध्मातेर्वैतत्कृतं रूपं ध्मातो हीध्मः समिध्यते ॥ (*dhmātervaitatkṛtaṃ rūpaṃ dhmāto hīdhmaḥ samidhyate ‖*)
+(बृ. दे. २-१८८) (*(bṛ. de. 2-188)*)
+
+Here the identity of the *idhma* in the form of wood with the all-pervading Agni is stated. The word *idhma* is formed from the root ध्या (*dhyā*) (as printed). The authors of the Bṛhaddevatā explain the words *idhma* and *samiddha* as being so named because it blazes up after being blown. This explanation follows the explanation of the Nirukta-authors. In the Nirukta too:
+
+शासामिध्मः प्रथमागामी भवति । इद्मः समिंधनात् । (*śāsāmidhmaḥ prathamāgāmī bhavati | idmaḥ samiṃdhanāt |*)
+(नि. ८-५) (*(ni. 8-5)*)
+
+this is said of the first deity of the Āprī sūkta. In the Taittirīya-brāhmaṇa also, at the beginning of the Praiṣa sūkta:
+
+होता यक्षदग्निग्ं समिधा समिद्धं सुषमिधा नाभा प्रथिव्याः संगथे वामस्य । (*hotā yakṣadagnigṃ samidhā samiddhaṃ suṣamidhā nābhā prathivyāḥ saṃgathe vāmasya |*)
+(तै. ब्रा. ३-६-२-१) (*(tai. brā. 3-6-2-1)*)
+
+the sacrificer (hotṛ) is told to sacrifice to Agni, named Samidh and accompanied by the first *prayāja* deity.
+
+Another matter must be noted here. The proper name *idhmya* does not occur in the Āprī sūktas, nor in the Praiṣa sūkta either. Only in the Sarvānukramaṇī is it stated: सुसमिद्द इतीध्म्य समिद्धो वा अग्नि...........इति प्रत्यृचं देवताः (*susamidda itīdhmya samiddho vā agni...........iti pratyṛcaṃ devatāḥ*). Since this word is not used in this context even in the Aitareya-brāhmaṇa, it is known that Śaunaka and Kātyāyana, in using it, followed the Nirukta-authors. Besides, the epithet *samiddha* or *susamiddha* is used in seven sūktas, and the epithet *samidh* in the remaining three sūktas, ऋ सं ३-४-१ ; ७-२-१ : १०-७०-१ (*ṛ saṃ 3-4-1 ; 7-2-1 : 10-70-1*).
+
+The first duty of this Agni, called Samiddha, is to invite the gods. In the opening pādas of the sūktas १-१३-१, १-१४२-१, ३-४-१, १०-११०-१ (*1-13-1, 1-142-1, 3-4-1, 10-110-1*), by the prayer सुस- मिद्दो न आ वह देवा अग्ने हविष्मते (*susa- middo na ā vaha devā agne haviṣmate*) (ऋ. सं. १-१३-१ (*ṛ. saṃ. 1-13-1*)) the duty of Agni is indicated; and not only that, he is also prayed to carry the oblations and so on.
+
+There has been difference of opinion from the beginning whether this deity is Agni or not. The Nirukta-authors cite this difference of opinion and then state their own view: यज्ञेध्म इति कात्थक्यः (*yajñedhma iti kātthakyaḥ*) (सि. ८-५ (*si. 8-5*)), अग्निरिति शाकपूणिः (*agniriti śākapūṇiḥ*) (८-५ (*8-5*)): thus stating the views of those sages, and then आग्नेय इति तु स्थितिः (*āgneya iti tu sthitiḥ*) (सि. ८-२२ (*si. 8-22*)) stating their own view. (The print has "ಸಿ." where "ನಿ." is expected; kept as printed.) In the Aitareya-brāhmaṇa:
+
+### Printed p. 229
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 8] Ṛgveda-saṃhitā 229 (as supplied).*
+
+समिधो यजति । प्राणा वै समिधः । प्राणा हीदं सर्वं समिंधते यदिदं (*samidho yajati | prāṇā vai samidhaḥ | prāṇā hīdaṃ sarvaṃ samiṃdhate yadidaṃ*)
+किंच प्राणानेव तत्प्रीणाति प्राणान्यजमाने दधाति । (*kiṃca prāṇāneva tatprīṇāti prāṇānyajamāne dadhāti |*)
+(इ ब्रा. २-४) (*(i brā. 2-4)*)
+
+although by these sentences identity is stated between *samidh* and the vital breath, from the many other authorities it may be said that this deity must be Agni.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 1, noted briefly)
+
+राजसि (*rājasi*) (root राज्य दीप्तौ (*rājya dīptau*)): *laṭ*, second person singular; owing to the connection with a finite verb the *nighāta* accent. सहस्रजित् (*sahasrajit*): सहस्रं जयतीति सहस्रजित् (*sahasraṃ jayatīti sahasrajit*), root जि जये (*ji jaye*); by क्विप् च (*kvip ca*) (पा सू. ३-२-७६ (*pā sū. 3-2-76*)) the suffix *kvip*; by ह्रस्यस्यपितिकृतितुक् (*hrasyasyapitikṛtituk*) (पा. सू. ६-१-७१ (*pā. sū. 6-1-71*)) the augment *tuk* for the root; by गतिकारकोपपदात्— (*gatikārakopapadāt—*) (पा. सू. ६-२-१३९ (*pā. sū. 6-2-139*)) the accent of the first member of the *kṛt* compound; here a vocative, and by आमंत्रितस्यच (*āmaṃtritasyaca*) it is wholly unaccented. दूतः (*dūtaḥ*) (root दु गत् (*du gat*)): by दुतनिभ्यांदीर्घश्च (*dutanibhyāṃdīrghaśca*) (उ. सू. ३-३७० (*u. sū. 3-370*)) the suffix *kta* and lengthening of the root vowel; by the suffix accent the last syllable is acute. वह (*vaha*) (root वह प्रापणे (*vaha prāpaṇe*)): *loṭ*, second person singular; the verb-*nighāta* accent.
+
+*[Stray line of the supplied text: - :0: —————— (*- :0: ——————*); not part of the text.]*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> तनू॑नपादृ॒तं य॒ते मध्वा॑ य॒ज्ञः सम॑ज्यते ।
+> दध॑त्सह॒स्रिणी॒रिषः॑ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> तनूनपात् । ऋतं । यते । मध्वा । यज्ञः । सं । अज्यते ।
+> दधत् । सहस्रिणीः । इषः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तनूनपाद्यज्ञ शरीरस्य नपातयिता । यद्वा । आपोऽत्र तन्न उच्यंत इत्युक्त-
+> त्वादपां नपातयिता तासां नप्ता ना । अद्भ्य ओषधयः ओषधीभ्योऽग्निरिति नप्तृत्वं ।
+
+*Gist (the supplied text breaks off here, at the end of the window):* *Tanūnapāt* is the preserver of the body of the sacrifice, or the grandson of the waters, since Agni arises from the waters through the plants.
+
 ---
 
-**Progress note:** Done through printed p. 226 (PDF 226). Done through printed p. 226 (Apri introduction of Sukta 188 complete; Sayana's introduction and sukta heading done; Rik 1 done through printed English; Rik 1 Special Topics next); [?] on kanirvaha and the garbled rishi line
+**Progress note:** Done through printed p. 229 (PDF 229). Done through printed p. 229 (Sukta 188 Rik 1 complete; Rik 2 Samhita, Pada, bhashya begun, bhashya breaks off at naptritvam); [?] on kanirvaha, sharushanu
