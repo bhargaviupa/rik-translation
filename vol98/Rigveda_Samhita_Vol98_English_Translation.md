@@ -6986,6 +6986,90 @@ In this ṛk the door-deities of the sacrificial house, देवीर्द्
 
 *[The reference is printed with Telugu letters; rewritten in Kannada letters by script only and marked [?].]*
 
+### Printed p. 240
+
+*Running head: [240 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 23. Sū. 188] (as supplied; the print has "೨೩" for the adhyāya).*
+
+*(Continuation of the Special Topics of Ṛk 5 of Sūkta 188, on the word *dvāraḥ*, after the Nirukta quotation ended on p. 239.)*
+
+...so the explanation of the derivation is given. A door (*dvāra*) is so called because it is for entering, going inside, or preventing going inside. The view of Kātkya is that *dvāra* means the house door; the view of Śākapūṇi is that it is Agni; they say that the sacrificial chamber in which the oblation is made is Agni's form, and therefore its doors are special forms of Agni (अग्नि विशेष मूर्तयः (*agni viśeṣa mūrtayaḥ*)). The doors of the chamber in which the oblation is offered said to be personification of Agni. (*The doors of the chamber in which the oblation is offered said to be personification of Agni.*)
+
+Sāyaṇa has explained them as the presiding deities of the doors of the sacrificial house. There is difference of opinion whether these doors are the doors of the sacrificial house or whether this is only a figurative usage. If the word here does not mean house doors, then in respect of the deities of the Āprī sūktas too, points different from those now stated would have to be supposed.
+
+From the point of view of ritual procedure, only for the *barhis* and the *svāhākṛti* is there no attribution of divinity: their merely earthly qualities are stated, though, being connected with the sacrifice, they have a supernatural purity. In तिस्रो देवीः (*tisro devīḥ*), because Sarasvatī has a pure divine element, and the other two rivers are mentioned along with that river, all are called goddesses together. Likewise in दैवौ होतारौ (*daivau hotārau*), since they are with the divine Agni, the earthly hotṛ too is meant as a deity. But in देवीः द्वारः (*devīḥ dvāraḥ*) there is no room for this. If these doors are the doors of the sacrificial house, the question arises why they should have a special place that the *barhis* and *svāhākṛti* lack. If only some implements of the sacrifice are to be seen as divine, then the name of the most important of all, the altar (*vedi*), is missing.
+
+Besides, another point to note here is that *dvāraḥ* is in the plural.
+
+सप्त होत्राणि मनसा वृणाना इन्वंतो विश्वं प्रति यन्नृतेन । (*sapta hotrāṇi manasā vṛṇānā invaṃto viśvaṃ prati yannṛtena |*)
+नृपेशसो विदथेषु प्र जाता अभीमं यज्ञं वि चरंत पूर्विः ॥ (*nṛpeśaso vidatheṣu pra jātā abhīmaṃ yajñaṃ vi caraṃta pūrviḥ ‖*)
+(म. सं ३-४-५) (*(ma. saṃ 3-4-5)*)
+
+In this ṛk of the Āprī sūkta the epithet पूर्विः (*pūrviḥ*) also is in the plural. And if the duties of these door-deities are examined:
+
+1) वि श्रयंतामृतावृधो द्वारो देवीरसश्चतः (*vi śrayaṃtāmṛtāvṛdho dvāro devīrasaścataḥ*) — "take apart separately for the convenience of the sacrificial work", in the ṛk १-१३-६ (*1-13-6*);
+2) दुरो धृतान्यक्षरन् (*duro dhṛtānyakṣaran*) — "they poured water", in the present ṛk;
+
+### Printed p. 241
+
+*Running head: [೫. ೨. ಆ ೫. ವ. ಲ. ] Ṛgveda-saṃhitā 241 (as supplied, the head reads "೫. ೨. ಆ ೫. ವ. ಲ." for the aṣṭaka, adhyāya and varga).*
+
+3) प्र प्र यज्ञं प्रणीत न (*pra pra yajñaṃ praṇīta na*) — "they fill the sacrifice with fruit", in ५-५-५ (*5-5-5*);
+4) इन्वंतो विश्वं प्रति यन्नृतेन (*invaṃto viśvaṃ prati yannṛtena*) — "they make the whole world full of vigour with water", in ३-४-५ (*3-4-5*); thus their duties are indicated in many more ways. Some hold that many of these actions are attributed to them merely figuratively and formally and have no truth in them.
+
+समिद्धो अस्य मनुषो मरोणे देवो देवान् यजसि जातवेदः । (*samiddho asya manuṣo maroṇe devo devān yajasi jātavedaḥ |*)
+आ च वह मित्रमहश्चि कित्वान्त्वं दूतः कविरसि प्रचेताः ॥ (*ā ca vaha mitramahaści kitvāntvaṃ dūtaḥ kavirasi pracetāḥ ‖*)
+(मं- सं. १०-११०-१) (*(maṃ- saṃ. 10-110-1)*)
+
+In this ṛk, since it says मनुषो दुरोणे (*manuṣo duroṇe*), "in the sacrificial house of man", this formal language for merely worldly house doors may even look like an exaggeration. Some critics hold that epithets such as नृपेशसः ऋतावृधः, पावका (*nṛpeśasaḥ ṛtāvṛdhaḥ, pāvakā*) also are not appropriate. In the present context it is good, whether to support or to refute these views, to know the opinions of the Vedic scholars who are the basis of the Vedic tradition.
+
+स्वाध्यो३ वि दुरो देवयंतोऽशिश्रयू रथयुर्देवताता । (*svādhyo3 vi duro devayaṃto 'śiśrayū rathayurdevatātā |*)
+पूर्वि शिशुं न मातरा रिहाणे समग्रुवो न समनेष्टंजन् । (*pūrvi śiśuṃ na mātarā rihāṇe samagruvo na samaneṣṭaṃjan |*)
+(म. सं. ७-२-५) (*(ma. saṃ. 7-2-5)*)
+
+In this ṛk of the Āprī sūkta they clearly state that यज्ञगृहद्वाराणि इत्यर्थः (*yajñagṛhadvārāṇi ityarthaḥ*), the sense is the doors of the sacrificial house. Likewise some other scholars explain that for the verb व्यशिश्रयुः (*vyaśiśrayuḥ*) the subject is यज- मानाः (*yaja- mānāḥ*), the sacrificers, who stood leaning on the doors of the sacrificial house. The English scholars Oldenberg, Grassman and Ludwig too approve this explanation, and in
+
+विराट्संम्राड्विभ्रीः प्रभीर्बह्वीश्च भूयसीश्च याः । दुरो घृतान्यक्षरन् । (*virāṭsaṃmrāḍvibhrīḥ prabhīrbahvīśca bhūyasīśca yāḥ | duro ghṛtānyakṣaran |*)
+(ऋ. सं. १-१८८-५) (*(ṛ. saṃ. 1-188-5)*)
+
+they say that the words विराट् सम्राट् (*virāṭ samrāṭ*) in this ṛk are the names of two door-leaves. The scholar Max Müller (the print has "Max Muller") says that these are the doors of heaven by which the gods descend from heaven (History of Ancient Sanskrit Literature, p. 245). In the Praiṣa sūkta:
+
+होतायक्षद्दुर ऋष्वाः कवष्योऽकोषधावनीरुदाताभिर्जिहतां वि पक्षोभिः (*hotāyakṣaddura ṛṣvāḥ kavaṣyo 'koṣadhāvanīrudātābhirjihatāṃ vi pakṣobhiḥ*)
+श्रयंतां । सुप्रायणा अस्मिन्यज्ञे विश्रयंतामृतावृधो वियं- (*śrayaṃtāṃ | suprāyaṇā asminyajñe viśrayaṃtāmṛtāvṛdho viyaṃ-*)
+त्वाज्यस्य होतरज । (*tvājyasya hotaraja |*)
+(तै. ब्रा. ३-६-२-२) (*(tai. brā. 3-6-2-2)*)
+
+*[Stray line of the supplied text: [16] Vol. 14 (*[16] Vol. 14*); not part of the text.]*
+
+### Printed p. 242
+
+*Running head: [242 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 188] (as supplied).*
+
+Of what is said in these sentences the bhāṣyakāra explains दुरो द्वारसंज्ञकाः पंचमप्रयाजदेवता- स्तद्रूपमग्निं दैव्यो होता यजतु (*duro dvārasaṃjñakāḥ paṃcamaprayājadevatā- stadrūpamagniṃ daivyo hotā yajatu*): "let the divine hotṛ sacrifice to Agni in the form of the fifth *prayāja* deities, named the Doors". In these sentences the words आताभिः (*ātābhiḥ*) and उज्जिहतां (*ujjihatāṃ*) are the important ones. This somewhat opposes the above opinion. From this, one view holds that it may be said that "door means the doors of the sacrificial house" is figurative. In the Aitareya-brāhmaṇa:
+
+दुरो यजति वृष्टिर्वै दुरो वृष्टिमेव तत्प्रीणाति वृष्टिमन्नाद्यं (*duro yajati vṛṣṭirvai duro vṛṣṭimeva tatprīṇāti vṛṣṭimannādyaṃ*)
+यजमाने दधाति । (*yajamāne dadhāti |*)
+(इ. ब्रा. २-४) (*(i. brā. 2-4)*)
+
+*dvāra* is explained as "rain" in place of the sense "door"; how this sense arises is not made clear. The Nirukta-authors:
+
+द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा (*dvāro javatervā dravatervā vārayatervā*) — derived from the root *ju*, meaning "to press forward", or from the root *dru*, meaning "to go forward", or from the root *vṛ*, meaning "to separate"; and citing the ṛk
+
+व्यचस्वतीरुर्विया वि श्रयंतां पतिभ्यो न जनयः शुंभमानाः । (*vyacasvatīrurviyā vi śrayaṃtāṃ patibhyo na janayaḥ śuṃbhamānāḥ |*)
+देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः । (*devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ |*)
+(म. सं. १०-११.०-५) (*(ma. saṃ. 10-11.0-5)*)
+
+they explain the meaning of the word *dvāra*, and as to गृहद्वार इति कात्थक्यः (*gṛhadvāra iti kātthakyaḥ*) (according to Kātthaka, the house door) and अग्निरिति शाकपूणिः (*agniriti śākapūṇiḥ*) (according to Śākapūṇi, Agni), they point out also the difference of view (नि. ८-१० (*ni. 8-10*)). In the Bṛhaddevatā:
+
+द्वारस्तु देव्यो याः प्रोक्ता विश्वेषां तास्तु पत्नयः । (*dvārastu devyo yāḥ proktā viśveṣāṃ tāstu patnayaḥ |*)
+अग्नायीमनुवर्तंते तथाग्नाय्यग्निमेव च ॥ (*agnāyīmanuvartaṃte tathāgnāyyagnimeva ca ‖*)
+अग्नौ ध्रुवं स्थितास्तास्तु संस्तूयंतेऽग्निना सह । (*agnau dhruvaṃ sthitāstāstu saṃstūyaṃte 'gninā saha |*)
+प्राधान्यं तासु चैवाग्ने स्तुतिष्टेव हविष्णु च ॥ (*prādhānyaṃ tāsu caivāgne stutiṣṭeva haviṣṇu ca ‖*)
+(बृ. दे. ३-६रिंद ७) (*(bṛ. de. 3-6riṃda 7)*)
+
+It is said that these doors are the wives of the gods, that they follow Agnāyī who follows Agni, and that, being firmly established in Agni, they are praised together with Agni. This explanation is reasonable.
+
+Regarding the preparation of the four doors of the sacrificial house, the Taittirīya-saṃhitā describes it thus: (the supplied text breaks off here, at "ವರ್ಣಿಸಿದೆ—", at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 239 (PDF 239). Done through printed p. 239 (Sukta 188 Rik 4 complete; Rik 5 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Special Topics of Rik 5 begun, breaks off at the Nirukta quotation on dvarah); [?] on tadrk, Telugu letters rewritten in Kannada
+**Progress note:** Done through printed p. 242 (PDF 242). Done through printed p. 242 (Sukta 188 Rik 5 Special Topics on dvarah continue; breaks off at the Taittiriya-samhita description of the four doors on p. 242)
