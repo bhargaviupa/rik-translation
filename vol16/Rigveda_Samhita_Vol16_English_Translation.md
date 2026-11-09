@@ -2682,6 +2682,108 @@ Grammar notes, noted briefly. जायते (*jāyate*): root जनी प्
 
 इयर्ति (*iyarti*): root ऋ गत् (*ṛ gat*) [as supplied]; juhotyādi class; laṭ, third person singular, tip; reduplication of the root when the vikaraṇa ślu comes; ī for the reduplicative by आर्तिपिपर्त्योश्च (*ārtipipartyośca*) (Pā. 7-4-77); since a non-homogeneous vowel (ṛ) follows, iyaṅ substitution by अभ्यासस्यासवर्णॆ (*abhyāsasyāsavarṇè*) (Pā. 6-4-78); guṇa with raparatva of the root's ṛ because of tip; being after a non-finite word, nighāta accent.
 
+### Printed p. 96
+
+*[Running head, p. 96: 96 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> यान्नो॒ नरो॑ देव॒यंतो॑ निमि॒म्युर्वन॑स्पते॒ स्वधि॑तिर्वा॒॑
+> ततक्ष ।
+> ते दे॒वासः॒ स्वर॑वस्तस्थि॒वांसः॑ प्र॒जाव॑द॒स्मे दि॑धिषंतु॒ रत्नं॑ ॥
+> ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> यान् । वः । नं: । देवयंतः । निमिम्युः । वनस्पते । स्वधितिः । वा । ततक्ष ।
+> ते । देवासः । स्वरवः । तस्थिवांसः । प्रजावत् । अस्मे इति । दिधिषंतु । रत्नं ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यूपा देवयंतो देवान्कामयमाना नरः कर्मणां नेतारोऽध्व-
+> र्यादयो यान्वो यान्युष्मान्निमिम्युः । अवटेषु प्रचिक्षिपुः । ना अपि च हे
+> वनस्पते स्वधितिः परशुस्त्वदीयान्यूपांस्ततक्ष बिच्छेद देवासो दीप्यमानाः स्वरवः ।
+> स्वरुशब्दः स्वशकलवाची । तद्वंतः । लुप्तमत्त्वर्थियः । तस्थिवांसस्तिष्ठंतस्ते तादृशा
+> यूपा आस्मे अस्मै यजमानाय प्रजावत् अपत्यसहितं रत्नमुत्तमं धनं दिधि-
+> षंतु । धारयंतु । प्रयच्छंत्यर्थः ॥ निमिम्युः । डुमिञ् प्रक्षेपण इत्यस्य लि-
+> ट्मुसि असंयोगाल्लिट् किदिति किद्वद्भावाद्दुणाभावः । यद्वृत्तयोगादनिघातः । सति
+> शिष्टः स्वरो बलीयानिति वचनात्प्रत्ययस्वरः । स्वधितिः । स्वशब्दोपपदाद्दा धारण इ-
+> त्यस्मात् क्तिन् । स्वा स्वकीया निशितधारा धीयते प्रक्षिप्यतेऽनेनेति स्वधितिः खड्गः ।
+> ततक्ष । तक्षू त्वक्षू तनूकरण इत्यस्माल्लिटि णलि रूपादनिघातः । लितीति प्रत्ययात्तूर्व
+> स्योदात्तत्वं । स्वरवः । स्व शब्दोपतापयोरित्यस्मान्निदित्यनुवृत्तौ श्वस्वस्निहित्री-
+> त्यादिना उ प्रत्ययः । नित्त्वादाद्युदात्तः । तस्थिवांसः । ष्ठा गतिनिवृत्तावित्यस्माच्छंदसि
+> लिट् । तस्य क्वसुः । वस्वेकाजाद्भसामितीडागमः । प्रत्ययस्वरः । प्रजावत् । जनी
+> प्रादुर्भाव इत्यस्मादुपसर्गे च संज्ञायामिति डः । ततष्टाप् । तदस्यास्तीति मतुप् ।
+> तस्य पित्त्वादनुदात्तत्वं । एकादेशस्वरः । अस्मे । अस्मच्छब्दस्य सुपां सुलुगिति शे आ-
+> देशः । दिधिषंतु । धिष धारणे । जुहोत्यादिः । निघातः ॥
+
+> *he yūpā devayaṃto devānkāmayamānā naraḥ karmaṇāṃ netāro 'dhva-*
+> *ryādayo yānvo yānyuṣmānnimimyuḥ | avaṭeṣu pracikṣipuḥ | nā api ca he*
+> *vanaspate svadhitiḥ paraśustvadīyānyūpāṃstatakṣa biccheda devāso dīpyamānāḥ svaravaḥ |*
+> *svaruśabdaḥ svaśakalavācī | tadvaṃtaḥ | luptamattvarthiyaḥ | tasthivāṃsastiṣṭhaṃtaste tādṛśā*
+> *yūpā āsme asmai yajamānāya prajāvat apatyasahitaṃ ratnamuttamaṃ dhanaṃ didhi-*
+> *ṣaṃtu | dhārayaṃtu | prayacchaṃtyarthaḥ ‖ nimimyuḥ | ḍumiñ prakṣepaṇa ityasya li-*
+> *ṭmusi asaṃyogālliṭ kiditi kidvadbhāvādduṇābhāvaḥ | yadvṛttayogādanighātaḥ | sati*
+> *śiṣṭaḥ svaro balīyāniti vacanātpratyayasvaraḥ | svadhitiḥ | svaśabdopapadāddā dhāraṇa i-*
+> *tyasmāt ktin | svā svakīyā niśitadhārā dhīyate prakṣipyate 'neneti svadhitiḥ khaḍgaḥ |*
+> *tatakṣa | takṣū tvakṣū tanūkaraṇa ityasmālliṭi ṇali rūpādanighātaḥ | litīti pratyayāttūrva*
+> *syodāttatvaṃ | svaravaḥ | sva śabdopatāpayorityasmānnidityanuvṛttau śvasvasnihitrī-*
+> *tyādinā u pratyayaḥ | nittvādādyudāttaḥ | tasthivāṃsaḥ | ṣṭhā gatinivṛttāvityasmācchaṃdasi*
+> *liṭ | tasya kvasuḥ | vasvekājādbhasāmitīḍāgamaḥ | pratyayasvaraḥ | prajāvat | janī*
+> *prādurbhāva ityasmādupasarge ca saṃjñāyāmiti ḍaḥ | tataṣṭāp | tadasyāstīti matup |*
+> *tasya pittvādanudāttatvaṃ | ekādeśasvaraḥ | asme | asmacchabdasya supāṃ sulugiti śe ā-*
+> *deśaḥ | didhiṣaṃtu | dhiṣa dhāraṇe | juhotyādiḥ | nighātaḥ ‖*
+
+Gist: O yūpas, the posts which the priests, desiring the gods, set up in the pits, and which the axe of the vanaspati (tree) trimmed, standing resplendent with their own parts, may they bestow on this sacrificer excellent wealth with progeny. The grammatical tail (not transcribed further here) covers निमिम्युः (*nimimyuḥ*), स्वधितिः (*svadhitiḥ*), ततक्ष (*tatakṣa*), स्वरवः (*svaravaḥ*), तस्थिवांसः (*tasthivāṃsaḥ*), प्रजावत् (*prajāvat*), अस्मे (*asme*) and दिधिषंतु (*didhiṣaṃtu*).
+
+### Printed p. 97
+
+*[Running head, p. 97: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 97]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Hē yūpāḥ: O yūpas) — yān vaḥ: which you; devayantaḥ: those who desire the gods; naraḥ: the leaders of the sacrifice, the adhvaryus and others; nimimyuḥ: cut; vā: and; (he) vanaspate: O vanaspati; svadhitiḥ: the axe; tataksa: (the posts relating to me) has shaped (trimmed); te: such; devāsaḥ: (resplendent ones); svaravaḥ: possessed of their own parts (entire); tasthivāṃsaḥ: standing (the posts); asme: to this sacrificer; prajāvat: accompanied by offspring; ratnaṃ: jewels and the like; didhiṣantu: let them bear (let them bestow).
+
+**भावार्थ (Bhāvārtha)**
+
+O yūpas, the adhvaryus and others, who carry on the sacrifice and are full of faith, cut you from the vanaspatis (trees) and shaped you with the axe; standing resplendent, endowed with all your parts (entire), bestow on this sacrificer wealth and the like together with offspring.
+
+**Printed English translation**
+
+May those (posts) which devout men have cut down, or which, Vana-spati, the axe has trimmed, may they standing resplendent with all their parts (entire) bestow upon us wealth with progeny.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नरः (*naraḥ*) — This word is stated among the names of men (Ni. 3-7) and explained as नराः मनुष्याः नृत्यंति कर्मसु (*narāḥ manuṣyāḥ nṛtyaṃti karmasu*) ("men dance in works"). Sāyaṇa has explained the meaning as कर्मणां नेतारो अध्वर्यादयः (*karmaṇāṃ netāro adhvaryādayaḥ*), that is, the ṛtvijs such as the adhvaryu who perform the works of the sacrifice without deficiency or excess.
+
+स्वधितिः (*svadhitiḥ*) — स्वा स्वकीया निशितधारा धीयते प्रक्षिप्यते अनेनेति स्वधितिः खड्गः (*svā svakīyā niśitadhārā dhīyate prakṣipyate aneneti svadhitiḥ khaḍgaḥ*). Its sharp edge (blade) is driven against another object for cutting, and so it is called svadhiti, a knife; Sāyaṇa so explains and gives the meaning "axe" (paraśu) [the printed "ಹೇಳಿದಾರೆ" as supplied]. The word svadhiti is stated among the eighteen names of the thunderbolt, beginning दिद्युत् नेमिः (*didyut nemiḥ*) (Ni. 3-11).
+
+देवासः स्वरवः (*devāsaḥ svaravaḥ*) — स्वरु शब्दः स्वशकलवाची । लुप्तमत्त्वर्थीयः (*svaru śabdaḥ svaśakalavācī | luptamattvarthīyaḥ*). Because it is a part belonging to the vanaspati (tree), the yūpa is used here in the sense of śakala (chip, piece). Since the adjective देवासः (*devāsaḥ*) is given to this word, the explanation is that this piece shines like the gods (देवा इव दीप्यमानाः (*devā iva dīpyamānāḥ*)). In the Mahākratus
+
+*(page break)*
+
+### Printed p. 98
+
+*[Running head, p. 98: 98 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+many yūpas are used; this point is indicated here by the plural word ते (*te*). Because the yūpa is spoken of as a yūpa-piece, it is here denoted by the word स्वरु (*svaru*), which means a piece.
+
+रत्नम् (*ratnam*) — This word is stated among the names of wealth (Ni. 3-9). By the sentence प्रजावदस्मे दिधिषन्नु रत्नं (*prajāvadasme didhiṣannu ratnaṃ*) [sic, as supplied: the Saṃhitā has दिधिषंतु (*didhiṣaṃtu*)] it is prayed that these yūpas may bestow on the sacrificer who performs the sacrifice excellent sons and wealth.
+
+**Vyākaraṇa-prakriyā**
+
+Grammar notes, noted briefly. निमिम्मु: (*nimimmu:*) [as supplied]: root डुमिञ् प्रक्षेपणे (*ḍumiñ prakṣepaṇe*); liṭ, third person plural, substitution of us by परस्मैपदानां (*parasmaipadānāṃ*) (Pā. 3-4-82); reduplication of the root; by असंयोगाल्लिट्‌कित् (*asaṃyogālliṭkit*) (1-2-5) the suffix is treated as k-marked, so no guṇa; yaṇ substitution; by यद्वृत्तानित्यम् (*yadvṛttānityam*) (Pā. 8-1-66) nighāta is prohibited; by the paribhāṣā सतिशिष्टः स्वर बलीयस्त्वम् (*satiśiṣṭaḥ svara balīyastvam*) the suffix accent prevails, so the word is final-udātta; by तिजिचोदात्तवति (*tijicodāttavati*) (Pā. 8-1-71) the gati (ni) is anudātta.
+
+स्वधितिः (*svadhitiḥ*): root धि धारणे (*dhi dhāraṇe*) [as supplied]; with sva as upapada, suffix ktin by स्त्रियांक्तिन् (*striyāṃktin*); स्वा स्वकीया निशितधारा धीयते प्रक्षिष्यते अनेन इति स्वधितिः=खड्ग (*svā svakīyā niśitadhārā dhīyate prakṣiṣyate anena iti svadhitiḥ=khaḍga*); initial udātta by इत्यादिर्नित्यम् (*ityādirnityam*).
+
+ततक्ष (*tatakṣa*): root तक्षू त्वक्कू तनूकरणे (*takṣū tvakkū tanūkaraṇe*) [as supplied]; liṭ, third person singular. Because of the connection with वा (*vā*), nighāta is prohibited by चवा (*cavā*) (Pā. 8-1-59); by लिति (*liti*) (Pā. 6-1-193) the syllable before the suffix takes udātta.
+
+स्वरवः (*svaravaḥ*): root स्व शब्दोपतापयोः (*sva śabdopatāpayoḥ*); suffix u by श्व स्वस्निहितृपि (*śva svasnihitṛpi*) (Uṇ. 1-10) [as supplied]; guṇa of the root's ṛ with raparatva, giving स्वरु (*svaru*); nit carried on from the previous sūtra, so initial udātta by इत्यादिर्नित्यम् (*ityādirnityam*); nominative plural.
+
+तस्थिवांसः (*tasthivāṃsaḥ*): root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); liṭ in the sense of the present by छंदसिलुज् (*chaṃdasiluj*) [as supplied]; replacement by kvasu by क्वसुश्च (*kvasuśca*) (Pā. 3-2-107); since the root is monosyllabic, iṭ augment of the following suffix by वस्वेकाजा (*vasvekājā*) (Pā. 7.2-67, as printed); reduplication of the root; the ā is udātta by the suffix accent; nominative plural.
+
 ---
 
-**Progress note:** Done through printed p. 95 (PDF 95). pp. 92-95: Sukta 8 Rk 5 complete; p. 94 head split from p. 93 prose (structure only)
+**Progress note:** Done through printed p. 98 (PDF 98). pp. 96-98: Sukta 8 Rk 6 through Special Topics; grammar page 98 partial (continues, Ṛk 6 grammar goes on p. 99)
