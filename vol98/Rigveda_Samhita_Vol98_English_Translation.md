@@ -3453,6 +3453,92 @@ in these ṛks it is said that Agni has these three names: Varuṇa when he is b
 
 it is said that Mitra is the lord of the day and Varuṇa the lord of the night. It should therefore be noted that these three deities are in some places said to be part-deities of the Sun and in some places different names of Agni.
 
+### Printed p. 120
+
+*Running head: [120 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186]. The window continues the Special Topics of Ṛk 2 of Sūkta 186 (Mitra, Aryaman, Varuṇa) from p. 119; no new ṛk begins in this window.*
+
+In the Purāṇas and elsewhere Mitra is one of the twelve Ādityas. In the Ṛgveda, though Mitra is another name of the Sun, Mitra has a distinct individuality, that is, a personal importance of his own. In the Ṛgveda Mitra, Varuṇa and Aryaman are said to be sons of Aditi, and so they are in many places called Ādityas. That these Ādityas, that is, the sons of Aditi, are six in number:
+
+इमा गिर आदित्येभ्यो धृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि । (*imā gira ādityebhyo dhṛtasnūḥ sanādrājabhyo juhvā juhomi |*)
+शृणोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ॥ (*śṛṇotu mitro aryamā bhago nastuvijāto varuṇo dakṣo aṃśaḥ ‖*)
+
+((म सं. २-२७-१) (*(ma saṃ. 2-27-1)*), as printed; the book prints "ಮ ಸಂ.")
+
+that is, only six names are given: Mitra, Aryaman, Bhaga, Varuṇa, Dakṣa and Aṃśa.
+
+देवा आदित्या ये सप्त तेभिः सोमाभि रक्ष न इंद्रायेंदो परि स्रव । (*devā ādityā ye sapta tebhiḥ somābhi rakṣa na iṃdrāyeṃdo pari srava |*)
+((पु. सं ९-११४-३) (*(pu. saṃ 9-114-3)*), as printed; the book prints "ಪು. ಸಂ")
+
+in this मक्किनल्लि (*makkinalli*) [?] [as printed] it is said that the sons of Aditi are seven.
+
+अष्टौ पुत्रासो अदितेर्ये जातास्तन्व १ स्परि [?] । (*aṣṭau putrāso aditerye jātāstanva 1 spari [?] |*)
+देवा उपप्रैत्सप्तभिः परा मार्तंडमास्यत् । (*devā upapraitsaptabhiḥ parā mārtaṃḍamāsyat |*)
+सप्तभिः पुत्रैरदितिरुप प्रैत्तूर्व्यं युगं । (*saptabhiḥ putrairaditirupa praittūrvyaṃ yugaṃ |*)
+प्रजायै मृत्यवे त्वत्पुनर्मार्तंडमाभरत् ॥ (*prajāyai mṛtyave tvatpunarmārtaṃḍamābharat ‖*)
+((म. सं. १०-७२-८, ९) (*(ma. saṃ. 10-72-8, 9)*))
+
+in these ṛks it is said that Aditi had first seven and then Mārtaṇḍa, eight sons in all. (The supplied text has जातास्तन्व १ स्परि [?] (*jātāstanva 1 spari [?]*) in the first line, with a stray "೧", marked [?].) Besides, in the Taittirīya Āraṇyaka:
+
+अष्टा पुत्रासो आदितेः । ये जातास्तन्वः परि । देवा उपप्रैत्सप्तभिः । परामार्तंडमास्यत् । सप्तभिः पुत्रैरदितिः । उपप्रैत्सूर्व्यं युगं । प्रजायै मृत्यवे तत् । परामार्तंडमाभरदिति । ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंशश्च भगश्च । इंद्रश्च विवस्वाग्- श्चेत्येते । (*aṣṭā putrāso āditeḥ | ye jātāstanvaḥ pari | devā upapraitsaptabhiḥ | parāmārtaṃḍamāsyat | saptabhiḥ putrairaditiḥ | upapraitsūrvyaṃ yugaṃ | prajāyai mṛtyave tat | parāmārtaṃḍamābharaditi | tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃśaśca bhagaśca | iṃdraśca vivasvāg- ścetyete |*)
+((कृ. आ. १-१३-३) (*(kṛ. ā. 1-13-3)*), "ಕೃ. ಆ." as printed)
+
+the names of the eight sons of Aditi are also given: Mitra, Varuṇa, Dhātā, Aryaman, Aṃśa, Bhaga, Indra and Vivasvān are said to be those eight. The same matter is stated in the Taittirīya Brāhmaṇa:
+
+अदिति पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्चे- षणमददुः । तत्पाश्नात् । सा रेतोधत्त । तस्यै धाता चार्यमा चाजा- (*aditi putrakāmā | sādhyebhyo devebhyo brahmaudanamapacat | tasyā ucce- ṣaṇamadaduḥ | tatpāśnāt | sā retodhatta | tasyai dhātā cāryamā cājā-*)
+
+### Printed p. 121
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4.] Ṛgveda-saṃhitā 121 (as supplied).*
+
+येतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोधत्त । तस्यॆ मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या अगंशश्च भगश्चाजायेतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या इंद्रश्च विवस्वाग्ंश्चाजायेतां (*yetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā retodhatta | tasyè mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā agaṃśaśca bhagaścājāyetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā iṃdraśca vivasvāgṃścājāyetāṃ*)
+((तै. ब्रा. १-१-९-१, २, ३.) (*(tai. brā. 1-1-9-1, 2, 3.)*))
+
+The matter that Aditi obtained eight sons is clearly set out here. Of these eight, the three Mitra, Varuṇa and Aryaman are especially famous in the Ṛgveda. In the sūkta २-२७ने (*2-27ne*) of the Ṛg. Saṃ. there is a detailed description of the beneficent heroic deeds of Mitra, Varuṇa and Aryaman.
+
+मित्रः—मित्रशब्दद (*mitraḥ—mitraśabdada*) — Yāska in his Nirukta has stated the derivation of the word *mitra* in this way:
+
+मित्रः प्रमीतेस्त्रायते । संमिन्वानो द्रवतीति वा । मेदयतेर्वा । (*mitraḥ pramītestrāyate | saṃminvāno dravatīti vā | medayatervā |*)
+((नि. १०-२१) (*(ni. 10-21)*))
+
+What is the meaning of the word *mitra*? ऎंदरॆ—मित्रः कस्मात् । स हि प्रमीतेः त्रायते । प्रमीतिः मरणं । (*èṃdarè—mitraḥ kasmāt | sa hi pramīteḥ trāyate | pramītiḥ maraṇaṃ |*) — *pramīti* means death. Because this deity gives rain to the people in the world, and thereby provides food and so on, and saves and protects them from the fear of death that may come from hunger, he is called Mitra.
+
+समंततो मिन्वानः उदकेन द्रवति अंतरिक्षलोके । (*samaṃtato minvānaḥ udakena dravati aṃtarikṣaloke |*) — because this deity, being lord of water and staying in the atmosphere, makes, through the clouds, all around, that is, the whole region, drenched, that is, wet with water, he is called Mitra. Or: अथवा-स्नेहनार्थस्य (*athavā-snehanārthasya*) [?] सर्वं ह्यसावुदकेन स्नेहयति । (*sarvaṃ hyasāvudakena snehayati |*) — because this deity makes everything cling together with water, that is, join together in one, he is called Mitra. Having given the derivation in three ways, in order to support it he has quoted the ṛk
+
+मित्रो जनान् यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्यां । (*mitro janān yātayati bruvāṇo mitro dādhāra pṛthivīmuta dyāṃ |*)
+मित्रः कृष्टीरनिमिषाभि चष्टे मित्राय हव्यं धृतवज्जु होत ॥ (*mitraḥ kṛṣṭīranimiṣābhi caṣṭe mitrāya havyaṃ dhṛtavajju hota ‖*)
+((ऋ. सं. ३-५९-१) (*(ṛ. saṃ. 3-59-1)*))
+
+as an example. In this ṛk Mitra, helping agricultural and other works, pouring rain and so on, providing people with food and the like, supports, that is, nourishes, the people of the earth and the dwellers of heaven. "O men, offer to this Mitra the deity
+
+### Printed p. 122
+
+*Running head: [122 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+oblations and the like mixed with ghee": thus the unique qualities of Mitra and his beneficence to the world are very well described. The only sūkta in the Ṛgveda addressed to Mitra is this sūkta of 9 ṛks ((ऋ सं. ३-५९) (*(ṛ saṃ. 3-59)*)); elsewhere Mitra is praised together with Varuṇa and other deities.
+
+Since the association of Mitra and Varuṇa is very close, the sūkta with Mitra alone as deity is, as said before, only one in the Ṛgveda ((ऋ. सं. ३-५९) (*(ṛ. saṃ. 3-59)*)); even there the praise of the deity is unclear. But in the first ṛk only the distinctive quality of Mitra is well stated. In the fifth ṛk of the same sūkta:
+
+महा आदित्यो नमसोपसद्यो यातयज्जनो गृणते सुशेवः । (*mahā ādityo namasopasadyo yātayajjano gṛṇate suśevaḥ |*)
+((म. सं. ३-५९-५) (*(ma. saṃ. 3-59-5)*))
+
+this Mitra is called the great Āditya who gathers all men together. The word यातयज्ञन (*yātayajñana*) ("one who brings the people together") which gives this meaning,
+
+व्रतेन स्थो ध्रुवक्षेमा धर्मणा यातॆयज्जना । (*vratena stho dhruvakṣemā dharmaṇā yātèyajjanā |*)
+((ऋ. सं. ५-७२-२) (*(ṛ. saṃ. 5-72-2)*))
+
+in this ṛk is applied to the pair Mitra and Varuṇa, and
+
+मित्रस्तयोर्वरुणो यातयज्जनोऽर्यमा यातयज्जनः । (*mitrastayorvaruṇo yātayajjano 'ryamā yātayajjanaḥ |*)
+((म. सं. १-१३६-३) (*(ma. saṃ. 1-136-3)*))
+
+in this ṛk to the three, Mitra, Varuṇa and Aryaman. According to the sūkta ऋ. सं ३-५९ नॆय (*ṛ. saṃ 3-59 nèya*) [as above], Mitra is the support of heaven and earth; the five tribes of men (*pañcajanāḥ*) are obedient to him; he is the support of the life of all the other gods: so the qualities of Mitra are described. In ऋ सं. ५-८१-४ रल्लि (*ṛ saṃ. 5-81-4 ralli*) Savitṛ and Mitra are said to be one; in the Vājasaneyi Saṃhitā ((वा. सं. ४-३ ) (*(vā. saṃ. 4-3 )*)) Viṣṇu is said to have taken three steps following the rules of Mitra; in ऋ. सं. १०-८-४ रल्लि (*ṛ. saṃ. 10-8-4 ralli*) Agni, established before the dawn, is said to produce Mitra for himself; in ऋ. सं. ३-५-४ रल्लि (*ṛ. saṃ. 3-5-4 ralli*) the blazing Agni is said to be Mitra; in ऋ सं. ५-३-१ रल्लि (*ṛ saṃ. 5-3-1 ralli*) it is said that Agni is Varuṇa when born and Mitra when kindled;
+
+मित्रो अग्निर्भवति यत्समिद्दो मित्रो होता वरुणो जातवेदाः । (*mitro agnirbhavati yatsamiddo mitro hotā varuṇo jātavedāḥ |*)
+मित्रो अध्वर्युरिषिरो दमूना मित्रः सिंधूनामुत पर्वतानां ॥ (*mitro adhvaryuriṣiro damūnā mitraḥ siṃdhūnāmuta parvatānāṃ ‖*)
+((ऋ. सं. ३-५-४) (*(ṛ. saṃ. 3-5-4)*))
+
+in this ṛk the well-kindled Agni is described as Mitra, who is the Hotṛ and the Adhvaryu in the sacrifice, and Varuṇa, and the Agni called Jātavedas, and the friend (benefactor) of rivers and mountains: so the qualities of Mitra are described.
+
 ---
 
-**Progress note:** Done through printed p. 119 (PDF 119). Done through printed p. 119 (Sukta 186 Rk 1 complete; Rk 2 complete with Special Topics Mitra/Aryaman/Varuna)
+**Progress note:** Done through printed p. 122 (PDF 122). Done through printed p. 122 (Sukta 186 Rk 2 Special Topics on Mitra continues)
