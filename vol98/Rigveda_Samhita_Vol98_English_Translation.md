@@ -9979,6 +9979,105 @@ The herb, just as it comes near the one bitten by poison, destroys some poison-b
 
 *[A stray line of the supplied text, [22] Vol. 14 (*[22] Vol. 14*), is kept as an italic note in the Kannada text.]*
 
+### Printed p. 338
+
+*Running head (as supplied): [338 सायणभाष्यसहिता [मं. १. अ. २४. सू. १९१] (*[338 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24. sū. 191]*).*
+
+*(Continuation of Ṛk 2 of Sūkta 191, after the Bhāvārtha which ended the previous window.)*
+
+**Printed English translation**
+
+(The antidote), coming (to the bitten person), destroys the nnseen (venomons creatures); departing, (it destroys them) ; deprived (of substance), it destroys them (by its odour); being ground, it pulverises them-
+
+*[The supplied text of the printed English reads "nnseen" and "venomons", apparent misreadings of the print; kept as supplied. The printed English ends with a hyphen, as supplied.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 2)**
+
+In this ṛk the nature of herbs that can destroy or remove poison is described.
+
+अदृष्टान् हंति आयती (*adṛṣṭān haṃti āyatī*): the poison-removing herb, even as it comes, kills the poisonous creatures hidden so as not to be seen by the eye; that is, by the power of the herb the poisonous creatures are destroyed at once.
+
+अथो हंति परायती—परागच्छंती सम्मार्जनसमयेऽर्वाक्षप्रवृत्ता हंति (*atho haṃti parāyatī—parāgacchaṃtī sammārjanasamaye 'rvākṣapravṛttā haṃti*) (as printed): they have given the meaning of this sentence as that it destroys the poison which goes out of the body at the time of washing the wound bitten by a snake. This does not appear so fitting. The word परायिती (*parāyitī*) (as printed) means going backward. Therefore the meaning that the herb destroys the serpents and the like who, in fear that the men they have bitten will kill them, escape and run backward out of sight, fits here.
+
+आथो अवघ्नती हंति (*ātho avaghnatī haṃti*) (as printed): the herb kills snakes by its sharp smell. Snakes cannot bear the smell of some herbs (नागदाळीसप्पु (*nāgadāḷīsappu*) and the like); therefore they leave the place where such herbs are. If the word *avaghnatī* is taken as formed with the prefix *ava* from the root घ्रा (जिघ्र) (*ghrā (jighra)*), meaning "smell", the meaning given above fits. Or, if it is taken as formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*) ("kill"), the word *avaghnatī* may mean the poisonous creatures that bite (men) and kill; that the herb kills (destroys) such poisonous creatures is another way in which the meaning may be given.
+
+अथो पिनष्टि पिंषती (*atho pinaṣṭi piṃṣatī*): some herbs used for medicines are used after being powdered. Such a powder crushes (grinds) and kills the poisonous creatures, that is, destroys them; this is the purport.
+
+The idea stated in the four pādas of this ṛk is all more or less of one kind. For these sentences it may be said that the herbs destroy the poisons spread in the wound, or
+
+### Printed p. 339
+
+*Running head (as supplied): [अ. २. अ. ५. व. १४. ] ऋग्वेदसंहिता 339 (*[a. 2. a. 5. va. 14. ] ṛgvedasaṃhitā 339*).*
+
+*(The word *may be said*, हेळ (*heḷa*) at the end of p. 338 and बहुदु (*bahudu*) at the start of this page, is divided by the page boundary, as printed.)*
+
+or that they destroy poison-laden serpents and the like; so the bhāṣyakāra has explained.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 2, noted briefly)
+
+The page explains: हंति (*haṃti*) (root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*), of the *adādi* class; present third person singular; the verbal *nighāta* accent); आयती (*āyatī*) (root इण् गतौ (*iṇ gatau*); the suffix *śatṛ*; *ṅīp* when the feminine is intended; the acute on the end by the rule ततुत नुमोनद्यजादी (*tatuta numonadyajādī*) (पा. सू. ६-१-१७३ (*pā. sū. 6-1-173*)); the same in पराऋती अवघ्नती (*parāṛtī avaghnatī*), as printed); अवघ्नती (*avaghnatī*) (root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*); the suffix *śatṛ* in the sense of the present; by *vyatyaya* an agent suffix stands here in the passive; in the sense "being pounded" the form would have to be अवहन्यमाना (*avahanyamānā*), therefore the suffix *śatṛ* itself denotes the object); पिनष्टि (*pinaṣṭi*) (root पिषल्य संचूर्णने (*piṣalya saṃcūrṇane*), as printed, of the *rudhādi* class; present third person singular with the suffix *tip*; the *śnam* vikaraṇa, because marked *m*, comes after the last vowel; the substitution of *ṭ* for the suffix by the rule of *ṣṭutva*; the verbal *nighāta* accent because it follows a verb form).
+
+*[Two readings, one in the Saṃhitā and one in the Pada, are marked with a query, as they differ from the bhāṣya or from the other line.]*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> श॒रासः॒ कुश॑रासो द॒र्भासः॑ सै॒र्या उ॒त ।
+> मौं॒जा अ॒दृष्टा॑ वैरि॒णाः सर्वे॑ सा॒कं नृ॑लिप्सत [?] ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> शरासः । कुतरासः [?] । दर्भासः । सैर्याः । उत ।
+> मौंजाः । अदृष्टाः । वैरिणाः । सर्वे । साकं । नि । अलिप्सत ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अन्यांश्च विषहेतूनाह । शरासः शरा वेणुदंडसदृशा अंतशिद्रास्त्रृणविशेषाः ।
+> कुशरासः कुत्सितशरा अंतशिद्राः शरसदृशास्त्रृणविशेषाः । दर्भासो दर्भाः कुशाः ।
+> सैर्यास्तटाकादिप्रांतोद्भवास्त्रृणविशेषा अश्ववाला इति प्रसिद्धाः । मौंजा मुंजाः
+
+> *anyāṃśca viṣahetūnāha | śarāsaḥ śarā veṇudaṃḍasadṛśā aṃtaśidrāstrṛṇaviśeṣāḥ |*
+> *kuśarāsaḥ kutsitaśarā aṃtaśidrāḥ śarasadṛśāstrṛṇaviśeṣāḥ | darbhāso darbhāḥ kuśāḥ |*
+> *sairyāstaṭākādiprāṃtodbhavāstrṛṇaviśeṣā aśvavālā iti prasiddhāḥ | mauṃjā muṃjāḥ*
+
+### Printed p. 340
+
+*Running head (as supplied): [340 सायणभाष्यसहिता [ मं. १. आ. २४. सू. १९१] (*[340 sāyaṇabhāṣyasahitā [ maṃ. 1. ā. 24. sū. 191]*).*
+
+*(The bhāṣya block of Ṛk 3 is divided by the page boundary; its remainder follows.)*
+
+> प्रसिद्धाः । वैरिणा वीरणप्रकाराः । एतेषु वर्तमाना अदृष्टा उक्तरूपाः सर्वे
+> विषधराः साकं मिलित्वा नृलिप्सत । निलंपंति स्म ॥
+
+*Gist:* Other causes of poison: reeds, kuśara, darbha, sairya, muñja and vīraṇa grasses; the unseen poisonous creatures in them together smear me with poison.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+शरासः—शरा ऎंब तृणदल्लडगिरुवुवू (*śarāsaḥ—śarā èṃba tṛṇadallaḍagiruvuvū*) (those hidden in the grass called *śarā*). कुशरासः—कुशवॆंब तृणवन्नाश्रयिसिरुवुवू (*kuśarāsaḥ—kuśavèṃba tṛṇavannāśrayisiruvuvū*) (those lodged in the grass called *kuśa*). दर्भासः—दर्भॆगगळल्लिरुवुवू (*darbhāsaḥ—darbhègagaḷalliruvuvū*) (those in darbha grasses). सैर्य्याः—सैर्य ऎंब जॊंडिनल्लिरुवुवू (*sairyyāḥ—sairya èṃba jòṃḍinalliruvuvū*) (those in the reed called *sairya*). मौंजाः—मुंजद पॊदॆयल्लडगिरुवुवू (*mauṃjāḥ—muṃjada pòdèyallaḍagiruvuvū*) (those hidden in a clump of *muñja*). वैरिणः—वीरणदल्लिरुवुवू आगि (*vairiṇaḥ—vīraṇadalliruvuvū āgi*) (and those in *vīraṇa*). अदृष्टाः—कण्णिगॆ गोचरवागदिरुव (*adṛṣṭāḥ—kaṇṇigè gocaravāgadiruva*) (not visible to the eye). सर्वे—समस्तवाद विषधरगळू सह (*sarve—samastavāda viṣadharagaḷū saha*) (all the poison-bearers too). साकं—जॊतॆयल्लि सेरिकॊंडु (*sākaṃ—jòtèyalli serikòṃḍu*) (joining together). न्यलिस्सत—नन्नन्नु विष पूरितनन्नागि माडुत्तवॆ (*nyalissata—nannannu viṣa pūritanannāgi māḍuttavè*) (they fill me with poison; the word printed as here).
+
+*[As supplied, the label line of the Bhāvārtha reads भाषा (*bhāṣā*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+All the poison-bearers that hide in the grasses *śarā*, *kuśa*, *sairya*, *muñja*, *vīraṇa* and the like, and are not visible to the eye, bite us and make our whole body filled with poison.
+
+*[As supplied, the label line of the printed English reads Englih Tranlation (*Englih Tranlation*) (sic); standard label inserted.]*
+
+**Printed English translation**
+
+(Blades of) shara grass, (of) kushara, (of) darbha, (of) sourya, (of) munja, (of) virana, all (the haunt) of unseen (venomous creatures), have together anointed me (with their venom).
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3)**
+
+In this ṛk are mentioned the various grasses, darbha and the like, in which snakes hide so as not to be seen by the eye.
+
+शरासः—वेणुदंडसदृशा अंतश्चिद्रास्त्रणविशेषाः (*śarāsaḥ—veṇudaṃḍasadṛśā aṃtaścidrāstraṇaviśeṣāḥ*): a kind of grass or darbha that is tall and straight like a bamboo and looks as if cut in the middle (Sacoharum Sara (*Sacoharum Sara*), as printed). This kind of darbha grows thickly and in regions where there is water. Since they are about waist-high, it is not possible to know what is at their roots; the meaning is that snakes are hiding in such a region where nothing can be seen by the eye.
+
+कुशरासः— कुत्सितशरा अंतश्चिद्राः शरसदृशास्त्रणविशेषाः (*kuśarāsaḥ— kutsitaśarā aṃtaścidrāḥ śarasadṛśāstraṇaviśeṣāḥ*): the darbha called *kuśara* too is just like the darbha *śara* mentioned above, that is, it belongs to the same kind, but it does not grow very tall.
+
+दर्भासः (*darbhāsaḥ*): the grass called darbha, used in sacrifices and in domestic rites. It grows as thick as a हॆंची कड्डि (*hèṃcī kaḍḍi*) (as printed) (Poa cynosuroides (*Poa cynosuroides*)).
+
 ---
 
-**Progress note:** Done through printed p. 337 (PDF 337). Sukta 191 Rik 1 complete (printed English, Special Topics, grammar); Rik 2 complete through the Bhavartha; four readings marked with a query
+**Progress note:** Done through printed p. 340 (PDF 340). Sukta 191 Rik 2 complete; Rik 3 complete through the first entries of the Special Topics (darbha); two readings marked with a query
