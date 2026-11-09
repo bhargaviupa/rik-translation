@@ -3711,6 +3711,94 @@ Although in the sūkta ऋ. सं. १०-१२६ (*ṛ. saṃ. 10-126*) the 
 
 *[Stray lines in the supplied text, twice: "[9] Vol. 14". The window ends mid-sentence.]*
 
+### Printed p. 130
+
+*Running head: [130 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186], with tabs between the words in the supplied text. The window continues the Ṛk 2 grammar page of Sūkta 186 from p. 129, in the middle of the note on *bhuvan*.*
+
+... [the sentence begins on p. 129, with the rule "ಆಗಮಶಾಸ್ತ್ರಮನಿತ್ಯಮ್ (ಪರಿ. ೯೩ ೨)"] the augment यासुटागम (*yāsuṭāgama*) (as printed) does not occur. Because it stands at the beginning of the pāda there is no *nighāta* accent; by the accent of the root, the first syllable is acute. वृधासः—वृधु (*vṛdhāsaḥ—vṛdhu*) (root वृधासः—वृधु (*vṛdhāsaḥ—vṛdhu*) "to grow"): by इगुपधज्ञाप्रीकिरः कॆः ऎंबुदरिंद (*igupadhajñāprīkiraḥ kèḥ èṃbudariṃda*) the suffix *ka*; because it is marked *k* there is no guṇa of the penultimate short vowel; by the suffix accent the last syllable is acute; when *jas* follows it, by आज्जसेरसुक् (पा. सू- ७-१-५०) (*ājjaserasuk (pā. sū- 7-1-50)*) (Pā. Sū. 7-1-50) the augment *asuk*. करन्-डुकृञ् (*karan-ḍukṛñ*) (root करन्-डुकृञ् (*karan-ḍukṛñ*) "to do"): by छंदसि लुज्लज्‌लिटः ऎंबुदरिंद (*chaṃdasi lujlajliṭaḥ èṃbudariṃda*) *luṅ* in the sense of the imperfect (*laṅ*); by कैमृदुरुहिभ्यः-(पा. सू. ३-१-५९) (*kaimṛduruhibhyaḥ-(pā. sū. 3-1-59)*) (Pā. Sū. 3-1-59) *aj* for *cli*; by गुणः (पा सू. ७-४-१६) (*guṇaḥ (pā sū. 7-4-16)*) (Pā. Sū. 7-4-16) guṇa with *r* of the *ṛ* of the root when *aj* follows; by बहुलं छंदस्यमाज्‌योगेऽपि (पा. सू. ६-४-७५) (*bahulaṃ chaṃdasyamājyoge 'pi (pā. sū. 6-4-75)*) (Pā. Sū. 6-4-75) the augment *aṭ* does not occur; because it stands at the beginning of the pāda there is no *nighāta* accent (the print has "ನಿಘಾಶಸ್ವರ" as supplied); the accent of the root remains. सुसाहा—सह (*susāhā—saha*) (root सुसाहा—सह (*susāhā—saha*) "to bear, to endure"): the suffix *kvip*; in a compound with a prefix the accent of the later member, a *kṛt* word; instrumental singular form (printed "ವಿಕವಚನ", as supplied); the lengthening in the Saṃhitā is Vedic. विथुरम्—व्यथॆ (*vithuram—vyathè*) (root विथुरम्—व्यथॆ (*vithuram—vyathè*) "to tremble, to fear"): by व्यथेः संप्रसारणं किच्चि (उ सू. १-३९) (*vyatheḥ saṃprasāraṇaṃ kicci (u sū. 1-39)*) (Uṇ. Sū. 1-39) the suffix *uraca*; since the prohibition न संप्रसारणे संप्रसारणम् (*na saṃprasāraṇe saṃprasāraṇam*) applies, *saṃprasāraṇa* of *y* to *i* occurs, the earlier form replaced by the later; because the suffix has the mark *c*, by चितः (पा. सू. ६-१-१६३) ऎंबुदरिंद (*citaḥ (pā. sū. 6-1-163) èṃbudariṃda*) (Pā. Sū. 6-1-163) the last syllable is acute.
+
+#### Ṛk 3
+
+*[As supplied, the label line of the next section reads संवादः (*saṃvādaḥ*); standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> प्रेष्ठं॑ वो॒ अति॑थिं गृणीषे॒ ऽग्निं श॒स्तिभि॑स्तु॒र्वणः॑ [?] स॒जोषाः॑ ।
+> अस॒द्यथा॑ नो॒ वरु॑णः सुकी॒र्तिरिष॑श्च पर्षदरिगू॒र्तः सू॒रिः ॥ ३ ॥
+
+> *preṣṭhaṃ vo atithiṃ gṛṇīṣe 'gniṃ śastibhisturvaṇaḥ [?] sajoṣāḥ |*
+> *asadyathā no varuṇaḥ sukīrtiriṣaśca parṣadarigūrtaḥ sūriḥ ‖ 3 ‖*
+
+*[A stray line in the supplied text after the Saṃhitā: ॥ à ॥ (*‖ à ‖*). The supplied text has तुर्वणः [?] (*turvaṇaḥ [?]*) for the Pada's तुर्वणिः (*turvaṇiḥ*); marked [?]. As supplied, the label line of the next section reads कन्नड (*kannaḍa*); standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> प्रेष्ठं । वः । अतिथिं । गृणीषे । अग्निं । शस्तिभिः । तुर्वणिः । सजोषाः ।
+> असत् । यथा । नः । वरुणः । सुकीर्तिः । इषः । च । पर्षत् । अरिगूर्तः । सूरिः ॥ ९ [?] ॥
+
+> *preṣṭhaṃ | vaḥ | atithiṃ | gṛṇīṣe | agniṃ | śastibhiḥ | turvaṇiḥ | sajoṣāḥ |*
+> *asat | yathā | naḥ | varuṇaḥ | sukīrtiḥ | iṣaḥ | ca | parṣat | arigūrtaḥ | sūriḥ ‖ 9 [?] ‖*
+
+*[The Pada ends "॥ ೯ [?] ॥" in the supplied text, where ೩ is expected; kept as supplied, marked [?].]*
+
+### Printed p. 131
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 131 (as supplied, "ವ ೪").*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देवाः वो युष्माकं प्रेष्ठं प्रियतमं । सर्वेषामाह्वातृत्वाद्धविर्व-
+> हनाच्चाग्निर्देवानां प्रियतमः । तमतिथिं गृणीषे । गृणे । सौमि ॥ व्यत्ययेन
+> मध्यमः ॥ केन साधनेन । शस्तिभिः शंसनैः स्तुतिभिः । कीदृशोऽहं । तुर्वणिस्तूर्ण-
+> वनिः शीघ्रं संभक्ता सजोषा युष्माभिः सह प्रीयमाणः । यद्वा । एते अग्नि विशे-
+> षणे । यस्तुर्वणिः शीघ्रं यज्ञस्य संभक्ता सजोषा युष्माभिः सह प्रियमाणः
+> तमग्निं गृणिषे । यथा येन प्रकारेण नोऽस्माकं वरुण एतन्नामको देवः
+> सुकीर्तिः शोभनकीर्तिमानसत् । सुकीर्तिं भिक्षे वरुणस्य भूरेः । ऋ. २-२८-१ ।
+> इत्यादिमंत्रवर्णेषु वरणात्सुकीर्तिरेवैषणीया । अरिगूर्तोऽरिष्टदातृषु सदा
+> शब्दितः अरीणां हनना- योद्युक्तो वा सूरिः प्रेरयितायं वरुण इषश्चान्नानि
+> पर्षत् । पूरयेत् । तथा तमपि स्तुम इत्यर्थः ॥
+
+*Gist:* O gods, I praise Agni, your dearest guest, with praises, swift and in accord with you; so may Varuṇa be of fair renown to us, fill us with food, and so we praise him too.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देवाः (*devāḥ*) — O gods. तुर्वणिः (*turvaṇiḥ*) — eager to perform the sacrifice and please the gods. सजोषाः (*sajoṣāḥ*) — beloved equally by all the gods: I. [Or (यः (*yaḥ*) — whichever Agni), तुर्वणिः (*turvaṇiḥ*) — eager to carry the oblation to the gods, सजोषाः (*sajoṣāḥ*) — equally beloved among the gods] who is such, and: वः (*vaḥ*) — to you. श्रेष्ठं— (*śreṣṭhaṃ—*) — the most beloved. अतिथिं (*atithiṃ*) — guest-like. अग्निं (*agniṃ*) — Agni. शस्तिभिः (*śastibhiḥ*) — with praises. गृणीषे (*gṛṇīṣe*) — I praise. यथा (*yathā*) — in what manner. अरिगूर्तः (*arigūrtaḥ*) — the destroyer of the enemies who give nothing. सूरिः (*sūriḥ*) — and the inspirer of men to action. वरुणः (*varuṇaḥ*) — Varuṇa. सुकीर्तिः (*sukīrtiḥ*) — of excellent fame. असत् (*asat*) — may he become, (and). इषश्च (*iṣaśca*) — food. पर्षत् (*parṣat*) — may he fill (in that way I praise Varuṇa also).
+
+**भावार्थ (Bhāvārtha)**
+
+O gods, I, eager to perform the sacrifice and please the gods and equally beloved of all the gods, praise with hymns Agni, who is dearest to the gods and guest-like; and I praise Varuṇa too, the destroyer of those who give nothing and the inspirer of men to action, so that he may become for us a maker of excellent fame and fill us with food.
+
+**Printed English translation**
+
+I praise with hymns, (O gods), your best beloved guest, Agai [sic], who is prompt (to partake of the oblation), and who is well pleased along (with you); so that (thereby) Varuna, the possessor of renown, the subduer of foes, the animator (of men), may fill us with food.
+
+### Printed p. 132
+
+*Running head: [132 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+*[As supplied, the label line of the next section reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Viśve Devāḥ are said to be the deity of this sūkta. Therefore, having praised chiefly the deity Savitṛ in the first ṛk of this sūkta and the deities Mitra, Varuṇa and Aryaman (the Ādityas) in the second ṛk, the ṛṣi praises Agni and Varuṇa in the present third ṛk, that beginning प्रेष्ठं वो अतिथिं (*preṣṭhaṃ vo atithiṃ*).
+
+प्रेष्ठं (*preṣṭhaṃ*) — प्रियतमं । सर्वेषामाह्वातृत्वादविर्वहनाच्चाग्निर्देवानां (*priyatamaṃ | sarveṣāmāhvātṛtvādavirvahanāccāgnirdevānāṃ*) प्रियतमः (*priyatamaḥ*) ("dearest; because he calls all and carries the oblations, Agni is dearest of the gods"): the meaning is "Agni, who is extremely beloved". How Agni is beloved of the gods: in the sacrifices and the like that men perform, Agni takes the office of Hotṛ, invites the gods intended by the sacrificers and brings them to the sacrificial ground, and he carries the oblations that the sacrificers offer in Agni to the gods and makes them reach them; therefore it is natural to say that Agni is beloved of the gods. In the sacrifices too Agni has a close bond with the daily life of men. Agni delivers to the gods what is offered by men in the fire; for this very reason he has the name *havyavāṭ* (हव्यवाट् (*havyavāṭ*), "carrier of oblation"). Without him the gods feel no delight. This is said in the ṛk
+
+महा अस्यध्वरस्य प्रकेशो न ऋते त्वदमृता मादयंते । (*mahā asyadhvarasya prakeśo na ṛte tvadamṛtā mādayaṃte |*)
+((ऋ सं ७-११-१) (*(ṛ saṃ 7-11-1)*), as printed with "ಋ ಸಂ")
+
+And in the matter of Agni bringing the gods and carrying the oblation to them:
+
+अग्निं दूतं वृणीमहे होतारं विश्ववेदसं । (*agniṃ dūtaṃ vṛṇīmahe hotāraṃ viśvavedasaṃ |*)
+((म. सं. १-१२-१) (*(ma. saṃ. 1-12-1)*))
+
+in this ṛk Agni is prayed to as the messenger who brings the gods to the sacrificial ground and summons them.
+
+अग्ने देवा इहावह जज्ञानो व्यक्तबर्हिषे । असि होता न ईड्यः । (*agne devā ihāvaha jajñāno vyaktabarhiṣe | asi hotā na īḍyaḥ |*)
+((ऋ. सं. १-१२-२) (*(ṛ. saṃ. 1-12-2)*))
+
+in this ṛk Agni is prayed: "O Agni, since you are the Hotṛ who brings the gods, bring the gods to this sacrificial ground." In १-१४-१ (*1-14-1*) it is prayed देवेभिर्याहि (*devebhiryāhi*) ("come with the gods") to our sacrifice. Agni goes by both paths, to the earth and to the vicinity of the gods; because of that it is the custom to call him the messenger (*dūta*).
+
 ---
 
-**Progress note:** Done through printed p. 129 (PDF 129). Done through printed p. 129 (Sukta 186 Rk 2 Special Topics complete: Varuna, Aryaman; Rk 2 grammar page begun, breaks off mid-sentence)
+**Progress note:** Done through printed p. 132 (PDF 132). Done through printed p. 132 (Sukta 186 Rk 2 grammar page complete; Rk 3 complete through printed English; Special Topics begun)
