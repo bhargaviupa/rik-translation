@@ -434,6 +434,93 @@ Grammar page concluded, noted briefly: वर्तनिम् (*vartanim*) (ro
 
 *Gist (mine): Agni, the finder of the best wealth among riches and the knowing lord of horses, mounts the easily controlled mares; the blue-backed, many-formed one makes them rest to nourish his ceaseless going.* The grammatical tail of the bhāṣya (formation and accent of सीं (*sīṃ*), अरोहत् (*arohat*), सुयमाः (*suyamāḥ*), पतिः (*patiḥ*), चिकित्वान् (*cikitvān*), रयिवित् (*rayivit*), रयीणां (*rayīṇāṃ*), नीलपृष्ठः (*nīlapṛṣṭhaḥ*), आतसस्य (*ātasasya*), आवासयत् (*āvāsayat*), citing Uṇ. 117 as printed) is noted here but not explained. The Pratipadārtha and the rest of Ṛk 3 follow on the next page.
 
+### Printed p. 15
+
+*[Running head, p. 15: [Maṃ. 3. A. 1. Va. 1.] Ṛgvedasaṃhitā 15]*
+
+The bhāṣya of Ṛk 3 concludes (its last lines, on the formation of पुरुधप्रतीकः (*purudhapratīkaḥ*)):
+
+> पुरुधप्रतीकः । पुरुशब्द इह संख्यावाची । संख्याया विधार्थे धेति धाप्रत्ययः ।
+> बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । ह्रस्वश्चांदसः ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+rayīṇām — (in the midst) of riches; rayivit — the one who supplies the best wealth; cikitvān — the wise one; patiḥ — the lord of horses, Agni; sīm — in every way; suyamāḥ — easily controlled; bhavantīḥ (yāḥ) — you who are mares (O horses), whom; ā arohat — he mounts; tāḥ — those horses; nīlapṛṣṭhaḥ — he whose back is dark blue; purudhapratīkaḥ — he whose limbs are scattered in many ways (Agni); atasasya — of the ceaseless going; dhāseḥ — for the nourishment (of it); pra āvāsayat — makes them rest.
+
+(Printed as supplied: शीं (*śīṃ*) for sīm, पुरुषप्रतीकः (*puruṣapratīkaḥ*) for purudhapratīkaḥ, अतसस्य- सतत (*atasasya- satata*) with a stray hyphen; left as supplied.)
+
+**भावार्थ (Bhāvārtha)**
+
+O mares, the vehicles of Agni! Agni, who bestows the most excellent wealth, who is wise, and who is the lord of horses, mounts you in every way, you who are easily controlled. But that dark-backed Agni, of scattered limbs, in order that the nourishment needed for the unwearied going from you may reach you, in advance makes you rest.
+
+**Printed English**
+
+Their lord has mounted on his well-trained mares; the sagacious selector of treasures, the blackbacked, manylimbed (Agni) has granted them a place of rest for the cherising [sic] of (their) rapid speed.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रयीणां रयिवित् (*rayīṇāṃ rayivit*) — धनानां मध्यॆ विशिष्टधनस्य लंभयिता (*dhanānāṃ madhyè viśiṣṭadhanasya laṃbhayitā*). The word *rayi* denotes water (Ni. 2-24) and also wealth (Ni. 3-9); and since it is said, at "nū ca purā ca sadanaṃ rayīṇām", "*rayi* is a name for wealth, from *rā*, in the sense of giving" (Ni. 4-17), it conveys the meaning wealth. The meaning is that Agni obtains for those who perform the sacrifice all that is known as wealth.
+
+पुरुधप्रतीक: (*purudhapratīka:*) — पुरुशब्द इह संख्यावाची । बहुधा विक्षिप्तांगः (*puruśabda iha saṃkhyāvācī | bahudhā vikṣiptāṃgaḥ*). It is explained that Agni pervades all places.
+
+धासेः ताः प्र अवासयत् (*dhāseḥ tāḥ pra avāsayat*) — पोषणार्थं आश्वा: प्रकर्षेण वासयेति स्म (*poṣaṇārthaṃ āśvā: prakarṣeṇa vāsayeti sma*). Because Agni is the lord of the horses, he is described as the helper by whom the horses (for their nourishment) may grow,
+
+### Printed p. 16
+
+*[Running head, p. 16: 16 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.]]*
+
+and, having removed their weariness, may move about always, and may also be at ease.
+
+चिकित्त्वा (*cikittvā*) (as printed; the bhāṣya has चिकित्वान् (*cikitvān*)) — knowing. The meaning is that Agni has spiritual knowledge.
+
+सीं (*sīṃ*) — everywhere, in all regions. The authors of the Nirukta, on the word सीं (*sīṃ*), say सीमिति परिग्रहार्थियो वा पादपूरणे वा (*sīmiti parigrahārthiyo vā pādapūraṇe vā*): the particle *sīm* is used in the sense of "taking in all round" and also as a verse-filler. Then, at विशीमतः सुरुचो-वेन आवः व्यवृणोत् सर्वत आदित्यः (*viśīmataḥ suruco-vena āvaḥ vyavṛṇot sarvata ādityaḥ*) (as supplied), they explain *sīm* as सर्वतः (*sarvataḥ*) (on all sides), and सीम्न: सीमतः सीमतो मर्यादातः सीमा मर्यादा (*sīmna: sīmataḥ sīmato maryādātaḥ sīmā maryādā*) as limit, boundary.
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+Words treated: सीम् (*sīm*) (sīm; read among the *cādi* particles, hence unaccented by चादयोऽनुदात्ताः (*cādayo 'nudāttāḥ*), Phiṭ. Sū. 84), अरोहत् (*arohat*) (root *ruh*; laṅ third singular; all-unaccented after a non-finite form), सुयमाः (*suyamāḥ*) (root *yam*; khal ending by ईषद्दुः सुषु (*īṣadduḥ suṣu*), Pā. 3-3-126; accent of the compound by the *kṛdutta-rapada* rule), पतिः (*patiḥ*) (root *pā*; ḍati ending by पातेर्दतिः (*pāterdatiḥ*), Uṇ. 4-497 as printed; loss of the ṭi; ending accented first), चिकित्वान् (*cikitvān*) (root *kit*; kvasu replacing liṭ by Pā. 3-2-107; reduplication; ending-accent), रयिवित् (*rayivit*) (root *vid*; kvip by Rā. Sū. 3-2-76 [sic, as printed]), रयीणाम् (*rayīṇām*) (genitive plural; ending accented by नामन्यतरस्याम् (*nāmanyatarasyām*), Pā. 6-1-177), नीलपृष्ठः (*nīlapṛṣṭhaḥ*) (*nīla* is in the *vṛṣādi* list, hence initial accent by वृषादीनांच (*vṛṣādīnāṃca*), Pā. 6-1-213; accent of the first member in the bahuvrīhi by बहुव्रीहौ प्रकृत्या पूर्वपदम् (*bahuvrīhau prakṛtyā pūrvapadam*), 6-2-1), दासेः (*dāseḥ*) (as printed; said to be explained already in the first Ṛk).
+
+### Printed p. 17
+
+*[Running head, p. 17: [Maṃ. 3. A. 1. Va. 1.] Ṛgvedasaṃhitā 17]*
+
+Grammar page concluded, noted briefly: अतसस्य (*atasasya*) (root *at*, in the sense of continuous going; asac ending by the sūtra beginning अत्यविचमित… (*atyavicamita…*), Uṇ. 3-397 as printed; final accent by चितः (*citaḥ*), Pā. 6-1-163; genitive singular), अवासयत् (*avāsayat*) (root *vas* "to dwell"; ṇic by हेतुमतिच (*hetumatica*), Pā. 3-1-26; vṛddhi of the penultimate by अतउपधायाः (*ataupadhāyāḥ*), Pā. 7-2-116; laṅ third singular; all-unaccented after a non-finite form), पुरुधप्रतीकः (*purudhapratīkaḥ*) (*puru* here denotes number, so dhā ending in the sense of manner by संख्याया-विधार्थे धा (*saṃkhyāyā-vidhārthe dhā*), Pā. 5-3-42; first-member accent in the bahuvrīhi, *purudhā* being end-accented by its ending; shortening of the first member is Vedic).
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> महि॑ त्वा॒ष्ट्रमू॒र्जयं॑तीरजु॒र्यं स्त॑भू॒यमा॑नं व॒हतो॑
+> वहंति ।
+> व्यंगे॑भिर्दिद्युता॒नः स॒धस्थ॒ एका॑मिव॒ रोद॑सी॒ आ वि॑वेश - ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> महि । त्वाष्टं । ऊर्जयंतीः । अजुर्यं । स्तभुयमानं । वहतः । वहंति ।
+> वि । अंगेभिः । दिद्युतानः । सधस्थे । एकांइव । रोदसी इति । आ । विवेश ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उर्जयंतीरबलं बलिनं कुर्वंत्यो वहतो वहनपरा नद्यो महि
+> महांतं त्वाष्ट्रं त्वष्टुः सुतमजुर्यं जरयितुमनर्हं स्तभूयमानं
+> लोकानां स्तंभनं धारणमिच्छंतमग्निं वहंति । धारयंति । सधस्थेऽपां समीपेऽ-
+> गेभिरवयवैर्दिद्युतानो दीप्यमानः सन् अग्नी रोदसी द्यावापृथिव्यौ व्याविवेश ।
+> विविधं प्रविष्टवान् । रोदस्योर्दृष्टांतः । एकामिव । यथा पुमानेकां स्त्रियं
+> प्रविशति । तद्वत् ॥ त्वाष्ट्रं । त्वष्टुरपत्यमित्यर्थे तस्यापत्यमित्यण् । प्रत्ययस्वरः ।
+> स्तभूयमानं । स्तभु स्तंभनं । तदिच्छंतं । सुप आत्मनः क्यच् । अकृत्सार्वधातु-
+> कयोरिति दीर्घः । तदंताद्व्यत्ययेन शानच् । अकारांतत्पादाने मुक् । शानचो
+
+> *urjayaṃtīrabalaṃ balinaṃ kurvaṃtyo vahato vahanaparā nadyo mahi*
+> *mahāṃtaṃ tvāṣṭraṃ tvaṣṭuḥ sutamajuryaṃ jarayitumanarhaṃ stabhūyamānaṃ*
+> *lokānāṃ staṃbhanaṃ dhāraṇamicchaṃtamagniṃ vahaṃti | dhārayaṃti | sadhasthe 'pāṃ samīpe '-*
+> *gebhiravayavairdidyutāno dīpyamānaḥ san agnī rodasī dyāvāpṛthivyau vyāviveśa |*
+> *vividhaṃ praviṣṭavān | rodasyordṛṣṭāṃtaḥ | ekāmiva | yathā pumānekāṃ striyaṃ*
+> *praviśati | tadvat ‖ tvāṣṭraṃ | tvaṣṭurapatyamityarthe tasyāpatyamityaṇ | pratyayasvaraḥ |*
+> *stabhūyamānaṃ | stabhu staṃbhanaṃ | tadicchaṃtaṃ | supa ātmanaḥ kyac | akṛtsārvadhātu-*
+> *kayoriti dīrghaḥ | tadaṃtādvyatyayena śānac | akārāṃtatpādāne muk | śānaco*
+> 3
+
+*Gist (mine): the mighty rivers, making the strengthless strong, carry Agni, son of Tvaṣṭṛ, who wishes to support the worlds; blazing with his limbs by the water's side, he entered heaven and earth as a man enters a woman.* The bhāṣya is cut off at the end of printed p. 17 in the middle of its grammatical tail (on त्वाष्ट्रं (*tvāṣṭraṃ*) and स्तभूयमानं (*stabhūyamānaṃ*)); the stray character "3" at its end in the supplied text is left as supplied. The Pratipadārtha and the rest of Ṛk 4 follow on the next page.
+
 ---
 
-**Progress note:** Done through printed p. 14 (PDF 14). Sūkta 7: Ṛk 2 Special Topics (Go-word, pp. 11-12), grammar pp. 12-14, Ṛk 3 Saṃhitā/Pada/bhāṣya (p. 14); window also covers p. 14 (marker repaired in kn.md, pages.json extended). Ṛk 3 Pratipadārtha etc. follow on p. 15.
+**Progress note:** Done through printed p. 17 (PDF 17). Done through printed p. 17: Sūkta 7 Ṛk 3 Pratipadārtha etc., grammar pp. 16-17, Ṛk 4 Saṃhitā/Pada/bhāṣya (bhāṣya cut off at p. 17 end); Ṛk 4 Pratipadārtha follows on p. 18.
