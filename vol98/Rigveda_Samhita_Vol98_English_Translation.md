@@ -14202,6 +14202,148 @@ May Agni, who is Vanaspati, approving (of our rite), approach : and by his espec
 
 *(The supplied text ends here, after the Saṃhitā of Ṛk 11 of Sūkta 3 on p. 468; the Pada follows in the next window.)*
 
+### Printed p. 469
+
+*Running head (as supplied): [आ. २ आ ५. व. २३.] ऋग्वेदसंहिता 469 (*[ā. 2 ā 5. va. 23.] ṛgvedasaṃhitā 469*).*
+
+*(Continuation of Ṛk 11 of Sūkta 3 of Maṇḍala 2: its Pada follows the Saṃhitā of the previous page. One reading of the Pada is marked with a query, as it differs from the Saṃhitā.)*
+
+**॥ पदपाठः ॥**
+
+> घृतं । मिमिक्षे । घृतं । अस्य । योनिः । घृते । श्रितः । घृतं । ऊं इति । अस्य । धाम ।
+> अनुस्वधं [?] । आ । वह । मादयस्व । स्वाहाकृतं । वृषभ । वक्षि । हव्यं ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्याग्नेर्घृतमाज्यं मिमिक्षे । सिंचामि । यतोऽस्य घृतं योनिः कारणं
+> उत्पन्नोऽपि घृते श्रितः । आश्रितः । अस्याग्नेर्घृतमेव धाम तेजः । घृतेन ह्ययं
+> दीप्यते । इदानीं संबोध्योच्यते । हे अग्ने वृषभ फलस्य वर्षितस्त्वमनुष्पधं
+> प्रतिहविः सर्वेष्ट्वपि हविःषु दीयमानेस्वावह देवान् । आहूय तान्मादयस्व ।
+> प्रीणय । ततस्त्वं स्वाहाकृतं स्वाहाकारेण दत्तं हव्यं वक्षि । वह ॥
+
+*Gist:* Ghee is Agni's source and light; Agni, showerer, is asked to bring the gods to every oblation, gratify them and carry the oblation.
+
+*[As supplied, the label line of the Pratipadārtha reads प्रतिपद-र्थ (*pratipada-rtha*), inside the bhāṣya block, and its lines carry the quote marks of the block; the label is replaced by the standard label and the lines are un-quoted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अस्य—ई अग्निगॆ (*asya—ī agnigè*) (of him, Agni). धृतं—आज्यवु (*dhṛtaṃ—ājyavu*) (ghee (printed with a different first letter)). योनिः—उत्पत्ति कारणवु (आदुदरिंद) (*yoniḥ—utpatti kāraṇavu (ādudariṃda)*) (the origin, the cause (therefore)). धृतं— आज्यवन्नु (*dhṛtaṃ— ājyavannu*) (ghee). मिमिक्षे—प्रोक्षिसुत्तेनॆ (*mimikṣe—prokṣisuttenè*) (I sprinkle). धृते—धृतदल्लि (*dhṛte—dhṛtadalli*) (in ghee (printed as in the Pratipadārtha)). श्रितः—(अग्नियु) आश्रयवन्नु पडॆ दिद्दानॆ (*śritaḥ—(agniyu) āśrayavannu paḍè diddānè*) (he has taken refuge (Agni)). अस्य.—ई अग्निगॆ (*asya.—ī agnigè*) (of him, Agni (printed with a full stop after the word)). धृतमु—धृतवे (*dhṛtamu—dhṛtave*) (ghee itself (printed with a different ending)). धाम—तेजस्सिन आधारवु (*dhāma—tejassina ādhāravu*) (the support of lustre). वृषभ—फलगळन्नु सुरिसतक्क ऎलै अग्निये (*vṛṣabha—phalagaḷannu surisatakka èlai agniye*) (O showering Agni, who pours out fruits). अनुष्वधं—अर्पिसिद ऎल्ला हविस्सुगळिगागियू (*anuṣvadhaṃ—arpisida èllā havissugaḷigāgiyū*) (for all the oblations offered). आ वह—देवतॆगळन्नु करॆदुकॊंडु बा (*ā vaha—devatègaḷannu karèdukòṃḍu bā*) (bring the gods). मादयस्व—अवरन्नु तृप्तिगॊळिसु (*mādayasva—avarannu tṛptigòḷisu*) (gratify them). स्वाहाकृतं—स्वाहाकारपूर्वकवागि अर्पिसिद (*svāhākṛtaṃ—svāhākārapūrvakavāgi arpisida*) (offered with the svāhā-call). हव्यं—हविस्सन्नु (*havyaṃ—havissannu*) (the oblation). वक्षि—वहिसु. (*vakṣi—vahisu.*) (carry).
+
+**भावार्थ (Bhāvārtha)**
+
+Ghee is the origin of this Agni; he has taken refuge in ghee alone; therefore I sprinkle the ghee. Ghee is the support of this Agni's lustre. O showering Agni, bring the gods to all the oblations offered, gratify them, and carry the oblation offered with the svāhā-call.
+
+**Printed English translation**
+
+I sprinkle the butter, for butter is his birth-place, he is nourished by butter ; butter is his radiance ; Agni, showerer (of benefits), bring the gods to the offered oblation ; exhilarate them ; convey to them the offering that has been reverently sanotified [sic].
+
+*(The printed English reads "sanotified" [sic] for "sanctified".)*
+
+### Printed p. 470
+
+*Running head (as supplied): [470 सायणभाष्यसहिता [ मं ३. आ १. सू ४] (*[470 sāyaṇabhāṣyasahitā [ maṃ 3. ā 1. sū 4]*).*
+
+#### Sūkta 4 (Maṇḍala 2)
+
+नाल्कनॆय सूक्तवु (*nālkanèya sūktavu*) ("the fourth sūkta").
+
+**Sāyaṇa-bhāṣya** (introduction)
+
+> हुवे व इति नवर्चं चतुर्थं सूक्तं । भार्गवः सोमाहुतिनामक ऋषि: ।
+> अग्निर्देवता । त्रिष्टुप् छंदः । हुवे नव सोमाहुतिर्भार्गवो हेत्यनुक्रमणिका ॥
+> प्रातरनुवाकाश्विनशस्त्रयोस्त्रैष्टुभे छंदसीदं । सूत्रितं च । हुवे वः सुद्योत्मानं
+> नि होता होतृषदन इति सूक्ते ॥ आ. ४-१३ । इति ॥
+
+*Gist:* The fourth sūkta has nine ṛks, seer Somāhuti Bhārgava, deity Agni, Triṣṭubh metre; used in the morning litany and Āśvina śastra.
+
+*[In the supplied text the Anuvāda, the heading lines and the Saṃhitā of Ṛk 1 stand inside the quoted block of the bhāṣya, with garbled labels; the Anuvāda and heading lines are moved out of the block and un-quoted, nothing being dropped.]*
+
+**Anuvāda (Kannada)** of Sāyaṇa's introduction to Sūkta 4 of Maṇḍala 2. This sūkta beginning हुवे वः (*huve vaḥ*) is the fourth sūkta in the first anuvāka. It has nine ṛks. Somāhuti, born in the family of Bhṛgu, is the seer of this sūkta; Agni is the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is said: हुवे नव सोमाहुतिर्भार्गवो ह (*huve nava somāhutirbhārgavo ha*) (a line-end hyphen is joined). That this sūkta is used for the Triṣṭubh-metre mantras at the time of reciting the morning anuvāka and the Āśvina śastra mantras is explained by the sūtra of the Āśvalāyana Śrauta Sūtra हुवे वः सुद्योत्तानं नि होता होतृषदन इति सूक्ते (*huve vaḥ sudyottānaṃ ni hotā hotṛṣadana iti sūkte*) (आ. ४-१३ (*ā. 4-13*)).
+
+**Sūkta 4 — heading lines (printed as plain lines)**
+
+सूक्त—४ (*sūkta—4*)
+॥ मंडल—२ ॥ अनुवाक— १॥ सूक्त—४ ॥ (*‖ maṃḍala—2 ‖ anuvāka— 1‖ sūkta—4 ‖*)
+॥ अष्टक— २ ॥ अध्याय— ५ ॥ वर्ग- २४, २५ ॥ (*‖ aṣṭaka— 2 ‖ adhyāya— 5 ‖ varga- 24, 25 ‖*)
+' सूक्तदल्लिरुव ऋक्संख्यॆ.- ९ । (*' sūktadalliruva ṛksaṃkhyè.- 9 |*)
+ऋषिः—सोमाहुतिर्भार्गवः । (*ṛṣiḥ—somāhutirbhārgavaḥ |*)
+देवता—अग्निः ॥ (*devatā—agniḥ ‖*)
+छंदः—त्रिष्टुप् । (*chaṃdaḥ—triṣṭup |*)
+
+(Sense: sūkta 4; maṇḍala 2, anuvāka 1, sūkta 4; aṣṭaka 2, adhyāya 5, varga 24, 25; the number of ṛks in the sūkta, nine; seer Somāhuti Bhārgava; deity Agni; metre Triṣṭubh.)
+
+#### Ṛk 1
+
+*[As supplied, the label line of the Saṃhitā reads संवाद (*saṃvāda*), inside the bhāṣya block; standard label inserted. The closing mark of the Saṃhitā is printed with a corrupt sign instead of a numeral. One reading of the Saṃhitā is marked with a query, as it differs from the Pada.]*
+
+**॥ संहितापाठः ॥**
+
+> हु॒वे वः॑ सु॒द्योत्मा॑नं सुवृ॒क्तिं वि॒शाम॒ग्निमति॑थिं सुप्र॒यसं॑।
+> मि॒त्र इ॑व॒ यो दि॑धि॒षायो॒ [?] भूद्दे॒व आदे॑वे॒ जने॑ जा॒तवे॑दाः ॥ ◦ ॥
+
+> *huve vaḥ sudyotmānaṃ suvṛktiṃ viśāmagnimatithiṃ suprayasaṃ|*
+> *mitra iva yo didhiṣāyo [?] bhūddeva ādeve jane jātavedāḥ ‖ ◦ ‖*
+
+### Printed p. 471
+
+*Running head (as supplied, unmarked in the supplied text, where it stood inside the block, and inserted as a page marker in the Kannada text): अ. २. अ. ५ व. २४ ] सुग्वेदसंहिता 471 (*a. 2. a. 5 va. 24 ] sugvedasaṃhitā 471*) (as printed; the first word of the title is misread).*
+
+*[As supplied, the label line of the Pada reads सदाशिव (*sadāśiva*); standard label inserted. The Pada's closing mark is printed with a different sign, as supplied.]*
+
+**॥ पदपाठः ॥**
+
+> हुवे । वः । सुद्योत्मानं । सुवृक्तिं । विशां । अग्निं । अतिथिं । सुप्रयसं ।
+> मित्रः इव । यः । दिधिषाय्यः । भूत् । देवः । आदेवे । जने । जातवेदाः ii १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यजमाना वो युष्मदर्थमग्निं हुवे । आह्वयामि । कीदृशं तं ।
+> सुद्योत्मानं सुष्टु द्योतमानं । सुवृक्तिं सुवर्जितं पापैः शोभनस्तुतिं वा ।
+> विशां यजमानानामतिथिवत्सदा पूज्यं । सुप्रयसं शोभनहनिर्लक्षणान्नं । किंच
+> जातवेदा जातानां वेदिता यो देवोऽग्निर्मित्र इव सखेव आदित्य इव वा दीधि-
+> षायो धारयिता भूत् । भवति । कुत्रॆति उच्यते । आदेवे देवपर्यंते जने ।
+> मनुष्यप्रकृतिदेवपर्यंतेषु । तेषां धारकोऽभवदित्यर्थः ॥
+
+*Gist:* Bright, sinless, hospitable, omniscient Agni, who supports all beings from men to gods like a friend, is invoked for the sacrificers.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(ऎलै यजमानरे) वः—निमगागि (*(èlai yajamānare) vaḥ—nimagāgi*) (O sacrificers: for you). सुद्योत्मानं—श्रेष्ठवाद प्रकाशवुळ्ळवनू (*sudyotmānaṃ—śreṣṭhavāda prakāśavuḷḷavanū*) (of excellent radiance). सुवृक्तिं—पापवर्जितनू अथवा उत्तमवाद स्तुतियुळ्ळवनू (*suvṛktiṃ—pāpavarjitanū athavā uttamavāda stutiyuḷḷavanū*) (free from sin, or having excellent praise). विशां—यजमानरिगॆ (*viśāṃ—yajamānarigè*) (to the sacrificers). अतिथिं- अतिथियंतॆ पूज्यनू (*atithiṃ- atithiyaṃtè pūjyanū*) (worshipful like a guest). सुप्रयसं—हविस्सिन रूपद अन्नवुळ्ळवनू आद (*suprayasaṃ—havissina rūpada annavuḷḷavanū āda*) (having food in the form of oblation, such). अग्निं—अग्नियन्नु (*agniṃ—agniyannu*) (Agni). हुवे—प्रार्थिसि करॆयुत्तेनॆ (*huve—prārthisi karèyuttenè*) (I invoke with prayer). जातवेदाः जातप्रज्ञनाद (*jātavedāḥ jātaprajñanāda*) (Jātavedas, the omniscient (the dash is lacking in the print)). यः देवः—देवतात्मनाद (*yaḥ devaḥ—devatātmanāda*) (who, divine). याव अदे अग्नियु (*yāva ade agniyu*) (that same Agni (two words in the print)). मित्र इव—सखनंतॆ अथवा मित्रदेवनंतॆ (*mitra iva—sakhanaṃtè athavā mitradevanaṃtè*) (like a friend or like the god Mitra). आ देवे जने—मानवरु मॊदलुगॊंडु देवतॆगळवरॆगू इरुव प्रजॆगळन्नु (*ā deve jane—mānavaru mòdalugòṃḍu devatègaḷavarègū iruva prajègaḷannu*) (the people who are from men to gods). दिधिषाय्यः—धरिसिरुववनागि (*didhiṣāyyaḥ—dharisiruvavanāgi*) (supporting). भूत्— आगिरुत्तानॆ. (*bhūt— āgiruttānè.*) (he is).
+
+**भावार्थ (Bhāvārtha)**
+
+O sacrificers, on your behalf I invoke with prayer Agni, who has excellent radiance, who is free from sin or has excellent praise, who is worshipful to the sacrificers like a guest, and who has food in the form of oblation. Agni, the omniscient, of divine self, supports like a friend the beings from men up to the gods (he protects them).
+
+**Printed English translation**
+
+I invoke, on your behalf, the resplendent, the sinless Agni, the guest of mortals, the accepter of (sacrificial) food, who, knowing all that has been born, is like a friend, the supporter (of all beings), from men to gods.
+
+### Printed p. 472
+
+*Running head (as supplied): [472 सायणभाष्यसहिता [ मं २. अ. १. सू ४] (*[472 sāyaṇabhāṣyasahitā [ maṃ 2. a. 1. sū 4]*).*
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1)**
+
+Addressing the sacrificers, the seer of the mantra says that on their behalf he invokes Agni, सुवृक्तिं—सुवर्जितं पापैः (*suvṛktiṃ—suvarjitaṃ pāpaiḥ*) (as printed): "sin" means the acts that cause sorrow, and Agni is one freed from them; or शोभनस्तुतिं वा (*śobhanastutiṃ vā*): one praised with auspicious hymns. And it is described that Agni is always worthy of worship, like a guest, for the sacrificers.
+
+जातवेदाः यः देवः मित्र इव दिधिषाय्यः अग्निः सखेव आदित्य इव वा मनुष्यप्रभृति देवपर्यंतेषु जनेषु धारयिता भवति (*jātavedāḥ yaḥ devaḥ mitra iva didhiṣāyyaḥ agniḥ sakheva āditya iva vā manuṣyaprabhṛti devaparyaṃteṣu janeṣu dhārayitā bhavati*) (a line-end hyphen inside it is joined): Agni, the omniscient, is the supporter of all beings from men up to gods like a friend, that is, a well-wisher like a friend who does good to all beings, or a protector like the sun: thus it is explained in two ways.
+
+अतिथिं—अतिथिवत्तूज्यं । दर्शादितिथिमपेक्ष्य आगंतारं वा । (*atithiṃ—atithivattūjyaṃ | darśāditithimapekṣya āgaṃtāraṃ vā |*) Agni is worthy of worship by the sacrificer, like a guest who has come to the house; or the meaning is explained that Agni comes at the will of the sacrificers who perform sacrifices (the new-moon and full-moon sacrifices and the like) following the lunar days (tithi) such as the new moon. The Nirukta-writers, having cited the ṛk
+
+जुष्टो दमूना अतिथिर्दुरोण इमं नो यज्ञमुप याहि विद्वान् । (*juṣṭo damūnā atithirduroṇa imaṃ no yajñamupa yāhi vidvān |*)
+विश्वा अग्ने अभियुजो विहत्या शत्रूयतामा भरा योजनानि ॥ (*viśvā agne abhiyujo vihatyā śatrūyatāmā bharā yojanāni ‖*)
+
+(पु. सं ५-४-५ (*pu. saṃ 5-4-5*)) (as printed) (rendered loosely: pleasing in the house, a guest in the dwelling, come, knowing, to this our sacrifice of ours; O Agni, having struck down all attacks, bring the possessions of those who behave as enemies; the printed last word is a misprint), have given the explanation of the word:
+
+अतिथिरभ्यतितो गृहान् भवति । अभ्येति तिथिषु परकुलानीति वा परगृहाणीति वा। (*atithirabhyatito gṛhān bhavati | abhyeti tithiṣu parakulānīti vā paragṛhāṇīti vā|*)
+अयमपीतरोऽतिथेरेतस्मादेव । (*ayamapītaro 'titheretasmādeva |*)
+
+(नि ४-४ (*ni 4-4*)). Durgācārya, commenting on it, says: गृहान् अभि अभिमुख्येन असौ अतितो भवति (*gṛhān abhi abhimukhyena asau atito bhavati*) — since he comes seeking houses, he is called a guest. Or, he comes and joins the houses of those who sacrifice on lunar days such as the new moon; therefore Agni is called a guest. Or अभ्येति तिथिसु परकुलानि पौर्णमास्यादिषु यजमानकुलानि अभ्यागच्छति इति अतिथिः । (*abhyeti tithisu parakulāni paurṇamāsyādiṣu yajamānakulāni abhyāgacchati iti atithiḥ |*) आयमपीतरोऽतिथिरेतस्मादेव। (*āyamapītaro 'tithiretasmādeva|*) (as printed): that is, because on other lunar days (days) he goes to the sacrificial houses of other families, and on sacrificial days such as the full moon he comes to the houses of the sacrificers, for these two reasons the name "guest" has come to Agni; thus he has explained the meaning.
+
+*(The supplied text ends here, at the end of the Special Topics of Ṛk 1 on p. 472; Ṛk 2 follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 468 (PDF 468). Mandala 2 Sukta 3 Rik 8, Rik 9 and Rik 10 complete; Rik 11 Samhita; unmarked p. 468 marked; five readings marked with a query
+**Progress note:** Done through printed p. 472 (PDF 472). Mandala 2 Sukta 3 complete; Sukta 4 introduction and Rik 1 complete through the Special Topics; unmarked p. 471 marked; two readings marked with a query
