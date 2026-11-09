@@ -10078,6 +10078,96 @@ In this ṛk are mentioned the various grasses, darbha and the like, in which sn
 
 दर्भासः (*darbhāsaḥ*): the grass called darbha, used in sacrifices and in domestic rites. It grows as thick as a हॆंची कड्डि (*hèṃcī kaḍḍi*) (as printed) (Poa cynosuroides (*Poa cynosuroides*)).
 
+### Printed p. 341
+
+*Running head (as supplied): [आ: २. आ ५. व. १४. ] ऋग्वेदसंहिता 341 (*[ā: 2. ā 5. va. 14. ] ṛgvedasaṃhitā 341*).*
+
+*(Continuation of the Special Topics of Ṛk 3 of Sūkta 191, after the *darbhāsaḥ* entry.)*
+
+सैर्या:—सैर्यास्तटाकादिप्रांतोद्भवास्त्रृणविशेषा अश्ववाला इति प्रसिद्धाः (*sairyā:—sairyāstaṭākādiprāṃtodbhavāstrṛṇaviśeṣā aśvavālā iti prasiddhāḥ*): *sairya* means a reed grass that grows near lakes, tanks or rivers, that is, in places where water stands. It is customarily called "horse's tail". Elephants use it as food. (Saccharum spontaneum (*Saccharum spontaneum*))
+
+मौंजाः—मौंजाः मुंजाः प्रसिद्धाः (*mauṃjāḥ—mauṃjāḥ muṃjāḥ prasiddhāḥ*): *muñja* is a grass that grows long like a stick. It is used for weaving mats. (Saccharum munja (*Saccharum munja*))
+
+वैरिणाः—वीरणप्रकाराः (*vairiṇāḥ—vīraṇaprakārāḥ*): it is not known what a kind of grass called *vīraṇa* is like. (Andropogon muricatum (*Andropogon muricatum*))
+
+Besides these kinds of grass there are many other kinds of grass; only a few are mentioned here. The purport is that snakes hide in them so as not to be seen by people's eyes, and bite those who come near.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 3, noted briefly)
+
+The page explains: शरासः (*śarāsaḥ*) (the suffix *jas* in the nominative plural; the augment *asuk* by the rule आज्जसेरसुक् (*ājjaserasuk*); the acute on the middle syllable by the accent of the single substitute); कुशरासः (*kuśarāsaḥ*) (कुत्सिताः शराः कुशरासः (*kutsitāḥ śarāḥ kuśarāsaḥ*); as before the augment *asuk* for *jas*; the accent of the first member by the rule तत्पुरुषे- तुल्यार्थ (*tatpuruṣe- tulyārtha*) (पा. सू ६-२-२ (*pā. sū 6-2-2*)), where अव्ययेनञ्- कु निपातानाम् (*avyayenañ- ku nipātānām*) is read); न्यलिप्सत (*nyalipsata*) (the prefix *ni*; the root लिप उपदेहे (*lipa upadehe*), as printed; *luṅ*; *at* substituted for the third person plural; the *nighāta* accent because it follows a verb form, printed अतिजंत (*atijaṃta*)).
+
+*[As supplied, the label line of the Saṃhitā reads संबाळाति (*saṃbāḷāti*); standard label inserted. Three readings, one in the Saṃhitā and two in the Pada, are marked with a query, as they differ from the bhāṣya or from the other line.]*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> नि गावो॑ गो॒ष्ठे अ॑सद॒न्नि मृ॒गासो॑ अविक्षत ।
+> नि के॒तवो॒ जना॑नां॒ न्य१॒॑गदृष्टा॑ [?] अलिप्सत ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> नि । गावः । गोस्थे [?] । आसदन् [?] । नि । मृगासः । अविक्षत ।
+> नि । केतवः । जनानां । नि । अदृष्टाः । अलिप्सत ॥ ४ ॥
+
+> *ni | gāvaḥ | gosthe [?] | āsadan [?] | ni | mṛgāsaḥ | avikṣata |*
+> *ni | ketavaḥ | janānāṃ | ni | adṛṣṭāḥ | alipsata ‖ 4 ‖*
+
+### Printed p. 342
+
+*Running head (as supplied): [342 सायणभाष्यसहिता [मं. अ. २४. सू. १.९१] (*[342 sāyaṇabhāṣyasahitā [maṃ. a. 24. sū. 1.91]*), as printed.*
+
+*[As supplied, the label line of the bhāṣya reads सायुधभाष्यं (*sāyudhabhāṣyaṃ*); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> गावो गोष्ठे न्यसदन् । निषीदंति । मृगासो मृगा नृविक्षत । निविष्टाः ।
+> स्वस्वस्थान उपरताः । जनानां प्राणिनां केतवः प्रज्ञानानि नि ॥ उपसर्गश्रुतेयो-
+> ग्यक्रियाध्याहारः । नीचान्यभवन् । एतेऽस्मिन्समयेऽदृष्टा अदृश्यमानरूपाः संतो
+> न्यलिप्सत । निलिंपंति विशेषेण ॥
+
+*Gist:* The cows lay in their stalls, beasts at rest in their places, people's senses quiet; at that time unseen creatures smear me with poison.
+
+*[As supplied, a line reading प्रसिद्धार्थ (*prasiddhārtha*) stands inside the bhāṣya block where the Pratipadārtha label belongs; the following lines carry block marks in the supplied text and are given as prose; standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+गावः—गोवुगळु (*gāvaḥ—govugaḷu*) (the cows). गोष्ठे—कॊट्टिगॆयल्लि (*goṣṭhe—kòṭṭigèyalli*) (in the stall). न्यसदन्—कट्टल्पट्टु विश्रांतियन्नु तॆगॆदुकॊळ्ळुत्तिद्दवु (*nyasadan—kaṭṭalpaṭṭu viśrāṃtiyannu tègèdukòḷḷuttiddavu*) (were tied and taking rest). मृगासः—मृगगळु (*mṛgāsaḥ—mṛgagaḷu*) (the beasts). नृविक्षत—तम्म तम्म स्वस्थानगळल्लि विश्रांतियन्नु तॆगॆदुकॊळ्ळुत्तिद्दवु (*nṛvikṣata—tamma tamma svasthānagaḷalli viśrāṃtiyannu tègèdukòḷḷuttiddavu*) (were taking rest each in its own place). जनानां—प्राणिगळ (*janānāṃ—prāṇigaḷa*) (of the creatures). केतवः—प्रज्ञानगळु (*ketavaḥ—prajñānagaḷu*) (the perceptions). नि—प्रशांतवागिद्दवु (इंतह कालदल्लि) (*ni—praśāṃtavāgiddavu (iṃtaha kāladalli)*) (were calm, at such a time). अदृष्टाः—कण्णिगॆ काणदिरुव विषधरगळु (*adṛṣṭāḥ—kaṇṇigè kāṇadiruva viṣadharagaḷu*) (the poison-bearers not visible to the eye). नृलिप्सत—नन्नन्नु कच्चि विषवन्नु नन्न देहदल्लि व्याप्तवागुवंतॆ माडिदवु (*nṛlipsata—nannannu kacci viṣavannu nanna dehadalli vyāptavāguvaṃtè māḍidavu*) (bit me and made the poison spread in my body).
+
+**भावार्थ (Bhāvārtha)**
+
+While the unseen poison-bearers bit me and made my body filled with poison, the cows were tied in the stall, the beasts lay in their own places, and the perceptions of the creatures were calm.
+
+**Printed English translation**
+
+The cows had lain down in their stalls ; the wild beasts had retreated (to their lairs) ; the senses of men were at rest; when the unseen (venomous creatures), anointed me (with their venom).
+
+*[As supplied, the label line of the Special Topics reads कंठपाठि (*kaṃṭhapāṭhi*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4)**
+
+In this ṛk it is explained that snakes generally move about only at night. For the cattle (at night) lie in their stalls, that is, they take rest without movement and chew the cud. The wild beasts too enter their own place, the caves, and sleep. People too, having finished their daily affairs, sleep for rest at night without doing any work. At such a time snakes come unseen and bite people; this is the purport.
+
+Here to say that wild beasts are in their caves at night is not right. For they lie sleeping in their caves all day and move about at night for food (the word is divided by the page boundary: संचरि (*saṃcari*) at the end of p. 342, सुवुवु (*suvuvu*) at the start of p. 343).
+
+### Printed p. 343
+
+*Running head (as supplied): [अ. २. अ ५. व: १४.] ऋग्वेदसंहिता 343 (*[a. 2. a 5. va: 14.] ṛgvedasaṃhitā 343*).*
+
+But since this ṛk says only मृगासः (*mṛgāsaḥ*), it need not be understood as wild beasts only; gentle animals such as horses (Domestic Animals (*Domestic Animals*)) may also be meant. Nor is there in this ṛk any word giving the meaning "at night"; but since it indicates a time when people are unconscious (asleep), doing no work, it appears to be night. In the main, whether it is night or day, when people and animals have finished their work and are taking rest, these wicked snakes come unseen and bite them; this is the main purport.
+
+In the first sentence of this ṛk there is the verb नि असदन् (*ni asadan*). In the other sentences, although there is no verb, since the preposition नि (*ni*) is used, a verb has to be supplied for each sentence. Such ṛks are plentiful in the Ṛgveda. For the sake of emphasis (Emphasis (*Emphasis*)) in the sentences, the preposition is sometimes used in this way:
+
+मा नो महांतमुत मा नो अर्भकं मा न उक्षंतमुत मा न उक्षितं । (*mā no mahāṃtamuta mā no arbhakaṃ mā na ukṣaṃtamuta mā na ukṣitaṃ |*)
+मा नो वधीः पितरं मोत मातरं मा नः प्रियास्तन्वो रुद्र रीरिषः ॥ (*mā no vadhīḥ pitaraṃ mota mātaraṃ mā naḥ priyāstanvo rudra rīriṣaḥ ‖*)
+(म. सं. १-११४-७) (*(ma. saṃ. 1-114-7)*)
+
+(The reference is printed म. सं. (*ma. saṃ.*), as supplied.) In this ṛk the verbs वधीः (*vadhīḥ*) and रीरिषः (*rīriṣaḥ*) are read only once, yet the negative word मा (*mā*) is used in every sentence. Such usages give grace, gravity and rhyme to the poet's skill in composition.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 4, noted briefly)
+
+The page explains: गोष्ठे (*goṣṭhe*) (root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); the suffix *ka* when the word *go* is the upapada, by the rule सुपि स्थः (*supi sthaḥ*) (पा. सू. ३-२-४ (*pā. sū. 3-2-4*)); *ṣatva* of the root's *s* by the rule अंबांबगोभूमि (*aṃbāṃbagobhūmi*) (पा. सू. ८-२९-२ (*pā. sū. 8-29-2*), as printed); elision of the *ā* by आतोलोप इटि च (*ātolopa iṭi ca*); the accent of the verbal-derivative second member; locative singular); आसदन् (*āsadan*) (root षदल्य विशरणगत्यवसादनेषु (*ṣadalya viśaraṇagatyavasādaneṣu*), as printed; *luṅ* in the present sense in the Veda; *aj* substituted for *cli* by the rule पुषादिद्युता (*puṣādidyutā*); *ant* substituted for the plural suffix *jh*; the augment *aṭ*; the verbal *nighāta* accent); अविक्षत (*avikṣata*) (root विश प्रवेशने (*viśa praveśane*); *luṅ*, third person plural; the verbal *nighāta* accent); नि (*ni*) (the name *upasarga* is prescribed when a verb is connected; since here only *ni* is heard, a suitable verb is supplied; the supplied text ends within this grammar page).
+
 ---
 
-**Progress note:** Done through printed p. 340 (PDF 340). Sukta 191 Rik 2 complete; Rik 3 complete through the first entries of the Special Topics (darbha); two readings marked with a query
+**Progress note:** Done through printed p. 343 (PDF 343). Sukta 191 Rik 3 complete; Rik 4 complete through the Special Topics and grammar page; three readings marked with a query
