@@ -2468,6 +2468,96 @@ says भुवनस्य भूतजातस्य नाभिः संन
 
 *[The window ends here, within the grammar page.]*
 
+### Printed p. 83
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 3.] Ṛgveda-saṃhitā 83 (the print has "ಆ." for the second abbreviation, as supplied). The window begins inside the grammar page of Ṛk 5, continuing p. 82.*
+
+स्वसारा (*svasārā*): by सुपां सुलुक् (*supāṃ suluk*) the dual ending *au*; the substitute *a* for the case ending (as printed, with *sulug* of the case endings). अभिजिघ्रंती (*abhijighraṃtī*) (root "to smell", printed ಫ್ರಾ, in the sense of taking in scent): the present-participle substitute for the tense suffix; by पाघ्राध्मा-(पा. (*pāghrādhmā-(pā.*) (Pā. Sū. 7-3-78) the substitute for the root; in the feminine, by "ugit" the suffix (printed "ಜೇಪ್"); because the present-tense suffix is unaccented the accent of the root remains; in a compound with a prefix the accent of a word ending in a *kṛt* suffix; with a dual following, lengthening to the preceding class vowel. ‖ 5 ‖ (the Ṛk number stands at the end of the grammar line in the supplied text).
+
+#### Ṛk 6
+
+*[The Saṃhitā and Pada of this ṛk were a picture in the supplied text. The picture was viewed and agrees with the machine text, which has been used with the lines joined; the Saṃhitā prints पथिवी (*pathivī*) for *pṛthivī*, and the Pada prints सुप्रतीके इति सुप्रतीके (*supratīke iti supratīke*) (the word repeated after "iti"); both kept as supplied.]*
+
+**॥ संहितापाठः ॥**
+
+> उ॒र्वी सद्म॑नी बृह॒ती ऋ॒तेन॑ हु॒वे दे॒वाना॒मव॑सा॒ जनि॑त्री ।
+> द॒धाते॒ ये अ॒मृतं॑ सु॒प्रती॑के॒ द्यावा॒ रक्ष॑तं पथिवी नो॒ अभ्वा॑त् ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> उर्वी इति । सद्मनी इति । बृहती इति । ऋतेन । हुवे । देवानां । अवसा । जनित्री इति ।
+> दधाते इति । ये इति । अमृतं । सुप्रतीके इति सुप्रतीके । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उर्वी विस्तीर्णे सद्मनी सदनाधारभूते बृहती महत्यौ महानुभावे
+> देवानां । उपलक्षणमेतत् । देवमनुष्यादीनामवसा प्रीत्या निमित्तेन जनित्री
+> वृष्टिसस्ययोर्जनित्र्यौ । वृष्ट्यादेर्देवानामवसा तर्पणेन निमित्तेन ऋतेन यज्ञेन
+> च निमित्तभूतेन हुवे । आह्वयामि । देवानां हविरर्थमस्मदृज्ञायेत्यर्थः ।
+> ये सुप्रतीके शोभनरूपे अमृतमुदकं दधाते धारयतः ते युवामाह्व-
+> यामि । शिष्टं स्पष्टं ॥
+
+*Gist:* I invoke, for the nourishment of the gods and for sacrifice, Heaven and Earth, the wide, mighty mothers of rain and plants, who in beautiful form hold the waters; may they protect us.
+
+### Printed p. 84
+
+*Running head: [84 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185].*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उर्वी (*urvī*) — very extensive. सद्मनी (*sadmanī*) — the support of everything. बृहती (*bṛhatī*) — mighty. जनित्री (*janitrī*) — mothers (of rain and plants). ये (*ye*) — who सु प्रतीके (*su pratīke*) — having a beautiful form, अमृतं (*amṛtaṃ*) — the rain-water equal to ambrosia, दधाते (*dadhāte*) — have held (such Heaven and Earth). देवानां (*devānāṃ*) — of the gods (and men). अवसा (*avasā*) — causing satisfaction. ऋतेन (*ṛtena*) — as the occasion of the sacrifice. हुवे (*huve*) — I call, with praise. द्यावापृथिवी (*dyāvāpṛthivī*) — O Heaven and Earth. अभ्वात् (*abhvāt*) — from great fear. नः (*naḥ*) — us. रक्षतं (*rakṣataṃ*) — protect.
+
+*[As supplied, the label line of the next section reads ⟦⟧; standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+I invoke with praise, as the occasion of the sacrifice that causes the satisfaction of the gods and men, Heaven and Earth, who are very extensive, the support of everything, mighty, the mothers of rain and plants, of beautiful form, and who hold the rain-water that is like ambrosia. O Heaven and Earth, save us from great calamity and protect us.
+
+**Printed English translation**
+
+I Invoke to the sacrifice, for the preservation of gods (and men), the two vast, all supporting, and mighty parents (of the rain and corn); who, beautiful in form, sustain ambrosial (showers); defend us, Heaven and Earth, from great danger.
+
+*[As supplied, the label line of the next section reads ⟦⟧; standard label inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+As in the previous ṛk, in this ṛk too there is a description of the qualities of Heaven and Earth. It may be said that the arrangement of beloved words that is seen in the Vedas began with Heaven and Earth. In nature there are no other things so firmly related to each other as Heaven and Earth; therefore this gradually gave room to the idea that these two are a married couple. In the Ṛgveda there are only six sūktas that indicate Heaven and Earth. There is no sūkta praising only the heavenly deity; only one small sūkta of three ṛks (Ṛ. Saṃ. 5-84-3) praises the Earth, and even in that there is a reference to the heavenly deity.
+
+उर्वी (*urvī*) — from the word उरु (*uru*) the word उर्वी (*urvī*) is formed. The word उरु (*uru*) is read among the names of "many" (Ni. 2-13): the sense is "very extensive". सद्मनी (*sadmanī*) — the word सद्म (*sadma*) has been read by Yāska among the names of house (Ni. 3-13); here सद्मनी (*sadmanī*) means the earth, which has houses fit for dwelling.
+
+### Printed p. 85
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 3.] Ṛgveda-saṃhitā 85.*
+
+बृहती (*bṛhatī*) — great, or having extra greatness. देवनामवसा जनित्री (*devanāmavasā janitrī*) — Sāyaṇa's explanation is that they pour rain for the protection of the gods (and men) and thereby cause the arising of plants. Since the word जनित्री (*janitrī*) means "producing", it may be taken to mean those who produce creatures, animals, plants and so on.
+
+ऋतेन (*ṛtena*) — the extensive sense of the word ऋतशब्दद (*ṛtaśabdada*) we have explained many times before. Although the word *ṛta* has the senses truth, water, sacrifice and so on, Sāyaṇa has given here the sense "sacrifice".
+
+दधाते ये अमृतं (*dadhāte ye amṛtaṃ*) — the word अमृत (*amṛta*) is read among the names of water (Ni. 2-14) and among the names of gold (Ni. 2-10). Besides, Yāska,
+
+रुशद्वत्सा रशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः । (*ruśadvatsā raśatī śvetyāgādāraigu kṛṣṇā sadanānyasyāḥ |*)
+समानबंधू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥ (*samānabaṃdhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1-113-2)
+
+having cited this ṛk, explains अमृते (*amṛte*) as अमरधर्माणौ (*amaradharmāṇau*) ("those who never die", Ni. 2-20); and having cited
+
+यत्रा सुपर्णा अमृतस्य भागमनिमेषु विदथाभिस्वरंति । (*yatrā suparṇā amṛtasya bhāgamanimeṣu vidathābhisvaraṃti |*)
+इनो विश्वस्य भुवनस्य गोपाः स मा धीरः पाकमत्रा विवेश ॥ (*ino viśvasya bhuvanasya gopāḥ sa mā dhīraḥ pākamatrā viveśa ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1-164-21)
+
+this ṛk, he explains अमृतस्य उदकस्य (*amṛtasya udakasya*) as "of water" (Ni. 3-11). In the present ṛk *amṛta* means water: the meaning is that they hold, in the atmosphere in the form of clouds, the rain-water that is the support of all beings.
+
+सुप्रतीके (*supratīke*) — प्रतीकं मुखं प्रकाशाख्यं दर्शनं वा (*pratīkaṃ mukhaṃ prakāśākhyaṃ darśanaṃ vā*): the word प्रतीकं (*pratīkaṃ*) means either "face" or "a radiant appearance". The Nirukta authors, having cited
+
+यावन्मात्रमुषसो न प्रतीकं सुवर्णो ३ वसते मातरिश्वः । (*yāvanmātramuṣaso na pratīkaṃ suvarṇo 3 vasate mātariśvaḥ |*)
+तावद्वधात्युप यज्ञमायन् ब्राह्मणो होतुरवरो निषीदन् ॥ (*tāvadvadhātyupa yajñamāyan brāhmaṇo hoturavaro niṣīdan ‖*)
+
+(Ṛ. Saṃ. [printed ಮ ಸಂ.] 10-88-19)
+
+give the sense "radiant appearance". Here it means "those of beautiful form, charming to the eye, full of water, plants and so on".
+
 ---
 
-**Progress note:** Done through printed p. 82 (PDF 82). Rik 5 Special Topics: yuvati to nabhi; Rik 5 grammar page begins (continues on next page)
+**Progress note:** Done through printed p. 85 (PDF 85). Rik 5 grammar end; Rik 6 (Samhita and Pada from figure, bhashya, Pratipadartha, Bhavartha, English); Special Topics begin (continues on next page)
