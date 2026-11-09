@@ -14797,6 +14797,103 @@ Addressing Agni: remembering the praises and the like pleasing to Agni that the 
 
 *(The supplied text ends here, after the Pada of Ṛk 9 on p. 487; the bhāṣya follows in the next window.)*
 
+### Printed p. 488
+
+*Running head (as supplied): [488 सायणभाष्यसहिता [मं. २. अ. १. सू. ४] (*[488 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 4]*).*
+
+*(Continuation of Ṛk 9 of Sūkta 4 of Maṇḍala 2: its bhāṣya follows the Pada of the previous page.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वया रक्षकेण वन्वंतश्चांदसं भजंतो गृत्समदा ऋषयः । आत्मनि
+> परोक्ष्येण वचनं । यथा गुहा गुहायां वर्तमानानुपरान् उपरमणसाध-
+> नान् उपरि उत्कृष्टे वर्तमानान्ता धनविशेषानभिस्युः । अभिभवेयुः । स्वाधीनान्
+> कुर्युः । यद्वा गूढानुपरान् उपरेऽधिकत्वेन वर्तमानान्मापानभिस्युः । अभिभ-
+> वेयुः । तथा कुर्वित्यर्थः । कीदृशाः । सुवीरासः । शोभनपुत्राद्युपेताः । अभि.
+> मातिसहः । वैरिणां पापादीनां सोढारः । किंच सूरिभ्यो मेधाविभ्यो यज-
+> मानेभ्यो गृणते ॥ व्यत्ययेनैकवचनं । शब्दयद्भ्यः स्तोतृभ्यः । यद्वा सूरिभ्यो
+> यजमानेभ्यो गृणते स्तोत्रे च स्मत् सुमत् अतिप्रभूतं तत् तादृशं प्रसिद्धं
+> वयोऽन्नं धाः । धेहि ॥
+
+*Gist:* May the Gṛtsamadas, praising Agni, with his help win hidden treasures and become heroic and enemy-subduing; Agni is asked to give food to praisers.
+
+*(The bhāṣya contains short grammatical remarks on the change of number and on the Vedic usage; they are transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). वन्वंतः—निन्नन्नु स्तुतिसि भजिसुव (*vanvaṃtaḥ—ninnannu stutisi bhajisuva*) (those who praise and serve you). गृत्समदासः—गृत्समद ऋषिगळु (*gṛtsamadāsaḥ—gṛtsamada ṛṣigaḷu*) (the Gṛtsamada seers). त्वया—रक्षकनाद निन्न सहायदिंद (*tvayā—rakṣakanāda ninna sahāyadiṃda*) (with the help of you, the protector). यथा—याव रीतियल्लि (*yathā—yāva rītiyalli*) (in which manner). गुहा—गुहॆयल्लि गूढवागिरतक्क (*guhā—guhèyalli gūḍhavāgiratakka*) (hidden in a cave). उपरान्—उत्कृष्टवाद धनगळन्नु (*uparān—utkṛṣṭavāda dhanagaḷannu*) (the excellent treasures). अभि स्युः—हॊंदुवरो अदरंतॆयू (मत्तु) (*abhi syuḥ—hòṃduvaro adaraṃtèyū (mattu)*) (they obtain, so (and)). सुवीरासः—श्रेष्ठराद वीरपुत्ररिरुवंतॆयू (*suvīrāsaḥ—śreṣṭharāda vīraputrariruvaṃtèyū*) (as having excellent heroic sons). अभिमातिसहः—शत्रुगळन्नु सदॆबडियुव शक्तिवंतरागिरुवंतॆयू माडु (*abhimātisahaḥ—śatrugaḷannu sadèbaḍiyuva śaktivaṃtarāgiruvaṃtèyū māḍu*) (as able to crush enemies, make (us) so). सूरिभ्यः—यज्ञकर्तरिगागि (*sūribhyaḥ—yajñakartarigāgi*) (for the sacrificers). गृणते—स्तुतियन्नु पठिसतक्क स्तोतृगळिगॆ (*gṛṇate—stutiyannu paṭhisatakka stotṛgaḷigè*) (for the praisers who recite praise). स्मत्—अतिप्रभूतवादुदू (*smat—atiprabhūtavādudū*) (abundant). तत्—प्रसिद्धवादुदू आद (*tat—prasiddhavādudū āda*) (well-known). वयः— अन्नवन्नु (*vayaḥ— annavannu*) (food). धाः—कॊडु. (*dhāḥ—kòḍu.*) (give).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, make the Gṛtsamada seers who praise and serve you, with the help of you, the protector, obtain excellent treasures hidden in a cave, and be endowed with excellent heroic sons and able to crush their enemies. Give to the praisers, who recite hymns for the sacrificers, abundant and well-known food. (The print has a misprint for the first word, "O".)
+
+**Printed English translation**
+
+By you (Agni), may the Gritsamadas, repeating your praise, become masters of the precious secret (treasures); so that they may be possessed of excellent dependants, and be able to resist (their) enemies, and do you give to (your) pious worshippers, and to him who glorifies (you), such (abundant) food.
+
+### Printed p. 489
+
+*Running head (as supplied): [आ २. आ ५. व. २६. ] ऋग्वेदसंहिता 489 (*[ā 2. ā 5. va. 26. ] ṛgvedasaṃhitā 489*).*
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 9)**
+
+वन्वंतः (*vanvaṃtaḥ*)—छांदसं भजंतो गृत्समदा ऋषयः (*chāṃdasaṃ bhajaṃto gṛtsamadā ṛṣayaḥ*): it is explained that these are the seers, Gṛtsamada and others, his descendants or relatives, who have become worthy of Agni's grace and pursue the study of the Veda. Here the seer of the mantra, Gṛtsamada himself, speaks with reference to himself, his own people and the people of his line.
+
+यथा गुहा उपर्ना अभि स्युः (*yathā guhā uparnā abhi syuḥ*)—गुहायां वर्धमान्ना उपरि वर्तमान्ना वा धनविशेषान् स्वाधीन्ना कुर्युः । यद्वा गूढान् अधिकत्वेन वर्तमान्ना पापा अभिभवेयुः तथा कुरु । (*guhāyāṃ vardhamānnā upari vartamānnā vā dhanaviśeṣān svādhīnnā kuryuḥ | yadvā gūḍhān adhikatvena vartamānnā pāpā abhibhaveyuḥ tathā kuru |*) (as printed, with several garbled forms): addressing Agni, one kind of prayer is explained, that the wealth which is hidden away in caves (in a lonely or secret place) or which lies on the surface of the earth may come under the control of us, the seers, who live by the study of the Veda alone, through his grace. The second kind: the prayer for Agni's grace is expressed that we may have the strength by which the hidden and abundant sins that we have committed secretly, so that no one knows, may be destroyed.
+
+सूरिभ्यः गृणते (*sūribhyaḥ gṛṇate*)—मेधाविभ्यः यजमानेभ्यः यद्वा सूरिभ्यः स्तोतृभ्यः (*medhāvibhyaḥ yajamānebhyaḥ yadvā sūribhyaḥ stotṛbhyaḥ*): Yāska has read the word for "wise" among the names of praise (नि. ३-१९ (*ni. 3-19*)). Here two kinds of meaning are given for it, "for the priests who recite praise" or "for the wise sacrificers", and Agni is prayed to give abundant sons, wealth, food and the like.
+
+#### Sūkta 5 (Maṇḍala 2)
+
+ऐदनॆय सूक्तवु. (*aidanèya sūktavu.*) ("the fifth sūkta").
+
+**Sāyaṇa-bhāṣya** (introduction)
+
+> होताजनिष्टेत्यष्टर्चं पंचमं सूक्तं सोमाहुतेरार्षमाग्नेयमानु-
+> ष्टुभं। होताष्टावानुष्टुभमित्यनुत्यनुक्रांतं॥ प्रातरनुवाकाशिनशस्त्रयोराग्नेये
+> क्रतावस्य विनियोगः । सूत्रितं च । अग्नायो होताजनिष्ट । आ. ४-१३ । इति ॥ चतु-
+> र्विंशेऽहन्यपीदमेवाज्यं । चतुर्विंशे होताजनिष्टेत्याज्यं । आ. ७-२ । इति ॥ अभि-
+> प्लविके द्वितीयेऽहनीदमेवाज्यं । द्वितीयस्य चतुर्विंशेनाज्यं । आ. ७-६ ।
+> इत्यतिदिष्टत्वात् ॥
+
+*Gist:* The fifth sūkta has eight ṛks, seer Somāhuti, deity Agni, Anuṣṭubh metre; used in the morning litany and Āśvina śastra, and in the twenty-four-day rite.
+
+*(In the supplied text the Anuvāda and the heading lines of the sūkta follow on the next page inside the same quoted block; they are moved out and un-quoted, nothing being dropped.)*
+
+### Printed p. 490
+
+*Running head (as supplied): [490 सायणभाष्यसहिता [ मं. २. अ. १. सू. ५] (*[490 sāyaṇabhāṣyasahitā [ maṃ. 2. a. 1. sū. 5]*).*
+
+**Anuvāda (Kannada)** of Sāyaṇa's introduction to Sūkta 5 of Maṇḍala 2. This sūkta beginning होताजनिष्ट (*hotājaniṣṭa*) is the fifth sūkta in the first anuvāka. It has eight ṛks. Somāhuti is the seer of this sūkta; Agni is the deity; the metre is Anuṣṭubh. In the Anukramaṇikā it is said होताष्टावानुष्टुभं (*hotāṣṭāvānuṣṭubhaṃ*). That this sūkta is used for the ṛks connected with the Āgneya rite at the time of reciting the morning anuvāka and the Āśvina śastra mantras is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अग्नायो होताजनिष्ट (*agnāyo hotājaniṣṭa*) (आ. ४-१३ (*ā. 4-13*)); and that in a special sacrifice performed over twenty-four days this sūkta is used for the ājya-hotra on the twenty-fourth day is explained by the sūtra चतुर्विंशे होताजनिष्टेत्याज्यं (*caturviṃśe hotājaniṣṭetyājyaṃ*) (आ. ७-२ (*ā. 7-2*)), and that this sūkta should be recited for the ājya-hotra on the second day of the Abhiplava sacrifice by the sūtra द्वितीयस्य चतुर्विंशेनाज्यं (*dvitīyasya caturviṃśenājyaṃ*) (आ. ७-६ (*ā. 7-6*)).
+
+**Sūkta 5 — heading lines (printed as plain lines)**
+
+सूक्त—५ (*sūkta—5*)
+॥ मंडल—२ ॥ अनुवाक— १॥ सूक्त—५ ॥ (*‖ maṃḍala—2 ‖ anuvāka— 1‖ sūkta—5 ‖*)
+॥ अष्टक— २ ॥ अध्याय— ५ ॥ वर्ग- २६ ॥ (*‖ aṣṭaka— 2 ‖ adhyāya— 5 ‖ varga- 26 ‖*)
+सूक्तदल्लिरुव ऋक्संख्यॆ-८ । (*sūktadalliruva ṛksaṃkhyè-8 |*)
+ऋषिः—सोमाहुतिर्भार्गवः । (*ṛṣiḥ—somāhutirbhārgavaḥ |*)
+देवता—अग्नि: ॥ (*devatā—agni: ‖*)
+छंदः—अनुष्टाप् । (*chaṃdaḥ—anuṣṭāp |*)
+
+(Sense: sūkta 5; maṇḍala 2, anuvāka 1, sūkta 5; aṣṭaka 2, adhyāya 5, varga 26; the number of ṛks in the sūkta, eight; seer Somāhuti Bhārgava; deity Agni; metre Anuṣṭubh, printed with a misspelt word.)
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> होता॑जनिष्ट॒ चेत॑नः पि॒ता पि॒तृभ्य॑ ऊ॒तये॑ ।
+> प्र॒यक्ष॒ञ्जेन्यं॒ वसु॑ श॒केम॑ वा॒जिनो॒ यमं॑ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> होता । अजनिष्ट । चेतनः । पिता । पितृभ्यः । ऊतये ।
+> प्रयक्षन् । जेन्यं । वसु । शकेम । वाजिनः । यमं ॥ १ ॥
+
+*(The supplied text ends here, after the Pada of Ṛk 1 of Sūkta 5 on p. 490; the bhāṣya follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 487 (PDF 487). Mandala 2 Sukta 4 Rik 7 and Rik 8 complete; Rik 9 Samhita and Pada; three Pada readings marked with a query
+**Progress note:** Done through printed p. 490 (PDF 490). Mandala 2 Sukta 4 complete; Sukta 5 introduction and Rik 1 Samhita and Pada
