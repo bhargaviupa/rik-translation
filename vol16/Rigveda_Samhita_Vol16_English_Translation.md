@@ -2874,6 +2874,110 @@ Sāyaṇa here explains the word *kṣetra* as denoting the sacrifice: as the fi
 Grammar page, noted briefly. वृक्षासः (*vṛkṣāsaḥ*): root ओव्रश्च छेदने (*ovraśca chedane*) (to cut); optional iṭ because the root is ū-marked; suffix kta by *niṣṭhā*; being k-marked, by ग्रहिज्यावयि (*grahijyāvayi*) (Pā. 6-1-16) *samprasāraṇa* of the *r* of the root; pūrvarūpa; by स्कोःसंयो (*skoḥsaṃyo*) the initial sibilant of the conjunct is dropped; by चोःकुः (*coḥkuḥ*) *c* becomes *k*; since the root is o-marked, by ओदितश्च (*oditaśca*) (Vā. 8-2-45, as printed) *n* replaces the *t* of the suffix; by यस्यविभाषा (*yasyavibhāṣā*) (Pā. 7-2-15) the augment iṭ does not come to the *niṣṭhā* suffix; *ṇatva* of *n* after *ṛ*, giving *vṛkṣa*; before the ending *jas*, the augment asuk by अज्जसेरसुक् (*ajjaserasuk*) (Gā. 7-1-50, as printed).
 क्षमि (*kṣami*): the word *kṣamā*; when the locative singular follows, in आतोधातोः (*ātodhātoḥ*) (Pā. 6-4-140), the division of the rule (*yogavibhāga*) as *ataḥ* means that even though it is not a root, the *a* of what ends in ā, having the name *bha*, is dropped.
 
+### Printed p. 102
+
+*[Running head, p. 102: 102 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+Grammar page continued (Ṛk 7), noted briefly. निमितासः (*nimitāsaḥ*): root डुमिञ् (*ḍumiñ*) in the sense of throwing; suffix kta in the passive; as the word ends in kta in the passive, by गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. 6-2-49) the prefix (*ni*) takes the udātta accent; before *jas* the augment *asuk* by आज्जसेरसुक् (*ājjaserasuk*).
+यतस्रुचः (*yatasrucaḥ*): यताः स्रुचः यैस्ते यतस्रुचः (*yatāḥ srucaḥ yaiste yatasrucaḥ*), a bahuvrīhi; by बहुव्रीहौ प्रकृत्यापूर्वपदम् (*bahuvrīhau prakṛtyāpūrvapadam*) (Gā. 6-2-1) the first member keeps its natural accent.
+व्यंतु (*vyaṃtu*): upasarga *vi*, root इण् (*iṇ*) in the sense of going; imperative (loṭ) third person plural, with the substitute *anta* and *utva*; by इणोयण् (*iṇoyaṇ*) *yaṇ* for the *i* of the root; the *i* of the upasarga is dropped in the Veda (chāndasa); nighāta accent; since the activity of the instigator is shown, the root has an implied causal sense.
+वार्यम् (*vāryam*): root वृज् (*vṛj*) in the sense of sharing; by ऋहलोर्ण्यत् (*ṛhalorṇyat*) (Pā. 3-1-124) the suffix *ṇyat* in the passive; being *ṇ*-marked, vṛddhi of the root's *ṛ* (the supplied text gives the rule as अचोञ्छति (*acoñchati*) [sic, as supplied]); by ईडवृंद वृ शंसदुहा (*īḍavṛṃda vṛ śaṃsaduhā*) (the number is printed "6 1-214" without the second hyphen) the first syllable takes the udātta.
+देवत्रा (*devatrā*): when *trā* is carried over, by देवमनुष्यपुरुषपुरुमर्त्येभ्यः (*devamanuṣyapuruṣapurumartyebhyaḥ*) (Pā. 5-4-56) the suffix *trā* in the locative sense; by the suffix accent the word is final-udātta.
+क्षेत्रसाधस (*kṣetrasādhasa*): root राध साध संसिद्धौ (*rādha sādha saṃsiddhau*); by सर्वधातुभ्य आसुन् (*sarvadhātubhya āsun*) (Uṇ. 4-666, as printed) the suffix *asun*; by the *gatikāraka* rule the accent of the compound follows the last member (*kṛduttarapada*); nominative plural form.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> आ॒दि॒त्या रु॒द्रा वस॑वः सुनी॒था द्यावा॒क्षामा॑ पृथि॒वी अं॒तरि॑क्षं।
+> स॒जोष॑सो य॒ज्ञम॑वंतु दे॒वा ऊ॒र्ध्वं कृ॑ण्वंत्वध्व॒रस्य॒॑
+> केतुं ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> आदित्याः । रुद्राः । वसवः । सुनीथाः । द्यावाक्षमा । पृथिवी । अंतरिक्षं ।
+> सजोषसः । यज्ञं । अवंतु । देवा: । ऊर्ध्वं । कृण्वंतु । अध्वरस्य । केतुं ॥
+
+*(page break)*
+
+### Printed p. 103
+
+*[Running head, p. 103: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 103]*
+
+**॥ सायणभाष्यम् ॥**
+
+> सुनीथा यज्ञस्य सुष्टु नेतार आदित्या द्वादशादित्या रुद्रा एकादशरुद्रा
+> वसवोऽषौ वसवः । यद्वा सुष्टु नीथाः सुष्टुतयः । स्तुतशस्त्राणि नीथानि चोत्करा-
+> मदानि च । ऐ. ब्रा. २-३८ । इति हि श्रूयते । द्यावाक्षामा द्यावापृथिव्यौ । पृथिवी ।
+> सुब्बत्ययः । पृथु विस्तीर्णमंतरिक्षं च । सजोषस एते सर्वे देवा ऐकमत्येन
+> परस्परं संगता भूत्वेममस्मदीयं यज्ञमवंतु । रक्षंतु । किंच । अध्वरस्य
+> यज्ञस्य केतुं ध्वजभूतं प्रज्ञापकं वेमं यूपमूर्ध्व० कृण्वंतु । उच्चृतं
+> कुर्वंतु ॥ आदित्याः । अदितेरपत्यानि । दित्यदित्यादित्यपत्युत्तरपदादिति ण्यः । णित्त्वादा-
+> दिवृद्धिः । प्रत्ययस्वरः । रुद्राः । रोदयंति सर्वानंतकाले । रोदेर्णिलुक् चेति
+> रक्षृत्ययः । तत्संनियोगे णिलोपः । प्रत्ययस्वरः । जसः सुप्त्वादनुदात्तत्वे एका-
+> देश उदात्तेनोदात्त इत्येकादेशस्याप्युदात्तत्वं । वसवः । वस निवासे । निदित्यनुवृत्तौ
+> श्यस्वस्तिहित्रप्यसिवसीत्यादिनोप्रत्ययः । नित्त्वादाद्युदात्तः । सुनीथाः । णीञ्
+> प्रापणे । हनिकुषिनीरमिकाशिभ्य इति क्धन् । कित्त्वादगुणः । थाथघइत्तेत्युत्तरपदां-
+> तोदात्तत्वं । द्यावाक्षामा । द्यौश्च क्षामा च । दिवो द्यावेति द्यावादेशः । देवता-
+> द्वंद्वे चेत्युभयपदप्रकृतिस्वरत्वं । पृथिवी । प्रथ प्रख्याने । प्रथेः शिवन् संप्र-
+> सारणं चेति षिवन् संप्रसारणं च । षिद्धौरादिभ्यश्चेति जीष् । प्रत्ययस्वरेणांतो-
+> दात्तः । अवंतु । अव रक्षणे । निघातः । कृण्वंतु । कृवि हिंसाकरणयोरित्यस्मा-
+> ल्लोटि धिन्विकृष्णोरच्छेत्युप्रत्ययः । अकारश्चांतादेशः । निघातः ॥
+
+> *sunīthā yajñasya suṣṭu netāra ādityā dvādaśādityā rudrā ekādaśarudrā*
+> *vasavo 'ṣau vasavaḥ | yadvā suṣṭu nīthāḥ suṣṭutayaḥ | stutaśastrāṇi nīthāni cotkarā-*
+> *madāni ca | ai. brā. 2-38 | iti hi śrūyate | dyāvākṣāmā dyāvāpṛthivyau | pṛthivī |*
+> *subbatyayaḥ | pṛthu vistīrṇamaṃtarikṣaṃ ca | sajoṣasa ete sarve devā aikamatyena*
+> *parasparaṃ saṃgatā bhūtvemamasmadīyaṃ yajñamavaṃtu | rakṣaṃtu | kiṃca | adhvarasya*
+> *yajñasya ketuṃ dhvajabhūtaṃ prajñāpakaṃ vemaṃ yūpamūrdhva0 kṛṇvaṃtu | uccṛtaṃ*
+> *kurvaṃtu ‖ ādityāḥ | aditerapatyāni | dityadityādityapatyuttarapadāditi ṇyaḥ | ṇittvādā-*
+> *divṛddhiḥ | pratyayasvaraḥ | rudrāḥ | rodayaṃti sarvānaṃtakāle | roderṇiluk ceti*
+> *rakṣṛtyayaḥ | tatsaṃniyoge ṇilopaḥ | pratyayasvaraḥ | jasaḥ suptvādanudāttatve ekā-*
+> *deśa udāttenodātta ityekādeśasyāpyudāttatvaṃ | vasavaḥ | vasa nivāse | nidityanuvṛttau*
+> *śyasvastihitrapyasivasītyādinopratyayaḥ | nittvādādyudāttaḥ | sunīthāḥ | ṇīñ*
+> *prāpaṇe | hanikuṣinīramikāśibhya iti kdhan | kittvādaguṇaḥ | thāthaghaittetyuttarapadāṃ-*
+> *todāttatvaṃ | dyāvākṣāmā | dyauśca kṣāmā ca | divo dyāveti dyāvādeśaḥ | devatā-*
+> *dvaṃdve cetyubhayapadaprakṛtisvaratvaṃ | pṛthivī | pratha prakhyāne | pratheḥ śivan saṃpra-*
+> *sāraṇaṃ ceti ṣivan saṃprasāraṇaṃ ca | ṣiddhaurādibhyaśceti jīṣ | pratyayasvareṇāṃto-*
+> *dāttaḥ | avaṃtu | ava rakṣaṇe | nighātaḥ | kṛṇvaṃtu | kṛvi hiṃsākaraṇayorityasmā-*
+> *lloṭi dhinvikṛṣṇoracchetyupratyayaḥ | akāraścāṃtādeśaḥ | nighātaḥ ‖*
+
+Gist: The well-guiding twelve Ādityas, eleven Rudras, eight Vasus, Heaven and Earth, Earth and the firmament, united in mind, are to protect our sacrifice and raise the yūpa, the banner of the sacrifice, aloft. The bhāṣya quotes Ai. Brā. 2-38 on नीथानि (*nīthāni*). The grammatical tail covers आदित्याः (*ādityāḥ*), रुद्राः (*rudrāḥ*), वसवः (*vasavaḥ*), सुनीथाः (*sunīthāḥ*), द्यावाक्षामा (*dyāvākṣāmā*), पृथिवी (*pṛthivī*), अवंतु (*avaṃtu*) and कृण्वंतु (*kṛṇvaṃtu*) (not transcribed further here).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुनीथा (*sunīthā*): (the sacrifices) auspiciously conducting; आदित्याः (*ādityāḥ*): the twelve Ādityas; रुद्राः (*rudrāḥ*): the eleven Rudras; वसवति (*vasavati*) [sic, as supplied; वसवः (*vasavaḥ*) expected]: the eight Vasus; (सुनीथाः (*sunīthāḥ*): good praises); द्यावाक्षामा (*dyāvākṣāmā*): Heaven and Earth; पृथिवी (*pṛthivī*): the extensive; अंतरिक्षं (*aṃtarikṣaṃ*): the firmament (and the others); देवाः (*devāḥ*): the gods; सजोषसः (*sajoṣasaḥ*): of equal affection (united with one another); यज्ञं (*yajñaṃ*): this our sacrifice; अवंतु (*avaṃtu*): may they protect; (and) अध्वरस्य (*adhvarasya*): of the sacrifice; केतुं (*ketuṃ*): banner-like (indicating) this yūpa; ऊर्ध्वं कृण्वंतु (*ūrdhvaṃ kṛṇvaṃtu*): may they lift up (make it raised).
+
+**भावार्थ (Bhāvārtha)**
+
+May all the gods, the leaders of the sacrifice: the twelve Ādityas, eleven Rudras, eight Vasus, Heaven and Earth, the wide firmament and the rest, united in agreement with one another, protect our sacrifice, and lift up this yūpa-post, the banner of the sacrifice.
+
+*(page break)*
+
+### Printed p. 104
+
+*[Running head, p. 104: 104 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+**Printed English translation**
+
+May the leaders of the rite, the divine Adityas, Rudras, Vasus, Heaven and Earth, the Earth, the firmament, well pleased, protect our sacrifice: let them raise aloft the standard of the ceremony.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुनीथा (*sunīthā*) — सुष्टु यज्ञस्य नेतारः (*suṣṭu yajñasya netāraḥ*). Sāyaṇa explains the meaning as: those who conduct the sacrifice, without any obstacle and in the prescribed order, until it is complete.
+
+In the Ṛk श्वामिंद्र मतिभिस्सुते सुनीथासो वसूयवः । गोभिः क्राणा अनूषत ॥ (*śvāmiṃdra matibhissute sunīthāso vasūyavaḥ | gobhiḥ krāṇā anūṣata ‖*) (as supplied; the first word looks garbled, so no gloss is given) Durgācārya (Ni. 4-19) explains सुष्ठ स्तोतुं ये शक्नुवंते सुनीथाः (*suṣṭha stotuṃ ye śaknuvaṃte sunīthāḥ*) as: those who are skilled in praising well. The Nirukta also says that the word सुनीथः (*sunīthaḥ*) is stated among the ten words for praise beginning with अस्रेवाः (*asrevāḥ*) अनेमाः (*anemāḥ*) (Ni. 3-13, printed with a trailing hyphen) and denotes the excellent.
+
+आदित्याः (*ādityāḥ*) — द्वादशादित्याः (*dvādaśādityāḥ*). In explaining the word *āditya* the Nirukta-author says आदिश्यः कस्मात् आदत्तॆ रसान्, आदत्ते भासं, ज्योतिषामादीपो भासेति वा आदितेः पुत्र इति वा । अल्पप्रयोगं तस्यैतवार्जाभ्याम्नाये सूक्तभाक् सूर्यमादितेयमदितेः पुत्रं (*ādiśyaḥ kasmāt ādattè rasān, ādatte bhāsaṃ, jyotiṣāmādīpo bhāseti vā āditeḥ putra iti vā | alpaprayogaṃ tasyaitavārjābhyāmnāye sūktabhāk sūryamāditeyamaditeḥ putraṃ*) (as supplied; the first word reads आदिश्यः (*ādiśyaḥ*)). He explains that the meaning of *āditya* is: that which draws up the waters on the earth, takes to itself all the other lights, gives lustre to the other radiances, surpasses everything in brilliance, or is the son of the goddess Aditi; and he adds that the Ṛks praising this Āditya are few, while the hymns to the Āditya-varieties Savitṛ, Bhaga and Pūṣan are many; and he continues:
+
+एवमन्यासामपि देवतानामादिक्यप्रवादाः स्तुतयो भवंति । तद्यथैतन्नित्रस्य वरुणस्यार्यमोण्ण दक्षस्य भगस्यांशस्येति ॥ (*evamanyāsāmapi devatānāmādikyapravādāḥ stutayo bhavaṃti | tadyathaitannitrasya varuṇasyāryamoṇṇa dakṣasya bhagasyāṃśasyeti ‖*) (Ni. 2-13) (as supplied, with doubtful letters: आदिक्यप्रवादाः (*ādikyapravādāḥ*), अर्यमोण्ण (*aryamoṇṇa*)).
+
+That is: in the same way, in the case of the other deities too, namely Mitra, Varuṇa, Aryaman, Dakṣa, Bhaga and Aṃśa, the usage and praise as "Āditya" occurs; and he gives an example of the use of the word *āditya* in Ṛks addressed to these deities:
+
+ता सम्राजा धृतासुती आदित्या दानुनस्पती । सचेते अनवह्वरं ॥ (*tā samrājā dhṛtāsutī ādityā dānunaspatī | sacete anavahvaraṃ ‖*) (Pu. Saṃ. 2-41-6, as printed). (No gloss given.)
+
+In these children [sic, as supplied; probably "in this Ṛk"] Mitra and Varuṇa are praised by the word *āditya*, and … (the sentence continues on p. 105).
+
 ---
 
-**Progress note:** Done through printed p. 101 (PDF 101). pp. 99-101: Sukta 8 Rk 6 grammar finished; Rk 7 written through Special Topics; the Rk 7 Vyakarana-prakriyā is only begun (vrksasah, ksami) and ends with p. 101, so check whether it continues on p. 102
+**Progress note:** Done through printed p. 104 (PDF 104). Done through printed p. 104 (PDF 104). pp. 102-104: Sukta 8 Rk 7 grammar finished on p. 102; Rk 8 written (Samhita, Pada, bhashya gist, Pratipadartha, Bhavartha, printed English); its Special Topics are begun and break off mid-sentence at the end of p. 104 (Aditya / Mitra-Varuna, Rg. 2-41-6 cited), continuing on p. 105; no Rk 8 grammar page yet
