@@ -4586,6 +4586,90 @@ that is, *iriṇa* or *apārṇa* means "without debt", or, since there is no wa
 
 [the window ends with this verse and its reference].
 
+### Printed p. 161
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5.] Ṛgveda-saṃhitā 161 (as supplied, "ಕ. ೨" for the first abbreviation). The window continues the Special Topics of Ṛk 9 of Sūkta 186 from p. 160, with the verse ṛ. saṃ. 8-7-16.*
+
+ये द्रप्सा इव रोदसी धमंत्यनु वृष्टिभिः । उत्सं दुहंतो अक्षितं ॥ (*ye drapsā iva rodasī dhamaṃtyanu vṛṣṭibhiḥ | utsaṃ duhaṃto akṣitaṃ ‖*)
+(ऋ. सं. ८-७-१६) (*(ṛ. saṃ. 8-7-16)*)
+
+in these and similar ṛks, and in many others, it is described that the Maruts blow with rain in both worlds.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+महिना (*mahinā*) (the word *mahat*): because it belongs to the *pṛthv-ādi* group the suffix *imanic*; by टेः (*ṭeḥ*) loss of *ṭi* (*at*); the word *mahiman* results; when the ending *su* follows, by सुपां सुलुक् (*supāṃ suluk*) the substitute *ā*; by *vyatyaya*, because it has the *bha* designation, loss of the *a* of *anin*; the loss of *m* is Vedic. चिकित्त्रॆ [?] (*cikittrè [?]*) (root कित ज्ञाने (*kita jñāne*)): Vedic *liṭ* in the passive; third person plural; by लिटस्तझयो—(पा. सू. ३-४-८१) (*liṭastajhayo—(pā. sū. 3-4-81)*) the substitute *irec*; by इरयोरे (पा. सू. ६-४-७६) (*irayore (pā. sū. 6-4-76)*) the substitute *re* for it; because of the relative *yat* there is no *nighāta*; by the suffix accent the last syllable is acute. युंजते (*yuṃjate*) (root युजिर् योगे (*yujir yoge*)): present, third person plural; the verb-*nighāta* accent. सुवृक्ति (*suvṛkti*): by सुपां सुलुक् (*supāṃ suluk*) *luk* for the genitive plural. शरुः (*śaruḥ*) (root श्य हिंसायां (*śya hiṃsāyāṃ*)): by तृस्वस्निहित्रपि—(उ. सू. १-१०) (*tṛsvasnihitrapi—(u. sū. 1-10)*) the suffix *un*; by सार्वधातुकार्थधातुकयोः (*sārvadhātukārthadhātukayoḥ*) guṇa of the *ṛ*; because it is marked *n* the first syllable is acute. इरिणम् (*iriṇam*) (root ऋ गत् (*ṛ gat*)): by आर्तेःकिदिच्च (उ. सू. २-२०९) (*ārteḥkidicca (u. sū. 2-209)*) the suffix *inan*; because the suffix is marked *k* the root takes *i*, with *r*; by अट् कुप्वाज् (*aṭ kupvāj*) *ṇatva* of the suffix *n*; by इत्यादिनिर्नित्यम् (*ityādinirnityam*) the first syllable is acute. पुषायंत (*puṣāyaṃta*) (root पु, ष स्नेहनसेचनपूरणेषु (*pu, ṣa snehanasecanapūraṇeṣu*), *kryādi*): Vedic *laṅ*; when the *śnā* suffix comes, by छंदसिशायजपि (पा. सू. ३-१-८४) (*chaṃdasiśāyajapi (pā. sū. 3-1-84)*) the substitute *śāyac*; because the suffix is marked *j* there is no guṇa of the penultimate short vowel; third person plural; because of the relative *yat* there is no *nighāta*; the suffix *śāyac*, being marked *c*, is acute on the last syllable; the augment *aṭ* does not occur by the Vedic rule.
+
+*[Stray line in the supplied text: "[11] :0: Vol. 14".]*
+
+### Printed p. 162
+
+*Running head: [162 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+*[The Saṃhitā has कृणुध्वंस [?] (*kṛṇudhvaṃsa [?]*) in the first line; marked [?].]*
+
+> प्रो आ॒श्विना॒वव॑से कृणुध्वं॒स [?] प्र पू॒षणं॒ स्वत॑वसो॒ हि संति॑ ।
+> अ॒द्वे॒षो विष्णु॒र्वात॑ ऋभु॒क्षा अच्छा॑ सु॒म्नाय॑ ववृतीय दे॒वान् ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> प्रो इति । अश्विनौ । अवसे । कृणुध्वं । प्र । पूषणं । स्वतवसः। हि। संति ।
+> अद्वेषः । विष्णुः । वातः । ऋभुक्षाः । अच्छ । सुम्नाय । ववृतीय । देवान् ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The bhāṣya has विष्णुर्वाप्त [?] (*viṣṇurvāpta [?]*) and वायुर्यभुक्षाः [?] (*vāyuryabhukṣāḥ [?]*); marked [?].]*
+
+> हे ऋत्विजः अश्विनावेतन्नामकौ देवावुद्दिश्यावसेऽस्मद्रक्षणाय प्रो कृणुध्वं
+> स्तुतिं प्रकर्षण कृणुध्वं । पूषणं पोषकमेतन्नामकं देवमप्यवसे प्रकर्षण
+> स्तुतिं कृणुध्वं । किंच ये स्वतवसः स्वायत्तबलाः संति तानपि प्र कृणुध्वं । के ते ।
+> अद्वेषो द्वेषरहितो विष्णुर्वाप्त [?] एतन्नामको देवः । प्रथममनाहूतोऽपि न
+> कुप्यतीति वक्तुमद्वेष इत्युक्तं । तथा वातः सर्वत्र संचारी वायुर्यभुक्षाः [?] पति-
+> रिंद्रश्च । एतानपि प्र कृणुध्वं । अतोऽहं स्वायत्तबलान् सर्वानपि देवान् सुम्नाय
+> सुखायाच्छाभिमुख्येन ववृतीय । स्तोत्रैरभिवर्तयेयं ॥
+
+*Gist:* O priests, praise the Aśvins and Pūṣan for our protection, and Viṣṇu, Vāyu, Indra and the other self-powered gods; I too will turn all the gods towards me with praises for happiness.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O priests) अश्विनौ (*aśvinau*) — the Aśvin deities. पूषणं (*pūṣaṇaṃ*) — the nourishing deity Pūṣan, (addressing them). अवसे (*avase*) — for our protection. प्रो कृणुध्वं (*pro kṛṇudhvaṃ*) — praise fully. अद्वेषः (*adveṣaḥ*) — free from hatred. विष्णुः (*viṣṇuḥ*) — and pervading Viṣṇu. वातः (*vātaḥ*) — the Vāyu who moves everywhere. ऋभुक्षाः (*ṛbhukṣāḥ*) — Indra, the lord. स्वतवसः (*svatavasaḥ*) — the other gods of independent strength. संति हि (*saṃti hi*) — they exist indeed (praise them too). देवान् (*devān*) — all the gods. सुम्नाय (*sumnāya*) — for happiness. अच्छ (*accha*) — that they may be turned towards me. ववृतीय (*vavṛtīya*) — (by praises) I make them turn towards me.
+
+**भावार्थ (Bhāvārtha)**
+
+O priests, praise for our protection the Aśvin deities and the nourishing deity Pūṣan; and praise Viṣṇu, who is free from hatred and pervading, and Vāyu who moves everywhere, and Indra the lord, and the other gods of independent strength.
+
+### Printed p. 163
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5 ] Ṛgveda-saṃhitā 163 (as supplied, with tabs).*
+
+I too, for the sake of my own happiness, praise all the gods so that they may turn towards me.
+
+**Printed English translation**
+
+Propitiate the Ashwins and Pushan, for my protection ; (propitiate) those (deities), who are of independent powers, as Vishnu, devoid of hatred, Vayu, and Ribhukshin, and may I influence the gods to be present for my felicity.
+
+*[As supplied, the label line of the next section reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the Aśvin deities, Pūṣan, Viṣṇu, Vāta, Indra and other gods are praised.
+
+ऋभुक्षा: (*ṛbhukṣā:*) — the Nirukta-author himself has given two meanings for this word: उरुक्षयणः इंद्रः (*urukṣayaṇaḥ iṃdraḥ*) ("Indra who dwells in the wide atmosphere"), as an epithet of Indra, or ऋभूणां राजा (*ṛbhūṇāṃ rājā*) ("king of the Ṛbhus", or of the shining gods) ((नि. ९-३) (*(ni. 9-3)*)). Or, as Sāyaṇa explains, since the word is read among the names of the great ((नि. ३-१३) (*(ni. 3-13)*)) it may mean Indra, the great-souled.
+
+वातः (*vātaḥ*) — for this word the Nirukta of Yāska is वातो वातीति सतः (*vāto vātīti sataḥ*): because it blows, this deity is called *vāta* (wind) ((नि. १०-३४) (*(ni. 10-34)*)). The two words *vāyu* and *vāta* are used in the sense of the god Vāyu and of the wind; but Vāyu is the deity and *vāta* the wind. There are two sūktas addressed to the deity Vāta ((ऋ. सं. १०-१६८ मत्तु १०-१८६) (*(ṛ. saṃ. 10-168 mattu 10-186)*)), some portions of other sūktas, and about twelve sūktas together with Indra. The two words *vāyu* and *vāta* also occur in one ṛk:
+
+ते नो रुद्रः सरस्वती सजोषा माळ्हुष्मंतो विष्णुर्मृळंतु वायुः । (*te no rudraḥ sarasvatī sajoṣā māḷhuṣmaṃto viṣṇurmṛḷaṃtu vāyuḥ |*)
+ऋभुक्षा वाजो दैव्यू विधाता पर्जन्यावाता पिप्यकामिषं नः ॥ (*ṛbhukṣā vājo daivyū vidhātā parjanyāvātā pipyakāmiṣaṃ naḥ ‖*)
+(ऋ. सं. ६-५०.१२) (*(ṛ. saṃ. 6-50.12)*)
+प्र नः पूषा चरथं विश्वदेव्योऽपां नपादवतु वायुरिष्टये । (*pra naḥ pūṣā carathaṃ viśvadevyo 'pāṃ napādavatu vāyuriṣṭaye |*)
+आत्मानं वस्यो अभि वातमर्चत तदश्विना सुहवा यामनि श्रुतं ॥ (*ātmānaṃ vasyo abhi vātamarcata tadaśvinā suhavā yāmani śrutaṃ ‖*)
+(मि. सं. १०-९२-१३) (*(mi. saṃ. 10-92-13)*)
+
+[the window ends here].
+
 ---
 
-**Progress note:** Done through printed p. 159 (PDF 159). Done through printed p. 160 start (Sukta 186 Rk 8 complete through grammar page; Rk 9 complete through printed English; Special Topics: nu, sudina, sharu, irina; ends after the pinvantyapo verse)
+**Progress note:** Done through printed p. 163 (PDF 163). Done through printed p. 163 (Sukta 186 Rk 9 complete through grammar page; Rk 10 complete through printed English; Special Topics: rbhuksha, vata; ends mid-note)
