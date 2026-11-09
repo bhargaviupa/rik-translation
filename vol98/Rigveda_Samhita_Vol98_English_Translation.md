@@ -7475,6 +7475,128 @@ identity is stated between these three goddesses and the vital principles *prā�
 
 (the supplied text breaks off here, at the end of the window, in the middle of the Bṛhaddevatā verse).
 
+### Printed p. 256
+
+*Running head: [256 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 8 of Sūkta 188 on *tisro devīḥ*; the Bṛhaddevatā verses continue from p. 255.)*
+
+अग्निमेवानुगेळा तु मध्यं प्राप्ता सरस्वती । (*agnimevānugeḷā tu madhyaṃ prāptā sarasvatī |*)
+अमू स्थिताधि लोकं तु भारती भवति ह्यसौ ॥ (*amū sthitādhi lokaṃ tu bhāratī bhavati hyasau ‖*)
+सैषा तु त्रिविधा वाग्वै दिवि च व्योम्मि चेह च । (*saiṣā tu trividhā vāgvai divi ca vyommi ceha ca |*)
+व्यस्ता चैव समस्ता च भजत्यग्नीनिमानपि ॥ (*vyastā caiva samastā ca bhajatyagnīnimānapi ‖*)
+
+त्रिस्रो देव्यः (*trisro devyaḥ*) (as printed) means the speech-presiding deities in the three worlds (the three forms of speech are described in the verses बृ. दे. २-७२ रिंद ८२ (*bṛ. de. 2-72 riṃda 82*)). As the verse
+
+अयं प्रयोगस्त्वेतेषां ज्योतिषां त्रिषु वर्ततां । (*ayaṃ prayogastveteṣāṃ jyotiṣāṃ triṣu vartatāṃ |*)
+(बृ. डे. १-९०) (*(bṛ. ḍe. 1-90)*)
+(बृ. डी. १-९०) (*(bṛ. ḍī. 1-90)*)
+
+(the print gives the reference twice, (बृ. डे. १-९०) (*(bṛ. ḍe. 1-90)*) and (बृ. डी. १-९०) (*(bṛ. ḍī. 1-90)*)) says, the different deities in the three worlds are variant forms of one speech-deity. Among them Iḷā followed the terrestrial Agni, Sarasvatī occupied the middle world, and Bhāratī became the dweller in heaven. Yet, as the verse
+
+देव्यस्ति स्रः श्रिताश्चैनं त्वष्टा चैवैतदाश्रयः । (*devyasti sraḥ śritāścainaṃ tvaṣṭā caivaitadāśrayaḥ |*)
+(बृ. दे. १-१०८) (*(bṛ. de. 1-108)*)
+
+says, the deities of these three worlds too all serve the terrestrial Agni; thus everything is concluded in the end with Agni.
+
+इळा सरस्वती मही तिस्रो देवीर्मयोभुवः । बर्हिः सीदन्त्वस्रिधः ॥ (*iḷā sarasvatī mahī tisro devīrmayobhuvaḥ | barhiḥ sīdantvasridhaḥ ‖*)
+(ऋ. सं. १-१३-९) (*(ṛ. saṃ. 1-13-9)*)
+
+In this ṛk, and likewise in the ṛk ऋ. सं. ५-५-८ (*ṛ. saṃ. 5-5-8*) with the same sequence, Bhāratī is not named; Sāyaṇa therefore says that *mahī* is a synonym of the deity Bhāratī. In the present ṛk and also in
+
+भारती पवमानस्य सरस्वतीळा मही । (*bhāratī pavamānasya sarasvatīḷā mahī |*)
+इमं नो यज्ञमा गमन्तिस्रो देवीः सुपेशसः ॥ (*imaṃ no yajñamā gamantisro devīḥ supeśasaḥ ‖*)
+(ऋ. सं. ९-५-८) (*(ṛ. saṃ. 9-5-8)*)
+
+it is an epithet.
+
+इळा (*iḷā*) — because the Bṛhaddevatā says अग्निमेवानुगेळा (*agnimevānugeḷā*) (३-१३ (*3-13*)), that Iḷā followed the terrestrial Agni, and because in
+
+प्र दीधितिर्विश्ववारा जिगाति होतारमिळॆः प्रथमं यजध्यै । (*pra dīdhitirviśvavārā jigāti hotāramiḷèḥ prathamaṃ yajadhyai |*)
+अच्छा नमोभिर्वृषभं वंदध्यै स देवान्यक्षदिषितो यजीयान् । (*acchā namobhirvṛṣabhaṃ vaṃdadhyai sa devānyakṣadiṣito yajīyān |*)
+(म. सं. ३-४-३) (*(ma. saṃ. 3-4-3)*)
+
+### Printed p. 257
+
+*Running head (unmarked page break in the supplied text; printed inside the text): [ಅ ೨ ಅ. ೫. ವ. ೯] ಮುಗ್ವೇದಸಂಹಿತಾ 257 (as supplied; the print has "ಮುಗ್ವೇದ" for "ಋಗ್ವೇದ").*
+
+the word *iḷā* is explained as food in the form of an oblation, and because the epithet धृतहस्ता (*dhṛtahastā*) in the ṛk ७-१६-८ (*7-16-8*) and धृतपदी (*dhṛtapadī*) in १०-२०-८ (*10-20-8*) occur, it appears that *iḷā* may be given the sense "oblation". Perhaps for this reason
+
+उत्तानायामव भरा चिकित्वान्त्सद्यः प्रवीता वृषणं जजान । (*uttānāyāmava bharā cikitvāntsadyaḥ pravītā vṛṣaṇaṃ jajāna |*)
+अरुषस्तूपो रुशदस्य पाज इळायास्पुत्रो वयुनेऽजनिष्ट ॥ (*aruṣastūpo ruśadasya pāja iḷāyāsputro vayune 'janiṣṭa ‖*)
+
+in this ṛk (the print gives the reference twice, (ऋ सं. ३-२९-३) (*(ṛ saṃ. 3-29-3)*) and (म सं. ३-२९-३) (*(ma saṃ. 3-29-3)*)) he is also called the son of Iḷā.
+
+भारती (*bhāratī*) — the Nirukta says "the radiance of the Āditya" (भरतः आदित्यः तस्य भाः (*bharataḥ ādityaḥ tasya bhāḥ*)). The scholar Macdonell (*Macdonell*) in his book Vedic Mythology (*Vedic Mythology*) explains it as an oblation offered by the descendants of Bharata (p. 87 (*p. 87*)), and Grassmann as the goddess of speech; or it may be understood as connected with Agni:
+
+तस्मा अग्निर्भारतः शर्म यंसज्योक्षश्यात्सूर्यमुच्चरंतं । (*tasmā agnirbhārataḥ śarma yaṃsajyokṣaśyātsūryamuccaraṃtaṃ |*)
+य इंद्राय सुनवामेत्याह नरे नर्याय नृतमाय नृणां । (*ya iṃdrāya sunavāmetyāha nare naryāya nṛtamāya nṛṇāṃ |*)
+
+since in this ṛk *bhārataḥ* is an epithet of Agni, some hold that the deity connected with him may be named *Bhāratī*.
+
+सरस्वती (*sarasvatī*) — सर इत्युदकनाम । तद्वतीस्तनितादिरूपा माध्यमिका च वाक् (*sara ityudakanāma | tadvatīstanitādirūpā mādhyamikā ca vāk*): the word *sara* means water; Sāyaṇa explains the deity as a variant form of the atmospheric speech-deity, possessing water and the sound of thunder and the like. Some hold Sarasvatī to be a river of divine nature. Or, because देव्यस्तिस्रः श्रिताश्चैनं (*devyastisraḥ śritāścainaṃ*) (बृ. दे. १-१०८ (*bṛ. de. 1-108*)) says that these three resort to Agni, and because Agni exists in three forms in earth, atmosphere and heaven, and because Bhāratī is said to be the radiance of the sun, Sarasvatī the deity of thunder and lightning, and Iḷā directly connected with Agni, some hold that all three are variant forms of Agni. The explanation of the Praiṣa sūkta, तद्रूपमग्निं (*tadrūpamagniṃ*), has been stated above.
+
+Since Sarasvatī is described in many places as the presiding deity of thunder and lightning, this Sarasvatī is a form of the Agni in the atmosphere. Since the goddess Iḷā gives wealth and long life to the people on earth, this deity is a form of the Agni on the earth: such is the indication of Iḷā, Sarasvatī and Bhāratī. The sages praised these three deities, praying that they come to the sacrificial altar and sit on the spread *barhis* (the strewn darbha grass).
+
+*[Stray lines of the supplied text: [17] Vol. 14 (*[17] Vol. 14*), twice; not part of the text.]*
+
+### Printed p. 258
+
+*Running head: [258 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+We shall give some examples of the sages praising Sarasvatī as a deity other than a river.
+
+(1) तान्पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधं । (*(1) tānpūrvayā nividā hūmahe vayaṃ bhagaṃ mitramaditiṃ dakṣamasridhaṃ |*)
+अर्यमणं वरुणं सोममश्विना सरस्वती नः सुभगा मयस्करत् । (*aryamaṇaṃ varuṇaṃ somamaśvinā sarasvatī naḥ subhagā mayaskarat |*)
+(म. सं. १-८९-३) (*(ma. saṃ. 1-89-3)*)
+
+In this ṛk Sarasvatī is the goddess of speech or the presiding deity of thunder and lightning.
+
+(2) सरस्वति त्वमस्मा अविद्धि मरुत्वती धृषती जेषि शत्रून् । (*(2) sarasvati tvamasmā aviddhi marutvatī dhṛṣatī jeṣi śatrūn |*)
+(म. सं. २-३०-८) (*(ma. saṃ. 2-30-8)*)
+
+(3) सरस्वती शृणवन् यज्ञियासो धाता रयिं सहवीरं तुरासः । (*(3) sarasvatī śṛṇavan yajñiyāso dhātā rayiṃ sahavīraṃ turāsaḥ |*)
+(म. सं. ३-५४-१३) (*(ma. saṃ. 3-54-13)*)
+
+In these ṛks Sarasvatī is taken as a river or as the presiding deity of thunder and lightning.
+
+(4) दमूनसो अपसो ये सुहस्ता वृष्णः पत्नीर्नद्यो विभ्वतष्वाः । (*(4) damūnaso apaso ye suhastā vṛṣṇaḥ patnīrnadyo vibhvataṣvāḥ |*)
+सरस्वती बृहद्दिवोत राका दशस्यंतीर्वरिवस्यंतु शुभ्राः । (*sarasvatī bṛhaddivota rākā daśasyaṃtīrvarivasyaṃtu śubhrāḥ |*)
+(ऋ सं. ५-४२-१२) (*(ṛ saṃ. 5-42-12)*)
+
+(5) आ नो दिवो बृहतः पर्वतादा सरस्वती यजता गंतु यज्ञं । (*(5) ā no divo bṛhataḥ parvatādā sarasvatī yajatā gaṃtu yajñaṃ |*)
+(ऋ. सं. ५-४३-११) (*(ṛ. saṃ. 5-43-11)*)
+
+(6) उभा नासत्या रुद्रो अफ ग्नाः पूषा भगः सरस्वती जुषंत । (*(6) ubhā nāsatyā rudro apha gnāḥ pūṣā bhagaḥ sarasvatī juṣaṃta |*)
+(ऋ. सं. ५-४६-२) (*(ṛ. saṃ. 5-46-2)*)
+
+In all three ṛks Sarasvatī is the presiding deity of thunder and lightning. Griffith (*Griffith*) holds that in the first of these three Sarasvatī is manifest as a river, either the Sindhu or the Sarasvatī, and in the second and third as a goddess. K. C. चट्टु पाध्याय (*K. C. caṭṭu pādhyāya*) (Chattopadhyaya) says that the first and second ṛks apply to the river Sindhu. All three ṛks are spoken by descendants of the sage Atri: for the first ṛk the seer is Atri or Atri's son Bhauma, for the second Atri, and for the third Pratikṣatra, a descendant of Atri. In the second ṛk Sarasvatī is invoked from heaven (*divaḥ*) and from the cloud region (*parvatāt*). Since the word *patnīḥ* occurs in the first ṛk, the bhāṣyakāra takes Sarasvatī and the other rivers as the wives of Indra.
+
+(7) अग्निरिंद्रो वरुणो मित्रो आर्यमा वायुः पूषा सरस्वती (*(7) agniriṃdro varuṇo mitro āryamā vāyuḥ pūṣā sarasvatī*)
+सजोषसः । (ऋ. सं. १०-६५-१) (*sajoṣasaḥ | (ṛ. saṃ. 10-65-1)*)
+
+### Printed p. 259
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 9] Ṛgveda-saṃhitā 259 (as supplied).*
+
+(8) विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभि: पुरंध्या । (*(8) viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhi: puraṃdhyā |*)
+(ऋ. सं. १०-६५-१३) (*(ṛ. saṃ. 10-65-13)*)
+
+In both these ṛks Sarasvatī is the goddess of speech.
+
+(9) यत्सुरामं व्यपिबः शचीभिः सरस्वती त्वा मघवन्नभिष्णुक् । (*(9) yatsurāmaṃ vyapibaḥ śacībhiḥ sarasvatī tvā maghavannabhiṣṇuk |*)
+(म. सं. १०-१३१-५) (*(ma. saṃ. 10-131-5)*)
+
+In this ṛk, since Sarasvatī is spoken of as being with Indra, she may be taken as the presiding deity of thunder and lightning.
+
+(10) गर्भं धेहि सिनीवालि गर्भं धेहि सरस्वति । (ऋ. सं. १०-१८४-२) (*(10) garbhaṃ dhehi sinīvāli garbhaṃ dhehi sarasvati | (ṛ. saṃ. 10-184-2)*)
+
+Here it is reasonable to call Sarasvatī the goddess of speech.
+
+We shall explain, as far as is known, where the river Sarasvatī flowed at that time. This account is written following the following sources: (1) R. D. Oldham in Journal of Asiatic Society Bengal 1886 page 322 (2) C. F. Oldham, Journal of Royal Asiatic Society 1893, page 51 (3) (*(1) R. D. Oldham in Journal of Asiatic Society Bengal 1886 page 322 (2) C. F. Oldham, Journal of Royal Asiatic Society 1893, page 51 (3)*) Maps of the Cambridge History of India Vol. I- Ancient India (4) Maps of (*Maps of the Cambridge History of India Vol. I- Ancient India (4) Maps of*) Punjab published by the Surveyor-General of India (5) Ancient India as (*Punjab published by the Surveyor-General of India (5) Ancient India as*) describd by Magastheneses and Arrian (*describd by Magastheneses and Arrian*) [sic: "describd", "Magastheneses"] (lectures).
+
+The Sarasvatī river at that time was a large river. Rising in the Sismur range (Sismur (*Sismur*)) in the Himalayas, it flows west and a little south. At its source five small streams (small channels in which water flows) joined to form this river and flowed on; hence it may have got the name *Pañcajātā*. After flowing some distance, the river Dṛṣadvatī (the modern Chitrang; the print has modren (*modren*) [sic]) comes flowing from the east and joins it. The Apayā is a tributary of the Dṛṣadvatī. The Sarasvatī of that time lay south of the present Surasuti river (desert rivers often change their courses). To the present Sarasuti the small rivers Markandā (Markand (*Markand*)) and Ghaggar (Ghaggar (*Ghaggar*)) join. Then the Sarasvatī flows south and west and finally reaches the sea. The bed of the dried-up river now called Hakra (Hakra (*Hakra*)) must have been the bed of the Sarasvatī of that time. It may have joined the river Sutlej (Sutlej (*Sutlej*)) and merged into the Sindhu; or it may have gone directly and joined the Sindhu. At that time the Sindhu lay much farther east than it does now and joined the sea near the gulf called the Rann of Kachh (Rann of Kach (*Rann of Kach*)). The scholar Max Müller (Max Muller (*Max Muller*)), on the basis of the word आसमुद्रात् (*āsamudrāt*) in the ṛk ऋ. सं. ७-९५-२ (*ṛ. saṃ. 7-95-2*), holds that this Sarasvatī river went directly to the sea. Since this river flowed in the region of the sandy waste before reaching the sea (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 255 (PDF 255). Done through printed p. 255 (Sukta 188 Rik 7 complete; Rik 8 complete through Special Topics on tisro devih, breaks off inside the Brihaddevata verse on p. 255)
+**Progress note:** Done through printed p. 259 (PDF 259). Done through printed p. 259 (Sukta 188 Rik 8 Special Topics on Sarasvati continue; breaks off mid-sentence in the account of the river Sarasvati on p. 259)
