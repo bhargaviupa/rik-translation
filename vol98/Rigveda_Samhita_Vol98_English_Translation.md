@@ -8497,6 +8497,93 @@ in this and other ṛks Agni is described by the word *yuvā*. The word is used 
 
 अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). नः—नम्मन्नु (*naḥ—nammannu*) (us). अघाय—हिंसकनू (पापिष्ठनू) (*aghāya—hiṃsakanū (pāpiṣṭhanū)*) (to the harmful, sinful). अविष्यवे- हॊट्टॆबाकनू (*aviṣyave- hòṭṭèbākanū*) (to the glutton). दुच्चुनाय्कॆ—दुःखकारियू आद (*duccunāykè—duḥkhakāriyū āda*) (to the doer of harm). रिपवे—शत्रुविगॆ (*ripave—śatruvigè*) (to the enemy). मा अव सृजः— बिट्टुकॊट्टु (नम्मन्नु अवन) अधीनरन्नागि माडबेड (*mā ava sṛjaḥ— biṭṭukòṭṭu (nammannu avana) adhīnarannāgi māḍabeḍa*) (do not give us over and make us subject to him). दत्वते—दंतादिगळिरुवुवू (*datvate—daṃtādigaḷiruvuvū*) (to those with teeth and the like). दशते— कच्चतक्कवू अद सर्पादिगळिगू (*daśate— kaccatakkavū ada sarpādigaḷigū*) (to biting serpents and the like). मा—सिक्कि नरळुवंतॆ माडबेड (*mā—sikki naraḷuvaṃtè māḍabeḍa*) (do not let us fall into their grip and suffer). नः—नम्मन्नु (*naḥ—nammannu*) (us). अदते— दंतविल्लदे (कॊंबु मुंताद साधनगळिंद) हिंसिसुव प्राणिगळिगू (*adate— daṃtavillade (kòṃbu muṃtāda sādhanagaḷiṃda) hiṃsisuva prāṇigaḷigū*) (to animals that hurt without teeth, with horns and the like). मा—सिक्किस बेड (हागॆये) (*mā—sikkisa beḍa (hāgèye)*) (do not give us over; likewise). रिषते—हिंसॆमाडतक्क इतर प्राणिगू बिट्टुकॊडबेड (*riṣate—hiṃsèmāḍatakka itara prāṇigū biṭṭukòḍabeḍa*) (do not give us up to any other hurting creature). सहसावन्—बलशालियाद ऎलै अग्निये (*sahasāvan—balaśāliyāda èlai agniye*) (O mighty Agni). मा परा दाः—नन्नन्नु अपजयक्कू अवमानक्कू ईडुमाडबेड (*mā parā dāḥ—nannannu apajayakkū avamānakkū īḍumāḍabeḍa*) (do not expose me to defeat and humiliation).
 
+### Printed p. 288
+
+*Running head: [288 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 189] (as supplied).*
+
+**Bhāvārtha** (Ṛk 5; the Pratipadārtha ended on p. 287)
+
+O mighty Agni, do not give us over to the enemy who is harmful, voracious and a causer of sorrow, and do not make us subject to him. Likewise do not let us fall to creatures that bite with teeth and the like, or that hurt without teeth with horns and the like. Do not make us fit objects of defeat and humiliation.
+
+**Printed English translation**
+
+Abandon us not, Agni, to a wicked, voracious, malevolent foe; (abandon us) not to one who bas fangs, and who bites ; nor to one without teeth ; nor to the malignant ; nor give us up, powerful Agni, to disgrace. [sic: "bas"]
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 5)**
+
+अघाय (*aghāya*) — हिंसकाय (*hiṃsakāya*). The word *agha*, formed from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*) with the preverb आज् (*āj*), means one who injures, a wicked person. The word *riṣate* has the same sense. Here *aghāya*, *aviṣyave*, *ripave* and the like are in the dative singular, and the prayer is: do not hand us over to the harmful; that is, protect us so that we do not fall into the hands of a harmful one.
+
+अविष्यवे (*aviṣyave*) — अविष्यतिरत्तिकर्मा । अन्नेच्छवे (*aviṣyatirattikarmā | annecchave*): to one who eats too much, that is, to demons and the like.
+
+दुच्चुनाय्कॆ (*duccunāykè*) — since the word *śuna* is read among the twenty names of happiness (नि. ३-१३ (*ni. 3-13*)), *śuna* means happiness. दुष्टसुखकारिणे दुःखकारिण इत्यर्थः (*duṣṭasukhakāriṇe duḥkhakāriṇa ityarthaḥ*): the sense is one who destroys such happiness and causes sorrow.
+
+दत्वते (*datvate*) — दंतवते (*daṃtavate*): wicked creatures with teeth (the print says "ಹುಲ್ಲುಗಳುಳ್ಳ", as supplied); they bite men with their sharp teeth.
+
+दशते (*daśate*) — serpents and the like that bite with venomous fangs. Though the teeth of poisonous creatures are not frightful, the poison enters the body at the bite and causes death, so serpents and the like are dangerous.
+
+अदतॆ (*adatè*) — wicked creatures without teeth; that is, some animals whose teeth are not frightful nevertheless harm men with horns, hooves and the like. Wild buffaloes, bulls and others harm people with their horns, and donkeys, horses and others with their hooves. The prayer is that we be protected from such various wicked creatures.
+
+### Printed p. 289
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 11] Ṛgveda-saṃhitā 289 (as supplied).*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 5, noted briefly)
+
+सृजः (*sṛjaḥ*) (root स्रज विसर्गे (*sraja visarge*), as printed, *tudādi*): when *māṅ* is in the compound, *laṅ*, second person singular; because of the connection with *māṅ* the augment *aṭ* does not occur; owing to the connection with a finite verb the *nighāta* accent. अविष्यवे (*aviṣyave*): by सनाशंसभीक्षउः (*sanāśaṃsabhīkṣauḥ*) the suffix *u* after the desiderative stem *aviṣya*; by आतोलोपः (*ātolopaḥ*) (पा. सू ६-४-४८ (*pā. sū 6-4-48*)) the preceding *a* is dropped; by the suffix accent the last syllable is acute; dative singular. दुच्चुनाय्कॆ (*duccunāykè*): दुष्टं शुनं यस्य सः (*duṣṭaṃ śunaṃ yasya saḥ*); the change of gender is by *vyatyaya*; by परादिश्चंदसि बहुलम् (*parādiścaṃdasi bahulam*) (पा. सू. ६-१-१९९ (*pā. sū. 6-1-199*)) the first syllable of the final member is acute. दत्वते (*datvate*): दंताः अस्य संति इति तद्वान् (*daṃtāḥ asya saṃti iti tadvān*); the substitute *dat* for *danta*; by the statement स्वर विधौव्यंजन- मविद्यमानवत् (*svara vidhauvyaṃjana- mavidyamānavat*) the intervening *t* counts as absent, so by ह्रस्वनुड्ड्यां- मतुप् (*hrasvanuḍḍyāṃ- matup*) (पा. सू. ६-१-१७६ (*pā. sū. 6-1-176*)) the suffix *matup* is acute; dative singular. दशते (*daśate*) (root दंश दशने (*daṃśa daśane*)): the participle for *laṭ*; the stem-suffix *śap*; by दंशसंज स्वंजां शपि (*daṃśasaṃja svaṃjāṃ śapi*) (पा सू. ६-४-२५ (*pā sū. 6-4-25*)) the nasal of the root is dropped; by तास्यनुदात्तेत्— (*tāsyanudāttet—*) (पा. सू. ६-१-१८६ (*pā. sū. 6-1-186*)) the *lasārvadhātuka* ending is unaccented, so the accent of the root remains. रिषते (*riṣate*) (root रिष हिंसायां (*riṣa hiṃsāyāṃ*)): the participle for *laṭ*; by the statement संज्ञापूर्वको विधिरनित्यः (*saṃjñāpūrvako vidhiranityaḥ*) guṇa of the penultimate does not occur; as before the accent of the root remains. दाः (*dāḥ*) (root डुदाज् दाने (*ḍudāj dāne*), as printed): *luṅ* because of the connection with *māṅ*, second person singular; because of the connection with *māṅ* the augment *aṭ* does not occur; the verb-*nighāta* accent (the print has "ತಿಜಿಂತಸಿಘಾತ", as supplied).
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> वि घ॒ त्वावा॑ ऋतजात यंसद्गृणा॒नो अ॑ग्ने ॒नॆत्वे॒३॒॑ऽवरू॑थं ।
+> विश्वा॑द्रिरि॒क्षोरु॒त वा॑ निनि॒त्सोर॑भि॒ह्रुता॒मसि॒ हि दे॑व वि॒ष्पट्
+> ॥ ६ ॥
+
+*[Stray line of the supplied text inside the Saṃhitā block: [19] Vol. 14 (*[19] Vol. 14*); not part of the text.]*
+
+### Printed p. 290
+
+*Running head: [290 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū 189] (as supplied).*
+
+**॥ पदपाठः ॥**
+
+*[The Pada has तन्ने [?] (*tanne [?]*) against the Saṃhitā's *tanve*; marked [?].]*
+
+> वि । घ । त्वावान् । ऋतजात । यंसत् । गृणानः । आग्ने । तन्ने [?] । वरूथं ।
+> विश्वात् । रिरिक्षोः । उत । वा । निनित्सोः । अभिह्रुतां । असि । हि । देव । विष्पट्
+> ॥ ६ ॥
+
+> *vi | gha | tvāvān | ṛtajāta | yaṃsat | gṛṇānaḥ | āgne | tanne [?] | varūthaṃ |*
+> *viśvāt | ririkṣoḥ | uta | vā | ninitsoḥ | abhihrutāṃ | asi | hi | deva | viṣpaṭ*
+> *‖ 6 ‖*
+
+*[The supplied text repeats the line ॥ ६ ॥ (*‖ 6 ‖*) once after the Pada; kept as a note. A line reading शायणभाष्यं (*śāyaṇabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ऋतजात यज्ञार्थमुत्पन्नाग्ने वरूथं वरणीयं त्वां तन्ने शरीर-
+> पोषाय गृणानः स्तुवंस्तावांस्त्वया देवतॆया तद्वाञ्जनो वि घ यंसत् ।
+> विमुंचति खल्वात्मानं । कस्मात्सकाशात् । रिरिक्षोर्हिंसितुमिच्छोश्चोरादेः सकाशात् ।
+> उत वाथवा निनित्तोर्निंदितुमिच्छतः । हे देव अभिह्रुतामाभिमुख्येन कुटिलं
+> कुर्वतां द्विषां निष्पड्विशेषेण बाधकोऽसि हि । अतस्त्वदनुग्रहादयं जनो वि
+> यंसत् ॥
+
+*Gist:* O Agni, born for the sacrifice, the man who praises you, the desirable one, for the nourishment of his body frees himself, by your grace, from thieves who wish to injure and from those who wish to revile; for, O god, you are a special crusher of the deceitful foes.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋतजात—यज्ञार्थवागि उत्पन्ननाद (*ṛtajāta—yajñārthavāgi utpannanāda*) (born for the sacrifice). अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). वरूथं—अत्यंतवागि अपेक्षितवाद निन्नन्नु (*varūthaṃ—atyaṃtavāgi apekṣitavāda ninnannu*) (you, the greatly desired). तन्ने—तन्न शरीरपोषणॆगागि (*tanne—tanna śarīrapoṣaṇègāgi*) (for the nourishment of his body). गृणानः—देवतात्मनाद निन्नंतॆये प्रवृद्धवाद शरीरवुळ्ळवनू आद यजमाननु (*gṛṇānaḥ—devatātmanāda ninnaṃtèye pravṛddhavāda śarīravuḷḷavanū āda yajamānanu*) (the sacrificer, of body grown like yours, the divine one, praising). रिरिक्षोः—हिंसिसतक्क चोरादिगळिंदागलि,  (*ririkṣoḥ—hiṃsisatakka corādigaḷiṃdāgali, *)(from thieves and others who would injure). उत वा—अथवा (अल्लदे) (*uta vā—athavā (allade)*) (or). निनित्सोः—निंदॆमाडतक्क शत्रुविनिंदागलि (*ninitsoḥ—niṃdèmāḍatakka śatruviniṃdāgali*) (from the enemy who would revile). वि घ यंसत्—तन्नन्नु बिडिसिकॊळ्ळुत्तानॆ (अवर हिंसॆगॆ सिक्किकॊळ्ळुवुदिल्ल) ! (*vi gha yaṃsat—tannannu biḍisikòḷḷuttānè (avara hiṃsègè sikkikòḷḷuvudilla) !*) (frees himself, not falling into their harm). देव—प्रकाशमाननाद ऎलै अग्निये (नीनु)! (*deva—prakāśamānanāda èlai agniye (nīnu)!*) (O shining Agni). अभिह्रुतां—वंचकराद शत्रुगळिगॆ (*abhihrutāṃ—vaṃcakarāda śatrugaḷigè*) (to deceitful foes). विष्प्ट्—हिंसॆयन्नुंटुमाडुववनागि (*viṣpṭ—hiṃsèyannuṃṭumāḍuvavanāgi*) (a causer of harm). असि हि— इद्दीयल्लवे ? (*asi hi— iddīyallave ?*) (are you not?).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, born for the sacrifice: the sacrificer who praises you for the nourishment of his own greatly desired body, whose body has grown like yours, the divine one, frees himself from thieves and others who would injure and from the enemy who would revile, and does not fall into their harm. O shining Agni, you are a causer of harm to deceitful foes.
+
+**Printed English translation**
+
+Agni, born for sacrifice, (a man) praising you, who are excellent, for (the sake of cherishing) his body, becomes such as you are exempts himself from all who are inclined to harm or revile him ; for you, Agni, are the especial adversary of those who do wrong.
+
+(The Special Topics of Ṛk 6 follow in the next window.)
+
 ---
 
-**Progress note:** Done through printed p. 287 (PDF 287). Done through printed p. 287 (Sukta 189 Rik 4 complete; Rik 5 Samhita, Pada, bhashya done; Pratipadartha complete through the last word, Bhavartha next)
+**Progress note:** Done through printed p. 290 (PDF 290). Done through printed p. 290 (Sukta 189 Rik 5 complete; Rik 6 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Special Topics of Rik 6 next); [?] on tanne
