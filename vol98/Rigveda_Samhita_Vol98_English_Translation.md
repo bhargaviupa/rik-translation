@@ -3322,6 +3322,52 @@ Then he asked Aruṇa Aupaveśi: "Gautama, whom do you know as Vaiśvānara?" "T
 
 *[Stray line in the supplied text: "[8] Vol. 14".]*
 
+### Printed p. 114
+
+*Running head: [114 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186]. The window continues the Śatapatha Brāhmaṇa story in the Special Topics of Ṛk 1 of Sūkta 186 from p. 113; the Kannada paraphrase of section 5 comes first.*
+
+Then, being asked, "O Prācīnayogya, whom do you know as Vaiśvānara?", Satyayajña Pauluṣi said, "Water only (*udaka*)". Approving this too, the king said, "That is the wealth of Vaiśvānara. Because you know the nature of that wealth, you are rich and of high standing. One who knows it conquers death and certainly obtains the full life. But this is only the inner treasury of Vaiśvānara. If you had not come here, your treasury too would have been useless, or would never have come into your view." ‖ 5 ‖
+
+अथ होवाच महाशालं जाबालं । औपमन्यव कं त्वं वैश्वानरं वेत्थेत्या- काशमेव राजन्निति होवाचोमिति होवाचैष वै बहुलो वैशानर [?] एतं हि वै त्वं बहुलं वैश्वानरं वेत्थ तस्मा त्वं बहु प्रजया पशुभिरसि यो ना [?] एतं बहुलं वैश्वानरं वेदाप पुनर्मृत्युं जयति सर्वमायु- रेत्यात्मा त्वा एष वैश्वानरस्यात्मा त्वाहास्यद्यदि ह नागमिष्य इत्यात्मा तेविदितोऽभविष्यद्यदि ह नागमिष्य इ तिवा ॥६॥ (*atha hovāca mahāśālaṃ jābālaṃ | aupamanyava kaṃ tvaṃ vaiśvānaraṃ vetthetyā- kāśameva rājanniti hovācomiti hovācaiṣa vai bahulo vaiśānara [?] etaṃ hi vai tvaṃ bahulaṃ vaiśvānaraṃ vettha tasmā tvaṃ bahu prajayā paśubhirasi yo nā [?] etaṃ bahulaṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvamāyu- retyātmā tvā eṣa vaiśvānarasyātmā tvāhāsyadyadi ha nāgamiṣya ityātmā tevidito 'bhaviṣyadyadi ha nāgamiṣya i tivā ‖6‖*)
+
+Then he asked Mahāśāla Jābāla: "O Aupamanyava, whom do you know as Vaiśvānara?" When he answered "Space (*ākāśa*)", approving that too he said: "That is the abundant (rich) Vaiśvānara; and because you know this you have abundance of cattle, sons and so on. One who knows this conquers death and obtains the full life. But this is only the main trunk of Vaiśvānara; if you had not come here, the chief principle of your body would have been useless, or would never have come to be known by you." ‖ 6 ‖
+
+अथ होच बुडिलमाश्वतराश्विं । वैयाघ्रपद्य कं त्वं वैश्वानरं वेत्थेति वायुमेव राजन्निति होवाचोमिति होवाचैष वै पृथग्वर्त्मा. वैश्वानर एतु [?] हि वै त्वं पृथग्वर्त्मानं वैश्वानरं वेत्थ तस्मात्वां पृथग्रथश्रेणयोS- नुयांति यो वा एतं पृथग्वर्त्मानं वैश्वानरं वेदाप पुनर्मृत्युं जयति सर्वमायुरेति प्राणस्त्वा विष [?] वैश्वानरस्य प्राणस्त्वाहास्यद्यदि ह नागमिष्य इति प्राणस्तेऽविदितोऽभविष्यद्यदि ह नागमिष्य इति वा ॥ ७ ॥ (*atha hoca buḍilamāśvatarāśviṃ | vaiyāghrapadya kaṃ tvaṃ vaiśvānaraṃ vettheti vāyumeva rājanniti hovācomiti hovācaiṣa vai pṛthagvartmā. vaiśvānara etu [?] hi vai tvaṃ pṛthagvartmānaṃ vaiśvānaraṃ vettha tasmātvāṃ pṛthagrathaśreṇayoS- nuyāṃti yo vā etaṃ pṛthagvartmānaṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvamāyureti prāṇastvā viṣa [?] vaiśvānarasya prāṇastvāhāsyadyadi ha nāgamiṣya iti prāṇaste 'vidito 'bhaviṣyadyadi ha nāgamiṣya iti vā ‖ 7 ‖*)
+
+Again he asked Buḍila Aśvatarāśvi: "O Vaiyāghrapadya, whom do you know as Vaiśvānara?" He said that Vāyu is Vaiśvānara. Accepting that too, the royal sage said: "Vāyu is the variety of ways of Vaiśvānara. Because you know this, chariots that travel by many ways follow you. One who knows this certainly conquers death and obtains the full life.
+
+### Printed p. 115
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4.] Ṛgveda-saṃhitā 115 (as supplied).*
+
+But this is only the breath of Vaiśvānara. If you had not come to me, your breath too would have been useless, or you would have had no knowledge of it." ‖ 7 ‖
+
+अथ होवाचेंद्रद्युम्नं भाल्लवेयं। वैयाघ्रपद्य कं त्वं वैश्वानरं वेत्थे- त्यादित्यमेव राजन्निति होवाचोमिति होवाचैष वै सुततेजा वैश्वानर एतं हि वै त्वां सुततेजसं वैश्वानरं वेत्थ तस्मात्तवैष सुतोऽद्यमानः पच्यमानोऽक्षीयमाणो गृहेषु तिष्ठति यो वा एतं सुततेजसं वैश्वा- नरं वेदाप पुनर्मृत्युं जयति सर्वमायुरेति चक्षुस्त्वा एतद्वैश्वानरस्य चक्षुस्त्वाहास्यद्यदि ह नागमिष्य इति चक्षुस्तेऽविदितमभविष्यद्यदि ह नागमिष्य इति वा ॥८॥ (*atha hovāceṃdradyumnaṃ bhāllaveyaṃ| vaiyāghrapadya kaṃ tvaṃ vaiśvānaraṃ vetthe- tyādityameva rājanniti hovācomiti hovācaiṣa vai sutatejā vaiśvānara etaṃ hi vai tvāṃ sutatejasaṃ vaiśvānaraṃ vettha tasmāttavaiṣa suto 'dyamānaḥ pacyamāno 'kṣīyamāṇo gṛheṣu tiṣṭhati yo vā etaṃ sutatejasaṃ vaiśvā- naraṃ vedāpa punarmṛtyuṃ jayati sarvamāyureti cakṣustvā etadvaiśvānarasya cakṣustvāhāsyadyadi ha nāgamiṣya iti cakṣuste 'viditamabhaviṣyadyadi ha nāgamiṣya iti vā ‖8‖*)
+
+Then he asked Indradyumna Bhāllaveya, "Whom do you know as Vaiśvānara?" He said that Āditya is Vaiśvānara. Approving that too, he said: "Truly, the brilliance of Soma is Vaiśvānara. Because you know this, in your house soma-juice and its cooking are never wanting. One who knows this conquers death and obtains the full life. But this is only the eye of Vaiśvānara. If you had not come to me, your eye too would have been useless, or you would have had no knowledge of it." ‖ 8 ‖
+
+अथ होवाच जनं शार्कराक्ष्यं । सायवस कं त्वं वैश्वानरं वेत्थेति दिवमेव राजन्निति होवाच ओमिति होवाचैष वाअतिष्ठा वैश्वानर एतं हि वॆ [?] त्वमतिष्ठा वैश्वानरं वेत्थ तस्मात्तं समानानतितिष्ठसि यो वा एतमतिष्ठां वैश्वानरं वेदाप पुनर्मृत्युं जयति सर्वमायुरेति मूर्धा त्वा एष वैश्वानरस्य मूर्धा त्वाहास्यद्यदि ह नागमिष्य इति मूर्धा तेऽविदितोS- भविष्यद्यदि ह नागमिष्य इति वा ॥९॥ (*atha hovāca janaṃ śārkarākṣyaṃ | sāyavasa kaṃ tvaṃ vaiśvānaraṃ vettheti divameva rājanniti hovāca omiti hovācaiṣa vāatiṣṭhā vaiśvānara etaṃ hi vè [?] tvamatiṣṭhā vaiśvānaraṃ vettha tasmāttaṃ samānānatitiṣṭhasi yo vā etamatiṣṭhāṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvamāyureti mūrdhā tvā eṣa vaiśvānarasya mūrdhā tvāhāsyadyadi ha nāgamiṣya iti mūrdhā te 'viditoS- bhaviṣyadyadi ha nāgamiṣya iti vā ‖9‖*)
+
+Afterwards he asked Jana Śārkarākṣya: "O Sāyavasa, whom do you know as Vaiśvānara?" He said it is the atmosphere (*antarikṣa*). Approving that too, he said: "The atmosphere is the most excellent part of Vaiśvānara. Because you know it you are the most excellent among all your equals. One who knows this conquers death and obtains the full life. But this is only the head of Vaiśvānara. If you had not come to me, your head too would have been useless, or you would have had no understanding of it." ‖ 9 ‖
+
+तान् होवाच एते वै यूयं पृथग्वैश्वानरान्विद्वांसः पृथगन्नमघस्तं प्रादेशमात्रमिव ह वै देवाः सुविदिता अभिसंपन्नास्तथा तु व एनान्वक्ष्यामि यथा प्रादेशमात्रमेवाभिसंपादयिष्यामीति ॥१०॥ (*tān hovāca ete vai yūyaṃ pṛthagvaiśvānarānvidvāṃsaḥ pṛthagannamaghastaṃ prādeśamātramiva ha vai devāḥ suviditā abhisaṃpannāstathā tu va enānvakṣyāmi yathā prādeśamātramevābhisaṃpādayiṣyāmīti ‖10‖*)
+
+### Printed p. 116
+
+*Running head: [116 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+At the end, addressing them all together, he said: "Each one of you has grasped only separate parts of Vaiśvānara; therefore you eat separate food. These well-known gods are (each) only of the measure of a span (*prādeśa*, "measure of a span" as printed in English); I shall explain to you in such a way that these deities are indeed only of the measure of a span." ‖ 10 ‖
+
+स होवाच । मूर्धानमुपदिशन्नेष वा अतिष्ठा वैशानर [?] इति, चक्षुषी उप- दिशन्नु वाचैष वै सुततेजा वैश्वानर इति, नासिकेऽउपदिशन्नु वाचैष वै पृथ- ग्वर्त्मा वैश्वानर इति, मुख्यमाकाशमुपदिशन्नु वाचैष वै बहुलो वैश्वानर इति मुख्या अप उपदिशन्नु वाचैष वै रयिवैश्वानर इति ऋुबकमुपदिशन्नु- [?] वाचैष वै प्रतिष्ठा वैश्वानर इति, स एषोऽग्निर्वैश्वानरो यत्पुरुषः स यो हैतमेममग्निं [?] वैश्वानरं पुरुषविधं पुरुषेऽंतः प्रतिष्ठितं वेदाप पुनर्मृत्युं जयति सर्वमायुरेति न हास्यब्रुवाणं च न वैश्वानरो हिनस्ति ॥११॥ (*sa hovāca | mūrdhānamupadiśanneṣa vā atiṣṭhā vaiśānara [?] iti, cakṣuṣī upa- diśannu vācaiṣa vai sutatejā vaiśvānara iti, nāsike 'upadiśannu vācaiṣa vai pṛtha- gvartmā vaiśvānara iti, mukhyamākāśamupadiśannu vācaiṣa vai bahulo vaiśvānara iti mukhyā apa upadiśannu vācaiṣa vai rayivaiśvānara iti ṛubakamupadiśannu- [?] vācaiṣa vai pratiṣṭhā vaiśvānara iti, sa eṣo 'gnirvaiśvānaro yatpuruṣaḥ sa yo haitamemamagniṃ [?] vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ṃtaḥ pratiṣṭhitaṃ vedāpa punarmṛtyuṃ jayati sarvamāyureti na hāsyabruvāṇaṃ ca na vaiśvānaro hinasti ‖11‖*)
+
+At the end, pointing to the head, he said that this is the most excellent part of Vaiśvānara; showing the eyes, that this is the part of Vaiśvānara which is the brilliance of Soma; pointing towards the nose, that this is the variety of the ways of Vaiśvānara; indicating the space (the mouth), that this is the abundant Vaiśvānara; showing the principal water, that this is the wealth of Vaiśvānara; and showing the chin (beard), that this is the support of Vaiśvānara. He explained that this Vaiśvānara Agni is none other than the best of men, and is of the form of man and abides within man; that one who knows this Vaiśvānara Agni conquers death and obtains the full life; and that no harm will ever come to one who always praises him. ‖ 11 ‖
+
+(श. ब्रा. १०, ६-१-१रिंद ११) (*(śa. brā. 10, 6-1-1riṃda 11)*)
+
+अभिपित्वे—ई (*abhipitve—ī*) — for this word Sāyaṇa has given the explanation अभिपतनीये (*abhipatanīye*) ("to be approached"), "that is going on now, or that has now been reached". Yāska in the Nirukta ((नि ३-१५) (*(ni 3-15)*)) says अभिपित्वं अभिप्राप्तिं (*abhipitvaṃ abhiprāptiṃ*) and gives the very sense "that which is going on now, or that which is being done now".
+
+विश्वं जगत्—ई (*viśvaṃ jagat—ī*) — for these words Sāyaṇa has given two kinds of meaning: एतत्सा वरस्याप्युलपक्षणं [?] । कृत्स्नं प्रपंचं (*etatsā varasyāpyulapakṣaṇaṃ [?] | kṛtsnaṃ prapaṃcaṃ*) — "all the world that does not move" is one kind of meaning; and यद्वा जगच्छब्दो यजमानरूपमनुष्यवाची । सर्वानपि यजमानान् (*yadvā jagacchabdo yajamānarūpamanuṣyavācī | sarvānapi yajamānān*) ("or the word *jagat* denotes men in the form of sacrificers; all the sacrificers") — the word *jagat* also indicates "men in the form of sacrificers". Therefore here *viśvaṃ jagat* means "all the sacrificers": thus he has given the second meaning. (The supplied text has वरस्याप्युलपक्षणं (*varasyāpyulapakṣaṇaṃ*) [?] and "ಯಜಮಾರನನ್ನೂ" [?], kept as supplied, marked [?].)
+
 ---
 
-**Progress note:** Done through printed p. 113 (PDF 113). Done through printed p. 113 (Sukta 186 Rk 1 Special Topics: Vaisvanara discussion, Satapatha story of Asvapati Kaikeya, sections 1-5; continues on next page)
+**Progress note:** Done through printed p. 116 (PDF 116). Done through printed p. 116 (Sukta 186 Rk 1 Special Topics: Satapatha story sections 5-11; abhipitve, visvam jagat notes)
