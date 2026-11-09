@@ -15100,6 +15100,67 @@ In the previous ṛk it was said that Agni, like the hotṛ and other priests, h
 
 *(The supplied text ends here, after the Pada of Ṛk 4 on p. 496; the bhāṣya follows in the next window.)*
 
+### Printed p. 497
+
+*Running head (as supplied): [अ. २. अ ५ व. २६ ] ऋग्वेदसंहिता 497 (*[a. 2. a 5 va. 26 ] ṛgvedasaṃhitā 497*).*
+
+*(Continuation of Ṛk 4 of Sūkta 5 of Maṇḍala 2: its bhāṣya follows the Pada of the previous page. As supplied, the label line of the bhāṣya reads सायणभ.षं (*sāyaṇabha.ṣaṃ*), inside the quoted block; standard label inserted.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> शुचिः स्वयं शोधकः प्रशास्ता देवानां एतन्नामक ऋत्विक् प्रशासिता वा
+> यज्ञविघ्नानां शुचिना क्रतुना शोधकेनाग्निहोत्रादिकर्मणा साकं हि सहैवाजनि ।
+> उत्पन्नः । जातमात्र एव शुद्धः सर्वस्य प्रशास्ता च सन्नग्निहोत्रादिनिर्वोढाभवदि-
+> त्यर्थः । अस्याग्नेध्रुवा ध्रुवाणि फलपर्यवसायीानि व्रतानि कर्माणि विद्वान् जानन्
+> यजमानो वया इव विस्तृताः शाखा इवानुरोहते । क्रमेणानुतिष्ठति ॥
+
+*Gist:* Agni, regulator of the sacrifice, is born with the purifying rites; the wise sacrificer follows his rules in order, as branches spring from a stem.
+
+*(The bhāṣya contains a short grammatical remark; it is transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+शुचिः—स्वयं शुद्धिकारकनू (*śuciḥ—svayaṃ śuddhikārakanū*) (pure, himself the purifier). प्रशास्ता—यज्ञद विघ्नगळन्नु नाशमाडुववनू (*praśāstā—yajñada vighnagaḷannu nāśamāḍuvavanū*) (the destroyer of the obstacles of the sacrifice). अथवा प्रशास्त्रनामकनाद ऋत्विक्कू आद अग्नियु (*athavā praśāstranāmakanāda ṛtvikkū āda agniyu*) (or the priest called the praśāstṛ, Agni (the two parts run together in the print)). शुचिना—शुद्धिकारकवाद (*śucinā—śuddhikārakavāda*) (of the purifying). क्रतुना साकं हि—अग्निहोत्रादि कर्मगळॊडनॆये (*kratunā sākaṃ hi—agnihotrādi karmagaḷòḍanèye*) (together with the rite, with agnihotra and the other rites). अजनि—उत्पन्ननादनु (*ajani—utpannanādanu*) (he was born). अस्य—ई अग्निय (*asya—ī agniya*) (of this Agni). ध्रुवा व्रता—फलपरवसायियाद कर्मगळन्नु (*dhruvā vratā—phalaparavasāyiyāda karmagaḷannu*) (the rites that lead to their fruit). विद्वान्—अरितिरुव यजमाननु (*vidvān—aritiruva yajamānanu*) (the sacrificer who knows). वया इव— विस्तृतवाद शाखॆगळंतॆ (*vayā iva— vistṛtavāda śākhègaḷaṃtè*) (like spreading branches). अनु रोहते—अग्निय मादरियन्ननुसरिसि क्रमवागि नॆरवेरिसुत्तानॆ. (*anu rohate—agniya mādariyannanusarisi kramavāgi nèraverisuttānè.*) (he performs in order, following the pattern of Agni).
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, himself the purifier and the destroyer of the obstacles of the sacrifice, was born together with the purifying rites such as agnihotra. The sacrificers who know the rites of this original Agni that lead to their fruit perform them following the pattern of Agni, as the branches of a tree spread following the original tree.
+
+**Printed English translation**
+
+The pure regulator (of the sacrifice) is born verily together with the holy act; the wise (worshipper) performs all his, (Agni's), prescribed rites in succession, as the branches spring (from a common stem).
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4)**
+
+In this ṛk Agni is described as performing the work of the praśāstṛ. The प्रशास्ता (*praśāstā*) is one of the sixteen priests. The duty of this priest is to remove the obstacles that may occur in the sacrifice and make the sacrifice proceed completely. Therefore प्रशास्ता प्रशासिता वा यज्ञविघ्नानां शुचिना क्रतुना शोधकेनाग्निहोत्रादिकर्मणा (*praśāstā praśāsitā vā yajñavighnānāṃ śucinā kratunā śodhakenāgnihotrādikarmaṇā*): that is, he purifies the obstacles of the sacrifice by his command or by rites such as agnihotra, in the form of expiation, and makes the sacrifice go on. Therefore he is called the praśāstṛ: one who regulates (that the sacrifice must go on in this way) (the sentence continues on the next page; the stray line "[32] Vol. 14" at the end of the page is kept as a note in the Kannada text)
+
+### Printed p. 498
+
+*Running head (as supplied): [498 सायणभाष्यसहिता [ मं. २. अ. १. सू ५] (*[498 sāyaṇabhāṣyasahitā [ maṃ. 2. a. 1. sū 5]*).*
+
+...one who rules, one who commands. It is described here that Agni was born in the form of such a priest.
+
+An illustration is given here for the rites performed in the sacrifice. वया इव अनु रोहते (*vayā iva anu rohate*): as, when a tree grows, branches grow one above another round its trunk, so in the sacrifice, according to a systematic rule, as soon as one rite is done the next rite is performed. The purport is that the sacrificer who performs the sacrifice knows such rites of the nature of Agni's rules and performs them accordingly.
+
+The word for "rite" (the Kannada word with its ending: the rite-word) has been read among the names of rites (नि. ३-२ (*ni. 3-2*)), and for it the meaning "intelligence" is also given in the same place: क्रतुं-कर्म वा प्रज्ञां वा (*kratuṃ-karma vā prajñāṃ vā*) (नि. २-२८ (*ni. 2-28*)); or the word is read among the eleven names of intelligence beginning with केतः (*ketaḥ*) (नि. ३-१३ (*ni. 3-13*)) (the print has a misspelt word for "beginning").
+
+व्रता—वृतानि । (*vratā—vṛtāni |*) Rites, rules. व्रतमिति, कर्मनाम, वृणोतीति सतः (*vratamiti, karmanāma, vṛṇotīti sataḥ*): "vrata" means rite; since this rite (a rite of sin or of merit) always surrounds the doer of the rite, the rite is called vrata. Or:
+
+इदमपीतरत् व्रतमेतस्मादेव निवृत्तिकर्म वारयतीति सतः । अन्नमपि व्रतमुच्यते यदा वृणोति शरीरं ॥ (*idamapītarat vratametasmādeva nivṛttikarma vārayatīti sataḥ | annamapi vratamucyate yadā vṛṇoti śarīraṃ ‖*)
+
+(नि २-१३ (*ni 2-13*)). Besides, the rites of restraint such as yama and niyama are also called vrata; it applies to Vedic rites performed in the presence of Agni or to other rites. Therefore वारयतीति सतः (*vārayatīti sataḥ*): because it keeps away from men, in the rite of restraint, things such as women and the like that cause obstacles, it is called a vrata. And because food, as the support of the body, pervades the body and nourishes it, food too is called vrata: thus he has given the etymology of the word vrata.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> ता अ॑स्य॒ वर्ण॑मा॒युवो॒ नेष्टुः॑ सचंत धे॒नवः॑ ।
+> कु॒वित्ति॒सृभ्य॒ आ वरं॒ स्वसा॑रो॒ या इ॒दं य॒युः ॥ ५ ॥
+
+*[A stray line of the supplied text at the end of the file, "Pages: 266/266", is kept as an italic note in the Kannada text.]*
+
+*[Printed pp. 499-500 are not in the supplied text. The Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English of Ṛk 5 of Sūkta 5 (Maṇḍala 2) fall on those pages and are therefore missing from this edition; the next section of the supplied text (printed p. 501) continues in the middle of the Special Topics of Ṛk 5. Nothing has been supplied or invented for the missing pages.]*
+
 ---
 
-**Progress note:** Done through printed p. 496 (PDF 496). Mandala 2 Sukta 5 Rik 2 and Rik 3 complete; Rik 4 Samhita and Pada; two Pada readings marked with a query
+**Progress note:** Done through printed p. 498 (PDF 498). Mandala 2 Sukta 5 Rik 4 complete; Rik 5 Samhita only; printed pp. 499-500 are not in the supplied text and the next section (p. 501) continues the Special Topics of Rik 5
