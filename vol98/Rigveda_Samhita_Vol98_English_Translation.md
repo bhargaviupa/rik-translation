@@ -10652,6 +10652,92 @@ In this matter the scholar Wilson ऎंब पंडितनु (*Wilson èṃ
 
 The page explains: सजामि (*sajāmi*) (root षण्ण संगे (*ṣaṇṇa saṃge*); since the Veda has a change of vikaraṇa, *śa* in place of *śap* in the present; because it behaves as if marked *j*, elision of the penultimate nasal; lengthening of the stem by the rule अतोदीर्घो- यञ् (*atodīrgho- yañ*); the verbal *nighāta* accent); दृतिम् (*dṛtim*) (root द्वि विदारणे (*dvi vidāraṇe*), as printed; the suffix *ti* by the rule दृणातेर्ह्रस्वश्च (*dṛṇāterhrasvaśca*) (उ. सू. ६२३ (*u. sū. 623*)); the root is shortened; because it is marked *n* by the rule पदिप्रथिभ्यां नित् (*padiprathibhyāṃ nit*), an acute on the first syllable by the rule printed इत्यादि- निर्त्यम् (*ityādi- nirtyam*)); मराति (*marāti*) (root मृज् प्राणत्यागे (*mṛj prāṇatyāge*), as printed; by *vyatyaya* the parasmaipada suffix also arises; the augment *aṭ* for the *tip* of the *leṭ* by the rule लेटोऽडाट् (*leṭo 'ḍāṭ*); *guṇa* of the root's *ṛ*; the verbal *nighāta* accent because it follows a verb form); मराम (*marāma*) (the same root; *leṭ*, first person plural; the accent operations as before); हरिष्ठाः (*hariṣṭhāḥ*) (हरिसु तिष्ठतीति हरिष्ठाः (*harisu tiṣṭhatīti hariṣṭhāḥ*); the root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); the suffix *ka* by the rule सुपिस्थः (*supisthaḥ*) (पा सू. ३-२-४ (*pā sū. 3-2-4*)); elision of the root's *ā* by the rule आतोलोप इटिच (*ātolopa iṭica*)).
 
+### Printed p. 360
+
+*Running head (as supplied): [360 सायणभाष्यसहिता [मं. १. अ. २४. सू. १९१] (*[360 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24. sū. 191]*).*
+
+*(Continuation of the grammar page of Ṛk 10 of Sūkta 191, from the end of the previous window.)*
+
+By *vyatyaya* the plural suffix has come. By the rule गतिकारकोप (*gatikārakopa*) the accent of the verbal-derivative second member arises. मधुला (*madhulā*) (root ला आदाने (*lā ādāne*); since in the rule सुपिस्थः (*supisthaḥ*) the word सुपि (*supi*) is divided as a separate rule, the suffix *ka* also comes after other roots ending in *ā* when a case-ended word is the upapada, so the suffix *ka* here too; as before the accent of the second member arises).
+
+*[As supplied, a line reading स.यणभाष्यं (*sa.yaṇabhāṣyaṃ*) stands inside the Pada block of Ṛk 11 where the bhāṣya label belongs, and a line reading प्रतिपद र्थ (*pratipada rtha*) where the Pratipadārtha label belongs; standard labels inserted. Three readings of the Pada (one in Ṛk 11 and two in Ṛk 12) are marked with a query, as they differ from the Saṃhitā.]*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> इ॒य॒त्ति॒का श॑कुंति॒का स॒का ज॑घास ते वि॒षं ।
+> सो चि॒न्नु न म॑राति॒ नो व॒यं म॑रामा॒रे अ॑स्य॒ योज॑नं
+> हरि॒ष्ठा मधु॑ त्वा मधु॒ला च॑कार ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> इयत्तिका । शकुंतिका । सका । जघास । ते । विषं ।
+> सो इति । चित् । नु । न । मराति । नो इति । वयं । मराम । आरे । अस्य ।
+> योजनं । हरिस्थाः [?] । मधु । त्वा । मधुला । चकार ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> इयत्तिका । इयत्तां कुर्वाणेयत्तावती वा । बालेत्यर्थः । शकुंतिका !
+> शकुंतः शकुनः ! तस्य स्त्री । तां कपिंजलीमाहुः । सका सा ते तव विषं जघास ।
+> भक्षितवती । सा विषहर्त्रिति प्रसिद्धा । सो चित् ॥ सा उ इति निपातसमुदाय एकं
+> पदं !! सापि शकुंतिका न म्रियते नित्यप्रतिपक्षत्वाद्विषस्य । शिष्टं व्याख्यातचरं । अनेन
+> विद्यायां यद्देहावृतं विषं तस्य शकुनेभ्य आदित्याय च प्रदानमस्तीत्युक्तं भवति!!
+
+*Gist:* The little female partridge eats your poison and does not die; nor do we; the far sun neutralises it; honey-lore makes it nectar.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इयत्तिका—ई सण्ण रूपद (*iyattikā—ī saṇṇa rūpada*) (of this small form). सका शकुंतिका—अदे पक्षियु (*sakā śakuṃtikā—ade pakṣiyu*) (that same bird). ते—निन्न (*te—ninna*) (your). विषं— विषवन्नु (*viṣaṃ— viṣavannu*) (poison). जघास—भक्षिसिदॆ (आदरू सह) (*jaghāsa—bhakṣisidè (ādarū saha)*) (has eaten, even so). सो चित्—शक्तियुतवाद अदु (*so cit—śaktiyutavāda adu*) (that powerful one). नु—खंडित वागियू (*nu—khaṃḍita vāgiyū*) (certainly). न मराति—मरणवन्नु हॊंदुवुदिल्ल (*na marāti—maraṇavannu hòṃduvudilla*) (does not die). नो वयं मराम—नावू सह मृत (*no vayaṃ marāma—nāvū saha mṛta*) (we also do not die: the entry is divided across the page boundary).
+
+### Printed p. 361
+
+*Running head (as supplied): [अ. २. अ. ५. व. १६.] ऋग्वेदसंहिता 361 (*[a. 2. a. 5. va. 16.] ṛgvedasaṃhitā 361*).*
+
+रागुवुदिल्ल (*rāguvudilla*) (the rest of the entry). आरे—दूरदल्लिद्दरू सह (*āre—dūradalliddarū saha*) (though far away). हरिष्ठाः—अश्वारूढनाद सूर्यनु (*hariṣṭhāḥ—aśvārūḍhanāda sūryanu*) (the sun mounted on horses). अस्य—ई विषद (*asya—ī viṣada*) (of this poison). योजनं—संपर्कवन्नु हॊंदुत्तानॆ (*yojanaṃ—saṃparkavannu hòṃduttānè*) (comes into contact). (ई विषद शक्तियु नमगॆ प्रसरिसदंतॆ माडुत्तानॆ) (*(ī viṣada śaktiyu namagè prasarisadaṃtè māḍuttānè)*) (makes the force of this poison not spread to us). ( ऎलै विषवे ) मधुला—मधुविद्यॆयु (*( èlai viṣave ) madhulā—madhuvidyèyu*) (O poison, the honey-lore). त्वा—निन्नन्नु (*tvā—ninnannu*) (you). मधु चकार—अमृतवन्नागि परिवर्तिसिदॆ (*madhu cakāra—amṛtavannāgi parivartisidè*) (has turned into nectar).
+
+**भावार्थ (Bhāvārtha)**
+
+This small bird has eaten your poison; yet, being powerful, it does not die. Even though far away, the sun mounted on horses comes into contact with this poison and makes the force of the poison not spread to us (the supplied text reads सूरनु (*sūranu*) for the sun in this line). O poison, the honey-lore has turned you into nectar.
+
+**Printed English translation**
+
+That little insignificant bird has swallowed your venom ; she does not die, nor shall we die; for, although afar off, yet drawn by his coursers, (the Sun) will overtake (the poison) ; the science of antidotes has converted you (Poison), to ambrosia.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 11)**
+
+In the previous ṛk it was said that, since he is in the solar orb, the sun removes poison; now it is described that a bird called कपिंजल (*kapiṃjala*) eats poison and removes it.
+
+इयत्तिका शकुंतिका । इयत्तां कुर्वाणेयत्तावती वा । बालेत्यर्थः (*iyattikā śakuṃtikā | iyattāṃ kurvāṇeyattāvatī vā | bāletyarthaḥ*): it is the nature of children to see what someone does and imitate it. Therefore *iyattikā* means a girl (of an imitating nature). शकुंतः (*śakuṃtaḥ*) means the bird शकुन (*śakuna*), or it is also named कपिंजल (*kapiṃjala*) (Francoline partridge (*Francoline partridge*)). शकुंतिका (*śakuṃtikā*) means a female bird. Therefore *iyattikā-śakuntikā* means the small female young of the *śakuna* or *kapiñjala* bird. The name of the bird *śakunta* is mentioned in ऋ. सं. २-४२-३, २-४३-१ (*ṛ. saṃ. 2-42-3, 2-43-1*).
+
+सका जघास ते विषं (*sakā jaghāsa te viṣaṃ*): सका (*sakā*) means the same as सा (*sā*). The young of the female *kapiñjala* bird explained before ate (swallowed) your poison (the poison of the poison-bearer); a bird so small eats poison without minding it; since that is its natural food, it does not die; we too do not die; and so on, all the details are as before.
+
+### Printed p. 362
+
+*Running head (as supplied): [362 सायणभाष्यसहिता [ मं. १ अ. २४. सू १९१] (*[362 sāyaṇabhāṣyasahitā [ maṃ. 1 a. 24. sū 191]*).*
+
+सो चिन्नु (*so cinnu*): here the bhāṣyakāra has not divided the words as सः चित् नु (*saḥ cit nu*), as he did in the previous ṛk. Instead the word division is सा+उ=सो (*sā+u=so*). Since the particle उ ऎंब निपातवु (*u èṃba nipātavu*) is used to fill out the word, he has explained that if the division सा (*sā*) is made, the meaning fits as an adjective of the word शकुंतिका (*śakuṃtikā*).
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 11, noted briefly)
+
+The page explains: सका (*sakā*) (the word *tad*; by the rule पा. सू. ५-३-७१ (*pā. sū. 5-3-71*) the *akac* comes in the middle; by the rule तदोःसाव (*tadoḥsāva*) the initial *t* is replaced by *s*; since *akac* is marked *c*, the acute on the end by the rule चितः (*citaḥ*); because the stem ends in *a*, टाप् (*ṭāp*) in the feminine; by the single substitute that too takes the acute); जघास (*jaghāsa*) (root अद भक्षणे (*ada bhakṣaṇe*); when the perfect is intended, by the rule लिट्यन्यतरस्याम् (*liṭyanyatarasyām*) (पा. सू २-४-४० (*pā. sū 2-4-40*)) the root takes the substitute printed घस् ल्आ (*ghas lā*); reduplication and so on; lengthening of the penultimate by the rule अतउपधायाः (*ataupadhāyāḥ*); the *nighāta* accent because it follows a verb form); सो इति (*so iti*) (here there are two words, सा उ (*sā u*); since these are read in the rule निपाताः (*nipātāḥ*), both receive the name *nipāta* and form a single word).
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> त्रिः स॒प्त वि॑ष्णुलिंग॒का वि॒षस्य॒ पुष्प॑मक्षन् ।
+> ताश्चि॒न्नु न म॑रंति॒ नो व॒यं म॑रामा॒रे अ॑स्य॒ योज॑नं
+> हरि॒ष्ठा मधु॑ त्वा मधु॒ला च॑कार ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> त्रिः । सप्त । विष्णुलिंगकाः । विषस्य । पुष्यं [?] । अक्षन् ।
+> ताः । चित् । नु । न । मरंति । नो इति । वयं । मराम । आरे । अस्य । योजनं ।
+> हरिस्थाः [?] । मधु । त्वा । मधुला । चकार ॥ १२ ॥
+
+*(The bhāṣya of Ṛk 12 follows in the next window; the supplied text ends here.)*
+
 ---
 
-**Progress note:** Done through printed p. 359 (PDF 359). Sukta 191 Rik 10 complete through the Special Topics (madhuvidya, Wilson quotation); grammar page of Rik 10 begun
+**Progress note:** Done through printed p. 362 (PDF 362). Sukta 191 Rik 10 grammar complete; Rik 11 complete; Rik 12 Samhita and Pada only; three readings marked with a query
