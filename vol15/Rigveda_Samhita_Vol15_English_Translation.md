@@ -4346,7 +4346,7 @@ By the word वरुण (*varuṇa*) the Āditya is addressed here. That Varu�
 
 मघोनः (*maghonaḥ*)—धनवतः (*dhanavataḥ*) (of the wealthy). The word *magha* is read among the names for wealth by Yāska (Ni. 3-9). The meaning is explained as "one who has wealth".
 
-प्रियस्य भूरिदान्वः आपेः शुनं मा आ विदं (*priyasya bhūridānvaḥ āpeḥ śunaṃ mā ā vidaṃ*) (as supplied, with शुनं (*śunaṃ*))—the bhāṣya says, in Sanskrit, that near a rich man who gives abundantly, "our sons and others are hungry", stating their poverty, I should not become a supplicant. In Kannada: the prayer is explained thus: "may we, the sacrificers, not have to go to a wealthy man who is benevolent and gives liberally, say that our sons and others are fasting from poverty, and beg wealth".
+प्रियस्य भूरिदान्वः आपेः शुनं मा आ विदं (*priyasya bhūridānvaḥ āpeḥ śunaṃ mā ā vidaṃ*) (as supplied, with शुनं (*śunaṃ*))—the bhāṣya says: बहुलस्य दातुराड्यस्य समीपे अस्मदीयाः पुत्रादयः क्षुधिता इति दारिद्रमभिदाय याचमानो मा भूवं (*bahulasya dāturāḍyasya samīpe asmadīyāḥ putrādayaḥ kṣudhitā iti dāridramabhidāya yācamāno mā bhūvaṃ*), that is, near a rich man who gives abundantly, "our sons and others are hungry", stating their poverty, I should not become a supplicant. In Kannada: the prayer is explained thus: "may we, the sacrificers, not have to go to a wealthy man who is benevolent and gives liberally, say that our sons and others are fasting from poverty, and beg wealth".
 
 शूनं (*śūnaṃ*)—the bhāṣya gives शून्यं (*śūnyaṃ*) or शूनं गतं प्राप्तं दारिद्र्यं (*śūnaṃ gataṃ prāptaṃ dāridryaṃ*). The meaning given for the word *śūna* is: the absence of any kind of thing, or the poverty (destitution) that brings one to a state of emptiness.
 
@@ -9333,11 +9333,11 @@ is used in the sense of play, according to the rule that roots have many meaning
 
 **प्रतिपदार्थ (Pratipadārtha)**
 
-विप्र (*vipra*)—O wise Agni; देवान् (*devān*)—the worshipful gods, Indra and the rest; इह (*iha*)—to this sacrifice; आ वक्षि (*ā vakṣi*)—bring; यक्षि च (*yakṣi ca*)—and sacrifice with reference to them; होतः (*hotaḥ*)—you who call the gods to the sacrifice; उशन् (*uśan*)—desiring our sacrifice; त्रिषु योनिषु (*triṣu yoniṣu*)—in the three places beginning with the Gārhapatya; नि षद (*ni ṣada*)—sit; प्रस्थितं (*prasthitaṃ*)—brought to the northern altar; सोम्यं (*somyaṃ*)—made of Soma; मधु (*madhu*)—the sweet drink; प्रति वीहि (*prati vīhi*)—welcome with regard; आग्नीध्रात् (*āgnīdhrāt*)—from the sacrifice of the priest called Āgnīdhra; पिब (*piba*)—drink the Soma juice; तव भागस्य (*tava bhāgasya*)—from the portion that we offer to you; तृप्नु हि (*tṛpnu hi*)—attain satisfaction.
+विप्र (*vipra*)—O wise Agni; देवान् (*devān*)—the worshipful gods, Indra and the rest; इह (*iha*)—to this sacrifice; आ वक्षि (*ā vakṣi*)—bring; यक्षि च (*yakṣi ca*)—and sacrifice with reference to them; होतः (*hotaḥ*)—you who call the gods to the sacrifice; उशन् (*uśan*)—desiring our sacrifice; त्रिषु योनिषु (*triṣu yoniṣu*)—in the three places beginning with the Gārhapatya; नि षद (*ni ṣada*)—sit; प्रस्थितं (*prasthitaṃ*)—brought to the northern altar [the print has ಉತ್ತರವೇನಿಗೆ, apparently a misprint for ಉತ್ತರವೇದಿಗೆ; kept as supplied]; सोम्यं (*somyaṃ*)—made of Soma; मधु (*madhu*)—the sweet drink; प्रति वीहि (*prati vīhi*)—welcome with regard; आग्नीध्रात् (*āgnīdhrāt*)—from the sacrifice of the priest called Āgnīdhra; पिब (*piba*)—drink the Soma juice; तव भागस्य (*tava bhāgasya*)—from the portion that we offer to you; तृप्नु हि (*tṛpnu hi*)—attain satisfaction.
 
 **भावार्थ (Bhāvārtha)**
 
-O wise Agni, bring the worshipful gods, Indra and the rest, to this sacrifice. Sacrifice with reference to them. You who call the gods to the sacrifice, desiring our sacrifice, sit in the three places beginning with the Gārhapatya. Welcome with regard the Soma sweet drink brought to the northern altar. Drink the Soma juice from the sacrifice of the Āgnīdhra. Attain satisfaction from your portion.
+O wise Agni, bring the worshipful gods, Indra and the rest, to this sacrifice. Sacrifice with reference to them. You who call the gods to the sacrifice, desiring our sacrifice, sit in the three places beginning with the Gārhapatya. Welcome with regard the Soma sweet drink called (invited) to the northern altar (the Bhāvārtha prints ಕರೆಯಲ್ಪಟ್ಟ, "called", where the Pratipadārtha has ತರಲ್ಪಟ್ಟ, "brought"). Drink the Soma juice from the sacrifice of the Āgnīdhra. Attain satisfaction from your portion.
 
 **Printed English**
 
@@ -10404,7 +10404,7 @@ Agni — O Agni. Samidham — the fuel. Joṣi — enjoy it and be satisfied. Ā
 
 ### Printed p. 330
 
-*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 3 (as printed; the Maṇḍala is 2), Aṣṭaka 4 (as printed), Sūkta 37, p. 330.*
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 3 (as printed; the Maṇḍala is 2), Anuvāka 4 (printed ಅ. ೪.), Sūkta 37, p. 330.*
 
 **भावार्थ (Bhāvārtha)**
 
@@ -10462,7 +10462,7 @@ In this Ṛk Agni is prayed to drink Soma. O Agni, enjoy the fuel sticks (pieces
 
 ### Printed p. 332
 
-*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Aṣṭaka 4 (as printed), Sūkta 38, p. 332.*
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4 (printed ಅ. ೪.), Sūkta 38, p. 332.*
 
 #### Ṛk 1 (continued from p. 331)
 
@@ -10516,7 +10516,7 @@ Because Savitṛ is the maker of rain, and because his path lies in the atmosphe
 
 ### Printed p. 334
 
-*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Aṣṭaka 4 (as printed), Sūkta 38, p. 334.*
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4 (printed ಅ. ೪.), Sūkta 38, p. 334.*
 
 (The sentence begun on p. 333 ends at the top of this page: "…the custom is that the word *deva* is used.") The name Savitṛ is given to a special power of the sun that produces life in the world and gives the power of motion to creatures. According to some, the sun is this gross disc, a mass of light seen in the sky, and Savitṛ is the divine power, embodied, of that sun.
 
@@ -10583,7 +10583,7 @@ Gist: Savitṛ, large-handed, rising for the good of the world, stretches out hi
 
 ### Printed p. 336
 
-*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Aṣṭaka 4 (as printed), Sūkta 38, p. 336.*
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4 (printed ಅ. ೪.), Sūkta 38, p. 336.*
 
 **प्रतिपदार्थ (Pratipadārtha)**
 
@@ -10663,7 +10663,7 @@ The (Agni) whose ordinance is not transgressed..................................
 
 ### Printed p. 338
 
-*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Aṣṭaka 4 (as printed), Sūkta 38, p. 338.*
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Anuvāka 4 (printed ಅ. ೪.), Sūkta 38, p. 338.*
 
 > इंद्रस्य कर्म सुकृता पुरूणि व्रतानि देवा न मिनंति विश्वे ।
 
@@ -10755,7 +10755,7 @@ The Nirukta explains the words of this Ṛk thus:
 
 ### Printed p. 340
 
-*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Aṣṭaka 4 (as printed), Sūkta 38, p. 340.*
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Anuvāka 4 (printed ಅ. ೪.), Sūkta 38, p. 340.*
 
 people are not only purified but also obtain food and other nourishment through the growth of plants and so on, and live happily. It is indicated here that for all this the व्रत (*vrata*) of the god Savitṛ, that is, his work (his rule), is the cause.
 
@@ -10830,7 +10830,7 @@ Having said so far that by the rule (vrata, the ordinance) of the god Savitṛ t
 
 ### Printed p. 342
 
-*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Aṣṭaka 4 (as printed), Sūkta 38, p. 342.*
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Anuvāka 4 (printed ಅ. ೪.), Sūkta 38, p. 342.*
 
 The commentator (Sāyaṇa) says that in the present Ṛk it is used for filling out the pada.
 
@@ -10920,7 +10920,7 @@ Like a woman weaving cloth, the night again covers the spread-out world. The wis
 
 ### Printed p. 344
 
-*Running head: ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, Maṇḍala 2 (printed "ಮ. ೨."), Aṣṭaka 4 (as printed), Sūkta 38, p. 344.*
+*Running head: ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, Maṇḍala 2 (printed "ಮ. ೨."), Anuvāka 4 (printed ಅ. ೪.), Sūkta 38, p. 344.*
 
 **Printed English translation**
 
@@ -17897,7 +17897,7 @@ Men with strewn holy grass, and uplifted ladles, place before them this solemnit
 
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 
-Vṛktabarhiṣaḥ—Yāska, giving the explanation of the word barhis, says परिबर्हणात् परिच्छेदनात् । (*paribarhaṇāt paricchedanāt |*) That is, he explains the meaning as sacred grass whose tops (tips) have been cut, and, citing as proof the Ṛk
+Vṛktabarhiṣaḥ—Yāska, giving the explanation of the word barhis, says परिबर्हणात् परिच्छेदनात् । (*paribarhaṇāt paricchedanāt |*) That is, he explains the meaning as sacred grass whose tops (tips) have been cut, and, citing as proof the Ṛk [the printed word is ಯುಕ್ತಿ, "argument", probably a misprint for ಋಕ್ಕನ್ನು; kept as supplied]
 
 प्राचीनं बर्हिः प्रदिशा पृथिव्या वस्तोरस्या वृज्यते अग्रे अह्नां । व्यु प्रथते वितरं वरियो देवेभ्यो आदितये स्योनं ॥ (*prācīnaṃ barhiḥ pradiśā pṛthivyā vastorasyā vṛjyate agre ahnāṃ | vyu prathate vitaraṃ variyo devebhyo āditaye syonaṃ ‖*)
 (printed ಮ. ಸಂ. ೧೦-೧೧೦-೪, i.e. Ṛ. Saṃ. 10-110-4)

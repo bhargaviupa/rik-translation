@@ -1,3 +1,8 @@
 - 2026-11-09: tools/rv/repair_inline.py: 500 leftover multi-line ⟦Kannada Sanskrit⟧ quotations of the English file converted to Devanagari + (IAST) (no other text changed).
 - 2026-11-09: inserted the missing headings ['## Sūkta 39 (Maṇḍala 2)', '## Sūkta 40 (Maṇḍala 2)'] before the first line announcing each sūkta (no other text changed).
 - 2026-11-09: tools/rv/kn_headings.py: 26 Sūkta and 276 Ṛk headings (and Maṇḍala headings) added to the Kannada file from the structure of the English file (no other text changed) [WARN: Kannada line 3634 reads Maṇḍala 2 Sūkta 5 (as supplied); the English file has Sūkta 28 (Maṇḍala 2) at this position: heading follows the English order]. Sūkta headings stand before the printed "ಮಂಡಲ—M ॥ ಅನುವಾಕ ॥ ಸೂಕ್ತ—N" line; a Pīṭhike printed above that line belongs to the sūkta that follows.
+- 2026-11-09: QA sample repair, p. 138: the Sanskrit bhāṣya gloss ಬಹುಲಸ್ಯ ದಾತುರಾಡ್ಯಸ್ಯ … ಮಾ ಭೂವಂ was only paraphrased: now quoted in three layers (found by the independent QA sample).
+- 2026-11-09: QA sample repair, p. 296: Pratipadārtha prints ಉತ್ತರವೇನಿಗೆ ತರಲ್ಪಟ್ಟ (apparent misprint of ಉತ್ತರವೇದಿಗೆ) and the Bhāvārtha ಉತ್ತರವೇದಿಗೆ ಕರೆಯಲ್ಪಟ್ಟ ('called'): the Bhāvārtha English said 'brought'; now 'called (invited)' with a note on both.
+- 2026-11-09: QA sample repair, p. 334: running head expanded 'Aṣṭaka 4 (as printed)' → 'Anuvāka 4 (printed ಅ. ೪.)' (on these pages ಅ. between ಮಂ. and ಸೂ. is the Anuvāka).
+- 2026-11-09: QA sample repair, p. 577: Kannada prints ಯುಕ್ತಿಯನ್ನು ('the argument') where ಋಕ್ಕನ್ನು ('the Ṛk') is meant: note added, English wording unchanged.
+- 2026-11-09: same running-head fix ('Aṣṭaka 4 (as printed)' → 'Anuvāka 4 (printed ಅ. ೪.)') on 7 more pages of Sūktas 37–38 (pp. 330–344).
