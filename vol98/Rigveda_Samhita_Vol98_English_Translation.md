@@ -12816,6 +12816,91 @@ In this ṛk, the last of this sūkta, the sage prays to Agni for the fulfilment
 
 *(The supplied text ends here, in the middle of the bhāṣya of Ṛk 1 on p. 428, at the word meaning "worship"; the rest of the bhāṣya follows in the next window.)*
 
+### Printed p. 429
+
+*Running head (as supplied): [अ. २. आ ५. व. २०] ऋग्वेदसंहिता 429 (*[a. 2. ā 5. va. 20] ṛgvedasaṃhitā 429*).*
+
+*(Continuation of the bhāṣya of Ṛk 1 of Sūkta 2 of Maṇḍala 2, as a quoted block, from the Pada-pāṭha section of the previous page.)*
+
+> कीदृशं तं । समिधानं । समिध्यमानं । सुप्रयसं । शोभनान्नं । स्वर्णरं । स्वर्गे
+> नेतव्या यजमाना यस्य तादृशं । यद्वा स्वरिति सर्वपर्यायः । स्तुतीनां नेतारः
+> स्तोतारः । बहुस्तोतारमित्यर्थः । द्युक्षं । दीप्तं द्युनिवासिनं वा । होतारं ।
+> होमसंपादकं । वृजनेषु बलेषु धूर्षदं । बलस्य कर्तारमित्यर्थः । अग्नि-
+> पाटवे सति शरीरबलं भवतीति प्रसिद्धं ॥
+
+*Gist:* Agni is kindled, has good food, leads sacrificers to heaven, shines in heaven, is the hotṛ and the giver of bodily strength.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+समिधानं—प्रज्वलितनादवनू (*samidhānaṃ—prajvalitanādavanū*) (well-kindled). सुप्रयसं—श्रेष्ठवाद अन्नवन्नु हॊंदिदवनू (*suprayasaṃ—śreṣṭhavāda annavannu hòṃdidavanū*) (one with excellent food). स्वर्णरं—(यजमानरन्नु) स्वर्गक्कॆ ऒय्युववनू (*svarṇaraṃ—(yajamānarannu) svargakkè òyyuvavanū*) (one who leads the sacrificers to heaven). द्युक्षं—प्रकाशमाननू अथवा द्युलोक वासियू (*dyukṣaṃ—prakāśamānanū athavā dyuloka vāsiyū*) (radiant, or dwelling in the heaven-world). होतारं—होमसंपादकनू (*hotāraṃ—homasaṃpādakanū*) (the accomplisher of homa). वृजनेषु धूर्षदं—शरीरद शक्तियन्नु वृद्धि माडुववनू (*vṛjaneṣu dhūrṣadaṃ—śarīrada śaktiyannu vṛddhi māḍuvavanū*) (the increaser of bodily strength). जातवेदसं—जातप्रज्ञनू आद (*jātavedasaṃ—jātaprajñanū āda*) (all-knowing). अग्निं—अग्नियन्नु (*agniṃ—agniyannu*) (Agni). यज्ञेन—यागदिंद (*yajñena—yāgadiṃda*) (by the sacrifice). वर्धत—प्रवृद्धनागुवंतॆ माडिरि (*vardhata—pravṛddhanāguvaṃtè māḍiri*) (make him grow (printed "ವರ್ಧತ")). हविषा--हविस्सिनिंदलू (*haviṣā--havissiniṃdalū*) (with the oblation (printed with a double hyphen)). तना—विस्तृतवाद (*tanā—vistṛtavāda*) (extended). गिरा— स्तुतियिंदलू सह (*girā— stutiyiṃdalū saha*) (with praise also). यजध्वं—पूजिसिरि. (*yajadhvaṃ—pūjisiri.*) (worship).
+
+**भावार्थ (Bhāvārtha)**
+
+Make Agni, who is well kindled, who has excellent food, who leads the sacrificers to heaven, who is radiant, the accomplisher of homa, the increaser of bodily strength and all-knowing, grow by the sacrifice. Worship him with oblations and with extended praise.
+
+**Printed English translation**
+
+Exalt with sacrifice, Agni, who knows all that has been born ; worship him with oblations, and with ample praise ; him who is well kindled, well fed, much lauded, resplendent, the conveyer of oblations; the giver gf [sic] strength (to the body).
+
+*(The printed "gf" is a misprint for "of" [sic].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1)**
+
+यज्ञेन—यागेन । (*yajñena—yāgena |*) Sāyaṇa has explained the meaning thus: *yajña* is the rite of offering the substance in the form of oblation into Agni with a deity in view, and the sacrificers who satisfy Agni by performing this rite make Agni grow.
+
+Yāska has read the word *yajña* among the fifteen names of sacrifice beginning with यज्ञः वेनः ऎंबिवे (*yajñaḥ venaḥ èṃbive*) (as printed) (नि. ३-१९ (*ni. 3-19*)) and has explained it: यज्ञः कस्मात् प्रख्यातं कर्मेति नैरुक्ताः । या इच्छो भवतीति वा, यजुरुन्नतो भवतीति वा, बहुकृष्णाजिन इत्यौपमन्यवो, यजूंष्येनं नयंतीति वा । (*yajñaḥ kasmāt prakhyātaṃ karmeti nairuktāḥ | yā iccho bhavatīti vā, yajurunnato bhavatīti vā, bahukṛṣṇājina ityaupamanyavo, yajūṃṣyenaṃ nayaṃtīti vā |*) (rendered after the Kannada explanation that follows: "Why is it *yajña*? A famous rite, say the Nairuktas; or ... (the printed second clause is as supplied); or because the *yajus* verses lead it"; the words as printed are kept). In the world and in the Veda it is well known as the rite of worshipping deities such as Agni by the offering of oblations. (The sentence continues on the next page.)
+
+### Printed p. 430
+
+*Running head (as supplied): [430 सायणभाष्यसहिता [मं. २. अ. १. सू. २ (*[430 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 2*).*
+
+And it is said: याचनात् यज्ञः, यजुरुन्नो यज्ञः, बहुकृष्णाजिनो यज्ञः । (*yācanāt yajñaḥ, yajurunno yajñaḥ, bahukṛṣṇājino yajñaḥ |*) That is, it is *yajña* because of begging; because the rite is performed, for the most part from beginning to end, by the Yajurveda, it is *yajña*; and because the black-antelope skin is used much in the respective rites, it is *yajña*. Thus Upamanyu is said to have explained the meaning of the word *yajña* in three ways.
+
+जातवेदसं—जातानां वेदितारं जातधनं जातप्रज्ञं वा । (*jātavedasaṃ—jātānāṃ veditāraṃ jātadhanaṃ jātaprajñaṃ vā |*) Sāyaṇa explains the meaning of this word in three ways: one who knows all that has been born; one who produces substance (wealth); one who produces and increases knowledge and intelligence.
+
+The Nirukta-writer (Yāska) says: जातवेदाः कस्मात्, जातानि वेद, जातानि नैनं विदुः, जाते जाते विद्यत इति वा, जातवित्तो जातधनः, जातविद्यो जातप्रज्ञानः । (*jātavedāḥ kasmāt, jātāni veda, jātāni nainaṃ viduḥ, jāte jāte vidyata iti vā, jātavitto jātadhanaḥ, jātavidyo jātaprajñānaḥ |*) In this world, because everything that is born is known to him, he is omniscient; because all born beings know him, he is called *jātavedas*; because there is no place among the born where he is not, he is one who is in all that is born; he is one who produces wealth; and he is one of naturally unsurpassed knowledge: four kinds of meaning are explained. Durgācārya has explained that the word जातवेदः (*jātavedaḥ*) is formed from the root जनी प्रादुर्भावे (*janī prādurbhāve*) (to come into being) and from the root *vid*, and has cited this sentence of the Taittirīya Brāhmaṇa: यत्तज्जातः पशूनविंदत तज्जातवेदसो जातवेदस्यं (*yattajjātaḥ paśūnaviṃdata tajjātavedaso jātavedasyaṃ*) (because, having been born, he found the cattle, that is the *jātavedas*-ness of Jātavedas).
+
+अग्निं— (*agniṃ—*) In explaining the meaning of the word *agni* Yāska says: अग्निः कस्मात्, अग्रणीर्भवति, अग्रं यज्ञेषु प्रणीयते, अंगं नयति सन्नममानः । अकोपनो भवतीति स्थौलाष्ठीविः । त्रिभ्य आख्यातेभ्यो जायत इति शाकपूणिः । (*agniḥ kasmāt, agraṇīrbhavati, agraṃ yajñeṣu praṇīyate, aṃgaṃ nayati sannamamānaḥ | akopano bhavatīti sthaulāṣṭhīviḥ | tribhya ākhyātebhyo jāyata iti śākapūṇiḥ |*) (७-१४ (*7-14*)). That is, he explains the word as: the one who is in front in the performance of Vedic and Smārta rites; the commander of the gods; the one who is born first in the sacrifices; the one who, in worldly and Vedic rites, makes the wood and the like on which he rests subject to himself; and he has set out the views of Sthaulāṣṭhīvi and Śākapūṇi.
+
+सुप्रयसम्—शोभनान्नं । (*suprayasam—śobhanānnaṃ |*) Sāyaṇa has explained the meaning as one who has food in the form of excellent oblation. Yāska has read the word प्रयस् (*prayas*) among the twenty-eight names of food (नि. ३-९ (*ni. 3-9*)).
+
+स्वर्णरं - स्वर्गे नेतव्या यजमाना यस्य तादृशम् । यद्वा स्वरिति सर्वपर्यायः स्तुतीनां नेतारः स्तोतारः बहुस्तोतारं । (*svarṇaraṃ - svarge netavyā yajamānā yasya tādṛśam | yadvā svariti sarvaparyāyaḥ stutīnāṃ netāraḥ stotāraḥ bahustotāraṃ |*) One who is able to make the sacrificers attain heaven (the sentence continues on the next page, the phrase being divided by the page break).
+
+### Printed p. 431
+
+*Running head (as supplied): [अ. २ अ. ५ व. १८] ऋग्वेदसंहिता 431 (*[a. 2 a. 5 va. 18] ṛgvedasaṃhitā 431*).*
+
+...or one who is worthy of many kinds of praise; thus the power of Agni is described in two senses of this word. And the meaning that many people praise Agni is also explained. (A line-end hyphen inside the quoted Sanskrit above is joined.)
+
+द्युक्षं—दीप्तं द्युनिवासिनं वा । (*dyukṣaṃ—dīptaṃ dyunivāsinaṃ vā |*) Taking it to mean that Agni is radiant, or dwells in the middle region, and explaining the meaning that without the grace of this Agni living beings would have no bodily strength under the words वृजिनेषु धूर्षदं (*vṛjineṣu dhūrṣadaṃ*) (as printed), Sāyaṇa has also described the experience of the world: अग्निपाटवे सति शारीरं बलं भवतीति प्रसिद्धं (*agnipāṭave sati śārīraṃ balaṃ bhavatīti prasiddhaṃ*) (as printed) (it is well known that when fire is sound, bodily strength exists).
+
+In this ṛk the sage, the seer of the mantra, describes the many kinds of greatness of Agni, addresses the sacrificers and the priests, and instructs them: worship Agni, who is full of such greatness, with oblations and with cakes and cooked rice, and praise him with various kinds of praise.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अ॒भि त्वा॒ नक्ती॑रु॒षसो॑ वनाशि॒रेग्ने॑ व॒त्सं न स्वस॑रेषु धे॒नवः॑।
+> दि॒व इ॒वेद॑र॒तिर्मानु॑षा यु॒गा क्षपो॑ भासि पुरुवार सं॒यतः॑ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> अभि । त्वा । नक्तीः । उषसः । वनाशिरे । अग्ने । वत्सं । न । स्वसरेषु । धेनवः ।
+> दिवः इव । इत् । अरतिः । मानुषा । युगा । आ । क्षपः । भासि । पुरुवार । संयतः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वा त्वामभि प्रति नक्ती रात्रीर-षसोऽहानि । सर्वासु रात्रिषु सर्वे-
+> ष्टप्यहस्सु । यद्वा नक्तशब्दः सायंकालं लक्षयति सायं प्रातरग्निहोत्रस्य सद्भा-
+> नात् । सर्वेषु कालेषु सायंप्रातःकालेषु ना ववाशिरे । आकांक्षते यजमाना
+> यष्टुं । यद्वा अहानि रात्रयश्च त्वामेव कामयंते होतुं । काले कर्मण-
+> श्चोदनात् कालानां कामनमुपचर्यते । तत्र दृष्टांतः । स्वसरेषु स्वयंसरणि-
+> शीलेष्वहस्सु स्वसरणाधिकरणेषु गोष्ठेषु वा धेनवो वत्सं न । वत्समिव । किंच हे
+
+*Gist (of the part supplied):* Nights and days, that is the sacrificers at all times, long for Agni as cows long for the calf.
+
+*(The supplied text ends here, in the middle of the bhāṣya of Ṛk 2 on p. 431, after the words "moreover, O"; the rest follows in the next window. The Pada line is joined to its closing mark.)*
+
 ---
 
-**Progress note:** Done through printed p. 428 (PDF 428). Mandala 2 Sukta 1 complete; Sukta 2 introduction, Rik 1 Samhita, Pada and the start of the bhasya; one reading marked with a query
+**Progress note:** Done through printed p. 431 (PDF 431). Mandala 2 Sukta 2 Rik 1 complete; Rik 2 Samhita, Pada and the start of the bhasya
