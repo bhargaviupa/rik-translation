@@ -5908,6 +5908,56 @@ the bhāṣyakāra also explains पीवः प्रवृद्धं (*pīv
 
 *Gist:* Having praised food in general, he now praises the Soma-food: with the milk-mixed and barley-mixed portion of you, O Soma, which we partake, O body, grow fat.
 
+### Printed p. 206
+
+*Running head: [206 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 187] (as supplied).*
+
+**Pratipadārtha** (Ṛk 9)
+
+सोम—ऎलै सोमरसवे (*soma—èlai somarasave*) (O Soma juice). ते—निन्न (*te—ninna*) (your). गवाशिरः—क्षिरादिगळिंद कूडिद (*gavāśiraḥ—kṣirādigaḷiṃda kūḍida*) (mixed with milk and the like). यवाशिरः— यवादि धान्यगळिंद मित्रवादुदू (*yavāśiraḥ— yavādi dhānyagaḷiṃda mitravādudū*) (mixed with barley and other grains; the print reads "ಮಿತ್ರ", as supplied). यत्—याव निन्न अंशवन्नु (*yat—yāva ninna aṃśavannu*) (which portion of you). भजामहे—सेविसुत्ते वॆयो (आद्दरिंद) (*bhajāmahe—sevisutte vèyo (āddariṃda)*) (we partake; therefore). वातापे—ऎलै शरीरवे (*vātāpe—èlai śarīrave*) (O body). प्रीवः [?] इत् भव—पुष्टवागिये बॆळॆ (*prīvaḥ [?] it bhava—puṣṭavāgiye bèḷè*) (grow well nourished; the print has "ಪ್ರೀವಃ" for *pīvaḥ*, marked [?]).
+
+**भावार्थ (Bhāvārtha)**
+
+O body, you drink a portion of the Soma juice that is mixed with milk and with barley; therefore grow well nourished.
+
+**Printed English translation**
+
+And since we enjoy Soma, your mixture with boiled milk or boiled barley ; therefore body do you grow fat.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Up to now food in general has been praised. Now in this ṛk and in the following ṛks the commonly used food is not praised; rather the food in the form of Soma, and the foods *gavāśira* and *yavāśira*, which are mixed with Soma, are praised. We have given extensive explanations about Soma many times before, but a more careful explanation of it is needed now.
+
+In the Veda there are many mantras concerning Soma. The whole ninth Maṇḍala is nothing but praise of Soma. When many gods are invited, they are called to come to this sacrifice for drinking Soma. There are many sacrifices connected with Soma, of which the Agniṣṭoma is the chief. In this sacrifice, with the recitation of mantras such as stotras and śastras, Soma is extracted according to rule at the three savanas (morning, noon and evening), prepared, and drunk by the sacrificer and the priests. In the other Soma sacrifices too, with some differences, the same order is followed.
+
+Now we must examine what Soma is. Soma is a particular kind of creeper. This Soma plant is not found anywhere in India now. It grows especially on plains, on river banks and on mountains; the higher it grows the more juice it gives; it grows even at a height of about ७००० (*7000*) feet. Therefore there are descriptions in the Ṛgveda in many places of Soma being brought from the mountains (ऋ सं १-९३-६; ३-४८-२ ; ५-४३-४ इत्यादि (*ṛ saṃ 1-93-6; 3-48-2 ; 5-43-4 ityādi*) — as supplied, the reference list). The mountain called मौजवत (*maujavata*) (Mūjavat, as the print spells it later on p. 208 and *Maujavata* here) is famous for the Soma plant.
+
+### Printed p. 207
+
+*Running head: [Aṣṭaka 2 Adhyāya 5. Varga 7] Ṛgveda-saṃhitā 207 (as supplied).*
+
+(ऋ. सं १०-३४-१; वा. सं. ३-६१; नि. ९-८ इत्यादि (*ṛ. saṃ 10-34-1; vā. saṃ. 3-61; ni. 9-8 ityādi*)). It is said in the Ṛgveda here and there (ऋ. सं. ८-७-२९, ८-६४-११, ९-६५-२२ इत्यादि (*ṛ. saṃ. 8-7-29, 8-64-11, 9-65-22 ityādi*)) that the Soma plant is found on the banks of the lake called शर्यणावत् (*śaryaṇāvat*) (Śaryaṇāvat). It is also said that Soma is found in the place called आर्जिक (*ārjika*) (Ārjīka) (ऋ. सं ८-७-२९, ८-६४-११ इत्यादि (*ṛ. saṃ 8-7-29, 8-64-11 ityādi*)), in the country called पस्त्या (*pastyā*) (Pastyā) (ऋ. सं. ९-६५-३ (*ṛ. saṃ. 9-65-3*)), in the place where the five tribes called *pañcajanas* live (ऋ. सं. ९-६५-२३, ९-९२-३ इत्यादि (*ṛ. saṃ. 9-65-23, 9-92-3 ityādi*)), and around the river called सुषोम (*suṣoma*) (ऋ. सं. ८-७-२९, ८-६४-११ इत्यादि (*ṛ. saṃ. 8-7-29, 8-64-11 ityādi*)). As to the last, सुषोम (*suṣoma*) means *su* + *soma* = a place where good Soma is found, so the region may have got this name. Therefore it is understood that in the time of the Ṛgveda the Soma plant grew abundantly on the plains and river banks of what is now the Punjab. As the plant growing on the plain did not give as much juice as that growing on the mountain, they used the plant of the plain after soaking it well in water (ऋ. सं. ९-६३-४, ९-७४-९, ९-७९-४ इत्यादि (*ṛ. saṃ. 9-63-4, 9-74-9, 9-79-4 ityādi*)).
+
+The stem of this plant grows to a height of about ४ (*4*) feet. Its stem is round, soft, of a reddish colour mixed with white, and about as thick as a finger. The leaves are very few, whitish and small; generally the leaves fall off. At the top of the plant there is a cluster with some seeds (like millet). Its juice is whitish mixed with green; it is slightly sweet to the taste but turns sour if kept for some days. Where it grows near a big tree it climbs round the tree like a creeper. There are knots here and there. It can be broken easily.
+
+We shall briefly describe here the procedure to be followed in preparing the Soma juice. The Soma plant that grew on river banks and on the mountains was brought with great effort, or bought from those who brought it, and used in sacrifices. Even now the rite called *somavikraya*ṇa (the purchase of Soma) is performed in sacrifices. After the Soma plant is brought, it is crushed with stones (ग्राव, अद्रि (*grāva, adri*)), pressed, strained through a cloth, and, as the occasion requires, curds, milk and flour are mixed in; it is offered to the gods and then the sacrificer and the priests drink it: this is the custom. Preparing the Soma juice in this way is done at morning, noon and evening on the chief day of the sacrifice. This is called *abhiṣavaṇa* or *savana* (pressing out the juice). The rite of the morning is called *prātaḥsavana*, the *savana* at noon *mādhyandinasavana*, and the *savana* in the evening *tṛtīyasavana*.
+
+The Soma plant (of the creepers) is *babhru*, *aruṇa* (dusky red), or of a red colour mixed with yellow. It is said that the plant growing very high on the mountains is the best and that more
+
+### Printed p. 208
+
+*Running head: [208 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 187] (as supplied).*
+
+juice can be taken from it; therefore, where possible, the Soma plant was brought from the mountains. Among such mountains the one called मूजवत (*mūjavata*) was famous. The shoot of this Soma plant is called अंस (*aṃsa*) (ऋ. सं १-१६८-३ ; ३-४८-२ इत्यादि (*ṛ. saṃ 1-168-3 ; 3-48-2 ityādi*)); the shoot with sprouts is called वक्षणा (*vakṣaṇā*) (ऋ. सं. ८-१-१७ (*ṛ. saṃ. 8-1-17*)) and वाण (*vāṇa*) (ऋ. सं. ४-२८-९ ; ९-५०-१ (*ṛ. saṃ. 4-28-9 ; 9-50-1*)); the Soma juice is called अंधः (*aṃdhaḥ*) (ऋ. सं. १-२८-७ ; ३-४८-१ ; ४-१६-१ (*ṛ. saṃ. 1-28-7 ; 3-48-1 ; 4-16-1*)); and the stalk (creeper) of the Soma plant is called पर्वन् (*parvan*) (ऋ सं १-९-१ (*ṛ saṃ 1-9-1*)).
+
+The method of preparing the Soma juice: the leaves on the Soma plant or creeper are removed, the stalk is put into a mortar and crushed with a stone. If the plant is not fresh it is soaked for a day or two in water, and when it has become soft the juice is taken. The mortar in which the Soma plant is crushed is called उलूखल (*ulūkhala*) (*ulūkhala*). It is generally made of stone, but sometimes of wood. The pounding stone put on top in the mortar has the names ग्रावा (*grāvā*) (ऋ. सं. १-८३-६ ; १-१३५-७ (*ṛ. saṃ. 1-83-6 ; 1-135-7*)) and अद्रि (*adri*) (ऋ. सं. १-१३०-२ ; १-१३५-५ ; १-१३७-१ (*ṛ. saṃ. 1-130-2 ; 1-135-5 ; 1-137-1*)). The *ulūkhala* may be supposed not to have been like the mortar we use now but only a small hollow in the middle of a stone. The mortar called *ulūkhala* was also used for pounding grain with a pestle (मुसल (*musala*)).
+
+The vessel in which Soma is placed to be offered to the gods is called चमू (*camū*) (*camū*). The vessels the priests use for drinking Soma are called कलश (*kalaśa*) and चमस (*camasa*). In some places the word *camū* is also used to denote the उलूखल ग्रावा (*ulūkhala grāvā*) (the mortar and the pounding stone, mortar and pestle (*mortar and pestle*)) (ऋ सं. १-२८-९ ; ४-१८-३ (*ṛ saṃ. 1-28-9 ; 4-18-3*); ६-५ २ (*6-5 2*), as printed).
+
+When the Soma plants are crushed it is the custom to place them on skins; the skin is called त्वक् (*tvak*); a cow's skin was used for this (ऋ. सं. (*ṛ. saṃ.*) १०-९४-९ ; १०-११६-४ (*10-94-9 ; 10-116-4*), the opening bracket is missing in the print). The vessels in which Soma is stored have the names कोश (*kośa*) (ऋ सं. ७-१०१-४ ; ८-२०-८ (*ṛ saṃ. 7-101-4 ; 8-20-8*)), सदस्य (*sadasya*) (ऋ. सं. ३-६२-१५ ; ९-१-२ ; ९-१७-८ (*ṛ. saṃ. 3-62-15 ; 9-1-2 ; 9-17-8*)), द्रु (*dru*) (ऋ सं. ९-१-२ ; ९-६५-६ ; ९-९८-२ (*ṛ saṃ. 9-1-2 ; 9-65-6 ; 9-98-2*)), वन (*vana*) (ऋ. सं. २-१४-९ ; ९-६६-९ (*ṛ. saṃ. 2-14-9 ; 9-66-9*)), द्रोण (*droṇa*) (ऋ. सं. ९-१५-७ ; ९-३३-२ (*ṛ. saṃ. 9-15-7 ; 9-33-2*)) and others. स्रुव (*sruva*) means a ladle (ladle (*ladle*); ऋ सं. १-११६-२४ (*ṛ saṃ. 1-116-24*)). The cloth or sieve used for straining the Soma juice is called पवित्र (*pavitra*). In some cases the Soma was also strained through the gaps between the fingers.
+
+For using the Soma juice without any mixture of other substances, the words शुक्र (*śukra*) (ऋ सं. १-१३७-१ : ३-३२-२ ; ८-२-१० (*ṛ saṃ. 1-137-1 : 3-32-2 ; 8-2-10*)) and शुचि (*śuci*) (ऋ. सं. १-५-५ ; १-३०-२ ; ८-२-९ (*ṛ. saṃ. 1-5-5 ; 1-30-2 ; 8-2-9*)) are used.
+
 ---
 
-**Progress note:** Done through printed p. 205 (PDF 205). Done through printed p. 205 (Sukta 187 Rik 8 complete; Rik 9 Samhita, Pada, bhashya done; Rik 9 Pratipadartha next); [?] on jiva/piva in Rik 8 Special Topics; missing verse lines noted in Rik 8 Pada and Rik 9 Samhita
+**Progress note:** Done through printed p. 208 (PDF 208). Done through printed p. 208 (Sukta 187 Rik 9 Pratipadartha, Bhavartha, printed English done; Special Topics on Soma continue after sukra/suci on p. 208); [?] on pivah
