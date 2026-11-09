@@ -10373,6 +10373,99 @@ Those (who move with their) shoulders, those (who move with their) bodies, those
 
 सूचिका:—सूचीसदृशपुच्छरोमाणो वृश्चिकाद्याः (*sūcikā:—sūcīsadṛśapuccharomāṇo vṛścikādyāḥ*) (printed सूचिका: (*sūcikā:*) against the Saṃhitā सूचीकाः (*sūcīkāḥ*)): the meaning is poisonous creatures such as scorpions that have at the tail hooks sharp like the point of a needle (the supplied text ends here, at the end of the window).
 
+### Printed p. 350
+
+*Running head (as supplied): [350 सायणभाष्यसहिता [मं. १. ४. २४. सू. १९१] (*[350 sāyaṇabhāṣyasahitā [maṃ. 1. 4. 24. sū. 191]*), as printed, with a stray ೪ for the adhyāya sign.*
+
+*(Continuation of the Special Topics of Ṛk 7 of Sūkta 191, after the *sūcikā* entry.)*
+
+प्रकंकताः- प्रकृष्टविषाः प्रकृष्टगामिनो वा (*prakaṃkatāḥ- prakṛṣṭaviṣāḥ prakṛṣṭagāmino vā*): snakes of very sharp poison, or snakes that move very fast.
+
+Such great snakes of great poison and other poisonous creatures hide in grass and in bushes so as to be seen by no one. Addressing them, the sage has prayed: O serpents of various kinds, what do you do here? What business have you here? All of you together, leave our neighbourhood and depart.
+
+*[As supplied, the label line of the grammar page reads व्याकरणक्रिया (*vyākaraṇakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 7, noted briefly)
+
+The page explains: अंस्या: (*aṃsyā:*) (अंसे भवाः (*aṃse bhavāḥ*); the suffix *yat* by the rule भवेछंदसि (*bhavechaṃdasi*) (पा. सू. ४-४-११० (*pā. sū. 4-4-110*)); elision of the preceding *a* by the rule यस्येतिच (*yasyetica*); the acute on the first syllable by the rule यतोऽनावः (*yato 'nāvaḥ*) (पा. सू ६-१-२१३ (*pā. sū 6-1-213*)); the suffix accents arise likewise in अंग्याः (*aṃgyāḥ*)); जस्यत (*jasyata*) (root जसु मोक्षणे (*jasu mokṣaṇe*), of the *divādi* class; *loṭ*, second person plural, for which *ta* is substituted; the vikaraṇa *śyan* by the rule दिवादिभ्यः श्यन् (*divādibhyaḥ śyan*); because it follows a verb form, printed अतिजिंत (*atijiṃta*), the verbal *nighāta* accent arises).
+
+*[A stray line of the supplied text, :0: (*:0:*), is kept as an italic note in the Kannada text. As supplied, the label line of the Saṃhitā reads संधानादि (*saṃdhānādi*), and a line reading कायणभाष्यं (*kāyaṇabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard labels inserted. Three readings, one in the Saṃhitā and two in the Pada, are marked with a query, as they differ from the other lines.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> उत्पु॒रस्ता॒त्सूर्य॑ एति वि॒श्वदृ॑ष्टो अदृष्ट॒हा ।
+> अ॒दृष्टा॒न्सर्वा॑ ज्॒ञंभय॒न्सर्वा॑श्च [?] यातुधा॒न्यः॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> उत् । पुरस्तात् । सूर्यः । एति । विश्वदृष्टः । अदृष्टहा ।
+> आदृष्टान् [?] । सर्वान् । जंभयन् । सर्वाः । च । यात्रुधान्यः [?] ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> असौ सूर्यः पुरस्तात्पूर्वस्यां दिश्युदेति । कीदृशः सः । विश्वदृष्टः । विश्वे
+> द्रष्टव्या यस्य स तादृशः । अदृष्टहा । अदृष्टा विषविशेषा विषधरविशेषा वा । तेषां
+> हंता । यद्वा । अदृष्टमदर्शनमज्ञानमंधकारः । तस्य हंता । सूर्य उदिते सति
+> सर्वॆ विषधरा विषाणि वा पलायंते । किं कुर्वन्नुदेतीति चेत् उच्यते । सर्वान-
+> दृष्टानद्रष्टव्यान्विषराक्षसादीञ्जंभयन् हिंसयन् । तथा सर्वा यातुधान्यः ।
+
+> *asau sūryaḥ purastātpūrvasyāṃ diśyudeti | kīdṛśaḥ saḥ | viśvadṛṣṭaḥ | viśve*
+> *draṣṭavyā yasya sa tādṛśaḥ | adṛṣṭahā | adṛṣṭā viṣaviśeṣā viṣadharaviśeṣā vā | teṣāṃ*
+> *haṃtā | yadvā | adṛṣṭamadarśanamajñānamaṃdhakāraḥ | tasya haṃtā | sūrya udite sati*
+> *sarvè viṣadharā viṣāṇi vā palāyaṃte | kiṃ kurvannudetīti cet ucyate | sarvāna-*
+> *dṛṣṭānadraṣṭavyānviṣarākṣasādīñjaṃbhayan hiṃsayan | tathā sarvā yātudhānyaḥ |*
+
+### Printed p. 351
+
+*Running head (as supplied): [अ. २. अ. ५. व. १५.] ऋग्वेदसंहिता 351 (*[a. 2. a. 5. va. 15.] ṛgvedasaṃhitā 351*).*
+
+*(The bhāṣya block of Ṛk 8 is divided by the page boundary; its remainder follows.)*
+
+> यातवो यातनास्तीव्रवेदनाः । तासां धात्रीरुत्पादयित्रिर्महोरगीराक्षसीर्वा
+> जंभयन् पुरस्तादुदेति । अतोऽस्मत्तो नि जस्यतेति संबंधः ॥
+
+*Gist:* The sun rises in the east, seeing all, destroyer of the unseen poisonous creatures and the tormenting demonesses, driving away all.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विश्वदृष्टः—सकल लोकवन्नू नोडतक्कवनू (*viśvadṛṣṭaḥ—sakala lokavannū noḍatakkavanū*) (the one who sees the whole world). अदृष्टहा—कण्णिगॆ काणदिरुव विषध- रादिगळन्नु नाशमाडुववनू अथवा अंधकारवन्नु नाशमाडुववनू आद (*adṛṣṭahā—kaṇṇigè kāṇadiruva viṣadha- rādigaḷannu nāśamāḍuvavanū athavā aṃdhakāravannu nāśamāḍuvavanū āda*) (the destroyer of the unseen poison-bearers and the like, or the destroyer of darkness). सूर‍्यः—सूर‍्यनु (*sūryaḥ—sūryanu*) (the sun). सर्वान् अदृष्टान्—कण्णिगॆ काणद सकलवाद विषजंतुगळन्नू (*sarvān adṛṣṭān—kaṇṇigè kāṇada sakalavāda viṣajaṃtugaḷannū*) (all the unseen poisonous creatures). मत्तु सर्वाश्च यातुधान्यः— अवुगळ उत्पत्तिगॆ कारणवाद सकलवाद स्त्रीजंतुगळन्नू (अथवा असुरस्त्रीयरन्नू) (*mattu sarvāśca yātudhānyaḥ— avugaḷa utpattigè kāraṇavāda sakalavāda strījaṃtugaḷannū (athavā asurastrīyarannū)*) (and all the *yātudhānīs*, the female creatures that are the cause of their birth, or demon-women). जंभयन्— हिंसिसि नाशपडिसुत्ता (*jaṃbhayan— hiṃsisi nāśapaḍisuttā*) (destroying by harming). पुरस्तात्—पूर्वदिक्किनल्लि (*purastāt—pūrvadikkinalli*) (in the east). उदेति—उदयिसुत्तानॆ (*udeti—udayisuttānè*) (rises).
+
+**भावार्थ (Bhāvārtha)**
+
+The sun, who sees the whole world and destroys the unseen poison-bearers and the like, rises in the east, destroying by harming all the unseen poisonous creatures and all the female creatures that are the cause of their birth.
+
+**Printed English translation**
+
+The all-seeing sun rises in the east, the destroyer of the unseen, driving away all the unseen (venomous creatures), and all evil spirits.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 8)**
+
+In this ṛk the sage, telling that at the end of the night the darkness is removed and the sun rises, and that thereby the fear that may arise from poisonous creatures is removed, has expressed his joy.
+
+विश्वदृष्टः (*viśvadṛṣṭaḥ*): the sun who is seen by all. When the sun rises, everyone sees him. The sun is wanted by everyone; he gives joy to everyone. Since at night the harm from wicked beasts and poisonous creatures is especially great, all creatures and people welcome with great joy the sun rising after such a night has passed and dawn has come. Therefore the purport is that the word *viśvadṛṣṭaḥ* means the sun whom all look at with joy.
+
+अदृष्टहा—अदृष्टा विषविशेषा विषधरविशेषा ना । तेषां हंता । यद्वा । अदृष्टमदर्शनमज्ञानमंधकारः । तस्य हंता । सूर्य उदिते सति सर्वे विषधरा विषाणि वा पलायंते (*adṛṣṭahā—adṛṣṭā viṣaviśeṣā viṣadharaviśeṣā nā | teṣāṃ haṃtā | yadvā | adṛṣṭamadarśanamajñānamaṃdhakāraḥ | tasya haṃtā | sūrya udite sati sarve viṣadharā viṣāṇi vā palāyaṃte*) (the printed विषधरविशेषा ना (*viṣadharaviśeṣā nā*) against the bhāṣya's *vā*): here *adṛṣṭa* means unseen poison, or snakes with poison that hide so as not to be seen. Because he kills these, the sun is praised with the epithet *adṛṣṭahā*. Or *adṛṣṭa* means what is not seen, ignorance, darkness and the like.
+
+### Printed p. 352
+
+*Running head (as supplied): [352 सायणभाष्यसहिता [मं. १. अ. २४. सू. १९१] (*[352 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24. sū. 191]*).*
+
+Because he destroys these, the sun is also named *adṛṣṭahā*. For as soon as the sun rises, the poisonous serpents and the like run away; they have no special movement in the daytime when there is the light of the sun. Besides, modern scientists agree that the sun's rays (sunshine) have the power to remove poison. Therefore,
+
+अदृष्टान् सर्वान् जंभयन् (*adṛṣṭān sarvān jaṃbhayan*): it is described that the sun rises harming (driving away) with his light all the wicked creatures that hide so as not to be seen.
+
+यातुधान्यः— यातवो यातनास्तीव्रवेदनाः तासां धात्रीरुत्पादयित्रिर्म- होरगी राक्षसीर्वा (*yātudhānyaḥ— yātavo yātanāstīvravedanāḥ tāsāṃ dhātrīrutpādayitrirma- horagī rākṣasīrvā*): *yātu* means very intense pain, torment. Sāyaṇa's explanation is that they are the great serpents full of great poison, or the female rākṣasas, that cause such pain.
+
+*Yātudhānas* are a separate class within the rākṣasa group. Since they cause people many kinds of harm, there are many mantras in the Ṛgveda that pray to Agni (the rākṣasa-destroying Agni, or Agni) to avert their harm. In the ८७नॆय (*87nèya*) sūkta of the १०नॆय (*10nèya*) maṇḍala and in the ११८नॆय (*118nèya*) sūkta, Agni is prayed to protect from their harm. These *yātudhānas* eat the flesh of men and of horses and drink cow's milk (ऋ. सं. १०-८७-१६, १७ (*ṛ. saṃ. 10-87-16, 17*)). To satisfy their craving for blood and flesh these rākṣasas attack men. This attack is generally by entering into them. Prayer has been made to Agni to prevent them from entering the sacrificers (८-४८-२० (*8-48-20*)). These ghosts and spirits generally enter through our mouth when we eat or drink (अ. वे. ५-२९-६ रिंद ८ (*a. ve. 5-29-6 riṃda 8*)). They also enter by other doors (अ. वॆ. ८-६-३ (*a. vè. 8-6-3*)). As soon as they enter, they tear off and eat a man's flesh and cause disease (अ. वॆ. ५-२९-५, १० (*a. vè. 5-29-5, 10*)), cause madness and destroy eloquence (अ. वे. ६-१११-३, हि. गृ. सू १-१५-५ (*a. ve. 6-111-3, hi. gṛ. sū 1-15-5*)). They invade the dwelling houses of men (कौ. सू. १३५-९ (*kau. sū. 135-9*)). Their time of moving is night or evening (ऋ. सं ७-१०४-८ (*ṛ. saṃ 7-104-8*)). In the eastern direction their play does not go on; the sun rising there drives them away (तै सं. २-६-६-३ (*tai saṃ. 2-6-6-3*)). Many such descriptions of the *yātudhānas* are found here and there in the Ṛgveda and in the other Vedas.
+
+*[As supplied, the label line of the grammar page reads व्याकरणपक्रिया (*vyākaraṇapakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 8, noted briefly; the supplied text ends within it)
+
+पुरस्तात् (*purastāt*) (the word *pūrva*; by the rule दिक्‌शब्देभ्यः (*dikśabdebhyaḥ*) (पा. सू. ५-३-२७ (*pā. sū. 5-3-27*)); the form is of the plural ending; the verbal *nighāta* accent); अदृष्टहा (*adṛṣṭahā*) (root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*); by the rule बहुलं छंदसि (*bahulaṃ chaṃdasi*) (पा सू. ३-२-८८ (*pā sū. 3-2-88*)) the suffix *kvip* when *adṛṣṭa* is the upapada; in this all of it is elided).
+
 ---
 
-**Progress note:** Done through printed p. 349 (PDF 349). Sukta 191 Rik 6 complete (Special Topics, grammar); Rik 7 complete through the printed English and the first entries of the Special Topics
+**Progress note:** Done through printed p. 352 (PDF 352). Sukta 191 Rik 7 complete; Rik 8 complete through the Special Topics (yatudhanas); grammar page of Rik 8 begun; three readings marked with a query
