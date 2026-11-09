@@ -2558,6 +2558,96 @@ this ṛk, he explains अमृतस्य उदकस्य (*amṛtasya uda
 
 give the sense "radiant appearance". Here it means "those of beautiful form, charming to the eye, full of water, plants and so on".
 
+### Printed p. 86
+
+*Running head: [86 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū 185]. The window begins at the head of the grammar page of Ṛk 6, continuing the Special Topics of p. 85.*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+सद्मनी-षद्‌ल्य (*sadmanī-ṣadlya*) (root *sad*, with the senses of loosening, going and sinking): by अन्येभ्योपिदृश्यंते (पा. सू. ३-२-७३६) (*anyebhyopidṛśyaṃte (pā. sū. 3-2-736)*) (Pā. Sū. 3-2-736, as printed) the suffix *manin*; because it has the mark *n*, the first-syllable acute. बृहती (*bṛhatī*): by the vārttika बृहन्महतोरुपसंख्यानं (*bṛhanmahatorupasaṃkhyānaṃ*) the suffix *ṅīp* takes the acute. सुपां सुलुक् (*supāṃ suluk*): with a dual following, the single substitution by lengthening to the preceding class vowel. जनित्री (*janitrī*) (root जनी (*janī*), "to be born"): the suffix *tṛn* in the agent sense; the augment *iṭ*; by यन्नेभ्यो जतीप् (पा. सू. ४-१-४) (*yannebhyo jatīp (pā. sū. 4-1-4)*) (Pā. Sū. 4-1-4) the feminine suffix *ṅīp*; the *yaṇ* substitution; because the suffix has the mark *n*, the first-syllable acute. दधाते (*dadhāte*): because it stands at the beginning of the pāda there is no *nighāta*; the suffix accent, first-syllable acute. सुप्रतीके (*supratīke*) ("those of which the face is good"): by परादिच्छंदसि बहुलम् (पा. सू. ६-२-१९९) (*parādicchaṃdasi bahulam (pā. sū. 6-2-199)*) (Pā. Sū. 6-2-199) the first-syllable acute of the later member.
+
+*[The supplied text prints the stray word बॆंगळूरु (*bèṃgaḷūru*) before the Saṃhitā of Ṛk 7; the label of the Saṃhitā was missing in that place and the standard label has been inserted. The Saṃhitā and Pada lines were broken in the supplied text and have been joined.]*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> उ॒र्वि पृ॒थ्वी ब॑हु॒ले दू॒रेअं॑ते॒ उप॑ ब्रुवे॒ नम॑सा य॒ज्ञे अ॒स्मिन् ।
+> द॒धाते॒ ये सु॒भगे॑ सु॒प्रतू॑र्ति॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> > उर्वी इति । पृथ्वि इति । बहुले इति । दूरेअंते इति दूरेअंते । उप । ब्रुवे । > नमसा । यज्मे । अस्मिन् ।
+> > दधाते इति । ये इति । सुभगे इति सुभगे । सुप्रतूर्ति इति सुप्रतूर्ति । द्यावा । > रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ७ ॥
+
+> *urvī iti | pṛthvi iti | bahule iti | dūreaṃte iti dūreaṃte | upa | bruve | > namasā | yajme | asmin |*
+> *dadhāte iti | ye iti | subhage iti subhage | supratūrti iti supratūrti | dyāvā | > rakṣataṃ | pṛthivī iti | naḥ | abhvāt ‖ 7 ‖*
+
+### Printed p. 87
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 3] Ṛgveda-saṃhitā 87 (as supplied).*
+
+*[As supplied, the label line of the next section reads सहयभाष्यं (*sahayabhāṣyaṃ*) (inside the bhāṣya block); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उर्वी उर्वौ महत्यौ पृथ्वि पृथिव्य बहुले अनेकप्रकारेण प्रथमाने
+> बह्वाकारे दूरेअंते विप्रकृष्टांतदेशे । अपारे इत्यर्थः । ईदृश्यौ युवामस्मि-
+> न्यज्ञॆ नमसा नमस्साधनेन स्तोत्रेणोप ब्रुवे । उपेत्य ब्रवीमि । सौमात्यर्थः ।
+> पुनः कीदृश्यौ । ये सुभगे शोभनभाग्ये सुप्रतूर्ति सुप्रतरणे शोभनदाने
+> दधाते विश्वं जगत् ते युवामुप ब्रुवे सौमि ॥
+
+*Gist:* O Heaven and Earth, vast, many-formed, endless, fortunate and good givers, who support the whole world: at this sacrifice I approach and address you with praise.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उर्वी (*urvī*) — having a great form. पृथ्वि (*pṛthvi*) — very extensive. बहुले (*bahule*) — of many-formed shape. दूरेअंते (*dūreaṃte*) — endless (and) ये (*ye*) — who सुभगे (*subhage*) — being auspicious, सुप्रतूर्ति (*supratūrti*) — being good givers, दधाते (*dadhāte*) — hold (the whole world), such Heaven and Earth, अस्मिन् यज्ञे (*asmin yajñe*) — in this sacrifice. नमसा (*namasā*) — with praise accompanied by salutation. उपब्रुवे (*upabruve*) — I approach and pray. द्यावापृथिवी (*dyāvāpṛthivī*) — O Heaven and Earth. नः (*naḥ*) — us अभ्वात् (*abhvāt*) — from great fear. रक्षतं (*rakṣataṃ*) — protect.
+
+*[As supplied, the label line of the next section reads भानुवार (*bhānuvāra*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+I approach and pray, at this sacrifice, with praise accompanied by salutation, to Heaven and Earth, who have a great form, are very extensive, many-formed, endless, auspicious, good givers, and who hold the whole world. O Heaven and Earth, save us from terrible sin and protect us.
+
+*[As supplied, the label line of the printed English reads English Trnslation (*English Trnslation*); standard label inserted.]*
+
+**Printed English translation**
+
+I glorify with reverence, at this sacrifice, (the two), who are vast, expansive, multiform, infinite, auspicious; who support (all beings) by their bounty : defend us, Heaven and Earth, from great danger. (*I glorify with reverence, at this sacrifice, (the two), who are vast, expansive, multiform, infinite, auspicious; who support (all beings) by their bounty : defend us, Heaven and Earth, from great danger.*)
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+बहुले (*bahule*) — "having a form of many kinds, through the many kinds of sights such as mountains, rivers, forests, trees and houses". दूरे अंते (*dūre aṃte*) — *anta* means "end"; its end is very far away, that is, it extends to a very great distance and is immeasurable: this is the meaning. This word is used in the Ṛgveda only in this ṛk and in
+
+### Printed p. 88
+
+*Running head: [88 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū 185].*
+
+समान्या वियुते दूरे अंते ध्रुवे पदे तस्थतुर्जागरूके । (*samānyā viyute dūre aṃte dhruve pade tasthaturjāgarūke |*) उत स्वसारा युवती भवंती आदु बृवाते मिथुनानि नाम ॥ (*uta svasārā yuvatī bhavaṃtī ādu bṛvāte mithunāni nāma ‖*) (म. सं. ३-५४-७) (*(ma. saṃ. 3-54-7)*)
+
+nowhere else. There too it praises the qualities of Heaven and Earth.
+
+दधाते (*dadhāte*) — although this word means only "to hold", here it means "those who hold the whole world by nourishment and so on".
+
+सुप्रतूर्ति (*supratūrti*) — "those who give well", that is, those who provide the rain, plants, food and all the means of wealth that are most necessary for the living beings of the world.
+
+नमसा (*namasā*) — the word *namas* has several senses: salutation, food, praise; here the bhāṣyakāra has taken the sense "praise".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+उर्वी (*urvī*) (the word *uru* is a quality word ending in *a*): by वोतोगुणवचनात् (पा. सू. ४-१-८४) (*votoguṇavacanāt (pā. sū. 4-1-84)*) (Pā. Sū. 4-1-84) the feminine *ṅīp* with *yaṇ* substitution; by उदात्तयणोहल् पूर्वात् (पा. सू. ६-१-१७४) (*udāttayaṇohal pūrvāt (pā. sū. 6-1-174)*) (Pā. Sū. 6-1-174) the *ī* takes the acute; with a dual following, by सुपां सुलुक् (*supāṃ suluk*) lengthening to the preceding class vowel; in all the words ending in *i* here the lengthening to the preceding class vowel has come. ब्रुवे (*bruve*) (root ब्रूञ् व्यक्तायां वाचि. (*brūñ vyaktāyāṃ vāci.*), "in the sense of speaking clearly"): present tense, first person singular; the *nighāta* accent arises. सुभगे (*subhage*): by आद्युदात्तं द्वैच् छंदसि (पा. सू. ६-२-११९) (*ādyudāttaṃ dvaic chaṃdasi (pā. sū. 6-2-119)*) (Pā. Sū. 6-2-119) the first-syllable acute of the later member. सुप्रतूर्ति (*supratūrti*) ("those of which the gift is good"): by परादिश्चंदसि बहुलम् (पा. सू. ६-२-१९९) (*parādiścaṃdasi bahulam (pā. sū. 6-2-199)*) (Pā. Sū. 6-2-199) the first-syllable acute of the later member; as before, lengthening to the preceding class vowel in the dual. ‖ 7 ‖
+
+*[The stray line -2018 (*-2018*) follows in the supplied text; it is not part of the book's text.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> दे॒वान्वा॒ यच्च॑कृ॒मा कच्चि॒दागः॒ सखा॑यं वा॒ सद॒मिजा स्प॑तिं
+> वा॑ ।
+
+*[The Saṃhitā of Ṛk 8 begins at the end of p. 88; the block is incomplete and continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 85 (PDF 85). Rik 5 grammar end; Rik 6 (Samhita and Pada from figure, bhashya, Pratipadartha, Bhavartha, English); Special Topics begin (continues on next page)
+**Progress note:** Done through printed p. 88 (PDF 88). Done through printed p. 88 (Sukta 185 Rk 7 complete; Rk 8 Samhita begun, block incomplete at end of p. 88)
