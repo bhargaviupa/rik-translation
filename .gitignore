@@ -2,3 +2,9 @@ __pycache__/
 .DS_Store
 **/.DS_Store
 vol*/work/
+
+# scans are not committed (Nov 8 2026): keep README.md/.gitkeep only
+vol*/scans/*
+!vol*/scans/README.md
+!vol*/scans/.gitkeep
+*.DS_Store

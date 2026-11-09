@@ -1,0 +1,43 @@
+{
+ "vol": 15,
+ "range_line": "Maṇḍala 2 · Sūktas 24–43 and Maṇḍala 3 · Sūktas 1–6",
+ "adhyaya_line": "Seventh and Eighth Adhyāyas of the Second Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā · Kannada Sāhitya Pariṣat<br>Śrī Śāradā Press, Mysore, 1952",
+ "year": "1952",
+ "assets": "publish/assets/vol15",
+ "front": {
+  "cover": "cover",
+  "title": "title",
+  "portrait": "portrait",
+  "permission": "permission",
+  "board": "board",
+  "preface": [
+   "preface1",
+   "preface2"
+  ],
+  "abbreviations": "abbreviations"
+ },
+ "board_caption": "Veda-vimarśana-vidvan-maṇḍali: the Translator &amp; Editor, Asthāna Mahāvidvān H. P. Venkata Rao, and the ten assisting scholars of the board",
+ "english_md": "vol15/Rigveda_Samhita_Vol15_English_Translation.md",
+ "kannada_md": "vol15/Rigveda_Samhita_Vol15_Kannada_Text.md",
+ "supplied_md": "vol15/html/rig_15.md",
+ "contents": {
+  "fixes": "vol15/contents_fixes.json",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "ಋಗ್ವೇದಸಂಹಿತೆಯ ಹದಿನೈದನೆಯ ಭಾಗದ",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ },
+ "missing_headings": [
+  {
+   "find": "^\\*\\*Sūkta 39\\*\\*",
+   "heading": "## Sūkta 39 (Maṇḍala 2)"
+  },
+  {
+   "find": "^\\*\\[The heading lines of the supplied text, kept as a note: ಸೂಕ್ತ—೪೦",
+   "heading": "## Sūkta 40 (Maṇḍala 2)"
+  }
+ ],
+ "out": "vol15_full"
+}

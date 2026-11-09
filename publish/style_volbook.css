@@ -1,0 +1,35 @@
+/* Volume 15 additions (Lohit Devanagari draws the svarita as a vertical stroke above the syllable) */
+html { font-family: "Noto Serif", "Lohit Devanagari", "Noto Serif Devanagari", "Noto Serif Kannada", serif; font-size: 10pt; }
+@page front { size: 6.5in 9.5in; }
+blockquote { font-family: "Lohit Devanagari", "Noto Serif Devanagari", "Noto Serif", serif; }
+blockquote em { font-family: "Noto Serif", serif; font-size: 9pt; color: #444; }
+h1.book { display: none; }
+h2.part { page-break-before: right; text-align: center; font-size: 17pt; font-weight: 400; margin: 2in 0 .3in; }
+h3.pg { border: 0; margin: 1em 0 .3em; padding: 0; text-align: right; font-weight: 400; font-style: italic; font-size: 8pt; color: #777; letter-spacing: .05em; }
+h4 { font-size: 10.5pt; margin: 1.2em 0 .4em; letter-spacing: .03em; page-break-after: avoid; }
+p > em:only-child { font-size: 8.8pt; color: #555; }
+p { overflow-wrap: break-word; }
+.toc li.ch { padding-left: 1em; }
+.copyright { padding-top: 3in; }
+
+/* scanned front-matter pages */
+.scan { page: front; page-break-after: always; text-align: center; }
+.scan img { max-width: 100%; max-height: 6.2in; }
+.scan.small img { max-height: 2.6in; margin-top: 3in; }
+.scan h2.stitle { font-size: 12pt; font-weight: 400; letter-spacing: .14em; text-transform: uppercase; margin: 0 0 .25in; }
+.scan .cap2 { font-size: 9pt; color: #555; margin-top: .15in; }
+.cover { padding-top: 0 !important; } .cover img { height: 6.3in; max-width: 100%; width: auto; }
+/* printed contents, laid out like the original */
+.pcontents { page: roman; page-break-before: always; font-family: "Noto Serif Kannada", "Lohit Kannada", serif; font-size: 9.6pt; line-height: 1.55; text-align: left; }
+.pcontents p { margin: 0; }
+.pcontents .ph1, .pcontents .ph2, .pcontents .ph3 { text-align: center; font-weight: 700; }
+.pcontents .ph1 { font-size: 9pt; } .pcontents .ph2 { font-size: 14pt; margin-top: .1in; }
+.pcontents .ph3 { font-size: 14pt; letter-spacing: .4em; margin-bottom: .2in; }
+.pcontents .cce { text-align: center; font-weight: 700; margin: .35in 0 .1in; font-size: 11pt; }
+.pcontents .cma { text-align: center; font-weight: 700; margin: .2in 0 .08in; }
+.pcontents .csu { font-weight: 700; margin: .16in 0 .03in; page-break-after: avoid; }
+.pcontents .csu .no { display: inline-block; min-width: 1.5em; }
+.pcontents .cit { display: flex; margin-left: 1.5em; page-break-inside: avoid; }
+.pcontents .cit .tx { flex: 1 1 auto; padding-right: .5em; }
+.pcontents .cit .pn { flex: 0 0 2.2em; text-align: right; font-family: "Noto Serif", serif; }
+.pcontents .cit .pn a { color: inherit; text-decoration: none; }
