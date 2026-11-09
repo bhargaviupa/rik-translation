@@ -11468,6 +11468,100 @@ Up to here the six ṛks used for the churning of Agni (the six ṛks अभि�
 
 (The reference is printed मि. सं. ६-१६-४० (*mi. saṃ. 6-16-40*), as supplied.) the Hotṛ recites this as the seventh ṛk. The meaning of this ṛk is as follows. Newly (the supplied text ends here, in the middle of the sentence, at the end of the window).
 
+### Printed p. 388
+
+*Running head (as supplied): [388 सायणभाष्यसहिता [ मं. २. अ. १. सू १] (*[388 sāyaṇabhāṣyasahitā [ maṃ. 2. a. 1. sū 1]*).*
+
+*(Continuation of the Brāhmaṇa rules for churning Agni in the Special Topics of Ṛk 1, from mid-sentence at the end of the previous page.)*
+
+...As a newborn child is lifted in the hands, the priests lift in their hands the Agni born in the fire-stick. The main purport is that this Agni in the form of a child plays the chief part in the sacrifice made by the people and consumes the oblations and the like. The use of the word for "hand" in the first pāda means: the priests churn this Agni with their hands; therefore it is said that they lift him in their hands. In the second pāda the example of a newborn child is given for the Agni that has just been born. The word न (*na*) used here indicates the sense of assent, like ओं (*oṃ*). In ordinary language the word न (*na*) indicates only the sense of prohibition; but in the Vedas this word indicates the sense of prohibition, of comparison and of assent; here the sense of assent is meant. And the word देवानां (*devānāṃ*) may be understood as mantras that propound the deities, or, by the transposition of letters, as वेदानां (*vedānāṃ*), "of the Vedas". Now the eighth ṛk of the churning of Agni, that is,
+
+प्र देवं देववीतये भरता वसुवित्तमं । आ स्वे योन् नि षीदतु ॥ (*pra devaṃ devavītaye bharatā vasuvittamaṃ | ā sve yon ni ṣīdatu ‖*)
+(म. सं. ६-१६-४१) (*(ma. saṃ. 6-16-41)*)
+
+(The reference is printed म. सं. ६-१६-४१ (*ma. saṃ. 6-16-41*), as supplied.) the Hotṛ recites. "O priests, now place the Agni who has been born in his own place, the fire-pit called Āhavanīya; may he sit there in the place that is Agni's own": this ṛk with that meaning is suited to the rite of placing Agni in the Āhavanīya pit. Here, in accordance with the *praiṣa* mantra recited in every rite, the Hotṛ recites the mantra suited to that rite and of the right meaning. How: as soon as Agni is born, the Adhvaryu says to the Hotṛ the *praiṣa* mantra जातायानुब्रू ३ हि (*jātāyānubrū 3 hi*); in reply the Hotṛ recites the suited ṛk उत ब्रुवंतु जंतवः (*uta bruvaṃtu jaṃtavaḥ*). In the same way, when the Agni that has been born is placed in the pit called Āhavanīya, as soon as the Adhvaryu says the *praiṣa* mantra प्रह्रियमाणायानुब्रू३ हि (*prahriyamāṇāyānubrū3 hi*), the Hotṛ recites the ṛk प्र देवं देवनीतये (*pra devaṃ devanītaye*) (as printed), which is right for that occasion. It is to be understood that it goes thus in every rite. In the Taittirīya Saṃhitā of the Yajurveda, on this matter:
+
+आग्नये मध्यमानायानुब्रूहीत्याह सावित्रीमृचमन्वाह सॆवितृप्रसूत (*āgnaye madhyamānāyānubrūhītyāha sāvitrīmṛcamanvāha sèvitṛprasūta*)
+एवैनं मंथति जातायानुब्रूहि प्रह्रियमाणायानुब्रूहीत्याह (*evainaṃ maṃthati jātāyānubrūhi prahriyamāṇāyānubrūhītyāha*)
+कांडेकांड एवैनं क्रियामणे समर्थयति गायत्रिः सर्वा अन्वाह ॥ (*kāṃḍekāṃḍa evainaṃ kriyāmaṇe samarthayati gāyatriḥ sarvā anvāha ‖*)
+(तै. सं. ६-३-५-२, ३) (*(tai. saṃ. 6-3-5-2, 3)*)
+
+and so on. This very matter is explained here by the sentence यद्यज्ञेऽभिरूपं तत्समृद्धं (*yadyajñe 'bhirūpaṃ tatsamṛddhaṃ*); that is, the main purport is that in each rite the sacrifice should be performed by reciting the mantras appropriate to that rite. At the end, as soon as आ स्वे योन् निषीदतु (*ā sve yon niṣīdatu*) is said,
+
+### Printed p. 389
+
+*Running head (as supplied): [अ. २. अ. ५. व. १७ ] ऋग्वेदसंहिता 389 (*[a. 2. a. 5. va. 17 ] ṛgvedasaṃhitā 389*).*
+
+they establish Agni in the Āhavanīya pit. For the Āhavanīya place is said to be the place of the churned Agni (the Agni that has just been born).
+
+आजातं जातवेदसीति जात इतरो जातवेदा इतरः प्रियं शिशीतातिथिमित्येष (*ājātaṃ jātavedasīti jāta itaro jātavedā itaraḥ priyaṃ śiśītātithimityeṣa*)
+ह वा अस्य प्रियोऽतिथियदग्निरग्नेः स्योन आ गृहपतिमिति शांत्यामेवैनं (*ha vā asya priyo 'tithiyadagniragneḥ syona ā gṛhapatimiti śāṃtyāmevainaṃ*)
+तद्दधाति । अग्निनाग्निः समिध्यते कविर्गृहपतिर्युवा । हव्यवाड्डुह्वास्य इत्यभि- (*taddadhāti | agnināgniḥ samidhyate kavirgṛhapatiryuvā | havyavāḍḍuhvāsya ityabhi-*)
+रूपा यद्यज्ञेऽभिरूपं तत्समृद्धं । त्वं ह्यग्ने अग्निना विप्रो विप्रेण (*rūpā yadyajñe 'bhirūpaṃ tatsamṛddhaṃ | tvaṃ hyagne agninā vipro vipreṇa*)
+सन्स्कृतेति विप्र इतरो विप्र इतरः सन्नितरः सन्नितरः सखा सख्या समिध्यस (*sanskṛteti vipra itaro vipra itaraḥ sannitaraḥ sannitaraḥ sakhā sakhyā samidhyasa*)
+इत्येष ह वा अस्य स्वः सखा यदग्निरग्नेः ॥ (*ityeṣa ha vā asya svaḥ sakhā yadagniragneḥ ‖*)
+
+Now the Hotṛ recites the ninth ṛk,
+
+आ जातं जातवेदसि प्रियं शिशीतातिथिं । स्कोन आ गृहपतिं ॥ (*ā jātaṃ jātavedasi priyaṃ śiśītātithiṃ | skona ā gṛhapatiṃ ‖*)
+(म. सं. ६-१६-४२) (*(ma. saṃ. 6-16-42)*)
+
+(The reference is printed म. सं. ६-१६-४२ (*ma. saṃ. 6-16-42*), as supplied.) The main purport of this ṛk is as follows: in this ṛk two kinds of Agni are indicated. जातं (*jātaṃ*) means the Agni that has just been produced by churning; this is the first, and it is indicated by the word जातं (*jātaṃ*) because it has just been born. The second is the one already established in the Āhavanīya fire-pit; this is called जातवेदसं (*jātavedasaṃ*). Because he knows the nature of the Agni born by churning, the Āhavanīya fire is explained as जातवेदसं (*jātavedasaṃ*). Here, to the Agni called जातवेदस (*jātavedasa*) that was established beforehand in the place of the Āhavanīya fire, the newly churned Agni is like a beloved guest. Therefore the main purport is that this churned Agni, beloved and of the nature of a guest, is established in the Āhavanīya fire-pit for the attainment of a comfortable dwelling. Afterwards the Hotṛ
+
+अग्निनाग्निः समिध्यते कविर्गृहपतियुर्वा । हव्यवाड्जु ह्वास्यः ॥ (*agnināgniḥ samidhyate kavirgṛhapatiyurvā | havyavāḍju hvāsyaḥ ‖*)
+(ऋ सं १-१२-६) (*(ṛ saṃ 1-12-6)*)
+
+recites the tenth ṛk (the reference is printed ऋ सं १-१२-६ (*ṛ saṃ 1-12-6*), as supplied). Its meaning: the newly churned Agni joins the Agni established beforehand in the Āhavanīya pit and blazes well, shining. This churned Agni is the seer who knows all, the protector of the house or of the sacrificer, ever young, the carrier of oblations and the like to the gods, one who keeps the ladle called *juhū*, an instrument of the homa, in his mouth (that is, since ghee and the like are offered in the flame of Agni with the ladle called *juhū*, Agni is called जुह्वास्यः (*juhvāsyaḥ*)). In this way a mantra suited to the occasion is recited here. After this the Hotṛ
+
+### Printed p. 390
+
+*[Unmarked page break in the supplied text: the running head of printed p. 390 stands inside the text, in the middle of the sentence; it reads 390 सायणभाष्पसहिता [ मं. २. आ.१ . सू.१. (*390 sāyaṇabhāṣpasahitā [ maṃ. 2. ā.1 . sū.1.*), as printed.]*
+
+त्वं ह्यग्ने अग्निना विप्रो विप्रेण सन्त्सता । सखा सख्या समिध्यसे ॥ (*tvaṃ hyagne agninā vipro vipreṇa santsatā | sakhā sakhyā samidhyase ‖*)
+(ऋ. सं. ८-४३-१४) (*(ṛ. saṃ. 8-43-14)*)
+
+recites this ṛk (the reference is printed ऋ. सं. ८-४३-१४ (*ṛ. saṃ. 8-43-14*), as supplied). The purport: O new Agni, you who are wise, joining the wise Āhavanīya fire, be happy as a friend joins a friend and is happy.
+
+तं मर्जयंत सुक्रतुं पुरोयावानमाजिषु । स्वेषु क्षयेषु वाजिनमिति (*taṃ marjayaṃta sukratuṃ puroyāvānamājiṣu | sveṣu kṣayeṣu vājinamiti*)
+एष ह ना अस्य स्वः क्षयो यदग्निरग्नेः । यज्ञेन यज्ञमयजंत देवा (*eṣa ha nā asya svaḥ kṣayo yadagniragneḥ | yajñena yajñamayajaṃta devā*)
+इत्युत्तमया परिदधाति । यज्ञेन वै तद्देवा यज्ञमयजंत यदग्निनाग्नि- (*ityuttamayā paridadhāti | yajñena vai taddevā yajñamayajaṃta yadagnināgni-*)
+मयजंत ते स्वर्ग० लोकमायन् तानि धर्माणि प्रथमान्यासन् । ते ह (*mayajaṃta te svarga0 lokamāyan tāni dharmāṇi prathamānyāsan | te ha*)
+नाकं महिमानः सचंत यत्र पूर्वे साध्याः संति देवा इति छंदासि वै (*nākaṃ mahimānaḥ sacaṃta yatra pūrve sādhyāḥ saṃti devā iti chaṃdāsi vai*)
+साध्या देवास्तेऽग्रेऽग्निनाग्निमयजंत ते स्वर्ग० लोमायन् ॥ (*sādhyā devāste 'gre 'gnināgnimayajaṃta te svarga0 lomāyan ‖*)
+
+Then the Hotṛ recites the ṛk तं मर्जयंत सुक्रतुं (*taṃ marjayaṃta sukratuṃ*) (ऋ. सं. ८-८५-८ (*ṛ. saṃ. 8-85-8*)). Having said this and having established Agni in the Āhavanīya fire, his own dwelling place, he then completes the work of churning Agni by reciting the last ṛk of the churning of Agni, that is, the १३ नॆय (*13 nèya*) ṛk, यज्ञेन यज्ञमयजंत देवाः (*yajñena yajñamayajaṃta devāḥ*) (ऋ. सं. १०-९०-१६ (*ṛ. saṃ. 10-90-16*)). Here the placing of the churned Agni (the Agni carried forward) joined with the Āhavanīya fire is what is called अग्निनाग्निमय जंत (*agnināgnimaya jaṃta*). Or this very rite is what is stated in the last ṛk यज्ञेन यज्ञमयजंत देवाः (*yajñena yajñamayajaṃta devāḥ*). Here the word साध्याः (*sādhyāḥ*) means the deities who preside over the metres such as the Gāyatrī. These deities formerly worshipped the Āhavanīya fire with the churned Agni; by that they obtained the world of heaven.
+
+आदित्याश्चैवेहासन्नंगिरसश्च तेऽग्रेऽग्निनाग्निमयजंत ते स्वर्गं लोकमा- (*ādityāścaivehāsannaṃgirasaśca te 'gre 'gnināgnimayajaṃta te svargaṃ lokamā-*)
+यन् सैषा स्वर्गाहुतिर्यदग्न्याहुतिर्यदि ह ना अप्यब्राह्मणोक्तो (*yan saiṣā svargāhutiryadagnyāhutiryadi ha nā apyabrāhmaṇokto*)
+यदि दुरुक्तोक्तो यजतेऽथ हैषाहुतिर्गच्छत्येव देवान पाप्मना (*yadi duruktokto yajate 'tha haiṣāhutirgacchatyeva devāna pāpmanā*)
+संसृज्यते गच्छत्यस्याहुतिर्देवान्नास्याहुतिः पाप्मना संसृज्यते य एवं (*saṃsṛjyate gacchatyasyāhutirdevānnāsyāhutiḥ pāpmanā saṃsṛjyate ya evaṃ*)
+वेद ॥ (*veda ‖*)
+
+In the same way the Ādityas and the Aṅgirases, having performed the sacrifice as said before, went to the world of heaven. This offering to Agni is the direct road to the world of heaven. While such a sacrificial rite is in progress, even if the chief priest is not a Brāhmaṇa as the śāstra requires, or is a bad man, the offering to Agni made in the sacrifice alone takes the sacrificer to heaven. The faults and the like of the priest do not attach to the sacrificer who performs the sacrifice; that is, no harm comes to the sacrificer from them. He who knows this order of the offering to Agni, as explained above, joins the gods in heaven. For him there is no contact with sin of any kind.
+
+### Printed p. 391
+
+*Running head (as supplied): [अ: २ अ. ५ व. १७] ऋग्वेदसंहिता 391 (*[a: 2 a. 5 va. 17] ṛgvedasaṃhitā 391*).*
+
+Here it was said in the sentence above "even if he is not a Brāhmaṇa as the śāstra requires". That needs an explanation: even though some Brāhmaṇas have obtained by mere birth the right to officiate at sacrifices, they misuse their right and become guilty of fault; it is said in the Smṛtis that among these non-Brāhmaṇas there are six kinds. How:
+
+अब्राह्मणास्तु षट् प्रोक्ता इति शातातपोऽब्रवीत् ! (*abrāhmaṇāstu ṣaṭ proktā iti śātātapo 'bravīt !*)
+आद्यस्तु राजभृत्यः स्याद्द्वितीयः क्रयविक्रया । (*ādyastu rājabhṛtyaḥ syāddvitīyaḥ krayavikrayā |*)
+तृतीयो बहुयाज्याख्यश्च तुर्थोऽशौतयाजकः । (*tṛtīyo bahuyājyākhyaśca turtho 'śautayājakaḥ |*)
+पंचमो ग्रामयाजी च षष्ठो ब्रह्मबंधुः स्मृतः ॥ (*paṃcamo grāmayājī ca ṣaṣṭho brahmabaṃdhuḥ smṛtaḥ ‖*)
+
+On the question who the non-Brāhmaṇas are, the sage named शातातप (*śātātapa*) has spoken as follows. The first, राजभृत्य (*rājabhṛtya*), are those who depend on the king for their livelihood and serve him. The second are those who live by buying and selling and the like, who keep a shop and live by selling goods. The third are those who, although they have income sufficient for a livelihood, from the greed to earn more wealth make it their occupation to have sacrifices (or priestly work) performed for anyone at all; they are called बहुयाजि (*bahuyāji*). The fourth, अश्लौतयाजक (*aślautayājaka*), are those who, although accomplished in the study of the Veda for performing Śrauta acts, that is, sacrifices and the like, do not engage in the Śrauta rites nor have them performed for others, but engage only in the inferior Smārta rites. The fifth, ग्रामयाजक (*grāmayājaka*), are those who, in villages or cities, for greed of money have sacrifices performed for anyone, whether worthy or unworthy; they are called village-and-city priests (as printed, ग्रामनगरयाजक (*grāmanagarayājaka*)). The sixth, ब्रह्मबंधु (*brahmabaṃdhu*), are those who do not perform at the proper time the twilight rites and the like at sunrise and sunset; they are called *brahmabandhu*. The rite performed by these six kinds of priests is what is called above अब्राह्मणोक्त (*abrāhmaṇokta*) or दुरुक्कोक्त (*durukkokta*) (as printed).
+
+ता एतास्त्रयोदशान्वाह रूपसमृद्धा एतद्वै यज्ञस्य समृद्धं यद्रू- (*tā etāstrayodaśānvāha rūpasamṛddhā etadvai yajñasya samṛddhaṃ yadrū-*)
+पसमृद्धं यत्कर्म क्रियमाणमृगभिवदति । तासां त्रिःप्रथमामन्वाह (*pasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati | tāsāṃ triḥprathamāmanvāha*)
+त्रिरुत्तमां ताः सप्तदश संपद्यंते सप्तदशो वै प्रजापतिर्द्वादश मासाः (*triruttamāṃ tāḥ saptadaśa saṃpadyaṃte saptadaśo vai prajāpatirdvādaśa māsāḥ*)
+पंचर्तवस्तावान्संवत्सरः संवत्सरः प्रजापतिः प्रजापत्यायतनाभिरेवाभी (*paṃcartavastāvānsaṃvatsaraḥ saṃvatsaraḥ prajāpatiḥ prajāpatyāyatanābhirevābhī*)
+राध्योति य एवं वेद त्रिः प्रथमां त्रिरुत्तमामन्वाह यज्ञस्यैव तद्बर्सौ (*rādhyoti ya evaṃ veda triḥ prathamāṃ triruttamāmanvāha yajñasyaiva tadbarsau*)
+नह्यति स्थेन्ने बलायाविस्रंसाय ॥ (*nahyati sthenne balāyāvisraṃsāya ‖*)
+(इ ब्रा, ३-५) (*(i brā, 3-5)*)
+
+(The reference is printed इ ब्रा, ३-५ (*i brā, 3-5*), as supplied.) Thus the ṛks used in the work of churning Agni are thirteen in all. The nine ṛks addressed to the deity that slays the rākṣasas (the *rākṣoghna* sūkta) are not included in these. By reciting these thirteen ṛks at their proper times (the supplied text ends here, in the middle of the sentence, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 387 (PDF 387). Mandala 2 Sukta 1 Rik 1 Special Topics: Nirukta explanation of ashushukshani, the births of Agni, and the Brahmana rules for churning Agni (rakshoghna sukta) through the seventh ripple verse; unmarked pages 384 and 385 handled
+**Progress note:** Done through printed p. 391 (PDF 391). Mandala 2 Sukta 1 Rik 1 Special Topics: Brahmana rules for the churning of Agni continued (eighth to thirteenth rik), the six kinds of unqualified priests; unmarked p. 390 handled
