@@ -577,6 +577,133 @@ Words treated: त्वाष्ट्रम् (*tvāṣṭram*) (aṇ ending 
 
 Grammar page continued, noted briefly: स्तभूयमानम् (*stabhūyamānam*) (*stabhu* = supporting; kyac ending by सुप आत्मनः क्यच् (*supa ātmanaḥ kyac*), Pā. Sū. 3-1-8; lengthening of the preceding *u* by अकृत् सार्वधातुकयोर्दीर्घः (*akṛt sārvadhātukayordīrghaḥ*), Pā. Sū. 7-4-25; śānac after the kyac-ending by व्यत्ययो बहुलम् (*vyatyayo bahulam*), Pā. Sū. 3-1-85; mugāgama by आनेमुक् (*ānemuk*), Pā. Sū. 7-2-82; the śānac becoming unaccented by तास्यनुदात्तेत्— (*tāsyanudāttet—*), Pā. Sū. 6-1-186, the root accent of the kyac-ending stem remains; accusative singular), वहतः (*vahataḥ*) (root *vah* in the sense of conveying; śatṛ for laṭ; luk of śap by बहुलंछंदसि (*bahulaṃchaṃdasi*); initial accent of the ending; nominative plural), वहंति (*vahaṃti*) (laṭ third plural of the same root; all-unaccented after an accented finite form), अंगेभिः (*aṃgebhiḥ*) (the substitution of *ais* for *bhis* in the instrumental plural does not occur, being optional by बहुलं छंदसि (*bahulaṃ chaṃdasi*); बहुवचनेझल्येत् (*bahuvacanejhalyet*) gives *e*), दिद्युतानः (*didyutānaḥ*) (root *dyut* "to shine"; Vedic liṭ; kānac substitution by लिटः कानज्वा (*liṭaḥ kānajvā*); reduplication; हलादिः शेषः (*halādiḥ śeṣaḥ*); samprasāraṇa by द्युतिस्वापोः संप्रसारणम् (*dyutisvāpoḥ saṃprasāraṇam*), Pā. Sū. 7-4-67; pūrvarūpa by संप्रसुरणाच्च (*saṃprasuraṇācca*) [sic, as supplied]; the ending being *cit*, final accent by चितः (*citaḥ*), Pā. Sū. 6-1-163), एकामिव (*ekāmiva*) (compound with *iva*: the case ending is not elided and the first member keeps its accent, so the initial syllable is accented), विवेश (*viveśa*) (root *viś* "to enter"; liṭ third singular; nighāta accent after an accented finite form), सधस्थे (*sadhasthe*) (root *sthā*; ka ending by सुपिस्थः (*supisthaḥ*), Pā. Sū. 3-2-4; elision of the root's *ā*; *sadha* substituted for *saha* in the compound by सधमादस्थयोश्छंदसि (*sadhamādasthayośchaṃdasi*) [as supplied]).
 
+### Printed p. 21
+
+*[Running head, p. 21: Maṃ. 3. A. 1. Va. 1. Ṛgvedasaṃhitā 21 (as supplied; other pages read Maṃ. 1)]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> जा॒नंति॒ वृष्णो॑ अरु॒षस्य॒ शेव॑मु॒त ब्र॒धन्स्य॒ शास॑ने रणंति ।
+> दि॒वो॒रुच॑ सु॒रुचो॒ रोच॑माना॒ इळा॒ येषां॒ गण्या॒ माहि॑ना॒
+> गीः ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> जानंति । वृष्णः । अरुषस्य । शेवं । उत । ब्रधन्स्य । शासने । रणंति ।
+> दिवरुचः । सुरुचः । रोचमानाः । इळा । येषां । गण्या । माहिना । गीः ॥५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist (mine): people know the comfort of Agni, the showerer, free of enemies; they delight under his command; those whose praise of him is honoured become radiant light-givers of heaven.* The bhāṣya (Sanskrit, not rendered) continues with its grammatical tail on जानंति (*jānaṃti*), अरुषस्य (*aruṣasya*), शेवं (*śevaṃ*), शासने (*śāsane*), दिवोरुचः (*divoruchaḥ*), सुरुचः (*suruchaḥ*), इळा (*iḷā*), गण्या (*gaṇyā*), माहिना (*māhinā*) and गीः (*gīḥ*), not explained; it also cites a mantra (ma 1-60-2, as printed).
+
+> वृष्णः कामानां वर्षितुररुषस्य रुषा हिंसकाः । तद्रहितस्य । शत्रुराहित्येन
+> रोचमानस्येत्यर्थः ' तथाविधस्याग्नेः शेवमाश्रयविषयं सुखं जना जानंति । उत
+> अपि च जानंतस्ते ब्रध्नस्य महतोऽग्नेः शासन आज्ञायां सर्वे जना रणंति ।
+> रमंते । तथा च मंत्रः । म १-६०-२ । अस्य शासुरुभयासः सचंते हविष्मंत
+> उशिजो ये च मर्ता इति अपि च । एषां मनुष्याणामग्नि विषया माहिना मह-
+> तीळा गीः स्तुतिरूपा वाक् गण्या गणनीया पूज्या ते दिवोरुचो द्युलोकस्य
+> रोचकाः सुरुचः शोभनदीप्य यो रोचमाना देदीप्यमाना भवंति ॥ जानंति ।
+> ज्ञा अवशोधने । क्रादित्वात्तस्य ज्ञा जनोर्जॆति जावेशः । प्रत्ययस्वरः । अरुषस्य ।
+> रुष रिष हिंसार्थाः । रोषंतीति रुषा हिंसकाः : इगुपधज्ञॆति कः । न संति रुषा
+> यस्यासावरुषः । नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं । शेवं । शीज् स्वप्ने ।
+> इण्शीज्ञ्यां वन्निति वन् , नित्सर्वः । शासने शासु अनुशिष्टौ । आस्माद्भावे ल्युट् ।
+> लिटीति प्रत्ययात्पूर्वस्कोदात्तत्वं रणंति , निघातः । दिवोरुचः । रुच दीप्तौ ।
+> अस्मात्किप् । तत्पुरुषे कृति बहुलमिति षष्ठ्या अलुक् । कृदुत्तरपदप्रकृतिस्वरत्वं ।
+> सुरुचः। बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं । इळा। ईळ स्तुत् । प्रस्व-
+> श्मांदसः । यथा वाक्यब्दष्टाबंतस्तद्वत् । पित्त्वादनुदात्तत्वे धातुस्वरः । गण्या । गण
+> संख्याने । स्वार्थे ण्यंतादचो यत् । यतोऽनाव इत्याद्युदात्तत्वं । माहिना ।
+> महेरिनण् चेति इनण् । णित्त्वादुपधावृद्धिः । व्यत्ययेनाद्युदात्तः । गीः। गृ शब्दे ।
+> आस्मात्किप् । यूत इद्दातोरितीश्वं । र्वोरुपधाया इति दीर्घः । प्रातिपदिक-
+> स्वरः ॥
+
+> *vṛṣṇaḥ kāmānāṃ varṣituraruṣasya ruṣā hiṃsakāḥ | tadrahitasya | śatrurāhityena*
+> *rocamānasyetyarthaḥ ' tathāvidhasyāgneḥ śevamāśrayaviṣayaṃ sukhaṃ janā jānaṃti | uta*
+> *api ca jānaṃtaste bradhnasya mahato 'gneḥ śāsana ājñāyāṃ sarve janā raṇaṃti |*
+> *ramaṃte | tathā ca maṃtraḥ | ma 1-60-2 | asya śāsurubhayāsaḥ sacaṃte haviṣmaṃta*
+> *uśijo ye ca martā iti api ca | eṣāṃ manuṣyāṇāmagni viṣayā māhinā maha-*
+> *tīḷā gīḥ stutirūpā vāk gaṇyā gaṇanīyā pūjyā te divoruco dyulokasya*
+> *rocakāḥ surucaḥ śobhanadīpya yo rocamānā dedīpyamānā bhavaṃti ‖ jānaṃti |*
+> *jñā avaśodhane | krāditvāttasya jñā janorjèti jāveśaḥ | pratyayasvaraḥ | aruṣasya |*
+> *ruṣa riṣa hiṃsārthāḥ | roṣaṃtīti ruṣā hiṃsakāḥ : igupadhajñèti kaḥ | na saṃti ruṣā*
+> *yasyāsāvaruṣaḥ | nañsubhyāmityuttarapadāṃtodāttatvaṃ | śevaṃ | śīj svapne |*
+> *iṇśījñyāṃ vanniti van , nitsarvaḥ | śāsane śāsu anuśiṣṭau | āsmādbhāve lyuṭ |*
+> *liṭīti pratyayātpūrvaskodāttatvaṃ raṇaṃti , nighātaḥ | divorucaḥ | ruca dīptau |*
+> *asmātkip | tatpuruṣe kṛti bahulamiti ṣaṣṭhyā aluk | kṛduttarapadaprakṛtisvaratvaṃ |*
+> *surucaḥ| bahuvrīhau nañsubhyāmityuttarapadāṃtodāttatvaṃ | iḷā| īḷa stut | prasva-*
+> *śmāṃdasaḥ | yathā vākyabdaṣṭābaṃtastadvat | pittvādanudāttatve dhātusvaraḥ | gaṇyā | gaṇa*
+> *saṃkhyāne | svārthe ṇyaṃtādaco yat | yato 'nāva ityādyudāttatvaṃ | māhinā |*
+> *maherinaṇ ceti inaṇ | ṇittvādupadhāvṛddhiḥ | vyatyayenādyudāttaḥ | gīḥ| gṛ śabde |*
+> *āsmātkip | yūta iddātoritīśvaṃ | rvorupadhāyā iti dīrghaḥ | prātipadika-*
+> *svaraḥ ‖*
+
+### Printed p. 22
+
+*[Running head, p. 22: 22 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.] (as supplied; other pages read Maṃ. 1)]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vṛṣṇaḥ — of the one who showers desires; aruṣasya — of the one without enemies (and therefore shining), Agni; śevam — the comfort that has him as refuge; jānanti — (people) come to know; uta — and (those people who know that comfort); bradhnasya — of Agni, of great majesty; śāsane — under the rule; raṇanti — rejoice (and); yeṣām — whichever men; māhinā — greatness-possessing; iḷā gīḥ — (Agni's) speech in the form of praise; gaṇyā — worthy of honour; te — they; divorucaḥ — (dear to heaven) those who bring heaven into light; surucaḥ — of fine brilliance; rocamānāḥ — shining brightly (become).
+
+**भावार्थ (Bhāvārtha)**
+
+People come to know the comfort that arises from taking refuge in Agni, who grants what is wished for and has no enemies; coming under the rule of that Agni of great majesty, they live happily. Those who regard as worthy of honour the praise relating to Agni, full of great majesty, become exceedingly radiant and guides toward the attainment of heaven.
+
+**Printed English**
+
+Men comprehend the service of the uninjurable showerer (of benefits) and exult in the commands of the mighty (AGNI) : their frequent and earnest hymns of praise, bright and radiant, are illuminating heaven.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अरुषस्य (*aruṣasya*) — रोषंतीति रुषा हिंसकाः (*roṣaṃtīti ruṣā hiṃsakāḥ*) : the word *ruṣāḥ*, formed from the root *ruṣ*, which conveys "to injure", is explained as "those who injure"; since there are no such injuring enemies, Agni shines. The word *aruṣam* is read among the names of form (Ni. 3-13). Sāyaṇa has explained the meaning as "one free of those who injure".
+
+शेवं (*śevaṃ*) — आश्रयविषयं सुखं (*āśrayaviṣayaṃ sukhaṃ*): the word *śeva* is read among the names of happiness (Ni. 3-13). Nirukta (10-17) says: शेव इति सुखनाम शिष्यतेर्वकारो नामकरणो अंतस्थांतरोपलिंगी विभाषितगुणः शिवमित्यप्यस्य भवति (*śeva iti sukhanāma śiṣyatervakāro nāmakaraṇo aṃtasthāṃtaropaliṃgī vibhāṣitaguṇaḥ śivamityapyasya bhavati*) (the text is given as supplied and is not rendered). The word is formed from the root *śiṣ*: in place of the *ṣ* of *śiṣ* a *v* comes, guṇa follows, and the form is *śeva*. The meaning is that those who take refuge in Agni know the comfort arising from that refuge.
+
+ब्रध्नस्य शासने रणंति (*bradhnasya śāsane raṇaṃti*) — महतो अग्नेः आज्ञायां सर्वॆ जनाः रमंते (*mahato agneḥ ājñāyāṃ sarvè janāḥ ramaṃte*). The word *bradhna* is read among the names of the horse (Ni. 2-27); it is also read among the names of the great (Ni. 3-13)
+
+### Printed p. 23
+
+*[Running head, p. 23: A. 3. A. 1. Va. 1. Ṛgvedasaṃhitā 23 (as supplied; "Ā." for "Maṃ.")]*
+
+(the passage continues from p. 22) Sāyaṇa explains the meaning thus: all people who follow the command of Agni, filled with a greatness fit to be honoured by all, live happily; and he describes this matter as also established by the Ṛk
+
+अस्य शासुरुभयासस्सचंते हविष्मंत उशिजो ये च मर्ताः (*asya śāsurubhayāsassacaṃte haviṣmaṃta uśijo ye ca martāḥ*) (Ṛ. Saṃ. 1-60-2).
+
+येषां माहिना इळा गीः (*yeṣāṃ māhinā iḷā gīḥ*) — येषां मनुष्याणां अग्नि विषया महती स्तूतिरूपा वाक्, ते गण्याः (*yeṣāṃ manuṣyāṇāṃ agni viṣayā mahatī stūtirūpā vāk, te gaṇyāḥ*): those who recite the praise that is full of the greatness (found in Agni) are honoured, make the heaven-world shine and have abundant brilliance; thus the glory of Agni is revealed. The word *iḷā* is read among the names of the earth (Ni. 2-5), of speech (Ni. 2-23) and of food (Ni. 3-9).
+
+अभि न इळा यूथस्य मातास्मन्नदीभिरुर्वशी ना गृणातु (*abhi na iḷā yūthasya mātāsmannadībhirurvaśī nā gṛṇātu*) (Mi. Saṃ. 5-41-19, as printed): here *iḷā* (or *iḍā*) is explained as a deity of the middle region. Sāyaṇa has explained it as speech in the form of praise.
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+Words treated: जानंति (*jānaṃti*) (root *jñā* "to know", kryādi, laṭ third plural; śnā by Pā. Sū. 3-1-81; substitution of *jā* for the root by Pā. Sū. 7-3-79; loss of the ā of the vikaraṇa by Pā. Sū. 6-4-112; being at the start of a pāda, no nighāta accent, the suffix accent remains), अरुषस्य (*aruṣasya*) (root *ruṣ/riṣ* "to injure"; ka suffix by Pā. Sū. 3-1-135; negative compound, final accent of the latter member by *nañsubhyām*, Pā. Sū. 6-2-172; genitive singular), शेवं (*śevaṃ*) (root *śīṅ*, "to sleep"; van suffix, Uṇ. Sū. 1-150; guṇa; initial accent; accusative singular), शासने (*śāsane*) (root *śās* "to instruct", adādi; lyuṭ in the sense of the action; *ana* by Pā. Sū. 7-1-1; accent before the suffix by Pā. Sū. 6-1-193).
+
+### Printed p. 24
+
+*[Running head, p. 24: 24 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7.] (the supplied text reads "सायुज…" for "Sāyaṇa", left as supplied; the page is merged into p. 23 in the supplied text)]*
+
+Grammar page continued, noted briefly: रणंति (*raṇaṃti*) (root *raṇ*; laṭ third plural; nighāta accent after the finite verb ahead), दिवोरुचः (*divoruchaḥ*) (root *ruc* "to shine"; kvip; no luk of the genitive in *divaḥ* by Pā. Sū. 6-2-172 as printed; accent of the latter member), सुरुचः (*suruchaḥ*) (bahuvrīhi: "those whose lights are fine"; accent by *nañsubhyām*, Pā. Sū. 6-2-172), रोचमानाः (*rocamānāḥ*) (śānac for laṭ; mugāgama; the root accent remains since the sārvadhātuka is unaccented), इळा (*iḷā*) (root *īḍ* "to praise"; ap suffix; ṭāp; the long ī shortened by Vedic usage, as *vācā* is formed from *vāc*), गण्या (*gaṇyā*) (root *gaṇ* "to count"; yat suffix; initial accent by Pā. Sū. 6-1-213; ṭāp in the feminine), माहिना (*māhinā*) (root *mah* "to honour"; inaṇ, Uṇ. Sū. 2-214; vṛddhi of the penultimate; ṭāp; initial accent by vyatyaya), गीः (*gīḥ*) (root *gṛ* "to sound", kryādi; kvip; *i* for *ṛ*, Pā. Sū. 7-1-100; lengthening of the penultimate; accent of the nominal stem).
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> उ॒तो पि॒तभ्यां॑ प्र॒विदानु॒ घोषं॑ म॒हो म॒हद्भा॑मनयंत॒
+> शूषं ।
+> उ॒क्षा ह॒ यत्र॒ परि॒ धान॑म॒क्तोरनु॒ स्वं धाम॑ जरि॒तुर्व॒वक्ष॑ ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> उतो इति । पितृभ्यां । प्रविदा । अनु । घोषं । महः । महत्स्भ्यां । अनयंत।
+> शूषं ।
+> उक्षा । ह । यत्र । पं । धानं । अक्तोः । अनु । स्वं । धाम । जरितु: । ववक्ष ॥ ६ ॥
+
+> *uto iti | pitṛbhyāṃ | pravidā | anu | ghoṣaṃ | mahaḥ | mahatsbhyāṃ | anayaṃta|*
+> *śūṣaṃ |*
+> *ukṣā | ha | yatra | paṃ | dhānaṃ | aktoḥ | anu | svaṃ | dhāma | jaritu: | vavakṣa ‖ 6 ‖*
+
+*(Note: the supplied text reads उतो पितभ्यां (*uto pitabhyāṃ*) in the Saṃhitā where the Pada has पितृभ्यां (*pitṛbhyāṃ*), and the Pada has a second misreading in the word-division of "mahadbhyām"; left as supplied. The bhāṣya and the rest of Ṛk 6 follow on printed p. 25.)*
+
 ---
 
-**Progress note:** Done through printed p. 20 (PDF 20). Sukta 7 Rk 4 Pratipadartha-Special Topics, grammar pp. 19-20 (Sukta 7 Rk 4 complete; Rk 5 follows)
+**Progress note:** Done through printed p. 24 (PDF 24). Sukta 7 Rk 5 complete (pp. 21-23, p. 24 split off); Rk 6 Samhita and Pada given, bhashya follows on p. 25
