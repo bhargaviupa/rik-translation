@@ -4828,6 +4828,98 @@ There are many stories to show that they help people in distress. These have bee
 
 [the window ends here with the verse and its reference].
 
+### Printed p. 170
+
+*Running head: [170 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186]. The window continues the *aśvinau* note of the Special Topics of Ṛk 10 of Sūkta 186 from p. 169, after the verse "ಜುಜುರುಷೋ ನಾಸತ್ಯೋತ…".*
+
+The ṛṣi Cyavana became very old, his body decrepit and without strength, and his people abandoned him. When this ṛṣi prayed to the Aśvin deities they came, removed his decrepit body, made him young and dear to his wife, and increased his life. The same matter is stated in:
+
+युवं च्यवानमश्विना जरंतं पुनर्युवानं चक्रथुः शचीभिः । (*yuvaṃ cyavānamaśvinā jaraṃtaṃ punaryuvānaṃ cakrathuḥ śacībhiḥ |*)
+(ऋ. सं. १-११७-८३) [?] (*(ṛ. saṃ. 1-117-83) [?]*)
+निष्पौग्र्यं पारयथः समुद्रात् पुनश्चवानं चक्रथुर्युवानं । (*niṣpaugryaṃ pārayathaḥ samudrāt punaścavānaṃ cakrathuryuvānaṃ |*)
+ऋ. सं. १-११८-६) (*ṛ. saṃ. 1-118-6)*)
+प्र च्यवानाज्जु जुरुषो वत्रिमत्कं न मुंचथः । (*pra cyavānājju juruṣo vatrimatkaṃ na muṃcathaḥ |*)
+युवा यदी कृथः पुनरा काममृण्वे वध्वः ॥ (*yuvā yadī kṛthaḥ punarā kāmamṛṇve vadhvaḥ ‖*)
+(ऋ सं. ५-७४-५) (*(ṛ saṃ. 5-74-5)*)
+उत त्यद्वां जुरते अश्विना भूच्च्यवानाय प्रतीत्यं हविर्दे । (*uta tyadvāṃ jurate aśvinā bhūccyavānāya pratītyaṃ havirde |*)
+(ऋ. सं. ७-६८-६) (*(ṛ. saṃ. 7-68-6)*)
+युवं च्यवानं जरसोऽमुमुक्तं नि पेदव ऊहथुराशुमश्वं । (*yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhathurāśumaśvaṃ |*)
+(ऋ. सं. ७-७१-५) (*(ṛ. saṃ. 7-71-5)*)
+युवं च्यवानं सनयं यथा रथं पुनर्युवानं चरथाय तक्षथुः । (*yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punaryuvānaṃ carathāya takṣathuḥ |*)
+(ऋ. सं. १०-३९-४) (*(ṛ. saṃ. 10-39-4)*)
+
+(the reference of the second verse is printed with a missing opening parenthesis). In these ṛks too there is the description of the aged ṛṣi Cyavana being made young. There is a long history on this subject in the Śatapatha Brāhmaṇa too. Likewise:
+
+युवं विप्रस्य जरणा मुपेयुषः पुनः कलेरकृणुतं युवद्वयः । (*yuvaṃ viprasya jaraṇā mupeyuṣaḥ punaḥ kalerakṛṇutaṃ yuvadvayaḥ |*)
+(ऋ. सं. १०-३९-२) (*(ṛ. saṃ. 10-39-2)*)
+
+in this ṛk there is the mention of removing the old age of one Kali and making him young.
+
+याभिर्वम्रं विपिपानमुपस्तुतं कलिं याभिर्वित्तजानिं दुवस्यथः । (*yābhirvamraṃ vipipānamupastutaṃ kaliṃ yābhirvittajāniṃ duvasyathaḥ |*)
+(ऋ. सं. १-११२-१५) (*(ṛ. saṃ. 1-112-15)*)
+
+in this ṛk, which names the same Kali, it is said that when he took a wife and married, they gave him their help and did many services.
+
+They granted for the young women, wives of Vimada, a chariot ((१-११२-१९) (*(1-112-19)*)), or one wife to him ((१-११७-१) (*(1-117-1)*)). It seems she was the wife of Puramitra ((ऋ. सं. १-११३-२० ; १०-३९-७) (*(ṛ. saṃ. 1-113-20 ; 10-39-7)*)), and her name was Kamadhyu ((१०-६५-१२) (*(10-65-12)*))
+
+*[Page break of the print, p. 170/171: the supplied text prints the page-171 header as "ಅ.. ೨. ಆ. ೫. ವ ೫] ಋಗ್ವೇದಸಂಹಿತಾ 17]" in the middle of the text, with no page marker.]*
+
+### Printed p. 171
+
+...they brought back to Viśvaka, the son of Kṛṣṇa, his lost son and gave him over ((ऋ सं. १-११६-२३; १-११७-७ ; १०-६५-१२) (*(ṛ saṃ. 1-116-23; 1-117-7 ; 10-65-12)*)). In the ṛks ऋ. सं. ८-७५-१ रिंद ३ (*ṛ. saṃ. 8-75-1 riṃda 3*) the names Viśvaka and Viṣṇāpu are indicated.
+
+The story of Bhujyu is told again and again. Bhujyu is the son of a king named Tugra. While he was making a sea voyage and was sinking, Bhujyu held a piece of wood and floated amid the waves. Then he took refuge in the Aśvin deities. In a ship with a hundred oars on the great ocean whose depth could not be known, the Aśvin deities seated him and took him home. In a ship without leaks that seemed to fly through the sky, or in four boats with wings, or in three flying chariots with a hundred feet and six horses, or in their chariot swift as thought, with the help of their horses that fly swiftly, they brought Bhujyu seated and delivered him to his house. ((१-११६-३, ४-५ , १-११७-१४, १५ ; (*(1-116-3, 4-5 , 1-117-14, 15 ;*) १-१८२-५, ६, ७ ; ७-६८-७ ; १-११२-६, २० ; १.-११८-६ ; १-११९-४ ; १-१५८-३ ; ६-६२-६ ; (*1-182-5, 6, 7 ; 7-68-7 ; 1-112-6, 20 ; 1.-118-6 ; 1-119-4 ; 1-158-3 ; 6-62-6 ;*) ७-६९-७ ; ८-५-२२ ; १०-३९-४ ; १०-४७-७ ; १०-६५-१२ ; १०-१४३-५ ) (*7-69-7 ; 8-5-22 ; 10-39-4 ; 10-47-7 ; 10-65-12 ; 10-143-5 )*))
+
+When a woman named Viśpalā had her leg cut off in battle and prayed to the Aśvin deities, they came and provided her with an iron leg and saved her; this is said in the ṛks ऋ. सं. १-११२-१० ; १.१.६- (*ṛ. saṃ. 1-112-10 ; 1.1.6-*) १५ ; १-११७-११ ; १-११८-८ ; १०-३९-८ (*15 ; 1-117-11 ; 1-118-8 ; 10-39-8*) [as printed; the second reference has stray full stops].
+
+(When the ass, the vehicle of the Aśvin deities, was in the form of a wolf) one Ṛjrāśva cut a hundred sheep from the flock he was tending and gave them as food to the wolf. His father, angered by this, had Ṛjrāśva's eyes pulled out and made him blind. Then the wolf praised the Aśvin deities; they were pleased and gave Ṛjrāśva eyes ((ऋ. सं. १-११६-१६; १-११७-१७, १८) (*(ṛ. saṃ. 1-116-16; 1-117-17, 18)*)). In the ṛk ऋ. सं. १-१००-१७ (*ṛ. saṃ. 1-100-17*) there is mention of Ṛjrāśva praising Indra.
+
+One Pārāvṛja was blind and lame, and was an outcaste. The Aśvin deities gave him the sight of the eyes and the power of walking, that is, they granted eyes and legs ((ऋ सं १-११२-८) (*(ṛ saṃ 1-112-8)*)); the name of Pārāvṛja is mentioned, when Indra is the subject, in the ṛks ऋ. सं. २-१३-१२ ; २-१५-७ (*ṛ. saṃ. 2-13-12 ; 2-15-7*).
+
+The ṛṣi Rebha was bound hand and foot by wicked people and thrown into a well; for nine days and ten nights he lay there on the point of death. The Aśvin deities lifted him out of the well as one lifts soma-juice with a ladle and gave him life ((ऋ. सं. (*(ṛ. saṃ.*) १-११२-५; १-११६-२४; १-११७-२; १-११७-४; १-११८-६; १-११९-६; १०-३९-९) (*1-112-5; 1-116-24; 1-117-2; 1-117-4; 1-118-6; 1-119-6; 10-39-9)*)).
+
+### Printed p. 172
+
+*Running head: [172 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 86] (the print has "೮೬" for "೧೮೬", as supplied).*
+
+One Vandana, likewise carried off by wicked people and thrown into a pit in a dark place, was rescued by the Aśvin deities from the danger and brought into the light ((ऋ. सं १-११२-५; १-११६-११; १-११७-५; १-११८-६; १०-३९-८' १-११९-६, ७) (*(ṛ. saṃ 1-112-5; 1-116-11; 1-117-5; 1-118-6; 10-39-8 ' 1-119-6, 7)*)).
+
+To Kakṣīvat of the Pajra family they gave boons at will and made hundreds of jars of *surā* (liquor) or honey pour from a horse's hoof as through a sieve ((ऋ. सं. १-११६-७ ; १-११७-६) (*(ṛ. saṃ. 1-116-7 ; 1-117-6)*)).
+
+When the ṛṣi Atri, thrown into a great pit darkened by hatred and envy and blazing with fire, was in distress and prayed to the Aśvin deities, they came, quenched the fire with frost, comforted him with food and the like, and rescued him from that state ((१-११२-७; १-११६-८; १-११७-३; १-११८-७; १-११९-६; ५-७८-४ रिंद ६) (*(1-112-7; 1-116-8; 1-117-3; 1-118-7; 1-119-6; 5-78-4 riṃda 6)*) ७-७१-५ ; ८-६२-३ , ७ रिंद ९ ; १०-३९-९) (*7-71-5 ; 8-62-3 , 7 riṃda 9 ; 10-39-9)*)). In the ṛk ऋ. सं. १०-८०-३ (*ṛ. saṃ. 10-80-3*) it is indicated that Agni protected Atri.
+
+Vadhrimatī, being childless and barren, prayed to the Aśvin deities, and they granted her a son named Hiraṇyahasta ((ऋ. सं. १-११६-१३ ; १-११७-२४ ; ६-६२-७ ; (*(ṛ. saṃ. 1-116-13 ; 1-117-24 ; 6-62-7 ;*) १०.३९-७) (*10.39-7)*)).
+
+Ghoṣā, who remained unmarried in her father's house, was granted at her prayer a suitable husband by the Aśvin deities ((ऋ. सं १-११७-७; १०-३९-३, ६; १०-४-५) (*(ṛ. saṃ 1-117-7; 10-39-3, 6; 10-4-5)*)). In the bhāṣya on the ṛk ऋ. सं. १-११७-७ (*ṛ. saṃ. 1-117-7*) Sāyaṇa says that this woman Ghoṣā was suffering from leprosy and that the Aśvin deities cured that disease. In the tenth Maṇḍala (१०-३९ (*10-39*)) there is a sūkta seen by this Ghoṣā.
+
+When the cow of Śayu was old and bore no calf, they gave her the power of giving milk ((ऋ. सं. १-११६-२२; १-११७-२०; १-११८-८; १-११९-६; १०-३९-१३) (*(ṛ. saṃ. 1-116-22; 1-117-20; 1-118-8; 1-119-6; 10-39-13)*)).
+
+To the king Pedu the Aśvin deities gave a white horse, as strong as Indra, and with it he conquered his enemies and obtained much wealth, vehicles and the like ((ऋ. सं. १-११६-६ ; १-११७-९ ; १-११८-९ ; १-११९-१० ; ७-२१-५ ; १०-३९-१०) (*(ṛ. saṃ. 1-116-6 ; 1-117-9 ; 1-118-9 ; 1-119-10 ; 7-21-5 ; 10-39-10)*)).
+
+Besides, as said in the sūktas 112 (printed "೧ ೨"), 116, 117, 118 and 119 of the first Maṇḍala, the Aśvin deities have helped many men, and have also been of service to animals, birds and so on. In this context it is said that when a wolf was carrying off a sparrow they freed it from the wolf's mouth at the sparrow's prayer, as in the ṛks ऋ.सं. (*ṛ.saṃ.*)
+
+### Printed p. 173
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5 ] Ṛgveda-saṃhitā 173 (as supplied).*
+
+१-११६-१४ ; १-११७-१६ ; १-११८-८ ; १० ३९-१३ (*1-116-14 ; 1-117-16 ; 1-118-8 ; 10 39-13*). Besides these matters there are many more connected with the Aśvin deities; they will be explained in their several contexts.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+कृणुद्धम् (*kṛṇuddham*) (root कृवि हिंसाकरणयोश्च (*kṛvi hiṃsākaraṇayośca*)): imperative, second person plural; the verb-*nighāta* accent. स्वतवसः (*svatavasaḥ*) ("those whose own strength"): by बहुव्रीहौ प्रकृत्या (*bahuvrīhau prakṛtyā*) the accent of the earlier member. संति (*saṃti*) (root अस भुवि (*asa bhuvi*)): present, third person plural; by हिच (पा. सू. (*hica (pā. sū.*) ८-१-३४) (*8-1-34)*) the prohibition of *nighāta* applies, so the first-syllable acute of the suffix remains. अद्वेषः (*adveṣaḥ*): by नञ्सुभ्याम् (पा. सू. ६-२-१७२) (*nañsubhyām (pā. sū. 6-2-172)*) the last syllable of the later member is acute. वातः (*vātaḥ*) (root वा गतिगंधनयोः (*vā gatigaṃdhanayoḥ*)): by हसिमृग्रिण्व—(उ. सू. ३-३६६) (*hasimṛgriṇva—(u. sū. 3-366)*) the suffix *tan*; because it is marked *n* the first syllable is acute. अच्छॆ (*acchè*): by निपातस्य चॆ (उ. सू. ६-३-१२६) (*nipātasya cè (u. sū. 6-3-126)*) [as printed, "ಉ. ಸೂ."] lengthening in the Saṃhitā. ववृतीय (*vavṛtīya*) (root वृतु वर्तनॆ? (*vṛtu vartanè?*)): optative, first person singular, with the suffix *iṭ*; by इटोत् (पा सू. ३-४-१०६) (*iṭot (pā sū. 3-4-106)*) *at* for it; by लिजिः सीयुट् (पा. सू. ३-४-१०२ (*lijiḥ sīyuṭ (pā. sū. 3-4-102*) the augment *sīyuṭ*; by *bahulaṃ chandasi* the *ślu*; doubling of the root because of *ślu*; by लिजिः सलोपो—(पा. सू. ७-२-७९) (*lijiḥ salopo—(pā. sū. 7-2-79)*) the loss of *s*; the verb-*nighāta* accent.
+
+#### Ṛk 11
+
+*[As supplied, the label line of the next section reads कंठ काव्यं (*kaṃṭha kāvyaṃ*); standard label inserted. The Saṃhitā lines were joined.]*
+
+**॥ संहितापाठः ॥**
+
+> इ॒यं सा वो॑ अ॒स्मे दीधि॑तिर्यजत्रा अपि॒प्राणी॑ च॒ सद॑नी च भूयाः ।
+> नि या दे॒वेषु॒ यत॑ते वसू॒युर्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ ११ ॥
+
+> *iyaṃ sā vo asme dīdhitiryajatrā apiprāṇī ca sadanī ca bhūyāḥ |*
+> *ni yā deveṣu yatate vasūyurvidyāmeṣaṃ vṛjanaṃ jīradānuṃ ‖ 11 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 169 (PDF 169). Done through printed p. 169 (Sukta 186 Rk 10 Special Topics: Vishnu's three steps, Ashvins; ends at the verse jujurusho nasatyota)
+**Progress note:** Done through printed p. 173 (PDF 173). Done through printed p. 173 (Sukta 186 Rk 10 complete; Rk 11 Samhita begun, Pada and bhashya follow)
