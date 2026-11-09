@@ -3539,6 +3539,107 @@ in this ṛk to the three, Mitra, Varuṇa and Aryaman. According to the sūkta 
 
 in this ṛk the well-kindled Agni is described as Mitra, who is the Hotṛ and the Adhvaryu in the sacrifice, and Varuṇa, and the Agni called Jātavedas, and the friend (benefactor) of rivers and mountains: so the qualities of Mitra are described.
 
+### Printed p. 123
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 123 (as supplied, "ವ. .೪"). The window continues the Special Topics of Ṛk 2 of Sūkta 186 (Mitra and Varuṇa) from p. 122; no new ṛk begins in this window.*
+
+वरुणः (*varuṇaḥ*) — Yāska's derivation: वरुणो वृणोतीति सतः [?] (*varuṇo vṛṇotīti sataḥ [?]*) ((नि. १०-२) (*(ni. 10-2)*)): because he is covered by masses of cloud this deity is called Varuṇa.
+
+Varuṇa is a most eminent deity, equal to Indra in power and the like. The number of mantras addressed to Varuṇa is very small. There are twelve sūktas in the Ṛgveda addressed to Varuṇa, but there are twenty-four sūktas that praise Mitra and Varuṇa together.
+
+Varuṇa has a human body and human actions; but rather than his physical body and actions the description of his moral actions and deeds is more prominent. He has a face, eyes, arms, hands and feet; he drives a chariot. This is stated plainly in the ṛks
+
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ |*)
+(ऋ. सं. १-११५-१) (*(ṛ. saṃ. 1-115-1)*)
+उदु त्यच्यक्षुर्महि मित्रयोरा एति प्रियं वरुणयोरदब्धं । (*udu tyacyakṣurmahi mitrayorā eti priyaṃ varuṇayoradabdhaṃ |*)
+(ऋ. सं. ६-५१-१) (*(ṛ. saṃ. 6-51-1)*)
+उद्वां चक्षुर्वरुण सुप्रतीकं देवयोरेति सूर्यस्ततन्वान् । (*udvāṃ cakṣurvaruṇa supratīkaṃ devayoreti sūryastatanvān |*)
+(ऋ सं. ७-६१-१) (*(ṛ saṃ. 7-61-1)*)
+चक्षुर्मित्रस्य वरुणस्य देवश्चर्मेव यः समविव्यक् तमांसि । (*cakṣurmitrasya varuṇasya devaścarmeva yaḥ samavivyak tamāṃsi |*)
+(ऋ. सं. ७-६३-१) (*(ṛ. saṃ. 7-63-1)*)
+नमो मित्रस्य वरुणस्य चक्षसे महो देवाय तदृतं सपर्यत । (*namo mitrasya varuṇasya cakṣase maho devāya tadṛtaṃ saparyata |*)
+(ऋ. सं. १०-३७-१) (*(ṛ. saṃ. 10-37-1)*)
+
+That the Sun is, as it were, his eye is found in the very first ṛk of the sūktas addressed to Mitra and Varuṇa, so it seems that this is the aspect that first comes into view whenever Mitra and Varuṇa are mentioned. And in the ṛk ७-६६-१० (*7-66-10*) it is said that Aryaman, Mitra and Varuṇa have the Sun as eye. That Varuṇa is far-seeing (चक्षसं (*cakṣasaṃ*)) is said in the ṛks १-२५-५ (*1-25-5*), १-२५-१६ (*1-25-16*) and others.
+
+आ नो बर्हि रिशादसो वरुणो मित्रो अर्यमा। सीदंतु मनुषो यथा॥ (*ā no barhi riśādaso varuṇo mitro aryamā| sīdaṃtu manuṣo yathā‖*)
+(ऋ. सं. १-२६-४) (*(ṛ. saṃ. 1-26-4)*)
+प्रतेन स्थो ध्रुवक्षेमा धर्मणा यातॆयज्जना । नि बर्हिषि सदतं सोम- (*pratena stho dhruvakṣemā dharmaṇā yātèyajjanā | ni barhiṣi sadataṃ soma-*)
+पीतये ॥ (*pītaye ‖*)
+(म. सं. ५-२-२) (*(ma. saṃ. 5-2-2)*)
+
+### Printed p. 124
+
+*[Page break of the print; the supplied text prints the header as "124 ಸಾಯಿಣಭಾವ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೪. ಸೂ. ೧೮೬" in the middle of the text, with no page marker.]*
+
+In these and similar ṛks Mitra, Varuṇa and Aryaman are prayed to come and sit on the sacred grass spread on the sacrificial altar for the drinking of Soma.
+
+यदी सखाया सख्याय सोमैः सुतेभिः सुप्रयसा मादय्यते । (*yadī sakhāyā sakhyāya somaiḥ sutebhiḥ suprayasā mādayyate |*)
+(म. सं. ४-४१-३) (*(ma. saṃ. 4-41-3)*)
+
+in these and similar ṛks it is said that Varuṇa drinks Soma along with Indra and other gods.
+
+बिभ्रद्दापिं हिरण्ययं वरुणो वस्त निर्णिजं । परि स्पशो नि षेदिरे । (*bibhraddāpiṃ hiraṇyayaṃ varuṇo vasta nirṇijaṃ | pari spaśo ni ṣedire |*)
+(म सं- १-२५-१३) (*(ma saṃ- 1-25-13)*)
+
+in this ṛk there is the description that Varuṇa wears a golden mantle or robe and a shining garment. Varuṇa's chariot is golden, bright like the Sun, and has whips that urge the horses. Mitra and Varuṇa mount their chariot in a very high region of the sky ((ऋ सं ५-६३-१) (*(ṛ saṃ 5-63-1)*)); there are such descriptions. The dwelling of Mitra and Varuṇa is golden and is in the upper world. And Varuṇa, sitting in his palace:
+
+नि षसाद धृतव्रतो वरुणः पस्ता३ [?] स्वा । साम्राज्याय सुकृतुः । (*ni ṣasāda dhṛtavrato varuṇaḥ pastā3 [?] svā | sāmrājyāya sukṛtuḥ |*)
+अतो विश्वान्यद्भुता चिकित्त्वा अभि पश्यति । कृतानि या च कर्त्वा ॥ (*ato viśvānyadbhutā cikittvā abhi paśyati | kṛtāni yā ca kartvā ‖*)
+(ऋ. सं. १-२५-१०, ११) (*(ṛ. saṃ. 1-25-10, 11)*)
+
+sees all that goes on in the world. The dwelling of Mitra and Varuṇa is very large, very high, firm, resting on a thousand pillars; and their house has a thousand doors (ऋ. सं. ७-८८-५ (*ṛ. saṃ. 7-88-5*)). The all-seeing Sun leaves his own dwelling and goes to the house of Mitra and Varuṇa to report the doings of men, and enters their beloved house; there are such descriptions too.
+
+Varuṇa, alone or with Mitra, is, like other deities, called king in many places:
+
+अबुध्ने राजा वरुणो वनस्योर्ध्वं स्तूपं ददते पूतदक्षः । (*abudhne rājā varuṇo vanasyordhvaṃ stūpaṃ dadate pūtadakṣaḥ |*)
+(ऋ. सं. १-२४-७) (*(ṛ. saṃ. 1-24-7)*)
+त्वं विश्वेषां वरुणासि राजा ये च देवा असुर ये च मर्ताः । (*tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ |*)
+(ऋ. सं. २-२७-१०) (*(ṛ. saṃ. 2-27-10)*)
+तेन विश्वस्य भुवनस्य राजा यवं न वृष्टिर्व्युनत्ति भूम । (*tena viśvasya bhuvanasya rājā yavaṃ na vṛṣṭirvyunatti bhūma |*)
+(ऋ सं. ५-८५-३) (*(ṛ saṃ. 5-85-3)*)
+
+### Printed p. 125
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4.] Ṛgveda-saṃhitā 125 (as supplied).*
+
+in these and similar ṛks it is said that Varuṇa is king not only of men but of the gods and of all the worlds. Besides Varuṇa, deities such as Indra, Yama and Soma also have the honorific name "king".
+
+There are many stories connected with Indra, but with Varuṇa it is quite the opposite; there is not a single story. Varuṇa is much praised as the ordainer of physical and moral laws (वरुणस्य व्रतानि (*varuṇasya vratāni*)). The divine power of Mitra and Varuṇa is described by the word माया (*māyā*). When applied to the gods it means the hidden power they have to do good; when applied to demons the same word means the hidden power they have to do evil. In the good sense this word suits Mitra and Varuṇa; in the bad sense it applies to demons. As with the word असुर (*asura*), the word *māyā* is used in both senses. By this hidden *māyā* power in himself Varuṇa, standing in the atmosphere, measures the earth by the Sun as with a measuring rod. He makes the Sun cross the atmosphere and makes him dim with rain clouds. Then sweet (honey-mixed) drops fall ((ऋ. सं. ५-६३-४) (*(ṛ. saṃ. 5-63-4)*)). He makes the sky pour rain. Therefore this word *māyā* is applied chiefly to Varuṇa among the gods in the ṛks ६-४८-१४ (*6-48-14*); ७-२८-४ (*7-28-4*); १०-९९-१० (*10-99-10*); १०-१४७-५ (*10-147-5*) and others.
+
+Varuṇa is the one who lays down the laws of nature; it is he who established earth and heaven. And
+
+आसीदद्विश्वा भुवनानि संराड्विश्वेत्तानि वरुणस्य व्रतानि । (*āsīdadviśvā bhuvanāni saṃrāḍviśvettāni varuṇasya vratāni |*)
+(मि, सं. ८-४२-१) (*(mi, saṃ. 8-42-1)*)
+
+in this ṛk it is said that Varuṇa dwells in all the worlds and that his laws are observed everywhere;
+
+तिस्रो द्यावो निहिता अंतरस्मिन् तिस्रो भूमीरुःपराः षड्विधानाः । (*tisro dyāvo nihitā aṃtarasmin tisro bhūmīruḥparāḥ ṣaḍvidhānāḥ |*)
+(ऋ. सं. ७-८७-५) (*(ṛ. saṃ. 7-87-5)*)
+
+in this it is said that the three upper worlds and the three lower worlds (the nether worlds) are in his power. Varuṇa and Mitra rule the whole universe ((ऋ. सं. ५-६३-७) (*(ṛ. saṃ. 5-63-7)*)); they are the protectors of the whole world ((ऋ. सं. २-२७-४) (*(ṛ. saṃ. 2-27-4)*)); Varuṇa is the support of heaven, earth and sky ((ऋ. सं. ५-६९-१, ४) (*(ṛ. saṃ. 5-69-1, 4)*)). He has placed fire in the water, the Sun in the sky, Soma on the stone. He has made a wide path for the Sun. Varuṇa, Mitra and
+
+### Printed p. 126
+
+*Running head: [126 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24: Sū. 186] (the colon is as supplied).*
+
+Aryaman clear a path for the Sun ((ऋ सं ७-६०-४) (*(ṛ saṃ 7-60-4)*)). In many such ṛks the authority of Varuṇa is described.
+
+In the Taittirīya Saṃhitā ((तै सं. ६-४-८-३) (*(tai saṃ. 6-4-8-3)*)) मित्रोऽहरजनयद्वरुणो रात्रिं (*mitro 'harajanayadvaruṇo rātriṃ*) — that is, Mitra created the day and Varuṇa the night. Therefore मैत्रं वा अहः । (*maitraṃ vā ahaḥ |*) नारुणी [?] रात्रिः (*nāruṇī [?] rātriḥ*) [the print has "ನಾರುಣೀ" for "ವಾರುಣೀ"]: it is said in many places that Mitra is lord of the day and Varuṇa lord of the night ((तै सं. २-१-७-४) (*(tai saṃ. 2-1-7-4)*)). In one place it is said that Varuṇa divided the seasons.
+
+वेद मासो धृतव्रतो द्वादश प्रजावशः । वेदा य उपजायते । (*veda māso dhṛtavrato dvādaśa prajāvaśaḥ | vedā ya upajāyate |*)
+((म. सं. १-२५-८) (*(ma. saṃ. 1-25-8)*), as printed with the reference after the text)
+
+here it is said that Varuṇa knows the twelve months, and
+
+वि ये दधुः शरदं मासमादहर्यज्ञ मक्तुं चादृचं । (*vi ye dadhuḥ śaradaṃ māsamādaharyajña maktuṃ cādṛcaṃ |*)
+अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशत ॥ (*anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśata ‖*)
+(म. सं ७-६६-११) (*(ma. saṃ 7-66-11)*)
+
+in this ṛk it is said that Mitra, Varuṇa and Aryaman divided autumn, the month, the day and the night.
+
+It is said in many places that it is he too who regulates the waters. It is he who made the rivers flow; by his command they flow ceaselessly ((ऋ. सं. २-२८-४) (*(ṛ. saṃ. 2-28-4)*)). That the rivers, though they rush into the sea and pour water, do not fill it, is by his hidden power ((ऋ. सं. ५-८५-६) (*(ṛ. saṃ. 5-85-6)*)). Varuṇa and Mitra are lords of the rivers. That Varuṇa is lord of the oceans is an established point, but it occurs very rarely in the Ṛgveda; perhaps the reason is that it is of no great importance. In the Purāṇas and the like Varuṇa is famous as lord of the waters, and it is said in the Purāṇas that, as one of the eight guardians of the quarters, he is lord of the west. There is no support for that in the Ṛgveda. In general all that is connected with Varuṇa is connected with the water in the atmosphere; among the deities prayed to for rain, Varuṇa and Mitra are chief. When the mountains are all covered by clouds, Varuṇa, with the overturned *bhāni* (cloud), pours water on heaven, earth and sky and wets the whole earth: so it is said in the ṛks ऋ. सं. ५-८५-३, ४नॆय (*ṛ. saṃ. 5-85-3, 4nèya*). A whole sūkta (ऋ. सं ५-६३नॆय (*ṛ. saṃ 5-63nèya*)) indicates their rain-giving power. In the Yajurveda Saṃhitā ((तै. सं ५-५ ४-१) (*(tai. saṃ 5-5 4-1)*)) आपो वरुणस्य पत्नय आसन् (*āpo varuṇasya patnaya āsan*) — the waters were Varuṇa's wives; and (तै. सं. ६-४-३-२) (*tai. saṃ. 6-4-3-2)*)) मित्रावरुणौ ना अपा नेतार् (*mitrāvaruṇau nā apā netār*) [?] ("Mitra and Varuṇa are the leaders of the waters"; the print has "ವಿತ್ರಾವರುಣರು" [?] in the Kannada) is also said.
+
 ---
 
-**Progress note:** Done through printed p. 122 (PDF 122). Done through printed p. 122 (Sukta 186 Rk 2 Special Topics on Mitra continues)
+**Progress note:** Done through printed p. 126 (PDF 126). Done through printed p. 126 (Sukta 186 Rk 2 Special Topics on Varuna continues)
