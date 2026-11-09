@@ -8412,6 +8412,91 @@ gives for the word *amīvā* in it the sense रोगभूतः (*rogabhūta�
 
 O youngest Agni, protect us by unbroken and uninterrupted means of protection, and blaze all round in the sacrificial house dear to you. O mighty (the supplied text breaks off here).
 
+### Printed p. 285
+
+*Running head: [ಅ. ಅ.ವ ೫. ವ ೧೦] Ṛgveda-saṃhitā 285 (as supplied, as printed).*
+
+*(Continuation of the Bhāvārtha of Ṛk 4 of Sūkta 189, which broke off at the end of the previous window with the words "O mighty…".)*
+
+...O mighty Agni, let there be no fear at all for me, your singer, either at this time of the sacrifice or at any other time.
+
+**Printed English translation**
+
+Cherish us, Agni, with incessant bounties ; shine always in your favourite abode : let no danger, youngest (of the gods), assail your worshipper to-day ; nor, mighty one, let it assault him at any other season.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4)**
+
+पायुभिः (*pāyubhiḥ*) — पालनप्रकारैः (*pālanaprakāraiḥ*), by modes of protection. In this ṛk the use of the word पाहि (*pāhi*) indicates the act of protection; is not then the use of the word *pāyubhiḥ*, which has the same sense, in vain? The answer: there are many kinds of protection. The word अजस्रैः (*ajasraiḥ*) indicates that in some circumstances the protection must be continual, with no break; and that protection may be of many kinds: protecting us from harm by enemies and wild beasts; from the fear of fire, water and the like; from diseases and other afflictions; protecting by giving food and the like so that we do not die afflicted by hunger. The word *pāyubhiḥ* is used to indicate such many kinds of means of protection.
+
+मा (*mā*) — here the word *mā* indicates prohibition; the sense is "let it not arise".
+
+जरितारं (*jaritāraṃ*) — स्तोतारं मां (*stotāraṃ māṃ*), "me, the praiser". There is the Nirukta statement जरतेः स्तुतिकर्मणः (*jarateḥ stutikarmaṇaḥ*) (नि. १०-८ (*ni. 10-8*)).
+
+नूनं (*nūnaṃ*) — for this word Yāska says:
+
+नूनमिति विचिकित्सार्थीयो भाषायामुभयमन्वध्यायं विचिकित्सार्थीयश्च पदपूरणश्च (*nūnamiti vicikitsārthīyo bhāṣāyāmubhayamanvadhyāyaṃ vicikitsārthīyaśca padapūraṇaśca*)
+
+That is, they describe the word *nūnam* as used in the sense of doubt (*vicikitsā*) elsewhere than in the metrical texts, and in the sense of doubt and as a mere filler of the pāda in the metrical texts. Durgācārya (the print has "ದುರ್ಗಾಚಾರರು") explains: विचिकित्सानाम विवेकपूर्वको अवधारणाभिप्रायः (*vicikitsānāma vivekapūrvako avadhāraṇābhiprāyaḥ*), that *vicikitsā* is settling a point by reasoning in circumstances where there is doubt. In this ṛk the bhāṣyakāra explains the word *nūnam* as "now".
+
+यविष्ठ (*yaviṣṭha*) — *yuvatama*, the best of the young. Since Agni, always kindled and blazing with kindling-sticks, ghee and the like, it is customary to address him as young:
+
+### Printed p. 286
+
+*Running head: [286 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 189] (as supplied).*
+
+अग्निनाग्निः समिध्यते कविगृहपतियुर्वा । हव्यवाड्जु ह्यास्यः ॥ (*agnināgniḥ samidhyate kavigṛhapatiyurvā | havyavāḍju hyāsyaḥ ‖*)
+(म. सं. १-१२-६) (*(ma. saṃ. 1-12-6)*)
+
+in this and other ṛks Agni is described by the word *yuvā*. The word is used also of other deities.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 4, noted briefly)
+
+पाहि (*pāhi*) (root पा रक्षणे (*pā rakṣaṇe*)): *loṭ*, second person singular; being at the beginning of the pāda, the *nighāta* accent does not occur; by the prescription that *hi* is unmarked-*p* it becomes acute. पायुभिः (*pāyubhiḥ*): the same root; by कृवापा— (*kṛvāpā—*) (उ. सू. १-१ (*u. sū. 1-1*)) the suffix *uṇ*; by आतोयुक् चिण् कृतोः (*ātoyuk ciṇ kṛtoḥ*) the augment *yuk*; by the suffix accent the last syllable is acute. शुशुक्वान् (*śuśukvān*) (root शुच दीप्ति (*śuca dīpti*)): when *liṭ* comes, by क्वसुश्च (*kvasuśca*) the substitute *kvasu*; on that basis reduplication of the root; by *vyatyaya* the root's *c* becomes a velar; by the suffix accent the vowel after *v* is acute. जरितारम् (*jaritāram*): since roots have many meanings, the root ज्यष् (*jyaṣ*) (as printed) is used here in the sense of praise; the suffix *tṛc* in the agent sense; the augment *iṭ*; guṇa of the root's *ṛ* and *r* following; the suffix being marked *c*, the last syllable is acute. यविष्ठ (*yaviṣṭha*): अशतियेन युवा (*aśatiyena yuvā*) (as printed); by अतिशायनेतमबिष्ठन् (*atiśāyanetamabiṣṭhan*) (पा. सू. ५-३-५५ (*pā. sū. 5-3-55*)) the suffix *iṣṭhan*; by स्कूलदूर— (*skūladūra—*) (पा. सू. ६-४-१५६ (*pā. sū. 6-4-156*)) *van* is dropped; guṇa of the *u*; the substitute *av*; in the vocative the vocative *nighāta* accent. विदत् (*vidat*) (root विद्‌ल्य लाभे (*vidlya lābhe*)): by माजिलुज् (*mājiluj*) (पा. सू. ३-३-१७५ (*pā. sū. 3-3-175*)) when *māṅ* is in the compound, *luṅ* in the third person singular with *tip*; by इतत्व (*itatva*) the final *i* of it is dropped; because it is marked *l*, by पुषादिद्युतादि— (*puṣādidyutādi—*) (पा. सू ३-१-५५ (*pā. sū 3-1-55*)) the substitute *aṅ* for *cli*; because it is marked *ṅ*, the guṇa of the penultimate does not occur; by नमाज् योगे (*namāj yoge*) (पा. सू. ६-४-७४ (*pā. sū. 6-4-74*)) the augment *aṭ* does not occur; owing to the connection with a finite verb the *nighāta* accent. सहस्व (*sahasva*): by मतुवसोरुः संबुद्धौ (*matuvasoruḥ saṃbuddhau*) (पा. सू. ८-३-१ (*pā. sū. 8-3-1*)) *ru* in the vocative; by आमंतित्रस्य च (*āmaṃtitrasya ca*) (as printed) the *nighāta* accent.
+
+*[Stray line of the supplied text: :0: (*:0:*); not part of the text.]*
+
+### Printed p. 287
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 10] Ṛgveda-saṃhitā 287 (as supplied).*
+
+#### Ṛk 5
+
+*[As supplied, the label line of the Saṃhitā reads संख्याशास्त्र (*saṃkhyāśāstra*); standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> मा नो॑ अ॒ग्नेव॑ सृजो अ॒घाया॑वि॒ष्यवे॑ रि॒पवे॑ दु॒च्चुना॑य्कॆ ।
+> मा द॒त्वते॒ दश॑ते॒ मादते॑ नो॒ मा रीष॑ते सहसाव॒न्नरा॑ दाः
+> ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> मा । नः । अग्ने । अव । सृजः । अघाय । अनिष्यवे । रिपवे । दुच्चुनाय्कॆ ।
+> मा । दत्वते । दशते । मा । अदते । नः । मा । रिषते । सहसावन् । परा । दाः ॥ ५ ॥
+
+> *mā | naḥ | agne | ava | sṛjaḥ | aghāya | aniṣyave | ripave | duccunāykè |*
+> *mā | datvate | daśate | mā | adate | naḥ | mā | riṣate | sahasāvan | parā | dāḥ ‖ 5 ‖*
+
+*[As supplied, a line reading सःयणभाष्यं (*saḥyaṇabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> अच्युताय भौमाय्ककपालपुरोडाशहोमे मा नो अग्न इत्यनयाश-
+> यमभिजुहोति । तथा च सूत्रितं । मा नो अग्नेऽव सृजो अघायेत्येनमाश-
+> येनाभिजुहोति । आ, गृ. २-१-६ । इति ॥
+> हे अग्ने नोऽस्मानघाय हिंसकायाविष्यवे । अविष्यतिरत्तिकर्मा । अन्ने-
+> च्छवे दुच्चुनाय्कॆ । शुनं सुखं । दुष्टसुखकारिणे । दुःखकारिण इत्यर्थः । तस्मै
+> रिपवे माव सृजः । मा त्याक्षीः । तदधीनं मा कुर्वित्यर्थः । तथा नोऽस्मानत्वते
+> दंतवते दशते खादते सर्पादये माव सृजः । तथा नोऽस्मानदतेऽदंतकाय
+> शृंगादिभिर्घातिने माव सृजः । तथा रिषते हिंसकाय तस्करराक्षसादये हे सह-
+> सावन् सहस्विन् मा परा दाः । पराभूतं मा देहि । सर्वथा न देहीत्यर्थः ॥
+
+*Gist:* The first lines give the ritual use (Āśvalāyana Gṛhya: the oblation to Agni with this ṛk in the one-potsherd cake offering). Then: O Agni, do not give us over to the harmful, hungry, evil-doing enemy, nor to biting serpents and the like, nor to animals that hurt with horns, nor to any hurtful thief or demon; O mighty one, never give us up.
+
+**Pratipadārtha** (the supplied text breaks off here, at the end of the window)
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). नः—नम्मन्नु (*naḥ—nammannu*) (us). अघाय—हिंसकनू (पापिष्ठनू) (*aghāya—hiṃsakanū (pāpiṣṭhanū)*) (to the harmful, sinful). अविष्यवे- हॊट्टॆबाकनू (*aviṣyave- hòṭṭèbākanū*) (to the glutton). दुच्चुनाय्कॆ—दुःखकारियू आद (*duccunāykè—duḥkhakāriyū āda*) (to the doer of harm). रिपवे—शत्रुविगॆ (*ripave—śatruvigè*) (to the enemy). मा अव सृजः— बिट्टुकॊट्टु (नम्मन्नु अवन) अधीनरन्नागि माडबेड (*mā ava sṛjaḥ— biṭṭukòṭṭu (nammannu avana) adhīnarannāgi māḍabeḍa*) (do not give us over and make us subject to him). दत्वते—दंतादिगळिरुवुवू (*datvate—daṃtādigaḷiruvuvū*) (to those with teeth and the like). दशते— कच्चतक्कवू अद सर्पादिगळिगू (*daśate— kaccatakkavū ada sarpādigaḷigū*) (to biting serpents and the like). मा—सिक्कि नरळुवंतॆ माडबेड (*mā—sikki naraḷuvaṃtè māḍabeḍa*) (do not let us fall into their grip and suffer). नः—नम्मन्नु (*naḥ—nammannu*) (us). अदते— दंतविल्लदे (कॊंबु मुंताद साधनगळिंद) हिंसिसुव प्राणिगळिगू (*adate— daṃtavillade (kòṃbu muṃtāda sādhanagaḷiṃda) hiṃsisuva prāṇigaḷigū*) (to animals that hurt without teeth, with horns and the like). मा—सिक्किस बेड (हागॆये) (*mā—sikkisa beḍa (hāgèye)*) (do not give us over; likewise). रिषते—हिंसॆमाडतक्क इतर प्राणिगू बिट्टुकॊडबेड (*riṣate—hiṃsèmāḍatakka itara prāṇigū biṭṭukòḍabeḍa*) (do not give us up to any other hurting creature). सहसावन्—बलशालियाद ऎलै अग्निये (*sahasāvan—balaśāliyāda èlai agniye*) (O mighty Agni). मा परा दाः—नन्नन्नु अपजयक्कू अवमानक्कू ईडुमाडबेड (*mā parā dāḥ—nannannu apajayakkū avamānakkū īḍumāḍabeḍa*) (do not expose me to defeat and humiliation).
+
 ---
 
-**Progress note:** Done through printed p. 283 (PDF 283). Done through printed p. 283 (Sukta 189 Rik 2 and Rik 3 complete; Rik 4 Samhita, Pada, bhashya, Pratipadartha done; Bhavartha of Rik 4 breaks off mid-sentence at balashali); printed p. 284 header appears inside p. 283 text
+**Progress note:** Done through printed p. 287 (PDF 287). Done through printed p. 287 (Sukta 189 Rik 4 complete; Rik 5 Samhita, Pada, bhashya done; Pratipadartha complete through the last word, Bhavartha next)
