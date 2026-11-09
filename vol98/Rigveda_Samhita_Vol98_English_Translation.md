@@ -11108,6 +11108,69 @@ The page explains: अब्रवीत् (*abravīt*) (root ब्रूञ�
 
 परिशिष्टमंत्रद मुख्याभिप्रायवु—वेदपुरुषनु ई सूक्तजपमाडुव पुरुषनन्नु (*pariśiṣṭamaṃtrada mukhyābhiprāyavu—vedapuruṣanu ī sūktajapamāḍuva puruṣanannu*) (the main purport of the appendix mantra: the Vedapuruṣa has spoken thus about the man who recites this sūkta): "Do not fear that a snake has bitten you and that poison is rising; you will not die; I myself shall protect you in all places. Whether it is a scorpion or a snake, striking it with a strong stick..." (the supplied text ends here, in the middle of the sentence, at the end of the window).
 
+### Printed p. 374
+
+*Running head (as supplied): [374 सायणभाष्यसहिता [मं. १. आ. २४ सू. १९१] (*[374 sāyaṇabhāṣyasahitā [maṃ. 1. ā. 24 sū. 191]*).*
+
+*(Continuation of the Kannada commentary on the supplementary verses of Sūkta 191, from mid-sentence at the end of the previous page.)*
+
+...will kill. O serpent, run away and take shelter in a hole in the earth. If not, I shall strike you with my staff, which is swift like the chariot of the sun, strong like the arms of Viṣṇu, and falls on its target like the Garuḍa bird. At the mere coming of Garuḍa the three worlds tremble; the whole earth with its mountains, forests and the like shakes with fear. By the force of Garuḍa's coming the sun and moon become lightless and the stars do not shine; the gods tremble with fear; the wind does not blow. Therefore, O serpent full of great poison, go far away. May it be well with you. In this matter remember the word of the sage Āstika at the time of the completion of the sacrifice of King Janamejaya. The head of any serpent that, without heeding the warning words spoken by the sage Āstika, does not go away, will split into a hundred pieces like the fruit of the *śiṃśapā* tree. O river Narmadā, salutation to you in the morning and in the night time; protect and save me from the poisonous serpent. I remember the sage of great majesty named Jaratkāru's son, born of the maiden Jaratkāru (as printed). For those who remember the name of that great sage there is no fear of poisonous serpents. Therefore, O poisonous serpent, go far away; may it be well with you. For the man who remembers Asiti, Arthasiddhi and Sunīti there is no fear of serpents whether by night or by day. And the man who remembers the five great sages Agasti, Mādhava, Mucukunda, Kapila and Āstika (as printed) sleeps happily at night, free from fear of serpents.
+
+*[A stray line of the supplied text, -27048 (*-27048*), is kept as an italic note in the Kannada text.]*
+
+**End of the first maṇḍala (colophon, printed as plain lines)**
+
+> ॥ इति प्रथमं मंडलं समाप्तं ॥
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+> ॥ ओं तत्त्वत् ॥
+
+*[A description line of the supplied text, This image contains no text. It is a decorative graphic design consisting of swirls and floral elements. (*This image contains no text. It is a decorative graphic design consisting of swirls and floral elements.*), is kept as an italic note: the printed page evidently carries an ornament here.]*
+
+### Printed p. 375
+
+*Running head (as supplied): [अ. २. अ. ५. व. १७. ] ऋग्वेदसंहिता 375 (*[a. 2. a. 5. va. 17. ] ṛgvedasaṃhitā 375*).*
+
+## Maṇḍala 2
+
+**Opening lines of the second maṇḍala (printed as plain lines)**
+
+> ॥ श्रीः ॥
+> ॥ श्री गणेशाय नमः ॥
+> अथ द्वितीयं मंडलं
+
+> *‖ śrīḥ ‖*
+> *‖ śrī gaṇeśāya namaḥ ‖*
+> *atha dvitīyaṃ maṃḍalaṃ*
+
+*[A stray garbled line of the supplied text, पि ९ ८ कॆ. (*pi 9 8 kè.*), is kept as an italic note in the Kannada text.]*
+
+**Introduction to the second maṇḍala (Kannada)**
+
+The Ṛgveda Saṃhitā has ten divisions. These divisions are called maṇḍalas. Mainly, the whole collection of mantras composed by, or seen by, each individual sage and his descendants (or group) has been put together and fixed as one maṇḍala. But in the maṇḍalas called १, ९, १० नॆय (*1, 9, 10 nèya*) there are many sages of different groups. In the ninth maṇḍala, although there are different sages, all the mantras bear the name of one deity, पवमानसोम (*pavamānasoma*). That is, unlike the other maṇḍalas, the mantras have not been put together according to the sages; all the mantras having Soma as the deity, seen by all the sages, have been put together and made one maṇḍala. Therefore all the mantras in that maṇḍala have one deity, पवमानः सोमः (*pavamānaḥ somaḥ*); only the sages are different. In the first maṇḍala the mantras of sages who were seers of a hundred ṛks, or somewhat more or less than a hundred, have been put together. Under the name of each sage there are about १०० (*100*) ṛks. Therefore the sages of this maṇḍala are called शतर्चिनरु (*śatarcinaru*) (those who composed a hundred ṛks), and this maṇḍala is called शतर्चिनमंडल (*śatarcinamaṃḍala*).
+
+Following this same order, for the maṇḍalas 2, 3, 4, 5, 6, 7, 8नॆय (*2, 3, 4, 5, 6, 7, 8nèya*) the sages Gṛtsamada, Viśvāmitra, Vāmadeva, Atri, Bharadvāja, Vasiṣṭha and Kaṇva respectively are said to be the seers (the print has द्रष्टगळॆंदु (*draṣṭagaḷèṃdu*)). In the tenth maṇḍala many large sūktas and very small sūktas that could not be classified in any way are included; all of them are put together in this maṇḍala, and it is called the maṇḍala of small sūktas and great sūktas. As in the first maṇḍala, in this tenth maṇḍala too there are in all १९१ (*191*) sūktas (as printed). For the second maṇḍala now in hand, since the sage Gṛtsamada is the seer, it is customary to call this maṇḍala गार्त्सद मंडल (*gārtsada maṃḍala*). In every maṇḍala there are divisions called *anuvākas*, each containing several sūktas, according to the sage or the division of subject. In the first maṇḍala there are २४ (*24*) such anuvākas and in all १९१ (*191*) sūktas. In this second maṇḍala there are ४ (*4*) anuvākas and in all ४३ (*43*) sūktas. This maṇḍala is smaller in size than all the maṇḍalas.
+
+### Printed p. 376
+
+*Running head (as supplied): [376 सायणभाष्यसहिता [मं २. ४. १. सू. १.] (*[376 sāyaṇabhāṣyasahitā [maṃ 2. 4. 1. sū. 1.]*).*
+
+Let us examine carefully the matter of the sage Gṛtsamada, the seer of this maṇḍala. The great sage Yāska, giving in his Nirukta the etymology of the word *gṛtsamada*, says:
+
+गृत्समदो गृत्समदनः । गृत्स इति मेधाविनाम । गृणातेः स्तुतिकर्मणः । (*gṛtsamado gṛtsamadanaḥ | gṛtsa iti medhāvināma | gṛṇāteḥ stutikarmaṇaḥ |*)
+(नि. ९-५) (*(ni. 9-5)*)
+
+That is: *gṛtsamada* means *gṛtsamadana*; the word *gṛtsa* is derived from the root *gṛṇāti*, which gives the sense of the act of praise; he has said that the word *gṛtsa* is a name for *medhāvī* (an intelligent man). The word *madana* means one who is joyful or has joy. The analysis of the compound is गृत्सश्चासौ मदनश्च गृत्समदनः (*gṛtsaścāsau madanaśca gṛtsamadanaḥ*). Therefore the word *gṛtsamada* means a man who is intelligent and joyful (smiling-faced).
+
+This sage Gṛtsamada was at first the son of a sage named Śunahotra, born in the line of the sage Aṅgiras. Once, while he was performing a sacrifice, asuras came and carried him off. At Gṛtsamada's prayer Indra rescued him and brought him back. By Indra's command the name Gṛtsamada became established for him. And he became known as the son of Śunaka or Śaunaka of the Bhṛgu family. And in the work called ऋष्यन-क्रमणिकॆ (*ṛṣyana-kramaṇikè*) (as printed), composed by the great sage Kātyāyana, a pupil of the sage Śaunaka, when the names of the sages of the various sūktas are given, it is said:
+
+त्वमग्न इति गृत्समदः शौनको बृगुतां गतः । (*tvamagna iti gṛtsamadaḥ śaunako bṛgutāṃ gataḥ |*)
+शौनहोत्रः प्रकृत्या तु य आंगिरस उच्यत इति ॥ (*śaunahotraḥ prakṛtyā tu ya āṃgirasa ucyata iti ‖*)
+
+That is: although Gṛtsamada, the sage of the sūkta beginning त्वमग्ने द्युभिः (*tvamagne dyubhiḥ*), was born as the son of Śunahotra of the line of the Āṅgirasas, afterwards (for another reason) he became known as the son of Śunaka, born in the family of the sage Bhṛgu.
+
+In the Mahābhārata there is a different history about this sage. According to the history in the Anuśāsana Parva of the Mahābhārata, King Vītahavya of the Haihaya country had a son. Because of the harassment by his enemy, Pratardana, the king of the country of Kāśī, Vītahavya gave up his kingdom, became an exile, wandered about and took shelter in the hermitage of the sage Bhṛgu. Angered by this, King Pratardana of Kāśī demanded by force that the kṣatriyas who were in the hermitage of Bhṛgu be handed over to him; then the sage Bhṛgu, not willing to give up the king who had sought refuge, said that there was no kṣatriya in his hermitage. Because he said so, so that the word of the sage Bhṛgu might not become untrue, Vītahavya became a brāhmaṇa. His son Gṛtsamada became a famous sage and became the seer of the second maṇḍala of the Ṛgveda (the supplied text ends here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 373 (PDF 373). Sukta 191 Rik 16 complete; supplementary (parisishta) verses begun: heading, verse block and the start of the Kannada commentary
+**Progress note:** Done through printed p. 376 (PDF 376). Sukta 191 and Mandala 1 complete (colophon block); Mandala 2 begun: opening lines and the introduction through the history of the sage Gritsamada
