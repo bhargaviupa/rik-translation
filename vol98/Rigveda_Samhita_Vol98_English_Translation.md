@@ -314,6 +314,88 @@ Since Agni, Uṣas and the Aśvin deities, these three alone, are the lords of t
 
 *[The window ends mid-sentence at the end of p. 10 (the last word is broken with a hyphen); the quotation and its explanation continue on the next page.]*
 
+### Printed p. 11
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1.] Ṛgveda-saṃhitā 11.*
+
+*(The Aitareya Brāhmaṇa quotation of p. 10 continues; the word broken at the page boundary, "…ಹೂ-" on p. 10, is completed by "ಯಂತೇ" here.)*
+
+यंते ताभिराहुतिभागाः प्रीणातृथ यत्‌स्तुवंति च शंसंति च तेन (*yaṃte tābhirāhutibhāgāḥ prīṇātṛtha yatstuvaṃti ca śaṃsaṃti ca tena*)
+स्तोमभागाश्चंदोभागाः । उभयो हास्यैता देवताः प्रीता अभीष्टा (*stomabhāgāścaṃdobhāgāḥ | ubhayo hāsyaitā devatāḥ prītā abhīṣṭā*)
+भवंति य एवं वेद । (*bhavaṃti ya evaṃ veda |*)
+
+(Ai. Brā. 7-8 [the print has "ಇ. ಬ್ರಾ." as supplied])
+
+To the question what the order of reciting the *prātaranuvāka* is, the scriptural order is to recite it in verse form and following the order of the fixed metres. The reason: the metres are the limbs of Prajāpati; Prajāpati himself is the sacrificer; and animals are footed creatures, so, in order to obtain them, the *prātaranuvāka* must be recited in the order of the feet (*pāda*). Having thus told the order of recitation, the text anticipates another doubt. It is this:
+
+अभूदुषा रुषत्पशुरित्युत्तमया परिदधाति । तदाहुरत्रीन्यतूनन्वाहा- (*abhūduṣā ruṣatpaśurityuttamayā paridadhāti | tadāhuratrīnyatūnanvāhā-*)
+ग्नेयमुषस्यमाश्विनं कथमस्यैकयर्चा परिदधतः सर्वे त्रयः त्रतवः (*gneyamuṣasyamāśvinaṃ kathamasyaikayarcā paridadhataḥ sarve trayaḥ tratavaḥ*)
+परिहिता भवंतीति । अभूदुषा रुषत्पशुरित्युषसो रूपमाग्निरधाय्यत्विय (*parihitā bhavaṃtīti | abhūduṣā ruṣatpaśurityuṣaso rūpamāgniradhāyyatviya*)
+इत्यग्नेरयोजि वां वृषण्वसू रथो दस्रावमर्त्यो माध्वी मम श्रुतं (*ityagnerayoji vāṃ vṛṣaṇvasū ratho dasrāvamartyo mādhvī mama śrutaṃ*)
+हवमित्यश्विनोरेवमुहास्यैकयर्चा परिदधतः सर्वे त्रयः क्रतवः परिहिता (*havamityaśvinorevamuhāsyaikayarcā paridadhataḥ sarve trayaḥ kratavaḥ parihitā*)
+भवंति भवंति । (*bhavaṃti bhavaṃti |*)
+
+(Ai. Brā. 7-8 [as supplied "ಇ. ಬ್ರಾ,"])
+
+Since the *prātaranuvāka* has to be recited addressed to all these deities, Agni, Uṣas and the Aśvin deities, in the present case
+
+“ अभूदुषा रुशत्पशुराग्नि रधाय्यैत्वियः । ” (*“ abhūduṣā ruśatpaśurāgni radhāyyaitviyaḥ | ”*)
+
+(Ṛ. Saṃ. [printed म. सं. (*ma. saṃ.*)] 5. 75 9 [as supplied; the sigla "ಮ. ಸಂ." for Ṛ. Saṃ.])
+
+when the conclusion is told with this single mantra, the question arises how all the rites addressed to all the deities are completed; the answer shows, by explaining, that in this very mantra the praise of the three deities is present. This is the greatness of the *prātaranuvāka*. Because mantras having this greatness have to be recited at dawn, Sāyaṇa has stated in the explanation of the present ṛk “ उषः काले हि प्रातरनुवाकाश्विनशस्त्रे प्रयुज्येते ” (*“ uṣaḥ kāle hi prātaranuvākāśvinaśastre prayujyete ”*). By उषसि उच्छंत्यां (*uṣasi ucchaṃtyāṃ*) the prayer addressed to the Aśvin deities is told. The mantra that indicates their time of travel to the sacrificial ground,
+
+अबोध्यग्निर्ज्म उदेति सूर्यो व्यु १ षाश्चंद्रा मह्यावो अर्चिषा । (*abodhyagnirjma udeti sūryo vyu 1 ṣāścaṃdrā mahyāvo arciṣā |*)
+आयुक्षातामश्विना यातवे रथं प्रासावीद्देवः सविता जगत्पृथक् ॥ (*āyukṣātāmaśvinā yātave rathaṃ prāsāvīddevaḥ savitā jagatpṛthak ‖*)
+
+(Ṛ. Saṃ. [printed म. सं. (*ma. saṃ.*)] 1. 157 1 [as supplied]; the first line is printed in the supplied text with garbled passages (अबोध्यग्निर्ज्म (*abodhyagnirjma*) and व्यु १ (*vyu 1*)), kept as supplied)
+
+### Printed p. 12
+
+*Running head: [12 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 1-4]; the print has "೧-೪" for the sūkta number, as supplied.*
+
+in this ṛk the prayer is made thus: on the altar Agni is blazing; the Āditya also rises; the great goddess Uṣas, with her radiance, is making all the world glad. Therefore, O Aśvin deities, yoke your chariot with horses in order to go to the sacrificial ground. As it is thus prayed, so in the present ṛk too the prayer is made. And whenever their time of travel to the sacrificial ground is told, the blazing of Agni, the appearance of Uṣas and the rising of Sūrya are indicated. Telling this same point, the Aitareya Brāhmaṇa says:
+
+देवेभ्यः प्रातर्यावभ्यो होतरनुब्रूहित्याहाध्वर्युः । एते वाव देवाः (*devebhyaḥ prātaryāvabhyo hotaranubrūhityāhādhvaryuḥ | ete vāva devāḥ*)
+प्रातर्यापाणो यदग्निरुषा अश्विनौ त एते सप्तभिः सप्तभिश्चंदोभिरागच्छंति ॥ (*prātaryāpāṇo yadagniruṣā aśvinau ta ete saptabhiḥ saptabhiścaṃdobhirāgacchaṃti ‖*)
+
+(Ai. Brā. [printed इ इ३, (*i i3,*)] 7-5 [as supplied; the abbreviation is garbled])
+
+In the mantra cited above it is said that the Adhvaryu instructs the Hotṛ to pray, with the *prātaranuvāka* mantras, that Agni, Uṣas and the Aśvin deities come to the sacrificial house at dawn. The same point is described in the present ṛk, indicating the appearance of Uṣas.
+
+For the words उषसि उच्छंति (*uṣasi ucchaṃti*) (as supplied) one meaning is "scattering and destroying the darkness", and another is "shining with radiance". The derivation of the word उषा (*uṣā*) too is through उच्चति (*uccati*). By the sentence उषाः कस्मादुच्छतीति सत्या (*uṣāḥ kasmāducchatīti satyā*) रात्रेरपरः कालः (*rātreraparaḥ kālaḥ*) the Nirukta authors have stated this derivation (Ni. 2. 18). But by the sentence उषा वष्टेः कांतिकर्मण उच्छतेरितरा माध्यमिका (*uṣā vaṣṭeḥ kāṃtikarmaṇa ucchateritarā mādhyamikā*) (Ni 12 7.) the Nirukta authors have also stated that the word शब्दवु (*śabdavu*) may be formed from the root वश कांत् (*vaśa kāṃt*) or from the root उच्छे विवासे (*ucche vivāse*). In the present ṛk the words उषसि उच्छंत्यां (*uṣasi ucchaṃtyāṃ*) may mean "the Uṣas who fully scatters the darkness and appears outside" or "the Uṣas shining with radiance".
+
+दिवः नपाता—नपात् (*divaḥ napātā—napāt*) — the word नपाता—नपात् (*napātā—napāt*) can mean son and also grandson. The Nirukta authors, by the sentence नपादित्यनंतरायाः प्रजायाः नामधेयं (*napādityanaṃtarāyāḥ prajāyāḥ nāmadheyaṃ*) (Ni. 8. 5.), have stated that the word means not the actual son but grandsons and the like. In the present case Sāyaṇa has given for दिवः (*divaḥ*) the sense नप्तृस्थानीयौ (*naptṛsthānīyau*) (the word द्युलो- (*dyulo-*) is broken across the line in the supplied text). The origin of the Aśvin deities is told differently in different places. For example,
+
+### Printed p. 13
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1] Ṛgveda-saṃhitā 13.*
+
+इहेह जाता समवादशीतामरेपसा तन्वा ३ नामभिः स्वैः । (*iheha jātā samavādaśītāmarepasā tanvā 3 nāmabhiḥ svaiḥ |*)
+जिष्णुर्वामन्यः सुमखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ॥ (*jiṣṇurvāmanyaḥ sumakhasya sūrirdivo anyaḥ subhagaḥ putra ūhe ‖*)
+
+(Ṛ. Saṃ. [printed म. सं. (*ma. saṃ.*)] 1. 181. 4 [as supplied])
+
+In this ṛk it is described that, of the Aśvin deities, one, as the son of the middle world and in the form of the moon, and the other, as the son of the heavenly world and in the form of the sun, are protectors of the world. It is known in some further contexts that of these two, one deity has the name Nāsatya and the other the name Dasra. This explanation has been given earlier, in the special topics of the fourth ṛk of Ṛ. Saṃ. 1. 181.
+
+नासत्या—नासत्या चाश्विन् । सत्या वेव नासत्यावित्यौर्णवाभः सत्यस्य प्रणेतारा (*nāsatyā—nāsatyā cāśvin | satyā veva nāsatyāvityaurṇavābhaḥ satyasya praṇetārā*)
+वित्याग्रायणः । नासिका प्रभवौ बभूवतुरिति वा । (*vityāgrāyaṇaḥ | nāsikā prabhavau babhūvaturiti vā |*)
+
+(Ni. 6 ग) (*ga)*) [as supplied])
+
+According to the view of Aurṇanābha, those who are of the nature of truth and not untrue are Nāsatyas; according to Āgrāyaṇa, because they create and increase truth they are Nāsatyas; or because they were born from the nose they are Nāsatyas. The Nirukta authors have thus stated, each according to one opinion, one way each, since this peculiarity applies to the Aśvin deities.
+
+अरः - ईरयिता स्तुतेरीश्वरो ना ; (*araḥ - īrayitā stuterīśvaro nā ;*) — the sense is explained as "stimulator of praise, or master (*īśvara*) of praise-making". This is an epithet of the Hotṛ. By this epithet the Hotṛ shows his own devotion and faith: "I who praise most excellently." The Nirukta authors have read this word among the names of Īśvara (Ni 3. 11), and the word is used in the sense of Īśvara:
+
+प्रतत्ते अद्य शिपिविष्ट नामार्यः शंसामि वयुनानि विद्वान् । (*pratatte adya śipiviṣṭa nāmāryaḥ śaṃsāmi vayunāni vidvān |*)
+तं त्वा गृणामि तवसमतव्यान् क्षयंतमस्य रजसः पराके ॥ (*taṃ tvā gṛṇāmi tavasamatavyān kṣayaṃtamasya rajasaḥ parāke ‖*)
+
+(Ṛ. Saṃ. [printed म. सं. (*ma. saṃ.*)] 7 100 5 [as supplied])
+
+Having cited this ṛk, they explain: अर्योऽहमीश्वरः स्तोमानामरस्यमसीति वा (*aryo 'hamīśvaraḥ stomānāmarasyamasīti vā*) (Ni. 5. 9). Here the Vṛttikāra has explained, with यस्मादरोऽहमस्मि ईश्वरः स्तुतीनामुदीरणे (*yasmādaro 'hamasmi īśvaraḥ stutīnāmudīraṇe*) युष्मद्गुणाभिज्ञः अथवा अर्यस्त्वमसि अर्य ईश्वरः मदनुग्रहाय समर्थः । (*yuṣmadguṇābhijñaḥ athavā aryastvamasi arya īśvaraḥ madanugrahāya samarthaḥ |*), that "I am able to make praise and to know your qualities; or you are able to bestow grace." The use of this word in the sense "worshipful" occurs in many places. For example,
+
+*[The window ends at "For example"; the examples continue on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 10 (PDF 10). Rik 1 Special Topics: pratar-anuvaka tables (Agni, Usas, Ashvins), Aitareya Brahmana quotations (continues on next page)
+**Progress note:** Done through printed p. 13 (PDF 13). Rik 1 Special Topics: Aitareya Brahmana quotations end, Nirukta notes on usas, napat, nasatya, arya (continues on next page)
