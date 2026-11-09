@@ -4343,6 +4343,111 @@ For our minds, yoked together like horses, tend to the ever youthful Indra, as c
 
 अश्वयोगा (*aśvayogā*) — as horses are yoked together to a chariot, so may our minds dwell with attachment on Indra, or praise him: this is the main idea [the window ends here, in the middle of the note].
 
+### Printed p. 154
+
+*Running head: [154 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186]. The window continues the Special Topics of Ṛk 7 of Sūkta 186 from p. 153, after the beginning of the *aśvayogā* note.*
+
+गावः शिशुं न रिहंति (*gāvaḥ śiśuṃ na rihaṃti*) — "as milch cows lovingly lick their calves, so may our minds serve Indra": thus the comparison is stated.
+
+तरुणं—नित्ययुवानमिंद्रं (*taruṇaṃ—nityayuvānamiṃdraṃ*) — Indra who is ever like a youth, or ever young. On Indra being young:
+
+पुरां भिंदुर्युवा कविरमितौजा अजायत । (*purāṃ bhiṃduryuvā kaviramitaujā ajāyata |*)
+(म. सं. १-११-४) (*(ma. saṃ. 1-11-4)*)
+
+in these and similar ṛks it is said that Indra is a youth and exceedingly brilliant.
+
+ईं (*īṃ*) — the short words *kam*, *īm*, *it* and *u* are used to fill out a pāda. On this matter Yāska:
+
+अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूर- (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūra-*)
+णास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति ॥ (*ṇāste mitākṣareṣvanarthakāḥ kamīmidviti ‖*)
+(३-९) (*(3-9)*)
+
+explains that the words *kam*, *īm*, *it* and *u* are used to fill out a sentence in prose that has no metre (*amitākṣara*), and to fill out a pāda in metrical ṛks or mantras (*mitākṣara*); therefore these words need not have any definite meaning. In this ṛk Indra is praised.
+
+गिरः (*giraḥ*) — "words", that is, words in the form of praise. Yāska, stating the derivation of the word *giraḥ* as स्तुतयः गिरो गृणातेः (*stutayaḥ giro gṛṇāteḥ*) ((नि. १-१०) (*(ni. 1-10)*)), has given the meaning "praises".
+
+जनयः — नोत्पादयित्र्यः (*janayaḥ — notpādayitryaḥ*) — [the supplied text has "ನೋತ್ಪಾದಯಿತ್ರ್ಯಃ" as in the bhāṣya] young women who have not yet borne children but are capable of bearing them. The comparison is given: as such wives join their husbands with desire of the heart, so may our praises join Indra.
+
+### Printed p. 155
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5] Ṛgveda-saṃhitā 155 (as supplied, "ವ. ೧ ಅ. ೨. ಆ ೫").*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+अश्वयोगाः (*aśvayogāḥ*) ("those whose yoking is like the yoking of a horse"): by बहुव्रीहौ प्रकृत्या (*bahuvrīhau prakṛtyā*) the accent of the earlier member. तरु (*taru*) (root प्लवनतरणयोः (*plavanataraṇayoḥ*)): by त्रोरश्चलोपा (उ. सू ४-३३४) (*troraścalopā (u. sū 4-334)*) the suffix *unan*; [the text of the sūtra is broken in the supplied text, and the page break falls here]; by अट् कुप्वाज् (*aṭ kupvāj*) *ṇatva* of the *n*; because the suffix is marked *n* the first syllable is acute. रिहंति (*rihaṃti*) (root लिह आस्वादने (*liha āsvādane*), "to lick"): *adādi*; present, third person plural; by *vyatyaya* the substitute *l* for the *r* of the root [as written]; because it follows a non-verb the *nighāta* accent arises. जनयः (*janayaḥ*) (root जनी प्रादुर्भावे (*janī prādurbhāve*)): by सर्वधातुभ्य इन् (*sarvadhātubhya in*) the suffix *in*; because it is marked *n* the first syllable is acute. सुरभिष्टमम् (*surabhiṣṭamam*): by अतिशायने तमबिष्ठसौ (*atiśāyane tamabiṣṭhasau*) the suffix *tamap*; because it is marked *p* it is unaccented. नसंत (*nasaṃta*) (root णस कौटिल्ये (*ṇasa kauṭilye*)): *bhvādi*; by णोनः (*ṇonaḥ*) *n* for the initial; by छंदसि लुज्- लज् लिटः (पा सू. ३-४-६) (*chaṃdasi luj- laj liṭaḥ (pā sū. 3-4-6)*) *laṅ* in the sense of the present; third person plural; by बहुलं छंद— (*bahulaṃ chaṃda—*) the augment *aṭ* does not occur; the verb-*nighāta* accent.
+
+*[Stray line in the supplied text: "- 2018".]*
+
+#### Ṛk 8
+
+*[As supplied, the label line of the next section reads कंठपाठः (*kaṃṭhapāṭhaḥ*); standard label inserted. The Saṃhitā lines were joined; the supplied text has a stray hyphen in वृद्ध-सेनाः [?] (*vṛddha-senāḥ [?]*); marked [?]. A stray line ० चन्नबसवण्णन (*0 cannabasavaṇṇana*) follows the Saṃhitā and is not part of the verse. The Pada has no label in the supplied text; the standard label was inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> उ॒त न॑ ईं म॒रुतो॑ वृ॒द्ध-से॑नाः॒ [?] स्मद्रोद॑सी॒ सम॑नसः सदंतु ।
+> पृष॑दश्वासो॒ ऽवन॑यो॒ न रथा॑ रि॒शाद॑सो मित्र॒युजो॒ न दे॒वाः ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । नः । ईं । मरुतः । वृद्धसेनाः । स्मत् । रोदसी इति । समनसः । सदंतु ।
+> पृषत् आश्वासः । अवनयः । न । रथाः । रिशादसः । मित्रयुजः । न । देवाः ॥ ८ ॥
+
+> *uta | naḥ | īṃ | marutaḥ | vṛddhasenāḥ | smat | rodasī iti | samanasaḥ | sadaṃtu |*
+> *pṛṣat āśvāsaḥ | avanayaḥ | na | rathāḥ | riśādasaḥ | mitrayujaḥ | na | devāḥ ‖ 8 ‖*
+
+*[As supplied, the label line of the next section reads सायणभःष्यं (*sāyaṇabhaḥṣyaṃ*); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उतापि च नोऽस्मदीयमीमिदानीमेनं यागं वा मरुतः स्मत् सहापि
+> सदंतु । गच्छंतु । कुतो देशात् । रोदसी रोदस्योर्द्यावापृथिव्योः सकाशात् ।
+> यद्वा । रोदस्यावपि गच्छलां । कीदृशास्ते मरुतः । वृद्धसेनाः प्रवृद्धबलाः समनसः
+> समानमनस्काः पृषदश्वासः पृषद्वर्णाश्वाः । पृषत्यो मरुतामिति यास्कः । अवनयो
+> न यथैव नमनस्वभावा रथा रंहणस्वभावा रथवंतो वा ॥ मत्वर्थो लुप्यते ॥
+
+> *utāpi ca no 'smadīyamīmidānīmenaṃ yāgaṃ vā marutaḥ smat sahāpi*
+> *sadaṃtu | gacchaṃtu | kuto deśāt | rodasī rodasyordyāvāpṛthivyoḥ sakāśāt |*
+> *yadvā | rodasyāvapi gacchalāṃ | kīdṛśāste marutaḥ | vṛddhasenāḥ pravṛddhabalāḥ samanasaḥ*
+> *samānamanaskāḥ pṛṣadaśvāsaḥ pṛṣadvarṇāśvāḥ | pṛṣatyo marutāmiti yāskaḥ | avanayo*
+> *na yathaiva namanasvabhāvā rathā raṃhaṇasvabhāvā rathavaṃto vā ‖ matvartho lupyate ‖*
+
+### Printed p. 156
+
+*Running head: [156 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 23. Sū. 186] (the print has "೨೩" for "೨೪", as supplied).*
+
+> यद्वा । अवनयो रक्षका रथा इव स्थिताः । रिशादसः । रिशाः शत्रवः । तेषामत्तारो
+> मित्रयुजो देवा न मैत्रीयुक्ता व्यवहर्तार ऋत्विज इव । यद्वा । मैत्रीयुक्ता
+> अन्ये देवा यथा गच्छंति तद्वत् ॥
+
+*Gist:* May the Maruts, of great strength, of one mind, with spotted horses, like chariots and devourers of foes, come with Heaven and Earth to our sacrifice like friendly gods.
+
+*[As supplied, the label line of the next section reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत—मत्तु (*uta—mattu*). वृद्धसेनाः (*vṛddhasenāḥ*) — of great strength. समनसः (*samanasaḥ*) — of one mind. पृषदश्वासः (*pṛṣadaśvāsaḥ*) — having horses of variegated colour. अवनयः रथाः न (*avanayaḥ rathāḥ na*) — like protecting chariots, or possessing chariots. रिशादसः (*riśādasaḥ*) — devourers of enemies. मरुतः स्मत् (*marutaḥ smat*) — the Maruts also. मित्रयुजः (*mitrayujaḥ*) — joined with friends. देवाः न (*devāḥ na*) — like other gods. रोदसी (*rodasī*) — from the side of earth and atmosphere. नः (*naḥ*) — our. ईं (*īṃ*) — to this sacrifice. सदंतु (*sadaṃtu*) — may they come. (रोदसी (*rodasī*) may Heaven and Earth come too.)
+
+**भावार्थ (Bhāvārtha)**
+
+May the Maruts, of great strength, of one mind, with variegated horses, possessing protecting chariots and devouring foes, come to this our sacrifice from the side of earth and atmosphere, like the other gods joined with friends. May Heaven and Earth come with them.
+
+**Printed English translation**
+
+Or may the Maruts, being of one mind, come from heaven and earth (to the sacrifice); they who are a mighty host, who have parti-coloured steeds, who are like protecting chariots, and who are devourers of foes, may they come like friendly deities.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the Maruts and Heaven and Earth are praised.
+
+पृषदश्वासः—पृषद्वर्णाश्वाः (*pṛṣadaśvāsaḥ—pṛṣadvarṇāśvāḥ*) — "having horses of spotted colour": the meaning is those who have the horses called *pṛṣatī* of many kinds of colour. About the vehicles of the various gods Yāska says:
+
+हरी इंद्रस्य । रोहितोऽग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः (*harī iṃdrasya | rohito 'gneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajāḥ*)
+पूष्णः । पृषत्यो मरुतां । अरुण्यो गाव उषसः । श्यावाः सवितुः । (*pūṣṇaḥ | pṛṣatyo marutāṃ | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ |*)
+विश्वरूपा बृहस्पतेः । नियुतो वायोः । (*viśvarūpā bṛhaspateḥ | niyuto vāyoḥ |*)
+(नि. 9-28) (*(ni. 9-28)*)
+
+(the Nirukta reference is printed "(ನಿ. 9-28)" with a Latin 9, as supplied) from what is said, it is well known that the spotted deer called *pṛṣatī*, of variegated colour, are the vehicle of the Maruts.
+
 ---
 
-**Progress note:** Done through printed p. 153 (PDF 153). Done through printed p. 153 (Sukta 186 Rk 6 complete; Rk 7 complete through printed English; Special Topics begun, ends mid-sentence)
+**Progress note:** Done through printed p. 156 (PDF 156). Done through printed p. 156 (Sukta 186 Rk 7 complete; Rk 8 complete through printed English; Special Topics begun, pṛṣadaśvāsaḥ)
