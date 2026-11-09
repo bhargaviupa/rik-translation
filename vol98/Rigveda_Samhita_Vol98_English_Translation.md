@@ -8183,6 +8183,104 @@ gives the sense "wealth" for the word *rayi*, explaining that the word is formed
 
 That is, this deity is named *deva* because he gives riches and the like (*dānāt*); because he lights up everything with his splendour (*dīpanāt*, *dyotanād vā*: the two words have the same sense); or because he dwells in the heavenly place (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 278
+
+*Running head: [278 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 189] (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 1 of Sūkta 189, after the Nirukta note on *deva*.)*
+
+...in heaven; therefore he is named *deva*: thus many senses are given for the word *deva*. Here the word *deva* is an epithet of the word *agne*, so all the explanations above fit.
+
+वयुनानि (*vayunāni*) — the word *vayunam* is read among the ten names of praise, *asremāḥ*, *anemāḥ* and others, and among the eleven names of wisdom, *ketaḥ*, *ketuḥ* and others (नि. २-१३ (*ni. 2-13*)). Besides, Yāska on this word: वयुनं वेतेः कांतिर्वा प्रज्ञा वा (*vayunaṃ veteḥ kāṃtirvā prajñā vā*) (नि. ५-१५ (*ni. 5-15*)): the word *vayunam* is formed from the root *veti* and has the sense "brightness" or "wisdom"; and in support of this he gives as an example the ṛk
+
+अहिरिव भोगैः पर्येति बाहुं ज्याया हेतिं परिबाधमानः । (*ahiriva bhogaiḥ paryeti bāhuṃ jyāyā hetiṃ paribādhamānaḥ |*)
+हस्तघ्नो विश्वा वयुनानि विद्वान् पुमान्सुमांसं परि पातु विश्वतः ॥ (*hastaghno viśvā vayunāni vidvān pumānsumāṃsaṃ pari pātu viśvataḥ ‖*)
+(म. सं. ६-२५-१९) (*(ma. saṃ. 6-25-19)*)
+
+where too *vayunāni* is explained as *prajñānāni*, "wisdoms".
+
+नमउक्तिं (*namauktiṃ*) — नमस्कारोक्तिं । स्तुतिं (*namaskāroktiṃ | stutiṃ*): the sense is "we shall recite a hymn with homage".
+
+*[As supplied, the label line reads व्याकरणक्रिया (*vyākaraṇakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 1, noted briefly)
+
+नय (*naya*) (root णीञ् प्रापणे (*ṇīñ prāpaṇe*)): *loṭ*, second person singular; by आमंत्रितं पूर्वमविद्यमनवत् (*āmaṃtritaṃ pūrvamavidyamanavat*) the preceding vocative *agne*, though present, counts as absent, so the *nighāta* accent does not occur; the stem-suffix *śap* being unaccented, the accent of the root remains. राये (*rāye*): the dative has come in the sense of the accusative by the statement सुपांसुपो भवंति (*supāṃsupo bhavaṃti*); by ऊडिदं पदादि— (*ūḍidaṃ padādi—*) (पा. सू. १-१७१ (*pā. sū. 1-171*), as printed) the ending is acute. वयुनानि (*vayunāni*) (root अज गतिक्षेपणयोः (*aja gatikṣepaṇayoḥ*)): by अजियमिशीज्भ्यश्च (*ajiyamiśījbhyaśca*) (उ. सू ३-४४१ (*u. sū 3-441*)) the suffix *unan*; by अजेव्यघञ्षपोः (*ajevyaghañṣapoḥ*) (पा. सू २-४-५६ (*pā. sū 2-4-56*)) the substitute *vī* for the root; on account of the suffix guṇa of its *ī*; the substitute *ay*; by *vyatyaya* the suffix has the first-syllable acute. युयोधि (*yuyodhi*): being at the beginning of the pāda, the *nighāta* accent does not occur; by the prescription that *hi* is unmarked-*p*, the acute comes, so the last syllable is acute. जुहुराणम् (*juhurāṇam*) (root हुर्छा कौटिल्ये (*hurchā kauṭilye*)): by हुर्छेःसनो लुक् छलोपश्च (*hurcheḥsano luk chalopaśca*) (उ. सू. २-२८४ (*u. sū. 2-284*)) the suffix *ānac* after the desiderative; *luk* of the desiderative; dropping of the root's *cha*
+
+### Printed p. 279
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 10] Ṛgveda-saṃhitā 279 (as supplied).*
+
+(continued); by अट् कुप्वाज्— (*aṭ kupvāj—*) the suffix's *n* becomes *i*; the suffix being marked *c*, the last syllable is acute. नमउक्तिम् (*namauktim*): by तादौचनिति— (*tādaucaniti—*) (पा. सू. ६-२-५० (*pā. sū. 6-2-50*)) the preverb takes its natural accent. विधेम (*vidhema*) (root विध विधाने (*vidha vidhāne*)): *tudādi*, *liṅ*, first person plural; by शिज्जतिजः (*śijjatijaḥ*) (पा. सू. ८-१-२५ (*pā. sū. 8-1-25*), as printed) the *nighāta* accent.
+
+#### Ṛk 2
+
+*[Stray/garbled line of the supplied text where the Saṃhitā label belongs: 106 कादरु (*106 kādaru*); standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> अग्ने॒ त्वं पा॑रया॒ नव्यू॑ अ॒स्मान्तस्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ ।
+> पूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वि भवा॑ तो॒काय॒ तन॑याय॒
+> शं योः ॥२ ॥
+
+**॥ पदपाठः ॥**
+
+> अग्ने । त्वं । पारय । नव्यः । अस्मान् । स्वस्तिभिः । अति । दुःगानि । विश्वा ।
+> पूः । च । पृथ्वी । बहुला । नः । उर्वि । भव । तोकाय । तनयाय । शं । योः
+> ॥ २ ॥
+
+> *agne | tvaṃ | pāraya | navyaḥ | asmān | svastibhiḥ | ati | duḥgāni | viśvā |*
+> *pūḥ | ca | pṛthvī | bahulā | naḥ | urvi | bhava | tokāya | tanayāya | śaṃ | yoḥ*
+> *‖ 2 ‖*
+
+*[The supplied text repeats the line ॥ २ ॥ (*‖ 2 ‖*) once after the Pada; kept as a note. A line reading सहायधान्य, c (*sahāyadhānya, c*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> आयुष्कामेष्ट्यामग्ने त्वं पारयेति द्वे स्विष्टकृतो याज्ये पाहि न इति
+> चतुर्थ्यनुवाक्या । पाहि नो अग्ने पायुभिरजस्रैरग्ने त्वं पारया नव्यो अस्मानिति
+> संयाज्ये । आ. २-१० । इति सूत्रितं ॥ एते एव स्वस्त्रयन्यामपि संयाज्ये इति
+> सूत्रितत्वात् ॥
+> हे आग्ने त्वं नव्यो नवतरः स्तुत्यो वा त्वमस्मान्यागानुष्ठात्मनति पारय ।
+> कर्म समापय्यातिपारय । अतिक्रामय । केन साधनेन । स्वस्तिभिः । अस्तिरभिपूजितः ।
+> सुशब्दः शोभनवचनः । अत्यंतं पूजितैर्यज्ञादिसाधनैः । कानि । दुर्गाणि दुर्गमनानि
+> पापानि । अनतिक्रमणीयानि दुरिताख्यान्यतिपारय । किंच नोऽस्माकं पृथ्वी पृथुतरा
+> पूश्च पुर्यपि भवत्विति शेषः । चशब्दो वक्ष्यमाणेन सह समुच्चयार्थः । पूरिति
+> जात्येकवचनं । पुराण्यपि भवंतित्यर्थः । तथा नोऽस्माकमुर्वि पृथ्व्यपि बहुतरा
+> भवतु । त्वं तु तोकायापत्याय तनयाय पुत्राय । तोकशब्दोpपत्यसामान्य-
+> वचनः । तनयशब्दः पुत्रवचनः । शं सुखं योर्मिश्रयिता भव । यद्वा । रोगाणां
+> शमनं भयानां यावनं च भव । कुर्वित्यर्थः ॥
+
+*Gist:* The first lines give the ritual use (Āśvalāyana: in the wish-for-long-life offering, two *sviṣṭakṛt* yājyā mantras; with *pāhi naḥ* as the fourth anuvākyā; and as saṃyājyā). Then: O Agni, adorable, take us across the hard-to-cross sins by the highly honoured sacrificial means; let our town and wide land be abundant; be the giver of happiness to our offspring, or the remover of disease and fear.
+
+### Printed p. 280
+
+*Running head: [280 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū 189] (as supplied).*
+
+*[As supplied, the line १ प्रतिपदार्थ १ (*1 pratipadārtha 1*) with block marks stands where the Pratipadārtha label belongs; standard label inserted. The following lines carry block marks in the supplied text and are given as prose.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). नव्यः—स्तुत्यनागिद्दु (*navyaḥ—stutyanāgiddu*) (praiseworthy). आस्मान्—नम्मन्नु ! (*āsmān—nammannu !*) (us). स्वस्तिभिः—अत्यंत मंगळात्मकवाद यज्ञादिसाधनगळिंद (*svastibhiḥ—atyaṃta maṃgaḷātmakavāda yajñādisādhanagaḷiṃda*) (by the highly auspicious means such as sacrifice). दुर्गाणि — (साधारणवाद साधनगळिंद) दाटलु साध्यविल्लदिरुव पापगळिंद (*durgāṇi — (sādhāraṇavāda sādhanagaḷiṃda) dāṭalu sādhyavilladiruva pāpagaḷiṃda*) (from sins that cannot be crossed by ordinary means). अति पारय—दाटिसु (*ati pāraya—dāṭisu*) (take across). नः—नम्म (*naḥ—namma*) (our). पूः— पट्टणवु (*pūḥ— paṭṭaṇavu*) (town). पृथ्वी—अत्यंत विस्त्रतवादद्दागियू, उर्वी च—विस्त्रतवाद भूमियू कूड (*pṛthvī—atyaṃta vistratavādaddāgiyū, urvī ca—vistratavāda bhūmiyū kūḍa*) (very wide, and the wide earth too). बहुला—अधिकसंख्यातवागियू आगलि (*bahulā—adhikasaṃkhyātavāgiyū āgali*) (may it be abundant). तोकाय—नम्म प्रौत्रादिगळिगू (*tokāya—namma prautrādigaḷigū*) (to our grandchildren and the rest). तनयाय— पुत्ररिगू (*tanayāya— putrarigū*) (to our sons). शंयोः—सुखवन्नुंटुमाडुववनागि (*śaṃyoḥ—sukhavannuṃṭumāḍuvavanāgi*) (making happiness). अथवा शंयोः—रोगशमनवन्नू भय राहित्यवनू उंटुमाडुववनागि (*athavā śaṃyoḥ—rogaśamanavannū bhaya rāhityavanū uṃṭumāḍuvavanāgi*) (or: producing cure of disease and freedom from fear). भव—अगु (*bhava—agu*) (be).
+
+*[As supplied, the label line reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, being praised, take us across the hard sins by the highly auspicious means such as sacrifice. May our town be very wide, and the wide earth abundant. For all our sons, grandsons and the rest, be a producer of cure of disease and freedom from fear.
+
+**Printed English translation**
+
+Adorable Agni, convey us by the sacred acts (of worship), beyond all evil ways : may our city be spacious ; our land be extensive ; be the bestower of happiness upon our offspring, upon our sons (the print ends without a full stop at "sons")
+
+*[As supplied, the label line of the Special Topics reads विशेषयगळु: (*viśeṣayagaḷu:*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 2)**
+
+This ṛk अग्ने त्वं पाराय (*agne tvaṃ pārāya*) and the next ṛk are to be recited as *yājyā* mantras at the *sviṣṭakṛt* offering in the offering for one desiring long life, and the fourth ṛk of this sūkta, पाहिनो अग्ने (*pāhino agne*), as a *puronuvākyā* mantra, according to the Āśvalāyana Śrauta Sūtra rule पाहिनो अग्ने पायुभिरजस्रैरग्ने त्वं पाराया नव्यो अस्मानिति संयाज्ये (*pāhino agne pāyubhirajasrairagne tvaṃ pārāyā navyo asmāniti saṃyājye*); and it is said there that in the *svastyayana* too these ṛks are to be recited as *yājyā* mantras (आ. २-१० (*ā. 2-10*)).
+
+नव्य: (*navya:*) — नवतरः स्तुत्यो वा (*navataraḥ stutyo vā*). For the word *navya* Yāska's explanation is "newer" (नि. ६-९ (*ni. 6-9*)). In many places it is described that when kindling-sticks and the like are put into Agni he grows and is ever new. Sāyaṇa adds the sense स्तुत्यः (*stutyaḥ*), "praised". The word *navya* is used of Agni in many ṛks (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 277 (PDF 277). Done through printed p. 277 (Sukta 189 heading and Rik 1 done through printed English; Rik 1 Special Topics begun: rayi, deva; breaks off mid-sentence in the Nirukta note on deva); [?] on the rik-count numeral and the footnote sign
+**Progress note:** Done through printed p. 280 (PDF 280). Done through printed p. 280 (Sukta 189 Rik 1 complete; Rik 2 complete through printed English; Special Topics of Rik 2 begun, breaks off in the navya note)
