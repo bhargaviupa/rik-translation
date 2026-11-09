@@ -2835,6 +2835,137 @@ in this ṛk the adjective कृष्णादुदस्थादर्य�
 
 *[The Pada of Ṛk 10 is incomplete at the end of p. 94 and continues on the next page; the supplied text prints पथिव्यै (*pathivyai*) (without *ṛ*) for *pṛthivyai*, kept as supplied.]*
 
+### Printed p. 95
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 3] Ṛgveda-saṃhitā 95 (the print has "ಅ ೨ ಅ. ೫." as supplied). The window begins inside the Pada of Ṛk 10, continuing p. 94.*
+
+**Pada-pāṭha** (continued)
+
+> पातां । अवद्यात् । दुःइतात् । अभीके । पिता । माता । च । रक्षतां । अवरिभि: ॥ १० ॥
+
+> *pātāṃ | avadyāt | duḥitāt | abhīke | pitā | mātā | ca | rakṣatāṃ | avaribhi: ‖ 10 ‖*
+
+*[The supplied text reads अवरिभि: (*avaribhi:*) for the last word of this Pada, apparently for *avobhiḥ* (compare the Pratipadārtha below); kept as supplied. The supplied text repeats the verse-end as a second line ॥ ०० ॥ (*‖ 00 ‖*) (ordinary zeros in place of a number); noted, not part of the verse.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋतं दिव इति द्वे द्यावापृथिवीये पशौ पुरोडाशहविषोरनुवाक्ये ।
+> अग्नीषोमाविति खंडे सूत्रितं । ऋतं दिवे तदवोचं पृथिव्या इति द्वे । आ. ३-८ ।
+> इति ॥
+> सुमेधाः शोभनप्रज्ञोऽहं दिवे द्युदेवताय्कॆ प्रथिव्यै पृथिवीदेवताय्कॆ
+> तत्तत्प्रीतिकरमृतं स्तोत्रं प्रथमं । मुख्यनामैतत्।प्रतमं प्रकृष्टतममवोचं।
+> ब्रवीमि । किमर्थं । अभिश्रावायाभितः सर्वतः श्रवणायॆ । किंच पिता पालको
+> द्युलोको माता सस्यादेर्निमर्मात्रि पृथिवी चोभे अवद्यान्निंदिताद्दुःखप्रापका-
+> दंहसः सकाशात्सातां । रक्षतां । तथाभीके । अंतिकनामैतत् । समीप एवावोभि-
+> रभिमततर्पणै रक्षतां । पालयतां ॥
+
+*Gist:* These two ṛks are the offering-verses of the Heaven-and-Earth animal sacrifice. I of good understanding recite praise to them; may father Heaven and mother Earth guard us from blameworthy sin, near us.
+
+*[As supplied, the label line of the next section reads प्रतिपाद्य (*pratipādya*) (inside the bhāṣya block); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुमेधाः (*sumedhāḥ*) — I of excellent understanding. दिवे (*dive*) — to the deity Heaven. पृथिव्यै (*pṛthivyai*) — and to Earth. तत् (*tat*) — pleasing. प्रथमं (*prathamaṃ*) — most chief. ऋतं (*ṛtaṃ*) — the praise. अभिश्रावायॆ (*abhiśrāvāyè*) — in order to be heard everywhere. अवोचं (*avocaṃ*) — I recite. पाता (*pātā*) — the protecting deity Heaven. माता च (*mātā ca*) — and the world-making Earth. अवद्यात् (*avadyāt*) — from blameworthy. दुरितात् (*duritāt*) — sin. पातां (*pātāṃ*) — may (they) protect (us). अभीके (*abhīke*) — close to us. अवोभिः (*avobhiḥ*) — with acts of protection. रक्षतां (*rakṣatāṃ*) — may they protect.
+
+**भावार्थ (Bhāvārtha)**
+
+I of excellent understanding recite, so that it may be heard everywhere, praise that pleases and is of the highest rank, addressed to the deity Heaven and to Earth. May Heaven the protector and Earth the maker of the world protect us from blameworthy sin; and may they, staying close to us, protect us with their acts of protection.
+
+**Printed English translation**
+
+Endowed with understanding, I repeat to Heaven and Earth this initial praise, to be heard around: may paternal (heaven) and maternal (earth) preserve us from reprehensible iniquity; and ever nigb [sic] defend us with their protection.
+
+### Printed p. 96
+
+*Running head: [96 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185].*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This ṛk (ऋतं दिव (*ṛtaṃ diva*)) and the next ṛk (इदं द्यावापृथिवी (*idaṃ dyāvāpṛthivī*)) are, according to the Āśvalāyana Śrauta-sūtra, to be recited as the *puro-'nuvākyā* mantras addressed to Heaven and Earth when the puroḍāśa offerings are offered in the fire in the animal sacrifice; this is set out in the sūtra ऋतं दिवे तदवोचं पृथिव्या इतिद्वे (आ. ३-८) (*ṛtaṃ dive tadavocaṃ pṛthivyā itidve (ā. 3-8)*) of the section called अग्नीषोमौ (*agnīṣomau*) ("*ṛtaṃ dive tad avocaṃ pṛthivyā*: the two").
+
+ऋतं—ऋतशब्दक्कॆ, (*ṛtaṃ—ṛtaśabdakkè,*) — although the word *ṛta* has many meanings such as truth, sacrifice, law, here the bhāṣyakāra has taken it as "praise".
+
+प्रथमं—ई (*prathamaṃ—ī*) — for this word Yāska has given the derivation: प्रथम इति मुख्यनाम प्रतमो भवति (नि. २-२२) (*prathama iti mukhyanāma pratamo bhavati (ni. 2-22)*) — that is, the word *prathama* means "chief".
+
+In this ṛk the ṛṣi addresses Heaven and Earth as mother and father and prays that they protect him from the sin that causes sorrow. It is the usual custom to call Heaven the father and Earth the mother of the two.
+
+तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः । (*tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tatpitā dyauḥ |*)
+((ऋ. सं. १-८९-४) (*(ṛ. saṃ. 1-89-4)*))
+उरुव्यचसा महिनी असश्चता पिता माता च भुवनानि रक्षतः । (*uruvyacasā mahinī asaścatā pitā mātā ca bhuvanāni rakṣataḥ |*)
+((ऋ. सं. १-१६०-२) (*(ṛ. saṃ. 1-160-2)*))
+इदं द्यावापृथिवी सत्यमस्तु पितर्मातर्यदिहो पब्रुवे वां । (*idaṃ dyāvāpṛthivī satyamastu pitarmātaryadiho pabruve vāṃ |*)
+((ऋ. सं १-१८५-११) (*(ṛ. saṃ 1-185-11)*), as printed, without the full stop after "ಸಂ"; the verse reads पब्रुवे (*pabruve*) for *upabruve*)
+आ सुष्टुती नमसा वर्तयध्यै द्यावा वाजाय पृथिवी अमृध्रे । (*ā suṣṭutī namasā vartayadhyai dyāvā vājāya pṛthivī amṛdhre |*)
+पितामाता मधुवचाः सुहस्ता भरेभरे नो यशसावविष्टां ॥ (*pitāmātā madhuvacāḥ suhastā bharebhare no yaśasāvaviṣṭāṃ ‖*)
+((ऋ. सं. ५-४३-२) (*(ṛ. saṃ. 5-43-2)*))
+
+in these ṛks, and also in ऋ सं. ५-४३-१५ ; ६-५१-५ ; ६-७०-६ ; ६-७२-२ ; ८-९२-२ ; १०-५४-३ ; १०-८८-१५ ; अथ. वे २-२८-४ ; ३-२३-६ ; ६-४-३. ; ६-१२०-२ ; ८-७-२, १२-१-१० (*ṛ saṃ. 5-43-15 ; 6-51-5 ; 6-70-6 ; 6-72-2 ; 8-92-2 ; 10-54-3 ; 10-88-15 ; atha. ve 2-28-4 ; 3-23-6 ; 6-4-3. ; 6-120-2 ; 8-7-2, 12-1-10*) (the supplied text has "ಋ ಸಂ." in the first and "ಅಥ. ವೇ" for the Atharvaveda in the second group), and in other ṛks, Heaven and Earth are praised as father and mother.
+
+*[As supplied, the label line of the next section reads *[as supplied, the label line reads: व्यकरणक्रिया (without the asterisks of a label)]* (**[as supplied, the label line reads: vyakaraṇakriyā (without the asterisks of a label)]**); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+दिवे—ऊडिदं पदादि-(पा. सू. ६-१-१७१) (*dive—ūḍidaṃ padādi-(pā. sū. 6-1-171)*) (the sūtra as supplied, "Pā. Sū." with its number): the dative ending takes the acute. अवोचम्—ब्रूञ् (*avocam—brūñ*) (root अवोचम्—ब्रूञ् (*avocam—brūñ*) "to speak clearly"): by छंदसि लुज् लज् लिटः (*chaṃdasi luj laj liṭaḥ*) the *luṅ*, *laṅ* and *liṭ* in the Veda; the *laṅ* in the sense of the present; first person singular; the verb-*nighāta* accent.
+
+### Printed p. 97
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 3.] Ṛgveda-saṃhitā 97 (as supplied).*
+
+अभिश्रावाय—श्रु (*abhiśrāvāya—śru*) (root अभिश्रावाय—श्रु (*abhiśrāvāya—śru*) "to hear"): the suffix *ac* as in *pacādi*; by सार्वधातु- कार्धधातुकयोः (*sārvadhātu- kārdhadhātukayoḥ*) guṇa of *u* and the substitute *ava*; by श्रव एव श्रावः प्रज्ञादिभ्यश्च (पा सू. ५-४-३८) (*śrava eva śrāvaḥ prajñādibhyaśca (pā sū. 5-4-38)*) (Pā. Sū. 5-4-38) the suffix *aṇ* in the own sense (*śrava eva śrāvaḥ*); by यस्यॆति च (*yasyèti ca*) the loss of *a*; by अतउपधायाः (पा. सू. ७-२-११६) (*ataupadhāyāḥ (pā. sū. 7-2-116)*) (Pā. Sū. 7-2-116) vṛddhi of the penultimate; by the suffix accent the last syllable is acute; dative singular. सुमेधाः—शोभनं (*sumedhāḥ—śobhanaṃ*) ("one whose understanding is good"): by नञ् सुभ्याम् (पा. सू. ६-२-१७२) (*nañ subhyām (pā. sū. 6-2-172)*) (Pā. Sū. 6-2-172) the last syllable of the later member is acute. पाताम्—पा (*pātām—pā*) (root पाताम्—पा (*pātām—pā*) "to protect"): imperative, second person dual; because it stands at the beginning of the pāda there is no *nighāta*; the suffix accent, last syllable acute. अवद्यात्—पद (*avadyāt—pada*) (root अवद्यात्—पद (*avadyāt—pada*) "to speak"): when *nañ* is the upapada, by अवद्य पण्य वर्यागर्ह्य — (पा सू ३-१-१०१) (*avadya paṇya varyāgarhya — (pā sū 3-1-101)*) (Pā. Sū. 3-1-101) the suffix *yat* in the sense of blame, irregularly formed.
+
+*[Stray lines in the supplied text: ":0:" and "ಕಂಠಪಾಠ।"; the grammar page ends here.]*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+*[In the supplied text this Saṃhitā, with its Pada, was a picture. It was viewed; the machine text below differs from the picture in one place, ನಾಂ for the picture's ವಾಂ (the word *vām*), which has been corrected from the picture, here and in the Pada; otherwise it agrees. The Saṃhitā and Pada lines were joined.]*
+
+> इ॒दं द्या॑वापृथिवी स॒त्यम॑स्तु॒ पित॒र्मात॒र्यदि॒होप॑ब्रु॒वे वां॑ ।
+> भू॒तं दे॒वाना॑मव॒मे अवो॑भिर्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> इदं । द्यावापृथिवी इति । सत्यं । अस्तु । पितः । मातः । यत् । इह । उपब्रुवे । वां ।
+> भूतं । देवानां । अवमे इति । अवःभिः । विद्याम । इषं । वृजनं । जीरदानुं ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे द्यावापृथिवी द्यावापृथिव्यौ इदमस्माभिः क्रियमाणं स्तोत्रं सत्यमस्तु ।
+> अवितथं भवतु । फलवद्भवत्वित्यर्थः । इदमित्युक्तं किं तदित्याह । हे पितर्द्यौः हे
+
+*[Stray line in the supplied text: "[7] Vol. 14"; from here the bhāṣya continues on printed p. 98, whose header is printed as supplied.]*
+
+### Printed p. 98
+
+*Running head: [98 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185] (the print has "ಸಾಯಣಭಾವ್ಯಸಹಿತಾ" as supplied).*
+
+> मातः पृथिवि नां युवां प्रतीहास्मिन्यज्ञे यत्सोत्रमुपब्रुवे उपेत्य ब्रवीमि
+> तत्सत्यमस्तु । देवानां स्तोत्थणामस्माकमवमे । अंतिकनामैतत् । नित्यसंनिहिते
+> युवामवोभिस्तर्पणैर्युक्ते भूतं । भवतं । अवशिष्टं गतं ॥
+
+*Gist:* May this praise be true and fruitful; O father Heaven and mother Earth, be near us with your protections, so that we gain food, strength and long life.
+
+*(The bhāṣya has "ನಾಂ ಯುವಾಂ" where "ವಾಂ" would be expected; kept as supplied, नां युवां (*nāṃ yuvāṃ*) not corrected as the picture covers only the Saṃhitā and Pada.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पितः (*pitaḥ*) — father by nature. मातः (*mātaḥ*) — mother by nature. द्यावापृथिवी (*dyāvāpṛthivī*) — O Heaven and Earth. वां (*vāṃ*) — (addressed) to you both. इह (*iha*) — in this sacrifice. यत् (*yat*) — which praise. उप- ब्रुवे (*upa- bruve*) — (I) approach and recite. इदं (*idaṃ*) — that praise of mine. सत्यं (*satyaṃ*) — may it be. अस्तु (*astu*) — true, giving fruit. देवानां (*devānāṃ*) — for us who praise. अवमे (*avame*) — you two who are near. अवोभिः (*avobhiḥ*) — with acts of protection. भूतं (*bhūtaṃ*) — be. इषं (*iṣaṃ*) — food. वृजनं (*vṛjanaṃ*) — strength. जीरदानुं (*jīradānuṃ*) — long life. विद्याम (*vidyāma*) — may we obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Heaven and Earth, who are mother and father of the whole world: may the praise we recite to you both in this sacrifice give a true fruit. Remaining near us who praise, may you both be joined with acts of protection. By your favour may we obtain food, strength and long life.
+
+**Printed English translation**
+
+May this (hymn), Heaven and Earth, be successful; (the hymn) which, Father and Mother, I repeat to you both on this occasion; be ever with your protection in the proximity of those who praise you, that we may obtain food, strength, and long life.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the ṛṣi prays to the gods that all the acts of protection and the like described in the praise he has recited may come true, that the presence of the gods may be given, and that food, strength and long life may come; and so he closes the sūkta.
+
+पितः मातः (*pitaḥ mātaḥ*) — as in the previous ṛk, in this ṛk also he prays to Heaven and Earth, with devotion, by the respectful and natural words पितः मातः (*pitaḥ mātaḥ*) (parents).
+
 ---
 
-**Progress note:** Done through printed p. 94 (PDF 94). Done through printed p. 94 (Sukta 185 Rk 9 complete; Rk 10 Samhita done, Pada incomplete at end of p. 94)
+**Progress note:** Done through printed p. 97 (PDF 97). Done through printed p. 97, plus the text of printed p. 98 included in the supplied window (Sukta 185 Rk 11 through its Special Topics; no p. 98 page marker in the supplied text)
