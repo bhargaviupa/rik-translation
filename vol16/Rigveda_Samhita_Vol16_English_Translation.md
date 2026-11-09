@@ -1967,6 +1967,102 @@ smears the top part of the yūpa with ghee (clarified butter). Since it has been
 
 *[Pages 68–70 contain no Ṛk and no grammar page; the passage continues on the next page.]*
 
+### Printed p. 71
+
+*[Running head, p. 71: [A. 3. A. 1. Va. 3.] Ṛgvedasaṃhitā 71] (printed "ಆ ೩-" for the Maṇḍala numeral, as supplied [sic?])*
+
+(Pīṭhikā on the yūpa, continued; Brāhmaṇa passages are given only by their opening words, in the three-layer form.)
+
+यदि कामयेत वर्षुकः पर्जन्यः स्यादित्यवाजीमवो हेद्वृष्टिमेव (*yadi kāmayeta varṣukaḥ parjanyaḥ syādityavājīmavo hedvṛṣṭimeva*) — If he desires that Parjanya should rain, the darbha rope should be wound round the lower part of the yūpa; by that Parjanya is made to rain. If he does not wish it to rain (the text prints "ಕುಯ್ಯಬಾರದೆಂದು", evidently "ಹುಯ್ಯ-" [sic?]), the darbha should be wound round the upper part; then rain does not come.
+
+पितृणां निखातं मनुष्याणामूर्ध्वं निखातादा रशनाया ओषधीनाग्ं रशना (*pitṛṇāṃ nikhātaṃ manuṣyāṇāmūrdhvaṃ nikhātādā raśanāyā oṣadhīnāgṃ raśanā*) — The author supports the view that the yūpa belongs to all the deities. The part of the yūpa planted (sunk) in the pit dug in the earth, that is, below ground level, belongs to the Pitṛs; the part from ground level up to where the rope (raśanā) is wound belongs to men. The part where the rope is wound belongs to the herbs (oṣadhi); from the rope up to the top, that is, up to the caṣāla (the ring at the top), belongs to the Viśvedevas; the caṣāla-place, that is, the upper end (tip), belongs to Indra; the remainder belongs to the Sādhyas. Since the parts of the yūpa thus belong to various deities, by planting the yūpa all the deities are satisfied.
+
+यज्ञेन वै देवाः सुवर्गं लोकमायन्तेऽमन्यंत मनुष्या (*yajñena vai devāḥ suvargaṃ lokamāyante 'manyaṃta manuṣyā*) — The gods went to the heavenly world by sacrifice. While going they thought that men too would perform sacrifice, follow them to heaven and become their equals there; so, to prevent their coming, they planted the yūpa. Since men did not know its secret, thinking "it is not possible for them to go to heaven by sacrifice", the gods thus planted the yūpa and went to heaven; the yūpa was planted only to keep men from heaven. For this reason the word derived from a root meaning "to hold back" denotes the yūpa, and this became the cause of the name. But the seers found the means of going to the heavenly world by that yūpa-post. Since it is possible to go to heaven by sacrificing with this yūpa, the yūpa is planted in the sacrifice for the attainment of the heavenly world. (The text prints "ಯೂಪವವನ್ನು" once for "ಯೂಪವನ್ನು" [sic].)
+
+पुरस्तान्मिनोति पुरस्ताद्भि यज्ञस्य प्रज्ञायतेऽप्रज्ञातग्ं हि तद्यदतिपन्न (*purastānminoti purastādbhi yajñasya prajñāyate 'prajñātagṃ hi tadyadatipanna*) — The yūpa is to be planted in front of the Āhavanīya fire. For if it is in front, the manner of performing the sacrifice is known; if it is not in front, it is not known. In the world, when people act in a matter they do not understand, it is customary to say "this should not have been done thus"; (continued on the next page).
+
+### Printed p. 72
+
+*[Running head, p. 72: 72 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+Therefore, so that the manner of performing the sacrifice may not be lost to knowledge and the rite spoiled, the yūpa should be planted just in front of the Āhavanīya fire (facing east). Done thus, the matter of the sacrifice is rightly understood and goes through completely. (The text prints "ಕಾರ್ಯವುಕೆಟ್ಟು" run together [sic].)
+
+साध्या वै देवा यज्ञमत्यमन्यंत (*sādhyā vai devā yajñamatyamanyaṃta*) — The deities called Sādhyas misunderstood the sacrifice. That is: not understanding what was said earlier, that in the yūpa the parts of the Pitṛs, men, herbs, Viśvedevas and Indra are excluded and the remaining part belongs to the Sādhyas, they wrongly took everything to be theirs; hence they did not obtain the sacrifice (the share). For them, apart from the parts assigned in the yūpa to the other deities, only the surplus part, that is, the portion above the caṣāla, was obtained. That is their share. With that the sacrificer satisfies them.
+
+देवा वै सग्स् स्थिते सोमे (*devā vai sags sthite some*) — After finishing the Soma sacrifice they were performing, the gods threw into the fire the sruks (the wooden ladles used for offering) and the yūpa ("ಸ್ವಹಿ" in the text, apparently a misprint [sic?]). Afterwards they realised that what they had done was wrong and that the sacrifice was spoiled. Then they saw the prastara (the bundle of darbha) laid down for placing the sruks, and the svaru (the first chip or splinter that falls when the yūpa is cut), at the top of the yūpa. They understood that if the prastara is offered in place of the sruks and the svaru or first chip in place of the yūpa, the sacrifice is not broken. Therefore men, when performing a sacrifice, so that the sacrifice may not be lost, put the prastara in the fire as the substitute for the sruks, and offer the svaru in place of the yūpa (the text prints "ಯೂಷಕ್ಕೆ" and "ಸ್ವರನ್ನು" [sic]). Thus the sacrifice is completed without obstruction.
+
+The rite of preparing the yūpa (printed "ಯೂಹಸಂಸ್ಕರಣವಿಧಿಯು", evidently "ಯೂಪ-" [sic]) is concluded.
+
+### Printed p. 73
+
+*[The supplied text has no running head for p. 73; its text is merged into p. 72. The marker was inserted before the heading of the eighth sūkta (structure only; see repair_log.txt).]*
+
+**The eighth sūkta** (ಎಂಟನೆಯ ಸೂಕ್ತವು)
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> अंजंतीत्यष्टमं वैश्वामित्रमेकादशर्चं सूक्तं । अश्रानुक्रमणिका ।
+> अंजंति यूपस्तुतिः षष्ठ्या द्याभिर्बहवोऽन्या व्रश्चिन्यष्टमी वैश्वदेवी वा तृतीया-
+> सप्तम्यावनुष्टुभाविति । उच्छयस्व वनस्पते ये वृक्षास इत्येते तृतीयासप्तम्या-
+> वनुष्टुभौ शिष्टास्त्रिष्टुभः । कृत्स्नस्य सूक्तस्य यूपो देवता । वनस्पते शतवल्य इत्य-
+> स्याश्विन्नयूपस्य मूलभूतः स्थाणुर्देवता । आदित्या रुद्रा वसव इत्यष्टमी वैश्व-
+> देवी यौपी ना : अत्र षष्ठ्यादीनां बहवो यूपा देवता बहूनां स्तूय-
+> मानत्वात् । शिष्टा एकयूपदेवत्याः ॥ यूपांजनेऽञ्छंति त्वामित्येषा । प्रेषितो
+> यूपायाज्यमानायांजंति त्वामध्वरे देवयंतः । आ. ३-१ । इति ॥ यूपो-
+> च्छयणे समिद्धस्यॆति द्वे ऋचौ ! उच्छयस्व वनस्पते समिद्धस्य श्रयमाणः पुर-
+> स्तात् । आ. ३-१ । इति सूत्रितत्वात् ॥ यूपपरिव्ययणे युवा सुवासाः परिवीत
+> आगादिति परिदध्यात् । आ. ३-१ । इति सूत्रितत्वात् ॥ यूपोच्छयणे जातो
+> जायते सुदिनत्ते आह्नामित्यर्धर्च आरमेदिति सूत्रितं । यूपैकादशिन्यामन्यत्रापि
+> बहुयूपयुक्ते कर्मणि यान्वो नर इत्यादिभिः षड्भिः पंचभिर्वा संस्तुयात् ।
+> संस्तुयादनभिहिंकृत्य यान्वो नरो देवयंतो नि मिम्युरिति षड्भिः पंच-
+> भिर्वा । आ. ३-१ । इति ॥
+
+> *aṃjaṃtītyaṣṭamaṃ vaiśvāmitramekādaśarcaṃ sūktaṃ | aśrānukramaṇikā |*
+> *aṃjaṃti yūpastutiḥ ṣaṣṭhyā dyābhirbahavo 'nyā vraścinyaṣṭamī vaiśvadevī vā tṛtīyā-*
+> *saptamyāvanuṣṭubhāviti | ucchayasva vanaspate ye vṛkṣāsa ityete tṛtīyāsaptamyā-*
+> *vanuṣṭubhau śiṣṭāstriṣṭubhaḥ | kṛtsnasya sūktasya yūpo devatā | vanaspate śatavalya itya-*
+> *syāśvinnayūpasya mūlabhūtaḥ sthāṇurdevatā | ādityā rudrā vasava ityaṣṭamī vaiśva-*
+> *devī yaupī nā : atra ṣaṣṭhyādīnāṃ bahavo yūpā devatā bahūnāṃ stūya-*
+> *mānatvāt | śiṣṭā ekayūpadevatyāḥ ‖ yūpāṃjane 'ñchaṃti tvāmityeṣā | preṣito*
+> *yūpāyājyamānāyāṃjaṃti tvāmadhvare devayaṃtaḥ | ā. 3-1 | iti ‖ yūpo-*
+> *cchayaṇe samiddhasyèti dve ṛcau ! ucchayasva vanaspate samiddhasya śrayamāṇaḥ pura-*
+> *stāt | ā. 3-1 | iti sūtritatvāt ‖ yūpaparivyayaṇe yuvā suvāsāḥ parivīta*
+> *āgāditi paridadhyāt | ā. 3-1 | iti sūtritatvāt ‖ yūpocchayaṇe jāto*
+> *jāyate sudinatte āhnāmityardharca āramediti sūtritaṃ | yūpaikādaśinyāmanyatrāpi*
+> *bahuyūpayukte karmaṇi yānvo nara ityādibhiḥ ṣaḍbhiḥ paṃcabhirvā saṃstuyāt |*
+> *saṃstuyādanabhihiṃkṛtya yānvo naro devayaṃto ni mimyuriti ṣaḍbhiḥ paṃca-*
+> *bhirvā | ā. 3-1 | iti ‖*
+
+**Anuvāda (Kannada).** This sūkta, beginning अंजंति (*aṃjaṃti*), is the eighth sūkta in the third maṇḍala. It has eleven ṛks. Viśvāmitra is the seer of this sūkta. In the Anukramaṇikā it is said: अंजंति यूपस्तुतिः षष्ठ्या द्याभिर्बहवोंत्या वश्चिन्यष्टमी वैश्वदेवी वा तृतीया (*aṃjaṃti yūpastutiḥ ṣaṣṭhyā dyābhirbahavoṃtyā vaścinyaṣṭamī vaiśvadevī vā tṛtīyā*) (continued सप्तम्यावनुष्टुभाविति (*saptamyāvanuṣṭubhāviti*)). The ṛk उच्छयस्व वनस्पते (*ucchayasva vanaspate*) and the third and seventh ṛks, the one beginning ये वृक्षासः (*ye vṛkṣāsaḥ*) (the text prints "ಯೇ ವೃ-ಕ್ಷಾಸಃ ಎಂಬ ಮೂರು ಮತ್ತು ಏಳನೆಯ"), are in the Anuṣṭubh metre; the remaining ṛks are in Triṣṭubh. For the whole sūkta the yūpa is the deity. Because the ṛk beginning वनस्पते शतवल्क (*vanaspate śatavalka*) praises, after the yūpa has been cut, the base of the tree standing in the earth, that ṛk has as deity the mūlabhūta sthāṇu (the stump). The eighth ṛk has the Ādityas, Rudras and Vasus as deities, or else the yūpa. For, as the statement षष्ठ्यादीनां बहवो (*ṣaṣṭhyādīnāṃ bahavo*) ... यूपा देवता बहूनां (*yūpā devatā bahūnāṃ*) says, the sixth, seventh, eighth, ninth and tenth ṛks (printed ೬, ೭, ೮, ೯, ೧೦) have many yūpas as deities. The remaining ṛks are addressed to a single yūpa. While the yūpa is being anointed with ghee ("ಧೃತ" in the text for "ಘೃತ" [sic?]) the first ṛk beginning अंजंति त्वां (*aṃjaṃti tvāṃ*) is to be recited, as directed by the sūtra of the Āśvalāyana Śrauta-sūtra प्रेषितो यूपायाज्यमानायांजंति (*preṣito yūpāyājyamānāyāṃjaṃti*) (Ā. 3-1, as printed). When the yūpa is raised and set up, the ṛk समिद्धस्य (*samiddhasya*) (the text prints "ಸಮಿದ್ಧಸ್ಯ ತ್ರಯಮಾಣಃ" [sic?]) and the ṛk उच्छयस्व वनस्पते (*ucchayasva vanaspate*) are also to be recited, as the Āśvalāyana Śrauta-sūtra (continued on the next page).
+
+(A stray "10" stands at the end of this page in the supplied text; left as supplied.)
+
+### Printed p. 74
+
+*[Running head, p. 74: 74 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+explains with the sūtra उच्छयस्व वनस्पते समिद्धस्य श्रयमाणः पुरस्तात् (*ucchayasva vanaspate samiddhasya śrayamāṇaḥ purastāt*) (Ā. 3-1, as printed). At the time of clothing the yūpa the ṛk युवा सुवासाः परिवीत आगात् (*yuvā suvāsāḥ parivīta āgāt*) is to be recited, as stated in the same sūtra (Ā. 3-1). When the yūpa is raised and planted, only half of the ṛk जातो जायते (*jāto jāyate*) (the text: "ಸುದಿನತ್ವೇ ಅಹ್ನಾಂ") is to be recited and then stopped, so the sūtra says. In the rite called Yūpaikādaśinī and in other rites in which many yūpas are to be planted, the yūpas are to be praised with five or six ṛks beginning यान्नो नरो देवयंतो नि मिम्युः (*yānno naro devayaṃto ni mimyuḥ*) (the Sanskrit of the bhāṣya above has "ಯಾನ್ವೋ"; the Anuvāda prints "ಯಾನ್ನೋ" [sic?]), as directed by the Āśvalāyana Śrauta-sūtra संस्तु यादनभिहिंकृत्य (*saṃstu yādanabhihiṃkṛtya*) ... षड्भिः पंचभिर्वा (*ṣaḍbhiḥ paṃcabhirvā*) (Ā. 3-1).
+
+**Sūkta data (as printed).** Sūkta 8. Maṇḍala 3; Anuvāka 1; Sūkta 8. Aṣṭaka 3; Adhyāya 1; Varga 3, 4. Number of ṛks in the sūkta: 11. Ṛṣi: Viśvāmitra. Devatā: ṛks 1–5 Yūpas; 6, 7, 9, 10 Yūpas; 8 Viśvedevas or Yūpas; 11 Sthāṇu, the base of the broken yūpa (bhinnayūpasya mūlabhūtataḥ sthāṇuḥ). Chandas: 1, 2, 4–6, 8–11 Triṣṭubh; 3, 7 Anuṣṭubh.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अं॒जंति॒ त्वा म॑ध्व॒रे दे॑व॒यंतो॒ वन॑स्पते॒ मधु॑ना॒ दैव्ये॑न ।
+> यदू॒र्ध्वस्तिष्ठा॒ द्रवि॑णे॒ह ध॑त्ता॒द्यद्वा॒ क्षयो॑ मा॒तुर॒स्या उ॒-॑
+> पस्थे ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> अंजंति । त्वां । अध्वरे । देवयंतः । वनस्पते । मधुना । दैव्येन ।
+> यत् । ऊर्ध्वः । तिष्ठाः । द्रविणा । इह । धत्तात् । यत् । वा । क्षयः । मातुः ।
+> अस्याः । उपस्थे ॥ १ ॥
+
+*[The page ends with the Pada of Ṛk 1; the commentary on this Ṛk continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 70 (PDF 70). Done through printed p. 70. Sukta 8 Pithika: yupa-prokshana, pit, chip, anointing, raising, orientation and raśana passages (Tai.Sam. 6-3-4 explanation); Rk 1 not started
+**Progress note:** Done through printed p. 74 (PDF 74). Sukta 8 Pithika ends (yupa Brahmana passages, p. 71-72); Sukta 8 Sayana introduction and Anuvada (p. 73-74); Rk 1 Samhita and Pada; commentary on Rk 1 not started
