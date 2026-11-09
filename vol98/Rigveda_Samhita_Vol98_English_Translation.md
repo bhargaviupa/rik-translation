@@ -13394,6 +13394,116 @@ Amongst men our praise, Agni, celebrtaes [sic] you, who are first amongst the gr
 
 *(The supplied text ends here, at the end of the printed English of Ṛk 9 on p. 446; the Special Topics of Ṛk 9 follow in the next window.)*
 
+### Printed p. 447
+
+*Running head (as supplied): [अ. २. अ ५. व. २१] ऋग्वेदसंहिता 447 (*[a. 2. a 5. va. 21] ṛgvedasaṃhitā 447*).*
+
+*[As supplied, the label line of the Special Topics reads विशेषविसय (*viśeṣavisaya*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 9)**
+
+बृहद्दिवेषु अमृतेषु पूर्व्य (*bṛhaddiveṣu amṛteṣu pūrvya*): Agni is addressed as one very ancient among the gods who shine with much radiance.
+
+नः धीः पीपाय (*naḥ dhīḥ pīpāya*): अस्मदीया बुद्धिः स्तुतिः कर्म वा एवं व्यायॆयॆति । यद्वा (मानुषा) मनुष्यान् धीः त्वदीया बुद्धिः कर्म वा स्वाययॆयॆतु । (*asmadīyā buddhiḥ stutiḥ karma vā evaṃ vyāyèyèti | yadvā (mānuṣā) manuṣyān dhīḥ tvadīyā buddhiḥ karma vā svāyayèyètu |*) (as printed; the printed forms of the verb differ from those of the bhāṣya) (our intelligence, praise or rite thus makes grow; or, your intelligence or rite makes human beings grow). Two kinds of meaning are explained for this sentence. Explaining the word for "intelligence" as praise or rite, the one meaning is that our praise or rite, of us the sacrificers among human beings, grows likewise in regard to Agni. In the second meaning it is explained that the intelligence or rite of Agni, who accepts worship, makes the sacrificers grow.
+
+त्वदीया धीः वृजनेषु कारवे दुहाना धेनुः (*tvadīyā dhīḥ vṛjaneṣu kārave duhānā dhenuḥ*): by this sentence it is described that the intelligence of Agni is a nourisher or protector, like a cow that gives milk, toward the sacrificers who praise at the sacrifices. The same view is stated in इषिणि त्मना शतिनं पुरुरूपं (*iṣiṇi tmanā śatinaṃ pururūpaṃ*)—अत्मनैव एषणायां सत्यां अपरिमितसंख्याकं गवाश्वादिरूपेण नानारूपं धनसमूहं दुहाना भवति । (*atmanaiva eṣaṇāyāṃ satyāṃ aparimitasaṃkhyākaṃ gavāśvādirūpeṇa nānārūpaṃ dhanasamūhaṃ duhānā bhavati |*) (as printed) (by himself, desire being there, he yields a mass of wealth of many forms, of unmeasured number, in the form of cows, horses and the like). It is explained at length that Agni's desire for the good of the sacrificers consists in giving many kinds of wealth, such as cows and horses, by the thousand. Although there is no word of comparison here, the meaning is explained for the word for "cow" as धेनुरिव (*dhenuriva*), "like a cow".
+
+#### Ṛk 10
+
+*[As supplied, the label line of the Saṃhitā of Ṛk 10 reads संबंधिसि (*saṃbaṃdhisi*); standard label inserted. The Saṃhitā, printed as plain lines, is given as a quoted block and its split lines are joined. Two readings of the Saṃhitā and one of the Pada are marked with a query, as they differ between the Saṃhitā and the Pada.]*
+
+**॥ संहितापाठः ॥**
+
+> व॒यम॑ग्ने॒ अर्व॑ता वा सु॒वीर्यं॒ ब्रह्म॑णा वा चितयेमा॒ [?] जना॒ अति॑ ।
+> अ॒स्माकं॑ द्यु॒म्नमधि॒ पंच॑ कृ॒ष्टिषू॒च्चा स्व१॒॑र्ण शु॑शुचीत दु॒ष्टरं॑ [?] ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> वयं । अग्ने । अर्वता । वा । सुवीर्यं । ब्रह्मणा । वा । चितॆयेम [?] । जनान् । अति ।
+
+> *vayaṃ | agne | arvatā | vā | suvīryaṃ | brahmaṇā | vā | citèyema [?] | janān | ati |*
+
+### Printed p. 448
+
+*Running head (as supplied): [448 सायणभाष्यसहिता [मं. २ अ. १. सू. २] (*[448 sāyaṇabhāṣyasahitā [maṃ. 2 a. 1. sū. 2]*).*
+
+*(Continuation of the Pada of Ṛk 10, the second line of the Pada, at the head of the page.)*
+
+> अस्माकं । द्युम्नं । अधि । पंच । कृष्टिषु । उच्चा । स्वः । न । शुशुचीत । दुस्तरं ॥१०॥
+
+> *asmākaṃ | dyumnaṃ | adhi | paṃca | kṛṣṭiṣu | uccā | svaḥ | na | śuśucīta | dustaraṃ ‖10‖*
+
+*[As supplied, the label line of the bhāṣya reads साहित्यभाष्यं (*sāhityabhāṣyaṃ*), inside the Pada block; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने वयं यजमानाः सुवीर्यं शोभनसामर्थ्येतं यथा
+> तथार्वता वा रणकुशलेनाश्वेन ॥ वाशब्दश्चार्थे । ब्रह्मणा वान्नेन च त्वद्दत्तेन जनान-
+> स्मत्समानानति चितयेम । अतिक्रम्य ज्ञायेमहि ॥ कर्मणि कर्तृप्रत्ययः ॥ यद्वा त्व-
+> द्दत्तेनाश्वेनान्नेन च सुवीर्यं चितयेम । प्रकाशयेम । तदर्थमस्माकं पंच
+> पंचसु कृष्णिषु जनेषु निषादपंचमेषु चतुर्षु वर्णेषूच्चा उच्चैरतिप्रभूतं
+> दुस्तरमन्येनाप्राप्तं द्युम्नं धनं स्वर्ण सूर्य इवाधिकं शुशुचीत । दीप्यतां ।
+> अधीत्ययमनर्थको ना ॥
+
+*Gist:* May we, with Agni's horse and food, surpass our equals, and may our wealth shine like the sun among the five peoples.
+
+*(The bhāṣya contains short grammatical remarks on the particle and on the active ending used for a passive sense; they are transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). वयं—यजमानराद नावु (*vayaṃ—yajamānarāda nāvu*) (we, the sacrificers). सुवीर्यं—श्रेष्ठवाद सामर्थ्य दिंदॊडगूडिरुवंतॆ माडतक्क (*suvīryaṃ—śreṣṭhavāda sāmarthya diṃdòḍagūḍiruvaṃtè māḍatakka*) (that which makes us possessed of excellent strength (the word is divided by a line break)). अर्वता वा (निन्निंद दत्तवाद) अश्वदिंदलू (*arvatā vā (ninniṃda dattavāda) aśvadiṃdalū*) (by the horse (given by you) also). ब्रह्मणा वा— अन्नदिंदलू (*brahmaṇā vā— annadiṃdalū*) (by food also). जनान्—नम्म सुत्तलू इरतक्क जनरन्नु (*janān—namma suttalū iratakka janarannu*) (the people around us). अति चितयेम—मीरिसि प्रकाशिसु वंतागलि (*ati citayema—mīrisi prakāśisu vaṃtāgali*) (may we shine surpassing (the word is divided by a line break)). अस्माकं—नम्म (*asmākaṃ—namma*) (our). उच्चा—अतिप्रभूतवादुदू (*uccā—atiprabhūtavādudū*) (very abundant). दुस्तरं—इतररिंद पडॆयलु साध्यविल्लदुदू आद (*dustaraṃ—itarariṃda paḍèyalu sādhyavilladudū āda*) (that which others cannot obtain). द्युम्नं—धनवु (*dyumnaṃ—dhanavu*) (wealth). पंच कृष्णिषु—निषादादि पंचवर्णद जनर नडुवॆ (*paṃca kṛṣṇiṣu—niṣādādi paṃcavarṇada janara naḍuvè*) (among the people of the five classes, the Niṣādas and others (printed "kṛṣṇiṣu")). स्वर्ण—सूर्यनंतॆ (*svarṇa—sūryanaṃtè*) (like the sun). शुशुचीत—प्रकाशिसलि (*śuśucīta—prakāśisali*) (may it shine).
+
+*[As supplied, the label line of the Bhāvārtha reads भजनार्ध (*bhajanārdha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, may we sacrificers, through the horse that makes us possessed of excellent strength and is given by you, and through food, shine surpassing the people around us. May our very abundant wealth, which others cannot obtain, shine like the sun among the people of the five classes, the Niṣādas and others.
+
+*[As supplied, the label line of the printed English reads English Trnslation (*English Trnslation*); standard label inserted.]*
+
+**Printed English translation**
+
+May we manifest vigour among other men, Agni, through the steed and the food (which you have given) : and may our unsurpassed wealth shine like the sun over (that of) the five clases [sic] of beings.
+
+*(The printed English reads "clases" [sic].)*
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 10)**
+
+वयं अर्वता ना ब्रह्मणा वा जर्ना अति चितयेम (*vayaṃ arvatā nā brahmaṇā vā jarnā ati citayema*) (as printed): two kinds of meaning are given for this sentence. In the first meaning: वयं यजमानाः अरणकुशलेन अश्वेन त्वद्द- (*vayaṃ yajamānāḥ araṇakuśalena aśvena tvadda-*) (the word is divided by the page break, with its hyphen)
+
+### Printed p. 449
+
+*Running head (as supplied): [अ. २. अ. ५. व. २१ ] ऋग्वेदसंहिता 419 (*[a. 2. a. 5. va. 21 ] ṛgvedasaṃhitā 419*) (as printed; the page number is a misprint for 449).*
+
+तेन अन्नेन च अस्मत्समानान् अतिक्रम्य ज्ञायेमहि (*tena annena ca asmatsamānān atikramya jñāyemahi*): we, the sacrificers, shall be known as surpassing those who are our equals, even by the horse and other wealth granted by Agni, which moves swiftly, and by food: such is the purport. In the second meaning: यद्वा त्वद्दत्तेनान्नेन च सुवीर्यं प्रकाशयेम (*yadvā tvaddattenānnena ca suvīryaṃ prakāśayema*): the grace of Agni is described: even through the horses and the food granted by Agni, we, the sacrificers, shall also be powerful.
+
+पंच कृष्णिषु (*paṃca kṛṣṇiṣu*) means the five peoples. Some say that there are five kinds of people: Gandharvas, Pitṛs, gods, Asuras and Rākṣasas. The opinion of Upamanyu and others is that the five kinds are the four castes beginning with the Brāhmaṇas, together with the people of the hunter tribe called Niṣāda (Sāyaṇa has approved this; the print misspells his name). The Nairuktakāras say that the name Niṣāda means those who kill animals, or that they are called Niṣādas because sin is full in them. Besides, at that time there may have been five main tribes (tribes, as printed in English). The poet may have said पंच कृष्णिषु (*paṃca kṛṣṇiṣu*) with this view in mind. Anyhow, it is clear that even in the time of Yāska, the Nirukta writer, there was a difference of opinion on this point.
+
+#### Ṛk 11
+
+*[The Saṃhitā lines are joined. Two readings of the Saṃhitā are marked with a query, as they differ from the Pada.]*
+
+**॥ संहितापाठः ॥**
+
+> स नो॑ बोधि सहस्य प्र॒शंस्क्यो॒ [?] यस्मि॑न्तुजा॒ता [?] इ॒षयं॑त सू॒रयः॑ ।
+> यम॑ग्ने य॒ज्ञमु॑प॒यंति॑ वा॒जिनो॒ नित्ये॑ तो॒के दी॑दि॒वांसं॒ स्वे दमे॑ ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । नः । बोधि । सहस्य । प्रशंस्यः । यस्मिन् । सुजाताः । इषयंत । सूरयः ।
+> यं । अग्ने । यज्ञं । उपयंति । वाजिनः । नित्ये । तोके । दीदिवांसं । स्वे । दमे ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने सहस्य शत्रूणामभिभवितर्बलप्रभव ना प्रशंस्यः स्तुत्यः स त्वं
+> नोऽस्मदीयं स्तोत्रादिकं बोधि । बुध्यस्व । स इत्युक्तं क इत्याह । यस्मिन्नगौ
+
+*Gist:* Agni, subduer of enemies and worthy of praise, is asked to heed our hymns; the bhāṣya breaks off at a relative clause.
+
+*[Two stray lines of the supplied text, [29] Vol. 14. (*[29] Vol. 14.*) printed twice at the end of the page, are kept as italic notes in the Kannada text. The supplied text ends here, in the middle of the bhāṣya of Ṛk 11 on p. 449; the rest follows in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 446 (PDF 446). Mandala 2 Sukta 2 Rik 8 complete; Rik 9 through the printed English
+**Progress note:** Done through printed p. 449 (PDF 449). Mandala 2 Sukta 2 Rik 9 and Rik 10 complete; Rik 11 Samhita, Pada and the start of the bhasya; five readings marked with a query
