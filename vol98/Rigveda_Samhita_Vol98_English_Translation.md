@@ -2065,6 +2065,98 @@ In such contexts it is said to mean "wealth together with happiness". In the sam
 
 *[The window ends here, within the grammar page.]*
 
+### Printed p. 71
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2.] Ṛgveda-saṃhitā 71. The window begins inside the grammar page of Ṛk 3, continuing p. 70.*
+
+अवधम् (*avadham*) (root हन (*hana*), "to kill and go"): in connection with the suffix *ap*, the substitute *vadha* for the root. "That of which there is no killing": by नञ्सुभ्याम् (*nañsubhyām*) (Pā. Sū. 6-2-172) the last-syllable acute of the later member. जनयतम् (*janayatam*) (root जनी (*janī*), "to be born"): by हेतुमति च (*hetumati ca*) the suffix *ṇic*; since it has the name *mit* (by the rule beginning क्कसुरंजोमांताश्च (*kkasuraṃjomāṃtāśca*)), by मितां ह्रस्वः (*mitāṃ hrasvaḥ*) (Pā. Sū. 6-4-92) the penultimate vowel is shortened; after the *ṇic* ending, imperative, second person dual; because it does not follow a verb, the *nighāta* accent arises (the print has "ಪರದಲ್ಲಿರುವುದರಿಂನ" as supplied).
+
+#### Ṛk 4
+
+*[The Saṃhitā and Pada of this ṛk were a picture in the supplied text. The picture was viewed and agrees with the machine text, which has been used with the lines joined; in the Saṃhitā word देवानामुभयेभिरन्नां (*devānāmubhayebhirannāṃ*) (and in the Pada) the conjunct after the first *a* could be read as ನ್ನ or ನ್ಹ on the picture, and the machine text's ನ್ನ is kept; the bhāṣya and Pratipadārtha print ಅಹ್ನಾಂ.]*
+
+**॥ संहितापाठः ॥**
+
+> अत॑प्यमाने॒ अव॒सावं॑ती॒ अनु॑ ष्याम॒ रोद॑सी दे॒वपु॑त्रे ।
+> उ॒भे दे॒वाना॑मु॒भये॑भि॒रन्नां॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अतप्यमाने इति । अवसा । अवंती इति । अनु । स्याम । रोदसी इति । देव- पुत्रे इति देवपुत्रे ।
+> उभे इति । देवानां । उभयेभिः । अन्नां । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अवसा स्वतोऽधिकेन केनचित्कृतेनावनेन समृद्ध्यातप्यमाने अनीश्वरे ॥
+> तप ऐश्वर्यकर्मण इदं रूपं ॥ अतप्यमाने अन्वैरपीड्यमाने । अवसान्नेना-
+> वंती तर्पयंत्यौ देवपुत्रे देवा व्यवहर्तारो मनुष्याः पुत्रस्थानीया ययो-
+> स्तादृश्यौ । लोकद्वयस्था मनुष्याश्च देवाश्च तदुपजीव्यत्वात्पुत्रा इत्युच्यंते ।
+
+> *avasā svato 'dhikena kenacitkṛtenāvanena samṛddhyātapyamāne anīśvare ‖*
+> *tapa aiśvaryakarmaṇa idaṃ rūpaṃ ‖ atapyamāne anvairapīḍyamāne | avasānnenā-*
+> *vaṃtī tarpayaṃtyau devaputre devā vyavahartāro manuṣyāḥ putrasthānīyā yayo-*
+> *stādṛśyau | lokadvayasthā manuṣyāśca devāśca tadupajīvyatvātputrā ityucyaṃte |*
+
+### Printed p. 72
+
+*Running head: [72 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 185].*
+
+> ईदृशावुभे रोदसी द्यावापृथिव्यौ देवानामह्नां । एतद्रात्रेरप्युपलक्षणं ।
+> द्योतमानानामह्नां रात्रीणां च संबंधिभिरुभयविधैः शीतोष्णादिरूपैर्विलक्षणै-
+> र्धनैर्निमित्तभूतैः । तेषां लाभायेत्यर्थः । तदर्थं युवामनु स्याम । अनु-
+> भवेम । शिष्टो व्याख्यातः ॥
+
+*Gist:* Heaven and Earth, not oppressed by others (or sovereign), nourish with food the gods and men who are their sons; for the wealth that comes from days and nights, with their cold and heat, may we serve them.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अवसा (*avasā*) — with abundant lordship. अतप्यमाने (*atapyamāne*) — those who have no better lord than themselves, अतप्यमाने (*atapyamāne*) — [or: not oppressed by others; अवसा (*avasā*) — with food; अवंती (*avaṃtī*) — who satisfy (all)] देवपुत्रे (*devaputre*) — having gods (and men) as sons. देवानां (*devānāṃ*) — shining अह्नां (*ahnāṃ*) — of days and nights उभयेभिः (*ubhayebhiḥ*) — endowed with the double characteristics such as cold and heat. उभे रोदसी (*ubhe rodasī*) — both Heaven and Earth अनु स्याम (*anu syāma*) — may we serve with devotion. द्यावापृथिवी (*dyāvāpṛthivī*) — O Heaven and Earth अभ्वात् (*abhvāt*) — from terrible calamity. नः (*naḥ*) — us रक्षतं (*rakṣataṃ*) — protect.
+
+**भावार्थ (Bhāvārtha)**
+
+May we serve with devotion Heaven and Earth, who are not oppressed by others, who satisfy all with food, who have gods and men as their sons, and who are endowed with the double characteristics, cold and heat and so on, of the shining days and nights. O Heaven and Earth, protect us from terrible calamity.
+
+**Printed English translation**
+
+May we ever be (devoted to) that Heaven and Earth, who are not subject to annoyance, who satisfy (all beings) with food, who have the gods (and men) for sons, and who are both endowed with the double (condition) of the divine days (and nights): defend us, Heaven and Earth, from great (danger).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अवसा (*avasā*) — the word अवस् (*avas*) is read among the names of food (Ni. 3-8). On that basis, in the present ṛk one sense can be given: "with lordship in the form of food". Or, in the Ṛksaṃhitā verse cited by the Nirukta authors in another place (Ni. 10-3),
+
+हिरण्यस्तूपः सवितर्यथा त्वांगिरसो जुह्वे वाजे अस्मिन् । (*hiraṇyastūpaḥ savitaryathā tvāṃgiraso juhve vāje asmin |*)
+एवा त्वार्चन्नवसे वंदमानः सोमस्येवांशुं प्रति जागराहं ॥ (*evā tvārcannavase vaṃdamānaḥ somasyevāṃśuṃ prati jāgarāhaṃ ‖*)
+
+(Ṛ. Saṃ. 10-149-5)
+
+### Printed p. 73
+
+*Running head: [Ā. ೨. Ā. ೫ Va. ೨.] Ṛgveda-saṃhitā 73 (as supplied).*
+
+as the word अवसे (*avase*) is given the sense अवनाय (*avanāya*), that is, रक्षणाय (*rakṣaṇāya*) ("for protection"), so in the present ṛk too "by protection (in the form of food)" may be said. Sāyaṇa has given two kinds of meaning in this context. First, for the word अतप्यमाने (*atapyamāne*) he has given the sense अनीश्वरे (*anīśvare*) ("without a lord"); explaining how, he says तपेः ऐश्वर्यकर्मणः इदं रूपं (*tapeḥ aiśvaryakarmaṇaḥ idaṃ rūpaṃ*) (the sentence ends with "!" in the supplied text), that is, "this is the form of the root *tap*, meaning lordship": the meaning is "not subject to any other lord, themselves lords of the whole world". Then अवसा अतप्यमाने (*avasā atapyamāne*) means that they are lords of the world through abundance of wealth. Second, अतप्यमाने (*atapyamāne*) अन्न्यैरपीड्य (*annyairapīḍya*) माने (*māne*) means "not oppressed by others", and अवसा अवंती (*avasā avaṃtī*) means "protecting the world with protections".
+
+देवपुत्रे (*devaputre*) — देवाः, व्यवहर्तारो मनुष्याः पुत्रस्थानीयाः ययोस्तादृश्यौ । (*devāḥ, vyavahartāro manuṣyāḥ putrasthānīyāḥ yayostādṛśyau |*) लोकद्वयस्थाः मनुष्याश्च देवाश्च तमपजीव्यत्वात् पुत्रा इत्युच्यंते । (*lokadvayasthāḥ manuṣyāśca devāśca tamapajīvyatvāt putrā ityucyaṃte |*). Relying on the heavenly world, men by its favour such as rain, and, relying on the earth, the gods by the offering of sacrificial oblations, depend on these two; therefore, as having all these as sons, Heaven and Earth are addressed.
+
+इमौ वै लोकौ सहास्तां तौ वैतां नावर्षन्न समपतत्ते पंचजना न सम- (*imau vai lokau sahāstāṃ tau vaitāṃ nāvarṣanna samapatatte paṃcajanā na sama-*)
+जानत तौ देवाः समनयंस्तौ संयंतावेतं देवविवाहं व्यवहेतां । (*jānata tau devāḥ samanayaṃstau saṃyaṃtāvetaṃ devavivāhaṃ vyavahetāṃ |*)
+
+(Ai. Brā. 19-5 [the print has "ಐ, ಬ್ರಾ,"])
+
+The conjugal relation of Heaven and Earth described in this sentence, and the point that they are the support of the activity of all the worlds, were told earlier too.
+
+य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । (*ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā |*)
+तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ॥ (*tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān ‖*)
+
+(Ṛ. Saṃ. [printed ಖ. ಸಂ.] 11-10-9)
+
+Here Heaven and Earth are described as the mother and father of the whole universe: the meaning is that they are the begetters of the whole world of gods, men and so on. In the same way,
+
+उपहूते द्यावापृथिवी पूर्वजे ऋतावरी देवी देवपुत्रे इति । (*upahūte dyāvāpṛthivī pūrvaje ṛtāvarī devī devaputre iti |*)
+
+(Śa. Brā. 1-8-1.-29 [as printed])
+
+in Brāhmaṇa sentences like this too, the epithet "having the gods as sons" for Heaven and Earth is established. In the present ṛk too the same point is told. And "Heaven and Earth are the parents, the support and protectors of the whole universe": thus their greatness is described; the sentence is cut off at the end of the window.
+
 ---
 
-**Progress note:** Done through printed p. 70 (PDF 70). Rik 3 Special Topics: aditi (Max Muller), anehah, anarvam, svarvat; grammar page begins (continues on next page)
+**Progress note:** Done through printed p. 73 (PDF 73). Rik 3 grammar page end; Rik 4 (Samhita and Pada from figure, bhashya, Pratipadartha, Bhavartha, English); Special Topics begin (continues on next page)
