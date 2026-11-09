@@ -9899,6 +9899,86 @@ Here उपनिषत् (*upaniṣat*) means a secret. It is said that the sa
 
 Snakes and the like with little poison, great serpents and the like with excessive poison, and likewise poison-laden water-creatures, these two kinds of poisonous creatures too, in a manner invisible to me, fill me with poison (the supplied text ends here, at the end of the window; the printed English and the Special Topics of Ṛk 1 follow in the next window).
 
+### Printed p. 335
+
+*Running head (as supplied): [अ. २. अ. ५. व. १४ ] ऋग्वेदसंहिता 335 (*[a. 2. a. 5. va. 14 ] ṛgvedasaṃhitā 335*).*
+
+*(Continuation of Ṛk 1 of Sūkta 191, after the Bhāvārtha which ended the previous window.)*
+
+*[As supplied, the label line reads English Translatin (*English Translatin*) (sic), and the printed English carries block marks in the supplied text; given as prose with the standard label inserted.]*
+
+**Printed English translation**
+
+Some creature of little venom ; some creature of great venom ; or some venomous aquatic reptile ; creatures of two kinds, both destructive (of life), or (poisonous) unseen creatures, have anointed me with their poison.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1)**
+
+This is the last sūkta in the first maṇḍala. In this sūkta the sage Agastya, suspecting that a snake has bitten him, has spoken of the matter at length; apart from this sūkta there is no other such sūkta on this subject in the Ṛgveda. That by reciting this sūkta the poison caused by snakes and other poisonous creatures is removed, as the sage Śaunaka says in his work ऋग्विधान (*ṛgvidhāna*), has been told in the introduction of this sūkta itself.
+
+In this ṛk two kinds of snakes are indicated: two kinds, snakes with little poison and snakes with great poison; or two kinds, snakes that move on the earth and water-snakes that live in water; so the sage has described them.
+
+कंकतः—अल्पविषः । तकतेर्गत्यर्थस्य वर्णव्यत्ययेन कंकत इति सरन् भवति (*kaṃkataḥ—alpaviṣaḥ | takatergatyarthasya varṇavyatyayena kaṃkata iti saran bhavati*): the bhāṣyakāra explains that the word *kaṅkata* is formed, by transposition of letters (*varṇa*), from the root *takati*, which has the sense of motion, and that since the word gives the sense सरन् (*saran*) (moving) it is a creature that crawls on the ground, so that the meaning "snake" can be given to it. It is well known that there are many varieties in the poisonous power of snakes. Some, if they bite, do not cause much trouble; some, if they bite, the poison spreads and after some time causes distress and afterwards death; still some kinds of snakes, that is cobras, having excessive poison, certainly cause death if they bite. Among these cobras too there are many varieties and sub-varieties; some of them, if they bite, cause death in a few moments (at once). Such snakes are spread in many kinds in various countries. Some kinds of snakes look very large and fearful, yet have no poison; instead of biting animals they swallow them as food. Some kinds, if they merely touch, cause the body of the animal to begin to rot, and then death occurs. Still some kinds, on seeing animals, spray straight into their eyes a kind of poison-mixed fluid, and the animals may lose their eyes and become blind. Since there are such varieties in snakes and in their poison, the sage Agastya has here described their nature as snakes with little poison, snakes with great poison, and snakes that live in water.
+
+### Printed p. 336
+
+*Running head (as supplied): [336 सायणभाष्यसहिता [मं. १. अ. २४. सू. १९१] (*[336 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24. sū. 191]*).*
+
+न कंकतः—तद्विपरीतोऽनल्पविषः महोरगादिः (*na kaṃkataḥ—tadviparīto 'nalpaviṣaḥ mahoragādiḥ*): not having little poison, that is, cruel serpents such as the cobra, full of great poison; this is the purport.
+
+सतीनकंकतः (*satīnakaṃkataḥ*): since the word सतीनं (*satīnaṃ*) is read among the hundred and one names of water (नि. २-२४ (*ni. 2-24*)), the word *satīnakaṅkataḥ* means a water-snake, a snake that lives in water.
+
+द्वाविति प्लुषी (*dvāviti pluṣī*): the two kinds of snakes spoken of before cause harm; they are dangerous.
+
+अदृष्टा:— अदृश्यमानरूपा एतद्व्यंजकाश्च (*adṛṣṭā:— adṛśyamānarūpā etadvyaṃjakāśca*): not seen by the eye, that is, very small, or these snakes which hide in grass and the like, or in bushes, and so are not seen by the eye; this is the purport. Since snakes are generally in grass, in bushes and in holes, people do not at once notice them; when people are unaware in that way, they deceive them and bite; this is the purport.
+
+अलिप्सत—विशेषण लिंपंति । सर्वाण्यंगानि विषमावृणोति (*alipsata—viśeṣaṇa liṃpaṃti | sarvāṇyaṃgāni viṣamāvṛṇoti*): they smear on the poison so that it spreads to all the limbs, that is, they bite; or, biting, they make the poison spread in the limbs; this is the purport.
+
+*[A stray line of the supplied text, -0145 (*-0145*), is kept as an italic note in the Kannada text.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 1, noted briefly)
+
+The page explains: कंकत: (*kaṃkata:*) (the root तक गत् (*taka gat*); the desired form is obtained by transposition of letters; the initial acute arises from the same transposition); सतीनकंकतः (*satīnakaṃkataḥ*) (by the rule तत्पुरुषे (*tatpuruṣe*) (पा. सू. ६-२-२ (*pā. sū. 6-2-2*)) the accent of the first member remains; the word *satīna* has the acute on the end by the accent of the nominal stem); अदृष्टाः (*adṛṣṭāḥ*) (by the rule न दृष्टाः परादिश्चंदसि बहुलम् (*na dṛṣṭāḥ parādiścaṃdasi bahulam*) (पा. सू. ६ २-१९९ (*pā. sū. 6 2-199*), as printed) the acute on the first syllable of the second member); अलिप्सत (*alipsata*) (root लिप उपदेहे (*lipa upadehe*), as printed, of the *tudādi* class; *luṅ* in the present sense in the Veda; *at* substituted for the third person plural; the augment *āṭ*; because it follows a verb form, printed अतिजंत (*atijaṃta*), the *nighāta* accent arises).
+
+### Printed p. 337
+
+*Running head (as supplied): [अ. २. अ. ५. व. १४ ] ऋग्वेदसंहिता 337 (*[a. 2. a. 5. va. 14 ] ṛgvedasaṃhitā 337*).*
+
+*[As supplied, the label line of the Saṃhitā reads सहितापार (*sahitāpāra*); standard label inserted. Four readings of the Saṃhitā and Pada are marked with a query, as they differ from the other lines or from the bhāṣya.]*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अ॒दृष्टा॑न्हंत्याय॒त्यथो॑ हंति पराय॒ती ।
+> अथो॑ अवघ्न॒ती हं॒त्यथो॑ पिनष्टि पिंस॒ती [?] ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> अदृष्टान् । हंति । आयती । अथो इति । हंति । पर्यायती [?] ।
+> आथो [?] इति । अव्यघ्नती [?] । हंति । अथो इति । पिनष्टि । पिंषती ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अनेन विषघ्न्योषधिः स्तूयते । आयती विषदष्टस्य सकाशमागच्छंती विष-
+> निर्हरणसाधनौषधिरदृष्टानदृश्यमानान्विषधरान्हंति । हिनस्ति । अथो अपि च परायती
+> परागच्छंती सम्मार्जनसमयेऽर्वाक्प्रवृत्ता हंति । नाशयति जलचरविषधरान् ।
+> अथो अपि चावघ्नती ॥ कर्मणि कर्तृ प्रत्ययः ॥ अवहन्यमानौषधिः स्वगंधेन हंति
+> बहुविषन् । यद्वा । काचिदोषधिर्दंशकान्मारयत्येव । अथो अपि च पिंषती
+> पेषणकर्त्रि दृष्टिष्यमाणा नौषधिः पिनष्टि । चूर्णिकरोत्यल्पविषन् । अथवा
+> सर्वेषु वाक्येष्टविशेषेण सर्वविषकारिणां नाश उक्तः ॥
+
+*Gist:* The verse praises the poison-destroying herb: coming, going away, being pounded, by its smell or ground to powder, it kills poisonous creatures.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आयती—(ओषधियु) विषदष्टनादवन हत्तिरक्कॆ बरुवागले (*āyatī—(oṣadhiyu) viṣadaṣṭanādavana hattirakkè baruvāgale*) (the herb, just as it comes near the one bitten by poison). अदृष्टान्—कण्णिगॆ गोचरवागद विषप्राणिगळन्नु (*adṛṣṭān—kaṇṇigè gocaravāgada viṣaprāṇigaḷannu*) (the poisonous creatures not visible to the eye). हंति—कॊल्लुत्तदॆ (*haṃti—kòlluttadè*) (kills). अथो—अनंतर (*atho—anaṃtara*) (afterwards). परायती—(तॊळॆयुव कालदल्लि देहदिंद) हॊरक्कॆ होगतक्क कालदल्लि (*parāyatī—(tòḷèyuva kāladalli dehadiṃda) hòrakkè hogatakka kāladalli*) (at the time of going out, at the time of washing, from the body). हंति—अवुगळन्नु नाशमाडुत्तदॆ (*haṃti—avugaḷannu nāśamāḍuttadè*) (destroys them). अथो— अदू अल्लदॆ (*atho— adū alladè*) (and besides). अवघ्नती—तन्न (गंधदिंदले) नाशकारियाद ओषधियु (*avaghnatī—tanna (gaṃdhadiṃdale) nāśakāriyāda oṣadhiyu*) (the herb that destroys by its own smell). हंति—विषधरगळन्नु नाशमाडुत्तदॆ (*haṃti—viṣadharagaḷannu nāśamāḍuttadè*) (destroys the poison-bearers). अथो—अदर जॊतॆयल्लि (*atho—adara jòtèyalli*) (along with that). पिंषती—चूर्णरूपवाद ओषधियु (*piṃṣatī—cūrṇarūpavāda oṣadhiyu*) (the herb in powder form). पिनष्टि— विषक्रिमिगळन्नु चूर्णमाडुत्तदॆ (*pinaṣṭi— viṣakrimigaḷannu cūrṇamāḍuttadè*) (crushes the poison-worms) (नाशपडिसुत्तदॆ) (*(nāśapaḍisuttadè)*) (destroys them).
+
+**भावार्थ (Bhāvārtha)**
+
+The herb, just as it comes near the one bitten by poison, destroys some poison-bearers. Likewise, at the time when it goes out of the body in washing, it destroys some poison-worms. There are also herbs that destroy by their own smell. The herb in powder form crushes the worms to powder and destroys them.
+
+*[A stray line of the supplied text, [22] Vol. 14 (*[22] Vol. 14*), is kept as an italic note in the Kannada text.]*
+
 ---
 
-**Progress note:** Done through printed p. 334 (PDF 334). Sukta 190 complete (no colophon printed); Sukta 191 introduction, Anuvada and heading lines; Rik 1 through the Bhavartha
+**Progress note:** Done through printed p. 337 (PDF 337). Sukta 191 Rik 1 complete (printed English, Special Topics, grammar); Rik 2 complete through the Bhavartha; four readings marked with a query
