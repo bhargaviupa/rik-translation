@@ -1362,6 +1362,124 @@ Regarding the yūpa there is an old story in the Aitareya Brāhmaṇa (Ai. Brā.
 
 (Explanation.) In former times the gods performed the sacrifice called Jyotiṣṭoma and by its power went to the world of heaven. Seeing this sacrificial procedure of the gods, the gods feared that men and seers too would perform sacrifice in the same way and come to heaven, and so they devised a means. To bewilder men and seers, the gods planted a sacrificial post in their sacrifice. Because this post was planted so that the sacrifice might seem fully performed, it got the name yūpa (yūpa meaning "obstruct, make it not come"). When the gods were going to heaven they planted the top (tip) of the yūpa upside down. Afterwards men and seers came there, looked, and found only the yūpa planted upside down. What is its use? Why was it planted? None of these details of the sacrifice were understood. Thinking that the gods must have planted the yūpa upside down in order to deceive them, that is, so that the details of the sacrifice might not be known to them, they pulled it out and planted it correctly, with the top upward. Thereupon [the printed page ends here; the sentence continues on the next page]. ("Mamaṣyarū", sic, for "men", is as supplied.)
 
+### Printed p. 53
+
+*[Running head, p. 53: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 53]*
+
+*[Continuation of the Pīṭhikā of Sūkta 8 from the previous page.]*
+
+Thereupon men and seers came to know the order of the sacrifice and the like, and they too performed the sacrifice duly and obtained the world of heaven. Therefore, so that the sacrificial rite may proceed correctly and heaven may be gained by it, there is the injunction that the yūpa must be planted with its top upward.
+
+> वज्रो वा एष यद्यूपः सोऽष्टाश्रिः कर्तव्योऽष्टाश्रिर्वै वज्रस्तं तं
+> प्रहरति द्विषते भ्रातृव्याय वधं योऽस्य स्तृत्यस्तस्मै स्तरै ।
+> वज्रो वै यूपः स एष द्विषतो वध उद्यतस्तिष्ठति तस्माद्दाप्येतर्हि
+> यो द्वेषि तस्याप्रियं भवत्यमुष्यायं यूपोऽमुष्यायं
+> यूप इति दृष्ट्वा ।
+
+> *vajro vā eṣa yadyūpaḥ so 'ṣṭāśriḥ kartavyo 'ṣṭāśrirvai vajrastaṃ taṃ*
+> *praharati dviṣate bhrātṛvyāya vadhaṃ yo 'sya stṛtyastasmai starai |*
+> *vajro vai yūpaḥ sa eṣa dviṣato vadha udyatastiṣṭhati tasmāddāpyetarhi*
+> *yo dveṣi tasyāpriyaṃ bhavatyamuṣyāyaṃ yūpo 'muṣyāyaṃ*
+> *yūpa iti dṛṣṭvā |*
+
+The yūpa is said to be a part of the thunderbolt weapon (vajra). On this subject there is the śruti sentence of the Taittirīya of the Yajurveda: इंद्रो वृत्राय वज्रं प्राहरत्स श्रेधा व्यभवत्स्फुतीयं यूपस्तृतीयं (*iṃdro vṛtrāya vajraṃ prāharatsa średhā vyabhavatsphutīyaṃ yūpastṛtīyaṃ*). The thunderbolt has eight edges; therefore the yūpa must be made with eight edges (corners or angles). Just as one kills one's enemy with the thunderbolt, so the yūpa too is a cause of the destruction of the enemy. The yūpa stands upright, facing upward, for the slaying of the foe. Therefore, if an enemy of the sacrificer who performs the sacrifice sees the yūpa standing upright, evil will certainly befall him. (The supplied text reads "ಯೂದವನ್ನು" in the first sentence of this page and "ಸ್ಫುತೀಯಂ" for the quotation; printed as supplied.)
+
+> खादिरं यूपं कुर्वीत स्वर्गकामः खादिरेण वै यूपेन देवाः
+> स्वर्गं लोकमजयंस्तथैवैतद्यजमानः खादिरेण यूपेन स्वर्गं
+> लोकं जयति ॥
+
+> *khādiraṃ yūpaṃ kurvīta svargakāmaḥ khādireṇa vai yūpena devāḥ*
+> *svargaṃ lokamajayaṃstathaivaitadyajamānaḥ khādireṇa yūpena svargaṃ*
+> *lokaṃ jayati ‖*
+
+It is the custom to make this yūpa from various kinds of tree; there is a rule that if it is made from such and such a tree, such and such a fruit is obtained. That is explained here. Sacrificers desiring heaven must make the yūpa from the particular tree called khādira. The gods made the yūpa of khādira wood in their sacrifice and so obtained the world of heaven. Therefore sacrificers who desire heaven, if they sacrifice with a khādira yūpa, will obtain the world of heaven.
+
+> बैल्वं यूपं कुर्वीतान्नाद्यकामः पुष्टिकामः समां समां वै
+> बिल्वो गृभीतस्तदन्नाद्यस्य रूपमामूलाच्छाखाभिरनुचितस्तत्पुष्टेः
+> पुष्यति प्रजां च पशूंश्च य एवं विद्वान्पैल्वं यूपं कुरुते ॥
+
+> *bailvaṃ yūpaṃ kurvītānnādyakāmaḥ puṣṭikāmaḥ samāṃ samāṃ vai*
+> *bilvo gṛbhītastadannādyasya rūpamāmūlācchākhābhiranucitastatpuṣṭeḥ*
+> *puṣyati prajāṃ ca paśūṃśca ya evaṃ vidvānpailvaṃ yūpaṃ kurute ‖*
+
+One who desires food (nourishment) and prosperity must make the yūpa from the bilva tree, because the bilva tree bears fruit every year. The bilva tree is a sign of food and prosperity. From the root to the tip all its branches produce increase every year, that is, it keeps growing large; therefore this tree is a sign of prosperity.
+
+### Printed p. 54
+
+*[Running head, p. 54: 54 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+Therefore the man who knows this matter well and performs the sacrifice after making the yūpa from the bilva tree will have his progeny (children and the like) and cattle endowed with prosperity.
+
+> यदेव बैल्वां ३ बिल्वं ज्योतिरिति वा आचक्षते ज्योतिः स्वेषु भवति
+> श्रेष्ठः स्वानां भवति य एवं वेद ॥
+
+> *yadeva bailvāṃ 3 bilvaṃ jyotiriti vā ācakṣate jyotiḥ sveṣu bhavati*
+> *śreṣṭhaḥ svānāṃ bhavati ya evaṃ veda ‖*
+
+Among these bilva trees there is a special kind called the śrīvṛkṣa or jyotirvṛkṣa. If one makes the yūpa from such a tree and sacrifices, splendour arises. The sacrificer who knows this and sacrifices after making the yūpa from this particular kind of tree becomes full of splendour and the foremost (esteemed) among his own people.
+
+> पालाशं यूपं कुर्वीत तेजस्कामो ब्रह्मवर्चसकामस्तेजो वै ब्रह्म-
+> वर्चसं ऎनस्पतीनां पलाशस्तेजस्वी ब्रह्मवर्चसी भवति य एवं
+> विद्वान्पालाशं यूपं कुरुते यदेव पालाशां ३ सर्वॆषां वा एव
+> वनस्पतीनां योनिर्यत्पलाशस्तस्मात्पलाशस्यैव पलाशेनाचक्षतेऽमुष्य
+> पलाशममुष्य पलाशमिति सर्वॆषां हास्य वनस्पतीनां काम उपापो
+> भवति य एवं वेद ॥
+
+> *pālāśaṃ yūpaṃ kurvīta tejaskāmo brahmavarcasakāmastejo vai brahma-*
+> *varcasaṃ ènaspatīnāṃ palāśastejasvī brahmavarcasī bhavati ya evaṃ*
+> *vidvānpālāśaṃ yūpaṃ kurute yadeva pālāśāṃ 3 sarvèṣāṃ vā eva*
+> *vanaspatīnāṃ yoniryatpalāśastasmātpalāśasyaiva palāśenācakṣate 'muṣya*
+> *palāśamamuṣya palāśamiti sarvèṣāṃ hāsya vanaspatīnāṃ kāma upāpo*
+> *bhavati ya evaṃ veda ‖*
+
+One who desires splendour (tejas) and spiritual radiance (brahmavarcasa) must make the yūpa from the palāśa (mutta) tree. The palāśa tree is the source of all the trees of the forest (vanaspati), and among them is the most full of splendour and of spiritual radiance. Therefore any man who knows this and uses in the sacrifice a yūpa made of palāśa wood becomes endowed with splendour and with spiritual radiance. (The supplied text writes "ಯೂಸವನ್ನು" for the word yūpa here and just below; as supplied.)
+
+This yūpa is smeared with ghee (clarified butter) and certain consecrations are performed with mantras. This procedure is explained in the Aitareya Brāhmaṇa (Ai. Brā. 2-2) as follows:
+
+> अंजो यूपमनु ब्रूहीत्याहाध्वर्युः। अंजंति त्वामध्वरे देवयंत
+> इत्यन्वाहाद्वरे है नं देवयंतोऽज्ञांति । वनस्पते मधुना दैव्ये-
+> नेत्येतद्वै मधु दैव्यं यदाज्यं यदूर्ध्वस्तिष्ठा द्रविणेह धत्ता-
+> द्यद्वा क्षयो मातुरस्या उपस्थ इति यदि च तिष्ठासि यदि च शयास्यै
+> द्रविणमेवास्मासु धत्तादित्येव तदाह ॥
+
+> *aṃjo yūpamanu brūhītyāhādhvaryuḥ| aṃjaṃti tvāmadhvare devayaṃta*
+> *ityanvāhādvare hai naṃ devayaṃto 'jñāṃti | vanaspate madhunā daivye-*
+> *netyetadvai madhu daivyaṃ yadājyaṃ yadūrdhvastiṣṭhā draviṇeha dhattā-*
+> *dyadvā kṣayo māturasyā upastha iti yadi ca tiṣṭhāsi yadi ca śayāsyai*
+> *draviṇamevāsmāsu dhattādityeva tadāha ‖*
+
+When the consecration of anointing the yūpa with ghee is being performed, the Adhvaryu, addressing the Hotṛ, utters the Praiṣa mantra: "O Hotṛ, we shall now anoint the yūpa with ghee; for that recite the mantra of anointing the yūpa." This matter is set out in the Āpastamba Śrauta Sūtra in the words यूपायाज्यमानायानुब्रूहीति संप्रेष्यते, आज्यमानायानुब्रूहीति, (*yūpāyājyamānāyānubrūhīti saṃpreṣyate, ājyamānāyānubrūhīti,*) [continued on the next page]
+
+### Printed p. 55
+
+*[Running head, p. 55: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 55]*
+
+अंज्यो यूपमनुब्रूहीति वा (*aṃjyo yūpamanubrūhīti vā*) [completing the sūtra quotation begun on the previous page]. And the manner of anointing is also stated there, in the words अथैनमसंस्कृतेनाज्येन यजमानोग्रतः शकलेनानक्तैंद्रमसीति चषालमंक्त्वा सुपिप्पलाभ्यस्तौषधीभ्य इति प्रतिमुच्य देवस्त्या सविता मध्यानक्किति स्रुवेण संततमविच्छिंदन्नग्निष्ठामश्रिमॆनक्ति (*athainamasaṃskṛtenājyena yajamānogrataḥ śakalenānaktaiṃdramasīti caṣālamaṃktvā supippalābhyastauṣadhībhya iti pratimucya devastyā savitā madhyānakkiti sruveṇa saṃtatamavicchiṃdannagniṣṭhāmaśrimènakti*) (the text is given as supplied; some words look garbled). As soon as the Adhvaryu has uttered the Praiṣa in this way, the Hotṛ recites the Ṛk अंजंति त्वामध्वरे देवयंतः (*aṃjaṃti tvāmadhvare devayaṃtaḥ*) (Ṛ. Saṃ. 3-8-1), which is suited to the smearing with ghee. The meaning of this Ṛk is: "O yūpa, the priests anoint you with ghee fit for the gods. Whether you now stand upright in this place of sacrifice or lie on the ground, procure for us abundant wealth."
+
+> उच्छयस्व वनस्पत इत्युछ्प्रियमाणायाभिरूपा यद्यज्ञेऽभिरूपं
+> तत्समृद्धं वष्मन्‌पृथिव्या अधीत्येतद्वै वर्ष्म पृथिव्यै यत्र यूष-
+> मुन्मिन्वंति सुमिती मीयमानो वर्चोधा यज्ञवाहस इत्याशिष-
+> माशास्ते ॥
+
+> *ucchayasva vanaspata ityuchpriyamāṇāyābhirūpā yadyajñe 'bhirūpaṃ*
+> *tatsamṛddhaṃ vaṣmanpṛthivyā adhītyetadvai varṣma pṛthivyai yatra yūṣa-*
+> *munminvaṃti sumitī mīyamāno varcodhā yajñavāhasa ityāśiṣa-*
+> *māśāste ‖*
+
+Next the Hotṛ recites the Ṛk उच्छयस्व वनस्पते (*ucchayasva vanaspate*) (Ṛ. Saṃ. 3-8-3). Since this Ṛk is to be recited when the yūpa is being planted, it is suited to that act. Its meaning is: "O yūpa, rise up on the earth. Until now you have been lying on the earth. Now rise and stand up, make the sacrifice go forward, and bestow splendour on us." Because the word उच्छयस्व (*ucchayasva*) ("stand up") occurs in this Ṛk, its recital is appropriate to the occasion. By the recital of a mantra whose meaning is so apt to the occasion the sacrifice is well accomplished. The words पृथिव्या अधि (*pṛthivyā adhi*) indicate the state of the yūpa, which until then had not been planted and lay across the ground. The sentence सुमती मायमानो वर्चोधा यज्ञवाहसे (*sumatī māyamāno varcodhā yajñavāhase*) (as supplied) indicates a prayer for welfare, that splendour may come to the sacrificer who performs the sacrifice.
+
+> समिद्दस्य श्रयमाणः पुरस्तादिति समिद्दस्य ह्येष एतत्पुरस्ताच्छ्रयते
+> ब्रह्मॆ वन्वानो अजरं सुवीरमित्याशिषमेवाशास्ते । आरे अस्मदमतिं
+> बाधमान इत्यशनाया वै पाप्मामतिस्तामेव तदारान्नुदतेयज्ञाच्चि
+> यजमानाच्च उच्छ्रयस्व महते सौभगायेत्याशिषमेवाशास्ते ॥
+
+> *samiddasya śrayamāṇaḥ purastāditi samiddasya hyeṣa etatpurastācchrayate*
+> *brahmè vanvāno ajaraṃ suvīramityāśiṣamevāśāste | āre asmadamatiṃ*
+> *bādhamāna ityaśanāyā vai pāpmāmatistāmeva tadārānnudateyajñācci*
+> *yajamānācca ucchrayasva mahate saubhagāyetyāśiṣamevāśāste ‖*
+
+Then the Hotṛ recites the Ṛk समिद्धस्य श्रयमाणः पुरस्तात् (*samiddhasya śrayamāṇaḥ purastāt*) (Ṛ. Saṃ. 3-8-2). Its meaning is: "You who shine in front of the blazing Agni here, bring this sacrificial work to completion, which produces excellent sons and the like and imperishable, immeasurable power. Standing erect and tall, drive away our enemies and bring us good fortune"; thus it is said [the sentence breaks off here; it continues on the next page].
+
 ---
 
-**Progress note:** Done through printed p. 52 (PDF 52). pp. 50-52: Sukta 7 Rk 11 Special Topics and grammar end; Sukta 8 Pithika begun (yupa), ends mid-sentence p. 52
+**Progress note:** Done through printed p. 55 (PDF 55). pp. 53-55: Sukta 8 Pithika (yupa, Aitareya Brahmana woods, anointing; Rks 3-8-1,2,3 cited), ends mid-sentence p. 55
