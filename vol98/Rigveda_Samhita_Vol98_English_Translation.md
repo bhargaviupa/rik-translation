@@ -485,6 +485,103 @@ here वर्तिः (*vartiḥ*) is explained as मार्गं (*mārga
 
 *[The window ends within the grammar page; it continues on the next page.]*
 
+### Printed p. 17
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1.] Ṛgveda-saṃhitā 17. The window begins within the Vyākaraṇa-prakriyā (grammar page) of Ṛk 1, continued from p. 16.*
+
+**Vyākaraṇa-prakriyā** (continued; grammar page, noted briefly)
+
+संतौ (*saṃtau*) (root अस (*asa*), "to be", in the sense of existing): the present-participle substitute for the tense suffix, *luk* for the connecting suffix, and by श्नसोरल्लोपः (*śnasorallopaḥ*) (Pā. Sū. 6-4-111) the elision of the root's *a*; the suffix has the first-syllable-acute accent. After the dual ending the *num* augment (because the suffix has the mark *uk*), then anusvāra and assimilation to the following class consonant.
+
+आर्यः (*āryaḥ*) (root *ṛ*, in the sense of going): by धातु आर्य (*dhātu ārya*) (Pā. Sū. 3-103 [as printed]) the suffix *yat* in the sense of master; with it as occasion the root takes *guṇa*, followed by *r*.
+
+सुदास्तराय (*sudāstarāya*): शोभनं ददातीति (*śobhanaṃ dadātīti*) ("one who gives well"), hence सुदाः. (*sudāḥ.*); the root डुदाण् (*ḍudāṇ*) in the sense of giving, suffix *asun*; the accent of the base before a *kṛt* ending. Then the suffix तरप् (*tarap*) in the sense of excess; being marked *pit* it is unaccented; the *s* becomes *ru*, visarga and *sa*-change; dative singular. ‖ 1 ‖
+
+#### Ṛk 2
+
+*[As supplied, the label line reads: संहापादि; (*saṃhāpādi;*) ("saṃhitā-pāṭha", garbled); the Saṃhitā was a picture in the supplied text and was read from it by zoom. A page footer artefact "[2] [ Vol. 14" appears twice at the end of p. 17 in the supplied text.]*
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मे ऊ॒ षु वृ॑षणा मादयेथा॒मुत्प॒णीर्ह॑तमू॒र्म्या मदं॑ता ।
+> श्रु॒तं मे॒ अच्छो॑क्तिभिर्मती॒नामेष्टा॑ नरा॒ निचे॑तारा च॒ कर्णैः॑ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्मे इति । ऊं इति । सु । वृषणा । मादयेथां । उत् । पणीन् । हतं । ऊर्म्या । मदंता ।
+> श्रुतं । मे । अच्छोक्तिभिः । मतीनां । एष्टा । नरा । निचेतारा । च । कर्णैः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वृषणा कामानां वर्षकावश्विन् युवामस्मे उ अस्मास्वेव सु माद-
+> येथां । सुष्टु तृप्यतं । अस्मभ्यं तर्पयतमभिमतं । तथा पणीन्वणिजो लुब्ध-
+> कानयष्ट्वानुदुन्यूल्य हतं । नाशयतं । कीदृशौ युवां । ऊर्म्या रात्रिना-
+> मैतत् । रात्रौ मदंता माद्यंत् । यद्वा । ऊर्मिरिति सोमनाम । ऊर्मि-
+> र्यस्ते पवित्र आ । ऋ. ९-६४-११ । इत्यादिषु तथा प्रयोगात् । अस्सदीयेन
+
+*Gist:* O showering Aśvins, rejoice fully among us; destroy the niggardly traders; *ūrmyā* means night (or Soma); leaders, hear with your ears my praises made with pure words.
+
+### Printed p. 18
+
+*Running head: [18 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24 Sū. 184] (the print has "ಆ." for "ಅ." as supplied).*
+
+(The Sāyaṇa-bhāṣya of Ṛk 2 continues on this page.)
+
+> सोमेन मदंतौ । तादृशौ युवां मे ममाच्छोक्तिभिराभिमुख्यकरैर्निर्मलवेद-
+> वाक्यै रचिता मतीनां ॥ कर्मणि षष्ठी ॥ मननसाधनाः स्तुतीः कर्णैराकर्णनसाधनैः
+> श्रोत्रैः श्रुतं । शृणुतं । हे नरा नेतारौ युवां खल्वेष्टान्वेष्यारावस्मत्सुतीनां
+> तथा निचेतारा लब्धानां तासां संचयकर्तारौ । निरित्येष समित्येतस्य स्थाने ।
+> यस्मादेवंविधौ तस्माच्छृणुतमिति ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऊर्मा (*ūrmā*) — in the time of night (or in the soma offered by us). मदंता (*madaṃtā*) — those who obtain satisfaction. वृषणा (*vṛṣaṇā*) — O Aśvin deities, showerers of desires. अस्मे उ (*asme u*) — among us alone (or for our satisfaction alone). सु मादयेथां (*su mādayethāṃ*) — you also obtain complete satisfaction. तथा (*tathā*) — likewise. पणीन् (*paṇīn*) — miserly ones who do not perform sacrifice. उत् हतं (*ut hataṃ*) — uproot and destroy. नरा (*narā*) — O Aśvin deities, leaders. एष्टा (*eṣṭā*) — (those who look out for our praises). निचेतारा च (*nicetārā ca*) — you who gather the obtained praises. अच्चोक्तिभिः (*accoktibhiḥ*) — (in order to obtain your grace), made of Vedic words. मे (*me*) — my (composed by me). मतीनां (*matīnāṃ*) — meditative praises. कर्णॆः (*karṇèḥ*) — with your ears. श्रुतं (*śrutaṃ*) — listen.
+
+*[The printed forms ऊर्मा (*ūrmā*), अच्चोक्तिभिः (*accoktibhiḥ*) and कर्णॆः (*karṇèḥ*) differ in spelling from the Saṃhitā and Pada; kept as supplied. The label of the following section reads, as supplied, भाषार्थ]* (*bhāṣārtha]**); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, who obtain satisfaction in the soma juices offered by us and are showerers of desires: in order to make us satisfied, you also obtain complete satisfaction. Likewise uproot and destroy the misers who do not perform sacrifice. O Aśvin deities, leaders, you who look out for our praises and gather the praises received: for obtaining your grace, listen with love to my praise-words, made of Vedic sentences and meditative.
+
+**Printed English translation**
+
+Showerers (of benefits), rejoicing in (our) libations, make us happy and destroy the niggard (withholder) of offerings ; hear, leaders, with your ears, my praises addressed to you with pure words, for you are seekers (after praise), you are retentive (of laudation).
+
+*[The label of the next section reads, as supplied, विशेषयगळु]* (*viśeṣayagaḷu]**); standard label inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऊर्म्या—रात्रिनामैतत् । यद्वा । ऊर्मिरिति सोमनाम । (*ūrmyā—rātrināmaitat | yadvā | ūrmiriti somanāma |*) — "this is a name of night; or *ūrmi* is a name of Soma." The Nirukta authors have read this word among the names of night (Ni 2-18). Therefore here too the sense "night" may be taken; this is one alternative. If this sense is given, how is the word *ūrmi* formed? Explaining this, Sāyaṇa elsewhere, where this word is used, shows the example and explains thus:
+
+### Printed p. 19
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1.] Ṛgveda-saṃhitā 19.*
+
+अस्मा उषास अतिरंत याममिंद्राय नक्तमूर्म्याः सुवाचः । (*asmā uṣāsa atiraṃta yāmamiṃdrāya naktamūrmyāḥ suvācaḥ |*)
+अस्मा आपो मातरः सप्त तस्थुर्नृभ्यस्तराय सिंधवः सुपाराः ॥ (*asmā āpo mātaraḥ sapta tasthurnṛbhyastarāya siṃdhavaḥ supārāḥ ‖*)
+
+(Ṛ. Saṃ. 8-96-1)
+
+In explaining the meaning of the word *ūrmi* in this ṛk he says: रात्रिनामैतत् । ऋ गतिप्रापणयोः। (*rātrināmaitat | ṛ gatiprāpaṇayoḥ|*) “ अर्तॆरू च ” (*“ artèrū ca ”*) (Uṇ. Sū. 4-48 [printed "ಉ ಸೂ."]) इति ‘ मि ’ प्रत्ययः सर्वैरभिगंतव्यः । (*iti ‘ mi ’ pratyayaḥ sarvairabhigaṃtavyaḥ |*) रात्रौ हि सर्वॆ (*rātrau hi sarvè*) स्वनिवासं गच्छंति । स्वनिलयप्राप्तिहेतुभूता रात्रयः । (*svanivāsaṃ gacchaṃti | svanilayaprāptihetubhūtā rātrayaḥ |*): "the word is formed from the root *ṛ*, which means going and reaching. In the night all creatures go and gather in their own dwellings; since it brings everything to its own places, night has the famous name *ūrmi*." For this word in the present ṛk Sāyaṇa states the second alternative: यद्वा ऊर्मिरिति सोमनाम--अथवा (*yadvā ūrmiriti somanāma--athavā*): *ūrmi* may mean Soma. To support this explanation, citing
+
+तम्म तम्म निवासक्कॆ होगि सेरिकॊळ्ळुत्तवॆ. स्वस्थानगळिगॆ ऎल्लवन्नू सेरिसुवुदरिंद रात्रिगॆ (*tamma tamma nivāsakkè hogi serikòḷḷuttavè. svasthānagaḷigè èllavannū serisuvudariṃda rātrigè*)
+ऊर्मियॆंब हॆसरु प्रसिद्धवागिदॆ ऎंदु विवरिसिद्दारॆ ई पदक्कॆ प्रकृतवाद ऋक्किनल्लि सायणरु, (*ūrmiyèṃba hèsaru prasiddhavāgidè èṃdu vivarisiddārè ī padakkè prakṛtavāda ṛkkinalli sāyaṇaru,*)
+
+he has shown that since *ūrmi* there means Soma, the same sense may arise in the present ṛk too. Here another point must be noticed. *Ūrmi* cannot mean Soma; *ūrmi* means a wave of water. Since in the cited ṛk Soma is addressed, the sense "Soma juice in the form of waves" is understood. The Nirukta authors have used this word in this same sense, that is, "water-wave",
+
+मा नः समस्य दूढ्यं ः नि परिद्वेषसो अंहतिः । ऊर्मिर्न नावमा वधीत् ॥ (*mā naḥ samasya dūḍhyaṃ ḥ ni paridveṣaso aṃhatiḥ | ūrmirna nāvamā vadhīt ‖*)
+
+(Ṛ. Saṃ. 8-75-9)
+
+and, citing this ṛk, have said ऊर्मिरूर्णोतेः (*ūrmirūrṇoteḥ*) (Ni. 5-23) that the word is formed from the root ऊर्ण् (*ūrṇ*), which gives the sense "to cover, conceal, envelop". It means a wave, or a mass of water; the word is also used in the sense "collection or mass of water".
+
+धन्वन्नोऽतः कृणुते गातुमूर्मिं शुक्रैरूर्मिभिरभि नक्षति क्षां । (*dhanvanno 'taḥ kṛṇute gātumūrmiṃ śukrairūrmibhirabhi nakṣati kṣāṃ |*)
+विश्वा सनानि जठरेषु धत्तेऽंतर्ननासु चरति प्रसूषु ॥ (*viśvā sanāni jaṭhareṣu dhatte 'ṃtarnanāsu carati prasūṣu ‖*)
+
+((म. सं. (*(ma. saṃ.*) 1-95-10 [as supplied])
+
+*[The window ends here; the Special Topics continue on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 16 (PDF 16). Rik 1 Special Topics: arya, maghavan, suvrkti, varti notes; start of grammar page (continues on next page)
+**Progress note:** Done through printed p. 19 (PDF 19). Rik 1 grammar end; Rik 2 (Samhita read from figure, Pada, bhashya, Pratipadartha, Bhavartha, English), Special Topics on urmi (continues on next page)
