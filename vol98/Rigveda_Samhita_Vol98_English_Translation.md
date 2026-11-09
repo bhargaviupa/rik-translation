@@ -3263,6 +3263,65 @@ There is a rule that the abundance of oblations should follow the order of ascen
 
 *[The window ends here, in the middle of the sentence ("ಇಲ್ಲಿ ನಿರ್ದೇಶಿ…"); the next window continues from it.]*
 
+### Printed p. 111
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4.] Ṛgveda-saṃhitā 111 (as supplied, "ಅ. ೨ ಅ. ೫. ವ. ೪."). The window continues the Vaiśvānara discussion of the Special Topics of Ṛk 1 of Sūkta 186 from p. 110; the sentence is completed here.*
+
+... the Vaiśvānara indicated here, अथासावादित्य इति पूर्वे यज्ञिकाः । (*athāsāvāditya iti pūrve yajñikāḥ |*) ("Now he is the Sun, say the early sacrificers"): the ancient sacrificers hold that he is Āditya. Having set out this prima facie view, he then says:
+
+सोऽपि न स्तोत्रियमाद्रियताग्नेयो हि भवति । तत अगच्छति मध्यस्थाना देवता रुद्रं च मरुतश्च ततोग्निमिहस्थानमत्र वै स्तोत्रियं शंसति । (*so 'pi na stotriyamādriyatāgneyo hi bhavati | tata agacchati madhyasthānā devatā rudraṃ ca marutaśca tatognimihasthānamatra vai stotriyaṃ śaṃsati |*)
+
+(The Sanskrit as printed.) Because this sūkta is addressed chiefly to Agni, and then, after indicating Rudra and the Maruts, the sacrificer again praises the very Agni belonging to the terrestrial world, in the terrestrial sacrificial hall where he recites this sūkta, the Vaiśvānara Agni indicated here is a deity of the earth, not of the atmosphere: thus they refute the above opinion. And in support of their position that this Vaiśvānara Agni is a terrestrial deity they have also quoted the appropriate Śruti passages:
+
+अथाप्याह - इतो जातो विश्वमिदं वि चष्टे वैश्वानरो यतते सूर्येण ॥ (*athāpyāha - ito jāto viśvamidaṃ vi caṣṭe vaiśvānaro yatate sūryeṇa ‖*)
+((ऋ. सं. १-९८-१) (*(ṛ. saṃ. 1-98-1)*))
+न च पुनरात्मनात्मा संयततेऽन्येनैवान्यः संयतत इत इममादधात्यमु- तोऽमुष्य रश्मयः प्रादुर्भवंतीतोऽस्यार्चिषस्तयोर्भासोः संसंगं दृष्टैवमवक्ष्यत् ॥ (*na ca punarātmanātmā saṃyatate 'nyenaivānyaḥ saṃyatata ita imamādadhātyamu- to 'muṣya raśmayaḥ prādurbhavaṃtīto 'syārciṣastayorbhāsoḥ saṃsaṃgaṃ dṛṣṭaivamavakṣyat ‖*)
+
+The statement of the Saṃhitā that Vaiśvānara spreads himself widely and joins the Sun helps this support. If Vaiśvānara were the Sun himself, it would be impossible that he should spread and join himself. It is natural to say that one thing extends and joins another. After the sacrificer has kindled Agni on the earth, its rays spread to the world above and appear there too. They join the rays of Āditya spread through the atmosphere, and, seeing the two become one, it is described by the words यतते सूरेयण (*yatate sūreyaṇa*) [?] [the supplied text reads this last word as printed, marked [?]]. And further:
+
+अथ यान्येतान्यौत्तमिकानि सूक्तानि भागानि वा सावित्राणि वा सौर्याणि वा पौष्णानि वा वैष्णवानि वा वैश्वदेव्यानि वा तेषु वैश्वानरीयाः प्रवादा अभविष्यन्नादित्यकर्मणा चैनमस्तोष्यन्नित्युदेषीत्यस्तमेषीति विपरैषीति । (*atha yānyetānyauttamikāni sūktāni bhāgāni vā sāvitrāṇi vā sauryāṇi vā pauṣṇāni vā vaiṣṇavāni vā vaiśvadevyāni vā teṣu vaiśvānarīyāḥ pravādā abhaviṣyannādityakarmaṇā cainamastoṣyannityudeṣītyastameṣīti viparaiṣīti |*)
+
+If Vaiśvānara were the Sun himself, then the forms and actions of the atmospheric deities, Savitṛ, Pūṣan, Viṣṇu, the Viśve Devāḥ and others, would have to be described in him by supplying them, and descriptions such as "he rises", "he sets", "he revolves" would have to occur. But
+
+### Printed p. 112
+
+*Running head: [112 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186].*
+
+here only descriptions addressed to Agni occur, so it is firmly established that he is a synonym of the terrestrial Agni. On these and other grounds,
+
+यस्तु सूक्तं भजते यस्मै हविर्निरूप्यतेयमेव सोऽग्निर्वैश्वानरः । (*yastu sūktaṃ bhajate yasmai havirnirūpyateyameva so 'gnirvaiśvānaraḥ |*)
+
+the praise recited in the sūkta and the offering of the oblation can be said with certainty to be offered to Agni in the form of Vaiśvānara ((नि. ७-२२ रिंद ७-३१) (*(ni. 7-22 riṃda 7-31)*), as printed). Even if the manifestation of this Vaiśvānara Agni is on the earth, he is the very one: राजा हि कं भुवनानामभिश्रीः । (*rājā hi kaṃ bhuvanānāmabhiśrīḥ |*) ("for he is the king, the lustre of the worlds") — the lord and refuge of all beings. Therefore it has been clearly stated in many places that gods, men and all can attain the highest good only by his worship. It is one method to know his terrestrial form through the performance of rites and to worship him; it is another kind of worship to be done through spiritual knowledge, knowing his greatness as all-pervading and indwelling in all things, moving and unmoving, of the whole world. The relation between the performance of rites and the worship by knowledge, and the greatness of Vaiśvānara Agni, the Self of all, is set out in the Śatapatha and other Brāhmaṇas and the Chāndogya and other Upaniṣads. The story of the ṛṣis who went to choose an excellent teacher to learn his true nature is told in the Śatapatha Brāhmaṇa ((१०-६-१-१ रिंद ११) (*(10-6-1-1 riṃda 11)*), as printed).
+
+अपि वा विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः । (*api vā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ |*)
+(नि. ७-२१) (*(ni. 7-21)*) — As in the derivation by the Nirukta-author, "one who pervades everywhere and has entered all beings", this story makes known the nature of Viśvānara, the inner controller of all:
+
+अथ हैतेऽरुणे औपवेशौ समाजग्मुः सत्ययज्ञः पौलुषिर्महाशालो जाबा- लो बुडिल आश्वतराश्विरिंद्रद्युम्नो भाल्लवेयो जनः शार्कराक्ष्यस्ते ह समासत तेषां ह वैश्वानरे न समियाय ॥१॥ (*atha haite 'ruṇe aupaveśau samājagmuḥ satyayajñaḥ pauluṣirmahāśālo jābā- lo buḍila āśvatarāśviriṃdradyumno bhāllaveyo janaḥ śārkarākṣyaste ha samāsata teṣāṃ ha vaiśvānare na samiyāya ‖1‖*)
+
+Satyayajña Pauluṣi, Mahāśāla Jābāla, Buḍila Āśvatarāśvi, Indradyumna Bhāllaveya and Jana Śārkarākṣya together assembled in the house of Aruṇa Aupaveśi to learn the nature of Vaiśvānara Agni; though they all met and discussed, no firm understanding came to them, and a difference of opinion arose among them, a disagreement. ‖ 1 ‖
+
+ते होचुः । अश्वपतिर्वायं कैकेयः संप्रति वैश्वानरं वेद तं गच्छामेति ते हाश्वपतिं कैकेयमाजग्मुस्तेभ्यो ह पृथगावसथान्पृथगपचितीः पृथक्- साहस्रान्सोमान्सोवाच ते ह प्रातरसंविदाना एव समित्पाणयः प्रति- चक्रमिर उपत्वायामेति ॥२॥ (*te hocuḥ | aśvapatirvāyaṃ kaikeyaḥ saṃprati vaiśvānaraṃ veda taṃ gacchāmeti te hāśvapatiṃ kaikeyamājagmustebhyo ha pṛthagāvasathānpṛthagapacitīḥ pṛthak- sāhasrānsomānsovāca te ha prātarasaṃvidānā eva samitpāṇayaḥ prati- cakramira upatvāyāmeti ‖2‖*)
+
+### Printed p. 113
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 113 (as supplied).*
+
+Then they all went to Aśvapati Kaikeya, who knew the nature of Vaiśvānara Agni fully. He honoured all these guests who had come, giving them separate lodgings, personal honours and thousands of drinks. Next morning, all of them, keeping their differences of opinion, took fuel sticks in their hands and entreated, "We wish to become your pupils." ‖ 2 ‖
+
+स होवाच । यन्नु भगवंतोऽनूचाना अनूचानपुत्राः किमिदमति ते होचुर्वैश्वानरं ह भगवान्संप्रति वेद तं नो ब्रूहीति स होवाचॆ संप्रति खलु न्या [?] अहं वैश्वानरं वेदाभ्याधत्त समिध उपेता स्थेति ॥३॥ (*sa hovāca | yannu bhagavaṃto 'nūcānā anūcānaputrāḥ kimidamati te hocurvaiśvānaraṃ ha bhagavānsaṃprati veda taṃ no brūhīti sa hovācè saṃprati khalu nyā [?] ahaṃ vaiśvānaraṃ vedābhyādhatta samidha upetā stheti ‖3‖*)
+
+Then he, astonished, questioned them: "You are sons of men learned in all the śāstras, and have yourselves studied; why have you come to me as pupils?" Then they said: "You know the nature of Vaiśvānara Agni well; teach us also its secret." Then he said: "I know that secret and will tell you also. Offer fuel sticks to Agni; from today you are my pupils." ‖ 3 ‖ (The word न्या (*nyā*) [?] in the Sanskrit is doubtful in the supplied text and is kept as supplied, marked [?].)
+
+स होवाचारुणमौपवेशिं । गौतम कं त्वं वैश्वानरं वेत्थेति पृथिवीमेव राजन्निति होवाचोमिति होवाचैष वै प्रतिष्ठा एतं रयिं वैश्वानर एतं हि वैश्वं प्रतिष्ठा वैश्वानरं वेत्थ तस्मात्त्वं प्र तिष्ठितः प्रज्ञया पशुभिरसि यो वा एतं प्रतिष्ठां वैश्वानरं वेदाप पुनर्मृत्युं जयति सर्वमायु- रेति पादौ त्वा एतौ वैश्वानरस्य पादौ तेऽम्लास्यतां यदि ह नागमिष्य इति पादौ तेऽविदितावभविष्यतां यदि ह नागमिष्य इति वा ॥४॥ (*sa hovācāruṇamaupaveśiṃ | gautama kaṃ tvaṃ vaiśvānaraṃ vettheti pṛthivīmeva rājanniti hovācomiti hovācaiṣa vai pratiṣṭhā etaṃ rayiṃ vaiśvānara etaṃ hi vaiśvaṃ pratiṣṭhā vaiśvānaraṃ vettha tasmāttvaṃ pra tiṣṭhitaḥ prajñayā paśubhirasi yo vā etaṃ pratiṣṭhāṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvamāyu- reti pādau tvā etau vaiśvānarasya pādau te 'mlāsyatāṃ yadi ha nāgamiṣya iti pādau te 'viditāvabhaviṣyatāṃ yadi ha nāgamiṣya iti vā ‖4‖*)
+
+Then he asked Aruṇa Aupaveśi: "Gautama, whom do you know as Vaiśvānara?" "The earth, O king," he said. The king said, "Yes, it is the all-supporting Vaiśvānara. Because you know this secret, you stand firmly established with cattle, sons and so on! One who knows this conquers death and attains full life. But truly these are only the feet of Vaiśvānara. If you had not come here (to learn the full nature of Vaiśvānara), your feet would have become loose and wasted away, or would not have come into your view." ‖ 4 ‖
+
+अथ होवाच सत्ययज्ञं पौलुषिं । प्राचीनयोग्य, कं त्वं वैश्वानरं वेत्थे- त्यप एव राजन्निति होवाचोमिति होवाचैष वै रयिर्वैश्वानर एतं हि वै त्वं रयिं वैश्वानरं वेत्थ नस्मात्तं [?] रयिमान्पुष्टिमानसि यो वा एतं रयिं पैश्वानरं [?] वेदाप पुनर्मृत्युं जयति सर्वमायुरेति वस्ति स्ता एष वैश्वानरस्य वस्तिस्त्वाहास्यद्यदि ह नागमिष्य इति वस्तिस्तेऽविदितोऽभवि- ष्यद्यदि हनागमिष्य इति वा ॥५॥ (*atha hovāca satyayajñaṃ pauluṣiṃ | prācīnayogya, kaṃ tvaṃ vaiśvānaraṃ vetthe- tyapa eva rājanniti hovācomiti hovācaiṣa vai rayirvaiśvānara etaṃ hi vai tvaṃ rayiṃ vaiśvānaraṃ vettha nasmāttaṃ [?] rayimānpuṣṭimānasi yo vā etaṃ rayiṃ paiśvānaraṃ [?] vedāpa punarmṛtyuṃ jayati sarvamāyureti vasti stā eṣa vaiśvānarasya vastistvāhāsyadyadi ha nāgamiṣya iti vastiste 'vidito 'bhavi- ṣyadyadi hanāgamiṣya iti vā ‖5‖*)
+
+*[The Sanskrit above, the next section of the story, is given here as supplied, without translation of the Kannada paraphrase, which is not in the supplied text; the window ends here with the number ‖ 5 ‖. The supplied text has a few doubtful words in it: नस्मात्तं (*nasmāttaṃ*) [?] and पैश्वानरं (*paiśvānaraṃ*) [?] are kept as supplied, marked [?].]*
+
+*[Stray line in the supplied text: "[8] Vol. 14".]*
+
 ---
 
-**Progress note:** Done through printed p. 110 (PDF 110). Done through printed p. 110 (Sukta 186 Rk 1 Special Topics: Vaisvanara note; ends mid-sentence)
+**Progress note:** Done through printed p. 113 (PDF 113). Done through printed p. 113 (Sukta 186 Rk 1 Special Topics: Vaisvanara discussion, Satapatha story of Asvapati Kaikeya, sections 1-5; continues on next page)
