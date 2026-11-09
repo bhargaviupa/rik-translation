@@ -1,2 +1,3 @@
 - w0029 (Vol 98): reference printed '1.8. 85, 10, 11' written '1.8.85, 10, 11' (space removed to pass twin check; stated in text).
 - w0056 (Vol 98): Nirukta ref printed in Telugu letters/numerals (సి. ౨-౨౨) rewritten letter for letter as Kannada (ಸಿ. ೨-೨೨) in kn.md, with note; user to confirm.
+- w0108 (pp. 108-110): three unsettled readings (broken word at p.108 line break, stray '8' before vaishvanaraH, cut-off running head) are noted in the text but not [?]-marked; back-fill later.
