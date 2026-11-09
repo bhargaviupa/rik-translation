@@ -4,3 +4,4 @@ pp.11-14 | sonnet | n/a | n/a | n/a
 pp.15-17 | sonnet | 8 tool uses | 96477 tokens | 1 min
 pp.18-20 | sonnet | n/a | n/a | n/a
 pp.21-24 | sonnet | n/a | n/a | n/a
+pp.25-27 | sonnet | n/a | n/a | n/a
