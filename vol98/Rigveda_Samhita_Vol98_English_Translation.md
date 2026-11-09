@@ -6298,6 +6298,101 @@ in the Kauṣītaki-brāhmaṇa this name is said to be because it is a means of
 
 (the supplied text breaks off at the end of this window with "ಎಂದು ಮೇಲಿನ ಅಭಿಪ್ರಾಯವನ್ನೇ ಹೇಳಿ ಶೈತ್ತಿರೀಯಬ್ರಾಹ್ಮಣದಲ್ಲೂ,", "saying the same thing, in the Taittirīya-brāhmaṇa too,").
 
+### Printed p. 218
+
+*Running head: [218 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 23. Sū. 188] (as supplied; the print has "೨೩" for the adhyāya).*
+
+*(Continuation of the introduction to Sūkta 188, on the Āprī sūktas.)*
+
+यदेतान्याप्रियॆ अज्यानि भवंति । आत्मानमेवेतैराप्रीणाति । (*yadetānyāpriyè ajyāni bhavaṃti | ātmānamevetairāprīṇāti |*)
+(ता ब्रा, १५-८-२) (*(tā brā, 15-8-2)*)
+
+Thus the Tāṇḍya-brāhmaṇa too states the nature of the word *āprī*. The Aitareya-brāhmaṇa, in prescribing the duties the hotṛ priest must perform at the time of the Agniṣṭoma sacrifice, gives an explanation of the Āprīs. After the description of the animal to be sacrificed to Agni and Soma (२-३ (*2-3*)), eleven *prayāja* mantras are stated (२-४ (*2-4*)). In that context:
+
+अप्रीभिराप्रीणाति । तेजो वै ब्रह्मवर्चसमाप्रियस्तेजसैवेनं तद्ब्रह्मवर्च- (*aprībhirāprīṇāti | tejo vai brahmavarcasamāpriyastejasaivenaṃ tadbrahmavarca-*)
+सेन समर्धयति । (*sena samardhayati |*)
+(इ. ब्रा. २-४) (*(i. brā. 2-4)*)
+
+The Āprī ṛks are full of splendour and endowed with the radiance of Brahman; by such ṛks (the hotṛ) becomes a cause of satisfaction: thus there too it is shown that they are a means of self-satisfaction. After that it is shown that deities such as Samidh and Tanūnapāt are identical with principles such as the vital breath.
+
+The Aitareya-brāhmaṇa is the first of all to speak of these sūktas stated in the various maṇḍalas of the Ṛk-saṃhitā, their fruit, and the sages who recited them:
+
+ताभिर्यथयष्याप्रीणीयाद्यद्यथयष्ये प्रीणाति यजमानमेव तद्बंधुताया (*tābhiryathayaṣyāprīṇīyādyadyathayaṣye prīṇāti yajamānameva tadbaṃdhutāyā*)
+नोत्सृजति । (*notsṛjati |*)
+(इ. ब्रा. २-४) (*(i. brā. 2-4)*)
+
+By reciting these ṛks composed by sages, the sacrificer is protected without being separated from the sacrifice: thus the fruit of reciting these ṛks is stated. These sūktas were not seen by one sage. Different sages saw these sūktas in their own individual circumstances; yet the nature of these sūktas and the fruit of reciting them appear the same in all of them. From the explanation of the Nirukta-authors it is known that from the ancient times of the Brāhmaṇas and the like there was difference of opinion about these Āprī sūktas and the deities of these sūktas.
+
+अथात अप्रियः । अप्रियः कस्मादाप्नोतेः प्रीणातीर्वा । अप्रीभिराप्रीणातीति (*athāta apriyaḥ | apriyaḥ kasmādāpnoteḥ prīṇātīrvā | aprībhirāprīṇātīti*)
+च ब्राह्मणं । (*ca brāhmaṇaṃ |*)
+(नि. ८-४) (*(ni. 8-4)*)
+
+Thus the Nirukta-author shows that his own opinion about the Āprī sūktas differs from that of the Brāhmaṇas and the like. Moreover, he often cites the opinions of sages such as Kātthakya, Śākapūṇi and Mādhyamika
+
+### Printed p. 219
+
+*Running head: [Aṣṭaka 2 Adhyāya 5. Varga 8] Ṛgveda-saṃhitā 219 (as supplied).*
+
+(the print has कात्थक्य (*kātthakya*) on p. 218 and कात्क्यादिगळु (*kātkyādigaḷu*) on p. 219, as supplied). Although Kātkya and the others are sacrificers (*yājñikas*), it has been stated in the special topics of the respective ṛks that in many places they do not accept the explanations given in the Brāhmaṇas and the like. After stating all these opinions Yāska finally gives his own settled opinion. For example, regarding the Āprī deities, he first collects the opinions stated in the Brāhmaṇas and the like:
+
+इतीमा आप्रीदेवता अनुक्रांताः । अथ किं देवताः प्रयाजानुयाजाः (*itīmā āprīdevatā anukrāṃtāḥ | atha kiṃ devatāḥ prayājānuyājāḥ*)
+अग्नेया इत्येके । अग्नेया वै प्रयाजा अग्नेया अनुयाजा इति च ब्राह्म- (*agneyā ityeke | agneyā vai prayājā agneyā anuyājā iti ca brāhma-*)
+णं । छंदोदेवता इत्यपरं । छंदांसि वै प्रयाजाशृंदांस्यनुयाजा इति च (*ṇaṃ | chaṃdodevatā ityaparaṃ | chaṃdāṃsi vai prayājāśṛṃdāṃsyanuyājā iti ca*)
+ब्राह्मणं । ऋतुदेवता इत्यपरं । ऋतवो वै प्रयाजा ऋतवोऽनुयाजा (*brāhmaṇaṃ | ṛtudevatā ityaparaṃ | ṛtavo vai prayājā ṛtavo 'nuyājā*)
+इति च ब्राह्मणं । पशुदेवता इत्यपरं । पशवो वै प्रयाजाः पशवोऽनु- (*iti ca brāhmaṇaṃ | paśudevatā ityaparaṃ | paśavo vai prayājāḥ paśavo 'nu-*)
+याजा इति च ब्राह्मणं । प्राणदेवता इत्यपरं । प्राणावै प्रयाजा (*yājā iti ca brāhmaṇaṃ | prāṇadevatā ityaparaṃ | prāṇāvai prayājā*)
+प्राणा वा अनुयाजाः इति च ब्राह्मणं । आत्मदेवता इत्यपरं । (*prāṇā vā anuyājāḥ iti ca brāhmaṇaṃ | ātmadevatā ityaparaṃ |*)
+आत्मा वै प्रयाजाः आत्मा ना अनुयाजा इति च ब्राह्मणं । अग्नेया (*ātmā vai prayājāḥ ātmā nā anuyājā iti ca brāhmaṇaṃ | agneyā*)
+इति तु स्थितिः । भक्तिमात्रमितरं । (*iti tu sthitiḥ | bhaktimātramitaraṃ |*)
+(नि ८-२२) (*(ni 8-22)*)
+
+Having stated the various views in this way, he first cites
+
+तव प्रयाजा अनुयाजाश्च केवल ऊर्जस्वंतो हविषः संतु भाग्या । (*tava prayājā anuyājāśca kevala ūrjasvaṃto haviṣaḥ saṃtu bhāgyā |*)
+तवाग्ने यज्ञोऽयमस्तु सर्वस्तुभ्यं नमंतां प्रदिशश्च तस्रः । (*tavāgne yajño 'yamastu sarvastubhyaṃ namaṃtāṃ pradiśaśca tasraḥ |*)
+(म. सं. १०-५१-९) (*(ma. saṃ. 10-51-9)*)
+
+and, by this ṛk, gives his own explanation that, as it says, the *prayāja* and *anuyāja* mantras are addressed to Agni alone; after that he states the other opinions too. Of these the same opinion is supported by the Brāhmaṇa sentence. But some say that the Chandas deity is meant (श. ब्रा. १-३-२-९ (*śa. brā. 1-3-2-9*)), others that the deities in the nature of the seasons are meant (श. ब्रा. १-३-२-८ (*śa. brā. 1-3-2-8*)), others that the sacrificial animal is meant (कौ. ब्रा. ३-४ (*kau. brā. 3-4*)), some that the deity in the nature of the vital breath is meant (ऐ. ब्रा १-११ (*ai. brā 1-11*), श. ब्रा. ११-२-७-२७ (*śa. brā. 11-2-7-27*)), and still others that the self (*ātman*) alone is meant (तै. सं. ६-१-५-४ (*tai. saṃ. 6-1-5-4*)); having collected and stated all that has been said, he then gives his settled opinion that saying that Agni is meant is the sound view.
+
+In Kātyāyana's Sarvānukramaṇī the difference between *āpra* and *āprī* is stated (this difference is stated at the end of the Āprī sūkta, that is, of sūkta १-१४२ (*1-142*)): the ṛks addressed to the deity Narāśaṃsa नराशंर [?] (*narāśaṃra [?]*) are famed as *āpra* mantras, and the ṛks addressed to the deity Tanūnapāt as *āprī* mantras, he has shown
+
+### Printed p. 220
+
+*Running head: [220 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+(the supplied text carries the sentence across the page break). In the Bṛhaddevatā:
+
+द्वितीये द्वादशर्चॆ तु प्रत्यृचं यास्तु देवताः । (*dvitīye dvādaśarcè tu pratyṛcaṃ yāstu devatāḥ |*)
+स्तूयंते ह्यग्निना सार्धं तासां नामानि मे शृणु ॥ (*stūyaṃte hyagninā sārdhaṃ tāsāṃ nāmāni me śṛṇu ‖*)
+प्रथमायां स्तुतश्चेध्मो द्वितीयायां तनूनपात् । (*prathamāyāṃ stutaścedhmo dvitīyāyāṃ tanūnapāt |*)
+नराशंसस्त्रीतीयायां चतुर्थ्या० स्तूयते त्विळः ॥ (*narāśaṃsastrītīyāyāṃ caturthyā0 stūyate tviḷaḥ ‖*)
+बर्हिरेव तु पंचम्यां द्वारो देव्यस्ततोऽन्यया ॥ (*barhireva tu paṃcamyāṃ dvāro devyastato 'nyayā ‖*)
+नक्तोषासा तु सप्तम्यामष्टम्यां संस्तुतौ सह । (*naktoṣāsā tu saptamyāmaṣṭamyāṃ saṃstutau saha |*)
+देव्याविति तु होतारौ नवम्यामृचि संस्तुताः ॥ (*devyāviti tu hotārau navamyāmṛci saṃstutāḥ ‖*)
+तिस्रो देव्यो दशम्यां तु ज्ञेयस्त्वष्टैव तु स्तुतः । (*tisro devyo daśamyāṃ tu jñeyastvaṣṭaiva tu stutaḥ |*)
+एकादश्यां तु सूक्तस्य स्तुतं विद्याद्वनस्पतिं ॥ (*ekādaśyāṃ tu sūktasya stutaṃ vidyādvanaspatiṃ ‖*)
+द्वादश्यां तु स्तुता देवीर्विद्यात्स्वाहाकृतीरिति । (*dvādaśyāṃ tu stutā devīrvidyātsvāhākṛtīriti |*)
+सूक्तेऽस्मिन्प्रत्यृचं यास्तु देवताः परिकीर्तिताः ॥ (*sūkte 'sminpratyṛcaṃ yāstu devatāḥ parikīrtitāḥ ‖*)
+ता एव सर्वास्वाप्रीषु द्वितीया तु विकल्प्यते । (*tā eva sarvāsvāprīṣu dvitīyā tu vikalpyate |*)
+(बृ दे. २-१४६ रिंद १५१) (*(bṛ de. 2-146 riṃda 151)*)
+
+Thus he names all the deities, Idhma and the rest, and shows the order of the sūkta and that in each single ṛk a separate deity is addressed.
+
+Speaking of how many Āprī sūktas there are, the Nirukta-author says:
+
+इतीमान्येकादशाप्रीसूक्तानि । तेषां वासिष्ठमात्रेयं वाध्र्यश्वं गार्त्स- (*itīmānyekādaśāprīsūktāni | teṣāṃ vāsiṣṭhamātreyaṃ vādhryaśvaṃ gārtsa-*)
+मदमिति नाराशंसवंति ; मैधातिथं दैर्घतमसं प्रैषिकमित्युभयवंत्य- (*madamiti nārāśaṃsavaṃti ; maidhātithaṃ dairghatamasaṃ praiṣikamityubhayavaṃtya-*)
+तोऽन्यानि तनूनपात्वंति तनूनपात्वंति । (*to 'nyāni tanūnapātvaṃti tanūnapātvaṃti |*)
+(नि. ८-२२) (*(ni. 8-22)*)
+
+Among these sūktas, the praises seen by Vasiṣṭha, Atri, Vadhryaśva and Gṛtsamada are addressed to Narāśaṃsa; those seen by the sages Medhātithi and Dīrghatamas, and also the Praiṣa sūkta, are addressed to both deities, तनूपात् [?] (*tanūpāt [?]*) and Narāśaṃsa; the remaining four sūktas are addressed to the deity Tanūnapāt alone. In all (counting the Praiṣa sūkta) there are eleven Āprī sūktas. The same opinion is stated in the Bṛhaddevatā too:
+
+प्रेपैः सहाप्रीसूक्तानि तान्येकादश संति च । (*prepaiḥ sahāprīsūktāni tānyekādaśa saṃti ca |*)
+यजूंषि प्रैषसूक्तं वा दशैतानीतराणि तु ॥ (*yajūṃṣi praiṣasūktaṃ vā daśaitānītarāṇi tu ‖*)
+सौत्रामण्यानि तु त्रीणि प्राजापत्याश्वमेधिके । (*sautrāmaṇyāni tu trīṇi prājāpatyāśvamedhike |*)
+
+(the supplied text breaks off here, at the end of the window, in the middle of the Bṛhaddevatā verse).
+
 ---
 
-**Progress note:** Done through printed p. 217 (PDF 217). Done through printed p. 217 (Sukta 187 complete; Sukta 188 introduction on the Apri suktas begun, breaks off at the Taittiriya-brahmana quotation on p. 217)
+**Progress note:** Done through printed p. 220 (PDF 220). Done through printed p. 220 (Sukta 188 Apri introduction continues; breaks off inside the Brihaddevata verse quotation at the end of p. 220); [?] on narasamra, tanupat
