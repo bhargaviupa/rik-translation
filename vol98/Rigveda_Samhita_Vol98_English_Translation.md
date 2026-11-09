@@ -12056,6 +12056,100 @@ In such ṛks (ऋ. सं. १-१०६-१ (*ṛ. saṃ. 1-106-1*)), when the
 
 *(The bhāṣya of Ṛk 7 breaks off here, in the middle of a word, at रमणी- (*ramaṇī-*), at the end of the window.)*
 
+### Printed p. 407
+
+*Running head (as supplied): [अ. २. आ. ५. व. १८.] ऋग्वेदसंहिता 407 (*[a. 2. ā. 5. va. 18.] ṛgvedasaṃhitā 407*).*
+
+*(Continuation of the bhāṣya of Ṛk 7 of Sūkta 1 of Maṇḍala 2, from mid-word at the end of the previous page.)*
+
+> यानां धनानां मणिमुक्तादीनां धारयितासि । तथा हे नृपते नृणां पालकाग्ने
+> त्वं भगो भजनीयः सन् वस्वो वसुनो धनस्येशिषे । समर्थो भवसि दातुं । यो
+> यजमानो दमे यज्ञगृहे ते त्वामविधत् परिचरति तस्य पायुः पालकस्त्वमसि ॥
+
+*Gist:* Agni gives gold to the sacrificer who adorns him; as Savitṛ he impels deeds, holds jewels; as Bhaga he rules wealth; he protects his servant.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). आरंकृते—निन्नन्नु अलंकरिसुव यजमाननिगॆ द्रविणोदाः—सुवर्णादिगळन्नु कॊडुववनागिद्दीयॆ (*āraṃkṛte—ninnannu alaṃkarisuva yajamānanigè draviṇodāḥ—suvarṇādigaḷannu kòḍuvavanāgiddīyè*) (to the sacrificer who adorns you, you are the giver of gold and the like). रत्नधाः त्वं—रमणीयवाद मणि मुक्तादिगळन्नु धरिसिरुव नीनु (*ratnadhāḥ tvaṃ—ramaṇīyavāda maṇi muktādigaḷannu dharisiruva nīnu*) (you who bear the delightful jewels, pearls and the like). देवः सविता—सकल कर्मगळिगू प्रेरकनादवनू, देवतात्मनू आद सवितृवागि (*devaḥ savitā—sakala karmagaḷigū prerakanādavanū, devatātmanū āda savitṛvāgi*) (as the divine Savitṛ, the impeller of all rites, divine in self). असि—आगिद्दीयॆ (*asi—āgiddīyè*) (you are). नृपते—नररिगॆल्ला पालकनाद ऎलै अग्निये (*nṛpate—nararigèllā pālakanāda èlai agniye*) (O Agni, protector of all men). त्वं—नीनु (*tvaṃ—nīnu*) (you). भगः—पूज्यनाद भगनागि (*bhagaḥ—pūjyanāda bhaganāgi*) (as the revered Bhaga). वस्वः—धनक्कॆ (*vasvaḥ—dhanakkè*) (to wealth). ईशिषे—प्रभुवागिद्दीयॆ (*īśiṣe—prabhuvāgiddīyè*) (you are lord). यः—याव यज माननु (*yaḥ—yāva yaja mānanu*) (which sacrificer). दमे—यज्ञगृहदल्लि (*dame—yajñagṛhadalli*) (in the sacrificial house). ते—निन्नन्नु (*te—ninnannu*) (you). अनिधत्—उपचरिसुत्तानॆयो अवन (*anidhat—upacarisuttānèyo avana*) (whoever serves (the printed word is garbled), of him). पायुः—पालकनागि (*pāyuḥ—pālakanāgi*) (as protector). त्वं—नीनु (इद्दीयॆ) (*tvaṃ—nīnu (iddīyè)*) (you are).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you are the giver of wealth, who gives gold and the like to the sacrificer who adorns you. You, who bear delightful jewels, pearls and the like, are the divine Savitṛ, the impeller of all rites. O Agni, protector of all men, you, as the revered Bhaga, are lord of wealth. You are the protector of the sacrificer who serves you.
+
+**Printed English translation**
+
+You, Agni, are Dravinodas, to him who honours you : you are the divine Savitri, the possessor of precious things : protector of men, you are Bhaga and rule over wealth ; you are the cherisher of him who worships you in his dwelling.
+
+*[As supplied, the label line of the Special Topics reads विशेषयगळु (*viśeṣayagaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 7)**
+
+द्रविणोदाशि (*draviṇodāśi*) (as printed, for the word *draviṇodāḥ*): Yāska has written an extended explanation of this word:
+
+द्रविणोदाः । द्रविणोदाः कस्माद्दनं द्रविणमुच्यते । यदेनदभिद्र- (*draviṇodāḥ | draviṇodāḥ kasmāddanaṃ draviṇamucyate | yadenadabhidra-*)
+वंति । बलं वा द्रविणं यदेनेनाभिद्रवंति । तस्य दाता द्रविणोदाः । (*vaṃti | balaṃ vā draviṇaṃ yadenenābhidravaṃti | tasya dātā draviṇodāḥ |*)
+(नि. ८-१) (*(ni. 8-1)*)
+
+Here the derivation of the word *draviṇodāḥ* is द्रविणं ददातीति द्रविणोदाः (*draviṇaṃ dadātīti draviṇodāḥ*): the word *draviṇa* has two meanings, wealth and strength; therefore *draviṇodāḥ* means the giver of wealth or of strength. This is the component meaning of this word.
+
+### Printed p. 408
+
+*Running head (as supplied): [408 सायणभाष्यसहिता [मं. २. आ. १ सू. १] (*[408 sāyaṇabhāṣyasahitā [maṃ. 2. ā. 1 sū. 1]*).*
+
+Besides, Yāska has given the explanation for the ṛk द्रविणोदा द्रवि णसः (*draviṇodā dravi ṇasaḥ*) (ऋ. सं. १-१५-७ (*ṛ. saṃ. 1-15-7*)) thus:
+
+द्रविणोदा यस्त्वं । द्रविणस इति द्रविणसादिन इति वा द्रविणसानिन इति वा (*draviṇodā yastvaṃ | draviṇasa iti draviṇasādina iti vā draviṇasānina iti vā*)
+द्रविणसस्तस्मात् पिब त्विति वा । यज्ञेषु देवमीळते । याचंति स्तुवंति, (*draviṇasastasmāt piba tviti vā | yajñeṣu devamīḷate | yācaṃti stuvaṃti,*)
+वर्धयंति पूजयंतीति वा ॥ (*vardhayaṃti pūjayaṃtīti vā ‖*)
+
+That is, the priests who desire wealth, oblations and the like pray to you, called Draviṇodāḥ, in the sacrifices, to drink soma; this is the main meaning. Here, although *draviṇodāḥ* is the nominative singular, how did it become an epithet of the word देवं (*devaṃ*), the accusative singular? The words must be supplied so as to give the sense द्रविणोदा यः देवः तं देवं (*draviṇodā yaḥ devaḥ taṃ devaṃ*), "that god who is the giver of wealth". द्रविणसः (*draviṇasaḥ*): since they pray to the god, for the sake of worshipping the deity, for wealth or oblations, the word द्रविणिसः (*draviṇisaḥ*) (as printed) means priests; and ईळते (*īḷate*) may be said to have many meanings: they beg, praise, extol, worship.
+
+तत्को द्रविणोदा इंद्र इति क्रौष्टुकिः । (*tatko draviṇodā iṃdra iti krauṣṭukiḥ |*)
+स बलधनयोर्दातृतमस्तस्य च सर्वा बलकृतिः ॥ (*sa baladhanayordātṛtamastasya ca sarvā balakṛtiḥ ‖*)
+
+The component meaning of the word *draviṇodāḥ* has been given. But who is the deity called *draviṇodāḥ*? It is Indra who is said to be *draviṇodāḥ*, because the one who gives in excess the strength and wealth indicated by the word *draviṇa* is Indra himself; therefore Indra should be called *draviṇodāḥ*: this is the view of Krauṣṭuki (the print has अभिपाय (*abhipāya*) for "view").
+
+अथाप्यग्निं द्रविणोदसमाहैष पुनरेतस्माज्जायते । (*athāpyagniṃ draviṇodasamāhaiṣa punaretasmājjāyate |*)
+यो अश्मनोरंतरग्निं जजान इत्यपि निगमो भवति ॥ (*yo aśmanoraṃtaragniṃ jajāna ityapi nigamo bhavati ‖*)
+
+And he gives another meaning for this word. Indra created heaven and earth, and in the middle of them created Agni too. Therefore the word *draviṇodāḥ* may also be said to be Agni; to support this meaning they have given as an example the ṛk अश्मनोरंतरग्निं जजान (*aśmanoraṃtaragniṃ jajāna*).
+
+अथाप्यतुयाजेषु द्रविणोदसः प्रवादा भवंति । तेषां पुनः पात्रस्येंद्र- (*athāpyatuyājeṣu draviṇodasaḥ pravādā bhavaṃti | teṣāṃ punaḥ pātrasyeṃdra-*)
+पानमिति भवति ॥ अथाप्येनं सोमपानेन स्तौति अथास्याह द्रविणोदाः (*pānamiti bhavati ‖ athāpyenaṃ somapānena stauti athāsyāha draviṇodāḥ*)
+पिबतु द्रविणोदस इति ॥ (*pibatu draviṇodasa iti ‖*)
+
+### Printed p. 409
+
+*Running head (as supplied): [अ. २. अ. ५. व. १८] ऋग्वेदसंहिता 409 (*[a. 2. a. 5. va. 18] ṛgvedasaṃhitā 409*).*
+
+Because it is said that in the sacrifices offered to the seasons Indra drinks soma from the vessel in the hands of the priests, and because Indra is praised with mantras connected with soma drinking, it is the custom to call the priests by the name द्रविणोदस (*draviṇodasa*) (plural). All this is the opinion of Krauṣṭuki.
+
+अयमेवाग्निर्द्रविणोदा इति शाकपूणिः । आग्नेयेष्टेव हि सूक्तेषु द्रवि- (*ayamevāgnirdraviṇodā iti śākapūṇiḥ | āgneyeṣṭeva hi sūkteṣu dravi-*)
+णोदसाः प्रवादा भवंति. (*ṇodasāḥ pravādā bhavaṃti.*)
+
+Agni himself is *draviṇodāḥ*: this is the opinion of Śākapūṇi. For in the sūktas related to Agni, the priests, when praising Agni, use the word *draviṇodāḥ* as an epithet of Agni.
+
+यथो एतत्स बलधनयोर्दातृतम इति सर्वासु देवतास्वैश्वर्यं विद्यते । (*yatho etatsa baladhanayordātṛtama iti sarvāsu devatāsvaiśvaryaṃ vidyate |*)
+यथो “ एतदोजसो जातमुतमन्य एनं” इति चाहेत्ययमप्यग्निरो- (*yatho “ etadojaso jātamutamanya enaṃ” iti cāhetyayamapyagniro-*)
+जसा बलेन मध्यमानो जायते तस्मादेनमाह सहसस्पुत्रं सहसः सूनुं (*jasā balena madhyamāno jāyate tasmādenamāha sahasasputraṃ sahasaḥ sūnuṃ*)
+सहसो यहुं ॥ (*sahaso yahuṃ ‖*)
+
+Lordship is found in all the deities. Therefore Agni too gives strength and wealth. Because he gives strength and wealth, Agni too may be called *draviṇodāḥ*. Besides, the word *draviṇa* has the meaning of strength. There is a tradition that when Agni is produced, strength is used (the churning is done strongly), and so Agni was born of strength. For this very reason Agni is praised with the words सहसस्पुत्रं, ( सहसः-बलद, पुत्रं-पुत्रनाद अग्नियन्नु ) सहसः सूनुं, सहसो यहुं (*sahasasputraṃ, ( sahasaḥ-balada, putraṃ-putranāda agniyannu ) sahasaḥ sūnuṃ, sahaso yahuṃ*):
+
+द्र्वन्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः । (*drvannaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ |*)
+सहसस्पुत्रो अद्भुतः ॥ (*sahasasputro adbhutaḥ ‖*)
+(ऋ सं. २-७-६) (*(ṛ saṃ. 2-7-6)*)
+
+त्वं ह यद्यविष्ठ्य सहसः सूनवाहुत । (*tvaṃ ha yadyaviṣṭhya sahasaḥ sūnavāhuta |*)
+ऋतावा यज्ञियो भुवः ॥ (*ṛtāvā yajñiyo bhuvaḥ ‖*)
+(ऋ. सं ८-७५-३) (*(ṛ. saṃ 8-75-3)*)
+
+अग्ने वाजस्य गोमत ईशानः सहसो यहो । (*agne vājasya gomata īśānaḥ sahaso yaho |*)
+अस्मे धेहि जातवेदो महिश्रवः ॥ (*asme dhehi jātavedo mahiśravaḥ ‖*)
+(ऋ. सं. १-२९-४) (*(ṛ. saṃ. 1-29-4)*)
+
+In these ṛks the words सहसस्पुत्र (*sahasasputra*), सहसःसूनु (*sahasaḥsūnu*) and सहसो यहु (*sahaso yahu*) are used, respectively, in praising Agni. Therefore, although other deities too give strength and wealth, Agni is specially propounded by the word *draviṇodāḥ* (the supplied text ends here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 406 (PDF 406). Mandala 2 Sukta 1 Rik 6 Special Topics and grammar complete (asura, marutam shardhah, prksha ishishe, tmana); Rik 7 Samhita and Pada, bhashya begun
+**Progress note:** Done through printed p. 409 (PDF 409). Mandala 2 Sukta 1 Rik 7: bhashya end, Pratipadartha, Bhavartha, printed English; Special Topics on dravinoda (Nirukta 8-1 and the views of Kraushtuki and Shakapuni)
