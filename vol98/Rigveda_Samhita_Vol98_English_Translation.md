@@ -7070,6 +7070,120 @@ It is said that these doors are the wives of the gods, that they follow Agnāyī
 
 Regarding the preparation of the four doors of the sacrificial house, the Taittirīya-saṃhitā describes it thus: (the supplied text breaks off here, at "ವರ್ಣಿಸಿದೆ—", at the end of the window).
 
+### Printed p. 243
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 8] Ṛgveda-saṃhitā 243 (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 5 of Sūkta 188 on the four doors; the Taittirīya-saṃhitā passage announced at the end of p. 242.)*
+
+प्राचीनवग्ंशं करोति देवमनुष्या दिशो व्यभजंत प्राचीं देवा दक्षिणा (*prācīnavagṃśaṃ karoti devamanuṣyā diśo vyabhajaṃta prācīṃ devā dakṣiṇā*)
+पितरः प्रतीचीं मनुष्या उदीचीग्‌ं रुद्राः ॥ (*pitaraḥ pratīcīṃ manuṣyā udīcīgṃ rudrāḥ ‖*)
+(तै. सं, ६-१-१-१) (*(tai. saṃ, 6-1-1-1)*)
+
+That is: it is said that the gods took the east door of the sacrificial house, the ancestors (*pitṛs*) the south door, men the west door, and the (eleven) Rudras the north door. The names of the doors of this sacrificial house, as stated in this ṛk, may be said to be as follows: *virāṭ* is the east door, *samrāṭ* the south door, *vibhvīḥ* the west door, and *prabhvīḥ* the north door. Sāyaṇa has explained the etymological meanings of these words.
+
+विराट् (*virāṭ*) — विशेषेण राजंत इति । व्यत्ययेनैकवचनं (*viśeṣeṇa rājaṃta iti | vyatyayenaikavacanaṃ*): because it shines specially, this door (the east door) is called *virāṭ*. The singular is used in the Vedic manner.
+
+सम्राट् (*samrāṭ*) — सम्यगिति पूज्यतरं राजमानाः । अत्रापि व्यत्ययेनैक वचनं (*samyagiti pūjyataraṃ rājamānāḥ | atrāpi vyatyayenaika vacanaṃ*): because it is excellent, this door is worthy of worship and shining. Here too, for the reason stated above, the singular is used.
+
+विभ्वीः (*vibhvīḥ*) — विभ्यो विविधं भवित्र्यः (*vibhyo vividhaṃ bhavitryaḥ*): being in various ways, that is, doors that are ornamented.
+
+प्रभृः [?] (*prabhṛḥ [?]*) (the print has this form) — प्रकर्षेण भवित्र्यः (*prakarṣeṇa bhavitryaḥ*): doors that are very well ornamented.
+
+बह्वीश्च भूयसीश्च (*bahvīśca bhūyasīśca*) — लोकप्रसिद्ध संख्याभिश्च भूयस्यश्च (*lokaprasiddha saṃkhyābhiśca bhūyasyaśca*): that is, as is well known in the world, the four doors in the four directions. From the word *bhūyasīś ca* it is clear that these doors, being large, are famed as great doors.
+
+फृतानि [?] (*phṛtāni [?]*) — the word (printed with *ph*) is read among the hundred and one names of water, *aṇaḥ*, *kṣodaḥ* and others (नि. २-२४. (*ni. 2-24.*)); here it means waters.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 5, noted briefly)
+
+विराट् (*virāṭ*): विशेषेण राजंते इति विराजः (*viśeṣeṇa rājaṃte iti virājaḥ*), root राज्य दीप्तौ (*rājya dīptau*); the suffix *kvip*; by व्यत्ययोबहुलम् (*vyatyayobahulam*) a singular ending comes for the plural; at the end of the word, by व्रश्चभृस्थ— (*vraścabhṛstha—*) the root's *j* becomes *ṣ*-form; by गतिकारकोपपदात्‌कृत् (*gatikārakopapadātkṛt*) the accent of the first member of the *kṛt* compound. Likewise in सम्राट् (*samrāṭ*) the singular has come by *vyatyaya*.
+
+### Printed p. 244
+
+*Running head (unmarked page break in the supplied text; printed inside the text): [244 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (the print has "ಸಾಯಣಭಾಷ್ಮಸಹಿತಾ" with a misprint).*
+
+भूयसीः (*bhūyasīḥ*): after *bahu* in the superlative-comparative sense the suffix *īyasun*; by बहोर्लोपो भू च बहोः (*bahorlopo bhū ca bahoḥ*) (पा सू. ६-४-१९८ (*pā sū. 6-4-198*)) the *ī* of *īyasun* after *bahu* is dropped and *bhū* is substituted for *bahu*; when the feminine is intended, by उगितश्च (*ugitaśca*) (पा. सू. ४-१-७ (*pā. sū. 4-1-7*)) the suffix *ṅīp*; the suffix *īyasun* being marked *n*, the first syllable is acute; in the nominative plural, when *jas* follows, by सुपांसुलुक्— (*supāṃsuluk—*) (पा. सू ७-१-३९ (*pā. sū 7-1-39*)) the preceding similar vowel is lengthened. अक्षरन् (*akṣaran*) (root क्षर संचलने (*kṣara saṃcalane*)): by छंदसि लुज्— (*chaṃdasi luj—*) *laṅ* in the sense of the present; first person plural; the verb-*nighāta* accent.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> सु॒रु॒क्मे हि सु॒पेश॒साधि॑ श्रि॒या वि॒राज॑तः ।
+> उ॒षासा॒वेह सी॑दतां ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+*[The Pada has आ i [?] (*ā i [?]*), a Latin letter *i* between *ā* and *iha*; marked [?].]*
+
+> सुरुक्मे इति सुरुक्मे । हि । सुपेशसा । अधि । श्रिया । विराजतः ।
+> उषसौ । आ i [?] इह । सीदतां ॥ ६ ॥
+
+> *surukme iti surukme | hi | supeśasā | adhi | śriyā | virājataḥ |*
+> *uṣasau | ā i [?] iha | sīdatāṃ ‖ 6 ‖*
+
+*[As supplied, a line reading आ सुखभाष्यं (*ā sukhabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> सुरुक्मे शोभनदीप्ताभरणे प्रसिद्धे सुपेशसा शोभनरूपे ईदृश्यावहो-
+> रात्रदेवते अध्यधिकं श्रिया सौंदर्येण विराजतः । विशेषेण दीप्येते ॥ हियोगा-
+> दनिघातः ॥ तादृश्यावुषसौ । एतद्रात्रेरप्युपलक्षणं । उषःशब्दो दिवसस्योपलक्षकः।
+> रात्रिरुषाश्चोभे इहास्मिन्निन आ सीदतां । आगत्य तिष्ठतां । आगच्छतां वा ॥
+
+*Gist:* The two well-adorned, beautiful deities of day and night, shining with surpassing beauty, are to come and sit here (on the sacred grass); *usas* stands for the day, and the night too is meant.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुरुक्मे—प्रकाशवे आभरणवागि उळ्ळवरू (*surukme—prakāśave ābharaṇavāgi uḷḷavarū*) (having light itself as ornament). सुपेशसा—आकर्षकवाद रूपवुळ्ळवरू आद अहोरात्रदेवतॆगळु (*supeśasā—ākarṣakavāda rūpavuḷḷavarū āda ahorātradevatègaḷu*) (of attractive form, the deities of day and night). अधि—अधिकवाद (*adhi—adhikavāda*) (surpassing). श्रिया—सौंदय्यदिंद (*śriyā—sauṃdayyadiṃda*) (with beauty). विराजतः—प्रकाशिसु त्तारॆ (*virājataḥ—prakāśisu ttārè*) (they shine). उषसौ—इंतह सौंदय्यवुळ्ळ अहोरात्र देवतॆगळु (*uṣasau—iṃtaha sauṃdayyavuḷḷa ahorātra devatègaḷu*) (such day-and-night deities of beauty). इह—इंदु (दर्भासनद मेलॆ) (*iha—iṃdu (darbhāsanada melè)*) (here, today, on the darbha seat). आ सीदतां—बंदु कुळितुकॊळ्ळलि (*ā sīdatāṃ—baṃdu kuḷitukòḷḷali*) (let them come and sit).
+
+**भावार्थ (Bhāvārtha)**
+
+The deities of day and night, who have light itself as ornament and are of attractive form, shine with surpassing beauty. Let such deities of day and night, of such beauty, come and sit on the darbha seat.
+
+### Printed p. 245
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 9] Ṛgveda-saṃhitā 245 (as supplied).*
+
+**Printed English translation**
+
+Let the brilliant and beautiful Day and Night, who shine with surpassing lustre, sit down here (upon the sacred grass).
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 6)**
+
+सुपेशसा (*supeśasā*) — since the word *peśaḥ* is read among the sixteen words denoting form, *nirṇik*, *vanniḥ* and others (नि. ८-११ (*ni. 8-11*)), *peśaḥ* means form. Therefore *supeśasā* means "endowed with beautiful form", beautiful.
+
+उषसौ (*uṣasau*) — since the dual *uṣasau* is used in this ṛk, it must be understood that the two deities *uṣāsānaktā* or *naktoṣāsā* are indicated. It is necessary to examine carefully who this deity *naktoṣāsā* is, what their nature is, and so on. In this ṛk the presiding deities of night and of morning, *naktoṣāsā*, are invoked. Yāska's explanation of the word *naktoṣasā* is as follows:
+
+उषासानक्ता । उषासानक्कोषाश्च नक्ता चोषा व्याख्याता । नक्तेति (*uṣāsānaktā | uṣāsānakkoṣāśca naktā coṣā vyākhyātā | nakteti*)
+रात्रिनामानक्ति भूतान्यवश्यायेनापि वा नक्ताव्यक्तवर्णा ॥ (*rātrināmānakti bhūtānyavaśyāyenāpi vā naktāvyaktavarṇā ‖*)
+
+Although read in two ways, *naktoṣāsā* and *uṣāsānaktā*, the meaning is only one. The explanation of the word *uṣāḥ* we have stated before. *Naktā* is a name of night. For *naktā* means "of indistinct colour": because it is dark, things are indistinct, that is, not seen well. Therefore the night, accompanied by darkness, is called *naktā*, and in this night-time living beings are unable to carry on their activities. अनक्ति क्लेदयति भूतानि अवश्यायेन । अपि वानक्ता अव्यक्तवर्णा । यथा अहः सर्वमभिव्यक्तरूपं भवति न तथा रात्रिः (*anakti kledayati bhūtāni avaśyāyena | api vānaktā avyaktavarṇā | yathā ahaḥ sarvamabhivyaktarūpaṃ bhavati na tathā rātriḥ*): since the darkness troubles living beings so that their activities cannot go on properly, the night accompanied by such darkness is called *naktā*; or, because nothing is seen well and all is indistinct, it is called *naktā*. By day the forms of all things are seen clearly; at night they are not so seen; therefore the night-time is named *naktā*: so the meaning is explained (नि. ८-११ (*ni. 8-11*)).
+
+उषा: (*uṣā:*) — "we have explained the meaning of the word *uṣāḥ* before", they say. That explanation is as follows:
+
+### Printed p. 246
+
+*Running head: [246 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+विभावरी, सूनरी मॊदलाद हदिनारु शब्दगळु उषोनाम शब्दगळु. (२-१९) (*vibhāvarī, sūnarī mòdalāda hadināru śabdagaḷu uṣonāma śabdagaḷu. (2-19)*) — the sixteen words *vibhāvarī*, *sūnarī* and others are names of Uṣas; and
+
+उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ*). Because it removes the darkness of the night-time, it is called *uṣāḥ*; that is, the later time of night, its last part. To support this meaning an example is given:
+
+इदं श्रेष्ठं ज्योतिषां जोतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । (*idaṃ śreṣṭhaṃ jyotiṣāṃ jotirāgāccitraḥ praketo ajaniṣṭa vibhvā |*)
+यथा प्रसूता सवितुः सवाय एवा रात्रुषसे योनिमारैक् ॥ (*yathā prasūtā savituḥ savāya evā rātruṣase yonimāraik ‖*)
+(म. सं. १-११३-१) (*(ma. saṃ. 1-113-1)*)
+
+The Nirukta on this ṛk (the print has "ಈ ಹಕ್ಕಿನ" for "ಈ ಋಕ್ಕಿನ"):
+
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् । चित्रं प्रकेतनं प्रज्ञातत- (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgamat | citraṃ praketanaṃ prajñātata-*)
+ममजनिष्ट विभूततमं यथा प्रसूता सवितु: प्रसवाय रात्रिरादि- (*mamajaniṣṭa vibhūtatamaṃ yathā prasūtā savitu: prasavāya rātrirādi-*)
+त्यस्य । एवं रात्र्युषसे योनिमरिचत् स्थानं । स्त्रीयोनिरभियुत (*tyasya | evaṃ rātryuṣase yonimaricat sthānaṃ | strīyonirabhiyuta*)
+एनां गर्भः ॥ (*enāṃ garbhaḥ ‖*)
+
+The best and most brilliant light of the sun is rising. The dawn-time, which precedes the sun's light, appears before the light like its banner (sign). How? Just as the light of the sun shines all day and at sunset becomes the womb (*yoni*), that is, the cause, of the night, so the night at its close becomes the womb, that is, the cause, of the dawn. *Yoni* means place of birth. The chief meaning is that the night at the end of day and the dawn at the end of night come one after the other by way of a change. Therefore *uṣas* means the light, the brightness, that appears pervading all the directions before sunrise, after the night has passed.
+
+The bhāṣyakāra's (Sāyaṇa's) explanation: नक्तशब्द उषश्यब्दश्च लोके कालविशेषवा- चिन् । इह तु तत्कालाभिमानिवह्निमूर्तिद्वये प्रयुज्येते । नक्तोषासा नक्तोषो- नामिके वह्निमूर्ति (*naktaśabda uṣaśyabdaśca loke kālaviśeṣavā- cin | iha tu tatkālābhimānivahnimūrtidvaye prayujyete | naktoṣāsā naktoṣo- nāmike vahnimūrti*) — that is, the two words *nakta* (night) and *uṣas* (morning) in worldly usage denote the particular times, night and morning. Here, that is, in this ṛk or in the Ṛgveda, these words convey the sense of the presiding deities of night and morning. Therefore the words *naktoṣāsā* or *uṣāsānaktā*, in the sense of the two forms of Agni, the presiding deities of night and of the dawn-time... (the supplied text breaks off here, in mid-sentence, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 242 (PDF 242). Done through printed p. 242 (Sukta 188 Rik 5 Special Topics on dvarah continue; breaks off at the Taittiriya-samhita description of the four doors on p. 242)
+**Progress note:** Done through printed p. 246 (PDF 246). Done through printed p. 246 (Sukta 188 Rik 5 complete; Rik 6 complete through Special Topics begun, breaks off mid-sentence in the naktoshasa note on p. 246); [?] on prabhrih, phritani, a i
