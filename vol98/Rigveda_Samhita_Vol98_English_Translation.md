@@ -11646,6 +11646,102 @@ In the sacrifice the part of the Adhvaryu and of his group of helpers is much gr
 
 The Udgātṛ group sing the sāmans suited to the occasion at the time of invoking the deities and at the time of the soma recitation. The Sāmaveda mantras are the chief ones for them. Since it is said अयज्ञो ना एष योऽसामा (*ayajño nā eṣa yo 'sāmā*), that is, a sacrifice without sāman singing is no sacrifice, their part too is very important (the supplied text ends here, at the end of the window).
 
+### Printed p. 395
+
+*Running head (as supplied): [अ. २. अ. ५. व. १७] ऋग्वेदसंहिता 395 (*[a. 2. a. 5. va. 17] ṛgvedasaṃhitā 395*).*
+
+*(Continuation of the Special Topics of Ṛk 2 of Sūkta 1 of Maṇḍala 2, on the sixteen priests.)*
+
+Brahmā and the priests of his group of helpers see that the works carried on in sacrifices and the like are carried out completely and as the śāstra directs, and if any lapse or fault occurs in the middle, they have the proper expiation and the like performed and see that the sacrifice is completed in good order: this is their duty. They must also have knowledge of the four Vedas. All that has been said above is the general duties of the priests of each group. Besides these, each priest has a special and definite duty of his own. Out of the fear that the book would grow too long by telling all of that here, and because the need for it is not so great, that matter is not told here. Only the subtle details of the works of the priests that are indicated in this ṛk are told here.
+
+The Hotṛ, reciting mantras suited to each time in the sacrifice, invokes the deities. The Potṛ belongs to the Brahmā group; he corrects and purifies the lapses and faults that may occur in the sacrifice. The Neṣṭṛ does such work as bringing the wife of the sacrificer; he belongs to the Adhvaryu group. The Agnīt (अग्नीध्र (*agnīdhra*)) kindles Agni and looks after it; he belongs to the Brahmā group. The Prasthātṛ (मैत्रावरुण (*maitrāvaruṇa*)) is the helper of the Hotṛ and the director of the other priests (there is a Taittirīya Saṃhitā sentence, मैत्रावरुणो हि पुरस्ता- दृत्विग्यो वाचं विभजति (*maitrāvaruṇo hi purastā- dṛtvigyo vācaṃ vibhajati*)). The Adhvaryu proceeds as the leader in all the activities of the sacrifice; whatever work is to be done is only through him or his command. Brahmā sees whether the sacrifice goes on properly and whether any lapse of mantra and tantra happens. *Gṛhapati* here may mean Agni, the lord of the sacrificial house, or the sacrificer who performs the sacrifice. All these are the very form of Agni; that is, the sage has described that Agni is of great majesty.
+
+#### Ṛk 3
+
+*[As supplied, the label line of the Saṃhitā reads सःहितासार (*saḥhitāsāra*); standard label inserted. The Saṃhitā of Ṛk 3 carries no verse numeral at its end in the supplied text, while the Pada has it; no number is added to the Saṃhitā. A word that stood alone on the second line of the Saṃhitā is joined to its line. One reading of the Pada is marked with a query, as it differs from the Saṃhitā.]*
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्न॒ इंद्रो॑ वृष॒भः स॒ताम॑सि॒ त्वं विष्णु॑रुरुगा॒यो न॑म॒स्यः॑ ।
+> त्वं ब्र॒ह्मा र॑यि॒विद्ब्र॑ह्मणस्पते॒ त्वं वि॑धर्तः सचसे॒ पुरं॑ध्या॥
+
+> *tvamagna iṃdro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ |*
+> *tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā‖*
+
+### Printed p. 396
+
+*Running head (as supplied): [396 सायणभाष्यसहिता [मं. २ आ. १. सू. १] (*[396 sāyaṇabhāṣyasahitā [maṃ. 2 ā. 1. sū. 1]*).*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । इंद्रः । वृषभः । सतां । असि । त्वं । विष्णुः । उरुगायः । नमस्यॆ [?] ।
+> त्वं । ब्रह्मा । रयिवित् । ब्रह्मणः । पते । त्वं । विधर्तरिति विधर्तः । सचसे । पुरंध्या
+> ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वं यतः सतां वृषभो वर्षितासि अत इंद्रोऽसि । यद्वा सतां
+> साधूनामिंद्रोऽसि । कामानां वर्षितासि । त्वं विष्णुरसि । यत उरुगायो बहु-
+> भिर्गीयमानो नमस्को नमस्कार्यश्च भवसि । हे ब्रह्मणस्पते परिवृढस्य कर्मणो
+> मंत्रस्य वा पालयितस्त्वं यतो रयिवित् गवादिधनस्य वेत्ता अतो ब्रह्मासि ।
+> हे विधर्तर्विविधकारक वैश्वानररूपाग्ने पुरंध्या बहुप्रकारया बुद्ध्या सचसे ।
+> सह वर्तसे । सर्वदा बुद्ध्या स्तूयस इत्यर्थः ॥
+
+*Gist:* Agni is Indra, showerer on the good; Viṣṇu, widely praised and worthy of homage; Brahmā, rich; lord of rites; endowed with manifold wisdom.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). सतां—सत्पुरुषरिगॆ ! वृषभः—इष्टार्थगळन्नु सुरिसतक्क (*satāṃ—satpuruṣarigè ! vṛṣabhaḥ—iṣṭārthagaḷannu surisatakka*) (to the good men ! the showerer of wishes (the "!" is printed in place of a danda)). इंद्रः—इंद्रनागि (*iṃdraḥ—iṃdranāgi*) (as Indra). असि—इद्दीयॆ (*asi—iddīyè*) (you are). त्वं—नीनु (*tvaṃ—nīnu*) (you). उरुगायः—अनेकरिंद स्तुतिसल्पडुववनू (*urugāyaḥ—anekariṃda stutisalpaḍuvavanū*) (praised by many). नमस्यः—नमस्कारार्हनू आद (*namasyaḥ—namaskārārhanū āda*) (worthy of homage). विष्णुः—विष्णुवागिद्दीयॆ (*viṣṇuḥ—viṣṇuvāgiddīyè*) (you are Viṣṇu). ब्रहणस्पते— कर्मपालकनाद अग्निये (*brahaṇaspate— karmapālakanāda agniye*) (O Agni, protector of rites). त्वं—नीनु (*tvaṃ—nīnu*) (you). रयिवित्—धनवंतनाद (*rayivit—dhanavaṃtanāda*) (the wealthy). ब्रह्मा—ब्रह्मनागिद्दीयॆ (*brahmā—brahmanāgiddīyè*) (you are Brahmā). विधर्तः—अनेक कार्यगळिगॆ कर्तनाद वैश्वानराग्निये (*vidhartaḥ—aneka kāryagaḷigè kartanāda vaiśvānarāgniye*) (the doer of many works, the Vaiśvānara Agni). पुरंध्या—अनेक विधवाद ज्ञानदिंद (*puraṃdhyā—aneka vidhavāda jñānadiṃda*) (with manifold knowledge). सचसे—युक्तनागिद्दीयॆ (अथवा अनेक विधवाद प्रज्ञॆयिंद स्तुतनागिद्दीयॆ) (*sacase—yuktanāgiddīyè (athavā aneka vidhavāda prajñèyiṃda stutanāgiddīyè)*) (you are endowed (or praised with manifold wisdom)).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you are Indra, the showerer of wishes on good men; you are Viṣṇu, praised by many and worthy of homage; you are the wealthy Brahmā. You are endowed with manifold knowledge.
+
+**Printed English translation**
+
+You, Agni, are Indra, the showerer (of bounties) on the good ; you are the adorable Vishnu, the hymned of many ; you, Brahmasanapati, are Brahma, the possessor of riches ; you, the author of various (conditions), are associated with wisdom.
+
+### Printed p. 397
+
+*Running head (as supplied): [आ. २. आ ५. व. १७. ] ऋग्वेदसंहिता 397 (*[ā. 2. ā 5. va. 17. ] ṛgvedasaṃhitā 397*).*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3)**
+
+वृषभः— कामानां वर्षिता (*vṛṣabhaḥ— kāmānāṃ varṣitā*): the showerer of wishes, one who gives the desired objects.
+
+इंद्रो वृषभः सतां असि (*iṃdro vṛṣabhaḥ satāṃ asi*): you are one who grants desired objects to good men, like Indra. Or इंद्रो सतां असि (*iṃdro satāṃ asi*) (as printed): you are reckoned the best among all good men; this is the purport.
+
+विष्णुरुरुगायः—बहुभिर्गीयमानो विष्णुरसि (*viṣṇururugāyaḥ—bahubhirgīyamāno viṣṇurasi*): like Viṣṇu you are sung by many on the matter of your qualities.
+
+ब्रह्मणस्पते—यज्ञकर्मणः पालयिता (*brahmaṇaspate—yajñakarmaṇaḥ pālayitā*): the protector of sacrificial rites; or, like Bṛhaspati, the lord of the hymns.
+
+पुरंध्या—पुरंधिर्जहुधी (*puraṃdhyā—puraṃdhirjahudhī*): this is Yāska's etymology (नि. ६-१३ (*ni. 6-13*)). बहु प्रकाराया बुद्ध्या सचसे (*bahu prakārāyā buddhyā sacase*): one who has abundant or many kinds of intelligence; or the meaning is also that people praise you with their manifold intelligence.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्ने॒ राजा॒ वरु॑णो धृ॒तव्र॑त॒स्त्वं मि॒त्रो भ॑वसि द॒स्म ईड्यः॑ ।
+> त्वम॑र्य॒मा सत्प॑ति॒र्यस्य॑ सं॒भुजं॒ त्वमंशो॑ वि॒दथे॑ देव भाज॒युः ॥ ४ ॥
+
+*[A word that stood alone on the second line of each of the two Saṃhitā lines of Ṛk 4 is joined to its line.]*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । राजा । वरुणः । धृतव्रतः । त्वं । मित्रः । भवसि । दस्मः । ईड्यः ।
+> त्वं । अर्यमा । सत्पतिः । यस्य । संभुजं । त्वं । अंशः । विदथे । देव ।
+> भाजयुः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वं यतो धृतव्रतो धारितकर्मासि अतो वरुणो राजासि ।
+> यतो दस्मः - शत्रूणामुपक्षपयिता ईड्यः स्तुत्यश्च अतो मित्र एतन्नामको
+
+> *he agne tvaṃ yato dhṛtavrato dhāritakarmāsi ato varuṇo rājāsi |*
+> *yato dasmaḥ - śatrūṇāmupakṣapayitā īḍyaḥ stutyaśca ato mitra etannāmako*
+
+*(The bhāṣya of Ṛk 4 breaks off here, in the middle of a sentence, at एतन्नामको (*etannāmako*), at the end of the window.)*
+
 ---
 
-**Progress note:** Done through printed p. 394 (PDF 394). Mandala 2 Sukta 1 Rik 1 complete; Rik 2 complete through the printed English; Special Topics of Rik 2 begun (the sixteen priests) and broken off after the Udgatri group; four readings marked with a query
+**Progress note:** Done through printed p. 397 (PDF 397). Mandala 2 Sukta 1 Rik 2 complete; Rik 3 complete; Rik 4 Samhita, Pada and the first lines of the bhashya; one reading marked with a query
