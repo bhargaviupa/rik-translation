@@ -2063,6 +2063,151 @@ explains with the sūtra उच्छयस्व वनस्पते सम�
 
 *[The page ends with the Pada of Ṛk 1; the commentary on this Ṛk continues on the next page.]*
 
+### Printed p. 75
+
+*[Running head, p. 75: [Aṣṭaka 3, Adhyāya 1, Varga 3] Ṛgvedasaṃhitā 75 (as supplied, "ಅ. ೩. ಅ ೧. ವ. ೩")]*
+
+#### Ṛk 1 (continued)
+
+**॥ सायणभाष्यम् ॥**
+
+> वनस्पते खदिरपलाशादिलक्षण हे यूप अध्वरे यज्ञे देवयंतो देवान्
+> कामयमाना अध्वर्यादयो दैव्येन मथुना देवसंबंधिना मधुना धृतेन ।
+> एतद्वै मधु दैव्यं यदाज्यमित्याम्नानात् ऐ ब्रा. २२। तेन धृतेन त्वामंजंति ।
+> त्वयि धृतिं सिंचॆंतीत्यर्थः । यत् यदि त्वमूर्ध्वस्थाः । उन्नतस्तिष्ठसि । यद्वा
+> दि न मातुरस्या मातृभूतायोः पृथिव्या उपस्थ उत्संगे ते क्षयो निवासः ।
+> यदूर्ध्वस्तिष्ठसि यदि वा भूमौ शयानो वर्तसे उभयथापि त्वमिहास्मासु
+> दृविणा धनानि धत्तात् धेहि ॥ ब्राह्मणेनेयमृग्व्याख्याता । अंजंति त्वामध्वरे
+> देवयंत इत्त्वाहाध्वरे हैनं देवयंतोs ज्ञंति वनस्पते मधुना दैव्यनेत्ये-
+> तद्वै मधु दैवं यदाज्यं मदूर्ध्वस्था द्रविणमेवास्मासु धत्तादित्येव तदाह ।
+> ऐ ब्रा २२ । इति । तथा च निरुक्तमपि । अंजंति त्वामध्वरे देवान्कामयमाना
+> वनस्पते मधुना दैव्येन च धृतेन च यदूर्ध्वः स्थास्यसि द्रविणानि च नो दास्यसि
+> यद्वा ते कृतः क्षयो मातुरस्या उपस्थ उपस्थाने ' नि. ८.१८ । इति ॥ अंजंति ।
+> अंजू व्यक्ति कांतिगतिम्रक्षणेषु । रुधादित्वात् त्वं ! तस्य लटि झीर्ज्त्वादनिदिता-
+> मित्युपधालोपः श्नसोरल्लोप इत्यल्लोपः प्रत्ययस्वरेण मध्योदात्तः । त्वां ।
+> अनि युष्मच्छब्द त्वमावेकवचन इति त्वादेशः : द्वितीयायां चेत्याकारः । एका-
+> देश उदात्तीनोदात्त इत्येकादेशसोदात्तत्वं । अध्वरे । न विद्यते ध्वरो हिंसा
+> यस्यॆति बहुव्रीह पूर्वपदप्रकृतिस्वरत्वे प्राप्ते नञ्चभ्यामित्युत्तरपदांतोदा-
+> त्तत्वं देव संतः । देवानात्मन इच्छंतः । सुप आत्मन इति क्यच् । कृचि चेतीत्वं
+> अकृत्सार्वधातुकयोरिति दीर्घत्वं च न छंदस्यपुत्रसेत्यनेन प्रतिषिध्यते । तदंता-
+> च्छतृप्रत्ययः , शपः पित्ताल्लसार्वधातुकस्थरेण चानुदात्तत्वे कृते तयोरेकादेश
+> उदात्तेनोदात्त इति कृच एव स्वरः वनस्पते । अमंत्रितस्य चेत्याद्यु दात्तत्वं ।
+> दैव्येन' देवाद्यइञाविति यञ् । इत्वादृद्धिः । यस्यॆति लोपः । इत्त्वादाद्यु-
+> दात्तः । शिष्टाः । ष्ठा गतिनिवृत् । लेट सिप् । इतश्च लोप इतीकारलोपः । शप
+> शित्वात् साघ्रेत्यादिना तिष्ठा देशः । लेटोऽडाटावित्यडागमः । यच्छब्दयोगान्नि
+> घाताभावः । तिष्ठादेशस्यादुदात्तेन निरातितत्वादाद्युदात्तः । द्रविणा । द्रुदक्षिभ्यामि
+> नन्नितीनन्प्रत्ययः । सुपां सुलुगिति सुपो डादेशः । नित्वादाद्युदात्तः । इह । इदॆं-
+> शब्दात्सम्यर्थ इदमो ह इति हः । इदम इशितीशादेशः । शित्वात्सर्वादेशः । प्रत्यय
+> स्वरः । धत्तात् । डुधाङ् धारणपोषयोरित्यस्य प्रार्थने लोट् । सिप् । तस्य सेर्ह-
+> पिच्चेति हिरादेशः । तुह्योः । पा. ७-१-३५ । इति तातजादेशः । श्नाभ्यस्तयोरात
+> इत्याकारलोपः । दधस्तथोश्च । पा. ८-२-३८ । इति भष्‌भावः । जत्त्वर्त्वे । निघातः।
+> वा । चादित्वादनुदात्तः । क्षयः । क्षियंति निवसंत्यस्मिन्नित्यधिकरणे घः । क्षयो निवास
+> इत्याद्युदात्तत्वं । मातुः । नप्तृनेष्ट इत्यादिना तृजंतत्वेन निपातनादंतोदातः ।
+> ऋतउदिति जसः पूर्वपदयोरुकारः अस्याः । ऊडिदमित्यादिना विभक्तेरुदात्तत्वं ।
+> उपस्थे । ष्ठा गतिनिवृत् । आतश्चोपसर्ग इति कः । तत्पुरुषे तुल्यार्थीति मरुद्वधा-
+> दित्वात्तूर्वपदांतोदात्तत्वं ॥
+
+> *vanaspate khadirapalāśādilakṣaṇa he yūpa adhvare yajñe devayaṃto devān*
+> *kāmayamānā adhvaryādayo daivyena mathunā devasaṃbaṃdhinā madhunā dhṛtena |*
+> *etadvai madhu daivyaṃ yadājyamityāmnānāt ai brā. 22| tena dhṛtena tvāmaṃjaṃti |*
+> *tvayi dhṛtiṃ siṃcèṃtītyarthaḥ | yat yadi tvamūrdhvasthāḥ | unnatastiṣṭhasi | yadvā*
+> *di na māturasyā mātṛbhūtāyoḥ pṛthivyā upastha utsaṃge te kṣayo nivāsaḥ |*
+> *yadūrdhvastiṣṭhasi yadi vā bhūmau śayāno vartase ubhayathāpi tvamihāsmāsu*
+> *dṛviṇā dhanāni dhattāt dhehi ‖ brāhmaṇeneyamṛgvyākhyātā | aṃjaṃti tvāmadhvare*
+> *devayaṃta ittvāhādhvare hainaṃ devayaṃtos jñaṃti vanaspate madhunā daivyanetye-*
+> *tadvai madhu daivaṃ yadājyaṃ madūrdhvasthā draviṇamevāsmāsu dhattādityeva tadāha |*
+> *ai brā 22 | iti | tathā ca niruktamapi | aṃjaṃti tvāmadhvare devānkāmayamānā*
+> *vanaspate madhunā daivyena ca dhṛtena ca yadūrdhvaḥ sthāsyasi draviṇāni ca no dāsyasi*
+> *yadvā te kṛtaḥ kṣayo māturasyā upastha upasthāne ' ni. 8.18 | iti ‖ aṃjaṃti |*
+> *aṃjū vyakti kāṃtigatimrakṣaṇeṣu | rudhāditvāt tvaṃ ! tasya laṭi jhīrjtvādaniditā-*
+> *mityupadhālopaḥ śnasorallopa ityallopaḥ pratyayasvareṇa madhyodāttaḥ | tvāṃ |*
+> *ani yuṣmacchabda tvamāvekavacana iti tvādeśaḥ : dvitīyāyāṃ cetyākāraḥ | ekā-*
+> *deśa udāttīnodātta ityekādeśasodāttatvaṃ | adhvare | na vidyate dhvaro hiṃsā*
+> *yasyèti bahuvrīha pūrvapadaprakṛtisvaratve prāpte nañcabhyāmityuttarapadāṃtodā-*
+> *ttatvaṃ deva saṃtaḥ | devānātmana icchaṃtaḥ | supa ātmana iti kyac | kṛci cetītvaṃ*
+> *akṛtsārvadhātukayoriti dīrghatvaṃ ca na chaṃdasyaputrasetyanena pratiṣidhyate | tadaṃtā-*
+> *cchatṛpratyayaḥ , śapaḥ pittāllasārvadhātukasthareṇa cānudāttatve kṛte tayorekādeśa*
+> *udāttenodātta iti kṛca eva svaraḥ vanaspate | amaṃtritasya cetyādyu dāttatvaṃ |*
+> *daivyena ' devādyaiñāviti yañ | itvādṛddhiḥ | yasyèti lopaḥ | ittvādādyu-*
+> *dāttaḥ | śiṣṭāḥ | ṣṭhā gatinivṛt | leṭa sip | itaśca lopa itīkāralopaḥ | śapa*
+> *śitvāt sāghretyādinā tiṣṭhā deśaḥ | leṭo 'ḍāṭāvityaḍāgamaḥ | yacchabdayogānni*
+> *ghātābhāvaḥ | tiṣṭhādeśasyādudāttena nirātitatvādādyudāttaḥ | draviṇā | drudakṣibhyāmi*
+> *nannitīnanpratyayaḥ | supāṃ sulugiti supo ḍādeśaḥ | nitvādādyudāttaḥ | iha | idèṃ-*
+> *śabdātsamyartha idamo ha iti haḥ | idama iśitīśādeśaḥ | śitvātsarvādeśaḥ | pratyaya*
+> *svaraḥ | dhattāt | ḍudhāṅ dhāraṇapoṣayorityasya prārthane loṭ | sip | tasya serha-*
+> *picceti hirādeśaḥ | tuhyoḥ | pā. 7-1-35 | iti tātajādeśaḥ | śnābhyastayorāta*
+> *ityākāralopaḥ | dadhastathośca | pā. 8-2-38 | iti bhaṣbhāvaḥ | jattvartve | nighātaḥ|*
+> *vā | cāditvādanudāttaḥ | kṣayaḥ | kṣiyaṃti nivasaṃtyasminnityadhikaraṇe ghaḥ | kṣayo nivāsa*
+> *ityādyudāttatvaṃ | mātuḥ | naptṛneṣṭa ityādinā tṛjaṃtatvena nipātanādaṃtodātaḥ |*
+> *ṛtauditi jasaḥ pūrvapadayorukāraḥ asyāḥ | ūḍidamityādinā vibhakterudāttatvaṃ |*
+> *upasthe | ṣṭhā gatinivṛt | ātaścopasarga iti kaḥ | tatpuruṣe tulyārthīti marudvadhā-*
+> *ditvāttūrvapadāṃtodāttatvaṃ ‖*
+
+(Gist: Vanaspati, that is the yūpa of khadira, palāśa and the like; the priests, desiring the gods, anoint it with the divine honey, that is ghee, whether it stands erect or lies on the lap of the earth; "grant us wealth". The Brāhmaṇa and the Nirukta are quoted in support (Ai. Brā. 2-2, as printed "ಐ ಬ್ರಾ. ೨೨"; Nir. 8.18); the rest of the bhāṣya is the grammatical tail, transcribed but not explained here, with sūtra references Pā. 7-1-35 and Pā. 8-2-38 as printed.)
+
+### Printed p. 76
+
+*[The supplied text has no page-76 marker or running head; the text runs on continuously from p. 75 to p. 77. The marker was inserted before the Pratipadārtha; its exact position is inferred (see repair_log.txt).]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vanaspate: O yūpa, of the nature of palāśa, khadira and the like. Adhvare: in the sacrifice. Devayantaḥ: those who desire the gods, the Adhvaryu and the other priests. Daivyena: with the divine. Madhunā: with ghee. Tvām: you. Añjanti (printed "ಅಜಂತಿ" [sic?]): they anoint (O yūpa, you). Yat ūrdhvaḥ tiṣṭhāḥ: though you stand upright. Vā: or. Mātuḥ: of the one who is a mother to you. Asyāḥ: of this earth-goddess. Upasthe: on the lap. Yat (te) kṣayaḥ: though your dwelling be. Iha: here (with us). Draviṇā: riches. Dhattāt: place (give).
+
+**भावार्थ (Bhāvārtha)**
+
+O yūpa, the priests, the Adhvaryu and others, who wish the gods to come to the sacrifice, anoint you with divine ghee. O yūpa, whether you stand tall, or lie on the earth, who is mother to you, grant us wealth and the like.
+
+**Printed English translation**
+
+Vanaspati, the devout anoint you with sacred butter at the sacrifice; and whether you stand erect, or your abode be on the lap of this your mother (earth), grant us riches.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वनस्पते (*vanaspate*) — the yūpa of khadira, palāśa and the like. This Ṛk describes the yūpa. The sacrificer (the text prints "ಋಜ್ಞವಹಾಡುವ" [sic?], apparently "he who performs the sacrifice") goes into the forest with the priests, selects a tree fit for the yūpa according to what is said in his Vedic branch, consecrates it with the proper mantras, cuts it, brings it and plants it in the sacrificial hall. Before the animal used in the sacrifice is tied (the text prints "ಪತುವನ್ನು" [sic?], apparently "paśu") they worship it as well. Sāyaṇa describes this tree as belonging to the kind called "kaggali" or "muttuga" (khadira, palāśa), or as being of some other kind.
+
+अध्वरे देवयंतः द्यैवेन मधुना त्वां अंजंति (*adhvare devayaṃtaḥ dyaivena madhunā tvāṃ aṃjaṃti*) (the text prints "ದ್ಯೈವೇನ" [sic?]) — the priests, the Adhvaryu and others, desiring the gods in the sacrifice, pour ghee on you (the text prints "ದೇವಾಕ್ ಕಾಮಯಿಮಾನಾಃ" [sic?]); the priests, who desire the favour of the gods,
+
+### Printed p. 77
+
+*[Running head, p. 77: [Aṣṭaka 3, Adhyāya 1, Varga 3] Ṛgvedasaṃhitā 77]*
+
+the Adhvaryu and others, smear the yūpa-tree with ghee and the like in the sacrifice and worship it. This is said here by addressing the yūpa itself; from this the greatness of the yūpa is shown (the text prints "ಪ್ರಕಟತವಾಗುತ್ತದೆ" [sic?]). Since the word "madhu" is here qualified by "daivyena", the meaning of the word "madhu" is ghee (clarified butter), as stated in the Aitareya Brāhmaṇa: एतद्वै मधु दैव्यं यदाज्यं (*etadvai madhu daivyaṃ yadājyaṃ*) (Ai. Brā. 2-2, as printed "ಐ. ಬ್ರಾ. ೨-೨").
+
+For the sentence यदूर्ध्वस्तिष्ठाः यद्वा मातुरस्या उत्संगे तिष्ठाः इह द्रविणानि धेहि (*yadūrdhvastiṣṭhāḥ yadvā māturasyā utsaṃge tiṣṭhāḥ iha draviṇāni dhehi*) Sāyaṇa explains that it addresses the yūpa: because the yūpa is planted in the earth it stands; or lying on the earth, that is fallen, is also a state of the yūpa. May such a yūpa grant us wealth suited to our duty; so they explain.
+
+The sentence of the Aitareya Brāhmaṇa which explains this same meaning is also quoted here:
+
+अंजंति त्वामध्वरे देवयंत इत्यन्वाह अध्वरे ह्येनं देवयंतोऽं (*aṃjaṃti tvāmadhvare devayaṃta ityanvāha adhvare hyenaṃ devayaṃto 'ṃ*) ... यदि च तिष्ठासि यदि च शयासै द्रविणमेवास्मासु धत्तादित्येव (*yadi ca tiṣṭhāsi yadi ca śayāsai draviṇamevāsmāsu dhattādityeva*) तदाह (*tadāha*) (Ai. Brā. 2-2, as printed "ಇ. ಬ್ರಾ. ೨-೨" [sic?]). (The passage is given in the Kannada text in full; here only its beginning and end are written in the three-layer form. It says in sense: he recites "añjanti tvām adhvare devayantaḥ"; for the god-desiring priests anoint him in the sacrifice; "with the divine honey": this honey of the gods is ghee; "whether you stand erect, or whether you lie, grant us wealth": that is what he says.)
+
+Sāyaṇa has commented following the sense of this Brāhmaṇa sentence. The author of the Nirukta too, reciting this mantra in the Nirukta, explains the sense: अंजंति त्वामध्वरे देवा कामयमाना (*aṃjaṃti tvāmadhvare devā kāmayamānā*) (as printed, "ದೇವಾ" for "ದೇವಾನ್" [sic?]) ... यद्वा ते कृतः क्षयो मातुरस्या उपस्थे उपस्थाने (*yadvā te kṛtaḥ kṣayo māturasyā upasthe upasthāne*) (the text prints "ದ್ರವಿಜಾನಿ" for "ದ್ರವಿಣಾನಿ" in the middle [sic?]). The sense of these three works is of one kind. But the author of the Nirukta has made an inquiry in explaining the meaning of the word vanaspati.
+
+Vanaspati: वनानां पाता वा पालयिता वा (*vanānāṃ pātā vā pālayitā vā*) — "the protector of the forests", so Durgācārya explains. Who is the protector of the forests? तत्को वनस्पतिः (*tatko vanaspatiḥ*) अग्निर्वा, यूपो वा अन्य एव कश्चित् (*agnirvā, yūpo vā anya eva kaścit*) — is he Agni? or the yūpa? or someone other than these two, to be denoted by the word vanaspati? Having put this question, the Nirukta gives the view of Kātthakya: यूप इति कात्थक्यः (*yūpa iti kātthakyaḥ*) — Kātthakya's opinion is that the yūpa is the meaning of the word vanaspati; and अग्निरिति शाकपूणि (*agniriti śākapūṇi*) (printed "ಶಾಕಪೂಣಿ:") — it is the opinion of the teacher Śākapūṇi that Agni is the meaning of the word vanaspati.
+
+### Printed p. 78
+
+*[Running head, p. 78: Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+The Nirukta continues with the Ṛk (the text prints "ಪು. ಸಂ. ೧೦-೧೧೦-೧೦", that is "Ṛ. Saṃ." with "ಪು" [sic?]; Ṛ. Saṃ. 10-110-10 as printed):
+
+उपावसृजत्मन्या समंजर् देवानां पाथ ऋतुथा हवींषि । (*upāvasṛjatmanyā samaṃjar devānāṃ pātha ṛtuthā havīṃṣi |*) वनस्पतिः शमिता देवो अग्निः स्वदंतु हव्यं मधुना धृतेन ॥ (*vanaspatiḥ śamitā devo agniḥ svadaṃtu havyaṃ madhunā dhṛtena ‖*)
+
+In this Ṛk the vanaspati is described who, when the sacrificial food in the form of the animal, duly prepared in the proper seasons, is being provided for the gods, makes manifest, as if through himself, the rites that must be performed on the animal. Here three words are used: śamitā, devaḥ, vanaspatiḥ, agniḥ (the text says "three words": śamitā devaḥ, vanaspatiḥ, agniḥ). The word "deva" is an epithet of Agni. Although it is clear that Agni is the meaning of the word vanaspati, the joint use of the words vanaspati and śamitā, which are not directly (pratyakṣa) clear, gives room for inquiry, so it is explained. For Kātthakya's saying that the yūpa is vanaspati, the mantra अंजंति त्वामध्वरे देवयंतः (*aṃjaṃti tvāmadhvare devayaṃtaḥ*) (Ṛ. Saṃ. 3.8-1) is the proof, he says.
+
+In the Ṛk beginning "añjanti tvā" and in the Ṛk beginning उपावसृजत्मन्या (*upāvasṛjatmanyā*) there is room for doubt whether Agni is the meaning of the word vanaspati; therefore the Ṛks that support the opinion of Śākapūṇi, who says that Agni is the meaning of the word vanaspati, are quoted:
+
+देवेभ्यो वनस्पते हवींषि हिरण्यपर्णप्रदिवस्ते अर्थम् । (*devebhyo vanaspate havīṃṣi hiraṇyaparṇapradivaste artham |*) प्रदक्षिणिद्रशनया नियूय ऋतस्य वक्षि पथिभी रजष्यैः ॥ (*pradakṣiṇidraśanayā niyūya ṛtasya vakṣi pathibhī rajaṣyaiḥ ‖*) (no reference printed)
+
+Durgācārya says एवमेतस्मिन् मंत्र हविर्वहन संयोगात् वनस्पतिशब्दस्याग्निरभि- (*evametasmin maṃtra havirvahana saṃyogāt vanaspatiśabdasyāgnirabhi-*) धेयः (*dheyaḥ*) (as printed, with the line break): since in this mantra "vanaspate vakṣi" says that he carries the oblation, he has explained the word vanaspati as meaning Agni.
+
+वनस्पते रशनया नियूय पिष्टतमया वयुनानि विद्वान् । (*vanaspate raśanayā niyūya piṣṭatamayā vayunāni vidvān |*) वहा देवत्रा दिधिषो हवींषि प्र च दातारममृतेषु वोचः ॥ (*vahā devatrā didhiṣo havīṃṣi pra ca dātāramamṛteṣu vocaḥ ‖*) (no reference printed)
+
+Here too, addressing him as vanaspati, प्रजानन् देवा यज्ञे दातुर्हवींषि वह, दाता- (*prajānan devā yajñe dāturhavīṃṣi vaha, dātā-*) रममृतेषु देवेषु प्रब्रूहि (*ramamṛteṣu deveṣu prabrūhi*) is the explanation of the sense: "carry to the gods the oblations offered by the sacrificer; make known the sacrificer to the gods, near the gods." Having explained the sense thus, it is said that Agni is the meaning of the word vanaspati.
+
+मेद्यंतु ते वह्नयो येभिरीयसेऽरिषण्यन् वीळयस्वा वनस्पते । (*medyaṃtu te vahnayo yebhirīyase 'riṣaṇyan vīḷayasvā vanaspate |*) आयूया धृष्टो अभिगूर्या त्वं नेष्मात्सोमं द्रविणोदः पिब- (*āyūyā dhṛṣṭo abhigūryā tvaṃ neṣmātsomaṃ draviṇodaḥ piba-*)
+ऋतुभिः ॥ (*ṛtubhiḥ ‖*) (Ṛ. Saṃ. 2-37-3, as printed)
+
+For the Nirukta sentence वनस्पत इत्येनमाह (*vanaspata ityenamāha*) Durgācārya has commented तस्मादग्निरित्यभिप्रायः (*tasmādagnirityabhiprāyaḥ*) (the intention is therefore Agni). And further: अग्निरेवासौ यूपांतर्गतो यूपात्मना वर्तमानो (*agnirevāsau yūpāṃtargato yūpātmanā vartamāno*) ... (the sentence breaks off at the end of this page; it continues on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 74 (PDF 74). Sukta 8 Pithika ends (yupa Brahmana passages, p. 71-72); Sukta 8 Sayana introduction and Anuvada (p. 73-74); Rk 1 Samhita and Pada; commentary on Rk 1 not started
+**Progress note:** Done through printed p. 78 (PDF 78). Sukta 8 Rk 1: bhasya, Pratipadartha, Bhavartha, English, Special Topics (Nirukta on vanaspati) through p. 78; p. 76 marker inferred
