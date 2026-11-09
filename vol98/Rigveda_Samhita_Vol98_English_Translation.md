@@ -9788,6 +9788,117 @@ In this ṛk the sage, concluding the sūkta, prays to Bṛhaspati for the incre
 
 एवा (*evā*): lengthening in the Saṃhitā by the rule निपातस्यच (*nipātasyaca*) (पा. सू. ६-३-१३६ (*pā. sū. 6-3-136*)); तुविजातः (*tuvijātaḥ*) (बूहनामुपकारकतया तत्संबंधित्वेन जातः तुविजातः (*būhanāmupakārakatayā tatsaṃbaṃdhitvena jātaḥ tuvijātaḥ*), as printed; a genitive *tatpuruṣa* compound; the acute on the end by the rule षष्ठीतत्पुरुष समासः समासस्य (*ṣaṣṭhītatpuruṣa samāsaḥ samāsasya*)).
 
+### Printed p. 332
+
+*Running head (as supplied): [332 सायणभाष्यसहिता [ मं. १. अ. २४. सू. १९१] (*[332 sāyaṇabhāṣyasahitā [ maṃ. 1. a. 24. sū. 191]*).*
+
+*(Continuation of the grammar page of Ṛk 8 of Sūkta 190, after the *tuvijātaḥ* entry.)*
+
+धायि (*dhāyi*) (डुधाञ् धारणपोषणयोः (*ḍudhāñ dhāraṇapoṣaṇayoḥ*), the root, in the passive; *luṅ* in the present sense in the Veda; third person singular; by the rule बहुलं छंदसि (*bahulaṃ chaṃdasi*) (पा. सू. ६-४-७५ (*pā. sū. 6-4-75*)) the augment *aṭ* does not occur; the verbal *nighāta* accent arises, the print giving तिजिंतनिघात्वर (*tijiṃtanighātvara*), as printed); धातु (*dhātu*) (the same root; *loṭ*, third person singular; the suffix printed जप् प्रत्यय (*jap pratyaya*); *u* substituted for *i* by the rule एरुः (*eruḥ*); in the Veda the *śnu*-type vikaraṇa, printed श्लविकरण (*ślavikaraṇa*), does not occur, so the root takes no reduplication; because it stands after a verb form, printed अतिजंत (*atijaṃta*), the *nighāta* accent arises).
+
+*(No colophon of Sūkta 190 is printed in the supplied text; the next line begins the following sūkta.)*
+
+#### Sūkta 191
+
+नूर तॊंभत्तॊंदनॆय सूक्तवु. (*nūra tòṃbhattòṃdanèya sūktavu.*) — "the hundred and ninety-first sūkta."
+
+*[As supplied, no label line is printed before Sāyaṇa's introduction; the following lines are the introduction to Sūkta 191, printed as plain lines, and are given here as a block; standard label inserted.]*
+
+**Sāyaṇa-bhāṣya** (introduction)
+
+> कंकत इति षोडशर्चं द्वादशं सूक्तं ऋषिरगस्यः अष्टृणसूर्यास्त्रयो
+> देवताः त्रिष्टुप् छंदः । सूर्ये विषमित्याद्यास्तिस्रो महापंक्तयः । अष्टकौ
+> सप्तकः षट्को दशको नवकश्च । अनु. १०-३ । इत्युक्तलक्षणोपेतत्वात् । नवानामि-
+> त्येषा त्रयोदशी महाबृहती । चत्वारोऽष्टका जागतश्च महाबृहती । अनु ९-९ ।
+> इति ह्युक्तं । अत्र यद्यप्यक्षराणि न्यूनानि तथापि व्यूहेन पूरणीयानि । अत्रानु-
+> क्रमणिका । कंकतः षोळशोपनिषदानुष्टुभमस्पृणसौर्यं विषशंकावानगस्यः
+> प्राब्रवीद्धशम्याद्याश्च तिस्रो महापंक्तयो महाबृहती चेति । उपनिषदिति रहस्य-
+> मित्यर्थः । विषशंकायुक्तोऽगस्यस्तत्परिहारायेदमुक्तवान् ॥ श्रौतस्य विशेष-
+> विनियोगो लैंगिकः ॥ अत्र शौनकः । कंकतो नेति सूक्तं तु विषार्तः प्रयतो
+> जपेत् । विषं न क्रमते चास्य सर्पाद्दृष्टिविषादपि ॥ यत्कीटलूतासु विषं दंष्ट्रि
+> वृश्चिकतश्च यत् । मूलं च कृत्रिमं चैव जपन्सर्वमपोहति । ऋग्वि. १-२८ । इति ॥
+
+*Gist:* A sūkta of sixteen ṛks by Agastya to the deities water, grass and sun; a poison-curing hymn, with metres per the Anukramaṇikā; Śaunaka's use is given.
+
+**Anuvāda (Kannada)** of Sāyaṇa's introduction to Sūkta 191. This sūkta beginning कंकतो न (*kaṃkato na*) is the twelfth sūkta in the twenty-fourth anuvāka. It has sixteen ṛks. Agastya is the seer of this sūkta. The deities are the अष्टृणसूर्यरु (*aṣṭṛṇasūryaru*) (water, grass, sun), the metre is *triṣṭubh*. The three ṛks beginning सूर्ये विषं (*sūrye viṣaṃ*) (the tenth, eleventh and twelfth ṛks) are of the metre called महाबृहती छंदस्कवु (*mahābṛhatī chaṃdaskavu*) (as printed). In the Anukramaṇikā it is said that in a ṛk of this metre the first two pādas have eight syllables each, the third pāda seven, the fourth six, the fifth ten and the sixth nine (अनु. १०-३ (*anu. 10-3*)). The thirteenth ṛk, beginning नवानां (*navānāṃ*), is of the metre महाबृहती छंद स्ववु (*mahābṛhatī chaṃda svavu*) (as printed); in a ṛk of this metre there are four pādas of eight syllables and one pāda of twelve syllables, as stated in the Anukramaṇikā
+
+### Printed p. 333
+
+*Running head (as supplied): [अ. २. अ ५. व. १४] ऋग्वेदसंहिता 333 (*[a. 2. a 5. va. 14] ṛgvedasaṃhitā 333*).*
+
+(अनु. ९-९ (*anu. 9-9*)). Generally in metres, even if some syllables are fewer, one must suppose that the syllables have the fixed number, even though they appear fewer by the division of words, by sandhi and the like. In the Anukramaṇikā it is said:
+
+कंकतः षोळशोपनिषदानुष्टुभमप्तृणसौर्यं विषशंकावानगस्यः प्राब्रवीद्द- शम्याद्याश्च तिस्रो महापंक्तयो महाबृहती चेति (*kaṃkataḥ ṣoḷaśopaniṣadānuṣṭubhamaptṛṇasauryaṃ viṣaśaṃkāvānagasyaḥ prābravīdda- śamyādyāśca tisro mahāpaṃktayo mahābṛhatī ceti*).
+
+Here उपनिषत् (*upaniṣat*) means a secret. It is said that the sage Agastya recited this sūkta for the removal of poison, from the doubt that poison might have touched him by a snake bite. In the matter of Śrauta practice, the use of this sūkta is *laiṅgika* (by indication). The great sage Śaunaka, in his work ऋग्विधान (*ṛgvidhāna*), says as follows about the use of this sūkta:
+
+कंकतो नेति सूक्तं तु विषार्तः प्रयतो जपेत् । (*kaṃkato neti sūktaṃ tu viṣārtaḥ prayato japet |*)
+विषं न क्रमते चास्य सर्पाद्दृष्टिविषादपि । (*viṣaṃ na kramate cāsya sarpāddṛṣṭiviṣādapi |*)
+यत्कीटलूतासु विषं दंष्टिवृश्चिकजं च यत् ॥ (*yatkīṭalūtāsu viṣaṃ daṃṣṭivṛścikajaṃ ca yat ‖*)
+मूलं च कृत्रिमं चैव जपन् सर्वं व्यपोहति । (*mūlaṃ ca kṛtrimaṃ caiva japan sarvaṃ vyapohati |*)
+धर्मं बुद्धिं धनं पुत्रान् सौभाग्यं ब्रह्मवर्चसं । (*dharmaṃ buddhiṃ dhanaṃ putrān saubhāgyaṃ brahmavarcasaṃ |*)
+आरोग्यं पुष्टिमायुष्यं पशून् विद्यां महद्यशः । (*ārogyaṃ puṣṭimāyuṣyaṃ paśūn vidyāṃ mahadyaśaḥ |*)
+(मुग्विधान. १-२८) (*(mugvidhāna. 1-28)*)
+
+(The reference is printed मुग्विधान. १-२८ (*mugvidhāna. 1-28*), as supplied.) A man tormented by poison (one in whom poison has risen and who is suffering from a snake bite) should recite with faith and devotion this sūkta beginning कंकतो न (*kaṃkato na*). If he does so, neither the poison spread in the body by a snake bite nor the poison caused by an evil eye will spread further in the body. Besides, the poison caused by reptiles, scorpions and other poisonous creatures will also be removed. Whether that poison has spread in the body by the bite of a poisonous creature, or poison-mixed food and the like have entered the body, all of these will be removed by reciting this sūkta. Besides, by reciting this sūkta all the fruits will be obtained: righteous action, good understanding, wealth, sons and the like, good fortune, Brahmic splendour, health, nourishment, increase of life, cattle wealth, learning, fame and so on.
+
+**Sūkta 191 — heading lines (printed as plain lines)**
+
+॥ ओं ॥ (*‖ oṃ ‖*)
+सूक्त—१९१ (*sūkta—191*)
+॥ मंडल—१ ॥ अनुवाक—२४ ॥ सूक्त—१९१ ॥ (*‖ maṃḍala—1 ‖ anuvāka—24 ‖ sūkta—191 ‖*)
+॥ अष्टक—२ ॥ अध्याय—५ ॥ वर्ग—१४, १५, १६ ॥ (*‖ aṣṭaka—2 ‖ adhyāya—5 ‖ varga—14, 15, 16 ‖*)
+॥ सूक्तदल्लिरुव ऋक्संख्यॆ-१६ ॥ (*‖ sūktadalliruva ṛksaṃkhyè-16 ‖*)
+ऋषिः—अगस्त्यः । (*ṛṣiḥ—agastyaḥ |*)
+देवता—अप्तृणसूर्याः । (*devatā—aptṛṇasūryāḥ |*)
+छंदः—१-९, १४-१६ अनुष्टुप् । १०-१३, महापंक्तिः । (*chaṃdaḥ—1-9, 14-16 anuṣṭup | 10-13, mahāpaṃktiḥ |*)
+१३, महाबृहती । (*13, mahābṛhatī |*)
+
+(Sense: Om; sūkta 191; maṇḍala 1, anuvāka 24; aṣṭaka 2, adhyāya 5, varga 14, 15, 16; the number of ṛks in the sūkta, sixteen; seer Agastya; deity as printed here अप्तृणसूर्याः (*aptṛṇasūryāḥ*) (the introduction printed अष्टृणसूर्या (*aṣṭṛṇasūryā*)); metre: ṛks 1-9 and 14-16 *anuṣṭubh*, 10-13 *mahāpaṅkti*, and 13 *mahābṛhatī*, as printed.)
+
+### Printed p. 334
+
+*Running head (as supplied): [334 सायणभाष्यसहिता [ मं. १. अ. २४. सू १९१] (*[334 sāyaṇabhāṣyasahitā [ maṃ. 1. a. 24. sū 191]*).*
+
+*[As supplied, the label line of the Saṃhitā reads संघपरिवार (*saṃghaparivāra*); standard label inserted. The Saṃhitā contains a Latin letter, "s", printed inside the word कंकतोs थो (*kaṃkatos tho*) (apparently for the avagraha); kept as supplied.]*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> कंक॑तो॒ न कंक॒तोs थो॑ सती॒नकं॑कतः ।
+> द्वाविति॒ प्लुषी॒ इति॒ न्य१॒॑ग्दृष्टा॑ अलिप्सत ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> कंकतः । न । कंकतः । अथो इति । सतीनकंकतः ।
+> द्वा । इति । प्लुषी इति । इति । नि । अदृष्टाः । अलिप्सत ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> कंकतोऽल्पविषः कश्चित् न कंकतस्तद्विपरीतोऽनल्पविषो महोरगादिः ॥
+> तकतेर्गत्यर्थस्य वर्णव्यत्ययेन कंकत इति सरन् भवति ॥ अथो अपि च सतीनकंकतः।
+> सतीनमित्युदकनाम । सतीनं गहनमिति तन्नामसु पातात् । उदकचार्यल्पविषवान्
+> कश्चिद्दुंदुभादिः । एवं द्वाविति । अल्पविषमहाविषभेदेन जलस्थलभेदेन वा द्विप्रका-
+> राविति । प्लुषी इति प्लोषणाविति । प्रकारद्वैविध्यदाहकत्वयोः प्रतिपादनायेशिकार-
+> द्वयं । तथादृष्टा अदृश्यमानरूपा एतत्संज्ञकाश्च केचिद्विषधरा एवमुक्तप्रकारा
+> ये संति ते नूनं मां न्यलिप्सत विशेषेण लिंपंति । सर्वाण्यंगानि विषमावृणोति।
+> केनैवं कृतमिति ज्ञायत इति भावः ॥
+
+*Gist:* Snakes of little poison, those of great poison, and water-snakes, of two kinds, burning, and unseen creatures, smear me thoroughly with poison.
+
+*[As supplied, a line reading प्रसिद्धार्थ (*prasiddhārtha*) stands inside the bhāṣya block where the Pratipadārtha label belongs; the following lines carry block marks in the supplied text and are given as prose; standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+कंकतः—अल्पवाद विषवुळ्ळ सर्पादिगळू (*kaṃkataḥ—alpavāda viṣavuḷḷa sarpādigaḷū*) (snakes and the like with little poison). न कंकतः—आत्यधिकवाद विषवुळ्ळ महो रगादिगळू (*na kaṃkataḥ—ātyadhikavāda viṣavuḷḷa maho ragādigaḷū*) (great serpents and the like with excessive poison). अथो—अदरंतॆये (*atho—adaraṃtèye*) (and likewise). सतीन कंकतः—विषपूरितवाद नीरुहावुगळू (*satīna kaṃkataḥ—viṣapūritavāda nīruhāvugaḷū*) (poison-laden water-snakes). द्वाविति— भूमियमेलॆ संचरिसतक्कवू मत्तु जलचरगळू अथवा अल्पविषवुळ्ळवू मत्तु महाविषवुळ्ळवू आद ऎरडु बगॆयल्लि (*dvāviti— bhūmiyamelè saṃcarisatakkavū mattu jalacaragaḷū athavā alpaviṣavuḷḷavū mattu mahāviṣavuḷḷavū āda èraḍu bagèyalli*) (in two kinds: those moving on the earth and those living in water, or those with little poison and those with great poison). प्लुषी इति—हिंसाकारकवू, नाशकारकगळू आगिरुवुवू (*pluṣī iti—hiṃsākārakavū, nāśakārakagaḷū āgiruvuvū*) (those that cause injury and destruction). अदृष्टाः— कण्णिगॆ गोचरवागद इतर विषजंतुगळू सह (*adṛṣṭāḥ— kaṇṇigè gocaravāgada itara viṣajaṃtugaḷū saha*) (other poisonous creatures not visible to the eye as well). नि अलिप्सत—नन्नन्नु विषदिंद पूरितनन्नागि माडुत्तवॆ (*ni alipsata—nannannu viṣadiṃda pūritanannāgi māḍuttavè*) (they fill me with poison).
+
+*[As supplied, a line reading धनार्थ (*dhanārtha*) stands where the Bhāvārtha label belongs; the following lines carry block marks in the supplied text and are given as prose; standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Snakes and the like with little poison, great serpents and the like with excessive poison, and likewise poison-laden water-creatures, these two kinds of poisonous creatures too, in a manner invisible to me, fill me with poison (the supplied text ends here, at the end of the window; the printed English and the Special Topics of Ṛk 1 follow in the next window).
+
 ---
 
-**Progress note:** Done through printed p. 331 (PDF 331). Sukta 190 Rik 7 Bhavartha, printed English, Special Topics and grammar complete; Rik 8 complete through Special Topics; grammar page of Rik 8 begun; three readings marked with a query
+**Progress note:** Done through printed p. 334 (PDF 334). Sukta 190 complete (no colophon printed); Sukta 191 introduction, Anuvada and heading lines; Rik 1 through the Bhavartha
