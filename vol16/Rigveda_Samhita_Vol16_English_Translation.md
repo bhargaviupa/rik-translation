@@ -3050,6 +3050,98 @@ Here it is interpreted: सजोषाः सहजोषणः समानप
 
 ---
 
+### Printed p. 108
+
+*[Running head, p. 108: 108 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+**Special Topics** (continued)
+
+… "mutually united" (परस्परं संगताः (*parasparaṃ saṃgatāḥ*)): that is, assembled together, may they protect the sacrifice that the sacrificer and the priests perform in co-operation; so it is described.
+
+अध्वरस्य केतुं (*adhvarasya ketuṃ*) — यज्ञस्य ध्वजभूतं प्रज्ञापकं वा इमं यूपं (*yajñasya dhvajabhūtaṃ prajñāpakaṃ vā imaṃ yūpaṃ*): this post (yūpa), which is the banner of the sacrifice or its indicator. The word केतु (*ketu*) (*ketu*) is stated (Ni. 3-13) among the names of knowledge [the supplied text has पद्धज्ञानामगळल्लि (*paddhajñānāmagaḷalli*), "padd-jñāna-names"; probably *prajñā*; as supplied, [sic]].
+
+नवो नवो भवति जायमानोऽह्नां केतुरुषसामेत्यग्रं । भागं देवेभ्यो विदधात्यायन् प्र चंद्रमास्तिरते दीर्घमायुः ॥ (*navo navo bhavati jāyamāno 'hnāṃ keturuṣasāmetyagraṃ | bhāgaṃ devebhyo vidadhātyāyan pra caṃdramāstirate dīrghamāyuḥ ‖*) (Ṛ. Saṃ. 10-85-19). Here the word केतुः (*ketuḥ*) (*ketuḥ*) is used in the sense of लक्षणं (*lakṣaṇaṃ*) (*lakṣaṇaṃ*), "mark, sign".
+
+महो अर्णस्सरस्वती प्र चेतयति केतुना । धियो विश्वा वि राजति ॥ (*maho arṇassarasvatī pra cetayati ketunā | dhiyo viśvā vi rājati ‖*) (Ṛ. Saṃ. 1-3-12). Here केतुना कर्मणा प्रज्ञया वा (*ketunā karmaṇā prajñayā vā*) (*ketunā karmaṇā prajñayā vā*) explains the sense as action (karma) or knowledge (prajñā).
+
+उदुत्यं जातवेदसं देवं वहंति केतवः । दृशे विश्वाय सूर्यं ॥ (*udutyaṃ jātavedasaṃ devaṃ vahaṃti ketavaḥ | dṛśe viśvāya sūryaṃ ‖*) (Ṛ. Saṃ. 1-50-1). Here केतवः रश्मयः (*ketavaḥ raśmayaḥ*) (*ketavaḥ raśmayaḥ*) gives the sense "rays". Although the Nirukta states for the word *ketu* the senses knowledge, ray, mark and action, Sāyaṇa here explains the sense "banner" and "indicator", and describes the prayer that the gods make the post, the indicator of the sacrifice, shine out nobly, with loftiness.
+
+**Vyākaraṇa-prakriyā**
+
+Grammar page, noted briefly. आदित्याः (*ādityāḥ*) (*ādityāḥ*): the male descendants of Aditi; the suffix ṇya in the sense of descendant by दित्यदित्यादित्यपत्युत्तरपदात् ण्यः (*dityadityādityapatyuttarapadāt ṇyaḥ*) (Uṇ. Sū. 4-1-85, as supplied); because the suffix is ṇit, vṛddhi of the first vowel by तद्धितेष्वचामदेः (*taddhiteṣvacāmadeḥ*) (Pā. Sū. 7-2-1117, as supplied [sic]); final udātta by the suffix accent. रुद्राः (*rudrāḥ*) (*rudrāḥ*): "those who make all weep at the end of time"; root रुदिर् अश्रुविमोचने (*rudir aśruvimocane*) (*rudir aśruvimocane*); after the causative, the suffix rak by रोदेर्णिलुक्च (*roderṇilukca*) (Uṇ. Sū. 2-179); loss of ṇic; because the suffix is k-marked there is no laghūpadha guṇa; the suffix accent remains; when the ending jas becomes anudātta, the single replacement is udātta by एकादेशउदात्तेनोदात्तः (*ekādeśaudāttenodāttaḥ*). वसवः (*vasavaḥ*) (*vasavaḥ*): root वस निवासे (*vasa nivāse*) (*vasa nivāse*); suffix u by शृ स्वृ स्निहि त्रप्यसि (*śṛ svṛ snihi trapyasi*) (Uṇ. Sū. 1-10); ṇit carried on from the preceding sūtra, hence initial udātta.
+
+### Printed p. 109
+
+*[Running head, p. 109: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 109]*
+
+(Grammar notes, continued.) सुनीथाः (*sunīthāḥ*) (*sunīthāḥ*): root णीञ् प्रापणी (*ṇīñ prāpaṇī*) (*ṇīñ prāpaṇī*, as supplied); suffix kvan [the supplied text has क्सन् (*ksan*), *ksan*, [sic]] by हनिकुषिनीरमिकाशिभ्यः (*hanikuṣinīramikāśibhyaḥ*) (Uṇ. Sū. 2-159); because it is k-marked there is no guṇa of the root ī; final-syllable-of-the-latter-member udātta by थाथघञ् क्ता (*thāthaghañ ktā*) (Pā. Sū. 6-2-144); nominative plural form. द्यावाक्षामा (*dyāvākṣāmā*) (*dyāvākṣāmā*): द्यौश्च क्षामा च (*dyauśca kṣāmā ca*); by दिवोद्यावा (*divodyāvā*) the word *div* becomes *dyāvā*; by देवताद्वंद्वेच (*devatādvaṃdveca*) (Pā. Sū. 6-2-141) both members keep their natural accent; by सुपांसुलुक् (*supāṃsuluk*) the case-ending is replaced by ā. पृथिवी (*pṛthivī*) (*pṛthivī*): root प्रथ प्रख्याने (*pratha prakhyāne*) (*pratha prakhyāne*); suffix ṣivan with samprasāraṇa by प्रथेः शिवन् संप्रसारणंच (*pratheḥ śivan saṃprasāraṇaṃca*) (Uṇ. Sū. 1-148); samprasāraṇa of the r of the root; because it is ṣit, the feminine suffix jīṣ by षिड्गौरादिभ्यश्च (*ṣiḍgaurādibhyaśca*) (Pā. Sū. 4-1-41); final udātta by the suffix accent. आवंतु (*āvaṃtu*) (*avantu*): root अव रक्षणे (*ava rakṣaṇe*) (*ava rakṣaṇe*); loṭ, third person plural; finite-verb nighāta accent. कृण्वंतु (*kṛṇvaṃtu*) (*kṛṇvantu*): root कृवि हिंसाकारणयोश्च (*kṛvi hiṃsākāraṇayośca*) (*kṛvi hiṃsākaraṇayoś ca*); loṭ, third person plural, with replacement of the ending (as supplied: अंदेश उत्व (*aṃdeśa utva*)); loss of a by धिन्विकृण्वोरच (*dhinvikṛṇvoraca*) (Pā. Sū. 3-1-80); because the root is i-marked the augment num; ṇatva after ṛ; yaṇ substitution; nighāta accent because it stands after a word that is not a finite verb (the supplied text has निघासस्वर (*nighāsasvara*) [sic]).
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> [figure: vol16/html/figures/fig_line5604.jpg]
+> हं॒सा इ॑व श्रेणि॒शो यता॑नाः शु॒क्रा वसा॑नाः॒ स्वर॑वो न॒॑
+> आगुः॑ ।
+> उ॒न्नी॒यमा॑नाः क॒विभिः॑ पु॒रस्ता॑द्दे॒वा दे॒वाना॒मपि॑ यंति॒॑
+> पाथः ॥ ९
+
+**॥ पदपाठः ॥**
+
+> हंसाः ऽइव । श्रेणशः । यतानाः । शुक्रा । वसानाः । स्वरवः । नः । आ । अगुः ।
+> उत्‌नीयमानाः । कविभिः । पुरस्तात् । देवाः । देवानां । आपि । यंति । पाथः ॥
+> ॥ ౮ ॥
+
+*[The Pada block ends with the Ṛk number printed in a different numeral form (a Telugu-style 8) from the Saṃhitā's 9; both as supplied.]*
+
+### Printed p. 110
+
+*[Running head, p. 110: 110 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+**॥ सायणभाष्यम् ॥**
+
+> शुक्रा शुक्राणि दीप्तानि वासांसि वसाना आच्छादयंतः स्वरवः सवरुमंतः
+> श्रेणिशः पंक्तिशो यतानाः प्रवर्तमानाः । अत्र दृष्टांतः । हंसा इवेति । यथा
+> नभसि पंक्तिशः पतंतो हंसाः शोभंते तद्वत् शोभमानास्ते यूपा नोऽस्मा
+> नागुः । प्रापुः । अपि च कविभिर्मेधाविभिरध्वर्या दिभिः पुरस्तादाहवनीयस्य पूर्व-
+> भाग उन्नीयमाना उच्छ्रियमाणा देवा दीप्यमानास्ते यूपा देवानां
+> पाथो देवानां स्थानमंतरिक्षं । पाथोऽन्तरीक्षं पथा व्याख्यातमिति यास्कः ।
+> पाथोनदीभ्यां ड्यण् । पा. ४-४-१११ । इति सूत्रे पाथोऽन्तरीक्षमिति वृत्तिकारोs-
+> प्यवादीत् । तादृशमंतरिक्षमपियंति । प्राप्नु वंति । अध्वर्यादिभिरुच्छ्रियमाणा
+> यूपा अतिदैर्घ्यादंतरिक्षं व्याप्य वर्तंत इत्यर्थः ॥ हंसा इव । इवेन विभक्त्य-
+> लोप इति वचनात्तूर्वपदस्वरः । श्रेणितः । बह्वल्पार्थादिति शस् । प्रत्ययस्वरः ।
+> श्रेणिशः । बहुल्पार्थादिति शस् । प्रत्ययस्वरः । शुक्रा । शुच दीप्तावित्यस्मादृजेंद्रा
+> ग्रेत्यादिना रन्प्रत्ययांतत्वेन निपातनादंतोदात्तः । अगुः । इण् गतौ । आस्माल्लुजि
+> रूपं । निघातः ॥
+
+> *śukrā śukrāṇi dīptāni vāsāṃsi vasānā ācchādayaṃtaḥ svaravaḥ savarumaṃtaḥ*
+> *śreṇiśaḥ paṃktiśo yatānāḥ pravartamānāḥ | atra dṛṣṭāṃtaḥ | haṃsā iveti | yathā*
+> *nabhasi paṃktiśaḥ pataṃto haṃsāḥ śobhaṃte tadvat śobhamānāste yūpā no 'smā*
+> *nāguḥ | prāpuḥ | api ca kavibhirmedhāvibhiradhvaryā dibhiḥ purastādāhavanīyasya pūrva-*
+> *bhāga unnīyamānā ucchriyamāṇā devā dīpyamānāste yūpā devānāṃ*
+> *pātho devānāṃ sthānamaṃtarikṣaṃ | pātho 'ntarīkṣaṃ pathā vyākhyātamiti yāskaḥ |*
+> *pāthonadībhyāṃ ḍyaṇ | pā. 4-4-111 | iti sūtre pātho 'ntarīkṣamiti vṛttikāros-*
+> *pyavādīt | tādṛśamaṃtarikṣamapiyaṃti | prāpnu vaṃti | adhvaryādibhirucchriyamāṇā*
+> *yūpā atidairghyādaṃtarikṣaṃ vyāpya vartaṃta ityarthaḥ ‖ haṃsā iva | ivena vibhaktya-*
+> *lopa iti vacanāttūrvapadasvaraḥ | śreṇitaḥ | bahvalpārthāditi śas | pratyayasvaraḥ |*
+> *śreṇiśaḥ | bahulpārthāditi śas | pratyayasvaraḥ | śukrā | śuca dīptāvityasmādṛjeṃdrā*
+> *gretyādinā ranpratyayāṃtatvena nipātanādaṃtodāttaḥ | aguḥ | iṇ gatau | āsmālluji*
+> *rūpaṃ | nighātaḥ ‖*
+
+*Gist: The shining pillars, clad in bright garments and arrayed in rows like flying swans, have come to us; set up by wise priests in front of the Āhavanīya fire, they reach the gods' region, the atmosphere. (The grammatical tail is transcribed, not explained: हंसा इव (*haṃsā iva*), श्रेणिशः (*śreṇiśaḥ*), शुक्रा (*śukrā*), अगुः (*aguḥ*), root इण् गतौ (*iṇ gatau*). The supplied text has बहुल्पार्थादिति (*bahulpārthāditi*) the second time for बह्वल्पार्थादिति (*bahvalpārthāditi*) and the clause श्रेणिशः । बहुल्पार्थादिति शस् । प्रत्ययस्वरः (*śreṇiśaḥ | bahulpārthāditi śas | pratyayasvaraḥ*) twice; as supplied, [sic].)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+शुक्रा (*śukrā*) — shining (white, bright) [garments called *raśanā*]; वसानाः (*vasānāḥ*) — wearing; स्वरवः (*svaravaḥ*) — together with their own parts; श्रेणिशः (*śreṇiśaḥ*) — in rows; यतानाः (*yatānāḥ*) — moving; हंसा इव (*haṃsā iva*) — like swans (shining as they shine); श्रेणिशः (*śreṇiśaḥ*) — in row upon row (the posts that proceed); नः (*naḥ*) — to us; आगुः (*āguḥ*) — have arrived; (and) कविभिः (*kavibhiḥ*) — by the wise priests such as the Adhvaryu [the supplied text has आध्वय्यादि (*ādhvayyādi*), [sic]]; पुरस्तात् (*purastāt*) — on the east of the Āhavanīya fire; उत् नीयमानाः (*ut nīyamānāḥ*) — erected; देवाः (*devāḥ*) — those shining posts; देवानां (*devānāṃ*) — of the gods; पाथः (*pāthaḥ*) — the region, the atmosphere; आपि यंति (*āpi yaṃti*) — pervade [the supplied text has आपि (*āpi*) for अपि (*api*), as supplied].
+
+**भावार्थ (Bhāvārtha)**
+
+The posts, clad in bright garments called *raśanā*, endowed with all their parts, shining in row upon row like rows of swans, have arrived (are shining); set up by the wise priests, the Adhvaryu and the others, in front of the Āhavanīya fire, they grow tall and touch even the atmosphere, the abode of the gods.
+
+**Printed English translation**
+
+Arrayed in bright (garments), entire (in their parts), these pillars ranging in rows like swans, have come to us erected by pious sages on the east (of the fire); they proceed resplendent on the path of the gods.
+
 ---
 
-**Progress note:** Done through printed p. 107 (PDF 107). Done through printed p. 107 (PDF 107). pp. 105-107: Sukta 8 Rk 8 Special Topics continue (Aditya, Rudra, Vasu, sajosas citations) and break off mid-sentence at the end of p. 107 (aikamatyena...), continuing on p. 108; no Rk 8 grammar page written yet
+**Progress note:** Done through printed p. 110 (PDF 110). Done through printed p. 110 (PDF 110). pp. 108-110: Sukta 8 Rk 8 Special Topics end (ketu citations) and Rk 8 grammar notes (pp. 108-109) written; Rk 9 Samhita, Pada, bhasya, Pratipadartha, Bhavartha and printed English written (p. 110); Rk 9 Special Topics and grammar not yet written, continue on p. 111
