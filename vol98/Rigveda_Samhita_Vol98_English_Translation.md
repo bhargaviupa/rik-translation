@@ -10738,6 +10738,141 @@ The page explains: सका (*sakā*) (the word *tad*; by the rule पा. स�
 
 *(The bhāṣya of Ṛk 12 follows in the next window; the supplied text ends here.)*
 
+### Printed p. 363
+
+*Running head (as supplied): [अ २ अ. ५. व. १६] ऋग्वेदसंहिता 363 (*[a 2 a. 5. va. 16] ṛgvedasaṃhitā 363*).*
+
+*(Continuation of Ṛk 12 of Sūkta 191, after its Saṃhitā and Pada.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> त्रिः सप्त त्रिगुणिताः सप्तसंख्याका विष्णुलिंगका विविधाः विष्णुलिंगकाः । सप्तसु
+> जह्वासु लोहितशुक्लकृष्णभेदेनैकविंशतिर्यासां ताः । यद्वा । त्रिः सप्तैकविंशति-
+> भेदा विष्णुलिंगकाः सूक्ष्मचटकिका विषप्रतिपक्षभूताः । विषस्यास्मदावरकस्य पुष्यं
+> पोषमक्षन् । अदंतु नाशयंतु । ताश्च न मरंति न वयमपि । शिष्टमवशिष्टं ॥
+
+*Gist:* Twenty-one kinds of tiny poison-opposing creatures (fire-sparks or small birds) consume the strength of the poison; they do not die, nor do we.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+त्रिः सप्त—त्रिगुणितवाद सप्तसंख्याकवुळ्ळ (२१) ऎंदरॆ इप्पत्तॊंदु (*triḥ sapta—triguṇitavāda saptasaṃkhyākavuḷḷa (21) èṃdarè ippattòṃdu*) (thrice seven, that is, twenty-one). विष्णुलिंगका:— विधविधवाद अग्निकॆंडगळु (*viṣṇuliṃgakā:— vidhavidhavāda agnikèṃḍagaḷu*) (various fire-sparks). विषस्य—नम्मन्नु आवरिसिरुव विषद (*viṣasya—nammannu āvarisiruva viṣada*) (of the poison that envelops us). पुष्यं—प्रबलवाद शक्तियन्नु (*puṣyaṃ—prabalavāda śaktiyannu*) (the strong force). अक्षन्—नुंगिबिडलि (नाशमाडलि) (*akṣan—nuṃgibiḍali (nāśamāḍali)*) (may they swallow (destroy)). ताश्चिन्नु—अवुगळादरो (*tāścinnu—avugaḷādaro*) (those, however). न मराति—खंडितवागियू मरणवन्नु हॊंदुवुदिल्ल (*na marāti—khaṃḍitavāgiyū maraṇavannu hòṃduvudilla*) (certainly do not die). नो वयं मराम—नावू मृतियन्नु हॊंदुवुदिल्ल (*no vayaṃ marāma—nāvū mṛtiyannu hòṃduvudilla*) (nor do we die). आरे— दूरदल्लिद्दरू सह (*āre— dūradalliddarū saha*) (even though far away). हरिष्ठाः—अश्वारूढनागिरुव सूर‍्यनु (*hariṣṭhāḥ—aśvārūḍhanāgiruva sūryanu*) (the sun mounted on horses). अस्य—ई विषद (*asya—ī viṣada*) (of this poison). योजनं— संपर्कवन्नु हॊंदिदनु (ई विषद शक्तियु नमगॆ प्रसरिसदंतॆ माडिदनु) (*yojanaṃ— saṃparkavannu hòṃdidanu (ī viṣada śaktiyu namagè prasarisadaṃtè māḍidanu)*) (came into contact (made the force of this poison not spread to us)). मधुला—मधु विद्यॆयु (*madhulā—madhu vidyèyu*) (the honey-lore). त्वा—निन्नन्नु (*tvā—ninnannu*) (you). मधु चकार—अमृतवन्नागि परिवर्तिसिदॆ. (*madhu cakāra—amṛtavannāgi parivartisidè.*) (has turned into nectar).
+
+**भावार्थ (Bhāvārtha)**
+
+May the twenty-one kinds of fire-sparks, of various kinds, swallow and destroy the strong force of the poison that envelops us. They have no death. By their influence we too do not die. Even though far away, the sun mounted on horses came into contact with this poison and made its force not spread to us. O poison, the honey-lore has turned you into nectar.
+
+**Printed English translation**
+
+May the thrice-seven sparks (of Agni) consume the influence of the venom; they verily do not perish ; nor shall we die; for although afar off, the Sun, drawn by his coursers, will overtake the poison; the science of antidotes has converted you, (Poison), to ambrosia.
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 12)**
+
+In this ṛk it is prayed that the twenty-one kinds of particles or birds of Agni may remove our poison.
+
+त्रिः सप्त—त्रिगुणिताः सप्तसंख्याका (*triḥ sapta—triguṇitāḥ saptasaṃkhyākā*): three times seven, or twenty-one, is the meaning.
+
+### Printed p. 364
+
+*Running head (as supplied): [364 सायणभाष्यसहिता [ मं. १. अ. २४. सू १९१] (*[364 sāyaṇabhāṣyasahitā [ maṃ. 1. a. 24. sū 191]*).*
+
+विष्णुलिंगकाः—विविधाः विष्णुलिंगकाः । सप्तसु जिह्वासु लोहितशुक्लकृष्णभेदे- नैकविंशतिर्यासां ताः । यद्वा । त्रिःसप्तैकविंशतिभेदा विष्णुलिंगका सूक्ष्मचटकिका विषप्रतिपक्षभूताः (*viṣṇuliṃgakāḥ—vividhāḥ viṣṇuliṃgakāḥ | saptasu jihvāsu lohitaśuklakṛṣṇabhede- naikaviṃśatiryāsāṃ tāḥ | yadvā | triḥsaptaikaviṃśatibhedā viṣṇuliṃgakā sūkṣmacaṭakikā viṣapratipakṣabhūtāḥ*) (as printed): it is said that the particles of Agni are of twenty-one kinds. That Agni has seven tongues, that is, seven flames (Flames (*Flames*)), is well known. In each flame there are twenty-one particles with the distinctions red, white and black. Or, *viṣṇuliṅga* means sparrows or the small birds called गरुडपक्षि (*garuḍapakṣi*) (as printed); among them there are twenty-one varieties or kinds; they are of the nature of eating poison without minding it. The other matters are as in the previous ṛk.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 12, noted briefly)
+
+The page explains: पुष्यम् (*puṣyam*) (root पुष पुष्टौ (*puṣa puṣṭau*); the Vedic suffix printed श प्रत्यय (*śa pratyaya*); because it is marked *ś*, when it follows, the vikaraṇa *śyan*; because it is marked *n*, the acute on the first syllable); अक्षन् (*akṣan*) (root आद भक्षणे (*āda bhakṣaṇe*), as printed; *luṅ* in the sense of the imperative in the Veda; by the rule पा. सू. २-४-३७ (*pā. sū. 2-4-37*) the root takes the substitute printed घस्ल्य (*ghaslya*); by the rule मंत्रेघस (*maṃtreghasa*) *luk* for *cli*; by the rule गहमन (*gahamana*) elision of the penultimate, *catva* and *ṣatva*; the augment *aṭ*; the verbal *nighāta* accent).
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> न॒वा॒नां न॑वती॒नां वि॒षस्य॒ रोपु॑षीणां ।
+> सर्वा॑सामग्रभं॒ नामा॒रे अ॑स्य॒ योज॑नं हरि॒ष्ठा मधु॑ त्वा॒॑
+> मधुला चकार ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> नवानां । नवतीनां । विषस्य । रोपुषीणां ।
+> सर्वासां । अग्रभं । नाम । आरे । अस्य । योजनं । हरिस्थाः [?] । मधु । त्वा । मधुला ।
+> चकार ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> नवानां नवतीनां नवाधिकानां नवतिसंख्याकानां नदीनां। पुनः कीदृशीनां ।
+> विषस्यास्मद्व्यापकस्य सर्वस्य विषस्य रोपुषीणां लोपयित्रीणां छेत्रीणां । सर्वा-
+
+> *navānāṃ navatīnāṃ navādhikānāṃ navatisaṃkhyākānāṃ nadīnāṃ| punaḥ kīdṛśīnāṃ |*
+> *viṣasyāsmadvyāpakasya sarvasya viṣasya ropuṣīṇāṃ lopayitrīṇāṃ chetrīṇāṃ | sarvā-*
+
+*[Unmarked page break in the supplied text: the running head of printed p. 365 stands inside the bhāṣya block and reads अ. २: अ. ५ व. १६ ] सुग्वेदसंहिता 365 (*a. 2: a. 5 va. 16 ] sugvedasaṃhitā 365*), as printed, with ಸುಗ್ವೇದ [sic]; the bhāṣya block is divided here.]*
+
+### Printed p. 365
+
+> सामुक्तानां गंगादिनदीनां नामाग्रभं । गृह्णामि । संकीर्तयामि ॥ गृहेश्चांदसे
+> लुजि छांदसश्चेर्लुक् । हृग्रहोर्भः ॥ अस्य योजनमित्यादि गतं ॥
+
+*Gist:* I recite the names of the ninety-nine poison-destroying rivers, Ganges and others; the sun though far neutralises the poison; honey-lore turns it into nectar.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नवानां नवतीनां—तॊंभत्तॊंभत्तु संख्यॆयुळ्ळवू (*navānāṃ navatīnāṃ—tòṃbhattòṃbhattu saṃkhyèyuḷḷavū*) (those of ninety-nine in number). विषस्य—विषद (*viṣasya—viṣada*) (of poison). रोपु- षीणां—नाशकगळू आद (*ropu- ṣīṇāṃ—nāśakagaḷū āda*) (and destroyers). सर्वासां—गंगादिसकलनदिगळ (*sarvāsāṃ—gaṃgādisakalanadigaḷa*) (of all the rivers beginning with the Ganges). नाम—पवित्रवाद नामवन्नु (*nāma—pavitravāda nāmavannu*) (the sacred name). अग्रभं—स्तुतिसुत्तेनॆ (*agrabhaṃ—stutisuttenè*) (I praise). आरे—दूरदल्लिद्दरू सह (*āre—dūradalliddarū saha*) (even though far away). हरिष्ठाः—अश्वारूढनाद सूर्यनु (*hariṣṭhāḥ—aśvārūḍhanāda sūryanu*) (the sun mounted on horses). अस्य— ई विषद (*asya— ī viṣada*) (of this poison). योजनं—संपर्कवन्नु हॊंदिदनु ( ऎलै विषवे ) (*yojanaṃ—saṃparkavannu hòṃdidanu ( èlai viṣave )*) (came into contact (O poison)). मधुला—मधुविद्यॆयु (*madhulā—madhuvidyèyu*) (the honey-lore). त्वा—निन्नन्नु (*tvā—ninnannu*) (you). मधु चकार—अमृतवन्नागि परिवर्तिसिदॆ (*madhu cakāra—amṛtavannāgi parivartisidè*) (has turned into nectar).
+
+*[As supplied, the label line of the Bhāvārtha reads धनाथ (*dhanātha*); standard label inserted. Three readings, one in the Pada of Ṛk 13 and one each in the Saṃhitā and Pada of Ṛk 14, are marked with a query, as they differ from the other lines.]*
+
+**भावार्थ (Bhāvārtha)**
+
+I praise the sacred name of all the rivers beginning with the Ganges, ninety-nine in number and destroyers of poison. Even though far away, the sun mounted on horses came into contact with this poison. O poison, the honey-lore has turned you into nectar.
+
+**Printed English translation**
+
+I recite the names of ninety and nine (rivers), the destroyers of poison; although afar off, (the Sun), drawn by his coursers. will overtake the poison : the science of antidote has converted you, (Poison), to ambrosia.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 13)**
+
+So far the means of removing poison have been stated; now the sage describes that, for the removal of the defect of poison, he will remember the holy rivers such as the Ganges.
+
+नवानां नवतीनां-इल्लि नवानां नवतीनां ऎंदरॆ नवाधिकानां नवतिसंख्या- कानां नदीनां (*navānāṃ navatīnāṃ-illi navānāṃ navatīnāṃ èṃdarè navādhikānāṃ navatisaṃkhyā- kānāṃ nadīnāṃ*): that is, they have said "ninety-nine rivers". In the Ṛgveda there are many places where, to mean "many" or "numerous", the words नवनवति (*navanavati*), शत (*śata*) and सहस्र (*sahasra*) are used. In such places the number need not be much considered. The sage has said that he will remember many (a great number of) holy rivers, the Ganges and others.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 13, noted briefly)
+
+The page explains: नवानाम् (*navānām*) (by the rule षट् त्रिचतुर्भ्योहलादिः (*ṣaṭ tricaturbhyohalādiḥ*) (पा. सू. ६-१-१७९ (*pā. sū. 6-1-179*)) this word ending in *n* has the name *ṣaṭ*, so the following case ending *nām* takes the acute).
+
+### Printed p. 366
+
+*Running head (as supplied): [366 सायणभाष्यसहिता [मं. १. अ. २४ सू. १९१] (*[366 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24 sū. 191]*).*
+
+(The grammar page of Ṛk 13 continues.) नवतीनाम् (*navatīnām*) (by the rule पंक्ति विशंति (*paṃkti viśaṃti*) (पा. सू. ५-१-६० (*pā. sū. 5-1-60*)) the suffix *ti* after the word *navan*; the elision of the *n* is irregularly formed; as before the case ending *nām* in the genitive plural takes the acute); अग्रभम् (*agrabham*) (root ग्रह उपादाने (*graha upādāne*); *luṅ* in the sense of the present in the Veda; first person singular, *am* substituted for *mi*; in the Veda *luk* for *cli*; by the rule हृग्रहोर्भश्चंदसि (*hṛgrahorbhaścaṃdasi*) *bh* substituted for the root's *h*; the augment *aṭ* for the stem; the verbal *nighāta* accent because it follows a verb form).
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> त्रिः स॒प्त म॑यू॒र्यः॑ स॒प्त स्वसा॑रो अ॒ग्रुवः॑ ।
+> तास्ते॑ वि॒षं वि ज॑भिर [?] उद॒कं कुं॒भिनी॑रिव ॥ १४ ॥
+
+**॥ पदपाठः ॥**
+
+> त्रिः । सप्त । मयूर्यः । सप्त । स्वसारः । आग्रुवः [?] ।
+> ताः । ते । विषं । वि । जभ्रिरे । उदकं । कुंभिनीःऽइव ॥ १४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> त्रिः सप्तैकविंशतिसंख्याका मयूर्यो मयूरस्त्रियः : ता विषकारिसर्प-
+> द्वेषिण्य इति प्रसिद्धा नागद्वेषिगरुडपक्षादुत्पन्नत्वात् । तथा सप्तैतत्संख्याकाः सर्पण-
+> स्वभावाः स्वसारः स्वयणेव सरणा आग्रुवः । नदीनामैतत् । सुरगंगाद्याः प्रसिद्धाः
+> सप्त नद्यः संति । तास्ते हे देह तव विषं वि जभ्रिरे । विशेषेण हरंतु । तत्रदृष्टांतः।
+> उदकं कुंभिनीः कुंभिन्यः कुंभवत्यः कुंभेन जलहारिण्य इव । ता यथा तद्धरंति
+> तद्वन्नद्यो मयूर्यश्चातिप्रभूतं हरंतु ॥
+
+*Gist:* Twenty-one pea-hens and seven streaming rivers, such as the divine Ganges, carry off your poison as women with pitchers carry water.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(देह—ऎलै देहवे) त्रिः सप्त—एकविंशतिसंख्याकवाद (*(deha—èlai dehave) triḥ sapta—ekaviṃśatisaṃkhyākavāda*) ((O body) twenty-one in number). मयूर्यः—हॆण्णु नविल गळू (*mayūryaḥ—hèṇṇu navila gaḷū*) (pea-hens). सप्त—सप्तसंख्याकवादवू (*sapta—saptasaṃkhyākavādavū*) (seven in number). स्वसारः—प्रवहिसुवुवू आद (*svasāraḥ—pravahisuvuvū āda*) (flowing ones). ताः अग्रुवः—गंगादि नदिगळू सह (*tāḥ agruvaḥ—gaṃgādi nadigaḷū saha*) (those rivers, the Ganges and others, too). कुंभिनीः—कुंभगळिंद उदकवन्नु हॊरतक्क स्त्रीयरु (*kuṃbhinīḥ—kuṃbhagaḷiṃda udakavannu hòratakka strīyaru*) (women who carry water in pitchers). उदकं इव—नीरन्नु तुंबिकॊंडु होगुवंतॆ (*udakaṃ iva—nīrannu tuṃbikòṃḍu hoguvaṃtè*) (as they carry water filled). ते—निन्न (*te—ninna*) (your). विषं—विषवन्नु (*viṣaṃ—viṣavannu*) (poison). वि जभ्रिरे—पूर्णवागि अपहरिसलि (नाशपडिसलि). (*vi jabhrire—pūrṇavāgi apaharisali (nāśapaḍisali).*) (may they carry off completely (destroy)).
+
+*(The supplied text ends here, at the end of the Pratipadārtha of Ṛk 14; the Bhāvārtha follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 362 (PDF 362). Sukta 191 Rik 10 grammar complete; Rik 11 complete; Rik 12 Samhita and Pada only; three readings marked with a query
+**Progress note:** Done through printed p. 366 (PDF 366). Sukta 191 Rik 12 and Rik 13 complete; Rik 14 complete through the Pratipadartha; three readings marked with a query
