@@ -11952,6 +11952,110 @@ The word *asura* is a synonym of the word *rākṣasa* in the Purāṇas and the
 
 In this ṛk the word *asura* is an epithet of Indra. Here too, as said in that ṛk, one meaning is आसुरः— शत्रूणां निरसिता (*āsuraḥ— śatrūṇāṃ nirasitā*) (as printed), and another यद्वा आसुः प्राणो बलं (*yadvā āsuḥ prāṇo balaṃ*) (the supplied text ends here, in the middle of the sentence, at the end of the window).
 
+### Printed p. 404
+
+*Running head (as supplied): [404 सायणभाष्यसहिता [मं २. अ. १. सू. १] (*[404 sāyaṇabhāṣyasahitā [maṃ 2. a. 1. sū. 1]*).*
+
+*(Continuation of the *asura* note in the Special Topics of Ṛk 6 of Sūkta 1 of Maṇḍala 2, from mid-sentence at the end of the previous page.)*
+
+...वा तद्वान् । रो मत्त्वर्थीयः । अथवा असवः प्राणाः तेन च आपो लक्ष्यंते । तान् दाति ददातीति असुरः (*vā tadvān | ro mattvarthīyaḥ | athavā asavaḥ prāṇāḥ tena ca āpo lakṣyaṃte | tān dāti dadātīti asuraḥ*): or, since the word *asu* has the meanings life and strength, it may mean one who has life, one who has strength. Or *asavaḥ* means waters; Indra, who gives them (the giver of rain), may be meant. Since Indra has such various powers, the word may be an epithet of Indra in all these meanings. In the same way,
+
+क्षयन्न स्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि । (*kṣayanna smabhyamasura pracetā rājannenāṃsi śiśrathaḥ kṛtāni |*)
+(म. सं. १-२४-१४) (*(ma. saṃ. 1-24-14)*)
+
+in this ṛk (the reference is printed म. सं. १-२४-१४ (*ma. saṃ. 1-24-14*), as supplied), the epithet *asura* is used of Varuṇa, because he is one who destroys what is unwelcome (अनिष्टक्षेपणशील: (*aniṣṭakṣepaṇaśīla:*)). In the same sense,
+
+त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे । (*tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*)
+(ऋ. सं. २-१-६) (*(ṛ. saṃ. 2-1-6)*)
+
+in the present ṛk (the reference is printed ऋ. सं. २-१-६ (*ṛ. saṃ. 2-1-6*)) the word *asura* is used as an epithet of Agni or Rudra in the sense of one who repels enemies.
+
+वि सुपर्णो अंतरिक्षाण्यख्यद्गभीरवेपा असुरः सुनीथः । (*vi suparṇo aṃtarikṣāṇyakhyadgabhīravepā asuraḥ sunīthaḥ |*)
+(ऋ. सं. १-३५-७) (*(ṛ. saṃ. 1-35-7)*)
+
+In this ṛk (ऋ. सं. १-३५-७ (*ṛ. saṃ. 1-35-7*)) *asura* is असुं प्राणं राति ददातीत्यसुरः आदित्यः (*asuṃ prāṇaṃ rāti dadātītyasuraḥ ādityaḥ*), that is, the sun, the giver of life (the giver of vitality).
+
+पृषद्योनिः पंचहोता शृणोत्वतूर्तपंथा असुरो मयोभुः । (*pṛṣadyoniḥ paṃcahotā śṛṇotvatūrtapaṃthā asuro mayobhuḥ |*)
+(ऋ. सं. ५-४२-१) (*(ṛ. saṃ. 5-42-1)*)
+
+In this ṛk (ऋ. सं. ५-४२-१ (*ṛ. saṃ. 5-42-1*)) the meaning is, as explained before, the wind, the giver of life.
+
+अस्मे वीरो मरुतः शुष्कस्य जनानां यो असुरो विधर्ता ॥ (*asme vīro marutaḥ śuṣkasya janānāṃ yo asuro vidhartā ‖*)
+(ऋ. सं. ७-५६-२४) (*(ṛ. saṃ. 7-56-24)*)
+
+In this ṛk (ऋ. सं. ७-५६-२४ (*ṛ. saṃ. 7-56-24*); the print has मक्किनल्लि (*makkinalli*) for "in the ṛk") the word *asura* has the meaning "the wise one".
+
+शतं कक्षीवा असुरस्य गोनां दिवि श्रवोजरमा ततान । (*śataṃ kakṣīvā asurasya gonāṃ divi śravojaramā tatāna |*)
+(ऋ. सं १-१२६-२) (*(ṛ. saṃ 1-126-2)*)
+
+Here (ऋ. सं १-१२६-२ (*ṛ. saṃ 1-126-2*)) असुरस्य गोनां (*asurasya gonāṃ*) is explained as "of the generous one, who gives cows".
+
+त्रिरुत्तमा दूणशा रोचनानि त्रयो राजंत्यसुरस्य वीराः । (*triruttamā dūṇaśā rocanāni trayo rājaṃtyasurasya vīrāḥ |*)
+(म सं. ३-५६-८) (*(ma saṃ. 3-56-8)*)
+
+Here (the reference is printed म सं. ३-५६-८ (*ma saṃ. 3-56-8*)) अस्यति क्षिपति सर्वमित्यसुरः कालात्मा संवत्सरः (*asyati kṣipati sarvamityasuraḥ kālātmā saṃvatsaraḥ*) is used as a synonym of time.
+
+### Printed p. 405
+
+*Running head (as supplied): [अ. २. अ. ५. व. १८. ] ऋग्वेदसंहिता 405 (*[a. 2. a. 5. va. 18. ] ṛgvedasaṃhitā 405*).*
+
+यथा रुद्रस्य सूनवो दिवो वशंत्यसुरस्य वेधसः । (*yathā rudrasya sūnavo divo vaśaṃtyasurasya vedhasaḥ |*)
+(म. सं. ८-२०-१७) (*(ma. saṃ. 8-20-17)*)
+
+In this ṛk (the reference is printed म. सं. ८-२०-१७ (*ma. saṃ. 8-20-17*)) the word *asurasya* is used in the sense of a cloud.
+
+अनायुधासो असुरा अदेवाश्च क्रेण ता अस वस यजीषिन् । (*anāyudhāso asurā adevāśca kreṇa tā asa vasa yajīṣin |*)
+(म. सं. ८-९६-९) (*(ma. saṃ. 8-96-9)*)
+
+In such ṛks (the reference is printed म. सं. ८-९६-९ (*ma. saṃ. 8-96-9*)) *asuras* are the Daityas belonging to the class of rākṣasas. In the present ṛk the meaning is Agni or Rudra, who repels such rākṣasa enemies. In the Purāṇas and the like, and in modern Sanskrit also, *sura* means a god and *asura* means a rākṣasa who is not a god; this meaning is current. But the word *asura* was not formed as the negation of the word *sura*. The word *asura* itself was current in the Vedas (and especially in the Ṛgveda), and afterwards, by elision of the *a*, the word *sura*, with the opposite meaning, came into use. In the same way the word *aditi* was current, and afterwards, by elision of the *a*, the word *diti* came into use. *Aditi* means the mother of the gods; *diti*, on the contrary, has recently come into use in the sense of the mother of the rākṣasas.
+
+मारुतं शर्धः—मरुत्समूहरूपं बलमसि । वायुरूपश्च त्वमसीत्यर्थः (*mārutaṃ śardhaḥ—marutsamūharūpaṃ balamasi | vāyurūpaśca tvamasītyarthaḥ*): you are of the form of the wind. Or the purport is that you are the form of the joint strength of the ४९ (*49*) Marut deities. The joint strength of the Marut deities is wonderful. In describing this strength it is the custom to describe it by the words मारुतं शर्धः (*mārutaṃ śardhaḥ*).
+
+इंद्रं मित्रं वरुणमग्निमूतये मारुतं शर्धो अदितिं हवामहे । (*iṃdraṃ mitraṃ varuṇamagnimūtaye mārutaṃ śardho aditiṃ havāmahe |*)
+(ऋ. सं. १-१०६-१) (*(ṛ. saṃ. 1-106-1)*)
+
+In such ṛks (ऋ. सं. १-१०६-१ (*ṛ. saṃ. 1-106-1*)), when the Marut deities or the joint strength of the Marut deities is spoken of, the words मारुतं शर्धः (*mārutaṃ śardhaḥ*) are used.
+
+पृक्ष ईशिषे—अन्नस्य हविर्लक्षणस्य त्वं ईश्वरो भवसि (*pṛkṣa īśiṣe—annasya havirlakṣaṇasya tvaṃ īśvaro bhavasi*): the word पृक्षः (*pṛkṣaḥ*) is read among the names of food (नि. ३-९ (*ni. 3-9*); the print has परितवागिदॆ (*paritavāgidè*) for "is read"). It is described that Agni is lord of food in the form of oblations or in the form of nourishment.
+
+त्वं वातैररुणैर्यासि शंगयः—त्वं वातैर्वायुसदृशैररुणैररुणवर्णॆ- रश्वैः शंगयः सुखस्य गृहरूप आवासभूतः सन् यासि प्राप्नोषि यागगृहं (*tvaṃ vātairaruṇairyāsi śaṃgayaḥ—tvaṃ vātairvāyusadṛśairaruṇairaruṇavarṇè- raśvaiḥ śaṃgayaḥ sukhasya gṛharūpa āvāsabhūtaḥ san yāsi prāpnoṣi yāgagṛhaṃ*): O Agni, endowed with horses of ruddy brown colour that are swift like the wind (that is, seated in a chariot yoked with horses), having a comfortable dwelling, you are to come to our sacrificial house; this is the meaning
+
+### Printed p. 406
+
+*Running head (as supplied): [406 सायणभाष्यसहिता । मं. २. आ १ . सू.१] (*[406 sāyaṇabhāṣyasahitā | maṃ. 2. ā 1 . sū.1]*), as printed.*
+
+(the sentence continues from the previous page). यद्वा अरुणैर्गमनशीलैर्वायुभिरुत्पन्नः सन् यासि वने (*yadvā aruṇairgamanaśīlairvāyubhirutpannaḥ san yāsi vane*): or it may also mean that, born in the forest from the ever-moving or blowing wind, you grow strong.
+
+पूषा-सर्वस्य पोषकः (*pūṣā-sarvasya poṣakaḥ*): Agni, the nourisher of all, or the well-known deity Pūṣan (the print has अथना (*athanā*) for "or"); you are of the nature of such a deity.
+
+नु-क्षिप्रं (*nu-kṣipraṃ*): "quickly". Yāska says of this word, नु इत्येषोऽनेककर्मा (*nu ityeṣo 'nekakarmā*), that the word *nu* has many kinds of meaning (नि. १-४ (*ni. 1-4*)). This word is used when giving a reason and in comparison and so on. Here it is used in the sense of "quickly".
+
+त्मना विधतः पासि—आत्मना, अनुग्रहरूपया स्वबुद्धैव विधतः परिचरतो यजमानान् पासि (*tmanā vidhataḥ pāsi—ātmanā, anugraharūpayā svabuddhaiva vidhataḥ paricarato yajamānān pāsi*): the *ā* of the word आत्मना (*ātmanā*) is elided for the convenience of the metre, and the word is *tmanā*. In the Ṛgveda, generally, wherever the word *ātmanā* would be expected, the word *tmanā* is used. The prayer to Agni is: protect, by your own mind in the form of favour, the sacrificers who perform the sacrifice, serving you.
+
+*[As supplied, the label line of the Saṃhitā of Ṛk 7 reads संहिता-त्री (*saṃhitā-trī*); standard label inserted. The last word of the second line of the Saṃhitā, split across two lines with a hyphen in the supplied text, is joined.]*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्ने द्रविणो॒दा अ॑रं॒कृते॒ त्वं दे॒वः स॑वि॒ता र॑त्न॒धा अ॑सि ।
+> त्वं भगो॑ नृपते॒ वस्व॑ ईशिषे॒ त्वं पा॒युर्दमे॒ यस्ते ऽवि॑धत् ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । द्रविणःदाः । अरंकृते । त्वं । देवः । सविता । रत्नधाः । असि ।
+> त्वं । भगः । नृपते । वस्वः । ईशिषे । त्वं । पायुः । दमे । यः । ते । अविधत् ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वमरंकृते त्वामलंकुर्वते यजमानाय द्रविणोदाः । हिरण्यस्य
+> दातासि । देवो द्योतमानः सविता सर्वस्य सत्कर्मसु प्रेरकस्त्वं रत्नधा रमणी-
+
+> *he agne tvamaraṃkṛte tvāmalaṃkurvate yajamānāya draviṇodāḥ | hiraṇyasya*
+> *dātāsi | devo dyotamānaḥ savitā sarvasya satkarmasu prerakastvaṃ ratnadhā ramaṇī-*
+
+*(The bhāṣya of Ṛk 7 breaks off here, in the middle of a word, at रमणी- (*ramaṇī-*), at the end of the window.)*
+
 ---
 
-**Progress note:** Done through printed p. 403 (PDF 403). Mandala 2 Sukta 1 Rik 6 complete through the printed English; Special Topics begun (Rudra, asura) and broken off mid-sentence; Samhita remainder and Pada added
+**Progress note:** Done through printed p. 406 (PDF 406). Mandala 2 Sukta 1 Rik 6 Special Topics and grammar complete (asura, marutam shardhah, prksha ishishe, tmana); Rik 7 Samhita and Pada, bhashya begun
