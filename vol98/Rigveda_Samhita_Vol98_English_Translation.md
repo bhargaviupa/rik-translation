@@ -7278,6 +7278,102 @@ At the beginning this deity is named (*pra*)*doṣā*, at midnight *tamasvatī*,
 
 प्रथमा हि-प्रसिद्धरू, प्रमुखरू (*prathamā hi-prasiddharū, pramukharū*) (famed, foremost). सुवाचसा-प्रियकरवाद वाक्कुळ्ळवरू (*suvācasā-priyakaravāda vākkuḷḷavarū*) (of pleasing speech).
 
+### Printed p. 250
+
+*Running head: [250 Sāyaṇa-bhāṣya-sahitā [Maṃ. . A. 24, Sū. 188] (as supplied; the print has a blank where the maṇḍala numeral belongs).*
+
+**Pratipadārtha** (Ṛk 7, continued from p. 249)
+
+दैव्या—देवतात्मरू (*daivyā—devatātmarū*) (divine in nature). होतारा—देवतॆगळिगॆ आह्वानवन्नु कॊडुववरू (*hotārā—devatègaḷigè āhvānavannu kòḍuvavarū*) (invokers of the gods). कवी—मेधाविगळू आद ई इब्बरू ! (*kavī—medhāvigaḷū āda ī ibbarū !*) (wise, these two). नः—नम्म (*naḥ—namma*) (our). इमं यज्ञं—ई यज्ञवन्नु (*imaṃ yajñaṃ—ī yajñavannu*) (this sacrifice). यक्षतां—नॆरवेरिसलि (*yakṣatāṃ—nèraverisali*) (let them perform).
+
+**भावार्थ (Bhāvārtha)**
+
+May these two, famed, foremost, of pleasing speech, divine in nature, invokers of the gods and wise, perform this our sacrifice.
+
+*[As supplied, the label line reads English Translatin (*English Translatin*), run on after the Bhāvārtha; standard label inserted.]*
+
+**Printed English translation**
+
+Let these two chief, well-spoken, divine sages, the invokers (of the gods), perform this our sacrifice.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 7)**
+
+दैव्या होतारा (*daivyā hotārā*) — देवसंबंधिनौ होतारौ । अयं च मध्यमस्थानश्च इत्युभौ (*devasaṃbaṃdhinau hotārau | ayaṃ ca madhyamasthānaśca ityubhau*): Sāyaṇa has explained them as the two forms of Agni, the divine hotṛs, namely the terrestrial Agni and the Agni of the atmosphere. Some modern scholars give different meanings and thereby show differences of opinion among themselves. The scholar Geldner says they are the sacrificing hotṛ and his Agni; Haug says the hotṛ and the adhvaryu; Oldenberg says the hotṛ and his assistant the maitrāvaruṇa. None of these is reasonable.
+
+That the chief duty of these hotṛs is to carry out the sacrifice is said by यज्ञं नो यक्षता- मिमं (*yajñaṃ no yakṣatā- mimaṃ*) in the ṛks १-१३-८, १-१८८-७ (*1-13-8, 1-188-7*), and by देवान्यजंतावृतुथा (*devānyajaṃtāvṛtuthā*) in the ṛk २-३-७ (*2-3-7*). This statement of duty applies to the human hotṛ, and Agni is addressed with reference to it figuratively. Yāska's explanation of the word *daivyā hotārā* is:
+
+दैव्या होतारा दैव्या होतारावयं चाग्निरसौ च मध्यमः (*daivyā hotārā daivyā hotārāvayaṃ cāgnirasau ca madhyamaḥ*)
+
+That is, this word indicates Agni himself. Since Agni invokes the gods, he stands between the gods and men; an illustration of this is given:
+
+दैव्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै । (*daivyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai |*)
+प्रचोदयंता विधथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशंता ॥ (*pracodayaṃtā vidhatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśaṃtā ‖*)
+(पु. सं. १८-११०-७) (*(pu. saṃ. 18-110-7)*)
+
+### Printed p. 251
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 9] Ṛgveda-saṃhitā 251 (as supplied).*
+
+The commentary on this by Durgācārya:
+
+यावेत् दैवौ होतारौ । देवेषु भवौ देव्यौ देवावेव देव्यौ । स्वार्थे (*yāvet daivau hotārau | deveṣu bhavau devyau devāveva devyau | svārthe*)
+एव तद्धितः । मनुष्यहोतारौ अपेक्ष्य । दैवौ होतारौ होतृमैत्रा- (*eva taddhitaḥ | manuṣyahotārau apekṣya | daivau hotārau hotṛmaitrā-*)
+वरुणौ इति विशेषणं । होतारा होतारौ आह्वातारौ देवानां वाय्वग्नी । (*varuṇau iti viśeṣaṇaṃ | hotārā hotārau āhvātārau devānāṃ vāyvagnī |*)
+प्रथमा प्रथमौ मुख्यौ मनुष्यहोतारावपेक्ष्य । सुवाचा । सुवाचौ, (*prathamā prathamau mukhyau manuṣyahotārāvapekṣya | suvācā | suvācau,*)
+प्रशस्तवाचौ, सुस्तुतौ । मिमाना यज्ञं यज्ञनिर्मातारौ नित्यं । मनुषः (*praśastavācau, sustutau | mimānā yajñaṃ yajñanirmātārau nityaṃ | manuṣaḥ*)
+मनुष्यस्य यजध्यै यजनाय । प्रचोदयंता प्रचोदयमानौ । (*manuṣyasya yajadhyai yajanāya | pracodayaṃtā pracodayamānau |*)
+विदथेषु यज्ञेषु । कारू कर्तारौ । इत्यादि । (*vidatheṣu yajñeṣu | kārū kartārau | ityādi |*)
+
+The chief meaning of this is: Agni and Vāyu are well known as the hotṛs of the gods, and the priests Hotṛ and Maitrāvaruṇa as the hotṛs of men. Since Agni, or Agni and Vāyu, stand between the gods and men and establish a relation between them, Agni is said to be *madhyama* (the middle one). The name of these deities, *daivyā hotārā*, occurs outside the Āprī sūktas only in two ṛks:
+
+त्वष्टारं वायुमृभवो य ओहते दैव्या होतारा उषसं स्वस्तये । (*tvaṣṭāraṃ vāyumṛbhavo ya ohate daivyā hotārā uṣasaṃ svastaye |*)
+(ऋ. सं. १०-६५-१०) (*(ṛ. saṃ. 10-65-10)*)
+
+दैव्या होतारा प्रथमा पुरोहित ऋतस्य पंचामन्वेमि साधुया । (*daivyā hotārā prathamā purohita ṛtasya paṃcāmanvemi sādhuyā |*)
+(ऋ. सं. १०-६६-१३) (*(ṛ. saṃ. 10-66-13)*)
+
+In the ṛk ऋ सं ७-२-७ (*ṛ saṃ 7-2-7*) they are called जातावेदसा (*jātāvedasā*) and in the ṛk ऋ. सं. १०-७०-७ (*ṛ. saṃ. 10-70-7*) पुरोहितौ (*purohitau*). And since the words मिमाना यज्ञं मनुषो यजध्यै (*mimānā yajñaṃ manuṣo yajadhyai*), यज्ञेषु मानुषेषु कारू (*yajñeṣu mānuṣeṣu kārū*) and प्रचोदयंता विदथेषु कारू (*pracodayaṃtā vidatheṣu kārū*) in the ṛks above say that these deities carry out the sacrifices performed by men, it is natural that they should be called *purohitas*. While among the gods the hotṛs are Agni and Vāyu, among men the hotṛ and his assistant priest, the Maitrāvaruṇa, are called hotṛs. This Maitrāvaruṇa orders the other priests by *praiṣa* mantras to perform the respective acts. In the Yajurveda (तै. सं. ६-१- (*tai. saṃ. 6-1-*), the reference is incomplete in the print) it is said मैत्रा- वरुणो हि पुरस्तादृत्विग्यो वाचं विभजति (*maitrā- varuṇo hi purastādṛtvigyo vācaṃ vibhajati*).
+
+Thus some epithets, though common to the two hotṛs, seem to indicate only the duty of the human hotṛ; and other epithets, though common to both, describe only the duties of the divine hotṛ Agni. For example:
+
+### Printed p. 252
+
+*Running head: [252 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 188] (as supplied).*
+
+दैव्या होतारा प्रथमा न्यृंजे सप्त पृक्षासः स्वधया मदंति । (*daivyā hotārā prathamā nyṛṃje sapta pṛkṣāsaḥ svadhayā madaṃti |*)
+ऋतं शंसंत ऋतमित्त आहुरनु व्रतं वृतपा दीध्यानाः ॥ (*ṛtaṃ śaṃsaṃta ṛtamitta āhuranu vrataṃ vṛtapā dīdhyānāḥ ‖*)
+(मि. सं. ३-४-७) (*(mi. saṃ. 3-4-7)*)
+
+In this ṛk there is no doubt that the epithet *prathamā* refers to Agni, the divine hotṛ. In १-१३-४ (*1-13-4*) होता मनुर्हितः (*hotā manurhitaḥ*) is an epithet of Agni. The exact difference between these two hotṛs is stated in the Praiṣa sūkta thus:
+
+होता यक्षद्दैव्या होतारा मंद्रा पोतारा कवी प्रचेतसा । स्विष्ट- (*hotā yakṣaddaivyā hotārā maṃdrā potārā kavī pracetasā | sviṣṭa-*)
+मद्यान्यः करदिषा स्वभिगूर्तमन्य ऊर्जा सतवसेमं यज्ञं दिवि देवेषु (*madyānyaḥ karadiṣā svabhigūrtamanya ūrjā satavasemaṃ yajñaṃ divi deveṣu*)
+धत्तां वीतामाज्यस्य होतरज । (*dhattāṃ vītāmājyasya hotaraja |*)
+(तै. ब्रा. ३-६-२-२) (*(tai. brā. 3-6-2-2)*)
+
+This sentence indicates that one hotṛ should make the sacrifice acceptable with the oblation in the form of food, and the other should establish this sacrifice among the gods in heaven. This division of work shows the difference between the human hotṛ and the divine hotṛ Agni. In the Aitareya-brāhmaṇa:
+
+दैव्या होतारा यजति प्राणापानौ वै दैव्या होतारा प्राणापानावेव (*daivyā hotārā yajati prāṇāpānau vai daivyā hotārā prāṇāpānāveva*)
+तत्प्रीणाति प्राणापानौ यजमाने दधाति । (*tatprīṇāti prāṇāpānau yajamāne dadhāti |*)
+(इ. ब्रा. २-४) (*(i. brā. 2-4)*)
+
+identity of these hotṛs with the vital breaths *prāṇa* and *apāna* is stated, and it is said that the reciter of this mantra secures for the sacrificer a good condition of *prāṇa* and *apāna*. In the Nirukta:
+
+दैव्या होतारा दैव्य होतारावयं चाग्निरसौ च मध्यमः । (*daivyā hotārā daivya hotārāvayaṃ cāgnirasau ca madhyamaḥ |*)
+(नि. ८-१२) (*(ni. 8-12)*)
+
+by these supporting sentences, which confirm Sāyaṇa's meaning, it is said that they are the terrestrial Agni and the Agni of the atmosphere. The Bṛhaddevatā too, approving the same opinion:
+
+दैव्याविति तु होतारावग्नी पार्थिवमध्यमौ । (*daivyāviti tu hotārāvagnī pārthivamadhyamau |*)
+दिव्यादग्नीर्हि बज्ज्ञाते दैव्ये तेनेह जन्मना ॥ (*divyādagnīrhi bajjñāte daivye teneha janmanā ‖*)
+(बृ दे. ३-११) (*(bṛ de. 3-11)*)
+
+says that these two hotṛs are the terrestrial and middle (atmospheric) Agnis.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 7, noted briefly; it breaks off at the end of the window)
+
+प्रथमा (*prathamā*): by सुपां सुलुक् (*supāṃ suluk*) (पा सू. ७-२९ (*pā sū. 7-29*), as printed) the substitute *ā* for the dual ending.
+
 ---
 
-**Progress note:** Done through printed p. 249 (PDF 249). Done through printed p. 249 (Sukta 188 Rik 6 complete; Rik 7 Samhita, Pada, bhashya done; Pratipadartha begun, breaks off after suvacasa)
+**Progress note:** Done through printed p. 252 (PDF 252). Done through printed p. 252 (Sukta 188 Rik 7 complete through Special Topics; Rik 7 grammar page begun, breaks off after prathama)
