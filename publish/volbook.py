@@ -43,9 +43,10 @@ def convert_inline(md):
 
 def add_missing_headings(md, specs):
     out, done = [], set()
+    have = set(md.split('\n'))                       # a heading already in the file is never added twice
     for line in md.split('\n'):
         for k, sp in enumerate(specs):
-            if k not in done and re.match(sp['find'], line):
+            if k not in done and sp['heading'] not in have and re.match(sp['find'], line):
                 done.add(k); out += [sp['heading'], '']
         out.append(line)
     return '\n'.join(out), len(done)
@@ -196,16 +197,26 @@ def build_kan(cfg, html_only):
     md = re.sub(r'<!-- printed (\d+) -->', r'### Printed p. \1', md)
     md = re.sub(r'\n---\n', '\n', md)
     body = pandoc_html(md)
+    toc, st = [], {'n': 0}
     def head(m):
         tag, inner = m.group(1), m.group(2)
-        mm = re.match(r'Printed p\.\s*(\d+)', re.sub(r'<[^>]+>', '', inner).strip())
+        text = re.sub(r'<[^>]+>', '', inner).strip()
+        st['n'] += 1; hid = f'k{st["n"]}'
+        mm = re.match(r'Printed p\.\s*(\d+)', text)
         if mm: return f'<h3 class="pg" id="p{mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
-        return f'<{tag}>{inner}</{tag}>'
+        if tag == 'h2':                                   # '## ಸೂಕ್ತ N (ಮಂಡಲ M)' or '## ಮಂಡಲ M' (added from the English structure by kn_headings.py)
+            cls = 'sukta' if text.startswith('ಸೂಕ್ತ') else 'part'
+            toc.append((hid, text, cls))
+            return f'<h2 class="{cls}" id="{hid}" data-short="{html.escape(text)}">{inner}</h2>'
+        return f'<{tag} id="{hid}">{inner}</{tag}>'
     body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
+    idx = ''
+    if toc:
+        idx = '<section class="toc"><h2>ಸೂಕ್ತಸೂಚಿ</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
     ch, blocks = contents_html(cfg)
-    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + abbreviations(cfg) + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only)
+    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only)
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--')]

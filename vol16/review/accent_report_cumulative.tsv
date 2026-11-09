@@ -1,0 +1,50 @@
+# Accent mismatches collected from the per-window accent_report.tsv versions in git history (the build rewrites the file, so earlier rows disappear). Columns: kind, line-in-window, ref (Mandala.Sukta.Rk), score/text. Line numbers are per window.
+DIFF	69	3.7.3	0.926
+DIFF	56	3.7.4	0.944
+NOMATCH	57	0.23	वहंति ।
+DIFF	9	3.7.5	0.966
+DIFF	10	3.7.5	0.95
+NOMATCH	11	0.13	गीः ॥ ५ ॥
+DIFF	112	3.7.6	0.905
+NOMATCH	113	0.12	शूषं ।
+DIFF	16	3.7.7	0.968
+NOMATCH	17	0.13	गुः ॥ ७ ॥
+DIFF	35	3.4.7	0.899
+NOMATCH	36	0.17	दंति ।
+NOMATCH	33	0.0	[figure: vol16/html/figures/fig_line2559
+DIFF	34	3.7.9	0.887
+NOMATCH	35	0.29	सुयामाः ।
+DIFF	36	3.7.9	0.884
+NOMATCH	37	0.3	वक्षि ॥ ९ ॥
+DIFF	86	3.8.1	0.953
+NOMATCH	87	0.22	पस्थे ॥ १ ॥
+NOMATCH	27	0.0	[figure: vol16/html/figures/fig_line4373
+DIFF	28	3.8.2	0.969
+DIFF	29	3.8.2	0.973
+DIFF	68	3.8.4	0.976
+DIFF	9	3.8.5	0.951
+DIFF	11	3.8.5	0.937
+NOMATCH	12	0.23	वाचं ॥ ५ ॥
+OK_PART	10	3.8.11	0.91
+DIFF	9	3.8.6	0.921
+NOMATCH	10	0.3	ततक्ष ।
+DIFF	11	3.8.6	0.97
+DIFF	11	3.8.7	0.971
+DIFF	16	3.8.8	0.97
+DIFF	17	3.8.8	0.932
+NOMATCH	18	0.24	केतुं ॥ ८ ॥
+NOMATCH	31	0.0	[figure: vol16/html/figures/fig_line5604
+DIFF	32	3.8.9	0.951
+DIFF	34	3.8.9	0.955
+NOMATCH	35	0.16	पाथः ॥ ९
+OK_PART	33	3.8.8	0.91
+NOMATCH	57	0.0	[figure: vol16/html/figures/fig_line5779
+DIFF	58	3.8.10	0.894
+NOMATCH	59	0.31	पृथिव्यां ।
+DIFF	60	3.8.10	0.956
+DIFF	31	3.8.11	0.949
+DIFF	32	3.8.11	0.964
+NOMATCH	33	0.24	गाय ॥ ११ ॥
+DIFF	16	3.9.1	0.963
+DIFF	11	3.9.2	0.945
+DIFF	14	3.9.4	0.93
