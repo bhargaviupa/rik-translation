@@ -7883,6 +7883,102 @@ by these sentences they discuss the nature of the Āprī deity addressed in the 
 
 (the supplied text breaks off here, at the end of the window, after the Bṛhaddevatā verse).
 
+### Printed p. 269
+
+*Running head: [Ā. 2. Ā. 5 Va. 9] Ṛgveda-saṃhitā 269 (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 10 of Sūkta 188, on *vanaspati*.)*
+
+...in this verse, showing that *vanaspati* means the Agni of the middle world, they state definitively that, except in a few places in the Ṛk-saṃhitā, in the many other places this word indicates Agni and there is no doubt of it.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 10, noted briefly)
+
+तन्न्या (*tannyā*) (the print): the word *ātman*; when the instrumental singular follows, by सुपां सुलुक् (*supāṃ suluk*) (पा. सद. (*pā. sada.*) [sic] ७-१-३९ (*7-1-39*)) the substitute *yā* for it; by मंत्रेष्वाज्यादेरात्मनः (*maṃtreṣvājyāderātmanaḥ*) the initial *ā* is dropped. सृज (*sṛja*): root सृज विसर्गे (*sṛja visarge*); *loṭ*, second person singular; the verb-*nighāta* accent. सिष्टदत् [?] (*siṣṭadat [?]*): root स्वद आस्वादने (*svada āsvādane*); by छंदसिलुज् लज् लिटः (*chaṃdasiluj laj liṭaḥ*) (पा. सू. ३.४-६ (*pā. sū. 3.4-6*)) *luṅ* in the sense of *loṭ* after the causative; third person singular *tip*; by इतश्च (*itaśca*) the final *i* is dropped; by णिश्रिद्रुसुभ्यः— (*ṇiśridrusubhyaḥ—*) (पा. सू. ३-१-४९ (*pā. sū. 3-1-49*)) the substitute *caṅ* for *cli*; reduplication of the root on account of *caṅ*; by बहुलं छंदस्यमाज्— (*bahulaṃ chaṃdasyamāj—*) (पा. सू. ६-४-७५ (*pā. sū. 6-4-75*)) the augment *aṭ* does not occur; owing to the connection with a finite verb the *nighāta* accent.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> पु॒रो॒गा अ॒ग्निर्दे॒वानां॑ गाय॒त्रेण॒ सम॑ज्यते ।
+> स्वाहा॑कृतीषु रोचते ॥ ११ ॥
+
+> *purogā agnirdevānāṃ gāyatreṇa samajyate |*
+> *svāhākṛtīṣu rocate ‖ 11 ‖*
+
+*[The Pada of this Ṛk as supplied has a line reading only । (*|*) between its first and last lines; a line seems to be missing in the supplied text.]*
+
+**॥ पदपाठः ॥**
+
+> पुरःगाः । अग्निः । देवानां । गायत्रेण । सं । अज्यते ।
+> ।
+> स्वाहाकृतीषु । रोचते ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अयमग्निर्देवानां पुरोगा असुरयुद्धं प्रति पुरोगामी। यद्वा। देवानां
+> मध्ये यज्ञं प्रत्यग्निरेव पुरोगामि। आत एवाग्रणीत्वादेवाग्निशब्दो निष्पन्नः । अग्निः
+> कस्मादग्रणीर्भवतीति निरुक्तं। ७-१४। तादृशोऽयं गायत्रेणैतदुपलक्षितेन्मंत्रेण
+
+> *ayamagnirdevānāṃ purogā asurayuddhaṃ prati purogāmī| yadvā| devānāṃ*
+> *madhye yajñaṃ pratyagnireva purogāmi| āta evāgraṇītvādevāgniśabdo niṣpannaḥ | agniḥ*
+> *kasmādagraṇīrbhavatīti niruktaṃ| 7-14| tādṛśo 'yaṃ gāyatreṇaitadupalakṣitenmaṃtreṇa*
+
+### Printed p. 270
+
+*Running head: [270 Sāyaṇa-bhāṣya-sahitā [Maṃ. . A. 24. Sū. 188] (as supplied; the print has a blank where the maṇḍala numeral belongs).*
+
+> समज्यते सम्यग्लक्ष्यते । स्वाहाकृतीषु स्वाहाकारेषु सत्सु हविःषु दीयमानेषु
+> रोचते । अत्यर्थं दीप्यते । एताः प्रयाजदेवता यज्ञावयवाभिमानिन्यः । तद्वारा
+> यज्ञ एव स्तूयत इति केषांचिन्मतं । अग्निरेव नामांतरमित्यन्ये ॥
+
+*Gist:* Agni goes in front of the gods, to war with the demons or in the sacrifice, and is celebrated by the gāyatra mantra; when oblations are offered with *svāhā* he blazes. These *prayāja* deities preside over parts of the sacrifice, so the sacrifice itself is praised through them, some think; others say they are only other names of Agni.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्निः—अग्नियु (*agniḥ—agniyu*) (Agni). देवानां—देवतॆगळिगॆल्ला (*devānāṃ—devatègaḷigèllā*) (of all the gods). पुरोगाः—युद्ध कालदल्लालि अथवा यागकालदल्लागलि मुंदाळागिद्दानॆ (ई अग्नियु) (*purogāḥ—yuddha kāladallāli athavā yāgakāladallāgali muṃdāḷāgiddānè (ī agniyu)*) (the leader, in time of war or in time of sacrifice). गायत्रेण—गायत्ररूपवाद मंत्र दिंद (*gāyatreṇa—gāyatrarūpavāda maṃtra diṃda*) (by the mantra in gāyatra form). समज्यते—वर्णितनागिद्दानॆ (*samajyate—varṇitanāgiddānè*) (is celebrated). स्वाहाकृतीषु—स्वाहाकारपूर्वकवागि हविस्सन्नु अर्पिसिदाग (*svāhākṛtīṣu—svāhākārapūrvakavāgi havissannu arpisidāga*) (when oblations are offered with *svāhā*). रोचते—प्रकाशिसुत्तानॆ (*rocate—prakāśisuttānè*) (he shines).
+
+*[As supplied, the label line reads भानुवार (*bhānuvāra*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+In time of war or in time of sacrifice Agni goes before all the gods. This Agni is celebrated by a mantra in gāyatra form. When oblations are offered with *svāhā* he shines.
+
+**Printed English translation**
+
+Agni, the preceder of the gods, is characterized by the Gayatri measure; (metre) ; he blazes when the oblations are offered.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 11)**
+
+पुरोगाः (*purogāḥ*) — आयमग्निर्देवानां पुरोगा आसुरयुद्धं प्रति पुरोगामी । यद्वा । देवानां मध्यॆ यज्ञं प्रत्यग्नि रेव पुरोगामी (*āyamagnirdevānāṃ purogā āsurayuddhaṃ prati purogāmī | yadvā | devānāṃ madhyè yajñaṃ pratyagni reva purogāmī*) (the print has "ಆಯಮ" and "ಆಸುರ"): that is, in fighting the demons this Agni is the leader, the chief, of the gods and of men; or in the sacrifice, when many gods are invited and praised, Agni has the first place among them, that is, Agni is praised first. The word *purohita* has more or less the same sense: because he is established in front of the sacrificers at sacrifices (on the sacrificial altar), Agni is called *purohita*. From whatever point of view one looks, it must be said that Agni has the first (chief) place in sacrifices and the like. On this Yāska says अग्निः कस्मात् अग्रणीर्भवतीति (*agniḥ kasmāt agraṇīrbhavatīti*) (नि. ७-१४ (*ni. 7-14*)), explaining the derivation of the word *agni*: because he is like a leader in front of all, he is named Agni. Therefore here Agni is described by the word *purogāḥ*.
+
+गायत्रेण सं अज्यते (*gāyatreṇa saṃ ajyate*) — by the *gāyatrī* metre, or by the sāman mantra called *gāyatra*, we offer this mantra called *svāhākṛti* to Agni: this is the sense. The word गायत्रवेपसे (*gāyatravepase*) in the ṛk ऋ. सं १-१४२-१२ (*ṛ. saṃ 1-142-12*) supports this meaning too.
+
+### Printed p. 271
+
+*Running head: [Ā. 2. Ā. 5. Va. 9] Ṛgveda-saṃhitā 271 (as supplied).*
+
+स्वाहाकृतीपु (*svāhākṛtīpu*) (the print has *pu* for *ṣu*) — Yāska's explanation:
+
+स्वाहाकृतयः । साहाकृतयः स्वाहेत्येतत् सु आहेति वा । स्वा वागाहेति (*svāhākṛtayaḥ | sāhākṛtayaḥ svāhetyetat su āheti vā | svā vāgāheti*)
+वा । स्वं प्राहेति वा । स्वाहुतं हविर्जुहोतीति वा ॥ (*vā | svaṃ prāheti vā | svāhutaṃ havirjuhotīti vā ‖*)
+(सि. ८-२) (*(si. 8-2)*)
+
+The word *svāhā* has four etymological meanings.
+(1) सु आहेति वा (*su āheti vā*) — *su* = well, *āha* = says: since it is pronounced well or clearly, it is called *svāhā*.
+(2) स्वा वागाहेति वा (*svā vāgāheti vā*) — *svā* = one's own speech: there is a scriptural sentence तं स्वा वाग- भ्यवदज्जुहुधीति तत्साहाकारस्य जन्म (*taṃ svā vāga- bhyavadajjuhudhīti tatsāhākārasya janma*) (Brāhmaṇa); that is, since in the sacrifice the sacrificer himself adds the word *svāhā* at the end of the Vedic ṛk, it is called *svāhā*.
+(3) स्वं प्राहेति वा (*svaṃ prāheti vā*) — here *svam* = his own oblation, *āha* = he says he will offer: hence the name *svāhā*.
+(4) स्वाहुतं हविर्जुहोतीति वा (*svāhutaṃ havirjuhotīti vā*) — since the oblation he offers is offered by pronouncing the word *svāhā*, that is, by giving the oblation in the fire, it is called *svāhā*.
+
+For the sense of *svāhākāra* Yāska gave this ṛk as an example:
+
+सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः । (*sadyo jāto vyamimīta yajñamagnirdevānāmabhavatpurogāḥ |*)
+अस्य होतुः प्रदिश्यतस्य वाचि स्वाहाकृतं हविरदंतु देवाः ॥ (*asya hotuḥ pradiśyatasya vāci svāhākṛtaṃ haviradaṃtu devāḥ ‖*)
+(ऋ. सं १०-११०-११) (*(ṛ. saṃ 10-110-11)*)
+
+Its chief meaning: Agni, just born (that is, now established in the sacrifice), sits before the gods and carries on the sacrifice, performing the hotṛ's office, that is, the work of invoking the gods. May the gods eat the oblation offered with the word *svāhā* by such a hotṛ, who sits in the east and presents it. Therefore *svāhā* is the word uttered at the end of a mantra when an oblation is offered in the fire according to rule, in the sacrifice, for the pleasure of the gods.
+
+In some Āprī sūktas the plural स्वाहाकृतयः (*svāhākṛtayaḥ*) is used. In this sūkta the eleven deities, the eleven *prayāja* mantras used in the offering (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 268 (PDF 268). Done through printed p. 268 (Sukta 188 Rik 10 complete through Special Topics on vanaspati, breaks off after the Brihaddevata verse on p. 268); [?] on dutavannu
+**Progress note:** Done through printed p. 271 (PDF 271). Done through printed p. 271 (Sukta 188 Rik 10 complete with grammar page; Rik 11 complete through Special Topics on svahakriti, breaks off mid-sentence at the end of p. 271); [?] on sishtadat
