@@ -1721,6 +1721,88 @@ In ṛks like this the true nature of the *kavi* is described. The *kavi*s, havi
 
 *[The window ends here, mid-sentence.]*
 
+### Printed p. 59
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2.] Ṛgveda-saṃhitā 59. The window begins inside the Special Topics of Ṛk 1, continuing the note on *kavayaḥ* from p. 58.*
+
+… the word is used in the sense of those who have the capacity, by knowing through their inner vision the aspects that do not appear to the eye, to make the world's sight also understand a little. In the present ṛk too, addressing seers who have obtained such supra-sensory knowledge, it asks: "What is the secret principle of Heaven and Earth?"
+
+विश्वं त्मना बिभृतः (*viśvaṃ tmanā bibhṛtaḥ*) — it is praised that the deity of the heavenly world and the earth goddess, protectors of the universe, hold all the worlds in themselves and themselves bear them all.
+
+नमो द्यावापृथिवीभ्यामिति तदाभ्यां द्यावापृथिवीभ्यां निह्नुवते ययोरिदं (*namo dyāvāpṛthivībhyāmiti tadābhyāṃ dyāvāpṛthivībhyāṃ nihnuvate yayoridaṃ*)
+सर्वमधि । (*sarvamadhi |*)
+
+(Śa. Brā. 3-4-3-21)
+
+In many places like this it is stated that the existence of all the worlds, their bearing and all protective activity depend on Heaven and Earth. The same idea was explained earlier, in telling the special topics of the ṛk
+
+उरुव्यचसा महिनी असश्चता पिता माता च भुवनानि रक्षतः । (*uruvyacasā mahinī asaścatā pitā mātā ca bhuvanāni rakṣataḥ |*)
+सुधृष्टमे वपुष्ये ३ न रोदसी पिता यत्सीमभि रूपैरवासयत् ॥ (*sudhṛṣṭame vapuṣye 3 na rodasī pitā yatsīmabhi rūpairavāsayat ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ] 1-160-2 [the print has "೩" after "ವಪುಷ್ಯೇ" in the verse, as supplied; and "ಹಕ್ಕಿನ" for "ಋಕ್ಕಿನ" in the following sentence])
+
+*[As supplied, the label line of the grammar page reads व्याकत इप्रक्रिया]* (*vyākata iprakriyā]**); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+कतरा (*katarā*) (किम् (*kim*), "which of two"): by किंयत्तदोः निर्धारणेद्वयोः (*kiṃyattadoḥ nirdhāraṇedvayoḥ*) (Pā. Sū. 5-3-42) the suffix *ḍatarac* when the sense of selection appears; because it has the mark *ḍ*, elision of the *ṭi* part; by चितः (*citaḥ*) (Pā. Sū. 6-1-163) the last-syllable acute; because it ends in *a*, feminine *ṭāp*. अयोः (*ayoḥ*): when the form is अनयोः (*anayoḥ*) ("of these two"), elision of the *n* in the Vedic manner. कथा (*kathā*): by थाहेत् च छंदसि (*thāhet ca chaṃdasi*) (Pā. Sū. 5-3-326 [as printed]) the suffix *thā* after the word *kim*; because it has the case-ending name, the substitute *ka* by the sūtra किमः कः (*kimaḥ kaḥ*); the accent of the suffix, last-syllable acute. कवयः (*kavayaḥ*) (root कु (*ku*), "to sound"): the suffix *i*; by सार्वधातुकार्थ- धातुकयोः ऎंबुदरिंद (*sārvadhātukārtha- dhātukayoḥ èṃbudariṃda*) the *u* is replaced; vocative plural; the vocative *nighāta* accent. त्मना (*tmanā*): by मंत्रेष्वाज्यादेरात्मनः (*maṃtreṣvājyāderātmanaḥ*) (Pā. Sū. 6-4-141) the elision of the initial *ā*. वर्तते (*vartate*) (root वृतु वर्तने. (*vṛtu vartane.*)): present tense, third person dual; the finite-verb *nighāta* accent arises. 
+
+### Printed p. 60
+
+*Running head: [60 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 1.85] (as supplied).*
+
+चक्रियाइव (*cakriyāiva*) — by interchange in the sense of possession; by मतौचॆ (*mataucè*) (Pā. Sū. 4-4-136) the suffix *gha*; by the sūtra आयनेयी—सूत्रदिंद (*āyaneyī—sūtradiṃda*) the substitute *iya*; when a dual ending follows, by *sulug* of the case endings the substitute *ā*; the accent of the suffix, first-syllable acute.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> भूरिं॒ द्वे अच॑रंती॒ चरं॑तं प॒द्वंतं॒ गर्भ॑म॒पदी॑ दधाते ।
+> नित्यं॒ न सू॒नुं पि॒त्रोरु॒पस्थे॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> भूरिं । द्वे इति । आचरंती इति । चरंतं । पत्र्वंतं । गर्भं । अपदी इति । दधाते इति ।
+> नित्यं । न । सूनुं । पित्रोः । उपस्थे । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥२॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अचरंती अविचले द्वे एवैते द्यावापृथिव्यौ भूरिं बहुतरं चरंतं पद्वंतं
+> पादयुक्तं गर्भं गर्भवदाश्रितं कृत्स्नं प्राणिजातमपदी स्वयं पादरहिते दधाते
+> धारयतः । अनयोर्मध्यॆ खलु सर्वं जगत्क्षेमेण वर्तते । धारणे दृष्टांतः ।
+> पित्रोर्मातापित्रोरुपस्थ उत्संगे वर्तमानं नित्यं ध्रुवमात्मजं सूनुं न पुत्र-
+> मिव यथा स्नेहेन वर्धयंत् धारयंत् मातापितरौ तद्वत् । अथ प्रत्यक्षेणाह ।
+> हे द्यावा पृथिवी द्यावापृथिव्यौ । इतरेतरापेक्षया द्वित्वमुभयोः । नोऽस्मान-
+> भ्वान्महतो भयहेतोः पापाद्रक्षतं पालयतं । यद्वा । अभ्वादभ्वं महत् ।
+> आत्यर्थमित्यर्थः । अभ्येति महन्नाम ॥ द्वंद्वे कृतद्यावादेशस्य द्यावापृथिवीशब्दस्य
+> मध्यॆ रक्षतमिति पदप्रयोगश्चांदसः । आमंत्रितस्याविद्यमानत्वेन निघाताभावः ॥
+
+*Gist:* These two immovable ones, Heaven and Earth, themselves footless, hold the many footed and moving beings like an embryo, as parents hold a son on the lap; O Heaven and Earth, protect us from great, fear-causing sin.
+
+### Printed p. 61
+
+*Running head: [Ā ೨ Ā. ೫. Va. ೨] Ṛgveda-saṃhitā 61 (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पित्रोः (*pitroḥ*) — of the parents. उपस्थे (*upasthe*) — growing on the lap. नित्यं सूनुं न (*nityaṃ sūnuṃ na*) — as parents lovingly bear and cherish an own son. अचरंती (*acaraṃtī*) — themselves motionless अपदी (*apadī*) — and footless; द्वे (*dve*) — Heaven and Earth, both; भूरिं (*bhūriṃ*) — of many kinds पद्वंतं (*padvaṃtaṃ*) — possessing feet चरंतं (*caraṃtaṃ*) — moving गर्भं (*garbhaṃ*) — all living beings resting on these two as an embryo rests on its mother दधाते (*dadhāte*) — they hold. द्यावापृथिवी (*dyāvāpṛthivī*) — O Heaven and Earth नः (*naḥ*) — us अभ्वात् (*abhvāt*) — from sin that is great and a cause of fear रक्षतं (*rakṣataṃ*) — protect.
+
+*[As supplied, the label line of the next section reads भानुवार (*bhānuvāra*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Just as parents lovingly bear and cherish on their lap their own son who grows up there, so Heaven and Earth, themselves motionless and footless, hold all living beings of many kinds, possessing feet and moving, who rest on them as an embryo rests on its mother. O Heaven and Earth, protect us from sin that is great and a cause of fear.
+
+*[The label line of the printed English reads, as supplied, "English Trnslation".]*
+
+**Printed English translation**
+
+Footless and motionless, they sustain numerous moving and footed races, as a son is even (nursed) on the lap of his parents: defend us, Heaven and Earth, from great (danger).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the relation of Heaven and Earth to the remaining living beings, and the difference between the two groups (the supplied text has the garbled words "ಅವರ ಡಕ್ಕೂ" here, as supplied), is told. By the two epithets अचरंती (*acaraṃtī*) अपदी (*apadī*) the steadiness of Heaven and Earth is told, and by the epithets पद्वंतं (*padvaṃtaṃ*) चरंतं (*caraṃtaṃ*) the activity of going and so on of all living beings, or likewise their restlessness. Although by the words "of the parents", "on the lap", "ever", "son" a worldly simile common to all is shown, since the word गर्भं (*garbhaṃ*) that follows shows that all living beings are of the nature of an embryo, the word पित्रोः (*pitroḥ*) can also be taken to mean Heaven and Earth in the form of parents. As in the world parents hold their own son on their lap and cherish him, so Heaven and Earth, the parents of the universe, hold and cherish the living beings who are their own embryo-like offspring: this is the meaning.
+
 ---
 
-**Progress note:** Done through printed p. 58 (PDF 58). Sukta 185 Rik 1 Special Topics: Mahavrata derivations, Nirukta and Durga on the Rik, kavi (continues on next page)
+**Progress note:** Done through printed p. 61 (PDF 61). Rik 1 Special Topics end, grammar pages; Rik 2 complete (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics)
