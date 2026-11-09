@@ -4024,6 +4024,85 @@ As an example for the explanation of the word *arka* Yāska has quoted the ṛk 
 
 *Gist:* May Ahirbudhnya of the atmosphere give us happiness; may the swelling river Sindhu come; we praise Agni, son of the waters, whom the mind-swift showering horses carry.
 
+### Printed p. 142
+
+*Running head: [142 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186]. The window opens with the Pratipadārtha of Ṛk 5 of Sūkta 186, after the bhāṣya on p. 141.*
+
+*[As supplied, the label line of the next section reads । परिपदार्थ । (*| paripadārtha |*); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत (*uta*) — and. अहिर्बुध्न्यः (*ahirbudhnyaḥ*) — the deity Ahirbudhnya who moves in the atmosphere. नः (*naḥ*) — to us. मयः (*mayaḥ*) — happiness. कः (*kaḥ*) — may he produce. यं (*yaṃ*) — which Agni. मनोजुवः (*manojuvaḥ*) — swift as the mind. वृषणः (*vṛṣaṇaḥ*) — the showering clouds, or horses. वहंति (*vahaṃti*) — bear and bring. तं असां [?] नपातं (*taṃ asāṃ [?] napātaṃ*) — that Agni, the grandson of the waters (the supplied text has "ಅಸಾಂ" for *apām*; marked [?]). येन (*yena*) — with whose help. जुनाम (*junāma*) — we approach with praise: may that deity too make us happy. पिप्युषी इव (*pipyuṣī iva*) — she who ever nourishes us. सिंधुः (*siṃdhuḥ*) — the deity Sindhu. शिशुं न (*śiśuṃ na*) — like a cow going to satisfy her calf. वेति (*veti*) — may she come to us.
+
+*[As supplied, the label line of the next section reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+May the deity Ahirbudhnya, who moves in the atmosphere, make us happy. May the deity by whose help we approach with praise that Agni, the grandson of the waters, whom the clouds (or horses), swift as the mind and showering, bear and bring, also make us happy. And may the deity Sindhu, who ever nourishes us, like a cow going to satisfy her calf, come to us and satisfy us.
+
+**Printed English translation**
+
+May Ahirbudhnya grant us happiness: may Sindhu come, nourishing us as a (cow her) calf, whereby we may propitiate the grandson of the waters, (Agni), whom the clouds, swift as thought, convey.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अहिः बुध्न्यः (*ahiḥ budhnyaḥ*) — the word *ahi* is read among the thirty names of cloud ((नि. २-२१) (*(ni. 2-21)*)) and among the hundred and one names of water ((नि. २-२४) (*(ni. 2-24)*)). बुध्नमंतरिक्षं बद्धा अस्मिन्, धृता आप इति वा । बद्धा अस्मिन् धृताः प्राणा इति (*budhnamaṃtarikṣaṃ baddhā asmin, dhṛtā āpa iti vā | baddhā asmin dhṛtāḥ prāṇā iti*) ((नि १०-४४) (*(ni 10-44)*)): the word *budhna* means the atmosphere, because in this atmosphere water is bound or held in the form of cloud, so the atmosphere is called *budhna*; or the body in which the vital airs are held is also called *budh*: so Yāska has given the derivation. And:
+
+अहिर्बुध्न्यः । योऽहिः स बुध्न्यो बुध्ममंतरिक्षं [?] तन्निनासात् ॥ (*ahirbudhnyaḥ | yo 'hiḥ sa budhnyo budhmamaṃtarikṣaṃ [?] tannināsāt ‖*)
+(सि. १०-४४) (*(si. 10-44)*)
+
+(printed "ಸಿ." for "ನಿ.") in explaining the word *ahirbudhnya* Yāska says that the sense "atmosphere" which the word *budhna* has belongs also to the word *ahi*; the deity who dwells in that atmosphere is called Ahirbudhnya; and in support of this
+
+### Printed p. 143
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4. ] Ṛgveda-saṃhitā 143 (as supplied).*
+
+मा नोऽहिर्बुध्न्यो रिषे धान्मा यज्ञो अस्य स्रिधदृतायोः । (*mā no 'hirbudhnyo riṣe dhānmā yajño asya sridhadṛtāyoḥ |*)
+(ऋ) सं. ७-२४-१७ (*(ṛ) saṃ. 7-24-17*)
+(म. सं. ७-३४-१७) (*(ma. saṃ. 7-34-17)*)
+
+(the reference is printed twice, "ಋ) ಸಂ. ೭-೨೪-೧೭" and "ಮ. ಸಂ. ೭-೩೪-೧೭") having quoted this ṛk he has given the explanation. The word *ahirbudhnya* occurs in the Ṛgveda in the ṛks १-८६-५ ; २-३१-६ ; ५-४१-१६ ; ६-४९-१४ ; ६-५०-१४ ; ७-३५-१३ ; ७-३८-५ ; १०-६४-४ ; (*1-86-5 ; 2-31-6 ; 5-41-16 ; 6-49-14 ; 6-50-14 ; 7-35-13 ; 7-38-5 ; 10-64-4 ;*) १०-६६-११ ; १०-९२-१२ ; १०-९३-५ (*10-66-11 ; 10-92-12 ; 10-93-5*). In some places the name of the deity Aja Ekapād is also mentioned together with this deity.
+
+*Ahirbudhnya* may be called the serpent of the sea or of the nether world. This name occurs especially in the sūktas addressed to the Viśve Devāḥ. In the whole Ṛgveda this deity's name is used only twelve times: five times with Aja Ekapād, three times with Apāṃ Napāt, three times with the sea, and twice with Savitṛ. Not in company with other deities, the name occurs in only three ṛks (ऋ. सं. ५-४१-१६ ; ७-३४-१६, १७ (*ṛ. saṃ. 5-41-16 ; 7-34-16, 17*)). Generally the deity that comes with this deity is Aja Ekapād or Apāṃ Napāt. Aja Ekapād and Ahirbudhnya are generally set side by side. Ahirbudhnya is regarded in the Nirukta ((नि. ५-४) (*(ni. 5-4)*)) as one of the deities of the atmosphere. Since it is said in the ṛks ७-३४-१६ ; १०-९३-५ (*7-34-16 ; 10-93-5*) "I praise with song the serpent born in the water, sitting at the bottom of the stream of the atmosphere", it is indicated that this deity dwells in the mass of water of the sky. In ७-३४-१७ (*7-34-17*) there is a prayer that those who worship him should not be harmed; in ५-४१-१६ (*5-41-16*) too the same matter is touched upon. From these passages it appears that there is wickedness in his nature. The word *ahi* is generally used of Vṛtra; Vṛtra too in the same way covered the waters; the waters overcame him and flowed; or it is described that he lay in the water or at the bottom of the atmosphere. Therefore there is room for the idea that Ahirbudhnya and Ahivṛtra were one and the same. Though in time the idea came that Ahirbudhnya is a deity, his evil nature is subtly indicated. In the Taittirīya Saṃhitā ((तै. सं. ४-४-१०-३) (*(tai. saṃ. 4-4-10-3)*)) प्रोष्ठ पदानक्षत्रमज एकपाद्देवता प्रोष्ठ पदानक्षत्र (*proṣṭha padānakṣatramaja ekapāddevatā proṣṭha padānakṣatra*) महिर्बुध्नियो देवता (*mahirbudhniyo devatā*) — it is said that the deity Aja Ekapād is lord of the Pūrvabhādra nakṣatra and Ahirbudhnya the deity of the Uttarabhādra nakṣatra. In the Purāṇas Ahirbudhnya is well known as one of the names of Rudra.
+
+मयः (*mayaḥ*) — the word *mayaḥ* is read among the twenty names of happiness, such as *śimbātā* and *śatarā*, so *mayaḥ* means happiness ((नि. ३-९) (*(ni. 3-9)*)).
+
+शिशुं न षिप्युषी [?] (*śiśuṃ na ṣipyuṣī [?]*) — "as a cow nourishes her calf by giving milk": the comparison is given for the river Sindhu; that is, as a cow protects her calf by giving it milk, the river Sindhu protects the people
+
+### Printed p. 144
+
+*Running head: [144 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+by providing abundant water for agriculture, food and drink; this is the illustration indicated here. The special point here is that a cow nourishes with milk only one calf of hers, whereas the river Sindhu nourishes many people.
+
+सिंधुः (*siṃdhuḥ*) — the word *sindhu* is read among the names of rivers ((नि.२-२४) (*(ni.2-24)*)); *sindhu* means a flowing, streaming river (स्यंदनशीला (*syaṃdanaśīlā*)). In the Ṛgveda, in this sense,
+
+सुदेवो असि वरुण यस्य ते सप्त सिंधवः । (*sudevo asi varuṇa yasya te sapta siṃdhavaḥ |*)
+अनुक्षरंति काकुदं सूम्यं सुषिरामिव ॥ (*anukṣaraṃti kākudaṃ sūmyaṃ suṣirāmiva ‖*)
+(म. सं. ८-६९-१२) (*(ma. saṃ. 8-69-12)*)
+शमू षु समना गिरा पित्थाणां चॆ मन्मभिः । (*śamū ṣu samanā girā pitthāṇāṃ cè manmabhiḥ |*)
+नाभाकस्य प्रशस्तिभिर्य सिंधूनामुपोदये सप्तस्वसा स मध्यमो नभंता- (*nābhākasya praśastibhirya siṃdhūnāmupodaye saptasvasā sa madhyamo nabhaṃtā-*)
+मन्यके समे ॥ (*manyake same ‖*)
+(ऋ. सं. ८-४१-२) (*(ṛ. saṃ. 8-41-2)*)
+
+in these and similar ṛks the word *sindhu* means flowing rivers; and in the present ṛk beginning उत नो (*uta no*) and in
+
+अमंदान्तोमान भरे मनीषा सिंधावधि क्षियतो भाव्यस्य । (*amaṃdāntomāna bhare manīṣā siṃdhāvadhi kṣiyato bhāvyasya |*)
+(म. सं. १-१२६-१) (*(ma. saṃ. 1-126-1)*)
+
+and similar ṛks the river Sindhu; and in
+
+शोतु नः शोतुरातिः सुशोतुः सुक्षेत्रा सिंधुरद्भिः । (*śotu naḥ śoturātiḥ suśotuḥ sukṣetrā siṃdhuradbhiḥ |*)
+(म. सं. १-१२२-६) (*(ma. saṃ. 1-122-6)*)
+इंद्रो द्यावापृथिवी सिंधुरद्भिरादित्यैनोर्न अदितिः शर्म यंसत् । (*iṃdro dyāvāpṛthivī siṃdhuradbhirādityainorna aditiḥ śarma yaṃsat |*)
+(ऋ. सं. ८-५४-६) (*(ṛ. saṃ. 8-54-6)*)
+
+in these ṛks the bhāṣyakāra has explained it as a deity presiding over water.
+
+अपां नपातं (*apāṃ napātaṃ*) — अपां उदकानां नपातं नपातयितारं तासां नप्तारं वा (*apāṃ udakānāṃ napātaṃ napātayitāraṃ tāsāṃ naptāraṃ vā*) अग्निं । अध्य ओषधिवनस्पतयः ताभ्यः अग्निः इत्यपां नप्तृत्वमग्नेः (*agniṃ | adhya oṣadhivanaspatayaḥ tābhyaḥ agniḥ ityapāṃ naptṛtvamagneḥ*) [the supplied text has "ಅಧ್ಯ" for the bhāṣya's *adbhyaḥ*]: Sāyaṇa explains that since the herbs and trees are born from the waters and Agni is born from them, Agni is well known by the name *apāṃ napāt* (grandson of the waters).
+
+नपात् (*napāt*) — the word means both "son" and "grandson", and it is used in both senses; but the Nirukta-author says नपादित्यनंतरायाः प्रजाया नामधेयं (*napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ*) — that the meaning of the word is not the direct son but grandsons and so on ((नि. ८-५) (*(ni. 8-5)*)). And in explaining the word *tanūnapāt* he says अपः अत्र तन्न उच्यंते । तता अंतरिक्षे (*apaḥ atra tanna ucyaṃte | tatā aṃtarikṣe*) [the sentence breaks off at the end of p. 144 and continues in the next window].
+
 ---
 
-**Progress note:** Done through printed p. 141 (PDF 141). Done through printed p. 141 (Sukta 186 Rk 4 complete; Rk 5 Samhita, Pada and bhashya done)
+**Progress note:** Done through printed p. 144 (PDF 144). Done through printed p. 144 (Sukta 186 Rk 5 Pratipadartha through Special Topics: ahirbudhnya, sindhu, apam napat; ends mid-sentence)
