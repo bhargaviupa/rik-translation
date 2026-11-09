@@ -2743,6 +2743,98 @@ It need not be thought that the offence the ṛṣi mentions concerns the gods a
 
 *[The Pada of Ṛk 9 is incomplete at the end of p. 91 and continues on the next page.]*
 
+### Printed p. 92
+
+*Running head: [92 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185]. The window begins inside the Pada of Ṛk 9, continuing p. 91.*
+
+**Pada-pāṭha** (continued)
+
+> भूरि । चित् । आर्यः । सुदाःतराय । इषा । मदंतः । इषयेम । देवाः ॥ ९ ॥
+
+> *bhūri | cit | āryaḥ | sudāḥtarāya | iṣā | madaṃtaḥ | iṣayema | devāḥ ‖ 9 ‖*
+
+*[As supplied, the label line of the next section reads रायणभाष्यं (*rāyaṇabhāṣyaṃ*) (inside the Pada block); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उभा शंसा द्यावापृथिव्योरुभयोर्विषयावुभावपि शंसौ नर्या नरेभ्यो
+> हितावीदृश्यावुभयाश्रये स्तुती मामविष्टां । रक्षतां । यद्वा । द्यावापृथिव्यभि-
+> मानिदेवयोरेव शंसशब्देनाभिधानात्पल्लिंगता । तथोभे ऊती रक्षिके द्यावा-
+> पृथिव्यॆ मामवसा रक्षणेन सचेतां । यद्वा । प्राणिभ्यो हितकरावुभावैहिकामुष्मिक-
+> विषयौ शंसौ मामविष्टां । प्राप्नुतां । तथोभे अप्यूती तयोः संबंधिन्योरभि-
+> मानिदेवतयोरवसास्मत्तर्पणेन निमित्तेन सचेतां । हे देवा द्यावापृथिव्योरंत-
+> र्भूताः सर्वेऽपि देवाः अर्यः स्तोतारो वयं सुदास्तरायातिशयेन शोभन-
+> दातृत्वायेषान्नेन सोमलक्षणेन मदंतो मादयंतः संतो भूरि चित् । चित्
+> पूजायां । अभिपूजितं धनमिषयेम । इच्छेम । यद्वा । अर्य इति षष्ठा
+> रूपं । ईश्वराद्राजादेरपि सुदास्तरायेत्यर्थः । शिष्टं समानं ॥
+
+*Gist:* Both heaven-and-earth praises, beneficial to men, protect and aid me; may all the gods between them, we praising them with soma-food, wish for abundant wealth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नरा (*narā*) — beneficial to men. उभा शंसा (*ubhā śaṃsā*) — Heaven and Earth, who are the object of praises of both kinds, or these praises addressed to both. मां (*māṃ*) — me. अविष्टां (*aviṣṭāṃ*) — may (they) protect. उभे ऊती (*ubhe ūtī*) — these two protectors. मां (*māṃ*) — me. अवसा (*avasā*) — by the act of protection. सचेतां (*sacetāṃ*) — may they unite (with me). देवाः (*devāḥ*) — O all gods (included between Heaven and Earth). आर्यः (*āryaḥ*) — we the praisers. इषा (*iṣā*) — with food in the form of oblation. मदंतः (*madaṃtaḥ*) — satisfying you. सुदास्तराय (*sudāstarāya*) — for making excellent gifts. भूरिचित् (*bhūricit*) — very great wealth. इषयेम (*iṣayema*) — we desire.
+
+**भावार्थ (Bhāvārtha)**
+
+May Heaven and Earth, who do good to men and are fit objects of praises of both kinds, protect me. May these two protectors join me with the act of protection. O all gods included between Heaven and Earth, we the praisers, satisfying you with food in the form of oblation, desire abundant wealth for the purpose of becoming excellent givers.
+
+**Printed English translation**
+
+May both these, accepting praise, and friendly to man, be favourable to me : may they both be associated as guardians for my protection: deities, we your adorers, propitiating you with (sacrificial) food, desire ample (wealth), for the sake of making liberal donations.
+
+*[The printed English runs over the page break between p. 92 and p. 93 after the word "deities,"; it is given here as one paragraph.]*
+
+### Printed p. 93
+
+*Running head: [Aṣṭaka 2. Ā. 3. Varga 3.] Ṛgveda-saṃhitā 93 (the print has "ಅ. ೩" for the second abbreviation, as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+चित्—ई (*cit—ī*) — this word, as Yāska says, चिदित्येषोs नेककर्मा (*cidityeṣos nekakarmā*) ("*cit* is a word of many kinds of action"), is used in many senses. In आचार्यश्चिदिदं ब्रूयादिति पूजायां आचार्यने (*ācāryaścididaṃ brūyāditi pūjāyāṃ ācāryane*) ("let the teacher say this", sense of honour) the word shows reverence; in दधिचिदित्युपमार्थे (*dadhicidityupamārthe*) (नि. १-४) (*(ni. 1-4)*) ("*cit* in the sense of comparison": "like curds") it shows comparison. In the present ṛk the sense of honour is meant.
+
+आर्यः—ईरयिता (*āryaḥ—īrayitā*) — आर्यः—ईरयिता (*āryaḥ—īrayitā*) ... स्तुतेरीश्वरो वा । (*stuterīśvaro vā |*) ("one who urges praise, or the lord of the composition of praise"): this meaning is explained. In the present ṛk it means "we, who are praising". The Nirukta-author has read this word among the names of the lord ((नि. ३-११) (*(ni. 3-11)*)), and the word is used in the sense of "lord" in
+
+प्रतत्ते अद्य शिविविष्ट नामार्यः शंसामि वयुनानि विद्वान् । (*pratatte adya śiviviṣṭa nāmāryaḥ śaṃsāmi vayunāni vidvān |*)
+तं त्वा गृणामि तवसमतव्यान् क्षयेतमस्य रजसः पराके ॥ (*taṃ tvā gṛṇāmi tavasamatavyān kṣayetamasya rajasaḥ parāke ‖*)
+
+((पु. सं. ७-१००-५) (*(pu. saṃ. 7-100-5)*), as printed; the book prints "ಪು. ಸಂ.")
+
+Having quoted this ṛk, he explains: अर्योऽहमीश्वरः स्तोमानामर्यस्त्वमसीति वा (नि. ५-९) (*aryo 'hamīśvaraḥ stomānāmaryastvamasīti vā (ni. 5-9)*) ("I am the lord, *arya*; or, you are the lord of the praises"). Here the vṛttikāra explains: यस्मादर्योऽहमस्मि ईश्वरः स्तुतीनामुदीरणे यष्मद्गुणाभिज्ञः अथवा अर्यस्त्वमसि आर्य ईश्वरः मदनुग्रहाय समर्थः । (*yasmādaryo 'hamasmi īśvaraḥ stutīnāmudīraṇe yaṣmadguṇābhijñaḥ athavā aryastvamasi ārya īśvaraḥ madanugrahāya samarthaḥ |*), that is, "since I, being the lord in uttering praises, know your qualities, [*arya* means] I am able to know your qualities in order to praise; or *arya* is you, the lord, able to bestow favour on me". The word is used in the sense "venerable" in many places. For example
+
+पृथू रथो दक्षिणाया अयोज्यैनं देवासो अमृतासो अस्तुः । (*pṛthū ratho dakṣiṇāyā ayojyainaṃ devāso amṛtāso astuḥ |*)
+कृष्णादुदस्थादर्या ३ विहायाश्चि कित्संती मानुषाय क्षयाय । (*kṛṣṇādudasthādaryā 3 vihāyāści kitsaṃtī mānuṣāya kṣayāya |*)
+
+((म. सं. १-१२३-२) (*(ma. saṃ. 1-123-2)*), as printed; the book prints "ಮ. ಸಂ.")
+
+in this ṛk the adjective कृष्णादुदस्थादर्या (*kṛṣṇādudasthādaryā*) (printed with a figure ೩ after it) occurs in describing the qualities of the goddess Uṣas, understood from the context. Sāyaṇa has explained this word as "venerable". And its use in the sense "lord of all" is the more frequent.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+उभा—सुपां (*ubhā—supāṃ*) — by सुलुक्—(पा. सू ७-१-३९) (*suluk—(pā. sū 7-1-39)*) (Pā. Sū. 7-1-39, printed "ಸೂ" without the full stop) the substitute *ā* for the dual ending; likewise in the following words.
+
+### Printed p. 94
+
+*Running head: [94 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 185].*
+
+अविष्टाम्—अव (*aviṣṭām—ava*) (root रक्षणे (*rakṣaṇe*), "to protect"): the third-person dual of the imperative; by —तस् थस् थमिपां- (*—tas thas thamipāṃ-*) (पा. सू. ३-४-१०१) (*(pā. sū. 3-4-101)*) (Pā. Sū. 3-4-101) the substitute *tām*; by the force of the word *bahulam* in सिब्बहुलं लेटि (पा सू. ३-१-३४) (*sibbahulaṃ leṭi (pā sū. 3-1-34)*) (Pā. Sū. 3-1-34) *sip* also in the imperative; by अर्धधातुकस्येड्वलादेः (पा. सू. ७-२-३३६) (*ardhadhātukasyeḍvalādeḥ (pā. sū. 7-2-336)*) (Pā. Sū. 7-2-336) the augment *iṭ* for it; because it follows a non-verb the *nighāta* accent arises. सचेताम्—षच (*sacetām—ṣaca*) (root सचेताम्—षच (*sacetām—ṣaca*) "to join"): by धात्वादेः षः सः (पा. सू. ६-१-६४) (*dhātvādeḥ ṣaḥ saḥ (pā. sū. 6-1-64)*) (Pā. Sū. 6-1-64) *s* for the initial; imperative, second-person dual form; the verb-*nighāta* arises. आर्यः— (*āryaḥ—*) (root ऋ गत्. धातु. (*ṛ gat. dhātu.*), "to go"): by आर्यः स्वामिवैश्ययोः अर्यस्यस्वाम्याख्याचेत् (*āryaḥ svāmivaiśyayoḥ aryasyasvāmyākhyācet*) ... (फि. सू. १७) (*(phi. sū. 17)*) (Phiṭ-sūtra 17, as printed "ಫಿ.") the last-syllable acute. सुदास्तराय (*sudāstarāya*) ("one who gives well" ददातीति सुदाः. (*dadātīti sudāḥ.*)): root डुदाञ् दाने धातु. (*ḍudāñ dāne dhātu.*), the suffix *asun*; the first-member keeps its accent (*kṛd-uttarapada-prakṛti-svara*); on it the suffix *tarap* in the sense of excess; being marked *p* it is unaccented. मदंतः—मद (*madaṃtaḥ—mada*) (root तृप्तियोगे. धातु. (*tṛptiyoge. dhātu.*), "in the sense of satisfaction"): the causal sense is implied (*antarbhāvita-ṇyartha*); the substitute *śatṛ* for the present suffix; by the sūtra तास्यनुदात्तेत्—सूत्रदिंद (*tāsyanudāttet—sūtradiṃda*) the present-tense *sārvadhātuka* suffix is unaccented, so the accent of the root remains. इषयेम— (*iṣayema—*) (root इषु इच्छायाम्. (*iṣu icchāyām.*), "to wish"): the optative after the causal; first person plural; because it follows a non-verb the verb-*nighāta* arises.
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+*[In the supplied text this Saṃhitā was a picture; it was viewed and agrees with the machine text below, which has been used with the lines joined.]*
+
+> ऋ॒तं दि॒वे तद॑वोचं पृथि॒व्या अ॑भिश्रा॒वाय॑ प्रथ॒मं सु॑मे॒धाः ।
+> पा॒ताम॑व॒द्याद्दु॑रि॒ताद॒भीके॑ पि॒ता मा॒ता च॑ रक्षता॒मवो॑भिः ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> ऋतं । दिवे । तत् । अवोचं । पथिव्यै । अभिश्रावाय । प्रथमं । सुमेधाः ।
+
+> *ṛtaṃ | dive | tat | avocaṃ | pathivyai | abhiśrāvāya | prathamaṃ | sumedhāḥ |*
+
+*[The Pada of Ṛk 10 is incomplete at the end of p. 94 and continues on the next page; the supplied text prints पथिव्यै (*pathivyai*) (without *ṛ*) for *pṛthivyai*, kept as supplied.]*
+
 ---
 
-**Progress note:** Done through printed p. 91 (PDF 91). Done through printed p. 91 (Sukta 185 Rk 8 complete; Rk 9 Samhita done, Pada incomplete at end of p. 91)
+**Progress note:** Done through printed p. 94 (PDF 94). Done through printed p. 94 (Sukta 185 Rk 9 complete; Rk 10 Samhita done, Pada incomplete at end of p. 94)
