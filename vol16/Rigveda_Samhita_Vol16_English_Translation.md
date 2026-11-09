@@ -1085,6 +1085,108 @@ The various flames of Agni, or the rays described in this mantra, spreading ever
 
 वृषायंते (*vṛṣāyaṃte*): "वृषा इव आचरंति (*vṛṣā iva ācaraṃti*)"; from the sūtra "उपमानादाचारे (*upamānādācāre*)" with उपमानात् (*upamānāt*) continuing, the suffix क्यज् (*kyaj*) [as supplied] comes after the word वृष (*vṛṣa*) by "कर्तुः क्यज् सलोपश्च (*kartuḥ kyaj salopaśca*)" (Pā. Sū. 3-1-11); lengthening of the preceding vowel by "अकृत् सार्वधातुकयोर्दिर्घः (*akṛt sārvadhātukayordirghaḥ*)" (Pā. Sū. 7-4-25); by "सनाद्यंताधातवः (*sanādyaṃtādhātavaḥ*)" the form वृषाय (*vṛṣāya*) gets the name dhātu; the laṭ third-person plural form stands at the beginning of a pāda, so the nighāta accent does not arise; the root accent remains.
 
+### Printed p. 41
+
+*[Running head, p. 41: Aṣṭaka 3, Adhyāya 1, Varga 2, Ṛgvedasaṃhitā 41]*
+
+Grammar page continued, noted briefly (the page is prose, no Ṛk). Words treated: महे (*mahe*) (from महते; the loss of the final letters is Vedic; the case-ending gets the udātta by the vārttika on बृहन्महतोः); पूर्वीः (*pūrvīḥ*) (root पृ, suffix कु by Uṇ. Sū. 1-23, guṇa blocked, उत्व by Pā. Sū. 7-1-102, feminine ङीष् by Pā. Sū. 4-1-44, lengthening by Pā. Sū. 8-2-77, final-udātta by the suffix accent); रश्मयः (*raśmayaḥ*) (root अशू व्याप्तौ, suffix मि with रश्-substitution, Uṇ. Sū. (4-486) [as supplied]); सुयामा: (*suyāmā:*) (यमनं यामः, suffix घञ्, vṛddhi by Pā. Sū. 7-2-116, bahuvrīhi accent by Pā. Sū. 6-2-172); देव (*deva*) (not at the beginning of a pāda, so the vocative nighāta does not arise; initial-udātta by Pā. Sū. 6-1-198); होतः (*hotaḥ*) (root ह्वेञ्, suffix तृन्, saṃprasāraṇa, guṇa; nighāta); मंद्रतरः (*maṃdrataraḥ*) (root मदि, suffix रक् by Uṇ. Sū. 2-186, नुम् by Pā. Sū. 7-1-58, तरप्); वक्षि (*vakṣi*) (root वह, laṭ 2nd sg. सिप्, loss of शप्, ढ-, क-, ष-changes). A stray "6" at the foot of the page is a sheet mark in the supplied text.
+
+### Printed p. 42
+
+*[Running head, p. 42: 42 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7]]*
+
+The grammar note of Ṛk 9 ends at the top of the page (ढ→क, ष-substitution; the form वक्षि (*vakṣi*) with the tiṅanta nighāta accent).
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> पृ॒क्षप्र॑यजो द्रविणः सु॒वाचः॑ सुके॒तव॑ उ॒षसो॑ रे॒वदू॑षुः ।
+> उ॒तो चि॑दग्ने महि॒ना पृ॑थि॒व्याः कृ॒तं चि॒देनः॒ सं म॒हे द॑शस्य ॥
+> ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> पृक्षप्रयुजः । द्रविणः । सुवाचः सुकेतवः । उषसः । रेवत् । ऊषुः ।
+> उतो इति । चित् । अग्ने । महिना । पृथिव्याः । कृतं । चित् । एनः । सं । महे ।
+> दशस्य ॥ १० ॥
+
+> *pṛkṣaprayujaḥ | draviṇaḥ | suvācaḥ suketavaḥ | uṣasaḥ | revat | ūṣuḥ |*
+> *uto iti | cit | agne | mahinā | pṛthivyāḥ | kṛtaṃ | cit | enaḥ | saṃ | mahe |*
+> *daśasya ‖ 10 ‖*
+
+(The Pada reads पृक्षप्रयुजः (*pṛkṣaprayujaḥ*) where the Saṃhitā and bhāṣya read पृक्षप्रयजः (*pṛkṣaprayajaḥ*); all as supplied.)
+
+**॥ सायणभाष्यम् ॥**
+
+> द्रविणः । द्रवति सततं गच्छतीति द्रविणःशब्देनाग्निरभिधीयते ! द्रविणः सतत-
+> गमनस्वभाव हे अग्ने पृक्षप्रयजः पृक्षाणि हविर्लक्षणान्यन्नानि प्रकर्षेण यष्टुं
+> प्रक्रम्यते यासूषःसु ताः पृक्षप्रयजः सुवाचः प्रातरनुवाकादिशोभना वाचो
+> वासां ताः । सुकेतवो वयसां मनुष्याणां च शब्दैः सुप्रज्ञानाः । एवंविधा
+> उषसो रेवत् आस्माकं धनयुक्तं यथा भवति तथोषुः व्युच्छंति । उतो चित्
+> अपि च हे अग्ने पृथिव्या विस्तीर्णाया ज्वालाया महिना महत्वेन कृतं संपादितं
+> चित् यत्किंचिदेनः प्राण्यसघातादिलक्षणं पापं महे महते यजमानाय
+> मह्यं मदर्थ० संदशस्य । संक्षपय ॥ पृक्षप्रयजः अन्येभ्योऽपि दृश्यंत
+> इति कर्मणि विच् दृशिग्रहणादधिकृतो भवतीत्युक्तं । बहुप्रीहित्वात्तूर्व-
+> पदप्रकृतिस्वरत्वं । द्रविणः । द्रु गतावित्यस्मात् द्रुदक्षिभ्यामिनन्नि तीनप्रत्ययः । गुणा-
+> वादेशौ । संबुद्धौ सोर्लोपाभावश्चांदसः : आमंत्रितप्पानि घातः । सुवाचः ।
+> नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं । रेवत् रयिर्धनमस्मिन्विद्यत इति मतुप् ।
+> द्रस्वनुड्व्यामिति मतुबुदात्तः । छंदसीर इति वत्वं । रयेर्मत्बहुलं छंदसीति
+> संप्रसारणं । परपूर्वत्वे गुणः । ऊषुः । उष दाहे । दाहार्थोऽप्ययं धातु-
+> रत्र प्रकाशने वर्तते । छंदसि लुज्जति वर्तमाने लिट् । उसि रूपं । निघातः ।
+> पृथिव्याः । प्रथ प्रख्यान इत्यस्मात्पथे: शिवन् संप्रसारणं चेति षिवन्प्रत्ययः । तत्स-
+
+> *draviṇaḥ | dravati satataṃ gacchatīti draviṇaḥśabdenāgnirabhidhīyate ! draviṇaḥ satata-*
+> *gamanasvabhāva he agne pṛkṣaprayajaḥ pṛkṣāṇi havirlakṣaṇānyannāni prakarṣeṇa yaṣṭuṃ*
+> *prakramyate yāsūṣaḥsu tāḥ pṛkṣaprayajaḥ suvācaḥ prātaranuvākādiśobhanā vāco*
+> *vāsāṃ tāḥ | suketavo vayasāṃ manuṣyāṇāṃ ca śabdaiḥ suprajñānāḥ | evaṃvidhā*
+> *uṣaso revat āsmākaṃ dhanayuktaṃ yathā bhavati tathoṣuḥ vyucchaṃti | uto cit*
+> *api ca he agne pṛthivyā vistīrṇāyā jvālāyā mahinā mahatvena kṛtaṃ saṃpāditaṃ*
+> *cit yatkiṃcidenaḥ prāṇyasaghātādilakṣaṇaṃ pāpaṃ mahe mahate yajamānāya*
+> *mahyaṃ madartha0 saṃdaśasya | saṃkṣapaya ‖ pṛkṣaprayajaḥ anyebhyo 'pi dṛśyaṃta*
+> *iti karmaṇi vic dṛśigrahaṇādadhikṛto bhavatītyuktaṃ | bahuprīhitvāttūrva-*
+> *padaprakṛtisvaratvaṃ | draviṇaḥ | dru gatāvityasmāt drudakṣibhyāminanni tīnapratyayaḥ | guṇā-*
+> *vādeśau | saṃbuddhau sorlopābhāvaścāṃdasaḥ : āmaṃtritappāni ghātaḥ | suvācaḥ |*
+> *nañsubhyāmityuttarapadāṃtodāttatvaṃ | revat rayirdhanamasminvidyata iti matup |*
+> *drasvanuḍvyāmiti matubudāttaḥ | chaṃdasīra iti vatvaṃ | rayermatbahulaṃ chaṃdasīti*
+> *saṃprasāraṇaṃ | parapūrvatve guṇaḥ | ūṣuḥ | uṣa dāhe | dāhārtho 'pyayaṃ dhātu-*
+> *ratra prakāśane vartate | chaṃdasi lujjati vartamāne liṭ | usi rūpaṃ | nighātaḥ |*
+> *pṛthivyāḥ | pratha prakhyāna ityasmātpathe: śivan saṃprasāraṇaṃ ceti ṣivanpratyayaḥ | tatsa-*
+
+*Gist: Agni, ever-moving, is addressed; the dawns, with abundant oblation-foods, fair speech (morning recitations) and clear signs by the sounds of birds and men, are to dawn for us bringing wealth; and he is asked to destroy whatever sin, such as injury to living creatures, has been committed, by the greatness of his wide flame, for the worshipper. The grammatical tail (दविणः, सुवाचः, रेवत्, ऊषुः, पृथिव्याः) is transcribed, not explained; the bhāṣya continues on the next page.*
+
+### Printed p. 43
+
+*[Running head, p. 43: Aṣṭaka 3, Adhyāya 1, Varga 2, Ṛgvedasaṃhitā 43]*
+
+**Sāyaṇa-bhāṣya (continued)**
+
+> न्नियोगेन धातोः संप्रसारणं । षिद्गौरादिभ्यश्चति जीष् । प्रत्ययस्वरेणांतो-
+> दात्तः । उदात्तयणो हल्पूर्वादिति विभक्तेरुदात्तत्वं । दशस्य । निघातः ॥
+
+> *nniyogena dhātoḥ saṃprasāraṇaṃ | ṣidgaurādibhyaścati jīṣ | pratyayasvareṇāṃto-*
+> *dāttaḥ | udāttayaṇo halpūrvāditi vibhakterudāttatvaṃ | daśasya | nighātaḥ ‖*
+
+*Note: the grammatical tail ends with पृथिव्याः (*pṛthivyāḥ*) and दशस्य (*daśasya*); transcribed, not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O) ever-moving one (द्रविणः (*draviṇaḥ*)), O Agni; the dawns (उषसः (*uṣasaḥ*)) that have much oblation-food and the like offered in the fire (प्रैक्षप्रयजः (*praikṣaprayajaḥ*) [sic, as supplied]); that are possessed of fair speech such as the morning recitation (सुवाचः (*suvācaḥ*)); that are indicative by words such as the "prakṣa" cries (सुकेतवः (*suketavaḥ*)); rise (ऊषुः (*ūṣuḥ*)) endowed with wealth (that is to be given to us) (रेवत् (*revat*)). And (उतो चित् (*uto cit*)), O Agni (अग्ने (*agne*)), for me, the respected (sacrificer) (महे (*mahe*)), whatever sin (चित् एनः (*cit enaḥ*)), such as injury to living creatures, that has been accumulated (कृतं (*kṛtaṃ*)), by the greatness (महिना (*mahinā*)) of your exceedingly wide flame (पृथिव्याः (*pṛthivyāḥ*)), destroy completely (सं दशस्य (*saṃ daśasya*)).
+
+**भावार्थ (Bhāvārtha)**
+
+O ever-moving Agni, may the dawns, endowed with the morning recitations and other praises, with oblations and the like offered in the fire, and with the awakening "prakṣa" cries and the like, rise for us as givers of wealth and the rest; and, O Agni, whatever sin, such as injury to living creatures, has been committed by us, destroy it for me, the respected one, by your greatly extended flame.
+
+**Printed English translation of the Ṛk**
+
+Ever-moving (Agni) may the mornings rise for us, abounding with oblatio ns [sic], with pious prayers, and with auspicious signs, and conferring wealth ; and with the might of your (diffusive flame), consume all sin on behalf of your respectable (worshipper).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**द्रविणः (*draviṇaḥ*)** — "द्रवति सततं गच्छति इति द्रविणशब्देन अग्निरभिधीयते (*dravati satataṃ gacchati iti draviṇaśabdena agnirabhidhīyate*)". The word द्रविण (*draviṇa*), formed from the root द्रु (*dru*) meaning "to go", means "one who is always moving"; so the meaning given here is that Agni has the nature of ever moving about. The Nirukta-writers read the word द्रविण (*draviṇa*) among the names of strength and also among the names of wealth (Ni. 3-9).
+
+**पृक्षप्रयजः (*pṛkṣaprayajaḥ*)** — "पृक्षाणि हविर्लक्षणान्नानि प्रकर्षेण यष्टुं प्रक्रम्यते यासु उषस्सु ताः (*pṛkṣāṇi havirlakṣaṇānnāni prakarṣeṇa yaṣṭuṃ prakramyate yāsu uṣassu tāḥ*)". The Nirukta-writers read the word पृक्ष (*pṛkṣa*) among the names of food (Ni. 3-9). Sāyaṇa explains पृक्ष (*pṛkṣa*) as food in the form of oblation, and explains that the time at which this oblation-food is offered abundantly (excessively) in the fire is the time of dawn.
+
 ---
 
-**Progress note:** Done through printed p. 40 (PDF 40). Sukta 7 Rk 9 complete (Pratipadartha, Bhavartha, Special Topics, grammar); p. 40 ends Varga page
+**Progress note:** Done through printed p. 43 (PDF 43). Sukta 7 Rk 9 grammar tail ends p. 41-42; Rk 10 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, Special Topics begun; p. 43 ends in Special Topics after Prikshaprayajah
