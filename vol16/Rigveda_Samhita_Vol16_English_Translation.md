@@ -319,6 +319,121 @@ The sky-traversing steeds of the showerer (of benefits) are the milch cows (of A
 
 (Gloss mine and tentative: the two bay horses are Indra's; the red one is Agni's; the green ones are the Sun's; the two asses belong to the Aśvins; the goats to Pūṣan; the spotted ones to the Maruts; the ruddy cows to Uṣas; the dark ones to Savitṛ; the many-formed ones to Bṛhaspati; the नियुत् (*niyut*) team to Vāyu. The passage is quoted as supplied, with the विश्व-रूपा (*viśva-rūpā*) split across a line end; the Special Topics of Ṛk 2 continue on the next page.)
 
+### Printed p. 11
+
+*[Running head, p. 11: Ṛgvedasaṃhitā 11 [3. A. 1. Va. 1.]]*
+
+(Special Topics of Ṛk 2, continued from p. 10.) Since the vehicles of the respective deities are thus indicated, the vehicle of Agni is known to be the red one (रोहित (*rohita*)). Sāyaṇa has explained it here as रोहिताः अश्वाः (*rohitāḥ aśvāḥ*) ("the red horses").
+
+धेनवः (*dhenavaḥ*)— अग्नेः प्रिणयित्र्यः (*agneḥ priṇayitryaḥ*) (delighters of Agni). The word धेनु (*dhenu*) is read among the twenty-eight names of speech (Ni. 2-23; the supplied text prints the abbreviation as "ಸಿ", evidently Ni., as printed). Just as words give delight in the world, the red horses, the vehicles of Agni, give delight to Agni; thus the meaning is explained (resorting to a figurative usage).
+
+ऋतस्य (*ṛtasya*)—उदकस्य (*udakasya*). The word ऋत (*ṛta*) is read among the names of water (Ni. 2-24) and also in the sense of a particular time. Here the meaning is explained as water.
+
+क्षेमयंतं (*kṣemayaṃtaṃ*) — क्षेमं आवासमिच्छंतं (*kṣemaṃ āvāsamicchaṃtaṃ*). The meaning is that Agni, imagining (and pervading the water to make) a pleasant dwelling-place in the rivers that bear sweet (tasty) waters, abides there. By this both the Aurva fire (the submarine fire) and the lightning-fire that is in the midst of the clouds are made known.
+
+गौः (*gauḥ*)—माध्यमिका वाक् (*mādhyamikā vāk*) (the speech of the firmament). The word गो (*go*) is stated among the twenty-one names of the earth (Ni. 2-5). The Nirukta sentence गौरिति पृथिव्या नामधेयं (*gauriti pṛthivyā nāmadheyaṃ*) explains this meaning. अथापि पशुनामेह भवत्वेतस्मादेव (*athāpi paśunāmeha bhavatvetasmādeva*): since the word गौः (*gauḥ*) is derived from a root (given in the supplied text as गाज् गत् (*gāj gat*)), it conveys the meaning "animal"; the meaning is cows.
+
+In the Ṛk
+
+सुपर्णं वस्ते मृगो अस्या दंतो गोभिस्सन्नद्धा पतति प्रसूता यत्रा नरः सं च वि च द्रवंति तत्रास्मभ्यमिषवः शर्म यंसन् (*suparṇaṃ vaste mṛgo asyā daṃto gobhissannaddhā patati prasūtā yatrā naraḥ saṃ ca vi ca dravaṃti tatrāsmabhyamiṣavaḥ śarma yaṃsan*) (Ṛ. Saṃ. 6-75-11)
+
+it is described that the word गो (*go*) means sinew and phlegm.
+
+In the Ṛk
+
+वृक्षेवृक्षे नियता मीमयद्दौस्ततौ वयः प्र पर्ता पूरुषादः । अथेदं विश्वं भुवनं भयात इंद्राय सुन्वदृषये च शिक्षत् (*vṛkṣevṛkṣe niyatā mīmayaddaustatau vayaḥ pra partā pūruṣādaḥ | athedaṃ viśvaṃ bhuvanaṃ bhayāta iṃdrāya sunvadṛṣaye ca śikṣat*) (the supplied text prints the abbreviation as "ಮಿ. ಸಂ-", evidently Ṛ. Saṃ., as printed: 10-27-22)
+
+the meaning "bowstring" (ज्या (*jyā*)) is given for the word गो (*go*).
+
+In
+
+उतादः परुषे गवि सूरश्चक्रं हिरण्ययं । नैरयद्रथीतमः (*utādaḥ paruṣe gavi sūraścakraṃ hiraṇyayaṃ | nairayadrathītamaḥ*) (Ṛ. Saṃ. 6-56-3)
+
+since the meaning is given as आदित्योऽपि गौरुच्यते (*ādityo 'pi gaurucyate*) ("the sun too is called gauḥ"), the authors of the Nirukta say that the sun also is a meaning of the word गो (*go*).
+
+In
+
+ता नां वास्तून्युष्मसि गमध्यै यत्र गावो भूरिशृंगा अयासः । आत्राह तदुरुगायस्य वृष्टः परमं पदमव भाति भूरि (*tā nāṃ vāstūnyuṣmasi gamadhyai yatra gāvo bhūriśṛṃgā ayāsaḥ | ātrāha tadurugāyasya vṛṣṭaḥ paramaṃ padamava bhāti bhūri*) (Ṛ. Saṃ. 1-154-6)
+
+the meaning "ray" is given for the word गो (*go*) with the words सर्वॆऽपि रश्मयः गाव उच्यंते (*sarvè 'pi raśmayaḥ gāva ucyaṃte*) ("all the rays are called gāvaḥ"). Since Durgācārya has commented सुषुम्मो रश्मिरेक एव गौः इति उच्यते (*suṣummo raśmireka eva gauḥ iti ucyate*) ("the one ray Suṣumna alone is called gauḥ"; सुषुम्मो (*suṣummo*) as supplied), the ray of the Suṣumnā (nāḍī) etc. is also a meaning of the word गो (*go*). The word गो (*go*) has the earth, cows,
+
+### Printed p. 12
+
+*[Running head, p. 12: 12 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.]]*
+
+sinew, phlegm, Maurvī (bowstring), the sun, rays, and the ray of the Suṣumnā nāḍī, among many meanings. Sāyaṇa, having commented
+
+गोशब्दो माध्यमिकवाग्वाची माध्यमिकां वाचमिति नैरुक्ता इत्यभिधानात् । एका गौः काचिदुक्तविधा वाक् वर्तनिं ज्वालाः प्रवर्तयंतं त्वां परिचरिति सेवते (*gośabdo mādhyamikavāgvācī mādhyamikāṃ vācamiti nairuktā ityabhidhānāt | ekā gauḥ kāciduktavidhā vāk vartaniṃ jvālāḥ pravartayaṃtaṃ tvāṃ paricariti sevate*)
+
+has made the meaning that the speech of the firmament serves Agni. In regard to the utterance of speech by living beings, the Vaiśvānara fire, impelled by the vital breath (prāṇa-vāyu), is the producer of the manifestation of speech: the meaning is thus described in an involved manner.
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+Words treated: दिवक्षसः (*divakṣasaḥ*) (root अक्षू व्याप्तौ (*akṣū vyāptau*) or वक्ष रोषे (*vakṣa roṣe*) used in the sense of pervading; असुन् (*asun*) ending by सर्वधातुभ्य असुन् (*sarvadhātubhya asun*); loss of व् (*v*) by लोपोव्योर्वलि (*lopovyorvali*), Pā. 1-66 (printed with a Latin 6 before the Kannada digits, so the leading part is unreadable: [sic] as supplied); the accent of the compound by कृदुत्तरपदप्रकृतिस्वर (*kṛduttarapadaprakṛtisvara*)), धेनवः (*dhenavaḥ*) (root धेट् पाने (*dheṭ pāne*); नु (*nu*) ending by धेट् इच्च (*dheṭ icca*), Uṇ. 3-314 as printed; guṇa; final accent by the ending), वृष्ण: (*vṛṣṇa:*) (root वृष सेचने (*vṛṣa secane*); कनिन् (*kanin*) ending, Uṇ. 1-1-155 as printed; no guṇa because it is कित् (*kit*); initial accent by Pā. 6-1-197), अश्वा (*aśvā*) (root अशू व्याप्तौ (*aśū vyāptau*); क्वन् (*kvan*) ending, Uṇ. 1-149), तस्थौ (*tasthau*) (root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); लिट् (*liṭ*) in the present sense; णल् (*ṇal*) replaced by औ (*au*) by Pā. 7-1-34; reduplication; all-unaccented because it follows a non-finite form), मधुमत् (*madhumat*) (root मन ज्ञाने (*mana jñāne*); उ (*u*) ending, Uṇ. 1.18 as printed; न (*na*) becomes ध (*dha*); मतुप् (*matup*) by Pā. 5-2-94).
+
+### Printed p. 13
+
+*[Running head, p. 13: [3. A. 1. Va. 1.] Ṛgvedasaṃhitā 13]*
+
+Grammar page continued, noted briefly: the accent of मधुमत् (*madhumat*) (initial accent through नित् (*nit*) being continued from the previous sūtra; मतुप् (*matup*) is पित् (*pit*), hence unaccented); वहंती: (*vahaṃtī:*) (root वह प्रापणे (*vaha prāpaṇe*); जीप् (*jīp*) by Pā. 4-1-6; root accent remains); त्वा (*tvā*) (युष्मद् (*yuṣmad*), replacement त्वा (*tvā*) by Pā. 8-1-23 as printed); सदसि (*sadasi*) (root षद्ल्यविशरणगत्यवसादनेषु (*ṣadlyaviśaraṇagatyavasādaneṣu*), असुन् (*asun*), initial accent, locative singular); क्षेमयंतं (*kṣemayaṃtaṃ*) (root क्षि निवासगत्योः (*kṣi nivāsagatyoḥ*); मन् (*man*) ending, Uṇ. 1-37 as printed; क्यच् (*kyac*) by Pā. 3-1-8; prohibition of ī and lengthening by Pā. 7-4-35; शतृ (*śatṛ*); शप् (*śap*) unaccented by Pā. 3-1-4; single-substitution rule Pā. 8-2-5; नुम् (*num*) augment; svarita by Pā. 8-4-66; क्षेमय (*kṣemaya*) takes the name of a root by सनाद्यंता धातवः (*sanādyaṃtā dhātavaḥ*), Pā. 3-1-32; final accent by चितः (*citaḥ*), Pā. 6-1-163); एका (*ekā*) (root इण् गतौ (*iṇ gatau*), कन् (*kan*), Uṇ. 3-323 as printed; guṇa; feminine टाप् (*ṭāp*); initial accent); चरति (*carati*) (root चर गतिभक्षणयोः (*cara gatibhakṣaṇayoḥ*), लट् (*laṭ*) third person singular; निघात (*nighāta*) accent of a finite verb). The grammar continues on the next page.
+
+### Printed p. 14
+
+*[Running head, p. 14: 14 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.] The supplied text merges this page's head into p. 13 with no page marker; marker and head repaired by structure only, and this page is included in this window.]*
+
+Grammar page concluded, noted briefly: वर्तनिम् (*vartanim*) (root वृतु वर्तने (*vṛtu vartane*), with the causative sense contained in it; अनि (*ani*) ending by वृतेश्च (*vṛteśca*), Uṇ. 2-263 as printed; guṇa; final accent by व्यत्यय (*vyatyaya*)); गौः (*gauḥ*) (root गमल्य गतौ (*gamalya gatau*) as printed; डो (*ḍo*) ending by गमेर्डोः (*gamerḍoḥ*), Uṇ. 2-225 as printed; loss of the final part (the टि (*ṭi*)); गोतोणित् (*gotoṇit*), Pā. 7-1-90; vṛddhi by अचोञ्छति (*acoñchati*), Pā. 7-2-115; ru and visarga; accent by the ending).
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> आ सी॑मरोहत्तु॒यमा॒ भवं॑तीः॒ पति॑श्विकि॒त्वा न्र॑यि॒विद्र॑यी॒णां ।
+> प्र नील॑पृष्ठो अत॒सस्य॑ धा॒सेस्ता अ॑वासयत्पुरु॒धप्र॑तीकः ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । सीं । अरोहत् । सुयमाः : भवंतीः । पति: चिकित्सान् । रयिऽवित् ।
+> रयीशं
+> प्र । नीलसृष्टः । अतसस्य । धासेः । ताः ' आवासयत् । पुरुधप्रतीकः । ३ ॥
+
+> *ā | sīṃ | arohat | suyamāḥ : bhavaṃtīḥ | pati: cikitsān | rayi 'vit |*
+> *rayīśaṃ*
+> *pra | nīlasṛṣṭaḥ | atasasya | dhāseḥ | tāḥ ' āvāsayat | purudhapratīkaḥ | 3 ‖*
+
+*Note on the supplied Pada: it reads चिकित्सान् (*cikitsān*) and नीलसृष्टः (*nīlasṛṣṭaḥ*) and has the isolated word रयीशं (*rayīśaṃ*) after the first line, while the bhāṣya below reads चिकित्वान् (*cikitvān*) and नीलपृष्ठः (*nīlapṛṣṭhaḥ*); the Saṃhitā has न्रयिविद् (*nrayivid*) run together. Left as supplied (probable machine-reading slips; for the user's decision).*
+
+**॥ सायणभाष्यम् ॥**
+
+> रयीणां रयिवित् धानानां मध्यॆ विशिष्टधनस्य लंभयिता चिकित्वान् ज्ञान-
+> वान् पतिरश्वानां पतिरग्निः सीं सर्वतः सुयमाः सुखेन नियंतुं शक्या भवंतीर्या
+> वडवा आरोहत् आरोहयति स्म नीलपृष्ठः पुरुधप्रतीको बहुधाविक्षिप्तांगः
+> सोऽग्निरतसस्य सततगमनस्य धासेः पोषणार्थं ता अश्वाः प्रावासयत् ! प्रकर्षण
+> वासयति स्म । निवासेन श्रमेऽपनीते सततगमनं पोषयितुं शक्यमित्यर्थः ॥ सीं ।
+> जादयोऽनुदात्ता इत्यनुदात्तः, अरोहत् रुह प्रादुर्भावे । लजः रूपं ।
+> निघातः सुयमाः । यम उपरमे ! आस्माच्छक्यार्थ ईषद्दु:सुष्टिति खल् । कृदु-
+> त्तरपदप्रकृतिस्वरत्वं। पतिः । पा रक्षणे : पातेर्डतिरिति डित्ता ट्टलोपः प्रत्ययस्वरः ।
+> चिकित्वान् । चिति संज्ञाने । क्सस् रूपं । रयिवित् । विद्य लाभे क्सिप् । रयीणां ।
+> नामन्यतरस्यामिति विभक्तेरुदात्तत्वं । नीलपृष्ठः । नीलशब्दो वृषादित्वादाद्युदात्तः ।
+> बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । आतसस्य । अत सातत्यगमन इत्यस्मादत्यविचमित-
+> मिनमिरभिलभिनभितपिपतिपनिपणिमहिभ्यः । उ-११७ । इत्यसच् । चित्सरः । आवासयत् ।
+> वस निवासे । हेतुमतीति णिच् । लुळ्ल्यज्श्वडित्यडागमः . तिङ्ङतिज इति निघातः ।
+
+> *rayīṇāṃ rayivit dhānānāṃ madhyè viśiṣṭadhanasya laṃbhayitā cikitvān jñāna-*
+> *vān patiraśvānāṃ patiragniḥ sīṃ sarvataḥ suyamāḥ sukhena niyaṃtuṃ śakyā bhavaṃtīryā*
+> *vaḍavā ārohat ārohayati sma nīlapṛṣṭhaḥ purudhapratīko bahudhāvikṣiptāṃgaḥ*
+> *so 'gniratasasya satatagamanasya dhāseḥ poṣaṇārthaṃ tā aśvāḥ prāvāsayat ! prakarṣaṇa*
+> *vāsayati sma | nivāsena śrame 'panīte satatagamanaṃ poṣayituṃ śakyamityarthaḥ ‖ sīṃ |*
+> *jādayo 'nudāttā ityanudāttaḥ, arohat ruha prādurbhāve | lajaḥ rūpaṃ |*
+> *nighātaḥ suyamāḥ | yama uparame ! āsmācchakyārtha īṣaddu:suṣṭiti khal | kṛdu-*
+> *ttarapadaprakṛtisvaratvaṃ| patiḥ | pā rakṣaṇe : pāterḍatiriti ḍittā ṭṭalopaḥ pratyayasvaraḥ |*
+> *cikitvān | citi saṃjñāne | ksas rūpaṃ | rayivit | vidya lābhe ksip | rayīṇāṃ |*
+> *nāmanyatarasyāmiti vibhakterudāttatvaṃ | nīlapṛṣṭhaḥ | nīlaśabdo vṛṣāditvādādyudāttaḥ |*
+> *bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | ātasasya | ata sātatyagamana ityasmādatyavicamita-*
+> *minamirabhilabhinabhitapipatipanipaṇimahibhyaḥ | u-117 | ityasac | citsaraḥ | āvāsayat |*
+> *vasa nivāse | hetumatīti ṇic | luḷlyajśvaḍityaḍāgamaḥ . tiṅṅatija iti nighātaḥ |*
+
+*Gist (mine): Agni, the finder of the best wealth among riches and the knowing lord of horses, mounts the easily controlled mares; the blue-backed, many-formed one makes them rest to nourish his ceaseless going.* The grammatical tail of the bhāṣya (formation and accent of सीं (*sīṃ*), अरोहत् (*arohat*), सुयमाः (*suyamāḥ*), पतिः (*patiḥ*), चिकित्वान् (*cikitvān*), रयिवित् (*rayivit*), रयीणां (*rayīṇāṃ*), नीलपृष्ठः (*nīlapṛṣṭhaḥ*), आतसस्य (*ātasasya*), आवासयत् (*āvāsayat*), citing Uṇ. 117 as printed) is noted here but not explained. The Pratipadārtha and the rest of Ṛk 3 follow on the next page.
+
 ---
 
-**Progress note:** Done through printed p. 10 (PDF 10). Sūkta 7: Ṛk 1 Special Topics (pp. 6-7), grammar pages 7-8, Ṛk 2 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English (pp. 9-10); window ends inside Ṛk 2 Special Topics (Nirukta list, Ni. 2-28, continues on p. 11). Page markers 7 and 9 and the mislabelled 8 repaired in kn.md (structure only).
+**Progress note:** Done through printed p. 14 (PDF 14). Sūkta 7: Ṛk 2 Special Topics (Go-word, pp. 11-12), grammar pp. 12-14, Ṛk 3 Saṃhitā/Pada/bhāṣya (p. 14); window also covers p. 14 (marker repaired in kn.md, pages.json extended). Ṛk 3 Pratipadārtha etc. follow on p. 15.
