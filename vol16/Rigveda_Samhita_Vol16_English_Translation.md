@@ -2784,6 +2784,96 @@ Grammar notes, noted briefly. निमिम्मु: (*nimimmu:*) [as supplie
 
 तस्थिवांसः (*tasthivāṃsaḥ*): root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); liṭ in the sense of the present by छंदसिलुज् (*chaṃdasiluj*) [as supplied]; replacement by kvasu by क्वसुश्च (*kvasuśca*) (Pā. 3-2-107); since the root is monosyllabic, iṭ augment of the following suffix by वस्वेकाजा (*vasvekājā*) (Pā. 7.2-67, as printed); reduplication of the root; the ā is udātta by the suffix accent; nominative plural.
 
+### Printed p. 99
+
+*[Running head, p. 99: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 99]*
+
+Grammar page continued (Ṛk 6), noted briefly: प्रजावत् (*prajāvat*): root जनी (*janī*) (*janī*) in the sense of appearing, with the upasarga *pra* before it; suffix ḍa by उपसर्गे चसंज्ञायाम् (*upasarge casaṃjñāyām*) (Pā. 3-2-99); the *ṭi* part of the root is dropped because the suffix is ḍ-marked; feminine ending ṭāp, giving *prajā*; then suffix matup by तदस्यास्ति (*tadasyāsti*) (Pā. 5-2-94), which is anudātta because it is p-marked. अस्मे (*asme*): the word *asmad*; when the dative case-ending comes, *śe* is substituted, by सुपांसुलुक् (*supāṃsuluk*) (Pā. 7-1-39). दिधिषंतु (*didhiṣaṃtu*): root *dhiṣ* in the sense of holding (juhotyādi class); loṭ, third person plural; the nighāta accent comes because it stands after a word that is not a finite verb [as the text says: "ಅತಿಜಂತದ ಪರದಲ್ಲಿ"].
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> ये वृ॒क्षासो॒ अधि॒ क्षमि॒ निमि॑तासो य॒तस्रु॑चः ।
+> ते नो॑ व्यंतु॒ वार्यं॑ देव॒त्रा क्षे॑त्र॒साध॑सः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> ये । वृक्षासः । अधि । क्षमि । निमितासः । यतस्रुचः ।
+> ते । नः । व्यंतु । वार्यं । देवत्रा । क्षेत्रसाधनः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अधि क्षमि क्रमायां भूमौ वृक्षासः परशुना चिन्ना ये यूपाः । यत-
+> स्रुच इति ऋत्विग्वाची यतस्रुचो मरुत इति ऋत्विज्ञामसु पठितत्वात् । यताः
+> स्रुचो यैस्ते यतस्रुचः । तैर्यत्विग्निर्निमितासोवटेषु नितरां प्रक्षिक्ताः क्षेत्र-
+> साधसः क्षेत्रस्य यज्ञस्य साधकाः । यथा क्षेत्रं सस्यादिद्वारा फलं प्रयच्छति तथा
+> यज्ञोऽप्यपूर्वद्वारा स्वर्गादिफलं ददातीति क्षेत्रं यज्ञः । एवंविधास्ते यूपा
+> नोऽस्मदीयं वार्यं वारणेयं संभजनीयं हविर्देवत्रा देवेषु व्यंतु ।
+> गमयंतु । अस्मदीयं हविर्देवाधीनं कुर्वंत्यर्थः ॥ कृष्णासः । ओव्रश्चेदन
+> इत्यस्य निष्ठायां यस्य विभाषेतीट् प्रतिषेधः । कित्त्वाद्ग्रहिज्यावयित्यादिना संप्र-
+> सारणं । ओदितश्चेति निष्ठानत्वं । क्षमि । आतो धातोरित्यत्र आत इति योगविभागादा-
+> कारलोपः । निमितासः । डुमिञ् प्रक्षेपणी । कर्मणि क्तः । गतिरनंतर इति पूर्व-
+> पदप्रकृतिस्वरत्वं । यतस्रुचः । बहुव्रीह् पूर्वपदप्रकृतिस्वरः । व्यंतु । इण् गशा-
+> वित्यस्य लोटि रूपं । इकारलोपश्रांदसः । आयमंतर्भावितण्यर्थः । वार्यं ।
+
+*(page break)*
+
+### Printed p. 100
+
+*[Running head, p. 100: 100 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+> वृज् संभक्तावित्यस्मादृहलोर्ण्यदिति कर्मणि ण्यत् । ईडवंदवृशंसदुहेत्यादिनाद्यु-
+> दात्तत्वं । देवत्रा । श्रेत्यनुवृत्तौ देवमनुष्यपुरुषपुरुमर्त्येभ्य इत्यादिनाधिकरणे
+> त्राप्रत्ययः । क्षेत्रसाधसः । राध साध संसिद्धावित्यस्मादौषादिकोऽसुन् । कृदुत्तर-
+> पदप्रकृतिस्वरः ॥
+
+> *vṛj saṃbhaktāvityasmādṛhalorṇyaditi karmaṇi ṇyat | īḍavaṃdavṛśaṃsaduhetyādinādyu-*
+> *dāttatvaṃ | devatrā | śretyanuvṛttau devamanuṣyapuruṣapurumartyebhya ityādinādhikaraṇe*
+> *trāpratyayaḥ | kṣetrasādhasaḥ | rādha sādha saṃsiddhāvityasmādauṣādiko 'sun | kṛduttara-*
+> *padaprakṛtisvaraḥ ‖*
+
+Gist: The posts (yūpas) that were cut down on the earth with the axe and fixed by the priests who hold their ladles are the accomplishers of the sacrifice; let them take our choice oblation to the gods. The grammatical tail covers कृष्णासः (*kṛṣṇāsaḥ*) [sic, as supplied; the Saṃhitā has वृक्षासः (*vṛkṣāsaḥ*)], क्षमि (*kṣami*), निमितासः (*nimitāsaḥ*), यतस्रुचः (*yatasrucaḥ*), व्यंतु (*vyaṃtu*), वार्यं (*vāryaṃ*), देवत्रा (*devatrā*) and क्षेत्रसाधसः (*kṣetrasādhasaḥ*) (not transcribed further here).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Ye: which yūpas) — adhi kṣami: on the earth; vṛkṣāsaḥ: cut with the axe; yatasrucaḥ: by the priests who have prepared and hold their ladles; निमिशासः (*nimiśāsaḥ*) [sic, as supplied; the Saṃhitā has निमितासः (*nimitāsaḥ*)]: thrown (into the pits) or (alternatively) fashioned; kṣetrasādhasaḥ: accomplishers of the sacrifice (which they are); te: those yūpas; naḥ: our; vāryam: choiceworthy oblations and the like; devatrā: among the gods; vyantu: let them make (them) go, so as to join (the gods).
+
+**भावार्थ (Bhāvārtha)**
+
+Let the yūpas, which have been cut down with the axe and felled on the earth, and then fashioned (into the shape of yūpas) by the priests and so made accomplishers of the sacrifice, carry the excellent oblations offered by us to the gods.
+
+**Printed English translation**
+
+May those posts which have been cut down upon the earth, and which have been fabricated by the priests. those which are the accomplishers of the sacrifice, convey our acceptable (offering) to the gods. [Printed "priests. those" with a full stop and lower-case "those" [sic].]
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अधि क्षमि (*adhi kṣami*) — क्षमायां भूम् (*kṣamāyāṃ bhūm*) (*kṣamāyāṃ bhūm*) [as supplied]. The word *kṣamā* is stated among the twenty-one names of the earth (Ni. 2-5). The meaning is explained thus: the posts, cut on the earth with the axe or similar tools, are useful in the sacrifice.
+
+यतस्रुचः (*yatasrucaḥ*) — This word is stated among the eight names of priests beginning with *bhāratāḥ kuravaḥ* (Ni. 3-19). यताः स्रुचः यैस्ते (*yatāḥ srucaḥ yaiste*): the priests who have prepared and hold the ladles for pouring the oblation in the sacrifice; the meaning is thus given, and it is explained that the yūpas have been planted in the earth by the priests.
+
+क्षेत्रसाधनः (*kṣetrasādhanaḥ*) [as supplied; the Saṃhitā has क्षेत्रसाधसः (*kṣetrasādhasaḥ*)] — क्षेत्रस्य यज्ञस्य साधकाः । यथा क्षेत्रं सस्यादिद्वारा फलं प्रयच्छति तथा यज्योऽपि अपूर्वद्वारा स्वर्गादिफलं ददातीति क्षेत्रं (*kṣetrasya yajñasya sādhakāḥ | yathā kṣetraṃ sasyādidvārā phalaṃ prayacchati tathā yajyo 'pi apūrvadvārā svargādiphalaṃ dadātīti kṣetraṃ*) [sic, यज्योऽपि (*yajyo 'pi*) as supplied]. The Nirukta-author explains the word *kṣetra* as क्षेत्रं क्षियतेः निवासकर्मणः (*kṣetraṃ kṣiyateḥ nivāsakarmaṇaḥ*) (*kṣetraṃ kṣiyateḥ nivāsakarmaṇaḥ*), and, from the root क्षिज्‌क्षये (*kṣijkṣaye*) [as supplied], which has the meaning "to dwell" (*ṣi*), he explains the word *kṣetra* so formed as meaning a dwelling-place (printed page break; the sentence continues on p. 101). 
+
+*(page break)*
+
+### Printed p. 101
+
+*[Running head, p. 101: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 101]*
+
+Sāyaṇa here explains the word *kṣetra* as denoting the sacrifice: as the field (the earth) increases the crops and the like and does what is useful to people, so the sacrifice gives the sacrificers who perform it the fruit of the sacrifice, heaven and so on, by means of what is called *apūrva*; and since the yūpas bring the sacrifice to completion, he explains them as accomplishers of the sacrifice. [The supplied text reads "ಸಸ್ತಾದಿಗಳನ್ನು" and "ಯೂಪಿಗಳು", left as supplied.]
+
+वार्यं (*vāryaṃ*) — वरणीयं संभजनीयं हविः (*varaṇīyaṃ saṃbhajanīyaṃ haviḥ*). The Nirukta-author has explained the word *vārya* by वृणोतेरथापि वरतमम् (*vṛṇoterathāpi varatamam*) (*vṛṇoter athāpi varatamam*). Durgācārya, by यद्वरयितव्यं भवति तद्वार्यमित्युच्यते। अथापि कदाचित्—वार्यशब्देन यत् वरतमं श्रेष्ठतमं किंचिद्भवति तदुच्यते (*yadvarayitavyaṃ bhavati tadvāryamityucyate| athāpi kadācit—vāryaśabdena yat varatamaṃ śreṣṭhatamaṃ kiṃcidbhavati taducyate*) [as supplied], explains the word *vārya*, formed from the root वृञ (*vṛña*) [as supplied] meaning "to choose", as "that which is to be desired" (the supplied text reads अभीलपणीय (*abhīlapaṇīya*) [sic]), and says that in some places the sense of "the most excellent" may also be indicated by the word *vārya*. Sāyaṇa describes it as the choiceworthy oblation, that is, the one most dear to the gods (the supplied text reads "ಹನಿಸ್ಸೆಂಬ" and "ವಿರ್ಣಿಸಿದ್ದಾರೆ" [sic]).
+
+देवत्रा व्यंतु (*devatrā vyaṃtu*) — देवेषु गमयंतु (*deveṣu gamayaṃtu*). The meaning is explained thus: may the yūpas favour the sacrificers so that the gods receive the choice oblations offered by them. For the word *devatrā* the Nirukta-author cites the Ṛk
+वनस्पते रशनया नियूय पिष्टतमया वयुनानि विद्वान् । वहा देवत्रा दिधिषो हवींषि प्र च दातारममृतेषु वोचः ॥ (*vanaspate raśanayā niyūya piṣṭatamayā vayunāni vidvān | vahā devatrā didhiṣo havīṃṣi pra ca dātāramamṛteṣu vocaḥ ‖*)
+(my gloss, mine and tentative: "O vanaspati, bound with the girdle, knowing the rites, carry the oblations to the gods, and speak of the giver among the immortals"), and explains *devatrā* as देवत्रा देवान् (*devatrā devān*) (*devatrā devān*). Sāyaṇa describes it as the sacrificer's wish and request: अस्मदीयं हविः देवाधीनं कुर्वंतु (*asmadīyaṃ haviḥ devādhīnaṃ kurvaṃtu*) (the supplied text reads "ಅಸ್ಮ-ದೀಯಂ" with a hyphen at the line end).
+
+**Vyākaraṇa-prakriyā**
+
+Grammar page, noted briefly. वृक्षासः (*vṛkṣāsaḥ*): root ओव्रश्च छेदने (*ovraśca chedane*) (to cut); optional iṭ because the root is ū-marked; suffix kta by *niṣṭhā*; being k-marked, by ग्रहिज्यावयि (*grahijyāvayi*) (Pā. 6-1-16) *samprasāraṇa* of the *r* of the root; pūrvarūpa; by स्कोःसंयो (*skoḥsaṃyo*) the initial sibilant of the conjunct is dropped; by चोःकुः (*coḥkuḥ*) *c* becomes *k*; since the root is o-marked, by ओदितश्च (*oditaśca*) (Vā. 8-2-45, as printed) *n* replaces the *t* of the suffix; by यस्यविभाषा (*yasyavibhāṣā*) (Pā. 7-2-15) the augment iṭ does not come to the *niṣṭhā* suffix; *ṇatva* of *n* after *ṛ*, giving *vṛkṣa*; before the ending *jas*, the augment asuk by अज्जसेरसुक् (*ajjaserasuk*) (Gā. 7-1-50, as printed).
+क्षमि (*kṣami*): the word *kṣamā*; when the locative singular follows, in आतोधातोः (*ātodhātoḥ*) (Pā. 6-4-140), the division of the rule (*yogavibhāga*) as *ataḥ* means that even though it is not a root, the *a* of what ends in ā, having the name *bha*, is dropped.
+
 ---
 
-**Progress note:** Done through printed p. 98 (PDF 98). pp. 96-98: Sukta 8 Rk 6 through Special Topics; grammar page 98 partial (continues, Ṛk 6 grammar goes on p. 99)
+**Progress note:** Done through printed p. 101 (PDF 101). pp. 99-101: Sukta 8 Rk 6 grammar finished; Rk 7 through grammar (grammar of Rk 7 continues on p. 101, partial: vrksasah, ksami)
