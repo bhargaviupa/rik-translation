@@ -957,6 +957,80 @@ Further, from some descriptions it is understood that the identity of Sūryā an
 
 *[The window ends here; the Special Topics continue on the next page.]*
 
+### Printed p. 32
+
+*Running head: [32 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184]. The window begins inside the Special Topics of Ṛk 3, after the Bṛhaddevatā verses of p. 31.*
+
+By these verses, speech (*vāk*), which is of the nature of word-Brahman, is in the form of Sūryā in the atmosphere. She is described as Sūryā, as the Uṣas deity, as Gaurī and as Sarasvatī. The greatness of this speech was told in detail earlier, in the special topics of the 41st ṛk of 1. 164 (as supplied). Since identity with speech is thus stated, the conjugal relation of Sūryā and the Gandharvas is also understood. In the last ṛks of the Sūryā-sūkta it is described how Sūryā came to the Gandharva who had obtained Soma:
+
+तुभ्यमग्रे पर्यवहन्सूर्यां वहतुना सह । (*tubhyamagre paryavahansūryāṃ vahatunā saha |*)
+पुनः पतिभ्यो जायां दा अग्ने प्रजया सह ॥ (*punaḥ patibhyo jāyāṃ dā agne prajayā saha ‖*)
+पुनः पत्निमग्निरदादायुषा सह वर्चसा । (*punaḥ patnimagniradādāyuṣā saha varcasā |*)
+दीर्घायुरस्या यः पतिर्जिवाति शरदः शतं ॥ (*dīrghāyurasyā yaḥ patirjivāti śaradaḥ śataṃ ‖*)
+सोमः प्रथमो विविदे गंधर्वो विविद उत्तरः । (*somaḥ prathamo vivide gaṃdharvo vivida uttaraḥ |*)
+तृतीयो अग्निष्टे पतिस्तुरीयस्ते मनुष्यजाः । (*tṛtīyo agniṣṭe patisturīyaste manuṣyajāḥ |*)
+सोमो ददद्गंधर्वाय गंधर्वो दददग्नये । (*somo dadadgaṃdharvāya gaṃdharvo dadadagnaye |*)
+रयिं च पुत्रांश्चादाग्निर्मह्यमथो इमां ॥ (*rayiṃ ca putrāṃścādāgnirmahyamatho imāṃ ‖*)
+
+(Ṛ. Saṃ. 10-85-38 [the first reference line is cut off in the supplied text after the word ರಿಂ])
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ] 10-85-32 to 41)
+
+In these ṛks it is told that Sūryā was first given to Agni, then from Agni to Soma, from Soma to the Gandharva, and from the Gandharva joined Agni again. The relation of this Gandharva to Soma will be told elsewhere. The story of Soma entrusting the goddess of speech to the Gandharva is told in the Aitareya Brāhmaṇa thus:
+
+सोमो वै राजा गंधर्वेष्वासीत्तं देवाश्च ऋषयश्चाभ्यध्यायन्कथमय- (*somo vai rājā gaṃdharveṣvāsīttaṃ devāśca ṛṣayaścābhyadhyāyankathamaya-*)
+मस्मान्नॊमो राजागच्छेदिति सा वागब्रवीत् स्त्रीकामा वै गंधर्वा मय्यव (*masmānnòmo rājāgacchediti sā vāgabravīt strīkāmā vai gaṃdharvā mayyava*)
+स्त्रिया भूतया पणध्वमिति नेति देवा अब्रुवन्कथं वयं त्वदृते स्यामेति (*striyā bhūtayā paṇadhvamiti neti devā abruvankathaṃ vayaṃ tvadṛte syāmeti*)
+साब्रवीत्क्रीणीतैव यर्हि वाव वो मयार्थो भविता तर्ह्येव वोऽहं (*sābravītkrīṇītaiva yarhi vāva vo mayārtho bhavitā tarhyeva vo 'haṃ*)
+पुनरागंतास्मीति तथेति तया महानग्न्या भूतया सोमं राजानम (*punarāgaṃtāsmīti tatheti tayā mahānagnyā bhūtayā somaṃ rājānama*)
+क्रीणन् । (*krīṇan |*)
+
+(Ai. Brā. 5-2 [the print has "ಇ. ಬ್ರಾ."])
+
+King Soma was among the group of Gandharvas. The gods and sages were thinking how they could obtain him. Then the goddess of speech, knowing the Gandharvas' infatuation with women, said that she would become a beautiful woman and that by offering her to the Gandharvas Soma could be obtained. The gods did not wish to be separated from her; then, when she gave the assurance that she would rejoin them when she was wanted, they transformed her into a naked woman, offered her to the Gandharvas and obtained Soma: so the story goes.
+
+### Printed p. 33
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1] Ṛgveda-saṃhitā 33.*
+
+Which is this world of the Gandharvas, and what is meant by saying that Sūryā in the form of speech joined this world, is also told in sūkta 10-85. The scholar Eggeling states this relation of Sūryā and the Gandharvas thus:
+
+The Rigvedic Gandharva was primarily wedded to the hypercosmic सूरा (*sūrā*)—the original immortal abode of Soma—and the wedding of king Soma who was derived from the Gandharva to सूरा (*sūrā*)—in other words, the return of the moon to the hypercosmic sphere of the nocturnal Sun—is the happy ending of the Gandharva's drama so tragically started Soma's dying is not a death. for he is actually re-born through his union with सूरा (*sūrā*)
+
+Thus, as the wife of Soma, as the wife of the Gandharva and, as explained above, sometimes as the wife of Sūrya, the relation of Sūryā has been told. It is also said that the Aśvin deities themselves are Sūrya and Candramas. In the present ṛk, by सूरां वहतुं (*sūrāṃ vahatuṃ*), the matter of the Aśvin deities seating Sūryā in their three-wheeled chariot is told.
+
+अप्पु जाताः- (*appu jātāḥ-*) — in the present ṛk the word अप् (*ap*) is explained as sacrificial rite. On the basis of the Nirukta sentence आपः (*āpaḥ*) इत्यंतरिक्षनाम (*ityaṃtarikṣanāma*) (Ni 2-10), "this is a name of the atmosphere", Sāyaṇa has taken, in places such as 1-95-3 and so on, the word अप्पु (*appu*) to mean "in the atmosphere"; in ṛks such as 1-104-6 it means the deity of the waters. In the ṛk 1-163-4, where अप्पु (*appu*) occurs with त्रीणि (*trīṇi*) ("three"), by the sentence अबुपजीवित्वात् (*abupajīvitvāt*) भूलोकोऽपि (*bhūloko 'pi*) अप्‌शब्देनाभिधीयते (*apśabdenābhidhīyate*) the earth too is said to be denoted by the word अप् (*ap*), with the sense "earth". Moreover अपः अप्नः (*apaḥ apnaḥ*) and so on: the word is read among the 26 names of action. In the present ṛk it means sacrificial rite.
+
+ककुहा: (*kakuhā:*) — the word कुकुह (*kukuha*) (printed so) is read in the Nirukta among the names of "great" (Ni. 3-13). In the present ṛk it means "worshipful praises".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+श्रिये (*śriye*) (root श्रीञ् (*śrīñ*), "to serve"): the suffix *kvip* by क्विब्वचिप्रच्छि (*kvibvacipracchi*) (Uṇ. Sū. 2-215), lengthening; dative singular; by सावेकाचस्तृतीयादि: (*sāvekācastṛtīyādi:*) (Pā. Sū. 6-1-168) the case ending takes the acute. इषुकृता इव (*iṣukṛtā iva*) (root डुकृञ् (*ḍukṛñ*) "to make"): the suffix *kvip*; the augment *tuk* by ह्रस्वस्य पिति कृति तुक् (*hrasvasya piti kṛti tuk*) (Pā. Sū. 6-1-71); the accent of a word ending in a *kṛt* suffix; the dual takes the substitute *ā* by *sulug* of the case endings. वहतुम् (*vahatum*) (root *vah*, "to carry"): the suffix *tumun* by तुमुण्वुल् (*tumuṇvul*) (Pā. Sū. 3.3-10); the accent of the suffix, last-syllable acute.
+
+### Printed p. 34
+
+*Running head: [34 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 184] (the print has "ಆ" for "ಅ.", as supplied).*
+
+*[A stray line "[3] Vol. 14", a page-footer artefact, ends p. 33 in the supplied text.]*
+
+सूर्यायाः (*sūryāyāḥ*) (grammar, continued): सूर्याद्देवतायां चाब्वाच्यैः (*sūryāddevatāyāṃ cābvācyaiḥ*) (Pā. Sū. 4-1-48-2): because the sense of a deity appears, the suffix *ṭāp*. कर्तृकर्मणोः कृति (*kartṛkarmaṇoḥ kṛti*) (Pā. Sū. 2-3-65): the genitive comes in the sense of the object. वच्यंते (*vacyaṃte*) (root ब्रूञ् (*brūñ*), "to speak"), passive present: सार्वधातुके यक् (*sārvadhātuke yak*) (Pā. Sū. 3-1-67) the suffix *yak*; by ब्रुवो वचिः (*bruvo vaciḥ*) (Pā. Sū. 2-4-53) the substitute *vac* for the root; because *yak* has the mark *k*, by वचिस्वपियजा- (*vacisvapiyajā-*) (the sūtra is cut off at the line end; Pā. Sū. 6-1-15) the semivowel *v* becomes *u*; by वा छंदसि (*vā chaṃdasi*) (Pā. Sū. 6-1-106) there is no single substitution; before a vowel, by इको यणचि (*iko yaṇaci*) the *u* becomes *v* (*yaṇ*); since it stands at the beginning of the pāda there is no *nighāta* accent; the accent of *yak* remains. जूर्णा इव (*jūrṇā iva*) (root ज्यष् (*jyaṣ*), "to leave"): roots have many senses, so here it is used in the sense of praise; the suffix *kta* in the passive; by श्रुत्कः किति (*śrutkaḥ kiti*) (Pā. Sū. 7-2-11) no *iṭ* augment because it is monosyllabic; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) *u* in place of the vowel, followed by *r*; by हलिच (*halica*) (Pā. Sū. 8-2-77) lengthening of the penultimate vowel ending in *r*; by रदाभ्यां निष्ठातः- (*radābhyāṃ niṣṭhātaḥ-*) (Pā. Sū. 8-2-42) *n* because the suffix *kta* follows *r*; रषाभ्यां (*raṣābhyāṃ*) the *ṇ* substitution; the accent of the suffix, last-syllable acute; in the neuter plural, by शेश्छंदसि बहु लम् (*śeśchaṃdasi bahu lam*) (Pā. Sū. 6-1-70) the elision of *śi*.
+
+#### Ṛk 4
+
+*[As supplied, the label line of the Saṃhitā reads संहतापातु; (*saṃhatāpātu;*); the Saṃhitā was a picture in the supplied text and has been read from it.]*
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मे सा वां॑ माध्वी रा॒तिर॑स्तु॒ स्तोमं॑ हिनोतं मा॒न्यस्य॑ का॒रोः ।
+> अनु॒ यद्वां॑ श्रव॒स्या॑ सुदानू सु॒वीर्या॑य चर्ष॒णयो॒ मदं॑ति ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्मे इति । सा । वां । माध्वी इति । रातिः । अस्तु । स्तोमं । हिनोतं । मान्यस्य ।
+> कारोः ।
+
+*[The Pada continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 31 (PDF 31). Rik 3 Special Topics: end of Falk quotation, Asvins and Surya, Saranyu, Surya-sukta, Brihaddevata (continues on next page)
+**Progress note:** Done through printed p. 34 (PDF 34). Rik 3 Special Topics end (Gandharva, Soma, apsu, kakuha), two grammar pages; Rik 4 Samhita (from figure) and start of Pada
