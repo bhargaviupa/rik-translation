@@ -1187,6 +1187,58 @@ Ever-moving (Agni) may the mornings rise for us, abounding with oblatio ns [sic]
 
 **पृक्षप्रयजः (*pṛkṣaprayajaḥ*)** — "पृक्षाणि हविर्लक्षणान्नानि प्रकर्षेण यष्टुं प्रक्रम्यते यासु उषस्सु ताः (*pṛkṣāṇi havirlakṣaṇānnāni prakarṣeṇa yaṣṭuṃ prakramyate yāsu uṣassu tāḥ*)". The Nirukta-writers read the word पृक्ष (*pṛkṣa*) among the names of food (Ni. 3-9). Sāyaṇa explains पृक्ष (*pṛkṣa*) as food in the form of oblation, and explains that the time at which this oblation-food is offered abundantly (excessively) in the fire is the time of dawn.
 
+### Printed p. 44
+
+*[Running head, p. 44: 44 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.]]*
+
+**Special Topics (continued)**
+
+**सुवाचः (*suvācaḥ*)** — "प्रातरनुवाकादिशोभना वाचो यासां ताः (*prātaranuvākādiśobhanā vāco yāsāṃ tāḥ*)". The time at which the priests recite in the sacrifice the mantras belonging to the morning, and the (auspicious) words of good meaning recited to wake Agni, is full of such utterances; hence the word सुवाचः (*suvācaḥ*) is used as an epithet of the dawn.
+
+**सुकेशवः (*sukeśavaḥ*)** [sic, as supplied; the Saṃhitā word is सुकेतवः (*suketavaḥ*)] — The word केतु (*ketu*) is read among the names of intelligence (Ni. 3-13). In अह्नां केतुः (*ahnāṃ ketuḥ*) the word केतु (*ketu*) means "mark, sign" (Ni. 11-6). केतुना कर्मणा प्रज्ञया वा (*ketunā karmaṇā prajñayā vā*) (Ni. 11-27): by केतु (*ketu*) is meant action or intelligence. In देवं वहंति केशवः (*devaṃ vahaṃti keśavaḥ*), केशवः रश्मयः (*keśavaḥ raśmayaḥ*) (Ni. 12-17) gives "rays". So the word has several meanings: intelligence, action, mark, ray. Sāyaṇa, taking the word as an epithet of the dawn, says वयसां मनुष्याणां च शब्दैः सुप्रज्ञानाः (*vayasāṃ manuṣyāṇāṃ ca śabdaiḥ suprajñānāḥ*): at dawn men and birds make sounds, the whole world wakes, and so it is the time that gives all the world the knowledge needed for its business.
+
+**उषसः रेवत् ऊषुः (*uṣasaḥ revat ūṣuḥ*)** — "एवंविधाः उषसः अस्माकं धनयुक्तं यथा भवति तथा व्युच्छंति (*evaṃvidhāḥ uṣasaḥ asmākaṃ dhanayuktaṃ yathā bhavati tathā vyucchaṃti*)". The word उषाः (*uṣāḥ*) is explained (Ni. 2-19): उषाः कस्मादुच्छतीति, सत्या रात्रेरपरः कालः (*uṣāḥ kasmāducchatīti, satyā rātreraparaḥ kālaḥ*). Formed from the root उच्छ (*uccha*) meaning "to dispel" (vivāsana), उषाः (*uṣāḥ*) is the last part of the night, which destroys darkness. The dawns, according to the epithets given here, act so that the sacrificers become wealthy.
+
+**पृथिव्या: (*pṛthivyā:*)** — "विस्तीर्णायाः ज्वालायाः (*vistīrṇāyāḥ jvālāyāḥ*)". The word पृथ्वि (*pṛthvi*) is read among the names of the earth (Ni. 2-5) and of the atmosphere (Ni. 2-10). Here the word पृथ्वी (*pṛthvī*), formed from the adjective पृथु (*pṛthu*), is used as पृथिव्याः (*pṛthivyāḥ*) by Vedic usage. The meaning can be explained as: Agni's flame is abundant, spread everywhere.
+
+**एनः (*enaḥ*)** — "प्राण्युपघातलक्षणं पापं (*prāṇyupaghātalakṣaṇaṃ pāpaṃ*)". When explaining the words किल्पिषं (*kilpiṣaṃ*) and एनः (*enaḥ*) the Nirukta-writers say सुकृतकर्मणो भयं एनः (*sukṛtakarmaṇo bhayaṃ enaḥ*): it destroys meritorious acts. एनः एतेः (*enaḥ eteḥ*) (Ni. 11-25): the word एनः (*enaḥ*), from the root इण् (*iṇ*) "to go", is explained as what unfailingly comes and joins at the proper time. Accordingly Sāyaṇa explains that sin checks the force of meritorious action and brings the creature into trouble.
+
+**अग्ने (*agne*)** — "पृथिव्याः ज्वालायाः महिना चित् एनः महे संदशस्य विस्तीर्णायाः ज्वालायाः महत्वेन यत्किंचित् पापं महते यजमानाय मह्यं संक्षपय (*pṛthivyāḥ jvālāyāḥ mahinā cit enaḥ mahe saṃdaśasya vistīrṇāyāḥ jvālāyāḥ mahatvena yatkiṃcit pāpaṃ mahate yajamānāya mahyaṃ saṃkṣapaya*)"
+
+### Printed p. 45
+
+*[Running head, p. 45: [A. 3. A. 1. V. 2.] Ṛgvedasaṃhitā 45]*
+
+Addressing Agni, the prayer is that he destroy the sacrificer's sins by the greatness of his abundant flames.
+
+The Nirukta-writers explain the word Agni thus: अग्निः कस्मात् अग्रणीर्भवति अग्रं यज्ञेषु प्रणेयते अंगं नयति सन्नममानः (*agniḥ kasmāt agraṇīrbhavati agraṃ yajñeṣu praṇeyate aṃgaṃ nayati sannamamānaḥ*). Durgācārya explains the analysis अग्रं नयति अग्रणीः भवति (*agraṃ nayati agraṇīḥ bhavati*): the word अग्र (*agra*) means "chief"; सर्वेष्टर्थेषु असावात्मानं अग्रं नयति सेनां वा अग्रे नयति अग्निर्वैदेवानां सेनानीः इति श्रुतेः (*sarveṣṭartheṣu asāvātmānaṃ agraṃ nayati senāṃ vā agre nayati agnirvaidevānāṃ senānīḥ iti śruteḥ*). He takes the first place in all necessary duties; or, being the commander of the gods' armies, Agni leads the gods' army. This is one kind of meaning. Secondly, in sacrifices the fire is prepared first, before all necessary duties; hence the meaning अग्रं प्रणीयते इति अग्निः (*agraṃ praṇīyate iti agniḥ*). Thirdly, wherever he enters he himself is chief and brings all else under his control; hence अंगं नयतीति अग्निः (*aṃgaṃ nayatīti agniḥ*). In all worldly and Vedic works, and even in grass and wood, when Agni has entered and is connected, he keeps the position of being chief; whatever is connected with Agni stays subordinate to him. This is the purport.
+
+The teacher Sthaulāṣṭhivi [sic, as supplied] says अकोपनो भवति न स्नेहयति (*akopano bhavati na snehayati*), and describes Agni's quality: he makes the thing that joins him (that is connected with him) take another form. The teacher Śākapūṇi explains the formation of the word Agni: it is from इतात् (*itāt*), अक्ताद्वा दग्धाद्वा नीतात् (*aktādvā dagdhādvā nītāt*), that is, from the three roots इण् गत् (*iṇ gat*), अंजू व्यक्तिश्लक्ष्ययोः (*aṃjū vyaktiślakṣyayoḥ*), दह भस्मीकरणे (*daha bhasmīkaraṇe*), with the element नी (*nī*) from the root णीज् प्रापणे (*ṇīj prāpaṇe*) added, the form अग्नि (*agni*) results. The Nirukta-writers quote the Ṛk
+
+> ⟦अग्निमीळे पुरोहितं यज्ञस्य देवमृत्वजं । होतारं रत्नधातमं ॥⟧ (Ṛ. Saṃ. 1-1-1)
+
+> *⟦agnimīḷe purohitaṃ yajñasya devamṛtvajaṃ | hotāraṃ ratnadhātamaṃ ‖⟧ (Ṛ. Saṃ. 1-1-1)*
+
+and say that this Agni is called the terrestrial fire, while the other forms of Agni, such as Jātavedas, are spoken of as middle and highest. In this terrestrial fire the sacrificers invoke the other fires according to the respective rites, to suit their sacrifice. Hence Agni has the identity of all the gods; the Brāhmaṇa sentence अग्निः सर्वा देवताः (*agniḥ sarvā devatāḥ*) and
+
+### Printed p. 46
+
+*[Running head, p. 46: 46 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.]]*
+
+> ⟦इंद्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद्विप्रा बहुधा वदंत्यग्निं यमं मातरिश्वानमाहुः ॥⟧ (Ma. [sic, as supplied] Saṃ. 1-164-46)
+
+> *⟦iṃdraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān | ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ ‖⟧ (Ma. [sic, as supplied] Saṃ. 1-164-46)*
+
+this mantra too make clear that Agni has the nature of all the gods.
+
+But: यस्तु सूक्तं भजते यस्मै हविर्निरुप्यते आयमेव सोऽग्निः। निपातमेवैते उत्तरे ज्योतिषी एतेन नामधेयेन भजेते (*yastu sūktaṃ bhajate yasmai havirnirupyate āyameva so 'gniḥ| nipātamevaite uttare jyotiṣī etena nāmadheyena bhajete*) (Ni. 2-7-18). The Agni who is chiefly praised in the various rites, and for whom oblations are prepared with Vedic mantras, is spoken of as the terrestrial fire. The other fires, though in the position of highest and middle (the lightning fire, Jātavedas), are not so spoken of in the world by sentences such as अग्निमानय (*agnimānaya*) ("bring fire"); and अग्नियेषु सूक्तेषु हविः संप्रदानेषु स्तुत्यत्वेन भोक्तृत्वेन चैतदेवोपासीत (*agniyeṣu sūkteṣu haviḥ saṃpradāneṣu stutyatvena bhoktṛtvena caitadevopāsīta*): this terrestrial fire, which is praised in the hymns that describe Agni and is the recipient in the giving of oblations, is to be worshipped, so the injunction says. तस्मादग्निशब्देन पार्थिवस्य ज्योतिषः मुख्यस्संबंधः गौण इतरयोर्मध्यमोत्तमयोः (*tasmādagniśabdena pārthivasya jyotiṣaḥ mukhyassaṃbaṃdhaḥ gauṇa itarayormadhyamottamayoḥ*). Hence the chief sense of the word Agni is that the terrestrial fire is worshipped; the middle and highest rank of the other deities, designated through Agni's all-selfhood, is secondary here, as Durgācārya explains.
+
+**चित् (*cit*)** — The Nirukta-writers say अप्युपमार्थेऽपि कर्मोपसंग्रहार्थेऽपि पदपूरणाः (*apyupamārthe 'pi karmopasaṃgrahārthe 'pi padapūraṇāḥ*): particles may convey comparison, or some meaning, or merely fill out the sentence — three uses. Then चिदितैषो अनेककर्मा, आचार्यश्चिदिदं ब्रूयादिति पूजायां, दधिचिदित्युपमार्थे, कुल्माषांश्चिदाहरेति अवकुत्सिते (*ciditaiṣo anekakarmā, ācāryaścididaṃ brūyāditi pūjāyāṃ, dadhicidityupamārthe, kulmāṣāṃścidāhareti avakutsite*): the particle चित् (*cit*) has several functions: comparison in ददि चित् (*dadi cit*) [sic, as supplied], respect in आचार्यश्चित् (*ācāryaścit*), contempt (disparagement) in कुल्माषांश्चित् (*kulmāṣāṃścit*). In places other than these it conveys only the general filling-out of the sentence; the supplied text ends this passage with a sentence that it prints as "इल्ल पदपूरणफलकवागि अनर्थकवागुवुदु (*illa padapūraṇaphalakavāgi anarthakavāguvudu*)" (as supplied: it becomes meaningless as a mere filler).
+
+**Vyākaraṇa-prakriyā (grammar)**
+
+Grammar page begun, continuing on the next page. Headword पृक्षप्रयज: (*pṛkṣaprayaja:*): root यज (*yaja*) (worship, union, giving); the sūtra अन्येभ्योपिदृश्यंते (*anyebhyopidṛśyaṃte*) (Pā. 3-2-75) is cited, from whose word दृशि (*dṛśi*) the affix विच् (*vic*) in the passive sense is derived for this root; the text breaks off at the page end.
+
 ---
 
-**Progress note:** Done through printed p. 43 (PDF 43). Sukta 7 Rk 9 grammar tail ends p. 41-42; Rk 10 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, Special Topics begun; p. 43 ends in Special Topics after Prikshaprayajah
+**Progress note:** Done through printed p. 46 (PDF 46). Sukta 7 Rk 10 Special Topics pp. 44-46; grammar page begun (Prikshaprayajah)
