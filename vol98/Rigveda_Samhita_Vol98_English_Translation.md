@@ -5313,6 +5313,86 @@ has given the derivation of the word *pitu*: that is, *pātervā*: because it pr
 
 [the window ends here with the Nirukta passage and its reference (printed "(ನಿ. ೯-೨೫)")].
 
+### Printed p. 188
+
+*Running head: [188 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 187] (the print has "ಆ." for the second abbreviation, as supplied). The window continues the Special Topics of Ṛk 1 of Sūkta 187 (the word *pitu*) from p. 187, after the Nirukta passage.*
+
+... having said this: "I praise the food that gives great strength; Indra, pervading the three worlds, having obtained the nourishment of this food and with its help become mighty, crushed and destroyed all the joints of the demon Vṛtra": this is the sense. The word *pitu* (in the sense of food) occurs in the ṛks ऋ. सं. १-६१-७, १-१३२-६, १-१८७-१, ६-२०-४ (*ṛ. saṃ. 1-61-7, 1-132-6, 1-187-1, 6-20-4*) and others, and in places such as अथ. वे. ४-६-३ ; तै. सं. ५-७-२-४, वा सं २-२०, १२-६५, ऐ. ब्रा. १-१३ (*atha. ve. 4-6-3 ; tai. saṃ. 5-7-2-4, vā saṃ 2-20, 12-65, ai. brā. 1-13*) (the supplied text has "ಹೆಚ್ಚಾಚ" [?] for "ಹೆಚ್ಚಾದ" in the first line; marked [?]).
+
+महो धर्माणं-महांतं धर्माणं सर्वस्य धारकं । महतो लोकस्य (*maho dharmāṇaṃ-mahāṃtaṃ dharmāṇaṃ sarvasya dhārakaṃ | mahato lokasya*) धारकं (*dhārakaṃ*) — "great, the upholder of all; the upholder of the great world": Sāyaṇa's explanation is "that which sustains the whole, that is, the great world and the beings of the world". Yāska says महतो धारयितारं बलस्य (*mahato dhārayitāraṃ balasya*), "that which produces great strength". Since this is an epithet of the word *pituṃ*, and since food has the power to give nourishment and strength to one who partakes of it, both senses fit.
+
+तविषीं—तविषीति बलनाम (*taviṣīṃ—taviṣīti balanāma*) — "*taviṣī* is a name of strength". Since the word *taviṣī* is read among the twenty-eight names of strength, *ojaḥ*, *pājaḥ* and others ((नि. ३-९) (*(ni. 3-9)*)), *taviṣīṃ* means strength, power. It is known to all that men and other animals get strength and power by taking food. Or the Nirukta-authors have given for the word *taviṣī* the derivation तवतेर्वा वृद्धिकर्मणः (*tavatervā vṛddhikarmaṇaḥ*), so that this word is formed from the root *tavati*, "to make grow", and the sense is explained: by taking food the body grows and prospers.
+
+त्रितः (*tritaḥ*) — the bhāṣyakāra explains the word *tritaḥ* as विस्तीर्णतमः (*vistīrṇatamaḥ*), and the Nirukta-author as त्रितिस्तीर्ण- (*tritistīrṇa-*) तमः (नि ४-६) (*tamaḥ (ni 4-6)*): that is, "pervading all, widely extended". Besides, the Nirukta-author in explaining this ṛk says त्रितस्तिस्थान इंद्रः (*tritastisthāna iṃdraḥ*): "Trita is Indra of three places"; *tristhāna* means earth, atmosphere and heaven: the sense is Indra of unobstructed power in all three worlds. *Tritaḥ* may also mean Trita Āptya. The relation between Trita Āptya and Indra, the meaning of the word *trita*, and other related matters we have explained at length in the Ṛ. Saṃ. part 5, pp. 230-231, in the introduction to part 8, pp. iii-viii, and in part 8, pp. 443-447. In the present ṛk *tritaḥ* means Indra, who is glorious in the threefold places, earth, atmosphere and heaven.
+
+वृत्रं विपर्वमर्दयत् (*vṛtraṃ viparvamardayat*) — among Indra's heroic deeds the slaying of Vṛtra is the most important. This is described:
+
+इंद्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्रे । (*iṃdrasya nu vīryāṇi pra vocaṃ yāni cakāra prathamāni vajre |*)
+(ऋ. सं. १-३२-१) (*(ṛ. saṃ. 1-32-1)*)
+
+### Printed p. 189
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 6 ] Ṛgveda-saṃhitā 189 (as supplied, "೮. ೨" for "ಅ. ೨").*
+
+in the sūkta ऋ सं १-३२ (*ṛ saṃ 1-32*) that begins thus, and in many other places, in many ways. For this very reason the name *vṛtrahā*, "slayer of Vṛtra", is famous for Indra. That Indra slew Vṛtra by his own power is said in the ṛks ऋ. सं. १-१६५-८ ; ७-२१-६, १०-१३८-६ (*ṛ. saṃ. 1-165-8 ; 7-21-6, 10-138-6*) and others. And there are descriptions that for the battle with Vṛtra the gods increased his prowess (ऋ. सं. १०-११३ ८ (*ṛ. saṃ. 10-113 8*)), or supplied him with strength and power (ऋ. सं. १०-८०-५, ६-२०-२, १०-४८-३, १०-१२०-३ (*ṛ. saṃ. 10-80-5, 6-20-2, 10-48-3, 10-120-3*)), or put the thunderbolt in his hand (ऋ. सं २-२०-८ (*ṛ. saṃ 2-20-8*)). Most of all the Maruts are the ones who urge him and support him (ऋ. सं. ३-३२-४, १०-७३-१ (*ṛ. saṃ. 3-32-4, 10-73-1*), etc.); even when all the other gods fled in fear of Vṛtra (ऋ. सं. ८-८५-७, ४-१८-११, ऐ. ब्रा. ३-२० (*ṛ. saṃ. 8-85-7, 4-18-11, ai. brā. 3-20*)) the Maruts alone helped Indra. But it is also said that the Maruts once abandoned him (ऋ. सं. ८-७-३१ (*ṛ. saṃ. 8-7-31*)); and there are descriptions here and there that Agni, Soma and Viṣṇu helped Indra when he fought with Vṛtra. In the Bhāgavata and other Purāṇas there is a long history of the slaying of the demon Vṛtra.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+पितुम् (*pitum*) (root पा पाने (*pā pāne*)): by पः किच्च (उ. सू. १-२०) (*paḥ kicca (u. sū. 1-20)*) the suffix *tu*; because it is marked *k*, *i* for the *ā* of the root; by the suffix accent the last syllable is acute. स्तोषम् (*stoṣam*) (root ष्टुञ् स्तुतौ (*ṣṭuñ stutau*)): Vedic *luṅ*; first person singular; the augment *aṭ* does not occur by the Vedic rule; the verb-*nighāta* accent. धर्माणम् (*dharmāṇam*) (root धृञ् धारणे (*dhṛñ dhāraṇe*)): by अन्येभ्योऽपि दृश्यंते (पा. सू. ३-२-७५) (*anyebhyo 'pi dṛśyaṃte (pā. sū. 3-2-75)*) the suffix *manin*; by *vyatyaya* the first syllable of the suffix is acute. विपर्वम् (*viparvam*) ("him from whom the joint is gone"): by बहुव्रीहौ प्रकृत्या (*bahuvrīhau prakṛtyā*) the accent of the earlier member. अर्दयत् (*ardayat*) (root अर्द हिंसायां (*arda hiṃsāyāṃ*)): *curādi*; *luṅ*; third person singular *tip*; loss of *i*; by सत्यापपाश—(पा. सू. ३-१-२५) (*satyāpapāśa—(pā. sū. 3-1-25)*) the suffix *ṇic* in the own sense; because of the *śap* suffix guṇa of *ṇic*; the substitute *ay*; the augment *aṭ* does not occur by the Vedic rule; because of the connection with *yat* there is no *nighāta*; the accent of *ṇic* remains.
+
+### Printed p. 190
+
+*Running head: [190 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 187].*
+
+#### Ṛk 2
+
+*[As supplied, the label line of the next section reads संख्याशास्त्र (*saṃkhyāśāstra*); standard label inserted. The Saṃhitā has नवृमहे [?] (*navṛmahe [?]*) against the Pada's *vavṛmahe*; marked [?].]*
+
+**॥ संहितापाठः ॥**
+
+> स्वादो॑ पितो॒ मधो॑ पितो व॒यं त्वा॑ नवृमहे [?] ।
+> अ॒स्माक॑मवि॒ता भ॑व ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> स्वादो इति । पितो इति । मधो इति । पितो इति । वयं । त्वा । ववृमहे ।
+> अस्माकं । अविता । भव ॥ २ ॥
+
+> *svādo iti | pito iti | madho iti | pito iti | vayaṃ | tvā | vavṛmahe |*
+> *asmākaṃ | avitā | bhava ‖ 2 ‖*
+
+*[As supplied, the label line of the next section reads साह्यभाष्यं (*sāhyabhāṣyaṃ*) (inside the Pada block); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे स्वादो आस्वादनीय पितो पालक मधो माधुर्योपेत पितो हे
+> पानसाधनान्न वयं त्वा त्वां ववृमहे । सेवामहे ॥ अत्र सर्वत्राननुदात्तानां
+> पूर्वस्यासामान्यवचनत्वेनानिघातत्वं । अनुदात्तानां तु विशेषवचनत्वान्निघातत्वं ॥
+> असकृत्पितुशब्दश्रवणं तस्य प्राशस्त्यज्ञापनार्थं । हे पितो अस्माकमविता तर्पयिता
+> भव ॥
+
+*Gist:* O savoury, protecting, sweet food, drink-giving: we serve you; be our satisfier. The repetition of *pito* shows its excellence.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+स्वादो—रुचिकरवू (*svādo—rucikaravū*) (tasty). पितो—पालकवू (*pito—pālakavū*) (protecting). मधो—माधुर्योपेतवू (*madho—mādhuryopetavū*) (sweet). पितो— (*pito—*) पानसाधनवू आद ऎलै अन्नवे (*pānasādhanavū āda èlai annave*) (a means of drink): O food! वयं (*vayaṃ*) — we. त्वा (*tvā*) — you. ववृमहे (*vavṛmahe*) — we serve. अस्माकं (*asmākaṃ*) — to us. अविता (*avitā*) — protector (satisfier). भव (*bhava*) — be.
+
+*[As supplied, the label line of the next section reads बनार्थ (*banārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O food, worthy of being tasted, protecting, sweet and a means of drink, we serve you. Be our satisfier.
+
+**Printed English translation**
+
+Savoury Pitu ; sweet Pitu ; we worship you : become our protector.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+स्वादो पितो मधो पितो (*svādo pito madho pito*) — *svādu* means tasty, wholesome to eat. That *pito* is addressed here twice shows the extreme regard and esteem the praiser has for food.
+
+अविता-तर्पयिता (*avitā-tarpayitā*) — the bhāṣyakāra's explanation is "one who satisfies". *Avitā* may also be understood as "protector": one who removes the affliction of hunger and protects.
+
 ---
 
-**Progress note:** Done through printed p. 187 (PDF 187). Done through printed p. 187 (Sukta 187 heading block and Rk 1 complete through printed English; Special Topics on pitu begun, ends with the Nirukta passage)
+**Progress note:** Done through printed p. 190 (PDF 190). Done through printed p. 190 (Sukta 187 Rik 2, Special Topics continue at avita); [?] on Samhita navrmahe
