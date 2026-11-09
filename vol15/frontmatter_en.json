@@ -1,0 +1,218 @@
+{
+ "_doc": "English front matter of the volume (translated from the user's front-matter scan pages; Nov 2026). Strings may contain {{fn: text}} = a footnote. Read by publish/volbook.py (English PDF).",
+ "board": {
+  "title_lines": [
+   "The Board of Vedic Scholars",
+   "(Veda-vimarśana-vidvan-maṇḍali)",
+   "constituted for the work of publishing the Veda"
+  ],
+  "editor_label": "Translator & Editor:",
+  "editor": "Asthāna Mahāvidvān H. P. Venkata Rao",
+  "list_title": "Assisting Board of Scholars",
+  "members": [
+   "Brahmaśrī G. Viṣṇumūrti Bhaṭṭa, scholar of literature (sāhitya) and grammar (vyākaraṇa), His Highness the Maharaja's Sanskrit Mahāpāṭhaśālā (college), Mysore.",
+   "Asthāna Vidvān Brahmaśrī H. Gaṅgādhara Śāstri, scholar of astronomy-astrology (jyotiṣa) and scholar of the Kannada language.",
+   "Brahmaśrī Śrīnivāsa Śāstri, ghanapāṭhi (reciter of the Ghana-recitation) of the Ṛgveda.",
+   "Brahmaśrī Hiṭṭavaḷḷi Biḷigiri Raṅgājoisa, scholar of the śrauta (Vedic ritual) tradition.{{fn: The supplied text reads ಶೌತವಿದ್ವಾನ್ ('śauta-vidvān'); ಶ್ರೌತ (śrauta) is meant.}}",
+   "Brahmaśrī Hiṭṭavaḷḷi Devara Bhaṭṭa, scholar of the Mīmāṃsā philosophy.",
+   "Brahmaśrī G. N. Chakravarti, M.A., Professor of Sanskrit, St. Philomena's College, Mysore.",
+   "Brahmaśrī Veṅkaṭaramaṇācār, M.A., B.T., scholar of literature (sāhitya).",
+   "Brahmaśrī S. Raṅganāthan, scholar of literature (sāhitya), the Palace Sarasvatī Bhaṇḍāra (library).",
+   "Brahmaśrī Puttūru Anantakṛṣṇa Māchār, scholar of literature (sāhitya), Government Oriental Research Institute, Mysore.",
+   "Brahmaśrī S. Sītārāma Śāstri, retired paṇḍita, Government Oriental Research Institute, Mysore."
+  ]
+ },
+ "preface": {
+  "title": "Preface",
+  "paragraphs": [
+   "In this volume some of the subsidiary rites of the sacrifice (yajñāṅga-karma) are explained. A yajña is not a single rite. Many rites together make up the principal rite called yajña. In it there are many subsidiary rites, such as the milking of the cow (godohana), the churning of fire (agnimanthana), the bringing of the fire (agnyānayana), the bringing of the Soma (somapravāhaṇa), the Ātithyeṣṭi, the three pressings (savana) called Prātaḥsavana, Mādhyandinasavana and Tṛtīyasavana, and the Ṛtuyāja oblations. Of these, only the Ṛtuyāja oblations, the Somapravāhaṇa and the three pressings are explained in this volume.",
+   "In explaining such subsidiary rites of the sacrifice, they have to be explained from two points of view. For in every principal rite performed in sacrifices and the like there is a part for the priests called Hotṛ and Adhvaryu. The priests of the Hotṛ group recite, in the prescribed manner, the mantras suited to the rite concerned; the Adhvaryu, or the priests who assist the Adhvaryu, perform the actions suited to that rite. However small the actions performed in sacrifices may be, they must be carried out according to rule and with the recitation of mantras. Since the explanation of the actions, the procedure and so on belongs to the Adhvaryu group, and is given in the Yajurveda, the discussion of those matters has not been made here. But since the discussion of the mantras to be recited by the Hotṛ group in each rite belongs to the Ṛgveda,{{fn: The supplied text has ಋಗ್ವದಕ್ಕೆ ('Ṛgvada'), apparently for ಋಗ್ವೇದಕ್ಕೆ; the sense is the Ṛgveda.}} only the mantras to be recited by the Hotṛ group, when and how they are to be recited, and similar matters, are explained here, as stated in the Aitareya Brāhmaṇa. For all matters belonging to the Ṛgveda, such as the explanation of the mantra-procedures recited by the Hotṛ group, are stated in the two Brāhmaṇa works of the Ṛgveda, the Aitareya and the Kauṣītaki.",
+   "A Brāhmaṇa is a work that explains, for each important subsidiary rite and each principal rite performed in sacrifices and the like, the rule the Hotṛ is to follow, the mantra to be recited, the earlier history of that rite, why the rite is to be done, what fruit is obtained if it is done in a particular way, the fault that arises if it is not done according to rule, its expiation, and all such matters. Since the presentation of matters in the two Brāhmaṇas mentioned, the Aitareya and the Kauṣītaki, is more or less the same, and since in the southern country the Kauṣītaki Brāhmaṇa is not particularly current while the Aitareya Brāhmaṇa is in use, we have explained everything concerning the Hotṛ in accordance with the Aitareya Brāhmaṇa.",
+   "Such a Ṛgveda-saṃhitā — most ancient, most profound, most extensive, and the root of all the śāstras — is not easy to publish in simple Kannada with a critical translation. Yet, with the weighty purpose that all people, scholars and laymen alike, may gain growth of knowledge through such a great undertaking and become worthy of the grace of God, His Highness Śrī Jayachamarajendra Wadiyar Bahadur, G.C.B., G.C.S.I., sovereign of the throne of Karnataka, lover of Vedic learning, himself a scholar, beloved of his people and devoted to God, and his Government, are encouraging the publication of this very costly work out of their generous patronage.{{fn: The supplied text has ಉದರಾಶ್ರಯದಿಂದ ('from the shelter of the stomach'), apparently a misreading of ಉದಾರಾಶ್ರಯದಿಂದ ('from generous patronage'); translated as 'generous patronage'.}} This must be called the good fortune of the people of Karnataka. I pray that the Lord of all, the Veda-puruṣa, may bestow upon such generous-minded Sovereign, upon his family, upon the Princess (who bears the mantra-name Gāyatrī, held to be the most important of the Vedic mantras), and upon all his subjects, all wealth — long life, health, prosperity and the other worldly fruits — and, to a still higher degree, spiritual knowledge that leads to the ultimate goal."
+  ],
+  "dateline": [
+   "Mysore",
+   "Nandana year, Śrāvaṇa Śuddha Pañcamī, Sunday",
+   "Date: 27-7-1952"
+  ],
+  "signature": [
+   "Translator:",
+   "H. P. Venkata Rao,",
+   "Asthāna Mahāvidvān."
+  ]
+ },
+ "abbreviations": {
+  "title": "Explanation of the abbreviations",
+  "intro": "The printed abbreviation, the form used in this translation, and the work.",
+  "rows": [
+   [
+    "ಅಥ. ಸಂ.",
+    "Ath. Saṃ.",
+    "Atharvaveda-saṃhitā"
+   ],
+   [
+    "ಆಪ. ಸೂ.",
+    "Āp. Sū.",
+    "Āpastamba Śrauta-sūtra"
+   ],
+   [
+    "ಆಪ. ಧ. ಸೂ.",
+    "Āp. Dh. Sū.",
+    "Āpastamba Dharma-sūtra"
+   ],
+   [
+    "ಆಪ. ಪ. ಸೂ.",
+    "Āp. Pa. Sū.",
+    "Āpastamba Paribhāṣā-sūtra"
+   ],
+   [
+    "ಆ. ಸೂ. / ಆ.",
+    "Ā. Sū.",
+    "Āśvalāyana Śrauta-sūtra"
+   ],
+   [
+    "ಉ. ಸೂ.",
+    "U. Sū.",
+    "Uṇādi-sūtra"
+   ],
+   [
+    "ಋ. ಸಂ.",
+    "Ṛ. Saṃ.",
+    "Ṛgveda-saṃhitā"
+   ],
+   [
+    "ಐ. ಆ.",
+    "Ai. Ā.",
+    "Aitareya Āraṇyaka"
+   ],
+   [
+    "ಐ. ಉ.",
+    "Ai. U.",
+    "Aitareya Upaniṣad"
+   ],
+   [
+    "ಐ. ಬ್ರಾ.",
+    "Ai. Brā.",
+    "Aitareya Brāhmaṇa"
+   ],
+   [
+    "ಛಾ. ಉ.",
+    "Chā. U.",
+    "Chāndogya Upaniṣad"
+   ],
+   [
+    "ಜೈ. ಪೂ. ಸೂ.",
+    "Jai. Pū. Sū.",
+    "Jaimini's Pūrva-mīmāṃsā-sūtra"
+   ],
+   [
+    "ಜೈ. ನ್ಯಾ. ವಿ.",
+    "Jai. Nyā. Vi.",
+    "Jaimini's Nyāyamālā-vistara"
+   ],
+   [
+    "ತಾ. ಬ್ರಾ.",
+    "Tā. Brā.",
+    "Tāṇḍya Mahā-Brāhmaṇa"
+   ],
+   [
+    "ತೈ. ಆ.",
+    "Tai. Ā.",
+    "Taittirīya Āraṇyaka"
+   ],
+   [
+    "ತೈ. ಬ್ರಾ.",
+    "Tai. Brā.",
+    "Taittirīya Brāhmaṇa"
+   ],
+   [
+    "ತೈ. ಸಂ.",
+    "Tai. Saṃ.",
+    "Taittirīya Saṃhitā"
+   ],
+   [
+    "ನಿ.",
+    "Ni.",
+    "Nirukta, Nighaṇṭu"
+   ],
+   [
+    "ಪಾ. ಸೂ.",
+    "Pā. Sū.",
+    "Pāṇini's sūtras"
+   ],
+   [
+    "ಪಾ. ಶಿ.",
+    "Pā. Śi.",
+    "Pāṇinīya Śikṣā"
+   ],
+   [
+    "ಫಿ. / ಫಿ. ಸೂ.",
+    "Phi. / Phi. Sū.",
+    "Phiṭ-sūtra"
+   ],
+   [
+    "ಬ್ರ. ಸೂ.",
+    "Bra. Sū.",
+    "Brahma-sūtra"
+   ],
+   [
+    "ಮ. ಭಾ.",
+    "Ma. Bhā.",
+    "Mahābhārata"
+   ],
+   [
+    "ಮ. ಸ್ಮೃ.",
+    "Ma. Smṛ.",
+    "Manu-smṛti"
+   ],
+   [
+    "ಮೈ. ಸಂ.",
+    "Mai. Saṃ.",
+    "Maitrāyaṇīya Saṃhitā"
+   ],
+   [
+    "ಯಾ. ಸ್ಮೃ.",
+    "Yā. Smṛ.",
+    "Yājñavalkya-smṛti"
+   ],
+   [
+    "ವಾ. ಸಂ.",
+    "Vā. Saṃ.",
+    "Vājasaneyi Saṃhitā"
+   ],
+   [
+    "ವಾ. ಪು.",
+    "Vā. Pu.",
+    "Vāyu-purāṇa"
+   ],
+   [
+    "ವಿ. ಪು.",
+    "Vi. Pu.",
+    "Viṣṇu-purāṇa"
+   ],
+   [
+    "ವೇ. ಸೂ.",
+    "Ve. Sū.",
+    "Vedānta-sūtra"
+   ],
+   [
+    "ಶ. ಬ್ರಾ.",
+    "Śat. Brā.",
+    "Śatapatha Brāhmaṇa"
+   ],
+   [
+    "ಸಾ. ಸಂ.",
+    "Sā. Saṃ.",
+    "Sāmaveda-saṃhitā, etc."
+   ]
+  ],
+  "note": "The printed list gives ಋ. ಸಂ. as 'ಋಗ್ವದ ಸಂಹಿತಾ' (sic). In the supplied text of the volume several of these abbreviations are misread (ಸಿ. for ನಿ. = Ni.; ಮಿ. / ಮ. / ಪು. ಸಂ. for ಋ. ಸಂ. = Ṛ. Saṃ.; ಇ. ಬ್ರಾ. for ಐ. ಬ್ರಾ. = Ai. Brā.); they have been corrected in this edition."
+ },
+ "contents": {
+  "heading": [
+   "॥ Śrīḥ ॥",
+   "Contents of the Fifteenth Volume of the Ṛgveda-saṃhitā"
+  ],
+  "page_note": "Page numbers are the pages of this book."
+ }
+}

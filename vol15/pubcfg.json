@@ -39,5 +39,10 @@
    "heading": "## Sūkta 40 (Maṇḍala 2)"
   }
  ],
- "out": "vol15_full"
+ "out": "vol15_full",
+ "front_en": "vol15/frontmatter_en.json",
+ "contents_en": "vol15/contents_en.json",
+ "contents_target_overrides": {
+  "318": 543
+ }
 }
