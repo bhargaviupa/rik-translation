@@ -5393,6 +5393,93 @@ Savoury Pitu ; sweet Pitu ; we worship you : become our protector.
 
 अविता-तर्पयिता (*avitā-tarpayitā*) — the bhāṣyakāra's explanation is "one who satisfies". *Avitā* may also be understood as "protector": one who removes the affliction of hunger and protects.
 
+### Printed p. 191
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 6] Ṛgveda-saṃhitā 191 (as supplied).*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 2, noted briefly)
+
+स्वादो (*svādo*): being at the beginning of the pāda, no vocative *nighāta* accent; by आमंत्रितस्य— (*āmaṃtritasya—*) (पा. सू. ६-१-१९८ (*pā. sū. 6-1-198*)) the initial syllable is acute. ववृमहे (*vavṛmahe*) (root वृञ् वरणे (*vṛñ varaṇe*)): *laṭ*, first person plural, suffix *mahiṅ*; by टितआत्मनेपादानां टे— (*ṭitaātmanepādānāṃ ṭe—*) (पा सू. ३-४-७९ (*pā sū. 3-4-79*)) the *ṭi* becomes *e*; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) *śluvikaraṇa* and reduplication of the root; the verb-*nighāta* accent. The supplied text then repeats the final word "it comes" once (dropped). अविता (*avitā*) (root अव रक्षणे (*ava rakṣaṇe*)): suffix *tṛc* in the agent sense; by चितः (*citaḥ*) the last syllable is acute. पितो (*pito*): the vocative form of a different noun; since a vocative also precedes, the rule आमंत्रितं पूर्वमविद्यमानवत् (*āmaṃtritaṃ pūrvamavidyamānavat*) (पा. सू. ८-१-७२ (*pā. sū. 8-1-72*)) would make the earlier one count as non-existent, but by नामंत्रिते समानाधिकरणे सामान्यवचनम् (*nāmaṃtrite samānādhikaraṇe sāmānyavacanam*) (पा. सू. ८-१-७९ (*pā. sū. 8-1-79*)) this does not apply; as the head noun is the qualified word and *svādo* the general qualifier, the earlier general word is not treated as absent, so the vocative *nighāta* accent falls on the qualified word. The same holds for the following qualifiers.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> उप॑ नः पित॒वा च॑र शि॒वः शि॒वाभि॑रू॒तिभिः॑ ।
+> म॒यो॒भुर॑द्विषे॒ण्यः सखा॑ सु॒शेवो॒ अद्व॑याः ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> उप । नः । पितो इति । आ । चर । शिवः । शिवाभिः । ऊतिभिः ।
+> मयोभुः । अद्विषेण्यः । सखा । सुशेवः । अद्वयाः ॥ ३ ॥
+
+> *upa | naḥ | pito iti | ā | cara | śivaḥ | śivābhiḥ | ūtibhiḥ |*
+> *mayobhuḥ | adviṣeṇyaḥ | sakhā | suśevaḥ | advayāḥ ‖ 3 ‖*
+
+*[As supplied, a line reading व्याकरणप्रकिया (*vyākaraṇaprakiyā*) stands inside the Pada block where the label of the bhāṣya belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे पितो यतस्त्वं शिवो मंगलः अतः शिवाभिर्मंगलयुक्ताभिरूतिभी रक्षणै-
+> र्नोऽस्माना चर । आगच्छ । आगत्य च मयोभुः सुखस्य भावयिताद्विषेण्योऽद्वेष्य-
+
+> *he pito yatastvaṃ śivo maṃgalaḥ ataḥ śivābhirmaṃgalayuktābhirūtibhī rakṣaṇai-*
+> *rno 'smānā cara | āgaccha | āgatya ca mayobhuḥ sukhasya bhāvayitādviṣeṇyo 'dveṣya-*
+
+### Printed p. 192
+
+*Running head: [192 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1 A. 24. Sū. 187] (as supplied).*
+
+> रसः । प्रियरस इत्यर्थः । सखा सखिवत्प्रियकारी सुशेवोऽत एव सुष्टु सुखकरोऽ-
+> द्वया द्वयरहित उक्तगुण एव न तु तद्विपरीतो भवेत्यर्थः । अथवा दृष्टांत-
+> वादोऽयं । सुशेवोऽद्वया मनःकर्मविसंवादरहितः सखा यथा मयोभुर-
+> द्वेष्यश्च भवति तद्वत्त्वमपि भवेत्यर्थः ॥
+
+*Gist:* O Pito, being auspicious, come to us with auspicious aids, giving delight, not distasteful in flavour, friend-like, well respected, free of duplicity; or: as a sincere friend is.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पितो—पालकवाद ऎलै अन्नवे (*pito—pālakavāda èlai annave*) (O protecting food). शिवः—मंगळात्मकनाद नीनु (*śivaḥ—maṃgaḷātmakanāda nīnu*) (you, auspicious). शिवाभिः—मंगळ करगळाद (*śivābhiḥ—maṃgaḷa karagaḷāda*) (auspicious). ऊतिभिः—रक्षणॆगळॊंदिगॆ (*ūtibhiḥ—rakṣaṇègaḷòṃdigè*) (with aids). नः उप—नम्म समीपक्कॆ (*naḥ upa—namma samīpakkè*) (to us, near). आ च—आगमिसु (*ā ca—āgamisu*) (come). सुशेवः—श्रेष्ठवागि गौरविसल्पडुववनू (*suśevaḥ—śreṣṭhavāgi gauravisalpaḍuvavanū*) (greatly respected); अद्वयाः—मनस्सु मत्तु कर्म इवुगळिगॆ ऐक्यतॆ यन्नु संपादिसिरुववनू (*advayāḥ—manassu mattu karma ivugaḷigè aikyatè yannu saṃpādisiruvavanū*) (one who has brought mind and action into unity); सखा—स्नेहितनू (*sakhā—snehitanū*) (friend); मयोभुः—सुखवन्नुंटुमाडुववनू (*mayobhuḥ—sukhavannuṃṭumāḍuvavanū*) (bringer of happiness); अद्विषेण्यः—द्वेषरहितनू आगु (*adviṣeṇyaḥ—dveṣarahitanū āgu*) (be free of hatred). Alternatively: मयोभुः—संतोषकारकनू (*mayobhuḥ—saṃtoṣakārakanū*) (a giver of delight); अद्विषेण्यः— (*adviṣeṇyaḥ—*) अनिष्टवाद रसरहितनागि (प्रियवाद रसवुळ्ळवनू) (*aniṣṭavāda rasarahitanāgi (priyavāda rasavuḷḷavanū)*) (without unpleasant flavour, i.e. of agreeable flavour); सखा—सुहृत्तिनंतॆ प्रियवन्नुंटुमाडु ववनू (*sakhā—suhṛttinaṃtè priyavannuṃṭumāḍu vavanū*) (doing what is dear like a friend); सुशेवः—(आदुदरिंदले) सेविसलु अर्हनू (*suśevaḥ—(ādudariṃdale) sevisalu arhanū*) (therefore worthy of being served); अद्वयाः—पूज्यनू, ग्राह्यनू आद गुणविल्लदे बेरॆ विधवाद गुणविल्लदवनू (आगु) (*advayāḥ—pūjyanū, grāhyanū āda guṇavillade berè vidhavāda guṇavilladavanū (āgu)*) (without any quality other than the stated worshipful and acceptable one; be so).
+
+*[As supplied, the label line reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O auspicious food, come to us with your auspicious aids; be a giver of delight to the sacrificer, of agreeable flavour free of the unpleasant, doing what is dear like a friend, and therefore worthy of worship and of being served.
+
+**Printed English translation**
+
+Come to us, Pitu, auspicious with auspicious aids ; a source of delight not unpalatable, a friend well respected, and having none (bnt [sic] agreeable properties).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शिवः, शिवाभिः, सुशेवः (*śivaḥ, śivābhiḥ, suśevaḥ*) — the word *śivaḥ* is stated among the twenty names of happiness (नि. ३-१३ (*ni. 3-13*)), so *śivaḥ* means happiness. The bhāṣyakāra explains it as "auspicious". Yāska, in the explanation of the ṛk
+
+अमीवहा वास्तोष्पते विश्वा रूपाण्याविशन् । सखा सुशेव एधि नः । (*amīvahā vāstoṣpate viśvā rūpāṇyāviśan | sakhā suśeva edhi naḥ |*)
+(म. सं. ७-५५-१) (*(ma. saṃ. 7-55-1)*)
+
+explains the word *śeva* as follows: शेव इति सुखनाम (*śeva iti sukhanāma*), "*śeva* is a name of happiness", शिष्यतेर्नकारो नामकरणोऽन्तस्थांतरोपलिंगी (*śiṣyaternakāro nāmakaraṇo 'ntasthāṃtaropaliṃgī*) and विभाषितगुण शिवमित्यस्य भवति (*vibhāṣitaguṇa śivamityasya bhavati*) (a grammatical-etymological remark which the print leaves in this form; not explained further here).
+
+### Printed p. 193
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 6] Ṛgveda-saṃhitā 193 (as supplied).*
+
+(नि. १०-१७) (*(ni. 10-17)*): having stated the sense "happiness" for the word *śeva*, he shows that *śiva* has the same sense. In lexicons the word *śiva* is given the sense "auspicious". There is no objection to saying that whatever produces happiness is auspicious. Hence in the present ṛk both senses, "producing happiness" and "auspicious", are suitable.
+
+मयोभुः (*mayobhuḥ*) — the word *mayaḥ* too, being stated among the twenty names of happiness beginning with शिंबाता, शतरा [?] (*śiṃbātā, śatarā [?]*) (readings uncertain), means happiness. One who produces happiness is named *mayobhuḥ*. The word *mayobhuḥ* in the sense "producing happiness" is used often in the Ṛgveda and in the other Vedas.
+
+अद्विषेण्यः—अद्वेष्यरसः (*adviṣeṇyaḥ—adveṣyarasaḥ*) — "of a flavour not hateful"; that is, not causing hatred, or having a beneficial flavour (taste). The sense is: dear and tasty.
+
+सखा-सखिवप्रियकारी (*sakhā-sakhivapriyakārī*) — "doing what is dear, like a friend". Since a friend always desires one's good and does what is dear, food too is desirable to all and does good; so the sage addresses food, out of great affection, with the respectful word *sakhā*, "friend".
+
+अद्वयाः—द्वयरहितः उक्तगुण एव न तु तद्विपरीतो भवेत्यर्थः (*advayāḥ—dvayarahitaḥ uktaguṇa eva na tu tadviparīto bhavetyarthaḥ*) — the bhāṣyakāra explains in one way: without any quality other than the worshipful and acceptable one; and in another way, अद्वयाः मनःकर्मविसंवादरहितः (*advayāḥ manaḥkarmavisaṃvādarahitaḥ*): free from disagreement between mind and action, that is, doing good wholeheartedly, without being of one kind in mind and another in deed. In worldly dealings it is not impossible to see those who pretend to be friends speak good words with the mouth only and in action do the contrary, harm. Therefore food is praised as having the nature of doing good while remaining of one kind in both mind and action.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 3, noted briefly)
+
+चर (*cara*) (root चर गतिभक्षणयोः (*cara gatibhakṣaṇayoḥ*)): *loṭ*, second person singular; the verb-*nighāta* accent. शिवः (*śivaḥ*) (शीते अस्मिन् सर्वमिति शिवः (*śīte asmin sarvamiti śivaḥ*), root शीज् स्वप्ने (*śīj svapne*)): formed by सर्व निघृष्टरिष्टलष्टशिव— (*sarva nighṛṣṭariṣṭalaṣṭaśiva—*) (उ. सू. १-१५१ (*u. sū. 1-151*)) with the suffix *va*, irregularly. अद्विषेण्यः (*adviṣeṇyaḥ*) (root द्विष अप्रीत् (*dviṣa aprīt*)): the Uṇādi suffix *eṇya*; *nañ* as first member; in a bahuvrīhi, by नञ्सुभ्याम् (*nañsubhyām*) (पा. सू. ६-२-१७२ (*pā. sū. 6-2-172*)) the last syllable of the final member is acute.
+
+*[The supplied text ends with the stray line [13] Vol. 14 (*[13] Vol. 14*); not part of the text.]*
+
 ---
 
-**Progress note:** Done through printed p. 190 (PDF 190). Done through printed p. 190 (Sukta 187 Rik 2, Special Topics continue at avita); [?] on Samhita navrmahe
+**Progress note:** Done through printed p. 193 (PDF 193). Done through printed p. 193 (Sukta 187 Rik 3 complete incl. Special Topics and grammar page); [?] on atijintada, shimbata/shatara
