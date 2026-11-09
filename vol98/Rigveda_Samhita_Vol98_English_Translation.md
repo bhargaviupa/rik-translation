@@ -2367,6 +2367,107 @@ and such ṛks of Mitra and Varuṇa; and in
 
 and such ṛks of the Uṣas deity (the sentence continues; the window ends here).
 
+### Printed p. 80
+
+*Running head: [80 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185]. The window begins inside the Special Topics of Ṛk 5, continuing the note on *yuvatī* from p. 79.*
+
+उत स्वसारा युवती भवंती आदु ब्रुवाते मिथुनानि नाम । (*uta svasārā yuvatī bhavaṃtī ādu bruvāte mithunāni nāma |*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 3-54-7)
+
+in such ṛks this word is used of Heaven and Earth too.
+
+समंते (*samaṃte*) — समानांतिके समानपर्यंते वा (*samānāṃtike samānaparyaṃte vā*): the two worlds Heaven and Earth have one end, or equal extent; that is, the other world is as extensive as one world; the meaning is that the extent of the two is the same. In the Taittirīya Saṃhitā (in the Yajurveda),
+
+अंतर्हितो हि देवलोको मनुष्यलोकात् । (*aṃtarhito hi devaloko manuṣyalokāt |*)
+
+(Tai. Saṃ. [printed ತೈ. ಸಂ.] 6-1-1.1)
+
+it is said that the human world (the earth) and the divine world (heaven) are woven into each other; that is, the earth and heaven (the atmosphere) are of equal extent.
+
+स्वसारा (*svasārā*) — परस्परं स्वसृभूते (*parasparaṃ svasṛbhūte*): here the use of the word *svasṛ* does not indicate "sisters", but is meant to say "loving each other like sisters and of the same position (rank)". The words *yuvatī*, *samante* and *svasārā* of the present ṛk are words that indicate the same sense as the epithets of Heaven and Earth in the seventh ṛk, दूरेअंते (*dūreaṃte*) and so on:
+
+समान्या वियुते दूरे अंते ध्रुवे पदे तस्थतुर्जागरूके । (*samānyā viyute dūre aṃte dhruve pade tasthaturjāgarūke |*)
+उत स्वसारा युवती भवंती आदु ब्रुवाते मिथुनानि नाम ॥ (*uta svasārā yuvatī bhavaṃtī ādu bruvāte mithunāni nāma ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 3-54-7)
+
+and are found in such ṛks.
+
+जामि (*jāmi*) — those who are related to each other. It is explained that because Prajāpati alone created Heaven and Earth at one time, there is mutual kinship. The word जामि (*jāmi*) is read among the names of water (Ni. 2-24), but here the bhāṣyakāra has taken the sense "kinship". Yāska in his Nirukta says:
+
+न जामयो भगिन्यै । जामिरन्येऽस्यां जनयंति जामपत्यं । जमतेर्वा (*na jāmayo bhaginyai | jāmiranye 'syāṃ janayaṃti jāmapatyaṃ | jamatervā*)
+स्याद्गतिकर्मणो निर्गमनप्राया भवति ॥ (*syādgatikarmaṇo nirgamanaprāyā bhavati ‖*)
+
+(Ni. 3-7 [the print has "ಸಿ."])
+
+that is, the word *jāmi* means *bhaginī* (sister), because in this woman others, that is, the husband, beget sons, she is called *jāmi*; or because the word *jāmi* has the sense of going (that is, after marriage this woman leaves the house of the father who begot her and goes to the house of her husband (printed so)),
+
+### Printed p. 81
+
+*Running head: [Ā. ೨. Ā. ೫. Va. ೩.] Ṛgveda-saṃhitā 81 (the print has "ಅ." as supplied; the varga number reads ೩).*
+
+the sister is called *jāmi*: so he has stated the derivation. It is fitting that in this ṛk the general sense "kinship" is stated.
+
+पित्रोः उपस्थे (*pitroḥ upasthe*) — पित्रोः सर्वस्य पितृस्थानिययोः पालकयोस्तयोरुपस्थ उत्संगे स्थितं । (*pitroḥ sarvasya pitṛsthāniyayoḥ pālakayostayorupastha utsaṃge sthitaṃ |*): the word is explained as "in the lap of these Heaven and Earth, who are like father and mother protectors of all beings in the world". On the point that Heaven and Earth are the parents of the world,
+
+उरुव्यचसा महिनी असश्चता पिता माता च भुवनानि रक्षतः । (*uruvyacasā mahinī asaścatā pitā mātā ca bhuvanāni rakṣataḥ |*)
+
+(Ṛ. Saṃ. [printed ಋ. ಸಂ.] 1-160-2)
+
+तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः । (*tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tatpitā dyauḥ |*)
+
+(Ṛ. Saṃ. 1-89-4)
+
+इदं व्यावापृथिवी सत्यमस्तु पितर्मातर्यदिहोपब्रुवे वां । (*idaṃ vyāvāpṛthivī satyamastu pitarmātaryadihopabruve vāṃ |*)
+
+(Ṛ. Saṃ. 1-185-11 [the print has "ವ್ಯಾವಾಪೃಥಿವೀ" in the verse, as supplied])
+
+आ सुष्टुती नमसा वर्तयध्यै द्यावा वाजाय पृथिवी अमृध्रे । (*ā suṣṭutī namasā vartayadhyai dyāvā vājāya pṛthivī amṛdhre |*)
+षिता माता मधुवचाः सुहस्ता भरेभरे नो यशसावविष्टां ॥ (*ṣitā mātā madhuvacāḥ suhastā bharebhare no yaśasāvaviṣṭāṃ ‖*)
+
+(Ṛ. Saṃ. 5-43-2)
+
+in many such ṛks it is described that the earth is the mother of the whole world and heaven (the atmosphere) the father. As parents seat their sons on their lap, so the seer describes that Heaven and Earth, the parents of the world, hold on their lap, that is, in the atmosphere, for the nourishment of the world, the water of the clouds that has been collected for rain, which stands in the position of a son.
+
+अभिजिघ्रंती (*abhijighraṃtī*) — अभिघ्राणं कुर्वंत्यौ, स्पृशंत्यौ । (*abhighrāṇaṃ kurvaṃtyau, spṛśaṃtyau |*): "those who smell", that is, "who touch", is Sāyaṇa's explanation. But this sense does not fit here, and why the seer has used this word, and what his intention is, cannot be clearly understood. Since this word is used nowhere else in the Ṛgveda, it is not possible to know what the opinion of other seers on the sense of the word was. Probably, since it is seen here and there that in the world people smell an object that is dear to them and keep it safe with themselves, the seer's intention may be that these Heaven and Earth lovingly hold within themselves the water in the mass of clouds for the use of people.
+
+भवनस्य नाभिं (*bhavanasya nābhiṃ*) — the word भुवनशब्दवु (*bhuvanaśabdavu*) is read among the names of water (Ni. 2-24). And,
+
+*[A stray line "[6] Vol. 14", a page-footer artefact, follows in the supplied text.]*
+
+### Printed p. 82
+
+*Running head: [82 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185].*
+
+नीचीनबारं वरुणः कवंधं प्र ससर्ज रोदसी अंतरिक्षं। (*nīcīnabāraṃ varuṇaḥ kavaṃdhaṃ pra sasarja rodasī aṃtarikṣaṃ|*)
+तेन विश्वस्य भुवनस्य राजा वयं न वृष्टिवर्व्युनत्ति भूम ॥ (*tena viśvasya bhuvanasya rājā vayaṃ na vṛṣṭivarvyunatti bhūma ‖*)
+
+(Ṛ. Saṃ. [printed ಮ ಸಂ] 5-85-3)
+
+for the word भुवनस्य (*bhuvanasya*) in this ṛk Yāska has given the derivation यास्करु-सर्वस्य भुवसन्य (भूतजातकस्योदकस्य वा) ऎंदु (*yāskaru-sarvasya bhuvasanya (bhūtajātakasyodakasya vā) èṃdu*) (Ni. 10-4); *bhuvana* means "the world" or "the beings of the world". But here the bhāṣyakāra has taken only the sense "water". For the word नाभि (*nābhi*) Yāska
+
+संबंधनान्नाभिः सन्नहनान्नाभ्या सन्नद्धा गर्भा जायंत इत्याहुरेतस्मादेव (*saṃbaṃdhanānnābhiḥ sannahanānnābhyā sannaddhā garbhā jāyaṃta ityāhuretasmādeva*)
+ज्ञातीन् सनाभय इत्याचक्षते । (*jñātīn sanābhaya ityācakṣate |*)
+
+(Ni. [printed ೩. ೪-೨೦ ])
+
+has given the derivation; that is, the word *nābhi* may be given the sense "the central region that binds together". Sāyaṇa, in explaining the ṛk
+
+पृच्छामि त्वा परमंतं पृथिव्याः पृच्छामि यत्र भुवनस्य नाभिः । (*pṛcchāmi tvā paramaṃtaṃ pṛthivyāḥ pṛcchāmi yatra bhuvanasya nābhiḥ |*)
+
+(Ṛ. Saṃ. 1-164-34)
+
+says भुवनस्य भूतजातस्य नाभिः संनाहो बंधनं । यत्र सर्वं संनद्धं भवति तमित्यर्थः (*bhuvanasya bhūtajātasya nābhiḥ saṃnāho baṃdhanaṃ | yatra sarvaṃ saṃnaddhaṃ bhavati tamityarthaḥ*), that is, that in which everything gathers and joins is called *nābhi*. In the present ṛk the intention is the water of the clouds gathered together in one place for the sake of rain, that is, the gathered water.
+
+*[As supplied, the label line of the grammar page reads ವ್ಯಾಕೆತಪ್ರಕ್ರಿಯಾ; standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+संगच्छमाने (*saṃgacchamāne*) (root गम्‌ल्य गतौ. (*gamlya gatau.*), "to go"): because the prefix *sam* is joined, by समोगमृ- च्छिभ्याम् (*samogamṛ- cchibhyām*) (Pā. Sū. 1-3-29) the middle voice; the present-participle substitute *śānac*; by the rule तास्यनुदात्तेत् (*tāsyanudāttet*) the present-tense suffix is unaccented and the accent of the root remains; in the compound the accent of a word ending in a *kṛt* suffix; in the feminine, because it ends in *a*, *ṭāp*. युवती (*yuvatī*): by यूनस्तिः (*yūnastiḥ*) (Pā. Sū. 4-1-77) the suffix *ti* after the word *yuvan* in the feminine; by अन् (*an*) (Pā. Sū. 6-4-167) it keeps its original form, so the elision of *ṭi* does not occur; by नलोवति प्रातिपदिकांतस्य (*nalovati prātipadikāṃtasya*) (Pā. Sū. 8-2-7) elision of the *n*; by the suffix accent, last-syllable acute; when a dual follows, by सुपां सुलुक् (*supāṃ suluk*) lengthening to the preceding class vowel. समंते (*samaṃte*) ("those two of which the nearness is the same"): elision of the *k* of the word *antika*; by समानस्य छंदस्य (*samānasya chaṃdasya*) (Pā. Sū. 6-3-84) the substitute *sa* for the word *samāna*; by the rule हौप्रकृत्या (*hauprakṛtyā*) (Pā. Sū. 6-2-1) the accent of the first member is retained.
+
+*[The window ends here, within the grammar page.]*
+
 ---
 
-**Progress note:** Done through printed p. 79 (PDF 79). Rik 5 Special Topics: saṃgacchamāne, creation of heaven and earth in Brahmana and Rik quotations, marriage of heaven and earth, yuvatī (continues on next page)
+**Progress note:** Done through printed p. 82 (PDF 82). Rik 5 Special Topics: yuvati to nabhi; Rik 5 grammar page begins (continues on next page)
