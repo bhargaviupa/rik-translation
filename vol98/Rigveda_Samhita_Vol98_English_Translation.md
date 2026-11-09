@@ -1398,6 +1398,98 @@ In this ṛk, Agni, who is born of heaven and earth, of the waters, of the creat
 
 *[The window ends here; the page ends with a stray line ":0:" in the supplied text.]*
 
+### Printed p. 47
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2] Ṛgveda-saṃhitā 47. The window begins at the first page of the next sūkta; the printed text of Sūkta 184 ends with the Special Topics of p. 46, and no separate colophon is printed for it.*
+
+The hundred and eighty-fifth sūkta.
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> कतरा पूर्वत्येकादशर्चं षष्ठं सूक्तमागस्त्यं त्रैष्टुभं । कतरैकादश
+> द्यावापृथिवीयमित्यनुक्रांतं ॥ अभिप्लविके षष्ठेऽहनि वैश्वदेवशस्त्रे द्यावापृथिव्य-
+> निविद्वानमिदं । तृतीयस्येति खंडे सूत्रितं । कतरा पूर्वोषासानक्तेति वैश्वदेवं ।
+> आ. ७-७ । इति ॥ महाव्रतेऽपि वैश्वदेवशस्त्र इदमेव द्यावापृथिव्यनिविद्वानं । उत्त-
+> मादाभिप्लविकात्तृतीयसवनं ।ऐ. आ ५-३-२ । इत्यतिदेशात् ॥
+
+*Gist:* *katarā pūrvā* is the sixth sūkta of Anuvāka 24, of eleven ṛks, by Agastya, to Dyāvāpṛthivī, in *triṣṭubh*; it is used in the Vaiśvadeva-śastra of the sixth day of the Abhiplava and of the Mahāvrata.
+
+**Anuvāda (Kannada).** The sūkta beginning with कतरा पूर्वा (*katarā pūrvā*) is the sixth sūkta in the twenty-fourth anuvāka. It has eleven ṛks. Agastya is the seer of this sūkta; Dyāvāpṛthivī (Heaven and Earth) is the deity; the metre is *triṣṭubh*. In the Anukramaṇikā it is said कतरैकादश द्यावापृथिवीयं ऎंदु (*kataraikādaśa dyāvāpṛthivīyaṃ èṃdu*) (as supplied). The application is as explained in the sūtra of the Āśvalāyana Śrauta Sūtra, in the section beginning तृतीयस्य (*tṛtīyasya*), by the sūtra कतरापूर्वोषासानक्केति वैश्वदेवं (*katarāpūrvoṣāsānakketi vaiśvadevaṃ*) (Aś. 7-7 [as printed]): this sūkta is applied to the *nivid* mantras praising Heaven and Earth when the mantras of the Vaiśvadeva-śastra are recited on the sixth day of the Abhiplava sacrifice. And in the Mahāvrata, when the Vaiśvadeva-śastra mantras are recited, the application of this sūkta to the *nivid* mantras concerning Heaven and Earth is specified by the sentence of the Aitareya Āraṇyaka (Ai. 5-3-2) उत्तमादाभिप्लविकात्कृतीयसवनं (*uttamādābhiplavikātkṛtīyasavanaṃ*).
+
+*[A stray line "-2018" follows the heading lines in the supplied text.]*
+
+**Sūkta—185**
+
+Maṇḍala 1 ‖ Anuvāka 24 ‖ Sūkta 185 ‖
+Aṣṭaka 2 ‖ Adhyāya 5 ‖ Varga 2-3 [as printed] ‖
+Number of ṛks in the Sūkta: 11 ·
+Ṛṣi: Agastya · Devatā: Dyāvāpṛthivī · Chandas (printed चंदः—त्रिष्टुप् (*caṃdaḥ—triṣṭup*)): *triṣṭubh*.
+
+### Printed p. 48
+
+*Running head: [48 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185].*
+
+#### Ṛk 1
+
+*[The Saṃhitā and Pada of this ṛk were a picture in the supplied text; the picture was read and agrees with the machine text, which has been used with the lines joined.]*
+
+**॥ संहितापाठः ॥**
+
+> क॒त॒रा पूर्वा॑ कत॒राप॑रा॒योः क॒था जा॒ते क॑वयः॒ को वि वे॑द ।
+> विश्वं॒ त्मना॑ बिभृतो॒ यद्ध॒ नाम॒ वि व॑र्तेते॒ अह॑नी च॒क्रि ये॑व ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> कतरा । पूर्वा । कतरा । अपरा । अयोः । कथा । जाते इति । कवयः । कः । वि वेद ।
+> विश्वं । तना । बिभृतः । यत् । ह । नाम । वि । वर्तेते इति । अहनी इति । चक्रिया इव ॥ १ ॥
+
+> *katarā | pūrvā | katarā | aparā | ayoḥ | kathā | jāte iti | kavayaḥ | kaḥ | vi veda |*
+> *viśvaṃ | tanā | bibhṛtaḥ | yat | ha | nāma | vi | vartete iti | ahanī iti | cakriyā iva ‖ 1 ‖*
+
+*[As supplied, the label line of the next section reads सयणभाष्यं (*sayaṇabhāṣyaṃ*) (inside the Pada block); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> अयोरेनयोर्द्यावापृथिव्योर्मध्यॆ कतरा पूर्वा पूर्वमुत्पन्ना । कतरा
+> वापरा पश्चाद्भाविनी । एवं पौर्वापर्यप्रश्नः । उभयोरविनाभावेन सहैव वर्त-
+> मानत्वादिति भावः । तथा कथा केन हेतुना जाते । किमनयोरुत्पादनमित्यर्थः ।
+> हे कवयः क्रांतदर्शिनोऽतींद्रियज्ञाः यूयं वदत को वि वेद। पौर्वापर्य०
+> कारणं च विशेषेण विविच्य वा जानाति । न केनापि ज्ञायत इत्यर्थः । अज्ञाने कारण-
+> माह । यद्ध यस्मात्पलु हेतोर्नाम प्रसिद्धं विश्वं कृत्समपि जगदविशेषेण त्मनात्म
+> नैवान्यनैरपेक्ष्येण बिभृतः धारयतः । यद्वा । यद्द नाम यत्किंचित्वदार्थजात-
+> मस्ति विश्वं तत्सर्वमात्मना बिभृतः । अनेन यत्कारणं ब्रूमस्तदप्याभ्यामेव भियत
+> इति कारणाभावः प्रतिपादितः । उत्तरेण पौर्वापर्यभाव उच्यते । अहनी एते
+> द्यावापृथिव्यौ चक्रियेव चक्रयुक्ते इव वि वर्तेते । अत्र कतरा पूर्वा कतरास-
+> रैनयोरित्यादि निरुक्तं द्रष्टव्यं । नि. ३-२२ ॥
+
+*Gist:* Which of heaven and earth came first, which later, and how were they born? O seers, who knows? They uphold the universe unaided; day and night revolve like wheeled things.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अयोः (*ayoḥ*) — of these two, heaven and earth. कतरा (*katarā*) — which. पूर्वा (*pūrvā*) — was born first. कतरा (*katarā*) — which. अपरा (*aparā*) — was born afterwards. कथा (*kathā*) — from what material cause. जाते (*jāte*) — these two were born. कवयः (*kavayaḥ*) — O seers who see beyond ordinary sight. कः (*kaḥ*) — who indeed. वि वेद (*vi veda*) — has fully known this principle. यद्ध (*yaddha*) — whatever aggregate of things can be called their cause. विश्वं (*viśvaṃ*) — the whole universe comprising all those things. त्मना (*tmanā*) — (heaven and earth, needing no other help) by themselves. बिभृतः (*bibhṛtaḥ*) — uphold. अहनी (*ahanī*) — (belonging to these) day and night also. चक्रिया इव (*cakriyā iva*) — as if provided with wheels. वि वर्तेते (*vi vartete*) — are revolving in the form of recurrence.
+
+### Printed p. 49
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2.] Ṛgveda-saṃhitā 49. The Pratipadārtha continues across the page boundary.*
+
+*[As supplied, the label line of the next section reads भाषार्ध]* (*bhāṣārdha]**); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Which of these two, Heaven and Earth, was born first? Which was born afterwards? From what material cause were these two born? O seers who see beyond ordinary sight, who indeed has fully known this principle? The whole universe, comprising all the things that can be called the cause of these, Heaven and Earth uphold by themselves, without needing any other help; and day and night, which belong to them, revolve in the form of recurrence as if provided with wheels.
+
+**Printed English translation**
+
+Which of these two, (Heaven and Earth), is prior, which posterior ? how were they engendered ? (declare), sages, who knows this ? Verily, you uphold the Universe of itself, and the days (and nights) revolve as if they had wheels.
+
+*[As supplied, the label line of the next section reads विजे विषयगळु]* (*vije viṣayagaḷu]**); standard label inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In stating the application of this sūkta, Sāyaṇa cites अभिप्लविके षष्ठेऽहनि वैश्वदेवशस्त्रे द्यावापृथिव्यनिविद्दानमिदं” (*abhiplavike ṣaṣṭhe 'hani vaiśvadevaśastre dyāvāpṛthivyanividdānamidaṃ”*) (as printed) and “महाव्रतेपि वैश्वदेवशस्त्रे इदमेव द्यावा- पथिव्यनिविद्दानं ” (*“mahāvratepi vaiśvadevaśastre idameva dyāvā- pathivyanividdānaṃ ”*) (as printed), and the Āśvalāyana sūtra ((आ-श्रौ-७-७) (*(ā-śrau-7-7)*)), saying that the recitation is prescribed for the Vaiśvadeva-śastra both in the Abhiplava and in the Mahāvrata. If mantras praising Heaven and Earth are to be recited at the time of the rite called Abhiplava and at the Mahāvrata, one must know what these two rites are and what the importance of reciting these mantras at that time is. The root प्लु (*plu*) meaning "to go", with the prefix अभि (*abhi*), gives the sense "to cross", and its use in this sense is quite usual. In the same way, when the word अभिप्लव (*abhiplava*) has a technical use connected with a rite, it gives the same purport, the śruti (the sentence continues on the next page).
+
+*[A stray line "[4] Vol. 14", a page-footer artefact, ends p. 49 in the supplied text.]*
+
 ---
 
-**Progress note:** Done through printed p. 46 (PDF 46). Rik 5 grammar end; Rik 6 complete (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English); Special Topics on devayana/pitryana (continues on next page)
+**Progress note:** Done through printed p. 49 (PDF 49). Sukta 185 begins: introduction, Rik 1 complete (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English); Special Topics begin (abhiplava; continues on next page)
