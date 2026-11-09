@@ -106,6 +106,100 @@ Number of ṛks in the Sūkta: 6 ·
 
 *Gist so far:* the Aśvins, famed as protectors, are invoked today, and on another day too, at dawn when Uṣas dispels the darkness; the bhāṣya continues on the next page ("O Nāsatyas ... lords of heaven").
 
+### Printed p. 5
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1] Ṛgveda-saṃhitā, p. 5.*
+
+#### Ṛk 1 (continued)
+
+**Sāyaṇa-bhāṣya** (continued from p. 4; the block begins mid-sentence)
+
+> नपातयितारौ नप्तस्थानीयौ ना कुह चित्संतौ कुत्रचिद्देशे वर्तमानौ युवां वह्निः
+> स्तुतेर्पोढार्य ईरयिता स्तुतेरीश्वरो वा ईदृशोऽहं होता सुदास्तराया-
+> त्यर्थं शोभनहनिर्दात्रे यजमानाय तदर्थं तौ युवामुक्थैः शस्त्रैर्हुवेमेति
+> संबंधः । अत्राख्यातं पदमेकवचनतया नेतव्यं । वह्निरर्यशब्दौ वा बहुवचनत्वेन
+> नेतव्या । अथवा वाक्यद्वयं । यस्माद्वह्निरर्यो होतोक्तगुणकौ युवां शंसति
+> तस्माद्वयं यजमानास्तौ युवामाह्वयाम इति ॥
+
+*Gist (whole bhāṣya of Ṛk 1):* O Nāsatyas, wherever you are, I, the Hotṛ, bearer and impeller of praise, invoke you with śastra-hymns, today and on other days at dawn, for the generous sacrificer.
+
+*[The label line of the next block reads, as supplied, १ प्रतिपदार्थ १]* (*1 pratipadārtha 1]**); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नासत्या (*nāsatyā*) — O Aśvin deities free from untruth. ता वां (*tā vāṃ*) — you, who are famed as protectors. अद्य (*adya*) — on this day of the sacrifice. उषसि (*uṣasi*) — when the Uṣas deity. उच्छंत्यां (*ucchaṃtyāṃ*) — at the time of dispelling the darkness. हुवेम (*huvema*) — we call, praying (and likewise) अपरं (*aparaṃ*) — on other sacrifice days also, ता (*tā*) — we call those two. दिवः नपाता (*divaḥ napātā*) — O Aśvin deities, grandsons of the heavenly world. कुह चित् संतौ (*kuha cit saṃtau*) — wherever you may be. वह्निः (*vahniḥ*) — I, the bearer of praise, अर्यः (*aryaḥ*) — and the impeller of praise (the Hotṛ), सुदास्तराय (*sudāstarāya*) — for the sacrificer who offers excellent oblations, उक्षैः (*ukṣaiḥ*) — call with śastra mantras, praying.
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, grandsons of the heavenly world and free from untruth, you who are famed as protectors: on this day of the sacrifice, at the time when the Uṣas deity dispels the darkness, and also on other sacrifice days, wherever you may be, I, the bearer and impeller of praise (the Hotṛ), pray to you and call you with mantras in the form of śastras, for the sacrificer who offers excellent oblations.
+
+**Printed English translation**
+
+We invoke you two, (Ashwins), to-day ; the same two on any other day : when the morning dawns. Nasatyas, grandsons of heaven, wherever you may be, the pious reciter (of the hymn) invokes you with praises on behalf of the liberal donor (of the offering).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The nature of the morning litany (*prātaranuvāka*) and of the śastra mantras, the occasion of reciting them, who must recite them, the time of recitation and other details, we have explained earlier, that is, in No. 1 of the Ṛ. Saṃ. part [as supplied: "ಋ. ಸಂ. ಭಾಗದ ೧ ರಲ್ಲಿ"].
+
+### Printed p. 6
+
+*Running head: [6 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184].*
+
+The Sāyaṇa-bhāṣya has stated that this sūkta has an application in the morning-litany Āśvina-śastra mantras. The story connected with the Āśvina-śastra is told in the Aitareya Brāhmaṇa as follows.
+
+प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्यै सर्वे (*prajāpatirvai somāya rājñe duhitaraṃ prāyacchatsūryāṃ sāvitrīṃ tasyai sarve*)
+देवा वरा आगच्छंस्तस्या एतत्सहस्रं वहतुमन्वाकरोद्यदेतदाश्विनमित्या- (*devā varā āgacchaṃstasyā etatsahasraṃ vahatumanvākarodyadetadāśvinamityā-*)
+चक्षतेऽनाश्विनं हैव तद्यदर्वाक्सहस्रं तस्मात्तत्सहस्रं वैव शंसेद्भूयो वा (*cakṣate 'nāśvinaṃ haiva tadyadarvāksahasraṃ tasmāttatsahasraṃ vaiva śaṃsedbhūyo vā*)
+प्राश्य धृतं शंसेद्यथा ह वा इदमनो वा रथो वाक्तो वर्तत एवं है (*prāśya dhṛtaṃ śaṃsedyathā ha vā idamano vā ratho vākto vartata evaṃ hai*)
+वाक्तो वर्तते । शकुनिरिवोत्पतिष्यन्नाह्वयीत । (*vākto vartate | śakunirivotpatiṣyannāhvayīta |*)
+
+(Ai. Brā. 17-1 [the print has "ಇ ಬ್ರಾ." as supplied])
+
+Formerly Prajāpati resolved to give his daughter Sūryā to King Soma in marriage, and then all the gods came with the wish of choosing her. Prajāpati then fixed a rule that the thousand mantras known as the Āśvina-śastra must be recited and that they must not fall short of that. As in the world a chariot wheel moves easily after it has been oiled, mantras can be recited easily after drinking ghee; so one must first drink ghee and then recite. And as a bird makes its body light when it is ready to fly, the suitor who woos her must also have that quality, he said.
+
+तस्मिन्देवा न समजानत ममेदमस्तु ममेदमस्त्विति ते संजानाना अब्रु- (*tasmindevā na samajānata mamedamastu mamedamastviti te saṃjānānā abru-*)
+वन्नाजिमस्यायामहै स यो न उज्वेष्यति तस्येदं भविष्यतीति तेऽग्नेरे- (*vannājimasyāyāmahai sa yo na ujveṣyati tasyedaṃ bhaviṣyatīti te 'gnere-*)
+वाधि गृहपतेरादित्यं काष्ठामकुर्वत तस्मादाग्नेया प्रतिपद्भवत्याश्विन- (*vādhi gṛhapaterādityaṃ kāṣṭhāmakurvata tasmādāgneyā pratipadbhavatyāśvina-*)
+स्याग्निर्होता गृहपतिः स राजेति । (*syāgnirhotā gṛhapatiḥ sa rājeti |*)
+
+(Ai. Brā. 17-1 [as supplied "ಇ. ಬ್ರಾ."])
+
+Then the gods, not wishing to fight one another, together decided that all should take part in a contest and that whoever won in that contest would be entitled to choose her. Then they ran from Agni, the household lord (*gṛhapati*), up to Sūra [as supplied].
+
+तासां वै देवतानामाजिं धावंतीनामभिसृष्टानामग्निर्मुखं प्रथमः (*tāsāṃ vai devatānāmājiṃ dhāvaṃtīnāmabhisṛṣṭānāmagnirmukhaṃ prathamaḥ*)
+प्रत्यपद्यत तमश्विनावन्वागच्छतां तमब्रूतामपोदिह्यावां वा इदं (*pratyapadyata tamaśvināvanvāgacchatāṃ tamabrūtāmapodihyāvāṃ vā idaṃ*)
+जेष्याव इति स तथेत्यब्रवीत्तस्य वै ममेहाप्यस्त्विति तथेति तस्मा अप्यत्रा- (*jeṣyāva iti sa tathetyabravīttasya vai mamehāpyastviti tatheti tasmā apyatrā-*)
+कुरुतां तस्मादाग्नेयमाश्विने शस्यते । (*kurutāṃ tasmādāgneyamāśvine śasyate |*)
+
+(Ai. Brā. 17-2 [as supplied "ಇ ಬ್ರಾ."])
+
+While all the gods were taking part in this contest and running, Agni got ahead of everyone. Then the Aśvin deities approached Agni and asked: "Give us the way; let us win in this contest; help us." Then Agni agreed, but asked that a share of the victory be given to him as well. For that very reason he too has a share in the Āśvina-śastra mantras.
+
+### Printed p. 7
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1] Ṛgveda-saṃhitā, p. 7.*
+
+In this context another objection is stated, and its answer is given.
+
+तदाहुर्यच्छस्यत आग्नेयं शस्यत उषस्यं शस्यत ऐंद्रमथ कस्मादेतदाश्विन- (*tadāhuryacchasyata āgneyaṃ śasyata uṣasyaṃ śasyata aiṃdramatha kasmādetadāśvina-*)
+मित्याचक्षत इत्यश्विन् । हि तदुदजयतामश्विनावाश्नुवातां यदश्विना उद- (*mityācakṣata ityaśvin | hi tadudajayatāmaśvināvāśnuvātāṃ yadaśvinā uda-*)
+जयतामश्विनावाश्नुवातां तस्मादेतदाश्विनमित्याचक्षते । (*jayatāmaśvināvāśnuvātāṃ tasmādetadāśvinamityācakṣate |*)
+
+(Ai. Brā. 17-2)
+
+Since in this context mantras addressed to Agni, to Indra and to Uṣas also have to be recited, the objection arises how the name Āśvina-śastra came to all of these; the answer is that, because this is recited mainly with reference to the victory of the Aśvin deities, these mantras have this name.
+
+In this context it is necessary to explain what the *prātaranuvāka* is. In performing the Agniṣṭoma sacrifice, the day on which the soma juice is pressed is called the *sutyā* or *stutyā* day. On the morning of this day, before sunrise, as soon as the Adhvaryu recites the *praiṣa* mantra देवेभ्यः (*devebhyaḥ*) प्रातरावभ्यो होतरनुब्रूहि (*prātarāvabhyo hotaranubrūhi*), the Hotṛ recites certain mantras. These are called *prātaranuvāka* mantras. The Hotṛ must recite these *prātaranuvāka* mantras. This is said in the Aitareya Brāhmaṇa itself: देवेभ्यः प्रातरावभ्यो होतरनुब्रूहीत्या- (*devebhyaḥ prātarāvabhyo hotaranubrūhītyā-*) हाध्वर्युः (*hādhvaryuḥ*) (Ai. Brā 2. 15).
+
+The procedure which the Hotṛ follows in reciting the *prātaranuvāka* mantras is now explained in detail. The Adhvaryu, who holds the chief ṛtvik office in the sacrifice, has to say again and again to the other ṛtviks, "You must do such and such a work"; such sentences are called *praiṣas*. In the present context the Adhvaryu addresses the Hotṛ: देवेभ्यः (*devebhyaḥ*) प्रातरावभ्यो होतरनुब्रूहि (*prātarāvabhyo hotaranubrūhi*), "O Hotṛ, recite the *prātaranuvāka* mantras addressed to the gods", he says. Then the Hotṛ goes near the fire-pit called अग्नीध्रवॆंब (*agnīdhravèṃba*) (*Āgnīdhra*), and there, for purification of speech (वाक्युद्धिगागि (*vākyuddhigāgi*) as supplied), he offers with the prescribed mantras one oblation of ghee, and in the Āhavanīya fire two oblations of ghee. Then he enters the hall called हविर्धानवॆंब (*havirdhānavèṃba*) (*havirdhāna*) by the eastern door, sits near the yoke of the carts there, and first recites this mantra.
+
+आपो रेवतीः क्षयथा हि वस्वः क्रतुं च भद्रं बिभृतामृतं च । (*āpo revatīḥ kṣayathā hi vasvaḥ kratuṃ ca bhadraṃ bibhṛtāmṛtaṃ ca |*)
+रायश्च स्थ स्वपत्यस्य पत्निः सरस्वती तद्गृणते वयो धात् ॥ (*rāyaśca stha svapatyasya patniḥ sarasvatī tadgṛṇate vayo dhāt ‖*)
+
+(Pu. Saṃ. 10. 30. 12. [as supplied: "ಪು. ಸಂ."])
+
+*[The window ends here; the account of the prātaranuvāka recitation continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 4 (PDF 4). Adhyaya 5 introduction, Sukta 184 heading, Rik 1 Samhita/Pada and start of bhashya (continues on next page)
+**Progress note:** Done through printed p. 7 (PDF 7). Rik 1 bhashya end, Pratipadartha, Bhavartha, English, Special Topics (Ashvina-shastra story, pratar-anuvaka; continues on next page)
