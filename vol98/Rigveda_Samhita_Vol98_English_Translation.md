@@ -9677,6 +9677,117 @@ The page explains: सुप्रैतु: (*supraitu:*) (root *iṇ* of motio
 
 As men surround their masters, and as rivers flowing between two banks flow towards the sea following one course, so all the praises join and surround that Bṛhaspati, who, being wise and desiring water... (the supplied text breaks off here, in the middle of the sentence, at जलाकांक्षि (*jalākāṃkṣi*), at the end of the window).
 
+### Printed p. 328
+
+*Running head (as supplied): [328 सायणभाष्यसहिता [ मं. १. अ. २४. सू. १९०] (*[328 sāyaṇabhāṣyasahitā [ maṃ. 1. a. 24. sū. 190]*).*
+
+*(Continuation of the Bhāvārtha of Ṛk 7 of Sūkta 190, from the end of the previous page.)*
+
+...being wise and desiring water, standing in the middle, meditates on the manner of crossing the want of water and on the water, and brings about the increase of water.
+
+**Printed English translation**
+
+To whom praises (necessarily) proceed, as men (assemble round a master); as rivers, rolling between their banks, flow to the ocean: that wise Brihaspati, greedy (after rain), and stationary in the midst, contemplates both (the ferry and the water),
+
+*[The printed English reads "contem- plates" with a hyphen and space inside one line of the supplied text; joined as "contemplates". The printed English ends with a comma, as supplied.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 7)**
+
+This ṛk सं यं स्तुभः (*saṃ yaṃ stubhaḥ*) is explained by the Āśvalāyana Śrauta-sūtra, in the sūtra सं यं स्तुभोऽवनयो न यंत्येवा पित्रे (*saṃ yaṃ stubho 'vanayo na yaṃtyevā pitre*), as to be used as the *yājyā* mantra in the *puroḍāśa* offering of the animal sacrifice addressed to Bṛhaspati.
+
+The meaning of this ṛk too is not clear. For in the first half the words अवनयो न (*avanayo na*), and in the second half the words उभयं (*ubhayaṃ*), अंतः (*aṃtaḥ*) and तरः आपः (*taraḥ āpaḥ*), do not get a proper meaning.
+
+स्तुभः—स्तोभतीति स्तुतिः (*stubhaḥ—stobhatīti stutiḥ*): the word स्तोभति (*stobhati*) is read among the names of worship (नि. ३-१९ (*ni. 3-19*)). Therefore *stubhaḥ* means hymns.
+
+अवनयः—भूमयो मनुष्याः (*avanayaḥ—bhūmayo manuṣyāḥ*): the word *avanayaḥ* is read among the names of the earth (नि २-५ (*ni 2-5*)), among the names of rivers (नि २-२४ (*ni 2-24*)) and among the names of fingers (नि ३-९ (*ni 3-9*)). Here the word *avani* is used in the sense of earth, that is, men who live on the earth. For the words अवनयो न यंति (*avanayo na yaṃti*) in this ṛk Sāyaṇa's explanation is "as men approach their master". How this meaning is possible for these words has to be guessed and fitted; it is not possible to know the intention of the sage with certainty.
+
+रोधचक्रा (*rodhacakrā*): this word is read among the names of rivers (नि. २-२४ (*ni. 2-24*)). The meaning of its parts is of three kinds: the words *rodha* and *cakra*, formed respectively from the two roots रुधिर् आवरणे (*rudhir āvaraṇe*) and डुकृञ् करणे (*ḍukṛñ karaṇe*), combine into the word *rodhacakra*.
+
+(1) रोधस्य निरोधस्य चक्रं करणं कृतिरासां विद्यत इति रोधचक्राः (*rodhasya nirodhasya cakraṃ karaṇaṃ kṛtirāsāṃ vidyata iti rodhacakrāḥ*) । नद्यो वृष्ट्या प्राणिनां स्वैरसंचरणनिरोधकारिण्यः (*nadyo vṛṣṭyā prāṇināṃ svairasaṃcaraṇanirodhakāriṇyaḥ*): rivers, by the water in them, obstruct the movement of creatures; that is, creatures are unable to cross a river full of flowing water; therefore rivers are called *rodhacakrāḥ*.
+
+(2) यद्वा । रोधः तीरं तस्य करणं निर्माणमासां विद्यते तीरवत्यो हि नद्यः । सकारलोपश्चांदसः (*yadvā | rodhaḥ tīraṃ tasya karaṇaṃ nirmāṇamāsāṃ vidyate tīravatyo hi nadyaḥ | sakāralopaścāṃdasaḥ*): or, *rodha* means a bank, a shore; as rivers flow they make banks on both their sides; therefore, since they flow between two banks, rivers are called *rodhacakrāḥ*.
+
+### Printed p. 329
+
+*[Unmarked page break in the supplied text: the running head of printed p. 329 stands inside the text and reads अ. २. अ. ५ व. १३ ] सुग्वेदसंहिता 329 (*a. 2. a. 5 va. 13 ] sugvedasaṃhitā 329*), as printed, with ಸುಗ್ವೇದ [sic].]*
+
+(3) यद्वा । रुध्यतेऽनेन जलप्रवाह इति रोधः शब्दः करणं निर्माणमासां विद्यते (*yadvā | rudhyate 'nena jalapravāha iti rodhaḥ śabdaḥ karaṇaṃ nirmāṇamāsāṃ vidyate*): or, the flow of water running in the river is checked from overflowing by the banks at its sides; since rivers make such banks, they are called *rodhacakrāḥ*.
+
+In the present ṛk, in समुद्रं न स्रवतः रोधचक्राः (*samudraṃ na sravataḥ rodhacakrāḥ*), the comparison is apt: as the flowing rivers join the sea, so the hymns we make join Bṛhaspati.
+
+गृध्रः—गर्धनशिलो वृष्टिमाकांक्षमाणः सः बृहस्पतिः (*gṛdhraḥ—gardhanaśilo vṛṣṭimākāṃkṣamāṇaḥ saḥ bṛhaspatiḥ*): that is, Bṛhaspati who desires rain. For the word गृध्रस्य (*gṛdhrasya*) in ऋ. सं. १०-१२४-८ (*ṛ. saṃ. 10-124-8*) Sāyaṇa has explained रसानभिकांक्षतः (*rasānabhikāṃkṣataḥ*), "desiring water"; and for the word printed वृध्राः (*vṛdhrāḥ*) [sic] in ऋ सं. १-८८-४ (*ṛ saṃ. 1-88-4*) he has explained जलाभिकांक्षायुक्तान् (*jalābhikāṃkṣāyuktān*), "those who desire water".
+
+तरः—तरणं जलाभिवृद्धिं (*taraḥ—taraṇaṃ jalābhivṛddhiṃ*): this is the bhāṣyakāra's explanation, "increase of water". *Taraṇa* means crossing, and "Ferry (*Ferry*)" is the explanation of the Western scholars.
+
+उभयं चष्टे अंतः (*ubhayaṃ caṣṭe aṃtaḥ*): standing in the middle of the two (that is, the water and the manner of crossing it), Bṛhaspati sees or makes. To take उभयमंतर्मध्यॆ (*ubhayamaṃtarmadhyè*) here as "between the water and the crossing" is not so apt; the meaning that उभयं अंतः (*ubhayaṃ aṃtaḥ*) is "in the atmosphere between the earth and heaven" fits properly. For since the water-laden rows of clouds are in the atmosphere, the meaning that Bṛhaspati produced such a mass of water and its manner of crossing (that is, the manner of rain) fits properly here.
+
+*[As supplied, the label line of the grammar page reads व्याकरणक्रिया (*vyākaraṇakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 7, noted briefly)
+
+The page explains: अवनयः (*avanayaḥ*) (root *av*; the suffix *ani* by the rule आर्तिसृधृध (*ārtisṛdhṛdha*) (उ. सू. २-२५९ (*u. sū. 2-259*)); nominative plural; acute on the suffix); यंति (*yaṃti*) (root *iṇ*; present third person plural; prohibition of *nighāta* by यद्वृत्तान्वित्यम् (*yadvṛttānvityam*), as printed); स्रवतः (*sravataḥ*) (root सु गतौ (*su gatau*); by the vārttika सर्वप्रातिपदिकेभ्यः क्विब्वा वक्तव्यः (*sarvaprātipadikebhyaḥ kvibvā vaktavyaḥ*) the suffix *kvip* is added when the action is intended, and the word *sravat* results; acute on the end by the root accent; nominative plural).
+
+### Printed p. 330
+
+*Running head (as supplied): [330 सायणभाष्यसहिता [मं. १. अ. २४. सू. १९०] (*[330 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24. sū. 190]*).*
+
+रोधचक्राः (*rodhacakrāḥ*) (a possessive compound, with the accent of the first member by the rule बहुप्रीहौ प्रकृत्या (*bahuprīhau prakṛtyā*)); चष्टे (*caṣṭe*) (since roots have many meanings, the root चक्षिज् (*cakṣij*) is used here in the sense of seeing; present third person singular; the verbal *nighāta* accent); गृध्रः (*gṛdhraḥ*) (root गृधु अभिकांक्षायां (*gṛdhu abhikāṃkṣāyāṃ*); the suffix *kran* by the rule सुसूधागृधिभ्यःक्रन् (*susūdhāgṛdhibhyaḥkran*) (उ. सू. ४-६०० (*u. sū. 4-600*)); because the suffix is marked *n*, an initial acute by इत्यादिर्नित्यम् (*ityādirnityam*)).
+
+*[As supplied, the label line of the Saṃhitā reads संवाद (*saṃvāda*); standard label inserted. The last word of the Saṃhitā and of the Pada, split across two lines with a hyphen in the supplied text, is joined. One reading in the Saṃhitā and two in the Pada are marked with a query, as they differ from the bhāṣya.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> ए॒वा म॒हस्तु॑ विजा॒तस्तु वि॑ष्णा॒न्बृह॒स्पति॑र्वृष॒भो [?] धा॑यि दे॒वः ।
+> स नः॑ स्तु॒तो वी॒रव॑द्धातु॒ गोम॑द्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> विव [?] । महः । तुविजातः । तुविष्टान्ः [?] । बृहस्पतिः । वृषभः । धायि । देवः ।
+> सः । नः । स्तुतः । वीरवत् । धातु । गोमत् । विद्याम । इषं । वृजनं जीरदानुं ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> महो महांस्तु विजातो बह्वर्थमुत्पन्नस्तुविष्मान् बलवान् वृषभोs-
+> पां वर्षिता देवो बृहस्पतिरेवैवं स्तुतिप्रकारेण धायि । धीयते । स्तूयत
+> इत्यर्थः । स स्तुतो देवो नोऽस्माकं वीरवत्पुत्राद्युपेतं गोमद्गोभिर्युक्तं
+> फलं धातु । करोत्वित्यर्थः । विद्यामेति गतं ॥
+
+*Gist:* Bṛhaspati, the mighty showerer of water, is thus praised; praised, may he give us heroic sons and cattle.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+महः—महात्मनू (*mahaḥ—mahātmanū*) (the great). तुविजातः—बहुवाद प्रयोजनगळिगागि उत्पन्ननादवनू (*tuvijātaḥ—bahuvāda prayojanagaḷigāgi utpannanādavanū*) (born for many benefits). तुवि- ष्मान्—बलशालियू (*tuvi- ṣmān—balaśāliyū*) (the strong). वृषभः—उदकवन्नु सुरिसतक्कवनू (*vṛṣabhaḥ—udakavannu surisatakkavanū*) (the shower of water). देवः—देवतात्मकनू आद (*devaḥ—devatātmakanū āda*) (the divine). बृहस्पतिः—बृहस्पतियु (*bṛhaspatiḥ—bṛhaspatiyu*) (Bṛhaspati). एव—ई प्रकारवागि (*eva—ī prakāravāgi*) (in this manner). धायि—स्तुतिसल्पडुत्तानॆ (*dhāyi—stutisalpaḍuttānè*) (is praised). स्तुतः स्म—ई विधवागि स्तुतनाद देवनु (*stutaḥ sma—ī vidhavāgi stutanāda devanu*) (the god praised in this way). नः—नमगॆ (*naḥ—namagè*) (to us). वीरवत्—वीरराद पुत्रादिगळिंद कूडिदुदू (*vīravat—vīrarāda putrādigaḷiṃda kūḍidudū*) (accompanied by heroic sons and the like).
+
+### Printed p. 331
+
+*Running head (as supplied): [अ. २. अ. ५. व. १३ ] ऋग्वेदसंहिता 331 (*[a. 2. a. 5. va. 13 ] ṛgvedasaṃhitā 331*).*
+
+गोमत्—गोवुगळिंद कूडिदुदू आद फलवन्नु (*gomat—govugaḷiṃda kūḍidudū āda phalavannu*) (the fruit accompanied by cows). धातु—उंटुमाडलि (*dhātu—uṃṭumāḍali*) (may he bring about). वयं—नावु (*vayaṃ—nāvu*) (we). इषं—अन्नवन्नू (*iṣaṃ—annavannū*) (food). वृजनं—बलवन्नू (*vṛjanaṃ—balavannū*) (strength). जीरदानुं—दीर्घायुष्यवन्नू (*jīradānuṃ—dīrghāyuṣyavannū*) (long life). विद्याम— पडॆयोण (*vidyāma— paḍèyoṇa*) (let us obtain).
+
+*[As supplied, the label line of the Bhāvārtha reads भाषा (*bhāṣā*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+May Bṛhaspati, the great, born for many benefits, strong, the shower of water and divine, who is praised in this manner, give us, thus praised, fruit accompanied by heroic sons and the like and by cows. May we obtain food, strength and long life.
+
+**Printed English translation**
+
+So, Brihaspati, the mighty, the beneficent, the powerful, the showerer (of benefits), the divine, has been glorified : praised by us, may he make us possessed of progeny and cattle, that thence we may obtain food, strength and long life.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 8)**
+
+In this ṛk the sage, concluding the sūkta, prays to Bṛhaspati for the increase of sons and grandsons and for the acquisition of cattle wealth such as cows.
+
+तुविजातः (*tuvijātaḥ*): the word तुवि (*tuvi*) is read among the names for "many" (नि. ३-१३ (*ni. 3-13*)). For the word *tuvijāta* Yāska has said बहुजातः (*bahujātaḥ*), one born in order to bring about many benefits for men.
+
+वीरवत्, गोमत् (*vīravat, gomat*): these words are used as adjectives; a noun to be qualified has to be supplied. Or they may be used as adjectives of the word इषं (*iṣaṃ*). The main purport is that Bṛhaspati may favour valiant sons, grandsons and the like, servants and cows.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 8, noted briefly; the supplied text ends within this page)
+
+एवा (*evā*): lengthening in the Saṃhitā by the rule निपातस्यच (*nipātasyaca*) (पा. सू. ६-३-१३६ (*pā. sū. 6-3-136*)); तुविजातः (*tuvijātaḥ*) (बूहनामुपकारकतया तत्संबंधित्वेन जातः तुविजातः (*būhanāmupakārakatayā tatsaṃbaṃdhitvena jātaḥ tuvijātaḥ*), as printed; a genitive *tatpuruṣa* compound; the acute on the end by the rule षष्ठीतत्पुरुष समासः समासस्य (*ṣaṣṭhītatpuruṣa samāsaḥ samāsasya*)).
+
 ---
 
-**Progress note:** Done through printed p. 327 (PDF 327). Sukta 190 Rik 6 Special Topics and grammar page complete; Rik 7 through the Pratipadartha and the start of the Bhavartha; garbled labels repaired
+**Progress note:** Done through printed p. 331 (PDF 331). Sukta 190 Rik 7 Bhavartha, printed English, Special Topics and grammar complete; Rik 8 complete through Special Topics; grammar page of Rik 8 begun; three readings marked with a query
