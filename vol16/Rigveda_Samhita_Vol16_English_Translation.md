@@ -1239,6 +1239,77 @@ But: यस्तु सूक्तं भजते यस्मै हवि�
 
 Grammar page begun, continuing on the next page. Headword पृक्षप्रयज: (*pṛkṣaprayaja:*): root यज (*yaja*) (worship, union, giving); the sūtra अन्येभ्योपिदृश्यंते (*anyebhyopidṛśyaṃte*) (Pā. 3-2-75) is cited, from whose word दृशि (*dṛśi*) the affix विच् (*vic*) in the passive sense is derived for this root; the text breaks off at the page end.
 
+### Printed p. 47
+
+*[Running head, p. 47: [A. 3. A. 1. P. 2.] Ṛgvedasaṃhitā 47]*
+
+Grammar page (Vyākaraṇa-prakriyā) continued from the previous page, noted briefly (prose, no Ṛk). It begins with the affix and the bahuvrīhi compound of पृक्षप्रयजः (*pṛkṣaprayajaḥ*) (the sūtra cited is Pā. 6-2-1, giving the prakṛti accent of the first member). Words then treated: द्रविणः (*draviṇaḥ*) (root द्रु (*dru*), Uṇ. 2-208, affix इनन् (*inan*); the nighāta accent in the vocative by Pā. 8-1919 as supplied); सुवाचः (*suvācaḥ*) (Pā. 6-2-162, accent on the last syllable of the second member); सुकृतवः (*sukṛtavaḥ*) [sic, as supplied; the Saṃhitā word is सुकेतवः (*suketavaḥ*)]; रेवत् (*revat*) (Pā. 5-2-94, the affix मतुप् (*matup*), Pā. 8-1-15, Pā. 6-1-176); ऊषुः (*ūṣuḥ*) (root उष (*uṣa*), Pā. 3-4-6, lit; nighāta accent); पृथिव्याः (*pṛthivyāḥ*) (Uṇ. 1-148, Pā. 4-1-41, Pā. 6-1-174); महे (*mahe*) (root मह (*maha*), Pā. 6-1-168); and the beginning of दशस्य (*daśasya*) (Pā. 3-1-27, the affix यक् (*yak*)), which continues on the next page.
+
+### Printed p. 48
+
+*[Running head, p. 48: 48 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.]]*
+
+The grammar note of दशस्य (*daśasya*) ends at the top of the page (the imperative middle-person singular, सिप् (*sip*) replaced by हि (*hi*), then loss of हि (*hi*) by Pā. 6-4-105; the tiṅanta nighāta accent).
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> इळा॑मग्ने पुरु॒दंसं॑ स॒निं गोः श॑श्वत्त॒मं हव॑मानाय साध ।
+> स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+(The Pada reads तश्वर्तमं (*taśvartamaṃ*) where the Saṃhitā and the bhāṣya read शश्वत्तमं (*śaśvattamaṃ*); noted as supplied.)
+
+> इळां । अग्ने । पुरुदंसं । सनिं । गोः । तश्वर्तमं । हवमानाय । साध ।
+> स्यात् । नः । सूनुः । तनयः । विजावा । अग्ने । सा । ते । सुमतिः । भूतु ।
+> अस्मे इति ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने पुरुदंसं । अपोऽप्रो दंसो वेष इति कर्मनामसु पठितश्वा-
+> द्वंसःशब्दः कर्मवाची । पुरूणि बहूनि दंसांसि कर्माणि यस्याः सा । तां बहुक-
+> र्माणं गोः सनिं गवादिपशून्संपादयित्रीमिळामेतन्नामिकां गोरूपां देवतां
+> शश्वत्तमं निरंतरं हवमानाय यजमानाय मह्यं साध : साधय । किंच नोऽस्माकु
+> सूनुः पुत्रस्तनयः पौत्रः स्याद्भवत्त्विति ते तव या सुमतिः शोभना बुद्धिः सा विजा-
+> वाबंध्या सत्यस्मे अस्माकं भूतु भवतु ॥ शश्वत्तमं । उच्चादिसु पाठादंतोदा-
+> त्तत्वं । साध । राध साध संसिद् । अंतर्भावितण्यर्थोऽयं । लोट व्यत्ययेन
+> शप् । सेर्ह्यपिच्छेति हिरादेशः । तस्यातो हेंति लुक् । निघातः । विजाना । जनी
+> प्रादुर्भावे । आस्वादन्येभ्योऽपि दृश्यंत इति वनिष् । विड्वनोनुनासिकस्यादित्यात्वं ।
+> कृदुत्तरपदप्रकृतिस्वरत्वं । लिंगव्यत्ययः । भूतु । भू सत्तायां । बहुलं छंदसीति
+> शपो लुक् । भूसुवोस्तिजीति गुणप्रतिषेधः ॥
+
+*Gist: Agni is asked to grant the sacrificer the cow-formed deity Iḷā, giver of cattle and doer of many works, perpetually; and that sons and grandsons be ours and his good will be fruitful for us. The grammatical tail treats śaśvattamam, sādha, vijāvā and bhūtu; transcribed, not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O) Agni (अग्ने (*agne*)): endowed with many works (पुरुदंसं (*purudaṃsaṃ*)), and the giver of cattle such as cows (गोः सनिं (*goḥ saniṃ*)), the deity named Iḷā in the form of a cow (इळां (*iḷāṃ*)); perpetually (शश्वत्तमं (*śaśvattamaṃ*)), to me who am performing the sacrifice (हवमानाय (*havamānāya*)), accomplish (grant) (साध (*sādha*)). To us (नः (*naḥ*)), may there be a son (सूनुः (*sūnuḥ*)) and a grandson (तनयः (*tanayaḥ*)) (so) (स्यात् (*syāt*)). O Agni (अग्ने (*agne*)), whatever good will (सुमतिः (*sumatiḥ*)) you have (ते (*te*)), that (सा (*sā*)) for our sake (अस्मे (*asme*)) may be unbarren (विजावा (*vijāvā*)), may it become so (भूतु (*bhūtu*)).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, make the earth, named Iḷā and in the form of a cow, who gives cattle and the like that are helpful to many rites, favourable to us who are engaged in the continuous performance of sacrifice; and, O Agni, may that gracious intention of yours to bestow sons, grandsons and the like on the worshippers be ever unbarren (fruitful) for us.
+
+**Printed English translation of the Ṛk**
+
+Grant, Agni, to the offerer of the oblation, earth the bestower of cattle, the means of many (pious rites), such that it may be perpetual : may there be to us sons and grandsons, and may your good-will ever be productive of benefits to us.
+
+### Printed p. 49
+
+*[Running head, p. 49: [A. 3. A. 1. V. 2.] Ṛgvedasaṃhitā 49]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**ಪುರುದಂಸಂ** — पुरूणि बहूनि दंसांसि कर्माणि यस्याः सा (*purūṇi bahūni daṃsāṃsi karmāṇi yasyāḥ sā*). The word दंस (*daṃsa*) is stated among the names of action, listed beginning अप्पः दंसः (*appaḥ daṃsaḥ*) (as supplied; the text says "twenty-six", इप्पात्तारु (*ippāttāru*), names of action) (Ni. 3-2). The meaning is "possessed of many works".
+
+**ಗೋಃ ಸನಿಂ** — गवादिपर्शू संपादयित्रीं (*gavādiparśū saṃpādayitrīṃ*) [sic, as supplied]. The word गो (*go*) has many meanings: earth, speech, animal, ray. Since the words गोः सनिं (*goḥ saniṃ*) are epithets of the word इळा (*iḷā*), the sense is described as: the deity Iḷā bestows everything, cows and the rest.
+
+**ಇಳಾಂ** — एतन्नामिकां गोरूपां देवतां (*etannāmikāṃ gorūpāṃ devatāṃ*). The word इळा (*iḷā*) is stated among the names of the earth (Ni. 2-5), also among the names of speech (Ni. 2-23), of food (Ni. 3-9) and of the cow (Ni. 3-9). The word इळा (*iḷā*) is also formed from the root ईश (*īśa*) (as supplied). In the Ṛks
+
+अभिन इळा यूथस्य मातास्मन्नदीभिरुर्वशी वा गृणातु । उर्वशी वा बृहद्दिवा गृणानाभ्यूर्वाना प्रथृथस्यायोः । सिषक्तु न ऊर्जव्यस्य पुष्टेः ॥ (*abhina iḷā yūthasya mātāsmannadībhirurvaśī vā gṛṇātu | urvaśī vā bṛhaddivā gṛṇānābhyūrvānā prathṛthasyāyoḥ | siṣaktu na ūrjavyasya puṣṭeḥ ‖*) (Ṛ. Saṃ. 5-41-19, 20) [the supplied text has a stray fragment "(ಋ. ಸ" before the reference]
+
+the goddess Iḷā or Iḍā is described as a deity of the middle region. Sāyaṇa explains the word as the deity named Iḷā who has taken the form of a cow.
+
 ---
 
-**Progress note:** Done through printed p. 46 (PDF 46). Sukta 7 Rk 10 Special Topics pp. 44-46; grammar page begun (Prikshaprayajah)
+**Progress note:** Done through printed p. 49 (PDF 49). Done through printed p. 49. Sukta 7 Rk 11 (Ila) Special Topics begun; grammar pp. 47-48 noted
