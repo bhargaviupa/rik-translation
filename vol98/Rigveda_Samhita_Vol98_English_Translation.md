@@ -13193,6 +13193,95 @@ The meaning that Agni is the object denoted by the word होतृ (*hotṛ*),
 
 *(The supplied text ends here, in the middle of the Pratipadārtha of Ṛk 6, at the end of p. 440; the rest follows in the next window.)*
 
+### Printed p. 441
+
+*Running head (as supplied): [अ. २. अ. ५. व. २ ] ऋग्वेदसंहिता 441 (*[a. 2. a. 5. va. 2 ] ṛgvedasaṃhitā 441*).*
+
+*(Continuation of the Pratipadārtha of Ṛk 6 of Sūkta 2 of Maṇḍala 2, from the entries after the last entry of the previous page.)*
+
+नः—नमगॆ (*naḥ—namagè*) (to us). सुविताय—उत्तमवाद फलवन्नु कॊडुवुदक्कागि (*suvitāya—uttamavāda phalavannu kòḍuvudakkāgi*) (for giving excellent fruit). रोदसी—द्यावापृथिविगळन्नु (*rodasī—dyāvāpṛthivigaḷannu*) (heaven and earth). आ कृणुष्ट—भोगप्रदवन्नागि माडु (*ā kṛṇuṣṭa—bhogapradavannāgi māḍu*) (make (them) bestowers of enjoyment). देव—द्योतमाननाद (*deva—dyotamānanāda*) (the shining one). अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). मनुषः—यजमाननु अर्पिसिद (*manuṣaḥ—yajamānanu arpisida*) (offered by the sacrificer). हव्या—हविस्सुगळन्नु (*havyā—havissugaḷannu*) (the oblations). वीतये—देवतॆगळ भक्षणक्कॆ योग्यवादुदन्नागि माडु. (*vītaye—devatègaḷa bhakṣaṇakkè yogyavādudannāgi māḍu.*) (make fit for the gods to eat).
+
+*[As supplied, the label line of the Bhāvārtha reads भावनार्ध (*bhāvanārdha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, of divine self, for our welfare grow, give us wealth fit for giving, and shine, kindled by us. To give us excellent fruit, make heaven and earth bestowers of enjoyment, and make the oblations offered by the sacrificer fit for the eating of the gods. (The print repeats the syllable at the line break in the word for "oblations".)
+
+**Printed English translation**
+
+You, Agni, are he who, for our good, is possessed of riches; kindled by us, blaze as the liberal donor of wealth to us: render heaven earth propitious to us, so that divine Agni, (the gods) may partake of the oblations of the institutor of the rite.
+
+*(As printed: "heaven earth", without "and".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 6)**
+
+The wish of the priests is described: "May Agni, for their welfare, grant wealth that increases day after day, be served abundantly by them, and grow." In this meaning the word रेवत् (*revat*) is an adjective of the word रयिं (*rayiṃ*). Taking the word रेवत् (*revat*) as an adverb in सः नः स्वस्तये रेवत् दीदिहि (*saḥ naḥ svastaye revat dīdihi*) (रा धनं समृद्धिमत् यथा तथा दीप्यस्व (*rā dhanaṃ samṛddhimat yathā tathā dīpyasva*): shine in such a way that wealth is abundant), a second meaning is also described: for the welfare of us, the priests, may Agni, who makes his grace shine as abundant wealth, grow well.
+
+नः सुविताय रोदसी कृणुष्ट-अस्मभ्यं सुविताय शोभनफलाय द्यावापृथिव्य उभौ लोकौ भोगप्रदौ कुर्वित्यर्थः (*naḥ suvitāya rodasī kṛṇuṣṭa-asmabhyaṃ suvitāya śobhanaphalāya dyāvāpṛthivya ubhau lokau bhogapradau kurvityarthaḥ*) (a line-end hyphen inside it is joined): the wish of the priests and the sacrificers is described that Agni may grant that the two worlds, earth and atmosphere, be favourable for our welfare and for other excellent good. And, as the form of Agni's grace, the subjugation relating to heaven and earth, and मनुषः हव्या नीतये-मनुष्यस्य मम यजमानस्य संबंधीनि हवींषि देवेभ्यो भक्षणाय (*manuṣaḥ havyā nītaye-manuṣyasya mama yajamānasya saṃbaṃdhīni havīṃṣi devebhyo bhakṣaṇāya*) (as printed): the wish is explained that the oblations offered by the human sacrificer, intended for the gods, may attain their purpose in the form of oblations.
+
+### Printed p. 442
+
+*Running head (as supplied): [442 सायणभाष्यसहिता [ मं. २ अ. १. सू. २.] (*[442 sāyaṇabhāṣyasahitā [ maṃ. 2 a. 1. sū. 2.]*).*
+
+#### Ṛk 7
+
+*[A figure line of the supplied text, an image repeating the Saṃhitā and Pada of this ṛk and standing inside the Saṃhitā block, was viewed; all its words agree with the machine text, and the notes in the Kannada text record the details. The labels over the Pada and the bhāṣya are garbled in the supplied text, standing inside the block, and standard labels are inserted. The split Saṃhitā and Pada lines are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> दा नो॑ अग्ने बृह॒तो दाः स॑ह॒स्रिणो॑ दु॒रो न वाजं॒ श्रुत्या॒ अपा॑ वृधि ।
+> प्राची॒ द्यावा॑पृथि॒वी ब्रह्म॑णा कृधि॒ स्व१॒॑ १ र्ण शु॒क्रमु॒षसो॒ विदि॑द्युतः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> दाः । नः । अग्ने । बृहतः । दाः । सहस्रिणः । दुरः । न । वाजं । श्रुत्यै । अप । वृधि ।
+> प्राची इति । द्यावापृथिवी इति । ब्रह्मणा । कृधि । स्वः । न । शुक्रं । उषसः । वि । दिद्युतः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने नोऽस्मभ्यं बृहतो महतः प्रभूतान् गवाश्वादिधनविशेषान् दाः ।
+> देहि । तथा सहस्रिणः सहस्रसंख्योपेतान्नुत्रभृत्यादीन् दाः देहि ॥ ददातेश्चांदसे
+> लुजति रूपं । वाक्यभेदादनिघातः ॥ श्रुत्यै कीर्त्यै वाजमन्नं दुरो न तस्य द्वारा-
+> ण्यपि ॥ नशब्दश्चार्थे ॥ अपावृधि अपवृणु । प्रेरयेत्यर्थः । यद्वा द्वाराणीव ।
+> तत्पाप्युपायान्विशदयति । तदर्थं द्यावापृधिवी ब्रह्मणा परिवृढेन कर्मणा प्राची
+> प्रकृष्टांचने । अस्मदनुकूले कृधि । कुरु । स्वर्ण । आदित्य इव । स यथाजगत्प्रका-
+> शयति तद्वत् । शुक्रं दीप्तं त्वामुषस उषःकाला विदिद्युतः । विद्योतयंति । उषः
+> काले ह्यग्नयः प्रज्वाल्यंते ॥
+
+*Gist:* Agni is asked for abundant cattle-wealth, thousands of sons and servants, the doors of food for fame, and favourable heaven and earth.
+
+*(The bhāṣya contains short grammatical remarks on the form of the verb, the accent and the particle; they are transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये, (*agne—èlai agniye,*) (O Agni (printed with a comma)). नः—नमगॆ (*naḥ—namagè*) (to us). बृहतः—प्रभूतवाद गवाश्वादिगळन्नु (*bṛhataḥ—prabhūtavāda gavāśvādigaḷannu*) (abundant cows, horses and the like). दाः— कॊडु (*dāḥ— kòḍu*) (give). सहस्रिणः—सहस्रसंख्याकवाद (*sahasriṇaḥ—sahasrasaṃkhyākavāda*) (of the number of a thousand). पुत्रभृत्यादिगळन्नु (*putrabhṛtyādigaḷannu*) ((continuing) sons, servants and the like). दाः—कॊडु (*dāḥ—kòḍu*) (give). श्रुत्यै—कीर्ति यन्नु तरतक्क (*śrutyai—kīrti yannu taratakka*) (that brings fame (the word is divided by a line break)). अन्नं—अन्नद (*annaṃ—annada*) (of food). दुरो न—बागिलन्नू सह (*duro na—bāgilannū saha*) (the door also). आपा वृधि—तॆरॆ (अदक्कागि) (*āpā vṛdhi—tèrè (adakkāgi)*) (open (for that)). द्यावापृथिवी—द्यावापृथिविगळन्नु (*dyāvāpṛthivī—dyāvāpṛthivigaḷannu*) (heaven and earth). ब्रह्मणा—यज्ञादिकर्मदिंद (*brahmaṇā—yajñādikarmadiṃda*) (by sacrifice and the like). प्राची—नमगनुकूल वागुवंतॆ (*prācī—namaganukūla vāguvaṃtè*) (so as to be favourable to us (the word is divided by a line break)). कृधि—माडु (*kṛdhi—māḍu*) (make). स्वर्ण—अदित्यनु जगत्तन्नु प्रकाशिसुवंतॆ (*svarṇa—adityanu jagattannu prakāśisuvaṃtè*) (like the sun lighting up the world). शुक्रं—प्रकाशमान नाद निन्नन्नु (*śukraṃ—prakāśamāna nāda ninnannu*) (you, the radiant one (the word is divided by a line break)). उषसः—उषःकालगळु (*uṣasaḥ—uṣaḥkālagaḷu*) (the dawn-times). वि दिद्युतः—बॆळगुवंतॆ माडुत्तवॆ. (*vi didyutaḥ—bèḷaguvaṃtè māḍuttavè.*) (they make shine).
+
+### Printed p. 443
+
+*Running head (as supplied): [अ. २ अ. ५ व. २१] ऋग्वेदसंहिता 443 (*[a. 2 a. 5 va. 21] ṛgvedasaṃhitā 443*).*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, give us abundant cows, horses and the like. Give us sons, servants and the like in thousands. Open the door of the food that brings fame. Make heaven and earth favourable to us by sacrifice and the like. The dawn-times make you, the radiant one, shine, as the sun lights up the world.
+
+**Printed English translation**
+
+Bestow upon us, Agni, infinite possessions: grant us thousands (of cattle and dopendants [sic]): open to us, for your reputation, the doors of abundance : make heaven and earth, propitiated by sacred prayer, favourable to us, and may the mornings light you up like the sun.
+
+*(The printed English divides "abundance" by a line break and a hyphen, joined here; the printed "dopendants" is a misprint for "dependants" [sic].)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 7)**
+
+In this ṛk, having given for the word बृहतः (*bṛhataḥ*) the meaning "abundant wealth such as cows and horses" (बृहतः-महतः प्रभूतान् गवाश्वादिधनविशेषान् (*bṛhataḥ-mahataḥ prabhūtān gavāśvādidhanaviśeṣān*)), the wish is expressed that Agni may grant wealth of this kind by the thousand (सहस्र (*sahasra*)).
+
+श्रुत्यै वाजं दुरो न अपावृधि (*śrutyai vājaṃ duro na apāvṛdhi*)—कीर्त्यै अन्नं तस्य द्वाराण्यपि अपवृणु (*kīrtyai annaṃ tasya dvārāṇyapi apavṛṇu*) (printed with an exclamation mark in place of a danda): for fame, open the food and also its doors; or यद्वा द्वाराणीव तत्पाप्युपायान् विशदय । (*yadvā dvārāṇīva tatpāpyupāyān viśadaya |*) (or, like doors, make clear the means of obtaining it). In this sentence, giving the word न (*na*) the sense of "and" and of comparison, one meaning is described: that Agni may grant, for fame, food or the means by which food is obtained; and it is also described that he may grant, in a way perceptible to the intellect, the paths by which food is obtained, that is, the means.
+
+द्यावापृथिवी ब्रह्मणा प्राची कृधि (*dyāvāpṛthivī brahmaṇā prācī kṛdhi*): in this sentence, explaining the word ब्रह्मणा (*brahmaṇā*) as परिवृढेन कर्मणा (*parivṛḍhena karmaṇā*), that is, by an abundant, merit-giving rite, the wish is expressed that Agni may make earth and atmosphere favourable to us through our performance of rites.
+
+स्वर्ण शुक्रमुषसो विदिद्युतः (*svarṇa śukramuṣaso vididyutaḥ*)—उषःकालाः दीप्तं त्वा आदित्य इव विद्योतयंति । उषःकाले ह्यग्नयः प्रज्वाल्यंते । (*uṣaḥkālāḥ dīptaṃ tvā āditya iva vidyotayaṃti | uṣaḥkāle hyagnayaḥ prajvālyaṃte |*) (a line-end hyphen inside it is joined): the dawn-times make you, the radiant one, shine like the sun; for fires are kindled at dawn. The meaning "sun" is given for the word स्वः (*svaḥ*). As the sun shines in the dawn-times with his rays, the dawn-time makes Agni shine with his lustres: thus it is described.
+
+*(The supplied text ends here, at the end of p. 443, after a complete passage of the Special Topics of Ṛk 7.)*
+
 ---
 
-**Progress note:** Done through printed p. 440 (PDF 440). Mandala 2 Sukta 2 Rik 5 complete; Rik 6 Samhita, Pada, bhasya and the start of the Pratipadartha; four readings marked with a query; one Samhita word corrected to the figure image
+**Progress note:** Done through printed p. 443 (PDF 443). Mandala 2 Sukta 2 Rik 6 complete; Rik 7 complete through the Special Topics as supplied
