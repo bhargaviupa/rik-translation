@@ -3486,6 +3486,101 @@ For the word तनूनपात् (*tanūnapāt*) in this ṛk Yāska states
 
 Grammar page, noted briefly. सखायः (*sakhāyaḥ*): root ख्या प्रकथने (*khyā prakathane*); by समाने ख्यश्चोदात्तः (*samāne khyaścodāttaḥ*) (Uṇ. Sū. 4-576, as printed) the affix इण् (*iṇ*) for this root when समान (*samāna*) stands as upapada; the affix being डित् (*ḍit*), the account goes on: "by the preceding …" (the page breaks off here; continued on the next page). (A stray "16" ends this page in the supplied text; left as supplied.)
 
+### Printed p. 122
+
+*[Running head, p. 122: 122 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.]]*
+
+*[Vyākaraṇa-prakriyā of Ṛk 1, continued from the previous page; grammar page, noted briefly.]* Continuing सखायः (*sakhāyaḥ*): as the sūtra carries on by anuvṛtti, the ṭi of the root is dropped by the force of the affix being ḍit, and the y with it; by समानस्य छंदसि (*samānasya chaṃdasi*) (Pā. Sū. 6 3-74, as printed) समान (*samāna*) becomes स (*sa*)-; the word becomes सख (*sakha*), the upapada takes the udātta accent; before जस् (*jas*) the rule सुख्युरसंबुद्धौ (*sukhyurasaṃbuddhau*) (Pā. Sū. 7-1-97, as printed) makes it ṇit-like, vṛddhi of the i and ayādeśa follow, and the word is ādyudātta. ववृमहे (*vavṛmahe*): root वृज् संभक्तौ (*vṛj saṃbhaktau*); छंदसि लुज्ज्‌लज्‌लिटः (*chaṃdasi lujjlajliṭaḥ*) gives liṭ in the present sense, the affix महिज् (*mahij*) in the first person plural, ṭi becomes e; कृसृभृवृ (*kṛsṛbhṛvṛ*) (Pā. Sū. 7-2-13) forbids the iḍ-augment; reduplication of the root; nighāta accent (reason given as in the text). मर्तासः (*martāsaḥ*) (the text's headword reads मर्शासॆ (*marśāsè*) [sic]): root मृज् प्राणत्यागे (*mṛj prāṇatyāge*) [sic] with an Auṇādika affix तन् (*tan*), guṇa of the ṛ with r following, and असुक् (*asuk*) added to जस् (*jas*) by अज्जसेरसुक् (*ajjaserasuk*) (Pā. Sū. 7-1-50). ऊतये (*ūtaye*): root अव रक्षणे (*ava rakṣaṇe*); as ऊतियूतिजूति (*ūtiyūtijūti*) (Pā. Sū. 3-0-97, as printed) is a nipātana ending in क्तिन् (*ktin*) it is antodātta; dative singular. अपां (*apāṃ*): genitive plural; by ऊडिदंपदादि (*ūḍidaṃpadādi*) (Pā. Sū. 6-1-171) the case-ending takes the udātta. सुभगं (*subhagaṃ*): bahuvrīhi; by आद्युदात्तं द्व्यज् छंदसि (*ādyudāttaṃ dvyaj chaṃdasi*) (Pā. Sū. 6-2-119) the latter member is ādyudātta. सुप्रतूर्तिं (*supratūrtiṃ*): also bahuvrīhi, in the क्रत्वादि (*kratvādi*) group, so by क्रत्वादयश्च (*kratvādayaśca*) (Pā. Sū. 6-2-118) the latter member is ādyudātta.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> काय॑मानो व॒ना त्वं यन्मा॒त्वरज॑गन्न॒पः ।
+> न तत्ते॑ अग्ने प्र॒मृषे॑ नि॒वर्त॑नं॒ यद्दू॒रे सन्नि॒हाभ॑वः ॥ २ ॥
+
+> *kāyamāno vanā tvaṃ yanmātvarajagannapaḥ |*
+> *na tatte agne pramṛṣe nivartanaṃ yaddūre sannihābhavaḥ ‖ 2 ‖*
+
+### Printed p. 123
+
+*[Running head, p. 123: [A. 3. A. 1. V. 5] Ṛgvedasaṃhitā 123 (as supplied, "ಅ. ೩. ಅ. ೧. ವ. ೫")]*
+
+**॥ पदपाठः ॥**
+
+> कायमानः । वना । त्वं । यत् । मात्यः । अजगन् । अपः ।
+> न । तत् । ते । अग्ने प्रमृषे । निवर्तनं । यत् । दूरे । सन् । इह । अभवः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने वना काननानि कायमानः कामयमानस्त्वं यद्यस्मात्कारणात्तानि
+> विजाय मात्यरपो मातृभूता आपोऽजगन् । आगमः । गतवानसि । अप्सु प्रविष्टत्वा-
+> च्छांतो वर्तसे तत्तस्मात्ते तव निवर्तनं ! नितरां शत्रैव वर्तनं । तेन च
+> विनाशो लक्ष्यते । न विनाशो न प्रमृषे । स प्रमृष्यते । न सह्यते । कुत इत्यत
+> आह । यद्यस्मात्कारणाद्दरे सन् अदृश्यतया वर्तमानस्त्वमिहास्मत्संबंधिष्वरणि-
+> रूपेषु काष्टेष्टभवः । मंथनात् क्षण पात्रेणास्माकं समीपे भवसि । तस्मात्तव
+> दूरतो वर्तनमस्मभ्यं न रोचते । अस्मिन्नर्थे यास्कः । कायमानश्चायमानः
+> कामयमान इति वा । वनानि त्वं यन्मात्यरपोऽगम उपशाम्यन् । न तत्ते अग्ने
+> प्रमृष्यते निवर्तनं दूरे यत्सन्निह भवसि जायमानः । नि. ४-१४ । इति ॥ काय-
+> मानः । कमु कांत् । कमेर्णिज् लटः शानच् । मकारलोपश्रांदसः । अजगन् ।
+> गम्लृ गतावित्यस्य लजि बहुलं छंदसीति शपः श्लुः । हल्यादिना सिलोपः । मो
+> नो धातोरिति नकारः । यच्छब्दयोगादनिघातः । अडागमस्वरः । प्रमृषे । मृष
+> तितिक्षायां । व्यत्ययेन कर्मणि तप्रत्ययः । लोपस्त आत्मनेपदेष्टिति तलोपः ।
+> धातुस्वरः । अभवः । छंदसि लुज्जि ज्लिट इति लडर्थॆ लज् । यद्योगादनिघातः ॥
+
+> *he agne vanā kānanāni kāyamānaḥ kāmayamānastvaṃ yadyasmātkāraṇāttāni*
+> *vijāya mātyarapo mātṛbhūtā āpo 'jagan | āgamaḥ | gatavānasi | apsu praviṣṭatvā-*
+> *cchāṃto vartase tattasmātte tava nivartanaṃ ! nitarāṃ śatraiva vartanaṃ | tena ca*
+> *vināśo lakṣyate | na vināśo na pramṛṣe | sa pramṛṣyate | na sahyate | kuta ityata*
+> *āha | yadyasmātkāraṇāddare san adṛśyatayā vartamānastvamihāsmatsaṃbaṃdhiṣvaraṇi-*
+> *rūpeṣu kāṣṭeṣṭabhavaḥ | maṃthanāt kṣaṇa pātreṇāsmākaṃ samīpe bhavasi | tasmāttava*
+> *dūrato vartanamasmabhyaṃ na rocate | asminnarthe yāskaḥ | kāyamānaścāyamānaḥ*
+> *kāmayamāna iti vā | vanāni tvaṃ yanmātyarapo 'gama upaśāmyan | na tatte agne*
+> *pramṛṣyate nivartanaṃ dūre yatsanniha bhavasi jāyamānaḥ | ni. 4-14 | iti ‖ kāya-*
+> *mānaḥ | kamu kāṃt | kamerṇij laṭaḥ śānac | makāralopaśrāṃdasaḥ | ajagan |*
+> *gamlṛ gatāvityasya laji bahulaṃ chaṃdasīti śapaḥ śluḥ | halyādinā silopaḥ | mo*
+> *no dhātoriti nakāraḥ | yacchabdayogādanighātaḥ | aḍāgamasvaraḥ | pramṛṣe | mṛṣa*
+> *titikṣāyāṃ | vyatyayena karmaṇi tapratyayaḥ | lopasta ātmanepadeṣṭiti talopaḥ |*
+> *dhātusvaraḥ | abhavaḥ | chaṃdasi lujji jliṭa iti laḍarthè laj | yadyogādanighātaḥ ‖*
+
+*Gist: O Agni, desiring the forests you went to the waters, your mothers, and became calm there; yet by churning you appear at once in our kindling-sticks, so your staying far off pleases us not. (Yāska is quoted; the grammatical tail is transcribed, not explained. The Saṃhitā block as supplied reads मात्वरजगन्नपः (*mātvarajagannapaḥ*) where the Pada and bhāṣya read मात्यः (*mātyaḥ*) / मात्यरपो (*mātyarapo*): an OCR variant of the supplied text, left as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(हे (*he*)) अग्ने (*agne*) — O fire. वना (*vanā*) — the forests. कायमानः (*kāyamānaḥ*) — desiring. त्वं (*tvaṃ*) — you. यत् (*yat*) — for which reason. मातृः (*mātṛḥ*) [as supplied] — (to you) of the nature of mothers [the supplied text has a garbled word here, not reproduced]. अपः (*apaḥ*) — the waters (toward). अजगन् (*ajagan*) — you went; and यत् (*yat*) — for which reason. दूरे सन् (*dūre san*) — being far away (invisible within the water, you). इह (*iha*) — here (in the kindling-sticks, the aranis, that are ours). अभवः (*abhavaḥ*) — are present. तत् (*tat*) — for that reason. ते (*te*) — your. निवर्तनं (*nivartanaṃ*) — constant dwelling (in the water; destruction). न प्रमृषे (*na pramṛṣe*) — is not tolerated.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you who wish to be in the forests left them, joined the waters and became calm; and though thus invisible in the water, you appear in our kindling-sticks (as soon as you are churned). Therefore your dwelling far off (in the midst of the water) does not please us.
+
+### Printed p. 124
+
+*[Running head, p. 124: 124 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.]]*
+
+**Printed English translation**
+
+Desirous as you are of the forests since you have repaired to the maternal waters, Agni, your tarrying so far away is not to be endured ; (in a moment) you are here with us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वना—काननानि (*vanā—kānanāni*) — the word वन (*vana*) is also stated among the names of rays (Ni. 2 15, as printed). And in नियद्वृणक्षि श्वसनस्य मूर्धनि शुष्कस्य चिद्वृंदिनो रोरुवद्वना (*niyadvṛṇakṣi śvasanasya mūrdhani śuṣkasya cidvṛṃdino roruvadvanā*) (no source given in the text; the Ṛk is quoted as supplied) Yāska has explained the word वना (*vanā*) as वनानि इति वा वधेनेति वा (*vanāni iti vā vadheneti vā*); accordingly Sāyaṇa gives the meaning वनानि (*vanāni*) "forests", and for कायमानः (*kāyamānaḥ*) the meaning कामयमानः (*kāmayamānaḥ*), "one who wishes for".
+
+अपः अजगन्—मातृभूताः अपः गतवानसि (*apaḥ ajagan—mātṛbhūtāḥ apaḥ gatavānasi*) — by the word अपांनपात् (*apāṃnapāt*) it was shown that water is the mother-place of Agni. Therefore Agni has entered the waters, which are like a mother to him and nourish through the herbs and trees produced from water; and the words अप्पु प्रविष्टत्वात् शांतोऽसि (*appu praviṣṭatvāt śāṃto 'si*) [sic, अप्पु (*appu*) for the bhāṣya's अप्सु (*apsu*)] are explained thus: since Agni is in the waters, he is in a state of calm.
+
+निवर्तनं न प्रमृषे—नितरां तत्त्रैव वर्तनं तेन च विनाशो लक्ष्यते । सविनाशः न प्रमृष्यते न सह्यते (*nivartanaṃ na pramṛṣe—nitarāṃ tattraiva vartanaṃ tena ca vināśo lakṣyate | savināśaḥ na pramṛṣyate na sahyate*) — the word वर्तन (*vartana*) is formed from the root वृतु (*vṛtu*) and is used here with the prefix नि (*ni*). As stated in उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । प्रहाराहारसंहारविहारपरिहारवत् (*upasargeṇa dhātvartho balādanyatra nīyate | prahārāhārasaṃhāravihāraparihāravat*) (gloss mine and tentative: "by a prefix the meaning of the root is forcibly led elsewhere, as in prahāra, āhāra, saṃhāra, vihāra, parihāra"), the word वर्तन (*vartana*) with the prefix नि (*ni*) conveys the meaning "destruction", and also the state that precedes destruction. By this, Agni's staying in the waters is not tolerated by the sacrificers; that is, Agni's becoming invisible is not to be tolerated.
+
+यत् दूरे सन् इह अभवः । अदृश्यतया वर्तमानः अग्नि: अस्मत्संबंधिषु अरणिरूपेषु काष्ठेषु मंथनात् क्षणमात्रेण अस्माकं समीपे भवति तस्मात् अग्नेः दूरतः वर्तनं अस्माकं न रोचते (*yat dūre san iha abhavaḥ | adṛśyatayā vartamānaḥ agni: asmatsaṃbaṃdhiṣu araṇirūpeṣu kāṣṭheṣu maṃthanāt kṣaṇamātreṇa asmākaṃ samīpe bhavati tasmāt agneḥ dūrataḥ vartanaṃ asmākaṃ na rocate*) — it is explained that Agni's being in the waters in an invisible form (a form not seen by the eye) is his manner of being far away, and that his appearing visibly at that very moment, when churned in the kindling-sticks of those who perform the sacrifice, is his manner of being near. Of the two, the sacrificers prefer Agni to be near rather than far. Yāska quoted this same Ṛk in the Nirukta and stated his own view clearly:
+
+### Printed p. 125
+
+*[Running head, p. 125: [A. 3. A. 1. V. 5.] Ṛgvedasaṃhitā 125 (as supplied, "ಅ. ೩. ಅ. ೧. ವ. ೫.")]*
+
+कायमानश्चायमानः कामयमान इति वा वनानि त्वं यन्मात्यरपोगम उपशाम्यन् न तत्ते अग्ने प्रमष्यते निवर्तनं दूरे यत्सन्निह भवसि जायमानः (*kāyamānaścāyamānaḥ kāmayamāna iti vā vanāni tvaṃ yanmātyarapogama upaśāmyan na tatte agne pramaṣyate nivartanaṃ dūre yatsanniha bhavasi jāyamānaḥ*) (A. 4-14, as printed; the text has मात्यरपोगम (*mātyarapogama*) and प्रमष्यते (*pramaṣyate*) [sic] where the bhāṣya has मात्यरपोऽगम (*mātyarapo 'gama*) and प्रमृष्यते (*pramṛṣyate*)). Sāyaṇa has explained this same view stated in the Nirukta.
+
+**Vyākaraṇa-prakriyā**
+
+Grammar page, noted briefly. कायमानः (*kāyamānaḥ*): root कमु कांत् (*kamu kāṃt*) [sic, as supplied]; by कमेर्णिज् (*kamerṇij*) (Pā. Sū. 3-1-30) the affix णिज् (*ṇij*) in the root's own sense; vṛddhi of the penultimate by आत उपधायाः (*āta upadhāyāḥ*) (Pā. Sū. 7-2-116); the णिजंत (*ṇijaṃta*) is a root; लट् (*laṭ*) is replaced by शानच् (*śānac*); guṇa and ayādeśa; आनेमुक् (*ānemuk*) (Pā. Sū. 7-2-82) gives the augment मुक् (*muk*); the m of the root is dropped in the Veda; the root accent remains. वना (*vanā*): neuter plural; शि (*śi*) is dropped by छंदसि बहुलं (*chaṃdasi bahulaṃ*) (Pā. Sū. 6-1-70). अजगन् (*ajagan*): root गमल्य गतौ (*gamalya gatau*) [sic, as supplied]; लज् (*laj*) with तिप् (*tip*); इतश्च (*itaśca*) drops the i; शप् (*śap*) becomes शु (*śu*) by बहुलं छंदसि (*bahulaṃ chaṃdasi*); the ending is dropped; मोनो धातोः (*mono dhātoḥ*) (Pā. Sū. 8-2-64) changes m to n; augment अड् (*aḍ*); because the word यत् (*yat*) is connected there is no nighāta; ādyudātta by the udātta augment. प्रमृषे (*pramṛṣe*): root मृष तितीक्षायां (*mṛṣa titīkṣāyāṃ*); लट् (*laṭ*) in the passive, त (*ta*) ending, e by टित आत्मने (*ṭita ātmane*); no यक् (*yak*) by vyatyaya; the a of the ending dropped by लोपस्त आत्मने पदेषु (*lopasta ātmane padeṣu*) (Pā. Sū. 7-1-41); no nighāta because of न (*na*); तिजिचोदात्तवति (*tijicodāttavati*) (Pā. Sū. 8-1-71, as printed, with पा (*pā*) and सू. (*sū.*) split by a line break) makes प्र (*pra*) anudātta. निवर्तनं (*nivartanaṃ*): root वृतु वर्तने (*vṛtu vartane*); ल्युट् (*lyuṭ*) in the sense of the action; युवोरनाकौ (*yuvoranākau*) (Pā. Sū. 7-1-1) gives अन (*ana*); लिति (*liti*) (Pā. Sū. 6-1-193) gives udātta before the affix; as a prādi-compound it takes the accent of the kṛdanta latter member. अभवः (*abhavaḥ*): root भू सत्तायां (*bhū sattāyāṃ*); by छंदसि (*chaṃdasi*) … (Pā. Sū. 3-4.6, as printed) … (the page breaks off here, mid-word: ऎंबु (*èṃbu*); continued on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 121 (PDF 121). Done through printed p. 121 (PDF 121). Sukta 9 (Mandala 3): data and Rk 1 written (Samhita, Pada, bhasya pp. 119-120, Pratipadartha, Bhavartha, printed English, Special Topics pp. 120-121 on sakhayah/martasah/apam napatam/suprataurtim); the Vyakarana-prakriya (grammar) of Rk 1 has begun on p. 121 and breaks off mid-sentence at the end of p. 121 (sakhayah: affix in), continuing on p. 122; Rk 2 next. One [?] (stray digit in Special Topics quotation).
+**Progress note:** Done through printed p. 125 (PDF 125). Done through printed p. 125 (PDF 125). Sukta 9 (Mandala 3): Rk 1 grammar note completed on p. 122 (sakhayah, vavrmahe, martasah, utaye, apam, subhagam, supratURtim); Rk 2 written through its Special Topics (Samhita, Pada, bhasya p. 123, Pratipadartha, Bhavartha, printed English and Special Topics pp. 124-125, ending with the Nirukta quotation). Vyakarana-prakriya of Rk 2 begun on p. 125 (kayamanah, vana, ajagan, pramrse, nivartanam) and breaks off mid-word at the end of p. 125 in abhavah (the sutra after 'chandasi', ending 'embu'), continuing on p. 126; Rk 3 next. Page 124 had no marker in the supplied split (merged into p. 123), repaired. No [?].
