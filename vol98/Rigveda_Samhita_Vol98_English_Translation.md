@@ -5784,6 +5784,130 @@ When, Pitu, this (product) of the water-wealthy clouds, (the rain), arrives ; th
 
 अजगन् (*ajagan*) (root गम्‌ल्य गतौ (*gamlya gatau*)): in the Vedic manner *laṅ* in the sense of *liṭ*; third person singular *śip*; by इतश्च (*itaśca*) the final *i* is dropped; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) *śap* is replaced by *ślu*; on that basis reduplication of the root; with *jagam-t*, by हल्‌जाभ्यो— (*haljābhyo—*) the suffix is dropped; by मोनोधातोः (*monodhātoḥ*) (पा. सू. ८-२ ६४ (*pā. sū. 8-2 64*)) the final *m* of the root becomes *n*; the augment *aṭ* for the stem; owing to the connection with *yat* the *nighāta* accent is prohibited; since the augment is acute, the first syllable is acute. विवस्व (*vivasva*): विवः धनं. अस्य आस्ति इति विवस्वान् (*vivaḥ dhanaṃ. asya āsti iti vivasvān*); by तदस्यास्ति— (*tadasyāsti—*) the suffix *matup*; by तसौ मत्पर्धे (*tasau matpardhe*) (पा. सू १-१-१९ (*pā. sū 1-1-19*)) the *bha* designation, so that the *s* ... (the print breaks off at the end of the window, "ಸಕಾರಕ್ಕೆ ರುತ್ವವಿಸರ್ಗ").
 
+### Printed p. 203
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 7] Ṛgveda-saṃhitā 203 (as supplied).*
+
+**Vyākaraṇa-prakriyā** (continuation of the Ṛk 7 grammar page, noted briefly)
+
+Continuing the entry *vivasva*: the *s* does not become *ru*-visarga here; when the genitive plural follows, by सुपां सुलुक् (*supāṃ suluk*) (पा सू. ७-१-३९ (*pā sū. 7-1-39*)) the ending is dropped (*luk*); in the Vedic manner the final *n* is dropped; the suffix being marked *p*, the accent is unaccented (*anudātta*). अत्र (*atra*): by निपातस्य चॆ (*nipātasya cè*) (पा. सू. ६-३-१३६ (*pā. sū. 6-3-136*)) the vowel is lengthened in the Saṃhitā. अरम् (*aram*): by the statement वालमूललघ्व (*vālamūlalaghva*) the substitution of *l* is optional and does not occur here. गम्याः (*gamyāḥ*) (root गम्‌ल्य गतौ (*gamlya gatau*)): *liṅ*, second person singular; the verb-*nighāta* accent.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> यद॒सामोष॑धीनां परिं॒शमा॑रि॒शाम॑हे ।
+> वाता॑पे॒ पीन॒ इद्द॑व ॥ ८ ॥
+
+> *yadasāmoṣadhīnāṃ pariṃśamāriśāmahe |*
+> *vātāpe pīna iddava ‖ 8 ‖*
+
+*[The supplied text has a Pada line reading only । । (*| |*) between its first and last lines; a line seems to be missing in the supplied text.]*
+
+**॥ पदपाठः ॥**
+
+> यत् । अपां । ओषधीनां । परिंशं । आरिशामहे ।
+> । ।
+> वातापे । पीवः । इत् ! भव ॥ ८ ॥
+
+> *yat | apāṃ | oṣadhīnāṃ | pariṃśaṃ | āriśāmahe |*
+> *| |*
+> *vātāpe | pīvaḥ | it ! bhava ‖ 8 ‖*
+
+*[As supplied, a line reading सायुण भाष्य ३ (*sāyuṇa bhāṣya 3*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> यद्येनापामोषधीनां संबंधि परिंशं परिलेशं परितः सुखकरमन्नमारि-
+> शामहे आस्वादयामः भक्षयामः तेनान्नोदकसारेण हे वातापे । वातेन प्राणे-
+> नाप्पोति स्वनिर्वाहमिति वातेनाप्यायत इति वा वातापि शरीरं । हे शरीर त्वं पीव
+> इदाप्यायित एव भव । अन्नोदकाभ्यां शरीरवृद्धिः प्रसिद्धा । यद्वा । यद्यप्यपा-
+> मोषधीनां परिंशं लेशमास्वादयामः तथापि हे वातापे वातवर्त्सर्वव्यापक
+> पितो त्वमल्पमपि पीवः पीवानेव भव ॥
+
+*Gist:* By the essence of food and water, of which we partake, O body (*vātāpi*), grow fat; or, even if we taste only a little, O all-pervading food, be nourishing.
+
+*[As supplied, a line reading प्रतिपदवर्थ (*pratipadavartha*) stands inside the bhāṣya block as the label; standard label inserted. The Pratipadārtha lines carry block marks in the supplied text and are given here as prose.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यत्—याव कारणदिंद (*yat—yāva kāraṇadiṃda*) (since). अपां—अप्पुगळिगू (उदकगळिगू) (*apāṃ—appugaḷigū (udakagaḷigū)*) (of the waters). ओषधीनां—ओषधि गळिगू संबंधिसिदुदू (*oṣadhīnāṃ—oṣadhi gaḷigū saṃbaṃdhisidudū*) (of the plants, related to). परिंशं—पूर्णवागि सुखवन्नुंटुमाडतक्कद्दू आद अन्नवन्नु (*pariṃśaṃ—pūrṇavāgi sukhavannuṃṭumāḍatakkaddū āda annavannu*) (the food that gives complete happiness). अरिशामहे—नावु भक्षिसुत्तेवॆयो (आदुदरिंद) (*ariśāmahe—nāvu bhakṣisuttevèyo (ādudariṃda)*) (we eat, therefore). वातापे—ऎलै शरीरवे (*vātāpe—èlai śarīrave*) (O body). पीव इत् भव— (*pīva it bhava—*)
+
+### Printed p. 204
+
+*Running head: [204 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 187] (as supplied).*
+
+अत्यंत पुष्टवागि बॆळॆ (*atyaṃta puṣṭavāgi bèḷè*) (grow very fat, i.e. well nourished). [Alternatively: अथवा यत्—ऒंदुवेळॆ (*athavā yat—òṃduveḷè*) (if); अपां—अप्पुगळिगू (*apāṃ—appugaḷigū*) (of the waters); ओषधीनां— ओषधिगळिगू संबंधिसिद अन्नदल्लि (*oṣadhīnāṃ— oṣadhigaḷigū saṃbaṃdhisida annadalli*) (in the food related to the plants); परिंशं—अल्पभागवन्नु मात्र (*pariṃśaṃ—alpabhāgavannu mātra*) (only a small part); अरिशामहे—तिंदरू कूड (*ariśāmahe—tiṃdarū kūḍa*) (even if we eat); वातापे—वायुविनंतॆ सर्वव्यापकनाद ऎलै अन्नवे (*vātāpe—vāyuvinaṃtè sarvavyāpakanāda èlai annave*) (O food, all-pervading like the wind); पीव इत् भव— (*pīva it bhava—*) (अल्पवागिद्दरू सह) पुष्टिकारकनागिये आगु (*(alpavāgiddarū saha) puṣṭikārakanāgiye āgu*) (be nourishing even though little). The bracket is not closed in the print.]
+
+**भावार्थ (Bhāvārtha)**
+
+O body, by eating the food related to the waters and plants and giving complete happiness, grow very well nourished.
+
+**Printed English translation**
+
+And since we enjoy, the abundance of the waters aud [sic] the plants; therefore, Body, do you grow fat.
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यॆत् अपां ओषधीनां (*yèt apāṃ oṣadhīnāṃ*) — *oṣadhis* are plants and the like, or the grain and other produce obtained from them. Here "related to water and plants" are qualifiers of food: from water come plants, from plants grain and the like, from grain food; so food is said to be related to plants and water.
+
+वातापे (*vātāpe*) — वातेन प्राणेनाप्नोति स्वनिर्वाहमिति वातेनाप्यायत इति वा (*vātena prāṇenāpnoti svanirvāhamiti vātenāpyāyata iti vā*) वातापि शरीरं (*vātāpi śarīraṃ*): since all functions of the body are carried on by the life-breath, *vātāpi* means the body; or, since it is satisfied by air, *vātāpi* means the body: the bhāṣyakāra gives these two meanings of the word *vātāpi*.
+
+पीवः आस्यायितः (*pīvaḥ āsyāyitaḥ*) — "causing satisfaction" is Sāyaṇa's explanation. In the ṛk numbered ७-९१-३ (*7-91-3*) of the Ṛg. Saṃ.
+
+पीवोअन्ना रयिवृधः सुमेधाः श्वेतः सिषक्ति नियुतामभिश्रीः । (*pīvoannā rayivṛdhaḥ sumedhāḥ śvetaḥ siṣakti niyutāmabhiśrīḥ |*)
+(म. सं. ७-९१-३) (*(ma. saṃ. 7-91-3)*)
+
+in explaining the words *pīvo annān* the bhāṣyakāra says पीवो अन्नान् पीवांसि स्थूलानि प्रभूतान्यन्नानि येषां तान् (*pīvo annān pīvāṃsi sthūlāni prabhūtānyannāni yeṣāṃ tān*), giving *pīva* the sense "stout, that is, much increased". In
+
+उताहमद्मि पीव इदुभा कुक्षी पृणंति मे विश्वस्मादिंद्र उत्तरः । (*utāhamadmi pīva idubhā kukṣī pṛṇaṃti me viśvasmādiṃdra uttaraḥ |*)
+(य. सं. १०-८६-१४) (*(ya. saṃ. 10-86-14)*)
+
+the words जीव [?] इत् स्थूल एव (*jīva [?] it sthūla eva*) (the print has *jīva* where *pīva* is expected; marked [?]) he explains as "stout"; and in
+
+ऊर्जं गावो यवसे पीवो अत्तन ऋतस्य याः सदने कोशे आंग्घ्नी । (*ūrjaṃ gāvo yavase pīvo attana ṛtasya yāḥ sadane kośe āṃgghnī |*)
+(म सं. १०-१००-१०) (*(ma saṃ. 10-100-10)*)
+
+### Printed p. 205
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 7] Ṛgveda-saṃhitā 205 (as supplied).*
+
+the bhāṣyakāra also explains पीवः प्रवृद्धं (*pīvaḥ pravṛddhaṃ*), "increased, causing growth". Hence the word *pīva* may be given the sense "stout" or "nourishing". The body is thus addressed: be satisfied, or grow, by such food. It is a matter of common knowledge that by eating good food the body is satisfied and grows, so there is no need to explain more.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 8, noted briefly)
+
+अपाम् (*apām*): by ऊडिदं पदादि— (*ūḍidaṃ padādi—*) (पा. सू- ६-१-१२१ (*pā. sū- 6-1-121*)) the genitive plural is acute. आरिशामहे (*āriśāmahe*): preverb आज् (*āj*) with the root रिश हिंसायाम् (*riśa hiṃsāyām*); *laṭ*, first person plural; because of the connection with *yat* the *nighāta* accent does not occur; the accent of the stem-suffix remains; by तिजिचोदात्तवति (*tijicodāttavati*) (पा. सू. ८-१-७१ (*pā. sū. 8-1-71*)) the preverb (*ā*) takes the *nighāta* accent. वातापे (*vātāpe*): वातेन आप्नोति इति वातापिः (*vātena āpnoti iti vātāpiḥ*), root आप्‌ल्य व्याप्त् (*āplya vyāpt*), the Uṇādi suffix *i*; vocative, at the beginning of the pāda so no vocative *nighāta*; by आमंत्रितस्य (*āmaṃtritasya*) (पा. सू. ६-१-१९८ (*pā. sū. 6-1-198*)) the first syllable is acute. पीवः (*pīvaḥ*) (root पैज् वृद्धौ (*paij vṛddhau*)): the Uṇādi suffix *van*; *samprasāraṇa* of the root; the following form replaces the preceding; the suffix being marked *n*, the first syllable is acute.
+
+#### Ṛk 9
+
+*[In the Saṃhitā of this Ṛk as supplied, the second line is reduced to a single । (*|*); a line seems to be missing in the supplied text, and the Pada has two lines only.]*
+
+**॥ संहितापाठः ॥**
+
+> यत्ते॑ सोम॒ गवा॑शिरो॒ यवा॑शिरो॒ भजा॑महे ।
+> ।
+> वाता॑पे॒ पीन॒ इद्भ॑व ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> यत् । ते । सोम । गोऽआशिरः । यवऽआशिरः । भजामहे ।
+> वातापे । पीवः । इत् भव ॥ ९ ॥
+
+> *yat | te | soma | go 'āśiraḥ | yava 'āśiraḥ | bhajāmahe |*
+> *vātāpe | pīvaḥ | it bhava ‖ 9 ‖*
+
+*[As supplied, a line reading साहित्यभाष्यं (*sāhityabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> पूर्वमन्नसामान्येन स्तुत्वेदानीं सोमलक्षणमन्नं स्तौति । हे सोम ते
+> तव यद्यमंशं गवाशिरो गोविकारक्षीराद्याश्रयणद्रव्यं यवाशिरो यवनिकारा-
+> श्रयणद्रव्यं भजामहे सेवामहे तेन हे वातापे शरीर पीवो भव ॥
+
+*Gist:* Having praised food in general, he now praises the Soma-food: with the milk-mixed and barley-mixed portion of you, O Soma, which we partake, O body, grow fat.
+
 ---
 
-**Progress note:** Done through printed p. 202 (PDF 202). Done through printed p. 202 (Sukta 187 Rik 6 complete; Rik 7 done through printed English and Special Topics; Rik 7 grammar page breaks off mid-entry at vivasva, continues p. 203)
+**Progress note:** Done through printed p. 205 (PDF 205). Done through printed p. 205 (Sukta 187 Rik 8 complete; Rik 9 Samhita, Pada, bhashya done; Rik 9 Pratipadartha next); [?] on jiva/piva in Rik 8 Special Topics; missing verse lines noted in Rik 8 Pada and Rik 9 Samhita
