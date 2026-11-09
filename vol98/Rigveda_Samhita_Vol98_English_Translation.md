@@ -6654,6 +6654,93 @@ although by these sentences identity is stated between *samidh* and the vital br
 
 *Gist (the supplied text breaks off here, at the end of the window):* *Tanūnapāt* is the preserver of the body of the sacrifice, or the grandson of the waters, since Agni arises from the waters through the plants.
 
+### Printed p. 230
+
+*Running head: [230 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A 24. Sū. 188] (as supplied).*
+
+**Sāyaṇa-bhāṣya** (Ṛk 2, continued from p. 229)
+
+> यज्ञः पूज्यः । यज्ञनिर्वाहकत्वाद्या यज्ञः । ईदृशोऽग्निर्यतं यज्ञं यते ।
+> गच्छते । अनुतिष्ठते । यजमानाय तदभिमतार्थं । मध्वा मधुरेणाज्यसोमादि-
+> द्रव्येण समज्यते । किं कुर्वन्नयं । सहस्रिणीरेतत्संख्याकानीषोऽन्नानि दधद्यज-
+> मानेभ्यो धारयन् ॥
+
+*Gist:* *Yajña* means worshipful; Agni, the carrier-out of the sacrifice, goes to the sacrifice for the sacrificer, is anointed with sweet ghee and Soma, bearing thousands of foods for the sacrificers.
+
+*[As supplied, a line reading प्रतिपादनॆ (*pratipādanè*) stands inside the bhāṣya block as the label; standard label inserted. The following lines carry block marks in the supplied text and are given as prose.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+तनूनपात्—तनूनपात् ऎंब हॆसरिनिंद प्रसिद्धनादवनू (*tanūnapāt—tanūnapāt èṃba hèsariniṃda prasiddhanādavanū*) (famed by the name Tanūnapāt). यज्ञः—पूज्यनादवनू आद अग्नियु (*yajñaḥ—pūjyanādavanū āda agniyu*) (Agni, the worshipful). सहस्रिणीः—सहस्रसंख्याकवाद (*sahasriṇīḥ—sahasrasaṃkhyākavāda*) (thousandfold). इषः—अन्नवन्नु (*iṣaḥ—annavannu*) (food). दधत्—धरिसिकॊंडु (*dadhat—dharisikòṃḍu*) (bearing). यतं—यज्ञवन्नु (*yataṃ—yajñavannu*) (the sacrifice). यते—अचरिसुव यजमाननिगागि (*yate—acarisuva yajamānanigāgi*) (for the sacrificer who performs). मध्वा—मधुरवाद आज्यादि द्रव्य गळिंद (*madhvā—madhuravāda ājyādi dravya gaḷiṃda*) (with sweet substances such as ghee). समज्यते—(हविस्सन्नु) सेरिसुत्तानॆ (*samajyate—(havissannu) serisuttānè*) (he combines the oblation).
+
+*[As supplied, the label line reads भावार्थ. (*bhāvārtha.*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, famed by the name Tanūnapāt and worshipful, bearing thousands of foods, combines the oblation, with sweet substances such as ghee, for the sacrificer who performs the sacrifice.
+
+**Printed English translation**
+
+The adorable Tanunapat proceeds to the rite, and combines with the oblation, bearing (for the sacrificer) infinite (abundance of) food.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 2)**
+
+ऋतं (*ṛtaṃ*) — here the bhāṣyakāra takes the sense "sacrifice" for the word *ṛta*. Yāska, in his Nirukta, citing the ṛk
+
+न यातव इंद्र जूजुवुर्नो न वंदना शविष्ठ वेद्याभिः । (*na yātava iṃdra jūjuvurno na vaṃdanā śaviṣṭha vedyābhiḥ |*)
+स शर्धदयो विषुणस्य जंतोर्मा शिश्नदेवा अपि गुर्यतं नः ॥ (*sa śardhadayo viṣuṇasya jaṃtormā śiśnadevā api guryataṃ naḥ ‖*)
+(ऋ सं. ७-२१-५) (*(ṛ saṃ. 7-21-5)*)
+
+explains the word *ṛta* as सत्यं वा यज्ञं वा (*satyaṃ vā yajñaṃ vā*) (नि. ४-१९ (*ni. 4-19*)), "truth or sacrifice". The word *ṛta* has many meanings; in the present ṛk the sense "sacrifice" is suitable.
+
+तनूनपात् (*tanūnapāt*) — यज्ञशरीरस्य नपातयिता (*yajñaśarīrasya napātayitā*): one who does not destroy the body of the sacrifice, that is, the protector of the sacrifice: one kind of meaning; and यद्वा । आपोऽत्र तन्नउच्यंत इत्युक्तत्वादपां नपातयिता तासां नप्ता वा । अद्भ्यः ओषधयः ओषधीभ्योऽग्निरिति नप्तृत्वं (*yadvā | āpo 'tra tannaucyaṃta ityuktatvādapāṃ napātayitā tāsāṃ naptā vā | adbhyaḥ oṣadhayaḥ oṣadhībhyo 'gniriti naptṛtvaṃ*). Or, *āpaḥ* here must be taken in the sense of "body". That is, *naptṛ* of the *āpaḥ*, the waters
+
+### Printed p. 231
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 8] Ṛgveda-saṃhitā 231 (as supplied).*
+
+(grandson). How? From the waters (rain and other waters) plants and trees are produced; from those plants and trees (from the pieces of the tree called *araṇi*) Agni is produced. Therefore Agni is the *naptṛ* of the *apām*, the waters: this is the meaning. We have explained at length, on pages 144-146 (*144-146*), that the two words *tanūnapāt* and *apāṃ napāt* have the same meaning.
+
+तनूनपात् (*tanūnapāt*) — for this word Sāyaṇa, on the basis of the Nirukta, has given two kinds of meaning. First: तनूनपात् आज्यं इति कात्क्यपक्षे तन्नो गावो भोगानां तासु जायमानत्वात् । ताभ्यः उत्पन्नं क्षीरं क्षीरात्सर्पिः इति आज्यस्य नप्तृत्वं । तद्वान् यज्ञः (*tanūnapāt ājyaṃ iti kātkyapakṣe tanno gāvo bhogānāṃ tāsu jāyamānatvāt | tābhyaḥ utpannaṃ kṣīraṃ kṣīrātsarpiḥ iti ājyasya naptṛtvaṃ | tadvān yajñaḥ*). If the meaning "ghee" of Kātkya is accepted, then the word *tanu* means a cow, and as ghee arises from the milk produced from it, *tanūnapāt* means ghee, or a sacrifice accompanied by ghee. In this context, from the Nirukta-authors' sentence नपादित्यनंतरायाः प्रजाया नामधेयं निर्णिततमा भवति (*napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ nirṇitatamā bhavati*) (नि. ८-५ (*ni. 8-5*)), the word *napāt* means grandson, so here too it means ghee produced from the milk produced from cows. Second: अग्निपक्षे अपस्तन्न उच्यंते । ताभ्यः ओषधिवनस्पतयः, तेभ्योS [?] ग्निरिति नप्तृत्वं । आरणीभ्यां इति भावः (*agnipakṣe apastanna ucyaṃte | tābhyaḥ oṣadhivanaspatayaḥ, tebhyoS [?] gniriti naptṛtvaṃ | āraṇībhyāṃ iti bhāvaḥ*) (the print has a Latin *S* for the avagraha, marked [?]): the word *tanu* means water, from which plants and trees (the *araṇis*) arise and from them Agni is born, so he is named *tanūnapāt*. These two kinds of meaning are given. In the Bṛhaddevatā:
+
+अयं तनूनपादग्निरसौ हि तननात्तनुः । (*ayaṃ tanūnapādagnirasau hi tananāttanuḥ |*)
+ततस्तु मध्यमो जज्ञे स्थानेऽयं मध्यमात्ततः ॥ (*tatastu madhyamo jajñe sthāne 'yaṃ madhyamāttataḥ ‖*)
+अनंतरां प्रजामाहुर्नपादिति कृपण्यवः । (*anaṃtarāṃ prajāmāhurnapāditi kṛpaṇyavaḥ |*)
+नपादमुष्य चैवायं अग्निस्तेन तनूनपात् । (*napādamuṣya caivāyaṃ agnistena tanūnapāt |*)
+(बृ दे. २-७६ रिंद २७) (*(bṛ de. 2-76 riṃda 27)*)
+
+तनूनपादयं त्वेव नाम्ना यच्छत्वसौ तनुं । (*tanūnapādayaṃ tveva nāmnā yacchatvasau tanuṃ |*)
+नपादिति प्रजा माहुरमुतोऽस्य च संभवं । (*napāditi prajā māhuramuto 'sya ca saṃbhavaṃ |*)
+(बृ. दे. ३-१) (*(bṛ. de. 3-1)*)
+
+This terrestrial Agni is the *napāt*, grandson, of the Agni of the divine world. How? The divine Agni, being possessed of the power of spreading (*tananāt*), is called by the synonym *tanu*. From him the Agni of the atmosphere, in the form of lightning, and from him this terrestrial Agni are produced; therefore the terrestrial Agni is named *tanūnapāt*
+
+### Printed p. 232
+
+*Running head: [232 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+(the sentence continues from p. 231). It is also explained that he is named *tanūnapāt* because, spreading out from his own body, he is produced in this form.
+
+सहस्रिणीः इषः (*sahasriṇīḥ iṣaḥ*) — the sense is various foods or nourishments.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 2, noted briefly)
+
+तनूनपात् (*tanūnapāt*): तनुं नपातॆयति इति तनूनपात् (*tanuṃ napātèyati iti tanūnapāt*); by the *vṛṣādi* list it takes the first-syllable acute. यते (*yate*) (root इण् गत् (*iṇ gat*)): the participle substituted for *laṭ*; by इणोयण् (*iṇoyaṇ*) (पा. सू. ६-४-८१ (*pā. sū. 6-4-81*)) the substitute *yaṇ* for the root; by शतुरनुमोनद्यजादी (*śaturanumonadyajādī*) (पा. सू. ६-१-१७३ (*pā. sū. 6-1-173*)) the dative ending is acute. मध्वा (*madhvā*): by the statement जसादिषु छंदसि वा वचनम् (*jasādiṣu chaṃdasi vā vacanam*) the *nābhāva* and similar changes do not occur; the substitute *yaṇ*. अज्यते (*ajyate*) (root अंजू व्यक्तिम्रक्षकांतिगतिषु (*aṃjū vyaktimrakṣakāṃtigatiṣu*)): *laṭ* in the passive; by सार्वधातु- केयक् (*sārvadhātu- keyak*) (पा. सू. ३-१-६७ (*pā. sū. 3-1-67*)) the suffix *yak*, being marked *k*, by अनिदितांहलउपधा— (*aniditāṃhalaupadhā—*) the nasal of the root is dropped; owing to the connection with a finite verb the *nighāta* accent. दधत् (*dadhat*) (root डुधाञ् धारणपोषणयोः (*ḍudhāñ dhāraṇapoṣaṇayoḥ*)): the participle for *laṭ*; by अभ्यस्तानामादिः— (*abhyastānāmādiḥ—*) (पा. सू. ६-१-१८९ (*pā. sū. 6-1-189*)) the first syllable is acute. सहस्रिणीः (*sahasriṇīḥ*): सहस्रं आसां अस्ति इति सहस्रिण्यः (*sahasraṃ āsāṃ asti iti sahasriṇyaḥ*); by अतइनिरनौ (*atainiranau*) the suffix *ini* in the sense of possession; the feminine in *n*, by ऋन्नेभ्योऽजीप् (*ṛnnebhyo 'jīp*) the suffix *ṅīp*; accusative plural.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> आ॒जुह्वा॑नो न॒ ईड्यो॑ दे॒वा आ व॑क्षि य॒ज्ञिया॑न् ।
+> अग्ने॑ सहस्र॒सा अ॑सि ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> आजुह्वानः । नः । ईड्यः । देवान् । आ । वक्षि । यज्ञियान् ।
+> अग्ने । सहस्रसाः । असि ॥ ३ ॥
+
+*[Stray line of the supplied text after the Pada: Pages: 250/250 (*Pages: 250/250*); not part of the text.]*
+
 ---
 
-**Progress note:** Done through printed p. 229 (PDF 229). Done through printed p. 229 (Sukta 188 Rik 1 complete; Rik 2 Samhita, Pada, bhashya begun, bhashya breaks off at naptritvam); [?] on kanirvaha, sharushanu
+**Progress note:** Done through printed p. 232 (PDF 232). Done through printed p. 232 (Sukta 188 Rik 2 complete; Rik 3 Samhita and Pada done; Rik 3 bhashya next); [?] on Latin S for avagraha
