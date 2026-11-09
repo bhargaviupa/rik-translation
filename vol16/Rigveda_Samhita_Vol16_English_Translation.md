@@ -849,6 +849,91 @@ Seven sages with five ministering priests attend the station that is pre-pared [
 
 पंचभिः अध्वर्युभिः सप्त विप्राः (*pañcabhiḥ adhvaryubhiḥ sapta viprāḥ*): उद्गातृवर्गव्यतिरिक्ताः द्वादशर्त्विजो भवंति । तत्र सप्तवषट्कर्तारः । पञ्चान्ये अध्वरं नयंति : सप्त मेधाविनो होत्रकाः (*udgātṛvargavyatiriktāḥ dvādaśartvijo bhavanti; tatra saptavaṣaṭkartāraḥ; pañcānye adhvaraṃ nayanti; sapta medhāvino hotrakāḥ*) (the Sanskrit as supplied; the supplied text has *saptavaṣaṭkartāraḥ* and *pañcānye*, with a colon where a danda is expected). The people who are appointed to perform the duties necessary in a sacrifice while it is being performed are called priests (*ṛtvij*). Since the sacrifice is a rite carried on by the several priests who have studied the four Vedas, those who have studied each Veda perform the rites of that Veda; so the priests connected with the performance of the sacrifice fall into four groups: the Hotṛ group, the Adhvaryu group, the Udgātṛ group and the Brahman group. The priests of the Hotṛ group are those who have studied the Ṛgveda; with the respective mantras they invoke the respective gods. Those of the Adhvaryu group have studied the Yajurveda; in the manner prescribed they prepare the oblation-substances for the gods invoked by the Hotṛ, according to the order prescribed, and after hearing the Hotṛ's *vaṣaṭ* call they perform the respective offerings. Those of the Udgātṛ group have studied the Sāmaveda; in the respective sacrifice they
 
+### Printed p. 31
+
+*[Running head, p. 31: Ā. 3. A. 1. Va. 2. Ṛgvedasaṃhitā 31 (as supplied; "Ā." for "Maṃ.")]*
+
+(Special Topics continued from p. 30.) ... perform the respective sāmans in the order prescribed. The priests of the Brahman group (the Upadraṣṭṛ and the others) see that the sacrifice is completed in the prescribed manner by carrying out the proper expiations for deficiencies and excesses in the necessary duties of the sacrifice. The four groups together make sixteen persons. Among these sixteen (leaving aside the priests of the Udgātṛ group, the Brahman, the priests of the Brahman group, and the sacrificer) seven priests belong to the group of those who utter the *vaṣaṭ*. Sāyaṇa has described this point by the words उद्धातृ वर्ग व्यतिरिक्ताः द्वादश ऋत्विजः (*uddhātṛ varga vyatiriktāḥ dvādaśa ṛtvijaḥ*), "twelve priests apart from the priests of the Udgātṛ group". Of these, the seven who make the *vaṣaṭ* call, including those of the Hotṛ group, he has explained by सप्त वषट्कर्तारः (*sapta vaṣaṭkartāraḥ*). पंचाध्वर्यवः (*paṃcādhvaryavaḥ*): the five, including the priests who assist in performing the work of the Adhvaryu, are described as Adhvaryus. In all, the twelve priests carry out their respective rites without break, in the prescribed manner of the sacrifice. The Nirukta says:
+
+गायत्रमेको गायति शक्वरीषूद्घाता (*gāyatrameko gāyati śakvarīṣūdghātā*) ... ब्रह्मैको जाते जाते विद्यां वदति (*brahmaiko jāte jāte vidyāṃ vadati*) ब्रह्मा सर्वविद्यः सर्वं वेदितुमर्हति (*brahmā sarvavidyaḥ sarvaṃ veditumarhati*) ... यज्ञस्य मात्रां विमिमीत एकोऽध्वर्युः (*yajñasya mātrāṃ vimimīta eko 'dhvaryuḥ*) अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति वा (*adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti vā*) ... अध्वर इति यज्ञनाम (*adhvara iti yajñanāma*) ध्वरतिर्हिंसाकर्मा तत्प्रतिषेधः (*dhvaratirhiṃsākarmā tatpratiṣedhaḥ*) (the passage is given with its ellipses and punctuation as supplied).
+
+The root *dhvar* conveys the sense "to injure"; since the injury done in a sacrifice is directed to the deity, it is established that it is not injury. Hence the word *adhvara* denotes the sacrifice, the purifying rite. In this rite the so-called Udgātṛ sings the sāman called Gāyatra. The priest called Brahman is the one who knows all the rites performed in the sacrifice; he informs the other priests of the order in which the respective rites are performed. The priest called Adhvaryu is the one who carries out the rites of the sacrifice, or who carries the sacrifice forward, or who desires that the sacrifice proceed until it is completed; thus the Nirukta explains the duties of the Adhvaryu, Brahman and Udgātṛ.
+
+Durgācārya: यदृचैव हौत्रं क्रियते (*yadṛcaiva hautraṃ kriyate*) (Ai. Brā. 5-5-8) एतत्तावदृगध्ययॆनकर्म तस्मिन् होतरि विनियुक्तं (*etattāvadṛgadhyayènakarma tasmin hotari viniyuktaṃ*). Since the Aitareya Brāhmaṇa passage teaches that the Hotṛ performs the rites of the sacrifice with the Ṛgveda itself, all the rites of the sacrifice that belong to the Ṛgveda are the concern of the priest called Hotṛ. साम्योद्गीथं (*sāmyodgīthaṃ*) (Ai. Brā. 5-5-8) — उद्गाता (*udgātā*) तस्मिन्नप्येतत्सामगानकर्म विनियुक्तं (*tasminnapyetatsāmagānakarma viniyuktaṃ*): the Udgītha is to be performed with the Sāmaveda; the one who performs this rite is called the Udgātṛ; the sāman-singing rite connected with the sacrifice is assigned to him.
+
+### Printed p. 32
+
+*[Running head, p. 32: 32 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7.]]*
+
+ब्रह्मा नाम एक ऋत्विक् जाते प्रायश्चित्ते विद्यां वदति इतरेभ्यः ऋत्विग्भ्यः इदमत्र कुरुतेति (*brahmā nāma eka ṛtvik jāte prāyaścitte vidyāṃ vadati itarebhyaḥ ṛtvigbhyaḥ idamatra kuruteti*): the priest called Brahman, when a deviation arises in the performance of the sacrificial rites, instructs the other priests in the manner of performing the expiation to remedy it. तत्रापि ह्येतत्कर्मविनियुक्तं (*tatrāpi hyetatkarmaviniyuktaṃ*): this duty is assigned to the Brahman among the rites of the sacrifice. अथ केन ब्रह्मत्वं क्रियत इति त्रय्या विद्यया (*atha kena brahmatvaṃ kriyata iti trayyā vidyayā*) (Ai. Brā. 5-5-8): the Aitareya Brāhmaṇa says that to perform the Brahman's office he must also have knowledge of the three Vedas. या काचिदिति कर्तव्यता यज्ञस्य, तां विमिमिते अध्वर्युः, नानाप्रकारं करोति (*yā kāciditi kartavyatā yajñasya, tāṃ vimimite adhvaryuḥ, nānāprakāraṃ karoti*): the commentary on the Nirukta explains that the Adhvaryu performs all the remaining necessary duties of the sacrifice, other than the rites to be performed by the Brahman, the Hotṛ and the Udgātṛ.
+
+Sāyaṇa has repeated the word देवाः (*devāḥ*) and given the word *deva* two kinds of meaning. First: प्रांचः अजुर्याः उक्षणः देवाः मदंति (*prāṃcaḥ ajuryāḥ ukṣaṇaḥ devāḥ madaṃti*) — the praisers, going facing east for the drinking of the Soma, are joyful; this is the meaning explained. Second: देवाः ऋत्विजः देवानां व्रतानि अनु गुः (*devāḥ ṛtvijaḥ devānāṃ vratāni anu guḥ*) — the priests carry out the joy-giving works of the sacrifice that bring satisfaction to the gods. From this he has explained the meaning: आग्नेः प्रसादात् हनिर्लक्षणान्नवंतो देवाः यज्ञान् लब्धवंतः (*āgneḥ prasādāt hanirlakṣaṇānnavaṃto devāḥ yajñān labdhavaṃtaḥ*) — by Agni's favour the gods, who obtain food in the form of the oblation, obtain it through the sacrifice. प्रांचः मदंति—सोमपानार्थं प्राज्मुखा गच्छंतः (*prāṃcaḥ madaṃti—somapānārthaṃ prājmukhā gacchaṃtaḥ*): the seven Hotṛs and the five Adhvaryus, guarding the fire called Āhavanīya, go facing east for the drinking of the Soma; thus the meaning is explained.
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+Words treated (with the Pāṇinian sūtras as printed): रक्षंते (*rakṣaṃte*) (root *rakṣ* "to protect"; ātmanepada by the rule *vyatyayo bahulam*; laṭ third plural; nighāta accent after a finite verb), निहितम् (*nihitam*) (root *ḍudhāñ* "to hold, to nourish"; kta in the passive sense, *niṣṭhā* (Pā. Sū. 3-2-102); replacement *hi*, *dadhāter hiḥ* (Pā. Sū. 7-4-42); prefix accent by *gatiranantaraḥ* (Pā. Sū. 6-2-49)), वेः (*veḥ*) (root *vī* "to shine, to go"; vic suffix; guṇa by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84)
+
+### Printed p. 33
+
+*[Running head, p. 33: Ā. 3. A. 1. Va. 2. Ṛgvedasaṃhitā (the page number is not printed in the supplied text; the marker was inserted)]*
+
+Grammar page continued, noted briefly: the guṇa of the root's *i* gives the stem *ve*; before the genitive singular ending *jas*, *jasijasoś ca* (Pā. Sū. 6-1-110) gives the earlier form; rutva and visarga; udātta accent. प्रांचः (*prāṃcaḥ*) (prefix *pra* with the root *añc* ending in kvin; prādi compound; the accent of the first member, *anigantoñcau* (Pā. Sū. 6-2-52)). मदंति (*madaṃti*) (root *madī* "to rejoice"; laṭ third plural; all-anudātta after a finite verb). उक्षणः (*ukṣaṇaḥ*) (nominative plural; optional lengthening of the penultimate, *pāpapūrvasya nigame* (Pā. Sū. 6-4-9)). व्रता (*vratā*) (neuter plural; *śi* replacement, then elision of *śi*, *śeś chandasi bahulam* (Pā. Sū. 6-1-70)). गुः (*guḥ*) (root *iṇ* "to go"; adādi; luṅ; replacement *gā*, *iṇo gā luṅi* (Pā. Sū. 2-4-45); luk of the sic, *gātisthāghupā* (Pā. Sū. 2-4-77); *jus* for *jhi*, *ata* (Pā. Sū. 3-4-110); the augment *aṭ* does not occur, *bahulaṃ chandasy* (Pā. Sū. 6-4-75); because of the connexion with *hi*, the lowering of accent is prevented, *hi ca* (Pā. Sū. 8-1-34), and the word is udātta).
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> देव्या॒ होता॑रा प्रथ॒मा नृं॑जे स॒प्त पृ॒क्षासः॑ स्व॒धया॑ म-
+> दंति ।
+> ऋ॒तं शंसं॑त ऋ॒तमित्त आ॑हु॒रनु॑ व्र॒तं व्र॑त॒पा दीध्या॑नाः
+> ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> दैव्या । होतारा । प्रथमा । नि । यंजे । सप्त । पृक्षासः । स्वधया । मदंति ।
+> ऋतं । शंसंतः । ऋतं । इत् । ते । आहुः । अनु । व्रतं । व्रतःपाः । दीध्याणः ॥
+
+> *daivyā | hotārā | prathamā | ni | yaṃje | sapta | pṛkṣāsaḥ | svadhayā | madaṃti |*
+> *ṛtaṃ | śaṃsaṃtaḥ | ṛtaṃ | it | te | āhuḥ | anu | vrataṃ | vrataḥpāḥ | dīdhyāṇaḥ ‖*
+
+*Note: the Saṃhitā has देव्या (*devyā*) and नृंजे (*nṛṃje*) where the Pada has दैव्या (*daivyā*) and नि यंजे (*ni yaṃje*); the Saṃhitā दीध्यानाः (*dīdhyānāḥ*) against the Pada दीध्याणः (*dīdhyāṇaḥ*); a stray "5" follows the Pada in the supplied text. All as supplied.*
+
+### Printed p. 34
+
+*[Running head, p. 34: 34 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7.]]*
+
+**॥ सायणभाष्यम् ॥**
+
+> दैव्या दैवौ देवतारूपौ होतारा होतार् होमनिष्पादकौ प्रथमा प्र-
+> थमौ मुख्याविमं चामुं चाग्नी न्यृंजे । यंजतिः प्रसाधनकर्मेति यास्कः । मंत्र-
+> द्रष्टा विश्वामित्रोऽहं प्रसाधयामि । सप्त पृक्षासः सप्त होत्रकाः स्वधया
+> सोमेन मदंति । ह्यष्यंति । ऋतं स्तोत्रं शंसंतो व्रतपा व्रतस्य यज्ञ कर्म-
+> णो रक्षितारो दीध्याना दीप्यमानास्ते होत्रका अनु व्रतं यज्ञॆ कर्मणि ऋत-
+> मित् सत्यमेवाग्नि माहुः । वदंति ॥ यंजे । ऋजि भृजी भर्जने । निपूर्वोऽयं
+> धातुः प्रसाधने वर्तते । निघातः । स्वधया । स्वं लोकं यजमानस्य दधाति विद-
+> धातीति स्वधा सोमः । आतोनुपसर्गे क इति कः । कृदुत्तरपदप्रकृतिस्वरत्वं । आहुः ।
+> ब्रूञ् व्यक्तायां वाचीत्यस्य लटि ब्रुवः पंचानामादित आहो ब्रुव इति झेरु-
+> सादेशो ब्रुवश्च आहादेशः । निघातः । दीध्यानाः । दीधीज् दीप्ति देवनयोरित्यस्माच्छा
+> नच् । तस्य चित्वादंतोदात्तत्वे प्राप्तेऽभ्यस्तानामादिरित्ताद्वयुदात्तत्वं ॥
+
+*Gist: the two chief divine Agnis, the accomplishers of the oblation, are propitiated by the seer Viśvāmitra; the seven Hotṛs rejoice with Soma and, guarding the rite, declare Agni the truth in every rite. The grammatical tail (yañje, svadhayā, āhuḥ, dīdhyānāḥ) is transcribed, not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Daivyā — those of divine form. Hotārā — the accomplishers of the oblations. Prathamā — the chief; the two Agnis. Ni ṛñje — (I) praise. Sapta pṛkṣāsaḥ — the seven Hotṛs. Svadhayā — with the Soma oblation. Madanti — they satisfy. Ṛtam — (Agni's) praise. Śaṃsantaḥ — those praising, guardians of the sacrifice, radiant ones. Te — those priests. Anuvrataṃ — in every rite. Ṛtam it — Agni alone, of the nature of truth. Āhuḥ — they declare (as the aim of the sacrifice).
+
+**भावार्थ (Bhāvārtha)**
+
+I praise the two chief Agnis, of divine form and accomplishers of the oblations; the seven Hotṛs gladden Agni with the Soma oblation; those priests, who praise Agni, guard the sacrifice and are radiant, declare in every rite that Agni, of the nature of truth, is the one aimed at.
+
+**Printed English**
+
+I propitiate the two first divine offerers of sacrifice ; the seven (priests) rejoice with the libation ; the illustrious celebrators of holi [sic] worship, reciting (his) praises, have called AGNI the true (object) of every rite.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+दैव्या होतारा (*daivyā hotārā*) — दैवौ देवतारूपौ होतार् होमनिष्पादकौ (*daivau devatārūpau hotār homaniṣpādakau*). The two priests called Hotṛ and Maitrāvaruṇa perform the oblations connected with the sacrifice, (the Special Topics continue on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 30 (PDF 30). Sukta 7 Rk 6 grammar end; Rk 7 complete to Special Topics start
+**Progress note:** Done through printed p. 34 (PDF 34). Done through printed p. 34. Sukta 7 Rk 8 Samhita/Pada/bhashya/Pratipadartha/Bhavartha done; Special Topics begin (break off after the Hotr/Maitravaruna sentence)
