@@ -13282,6 +13282,118 @@ In this ṛk, having given for the word बृहतः (*bṛhataḥ*) the mean
 
 *(The supplied text ends here, at the end of p. 443, after a complete passage of the Special Topics of Ṛk 7.)*
 
+### Printed p. 444
+
+*Running head (as supplied): [444 सायणभाष्यसहिता [मं. २. अ. १. सू. २] (*[444 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 2]*).*
+
+#### Ṛk 8
+
+*[As supplied, the label line of the Saṃhitā of Ṛk 8 reads कंठनाथ. (*kaṃṭhanātha.*); standard label inserted. The Saṃhitā, printed as plain lines, is given as a quoted block, and the hyphen-split word at its line end is joined.]*
+
+**॥ संहितापाठः ॥**
+
+> स इ॑धा॒न उ॒षसो॒ राम्या॒ अनु॒ स्व१॒॑र्ण दी॑देदरु॒षेण॑ भा॒नुना॑ ।
+> होत्रा॑भिर॒ग्निर्मनु॑षः स्वध्व॒रो राजा॑ वि॒शामति॑थि॒श्चारु॑रा॒यवे॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । इधानः । उषसः । राम्याः । अनु । स्वः । न । दीदेत् । अरुषेण । भानुना ।
+> होत्राभिः । अग्निः । मनुषः । सुअध्वरः । राजा । विशां । अतिथिः । चारुः । आयवे॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सोऽग्नि राम्या रमणहेतुभूता उषसोऽनु अनुलक्ष्येधान इध्यमानो
+> दीपितः सन् अरुषेण रोचमानेन भानुना तेजसा स्वर्ण आदित्य इव दीदेत्। दिप्यते।
+> सोऽग्निर्मनुषो मनुष्यस्य होतुर्होत्राभिः । होत्रेति वाङ्णाम। होमसाधन-
+> भूताभिः स्तुतिभिः स्तूयमानः स्वध्वरः शोभनयागो विशां प्रजानां राजा राज-
+> मानः स्वाम्यायवे मनुष्याय यजमानाय तदर्थं चारुश्चरणशीलोऽतिथिरतिथि-
+> वत्तोज्यो भवति ॥
+
+*Gist:* Agni, kindled at the lovely dawn, shines like the sun; praised by hymns, he is lord of the people and a worshipful guest to sacrificers.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः - अग्नियु (*saḥ - agniyu*) (he, Agni (printed with a spaced hyphen)). राम्याः—रमणीयवाद (*rāmyāḥ—ramaṇīyavāda*) (delightful). उषसः अनु—उषस्सिन उदयवादॊडनॆ (*uṣasaḥ anu—uṣassina udayavādòḍanè*) (immediately after the rising of the dawn). इधानः—प्रज्वलितनागि (*idhānaḥ—prajvalitanāgi*) (kindled). अरुषेण—आरोचमानवाद (*aruṣeṇa—ārocamānavāda*) (of radiant). भानुना—तेजस्सिनिंद (*bhānunā—tejassiniṃda*) (with lustre). स्वर्ण—आदित्य नंतॆ (*svarṇa—āditya naṃtè*) (like the sun). दीदेत्—कंगॊळिसुत्तानॆ (*dīdet—kaṃgòḷisuttānè*) (he shines). (सः) अग्निः-अदे अग्नियु (*(saḥ) agniḥ-ade agniyu*) ((he) that same Agni (the bracketed pronoun is in the print)). मनुषः—मानवनाद होतृ विन (*manuṣaḥ—mānavanāda hotṛ vina*) (of the human hotṛ (the word is divided by a line break)). होत्राभिः—स्तुतिगळिंद स्तुतनागियू (*hotrābhiḥ—stutigaḷiṃda stutanāgiyū*) (praised by the praises). स्वध्वरः—श्रेष्ठवाद यागवुळ्ळवनागियू (*svadhvaraḥ—śreṣṭhavāda yāgavuḷḷavanāgiyū*) (having an excellent sacrifice). विशां—प्रजॆगळिगॆ (*viśāṃ—prajègaḷigè*) (to the people). राजा—स्वामियागियू (*rājā—svāmiyāgiyū*) (as lord). आयवे—मानवनिगॆ (*āyave—mānavanigè*) (to the man (the sacrificer)). चारुः—आगतनाद (*cāruḥ—āgatanāda*) (one who has come). अतिथिः—अतिथियंतॆ पूज्यनागियू इरुत्तानॆ (*atithiḥ—atithiyaṃtè pūjyanāgiyū iruttānè*) (worshipful like a guest).
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, kindled immediately at the rising of the delightful dawn, shines like the sun with radiant lustre. That same Agni, praised by the praises of the human hotṛ, having an excellent sacrifice, is lord of the people and is worshipful like a guest.
+
+### Printed p. 445
+
+*Running head (as supplied): [अ. २. अ. ५. न. २१.] ऋग्वेदसंहिता 445 (*[a. 2. a. 5. na. 21.] ṛgvedasaṃhitā 445*).*
+
+**Printed English translation**
+
+Kindled at the beautiful dawn, (Agni) shines with brilliant lustre, like the sun ; adored by the hymns of the worshipper, Agni, the king of men, (comes as) an agreeable guest to the institutor of the sacrifice.
+
+*[As supplied, the label line of the Special Topics reads विशेषविसयगळु (*viśeṣavisayagaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 8)**
+
+सः अरुषेण भानुना स्वर्णः दीदेत् (*saḥ aruṣeṇa bhānunā svarṇaḥ dīdet*)—अग्निः उषसि दीपितस्सर् रोचमानेन तेजसा आदित्य इव दीप्यते (*agniḥ uṣasi dīpitassar rocamānena tejasā āditya iva dīpyate*) (as printed): since Agni has the oblations offered by the sacrificers at the dawn-times, he is described as shining with radiance and glowing like the sun with his shining lustres.
+
+सः मनुषः होत्राभिः स्वध्वरः (*saḥ manuṣaḥ hotrābhiḥ svadhvaraḥ*): Agni, praised by the praises of the sacrificer who accomplishes the homa (the means of the homa), has a sacrifice that is fully performed. Since Yāska has read the word printed here in the names of speech (the print has a misprint in the compound name) (नि. २-२२ (*ni. 2-22*)), the meaning "praise-word" is explained for this word (the printed form of "praise-word" is also misspelt and is left as printed).
+
+विशां राजा आयवे अतिथिः (*viśāṃ rājā āyave atithiḥ*): Agni is described as a shining lord with respect to the people, and, with respect to the sacrificer who worships him, as worshipful like a charming guest.
+
+Yāska has read the words विशः आयवः (*viśaḥ āyavaḥ*) among the names of men (नि. ३-८ (*ni. 3-8*)). Sāyaṇa has explained here the meaning for the word विशां (*viśāṃ*) as प्रजानां (*prajānāṃ*), "of the people", and for आयवे—मनुष्याय यजमानाय (*āyave—manuṣyāya yajamānāya*) as "the man, the sacrificer".
+
+#### Ṛk 9
+
+*[The Saṃhitā lines are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> ए॒वा नो॑ अग्ने अ॒मृते॑षु पूर्व्य॒ धीष्पी॑पाय बृ॒हद्दि॑वेषु॒ मानु॑षा ।
+> दुहा॑ना धे॒नुर्वृ॒जने॑षु का॒रवे॒ त्मना॑ श॒तिनं॑ पुरु॒रूप॑मि॒षणि॑ ॥ ९ ॥
+
+> *evā no agne amṛteṣu pūrvya dhīṣpīpāya bṛhaddiveṣu mānuṣā |*
+> *duhānā dhenurvṛjaneṣu kārave tmanā śatinaṃ pururūpamiṣaṇi ‖ 9 ‖*
+
+### Printed p. 446
+
+*Running head (as supplied): [446 सायणभाष्यसहिता [मं. २. अ. १. सू. २] (*[446 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 2]*).*
+
+*[As supplied, the label line of the bhāṣya of Ṛk 9 reads सांख्यभाष्यं (*sāṃkhyabhāṣyaṃ*), inside the Pada block; standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> एव । नः । अग्ने । अमृतेषु । पूर्व्य । धीः । पीपाय । बृहत् ऽदिवेषु । मानुषा ।
+> दुहाना । धेनुः । वृजनेषु । कारवे । त्मना । शतिनं । पुरुरूपं । इषणि ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> बृहद्दिवेषु प्रभूतद्युतिष्वमृतेषु देवेषु मध्ये हे पूर्व्य पूर्वभावि-
+> नग्ने त्वां मानुषा मनुष्याणां मध्ये नोऽस्मदीया धीर्बुद्धिः स्तुतिः कर्म वा
+> एव एवं पीपाय । प्याययॆति । यद्वा मानुषा मनुष्यान् धीस्त्वदीया बुद्धिः
+> कर्म वा प्याययतु । तथा त्वदीया धीर्वृजनेषु यज्ञेषु कारवे स्तोत्रे
+> दुहाना धेनुः । दोग्रि धेनुरिव । लुप्तोपममेतत् । त्मनात्मनैवेषण्येषणायां
+> सत्यां शतिनमपरिमितसंख्याकं पुरुरूपं गवाश्वादिरूपेण नानारूपं धनसमूहं
+> दुहाना भवति ॥
+
+*Gist:* Among the immortals Agni is first; our praise and also his intelligence, like a milch cow, yield endless wealth of cattle and horses at sacrifices.
+
+*(The bhāṣya contains a short grammatical remark on the comparison with the omitted word; it is transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+बृहद्दिवेषु—अत्यतिशयवागि प्रकाशिसतक्क (*bṛhaddiveṣu—atyatiśayavāgi prakāśisatakka*) (among the exceedingly shining). अमृतेषु—देवतॆगळ नडुवॆ (*amṛteṣu—devatègaḷa naḍuvè*) (among the immortals, the gods). पूर्व्य-- प्रथमनाद (*pūrvya-- prathamanāda*) (the first (printed with a double hyphen)). अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वां—निन्नन्नु (*tvāṃ—ninnannu*) (you). मानुषा—मानवराद (*mānuṣā—mānavarāda*) (of men). नः—नम्म (*naḥ—namma*) (our). धीः—कर्मवु अथवा स्तुतियु (*dhīḥ—karmavu athavā stutiyu*) (praise or rite). एव—ई रीतियल्लि (*eva—ī rītiyalli*) (in this way). पीपाय—कॊंडाडुत्तदॆ (हागॆये निन्न बुद्धियू सह) (*pīpāya—kòṃḍāḍuttadè (hāgèye ninna buddhiyū saha)*) (it celebrates (and likewise your intelligence)). वृजनेषु—यज्ञगळल्लि (*vṛjaneṣu—yajñagaḷalli*) (at the sacrifices). कारवे—स्तोतृविगॆ (*kārave—stotṛvigè*) (to the praiser). दुहाना धेनुः—करॆय तक्क हसुविनंतॆ (*duhānā dhenuḥ—karèya takka hasuvinaṃtè*) (like a milch cow that yields). त्मना—स्वप्रेरणॆयिंदले (*tmanā—svapreraṇèyiṃdale*) (spontaneously). इषणि—इष्टार्थगळल्लिरुव कालदल्लि (*iṣaṇi—iṣṭārthagaḷalliruva kāladalli*) (in the time of desired objects). शतिनं— अपरिमितवागि (*śatinaṃ— aparimitavāgi*) (without measure). पुरुरूपं—गवाश्वादिरूपवाद नाना विध इष्टार्थगळन्नु कॊडुत्तदॆ. (*pururūpaṃ—gavāśvādirūpavāda nānā vidha iṣṭārthagaḷannu kòḍuttadè.*) (gives the many kinds of desired objects in the form of cows, horses and the like).
+
+*(The Bhāvārtha reads विलै अग्निये (*vilai agniye*) ("O Agni"), where the first word is a misprint; it is left as printed.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, first among the exceedingly shining gods, our praise, human beings' praise, celebrates you in many ways. As a milch cow yields abundant milk of her own accord, so your intelligence too fulfils our desired objects at our sacrifices.
+
+**Printed English translation**
+
+Amongst men our praise, Agni, celebrtaes [sic] you, who are first amongst the greatly-splendid immortals ; (may it be to us) as a milch cow spontaneously yielding at sacrifices to the worshipper, infinite and multiform (blessings according to his) desire.
+
+*(The printed English reads "celebrtaes" [sic] and divides "spontaneously" by a line break and a hyphen, joined here.)*
+
+*(The supplied text ends here, at the end of the printed English of Ṛk 9 on p. 446; the Special Topics of Ṛk 9 follow in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 443 (PDF 443). Mandala 2 Sukta 2 Rik 6 complete; Rik 7 complete through the Special Topics as supplied
+**Progress note:** Done through printed p. 446 (PDF 446). Mandala 2 Sukta 2 Rik 8 complete; Rik 9 through the printed English
