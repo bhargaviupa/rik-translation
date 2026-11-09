@@ -8673,6 +8673,101 @@ gives the explanation: so *prapitve* means the sacrifice now being performed. Th
 
 अक्र: (*akra:*) — आक्रमिता त्वं (*ākramitā tvaṃ*): an epithet of Agni, "one who overcomes and burns everything". Yāska, अक्र आक्रमणात् (*akra ākramaṇāt*) giving the derivation (नि ६-१७ (*ni 6-17*)) (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 294
+
+*Running head: [294 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 189] (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 7 of Sūkta 189, at the *akraḥ* entry, from p. 293.)*
+
+For this word Yāska cited the verse
+
+अक्रो न बभ्रिः समिथे महीनां दिदृक्षेयः सूनवे भायिजीकः । (*akro na babhriḥ samithe mahīnāṃ didṛkṣeyaḥ sūnave bhāyijīkaḥ |*)
+उदुस्रिया जनिता यो जजानापां गर्भो नृतमो यहो अग्निः ॥ (*udusriyā janitā yo jajānāpāṃ garbho nṛtamo yaho agniḥ ‖*)
+(म. सं. ३-१-१२) (*(ma. saṃ. 3-1-12)*)
+
+(the print has "ಮಕ್ಕಳನ್ನು" for "ಋಕ್ಕನ್ನು", as supplied) as an example.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 7, noted briefly)
+
+तान् + अग्ने (*tān + agne*): by दीर्घादटसमानपादे (*dīrghādaṭasamānapāde*) (पा सू. ८-३-९ (*pā sū. 8-3-9*)) *ru* for the *n*; by आतोटिनित्यम् (*ātoṭinityam*) (पा. सू. ८-३-३ (*pā. sū. 8-3-3*)) nasalisation of the preceding *ā*. वेषि (*veṣi*) (root वी कांत्यादिषु (*vī kāṃtyādiṣu*); "radiance" here means desire): *laṭ*, second person singular *sip*; by अदिप्रभृतिभ्यः (*adiprabhṛtibhyaḥ*) *luk* of *śap*; on account of *sip* guṇa of the *ī*; being at the beginning of the pāda the *nighāta* accent does not occur; since *sip* is unaccented the accent of the root remains. शास्य: (*śāsya:*) (root शासु अनुशिष्टौ (*śāsu anuśiṣṭau*)): by एतिस्तुशास्— (*etistuśās—*) (पा. सू. ३-१-१०९ (*pā. sū. 3-1-109*)) the suffix *kyap*; the *y* remains; being marked *p* it is unaccented and the accent of the root remains. भूः (*bhūḥ*) (root भू सत्तायां (*bhū sattāyāṃ*)): by छंदसिलुज्जलज्लिट: (*chaṃdasilujjalajliṭa:*) *luṅ* in the sense of *loṭ*; second person singular; in the Vedic manner the augment *aṭ* does not occur; the verb-*nighāta* accent. मर्मृजेन्यः (*marmṛjenyaḥ*) (root मृजू शुद्धौ (*mṛjū śuddhau*)): the suffix *ṣeṇyaṇ* after the intensive; on account of *yaj* reduplication of the root; the first syllable of the suffix is acute. उशिग्भिः (*uśigbhiḥ*) (root वश कांतौ (*vaśa kāṃtau*)): by वशःकित् (*vaśaḥkit*) (उ. सं. २-२२९ (*u. saṃ. 2-229*), as printed) the suffix *iji*; because it is marked *k*, by ग्रहिज्यावयि- (*grahijyāvayi-*) (पा. सू. ६-१-१६ (*pā. sū. 6-1-16*)) *samprasāraṇa* of the root's *v* to *u*; the preceding form replaces the following *a*; the word *uśij* results; instrumental plural; by the first-syllable acute of the suffix the *i* is acute. अक्रः (*akraḥ*) (root क्रमु पादविक्षेपे (*kramu pādavikṣepe*)): in the Vedic manner the suffix *ḍa*; because of the *ḍ*-marking the *ṭi* (*am*) is dropped; by the suffix accent the last syllable is acute.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> अवो॑चाम नि॒वच॑नान्यस्मि॒न्मान॑स्य सू॒नुः स॑हसा॒ने अ॒ग्नौ ।
+> व॒यं स॒हस्र॒मृषि॑भिः सनेम वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं
+> ॥ ८ ॥
+
+> *avocāma nivacanānyasminmānasya sūnuḥ sahasāne agnau |*
+> *vayaṃ sahasramṛṣibhiḥ sanema vidyāmeṣaṃ vṛjanaṃ jīradānuṃ*
+> *‖ 8 ‖*
+
+### Printed p. 295
+
+*Running head: [ಅ. ಅ.ವ ೫. ವ ೧೧] Ṛgveda-saṃhitā 295 (as supplied, as printed).*
+
+*[As supplied, a line reading । हदहातु । (*| hadahātu |*) with block marks stands where the Pada label belongs; standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> अवोचाम । निवचनानि । अस्मिन् । मानस्य । सूनुः । सहसाने । आग्नौ ।
+> वयं । सहस्रं । ऋषिभिः । सनेम । विद्याम । इषं । वृजनं । जीरदानुं ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वयमस्मिन्नग्नौ निवचनानि नियमपूर्वकाणि वचांसि स्तोत्ररूपाण्यवो-
+> चाम । ब्रूमः । अग्निर्विशेष्यते । मानस्य सूनुः । मीयत इति मानो मंत्रः ।
+> तस्य सूनुरग्निः मंत्रेणोत्पद्यमानत्वात् । सप्तम्यर्थे प्रथमा । मानस्य सूना
+> सहसाने शत्रोणामभिभवितर्याग्नाववोचाम । वयमेभिर्ऋषिभिरतींद्रियार्थ-
+> प्रकाशकैर्मंत्रैः साधनैः सहस्रमपरिमितं धनं सनेम । संभजेमहि । विद्यामेति
+> गतं ॥
+
+*Gist:* We utter in this Agni, victor over foes and son of the mantra, our fixed praises; by these mantras that reveal what is beyond the senses may we gain boundless wealth, food, strength and long life.
+
+*[As supplied, a line reading प्र, तपदार्थ (*pra, tapadārtha*) with block marks stands where the Pratipadārtha label belongs; standard label inserted. The following lines carry block marks in the supplied text and are given as prose.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मानस्य सूनुः—मंत्रदिंद उत्पन्ननाद पुत्रनू (*mānasya sūnuḥ—maṃtradiṃda utpannanāda putranū*) (the son born of the mantra). सहसाने—शत्रुगळन्नु सोलिसुव शक्तियुळ्ळवनू आद (*sahasāne—śatrugaḷannu solisuva śaktiyuḷḷavanū āda*) (possessing the power to defeat foes). अस्मिन् आग्नौ—ई अग्नियल्लि (अग्नियन्नु उद्देशिसि) (*asmin āgnau—ī agniyalli (agniyannu uddeśisi)*) (in this Agni, addressing him). निवचनानि—स्तोत्र रूपवाद वाक्कुगळन्नु (*nivacanāni—stotra rūpavāda vākkugaḷannu*) (words in the form of praise). अवोचाम—पठिसुत्तेवॆ (*avocāma—paṭhisuttevè*) (we recite). वयं—नावु (*vayaṃ—nāvu*) (we). ऋषिभिः—आतींद्रियार्थ वन्नु प्रकाशपडिसतक्क मंत्रगळिंद (*ṛṣibhiḥ—ātīṃdriyārtha vannu prakāśapaḍisatakka maṃtragaḷiṃda*) (by mantras that reveal what is beyond the senses). सहस्रं अपरिमितवाद धनवन्नु (*sahasraṃ aparimitavāda dhanavannu*) (boundless wealth). सनेम—हॊंदुवंता गलि (मत्तु) (*sanema—hòṃduvaṃtā gali (mattu)*) (may we obtain). इषं—अन्नवन्नू (*iṣaṃ—annavannū*) (food). वृजनं—बलवन्नू (*vṛjanaṃ—balavannū*) (strength). जीरदानुं—दीर्घायुष्यवन्नू (*jīradānuṃ—dīrghāyuṣyavannū*) (long life). विद्याम—हॊंदुवंतागलि (*vidyāma—hòṃduvaṃtāgali*) (may we obtain).
+
+*[As supplied, the label line reads भावार्थ- (*bhāvārtha-*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+We recite words of praise addressed to this Agni, the son born of the mantra and possessed of the power to defeat foes. By mantras that reveal what is beyond the senses may we gain boundless wealth, food, strength and long life.
+
+**Printed English translation**
+
+We address our pious prayers to you, Agni, the son of prayer, the subduer of foes; may we procure, by these sacred supplications, infinite wealth that we may thence obtain food, strength, and long life.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 8)**
+
+मानस्य सूनुः (*mānasya sūnuḥ*) — मीयत इति मानो मंत्रः । तस्य सूनुरग्निः । मंत्रेणो- त्पद्यमानत्वात् । सप्तम्यर्थे प्रथमा (*mīyata iti māno maṃtraḥ | tasya sūnuragniḥ | maṃtreṇo- tpadyamānatvāt | saptamyarthe prathamā*): here *māna* is explained as *mantra*.
+
+### Printed p. 296
+
+*Running head: [296 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 189] (as supplied).*
+
+माज् माने (*māj māne*) — *māna* is formed from the root meaning "to measure"; it means a mantra (a ṛk or metre) with a fixed number of syllables. Since Agni is produced in the *araṇi* with mantras, he is described by the epithet मानस्य सूनुः (*mānasya sūnuḥ*), "produced by the mantra (the son of the mantra)". Here the nominative is used in the sense of the locative; the bhāṣyakāra explains that *mānasya sūnuḥ* should be taken to mean "in Agni".
+
+सहस्रं (*sahasraṃ*) — boundless, of great number.
+
+ऋषिभिः (*ṛṣibhiḥ*) — ऋषी गत् (*ṛṣī gat*). Since roots of motion are also used in the sense of knowledge, the word *ṛṣi* also has the senses knowledge and understanding. Because the mantra produces knowledge, *ṛṣibhiḥ* here means "by mantras in the nature of knowledge".
+
+जीरदानुं (*jīradānuṃ*) — Sāyaṇa at १-१६५-१५ (*1-165-15*) explained this word as जयशीलदानं (*jayaśīladānaṃ*); there is also the variant reading जयशीलं दानं जीवनं वा (*jayaśīlaṃ dānaṃ jīvanaṃ vā*). How the sense "victory" or "victory-bringing" arises here for the word *jīra* is a matter worth considering. The two words *jīra* and *dānu* together form *jīradānu*. Each of these two words is used separately in many places with different senses; and with the word *jīra* other words such as *aśva* and *adhvara* combine to give *jīrāśva*, *jīrādhvara* and the like.
+
+मनुष्यद्देव धीमहि प्रचेतसं जीरं दूतममर्त्यं । (*manuṣyaddeva dhīmahi pracetasaṃ jīraṃ dūtamamartyaṃ |*)
+(पु सं. १-४४-११) (*(pu saṃ. 1-44-11)*)
+
+explaining the derivation of the word *jīra* in this ṛk, Sāyaṇa says that the word is formed from the root *ju* (जोरी च. उ. सू. २-१८१ (*jorī ca. u. sū. 2-181*)) and gives the sense "destroying the life (of enemies)"; here *jīram* is an epithet of Agni; from this sense it is understood that the derivation is possible from the root ज्य वयोहानौ (*jya vayohānau*) also. The Nirukta-authors read the word *jīra* among the names of the swift (नि. ३-९ (*ni. 3-9*)).
+
+दिविस्पृशं यज्ञमस्माकमश्विना जीराध्वरं कृणुतं सुम्मनिष्टये । (*divispṛśaṃ yajñamasmākamaśvinā jīrādhvaraṃ kṛṇutaṃ summaniṣṭaye |*)
+प्राचीनरश्मिमाहुतं धृतेन तद्देवानामवो अद्या वृणीमहे ॥ (*prācīnaraśmimāhutaṃ dhṛtena taddevānāmavo adyā vṛṇīmahe ‖*)
+(ऋ सं. १०-३६-६). (*(ṛ saṃ. 10-36-6).*)
+
+In this ṛk the Aśvin deities are prayed to make our rite *jīrādhvara*; here *jīrādhvara* means a sacrifice that is performed unobstructed by hindrances, without violence, and quickly (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 293 (PDF 293). Sukta 189 Rik 6 Special Topics and grammar page complete; Rik 7 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Rik 7 Special Topics begun, breaks off at akrah (Nirukta 6-17); figure line viewed and four words corrected to the image; [?] on a Latin 8
+**Progress note:** Done through printed p. 296 (PDF 296). Sukta 189 Rik 7 complete; Rik 8 (last rik) complete through printed English; Rik 8 Special Topics begun, breaks off in the jiradhvara note on p. 296
