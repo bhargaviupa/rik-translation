@@ -396,6 +396,95 @@ Having cited this ṛk, they explain: अर्योऽहमीश्वरः
 
 *[The window ends at "For example"; the examples continue on the next page.]*
 
+### Printed p. 14
+
+*Running head: [14 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184].*
+
+पृथू रथो दक्षिणाया अयोज्यैनं देवासो अमृतासो अस्तुः । (*pṛthū ratho dakṣiṇāyā ayojyainaṃ devāso amṛtāso astuḥ |*)
+कृष्णादुदस्थादर्या ३ विहायाश्चिकित्यंती मानुषाय क्षयाय ॥ (*kṛṣṇādudasthādaryā 3 vihāyāścikityaṃtī mānuṣāya kṣayāya ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1. 123. 1.)
+
+In this ṛk, in describing the qualities of the Uṣas deity understood from the context, there is the epithet अर्या (*aryā*). Sāyaṇa has given this word the sense पूज्या (*pūjyā*) ("worshipful"), and its use is more frequent in the sense of सर्वॆश्वर (*sarvèśvara*) ऎंबर्थदल्लिये (*èṃbarthadalliye*) ("Lord of all", as supplied).
+
+मघवाना (*maghavānā*) — for this epithet Sāyaṇa has given the sense हविर्लक्षणान्नयुक्तौ (*havirlakṣaṇānnayuktau*), "endowed with food in the form of an oblation" (the Aśvin deities). Ordinarily the epithet मघवन् (*maghavan*) refers to Indra, but even when the qualities of other deities are described, this epithet is used here and there in the Ṛksaṃhitā. Or, since the word मघ (*magha*) is read among the names of wealth (Ni 3. 9.), here it can be called wealth in the form of food. The Nirukta authors, having stated the derivation of the word मघ (*magha*) by मघमिति धननामधेयं महतेर्दानकर्मणः (*maghamiti dhananāmadheyaṃ mahaterdānakarmaṇaḥ*), have explained the sense of the word मघोनी (*maghonī*) (Ni 1 7). In the same way, in the present ṛk too an etymology can be given for the epithet मघवाना (*maghavānā*). Or:
+
+If मघवाना (*maghavānā*) is taken to mean "the Aśvin deities accompanied by Viṣṇu", that will not be wrong either. How: the identity of Viṣṇu and Makha, stated in the Śatapatha Brāhmaṇa and elsewhere, has been told earlier (Śa. Brā. 14. 1. 1. 13). The companionship of the Aśvin deities with Viṣṇu, who has the form of Makha, is famous. This too has been told earlier,
+
+तमस्य राजा वरुणस्तमश्विना क्रतुं संचत मारुतस्य वेधसः । (*tamasya rājā varuṇastamaśvinā kratuṃ saṃcata mārutasya vedhasaḥ |*)
+दधार दक्षमुत्तममहर्विदं व्रजं च विष्णुः सखिवा अपोर्णुते ॥ (*dadhāra dakṣamuttamamaharvidaṃ vrajaṃ ca viṣṇuḥ sakhivā aporṇute ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1. 156. 4.)
+
+in explaining the special topics of this ṛk (Ṛgveda Saṃhitā, part 11; pp. 656 to 657 [printed in Latin digits with a hyphen]) [the supplied text prints "।ವಿವರಿಸುವಾಗ" with a stray stroke]. Moreover, in the Ṛksaṃhitā itself this companionship is described thus:
+
+यदिंद्रेण सरथं याथो अश्विना यद्वा वायुना भवधः समोकसा । (*yadiṃdreṇa sarathaṃ yātho aśvinā yadvā vāyunā bhavadhaḥ samokasā |*)
+वयादित्येभिर्यभुभिः सजोषसा यद्वा विष्णोर्विक्रमणेषु तिष्यथः ॥ (*vayādityebhiryabhubhiḥ sajoṣasā yadvā viṣṇorvikramaṇeṣu tiṣyathaḥ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ ಸಂ.] 8 9. 12.)
+
+### Printed p. 15
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1.] Ṛgveda-saṃhitā 15 (the print has "ಆ:" for the second "ಅ." as supplied).*
+
+In ṛks like this too, the companionship of the Aśvin deities with Viṣṇu is stated. For this reason it is possible to take मघवाना (*maghavānā*) to mean "the Aśvin deities accompanied by Viṣṇu". But in the present context it seems fitting to the occasion to take the sense stated by Sāyaṇa, "endowed with the wealth of food in the form of an oblation".
+
+सुवृक्ति (*suvṛkti*) — सुष्टु पापवर्जनं यथाभवति तथा । यद्वा । (*suṣṭu pāpavarjanaṃ yathābhavati tathā | yadvā |*) सुसमाप्ति (*susamāpti*) (Kannada: complete freedom from sin, or having a pure conclusion). This word is an epithet of the word for *stoma*. This epithet is used in one sense in one place and in another sense in another. The Nirukta authors, citing
+
+इयं शुष्मेभिर्बिसखा इवारुजत्सानु गिरीणां तविषेभिरूर्मिभिः । (*iyaṃ śuṣmebhirbisakhā ivārujatsānu girīṇāṃ taviṣebhirūrmibhiḥ |*)
+पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ॥ (*pārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivāsema dhītibhiḥ ‖*)
+
+(Ṛ. Saṃ. [printed ಪು. ಸಂ] 6 61. 2),
+
+have taken the word सुवृक्तिभिः (*suvṛktibhiḥ*) there as सुप्रवृत्ताभिः शोभनाभिः स्तुतिभिः (*supravṛttābhiḥ śobhanābhiḥ stutibhiḥ*), that is, simply as excellent praise. The word व्यक्तिशब्दवु (*vyaktiśabdavu*) is also used in other places in the sense of abandoning. For example,
+
+कुविदंग यवमंतो यवं चिद्यथा दांत्यनुपूर्वं वियूय । (*kuvidaṃga yavamaṃto yavaṃ cidyathā dāṃtyanupūrvaṃ viyūya |*)
+इहेहैषां कृणुहि भोजनानि ये बर्हिषो नमोवृक्तिं न जग्मुः ॥ (*ihehaiṣāṃ kṛṇuhi bhojanāni ye barhiṣo namovṛktiṃ na jagmuḥ ‖*)
+
+(Ṛ. Saṃ. 10. 131. 2)
+
+here, in नमोव्यक्तिं (*namovyaktiṃ*) नमसः हनिर्लक्षणस्यान्नस्य नमस्कारात्मकस्य स्तोत्रस्य वा (*namasaḥ hanirlakṣaṇasyānnasya namaskārātmakasya stotrasya vā*) वर्जनम- (*varjanama-*) करणं न जग्मुः (*karaṇaṃ na jagmuḥ*): "they did not abandon the praise in the form of salutation": thus Indra is prayed to. Here the word व्यक्तिशब्दवु (*vyaktiśabdavu*) (as supplied; the verse has the spelling नमोव्यक्तिं (*namovyaktiṃ*)) is used in the sense of abandoning. But its use in the sense of praise is far more frequent. For example,
+
+अस्मा इदु त्र्यमुपमं स्वर्षां भराम्यांगूषमास्येन । (*asmā idu tryamupamaṃ svarṣāṃ bharāmyāṃgūṣamāsyena |*)
+वंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं नावृधध्यै ॥ (*vaṃhiṣṭhamacchoktibhirmatīnāṃ suvṛktibhiḥ sūriṃ nāvṛdhadhyai ‖*)
+
+(Ṛ. Saṃ. [printed ಪು. ಸಂ.] 1. 61. 3.)
+
+In places like this everywhere the sense is "excellent praise".
+
+वर्तिः (*vartiḥ*) — वर्तनहेतुभूतं गृहं (*vartanahetubhūtaṃ gṛhaṃ*) — Sāyaṇa has taken the sense "a house serving as a basis for dwelling" in all places where this word occurs. But Skandasvāmin has generally everywhere taken the sense "a well-known path". For example,
+
+### Printed p. 16
+
+*Running head: [16 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 184].*
+
+त्रिवर्तिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतं । (*trivartiryātaṃ triranuvrate jane triḥ suprāvye tredheva śikṣataṃ |*)
+त्रिर्नांद्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतं ॥ (*trirnāṃdyaṃ vahatamaśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvataṃ ‖*)
+
+(Ṛ. Saṃ. 1. 34. 4.)
+
+In all ṛks like this, for the word वर्तियॆंबुदक्कॆ (*vartiyèṃbudakkè*) Sāyaṇa has given the sense "house" and Skandasvāmin the sense "path". It is one special point that all the sūktas having ṛks in which the word occurs in forms such as त्रिवर्तिः, (*trivartiḥ,*) and अश्विनावर्तिः (*aśvināvartiḥ*) (1.1-6.18 [printed with spaces and a range sign, as supplied]; 1. 117. 2; 1. 119. 4) are addressed to the Aśvin deities. But,
+
+इषं दुहन्तु दुघां विश्वधायसं यज्ञप्रिये यजमानाय सुक्रतो । (*iṣaṃ duhantu dughāṃ viśvadhāyasaṃ yajñapriye yajamānāya sukrato |*)
+अग्ने धृतस्नु स्त्रिर्यतानि दीद्यद्वर्तिर्यज्ञं परियन्तु सुक्रतूयसे ॥ (*agne dhṛtasnu striryatāni dīdyadvartiryajñaṃ pariyantu sukratūyase ‖*)
+
+(Ṛ. Saṃ. 10. 122. 6)
+
+only in this ṛk, a mantra addressed to Agni, does this word occur. Here it is explained as the house of the sacrifice. Sāyaṇa too has in some places taken the sense "path" for this word. For example,
+
+यो ह स्य वां रथिरा वस्त उस्रा रथो युजानः परियाति वर्तिः । (*yo ha sya vāṃ rathirā vasta usrā ratho yujānaḥ pariyāti vartiḥ |*)
+तेन नः शंयोरुषसो व्युष्टौ न्यश्विना वहतं यज्ञे अस्मिन् ॥ (*tena naḥ śaṃyoruṣaso vyuṣṭau nyaśvinā vahataṃ yajñe asmin ‖*)
+
+(Ṛ. Saṃ. 7. 6) (Ṛ. Saṃ. [printed ಮ. ಸಂ.] 7. 69. 5.) [both references as supplied]
+
+here वर्तिः (*vartiḥ*) is explained as मार्गं (*mārgaṃ*) ("path"). This is a mantra praying to the Aśvin deities themselves. In the present ṛk the sense is "house". Ordinarily this is a synonym of the word for the house of the sacrifice.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+ता (*tā*) (*tad*, dual): the substitution of *a* by the rule त्यदादीनामः (*tyadādīnāmaḥ*) (no sūtra number printed), अतोगुणे (*atoguṇe*) for the single form, and the elision of the case ending, सुपांसुलुक् (*supāṃsuluk*) (Pā. Sū. 7-1-39). हुवेम-ह्वेञ् (*huvema-hveñ*) (root हुवेम-ह्वेञ् (*huvema-hveñ*), in the sense of challenge and sound; perfect/optative-type first-person plural as printed): the accent *nighāta* arises because it follows a non-verb; उच्छंत्याम् (*ucchaṃtyām*) (root उच्छंत्याम् (*ucchaṃtyām*) in the sense of shining forth): the substitute for the present participle, तुदादिभ्यः शः (*tudādibhyaḥ śaḥ*) gives the *śa* suffix, and the feminine उगितश्च (*ugitaśca*) (Pā. Sū. 4-1-6) gives the suffix printed as "ಜೀಪ್"; locative singular. वह्निः (*vahniḥ*) (root *vah*, in the sense of carrying): the suffix *ni* by the rule वहि श्रि (*vahi śri*) (Uṇ. Sū. 4-491 [printed "ಉ ಸೂ ೪-೪೯೧"]); its *nit* quality gives the first-syllable-acute accent.
+
+*[The window ends within the grammar page; it continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 13 (PDF 13). Rik 1 Special Topics: Aitareya Brahmana quotations end, Nirukta notes on usas, napat, nasatya, arya (continues on next page)
+**Progress note:** Done through printed p. 16 (PDF 16). Rik 1 Special Topics: arya, maghavan, suvrkti, varti notes; start of grammar page (continues on next page)
