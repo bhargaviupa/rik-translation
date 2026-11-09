@@ -12150,6 +12150,122 @@ Lordship is found in all the deities. Therefore Agni too gives strength and weal
 
 In these ṛks the words सहसस्पुत्र (*sahasasputra*), सहसःसूनु (*sahasaḥsūnu*) and सहसो यहु (*sahaso yahu*) are used, respectively, in praising Agni. Therefore, although other deities too give strength and wealth, Agni is specially propounded by the word *draviṇodāḥ* (the supplied text ends here, at the end of the window).
 
+### Printed p. 410
+
+*Running head (as supplied): [410 सायणभाष्यसहिता [मं. २. ४. १. सू. १.] (*[410 sāyaṇabhāṣyasahitā [maṃ. 2. 4. 1. sū. 1.]*), as printed, with a stray ೪.*
+
+*(No grammar page of Ṛk 7 and no Ṛk heading is printed at the head of this page; it opens with the label line of the Saṃhitā, printed twice, followed by the Saṃhitā of Ṛk 8, the verse numeral ೮ being printed at its end. The first of the two label lines is kept as a note in the Kannada text.)*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> त्वाम॑ग्ने॒ दनु [?]॒ आ वि॒श्वतिं॒ विश॒स्त्वां राजा॑नं सुवि॒दत्र॑मृंजते ।
+> त्वं विश्वा॑नि स्वनीक पत्यसे॒ त्वं स॒हस्रा॑णि श॒ता दश॒ प्रति॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वां । अग्ने । दमे । आ । विश्वतिं । विशः । त्वां । राजानं । सुविदत्रं । ऋंजते ।
+> त्वं । विश्वानि । सुअनेक [?] । पत्यसे । त्वं । सहस्राणि । शता । दश । प्रति ॥ ८ ॥
+
+> *tvāṃ | agne | dame | ā | viśvatiṃ | viśaḥ | tvāṃ | rājānaṃ | suvidatraṃ | ṛṃjate |*
+> *tvaṃ | viśvāni | suaneka [?] | patyase | tvaṃ | sahasrāṇi | śatā | daśa | prati ‖ 8 ‖*
+
+*[As supplied, a line reading सायुणभाष्यं (*sāyuṇabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted. Two readings of Ṛk 8, one in the Saṃhitā and one in the Pada, are marked with a query, as they differ from the other lines.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने विश्वतिं यजमानानां पालकं त्वां विशो यजमाना दमे स्वकीये
+> यज्ञगृह आ ! आसादयंति ॥ उपसर्गवशाद्योग्यक्रियाध्याहारः । तथा कृत्वा राजानं
+> दीप्यमानं सुविदत्रं शोभनज्ञानमस्मदनुकूलचेतस्कं सुधनं वा त्वामृंजते ।
+> प्रसाधयंति ॥ ऋंजतिः प्रसाधनकर्मेति यास्कः ॥ यत एवं ततो हे स्वनीक शोभन-
+> ज्वालारूपसेन त्वं विश्वानि सर्वाणि । हवींशीति शेषः ॥ षष्ठ्यर्थे द्वितीया ।
+> विश्वेषां हविषामाज्यसोमपुरोडाशादीनां पत्यसे । ईश्वरो भवसि ॥ ईश्वरनामै-
+> तत् । इरज्यति पत्यत इति तन्नामसु पाठात् ॥ यद्वा पतिभावमाचरसि त्वं तु सहस्राणि
+> शता शतानि दश एतत्संख्याकानि प्रति। एतत्संख्याकानामभिमतसाधनानां प्रतिनिधिरित्यर्थः ।
+> प्रतिः प्रतिनिधिप्रतिदानयोरिति कर्मप्रवचनीयत्वं ॥ तैर्यत्पलं भवति तत्त्वया
+> लभ्यत इत्यर्थः ॥
+
+*Gist:* Sacrificers serve Agni, protector, radiant, wise; he is lord of all oblations and, as substitute, brings about wishes in tens, hundreds, thousands.
+
+*[As supplied, a line reading ॥ त्रैपदार्थ ॥ (*‖ traipadārtha ‖*) stands, with block marks, inside the bhāṣya block where the Pratipadārtha label belongs; the following lines carry block marks in the supplied text and are given as prose; standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). विश्वतिं—यजमानर पालकनाद (*viśvatiṃ—yajamānara pālakanāda*) (of the protector of sacrificers). त्वां—निन्नन्नु (*tvāṃ—ninnannu*) (you). विशः— यजमानरु (*viśaḥ— yajamānaru*) (the sacrificers). दमे—तम्मयज्ञगृहदल्लि (*dame—tammayajñagṛhadalli*) (in their own sacrificial house). आ—उपचरिसुत्तारॆ (*ā—upacarisuttārè*) (serve). राजानं—प्रकाशमाननू (*rājānaṃ—prakāśamānanū*) (the radiant). सुविदत्रं—शोभनात्मकवाद ज्ञान अथवा धनवुळ्ळवनू आद (*suvidatraṃ—śobhanātmakavāda jñāna athavā dhanavuḷḷavanū āda*) (the one with excellent knowledge or wealth). त्वां—निन्नन्नु (*tvāṃ—ninnannu*) (you). यंजते— अलंकरिसि पूजिसुत्तारॆ (*yaṃjate— alaṃkarisi pūjisuttārè*) (adorn and worship). स्वनीक—ज्वालारूपवाद सेनॆयुळ्ळ अग्निये (*svanīka—jvālārūpavāda senèyuḷḷa agniye*) (O Agni with an army in the form of flames). त्वं—नीनु (*tvaṃ—nīnu*) (you). विश्वानि- सकल हविस्सुगळिगू (*viśvāni- sakala havissugaḷigū*) (of all oblations). पत्यसे—प्रभुवागिद्दीयॆ (*patyase—prabhuvāgiddīyè*) (you are lord). त्वं—नीनु (*tvaṃ—nīnu*) (you). सहस्राणि—सहस्रसंख्याकवू (*sahasrāṇi—sahasrasaṃkhyākavū*) (thousand-fold). शता—शतसंख्याकवू (*śatā—śatasaṃkhyākavū*) (hundred-fold). दश—दशसंख्याकवू आद (ऎंदरॆ) इष्टार्थगळिगॆ (*daśa—daśasaṃkhyākavū āda (èṃdarè) iṣṭārthagaḷigè*) (ten-fold, that is, to the desired objects). प्रति—प्रतिनिधियागि अवुगळन्नु साधिसिकॊडुववनागिद्दीयॆ. (*prati—pratinidhiyāgi avugaḷannu sādhisikòḍuvavanāgiddīyè.*) (as substitute, you are the accomplisher of them).
+
+*[As supplied, a line reading भाषार्थ (*bhāṣārtha*) stands, with block marks, where the Bhāvārtha label belongs; the following lines are given as prose; standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, the sacrificers serve you in their sacrificial house. They adorn and worship you, who are radiant and endowed with excellent knowledge or wealth. O Agni, who have an army in the form of flames, you are lord of all oblations (the sentence continues on the next page).
+
+### Printed p. 411
+
+*Running head (as supplied): [अ. २ अ. ५ व. १८] ऋग्वेदसंहिता 411 (*[a. 2 a. 5 va. 18] ṛgvedasaṃhitā 411*).*
+
+You are the accomplisher, as substitute, of the desired objects, tenfold, hundredfold and thousandfold.
+
+**Printed English translation**
+
+The people adore you, Agni, the protector of the people in their dwellings ; they propitiate you as a benevolent sovereign ; leader of a radiant host, you are lord over all offerings ; you are the distributor of tens, and hundreds, and thousands (of good things).
+
+*(The printed English reads "dwel-ings" with a printed hyphen; joined as "dwellings".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 8)**
+
+सुविदत्रं (*suvidatraṃ*): formed with the prefix सु (*su*) from the root विद ज्ञाने (*vida jñāne*), this word means one with good knowledge.
+
+ऋंजते (*ṛṃjate*): they please, they worship. Yāska says in the Nirukta: ऋंजतिः प्रसाधन- कर्मा । आ व ऋंजसे ऊर्जां व्युष्टिषु इत्यपि निगमो भवति (*ṛṃjatiḥ prasādhana- karmā | ā va ṛṃjase ūrjāṃ vyuṣṭiṣu ityapi nigamo bhavati*) (नि. ६-२१ (*ni. 6-21*)).
+
+विश्वानि पत्यसे—सर्वाणि हवींषीति शेषः । षष्ठ्यर्थे द्वितीया । विश्वेषां हविषामाज्यसोमपुरोडाशादीनां पत्यसे ईश्वरो भवसि (*viśvāni patyase—sarvāṇi havīṃṣīti śeṣaḥ | ṣaṣṭhyarthe dvitīyā | viśveṣāṃ haviṣāmājyasomapuroḍāśādīnāṃ patyase īśvaro bhavasi*): here the bhāṣyakāra has said that the word हवींषि (*havīṃṣi*) must be supplied with the word *viśvāni*, and that the accusative case has the sense of the genitive. Therefore *viśvāni* means: you are the lord (master) of the sacrificial materials such as oblations, ghee, soma and puroḍāśa; so Agni is praised (the print has ऎनरॆ (*ènarè*) for "means"). Since the word पत्यते (*patyate*) (*patyase* being the second person singular) is read among the four names of lordship beginning with इरज्यति पत्यते (*irajyati patyate*) (नि. ३-११ (*ni. 3-11*)), *patyase* means "you are lord".
+
+सहस्राणि शता दश प्रति (*sahasrāṇi śatā daśa prati*): Agni is praised as the giver of desired objects in tens, hundreds and thousands. Here, although only the prefix *prati* is present, the word प्रतिनिधि (*pratinidhi*) (substitute) corresponding to it must be supplied. Or it may also be understood that you alone provide desired objects that could be obtained from thousands of people.
+
+स्वनीक—शोभनज्वालारूपसेन (*svanīka—śobhanajvālārūpasena*): the best flames are Agni's army; that is, the purport is one who shines with radiant flames. This word is used of Agni in the Ṛgveda in the ṛks ऋ. सं. ४-६-६, ६-१५-१६, ७-१-२३, ७-३-६ (*ṛ. saṃ. 4-6-6, 6-15-16, 7-1-23, 7-3-6*).
+
+### Printed p. 412
+
+*Running head (as supplied): [412 सायणभाष्यसहिता [ मं. २ अ. १. सू १] (*[412 sāyaṇabhāṣyasahitā [ maṃ. 2 a. 1. sū 1]*).*
+
+*[As supplied, the label line of the Saṃhitā of Ṛk 9 reads संशयविल्ल (*saṃśayavilla*) and that of the Pada दडहार (*daḍahāra*); standard labels inserted. Three readings, two in the Saṃhitā and one in the Pada, are marked with a query, as they differ from the Pada or the bhāṣya.]*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> त्वाम॑ेग्ने [?] पि॒तर॑मि॒ष्टिभि॒र्नर॒स्तां भ्रा॒त्राय॒ शम्या॑तनू॒रुचं॑ ।
+> त्वं पु॒त्रो भ॑वसि॒ यस्त्ये वि॑ध॒त्त्वं सखा॑ सु॒शेवः॑ पास्त्या॒दृषः॑ [?] ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वां । आग्ने [?] । पितरं । इष्टिभिः । नरः । त्वां । भ्रात्राय । शम्या । तनूरुचं ।
+> त्वं । पुत्रः । भवसि । यः । ते । अविधत् । त्वं । सखा । सुशेवः । पासि । अधृषः ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने पितरं पालकं त्वां नरो नेतारो यजमाना इष्टिभिरेषणसाधनै-
+> र्यागैर्यजंत इति शेषः । पितृवत्पालनाय यजंत इत्यर्थः । तथा तनूरुचं
+> शरीराणां दीपकं शरीरेषु दीप्यमानं वैश्वानरात्मना त्वां भ्रात्राय भ्रातृत्वाय
+> सौभ्रात्राय शम्या ॥ कर्मनामृतत् ॥ कर्मणा यजंत इति शेषः । यद्योभयत्र
+> वक्ष्यमाणेनाविधदित्यनेन संबंधः । हे अग्ने यो नरस्ते त्वामविधत् परिचरति
+> तस्य त्वं पुत्रो भवसि । पुत्रवत्पालयिता भवसि ! तथा त्वं सखा समानख्यानः सखिवद्धित-
+> कारी सुशेवः ॥ शेवमिति सुखनाम ॥ सुष्टु सुखकारी सन् आधृष अधर्षकात्मा पासि ।
+> रक्षसि । पितृत्वकामाय पितृत्वेन भ्रातृत्वकामाय भ्रातृत्वेन पुत्रत्वकामाय पुत्र-
+> स्थानीयो भवसि । त्रिप्रकारेण रक्षसीत्यर्थः ॥
+
+*Gist:* Sacrificers serve Agni as father, brother (through rites) and he is son and friend to his servant, protecting in three ways, a mighty helper.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). पितरं पालकनाद (*pitaraṃ pālakanāda*) (the protector (the entry is printed without a dash)). त्वां—निन्नन्नु (*tvāṃ—ninnannu*) (you). नरः—यजमानरु (*naraḥ—yajamānaru*) (the sacrificers). इष्टिभिः—यागादिगळिंद (पितृवन्नु पूजिसुवंतॆ पूजिसुत्तारॆ) (*iṣṭibhiḥ—yāgādigaḷiṃda (pitṛvannu pūjisuvaṃtè pūjisuttārè)*) (by sacrifices and the like (they worship as one worships a father)). तनूरुचं—शरीरक्कॆ कांति यन्नु कॊडतक्क (*tanūrucaṃ—śarīrakkè kāṃti yannu kòḍatakka*) (the one who gives lustre to the body). त्वां—निन्नन्नु (*tvāṃ—ninnannu*) (you). शर्मा—कर्मगळिंद (*śarmā—karmagaḷiṃda*) (by rites). भ्रात्राय—सहोदरनंतॆयू उपचरिसुत्तारॆ (*bhrātrāya—sahodaranaṃtèyū upacarisuttārè*) (as a brother (they serve)). यः—याव यजमाननु (*yaḥ—yāva yajamānanu*) (which sacrificer). ते—निन्नन्नु (*te—ninnannu*) (you). अविधत्—उपचरिसुत्तानॆयो (अवनिगॆ) (*avidhat—upacarisuttānèyo (avanigè)*) (serves (him)). त्वं—नीनु (*tvaṃ—nīnu*) (you). पुत्रः - पुत्रनागि (*putraḥ - putranāgi*) (as son). भवसि—आगुत्तीयॆ (*bhavasi—āguttīyè*) (you become). त्वं—नीनु (*tvaṃ—nīnu*) (you). सखा—स्नेहित नंतॆ (*sakhā—snehita naṃtè*) (like a friend). सुशेवः—सुखकारियागिरुत्ता (*suśevaḥ—sukhakāriyāgiruttā*) (while being a giver of comfort). अधृषः—आसक्तनागिरुत्तलू (*adhṛṣaḥ—āsaktanāgiruttalū*) (while being attached (as printed)). पासि—रक्षिसुत्तीयॆ. (*pāsi—rakṣisuttīyè.*) (you protect).
+
+*[As supplied, the label line of the Bhāvārtha reads बावार्थ (*bāvārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, the sacrificers serve you, the protector, by sacrifices and other rites as one serves a father, and you, the giver of lustre to the body, as a brother; and for the one who serves you (the supplied text ends here, in the middle of the sentence, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 409 (PDF 409). Mandala 2 Sukta 1 Rik 7: bhashya end, Pratipadartha, Bhavartha, printed English; Special Topics on dravinoda (Nirukta 8-1 and the views of Kraushtuki and Shakapuni)
+**Progress note:** Done through printed p. 412 (PDF 412). Mandala 2 Sukta 1 Rik 8 complete; Rik 9 through the Pratipadartha and the start of the Bhavartha; five readings marked with a query
