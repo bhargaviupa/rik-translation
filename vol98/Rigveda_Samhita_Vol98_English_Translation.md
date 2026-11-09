@@ -9307,6 +9307,102 @@ In these and other ṛks the word *bhīma* is used in the sense of terrible prow
 
 नमसः (*namasaḥ*) (root णमु प्रह्वत्वे शब्दे च (*ṇamu prahvatve śabde ca*)): by नोनः (*nonaḥ*) *n* for the initial; the Uṇādi suffix *asun*; because it is marked *n*, the first syllable is acute; genitive singular. यंसत् (*yaṃsat*) (root यम उपरमे (*yama uparame*)): *leṭ*, third person singular; by सिब्बहुलं लेटि (*sibbahulaṃ leṭi*) (वा. सू. ३-१-३४ (*vā. sū. 3-1-34*), as printed) *sip*; by तिज्जतिजिः (*tijjatijiḥ*) (as printed) the *nighāta* accent. बाहू (*bāhū*): by *vyatyaya* the nominative dual has been substituted for the instrumental dual; by the suffix accent the last syllable is acute. अहन्यः (*ahanyaḥ*): अह्नि भवः (*ahni bhavaḥ*) (one who is in the day); the suffix *yat* in the sense of the state; because it is marked *t*, by तित्स्वरितम् (*titsvaritam*) (पा सू ६-१-१८५ (*pā sū 6-1-185*)) it takes the svarita accent (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 316
+
+*Running head: [316 Sāyaṇa-bhāṣya-sahitā [Maṃ. ೧. ೯ಅ. 24. Sū. 190] (as supplied, as printed, with a stray ೯).*
+
+*(Continuation of the Ṛk 3 grammar page of Sūkta 190, after the *ahanyaḥ* entry which ended the previous window.)*
+
+अस्ति (*asti*): because *yaḥ* precedes, by यद्वृत्तान्नित्यम् (*yadvṛttānnityam*) (पा. सू. ८-१-६६ (*pā. sū. 8-1-66*)) the *nighāta* accent is prohibited; because the suffix is marked *p*, the accent of the root remains. भीम: (*bhīma:*) (root इंभी भये (*iṃbhī bhaye*), as printed): by भियः सुग्वा (*bhiyaḥ sugvā*) (उ सू १-१४५ (*u sū 1-145*)) the suffix *mak*; by the suffix accent the last syllable is acute. Yāska has explained भीमः भिभ्यत्यस्मात् (*bhīmaḥ bhibhyatyasmāt*) (निरु. १-२० (*niru. 1-20*)).
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+*[A figure line of the supplied text, figure vol14/html/figures_p1/fig_1_1_line3576.jpg, viewed (*figure vol14/html/figures_p1/fig_1_1_line3576.jpg, viewed*), was viewed as an image; it repeats the Saṃhitā and Pada of Ṛk 4. One word of the Saṃhitā, अत्यो (*atyo*), is corrected to the image, as recorded in the note in the Kannada text.]*
+
+> अ॒स्य श्लोको॑ दि॒वीय॑ते पृथि॒व्यामत्यो॒ न यं॑सद्यक्ष॒भृद्वि॑
+> चेताः ।
+> मृ॒गाणां॒ न हे॒तयो॒ यंति॑ चे॒मा बृह॒स्पते॒रहि॑माया अ॒भि
+> द्यून् ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> अस्य । श्लोकः । दिवि । ईयते । पृथिव्यां । अत्यः । न । यंसत् । यक्षभृत् ।
+> विचेताः ।
+> मृगाणां । न । हेतयः । यंति । च । इमाः । बृहस्पतेः । अहिमायान् । अभि ।
+> द्यून् ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[A second, garbled label line शायणभाष्यं (*śāyaṇabhāṣyaṃ*) follows the label in the supplied text; kept as a note in the Kannada text.]*
+
+> अस्य बृहस्पतेः श्लोकः स्तुत्यात्मिका कीर्तिर्गर्जितवाग्वा दिवि द्योतमाने
+> द्युलोके पृथिव्यां चेयते । गच्छति । व्याप्ोति । यो बृहस्पतिरत्यो नातनशील
+> आदित्य इव यक्षभृत् पूजितं हविरादिकं दधानो विचेता विविधं चेतयिता प्राणिनां
+> विशिष्टप्रज्ञायुक्तो वा यंसत् नियच्छति फलु । किंच मृगाणां हंतुमन्विष्यतां
+> हेतयो नायुधानीवास्य बृहस्पतेरिमा हेतयो हिंस्राण्यायुधानि यंति ।
+> गच्छंति च ॥ चवायोगे प्रथमेति न निघातः ॥ अहिमायानागत्य हंत्रोऽंतरिक्ष-
+> चारिण्यो वा माया येषां वृत्रादीनां तानसुरान् द्यून् दिवसान् ॥ काला-
+> ध्वनोः । पा. २-३-५ । इति द्वितीया ॥ तान्यायुधान्यभि लक्षयंति च । उपसर्गश्रुते-
+> र्योग्यक्रियाध्याहारः ॥
+
+*Gist:* The praise of this Bṛhaspati spreads through heaven and earth, and he, like the ever-moving sun, bearing the honoured oblations and discerning, gives fruit; his fierce weapons, like those of hunters, go daily against the deceitful asuras such as Vṛtra.
+
+### Printed p. 317
+
+*Running head: [ಅ. ೨. ಅ. ೫. ವ. ೧೨ j] Ṛgveda-saṃhitā 317 (as supplied, as printed).*
+
+*[As supplied, a line reading प्रसिद्धवाद (*prasiddhavāda*) with a block mark stands where the Pratipadārtha label belongs; standard label inserted. The following lines carry block marks in the supplied text and are given as prose.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अस्य—ई बृहस्पतिय (*asya—ī bṛhaspatiya*) (of this Bṛhaspati). श्लोकः—स्तुत्यात्मकवाद कीर्तियु (*ślokaḥ—stutyātmakavāda kīrtiyu*) (the glory in the form of praise). दिवि—प्रकाशमानवाद द्युलोकदल्लियू (*divi—prakāśamānavāda dyulokadalliyū*) (in the shining heaven). पृथिव्यां—पृथिवियल्लियू (*pṛthivyāṃ—pṛthiviyalliyū*) (and on earth). ईयते—व्यापिसुत्तदॆ (इवनु) (*īyate—vyāpisuttadè (ivanu)*) (spreads). अत्यो न— (शाश्वतवागि) संचरिसतक्क आदित्यनंतॆ (*atyo na— (śāśvatavāgi) saṃcarisatakka ādityanaṃtè*) (like the sun that ever moves). यक्षभृत्—पूज्यवाद हविस्सुगळन्नु वहिसियू (*yakṣabhṛt—pūjyavāda havissugaḷannu vahisiyū*) (bearing the honoured oblations). विचेताः—प्रज्ञायुक्तनागियू अथवा प्राणिगळन्नु चैतन्ययुक्तवागि माडुत्तलू (*vicetāḥ—prajñāyuktanāgiyū athavā prāṇigaḷannu caitanyayuktavāgi māḍuttalū*) (discerning, or making creatures full of life). यंसत्- फलवन्नु कॊडुत्तानॆ (*yaṃsat- phalavannu kòḍuttānè*) (he gives fruit). मृगाणां—मृगगळन्नु बेटॆयाडुव व्याधर (*mṛgāṇāṃ—mṛgagaḷannu beṭèyāḍuva vyādhara*) (of the hunters who hunt beasts). हेतयः न—(हरितवाद) आयुधगळंतॆ (*hetayaḥ na—(haritavāda) āyudhagaḷaṃtè*) (like the sharp weapons). बृहस्पतेः—बृहस्पतिय (*bṛhaspateḥ—bṛhaspatiya*) (of Bṛhaspati). इमाः—क्रूरवाद आयुधगळु (*imāḥ—krūravāda āyudhagaḷu*) (these cruel weapons). द्यून्—प्रति दिनवू (*dyūn—prati dinavū*) (every day). अहिमायान् अभि—वंचकराद असुररन्नु लक्षिसि (*ahimāyān abhi—vaṃcakarāda asurarannu lakṣisi*) (aiming at the deceitful asuras). यंति च—अट्टिसिकॊंडू होगुत्तवॆ (*yaṃti ca—aṭṭisikòṃḍū hoguttavè*) (and go after them).
+
+*[As supplied, the label line reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+The praise of Bṛhaspati spreads through shining heaven and earth. Like the sun that ever moves, he gives fruits, bearing the honoured oblations and discerning. Like the sharp weapons of hunters who hunt beasts, Bṛhaspati's cruel weapons pursue the deceitful asuras every day and harm them.
+
+**Printed English translation**
+
+The glory of this Brihaspati spreads through heaven and earth like the sun : receiving worship, and giving intelligence, he bestows (the rewards of sacrifice) ; like the weapons of the hunters, so these (weapons) of Brihaspati fall daily upon the workers of guile.
+
+*[As supplied, the label line of the Special Topics reads विशेषवियरु (*viśeṣaviyaru*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4)**
+
+In this ṛk Bṛhaspati's glory spreading through earth and heaven, his bearing the oblation, and his destroying enemies, asuras and other wicked ones with his weapons are described. In this matter the sūkta ६नॆय मंडलद ७३नॆय सूक्त (*6nèya maṃḍalada 73nèya sūkta*) (the seventy-third sūkta of the sixth maṇḍala) describes the above qualities of Bṛhaspati very well; I give it here as an example:
+
+यो अद्रिभित् प्रथमजा यतावा बृहस्पतिरांगिरसो हविष्मान् । (*yo adribhit prathamajā yatāvā bṛhaspatirāṃgiraso haviṣmān |*)
+द्विबर्हज्मा प्राघर्मसत् पिता न आ रोदसी वृषभो रोरवीति ॥ (*dvibarhajmā prāgharmasat pitā na ā rodasī vṛṣabho roravīti ‖*)
+(ऋ. सं. ६-२३-१) (*(ṛ. saṃ. 6-23-1)*)
+
+### Printed p. 318
+
+*Running head: [318 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 190] (as supplied).*
+
+This Bṛhaspati breaks the mountains into pieces; he is the first-born of Prajāpati (Brahmā); of true vows; a descendant of the sage Aṅgiras; the accepter of oblations or the carrier to the gods; able to cross the two worlds (earth and heaven); dwelling in the shining place of light; like a father to us; the sender of rain; roaring (like a bull) in heaven and earth.
+
+जनाय चिद्य ईवत उ लोकं बृहस्पतिर्देवहूतौ जकार । (*janāya cidya īvata u lokaṃ bṛhaspatirdevahūtau jakāra |*)
+घ्नन् वृत्राणि वि पुरो दर्दरीति जयञ्क्तूरमिश्रान् पृत्सु साहन् ॥ (*ghnan vṛtrāṇi vi puro dardarīti jayañktūramiśrān pṛtsu sāhan ‖*)
+(ऋ. सं. ६-७३-२) (*(ṛ. saṃ. 6-73-2)*)
+
+This Bṛhaspati, for the sacrificer (the man) who invokes him as a god and praises him, prepares the best world; he destroys obstacles and enemies; he defeats in battle the asuras and others who are not friends and destroys their cities.
+
+बृहस्पतिः समजयद्वसूनि महो व्रजान् गोमतो देव एषः । (*bṛhaspatiḥ samajayadvasūni maho vrajān gomato deva eṣaḥ |*)
+अपः सिषासन्त्वव १ [?] रप्रतीतो बृहस्पतिर्हंत्यमित्रमर्कॆः ॥ (*apaḥ siṣāsantvava 1 [?] rapratīto bṛhaspatirhaṃtyamitramarkèḥ ‖*)
+(मि सं. ६-७२-१) (*(mi saṃ. 6-72-1)*)
+
+This Bṛhaspati won the wealth of the enemies; he also took possession of wide pastures and cattle; to obtain the water of the atmospheric cloud he destroys, with excellent hymns, the enemies in heaven (atmospheric) such as Vṛtra. In the above sūkta all the chief qualities of Bṛhaspati are finely praised. (The print gives a footnote sign ೧ in the first line of the last verse, marked [?], and the reference "ಮಿ ಸಂ.", as printed.)
+
+अहिमायान् (*ahimāyān*) — अगत्य हंत्रः अंतरिक्षचारिणो वा माया येषां वृत्रा- दीनां तानसुरान् (*agatya haṃtraḥ aṃtarikṣacāriṇo vā māyā yeṣāṃ vṛtrā- dīnāṃ tānasurān*): the bhāṣyakāra explains the word *ahimāyān* as enemies who kill by *māyā*, that is, by crooked means, having come running or pursuing; or the asuras such as Vṛtra who move in the atmosphere and cause trouble by *māyā* and the like. Although the word *ahimāya* occurs in the ṛks ऋ. सं. ६-२०-७, ६-५२-१५, १०-६३-४ (*ṛ. saṃ. 6-20-7, 6-52-15, 10-63-4*), since it is there used of the gods, they have explained it differently.
+
+Since Bṛhaspati's weapons are mentioned in this ṛk it is necessary to examine that matter a little. As said in the ṛk given above as an example:
+
+बृहस्पतिर्हंत्यमित्रमर्कॆः (*bṛhaspatirhaṃtyamitramarkèḥ*) — "Bṛhaspati destroys enemies by mantras alone": this is supported in other places also in the Ṛgveda and other works (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 315 (PDF 315). Sukta 190 Rik 2 grammar page complete; Rik 3 complete through Special Topics and begun grammar page (breaks off at ahanyah); figure line viewed; [?] on one Pada word
+**Progress note:** Done through printed p. 318 (PDF 318). Sukta 190 Rik 3 grammar page complete; Rik 4 complete through printed English; Special Topics of Rik 4 begun (Rik 6-73 verses, ahimayan), breaks off after the Rik 6-72-1 discussion on p. 318; figure line viewed, one Samhita word corrected to the image; [?] on a footnote sign
