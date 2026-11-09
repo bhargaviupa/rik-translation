@@ -13824,6 +13824,117 @@ May the bright Narashansa, illumining the receptacles (of the offering) making m
 
 *(The supplied text ends here, in the middle of the Pratipadārtha of Ṛk 3 at the end of p. 458; the rest follows in the next window.)*
 
+### Printed p. 459
+
+*Running head (as supplied): [अ. २ अ. ५ व. २२] ऋग्वेदसंहिता 459 (*[a. 2 a. 5 va. 22] ṛgvedasaṃhitā 459*).*
+
+*(Continuation of the Pratipadārtha of Ṛk 3 of Sūkta 3 of Maṇḍala 2, after the last entry of the previous page.)*
+
+पूर्वः—पूर्वभावियागि (*pūrvaḥ—pūrvabhāviyāgi*) (first, before (him)). नः—नमगोस्कर (*naḥ—namagoskara*) (for us). अद्य—इंदु (*adya—iṃdu*) (today). देवान्—यागार्हराद देवतॆगळन्नुद्देशिसि (*devān—yāgārharāda devatègaḷannuddeśisi*) (the gods who are worthy of the sacrifice, addressing them). यक्षि—यागमाडु (*yakṣi—yāgamāḍu*) (sacrifice). सः—अंतह पूज्यनाद नीनु (*saḥ—aṃtaha pūjyanāda nīnu*) (you, such a worshipful one). मरुतां शर्धः— मरुत्तुगळ संघातरूपवाद गुंपन्नू (*marutāṃ śardhaḥ— maruttugaḷa saṃghātarūpavāda guṃpannū*) (the host of the Maruts, the group in the form of a multitude). अच्युतं—क्षयरहितनाद (*acyutaṃ—kṣayarahitanāda*) (the undecaying). इंद्रं—इंद्रनन्नू (*iṃdraṃ—iṃdranannū*) (Indra). आ वह—करॆदुकॊंडु बा (आनंतर) (*ā vaha—karèdukòṃḍu bā (ānaṃtara)*) (bring (afterwards)). नरः—यज्ञनेतृगळाद ऎलै ऋत्विक्कुगळे (*naraḥ—yajñanetṛgaḷāda èlai ṛtvikkugaḷe*) (O priests, leaders of the sacrifice). बर्हिषदं—दर्भासनद मेलॆ कुळितिरुव इंद्रनन्नु (*barhiṣadaṃ—darbhāsanada melè kuḷitiruva iṃdranannu*) (Indra seated on the sacred grass). यजध्वं—पूजिसि (*yajadhvaṃ—pūjisi*) (worship).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, praised by us, worthy of the sacrifice, with a mind devoted to us, do you sacrifice today, before the human hotṛ and for us, to the gods who are worthy of the sacrifice. Being so worshipful, bring the host of the Maruts and the undecaying Indra; then, O priests, leaders of the sacrifice, worship Indra, who is seated on the sacred grass. (The print has a misspelt word for "worthy of the sacrifice" in the Bhāvārtha.)
+
+**Printed English translation**
+
+Agni, you are the venerable Ilita ; do you, with mind favourably disposed towards us, offer to-day sacrifice to the gods, before the human (ministrant priest) ; as such, bring hither the company of the Maruts, the undecaying Indra, to whom, seated on the sacred grass, do you priests, offer worship.
+
+*(The printed English divides "disposed", "ministrant" and "undecaying" by line breaks and hyphens, joined here.)*
+
+#### Ṛk 4
+
+*[A figure line of the supplied text, an image repeating the Saṃhitā and Pada of this ṛk, was viewed. One word shows a different conjunct in the image, in both the Saṃhitā and the Pada, and is corrected to the image, as noted in the Kannada text; the other words agree with the machine text. Split Saṃhitā lines are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> देव॑ बर्हि॒र्वर्ध॑मानं सु॒वीरं॑ स्ती॒र्णं रा॒ये सु॒भरं॒ वेद्य॒स्यां ।
+> घृ॒तेना॒क्तं व॑सवः सीदते॒दं विश्वे॑ देवा आदित्या य॒ज्ञिया॑सः ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> देव । बर्हिः । वर्धमानं । सुवीरं । स्तीर्णं । राये । सुभरं । वेदी इति । अस्यां ।
+> घृतेन । अक्तं । वसवः । सीदत । इदं । विश्वे । देवाः । आदित्याः । यज्ञियासः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बर्हिर्देव एतदभिमानिन्नग्ने वर्धमानं सुवीरं शोभनवीरसंपादकं
+> सुभरं सुपूर्णं स्तीर्णमस्मदीय्यैर्यृत्विघ्निरास्तृतं भव । किमर्थं । राये
+
+*(The bhāṣya block is interrupted by the page break in mid-sentence and continues on the next page.)*
+
+### Printed p. 460
+
+*Running head (as supplied): [460 सायणभाष्यसहिता [मं २. अ. १. सू. ३] (*[460 sāyaṇabhāṣyasahitā [maṃ 2. a. 1. sū. 3]*).*
+
+> धनाय । अस्यां वेदी वेद्यां ॥ सप्तम्यर्थे प्रगृह्यसंज्ञा । संहितायां यणादेश-
+> श्चांदसः ॥ धृतेनाज्येनाक्तमिदं स्निग्धं बर्हिः सीदत । के । हे वसव एतन्नामकाः
+> हे विश्वेसर्वे देवाः । हे आदित्याः । यज्जियासो यज्ञार्हास्ते यूयमिदं
+> बर्हिर्निषीदत । अस्मिन्बर्हिषि निषीदतेत्यर्थः ॥
+
+*Gist:* Divine Barhis, grow and be strewn well-filled on the altar for wealth; Vasus, Viśvedevas and Ādityas, worthy of sacrifice, sit on this ghee-sprinkled grass.
+
+*(The bhāṣya contains short grammatical remarks on the seventh case, the substitution in the Saṃhitā and the Vedic usage; they are transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+बर्हिः देव—देवतात्मनाद बर्हिये (*barhiḥ deva—devatātmanāda barhiye*) (O divine Barhis). अस्यां वेदी—ई वेदियल्लि (*asyāṃ vedī—ī vediyalli*) (on this altar). राये— संपत्तिगागि (*rāye— saṃpattigāgi*) (for wealth). वर्धमानं—वृद्धियन्नु तरतक्कवनागियू (*vardhamānaṃ—vṛddhiyannu taratakkavanāgiyū*) (one who brings increase). सुवीरं—शेषवाद वीर्यसंपादक नागियू (*suvīraṃ—śeṣavāda vīryasaṃpādaka nāgiyū*) (one who produces excellent strength (printed "śeṣa-")). सुभरं—सुपूर्णनागियू (*subharaṃ—supūrṇanāgiyū*) (of full measure). स्तीर्णं—(नम्मिंद) आस्तृतनागियू आगिरु (*stīrṇaṃ—(nammiṃda) āstṛtanāgiyū āgiru*) (be strewn (by us)). यज्ञियासः—यज्ञार्हराद (*yajñiyāsaḥ—yajñārharāda*) (worthy of the sacrifice). वसवः—ऎलै वसुगळे (*vasavaḥ—èlai vasugaḷe*) (O Vasus). विश्वे देवाः—ऎलै विश्वेदेवतॆगळे (*viśve devāḥ—èlai viśvedevatègaḷe*) (O Viśvedevas). आदित्याः—ऎलै आदित्यरे (*ādityāḥ—èlai ādityare*) (O Ādityas). घृतेन—घृतदिंद (*ghṛtena—ghṛtadiṃda*) (with ghee). अक्तं—सिक्तवाद (*aktaṃ—siktavāda*) (sprinkled). इदं—ई बर्हिय मेलॆ (*idaṃ—ī barhiya melè*) (on this Barhis). सीदत—कुळितुकॊळ्ळि. (*sīdata—kuḷitukòḷḷi.*) (sit).
+
+**भावार्थ (Bhāvārtha)**
+
+O divine Barhis, be one who increases our wealth, who produces excellent strength, who is of full measure, and, being strewn on our altar, adorn the altar. O Vasus, Viśvedevas and Ādityas, worthy of the sacrifice, sit on this Barhis sprinkled with ghee.
+
+**Printed English translation**
+
+Divine grass, let the Vasus, the Vishwedevas, the adorable Adityas, sit upon this flourishing, invigorating, well-grown, sacred grass, strewn for the sake of wealth upon this altar, and sprinkled with butter.
+
+#### Ṛk 5
+
+*[The Saṃhitā lines are joined, and the word split between two Saṃhitā lines is joined without a space. One reading of the Pada is marked with a query, as it differs from the Saṃhitā and the bhāṣya.]*
+
+**॥ संहितापाठः ॥**
+
+> वि श्र॑यंतामुर्वि॒या हू॒यमा॑ना॒ द्वारो॑ दे॒वीः सु॑प्राय॒णा नमो॑भिः ।
+> व्यच॑स्वती॒र्वि प्र॑थंतामजु॒र्या वर्णं॑ पुना॒ना य॒शसं॑ सु॒वीरं॑ ॥ ५ ॥
+
+> *vi śrayaṃtāmurviyā hūyamānā dvāro devīḥ suprāyaṇā namobhiḥ |*
+> *vyacasvatīrvi prathaṃtāmajuryā varṇaṃ punānā yaśasaṃ suvīraṃ ‖ 5 ‖*
+
+### Printed p. 461
+
+*Running head (as supplied): [अ. २. अ. ५. व. २२.] ऋग्वेदसंहिता 461 (*[a. 2. a. 5. va. 22.] ṛgvedasaṃhitā 461*).*
+
+**॥ पदपाठः ॥**
+
+> वि । श्रयंतां । उर्विया । हूयमानाः । द्वारः । देवीः । सुप्रअयनाः [?] । नमःभिः ।
+> व्यचस्वतीः । वि । प्रथंतां । अजुर्याः । वर्णं । पुनानाः । यशसं । सुवीरं ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> द्वारो देवीरग्नेर्द्वाराभिमानिन्नो देव्यो विश्रयंतां । विविच्य श्रयंतां।
+> विवृतापिधाना भवंतु । कीदृश्यस्ताः । उर्विया । उर्वो महत्यः । नमोभिर्नम-
+> स्कारोपेतैः स्तोत्रैर्हूयमानाः । सुप्रायणाः । सुष्टु प्रकर्षण गंतव्याः ।
+> ईदृश्यो देव्यो विश्रयंतां । किंच व्यचस्वतीर्वाप्तिमत्तोऽजुर्या अहिंस्या
+> अजनना वा सुवीरं शोभनपुत्राद्युपेतं यशसं यशोयुक्तं वर्णं वर्णनीयं
+> रूपविशेषं पुनाना यजमानाय शोधयित्र्यः संपादयित्र्यो देव्यो विप्र-
+> थंतां । विशेषेण प्रख्याता भवंतु ॥
+
+*Gist:* May the divine door-goddesses, vast and easily approached, open wide and be renowned, giving the sacrificer glorious wealth with good sons.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उर्विया—महत्तिनिंद कूडिद (*urviyā—mahattiniṃda kūḍida*) (of great extent). नमोभिः—नमस्कारगळिंद (*namobhiḥ—namaskāragaḷiṃda*) (with salutations). हूयमानाः—करॆ यल्पडतक्कवरू (*hūyamānāḥ—karè yalpaḍatakkavarū*) (those who are invoked (the word is divided by a line break)). सुप्रायणाः—सुलभवागि समीपिसल्पडतक्कवरू आद (*suprāyaṇāḥ—sulabhavāgi samīpisalpaḍatakkavarū āda*) (easily approached). देवीः द्वारः—द्वार देवतॆगळु (*devīḥ dvāraḥ—dvāra devatègaḷu*) (the door-goddesses (the entry is printed in two parts)). विश्रयंतां—पूर्णवागि तॆरॆयलि (*viśrayaṃtāṃ—pūrṇavāgi tèrèyali*) (let them open wide). व्यचस्वतीः—व्यापकवाद स्वरूपवुळ्ळवरू (*vyacasvatīḥ—vyāpakavāda svarūpavuḷḷavarū*) (of extensive nature). अजुर्याः—अहिंसकरू (*ajuryāḥ—ahiṃsakarū*) (the uninjurable). सुवीरं—वीरपुत्रादिगळिंद कूडिदुदू (*suvīraṃ—vīraputrādigaḷiṃda kūḍidudū*) (accompanied by heroic sons and the like). यशसं—यशोयुक्त वादुदू (*yaśasaṃ—yaśoyukta vādudū*) (accompanied by fame (the word is divided by a line break)). वर्णं—श्लाघ्यवादुदू आद संपत्तन्नु (*varṇaṃ—ślāghyavādudū āda saṃpattannu*) (of praiseworthy wealth). पुनानाः—यजमाननिगॆ कॊडतक्कवरू आद,देवतॆगळु (*punānāḥ—yajamānanigè kòḍatakkavarū āda,devatègaḷu*) (those who give to the sacrificer, the gods (printed with a comma)). वि प्रथंतां—हॊगळल्पडलि (*vi prathaṃtāṃ—hògaḷalpaḍali*) (let them be praised).
+
+**भावार्थ (Bhāvārtha)**
+
+May the door-goddesses, who are of great extent, invoked with salutations and easily approached, open wide. May the goddesses who are of extensive nature, uninjurable, and who give the sacrificer wealth accompanied by heroic sons and the like and by fame, be praised.
+
+**Printed English translation**
+
+Let the divine doors, spacious and easily accessible, and to be saluted with prostrations, be set open: let them be celebrated as expansive, uninjurable and conferring sanctity upon the illustrious class (of worshippers), possessed of virtuous progeny.
+
+*(The supplied text ends here, at the end of the printed English of Ṛk 5 on p. 461; Ṛk 6 follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 458 (PDF 458). Mandala 2 Sukta 3 Rik 1 and Rik 2 complete; Rik 3 Samhita, Pada, bhasya and the start of the Pratipadartha; three Pada readings marked with a query
+**Progress note:** Done through printed p. 461 (PDF 461). Mandala 2 Sukta 3 Rik 3, Rik 4 and Rik 5 complete; one Saṃhitā/Pada word corrected to the figure image; one Pada reading marked with a query
