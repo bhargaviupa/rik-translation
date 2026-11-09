@@ -5958,6 +5958,121 @@ When the Soma plants are crushed it is the custom to place them on skins; the sk
 
 For using the Soma juice without any mixture of other substances, the words शुक्र (*śukra*) (ऋ सं. १-१३७-१ : ३-३२-२ ; ८-२-१० (*ṛ saṃ. 1-137-1 : 3-32-2 ; 8-2-10*)) and शुचि (*śuci*) (ऋ. सं. १-५-५ ; १-३०-२ ; ८-२-९ (*ṛ. saṃ. 1-5-5 ; 1-30-2 ; 8-2-9*)) are used.
 
+### Printed p. 209
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 7] Ṛgveda-saṃhitā 209 (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 9 on Soma.)*
+
+The colour of this juice is described variously: it is said to be of many colours, बभ्रु (*babhru*) (ऋ. सं. ९-३३-२ ; ९-६३-४ & ६ (*ṛ. saṃ. 9-33-2 ; 9-63-4 & 6*)), हरित (*harita*) (ऋ. सं. ९-३-९ : ९-७-६ ; ९-६५-८ (*ṛ. saṃ. 9-3-9 : 9-7-6 ; 9-65-8*)), अरुण (*aruṇa*) (ऋ. सं ९-४०-२ ; ९-४५-३ (*ṛ. saṃ 9-40-2 ; 9-45-3*)), अरुष (*aruṣa*) (ऋ. सं. ९-६१-२१ (*ṛ. saṃ. 9-61-21*)), शोण (*śoṇa*) (ऋ. सं. ९-९७-१३ (*ṛ. saṃ. 9-97-13*)), and to be fragrant (ऋ. सं. ९-९७-९, ९-१०७-२ (*ṛ. saṃ. 9-97-9, 9-107-2*)).
+
+To make the Soma juice tasty, some substances are mixed with it. This mixture is called *āśira* substances. Soma juice mixed with milk is called *gavāśira*, with curds *dadhyāśira*, with flour *yavāśira*. Soma juice is sometimes said to be *tīvra*, "sharp"; then it should be understood as having a pungent smell or flavour (pungent flavour (*pungent flavour*)). The husk-like part that remains after the Soma juice is taken is called ऋजीष (*ṛjīṣa*) (*ṛjīṣa*).
+
+ग्रावा (*grāvā*) — the stone with which Soma is crushed. As the word पृथुबुद्धः (*pṛthubuddhaḥ*) explains, this stone is a round stone broad at the bottom and like a handle above, shaped like the grinding stone of a grinding mortar. In the Ṛgveda the stones used for crushing the Soma plant are generally called by the words ग्रावा अद्रि (*grāvā adri*).
+
+दध्याशिरः (*dadhyāśiraḥ*) — for this word the bhāṣyakāra gives अवनीयमानं दध्याशीर्दोषघातकं येषां सोमानां ते दध्याशिरः (*avanīyamānaṃ dadhyāśīrdoṣaghātakaṃ yeṣāṃ somānāṃ te dadhyāśiraḥ*): the Soma juices of which the curd-mixture, when brought, destroys the fault; that is, curds are mixed with the Soma juice to remove its faults, hence the name *dadhyāśiraḥ*. It was the custom to use the Soma juice mixed not only with curds but also with milk, flour and other substances (for taste). We have written about this at length in भाग १ पेजु 676 (*bhāga 1 peju 676*) of this Ṛgveda-saṃhitā. The word *dadhyāśiraḥ* occurs not only in this ṛk but in the following other ṛks:
+
+*[List marker in the supplied text: "1."]*
+
+(१) इम अयातमिंदवः सोमासो दध्याशिरः सुतासो दध्याशिरः । (*(1) ima ayātamiṃdavaḥ somāso dadhyāśiraḥ sutāso dadhyāśiraḥ |*)
+(ऋ. सं. १-१३७-२) (*(ṛ. saṃ. 1-137-2)*)
+
+(२) सुता इंद्राय वायवे सोमासो दध्याशिरः । (*(2) sutā iṃdrāya vāyave somāso dadhyāśiraḥ |*)
+(ऋ. सं. ५-५१-७) (*(ṛ. saṃ. 5-51-7)*)
+
+(३) इम इंद्राय सुन्विरे सोमासो दध्याशिरः ॥ (*(3) ima iṃdrāya sunvire somāso dadhyāśiraḥ ‖*)
+(ऋ. सं. ७-३२-४) (*(ṛ. saṃ. 7-32-4)*)
+
+(४) एते पूता विपश्चितः सोमासो दध्याशिरः ॥ (*(4) ete pūtā vipaścitaḥ somāso dadhyāśiraḥ ‖*)
+(ऋ. सं. ९-२२-३) (*(ṛ. saṃ. 9-22-3)*)
+
+(५) सुता इंद्राय वज्रणे सोमासो दध्याशिरः । (*(5) sutā iṃdrāya vajraṇe somāso dadhyāśiraḥ |*)
+(ऋ. सं. ९-६३-१५) (*(ṛ. saṃ. 9-63-15)*)
+
+*[Stray lines of the supplied text follow the last verse: (म. सं. ९-६३-१५) (*(ma. saṃ. 9-63-15)*), (पु. सं. ९-४५) (*(pu. saṃ. 9-45)*), "Vol. 14", "[14]"; not part of the text.]*
+
+### Printed p. 210
+
+*Running head: [210 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 187] (as supplied).*
+
+*[List marker in the supplied text: "1."]*
+
+(६) एते पूता विपश्चितः सोमासो दध्याशिरः ॥ (*(6) ete pūtā vipaścitaḥ somāso dadhyāśiraḥ ‖*)
+(ऋ. सं. ९-१०१-१२) (*(ṛ. saṃ. 9-101-12)*)
+
+Besides this word *dadhyāśira*, Soma juices mixed with other substances, such as *gavāśira* and *yavāśira*, are stated in these ṛks:
+
+(१) तीव्राः सोमास आ गह्याशीर्वंतः सुता इमे ॥ (*(1) tīvrāḥ somāsa ā gahyāśīrvaṃtaḥ sutā ime ‖*)
+(ऋ. सं. १-२३-१) (*(ṛ. saṃ. 1-23-1)*)
+
+In this ṛk, since it has आशीर्वंतः सोमासः (*āśīrvaṃtaḥ somāsaḥ*), it is said in general that some *āśira* substance, such as milk or curds, has been mixed with the Soma juice.
+
+(२) शतं वा यः शुचीनां सहस्रं वा समाशिरां ॥ (*(2) śataṃ vā yaḥ śucīnāṃ sahasraṃ vā samāśirāṃ ‖*)
+(ऋ सं. १-३०-२) (*(ṛ saṃ. 1-30-2)*)
+
+Here समाशिरां (*samāśirāṃ*) says in general that *āśira* substances are well mixed with the Soma juice; no particular substance is named.
+
+(३) सुषुमा यातमद्रिभिर्गोश्रीता मत्सरा इमे सोमासो मत्सरा (*(3) suṣumā yātamadribhirgośrītā matsarā ime somāso matsarā*)
+इमे । (*ime |*)
+आ राजाना दिविस्पृशास्मत्रा गंतमुप नः ॥ (*ā rājānā divispṛśāsmatrā gaṃtamupa naḥ ‖*)
+इमे वां मित्रावरुणा गवाशिरः सोमाः शुक्रा गवाशिरः ॥ (*ime vāṃ mitrāvaruṇā gavāśiraḥ somāḥ śukrā gavāśiraḥ ‖*)
+(ऋ. सं. १-१३७-१) (*(ṛ. saṃ. 1-137-1)*)
+
+Here गोश्रीताः (*gośrītāḥ*) means गवां पयोभिर्मिश्रिताः (*gavāṃ payobhirmiśritāḥ*), "mixed with the milk of cows", that is, mixed with cow's milk. The word गवाशिरः (*gavāśiraḥ*) in the last pāda of the same ṛk also means Soma mixed with cow's milk.
+
+(४) शुचिरसि पुरुनिष्ठाः क्षीरैर्मध्यतः आशीर्तः । दध्ना मंदिष्ठः शूरस्य ॥ (*(4) śucirasi puruniṣṭhāḥ kṣīrairmadhyataḥ āśīrtaḥ | dadhnā maṃdiṣṭhaḥ śūrasya ‖*)
+(ऋ सं ८-२-९) (*(ṛ saṃ 8-2-9)*)
+
+Here it is said that there are two different juices, mixed with milk and with curds; that is, one should understand that there are two kinds, Soma juice mixed with milk and Soma juice mixed with curds.
+
+(५) सं शुक्रासः शुचयः सं गवाशिरः सोमा इंद्रमंदिशुः ॥ (*(5) saṃ śukrāsaḥ śucayaḥ saṃ gavāśiraḥ somā iṃdramaṃdiśuḥ ‖*)
+(ऋ. सं. ८-५२-१०) (*(ṛ. saṃ. 8-52-10)*)
+
+Here it is stated clearly that *gavāśira* means Soma mixed with milk.
+
+### Printed p. 211
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 7] Ṛgveda-saṃhitā 211 (as supplied).*
+
+*[List marker in the supplied text: "1."]*
+
+(६) अधा नियुत्व उभयस्य नः पिब शुचिं सोमं गवाशिरं ॥ (*(6) adhā niyutva ubhayasya naḥ piba śuciṃ somaṃ gavāśiraṃ ‖*)
+(ऋ. सं. ८-१०१-१०) (*(ṛ. saṃ. 8-101-10)*)
+
+Here too the Soma mixed with milk, *gavāśira*, is meant.
+
+(७) यत्ते सोम गवाशिरो यवाशिरो भजामहे ॥ (*(7) yatte soma gavāśiro yavāśiro bhajāmahe ‖*)
+(ऋ. सं. १-१८७-९) (*(ṛ. saṃ. 1-187-9)*)
+
+(८) इमदिंद्र गवाशिरं यवाशिरं च नः पिब । (*(8) imadiṃdra gavāśiraṃ yavāśiraṃ ca naḥ piba |*)
+(ऋ. सं. ३-४२-७) (*(ṛ. saṃ. 3-42-7)*)
+
+Here both kinds of Soma juice, *gavāśira* and *yavāśira*, are mentioned.
+
+(९) इंदोरिंद्रो यवाशिरः । (*(9) iṃdoriṃdro yavāśiraḥ |*)
+(ऋ. सं. ८-९२-४) (*(ṛ. saṃ. 8-92-4)*)
+
+(१०) त्रिकद्रुकेषु महिषो यवाशिरं तुविशुष्मस्तृपत्सोममपिबद्विष्णुना (*(10) trikadrukeṣu mahiṣo yavāśiraṃ tuviśuṣmastṛpatsomamapibadviṣṇunā*)
+सुतं यथावशत् ॥ (ऋ. सं. २-२२-१) (*sutaṃ yathāvaśat ‖ (ṛ. saṃ. 2-22-1)*)
+
+Here *yavāśira* is said to mean Soma juice mixed with flour.
+
+(११) अश्वमेधस्य दानाः सोमा इव त्र्याशिरः ॥ (*(11) aśvamedhasya dānāḥ somā iva tryāśiraḥ ‖*)
+(ऋ. सं. ५-२७-५) (*(ṛ. saṃ. 5-27-5)*)
+
+Here it is said that three kinds of substances, milk, curds and barley (*yava*), are mixed with the Soma juice.
+
+(१२) साधोः पिब प्रतिकामं यथा ते रसाशिरः प्रथमं सोमस्य । (*(12) sādhoḥ piba pratikāmaṃ yathā te rasāśiraḥ prathamaṃ somasya |*)
+(ऋ सं. ३-४८-१) (*(ṛ saṃ. 3-48-1)*)
+
+Since *rasāśira* is said here, it means Soma mixed with either milk or curds.
+
+*[As supplied, the label line reads व्याकरणक्रिया (*vyākaraṇakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 9, noted briefly)
+
+गवाशिरः (*gavāśiraḥ*): गोभिः आशिरः गवाशिरः (*gobhiḥ āśiraḥ gavāśiraḥ*); here the word *go* indicates cow-products such as milk. The root अशभोजने (*aśabhojane*); by अशेर्णित् (*aśerṇit*) (उ. सू. १-५२ (*u. sū. 1-52*)) the suffix *kirac*; because it is marked *ṇ*, by अतउपधायाः (*ataupadhāyāḥ*) (पा सू. ७-२-११६ (*pā sū. 7-2-116*)) vṛddhi of the first syllable; in the compound the first member keeps its natural accent. भजामहे (*bhajāmahe*) (root भज सेवायं (*bhaja sevāyaṃ*)): *bhvādi*, *laṭ*, first person plural; because of the connection with *yat* the *nighāta* accent does not occur; by तास्यनुदात्तेत् (*tāsyanudāttet*) (पा. सू. ६-१-१८६ (*pā. sū. 6-1-186*)) the *lasārvadhātuka* ending is unaccented, so the accent of the root remains.
+
 ---
 
-**Progress note:** Done through printed p. 208 (PDF 208). Done through printed p. 208 (Sukta 187 Rik 9 Pratipadartha, Bhavartha, printed English done; Special Topics on Soma continue after sukra/suci on p. 208); [?] on pivah
+**Progress note:** Done through printed p. 211 (PDF 211). Done through printed p. 211 (Sukta 187 Rik 9 Special Topics on Soma complete; grammar page begun, continues on p. 212)
