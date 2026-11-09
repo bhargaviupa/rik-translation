@@ -14993,6 +14993,113 @@ In Agni, the accomplisher of the sacrifice, the seven hotṛs, in the form of se
 
 *(The supplied text ends here, at the end of the Bhāvārtha of Ṛk 2 on p. 493; the printed English follows in the next window.)*
 
+### Printed p. 494
+
+*Running head (as supplied): [494 सायणभाष्यसहिता [ मं. २ अ. १. सू. ५] (*[494 sāyaṇabhāṣyasahitā [ maṃ. 2 a. 1. sū. 5]*).*
+
+*(Continuation of Ṛk 2 of Sūkta 5 of Maṇḍala 2: its printed English and Special Topics follow the Bhāvārtha of the previous page.)*
+
+**Printed English translation**
+
+In whom, as conductor of the sacrifice, the seven rays are manifested and who, as a human Potri, officiates in the eighth place to perfect every divine (rite).
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 2)**
+
+नेतरि—यागस्य निर्वाहके यस्मिन्नग्नौ । (*netari—yāgasya nirvāhake yasminnagnau |*) The commentator's meaning is "in the Agni who accomplishes the sacrifice". In this ṛk it is said that Agni performs the duty of the priests called the netṛ and the potṛ.
+
+सप्त रश्मयस्तता—सप्तसंख्याका रश्मिवद्वाप्ता होत्रका आ तताः । स्वस्वकर्मभिः सर्वतो व्याप्ता भवंति । (*sapta raśmayastatā—saptasaṃkhyākā raśmivadvāptā hotrakā ā tatāḥ | svasvakarmabhiḥ sarvato vyāptā bhavaṃti |*) The meaning is that the seven hotṛs, who are like seven rays or like the seven flames of Agni, gather around Agni and engage in their respective sacrificial duties. Who the seven hotṛs are here: as the commentator said earlier, four hotṛs of the hotṛ group and three priests of the Brahmā group, seven in all, engage in the homa rite: such is the purport. Yāska, in the explanation of the ṛk
+
+दक्षस्य वादिते जन्मनि व्रते राजाना मित्रावरुणा निवाससि । (*dakṣasya vādite janmani vrate rājānā mitrāvaruṇā nivāsasi |*)
+अतूर्तपंथाः पुरुरथो आर्यमा सप्तहोता विषुरूपेषु जन्मसु ॥ (*atūrtapaṃthāḥ pururatho āryamā saptahotā viṣurūpeṣu janmasu ‖*)
+
+(म. सं. १०-६४-५ (*ma. saṃ. 10-64-5*)) (as printed; the first abbreviation is a misprint; the verse names Aryaman as the one with seven hotṛs), has explained the word for "seven hotṛs" as the seven rays of Agni:
+
+सप्तहोता सप्तास्मै रश्मयो रसानभिसन्नामयंति । सप्तैनमृषयः स्तुवंतीति वा । (*saptahotā saptāsmai raśmayo rasānabhisannāmayaṃti | saptainamṛṣayaḥ stuvaṃtīti vā |*)
+
+(नि. ११-२३ (*ni. 11-23*)) (a line-end hyphen inside it is joined) (rendered loosely: "Saptahotṛ": his seven rays bring to him the saps; or the seven seers praise him). That is, he has explained that Agni has the name "of seven hotṛs" because Agni's rays (flames) are seven, or because the seven seers praise this Agni. In the present ṛk the purport is the seven hotṛs, like seven rays, or the seven priests.
+
+मनुष्यत् दैव्यं अष्टमं पोता विश्वं तत् इन्वति (*manuṣyat daivyaṃ aṣṭamaṃ potā viśvaṃ tat invati*) (as printed): in this sentence of the second half the meaning is explained that Agni, with the seven priests mentioned above, becomes the eighth priest, the potṛ, in the sacrifice performed by men and himself helps to accomplish the sacrificial rite.
+
+*[A stray ornament line of the supplied text, in a script other than Kannada, is kept as an italic note in the Kannada text.]*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> द॒ध॒न्वे वा॒ यदी॒मनु॒ वोच॒द्ब्रह्मा॑णि॒ वेरु॒ तत् ।
+> परि॒ विश्वा॑नि॒ काव्या॑ ने॒मिश्च॒क्रमि॑वाभवत् ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> दधन्वे । वा । यत् । ईं । अनु । वोचत् । ब्रह्माणि । वेः । ऊं इति । तत् ।
+> परि । विश्वानि । काव्या । नेमिः । चक्रं इव । अभवत् ॥ ३ ॥
+
+> *dadhanve | vā | yat | īṃ | anu | vocat | brahmāṇi | veḥ | ūṃ iti | tat |*
+> *pari | viśvāni | kāvyā | nemiḥ | cakraṃ iva | abhavat ‖ 3 ‖*
+
+### Printed p. 495
+
+*Running head (as supplied): [अ. २. अ. ५ व. २६ ] ऋग्वेदसंहिता 495 (*[a. 2. a. 5 va. 26 ] ṛgvedasaṃhitā 495*).*
+
+*[As supplied, the label line of the bhāṣya reads सायुणभाष्यं (*sāyuṇabhāṣyaṃ*), inside the Pada block; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> पूर्व मंत्रे होत्रादिवत् स्वयमपि यज्ञं निर्वहतीत्युक्तं । अत्र तु
+> सर्वं तत्तदात्मना स्थित्वा स्वयमेव निर्वहतीत्याह । वा अथवा ईमेनं यज्ञमनु
+> लक्षीकृत्य यद्धविरादिकं दधन्वे धारयत्यध्वर्यादिरूपः । यानि ब्रह्माणि शस्त्रादी-
+> न्यनुवोचत् । अनुवक्ति होत्रादिरूपः । अत्र वान्वित्येतद्योज्यं । तत्सर्वं वेरु ।
+> वेरेव । कामयते जानाति वा स्वयमनुष्ठातुं । आयमग्निर्विश्वानि सर्वाणि काव्यानि ।
+> कवयो मेधाविन ऋत्विजः । तत्संबंधीनि कर्माणि पर्यभवत् । परिभवति । स्वाय-
+> तानि करोति । व्याप्तीतीर्थः । व्याप्त दृष्टांतः । नेमिः वहिर्वॆष्टनवलयश्चक्रं
+> रथांगं यथा कार्त्स्न्येन व्याप्ती तद्वत् ॥
+
+*Gist:* Agni knows all offerings made and hymns recited by the priests and, within each priest, accomplishes all their rites like a wheel's rim.
+
+*(The bhāṣya contains short grammatical remarks; they are transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वा—अथवा (*vā—athavā*) (or). ईं अनु—ई यज्ञवन्नु उद्देशिसि (*īṃ anu—ī yajñavannu uddeśisi*) (with reference to this sacrifice). यत्—याव हविस्सुगळन्नु (*yat—yāva havissugaḷannu*) (which oblations). दधन्वे—(अध्वर्वादिगळु) अर्पिसुवरो मत्तु (*dadhanve—(adhvarvādigaḷu) arpisuvaro mattu*) ((the adhvaryu and others) offer, and). ब्रह्माणि—याव शस्त्रादियाद मंत्रगळन्नु (*brahmāṇi—yāva śastrādiyāda maṃtragaḷannu*) (which hymns of praise and the like). वोचत्—(होत्रादिगळु) पठिसुवरो (*vocat—(hotrādigaḷu) paṭhisuvaro*) ((the hotṛ and others) recite). तत्—आ ऎल्लवन्नू सह (*tat—ā èllavannū saha*) (all that also). वेरु—अग्नियु तिळिदे इरु त्तानॆ (अपेक्षिसुत्तानॆ ई अग्नियु) (*veru—agniyu tiḷide iru ttānè (apekṣisuttānè ī agniyu)*) (Agni knows (he desires, this Agni) (the word is divided by a line break)). विश्वानि—समस्तवाद (*viśvāni—samastavāda*) (all). काव्या—ऋत्विक्कुगळ कर्मगळन्नु (*kāvyā—ṛtvikkugaḷa karmagaḷannu*) (the acts of the priests). नेमिः—चक्रद हॊरवलयवु (*nemiḥ—cakrada hòravalayavu*) (the rim of a wheel). चक्रं इव—चक्रवन्नु पूर्णवागि व्यापिसुवंतॆ (*cakraṃ iva—cakravannu pūrṇavāgi vyāpisuvaṃtè*) (as if pervading the wheel completely). परि अभवत्- पूर्णवागि व्यापिसिद्दानॆ (*pari abhavat- pūrṇavāgi vyāpisiddānè*) (he has pervaded completely).
+
+**भावार्थ (Bhāvārtha)**
+
+Agni knows all the oblations that the adhvaryu and others offer for this sacrifice, and all the hymns that the hotṛ and others recite. As the rim of a wheel completely pervades the wheel, so Agni, desiring them, has pervaded all the rites of the priests.
+
+### Printed p. 496
+
+*Running head (as supplied): [496 सायणभाष्यसहिता [मं. २. अ. १ सू. ५.] (*[496 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1 sū. 5.]*).*
+
+**Printed English translation**
+
+Whatever (offerings the priest) presents, whatever prayers he recites, he, (Agni), knows them all : he comprehends all priestly acts, as the circumference (includes the spokes) of a wheel.
+
+*(The printed English divides "circumference" by a line break and a hyphen, joined here.)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3)**
+
+In the previous ṛk it was said that Agni, like the hotṛ and other priests, himself engages in the accomplishment of the sacrifice. In this ṛk it is described that Agni himself, being in the respective priests in the respective part, himself accomplishes the work of all the priests.
+
+वा ईं अनु दधन्वे (*vā īṃ anu dadhanve*): Agni himself, knowing all the oblations that the priests such as the adhvaryu offer in the sacrifice, makes the oblation in the form of the adhvaryu, and likewise ब्रह्माणि वोचत् तत् वेरु (*brahmāṇi vocat tat veru*): Agni knows the hymns of praise, the śastras and the like, recited by the priests of the hotṛ group, and recites them himself.
+
+परि विश्वानि काव्या नेमिः चक्रमिव अभवत् (*pari viśvāni kāvyā nemiḥ cakramiva abhavat*): besides, Agni himself does, or is able to do, all the acts that the wise priests perform in the sacrifice. An illustration is given here: as the rim of a wheel (the band round the outer rim, "Tyre" as printed in English) pervades the wheel all round, that is, pervades the whole wheel, so Agni pervades all the rites performed in the sacrifice; that is, he himself takes part in all the sacrificial rites and accomplishes the sacrifice: such is the purport.
+
+#### Ṛk 4
+
+*[Two readings of the Pada are marked with a query, as they differ from the Saṃhitā and the bhāṣya.]*
+
+**॥ संहितापाठः ॥**
+
+> सा॒कं हि शुचि॑ना॒ शुचिः॑ प्रशा॒स्ता क्रतु॒नाज॑नि ।
+> वि॒द्वा अ॑स्य व्र॒ता ध्रु॒वा व॒या इ॒वानु॑ रोहते ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> साकं । हि । शुचिना । शुचिः । प्रश्रास्ता [?] । क्रतुना । अजनि ।
+> विद्वान् । अस्य । व्रता । ध्रुवा । वयार्ष [?] इव । अनु । रोहते ॥ ४ ॥
+
+*(The supplied text ends here, after the Pada of Ṛk 4 on p. 496; the bhāṣya follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 493 (PDF 493). Mandala 2 Sukta 5 Rik 1 complete; Rik 2 through the Bhavartha; one Saṃhitā reading marked with a query; Devanagari letters in the bhashya rewritten as Kannada
+**Progress note:** Done through printed p. 496 (PDF 496). Mandala 2 Sukta 5 Rik 2 and Rik 3 complete; Rik 4 Samhita and Pada; two Pada readings marked with a query
