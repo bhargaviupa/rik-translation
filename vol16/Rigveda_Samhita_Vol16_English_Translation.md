@@ -1569,6 +1569,130 @@ The Hotṛ recites these seven mantras, and so the anointing of the yūpa is dul
 
 After the sacrifice is finished, as to whether the yūpa should be left standing as it is or should be put into the fire, some say that sacrificers who desire cattle should not put it into the fire but leave it standing. On this matter there is an old story. [The sentence ends here at the foot of p. 58; the story continues on the next page.]
 
+### Printed p. 59
+
+*[Running head, p. 59: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 59]*
+
+Since there is a doubt as to how the yūpa is to be used (the supplied text prints "yūda" for yūpa), this is clarified in the Aitareya Brāhmaṇa (Ai. Brā. 2-3):
+
+> देवेभ्यो वै पशवोऽन्नाद्यायालंभाय नातिष्ठंत तेऽपक्रम्य प्रति-
+> वावदतोऽतिष्ठन्नास्मानालप्स्यध्वे नास्मानिति ततो वै देवा एतं
+> यूपं वज्रवःपश्यंस्तमेभ्य उदश्रयंस्तस्माद्विभ्यत उपावर्तंत
+> तमेवाद्याप्युपावृत्तास्ततो वै देवेभ्यः पशवोऽन्नाद्यायालं-
+> भायातिष्ठंत तिष्ठंतेऽस्मै पशवोऽन्नाद्यायालंभाय य एवं वेद
+> यस्य चैवं विदुषो यूपस्तिष्टति अनु प्रहरेत्स्वर्गकामस्य तमु ह
+> स्मैतं पूर्वेऽन्वेव प्रहरंति ।
+
+> *devebhyo vai paśavo 'nnādyāyālaṃbhāya nātiṣṭhaṃta te 'pakramya prati-*
+> *vāvadato 'tiṣṭhannāsmānālapsyadhve nāsmāniti tato vai devā etaṃ*
+> *yūpaṃ vajravaḥpaśyaṃstamebhya udaśrayaṃstasmādvibhyata upāvartaṃta*
+> *tamevādyāpyupāvṛttāstato vai devebhyaḥ paśavo 'nnādyāyālaṃ-*
+> *bhāyātiṣṭhaṃta tiṣṭhaṃte 'smai paśavo 'nnādyāyālaṃbhāya ya evaṃ veda*
+> *yasya caivaṃ viduṣo yūpastiṣṭati anu praharetsvargakāmasya tamu ha*
+> *smaitaṃ pūrve 'nveva praharaṃti |*
+
+Once upon a time the animals ran away from the gods, so that the gods could not take them as they pleased. Having gone a little way, they stood there and said to the gods: "O gods, you cannot get us; we are not for you." Hearing this, the gods remembered the sacrificial post (yūpa) they had set up at the sacrifice, and looked at it. The animals, frightened by this, came and stood facing the gods. For this very reason it is still the custom today to tie the animals at a sacrifice so that they stand facing the yūpa. The animals that thus stood quietly, without running away from them, the gods accepted for their food. The animals of the sacrificer who knows this well stand quietly beside the yūpa set up high, without trouble, to be accepted by the gods. Therefore the sacrificer who desires cattle should not pull out the sacrificial post but leave it standing as it is. But on behalf of a sacrificer who desires heaven the Adhvaryu pulls out the post and puts it into the fire. For in former times many sacrificers, after the rite of binding the animal was complete, pulled out the posts and put them into the fire. For it is said: the sacrificer himself is the yūpa, the sacrificer himself is the darbha grass called prastara, and the fire is the womb (place of origin) of the gods. By offering the oblation in this way the sacrificer, with a golden body, goes to heaven, the abode of the gods.
+
+> अथ ये तेभ्योऽवर आसंस्त एतं सृरुमपश्यन्यूपशकलं तं तस्मिन्कालेs-
+> नुप्रहरेत्तत्र स काम उपापो योऽनुप्रहरणे तत्र स काम उपा-
+> पो यः स्थाने ॥
+
+> *atha ye tebhyo 'vara āsaṃsta etaṃ sṛrumapaśyanyūpaśakalaṃ taṃ tasminkāles-*
+> *nupraharettatra sa kāma upāpo yo 'nupraharaṇe tatra sa kāma upā-*
+> *po yaḥ sthāne ‖*
+
+Those sacrificers of former times, that is, sacrificers other than the famous ṛṣis, understood that a small chip or piece of the yūpa stands in place of the yūpa, and that, therefore, if one offers into the fire a small chip of the yūpa instead of the large yūpa, it is as if the whole yūpa had been offered.
+
+### Printed p. 60
+
+*[Running head, p. 60: 60 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+All the desired ends that are attained by putting the yūpa into the fire are attained by offering a small piece of the yūpa. Hence, instead of putting the yūpa into the fire, it became the custom to offer the sruva (spoon) or the yūpa-chip (a small piece of the yūpa). On this matter the Taittirīya Saṃhitā of the Yajurveda says:
+
+> देवा वै सग्गस्थिते सोमे प्रसुचोऽहरन्न, यूपं तेऽमन्यंत यज्ञ
+> वेशसं वा इदं कुर्म इति ते प्रस्तरग्ग सुचां निष्क्रियणमपश्यन्
+> स्वरुं यूपस्य सग्गस्थिते सोमे प्र प्रस्तरग्ं हरति जुहोति स्वरुम-
+> यज्ञवेशसाय. (तै. सं. ६-३-४-९).
+
+> *devā vai saggasthite some prasuco 'haranna, yūpaṃ te 'manyaṃta yajña*
+> *veśasaṃ vā idaṃ kurma iti te prastaragga sucāṃ niṣkriyaṇamapaśyan*
+> *svaruṃ yūpasya saggasthite some pra prastaragṃ harati juhoti svaruma-*
+> *yajñaveśasāya. (tai. saṃ. 6-3-4-9).*
+
+Concerning the putting of the yūpa into the fire, the Āpastamba Śrauta Sūtra says जुह्वां स्वरुमवदायानूयाजांते जुहोति द्यां ते धूमो गच्छतु (*juhvāṃ svarumavadāyānūyājāṃte juhoti dyāṃ te dhūmo gacchatu*), that is, after the recital of the anūyāja mantra, the sruva or yūpa-chip is placed in the juhū (the wooden offering ladle) and the offering is made while reciting द्यां ते धूमो गच्छतु (*dyāṃ te dhūmo gacchatu*) ("may your smoke go to heaven"). The meaning is that by offering the sruva or yūpa-chip one obtains the fruit of offering the whole yūpa, and also the fruit, such as the gaining of cattle, that comes when the yūpa is left as it is without being offered.
+
+All that has been said so far is the order of setting up the yūpa to be carried out by the Hotṛ or the priests of the Hotṛ's group. Besides this there are some further rites to be performed by the Adhvaryu and others in setting up the yūpa. They are stated in the Anuvākas Tai. Saṃ. 1-3-5 and 1-3-6; 6-3-3; 6-3-4. Of these, the first (1-3-5) describes the cutting of the yūpa, 1-3-6 the setting up of the yūpa, 6-3-3 the yūpa rite, and 6-3-4 the rites beginning with the sprinkling of the yūpa. In the first two Anuvākas there are only the mantras of the yūpa rite. The last two Anuvākas are the Brāhmaṇa of the first ones, that is, they state the application of those mantras and their meaning. Therefore we shall give only the text of the first two Anuvākas and explain the last two.
+
+Mantras of the cutting and setting up of the yūpa (the supplied text prints "yūha" for yūpa).
+
+> अत्यन्यानगान्नान्यानुपागामर्वाक्त्वा परैरविदं परोवरैस्तं त्वा जुषे
+> वैष्णवं देवयज्याय्यै देवस्त्व सविता मध्वानक्कोषधे त्राय
+> स्वैनग्स् स्वधिते मैनग्ं हिग्ंसीर्दिवमग्रेण मा लेखीरंतरिक्षं
+
+> *atyanyānagānnānyānupāgāmarvāktvā parairavidaṃ parovaraistaṃ tvā juṣe*
+> *vaiṣṇavaṃ devayajyāyyai devastva savitā madhvānakkoṣadhe trāya*
+> *svainags svadhite mainagṃ higṃsīrdivamagreṇa mā lekhīraṃtarikṣaṃ*
+
+### Printed p. 61
+
+*[Running head, p. 61: [A. 3. A. 1. V. 3] Ṛgvedasaṃhitā 61]*
+
+> मध्येन मा हिग्ंसीः पृथिव्या संभव वनस्पते शतवल्‌शो वि रोह
+> सहस्रवल्शा वि वयग् रुहेम यं त्वा यग्ग स्वधितिस्तेतिजानः प्रणि-
+> नाय महते सौभगायाच्चिन्नो रायस्सुवीरः ॥
+
+> *madhyena mā higṃsīḥ pṛthivyā saṃbhava vanaspate śatavalśo vi roha*
+> *sahasravalśā vi vayag ruhema yaṃ tvā yagga svadhitistetijānaḥ praṇi-*
+> *nāya mahate saubhagāyāccinno rāyassuvīraḥ ‖*
+
+(Tai. Saṃ. 1-3-5; the supplied text prints "Kṛ. Saṃ.")
+
+> पृथिव्यै त्वांतरिक्षाय त्वा दिवे त्वा शुंधतां लोकः पितृषदनो
+> यवोऽसि यवयास्मद्वेषो यवयारातीः पितृणाग्ं सदनमसि
+> स्वावेशोऽस्यग्रेगा नेत्रणां वनस्पतिरधि त्वा स्थास्यति तस्य वित्ताद्दे-
+> वस्त्वा सविता मध्वानक्त सुपिप्पलाभ्यसौषधीभ्य उद्दिवग्ग स्तभानांत-
+> रिक्षं पृण प्रथिवीमुपरेण दृग्ंह ते ते धामान्युत्मसि गमध्यॆ
+> गावो यत्र भूरिशृंगा अयासः । अत्राह तदुरुगायस्य विष्णोः
+> परमं पदमव भाति भूरेः । विष्णोः कर्माणि पश्यत यतो व्रतानि
+> पस्पशे । इंद्रस्य युज्यस्सखा । तद्विष्णोः परमं पदग्ं सदा पश्यंति
+> सूरयः । दिवीव चक्षुराततं । ब्रह्मवनिं त्वा क्षत्रवनिग्ं सुप्रजाव-
+> निग्ं रायस्पोषवनिं पर्यूहामि ब्रह्म दृग्ंह क्षत्रं दृग्ंह
+> प्रजां दृग्ंह रायस्पोषं दृग्ंह परिवीरसि परि त्वा दैवीर्विशो
+> व्ययंतां परीमग्‌ रायस्पोषो यजमानं मनुष्या अंतरिक्षस्य
+> त्वा सानावव गूहामि ॥
+
+> *pṛthivyai tvāṃtarikṣāya tvā dive tvā śuṃdhatāṃ lokaḥ pitṛṣadano*
+> *yavo 'si yavayāsmadveṣo yavayārātīḥ pitṛṇāgṃ sadanamasi*
+> *svāveśo 'syagregā netraṇāṃ vanaspatiradhi tvā sthāsyati tasya vittādde-*
+> *vastvā savitā madhvānakta supippalābhyasauṣadhībhya uddivagga stabhānāṃta-*
+> *rikṣaṃ pṛṇa prathivīmupareṇa dṛgṃha te te dhāmānyutmasi gamadhyè*
+> *gāvo yatra bhūriśṛṃgā ayāsaḥ | atrāha tadurugāyasya viṣṇoḥ*
+> *paramaṃ padamava bhāti bhūreḥ | viṣṇoḥ karmāṇi paśyata yato vratāni*
+> *paspaśe | iṃdrasya yujyassakhā | tadviṣṇoḥ paramaṃ padagṃ sadā paśyaṃti*
+> *sūrayaḥ | divīva cakṣurātataṃ | brahmavaniṃ tvā kṣatravanigṃ suprajāva-*
+> *nigṃ rāyaspoṣavaniṃ paryūhāmi brahma dṛgṃha kṣatraṃ dṛgṃha*
+> *prajāṃ dṛgṃha rāyaspoṣaṃ dṛgṃha parivīrasi pari tvā daivīrviśo*
+> *vyayaṃtāṃ parīmag rāyaspoṣo yajamānaṃ manuṣyā aṃtarikṣasya*
+> *tvā sānāvava gūhāmi ‖*
+
+(Tai. Saṃ. 1-3-6; the supplied text prints "Kṛ. Saṃ.")
+
+The two Anuvākas that are in the form of a Brāhmaṇa for the above mantras, that is, that explain their meaning and application, are in the sixth Kāṇḍa, third Prapāṭhaka of the Taittirīya Saṃhitā; they are explained here with their meaning:
+
+> वैष्णव्यर्चा हुत्वा यूपमच्छैति वैष्णवो वै देवतया यूपः स्वयै-
+> वैनं देवतयोच्छैत्यत्यन्यानगां नान्यानुपागामित्याहाति ह्यस्यानेति
+> नान्यानुपैत्यर्वाक्त्वा परैरविदं परोवरॆरित्याहार्वाग्न्येनं परैर्विं-
+> दति परोवरै स्तं त्वा जुषे वैष्णवं देवयज्याया इत्याह देवय-
+> ज्यायै हैनं जुषते देवस्त्वा सविता मध्वानक्तित्याह तेजसैवैनम-
+> नक्कोषधे त्रायस्वैनग् स्वधिते मैनग् हिंग्‌सीरित्याह वज्रो वै
+> स्वधितिः शांतै स्वधितेर्वक्षस्य बिभ्यतः प्रथमेन शकलेन सह तेजः परा
+> पतति यःप्रथमः शकलः इरापतेत्तमप्या हरेश्वतेजसमेवैनमा हरती
+> मे वैलोका यूपात्पयतो बिभ्यति दिवमग्रेण मा लेखीरंतरिक्षं
+> मध्यॆन मा हिंग्‌सीरिष्याहैभ्य एवैनं लोकेभ्यः शमयति वनस्पते
+> शतवल्‌शो वि रोहेत्याव्रश्चने जुहोति तस्मदाव्रश्चनाद्वृक्षाणां
+
+*[The passage continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 58 (PDF 58). pp. 56-58: Sukta 8 Pithika, yupa anointing Rks (1-36-13,14; 3-8-5,4) and seven-Rk count; ends mid-sentence p. 58 (old story); Rk 1 not started
+**Progress note:** Done through printed p. 61 (PDF 61). Done through printed p. 61. Sukta 8 Pithika: Ait.Br. yupa/animals, svaru passage, Tai.Sam. 1-3-5,6 mantras, Brahmana 6-3 begins; ends mid-passage p. 61; Rk 1 not started
