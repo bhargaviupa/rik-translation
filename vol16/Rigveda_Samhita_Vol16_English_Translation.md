@@ -3384,6 +3384,108 @@ is described with the explanation निशितधारः परशुः �
 
 **Anuvāda (Kannada).** This sūkta beginning सखायस्त्वा (*sakhāyastvā*) is the ninth sūkta in the first anuvāka. It has nine ṛks. Viśvāmitra is the seer of this sūkta. In the Anukramaṇikā it is said: सखायो नव बार्हतं त्रिष्टुबंतमिति (*sakhāyo nava bārhataṃ triṣṭubaṃtamiti*). The last ṛk of this sūkta is in the Triṣṭubh metre; the remaining eight ṛks are in the Bṛhatī metre. At the recitation of the Prātaranuvāka mantras and of the Āśvina śastra mantras, for the recitation of the ṛks in the Bṛhatī metre, this sūkta's (the Anuvāda breaks off here at the end of p. 118; the application continues on p. 119, together with the sūkta data and Ṛk 1).
 
+### Printed p. 119
+
+*[Running head, p. 119: [Ā. 3. A. 1. V. 5.] Ṛgvedasaṃhitā 119 (as supplied, "ಅ. ೩. ಅ. ೧. ವ. ೫.")]*
+
+*[Continuation of the Anuvāda of Sūkta 9 from the previous page.]*
+
+… has its application (viniyoga), as is made clear by the Āśvalāyana Śrauta-sūtra in the section beginning अथैतस्या (*athaitasyā*) [sic, as supplied], in the sūtra सखायस्त्यामग्निरग्न आ याहि (*sakhāyastyāmagniragna ā yāhi*) (Ā. 4-13).
+
+**Sūkta data (as printed).** Sūkta 9. Maṇḍala 3; Anuvāka 1; Sūkta 9. Aṣṭaka 3; Adhyāya 1; Varga 5, 6. Number of ṛks in the sūkta: 9. Ṛṣi: Viśvāmitra. Devatā: Agni. Chandas: "8, Bṛhatī; 9 Triṣṭubh" (as printed; evidently ṛks 1–8 Bṛhatī, 9 Triṣṭubh, in agreement with the Anukramaṇikā quoted above).
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> सखा॑यस्त्वा ववृमहे दे॒वं मर्ता॑स ऊ॒तये॑ ।
+> अ॒पां नपा॑तं सु॒भगं॑ सु॒दीदि॑तिं सु॒प्रतू॑र्तिमने॒हसं॑ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> सखायः । त्वा । ववृमहे । देवं । मर्तासः । ऊतये ।
+> अपां । नपातं । सुभगं । सुदीदितिं । सुप्रतूर्तिं । अनेहसं ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> विश्वामित्रः सौति । हे आग्ने सखायः सोमाज्यादिहविस्पदानेनोपकारक-
+> त्वान्मित्राणि मर्तसो मनुष्या ऋत्विजो वयमपां नपातमपां नप्तारं सुभगं
+> शोभनधनयुक्तं कुदीदितिं शोभनदीप्तिं सुप्रतूर्तिं शोभनप्रतरणं कर्मानु-
+> ष्ठातृभिः सुखेन गंतव्यमनेहसमुपद्रवरहितमेतादृशं देवं त्वामूतये रक्ष-
+> णाय ववृमहे । वृणीमहे ॥ सखायः । ख्या प्रकथने । समाने ख्यश्चोदात्त इति
+> समान उपपदे डिदित्यनुवृत्तौ ख्यातेरिण् । तस्य डित्वाट्टलोपः । तत्संनियोगेन
+> यलोपः । समानस्य छंदस्यमूर्धोति सभावः । उपपदस्योदात्तत्वं । णिदित्यनु
+> वृत्तौ सख्युरसंबुद्धौ । पा. ७-१-९२ । इति णिद्वद्भावः । वृद्धायादेशौ । अद्यु-
+> दात्तः । ववृमहे । वृज् संभक्तौ । छंदसि लुङ्गिट् इति वर्तमाने लिट् । क्रादि-
+> त्पादिडभावः । निघातः । ऊतये । अव रक्षण इत्यस्य उदात्त इत्यनुवृत्तावूतियूती.
+
+> *viśvāmitraḥ sauti | he āgne sakhāyaḥ somājyādihavispadānenopakāraka-*
+> *tvānmitrāṇi martaso manuṣyā ṛtvijo vayamapāṃ napātamapāṃ naptāraṃ subhagaṃ*
+> *śobhanadhanayuktaṃ kudīditiṃ śobhanadīptiṃ supratūrtiṃ śobhanaprataraṇaṃ karmānu-*
+> *ṣṭhātṛbhiḥ sukhena gaṃtavyamanehasamupadravarahitametādṛśaṃ devaṃ tvāmūtaye rakṣa-*
+> *ṇāya vavṛmahe | vṛṇīmahe ‖ sakhāyaḥ | khyā prakathane | samāne khyaścodātta iti*
+> *samāna upapade ḍidityanuvṛttau khyāteriṇ | tasya ḍitvāṭṭalopaḥ | tatsaṃniyogena*
+> *yalopaḥ | samānasya chaṃdasyamūrdhoti sabhāvaḥ | upapadasyodāttatvaṃ | ṇidityanu*
+> *vṛttau sakhyurasaṃbuddhau | pā. 7-1-92 | iti ṇidvadbhāvaḥ | vṛddhāyādeśau | adyu-*
+> *dāttaḥ | vavṛmahe | vṛj saṃbhaktau | chaṃdasi luṅgiṭ iti vartamāne liṭ | krādi-*
+> *tpādiḍabhāvaḥ | nighātaḥ | ūtaye | ava rakṣaṇa ityasya udātta ityanuvṛttāvūtiyūtī.*
+
+*Gist: O Agni, we priests, your friends through our oblations, choose you, the grandson of the waters, rich, bright, easily approached and free from harm, for protection. (The grammatical tail, on सखायः (*sakhāyaḥ*), ववृमहे (*vavṛmahe*) and ऊतये (*ūtaye*), is transcribed, not explained; it continues on the next page. The bhāṣya reads कुदीदितिं (*kudīditiṃ*) [sic] where the Saṃhitā and Pada have सुदीदितिं (*sudīditiṃ*).)*
+
+### Printed p. 120
+
+*[Running head, p. 120: 120 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.]]*
+
+*[The bhāṣya of Ṛk 1 continues from the previous page (its last words, the grammatical tail, on ऊतये (*ūtaye*), अपां (*apāṃ*), सुभगं (*subhagaṃ*) and सुप्रतूर्तिं (*supratūrtiṃ*), are transcribed, not explained).]*
+
+> त्यादिना क्तिनंतत्वेन निपातनादंतोदात्तः । अपां । ऊडिदमिति विभक्तेरुदात्तत्वं ।
+> सुभगं । आद्युदात्तं द्वैच् छंदसीत्युत्तरपदाद्युदात्तत्वं । सुप्रतूर्तिं । क्रत्वाद-
+> यश्चेत्युत्तरपदाद्युदात्तत्वं ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(हे आग्ने (*he āgne*) — O Agni); सखायः (*sakhāyaḥ*) — friends (by offering oblations such as soma and ghee); मर्तासः (*martāsaḥ*) — we, men in the form of priests; अपां नपतं (*apāṃ napataṃ*) [sic, the Saṃhitā has नपातं (*napātaṃ*)] — the grandson of the waters; सुभगं (*subhagaṃ*) — endowed with excellent wealth; सुदीधितिं (*sudīdhitiṃ*) [sic, the Saṃhitā has सुदीदितिं (*sudīditiṃ*)] — of good brilliance; सुप्रतूर्तिं (*supratūrtiṃ*) — one who gives auspicious gifts (or: easily reached by those who perform the rites); अनेहसं (*anehasaṃ*) — free from harm; देवं त्वां (*devaṃ tvāṃ*) — you, of the nature of a god; ऊतये (*ūtaye*) — for protection; ववृमहे (*vavṛmahe*) — we call.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, grandson of the waters, rich in excellent wealth, of fine radiance, a good giver (easy of access to those who perform the rites), free from harm, of divine nature: we, who are your friends because we offer oblations to you, and who are men in the form of priests, desire protection and call you.
+
+**Printed English translation**
+
+We your mortal friends have recourse for our protection to you the divine, the grandson of the waters, the auspicious, the resplendent, the acces- sible [sic, "acces- sible" for "accessible"], the sinless.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सखायः— सोमाज्यादिहविष्पदानेन उपकारत्वात् मित्राणि (*sakhāyaḥ— somājyādihaviṣpadānena upakāratvāt mitrāṇi*) — for this word Yāska has given the meaning समानख्याना ऋत्विजः (*samānakhyānā ṛtvijaḥ*) (priests of the same utterance). Sāyaṇa explains that because the priests offer to Agni oblations such as soma and ghee, and perform the work of friends (protection), they are friends of Agni.
+
+मर्तासः—मनुष्याः ऋत्विजः (*martāsaḥ—manuṣyāḥ ṛtvijaḥ*) — since the word मर्त (*marta*) is stated among the names of men (Ni. 3-8), he gives the meaning मनुष्याः ऋत्विजः वयं (*manuṣyāḥ ṛtvijaḥ vayaṃ*), "we priests who are men".
+
+अपांनपातं-अपां नप्तारं (*apāṃnapātaṃ-apāṃ naptāraṃ*) — the meaning is "grandson of the waters". Yāska explains this with अपान्न पात् तनूनप्ता, व्याख्यातः (*apānna pāt tanūnaptā, vyākhyātaḥ*) (the text has याग्तरु (*yāgtaru*) [sic] for "Yāska"), and
+
+### Printed p. 121
+
+*[Running head, p. 121: [8. A. 1. V. 5] Ṛgvedasaṃhitā 121 (as supplied, "೮. ಅ. ೧. ವ. ೫"; the first numeral does not agree with the Maṇḍala number 3 of the other running heads, left as supplied)]*
+
+*[Special Topics of Ṛk 1 continued from the previous page.]*
+
+… having explained it so, he cites the Ṛk (the text has मक्कळन्नु (*makkaḷannu*) [sic], evidently for "Ṛk"):
+
+यो अनिध्मो दीदयदप्स्व १ स्तर्यं विप्रास ईळते अध्वरेषु । अपां नपान्मधुमतीरपो दा याभिरिंद्रो वावृथे वीर्याय ॥ (*yo anidhmo dīdayadapsva 1 staryaṃ viprāsa īḷate adhvareṣu | apāṃ napānmadhumatīrapo dā yābhiriṃdro vāvṛthe vīryāya ‖*) [?] (Pu. Saṃ. 10-30-4, as printed; a stray digit १ (*1*) stands inside the quoted word अप्स्व १ स्तर्यं (*apsva 1 staryaṃ*) in the supplied text, left as supplied)
+
+and, citing this ṛk (the text again has मक्कळन्नु (*makkaḷannu*) [sic]):
+
+तनूनपात् पथ ऋतस्य यानान्मध्वा समंजन्त स्वधया सुजिह्व । मन्मानि धीभिरुत यज्ञमृंधन् देवत्रा च कृणुह्यध्वरं नः ॥ (*tanūnapāt patha ṛtasya yānānmadhvā samaṃjanta svadhayā sujihva | manmāni dhībhiruta yajñamṛṃdhan devatrā ca kṛṇuhyadhvaraṃ naḥ ‖*) (Ma. Saṃ. 10-110-2, as printed)
+
+For the word तनूनपात् (*tanūnapāt*) in this ṛk Yāska states the opinions of two authorities: तनूनपादाज्यमिति कात्क्यः अग्निरितिशाकपूणिः (*tanūnapādājyamiti kātkyaḥ agniritiśākapūṇiḥ*), "Kātkya says ghee, Śākapūṇi says Agni". Then, गौरत्र तनुरुच्यते, नपादित्यनंतरायाः प्रजाया नामधेयं (*gauratra tanurucyate, napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ*): here तनु (*tanu*) is said to be the cow (गौः (*gauḥ*)), and नपात् (*napāt*) is a name for a descendant not immediately next. He points out the awkwardness of Kātkya's view, which gives the word तनूनपात् (*tanūnapāt*) the meaning "ghee" on the ground that ghee is produced from the cow through the milk (the text has वयस्सिन मूलक (*vayassina mūlaka*), "through age", which seems out of place; left as supplied). Then he explains: आपोऽत्र तन्न उच्यंते, तता अंतरिक्षे ताभ्य ओषधिवनस्पतयो जायंते ओषधिवनस्पतिभ्यः एष जायते (*āpo 'tra tanna ucyaṃte, tatā aṃtarikṣe tābhya oṣadhivanaspatayo jāyaṃte oṣadhivanaspatibhyaḥ eṣa jāyate*) (the text has तन्न (*tanna*) and तता (*tatā*) [sic]). Durgācārya, on नपात् इति अनन्तरायाः प्रजायाः नामधेयं (*napāt iti anantarāyāḥ prajāyāḥ nāmadheyaṃ*), says: one produced from the father is the son; one produced from the son is next in order (anantara) and is lower than the son. Hence, on the view of those who take the word तनु (*tanu*) as "cow", the view of Kātkya that ghee and the like come from the cow and Agni from ghee and the like is not acceptable to Yāska. He describes, further, the view of Śākapūṇi: since the waters are the meaning of the word अप् (*ap*), the waters are spread in the atmosphere; from these waters come the plants and trees, and from these Agni; therefore Agni is designated both by the word तनूनपात् (*tanūnapāt*) and by the word अपान्न पात् (*apānna pāt*). From this the meaning is that Agni is the grandson of the waters (the text has नॊम्मगनु (*nòmmaganu*) [sic] for "grandson").
+
+सुप्रतूर्तिं (*supratūrtiṃ*) — because Agni is worthy of being easily worshipped by those who perform sacrifices and other rites, it is explained that he is सुप्रतरण (*suprataraṇa*), the remover of the troubles of the sacrificers.
+
+सुभगं अनेहसं सुदीदितिं देवं ऊतये ववृमहे—शोभनधनयुक्तं शोभनदीप्तिं, उपद्रवरहितं रक्षणाय वृणीमहे (*subhagaṃ anehasaṃ sudīditiṃ devaṃ ūtaye vavṛmahe—śobhanadhanayuktaṃ śobhanadīptiṃ, upadravarahitaṃ rakṣaṇāya vṛṇīmahe*) — it is explained: Agni, the god, who has excellent wealth and gives it to the sacrificers, who shines with auspicious brilliance, who is free from every trouble, to protect us, we priests choose (the text has वंसिसुत्तेवॆ (*vaṃsisuttevè*) [sic], for "we choose").
+
+**Vyākaraṇa-prakriyā**
+
+Grammar page, noted briefly. सखायः (*sakhāyaḥ*): root ख्या प्रकथने (*khyā prakathane*); by समाने ख्यश्चोदात्तः (*samāne khyaścodāttaḥ*) (Uṇ. Sū. 4-576, as printed) the affix इण् (*iṇ*) for this root when समान (*samāna*) stands as upapada; the affix being डित् (*ḍit*), the account goes on: "by the preceding …" (the page breaks off here; continued on the next page). (A stray "16" ends this page in the supplied text; left as supplied.)
+
 ---
 
-**Progress note:** Done through printed p. 118 (PDF 118). pp. 115-118: Sukta 8 Rk 10 Special Topics finished (Nirukta on prtanajya) and grammar notes (pp. 115-116) written; Rk 11 (last of Sukta 8) fully written: Samhita, Pada, bhasya (pp. 116-117), Pratipadartha, Bhavartha, printed English, Special Topics (pp. 117-118) and grammar (p. 118); Sukta 9 begins on p. 118: heading, Sayana introduction (block) and Anuvada, which break off mid-sentence at the end of p. 118; sukta data and Rk 1 begin on p. 119. Sukta 8 Rk 11 grammar done; no grammar pending
+**Progress note:** Done through printed p. 121 (PDF 121). Done through printed p. 121 (PDF 121). Sukta 9 (Mandala 3): data and Rk 1 written (Samhita, Pada, bhasya pp. 119-120, Pratipadartha, Bhavartha, printed English, Special Topics pp. 120-121 on sakhayah/martasah/apam napatam/suprataurtim); the Vyakarana-prakriya (grammar) of Rk 1 has begun on p. 121 and breaks off mid-sentence at the end of p. 121 (sakhayah: affix in), continuing on p. 122; Rk 2 next. One [?] (stray digit in Special Topics quotation).
