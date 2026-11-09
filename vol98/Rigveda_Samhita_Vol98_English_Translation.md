@@ -2233,6 +2233,140 @@ The seer Agastya has shown his skill of composition well in this sūkta. The ext
 
 Or, although Prajāpati created Heaven and Earth together, that is, at one time, they are for other reasons separate and distinct, and the rain which is very necessary for the world (the sentence is cut off at the end of the window).
 
+### Printed p. 77
+
+*Running head: [Ā. ೨. Ā ೩. Va. ೨.] Ṛgveda-saṃhitā 77 (as supplied). The window begins inside the Special Topics of Ṛk 5, continuing the second explanation of *saṃgacchamāne* from p. 76.*
+
+… not producing (the rain), at the prayer of men the gods performed the marriage of these Heaven and Earth and made them one: this other sense Sāyaṇa has given. On the point that Heaven and Earth were together, Sāyaṇa has cited
+
+द्यावापृथिवी सहास्त्रां । ते वियती अब्रूतां ॥ (*dyāvāpṛthivī sahāstrāṃ | te viyatī abrūtāṃ ‖*)
+
+(Tai. Brā. 1-1-3 2 [as printed "ತ್ರೈ. ಬ್ರಾ,"])
+
+the sentence of the Taittirīya Brāhmaṇa. On the point that Prajāpati created Heaven and Earth,
+
+प्रजापतिरकामयत प्रजायेय भूयान्या मिति सतपोऽतप्यत स तपस्त- (*prajāpatirakāmayata prajāyeya bhūyānyā miti satapo 'tapyata sa tapasta-*)
+स्वेमाल्लोकानसृजत पृथिवीमंतरिक्षं दिवं। (*svemāllokānasṛjata pṛthivīmaṃtarikṣaṃ divaṃ|*)
+
+(Ai. Brā. 25-7 [as printed "ಇ ಬ್ರಾ."])
+
+there is this sentence of the Aitareya Brāhmaṇa. Prajāpati (Brahman), desiring to create, performed austerity. Afterwards, by the greatness of that austerity, he created these worlds, that is, the worlds called earth, atmosphere and heaven: such is the purport of this mantra. This matter is stated in the Ṛgveda Saṃhitā itself:
+
+सूर्याचंद्रमसौ धाता यथापूर्वमकल्पयत् । (*sūryācaṃdramasau dhātā yathāpūrvamakalpayat |*)
+दिवं च पृथिवीं चांतरिक्षमथो स्वः ॥ (*divaṃ ca pṛthivīṃ cāṃtarikṣamatho svaḥ ‖*)
+
+(Ṛ. Saṃ. [printed ಪು ಸಂ.] 10-190-3)
+
+In this ṛk it is said that Brahman, the creator, when creating, created the sun and the moon and the worlds called heaven, earth and atmosphere. Moreover,
+
+जनिता दिवो जनिता पृथिव्याः पिबा सोमं मदाय कं शतक्रतो । (*janitā divo janitā pṛthivyāḥ pibā somaṃ madāya kaṃ śatakrato |*)
+
+(Ṛ. Saṃ. 8-36-4)
+
+यन्मातरं च पितरं च साकमजनयथास्तन्वगः स्वायाः । (*yanmātaraṃ ca pitaraṃ ca sākamajanayathāstanvagaḥ svāyāḥ |*)
+
+(Ṛ. Saṃ. 10-54-3)
+
+in such ṛks it is said that Indra himself created Heaven and Earth. But since in many contexts the identity of Indra and Prajāpati is stated, there is no contradiction in this. And,
+
+सोमापूषणा जनना रयीणां जनना दिवो जनना पृथिव्याः । (*somāpūṣaṇā jananā rayīṇāṃ jananā divo jananā pṛthivyāḥ |*)
+जात् विश्वस्य भुवनस्य गोप् देवा अकृण्वन्नमृतस्य नाभिं । (*jāt viśvasya bhuvanasya gop devā akṛṇvannamṛtasya nābhiṃ |*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 2-40-1)
+
+in this ṛk it is said that the deities Soma and Pūṣan produced Heaven and Earth.
+
+### Printed p. 78
+
+*Running head: [78 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1 Ā. 24 Sū. 185] (the print has "ಆ." for "ಅ.", as supplied).*
+
+स वां यज्ञेषु मानवी इंदुर्जनिष्ट रोदसी । (*sa vāṃ yajñeṣu mānavī iṃdurjaniṣṭa rodasī |*)
+
+(Ṛ. Saṃ. 9-98-9)
+
+प्र हिन्वानो जनिता रोदस्यो रथो न वाजं सनिष्यन्नयासीत् । (*pra hinvāno janitā rodasyo ratho na vājaṃ saniṣyannayāsīt |*)
+
+(Ṛ. Saṃ. 9-90-1)
+
+सोमः पवते जनिता मतीनां जनिता दिवो जनिता पृथिव्याः । (*somaḥ pavate janitā matīnāṃ janitā divo janitā pṛthivyāḥ |*)
+
+(Ṛ. Saṃ. 9-96-5)
+
+in such ṛks it is said that the Soma deity created Heaven and Earth.
+
+नाभ्या आसीदंतरिक्षं शिष्णोर्दौः समवर्तत । (*nābhyā āsīdaṃtarikṣaṃ śiṣṇordauḥ samavartata |*)
+पद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोका अकल्पयन् ॥ (*padbhyāṃ bhūmirdiśaḥ śrotrāttathā lokā akalpayan ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 10-90-14)
+
+In this ṛk it is said that from the navel region of the Supreme Person the atmospheric world arose, from his head the heavenly world, and from his feet the earthly world. Some seers, astonished at Heaven and Earth, have indicated doubt: who made them, how did they make them, from what substance did they make them?
+
+किं स्विध्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्कृतक्षुः । (*kiṃ svidhvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣkṛtakṣuḥ |*)
+
+(Ṛ. Saṃ. 10-31-7)
+
+In this ṛk the seer named Kavaṣa Ailūṣa, and in
+
+किं स्विध्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्कृतक्षुः । (*kiṃ svidhvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣkṛtakṣuḥ |*)
+
+(Ṛ. Saṃ. 10-81-4)
+
+this ṛk the seer named Viśvakarman Bhauvana, indicate doubt and wonder: "From which forest, from which tree, did they fashion Heaven and Earth?" In answer to this question, in the ṛks 2 and 3 of the same sūkta,
+
+किं स्विदासीदधिष्ठानमारंभणं कतमत्स्वित् किमासीत् । (*kiṃ svidāsīdadhiṣṭhānamāraṃbhaṇaṃ katamatsvit kimāsīt |*)
+यतो भूमिं जनयन् विश्वकर्मा विद्यामौर्णोन्महिना विश्वचक्षाः । (*yato bhūmiṃ janayan viśvakarmā vidyāmaurṇonmahinā viśvacakṣāḥ |*)
+विश्वतश्च क्षुरुत विश्वतो मुखो विश्वतो बाहुरुत विश्वतस्सात् । (*viśvataśca kṣuruta viśvato mukho viśvato bāhuruta viśvatassāt |*)
+सं बाहुभ्यां धमति सं पतत्रैर्द्यावाभूमी जनयन् देव एकः ॥ (*saṃ bāhubhyāṃ dhamati saṃ patatrairdyāvābhūmī janayan deva ekaḥ ‖*)
+
+(Ṛ. Saṃ. 10-81-2, 3)
+
+"What was there before creation? What was the nature of the thing that was there at the beginning? From what thing did the Supreme Brahman named Viśvakarman create Heaven and Earth by his greatness?"
+
+### Printed p. 79
+
+*Running head: [Ā ೨ Ā. ೫. Va. ೨] Ṛgveda-saṃhitā 79 (as supplied).*
+
+asking himself thus, the seer states the answer there too: "The one god (the Supreme Self named Viśvakarman), who has eyes everywhere, that is, the power to see everything everywhere at all times, and who has faces, arms and feet in all directions, that is, who is all-powerful, created these Heaven and Earth." On the marriage of Heaven and Earth, the Aitareya Brāhmaṇa says thus:
+
+इमे वै लोकौ सहास्तां तौ व्येतां नावर्षन्न समतपत्ते पंचजना न (*ime vai lokau sahāstāṃ tau vyetāṃ nāvarṣanna samatapatte paṃcajanā na*)
+समजानत तौ देवाः समनयंस्तौ संयंतावेतं देवविवाहं व्यवहेतां ॥ (*samajānata tau devāḥ samanayaṃstau saṃyaṃtāvetaṃ devavivāhaṃ vyavahetāṃ ‖*)
+
+(Ai. Brā. 19-5 [the print has "ಐ. ಬ್ರಾ"])
+
+That is: formerly these worlds, Heaven and Earth, were together in one place; for some reason they became separate. Then the rain stopped, and there was no sunshine either; the "five peoples", that is, those of the Brāhmaṇa and the other classes and all beings, were distressed. They had no happiness. Then the gods, for the welfare of the world, performed a marriage for these Heaven and Earth in accordance with the divine rule, united them and brought happiness to the world: so it is said. This same matter Sāyaṇa has told in his bhāṣya.
+
+युवती—युवकरु, (*yuvatī—yuvakaru,*) — "youths, the young". Ordinarily it is the custom of the seers to describe all the gods as young, that is, not subject to the changes of old age, always powerful and beautiful. Especially in regard to Agni, Indra, Uṣas, the Aśvin deities, Heaven and Earth and other deities this epithet is used most. In
+
+अग्निनाग्निः समिध्यते कविर्गृहपतिर्युवा । (*agnināgniḥ samidhyate kavirgṛhapatiryuvā |*)
+
+(Ṛ. Saṃ. 1-12-6)
+
+this word is used of Agni; in
+
+पुरां भिंदुर्युवा कविरमितौजा अजायतॆ । (*purāṃ bhiṃduryuvā kaviramitaujā ajāyatè |*)
+
+(Ṛ. Saṃ. 1-11-4)
+
+it is used of Indra; in
+
+युवं तुग्राय पूर्वभिरेवैः पुनर्मन्यानभवतं यवाना । (*yuvaṃ tugrāya pūrvabhirevaiḥ punarmanyānabhavataṃ yavānā |*)
+
+(Ṛ. Saṃ. 1-117-14)
+
+of the Aśvin deities; in
+
+आ नो जने श्रवयतं युवाना श्रुतं मे मित्रावरुणा हवेमा । (*ā no jane śravayataṃ yuvānā śrutaṃ me mitrāvaruṇā havemā |*)
+
+(Ṛ. Saṃ. 7-62-5)
+
+and such ṛks of Mitra and Varuṇa; and in
+
+एषा दिवो दुहिता प्रत्यदर्शि व्युच्छंती युवतिः शुक्रवासाः । (*eṣā divo duhitā pratyadarśi vyucchaṃtī yuvatiḥ śukravāsāḥ |*)
+
+(Ṛ. Saṃ. 1-113-7)
+
+and such ṛks of the Uṣas deity (the sentence continues; the window ends here).
+
 ---
 
-**Progress note:** Done through printed p. 76 (PDF 76). Rik 4 Special Topics end, grammar page; Rik 5 (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English) and start of its Special Topics (continues on next page)
+**Progress note:** Done through printed p. 79 (PDF 79). Rik 5 Special Topics: saṃgacchamāne, creation of heaven and earth in Brahmana and Rik quotations, marriage of heaven and earth, yuvatī (continues on next page)
