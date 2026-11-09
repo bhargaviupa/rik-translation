@@ -7697,6 +7697,115 @@ In this mantra there are the epithets अचिष्टुं (*aciṣṭuṃ*)
 
 अपाकं (*apākaṃ*) — अबालं, प्राज्ञं (*abālaṃ, prājñaṃ*): not a child, wise (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 263
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 9] Ṛgveda-saṃhitā 263 (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 9 of Sūkta 188, on the epithets of Tvaṣṭṛ in the Praiṣa mantra.)*
+
+रेतोधां (*retodhāṃ*) — पुत्रादिबीजस्य यजमाने धारयितारं (*putrādibījasya yajamāne dhārayitāraṃ*): one who sows the seed of sons and the like in the sacrificer;
+
+विश्रवसं (*viśravasaṃ*) — विविधकीर्तियुक्तं (*vividhakīrtiyuktaṃ*): endowed with many kinds of fame;
+
+यशोधां (*yaśodhāṃ*) — यजमाने यशसः धारयितारं (*yajamāne yaśasaḥ dhārayitāraṃ*): one who makes the sacrificer a sharer in glory;
+
+पुरुरूपं (*pururūpaṃ*) — बहुरूपं (*bahurūpaṃ*): of many forms;
+
+अकामकर्शनं (*akāmakarśanaṃ*) — कामानां अनाशयितारं (*kāmānāṃ anāśayitāraṃ*): one who makes the sacrificer's wishes fruitful: so it is explained.
+
+These epithets show the individual nature of Tvaṣṭṛ. In showing the derivation of the word *tvaṣṭṛ* (८-१४ (*8-14*)) the Nirukta-authors say त्वष्या तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्वीप्तिकमणस्त्वक्षतीर्वा स्यात् करोटिकर्मणः (*tvaṣyā tūrṇamaśnuta iti nairuktāḥ | tviṣervā syādvīptikamaṇastvakṣatīrvā syāt karoṭikarmaṇaḥ*) (the print has these forms): this name is, in the view of the Nirukta-authors, because he pervades quickly; or it may be formed from the root *tviṣ*, "to shine", or from the root *takṣ*, in the sense of a doer. From these derivations Tvaṣṭṛ is understood to be one who pervades quickly, one who shines, and a maker. To show to which world this deity belongs, they give माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । अग्निरिति शाकपूणिः (*mādhyamikastvaṣṭetyāhurmadhyame ca sthāne samāmnātaḥ | agniriti śākapūṇiḥ*): some say he belongs to the group of atmospheric deities, and Śākapūṇi says he is Agni. The Bṛhaddevatā, approving the first view:
+
+त्वष्टा रूपविकर्ता च योऽसौ माध्यमिके गणे । (*tvaṣṭā rūpavikartā ca yo 'sau mādhyamike gaṇe |*)
+स्तुतः स च निपातेन सूक्तं स्य तन विद्यते । (*stutaḥ sa ca nipātena sūktaṃ sya tana vidyate |*)
+(बृ. पे. ३-२५) (*(bṛ. pe. 3-25)*)
+
+says in this verse that he belongs to the group of the middle-world deities. Before this:
+
+त्वष्टा तु यस्त्वयमेव पार्थिवोऽग्निरिति स्तुतिः । (*tvaṣṭā tu yastvayameva pārthivo 'gniriti stutiḥ |*)
+पार्थिवस्यास्य वर्चः स्युः कस्याप्यक् चार्तवेषु च ॥ (*pārthivasyāsya varcaḥ syuḥ kasyāpyak cārtaveṣu ca ‖*)
+त्वषितस्त्वक्षतेर्वा स्यात् तूर्णमश्नुत एव ना । (*tvaṣitastvakṣatervā syāt tūrṇamaśnuta eva nā |*)
+कर्मसूत्तारणो वेति तेन नामैतदश्नुते ॥ (*karmasūttāraṇo veti tena nāmaitadaśnute ‖*)
+यः सहस्रतमो रश्मी रवेश्चंद्रमुपाश्रितः । (*yaḥ sahasratamo raśmī raveścaṃdramupāśritaḥ |*)
+सोऽपि त्वष्टारमेवाग्निं परं चेह च यन्मधु ॥ (*so 'pi tvaṣṭāramevāgniṃ paraṃ ceha ca yanmadhu ‖*)
+(बृ. दे. ३-१५ रिंद १७) (*(bṛ. de. 3-15 riṃda 17)*)
+
+there is, in some places, an indication that the praise which is for the terrestrial Agni is the same praise addressed to Tvaṣṭṛ, a deity belonging to the earth. In the sūktas of the seasons too he is described as a portion of Agni.
+
+### Printed p. 264
+
+*Running head: [264 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+Thus afterwards the derivation of the word *tvaṣṭṛ* found in the Nirukta is stated. It is also described that the thousandfold ray of the sun, pervaded by the moon, pervades honey, the other world and the earth, and likewise exists in Tvaṣṭṛ. Mainly the authors of the Bṛhaddevatā approve in this matter the view of Śākapūṇi stated in the Nirukta. In the Nighaṇṭu Tvaṣṭṛ is placed first with the Āprī deities (५-२ (*5-2*)), then with the atmospheric deities (५-५ (*5-5*)), and first with the deities of heaven (५-६ (*5-6*)). The story of Tvaṣṭṛ and the sage Dadhīci has been told in the special topics of sūkta १-१३९ (*1-139*). In the Aitareya-brāhmaṇa:
+
+त्वष्टारं यजति वाग्वै त्वष्टा वाग्भेदं सर्वं । त्वाष्ट्रीं वाचमेव तत्प्री- (*tvaṣṭāraṃ yajati vāgvai tvaṣṭā vāgbhedaṃ sarvaṃ | tvāṣṭrīṃ vācameva tatprī-*)
+णाति वाचं यजमाने दधाति । (*ṇāti vācaṃ yajamāne dadhāti |*)
+(इ. ब्रा. २-४) (*(i. brā. 2-4)*)
+
+by this sentence identity between Tvaṣṭṛ and speech is stated, which is also one view.
+
+य इमे द्रावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । (*ya ime drāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā |*)
+तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् । (*tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān |*)
+(ऋ. सं. १०-११०-९) (*(ṛ. saṃ. 10-110-9)*)
+
+In this ṛk it is praised that this deity has a divine birth and that therefore even in the times of creation he shows his antiquity; the view is that Tvaṣṭṛ is most ancient:
+
+इह त्वष्टारमग्रियं विश्वरूपमुपह्वये । अस्माकमस्तु केवलः ॥ (*iha tvaṣṭāramagriyaṃ viśvarūpamupahvaye | asmākamastu kevalaḥ ‖*)
+(ऋ. सं. १-१३-१०) (*(ṛ. saṃ. 1-13-10)*)
+
+त्वष्टारमग्रजां गोपां पुरोयावानमा हुवे । (*tvaṣṭāramagrajāṃ gopāṃ puroyāvānamā huve |*)
+इंदुरिंद्रो वृषा हरिः पवमानः प्रजापतिः ॥ (*iṃduriṃdro vṛṣā hariḥ pavamānaḥ prajāpatiḥ ‖*)
+(म. सं. ९-५-९) (*(ma. saṃ. 9-5-9)*)
+
+in these and other ṛks this is known from the epithets *agriya* and *agraja*.
+
+त्वष्टा रूपाणि हि प्रभुः पशून्विश्वान्स्मानजे । तेषां नः स्नातिमा यज । (*tvaṣṭā rūpāṇi hi prabhuḥ paśūnviśvānsmānaje | teṣāṃ naḥ snātimā yaja |*)
+(ऋ. सं. १-१८८-९) (*(ṛ. saṃ. 1-188-9)*)
+
+तृष्णा [?] रूपाणि विकरोति । (*tṛṣṇā [?] rūpāṇi vikaroti |*)
+(तै. सं. १-५-९-२) (*(tai. saṃ. 1-5-9-2)*)
+
+These and other sentences praise Tvaṣṭṛ's work of making. Moreover he has the epithet *viśvarūpa* (ऋ. सं. १-१३-१० (*ṛ. saṃ. 1-13-10*)).
+
+### Printed p. 265
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 9] Ṛgveda-saṃhitā 265 (as supplied).*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 9, noted briefly)
+
+समानजे (*samānaje*): preverb सम् (*sam*), root अंजू व्यक्तिम्रक्षकांतिगतिष्टु (*aṃjū vyaktimrakṣakāṃtigatiṣṭu*); in the Vedic manner *liṭ*; by लिटस्तझयोरेशिरेज् (*liṭastajhayoreśirej*) (पा. सू. ३-४-८१ (*pā. sū. 3-4-81*)) the substitute *eś* for the ending *ta*; because the suffix is treated as marked *k*, the nasal is dropped; when reduplications come on that basis, by तस्मान्नुट्- द्विहलः (*tasmānnuṭ- dvihalaḥ*) (पा. सू ७-४-७१ (*pā. sū 7-4-71*)) the augment *nuṭ*; by हिच (*hica*) (पा. सू. ८-१-३४ (*pā. sū. 8-1-34*)) the *nighāta* accent is prohibited, so by the suffix accent the last syllable is acute; by तिजिचोदात्तवति (*tijicodāttavati*) (पा. सू. ८-१-७१ (*pā. sū. 8-1-71*)) *sam* is unaccented. स्फातिम् (*sphātim*): root स्थायी वृद्धौ (*sthāyī vṛddhau*) (as printed); by क्तिच्‌क्तौच— (*kticktauca—*) (पा. सू. ३-३-१७४ (*pā. sū. 3-3-174*)) the suffix *ktic*; by लोपोव्यो— (*lopovyo—*) the dropping of *y*; being marked *c*, the last syllable is acute. यज (*yaja*): root यज देवपूजादिषु (*yaja devapūjādiṣu*); *loṭ*, second person singular; the verb-*nighāta* accent.
+
+*[Stray/garbled line of the supplied text where the Saṃhitā label belongs: 108 गानगळु (*108 gānagaḷu*); standard label inserted.]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> उप॒ त्मन्या॑ वनस्पते॒ पाथो॑ दे॒वेभ्यः॑ सृज ।
+> अ॒ग्निर्ह॒व्यानि॑ सिष्पदत् ॥ १० ॥
+
+> *upa tmanyā vanaspate pātho devebhyaḥ sṛja |*
+> *agnirhavyāni siṣpadat ‖ 10 ‖*
+
+*[The Pada has त्र्यन्या [?] (*tryanyā [?]*) against the Saṃhitā's *tmanyā*, and its closing numeral is printed ೧೧ where ೧೦ is expected, as printed.]*
+
+**॥ पदपाठः ॥**
+
+> उप । त्र्यन्या [?] । वनस्पते । पाथः । देवेभ्यः । सृज ।
+> अग्निः । हव्यानि । सिस्वदत् ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वनस्पते यूपाभिमानि देव त्मन्यात्मनैव देवेभ्योऽग्न्यादिभ्यः पाथः
+> पशुरूपमन्नमुप सृज । उत्पादय । यूपाभावे पशुनियोजनाभावेन हविषोऽ-
+> भावात् । त्वय्येवं कृतवति सत्यग्निर्हव्यानि हवींषि सिस्पदत् । स्वदयतु । स्वादू-
+> करोतु ॥
+
+*Gist:* O Vanaspati, deity of the sacrificial post, of your own accord produce the animal-food for Agni and the other gods; then Agni will make the oblations sweet, since without the post there is no animal and no oblation.
+
+**Pratipadārtha** (the supplied text breaks off here, at the end of the window)
+
+वनस्पते—ऎलै यूपाभिमानिदेवतॆये (*vanaspate—èlai yūpābhimānidevatèye*) (O deity of the sacrificial post). त्मन्या—निन्न स्वरूपदिंदले (*tmanyā—ninna svarūpadiṃdale*) (by your own self). देवेभ्यः— अग्न्यादिदेवतॆगळिगॆ (*devebhyaḥ— agnyādidevatègaḷigè*) (for the gods, Agni and the rest). पाथः—पशुरूपवाद अन्नवन्नु (*pāthaḥ—paśurūpavāda annavannu*) (food in the form of an animal). उप सृज—सृष्टिमाडु (आनंतर) (*upa sṛja—sṛṣṭimāḍu (ānaṃtara)*) (create; then). अग्निः—अग्नियु (*agniḥ—agniyu*) (Agni). हव्यानि—हविस्सुगळन्नु (*havyāni—havissugaḷannu*) (the oblations). सिस्वदत्—आस्वादिसलि (*sisvadat—āsvādisali*) (let him taste).
+
 ---
 
-**Progress note:** Done through printed p. 262 (PDF 262). Done through printed p. 262 (Sukta 188 Rik 8 complete; Rik 9 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Special Topics on tvashta begun, breaks off at apakam); [?] on krishna/trishna for tvashta
+**Progress note:** Done through printed p. 265 (PDF 265). Done through printed p. 265 (Sukta 188 Rik 9 complete; Rik 10 Samhita, Pada, bhashya done; Pratipadartha begun, breaks off after sisvadat); [?] on tryanya, trishna
