@@ -5610,6 +5610,99 @@ and other ṛks that the word *rajāṃsi* has the sense "worlds". In the presen
 
 *Gist:* O Pito, men who seek you become your eaters and givers by your favour; the eaters of your flavours go out like men with swelling necks, since fasting makes the neck hang down.
 
+### Printed p. 197
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 6] Ṛgveda-saṃhitā 197 (as supplied).*
+
+**Pratipadārtha** (Ṛk 5)
+
+स्वादिष्ट—अत्यंत स्वादुकरनाद (*svādiṣṭa—atyaṃta svādukaranāda*) (most sweet). पितो—पालकनाद अन्नवे,  (*pito—pālakanāda annave, *)(protecting food). त्ये—निन्नन्नु अन्वेषण माडतक्क नररु (*tye—ninnannu anveṣaṇa māḍatakka nararu*) (the men who seek you). तव—निन्नन्नु सेविसि सुखपडुत्तारॆ. (*tava—ninnannu sevisi sukhapaḍuttārè.*) (they enjoy by partaking of you). पितो—रक्षकनाद अन्नवे (*pito—rakṣakanāda annave*) (O protecting food). तव--निन्न अनुग्रहदिंद (*tava--ninna anugrahadiṃda*) (by your favour). ते—अवरु (यज्ञकर्तरु) (*te—avaru (yajñakartaru)*) (they, the sacrificers). ददतः—निन्नन्नु (इतररिगू) हंचुत्तारॆ (*dadataḥ—ninnannu (itararigū) haṃcuttārè*) (they distribute you, to others also). रसानां- निन्न षड्रसगळ (*rasānāṃ- ninna ṣaḍrasagaḷa*) (of your six flavours). स्वाद्मानः—भोक्तृगळु (निन्न रसास्वादनॆयन्नु माडि सुखपडतक्कवरु ) (*svādmānaḥ—bhoktṛgaḷu (ninna rasāsvādanèyannu māḍi sukhapaḍatakkavaru )*) (enjoyers, those who are happy relishing your flavours). तुविग्रीवा इव—वृद्धियन्नु हॊंदि पुष्टवाद कत्तुळ्ळवरंतॆ (*tuvigrīvā iva—vṛddhiyannu hòṃdi puṣṭavāda kattuḷḷavaraṃtè*) (like those grown and with stout necks). प्र ईरते—आनंदवन्नु व्यक्तपडि सुत्ता संचरिसुत्तारॆ (*pra īrate—ānaṃdavannu vyaktapaḍi suttā saṃcarisuttārè*) (they move about expressing joy).
+
+**भावार्थ (Bhāvārtha)**
+
+O most sweet, protecting food: the sacrificers who partake of you find happiness in you, and not only that, they share that happiness with others. All who relish your six flavours and enjoy happiness, grown and with stout necks as it were, move about expressing joy.
+
+**Printed English translation**
+
+Those (men), Pitu, (are the enjoyers of your bounty), who are your distributors, most sweet Pitu, (to others): they who are relishers, of your flavours, are as if they had stiff necks.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*[In the Special Topics of this Ṛk the supplied text has तै [?] (*tai [?]*) (apparently *te*) in the line on *svādmānaḥ rasānām*; marked [?].]*
+
+त्ये—ते (*tye—te*) — we explained the sense of this word under the previous ṛk. Here *te* means men (or animals?) who desire food and partake of it; this is the intended sense.
+
+तव (*tava*) — since the word *tava* is read twice in this ṛk, according to the Nirukta-authors' statement अभ्यासे हि भूयांसमर्थं मन्यंते (*abhyāse hi bhūyāṃsamarthaṃ manyaṃte*) ("in repetition they take the sense to be greater"), the repetition indicates respect and affection for food.
+
+ददतः तव (*dadataḥ tava*) — those who give (you) food to others, by your favour, who make gifts; and
+
+स्वाद्मानः रसानां (*svādmānaḥ rasānāṃ*) — those who relish the many kinds of flavours in food, or who eat food of this kind: both are qualifiers of the word तै [?] (नराः) (*tai [?] (narāḥ)*), "men". The main sense is: men who eat food endowed with the six flavours themselves and also give it to others (become strong).
+
+### Printed p. 198
+
+*Running head: [198 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 187] (as supplied).*
+
+तुविग्रीवा इव (*tuvigrīvā iva*) — तुवि (*tuvi*) means "much" (नि ३-१३ (*ni 3-13*)); ग्रीव (*grīva*) means neck, throat. Sāyaṇa has given this word *tuvigrīvā* two kinds of meaning. One: प्रवृद्धग्रीवाः (*pravṛddhagrīvāḥ*), "those with well-grown, stout and firm necks". Having stout necks means being firm-limbed. It is well known in the world that by taking good food not the neck alone but the whole body grows strong. Although only the word *grīva*, "neck", is used here, it indicates the other limbs of the body or the whole body; therefore *tuvigrīvā iva* is explained as "moving about firm-limbed". The bhāṣyakāra has explained that the word *iva* here has the sense of *eva*, or that it has no definite sense and is used only to fill the pāda. And explaining the second meaning of the word *tuvigrīvā iva* he says:
+
+तव रसानामत्तारोऽसंख्यातग्रीवा इव भवंति रसानां बाहुल्यादिति भावः । अन्नद (*tava rasānāmattāro 'saṃkhyātagrīvā iva bhavaṃti rasānāṃ bāhulyāditi bhāvaḥ | annada*)
+
+The one who eats food of many kinds of flavours is like one eating with many throats (mouths), that is, becomes a great eater: this is the other kind of meaning given. In this matter the English scholar Wilson explains Sāyaṇa's view in this way:
+
+तुविग्रीवा इवेरते (*tuvigrīvā iverate*)—तुवि (*tuvi*) is ordinarily, a synonyme of बहु (*bahu*) much, many ; Sayana explains it by प्रवृद्ध (*pravṛddha*), enlarged; because, he says, when people eat, they are दृढांग (*dṛḍhāṃga*), firm ; and when they are without food, the neck is bent, bends down ; or it may mean that they are great eaters, as if they had many throats.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 5, noted briefly)
+
+ददतः (*dadataḥ*) (root डुदाञ् दाने (*ḍudāñ dāne*)): the participle substituted for *laṭ*, *śluvikaraṇa*, reduplication of the root; by श्नाभ्यस्तयोरातः (*śnābhyastayorātaḥ*) (पा. सू. ६-४-११२ (*pā. sū. 6-4-112*)) the *ā* of the root is dropped; in the nominative plural by नाभ्यस्ताच्छतुः (*nābhyastācchatuḥ*) the augment *num* does not occur; by अभ्यस्तानामादि: (*abhyastānāmādi:*) (पा. सू. ६-१-१८९ (*pā. sū. 6-1-189*)) the first syllable is acute. स्वादिष्ट (*svādiṣṭa*): by अतिशायने तमबिष्ठनौ (*atiśāyane tamabiṣṭhanau*) the superlative sense after *svādu*; by the rule टेः (*ṭeḥ*) the *ṭi* (*u*) is dropped; the vocative takes the vocative *nighāta* accent. स्वाद्मानः (*svādmānaḥ*) (root स्वाद आस्वादने (*svāda āsvādane*)): by अन्येभ्योपिदृश्यंते (*anyebhyopidṛśyaṃte*) (पा. सू. ३-२-७५ (*pā. sū. 3-2-75*)) the suffix *manin*; being marked *n*, the first syllable is acute; nominative plural. ईरते (*īrate*) (root ईर गत् प्रेरणे च (*īra gat preraṇe ca*)): *adādi*, *laṭ*, third person plural; the verb-*nighāta* accent.
+
+### Printed p. 199
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 7] Ṛgveda-saṃhitā 199 (as supplied).*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> त्वे पि॑तो म॒हानां॑ दे॒वानां॒ मनो॑ हि॒तं ।
+> अका॑रि॒ चारु॑ के॒तुना॒ तवाहि॒मव॑सावधीत् ॥ ६ ॥
+
+> *tve pito mahānāṃ devānāṃ mano hitaṃ |*
+> *akāri cāru ketunā tavāhimavasāvadhīt ‖ 6 ‖*
+
+*[As supplied, a line reading हडपाटॆ (*haḍapāṭè*) stands inside the Saṃhitā block where the Pada label belongs; standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> त्वे इति । पितो इति । महानां । देवानां । मनः । हितं ।
+> अकारि । चारु । केतुना । तव । अहिं । अवसा । अवधीत् ॥ ६ ॥
+
+> *tve iti | pito iti | mahānāṃ | devānāṃ | manaḥ | hitaṃ |*
+> *akāri | cāru | ketunā | tava | ahiṃ | avasā | avadhīt ‖ 6 ‖*
+
+*[As supplied, a line reading स:यणभाष्यं (*sa:yaṇabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे पितो महानां पूज्यानां महतां ना देवानामिंद्रादीनां मनस्त्वे
+> त्वयि हितं निहितमकारि । कृतं । अमृतमपि विहाय त्वय्येव वर्तते । हे पितो तव
+> चारु समीचीनेन केतुना त्वत्कृतेन प्रज्ञानलक्षणेनावसा रक्षणेनाहिं मेघं वृत्रं
+> नावधीत् । हतवानिंद्रः । अन्नमयं हि सोम्य मनः । छां. ६ ५-४ । इति श्रुतेः ।
+> अथवा त्वत्केतुना जगद्रक्षणेन निमित्तेनेति योज्यं । जगद्रक्षणार्थं हींद्रेणाहि-
+> र्भिद्यते ॥
+
+*Gist:* The minds of the great gods are set on you, Pito; by your guarding wisdom Indra slew Ahi, for mind is made of food (Chāndogya).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पितो—ऎलै अन्नवे (*pito—èlai annave*) (O food). महानां—पूज्यराद (*mahānāṃ—pūjyarāda*) (venerable). देवानां—इंद्रादि देवतॆगळ (*devānāṃ—iṃdrādi devatègaḷa*) (of the gods, Indra and others). मनः—मनस्सु (*manaḥ—manassu*) (mind). त्वे—निन्नल्ले (*tve—ninnalle*) (in you alone). हितं अकारि—इडल्पट्टिदॆ (*hitaṃ akāri—iḍalpaṭṭidè*) (has been placed). तव—निन्न (*tava—ninna*) (your). चारु—रम्यवादुदू (*cāru—ramyavādudū*) (pleasant). केतुना—प्रज्ञानरूपवादुदू आद (*ketunā—prajñānarūpavādudū āda*) (of the nature of wisdom). अवसा—रक्षणदिंद (*avasā—rakṣaṇadiṃda*) (by protection). अहिं—मेघवन्नु (अथवा वृत्र नन्नु) (*ahiṃ—meghavannu (athavā vṛtra nannu)*) (the cloud, or Vṛtra). अवधीत्—इंद्रनु कॊंदनु (*avadhīt—iṃdranu kòṃdanu*) (Indra slew).
+
+**भावार्थ (Bhāvārtha)**
+
+O food, even the venerable gods, Indra and the rest, have their minds fixed on you alone. By your pleasant protection, of the nature of wisdom, Indra slew Vṛtra.
+
+**Printed English translation**
+
+The thoughts of the mighty gods are fixed. Pitu, upon you, by your kind and intelligent assistance, (Indra) slew Ahi.
+
 ---
 
-**Progress note:** Done through printed p. 196 (PDF 196). Done through printed p. 196 (Sukta 187 Rik 4 complete; Rik 5 Samhita, Pada, bhashya done; Rik 5 Pratipadartha next); [?] on tai/tye, vatarsha iva
+**Progress note:** Done through printed p. 199 (PDF 199). Done through printed p. 199 (Sukta 187 Rik 5 complete; Rik 6 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Rik 6 Special Topics next); [?] on te/tai in Rik 5 Special Topics
