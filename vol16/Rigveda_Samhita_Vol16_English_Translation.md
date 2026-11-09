@@ -704,6 +704,85 @@ Grammar page continued, noted briefly: रणंति (*raṇaṃti*) (root *ra
 
 *(Note: the supplied text reads उतो पितभ्यां (*uto pitabhyāṃ*) in the Saṃhitā where the Pada has पितृभ्यां (*pitṛbhyāṃ*), and the Pada has a second misreading in the word-division of "mahadbhyām"; left as supplied. The bhāṣya and the rest of Ṛk 6 follow on printed p. 25.)*
 
+### Printed p. 25
+
+*[Running head, p. 25: Ā. 3. A. 1. Va. 2. Ṛgvedasaṃhitā 25 (as supplied; "Ā." for "Maṃ.")]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उतो आपि च महो महद्भ्यां महतो महद्भ्यां पितृभ्यां द्यावापृ-
+> थिवीभ्यां प्रपिदा प्रवेदनेनानु घोषमनु घुष्यमाणं शूषं सुखं । शूषं शुन-
+> मिति सुखनामसु पाठात् । तत्सुखं यजमाना अग्निमनयंत । अग्निं प्रापितवंतः ।
+> सोग्निर्यत्र यजमानेषूक्षा वृष्टुत्पादनेनोदकस्य सेक्ताक्कोः । आकुशब्दो
+> रात्रिमाचष्टे शर्वरी अक्कुरिति तन्नामसु पाठात् अज्यते सिच्यते नीहारेण जगद-
+> स्यामिति व्युत्पत्तेश्च । तस्या रात्रेः परि धानं परितो धारकं स्वमात्मियं धाम
+> तेजो जरितुः स्तोतुः स्तुतिश्रवणार्थमनु ववक्ष ह । समीपे वहति खलु । सन्निहितं
+> करोतीत्यर्थः ॥ उतो । ऊदिति प्रगृह्यसंज्ञा । एवमादित्वादंतोदात्तः ।
+> घोषं ' घुषिर् शब्दे आस्मात्कर्मणि घञ् । लघूपधगुणः । जित्स्वरः । महः ।
+> अकारतकारयोर्लोपश्चांदसः । बृहन्महतोरुपसंख्यानमिति विभक्तेरुदात्तत्वं ।
+> अनयंत णीञ् प्राहण इत्यस्य लङ् रूपं , निघातः । उक्षा । उक्ष सेचने । श्व-
+> न्नु क्षन्नित्यादिना कनिप्रत्ययांतत्वेनोक्षन्‌शब्दो निपातितः । व्यत्ययेनांतोदात्तः ।
+> ह चादित्वादनुदात्तः । यत्र । लितीति प्रत्ययात्तूर्वस्योदात्तत्वं । अक्टोः ।
+> अंजू व्यक्तिगतिम्रक्षणेष्टित्यस्मात् व्याज्यर्तिभ्यः क्तुरिति क्तुः । कित्त्वादनिदितामिति
+> नलोपः । प्रत्ययस्वरः । ववक्ष । वह प्रापणे । छंदसि लुज्लज्लिट इति वर्त-
+> माने लिट् । सकारश्चांदसः । तिपो णलादेशः । लितीति प्रत्ययात्तूर्वस्यो-
+> दात्तत्वं :
+
+*Gist: the worshippers bring to Agni the delight proclaimed by heaven and earth; Agni, the rain-shedder, brings near to the praiser his own radiance that invests the night. The grammatical tail (accents of ghoṣam, mahaḥ, anayanta, ukṣā, aktoḥ, vavakṣa) is transcribed, not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Uto — and. Yatra — among whichever worshippers. Ukṣā — Agni, the one who sprinkles water (by producing rain). Aktoḥ — of the night. Pari dhānam — (like a covering) the holder. Svaṃ dhāma — his own radiance. Jaritum — of the praiser (for hearing the praise). Anu vavakṣa ha — (makes it present) brings it near. (Te — those worshippers.) Maho mahadbhyāṃ — greater than the great. Pitṛbhyāṃ — the parents, heaven and earth. Pravidā — by making known. Anu ghoṣaṃ — that is proclaimed. Śūṣaṃ [sic: the supplied text reads *Kūṣaṃ*] — the delight. Anayanta — (to Agni) caused to reach.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, who causes water to be sprinkled by means of rain, becomes present, with the purpose of hearing the praise of the praiser, in the form of his own radiance that, like a covering, holds the night. The praisers too, by glorifying heaven and earth, greatest among the great, bring delight to Agni.
+
+### Printed p. 26
+
+*[Running head, p. 26: 26 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7.]]*
+
+**Printed English**
+
+Verily (men) bring great delight to Agni by glorifying aloud the mighty parents (heaven and earth), when the shedder of rain approximates his own radiance to the worshipper, (wherewith) to invest the night.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+महः महद्भ्यां (*mahaḥ mahadbhyāṃ*)—महतो महद्भ्यां (*mahato mahadbhyāṃ*). The word *mahaḥ* is also read among the names of water (21-24).
+
+⟦ಪಿತುಂ ನು ಸ್ತೋಷಂ ಮಹೋ ಧರ್ಮಾಣಂ ತವಿಷೀಂ ।
+ಯಸ್ಯ ತ್ರಿತೋ ವ್ಯೋಜಸಾ ವೃತ್ರಂ ವಿಪರ್ವಮರ್ದಯತ್ ॥⟧ (Pu. Saṃ. 1-187-1, as supplied). In this Ṛk, since the meaning of *mahaḥ* is explained as महतः बलस्य धारयितारं (*mahataḥ balasya dhārayitāraṃ*) ("the holder of great strength", one who bears exceeding strength), the word *mahaḥ* is understood in the sense *mahat* (superior).
+
+⟦ತ್ವಷ್ಟಾ ದುಹಿತ್ರೇ ವಹತುಂ ಕೃಣೋತೀತೀದಂ ವಿಶ್ವಂ ಭುವನಂ ಸಮೇತಿ ।
+ಯಮಸ್ಯ ಮಾತಾ ಪರ್ಯುಹ್ಯಮಾನಾ ಮಹೋ ಜಾಯಾ ವಿವಸ್ವತೋ ನನಾಶ ॥⟧ (Ma. Saṃ. 10-17-1, as supplied). In this Ṛk also, since the meaning is explained as महः महतः जाया एवस्वतः (*mahaḥ mahataḥ jāyā evasvataḥ*) ("the wife of the sun, filled with greatness"), the word *mahaḥ* is used here in the sense *mahat*.
+
+पितृभ्यां (*pitṛbhyāṃ*)—द्यावापृथिवीभ्यां (*dyāvāpṛthivībhyāṃ*). Yāska explains the word *pitṛ* as पिता पाता ना पालयिता वा (*pitā pātā nā pālayitā vā*) (Ni. 4-21), that it conveys the sense "protector". Here the meaning is taken as heaven and earth.
+
+शूषं (*śūṣaṃ*)—सुखं (*sukhaṃ*). The word *śūṣa* is stated both among the twenty-eight names of strength (Ni. 3-9) and among the twenty names of happiness beginning with *śimbātā*, *śatarā* (as supplied) (Ni. 3-13). Here the meaning is happiness.
+
+Here, महद्भ्यां पितृभ्यां प्रविदा अनुघोषं शूषं (*mahadbhyāṃ pitṛbhyāṃ pravidā anughoṣaṃ śūṣaṃ*) is explained thus: heaven and earth, filled with greatness, well knowing the abundance of the happiness arising from Agni, proclaim it; and the sacrificing worshippers, having obtained such happiness through the worship of Agni, express the wish that the same happiness may come to Agni who bestowed happiness on them, and thus have caused it to come to Agni.
+
+### Printed p. 27
+
+*[Running head, p. 27: Ā. 3. A. 1. Va. 2. Ṛgvedasaṃhitā 27 (as supplied; "Ā." for "Maṃ.")]*
+
+उक्षा (*ukṣā*)—वृष्ट्यत्पादनेन उदकस्य सेक्ता (*vṛṣṭyatpādanena udakasya sektā*) ("the sprinkler of water by producing rain"). The word *ukṣā* is stated among the twenty-five names of the great, beginning with *mahat*, *bradhnaḥ* (Ni. 3-13). And Yāska, citing the Ṛk
+
+⟦ವೃಷಾಕಪಾಯಿ ರೇವತಿ ಸುಪುತ್ರ ಆದು ಸುಸ್ನುಷೇ ।
+ಘಸತ್ತ ಇಂದ್ರ ಉಕ್ಷಣಃ ಪ್ರಿಯಂ ಕಾಚಿತ್ಕರಂ ಹವಿರ್ವಿಶ್ವಸ್ಮಾದಿಂದ್ರ ಉತ್ತರಃ ॥⟧ (Ma. Saṃ. 10-86-13),
+
+explains उक्षणः (*ukṣaṇaḥ*) as उक्षतेर्वृद्दिकम=णः, उक्षंत्युदकेनेति वा (*ukṣatervṛddikama=ṇaḥ, ukṣaṃtyudakeneti vā*) (as supplied): to the word *ukṣā*, formed from the root *ukṣ* that conveys growth, he gives the meaning "one who grows", or "one who pours water, hence *ukṣā*". Here Sāyaṇa explains that Agni too is denoted by the word *ukṣā* because he produces rain. The purport is that Agni produces rain to the advantage of those who perform the sacrifice.
+
+अक्तुः (*aktuḥ*)—रात्रेः (*rātreḥ*): night. The word *aktuḥ* is stated (Ni. 2-18) among the twenty-three names of night beginning with *śyāvī*, *kṣapā*. Sāyaṇa explains: अक्तुशब्दो रात्रिमाचष्टे अज्यते सिच्यते नीहारेण जगदस्यामिति व्युत्पत्तेश्व (*aktuśabdo rātrimācaṣṭe ajyate sicyate nīhāreṇa jagadasyāmiti vyutpatteśva*) — night is called *aktu* because it wets the whole world with mist.
+
+जरितुः (*jarituḥ*)—स्तोतुः (*stotuḥ*): of the praiser. The word *jaritṛ* is explained by Yāska as जरिता—गरिता (*jaritā—garitā*) (Ni. 1-7). It is read among the names of the praiser as रेभः जरिता (*rebhaḥ jaritā*) (Ni. 3-19).
+
+From the sentence उक्षा अक्टोः परिधानं स्वं धाम जरितुः ववक्ष (*ukṣā akṭoḥ paridhānaṃ svaṃ dhāma jarituḥ vavakṣa*) the meaning is explained thus: Agni makes his radiance, which covers the night, present (visible) for those who praise him (for the hearing of the praise).
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+Words treated: उतो (उतो (*uto*)) (ending in o, a particle; pragṛhya designation by Pā. Sū. 1-1-15, *ot*; prakṛtibhāva by the rule *plutapragṛhyā aci nityam*; being among the *evādi* words, final accent by *evādīnām antaḥ*, Phi. Sū. 82), प्रविदा (प्रविदा (*pravidā*)) (root *vid* "to know"; kvip; prādi compound; accent of the stem by the rule for the latter member being a kṛt; instrumental singular), घोषम् (घोषम् (*ghoṣam*)) (root *ghuṣ*, "to sound"; ghañ in the object sense; guṇa of the light penultimate, Pā. Sū. 7-3-86 as printed).
+
 ---
 
-**Progress note:** Done through printed p. 24 (PDF 24). Sukta 7 Rk 5 complete (pp. 21-23, p. 24 split off); Rk 6 Samhita and Pada given, bhashya follows on p. 25
+**Progress note:** Done through printed p. 27 (PDF 27). Done through printed p. 27: Sukta 7 Rk 6 bhashya, Pratipadartha, Bhavartha, English, Special Topics, grammar start
