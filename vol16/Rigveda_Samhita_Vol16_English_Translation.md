@@ -783,6 +783,72 @@ From the sentence उक्षा अक्टोः परिधानं स�
 
 Words treated: उतो (उतो (*uto*)) (ending in o, a particle; pragṛhya designation by Pā. Sū. 1-1-15, *ot*; prakṛtibhāva by the rule *plutapragṛhyā aci nityam*; being among the *evādi* words, final accent by *evādīnām antaḥ*, Phi. Sū. 82), प्रविदा (प्रविदा (*pravidā*)) (root *vid* "to know"; kvip; prādi compound; accent of the stem by the rule for the latter member being a kṛt; instrumental singular), घोषम् (घोषम् (*ghoṣam*)) (root *ghuṣ*, "to sound"; ghañ in the object sense; guṇa of the light penultimate, Pā. Sū. 7-3-86 as printed).
 
+### Printed p. 28
+
+*[Running head, p. 28: 28 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7.]]*
+
+Grammar page continued, noted briefly: प्रत्यय इत्तादुदरिंद (*pratyaya ittādudariṃda*) the initial accent of the stem (by Pā. Sū. 6-1-197, *ādirnityam*); the form is accusative singular. मह: (*mahaḥ*) (for *mahataḥ*; Vedic loss of *a* and *t*; the case-ending takes the udātta by the statement *bṛhanmahator upasaṅkhyānam*). अनयंत (*anayanta*) (root *nī* "to lead"; laṅ third plural; all-anudātta after the preceding word). उक्षा (*ukṣā*) (root *ukṣ* "to sprinkle"; kanin suffix as given in the Uṇādi rule 1-157, *śvannukṣan*; final accent by vyatyaya; nominative singular). ह (*ha*) (read among the *cādi* particles; anudātta by Phi. Sū. 84). यत्र (*yatra*) (tral suffix in the locative sense, by *saptamyās tral*; accent before the suffix by Pā. Sū. 6-1-193, the suffix having an indicatory *l*). धानम् (*dhānam*) (root *ḍudhāṇ* "to hold, to nourish"; lyuṭ suffix in the agent sense by *bahulam*; replacement *ana*; accent before the suffix). अक्तोः (*aktoḥ*) (root *añj*; ktu suffix; loss of the penultimate nasal, Pā. Sū. 6-4-24; *ku*-substitution, Pā. Sū. 8-2-30; *cartva*; genitive singular; final accent by the suffix). धाम (*dhāma*) (manin suffix, Pā. Sū. 3-2-74 as printed; initial accent). जरितुः (*jarituḥ*) (root *jṛṣ* "to grow old", here used in the sense of praising; tṛc suffix in the agent sense; final accent). ववक्ष (*vavakṣa*) (root *vah* "to carry"; liṭ in the present sense by *chandasi luṅlaṅliṭaḥ*; ṇal for the third person singular; Vedic *s* added to the root, then the changes of *h*; because of the connexion with *yatra* the lowering of accent is prevented by Pā. Sū. 8-1-30, and by Pā. Sū. 6-1-193 the accent falls before the suffix).
+
+### Printed p. 29
+
+*[Running head, p. 29: Ā. 3. A. 1. Va. 2. Ṛgvedasaṃhitā 29 (as supplied; "Ā." for "Maṃ.")]*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> अ॒ध्व॒र्युभिः॑ पं॒चभिः॑ स॒प्त विप्राः॑ प्रि॒यं र॑क्षंते॒ निहि॑तं प॒दं वेः।
+> प्रांचो॑ मदंत्यु॒क्षणो॑ अजु॒र्या दे॒वा दे॒वाना॒मनु॒ हि व्र॒ता
+> गुः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> अध्वर्युभिः । पंचभिः । सप्त । विप्राः । प्रियं । रक्षंते । निहितं । पदं । वे-
+> रिति वेः ।
+> प्रांचः । मदंति । उक्षणः । अजुर्याः । देवाः । देवानां । अनु । हि । व्रता ।
+> गुरिति गुः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उद्गातृवर्गव्यतिरिक्ता द्वादशर्त्विजो भवंति । तत्र सप्त वषट्कर्तारः ।
+> पंचान्वेऽध्वरं नयंति । तैः पंचभिरध्वयुभिः सह सप्त विप्रा मेधाविनो
+> होत्रका वेगमनस्वभावस्याग्नेः प्रियं निहितमाहवनीयाख्यं पदं रक्षंते । पाल-
+> यंति । प्रांचः सोमपानार्थं प्राङ्मुखा गच्छंतोऽजुर्या जरयितुमशक्या
+> उक्षणः सोमरसस्य सेक्तारो देवाः स्तोतारो मदंति । हृष्यंति । किंच ते देवा
+> देवानां संबंधीनि व्रता व्रतानि यज्ञाननुगुः । अन्वगच्छन् । हि प्रसिद्धौ । अग्नेः
+> प्रसादाद्देवा यज्ञान् लब्धवंत इत्यर्थः॥ रक्षंते । रक्ष पालने । व्यत्ययेनात्मने-
+> पदं । निघातः । निहितं । डुधाण् धारणपोषणयोरित्यस्य कर्मणि निष्ठायां दधा-
+> तेर्हिरिति हिरादेशः । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं । वेः । वी कांतिगत्यादिशु ।
+> अस्माद्विच् । सार्वधातुकार्थधातुकयोः । सा. ७-३-८४ । इति गुणः । जसिजसोश्चेशि
+> पूर्वरूपत्वं । प्रांचः i अनिगंतोऽंचताविति पूर्वपदप्रकृतिस्वरत्वं । मदंति ।
+> मदी हर्षॆ । निघातः । गुः i इण् गतावित्यस्माल्लुजि रूपं । इणो गा लुजीति
+> गादेशः । आत इति झेर्जुसादेशः । बहुलं छंदसीत्यडभानः । हितब्दयोगान्न
+> निहन्यते ॥
+
+*Gist: the twelve priests other than the Udgātṛ group: seven offer the vaṣaṭ, five lead the sacrifice; together they guard Agni's dear station, the Āhavanīya, and rejoice, following the gods' rites. The grammatical tail (rakṣante, nihitam, veḥ, prāñcaḥ, madanti, guḥ) is transcribed, not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Pañcabhiḥ adhvaryubhiḥ — (accompanied) by five priests of the Adhvaryu group. Sapta viprāḥ — seven wise priests of the Hotṛ group. Veḥ — to Agni, of swift-moving nature.
+
+### Printed p. 30
+
+*[Running head, p. 30: 30 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7.]]*
+
+Priyam — dear. Nihitaṃ padam — the prepared station (called Āhavanīya). Rakṣante — protect. Prāñcaḥ — those facing east (for drinking the Soma), ajuryāḥ — not subject to old age, ukṣaṇaḥ — sprinklers of the Soma juice. Devāḥ — the praisers (priests). Madanti — rejoice (and those priests). Devānām — (belonging) to the gods. Vratā — the rites (sacrifices). Anu guḥ — follow. Hi — it is well known.
+
+**भावार्थ (Bhāvārtha)**
+
+The seven wise priests of the Hotṛ group, accompanied by the five priests of the Adhvaryu group, guard the station of the Āhavanīya fire, dear to the swift-moving Agni; the priests, facing east for the drinking of the Soma, not subject to old age, sprinklers of the Soma juice, rejoice, praising Agni; [distinguished by] the oblations favoured by the pleased Agni, they undertake the other rites of the gods.
+
+**Printed English**
+
+Seven sages with five ministering priests attend the station that is pre-pared [sic] for the rapid (Agni): the undecaying divine (sages), with their faces to the east, sprinkling (the libations), rejoice as they celebrate the worship of the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पंचभिः अध्वर्युभिः सप्त विप्राः (*pañcabhiḥ adhvaryubhiḥ sapta viprāḥ*): उद्गातृवर्गव्यतिरिक्ताः द्वादशर्त्विजो भवंति । तत्र सप्तवषट्कर्तारः । पञ्चान्ये अध्वरं नयंति : सप्त मेधाविनो होत्रकाः (*udgātṛvargavyatiriktāḥ dvādaśartvijo bhavanti; tatra saptavaṣaṭkartāraḥ; pañcānye adhvaraṃ nayanti; sapta medhāvino hotrakāḥ*) (the Sanskrit as supplied; the supplied text has *saptavaṣaṭkartāraḥ* and *pañcānye*, with a colon where a danda is expected). The people who are appointed to perform the duties necessary in a sacrifice while it is being performed are called priests (*ṛtvij*). Since the sacrifice is a rite carried on by the several priests who have studied the four Vedas, those who have studied each Veda perform the rites of that Veda; so the priests connected with the performance of the sacrifice fall into four groups: the Hotṛ group, the Adhvaryu group, the Udgātṛ group and the Brahman group. The priests of the Hotṛ group are those who have studied the Ṛgveda; with the respective mantras they invoke the respective gods. Those of the Adhvaryu group have studied the Yajurveda; in the manner prescribed they prepare the oblation-substances for the gods invoked by the Hotṛ, according to the order prescribed, and after hearing the Hotṛ's *vaṣaṭ* call they perform the respective offerings. Those of the Udgātṛ group have studied the Sāmaveda; in the respective sacrifice they
+
 ---
 
-**Progress note:** Done through printed p. 27 (PDF 27). Done through printed p. 27: Sukta 7 Rk 6 bhashya, Pratipadartha, Bhavartha, English, Special Topics, grammar start
+**Progress note:** Done through printed p. 30 (PDF 30). Sukta 7 Rk 6 grammar end; Rk 7 complete to Special Topics start
