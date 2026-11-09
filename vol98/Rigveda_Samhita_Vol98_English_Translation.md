@@ -3368,6 +3368,91 @@ At the end, pointing to the head, he said that this is the most excellent part o
 
 विश्वं जगत्—ई (*viśvaṃ jagat—ī*) — for these words Sāyaṇa has given two kinds of meaning: एतत्सा वरस्याप्युलपक्षणं [?] । कृत्स्नं प्रपंचं (*etatsā varasyāpyulapakṣaṇaṃ [?] | kṛtsnaṃ prapaṃcaṃ*) — "all the world that does not move" is one kind of meaning; and यद्वा जगच्छब्दो यजमानरूपमनुष्यवाची । सर्वानपि यजमानान् (*yadvā jagacchabdo yajamānarūpamanuṣyavācī | sarvānapi yajamānān*) ("or the word *jagat* denotes men in the form of sacrificers; all the sacrificers") — the word *jagat* also indicates "men in the form of sacrificers". Therefore here *viśvaṃ jagat* means "all the sacrificers": thus he has given the second meaning. (The supplied text has वरस्याप्युलपक्षणं (*varasyāpyulapakṣaṇaṃ*) [?] and "ಯಜಮಾರನನ್ನೂ" [?], kept as supplied, marked [?].)
 
+### Printed p. 117
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 117 (as supplied, "ಅ ೫"). The window continues the Special Topics of Ṛk 1 of Sūkta 186 from p. 116.*
+
+मनीषा—मनीषया (*manīṣā—manīṣayā*) ("*manīṣā* = *manīṣayā*, by the lordship of the mind; that is, by one's own wish"): as his mind has told him, or as it has approved, that is, with the pleasure of the self: this is the sense.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+*[As supplied, the label line reads व्याकरणक्रिया (*vyākaraṇakriyā*) (without the usual label form); standard label inserted.]*
+
+इळाभिः—ईड (*iḷābhiḥ—īḍa*) (root *īḍ*, "to praise"): shortening by the Vedic rule; by क्विप् च ऎंबुदरिंद (*kvip ca èṃbudariṃda*) the suffix *kvip*; the accent of the root remains; by टापंचापि हलंतानां यथा वाचा दिशा निशा (*ṭāpaṃcāpi halaṃtānāṃ yathā vācā diśā niśā*) ((कौ (*(kau*) २-४-८२) (*2-4-82)*), as printed) the feminine suffix *ṭāp* comes even after a consonant-ending word; instrumental plural form. सुशस्ति—शंसु (*suśasti—śaṃsu*) (root सुशस्ति—शंसु (*suśasti—śaṃsu*) "to praise"): by स्त्रीयां क्तिन् ऎंबुदरिंद क्तिन् (*strīyāṃ ktin èṃbudariṃda ktin*) the suffix *ktin*; by अनुदा- त्तोपदेशवनति—(पा. सू. ६-४-३७) (*anudā- ttopadeśavanati—(pā. sū. 6-4-37)*) (Pā. Sū. 6-4-37) loss of the nasal; "those in which the praises are good"; by नञ्सुभ्याम् (पा. सू. ६-२-१७२) (*nañsubhyām (pā. sū. 6-2-172)*) (Pā. Sū. 6-2-172) the last syllable is acute; by सुपां सुलुक् (पा. सू. ७-१-३९) (*supāṃ suluk (pā. sū. 7-1-39)*) (Pā. Sū. 7-1-39) *luk* of the ending when an instrumental plural follows. विश्वानरः—नरे (*viśvānaraḥ—nare*) ("*nare saṃjñāyām*", Pā. Sū. 6-3-129): since the word *nara* follows, the preceding word *viśva* is lengthened. एतु—इण् (*etu—iṇ*) (root *iṇ*, "to go"): imperative, third person singular; the verb-*nighāta* accent arises. मत्सथ—मदी (*matsatha—madī*) (root *madī*, in the sense of delight and anointing): the causal sense is implied; present tense, second person plural, the suffix *tha*; by the force of the word *bahulam* in सिब्बहुलं लेटि (पा. सू. ३-१-३४) (*sibbahulaṃ leṭi (pā. sū. 3-1-34)*) (Pā. Sū. 3-1-34) *sip* here also; by खरि च ऎंबुदरिंद (*khari ca èṃbudariṃda*) the substitution of the voiceless letter for the *d* of the root; because *yathā* precedes there is no *nighāta*; by तास्यनुदात्तेत् (पा. सू ६-१-१८६) (*tāsyanudāttet (pā. sū 6-1-186)*) (Pā. Sū. 6-1-186) the *laḥ sārvadhātuka* is unaccented and so the accent of the root remains. मनीषा—सुपां (*manīṣā—supāṃ*) — by the sūtra मनीषा—सुपां सुलुक् (*manīṣā—supāṃ suluk*) the *luk* of the ending when an instrumental singular follows.
+
+#### Ṛk 2
+
+*[As supplied, the label line of the next section reads संधि तासाठः (*saṃdhi tāsāṭhaḥ*); standard label inserted. The Saṃhitā lines were broken in the supplied text and have been joined; two readings in it are doubtful and are marked [?].]*
+
+**॥ संहितापाठः ॥**
+
+> अ नो॒ विश्व॒ आस्का॑ [?] गमंतु दे॒वा मि॒त्रो अ॑र्य॒मा वरु॑णः स॒जोषाः॑ ।
+> भुव॒न्यथा॑ नो॒ विश्वे॑ वृ॒धासः॒ कर॑न्तु॒षाहा॑ [?] विधु॒रं न शवः॑ ॥ २ ॥
+
+> *a no viśva āskā [?] gamaṃtu devā mitro aryamā varuṇaḥ sajoṣāḥ |*
+> *bhuvanyathā no viśve vṛdhāsaḥ karantuṣāhā [?] vidhuraṃ na śavaḥ ‖ 2 ‖*
+
+### Printed p. 118
+
+*Running head: [118 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186].*
+
+*[A stray line in the supplied text before the Pada: १ हदिनाल्कु १ (*1 hadinālku 1*); not part of the printed Pada.]*
+
+**॥ पदपाठः ॥**
+
+> आ । नः । विश्वे । आस्क्र्याः [?] । गमंतु । देवाः । मित्रः । अर्यमा । वरुणः । सजोषाः ।
+> भुवन् । यथा । नः । विश्वे । वृधासः । करन् । सुसहा [?] । विधुरं । न । शवः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वैश्वदेवे पशावा नो विश्व इत्येषा हविषः पुरोनुवाक्या । आ नो देवाना-
+> मुपवेतु शंस आ नो विश्व आस्त्वा [?] गमंतु देवाः । आ ३-७ । इति ॥
+> नोऽस्माकं यज्ञं विश्वे सर्वॆ देवा आस्माः शत्रूणामास्कंदयितार आक्र-
+> मितारो वा आ गमंतु । आगच्छंतु । के ते । मित्रोऽर्यमा वरुणश्च त्रयोऽपि
+> सजोषाः समानप्रीतयः संत आगच्छंतु । किंतु विश्वे देवा नोस्माकं वृधासो
+> वर्धयितारो यथा भुवन् भवेयुः तथा सुषाहा सुष्टु शत्रूणामभिभवेन नोs-
+> स्मदीयं शपोऽन्नं विथुरं हीनं यथा न करन् न कुर्युः तथागच्छंतु ॥
+
+*Gist:* May all the gods, with Mitra, Aryaman and Varuṇa united in affection, come to our sacrifice, overcoming foes, and not leave our food diminished.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विश्वे (देवाः) (*viśve (devāḥ)*) — the Viśve Devāḥ. नः (*naḥ*) — to us. वृधासः (*vṛdhāsaḥ*) — as increasers. भुवन् (*bhuvan*) — as they became (and). सुषाहा (*suṣāhā*) — by defeating and destroying the enemies. नः (*naḥ*) — of us. शवः (*śavaḥ*) — the food. विधुरं (*vidhuraṃ*) — diminished. न करन् (*na karan*) — as they do not make (so). मित्रः (*mitraḥ*) — Mitra. आर्यमा (*āryamā*) — Aryaman (printed "ಆರಮ್ಯ"). वरुणः (*varuṇaḥ*) — Varuṇa. विश्वे देवाः (*viśve devāḥ*) — all these gods. सजोषाः (*sajoṣāḥ*) — of one equal affection. आस्क्राः (*āskrāḥ*) — resisting (our enemies). नः (*naḥ*) — to our sacrifice. आ गमंतु (*ā gamaṃtu*) — may they come.
+
+**भावार्थ (Bhāvārtha)**
+
+May the Viśve Devāḥ become increasers for us, and, by defeating and destroying our enemies, not make our food nothing but augment it; and may Mitra, Aryaman (printed "ಅರಮ್ಯ") and Varuṇa, and all these gods too, united in equal affection and resisting our enemies, come to our sacrifice.
+
+**Printed English translation**
+
+May all the triumphant gods, Mitra, Aryaman, Varuna equally well pleased, come (to our rite) : may they all be propitious to us: may they not leave us in want of food, after overcoming (our foes).
+
+### Printed p. 119
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 119 (as supplied, "ಅ. ೨ ಅ. ೫. ವ. ೪").*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+When the oblation addressed to the Viśve Devāḥ is offered in the animal sacrifice, this ṛk beginning आ नो विश्वे (*ā no viśve*) is to be used as the *puro-'nuvākyā* mantra; this is set out in the sūtra of the Āśvalāyana Śrauta-sūtra नो देवानामुपवेतु शंस आ नो विश्व आस्प्रागमंतु [?] देवाः ऎंब सूत्रदिंद।(आ. (*no devānāmupavetu śaṃsa ā no viśva āsprāgamaṃtu [?] devāḥ èṃba sūtradiṃda|(ā.*) (as printed).
+
+आस्क्रा:-शत्रुगळन्नु (*āskrā:-śatrugaḷannu*) — those who defeat or attack the enemies. It is prayed that the gods, having defeated our enemies, come to our sacrificial ground and bestow on us food and other nourishment.
+
+विश्वे देवाः—ऎल्ला देवतॆगळू (*viśve devāḥ—èllā devatègaḷū*) — all the gods are here prayed to come together with the deities Mitra, Aryaman and Varuṇa. If it is asked whether, when "all the gods" is said, the deities Mitra, Aryaman and Varuṇa are not already included among them, the answer is: although they are included, the names of these three are mentioned separately in order to stress that these three must come without fail.
+
+मित्र: अर्यमा, वरुण:—ई मूरुदेवतॆगळू प्रत्येकदेवतॆगळॆंदु भाविसल्पट्टिद्दरू (*mitra: aryamā, varuṇa:—ī mūrudevatègaḷū pratyekadevatègaḷèṃdu bhāvisalpaṭṭiddarū*) — although these three deities are regarded as separate deities, it appears from what is explained here that they are the part-deities of that name among the many forms of the Sun, that is, among the twelve Ādityas. Besides, in some places it is said that these three deities are other forms of Agni:
+
+त्वमग्ने वरुणो जायसे यत्त्वं मित्रो भवसि यत्समिद्धः । (*tvamagne varuṇo jāyase yattvaṃ mitro bhavasi yatsamiddhaḥ |*)
+(((पु. सं ५-३-१) (*((pu. saṃ 5-3-1)*), as printed with a doubled parenthesis; the book prints "ಪು. ಸಂ")
+त्वमर्यमा भवसि यत्कनीनां नाम स्वधावन् गुह्यं बिभर्षि । (*tvamaryamā bhavasi yatkanīnāṃ nāma svadhāvan guhyaṃ bibharṣi |*)
+((मि. सं. ५-३-२) (*(mi. saṃ. 5-3-2)*), as printed; the book prints "ಮಿ. ಸಂ.")
+
+in these ṛks it is said that Agni has these three names: Varuṇa when he is born, Mitra when he is well kindled and blazing, and Aryaman in the offerings connected with the maiden (marriage rites). Moreover, in the Taittirīya Brāhmaṇa:
+
+मित्रोऽसि वरुणोऽसीत्याह । मैत्रं वा अहः । वारुणी रात्रिः । अहोरात्रा- भ्यामेवैनमुपावहरति (*mitro 'si varuṇo 'sītyāha | maitraṃ vā ahaḥ | vāruṇī rātriḥ | ahorātrā- bhyāmevainamupāvaharati*)
+((कै. ब्रा, १-७-१०-१) (*(kai. brā, 1-7-10-1)*), as printed; the book prints "ಕೈ. ಬ್ರಾ,")
+
+it is said that Mitra is the lord of the day and Varuṇa the lord of the night. It should therefore be noted that these three deities are in some places said to be part-deities of the Sun and in some places different names of Agni.
+
 ---
 
-**Progress note:** Done through printed p. 116 (PDF 116). Done through printed p. 116 (Sukta 186 Rk 1 Special Topics: Satapatha story sections 5-11; abhipitve, visvam jagat notes)
+**Progress note:** Done through printed p. 119 (PDF 119). Done through printed p. 119 (Sukta 186 Rk 1 complete; Rk 2 complete with Special Topics Mitra/Aryaman/Varuna)
