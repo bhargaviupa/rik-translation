@@ -4448,6 +4448,144 @@ In this ṛk the Maruts and Heaven and Earth are praised.
 
 (the Nirukta reference is printed "(ನಿ. 9-28)" with a Latin 9, as supplied) from what is said, it is well known that the spotted deer called *pṛṣatī*, of variegated colour, are the vehicle of the Maruts.
 
+### Printed p. 157
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5.] Ṛgveda-saṃhitā 157 (as supplied). The window continues the Special Topics of Ṛk 8 of Sūkta 186 from p. 156, with the end of Yāska's list of the gods' vehicles.*
+
+ये पृषतीभिर्यष्टिभिः साकं वाशीभिरंजिभिः । अजायंत स्वभानवः । (*ye pṛṣatībhiryaṣṭibhiḥ sākaṃ vāśībhiraṃjibhiḥ | ajāyaṃta svabhānavaḥ |*)
+(ऋ. सं. १-३७-२) (*(ṛ. saṃ. 1-37-2)*)
+उपो रथेषु पृषतीरयुग्त्वं प्रष्ठिर्वहति रोहितः । (*upo ratheṣu pṛṣatīrayugtvaṃ praṣṭhirvahati rohitaḥ |*)
+(ऋ. सं. १-३९-६) (*(ṛ. saṃ. 1-39-6)*)
+प्रयद्रथेषु पृषतीरयुग्त्वं वाजे अद्रिं मरुतो रंहयंतः । (*prayadratheṣu pṛṣatīrayugtvaṃ vāje adriṃ maruto raṃhayaṃtaḥ |*)
+(ऋ सं. १-८५-५) (*(ṛ saṃ. 1-85-5)*)
+यदेषां पृषती रथे प्रष्ठिर्वहति रोहितः । यांति शुभ्रा रिणन्नपः ॥ (*yadeṣāṃ pṛṣatī rathe praṣṭhirvahati rohitaḥ | yāṃti śubhrā riṇannapaḥ ‖*)
+(ऋ. सं ८-७-२८) (*(ṛ. saṃ 8-7-28)*)
+
+in these and similar ṛks the yoking of the spotted deer called *pṛṣatī* to the chariot of the Maruts is mentioned.
+
+रिशादसः-रिशाः शत्रवः । तेषामत्तारो मरुतः (*riśādasaḥ-riśāḥ śatravaḥ | teṣāmattāro marutaḥ*) (the supplied text repeats this headword line, the second time with a dash "—") — *riśaḥ* means enemies; those who devour them, that is, those who crush and destroy them, destroyers of enemies: this is the meaning. The word *riśādasaḥ* is used of many gods in the sense "destroyers of enemies".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+वृद्धसेनाः (*vṛddhasenāḥ*) ("those whose army is great"): by बहुव्रीहौप्रकृत्या (*bahuvrīhauprakṛtyā*) the accent of the earlier member. समनसः (*samanasaḥ*): by समानस्यछंदस्यमूर्ध (*samānasyachaṃdasyamūrdha*) the substitute *sa* for *samāna*; in the *bahuvrīhi* the accent of the earlier member. सदंतु (*sadaṃtu*) (root षद्ल्य विशरणगत्यवसादनेषु (*ṣadlya viśaraṇagatyavasādaneṣu*)): by धात्वादेः षः सः (पा. सू. ६- (*dhātvādeḥ ṣaḥ saḥ (pā. sū. 6-*) १-६४) (*1-64)*) *s* for the initial; imperative, third person plural; the substitute *anta* for *jhi*; by एरुः (*eruḥ*) *u*; by *bahulaṃ chandasi* *luk* of the thematic suffix; therefore the substitute *sīda* for the root does not occur; the verb-*nighāta* accent. पृषदश्वासः (*pṛṣadaśvāsaḥ*): by अज्जसेरसुक् (पा. सू ७-१-५०) (*ajjaserasuk (pā. sū 7-1-50)*) the augment *āsuk*. अवनयः (*avanayaḥ*) (root अव रक्षणे (*ava rakṣaṇe*)): by अर्तिसृधृधम्य—(उ. सू. २-२५४) (*artisṛdhṛdhamya—(u. sū. 2-254)*) the suffix *asi*; the first syllable of the suffix is acute. रथा: (*rathā:*) — when *matup* comes in the sense "having that", by the Vedic rule there is *luk* of *matup*. रिशादसः (*riśādasaḥ*) ("they eat the *riśa*"; root अद . भक्षणे (*ada . bhakṣaṇe*)): by सर्वधातुभ्योऽसुन् (उ. सू ४-६२८) (*sarvadhātubhyo 'sun (u. sū 4-628)*) the suffix *asun*; by इत्यादिर्नित्यम् (*ityādirnityam*) the first syllable is acute; in the compound the accent of the *kṛt* later member.
+
+### Printed p. 158
+
+*Running head: [158 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1, A. 24 Sū. 186], with a comma, as supplied.*
+
+मित्रयुजः (*mitrayujaḥ*) (root युजिर् योगे (*yujir yoge*)): the suffix *kvip*; the accent of the *kṛt* later member; plural form.
+
+*[As supplied, the label line of the next section reads संहारादि (*saṃhārādi*); standard label inserted. The Saṃhitā lines were joined; two readings are doubtful and marked [?]: the Saṃhitā "ಪ್ರಯುಜಸ್ತೇ" against the Pada "ಪ್ರಯುಜಃ । ತೇ", and the Saṃhitā "ಪ್ರಷಾಯಂತ" against the Pada "ಪ್ರುಷಾಯಂತ".]*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> प्र नु यदे॑षां महि॒ना चि॑कि॒त्से प्र युं॑जते प्र॒युज॒स्ते [?] सु॑वृ॒क्ति ।
+> अध॒ यदे॑षां सु॒दिने॒ न शरु॒र्विश्व॒मेरि॑णं प्रषा॒यंत॒ [?] सेनाः॑ ॥ ९ ॥
+
+> *pra nu yadeṣāṃ mahinā cikitse pra yuṃjate prayujaste [?] suvṛkti |*
+> *adha yadeṣāṃ sudine na śarurviśvameriṇaṃ praṣāyaṃta [?] senāḥ ‖ 9 ‖*
+
+*[As supplied, the label line of the next section reads पदहार (*padahāra*); standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> प्र । नु । यत् । एषां । महिना । चिकिते । प्र । युंजते । प्रयुजः । ते । सुवृक्ति ।
+> अध । यत् । एषां । सुदिने । न । शरुः । विश्वं । आ । इरिणं । प्रुषायंत [?] । सेनाः ॥ ९ ॥
+
+> *pra | nu | yat | eṣāṃ | mahinā | cikite | pra | yuṃjate | prayujaḥ | te | suvṛkti |*
+> *adha | yat | eṣāṃ | sudine | na | śaruḥ | viśvaṃ | ā | iriṇaṃ | pruṣāyaṃta [?] | senāḥ ‖ 9 ‖*
+
+*[As supplied, the label line of the next section reads कायणभाष्यं (*kāyaṇabhāṣyaṃ*); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> एषां मरुतां महिना महिमा वृष्टिलक्षणो यद्यस्माद्य चिकित्से प्रज्ञायते ।
+> यद्वा । एषां महत्वेन युक्ता नराश्चिचित्रे जानंत्यनुष्ठेयं ! न्विति पूरणः ।
+> ततस्ते ज्ञातारः सुवृक्ति ॥ सुपो लुक् ॥ सुष्टुतीनां प्रयुजः प्रयोगान्प्र
+> युंजते । अधाध प्रयोगानंतरं यद्यस्मादेषां सेना वृष्टुत्पादका विश्वं सर्वं
+> भुवनमिरिणमूषरप्रदेशं यथा तथा सर्वतः पुषायंत उत्पादयंति । तत्र
+> दृष्टांतः । सुदिने मेघावराणादिरहिते दिने शरुरंधकारहिंसकः प्रकाश इव । स
+> यथा सर्वमावृणोति तथा मरुत्सेना वृष्टा सर्वमूषरं करोति ! यद्वा । मरु-
+> न्महिमा वृष्टिर्भवति । तदा सस्यादिसमृद्धौ सत्यां प्रयोगं कुर्वंति । यदा यजंति
+> तदा मरुत्सेनाः सर्वां महीमुंदंतीतैवं महानुभावा मरुत इति तेषां
+> स्तुतिः ।
+
+*Gist:* The Maruts' rain-greatness is known; their rain-bearing armies fill the whole world, even the barren soil, as light fills a fine day; so the priests perform their rites with fine praises.
+
+*[As supplied, the label line of the next section reads । प्रतिसदर्थ । (*| pratisadartha |*); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आथ—अनंतर (*ātha—anaṃtara*). सुदिने-मेघावरणदिंद रहितवाद सुदिनगळल्लि (*sudine-meghāvaraṇadiṃda rahitavāda sudinagaḷalli*) — on fine days free of cloud cover. शरुः न (*śaruḥ na*) — as light spreads everywhere. यत् (*yat*) — because. एषां (*eṣāṃ*) — of these Maruts. सेनाः (*senāḥ*) — the rain-producing forces (continued on the next page).
+
+### Printed p. 159
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5. ] Ṛgveda-saṃhitā 159 (as supplied, "ಅ ೫").*
+
+इरिणं (*iriṇaṃ*) — as one waters barren land. विश्वं (*viśvaṃ*) — the whole world. आ पुषायंत (*ā puṣāyaṃta*) — they fill with water; (and) यत् (*yat*) — because एषां (*eṣāṃ*) — of these Maruts महिना (*mahinā*) — the greatness in the form of rain प्र चिकित्से (*pra cikitse*) — is well known. [Or: because by the greatness of these Maruts the rites to be performed are well known.] ते (*te*) — the knowing sacrificers सुवृक्ति (*suvṛkti*) — with fine praises प्रयुजां (*prayujāṃ*) — the several rites प्र युंजते (*pra yuṃjate*) — perform.
+
+*[As supplied, the label line of the next section reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+As light spreads everywhere on fine days free of cloud cover, the rain-producing forces of the Maruts fill the whole world with water, wetting even barren soil; and thereby their rain-greatness is well known. For this reason the sacrificers, knowing their duties well, perform the several prescribed rites with fine praises.
+
+**Printed English translation**
+
+For, verily, their greatness is well known, (as) they diligently dis-charge their functions ; by which their sport pours rain upon every arid soil, as light spreads (universally) on a fine day.
+
+*[The label of the Special Topics is missing in the supplied text; the standard label was inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+नु—नु ऎंब शब्दक्कॆ यास्कर विवरणॆयु ई रीति इदॆ (*nu—nu èṃba śabdakkè yāskara vivaraṇèyu ī rīti idè*) —
+
+नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्य- (*nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣya-*)
+तीत्यनुपृष्टे । नन्नेवकार्षिदिति च । अथाप्युपमार्थे भवति । (*tītyanupṛṣṭe | nannevakārṣiditi ca | athāpyupamārthe bhavati |*)
+(२ १-४) [?] (*(2 1-4) [?]*)
+
+(the reference is printed in the supplied text in Telugu-script digits; transcribed in Kannada digits as (२ १-४) [?] (*(2 1-4) [?]*), marked [?]). The word *nu* is used in many senses; and saying that it is used also in explaining the reason and in the sense of comparison,
+
+वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः । (*vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ |*)
+(ऋ सं. ६-२४-३) (*(ṛ saṃ. 6-24-3)*)
+
+he quotes this ṛk and supports the sense of comparison, "like a tree", for the words *vṛkṣasya nu* in it.
+
+सुदिने—मेघावरणादिरहिते दिने (*sudine—meghāvaraṇādirahite dine*) — the bhāṣyakāra says that a day with clear sunshine without clouds is a *sudina*; this is also the usage in practice. मेघच्छ- (*meghaccha-*)
+
+### Printed p. 160
+
+*[Page break of the print; the supplied text prints the header "160 ಗಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೪. ಸೂ. ೧೮೬" in the middle of a word, with no page marker.]*
+
+हैदुर्दिनं (*haidurdinaṃ*) — "a day on which clouds cover the sky and the sun's rays do not fall is a *durdina*": so the lexicon explains. Therefore *sudina* means a day free of clouds and full of the sun's light.
+
+करु:- (*karu:-*) [?] — Yāska says शरुमान् ऎंदरॆ हिंसावान् (*śarumān èṃdarè hiṃsāvān*) ("*śarumān* means one who injures") ((नि. ५-१२) (*(ni. 5-12)*); the supplied text begins the headword with "ಕರು:", marked [?]). In the present ṛk the bhāṣyakāra explains अंधकारहिंसकः प्रकाशकः (*aṃdhakārahiṃsakaḥ prakāśakaḥ*) — "the destroyer of darkness, the giver of light", that is, the Sun who destroys darkness and makes light. The illustration given is: as on a day free of clouds the Sun drives away darkness and spreads his light everywhere, so the Maruts pour rain, wet all regions and even barren land, and make them favourable to the growth of plants and the like: thus the greatness of the Maruts is described.
+
+इरिणं—ऊषरप्रदेशं (*iriṇaṃ—ūṣarapradeśaṃ*) — the bhāṣyakāra's explanation is "barren land in which nothing grows". On this matter Yāska in his Nirukta:
+
+प्रावेपा मा बृहतो मादयंति प्रवातेजा इरिणे वर्वृतानाः । (*prāvepā mā bṛhato mādayaṃti pravātejā iriṇe varvṛtānāḥ |*)
+सोमस्येव मौजवतस्य भक्षो विभीदको जागृविर्मह्यमच्छान् ॥ (*somasyeva maujavatasya bhakṣo vibhīdako jāgṛvirmahyamacchān ‖*)
+(ऋ. सं. ११-५४-१) (*(ṛ. saṃ. 11-54-1)*)
+
+having quoted this ṛk (the reference is printed "೧೧-೫೪-೧", as supplied) he explains the word *iriṇe* in it:
+
+इरिणं निर्यणं ऋणातेरपार्णं भवति । अपरता अस्मादोषधय इति वा ॥ (*iriṇaṃ niryaṇaṃ ṛṇāterapārṇaṃ bhavati | aparatā asmādoṣadhaya iti vā ‖*)
+(नि. ९-८) (*(ni. 9-8)*)
+
+that is, *iriṇa* or *apārṇa* means "without debt", or, since there is no water in this region (*arṇa* means water, *apārṇa* land without water) herbs and trees do not grow; therefore he has explained it as a region without water, a desert. The main point to note here is that causing abundant rain even in a desert where nothing grows because there is no water, and making plants and the like grow there in abundance, is described as one of the glories of the Maruts.
+
+दिवा चित्तमः कृण्वंति पर्जन्येनोदवाहेन । यत्पृथीविं व्युंदंति ॥ (*divā cittamaḥ kṛṇvaṃti parjanyenodavāhena | yatpṛthīviṃ vyuṃdaṃti ‖*)
+(ऋ. सुं. १-३८-९) (*(ṛ. suṃ. 1-38-9)*)
+
+(printed "ಋ. ಸುಂ.") in this ṛk it is said that the Maruts make even the day dark by covering it with clouds, pour rain, make streams of water flow, and wet the whole earth.
+
+पिन्वंत्यपो मरुतः सुदानवः पयो धृतवद्विधथेष्वाभुवः । (*pinvaṃtyapo marutaḥ sudānavaḥ payo dhṛtavadvidhatheṣvābhuvaḥ |*)
+(ऋ सं. १-६४-६) (*(ṛ saṃ. 1-64-6)*)
+
+[the window ends with this verse and its reference].
+
 ---
 
-**Progress note:** Done through printed p. 156 (PDF 156). Done through printed p. 156 (Sukta 186 Rk 7 complete; Rk 8 complete through printed English; Special Topics begun, pṛṣadaśvāsaḥ)
+**Progress note:** Done through printed p. 159 (PDF 159). Done through printed p. 160 start (Sukta 186 Rk 8 complete through grammar page; Rk 9 complete through printed English; Special Topics: nu, sudina, sharu, irina; ends after the pinvantyapo verse)
