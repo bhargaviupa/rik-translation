@@ -6,9 +6,9 @@ Cleaning (no model involved): '||' -> '॥', '|' -> '।'; a Latin 's' between K
 are dropped; the section labels (Saṃhitā, Pada, Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, English Translation, Viśeṣa-viṣayagaḷu, Vyākaraṇa-prakriyā) are recognised
 despite the usual OCR variants (ಪಾರಃ for ಪಾಠಃ, ಭಾನಾರ್ಥ for ಭಾವಾರ್ಥ …) and written in one standard form. Lines of the Saṃhitā, Pada and bhāṣya sections become '> ' blocks;
 everything else is prose. A page that starts without a label continues the section of the previous page (--section gives the state before the first page).
-Letters and digits are NEVER changed (the text is taken as supplied); the translator checks numerals against the user's numeral file."""
+Letters and digits are NEVER changed (the text is taken as supplied) — one exception, by the user's decision (Nov 9 2026): the misread reference abbreviations (tools/rv/refs_fix.py); the translator checks numerals against the user's numeral file."""
 import re,sys,os
-sys.path.insert(0,os.path.dirname(__file__)); import html_pages
+sys.path.insert(0,os.path.dirname(__file__)); import html_pages, refs_fix
 KN='[ಀ-೿]'
 LABELS=[('samhita',r'^ಸಂಹಿತಾ ?.{1,4}$'),('pada',r'ಪದ ?ಪಾ.{0,2}ಃ?$|^ಪದಪಾ|^ಪದಸಾರಃ$|^ಸದಪಾಠಃ$'),('bhashya',r'ಸಾಯಣ ?ಭಾಷ್ಯಂ$'),('pratipada',r'ಪ್ರತಿಪದಾರ್ಥ$'),('bhavartha',r'ಭಾ[ವನ]ಾರ್[ಥಧ]$|ಭಾವಾರ್ಥ$|ಭಾನಾರ್ಥ$'),
         ('english',r'^English Translation\.?$'),('special',r'ವಿಶೇಷ ?ವಿಷಯ.{0,6}$'),('grammar',r'ವ್ಯಾಕರಣ ?ಪ್ರಕ್ರಿಯ.{0,3}$')]
@@ -18,7 +18,7 @@ DROP=('This image contains no discernible text',)
 def clean_line(l):
     l=l.replace('||','॥').replace('|','।')
     l=re.sub('(?<='+KN+')[sS](?='+KN+')','ಽ',l)
-    l=l.strip().strip('*').strip()
+    l=refs_fix.fix_kn(l.strip().strip('*').strip())      # ಸಿ.→ನಿ., ಮಿ./ಮ./ಪು. ಸಂ.→ಋ. ಸಂ., ಇ. ಬ್ರಾ.→ಐ. ಬ್ರಾ. before a number (the user's reading of the print, Nov 9 2026)
     return '' if re.fullmatch(r'[-~_=. ]{3,}',l) else l
 def label_of(l):
     t=re.sub(r'[॥।#*\s]+',' ',l).strip()
