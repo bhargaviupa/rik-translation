@@ -1803,6 +1803,93 @@ Footless and motionless, they sustain numerous moving and footed races, as a son
 
 In this ṛk the relation of Heaven and Earth to the remaining living beings, and the difference between the two groups (the supplied text has the garbled words "ಅವರ ಡಕ್ಕೂ" here, as supplied), is told. By the two epithets अचरंती (*acaraṃtī*) अपदी (*apadī*) the steadiness of Heaven and Earth is told, and by the epithets पद्वंतं (*padvaṃtaṃ*) चरंतं (*caraṃtaṃ*) the activity of going and so on of all living beings, or likewise their restlessness. Although by the words "of the parents", "on the lap", "ever", "son" a worldly simile common to all is shown, since the word गर्भं (*garbhaṃ*) that follows shows that all living beings are of the nature of an embryo, the word पित्रोः (*pitroḥ*) can also be taken to mean Heaven and Earth in the form of parents. As in the world parents hold their own son on their lap and cherish him, so Heaven and Earth, the parents of the universe, hold and cherish the living beings who are their own embryo-like offspring: this is the meaning.
 
+### Printed p. 62
+
+*Running head: [62 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185]. The window begins inside the Special Topics of Ṛk 2, continuing p. 61.*
+
+… if the word पित्रोः (*pitroḥ*) is taken to mean Heaven and Earth in the form of parents, the question then arises which of them is father and which mother. The Nirukta authors have explained: पितुः — पितृस्थानीयायाः पृथिव्याः मातुः — मातांतरिक्षं निर्मियंतेऽस्मिन् भूतानि (*pituḥ — pitṛsthānīyāyāḥ pṛthivyāḥ mātuḥ — mātāṃtarikṣaṃ nirmiyaṃte 'smin bhūtāni*) (Ni. 2-8). From the root *pā*, "to protect", the earth, which protects all beings, is called "father"; and since all beings are created in the atmosphere, the atmosphere is called "mother": so it is understood from the explanation of the Nirukta authors. This explanation is valid in a way from the point of view of the derivation of the word, but it cannot agree with the traditional sense. Ordinarily the sentences that designate the atmosphere as father and the earth as mother are the well-known ones:
+
+तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत् पिता दौर्य्य । (*tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tat pitā dauryya |*)
+तद्गावाणः सोमसुतो मयोभुवस्तदश्विना शृणुतं धिष्ण्या युवं ॥ (*tadgāvāṇaḥ somasuto mayobhuvastadaśvinā śṛṇutaṃ dhiṣṇyā yuvaṃ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1-89-4)
+
+In many such contexts the designation of the atmosphere as father and of the earth as mother was told in detail earlier; and in sentences such as “ मधुद्यौरस्तु नः पिता ” (*“ madhudyaurastu naḥ pitā ”*) (Ṛ. Saṃ. 1-90-7) the epithet "father" is established for the deity of the heavenly world. In the present ṛk they may be taken together as "parents": the meaning is that living beings grow in the lap (on the thighs) of such parents.
+
+उपस्थे (*upasthe*) — the word उपस्थशब्दवन्नु (*upasthaśabdavannu*) is used in different senses. In many places Sāyaṇa has explained it as उपस्थः यज्ञः, आहवनीयो ना अंतरिक्षं वा (*upasthaḥ yajñaḥ, āhavanīyo nā aṃtarikṣaṃ vā*) and so on. In the present ṛk it means "in the lap of the parents". Ordinarily the words पित्रोः उपस्थे (*pitroḥ upasthe*) are used to indicate the relation of Agni to Heaven and Earth. For example,
+
+त्रिमूर्धानं सप्तरश्मिं गृणीषेऽनूनमग्निं पित्तोरुपस्थे । (*trimūrdhānaṃ saptaraśmiṃ gṛṇīṣe 'nūnamagniṃ pittorupasthe |*)
+निषत्तमस्य चरतो ध्रुवस्य विश्वा दिवो रोचनापप्रिवांसं ॥ (*niṣattamasya carato dhruvasya viśvā divo rocanāpaprivāṃsaṃ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1-146-1)
+
+here "Agni seated in the lap of his parents" means Agni sitting on the thighs of his parents, Heaven and Earth. But in the present ṛk only the relation of all the beings to Heaven and Earth is told. In नित्यं सूनुं ऎन्नुवाग (*nityaṃ sūnuṃ ènnuvāga*) the word नित्यं (*nityaṃ*) is given the sense "steady"; in the present context the steadiness of Heaven and Earth and the unsteadiness of living beings are described, telling the difference between them. Therefore
+
+### Printed p. 63
+
+*Running head: [Ā. ೨. Ā ೫. Va. ೨.] Ṛgveda-saṃhitā 63 (as supplied).*
+
+here, for the word नित्यं (*nityaṃ*), the sense "their own" is more fitting than the sense "steady". The use of the word in the sense "natural" occurs in many places; in the present context it can be taken to mean "own son". In the present ṛk not only is the relation of Heaven and Earth as mother and father stated, but it is also prayed that the world be protected from great fear. The refrain महद्भयदिंद रक्षिसबेकॆंदु प्रार्थिसलागिदॆ. “ द्यावा रक्षतं पृथिवी (*mahadbhayadiṃda rakṣisabekèṃdu prārthisalāgidè. “ dyāvā rakṣataṃ pṛthivī*) is found in the ṛks 2-8 of the sūkta.
+
+अभ्वात् (*abhvāt*) — the word अभ्वशब्दवु (*abhvaśabdavu*) is read among the names of water (Ni. ni. 24 [as printed]) and among the names of "great" (Ni. 3-23). But because the word is used in other senses than these two, Sāyaṇa too has given the sense according to the context; having understood this, the correct sense in the present ṛk can be settled.
+
+नहि ते क्षत्रं न सहो न मन्युं वयश्चनामी पतयंत आपुः । (*nahi te kṣatraṃ na saho na manyuṃ vayaścanāmī patayaṃta āpuḥ |*)
+नेमा आपो अनिमिषं चरंतीर्न ये वातस्य प्रमिनंत्यभ्वं ॥ (*nemā āpo animiṣaṃ caraṃtīrna ye vātasya praminaṃtyabhvaṃ ‖*)
+
+(Ṛ. Saṃ. [printed ಪು. ಸಂ.] 1-25-6)
+
+In this ṛk there is praise of Varuṇa. Here, by वातस्य ये गतिविशेषाः ते त्वदीयं अभ्वं वेगं न हिंसंति (*vātasya ye gativiśeṣāḥ te tvadīyaṃ abhvaṃ vegaṃ na hiṃsaṃti*) ("the speed of the wind also cannot hinder Varuṇa's speed"), he has taken the word अभ्वं (*abhvaṃ*) to mean "speed". And,
+
+युष्मेषितो मरुतो मर्त्येषित आ यो नो अभ्व ईषते । (*yuṣmeṣito maruto martyeṣita ā yo no abhva īṣate |*)
+वि तं युयोत शवसा व्योजसा वि युष्माकाभिरूतिभिः ॥ (*vi taṃ yuyota śavasā vyojasā vi yuṣmākābhirūtibhiḥ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ ಸಂ.] 1-39-8)
+
+here the Maruts are praised; explaining यः कश्चिदभ्वः शत्रुः नः प्राप्नोति तं शवसा वि यः योत (*yaḥ kaścidabhvaḥ śatruḥ naḥ prāpnoti taṃ śavasā vi yaḥ yota*), he has taken the word *abhva* to mean "enemy".
+
+असूत पृश्निर्महते रणाय त्वेषमयासां मरुतामनीकं । (*asūta pṛśnirmahate raṇāya tveṣamayāsāṃ marutāmanīkaṃ |*)
+ते सप्सरासोऽजनयंताभ्वमादित्स्वधामिषिरां पर्यपश्यन् ॥ (*te sapsarāso 'janayaṃtābhvamāditsvadhāmiṣirāṃ paryapaśyan ‖*)
+
+(Ṛ. Saṃ. 1-168-9)
+
+In this ṛk, by अभ्वं मेघं जनयंति । (*abhvaṃ meghaṃ janayaṃti |*), the word *abhva* is taken to mean "cloud"; and
+
+अ युन्ने अभ्वं वनदः पनंतोशिग्भ्यो नामिमीत वर्णं। (*a yunne abhvaṃ vanadaḥ panaṃtośigbhyo nāmimīta varṇaṃ|*)
+स चित्रेण चिकिते रंसु भासा जजुर्वा यो मुहुरा युवा भूत् ॥ (*sa citreṇa cikite raṃsu bhāsā jajurvā yo muhurā yuvā bhūt ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 2-4-5)
+
+### Printed p. 64
+
+*Running head: [64 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185].*
+
+in this place the word *abhva* praises the greatness of Agni; here it means "greatness". In the same way,
+
+अर्हन्बिभर्षि सायकानि धन्वार्हन्निष्कं यजतं विश्वरूपं । (*arhanbibharṣi sāyakāni dhanvārhanniṣkaṃ yajataṃ viśvarūpaṃ |*)
+आर्हन्निदं दयसे विश्वमभ्वं न वा ओजियो रुद्र त्वदस्ति ॥ (*ārhannidaṃ dayase viśvamabhvaṃ na vā ojiyo rudra tvadasti ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 2-33-10)
+
+in this ṛk Sāyaṇa has taken, because it is read among the names of "great", विश्वं अभ्वं । महन्नामैतत् । अतिविस्तृतं जगत् । (*viśvaṃ abhvaṃ | mahannāmaitat | ativistṛtaṃ jagat |*) to mean "the very extended world". That is, in the 2-4-5 cited above the word indicates the spiritual greatness of Agni; here, in the ṛk 2-33-10, it indicates the physical extension of the world. To know what the original sense of the word *abhva* is, and how these derived senses become possible on that original sense, one has to notice the word *abhva* used in the Śatapatha Brāhmaṇa sentence; then the original sense becomes known.
+
+अथ ब्रह्मैव परार्धमगच्छत् । तत्परार्धं गत्वैक्षत कथं निमान्लोकान्प्र- (*atha brahmaiva parārdhamagacchat | tatparārdhaṃ gatvaikṣata kathaṃ nimānlokānpra-*)
+त्यवेयामिति तद्वाभ्यामेव प्रत्यवैद्रूपेण चैव नाम्ना च स यस्य कस्य (*tyaveyāmiti tadvābhyāmeva pratyavaidrūpeṇa caiva nāmnā ca sa yasya kasya*)
+च नामास्ति तन्नाम यस्कोऽपि नाम नास्ति यद्वेद रूपेणेदग्० रूपमिति (*ca nāmāsti tannāma yasko 'pi nāma nāsti yadveda rūpeṇedag0 rūpamiti*)
+तद्रूपमेतावद्वा इदं यावद्रूपं चैव नाम च । ते हैते ब्रह्मणो (*tadrūpametāvadvā idaṃ yāvadrūpaṃ caiva nāma ca | te haite brahmaṇo*)
+महती अभ्ये । स यो हैते ब्रह्मणो महती अभ्ये वेद महद्धैवाभ्वं (*mahatī abhye | sa yo haite brahmaṇo mahatī abhye veda mahaddhaivābhvaṃ*)
+भवति ॥ (*bhavati ‖*)
+
+(Śa. Brā. 11-2-3-3)
+
+In these sentences it is said that name and form are the two great *abhvas* of Brahman. The *abhva* of Brahman is of two kinds, concrete and abstract (printed in English letters); therefore it means that the two kinds of great powers of Brahman, the concrete power and the abstract power, pervade the universe. From these original senses the remaining purports arise. In this way the pervasive sense, the principle of the universe in concrete and abstract form,
+
+उदू अया उपवक्तेव बाहू हिरण्यया सविता सुप्रतीका । (*udū ayā upavakteva bāhū hiraṇyayā savitā supratīkā |*)
+दिवो रोहांस्यरुहत्पृथिव्या अरीरमत्पतयत्कच्चिदभ्वं ॥ (*divo rohāṃsyaruhatpṛthivyā arīramatpatayatkaccidabhvaṃ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ ಸಂ.] 6-21-5)
+
+is contained in the word *abhva* in this ṛk. Explaining the sense of this word, Sāyaṇa has given its pervasive purport as “ अभ्वं महत् सर्वं वस्तुजातं ” (*“ abhvaṃ mahat sarvaṃ vastujātaṃ ”*). Some (the sentence is cut off at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 61 (PDF 61). Rik 1 Special Topics end, grammar pages; Rik 2 complete (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics)
+**Progress note:** Done through printed p. 64 (PDF 64). Sukta 185 Rik 2 Special Topics: pitr/matr, upastha, nitya, abhva (continues on next page)
