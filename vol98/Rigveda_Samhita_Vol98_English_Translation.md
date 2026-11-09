@@ -9109,6 +9109,101 @@ gives four kinds of meaning:
 
 (4) अर्कॊ वृक्षो भवतिय एष प्रसिद्धः । संवृत्तः हि संगतः संव्याप्तः कटुकिम्मा कटुकभावेन भवति (*arkò vṛkṣo bhavatiya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṃgataḥ saṃvyāptaḥ kaṭukimmā kaṭukabhāvena bhavati*): the name "tree" for the word *arka* is well known; the *arka* tree is, in the Karnataka language, the plant called *ekka* (the swallow-wort). Since its kindling-sticks are used in sacrifices and it is used in medicines and the like, the *arka* tree is a thing known to all; since it is bitter it is called *kaṭukimmā*. As an example for the explanation of the word *arka*, Yāska gives गायंतित्वा (ऋ सं १-१०-१) (*gāyaṃtitvā (ṛ saṃ 1-10-1)*) (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 309
+
+*Running head: [ಅ. ೨. ಅ ೫. ವ. ೧೨.] Ṛgveda-saṃhitā 309 (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 1 of Sūkta 190, on *arkaiḥ*.)*
+
+...taking the ṛk, he gives its explanation; that explanation is not relevant here. In the present ṛk the bhāṣyakāra has accepted for the word *arka* the sense "mantra".
+
+गाथान्यः (*gāthānyaḥ*) — since the word *gāthā* is read among the fifty-seven names of speech, *ślokaḥ*, *dhārā* and others (नि. २-२३ (*ni. 2-23*)), *gāthā* means speech in the form of praise. गाथा नयंतीति गाथान्यः (*gāthā nayaṃtīti gāthānyaḥ*): the sense is the gods who are leaders of such mantras of praise, and the priests such as the *hotṛ* who recite the mantras.
+
+On the sentence अथवा नवमानस्य (संबंधिनस्ते) गाथान्यः आशृण्वंति आश्रावयंति (*athavā navamānasya (saṃbaṃdhinaste) gāthānyaḥ āśṛṇvaṃti āśrāvayaṃti*) the bhāṣyakāra gives another sense too: the *hotṛ* and other relatives of the sacrificer who praises satisfy Bṛhaspati by reciting mantras.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 1, noted briefly)
+
+अनर्वाणम् (*anarvāṇam*): by नञ्सुभ्याम् (*nañsubhyām*) (पा सू. ६-२-१७२ (*pā sū. 6-2-172*)) the last syllable of the final member is acute; accusative singular; since अर्वणस्त्रसावनञ्ः (*arvaṇastrasāvanañḥ*) (पा. सू. ६-४-१७२ (*pā. sū. 6-4-172*), as printed) prohibits, in *anañ*, the substitute *tṛ* as a final does not occur. मंद्रजिह्वम् (*maṃdrajihvam*): मंद्रा जिह्वा यस्य सः (*maṃdrā jihvā yasya saḥ*); by बहुव्रीहौप्रकृत्या— (*bahuvrīhauprakṛtyā—*) (पा. सू. ६-२-१ (*pā. sū. 6-2-1*)) the first member keeps its natural accent. वर्धयॆ (*vardhayè*) (the print): root वृधु वर्धने (*vṛdhu vardhane*); since the agency of the causer appears, by हेतुमतिच (*hetumatica*) (पा. सू. ३-१-२६ (*pā. sū. 3-1-26*)) *ṇic*; *loṭ* after the causative; second person singular; owing to the connection with a finite verb the *nighāta* accent. गाथान्या (*gāthānyā*) (the print): root णीञ् प्रापणे (*ṇīñ prāpaṇe*); by णोनः (*ṇonaḥ*) *n* for the initial; गाथाः नयंति इति गाथान्यः (*gāthāḥ nayaṃti iti gāthānyaḥ*); the suffix *kvip*; by the accent of the final member of the *kṛt* compound the *ī* is acute; when *jas* follows, the substitute *yaṇ*; since an unaccented ending follows the *yaṇ* that has come in the place of the acute, by उदात्तस्वरितयोर्यणः— (*udāttasvaritayoryaṇaḥ—*) (पा. सू. ८-२-४ (*pā. sū. 8-2-4*)) the svarita accent comes. आशृण्वंति (*āśṛṇvaṃti*) (root श्रु श्रवणे (*śru śravaṇe*)): *laṭ*, third person plural, the ending *jhi*; by झोंतः (*jhoṃtaḥ*) the substitute *anta* for it; by श्रुवः शृच (*śruvaḥ śṛca*) (पा. सू. ३-१-७४ (*pā. sū. 3-1-74*)) the substitute *śṛ* for the root; the stem-suffix *śnu*; *yaṇ*; being at the beginning of the pāda the *nighāta* accent does not occur; the suffix's first syllable is acute; by तिजिचोदात्तवति (*tijicodāttavati*) (पा सू. ८-१-७१ (*pā sū. 8-1-71*)) the preverb (*ā*) is unaccented. नवमानस्य (*navamānasya*) (root णि स्तुत् (*ṇi stut*), as printed): by शोनः (*śonaḥ*) *n* for the initial; the participle *śānac* for *laṭ*; by *vyatyaya* the agent suffix has come in the passive; the stem-suffix *śap*; by सार्वधातुकार्थ— (*sārvadhātukārtha—*)
+
+### Printed p. 310
+
+*Running head: [310 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 190] (as supplied).*
+
+(continued) guṇa of the root's *u*; the substitute *av*; by आनेमुक् (*ānemuk*) (पा. सू. ७-२-८२ (*pā. sū. 7-2-82*)) the augment *muk*; by तास्यनुदात्तेत्— (*tāsyanudāttet—*) (पा. सू. ६-१-१८६ (*pā. sū. 6-1-186*)) the *lasārvadhātuka* ending is unaccented, so the accent of the root remains. The genitive has come in the sense of the object or of relation.
+
+*[Stray line of the supplied text: :0: (*:0:*); not part of the text.]*
+
+#### Ṛk 2
+
+*[As supplied, the label line of the Saṃhitā reads संहार (*saṃhāra*); standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> तम्मृ॒त्विया॒ उप॒ वाचः॑ सचंते॒ सर्गो॒ न यो दे॑वय॒ता-॑
+> मसर्जि ।
+> बृह॒स्पतिः॒ स ह्यंजो॒ वरां॑सि॒ विभ्वाभ॑व॒त्समृ॒ते मा॑त॒रिश्वा॑ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> तं । ऋत्वियाः । उप । वाचः । सचंते । सर्गः । न । यः । देव्ययतां । असर्जि !
+> बृहस्पतिः । सः । हि । अंजः । वरांसि । विभ्वा । अभवत् । सं । ऋते । मातरिश्वा ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> बार्हस्पत्ये पशौ तमृत्वियेत्येषा वपायाज्या । सूत्रितं च । बृहस्पते अति
+> यदर्यो अर्हात्तमृतिया उप वाचः सचंते । आ. ३-७ । इति ॥
+> तं बृहस्पतिमृत्विया वर्षर्तुसंबंधिन्यो वाचो माध्यमिका उप संचते ।
+> समीपे सेवंते । यः सर्गो नोदकस्य स्रष्टापि । नशब्दोऽप्यर्थे । देवयतां
+> देवानिच्छतां यजमानानामसर्जि फलं । यद्वा । देवं तमिच्छतां मनुष्याणाम-
+> सर्जि सृष्टवान्वृष्टु दकं । यद्वा । ऋत्वियाः प्राप्तकालीना वाचो हॊत्रादिप्रेरिता
+> वाच उप सचंते तं यः सर्गो नोदकसृष्टिरिव सः स एव बृहस्पतिरंजो हि
+> व्यंजकः खलु । तस्मिन्वर्षति सर्वे भवंति। आत एव विभ्वा विभुर्वाप्नो मातरिश्वा वृष्टि-
+> निर्मातर्यंतरिक्षे चेष्टमानो वायुसदृशो वा वरांसि वरणीयानि वृष्टादि-
+> फलानि संपादयन्नृत उदके निमित्तभूते सति समभवत् । संभूतः। अथवा । अंजो
+> यज्जियानां व्यंजको मातरिश्वा फलस्य निर्मातरि यज्ञे श्वसिता वर्तमानः स बृह-
+> स्पतिर्यते यज्ञे निमित्तभूते सति वरांसि वरणीयानि हवींशीच्छन् विभ्वा विभुः
+> समभवत् ॥
+
+*Gist:* The first lines give the ritual use (Āśvalāyana: the *vapā* yājyā in the Bṛhaspati animal sacrifice). Then: the rain-season speech approaches that Bṛhaspati who, like a creator of water, has produced the fruit for the sacrificers desiring the gods; he is the manifester, pervading, wind-like in the atmosphere, who brings forth desirable fruits such as rain when water is the cause.
+
+### Printed p. 311
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 12] Ṛgveda-saṃhitā 311 (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः—याव बृहस्पतियु (*yaḥ—yāva bṛhaspatiyu*) (who, which Bṛhaspati). सर्गो न—(उदकवन्नु) सृष्टिसुववने आगिद्दानॆयो (मत्तु) (*sargo na—(udakavannu) sṛṣṭisuvavane āgiddānèyo (mattu)*) (is a creator, as it were of water). देवयतां—देवतॆगळन्नु सहायार्थवागि अपेक्षिसुव यजमानरिगॆ (*devayatāṃ—devatègaḷannu sahāyārthavāgi apekṣisuva yajamānarigè*) (to sacrificers who desire the gods' help). असर्जि— फलवन्नु सृष्टिसि ऒदगिसुत्तानॆयो (*asarji— phalavannu sṛṣṭisi òdagisuttānèyo*) (creates and provides the fruit). तं—अंतह बृहस्पतियन्नु (*taṃ—aṃtaha bṛhaspatiyannu*) (him, such a Bṛhaspati). ऋत्वियाः—वर्षर्तुविगॆ संबंधिसिद (*ṛtviyāḥ—varṣartuvigè saṃbaṃdhisida*) (belonging to the rainy season). वाचः—माध्यमिका वाक्कुगळु (*vācaḥ—mādhyamikā vākkugaḷu*) (middle-region speech). उप सचंते—समीपिसि सेविसुत्तवॆ (*upa sacaṃte—samīpisi sevisuttavè*) (approach and serve). सः बृहस्पतिः—अदे बृहस्पतियु (*saḥ bṛhaspatiḥ—ade bṛhaspatiyu*) (that same Bṛhaspati). अंजः हि—सकलवन्नू आविर्भविसुवंतॆ माडुववनल्लवे ? । (*aṃjaḥ hi—sakalavannū āvirbhavisuvaṃtè māḍuvavanallave ? |*) (is he not the one who makes all things manifest?). विभ्वा—व्यापिसिरुववनू (*vibhvā—vyāpisiruvavanū*) (the all-pervading). मातरिश्वा—अंतरिक्षदल्लि संचरिसुववनू अथवा वायुसदृशनू आद अवनु (*mātariśvā—aṃtarikṣadalli saṃcarisuvavanū athavā vāyusadṛśanū āda avanu*) (he who moves in the atmosphere or is like the wind). वरांसि—अपेक्षितगळाद वृष्टादि फलगळन्नु संपादिसिकॊडुत्ता (*varāṃsi—apekṣitagaḷāda vṛṣṭādi phalagaḷannu saṃpādisikòḍuttā*) (providing the desired fruits such as rain). ऋते—उदकद निमित्तवागि ॥ (*ṛte—udakada nimittavāgi ‖*) (for the sake of water). समभवत्—उत्पन्ननादनु (*samabhavat—utpannanādanu*) (came into being).
+
+**भावार्थ (Bhāvārtha)**
+
+Bṛhaspati, who creates water and creates and provides the fruit in the form of rain to the sacrificer who desires the gods' help, is approached and served by the middle-region speech belonging to the rainy season. That same Bṛhaspati makes all things manifest; and by his impulse the wind, pervading everywhere and moving in the atmosphere, provides the desired rain and the like and came into being for the sake of water.
+
+*[As supplied, the label line reads English Translatin (*English Translatin*), run on after the Bhāvārtha; standard label inserted.]*
+
+**Printed English translation**
+
+The hymns of the (rainy) season are addressed to him, who is verily the creator (of the rain), and has granted it (to the prayers) of the devout ; for that Brihaspati is the manifester (of all), the expansive wind that (dispensing) blessing has been produced for (the diffusion of water).
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 2)**
+
+In the animal sacrifice, when the *vapā* offering is made to Bṛhaspati, this ṛk तम्मृतिया (*tammṛtiyā*) (the print) is to be used as the *yājyā* mantra, as explained by the Āśvalāyana Śrauta Sūtra rule बृहस्पते अति यदर्यो आर्हात्तमृतिया उप वाचः सचंते (*bṛhaspate ati yadaryo ārhāttamṛtiyā upa vācaḥ sacaṃte*) (आ. ३-७ (*ā. 3-7*)).
+
+ऋत्वियॊ—वर्षतुर्संबंधिन्यो वाचः (*ṛtviyò—varṣatursaṃbaṃdhinyo vācaḥ*) — since Bṛhaspati has a connection with rain, here it is said "speech connected with the rainy season".
+
+न (*na*) — the word *na* is used here in the sense of combination (the sense *api*). Besides, नेति प्रतिषेधार्थियो भाषायां । उभयमन्वध्यायं (*neti pratiṣedhārthiyo bhāṣāyāṃ | ubhayamanvadhyāyaṃ*): that is, in ordinary speech the word *na* denotes prohibition (denies); in the metrical texts it denotes both, prohibition and comparison: so Yāska's explanation runs (नि. १-४ (*ni. 1-4*)).
+
+### Printed p. 312
+
+*Running head (unmarked page break in the supplied text; printed inside the text): [312 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 190] (the print has "ಸಾಯುಣ" with a misprint).*
+
+मातरिश्वा (*mātariśvā*) — सर्वस्य जगतः निर्मातरि अंतरिक्षे श्वसन् वर्तमानः (*sarvasya jagataḥ nirmātari aṃtarikṣe śvasan vartamānaḥ*): the explanation of the word *mātariśvā*, "existing, breathing, in the atmosphere that is the maker of the whole world". This word may mean deities such as Agni and Vāyu. Here Sāyaṇa explains "wind-like", that is, pervading the atmosphere.
+
+*[As supplied, the label line reads व्याकरण, प्रक्रिया (*vyākaraṇa, prakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 2, noted briefly)
+
+ऋत्वियाः (*ṛtviyāḥ*): by छंदसि घस् (*chaṃdasi ghas*) (पा. सू. ५-१-१०६ (*pā. sū. 5-1-106*)) the suffix *ghas* for the word *ṛtu*; by आयनेयीनी — (*āyaneyīnī —*) (पा. सू. ७-१-२ (*pā. sū. 7-1-2*)) the substitute *iya*; by सितिच (*sitica*) (पा. सू. १-४-१६ (*pā. sū. 1-4-16*)) the *pada* designation, as an exception to the *bha* designation, because the suffix is marked *n*, so that by ओर्गुणः (*orguṇaḥ*) (पा. सू. ६-४-१४६ (*pā. sū. 6-4-146*)) guṇa of the *u* does not occur; *yaṇ*; the suffix's first syllable is acute. सचंते (*sacaṃte*) (root षच समवाये (*ṣaca samavāye*)): *s* for the initial; *laṭ*, third person plural; owing to the connection with a finite verb the *nighāta* accent. देवयताम् (*devayatām*): देवान् आत्मनः इच्छंतः देवयंतः तेषाम् (*devān ātmanaḥ icchaṃtaḥ devayaṃtaḥ teṣām*); by सुप आत्मनः क्यच् (*supa ātmanaḥ kyac*) the suffix *kyac*; *laṭ* after it with the participle substitute; genitive plural; since an ending beginning with a vowel follows the participle without *num*, by ततुरनुमो नद्यजादी (*taturanumo nadyajādī*) (पा. सू ६-१-१७३ (*pā. sū 6-1-173*)) it is acute. असर्जि (*asarji*) (root सृज विसर्गॆ (*sṛja visargè*)): *luṅ* in the passive, third person singular, suffix *ta*; by चिण् भावकर्मणोः (*ciṇ bhāvakarmaṇoḥ*) (पा. सू ३-१-६६ (*pā. sū 3-1-66*)) the substitute *ciṇ* for *cli*; on that basis guṇa of the root's penultimate; by चिणोलुक् (*ciṇoluk*) (पा. सू. ६-४-१०४ (*pā. sū. 6-4-104*)) *luk* of the suffix after *ciṇ*; the augment *aṭ*; by यद्वृत्तान्वितम् (*yadvṛttānvitam*) (पा. सू. ८-१-६६ (*pā. sū. 8-1-66*)) because of the connection with *yat* the *nighāta* is prohibited; by the accent of the augment *aṭ* the first syllable is acute. अञ्ज् : (*añj :*) (root अंजू व्यक्तिम्रक्षणकांतिगतिपु (*aṃjū vyaktimrakṣaṇakāṃtigatipu*), as printed): the suffix *ac* applying to all roots; being marked *n*, the first syllable is acute. वरांसि (*varāṃsi*) (root वृञ् वरणे (*vṛñ varaṇe*)): as before the suffix *asun*; on that basis by सार्वधातुका— (*sārvadhātukā—*) guṇa of the root's *ṛ*; accusative plural (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 308 (PDF 308). Sukta 190 heading lines and Rik 1 done through printed English; Special Topics of Rik 1 begun, breaks off at the Nirukta example Gayanti tva (1-10-1) on p. 308; figure line viewed; [?] on two cut-off Pada words
+**Progress note:** Done through printed p. 311 (PDF 311). Sukta 190 Rik 1 complete with grammar page; Rik 2 complete through Special Topics and begun grammar page (breaks off at the varamsi entry); printed p. 312 header appears inside the p. 311 text
