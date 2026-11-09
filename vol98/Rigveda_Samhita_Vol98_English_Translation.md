@@ -13598,6 +13598,112 @@ Here Agni is addressed by the word जातवेदः (*jātavedaḥ*). The m
 
 *(The supplied text ends here, at the end of p. 452, after a complete passage of the Special Topics of Ṛk 12; the Special Topics may continue in the next window.)*
 
+### Printed p. 453
+
+*Running head (as supplied): [अ. २. अ. ५. व. .२१] ऋग्वेदसंहिता 453 (*[a. 2. a. 5. va. .21] ṛgvedasaṃhitā 453*).*
+
+*(Continuation of the Special Topics of Ṛk 12 of Sūkta 2 of Maṇḍala 2.)*
+
+In the latter half of this ṛk Agni is prayed to for four kinds of favour beginning with a dwelling-place. वस्वः निवासहेतोर्वसिष्ठस्य (*vasvaḥ nivāsahetorvasiṣṭhasya*): a house convenient for dwelling; रायः गवादिधनस्य (*rāyaḥ gavādidhanasya*): wealth of cattle, such as cows; पुरुश्चंद्रस्य अतिशयेनाह्लादकस्य बहुहिरण्योपेतस्य वा (*puruścaṃdrasya atiśayenāhlādakasya bahuhiraṇyopetasya vā*): very delightful, that is, wealth accompanied by much gold; भूयसः प्रजावतः भृत्याद्युपेतस्य (*bhūyasaḥ prajāvataḥ bhṛtyādyupetasya*): many servants and other dependants; स्वपत्यस्य शोभनपुत्रस्य (*svapatyasya śobhanaputrasya*): good children, grandchildren and other progeny. Agni is prayed to give us all these.
+
+#### Ṛk 13
+
+*[A figure line of the supplied text, an image repeating the Saṃhitā and Pada of this ṛk and placed between two copies of the label, was viewed. One word reads differently in the image, in both the Saṃhitā and the Pada, and is corrected to the image, as noted in the Kannada text; the other words agree with the machine text. Split lines are joined. The Saṃhitā block is given once; the second copy of the label is kept as a note in the Kannada text.]*
+
+**॥ संहितापाठः ॥**
+
+> ये स्तो॒तृभ्यो॒ गोअ॑ग्रा॒मश्व॑पेशस॒मग्ने॑ रा॒तिमु॑पसृ॒जंति॑ सू॒रयः॑ ।
+> अ॒स्माञ्च॒ तांश्च॒ प्र हि नेषि॒ वस्य॒ आ बृ॒हद्व॑देमु वि॒दथे॑ सु॒वीराः॑ ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> ये । स्तोतृभ्यः । गोअग्रां । अश्वपेशसं । अग्ने । रातिं । उपसृजंति । सूरयः ।
+> अस्मान् । च । तान् । च । प्र । हि । नेषि । वस्यः । आ । बृहत् । वदेमु । विदथे । सुवीराः ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अनया होता स्तुतिनिगमव्याजेनाभिमतमाशास्त्रे । हे अग्ने सूरयो
+> मेधाविनः प्रेरयितारो ना यजमानाः स्तोतृभ्यो गोअग्रां
+> गावोऽग्रगामिन्यो यस्यास्तादृशीं गोप्रमुखामश्वपेशसं ॥ पेश इति रूपनाम ॥
+> अश्वेन निरूपणीयां । एतद्वयप्राधान्याभिप्रायं। गौश्चाश्वश्चाजाश्चति दक्षिणापरि-
+> गणनेषु गवाश्वयोः प्राथम्यात् । तादृशीं रातिमुपसृजंति । ददते । तान्यजमानान-
+> स्मांश्चर्त्विजो वस्यो वसीयः श्रेष्ठं स्वर्गादिस्थानं आ सर्वतः प्र हि नेषि । प्रकर्षण
+> नयसि खलु । नयेत्यर्थः । हि प्रसिद्धौ । वयं च सुवीराः शोभनपुत्रादिसहिता
+> विदथे यज्ञे बृहन्महन्मंत्रजातं वदेम । उच्चारयामः । स्तुम इत्यर्थः ॥
+
+*Gist:* Agni is asked to lead the sacrificers, who give cows and horses to praisers, and us to the best place; we shall recite mantras.
+
+### Printed p. 454
+
+*Running head (as supplied): [454 सायणभाष्यसहिता [ मं २. अ. १. सू २] (*[454 sāyaṇabhāṣyasahitā [ maṃ 2. a. 1. sū 2]*).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). ये—यारु (*ye—yāru*) (those who). सूरयः—सद्भुद्धियिंद प्रेरितरागिद्दारॆयो अंतह यजमानरु (*sūrayaḥ—sadbhuddhiyiṃda preritarāgiddārèyo aṃtaha yajamānaru*) (the wise sacrificers, inspired by good intellect, such ones). स्तोतृभ्यः—स्तुतिकर्तरिगॆ (*stotṛbhyaḥ—stutikartarigè*) (to the praisers). गोअग्रां—गोवुगळे मुख्यवागिरुवुदू (*goagrāṃ—govugaḷe mukhyavāgiruvudū*) (a gift in which cows are principal). अश्वपेशसं—अश्वदिंद निरूपिसल्पडुवुदू आद (*aśvapeśasaṃ—aśvadiṃda nirūpisalpaḍuvudū āda*) (characterised by horses). रातिं—दानवन्नु (*rātiṃ—dānavannu*) (the gift). उपसृजंति—कॊडु त्तारॆयो अंतह (*upasṛjaṃti—kòḍu ttārèyo aṃtaha*) (they give, such ones (the word is divided by a line break)). तांश्च—यजमानरन्नू (*tāṃśca—yajamānarannū*) (the sacrificers). अस्मांश्च—ऋत्विक्कुगळाद नम्मन्नू (*asmāṃśca—ṛtvikkugaḷāda nammannū*) (and us, the priests). वस्यः--उत्तम वादस्वर्गादिस्थानक्कॆ (*vasyaḥ--uttama vādasvargādisthānakkè*) (to the best place, heaven and the like (printed with a double hyphen and run together)). आप्रहिनेषि—अतिशयवाद रीतियल्लि करॆदुकॊंडु होगु (*āprahineṣi—atiśayavāda rītiyalli karèdukòṃḍu hogu*) (lead us in an excessive manner (printed as one word)). सुवीराः— श्रेष्ठवादपुत्रादिगळिंद कूडिद नावु (*suvīrāḥ— śreṣṭhavādaputrādigaḷiṃda kūḍida nāvu*) (we, accompanied by excellent sons and the like). विदथे—यज्ञदल्लि (*vidathe—yajñadalli*) (in the sacrifice). बृहत्—महत्तूरितवाद मंत्र वन्नु (*bṛhat—mahattūritavāda maṃtra vannu*) (the great, greatness-filled (the word is divided by a line break)). वदेम—पठिसुवॆवु (*vadema—paṭhisuvèvu*) (we shall recite).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, the sacrificers, inspired by good intellect, give to the praisers a gift consisting of cows and horses. Lead those sacrificers, and us, the priests, in an excellent manner to the best place, heaven and the like. We, accompanied by excellent sons and the like, will recite a great mantra at the sacrifice.
+
+**Printed English translation**
+
+The pious are they who present, as a gift, to the reciters of your praises an excellent cow and an elegant horse : do you, Agni, lead us and them to the best of abodes, (or heaven), that we and our worthy descendants may repeat the solemn prayer to you at the sacrifice.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 13)**
+
+Since this ṛk is also read at the end of the first sūkta (the १६ने ऋक्कु (*16ne ṛkku*)), its special topics have been explained there itself (see p. 426).
+
+#### Sūkta 3 (Maṇḍala 2)
+
+मूरनॆय सूक्तवु. (*mūranèya sūktavu.*) ("the third sūkta").
+
+समिद्दो अग्निः (*samiddo agniḥ*): this third sūkta is the Āprī sūkta in this maṇḍala. Concerning the deities of the Āprī sūktas we have written a detailed explanation in the special topics of the १८८नॆय (*188nèya*) sūkta of the first maṇḍala (the १८८नेय (*188neya*) sūkta is an Āprī sūkta) (page 227-273). Since those explanations apply to the deities in the ११ (*11*) ṛks of this sūkta, they are not explained again here. Therefore the readers should read the matter explained in the १८८ने (*188ne*) sūkta as if it had been written for the deities of this sūkta.
+
+**Sāyaṇa-bhāṣya** (introduction)
+
+> समिद्दो अग्निरित्येकादशर्चं तृतीयं सूक्तं गार्त्समदं त्रैष्टुभं । सप्तमी
+> जगती । समिद्दोऽग्निरग्निना नराशंसतनूनपादादय एकादश प्रयाजदेवताः । समिद्द
+
+*(The bhāṣya block is interrupted by the page break in mid-sentence and continues on the next page.)*
+
+### Printed p. 455
+
+*Running head (as supplied): [अ. २. अ. ५ व. २१ ] ऋग्वेदसंहिता 455 (*[a. 2. a. 5 va. 21 ] ṛgvedasaṃhitā 455*).*
+
+> एकादशाप्रं सप्तमी जगतीत्यनुक्रमणिका ॥ पशौ शुनकानामिदमाप्रीसूक्तं । गृत्स-
+> मदस्यापि शुनकत्वात् । समिद्दो अग्निरिति शुनकानामिति हि सूत्रितं । आ. ३-२ ॥
+
+*Gist:* The third sūkta, of eleven ṛks, is an Āprī sūkta of Gṛtsamada, to the eleven prayāja deities, in Triṣṭubh metre, the seventh in Jagatī.
+
+*[In the supplied text the Anuvāda and the heading lines of Sūkta 3 stand inside the quoted block of the bhāṣya; they are moved out of the block and un-quoted, nothing being dropped.]*
+
+**Anuvāda (Kannada)** of Sāyaṇa's introduction to Sūkta 3 of Maṇḍala 2. This sūkta beginning समिद्धो अग्निः (*samiddho agniḥ*) is the third sūkta in the first anuvāka. It has eleven ṛks. Gṛtsamada is the seer of this sūkta; the metre is Triṣṭubh, only the seventh ṛk being in Jagatī metre. Since it is an Āprī sūkta, the eleven prayāja deities beginning with समिद्धोऽग्नि (*samiddho 'gni*) are the deities of this sūkta. In the Anukramaṇikā it is said: समिद्ध एकादशाप्रं सप्तमी जगती (*samiddha ekādaśāpraṃ saptamī jagatī*) (the word divided by a line-end hyphen is joined). In the animal sacrifice this is the Āprī sūkta for those of the line of the sage Śunaka, because Gṛtsamada too belongs to that sage's line, and because the Āśvalāyana Śrauta Sūtra has the sūtra समिद्धो अग्निरिति शुनकानामिति हि (*samiddho agniriti śunakānāmiti hi*) (आ. ३-२ (*ā. 3-2*)), those of the Śuna lineage too use this very Āprī sūkta.
+
+**Sūkta 3 — heading lines (printed as plain lines)**
+
+॥ ओं ॥ (*‖ oṃ ‖*)
+सूक्त-३ (*sūkta-3*)
+॥ मंडल—२ ॥ अनुवाक—१ ॥ सूक्त—३ ॥ (*‖ maṃḍala—2 ‖ anuvāka—1 ‖ sūkta—3 ‖*)
+॥ अष्टक—२ ॥ अध्याय—५ ॥ वर्ग—२२, २३ ॥ (*‖ aṣṭaka—2 ‖ adhyāya—5 ‖ varga—22, 23 ‖*)
+ऋषिः—गृत्समद (आंगिरसः शौसहोत्र, पश्चात्) भाग-व शौनकः । (*ṛṣiḥ—gṛtsamada (āṃgirasaḥ śausahotra, paścāt) bhāga-va śaunakaḥ |*)
+अप्री सूक्तं ॥ (*aprī sūktaṃ ‖*)
+देवता—१. इद्धः समिधोग्निर्वा । २. नर.शंख । ३. इळः । (*devatā—1. iddhaḥ samidhognirvā | 2. nara.śaṃkha | 3. iḷaḥ |*)
+४. ऒर्हिः । ५. देवीद्वारः। ६ उषासानक्ता । ७. दैव्या (*4. òrhiḥ | 5. devīdvāraḥ| 6 uṣāsānaktā | 7. daivyā*)
+होतारौ प्रचेतसौ । ८. तिस्रो देव्यः सरस्वतीळा (*hotārau pracetasau | 8. tisro devyaḥ sarasvatīḷā*)
+भारत्यः । ९. त्वष्टा । १०. वनस्पतिः । ११. स्वाहाकृतयः ॥ (*bhāratyaḥ | 9. tvaṣṭā | 10. vanaspatiḥ | 11. svāhākṛtayaḥ ‖*)
+छंदः—१-६, ८-११. त्रिष्टुप् । ७, जगती ॥ (*chaṃdaḥ—1-6, 8-11. triṣṭup | 7, jagatī ‖*)
+
+(Sense: Om; sūkta 3; maṇḍala 2, anuvāka 1, sūkta 3; aṣṭaka 2, adhyāya 5, varga 22, 23; the number of ṛks, as printed; seer Gṛtsamada, with the printed names of his lineage, partly corrupt; Āprī sūkta; the deities, eleven in number, one for each ṛk, as listed, with several printed names corrupt; metre: ṛks 1-6 and 8-11 Triṣṭubh, ṛk 7 Jagatī.)
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> समि॑द्धो अ॒ग्निर्निहि॑तः पृथि॒व्यां प्र॒त्यज् विश्वा॑नि॒ भुव॑नान्यस्थात् ।
+> होता॑ पाव॒कः प्र॒दिनः॑ सुमे॒धा दे॒वो दे॒वान्य॑जत्व॒ग्निरर्ह॑न् ॥ १ ॥
+
+*(The supplied text ends here, after the Saṃhitā of Ṛk 1 of Sūkta 3 at the end of p. 455; the Pada follows in the next window. The Saṃhitā lines are joined.)*
+
 ---
 
-**Progress note:** Done through printed p. 452 (PDF 452). Mandala 2 Sukta 2 Rik 11 complete; Rik 12 complete through the Special Topics as supplied; two readings of the Pada marked with a query
+**Progress note:** Done through printed p. 455 (PDF 455). Mandala 2 Sukta 2 complete; Sukta 3 introduction and Rik 1 Samhita; one Saṃhitā/Pada word corrected to the figure image
