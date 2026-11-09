@@ -4670,6 +4670,85 @@ In this ṛk the Aśvin deities, Pūṣan, Viṣṇu, Vāta, Indra and other god
 
 [the window ends here].
 
+### Printed p. 164
+
+*Running head: [164 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186]. The window continues the Special Topics of Ṛk 10 of Sūkta 186 from p. 163, after the two verses with Vāyu and Vāta.*
+
+In these two ṛks both the deities Vāyu and Vāta are praised. Of Vāyu and Vāta, it is Vāyu who is praised together with Indra:
+
+इंद्रवायू इमे सुता उप प्रयोभिरा गतं । इंदवो वामुशंति हि ॥ (*iṃdravāyū ime sutā upa prayobhirā gataṃ | iṃdavo vāmuśaṃti hi ‖*)
+(ऋ. सं. १-२-४) (*(ṛ. saṃ. 1-2-4)*)
+
+in these and similar ṛks Indra and Vāyu are praised together. Vāta is generally connected with Parjanya:
+
+पर्जन्यवाता वृषभा पृथिव्याः पुरीषाणि जिन्वतमप्यानि । (*parjanyavātā vṛṣabhā pṛthivyāḥ purīṣāṇi jinvatamapyāni |*)
+(ऋ. सं. ६-४९-६) (*(ṛ. saṃ. 6-49-6)*)
+(म. सं. ६-४९-६) (*(ma. saṃ. 6-49-6)*)
+(ऋ. सं. ६-४९-६) (*(ṛ. saṃ. 6-49-6)*)
+
+(the reference is printed three times, as "ಋ. ಸಂ.", "ಮ. ಸಂ." and "ಋ. ಸಂ."). In these and similar ṛks Parjanya and Vāta are praised together. The epithets used for the two are generally different; the epithets of Vāta indicate especially speed and violence.
+
+प्रूषणं- प्रूषा [?] यद्रश्मिपोषं पुष्यति तत्पूषा भवति (*prūṣaṇaṃ- prūṣā [?] yadraśmipoṣaṃ puṣyati tatpūṣā bhavati*) ((नि १२-६) (*(ni 12-6)*)) — the Nirukta says that because he nourishes with rays (*raśmi-poṣa*) this deity is called Pūṣan [the supplied text prints the headword "ಪ್ರೂಷಣಂ" and the first "ಪ್ರೂಷಾ"; marked [?]]. In the Śatapatha Brāhmaṇa also:
+
+इयं वै पूषा पूषेयं हीदं सर्वं पुष्यति यदिदं किंचॆ । (*iyaṃ vai pūṣā pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yadidaṃ kiṃcè |*)
+(श. ब्रा. १४-४-२-२५) (*(śa. brā. 14-4-2-25)*)
+
+it is said that because this deity nourishes everything he is called Pūṣan. This kind of meaning supports the view that Pūṣan is one of the twelve Ādityas.
+
+पुष्यन् क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः । (*puṣyan kṣitiṃ poṣayati praṇudan raśmibhistamaḥ |*)
+तेनैनमस्तौत्पोषेति भरद्वाजस्तु पंचभिः ॥ (*tenainamastautpoṣeti bharadvājastu paṃcabhiḥ ‖*)
+(बृ. दे. २-६३) (*(bṛ. de. 2-63)*)
+
+— because, destroying darkness, he nourishes the earth so that it prospers, he has the name Pūṣan. There is a statement of the Bṛhaddevatā that the ṛṣi Bharadvāja praised this deity in the five sūktas 53, 54, 55, 56 and 58 of the sixth Maṇḍala.
+
+The name of this deity occurs in the Ṛgveda in about 120 places. There are eight sūktas that praise this deity: in the first Maṇḍala 2 sūktas, in the sixth Maṇḍala 5 sūktas and in the tenth Maṇḍala 1 sūkta praise Pūṣan. In the sūkta ऋ. सं. ६-५७ (*ṛ. saṃ. 6-57*) he is praised with Indra and in ऋ. सं. २-४० (*ṛ. saṃ. 2-40*) with Soma.
+
+Since Pūṣan knows all the ways he is called the protector of the roads. He is prayed to drive away from the road (or at the time of travelling) the troubles, the wolves and the robbers that may be met on the way ((ऋ. सं. १-४२-१ रिंद ३) (*(ṛ. saṃ. 1-42-1 riṃda 3)*)).
+
+### Printed p. 165
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 55] Ṛgveda-saṃhitā 165 (as supplied, "ವ. ೫೫" for the Varga number).*
+
+(The sentence of p. 164 ends with "…the robbers", and continues here:) from the roads. In this same context he has the name विमुचोनपात् (*vimuconapāt*), "son of discrimination (release)"; this epithet occurs also in ऋ. सं. ६-५५-१ (*ṛ. saṃ. 6-55-1*).
+
+वि पथो वाजसातये चिनुहि वि मृधो जहि । साधंतामुग्र नो धियः । (*vi patho vājasātaye cinuhi vi mṛdho jahi | sādhaṃtāmugra no dhiyaḥ |*)
+(म. सं. ६-५३-४) (*(ma. saṃ. 6-53-4)*)
+
+in this ṛk, and in the ṛks ऋ सं. १-४२-७, ८ (*ṛ saṃ. 1-42-7, 8*), there is the prayer: "wipe out the enemies, make the road clear, and may the road reach a place with good pasture." In many places it is prayed that he remove the difficulties that may come on the way and make the way auspicious. In the ṛks ऋ. सं. ६-४९-८ ; ६-५३-१ (*ṛ. saṃ. 6-49-8 ; 6-53-1*) it is said that he alone is the protector of all ways and the guide on the road. Therefore everyone who sets out on a journey should worship Pūṣan, the maker of roads, reciting the sūkta ऋ सं. ६-५३ (*ṛ saṃ. 6-53*); and all who have lost their way should take refuge in Pūṣan alone: so it is said in the Āśvalāyana Gṛhya Sūtra ३-६-८ (*3-6-8*) and the Sāṅkhyāyana Śrauta Sūtra ३-४-९ (*3-4-9*) and other places.
+
+Pūṣan, prayed to seek, as one seeks a strayed animal, found the lost and hidden king: so it is said in ऋ. सं. १-२३-१४. १५ (*ṛ. saṃ. 1-23-14. 15*) and तै. सं. ३-३-९-१ (*tai. saṃ. 3-3-9-1*) and other places. Therefore whatever is lost, worship should be offered to Pūṣan ((आ. गृ. सु. ३-७-९) (*(ā. gṛ. su. 3-7-9)*)). Likewise following the cattle and protecting them is a special mark of Pūṣan. He saves them from falling into pits and being hurt, and drives them back home safe; he brings back the strayed ((ऋ. सं. ६-५४-७ मत्तु १०) (*(ṛ. saṃ. 6-54-7 mattu 10)*)). His goad drives the cattle straight. He protects horses. He is the creator of cattle ((मै. सं. ४-३-७ ; तै. ब्रा. १-७-२-४) (*(mai. saṃ. 4-3-7 ; tai. brā. 1-7-2-4)*)). Such descriptions are many in the Ṛgveda. The praise-verses of Pūṣan to be used when cattle have gone grazing and strayed are given in the Sāṅkhyāyana Gṛhya Sūtra ((सां. गृ. सू. ३-९) (*(sāṃ. gṛ. sū. 3-9)*)).
+
+विष्णु: (*viṣṇu:*) — though in the Brāhmaṇas and Purāṇas Viṣṇu is regarded as a very chief deity, in the Ṛgveda Viṣṇu is not so prominent. Five sūktas and some part of one sūkta only are addressed to Viṣṇu. Besides, his name is mentioned here and there in many places with other deities, chiefly with Indra. The main prowess of Viṣṇu is said to be the setting of three steps; these three strides are in heaven, atmosphere and earth. Besides, Viṣṇu's *paramapada* (highest abode) is regarded as the most excellent station.
+
+### Printed p. 166
+
+*Running head: [166 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+In the Ṛgveda the relation of Viṣṇu with Indra seems more special than with other gods. When Indra is about to slay the demon Vṛtra he seeks Viṣṇu's help. In the Yajurveda the matter of Viṣṇu is described in many ways; there are many mantras explaining that Viṣṇu is the lord of sacrifice and of mountains, the form of sacrifice, and the leader of all the gods. Yāska has given the derivation of the word *viṣṇu* in this way:
+
+विष्णुः— अथ यद्विषितो भवति तद्विष्णुर्भवति विष्णुर्विशतेर्वा, (*viṣṇuḥ— atha yadviṣito bhavati tadviṣṇurbhavati viṣṇurviśatervā,*)
+व्यश्नोतेर्वा । (*vyaśnotervā |*)
+(सि. १२-१८) (*(si. 12-18)*)
+
+because he pervades everything, or enters and pervades everything, or pervades everything with rays, he is called Viṣṇu; therefore *viṣṇu* may also be said to mean the Sun (Āditya): so the word *viṣṇu* is explained.
+
+The great act of Viṣṇu in the Ṛgveda is the *trivikramaṇa*, the striding of three steps. There is a difference of opinion as to what these three strides are and where. Western scholars have taken them to mean the three states of the Sun: rising, culmination and setting.
+
+[This stepping of Vishnu is emblamatic [sic] of the rising, the culminating and setting of the sun.]
+[Max Muller. Sacred Books of the East. Vol. XXXII. p. 133]
+
+It is known from a Nirukta sentence that ancient scholars such as Aurṇavābha also supported this meaning:
+
+समारोहणे विष्णुपदे गयशिरसीत्यार्णवाभः । (*samārohaṇe viṣṇupade gayaśirasītyārṇavābhaḥ |*)
+(नि. ८२-९) (*(ni. 82-9)*)
+
+(the reference is printed "(ನಿ. ೮೨-೯)") thus the opinion of Aurṇavābha is stated. On this sentence Durgācārya explains समारोहणे—उदय (*samārohaṇe—udaya*) गिरावुद्यन् पदमेकं निधत्ते । विष्णुपदे माध्यंदिनेंतरिक्षे । गयशिरसि—अस्तंगिरा (*girāvudyan padamekaṃ nidhatte | viṣṇupade mādhyaṃdineṃtarikṣe | gayaśirasi—astaṃgirā*): the one step placed at the rising mountain at sunrise, the other step at the culmination in the atmosphere at midday, and the third step placed at the setting mountain at sunset are indicated by the sentence त्रेधा निदधे पदं (*tredhā nidadhe padaṃ*); this is the opinion of Aurṇavābha, the Nirukta-authors have stated. Besides,
+
+विष्णु स्त्रिधा निधत्ते पदं त्रेधाभानाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः । (*viṣṇu stridhā nidhatte padaṃ tredhābhānāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ |*)
+(२ ८-८९) (*(2 8-89)*)
+
+[the window ends here, with this sentence of Śākapūṇi and its reference].
+
 ---
 
-**Progress note:** Done through printed p. 163 (PDF 163). Done through printed p. 163 (Sukta 186 Rk 9 complete through grammar page; Rk 10 complete through printed English; Special Topics: rbhuksha, vata; ends mid-note)
+**Progress note:** Done through printed p. 166 (PDF 166). Done through printed p. 166 (Sukta 186 Rk 10 Special Topics: vata, pushan, vishnu; ends with the Sakapuni sentence on Vishnu's three steps)
