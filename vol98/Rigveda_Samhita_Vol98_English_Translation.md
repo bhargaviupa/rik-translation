@@ -11256,6 +11256,82 @@ The sage Gṛtsamada, who was first the son of Śunahotra of the Āṅgirasa got
 
 *(The bhāṣya of Ṛk 1 follows in the next window; the supplied text ends here.)*
 
+### Printed p. 380
+
+*Running head (as supplied): [380 सायणभाष्यसहिता [ मं. २. अ. १. सू १] (*[380 sāyaṇabhāṣyasahitā [ maṃ. 2. a. 1. sū 1]*).*
+
+*(Continuation of Ṛk 1 of Sūkta 1 of Maṇḍala 2, after its Saṃhitā and Pada.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने अग्रणीत्वादिगुणविशिष्ट हे नृणां नृपते । नृणां मनुष्याणां मध्यॆ
+> ये नरा यष्टारः संति तेषां विशेषेण पालयितः । यद्वोभाभ्यां पदाभ्यां
+> बहुत्वं नित्यस्वामित्वं च प्रतिपाद्यते । सर्वेषामपि नराणां नित्यपालकेत्यर्थः ॥
+> नृणामित्यस्य निघाताभावश्चांदसः ॥ तादृश हे देव त्वं द्युभिर्यागदिवसैर्निमित्त-
+> भूतैर्जायसे । यागार्थ० मथनेनोत्पद्यस इत्यर्थः । यद्वा तादृशैर्दिवसैः
+> सहितो जायसे । तत्तद्यागदिवसेषु प्रसिद्धो भवसीत्यर्थः । तथा त्वमाशुशुक्षणिर्जा-
+> यसे । आ सर्वतो दीप्यमानो भवसि ॥ आज्युपपदे शुच दीप्तावित्येतस्य सनंतसु
+> छांदसमिदं रूपं । यद्वा आशु शीघ्रं शुच् दीप्तः सन् यतः स सेव्यत इति । आश्य
+> शुचं शोकं सनोति ददाति शत्रुभ्यो दाहादिनेत्याशुशुक्षणिः ॥ तादृशो भवसि ।
+> एवं सर्वत्र प्रतिविशेषणं जायस इति योज्यं । हे अग्ने त्वमद्भ्यो वृष्टुद
+> केभ्यो जायसे वैद्युतरूपेण नाडवरूपेण वा समुद्रोदकेभ्यः । अश्मनो
+> मेघात्पाषाणाद्वा परि जायसे । यो अश्मनोरंतरग्निं जजान । २-१२-३ । इति हि
+> मंत्रांतरं । त्वं वनेभ्यो वृक्षादिसमूहेभ्यो दावरूपेण । त्वमोषधीभ्यो
+> वैश्वानररूपेण । एवं महानुभावस्त्वं मथनेनोत्पन्नः सन् सर्वात्मको भवसी-
+> त्यर्थः । शुचिरेव जायसे । यद्वा शुचिरादित्यरूपो जायस इत्यर्थः । अत्र
+> त्वमग्ने द्युभिरहोभिरित्यादि निरुक्तमनुसंधेयं । नि. ६-१ ॥
+
+*Gist:* Agni, lord and protector of men, is born from sacrificial days, kindled everywhere, from waters, stones, trees and herbs, and is the pure sun.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नृणां नृपते—मानवरिगॆ प्रभुवू पालकनू आद (*nṛṇāṃ nṛpate—mānavarigè prabhuvū pālakanū āda*) (of men, lord and protector). अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं नीनु (*tvaṃ nīnu*) (you). द्युभिः—यागदिनगळल्लि यागद निमित्तवागि (*dyubhiḥ—yāgadinagaḷalli yāgada nimittavāgi*) (on the sacrificial days, for the sake of the sacrifice). जायसे—उत्पन्ननागुत्तीयॆ (*jāyase—utpannanāguttīyè*) (you are born). त्वं—नीनु (*tvaṃ—nīnu*) (you). आशुशुक्षणि:—सर्वत्र दीप्यमाननागियू शत्रुगळन्नु दहिसुववनागियू इद्दीयॆ (*āśuśukṣaṇi:—sarvatra dīpyamānanāgiyū śatrugaḷannu dahisuvavanāgiyū iddīyè*) (you are shining everywhere and a burner of enemies). त्वं—नीनु (*tvaṃ—nīnu*) (you). अद्भ्यः—उदकगळिंदलू (*adbhyaḥ—udakagaḷiṃdalū*) (from the waters). अश्मनः परि--पाषाणगळिंदलू उत्पन्ननागुत्तीयॆ (*aśmanaḥ pari--pāṣāṇagaḷiṃdalū utpannanāguttīyè*) (from the stones you are born). त्वं—नीनु (*tvaṃ—nīnu*) (you). वनेभ्यः—वृक्षादिगळिंद दावानलरूपनागियू (*vanebhyaḥ—vṛkṣādigaḷiṃda dāvānalarūpanāgiyū*) (from trees and the like, in the form of forest fire). त्वं—नीनु (*tvaṃ—nīnu*) (you). ओषधीभ्यः— ओषधिगळिंद वैश्वानररूपदल्लियू उत्पन्ननागुत्तीयॆ (*oṣadhībhyaḥ— oṣadhigaḷiṃda vaiśvānararūpadalliyū utpannanāguttīyè*) (from herbs, in the form of Vaiśvānara). त्वं—नीनु (*tvaṃ—nīnu*) (you). शुचिः—पवित्रात्मनू प्रकाशमाननू आदआदित्यरूपनू आगिद्दीयॆ (*śuciḥ—pavitrātmanū prakāśamānanū ādaādityarūpanū āgiddīyè*) (the pure, shining one, of the form of the sun).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, lord and protector of men, you are born on the days of sacrifice, for the sake of the sacrifice. You are shining everywhere and a burner of enemies. You are born from the waters and from the stones. You are born from trees and the like in the form of forest fire, and from herbs in the form of Vaiśvānara. You are pure and shining, of the form of the sun.
+
+### Printed p. 381
+
+*Running head (as supplied): [अ. २. अ. ५. व. १७.] ऋग्वेदसंहिता 381 (*[a. 2. a. 5. va. 17.] ṛgvedasaṃhitā 381*).*
+
+**Printed English translation**
+
+Sovereign of men, Agni, you are born for the days (of sacrifice), pure and all-irradiating, from the waters, from the stones, from trees, and from plants.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1)**
+
+In the first ṛk of this first sūkta, seen by the sage Gṛtsamada, the various modes of the origin of Agni are described. We shall explain those modes of origin minutely.
+
+त्वं अग्ने नृणां नृपते (*tvaṃ agne nṛṇāṃ nṛpate*): by these words the sage addresses Agni. We have described at length the etymology and the various meanings of the word *agni* in ऋ. सं. भाग १ पेजु 612-614 (*ṛ. saṃ. bhāga 1 peju 612-614*). Here we shall explain only what the bhāṣyakāra has said, अग्रणीत्वादिगुणविशिष्ट (*agraṇītvādiguṇaviśiṣṭa*). Yāska says in his Nirukta:
+
+अग्निः कस्मादग्रणीर्भवत्यग्रं यज्ञेषु प्रणीयतेङ्गं नयति । (*agniḥ kasmādagraṇīrbhavatyagraṃ yajñeṣu praṇīyateṅgaṃ nayati |*)
+(सि. ७-१४-) (*(si. 7-14-)*)
+
+(The reference is printed सि. ७-१४- (*si. 7-14-*), as supplied.) In sacrifices and the like Agni has the first place; that is, since the word *agra* denotes the principal, the principal place among the gods befits Agni. In sacrifices, as soon as Agni is produced in the fire-sticks (अरणि (*araṇi*)), they place it in the fire-pit called आहवनीय (*āhavanīya*). From there they carry it to the fire-pit called गार्हपत्य (*gārhapatya*). Therefore Agni has the name अग्रणीः (*agraṇīḥ*). Or *agraṇīḥ* means one who himself leads the army of the gods, or one who is the leader of the army of the gods (नायक or Leader (*nāyaka or Leader*)). This is the first reason for the name of the word *agni*. Besides, in another Brāhmaṇa it is said अग्निर्दॆवानां सेनानीः (*agnirdèvānāṃ senānīḥ*). Following this, the students of the Ṛgveda recite in their Mantra-Brāhmaṇa अग्निर्मुखं प्रथमो देवतानां (*agnirmukhaṃ prathamo devatānāṃ*) (ऐ. ब्रा. १-४ (*ai. brā. 1-4*)). In another part of the Aitareya Brāhmaṇa it says अग्निर्वैदेवानामवमः (*agnirvaidevānāmavamaḥ*) (ऐ. ब्रा. १-१-१ (*ai. brā. 1-1-1*)). In the Taittirīya Brāhmaṇa too there is अग्निरग्रे प्रथमो देवतानां (*agniragre prathamo devatānāṃ*) (तै. ब्रा. २-४-३-३ (*tai. brā. 2-4-3-3*)) and अग्निरवमो देवतानां (*agniravamo devatānāṃ*). From these examples it follows that Agni is the first among the gods, the one in the foremost place, the leader, the chief. In the Śukla Yajurveda (वा. सं (*vā. saṃ*)) it is said स वा एषोऽग्रे देवतानामजायत तस्मादग्निर्नामेति (*sa vā eṣo 'gre devatānāmajāyata tasmādagnirnāmeti*), that is, this Agni was born first among all the gods, and therefore he has the name Agni.
+
+नृणां नृपते—मनुष्याणां मध्ये ये नराः यष्टारः संति तेषां विशेषेण पालयितः । यद्वोभाभ्यां पदाभ्यां बहुत्वं नित्यस्वामित्वं च प्रतिपाद्यते । सर्वेषा मपि नराणां नित्यपालकेत्यर्थः (*nṛṇāṃ nṛpate—manuṣyāṇāṃ madhye ye narāḥ yaṣṭāraḥ saṃti teṣāṃ viśeṣeṇa pālayitaḥ | yadvobhābhyāṃ padābhyāṃ bahutvaṃ nityasvāmitvaṃ ca pratipādyate | sarveṣā mapi narāṇāṃ nityapālaketyarthaḥ*): that is, among men, those who perform sacrifices, such sacrificers (the sentence continues on the next page)
+
+### Printed p. 382
+
+*Running head (as supplied): [382 सायणभाष्यसहिता [मं. २. अ. १. सू.] (*[382 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū.]*).*
+
+...are protected; it means, O Agni who protects them; or, since the two words *nṛṇām nṛpate* both indicate lordship over many people, the main purport is that this Agni is the protector of all people at all times.
+
+त्वमग्ने द्युभिः—यागदिवसैर्निमित्तभूतैर्जायसे । यागार्थं मथनेनो- त्पद्यस इत्यर्थः । यद्वा तादृशैर्दिवसैः सहितो जायसे । तत्तद्यागदिवसेषु प्रसिद्धो भवसीत्यर्थः (*tvamagne dyubhiḥ—yāgadivasairnimittabhūtairjāyase | yāgārthaṃ mathaneno- tpadyasa ityarthaḥ | yadvā tādṛśairdivasaiḥ sahito jāyase | tattadyāgadivaseṣu prasiddho bhavasītyarthaḥ*): O Agni, you are born on the days of the sacrifice; that is, for the sake of the sacrifice (the sacrifice is by Agni itself) you are born by the churning of fire in the fire-sticks; or, on those days of sacrifice, that is, on the days of the sacrifice performed by the sacrificers, you are born together with those days, that is, famous: this too is the meaning.
+
+त्वमाशुशुक्षणि: (*tvamāśuśukṣaṇi:*): the bhāṣyakāra, explaining the meaning of this word, says त्वमाशुशुक्षणिर्जायसे। आ सर्वतो दीप्यमानो भवसि । आज्युपपदे शुच दीप्तानित्येतस्य छांदसमिदं रूपं। यद्वा। आशु शीघ्रं शुच् दीप्तः सन् यतः स सेव्यत इति । आशु शुचं शोकं सनोति ददाति शत्रुभ्यो दाहादिनेत्याशुशुक्षणिः । तादृशो भवति (*tvamāśuśukṣaṇirjāyase| ā sarvato dīpyamāno bhavasi | ājyupapade śuca dīptānityetasya chāṃdasamidaṃ rūpaṃ| yadvā| āśu śīghraṃ śuc dīptaḥ san yataḥ sa sevyata iti | āśu śucaṃ śokaṃ sanoti dadāti śatrubhyo dāhādinetyāśuśukṣaṇiḥ | tādṛśo bhavati*). That is, O Agni, you shine all around. From the root शुच् (*śuc*), which gives the sense "shine", the prefix आ (*ā*) joined, the form *āśuśukṣaṇiḥ* results. Or *āśu* is quickly, *śuc* is shining, *kṣaṇi* is being served; or, by your power of burning, you quickly (*āśu*) give (*sanoti*) grief (*śucam*) to enemies; therefore Agni has the name *āśuśukṣaṇiḥ*: thus the meaning of this word is explained. Yāska, to explain the meaning of this word, has taken the very ṛk as the example and has given its etymology:
+
+त्वमग्ने द्युभिरहोभिस्तृमाशुशुक्षणिः । आशु इति च शु इति च क्षिप्रनामनी (*tvamagne dyubhirahobhistṛmāśuśukṣaṇiḥ | āśu iti ca śu iti ca kṣipranāmanī*)
+भवतः। क्षणिरुत्तरः क्षणोतेः आशु शुचा क्षणोतीति वा सनोतीति वा ॥ शुक् (*bhavataḥ| kṣaṇiruttaraḥ kṣaṇoteḥ āśu śucā kṣaṇotīti vā sanotīti vā ‖ śuk*)
+शोचतेः । पंचम्यर्थे वा प्रथमा । तथा हि वाक्संयोग आ इत्याकार (*śocateḥ | paṃcamyarthe vā prathamā | tathā hi vāksaṃyoga ā ityākāra*)
+उपसर्गः पुरस्ताच्चिकीर्षितज उत्तर आशु शोचयिषुरिति । शुचिः शोचते- (*upasargaḥ purastāccikīrṣitaja uttara āśu śocayiṣuriti | śuciḥ śocate-*)
+र्ज्वलतिकर्मणः । आयमपीतरः शुचिरेतस्मादेव । निष्पिक्तमस्मात् पापक- (*rjvalatikarmaṇaḥ | āyamapītaraḥ śuciretasmādeva | niṣpiktamasmāt pāpaka-*)
+मिति नैरुक्ताः ॥ (*miti nairuktāḥ ‖*)
+(नि. ६-१) (*(ni. 6-1)*)
+
+That is: आशु मत्तु शु (*āśu mattu śu*) are *kṣipra* names (names with the meaning "quickly"). The word क्षणः (*kṣaṇaḥ*) is formed from the root क्षणोति (*kṣaṇoti*), which indicates injury; or it may be formed from the root सनेति (*saneti*), meaning "obtain". The syllable शु (*śu*) in the middle is a synonym of the word शुचि (*śuci*), which gives the meaning "shine". Therefore *āśuśukṣaṇiḥ* means that Agni, by his lustre, quickly... (the supplied text ends here, in the middle of the sentence, at जाग्रतॆ (*jāgratè*)).
+
 ---
 
-**Progress note:** Done through printed p. 379 (PDF 379). Mandala 2 introduction complete; Sukta 1 of Mandala 2: introduction, Anuvada, heading lines, Rik 1 Samhita and Pada
+**Progress note:** Done through printed p. 382 (PDF 382). Mandala 2 Sukta 1 Rik 1: bhashya, Pratipadartha, Bhavartha, printed English; Special Topics begun (agrani, nrnam nrpate, dyubhih, ashushukshani with the Nirukta quotation) and broken off mid-sentence
