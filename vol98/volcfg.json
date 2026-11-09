@@ -1,0 +1,22 @@
+{
+ "vol": 98,
+ "mandala": 1,
+ "branch": "claude/vol14-p1-500",
+ "source": [
+  "vol14/html/rig_14_1_2.md@2-232",
+  "vol14/html/rig_14_1_1.md@233-500"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol98/Rigveda_Samhita_Vol98_Kannada_Text.md",
+  "en": "vol98/Rigveda_Samhita_Vol98_English_Translation.md"
+ },
+ "work": "vol98/work",
+ "window": 3
+}
