@@ -11171,6 +11171,91 @@ That is: although Gṛtsamada, the sage of the sūkta beginning त्वमग�
 
 In the Mahābhārata there is a different history about this sage. According to the history in the Anuśāsana Parva of the Mahābhārata, King Vītahavya of the Haihaya country had a son. Because of the harassment by his enemy, Pratardana, the king of the country of Kāśī, Vītahavya gave up his kingdom, became an exile, wandered about and took shelter in the hermitage of the sage Bhṛgu. Angered by this, King Pratardana of Kāśī demanded by force that the kṣatriyas who were in the hermitage of Bhṛgu be handed over to him; then the sage Bhṛgu, not willing to give up the king who had sought refuge, said that there was no kṣatriya in his hermitage. Because he said so, so that the word of the sage Bhṛgu might not become untrue, Vītahavya became a brāhmaṇa. His son Gṛtsamada became a famous sage and became the seer of the second maṇḍala of the Ṛgveda (the supplied text ends here, at the end of the window).
 
+### Printed p. 377
+
+*Running head (as supplied): [आ. २. अ. ५. व. १७] ऋग्वेदसंहिता 377 (*[ā. 2. a. 5. va. 17] ṛgvedasaṃhitā 377*), as printed.*
+
+*(Continuation of the introduction to the second maṇḍala, in the history of the sage Gṛtsamada.)*
+
+In the Mahābhārata, in another place: when the war of the gods and the asuras took place and the gods were defeated, Indra disappeared into a secret place; while the asuras were lying in wait to kill him, Gṛtsamada took on the disguise of Indra, deceived the asuras, and thereby helped Indra to escape; so it is said. Besides, in the holy place called Naimiṣāraṇya, when the sages were performing for twelve years a sacrificial session (*satra*) and were passing the time hearing the Purāṇas and good stories from the Sūta-Paurāṇika named Lomaharṣaṇa, the name of Gṛtsamada is mentioned among that company of sages. But it is not clear whether he is the very Gṛtsamada who is the seer of this maṇḍala, or another sage with the name Gṛtsamada. And it is also known that in the branches (*śākhās*) of the Atharvaveda Gṛtsamada is one of the founders of a branch. The bhāṣyakāra Sāyaṇa has indicated this matter here and there.
+
+In the first sūkta of this maṇḍala, seen by the sage Gṛtsamada, there are १६ (*16*) ṛks. Except for the one last ṛk, a concluding one that prays for wishes, the remaining १५ (*15*) ṛks all begin with words that denote "you", such as त्वं त्वां (*tvaṃ tvāṃ*). Not only that, in many ṛks every pāda begins with the word for "you". Sūktas with such alliteration are many in the Ṛgveda. In the ३१ नॆय (*31 nèya*) sūkta of the first maṇḍala also, as in the present sūkta, many ṛks begin with the word त्वं (*tvaṃ*). In some sūktas all the ṛks begin with the word एतच्छ (*etaccha*) (as printed). In the sūktas ३, १५, २२, २७ २८, ३८ (*3, 15, 22, 27 28, 38*) and so on of the ninth maṇḍala every ṛk begins with the word एतच्छब्द (*etacchabda*) (as printed); in some sūktas, that is, in the ३७ ने (*37 ne*) sūkta of the ninth maṇḍala, every ṛk begins with the word तच्चशब्द (*taccaśabda*) (as printed), and in that with the word सः (*saḥ*). In the same maṇḍala, in the १४ नॆय (*14 nèya*) sūkta seen by the sage Gṛtsamada, every ṛk (except the last ṛk) begins with the word अध्वर्यवः (*adhvaryavaḥ*). And in the २५ नॆय (*25 nèya*) sūkta of this same maṇḍala the last pāda of every ṛk ends like a refrain with यंयं युजं कृणुते ब्रह्मणस्पतिः (*yaṃyaṃ yujaṃ kṛṇute brahmaṇaspatiḥ*). In this way mantras and sūktas bound by various kinds of alliteration have been composed with the aim of singing, and they also show the composing skill and eloquence of the sages. In the present maṇḍala too the sage Gṛtsamada has praised various deities with ṛks and sūktas full of various alliterations and of meaning. There is no need to say that all such mantras belong to the class of very mature poetry.
+
+*[A stray line of the supplied text, :0: (*:0:*), is kept as an italic note in the Kannada text.]*
+
+### Printed p. 378
+
+*Running head (as supplied): [378 सायणभाष्यसहिता [मं २. अ. १. सू. १] (*[378 sāyaṇabhāṣyasahitā [maṃ 2. a. 1. sū. 1]*).*
+
+#### Sūkta 1 (Maṇḍala 2)
+
+ऎरडनॆय मंडलदल्लि मॊदलनॆय सूक्तवु (*èraḍanèya maṃḍaladalli mòdalanèya sūktavu*) ("the first sūkta in the second maṇḍala").
+
+*[A stray line of the supplied text, :Q: (*:Q:*), is kept as an italic note in the Kannada text.]*
+
+**Sāyaṇa-bhāṣya** (introduction)
+
+> शतर्चिनां प्रथमं मंडलं व्याख्यातं । अथ गार्त्समदं द्वितीयं मंडलं
+> व्याख्यायते । त्वमग्ने द्युभिरित्यादिकं द्वितीयं मंडलं । चत्वारोऽनुवाकाः ।
+> तेषु प्रथमेऽनुवाक एकादश सूक्तानि । तत्र त्वमग्ने द्युभिरिति षोडशर्च० प्रथमं
+> सूक्तं । मंडलद्रष्टा गृत्समद ऋषिः । स च पूर्वमांगिरसकुले शुनहोत्रस्य पुत्रः
+> सन् यज्ञ कालेऽसुरैर्गृहीत इंद्रेण मोचितः । पश्चात्तद्वचनेनैव भृगुकुले शुनक-
+> पुत्रो गृत्समदनामाभूत् । तथा चानुक्रमणिका । य आंगिरसः शौनहोत्रो
+> भूत्वा भार्गवः शौनकोऽभवत्स गृत्समदो द्वितीयं मंडलमपश्यदिति । तथा तस्यॆव
+> शौनकस्य वचनमृष्यनुक्रमणे । त्वमग्न इति गृत्समदः शौनको बृगुतां गतः । शौन-
+> होत्रः प्रकृत्या तु य अंगिरस उच्यत इति । तस्मान्मंडलद्रष्टा शौनको गृत्समद
+> ऋषिः । जगती छंदः । मंडलादिपरिभाषयाग्नॆयं । अत्रानुक्रमणिका । त्वमग्ने
+> जागतं त्विति ॥ प्रातरनुवाकाशिनशस्त्रयोर्जागते छंदसीदमादिसूक्तद्वयस्य विनि-
+> योगः । त्वमग्ने द्युभिरिति सूक्ते । आ. ४-१३ । इति सूत्रितत्वात् ॥ उपाकरणोत्सर्ज-
+> नयोरप्याद्या विनियुक्ता ॥
+
+*Gist:* The second maṇḍala, of Gṛtsamada, has four anuvākas; the first has eleven sūktas; the first sūkta has sixteen ṛks, to Agni, in Jagatī metre.
+
+**Anuvāda (Kannada)** of Sāyaṇa's introduction to Sūkta 1 of Maṇḍala 2. The first maṇḍala, seen by the sages called शतर्चिनरॆंब (*śatarcinarèṃba*) (the word printed), has been explained; now the second maṇḍala, seen by the sage Gṛtsamada, is explained. The second maṇḍala begins with the sūkta त्वमग्नेद्युभिः (*tvamagnedyubhiḥ*) (as printed). In this maṇḍala there are four anuvākas. Among them, in the first anuvāka there are eleven sūktas; among those sūktas, त्वमग्ने म्यभिः (*tvamagne myabhiḥ*) (as printed, a misreading of the same words) is the first sūkta. It has sixteen ṛks. Gṛtsamada, the seer of the maṇḍala, is the sage of this sūkta; this sage Gṛtsamada, first born as the son of Śunahotra in the Aṅgiras family, was once, while performing a sacrifice, carried off by asuras and then rescued by Indra. Afterwards, according to Indra's word, he became the son of the sage named Śunaka in the Bhṛgu family and famous by the name Gṛtsamada. In the Anukramaṇikā:
+
+य अंगिरसः शौनहोत्रो भूत्वा भार्गवः शौनकोऽभवत्स गृत्समदो द्वितीयं मंडलमपश्यदिति (*ya aṃgirasaḥ śaunahotro bhūtvā bhārgavaḥ śaunako 'bhavatsa gṛtsamado dvitīyaṃ maṃḍalamapaśyaditi*);
+
+that is, the son of Śunahotra of the Aṅgiras gotra became, as the son of the sage named Śunaka born in the Bhṛgu family, one named Gṛtsamada. This Gṛtsamada is the seer of the second maṇḍala of the Ṛgveda, it is said. And in the Anukramaṇikā too the word of its author, Śaunaka, is as follows:
+
+त्वमग्न इति गृत्समदः शौनको भृगुतां गतः । (*tvamagna iti gṛtsamadaḥ śaunako bhṛgutāṃ gataḥ |*)
+शौनहोत्रः प्रकृत्या तु य आंगीरस उच्यत इति ॥ (*śaunahotraḥ prakṛtyā tu ya āṃgīrasa ucyata iti ‖*)
+
+### Printed p. 379
+
+*Running head (as supplied): [आ २. आ ५. व. १७. ] ऋग्वेदसंहिता 379 (*[ā 2. ā 5. va. 17. ] ṛgvedasaṃhitā 379*), as printed.*
+
+The sage Gṛtsamada, who was first the son of Śunahotra of the Āṅgirasa gotra and afterwards the son of Śunaka of the Bhṛgu family, is the seer of this second maṇḍala that begins with त्वमग्ने (*tvamagne*). Therefore the sage Gṛtsamada, the son of Śunaka, is the seer of the maṇḍala. The deity of the sūkta त्वमग्ने (*tvamagne*) is Agni; the metre is Jagatī. In the Anukramaṇikā it is said त्वमग्ने जागतं तु (*tvamagne jāgataṃ tu*). That at the time of reciting the morning anuvāka and the mantras of the Āśvina śastra this sūkta and the next sūkta are used for the ṛks of Jagatī metre is explained by the Āśvalāyana Śrauta Sūtra in the sūtra त्वमग्ने द्युभिरिति सूक्ते (*tvamagne dyubhiriti sūkte*) (आ. ४-१३ (*ā. 4-13*)); and that in the rites of Adhyāyopākarma and Utsarjana the first ṛk of this sūkta is used has been told in the Anuvāda of the previous sūkta itself.
+
+**Sūkta 1 — heading lines (printed as plain lines)**
+
+॥ ओं ॥ (*‖ oṃ ‖*)
+सूक्त-१ (*sūkta-1*)
+॥ मंडल-२ ॥ अनुवाक-१ ॥ सूक्त-१ ॥ (*‖ maṃḍala-2 ‖ anuvāka-1 ‖ sūkta-1 ‖*)
+॥ अष्टक-२ ॥ अध्याय-५ ॥ वर्ग-१७, १८, १९ ॥ (*‖ aṣṭaka-2 ‖ adhyāya-5 ‖ varga-17, 18, 19 ‖*)
+॥ सूक्तदल्लिरुव ऋक्संख्यॆ-१६ ॥ (*‖ sūktadalliruva ṛksaṃkhyè-16 ‖*)
+ऋषिः-गृत्समद अंगिरसः शौनहोत्रः पश्चाद्भार्गवः शौनकः । (*ṛṣiḥ-gṛtsamada aṃgirasaḥ śaunahotraḥ paścādbhārgavaḥ śaunakaḥ |*)
+देवता-अग्निः ॥ (*devatā-agniḥ ‖*)
+छंदः-जगती । (*chaṃdaḥ-jagatī |*)
+
+(Sense: Om; sūkta 1; maṇḍala 2, anuvāka 1; aṣṭaka 2, adhyāya 5, varga 17, 18, 19; the number of ṛks in the sūkta, sixteen; seer Gṛtsamada Aṅgirasa Śaunahotra, afterwards Bhārgava Śaunaka; deity Agni; metre Jagatī.)
+
+*[As supplied, the label line of the Saṃhitā reads संध तापार (*saṃdha tāpāra*); standard label inserted.]*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्ने॒ द्युभि॒स्त्वमा॑शुशु॒क्षणि॒स्त्वम॒द्भ्यस्त्वमश्म॑न॒स्परि॑ ।
+> त्वं वने॑भ्य॒स्त्वमोष॑धीभ्य॒स्त्वं नृ॒णां नृ॑पते जायसे॒ शुचिः॑
+> ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । द्युभिः । त्वं । आशुशुक्षणिः । त्वं । अत्‌भ्यः । त्वं । अश्मनः । परि ।
+> त्वं । वनेभ्यः । त्वं । ओषधीभ्यः । त्वं । नृणां । नृपते । जायसे । शुचिः ॥ १ ॥
+
+*(The bhāṣya of Ṛk 1 follows in the next window; the supplied text ends here.)*
+
 ---
 
-**Progress note:** Done through printed p. 376 (PDF 376). Sukta 191 and Mandala 1 complete (colophon block); Mandala 2 begun: opening lines and the introduction through the history of the sage Gritsamada
+**Progress note:** Done through printed p. 379 (PDF 379). Mandala 2 introduction complete; Sukta 1 of Mandala 2: introduction, Anuvada, heading lines, Rik 1 Samhita and Pada
