@@ -2966,6 +2966,114 @@ In this ṛk the ṛṣi prays to the gods that all the acts of protection and t
 
 पितः मातः (*pitaḥ mātaḥ*) — as in the previous ṛk, in this ṛk also he prays to Heaven and Earth, with devotion, by the respectful and natural words पितः मातः (*pitaḥ mātaḥ*) (parents).
 
+### Printed p. 99
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 99 (as supplied, "ವ ೪"). The window begins in the Special Topics of Ṛk 11 of Sūkta 185, continuing from p. 98; these first lines (from "ಯತ್ ಇಹ ಉಪಬ್ರುವೇ") are new text, not yet translated.*
+
+यत् इह उपब्रुवे वां इदं (*yat iha upabruve vāṃ idaṃ*) ("May this, which I speak here to you both, be true") — "O gods, may this praise which I, approaching you, recite in your honour bring a true fruit": thus he has plainly stated the devotion in his mind and his desire.
+
+देवानां—ई (*devānāṃ—ī*) — for this word Sāyaṇa has taken the sense स्तोतृणामस्माकं-स्तोत्रमाडुत्तिरुव (*stotṛṇāmasmākaṃ-stotramāḍuttiruva*) ("of us who are praising, the sacrificers and the rest").
+
+अवमे-तळित्, (*avame-taḷit,*) — among the eleven words for "near", such as अवमे-तळित्, (*avame-taḷit,*) and असात्—मॊदलाद (*asāt—mòdalāda*), the word अवमे (*avame*) is read, so this word means "near" ((नि. ३-९) (*(ni. 3-9)*)).
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+द्यावापृथिवी—द्यौश्च (*dyāvāpṛthivī—dyauśca*) ("Heaven and Earth"): by दिवोद्यावा (*divodyāvā*) the substitute *dyāvā*. When a dual ending in the vocative follows, by सुपां सुलुक्—(पा सू ७-१-२९) (*supāṃ suluk—(pā sū 7-1-29)*) (Pā. Sū. 7-1-29) lengthening to the preceding class vowel; by आ मंत्रितस्य च (पा. सू ८-१-१९) (*ā maṃtritasya ca (pā. sū 8-1-19)*) (Pā. Sū. 8-1-19) the *nighāta* accent arises. सत्यम्—सत्सु (*satyam—satsu*) ("good among the good"): by सत्यादशपथे (पा सू- ५-४-६६) (*satyādaśapathe (pā sū- 5-4-66)*) (Pā. Sū. 5-4-66) irregularly formed with the last syllable acute. उपब्रुवे—ब्रूञ् (*upabruve—brūñ*) (root उपब्रुवे—ब्रूञ् (*upabruve—brūñ*) "to speak clearly"): imperative, first person singular; by यद्वृत्तानित्यम् (पा. सू. ८-१-६६) (*yadvṛttānityam (pā. sū. 8-1-66)*) (Pā. Sū. 8-1-66) the prohibition of the *nighāta* accent arises, so by the suffix accent the last syllable is acute; by तिजिचोदात्तवति (पा. सू. ८-१-७१) (*tijicodāttavati (pā. sū. 8-1-71)*) (Pā. Sū. 8-1-71) the preverb (*upa*) is wholly unaccented. भूतम्—भू (*bhūtam—bhū*) (root भूतम्—भू (*bhūtam—bhū*) "to be"): imperative, second person dual, the substitute *tam*; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) the loss of the thematic suffix; by भूसुवोस्तिजि (पा. सू. ७-३-८८) (*bhūsuvostiji (pā. sū. 7-3-88)*) (Pā. Sū. 7-3-88) the prohibition of guṇa; because it stands at the beginning of the pāda there is no *nighāta*; by the suffix accent the last syllable is acute.
+
+**Sūkta 186: Sāyaṇa's introduction** (Sanskrit, transcribed)
+
+नूर ऎंभत्तारनॆय सूक्तवु. (*nūra èṃbhattāranèya sūktavu.*)
+
+> आ न इळाभिरिति सप्तमं सूक्तमेकादशर्चमागस्त्यं त्रैष्टुभं वैश्वदेवं ।
+> आ नो वैश्वदेवमित्यनुक्रांतं ॥ विनियोगो लैंगिकः ॥
+
+*Gist:* *ā na iḷābhiḥ* is the seventh sūkta of Anuvāka 24, of eleven ṛks, by Agastya, to the Viśve Devāḥ, in *triṣṭubh*; its use (*viniyoga*) is *laiṅgika*.
+
+**Anuvāda (Kannada).** The sūkta beginning with अनुवादवु—आ न इळाभिः ऎंब (*anuvādavu—ā na iḷābhiḥ èṃba*) is the seventh sūkta in the twenty-fourth anuvāka. It has eleven ṛks. Agastya is the seer of this sūkta; the Viśve Devāḥ are the deity; the metre is *triṣṭubh*. The Anukramaṇikā says अनुक्रमणिकॆयल्लि—आ नो वैश्वदेवं (*anukramaṇikèyalli—ā no vaiśvadevaṃ*) ("*ā no vaiśvadevam*"). The use of this sūkta is *laiṅgika* (by the indications of the text).
+
+### Printed p. 100
+
+*Running head: [100 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+॥ ओं ॥ (*‖ oṃ ‖*) (*Oṃ*)
+**Sūkta—186** (printed सूक्त—१८६ (*sūkta—186*))
+
+Maṇḍala 1 ‖ Anuvāka 24 ‖ Sūkta 186 ‖
+Aṣṭaka 2 ‖ Adhyāya 5 ‖ Varga 4-5 [as printed] ‖
+Number of ṛks in the Sūkta: 11 ·
+Ṛṣi: Agastya · Devatā: Viśve Devāḥ · Chandas: *triṣṭubh*.
+
+*[The supplied text prints an apostrophe-like mark before each of the last four heading lines; kept as supplied.]*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> आ न॒ इळा॑भिर्वि॒दथे॑ सुश॒स्ति वि॒श्वान॑रः सवि॒ता दे॒व ए॑तु ।
+> अपि॒ यथा॑ युवानो॒ मत्स॑था नो॒ विश्वं॒ जग॑दभिपि॒त्वे म॑नी॒षा ॥ १ ॥
+
+> *ā na iḷābhirvidathe suśasti viśvānaraḥ savitā deva etu |*
+> *api yathā yuvāno matsathā no viśvaṃ jagadabhipitve manīṣā ‖ 1 ‖*
+
+*[As supplied, the label line of the next section reads हडहारः (*haḍahāraḥ*) (inside the Saṃhitā block); standard label inserted. The Saṃhitā lines were joined.]*
+
+**॥ पदपाठः ॥**
+
+> आ । नः । इळाभिः । विदथे । सुशस्ति । विश्वानरः । सविता । देवः । एतु ।
+> अपि । यथा । युवानः । मत्सथ । नः । विश्वं । जगत् । अभिपित्वे । मनीषा ॥ १ ॥
+
+> *ā | naḥ | iḷābhiḥ | vidathe | suśasti | viśvānaraḥ | savitā | devaḥ | etu |*
+> *api | yathā | yuvānaḥ | matsatha | naḥ | viśvaṃ | jagat | abhipitve | manīṣā ‖ 1 ‖*
+
+*[As supplied, the label line of the next section reads सायुणभाष्यं (*sāyuṇabhāṣyaṃ*) (inside the Pada block); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> नो विदथेऽस्मदीये यज्ञे सुशस्ति ॥ सुपो लुक् ॥ सुशस्तिभिः शोभन-
+> शंसनैः स्तुतिभिः प्रदेयै रत्नैः सह । यद्वा । इळाभिः । तदाश्रितेषु ताच्छब्दं । भूमि-
+> स्थानाभिर्देवताभिः सह । विश्वानरः सर्वप्राणिहितकार्यग्निः सविता प्रेरक आदित्यश्च
+> देव एतु । आगच्छतु । हे युवानो नित्यतरुणा यज्ञस्य मिश्रयितारो वा यूयं
+> नोऽस्मानभिपित्वेऽभिपतनीयेऽस्मद्यज्ञॆ मनीषा मनीषया मनस ईशितृत्वेन ।
+> स्वच्छयेत्यर्थः । अपिः संभावनायां । अप्यस्मान्मत्सथ । मादयथ । यथा विश्वं
+> जगत् । एतत्सा वरस्याप्युपलक्षणं । यद्वा । कृत्स्नं प्रपंचं मत्सथ तथास्मानपि ।
+> यद्वा । जगच्छब्दो यजमानरूपमनुष्यवाची । सर्वानपि यजमानान्यथा मत्सथ
+> तथेत्यर्थः ॥
+
+*Gist:* May Viśvānara Agni and Savitṛ come to our sacrifice with the earth-deities and with fine praises and gifts; you gods, delight us as you delight the whole world.
+
+### Printed p. 101
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 101 (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विश्वानरः (*viśvānaraḥ*) — Agni, beneficent to the whole world. सविता देवः (*savitā devaḥ*) — and the divine Savitṛ. इळाभिः (*iḷābhiḥ*) — together with the earth-deities. नः विदथे (*naḥ vidathe*) — to this our sacrifice. सुशस्ति (*suśasti*) — with excellent gifts. एतु (*etu*) — may (he) come. युवानः (*yuvānaḥ*) — O ever-young Viśve Devāḥ. अभिपित्वे (*abhipitve*) — at the sacrifice being performed forthwith. मनीषा (*manīṣā*) — by your own pleasure. यथा विश्वं (*yathā viśvaṃ*) — as (you gladden) जगत् (*jagat*) the whole world, or all the sacrificers. नः अपि (*naḥ api*) — us too. मत्सथ (*matsatha*) — gladden.
+
+*[As supplied, the label line of the next section reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+May Agni, beneficent to the whole world, and the divine Savitṛ come, together with the earth-deities, to this our sacrifice with excellent gifts. O ever-young Viśve Devāḥ, at the sacrifice being performed forthwith, gladden us also by your own pleasure, as you gladden all the sacrificers.
+
+**Printed English translation**
+
+May the divine Savitri, the benefactor of all men, come benignantly to our solemniy [sic], togther [sic] with the divinities of earth, and do you, who are (always) young, willingly present at our sacrifice, lexhilarate [sic] us, as (you exhilarate) the whole world.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*[The words discussed below do not occur in the Saṃhitā of Ṛk 1 given above; they are translated as supplied.]*
+
+सजोषाः—जुषी (*sajoṣāḥ—juṣī*) — for this word, derived from the root सजोषाः—जुषी (*sajoṣāḥ—juṣī*) ("*juṣ*", in the senses of pleasure and service), Yāska in his Nirukta, having quoted the ṛk
+
+अजुह्वान ईड्यो वंद्यश्चायाह्यग्ने वसुभिः सजोषाः । (*ajuhvāna īḍyo vaṃdyaścāyāhyagne vasubhiḥ sajoṣāḥ |*)
+त्वं देवनामसि यह्व होता स एनान् यक्षीषितो यजीयान् ॥ (*tvaṃ devanāmasi yahva hotā sa enān yakṣīṣito yajīyān ‖*)
+
+((म. सं. १०-११०-३) (*(ma. saṃ. 10-110-3)*), as printed; the book prints "ಮ. ಸಂ.")
+
+explains: सजोषाः-सह जोषणः (समानप्रीतिर्भूत्वा) (*sajoṣāḥ-saha joṣaṇaḥ (samānaprītirbhūtvā)*), that is, "being of equal pleasure"; this is his explanation of the meaning.
+
+शवः— (*śavaḥ—*) — the word शवः (*śavaḥ*) is said among the names of water ((नि. २-२४) (*(ni. 2-24)*)) and among the names of strength ((नि. ३-९) (*(ni. 3-9)*)); so शवः (*śavaḥ*) means "strength". Here the bhāṣyakāra has taken it as food that produces strength (nourishing).
+
 ---
 
-**Progress note:** Done through printed p. 97 (PDF 97). Done through printed p. 97, plus the text of printed p. 98 included in the supplied window (Sukta 185 Rk 11 through its Special Topics; no p. 98 page marker in the supplied text)
+**Progress note:** Done through printed p. 101 (PDF 101). Done through printed p. 101 (Sukta 185 complete; Sukta 186 Rk 1 with Special Topics begun, incomplete at end of p. 101)
