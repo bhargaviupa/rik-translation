@@ -14711,6 +14711,92 @@ The Agni who pervades the various regions and spreads in many ways, who pervades
 
 *(The supplied text ends here, at the end of the Bhāvārtha of Ṛk 7 on p. 484; the printed English follows in the next window.)*
 
+### Printed p. 485
+
+*Running head (as supplied): [अ. २. अ. ५. व. २५. ] ऋग्वेदसंहिता 485 (*[a. 2. a. 5. va. 25. ] ṛgvedasaṃhitā 485*).*
+
+*(Continuation of Ṛk 7 of Sūkta 4 of Maṇḍala 2: its printed English and Special Topics follow the Bhāvārtha of the previous page.)*
+
+**Printed English translation**
+
+He who is in many places ; who spreads over the whole earth, like an animal without a herdsman, that goes according to its own will, Agni, the bright-shining, consuming the dry-bushes, by whom the pain of blackness (is inflicted on the trees), entirely drinks up (their moisture).
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 7)**
+
+When Agni pervades the forest and burns it, व्यस्थात् विविधं विश्वं व्याप्ोति (*vyasthāt vividhaṃ viśvaṃ vyāpoti*) (as printed): he pervades the whole forest in many ways, leaving not a bit; and उर्विं अभिदक्षत्—विस्त्रतां पृथिवीं सर्वां अभिमुख्येन प्रवर्धमानो भवति । (*urviṃ abhidakṣat—vistratāṃ pṛthivīṃ sarvāṃ abhimukhyena pravardhamāno bhavati |*) (a line-end hyphen inside it is joined): it is described that he not only pervades all the trees and herbs in the forest, but spreads over the wide forest land so that no one else has any chance to enter it. In regard to this Agni's spreading and ranging of his own accord in the forests, the comparison with an animal is stated: पशुर्न स्वयुः अगोपाः एति—जातः पशुः यथा स्वच्छंदेन चरति तथा स्वयमेव गच्छ् निर्यामकवर्जितो गच्छति । (*paśurna svayuḥ agopāḥ eti—jātaḥ paśuḥ yathā svacchaṃdena carati tathā svayameva gacch niryāmakavarjito gacchati |*) (as printed). It is explained that as an animal born and growing in the forest (such as an elephant) is not subject to anyone else and lives by moving as it wishes, so Agni, born in the forest, grows by his own free behaviour without coming under the control of those who keep him in order.
+
+Here the comparison with an animal suits Agni very well. Animals such as tigers, lions and wild buffaloes, born and grown in the forest and subject to no one, range about, moving wherever they like. In the same way the forest fire, born in the forest itself (from the friction of trees), invades and burns the whole of the wide forest, and no one can stop it: this is the main purport.
+
+कृष्णव्यथिः भूम अस्वदयन्न आतसानि उष्णन् (*kṛṣṇavyathiḥ bhūma asvadayanna ātasāni uṣṇan*)—कृष्णवर्णं प्राप्ताः दग्धाः वृथाकराः कंटकादयो येन (*kṛṣṇavarṇaṃ prāptāḥ dagdhāḥ vṛthākarāḥ kaṃṭakādayo yena*) (as printed): burning all the thorns and the like and making them black so that those who see them feel sorrow; वृक्षगर्ता रर्सा आस्वादयतीव (*vṛkṣagartā rarsā āsvādayatīva*) (as printed): sucking and consuming all the essential juices in the trees, like one who tastes them; संततानि नीरसानि वा तरुगुल्मादीनि दहन्नेति (*saṃtatāni nīrasāni vā tarugulmādīni dahanneti*): burning all the densely grown, juiceless (dried) trees and bushes, Agni pervades the forest and goes ever forward: thus it is described. Here, when Agni burns green trees, the juice in the trees dries up from Agni's heat and the tree is also burnt; its comparison to tasting the juice is also natural and full of meaning.
+
+### Printed p. 486
+
+*Running head (as supplied): [486 सायणभाष्यसहिता [ मं २. अ. १. सू ४] (*[486 sāyaṇabhāṣyasahitā [ maṃ 2. a. 1. sū 4]*).*
+
+#### Ṛk 8
+
+*[As supplied, the label line of the Saṃhitā reads संहितापार्श्व (*saṃhitāpārśva*); standard label inserted. The Saṃhitā, printed as plain lines, is given as a quoted block with its split line joined. Two readings of the Pada are marked with a query, as they differ from the Saṃhitā and the bhāṣya.]*
+
+**॥ संहितापाठः ॥**
+
+> नू ते॒ पूर्व॒स्याव॑सो॒ अधी॑तौ तृ॒तीये॑ वि॒दथे॒ मन्म॑ शंसि ।
+> अ॒स्मे अ॑ग्ने सं॒यद्वी॑रं बृ॒हंतं॑ क्षु॒मंतं॒ वाजं॑ स्वप॒त्यं र॒यिं दाः॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> नु । ते । पूर्वस्य । अवसः । अधिइत् [?] । तृतीये । विदथे । मन्म । शंसि ।
+> अस्मे इति । अग्ने । संयत्वीरं [?] । बृहंतं । क्षुमंतं । वाजं । सुअपत्यं ।
+> रयिं । दाः ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने ते तव संबंधिनः पूर्वस्य पूर्वं यागसमये कृतस्यावसोऽभि-
+> मततर्पणस्याधीतौ स्मरणे सति तत्सृत्या नु अद्यापि तृतीये विदथे यागे तृतीय-
+> सवने । यद्वा प्रातरनुवाकसंबंधिनामाग्नेयोषस्याश्विनानां मध्येऽन्यतमे
+> तृतीये क्रत् मौन्मननीयं स्तोत्रं शंसि । आशंसि । शस्यतेऽस्माभिः । हे अग्ने त्वं
+> चास्मे अस्मभ्यं संयद्वीरं संयतो वीरा यस्मिन् तादृशं बृहंतं महांतं
+> क्षुमंतं शब्दवंतं कीर्तिमंतं वाजमुक्तलक्षणमन्नं स्वपत्यं रयिं च दाः । देहि ॥
+
+*Gist:* Recalling past praises, we recite a hymn at the third pressing; Agni is asked to give us heroic, great, famous food, good offspring and wealth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). ते—निनगॆ संबंधिसिदुदू (*te—ninagè saṃbaṃdhisidudū*) (belonging to you). पूर्वस्य—हिंदिन सवनद कालदल्लि पठिसिदुदू (*pūrvasya—hiṃdina savanada kāladalli paṭhisidudū*) (recited at the time of the earlier pressing). अवसः—निनगॆ तृप्तियन्नुंटुमाडिदुदू आद (*avasaḥ—ninagè tṛptiyannuṃṭumāḍidudū āda*) (which gave you satisfaction). अधीतौ—स्तुतियन्नु अनुसरिसि (*adhītau—stutiyannu anusarisi*) (following the praise). नु—ईगलू कूड (*nu—īgalū kūḍa*) (even now). तृतीये विदथे—तृतीय सवनद कालदल्लि (*tṛtīye vidathe—tṛtīya savanada kāladalli*) (at the time of the third pressing). मन्म—मननीयवाद स्तुतियु (*manma—mananīyavāda stutiyu*) (a hymn worthy of reflection). शंसि—पठिसल्पडुत्तदॆ (*śaṃsi—paṭhisalpaḍuttadè*) (is recited). अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). अस्मे—नमगॆ (*asme—namagè*) (to us). संयद्वीरं—वीर रिंद कूडिदुदू (*saṃyadvīraṃ—vīra riṃda kūḍidudū*) (accompanied by heroes (the word is divided by a line break)). बृहंतं—महत्तादुदू (*bṛhaṃtaṃ—mahattādudū*) (great). क्षुमंतं—कीर्तियन्नु हरडतक्कद्दू आद (*kṣumaṃtaṃ—kīrtiyannu haraḍatakkaddū āda*) (spreading fame). वाजं—अन्नवन्नू (*vājaṃ—annavannū*) (food). स्वपत्यं—श्रेष्ठवाद संततियन्नू (*svapatyaṃ—śreṣṭhavāda saṃtatiyannū*) (excellent offspring). रयिं—धनवन्नु (*rayiṃ—dhanavannu*) (wealth). दाः—कॊडु (*dāḥ—kòḍu*) (give).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, following the praise which belongs to you, which was recited for you at the time of the earlier pressing and which gave you satisfaction, even now a hymn worthy of reflection is recited at the time of the third pressing (the sentence continues on the next page)
+
+### Printed p. 487
+
+*Running head (as supplied): [अ. २. अ. ५. व. २५. ] ऋग्वेदसंहिता 487 (*[a. 2. a. 5. va. 25. ] ṛgvedasaṃhitā 487*).*
+
+...O Agni, give us food that is accompanied by heroes, great and spreading fame, excellent offspring and wealth. (The print has a misprint for the word "recited" in the first part of the Bhāvārtha.)
+
+**Printed English translation**
+
+Verily your praise has been recited (by us) at the third (daily) sacrifice, as it was in the repetition of your first propitiation : give us, Agni, ample and notorious food, posterity, riches, such as may be the support of numerous dependants.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 8)**
+
+Addressing Agni: remembering the praises and the like pleasing to Agni that the sacrificers and priests have performed from the time the sacrifice began until now, तृतीये विदथे (*tṛtīye vidathe*)—at the third pressing; or यद्वा प्रातरनुवाकसंबंधिनां आग्नेयोषस्याश्विनानां मध्यॆ तृतीयक्रत् (*yadvā prātaranuvākasaṃbaṃdhināṃ āgneyoṣasyāśvinānāṃ madhyè tṛtīyakrat*) (as printed), at the time of performing sacrifices: among the three kinds of mantras connected with the morning anuvāka recited in the morning, अग्नेयक्रतु, उषस्य कत्तु आश्विनिक्रतु (*agneyakratu, uṣasya kattu āśvinikratu*) (as printed), the hymns and the like recited in the third, a different rite, are recited by us. The wish is expressed that Agni may listen to these hymns. From this it is described that the sacrificers pray: संयद्वीरं (*saṃyadvīraṃ*), sons who subdue heroes, बृहंतं क्षुमंतं वाजं (*bṛhaṃtaṃ kṣumaṃtaṃ vājaṃ*), abundant food, fame and wealth, may Agni grant.
+
+#### Ṛk 9
+
+*[The Saṃhitā lines are joined. One reading of the Pada is marked with a query, as it differs from the Saṃhitā.]*
+
+**॥ संहितापाठः ॥**
+
+> त्वया॒ यथा॑ गृत्सम॒दासो॑ अग्ने॒ गुहा॑ व॒न्वंत॒ उप॑रा अ॒भि ष्युः ।
+> सु॒वीरा॑सो अभिमाति॒षाहः॒ स्मत्सू॒रिभ्यो॑ गृण॒ते तद्वयो॑ धाः ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वया । यथा । गृत्समदासः । अग्ने । गुहा । वन्वंतः। उपरान् । अभि । स्युरिति स्युः ।
+> सुवीरासः । अभिमात्रिसहः [?] । स्मत् । सूरिभ्यः । गृणते । तत् । वयः । धाः । ॥ ९ ॥
+
+*(The supplied text ends here, after the Pada of Ṛk 9 on p. 487; the bhāṣya follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 484 (PDF 484). Mandala 2 Sukta 4 Rik 6 complete; Rik 7 through the Bhavartha; two readings marked with a query
+**Progress note:** Done through printed p. 487 (PDF 487). Mandala 2 Sukta 4 Rik 7 and Rik 8 complete; Rik 9 Samhita and Pada; three Pada readings marked with a query
