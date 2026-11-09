@@ -13574,7 +13574,7 @@ May these two universal monarchs, fed with clarified butter, sons of Aditi, lord
 धृतासुती (*dhṛtāsutī*)—धृतान्नौ । (*dhṛtānnau |*) Those who eat food mixed with ghee. In this matter the commentator cites as an example the passage
 
 तद्वां महित्वं धृतान्नावस्तु युवं दाशुषे वि चयिष्टमंहः ॥ (*tadvāṃ mahitvaṃ dhṛtānnāvastu yuvaṃ dāśuṣe vi cayiṣṭamaṃhaḥ ‖*)
-(Ṛ. Saṃ. [printed ಮ. ಸಂ. "Ma. Saṃ."] 6-67-8)
+(Ṛ. Saṃ. 6-67-8)
 
 ### Printed p. 421
 
