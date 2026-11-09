@@ -7979,6 +7979,107 @@ Its chief meaning: Agni, just born (that is, now established in the sacrifice), 
 
 In some Āprī sūktas the plural स्वाहाकृतयः (*svāhākṛtayaḥ*) is used. In this sūkta the eleven deities, the eleven *prayāja* mantras used in the offering (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 272
+
+*Running head: [272 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 188] (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 11 of Sūkta 188, on *svāhākṛti*.)*
+
+...mantras: because the *svāhā* is added in reciting them for all the eleven deities, the plural स्वाहाकृतयः (*svāhākṛtayaḥ*) is used.
+
+In the Purāṇas and elsewhere the word *svāhā* is used in another sense: in the Mahābhārata *Svāhā* is the name of the daughter of Bṛhaspati, son of the sage Aṅgiras; in the Purāṇas the goddess Svāhā is said to be the daughter of Dakṣa Prajāpati and the wife of Agni.
+
+स्वाहा इत्येवंपूर्वा कृतिः करणमुच्चारणं यक्ष्यमाणदेवतानां ताः स्वाहाकृतयः । तद्वंति हव्यानि (*svāhā ityevaṃpūrvā kṛtiḥ karaṇamuccāraṇaṃ yakṣyamāṇadevatānāṃ tāḥ svāhākṛtayaḥ | tadvaṃti havyāni*) — as an epithet of the word *havyāni* it means oblations accompanied by the mantra *svāhā* used for presenting the offering. It is a word chiefly recited in the last ṛks of the Āprī sūktas. In some ṛks it is also an adverbial: १-१३-१२ (*1-13-12*) has स्वाहा कृषोतन (*svāhā kṛṣotana*), १-१४-१२ (*1-14-12*) has स्वाहा कर्तन (*svāhā kartana*); in ३-४-११, ७-२-११ (*3-4-11, 7-2-11*) and १०-७०-११ (*10-70-11*) it is in the instrumental sense; in २-३-११ (*2-3-11*) it is an epithet of the oblation, and in १०-११०-११ (*10-110-11*) an epithet of *haviḥ*.
+
+In explaining this word, some have held that the deity-form *svāhākṛti* is indicated, and others that Agni is indicated. In the Praiṣa sūkta:
+
+होता यक्षदग्निग् स्वाहाज्यस्य............वियॆंतु होतरज । (*hotā yakṣadagnig svāhājyasya............viyèṃtu hotaraja |*)
+(तै. ब्रा. ३-६-२-२) (*(tai. brā. 3-6-2-2)*)
+
+is recited. On this Sāyaṇa says योऽयं स्वाहाशब्दोदितः उत्तमप्रयाजदेवः अग्निः तं दैव्यू होता यजतु (*yo 'yaṃ svāhāśabdoditaḥ uttamaprayājadevaḥ agniḥ taṃ daivyū hotā yajatu*): "let the divine hotṛ sacrifice to that Agni, the last *prayāja* deity, who is named by the word *svāhā*"; he explains that the word indicates Agni as the eleventh *prayāja* deity. The Nirukta-authors:
+
+साहाकृतयः । स्वाहेत्येतत् सु आहेति वा, स्वा वागाहेति वा स्वं प्राहेति (*sāhākṛtayaḥ | svāhetyetat su āheti vā, svā vāgāheti vā svaṃ prāheti*)
+वा, स्वाहुतं हविर्जुहोतीति वा । (*vā, svāhutaṃ havirjuhotīti vā |*)
+(सि. ८-२१) (*(si. 8-21)*)
+
+explaining that it is famed as *svāhākṛti* either because "he recited it well", "because one's own speech said it", or because the oblation is offered with the mantra *svāhā*, and citing the ṛk १०-११०-११ (*10-110-11*), make this sense clear. In the Aitareya-brāhmaṇa:
+
+स्वाहाकृतीर्यजति प्रतिष्ठा वै स्वाहाकृतयः प्रतिष्ठायामेव तद्वज्ञमंततः (*svāhākṛtīryajati pratiṣṭhā vai svāhākṛtayaḥ pratiṣṭhāyāmeva tadvajñamaṃtataḥ*)
+प्रतिष्ठापयति । (*pratiṣṭhāpayati |*)
+(ऎ. च. २-इ) (*(è. ca. 2-i)*)
+
+### Printed p. 273
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 9] Ṛgveda-saṃhitā 273 (as supplied).*
+
+it is explained that, since the oblation is completed by the *svāhākṛti*, it is the support of the whole sacrifice and sets the sacrifice on a right foundation. In the Bṛhaddevatā:
+
+स्वाहाकृतयोऽनेकाश्च विदुषां मतयोऽभवन् । (*svāhākṛtayo 'nekāśca viduṣāṃ matayo 'bhavan |*)
+तत्सर्वं त्वयमेवाग्निर्भवतीति विनिश्चयः ॥ (*tatsarvaṃ tvayamevāgnirbhavatīti viniścayaḥ ‖*)
+अयं हि कर्ता स्वाहानां कृतिस्तासामिहैकजा । (*ayaṃ hi kartā svāhānāṃ kṛtistāsāmihaikajā |*)
+अयं प्रसूतिर्भूतानां सर्वेषामयमव्ययः ॥ (*ayaṃ prasūtirbhūtānāṃ sarveṣāmayamavyayaḥ ‖*)
+(बृ. दे. ३-२९ रिंद ३०) (*(bṛ. de. 3-29 riṃda 30)*)
+
+The opinions of the learned about *svāhākṛti* are not of one kind; yet the whole sense indicated by this word is meant for this terrestrial Agni: because this Agni is the maker of the *svāhās* and is also their making, the terrestrial Agni is so called. Following the Nirukta-authors' view आग्नेयी इति तु स्थितिः (*āgneyī iti tu sthitiḥ*) (नि. ८-२२ (*ni. 8-22*)) the authors of the Bṛhaddevatā have given their opinion.
+
+In the last ṛks of the Āprī sūktas of the *svāhākāra* kind, the deities Pūṣan, the Maruts, Vāyu, Sūrya, Indra, Varuṇa and others are all addressed; above all of them:
+
+पुरोगा आग्निर्देवानां गायत्रेण समज्यते । साहाकृतीषु रोचते । (*purogā āgnirdevānāṃ gāyatreṇa samajyate | sāhākṛtīṣu rocate |*)
+(ऋ. सं. १-१८८-११) (*(ṛ. saṃ. 1-188-11)*)
+
+सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः । (*sadyo jāto vyamimīta yajñamagnirdevānāmabhavatpurogāḥ |*)
+अस्य होतुः प्रदिश्यतस्य वाचि स्वाहाकृतं हविरदंतु देवाः ॥ (*asya hotuḥ pradiśyatasya vāci svāhākṛtaṃ haviradaṃtu devāḥ ‖*)
+(म सं १०-११०-११) (*(ma saṃ 10-110-11)*)
+
+in these ṛks Agni is praised as the leader of the gods from the time of his birth. And describing the power of the *svāhākṛti*:
+
+आ याह्यग्ने समिधानो अर्वाजिंद्रेण देवैः सरथं तुरेभिः । (*ā yāhyagne samidhāno arvājiṃdreṇa devaiḥ sarathaṃ turebhiḥ |*)
+बर्हिर्न आस्तामदितिः सुपुत्रा स्वाहा देवा अमृता मादयंतां ॥ (*barhirna āstāmaditiḥ suputrā svāhā devā amṛtā mādayaṃtāṃ ‖*)
+(ऋ. सं) (*(ṛ. saṃ)*)
+(म. सं ३-४-११) (*(ma. saṃ 3-4-11)*)
+
+आग्ने वह वरुणमिष्टये न इंद्र दिवो मरुतो अंतरिक्षात् । (*āgne vaha varuṇamiṣṭaye na iṃdra divo maruto aṃtarikṣāt |*)
+सीदंतु बर्हिर्विश्व आ यजत्राः स्वाहा देवा अमृता मादयंतां ॥ (*sīdaṃtu barhirviśva ā yajatrāḥ svāhā devā amṛtā mādayaṃtāṃ ‖*)
+(ऋ. सं. १०-७०-११) (*(ṛ. saṃ. 10-70-11)*)
+
+in these ṛks it is indicated that, because the gods rejoice at the mantra *svāhā*, the word *svāhā* has such a divine place in the sacrifice. (The print gives the reference of the third ṛk twice, (ऋ. सं) (*(ṛ. saṃ)*) and (म. सं ३-४-११) (*(ma. saṃ 3-4-11)*).)
+
+*[Stray line of the supplied text: [18] Vol. 14 (*[18] Vol. 14*); not part of the text.]*
+
+### Printed p. 274
+
+*Running head: [274 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. ೨೪. Sū. 188] (as supplied; the print omits the adhyāya sign).*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 11, noted briefly)
+
+पुरोगा: (*purogā:*): root गम्‌ल्य गत् (*gamlya gat*); by जनसनखन क्रमगमॊविट् (*janasanakhana kramagamòviṭ*) (पा. सू. ३-२-६७ (*pā. sū. 3-2-67*)) the suffix *viṭ*; when it follows, by विड्वनोरनुनासिकस्यात् (*viḍvanoranunāsikasyāt*) (पा. सू. ६-४-४१ (*pā. sū. 6-4-41*)) the nasal *m* of the root becomes *ā*; the suffix is wholly dropped; in the compound the accent of the first member of the *kṛt* compound. गायत्रेण (*gāyatreṇa*): गायत्राः संबंधि गायत्रम्. तस्येदम् (*gāyatrāḥ saṃbaṃdhi gāyatram. tasyedam*) (पा. सू. ४-३-१२२ (*pā. sū. 4-3-122*)) the suffix *aṇ*; by यस्येतिच (*yasyetica*) the preceding *ī* is dropped; by the suffix accent the last syllable is acute; instrumental singular. अज्यते (*ajyate*) (root अंजूव्यक्तिम्रक्षकांतिगतिषु (*aṃjūvyaktimrakṣakāṃtigatiṣu*)): *laṭ* in the passive, third person singular; owing to the connection with a finite verb the *nighāta* accent. रोचते (*rocate*) (root रुच दीप्ति (*ruca dīpti*)): *bhvādi*, *laṭ*, third person singular; by तिज्जतिजः (*tijjatijaḥ*) (पा. सू. ८-१-२८ (*pā. sū. 8-1-28*)) the *nighāta* accent.
+
+*(Sūkta 188 ends here, with eleven ṛks. No colophon line is printed in the supplied text.)*
+
+#### Sūkta 189
+
+नूर ऎंभत्तॊंभत्तनॆय सूक्तवु. (*nūra èṃbhattòṃbhattanèya sūktavu.*) — "the hundred and eighty-ninth sūkta."
+
+*[As supplied, the label line reads कायिभास्कर (*kāyibhāskara*) (garbled, for *sāyaṇabhāṣya*); the following lines are Sāyaṇa's introduction to Sūkta 189, printed as plain lines, and are given here as a block.]*
+
+**Sāyaṇa-bhāṣya** (introduction)
+
+> अग्ने नयेति दशमं सूक्तमष्टर्चमागस्त्यं त्रैष्टुभवाग्नेयं । अग्ने
+> नयोष्टावाग्नेयमित्यनुक्रमणिका ॥ प्रातरनुवाकाशिनशस्त्रयोस्ट्रैष्टुभश्चंदसि विनि-
+> योगः । अथैतस्या इत्यत्राग्ने नयाग्रे बृहन्नित्यष्टानामुत्तमास्तुत्मास्ति स्र उद्दरेत् ।
+> आ, ४-१३ । इति सूत्रितत्वात् ॥ अत्र शौनकः । उत्पथप्रतिपन्नो यो भ्रष्टो वापि पथः
+> क्वचित् । पंथानं प्रतिपद्येत कृत्वा वा कर्म गर्हितं ॥ अग्ने नयेति सूक्तेन
+> प्रत्यृचं जुहुयाद्कृतं । जपेच्च प्रयतो नित्यमुपतिष्ठेत वानलं । ऋग्वि १-२७ ।
+> इति ॥ आद्याश्चतस्रः श्रवणाकर्मणि विनियुक्ताः । श्रावण्यां पौर्णमास्यामित्यत्र
+> सूत्रितं । अग्ने नय सुपथा राये आस्मानिति चतसृभिः प्रत्यृचं हुत्वा । आ. गृ २-१-४ ।
+> इति ॥ अग्नॆये पशौ वनापुरोडाशयोराद्ये द्वे अनुवाक्ये । तथा च सूत्रितं ।
+> अग्ने नय सुपथा राये आस्मान् पाहि नो अग्ने पायुभिरजस्रैः । अ ३-७ । इति ॥
+> आद्या प्रायणीयेष्टावाग्नेयस्यानुवाक्या । सैवोदयनीये याज्या । तदहः
+> प्रायणीयेष्टिरित्यत्र सूत्रितं । अग्ने नय सुपथा राये अस्माना देवानामपि
+> पंथामगन्म । आ. ४-३ । इति ॥ विपरीताश्च याज्यानुवाक्या इति च ॥
+
+*Gist:* The sūkta beginning "Agne naya" is the tenth sūkta of this group, of eight ṛks, by Agastya, in *triṣṭubh*, to Agni (Anukramaṇikā). It is used in the morning litany; Śaunaka prescribes it for one who has strayed from the path, the first four ṛks are used in the Śrāvaṇa rite (Āśvalāyana Gṛhya), and the ṛks are variously used in the animal sacrifice, in the Prāyaṇīya and Udayanīya offerings (Śrauta rules).
+
 ---
 
-**Progress note:** Done through printed p. 271 (PDF 271). Done through printed p. 271 (Sukta 188 Rik 10 complete with grammar page; Rik 11 complete through Special Topics on svahakriti, breaks off mid-sentence at the end of p. 271); [?] on sishtadat
+**Progress note:** Done through printed p. 274 (PDF 274). Done through printed p. 274 (Sukta 188 complete; Sukta 189 begun: Sayana's introduction on p. 274, the sukta heading lines and Rik 1 come next)
