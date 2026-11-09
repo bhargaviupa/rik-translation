@@ -1010,6 +1010,81 @@ Grammar page continued, noted briefly: दी ध्यानाः (*dī dhyān
 
 *Gist: Agni, the great, wonderful one, is the showerer; his many extended rays act like rain-givers; the wise, most gladdening Hotṛ is asked to bring the great gods and heaven and earth to this rite. (The bhāṣya continues on the next page; the window ends in its grammatical tail on वृषायंते (*vṛṣāyaṃte*) and महे (*mahe*), transcribed, not explained.) Note: the supplied text shows a figure marker before the Saṃhitā; the Saṃhitā reads वृष्टायंते (*vṛṣṭāyaṃte*) against the Pada and bhāṣya वृषयंते (*vṛṣayaṃte*)/वृषायंते (*vṛṣāyaṃte*), and चरित्वान् (*caritvān*) in the Pada against चिकित्वान् (*cikitvān*) expected; all as supplied.*
 
+### Printed p. 38
+
+*[Running head, p. 38: 38 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7]]*
+
+**Sāyaṇa-bhāṣya (continued)**
+
+> तत्वं । पूर्विः । पू पालनपूरणयोरित्यस्मात् कुरित्यनुवृत्तौ पूभिदिव्यधिगृधी-
+> त्यादिना कुप्रत्ययः । कित्वाद्गुणप्रतिषेधे उदोष्यपूर्वस्येत्युत्त्वं । उरण्
+> रपरः । तस्माद्वोतो गुणवचनादिति जीष् ! यणादेशे कृते हलि चेति दीर्घः ।
+> ना छंदसीति सवर्णदीर्घः । रश्मयः । अशू व्याप्तौ । अश्नु वते सर्वं जगदिति मिरि-
+> त्यनुवृत्तौ अश्नोते रश्च । उ. ४-४६ । इति मिप्रत्ययो रशादेशश्च । प्रत्ययस्वरः ।
+> सुयामाः । यमनं यामः । भावे घज् : बहुव्रीह् नज् सुभ्यामित्युत्तरपदां-
+> तोदात्तत्वं । देव । अपादादाविति पर्युदासात्पाष्ठिकमाद्युदात्तत्वं । होतः ।
+> ह्वयतेस्ताच्छिलिकस्तन् । बहुलं छंदसीति संप्रसारणं । अपादाद्यामंत्रितत्वान्नि-
+> घातः । मंद्रतरः । मदि स्तुत्यादिषु । स्थायितंचिवंचीत्यादिना रक् । इदित्वा-
+> न्नुम् । तरपः पित्वादनुदात्तात्वे रकृत्ययस्वरः । वक्षि । वह प्रापण इत्यस्य बहुलं
+> छंदसीति शपो लुक् । टत्वकत्वषत्वानि । निघातः ।
+
+> *tatvaṃ | pūrviḥ | pū pālanapūraṇayorityasmāt kurityanuvṛttau pūbhidivyadhigṛdhī-*
+> *tyādinā kupratyayaḥ | kitvādguṇapratiṣedhe udoṣyapūrvasyetyuttvaṃ | uraṇ*
+> *raparaḥ | tasmādvoto guṇavacanāditi jīṣ ! yaṇādeśe kṛte hali ceti dīrghaḥ |*
+> *nā chaṃdasīti savarṇadīrghaḥ | raśmayaḥ | aśū vyāptau | aśnu vate sarvaṃ jagaditi miri-*
+> *tyanuvṛttau aśnote raśca | u. 4-46 | iti mipratyayo raśādeśaśca | pratyayasvaraḥ |*
+> *suyāmāḥ | yamanaṃ yāmaḥ | bhāve ghaj : bahuvrīh naj subhyāmityuttarapadāṃ-*
+> *todāttatvaṃ | deva | apādādāviti paryudāsātpāṣṭhikamādyudāttatvaṃ | hotaḥ |*
+> *hvayatestācchilikastan | bahulaṃ chaṃdasīti saṃprasāraṇaṃ | apādādyāmaṃtritatvānni-*
+> *ghātaḥ | maṃdrataraḥ | madi stutyādiṣu | sthāyitaṃcivaṃcītyādinā rak | iditvā-*
+> *nnum | tarapaḥ pitvādanudāttātve rakṛtyayasvaraḥ | vakṣi | vaha prāpaṇa ityasya bahulaṃ*
+> *chaṃdasīti śapo luk | ṭatvakatvaṣatvāni | nighātaḥ |*
+
+*Note: the bhāṣya's grammatical tail continues (words treated include पूर्विः (*pūrviḥ*), रश्मयः (*raśmayaḥ*), सुयामाः (*suyāmāḥ*), देव (*deva*), होतः (*hotaḥ*), मंद्रतरः (*maṃdrataraḥ*), वक्षि (*vakṣi*)); transcribed, not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देव (*deva*) — the shining one; होतः (*hotaḥ*) — O Agni, who calls the gods to the sacrifices; महे (*mahe*) — the worshipful; अत्याय (*atyāya*) — who surpasses all; चित्राय (*citrāya*) — of many hues (worshipful to the gods); वृष्णे (*vṛṣṇe*) — the showerer of desires, (for you); सुयामाः (*suyāmāḥ*) — exceedingly extended; पूर्वीः रश्मयः (*pūrvīḥ raśmayaḥ*) — countless rays; व्यपायंते (*vyapāyaṃte*) [sic, as supplied] — act like Parjanya (by producing rain), and; मंद्रतरः (*maṃdrataraḥ*) — the best among those who gratify; चिकित्वान् (*cikitvān*) — possessed of knowledge, you; महः (*mahaḥ*) — the worshipful; देवान् (*devān*) — the gods; रोदसी (*rodasī*) — heaven and earth; इह (*iha*) — to this rite; आ वह (*ā vaha*) — bring.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, shining one, who calls the gods to the sacrifices! To you, of great glory, mighty, of many hues (worshipful), showerer of desires, the countless, greatly extended flames become sprinklers by providing room for the casting in of ghee and other oblations; you, the best among those who gladden the worshippers, the wise one, bring to this Vedic rite the gods who are worthy of worship in the sacrifices, and heaven and earth.
+
+**Printed English translation of the Ṛk**
+
+Divine invoker of the gods, the vast and widespread rays shed (moisture) for you the mighty, the victorious, the wonderful, the showerer (of benefits): you are all-knowing, joy-bestowing ; bring hither the great gods, and heaven and earth.
+
+### Printed p. 39
+
+*[Running head, p. 39: Aṣṭaka 3, Adhyāya 1, Varga 2, Ṛgvedasaṃhitā 39]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**देव होतः (*deva hotaḥ*)** — "the shining one, the invoker of the gods". Here Agni is described as blazing with abundant radiance and as the one who invites the gods to the sacrifice. In the passage "अस्य वामस्य फलितस्य होतुः (*asya vāmasya phalitasya hotuḥ*)" [as supplied] the word Hotṛ was explained as "the one who is invoked". For the word होतुः (*hotuḥ*) in "होतुश्चित्पूर्वे हविरद्यमाशत (*hotuścitpūrve haviradyamāśata*)" Durgācārya explains "होतुरपि अग्नेः (*hoturapi agneḥ*)": of Agni, who is in the form of a human Hotṛ; and (he states that) the greatness of the gods is described in four ways: the mantras are of the kinds पौरुषविध्यं (*pauruṣavidhyaṃ*), अपौरुषविध्यं (*apauruṣavidhyaṃ*), कर्मार्थात्मोभयविध्यं (*karmārthātmobhayavidhyaṃ*) and नित्यमौभयविध्यं (*nityamaubhayavidhyaṃ*) [all as supplied], and by these kinds the glory of the gods is made manifest. The gods are endowed with a power consisting of abundant lordship (aiśvarya) and act in the manner fitting their respective duties; the seers, beholders of the mantras, saw this directly and praised each in his own way; and the glory of the gods is described as mūrtā (having form), amūrtā (formless), ekadhā (of one kind), dvidhā (of two kinds) and bahudhā (of many kinds). Here Agni's power is described as his having attained identity with the human Hotṛ who invokes the gods.
+
+**चित्राय (*citrāya*)** — "नानाविधवर्णाय यद्वा देवैश्चायनीयाय पूज्याय (*nānāvidhavarṇāya yadvā devaiścāyanīyāya pūjyāya*)". Sāyaṇa gives two meanings: first, that Agni has many kinds of colours through his rays; second, that Agni, receiving the oblation-portions even from the gods, is worshipful. The Nirukta-writers explain the word citra as "चायनीयं महनीयं पूजनीयं (*cāyanīyaṃ mahanīyaṃ pūjanīyaṃ*)", giving the sense of "worshipful, deserving honour".
+
+**चित्रस्य रश्मयः वृषायंते (*citrasya raśmayaḥ vṛṣāyaṃte*)** — सर्वतः व्याप्ताः ज्वालाः वृषेवाचरंति सेचका इव भवंति । होतारः ज्वालाभिः समिद्धमग्निं दृष्ट्वा सोमाज्यपयःप्रभृतीनि हवींषि तत्र प्रक्षिपंतीति ज्वालानां वृषत्वं । यद्वा षष्ठ्यर्थे चतुर्थी । तथा च महतो अत्यस्य चित्रस्य वृष्टो अग्नेः बहवो रश्मयः वृषेवाचरंति । वृष्टुत्पादनद्वारा पर्जन्यवदाचरंति । (*sarvataḥ vyāptāḥ jvālāḥ vṛṣevācaraṃti secakā iva bhavaṃti | hotāraḥ jvālābhiḥ samiddhamagniṃ dṛṣṭvā somājyapayaḥprabhṛtīni havīṃṣi tatra prakṣipaṃtīti jvālānāṃ vṛṣatvaṃ | yadvā ṣaṣṭhyarthe caturthī | tathā ca mahato atyasya citrasya vṛṣṭo agneḥ bahavo raśmayaḥ vṛṣevācaraṃti | vṛṣṭutpādanadvārā parjanyavadācaraṃti |*) (The supplied text reads "ಚಿತ್ರಬ್ದಕ್ಕೆ" and "ಚಿತ್ರಸ್ಯ ರಶ್ಮಯಃ" at this point, and "ವೃಷ್ಟೋ ಅಗ್ನೇಃ" in the quotation; all as supplied.) This is the same bhāṣya passage already summarised under the Ṛk: the flames spread on all sides act as showerers (sprinklers), since the Hotṛs, seeing Agni kindled by the flames, cast Soma, ghee, milk and other oblations into it; or the dative is in the sense of the genitive, so that the many rays of the great, wonderful, showering Agni act like a rain-giver.
+
+A verse on the seven tongues of Agni follows (as supplied, with a gap of dots in the first line):
+
+काळी कराळीचॆ मनोजवाच..................सुधूम्रवर्णा । (*kāḷī karāḷīcè manojavāca..................sudhūmravarṇā |*)
+स्पुलिंगिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥ (*spuliṃginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ‖*)
+
+### Printed p. 40
+
+*[Running head, p. 40: 40 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7]]*
+
+The various flames of Agni, or the rays described in this mantra, spreading everywhere and fulfilling the wishes of the sacrificers, act like Indra, who fulfils the wishes of those who serve him. The Hotṛ and other priests, pouring Soma juice, ghee (clarified butter), oblations and the like into the well-kindled fire, obtain their desired ends; therefore Sāyaṇa explains, as one meaning, that the flames of Agni grant what is desired and, like Indra, bestow wishes. In the second meaning, the dative case in चित्राय (*citrāya*) stands in the sense of the genitive, so that it is चित्रस्य ज्वालाः (*citrasya jvālāḥ*): the flames of the worshipful Agni, shining in many ways and accepting the oblation-portions offered by the sacrificers, become rain-producers (since they cause rain to fall) and do the work of Indra, the production of rain. Hence he explains वृषायंते वृषेवाचरंति (*vṛṣāyaṃte vṛṣevācaraṃti*). Thus the sense is given in two ways: because Agni's flames, kindled and widely spread, accept the oblations offered by the sacrificers and fulfil their wishes, or because, endowed with many colours, they produce rain, they do for Agni and for the world the work of Indra, the fulfilment of desired ends.
+
+**मंद्रतरः (*maṃdrataraḥ*)** — "यजमानस्य मादयितृतमः (*yajamānasya mādayitṛtamaḥ*)". Because Agni fulfils the wishes of the sacrificers, he makes them joyful and exhilarated; this is the meaning. It is said: "मंद्रा मदना हर्षकरी तर्पयित्री वा लोकस्य (*maṃdrā madanā harṣakarī tarpayitrī vā lokasya*)" (Ni. 11-30).
+
+**महः देवा, रोदसी इह आ वह (*mahaḥ devā, rodasī iha ā vaha*)** — By this sentence, since Agni also performs the Hotṛ's function (inviting the gods to the sacrifice), he is prayed to invite to the sacrificial rite the gods who are worshipful and worthy of sacrifice, and also heaven and earth. The word रोदसी (*rodasī*) is read among the names of heaven and earth (Ni. 3-22).
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+वृषायंते (*vṛṣāyaṃte*): "वृषा इव आचरंति (*vṛṣā iva ācaraṃti*)"; from the sūtra "उपमानादाचारे (*upamānādācāre*)" with उपमानात् (*upamānāt*) continuing, the suffix क्यज् (*kyaj*) [as supplied] comes after the word वृष (*vṛṣa*) by "कर्तुः क्यज् सलोपश्च (*kartuḥ kyaj salopaśca*)" (Pā. Sū. 3-1-11); lengthening of the preceding vowel by "अकृत् सार्वधातुकयोर्दिर्घः (*akṛt sārvadhātukayordirghaḥ*)" (Pā. Sū. 7-4-25); by "सनाद्यंताधातवः (*sanādyaṃtādhātavaḥ*)" the form वृषाय (*vṛṣāya*) gets the name dhātu; the laṭ third-person plural form stands at the beginning of a pāda, so the nighāta accent does not arise; the root accent remains.
+
 ---
 
-**Progress note:** Done through printed p. 37 (PDF 37). Sukta 7 Rk 8 Special Topics and grammar done; Rk 9 Samhita/Pada and start of bhashya (window ends mid-bhashya grammatical tail)
+**Progress note:** Done through printed p. 40 (PDF 40). Sukta 7 Rk 9 complete (Pratipadartha, Bhavartha, Special Topics, grammar); p. 40 ends Varga page
