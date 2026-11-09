@@ -7374,6 +7374,107 @@ says that these two hotṛs are the terrestrial and middle (atmospheric) Agnis.
 
 प्रथमा (*prathamā*): by सुपां सुलुक् (*supāṃ suluk*) (पा सू. ७-२९ (*pā sū. 7-29*), as printed) the substitute *ā* for the dual ending.
 
+### Printed p. 253
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 9] Ṛgveda-saṃhitā 253 (as supplied).*
+
+**Vyākaraṇa-prakriyā** (continuation of the Ṛk 7 grammar page, noted briefly)
+
+सुवाचसा (*suvācasā*): शोभनं वाचः. ययोस्ते (*śobhanaṃ vācaḥ. yayoste*); by आद्युदात्तं द्वैच्‌छंदसि (*ādyudāttaṃ dvaicchaṃdasi*) (पा सू. ६-१-११९ (*pā sū. 6-1-119*)) the final member is accented on its last syllable (as printed); as before, the substitute *ā* for the dual. दैव्या (*daivyā*): देवमर्हत इति दैव्या (*devamarhata iti daivyā*); by देवाद्यञञौ (*devādyañañau*) (पा. सू. ४-१.८५-२ (*pā. sū. 4-1.85-2*), as printed) the suffix *yañ*; by तद्धितेष्वचामादेः (*taddhiteṣvacāmādeḥ*) (पा. सू. ७-२-१८७ (*pā. sū. 7-2-187*), as printed) vṛddhi of the first vowel; by इत्यादि- र्नित्यम् (*ityādi- rnityam*) the first syllable is acute; as before, the substitute *ā* for the ending. यक्षताम् (*yakṣatām*) (root यज देवपूजासंगतिकरणदानेषु (*yaja devapūjāsaṃgatikaraṇadāneṣu*)): *loṭ*, second person dual; by the strength of the word *bahula* in सिब्बहुलंलेटि (*sibbahulaṃleṭi*) (पा. सू. ३-१-३४ (*pā. sū. 3-1-34*)) the suffix *sip*; by व्रक्ष भृस्थ (*vrakṣa bhṛstha*) the *j* becomes *ṣ*; by षढोःकःसि (*ṣaḍhoḥkaḥsi*) that becomes *k*; by आदेशप्रत्य- ययोः (*ādeśapratya- yayoḥ*) (पा. सू. ८-२-५९ (*pā. sū. 8-2-59*), as printed) because of the *k* the *s* becomes *ṣ*; the form is *yakṣatām*; owing to the connection with a finite verb the *nighāta* accent.
+
+*[Stray line of the supplied text: ________ :0: ________ (*________ :0: ________*); not part of the text.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> भार॒तीळे॒ सर॑स्वति॒ या वः॒ सर्वा॑ उपब्रु॒वे ।
+> ता न॑श्चोदयत श्रि॒ये ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> भारति । इळे । सरस्वति । याः । वः । सर्वाः । उपब्रुवे ।
+> ताः । नः । चोदयत । श्रिये ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे भारति । भरत आदित्यः । तस्य संबंधिनी भारती । तादृशि द्युलोकदेवते हे
+> इळे भूदेवि हे सरस्वति । सरो वागुदकं वा । तद्वत्यंतरिक्षदेवते तादृशि देवि ।
+> एताः क्षित्यादिदेवताः । एतास्तिस्र आदित्यप्रभावविशेषरूपा इत्याहुः । यास्तिस्रः सर्वा
+> वो युष्मानुपब्रुवे उपेत्य सौमि ता यूयं नोऽस्माञ्छये संपदे
+> चोदयत । प्रेरयत ॥
+
+*Gist:* O Bhāratī (of heaven, belonging to the Āditya Bharata), Iḷā (earth) and Sarasvatī (atmosphere): these three, said to be forms of the sun's power, I approach; do you urge us to wealth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+भारति—ऎलै द्युलोकाधिदेवतॆये (*bhārati—èlai dyulokādhidevatèye*) (O presiding deity of heaven). इळे—पृथिवीदेवतॆये (*iḷe—pṛthivīdevatèye*) (O deity of earth). सरस्वति—अंतरिक्ष देवतॆये (*sarasvati—aṃtarikṣa devatèye*) (O deity of the atmosphere). याः—याव नीवु मूवरु देवतॆगळिद्दीरो (*yāḥ—yāva nīvu mūvaru devatègaḷiddīro*) (you three goddesses who are). वः सर्वाः—आ निम्मॆल्लरन्नू (*vaḥ sarvāḥ—ā nimmèllarannū*) (all of you).
+
+### Printed p. 254
+
+*Running head: [254 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+उपब्रुवे—समीपिसि स्तुतिसुत्तेनॆ (*upabruve—samīpisi stutisuttenè*) (I approach and praise). ताः—नीवु मूरु देवतॆगळू (*tāḥ—nīvu mūru devatègaḷū*) (you three goddesses). नः—नम्मन्नु (*naḥ—nammannu*) (us). श्रिये— संपत्तन्नु पडॆयुवुदक्कागि (*śriye— saṃpattannu paḍèyuvudakkāgi*) (to obtain wealth). चोदयत—प्रेरिसिरि (*codayata—prerisiri*) (urge).
+
+**भावार्थ (Bhāvārtha)**
+
+O Bhāratī, Iḷā and Sarasvatī, presiding deities of the three worlds, I approach and praise all of you. May all of you urge us to obtain wealth.
+
+**Printed English translation**
+
+Bharati, Ila, Saraswati, I invoke you all, that you may direct us to prosperity.
+
+*[As supplied, the label line of the Special Topics reads विशेषयगळु (*viśeṣayagaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 8)**
+
+In this ṛk a group of three goddesses is addressed and prayed to come to the sacrifice. In all the Āprī sūktas except the present sūkta and sūkta १-१४२ (*1-142*), these deities too are gathered together and indicated collectively as तिस्रो देवीः (*tisro devīḥ*). Iḷā, Sarasvatī and Bhāratī are these three. There is much difference of opinion about the nature of these deities. In १-१४२ (*1-142*) the deity Bhāratī has the epithets होत्रा (*hotrā*), शुचिः (*śuciḥ*), (मरुत्सु, देवेषु (*marutsu, deveṣu*)) अर्पिता (*arpitā*), and the deity Sarasvatī the epithet मही (*mahī*). In some sūktas the word मही (*mahī*) is not an epithet but is used as a synonym of the deity Bhāratī. In the present context, whether the nature of these deities can be determined exactly may be examined taking scriptural sentences and the like as authority.
+
+On the subject of तिस्रो देवीः (*tisro devīḥ*) Yāska says only
+
+तिस्रो देवीः । तिस्रो देवीस्तिस्सो देव्यः (*tisro devīḥ | tisro devīstisso devyaḥ*)
+
+and, in the ṛk given as an example:
+
+आ नो यज्ञं भारती तूयमेत्विळा मनुष्यदिह चेतयंती । (*ā no yajñaṃ bhāratī tūyametviḷā manuṣyadiha cetayaṃtī |*)
+तिस्रो देवीर्बर्हिरेदं स्योनं सरस्वती स्वपसः सदंतु ॥ (*tisro devīrbarhiredaṃ syonaṃ sarasvatī svapasaḥ sadaṃtu ‖*)
+(म सं. १०-११०-८) (*(ma saṃ. 10-110-8)*)
+
+ऐतु नो यज्ञं भारती क्षिप्रं । भरत आदित्यस्तस्य भा इळा च मनुष्य- (*aitu no yajñaṃ bhāratī kṣipraṃ | bharata ādityastasya bhā iḷā ca manuṣya-*)
+दिह चेतयमाना तिस्रो देव्यो बर्हिरिदं सुखं सरस्वती च सक- (*diha cetayamānā tisro devyo barhiridaṃ sukhaṃ sarasvatī ca saka-*)
+र्माण आसीदंतु ॥ (*rmāṇa āsīdaṃtu ‖*)
+
+he explains thus. That is:
+
+भारती (*bhāratī*) — *Bharata* is one of the twelve Ādityas; the radiance of an Āditya is called *bhā*. Therefore *Bhāratī* means the light of the sun, or the Agni existing as light in the solar orb
+
+### Printed p. 255
+
+*Running head: [Aṣṭaka 2. Adhyāya 5 Varga 9] Ṛgveda-saṃhitā 255 (as supplied).*
+
+इळा (*iḷā*) — *Iḷā* means the earth. मनुष्वत् चेतयंती (*manuṣvat cetayaṃtī*) — having a power of urging like human beings; that is, because she gives food and other nourishment, wealth and so on to the men on earth, *Iḷā* is a special form of the Agni in the terrestrial place.
+
+सरस्वती (*sarasvatī*) — because she is the presiding deity of the thunder and lightning in the atmospheric place, Sarasvatī is said to be of the nature of Agni in the atmospheric place. Therefore it is the custom to say that the three goddesses Iḷā, Sarasvatī and Bhāratī are the three forms of Agni in heaven, the atmosphere and the earth.
+
+If we examine the mantra that indicates these deities in the Praiṣa sūkta, which gathers the main points of the Āprī sūktas:
+
+होतायक्षत्तिस्रो देवीरपसामपस्तमा अच्छिद्रमद्ये दमपस्तन्वतां । देवे- (*hotāyakṣattisro devīrapasāmapastamā acchidramadye damapastanvatāṃ | deve-*)
+भ्यो देवीर्देवमपो वियंत्वाजस्य होतर्यज ॥ (*bhyo devīrdevamapo viyaṃtvājasya hotaryaja ‖*)
+(तै. ब्रा. ३-६-२-२) (*(tai. brā. 3-6-2-2)*)
+
+in the original there is only तिस्रो देवीः (*tisro devīḥ*). In the commentary, explaining it, इडा, सरस्वती, भारतीत्येवंरूपास्ति स्रोऽष्टमप्रयाजदेव्यस्तद्रूपमग्निं दैव्यो होता यजतु (*iḍā, sarasvatī, bhāratītyevaṃrūpāsti sro 'ṣṭamaprayājadevyastadrūpamagniṃ daivyo hotā yajatu*): it is said that the three, Iḍā, Sarasvatī and Bhāratī, are the eighth *prayāja* goddesses reflecting Agni. Moreover, by the epithet अपसां अपस्तमाः । कर्मवतीनां मध्येऽतिश- येन कर्मवत्यः (*apasāṃ apastamāḥ | karmavatīnāṃ madhye 'tiśa- yena karmavatyaḥ*) it is shown that they are the most excellent performers of rites. In the Aitareya-brāhmaṇa:
+
+तिस्रो देवीर्यजति प्राणो वा अपानो व्यानस्तिस्रो देव्यस्ता एव तत्प्रीणाति (*tisro devīryajati prāṇo vā apāno vyānastisro devyastā eva tatprīṇāti*)
+ता यजमाने दधाति । (*tā yajamāne dadhāti |*)
+(इ. ब्रा, २-४) (*(i. brā, 2-4)*)
+
+identity is stated between these three goddesses and the vital principles *prāṇa*, *apāna* and *vyāna*. The Nirukta-authors, citing the ṛk आ नो यज्ञं (*ā no yajñaṃ*) (१०-११०-८ (*10-110-8*)), gave its explanation thus: एतु नो यज्ञं भारती क्षिप्रं । भरत आदित्यस्तस्य भा इळा च मनुष्यवदिह चेतयमाना तिस्रो देव्यः बर्हिरिदं सुखं सरस्वती च सुकर्माण आसीदंतु (*etu no yajñaṃ bhāratī kṣipraṃ | bharata ādityastasya bhā iḷā ca manuṣyavadiha cetayamānā tisro devyaḥ barhiridaṃ sukhaṃ sarasvatī ca sukarmāṇa āsīdaṃtu*) (नि. ८-१३ (*ni. 8-13*)): may the divine form of the radiance of Bharata (the sun), Iḷā and Sarasvatī adorn the *barhis*. In the Bṛhaddevatā:
+
+तिस्रस्तु देव्यो याः प्रोक्तास्त्रिस्थानैवेह सा तु वाक् । (*tisrastu devyo yāḥ proktāstristhānaiveha sā tu vāk |*)
+त्रिविधेनोच्यते नाम्ना ज्योतिःषु त्रिषु वर्तिनी ॥ (*trividhenocyate nāmnā jyotiḥṣu triṣu vartinī ‖*)
+
+(the supplied text breaks off here, at the end of the window, in the middle of the Bṛhaddevatā verse).
+
 ---
 
-**Progress note:** Done through printed p. 252 (PDF 252). Done through printed p. 252 (Sukta 188 Rik 7 complete through Special Topics; Rik 7 grammar page begun, breaks off after prathama)
+**Progress note:** Done through printed p. 255 (PDF 255). Done through printed p. 255 (Sukta 188 Rik 7 complete; Rik 8 complete through Special Topics on tisro devih, breaks off inside the Brihaddevata verse on p. 255)
