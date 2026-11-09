@@ -162,6 +162,14 @@ Every volume has `volN/STATUS.md` (template: `docs/STATUS_TEMPLATE.md`): scope, 
 
 New volumes use the pipeline above. Vols 1–14 keep their legacy workflow (`docs/LEGACY_SCAN_WORKFLOW.md`) for repair passes; their closed `.md` files are not edited except the agreed passes recorded in each `STATUS.md`. To print Vols 4–14 with `volbook.py` we need a small *format adapter* per old format (heading layout `## Sūkta N — "…"`, `### Rik N`, inline notes) — see `docs/REPO_REVIEW.md`; do not fork `volbook.py`.
 
+## 14. Session hygiene (cloud sessions are ephemeral)
+
+- Anything worth keeping is committed **and pushed** (or delivered to the user) before the session ends; `/tmp` and the scratchpad die with it. The stop hook asks for a commit/push when files are uncommitted.
+- Run one long job at a time (builds, `git gc`, mirror clones); check `pgrep` first; use `run_in_background` + a monitor for anything over ~2 minutes. Quote sizes and counts only from finished commands.
+- After a history rewrite every other clone needs `git fetch --prune`, `git reset --hard origin/main`, `git reflog expire --expire=now --all`, `git repack -adf --window=50 --depth=50` (see `docs/LESSONS.md` 21); the repo is kept small: no scans, no new built artifacts if avoidable.
+- Large files to the user: ≤ 400 MiB per file, split with checksums and a README.
+- Fonts and WeasyPrint are installed per session (§8). Keep `work/` directories out of git; they hold scratch windows only.
+
 ## 15. Keep improving — rules for every future session (user request, Nov 9 2026)
 
 Every volume must be cheaper, faster and cleaner than the one before. Concretely:
