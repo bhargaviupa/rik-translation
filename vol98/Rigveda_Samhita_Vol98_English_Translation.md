@@ -1327,6 +1327,77 @@ here वर्तिः (*vartiḥ*) is explained as मार्गं (*mārga
 
 अकारि (*akāri*) (root डुकृण्करणे (*ḍukṛṇkaraṇe*) in the sense of doing): passive aorist, third person singular; the *nighāta* accent of a finite verb arises. मानेभिः (*mānebhiḥ*) (root मन (*mana*), "to know"): the suffix *ghañ*; by अतउपधायाः (*ataupadhāyāḥ*) (Pā. Sū. 7-2-116) *vṛddhi* of the penultimate vowel; because of the mark *ñ* the first syllable is acute; before *bhis*, by बहुलं छंदसि (*bahulaṃ chaṃdasi*) the substitute *ais* is optional, so it does not occur, and *ē* appears. मघवाना (*maghavānā*): by छंदसीवनिपौ (*chaṃdasīvanipau*) the suffix *vanip* in the sense of possession; in the vocative dual, by सुपां सुलुक् (*supāṃ suluk*) the substitute *ā*; the vocative *nighāta* accent. सुवृक्ति (*suvṛkti*) (root व्यजी (*vyajī*), "to abandon"): in the abstract sense the suffix *ktin*; by चोःकुः (*coḥkuḥ*) the *j* becomes *k* (*kutva*); by खरिच (*kharica*) *cartva*; "that in which there is good abandonment, in such an action"; by नञ्सुभ्याम् (*nañsubhyām*) (Pā. Sū. 2-172, printed "೨-೧೭೨") the last syllable of the later member is acute.
 
+### Printed p. 44
+
+*Running head: [44 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184]. The window begins within the grammar page of Ṛk 5, continuing p. 43.*
+
+**Vyākaraṇa-prakriyā** (continued; grammar page, noted briefly)
+
+यातम् (*yātam*) (root या (*yā*) in the sense of going): imperative, second person dual; because it stands at the beginning of the pāda there is no *nighāta* accent; the accent of the suffix, last-syllable acute. वर्ति: (*varti:*) (root वृतु (*vṛtu*) in the sense of turning): by हृपिषिरुहि (*hṛpiṣiruhi*) (Uṇ. Sū. 4-558) the suffix *i*; *guṇa* of the root's short penultimate vowel, followed by *r*. त्मने (*tmane*): by मंत्रेष्वाज्यादेरात्मनः (*maṃtreṣvājyāderātmanaḥ*) (Pā. Sū. 6-4-141) the elision of the initial *ā*. मदंता (*madaṃtā*) (root *mad*, in the sense of satisfaction): the present-participle substitute for the tense suffix; by interchange the connecting suffix *śap*; because the present-tense suffix is unaccented the accent of the root remains; for the dual, by *sulug* of the case endings the substitute *ā*.
+
+*[A stray line ":0:" follows in the supplied text.]*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अता॑रिष्म॒ तम॑सस्पा॒रम॒स्य प्रति॑ वां॒ स्तोमो॑ अश्विनावधायि ।
+> एह या॑तं प॒थिभि॑र्देव॒यानै॑र्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ ६ ॥
+
+*[As supplied, the label line of the Pada reads ⟦⟧ inside the Saṃhitā block; the last word of the Saṃhitā, split by a hyphen at the end of a line, has been joined.]*
+
+**॥ पदपाठः ॥**
+
+> अतारिष्म । तमसः । पारं । अस्य । प्रति । वां । स्तोमः । अश्विनौ । अधायि ।
+> आ । इह । यातं । पथिभिः । देवयानैः । विद्याम । इषं । वृजनं । जीरदानुं ॥ ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अतारिष्मेशि षष्ठी व्याख्याता ॥
+
+*Gist:* The bhāṣya is a single short line, stating that the form beginning "atāriṣma" and the sixth (*ṣaṣṭhī*) have been explained (as in the earlier bhāṣya); the sense: we have crossed this darkness by your grace.
+
+*[As supplied, the label line of the next section reads ॥ प्रतिसदर्थ ॥ (*‖ pratisadartha ‖*) (inside the bhāṣya block); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अश्विनौ (*aśvinau*) — O Aśvin deities. अस्य तमसः (*asya tamasaḥ*) — (of this suffering, which obstructs welfare). पारं (*pāraṃ*) — the end. अतारिष्म (*atāriṣma*) — (by your grace) we have crossed. नां प्रति (*nāṃ prati*) — (as printed) addressed to you. स्तोमः (*stomaḥ*) — praise. अधायि (*adhāyi*) — has been made (directed). देवयानैःपथिभिः (*devayānaiḥpathibhiḥ*) — by the paths on which the gods travel. इह (*iha*) — to this sacrifice. आ यातं (*ā yātaṃ*) — come. वयं (*vayaṃ*) — we. इषं (*iṣaṃ*) — food. वृजनं (*vṛjanaṃ*) — strength. जीरदानुं (*jīradānuṃ*) — long life. विद्याम (*vidyāma*) — may we obtain.
+
+### Printed p. 45
+
+*Running head: [*[५. (**[5.*). ೨. ಅ. ೫. ವ. ೧.] Ṛgveda-saṃhitā 45 (the print has "೫." for the first "ಅ.", as supplied). The Pratipadārtha above continues across the page boundary.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, we have crossed, by your grace, the end of this suffering which obstructs welfare. This praise is directed to you. Come to this sacrifice by the paths on which the gods travel, that we may obtain food, strength and long life.
+
+**Printed English translation**
+
+(Through your aid), Ashwins, we cross over the limit of darkness : to you this (our hymn) has been addressed : come hither by the path traversed by the gods, that we may obtain food, strength, and long life.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+देवयानैः पथिभिः (*devayānaiḥ pathibhiḥ*) — "by the paths of the gods' travelling", देवगंतवैर्मार्गैः (*devagaṃtavairmārgaiḥ*): a physical meaning is stated. In the Upaniṣads the words *devayāna* and *pitṛyāna* have a technical meaning. But in many places in the Ṛksaṃhitā the word *devayāna* means the path on which the gods travel; only in a few places is the spiritual purport described in the Upaniṣads also indicated. In the Upaniṣads these two words denote the two paths on which the eternal ātman travels after a man's death, when his body has turned to ashes. Of the paths to be taken to experience the fruits of good works, one is *devayāna* and the other *pitṛyāna*: one is the path of the gods and the other the path of the fathers. Those who know the *pañcāgni* knowledge and place their faith in truth set out on the path of the gods and reach the Parabrahman. After the death of these, the ātman enters the flame and thereby the day, the bright fortnight, the northern course, the year, the sun and lightning, and, with the help of the non-human person, obtains the Parabrahman: this is described in the Upaniṣads. Those who satisfy the world merely by sacrifice and gifts, that is, those who without knowing the *pañcāgni* knowledge are engaged only in good works, travel after death by another path: after the body has been burnt the ātman joins the smoke, then the night, thereby
+
+### Printed p. 46
+
+*Running head: [46 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185] (the print has "೧೮೫" for the sūkta number, as supplied).*
+
+the dark fortnight, thereby the southern course, then the world of the fathers, and finally the world of the moon. That is their final station. Having fully experienced there the fruits corresponding to their good works in this world, remaining with the fathers, when the impression of their action is exhausted they return to the earth by the same path of smoke. This is the nature of the *devayāna* and *pitṛyāna* described in the Upaniṣads.
+
+What we must notice in the present context is whether all the sense described in the Upaniṣads is wholly indicated by the word *devayāna* used in the Ṛksaṃhitā, or whether merely the physical path on which the gods travel is meant. Likewise, what sense the word *pitṛyāna* described in the Upaniṣads has must be considered here.
+
+In the Ṛksaṃhitā the word *devayāna* is used thirteen times in all. [೧-೭೨-೩; ೧. ೧೬೨-೪ ; ೧. ೧೮೩-೬, ೧-೧೮೪-೬ ೪. ೩೭-೧ ; ೫ ೪೫-೬ ; ೭. ೩೮-೮ ೭. ೩೬-೨ ; ೧೦. ೧೮-೧ ; ೧೦. ೫೧-೨ ; ೧೦-೫೧-೫ ; ೧೦. ೯೮-೧೧ ; ೧೦. ೧೮೧-೩.] [the list is printed in square brackets, with spaces after some of the points, as supplied]. In all these contexts Sāyaṇa has mainly given two meanings only. According to his explanation, firstly it is the path by which human sacrificers go with their oblations to approach the gods; secondly the path by which the gods come to the earth to receive the oblations. The word *pitṛyāna* is used in the Ṛksaṃhitā only once. In what context that use is:
+
+यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान । (*yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā sujanimā jajāna |*)
+पंथामनु प्रविद्वान् पितृयाणं द्युमदग्ने समिधानो वि भाहि ॥ (*paṃthāmanu pravidvān pitṛyāṇaṃ dyumadagne samidhāno vi bhāhi ‖*)
+
+(Ṛ. Saṃ. [printed ಯ. ಸಂ.] 10-2-7)
+
+In this ṛk, Agni, who is born of heaven and earth, of the waters, of the creator and of Tvaṣṭṛ, who is kindled, and who knows fully the nature of the *pitṛyāṇa* path, is prayed to shine as soon as he is kindled. For the word in the third quarter of the ṛk Sāyaṇa's explanation is पितृयाणं पितरो येन मार्गेण गच्छंति तं (*pitṛyāṇaṃ pitaro yena mārgeṇa gacchaṃti taṃ*): "the path on which the fathers travel".
+
+*[The window ends here; the page ends with a stray line ":0:" in the supplied text.]*
+
 ---
 
-**Progress note:** Done through printed p. 43 (PDF 43). Rik 5 printed English, Special Topics (maghavan, suvrkti, varti) and grammar page; Rik 5 complete
+**Progress note:** Done through printed p. 46 (PDF 46). Rik 5 grammar end; Rik 6 complete (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English); Special Topics on devayana/pitryana (continues on next page)
