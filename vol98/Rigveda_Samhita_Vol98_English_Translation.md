@@ -6465,6 +6465,105 @@ From the mantras त्रिर्दिवा आमिमिक्षति (
 आ देव देवान्यजथाय वक्षि सखा सखीन्तुमना यक्ष्यग्ने ॥ (*ā deva devānyajathāya vakṣi sakhā sakhīntumanā yakṣyagne ‖*)
 (म. सं. ३-४-१) (*(ma. saṃ. 3-4-1)*)
 
+### Printed p. 224
+
+*Running head: [224 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 187] (as supplied; the print has "೧೮೭" where "೧೮೮" is expected, the sūkta now being 188).*
+
+*(Continuation of the introduction to Sūkta 188, on the Āprī sūktas.)*
+
+...in the ṛk (3-4-1) ended on p. 223, the kindling of Agni described poetically by the sage Viśvāmitra, and in the ṛk
+
+जुषस्व नः समिधमग्ने अद्य शोचा बृहद्यजतं धूममृण्वन् । (*juṣasva naḥ samidhamagne adya śocā bṛhadyajataṃ dhūmamṛṇvan |*)
+उप स्पृश दिव्यं सानु स्कूपैः सं रश्मिभिस्ततनः सूरस्य ॥ (*upa spṛśa divyaṃ sānu skūpaiḥ saṃ raśmibhistatanaḥ sūrasya ‖*)
+
+(म. सं. ७-२-१) (*(ma. saṃ. 7-2-1)*)
+
+the description of Agni's rays and the sun's rays spreading together, show the poetic nature of the mantras. These same descriptions show that this sacrifice is to be begun in the morning.
+
+The mantra पूर्व्यं तंतुं तनुष्व (*pūrvyaṃ taṃtuṃ tanuṣva*) (१-१४२-१ (*1-142-1*)) shows that this sacrifice is ancient. For this sacrifice to be performed without obstacle the help of Agni, the divine hotṛ, is needed, so the ghee oblation must first be offered to Agni. When Agni is satisfied by this he spreads towards the atmosphere (७-२-१ (*7-2-1*)) and then brings the gods. Agni does this service because he is the friend of men (३-४-१ (*3-4-1*)).
+
+*Skill of composition* — although the Āprī sūktas are different from one another, composed at different times and connected with different families of sages, in all these sūktas there is one and the same flow of language and purpose, so that a greater harmony and charm than in all the other kinds of sūktas shows their distinction. In all the sūktas (except two) the number of ṛks is eleven, and the beginning of the sūkta with the word *samidh* and its ending with *svāhā* show a fixed rule from the point of view of poetry and art. As to metre there is no such restriction: the sūktas १-१३, १-१८८, ५-५, ९-५ (*1-13, 1-188, 5-5, 9-5*) are composed in the *gāyatrī* metre, the sūkta १-१४२ (*1-142*) in the *anuṣṭubh* metre, and the sūktas २-३, ३-४, ७-२, १०-७० (*2-3, 3-4, 7-2, 10-70*) in the *triṣṭubh* metre. Many mantra phrases such as देवान् आवह (*devān āvaha*), देवान् वक्षि (*devān vakṣi*), विप्रा यज्ञेषु मानषेषु कारुः (*viprā yajñeṣu mānaṣeṣu kāruḥ*) recur.
+
+**Sāyaṇa-bhāṣya** (Sāyaṇa's introduction to Sūkta 188)
+
+> समिद्दो अद्येत्येकादशर्चं नवमं सूक्तमागस्त्यं सर्वं गायत्रं । समि-
+> द्धाग्नितनूनपादादय एकादश प्रत्यृचं देवता यास्केन किंदेवताः प्रयाजा इत्यु-
+> पक्रम्याग्नेयाः प्रयाजा ऋतुदेवताश्चंदोदेवताः पशुदेवताः प्राणदेवता आत्म-
+
+> *samiddo adyetyekādaśarcaṃ navamaṃ sūktamāgastyaṃ sarvaṃ gāyatraṃ | sami-*
+> *ddhāgnitanūnapādādaya ekādaśa pratyṛcaṃ devatā yāskena kiṃdevatāḥ prayājā ityu-*
+> *pakramyāgneyāḥ prayājā ṛtudevatāścaṃdodevatāḥ paśudevatāḥ prāṇadevatā ātma-*
+
+### Printed p. 225
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 8] Ṛgveda-saṃhitā 225 (as supplied).*
+
+> देवता इत्यादिना बहून्पक्षानुपन्यस्य ब्राह्मणानि च प्रदर्श्याग्नेया एवेति सिद्धांतितं।
+> नि. ८-२२ । समिद्ध अप्रिय इत्यनुक्रांतं ॥ पशावगस्त्यानामेकादशप्रयाजरूपमिद-
+> माप्रीसूक्तं ॥
+
+*Gist:* "Samiddho adya" is the ninth sūkta of this group, of eleven ṛks, by Agastya, in *gāyatrī*; its eleven deities are Samiddha Agni, Tanūnapāt and the rest; Yāska surveys the views on the *prayāja* deities and concludes that they are Agni's; it is an Āprī sūkta for the eleven *prayāja* offerings of the Agastyas.
+
+**Anuvāda (Kannada).** This sūkta beginning समिद्धो अद्य (*samiddho adya*) is the ninth sūkta in the twenty-fourth anuvāka. It has eleven ṛks. Agastya is the seer of this sūkta; the metre is *gāyatrī*; the deities are the eleven deities of the Āprī sūkta, Samiddhāgni, Tanūnapāt and the rest, for the eleven ṛks of this sūkta. Yāska asked who the deities of the Āprī sūkta are, and in answer began with प्रयाजाः (*prayājāḥ*) (the *prayājas*): the *prayāja* mantras are connected with Agni, and for these mantras he examined the many contrary views — the season deities, the metre deities, the animal deities, the vital-breath deities, the self deities and so on — gave Brāhmaṇa sentences by way of answer, and finally concluded that all these mantras are connected with Agni (नि. ८-२२ (*ni. 8-22*)). The Anukramaṇikā too says समिद्ध आप्रियः (*samiddha āpriyaḥ*). The use of this Āprī sūkta is for the eleven *prayāja* oblations that the descendants of the sage Agastya have to use in the animal oblation.
+
+**Sūkta heading (printed as plain lines)**
+
+॥ ओं ॥ (*‖ oṃ ‖*)
+सूक्त—१८८ (*sūkta—188*)
+॥ मंडल—१ ॥ अनुवाक—२४ ॥ सूक्त—१८८ ॥ (*‖ maṃḍala—1 ‖ anuvāka—24 ‖ sūkta—188 ‖*)
+॥ अष्टक— २ ॥ अध्याय— ५ ॥ वर्ग-८-९ ॥ (*‖ aṣṭaka— 2 ‖ adhyāya— 5 ‖ varga-8-9 ‖*)
+॥ सूक्तदल्लिरुव ऋक्संख्यॆ-११ ॥ (*‖ sūktadalliruva ṛksaṃkhyè-11 ‖*)
+१ मुडि-आगस्ट् [?], ७ ॥ (*1 muḍi-āgasṭ [?], 7 ‖*)
+॥ देवता-(अप्रियः) अप्रीसूक्तं-१. इद्धः समिद्धोग्निर्वा । (*‖ devatā-(apriyaḥ) aprīsūktaṃ-1. iddhaḥ samiddhognirvā |*)
+२. तनूनपात् । ३. इळः । ४. बर्हिः । ५. देवीर्द्वारः । (*2. tanūnapāt | 3. iḷaḥ | 4. barhiḥ | 5. devīrdvāraḥ |*)
+६. उषासानक्ता । ७. दैव्याहोतारौ प्राचेतसौ । ८. तिस्रो (*6. uṣāsānaktā | 7. daivyāhotārau prācetasau | 8. tisro*)
+देव्यः सरस्वतीळाभारत्यः । ९. त्वष्टा । १०. वनस्पतिः । ११. (*devyaḥ sarasvatīḷābhāratyaḥ | 9. tvaṣṭā | 10. vanaspatiḥ | 11.*)
+॥ छंदः-गायत्रि ॥ (*‖ chaṃdaḥ-gāyatri ‖*)
+
+(Sense: Om; sūkta 188; maṇḍala 1, anuvāka 24; aṣṭaka 2, adhyāya 5, varga 8-9; eleven ṛks in the sūkta; the line १ मुडि-आगस्ट् [?], ७ (*1 muḍi-āgasṭ [?], 7*) is garbled in the supplied text, where the ṛṣi, Agastya, is expected, and is marked [?]; deity: the Āprī sūkta, namely 1 Iddha or Samiddha Agni, 2 Tanūnapāt, 3 Iḷa, 4 Barhis, 5 the divine Doors, 6 Uṣāsānaktā, 7 the two divine Hotṛs, the Prācetasas, 8 the three goddesses Sarasvatī, Iḷā and Bhāratī, 9 Tvaṣṭṛ, 10 Vanaspati, 11 the Svāhākṛtis; metre: gāyatrī.)
+
+*[Stray line of the supplied text: [15] Vol. 14 (*[15] Vol. 14*); not part of the text.]*
+
+### Printed p. 226
+
+*Running head: [226 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+*[The Saṃhitā has कनिर्वह [?] (*kanirvaha [?]*) against the Pada's *kaviḥ vaha*; marked [?].]*
+
+> समि॑द्दो अ॒द्य रा॑जसि दे॒वो दे॒वैः स॑हस्रजित् ।
+> दू॒तो ह॒व्या क॒निर्व॑ह [?] ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> संइद्धः । अद्य । राजसि । देवः । देवैः । सहस्रजित् ।
+> दूतः । हव्या । कविः । वह ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने देवैर्व्यवहर्तृभिर्युत्विग्निः समिद्धः सम्यग्दीपितो देवोऽत दीप्य-
+> मानः समिद्धैर्वा देवैः सहितः समिद्धः सन्नद्यास्मिन्यागदिने राजसि । ईशिषे । हे
+> सहस्रजित् सहस्रस्य धनस्यैतत्संख्याकानां शत्रूणां वा जेतः ततो दूतो देवानां
+> दूतस्तद्यज्ञादिवार्ताहर आह्वाता ना । अग्निर्देवानां दूत आसीदिति श्रुतेः । कविः
+> क्रांतदर्शि ईदृशस्त्वं हव्यास्मदीयानि हवींषि वह । देवेभ्यः प्रापय ॥
+
+*Gist:* O Agni, kindled and shining with the gods, you rule today on this sacrificial day; conqueror of thousands, messenger of the gods, seer, carry our oblations to the gods.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(ऎलै अग्निये) देवैः-यज्ञनिरतराद ऋत्विक्कुगळिंद (*(èlai agniye) devaiḥ-yajñaniratarāda ṛtvikkugaḷiṃda*) (O Agni, by the priests engaged in the sacrifice). समिद्धः-प्रज्वलितनागि (*samiddhaḥ-prajvalitanāgi*) (kindled). देवः-प्रकाशमाननाद नीनु (*devaḥ-prakāśamānanāda nīnu*) (you, shining). अद्य-ई यागदिनदल्लि (*adya-ī yāgadinadalli*) (today, on this day of the sacrifice). राजसि-प्रभुवागिद्दीयॆ (*rājasi-prabhuvāgiddīyè*) (you rule). सहस्र- जित्-सहस्रसंख्याकवाद धनवन्नु हॊंदिरुववनू अथवा सहस्र संख्याकराद शत्रुगळन्नु जयिसिरुववनू (*sahasra- jit-sahasrasaṃkhyākavāda dhanavannu hòṃdiruvavanū athavā sahasra saṃkhyākarāda śatrugaḷannu jayisiruvavanū*) (one who has won thousands of wealth, or has conquered thousands of enemies). दूतः-देवदूतनागिरुववनू (*dūtaḥ-devadūtanāgiruvavanū*) (the messenger of the gods). कविः-क्रांतदर्शियादवनू आद नीनु (*kaviḥ-krāṃtadarśiyādavanū āda nīnu*) (you, the seer). हव्या-नम्मिंद दत्तवाद हविस्सुगळन्नु (*havyā-nammiṃda dattavāda havissugaḷannu*) (the oblations given by us). वह-देवतॆगळिगॆ वहिसु (*vaha-devatègaḷigè vahisu*) (carry to the gods).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, kindled by the priests engaged in the sacrifice and shining, you rule on this day of the sacrifice. You who have won thousands of wealth and conquered enemies, the messenger of the gods, the seer, carry the oblations given by us to the gods.
+
+**Printed English translation**
+
+You shine to-day, divine conqueror of thousands, kindled by the priests: do you, who are the sapient messenger (of the gods), convey (to them) our oblation.
+
 ---
 
-**Progress note:** Done through printed p. 223 (PDF 223). Done through printed p. 223 (Sukta 188 Apri introduction continues; ends after the quotation of Rik 3-4-1 on p. 223)
+**Progress note:** Done through printed p. 226 (PDF 226). Done through printed p. 226 (Apri introduction of Sukta 188 complete; Sayana's introduction and sukta heading done; Rik 1 done through printed English; Rik 1 Special Topics next); [?] on kanirvaha and the garbled rishi line
