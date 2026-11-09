@@ -14041,6 +14041,167 @@ Let the two divine invokers of the gods, the first (to be reverenced), most wise
 
 *(The supplied text ends here, at the end of the printed English of Ṛk 7 on p. 464; Ṛk 8 follows in the next window.)*
 
+### Printed p. 465
+
+*Running head (as supplied): [अ. २. अ. ५. व. २३.] ऋग्वेदसंहिता 465 (*[a. 2. a. 5. va. 23.] ṛgvedasaṃhitā 465*).*
+
+#### Ṛk 8
+
+*[As supplied, the label line of the Saṃhitā reads कंठपाठ (*kaṃṭhapāṭha*); standard label inserted. The Saṃhitā, printed as plain lines, is given as a quoted block with its split line joined. Two readings of the Pada are marked with a query, as they differ from the Saṃhitā and the bhāṣya.]*
+
+**॥ संहितापाठः ॥**
+
+> सर॑स्वती सा॒धयं॑ती॒ धियं॑ न॒ ईळा॑ दे॒वी भार॑ती वि॒श्वतू॑र्तिः।
+> ति॒स्रो दे॒वीः स्व॒धया॑ ब॒र्हिरेदमच्छि॑द्रं पांतु शर॒णं नि॒षद्य॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> सरस्वती । साधयंती । धियं । नः । इळा । देवी । भारती । विश्वतूर्तिः ।
+> तिस्रः । देवीः । स्वधया । बर्हिः । आ । इवं [?] । अच्छिद्रं । पांतु । शरणं । निसद्य [?] ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> नोऽस्मदीयां धियं बुद्धिं यागं वा साधयंती निर्वर्तयंती सरस्वती
+> इळ्ळैतन्नामिका देवी भारती च विश्वतूर्तिर्विश्वानि तूर्णानि यस्याः सा तादृशी सर्व-
+> विषयगता वाक् । एतदुभयविशेषणं । तिस्रो देवीरेतास्तिस्रो देव्यः स्वधया-
+> स्मद्दत्तहविषा निमित्तेनेदं बर्हिर्यज्ञमच्छिद्रं यथा तथा पांतु । पालयंतु ।
+> किं कृत्वा । शरणं यागगृहमानिसद्य आश्रित्य । यद्वा स्वधयेदं बर्हिरिमं यज्ञ-
+> मागत्यास्मदीयं शरणं गृहं निषद्याच्छिद्रं यथा तथा पांतु ॥
+
+*Gist:* Sarasvatī, Iḷā and Bhāratī, who perfect our rite, are asked to come to our house and keep the sacrifice flawless.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नः—नम्म (*naḥ—namma*) (our). धियं—बुद्धियन्नु अथवा यागवन्नु (*dhiyaṃ—buddhiyannu athavā yāgavannu*) (intelligence or the sacrifice). साधयंती—परिष्करिसुव (*sādhayaṃtī—pariṣkarisuva*) (perfecting). सरस्वती—सरस्वतियू (*sarasvatī—sarasvatiyū*) (Sarasvatī). देवी—देवतात्मळाद (*devī—devatātmaḷāda*) (the divine). इळा—इळा देवियू (*iḷā—iḷā deviyū*) (Iḷā, the goddess). विश्वतूर्तिः—सकल वन्नू व्यापिसिरतक्क अथवा सर्वश्रेष्ठळाद (*viśvatūrtiḥ—sakala vannū vyāpisiratakka athavā sarvaśreṣṭhaḷāda*) (all-pervading or the best of all (the word is divided by a line break)). भारती—भारतीदेवियू (*bhāratī—bhāratīdeviyū*) (Bhāratī, the goddess). तिस्रः देवीः—मेलॆ निर्दिष्टवाद ई मूरु देवतॆगळू (*tisraḥ devīḥ—melè nirdiṣṭavāda ī mūru devatègaḷū*) (the three goddesses mentioned above). स्वधया—( नम्मिंद ) दत्तवाद हविस्सिन निमित्तवागि (*svadhayā—( nammiṃda ) dattavāda havissina nimittavāgi*) (by the oblation given by us, for its sake). शरणं—याग गृहवन्नु (*śaraṇaṃ—yāga gṛhavannu*) (the sacrificial house (the word is divided by a line break)). आ निषद्य—आश्रयिसि (*ā niṣadya—āśrayisi*) (having come to and resting in). इदं बर्हिः—ई यज्ञवन्नु (*idaṃ barhiḥ—ī yajñavannu*) (this sacrifice). अच्छिद्रं— छिद्रवागदिरुवंतॆ (*acchidraṃ— chidravāgadiruvaṃtè*) (so that it is not broken). पांतु—रक्षिसलि (*pāṃtu—rakṣisali*) (let them protect).
+
+**भावार्थ (Bhāvārtha)**
+
+Sarasvatī, who perfects our intelligence, the divine Iḷā, and Bhāratī, the most excellent: may these three goddesses, because of the oblation given by us, having come to the sacrificial house, protect this sacrifice so that it is not broken.
+
+*[A stray line of the supplied text, [30] Vol. 14 (*[30] Vol. 14*), is kept as an italic note in the Kannada text.]*
+
+### Printed p. 466
+
+*Running head (as supplied): [466 सायणभाष्यसहिता । मं. २. आ.१ . सू ३] (*[466 sāyaṇabhāṣyasahitā | maṃ. 2. ā.1 . sū 3]*).*
+
+**Printed English translation**
+
+May the three goddesses, Saraswati, perfecting our understanding, the divine Ila, and all-impressive Bharati, having come to our dwelling, protect this faultless rite, (offered) for our welfare.
+
+#### Ṛk 9
+
+*[As supplied, the label line of the Saṃhitā reads कंठकंठा (*kaṃṭhakaṃṭhā*); standard label inserted. The Saṃhitā, printed as plain lines, is given as a quoted block with its split lines joined. Two readings of the Pada are marked with a query, as they differ from the Saṃhitā and the bhāṣya. As supplied, the label line of the bhāṣya reads कायणभाष्यं (*kāyaṇabhāṣyaṃ*), inside the Pada block; standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> पि॒शंग॑रूपः सु॒भरो॑ वयो॒धाः श्रु॒ष्टी वी॒रो जा॑यते दे॒वका॑मः ।
+> प्र॒जां त्वष्टा॒ वि ष्य॑तु॒ नाभि॑म॒स्मे अथा॑ दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> पिशंगरूपः । सुभरः । वयःधाः । श्रुष्टि [?] । वीरः । जायते । देवकामः ।
+> प्रजां । त्वष्टा । वि । स्यतु [?] । नाभिं । अस्मे इति । अथ । देवानां । अपि । एतु । पाथः ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अथ पिशंगरूप इति नवमी त्वाष्टे पशौ पुरोडाशस्य याज्या पिशंगरूपः
+> सुभरो वयोधाः प्रथमभाजं यशसं वयोधां । आ ३-८ । इति सूत्रितत्वात् ।
+> पाठस्तु ॥
+> पिशंगरूपः सुवर्णवर्णो नानारूपो वा सुभरः शोभनयज्ञः शोभन-
+> भरणो वा वयोधा वयस्सोऽन्नस्य धारयिता दाता वा श्रुष्टि क्षिप्रगुणो वीरो
+> विविधमिरयिता देवकामो देवाः काम्यंते येन तादृशः पुत्रो जायते । जाय-
+> तामुत्पद्यतां त्वष्टुरनुग्रहात् । स च त्वष्टैतन्नामको देवोऽस्मे अस्मभ्यं नाभिं
+> कुलस्य बंधिकां प्रजां पुत्रादिरूसां विष्यतु । विमंचतु । वितरत्वत्यर्थः । अथ अपि
+> च देवानां संबंधि पाथोऽन्नमप्यस्मानेतु । गच्छतु । अपिः क्रियया वा
+> संबध्यते । गच्छतित्यर्थः ॥
+
+*Gist:* May a golden-formed, active, manly son, devoted to the gods, be born; may Tvaṣṭā give us offspring and the gods' food come to us.
+
+*(The bhāṣya begins with a remark on the ritual use of the ṛk and a Sūtra reference, as printed inside the block.)*
+
+*[As supplied, the label line of the Pratipadārtha reads प्रतिसदार्थ (*pratisadārtha*), inside the bhāṣya block, and the Pratipadārtha and Bhāvārtha lines carry the quote marks of the block; the label is replaced by the standard label and the lines are un-quoted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पिशंगरूपः—सुवर्णद रूपवुळ्ळवनू, (*piśaṃgarūpaḥ—suvarṇada rūpavuḷḷavanū,*) (of golden form). सुभरः—श्रेष्ठवाद यज्ञवन्नु निर्वहिसु ववनू (*subharaḥ—śreṣṭhavāda yajñavannu nirvahisu vavanū*) (one who carries out the excellent sacrifice (the word is divided by a line break)). वयोधाः—अन्नवन्नु धरिसिरुववनू (*vayodhāḥ—annavannu dharisiruvavanū*) (one who bears food). श्रुष्टी—(कर्मगळल्लि) चुरुकाद गुणगळुळ्ळ (*śruṣṭī—(karmagaḷalli) curukāda guṇagaḷuḷḷa*) (one of active qualities (in rites) (the entry continues on the next page)).
+
+### Printed p. 467
+
+*Running head (as supplied): [अ. २. अ. ५. व. २३ ] ऋग्वेदसंहिता 467 (*[a. 2. a. 5. va. 23 ] ṛgvedasaṃhitā 467*).*
+
+*(Continuation of the Pratipadārtha of Ṛk 9, the entry at the end of the previous page being completed.)*
+
+वनू (*vanū*) ((completing the previous entry)). वीरः—पौरुषशक्तियुळ्ळवनू (*vīraḥ—pauruṣaśaktiyuḷḷavanū*) (manly in strength). देवकामः—देवतॆगळिंद अपेक्षितनादवनू आद पुत्रनु (*devakāmaḥ—devatègaḷiṃda apekṣitanādavanū āda putranu*) (desired by the gods, the son). जायते—( त्वष्टृविन अनुग्रहदिंद ) उत्पन्ननागलि (*jāyate—( tvaṣṭṛvina anugrahadiṃda ) utpannanāgali*) (let him be born (by the favour of Tvaṣṭā)). त्वष्टा—त्वष्टृनामकनाद देवनु (*tvaṣṭā—tvaṣṭṛnāmakanāda devanu*) (Tvaṣṭā, the god so named). अस्मे—नमगॆ (*asme—namagè*) (to us). नाभिं—वंशक्कॆ बंधकवाद (*nābhiṃ—vaṃśakkè baṃdhakavāda*) (binding the family). प्रजां—पुत्रादिरूपवाद प्रजॆगळन्नु (*prajāṃ—putrādirūpavāda prajègaḷannu*) (progeny in the form of sons and the like). विष्यतु- अनुग्रहिसि कॊडलि (*viṣyatu- anugrahisi kòḍali*) (let him favour and give (printed with a hyphen)). अथ—मत्तु (*atha—mattu*) (and). देवानां—देवतॆगळ संबंधियाद (*devānāṃ—devatègaḷa saṃbaṃdhiyāda*) (of the gods, belonging to them). पाथः अपि—अन्नवू कूड (*pāthaḥ api—annavū kūḍa*) (food also). एतु—नमगॆ सेरलि (*etu—namagè serali*) (let it come to us).
+
+*[As supplied, the label line of the Bhāvārtha reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+May a son who has a form attractive like gold, who carries out the excellent sacrifice, who bears food, who has active qualities in rites, who has manly strength, and who is desired by the gods, be born to us by the favour of Tvaṣṭā. May the god named Tvaṣṭā grant us progeny, such as sons, which binds our family. May the food that belongs to the gods also come to us.
+
+**Printed English translation**
+
+May a tawny-hued, well-grown (son), the bestower of food, active, manly, a worshipper of the gods, be born : may Twashtri prolong for us a continuous (line of) progeny, and may the food of the gods come also to us.
+
+#### Ṛk 10
+
+*[The Saṃhitā lines are joined; one reading of the Saṃhitā is marked with a query, as it differs from the Pada. As supplied, the label line of the Pada reads पठपाठि (*paṭhapāṭhi*), inside the Saṃhitā block; standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> वन॒स्पति॑रवसृ॒जन्नुप॑ स्थाद॒ग्निर्ह॒विः सू॑दयाति॒ प्र धी॒भिः ।
+> त्रिधा॒ सम॑क्तं नयतु प्रजा॒नन्ते॒वेभ्यो॒ [?] दैव्यः॑ शमि॒तोप॑ ह॒व्यं ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> वनस्पतिः । अवसृजन् । उप । स्थात् । अग्निः । हविः । सूदयाति । प्र । धीभिः ।
+> त्रिधा । संअक्तं । नयतु । प्रजानन् । देवेभ्यः । दैव्यः । शमिता । उप । हव्यं ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वनस्पतियूर्पाभिमान्येतन्नामकोऽग्निरवसृजन् आस्मदीयं कर्मानुजानन्
+> उपास्मत्समीपे स्थात् । तिष्ठतु । अग्निः पाकाधारोऽग्निश्च हविः पशुरूपं धीभिः कर्म-
+
+*(The bhāṣya block is interrupted by the page break in the middle of a word and continues on the next page.)*
+
+### Printed p. 468
+
+*Running head (as supplied, unmarked in the supplied text, where it stood inside the bhāṣya block, and inserted as a page marker in the Kannada text): 468 सायणभाव्यसहिता [मं. २ आ. १ सू. ३ (*468 sāyaṇabhāvyasahitā [maṃ. 2 ā. 1 sū. 3*).*
+
+> भिर्विशेषैः पाकसाधनैः प्रकर्षेण सूदयाति । क्षारयति । अपाकाधिकपाकादिराहित्येन
+> हविः पचतीत्यर्थः । किंच दैव्यो देवसंबंध्याहुत्यधिकरणभूतोऽग्निः शमिता हविषः
+> संस्कर्ता । यद्वा दैव्यः शमितैतन्नामकोऽग्निः ! अग्निर्वै देवानां शमितेति
+> शूयते । त्रिधा त्रिप्रकारमुपस्तरणावदानाभिघारण्यैः समक्तं सम्यक् सिक्तं हव्यं
+> हविः प्रजानन् विद्वान् नयनप्रकाराभिज्ञः सन् देवेभ्य उपनयतु । समीपं
+> प्रापयतु ॥
+
+*Gist:* May Vanaspati stand near approving our rite; Agni cooks the oblation; may the divine Śamitṛ Agni carry the thrice-sprinkled offering to the gods.
+
+*[The bhāṣya contains an exclamation mark in place of a danda after a word of its second half, as printed, and short grammatical remarks; they are transcribed in the block. As supplied, the label line of the Pratipadārtha reads ॥ कृतदर्प ॥ (*‖ kṛtadarpa ‖*), inside the bhāṣya block; standard label inserted and the lines un-quoted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वनस्पतिः—यूपाभिमानिदेवतॆयु (*vanaspatiḥ—yūpābhimānidevatèyu*) (the deity presiding over the sacrificial post). अवसृजन्—नम्म कर्मवन्नु अनुमोदिसुत्ता (*avasṛjan—namma karmavannu anumodisuttā*) (approving our rite). उप—नम्म समीपदल्लि (*upa—namma samīpadalli*) (near us). स्थात्—इरलि (*sthāt—irali*) (let him be). अग्निः—पाकाधारनाद अग्नियु (*agniḥ—pākādhāranāda agniyu*) (Agni, the support of cooking). हविः— पशुरूपवाद हविस्सन्नु (*haviḥ— paśurūpavāda havissannu*) (the oblation in the form of the animal). धीभिः—कर्मगळिंद (*dhībhiḥ—karmagaḷiṃda*) (by rites). सूदयाति—संस्करिसुत्तानॆ (*sūdayāti—saṃskarisuttānè*) (he prepares). दैव्यः शमिता— देवतॆगळ शमितृवाद ( पशुवन्नु छेदिसि संस्करिसुव) अग्नियु (*daivyaḥ śamitā— devatègaḷa śamitṛvāda ( paśuvannu chedisi saṃskarisuva) agniyu*) (the divine Agni who is the immolator (who cuts and prepares the animal)). त्रिधा—मूरु प्रकारवागि (*tridhā—mūru prakāravāgi*) (in three ways). समक्तं—सिक्तवाद (*samaktaṃ—siktavāda*) (sprinkled). हव्यं—हविस्सन्नु (*havyaṃ—havissannu*) (the oblation). प्रजानन्—तिळिदुकॊंडु (*prajānan—tiḷidukòṃḍu*) (knowing). देवेभ्यः—देवतॆ गळिगॆ (*devebhyaḥ—devatè gaḷigè*) (to the gods (the word is divided by a line break)). उप नयतु—तॆगॆदुकॊंडु होगि अर्पिसलि (*upa nayatu—tègèdukòṃḍu hogi arpisali*) (let him take and offer).
+
+**भावार्थ (Bhāvārtha)**
+
+May the deity presiding over the sacrificial post, approving our rite, be near us. May Agni, the support of cooking, prepare the oblation in the form of the animal by rites. May Agni, the divine immolator, who cuts and prepares the animal for the gods, knowing the oblation sprinkled in three ways, take it to the gods and offer it.
+
+**Printed English translation**
+
+May Agni, who is Vanaspati, approving (of our rite), approach : and by his especial acts fully dress the victim ; may the divine immolator convey the burnt-offering to the gods knowing it to have been thrice consecrated.
+
+#### Ṛk 11
+
+*[The Saṃhitā lines are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> घृ॒तं मि॑मिक्षे घृ॒तम॑स्य॒ योनि॑र्घृ॒ते श्रि॒तो घृ॒तम्व॑स्य॒ धाम॑ ।
+> अ॒नु॒ष्व॒धमा व॑ह मा॒दय॑स्व॒ स्वाहा॑कृतं वृषभ वक्षि ह॒व्यं ॥११॥
+
+*(The supplied text ends here, after the Saṃhitā of Ṛk 11 of Sūkta 3 on p. 468; the Pada follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 464 (PDF 464). Mandala 2 Sukta 3 Rik 6 and Rik 7 complete; two Pada words corrected to the figure image; two Saṃhitā readings marked with a query
+**Progress note:** Done through printed p. 468 (PDF 468). Mandala 2 Sukta 3 Rik 8, Rik 9 and Rik 10 complete; Rik 11 Samhita; unmarked p. 468 marked; five readings marked with a query
