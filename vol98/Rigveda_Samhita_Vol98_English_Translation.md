@@ -1890,6 +1890,101 @@ In these sentences it is said that name and form are the two great *abhvas* of B
 
 is contained in the word *abhva* in this ṛk. Explaining the sense of this word, Sāyaṇa has given its pervasive purport as “ अभ्वं महत् सर्वं वस्तुजातं ” (*“ abhvaṃ mahat sarvaṃ vastujātaṃ ”*). Some (the sentence is cut off at the end of the window).
 
+### Printed p. 65
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2] Ṛgveda-saṃhitā 65. The window begins inside the Special Topics of Ṛk 2, continuing the note on *abhva* from p. 64.*
+
+… in some places a pervasive good power and in others an evil power is indicated. In the Ṛksaṃhitā the word is used in both senses.
+
+प्र ये वसुभ्य ईवदा नमो दुर्ये मित्रे वरुणे सूक्तवाचः । (*pra ye vasubhya īvadā namo durye mitre varuṇe sūktavācaḥ |*)
+अवैत्वभ्वं कृणुता वरीयो दिवस्पृथिव्योरवणा मदेम ॥ (*avaitvabhvaṃ kṛṇutā varīyo divaspṛthivyoravaṇā madema ‖*)
+
+(Ṛ. Saṃ. [printed ಪು. ಸಂ.] 5-49-5)
+
+here, with अभ्यं महद्धनं तेजो ना । (*abhyaṃ mahaddhanaṃ tejo nā |*), the sense is great power of splendour;
+
+द्यावो न यस्य पनयंत्यभ्वं भासांसि वस्ते सूर्यो न शुक्रः । (*dyāvo na yasya panayaṃtyabhvaṃ bhāsāṃsi vaste sūryo na śukraḥ |*)
+वि य इनोत्यजरः पावकोऽश्नस्य चिच्छिश्नथत्पूर्वाणि ॥ (*vi ya inotyajaraḥ pāvako 'śnasya cicchiśnathatpūrvāṇi ‖*)
+
+(Ṛ. Saṃ. [printed ಪು ಸಂ,] 6-4-3)
+
+here, with अभ्यं महत्कर्म । (*abhyaṃ mahatkarma |*), it is understood as great power of action. In both these contexts the word is used in the sense of a good power.
+
+ता इन्ने ३ इव समना समानीरमीतवर्णा उपसच्चरंति । (*tā inne 3 iva samanā samānīramītavarṇā upasaccaraṃti |*)
+गूहंतीरभ्वमसितं रुशद्भिः शुक्रास्तनूभिः शुचयो रुचानाः ॥ (*gūhaṃtīrabhvamasitaṃ ruśadbhiḥ śukrāstanūbhiḥ śucayo rucānāḥ ‖*)
+
+(Ṛ. Saṃ. [printed ಪು ಸಂ.] 4-51-9)
+
+in this ṛk the sense is a great pitch darkness. Thus, as the word *abhva* is used when an altered, violent elemental power is indicated, so it is used in the present ṛk too: here the prayer is "protect us from the great, fear-causing sin".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+अचरंती (*acaraṃtī*) (root चर गतिभक्षणयोः (*cara gatibhakṣaṇayoḥ*)): the present-participle substitute for the tense suffix; by उगितश्च (*ugitaśca*) (Pā. Sū. 4-1-7 [as printed]) the feminine suffix *ṅīp*; when the *nañ*-tatpuruṣa compound is made, by तत्पुरुषेतुल्यार्थ (*tatpuruṣetulyārtha*) (Pā. Sū. 6-2-2) the accent of the first member, the indeclinable, is retained. पद्वंतम् (*padvaṃtam*) ("that which has a foot"): *matup* by *tadasyāsti*; by झयः (*jhayaḥ*) (Pā. Sū. 8-2-10) *m* becomes *v*; by interchange *matup* takes the acute; in the accusative singular, because it has the mark *uk*, the augment *num* (printed so). अपदी (*apadī*) ("those of which there is no foot"): by नञ्सुभ्याम् (*nañsubhyām*) (Pā. Sū. 6-2-172) the last-syllable acute of the later member; the substitute *pad* for *pāda*; by पादोऽन्यतरस्याम् (*pādo 'nyatarasyām*) (Pā. Sū. 4-1-8) *ṅīp*; when the dual follows, by सुपां सुलुक् (*supāṃ suluk*) lengthening to the preceding class vowel.
+
+*[A stray line "[5] Vol. 14", a page-footer artefact, ends p. 65 in the supplied text.]*
+
+### Printed p. 66
+
+*Running head: [66 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1 A. 24. Sū 185].*
+
+दधाते (*dadhāte*) (root डुधाण् (*ḍudhāṇ*), in the sense of bearing and nourishing): present, third person dual; the finite-verb *nighāta* accent arises. द्यावापृथिवी (*dyāvāpṛthivī*) ("the sky and the earth"): by दिवोद्यावा (*divodyāvā*) (Pā. Sū. 6-3-29) the substitute *dyāvā* in the dvandva; in the Vedic manner a finite verb is used in the middle of the dvandva; by *sulug* of the case endings, with a dual following, lengthening to the preceding class vowel; because it stands at the beginning of the pāda there is no *nighāta*; by आमंत्रितस्य (*āmaṃtritasya*) (Pā. Sū. 6-1-198) the first-syllable acute. रक्षतम् (*rakṣatam*) (root रक्षपालने (*rakṣapālane*), in the sense of protecting): imperative, second person dual; by आमंत्रितं (*āmaṃtritaṃ*) पूर्वमविद्यमानवत् (*pūrvamavidyamānavat*) (Pā. Sū. 8-1-72) the earlier word is as if non-existent, and since it does not follow a verb there is no *nighāta*; by तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-187) the present-tense suffix is unaccented and the accent of the root remains.
+
+*[A stray line ":0:" follows in the supplied text.]*
+
+#### Ṛk 3
+
+*[As supplied, the label line of the Pada reads १ हदपाकि १ (*1 hadapāki 1*) (inside the Saṃhitā block); the label of the bhāṣya reads । (*|*) (inside the Pada block); standard labels inserted. The Saṃhitā's last word and the Ṛk number were split between two lines in the supplied text and have been joined.]*
+
+**॥ संहितापाठः ॥**
+
+> अ॒ने॒हो दा॒त्रमदि॑तेरन॒र्वं हु॒वे स्व॑र्वदव॒धं नम॑स्वत् ।
+> तद्रो॑दसी जनयतं जरि॒त्रॆ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> अनेहः । दात्रं । अदितेः । अनर्वं । हुवे । स्वःऽवत् । अवधं । नमस्वत् ।
+> तत् । रोदसी इति । जनयतं । जरित्रॆ । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अदितेः । एतदंतरिक्षस्याप्युपलक्षणं । अखंडनीयायाः पृथिव्यास्तादृशस्यां-
+> तरिक्षस्य च संबंधि दात्रं धनं हुवे । आह्वयामि । स्पृहयामीत्यर्थः । कीदृशं
+> तद्धनं । आनेहोऽपासं दुःखरहितं सुखात्मकं अनर्वमनरणं । अक्षीणमित्यर्थः ।
+
+> *aditeḥ | etadaṃtarikṣasyāpyupalakṣaṇaṃ | akhaṃḍanīyāyāḥ pṛthivyāstādṛśasyāṃ-*
+> *tarikṣasya ca saṃbaṃdhi dātraṃ dhanaṃ huve | āhvayāmi | spṛhayāmītyarthaḥ | kīdṛśaṃ*
+> *taddhanaṃ | āneho 'pāsaṃ duḥkharahitaṃ sukhātmakaṃ anarvamanaraṇaṃ | akṣīṇamityarthaḥ |*
+
+### Printed p. 67
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2] Ṛgveda-saṃhitā 67. The bhāṣya block continues from p. 66.*
+
+> स्वर्वत् सर्वतः फलभूतेन स्वर्गेण तद्वत् अवधमहिंसितं नमस्वदन्नवत् । ईदृशं
+> धनं हुवे । तदस्माभिः कांक्षितमुक्तलक्षणं धनं हे रोदसी द्यावापृथिव्य जरित्रे
+> स्तोत्रे यजमानाय जनयतं । उत्पादयतं । द्यावेत्यादि व्याख्यातं ॥
+
+*Gist:* I invoke the wealth of Aditi (the earth and the atmosphere), painless, undiminished, heaven-like, unharmed and full of food; O Heaven and Earth, grant such wealth to the praiser, and protect us from sin.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अदितेः (*aditeḥ*) — of the indivisible (complete) atmosphere and earth. अनेहः (*anehaḥ*) — painless (hence of the nature of happiness). अनर्वं (*anarvaṃ*) — free from decay. स्वर्वत् (*svarvat*) — equal to heaven full of fruit. अवधं (*avadhaṃ*) — unharmed. नमस्वत् (*namasvat*) — abounding in food. दात्रं (*dātraṃ*) — wealth. हुवे (*huve*) — I desire. रोदसी (*rodasī*) — O Heaven and Earth. तत् (*tat*) — that wealth desired by us. जरित्रॆ (*jaritrè*) — to the praising sacrificer. जनयतं (*janayataṃ*) — bring about. द्यावापृथिवी (*dyāvāpṛthivī*) — O earth and atmosphere (as printed). अभ्वात् (*abhvāt*) — from the sin that causes fear. नः (*naḥ*) — us. रक्षतं (*rakṣataṃ*) — protect.
+
+**भावार्थ (Bhāvārtha)**
+
+I desire the wealth that belongs to the complete earth and atmosphere, that is happiness itself through the absence of pain, free from decay, equal to heaven full of fruit, unharmed and abounding in food. O Heaven and Earth, bring about for the praising sacrificer that wealth which we desire. Protect us from the sin that causes fear.
+
+**Printed English translation**
+
+
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु]* (*viśeṣavivaragaḷu]**); standard label inserted.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk there is the prayer दात्रं हुवे (*dātraṃ huve*), "I desire wealth"; and अदितेः, अनेहः, अनर्वं, स्वर्वत्, अवधं, नमस्वत् (*aditeḥ, anehaḥ, anarvaṃ, svarvat, avadhaṃ, namasvat*) are all epithets describing the nature of दात्रं (*dātraṃ*), that is, of wealth.
+
+आदितेः (*āditeḥ*) — for this word Sāyaṇa has given the sense as follows: एतदंतरिक्षस्याप्युलक्षणं । अखंडनीयायाः पृथिव्याः तादृशस्यांतरिक्षस्य च संबंधि दात्रं । (*etadaṃtarikṣasyāpyulakṣaṇaṃ | akhaṃḍanīyāyāḥ pṛthivyāḥ tādṛśasyāṃtarikṣasya ca saṃbaṃdhi dātraṃ |*). The word *aditi* may refer to the atmosphere, and may denote the nature of the indivisible earth (the first letter is printed with a different vowel from the epithet in the previous sentence, as supplied).
+
 ---
 
-**Progress note:** Done through printed p. 64 (PDF 64). Sukta 185 Rik 2 Special Topics: pitr/matr, upastha, nitya, abhva (continues on next page)
+**Progress note:** Done through printed p. 67 (PDF 67). Rik 2 Special Topics end, grammar page; Rik 3 (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English), Special Topics begin (continues on next page)
