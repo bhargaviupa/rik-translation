@@ -5480,6 +5480,136 @@ explains the word *śeva* as follows: शेव इति सुखनाम (*�
 
 *[The supplied text ends with the stray line [13] Vol. 14 (*[13] Vol. 14*); not part of the text.]*
 
+### Printed p. 194
+
+*Running head: [194 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 187] (as supplied).*
+
+**Vyākaraṇa-prakriyā** (continuation of the Ṛk 3 grammar page, noted briefly)
+
+सुशेवः (*suśevaḥ*) (root शीज् स्वप्ने (*śīj svapne*)): by इण् शीज्भ्यां वन् (*iṇ śījbhyāṃ van*) (उ. सू. १-१५० (*u. sū. 1-150*)) the suffix *van*; by सार्वधातुकार्ध— (*sārvadhātukārdha—*) guṇa; being marked *n*, the initial syllable is acute. In the compound, overriding the *su* accent, by आद्युदात्तं द्वैच् छंदसि (*ādyudāttaṃ dvaic chaṃdasi*) (पा. सू. ६-२-११९ (*pā. sū. 6-2-119*)) the final member gets the acute on its first syllable. अद्वयाः (*advayāḥ*): by तत्पुरुषे तुल्या— (*tatpuruṣe tulyā—*) (पा. सू. ६-२-२ (*pā. sū. 6-2-2*)) the first member *nañ* keeps its natural accent.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> तव॒ तै [?] पि॑तो॒ रसा॒ रजां॒स्यनु॒ विष्ठि॑ताः ।
+> दि॒वि वाता॑ इव श्रि॒ताः ॥ ४ ॥
+
+> *tava tai [?] pito rasā rajāṃsyanu viṣṭhitāḥ |*
+> *divi vātā iva śritāḥ ‖ 4 ‖*
+
+*[The Saṃhitā has तै [?] (*tai [?]*) against the Pada's *tye*; marked [?].]*
+
+**॥ पदपाठः ॥**
+
+> तव । त्ये । पितो इति । रसाः । रजांसि । अनु । विस्थिताः ।
+> दिवि । वातार्षइव [?] । श्रिताः ॥ ४ ॥
+
+> *tava | tye | pito iti | rasāḥ | rajāṃsi | anu | visthitāḥ |*
+> *divi | vātārṣaiva [?] | śritāḥ ‖ 4 ‖*
+
+*[The Pada prints वातार्षइव [?] (*vātārṣaiva [?]*) for *vātāḥ iva*; marked [?].]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे पितो तव त्वत्संबंधिनस्ये ते स्वाद्वम्लादिषड्रसा रजांसि लोकाल्लोक-
+> स्थानार्थानन्वानुकूल्येन विष्ठिताः । विविधं स्थिताः । विविधस्थितौ दृष्टांतः । दिवि द्युलो-
+> केंतरिक्षे श्रिता वाता नायवः ते यथा व्याप्तस्तद्वत् ॥
+
+*Gist:* O Pito, those six flavours of yours, sweet, sour and the rest, are variously spread through the worlds as the winds are spread in the sky.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पितो—ऎलै अन्नवे (*pito—èlai annave*) (O food). दिवि—अंतरिक्षदल्लि (*divi—aṃtarikṣadalli*) (in the atmosphere). श्रिताः—आश्रयिसि प्रसरिसिरुव (*śritāḥ—āśrayisi prasarisiruva*) (spread, resting). वाताः इव—वायुगळु सर्वत्र व्याप्तवागिरुवंतॆ (*vātāḥ iva—vāyugaḷu sarvatra vyāptavāgiruvaṃtè*) (as the winds are diffused everywhere). ते--निन्न (*te--ninna*) (your). त्ये रसाः—प्रसिद्धवाद आम्लादि षड्र सगळू सह (*tye rasāḥ—prasiddhavāda āmlādi ṣaḍra sagaḷū saha*) (the well-known six flavours, sour and the rest). रजांसि—लोकगळन्नॆल्ला (*rajāṃsi—lokagaḷannèllā*) (all the worlds). अनुविष्ठिताः—लोकक्कॆ अनुकूलकरवागिरुवंतॆ विध विधवागि प्रसरिसि व्यापिसिवॆ (*anuviṣṭhitāḥ—lokakkè anukūlakaravāgiruvaṃtè vidha vidhavāgi prasarisi vyāpisivè*) (are spread in many ways, favourably for the world).
+
+**भावार्थ (Bhāvārtha)**
+
+O food, as the winds spread in the atmosphere pervade everywhere, so your six flavours, sour and the rest, pervade all the worlds in many ways and are favourable to the world.
+
+### Printed p. 195
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 6] Ṛgveda-saṃhitā 195 (as supplied).*
+
+**Printed English translation**
+
+Your flavours, Pitu, are diffused through the regions, as the winds are spread through the sky.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+त्ये—ते (*tye—te*) — wherever the word *tya* occurs in the Ṛgveda it has the sense of the word *tad*, "that". The Nirukta-authors
+
+त्यमू षु वाजिनं देवजूतं सहावानं तरुतारं रथानां । (*tyamū ṣu vājinaṃ devajūtaṃ sahāvānaṃ tarutāraṃ rathānāṃ |*)
+(ऋ. सं. १०-१७८-१) (*(ṛ. saṃ. 10-178-1)*)
+
+प्रति त्यं चारुमध्वरं गोपीथाय प्र हूयसे । मरुद्धिरग्न आ गहि ॥ (*prati tyaṃ cārumadhvaraṃ gopīthāya pra hūyase | maruddhiragna ā gahi ‖*)
+(ऋ. सं १-१९-१) (*(ṛ. saṃ 1-19-1)*)
+
+in these and other ṛks explain the word *tyaṃ* as *taṃ*, "him" (नि. १०-२९, ३७ (*ni. 10-29, 37*)).
+
+रजांसि (*rajāṃsi*) — the word *rajaḥ* is read among the thirty names of night, *śyāvī*, *kṣapā* and others (नि. २-१८ (*ni. 2-18*)), and Yāska, explaining the sense of *rajaḥ*, says:
+
+रजः । रजो रजतेर्जोर्यती रज उच्यते । उदकं रज उच्यते । लोका (*rajaḥ | rajo rajaterjoryatī raja ucyate | udakaṃ raja ucyate | lokā*)
+रजांस्युच्यंते ॥ (*rajāṃsyucyaṃte ‖*)
+(नि. ४-१९) (*(ni. 4-19)*)
+
+Since it is derived from the root *rajati* in the sense "to shine", *rajaḥ* means light; *rajaḥ* also means water; the plural *rajāṃsi* also means worlds: so Yāska explains, and as an example
+
+भुवो यज्ञस्य रजसश्च नेता यत्रा नियुद्भिः सचसे शिवाभिः । (*bhuvo yajñasya rajasaśca netā yatrā niyudbhiḥ sacase śivābhiḥ |*)
+दिवि मूर्धानं दधिषे स्वर्षां जिह्वामग्ने चकृषे हव्यवाहं ॥ (*divi mūrdhānaṃ dadhiṣe svarṣāṃ jihvāmagne cakṛṣe havyavāhaṃ ‖*)
+(ऋ. सं. १०-८-६) (*(ṛ. saṃ. 10-8-6)*)
+
+shows that in this ṛk the word *rajasaḥ* has the sense "water", and in
+
+रजांसि चित्रा विचरंति तान्यवः । (*rajāṃsi citrā vicaraṃti tānyavaḥ |*)
+अद्या चिन्नू चित्रदपो नदीनां यदाभ्यो अरदो गातुमिंद्र । (*adyā cinnū citradapo nadīnāṃ yadābhyo arado gātumiṃdra |*)
+नि पर्वता अद्मसदो न सेदुस्त्वया दृळ्हानि सुकृतो रजांसि ॥ (*ni parvatā admasado na sedustvayā dṛḷhāni sukṛto rajāṃsi ‖*)
+ऋ. सं. (६-३०-३) (*ṛ. saṃ. (6-30-3)*)
+
+and other ṛks that the word *rajāṃsi* has the sense "worlds". In the present ṛk the sense is "worlds".
+
+रसाः दिवि वाता इव श्रिताः (*rasāḥ divi vātā iva śritāḥ*) — just as the wind in the atmosphere spreads evenly everywhere, so the six flavours, sweet and the rest, pervade food and produce flavours of many kinds: the sage here gives this as an illustration.
+
+### Printed p. 196
+
+*Running head: [196 Sāyaṇa-bhāṣya-sahitā [Maṃ. ಗ. 24. Sū. 187] (as supplied, the print has "ಗ." for the first abbreviation).*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 4, noted briefly)
+
+रजांसि (*rajāṃsi*) (root रंज रागे (*raṃja rāge*)): by भूरंजिभ्यां कित् (*bhūraṃjibhyāṃ kit*) (उ. सू. ६-५६ (*u. sū. 6-56*)) the suffix *asun*; because it is made *kit*, by अनिदितां हल उपधा (*aniditāṃ hala upadhā*) the nasal is dropped; the suffix being marked *n*, the first syllable is acute. विष्ठिताः (*viṣṭhitāḥ*) (root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*)): by निष्ठा (*niṣṭhā*) the suffix *kta*; by द्यतिस्यति मास्था— (*dyatisyati māsthā—*) (पा. सू ७-४.४० (*pā. sū 7-4.40*)) the *ā* of the root becomes *i*; by गतिरनंतरः (*gatiranaṃtaraḥ*) (पा. सू. ६-१-४९ (*pā. sū. 6-1-49*)) the preverb (*vi*) takes the *nighāta* accent. Two stray marks of the supplied text follow ("4" and a ruled line with ":0:"); not part of the text.
+
+#### Ṛk 5
+
+*[As supplied, the label line reads संभाषणॆ (*saṃbhāṣaṇè*); standard label inserted. The Saṃhitā again has तै [?] (*tai [?]*) against the Pada's *tye*; marked [?].]*
+
+**॥ संहितापाठः ॥**
+
+> तव॒ तै [?] पि॑तो॒ दद॑त॒स्तव॑ स्वादिष्ट॒ ते पि॑तो ।
+> प्र स्वा॒द्मानो॒ रसा॑नां तुवि॒ग्रीवा॑ इवेरते ॥ ५ ॥
+
+> *tava tai [?] pito dadatastava svādiṣṭa te pito |*
+> *pra svādmāno rasānāṃ tuvigrīvā iverate ‖ 5 ‖*
+
+*[As supplied, the label line of the Pada reads । पदराणि॥ (*| padarāṇi‖*); standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> तव । त्ये । पितो इति । ददतः । तव । स्वादिष्ट । ते । पितो इति ।
+> प्र । स्वाद्मानः । रसानां । तुविग्रीवाः इव । ईरते ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे पितो पालकान्न तै ते त्वदर्थिनो नरास्तव भोक्तारो भवंतीति शेषः ।
+> के ते नराः । हे स्वादिष्ट स्वादुतम पितो पालक तव त्वदनुग्रहात्ते त्वां ददतः
+> प्रयच्छंतो भवंति । यद्वा । ते पितो इत्यादरार्थं । अभ्यासे हि भूयांसमर्थं
+> मन्यंते । किंच तव रसानां स्वाद्वम्लादीनां षण्णां स्वाद्मानः स्वादयितारो भक्ष-
+> यितार एव तुविग्रीवा इव । तुवीति बहुनाम । प्रवृद्धग्रीवा एव प्रेरते । प्रकर्षण
+> गच्छंति । संचरंति । इवशब्द विवकारार्थः पूरणो वा । भूलोकेत्तार एव
+> दृढांगा भवंतीति प्रसिद्धं । अनशने हि ग्रीवा अधो लंबंते । यद्वा । तव रसाना-
+> मत्तारोऽसंख्यातग्रीवा इव भवंति रसानां बाहुल्यादिति भावः । एवं बहुरसो-
+> पेतमन्नमिति तस्य स्तुतिः ॥
+
+*Gist:* O Pito, men who seek you become your eaters and givers by your favour; the eaters of your flavours go out like men with swelling necks, since fasting makes the neck hang down.
+
 ---
 
-**Progress note:** Done through printed p. 193 (PDF 193). Done through printed p. 193 (Sukta 187 Rik 3 complete incl. Special Topics and grammar page); [?] on atijintada, shimbata/shatara
+**Progress note:** Done through printed p. 196 (PDF 196). Done through printed p. 196 (Sukta 187 Rik 4 complete; Rik 5 Samhita, Pada, bhashya done; Rik 5 Pratipadartha next); [?] on tai/tye, vatarsha iva
