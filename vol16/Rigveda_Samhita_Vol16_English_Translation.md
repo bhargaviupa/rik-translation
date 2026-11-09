@@ -2978,6 +2978,78 @@ That is: in the same way, in the case of the other deities too, namely Mitra, Va
 
 In these children [sic, as supplied; probably "in this Ṛk"] Mitra and Varuṇa are praised by the word *āditya*, and … (the sentence continues on p. 105).
 
+### Printed p. 105
+
+*[Running head, p. 105: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 105]*
+
+**Special Topics** (continued)
+
+प्र स मित्र मर्तो आस्तु प्रयस्वान्यस्त आदित्य शिक्षति व्रतेन । न हन्यते न जीयते त्वोतो नैनमंहो अश्नोत्यंतितो न धूरात् (*pra sa mitra marto āstu prayasvānyasta āditya śikṣati vratena | na hanyate na jīyate tvoto nainamaṃho aśnotyaṃtito na dhūrāt*) (Ṛ. Saṃ. 3-59-2; the line is printed twice, the second time as "Ma. Saṃ. 3-59-2"). In this Ṛk the deity Mitra is praised by the word आदित्य (*āditya*) (*āditya*), and likewise,
+
+उदुत्तमं वरुण पाशमस्मदवाधमं वि मध्यमं श्रथाय । अथा वयमादित्य व्रते तवानागगो अदितये स्याम ॥ (*uduttamaṃ varuṇa pāśamasmadavādhamaṃ vi madhyamaṃ śrathāya | athā vayamāditya vrate tavānāgago aditaye syāma ‖*) (Ma. Saṃ. 1-24-15). In this Ṛk Varuṇa is addressed by the word आदित्य (*āditya*) (*āditya*). After giving the meaning of the word आदित्य (*āditya*) (*āditya*), the Nirukta-author cites,
+
+स्वरादित्योभवति । वृश्निरादित्यो भवति । नाक आदित्योभवति । गौरा-दित्योभवति । विष्टबादित्यो भवति । नभ आदित्यो भवति ॥ (*svarādityobhavati | vṛśnirādityo bhavati | nāka ādityobhavati | gaurā-dityobhavati | viṣṭabādityo bhavati | nabha ādityo bhavati ‖*) (Ni. 9-15),
+
+and so illustrates the secondary (figurative) grounds of application in the matters denoted by the word आदित्य (*āditya*) (*āditya*). The meaning is that by the words स्वः (*svaḥ*) (*svaḥ*), पृश्निः (*pṛśniḥ*) (*pṛśniḥ*) [as printed in the Sāyaṇa quotation: वृश्नि (*vṛśni*)], नाकः (*nākaḥ*) (*nākaḥ*), गौः (*gauḥ*) (*gauḥ*), विष्टप् (*viṣṭap*) (*viṣṭap*), heaven (the firmament) is denoted by the word आदित्य (*āditya*) (*āditya*).
+
+यदेदेनमदधुर्यज्ञॆयासो दिवि देवा: सूर्यमादितेयं । यदा चरिष्णू मिथुनावभूतामादित्सा पश्यन् भुवनानि विश्वा ॥ (*yadedenamadadhuryajñèyāso divi devā: sūryamāditeyaṃ | yadā cariṣṇū mithunāvabhūtāmāditsā paśyan bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 10-88-11). Since in this Ṛk it is stated in the Brāhmaṇa sentence यदस्य दिवि त्कृतीयं तवसावादित्य इति हि ब्राह्मणं (*yadasya divi tkṛtīyaṃ tavasāvāditya iti hi brāhmaṇaṃ*) (as printed, doubtful letters), the use of the name Āditya for Agni also occurs.
+
+इमा गिर आदित्येभ्यो धृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि । शृणोतु मित्रो आर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ॥ (*imā gira ādityebhyo dhṛtasnūḥ sanādrājabhyo juhvā juhomi | śṛṇotu mitro āryamā bhago nastuvijāto varuṇo dakṣo aṃśaḥ ‖*) (Ma. Saṃ. 2-27-1). In this Ṛk, from the sentence आदित्येभ्यः जुह्वा जुहोमि (*ādityebhyaḥ juhvā juhomi*) (*ādityebhyaḥ juhvā juhomi*), together with
+
+अथातो द्युस्थाना देवगणाः तेषामादिश्याः प्रथमागामिनो भवंति । (*athāto dyusthānā devagaṇāḥ teṣāmādiśyāḥ prathamāgāmino bhavaṃti |*) (Ni. 12-35),
+
+it is said that among the groups of gods dwelling in the heavenly region the Ādityas are the chief; hence the name Āditya is applied figuratively to all the deities. Sāyaṇa here explains that the Ādityas are twelve deities beginning with Mitra, and that they are all varieties of the Āditya.
+
+*(page break)*
+
+### Printed p. 106
+
+*[Running head, p. 106: 106 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+रुद्रा: (*rudrā:*) (*rudrāḥ*) — एकादशरुद्राः (*ekādaśarudrāḥ*) (*ekādaśarudrāḥ*), the eleven Rudras. The word रुद्र (*rudra*) (*rudra*) is stated among the names of praisers (Ni. 3-19). The Nirukta-authors explain: रुद्रो रौतीति सतः, रोरूयमाणो द्रवतीति वा “यदरुदत् तद्रुद्रस्य रुद्रत्वम्” इति हारिद्रविकम् (*rudro rautīti sataḥ, rorūyamāṇo dravatīti vā “yadarudat tadrudrasya rudratvam” iti hāridravikam*) (*rudro rautīti sataḥ, rorūyamāṇo dravatīti vā "yadarudat tadrudrasya rudratvam" iti hāridravikam*) [as supplied; सतः (*sataḥ*) doubtful]; and in the Kāṭhaka-brāhmaṇa, “ स किल पितरं प्रजापतिमिषुणा निध्यंतमनुशोचन्नरुदत् तद्रुद्रस्य रुद्रत्वं ” (*“ sa kila pitaraṃ prajāpatimiṣuṇā nidhyaṃtamanuśocannarudat tadrudrasya rudratvaṃ ”*) — "he saw his father Prajāpati pierced by an arrow and wept; therefore he is named Rudra" is said; and the Maitrāyaṇa branch has the name Hāridrava, in which also the derivation of the word रुद्र (*rudra*) (*rudra*) is stated in the same way, say the Nirukta-authors. They go on to cite
+
+इमा रुद्राय स्थिरधन्वने गिरः क्षिप्रेषवे देवाय स्वधान्ने । आषाळ्दाय सहमानाय वेधसे तिग्मायुधाय भरता शृणोतु नः ॥ (*imā rudrāya sthiradhanvane giraḥ kṣipreṣave devāya svadhānne | āṣāḷdāya sahamānāya vedhase tigmāyudhāya bharatā śṛṇotu naḥ ‖*) (Ṛ. Saṃ. 7-46-1),
+
+and describe the quality and greatness of Rudra with this Ṛk. Sāyaṇa explains that these Rudras are eleven deities; and he gives the meaning that, since रोदयंति सर्वमंतकाले (*rodayaṃti sarvamaṃtakāle*) (*rodayaṃti sarvamaṃtakāle*) [sic, as supplied] — at the time of dissolution they make everyone weep — they are Rudras.
+
+वसव: (*vasava:*) (*vasavaḥ*) — अष्टौ वसवः (*aṣṭau vasavaḥ*) (*aṣṭau vasavaḥ*), the eight Vasus. The Nirukta-author says: वसवो यद्विवसते सर्वमग्निः वसुभिर्वास, वइति समाख्या तस्मात् सृधिवीस्थानाः । इंद्रोर्वसुभिर्वासव इति समाख्या तस्मात् मध्यमस्थानाः । वसव आदित्यरश्मयः विवासनात्तस्मात् द्युस्थानाः । (*vasavo yadvivasate sarvamagniḥ vasubhirvāsa, vaiti samākhyā tasmāt sṛdhivīsthānāḥ | iṃdrorvasubhirvāsava iti samākhyā tasmāt madhyamasthānāḥ | vasava ādityaraśmayaḥ vivāsanāttasmāt dyusthānāḥ |*) (as supplied; सृधिवीस्थानाः (*sṛdhivīsthānāḥ*) and the split वसुभिर्वास, वइति (*vasubhirvāsa, vaiti*) look garbled).
+
+The word वसु (*vasu*) (*vasu*), formed from the root वस निवासे (*vasa nivāse*) (*vasa nivāse*), has two kinds of meaning: "dwell", and "make to dwell happily". Hence one meaning: because terrestrial fire nourishes the whole world so that it lives happily, it is the sense of the word *vasu*, and because this fire pervades only the earth it has the earth as its region. Because Indra, by his wealth (riches), makes the whole universe dwell happily, he is a *vasu* and a god of the middle region: the second meaning. Because the rays of the Sun protect the whole world happily, they are gods of the heavenly region: the third meaning. Thus the meaning of the word वसवः (*vasavaḥ*) (*vasavaḥ*) is stated in three ways, as Agni, Indra and the rays of the Sun [the Kannada has "the wives of the Sun" सूर्यपत्निगळु (*sūryapatnigaḷu*) (*sūryapatnigaḷu*), as supplied; the context suggests "rays"]. Then,
+
+ज्मया अत्र वसवो रंत देवा उरावंतरिक्षे मर्जयंत शुभ्राः । अर्वाक्षथ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो नो अस्य ॥ (*jmayā atra vasavo raṃta devā urāvaṃtarikṣe marjayaṃta śubhrāḥ | arvākṣatha urujrayaḥ kṛṇudhvaṃ śrotā dūtasya jagmuṣo no asya ‖*) (Ma. Saṃ. 7-39-3).
+
+Citing this Ṛk, he explains: Agni, being on the earth the chief god for the increase of sacrificial rites, is the one pervading the earth-region; likewise Indra, because he protects everything, is the god of the middle region; and the rays of the Sun, dwelling in the firmament and producing light, are gods of the heavenly region. And,
+
+*(page break)*
+
+### Printed p. 107
+
+*[Running head, p. 107: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 107]*
+
+सुगावो देवाः सुपथा अकर्म य आजग्मुः सवनमिदं जुषाणः । जक्षिवांसः पपिवांसश्च विश्वेऽस्मॆ धत्त वसवो वसूनि ॥ (*sugāvo devāḥ supathā akarma ya ājagmuḥ savanamidaṃ juṣāṇaḥ | jakṣivāṃsaḥ papivāṃsaśca viśve 'smè dhatta vasavo vasūni ‖*) (Pā. Saṃ. 8-18, as printed).
+
+In this Ṛk he gives the meaning that these deities, denoted by the word *vasu*, may bestow वसु (*vasu*) (*vasu*), that is wealth, and describes their greatness. Hence the meaning "wealth" for the word वसु (*vasu*) (*vasu*) is stated in the Nirukta (Ni. 3-9); and वसवः (*vasavaḥ*) (*vasavaḥ*) as the rays of the Sun (Ni. 2-15) is also stated.
+
+सुगुरसत्सुहिरण्यः स्वश्वो बृहदस्मै वय इंद्रो दधाति । यस्त्वायंतं वसुना प्रातरित्वो मुक्षीजयेव पदिमुत्सिनाति ॥ (*sugurasatsuhiraṇyaḥ svaśvo bṛhadasmai vaya iṃdro dadhāti | yastvāyaṃtaṃ vasunā prātaritvo mukṣījayeva padimutsināti ‖*) (Ṛ. Saṃ. 1-125; and again "Pu. Saṃ. 1-125-2", as printed).
+
+Here Durgācārya has commented वसुना अन्नेन (*vasunā annena*) (*vasunā annena*), "by food"; hence the word *vasu* also means food. A meaning not stated by the Nirukta-authors in the Nirukta is stated in other Vedas. Following that, Sāyaṇa explains that the Ādityas are twelve persons, the Rudras (eleven, एकादश (*ekādaśa*) (*ekādaśa*)) eleven persons, and the Vasus eight persons. This matter is expounded in the first part (Vol. 1) of this Ṛgveda. He says that they are सुनीथाः (*sunīthāḥ*) (*sunīthāḥ*), सुष्टुतयॆः (*suṣṭutayèḥ*) (*suṣṭutayeḥ*) [sic, as supplied], those having excellent praises, or those much praised, and cites the Aitareya-brāhmaṇa sentence स्तुतशस्त्राणि नीथानि चोक्षामदानि च (*stutaśastrāṇi nīthāni cokṣāmadāni ca*) (Ai. Brā. 2-8), describing their greatness.
+
+द्यावाक्षामा (*dyāvākṣāmā*) (*dyāvākṣāmā*) — द्यौश्च क्षामा च (*dyauśca kṣāmā ca*) (*dyauśca kṣāmā ca*): the firmament and the earth. Although this word is not explained in the Nirukta among the words for Heaven-and-Earth, Sāyaṇa has explained the meaning "heaven and earth".
+
+पृथिवी (*pṛthivī*) (*pṛthivī*) — for this word, saying that it means पृथु विस्तीर्णं (*pṛthu vistīrṇaṃ*) (*pṛthu vistīrṇaṃ*), extensive or large, Sāyaṇa has explained it as an epithet of the word अंतरिक्षं (*aṃtarikṣaṃ*) (*aṃtarikṣaṃ*).
+
+सजोषसः (*sajoṣasaḥ*) (*sajoṣasaḥ*) — संगताः (*saṃgatāḥ*) (*saṃgatāḥ*), united, assembled together.
+
+आ रुद्रास इंद्रवंतः सजोषसो हिरण्यरथाः सुविताय गंशन । इयं वो अस्मत्पति दर्यते मतिस्तृष्णजे न दिव उत्सा उपन्यवे ॥ (*ā rudrāsa iṃdravaṃtaḥ sajoṣaso hiraṇyarathāḥ suvitāya gaṃśana | iyaṃ vo asmatpati daryate matistṛṣṇaje na diva utsā upanyave ‖*) (Ṛ. Saṃ. 5-57-1).
+
+Here the Nirukta-authors' explanation is सजोषसः सह जोषणाः (*sajoṣasaḥ saha joṣaṇāḥ*) (*sajoṣasaḥ saha joṣaṇāḥ*). Durgācārya describes the meaning as परमैश्वर्येण नित्यमासेविताः (*paramaiśvaryeṇa nityamāsevitāḥ*) (*paramaiśvaryeṇa nityamāsevitāḥ*): those constantly served by supreme lordship.
+
+अजुक्तान ईड्यो वंद्यश्च याद्यग्ने वसुभिः सजोषाः ॥ (*ajuktāna īḍyo vaṃdyaśca yādyagne vasubhiḥ sajoṣāḥ ‖*) (Ṛ. Saṃ. 10-110-3).
+
+Here it is interpreted: सजोषाः सहजोषणः समानप्रीतिः (*sajoṣāḥ sahajoṣaṇaḥ samānaprītiḥ*) (*sajoṣāḥ sahajoṣaṇaḥ samānaprītiḥ*), one of one and the same affection. The Ādityas, the Rudras, the Vasus, the firmament, and all these deities, in agreement (ऐकमत्येन (*aikamatyena*) (*aikamatyena*)) ... (the sentence continues on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 104 (PDF 104). Done through printed p. 104 (PDF 104). pp. 102-104: Sukta 8 Rk 7 grammar finished on p. 102; Rk 8 written (Samhita, Pada, bhashya gist, Pratipadartha, Bhavartha, printed English); its Special Topics are begun and break off mid-sentence at the end of p. 104 (Aditya / Mitra-Varuna, Rg. 2-41-6 cited), continuing on p. 105; no Rk 8 grammar page yet
+---
+
+**Progress note:** Done through printed p. 107 (PDF 107). Done through printed p. 107 (PDF 107). pp. 105-107: Sukta 8 Rk 8 Special Topics continue (Aditya, Rudra, Vasu, sajosas citations) and break off mid-sentence at the end of p. 107 (aikamatyena...), continuing on p. 108; no Rk 8 grammar page written yet
