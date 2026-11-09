@@ -10168,6 +10168,114 @@ In the first sentence of this ṛk there is the verb नि असदन् (*ni
 
 The page explains: गोष्ठे (*goṣṭhe*) (root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); the suffix *ka* when the word *go* is the upapada, by the rule सुपि स्थः (*supi sthaḥ*) (पा. सू. ३-२-४ (*pā. sū. 3-2-4*)); *ṣatva* of the root's *s* by the rule अंबांबगोभूमि (*aṃbāṃbagobhūmi*) (पा. सू. ८-२९-२ (*pā. sū. 8-29-2*), as printed); elision of the *ā* by आतोलोप इटि च (*ātolopa iṭi ca*); the accent of the verbal-derivative second member; locative singular); आसदन् (*āsadan*) (root षदल्य विशरणगत्यवसादनेषु (*ṣadalya viśaraṇagatyavasādaneṣu*), as printed; *luṅ* in the present sense in the Veda; *aj* substituted for *cli* by the rule पुषादिद्युता (*puṣādidyutā*); *ant* substituted for the plural suffix *jh*; the augment *aṭ*; the verbal *nighāta* accent); अविक्षत (*avikṣata*) (root विश प्रवेशने (*viśa praveśane*); *luṅ*, third person plural; the verbal *nighāta* accent); नि (*ni*) (the name *upasarga* is prescribed when a verb is connected; since here only *ni* is heard, a suitable verb is supplied; the supplied text ends within this grammar page).
 
+### Printed p. 344
+
+*Running head (as supplied): [344 सायणभाष्यसहिता [ मं. १. ९अ. २४. सू १९१] (*[344 sāyaṇabhāṣyasahitā [ maṃ. 1. 9a. 24. sū 191]*), as printed, with a stray ೯.*
+
+*(The Ṛk 4 grammar page ended at the end of the previous window; no continuation of it is printed at the head of this page.)*
+
+*[As supplied, the label line of the Saṃhitā reads संपादक (*saṃpādaka*); standard label inserted. Two readings of the Saṃhitā are marked with a query, as they differ from the Pada.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> ए॒त उ॒ तै [?] प्रत्य॑दृश्रन्म दो॒षं [?] तस्क॑रा इव ।
+> अदृ॑ष्टा॒ विश्व॑दृष्टाः॒ प्रति॑बुद्धा अभूतन ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> एते । ऊं इति । त्ये । प्रति । अदृश्रन् । प्रदोषं । तस्कराःइव ।
+> अदृष्टाः । विश्वदृष्टाः । प्रतिबुद्धाः । अभूतन ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> त्ये त एते सर्पाः प्रत्यदृश्यन् । प्रतिदृश्यंते रात्रौ श्वासादिलिंगेन । यद्वा ।
+> ते रात्रौ हंतारो दिव्यते प्रतिदृश्यंते । तत्र दृष्टांतः । प्रदोषं । रात्रिर्दोषा ।
+> रात्रिं प्रति तमसाभिभूतासु रात्रिषु तस्करा इव हिंसकाश्चौरा दृश्यंते यथा तद्वत् ।
+> कीदृशास्ते । अदृष्टा अपरिदृश्यमाना विश्वदृष्टा विश्वं दृष्टं यैस्ते तादृशाः प्रति-
+> दृश्यंते । अतो हे नराः प्रतिबुद्धा अभूतन । भवत ॥
+
+*Gist:* These snakes are discovered at night by their breathing, like thieves at dusk; unseen, they see all; so men should be watchful.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+तै ते—मेलॆ वर्णितवाद ई विषधरगळु (*tai te—melè varṇitavāda ī viṣadharagaḷu*) (these poison-bearers described above). प्रदोषं—मब्बिनिंद कूडिद प्रदोष कालदल्लि (*pradoṣaṃ—mabbiniṃda kūḍida pradoṣa kāladalli*) (in the dusky evening time). तस्करा इव—चोररु काणिसिकॊळ्ळुवंतॆ (*taskarā iva—coraru kāṇisikòḷḷuvaṃtè*) (as thieves are discovered). प्रत्यदृश्यन्—(रात्रिकालदल्लि अवुगळ निश्वासादिगळिंद) तिळियल्पडुत्तवॆ अथवा रात्रिय हॊत्तु काणदिद्दरू हगलुहॊत्तु काणल्प डुत्तवॆ (*pratyadṛśyan—(rātrikāladalli avugaḷa niśvāsādigaḷiṃda) tiḷiyalpaḍuttavè athavā rātriya hòttu kāṇadiddarū hagaluhòttu kāṇalpa ḍuttavè*) (are known, at night by their breathing and the like, or, though not seen at night, are seen by day). अदृष्टाः अवुगळु इतररिंद नोडल्पडदिद्दरू (*adṛṣṭāḥ avugaḷu itarariṃda noḍalpaḍadiddarū*) (though they are not seen by others). विश्वदृष्टाः—उळिद समस्तवन्नू सह अवु नोडुत्तवॆ (*viśvadṛṣṭāḥ—uḷida samastavannū saha avu noḍuttavè*) (they see everything else as well), (आदुदरिंद ऎलै जनरे) (*(ādudariṃda èlai janare)*) (therefore, O people). प्रतिबुद्धा अभूतन—बहळु ऎच्चरदिंदिरि (*pratibuddhā abhūtana—bahaḷu èccaradiṃdiri*) (be very watchful).
+
+*[As supplied, the label line of the Bhāvārtha reads बानार्ध (*bānārdha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+The poison-bearers described above are known, in the dusky evening time, at night by their breathing and the like, as thieves are discovered. Although others cannot see them, they can see everything else. Therefore, O people, all of you be watchful.
+
+**Printed English translation**
+
+Or they may be discovered (in the dark), as thieves in the (dusk of) evening; for although they be unseen, yet all are seen by them; therefore, men, be vigilant.
+
+### Printed p. 345
+
+*Running head (as supplied): [अ. २. अ. ५ व. १४ ] ऋग्वेदसंहिता 345 (*[a. 2. a. 5 va. 14 ] ṛgvedasaṃhitā 345*).*
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 5)**
+
+तै—ते (*tai—te*): in many places in the Ṛgveda it is customary to use the word *tyad* in place of the word *tad*.
+
+एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते । (*etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate |*)
+(म. सं. १९२१) (*(ma. saṃ. 1921)*)
+
+(The reference is printed म. सं. १९२१ (*ma. saṃ. 1921*), as supplied.) In such ṛks त्याः (*tyāḥ*) means ताः (*tāḥ*).
+
+प्रत्यदृशन् प्रदोषं (*pratyadṛśan pradoṣaṃ*) (as printed): are seen at night, that is, in the dark night snakes are generally known by the sound of their breathing; this is the purport.
+
+तस्करा इव (*taskarā iva*): the example of thieves is given with regard to moving in the dark. It is well known that thieves generally steal at night, when darkness has spread, at the time when everyone is asleep, so that nobody may see them. Likewise these wicked snakes, moving about in the dark night, cause danger to people.
+
+अदृष्टाः विश्वदृष्टाः (*adṛṣṭāḥ viśvadṛṣṭāḥ*): people cannot see the snakes that move or crawl about in the dark; therefore they remain unseen by the eye. Yet they alone can see everyone. Because they have this ability, there is a greater likelihood of danger to people from them. Therefore the sage tells people प्रतिबुद्धा अभूतन (*pratibuddhā abhūtana*): O people, you must be very watchful about these snakes.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 5, noted briefly)
+
+The page explains: त्यॆ (*tyè*) (the word *tyad*; *śi* substituted for *jas* in the nominative plural; by the rule त्यदादीनामः (*tyadādīnāmaḥ*) the substitution of *a*, the following form; the printed line ends with गुण (*guṇa*)); अदृश्रन् (*adṛśran*) (root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*); *luṅ* in the present sense in the Veda; *aj* substituted for *cli* by the rule इरितोवा (*iritovā*) (पा. सू. ३-१-५७ (*pā. sū. 3-1-57*)); the augment *ruṭ* for *jhi* by the rule बहुलंछंदसि (*bahulaṃchaṃdasi*) (पा. सू. ७-१-८ (*pā. sū. 7-1-8*)); the *nighāta* accent because it follows a verb form, printed अतिजंत (*atijaṃta*)); तस्कराः (*taskarāḥ*) (by the rule तद्बृहतोः करपत्यो (*tadbṛhatoḥ karapatyo*) (वा ३७१३ (*vā 3713*), as printed), when the word *pati* follows the word *tad* and the sense of thief appears, the augment *suṭ* in the middle and elision of the *d*); विश्वदृष्टाः (*viśvadṛṣṭāḥ*) (विश्वं दृष्टं यैस्ते विश्वदृष्टाः (*viśvaṃ dṛṣṭaṃ yaiste viśvadṛṣṭāḥ*); since a name is intended, by the rule बहुव्रीहौ विश्वं (*bahuvrīhau viśvaṃ*) the word *viśva* does not take the acute on the end; by the rule बहुव्रीहौ प्रकृत्या पूर्वपथम् (*bahuvrīhau prakṛtyā pūrvapatham*), as printed, the acute on the first syllable by the accent of the first member).
+
+### Printed p. 346
+
+*Running head (as supplied): [346 सायणभाष्यसहिता [ मं. १. आ. २४. सू. १९१] (*[346 sāyaṇabhāṣyasahitā [ maṃ. 1. ā. 24. sū. 191]*).*
+
+(The grammar page of Ṛk 5 continues.) अभूतन (*abhūtana*) (root भू सत्तायां (*bhū sattāyāṃ*); *luṅ* in the sense of the optative in the Veda; the suffix *thas* in the second person plural, for which *ta* is substituted by the rule तस्थस् फमिपां कांतंतामः (*tasthas phamipāṃ kāṃtaṃtāmaḥ*), as printed, and again *tana* by the rule तप्तनप्तनथनाश्च (*taptanaptanathanāśca*) (पा. सू ७-१-४४ (*pā. sū 7-1-44*)); prohibition of *guṇa* by भूसुवोस्तिजि (*bhūsuvostiji*); the augment *aṭ* for the stem; the verbal *nighāta* accent).
+
+*[As supplied, a line reading पदहार (*padahāra*) stands inside the Saṃhitā block of Ṛk 6 where the Pada label belongs, and a line reading सायणभाग्यं (*sāyaṇabhāgyaṃ*) where the bhāṣya label belongs; standard labels inserted. One reading of the Saṃhitā and one of the Pada are marked with a query, as they differ from the other lines.]*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> दौर्वः॑ [?] पि॒ता पृ॑थि॒वी मा॒ता सोमो॒ भ्रातादि॑तिः॒ स्वसा॑ ।
+> अदृ॑ष्टा॒ विश्व॑दृष्टा॒स्तिष्ठ॑ते॒ळय॑ता॒ सु कं॑ ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> द्यौः । वः । पिता । पृथिवी । माता । सोमः । भ्राता । अदितिः । स्वसा ।
+> अदृष्टाः । विश्वदृष्टाः । तिष्ठत । इळियत [?] । सु । कं ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अतः परं विषविचिकित्सा । तत्र तावत् हे सर्पाः वो युष्माकं द्यौः पिता ।
+> पृथिवी माता । सोमो भ्राता । अदितिर्देवमाता स्वसा । एवंमहानुभावा महो-
+> रगाः अदृष्टा अन्यैरदृश्यमानरूपाः स्वयं तु विश्वदृष्टाः सर्वस्य द्रष्टारो
+> यूयं तिष्ठत स्वस्वस्थाने । मां प्रति मा गच्छत । सु सुतरां कं सुखं यथा तथे-
+> ळयत । ईरयत । गच्छत । सोमशब्देन सोमाधारो द्युलोक उच्यते । पृथिव्यं-
+> तरिक्षद्यु स्थानस्थाः सर्पाः स्वस्वस्थानं प्राप्नुतास्मद्बाधं मा कुरतेत्यर्थः ॥
+
+*Gist:* After this, treatment of poison: serpents, heaven is your father, earth mother, Soma brother, Aditi sister; stay in your places, do not harm me.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(ऎलै सर्पगळे) वः—निमगॆ (*(èlai sarpagaḷe) vaḥ—nimagè*) (O serpents, to you). द्यौः—द्युलोकवु (*dyauḥ—dyulokavu*) (heaven). पिता—तंदॆयु (*pitā—taṃdèyu*) (father). पृथिवी—पृथि वियु (*pṛthivī—pṛthi viyu*) (the earth). माता—तायियु (*mātā—tāyiyu*) (mother). सोमः—सोमाधारवाद अंतरिक्षवु (*somaḥ—somādhāravāda aṃtarikṣavu*) (the atmosphere, the support of soma). भ्राता—ऒडहुट्टिदवनु (*bhrātā—òḍahuṭṭidavanu*) (brother). अदितिः—देवमातॆयाद अदितियु (*aditiḥ—devamātèyāda aditiyu*) (Aditi, the mother of the gods). स्वसा—सहोदरियु (*svasā—sahodariyu*) (sister). अदृष्टाः—इतररिंद नीवु नोड ल्पडदिद्दरू (*adṛṣṭāḥ—itarariṃda nīvu noḍa lpaḍadiddarū*) (though you are not seen by others). विश्वदृष्टाः—नीवु सकलवन्नू नोडबल्लिरि (*viśvadṛṣṭāḥ—nīvu sakalavannū noḍaballiri*) (you can see everything). तिष्ठत—निम्म निम्म प्रदेशदल्ले सुरक्षितवागिरि (*tiṣṭhata—nimma nimma pradeśadalle surakṣitavāgiri*) (stay safe in your own regions). सु—अतिशयवागि (*su—atiśayavāgi*) (exceedingly). कं—सुखवन्नु हॊंदुवंतॆ (*kaṃ—sukhavannu hòṃduvaṃtè*) (so as to obtain happiness). इलयत—वर्तिसिरि (*ilayata—vartisiri*) (behave).
+
+**भावार्थ (Bhāvārtha)**
+
+O serpents, heaven is your father, the earth your mother; Soma (the atmosphere, the support of soma) your brother, Aditi, the mother of the gods, your sister... (the supplied text breaks off here, in the middle of the sentence, at निम्मन्नु इतररु (*nimmannu itararu*), at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 343 (PDF 343). Sukta 191 Rik 3 complete; Rik 4 complete through the Special Topics and grammar page; three readings marked with a query
+**Progress note:** Done through printed p. 346 (PDF 346). Sukta 191 Rik 5 complete (Special Topics, grammar); Rik 6 through the Pratipadartha and the start of the Bhavartha; four readings marked with a query
