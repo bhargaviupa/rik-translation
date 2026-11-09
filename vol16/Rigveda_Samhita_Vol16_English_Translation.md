@@ -3663,6 +3663,104 @@ you wish exceedingly to convey satisfaction (to your worshipper) and are thereto
 
 Grammar page, noted briefly. ववक्षथ (*vavakṣatha*) [sic, as supplied; the bhāṣya reads ववक्षिथ (*vavakṣitha*)]: root वह प्रापणे (*vaha prāpaṇe*); the affix सन् (*san*) in the sense of wishing by धातोःकर्मणः (*dhātoḥkarmaṇaḥ*) (Pā. Sū. 3-1-6, as printed); doubling of the root by सन्यजोः (*sanyajoḥ*); the i that सन्यतः (*sanyataḥ*) would give to the reduplicative syllable does not occur in the Veda; होढः (*hoḍhaḥ*) changes h to ḍh, षढोःकसि (*ṣaḍhoḥkasi*) then gives ka, and ṣatva of the s follows; the form in सन् (*san*) is a root by सनाद्यंताधातवः (*sanādyaṃtādhātavaḥ*), takes लिट् (*liṭ*); the second person singular सिप् (*sip*) becomes थल् (*thal*) by परस्मैपदानां (*parasmaipadānāṃ*); the इड् (*iḍ*)-augment by अर्धधातुकस्येद्वलादेः (*ardhadhātukasyedvalādeḥ*) (Pā. Sū. 7-2-35, as printed, text अर्धधातुकस्यॆद्वरादेः (*ardhadhātukasyèdvarādeḥ*)); आम् (*ām*) does not occur, the prohibition अमंत्रे (*amaṃtre*) in कास्प्रत्ययादाममंत्रेलिटि (*kāspratyayādāmamaṃtreliṭi*) (Pā. Sū. 3-1-35) applying to the Veda; अतोलोपः (*atolopaḥ*) drops the a of the sanning (text: "ಲೋರ" [sic]); the nighāta accent arises as the word follows [a word garbled in the text: "ಅತಿ ಚಿಂತದ" — [?]]. सुमनाः (*sumanāḥ*): शोभनं मनः यस्य सः (*śobhanaṃ manaḥ yasya saḥ*); since the latter member ends in अस् (*as*), सोर्मवसी (*sormavasī*) [as supplied, with a stray underscore] (Pā. Sū. 6-2-117, as printed) gives the latter member's initial udātta. प्रप्र (*prapra*): in filling the pāda, doubling of प्र (*pra*) by प्रसमुपोद (*prasamupoda*) (Pā. Sū. 8-1-6, text without full stops); the second is called amreḍita and made udātta by अनुदात्तंच (*anudāttaṃca*) (Pā. Sū. 8-1-3). यंति (*yaṃti*): root इण् गत् (*iṇ gat*) [sic, as supplied]; लट् (*laṭ*) third plural, अंत् (*aṃt*) substituted; लुक् (*luk*) for शप् (*śap*); इणोयण् (*iṇoyaṇ*) (Pā. Sū. 6-4-81) gives यण् (*yaṇ*); because the word अन्य (*anya*) is connected, एकान्याध्यांसमर्थाभ्याम् (*ekānyādhyāṃsamarthābhyām*) [sic, as supplied] (Pā. Sū. 8-1-65) forbids the tiṅanta nighāta, so the ending's ādyudātta accent remains.
 
+### Printed p. 129
+
+*[Running head, p. 129: [A. 3. A. 1. V. 5] Ṛgvedasaṃhitā 129 (as supplied, "ಅ. ೩. ಅ. ೧. ವ. ೫.")]*
+
+आसते (*āsate*)—root आस (*āsa*) in the sense of sitting; the present (laṭ) third person plural form. Although another word (अन्य (*anya*)) is in construction, the prohibition of nighāta does not apply because the word stands in the latter part of the sentence. By तिज्जतिजिः (*tijjatijiḥ*) [sic, as supplied] the all-anudātta accent arises.
+
+असि (*asi*)—root अस (*asa*) in the sense of being; the affix sip in the present second person singular. By तासस्तो र्लोपः (*tāsasto rlopaḥ*) (Pā. Sū. 7-4-50) the s of the root is dropped. Because the relative word यत् (*yat*) is connected, the all-anudātta accent does not arise; the root accent remains.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> ई॒यि॒वांस॒मति॒ स्रिधः॒ शश्व॑ती॒रति॑ स॒श्चतः॑ ।
+> अन्वी॑मविंदन्निचि॒रासो॑ अ॒द्रुहो॒प्सु सिं॒हमि॑व त्रि॒तं ॥४॥
+
+**॥ पदपाठः ॥**
+
+> ईयिवांसं । अति । स्रिधः । तत्वतीः । अति । सच्चतः ।
+> अनु । ईं । अविंदन् । निचिरासः । अद्रुहः । अप्सु । सिंहंइव । श्रितं ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने अद्रुहोऽद्रोद्धारो निचिरासो नितरां चिरासश्शिरंतना विश्वे
+> देवाः स्रिधः शोषकाञ्त्रून्बलेनातिक्रम्येयिवांसं गच्छंतं तश्वतीर्बह्वीः सश्चतः
+> संगतिकारिणीः सेनाश्चात्यतिक्रम्य गच्छंतमप्पु श्रितं तिरोहितमत एव सिंहमिव गुहा-
+> प्रविष्टं सिंहमिव भीममीमेनं त्वामन्वविंदन् । अनुगम्यालभंत ॥ ईयिवांसं ।
+> इण् गतावित्यस्य क्वसावुपेयिवाननाश्वाननूचानश्च । पा. ३-२-१०९ । इति निपातितः ।
+> प्रत्ययस्वरः । स्रिधः । स्रिधेः क्षयार्थस्य शोषणार्थस्य वा क्विड् चेति क्विप् । धातु-
+> स्वरः । सश्चतः । षस्थ गत् । जकारस्य व्यत्ययेन चकारः । लटः शतादेशः । प्रत्यय-
+> स्वरः । अविंदन् । विद्ल लाभ इत्यस्य लजि रूपं । निजिरासः । नितरां चिराः । आज्जसे-
+> रसुगित्यसुक् । समानस्वरः । अद्रुहः । द्रुह जिघांसायां । संपदादित्वाद्भावे
+> क्विप् । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं । श्रितं । श्रिञ् सेवायामि-
+> त्यस्य श्रुकः कितीतीट्प्रतिषेधः । प्रत्ययस्वरः ॥
+
+> *he agne adruho 'droddhāro nicirāso nitarāṃ cirāsaśśiraṃtanā viśve*
+> *devāḥ sridhaḥ śoṣakāñtrūnbalenātikramyeyivāṃsaṃ gacchaṃtaṃ taśvatīrbahvīḥ saścataḥ*
+> *saṃgatikāriṇīḥ senāścātyatikramya gacchaṃtamappu śritaṃ tirohitamata eva siṃhamiva guhā-*
+> *praviṣṭaṃ siṃhamiva bhīmamīmenaṃ tvāmanvaviṃdan | anugamyālabhaṃta ‖ īyivāṃsaṃ |*
+> *iṇ gatāvityasya kvasāvupeyivānanāśvānanūcānaśca | pā. 3-2-109 | iti nipātitaḥ |*
+> *pratyayasvaraḥ | sridhaḥ | sridheḥ kṣayārthasya śoṣaṇārthasya vā kviḍ ceti kvip | dhātu-*
+> *svaraḥ | saścataḥ | ṣastha gat | jakārasya vyatyayena cakāraḥ | laṭaḥ śatādeśaḥ | pratyaya-*
+> *svaraḥ | aviṃdan | vidla lābha ityasya laji rūpaṃ | nijirāsaḥ | nitarāṃ cirāḥ | ājjase-*
+> *rasugityasuk | samānasvaraḥ | adruhaḥ | druha jighāṃsāyāṃ | saṃpadāditvādbhāve*
+> *kvip | bahuvrīhau nañsubhyāmityuttarapadāṃtodāttatvaṃ | śritaṃ | śriñ sevāyāmi-*
+> *tyasya śrukaḥ kitītīṭpratiṣedhaḥ | pratyayasvaraḥ ‖*
+
+*Gist: The ever-ancient, benevolent gods, passing beyond the drying-up foes and their assembled hosts, found Agni, hidden in the waters like a lion in a cave. (The grammatical tail is transcribed, not explained: ईयिवांसं (*īyivāṃsaṃ*), स्रिधः (*sridhaḥ*), सश्चतः (*saścataḥ*), अविंदन् (*aviṃdan*), निचिरासः (*nicirāsaḥ*), अद्रुहः (*adruhaḥ*), श्रितं (*śritaṃ*). The printed text has "17" after the bhāṣya, a signature number of the press. Variants of the supplied text, left as supplied: the Pada reads तत्वतीः (*tatvatīḥ*) where the Saṃhitā has शश्वतीः (*śaśvatīḥ*); the Pada reads श्रितं (*śritaṃ*) for the Saṃhitā स्रितं (*sritaṃ*); the bhāṣya reads लजि (*laji*) and निजिरासः (*nijirāsaḥ*) in the tail; the Pada has "ಸಿಂಹಂಇವ" joined.)*
+
+### Printed p. 130
+
+*[Running head, p. 130: 130 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.]]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(हे अग्ने (*he agne*)—O Agni) अद्रुहः (*adruhaḥ*)—those who are not hostile (the benefactors) and निबिरासः (*nibirāsaḥ*) [sic, as supplied; the bhāṣya has निचिरासः (*nicirāsaḥ*)]—the ever-ancient gods; स्रिधः (*sridhaḥ*)—the drying-up (withering) enemies; ईयिवांसं (*īyivāṃsaṃ*)—him who goes (passing beyond them by strength), and शश्वतीः (*śaśvatīḥ*)—the countless, and सश्चतः (*saścataḥ*)—(gathered in one place) assembled armies; अति (*ati*)—who goes passing beyond; अप्सु (*apsu*)—in the waters; श्रितं (*śritaṃ*)—who dwells; सिंहं इव (*siṃhaṃ iva*)—who is like a lion (hence like a lion sheltered in a cave); ईं (*īṃ*)—you; अनु अविंदन् (*anu aviṃdan*)—followed after and obtained.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, all the gods, benefactors and ever-ancient, sought you out and at last reached you (came near you): you who confront the countless armies of the enemies gathered together, and who are hidden in the waters as a lion lodges in a cave.
+
+**Printed English translation**
+
+The benignant and long-lived deities have discovered you, Agni, when required to go against their constant and assembled foes, hidden in the waters like a lion (in a cave).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अद्रुहः (*adruhaḥ*)—अद्रोग्दारः (*adrogdāraḥ*): the meaning is those who have no mind to do harm to others. The Nirukta authors, in the Ṛk आ वामुपस्थमद्रुहा देवाः सीदंतु यज्ञियाः । (*ā vāmupasthamadruhā devāḥ sīdaṃtu yajñiyāḥ |*) इहाद्य सोमपीशये ॥ (*ihādya somapīśaye ‖*) have described अद्रुह: (*adruha:*) as having the sense अद्रोग्यवे (*adrogyave*) [sic, as supplied].
+
+निचिरासः (*nicirāsaḥ*)—नितरां चिरासः चिरंतनाः विश्वेदेवाः (*nitarāṃ cirāsaḥ ciraṃtanāḥ viśvedevāḥ*). Sāyaṇa has explained this word to mean: the very ancient, all the gods, or the Viśvedevas, worshipped (praised) Agni, who confronts the enemies by his own strength, or confronts the armies by his own power.
+
+शत्वतीः (*śatvatīḥ*) [sic, as supplied; the Pada reads तत्वतीः (*tatvatīḥ*), the Saṃhitā शश्वतीः (*śaśvatīḥ*)]—बह्वीः (*bahvīḥ*)—the word शश्वत् (*śaśvat*) is listed among the names for "many" (Ni. 3-13). Here the meaning "many armies" is given.
+
+अप्पु श्रितं सिंहमिव (*appu śritaṃ siṃhamiva*)—अप्पु तिरोहितं गुहाप्रविष्टं सिंहमिव भीमं । (*appu tirohitaṃ guhāpraviṣṭaṃ siṃhamiva bhīmaṃ |*) Because Agni exists in the waters in an invisible form, he is compared to a lion, as one hidden in the water like a lion concealed in a cave.
+
+### Printed p. 131
+
+*[Running head, p. 131: [A. 3. A. 1. V. 5.] Ṛgvedasaṃhitā 131 (as supplied, "ಅ. ೩. ಅ. ೧. ವ. ೫.")]*
+
+The particle ईं (*īṃ*) is employed to fill out the pāda, it is stated (Ni. 1-9) [the text reads "ಪರಿತವಾಗಿದೆ", as supplied]. And the particles हरि (*hari*), ईं (*īṃ*), सी (*sī*) are explained as pāda-fillers (Ni. 5-18). Since Sāyaṇa has commented (Ni. 1-4) अथ निपाताः उच्चावचेष्टर्थेषु निपतंति । अनेकप्रकारेष्टर्थेषु निपतंति (*atha nipātāḥ uccāvaceṣṭartheṣu nipataṃti | anekaprakāreṣṭartheṣu nipataṃti*)—that particles also have the power of conveying many kinds of meaning—here for the word ईं (*īṃ*) he has given the sense एनं (*enaṃ*): "this Agni".
+
+**Vyākaraṇa-prakriyā**
+
+Grammar page, noted briefly.
+
+ईयिवांसम् (*īyivāṃsam*): root इण् (*iṇ*) in the sense of going. When liṭ comes, by क्वसुश्च (*kvasuśca*) (Pā. Sū. 3-2-107) kvasu is substituted for it; by उपेयिवाननाश्वाननूचानश्च (*upeyivānanāśvānanūcānaśca*) (Pā. Sū. 3-2-109) the form ending in the kvasu affix is irregularly formed [the text reads "ನಿಷಾ ತ", as supplied]; the affix accent arises; in the accusative singular the form ईयिवांसम् (*īyivāṃsam*) results.
+
+स्रिधः (*sridhaḥ*): root स्रिध (*sridha*) in the sense of decay (drying up); by क्विप् च (*kvip ca*) (Pā. Sū. 3-2-76) the affix kvip; the root accent remains; form of the nominative plural.
+
+सश्चतः (*saścataḥ*): root षस्थ गत् (*ṣastha gat*) [sic, as supplied]. By व्यत्ययो बहुलम् (*vyatyayo bahulam*) the j of the root is replaced by c; by धात्वादेःषःसः (*dhātvādeḥṣaḥsaḥ*) the initial becomes s. When laṭ comes, śatṛ is substituted for it; the ādyudātta accent of the affix arises.
+
+अविंदन् (*aviṃdan*): root विद्‌ल्य लाभे (*vidlya lābhe*) [sic, as supplied]. The ending अंत् (*aṃt*) replaces the third person plural of laṅ; by इतश्च (*itaśca*) the final i is dropped, and by the loss of the final conjunct the t is dropped. Vikaraṇa śa. By शेमुचादीनाम् (*śemucādīnām*) the root takes the augment num, which becomes anusvāra and parasavarṇa. The base takes the augment aṭ. The all-anudātta accent arises.
+
+निचिरासः (*nicirāsaḥ*): नितरां चिराः निचिराः (*nitarāṃ cirāḥ nicirāḥ*), a prādi compound. When jas follows, by अज्जसेरसुक् (*ajjaserasuk*) (Pā. Sū. 7-1-50) it takes the augment asuk. By the compound accent the vowel a after r becomes udātta.
+
+अद्रुहः (*adruhaḥ*): root द्रुह जिघांसायां (*druha jighāṃsāyāṃ*); since it belongs to the sampadādi group, the affix kvip in the abstract sense. In the bahuvrīhi compound, by नञ्सुभ्याम् (*nañsubhyām*) (Pā. Sū. 6-2-172) the latter member's final udātta accent arises. Form of the nominative plural.
+
+श्रितम् (*śritam*): root त्रिञ् सेवायाम् (*triñ sevāyām*) [sic, as supplied; the bhāṣya reads श्रिञ् (*śriñ*)]. By निष्ठा (*niṣṭhā*) the affix kta. Because त्रिज्ञान (*trijñāna*) [sic, as supplied] follows, by श्रुकः किति (*śrukaḥ kiti*) (Pā. Sū. 7-2-11) the iṭ-augment is prohibited. By the affix accent the word ends in an udātta.
+
 ---
 
-**Progress note:** Done through printed p. 128 (PDF 128). Done through printed p. 128 (PDF 128). Sukta 9 (Mandala 3): Rk 2 grammar note completed on p. 126 (abhavah); Rk 3 written in full (Samhita, Pada, bhasya p. 126, Pratipadartha pp. 126-127, Bhavartha, printed English, Special Topics pp. 127-128 ending with the Nirukta/Durga citation). Vyakarana-prakriya of Rk 3 on p. 128 noted for vavaksatha, sumana, prapra, yanti and breaks off at the end of p. 128 in yanti (the ayadesa/accent sentence ends the page); continues on p. 129 with asate, asi. Page markers 126-128 checked. One [?] (garbled word in the grammar note).
+**Progress note:** Done through printed p. 131 (PDF 131). Done through printed p. 131. Sukta 9 (Mandala 3): Rk 3 grammar note completed on p. 129 (asate, asi); Rk 4 written in full (Samhita, Pada, bhasya with gist, Pratipadartha p. 130, Bhavartha, printed English, Special Topics p. 130-131). Vyakarana-prakriya of Rk 4 on p. 131 covers iyivamsam, sridhah, saschatah, avindan, nicirasah, adruhah, shritam and ends the page after shritam; Rk 5 comes next. Page markers 129-131 checked; structure repaired in kn.md (see repair_log.txt). No [?].
