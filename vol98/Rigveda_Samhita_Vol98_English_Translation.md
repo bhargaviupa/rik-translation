@@ -11332,6 +11332,142 @@ In the first ṛk of this first sūkta, seen by the sage Gṛtsamada, the variou
 
 That is: आशु मत्तु शु (*āśu mattu śu*) are *kṣipra* names (names with the meaning "quickly"). The word क्षणः (*kṣaṇaḥ*) is formed from the root क्षणोति (*kṣaṇoti*), which indicates injury; or it may be formed from the root सनेति (*saneti*), meaning "obtain". The syllable शु (*śu*) in the middle is a synonym of the word शुचि (*śuci*), which gives the meaning "shine". Therefore *āśuśukṣaṇiḥ* means that Agni, by his lustre, quickly... (the supplied text ends here, in the middle of the sentence, at जाग्रतॆ (*jāgratè*)).
 
+### Printed p. 383
+
+*Running head (as supplied): [अ २ अ. ५. व. १७] ऋग्वेदसंहिता 383 (*[a 2 a. 5. va. 17] ṛgvedasaṃhitā 383*).*
+
+*(Continuation of the Nirukta explanation of *āśuśukṣaṇiḥ* in the Special Topics of Ṛk 1, from mid-sentence at the end of the previous page.)*
+
+...quickly harms (burns) enemies, or quickly provides what the sacrificer needs; this is the meaning.
+
+Or the word *śuk* is formed from the root *śuc*, which gives the sense "shine". Here the nominative case is used in the sense of the ablative. *ā* is the prefix. Therefore, if in आ+शुशुक्षणिः (*ā+śuśukṣaṇiḥ*) the word *śuśukṣaṇi* is taken to indicate the desired meaning (*cikīrṣita*), the word *āśuśukṣaṇiḥ* means one (Agni) who desires to shine all around. Or the word *śuciḥ* may be formed from the root *śocati*, meaning "shine". In this context there is room for the meanings stated above. Besides, the word *śuciḥ* has another meaning: *śuciḥ* means what is sacred, pure, free from sin; this is another meaning. On this view अ+अशुशुक्षणिः==आशुशुक्षणिः (*a+aśuśukṣaṇiḥ==āśuśukṣaṇiḥ*) means one free from sin (Agni). (अ denotes negetive. As there are two अ s, two negetives make an affirmative ; Sinless) (*(a denotes negetive. As there are two a s, two negetives make an affirmative ; Sinless)*) (as printed). The Nirukta authors approve this kind of meaning.
+
+द्युभि: अहोभि: (*dyubhi: ahobhi:*): on the days fit for sacrifice, such as the full moon and the new moon, Agni is produced by churning for the sacrifice; therefore, addressing Agni, it is said that you are born on such days.
+
+त्वमद्भ्यः—त्वमद्भ्यो वृष्टुदकेभ्यो जायसे वैद्युतरूपेण वाडव- रू पेण वा समुद्रोदकेभ्यः (*tvamadbhyaḥ—tvamadbhyo vṛṣṭudakebhyo jāyase vaidyutarūpeṇa vāḍava- rū peṇa vā samudrodakebhyaḥ*): "you are born from the waters" means: you are born, when it rains, in the form of lightning arising in the clouds, or in the form of the submarine fire (*bāḍabānala*) seen in the water of the sea; so he is praised.
+
+त्वमश्मनस्परि—अश्मनो मेघात्पाषाणाद्वा (*tvamaśmanaspari—aśmano meghātpāṣāṇādvā*): since the word *aśmā* is read among the thirty names of the cloud (नि. २-२१ (*ni. 2-21*)), you are born in the clouds in the form of lightning. Or, since the word *aśman* also means a stone, it may be said that you are born from the friction of two stones. (Formerly, when matches were not in use, fire was made with flints.) On the matter that Agni is born in the form of lightning from the clouds, the bhāṣyakāra has given as an example the ṛk
+
+यो हत्वाहिमरिणात्सप्त सिंधून्यो गा उदाजदपधा वलस्य । (*yo hatvāhimariṇātsapta siṃdhūnyo gā udājadapadhā valasya |*)
+यो अश्मनोरंतरग्निं जजान संवृक्समत्तु स जनास इंद्रः ॥ (*yo aśmanoraṃtaragniṃ jajāna saṃvṛksamattu sa janāsa iṃdraḥ ‖*)
+(म. सं. २-१२-३) (*(ma. saṃ. 2-12-3)*)
+
+(The reference is printed म. सं. २-१२-३ (*ma. saṃ. 2-12-3*), as supplied.) In explaining the meaning of this ṛk Sāyaṇa says यश्चाश्मनोः अश्नुते व्याप्नोत्यंतरिक्षमिति अश्मा मेघः । अत्यंतमृदुरूपयोर्मे (*yaścāśmanoḥ aśnute vyāpnotyaṃtarikṣamiti aśmā meghaḥ | atyaṃtamṛdurūpayorme*)
+
+### Printed p. 384
+
+*[Unmarked page break in the supplied text: the running head of printed p. 384 stands inside the text, in the middle of the sentence; it reads 384 सायणभाष्पसहिता । मं. २. आ.१ . सू.१. (*384 sāyaṇabhāṣpasahitā | maṃ. 2. ā.1 . sū.1.*), as printed.]*
+
+घयोरंतर्मध्यॆ वैद्युतमग्निं जजान उत्पादयामास (*ghayoraṃtarmadhyè vaidyutamagniṃ jajāna utpādayāmāsa*). That is, the word *aśmā* is formed from the root *aś*, which gives the sense "pervade"; since the cloud pervades the atmosphere, it is called *aśmā*. They have explained the meaning: Indra produced the lightning-fire in the middle of such soft clouds.
+
+त्वं वनेभ्यः—वृक्षादिसमूहेभ्यो दावरूपेण (*tvaṃ vanebhyaḥ—vṛkṣādisamūhebhyo dāvarūpeṇa*): you are born in the forests in the form of forest fire (*kāḍukiccu*). It is well known that in the forest bamboos rub against one another, fire arises from that and burns the whole forest.
+
+त्वमोषधीभ्यः—वैश्वानररूपेण । मथनेनोत्पन्नःसन् सर्वात्मको भवसी- त्यर्थः (*tvamoṣadhībhyaḥ—vaiśvānararūpeṇa | mathanenotpannaḥsan sarvātmako bhavasī- tyarthaḥ*): Agni is in all creatures in the form of the digestive fire (*jāṭharāgni*) and in herbs and trees in the form of the Vaiśvānara fire. When Agni is produced in a sacrifice, two pieces of wood of the aśvattha tree or the śamī tree are placed one on the other and churned strongly; from that Agni is born. In this matter:
+
+शविागर्भादग्निं मंथति । एषा वा अग्नेय्र्यज्जिया तनूः । तामेवास्मै (*śaviāgarbhādagniṃ maṃthati | eṣā vā agneyryajjiyā tanūḥ | tāmevāsmai*)
+जनयति ॥ (*janayati ‖*)
+(तै. ब्रा. १-१-९-१) (*(tai. brā. 1-1-9-1)*)
+
+There is this Taittirīya Brāhmaṇa sentence. The procedure of producing Agni by churning, with mantras and with rites, in sacrifices and the like is stated in the Aitareya Brāhmaṇa (ऐ. ब्रा ३-५ (*ai. brā 3-5*)) as follows. Since the matter of the churning of Agni is stated in this ṛk, it is proper to explain that order here. In a sacrifice, after the rite called *somavikrayaṇa* (the purchase of the soma plant, brought from mountains and forests, from those who brought it) is completed, the work of churning Agni begins. Then the priest called the Adhvaryu addresses the priest called the Hotṛ in this way:
+
+अग्नये मध्यमानायानुब्रूहीत्याहाध्वर्युरभि त्वा देव सवितरिति सावित्रि- (*agnaye madhyamānāyānubrūhītyāhādhvaryurabhi tvā deva savitariti sāvitri-*)
+मन्वाह तदाहुर्यदग्नये मध्यमानायानुवाचाहाथ कस्मात्सावित्री- (*manvāha tadāhuryadagnaye madhyamānāyānuvācāhātha kasmātsāvitrī-*)
+मन्वाहेति । सविता वै प्रसवानामीशे सवितृप्रसूत एवैनं तन्न थति (*manvāheti | savitā vai prasavānāmīśe savitṛprasūta evainaṃ tanna thati*)
+तस्मात्सावित्री मन्वाह । (*tasmātsāvitrī manvāha |*)
+
+The Adhvaryu, addressing the Hotṛ, says the *praiṣa* mantra अग्नये मध्यमानायनुब्रू ३ हि (*agnaye madhyamānāyanubrū 3 hi*) (a *praiṣa* mantra is a recitation of mantras by which, when various rites are performed in a sacrifice, the Adhvaryu and others enjoin, in the form of a command, the persons concerned to perform such and such a rite (or homa)); hearing it, the Hotṛ
+
+### Printed p. 385
+
+*[Unmarked page break in the supplied text: the running head of printed p. 385 stands inside the text, in the middle of the sentence; it reads आ. २. अ. ५ व. १७ ] सुग्वेदसंहिता 385 (*ā. 2. a. 5 va. 17 ] sugvedasaṃhitā 385*), as printed, with ಸುಗ್ವೇದ [sic].]*
+
+recites the verse
+
+अभि त्वा देव सवितरिशानं वार्याणां । सदावन् भागमीमहे ॥ (*abhi tvā deva savitariśānaṃ vāryāṇāṃ | sadāvan bhāgamīmahe ‖*)
+(म. सं. १-२४-३) (*(ma. saṃ. 1-24-3)*)
+
+addressed to the deity Savitṛ (the Sāvitrī ṛk). Here a doubt arises. Although the Adhvaryu has directed the Hotṛ to say the mantra necessary for the churning of Agni, why does the Hotṛ, without doing so, recite a ṛk addressed to the deity Savitṛ? Is this not wrong? It is not so. As in the sentence सविता वै प्रसवानामीशे (*savitā vai prasavānāmīśe*), since Savitṛ is the lord (master) of every production in all rites such as sacrifices, it is natural here to ask the permission of the deity Savitṛ for beginning the work of producing Agni, the churning of Agni. For that reason the Hotṛ first recites the ṛk addressed to the deity Savitṛ.
+
+मही द्यौः पृथिवी च न इति द्यावापृथिवीयामन्वाह । तदाहुर्यदग्नये (*mahī dyauḥ pṛthivī ca na iti dyāvāpṛthivīyāmanvāha | tadāhuryadagnaye*)
+मध्यमानायानुवाचाहाथ कस्माद्ध्यावापृथिवीयामन्वाहेति द्यावा- (*madhyamānāyānuvācāhātha kasmāddhyāvāpṛthivīyāmanvāheti dyāvā-*)
+पृथिवीभ्यां वा एतं जातं देवाः पर्यगृण्णंस्ताभ्यामेवाद्यापि परिगृहीत- (*pṛthivībhyāṃ vā etaṃ jātaṃ devāḥ paryagṛṇṇaṃstābhyāmevādyāpi parigṛhīta-*)
+स्तस्माद्ध्यावापृथिवीयामन्वाह ॥ (*stasmāddhyāvāpṛthivīyāmanvāha ‖*)
+
+Afterwards the Hotṛ, continuing,
+
+मही द्यौः पृथिवी च न इमं यज्ञं मिमिक्षतां । (*mahī dyauḥ pṛthivī ca na imaṃ yajñaṃ mimikṣatāṃ |*)
+पिपृतां नो भरीमभिः ॥ (*pipṛtāṃ no bharīmabhiḥ ‖*)
+(ऋ. सं. १-२२-१३) (*(ṛ. saṃ. 1-22-13)*)
+
+recites this ṛk addressed to Heaven and Earth. Some raise the objection: when told to say a ṛk about Agni for the churning of Agni, why does this Hotṛ recite a ṛk about Heaven and Earth? The answer is that formerly, when Agni was born, the gods held him between Heaven and Earth (earth and the heavens); therefore the same must be done now. Since the fire called Pāvaka is held by the earth and the fire in the form of the sun is held by heaven, it is proper to recite a ṛk addressed to Heaven and Earth for the holding of Agni.
+
+त्वामग्ने पुष्करादधीति तृचमाग्नेयं गायत्रमन्वाहाग्नौ मध्यमाने स्वयै- (*tvāmagne puṣkarādadhīti tṛcamāgneyaṃ gāyatramanvāhāgnau madhyamāne svayai-*)
+वैनं तद्भवतया स्वेन छंदसा समर्थयति । अथर्वा निरमंथतेति रूप- (*vainaṃ tadbhavatayā svena chaṃdasā samarthayati | atharvā niramaṃthateti rūpa-*)
+समृद्धमेतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाण- (*samṛddhametadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇa-*)
+मृगभिवदति. ॥ (*mṛgabhivadati. ‖*)
+
+*[As supplied, a footnote line stands here: बळिक होतृवु अग्निमथनक्कागि अग्नि देवताकवाद— (*baḷika hotṛvu agnimathanakkāgi agni devatākavāda—*) ("Afterwards, for the churning of Agni, the Hotṛ [recites] the ... addressed to Agni"), followed by a stray line [25] Vol. 14 (*[25] Vol. 14*); both are kept as italic notes in the Kannada text.]*
+
+### Printed p. 386
+
+*Running head (as supplied): [386 सायणभाष्यसहिता [ मं. २ अ. १ सू. १] (*[386 sāyaṇabhāṣyasahitā [ maṃ. 2 a. 1 sū. 1]*).*
+
+त्वामग्ने पुष्करादध्यथर्वा निरमंथत । मूर्ध्नो विश्वस्य वाघतः । (*tvāmagne puṣkarādadhyatharvā niramaṃthata | mūrdhno viśvasya vāghataḥ |*)
+तमु त्वा दध्यज् ऋषिः पुत्रः ईधे अथर्वणः । वृत्रहणं पुरंदरं ॥ (*tamu tvā dadhyaj ṛṣiḥ putraḥ īdhe atharvaṇaḥ | vṛtrahaṇaṃ puraṃdaraṃ ‖*)
+त मु त्वा पाथ्यो वृषा समीधे दस्युहंतमं । धनंजयं रणेरणे (*ta mu tvā pāthyo vṛṣā samīdhe dasyuhaṃtamaṃ | dhanaṃjayaṃ raṇeraṇe*)
+(म. सं ६-१६-१३, १४, १५) (*(ma. saṃ 6-16-13, 14, 15)*)
+
+(The reference is printed म. सं ६-१६-१३, १४, १५ (*ma. saṃ 6-16-13, 14, 15*), as supplied.) He recites these three ṛks. These three ṛks praise the deity Agni, and they are ṛks of the Gāyatrī metre, dear to Agni. For both Agni and the Gāyatrī metre were produced by Prajāpati, and therefore the Gāyatrī metre is said to be his own metre. Now, it is said in the second pāda of the first ṛk अथर्वा निरमंथत (*atharvā niramaṃthata*) that the sage Atharvan churned Agni and produced him. This sage Atharvan, before all others, churned Agni in the fire-sticks and produced him. Therefore there is the prayer that Agni, born as the son of the sage Atharvan, may grow and prosper abundantly in the sacrifice. For this reason it is natural that these ṛks were recited, which give the meaning that Agni, taking form from the fire-sticks and being born (that is, in the complete form of fire), may grow in the sacrificial rite (blaze up greatly) and shine.
+
+स यदि न जायेत यदि चिरं जायेत राक्षोघ्नो गायत्रोऽनूच्याः (*sa yadi na jāyeta yadi ciraṃ jāyeta rākṣoghno gāyatro 'nūcyāḥ*)
+अग्ने हंसिन्यत्रिणमित्येताः रक्षसामपहत्यॆ रक्षांसि वा एनं तर्हालभंते (*agne haṃsinyatriṇamityetāḥ rakṣasāmapahatyè rakṣāṃsi vā enaṃ tarhālabhaṃte*)
+यर्हि न जायते यर्हि चिरं जायते ॥ (*yarhi na jāyate yarhi ciraṃ jāyate ‖*)
+
+Reciting the five ṛks mentioned before, the churning of Agni must be done in the fire-sticks. If, even though this is done, Agni is not produced, or is produced slowly after a long time, with smoke and the like coming, then the following *rākṣoghna* sūkta of the Gāyatrī metre must be recited:
+
+अग्ने हंसि न्य १ त्रिणं दीद्यन्मर्तेष्णा । स्वे क्षये शुचिव्रत ॥ (*agne haṃsi nya 1 triṇaṃ dīdyanmarteṣṇā | sve kṣaye śucivrata ‖*)
+उत्तिष्ठसि स्वाहुतो धृतानि प्रतिमोदसे । यत्वा स्ट्रुचः समस्थिरन् ॥ (*uttiṣṭhasi svāhuto dhṛtāni pratimodase | yatvā sṭrucaḥ samasthiran ‖*)
+स आहुतो वि रोचतेऽग्निरीळेन्यो गिरा । स्ट्रुचा प्रतीकमज्यते ॥ (*sa āhuto vi rocate 'gnirīḷenyo girā | sṭrucā pratīkamajyate ‖*)
+धृतेनाग्निः समज्यते मधुप्रतीक आहुतः ! रोचमानो विभावसुः । (*dhṛtenāgniḥ samajyate madhupratīka āhutaḥ ! rocamāno vibhāvasuḥ |*)
+जरमाणः समिध्यसे देवेभ्यो हव्यवाहन । तं त्वा हवंत मर्त्याः ॥ (*jaramāṇaḥ samidhyase devebhyo havyavāhana | taṃ tvā havaṃta martyāḥ ‖*)
+तं मर्ता अमर्त्यं धृतेनाग्निं सपर्यत । अदाभ्यं गृहपतिं ॥ (*taṃ martā amartyaṃ dhṛtenāgniṃ saparyata | adābhyaṃ gṛhapatiṃ ‖*)
+अदाभ्येन शोचिषाग्ने रक्षस्त्वं दह । गोपा ऋतस्य दीदिहि ॥ (*adābhyena śociṣāgne rakṣastvaṃ daha | gopā ṛtasya dīdihi ‖*)
+स त्वमग्ने प्रतीकेन प्रत्योष यातुधान्यः । उरुक्षयेषु दीद्यत् ॥ (*sa tvamagne pratīkena pratyoṣa yātudhānyaḥ | urukṣayeṣu dīdyat ‖*)
+तं त्वा गीर्भिरुरुक्षया हव्यवाहं समाधिरे । यजिष्ठं मानुषे जने ॥ (*taṃ tvā gīrbhirurukṣayā havyavāhaṃ samādhire | yajiṣṭhaṃ mānuṣe jane ‖*)
+(मि. सं. १०-१८-१ रिंद ९) (*(mi. saṃ. 10-18-1 riṃda 9)*)
+
+(The reference is printed मि. सं. १०-१८-१ रिंद ९ (*mi. saṃ. 10-18-1 riṃda 9*), as supplied.)
+
+### Printed p. 387
+
+*Running head (as supplied): [अ. २. अ. ५. व. १७ ] ऋग्वेदसंहिता 387 (*[a. 2. a. 5. va. 17 ] ṛgvedasaṃhitā 387*).*
+
+There are nine ṛks in this sūkta. They drive away the rākṣasas and kill them. Therefore, by reciting these ṛks the rākṣasas are destroyed. Why, at the time of churning Agni, Agni is not produced or is produced late: because these rākṣasas obstruct Agni and keep him in their power without releasing him. Therefore the killing of the rākṣasas is necessary in order to set Agni free. For that reason it is said that this *rakṣohanana* sūkta of nine ṛks must be recited.
+
+स यद्येकस्यामेवानूक्तायां जायेत यदि द्वयोरथोत ब्रुवंतु जंतव (*sa yadyekasyāmevānūktāyāṃ jāyeta yadi dvayorathota bruvaṃtu jaṃtava*)
+इति जाताय जातवतीमभिरूपामनुब्रूयात् ॥ (*iti jātāya jātavatīmabhirūpāmanubrūyāt ‖*)
+
+While reciting the *rākṣoghna* sūkta, if Agni is born after one ṛk has been recited in the middle, or after two, three and so on, at that very moment
+
+उत ब्रुवंतु जंतव उदग्निर्वृत्रहाजनि । धनंजयो रणेरणे ॥ (*uta bruvaṃtu jaṃtava udagnirvṛtrahājani | dhanaṃjayo raṇeraṇe ‖*)
+(म. सं. १-७४-३) (*(ma. saṃ. 1-74-3)*)
+
+(The reference is printed म. सं. १-७४-३ (*ma. saṃ. 1-74-3*), as supplied.) this ṛk must be recited at once, because the matter propounded in this ṛk is favourable to the birth of Agni. For the very purpose of stating this favourableness the word जातवतीं (*jātavatīṃ*) is used. Afterwards, in the second pāda उदग्निर्वृत्रहाजनि (*udagnirvṛtrahājani*), the word अजनि (*ajani*), "was born", indicating birth, is read. Therefore it is said that as soon as Agni is born this ṛk, which is appropriate, must be recited at that very moment.
+
+यद्यज्ञेऽभिरूपं तत्समृद्धं आ यं हस्तेन खादिनमिति हस्ताभ्यां ह्येनं (*yadyajñe 'bhirūpaṃ tatsamṛddhaṃ ā yaṃ hastena khādinamiti hastābhyāṃ hyenaṃ*)
+मंथंति शिशुं जातमिति शिशुरिव वा एष प्रथमजातो यदग्निः न बिभ्रति विशा (*maṃthaṃti śiśuṃ jātamiti śiśuriva vā eṣa prathamajāto yadagniḥ na bibhrati viśā*)
+मग्निं स्वध्वरमिति यद्वै देवानां नेति तदेषामो ३ मिति प्र देवं देव- (*magniṃ svadhvaramiti yadvai devānāṃ neti tadeṣāmo 3 miti pra devaṃ deva-*)
+वीतये भरता वसुवित्तममिति प्रह्रियमाणायाभिरूपा यद्यज्ञेऽभिरूप- (*vītaye bharatā vasuvittamamiti prahriyamāṇāyābhirūpā yadyajñe 'bhirūpa-*)
+तत्समृद्धं आ स्वै योन्‌नौ निषीदत्त्विति एष ह ना अस्य स्वो योनिर्य- (*tatsamṛddhaṃ ā svai yonnau niṣīdattviti eṣa ha nā asya svo yonirya-*)
+दग्निरग्नेः ॥ (*dagniragneḥ ‖*)
+
+Up to here the six ṛks used for the churning of Agni (the six ṛks अभित्वा (*abhitvā*), महीद्यौः (*mahīdyauḥ*), त्वामग्ने (*tvāmagne*), तमुत्वा (*tamutvā*) and उत ब्रुवंतु (*uta bruvaṃtu*)) have been stated (as printed); and now
+
+आ यं हस्ते न खादिनं शिशुं जातं न बिभ्रति । विशामग्निं स्वध्वरं ॥ (*ā yaṃ haste na khādinaṃ śiśuṃ jātaṃ na bibhrati | viśāmagniṃ svadhvaraṃ ‖*)
+(मि. सं. ६-१६-४०) (*(mi. saṃ. 6-16-40)*)
+
+(The reference is printed मि. सं. ६-१६-४० (*mi. saṃ. 6-16-40*), as supplied.) the Hotṛ recites this as the seventh ṛk. The meaning of this ṛk is as follows. Newly (the supplied text ends here, in the middle of the sentence, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 382 (PDF 382). Mandala 2 Sukta 1 Rik 1: bhashya, Pratipadartha, Bhavartha, printed English; Special Topics begun (agrani, nrnam nrpate, dyubhih, ashushukshani with the Nirukta quotation) and broken off mid-sentence
+**Progress note:** Done through printed p. 387 (PDF 387). Mandala 2 Sukta 1 Rik 1 Special Topics: Nirukta explanation of ashushukshani, the births of Agni, and the Brahmana rules for churning Agni (rakshoghna sukta) through the seventh ripple verse; unmarked pages 384 and 385 handled
