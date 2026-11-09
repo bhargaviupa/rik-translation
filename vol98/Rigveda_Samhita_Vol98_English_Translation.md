@@ -12997,6 +12997,97 @@ One who has a beautiful appearance, who is lord of all heaven and earth and move
 
 *(The supplied text ends here, in the middle of the Bhāvārtha of Ṛk 3 on p. 434, at the word प्रकाश (*prakāśa*) as supplied; the rest follows in the next window.)*
 
+### Printed p. 435
+
+*Running head (as supplied): [अ. २ आ. ५. व. २० ] ऋग्वेदसंहिता 435 (*[a. 2 ā. 5. va. 20 ] ṛgvedasaṃhitā 435*).*
+
+*(Continuation of the Bhāvārtha of Ṛk 3 of Sūkta 2 of Maṇḍala 2: the single word at the end of the previous page, meaning "radiance", is completed here by मानवाद (*mānavāda*), giving "radiant".)*
+
+...with lustre, most praiseworthy among men, like a friend, and famous: that Agni the gods have established on the altar, the base of the delightful earth.
+
+**Printed English translation**
+
+The gods have stationed at the root of the world, that Agni who is of goodly appearance ; the pervader of heaven and earth ; who is to be known as a car (to convey men to their wishes), who shines with pure radiance, and who is to be honoured as a friend amongst mankind.
+
+*[As supplied, the label line of the Special Topics reads विशेषयगळु (*viśeṣayagaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3)**
+
+देवाः रजसः बुद्धे तं नैरिरे (*devāḥ rajasaḥ buddhe taṃ nairire*): in this sentence Sāyaṇa gives for the word *deva* the explanation व्यवहर्तारः ऋत्विजो वा (*vyavahartāraḥ ṛtvijo vā*) (the dealers, or the priests). The famous gods praise Agni greatly on the altar called the earth in order to obtain their respective shares of the oblation: this is one kind of meaning. When he gives for the word *deva* the meaning "priests", he explains, as the second meaning, with स्तोत्रादिना नितरां गच्छंति भजंते (*stotrādinā nitarāṃ gacchaṃti bhajaṃte*) (they go, that is, serve, with praise and the like), that the priests serve Agni, of great greatness, with praises.
+
+दिवस्पृथिव्योः अरतिं—द्यावापृथिव्योः ईश्वरं गंतारं व्याप्तं वा । (*divaspṛthivyoḥ aratiṃ—dyāvāpṛthivyoḥ īśvaraṃ gaṃtāraṃ vyāptaṃ vā |*) Agni is the lord of earth and atmosphere, he moves in earth and atmosphere, and he pervades heaven and earth: because three meanings are thus explained, the greatness of Agni is described.
+
+रथमिव वेद्यं (*rathamiva vedyaṃ*): in this sentence the word *veda* is explained as wealth. स्वाभिमतलाभाय रथं यथा आश्रयंते (*svābhimatalābhāya rathaṃ yathā āśrayaṃte*): as a chariot is a refuge for people for obtaining their desired object, so Agni is the obtainer of wealth; the meaning is explained by showing the comparison. यद्वा रथमिव प्राप्तिसाधनत्वेन वेद्यं (*yadvā rathamiva prāptisādhanatvena vedyaṃ*): as a chariot is a means for accomplishing the good of people, Agni too is known by people as the accomplisher of good: thus two meanings are described.
+
+मित्रं न शुक्रशोचिषं (*mitraṃ na śukraśociṣaṃ*): it is explained that Agni accomplishes work for the sacrificers like a friend.
+
+मित्रं न क्षितिषु प्रशंस्यं (*mitraṃ na kṣitiṣu praśaṃsyaṃ*): in this sentence the word *mitra* is used in the sense of Āditya, and the meaning is that Agni, like Āditya, (on earth) in the sacrificial grounds or among men, is worthy of supreme praise; thus the comparison of Agni with a friend or with Āditya is established. It is explained that the greatness of Agni is of this kind. (A line-end hyphen inside the quoted Sanskrit above is joined.)
+
+### Printed p. 436
+
+*Running head (as supplied): [436 सायणभाष्यसहिता [ मं. २ अ. १. सू २] (*[436 sāyaṇabhāṣyasahitā [ maṃ. 2 a. 1. sū 2]*).*
+
+Yāska has explained the meaning of the word *mitra*: मित्रः प्रमीतेस्त्रायते सम्मिन्वानो द्रवतीति वा, मेदयतीर्वा (*mitraḥ pramītestrāyate samminvāno dravatīti vā, medayatīrvā*) (नि १०-२२ (*ni 10-22*)) (rendered loosely: Mitra, because he protects from death; or because he runs while building together; or, as printed, "or he ..."; the printed words are kept). Sāyaṇa here gives only two meanings, "friend" and "Āditya".
+
+#### Ṛk 4
+
+*[As supplied, the label line of the Saṃhitā of Ṛk 4 reads संधिपापाति (*saṃdhipāpāti*); standard label inserted. The Saṃhitā lines, printed as plain lines, are given as a quoted block; each line is joined to its last word, and the Pada lines likewise. The Pada ends without the closing mark.]*
+
+**॥ संहितापाठः ॥**
+
+> तमु॒क्षमा॑णं॒ रज॑सि॒ स्व आ दमे॑ चं॒द्रमि॑व सु॒रुचं॑ ह्वा॒र आ द॑धुः ।
+> पृश्न्याः॑ पत॒रं चि॒तयं॑तम॒क्षभिः॑ पा॒थो न पा॒युं जन॑सी उ॒भे अनु॑ ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> तं । उक्षमाणं । रजसि । स्वे । आ । दमे । चंद्रं इव । सुरुचं । ह्वारे । आ दधुः ।
+> पृश्न्याः । पतरं । चितयंतं । अक्षभिः । पाथः । न । पायुं । जनसी इति । उभे इति। अनु ।
+
+**॥ सायणभाष्यम् ॥**
+
+> तं स्तुत्यतरं रजस्यंतरिक्ष आ उक्षमाणं सर्वतः सिंचंतं वृष्टिजलं रजसि
+> पृथिव्यां वेद्यां धृतादिनासिच्यमानं वा । स्वे स्वकीये ह्वारे विजने दमे यागगृह
+> आदधुः । आदधते । कीदृशं तं । चंद्रमिव सुरुचं । चंद्रमिति हिरण्यनाम । हिरण्य-
+> मिव शोभनदीप्तिं । पश्चात्पृवृद्धावस्थायां पृश्न्याः पतरं । द्युलोकस्यांतरिक्षस्य
+> गंतारं । अक्षभिः स्वकीयैर्ज्वालारूपैरवयवैश्चितयंतं चेतयमानं । पाथो न
+> पायुं । उदकमिव रक्षकं । उभे जनसी सर्वस्य जनयित्र्यौ द्यावापृथिव्यावनु
+> व्याप्तं । भूम्यां होमाधारत्वेन स्थित्वा हविष्प्रापणाय द्युलोकगामिनमिति
+> भावः । एवंरूपमग्नि मादधते ॥
+
+*Gist:* The gods place Agni, who pours rain or is sprinkled with ghee, gold-bright, protector like water, in his own solitary sacrificial house.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+चंद्रमिव—चिन्नदंतॆ (*caṃdramiva—cinnadaṃtè*) (like gold). सुरुचरं—श्रेष्ठवाद कांतियुळ्ळवनू (*surucaraṃ—śreṣṭhavāda kāṃtiyuḷḷavanū*) (one of excellent lustre (printed "surucaram")). पृश्न्याः—अंतरिक्ष दल्लि (*pṛśnyāḥ—aṃtarikṣa dalli*) (in the atmosphere). पतरं—संचरिसुववनू (*pataraṃ—saṃcarisuvavanū*) (one who moves). अक्षभिः—तन्न ज्वालारूपवाद अवयवगळिंद (*akṣabhiḥ—tanna jvālārūpavāda avayavagaḷiṃda*) (by his limbs in the form of flames). चितयंतं— (*citayaṃtaṃ—*) (one who animates (the explanation continues on the next page)).
+
+### Printed p. 437
+
+*Running head (as supplied): [अ. २. अ. ५. व. २०. । ऋग्वेदसंहिता 437] (*[a. 2. a. 5. va. 20. | ṛgvedasaṃhitā 437]*).*
+
+*(Continuation of the Pratipadārtha of Ṛk 4, the entry at the end of the previous page being completed.)*
+
+चैतन्यवन्नुंटुमाडुववनू (*caitanyavannuṃṭumāḍuvavanū*) ((completing the previous entry) one who gives animation). पाथो न—उदकदंतॆ (*pātho na—udakadaṃtè*) (like water). पायुं—रक्षकनू (*pāyuṃ—rakṣakanū*) (the protector). उभे जानसी— सकलक्कू जननियराद द्यावापृथिविगळॆरडन्नू (*ubhe jānasī— sakalakkū jananiyarāda dyāvāpṛthivigaḷèraḍannū*) (both the parents of all, heaven and earth (printed "jānasī")). अनु - व्यापिसिरुववनू (*anu - vyāpisiruvavanū*) (pervading). रजसि—अंतरिक्षदल्लि आ उक्षमाणं—सर्वत्र वृष्टियन्नु सुरिसुववनू (*rajasi—aṃtarikṣadalli ā ukṣamāṇaṃ—sarvatra vṛṣṭiyannu surisuvavanū*) (in the atmosphere, pouring rain everywhere (two entries printed run together)). तं—पूज्यनू आद अग्नियन्नु (*taṃ—pūjyanū āda agniyannu*) (the worshipful Agni). स्वे-ह्वारे—स्वकीयवू निर्जनवू आद (*sve-hvāre—svakīyavū nirjanavū āda*) (of his own, solitary). दमे—यागगृहदल्लि (*dame—yāgagṛhadalli*) (in the sacrificial house). आ दधुः—स्थापिसुत्तारॆ. (*ā dadhuḥ—sthāpisuttārè.*) (they place).
+
+**भावार्थ (Bhāvārtha)**
+
+The gods place in the sacrificial house, his own and solitary, that Agni who has a lustre as excellent as gold, who moves in the atmosphere, who gives animation by his limbs in the form of flames, who protects like water, who pervades both heaven and earth, the mothers of all, who pours rain everywhere in the atmosphere, and who is worthy of worship.
+
+**Printed English translation**
+
+They have placed him in his solitary dwelling, who is shedding moisture upon the earth ; resplendent as gold, traversing the firmament, animate with flames ; and pervading the two parents (of all things, heaven and earth) like refreshing water.
+
+*(The printed English divides "moisture" by a line break and a hyphen, joined here.)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4)**
+
+चंद्रमिव सुरुचं उक्षमाणं तं दमे आ दधुः । (*caṃdramiva surucaṃ ukṣamāṇaṃ taṃ dame ā dadhuḥ |*) In this sentence, since the word *candra* is read among the fifteen names of gold (नि. २-१० (*ni. 2-10*)), Agni is very bright like gold (*hiraṇya*). And, being in the atmosphere, he pours rain-water everywhere; or, on the sacrificial altar in the form of the earth, he is satisfied with offering materials such as ghee: two meanings are described. For the word रजसि (*rajasi*) Yāska has given the meaning "night" (नि २-१८ (*ni 2-18*)) and "heaven and earth" (नि. ३-२२ (*ni. 3-22*)); Sāyaṇa has given here the meaning "heaven and earth".
+
+पाथो न पायुं (*pātho na pāyuṃ*): Agni, growing on the sacrificial altar by his limbs in the form of flames, and pervading the atmosphere too, protects everything as water does; भूम्यां होमाधारत्वेन स्थित्वा हविष्प्रापणाय द्युलोकगामिनं (*bhūmyāṃ homādhāratvena sthitvā haviṣprāpaṇāya dyulokagāminaṃ*): it is explained that he is a support for the homa on earth, moves in the atmosphere in order to offer the oblations to the gods, and, pervading both earth and atmosphere, protects everything.
+
+The word पृश्नि (*pṛśni*) is read among the six common names beginning with स्वः ऎंबिवे (*svaḥ èṃbive*) (as printed) (नि. २-१३ (*ni. 2-13*)). Sāyaṇa here describes under पृश्न्याः पतरं द्युलोकस्यांतरिक्षस्य गंतारं (*pṛśnyāḥ pataraṃ dyulokasyāṃtarikṣasya gaṃtāraṃ*) the meaning that Agni pervades and moves in the atmosphere.
+
+*(The supplied text ends here, at the end of p. 437; the Special Topics of Ṛk 4 may continue in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 434 (PDF 434). Mandala 2 Sukta 2 Rik 2 complete; Rik 3 Samhita, Pada, bhasya, Pratipadartha and the start of the Bhavartha
+**Progress note:** Done through printed p. 437 (PDF 437). Mandala 2 Sukta 2 Rik 3 complete; Rik 4 complete through the Special Topics as supplied
