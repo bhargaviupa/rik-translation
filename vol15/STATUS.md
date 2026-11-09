@@ -18,13 +18,11 @@ Standing single Sonnet agent, one 3-page window per batch (≈ 257 windows, p. 1
 Translated through printed p. 800 (final; colophon on p. 800). Front matter is **not translated by the user's decision**; the Kannada PDF carries the original scans.
 
 ## Open items
-- 118 `[?]` in `review/doubts.tsv`; 39 inline Sanskrit segments of early windows differ from kn.md (`review/inline_mismatch.tsv`, need the scan).
-- Accent mismatches/non-matches are mostly not logged in `review/accent_report.tsv` (agents reported them in chat only).
-- `review/page_flags.md`: merged page heads, missing real p. 235, truncated lines pp. 495–496, p. 527 reference.
-- Sūkta 39/40 have no `##` heading in the English file (volbook supplies them in memory).
-- ~500 multi-line Sanskrit quotations are raw Kannada script in the English .md (volbook converts them for the PDF; the .md is unchanged).
-- Printed contents: all 159 numbers match the scan; '443' (Jātavedas) is as printed (`review/contents_check.md`).
-- Kannada text has no Sūkta/Ṛk headings.
+Done on Nov 9 2026 (branch `claude/vol15-fixes`, logged in `review/repair_log.md`): the 500 leftover multi-line `⟦Kannada Sanskrit⟧` quotations of the English file converted to Devanagari + (IAST) (`tools/rv/repair_inline.py`; `tools/rv/convert.py` now joins such lines so future windows are right); the missing `## Sūkta 39` / `## Sūkta 40` headings inserted; Maṇḍala/Sūkta/Ṛk headings added to the Kannada file from the English structure (`tools/rv/kn_headings.py`; 26 sūktas + 276 Ṛks; one printed sūkta line reads "ಸೂಕ್ತ—೫" at Kannada line ~3634 where the sequence says Sūkta 28: kept as supplied, logged as WARN); the accent report regenerated (`review/accent_report.tsv`, 57 Saṃhitā lines the accented reference did not match + 1 partial; with printed pages in `review/accent_report_pages.tsv`).
+
+**User:** (1) the 118 `[?]` in `review/doubts.tsv`; (2) the 39 inline Sanskrit segments in `review/inline_mismatch.tsv` (need the scan); (3) `review/page_flags.md` (missing real p. 235, truncated lines pp. 495–496, p. 527 reference); (4) the 57 unmatched accent lines (`accent_report_pages.tsv`: unaccented Saṃhitā lines; they differ in spelling from the reference text); (5) publisher/ISBN/permissions text and the "present day" portraits; (6) the QA sample (`review/qa_sample.md`).
+Printed contents: all 159 numbers match the scan; "443" (Jātavedas) is as printed (`review/contents_check.md`).
+Front matter is deliberately not translated.
 
 ## Publication (print PDF)
 `python3 publish/volbook.py 15 [eng|kan]` (config `vol15/pubcfg.json`); outputs in `publish/out/`; front matter = the user's scan pages; Guruji and 'present day' pages kept (user decision).

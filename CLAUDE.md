@@ -111,7 +111,7 @@ Check the text once before starting: `python3 tools/rv/html_pages.py FILE` (is e
 ## 7. Format of the outputs
 
 English file: `### Printed p. N` (one per page), `## Sūkta N (Maṇḍala M)` per sūkta (a new Maṇḍala gets `## Maṇḍala M`), Sāyaṇa's introduction (Sanskrit block, English Anuvāda, particulars), then per Ṛk `#### Ṛk N` with: Saṃhitā-pāṭha (accented), Pada-pāṭha, Sāyaṇa-bhāṣya (Sanskrit block + ≤ 25-word gist, grammatical tail transcribed but not explained), Pratipadārtha, Bhāvārtha, **Printed English translation** (reproduced as printed, `[sic]`), Special Topics (Viśeṣaviṣayagaḷu; all Sanskrit quotations in three layers with their printed references), grammar pages as a 2–4 line note. The last sūkta of an adhyāya ends with the Sanskrit colophon + the Kannada closing line (three layers) and the volume's closing formulas, nothing added. Bracketed italic notes record anything odd about the supplied text.
-Kannada file: `<!-- printed N -->` markers, the running head as an italic line, standard section labels, Sanskrit as `>` blocks; no Devanagari; no Sūkta/Ṛk headings (planned, see REPO_REVIEW).
+Kannada file: `<!-- printed N -->` markers, the running head as an italic line, standard section labels, Sanskrit as `>` blocks; no Devanagari; `## Maṇḍala M`, `## ಸೂಕ್ತ N (ಮಂಡಲ M)` and `#### ಋಕ್ N` headings are added from the English structure by `python3 tools/rv/kn_headings.py N --write` after the volume is finished (the windows themselves do not write them).
 Review files: `doubts.tsv` (every `[?]` with the exact words), `accent_report.tsv` (Saṃhitā lines the reference text did not match; agents must log them, not only mention them in chat), `inline_mismatch.tsv` (inline Sanskrit not found in `kn.md`: needs the scan), `page_flags.md` (merged pages, missing pages, truncated lines), `contents_check.md`.
 
 ## 8. Publication (print PDFs)
@@ -130,6 +130,7 @@ In memory only (the `.md` is not changed): missing `## Sūkta` headings are supp
 | `tools/rv/html_pages.py`, `html_to_kn.py` | split the supplied text into printed pages; make the Kannada text by script |
 | `tools/rv/convert.py`, `labels.py`, `numerals.py`, `rvlib.py` | Kannada→Devanagari expansion of `[[bN]]` and `⟦⟧`; label normalisation; numeral-file cross-check; config |
 | `tools/rv/check_inline.py` | every inline `⟦⟧` segment of `en.md` occurs in `kn.md` (run before every commit) |
+| `tools/rv/kn_headings.py`, `repair_inline.py`, `annotate_report.py` | after a volume: headings for the Kannada file; convert leftover multi-line `⟦⟧` quotations (older files; `convert.py` now joins such lines); add printed pages to a review TSV |
 | `publish/tools/translit/*` | Kannada↔Devanagari, IAST |
 | `publish/tools/accents/accent_volume.py` | Vedic accents from `refs/mandala` (`--write`; unmatched lines → `accent_report.tsv`) |
 | `publish/tools/frontmatter/*`, `publish/volbook.py` | front matter, contents, print PDFs |

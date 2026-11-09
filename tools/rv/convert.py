@@ -21,6 +21,8 @@ def kn_blocks(kn_text):
 def expand(en_text,kn_text):
     """returns (text, problems)"""
     blocks=kn_blocks(kn_text); used=set(); prob=[]; out=[]
+    # a quotation may be broken over several lines in en.md: join it first (add_iast.py and the line-wise conversion below work on single lines)
+    en_text=re.sub(r'⟦([^⟧]*)⟧',lambda m:'⟦'+re.sub(r'\s*\n\s*',' ',m.group(1)).strip()+'⟧',en_text)
     for l in en_text.split('\n'):
         m=re.fullmatch(r'\s*\[\[b(\d+)\]\]\s*',l)
         if m:
