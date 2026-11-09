@@ -1490,6 +1490,83 @@ In stating the application of this sūkta, Sāyaṇa cites अभिप्लव
 
 *[A stray line "[4] Vol. 14", a page-footer artefact, ends p. 49 in the supplied text.]*
 
+### Printed p. 50
+
+*Running head: [50 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185]. The window begins inside the Special Topics of Ṛk 1, in the account of the word *abhiplava*, continuing p. 49.*
+
+… is understood from the sentences themselves. Having learned how the explanation of this word is stated in the Brāhmaṇas and elsewhere, let us then examine what the form of this rite is.
+
+ते देवा एतमभिप्लवं समभरन् । तेनाभ्यप्लवंत । तदभिप्लवस्याभिप्लवत्वं । (*te devā etamabhiplavaṃ samabharan | tenābhyaplavaṃta | tadabhiplavasyābhiplavatvaṃ |*)
+
+(Jaiminīya Brāhmaṇa. II. 440. 3 [printed in Latin letters and digits])
+
+By these sentences the Jaiminīya Brāhmaṇa states the purport of the word *abhiplava*. When the asuras of the group called Paṇis carried off the cows, Indra sent the divine bitch Saramā to search for them. She found the place of those asuras and held a conversation with them, and afterwards told the gods the news: this matter is told elsewhere. Some hold the opinion that this same Saramā is described in some places as having acted in favour of the gods, and in others as having acted from self-interest in a way that caused opposition among the gods. In the present context, in the sentence of the Jaiminīya Brāhmaṇa cited above it is said that with the help of Saramā the gods crossed their difficulty and, because she helped their *abhiplava*, performed the Abhiplava sacrifice. The purport and the purpose are given thus: having performed this sacrifice they crossed their calamity, and therefore it has the name *abhiplava*. (The supplied text has "ಎಂದಿರೋಣದರಿಂದಲೇ" here, as supplied.) In the same way,
+
+त आदित्याः । चतुर्भिस्तोमैश्चतुर्भिः पृष्टैर्लघुभिः सामभिः (*ta ādityāḥ | caturbhistomaiścaturbhiḥ pṛṣṭairlaghubhiḥ sāmabhiḥ*)
+स्वर्गं लोकमभ्यप्लवंत यदभ्यप्लवंत तस्मादभिप्लवाः । (*svargaṃ lokamabhyaplavaṃta yadabhyaplavaṃta tasmādabhiplavāḥ |*)
+
+(Śa. Brā. 12 2-2-10)
+
+in the days of the Abhiplava sacrifice, by reciting the four *pṛṣṭha* sāmans the gods crossed over the heavenly world; and since they thus crossed ((यदभ्यप्लवंत) (*(yadabhyaplavaṃta)*)), this rite got the name *abhiplava*: thus a purport suggesting the context of a story is stated. Besides this kind of explanation, showing that there is another reason for its getting this name, another kind of meaning is stated:
+
+एतद्दस्मवै तद्विद्वानाह पैंग्यः । प्लवंत इव वाभिप्लनास्तिष्ठतीव पृष्ठः (*etaddasmavai tadvidvānāha paiṃgyaḥ | plavaṃta iva vābhiplanāstiṣṭhatīva pṛṣṭhaḥ*)
+इति प्लवत इव ह्ययमंगैस्तिष्ठतीवात्मनेति । (*iti plavata iva hyayamaṃgaistiṣṭhatīvātmaneti |*)
+
+(Śa. Brā. 12-2-4-8)
+
+Paiṅgya, the disciple of Yājñavalkya, knew the natures of the *abhiplava* and the *pṛṣṭhya*. Knowing their essence, he said: "because it has a floating nature it is *abhiplava*, and because it has a steady nature it is *pṛṣṭhya*; this is the name of these two rites (*abhiplava* and *pṛṣṭhya*)": this purport too the Śatapatha Brāhmaṇa explains. In sum, whether gods or men, by performing this
+
+### Printed p. 51
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2.] Ṛgveda-saṃhitā 51.*
+
+rite they cross the calamity: thus an explanation that suggests its importance is stated. In the present sūkta also, since in the prayer द्यावा रक्षतं पृथिवी नो अभ्वात् (*dyāvā rakṣataṃ pṛthivī no abhvāt*) there is the plea "protect us from great fear", by reciting these mantras at the time of the Abhiplava sacrifice one can cross calamity. This *abhiplava* holds a principal place from the spiritual point of view as well. It is a part of the sacrifice called गवामयनं (*gavāmayanaṃ*). The गवाम यनवु (*gavāma yanavu*) is of the nature of the year. The Puruṣa too is of the nature of the year. If *abhiplava* is a part of the Gavāmayana, which is of the nature of the year, it must also be a part of the principle of the Puruṣa, who is of the nature of the year. Describing this, the Śatapatha says पुरुषो वै संवत्सरः . . . उरोऽभिप्लवः (*puruṣo vai saṃvatsaraḥ . . . uro 'bhiplavaḥ*); if the year reflects the Puruṣa principle then *abhiplava* is his chest, and so on: its description is given (Śa. Brā 12-1-4-1). *Abhiplava* is the main means of crossing the ocean in the form of the year (the ocean in the form of a *sattra*): प्रस्येयोऽभिप्लवः (*prasyeyo 'bhiplavaḥ*) (Śa. Brā. 12-2-1-1). Āruṇeya Śvetaketu, knowing this principle of the year and telling the greatness of *abhiplava*, said:
+
+तदाहुः । कस्मादुभयतो ज्योतिषोऽभिप्लवा भवंत्यन्यतो ज्योतिः पृष्ठि (*tadāhuḥ | kasmādubhayato jyotiṣo 'bhiplavā bhavaṃtyanyato jyotiḥ pṛṣṭhi*)
+इतीमे वै लोका अभिप्लवा उभयतो ज्योतिषो वा इमे लोकाः ॥ (*itīme vai lokā abhiplavā ubhayato jyotiṣo vā ime lokāḥ ‖*)
+
+(Śa. Brā. 12-2-1)
+
+The *abhiplava* shines with a twofold light. These worlds (heaven, earth and atmosphere) themselves are *abhiplava*. This *abhiplava* shines with a light in the form of terrestrial fire on the side of the earth, and with a light in the form of the sun on the side of the celestial world. त आदित्याः स्वर्गं लोक- मभ्यप्लवंत (*ta ādityāḥ svargaṃ loka- mabhyaplavaṃta*): by this boat in the form of *abhiplava* the Ādityas (with the Aṅgirases) reached the celestial world; thus the nature of *abhiplava* is described in many ways. Since Heaven and Earth are themselves of the form of *abhiplava*, the description and praise of Heaven and Earth at the time of this rite is natural. Moreover, telling the identity of the Jyotiṣṭoma and the other parts of the *abhiplava* with Heaven and Earth, the Aitareya Brāhmaṇa describes thus:
+
+ज्योतिर्गौरायुरिति स्तोमेभिर्यंत्ययं वै लोको ज्योतिरंतरिक्षं (*jyotirgaurāyuriti stomebhiryaṃtyayaṃ vai loko jyotiraṃtarikṣaṃ*)
+गौरस्लोक आयुः स एवैष उत्तरस्प्रह्मः ज्योतिर्गौरायुरिति त्रीण्यहानि (*gaurasloka āyuḥ sa evaiṣa uttarasprahmaḥ jyotirgaurāyuriti trīṇyahāni*)
+गौरायुर्ज्योतिरिति त्रीणि । अयं वै लोको ज्योतिरसौ लोको (*gaurāyurjyotiriti trīṇi | ayaṃ vai loko jyotirasau loko*)
+ज्योतिस्ते एते ज्योतिषी उभयतः संलोकेते । तेनैतेनोभयतो (*jyotiste ete jyotiṣī ubhayataḥ saṃlokete | tenaitenobhayato*)
+ज्योतिषा षळहेन यंति तद्यदेतेनोभयतो ज्योतिषा षळहेन यंत्य- (*jyotiṣā ṣaḷahena yaṃti tadyadetenobhayato jyotiṣā ṣaḷahena yaṃtya-*)
+नयोरेव तल्लोकयोरुभयतः प्रतितिष्ठंतो यंत्यस्मिंश्च लोकेS- (*nayoreva tallokayorubhayataḥ pratitiṣṭhaṃto yaṃtyasmiṃśca lokeS-*)
+मुष्मिंश्चोभयोः ॥ (*muṣmiṃścobhayoḥ ‖*)
+
+(Ai. Brā. 18-1)
+
+### Printed p. 52
+
+*Running head: [52 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 185] (the print has "ಆ." for "ಅ.", as supplied).*
+
+For the six-day *abhiplava*, first, among the three days Jyotiṣṭoma, Gostoma and Āyuṣṭoma, the Jyotiṣṭoma is the earth, the Gostoma the atmosphere, and the Āyuṣṭoma the heavenly world. In the second part, the three days, the order is again Gostoma, Āyuṣṭoma and Jyotiṣṭoma. The Jyoti(ṣṭoma) of the first group that is of the form of the earth is the same as the Jyoti of the second part that is of the form of the heavenly world. They perform this sacrifice in the form of *abhiplava* with its six limbs at both ends, between the two worlds in the form of Jyoti as well. (Jyotiṣṭoma, Gostoma and Āyuṣṭoma belong to the first group. Gostoma, Āyuṣṭoma and Jyotiṣṭoma are the order of the second group.) Therefore (*abhiplava* has the name *ṣaḍaha*). Lighting up Jyoti at both ends and performing this *abhiplava* in the form of *ṣaḍaha*, they help the stability of the two worlds. And,
+
+परियद्वा एतद्देवचक्रं यदभिप्लवः षळहस्तस्य यावभितोऽग्निष्टोमौ तौ (*pariyadvā etaddevacakraṃ yadabhiplavaḥ ṣaḷahastasya yāvabhito 'gniṣṭomau tau*)
+प्रधी ये चत्वारो मध्य उक्थास्तन्नभ्यं । गच्छति वै वर्तमानेन यत्र (*pradhī ye catvāro madhya ukthāstannabhyaṃ | gacchati vai vartamānena yatra*)
+कामयते तत्स्वस्ति संवत्सरस्य पारमश्नुते य एवं वेद । यो वै तद्वेद (*kāmayate tatsvasti saṃvatsarasya pāramaśnute ya evaṃ veda | yo vai tadveda*)
+यत्प्रथमः षळहः स वै स्वस्ति संवत्सरस्य पारमश्नुते यस्तद्वेद यद्द्वि- (*yatprathamaḥ ṣaḷahaḥ sa vai svasti saṃvatsarasya pāramaśnute yastadveda yaddvi-*)
+तीयो यस्तद्वेद यत्तृतीयो यस्तद्वेद यच्चतुर्थो यस्तद्वेद (*tīyo yastadveda yattṛtīyo yastadveda yaccaturtho yastadveda*)
+यत्पंचमः ॥ (*yatpaṃcamaḥ ‖*)
+
+(Ai. Brā. 18-15)
+
+This *abhiplava* in the form of *ṣaḍaha* is a wheel-shaped circle for the gods. The two Agniṣṭomas at the two ends are the two felloes of the wheel; the four Ukthyas in the middle are its nave. He who knows this principle crosses the far shore of the year with the help of this wheel. Likewise, if one knows the full nature of the *abhiplava* and performs it as prescribed, all his desired objects of the whole year are fulfilled: thus the greatness of *abhiplava* is praised. Moreover,
+
+सा यथा स्तुतिरंजसायन्येवमभिप्लवः षळहः स्वर्गस्य लोकस्याथ यथा (*sā yathā stutiraṃjasāyanyevamabhiplavaḥ ṣaḷahaḥ svargasya lokasyātha yathā*)
+महापथः पर्याण एवं पृष्ट्यः षळहः स्वर्गस्य लोकस्य तद्यदुभाभ्यां (*mahāpathaḥ paryāṇa evaṃ pṛṣṭyaḥ ṣaḷahaḥ svargasya lokasya tadyadubhābhyāṃ*)
+यंत्युभाभ्यां वै यन्न रिष्यत्युभयोः कामयोरुपाप्तैश्च यश्चाभिप्लवे (*yaṃtyubhābhyāṃ vai yanna riṣyatyubhayoḥ kāmayorupāptaiśca yaścābhiplave*)
+षळहे यश्च पृष्ट्ये । (*ṣaḷahe yaśca pṛṣṭye |*)
+
+(Ai. Brā. 18-3 [the print has "ಇ ಬ್ರಾ."])
+
+This *abhiplava-ṣaḍaha* is the direct road that leads to heaven. The *pṛṣṭha* is the roundabout road. Proceeding further by both these means as well, the sacrificer his desired attainment (the sentence is cut off at the end of the window)
+
+*[The window ends here, mid-sentence; the Special Topics continue on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 49 (PDF 49). Sukta 185 begins: introduction, Rik 1 complete (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English); Special Topics begin (abhiplava; continues on next page)
+**Progress note:** Done through printed p. 52 (PDF 52). Sukta 185 Rik 1 Special Topics: abhiplava in the Brahmanas (Jaiminiya, Satapatha, Aitareya), shadaha (continues on next page)
