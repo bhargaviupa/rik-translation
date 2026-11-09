@@ -3602,3 +3602,98 @@ purposes.
 ಪವಿತ್ರವಾದ ಜ್ಞಾನವೆಂಬುದು ವೇದಶಬ್ದಾರ್ಥವಾಗುವಂತೆ ಪವಿತ್ರವಾದ ಕ್ರಿಯೆಯೆಂಬುದು ವಿದಥಶಬ್ದಾರ್ಥವೆಂದು
 ಕೆಲವರು ಹೇಳಿರುವರು. ಆದರೆ ಯಜ್ಞಸಭೆಯೆಂಬುದೇ ಈ ಪದದ ಮುಖ್ಯಾರ್ಥವೆಂಬುದರಲ್ಲಿ ಸಂಶಯವಿಲ್ಲವೆಂದು
 ನಿಷ್ಕರ್ಷಿಸಿದ್ದಾನೆ.
+
+<!-- printed 105 -->
+*[ಅ. ೨. ಅ ೫. ವ. ೪] ಋಗ್ವೇದಸಂಹಿತಾ 105]*
+
+Hermann Oldenberg ಎಂಬ ಪಂಡಿತನು Vedic Hymns ಎಂಬ ಗ್ರಂಥದಲ್ಲಿ ಋ. ಸಂ. ೧-೩೧-೬ನೇ ಋಕ್ಕಿನಲ್ಲಿರುವ ವಿದಥೇ ಎಂಬ ಪದಕ್ಕೆ ಅರ್ಥವನ್ನು ವಿವರಿಸುವಾಗ ತನ್ನ ಅಭಿಪ್ರಾಯವನ್ನು ಈ ರೀತಿ ತಿಳಿಸಿದ್ದಾನೆ. ಅವನ ವಾಕ್ಯಗಳನ್ನು ಉದಹರಿಸಿ ಅನಂತರ ಅವನ ಅಭಿಪ್ರಾಯಗಳನ್ನು ತಿಳಿಸಲಾಗುತ್ತದೆ.
+On the derivation and meaning of ವಿದಥ Various opinions have been prononnced in the last years which have been collected by prof. Max Muller in bi- note on R. V V-59-2 (S. B. E. Vol. 32 p. 349 sq.) without trying to discuss here all different theories, I proceed to state my own opinion-
+I propose to derive ವಿದಥ from ವಿ+ಧಾ; The Verb ವಿ+ಧಾ means 'to distribute, to
+arrange, to ordain;' thus the original meaning of ವಿದಥ must be like the meaning of ವಿಧಾನ,
+'distribution, disposition, ordinance; In V. 3-6, we read ವಿದಥೇಷು ಆಹ್ನಾಂ: this phrase receives
+its explanation by VII. 66-11 we may call attention also to VI. 51-2 within the sphere
+of the Vedic poets ' thoughts, the most prominent example of something most artificially
+ವಿಹಿತ was the secrifice. ಯಜ್ಞ and ವಿದಥ, Sacrifice and ordinance became nearly synony-
+mous. (III 3·3) .... .... .... .... finally ವಿದಥ seems to mean 'the act of disposing of any
+business' or the like; this meaning appears, I believe, in some passages like the well-known
+phrase, ಬೃಹದ್ವದೇಮ ವಿದಥೇ 'ಎವೀರಾ:-may we with Valiant men mightily raise our voice in
+the determining of ordinances. Thus the word ವಿದಥ and ಸಭಾ approach each other in their
+meaning; a person influential in council is called hoth ವಿದಥ, and ಸಭೇಯ '.
+(Sacred Books of the East. Vol. 46. p. 27)
+ಈ ಲೇಖನದ ಮುಖ್ಯ ಸಾರಾಂಶವೇನೆಂದರೆ,
+ವಿದಥ ಶಬ್ದವು ಧಾ ಧಾತುವಿಗೆ ವಿ ಎಂಬ ಉಪಸಗರ್ವನ್ನು ಸೇರಿಸುವುದರಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದೆ. ವಿಧಾ
+ಎಂದರೆ ಹಂಚು, ನಿಯಮಿಸು ಎಂದರ್ಥವಾಗುತ್ತದೆ. ನಿಯಮಪಾಲನೆಯೆಂದೂ ಅರ್ಥವಾಗಬಹುದು. ವಿದಥ
+ಮತ್ತು ವಿಧಾ ಈ ಎರಡು ಪದಗಳ ಅರ್ಥಗಳೂ ಒಂದೇ ಎಂಬ ಅಂಶವನ್ನು,
+ವಯಮಗ್ನೇ ವನುಯಾಮ ತ್ವೋತಾ ವಸೂಯವೋ ಹವಿಷಾ ಬುಧ್ಯಮಾನಾಃ ।
+ವಯಂ ಸಮರ್ಯೇ ವಿದಥೇಷ್ವಹ್ನಾಂ ವಯಂ ರಾಯಾ ಸಹಸಸ್ಪುತ್ರ ಮರ್ತಾನ್ ॥
+(ಮ. ಸಂ. ೫-೩-೬)
+ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿರುವ ವಿದಥೇಷ್ವಹ್ನಾಂ ಎಂಬ ಪದಗಳಿಗೂ,
+ವಿ ಯೇ ದಧುಃ ಶರದಂ ಮಾಸಮಾದಹರಜ್ಞ ಮಕ್ತುಂ ಚಾದೃಚಂ ।
+ಅನಾಪ್ಯಂ ವರುಣೋ ಮಿತ್ರೋ ಅರಮಾ ಕ್ಷತ್ರಂ ರಾಜಾನ ಆಶತ ॥
+(ಋ. ಸಂ.೭-೬೬-೧೧)
+ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿರುವ ವಿ-ದಧುಃ ಎಂಬ ಪದಗಳಿಗೂ ಇರತಕ್ಕ ಸಮಾನಾರ್ಥದಿಂದ ತಿಳಿಯುತ್ತದೆ. ಮತ್ತು,
+ವಿಹಿತ ವಿದಥ ಎಂಬ ಪದಗಳ ಅರ್ಥಗಳೂ ಒಂದೇ ಆಗಿ, ಶಾಸ್ತ್ರವಿಹಿತವಾದ ಯಜ್ಞವೇ ವಿದಥವೆಂಬ ಹೆಸರಿನಿಂದ
+
+<!-- printed 106 -->
+*[106 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೪ ಸೂ ೧೮೬]*
+
+ಕರೆಯಲ್ಪಟ್ಟಿತು. ಯಜ್ಞ ಅಥವಾ ಯಜ್ಞಸಭೆ ಎಂಬ ಅರ್ಥವು ಕೊನೆಯಲ್ಲಿ ಉಳಿಯಿತು ಎಂದು ಈ ಪಂಡಿತನು
+ವಿವರಿಸಿದ್ದಾನೆ.
+ವಿದಥವೆಂದರೆ ಸಭೆಯೆಂದಾಗುವುದೇ ಇಲ್ಲ. ವೈಯಕ್ತಿಕವಾದ ಗೃಹ ಎಂಬರ್ಥವೇ ಸರಿಯಾದುದು ಎಂದು
+Bloomfield ಎಂಬ ಪಂಡಿತನು Max Muller ಮತ್ತು Oldenberg ಎಂಬಿಬ್ಬರೂ ಹೇಳಿರುವ ಅರ್ಥದಲ್ಲಿರುವ
+ದೋಷಗಳನ್ನು ತೋರಿಸಿದ್ದಾನೆ. ಅವನ ಅಭಿಪ್ರಾಯವು ಈ ರೀತಿಯಿದೆ.—
+The word ವಿದಥ contains the root ವಿದ್ in its ordinary sense of 'get, acquire'. Instead
+of this, the radical idea underlying the word was generally felt to be 'come to-gether,'
+'assemble'. Again, the false start from the notion of 'assemblage' resulted in an approxi-
+mation of the word to other words for assemblage, especially to ಸಭಾ with which ವಿದಥ was
+almost identified. We shall see that there are decided points of contact between the words
+ವಿದಥ and ಸಭಾ but the contact is that of extreme opposites in a way. ವಿದಥ refers to home
+matters; ಸಭಾ generally to public matters.
+In the interpretation of a term that figures prominently in the mystic—hieratic sphere of the Veda it is peculiarly necessary to search for its uses outside of that sphere, if there be such uses. In X—85-26, the bride after the wedding ceremony proper, as the newly married couple are about to travel to their new home is addressed with the words "May Pushan taking thee hy tbe hand lead thee home, may the Aswins lead thee forth on their car. Go to your house in order that thou mayst be mistress of the house ".
+Now ವಿದಥ here, can but have one meaning, 'household' or something very like it.
+It certainly cannot refer to anything in the nature of a public gathering similar to the ಸಭಾ.
+In the phrase ಬೃಹದ್ವದೇಮ ವಿದಧೇ ಸುವೀರಾಃ (R. V. 2-1-16), the word ಸುವೀರಾಃ refers to family
+relations not to public life.
+Thus far, it may not be doubted, the word appears in the language of ordinary life-
+But it is found to a very much greater extent in the sacerdotal sphere: indeed, as all
+interpreters from Yaska on, have agreed, it often has a meaning very close to Yagna
+'Sacrifice ' itself. This is as it should be. In as much as the sacrifice is a private, home affair,
+it is very natural ವಿದಥ the house, the premises, the establishment, should figure prominently
+in connection with the sacrifice. ಈ ಲೇಖನದ ಸಾರಾಂಶವೇನೆಂದರೆ ವಿದಥ ಶಬ್ದಕ್ಕೆ ಸಭಾ ಎಂಬ
+ಅರ್ಥವನ್ನು ಕೆಲವರು ಹೇಳಿರುವುದು ಸರಿಯಲ್ಲ. ಈ ಶಬ್ದಕ್ಕೆ ವೈಯಕ್ತಿಕವಾದ ಗೃಹವೆಂದರ್ಥ. ಈ ಅರ್ಥ
+ದಲ್ಲಿಯೇ ಈ ಪದದ ಪ್ರಯೋಗವಿರುವುದನ್ನು ಅನೇಕ ಕಡೆಗಳಲ್ಲಿ ಗಮನಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ—
+ಪೂಷಾ ತ್ವೇತೋ ನಯತು ಹಸ್ತಗೃಹ್ಯಾಶ್ವಿನಾ ತ್ವಾ ಪ್ರ ವಹತಾಂ ರಥೇನ ।
+
+<!-- printed 107 -->
+*[ಆ. ೨. ಅ. ೫. ವ. .೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 107]*
+
+ಗೃಹಾನ್ ಗಚ್ಛ ಗೃಹಪತ್ನೀ ಯಥಾಸೋ ವಶಿನೀ ತ್ವಂ ವಿದಥವಾ ವದಾಸಿ ॥
+(ಮ ಸಂ. ೧೦-೮೫-೨೬)
+ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿ ಪೂಷನೂ, ಅಶ್ವಿನೀದೇವತೆಗಳೂ ನಿನ್ನನ್ನು ಪತಿಗೃಹಕ್ಕೆ ಕ್ಷೇಮದಿಂದ ಕರೆದೊಯ್ಯಲಿ ಎಂಬರ್ಥ
+ವಿರುವುದು ವಿಶದವಾಗಿದೆ. ಅಲ್ಲದೆ,
+ಯೇ ಸ್ತೋತೃಭ್ಯೋ ಗೋಅಗ್ರಾಮಶ್ವಪೇಶಸಮಗ್ನೇ ರಾತಿಮುಪಸೃಜಂತಿ ಸೂರಯಃ ।
+ಅಸ್ಮಾಞ್ಚ ತಾಂಶ್ಚ ಪ್ರ ಹಿ ನೇಷಿ ವಸ್ಯ ಆ ಬೃಹದ್ವದೇಮ ವಿದಥೇ ಸುವೀರಾಃ ॥
+(ಮ. ಸಂ. ೨೧-೧೬)
+ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಸಹ ಸುವೀರಾಃ ಎಂದರೆ ಶೋಭನಪುತ್ರಾದಿಸಹಿತಾಃ ಎಂದರ್ಥಮಾಡಿರುವುದರಿಂದ
+ಗೃಹವೆಂದರ್ಥ. ಆದರೆ ಗೃಹದಲ್ಲಿ ಯಜ್ಞಕಾರ್ಯವು ನಡೆಯುವುದರಿಂದ ಪ್ರಕೃತದಲ್ಲಿ ಯಜ್ಞಗೃಹವೆಂದಾಗುತ್ತದೆ.
+ಯಾಸ್ಕಾದಿಗಳು ಯಜ್ಞಪರ್ಯಾಯಶಬ್ದವೆಂದು ಹೇಳಿರುವುದರಲ್ಲಿಯೂ ಇದೇ ಅರ್ಥವಿದೆ. ಹೀಗೆಂಬುದಾಗಿ
+ಪಾಶ್ಚಾತ್ಯರಲ್ಲಿ ಅನೇಕ ಪಂಡಿತರು ತಮ್ಮ ತಮ್ಮ ವೈಯಕ್ತಿಕವಾದ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಕೊಟ್ಟಿದ್ದಾರೆ.
+ಹೀಗೆ ಗೃಹ, ಯಜ್ಞ, ಸಭಾ ಎಂಬ ಬೇರೆ ಬೇರೆ ಅರ್ಥಗಳೆಲ್ಲವೂ ಹೊಂದಿಕೊಳ್ಳುವುದರಿಂದ ಇವು
+ಗಳಲ್ಲಿ ಯಾವುದೂ ತಪ್ಪೆಂದು ಹೇಳುವುದಕ್ಕಾಗುವುದಿಲ್ಲ. ಸಾಯಣಭಾಷ್ಯದಲ್ಲಿಯೇ ಈ ಅರ್ಥಗಳೆಲ್ಲವೂ ಇವೆ.
+ಉದಾಹರಣೆಗೆ ೧೦-೮೫-೨೬ ಮತ್ತು ೨೭ ; ೭-೮೪-೩ ಇತ್ಯಾದಿಋಕ್ಕುಗಳಲ್ಲಿ ಗೃಹವೆಂದೂ, ೧೦-೧೦೦-೬,
+೧೦-೧೧೦-೭ ಇತ್ಯಾದ್ಯನೇಕ ಋಕ್ಕುಗಳಲ್ಲಿ ಯಜ್ಞವೆಂದೂ ಅರ್ಥಮಾಡಿದ್ದಾರೆ. ಯಜ್ಞಗೃಹವೆಂದೂ ಮತ್ತು ಯಜ್ಞ
+ಸಭಾ ಎಂದೂ ಸಹ ಅರ್ಥವಾಗುತ್ತದೆ
+ಇಳಾಭಿಃ— ಇಳಾ ಶಬ್ದವು ಪೃಥಿವೀನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೨-೫) ವಾಙ್ಮಯಗಳಲ್ಲಿಯೂ (ನಿ. ೨-೨೩)
+ಅನ್ನನಾಮಗಳಲ್ಲಿಯೂ (ನಿ ೩-೯) ಗೋನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೯) ಪಠಿತವಾಗಿರುವುದರಿಂದ ಇಳಾ ಶಬ್ದಕ್ಕೆ
+ಪೃಥಿವೀ, ವಾಕ್ಕು, ಅನ್ನ, ಗೋವು ಎಂದು ಬೇರೆ ಬೇರೆ ಅರ್ಥಗಳಿರುವುವು ಇಲ್ಲಿ ಭಾಷ್ಯಕಾರರು ಪೃಥಿವೀ ಎಂಬ
+ಅರ್ಥವನ್ನು ಸ್ವೀಕರಿಸಿ ಇಳಾಭಿಃ—ಭೂಮಿಸ್ಥಾನಾಭಿರ್ದೇವತಾಭಿಃ । ಭೂಮಿಯನ್ನು ಆಶ್ರಯಿಸಿರುವ ದೇವತೆ
+ಗಳಿಂದ ಎಂದು ಅರ್ಥವಿವರಣೆಮಾಡಿದ್ದಾರೆ.
+ವಿಶ್ವಾನರಃ—ಸರ್ವಪ್ರಾಣಿಹಿತಕಾರ್ಯಗ್ನಿಃ । ಸರ್ವ ಪ್ರಾಣಿಗಳಿಗೂ ಹಿತವನ್ನುಂಟುಮಾಡುವ ಅಗ್ನಿ
+ಯೆಂದು ಭಾಷ್ಯಕಾರರ ಅರ್ಥವಿವರಣೆಯು. ಯಾಸ್ಕರು ತಮ್ಮ ನಿರುಕ್ತದಲ್ಲಿ—
+ವೈಶ್ವಾನರಃ । ವೈಶ್ವಾನರಃ ಕಸ್ಮಾದ್ವಿಶ್ವಾನ್ನರಾನ್ನಯತಿ । ವಿಶ್ವಏನಂ ನರಾ ನಯಂತೀತಿ ವಾ ।
+ಅಪಿ ನಾ ವಿಶ್ವಾನರ ಏವ ಸ್ಯಾತ್ ಪ್ರತ್ಯೃತಃ ಸರ್ವಾಣಿ ಭೂತಾನಿ ತಸ್ಯ ವೈಶ್ವಾನರಃ ।
+(ನಿ. ೭-೨೧)
+ವೈಶ್ವಾನರನೆಂದರೆ ಏನು ? ಈ ಹೆಸರು ಈ ದೇವತೆಗೆ ಏತಕ್ಕೆ ಬಂದಿತು ? ಎಂದು ಪ್ರಶ್ನೆಮಾಡಿ ಅದಕ್ಕೆ ಉತ್ತರವಾಗಿ
+ಈ ದೇವತೆಯು (ಅಗ್ನಿಯು) ಸಮಸ್ತರನ್ನೂ ಒಯ್ಯುವುದರಿಂದ ಎಂದರೆ ಸಮಸ್ತರಿಗೂ ಮಾರ್ಗದರ್ಶಕನಾಗಿರುವು-
+ರಿಂದ ಅಥವಾ ಯಜ್ಞಾದಿಕರ್ಮಗಳಲ್ಲಿ ಯಜಮಾನಋತ್ವಿಕ್ಕುಗಳು ಈ ಅಗ್ನಿಯನ್ನು ಪೂರ್ವವೇದಿಯಿಂದ ಆಹವನೀ
+ಯಾಗ್ನಿ ಸ್ಥಾನಕ್ಕೆ ಒಯ್ಯುವುದರಿಂದ ವೈಶ್ವಾನರನೆಂಬ ಹೆಸರು. ಮತ್ತು ಈ ಅಗ್ನಿಯು ಸಕಲ ಪ್ರಾಣಿಗಳನ್ನೂ

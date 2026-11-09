@@ -3130,6 +3130,85 @@ has explained the word *vidathe* as "(sacrificial) assembly" (printed in English
 
 Some have said that a sacred act is the meaning of the word *vidatha*, as sacred knowledge is the meaning of the word *veda*. But he has concluded that there is no doubt that "sacrificial assembly" is the chief meaning of this word.
 
+### Printed p. 105
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 105 (as supplied, "ಅ ೫"). The window continues the Special Topics of Ṛk 1 of Sūkta 186 (the word *vidatha*) from p. 104.*
+
+The scholar Hermann Oldenberg, in his work *Vedic Hymns*, in explaining the word विदथे (*vidathe*) in the ṛk १-३१-६ने (*1-31-6ne*) [as printed], has stated his opinion in this way. His words are quoted and then his opinions are stated.
+
+On the derivation and meaning of विदथ (*vidatha*) Various opinions have been prononnced [sic] in the last years which have been collected by prof. Max Muller in bi- note on R. V V-59-2 (S. B. E. Vol. 32 p. 349 sq.) without trying to discuss here all different theories, I proceed to state my own opinion- I propose to derive विदथ (*vidatha*) from वि (*vi*)+धा (*dhā*); The Verb वि (*vi*)+धा (*dhā*) means 'to distribute, to arrange, to ordain;' thus the original meaning of विदथ (*vidatha*) must be like the meaning of विधान (*vidhāna*), 'distribution, disposition, ordinance; In V. 3-6, we read विदथेषु आह्नां (*vidatheṣu āhnāṃ*): this phrase receives its explanation by VII. 66-11 we may call attention also to VI. 51-2 within the sphere of the Vedic poets ' thoughts, the most prominent example of something most artificially विहित (*vihita*) was the secrifice [sic]. यज्ञ (*yajña*) and विदथ (*vidatha*), Sacrifice and ordinance became nearly synony-mous. (III 3·3) .... .... .... .... finally विदथ (*vidatha*) seems to mean 'the act of disposing of any business' or the like; this meaning appears, I believe, in some passages like the well-known phrase, बृहद्वदेम विदथे (*bṛhadvadema vidathe*) 'ऎवीरा (*èvīrā*):-may we with Valiant men mightily raise our voice in the determining of ordinances. Thus the word विदथ (*vidatha*) and सभा (*sabhā*) approach each other in their meaning; a person influential in council is called hoth विदथ (*vidatha*), and सभेय (*sabheya*) '.
+
+(Sacred Books of the East. Vol. 46. p. 27)
+
+The main substance of this writing is this: the word *vidatha* is formed by adding the prefix *vi* to the root *dhā*. *Vidhā* means "distribute, ordain"; it may also mean "observance of rule". That the meanings of the two words *vidatha* and *vidhā* are the same is understood from the equal sense of the words विदथेष्वह्नां (*vidatheṣvahnāṃ*) in the ṛk
+
+वयमग्ने वनुयाम त्वोता वसूयवो हविषा बुध्यमानाः । (*vayamagne vanuyāma tvotā vasūyavo haviṣā budhyamānāḥ |*)
+वयं समर्ये विदथेष्वह्नां वयं राया सहसस्पुत्र मर्तान् ॥ (*vayaṃ samarye vidatheṣvahnāṃ vayaṃ rāyā sahasasputra martān ‖*)
+
+((म. सं. ५-३-६) (*(ma. saṃ. 5-3-6)*), as printed; the book prints "ಮ. ಸಂ.")
+
+and of the words वि-दधुः (*vi-dadhuḥ*) in the ṛk
+
+वि ये दधुः शरदं मासमादहरज्ञ मक्तुं चादृचं । (*vi ye dadhuḥ śaradaṃ māsamādaharajña maktuṃ cādṛcaṃ |*)
+अनाप्यं वरुणो मित्रो अरमा क्षत्रं राजान आशत ॥ (*anāpyaṃ varuṇo mitro aramā kṣatraṃ rājāna āśata ‖*)
+
+((ऋ. सं.७-६६-११) (*(ṛ. saṃ.7-66-11)*))
+
+And the meanings of the words *vihita* and *vidatha* being one, the sacrifice enjoined by the śāstra came to be called by the name *vidatha*
+
+### Printed p. 106
+
+*Running head: [106 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186].*
+
+and the meaning "sacrifice" or "sacrificial assembly" remained at the end: thus this scholar has explained.
+
+Bloomfield has shown the faults in the meanings given by Max Müller and Oldenberg, saying that *vidatha* never means "assembly" and that the meaning "private house" is the right one. His opinion is as follows:
+
+The word विदथ (*vidatha*) contains the root विद् (*vid*) in its ordinary sense of 'get, acquire'. Instead of this, the radical idea underlying the word was generally felt to be 'come to-gether,' 'assemble'. Again, the false start from the notion of 'assemblage' resulted in an approxi-mation of the word to other words for assemblage, especially to सभा (*sabhā*) with which विदथ (*vidatha*) was almost identified. We shall see that there are decided points of contact between the words विदथ (*vidatha*) and सभा (*sabhā*) but the contact is that of extreme opposites in a way. विदथ (*vidatha*) refers to home matters; सभा (*sabhā*) generally to public matters.
+
+In the interpretation of a term that figures prominently in the mystic—hieratic sphere of the Veda it is peculiarly necessary to search for its uses outside of that sphere, if there be such uses. In X—85-26, the bride after the wedding ceremony proper, as the newly married couple are about to travel to their new home is addressed with the words "May Pushan taking thee hy tbe [sic] hand lead thee home, may the Aswins lead thee forth on their car. Go to your house in order that thou mayst be mistress of the house ".
+
+Now विदथ (*vidatha*) here, can but have one meaning, 'household' or something very like it. It certainly cannot refer to anything in the nature of a public gathering similar to the सभा (*sabhā*).
+
+In the phrase बृहद्वदेम विदधे सुवीराः (*bṛhadvadema vidadhe suvīrāḥ*) (R. V. 2-1-16), the word सुवीराः (*suvīrāḥ*) refers to family relations not to public life.
+
+Thus far, it may not be doubted, the word appears in the language of ordinary life-
+
+But it is found to a very much greater extent in the sacerdotal sphere: indeed, as all interpreters from Yaska on, have agreed, it often has a meaning very close to Yagna 'Sacrifice ' itself. This is as it should be. In as much as the sacrifice is a private, home affair, it is very natural विदथ (*vidatha*) the house, the premises, the establishment, should figure prominently in connection with the sacrifice.
+
+The summary of this writing is that it is not right that some have given the sense "sabhā" to the word विदथ (*vidatha*). The meaning of this word is "private house". Use of the word in this meaning can be noticed in many places. For example:
+
+पूषा त्वेतो नयतु हस्तगृह्याश्विना त्वा प्र वहतां रथेन । (*pūṣā tveto nayatu hastagṛhyāśvinā tvā pra vahatāṃ rathena |*)
+
+### Printed p. 107
+
+*Running head: [Ā. 2. A. 5. Va. 4] Ṛgveda-saṃhitā 107 (as supplied, "ಆ. ೨. ಅ. ೫. ವ. .೪").*
+
+गृहान् गच्छ गृहपत्नी यथासो वशिनी त्वं विदथवा वदासि ॥ (*gṛhān gaccha gṛhapatnī yathāso vaśinī tvaṃ vidathavā vadāsi ‖*)
+((म सं. १०-८५-२६) (*(ma saṃ. 10-85-26)*), as printed; the book prints "ಮ ಸಂ.")
+
+In this ṛk it is plain that the sense is that Pūṣan and the Aśvin deities should lead you safely to the husband's house. And further:
+
+ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजंति सूरयः । (*ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjaṃti sūrayaḥ |*)
+अस्माञ्च तांश्च प्र हि नेषि वस्य आ बृहद्वदेम विदथे सुवीराः ॥ (*asmāñca tāṃśca pra hi neṣi vasya ā bṛhadvadema vidathe suvīrāḥ ‖*)
+((म. सं. २१-१६) (*(ma. saṃ. 21-16)*), as printed; the book prints "ಮ. ಸಂ.")
+
+in this ṛk also, since *suvīrāḥ* is explained as "accompanied by good sons and so on", the sense is "house". But since sacrificial work is done in the house, here it comes to be "sacrificial house". The same sense lies in what Yāska and others have said, that it is a synonym of *yajña*. Thus many scholars among the Westerners have given their own personal opinions.
+
+Since the different meanings house, sacrifice and assembly all fit, none of them can be called wrong. All these meanings are found in the Sāyaṇa-bhāṣya itself. For example, in the ṛks १०-८५-२६ मत्तु २७ (*10-85-26 mattu 27*) and ७-८४-३ (*7-84-3*) and the like he has explained it as "house", and in १०-१००-६ (*10-100-6*) and १०-११०-७ (*10-110-7*) and many other ṛks as "sacrifice". It also means "sacrificial house" and "sacrificial assembly".
+
+इळाभिः— (*iḷābhiḥ—*) — the word *iḷā* is read among the names of the earth (नि. २-५ (*ni. 2-5*)), of speech (नि. २-२३ (*ni. 2-23*)), of food (नि ३-९ (*ni 3-9*)) and of the cow (नि. ३-९ (*ni. 3-9*)); so the word *iḷā* has the different meanings earth, speech, food and cow. Here the bhāṣyakāra has taken the meaning "earth" and explained इळाभिः—भूमिस्थानाभिर्देवताभिः (*iḷābhiḥ—bhūmisthānābhirdevatābhiḥ*), that is, "by the deities who dwell on the earth".
+
+विश्वानरः—सर्वप्राणिहितकार्यग्निः (*viśvānaraḥ—sarvaprāṇihitakāryagniḥ*) — "Agni, who does good to all beings": this is the bhāṣyakāra's explanation. Yāska in his Nirukta has said:
+
+वैश्वानरः । वैश्वानरः कस्माद्विश्वान्नरान्नयति । विश्वएनं नरा नयंतीति वा । (*vaiśvānaraḥ | vaiśvānaraḥ kasmādviśvānnarānnayati | viśvaenaṃ narā nayaṃtīti vā |*)
+अपि ना विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः । (*api nā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ |*)
+((नि. ७-२१) (*(ni. 7-21)*))
+
+Asking "What is Vaiśvānara? Why has this deity this name?", he gives the answer that this deity (Agni) is called Vaiśvānara because he leads all, that is, is the guide of all, or because in sacrifices and the like the sacrificer and priests carry this Agni from the old altar to the place of the Āhavanīya fire. And this Agni (all living beings
+
+*[The window ends here, in the middle of the sentence; the next window continues from "ಸಕಲ ಪ್ರಾಣಿಗಳನ್ನೂ".]*
+
 ---
 
-**Progress note:** Done through printed p. 104 (PDF 104). Done through printed p. 104 (Sukta 186 Rk 1 Special Topics: Visve Devah, vidatha; continues on next page)
+**Progress note:** Done through printed p. 107 (PDF 107). Done through printed p. 107 (Sukta 186 Rk 1 Special Topics: vidatha, ila, visvanara; ends mid-sentence in the Vaisvanara note)
