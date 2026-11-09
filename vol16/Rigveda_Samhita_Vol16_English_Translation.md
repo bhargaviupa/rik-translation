@@ -3581,6 +3581,88 @@ Desirous as you are of the forests since you have repaired to the maternal water
 
 Grammar page, noted briefly. कायमानः (*kāyamānaḥ*): root कमु कांत् (*kamu kāṃt*) [sic, as supplied]; by कमेर्णिज् (*kamerṇij*) (Pā. Sū. 3-1-30) the affix णिज् (*ṇij*) in the root's own sense; vṛddhi of the penultimate by आत उपधायाः (*āta upadhāyāḥ*) (Pā. Sū. 7-2-116); the णिजंत (*ṇijaṃta*) is a root; लट् (*laṭ*) is replaced by शानच् (*śānac*); guṇa and ayādeśa; आनेमुक् (*ānemuk*) (Pā. Sū. 7-2-82) gives the augment मुक् (*muk*); the m of the root is dropped in the Veda; the root accent remains. वना (*vanā*): neuter plural; शि (*śi*) is dropped by छंदसि बहुलं (*chaṃdasi bahulaṃ*) (Pā. Sū. 6-1-70). अजगन् (*ajagan*): root गमल्य गतौ (*gamalya gatau*) [sic, as supplied]; लज् (*laj*) with तिप् (*tip*); इतश्च (*itaśca*) drops the i; शप् (*śap*) becomes शु (*śu*) by बहुलं छंदसि (*bahulaṃ chaṃdasi*); the ending is dropped; मोनो धातोः (*mono dhātoḥ*) (Pā. Sū. 8-2-64) changes m to n; augment अड् (*aḍ*); because the word यत् (*yat*) is connected there is no nighāta; ādyudātta by the udātta augment. प्रमृषे (*pramṛṣe*): root मृष तितीक्षायां (*mṛṣa titīkṣāyāṃ*); लट् (*laṭ*) in the passive, त (*ta*) ending, e by टित आत्मने (*ṭita ātmane*); no यक् (*yak*) by vyatyaya; the a of the ending dropped by लोपस्त आत्मने पदेषु (*lopasta ātmane padeṣu*) (Pā. Sū. 7-1-41); no nighāta because of न (*na*); तिजिचोदात्तवति (*tijicodāttavati*) (Pā. Sū. 8-1-71, as printed, with पा (*pā*) and सू. (*sū.*) split by a line break) makes प्र (*pra*) anudātta. निवर्तनं (*nivartanaṃ*): root वृतु वर्तने (*vṛtu vartane*); ल्युट् (*lyuṭ*) in the sense of the action; युवोरनाकौ (*yuvoranākau*) (Pā. Sū. 7-1-1) gives अन (*ana*); लिति (*liti*) (Pā. Sū. 6-1-193) gives udātta before the affix; as a prādi-compound it takes the accent of the kṛdanta latter member. अभवः (*abhavaḥ*): root भू सत्तायां (*bhū sattāyāṃ*); by छंदसि (*chaṃdasi*) … (Pā. Sū. 3-4.6, as printed) … (the page breaks off here, mid-word: ऎंबु (*èṃbu*); continued on the next page).
 
+### Printed p. 126
+
+*[Running head, p. 126: 126 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9]]*
+
+*[Vyākaraṇa-prakriyā of Ṛk 2, continued from the previous page; grammar page, noted briefly.]* Continuing अभवः (*abhavaḥ*) the form is लज् (*laj*) in the present sense, second person singular; because the word यत् (*yat*) is connected, the nighāta accent does not occur; by the accent of the augment अट् (*aṭ*) the word is ādyudātta.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अति॑ तृ॒ष्टं व॑वक्षि॒थाथै॒व सु॒मना॑ असि ।
+> प्रप्रा॒न्ये यंति॒ पर्य॒न्य आ॑सते॒ येषां॑ स॒ख्ये असि॑ श्रि॒तः ॥
+
+**॥ पदपाठः ॥**
+
+> अति । तृष्टं । ववक्षिथ । अथ । एव । सुमनाः । असि ।
+> द्रप्र । अन्वे । यंति । परि । अन्वे । आसते । येषां । सख्ये । आसि । श्रितः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने तृष्टं स्तोतुस्त्वाभिलाषं तदुचितफलप्रदानेन सफलं कर्तु-
+> मतिववक्षिथ । अतिशयेन वोढुमिच्छसि । आथैव अथापि त्वं सुमना असि । संतुष्ट-
+> मनस्को वर्तसे । किंच ! त्वं येषां षोडशानामृत्विजां सख्ये मैत्रे श्रितोऽसि
+> वर्तसे तेषां मध्येऽन्येऽध्वर्युप्रभृतयो द्वादशर्त्विजः प्रयंति । प्रकर्षण
+> होतुं गच्छंति । अन्य उद्गातृप्रभृतयश्चत्वारः पर्यासते । परित आसीना वर्तंते॥
+> ववक्षितथ । वह प्रापण इत्यस्य सनि रूपं । अभ्यासस्य सन्यत इतीत्वाभावश्कांदसः । तदं-
+> ताद्वर्तमाने लिट् । फल अर्धधातुकस्येड्वलादेरितीट् । कास्पत्ययाडामित्याम्
+> न भवति मंत्रत्वात् । निघातः । प्रप्र । प्रसमःपोद इति द्विवचनं । यंति । इष्
+> गतावित्यस्य लटि रूपं । एकान्याभ्यां समर्थाभ्यामित्यन्यशब्दयोगात्पूर्वस्य निघाता-
+> भावः । आसते । आस उपवेशने । उत्तरत्वान्नि घातः । असि । आस भुवि । शासस्तो-
+> र्लोप इति सकारलोपः । यद्वृत्तयोगान्न निहन्यते ॥
+
+> *he agne tṛṣṭaṃ stotustvābhilāṣaṃ taducitaphalapradānena saphalaṃ kartu-*
+> *mativavakṣitha | atiśayena voḍhumicchasi | āthaiva athāpi tvaṃ sumanā asi | saṃtuṣṭa-*
+> *manasko vartase | kiṃca ! tvaṃ yeṣāṃ ṣoḍaśānāmṛtvijāṃ sakhye maitre śrito 'si*
+> *vartase teṣāṃ madhye 'nye 'dhvaryuprabhṛtayo dvādaśartvijaḥ prayaṃti | prakarṣaṇa*
+> *hotuṃ gacchaṃti | anya udgātṛprabhṛtayaścatvāraḥ paryāsate | parita āsīnā vartaṃte‖*
+> *vavakṣitatha | vaha prāpaṇa ityasya sani rūpaṃ | abhyāsasya sanyata itītvābhāvaśkāṃdasaḥ | tadaṃ-*
+> *tādvartamāne liṭ | phala ardhadhātukasyeḍvalāderitīṭ | kāspatyayāḍāmityām*
+> *na bhavati maṃtratvāt | nighātaḥ | prapra | prasamaḥpoda iti dvivacanaṃ | yaṃti | iṣ*
+> *gatāvityasya laṭi rūpaṃ | ekānyābhyāṃ samarthābhyāmityanyaśabdayogātpūrvasya nighātā-*
+> *bhāvaḥ | āsate | āsa upaveśane | uttaratvānni ghātaḥ | asi | āsa bhuvi | śāsasto-*
+> *rlopa iti sakāralopaḥ | yadvṛttayogānna nihanyate ‖*
+
+*Gist: O Agni, you wish to bear the worshipper's desire to fulfilment and so are well-pleased; of the sixteen priests in whose friendship you rest, twelve go forth to offer and four sit around. (The grammatical tail is transcribed, not explained: ववक्षिथ (*vavakṣitha*), प्रप्र (*prapra*), यंति (*yaṃti*), आसते (*āsate*), आसि (*āsi*). The text prints ववक्षितथ (*vavakṣitatha*) in the tail where the Pada has ववक्षिथ (*vavakṣitha*), तृष्टं (*tṛṣṭaṃ*) where the printed English later suggests तृष्णं (*tṛṣṇaṃ*), and द्रप्र (*drapra*) in the Pada for प्रप्र (*prapra*): OCR variants of the supplied text, left as supplied.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(हे अग्ने (*he agne*) — O Agni) तृष्टं (*tṛṣṭaṃ*) — the thirst (desire) of the worshipper (to make fruitful). अति ववक्षिथ (*ati vavakṣitha*) — you wish to bear greatly. अथ एव (*atha eva*) — for that very reason. सुमनाः आसि (*sumanāḥ āsi*) — you are of a contented mind; (and) येषां (*yeṣāṃ*) — of which sixteen priests. सख्ये (*sakhye*) — in friendship. श्रितः आसि (*śritaḥ āsi*) — you are resting. (तेषां (*teṣāṃ*) — among them)
+
+### Printed p. 127
+
+*[Running head, p. 127: [A. 3. A. 1. V. 5] Ṛgvedasaṃhitā 127 (as supplied, "ಅ. ೩. ಅ. ೧. ವ. ೫")]*
+
+अन्ये (*anye*) — some (the twelve priests beginning with the Adhvaryu). प्र प्र यंति (*pra pra yaṃti*) — go forth (to offer the oblation). अन्ये (*anye*) — (and) some others (the four beginning with the Udgātṛ). परि आसते (*pari āsate*) — sit all around.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you are well-pleased [the text reads "ಪೂರ್ಣಮಾಡುವುದಕ್ಕೋಸ್ಕರಲೇ" with a stray letter; sense: for the very purpose of fulfilling the worshipper's desire]; of the sixteen priests regarded by you as friends, the twelve beginning with the Adhvaryu have set out to make the offering in abundance, and the remaining four (beginning with the Udgātṛ) sit all around. (They are seated.)
+
+**Printed English translation**
+
+you wish exceedingly to convey satisfaction (to your worshipper) and are thereto well-disposed ; of those in whose friendship you are cherished some precede whilst others sit around.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+तृष्णं ववक्षिथ (*tṛṣṇaṃ vavakṣitha*) — [as supplied; the Saṃhitā reads तृष्टं (*tṛṣṭaṃ*)] With this sentence Agni is addressed: स्तोतुः तृष्णाभिलाषं सफलं कर्तुं तत्तदुचितफलप्रदानेन अतिशयेन वोढुमिच्छसि (*stotuḥ tṛṣṇābhilāṣaṃ saphalaṃ kartuṃ tattaducitaphalapradānena atiśayena voḍhumicchasi*). It is described that he is desirous of bearing abundant oblation from the sacrificer, in order to give the fruit corresponding to the desire of the sacrificer who praises him, in order to make the sacrificer one who has gained his purpose, and in order to show his own affection for the sacrificer. And सुमना असि (*sumanā asi*) is further explained as: he is of a mind that is joyful toward the sacrificer.
+
+अन्ये प्रयंति अन्ये परि आसते (*anye prayaṃti anye pari āsate*) — Agni is affectionate toward all sixteen priests of the sacrifice, the Hotṛ and the others, because they serve him. Among them अध्वर्युप्रभृतयो द्वादश ऋत्विजः प्रकर्णण होतुं गच्छंति (*adhvaryuprabhṛtayo dvādaśa ṛtvijaḥ prakarṇaṇa hotuṃ gacchaṃti*) [sic, प्रकर्णण (*prakarṇaṇa*) as supplied; the bhāṣya reads प्रकर्षण (*prakarṣaṇa*)] — the twelve priests beginning with the Adhvaryu are ready to offer oblations and perform the homa to satisfy Agni. अन्ये उद्गातृप्रभृतयः चत्वारः परित आसीना वर्तंते (*anye udgātṛprabhṛtayaḥ catvāraḥ parita āsīnā vartaṃte*) — the four priests beginning with the Udgātṛ, as praisers of Agni, sit around him in the sacrificial hall, ready to chant. Thus the duties performed by the priests belonging to the sacrifice are briefly indicated here.
+
+सख्यॆ (*sakhyè*) — मित्रत्व (*mitratva*); the meaning is the state of friendship. The Nirukta authors—
+
+### Printed p. 128
+
+*[Running head, p. 128: 128 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9.]]*
+
+(continuing the Nirukta citation) सक्तुमिव तितउना पुनंतो यत्र धीरा मनसा वाचमक्रत । अश्रा सखायस्सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥ (*saktumiva titaunā punaṃto yatra dhīrā manasā vācamakrata | aśrā sakhāyassakhyāni jānate bhadraiṣāṃ lakṣmīrnihitādhi vāci ‖*) (Ṛ. Saṃ. 10-71-2, as printed; the text's तितउना (*titaunā*) is as supplied — a gloss would be mine and tentative: "as one purifies barley-meal with a sieve, where the wise fashioned speech with the mind; there friends know the marks of friendship; their auspicious mark is placed in speech"). In this Ṛk, the meaning सखायः सख्यानि संजानते (*sakhāyaḥ sakhyāni saṃjānate*), "friends recognise the states of friendship", is explained. Durgācārya (explains): समानख्यानाः समानख्यानानामेव सखायः, वैयाकरणानां वैयाकरणा एव नैरुक्तानां नैरुक्ता एव सखिभावान् संजानते विज्ञानानि संजानते इतरेतरस्य यो विज्ञानप्रकर्षः तं जानते (*samānakhyānāḥ samānakhyānānāmeva sakhāyaḥ, vaiyākaraṇānāṃ vaiyākaraṇā eva nairuktānāṃ nairuktā eva sakhibhāvān saṃjānate vijñānāni saṃjānate itaretarasya yo vijñānaprakarṣaḥ taṃ jānate*). Those who have one kind of knowledge are friendly with those equally skilled; those who know grammar recognise each other's excellence of knowledge among grammarians, and those who know the Nirukta among the Nirukta-scholars. From this, affection arises among them. In the same way Agni, being renowned as the Hotṛ, is friendly with the priests; thus the meaning is explained.
+
+**Vyākaraṇa-prakriyā**
+
+Grammar page, noted briefly. ववक्षथ (*vavakṣatha*) [sic, as supplied; the bhāṣya reads ववक्षिथ (*vavakṣitha*)]: root वह प्रापणे (*vaha prāpaṇe*); the affix सन् (*san*) in the sense of wishing by धातोःकर्मणः (*dhātoḥkarmaṇaḥ*) (Pā. Sū. 3-1-6, as printed); doubling of the root by सन्यजोः (*sanyajoḥ*); the i that सन्यतः (*sanyataḥ*) would give to the reduplicative syllable does not occur in the Veda; होढः (*hoḍhaḥ*) changes h to ḍh, षढोःकसि (*ṣaḍhoḥkasi*) then gives ka, and ṣatva of the s follows; the form in सन् (*san*) is a root by सनाद्यंताधातवः (*sanādyaṃtādhātavaḥ*), takes लिट् (*liṭ*); the second person singular सिप् (*sip*) becomes थल् (*thal*) by परस्मैपदानां (*parasmaipadānāṃ*); the इड् (*iḍ*)-augment by अर्धधातुकस्येद्वलादेः (*ardhadhātukasyedvalādeḥ*) (Pā. Sū. 7-2-35, as printed, text अर्धधातुकस्यॆद्वरादेः (*ardhadhātukasyèdvarādeḥ*)); आम् (*ām*) does not occur, the prohibition अमंत्रे (*amaṃtre*) in कास्प्रत्ययादाममंत्रेलिटि (*kāspratyayādāmamaṃtreliṭi*) (Pā. Sū. 3-1-35) applying to the Veda; अतोलोपः (*atolopaḥ*) drops the a of the sanning (text: "ಲೋರ" [sic]); the nighāta accent arises as the word follows [a word garbled in the text: "ಅತಿ ಚಿಂತದ" — [?]]. सुमनाः (*sumanāḥ*): शोभनं मनः यस्य सः (*śobhanaṃ manaḥ yasya saḥ*); since the latter member ends in अस् (*as*), सोर्मवसी (*sormavasī*) [as supplied, with a stray underscore] (Pā. Sū. 6-2-117, as printed) gives the latter member's initial udātta. प्रप्र (*prapra*): in filling the pāda, doubling of प्र (*pra*) by प्रसमुपोद (*prasamupoda*) (Pā. Sū. 8-1-6, text without full stops); the second is called amreḍita and made udātta by अनुदात्तंच (*anudāttaṃca*) (Pā. Sū. 8-1-3). यंति (*yaṃti*): root इण् गत् (*iṇ gat*) [sic, as supplied]; लट् (*laṭ*) third plural, अंत् (*aṃt*) substituted; लुक् (*luk*) for शप् (*śap*); इणोयण् (*iṇoyaṇ*) (Pā. Sū. 6-4-81) gives यण् (*yaṇ*); because the word अन्य (*anya*) is connected, एकान्याध्यांसमर्थाभ्याम् (*ekānyādhyāṃsamarthābhyām*) [sic, as supplied] (Pā. Sū. 8-1-65) forbids the tiṅanta nighāta, so the ending's ādyudātta accent remains.
+
 ---
 
-**Progress note:** Done through printed p. 125 (PDF 125). Done through printed p. 125 (PDF 125). Sukta 9 (Mandala 3): Rk 1 grammar note completed on p. 122 (sakhayah, vavrmahe, martasah, utaye, apam, subhagam, supratURtim); Rk 2 written through its Special Topics (Samhita, Pada, bhasya p. 123, Pratipadartha, Bhavartha, printed English and Special Topics pp. 124-125, ending with the Nirukta quotation). Vyakarana-prakriya of Rk 2 begun on p. 125 (kayamanah, vana, ajagan, pramrse, nivartanam) and breaks off mid-word at the end of p. 125 in abhavah (the sutra after 'chandasi', ending 'embu'), continuing on p. 126; Rk 3 next. Page 124 had no marker in the supplied split (merged into p. 123), repaired. No [?].
+**Progress note:** Done through printed p. 128 (PDF 128). Done through printed p. 128 (PDF 128). Sukta 9 (Mandala 3): Rk 2 grammar note completed on p. 126 (abhavah); Rk 3 written in full (Samhita, Pada, bhasya p. 126, Pratipadartha pp. 126-127, Bhavartha, printed English, Special Topics pp. 127-128 ending with the Nirukta/Durga citation). Vyakarana-prakriya of Rk 3 on p. 128 noted for vavaksatha, sumana, prapra, yanti and breaks off at the end of p. 128 in yanti (the ayadesa/accent sentence ends the page); continues on p. 129 with asate, asi. Page markers 126-128 checked. One [?] (garbled word in the grammar note).
