@@ -10276,6 +10276,103 @@ The page explains: त्यॆ (*tyè*) (the word *tyad*; *śi* substituted for
 
 O serpents, heaven is your father, the earth your mother; Soma (the atmosphere, the support of soma) your brother, Aditi, the mother of the gods, your sister... (the supplied text breaks off here, in the middle of the sentence, at निम्मन्नु इतररु (*nimmannu itararu*), at the end of the window).
 
+### Printed p. 347
+
+*Running head (as supplied): [अ. २. अ ५. व. १५ ] ऋग्वेदसंहिता 347 (*[a. 2. a 5. va. 15 ] ṛgvedasaṃhitā 347*).*
+
+*(Continuation of the Bhāvārtha of Ṛk 6 of Sūkta 191, from the end of the previous page.)*
+
+...although you cannot be seen by others, you can see everything else. Without coming to us and troubling us, abide in your own places and enjoy happiness.
+
+**Printed English translation**
+
+Heaven, (serpents), is your father, Earth your mother, Soma your brother, Aditi your sister, unseen, all seeing, abide (in your own holes), enjoy (your own) good pleasure.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 6)**
+
+So far the sage Agastya has censured the harm that serpents and the like cause to people and has said that people must be very watchful about them; now, in this ṛk and in the next ṛk, he expresses the wish that they should live happily by themselves without troubling anyone, and prays accordingly.
+
+सोमः (*somaḥ*): here the bhāṣyakāra's view is that the word *soma* means the heavenly world where soma is; that is, the purport is the various kinds of serpents that are on the earth, in the atmosphere and in heaven. This matter is clearly stated in the mantra in the Taittirīya Saṃhitā:
+
+नमो अस्तु सर्पेभ्यो ये के च पृथिवीमनु । (*namo astu sarpebhyo ye ke ca pṛthivīmanu |*)
+ये अंतरिक्षे ये दिवि तेभ्यः सर्पेभ्यो नमः ॥ (*ye aṃtarikṣe ye divi tebhyaḥ sarpebhyo namaḥ ‖*)
+(शै. सं. ४-२-८-३) (*(śai. saṃ. 4-2-8-3)*)
+
+(The reference is printed शै. सं. (*śai. saṃ.*), as supplied.) Besides the three principal places, earth, atmosphere and heaven, the matter of the serpents in other places too is told there:
+
+येऽदो रोचने दिवो ये वा सूर्यस्य रश्मिषु । (*ye 'do rocane divo ye vā sūryasya raśmiṣu |*)
+येषामप्सुसदः कृतं तेभ्यः सर्पेभ्यो नमः ॥ (*yeṣāmapsusadaḥ kṛtaṃ tebhyaḥ sarpebhyo namaḥ ‖*)
+या इषवो यातुधानानां ये वा वनस्पती ग्ं रनु । (*yā iṣavo yātudhānānāṃ ye vā vanaspatī gṃ ranu |*)
+ये वावटेषु शेरते तेभ्यः सर्पेभ्यो नमः ॥ (*ye vāvaṭeṣu śerate tebhyaḥ sarpebhyo namaḥ ‖*)
+(कृ. सं. ४-२-८-३) (*(kṛ. saṃ. 4-2-8-3)*)
+
+(The reference is printed कृ. सं. (*kṛ. saṃ.*), as supplied.) In these mantras the names of many kinds of snakes are given: the serpents that are in the shining heaven; the serpents that wish to be in the rays of the sun (बिसलिनल्लि (*bisalinalli*), in the sunshine); the serpents that are in water (Annaconda (*Annaconda*), as printed); the serpents that are used like the arrows of the rākṣasas; the serpents that live on trees (हसरु हावु (*hasaru hāvu*), as printed); and the serpents that live in ruined wells.
+
+### Printed p. 348
+
+*Running head (as supplied): [348 सायणभाष्यसहिता [मं. १. आ. २४. सू. १९१] (*[348 sāyaṇabhāṣyasahitā [maṃ. 1. ā. 24. sū. 191]*).*
+
+*[As supplied, the label line of the grammar page reads व्याकरणक्रिया (*vyākaraṇakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 6, noted briefly)
+
+The page explains: शिष्ठत (*śiṣṭhata*) (as printed; the root स्थागतिनिवृत्तौ (*sthāgatinivṛttau*); *loṭ*, second person plural, for which *ta* is substituted; the root takes the substitute printed शिष्ठ (*śiṣṭha*) by the rule पाघ्राध्या- (*pāghrādhyā-*); because it stands at the beginning of a pāda there is no *nighāta*; the acute on the first syllable by the root accent); इळयत (*iḷayata*) (root इल प्रेरणे (*ila preraṇe*), of the *curādi* class; the suffix *ṇic* by the rule printed सत्यापपाक (*satyāpapāka*); in the Veda *guṇa* of the light penultimate does not occur; *loṭ*, second person plural; lengthening in the Saṃhitā by the rule अन्येषामपि- दृश्यते (*anyeṣāmapi- dṛśyate*) (पा. सू ६-१-१३७ (*pā. sū 6-1-137*)); no *nighāta* because it follows a verb form, printed तिजंत (*tijaṃta*); by the accent of *ṇic* the *ā* after the *l* takes the acute).
+
+*[As supplied, the label line of the Saṃhitā reads संसार (*saṃsāra*) and that of the Pada कडपाठ (*kaḍapāṭha*); standard labels inserted, and the lines of the Saṃhitā and Pada are given as blocks.]*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> ये अंस्या॒ ये अंग्याः॑ सू॒चीका॒ ये प्र॑ कंक॒ताः ।
+> अदृ॑ष्टाः॒ किं च॒नेह वः॒ सर्वे॑ सा॒कं नि ज॑स्यत ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> ये । अंस्याः । ये । अंग्याः । सूचीकाः । ये । प्रकंकताः ।
+> अदृष्टाः । किं । चन । इह । वः । सर्वे । साकं । नि । जस्यत ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> येऽंस्या अंसार्हा अंसगा अंसे भवा अंसाभ्यां खादंतो वा । तथा
+> येऽग्या अंगगा अंगेन शरीरेण हंतारो वा लूतिकादयः । सूचीकाः सूची-
+> सदृशपुच्छरोमाणो वृश्चिकाद्याः । ये च प्रकंकताः प्रकृष्टविषाः प्रकृष्टगामिनो
+> वा महोरगा अदृष्टा अदृश्यमानाः किं चन यत्किंचित्सर्पजातमस्ति । इहास्मिन्
+> समीपे वो युष्माकं किमस्ति । अतो यूयं सर्वे साकं सह नितरां जस्यत ।
+> मुंचतास्मान् ॥ जसु मोक्षणे दैवादिकः ॥
+
+*Gist:* Serpents that move on the shoulder or body, needle-tailed scorpions and others of virulent poison, unseen: depart all together from us.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ये—याव विषधरगळु (*ye—yāva viṣadharagaḷu*) (the poison-bearers that). अंस्याः—भुजदिंद सरियुवुवो (*aṃsyāḥ—bhujadiṃda sariyuvuvo*) (glide by the shoulder). ये—यावुवु (*ye—yāvuvu*) (which). अंग्याः—(पूर्णवाद) शरीरदिंद सरियुवुवो (*aṃgyāḥ—(pūrṇavāda) śarīradiṃda sariyuvuvo*) (glide with the whole body). सूचीकाः—सूजियंतॆ पुच्छवू रोमवू उळ्ळ वृश्चिकादिगळू (*sūcīkāḥ—sūjiyaṃtè pucchavū romavū uḷḷa vṛścikādigaḷū*) (scorpions and the like with tail and hair like a needle). ये—यावुवु (*ye—yāvuvu*) (which). प्रकंकताः—उल्बणवाद विषवुळ्ळवो (*prakaṃkatāḥ—ulbaṇavāda viṣavuḷḷavo*) (have virulent poison). अदृष्टाः— (*adṛṣṭāḥ—*) (unseen; the entry is divided across the page boundary)
+
+### Printed p. 349
+
+*Running head (as supplied): [अ. २. अ ५. व. १५] ऋग्वेदसंहिता 349 (*[a. 2. a 5. va. 15] ṛgvedasaṃhitā 349*).*
+
+गोचरवागद (*gocaravāgada*) (not visible). किंचन—सूक्ष्मवाद विषजंतुगळू आद ऎलै सर्पादिगळे (*kiṃcana—sūkṣmavāda viṣajaṃtugaḷū āda èlai sarpādigaḷe*) (O serpents and the like, and subtle poisonous creatures). इह—इल्लि (*iha—illi*) (here). वः— निम्म गुंपिगॆ सेरिद याव क्रूरजंतुगळिवॆयो (*vaḥ— nimma guṃpigè serida yāva krūrajaṃtugaḷivèyo*) (whatever cruel creatures belong to your group). सर्वे साकं—अवॆल्लवू जॊतॆयल्लि सेरि कॊंडु (*sarve sākaṃ—avèllavū jòtèyalli seri kòṃḍu*) (all of them joining together). जस्यत—नम्मन्नु बिट्टु होगिरि (*jasyata—nammannu biṭṭu hogiri*) (leave us and go).
+
+*[As supplied, the label line of the Bhāvārtha reads धावार्थ (*dhāvārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+The poison-bearers that glide by the shoulder and by the body, the scorpions and the like with tail and hair like a needle, and many other subtle poisonous creatures of virulent poison that are not visible to the eye: of these, may all that come near us and are harmful to us go far away, leaving us.
+
+**Printed English translation**
+
+Those (who move with their) shoulders, those (who move with their) bodies, those who sting with sharp fangs, those who are virulently venomous ; what do you here, you unseen, depart together far from us.
+
+*[As supplied, the label line of the Special Topics reads विशेषयुक्त: (*viśeṣayukta:*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 7)**
+
+अंस्याः—अंसार्हा, अंसगा, अंसे भवा, अंसाभ्यां खादंतो वा (*aṃsyāḥ—aṃsārhā, aṃsagā, aṃse bhavā, aṃsābhyāṃ khādaṃto vā*): that is, serpents chiefly having shoulders, snakes that make their movements and the like mainly with the shoulders; for this very reason serpents have the names भुजंग (*bhujaṃga*) and भुजग (*bhujaga*); those born from the shoulder, those that bite with the shoulder; thus the nature of four kinds of snakes is explained. Here "those that bite with the shoulder" means that the poison spreads by mere touch; they are to be understood as snakes of that kind. That snakes move by the shoulders is a poetic fancy (*utprekṣā*). That snakes have no legs is known to everyone. Yet, since the structure of their backbone is formed so as to suit moving, they can move very fast. Therefore it is customary to say that snakes move by the shoulder.
+
+अंग्याः—अंगगाः अंगेन शरीरेण हंतारो वा (*aṃgyāḥ—aṃgagāḥ aṃgena śarīreṇa haṃtāro vā*): two kinds of meaning are given: moving by the limb, or killing by the limb. Moving by the limb means moving in a crooked way, as said before; killing by the limb means that, like the snakes belonging to the kind called कॊळकुमंडल (*kòḷakumaṃḍala*) (as printed), they make the poison spread and kill by mere touch; the purport is snakes of that kind.
+
+सूचिका:—सूचीसदृशपुच्छरोमाणो वृश्चिकाद्याः (*sūcikā:—sūcīsadṛśapuccharomāṇo vṛścikādyāḥ*) (printed सूचिका: (*sūcikā:*) against the Saṃhitā सूचीकाः (*sūcīkāḥ*)): the meaning is poisonous creatures such as scorpions that have at the tail hooks sharp like the point of a needle (the supplied text ends here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 346 (PDF 346). Sukta 191 Rik 5 complete (Special Topics, grammar); Rik 6 through the Pratipadartha and the start of the Bhavartha; four readings marked with a query
+**Progress note:** Done through printed p. 349 (PDF 349). Sukta 191 Rik 6 complete (Special Topics, grammar); Rik 7 complete through the printed English and the first entries of the Special Topics
