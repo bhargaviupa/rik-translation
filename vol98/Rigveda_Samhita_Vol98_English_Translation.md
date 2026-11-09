@@ -6211,6 +6211,93 @@ or, because it destroys (दोषं भयंतीति वा (*doṣaṃ b
 
 पितो-सोमरूपवाद अन्नवे (*pito-somarūpavāda annave*) (O food in the form of Soma). तं त्वा-हिंदॆ वर्णितवाद गुणगळुळ्ळ निन्नन्नू (*taṃ tvā-hiṃdè varṇitavāda guṇagaḷuḷḷa ninnannū*) (you, who have the qualities described before). देवेभ्यः-देवतॆगळिगॆ (*devebhyaḥ-devatègaḷigè*) (for the gods). सधमादं-तृप्तिदायकनाद (*sadhamādaṃ-tṛptidāyakanāda*) (a giver of satisfaction). त्वा-निन्नन्नू (*tvā-ninnannū*) (you). अस्मभ्यं-नम (*asmabhyaṃ-nama*) (for us; the line breaks off at the end of the window).
 
+### Printed p. 215
+
+*Running head: [Aṣṭaka 2. Adhyāya 5 Varga 7] Ṛgveda-saṃhitā 215 (as supplied).*
+
+**Pratipadārtha** (Ṛk 11, continued from p. 214, where the line broke off at "ಅಸ್ಮಭ್ಯಂ-ನಮ")
+
+The line continues: गागियू (*gāgiyū*) (for us). सधमादं-तृप्तियन्नुंटुमाडतक्क (*sadhamādaṃ-tṛptiyannuṃṭumāḍatakka*) (giving satisfaction). त्वा-निन्नन्नू (*tvā-ninnannū*) (you). वयं-नावु (*vayaṃ-nāvu*) (we). वचोभि:- स्तुतिरूपवाद वाक्कुगळिंद (*vacobhi:- stutirūpavāda vākkugaḷiṃda*) (with words of praise). गावो न हव्या-धेनुगळु हविस्सिगागि बेकाद क्षीरादिगळन्नु करॆयुवंतॆ (*gāvo na havyā-dhenugaḷu havissigāgi bekāda kṣīrādigaḷannu karèyuvaṃtè*) (as cows yield the milk and the like needed for oblations). सुषूदिम--निन्न रसवन्नु करॆयुत्तेवॆ (*suṣūdima--ninna rasavannu karèyuttevè*) (we milk out your juice).
+
+**भावार्थ (Bhāvārtha)**
+
+O food in the form of Soma, you who have the qualities described before and are a giver of satisfaction to the gods and to us: as cows yield the milk and the like needed for oblations, so with our words of praise we milk out your juice, also for giving satisfaction to ourselves.
+
+**Printed English translation**
+
+We extract from you, Pitu, by our praises, (the sacrificial food), as cows yield butter for oblation ; from you, who are exhilarating to the gods; exhilarating also to us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk food in the form of Soma is praised. Here an illustration is given in गावो न हव्या (*gāvo na havyā*). As cows yield the milk needed for oblations, so we obtain from you (from the food) the six flavours, sweet and the rest, by words in the form of praise; and the chief meaning is that by food of this kind, that is, in the form of Soma, satisfaction (joy) arises for the gods and for us too.
+
+*[As supplied, the label line reads स्वातंत्र्य प्रक्रिया (*svātaṃtrya prakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 11, noted briefly)
+
+वचोभिः (*vacobhiḥ*) (root वच परिभाषणे (*vaca paribhāṣaṇe*)): the suffix *asun* applying to all roots; being marked *n*, the first syllable is acute. हव्या (*havyā*): by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (पा. सू. ६-१-७ (*pā. sū. 6-1-7*)) the *śi* ending is dropped in the neuter plural. सुषूदिम (*suṣūdima*) (root पूद क्षरणे (*pūda kṣaraṇe*)): by धात्वादेः षः सः (*dhātvādeḥ ṣaḥ saḥ*) the initial becomes *s*; by छंद— सिलुज् लज् लिटः (*chaṃda— siluj laj liṭaḥ*) (पा सू ३-४-६ (*pā sū 3-4-6*)) *liṭ* in the sense of the present; the substitute for the first person plural; by अर्धधातुकस्येड्वलादेः (*ardhadhātukasyeḍvalādeḥ*) the augment *iṭ*; reduplication of the root; because of the connection with a finite verb the *nighāta* accent. सधमादम् (*sadhamādam*): सह मादयति इति सधमादः (*saha mādayati iti sadhamādaḥ*), root मद तृप्तियोगे (*mada tṛptiyoge*), *curādi*; by नंदि ग्रहपचादिभ्यः (*naṃdi grahapacādibhyaḥ*) the suffix *ac*; by सधमादस्थयोश्चंदसि (*sadhamādasthayoścaṃdasi*)
+
+### Printed p. 216
+
+*Running head: [216 Sāyaṇa-bhāṣya-sahitā [Maṃ. . A. 24. Sū. 188] (as supplied; the print has a blank where the maṇḍala numeral belongs).*
+
+(पा. सू. ६-३-६६ (*pā. sū. 6-3-66*)) the substitute *sadha* for *saha* when *māda* follows; if the final-acute accent of the second member by the *thāthādi* rule were to arise, then as an exception by परादिच्छंदसि बहुलम् (*parādicchaṃdasi bahulam*) (पा. सू. ६-२-१९९ (*pā. sū. 6-2-199*)) the first syllable of the second member is acute.
+
+*(Ṛk 11 is the last ṛk of Sūkta 187. No colophon line is printed in the supplied text; the next lines begin the introduction to Sūkta 188.)*
+
+#### Sūkta 188
+
+नूर ऎंभत्तॆंटनॆय सूक्तवु (*nūra èṃbhattèṃṭanèya sūktavu*) — "the hundred and eighty-eighth sūkta".
+
+*[Stray line in the supplied text: पि ९ ८ कॆ. (*pi 9 8 kè.*); not part of the text.]*
+
+**Introduction (the Āprī sūktas)**
+
+We have given an explanation of the Āprī sūktas in the Ṛgveda-saṃhitā part 2, pages भाग २ पेजुगळु 73-74 मत्तु 528रल्लि (*bhāga 2 pejugaḷu 73-74 mattu 528ralli*). In the Ṛgveda there are ten Āprī sūktas in all. In these there are mantras addressed to the deities इध्मः (समिद्धोग्निर्वा) (*idhmaḥ (samiddhognirvā)*), नराशंसः (*narāśaṃsaḥ*), तनूनपात् (*tanūnapāt*), इळः (*iḷaḥ*), बर्हिः (*barhiḥ*), देवीर्द्वारः (*devīrdvāraḥ*), उषासानक्ता (*uṣāsānaktā*), दैवौ होतारौ प्रचेतसौ (*daivau hotārau pracetasau*), तिस्रो दॆव्यः सरस्वतीळाभारत्यः (*tisro dèvyaḥ sarasvatīḷābhāratyaḥ*), त्वष्टा (*tvaṣṭā*), वनस्पतिः (*vanaspatiḥ*) and स्वाहाकृतयः (*svāhākṛtayaḥ*). But as regards the deities Narāśaṃsa and Tanūnapāt, in some sūktas only the single deity Narāśaṃsa is praised, in others only the single deity Tanūnapāt, and in still others both deities, Narāśaṃsa and Tanūnapāt. Accordingly these Āprī sūktas have been divided into three kinds, namely: the Āprī sūktas composed by the sages Vasiṣṭha, Atri, Vādhryaśva and Gṛtsamada, that is,
+
+*[List marker in the supplied text: "1."]*
+
+१) जुषस्व नः समिधमग्ने—ऋ. सं. ७-२ (मैत्रावरुणिर्वसिष्ठः) (*1) juṣasva naḥ samidhamagne—ṛ. saṃ. 7-2 (maitrāvaruṇirvasiṣṭhaḥ)*)
+२) सुसमिद्धाय शोचिषे—ऋ. सं. ५-५ (वसुश्रुत आत्रेयः) (*2) susamiddhāya śociṣe—ṛ. saṃ. 5-5 (vasuśruta ātreyaḥ)*)
+३) इमां मे आग्ने समिधं—ऋ. सं. १०-७० (सुमित्रो वाध्र्यश्वः) (*3) imāṃ me āgne samidhaṃ—ṛ. saṃ. 10-70 (sumitro vādhryaśvaḥ)*)
+४) समिद्धो अग्निर्निहितः - ऋ. सं. २-३ (गृत्समदः) (*4) samiddho agnirnihitaḥ - ṛ. saṃ. 2-3 (gṛtsamadaḥ)*)
+
+These four sūktas belong to one group. In them there are single ṛks addressed to the deity Narāśaṃsa. Therefore these four sūktas are called नराशंसवंति सूक्तानि (*narāśaṃsavaṃti sūktāni*), Āprī sūktas praising the deity Narāśaṃsa alone.
+
+१) सुसमिद्घोन आ वह—ऋ. सं १-१३ (मेधातिथिः काण्वः) (*1) susamidghona ā vaha—ṛ. saṃ 1-13 (medhātithiḥ kāṇvaḥ)*)
+२) समिद्दो अग्न आ वह—ऋ सं. १-१४२ (दीर्घतमा औचथ्यः) ऎंब ई ऎरडु (*2) samiddo agna ā vaha—ṛ saṃ. 1-142 (dīrghatamā aucathyaḥ) èṃba ī èraḍu*)
+
+These two Āprī sūktas belong to the second group. In them there are single ṛks on behalf of both deities, Narāśaṃsa and Tanūnapāt. Therefore these Āprī sūktas are famed as sūktas with both kinds of deity, Narāśaṃsa and Tanūnapāt. Since both deities are in these sūktas
+
+### Printed p. 217
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 8] Ṛgveda-saṃhitā 217 (as supplied).*
+
+(in the sūkta १-१४२ (*1-142*), leaving out Indra) there come to be twelve oblations instead of the eleven *prayāja* oblations.
+
+*[List marker in the supplied text: "1."]*
+
+१) समिद्धो अद्य राजसि—ऋ. सं. १-१८८ (अगस्तो मैत्रावरुणिः) (*1) samiddho adya rājasi—ṛ. saṃ. 1-188 (agasto maitrāvaruṇiḥ)*)
+२) समित्समित्सुमना—ऋ. सं. ३-४ (गाधिनो विश्वामित्रः) (*2) samitsamitsumanā—ṛ. saṃ. 3-4 (gādhino viśvāmitraḥ)*)
+३) समिद्धो विश्वतस्पतिः—ऋ. सं. ९-५ (काश्यपोऽसितो देवलो वा) (*3) samiddho viśvataspatiḥ—ṛ. saṃ. 9-5 (kāśyapo 'sito devalo vā)*)
+४) समिद्धो अद्य मनुषो—ऋ. सं. १०-११० (जुमदग्निर्भार्गवः) (*4) samiddho adya manuṣo—ṛ. saṃ. 10-110 (jumadagnirbhārgavaḥ)*)
+
+These sūktas belong to the third group. In them there are only ṛks addressed to the deity Tanūnapāt (there are no ṛks addressed to Narāśaṃsa). Therefore they are called तनून पात्वंति सूक्तानि (*tanūna pātvaṃti sūktāni*), that is, Āprī sūktas containing mantras addressed to the deity Tanūnapāt.
+
+These Āprī sūktas are recited for the eleven *prayāja* oblations when the animal oblation is made. There is a Taittirīya-saṃhitā sentence: एकादशावदानान्यवद्यति दश वै पशोः प्राणा आत्मैकादशः (*ekādaśāvadānānyavadyati daśa vai paśoḥ prāṇā ātmaikādaśaḥ*) (तै. सं. ६-३-१०-३ (*tai. saṃ. 6-3-10-3*)): "he cuts eleven portions; the animal has ten vital breaths, the self is the eleventh". When the animal oblation is made reciting these Āprī sūktas there is a special rule: the sacrificers born in a given gotra must recite, when performing the sacrifice, the Āprī sūktas composed by the sage of that gotra (आ. ३-२ (*ā. 3-2*)). The present Āprī sūkta must be recited by those born in the gotra of the sage Agastya.
+
+For knowing the nature of the Āprī sūktas and the places they hold in the performance of rites, the authorities we have are of two kinds: first, scriptural sentences such as the Brāhmaṇas; second, the explanatory sentences of the Nirukta and the like. Of these two kinds, the explanatory sentences of the Nirukta and the like are the more reasoned and are accompanied by scientific explanations. If we look at the derivations of the word *āprī* given in the Aitareya and other Brāhmaṇas, we may say that all of them understand and explain this word from the point of view of the performance of sacrifices and similar rites. For example:
+
+तद्यदा प्रीणाति तस्मादाप्रियो नाम । (*tadyadā prīṇāti tasmādāpriyo nāma |*)
+(क. ब्रा. १०-३) (*(ka. brā. 10-3)*)
+
+in the Kauṣītaki-brāhmaṇa this name is said to be because it is a means of satisfying; and
+
+अप्रीभिराप्नुवन् । तदाप्रीणामाप्रित्वं । (*aprībhirāpnuvan | tadāprīṇāmāpritvaṃ |*)
+(कृ. ब्रा. २-२-८-६) (*(kṛ. brā. 2-2-8-6)*)
+
+(the supplied text breaks off at the end of this window with "ಎಂದು ಮೇಲಿನ ಅಭಿಪ್ರಾಯವನ್ನೇ ಹೇಳಿ ಶೈತ್ತಿರೀಯಬ್ರಾಹ್ಮಣದಲ್ಲೂ,", "saying the same thing, in the Taittirīya-brāhmaṇa too,").
+
 ---
 
-**Progress note:** Done through printed p. 214 (PDF 214). Done through printed p. 214 (Sukta 187 Rik 10 complete; Rik 11 Samhita, Pada, bhashya done; Rik 11 Pratipadartha begun, text breaks off at asmabhyam; [?] on sivo/siva, sadharmadam)
+**Progress note:** Done through printed p. 217 (PDF 217). Done through printed p. 217 (Sukta 187 complete; Sukta 188 introduction on the Apri suktas begun, breaks off at the Taittiriya-brahmana quotation on p. 217)
