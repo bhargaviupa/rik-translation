@@ -1,7 +1,7 @@
 {
  "vol": 16,
  "mandala": 3,
- "branch": "claude/charming-edison-k82a0y",
+ "branch": "claude/vol16-translate",
  "source": [
   "vol16/html/rig_16_1.md@2-423",
   "vol16/html/rig_16_2.md@424-884"
