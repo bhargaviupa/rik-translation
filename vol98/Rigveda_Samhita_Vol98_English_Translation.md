@@ -12266,6 +12266,103 @@ The people adore you, Agni, the protector of the people in their dwellings ; the
 
 O Agni, the sacrificers serve you, the protector, by sacrifices and other rites as one serves a father, and you, the giver of lustre to the body, as a brother; and for the one who serves you (the supplied text ends here, in the middle of the sentence, at the end of the window).
 
+### Printed p. 413
+
+*Running head (as supplied): [अ. २. अ ५. व. १८] ऋग्वेदसंहिता 413 (*[a. 2. a 5. va. 18] ṛgvedasaṃhitā 413*).*
+
+*(Continuation of the Bhāvārtha of Ṛk 9 of Sūkta 1 of Maṇḍala 2, from mid-sentence at the end of the previous page.)*
+
+...for the sacrificer who serves you, you are a helper in the form of a son; and you protect, remaining attached and giving comfort, like a friend.
+
+**Printed English translation**
+
+(Devout) men (worship) you, Agni, as a father, with secred rites; they (cherish) you, who are the illuminator of the body, with acts (of kindness), as a brother ; you are as a son to him who propitiates you, and you protect us, a faithful and firm friend.
+
+*(The printed English reads "secred" for "sacred" [sic] and ends a line with a printed hyphen in "protect-"; it is reproduced as supplied, the line-end hyphen being joined.)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 9)**
+
+In this ṛk Agni is praised with words that indicate love and trust: father, brother, son, friend.
+
+पितरं—पालकं (*pitaraṃ—pālakaṃ*): one who protects people like a father. The use of the word "father" here indicates Agni's love and trust towards the people who worship him.
+
+तनूरुचं—शरीराणां दीपकं, शरीरेषु दीप्त्यमानं वैश्वानरात्मना (*tanūrucaṃ—śarīrāṇāṃ dīpakaṃ, śarīreṣu dīptyamānaṃ vaiśvānarātmanā*) (as printed): one who shines in the bodies of creatures in the form of heat. The heat in the bodies of creatures is the very form of Agni. The digesting of food and the like in the stomach is also the work of Agni. Agni, being in such a form, has the name Vaiśvānara fire.
+
+त्वं पुत्रो भवसि यस्तेऽविधत् (*tvaṃ putro bhavasi yaste 'vidhat*): the purport is that to the man who serves you with sacrifices and the like you are dear and a protector like a son.
+
+त्वं सखा सुशेवः पासि अधृषः (*tvaṃ sakhā suśevaḥ pāsi adhṛṣaḥ*): you protect us like a friend who gives comfort, that is, who desires our good. That is, the main purport is that you, Agni, protect us in many ways, like a father, like a brother, like a son and like a friend.
+
+*[No grammar page of Ṛk 9 is present in the supplied text; the label of the Saṃhitā of Ṛk 10 follows the Special Topics directly.]*
+
+#### Ṛk 10
+
+*[A word that stood alone on the second line of the first Saṃhitā line is joined to its line. Two readings of the Saṃhitā are marked with a query, as they differ from the Pada.]*
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्न ऋ॒भुरा॒के न॑म॒स्य१॒॑गस्त्वं [?] वाज॑स्य क्षु॒मतो॑ रा॒य ई॑शिषे ।
+> त्वं वि भा॒स्यनु॑ दक्षि [?] दा॒वने॒ त्वं वि॒शिक्षु॑रसि य॒ज्ञमा॒तनिः॑ ॥ १० ॥
+
+> *tvamagna ṛbhurāke namasyagastvaṃ [?] vājasya kṣumato rāya īśiṣe |*
+> *tvaṃ vi bhāsyanu dakṣi [?] dāvane tvaṃ viśikṣurasi yajñamātaniḥ ‖ 10 ‖*
+
+### Printed p. 414
+
+*Running head (as supplied): [414 सायणभाष्यसहिता [ मं. २. अ. १. सू १] (*[414 sāyaṇabhāṣyasahitā [ maṃ. 2. a. 1. sū 1]*).*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । ऋभुः । आके । नमस्यः । त्वं । वाजस्य । क्षुमतः । रायः । ईशिषे ।
+> त्वं । वि । भासि । अनु । धक्षि । दावने । त्वं । विशिक्षुः । असि । यज्ञं । आतनिः ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वमृभुः । उरुभासमानो मेधावी वा । त्वमाकेऽंतिके सन्निधा-
+> वेव नमस्को नमस्कार्यः । स्तुत्य इत्यर्थः । इतरदेवतावन्मंत्रप्रतिपाद्याकारेण
+> स्तुत्यो न भवसि किंतु प्रत्यक्ष इत्यर्थः । तथा त्वं क्षुमतः शब्दवतः सर्वत्र श्रूय-
+> माणस्य वाजस्यान्नस्य रायो धनस्य चेशिषे । स्वामी भवसि । आतस्तद्देहीत्यर्थः । हे
+> अग्ने त्वं विभासि । विशेषेण दीप्यसे । तदर्थमनुक्रमेणैव दक्षि ! दहसि काष्ठादीन् ॥
+> दहेर्लटि सिपि रूपं । संहितायां भष्भावाभावश्चांदसः ॥ किमर्थमेवं । दावने
+> छेदनायांधकारस्य । यद्वा हविषो दानवते यजमानाय वा ! किंच त्वं यज्ञं
+> विशिक्षुर्विशेषेण शिक्षयिता साधयितासि ॥ न लोकाव्ययेति षष्ठ्या निषेधः ॥ तथातनिः
+> फलस्य सर्वतो विस्तारयिता ii
+
+*(The bhāṣya block ends with the printed characters ii (*ii*), as supplied, in place of a danda.)*
+
+*Gist:* Agni is resplendent, honoured when near, lord of renowned food and wealth; he burns for the sacrificer and accomplishes the sacrifice and its fruit.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). ऋभुः—अतिशयवागि प्रकाशिसुववनागिद्दीयॆ (अथवा मेधावियागिद्दीयॆ) (*ṛbhuḥ—atiśayavāgi prakāśisuvavanāgiddīyè (athavā medhāviyāgiddīyè)*) (you are exceedingly resplendent (or you are wise)). आके—नीनु समीपदल्लि प्रत्यक्षनागिरुवागले (*āke—nīnu samīpadalli pratyakṣanāgiruvāgale*) (just when you are present near). नमस्यः— पूजिसल्पडतक्कवनु (*namasyaḥ— pūjisalpaḍatakkavanu*) (one to be worshipped). त्वं—नीनु (*tvaṃ—nīnu*) (you). क्षुमतः—सर्वत्र प्रसिद्धवाद (*kṣumataḥ—sarvatra prasiddhavāda*) (of the renowned). वाजस्य—अन्नक्कू (*vājasya—annakkū*) (to food). रायः—धनक्कू (*rāyaḥ—dhanakkū*) (to wealth). ईशिषे—प्रभुवागिद्दीयॆ ॥ (ऎलै प्रभुवे) त्वं—नीनु (*īśiṣe—prabhuvāgiddīyè ‖ (èlai prabhuve) tvaṃ—nīnu*) (you are lord (the entry also contains the printed ॥ and the address "O lord", and the next word "you")). वि भासि—अतिशय वागि प्रज्वलिसुत्तीयॆ (*vi bhāsi—atiśaya vāgi prajvalisuttīyè*) (you shine exceedingly). दावने—अंधकारवन्नु होलाडिसुवुदक्कागि अथवा हविस्सन्नु अर्पिसुव यजमाननिगागि (*dāvane—aṃdhakāravannu holāḍisuvudakkāgi athavā havissannu arpisuva yajamānanigāgi*) (for dispelling darkness, or for the sacrificer who offers oblations). त्वं—नीनु (*tvaṃ—nīnu*) (you). अनु धक्षि—काष्ठादिगळन्नु दहिसुत्तीयॆ (*anu dhakṣi—kāṣṭhādigaḷannu dahisuttīyè*) (you burn the firewood and the like). यज्ञं—यज्ञवन्नु (*yajñaṃ—yajñavannu*) (the sacrifice). विशिक्षुः—विशेषवाद रीतियल्लि साधिसुववनागि (*viśikṣuḥ—viśeṣavāda rītiyalli sādhisuvavanāgi*) (as the accomplisher in a special way). असि—आगिद्दीयॆ (हागॆये) (*asi—āgiddīyè (hāgèye)*) (you are (likewise)). आतनिः—आ यज्ञक्कॆ फलदातृवागियू आगिद्दीयॆ. (*ātaniḥ—ā yajñakkè phaladātṛvāgiyū āgiddīyè.*) (you are also the giver of fruit to that sacrifice).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you shine exceedingly. You are to be worshipped just when you are present near. You are lord of the renowned food and wealth. You who shine exceedingly burn the firewood and the like for the sacrificer who offers oblations. You are the accomplisher of the sacrifice in a special way, and also the giver of fruit to that sacrifice.
+
+### Printed p. 415
+
+*Running head (as supplied): [५ २. ५ ५. व. १८. ] ऋग्वेदसंहिता 415 (*[5 2. 5 5. va. 18. ] ṛgvedasaṃhitā 415*), as printed.*
+
+*[As supplied, the label line of the printed English reads Englih Tranlation (*Englih Tranlation*) (sic), run on without a blank line; standard label inserted.]*
+
+**Printed English translation**
+
+You, Agni, are (ever) resplendent, and are to be glorified when present ; you are lord over all renowned food and riches ; you shine brightly, and you consume (the oblation) for him who offers it ; you are the especial accomplisher of the sacrifice, and bestower (of its rewards).
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 10)**
+
+ऋभुः—उरुभासमानो मेधावी वा (*ṛbhuḥ—urubhāsamāno medhāvī vā*): very brilliant, or wise (intelligent): this is Sāyaṇa's explanation. It may also be said to be the form of the deity called Ṛbhu, but the meaning given by Sāyaṇa is the fitting one here.
+
+आके नमस्यः (*āke namasyaḥ*): the word आके (*āke*) is read among the names of "near" (नि ३-९ (*ni 3-9*)) and among the names of "far" (नि. ३-२० (*ni. 3-20*)). Here Sāyaṇa says अंतिके सन्निधावेव नमस्को नमस्कार्यः स्तुत्य इत्यर्थः । इतरदेवतावन्मंत्रप्रतिपाद्याकारेण स्तुत्यो न भवसि किंतु प्रत्यक्ष इत्यर्थः (*aṃtike sannidhāveva namasko namaskāryaḥ stutya ityarthaḥ | itaradevatāvanmaṃtrapratipādyākāreṇa stutyo na bhavasi kiṃtu pratyakṣa ityarthaḥ*). The other deities are not visible to our eyes; they are far away. Therefore, as in the śruti sentence परोक्षं वा अन्ये ते वा इज्यंते (*parokṣaṃ vā anye te vā ijyaṃte*) (तै. सं. १-७-३-१ (*tai. saṃ. 1-7-3-1*)), they have to be worshipped indirectly (*parokṣa*) with hymns and the like. But the matter of Agni is not so; since Agni is directly visible close to us, besides praising him with hymns and the like I make a salutation to him as he stands facing me. Therefore the use of the words "near" and "to be saluted" here is proper in the matter of Agni.
+
+त्वं वाजस्य क्षुमतः राय ईशिषे (*tvaṃ vājasya kṣumataḥ rāya īśiṣe*): क्षुमतः (*kṣumataḥ*) means making a sound, that is, that which everybody is asking for as needed. O Agni, you are the lord of the food that everyone asks for and of wealth and other materials: this is the purport.
+
+त्वं वि भास्यनु धक्षि दावने (*tvaṃ vi bhāsyanu dhakṣi dāvane*): for the sacrificer who offers oblations you shine, and burning the firewood and the like and the oblations of ghee and the like that are offered in Agni, you blaze well for the sacrificer's attainment of joy: this is the purport.
+
+त्वं विशिक्षुः असि यज्ञं (*tvaṃ viśikṣuḥ asi yajñaṃ*): one who teaches the sacrificer and the priests, so that they understand well, the programmes that have to be carried out in the sacrifice. Since you know well the duties of the Hotṛ, the Adhvaryu and the others, you teach them the sacrificial procedure: this is the purport.
+
+आतनिगॆ—फलस्य सर्वतो विस्तारयिता (*ātanigè—phalasya sarvato vistārayitā*) (the print has आतनिगॆ (*ātanigè*) for *ātaniḥ*): one who gives in abundance the fruits that the sacrificial rites and the like should obtain; this is the purport (the supplied text ends here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 412 (PDF 412). Mandala 2 Sukta 1 Rik 8 complete; Rik 9 through the Pratipadartha and the start of the Bhavartha; five readings marked with a query
+**Progress note:** Done through printed p. 415 (PDF 415). Mandala 2 Sukta 1 Rik 9 complete; Rik 10 complete through the Special Topics; two readings marked with a query
