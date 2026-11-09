@@ -10596,6 +10596,62 @@ The page explains: अपप्तत् (*apaptat*) (a root of motion, of the *
 
 As one places the bag in which liquor is filled in the house of one who prepares liquor, I place the poison spread around us in the disc of the sun. That revered sun, however, certainly does not die; by his favour we too do not die. Even though far away, the sun mounted on horses came into contact with this poison and made its force not spread to us. O poison, the honey-lore has turned you into nectar.
 
+### Printed p. 357
+
+*Running head (as supplied): [अ. २. अ. ५. व. १५ ] ऋग्वेदसंहिता 357 (*[a. 2. a. 5. va. 15 ] ṛgvedasaṃhitā 357*).*
+
+*(Continuation of Ṛk 10 of Sūkta 191, after the Bhāvārtha which ended the previous window.)*
+
+*[As supplied, the label line of the printed English reads English Translatin (*English Translatin*) (sic), run on without a blank line; standard label inserted.]*
+
+**Printed English translation**
+
+I deposit the poison in the solar orb, like a leather bottle in the house of a vender of spirits : verily, that adorable (Sun) never dies, nor, (through his favour), shall we die (of the venom) ; for, through afar off, yet drawn by his coursers, he will overtake (the poison) ; the science of antidotes converted you, (Poison), to ambrosia,
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 10)**
+
+In the preceding ṛks the rising of the sun and the sun's ascent were spoken of; in this ṛk the way in which the sun removes poison is explained.
+
+The bhāṣyakāra says: आदित्य- मंडले चतुर्थेनांगुलिना विषमादाय मधुकृत्य योजयित्वा निर्विषो भवेदिति यदेतद्विषविद्यायामुक्तं तदिदमत्तोच्यते (*āditya- maṃḍale caturthenāṃgulinā viṣamādāya madhukṛtya yojayitvā nirviṣo bhavediti yadetadviṣavidyāyāmuktaṃ tadidamattocyate*). That is: with the fourth finger of the right hand, that is, the finger called अनामिका (*anāmikā*), the poison in the wound is taken out and placed in the solar orb (in a figure drawn to resemble the orb of the sun, in the sunshine); and if the procedures with the *madhuvidyā* are performed, the poison is removed; what is said in the work called विषविद्य (*viṣavidya*) is told here: thus the bhāṣyakāra has explained the main subject of this ṛk.
+
+सूरै विषं आ सजामि—विषावृतोऽगस्योऽहं सूरै सर्वस्य प्रेरयितरि मधुविद्यारूपे सूरमंडले विषमावृत्य वर्तमानं सूर आ सजामि (*sūrai viṣaṃ ā sajāmi—viṣāvṛto 'gasyo 'haṃ sūrai sarvasya prerayitari madhuvidyārūpe sūramaṃḍale viṣamāvṛtya vartamānaṃ sūra ā sajāmi*) (as supplied, with the conjunct of *ry* lost in *sūrya* in the words printed सूरै (*sūrai*), सूरमंडले (*sūramaṃḍale*), सूर (*sūra*)): I, Agastya, whose body is filled with poison, collect and place all the poison (in my body) in the solar orb which has the form of the *madhuvidyā* that impels the whole world; so the sage Agastya has said. Here "solar orb" may mean something like a solar orb in the sunshine in the procedures performed for the removal of poison (or, according to the *mantra-tantra* science, a solar-orb figure formed of seed syllables). Mainly it can be said: in a place with the rays of the sun, or in the sunshine.
+
+दृतिं सुरावतो गृहे (*dṛtiṃ surāvato gṛhe*): the sage has given an example for the matter of collecting the poison and placing it in the sunshine:
+
+सुरावतो गृहे सुरानिर्मातृसदने दृतिमिव चर्ममयं सुरापात्रमिन (*surāvato gṛhe surānirmātṛsadane dṛtimiva carmamayaṃ surāpātramina*) (as printed) । यथा तत्कर्तुर्न दोषाय भवति तद्वद्विषमादित्यस्य न बाधकमित्यर्थः (*yathā tatkarturna doṣāya bhavati tadvadviṣamādityasya na bādhakamityarthaḥ*): as a man who makes liquor stores the liquor in a leather bag in his house, I too take out all the poison and place it in one place in the sunshine (the sentence continues on the next page).
+
+### Printed p. 358
+
+*Running head (as supplied): [358 सायणभाष्यसहिता । मं. १. अ. २४. सू. १९०] (*[358 sāyaṇabhāṣyasahitā | maṃ. 1. a. 24. sū. 190]*), as printed, with the sūkta number ೧೯೦ although the page belongs to Sūkta 191.*
+
+so the sage gives the simile. And as, by thus collecting liquor and placing it in one place (without drinking it), no harm of any kind arises to that liquor-maker, so, it is described, no harm arises to the sun from the poison collection placed in the sunshine.
+
+चित्—चिदिति पूजायां । अत्यंतमविनश्वरा (*cit—ciditi pūjāyāṃ | atyaṃtamavinaśvarā*): Yāska says that the particle *cit* is used in many kinds of meaning: चिदि- त्येषोऽनेककर्मा (*cidi- tyeṣo 'nekakarmā*); and आचार्यश्चिदिदं ब्रूयादिति पूजायां । दधिचिदित्युपमार्थे! कुल्माषांश्चिद्वाहरेत्यवकुत्सिते (*ācāryaścididaṃ brūyāditi pūjāyāṃ | dadhicidityupamārthe! kulmāṣāṃścidvāharetyavakutsite*) (as printed). In the sentence *ācāryaś cit* the particle *cit* is used in the sense of worship; in *dadhi cit* in the sense of comparison; in *kulmāṣāṃś cit* in a censuring sense; having given examples in this way, he explained the meaning. Here Sāyaṇa has explained it as used in the sense of worship.
+
+सो चिन्नु न मराति नो वयं (*so cinnu na marāti no vayaṃ*): for this sentence Sāyaṇa says पूज्यः सः सूर‍्यः खलु न मराति । न म्रियते । नो वयं मराम । तदनुग्रहात्तत्रैव विषस्य योजितत्वा द्वयमपि न म्रियामहै (*pūjyaḥ saḥ sūryaḥ khalu na marāti | na mriyate | no vayaṃ marāma | tadanugrahāttatraiva viṣasya yojitatvā dvayamapi na mriyāmahai*). Since the poison is placed in the sunshine, there is no harm to the sun; therefore the sun does not die, and we do not die. The main purport is that since the sun has the power to take away poison, no evil befalls the sun from the poison we place in the sunshine; by the grace of that sun our poison is removed and no evil befalls us either, that is, we too do not die. The reason for this will be told in the next sentence.
+
+अस्य योजनं हरिष्ठा चकार (*asya yojanaṃ hariṣṭhā cakāra*): even though the sun is very far away, with the help of his rays he absorbs the poison and makes it powerless. And the poison goes and becomes nectar; this the sage says here, addressing the poison itself.
+
+मधु त्वा मधुला चकार (*madhu tvā madhulā cakāra*) — विषस्य विषभावं दूरेऽपनोद्यामृतीचकारेति । एष्यव मधुना मधुदात्रि निर्विषीकर्त्रि मधुविद्या । यदेतदादित्यस्य विषयोजनं तेन चामृतीकरणं यदस्ति एषा मधुविद्या (*viṣasya viṣabhāvaṃ dūre 'panodyāmṛtīcakāreti | eṣyava madhunā madhudātri nirviṣīkartri madhuvidyā | yadetadādityasya viṣayojanaṃ tena cāmṛtīkaraṇaṃ yadasti eṣā madhuvidyā*) (as printed, *ēṣyava madhunā* against the bhāṣya's reading). To place the poison in the solar orb, and the sun making that poison into nectar, is what is called *madhuvidyā*. Therefore the sage, addressing the poison, says: O poison, the sun not only makes your poison (your power to kill) powerless, but also converts the poison into nectar by the *madhuvidyā*.
+
+In this matter the scholar Wilson ऎंब पंडितनु (*Wilson èṃba paṃḍitanu*) ("Wilson") has said:
+
+> The notion that pervades this stanza and forms the burden of the three following, is derived, according to Sayana, from the Visha-Vidya, the science of poisonns or of antidotes,
+
+### Printed p. 359
+
+*Running head (as supplied): [अ. २. अ. ५. व. १५. । ऋग्वेदसंहिता 359] (*[a. 2. a. 5. va. 15. | ṛgvedasaṃhitā 359]*).*
+
+> whence it is also termed Madhu-vidya, science of ambrosia; one formula of which, as cited by him is—"having taken the poison in the solar arb with the fourth finger; having made it ambrosia and caused them to blend together, may it become poisonous" By the Surya Mandala or orb of the Sun is probably to be understood a mystical diagram or figure wholly or partly typical of the solar orb; the Sun being considered as especially instrumental in counteracting the operation of poison ; the science of antidotes is also named iu the text Madhula, as synonymous with Madhuvidya. It was origiually taught by Indra to Dadyanch who communicated it to the aswins, and thereby lost his head.
+
+*[The English quotation of the supplied text contains machine-reading slips, such as "poisonns", "arb", "iu" and "origiually"; it is reproduced as supplied, divided by the page boundary.]*
+
+ऎंदु हेळिरुवनु (*èṃdu heḷiruvanu*): so he has said. The science that destroys poison and turns it into nectar is called *madhuvidyā*. In this ṛk that word *madhuvidyā* is conveyed by the word *madhulā*. It is said that this *madhuvidyā* was taught formerly by Indra to Dadhīci with the condition that it should not be told to anyone, and that if it were told to anyone against this, the head of the one who told it would be cut off. Yet at the prayer of the Aśvin gods the sage Dadhīci taught that *madhuvidyā* to them, and as a result his head was cut off, and in place of that head the Aśvin gods fixed a horse's head and revived him; the details of this story we have described at length in ऋ. सं. भाग ५ पेजु 615 ; भाग 6 पेजु 615 ; भाग ९ पेजु 245 मत्तु 401 (*ṛ. saṃ. bhāga 5 peju 615 ; bhāga 6 peju 615 ; bhāga 9 peju 245 mattu 401*) and other places.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 10, noted briefly; the supplied text ends within it)
+
+The page explains: सजामि (*sajāmi*) (root षण्ण संगे (*ṣaṇṇa saṃge*); since the Veda has a change of vikaraṇa, *śa* in place of *śap* in the present; because it behaves as if marked *j*, elision of the penultimate nasal; lengthening of the stem by the rule अतोदीर्घो- यञ् (*atodīrgho- yañ*); the verbal *nighāta* accent); दृतिम् (*dṛtim*) (root द्वि विदारणे (*dvi vidāraṇe*), as printed; the suffix *ti* by the rule दृणातेर्ह्रस्वश्च (*dṛṇāterhrasvaśca*) (उ. सू. ६२३ (*u. sū. 623*)); the root is shortened; because it is marked *n* by the rule पदिप्रथिभ्यां नित् (*padiprathibhyāṃ nit*), an acute on the first syllable by the rule printed इत्यादि- निर्त्यम् (*ityādi- nirtyam*)); मराति (*marāti*) (root मृज् प्राणत्यागे (*mṛj prāṇatyāge*), as printed; by *vyatyaya* the parasmaipada suffix also arises; the augment *aṭ* for the *tip* of the *leṭ* by the rule लेटोऽडाट् (*leṭo 'ḍāṭ*); *guṇa* of the root's *ṛ*; the verbal *nighāta* accent because it follows a verb form); मराम (*marāma*) (the same root; *leṭ*, first person plural; the accent operations as before); हरिष्ठाः (*hariṣṭhāḥ*) (हरिसु तिष्ठतीति हरिष्ठाः (*harisu tiṣṭhatīti hariṣṭhāḥ*); the root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); the suffix *ka* by the rule सुपिस्थः (*supisthaḥ*) (पा सू. ३-२-४ (*pā sū. 3-2-4*)); elision of the root's *ā* by the rule आतोलोप इटिच (*ātolopa iṭica*)).
+
 ---
 
-**Progress note:** Done through printed p. 356 (PDF 356). Sukta 191 Rik 8 grammar complete; Rik 9 complete; Rik 10 complete through the Bhavartha; three readings marked with a query
+**Progress note:** Done through printed p. 359 (PDF 359). Sukta 191 Rik 10 complete through the Special Topics (madhuvidya, Wilson quotation); grammar page of Rik 10 begun
