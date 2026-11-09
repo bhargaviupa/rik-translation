@@ -1031,6 +1031,111 @@ Thus, as the wife of Soma, as the wife of the Gandharva and, as explained above,
 
 *[The Pada continues on the next page.]*
 
+### Printed p. 35
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1 (the print has a stray "j" after "೧")] Ṛgveda-saṃhitā 35. The window begins within the Pada of Ṛk 4, continuing p. 34.*
+
+*(The Pada of Ṛk 4 continues here; the supplied text prints इति (*iti*) सुदानू (*sudānū*) for the word divided as su-dānū.)*
+
+#### Ṛk 4 (continued)
+
+**Pada-pāṭha** (continued)
+
+> अनु । यत् । वां । श्रवस्या । सुदानू इति सुदानू । सुवीर्याय । चर्षणयः ।
+> मदंति ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे माध्वी मधुपूर्णपात्रयुक्तावश्विन् नां युवयोः संबंधिनी सा
+> प्रसिद्धा रातिर्दानमस्मे अस्माकमस्तु भवतु ! तदर्थं मान्यस्य मननीयस्य कारोः
+> स्तोतुरगस्य स्तोमं स्तुतिं हिनोतं । प्रीणयतं । हे सुदानू शोभनफलदानौ
+> नां युवां श्रवस्या कीर्तरन्नस्य वेच्छया यद्यस्मात्सुवीर्याय यजमानाय
+> शोभनबलाय वा चर्षणयो मनुष्या ऋत्विग्रूपा अनु मदंति । अनुक्रमेण
+> माद्यंति युवाभ्यां सह स्वयं ना ॥
+
+*Gist:* O Aśvins with the honey-vessel, may your gift be ours; delight in the praise of the worshipful poet; since men, the priests, delight in you in turn for fame and strength.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुदानू (*sudānū*) — O Aśvin deities, who give good fruits. यत् (*yat*) — for which reason. चर्षणयः (*carṣaṇayaḥ*) — men in the form of priests. सुवीराय्य (*suvīrāyya*) — (for the sacrificer, or) for excellent fruit. श्रवस्या (*śravasyā*) — with desire for food. वां (*vāṃ*) — you two. अनु मदंति (*anu madaṃti*) — they satisfy in order (therefore). मान्यस्य (*mānyasya*) — of the esteemed one; कारोः (*kāroḥ*) — and praiser, Agastya's. स्तोमं (*stomaṃ*) — praise. हिनोतं (*hinotaṃ*) — hear and be satisfied. माध्वी (*mādhvī*) — O Aśvin deities possessing a vessel full of honey. वां (*vāṃ*) — coming from you. सा (*sā*) — that famous (gift). रातिः (*rātiḥ*) — the gift. अस्मे (*asme*) — to us. अस्तु (*astu*) — may it be.
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, who give good fruits: since men in the form of priests, for the sake of excellent fruit and out of desire for food, satisfy you two in turn, therefore hear the praise of Agastya, the esteemed praiser, and be satisfied. O Aśvin deities possessing a vessel full of honey, may that famous gift coming from you be ours.
+
+**Printed English translation**
+
+Receivers of ihe [sic] oblation, may your liberality be displayed towards us : be pleased with the hymn of the venerable author, so that men may honour the institutor of the ceremony, as (they honour) you, liberal donors, for the sake of renown.
+
+### Printed p. 36
+
+*Running head: [36 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184].*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुदानू (*sudānū*) — "those who give good fruits", "givers of auspicious fruits": the quality of the Aśvin deities is thus praised. The word दानुशब्दवु (*dānuśabdavu*) is used in many places in the sense of "sap, juice". सुदानवः (*sudānavaḥ*) can also mean "full of juice" or "givers of juice". When this word is used as an epithet of the Maruts it ordinarily means "givers of juice", that is, "those who pour excellent rain water".
+
+पिन्वंत्यपो मरुतः सुदानवः पयो घतवद्विदथेष्वाभुवः । (*pinvaṃtyapo marutaḥ sudānavaḥ payo ghatavadvidatheṣvābhuvaḥ |*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1-64-6)
+
+In many such places it gives the above meaning for the Maruts. Moreover, generous giving may be not only the deities' act but also the quality of sacrificers.
+
+इषं पृंचंता सुकृते सुदानव आ बर्हिः सीदतं नरा । (*iṣaṃ pṛṃcaṃtā sukṛte sudānava ā barhiḥ sīdataṃ narā |*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1-47-8)
+
+सेदग्ने अस्तु सुभगः सुदानुर्यस्त्वा नित्येन हविषा य उक्षैः । (*sedagne astu subhagaḥ sudānuryastvā nityena haviṣā ya ukṣaiḥ |*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 4-4-7)
+
+In ṛks like these everywhere it is an epithet of sacrificers as excellent donors. In ṛks such as 18-43-7 [as supplied] and others, दानु (*dānu*) may also mean soma juice. Moreover,
+
+उत्तरा सूरधरः पुत्र आसिद्दानुः शये सहवत्सा न धेनुः । (*uttarā sūradharaḥ putra āsiddānuḥ śaye sahavatsā na dhenuḥ |*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1-32-9)
+
+in ṛks like these the word दानु (*dānu*) means the demoness, the mother of Vṛtra. The special sense of this word, the etymology of the word जीरदानु (*jīradānu*) and its special uses were told earlier.
+
+चर्षणय्य (*carṣaṇayya*) — when explaining the meaning of the word ऋक्किनल्लिरुव (*ṛkkinalliruva*) in the ṛk 1-109-5, Sāyaṇa took the sense सर्वस्य द्रष्टारौ इंद्राग्नी (*sarvasya draṣṭārau iṃdrāgnī*) ("the two seers of everything, Indra and Agni"). Skandasvāmin also gave this meaning first, and then, by मनुष्यनाम वा चर्षणीशब्दः (*manuṣyanāma vā carṣaṇīśabdaḥ*) (Ni 3-7) मनुष्याकारौ ना द्रष्टारौ ना सर्वार्थानां (*manuṣyākārau nā draṣṭārau nā sarvārthānāṃ*), since the word *carṣaṇi* is read among the names of man, he took it that they may be, in human form, the seers of everything. Again, in the ṛk 1-109-6, Sāyaṇa took the word चर्षणि (*carṣaṇi*) to mean simply "men".
+
+### Printed p. 37
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1] Ṛgveda-saṃhitā 37.*
+
+Monier Williams says that it is derived from the root कृष् (*kṛṣ*), and Griffith from the root चर् (*car*); this is explained in detail in Ṛgveda Saṃhitā part 2, page 4.
+
+मान्यस्य (*mānyasya*) — the special sense of this word has been told in detail in part 12 of the Ṛgveda Saṃhitā (page 725, as supplied). There, in the ṛk 1-165-15, Sāyaṇa took the word to mean "worshipful", and it is used as an epithet of Agastya. In the Bṛhaddevatā, telling the order of Agastya's origin, it says:
+
+मानेन सम्मितो यस्मात् तस्मान्मान्य इहोच्यते । (*mānena sammito yasmāt tasmānmānya ihocyate |*)
+यद्वा कुंभादृषिर्जातः कुंभेनापि हि मीयते ॥ (*yadvā kuṃbhādṛṣirjātaḥ kuṃbhenāpi hi mīyate ‖*)
+
+(Bṛ. De. 5-153)
+
+that is, because he is worshipful, or because he was born in the pitcher which shows the kind of measure (*māna*), that is, in the pitcher-form measure, the name "Mānya" for Agastya is famous. The epithets मांदार्यस्य, (*māṃdāryasya,*) and मान्यस्य (*mānyasya*) for Agastya occur in many places. Max Müller, explaining the ṛk 1-165-15, has said thus:
+
+I translate मान्य (*mānya*), the son of मान (*māna*), because the poet is so called in I-189-8
+is in all probability the same as our मांदार्य (*māṃdārya*), मान्य (*mānya*). But it may also be मान्य (*mānya*),
+descendant of मांदारि (*māṃdāri*).
+(S. B. E XXXII. P. 206)
+
+The English scholars hold that the personal name मान (*māna*) is the name of the first man of a line. For example, Keith also says as follows:
+
+मान (*māna*) is the name of man occuring in several passages of the Rig-veda.
+In one place, express mention is made of his son (सूनु (*sūnu*)) by whom अगस्त्य (*agastya*) must
+have been meant. In another passage, apparently the same meaning applies
+to मान (*māna*) — ie. अगस्त्य (*agastya*) as मान (*māna*).
+[ Index to Vedic names and subjects by Madconell & Keith. Vol. II. p. 152.]
+
+That is to say,
+
+अपोचाम निवचनान्यस्मिन्मानस्य सूनुः सहसाने अग्नौ ॥ (*apocāma nivacanānyasminmānasya sūnuḥ sahasāne agnau ‖*)
+वयं सहस्रमृषिभिः सनेम विद्यामेषं वृजनं जीरदानुं ॥ (*vayaṃ sahasramṛṣibhiḥ sanema vidyāmeṣaṃ vṛjanaṃ jīradānuṃ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 1-189-8)
+
+*[The window ends here; the Special Topics continue on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 34 (PDF 34). Rik 3 Special Topics end (Gandharva, Soma, apsu, kakuha), two grammar pages; Rik 4 Samhita (from figure) and start of Pada
+**Progress note:** Done through printed p. 37 (PDF 37). Sukta 184 Rik 4 Pada end, bhashya, Pratipadartha, Bhavartha, printed English; Special Topics begun (sudanu, carshanayah, manya)
