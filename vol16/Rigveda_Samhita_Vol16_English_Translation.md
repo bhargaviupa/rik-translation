@@ -934,6 +934,82 @@ I propitiate the two first divine offerers of sacrifice ; the seven (priests) re
 
 दैव्या होतारा (*daivyā hotārā*) — दैवौ देवतारूपौ होतार् होमनिष्पादकौ (*daivau devatārūpau hotār homaniṣpādakau*). The two priests called Hotṛ and Maitrāvaruṇa perform the oblations connected with the sacrifice, (the Special Topics continue on the next page).
 
+### Printed p. 35
+
+*[Running head, p. 35: Aṣṭaka 3, Adhyāya 1, Varga 2, Ṛgvedasaṃhitā 35]*
+
+...has been described. Here the word दैव्या (*daivyā*) is stated as an adjective of the word होतारा (*hotārā*). The Nirukta-writers explain its sense thus: "दैव्या होतारा (*daivyā hotārā*): the two divine Hotṛs, Agni and the middle one (Vāyu)", and they cite the Ṛk "दैन्व्या होतारा प्रथमा सुवाचा … (*dainvyā hotārā prathamā suvācā …*)" (Ṛ. Saṃ. 10-110-7) and explain their greatness. (The supplied text prints the reference twice, once as "Ma. Saṃ." and once as "Ṛ. Saṃ.", both 10-110-7; the first is evidently a misreading.) Durgācārya explains the word होतारा (*hotārā*) as the Hotṛ and Maitrāvaruṇa priests, and since the word दैवौ (*daivau*) is their adjective, these Hotṛ-Maitrāvaruṇas are human Hotṛs. The divine Hotṛs who invoke the gods, Vāyu and Agni, are the chief ones. This priest called Maitrāvaruṇa, attaining identity with Vāyu, the divine Hotṛ, constantly urges Agni, like a Hotṛ, towards the sacrifice; therefore he explains: तावेव देवानामाह्वातारौ उच्चेते (*tāveva devānāmāhvātārau uccete*), "they urge the gods to the sacrifice."
+
+प्रथमा नृइच्छॆ (*prathamā nṛicchè*) (as supplied) — प्रथमौ मुख्याविमं चामुं चाग्नी मंत्रद्रष्टा विश्वामित्रोऽहं प्रसाधयामि (*prathamau mukhyāvimaṃ cāmuṃ cāgnī maṃtradraṣṭā viśvāmitro 'haṃ prasādhayāmi*). Since the divine Hotṛs, Vāyu and Agni, are designated by the word Hotṛ, the Hotṛ-Maitrāvaruṇas who attain identity with them are meant here. It is described that the seer Viśvāmitra, who knows the greatness of this mantra, praises them to obtain the favour of these two, the chief priests among those who perform the sacrifice. The Nirukta-writer says: ऋञ्चितः प्रसाधनकर्मा (*ṛñcitaḥ prasādhanakarmā*) (Ni. 6-21), explaining that the root ऋञ्चित (*ṛñcita*) [sic, as supplied] conveys the sense of "propitiating" (making glad), and gives the example आव ऋञ्चसे ऊर्जां व्युष्टिषु (*āva ṛñcase ūrjāṃ vyuṣṭiṣu*). Even when connected with the prefix नि (*ni*), the root conveys the same meaning.
+
+सप्त पृक्षासः स्वधया मदंति (*sapta pṛkṣāsaḥ svadhayā madaṃti*) — सप्तहोतृकाः सोमेन हृष्यंति (*saptahotṛkāḥ somena hṛṣyaṃti*). The word पृक्ष (*pṛkṣa*) is read among the names of food (Ni. 3-9); here its meaning is explained as Hotṛs. स्वं लोकं यजमानस्य दधाति विदधाति इति स्वधा सोमः (*svaṃ lokaṃ yajamānasya dadhāti vidadhāti iti svadhā somaḥ*): because Soma grants the sacrificer a dwelling in the world where he himself dwells, Soma is denoted by the word स्वधा (*svadhā*). The meaning is that the seven Hotṛs are joyful from drinking the Soma.
+
+व्रतपाः (*vratapāḥ*) — व्रतस्य यज्ञकर्मणो रक्षितारः (*vratasya yajñakarmaṇo rakṣitāraḥ*). The Nirukta-writers: व्रतमिति कर्मनाम वृणोतीति सतः । इदमपीतरत् व्रतमेतस्मादेव निवृत्तिकर्म वारयतीति सतः । अन्न- (*vratamiti karmanāma vṛṇotīti sataḥ | idamapītarat vratametasmādeva nivṛttikarma vārayatīti sataḥ | anna-*)
+
+### Printed p. 36
+
+*[Running head, p. 36: 36 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sūkta 7]]*
+
+मपि व्रतमुच्यते यदावृणोति शरीरं (*mapi vratamucyate yadāvṛṇoti śarīraṃ*) — thus they state the meaning of the word व्रत (*vrata*). From the root वृञ् वरणे (*vṛñ varaṇe*) the word व्रत (*vrata*) is formed in the agent sense: वृणोतीति व्रतं (*vṛṇotīti vrataṃ*). Because it attaches to the one who has done an act, whether good or bad, one kind of meaning of the word व्रत (*vrata*) is "action". Secondly, since it keeps off (prevents) others from approaching the fire (the altar), it may mean व्रत (*vrata*) in that sense; also, since it turns one away from pleasures of the senses such as intercourse with women, it is व्रत (*vrata*); or, since food, the cause of growth of the seven constituents of the body, covers the body, व्रत (*vrata*) is explained as food. Sāyaṇa has explained व्रत (*vrata*) as sacrificial action, and the word व्रतपाः (*vratapāḥ*) as the priests who protect it.
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+Words treated: दैव्या (*daivyā*) (suffix यञ् (*yañ*) in the sense of relation to a god by "देवाद्यञ्ञौ (*devādyaññau*)"; ādivṛddhi and initial-udātta accent; the dual ending replaced by ā by "सुपांसुलुक् (*supāṃsuluk*)"; likewise in होतारा (*hotārā*)). ऋंजे (*ṛṃje*) (root ऋजि भृजी भर्जने (*ṛji bhṛjī bharjane*); with the prefix नि (*ni*) the sense becomes "to adorn"; Yāska: ऋंजतिः प्रसाधनकर्मा (*ṛṃjatiḥ prasādhanakarmā*); augment नुम् (*num*) by इदितोनुम् धातोः (*iditonum dhātoḥ*) (Pā. Sū. 7-1-58); laṭ first person singular; finite-verb nighāta accent). पृक्षासः (*pṛkṣāsaḥ*) (आसुक् (*āsuk*) augment to जस् (*jas*) by अज्जसेरसुक् (*ajjaserasuk*) (Pā. Sū. 7-1-50)). स्वधया (*svadhayā*) (स्वं लोकं यजमानस्य दधाति विदधाति इति स्वधा सोमः (*svaṃ lokaṃ yajamānasya dadhāti vidadhāti iti svadhā somaḥ*), "Soma gives the sacrificer his divine world"; suffix क (*ka*) on the root धाज् (*dhāj*) by अतोनुपसर्गेकः (*atonupasargekaḥ*) (Pā. Sū. 3-2-3); elision of the root's ā; feminine टाप् (*ṭāp*); accent of the final member by गतिकारकोपपदात् कृत् (*gatikārakopapadāt kṛt*)). शंसंत: (*śaṃsaṃta:*) (root शंसु स्तुत् (*śaṃsu stut*); शतृ (*śatṛ*) for laṭ; the sārvadhātuka is anudātta by तास्यनुदात्तेत् (*tāsyanudāttet*), so the root accent remains; nominative plural). आहु: (*āhu:*) (root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*); laṭ third plural; उस् (*us*) substituted for झि (*jhi*) and अह (*aha*) for the root by ब्रुवः पंचानामादित अहो ब्रुवः (*bruvaḥ paṃcānāmādita aho bruvaḥ*) (Pā. Sū. 3-4-84); para-rūpa; all-anudātta after a non-finite word). व्रतपा: (*vratapā:*) (व्रतं पांति इति व्रतपाः (*vrataṃ pāṃti iti vratapāḥ*); root पा रक्षणे (*pā rakṣaṇe*), suffix विच् (*vic*); accent of the final member).
+
+### Printed p. 37
+
+*[Running head, p. 37: Aṣṭaka 3, Adhyāya 1, Varga 2, Ṛgvedasaṃhitā 37]*
+
+Grammar page continued, noted briefly: दी ध्यानाः (*dī dhyānāḥ*) (root दीधीज् दीप्तिदेवनयोः (*dīdhīj dīptidevanayoḥ*); for laṭ the substitute शानच् (*śānac*); because of the चित् (*cit*) marker the final-udātta accent is expected, but since the reduplicated class applies, the initial-udātta accent comes by अभ्यस्तानामादिः (*abhyastānāmādiḥ*) (Pā. Rū. [sic, as supplied] 6-1-189)).
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> [figure: vol16/html/figures/fig_line2559.jpg]
+> वृ॒ष्टा॒यंते॑ म॒हे अत्या॑य पू॒र्विर्वृष्णे॑ चि॒त्राय॑ र॒श्मयः॒॑
+> सुयामाः ।
+> देव॑ होतर्मं॒द्रत॑रश्तिकि॒त्वान्म॒हो दे॒वानोद॑सी॒ एह॑
+> वक्षि ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> वृषयंते महे अत्याय पूर्विः वृष्णे चित्राय रश्मयः । सुयामाः ।
+> देव । होतः । मंद्र-तरः चरित्वान् महः । देवान् । रोदसी इति । आ । इह ।
+> वक्षि ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> देव देदीप्यमाना होतर्देवानामाह्वातः हे अग्ने महॆ महतेs-
+> त्याय सर्वानपतिक्रम्य वर्तमानाय चित्राय नानाविधवर्णाय । यद्वा
+> चित्राय देवैश्चायनीयाय पूजाय । वृष्णे कामानां वर्षित्रे तुभ्यं त्वदर्थं
+> पूर्वीःप्रभूताः सुयामा अतिशयेन विस्तृता रश्मयः सर्वतो प्याप्ता ज्वाला
+> वृषयंते । वृषेव चरंति । सेचका इव भवंति होतारो ज्वालाभिः
+> समिद्दमग्निंदृष्टा सोमाज्यपयःप्रभृतीनि हवींषि तत्र प्रक्षिपंतीति ज्वाला-
+> नां वृषत्वं यद्वा षष्ट्यर्थे चतुर्थी । तथा च महतोऽत्यस्य चित्रस्य
+> वृष्णोऽगीर्बहवो रश्मयो वृषेवाचरंति । वृष्टुत्पादनद्वारा पर्जन्यवदा-
+> चरंतीत्यर्थः अपि च । मंद्रतरो यजमानस्य मादयितृतमश्चि कित्वान् ज्ञानो-
+> पेतः स त्वं महो महतः पूज्यान् यष्टव्यान् देवान् रोदसी द्यावापृथिव्यौ
+> चेह वैदिकेऽस्मिन्कर्मण्यावक्षि । अवह ॥ वृषायंते । उपमानादित्यनुवृत्तौ कर्तुः
+> क्यज् सलोपश्चेति क्यज् । अकृत्सार्वधातुकयोरिति दीर्घः । पादादित्वान्न विघातः ।
+> धातुस्वरः । महे । अकारतकारयोर्लोपश्छांदसः । बृहन्महतोरिति विभक्तेरुदा-
+
+> *deva dedīpyamānā hotardevānāmāhvātaḥ he agne mahè mahates-*
+> *tyāya sarvānapatikramya vartamānāya citrāya nānāvidhavarṇāya | yadvā*
+> *citrāya devaiścāyanīyāya pūjāya | vṛṣṇe kāmānāṃ varṣitre tubhyaṃ tvadarthaṃ*
+> *pūrvīḥprabhūtāḥ suyāmā atiśayena vistṛtā raśmayaḥ sarvato pyāptā jvālā*
+> *vṛṣayaṃte | vṛṣeva caraṃti | secakā iva bhavaṃti hotāro jvālābhiḥ*
+> *samiddamagniṃdṛṣṭā somājyapayaḥprabhṛtīni havīṃṣi tatra prakṣipaṃtīti jvālā-*
+> *nāṃ vṛṣatvaṃ yadvā ṣaṣṭyarthe caturthī | tathā ca mahato 'tyasya citrasya*
+> *vṛṣṇo 'gīrbahavo raśmayo vṛṣevācaraṃti | vṛṣṭutpādanadvārā parjanyavadā-*
+> *caraṃtītyarthaḥ api ca | maṃdrataro yajamānasya mādayitṛtamaści kitvān jñāno-*
+> *petaḥ sa tvaṃ maho mahataḥ pūjyān yaṣṭavyān devān rodasī dyāvāpṛthivyau*
+> *ceha vaidike 'sminkarmaṇyāvakṣi | avaha ‖ vṛṣāyaṃte | upamānādityanuvṛttau kartuḥ*
+> *kyaj salopaśceti kyaj | akṛtsārvadhātukayoriti dīrghaḥ | pādāditvānna vighātaḥ |*
+> *dhātusvaraḥ | mahe | akāratakārayorlopaśchāṃdasaḥ | bṛhanmahatoriti vibhakterudā-*
+
+*Gist: Agni, the great, wonderful one, is the showerer; his many extended rays act like rain-givers; the wise, most gladdening Hotṛ is asked to bring the great gods and heaven and earth to this rite. (The bhāṣya continues on the next page; the window ends in its grammatical tail on वृषायंते (*vṛṣāyaṃte*) and महे (*mahe*), transcribed, not explained.) Note: the supplied text shows a figure marker before the Saṃhitā; the Saṃhitā reads वृष्टायंते (*vṛṣṭāyaṃte*) against the Pada and bhāṣya वृषयंते (*vṛṣayaṃte*)/वृषायंते (*vṛṣāyaṃte*), and चरित्वान् (*caritvān*) in the Pada against चिकित्वान् (*cikitvān*) expected; all as supplied.*
+
 ---
 
-**Progress note:** Done through printed p. 34 (PDF 34). Done through printed p. 34. Sukta 7 Rk 8 Samhita/Pada/bhashya/Pratipadartha/Bhavartha done; Special Topics begin (break off after the Hotr/Maitravaruna sentence)
+**Progress note:** Done through printed p. 37 (PDF 37). Sukta 7 Rk 8 Special Topics and grammar done; Rk 9 Samhita/Pada and start of bhashya (window ends mid-bhashya grammatical tail)
