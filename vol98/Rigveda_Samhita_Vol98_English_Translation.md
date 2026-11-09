@@ -9595,6 +9595,88 @@ The matter stated in this ṛk is not clear or is troublesome. Even so, the bhā
 
 सुयवसः (*suyavasaḥ*) — the word यव (*yava*) is read (the print has पतरिवागिदॆ (*patarivāgidè*), [sic]) among the names of food. Hence it means one who gives excellent food. Since food is obtained through sacrifices, यज्ञमार्गगामिनो (*yajñamārgagāmino*) (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 325
+
+*Running head (as supplied): [अ. २. अ. ५. व. १३ ] ऋग्वेदसंहिता 325 (*[a. 2. a. 5. va. 13 ] ṛgvedasaṃhitā 325*).*
+
+*(Continuation of the Special Topics of Ṛk 6 of Sūkta 190, in the *suyavasaḥ* note.)*
+
+पंथा इव (*paṃthā iva*): like the good path of one who wishes to perform sacrifices and the like, that is, like a pleasant path.
+
+दुर्नियंतुः—दुःखेन नियमितुः । अथवा दुर्नयान्निवर्तयति इति दुर्नि- यंता तस्य (*durniyaṃtuḥ—duḥkhena niyamituḥ | athavā durnayānnivartayati iti durni- yaṃtā tasya*): the bhāṣyakāra has explained it as a king who rules with great difficulty, or who punishes those who walk on bad paths and makes them walk on the good path.
+
+परिप्रीतः मित्रः न (*pariprītaḥ mitraḥ na*): satisfied in every way, that is, like a friend full of true love and trust. Although there is no word in this ṛk that denotes a king or a minister, the bhāṣyakāra has explained the words दुर्नियंतुः मित्रः (*durniyaṃtuḥ mitraḥ*) so that the meanings king and minister fit. Or, without giving the meanings king, minister and the like, the words दुर्नियंतुः मित्रो न (*durniyaṃtuḥ mitro na*) may be taken to mean: as a friend, his well-wisher, brings back to the road one who strays on a bad path.
+
+अनर्वाणः (*anarvāṇaḥ*): the bhāṣyakāra has given the meaning अपापाः (*apāpāḥ*), those free from sin, but has not explained how this meaning fits the word. Yāska says in the Nirukta: अनर्वा प्रत्यृतोऽन्यस्मिन् (*anarvā pratyṛto 'nyasmin*) (नि ६-२३ (*ni 6-23*)), and यः अन्यस्मिन् न आश्रितो भवति स्वप्रधान एव सः अनर्वा इत्युच्यते (*yaḥ anyasmin na āśrito bhavati svapradhāna eva saḥ anarvā ityucyate*): the man who does not take shelter in others but is himself chief, that is, independent, is called *anarvā*. Therefore, by the view of the Nirukta authors, *anarvāṇaḥ* (nominative plural) means independent men, those not under another.
+
+अपीवृताः (*apīvṛtāḥ*), अपोर्णुवंतः (*aporṇuvaṃtaḥ*): for these words Sāyaṇa has given in order the explanation अज्ञानेनावृताः अपगतावरण- वंतः (*ajñānenāvṛtāḥ apagatāvaraṇa- vaṃtaḥ*); that is, *apīvṛtāḥ* means those covered by ignorance, blind with ignorance, without understanding; *apōrṇuvantaḥ* means those who have turned away from the covering of ignorance, the free from ignorance, the knowers. Whether these two views are the right meanings of these words remains in doubt. The bhāṣyakāra too, unable to explain the meaning of these words properly, has given another kind of meaning also: यद्वा । अनर्वाणस्त्वामप्राप्नुवंतो येऽस्मद्विरो- धिनो नोऽस्मानभि चक्षते अभिवदंति निंदंति तेऽपीवृता आच्छादिता रक्षिता अप्यपो- र्णुवंतोऽपगतरक्षणा भवंति (*yadvā | anarvāṇastvāmaprāpnuvaṃto ye 'smadviro- dhino no 'smānabhi cakṣate abhivadaṃti niṃdaṃti te 'pīvṛtā ācchāditā rakṣitā apyapo- rṇuvaṃto 'pagatarakṣaṇā bhavaṃti*). That is: those men, our opponents, who without taking shelter in you revile us, even if they have their own protection, may that protection not reach them; so they have said. This meaning too is not very reasonable. In both these kinds of meaning there is room for doubt (the sentence continues on the next page; the word is printed संशयक्कॆ (*saṃśayakkè*) at the end of this page and वकाशविद्दे इदॆ (*vakāśavidde idè*) at the start of the next, as printed).
+
+### Printed p. 326
+
+*Running head (as supplied): [326 सायणभाष्यसहिता [मं. १. अ. २४ सू. १९०] (*[326 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24 sū. 190]*).*
+
+For how? A man covered by ignorance giving counsel to another does not seem right. Likewise in the second meaning, to say "even if those who do not take shelter in you have protection" is also not right, because those who do not take shelter in you have no protection at all; and, this being so, to say "destroy the protection they have" is also without reason. In short, the right meaning of this ṛk, especially of the second half, remains clouded with doubt.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 6, noted briefly)
+
+The page explains: सुप्रैतु: (*supraitu:*) (root *iṇ* of motion, suffix *tṛn* in the agent sense, *vṛddhi* after the prefix by the rule एत्येधत्र्योष्टु (*etyedhatryoṣṭu*), as printed; genitive singular); सुयवसः (*suyavasaḥ*) (because it is read in the *kratvādi* group, an acute on the first syllable of the second member by क्रत्वादयश्च (*kratvādayaśca*) (पा. सू. ६-२-११८ (*pā. sū. 6-2-118*))); अनर्वाणः (*anarvāṇaḥ*) (a possessive compound with *nañ*; the final *tṛ* does not arise because of the prohibition in अर्वणस्तृसावनञ् (*arvaṇastṛsāvanañ*); the acute on the end of the second member by नञ् सु- भ्याम् (*nañ su- bhyām*) (पा. सू ६-२-१७२ (*pā. sū 6-2-172*))); चक्षते (*cakṣate*) (root चक्षिज् व्यक्तायां वाचि (*cakṣij vyaktāyāṃ vāci*), middle voice, *at* substituted by आत्मनेपदेष्वनतः (*ātmanepadeṣvanataḥ*); no *nighāta* because of the connection with *yat*; acute on the root); अपीवृताः (*apīvṛtāḥ*) (आपि (*āpi*) as printed, is a prefix; root *vṛ*, suffix *kta*; lengthening of the first member by निपातस्य च (*nipātasya ca*) (पा. सू. ६-३-१३९ (*pā. sū. 6-3-139*)); the *gati* status by गतिरनंतरः (*gatiranaṃtaraḥ*) (पा. सू. ६-२-४९ (*pā. sū. 6-2-49*)) gives *apī* its own accent); अस्थु? (*asthu?*) (printed with a question mark; root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); *luṅ* in the sense of the present in the Veda; *luk* of *sic* by गातिस्थाघ्रुपा (*gātisthāghrupā*) (पा. सू. २-४-७७ (*pā. sū. 2-4-77*)); the substitute *us* by आतः (*ātaḥ*) (पा सू. ३-४-४१० (*pā sū. 3-4-410*), as printed); *nighāta* because it follows a verb form, printed अतिजंत (*atijaṃta*)).
+
+*[As supplied, the label line reads संशयापाति (*saṃśayāpāti*), in place of the Saṃhitā label; standard label inserted.]*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> सं यं स्तुभो॒ऽवन॑यो॒ न यंति॑ समु॒द्रं न स्र॒वतो॒॑
+> रोध॑चक्राः ।
+
+> *saṃ yaṃ stubho 'vanayo na yaṃti samudraṃ na sravato*
+> *rodhacakrāḥ |*
+
+### Printed p. 327
+
+*Running head (as supplied): [अ. २. अ. ५. व. १३.] ऋग्वेदसंहिता 327 (*[a. 2. a. 5. va. 13.] ṛgvedasaṃhitā 327*).*
+
+*(The Saṃhitā of Ṛk 7 continues from the previous page; the verse numeral is printed at its end.)*
+
+> स विद्वा उभयं चष्टे अंतर्बृहस्पतिस्तर आपश्च गृध्रः ॥ ७ ॥
+
+> *sa vidvā ubhayaṃ caṣṭe aṃtarbṛhaspatistara āpaśca gṛdhraḥ ‖ 7 ‖*
+
+*[As supplied, the label line of the Pada reads १ पडपाकः (*1 paḍapākaḥ*), with a footnote sign as printed; standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> सं । यं । स्तुभः । अवनयः । न । यंति । समुद्रं । न । स्रवतः । रोधचक्राः ।
+> सः । विद्वान् । उभयं । चष्टे । अंतः । बृहस्पतिः । तरः । आपः । च । गृध्रः ॥ ७ ॥
+
+> *saṃ | yaṃ | stubhaḥ | avanayaḥ | na | yaṃti | samudraṃ | na | sravataḥ | rodhacakrāḥ |*
+> *saḥ | vidvān | ubhayaṃ | caṣṭe | aṃtaḥ | bṛhaspatiḥ | taraḥ | āpaḥ | ca | gṛdhraḥ ‖ 7 ‖*
+
+*[As supplied, the label line of the bhāṣya reads कायणभाष्यं (*kāyaṇabhāṣyaṃ*); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> सं यं स्तुभ इत्येषा बार्हस्पत्ये पशौ पुरोडाशस्य याज्या । सूत्रितं च ।
+> सं यं स्तुभोऽवनयो न यंत्येवा पित्रे । अ. ३-७ । इति ॥
+> यं बृहस्पतिं स्तुभः स्तोत्राण्यवनयो न सर्वा अवनयो भूमयो
+> मनुष्या यथा स्वामिनं कर्म प्रति वा सं यंति संगच्छंति तद्वत् तथा समुद्रं
+> रोधचक्राः । नदीनामैतत् । रोधनशीलानि चक्राणि यासु तास्तादृश्यः कूलं क्रम-
+> माणा वा स्रवतः स्रवंत्यो नद्यो यथा यंति तद्वत् सर्वा अपि स्तुतयो यमेव
+> प्राप्रुवंति गृध्रो गर्धनशीलो वृष्टिमाकांक्षमाणः स बृहस्पतिर्विद्वान् वक्ष्यमा-
+> णाभिज्ञस्तरस्तरणं जलाभिवृद्धिमाप उदकानि चोभयमंतर्मध्यॆ स्थित्वा चष्टॆ पश्यति ।
+> करोतीत्यर्थः ॥
+
+*Gist:* A yājyā for the cake offering in Bṛhaspati's animal sacrifice: praises reach Bṛhaspati as rivers reach the sea; the wise one watches the waters.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अवनयो न—मानवरु तम्म यजमानरन्नु सुत्तुवरियुवंतॆयू (मत्तु) । (*avanayo na—mānavaru tamma yajamānarannu suttuvariyuvaṃtèyū (mattu) |*) (as men surround their masters, and). रोध- चक्राः—ऎरडु दडगळ नडुवॆ हरियुव नदिगळु (*rodha- cakrāḥ—èraḍu daḍagaḷa naḍuvè hariyuva nadigaḷu*) (the rivers flowing between two banks). समुद्रं—समुद्राभिमुखवागि (*samudraṃ—samudrābhimukhavāgi*) (towards the sea). स्रवतः— (ऒंदे मार्गवन्ननुसरिसि) हरियुवंतॆयू (*sravataḥ— (òṃde mārgavannanusarisi) hariyuvaṃtèyū*) (as they flow, following one course). स्तुभः—सकलस्तुतिगळू सह (*stubhaḥ—sakalastutigaḷū saha*) (all the praises as well). यं—याव बृह स्पतियन्नु (*yaṃ—yāva bṛha spatiyannu*) (which Bṛhaspati). सं यंति—होगि सुत्तुवरिदु सेरुत्तवॆयो (*saṃ yaṃti—hogi suttuvaridu seruttavèyo*) (go to, surround and join). सः बृहस्पतिः—आ बृहस्पतियु (*saḥ bṛhaspatiḥ—ā bṛhaspatiyu*) (that Bṛhaspati). विद्वान्—प्राज्ञनादवनागियू (*vidvān—prājñanādavanāgiyū*) (being wise). गृध्रः—जलाकांक्षियागियू (*gṛdhraḥ—jalākāṃkṣiyāgiyū*) (desiring water). अंतः—मध्यभागदल्लि निंतु (*aṃtaḥ—madhyabhāgadalli niṃtu*) (standing in the middle). तरः—जलाभिवृद्धियन्नु अथवा दाटुव क्रमवन्नू (*taraḥ—jalābhivṛddhiyannu athavā dāṭuva kramavannū*) (the increase of water, or the manner of crossing). आपः—उदकवन्नू (*āpaḥ—udakavannū*) (the water). उभयं च- ई ऎरडु विषयगळन्नू (*ubhayaṃ ca- ī èraḍu viṣayagaḷannū*) (and both these matters). चष्टे—ध्यानिसि (जलाभिवृद्धियन्नु) उंटुमाडुत्तानॆ (*caṣṭe—dhyānisi (jalābhivṛddhiyannu) uṃṭumāḍuttānè*) (meditating, he brings about the increase of water).
+
+**भावार्थ (Bhāvārtha)**
+
+As men surround their masters, and as rivers flowing between two banks flow towards the sea following one course, so all the praises join and surround that Bṛhaspati, who, being wise and desiring water... (the supplied text breaks off here, in the middle of the sentence, at जलाकांक्षि (*jalākāṃkṣi*), at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 324 (PDF 324). Sukta 190 Rik 5 Special Topics and grammar pages complete; Rik 6 complete through the printed English; Special Topics of Rik 6 begun; figure line viewed, two Pada words marked with a query
+**Progress note:** Done through printed p. 327 (PDF 327). Sukta 190 Rik 6 Special Topics and grammar page complete; Rik 7 through the Pratipadartha and the start of the Bhavartha; garbled labels repaired
