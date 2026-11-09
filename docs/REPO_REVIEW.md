@@ -10,7 +10,7 @@ Context: 15 of ~35 volumes are translated, Vol 12 is missing, 20 more volumes ar
 4. **Log accent misses in a file.** Agents reported DIFF/NOMATCH lines in chat only; `accent_report.tsv` stayed almost empty. `build` should always write them.
 5. **Record real token costs.** `parts/batch_costs.md` has "n/a" for most Vol 15 lines. The harness gives tokens per agent report; the dispatcher must copy them (or `batch.py` should take `--tokens`).
 6. **(Done Nov 9 for Vol 15: `kn_headings.py`; still to be called by `commit`/finish step.) Add Sūkta/Ṛk headings to the Kannada file** (the English file already has them) so the Kannada PDF can have a real contents and running heads. Generate them from the English structure at `commit` time.
-7. **Delete stray/outdated files**: `Rigveda_Samhita_Vol14_English_Translation.md` at the repository root (4 MB; belongs in `vol14/`), empty `kannada/`, `vol14/vol14_state.md` (says "in progress, p. 371"), duplicate prompt files (`CONTINUE_PROMPT*.md`, `START_PROMPT.md`, `API_PROMPT.md`, `TRANSLATOR_PROMPT.md` across vol10–15), `Translation_Conventions_Handoff.*` (superseded; keep the content in `docs/` if still wanted).
+7. **Delete stray/outdated files**: `Rigveda_Samhita_Vol14_English_Translation.md` at the repository root (4 MB; moved into `vol14/` on Nov 9 2026), empty `kannada/`, `vol14/vol14_state.md` (says "in progress, p. 371"), duplicate prompt files (`CONTINUE_PROMPT*.md`, `START_PROMPT.md`, `API_PROMPT.md`, `TRANSLATOR_PROMPT.md` across vol10–15), `Translation_Conventions_Handoff.*` (superseded; keep the content in `docs/` if still wanted).
 
 ## B. Repository size and what lives in git (medium; needs your decision)
 

@@ -3,7 +3,7 @@ python3 vol14/tools/export_open_xlsx.py [OUT.xlsx]"""
 import re,os,sys,json,csv,openpyxl
 from openpyxl.styles import Font,Alignment,PatternFill
 ROOT=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..'))
-EN=os.path.join(ROOT,'Rigveda_Samhita_Vol14_English_Translation.md')
+EN=os.path.join(ROOT,'vol14','Rigveda_Samhita_Vol14_scan_English_Translation.md')
 OUT=sys.argv[1] if len(sys.argv)>1 else os.path.join(ROOT,'vol14','review','Vol14_open_questions.xlsx')
 L=open(EN,encoding='utf8').read().split('\n')
 dev=lambda t:re.search('[ऀ-ॿ]',t); kan=lambda t:re.search('[ಀ-೿]',t)

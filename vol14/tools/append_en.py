@@ -1,4 +1,4 @@
-"""Append a chunk (stdin) to Rigveda_Samhita_Vol14_English_Translation.md before the single trailing '**Progress note:**', which is replaced by NOTE.
+"""Append a chunk (stdin) to Rigveda_Samhita_Vol14_scan_English_Translation.md before the single trailing '**Progress note:**', which is replaced by NOTE.
 python3 append_en.py "PROGRESS NOTE TEXT" < chunk.md   (asserts: file did not shrink, exactly one note afterwards, old note in last 20000 chars)"""
 import sys,os
 sys.path.insert(0,os.path.dirname(__file__))

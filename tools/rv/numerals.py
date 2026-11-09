@@ -51,7 +51,7 @@ def check(cfg,pdfs,kn_text,en_text,rows=None):
         if c: d,k=min(c); left.remove(k); res['near'].append((r['en'],k,r['page'],r['line']))
         else: res['missing'].append((r['en'],r['page'],r['line'],r['ctx'][:60]))
     res['extra_kn']=left
-    kset=set(kn)
+    kset=set(kn)|set(refs_en(kn_text))   # Latin-digit references printed inside English quotations of the Kannada text are their own twins (fix Nov 9 2026)
     res['twin_bad']=[e for e in en if e not in kset]; eset=set(en); res['twin_info']=[k for k in kn if k not in eset]
     return res
 def report(res):

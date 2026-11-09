@@ -4,7 +4,7 @@ Status: **in progress.** Translated through **printed p. 371 (PDF 391)** of ~961
 
 ## Facts
 - Page offset: printed = PDF − 18 up to PDF 222; **PDF 223 is a pixel-identical duplicate of PDF 222 (skipped); printed = PDF − 19 for PDF 224–334; PDF 335 duplicates 334 (skipped, at the part 3/4 boundary); printed = PDF − 20 from PDF 336.** Numeral-file page = printed + 18 always (`tools/numerals_for.py` does the mapping). `doubt.py` applies this.
-- Output: `Rigveda_Samhita_Vol14_English_Translation.md` (append-only; one trailing progress note holds the open position and the recent flags; older flags are archived in `review/flags_archive_*.md`).
+- Output: `vol14/Rigveda_Samhita_Vol14_English_Translation.md` (append-only; one trailing progress note holds the open position and the recent flags; older flags are archived in `review/flags_archive_*.md`).
 - Position and per-batch log: `parts/session_state.md` (last entry = where to resume). Resume by pasting `CONTINUE_PROMPT.md` into a new session (translators = Opus, 6 pages per batch).
 - Review logs: `review/doubts_v14.json` (every zoomed/undecided place, ~1,300 entries); flag archives in `review/`.
 

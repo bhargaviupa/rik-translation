@@ -4,7 +4,7 @@
 3. (--cite) Ṛgveda citations 'M-S-R' that sit next to a quoted verse: quote matched against the accented references (M1 from the user's HTML, M2 from vol14/refs); reports quotes whose best-matching verse differs from the cited number."""
 import re,sys,os,html,difflib,collections
 ROOT=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..'))
-EN=os.path.join(ROOT,'Rigveda_Samhita_Vol14_English_Translation.md')
+EN=os.path.join(ROOT,'vol14','Rigveda_Samhita_Vol14_scan_English_Translation.md')
 s=open(EN,encoding='utf8').read(); L=s.split('\n')
 DEV=str.maketrans('०१२३४५६७८९','0123456789')
 # 1. Ṛk numbering
