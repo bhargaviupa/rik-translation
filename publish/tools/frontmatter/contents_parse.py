@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Parse the printed contents (ವಿಷಯಾನುಕ್ರಮಣಿಕೆ) of a supplied machine-read volume text into structured JSON.
 
-  python3 publish/tools/frontmatter/contents_parse.py vol15/html/rig_15_1.md --out vol15/contents.json [--fixes vol15/contents_fixes.json] [--check]
+  python3 publish/tools/frontmatter/contents_parse.py vol15/html/rig_15.md --out vol15/contents.json [--fixes vol15/contents_fixes.json] [--check]
 
 The contents region runs from the 2nd line containing the heading word (--start, default 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ') to the line
 containing --end (default 'ಸಂಕೇತಾಕ್ಷರಗಳ', the list of abbreviations).

@@ -6,7 +6,7 @@
 Maṇḍala 2 Sūktas 24–43 and Maṇḍala 3 Sūktas 1–6 (Second Aṣṭaka, Adhyāyas 7–8), printed pp. 1–800. First volume made entirely from the supplied machine-read text (no scans).
 
 ## Source and inputs
-`vol15/html/rig_15_1.md` (front matter lines 1–445, then printed pp. 1–435) and `rig_15_2.md` (pp. 436–800); `vol15/volcfg.json` `source`. Front-matter scan PDF supplied by the user (Nov 8 2026, 15 pages) → `publish/assets/vol15/fm_NN.jpg`. No page scans in the repo.
+`vol15/html/rig_15.md` (the user's two files `rig_15_1.md` + `rig_15_2.md` merged losslessly with `tools/rv/merge_md.py`: front matter lines 1–445, then printed pp. 1–800; the page split is identical to the two originals; `volcfg.json` `source` = `rig_15.md@2-800`). Front-matter scan PDF supplied by the user (Nov 8 2026, 15 pages) → `publish/assets/vol15/fm_NN.jpg`. No page scans in the repo.
 
 ## Outputs
 `vol15/Rigveda_Samhita_Vol15_English_Translation.md` and `…_Kannada_Text.md` (merged to `main`); `publish/out/vol15_full_Eng.pdf` / `vol15_full_Kan.pdf`.

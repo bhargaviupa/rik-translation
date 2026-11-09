@@ -64,7 +64,7 @@ work/                     one dir per window (git-ignored): kn.md, en.md, en_fin
 
 ## 4. Inputs the user supplies (Vol 15 onwards — no page scans)
 
-1. **Machine-read text** of the volume (HTML or markdown) in one or more files → `volN/html/`. Strip embedded base64 images from markdown before committing. Page images are **not** read. The text matched an independent reading of the scan on 98.85 % of characters (Vol 5 tests), and the user found its numerals correct. Known weak points: `||` and the avagraha are lost (repaired by script); single-letter OCR slips; garbled running heads; stray "This image contains no text…" description lines (kept as italic notes); a few Latin/Telugu/Devanagari letters inside Kannada.
+1. **Machine-read text** of the volume (HTML or markdown) in one or more files → `volN/html/`. If the user gives several markdown files, merge them into ONE file with `python3 tools/rv/merge_md.py volN/html/rig_N.md IN1.md IN2.md … --write` (lossless; it refuses unless the page split is identical), point `volcfg.json` `source` and `pubcfg.json` `supplied_md` at it and `git rm` the inputs. Strip embedded base64 images from markdown before committing. Page images are **not** read. The text matched an independent reading of the scan on 98.85 % of characters (Vol 5 tests), and the user found its numerals correct. Known weak points: `||` and the avagraha are lost (repaired by script); single-letter OCR slips; garbled running heads; stray "This image contains no text…" description lines (kept as italic notes); a few Latin/Telugu/Devanagari letters inside Kannada.
 2. **Front-matter scan PDF** (cover, title page, portrait, permission page, board of scholars, preface, contents pages, abbreviations): used only as page images for the PDFs and to verify the printed contents.
 3. **Optional** numeral file (xlsx) → `volN/numerals/` (cross-check only; see `docs/LEGACY_SCAN_WORKFLOW.md` for the old method).
 4. The accented reference `refs/mandala/rv_mandalaM.html` for the volume's Maṇḍala(s) already exists for all ten.
@@ -128,7 +128,7 @@ In memory only (the `.md` is not changed): missing `## Sūkta` headings are supp
 | Tool | Purpose |
 |---|---|
 | `tools/rv/batch.py` | `new`, `prep`, `build`, `check`, `zoomlist`, `fix`, `commit` — the window workflow |
-| `tools/rv/html_pages.py`, `html_to_kn.py` | split the supplied text into printed pages; make the Kannada text by script |
+| `tools/rv/html_pages.py`, `html_to_kn.py`, `merge_md.py` | split the supplied text into printed pages; make the Kannada text by script; merge several supplied md files into one (checked) |
 | `tools/rv/convert.py`, `labels.py`, `numerals.py`, `rvlib.py` | Kannada→Devanagari expansion of `[[bN]]` and `⟦⟧`; label normalisation; numeral-file cross-check; config |
 | `tools/rv/check_inline.py` | every inline `⟦⟧` segment of `en.md` occurs in `kn.md` (run before every commit) |
 | `tools/rv/kn_headings.py`, `repair_inline.py`, `annotate_report.py` | after a volume: headings for the Kannada file; convert leftover multi-line `⟦⟧` quotations (older files; `convert.py` now joins such lines); add printed pages to a review TSV |

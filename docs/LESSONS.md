@@ -23,6 +23,7 @@ Each entry: **what happened → rule or tool change → status**. Status: DONE (
 16. **Characters from other scripts appear inside Kannada** (Devanagari ॐ, Telugu letters, Latin S for avagraha): rewrite letter for letter as Kannada and note it; the Kannada file must stay Devanagari-free. RULE.
 
 ## Text and publication
+0. **Several supplied md files → one file, losslessly.** The user's two files had to be listed with page ranges and each carried converter lines ('Markdown source', 'Pages: N/N'). → `tools/rv/merge_md.py` merges them and refuses unless the printed-page split of the merged file equals the union of the inputs' splits; the config then names one file. DONE (Vol 15, Nov 9).
 17. **Always look at the generated PDF**, not only at counts: the cover caption spilled to its own page, the title page split over two pages, the portrait and its caption landed on different pages, the Kannada index had one entry (headings without a blank line). → check the first ~20 pages and a body page of both PDFs as images after every build (CLAUDE.md §8). RULE.
 18. **Front matter comes from the volume's own scans** (cover, title, portrait, permission page, board, preface, contents, abbreviations), not from reconstructions; the user supplies the front-matter PDF; `fm_extract.py` → `publish/volbook.py`. DONE. The Vol 15 stop-gap cover (Vol 13 artwork re-lettered) was replaced by the real scan.
 19. **Pandoc**: a heading must start its own block; never put note text in `^[...]`; internal links need ids (`#pN` on every printed-page mark). DONE in volbook.
