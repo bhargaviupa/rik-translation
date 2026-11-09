@@ -10466,6 +10466,136 @@ Because he destroys these, the sun is also named *adṛṣṭahā*. For as soon 
 
 पुरस्तात् (*purastāt*) (the word *pūrva*; by the rule दिक्‌शब्देभ्यः (*dikśabdebhyaḥ*) (पा. सू. ५-३-२७ (*pā. sū. 5-3-27*)); the form is of the plural ending; the verbal *nighāta* accent); अदृष्टहा (*adṛṣṭahā*) (root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*); by the rule बहुलं छंदसि (*bahulaṃ chaṃdasi*) (पा सू. ३-२-८८ (*pā sū. 3-2-88*)) the suffix *kvip* when *adṛṣṭa* is the upapada; in this all of it is elided).
 
+### Printed p. 353
+
+*Running head (as supplied): [अ. २. अ. ५. व. १५.] ऋग्वेदसंहिता 353 (*[a. 2. a. 5. va. 15.] ṛgvedasaṃhitā 353*).*
+
+*(Continuation of the grammar page of Ṛk 8 of Sūkta 191, from mid-entry at the end of the previous window.)*
+
+(...) अदृष्टन् (*adṛṣṭan*) is the form. When the nominative *su* follows, lengthening of the penultimate and elision of *n*. By the rule गतिकारकोप- पदात् कृत् (*gatikārakopa- padāt kṛt*) the accent of the verbal-derivative second member arises.
+
+जंभयन् (*jaṃbhayan*) (root जभि नाशने (*jabhi nāśane*), of the *curādi* class; the suffix *ṇic* in the same sense by the rule printed सत्यापॆ (*satyāpè*); *laṭ* after the *ṇijanta*; the augment *num* because the root is marked *i*; *śatṛ* substituted for *laṭ*; because *śap* is marked *p* and the following sarvadhātuka is unaccented by the rule तास्यनुदात्तेत् (*tāsyanudāttet*), by the accent of *ṇic* the *a* after the *bh* that substituted for it takes the acute); यातुधान्यः (*yātudhānyaḥ*) (the word यातुधानिशब्द (*yātudhāniśabda*); when *jas* follows, *yaṇ* is substituted in the Vedic manner; since *yaṇ* replaces an acute, by the rule उदात्तस्वरितयोर्यणः (*udāttasvaritayoryaṇaḥ*) (पा. सू. ८-२-४ (*pā. sū. 8-2-4*)) a svarita follows the *yaṇ*).
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> उद॑पस्तद॒सौ [?] सूर्यः॑ पु॒रु विश्वा॑नि॒ जूर्व॑न् ।
+> आ॒दि॒त्यः पर्व॑तेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> उत् । अपप्तत् । असौ । सूर्यः । पुरु । विश्वानि । जूर्वन् ।
+> आदित्यः । पर्वतेभ्यः । विश्वदृष्टः । अदृष्टहा ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> असौ पुरस्तादृश्यमानः सूर्यः सर्वस्य प्रेरक आदित्य उदपत्तत् । ऊर्ध्वं
+> गच्छति ॥ पततेर्लुजि पुमागमे रूपं ॥ किं कुर्वन् । विश्वानि बहूनि विषाणि पुरु
+> प्रभूतं जूर्वन् हिंसन् । कीदृशोऽसौ । पर्वतेभ्यः पर्ववद्भ्यः प्राणिभ्यस्तेषा-
+> मुपकारायादित्यो विषोदकादीनामदनशीलः विश्वदृष्टो विश्वं दृष्टं येन
+> तादृशः अदृष्टहादृष्टानां विषविशेषाणां हंता । एवंमहानुभावः सूर्यः
+> ऊर्ध्वमारोहति । अतो विषशंका न कार्या ॥
+
+*Gist:* The sun, rising, destroys many poisons for the benefit of creatures; all-seeing and destroyer of the unseen; so fear of poison is needless.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पर्वतेभ्यः—प्राणिगळ उपकारक्कागि (*parvatebhyaḥ—prāṇigaḷa upakārakkāgi*) (for the benefit of creatures). अदित्यः—विषोदकादिगळन्नु हीरुव आदित्य रूपनू (*adityaḥ—viṣodakādigaḷannu hīruva āditya rūpanū*) (the Āditya form that absorbs poison, water and the like). विश्वदृष्टिः—सकलवन्नू नोडतक्कवनू (*viśvadṛṣṭiḥ—sakalavannū noḍatakkavanū*) (the one who sees everything). अदृष्टहा—सूक्ष्मवाद विषचरगळन्नु (*adṛṣṭahā—sūkṣmavāda viṣacaragaḷannu*) (of the destroyer of subtle poison-bearers; the entry is interrupted here by the notes below and the page boundary).
+
+*[As supplied, a stray line [23]Vol. 14. (*[23]Vol. 14.*) stands inside the Pratipadārtha, followed by the unmarked running head of printed p. 354; both are kept as italic notes in the Kannada text.]*
+
+### Printed p. 354
+
+*Running head (unmarked in the supplied text, as printed): 354 रायणभाष्यसहिता [ मं. १. अ. २४. सू. १९१ (*354 rāyaṇabhāṣyasahitā [ maṃ. 1. a. 24. sū. 191*).*
+
+नाशमाडुववनू आद (*nāśamāḍuvavanū āda*) (the entry continues: destroying). आसौ सूर‍्यः—ई सूर‍्यनु (*āsau sūryaḥ—ī sūryanu*) (this sun). विश्वानि—समस्तवाद विषगळन्नू (*viśvāni—samastavāda viṣagaḷannū*) (all the poisons). पुरु— पूर्णवागि (*puru— pūrṇavāgi*) (completely). जूर्वन्—नाशमाडुत्ता (*jūrvan—nāśamāḍuttā*) (destroying). उदपप्तत्—उदयिसि मेलक्कॆ बरुत्तानॆ. (*udapaptat—udayisi melakkè baruttānè.*) (rises up on high).
+
+**भावार्थ (Bhāvārtha)**
+
+The sun, the Āditya form that absorbs poison, water and the like for the benefit of creatures, who sees everything and destroys subtle poison-bearers, rises up on high, destroying completely all the poisons (the supplied text reads सूरनु (*sūranu*) for the sun in this line).
+
+**Printed English translation**
+
+The Sun has risen on high, destroying all the many (poisons) ; Aditya, the all-seeing, the destroyer of the unseen, (rises) for (the good of) living benigs.
+
+*(The printed English reads "benigs" for "beings", as supplied.)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 9)**
+
+In the previous ṛk the rising of the sun, and thereby the flight of the wicked creatures, were mentioned; in this ṛk it is explained how the sun gradually climbs higher, and how by the sharpness of its rays that arises therefrom, poisons and the like are destroyed.
+
+सूर्यः—सर्वस्य प्रेरक आदित्यः (*sūryaḥ—sarvasya preraka ādityaḥ*): the sun who impels the whole world, that is, all the creatures in the world. If we did not receive the heat that comes from the sun through its rays, we could not live. As said in ऋ. सं. १-११५-१ (*ṛ. saṃ. 1-115-1*), सूर्य आत्मा जगतः (*sūrya ātmā jagataḥ*), the sun himself is the soul of the whole world. Without the brilliance of the sun not even a blade of grass on the earth could move. For the whole class of creatures and for men the brilliance (heat) of the sun is absolutely necessary. Since heat (fire) is one of the five elements, the brilliance of the sun is necessary just as air, water and food are necessary. There is a difference between the brilliance that arises from fire and the like and the brilliance of the sun. The brilliance of the sun has the power to remove poison and to produce health. Therefore it is said here, by the sentence पुरु विश्वानि विषाणि जूर्वन-हिंसन् (*puru viśvāni viṣāṇi jūrvana-hiṃsan*), that the sharp rays of the midday sun destroy poison. Earlier the sage प्रसृण्वऋषियु (*prasṛṇvaṛṣiyu*) (as printed) prayed:
+
+हृद्रोगं मम सूर्य हरिमाणं च नाशय । (*hṛdrogaṃ mama sūrya harimāṇaṃ ca nāśaya |*)
+(य. सं. १-५०-११) (*(ya. saṃ. 1-50-11)*)
+
+(The reference is printed य. सं. (*ya. saṃ.*), as supplied.) "O sun, destroy the disease that has spread in my heart and the yellow colour caused by leprosy that has spread over my skin (तॊन्नु. Leprosy (*tònnu. Leprosy*))": this prayer is an illustration of the sun's power to remove disease.
+
+### Printed p. 355
+
+*Running head (as supplied): [अ. २ अ. ५ व. १५] ऋग्वेदसंहिता 355 (*[a. 2 a. 5 va. 15] ṛgvedasaṃhitā 355*).*
+
+पर्वतेभ्यः—पर्ववद्भ्यः प्राणिभ्यस्तेषामुपकारायादित्यो विषोदकादी- नामदनशीलः उदपस्तत् (*parvatebhyaḥ—parvavadbhyaḥ prāṇibhyasteṣāmupakārāyādityo viṣodakādī- nāmadanaśīlaḥ udapastat*) (as printed): Sāyaṇa has explained the word *parvata* as creatures with bodies like joints (गिण्णुगळंतॆ (*giṇṇugaḷaṃtè*)); that is, the different parts of the body, foot, knee, thigh, belly, neck and head, together form one big thing; likewise on a *parvata* (hill) many rocks lie one over another and all of them together bear the name *parvata*. That example is here compared to the bodies of creatures. And the words "for doing good to such creatures" have been supplied to complete the sense of the sentence.
+
+विश्वदृष्टो अदृष्टहा (*viśvadṛṣṭo adṛṣṭahā*): the explanation and meaning of these words have been given in the previous ṛk itself.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 9, noted briefly)
+
+The page explains: अपप्तत् (*apaptat*) (a root of motion, of the *bhvādi* class; *luṅ*, third person singular, the suffix *tip*; elision of the *i* by the rule इतश्च (*itaśca*); since the root is marked *l*, *aj* is substituted for *cli* by the rule पुषादिद्युतादि (*puṣādidyutādi*); the augment *puk* for the root by the rule पतःपुम् (*pataḥpum*) (पा सू ७-४-१९ (*pā sū 7-4-19*)); the augment *aṭ* for the stem; the verbal *nighāta* accent because it follows a verb form); जूर्वन् (*jūrvan*) (root जुर्वी हिंसायां (*jurvī hiṃsāyāṃ*); *śatṛ* for *laṭ*; lengthening of the *u* by the rule उपधायां च (*upadhāyāṃ ca*); because the sarvadhātuka is unaccented the root accent remains; nominative singular).
+
+*[Three readings, one in the Saṃhitā of Ṛk 9 and two in the Pada of Ṛk 10, are marked with a query, as they differ from the other lines.]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> सूर्ये॑ वि॒षमा स॑जामि॒ दृतिं॒ सुरा॑वतो गृ॒हे ।
+> सो चि॒न्नु न म॑राति॒ नो व॒यं म॑रामा॒रे अ॑स्य॒ योज॑नं
+> हरि॒ष्ठा मधु॑ त्वा मधु॒ला च॑कार ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> सूर्ये । विषं । आ । सजामि । दृतिं । सुरावतः । गृहे ।
+> सः । चित् । नु । न । मराति । नो इति । वयं । मराम । आरे । आस्य [?] । योजनं ।
+> हरिस्थाः [?] । मधु । त्वा । मधुला । चकार ॥ १० ॥
+
+> *sūrye | viṣaṃ | ā | sajāmi | dṛtiṃ | surāvataḥ | gṛhe |*
+> *saḥ | cit | nu | na | marāti | no iti | vayaṃ | marāma | āre | āsya [?] | yojanaṃ |*
+> *haristhāḥ [?] | madhu | tvā | madhulā | cakāra ‖ 10 ‖*
+
+### Printed p. 356
+
+*Running head (as supplied): [356 सायणभाष्यसहिता [ मं. १. अ. २४. सू. १९१.] (*[356 sāyaṇabhāṣyasahitā [ maṃ. 1. a. 24. sū. 191.]*).*
+
+**॥ सायणभाष्यम् ॥**
+
+> आदित्यमंडले चतुर्थेनांगुलिना विषमादाय मधुकृत्य योजयित्वा
+> निर्विषो भवेदिति यदेतद्विषविद्यायामुक्तं तदिदमत्तोच्यते । अहं विषावृतोS-
+> गस्यः सूर्यॆ सर्वस्य प्रेरयितरि मधुविद्यारूपे सूर्यमंडले विषमावृत्य
+> वर्तमानं सूर्य आ सजामि । आसक्तं करोमि । तत्र दृष्टांतः । सुरावतो गृहे
+> सुरानिर्मातृसदने दृतिमिव चर्ममयं सुरापात्रमिव । यथा तत्कर्तुर्न दोषाय
+> भवति तद्वद्विषमादित्यस्य न बाधकमित्यर्थः । सो चित् स । चित् पूजायं । उः
+> प्रसिद्धौ । पूज्यः स सूर्यः खलु न मराति । न म्रियते । नो वयं मराम ।
+> तदनुग्रहात्तत्रैव विषस्य योजितत्वाद्वयमपि न म्रियामहै । उभयोरमरणे
+> कारणमाह । हरिष्ठाः । हरयोऽश्वाः । तेषु स्थित आदित्य आरे दूरेऽस्य विषस्य
+> योजनं प्रापणं चकार । तदेवोच्यते । हे विष त्वा त्वां मध्वमृतं चकार ।
+> विषस्य विषभावं दूरेऽपनोद्यामृतीचकारेति । एसैव मधुला मधुदात्रि निर्विषी-
+> कर्त्रि मधुविद्या । यदेतदादित्यस्य विषयोजनं तेन चामृतीकरणं यदस्ति एषा
+> मधुविद्या ॥
+
+*Gist:* The sage places the poison in the sun's disc, like a wine-bag in a distiller's house; neither sun nor we die; honey-lore makes it nectar.
+
+*[As supplied, a line reading प्रपदार्थ (*prapadārtha*) stands inside the bhāṣya block where the Pratipadārtha label belongs; the following lines carry block marks in the supplied text and are given as prose; standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुरावतः—सुरॆयन्नु ( मद्यवन्नु ) तयारिसतक्कवन मनॆयल्लि (*surāvataḥ—surèyannu ( madyavannu ) tayārisatakkavana manèyalli*) (in the house of one who prepares liquor (wine)). दृतिं इव—सुरॆ यन्नु तुंबुव चीलवन्नु इडुवंतॆ (*dṛtiṃ iva—surè yannu tuṃbuva cīlavannu iḍuvaṃtè*) (as one places the bag in which liquor is filled). विषं—नम्म सुत्तलू व्यापिसिरुव विषवन्नु (*viṣaṃ—namma suttalū vyāpisiruva viṣavannu*) (the poison spread around us). सूर‍्यॆ— सूर‍्य मंडलदल्लि (बिसलिनल्लि) (*sūryè— sūrya maṃḍaladalli (bisalinalli)*) (in the disc of the sun (in the sunshine)). आ सजामि—संयोजिसुत्तेनॆ, (इडुत्तेनॆ) (*ā sajāmi—saṃyojisuttenè, (iḍuttenè)*) (I join, I place). सो चित्—पूज्य नाद आ सूर‍्यनादरो (*so cit—pūjya nāda ā sūryanādaro*) (that revered sun, however). नु—खंडितवागियू (*nu—khaṃḍitavāgiyū*) (certainly). न मराति—मरणवन्नु हॊंदुवुदिल्ल (*na marāti—maraṇavannu hòṃduvudilla*) (does not die). नो वयं मराम—अवन अनुग्रहदिंद नावू मरणवन्नु हॊंदुवुदिल्ल (*no vayaṃ marāma—avana anugrahadiṃda nāvū maraṇavannu hòṃduvudilla*) (by his favour we too do not die). आरे-दूरदल्लिद्दरू सह (*āre-dūradalliddarū saha*) (even though far away). हरिष्ठाः—अश्वगळ मेलॆ आरूढनागिरुव सूर‍्यनु (*hariṣṭhāḥ—aśvagaḷa melè ārūḍhanāgiruva sūryanu*) (the sun mounted on horses). अस्य—ई विषद (*asya—ī viṣada*) (of this poison). योजनं—संपर्क वन्नु हॊंदिदनु (ई विषद शक्तियु ननगॆ प्रसरिसदंतॆ माडिदनु) (ऎलै विषवे) (*yojanaṃ—saṃparka vannu hòṃdidanu (ī viṣada śaktiyu nanagè prasarisadaṃtè māḍidanu) (èlai viṣave)*) (came into contact (made the force of this poison not spread to me) (O poison)). मधुला— मधुविद्यॆयु (*madhulā— madhuvidyèyu*) (the honey-lore). त्वा—निन्नन्नु (*tvā—ninnannu*) (you). मधु चकार—अमृतवन्नागि परिवर्तिसिदॆ (*madhu cakāra—amṛtavannāgi parivartisidè*) (turned into nectar).
+
+**भावार्थ (Bhāvārtha)**
+
+As one places the bag in which liquor is filled in the house of one who prepares liquor, I place the poison spread around us in the disc of the sun. That revered sun, however, certainly does not die; by his favour we too do not die. Even though far away, the sun mounted on horses came into contact with this poison and made its force not spread to us. O poison, the honey-lore has turned you into nectar.
+
 ---
 
-**Progress note:** Done through printed p. 352 (PDF 352). Sukta 191 Rik 7 complete; Rik 8 complete through the Special Topics (yatudhanas); grammar page of Rik 8 begun; three readings marked with a query
+**Progress note:** Done through printed p. 356 (PDF 356). Sukta 191 Rik 8 grammar complete; Rik 9 complete; Rik 10 complete through the Bhavartha; three readings marked with a query
