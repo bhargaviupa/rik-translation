@@ -11002,6 +11002,112 @@ The page explains: भिनद्मि (*bhinadmi*) (root भिदिर् �
 
 *(The supplied text ends with the bhāṣya of Ṛk 16; its Pratipadārtha, Bhāvārtha and the rest follow in the next window.)*
 
+### Printed p. 371
+
+*Running head (as supplied): [अ. २. अ ५. व. १६.] ऋग्वेदसंहिता 371 (*[a. 2. a 5. va. 16.] ṛgvedasaṃhitā 371*).*
+
+*(Continuation of Ṛk 16 of Sūkta 191, after its bhāṣya.)*
+
+*[As supplied, a line reading प्रतिकूलार्थ (*pratikūlārtha*) stands, with block marks, where the Pratipadārtha label belongs, and the following lines carry block marks in the supplied text; they are given as prose; standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+गिरेः—(ई रीतियल्लि अगस्त्य ऋषियु प्रार्थिसिदनंतर) गिरियिंद (*gireḥ—(ī rītiyalli agastya ṛṣiyu prārthisidanaṃtara) giriyiṃda*) (from the hill (after Sage Agastya had prayed in this way)). प्रवर्तमानकः— शीघ्रवागि ऋषियन्नु समीपिसि (*pravartamānakaḥ— śīghravāgi ṛṣiyannu samīpisi*) (hastening up to the sage). कुषुंभकः—मुंगसियु (*kuṣuṃbhakaḥ—muṃgasiyu*) (the mongoose). तदब्रवीत्—ई रीतियल्लि हेळितु (*tadabravīt—ī rītiyalli heḷitu*) (spoke thus). वृश्चिकस्य—विषधरवाद वृश्चिकद (*vṛścikasya—viṣadharavāda vṛścikada*) (of the poisonous scorpion). विषं—विषवु (*viṣaṃ—viṣavu*) (poison). अरसं—शक्तिरहितवादुदु. (आदुदरिंद हिंसात्मकवल्लद्दु) (*arasaṃ—śaktirahitavādudu. (ādudariṃda hiṃsātmakavalladdu)*) (powerless (therefore not harmful)). वृश्चिक—ऎलै वृश्चिकवे (*vṛścika—èlai vṛścikave*) (O scorpion). ते विषं—निन्न विषवु (*te viṣaṃ—ninna viṣavu*) (your poison). अरसं—शक्तिरहितवादुदु. (*arasaṃ—śaktirahitavādudu.*) (powerless).
+
+**भावार्थ (Bhāvārtha)**
+
+After it had been recited in this way by the sage Agastya, the mongoose that had come quickly out of the hill approached the sage and said: "The poison of the poisonous scorpion is powerless. O scorpion, your poison has no power. It cannot do harm to anyone."
+
+*[As supplied, the label line of the printed English reads Englih Tranlation (*Englih Tranlation*) (sic), run on without a blank line; standard label inserted.]*
+
+**Printed English translation**
+
+Hastening forth at the command (of Agastya), thus spoke the mungoose.—The venom of the scorpion is innocuous, scorpion, your venom is innocuous.
+
+*[As supplied, the label line of the Special Topics reads विशेषयगळु (*viśeṣayagaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 16)**
+
+कुषुंभकस्तत् (*kuṣuṃbhakastat*): this last ṛk (of the sūkta, or of the maṇḍala) is used in the *dadhisaktu* homa in the rite called अध्यायोपा कर्म (*adhyāyopā karma*) (as divided by the printed line break) or उत्सर्जन (*utsarjana*), as explained by the Āśvalāyana Gṛhya Sūtra in the sūtra दधिसक्तूञ्ज्होतीत्युपक्रम्य कुषुंभकस्तदब्रवीत् (*dadhisaktūñjhotītyupakramya kuṣuṃbhakastadabravīt*) (आ. गृ. सू. ३-५-५ (*ā. gṛ. sū. 3-5-5*)).
+
+In the above *adhyāyopākarma* and *utsarjana* procedures, when the *dadhisaktu* homa is performed, the students of the Ṛgveda recite and offer the first ṛk of each maṇḍala, अग्निमाळे पुरोहितं (*agnimāḷe purohitaṃ*) (as printed) (ऋ. सं. १-१-१ (*ṛ. saṃ. 1-1-1*)), and the last ṛk of the maṇḍala, कुषुंबकस्तदब्रवीत् (*kuṣuṃbakastadabravīt*) (as printed) (ऋ. सं. १-१९१-१६ (*ṛ. saṃ. 1-191-16*)); then likewise the first ṛk of the second maṇḍala, त्वमग्ने द्युभिस्तृमाशुशुक्षणिः (*tvamagne dyubhistṛmāśuśukṣaṇiḥ*) (ऋ. सं. २-१-१ (*ṛ. saṃ. 2-1-1*)), and the last ṛk of the same maṇḍala, आवदंस्त्वं शकुने भद्रमा वद (*āvadaṃstvaṃ śakune bhadramā vada*) (ऋ सं. २-४३-३ (*ṛ saṃ. 2-43-3*)). In the same way, up to the tenth maṇḍala, they recite and offer the first and last ṛks of each maṇḍala, that is, twenty ṛks in all.
+
+गिरेः प्रवर्तमानकः (*gireḥ pravartamānakaḥ*): it means coming out at once from the holes and the like at the foot of the hill. In the previous ṛk the sage Agastya addressed the mongoose: destroy the poison in the body, or I will crush you with a stone; as soon as he said this, the mongoose, frightened, came out at once from the hole region of the mountain, its dwelling place (printed निनासस्थान (*nināsasthāna*)), and said this (the next sentence) in order to console the sage Agastya; this is the purport.
+
+### Printed p. 372
+
+*Running head (as supplied): [372 सायणभाष्यसहिता [मं. १. अ. २४. सू. १९१] (*[372 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24. sū. 191]*).*
+
+In the matter of this sūkta the scholar Wilson ऎंब पंडितनु (*Wilson èṃba paṃḍitanu*) writes as follows:
+
+> M. Langlois has preferred a totally different interpretation of this sukta, understanding it to allude to the state of the sky before the commencement of a sacrifice ; he, therefore, interprets ವಿಷ by darkness. Which is dispersed by the morning light, or by the rays of the sun ; On what authority this view of the intention of the hymn is founded has not been stated ; nothing of the kind is intimated by Sayana whose interpretation is confirmed by the legendary application of the hymn as related by ಶೌನಕ by the corresponding text of the ಅಥರ್ವಣ ; there are no doubt, many expressions of doubtful import, and some which are used in other places, as in the ಯಜುರ್ವೇದ, in a different acceptation ; but the interpretation given by Sayana appears to be most consistent with the general purport of the text.
+
+*[The English quotation of the supplied text contains the Kannada words विष (*viṣa*), शौनक (*śaunaka*), अथर्वण (*atharvaṇa*) and यजुर्वेद (*yajurveda*) inside the English sentences, as supplied; the printed line-end hyphen in "understan- ding" is joined.]*
+
+वृश्चिकस्यारसं विषमरसं वृश्चिक ते विषं (*vṛścikasyārasaṃ viṣamarasaṃ vṛścika te viṣaṃ*): this sentence was said by the mongoose for the removal of poison. In the world, when poisonous creatures such as scorpions, or poisonous snakes, bite people, they become distraught with fear that they will die. That fear, more than the poison, is effective as a cause of death. Therefore it is the custom of the wise, speaking to people bitten by a snake, to say: "Do not fear, it was not a poisonous snake, no harm comes from it, you will be cured at once", telling a lie (even though a poisonous snake has bitten) and so removing the fear. If the fear is removed, the dread of the poison spreading in the body is not so great, and there is a chance of surviving. Following this policy, the mongoose came out at once from the hole in the mountain and said to the sage Agastya, who was suffering from the suspicion of poison: "O scorpion, your poison is not sharp; it is powerless." In this sentence the repetition वृश्चिकस्य अरसं विषं (*vṛścikasya arasaṃ viṣaṃ*) is to be understood as for emphasizing the meaning of the sentence. The reason the mongoose addressed the scorpion is: "O sage Agastya, a snake has not bitten you; a scorpion with little poison may have bitten. Nothing troublesome comes from a scorpion's bite. Why do you grieve over it?" With the aim of consoling, it said that the scorpion's poison is powerless and not sharp like a snake's poison; there is no need to fear on this account; the main purport is that this was said according to the policy of the world.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 16, noted briefly)
+
+The page explains: अब्रवीत् (*abravīt*) (root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*); *luṅ*, first person singular, *tip*; elision of the *i* by the rule इतश्च (*itaśca*); the augment *īṭ* by the rule ब्रुवईट् (*bruvaīṭ*) (पा. सू. ७-३-९३ (*pā. sū. 7-3-93*)); *guṇa* and *av* for the root's *u*; the augment *aṭ* for the stem; the verbal *nighāta* accent).
+
+### Printed p. 373
+
+*Running head (as supplied): [अ. २. अ ५. व. १६] ऋग्वेदसंहिता 373 (*[a. 2. a 5. va. 16] ṛgvedasaṃhitā 373*).*
+
+(The grammar page of Ṛk 16 continues.) प्रवर्तमानकः (*pravartamānakaḥ*) (प्रवर्तमान एव प्रवर्तकः (*pravartamāna eva pravartakaḥ*); the suffix *ka* in the same sense, or when the sense "small" is shown; the acute by the accent of the suffix); वृश्चिकस्य (*vṛścikasya*) (by the rule वृश्चिकृषोः किकिन् (*vṛścikṛṣoḥ kikin*) (उ. सू. १-१६८ (*u. sū. 1-168*)) the suffix *kikan*; because it is marked *n*, the acute on the first syllable).
+
+*(The Ṛk 16 of the sūkta ends here; no colophon line is printed in the supplied text, and the following supplementary verses begin.)*
+
+प्रथममंडलस्यांते परितव्यानि विलसूक्तानि (परिशिष्टानि) (*prathamamaṃḍalasyāṃte paritavyāni vilasūktāni (pariśiṣṭāni)*) (the heading as printed: "at the end of the first maṇḍala, the supplementary sūktas [*khila*], the appendices, are to be recited"):
+
+*[The supplementary verses that follow, printed as plain lines, are given as a block.]*
+
+> मा बिभेर्न मरिष्यसि परि त्वा सामि सर्वतः ।
+> घनेन हन्मि वृश्चिकमहिं दंडेनागतं ॥ १ ॥
+> आदित्यरथवेगेन विष्णु बाहुबलेन च ।
+> गरुडपक्षनिपातेन भूमिं गच्छ महायशाः ॥ २ ॥
+> गरुडस्य पातमात्रेण त्रयो लोकाः प्रकंपिताः ।
+> प्रकंपिता मही सर्वा सशैलवनकानना ॥ ३ ॥
+> गगनं नष्टचंद्रार्कं ज्योतिषं न प्रकाशते ।
+> देवता भयभीताश्च मारुतो न प्लवायति ॥
+> मारुतो न प्लवायत्यों नमः ॥ ४ ॥
+> भो सर्प भद्र भद्रं ते दूरं गच्छ महाविष ।
+> जन्मेजयस्य यज्ञांते आस्तीकवचनं स्मर ॥ ५ ॥
+> आस्तीकवचनं श्रुत्वा यः सर्पो न निवर्तते ।
+> शतधा भिद्यते मूर्ध्नि शिंशवृक्षफलं यथा ॥ ६ ॥
+> नर्मदायै नमः प्रातरनर्मदायै नमो निशि ।
+> नमोऽस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः ॥ ७ ॥
+> यो जरत्कारुणा जातो जरत्कार्वां महायशाः ।
+> तस्य स्मरामि भद्रं ते दूरं गच्छ महाविष ॥ ८ ॥
+> असितिं चार्थसिद्धिं च सुनीतिं चापि यः स्मरेत् ।
+> दिवा वा यदि ना रात्नास्ति सर्पभयं भवेत् ॥ ९ ॥
+> अगस्तिर्माधवश्चैव मुचुकुंदो महामुनिः ।
+> कपिलो मुनिरास्तीकः पंचैते सुखशायिनः ॥ १० ॥
+
+> *mā bibherna mariṣyasi pari tvā sāmi sarvataḥ |*
+> *ghanena hanmi vṛścikamahiṃ daṃḍenāgataṃ ‖ 1 ‖*
+> *ādityarathavegena viṣṇu bāhubalena ca |*
+> *garuḍapakṣanipātena bhūmiṃ gaccha mahāyaśāḥ ‖ 2 ‖*
+> *garuḍasya pātamātreṇa trayo lokāḥ prakaṃpitāḥ |*
+> *prakaṃpitā mahī sarvā saśailavanakānanā ‖ 3 ‖*
+> *gaganaṃ naṣṭacaṃdrārkaṃ jyotiṣaṃ na prakāśate |*
+> *devatā bhayabhītāśca māruto na plavāyati ‖*
+> *māruto na plavāyatyoṃ namaḥ ‖ 4 ‖*
+> *bho sarpa bhadra bhadraṃ te dūraṃ gaccha mahāviṣa |*
+> *janmejayasya yajñāṃte āstīkavacanaṃ smara ‖ 5 ‖*
+> *āstīkavacanaṃ śrutvā yaḥ sarpo na nivartate |*
+> *śatadhā bhidyate mūrdhni śiṃśavṛkṣaphalaṃ yathā ‖ 6 ‖*
+> *narmadāyai namaḥ prātaranarmadāyai namo niśi |*
+> *namo 'stu narmade tubhyaṃ trāhi māṃ viṣasarpataḥ ‖ 7 ‖*
+> *yo jaratkāruṇā jāto jaratkārvāṃ mahāyaśāḥ |*
+> *tasya smarāmi bhadraṃ te dūraṃ gaccha mahāviṣa ‖ 8 ‖*
+> *asitiṃ cārthasiddhiṃ ca sunītiṃ cāpi yaḥ smaret |*
+> *divā vā yadi nā rātnāsti sarpabhayaṃ bhavet ‖ 9 ‖*
+> *agastirmādhavaścaiva mucukuṃdo mahāmuniḥ |*
+> *kapilo munirāstīkaḥ paṃcaite sukhaśāyinaḥ ‖ 10 ‖*
+
+परिशिष्टमंत्रद मुख्याभिप्रायवु—वेदपुरुषनु ई सूक्तजपमाडुव पुरुषनन्नु (*pariśiṣṭamaṃtrada mukhyābhiprāyavu—vedapuruṣanu ī sūktajapamāḍuva puruṣanannu*) (the main purport of the appendix mantra: the Vedapuruṣa has spoken thus about the man who recites this sūkta): "Do not fear that a snake has bitten you and that poison is rising; you will not die; I myself shall protect you in all places. Whether it is a scorpion or a snake, striking it with a strong stick..." (the supplied text ends here, in the middle of the sentence, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 370 (PDF 370). Sukta 191 Rik 14 complete; Rik 15 complete; Rik 16 Samhita, Pada and bhashya only; unmarked p. 370 head handled; four readings marked with a query
+**Progress note:** Done through printed p. 373 (PDF 373). Sukta 191 Rik 16 complete; supplementary (parisishta) verses begun: heading, verse block and the start of the Kannada commentary
