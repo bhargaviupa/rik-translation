@@ -2457,6 +2457,104 @@ Grammar notes, noted briefly. वनस्पते (*vanaspate*): being listed 
 > *jāyamānaḥ |*
 > *taṃ | dhīrāsaḥ | kavayaḥ | ut | nayaṃti | suādhyaḥ | manasā | devayaṃtaḥ ‖ 4 ‖*
 
+### Printed p. 89
+
+*[Running head, p. 89: [A. 3. A. 1. V. 3] Ṛgvedasaṃhitā 89]*
+
+**॥ सायणभाष्यम् ॥**
+
+> युवा दृढांगोष्टाश्रादिलक्षणलक्षित इत्यर्थः । सुवासाः शोभनेन वाससा
+> रशनया युक्तः ; परिवीतस्तया रशनया वेष्टितः । एवंविधो यूप आगात् । आग-
+> च्छति । स उ स एव यूपः श्रेयान् जायमानः सर्वेभ्यो वनस्पतिभ्य उत्कृष्टत-
+> या संपद्यमानो भवति । तमेवंविधं यूपं धीरासः प्राज्ञा मनसा देवयं-
+> तो देवान् कामयमानाः स्वाध्यः सुष्टु सर्वतो ध्यानयुक्ताः कवयः क्रांत-
+> दर्शिनोद्वर्यादय उन्नयंति । उन्नतं कुर्वंति । एतस्मिन्नर्थे ब्राह्मणं ।युवा
+> सुवासाः परिवीत आगादित्युत्तमया परिदधाति प्राणो वै युवा सुवासाः सोऽयं
+> शरीरैः परिवृतः स उ श्रेयान्भवति जायमान इति।श्रेयाञ्छीयान्छेष एतद्भवति
+> जायमानस्तं धीरासः कवय उन्नयंति स्वाध्यो मनसा देवयंत इति ये वा
+> अनूचानास्ते कवयस्त एवै नं तदुन्नयंति । ऐ. ब्रा. २-२ । इति ॥ युवा । यौतेः
+> कनिन्युवृषितक्षीत्यादिना कनिन्प्रत्ययः । कित्ताद्गुणाभावः । उवजादेशः । नित्त्वादा-
+> द्युदात्तत्वं । सुवासाः । वस आच्छादने । असुन्नित्यनुवृत्तौ वसेर्णिदिश्यसुन्प्रत्ययः ।
+> णित्त्वादुपदावृद्धिः । सोर्मनसी इत्युत्तरपदाद्युदात्तत्वं । परिवीतः । वैञ्
+> संवरणे । कर्मणि क्तः । यजादित्वात्संप्रसारणं । गतिरनंतर इति पूर्वपदप्रकृति-
+> स्वरत्वं ! अगात् । इण् गतावित्यस्य लुङ्ख इणो गा लुङ्खोति गादेशः । गातिस्थेति
+> सिचो लोपः । अडागमः । श्रेयान् । प्रशस्यस्य द्विवचनविभज्योपपद इतीयसु-
+> न्प्रत्ययः । तस्मिन्प्रशस्यस्य श्र इति श्रादेशः । गुणः । नित्त्वादाद्युदात्तत्वं । एका-
+> देश आद्युदात्तः । स्वाध्यः । धै चिंतायां । स्वाजोरुपसर्गयोः प्राक्प्र-
+> योगः । अन्वेभ्योऽपि दृश्यंत इति क्विप् । दृशिग्रहणात्मंप्रसारणं । संप्रसा
+> रणाच्चेति पूर्वरूपत्वं । हल इति दीर्घः । जसि एरनेकाच इति यणादेशः । कृदु-
+> त्तरपदप्रकृतिस्वरत्वं । उदात्तस्वरितयोर्यण इति जसः स्वरितत्वं । देवयंतः । सुप
+> आत्मनः क्यजिति क्यच् । चित्वादंतोदात्तः ।
+
+> *yuvā dṛḍhāṃgoṣṭāśrādilakṣaṇalakṣita ityarthaḥ | suvāsāḥ śobhanena vāsasā*
+> *raśanayā yuktaḥ ; parivītastayā raśanayā veṣṭitaḥ | evaṃvidho yūpa āgāt | āga-*
+> *cchati | sa u sa eva yūpaḥ śreyān jāyamānaḥ sarvebhyo vanaspatibhya utkṛṣṭata-*
+> *yā saṃpadyamāno bhavati | tamevaṃvidhaṃ yūpaṃ dhīrāsaḥ prājñā manasā devayaṃ-*
+> *to devān kāmayamānāḥ svādhyaḥ suṣṭu sarvato dhyānayuktāḥ kavayaḥ krāṃta-*
+> *darśinodvaryādaya unnayaṃti | unnataṃ kurvaṃti | etasminnarthe brāhmaṇaṃ |yuvā*
+> *suvāsāḥ parivīta āgādityuttamayā paridadhāti prāṇo vai yuvā suvāsāḥ so 'yaṃ*
+> *śarīraiḥ parivṛtaḥ sa u śreyānbhavati jāyamāna iti|śreyāñchīyāncheṣa etadbhavati*
+> *jāyamānastaṃ dhīrāsaḥ kavaya unnayaṃti svādhyo manasā devayaṃta iti ye vā*
+> *anūcānāste kavayasta evai naṃ tadunnayaṃti | ai. brā. 2-2 | iti ‖ yuvā | yauteḥ*
+> *kaninyuvṛṣitakṣītyādinā kaninpratyayaḥ | kittādguṇābhāvaḥ | uvajādeśaḥ | nittvādā-*
+> *dyudāttatvaṃ | suvāsāḥ | vasa ācchādane | asunnityanuvṛttau vaserṇidiśyasunpratyayaḥ |*
+> *ṇittvādupadāvṛddhiḥ | sormanasī ityuttarapadādyudāttatvaṃ | parivītaḥ | vaiñ*
+> *saṃvaraṇe | karmaṇi ktaḥ | yajāditvātsaṃprasāraṇaṃ | gatiranaṃtara iti pūrvapadaprakṛti-*
+> *svaratvaṃ ! agāt | iṇ gatāvityasya luṅkha iṇo gā luṅkhoti gādeśaḥ | gātistheti*
+> *sico lopaḥ | aḍāgamaḥ | śreyān | praśasyasya dvivacanavibhajyopapada itīyasu-*
+> *npratyayaḥ | tasminpraśasyasya śra iti śrādeśaḥ | guṇaḥ | nittvādādyudāttatvaṃ | ekā-*
+> *deśa ādyudāttaḥ | svādhyaḥ | dhai ciṃtāyāṃ | svājorupasargayoḥ prākpra-*
+> *yogaḥ | anvebhyo 'pi dṛśyaṃta iti kvip | dṛśigrahaṇātmaṃprasāraṇaṃ | saṃprasā*
+> *raṇācceti pūrvarūpatvaṃ | hala iti dīrghaḥ | jasi eranekāca iti yaṇādeśaḥ | kṛdu-*
+> *ttarapadaprakṛtisvaratvaṃ | udāttasvaritayoryaṇa iti jasaḥ svaritatvaṃ | devayaṃtaḥ | supa*
+> *ātmanaḥ kyajiti kyac | citvādaṃtodāttaḥ |*
+
+Gist: the yūpa is strong-limbed (youthful) and well clad, girt about with the rope; it comes and becomes the best of all trees, and the wise priests, desiring the gods, raise it up. The Aitareya-Brāhmaṇa passage is cited (Ai. Brā. 2-2, printed ऐ. ब्रा. २-२ (*ai. brā. 2-2*)). The grammatical tail covers युवा (*yuvā*), सुवासाः (*suvāsāḥ*), परिवीतः (*parivītaḥ*), अगात् (*agāt*), श्रेयान् (*śreyān*), स्वाध्यः (*svādhyaḥ*) and देवयंतः (*devayaṃtaḥ*) (not transcribed further here).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+युवा (*yuvā*): strong-limbed. सुवासाः (*suvāsāḥ*): having good cloth (rope). परिवीतः (*parivītaḥ*): (by it) surrounded; the yūpa so described. आगात् (*āgāt*): comes. सः उ (*saḥ u*): that very yūpa. श्रेयान् जायमानः भवति (*śreyān jāyamānaḥ bhavati*): is excellent (above all trees). तं (*taṃ*): that yūpa. धीरासः (*dhīrāsaḥ*): the wise. मनसा (*manasā*): with the mind. देवयंतः (*devayaṃtaḥ*): desiring the gods. स्वाध्यः (*svādhyaḥ*): those who meditate well. कवयः (*kavayaḥ*): the far-seeing adhvaryus and others. उत् नयंति (*ut nayaṃti*): raise upward.
+
+**भावार्थ (Bhāvārtha)**
+
+The strong yūpa, covered with good cloth, comes; that same yūpa is regarded as the most excellent of all trees; this very yūpa, the wise ones, who desire the gods to come to the sacrifice, who are intent on meditation, far-seeing, the adhvaryu
+
+### Printed p. 90
+
+*[Running head, p. 90: 90 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+(Bhāvārtha, continued from p. 89:) and others, raise upward.
+
+**Printed English translation**
+
+Well clad and hung with wreaths comes the youthful (pillar): most excellent it is as soon as generated : steadfast and wise venerators of the gods. meditating [sic, lower case after the full stop, as printed] piously in their minds raise it up.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+युवा—दृढांग: अष्टाश्रादिलक्षणलक्षितः (*yuvā—dṛḍhāṃga: aṣṭāśrādilakṣaṇalakṣitaḥ*) — The tree brought from the forest for the yūpa is hewn so that it has eight corners and is then planted. This is what Sāyaṇa explains as "having strong limbs (aṅga, parts)" and as having eight edges, being in the prescribed manner.
+
+सुवासाः—शोभनेन वाससा रशनया युक्तः (*suvāsāḥ—śobhanena vāsasā raśanayā yuktaḥ*) — The yūpa, surrounded with excellent cloth and with rope, सर्वेभ्यो वनस्पतिभ्य उत्कृष्टतया संपद्यमानो भवति (*sarvebhyo vanaspatibhya utkṛṣṭatayā saṃpadyamāno bhavati*): the meaning is described as being better than all the trees in the forest.
+
+कवयः मनसा देवयंतः स्वाध्यः उन्नयंति (*kavayaḥ manasā devayaṃtaḥ svādhyaḥ unnayaṃti*) — By this sentence the meaning is explained: the wise priests, the adhvaryu and others, meditating on the gods and invoking them to the sacrifice, regard this yūpa as most excellent and lift it up in order to plant it. The word kavi is listed among the names of the wise (Ni. 3-19). मेधावी कविः क्रांतदर्शनो भवति कवतेर्वा (*medhāvī kaviḥ krāṃtadarśano bhavati kavatervā*): thus the word kavi is explained (Ni. 12-13). Sāyaṇa cites the following passage of the Aitareya-Brāhmaṇa for this meaning:
+
+एतस्मिन्नर्थेब्राह्मणं भवति—युवा सुवासाः परिवीत आगादित्युत्तमया परिदधाति प्राणो वै युवा सुवासाः सोऽयं शरीरैः परिवृतः स उ श्रेयान् भवति जायमान इति श्रेयाञ्प्रेयान्हैष एतद्भवति जायमानस्तं धीरासः कवय उन्नयंति स्वाध्यो मनसा देवयंत इति ये वा अनूचानास्ते कवयस्त एवैनं तदुन्नयंति (*etasminnarthebrāhmaṇaṃ bhavati—yuvā suvāsāḥ parivīta āgādityuttamayā paridadhāti prāṇo vai yuvā suvāsāḥ so 'yaṃ śarīraiḥ parivṛtaḥ sa u śreyān bhavati jāyamāna iti śreyāñpreyānhaiṣa etadbhavati jāyamānastaṃ dhīrāsaḥ kavaya unnayaṃti svādhyo manasā devayaṃta iti ye vā anūcānāste kavayasta evainaṃ tadunnayaṃti*) (printed इ. ब्रा. २-२ (*i. brā. 2-2*), i.e. Ai. Brā. 2-2, with "I." for "Ai." as printed).
+
+**Vyākaraṇa-prakriyā**
+
+Grammar notes, noted briefly. युवा (*yuvā*): root यु मिश्रणामिश्रणयोः (*yu miśraṇāmiśraṇayoḥ*), suffix kanin by कनिन्युवृषि (*kaninyuvṛṣi*) (Uṇ. 1-156); because the suffix is marked k there is no guṇa of the root vowel; replacement uva by अचिश्नुधातु (*aciśnudhātu*) (Pā. 6-4-77); the word yuvan; initial udātta because the suffix is marked ṇit.
+
+### Printed p. 91
+
+*[Running head, p. 91: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 91]*
+
+(Grammar notes, continued.) सुवासाः (*suvāsāḥ*): root वस आच्छादने (*vasa ācchādane*), asun carried over by anuvṛtti; by वसेर्णित् (*vaserṇit*) (Uṇ. 4-657) it acts as ṇit; vṛddhi of the penultimate vowel by अत उपधायाः (*ata upadhāyāḥ*) (Pā. 7-2-116); in the compound, ending in asun, initial udātta of the latter member by सोर्मनसी (*sormanasī*) (Uṇ. 6-2-107, as printed). परिवीतः (*parivītaḥ*): root व्येञ् संवरणे (*vyeñ saṃvaraṇe*), kta in the passive; samprasāraṇa by वचिस्वपियजादीनां किति (*vacisvapiyajādīnāṃ kiti*) (Pā. 6-1-15); lengthening of the earlier form; the gati (pari) keeps its own accent by गतिरनंतर: (*gatiranaṃtara:*) (Pā. 6-2-49, as printed). अगात् (*agāt*): root इण् गतौ (*iṇ gatau*); luṅ, sip, loss of i; gā substitution by इणोगालुजि (*iṇogāluji*) (Pā. 2-4-45); loss of sic by गातिस्थाघुपा (*gātisthāghupā*) (Pā. 2-4-77, printed "2.4-77"); augment aṭ (the printed word "ಅರಿಗಕ್ಕೆ" is unclear [sic]); finite-verb nighāta accent.
+
+श्रेयान् (*śreyān*): when the sense "most praiseworthy" is intended, suffix īyasun by द्विवचनविभज्योपपदे (*dvivacanavibhajyopapade*) (Pā. 5-3-57); śra substituted for the base by प्रशस्यस्य श्र (*praśasyasya śra*) (Pā. 5-3-60); guṇa; initial udātta because the suffix is marked ṇit. धीरासः (*dhīrāsaḥ*): nominative plural jas; augment asuk by आज्जसेरसुक् (*ājjaserasuk*) (Pā. 7-1-50). नयंति (*nayaṃti*): root णीञ् प्रापणे (*ṇīñ prāpaṇe*); laṭ, third person plural; finite-verb nighāta accent.
+
+साध्यः (*sādhyaḥ*) [sic, as supplied for स्वाध्यः (*svādhyaḥ*) of the Saṃhitā]: root ध्ये चिंतायां (*dhye ciṃtāyāṃ*); with the preverbs su and ā before it, suffix kvip by अन्येभ्योपिदृश्यते (*anyebhyopidṛśyate*) (Pā. 3-2-178); samprasāraṇa of the y of the root (the supplied text reads दृतिग्रहणसामर्थ-दिंद (*dṛtigrahaṇasāmartha-diṃda*), "by the force of the word dṛti-grahaṇa" [sic]); earlier form i by संप्रसारणाच्च (*saṃprasāraṇācca*); lengthening by हलः (*halaḥ*) (Pā. 6-4-2); before jas, yaṇ substitution by एरनेकाचो (*eranekāco*) (Pā. 6-4-82) (the word is given as स्वाधी (*svādhī*)); the accent of the base after the kṛt-latter member; since a following anudātta arises after the yaṇ substitution, it takes svarita by उदात्तस्वरितयोर्यणः (*udāttasvaritayoryaṇaḥ*) (Pā. 8-2-4).
+
+देवयंतः (*devayaṃtaḥ*): देवं आत्मनः इच्छंतः (*devaṃ ātmanaḥ icchaṃtaḥ*); suffix kyac by सुप आत्मनः क्यच् (*supa ātmanaḥ kyac*) (Pā. 3-1-8); after the kyac-ending, laṭ gets the śatṛ substitution; by शास्यनुदात्तेत् (*śāsyanudāttet*) it is anudātta, so the accent of kyac remains; nominative plural.
+
 ---
 
-**Progress note:** Done through printed p. 88 (PDF 88). Done through printed p. 88. Sukta 8 Rk 3 complete (Pratipadartha, Bhavartha, Special Topics, grammar); Rk 4 Samhita and Pada given, bhasya not yet begun.
+**Progress note:** Done through printed p. 91 (PDF 91). Sukta 8 Rk 4 complete (bhasya, Pratipadartha, Bhavartha, printed English, Special Topics, grammar); p. 91 ends Rk 4.
