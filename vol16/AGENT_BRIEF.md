@@ -1,6 +1,6 @@
 # Brief for the translator agent of one Vol 16 window (read this, then do the window you are given)
 
-Repo /home/user/rik-translation, branch claude/vol16 (already checked out). Vol 16 = Maṇḍala 3, translated from the user's machine-read text `vol16/html/rig_16_1.md` (Vol 15 workflow).
+Repo /home/user/rik-translation, branch claude/vol16 (already checked out). Vol 16 = Maṇḍala 3, translated from the user's machine-read text `vol16/html/rig_16.md` (Vol 15 workflow).
 
 1. Read `tools/rv/TRANSLATOR_RULES.md` (follow it exactly) and the last ~60 lines of `vol16/Rigveda_Samhita_Vol16_English_Translation.md` (format; match the existing style). Read the window's `kn.md`.
 2. Write `WIN/en.md` (Sanskrit blocks placed with `[[bN]]`, inline Sanskrit as `⟦Kannada⟧`; never type Devanagari/IAST), then `python3 tools/rv/batch.py build 16 WIN` and `... check 16 WIN` until PASS, then `... commit 16 WIN --note "…"`. The note must NOT contain "Done through" or a page position. The `[?]` limit counts kn.md and en.md together (`--max-doubts N`).
