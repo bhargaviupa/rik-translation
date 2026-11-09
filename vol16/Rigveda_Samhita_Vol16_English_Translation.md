@@ -2555,6 +2555,133 @@ Grammar notes, noted briefly. युवा (*yuvā*): root यु मिश्�
 
 देवयंतः (*devayaṃtaḥ*): देवं आत्मनः इच्छंतः (*devaṃ ātmanaḥ icchaṃtaḥ*); suffix kyac by सुप आत्मनः क्यच् (*supa ātmanaḥ kyac*) (Pā. 3-1-8); after the kyac-ending, laṭ gets the śatṛ substitution; by शास्यनुदात्तेत् (*śāsyanudāttet*) it is anudātta, so the accent of kyac remains; nominative plural.
 
+### Printed p. 92
+
+*[Running head, p. 92: 92 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> जा॒तो जा॑यते सुदिन॒त्वे अह्नां॑ सम॒र्य आ वि॒दथे॒ वर्ध॑-
+> मानः ।
+> पु॒नंति॒ धीरा॑ अ॒पसो॑ मनी॒षा दे॑व॒या विप्र॒ उदि॑यर्ति॒॑
+> वाचं ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> जातः । जायते । सुदिन्यत्वे । अह्नां । समर्ये । आ । विदथे । वर्धमानः ।
+> पुनंति । धीराः । अपसः । मनीषा । देवया: । विप्रः । उत् । इयर्ति । वाचं
+> ॥ ८ ॥
+
+> *jātaḥ | jāyate | sudinyatve | ahnāṃ | samarye | ā | vidathe | vardhamānaḥ |*
+> *punaṃti | dhīrāḥ | apasaḥ | manīṣā | devayā: | vipraḥ | ut | iyarti | vācaṃ*
+> *‖ 8 ‖*
+
+(Verse number printed after the Pada as ८ (*8*), i.e. 8, while the Saṃhitā has 5 [sic, as supplied].)
+
+**॥ सायणभाष्यम् ॥**
+
+> जातः पृथिव्यां प्रथमुमुत्पन्नो यूपः समर्ये । मर्य इति मनुष्य-
+> नाम । तैः सहिते विदथे वर्धमानः । विदथ इति यज्ञनाम विदथः सवनमिति यज्ञ
+> नामसु पाठात् । तस्मिन्यज्ञ आ वर्धमानो धृतांजनरशनापरिव्ययणादिना सर्वतः
+> शोभमानः सन् अह्नां सुदिनत्वे जायते । पशुनियोजनादिद्वारेण यज्ञनिर्वाह-
+> कतयाहानि सुदिनानि करोतीत्यर्थः । अपसः कर्मवंतो धीराः सुप्रज्ञा अध्व-
+> र्यादयो मनीषा बुद्धा तं यूपं पुनंति । प्रक्षलनादिभिः शोधयंति । दे-
+> वया देवानां यष्टा देवानां हवींषि प्रापयिता वा विप्रो मेधावी होता
+> च वाचं यूपविषयां स्तुतिलक्षणां वाचमुदियर्ति । प्रेरयति । उच्चारयतीत्य-
+> र्थः ॥ उक्तार्थे ब्राह्मणं । जातो जायते सुदिनत्वे अह्नामिति जातो हैष एत-
+> ज्जायते समर्य आ विदथे वर्धमान इति वर्धयंत्येवैनं तत्पुनंति धीरा अपसो
+> मनीषेति पुनंत्येवैनं तद्देवया विप्र उदियर्ति वाचमिति देवेभ्य एवैनं तन्नि-
+> वेदयति । ऐ. ब्रा. २-२ ॥ सुदिनत्वे । सुदिनानां भावॆ इति तस्य भावस्वतलाविति त्वः ।
+> प्रत्ययस्वरः । समर्यॆ । मृज् प्राणत्याग इत्यस्माच्छंदसि निष्कर्ष्येति क्यप्रत्ययांत-
+> त्वेन निपातनाद्दुणः । समासस्येत्यंतोदात्तत्वं । पुनंति । पूञ् पवने । क्रादि-
+> त्वाज्ञा । प्वादित्वाद्रस्वः । प्रत्ययस्वरः । देवयाः । या प्रापणे । आतो मनि-
+> न्निति विच् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वं । इयर्ति । ऋ गतौ । जुहोत्यादिः ।
+> अभ्यासस्यार्तिपिपर्श्योश्चीतीत्वं । अभ्यासस्यासवर्ण इतीयजादेशः । निघातः ॥
+
+> *jātaḥ pṛthivyāṃ prathamumutpanno yūpaḥ samarye | marya iti manuṣya-*
+> *nāma | taiḥ sahite vidathe vardhamānaḥ | vidatha iti yajñanāma vidathaḥ savanamiti yajña*
+> *nāmasu pāṭhāt | tasminyajña ā vardhamāno dhṛtāṃjanaraśanāparivyayaṇādinā sarvataḥ*
+> *śobhamānaḥ san ahnāṃ sudinatve jāyate | paśuniyojanādidvāreṇa yajñanirvāha-*
+> *katayāhāni sudināni karotītyarthaḥ | apasaḥ karmavaṃto dhīrāḥ suprajñā adhva-*
+> *ryādayo manīṣā buddhā taṃ yūpaṃ punaṃti | prakṣalanādibhiḥ śodhayaṃti | de-*
+> *vayā devānāṃ yaṣṭā devānāṃ havīṃṣi prāpayitā vā vipro medhāvī hotā*
+> *ca vācaṃ yūpaviṣayāṃ stutilakṣaṇāṃ vācamudiyarti | prerayati | uccārayatītya-*
+> *rthaḥ ‖ uktārthe brāhmaṇaṃ | jāto jāyate sudinatve ahnāmiti jāto haiṣa eta-*
+> *jjāyate samarya ā vidathe vardhamāna iti vardhayaṃtyevainaṃ tatpunaṃti dhīrā apaso*
+> *manīṣeti punaṃtyevainaṃ taddevayā vipra udiyarti vācamiti devebhya evainaṃ tanni-*
+> *vedayati | ai. brā. 2-2 ‖ sudinatve | sudinānāṃ bhāvè iti tasya bhāvasvatalāviti tvaḥ |*
+> *pratyayasvaraḥ | samaryè | mṛj prāṇatyāga ityasmācchaṃdasi niṣkarṣyeti kyapratyayāṃta-*
+> *tvena nipātanādduṇaḥ | samāsasyetyaṃtodāttatvaṃ | punaṃti | pūñ pavane | krādi-*
+> *tvājñā | pvāditvādrasvaḥ | pratyayasvaraḥ | devayāḥ | yā prāpaṇe | āto mani-*
+> *nniti vic pratyayaḥ | kṛduttarapadaprakṛtisvaratvaṃ | iyarti | ṛ gatau | juhotyādiḥ |*
+> *abhyāsasyārtipiparśyoścītītvaṃ | abhyāsasyāsavarṇa itīyajādeśaḥ | nighātaḥ ‖*
+
+Gist: the yūpa, born on earth, grows at the sacrifice attended by men, adorned with ghee, ointment and rope, and makes the days good; skilled priests purify it and the wise hotṛ recites praise of it. The Aitareya-Brāhmaṇa passage is cited (Ai. Brā. 2-2, printed ऐ. ब्रा. २-२ (*ai. brā. 2-2*)). The grammatical tail covers सुदिनत्वे (*sudinatve*), समर्यॆ (*samaryè*), पुनंति (*punaṃti*), देवयाः (*devayāḥ*) and इयर्ति (*iyarti*) (not transcribed further here).
+
+### Printed p. 93
+
+*[Running head, p. 93: [A. 3. A. 1. V. 3] Ṛgvedasaṃhitā 93]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जातः (*jātaḥ*): arisen (first on earth; the yūpa). समर्यॆ (*samaryè*): accompanied by men (priests and others). विदथे (*vidathe*): in the sacrifice. आ वर्धमानः (*ā vardhamānaḥ*): grown on all sides (by ghee, ointment and the like). अह्नां (*ahnāṃ*): of the days. सुदिनत्वे (*sudinatve*): (by being the accomplisher of the sacrifice through the tying of animals and the like) in the goodness of the days. जायते (*jāyate*): (as the cause) becomes. अपसः (*apasaḥ*): devoted to ritual works. धीराः (*dhīrāḥ*): and wise, the adhvaryus and others. मनीषा (*manīṣā*): with intelligence. पुनंति (*punaṃti*): (by washing and the like) make pure. देवयाः (*devayāḥ*): the worshipper of the gods (or the one who offers the oblation to the gods). विप्रः (*vipraḥ*): the intelligent hotṛ. वाचं (*vācaṃ*): (praise-like, concerning the yūpa) speech. उत् इयर्ति (*ut iyarti*): sends forth (utters).
+
+**भावार्थ (Bhāvārtha)**
+
+The yūpa, arisen on the earth, adorned with ghee, ointment and the like in the sacrifices performed by men, becomes the cause of the sanctity of the sacrificial days; the adhvaryus and others, devoted to ritual and wise, make it pure with intelligence through washing and the like; the devout hotṛ praises it.
+
+**Printed English translation**
+
+5. Born (in the forest), and beautiful in the sacrifice celebrated by men, it is (again) engendered for the sanctification of the days (of sacred rites); steadfast, active, and intelligent (priests) consecrate it with intelligence, and the devout worshipper recites its praise.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+समर्यॆ— मर्य इति मनुष्यनाम । तैसहिते (*samaryè— marya iti manuṣyanāma | taisahite*). The word मर्य (*marya*) is listed among the names of man (Ni. 3-8) and is explained as मर्यो मनुष्यो मरणधर्मा (*maryo manuṣyo maraṇadharmā*) (Ni. 3-15) [the printed references are as supplied]; and—
+
+कोनु मर्या अविःथितः सखा सखायमब्रवीत् । जहा को अस्मदीषते ॥ (*konu maryā aviḥthitaḥ sakhā sakhāyamabravīt | jahā ko asmadīṣate ‖*) [the verse is as supplied; the word अविःथितः (*aviḥthitaḥ*) looks like a misreading in the supplied text, left as supplied]
+
+Here मर्याः इति मनुष्यनाम मर्यादाभिधानं वास्यात् । मर्यादा मर्य्य रादीयते मर्यादा मर्यादिनोर्विभागः (*maryāḥ iti manuṣyanāma maryādābhidhānaṃ vāsyāt | maryādā maryya rādīyate maryādā maryādinorvibhāgaḥ*) (Ni. 4-2) [as supplied]: the word मर्या (*maryā*) denotes men, or it may be a boundary. Men divide a boundary. Therefore, the Nirukta-writers have explained that the difference of meaning between the word मर्यादा (*maryādā*) and the word for "those having a boundary" is thus. Sāyaṇa gives the meaning "man" and explains that the sacrifice is accompanied by men.
+
+### Printed p. 94
+
+*[Running head, p. 94: 94 Sāyaṇabhāṣyasahitaṃ [Maṃ. 3. A. 1. Sū. 8]]*
+
+विदथे आ वर्धमानः (*vidathe ā vardhamānaḥ*)—The word विदथ (*vidatha*) is used among the names of the sacrifice (Ni. 3-19), as विदथेषु यज्ञेषु (*vidatheṣu yajñeṣu*) (Ni. 8-12) and यज्ञे विदथे (*yajñe vidathe*) (Ni. 9-3), in the sense of "sacrifice", and in
+
+होता देवो अमर्त्यः पुरस्तादेशि मायया । विदथानि प्र चोदयॆन् । (*hotā devo amartyaḥ purastādeśi māyayā | vidathāni pra codayèn |*) (Ṛ. Saṃ. 3-27-7)
+
+in the sense विदथानि विज्ञानानि (*vidathāni vijñānāni*), "kinds of knowledge". Sāyaṇa explains it as "in the sacrifice", and explains the yūpa as धृतांजनरशनापरिव्ययणादिना सर्वतश्योभमानः (*dhṛtāṃjanaraśanāparivyayaṇādinā sarvataśyobhamānaḥ*) [as supplied]: shining on all sides through sacrificial rites such as smearing ghee on it and winding the rope round it. And this yūpa, पशुनियोजनादिद्दारेण यज्ञनिर्वाहकतॆया अह्नानि सुदिनानि करोति (*paśuniyojanādiddāreṇa yajñanirvāhakatèyā ahnāni sudināni karoti*) [as supplied]: being the means for such works as tying the sacrificial animal, it makes the days on which the sacrifice goes on good, worthwhile days for the sacrificers; thus the excellence of the yūpa is described.
+
+अपसः धीराः पुनंति (*apasaḥ dhīrāḥ punaṃti*)—Among the twenty-six words for works, the word अपस् (*apas*) is stated (Ni. 3-2), the words being अपः अप्पः दंसः (*apaḥ appaḥ daṃsaḥ*) [as supplied]. The word धीरः (*dhīraḥ*) is stated among the names of the intelligent (Ni. 3-19) and used in the sense धीरो धीमान् (*dhīro dhīmān*) (Ni. 3-12). Sāyaṇa interprets the word धीर (*dhīra*) as "knowing, wise" and explains that the learned priests, the adhvaryu and others, make the yūpa pure (cleansed) in the sacrificial works by the respective rites.
+
+देवयाः विप्रः वाचमुदियर्ति (*devayāḥ vipraḥ vācamudiyarti*)—The word विप्र (*vipra*) is stated among the names of the intelligent (Ni. 3-12). The word देवयाः (*devayāḥ*) is explained in two ways: देवानां यष्टा (*devānāṃ yaṣṭā*), one who performs the sacrifice with the gods in view, or देवानां हवींषि प्रापयिता वा (*devānāṃ havīṃṣi prāpayitā vā*), one who offers the oblations to the gods through Agni. The intelligent sacrificer is described as reciting the praise concerning the yūpa. Sāyaṇa cites the Aitareya-Brāhmaṇa passage
+
+जातो जायते सुदिनत्वे अह्नामिति जातो ह्येष एतज्जायते समर्य आ विदथे वर्धमान इति वर्धयंत्येवैनं तत्पुनंति धीरा अपसो मनीषेति पुनंत्येवैनं तद्देवया विप्र उदियर्ति वाचमिति देवेभ्य एवैनं तन्निवेदयति (*jāto jāyate sudinatve ahnāmiti jāto hyeṣa etajjāyate samarya ā vidathe vardhamāna iti vardhayaṃtyevainaṃ tatpunaṃti dhīrā apaso manīṣeti punaṃtyevainaṃ taddevayā vipra udiyarti vācamiti devebhya evainaṃ tannivedayati*) (Ai. Brā. 2-2)
+
+as teaching this very meaning. [The supplied text has a stray "_" after सायणरु (*sāyaṇaru*).]
+
+मनीषा—बुद्ध्या (*manīṣā—buddhyā*). The word मनीषा (*manīṣā*) is used, as मनीषया मनस ईषया स्तुत्या प्रज्ञया वा (*manīṣayā manasa īṣayā stutyā prajñayā vā*) (Ni. 2-25) (Ni. 9-11), in the senses of the mind's resolve, praise, and intelligence. Sāyaṇa has taken the sense "intelligence".
+
+### Printed p. 95
+
+*[Running head, p. 95: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 95]*
+
+**Vyākaraṇa-prakriyā**
+
+Grammar notes, noted briefly. जायते (*jāyate*): root जनी प्रादुर्भावे (*janī prādurbhāve*); laṭ, third person singular; by ज्ञाजनोर्जा (*jñājanorjā*) (Pā. 7-3-79) the root gets the substitute jā; finite-verb nighāta accent. सुदिनत्वे (*sudinatve*): सुदिनानां भावः सुदिनत्वं (*sudinānāṃ bhāvaḥ sudinatvaṃ*), by तस्यभावस्त्वतल् (*tasyabhāvastvatal*) (Pā. 5-1 119, as printed) the suffix tva in the sense of "state"; final udātta by the suffix accent.
+
+समर्यॆ (*samaryè*): root मृज् प्राणत्यागे (*mṛj prāṇatyāge*) [as supplied]; by छंदसि निष्कर्ष्यदेव (*chaṃdasi niṣkarṣyadeva*) (Pā. 3-1-123) it is irregularly formed with the suffix kya; by the force of the irregular formation guṇa of the root ṛ occurs although the suffix is marked k. मर्यैः सहितः (सहवर्तते) समर्यः (*maryaiḥ sahitaḥ (sahavartate) samaryaḥ*); final udātta by समासस्य (*samāsasya*) (Pā. 6-1-223); a locative singular form.
+
+पुनंति (*punaṃti*): root पूञ् पवने (*pūñ pavane*), kryādi class; laṭ, third person plural, replacement of jhi by anta; vikaraṇa śnā by क्र्यादिभ्यः श्ना (*kryādibhyaḥ śnā*) (Pā. 3-1-81); shortening of the root before the vikaraṇa by प्वादिनां ह्रस्वः (*pvādināṃ hrasvaḥ*) (Pā. 7-3-80); loss of the a of the vikaraṇa by श्नाभ्यस्तयोरातः (*śnābhyastayorātaḥ*) (Pā. 6-4-112); being at the beginning of a pāda, no nighāta accent; the initial udātta of the suffix.
+
+मनीषा (*manīṣā*): by the sūtra सुपां सुलुक् (*supāṃ suluk*) the case ending is replaced by a single long vowel of the earlier form.
+
+देवयाः (*devayāḥ*): देवान् यूपयतीति देवयाः (*devān yūpayatīti devayāḥ*) [as supplied]; root या प्रापणे (*yā prāpaṇe*); suffix vic by आतो मनिन् क्विनिब् (*āto manin kvinib*) (Pā. 3-2-24); total loss; the accent of the first member kept by the rule गतिकारकोपपदात् कृत् (*gatikārakopapadāt kṛt*); nominative singular.
+
+इयर्ति (*iyarti*): root ऋ गत् (*ṛ gat*) [as supplied]; juhotyādi class; laṭ, third person singular, tip; reduplication of the root when the vikaraṇa ślu comes; ī for the reduplicative by आर्तिपिपर्त्योश्च (*ārtipipartyośca*) (Pā. 7-4-77); since a non-homogeneous vowel (ṛ) follows, iyaṅ substitution by अभ्यासस्यासवर्णॆ (*abhyāsasyāsavarṇè*) (Pā. 6-4-78); guṇa with raparatva of the root's ṛ because of tip; being after a non-finite word, nighāta accent.
+
 ---
 
-**Progress note:** Done through printed p. 91 (PDF 91). Sukta 8 Rk 4 complete (bhasya, Pratipadartha, Bhavartha, printed English, Special Topics, grammar); p. 91 ends Rk 4.
+**Progress note:** Done through printed p. 95 (PDF 95). pp. 92-95: Sukta 8 Rk 5 complete; p. 94 head split from p. 93 prose (structure only)
