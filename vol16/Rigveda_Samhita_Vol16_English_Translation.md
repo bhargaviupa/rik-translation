@@ -1480,6 +1480,95 @@ Next the Hotṛ recites the Ṛk उच्छयस्व वनस्पते 
 
 Then the Hotṛ recites the Ṛk समिद्धस्य श्रयमाणः पुरस्तात् (*samiddhasya śrayamāṇaḥ purastāt*) (Ṛ. Saṃ. 3-8-2). Its meaning is: "You who shine in front of the blazing Agni here, bring this sacrificial work to completion, which produces excellent sons and the like and imperishable, immeasurable power. Standing erect and tall, drive away our enemies and bring us good fortune"; thus it is said [the sentence breaks off here; it continues on the next page].
 
+### Printed p. 56
+
+*[Running head, p. 56: 56 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+[continuing from the previous page] The sentence समिद्धस्य श्रयमाणः पुरस्तात् (*samiddhasya śrayamāṇaḥ purastāt*) indicates that the yūpa post stands in front of the Agni that has just been kindled on the sacrificial altar and is blazing brightly. The sentence ब्रह्म वन्वानो अजरं सुवीरं (*brahma vanvāno ajaraṃ suvīraṃ*) is a prayer for the welfare of the sacrificer. The sentence अरे अस्मदमतिं बाधमानः (*are asmadamatiṃ bādhamānaḥ*) indicates the prayer that our enemies be driven far away; here the commentator gives the word अमतिं (*amatiṃ*) the meaning "hunger". The words यज्ञाच्च यजमानाच्च (*yajñācca yajamānācca*) indicate the prayer that there be no fear of enemies for the sacrificer and others at the place where the sacrifice is going on.
+
+> ऊर्ध्व ऊ षु ण ऊतये तिष्ठा देवो न सवितेति यद्वै देवानां नेति
+> तदेषामोमिति तिष्ठ देव इव सवितेत्येव तदाह ऊर्ध्व वाजस्य
+> सनितेति वाजसनिमेवैनं तद्धनसां सनोति यदंजिभिर्वाघद्भिर्विह्वया-
+> मह इति छंदांसि वा अंजयो वाघतस्मैरेतद्देवान्यजमाना विह्व-
+> यंते मम यज्ञमागच्छत मम यज्ञमिति यदि ह वा अपि बहव इव
+> यजंतेऽथ हास्य देवा यज्ञमेव गच्छंति यत्त्रैवं विद्वानेताम-
+> न्वाह ॥
+
+> *ūrdhva ū ṣu ṇa ūtaye tiṣṭhā devo na saviteti yadvai devānāṃ neti*
+> *tadeṣāmomiti tiṣṭha deva iva savitetyeva tadāha ūrdhva vājasya*
+> *saniteti vājasanimevainaṃ taddhanasāṃ sanoti yadaṃjibhirvāghadbhirvihvayā-*
+> *maha iti chaṃdāṃsi vā aṃjayo vāghatasmairetaddevānyajamānā vihva-*
+> *yaṃte mama yajñamāgacchata mama yajñamiti yadi ha vā api bahava iva*
+> *yajaṃte 'tha hāsya devā yajñameva gacchaṃti yattraivaṃ vidvānetāma-*
+> *nvāha ‖*
+
+Next the Hotṛ recites the Ṛk ऊर्ध्व ऊ षु ण ऊतये (*ūrdhva ū ṣu ṇa ūtaye*) (Ṛ. Saṃ. 1-36-13). Its meaning: "O yūpa, rise up like the god Sūrya and stand erect. When you have risen, while we invoke you with many kinds of metres, and the priests perform the sacrifice, anointing it with ghee, grant us food and other nourishment." In the sentence देवो न सविता (*devo na savitā*) the word न (*na*) is used in the sense of comparison (meaning "like"); देवो न सविता (*devo na savitā*) means "like the god Savitā, the Sun". The word ओं (*oṃ*) in the sentence तदेषामोमिति (*tadeṣāmomiti*) is to be understood likewise. The sentence ऊर्ध्व वाजस्य सनिता (*ūrdhva vājasya sanitā*) indicates "rise and be the giver of food to us", for the yūpa is prayed to bestow food. The sentence यदंजिभिर्वाघद्भिविह्वयामहे (*yadaṃjibhirvāghadbhivihvayāmahe*) suggests that the priests who smear the post with ghee call upon it with many kinds of metres. Here अंजयः (*aṃjayaḥ*) = छंदांसि (*chaṃdāṃsi*), i.e. Ṛks of various metres; and वाघद्धिः (*vāghaddhiḥ*) (as supplied) refers to the priests who, by the acts of the sacrifice, repeatedly invite the gods to "my sacrifice, to my sacrifice". For there are many sacrificers who perform sacrifices; the gods go only to the sacrifice of the one who invites them saying "come to my sacrifice, come to mine". The meaning is that the gods go to those Hotṛs who know this matter well and who invite them with mantras and the like.
+
+### Printed p. 57
+
+*[Running head, p. 57: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 57]*
+
+> उर्ध्वो नः पाह्यंहसो नि केतुना विश्वं समत्रिणं दहेति रक्षांसि वै
+> पाप्मात्रिणो रक्षांसि पाप्मानं दहेत्येव तवाह कृधी न ऊर्ध्वां
+> चरथाय जीवस इति यदाह कृधी न ऊर्ध्वां चरणाय जीवस इत्येव
+> तदाह यदि हवा अपि नीत इव यजमानो भवति परि हैवैनं तत्सं-
+> वत्सराय ददाति विदा देवेषु नो दुव इत्याशिषमेवाशास्ते ॥
+
+> *urdhvo naḥ pāhyaṃhaso ni ketunā viśvaṃ samatriṇaṃ daheti rakṣāṃsi vai*
+> *pāpmātriṇo rakṣāṃsi pāpmānaṃ dahetyeva tavāha kṛdhī na ūrdhvāṃ*
+> *carathāya jīvasa iti yadāha kṛdhī na ūrdhvāṃ caraṇāya jīvasa ityeva*
+> *tadāha yadi havā api nīta iva yajamāno bhavati pari haivainaṃ tatsaṃ-*
+> *vatsarāya dadāti vidā deveṣu no duva ityāśiṣamevāśāste ‖*
+
+Then the Hotṛ recites the Ṛk ऊर्ध्व नः पाह्यंहसो नि केतुना (*ūrdhva naḥ pāhyaṃhaso ni ketunā*) (Ṛ. Saṃ. 1-36-14). Its meaning: "O yūpa, rise and stand up, and protect us from distress. With your rays (your power) burn up and reduce to ashes the rākṣasas and the like. Make us too rise and move about. As messenger of the gods make known to the gods our oblations and the services we offer." Here रक्षांसि (*rakṣāṃsi*) means rākṣasas, or sins and evil deeds; burn them to ashes so that they do not trouble us. चरथाय जीवसे (*carathāya jīvase*) means "for moving about and for living". If the sacrificer is already afflicted by rākṣasas and the like, the prayer is that the affliction be removed and he be protected by the gift of life, so that he lives for a full year, that is, for a long time.
+
+> जातो जायते सुदिनत्वे अह्नामिति जातो ह्येष एतज्जायते समर्य
+> आ विदथे वर्धमान इति वर्धयंत्येवैनं तत्पुनंति धीरा अपसो
+> मनीषेति पुनंत्येवैनं तद्देवया विप्र उदियर्ति वाचमिति देवेभ्य
+> एवैनं तॆन्निवेदयति ।
+
+> *jāto jāyate sudinatve ahnāmiti jāto hyeṣa etajjāyate samarya*
+> *ā vidathe vardhamāna iti vardhayaṃtyevainaṃ tatpunaṃti dhīrā apaso*
+> *manīṣeti punaṃtyevainaṃ taddevayā vipra udiyarti vācamiti devebhya*
+> *evainaṃ tènnivedayati |*
+
+Then the Hotṛ recites the Ṛk जातो जायते सुदिनत्वे अह्नां (*jāto jāyate sudinatve ahnāṃ*) (Ṛ. Saṃ. 3-8-5). Its meaning: "This yūpa, once born, grows well and helps the sacrifices performed by men. The wise (the word is printed एवेकिगळादवरु (*evekigaḷādavaru*) in the supplied text) adorn this yūpa skilfully. Like a messenger of the gods, it raises its voice so that the gods may hear." In the sentence जातो जायते सुदिनत्वे अह्नां (*jāto jāyate sudinatve ahnāṃ*) the yūpa is first addressed, so the meaning is that it has now come into being. The word वर्धमान (*vardhamāna*) in समर्य आ विदथे वर्धमानः (*samarya ā vidathe vardhamānaḥ*) indicates that the yūpa has been raised up and made to stand. The sentence पुनंति धीरा अपसो मनीषा (*punaṃti dhīrā apaso manīṣā*) indicates that the intelligent priests purify this yūpa and consecrate it with the smearing of ghee and the like. The sentence देवया विप्र उदियर्ति वाचं (*devayā vipra udiyarti vācaṃ*), by the words वाचमुदियर्ति (*vācamudiyarti*), indicates that the yūpa is made ready here for the work of the gods.
+
+> युवा सुवासाः परिवीत आगादित्युत्तमया परिदधाति स उ श्रेयान्भवति
+> जायमान इति श्रेयांच्छ्रीयान् ह्येष एतद्भवति जायमानस्तं
+
+*[At the foot of the page the supplied text has the stray numeral "8", apparently a sheet signature; the Brāhmaṇa passage continues on the next page.]*
+
+### Printed p. 58
+
+*[Running head, p. 58: 58 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+> धीरासः कवय उन्नयंति स्वाध्यो मनसा देवयंत इति ये वा अनू-
+> जानास्ते कवयस्त एवैनं तदुन्नयंति ॥
+
+> *dhīrāsaḥ kavaya unnayaṃti svādhyo manasā devayaṃta iti ye vā anū-*
+> *jānāste kavayasta evainaṃ tadunnayaṃti ‖*
+
+Then the Hotṛ recites, as the last, the seventh Ṛk युवा सुवासाः परिवीत आगात् (*yuvā suvāsāḥ parivīta āgāt*) (Ṛ. Saṃ. 3-8-4). With the recital of this Ṛk the rite of anointing the yūpa is completed. Its meaning: "This young man (the yūpa) has come here adorned with garments and the like. Of all the trees that are born and grow, this yūpa is the best. The wise priests raise the yūpa and make it stand erect by the utterance of the mantras that they recite carefully and with a will." Here युवा सुवासाः (*yuvā suvāsāḥ*), the young man shining with garments and ornaments, means the vital breath (life), which is covered by the body and its limbs. The sentence स उश्रेयान्भवति (*sa uśreyānbhavati*) indicates that the yūpa, purified by the mantras, shines forth well. कवयः (*kavayaḥ*) are the wise priests who recite the mantras; the meaning is that by reciting these mantras they raise the yūpa and make it stand.
+
+> ता एताः सप्तान्नाह रूपसमृद्धा एतद्वै यज्ञस्य समृद्धं यद्रूपस-
+> मृद्धं यत्कर्म क्रियमाणमृगभिवदति शासां त्रिः प्रथमामन्वाह
+> त्रिरुत्तमां ता एकादश संपद्यंत एकादशाक्षरा वै त्रिष्टुप्‌त्रिष्टु-
+> बिंद्रस्य वज्र इंद्रायतनाभिरेवाभी राध्योति य एवं वेद त्रिः
+> प्रथमां त्रिरुत्तमामन्वाह यज्ञस्यैव तद्बर्स् नह्यति स्थेन्ने बला-
+> याविस्रंसाय ॥
+
+> *tā etāḥ saptānnāha rūpasamṛddhā etadvai yajñasya samṛddhaṃ yadrūpasa-*
+> *mṛddhaṃ yatkarma kriyamāṇamṛgabhivadati śāsāṃ triḥ prathamāmanvāha*
+> *triruttamāṃ tā ekādaśa saṃpadyaṃta ekādaśākṣarā vai triṣṭuptriṣṭu-*
+> *biṃdrasya vajra iṃdrāyatanābhirevābhī rādhyoti ya evaṃ veda triḥ*
+> *prathamāṃ triruttamāmanvāha yajñasyaiva tadbars nahyati sthenne balā-*
+> *yāvisraṃsāya ‖*
+
+The Hotṛ recites these seven mantras, and so the anointing of the yūpa is duly accomplished. By reciting each Ṛk at its proper time, mantras suited to the occasion are recited and the sacrificial work is successfully carried out. Of these seven Ṛks the Hotṛ recites the first and the last three times each, so that eleven Ṛks in all are recited; for the pāda of the triṣṭubh metre has eleven syllables, and the triṣṭubh is the thunderbolt of Indra; these mantras are established in Indra. Therefore the man who knows this well and recites the first and seventh (last) Ṛks three times each binds the sacrificial work, with his own hand, so that it neither slips away nor loosens but stands firm; the meaning is that the sacrificial work proceeds without obstacle.
+
+After the sacrifice is finished, as to whether the yūpa should be left standing as it is or should be put into the fire, some say that sacrificers who desire cattle should not put it into the fire but leave it standing. On this matter there is an old story. [The sentence ends here at the foot of p. 58; the story continues on the next page.]
+
 ---
 
-**Progress note:** Done through printed p. 55 (PDF 55). pp. 53-55: Sukta 8 Pithika (yupa, Aitareya Brahmana woods, anointing; Rks 3-8-1,2,3 cited), ends mid-sentence p. 55
+**Progress note:** Done through printed p. 58 (PDF 58). pp. 56-58: Sukta 8 Pithika, yupa anointing Rks (1-36-13,14; 3-8-5,4) and seven-Rk count; ends mid-sentence p. 58 (old story); Rk 1 not started
