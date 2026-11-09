@@ -200,6 +200,120 @@ The procedure which the Hotṛ follows in reciting the *prātaranuvāka* mantras
 
 *[The window ends here; the account of the prātaranuvāka recitation continues on the next page.]*
 
+### Printed p. 8
+
+*Running head: [8 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 184]; the print has "ಸ್ಕೂ." for the usual "ಸೂ." as supplied.*
+
+Thereafter the Hotṛ recites the *prātaranuvāka* mantras addressed to Agni, Uṣas and the Aśvin deities. These are in three parts. The mantras said to Agni are called आग्नेयक्रतुवॆंदू. (*āgneyakratuvèṃdū.*) [as supplied, "Āgneya-kratu"], the mantras recited to Uṣas उषस्यक्रतुवॆंदू (*uṣasyakratuvèṃdū*), and the mantras recited to the Aśvin deities आश्विन (*āśvina*) क्रतुवॆंदू (*kratuvèṃdū*). To show that the mantras addressed to each deity must be accompanied by seven metres there is the repetition (*vīpsā*) सप्तभिः सप्तभिः छंदोभिः (*saptabhiḥ saptabhiḥ chaṃdobhiḥ*) (it is stated twice). In accordance with it the explanation of these mantras is as follows.
+
+*(The supplied text gives the following lists as HTML tables of ṛk beginnings, references and metres; they are reproduced here as lists, the references as printed. The sign ",," of the print means "ditto" for "Ṛ. Saṃ.", and for the metre column.)*
+
+**Agni (Āgneya-kratu), seven ṛks, seven metres:**
+
+- उप प्रयंतः (*upa prayaṃtaḥ*) (Ṛ. Saṃ. 1-74-1) — metre: इत्यादिषु चैंदो गायत्रं (*ityādiṣu caiṃdo gāyatraṃ*)
+- त्वमग्ने वसून् (*tvamagne vasūn*) (Ṛ. Saṃ. 1-45-1) — metre: अनुष्टुप् छंदः (*anuṣṭup chaṃdaḥ*)
+- अबोध्यग्निः (*abodhyagniḥ*) (ditto 5-1-1) — metre: त्रिष्टुप् (*triṣṭup*)
+- एना वो अग्निं (*enā vo agniṃ*) (ditto 7-16-1) — metre: बृहती (*bṛhatī*)
+- अग्ने वाजस्य (*agne vājasya*) (ditto 1-29-4) — metre: उष्टिक् (*uṣṭik*)
+- जनस्य गोपा (*janasya gopā*) (ditto 5-11-1) — metre: जगती (*jagatī*)
+- अग्निं तं मन्ये (*agniṃ taṃ manye*) (ditto 5-6-1) — metre: पंक्तिः (*paṃktiḥ*)
+
+तान्येतानि सप्तच्छंदासाग्नेये क्रत्वा प्रातरनुवाके द्रष्टव्यानि । (*tānyetāni saptacchaṃdāsāgneye kratvā prātaranuvāke draṣṭavyāni |*)
+
+These seven sūkta-mantras, accompanied by seven metres, are the mantras connected with the Āgneya-kratu in the *prātaranuvāka* addressed to the Agni deity.
+
+**Uṣas (Uṣasya-kratu), seven ṛks, seven metres:**
+
+- प्रति ष्या सूनरी (*prati ṣyā sūnarī*) (Ṛ. Saṃ. 4-52-1) — metre: इत्यादिषु गायत्री छंदः (*ityādiṣu gāyatrī chaṃdaḥ*)
+- उषो भद्रेभिः (*uṣo bhadrebhiḥ*) (ditto 1-49-1) — metre: अनुष्टुप् (*anuṣṭup*)
+- इदं श्रेष्ठः (*idaṃ śreṣṭhaḥ*) (ditto 1-113-1) — metre: त्रिष्टुप् (*triṣṭup*)
+- प्रत्यु आदर्शि (*pratyu ādarśi*) (ditto 7-82-1) — metre: बृहती (*bṛhatī*)
+- उषस्तच्चित्रमाभर (*uṣastaccitramābhara*) (ditto 1-92-13) — metre: उष्णिक् (*uṣṇik*)
+- एता उ त्या (*etā u tyā*) (ditto 1-92-1) — metre: जगती (*jagatī*)
+- महे नो अद्य (*mahe no adya*) (ditto 5-79-1) — metre: पंक्तिः (*paṃktiḥ*)
+
+तान्येतान्युषसः प्रातरनुवाके सप्तच्छंदांसि (*tānyetānyuṣasaḥ prātaranuvāke saptacchaṃdāṃsi*)
+
+These seven are addressed to the Uṣas deity and are mantras in the *prātaranuvāka* connected with the Uṣasya-kratu, and,
+
+**Aśvins (Āśvina-kratu), seven ṛks, seven metres:**
+
+- एषो उषा (*eṣo uṣā*) (Ṛ. Saṃ. 1-46-1) — metre: इत्यादिषु गायत्री च्छंदः (*ityādiṣu gāyatrī cchaṃdaḥ*)
+- यदद्य (*yadadya*) (ditto 5-73-1) — metre: अनुष्टुप् (*anuṣṭup*)
+- आभातृग्निः (*ābhātṛgniḥ*) (ditto 5-76-1) — metre: त्रिष्टुप् (*triṣṭup*)
+- इमा उ वां (*imā u vāṃ*) (ditto 7-74-1) — metre: बृहती (*bṛhatī*)
+- अश्विना वर्तिः (*aśvinā vartiḥ*) (ditto 1-92-16) — metre: उष्णिक् (*uṣṇik*)
+
+### Printed p. 9
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1. Ṛgveda-saṃhitā 9.*
+
+- अबोध्यग्निर्जृ (*abodhyagnirjṛ*) (ditto 1-57-1) — metre: जगती (*jagatī*)
+- प्रति प्रियतमं (*prati priyatamaṃ*) (ditto 5-75-1) — metre: पंक्तिः (*paṃktiḥ*)
+
+तान्येतान्याश्विने प्रातरनुवाके सप्तच्छंदांसि । (*tānyetānyāśvine prātaranuvāke saptacchaṃdāṃsi |*)
+
+These seven are the *prātaranuvāka* mantras addressed to the Aśvin deities and connected with the Āśvina-kratu. The greatness of these *prātaranuvāka* mantras, with its spiritual background, is stated in the Aitareya Brāhmaṇa, as seen below.
+
+देवेभ्यः प्रातर्यावभ्यो होतरनुब्रूहीत्याहाध्वर्युः । एते नाव देवाः (*devebhyaḥ prātaryāvabhyo hotaranubrūhītyāhādhvaryuḥ | ete nāva devāḥ*)
+प्रातर्याणो यदग्निरुषा अश्विनौ त एते सप्तभिः सप्तभिश्चंदोभिराग (*prātaryāṇo yadagniruṣā aśvinau ta ete saptabhiḥ saptabhiścaṃdobhirāga*)
+च्छंति । आस्य देवाः प्रातर्याणो हवं गच्छंति य एवं वेद । प्रजापतौ (*cchaṃti | āsya devāḥ prātaryāṇo havaṃ gacchaṃti ya evaṃ veda | prajāpatau*)
+वै स्वयं होतरि प्रातरनुवाकमनुवक्ष्यत्युभये देवासुरा (*vai svayaṃ hotari prātaranuvākamanuvakṣyatyubhaye devāsurā*)
+यज्ञमुपावसन्नस्मभ्यमनुवक्ष्यत्यस्मभ्यमिति स वै देवेभ्य एवान्वब्रवीत् । (*yajñamupāvasannasmabhyamanuvakṣyatyasmabhyamiti sa vai devebhya evānvabravīt |*)
+ततो वै देवा अभवन्परासुराः भवत्यात्मना परास्य द्विषन् पाप्मा भ्रातृव्यो (*tato vai devā abhavanparāsurāḥ bhavatyātmanā parāsya dviṣan pāpmā bhrātṛvyo*)
+भवति य एवं वेद। प्रातर्वै स तं देवेभ्योऽन्वब्रवीद्यत्पातरनुवाकस्य (*bhavati ya evaṃ veda| prātarvai sa taṃ devebhyo 'nvabravīdyatpātaranuvākasya*)
+प्रातरनुवाकत्वं । महति रात्रा अनूच्यः सर्वस्य वाचः सर्वस्य ब्रह्मणः (*prātaranuvākatvaṃ | mahati rātrā anūcyaḥ sarvasya vācaḥ sarvasya brahmaṇaḥ*)
+परिगृहीत्यै यो वै भवति यः श्रेष्ठतामश्नुते तस्य वाचं प्रोदितामनु- (*parigṛhītyai yo vai bhavati yaḥ śreṣṭhatāmaśnute tasya vācaṃ proditāmanu-*)
+प्रवदंति तस्मान्महति रात्रा अनूच्यः .... .... .... .... .... .... .... (*pravadaṃti tasmānmahati rātrā anūcyaḥ .... .... .... .... .... .... ....*)
+यदा ना अध्वरुरुपाकरोति वाचैवोपाकरोति वाचा होतान्नाह वाग्नि (*yadā nā adhvarurupākaroti vācaivopākaroti vācā hotānnāha vāgni*)
+ब्रह्म तत्र स काम उपाप्तो यो वाचि च ब्रह्मणि च ॥ (*brahma tatra sa kāma upāpto yo vāci ca brahmaṇi ca ‖*)
+
+(Ai. Brā. 7-5 [the print has "ಇ ಬರಾ," as supplied]; the supplied text has rows of dots in the middle of the quotation, and its spelling प्रातर्यावभ्यो (*prātaryāvabhyo*) (with *rya*) differs from the spelling of the same word in the praiṣa quoted on p. 7; kept as supplied)
+
+Agni, Uṣas and the Aśvin deities are the gods who move about in the morning. Each of these deities has seven metres. These gods come and join the man who knows this principle. Once, when Prajāpati himself was the Hotṛ, the gods on one side and the asuras on the other were both initiated for the sacrifice, and both groups thought that Prajāpati would recite the *prātaranuvāka* for their sacrifice. But Prajāpati recited it only for the gods. By this the gods won and the asuras were defeated. Because it was recited in the morning (*prātaḥ*) it became famous as *prātaranuvāka*; and for its power to appear fully it must be recited after the deep middle of the night, before the light spreads. Since speech (*vāk*) is itself of the form of Brahma, the desired fruit is obtained by reciting it.
+
+प्रजापतौ स्वयं होतरि प्रातरनुवाकमनुवक्ष्यति सर्वा देवता आशंसंत- (*prajāpatau svayaṃ hotari prātaranuvākamanuvakṣyati sarvā devatā āśaṃsaṃta-*)
+मामभि प्रतिपत्स्यति मामभीति स प्रजाप्रतिरैक्षत यद्येकां देवतामादिष्टा (*māmabhi pratipatsyati māmabhīti sa prajāpratiraikṣata yadyekāṃ devatāmādiṣṭā*)
+
+*(The quotation is broken here by the page boundary; the word at the end of p. 9, देवतामादिष्टा (*devatāmādiṣṭā*), is completed at the head of p. 10.)*
+
+### Printed p. 10
+
+*Running head: [10 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1 A. 24 Sū. 184].*
+
+मभि प्रतिपत्स्यामीतरामेकेन देवता उपाप्ता भविष्यंतीति स एतामृ (*mabhi pratipatsyāmītarāmekena devatā upāptā bhaviṣyaṃtīti sa etāmṛ*)
+चमपश्यदापो रेवतीरित्यापो वै सर्वा देवता रेवत्यः सर्वा देवताः स (*camapaśyadāpo revatīrityāpo vai sarvā devatā revatyaḥ sarvā devatāḥ sa*)
+एतयर्चा प्रातरनुवाकं प्रत्यपद्यत ताः सर्वा देवताः प्रामोदंत (*etayarcā prātaranuvākaṃ pratyapadyata tāḥ sarvā devatāḥ prāmodaṃta*)
+मामभिप्रत्यपादि मामभीति । सर्वा हास्मिन् देवताः प्रातरनुवाकमनु- (*māmabhipratyapādi māmabhīti | sarvā hāsmin devatāḥ prātaranuvākamanu-*)
+ब्रुवति प्रमोदंते सर्वाभिर्हास्य देवताभिः प्रातरनुवाकः प्रतिपन्नो (*bruvati pramodaṃte sarvābhirhāsya devatābhiḥ prātaranuvākaḥ pratipanno*)
+भवति य एवं वेद । (*bhavati ya evaṃ veda |*)
+
+(Ai. Brā. 7-6)
+
+When Prajāpati, being Hotṛ, was ready to recite the *prātaranuvāka*, each of the gods waited eagerly, thinking that he would recite addressing them. Then Prajāpati fell into a dilemma: if he addressed only one deity, how would he gain the other? Thinking so, in the end he recited, addressing water (*apaḥ*), which is of the nature of all deities, the mantra
+
+आपो रेवतीः क्षयथा हि वस्वः क्रतुं च भद्रं बिभृतामृतं च । (*āpo revatīḥ kṣayathā hi vasvaḥ kratuṃ ca bhadraṃ bibhṛtāmṛtaṃ ca |*)
+रायश्च स्थ स्वपत्यस्य पत्निः सरस्वती तद्गृणते वयोधात् ॥ (*rāyaśca stha svapatyasya patniḥ sarasvatī tadgṛṇate vayodhāt ‖*)
+
+(Ṛ. Saṃ. 10. 30. 12)
+
+By this all the gods were satisfied. Therefore the praiser who recites the *prātaranuvāka* mantra knowing this principle becomes worthy of the favour of all the gods together and obtains every desired thing.
+
+तिस्रो देवता अन्वाह त्रयो ना इमे त्रिवृतो लोका एषामेव लोका. (*tisro devatā anvāha trayo nā ime trivṛto lokā eṣāmeva lokā.*)
+नामभिजित्यै । (*nāmabhijityai |*)
+
+(Ai. Brā. 7-8 [the print has "ಇ. ಬ್ರಾ," as supplied])
+
+Since Agni, Uṣas and the Aśvin deities, these three alone, are the lords of the three worlds, the mantras recited addressed to them become the means of gaining the three worlds; this being so, another doubt arises here. Anticipating that doubt, the answer is stated thus.
+
+तदाहुः कथमनूच्यः प्रातरनुवाक इति। यथाच्छंदसमनूच्यः प्रातरनुवाकः (*tadāhuḥ kathamanūcyaḥ prātaranuvāka iti| yathācchaṃdasamanūcyaḥ prātaranuvākaḥ*)
+प्रजापतेर्वा एतान्यंगानि यच्छंदांस्येष उ एव प्रजापतिर्यो यजते (*prajāpatervā etānyaṃgāni yacchaṃdāṃsyeṣa u eva prajāpatiryo yajate*)
+यद्यजमानाय हितं । पच्चोऽनूच्यः प्रातरनुवाकश्चतुष्पादा वै पशवः (*yadyajamānāya hitaṃ | pacco 'nūcyaḥ prātaranuvākaścatuṣpādā vai paśavaḥ*)
+पशूनामवरुद्धैः । . . . . . . . आहुतिभागा वा अन्या (*paśūnāmavaruddhaiḥ | . . . . . . . āhutibhāgā vā anyā*)
+देवता अन्याः स्तोमभागाश्चंदोभागास्ता या अग्नावाहुतयो हू- (*devatā anyāḥ stomabhāgāścaṃdobhāgāstā yā agnāvāhutayo hū-*)
+
+*[The window ends mid-sentence at the end of p. 10 (the last word is broken with a hyphen); the quotation and its explanation continue on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 7 (PDF 7). Rik 1 bhashya end, Pratipadartha, Bhavartha, English, Special Topics (Ashvina-shastra story, pratar-anuvaka; continues on next page)
+**Progress note:** Done through printed p. 10 (PDF 10). Rik 1 Special Topics: pratar-anuvaka tables (Agni, Usas, Ashvins), Aitareya Brahmana quotations (continues on next page)
