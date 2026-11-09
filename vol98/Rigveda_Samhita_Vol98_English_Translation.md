@@ -4103,6 +4103,63 @@ in these ṛks the bhāṣyakāra has explained it as a deity presiding over wat
 
 नपात् (*napāt*) — the word means both "son" and "grandson", and it is used in both senses; but the Nirukta-author says नपादित्यनंतरायाः प्रजाया नामधेयं (*napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ*) — that the meaning of the word is not the direct son but grandsons and so on ((नि. ८-५) (*(ni. 8-5)*)). And in explaining the word *tanūnapāt* he says अपः अत्र तन्न उच्यंते । तता अंतरिक्षे (*apaḥ atra tanna ucyaṃte | tatā aṃtarikṣe*) [the sentence breaks off at the end of p. 144 and continues in the next window].
 
+### Printed p. 145
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 145 (as supplied, "ಅ ೫"). The window continues the *apāṃ napāt* / *tanūnapāt* note in the Special Topics of Ṛk 5 of Sūkta 186 from p. 144, in mid-sentence.*
+
+... ताभ्यः ओषधिवनस्पतयः जायंते ओषधिवनस्पतिभ्य एष जायते (*tābhyaḥ oṣadhivanaspatayaḥ jāyaṃte oṣadhivanaspatibhya eṣa jāyate*) ("from them the herbs and trees are born, from the herbs and trees he is born"): having so explained, he has said that it means grandson of the waters, and, in the opinion of Śākapūṇi, a synonym of Agni.
+
+अनंतरं प्रजामाहुर्नपादिति कृपण्यवः । (*anaṃtaraṃ prajāmāhurnapāditi kṛpaṇyavaḥ |*)
+नसादमुष्य [?] चैवायमग्निस्तेन तनूनपात् ॥ (*nasādamuṣya [?] caivāyamagnistena tanūnapāt ‖*)
+ऎंदु बृहद्देवतॆयल्लियू इदे अभिप्रायवन्ननुसरिसिद्दारॆ इल्लि अपांनपात् ऎंबुदु (*èṃdu bṛhaddevatèyalliyū ide abhiprāyavannanusarisiddārè illi apāṃnapāt èṃbudu*)
+
+in the Bṛhaddevatā too the same opinion is followed. That there is a difference of opinion here whether *apāṃ napāt* is a synonym of Agni or the name of a different deity can be known from the statement of the Nirukta-author अग्निरिति शाकपूणिः (*agniriti śākapūṇiḥ*) ("Agni, says Śākapūṇi"). Or, showing the derivation अपां न पातयिता वैद्युताग्निरूपेण प्रवर्षकत्वादिति भावः (*apāṃ na pātayitā vaidyutāgnirūpeṇa pravarṣakatvāditi bhāvaḥ*) ("one who does not make the waters fall, but rains in the form of lightning-fire: this is the idea"), Sāyaṇa has explained that this is the name of the lightning-fire. The Nirukta-author says that the explanation of *apāṃ napāt* is the same as that of *tanūnapāt*.
+
+तनूनपादयं त्वेव नाम्मा यच्छत्यसौ तनुं । (*tanūnapādayaṃ tveva nāmmā yacchatyasau tanuṃ |*)
+नपादिति प्रजामाहुरमुतोऽस्य च संभवात् ॥ (*napāditi prajāmāhuramuto 'sya ca saṃbhavāt ‖*)
+(बृ. दे. ३-१) (*(bṛ. de. 3-1)*)
+
+Since it is born of itself, it is its own son, and the name *tanūnapāt* is well known; as said in many places, the same explanation holds for *apāṃ napāt* too. Or:
+
+अपां नपातं । जलस्य न पालकं । जलस्य शोषकं (*apāṃ napātaṃ | jalasya na pālakaṃ | jalasya śoṣakaṃ*) — "not the protector of water; the dryer of water": the bhāṣyakāra has said in his bhāṣya on the ṛk १-२२-६ (*1-22-6*) that the Sun is called *apāṃ napāt* because, being opposed to water, he dries up water. But Yāska says that the words *apāṃ napāt* and *tanūnapāt* have the same meaning and gives two meanings for *tanūnapāt*: *ājya* (melted ghee) and Agni ((नि १०-८ मत्तु ८-५) (*(ni 10-8 mattu 8-5)*)).
+
+There is a difference of opinion whether the deity *apāṃ napāt* is different from Agni or a part of Agni. In the sūkta १-१४२ (*1-142*), discussing the deity *tanūnapāt* of the Āprī hymn, the statements of the Bṛhaddevatā and the like are quoted to say that this deity is another form of Agni, and so not a separate deity. From some other evidence in the Ṛksaṃhitā itself it can be said that in the beginning this was regarded as a separate deity and was afterwards united with Agni and considered a part of Agni. According to the Nirukta-author the deities *apāṃ napāt* and *tanūnapāt* are one, so one explanation makes known the nature of both deities. If we examine the place of the deity *apāṃ napāt* in the Ṛksaṃhitā, we find that in the sūktas addressed to the Viśve Devāḥ *apāṃ napāt* is invoked many times.
+
+*[Stray line in the supplied text: "Vol. 14".]*
+
+### Printed p. 146
+
+*Running head: [146 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+प्र नः पूषा चरथं विश्वदेव्योऽपां नपादवतु वायुरिष्टये । (*pra naḥ pūṣā carathaṃ viśvadevyo 'pāṃ napādavatu vāyuriṣṭaye |*)
+आत्मानं वस्को अभि वातमर्चत तदश्विना सुहवा यामनि श्रुतं ॥ (*ātmānaṃ vasko abhi vātamarcata tadaśvinā suhavā yāmani śrutaṃ ‖*)
+(म. सं १०-९२-१३) (*(ma. saṃ 10-92-13)*)
+
+in this ṛk Pūṣan and then Apāṃ Napāt are prayed to along with the Viśve Devāḥ. In the second ṛk of this sūkta ((ऋ. सं. १०-९२-२) (*(ṛ. saṃ. 10-92-2)*)) Agni is praised as the increaser of the sacrifice. In the thirteenth ṛk of the seventy-fifth sūkta of the seventh Maṇḍala the deities Aja Ekapād, Ahirbudhnya, Samudra, Apāṃ Napāt and Pṛśni are invoked together; Indra and Agni in the first ṛk, and Agni alone in the fourth ṛk. In the fourteenth ṛk of the fifty-second sūkta of the sixth Maṇḍala other deities are invoked with Apāṃ Napāt; in the sixth and twelfth ṛks Agni is prayed to. Similarly in the thirty-first sūkta of the second Maṇḍala and the fiftieth sūkta of the sixth Maṇḍala Agni and Apāṃ Napāt are named separately. In none of these ṛks can it be said that Agni and Apāṃ Napāt are one deity by identity.
+
+The thirty-fifth sūkta of the second Maṇḍala is addressed to Apāṃ Napāt alone. Only in the fifteenth ṛk is Agni addressed; in the other ṛks, to the end, the name of Agni does not occur at all. Even so, if they can be interpreted as relating to Agni, only the eleventh and twelfth ṛks can; but the description there too does not apply to Agni himself. Taking these examples, the scholar Bloomfield has given his opinion in this way:
+
+While Agni became more and more conpsicions [sic], Apan Napat seems to have waned in popnlarity [sic], nntil [sic] he was so far forgotten that a confusion arose concerning the two uses of the expression अपांनशात् (*apāṃnaśāt*) [?] " the son of the waters" was swallowed np [sic] in Agni, a son of the waters as he was occasionally (twice in the Rik) called, since he too. because of his original lightning nature, was supposed to have been born of the rain-clouds. To the same source is te be traced the myth of his hiding in the waters, for this myth probably had no connection originally with Apan Napat, beyond the mere fact that both he and Agni were forms of lightning which, appearing when the thunderstorm was at its hight [sic] seemed to disappear in the clouds from which they came. The conclusion seems to be warranted, therefore, that Agni and Apan Napat were once distinct Gods-Gods, of the lightning, who were, however, associated with each other and were much alike in certain particulars and that this association, and resemblance nlii-mately resulted, possibly at the close of the Vedic Period, in a confusion and union of the two, as a result of which Apan Napat was absorbed by Agni- (Journal of American Oriental Society Vol. XIX (2) p. 144)
+
+*[The page break of the print (p. 146/147) falls inside this English quotation, at "nlii-" / "mately"; the quotation is given unbroken above.]*
+
+### Printed p. 147
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 147 (as supplied, "ಅ. ೨ ಅ. ೫. ವ. ೪").*
+
+मनोजुवः (*manojuvaḥ*) — मन इव वेगयुक्तः (*mana iva vegayuktaḥ*): "swift like the mind". The mind can think of an object however far away in an instant; therefore when indicating great speed the custom of using the comparison "swift as the mind" is found in the Ṛgveda.
+
+इंद्रवायू मनोजुवा विप्रा हवंत ऊतॆये । सहस्राक्षा धियॆस्सती ॥ (*iṃdravāyū manojuvā viprā havaṃta ūtèye | sahasrākṣā dhiyèssatī ‖*)
+(ऋ सं. १-२३-३) (*(ṛ saṃ. 1-23-3)*)
+
+in these and similar ṛks the word *manojuva* is used in the sense stated above.
+
+वृषण: (*vṛṣaṇa:*) — वर्षका मेघाः (*varṣakā meghāḥ*): Sāyaṇa's explanation is "the clouds that pour rain".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+आहिः (*āhiḥ*) [as printed with the long ā] (root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*)): by आजि श्रिहनिभ्यांह्रस्वश्च (उ सू. ४-५;७७) (*āji śrihanibhyāṃhrasvaśca (u sū. 4-5;77)*) the suffix *iṇ*; shortening of the *ā*; because the suffix is marked *ḍ* the *ṭi* (*an*) of the root is lost; the form is *ahi*. बुध्न्यः (*budhnyaḥ*): बुध्नमहर्तिति बुध्न्यः (*budhnamahartiti budhnyaḥ*) ("he who deserves the atmosphere"): the Vedic suffix *yat* in the sense "deserving"; by the sūtra यस्येति च (*yasyeti ca*) loss of *a*; by तित्‌स्वरितम् (पा. सू. ६-१-१८५) (*titsvaritam (pā. sū. 6-1-185)*) the *svarita* accent occurs. कॆः (*kèḥ*) [as printed, for *kaḥ*] (root डुकृञ् करणे (*ḍukṛñ karaṇe*)): by छंदसि लुज्लज्लिटः (*chaṃdasi lujlajliṭaḥ*) *laṅ* in the sense of the imperative; when *tip* comes, by इतश्च (*itaśca*) loss of *i*; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) *luk* of the thematic suffix; guṇa with *r* of the *ṛ* of the root because of *tip*; by हल्ज्याभ्योदीर्घा—(पा सू. (*haljyābhyodīrghā—(pā sū.*) ६-१-६८) (*6-1-68)*) the loss of *tip*; *visarga* for the *r* because of the pause; by the Vedic rule the augment *aṭ* does not occur; the *nighāta* accent arises. पिप्युषी (*pipyuṣī*) (root ओप्यायी वृद्धौ (*opyāyī vṛddhau*)): when the Vedic *liṭ* comes, by क्वसुश्च (पा. सू. (*kvasuśca (pā. sū.*) ३-२-१०७) (*3-2-107)*) the substitute *kvasu*; by लिड्यजोश्च (पा. सू. ६-१-२९) (*liḍyajośca (pā. sū. 6-1-29)*) the substitute *pī* for the root; doubling and so on of the root because of the suffix; in the feminine, by उगितश्च (*ugitaśca*) *ṅīp*; because of the *bha* designation *saṃprasāraṇa* of the *v* of the suffix, the earlier form; *yaṇ* substitution for the *ī* of the root; by शासिवसिघसीनां च (पा. सू, ८-३-६०) (*śāsivasighasīnāṃ ca (pā. sū, 8-3-60)*) *ṣ* for the *s* of the suffix; from the first-syllable acute of the suffix the word becomes middle-acute. [The window ends here, in the middle of the Ṛk 5 grammar page.]
+
 ---
 
-**Progress note:** Done through printed p. 144 (PDF 144). Done through printed p. 144 (Sukta 186 Rk 5 Pratipadartha through Special Topics: ahirbudhnya, sindhu, apam napat; ends mid-sentence)
+**Progress note:** Done through printed p. 147 (PDF 147). Done through printed p. 147 (Sukta 186 Rk 5 Special Topics complete; Rk 5 grammar page begun, ends after pipyushi)
