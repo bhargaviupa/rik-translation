@@ -521,6 +521,62 @@ Grammar page concluded, noted briefly: अतसस्य (*atasasya*) (root *at
 
 *Gist (mine): the mighty rivers, making the strengthless strong, carry Agni, son of Tvaṣṭṛ, who wishes to support the worlds; blazing with his limbs by the water's side, he entered heaven and earth as a man enters a woman.* The bhāṣya is cut off at the end of printed p. 17 in the middle of its grammatical tail (on त्वाष्ट्रं (*tvāṣṭraṃ*) and स्तभूयमानं (*stabhūyamānaṃ*)); the stray character "3" at its end in the supplied text is left as supplied. The Pratipadārtha and the rest of Ṛk 4 follow on the next page.
 
+### Printed p. 18
+
+*[Running head, p. 18: 18 Sāyaṇabhāṣyasahitā [Maṃ. 1. A. 1. Sū. 7.] (as supplied; the other pages read Maṃ. 3)]*
+
+**Sāyaṇa-bhāṣya** (continued from p. 17; the grammatical tail on the words दिद्युतानः (*didyutānaḥ*), एकामिव (*ekāmiva*) and विवेश (*viveśa*), not explained)
+
+> लसार्वधातुकस्वरेणानुदात्तत्वे कृते क्यजंताद्दातुस्वरः शिष्यते । अंगेभिः । बहुलं
+> छंदसीति भिस ऐसादेशाभावः । बहुवचने झल्यॆदित्येत्वं। दिद्युतानः । द्युत दीप्तौ ।
+> छंदसि लिट् । तस्य कावजादेशः । द्विर्वचनं, हलादिशेषे कृते द्यु इत्यस्याभ्यासस्य
+> द्युतिस्वाप्योः संप्रसारणं । पा. ७-४ ६७ । इति संप्रसारणं । संप्रसारणाच्चेति
+> पूर्वरूपत्वं । चित्वादंतोदात्तत्वं । एकामिव । इवेन विभक्त्यलोपः पूर्व-
+> पदप्रकृतिस्वरत्वं चेति वचनात्पूर्वपदप्रकृतिस्वरः । विवेश विश प्रवेशन इत्यस्माल्लिट
+> रूपं । निघातः ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ūrjayantīḥ — those that make the strengthless strong; vahataḥ — rivers that are intent on carrying; mahi — the great one; tvāṣṭram — the son of Tvaṣṭṛ; ajuryam — one not liable to old age; stabhūyamānam — one who wishes to support the world: Agni; vahanti — they bear; sadhasthe — near the water; aṅgebhiḥ — (together) with his limbs; didyutānaḥ — Agni, shining; rodasī — heaven and earth; ekām iva — (as a man enters) a single woman (in many forms); vi ā viveśa — enters in manifold forms.
+
+**भावार्थ (Bhāvārtha)**
+
+The rivers, which give strength to the weak and are intent on carrying, bear Agni, the great one, the son of Tvaṣṭṛ, not liable to old age, who wishes to support the world. Thus, shining with all his limbs kindled near the water, Agni enters heaven and earth in many forms, as a man approaches a single woman in different forms.
+
+**Printed English**
+
+The flowing (rivers) invigorating him, bear along the great son of Twashtri, the undecaying upholder (of the world), radiant with various forms in the vicinity (of the firmament): Agni is associated with heaven and earth, as (a husband with) one only wife.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऊर्जयंतीः (*ūrjayaṃtīḥ*) — अबलं बलिनं कुर्वत्यः (*abalaṃ balinaṃ kurvatyaḥ*) (making the strengthless strong). The word ऊर्क् (*ūrk*) (*ūrk*) is read among the names of food (Ni. 3-9). The word *ūrja* is also used in the sense of strength. For example—
+
+### Printed p. 19
+
+*[Running head, p. 19: [A. 3. A. 1. Va. 1.] Ṛgvedasaṃhitā 19 (as supplied)]*
+
+देवी ऊर्जाहुती इषमूर्जमन्यावक्षत् सद्धिं सपीतिमन्या नवेन पूर्वं दयमानाः स्याम पुराणेन नवं तामूर्जमूर्जाहुती ऊर्जयमाने आधातां वसुवने वसुधेयस्य वीतां यज (*devī ūrjāhutī iṣamūrjamanyāvakṣat saddhiṃ sapītimanyā navena pūrvaṃ dayamānāḥ syāma purāṇena navaṃ tāmūrjamūrjāhutī ūrjayamāne ādhātāṃ vasuvane vasudheyasya vītāṃ yaja*) (Yaj. Vā. Saṃ. 28-16). Durgācārya has commented that in this mantra the word *ūrja* is used in the sense of strength. Sāyaṇa has explained the meaning as: the rivers produce strength even for those who have no strength.
+
+वहतः स्तभूयामानं वहंति (*vahataḥ stabhūyāmānaṃ vahaṃti*) — वहनपराः नद्यः लोकानां धारणमिच्छंतमग्निं धारयंति (*vahanaparāḥ nadyaḥ lokānāṃ dhāraṇamicchaṃtamagniṃ dhārayaṃti*): the rivers, flowing ever with abundant currents, pervade all the worlds and bear Agni, who desires to protect everything. By the Śruti अग्नेरापः (*agnerāpaḥ*) ("the waters are from Agni"), the waters originate from Agni; therefore Agni's entry is in the waters. This is the meaning.
+
+अजुर्यं-जरयितुमनॆर्हं (*ajuryaṃ-jarayitumanèrhaṃ*) (as supplied) — the meaning is that Agni is not fit to be consumed (quenched) by anyone.
+
+रोदसी एकामिव आ विवेश (*rodasī ekāmiva ā viveśa*) — द्यावापृथिव्यॆ विविधं प्रविष्टर्वा यथा पुर्मा एकां स्त्रीयं तद्वत् (*dyāvāpṛthivyè vividhaṃ praviṣṭarvā yathā purmā ekāṃ strīyaṃ tadvat*) (as supplied): Agni, having entered the waters, has pervaded heaven and earth in many ways. Just as in the world a man, attached to a woman and in many ways becoming the object of her affection, pervades her mind, so the entry of Agni into heaven and earth is stated here by way of simile. The word रोदसी (*rodasī*) is read among the twenty-four names of heaven and earth (Ni. 3-22). And—
+
+रथं नु मारुतं वयं श्रवस्युमा हुनामहे । आ यस्मिन् तस्थौ सुरहानिबिभ्रती सचा मरुत्सु रोदसी ॥ (*rathaṃ nu mārutaṃ vayaṃ śravasyumā hunāmahe | ā yasmin tasthau surahānibibhratī sacā marutsu rodasī ‖*) (Ma. Saṃ. 5-6-8, as printed).
+
+Yāska, citing this Ṛk, explains here that रोदसी (*rodasī*) means the wife of Rudra; Durgācārya explains it as the manifestation (विभूतिः (*vibhūtiḥ*)) of Rudra.
+
+**Vyākaraṇa-prakriyā (grammar page, noted briefly)**
+
+Words treated: त्वाष्ट्रम् (*tvāṣṭram*) (aṇ ending in the sense of offspring by तस्यापत्यम् (*tasyāpatyam*), Pā. Sū. 4-1-92; initial vṛddhi by तद्धितेष्वचामादेः (*taddhiteṣvacāmādeḥ*); yaṇ substitution; final accent by the ending; accusative singular), ऊर्जयंतीः (*ūrjayaṃtīḥ*) (root *ūrj* in the sense of strength and life; śatṛ after the ṇijanta; ṅīp in the feminine; ṇic accent remains; lengthening by the sūtra सुपांसुलुक्… (*supāṃsuluk…*)).
+
+### Printed p. 20
+
+*[Running head, p. 20: 20 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.]]*
+
+Grammar page continued, noted briefly: स्तभूयमानम् (*stabhūyamānam*) (*stabhu* = supporting; kyac ending by सुप आत्मनः क्यच् (*supa ātmanaḥ kyac*), Pā. Sū. 3-1-8; lengthening of the preceding *u* by अकृत् सार्वधातुकयोर्दीर्घः (*akṛt sārvadhātukayordīrghaḥ*), Pā. Sū. 7-4-25; śānac after the kyac-ending by व्यत्ययो बहुलम् (*vyatyayo bahulam*), Pā. Sū. 3-1-85; mugāgama by आनेमुक् (*ānemuk*), Pā. Sū. 7-2-82; the śānac becoming unaccented by तास्यनुदात्तेत्— (*tāsyanudāttet—*), Pā. Sū. 6-1-186, the root accent of the kyac-ending stem remains; accusative singular), वहतः (*vahataḥ*) (root *vah* in the sense of conveying; śatṛ for laṭ; luk of śap by बहुलंछंदसि (*bahulaṃchaṃdasi*); initial accent of the ending; nominative plural), वहंति (*vahaṃti*) (laṭ third plural of the same root; all-unaccented after an accented finite form), अंगेभिः (*aṃgebhiḥ*) (the substitution of *ais* for *bhis* in the instrumental plural does not occur, being optional by बहुलं छंदसि (*bahulaṃ chaṃdasi*); बहुवचनेझल्येत् (*bahuvacanejhalyet*) gives *e*), दिद्युतानः (*didyutānaḥ*) (root *dyut* "to shine"; Vedic liṭ; kānac substitution by लिटः कानज्वा (*liṭaḥ kānajvā*); reduplication; हलादिः शेषः (*halādiḥ śeṣaḥ*); samprasāraṇa by द्युतिस्वापोः संप्रसारणम् (*dyutisvāpoḥ saṃprasāraṇam*), Pā. Sū. 7-4-67; pūrvarūpa by संप्रसुरणाच्च (*saṃprasuraṇācca*) [sic, as supplied]; the ending being *cit*, final accent by चितः (*citaḥ*), Pā. Sū. 6-1-163), एकामिव (*ekāmiva*) (compound with *iva*: the case ending is not elided and the first member keeps its accent, so the initial syllable is accented), विवेश (*viveśa*) (root *viś* "to enter"; liṭ third singular; nighāta accent after an accented finite form), सधस्थे (*sadhasthe*) (root *sthā*; ka ending by सुपिस्थः (*supisthaḥ*), Pā. Sū. 3-2-4; elision of the root's *ā*; *sadha* substituted for *saha* in the compound by सधमादस्थयोश्छंदसि (*sadhamādasthayośchaṃdasi*) [as supplied]).
+
 ---
 
-**Progress note:** Done through printed p. 17 (PDF 17). Done through printed p. 17: Sūkta 7 Ṛk 3 Pratipadārtha etc., grammar pp. 16-17, Ṛk 4 Saṃhitā/Pada/bhāṣya (bhāṣya cut off at p. 17 end); Ṛk 4 Pratipadārtha follows on p. 18.
+**Progress note:** Done through printed p. 20 (PDF 20). Sukta 7 Rk 4 Pratipadartha-Special Topics, grammar pp. 19-20 (Sukta 7 Rk 4 complete; Rk 5 follows)
