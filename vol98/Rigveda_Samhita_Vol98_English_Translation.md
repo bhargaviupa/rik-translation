@@ -582,6 +582,80 @@ and, citing this ṛk, have said ऊर्मिरूर्णोतेः (*ū
 
 *[The window ends here; the Special Topics continue on the next page.]*
 
+### Printed p. 20
+
+*Running head: [20 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184]. The window begins inside the Special Topics of Ṛk 2, after the verse that ended p. 19.*
+
+In ऎंबल्लि (*èṃballi*) ऊर्मिं कृणुते, (*ūrmiṃ kṛṇute,*), ऊर्मिभिः अभिनक्षति (*ūrmibhiḥ abhinakṣati*) it says. Here, the fire makes the mass of water in the atmosphere flow in the form of a stream; with the clear wave-like masses of water he makes the earth be soaked with water, it says. In the present ṛk, either "night" or "Soma juice in the form of waves" is the sense.
+
+पणीन् (*paṇīn*) — for the word *paṇi* Sāyaṇa has explained "merchants who hesitate to spend" (पणि शब्दक्कॆ (*paṇi śabdakkè*)) (merchants, vaiśyas who shrink from spending); thereafter he has cited the opinion of Yāska, पणिर्वणिग्भवतीति यास्कः (*paṇirvaṇigbhavatīti yāskaḥ*). The Nirukta authors, in explaining the sense of this word, cite
+
+इंद्रो, विश्वान्नेकनाटा अहर्दृश उत क्रत्वा पणेरभि । (*iṃdro, viśvānnekanāṭā ahardṛśa uta kratvā paṇerabhi |*)
+
+(Ṛ. Saṃ. 8-66-10 [printed with the abbreviation "ಪು ಸಂ"])
+
+and have said that the word पणि (*paṇi*) there means वणिजः (*vaṇijaḥ*), "those who carry on trade" (Ni. 6-26). And पणिः पणनात् । वणिक् पण्यं नेनेक्ति (*paṇiḥ paṇanāt | vaṇik paṇyaṃ nenekti*): because he carries on trade, the vaiśya is called *paṇi*; and that trader always keeps his goods clean so that they may be fit for trade (Ni. 2-17). Besides, in some other places Sāyaṇa has explained this word as पणयॆ इति लुब्बका अबुध्यमाना यागादीनकुर्वाणा अदानशीला (*paṇayè iti lubbakā abudhyamānā yāgādīnakurvāṇā adānaśīlā*) अस्मच्छत्रवः (*asmacchatravaḥ*): "greedy ones, who do not perform sacrifices and the like, who are of ungiving nature, our enemies", that is, misers, non-performers of rites such as sacrifice, enemies without charity. In the present ṛk he has taken it as लुब्बकानयष्टन् (*lubbakānayaṣṭan*). (The matter of the asura group called *paṇis* will be told later.)
+
+For the word अस्मे उ-ऎंब (*asme u-èṃba*) he has given the sense अस्मास्वेव (*asmāsveva*). The Nirukta authors have said that although the word अस्मे (*asme*) is of one form, it is used in all case-meanings (Ni. 6-7 [the print has "ಸಿ." for "ನಿ."]). As in the case of this word, it was told earlier that the word अस्माकं (*asmākaṃ*) also is used in all the cases. Durgācārya, commenting here (Ni. 6-7), says: अस्मे इत्येतत्पदं सर्व विभक्त्यंतं । तस्मादनेकार्थं । एकमेव हैतच्छब्दरूपं सप्तस्वपि विभक्त्यर्थेषु वर्तते । प्रकरणादिवशात् तस्य नियमो भवति । तद्यथा प्रथमायास्तावत् अस्मे ते बंधुः । वयमित्यर्थः. (*asme ityetatpadaṃ sarva vibhaktyaṃtaṃ | tasmādanekārthaṃ | ekameva haitacchabdarūpaṃ saptasvapi vibhaktyartheṣu vartate | prakaraṇādivaśāt tasya niyamo bhavati | tadyathā prathamāyāstāvat asme te baṃdhuḥ | vayamityarthaḥ.*). That is: the word used in the seven cases must be interpreted according to each context. Of these, अस्मे ते बंधुः । (*asme te baṃdhuḥ |*) is an example of the nominative case. And in the same way,
+
+### Printed p. 21
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1] Ṛgveda-saṃhitā 21.*
+
+आ श्येनस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः । (*ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |*)
+हवे हि वामश्विना रातहव्या शश्वत्तमाया उषसो व्युष्टौ ॥ (*have hi vāmaśvinā rātahavyā śaśvattamāyā uṣaso vyuṣṭau ‖*)
+
+(Ṛ. Saṃ. 1-118-11)
+
+The Nirukta authors, citing this ṛk, have said that the word अस्मे (*asme*) means अस्मान् इत्यर्थः (*asmān ityarthaḥ*), and that this word is used here in the sense of the accusative case;
+
+भूरि चकर्थ युज्येभिरस्मे समानेभिर्वृषभ पौंस्येभिः । (*bhūri cakartha yujyebhirasme samānebhirvṛṣabha pauṃsyebhiḥ |*)
+भूरीणि हि कृणवामा शविष्ठेंद्र क्रत्वा मरुतो यद्वशाम ॥ (*bhūrīṇi hi kṛṇavāmā śaviṣṭheṃdra kratvā maruto yadvaśāma ‖*)
+
+(Ṛ. Saṃ. 1-165-7)
+
+citing this ṛk (the print has "ಮಕ್ಕನ್ನು" for "ಋಕ್ಕನ್ನು", as supplied) they have said अस्माभिः (*asmābhiḥ*) is the sense of the instrumental case;
+
+अस्मे प्रयंधि मघवन्नृजीषिन्निंद्र रायो विश्ववारस्य भूरेः । (*asme prayaṃdhi maghavannṛjīṣinniṃdra rāyo viśvavārasya bhūreḥ |*)
+अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्छश्वत इंद्र शिप्रिन् ॥ (*asme śataṃ śarado jīvase dhā asme vīrāñchaśvata iṃdra śiprin ‖*)
+
+(Ṛ. Saṃ. 3-36-10)
+
+here अस्मभ्यं (*asmabhyaṃ*) means "for us", the sense of the dative case; and
+
+तस्य वयं सुमता यज्ञियस्मापि भद्रे सौमनसे स्याम । (*tasya vayaṃ sumatā yajñiyasmāpi bhadre saumanase syāma |*)
+स सुत्रामा स्वना इंद्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ॥ (*sa sutrāmā svanā iṃdro asme ārācciddveṣaḥ sanutaryuyotu ‖*)
+
+(Ṛ. Saṃ. 6-47-13)
+
+here अस्मत् (*asmat*) means "from us", the sense of the ablative case;
+
+आ नो भर भगमिंद्र द्युमंतं नि ते देष्णस्य धीमहि प्ररेके । (*ā no bhara bhagamiṃdra dyumaṃtaṃ ni te deṣṇasya dhīmahi prareke |*)
+ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनां ॥ (*ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnāṃ ‖*)
+
+(Ṛ. Saṃ. 3-30-19)
+
+in this ṛk अस्माकं (*asmākaṃ*) means "our", the sense of the genitive case; and likewise,
+
+अग्ने वाजस्य गोमत ईशानः सहसो यहो । (*agne vājasya gomata īśānaḥ sahaso yaho |*)
+अस्मे धेहि जातवेदो महि श्रवः ॥ (*asme dhehi jātavedo mahi śravaḥ ‖*)
+
+(Ṛ. Saṃ. 1-79-4)
+
+here it is also in the sense of the locative case; thus they have stated that the word has the same form in all the cases (Ni. 6-7).
+
+मतीनां (*matīnāṃ*) — मननसाधनाः स्तुतीः (*mananasādhanāḥ stutīḥ*): "meditative praise" is the sense. In the sense of the accusative, the use of the genitive is found. The meaning is: "listen to our meditative praises".
+
+### Printed p. 22
+
+*Running head: [22 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184].*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+अस्मे (*asme*) (from अस्मद् (*asmad*)): by सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) the locative plural takes the substitute *śe*. मादयेथाम् (*mādayethām*) (root *mad*, in the sense of satisfaction): imperative, second person dual; because it is a finite verb the *nighāta* accent arises. हतम् (*hatam*) (root *han*, in the sense of killing and going): the substitute *tam* for the second person dual; *luk* for the connecting suffix; by अनुदात्तोपदेशवनतितनो (*anudāttopadeśavanatitano*) (Pā. Sū. 6-4-37) the elision of the root's nasal; the *nighāta* accent arises. ऊर्म्या (*ūrmyā*): by सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) the substitute *ā* for the locative singular; the *yaṇ* substitute; by single substitution the case ending takes the acute. मदंता (*madaṃtā*) (root *mad*): the present-participle substitute for the tense suffix; for the dual *sulug* of the case endings by सुपां सुलुक् (*supāṃ suluk*) and the substitute *ā*; by तास्यनुदात्तेत् (*tāsyanudāttet*) the present-tense personal suffix is unaccented, so the accent of the root remains. श्रुतम् (*śrutam*) (root *śru*, in the sense of hearing): imperative, second dual, substitute *tam*; by बहुलं (*bahulaṃ*) छंदसि (*chaṃdasi*) *luk* for the connecting suffix; because the suffix has the mark *ñ* there is no *guṇa*; because the word stands at the beginning of the pāda there is no *nighāta*; by the suffix accent it has the last-syllable acute. मतीनाम् (*matīnām*): by नामन्यतरस्याम् (*nāmanyatarasyām*) (Pā. Sū. 6-1-177) the case ending takes the acute; the genitive in the sense of the object. एष्टा (*eṣṭā*) (root *iṣ*, in the sense of going): the suffix *tṛn* in the agent sense; *guṇa* of the root with the short penultimate vowel; *ṣṭutva* of the suffix; because of the mark *n* it has the first-syllable acute. निचेतारा (*nicetārā*) (root *ci*, in the sense of collecting): the suffix *tṛn*, *guṇa* of the root's *i* by the rule "sārvadhātukārdhadhātukayoḥ" (no number printed); the preposition *ni* gives the sense of the preposition *sam* by interchange; the substitute *ā* of the dual by the rule of the case endings. ‖ 2 ‖
+
+*[A stray line "-৪০৪-" (page number in other numerals) follows in the supplied text; kept as an italic note in the Kannada file.]*
+
 ---
 
-**Progress note:** Done through printed p. 19 (PDF 19). Rik 1 grammar end; Rik 2 (Samhita read from figure, Pada, bhashya, Pratipadartha, Bhavartha, English), Special Topics on urmi (continues on next page)
+**Progress note:** Done through printed p. 22 (PDF 22). Rik 2 Special Topics (urmi end, pani, asme in all cases), grammar page; Rik 2 complete
