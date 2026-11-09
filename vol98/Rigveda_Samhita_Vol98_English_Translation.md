@@ -12701,6 +12701,121 @@ You are associated, Agni, by your vigour, with those (goods) [sic] ; divine, wel
 
 *(The supplied text ends here, at the end of the Pada of Ṛk 16 on p. 425; the bhāṣya follows in the next window. Saṃhitā and Pada lines split at the line end are joined.)*
 
+### Printed p. 426
+
+*Running head (as supplied): [426 सायणभाष्यसहिता [मं. २. अ. १ सू. १ (*[426 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1 sū. 1*).*
+
+*(Continuation of Ṛk 16, the last ṛk of Sūkta 1 of Maṇḍala 2: its bhāṣya follows the Pada of the previous page.)*
+
+*[As supplied, the label line of the bhāṣya reads सायणभ-ष,ं (*sāyaṇabha-ṣa,ṃ*), inside the quoted block; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> अनया होता स्तुतिनिगमव्याजेनाभिमतमाशास्त्रे । हे अग्ने सूरयो
+> मेधाविनः प्रेरयितारो वा यजमानाः स्तोतृभ्यो गोअग्रां
+> गावोऽग्रगामिन्यो यस्यास्तादृशीं गोप्रमुखामश्वपेशसं ॥ पेश इति रूपनाम ॥
+> अश्वेन निरूपणीयां । एतद्वयप्राधान्याभिप्रायं। गौश्चाश्वश्चाजाश्चति दक्षिणापरि-
+> गणनेषु गवाश्वयोः प्राथम्यात् । तादृशीं रातिमुपसृजंति । ददते । तान्यजमानान-
+> स्मांश्चर्त्विजो वस्यो वसीयः श्रेष्ठं स्वर्गादिस्थानं आ सर्वतः प्र हि नेषि । प्रकर्षेण
+> नयसि खलु । नयेत्यर्थः । हि प्रसिद्धौ । वयं च सुवीराः शोभनपुत्रादिसहिता
+> विदथे यज्ञॆ बृहन्महन्मंत्रजातं वदेम । उच्चारयामः । स्तुम इत्यर्थः ॥
+
+*Gist:* Agni is asked to lead the sacrificers, who give cows and horses to praisers, and us to the best place; we shall recite mantras.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). ये—यारु (*ye—yāru*) (those who). सूरयः—सद्बुद्धियिंद प्रेरितरागिद्दारॆयो अंतह यजमानरु (*sūrayaḥ—sadbuddhiyiṃda preritarāgiddārèyo aṃtaha yajamānaru*) (the wise sacrificers, inspired by good intellect). स्तोतृभ्यः—स्तुतिकर्तरिगॆ (*stotṛbhyaḥ—stutikartarigè*) (to the praisers). गोअग्रां—गोवुगळे मुख्यवागिरुवुदू (*goagrāṃ—govugaḷe mukhyavāgiruvudū*) (a gift in which cows are principal). अश्वपेशसं.—अश्वदिंद निरूपिसल्पडुवुदू आद (*aśvapeśasaṃ.—aśvadiṃda nirūpisalpaḍuvudū āda*) (characterised by horses (printed with a full stop before the dash)). रातिं—दानवन्नु (*rātiṃ—dānavannu*) (the gift). उपसृजंति—कॊडुत्तारॆ (*upasṛjaṃti—kòḍuttārè*) (they give). तांश्च—यजमानरन्नू (*tāṃśca—yajamānarannū*) (the sacrificers). आस्मांश्च—ऋत्विक्कुगळाद नम्मन्नू (*āsmāṃśca—ṛtvikkugaḷāda nammannū*) (and us, the priests (printed with a long first vowel)). वस्यः—उत्तमवाद स्वर्गादि स्थानक्कॆ (*vasyaḥ—uttamavāda svargādi sthānakkè*) (to the best place, heaven and the like). आ प्र हि नेषि—=तिशयवाद रीतियल्लि करॆदुकॊंडु होगु (*ā pra hi neṣi—=tiśayavāda rītiyalli karèdukòṃḍu hogu*) (lead us in an excessive manner (the first letter of the word for "excessive" is printed as an equals sign, which is marked with a query in the Kannada text)) [?]. सुवीराः—श्रेष्ठवाद पुत्रादिगळिंद कूडिद नावु (*suvīrāḥ—śreṣṭhavāda putrādigaḷiṃda kūḍida nāvu*) (we, accompanied by excellent sons and the like). विदथे यज्ञदल्लि (*vidathe yajñadalli*) (in the sacrifice (printed without a dash)). बृहत्—महत्तूरितवाद मंत्रवन्नु (*bṛhat—mahattūritavāda maṃtravannu*) (the great, greatness-filled (mantra)). वदेम—पठिसुवॆवु (*vadema—paṭhisuvèvu*) (we shall recite).
+
+*(The doubt in the Pratipadārtha is one printed sign, an equals sign in place of the first letter of the word for "excessive", marked with a query in the Kannada text; the entry is kept as supplied.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, the sacrificers, inspired by good intellect, give to the praisers a gift consisting of cows and horses. Lead those sacrificers, and us, the priests, in an excellent manner to the best place, heaven and the like. We, accompanied by excellent sons and the like, will recite a great mantra at the sacrifice.
+
+**Printed English translation**
+
+The pious are they who present, as a gift, to the reciters of your praises, an excellent cow and an excellent horse; do you, Agni, lead both us and them to the best of abodes, (or heaven) ,that we and our worthy descendants may repeat the solemn prayer to you at the sacrifice.
+
+*(The printed English divides "descendants" by a line break and a hyphen, joined here; the printed space before the comma after "(or heaven)" is as supplied.)*
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 16)**
+
+In this ṛk, the last of this sūkta, the sage prays to Agni for the fulfilment of his wishes and concludes.
+
+### Printed p. 427
+
+*Running head (as supplied): [आ. २. अ. ५. व. २०] ऋग्वेदसंहिता 427 (*[ā. 2. a. 5. va. 20] ṛgvedasaṃhitā 427*).*
+
+स्तोतृभ्यः गो अग्रामश्वपेशसं रातिं उपसृजंति सूरयः (*stotṛbhyaḥ go agrāmaśvapeśasaṃ rātiṃ upasṛjaṃti sūrayaḥ*): the priests who praise Agni. It is the custom that at the end of the sacrifice the sacrificer gives them, as a fee, cows, horses, goats and the like. Likewise here too the wise sacrificers are said to give cows and the like as a fee to the priests such as the hotṛ, and Agni is prayed to lead such sacrificers and us, the priests, to the best (heavenly and so on) place. Here the meanings of the words are: गोअग्रां (*goagrāṃ*), one in which cows are principal; अश्वपेशसं (*aśvapeśasaṃ*), with the forms of horses, that is, accompanied by horses; रातिं (*rātiṃ*), a gift or a fee.
+
+बृहत् वदेम विदथे सुवीराः (*bṛhat vadema vidathe suvīrāḥ*): we, together with heroic sons, friends, servants and so on, will recite a great, or greatness-filled, hymn in this sacrifice: thus Agni is prayed to. This fourth pāda of this ṛk, बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*), is repeated again and again as the last pāda of the last ṛk of many sūktas seen by this sage Gṛtsamada.
+
+#### Sūkta 2 (Maṇḍala 2)
+
+ऎरडनॆय सूक्तवु. (*èraḍanèya sūktavu.*) ("the second sūkta").
+
+*[As supplied, the label line of the bhāṣya reads । साराणभाष्यं (*| sārāṇabhāṣyaṃ*); standard label inserted. The introduction is printed as plain lines in the supplied text and is given as a quoted block.]*
+
+**Sāyaṇa-bhāṣya** (introduction)
+
+> यज्ञेन वर्धतेति त्रयोदशर्चं द्वितीयं सूक्तं मंडलद्रष्टुर्ग्तृत्समद-
+> स्यार्षं । मंडलादिष्टाग्नियमिति परिभाषयाग्नॆयं । तुशब्दानुकर्षादिदमपि
+> जागतं । यज्ञेन सप्तोनेत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्जागते छंदस्यस्य
+> विनियोगः । सूत्रं तु पूर्वसूक्त एवोक्तं ॥ तथा चातुर्विंशिके तृतीयसवने
+> जातवेदस्यनिविद्वानीयमिदं । यज्ञेन वर्धतेत्याग्निमारुतं । आ. ७-४ । इति सूत्रित-
+> त्वात् ॥ पृष्ट्याभिप्लवषडहयोर्द्वितीयेऽहन्यपि जातवेदस्यनिविद्वानमिदं । चातु-
+> र्विंशिकं तृतीयसवनमिति चतुर्विंशादतिदिष्टत्वात् ॥
+
+*Gist:* The second sūkta has thirteen ṛks, seer Gṛtsamada, deity Agni, Jagatī metre; its ritual uses are listed (morning litany, Āśvina śastra, twenty-four-day rite).
+
+**Anuvāda (Kannada)** of Sāyaṇa's introduction to Sūkta 2 of Maṇḍala 2. This sūkta beginning यज्ञेन वर्धत (*yajñena vardhata*) is the second sūkta in the first anuvāka. It contains thirteen ṛks. Gṛtsamada, the seer of the maṇḍala, is also the seer of this sūkta; Agni is the deity; the metre is Jagatī; in the Anukramaṇikā it is said: यज्ञेन सप्त (*yajñena sapta*) and so on. This sūkta is used for the ṛks of Jagatī metre at the time of reciting the morning anuvāka mantras and at the time of reciting the Āśvina śastra mantras. The sūtra sentence has been stated before. And in the sacrifice performed for twenty-four days, at the third pressing, this sūkta is used for the nivid mantras recited on behalf of the deity named Jātavedas, as is explained by the Āśvalāyana
+
+### Printed p. 428
+
+*Running head (as supplied): [428 सायणभाष्यसहिता [ मं. २. अ.१ . सू २.] (*[428 sāyaṇabhāṣyasahitā [ maṃ. 2. a.1 . sū 2.]*).*
+
+*(Continuation of the Anuvāda, from mid-sentence at the end of the previous page.)*
+
+Śrauta Sūtra, in the sūtra यज्ञेन वर्धतेत्याग्निमारुतं (*yajñena vardhatetyāgnimārutaṃ*) (आ. ७-४ (*ā. 7-4*)). And on the second day of the sacrifices called Pṛṣṭha and Abhiplava-ṣaḍaha too, this sūkta is used for the nivid mantras of the deity Jātavedas, as indicated by the sentence चातर्विंशिकं तृतीयसवनं (*cātarviṃśikaṃ tṛtīyasavanaṃ*).
+
+**Sūkta 2 — heading lines (printed as plain lines)**
+
+॥ ओं ॥ (*‖ oṃ ‖*)
+सूक्त-२ (*sūkta-2*)
+॥ मंडल—२ ॥ अनुवाक—१ ॥ सूक्त—२ ॥ (*‖ maṃḍala—2 ‖ anuvāka—1 ‖ sūkta—2 ‖*)
+॥ अष्टक—२ ॥ अध्याय—५ ॥ वर्ग—२०, २१ ॥ (*‖ aṣṭaka—2 ‖ adhyāya—5 ‖ varga—20, 21 ‖*)
+॥ सूक्तदल्लिरुव ऋक्संख्यॆ-१३ ॥ (*‖ sūktadalliruva ṛksaṃkhyè-13 ‖*)
+ऋषिः—गृत्समदः ॥ (*ṛṣiḥ—gṛtsamadaḥ ‖*)
+देवता—अग्निः ॥ (*devatā—agniḥ ‖*)
+छंदः—जगती ॥ (*chaṃdaḥ—jagatī ‖*)
+
+(Sense: Om; sūkta 2; maṇḍala 2, anuvāka 1, sūkta 2; aṣṭaka 2, adhyāya 5, varga 20, 21; the number of ṛks in the sūkta, thirteen; seer Gṛtsamada; deity Agni; metre Jagatī.)
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> य॒ज्ञेन॑ वर्धत जा॒तवे॑दसम॒ग्निं य॑जध्वं ह॒विषा॒ तना॑ गि॒रा।
+> स॒मि॒धा॒नं सु॑प्र॒यसं॒ स्व॑र्णरं द्यु॒क्षं होता॑रं वृ॒जने॑षु॒॑
+> धूर्षदं ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> यज्ञेन । वर्धत । जातवेदसं । अग्निं । यजध्वं । हविषा । तना । गिरा ।
+> संइधानं । सुप्रयसं । स्वःनरं । द्युक्षं । होतारं । वृजनेषु । धूःसदम् ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यजमाना ऋत्विजो वा यूयं जातवेदसं जातानां वेदितारं जातधनं
+> जातप्रज्ञं वाग्निं यज्ञेन यागेन वर्धत । प्रवर्धत। सामान्येनोक्त्वाविशेषेणाह ।
+> हविषा चरुपुरोडाशादिना तना विस्तृतया गिरा स्तुत्या च यजध्वं । पूजयध्वं ।
+
+*Gist (of the part supplied):* Sacrificers or priests are to make Agni Jātavedas grow by the sacrifice, and worship him with oblation and extended praise.
+
+*(The supplied text ends here, in the middle of the bhāṣya of Ṛk 1 on p. 428, at the word meaning "worship"; the rest of the bhāṣya follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 425 (PDF 425). Mandala 2 Sukta 1 Rik 14 complete, Rik 15 complete, Rik 16 through the Pada; two readings marked with a query
+**Progress note:** Done through printed p. 428 (PDF 428). Mandala 2 Sukta 1 complete; Sukta 2 introduction, Rik 1 Samhita, Pada and the start of the bhasya; one reading marked with a query
