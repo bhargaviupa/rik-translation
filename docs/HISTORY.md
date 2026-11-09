@@ -123,7 +123,7 @@ Volumes 1–3 are closed. When the user supplies the next volume (after Volume 4
 - Roughly 59 places in Vol. 1 are self-flagged as best-effort/illegible — worth a compiled
   "known limitations" appendix eventually.
 
-Full detail on all of the above lives in `Translation_Conventions_Handoff.md`, included in
+Full detail on all of the above lives in `docs/Translation_Conventions_Handoff.md`, included in
 this repo — read it if any of these come up.
 
 ## Conventions added during Volume 2 (pp. 31–257)
