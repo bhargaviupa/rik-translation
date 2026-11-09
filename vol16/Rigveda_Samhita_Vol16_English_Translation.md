@@ -2208,6 +2208,106 @@ Here too, addressing him as vanaspati, प्रजानन् देवा य
 
 For the Nirukta sentence वनस्पत इत्येनमाह (*vanaspata ityenamāha*) Durgācārya has commented तस्मादग्निरित्यभिप्रायः (*tasmādagnirityabhiprāyaḥ*) (the intention is therefore Agni). And further: अग्निरेवासौ यूपांतर्गतो यूपात्मना वर्तमानो (*agnirevāsau yūpāṃtargato yūpātmanā vartamāno*) ... (the sentence breaks off at the end of this page; it continues on the next page).
 
+### Printed p. 79
+
+*[Running head, p. 79: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 79]*
+
+(Continuation of the Nirukta passage from p. 78.) In the Ṛk beginning "añjanti" the yūpa is anointed, and यूपांजनीयायां वनस्पतिशब्देनोच्यते (*yūpāṃjanīyāyāṃ vanaspatiśabdenocyate*) — he is called by the word vanaspati; it is said: एष हि वनानां पाता वा पालयिता वा (*eṣa hi vanānāṃ pātā vā pālayitā vā*) ("for he is the protector or guardian of the forests"), because, being within them, यस्मा वंतर्गतो वनानि न दहति (*yasmā vaṃtargato vanāni na dahati*) [sic?] he does not burn the forests. And it is said (the text prints योऽयमृबीसे (*yo 'yamṛbīse*) [sic?]; अप्पु (*appu*) [sic?]): तमुन्निन्यथुः सर्वगणं सर्वनामानं (*tamunninyathuḥ sarvagaṇaṃ sarvanāmānaṃ*) — "that Agni who is on the earth, inside the herbs, the vanaspatis and the waters, him you two brought up, the one of all hosts and all names"; therefore he is vanaspati. The Kannada explanation: Agni, though he pervades the trees in the forest, protects them without burning them; in the earth, in herbs, in vanaspatis (trees) and in water, Agni abides within. This Agni, so existing, is made manifest by the "praṇaya-vādins" (as printed; प्रणयवादि गळिंद (*praṇayavādi gaḷiṃda*) [sic?]); and since it is said that Agni, who is denoted by many words, is worshipped by each in the order prescribed in the injunctions, the word vanaspati is explained as denoting Agni himself.
+
+**Vyākaraṇa-prakriyā (grammar)**
+
+Grammar page, noted briefly. Words treated: अंजंति (*aṃjaṃti*) (root अंजू (*aṃjū*), rudhādi class; laṭ third person plural, jhi; loss of the penultimate nasal; vikaraṇa त्नम् (*tnam*) by Pā. Sū. 3-1-78 and loss of its a by Pā. Sū. 6-9-111 as printed; no nighāta accent since it begins the pāda); त्वाम् (*tvām*) (yuṣmad, accusative singular; द्वितीयांच (*dvitīyāṃca*) cited as "Vā. Sū. 7-2-87" as printed; Pā. Sū. 8-2-5 on the udātta of the fusion); अध्वरे (*adhvare*) (Pā. Sū. 6-2-172, accent on the end of the second member); देवयंतः (*devayaṃtaḥ*) (denominative kyac, Pā. Sū. 3-1-8; prohibition of lengthening by Pā. Sū. 7-4-35; śatṛ); वनस्पते (*vanaspate*) (vocative, Pā. Sū. 8-1-19, all unaccented).
+
+### Printed p. 80
+
+*[Running head, p. 80: 80 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+Grammar page continued, noted briefly. Words treated: मधुना (*madhunā*) (root मन (*mana*), Uṇ. Sū. 1-18, affix u; initial udātta); दैव्येन (*daivyena*) (Pā. Sū. 9-1-85-2 as printed, affix यञ् (*yañ*); ādivṛddhi; initial udātta); तिष्ठा: (*tiṣṭhā:*) (root ष्या (*ṣyā*), leṭ second person, sip; Pā. Sū. 3-4-97, 7-3-28, 3-4-94; no nighāta since connected with यत् (*yat*)); द्रविणा (*draviṇā*) (root द्रु (*dru*), affix इनन् (*inan*); sup replaced by ḍā; initial udātta); इह (*iha*) (idam, affix ha by Pā. Sū. 5-3-12, the substitute iś by Pā. Sū. 5-3-3 as printed; final udātta); दत्तात् (*dattāt*) (root डुधाण् (*ḍudhāṇ*), loṭ second person singular, hi replaced by tāt, Pā. Sū. 3-4-87, 7-1-05 [sic, as printed], 6-4-112, 8-2-38; nighāta accent); वा (*vā*) (read among the ca-group, unaccented); क्षयः (*kṣayaḥ*) (root क्षि (*kṣi*), locative sense, affix; guṇa and āy; initial udātta); and the beginning of मातु: (*mātu:*) (Uṇ. Sū. 2-252, tṛc-ending; final udātta; Pā. Sū. 6-1-111 begun), which breaks off at the end of the page.
+
+### Printed p. 81
+
+*[Running head, p. 81: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 81]*
+
+The grammar of मातु: (*mātu:*) ends at the top of the page (utva and raparatva; loss of s). Then: अस्या: (*asyā:*) (Pā. Sū. 6-1-171, udātta on the case ending); उपस्थे (*upasthe*) (root ष्ठा (*ṣṭhā*) after the prefix उप (*upa*), affix ka by Pā. Sū. 3-1-136; loss of the root's ā, Pā. Sū. 6-4-64 as printed; Pā. Sū. 6-2-2, accent on the end of the first member).
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> [figure: vol16/html/figures/fig_line4373.jpg]
+> समि॑द्धस्य॒ श्रय॑माणः पु॒रस्ता॒द्ब्रह्म॑ वन्वा॒नो अ॒जरं॑ सु॒वीरं॑।
+> आ॒रे अ॒स्मदम॑तिं॒ बाध॑मान॒ उच्छ॑यस्व मह॒ते सौभ॑गाय
+> ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> संइद्धस्य । श्रयमाणः । पुरस्तात् । ब्रह्म । वन्वानः । अजरं । सुवीरं ।
+> अरे । अस्मत् । अमतिं । बाधमानः । उत् । श्रयस्व । महते । सौभगाय ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+Gist: O yūpa, standing in the east of the kindled Āhavanīya fire and granting undecaying food with good offspring, keeping the enemy (hunger) far off, rise up for great prosperity. The Aitareya Brāhmaṇa (Ai. Brā. 2-2, as printed) is quoted for this.
+
+> हे यूप समिद्धस्य दीपमानस्याहवनीयाख्यस्याग्नेः पुरस्तात् प्राच्यां
+> दिशि श्रयमाणस्तत्र वर्तमानो ब्रह्मान्नं । ब्रह्म वर्च इत्यन्ननामसु पाठात् ।
+> अजरं जरारहितं समृद्धं सुवीरं शोभनापत्ययुक्तं ब्रह्मान्नं वन्वानः प्रयच्छन्
+> अस्मदमतिमस्माकं शत्रुभूतामशनायां । आशनाया वै पाप्मामतिरिति श्रवणात् ।
+> ताद्यशं शत्रुमारे दूरे बाधमानोऽपनुदंस्त्वं महते सौभगाय धनादिसंपत्त्य-
+> र्थमुच्छयस्व । उच्च्रितो भव । उक्तार्थे ब्राह्मणं । समिद्धस्य श्रयमाणः पुर-
+> स्तादिति समिद्धस्य ह्येष एतत्पुरस्ताच्छयते ब्रह्म वन्वानो अजरं सुवीरमित्याशिष-
+> मेवाशास्त्र आरे अस्मदमतिं बाधमान इत्यशनाया वै पाप्मामतिस्तामेव तदारान्नु-
+> दते यज्ञाच्च यजमानाच्चोच्छयस्व महते सौभगायेत्याशिषमेवाशास्त्रे ।
+> ऐ. ब्रा. २-२ । इति ॥ समिद्धस्य । इइंधी दीप्तौ । कर्मणि निष्ठायां श्वेदितो निष्ठा-
+
+> *he yūpa samiddhasya dīpamānasyāhavanīyākhyasyāgneḥ purastāt prācyāṃ*
+> *diśi śrayamāṇastatra vartamāno brahmānnaṃ | brahma varca ityannanāmasu pāṭhāt |*
+> *ajaraṃ jarārahitaṃ samṛddhaṃ suvīraṃ śobhanāpatyayuktaṃ brahmānnaṃ vanvānaḥ prayacchan*
+> *asmadamatimasmākaṃ śatrubhūtāmaśanāyāṃ | āśanāyā vai pāpmāmatiriti śravaṇāt |*
+> *tādyaśaṃ śatrumāre dūre bādhamāno 'panudaṃstvaṃ mahate saubhagāya dhanādisaṃpattya-*
+> *rthamucchayasva | uccrito bhava | uktārthe brāhmaṇaṃ | samiddhasya śrayamāṇaḥ pura-*
+> *stāditi samiddhasya hyeṣa etatpurastācchayate brahma vanvāno ajaraṃ suvīramityāśiṣa-*
+> *mevāśāstra āre asmadamatiṃ bādhamāna ityaśanāyā vai pāpmāmatistāmeva tadārānnu-*
+> *date yajñācca yajamānāccocchayasva mahate saubhagāyetyāśiṣamevāśāstre |*
+> *ai. brā. 2-2 | iti ‖ samiddhasya | iiṃdhī dīptau | karmaṇi niṣṭhāyāṃ śvedito niṣṭhā-*
+
+### Printed p. 82
+
+*[Running head, p. 82: 82 Sāyaṇabhāṣyasahitaṃ [Maṃ. 3. A. 1. Sū. 8.]]*
+
+(The bhāṣya continues on p. 82; its grammatical tail, on samiddhasya, śrayamāṇaḥ, purastāt, brahma, vanvānaḥ, ajaram, suvīram, āre, asmat, amatim, utśrayasva, mahate, saubhagāya, is transcribed but not explained.)
+
+> यामितीट् प्रतिषेधः । सम्यगिद्द इति गतिरनंतर इति पूर्वपदप्रकृतिस्वरत्वं । श्रय-
+> माणः । श्रिञ् सेवायामित्यस्य लटः शानच् । तस्य लसार्वधातुकस्वरेणानुदात्तत्वे
+> कृते धातुस्वरः शिष्यते। पुरस्तात् । पूर्वशब्दस्य दिक्‌शब्देभ्यः सप्तमीपंचमीत्यादिना ।
+> पा. ५-३-२७ । अस्तातिप्रत्ययः । अस्ताति च । पा. ५-३-४० । इति पूर्वस्य पुरादेशः ।
+> प्रत्ययस्वरः । ब्रह्म । नब्विषयस्यानिसंतस्येत्याद्नुदात्तः । वन्वानः । वनु याचने । अ
+> त्रायं धातुर्दानार्थे वर्तते । लटः शानच् प्रत्ययः । चित्वादंतोदात्तः । अज-
+> रं । नळो जरमरमित्रमृता इत्युत्त रपदाद्युदात्तत्वं । सुवीरं । वीरवीयौ
+> चेत्युत्तरपदाद्युदात्तत्वं । आरे । एवमादित्पादंतोदात्तः । आस्मत् । युष्यसिभ्यां
+> मदिगिति मदिक्षृत्ययस्वरः । सुपां सुलुगिति सुपो लुक् मदिक्षृत्ययस्वरः
+> आमतिं। तत्पुरुष इति पूर्वपदप्रकृतिस्वरत्वं। उत् निपातत्वेनाद्युदात्तः । श्रयस्व ।
+> श्रीञ् सेवायामित्यस्य लोण्मध्यमैकवचने थास् । थासः स इत्यादेशः । सवाभ्यां
+> वामावित्येकारस्य वकारः । निघातः । महते । वर्तमाने सृष्टद्वहन्महदिति निपात-
+> नादंतोदात्तः । बृहन्महतोरुपस्यांखा नमिति विभक्तेरुदात्तत्वं । सौभगाय। प्राण-
+> भृज्जातिवयोवचनेत्यङ् । हृद्भगसिंध्यंते पूर्वपदस्य चेति वृद्धिः । सर्वविधीनां
+> छंदसि विकल्पितत्वादित्युत्तरपदस्य वृद्धिर्न भवति । इत्त्वरः ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Hē yūpa — O yūpa) समिद्दस्य (*samiddasya*) [sic, the Saṃhitā has samiddhasya]: of the kindled Āhavanīya fire. पुरस्तात् (*purastāt*): in front, to the east. श्रयमाणः (*śrayamāṇaḥ*): being (there). अजरं (*ajaraṃ*): free from decay (loss). सुवीरं (*suvīraṃ*): endowed with good sons and the like. ब्रह्म (*brahma*): food. वन्वानः (*vanvānaḥ*): giving. अस्मदमतिं (*asmadamatiṃ*): our enemy. आरे (*āre*): far away. बाधमानः (*bādhamānaḥ*): driving (him away). महते (*mahate*): for great. सौभगाय (*saubhagāya*): wealth and other prosperity. उत् श्रयस्व (*ut śrayasva*): be raised up (stand up).
+
+**भावार्थ (Bhāvārtha)**
+
+O yūpa, established in the east of the kindled Āhavanīya fire, bestow on us food that is imperishable and joined with good offspring; keep our enemy far away and (there) destroy him; and stand up as the giver to us of great wealth and the like. (Stand up.)
+
+**Printed English translation**
+
+Standing on the east of the kindled (fire), dispensing food (as the source) of undecaying (health) and excellent progeny, keeping off our enemy at a distance, stand up for great auspiciousness.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+समिद्धस्य श्रयमाणः पुरस्तात् (*samiddhasya śrayamāṇaḥ purastāt*) — दीप्यमानस्याहवनीयाग्नेः प्राच्यां दिशि वर्तमानः (*dīpyamānasyāhavanīyāgneḥ prācyāṃ diśi vartamānaḥ*) (being in the east of the kindled Āhavanīya fire). In the sacrificial hall the fire is divided and set in three places. Gārhapatya, (the passage stops at the end of this page and continues on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 78 (PDF 78). Sukta 8 Rk 1: bhasya, Pratipadartha, Bhavartha, English, Special Topics (Nirukta on vanaspati) through p. 78; p. 76 marker inferred
+**Progress note:** Done through printed p. 82 (PDF 82). Sukta 8 Rk 2 (Saṃhitā, Pada, bhasya, Pratipadartha, Bhavartha, English) and Special Topics begun; p. 82 marker/blocks repaired (see work/w0079/repair_log.txt). Special Topics stops at 'Gārhapatya.'
