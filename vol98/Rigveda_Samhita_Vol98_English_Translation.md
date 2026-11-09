@@ -14631,6 +14631,86 @@ That an old man becomes young is unknown in the world; but Agni, though old many
 
 *(The bhāṣya contains an exclamation mark in place of a danda after a word, as printed, and short grammatical remarks; they are transcribed in the block and not explained. The supplied text ends here, after the bhāṣya of Ṛk 6 at the end of p. 481; the Pratipadārtha follows in the next window.)*
 
+### Printed p. 482
+
+*Running head (as supplied): [482 सायणभाष्यसहिता [मं. २. अ. १. सू. ४] (*[482 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 4]*).*
+
+*(Continuation of Ṛk 6 of Sūkta 4 of Maṇḍala 2: its Pratipadārtha follows the bhāṣya of the previous page. The Pratipadārtha has two bracketed alternatives, as printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः—याव अग्नियु (*yaḥ—yāva agniyu*) (which Agni). वना—वनगळन्नु (*vanā—vanagaḷannu*) (the forests). ततृषाणो न —दाहदिंद कूडिरुवव नंतॆ (*tatṛṣāṇo na —dāhadiṃda kūḍiruvava naṃtè*) (like one afflicted with thirst (the word is divided by a line break)). आ भाति—दहिसुत्तानॆयो [अथवा (*ā bhāti—dahisuttānèyo [athavā*) (he burns (the bracketed alternative begins here)). वना—वनदल्लि (*vanā—vanadalli*) (in the forest). आ भाति—प्रकाशिसुत्तानॆयो] (मत्तु) (*ā bhāti—prakāśisuttānèyo] (mattu)*) (he shines (the bracket closes here) (and)). वार्ण—उदकवु यावरीतियल्लि (*vārṇa—udakavu yāvarītiyalli*) (as water). पथा—इळिजाराद प्रदेशदल्लि वेगवागि हरियु वुदो हागॆ वेगवागि प्रसरिसुवनो (*pathā—iḷijārāda pradeśadalli vegavāgi hariyu vudo hāgè vegavāgi prasarisuvano*) (in sloping ground, flows swiftly, so he spreads swiftly (the word is divided by a line break)). रथ्या इव—रथवन्नु वहिसुव युद्धाश्ववु (*rathyā iva—rathavannu vahisuva yuddhāśvavu*) (like a war-horse that draws a chariot). स्वानीत्— शब्द माडुवंतॆ शब्द माडुवनो (आ अग्नियु) (*svānīt— śabda māḍuvaṃtè śabda māḍuvano (ā agniyu)*) (sounds, so he sounds (that Agni)). कृष्णाध्वा—कृष्णवर्णद मार्गवुळ्ळवनागियू (*kṛṣṇādhvā—kṛṣṇavarṇada mārgavuḷḷavanāgiyū*) (having a black-coloured path). तपुः—दहिसुववनागियू (*tapuḥ—dahisuvavanāgiyū*) (burning). रण्वः—(आदरू) रमणीयनागियू (*raṇvaḥ—(ādarū) ramaṇīyanāgiyū*) ((yet) delightful). नभोभिः—नक्षत्रगळिंद (*nabhobhiḥ—nakṣatragaḷiṃda*) (by the stars). स्मयमानः—प्रकाशिसतक्क (*smayamānaḥ—prakāśisatakka*) (shining). द्यौरिव—अंतरिक्षदंतॆ [अथवा (*dyauriva—aṃtarikṣadaṃtè [athavā*) (like the atmosphere (the bracketed alternative begins here)). नभोभिः—अंतरिक्ष प्रदेशगळल्लि (*nabhobhiḥ—aṃtarikṣa pradeśagaḷalli*) (in the regions of the atmosphere). स्मयमानः—शोभिसतक्क (*smayamānaḥ—śobhisatakka*) (shining). द्यौरिव—आदित्यनंतॆ] (*dyauriva—ādityanaṃtè]*) (like the sun (the bracket closes here)). चिकेत—तिळियल्पडुत्तानॆ (*ciketa—tiḷiyalpaḍuttānè*) (he is known).
+
+**भावार्थ (Bhāvārtha)**
+
+The Agni who burns the forests as if parched with thirst, who spreads swiftly in the forest as water flows swiftly in sloping ground, and who makes a loud noise like a horse that draws a chariot in war: that Agni, though he has a black path and burns, is yet delightful and is known like the sun shining in the region of the atmosphere.
+
+**Printed English translation**
+
+Who shines amidst the forests, as if satisfying himself (with food) : who (rushes along), like water down a deolivity [sic], and thunders like a chariot (of war); dark-pathed, consuming, yet delightful, he is regarded like the sky smiling with constellations.
+
+*(The printed English reads "deolivity" [sic] for "declivity".)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 6)**
+
+Here Agni is described as being in the form of a forest fire. वना ततृषाणो न आभाति (*vanā tatṛṣāṇo na ābhāti*)—वृक्षसमूर्हा तृषित इव त्वरमाणः आभासयति । (*vṛkṣasamūrhā tṛṣita iva tvaramāṇaḥ ābhāsayati |*) (as printed): it is described that Agni spreads through the groups of trees in the forest like a hungry person who eats his food hurriedly; or यद्वा वने आभाति (*yadvā vane ābhāti*), that he shines of himself in the forest. Because Agni's spreading is very swift, a comparison with a hungry person is stated.
+
+वार्ण पथा (*vārṇa pathā*)—उदकमिव प्रवणेन मार्गेण इतस्ततो गच्छति (*udakamiva pravaṇena mārgeṇa itastato gacchati*): as water flows very swiftly and spreads in low ground, so Agni too spreads quickly here and there among the trees in the forest: thus the spreading of Agni is compared to the spreading of water.
+
+### Printed p. 483
+
+*Running head (as supplied): [अ. २. अ ५. व. २५] ऋग्वेदसंहिता 483 (*[a. 2. a 5. va. 25] ṛgvedasaṃhitā 483*).*
+
+रथ्येव स्वानीत् (*rathyeva svānīt*)—रथो यथा युद्धमार्गेण गच्छन् स्वनति (*ratho yathā yuddhamārgeṇa gacchan svanati*): as a horse that draws a chariot neighs when charging in war to attack the enemies, so Agni, spreading and burning in the forest, makes fearful crackling sounds; or he makes a sound like the noise made by the swiftly moving chariot of a charioteer attacking the enemies: the illustration of the sound is explained.
+
+कृष्णाध्वा तपुः रण्वः नभोभिः स्वयमानः दौरिव चिकेत (*kṛṣṇādhvā tapuḥ raṇvaḥ nabhobhiḥ svayamānaḥ dauriva ciketa*) (as printed): here the seer has explained the meaning by giving a very excellent and natural comparison. As a forest fire burns the forest and goes forward, the region burnt by the fire becomes black like collyrium. Wherever a fire burns well and the embers go out, that region appears black: this is well known in the world, and those who have seen lands burnt by a forest fire know it well. Therefore it is natural that the region burnt by Agni is called a black path. Even though the forest is burnt and the ground is black, it is natural that here and there, in places in the middle, embers and flames are not yet extinguished. Such a region is compared to the sky with stars; that is, the black earth is compared to the blue sky, and the embers or flames of the fire here and there to the stars; or it is compared to the sun shining with great radiance in the blue sky. In this context it should be understood that the fire still burning unextinguished in the middle of the burnt black earth is compared to the sun. Here the poet has used the words दौरिव स्वयमानः नभोभिः (*dauriva svayamānaḥ nabhobhiḥ*) in a very serious and meaningful way. Just as, when the sky with stars is described as shining like a smiling man, the sight of a smiling man or woman delights the mind, so the sight of the blue sky shining with stars also delights the mind. In the same way the seer explains that there is a black earth burnt by Agni, and thereby displays his skill in composition. (Some words of this passage are misspelt in the print and are left as printed.)
+
+#### Ṛk 7
+
+*[One reading of the Saṃhitā and one of the Pada are marked with a query, as they differ from each other and from the bhāṣya.]*
+
+**॥ संहितापाठः ॥**
+
+> स यो व्यस्था॑द॒भि दक्ष॑दु॒र्वीं प॒शुनैति॑ स्व॒ायुरगो॑पाः [?] ।
+> अ॒ग्निः शो॒चिष्मा॑ आत॒सान्यु॒ष्णन्कृ॒ष्णव्य॑थिरस्वदय॒न्न भूम॑ ॥ ७ ॥
+
+> *sa yo vyasthādabhi dakṣadurvīṃ paśunaiti svāyuragopāḥ [?] |*
+> *agniḥ śociṣmā ātasānyuṣṇankṛṣṇavyathirasvadayanna bhūma ‖ 7 ‖*
+
+### Printed p. 484
+
+*Running head (as supplied): [484 सायणभाष्यसहिता [ मं. २ अ. १. सू. ४.] (*[484 sāyaṇabhāṣyasahitā [ maṃ. 2 a. 1. sū. 4.]*).*
+
+**॥ पदपाठः ॥**
+
+> सः । यः । वि । अस्थात् । अभि । धक्षत् [?] । उर्विं । पशुः । न । एति । स्वयुः । अगोपाः।
+> अग्निः । शोचिष्मान् । अतसानि । उष्णन् । कृष्णव्यथिः । अस्वदयत् । न । भूम ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> योऽग्निर्व्यस्थात् । विविधं तिष्ठति । व्याप्न्नोति विश्वं । तथा योऽग्निरुर्विं
+> विस्त्रतां पृथिवीं सर्वां । यश्चाभिदक्षत् । अभिमुख्येन प्रवर्धमानो भवति ॥ उभे
+> अपि यच्छब्दयोगान्न निहन्येते ॥ सोऽग्निः पशुर्न पशुरिव । यथा जातः पशुः
+> स्वच्छंदेन चरति तथा स्वयुः स्वयमेव गच्छन् अगोपा गोपरहितः । नियामक-
+> वर्जित इत्यर्थः । एति । गच्छति । किं कुर्वन् । शोचिष्मान् प्रकृष्टदीप्तिः कृष्णव्यथिः
+> कृष्णवर्णं प्राप्ता दग्धा व्यथकराः कंटकादयो येन तादृशः सन् भूमात्यधिकम-
+> स्वयदॆयन्न । आस्वादयतीव वृक्षगतान् रसान् । आतसानि सततानि नीरसानि वा तरुगुल्मा-
+> दीन्युष्णन् दहन्नेति ॥
+
+*Gist:* Agni spreads over the wide earth, ranges freely like an unherded beast, blackening what he burns and drying the bushes.
+
+*(The bhāṣya contains short grammatical remarks on the accent and the particle; they are transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः—याव अग्नियु (*yaḥ—yāva agniyu*) (which Agni). व्यस्थात्—नानाप्रदेशगळन्नु व्यापिसिरुत्तानॆयो (मत्तु) (*vyasthāt—nānāpradeśagaḷannu vyāpisiruttānèyo (mattu)*) (pervades the various regions (and)). उर्विं—विस्त्रतवाद पृथिवियन्नु (*urviṃ—vistratavāda pṛthiviyannu*) (the wide earth). अभि दक्षत्—व्यापिसि सुत्तलू हरडुत्तानॆयो (*abhi dakṣat—vyāpisi suttalū haraḍuttānèyo*) (spreads around, pervading). सः अग्निः—आ अग्नियु (*saḥ agniḥ—ā agniyu*) (that Agni). पशुर्न—पशुवु स्वच्छंददिंद सुत्तुवंतॆ (*paśurna—paśuvu svacchaṃdadiṃda suttuvaṃtè*) (like an animal that wanders at will). स्वयुः—ताने स्वतंत्रवागि विहरिसुत्तलू (*svayuḥ—tāne svataṃtravāgi viharisuttalū*) (ranging by himself, freely). अगोपाः—नियमरहितनागियू (*agopāḥ—niyamarahitanāgiyū*) (without restraint). शोचिष्मान्—कांतियन्नु हरडुत्तलू (*śociṣmān—kāṃtiyannu haraḍuttalū*) (spreading lustre). कृष्णव्यथिः—दहिसिद कंटकादिगळिगॆ कृष्णरूपवाद विकारवन्नुंटुमाडुत्तलू (*kṛṣṇavyathiḥ—dahisida kaṃṭakādigaḷigè kṛṣṇarūpavāda vikāravannuṃṭumāḍuttalū*) (causing a black change in the thorns and the like that he burns (the entry begins before a line break)). भूम— अत्यधिकवागि (*bhūma— atyadhikavāgi*) (exceedingly). अस्वयन्न—(वृक्षगळ रसवन्नु) आस्वादनॆमाडुवंतॆयू (*asvayanna—(vṛkṣagaḷa rasavannu) āsvādanèmāḍuvaṃtèyū*) (as if tasting (the juices of the trees)). अतसानि—तरुगुल्मादि गळन्नु नीरसवागि माडुवंतॆयू (*atasāni—tarugulmādi gaḷannu nīrasavāgi māḍuvaṃtèyū*) (as if making the bushes and the like juiceless (the word is divided by a line break)). उष्णन्—दहिसुत्तलू (*uṣṇan—dahisuttalū*) (burning). एति—संचरिसुत्तानॆ. (*eti—saṃcarisuttānè.*) (he ranges).
+
+**भावार्थ (Bhāvārtha)**
+
+The Agni who pervades the various regions and spreads in many ways, who pervades the wide earth and spreads around: that Agni ranges by himself and freely, like an animal wandering at will, without restraint, spreading lustre, causing a black change and distress in the thorns and the like that he burns, and burning as if tasting the juices of the trees exceedingly and making the bushes and the like juiceless.
+
+*(The supplied text ends here, at the end of the Bhāvārtha of Ṛk 7 on p. 484; the printed English follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 481 (PDF 481). Mandala 2 Sukta 4 Rik 5 complete; Rik 6 Samhita, Pada and bhasya; three readings marked with a query
+**Progress note:** Done through printed p. 484 (PDF 484). Mandala 2 Sukta 4 Rik 6 complete; Rik 7 through the Bhavartha; two readings marked with a query
