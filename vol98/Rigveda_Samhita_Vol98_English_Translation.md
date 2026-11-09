@@ -4749,6 +4749,85 @@ It is known from a Nirukta sentence that ancient scholars such as Aurṇavābha 
 
 [the window ends here, with this sentence of Śākapūṇi and its reference].
 
+### Printed p. 167
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5] Ṛgveda-saṃhitā 167 (as supplied, "ಆ" for the second abbreviation). The window continues the Viṣṇu note in the Special Topics of Ṛk 10 of Sūkta 186 from p. 166, after the sentence of Śākapūṇi and its reference.*
+
+(It is also stated that) according to Śākapūṇi these three strides indicate the three states of the Sun moving through the three worlds, earth, atmosphere and heaven. On this Durgācārya explains प्रार्थिवोऽग्निर्भूत्वा पृथिव्यां यत्किंचिदस्ति तद्विक्रमते । अंतरिक्षे (*prārthivo 'gnirbhūtvā pṛthivyāṃ yatkiṃcidasti tadvikramate | aṃtarikṣe*) विद्युदात्मना दिवि सूरात्मना (*vidyudātmanā divi sūrātmanā*): "becoming the terrestrial Agni he strides over whatever is on the earth; in the atmosphere in the form of lightning; in heaven in the form of the Sun"; that is, he pervades the three worlds in the forms of Agni, Vāyu and the Sun. In support of this very sense:
+
+विष्णुमुखा वै देवाश्चंदोभिरिमांल्लोकाननपजय्यमभ्यजयन् यद्वि- (*viṣṇumukhā vai devāścaṃdobhirimāṃllokānanapajayyamabhyajayan yadvi-*)
+ष्णुक्रमान्क्रमते विष्णुरेव भूत्वा यजमानश्चंदोभिरिमांल्लोकाननप- (*ṣṇukramānkramate viṣṇureva bhūtvā yajamānaścaṃdobhirimāṃllokānanapa-*)
+जय्यमभिजयति विष्णोः क्रमोस्यभिमातिहेत्याह गायत्री वै पृथिवी (*jayyamabhijayati viṣṇoḥ kramosyabhimātihetyāha gāyatrī vai pṛthivī*)
+त्रैष्टुभमंतरिक्षं जागती द्यौरानुष्टुभीर्दिशश्चंदोभिरेवेमांल्लोकान् (*traiṣṭubhamaṃtarikṣaṃ jāgatī dyaurānuṣṭubhīrdiśaścaṃdobhirevemāṃllokān*)
+यथापूर्वमभिजयति । (*yathāpūrvamabhijayati |*)
+(कृ. सं. १-७-५-४) (*(kṛ. saṃ. 1-7-5-4)*)
+
+अन्या देवतासीथ्योऽब्रवीद्विष्णवे हीदमा हरिष्यावो येनायमिदमिति स (*anyā devatāsīthyo 'bravīdviṣṇave hīdamā hariṣyāvo yenāyamidamiti sa*)
+विष्णुस्त्रेधात्मानं वि न्यधत्त पृथिव्यां तृतीयमंतरिक्षे तृतीयं दिवि तृती- (*viṣṇustredhātmānaṃ vi nyadhatta pṛthivyāṃ tṛtīyamaṃtarikṣe tṛtīyaṃ divi tṛtī-*)
+यमभिपर्यावर्ताद्द्यबिभेद्यत्पृथिव्यां तृतीयमासीत्तेनेंद्रो वज्रमुद- (*yamabhiparyāvartāddyabibhedyatpṛthivyāṃ tṛtīyamāsītteneṃdro vajramuda-*)
+यच्छद्विष्णवनुस्थितस्सोऽब्रवीन्मा मे प्र हारस्ति वा इदं ॥ (*yacchadviṣṇavanusthitasso 'bravīnmā me pra hārasti vā idaṃ ‖*)
+(कृ. सं. २-४-१२-३) (*(kṛ. saṃ. 2-4-12-3)*)
+
+in such Saṃhitā sentences too, and in
+
+यद्वेव विष्णुक्रमान्क्रमते! यज्ञो वै विष्णुः स देवेभ्य इमां विक्रांतिं (*yadveva viṣṇukramānkramate! yajño vai viṣṇuḥ sa devebhya imāṃ vikrāṃtiṃ*)
+विचक्रमे यैषामियं विक्रांतिरिदमेव प्रथमेन पदेन पस्पाराथेद- (*vicakrame yaiṣāmiyaṃ vikrāṃtiridameva prathamena padena paspārātheda-*)
+मंतरिक्षं द्वितीयेन दिवमुत्तमेनैतामेवैष एतस्मै विष्णुर्यज्ञं विक्रांतिं (*maṃtarikṣaṃ dvitīyena divamuttamenaitāmevaiṣa etasmai viṣṇuryajñaṃ vikrāṃtiṃ*)
+विक्रमते तस्माद्विष्णुक्रमान्क्रमते । (*vikramate tasmādviṣṇukramānkramate |*)
+(श ब्रा, १-९-३-९) (*(śa brā, 1-9-3-9)*)
+
+यद्वेव विष्णुक्रमवात्सप्रे भवतः । विष्णुक्रमैर्वै प्रजापतिरिमं लोकम- (*yadveva viṣṇukramavātsapre bhavataḥ | viṣṇukramairvai prajāpatirimaṃ lokama-*)
+सृजत वात्सप्रेणाग्निं विष्णुक्रमैर्वै प्रजापतिरंतरिक्षमसृजत वात्सप्रेण- (*sṛjata vātsapreṇāgniṃ viṣṇukramairvai prajāpatiraṃtarikṣamasṛjata vātsapreṇa-*)
+वायुं विष्णुक्रमैर्वै प्रजापतिर्दिवमसृजत वात्सप्रेणादित्यं । (*vāyuṃ viṣṇukramairvai prajāpatirdivamasṛjata vātsapreṇādityaṃ |*)
+(श. ब्रा. ६-७-४-२) (*(śa. brā. 6-7-4-2)*)
+
+such Brāhmaṇa sentences, it is shown, in accordance with the opinion of Śākapūṇi, that the three steps of Viṣṇu are related to earth, atmosphere and heaven, and to the deities Agni, Vāyu and the Sun. And
+
+आ यो विवाय सचथाय दैव्य इंद्राय विष्णुः सुकृते सुकृत्तरः । (*ā yo vivāya sacathāya daivya iṃdrāya viṣṇuḥ sukṛte sukṛttaraḥ |*)
+वेधा अजिन्वत्रिषधस्थ आर्यमृतस्य भागे यजमानमाभजत् ॥ (*vedhā ajinvatriṣadhastha āryamṛtasya bhāge yajamānamābhajat ‖*)
+(म. सं. १-१५६-५) (*(ma. saṃ. 1-156-5)*)
+
+### Printed p. 168
+
+*Running head: [168 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186].*
+
+in this ṛk it is said that Viṣṇu himself strides over the three worlds beginning with the earth. As said in the mantra ६-७-४-७ (*6-7-4-7*) of the Śatapatha Brāhmaṇa quoted above, the three strides of Viṣṇu are the cause of the creation and maintenance of the worlds, earth and the rest; this is praised in the ṛk (ऋ. सं १-१५४-२) (*(ṛ. saṃ 1-154-2)*) with the words अधिक्षि (*adhikṣi*) यंति भुवनानि विश्वा (*yaṃti bhuvanāni viśvā*): all the worlds rest on the support in the form of the three strides of Viṣṇu; so the greatness of Viṣṇu's strides is praised.
+
+In the Purāṇas and similar works Viṣṇu has an important place. Since he pervades the whole universe, Viṣṇu is called Parameśvara and Parabrahman; or, among the Trimūrti (Brahmā, Viṣṇu, Maheśvara) who carry on the creation, maintenance and dissolution of the world, Viṣṇu is famed as the one who protects the world. For this task of protecting the world Viṣṇu had to take many incarnations, and it is the opinion of the bhāṣyakāra and other scholars that the incarnation of Vāmana or Trivikrama is the one described in this ṛk. But Western and modern scholars hold that, since incarnations of Viṣṇu are not indicated in the Ṛgveda, and since the divine acts found here and there in the Veda are described in a special way in the Purāṇas, and the source of the Purāṇic stories is the Veda itself, it is not right to interpret the incarnations in the Purāṇas by fitting them to the Vedic mantras.
+
+According to the story told in the Purāṇas, when the asura emperor Bali was ruling after defeating the gods, the defeated gods appealed to Viṣṇu, and in order to protect them Viṣṇu took the incarnation of Vāmana and went to Bali while he had undertaken the sacrificial consecration and asked for as much earth as three steps; Bali agreed and said he would give it. Then Viṣṇu, from the form of Vāmana, took the incarnation of Trivikrama, that is, assumed a gigantic form pervading earth and atmosphere, and covered the whole earth with one step and the atmosphere with another, and asked Bali where to place the third step; since the king was true to his word he prayed that, as there was no other place, he should place the third step on his own head and bless him; accordingly Trivikrama placed his third foot on Bali's head, made him go to the nether world, rule there and live happily, and gave him the boon he wished: so there is a lengthy description.
+
+अश्विनौ (*aśvinau*) — we have explained the Aśvin deities many times before. Here we shall state briefly only a short introduction of them and the help they gave to those who praised them.
+
+There are two Aśvin deities. Though one of them is named Dasra and the other Nāsatya, both are often called by the name Dasra or Nāsatya alone.
+
+### Printed p. 169
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5. ।] Ṛgveda-saṃhitā 169 (as supplied, with a danda).*
+
+Their chariot is golden, and its wheels, axle and other parts are all made of gold (ऋ सं. ४-४४-४, १-१८०-१, ८-५-२९, ८-२२-५ (*ṛ saṃ. 4-44-4, 1-180-1, 8-5-29, 8-22-5*) and others); it is a peculiar chariot. It has three wheels, three felloes, and some other parts also in threes. It has the speed of thought. A three-wheeled chariot belongs to them alone.
+
+यदयाशं शुभस्पती वरेयं सूर्यमुप । (*yadayāśaṃ śubhaspatī vareyaṃ sūryamupa |*)
+क्वैकं चक्रं नामासीत् क्व देष्वाप्यय तस्थतुः ॥ (*kvaikaṃ cakraṃ nāmāsīt kva deṣvāpyaya tasthatuḥ ‖*)
+(म. सं. १०-८५-१५) (*(ma. saṃ. 10-85-15)*)
+
+in this it is said that when they went to the wedding of the goddess Sūryā one wheel of the chariot was lost. Although the word *aśvinau* means "possessors of horses (*aśva*)", it is nowhere said that this name came to them because they are horse-riders. The animals that draw their chariot are said to be horses (ऋ. सं. १-११७-२ (*ṛ. saṃ. 1-117-2*)), birds (६-६३-६ (*6-63-6*)), swans (४-४५-४ (*4-45-4*)), eagles (१-११८-४ (*1-118-4*)), hawk-shaped horses (८-५-७ (*8-5-7*)). But their chief vehicle, as Yāska says, is रासभावश्विनोः (*rāsabhāvaśvinoḥ*): asses are the vehicles of the Aśvin deities ((नि. २-२८) (*(ni. 2-28)*)).
+
+कदा योगो वाजिनो रासभस्य येन यज्ञं नासत्योपयाथः । (*kadā yogo vājino rāsabhasya yena yajñaṃ nāsatyopayāthaḥ |*)
+(म. सं. १-३४-९) (*(ma. saṃ. 1-34-9)*)
+शद्रासभो [?] नासत्या सहस्रमाजा यमस्य प्रधने जिगाय । (*śadrāsabho [?] nāsatyā sahasramājā yamasya pradhane jigāya |*)
+(म. सं. १-११६-२) (*(ma. saṃ. 1-116-2)*)
+
+in these and similar ṛks it is stated plainly that the ass (*rāsabha*) is the vehicle of the Aśvin deities. Those who perform sacrifice always invoke them at dawn. They have a relation with the daughter of the Sun; Sūryā herself chose them (ऋ सं ७-६९-४ (*ṛ saṃ 7-69-4*)); both are her husbands (४-४३-६ (*4-43-6*)); Sūryā mounted their chariot (५-७३-५ ; ८-८-१० (*5-73-5 ; 8-8-10*)); the daughter of the Sun mounts their chariot (ऋ. सं. १-३४-५ ; १-११६-१७ ; १-११८-५ ; ६-६३-५ (*ṛ. saṃ. 1-34-5 ; 1-116-17 ; 1-118-5 ; 6-63-5*)); they regard Sūryā as their own (७-६८-३ (*7-68-3*)) and she goes with them in the chariot (८-२९-८ (*8-29-8*)): there are such descriptions.
+
+There are many stories to show that they help people in distress. These have been explained at length in their places; of them we have explained only a few important ones here.
+
+जुजुरुषो नासत्योत वन्रिं प्रामुंचतं द्रापिमिव च्यवानात् । (*jujuruṣo nāsatyota vanriṃ prāmuṃcataṃ drāpimiva cyavānāt |*)
+प्रातिरतं जहितस्यायुर्दस्रादित्पतिमकृणुतं कनीनां ॥ (*prātirataṃ jahitasyāyurdasrāditpatimakṛṇutaṃ kanīnāṃ ‖*)
+(म. सं. १-१३६-११) (*(ma. saṃ. 1-136-11)*)
+
+[the window ends here with the verse and its reference].
+
 ---
 
-**Progress note:** Done through printed p. 166 (PDF 166). Done through printed p. 166 (Sukta 186 Rk 10 Special Topics: vata, pushan, vishnu; ends with the Sakapuni sentence on Vishnu's three steps)
+**Progress note:** Done through printed p. 169 (PDF 169). Done through printed p. 169 (Sukta 186 Rk 10 Special Topics: Vishnu's three steps, Ashvins; ends at the verse jujurusho nasatyota)
