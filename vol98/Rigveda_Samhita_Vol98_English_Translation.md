@@ -3876,6 +3876,80 @@ has explained the word *sūri* in it as *īrayitā*, "inciter" ((नि. १२-
 
 *Gist:* With homage and oblation I approach Dawn and Night, as a good milch-cow comes to be milked, offering sacrificial food on the same day in the same udder. (The bhāṣya breaks off at the end of p. 135; the supplied text has "ಅಹನಿ ೦ ರ್ವದೈವ [?]" in it, marked [?].)
 
+### Printed p. 136
+
+*Running head: [136 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186]. The window continues the bhāṣya of Ṛk 4 of Sūkta 186 from p. 135, in mid-sentence.*
+
+> पयसि त्वदर्थं हविर्विमिमान उपगच्छामीत्यर्थः । यद्वा । सस्मिन् सर्वस्मिन्नूधसि
+> फलाख्यक्षीरोत्पादके यज्ञे निमित्तभूते सति विषुरूपे पयसि नानारूपे सोम-
+> लक्षणोदकेऽर्कमन्नसाधनं स्तोत्रं विमिमानोऽहं युष्मानभिगच्छामि ॥
+
+*Gist:* Mixing oblation for you in the multiform milk from one udder, or praising with the food-giving hymn, I approach you.
+
+*[As supplied, the label line of the next section reads १ प्रतिपदार्थ १ (*1 pratipadārtha 1*) (inside the bhāṣya block); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O gods) समाने अहन् (*samāne ahan*) — on the same (sixth) day, or at all times. सस्मिन् (*sasmin*) — of the same (one). ऊधन् (*ūdhan*) — produced from the udder. विषुरूपे (*viṣurūpe*) — taking various forms. पयसि (*payasi*) — in the milk. अर्कं (*arkaṃ*) — the worshipful food such as the *caru*. विमिमानः (*vimimānaḥ*) — I who mix. जिगीषा (*jigīṣā*) — with the desire to conquer sin. सुदुघा (*sudughā*) — the good milker. धेनुः इव (*dhenuḥ iva*) — like a cow that comes of itself to be milked. उषासानक्ता (*uṣāsānaktā*) — Day and Night. नमसा (*namasā*) — with oblation and with homage. वः (*vaḥ*) — you. उप (*upa*) — approaching. एषे (*eṣe*) — (I desire your presence.)
+
+*[As supplied, the label line of the next section reads भाषार्थ (*bhāṣārtha*) (inside the bhāṣya block); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O gods, I who, on the sixth day of the sacrifice, mix the worshipful *caru*, *puroḍāśa* and other food in milk that comes from one udder and takes many forms, approach you with oblation and with homage, day and night, wishing your presence, with the desire to conquer sin, as a good milch-cow comes of itself to be milked.
+
+**Printed English translation**
+
+I approach you, (deities), with reverence, night and day, in the hope of overcoming (sin), as (willingly) as a gentle cow (comes to be milked)' mixing (for you) on the appropriate day the (sacrificial) food, (consisting) of multiform (preparations) of milk (generated) from the same udder. [The printed text has a stray closing quote mark after "milked)" as supplied.]
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Although the gods are prayed to in this ṛk, other gods are also praised in general, that is, collectively, besides the deity named उषासानक्ता (*uṣāsānaktā*) (the supplied text has "ಸವಷ್ಟಿರೂಪ" for "ಸಮಷ್ಟಿರೂಪ").
+
+नमसा—हविषा नमस्कारेण वा (*namasā—haviṣā namaskāreṇa vā*) — with oblation or with homage: the sense is "I approach you, the gods, with oblation or with homage".
+
+उषासानक्ता—अहनि रात्रौ च । यद्वा । अहोरात्रदेवते अप्यभिगच्छामि (*uṣāsānaktā—ahani rātrau ca | yadvā | ahorātradevate apyabhigacchāmi*) — the bhāṣyakāra has explained it in one way as "by day and by night", and in another way as "the deities called Uṣāsānaktā, presiding over day and night".
+
+### Printed p. 137
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 137 (as supplied, "ಅ. ೨ ಅ ೫. ವ. ೪.").*
+
+In this ṛk the deities presiding over night and morning, *naktoṣāsā*, are invoked. Yāska's explanation of the word *naktoṣasā* is this:
+
+उषासानक्ता । उषासानक्कोषाश्च [?] नक्ता चोषा व्याख्याता । नक्तेति (*uṣāsānaktā | uṣāsānakkoṣāśca [?] naktā coṣā vyākhyātā | nakteti*)
+रात्रिनामानक्ति भूतान्यवश्यायेनापि वा नक्ताव्यक्तवर्णा ॥ (*rātrināmānakti bhūtānyavaśyāyenāpi vā naktāvyaktavarṇā ‖*)
+(नि. ८-११) (*(ni. 8-11)*)
+
+Though read in two ways, *naktoṣāsā* and *uṣāsānaktā*, the sense is one. The explanation of the word *uṣāḥ* I have given earlier. *Naktā* is a name of night: because *naktā* means "of unclear colour"; since it is dark, things are unclear, that is, not seen well; so the night with darkness is called *naktā*. And in the night-time creatures are unable to do their several tasks. अनक्ति, क्लेदयति भूतानि अवश्यायेन इति (*anakti, kledayati bhūtāni avaśyāyena iti*) ("it wets creatures with dew"); अपि वानक्ता अव्यक्तवर्णा । यथा अहः सर्वमभिव्यक्तरूपं भवति न तथा रात्रिः (*api vānaktā avyaktavarṇā | yathā ahaḥ sarvamabhivyaktarūpaṃ bhavati na tathā rātriḥ*) ("or *anaktā*, of unclear colour: as the day makes everything clearly visible, the night does not"). Since darkness troubles creatures so that their work and so on cannot go on properly, the night with such darkness is called *naktā*; or because nothing is seen well but all is unclear it is called *naktā*. By day the forms of all things are clearly seen; at night they are not so seen; therefore the night time is called *naktā*: thus the meaning is explained.
+
+The explanation of the word *uṣāḥ* has been given before, it is said. That explanation is this: sixteen words, विभावरी (*vibhāvarī*), सूदरी (*sūdarī*) and so on, are names of Uṣas ((नि. २-१९) (*(ni. 2-19)*)), and
+
+उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ*)
+
+she is called *uṣāḥ* because she removes the darkness of the night time, that is, she is the later time, the last part of the night. In support of this meaning an example is given:
+
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā |*)
+यथा प्रसूता सवितुः सवाय एवा रात्रुषसे योनिमारैक् ॥ (*yathā prasūtā savituḥ savāya evā rātruṣase yonimāraik ‖*)
+(पु. सं. १-११३-१) (*(pu. saṃ. 1-113-1)*)
+
+The Nirukta on this ṛk is:
+
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् । चित्रं प्रकेतनं प्रज्ञातत- ममजनिष्ट विभूततमं यथा प्रसूता सवितुःप्रसवाय रात्रिरादित्यस्य (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgamat | citraṃ praketanaṃ prajñātata- mamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥprasavāya rātrirādityasya*)
+
+### Printed p. 138
+
+*Running head: [138 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+एवं रात्रुषसे योनिमरिचत् स्थानं । स्त्रीयोनिरभियुत एनां (*evaṃ rātruṣase yonimaricat sthānaṃ | strīyonirabhiyuta enāṃ*) गर्भः (*garbhaḥ*)
+
+The best and most brilliant light of the Sun is rising. The time of dawn, which precedes the brightness of the Sun, appears before the light like its standard. How? As the light of the Sun, having shone all day, becomes at sunset the womb, that is, the cause, of the night, so the night at its end becomes the womb, that is, the cause, of the dawn-time; "womb" means the place of birth. The main sense is that at the end of day the night and at the end of night the dawn come, each changing into the other. Therefore *uṣas* means the light that, after the night has passed, before sunrise, spreads over all the quarters and appears.
+
+The bhāṣyakāra (Sāyaṇa)'s explanation is: नक्तशब्द: उषश्यब्दश्च लोके कालविशेषवा- (*naktaśabda: uṣaśyabdaśca loke kālaviśeṣavā-*) चिनौ । इह तु तत्कालाभिमानिवह्निमूर्तिद्वये प्रयुज्येते । नक्तोषासा नक्तोषो- (*cinau | iha tu tatkālābhimānivahnimūrtidvaye prayujyete | naktoṣāsā naktoṣo-*) नामिके वह्निमूर्ति (*nāmike vahnimūrti*): the two words *nakta* (night) and *uṣas* (morning) in common usage denote the special times of night and morning; here, that is, in this ṛk or in the Ṛgveda, these words denote the presiding deities of night and morning. Therefore the words *naktoṣāsā* or *uṣāsānaktā* are used in the sense of the two forms (*mūrti*) of Agni, presiding over night and the dawn-time. The word सुपेशसा (*supeśasā*) (of good form) used in this ṛk supports this sense: since night and morning are divisions of time they have neither form nor shape; if they are said to be the presiding deities of those times, form can be assigned to those deities; since such assignment is made in this ṛk, it is to be understood that the presiding deities of those times are meant here. The *ṣ* in the word *naktoṣasā* is lengthened for the sake of the metre.
+
+सुदुघेव धेनुः (*sudugheva dhenuḥ*) — when the ṛṣi says that he wishes to come near the gods, he gives a comparison: as a good milch-cow, when evening comes, leaves the grazing outside and comes to her master's house: so the sense of the comparison is explained.
+
+ईषे (*īṣe*) — the word ईषे (*īṣe*) may be formed from the root *iṣ* meaning "to go", or from the root *īṣ* with the same sense, according to the bhāṣyakāra's explanation. *Īṣe* means "I wish", "I desire", or "I desire to come near (you)".
+
 ---
 
-**Progress note:** Done through printed p. 135 (PDF 135). Done through printed p. 135 (Sukta 186 Rk 3 complete; Rk 4 Samhitha and Pada done, bhashya breaks off mid-sentence at end of p. 135)
+**Progress note:** Done through printed p. 138 (PDF 138). Done through printed p. 138 (Sukta 186 Rk 4 complete through Special Topics: naktosasa, usas, sudugheva, ishe)
