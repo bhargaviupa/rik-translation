@@ -5112,6 +5112,103 @@ There are also many Śruti proofs on the matter that one should give food to gue
 
 [the window ends here with the verse and its reference].
 
+### Printed p. 181
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 6.] Ṛgveda-saṃhitā 181 (as supplied). The window continues the introductory essay on food (*anna*) of Sūkta 187 from p. 180, after the last verse quoted on p. 180.*
+
+... that is, the food (nourishment) won by a miser who gives nothing to anyone is in vain. No benefit comes to him from the food he gains; it becomes the cause of his death (ruin). "I say this is true." It is said that the man who does not offer oblations and the like to the deities Aryaman and the rest, that is, does not give food to the gods, and does not satisfy with food a friend or a guest coming to the house like a friend, but eats alone, is a great sinner. And:
+
+न स सखा यो न ददाति सख्ये सचाभुवे सचमानाय पित्वः । (*na sa sakhā yo na dadāti sakhye sacābhuve sacamānāya pitvaḥ |*)
+अपास्मात्पेयान्न तदोको अस्ति पृणंतमन्यमरणं चिदिच्छेत् ॥ (*apāsmātpeyānna tadoko asti pṛṇaṃtamanyamaraṇaṃ cidicchet ‖*)
+(म. सं १०-११७-४) (*(ma. saṃ 10-117-4)*)
+
+One who does not give food to a friend, to his companion, to one near him, is no friend at all. Therefore one should leave the house of such a man; it is not the only house; there are surely houses of generous people who give food, and it is good to go there: so the ṛṣi describes. For this reason good householders should prepare in the house somewhat more food than is enough for themselves, for the entertainment of guests and visitors. On this matter:
+
+अन्नं बहु कुर्वीत । तद्व्रतं । पृथिवी वा अन्नं । आकाशोऽन्नादः । (*annaṃ bahu kurvīta | tadvrataṃ | pṛthivī vā annaṃ | ākāśo 'nnādaḥ |*)
+पृथिव्यामाकाशः प्रतिष्ठितः । आकाशे पृथिवी प्रतिष्ठिता । तदेतदन्नमन्ने (*pṛthivyāmākāśaḥ pratiṣṭhitaḥ | ākāśe pṛthivī pratiṣṭhitā | tadetadannamanne*)
+प्रतिष्ठितं । स य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो (*pratiṣṭhitaṃ | sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo*)
+भवति । महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान् कीर्त्या ॥ (*bhavati | mahānbhavati prajayā paśubhirbrahmavarcasena | mahān kīrtyā ‖*)
+(त्रै. उ. ३-९) (*(trai. u. 3-9)*)
+(कृ. उ. ३-९) (*(kṛ. u. 3-9)*)
+
+(the reference is printed twice: "ತ್ರೈ. ಉ. ೩-೯" and "ಕೃ. ಉ. ೩-೯"). One should make much food; one should regard that very thing as a vow. The earth is food; space eats food: that is, the plants, grains and the like that grow on the earth are eaten, in the form of oblations, by the gods of the atmosphere (heaven). Space is established in the earth; the earth is established in space. Both (earth and space) are established in food. That food is established in food (in Brahman in the form of food). One who knows that food is established in food lives with establishment or honour. He becomes rich (the supplied text has "ಸಷುದ್ಧನೂ" for "ಸಮೃದ್ಧನೂ") in food and an enjoyer of food, and, endowed with sons, grandsons and descendants, with cattle, with radiance of Brahman and fame, he obtains esteem among men. And:
+
+न कंचन वसत् प्रत्याचक्षीत । तद्व्रतं । तस्माद्यया कया च विधया बह्वन्नं (*na kaṃcana vasat pratyācakṣīta | tadvrataṃ | tasmādyayā kayā ca vidhayā bahvannaṃ*)
+प्राप्नुयात् ! अराध्यस्मा अन्नमित्याचक्षते । एतद्वै मुखतोऽन्नग्ं (*prāpnuyāt ! arādhyasmā annamityācakṣate | etadvai mukhato 'nnagṃ*)
+राद्धं । मुखतोऽस्मा अन्नग्ंराध्यते । एतद्वै मध्यतोऽन्नग्ं राद्धं । (*rāddhaṃ | mukhato 'smā annagṃrādhyate | etadvai madhyato 'nnagṃ rāddhaṃ |*)
+
+### Printed p. 182
+
+*Running head: [182 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 187].*
+
+मध्यतोऽस्मा अन्नग्ं राध्यते । एतद्वा अंततोऽन्नग्ं राद्धं । अंततोS (*madhyato 'smā annagṃ rādhyate | etadvā aṃtato 'nnagṃ rāddhaṃ | aṃtatoS*)
+स्मा अन्नग्ं राध्यते । य एवं वेद । .... .... .... .... तत्पतिष्ठेत्युपासीत । (*smā annagṃ rādhyate | ya evaṃ veda | .... .... .... .... tatpatiṣṭhetyupāsīta |*)
+प्रतिष्ठावान् भवति । तन्मह इत्युपासीत । महान्भवति । तन्मन इत्युपासीत । (*pratiṣṭhāvān bhavati | tanmaha ityupāsīta | mahānbhavati | tanmana ityupāsīta |*)
+मानवान्भवति । तन्नम इत्युपासीत । नम्यंतेऽस्मै कामाः । तद्ब्रह्मेत्युपा- (*mānavānbhavati | tannama ityupāsīta | namyaṃte 'smai kāmāḥ | tadbrahmetyupā-*)
+सीत । ब्रह्मवान्भवति । तद्ब्रह्मणः परिमर इत्युपासीत । पर्येणं (*sīta | brahmavānbhavati | tadbrahmaṇaḥ parimara ityupāsīta | paryeṇaṃ*)
+म्रियंते द्विषंतः सपत्नाः । परिये प्रिया भ्रातृव्याः । स यश्चायं (*mriyaṃte dviṣaṃtaḥ sapatnāḥ | pariye priyā bhrātṛvyāḥ | sa yaścāyaṃ*)
+पुरुषे । यश्चासावादित्ये । स एकः । स य एवं वित् । अस्मालोकात्प्रेत्य! (*puruṣe | yaścāsāvāditye | sa ekaḥ | sa ya evaṃ vit | asmālokātpretya!*)
+एतमन्नमयमात्मानमुपसंक्रम्य । एतं प्राणमयमात्मानमुपसंक्रम्य । (*etamannamayamātmānamupasaṃkramya | etaṃ prāṇamayamātmānamupasaṃkramya |*)
+एतं मनोमयमात्मानमुपसंक्रम्य । एतं विज्ञानमयमात्मानमुप- (*etaṃ manomayamātmānamupasaṃkramya | etaṃ vijñānamayamātmānamupa-*)
+संक्रम्य । एतमानंदमयमात्मानमुपसंक्रम्य । इमान्‌लोकान् (*saṃkramya | etamānaṃdamayamātmānamupasaṃkramya | imānlokān*)
+कामान्नि कामरूप्यनुसंचरन् । एतत्सामगायन्नास्ते । हा ३ वु हा ३ वु (*kāmānni kāmarūpyanusaṃcaran | etatsāmagāyannāste | hā 3 vu hā 3 vu*)
+हा ३ वु । अहमन्नमहमन्नमहमन्नं । अहमन्नादोऽ२ हमन्नादोऽ२- (*hā 3 vu | ahamannamahamannamahamannaṃ | ahamannādo '2 hamannādo '2-*)
+हमन्नादः । अहग् श्लोककृदहग् श्लोककृदहग् श्लोककृत् । अहमस्मि (*hamannādaḥ | ahag ślokakṛdahag ślokakṛdahag ślokakṛt | ahamasmi*)
+प्रथमजा ऋता ३ स्य । पूर्वंदेवेभ्यो अमृतस्यना ३ भायि । यो (*prathamajā ṛtā 3 sya | pūrvaṃdevebhyo amṛtasyanā 3 bhāyi | yo*)
+मा ददाति स इदेवमा ३ वाः । अहमन्न मन्नमदंतमा ३ द्मि । अहं विश्वं (*mā dadāti sa idevamā 3 vāḥ | ahamanna mannamadaṃtamā 3 dmi | ahaṃ viśvaṃ*)
+भुवनमभ्यभवां । सुवर्णज्योतीः । य एवं वेद । इत्युपनिषत् ॥ (*bhuvanamabhyabhavāṃ | suvarṇajyotīḥ | ya evaṃ veda | ityupaniṣat ‖*)
+(त्रि. उ. ३-१०) (*(tri. u. 3-10)*)
+
+(The supplied text has ellipsis dots in the Upaniṣad passage, as in the printed original.) These sentences were spoken by the Veda-puruṣa himself. One should not refuse anyone on the plea that there is no room in the house; one should regard that very thing as a vow. Therefore in whatever way one should obtain much food. They say "prepare food for him (the guest)": this is the preparation of food with great respect. In preparing food and giving it to a worthy person there are three kinds, *sāttvika*, *rājasa* and *tāmasa*, as the Lord himself has said:
+
+दातव्यमिति यद्दानं दीयतेऽनुपकारिणे । (*dātavyamiti yaddānaṃ dīyate 'nupakāriṇe |*)
+देशे काले च पात्रे च तद्दानं सात्विकं स्मृतं ॥ (*deśe kāle ca pātre ca taddānaṃ sātvikaṃ smṛtaṃ ‖*)
+
+यदन्नं संपादितमस्त्येतदेवान्नं मुखतो राद्धं भवति । मुख्य देशे (*yadannaṃ saṃpāditamastyetadevānnaṃ mukhato rāddhaṃ bhavati | mukhya deśe*)
+तीर्थक्षेत्रविशेषे मुख्यकाले संक्रांत्यमावास्यादिरूपे मुख्यायाभ्यागताय (*tīrthakṣetraviśeṣe mukhyakāle saṃkrāṃtyamāvāsyādirūpe mukhyāyābhyāgatāya*)
+वेदशास्त्रतदध्ययनानुष्ठानपराय मुख्यया वृत्ता श्रद्धाप्रणिपातसत्कारादिरूपया (*vedaśāstratadadhyayanānuṣṭhānaparāya mukhyayā vṛttā śraddhāpraṇipātasatkārādirūpayā*)
+मुख्यन दात्रा सात्विकेन दत्तमित्यर्थः । यः पुमानेवं सात्विकं दानप्रकारं (*mukhyana dātrā sātvikena dattamityarthaḥ | yaḥ pumānevaṃ sātvikaṃ dānaprakāraṃ*)
+वेद विदित्वानुतिष्ठति अस्मै जन्मांतरे मुख्यक्रमणैवान्नं संपद्यते । (*veda viditvānutiṣṭhati asmai janmāṃtare mukhyakramaṇaivānnaṃ saṃpadyate |*)
+
+The *sāttvika* gift means that while giving, one should not keep any expectation of some return from the receiver afterwards. A gift given in truth, without any hope of return, considering place, time, and the worthiness or unworthiness of the receiver, is called *sāttvika*. For example, in sacred places such as *tīrtha*-kṣetras, on special days such as the solstice (*saṃkrānti*) and the new-moon day, food should be given to a guest or visitor, whether invited or coming of his own accord. It is still better if that guest is accomplished in the study of the Veda and śāstras, practises them and is of good conduct. Such a man should be honoured with faith, received and entertained, and given food.
+
+### Printed p. 183
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 6. ] Ṛgveda-saṃhitā 183 (as supplied).*
+
+(The sentence continues:) If food is given to any man afflicted with hunger, and above all to a guest or visitor with the qualities stated above, it becomes a *sāttvika* gift, and the giver in later births lives happily, with abundance of food. That is explained here by the sentences एतद्वै मुखतोऽन्नग्ं राद्धं । मुखतोऽस्मा अन्नग्ं राज्यते [?] (*etadvai mukhato 'nnagṃ rāddhaṃ | mukhato 'smā annagṃ rājyate [?]*) ("this food is prepared at the head; for him food is prepared at the head"). Now the second and third kinds, *rājasa* and *tāmasa* gifts, are as follows:
+
+यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः । (*yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ |*)
+दीयते च परिक्लिष्टं तद्राजसमुदाहृतं ॥ (*dīyate ca parikliṣṭaṃ tadrājasamudāhṛtaṃ ‖*)
+आदेशकाले यद्दानमपात्रेभ्यश्च दीयते । (*ādeśakāle yaddānamapātrebhyaśca dīyate |*)
+असत्पतमवज्ञातं तत्तामसमुदाहृतं ॥ (*asatpatamavajñātaṃ tattāmasamudāhṛtaṃ ‖*)
+
+A gift made by a man who looks for a return is a *rājasa* gift. For example: "If today I give food to this man, tomorrow or some day later he too will honour me in the same way": a gift made with such a thought is called *rājasa*. Such a gift is explained here by the sentences एतद्वै मध्यतोऽन्नग्ं राद्धं । मध्यतोऽस्मा अन्नग्ं राध्यते (*etadvai madhyato 'nnagṃ rāddhaṃ | madhyato 'smā annagṃ rādhyate*) ("this food is prepared in the middle; for him food is prepared in the middle").
+
+Besides, a gift made without considering place, time and worthiness, without proper respect, merely for self-praise, is called *tāmasa*; that is, given in a reproachable place, at an improper time such as midnight, to an unworthy man, that is, one who is not troubled by hunger and has eaten to the throat and has no need of any food, a hospitality or gift made out of conceit, so that another may see and admire one's hospitality, is called unrighteous. This is explained here by the sentences एतद्वा अंततोन्नग्ं राद्धं । अंततोऽस्मा अन्नग्ं राज्यते [?] (*etadvā aṃtatonnagṃ rāddhaṃ | aṃtato 'smā annagṃ rājyate [?]*) ("this food is prepared at the end; for him food is prepared at the end"). Therefore, knowing all these matters well, one should give food at the right time to a worthy recipient.
+
+It is explained that if a man worships food as the form of Parabrahman, he gets the fruit according to his attitude of worship. For example:
+
+*[Page break of the print, p. 183/184: the supplied text prints the page-184 header in the middle of the sentence, with no page marker.]*
+
+### Printed p. 184
+
+तत्पतिष्ठेत्युपासीत । प्रतिष्ठावान्भवति (*tatpatiṣṭhetyupāsīta | pratiṣṭhāvānbhavati*) — if he worships it as "establishment" he becomes endowed with the means of happiness such as food and clothing and has an established position. One who worships it as radiance (*mahaḥ*) becomes rich in wealth and the like, endowed with the qualities of greatness and worthy of honour. One who worships it as mind (*manaḥ*) becomes endowed with the power of thought. One who worships it as *namaḥ* (worthy of salutation) is saluted by all and holds all in his power. All desires of this man, that is, all his wishes, are subject to him, that is, are fulfilled (the supplied text has "ಇவனுக்கு" here, in Tamil script; rewritten in Kannada letters as इवनुक्कु [?] (*ivanukku [?]*) and marked [?]). One who worships it as Brahman becomes a knower of the Vedas and the secret principles of their meaning. One who worships it as तद्ब्रह्मणः परिमर (*tadbrahmaṇaḥ parimara*) ("the dying around of Brahman") finds his enemies, afflictions and diseases around him destroyed; all enemies, haters and unfriendly ones are utterly destroyed. He who is in this man, and he who is in the Sun, is the same. One who has this knowledge, departing from this world, passes beyond the states of the self called *annamaya*, *prāṇamaya*, *manomaya*, *vijñānamaya* and *ānandamaya*, and, becoming a *vidyādhara* (a god with the power of taking whatever forms he wishes), enjoying desires, wanders here and there singing these *sāman* verses (as the Upaniṣad says above). "What a wonder this is! I am food, I am the eater of food, I am the praiser; I was born before the Truth (*ṛta*), and before the gods, in the navel of immortality (in the middle). He who gives to me becomes like me. I am food. I eat him who eats food. I conquer this whole universe, this world. One who knows this becomes like a golden light." There are many such descriptions of food, or of the deity (Brahman) who is the lord of food. There are many more mantras in the Vedas that contain matters about food; for fear of too long a book they cannot all be explained here.
+
+*[As supplied, the label line reads सायणभाष्य ८ (*sāyaṇabhāṣya 8*); the following lines are Sāyaṇa's introduction to Sūkta 187, printed as plain lines, and are given here as a block.]*
+
+> पितुं नित्येकादशर्चमष्टमं सूक्तमागस्त्यमन्नदेवताकं गायत्रं । आद्या-
+> नुष्टुब्बर्भोष्ठिक् । आद्यः पंचकस्त्रयोऽष्टका अनुष्टुब्बर्भा । अनु. ५-७ । इत्युक्त-
+> श्वात् । तृतीया पंचमी षष्ठी सप्तम्येकादशी चेति पंचानुष्टुभः । तथा चानु-
+> क्रमणिका । पितुं नृन्नस्तुतिर्गायत्रं त्वाद्यानुष्टुब्बर्भा तृतीयांत्ये पंचम्या-
+> द्याश्च तिस्रोऽनुष्टुभ इति ॥ विनियोगं शौनक आह । पितुं नित्युपतिष्ठेत नित्यमन्न-
+> मुपस्थितं । पूजयेदशनं नित्यं भुंजीत ह्यविकुत्सयन् ॥ नास्य स्यादन्नजो व्याधि-
+> र्विषमप्यमृतं भवेत् । विषं च पीत्वैतत्तूक्तं जपेद्विषविनाशनं ॥ नावाग्यतस्तु
+> भुंजीत नाशुचिर्न जुगुप्सितं । दद्याच्च पूजयेच्चैव जुहुयाच्च हविस्तदा ।
+> क्षुद्भयं नास्य किंचित्सान्नान्नजं व्याधिमाप्पु यात् । ऋग्वि. १-२७ ॥ इति ॥
+
+*Gist:* "Pitum nu" is the eighth sūkta of this group, of eleven ṛks, by Agastya, to the deity Food, in *gāyatrī*; the first ṛk is *anuṣṭubh-bṛhatī*, and Śaunaka prescribes its use for honouring food and eating without contempt.
+
 ---
 
-**Progress note:** Done through printed p. 180 (PDF 180). Done through printed p. 180 (Sukta 186 complete; Sukta 187 introduction on food (anna) in progress; ends with the verse moghamannam vindate)
+**Progress note:** Done through printed p. 183 (PDF 183). Done through printed p. 184 start (Sukta 187 introduction essay on food and the three kinds of gift complete; Sayana's introduction to the sukta given; the sukta heading block and Rk 1 follow)
