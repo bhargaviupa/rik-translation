@@ -4920,6 +4920,120 @@ Besides, as said in the sūktas 112 (printed "೧ ೨"), 116, 117, 118 and 119 o
 > *iyaṃ sā vo asme dīdhitiryajatrā apiprāṇī ca sadanī ca bhūyāḥ |*
 > *ni yā deveṣu yatate vasūyurvidyāmeṣaṃ vṛjanaṃ jīradānuṃ ‖ 11 ‖*
 
+### Printed p. 174
+
+*Running head: [174 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186]. The window opens with the Pada of Ṛk 11 of Sūkta 186, after the Saṃhitā on p. 173.*
+
+*[As supplied, the label line reads १ शरणागति (*1 śaraṇāgati*); standard label inserted. Two readings are marked [?]: the Pada's आपि [?] (*āpi [?]*) against the Saṃhitā's *apiprāṇī*, and वसुयुः [?] (*vasuyuḥ [?]*) against the Saṃhitā's *vasūyuḥ*.]*
+
+**॥ पदपाठः ॥**
+
+> इयं । सा । वः । अस्मे इति । दीधितिः । यजत्राः । आपि [?] प्राणी । च । सदनी । च । भूयाः ।
+> नि । या । देवेषु । यतते । वसुयुः [?] । विद्याम । इषं । वृजनं । जीरदानुं ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यजत्रा यष्टव्या देवाः वो युष्मत्संबंधिनी सेयं प्रसिद्धा दीधिति-
+> र्दिप्तिरस्मे अस्माकमपिप्राणी सर्वदा चेष्टयित्रि सदनी च निवासवती च भूयाः ।
+> भूयात् । भवतु । या दीधितीर्वसूयुर्वसुमती देवेषु नि यतते नियमेन
+> प्रयत्नं करोति । तानपि प्रकाशितुं सैव भूयात् । विद्यामेति गतः ॥
+
+*Gist:* O gods worthy of sacrifice, may this your effulgence give us life and shelter, the effulgence that strives among the gods for wealth; may we gain food, strength and long life.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यजत्रा (*yajatrā*) — O gods worthy of sacrifice. या (*yā*) — which effulgence. वसूयुः (*vasūyuḥ*) — richly furnished with wealth. देवेषु (*deveṣu*) — among the gods. नि युतते (*ni yutate*) — regularly attains the nature of an oblation. सा (*sā*) — the world-famed one, वः (*vaḥ*) — yours. इयं दीधिति (*iyaṃ dīdhiti*) — this effulgence. अस्मे (*asme*) — to us. अपि प्राणी च (*api prāṇī ca*) — ever giving us life. सदनी च (*sadanī ca*) — and having a dwelling. भूयाः (*bhūyāḥ*) — may it be. इषं (*iṣaṃ*) — food. वृजनं (*vṛjanaṃ*) — strength. जीरदानुं (*jīradānuṃ*) — long life. विद्याम (*vidyāma*) — may we obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+O gods worthy of sacrifice, may that effulgence of yours, which is furnished with wealth and world-famed and manifests itself in you, ever give us life and give us shelter. May we, by your grace, obtain food, strength and long life.
+
+**Printed English translation**
+
+Objects of admiration, may that wealth-abounding effulgence which manifests itself amongst the gods, give animation to our existence, and (per-manence to) our dwellings; that we may (thence) obtain food, strength, and long life.
+
+### Printed p. 175
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5] Ṛgveda-saṃhitā 175 (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अष्टे [?] (*aṣṭe [?]*) [the headword is evidently *asme*, printed "ಅಷ್ಟೇ"; marked [?]] — this word is used in the sense of all seven cases. For example:
+
+1. (१) अस्मे ते बंधुः । वयमित्यर्थः ॥ (*1. (1) asme te baṃdhuḥ | vayamityarthaḥ ‖*) (printed "1. (೧)" with a stray "1.")
+
+अस्मे इत्यतत्पदं सर्वविभक्त्यंतं । तस्मादनेकार्थं । एकमेव ह्यतच्छब्दरूपं (*asme ityatatpadaṃ sarvavibhaktyaṃtaṃ | tasmādanekārthaṃ | ekameva hyatacchabdarūpaṃ*) सप्तस्वपि विभक्त्यर्थेषु वर्तते । प्रकरणादिवशात् तस्य नियमो भवति । तद्यथा— (*saptasvapi vibhaktyartheṣu vartate | prakaraṇādivaśāt tasya niyamo bhavati | tadyathā—*): "the word *asme* ends in all the cases; therefore it has many senses; one and the same form of this word occurs in the senses of all seven cases; its determination is by the context and the like. Thus:"
+
+प्रथमायास्तावत्—अस्मे ते बंधुः । वयमित्यर्थः (*prathamāyāstāvat—asme te baṃdhuḥ | vayamityarthaḥ*) — that is, the word *asme* is used in the senses of the seven cases according to the context: according to the context any of the seven case-senses can be given to the word. In the sentence *asme te bandhuḥ* the word *asme* means "we"; this is the example of the nominative sense.
+
+(२) अस्मे यातं नासत्या सजोषाः । अस्मानित्यर्थः ॥ (*(2) asme yātaṃ nāsatyā sajoṣāḥ | asmānityarthaḥ ‖*)
+
+*Dvitīyā*: the word *asme* has the accusative sense *asmān*, "us". As an example:
+
+आ शैनस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः । (*ā śainasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |*)
+हवे हि वामश्विना रातहव्यः शश्वत्तमाया उषसो व्युष्टौ ॥ (*have hi vāmaśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ‖*)
+(ऋ. सं. १-११८-११) (*(ṛ. saṃ. 1-118-11)*)
+
+he has given this ṛk; the word *asme* in it means *asmān*, "us".
+
+(३) अस्मे समानेभिर्वृषभ पौंस्येभिः । अस्माभिरित्यर्थः ॥ (*(3) asme samānebhirvṛṣabha pauṃsyebhiḥ | asmābhirityarthaḥ ‖*)
+
+*Tṛtīyā*: here *asme* means *asmābhiḥ*, "by us", the instrumental sense (the supplied text had Devanagari letters in the word तृतीयाविभक्त्यर्थवु [?] (*tṛtīyāvibhaktyarthavu [?]*); they were rewritten in Kannada script, marked [?]). On this matter:
+
+भूरि चकर्थ युज्येभिरस्मे समानेभिर्वृषभ पौंस्येभिः । (*bhūri cakartha yujyebhirasme samānebhirvṛṣabha pauṃsyebhiḥ |*)
+भूरीणि हि कृणवामा शविष्ठेंद्र क्रत्वा मरुतो यद्वशाम ॥ (*bhūrīṇi hi kṛṇavāmā śaviṣṭheṃdra kratvā maruto yadvaśāma ‖*)
+(ऋ. सं. १-१६५-७) (*(ṛ. saṃ. 1-165-7)*)
+
+he has given this ṛk as an example. Here *asme* means *asmābhiḥ*, "by us".
+
+(४) अस्मे प्रयंधि मघवन्नृजीषिन् । अस्मभ्यमित्यर्थः ॥ (*(4) asme prayaṃdhi maghavannṛjīṣin | asmabhyamityarthaḥ ‖*)
+
+*Caturthī*: here *asme* means *asmabhyam*, "for us", the dative sense. An example:
+
+अस्मे प्र यंधि मघवन्नृजीषिन्निंद्र रायो विश्ववारस्य भूरेः । (*asme pra yaṃdhi maghavannṛjīṣinniṃdra rāyo viśvavārasya bhūreḥ |*)
+अस्मे शतं शरदो जीवसे धा अस्मे वीराइश्त्वत इंद्र शिप्रिन् ॥ (*asme śataṃ śarado jīvase dhā asme vīrāiśtvata iṃdra śiprin ‖*)
+(ऋ. सं. ३-३६-१०) (*(ṛ. saṃ. 3-36-10)*)
+
+### Printed p. 176
+
+*Running head: [176 Sāyaṇa-bhāṣya-sahitā [Maṃ. . A. 24. Sū. 186] (the print has "ಮಂ. ." with the numeral missing, as supplied).*
+
+For the words *asme* in this ṛk, the sense is *asmabhyam*, "for us": the dative sense.
+
+1. (५) अस्मे आराच्चिद्वेषः सनुतर्युयोतु । अस्मदित्यर्थः । (*1. (5) asme ārāccidveṣaḥ sanutaryuyotu | asmadityarthaḥ |*) (printed "1. (೫)")
+
+*Pañcamī*: here *asme* means *asmāt*, "from us". An example:
+
+तस्य वयं सुमतौ यज्जियस्यापि भद्रे सौमनसे स्याम । (*tasya vayaṃ sumatau yajjiyasyāpi bhadre saumanase syāma |*)
+स सुत्रामा स्ववा इंद्रो अस्मे आराच्चिद्वेषः सनुतर्युयोतु ॥ (*sa sutrāmā svavā iṃdro asme ārāccidveṣaḥ sanutaryuyotu ‖*)
+(ऋ. सं. ६-४७-१३) (*(ṛ. saṃ. 6-47-13)*)
+
+for the word *asme* in this ṛk the sense is *asmat*, "from us", the ablative.
+
+(६) ऊर्व इव पप्रथे कामो अस्मे । अस्माकमित्यर्थः । (*(6) ūrva iva paprathe kāmo asme | asmākamityarthaḥ |*)
+
+*Ṣaṣṭhī*: here *asme* means *asmākam*, "of us, to us". For this explanation:
+
+आ नो भर भगमिंद्र द्युमंतं नि ते देष्टस्य धीमहि प्ररेके । (*ā no bhara bhagamiṃdra dyumaṃtaṃ ni te deṣṭasya dhīmahi prareke |*)
+ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनां ॥ (*ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnāṃ ‖*)
+(ऋ. सं. ३-३०-१९) (*(ṛ. saṃ. 3-30-19)*)
+
+he has quoted this ṛk. For the word *asme* in it the sense is *asmākam*, "our, to us": the genitive sense.
+
+(७) अस्मे धत्त वसवो वसूनि । अस्मास्वित्यर्थः ॥ (*(7) asme dhatta vasavo vasūni | asmāsvityarthaḥ ‖*)
+
+*Saptamī*: here *asme* means "in us". An example:
+
+अग्ने वाजस्य गोमत ईशानः सहसो यहो । (*agne vājasya gomata īśānaḥ sahaso yaho |*)
+अस्मे धेहि जातवेदो महि श्रवः ॥ (*asme dhehi jātavedo mahi śravaḥ ‖*)
+(ऋ. सं १-२९-४) (*(ṛ. saṃ 1-29-4)*)
+
+for the word *asme* in this ṛk the sense is *asmāsu*, "in us": the locative sense.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+अस्मे (*asme*): by सुपां सुलुक्—(पा. सू. ७-१-३४) (*supāṃ suluk—(pā. sū. 7-1-34)*) the substitute *śe* for the genitive plural [as printed]. यजत्राः (*yajatrāḥ*) (root यज देवपूजासंगतिकरणदानेषु (*yaja devapūjāsaṃgatikaraṇadāneṣu*)): by अमिनक्षियजि—(उ. सू. (*aminakṣiyaji—(u. sū.*) ३-३८५) (*3-385)*) the suffix *atran*; in the vocative the *āmantrita-nighāta* accent. सदनी (*sadanī*) (root षद्ल्य विशरणगत्यवसादनेषु (*ṣadlya viśaraṇagatyavasādaneṣu*)): when the suffix *lyuṭ* comes, the substitute *ana* for it; by लिति (पा. सू ६-१-१९३) (*liti (pā. sū 6-1-193)*) the syllable before the suffix is acute; in the feminine, because it is marked *ṭ*, the suffix *ṅīp* comes.
+
 ---
 
-**Progress note:** Done through printed p. 173 (PDF 173). Done through printed p. 173 (Sukta 186 Rk 10 complete; Rk 11 Samhita begun, Pada and bhashya follow)
+**Progress note:** Done through printed p. 176 (PDF 176). Done through printed p. 176 (Sukta 186 Rk 11 complete through Special Topics asme (seven case senses) and grammar page begun)
