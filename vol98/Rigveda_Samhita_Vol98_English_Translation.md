@@ -5034,6 +5034,84 @@ for the word *asme* in this ṛk the sense is *asmāsu*, "in us": the locative s
 
 अस्मे (*asme*): by सुपां सुलुक्—(पा. सू. ७-१-३४) (*supāṃ suluk—(pā. sū. 7-1-34)*) the substitute *śe* for the genitive plural [as printed]. यजत्राः (*yajatrāḥ*) (root यज देवपूजासंगतिकरणदानेषु (*yaja devapūjāsaṃgatikaraṇadāneṣu*)): by अमिनक्षियजि—(उ. सू. (*aminakṣiyaji—(u. sū.*) ३-३८५) (*3-385)*) the suffix *atran*; in the vocative the *āmantrita-nighāta* accent. सदनी (*sadanī*) (root षद्ल्य विशरणगत्यवसादनेषु (*ṣadlya viśaraṇagatyavasādaneṣu*)): when the suffix *lyuṭ* comes, the substitute *ana* for it; by लिति (पा. सू ६-१-१९३) (*liti (pā. sū 6-1-193)*) the syllable before the suffix is acute; in the feminine, because it is marked *ṭ*, the suffix *ṅīp* comes.
 
+### Printed p. 177
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5. ] Ṛgveda-saṃhitā 177 (as supplied, "ಆ" for the second abbreviation). The window continues the Ṛk 11 grammar page of Sūkta 186 from p. 176, after the *sadanī* entry.*
+
+भूयाः (*bhūyāḥ*) (root भू सत्तायां (*bhū sattāyāṃ*)): by व्यत्ययो बहुलम् (*vyatyayo bahulam*) the second-person singular ending in place of the third-person singular of the optative; because it follows a non-verb the *nighāta* accent arises. यतते (*yatate*) (root यती प्रयत्ने (*yatī prayatne*)): present, third person singular; by यद्वृत्ता- (*yadvṛttā-*) न्नित्यम् (पा. सू. ८-१-६६) (*nnityam (pā. sū. 8-1-66)*) the prohibition of *nighāta*; by तास्यनुदात्तेत् (*tāsyanudāttet*) the *laḥ sārvadhātuka* is unaccented, so the accent of the root remains. वसूयुः (*vasūyuḥ*): when the sense "he wishes for wealth (*vasūni*)" is intended, by सुप आत्मनः क्यच् (पा. सू. ३-१-८) (*supa ātmanaḥ kyac (pā. sū. 3-1-8)*) the suffix *kyac*; by क्याच्छंदसि (पा. सू, ३-२-१२०) (*kyācchaṃdasi (pā. sū, 3-2-120)*) the suffix *u* after it [as printed]; by अतो लोपः (*ato lopaḥ*) loss of the *a* of *kyac*; by the Vedic rule lengthening of the earlier vowel in the Saṃhitā; by the suffix accent it is acute on the last syllable.
+
+नूर ऎंभत्तेळनॆय सूक्तवु. (*nūra èṃbhatteḷanèya sūktavu.*) ("The hundred and eighty-seventh sūkta.")
+
+*[A stray line in the supplied text: पि ९ रि कॆ. [?] (*pi 9 ri kè. [?]*) ; marked [?].]*
+
+The deity of this sūkta is the praise of food (*anna-stuti*). As Śaunaka says in his Ṛgvidhāna ((ऋग्वि. १-२७) (*(ṛgvi. 1-27)*)), it is the practice of the Āryas from of old to worship and revere food with devotion, then give a small portion to guests and others, and only afterwards eat oneself. It is necessary here to make a little inquiry into the greatness of food. The word *anna* is formed from the root आद-भक्षणे (*āda-bhakṣaṇe*) (*ad*, "to eat"). On the origin of food:
+
+तस्माद्वा एतस्मादात्मन आकाशः संभूतः । अकाशाद्वायुः । वायोरग्निः । (*tasmādvā etasmādātmana ākāśaḥ saṃbhūtaḥ | akāśādvāyuḥ | vāyoragniḥ |*)
+अग्नेरापः । अद्भ्यः पृथिवी । पृथिव्या ओषधयः । ओषधीभ्योऽन्नं । (*agnerāpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo 'nnaṃ |*)
+अन्नात्पुरुषः ॥ (*annātpuruṣaḥ ‖*)
+(कृ. उ. २-१) (*(kṛ. u. 2-1)*)
+
+so says the Śruti sentence. At the creation of the universe, or of the five elements, from the supreme Brahman (the Supreme Self) first came space, from space air, from air fire, from fire water, from water the earth, from the earth the herbs (plants and the like), from the herbs food; from such food arose man (and other beings too).
+
+*[Stray lines in the supplied text, twice: "[12] Vol. 14".]*
+
+### Printed p. 178
+
+*[Page break of the print; the supplied text prints the header "178 ಸಾಯಣಭಾನ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೪. ಸೂ. ೧೮೭" in the middle of the sentence, with no page marker. The sūkta number is 187.]*
+
+...arose man (and other beings too), it is said. And the answers to the questions "what is the excellence of food? what is the use of food? why is food called *anna*?" are given there too:
+
+अन्नाद्वै प्रजाः प्रजायंते । याः काश्च पृथिवीग् श्रिताः । अथो अन्नेनैव (*annādvai prajāḥ prajāyaṃte | yāḥ kāśca pṛthivīg śritāḥ | atho annenaiva*)
+जीवंति । अध्यैनदपियंत्यंततः । अन्नग्ंहि भूतानां ज्येष्ठं । तस्मात्सर्वौ- (*jīvaṃti | adhyainadapiyaṃtyaṃtataḥ | annagṃhi bhūtānāṃ jyeṣṭhaṃ | tasmātsarvau-*)
+षधमुच्यते । सर्वं वै तेऽन्नमाप्नुवंति । येऽन्नं ब्रह्मोपासते । (*ṣadhamucyate | sarvaṃ vai te 'nnamāpnuvaṃti | ye 'nnaṃ brahmopāsate |*)
+अन्नग्ंहि भूतानां ज्येष्ठं । तस्मात्सर्वौषधमुच्यते । अन्नाद्भूतानि (*annagṃhi bhūtānāṃ jyeṣṭhaṃ | tasmātsarvauṣadhamucyate | annādbhūtāni*)
+जायंते । जातान्यन्नेन वर्धंते । आद्यतेऽत्ति च भूतानि । तस्मादन्नं (*jāyaṃte | jātānyannena vardhaṃte | ādyate 'tti ca bhūtāni | tasmādannaṃ*)
+तदुच्यत इति ॥ (*taducyata iti ‖*)
+(कृ. उ. २-२) (*(kṛ. u. 2-2)*)
+
+that is, all creatures that depend on the earth (all living beings too) are born from food, live by food, and in the end are dissolved in it. Among the *bhūtas* (or among things created in the five great elements) food is the eldest of all; therefore it is called *sarvauṣadha* ("the remedy for all"). Those who worship Brahman in the form of food obtain all food, that is, food comes to them in plenty. Food is the eldest of all *bhūtas*.
+
+The *bhūtas* are the five great elements: earth, water, fire, air and space. These five great elements exist as food in their basic form. How? Earth means solid substance. In the food we eat there are always solid things such as grain; these are of the earth part. The second is water. We drink water; besides, in the other things we eat or drink (milk and the like) there is always the part of water. Animals need water more than the earthy (solid) food; in our body too the water part (the blood) is the greater. The third is fire (*tejas*), that is, heat. Animals cannot live without heat; we get heat from the food we take and from the warmth in the sunshine, wind and so on around us. As soon as the heat in the body ceases, death occurs. From birth till death there must be heat in the body; so there is no need to say how necessary heat or *tejas* is. We need one portion more of fire than of water. The fourth is air. When we breathe in, we draw the outside air into the body. We cannot be even a moment without breathing; as soon as breathing stops the life-breath also goes, that is, death occurs. From birth to death air is absolutely necessary for all animals, and it is needed in greater quantity than the solid food, water and fire mentioned before.
+
+### Printed p. 179
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 6.] Ṛgveda-saṃhitā 179 (as supplied; the Varga number changes here from 5 to 6).*
+
+The fifth is space (*ākāśa*, room). Without space neither we nor other creatures could exist at all. Space is needed for our movements and for the body. Although the three things fire, air and space are not visible to our eyes, they are absolutely necessary for the nourishment of our body; and besides, we (and animals too) need water in one portion more than the earthy solid food; fire more than water; air more than fire; space more than air; and another special point is that in the food belonging to the earth part water, fire, air and space are mingled; in fire there are air and space; in air space is mingled. In this way the five elements and their mixtures, that is, herbs and trees, are arranged as food for animals. Such food is called *anna*; therefore it is called *sarvauṣadha*.
+
+From food the *bhūtas* (living beings) are born. Those born grow and prosper by food alone. It is eaten, and it also eats the beings. Therefore it is called *anna*. Here an explanation is necessary for the last sentence (that food is eaten and that it eats living beings). For the animals that move about in the world, apart from the five elements such as water in their original form, all other food is produced from living beings. There is no food except what relates to living beings. For example, carnivorous animals eat herbivorous animals; herbivores eat plants; plants too have life (how could a plant grow if it were lifeless?); moving living beings must live by eating one another. Since the plant kind does not belong to the moving class, they take their food directly from the earth or from the five elements and grow. Therefore moving beings cannot live without food derived from living beings or from plants. That is why beings eat food and food eats beings, that is, food arises from beings, as said above. The main point is that in the world moving beings (men too) must live by eating one another; without food derived from living beings they cannot live at all. This is the idea stated in the sentences आद्यतेऽत्ति च भूतानि । तस्मादन्नं तदुच्यते (*ādyate 'tti ca bhūtāni | tasmādannaṃ taducyate*) ("it is eaten and it eats beings; therefore it is called *anna*").
+
+There are Śruti sentences also on the matter that food should be worshipped and regarded with respect:
+
+अन्नं न निंद्यात् । तद्व्रतं । प्राणो वा अन्नं । शरीरमन्नादं । प्राणे (*annaṃ na niṃdyāt | tadvrataṃ | prāṇo vā annaṃ | śarīramannādaṃ | prāṇe*)
+शरीरं प्रतिष्ठितं । शरीरे प्राणः प्रतिष्ठितः । तदेतदन्नमन्ने प्रतिष्ठितं । (*śarīraṃ pratiṣṭhitaṃ | śarīre prāṇaḥ pratiṣṭhitaḥ | tadetadannamanne pratiṣṭhitaṃ |*)
+
+### Printed p. 180
+
+*Running head: [180 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 187].*
+
+स य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । (*sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo bhavati |*)
+महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान्कीर्त्या ॥ (*mahānbhavati prajayā paśubhirbrahmavarcasena | mahānkīrtyā ‖*)
+(कृ. उ. ३-७) (*(kṛ. u. 3-7)*)
+
+One should not disparage food; that is a vow. Life-breath is food. The body eats food and grows by it. The body is established in the life-breath; the life-breath is established in the body. Therefore the life-breath and the body are mutually related. Both are established in food, that is, the growth and protection of body and life-breath come from food alone. Without food neither body nor life-breath can exist. One who knows that food is established in food (in food-form Parabrahman) is honoured. He becomes rich in food and an enjoyer of food. He becomes endowed with offspring, cattle, the radiance of Brahman and fame, and becomes eminent and honoured among men.
+
+अन्नं न परिचक्षीत । तद्व्रतं । आपो वा अन्नं । ज्योतिरन्नादं । अप्पु (*annaṃ na paricakṣīta | tadvrataṃ | āpo vā annaṃ | jyotirannādaṃ | appu*)
+ज्योतिः प्रतिष्ठितं । ज्योतिष्यापः प्रतिष्ठिताः । तदेतदन्नमन्ने प्रतिष्ठितं । (*jyotiḥ pratiṣṭhitaṃ | jyotiṣyāpaḥ pratiṣṭhitāḥ | tadetadannamanne pratiṣṭhitaṃ |*)
+स य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । (*sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo bhavati |*)
+महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान्कीर्त्या ॥ (*mahānbhavati prajayā paśubhirbrahmavarcasena | mahānkīrtyā ‖*)
+(कृ. उ. ३-८) (*(kṛ. u. 3-8)*)
+
+One should not despise food. Take that as a vow. Water is food; fire (*jyotis*) eats food. Fire is established in water; water is established in fire. These two, fire and water, are established in food (in food are heat and water). One who knows that food is established in food (in food-form Parabrahman) is honoured. He becomes rich in food and an enjoyer of food. He becomes endowed with offspring (children and the like), cattle, the radiance of Brahman and fame, and eminent and honoured among men.
+
+There are also many Śruti proofs on the matter that one should give food to guests and visitors and only then eat oneself.
+
+मोघमन्नं विंदते अप्रचेताः सत्यं ब्रवीमि वध इत्स तस्य । (*moghamannaṃ viṃdate apracetāḥ satyaṃ bravīmi vadha itsa tasya |*)
+नार्यमणं पुष्यति नो सखायं केवलाघो भवति केवलादी ॥ (*nāryamaṇaṃ puṣyati no sakhāyaṃ kevalāgho bhavati kevalādī ‖*)
+(म. सं. १०-११७-६) (*(ma. saṃ. 10-117-6)*)
+
+[the window ends here with the verse and its reference].
+
 ---
 
-**Progress note:** Done through printed p. 176 (PDF 176). Done through printed p. 176 (Sukta 186 Rk 11 complete through Special Topics asme (seven case senses) and grammar page begun)
+**Progress note:** Done through printed p. 180 (PDF 180). Done through printed p. 180 (Sukta 186 complete; Sukta 187 introduction on food (anna) in progress; ends with the verse moghamannam vindate)
