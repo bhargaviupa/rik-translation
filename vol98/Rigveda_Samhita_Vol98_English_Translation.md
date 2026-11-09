@@ -13704,6 +13704,126 @@ Since this ṛk is also read at the end of the first sūkta (the १६ने �
 
 *(The supplied text ends here, after the Saṃhitā of Ṛk 1 of Sūkta 3 at the end of p. 455; the Pada follows in the next window. The Saṃhitā lines are joined.)*
 
+### Printed p. 456
+
+*Running head (as supplied): [456 सायणभाष्यसहिता [मं. २. अ. १ सू. ३] (*[456 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1 sū. 3]*).*
+
+*(Continuation of Ṛk 1 of Sūkta 3 of Maṇḍala 2: its Pada follows the Saṃhitā of the previous page. One reading of the Pada is marked with a query, as it differs from the Saṃhitā and the bhāṣya. The Pada prints an exclamation mark in place of a danda after the word प्रत्यज् (*pratyaj*).)*
+
+**॥ पदपाठः ॥**
+
+> संइद्दः [?] । अग्निः । निहितः । पृथिव्यां । प्रत्यज् ! विश्वानि । भुवनानि । अस्थात् ।
+> होता । पावकः । प्रदिवः । सुमेधाः । देवः । देवान् । यजतु । अग्निः । अर्हन् ॥ १ ॥
+
+> *saṃiddaḥ [?] | agniḥ | nihitaḥ | pṛthivyāṃ | pratyaj ! viśvāni | bhuvanāni | asthāt |*
+> *hotā | pāvakaḥ | pradivaḥ | sumedhāḥ | devaḥ | devān | yajatu | agniḥ | arhan ‖ 1 ‖*
+
+*[As supplied, the label line of the bhāṣya reads सहायधान्यं (*sahāyadhānyaṃ*), inside the Pada block; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> पृथिव्यां वेदिलक्षणायां समिद्धः सम्यक् दीप्त एतन्नामकोग्निर्निहितः
+> स्थापितः सन् विश्वानि सर्वाणि भुवनानि भूतजातानि प्रत्यज् अभिमुखः सन् अस्थात् ।
+> तिष्ठति । यथा सर्वे जनाः पश्यंति तथा प्रवृद्दोऽभवदित्यर्थः । किंच सोऽग्निर्होता
+> होमनिष्पादको देवानामाह्वाता ना पावकः शोधकः प्रदिवः पुराणः सुमेधाः
+> शोभनप्रज्ञो देवो द्योतमानः । एवं महानुभावोऽग्निरर्हन् यागयोग्यः
+> सन् देवान्यजतु । अत्र यष्टव्यानिंद्रादीन्पूजयतु ॥
+
+*Gist:* Agni, kindled and placed on the altar of the earth, faces all beings; as hotṛ, purifier, ancient and wise, let him worship the gods.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+होता—होमसंपादकनू (*hotā—homasaṃpādakanū*) (the accomplisher of homa). पावकः—शुद्धिकारकनू (*pāvakaḥ—śuddhikārakanū*) (the purifier). प्रदिवः—पुरातननू (*pradivaḥ—purātananū*) (the ancient). सुमेधाः—श्रेष्ठवाद प्रज्ञॆयुळ्ळवनू (*sumedhāḥ—śreṣṭhavāda prajñèyuḷḷavanū*) (of excellent wisdom). देवः—द्योतमाननू (*devaḥ—dyotamānanū*) (the shining one). पृथिव्यां—वेदिरूप वाद पृथिवियल्लि (*pṛthivyāṃ—vedirūpa vāda pṛthiviyalli*) (on the earth in the form of the altar (the word is divided by a line break)). समिद्धः—चॆन्नागि प्रज्वलितनादवनू (समिद्धनू) आद (*samiddhaḥ—cènnāgi prajvalitanādavanū (samiddhanū) āda*) (the well-kindled (the sacrificed-for)). अग्निः—अग्नियु (*agniḥ—agniyu*) (Agni). निहितः—स्थापितनागि (*nihitaḥ—sthāpitanāgi*) (installed). विश्वानि—सकलवाद (*viśvāni—sakalavāda*) (all). भुवनानि—भूतजातगळन्नू (*bhuvanāni—bhūtajātagaḷannū*) (the beings). प्रत्यज्—सम्मुख दल्लिट्टुकॊंडु (*pratyaj—sammukha dalliṭṭukòṃḍu*) (keeping in front (the word is divided by a line break)). अस्थात्—स्थितनागिद्दानॆ (*asthāt—sthitanāgiddānè*) (he stands). अग्निः—इंतह महद्गुणगळुळ्ळ अग्नियु (*agniḥ—iṃtaha mahadguṇagaḷuḷḷa agniyu*) (Agni, possessed of such great qualities). अर्हन्— यागक्कॆ योग्यनागि (पूज्यनागि) देवान्—देवतॆगळन्नुद्देशिसि (*arhan— yāgakkè yogyanāgi (pūjyanāgi) devān—devatègaḷannuddeśisi*) (worthy of the sacrifice (worshipful) — and — (two entries run together) the gods, in their name). यजतु—यज्ञमाडलि. (*yajatu—yajñamāḍali.*) (let him sacrifice).
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, the accomplisher of homa, the purifier, the ancient, of excellent wisdom, well kindled on the earth in the form of the altar, is installed and stands with all beings before him. May this Agni, possessed of such great qualities and worthy of the sacrifice, worship the gods.
+
+**Printed English translation**
+
+Agni, the well-kindled, placed upon (the altar of) the earth, stands in the presence of all beings; the invoker (of the gods), the purifier, the ancient the intelligent, the divine: Let the venerable Agni minister to the gods.
+
+### Printed p. 457
+
+*Running head (as supplied): [अ. २. अ ५. व. २२ ] ऋग्वेदसंहिता 457 (*[a. 2. a 5. va. 22 ] ṛgvedasaṃhitā 457*).*
+
+#### Ṛk 2
+
+*[The Saṃhitā lines are joined; one reading of the Pada is marked with a query, as it differs from the Saṃhitā. As supplied, the label line of the bhāṣya reads सायुणभास्यं (*sāyuṇabhāsyaṃ*), inside the Pada block; standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> नरा॒शंसः॒ प्रति॒ धामा॑न्यं॒जन् ति॒स्रो दिवः॒ प्रति॑ म॒ह्ना स्व॒र्चिः।
+> घृ॒त॒पुषा॒ मन॑सा ह॒व्यमुं॒दन्मू॒र्धन्य॒ज्ञस्य॒ सम॑नक्तु दे॒वान् ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> नराशंसः । प्रति । धामानि । अंजन् । तिस्रः । दिवः । प्रति । मह्ना । सुअर्चि: ।
+> धृतप्रुषा [?] । मनसा । हव्यं । उंदन् । मूर्धन् । यज्ञस्य । सं । अनक्तु । देवान् ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> नराशंसो नरैर्नॆतृभिर्युत्विग्निः शंसनीय एतन्नामकोऽग्निः स्वर्चिः
+> शोभनज्वालः सन् धामानि स्थानान्याहुत्यधिकरणानि तेजांसि प्रति प्रत्येकं मह्ना
+> स्वमहिम्नांजन् व्यक्तीकुर्वन् तिस्रो दिवो द्योतमानांस्त्रीन् भूम्यादिलोकांश्च
+> प्रति प्रत्येकमंजन् । स्थित्या भूमिं प्रकाशेनांतरिक्षं हविष्प्रापणेन दिवमित्यभि-
+> प्रायः । यद्वा लोकानां प्रत्येकं त्रित्वोपेतत्वात् तिस्रो दिव इत्यविरुद्धं ।
+> तिस्रो दिवः पृथिवीस्तिस्त्रः । ४-५३-५ । इत्यादिमंत्रवर्णात् त्रयो वा इमे त्रिवृतो
+> लोका इति ब्राह्मणाश्च । तथा घृतपुषा घृतं सिंचता मनसा हव्यमुंदन् क्लेद-
+> यन् स्निग्धीकुर्वन् यज्ञस्य मूर्धन् मूर्धनि मुखे होमसमये देवान्यष्ट-
+> व्यान् समनक्तु । सम्यक् व्यक्तीकरोतु । तर्पयत्वित्यर्थः ॥
+
+*Gist:* Narāśaṃsa Agni, with fair flames, makes the receptacles and the three worlds manifest, moistens the oblation, and gratifies the gods at the sacrifice.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नराशंसः—ऋत्विक्कुगळिंद शंसनीयनाद नराशंसनामकनाद अग्नियु (*narāśaṃsaḥ—ṛtvikkugaḷiṃda śaṃsanīyanāda narāśaṃsanāmakanāda agniyu*) (Narāśaṃsa, Agni praised by the priests). स्वर्चिः— श्रेष्ठवाद ज्वालॆगळिंद कूडिकॊंडु (*svarciḥ— śreṣṭhavāda jvālègaḷiṃda kūḍikòṃḍu*) (with excellent flames). धामानि—आहुतिपात्रॆगळन्नु (*dhāmāni—āhutipātrègaḷannu*) (the receptacles of the oblation). प्रति—प्रत्येकवागि (*prati—pratyekavāgi*) (severally). मह्ना—तन्न महिमॆयिंद (*mahnā—tanna mahimèyiṃda*) (by his greatness). अंजन्—प्रकाशपडिसुत्तलू (*aṃjan—prakāśapaḍisuttalū*) (making manifest). तिस्रः दिवः—भूम्यादि त्रिलोक गळन्नू (*tisraḥ divaḥ—bhūmyādi triloka gaḷannū*) (the three worlds beginning with the earth (the word is divided by a line break)). प्रति—प्रत्येकवागि प्रकाशपडिसुत्तलू (*prati—pratyekavāgi prakāśapaḍisuttalū*) (severally, making manifest). घृतपुषा—घृतवन्नु प्रोक्षिसतक्क (श्रेयस्सन्नुंटुमाडतक्क) (*ghṛtapuṣā—ghṛtavannu prokṣisatakka (śreyassannuṃṭumāḍatakka)*) (sprinkling ghee (making for welfare)). मनसा—मनस्सिनिंद (*manasā—manassiniṃda*) (with mind). हव्यं—हविस्सन्नु (*havyaṃ—havissannu*) (the oblation). उंदन्—स्निग्धवागुवंतॆ माडुत्तलू (*uṃdan—snigdhavāguvaṃtè māḍuttalū*) (making moist). यज्ञस्य—यज्ञद (*yajñasya—yajñada*) (of the sacrifice). मूर्धन्—होमकालदल्लि (*mūrdhan—homakāladalli*) (at the time of homa). देवान्—देवतॆगळन्नु (*devān—devatègaḷannu*) (the gods). समनक्तु—तृप्तिपडिसलि. (*samanaktu—tṛptipaḍisali.*) (let him satisfy).
+
+### Printed p. 458
+
+*Running head (as supplied): [458 सायणभाष्यसहिता [ मं. २. आ. १. सू ३] (*[458 sāyaṇabhāṣyasahitā [ maṃ. 2. ā. 1. sū 3]*).*
+
+**भावार्थ (Bhāvārtha)**
+
+May Agni called Narāśaṃsa, with excellent flames, by his greatness making manifest severally the receptacles of the oblations and the three worlds beginning with the earth, and with a mind that sprinkles ghee making the oblation moist, satisfy the gods at the time of the homa of the sacrifice.
+
+**Printed English translation**
+
+May the bright Narashansa, illumining the receptacles (of the offering) making manifest by his greatness the three radiant (regions), and diffusing the oblation at the season of sacrifice with butter-dispensing purpose, satisfy the gods
+
+*(The printed English ends without a full stop, as supplied.)*
+
+#### Ṛk 3
+
+*[The Saṃhitā lines are joined; one reading of the Pada is marked with a query, as it differs from the Saṃhitā and the bhāṣya.]*
+
+**॥ संहितापाठः ॥**
+
+> ई॒ळि॒तो अ॑ग्ने॒ मन॑सा नो॒ अर्ह॑न्दे॒वान्य॑क्षि॒ मानु॑षा॒त्पूर्वो॑ अ॒द्य ।
+> स आ व॑ह म॒रुतां॒ शर्धो॒ अच्यु॑त॒मिंद्रं॑ नरो बर्हि॒षदं॑ यजध्वं ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> ईळितः । अग्ने । मनसा । नः । अर्हन् । देवान् । यक्षि । मानुषात् । पूर्वः । अद्य ।
+> सः । आ । वह । मरुतां । शर्धः । अच्युतं । इंद्रं । नरः । बर्हिसदं [?] । यजध्वं ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने ईळितोऽस्माभिः स्तुतः सन् मनसास्मदनुरक्तेन देवानां याग-
+> बुद्ध्या वार्हन् यागयोग्यः सन् मानुषाद्भोतुः पूर्वः पूर्वभावी नोऽस्म-
+> दर्थमद्यास्मिन्निने देवान् यष्टव्यान् यक्षि । त्वमेव यजसि । स तादृशो यष्टा
+> त्वमावह । आकारय । कान् । मरुतां शर्धो गणं । अच्युतमक्षिणमिंद्रं तदविना-
+> भूतमिंद्रमपि । यद्वा मरुद्बलोपेतमिंद्रं । अनंतरं हे नरो नेतार
+> ऋत्विजो बर्हिषदं बर्हिषि सीदंतं तमिंद्रं यजध्वं । पूजयध्वं ॥
+
+*Gist:* Agni, praised and worthy of sacrifice, is asked to worship the gods first among men today and to bring the Maruts' host and Indra.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्नि—ऎलै अग्निये (*agni—èlai agniye*) (O Agni). ईळितः—नम्मिंद स्तुतनागि (*īḷitaḥ—nammiṃda stutanāgi*) (praised by us). मनसा—नम्मल्लि अनुरक्तवाद मनस्सिनिंद (*manasā—nammalli anuraktavāda manassiniṃda*) (with a mind devoted to us). अर्हन्—यागयोग्यनागि (*arhan—yāgayogyanāgi*) (worthy of the sacrifice). मानुषात्—मानवनाद होतृविगिंतलू (*mānuṣāt—mānavanāda hotṛvigiṃtalū*) (than the human hotṛ).
+
+*(The supplied text ends here, in the middle of the Pratipadārtha of Ṛk 3 at the end of p. 458; the rest follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 455 (PDF 455). Mandala 2 Sukta 2 complete; Sukta 3 introduction and Rik 1 Samhita; one Saṃhitā/Pada word corrected to the figure image
+**Progress note:** Done through printed p. 458 (PDF 458). Mandala 2 Sukta 3 Rik 1 and Rik 2 complete; Rik 3 Samhita, Pada, bhasya and the start of the Pratipadartha; three Pada readings marked with a query
