@@ -13504,6 +13504,100 @@ May we manifest vigour among other men, Agni, through the steed and the food (wh
 
 *[Two stray lines of the supplied text, [29] Vol. 14. (*[29] Vol. 14.*) printed twice at the end of the page, are kept as italic notes in the Kannada text. The supplied text ends here, in the middle of the bhāṣya of Ṛk 11 on p. 449; the rest follows in the next window.]*
 
+### Printed p. 450
+
+*Running head (as supplied): [450 सायणभाष्यसहिता [ मं. २. आ. १. सू. २] (*[450 sāyaṇabhāṣyasahitā [ maṃ. 2. ā. 1. sū. 2]*).*
+
+*(Continuation of the bhāṣya of Ṛk 11 of Sūkta 2 of Maṇḍala 2, as a quoted block, from the relative clause at the end of the previous page.)*
+
+> सुजाताः शोभनजननाः सूरयः स्तोत्रार ऋत्विज इषयंत । गमयंति स्तोत्राणि ।
+> किंच हे अग्ने यज्ञं यजनीयं यं वाजिनो हविर्लक्षणान्नवंतो यजमाना
+> नित्ये तोक औरसे पुत्रे निमित्तभूते सति । यद्वा तस्मिन्न्यथा दीप्यते । पुत्रगृहे यथा
+> पित्रा दीप्यते तद्वत् स्वे दमे स्वकीये यागगृहे सवनीयादिस्थाने दीदिवांसं
+> दीप्यमानमुपयंति हविःस्तोत्रादिना । स बोधीत्यन्वयः ॥
+
+*Gist:* Priests send hymns to Agni, whom sacrificers approach with offerings in his own sacrificial house, like a father in a son's house; may he heed.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). यज्ञं—पूजार्हनू (*yajñaṃ—pūjārhanū*) (one worthy of worship). दीदिवांसं—प्रकाशमाननू आद यं—याव निन्नन्नु (*dīdivāṃsaṃ—prakāśamānanū āda yaṃ—yāva ninnannu*) (radiant, and that you (the two entries run together in the print)). वाजिनः—अन्नवंतराद यजमानरु (*vājinaḥ—annavaṃtarāda yajamānaru*) (the sacrificers possessed of food). नित्ये तोके—शाश्वतवाद पुत्रादि संपत्तिगोस्कर (*nitye toke—śāśvatavāda putrādi saṃpattigoskara*) (for eternal wealth in sons and the like). स्वे दमे—तम्मयागगृहदल्लि (*sve dame—tammayāgagṛhadalli*) (in their own sacrificial house). उपयंति—(स्तोत्रादिगळिंद) समीपिसुत्तारॆयो ( मत्तु ) (*upayaṃti—(stotrādigaḷiṃda) samīpisuttārèyo ( mattu )*) (they approach (with hymns and the like) (the bracketed "and" is in the print)). यस्मिन्—याव निन्नल्लि (*yasmin—yāva ninnalli*) (in whom). सुजाताः—श्रेष्ठवाद उत्पत्तियुळ्ळ (*sujātāḥ—śreṣṭhavāda utpattiyuḷḷa*) (of excellent birth). सूरयः—स्तोतृगळु (*sūrayaḥ—stotṛgaḷu*) (the praisers). इषयंत—तम्मस्तुतिगळन्नर्पिसुत्तारॆयो अंतह (*iṣayaṃta—tammastutigaḷannarpisuttārèyo aṃtaha*) (they offer their praises, such a one). सहस्य—शक्तियुत नाद अग्निये (*sahasya—śaktiyuta nāda agniye*) (O mighty Agni). प्रशंस्यः सः—स्तुत्यर्हनाद नीनु (*praśaṃsyaḥ saḥ—stutyarhanāda nīnu*) (you, worthy of praise). नः—नम्म सोत्रादिगळन्नु (*naḥ—namma sotrādigaḷannu*) (our hymns and the like (printed "sotra")). जोधि-तिळि (*jodhi-tiḷi*) (know (printed "jodhi" with a hyphen)).
+
+*(Printed oddities of the Pratipadārtha and Bhāvārtha are kept as printed: the verb for "approach" in the Bhāvārtha begins with a different letter, and the word for "know" at the end of the Pratipadārtha begins with a different letter than in the Pada.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O mighty Agni, you who are worthy of worship and radiant, whom the sacrificers with food approach with hymns and the like in their own sacrificial house for eternal wealth in sons and the like, and in whom the priests of excellent birth offer their praises: such a one, worthy of praise, do you know our hymns and the like.
+
+**Printed English translation**
+
+Vigorous Agni, hear (our prayers); for you are he who is to be lauded ; to whom the well-born priests address (their hymns) ; and whom, entitled to worship, and radiant in your own abode, the offerers of the oblation approach, for the sake of never-failing posterity.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 11)**
+
+शत्रूणामभिभवितः बलप्रभव वा (*śatrūṇāmabhibhavitaḥ balaprabhava vā*) (as printed): for the word सहस्य (*sahasya*) the meaning is given as "one who overcomes enemies", or "one who, churned in the fire-stick by the strength of the priests' arms, has come into being". And the prayer of the priests is expressed that this god Agni may take note of the hymns and the like made by us, the priests and sacrificers, and that the hymns and the like recited by the priests and others, who are born on earth and have become qualified to worship this very mighty god, may reach this very god.
+
+### Printed p. 451
+
+*Running head (as supplied): [अ. २. अ. ५. व. २१.] ऋग्वेदसंहिता 451 (*[a. 2. a. 5. va. 21.] ṛgvedasaṃhitā 451*).*
+
+वाजिनः यज्ञं नित्ये तोके स्वे दमे उपयंति (*vājinaḥ yajñaṃ nitye toke sve dame upayaṃti*): two kinds of meaning are explained for this sentence. Since the word तोक (*toka*), which denotes "son", is used here, हविर्लक्षणान्नवंतो यजमानाः औरसे पुत्रे निमित्तभूते सति यद्वा तस्मिन् यथा दीप्यते (*havirlakṣaṇānnavaṃto yajamānāḥ aurase putre nimittabhūte sati yadvā tasmin yathā dīpyate*) (a line-end hyphen inside it is joined): the sacrificers who have food in the form of oblations approach you (Agni) for the sake of obtaining a son; or, पुत्रगृहे पिता यथा दीप्यते तद्वत् (*putragṛhe pitā yathā dīpyate tadvat*), they approach you who shine like a father in his son's house: this is the second meaning. It is explained that at the dwelling-places of Agni, the sacrificial grounds and the pressing-places, the priests approach Agni with offerings of oblations and with hymns.
+
+The word वाजश्यब्दवु (*vājaśyabdavu*) (as printed) has been read by Yāska in many senses, such as food and strength.
+
+*[A stray ornament line of the supplied text, _________ :0: ________ (*_________ :0: ________*), is kept as an italic note in the Kannada text.]*
+
+#### Ṛk 12
+
+*[The Saṃhitā lines are joined. Two readings of the Pada are marked with a query, as they differ from the Saṃhitā and the bhāṣya. As supplied, the label line of the bhāṣya reads शायखाक्ष, C (*śāyakhākṣa, C*), inside the Pada block; standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> उ॒भया॑सो जातवेदः स्याम ते स्तो॒तारो॑ अग्ने सू॒रय॑श्च॒ शर्म॑णि ।
+> वस्वो॑ रा॒यः पु॑रुश्चं॒द्रस्य॒ भूय॑सः प्र॒जाव॑तः स्वप॒त्यस्य॑ शग्धि नः ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> उभयासः । जातवेदः । स्याम । ते । स्तोतारः । अग्ने । सूरयः । च । शर्मणि ।
+> वस्वः । रायः । पुरुचंद्रस्य [?] । भूयसः । प्रजावतः । सुअपत्यस्य । शग्नि [?] । नः ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे जातवेदो जातानां वेदितरग्ने स्तोतारस्त्वां स्तुवंत ऋत्विजः सूरयो
+> मेधाविनो यजमानाश्चेत्युभयासः । उभये वयं शर्मणि सुखे निमित्तभूते
+> सति ते त्वत्संबंधिनः स्याम । भवेम । यद्वा ते शर्मणि स्याम । त्वं च नोऽस्माकं
+> वस्वो निवासहेतोर्वसिष्ठस्य रायो गवादिधनस्य पुरुश्चंद्रस्यातिशयेनाह्लादकस्य
+> बहुहिरणोपेतस्य वा भूयसः प्रभूतस्य प्रजावतो बृत्याद्युपेतस्य पुत्रादि-
+> भोगपर्याप्तस्य वा स्वपत्यस्य शोभनपुत्रस्य । ईदृग्रूपं धनं नोऽस्मभ्यं शग्धि ।
+> देहि । दातुं शक्तो भवसि ॥
+
+*Gist:* O Jātavedas, may we, priests and sacrificers, be in your favour for happiness; give us wealth of dwellings, cattle, gold, dependants and good sons.
+
+### Printed p. 452
+
+*Running head (as supplied): [452 सायणभाष्यसहिता । मं. २. आ.१ . सू २] (*[452 sāyaṇabhāṣyasahitā | maṃ. 2. ā.1 . sū 2]*).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जातवेदः—जातप्रज्ञनाद (*jātavedaḥ—jātaprajñanāda*) (of the born wisdom). अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). स्तोतारः—स्तुतिसतक्क ऋत्विक्कु गळू (*stotāraḥ—stutisatakka ṛtvikku gaḷū*) (the praising priests). सूरयश्च—मेधाविगळाद यजमानरू (*sūrayaśca—medhāvigaḷāda yajamānarū*) (and the wise sacrificers). उभयासः—इब्बरू सह (*ubhayāsaḥ—ibbarū saha*) (both). शर्मणि— सुखवन्नु पडॆयुव निमित्तवागि (*śarmaṇi— sukhavannu paḍèyuva nimittavāgi*) (for obtaining happiness). ते—निन्न सेवॆयल्लि (*te—ninna sevèyalli*) (in your service). स्याम—इरुवॆवु (नमगॆ) (*syāma—iruvèvu (namagè)*) (we shall be (to us)). वस्वः— निवासयोग्यवादुदू (*vasvaḥ— nivāsayogyavādudū*) (suitable for dwelling). रायः—गवाधिधनदिंद कूडिदुदू (*rāyaḥ—gavādhidhanadiṃda kūḍidudū*) (accompanied by wealth of cattle and the like (printed "gavādhi")). पुरुश्चंद्रस्य—अतिशयवागि आह्लादकवादुदू (*puruścaṃdrasya—atiśayavāgi āhlādakavādudū*) (exceedingly delightful). भूयसः—प्रभूतवादुदू (*bhūyasaḥ—prabhūtavādudū*) (abundant). प्रजावतः—भृत्यादिगळिंद कूडिदुदू (*prajāvataḥ—bhṛtyādigaḷiṃda kūḍidudū*) (accompanied by servants and the like). स्वपत्यस्य—श्रेष्ठवाद पुत्रयुक्तवादुदू आद धनवन्नु (*svapatyasya—śreṣṭhavāda putrayuktavādudū āda dhanavannu*) (accompanied by excellent sons, the wealth). नः—नमगॆ (*naḥ—namagè*) (to us). शग्धि—कॊडु. (*śagdhi—kòḍu.*) (give).
+
+*[As supplied, the label line of the Bhāvārtha reads बावार्ध (*bāvārdha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Jātavedas Agni, the praising priests and the wise sacrificers together will be in your service for obtaining happiness. Give us wealth that is suitable for dwelling, accompanied by wealth of cattle and the like, exceedingly delightful, accompanied by servants and the like, and accompanied by excellent sons.
+
+**Printed English translation**
+
+Agni, knowing all that is born, may we, both adorers and priests, be yours for the sake of felicity ; and do you bestow upon us wealth of dwellings of cattle, of much gold, of many dependants, and virtuous offspring.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 12)**
+
+Here Agni is addressed by the word जातवेदः (*jātavedaḥ*). The meaning of this word has been explained in many places.
+
+(हे) जातवेदः अग्ने स्तोतारः सूरयश्च उभयासः (*(he) jātavedaḥ agne stotāraḥ sūrayaśca ubhayāsaḥ*): we have explained the meaning of the word जातवेदः (*jātavedaḥ*) before. This word has two kinds of meaning: Agni who knows all beings that are born or are being born (or the matter of those beings) is one meaning, and that all born beings know Agni is another meaning that is possible. The commentators have explained the word स्तोतारः (*stotāraḥ*) as the priests who praise, and the word सूरयः (*sūrayaḥ*) as the wise sacrificers; but there is no rule that those who praise Agni must be priests. Likewise there is no rule that the wise people, the intelligent, indicated by the word सूरयः (*sūrayaḥ*) must be the sacrificers who perform the sacrifice; yet there is no fault in the commentators' explanation, saying "priests, sacrificers", to fit one kind of meaning.
+
+*(The supplied text ends here, at the end of p. 452, after a complete passage of the Special Topics of Ṛk 12; the Special Topics may continue in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 449 (PDF 449). Mandala 2 Sukta 2 Rik 9 and Rik 10 complete; Rik 11 Samhita, Pada and the start of the bhasya; five readings marked with a query
+**Progress note:** Done through printed p. 452 (PDF 452). Mandala 2 Sukta 2 Rik 11 complete; Rik 12 complete through the Special Topics as supplied; two readings of the Pada marked with a query
