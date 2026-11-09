@@ -1567,6 +1567,75 @@ This *abhiplava-ṣaḍaha* is the direct road that leads to heaven. The *pṛ�
 
 *[The window ends here, mid-sentence; the Special Topics continue on the next page.]*
 
+### Printed p. 53
+
+*Running head: [Ā. ೨. Ā. ೫. Va. ೨] Ṛgveda-saṃhitā 53 (the print has "ಆ." for "ಅ." twice, as supplied). The window begins inside the Special Topics of Ṛk 1, continuing the account of the Abhiplava-ṣaḍaha from p. 52.*
+
+… can strive for. The place of the Jyotiṣṭoma, Gostoma and Āyuṣṭoma in these *ṣaḍahas* will be told later, when the occasion arises. The greatness of the same *ṣaḍaha* is praised in the Kauṣītaki Brāhmaṇa thus: "The year is for the gods an immortal wheel. In it is contained food of six kinds, beginning with सध्यादिगळे (*sadhyādigaḷe*) (as supplied). Standing on the support of this wheel they perform the sacrifice in the form of *abhiplava*. All the gods and men who perform this sacrifice, standing on the support of this wheel in the form of the year, obtain food of six kinds. Because the Jyotiṣṭoma and the others are performed twice each, he obtains these six kinds of food doubled", it says.
+
+The Mahāvrata too is one part of the sattra called गवां अयन (*gavāṃ ayana*) (Gavām Ayana). In the sattra in the form of Gavāmayana, which is performed for a full year (360 days), the Prāyaṇīya Atirātra is the first day and the Udayanīya Atirātra the last day. The rites preceding the very last Udayanīya Atirātra are called Mahāvrata (this is of the nature of the Agniṣṭoma). Just as the Caturviṃśa is the opening rite of this great sattra, the Mahāvrata is the concluding rite. The procedure of the Mahāvrata is described in the Aitareya Brāhmaṇa thus:
+
+यद्वै चतुर्निंशं तन्महाव्रतं बृहद्दिवेनात्र होता रेतः सिंचति तददो (*yadvai caturniṃśaṃ tanmahāvrataṃ bṛhaddivenātra hotā retaḥ siṃcati tadado*)
+महाव्रतीयेनाह्ना प्रजनयति संवत्सरे संवत्सरे वै रेतः सिक्तं जायते (*mahāvratīyenāhnā prajanayati saṃvatsare saṃvatsare vai retaḥ siktaṃ jāyate*)
+तस्मात्समानं बृहद्दिवः . . . . . . य एवं विद्वानेतदहरुपैति । (*tasmātsamānaṃ bṛhaddivaḥ . . . . . . ya evaṃ vidvānetadaharupaiti |*)
+
+(Ai. Brā. 17-8 [the print has "ಇ. ಬ್ರಾ."])
+
+The importance which the Caturviṃśa has at the beginning of the Gavām Ayana belongs to the Mahāvrata at the end. With the Bṛhaddiva mantras the Hotṛ pours seed in the form of *retas* and, on the day of the Mahāvrata, assists the act of generation. Any seed becomes fruit within a year. He who knows this principle crosses the bond of the year and obtains wealth of food and wealth of offspring. One important point understood from this description is that, as in the Pravargya rite, so also in the rite called Mahāvrata the purpose of the rite is to guard the sacrificial seed for a year and afterwards to make it fruitful. This rite also shows a connected relation between the year that is passing and the year that is to come. At the time of this rite the recitation of the sāman in the form of Mahaduktha is principal. This praises the Mahāvrata-graha. First the Mahāvrata sāman is recited and then the Mahaduktha,
+
+### Printed p. 54
+
+*Running head: [54 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185].*
+
+and both tell the greatness of the Mahāvrata. In this recitation the secret principle of Agni and Prajāpati lies hidden. This Mahaduktha has five parts and reflects the five divisions of the body-principle, which is a union of Agni and Prajāpati. How: (1) the Gāyatra sāman, of the nature of the bird and of the *trivṛt* stoma, reflects the head; (2) the Rathantara sāman, of the *pañcadaśa* stoma, the right wing; (3) the Bṛhat sāman, of the *saptadaśa* stoma, the left wing; (4) the Bhadra sāman, of the *ekaviṃśa* stoma, the tail; and (5) the Rājanya sāman, of the *pañcaviṃśa* stoma, the self (the body). Explaining the greatness and the spiritual principle of the Mahāvrata, the Mahāvrata sāman and the Mahaduktha, the Śatapatha Brāhmaṇa praises their greatness thus:
+
+प्रजापतिरिमान्नोकान्यप्सत् । स एतं वयोविधमात्मानमपश्यदग्निं तं व्यधत्त (*prajāpatirimānnokānyapsat | sa etaṃ vayovidhamātmānamapaśyadagniṃ taṃ vyadhatta*)
+तेनेमं लोकमाप्नोत्स द्वितीयं वयोविधमात्मानमपश्यन्महाव्रतं (*tenemaṃ lokamāpnotsa dvitīyaṃ vayovidhamātmānamapaśyanmahāvrataṃ*)
+तद्व्यधत्त तेनांतरिक्षमाप्नोत्स तृतीयं वयोविधमात्मानमपश्यन्महदुक्थं (*tadvyadhatta tenāṃtarikṣamāpnotsa tṛtīyaṃ vayovidhamātmānamapaśyanmahadukthaṃ*)
+तद्व्यधत्त तेन दिवमाप्नोत् । (*tadvyadhatta tena divamāpnot |*)
+
+Prajāpati took up the purpose of obtaining all these worlds. Then he created Agni in the form of a bird (the *agnicit*). After building it he obtained this earthly world. Afterwards the second bird-form, the Mahāvrata, was revealed to him; building it he obtained the atmosphere. At last the third bird-form, the Mahaduktha, was revealed to him; after building it he obtained the heavenly world.
+
+अयं नाव लोकैएषोऽग्निश्चितः । अंतरिक्षं महाव्रतं द्यौर्महदुक्थं तस्मा- (*ayaṃ nāva lokaieṣo 'gniścitaḥ | aṃtarikṣaṃ mahāvrataṃ dyaurmahadukthaṃ tasmā-*)
+देतानि सर्वाणि सहोपेयादग्निं महाव्रतं महदुक्थग्ं सह हीमे (*detāni sarvāṇi sahopeyādagniṃ mahāvrataṃ mahadukthagṃ saha hīme*)
+लोका असृज्यंत इत्यधिदेवतं । (*lokā asṛjyaṃta ityadhidevataṃ |*)
+
+This *agnicit* built by Prajāpati is the earthly world; the Mahāvrata is the atmosphere; the Mahaduktha is the heavenly world. Since all these worlds were created together by Prajāpati, the natures of the *agnicit*, the Mahāvrata and the Mahaduktha must be known together. Among them, since the earth was created first, the *agnicit*, whose deity is the earth, was built first. This was the description explaining the divine nature. In the same way, explaining the principle of the body,
+
+अथाध्यात्मं । मन एवाग्निः प्राणो महाव्रतं वाङ्महदुक्कं . . . . . (*athādhyātmaṃ | mana evāgniḥ prāṇo mahāvrataṃ vāṅmahadukkaṃ . . . . .*)
+आत्मैवाग्निः । प्राणो महाव्रतं वाङ्महदुक्कं . . . . . . . . (*ātmaivāgniḥ | prāṇo mahāvrataṃ vāṅmahadukkaṃ . . . . . . . .*)
+शिर एवाग्निः । प्राणो महाव्रतमात्मा महदुक्कं . . . . . . . . (*śira evāgniḥ | prāṇo mahāvratamātmā mahadukkaṃ . . . . . . . .*)
+
+(Śa. Brā. 10-1-2-1 to 9 [the print has "ಶ. ಬ್ರಾ. ೧೦-೧-೨-೧ ರಿಂದ ೯"])
+
+### Printed p. 55
+
+*Running head: [Ā. ೨ Ā. ೫. Va. ೨.] Ṛgveda-saṃhitā 55 (as supplied).*
+
+in explaining the spiritual principle it is said that the mind is the *agnicit*, the breath (*prāṇa*) is the Mahāvrata and speech (*vāk*) is the Mahaduktha; and in explaining the principle of the body, that the self is the *agnicit*, the breath is the Mahāvrata and speech is the Mahaduktha. And telling the derivation of the word Mahāvrata,
+
+. . . . . यजुष्टः प्राण एव महांस्तस्यान्नमेव व्रतं (*. . . . . yajuṣṭaḥ prāṇa eva mahāṃstasyānnameva vrataṃ*)
+तन्महाव्रतग्० सामतः प्राण उ एवोक् तस्यान्नमेव थं तदुक्थं . (*tanmahāvratag0 sāmataḥ prāṇa u evok tasyānnameva thaṃ tadukthaṃ .*)
+
+(Śr. Brā. 10-4-1-23 [as printed "ಶ್ರ. ಬ್ರಾ."])
+
+Agni, the lord of the sacrifice, is *mahān* ("great"); his food is the *vrata*; therefore "Mahāvrata". Breath is *uk*, and its food is *tha*; therefore "uktha": thus the derivation from the spiritual side is given. And the greatness of the Mahāvrata (graha) is praised thus:
+
+अधातो महाव्रतीयस्यैव । प्रजापतेर्ह वै प्रजाः सस्यजानस्य पर्वाणि वि (*adhāto mahāvratīyasyaiva | prajāpaterha vai prajāḥ sasyajānasya parvāṇi vi*)
+सस्रग्ं सुः स विस्रस्तैःपर्वभिर्नशशाक संहातुं ततो देवा अर्चंतः (*sasragṃ suḥ sa visrastaiḥparvabhirnaśaśāka saṃhātuṃ tato devā arcaṃtaḥ*)
+श्राम्यंतश्चेरुस्त एतं महाव्रतीयं ददृशुस्तमस्मा अगृह्णंस्तेनास्य (*śrāmyaṃtaścerusta etaṃ mahāvratīyaṃ dadṛśustamasmā agṛhṇaṃstenāsya*)
+पर्वाणि समदधुः । (*parvāṇi samadadhuḥ |*)
+
+After Prajāpati had created all the creatures, all the joints of his body became loosened by that exertion; therefore even rising up became an effort for him. Of all the gods
+
+स सग्ंहितैः पर्वभिः।इदमन्नाद्यमभ्युत्तेस्थौ यदिदं प्रजापतेरन्नाद्यं यद्वै (*sa sagṃhitaiḥ parvabhiḥ|idamannādyamabhyuttesthau yadidaṃ prajāpaterannādyaṃ yadvai*)
+मनुष्याणामशनं तद्देवानां व्रतं महद्वा इदं व्रतमभूद्येनायग्ं (*manuṣyāṇāmaśanaṃ taddevānāṃ vrataṃ mahadvā idaṃ vratamabhūdyenāyagṃ*)
+समहास्तेति तस्मान्महाव्रतीयो नाम । (*samahāsteti tasmānmahāvratīyo nāma |*)
+
+(Ś. Brā. 4-6-4-1 to 2 [as printed "ಶ. ಬ್ರಾ."])
+
+(the supplied text breaks the Kannada sentence off at "ದೇವತೆಗಳೆಲ್ಲರ", and the Sanskrit continues in the next line.) When the joints had been put right, Prajāpati received this food in the form of the Mahāvratīya graha. What is food for Prajāpati and for the creatures created by him is food in the form of *vrata* for the gods also. Because it has the greatness of putting right the bodily distress even of Prajāpati and making him vigorous, the name Mahāvrata became famous for it: so its praise says. What the characteristic of such a great Mahāvrata is, is told very extensively in the Aitareya Āraṇyaka. As it is not possible to give the explanation fully here, it will be told briefly. The special points will be told later.
+
 ---
 
-**Progress note:** Done through printed p. 52 (PDF 52). Sukta 185 Rik 1 Special Topics: abhiplava in the Brahmanas (Jaiminiya, Satapatha, Aitareya), shadaha (continues on next page)
+**Progress note:** Done through printed p. 55 (PDF 55). Sukta 185 Rik 1 Special Topics: Abhiplava-shadaha, Mahavrata, Mahaduktha, Agnicit (Kaushitaki, Aitareya, Shatapatha); continues on next page
