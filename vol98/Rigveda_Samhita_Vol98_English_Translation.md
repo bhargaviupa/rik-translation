@@ -8908,6 +8908,89 @@ Let us examine carefully what the qualities and achievements of Bṛhaspati are,
 
 He is called Brahmā (the priest called Brahmā) (१०-१४१-३ (*10-141-3*)). He is connected with the priests (७-१०-४ ; १०-१४-३ (*7-10-4 ; 10-14-3*)). He is also called Aṅgiras (४-४०-१ ; ४-७३-१ ; १०-४७-६ (*4-40-1 ; 4-73-1 ; 10-47-6*)). He composes and utters hymns; he is their lord and impeller (२-२३-१, २ ; १-४०-५ (*2-23-1, 2 ; 1-40-5*) and १०-९८-७ (*10-98-7*)); by the mantra alone he accomplishes all his aims (२-२४-३ (*2-24-3*)); mounting the blazing chariot called sacrifice he sets out to conquer the enemies of the gods and of the singers (२-२३ ३ (*2-23 3*)); he is the nourisher and protector of the faithful and their guide; he carries them across calamities (२-२३-४ (*2-23-4*)); he bestows wealth and the like on them (२-२३-९ (*2-23-9*)); he is called the father of all the gods; he is endowed with all divine qualities (३-६२-४ ; ४-५०-६ (*3-62-4 ; 4-50-6*)); he is all-formed; all things that all desire are in him (७-१०-४, ७-९७-४ (*7-10-4, 7-97-4*)); he bears a golden spear (७-९७-७ (*7-97-7*)); together with Indra he is the leader of the armies (१०-१०३-८ (*10-103-8*)).
 
+### Printed p. 303
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 11] Ṛgveda-saṃhitā 303 (as supplied).*
+
+*(Continuation of the introduction to the sūkta whose deity is Bṛhaspati; the list of his qualities from p. 302.)*
+
+...one who prolongs life (१०-१००-५ (*10-100-5*)); plants arose from him (१०-९७-१५ (*10-97-15*) and १९ (*19*)); tawny horses are said to be his vehicle (नि. २-२८ (*ni. 2-28*)). Hearing the distressed cry of Trita, thrown into a well by demons and calling the gods to his help, Bṛhaspati delivered him from that dangerous condition (१-१०५-१७ (*1-105-17*)); it is also said that Bṛhaspati, together with Indra, made the water that was covered in darkness flow again (२-२३-१८ ; १-५६-५ (*2-23-18 ; 1-56-5*)).
+
+Bṛhaspati by his own power broke the rock door of the well filled with honey; the gods drank that honey and sent rain abundantly (२-२४-३, ४ (*2-24-3, 4*)); when Bṛhaspati, with rays spitting fire, broke the strongholds of Vala, the herds of cows became visible; he drove the cows out as one breaks an egg; seeing the honey (water) covered by rock, he split it by his lion-roar alone and brought it out (१०-६८-४ रिंद ९ (*10-68-4 riṃda 9*)); Bṛhaspati brought the cows out of the rocks; he seized Vala's cows and took them in his power (१०-६८-५ (*10-68-5*)). Bṛhaspati is endowed with divinity (२-२३-२ (*2-23-2*)); he is one's own to all the gods (३-६२-४ ; ४-५०-६ (*3-62-4 ; 4-50-6*)) and has the most divinity among the gods; in the form of a god he gathers all the gods and all things into himself (२-२४-११ ; ८-६१-१८ (*2-24-11 ; 8-61-18*)); being capable, he keeps the two ends of the earth far apart (४-५०-१ (*4-50-1*)); the rising of the sun and moon one after the other is his imitable deed (१०-६८-१० (*10-68-10*)). In the Taittirīya-saṃhitā (the Yajurveda) the relation of Bṛhaspati to certain stars is stated: Bṛhaspati is the deity of the Puṣya asterism (तै. सं. ४-४ १०-१ (*tai. saṃ. 4-4 10-1*)); in the Purāṇas and elsewhere Bṛhaspati is described as Vācaspati and as the presiding deity of the planet Jupiter.
+
+Some scholars have held that the deities Bṛhaspati and Brahmaṇaspati are variant forms of Agni. The scholar M. Langlois in his translation of the Ṛgveda (part I, pp. 249, 254, 578) supports with many examples that these two deities are variant forms of Agni. The scholar Wilson expressed the same opinion in the introduction to the first part of his Ṛgveda translation; and the scholar Max Müller too says:
+
+Brihaspati and Brahmanaspati are both varieties of Agni, the priest and the purohit of the Gods and men and as such he is invoked together with the Maruts &c. (*Brihaspati and Brahmanaspati are both varieties of Agni, the priest and the purohit of the Gods and men and as such he is invoked together with the Maruts &c.*)
+
+That is, Bṛhaspati and Brahmaṇaspati are both variant forms of Agni, who stand in the position of priest and purohit to the gods and men; for this reason they are invoked together with the Maruts in many places.
+
+### Printed p. 304
+
+*Running head: [304 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 189] (as supplied; the print has the sūkta number ೧೮೯).*
+
+We give one or two examples which state the identity of Agni with Bṛhaspati and Brahmaṇaspati.
+
+त्वमग्न इंद्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः । (*tvamagna iṃdro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ |*)
+त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या ॥ (*tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā ‖*)
+(म सं. २-१-३) (*(ma saṃ. 2-1-3)*)
+
+"O Agni, you are Indra, the greatest among the good; you are Viṣṇu, the worshipful and of the vast body; O Brahmaṇaspati, you are the wealthy priest called Brahmā": thus Agni is described as the form of many deities.
+
+तं शुभ्रमग्निमवसे हवामहे वैश्वानरं माशरिश्वानमुक्थं । (*taṃ śubhramagnimavase havāmahe vaiśvānaraṃ māśariśvānamukthaṃ |*)
+बृहस्पतिं मनुषो देवताशये विप्रं श्रोतारमतिथिं रघुष्यदं ॥ (*bṛhaspatiṃ manuṣo devatāśaye vipraṃ śrotāramatithiṃ raghuṣyadaṃ ‖*)
+(ऋ सं. ३-२६-२) (*(ṛ saṃ. 3-26-2)*)
+
+"We invoke for our protection the shining Agni, friend of mankind; the Mātariśvan worthy to be addressed by mantra, the wise, the praiser of the gods, the guest-like, the swift Bṛhaspati, to come to the rites such as sacrifice connected with men."
+
+Sāyaṇācārya, in writing the commentary on the ṛk ५-४३-१२ (*5-43-12*), says of the word *bṛhaspati*:
+
+अथवा इयमाग्नेयी। बृहतः परिवृढस्य कर्मणः स्वामाति बृहस्पतिरग्निरुच्यते। तथा नीलवर्णधूमपृष्टत्वसदनसादनहिरण्यवर्णत्वादिलिंगैरप्यग्निरेव बृह- स्पतिः (*athavā iyamāgneyī| bṛhataḥ parivṛḍhasya karmaṇaḥ svāmāti bṛhaspatiragnirucyate| tathā nīlavarṇadhūmapṛṣṭatvasadanasādanahiraṇyavarṇatvādiliṃgairapyagnireva bṛha- spatiḥ*)
+
+That is: or this mantra may be said to address the deity Agni. Because he is the lord of the great work in the form of the sacrifice at hand, Agni is named Bṛhaspati. Likewise, by marks such as the black smoke as his back, the sacrificial altar as his place, and the golden colour, Bṛhaspati too must be said to be Agni.
+
+Now let us examine the examples that state a difference between Agni and Bṛhaspati-Brahmaṇaspati.
+
+सोषामविंदत्स स्वः १ [?] सो अग्निं सो अर्कॆण वि बबाधे तमांसि । (*soṣāmaviṃdatsa svaḥ 1 [?] so agniṃ so arkèṇa vi babādhe tamāṃsi |*)
+बृहस्पतिर्गो वपुषो वलस्य निर्मज्ञानं न पर्वणो जभार ॥ (*bṛhaspatirgo vapuṣo valasya nirmajñānaṃ na parvaṇo jabhāra ‖*)
+(म. सं. १०-६८-९) (*(ma. saṃ. 10-68-9)*)
+
+In this ṛk it is said that Bṛhaspati obtained the dawn, heaven and Agni and drove away darkness with a mantra: that Bṛhaspati and Agni are different. (The print has a footnote sign ೧ in the first line, marked [?].)
+
+### Printed p. 305
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 12] Ṛgveda-saṃhitā 305 (as supplied).*
+
+इंद्रं नो अग्ने वसुभिः सजोषा रुद्रं रुद्रेभिरा वहा बृहंतं । (*iṃdraṃ no agne vasubhiḥ sajoṣā rudraṃ rudrebhirā vahā bṛhaṃtaṃ |*)
+आदित्येभिरदितिं विश्वजन्यां बृहस्पतिमृक्वभिर्विश्ववारं ॥ (*ādityebhiraditiṃ viśvajanyāṃ bṛhaspatimṛkvabhirviśvavāraṃ ‖*)
+(म सं. ७-१०-४) (*(ma saṃ. 7-10-4)*)
+
+In this ṛk Agni is prayed to bring Indra with the Vasus, Rudra with the Maruts, Aditi, mother of all, with the Ādityas (gods), and Bṛhaspati with the Aṅgiras sages who praise. Besides, ṛks that indicate that Bṛhaspati or Brahmaṇaspati is different from Agni are many in the Ṛgveda, such as ३-२०-५, ४-४०-१. ५-५१-१२ ७-४१-१, ७-४४-१, ९-५-११, १०-३५-११, १०-६५-१, १०-१३०-४, १०-१४१-३ (*3-20-5, 4-40-1. 5-51-12 7-41-1, 7-44-1, 9-5-11, 10-35-11, 10-65-1, 10-130-4, 10-141-3*) and others. Therefore the doctrine that Agni is one and Bṛhaspati and Brahmaṇaspati are others is the one supported in the Ṛgveda.
+
+#### Sūkta 190
+
+नूर तॊंभत्तनॆय सूक्तवु. (*nūra tòṃbhattanèya sūktavu.*) — "the hundred-and-ninetieth sūkta."
+
+*[As supplied, Sāyaṇa's introduction to this sūkta has no label line; its lines are printed as plain lines and are given here as a block.]*
+
+**Sāyaṇa-bhāṣya** (introduction)
+
+> अनर्वाणमित्यष्टर्चमेकादशं सूक्तमागस्त्यं बार्हस्पत्यं त्रैष्टुभं ।
+> अनर्वाणं बार्हस्पत्यमित्यनुक्रांतं ॥ श्रौतविनियोगो लैंगिकः ॥ अत्र शौनकः ।
+> स्नात्वा जपेदनर्वाणं नमस्कृत्य बृहस्पतिं । वीरान्थनं च प्राप्नोति सोऽश्लोक्यं
+> च नियच्छति । ऋग्वि. १-२७ । इति ॥
+
+*Gist:* The sūkta "Anarvāṇam" is the eleventh of this group, of eight ṛks, by Agastya, to Bṛhaspati, in *triṣṭubh* (Anukramaṇikā); its ritual use is *laiṅgika*, according to the sense of the mantra; Śaunaka prescribes bathing and reciting it after saluting Bṛhaspati, to gain sons, wealth and fame.
+
+**Anuvāda (Kannada).** This sūkta beginning अनर्वाणं (*anarvāṇaṃ*) is the eleventh sūkta in the twenty-fourth anuvāka. It has eight ṛks. Agastya is the seer of this sūkta; Bṛhaspati is the deity; the metre is *triṣṭubh*. In the Anukramaṇikā it is said, beginning अनर्वाणं बार्हस्पत्यं (*anarvāṇaṃ bārhaspatyaṃ*). The Śrauta use of this sūkta is *laiṅgika*, that is, according to the sense of the mantra. On the use of this sūkta the sage Śaunaka in his work Ṛgvidhāna says:
+
+स्नात्वा जपेदनर्वाणं नमस्कृत्य बृहस्पतिं । (*snātvā japedanarvāṇaṃ namaskṛtya bṛhaspatiṃ |*)
+वीरान् धनं च प्राप्नोति सुश्लोक्यं च नियच्छति ॥ (*vīrān dhanaṃ ca prāpnoti suślokyaṃ ca niyacchati ‖*)
+(ऋग्विधान. १-२७) (*(ṛgvidhāna. 1-27)*)
+
+That is: a person who, having bathed and become pure and saluted the deity Bṛhaspati, recites this sūkta of eight ṛks beginning "Anarvāṇam", Bṛhaspati gives him heroic sons, wealth and fame: so they say.
+
+*[Stray line of the supplied text: [20] Vol. 14 (*[20] Vol. 14*); not part of the text.]*
+
 ---
 
-**Progress note:** Done through printed p. 302 (PDF 302). Introduction to the next sukta (deity Brihaspati) continued: Brihaspati and Brahmanaspati, the Devapi-Shantanu narrative, the Pani narrative, Brihaspati's qualities; breaks off after the reference 10-103-8 at the end of p. 302
+**Progress note:** Done through printed p. 305 (PDF 305). Bhrihaspati introduction complete (qualities, Agni and Brihaspati compared); Sukta 190 begun: Sayana's introduction and anuvada done (sukta heading lines and Rik 1 next); [?] on a footnote sign inside a quoted verse
