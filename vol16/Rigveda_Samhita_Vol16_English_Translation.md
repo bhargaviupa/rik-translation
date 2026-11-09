@@ -2376,6 +2376,87 @@ Grammar notes (pp. 83–85), noted briefly. On p. 83: समिद्धस्�
 
 (Gist: O yūpa, vanaspati, rise up on the earth in the excellent sacrificial place; being well measured, bestow food on the sacrificer. The bhāṣya continues on the next page; its grammatical tail begins with वनस्पते (*vanaspate*) and पृथिव्याः (*pṛthivyāḥ*).)
 
+### Printed p. 86
+
+*[Running head, p. 86: 86 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+(Sāyaṇa-bhāṣya of Ṛk 3, continued from p. 85: the grammatical tail.)
+
+> हल्पूर्वादिति विभक्तेरुदात्तत्वं । सुमिती । माज् मान इत्यस्य क्रीनि द्यतिस्यतिमास्थे-
+> तीकारादेशः । शोभनया मित्या । तादौ च निति कृत्यताविति गतेः प्रकृतिस्वरत्वं ।
+> सुपां सुलुगिति सवर्णदीर्घः । मीयमानः । माज् मान इत्यस्य कर्मणि यक् ।
+> घुमास्थेतीत्वं । प्रत्ययस्वरः । धाः । धाञ्नो लोडर्थे छंदसि लुज् लज्जति लुज् ।
+> इतश्चेति सिप इकारलोपः । गातिस्थेति सिचो लोपः । बहुलं छंदसीत्यदभावः ।
+> निघातः । यज्ञवाहसे ' यज्ञं वहति प्राप्नोति । वह प्रापण इत्यस्य वहिहाधा-
+> इच्छंदसीत्यसुन् । णिदित्यनुवृत्तेरुपधावृद्धिः । गतिकारकयोरिति पूर्वपदप्रकृति-
+> स्वरत्वं चेति पूर्वपदप्रकृतिस्वरः । उ. ४-२२६ ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(He vanaspate — O yūpa, you) पृथिव्या अधि (*pṛthivyā adhi*): upon the earth. वर्ष्मन् (*varṣman*): in the excellent sacrificial hall. उच्छ्रयस्व (*ucchrayasva*): stand up, rise. सुमिती (*sumitī*): by an auspicious intellect (or by a good measure). मीयमानः (*mīyamānaḥ*): being measured (so that it is just so much). यज्ञवाहसे (*yajñavāhase*): to the sacrificer, the one who accomplishes the sacrifice. वर्चःधाः (*varcaḥdhāḥ*) [as printed]: bestow food.
+
+**भावार्थ (Bhāvārtha)**
+
+O yūpa, stand up in this excellent sacrificial house on the earth. Cut to the proper measure, bestow food and the like upon the performer of the sacrifice.
+
+**Printed English translation**
+
+Be exalted, VANASPATI, upon this sacred spot of earth. being [sic, lower case after the full stop, as printed] measured with careful measurement, and bestow food upon the offerer of the sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वर्ष्मन्—उत्कृष्टे देवयजनाख्ये देशे (*varṣman—utkṛṣṭe devayajanākhye deśe*) — Since Sāyaṇa takes this word to be in the locative case, he explains the meaning as: in the excellent region of the sacrificial altar on the earth (above, on the surface). The region where oblations are offered to the gods is well known as the devayajana-deśa ("place of worship of the gods"). The meaning is that in this region the yūpa shines, standing high with its height.
+
+सुमिती मीयमानः—शोभनया बुद्ध्या अथवा शोभनेन परिमाणेन इयत्तया परिच्छिद्यमानः (*sumitī mīyamānaḥ—śobhanayā buddhyā athavā śobhanena parimāṇena iyattayā paricchidyamānaḥ*) — Sāyaṇa gives a twofold meaning here. First he makes the word sumiti mean sumati, an auspicious intellect; second, an excellent measure consisting of height; and in both ways he describes the yūpa as being limited (measured).
+
+### Printed p. 87
+
+*[Running head, p. 87: [A. 3. A. 1. V. 3] Ṛgvedasaṃhitā 87]*
+
+यज्ञवाहसे वर्चोधाः—यज्ञनिर्वाहकाय यजमानाय अन्नं धेहि (*yajñavāhase varcodhāḥ—yajñanirvāhakāya yajamānāya annaṃ dhehi*) — It is desired that the fire within the yūpa should grant food to the sacrificer who performs the sacrifice. The word वर्चः (*varcaḥ*) is listed among the names of food (Ni. 3-9). And Sāyaṇa quotes the following passage, which conveys this meaning:
+
+उच्छयस्व वनस्पत इत्युच्चीयमाणायाभिरूपा यद्यज्ञेऽभिरूपं तत्समृद्धं वर्ष्मन् पृथिव्या अधीत्यैतद्वै वर्ष पृथिव्यै यत्र यूपमुन्मिन्वंति सुमिती मीयमानो वर्चो धा यज्ञवाहस इत्याशिषमाशस्ते (*ucchayasva vanaspata ityuccīyamāṇāyābhirūpā yadyajñe 'bhirūpaṃ tatsamṛddhaṃ varṣman pṛthivyā adhītyaitadvai varṣa pṛthivyai yatra yūpamunminvaṃti sumitī mīyamāno varco dhā yajñavāhasa ityāśiṣamāśaste*) (Ai. Brā. 2-2).
+
+He cites this Brāhmaṇa passage.
+
+अधि पृथिव्यां (*adhi pṛthivyāṃ*) — The word पृथिवी (*pṛthivī*) is stated both in the sense of earth (Ni. 2-5) and in the sense of the atmosphere (Ni. 2-10). Citing the Ṛk
+
+बळित्था पर्वतानां खिद्रं बिभर्षि पृथिवि । प्र या भूमिं प्रवत्वति मह्ना जिनोषि मॆहिनि । (*baḷitthā parvatānāṃ khidraṃ bibharṣi pṛthivi | pra yā bhūmiṃ pravatvati mahnā jinoṣi mèhini |*) (Ṛ. Saṃ. 5-84-1)
+
+the author of the Nirukta (the passage as supplied lacks its closing bracket) explains:
+
+सत्यं त्वं पर्वतानां मेघानां खेदनं छेदनं भेदनं बलममुत्र धारयसि पृथिवि प्रजिन्वसि या भूमिं प्रवणवति महत्त्वेन महतीत्युदकवशीति वा (*satyaṃ tvaṃ parvatānāṃ meghānāṃ khedanaṃ chedanaṃ bhedanaṃ balamamutra dhārayasi pṛthivi prajinvasi yā bhūmiṃ pravaṇavati mahattvena mahatītyudakavaśīti vā*) (Ni. 11-39).
+
+The meaning is explained thus: the middle-region deity called Pṛthivī endures the splitting of mountains and clouds; besides being endowed with abundant strength, she makes the earth rich in water and is full of majesty.
+
+**Vyākaraṇa-prakriyā**
+
+Grammar notes, noted briefly. वनस्पते (*vanaspate*): being listed in the pāraskara group it receives the augment suṭ; in the vocative, standing at the beginning of the pāda, the amantrita nighāta accent applies. वर्ष्मन् (*varṣman*): root वृषु सेचने (*vṛṣu secane*), suffix manin; guṇa of the light penultimate vowel (puganta-laghūpadhasya ca); initial udātta because the suffix is marked ṇit; luk for the locative ending by सुपांसुलुक् (*supāṃsuluk*) (Pā. 7-1-39). पृथिव्याः (*pṛthivyāḥ*): udātta on the case ending by उदात्तयणो हल् पूर्वात् (*udāttayaṇo hal pūrvāt*) (Pā. 6-1-174). सुमिति (*sumiti*): root माज् माने (*māj māne*), suffix ktin (Pā. 3-3-94); by dyatisyatimāsthā (Pā. 7-4-40) the root vowel is replaced by i before a suffix beginning with t and marked k; the udātta of the preceding gati (su) remains (Pā. 6-2-360, as printed); in the instrumental singular the preceding-similar long vowel replaces by सुपांसुलुक् (*supāṃsuluk*).
+
+### Printed p. 88
+
+*[Running head, p. 88: 88 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+(Grammar notes, continued; the p. 87 sentence on सुमिति (*sumiti*) ends at the top of this page with the word प्रत्यय (*pratyaya*).) मीयमानः (*mīyamānaḥ*): root माज् माने (*māj māne*); śānac for laṭ in the passive; yak (Pā. 3-1-67); ī for the root vowel (Pā. 6-4-66, as printed); muk augment; the yak accent remains since śānac is anudātta. धाः (*dhāḥ*): root डुधाज् धारणपोषणयोः (*ḍudhāj dhāraṇapoṣaṇayoḥ*); luṅ in the sense of loṭ in the Veda; sip in the second person singular; loss of its i (Pā. 3-4-100); loss of sic (Pā. 2-4-77); no augment aṭ (Pā. 6-4-75); nighāta accent after a finite verb. यज्ञवाहसे (*yajñavāhase*): यज्ञं वहति (प्राप्नोति) यज्ञवाहाः तस्मै (*yajñaṃ vahati (prāpnoti) yajñavāhāḥ tasmai*); root वह प्रापणे (*vaha prāpaṇe*); suffix asun (Uṇ. 4-660); ṇidvadbhāva by anuvṛtti of ṇit; vṛddhi of the penultimate a (Pā. 7-2116, as printed); accent of the first member (Uṇ. 4-666); a dative singular form.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> युवा॑ सु॒वासाः॒ परि॑पीत॒ आगा॒त्स उ॒ श्रेया॑न्भवति॒ जाय॑मानः
+> तं धीरा॑सः क॒वय॒ उन्न॑यंति स्वा॒ध्यो॒३॒॑ ३ मन॑सा देव॒यंतः॑
+> ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> युवा । सुवासाः । परिवीतः । आ । अगात् । सः । ऊं इति । श्रेयान् । भवति ।
+> जायमानः ।
+> तं । धीरासः । कवयः । उत् । नयंति । सुआध्यः । मनसा । देवयंतः ॥ ४ ॥
+
+> *yuvā | suvāsāḥ | parivītaḥ | ā | agāt | saḥ | ūṃ iti | śreyān | bhavati |*
+> *jāyamānaḥ |*
+> *taṃ | dhīrāsaḥ | kavayaḥ | ut | nayaṃti | suādhyaḥ | manasā | devayaṃtaḥ ‖ 4 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 85 (PDF 85). Done through printed p. 85. Sukta 8 Rk 2 Special Topics and grammar complete; Rk 3 Samhita, Pada and start of bhasya on p. 85 (bhasya continues).
+**Progress note:** Done through printed p. 88 (PDF 88). Done through printed p. 88. Sukta 8 Rk 3 complete (Pratipadartha, Bhavartha, Special Topics, grammar); Rk 4 Samhita and Pada given, bhasya not yet begun.
