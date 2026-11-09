@@ -8281,6 +8281,137 @@ This ṛk अग्ने त्वं पाराय (*agne tvaṃ pārāya*) 
 
 नव्य: (*navya:*) — नवतरः स्तुत्यो वा (*navataraḥ stutyo vā*). For the word *navya* Yāska's explanation is "newer" (नि. ६-९ (*ni. 6-9*)). In many places it is described that when kindling-sticks and the like are put into Agni he grows and is ever new. Sāyaṇa adds the sense स्तुत्यः (*stutyaḥ*), "praised". The word *navya* is used of Agni in many ṛks (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 281
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 10] Ṛgveda-saṃhitā 281 (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 2 of Sūkta 189.)*
+
+स्वस्तिभिः (*svastibhiḥ*) — अस्तिरभिपूजितः । सुशब्दः शोभनवचनः । अत्यंतं पूजितैर्यज्ञादि साधनैः (*astirabhipūjitaḥ | suśabdaḥ śobhanavacanaḥ | atyaṃtaṃ pūjitairyajñādi sādhanaiḥ*): that is, by the worshipful means such as sacrifice. Yāska's explanation is स्वस्तित्यविनाशिनाम । अस्तिरभि पूजतः सु अस्तीति (*svastityavināśināma | astirabhi pūjataḥ su astīti*) (नि. ३-२१ (*ni. 3-21*)): *svasti* is a name of the imperishable; *asti* is "honoured", *su asti*: that which has no destruction and therefore is worthy of worship. The prefix *su* also conveys the senses "very", "good", "beautiful".
+
+पूः (*pūḥ*) — a city, the town in which we live. The bhāṣyakāra has said that this word is a singular of the class (*jātyekavacana*): although a singular is used, it can be given a plural sense. बहुला (*bahulā*) — *bahutarā*: the sense is that it should provide many kinds of happiness and wealth, sons and grandsons.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 2, noted briefly)
+
+पारय (*pāraya*) (root पार तीरसमाप्ति (*pāra tīrasamāpti*)): *loṭ* after the causative, second person singular; owing to the connection with a finite verb the *nighāta* accent. दुर्गाणि (*durgāṇi*) (root गम्‌ल्य गत् (*gamlya gat*)): by सुदुरोरधिकरणे (*suduroradhikaraṇe*) the suffix *ḍa*; because of the *ḍ*-marking the *ṭi* of the root is dropped; the accent of the first member of the *kṛt* compound. विश्वा (*viśvā*): by शेष्वंदसि बहुलम् (*śeṣvaṃdasi bahulam*) (पा. सू. ६-१-७० (*pā. sū. 6-1-70*), as printed) the *śi* is dropped. पृथ्वी (*pṛthvī*): being read in the *gaurādi* group, the suffix *ṅīṣ*; by the suffix accent the last syllable is acute. भवा (*bhavā*) (root भू सत्तायां (*bhū sattāyāṃ*)): *loṭ*, second person singular; being at the beginning of the pāda the *nighāta* accent does not occur and the accent of the root remains; by द्वचोतस्तिजः (*dvacotastijaḥ*) (पा. सू. ६-३-१३५ (*pā. sū. 6-3-135*)) lengthening in the Saṃhitā. तनयाय (*tanayāya*) (root तनु विस्तारे (*tanu vistāre*)): by वलिमलितनिभ्यःकयन् (*valimalitanibhyaḥkayan*) (उ. सू ४-५३९ (*u. sū 4-539*)) the suffix *kayan*; the suffix being marked *n*, by इत्यादिर्नित्यम् (*ityādirnityam*) the first syllable is acute.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अग्ने॒ त्वम॒स्मद्यु॑यो॒ध्यमी॑वा॒ अन॑ग्नित्रा अ॒भ्यमं॑त कृ॒ष्टीः ।
+> पुन॑र॒स्कभ्यं॑ सुवि॒ताय॑ देव॒ क्षां विश्वे॑भिर॒मृते॑भिर्यजत्र
+> ॥ ३ ॥
+
+> *agne tvamasmadyuyodhyamīvā anagnitrā abhyamaṃta kṛṣṭīḥ |*
+> *punaraskabhyaṃ suvitāya deva kṣāṃ viśvebhiramṛtebhiryajatra*
+> *‖ 3 ‖*
+
+### Printed p. 282
+
+*Running head: [282 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 189] (as supplied).*
+
+**॥ पदपाठः ॥**
+
+> अग्ने । त्वं । अस्मत् । युयोधि । अमीवाः । अनग्नित्राः । अभि । अमंत । कृष्टीः ।
+> पुनः । अस्मभ्यं । सुविताय । देव । क्षां । विश्वेभिः । अमृतेभिः । यजत्र ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label line is repeated in the supplied text; the repeat is kept in kn.md as a note.]*
+
+> हे अग्ने त्वममीवा रोगानस्मदस्मत्तो युयोधि । व्यावर्तये । या
+> अनग्नित्रा अग्निनापालिताः कृष्टीः प्रजा अभ्यमंत आभिमिमतेऽस्मान् ॥ यच्छब्दाध्या-
+> हारादनिघातः ॥ ता युयोधि । यद्वा । ता अनग्नित्राः पापिन्यः कृष्टयः प्रजा अभ्य-
+> मंत । त्वयाभ्यमितुमभितो रोगैः प्रापयितुमर्हंति । वयं तु न तादृशाः ।
+> अतोऽस्मत्तो वियोजयेत्यर्थः । न केवलं वियोगमात्रं अपि तु पुनःपुनरिदं
+> कर्तव्यं । अस्मभ्यमस्मदर्थं सुविताय शोभनफलाय हे यजत्र यष्टव्य देव
+> द्योतमानाग्ने विश्वेभिरमृतेभिः सर्वरमरणधर्मभिरन्यैर्यष्टव्यर्देवैः सह क्षां
+> पृथिवीं देवयजनलक्षणामागच्छेति शेषः ॥
+
+*Gist:* O Agni, remove from us diseases and the sinful people, unprotected by Agni, who press upon us; and, O adorable god, come with all the other immortal gods to the earth, the sacrificial ground, for our good.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). अमीवाः—रोगगळन्नू(मत्तु) (*amīvāḥ—rogagaḷannū(mattu)*) (diseases, and). अनग्नित्राः— अग्नियिंद अरक्षितरादवरू (*anagnitrāḥ— agniyiṃda arakṣitarādavarū*) (those unprotected by Agni). याः कृष्टीः—नम्म शत्रुरूपरू आद याव प्रजॆगळु (*yāḥ kṛṣṭīḥ—namma śatrurūparū āda yāva prajègaḷu*) (which people, in the form of our enemies). अभ्यमंत- नम्मन्नु प्रतिभटिसि द्वेषिसुत्तारॆयो, अवरन्नू (*abhyamaṃta- nammannu pratibhaṭisi dveṣisuttārèyo, avarannū*) (who oppose and hate us, them too). पुनः—पदे पदे (*punaḥ—pade pade*) (again and again). अस्मत्—नम्मिंद (*asmat—nammiṃda*) (from us). युयोधि—दूरमाडि नाशपडिसु (*yuyodhi—dūramāḍi nāśapaḍisu*) (remove and destroy). अस्मभ्यं—नमगॆ (*asmabhyaṃ—namagè*) (for us). सुविताय—श्रेष्ठवाद फलवन्नु ऒदगिसुवुदक्कागि (*suvitāya—śreṣṭhavāda phalavannu òdagisuvudakkāgi*) (to provide excellent fruit). यजत्र—यज्ञार्हनू (*yajatra—yajñārhanū*) (worthy of sacrifice). देव—प्रकाशमाननू आद अग्निये ! (*deva—prakāśamānanū āda agniye !*) (shining Agni). विश्वेभिर- मृतेभिः—मरणधर्मरहितराद सकल देवतॆगळॊडनॆयू (*viśvebhira- mṛtebhiḥ—maraṇadharmarahitarāda sakala devatègaḷòḍanèyū*) (with all the immortal gods). क्षां—यज्ञभूमिगॆ दयमाडु (*kṣāṃ—yajñabhūmigè dayamāḍu*) (come to the sacrificial ground).
+
+*[As supplied, the label line reads भःवार्ध (*bhaḥvārdha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, remove and destroy from us again and again our diseases and the enemies who, unprotected by you, harass us. To provide us with excellent fruit, O worshipful, shining Agni, come to the sacrificial ground with all the immortal gods.
+
+*[As supplied, the label line reads English Translatin (*English Translatin*); standard label inserted.]*
+
+**Printed English translation**
+
+Agni, remove from us disease, and those men who, unprotected by Agni, are adverse to us ; and, adorable divinity, (visit) the earth, with the all immortals, rfo our welfare. [sic: "rfo"]
+
+### Printed p. 283
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 10] Ṛgveda-saṃhitā 283 (as supplied).*
+
+*[The supplied text has no Special Topics label before the next line; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3)**
+
+अमीवाः (*amīvāḥ*) — diseases. This word, formed from the root अम रोगॆ (*ama rogè*) (*curādi*, *parasmaipada*), indicates disease or injury. Yāska, citing the ṛk
+
+यस्ते गर्भममीवा दुर्णामा योनिमाशये । (*yaste garbhamamīvā durṇāmā yonimāśaye |*)
+अग्निष्टं ब्रह्मणा सह निष्क्रव्यादमनीनशत् ॥ (*agniṣṭaṃ brahmaṇā saha niṣkravyādamanīnaśat ‖*)
+(ऋ. सं. १०-१६२-२) (*(ṛ. saṃ. 10-162-2)*)
+
+gives for the word *amīvā* in it the sense रोगभूतः (*rogabhūtaḥ*), "diseased" (नि. ६-१२ (*ni. 6-12*)).
+
+अनग्नित्राः (*anagnitrāḥ*) — those not protected by Agni, that is, those who do sinful acts, demons.
+
+अमृतेभिः (*amṛtebhiḥ*) — अमरणधर्मभिरन्यैर्यष्टवैर्दैवैः (*amaraṇadharmabhiranyairyaṣṭavairdaivaiḥ*): by the other worshipful gods free from death.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 3, noted briefly)
+
+अनग्नित्रा (*anagnitrā*): अग्निना त्राताः अग्नित्राः न अग्नित्राः अनग्नित्राः (*agninā trātāḥ agnitrāḥ na agnitrāḥ anagnitrāḥ*); by तत्पुरुषे तुल्यार्थ— (*tatpuruṣe tulyārtha—*) (पा. सू. ६-२-२ (*pā. sū. 6-2-2*)) the first member *nañ* keeps its natural accent. अमंत (*amaṃta*) (root माज् माने शब्दे च (*māj māne śabde ca*)): in the Vedic manner *laṅ* in the present sense; by *vyatyaya* *luk* of the stem-suffix; third person plural; since *yat* is understood, by यद्व- त्तान्नित्यम् (*yadva- ttānnityam*) the *nighāta* accent is prohibited; since the augment *aṭ* is acute, the first syllable is acute. कृष्टीः (*kṛṣṭīḥ*) (root कृष विलेखने (*kṛṣa vilekhane*)): by क्तिच् कौच संज्ञायाम् (*ktic kauca saṃjñāyām*) (पा सू ३-३-१७४ (*pā sū 3-3-174*)) the suffix *ktic*; on account of the connection with *ṣ*, retroflex *ṭ*; being marked *c*, the last syllable is acute. सुविताय (*suvitāya*): सुष्टु इतः सुवितः (*suṣṭu itaḥ suvitaḥ*), root इण् गतौ (*iṇ gatau*); the suffix *kta*; by तन्नादीनां छंदसि बहुलमुपसंख्यानम् (*tannādīnāṃ chaṃdasi bahulamupasaṃkhyānam*) (पा. सू. ६-४-७७-१ (*pā. sū. 6-4-77-1*), as printed) *uva* for the *u*; by the suffix accent the last syllable is acute. अमृतेभिः (*amṛtebhiḥ*): by नञतो जरमर— (*nañato jaramara—*) (पा. सू. ६-२-११६ (*pā. sū. 6-2-116*)) the first syllable of the final member is acute; in the Vedic usage the *bhis* ending optionally takes *ais*, so by बहुवचनेझल्येत् (*bahuvacanejhalyet*) it takes *e*. यजत्र (*yajatra*): root यज देवपूजादिषु (*yaja devapūjādiṣu*); by अमिनक्षियजि— (*aminakṣiyaji—*) (उ सू. ३-३८४ (*u sū. 3-384*)) the suffix *atran*; in the vocative, by आमंत्रितस्यच (*āmaṃtritasyaca*) the *nighāta* accent.
+
+### Printed p. 284
+
+*Running head (unmarked page break in the supplied text; printed inside the text): [284 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 189] (the print has "ಭಾಷ್ಪ" with a misprint).*
+
+#### Ṛk 4
+
+*[As supplied, the label line of the Saṃhitā reads संवादादि (*saṃvādādi*) and that of the Pada पडॆदार् (*paḍèdār*); standard labels inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> पा॒हि नो॑ अग्ने पा॒युभि॒रज॑स्रैरु॒त प्रि॒ये सद॑न॒ आ शु॑शु॒
+> क्वान् ।
+> मा ते॑ भ॒यं ज॑रि॒तारं॑ यविष्ठ नू॒नं वि॑द॒न्माप॒रं स॑हस्वः
+> ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> पाहि । नः । अग्ने । पायुभिः । अजस्रैः । उत । प्रिये । सदने । आ । शुशुक्वान् ।
+> मा । ते । भयं । जरितारं । यविष्ठ । नूनं । विदत् । मा । अपरं । सहस्वः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> पाहि न इत्यस्या विनियोगद्वयमग्ने त्वं पारयेत्यत्रोक्तं ॥ तथाग्नेय-
+> पशावेषैव हविषोऽनुवाक्या । तथा च सूत्रितं । पाहि नो आग्ने पायुभिरजस्रैः
+> प्र वः शुक्राय भानवे भरध्वं । आ ३-७ । इति ॥
+> हे अग्ने नोऽस्मानजस्रैरनवरतैरविच्छिन्नैः पायुभिः पालनप्रकारैः पाहि ।
+> पालय । उतापि च प्रिये सदने तव प्रियभूते यागगृह आ सर्वतः शुशुक्वान्
+> दीप्यमानो भवेति शेषः । किंच हे यविष्ठ युवतम ते तव जरितारं गरितारं
+> स्तोतारं मां नूनमद्य भयं मा विदत् । मा लभतां । माप्पोतु । हे सहस्वो
+> बलवन्नग्ने अपरमपरस्मिन्काले भयं मा विदत् । अपरं मदन्यं वा मा विदत् ॥
+
+*Gist:* Two ritual uses are stated (see the Ṛk 1 note), and the verse is the animal-offering anuvākyā. O Agni, protect us by unbroken protections; blaze all round in your dear sacrificial house; may fear not find me, your singer, now or at any later time, O youngest and mighty one.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—अग्निये (*agne—agniye*) (O Agni). नः—नम्मन्नु (*naḥ—nammannu*) (us). अजस्रैः—अनवरतवादुदू अविच्छिन्नवादुदू आद (*ajasraiḥ—anavaratavādudū avicchinnavādudū āda*) (unbroken, uninterrupted). पायुभिः—रक्षणाक्रमगळिंद (*pāyubhiḥ—rakṣaṇākramagaḷiṃda*) (by means of protection). पाहि—रक्षिसु (*pāhi—rakṣisu*) (protect). उत—मत्तु (*uta—mattu*) (and). प्रिये सदने—निनगॆ प्रीति पात्रवाद यज्ञगृहदल्लि (*priye sadane—ninagè prīti pātravāda yajñagṛhadalli*) (in the sacrificial house dear to you). आ—सुत्तलू (*ā—suttalū*) (all round). शुशुक्वान्—प्रकाशिसु (*śuśukvān—prakāśisu*) (shine). यविष्ठ—अत्यंत युवक नाद ऎलै अग्निये (*yaviṣṭha—atyaṃta yuvaka nāda èlai agniye*) (O youngest Agni). ते—निन्न (*te—ninna*) (your). जरितारं—स्तोतृवाद नन्नन्नु (*jaritāraṃ—stotṛvāda nannannu*) (me, your singer). नूनं—ईग (*nūnaṃ—īga*) (now). भयं— भयवु (*bhayaṃ— bhayavu*) (fear). मा विदत्—समीपिसदंतागलि (*mā vidat—samīpisadaṃtāgali*) (let it not approach). सहस्वः—बलशालियाद ऎलै अग्निये,  (*sahasvaḥ—balaśāliyāda èlai agniye, *)(O mighty Agni). अपरं— बेरॆकालदल्लियू सह (*aparaṃ— berèkāladalliyū saha*) (at another time too). मा—नन्नन्नु भयवु समीपिसदिरलि.  (*mā—nannannu bhayavu samīpisadirali. *)(let fear not approach me).
+
+**Bhāvārtha** (the supplied text breaks off here, at the end of the window)
+
+O youngest Agni, protect us by unbroken and uninterrupted means of protection, and blaze all round in the sacrificial house dear to you. O mighty (the supplied text breaks off here).
+
 ---
 
-**Progress note:** Done through printed p. 280 (PDF 280). Done through printed p. 280 (Sukta 189 Rik 1 complete; Rik 2 complete through printed English; Special Topics of Rik 2 begun, breaks off in the navya note)
+**Progress note:** Done through printed p. 283 (PDF 283). Done through printed p. 283 (Sukta 189 Rik 2 and Rik 3 complete; Rik 4 Samhita, Pada, bhashya, Pratipadartha done; Bhavartha of Rik 4 breaks off mid-sentence at balashali); printed p. 284 header appears inside p. 283 text
