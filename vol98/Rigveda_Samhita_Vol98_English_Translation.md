@@ -3799,6 +3799,83 @@ in this ṛk Agni is prayed to as the messenger who brings the gods to the sacri
 
 in this ṛk Agni is prayed: "O Agni, since you are the Hotṛ who brings the gods, bring the gods to this sacrificial ground." In १-१४-१ (*1-14-1*) it is prayed देवेभिर्याहि (*devebhiryāhi*) ("come with the gods") to our sacrifice. Agni goes by both paths, to the earth and to the vicinity of the gods; because of that it is the custom to call him the messenger (*dūta*).
 
+### Printed p. 133
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4.] Ṛgveda-saṃhitā 133 (as supplied). The window continues the Special Topics of Ṛk 3 of Sūkta 186 from p. 132.*
+
+Because it is said that in sacrifices Agni plays the most important part in accomplishing the rites, the position that men give to the priest is given to Agni among the gods. Hence he has epithets such as priest (*ṛtvij*), sage (*vipra*), family-priest (*purohita*) and *hotā*. Of all these, to call Agni *hotā* (one who invites the gods, or who accomplishes the oblation) is the most distinctive. He is the dearest and best of all the Hotṛs. The work of carrying the oblations is Agni's chief work. Therefore the ṛṣi describes Agni as most beloved of the gods.
+
+अतिथिं (*atithiṃ*) — Since it is said that man obtains Agni by the grace of the gods and that Mātariśvan first saw Agni and brought him to earth, it is established, as it were, that Agni belongs to the world of heaven. It is in this sense that Agni may be called the guest of men. Or, since a guest is always honourable and worthy of respect, Agni too, being worthy of worship, may have been praised by the epithet "guest".
+
+तुर्वणिः (*turvaṇiḥ*) — Yāska has stated the derivation of this word: तुर्वणिस्तूर्णवनिः (*turvaṇistūrṇavaniḥ*) ((नि. ६-१४) (*(ni. 6-14)*)). For this word, formed from the root वन षण संभक्तौ (*vana ṣaṇa saṃbhaktau*), the meaning is तूर्णं हि यः संभजते स तूर्णवनिरित्युक्तः (*tūrṇaṃ hi yaḥ saṃbhajate sa tūrṇavanirityuktaḥ*): "one who comes promptly". In the present ṛk तुर्वणिः सजोषाः (*turvaṇiḥ sajoṣāḥ*) means that Agni is praised as one who, loved by the other gods or accompanied by them, comes quickly to this our sacrificial ground.
+
+सजोषाः (*sajoṣāḥ*) — the bhāṣyakāra has given two kinds of meaning for this word. First, सजोषा युष्माभिः सह प्रीयमाणः (*sajoṣā yuṣmābhiḥ saha prīyamāṇaḥ*): "O gods, I praise the beloved Agni so that he may come with you." Then he explains in another way, यस्तुवर्णिः [?] शीघ्रं यज्ञस्य संभक्ता सजोषा युष्माभिः सह प्रीयमाणस्तमग्निं गृणीषे (*yastuvarṇiḥ [?] śīghraṃ yajñasya saṃbhaktā sajoṣā yuṣmābhiḥ saha prīyamāṇastamagniṃ gṛṇīṣe*): "O gods, I praise that Agni whom you love and who comes quickly to the sacrificial ground." (The supplied text has "ಯಸ್ತುವರ್ಣಿಃ" for the bhāṣya's *yas turvaṇiḥ*; marked [?].)
+
+वरुणः सुकीर्ति: (*varuṇaḥ sukīrti:*) — "in the way in which Varuṇa, being of good fame, has been prayed to make fame for us, in that way": this is Sāyaṇa's explanation. On this matter he has quoted the ṛk
+
+अति यो मंद्रो यजथाय देवः सुकीर्तिं भिक्षे वरुणस्य भूरेः । (*ati yo maṃdro yajathāya devaḥ sukīrtiṃ bhikṣe varuṇasya bhūreḥ |*)
+(म. सं २-२८-१) (*(ma. saṃ 2-28-1)*)
+
+It is plain that in this ṛk fame is greatly desired from Varuṇa and praise is offered.
+
+### Printed p. 134
+
+*Running head: [134 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+अरिगूर्तः (*arigūrtaḥ*) — this word occurs in the Ṛgveda only in this ṛk, nowhere else. Sāyaṇa explains it as अरिगूर्तोऽरिष्पदातृषु [?] सदा शब्दितः (*arigūrto 'riṣpadātṛṣu [?] sadā śabditaḥ*) ["ಅರಿಷ್ಪದಾತೃಷು" as supplied, marked [?]] अरीणां हननायोद्यु- (*arīṇāṃ hananāyodyu-*) क्तो वा (*kto vā*): "one who always makes a sound, that is, reproaches, towards the misers who give nothing to anyone"; or, another meaning is possible: "one ready to destroy enemies".
+
+सूरिः (*sūriḥ*) — the word *sūri* is read among the names of the praiser ((नि. ३-१९) (*(ni. 3-19)*)), meaning "one who praises". And Yāska, having quoted the ṛk
+
+इहेह जाता समवावशीतामरेपसा तन्वा ३ नामभिः स्वैः । (*iheha jātā samavāvaśītāmarepasā tanvā 3 nāmabhiḥ svaiḥ |*)
+जिष्णुर्वामन्यः सुमखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ii (*jiṣṇurvāmanyaḥ sumakhasya sūrirdivo anyaḥ subhagaḥ putra ūhe ii*)
+(ऋ. सं. १-१८१-४) (*(ṛ. saṃ. 1-181-4)*)
+
+has explained the word *sūri* in it as *īrayitā*, "inciter" ((नि. १२-३) (*(ni. 12-3)*)). The bhāṣyakāra too has taken this meaning in the present ṛk and explained सूरिः ऎंदरॆ प्रेरयिता अयं वरुणः (*sūriḥ èṃdarè prerayitā ayaṃ varuṇaḥ*) as "the inciter Varuṇa".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+प्रेष्ठम् (*preṣṭham*) ("most dear"): by अतिशायने तमबिष्ठनौ (*atiśāyane tamabiṣṭhanau*) the suffix *iṣṭhan*; by प्रियस्थिर स्थिर—(पा. सू. ६-४-१५७) (*priyasthira sthira—(pā. sū. 6-4-157)*) the substitute *pra* for *priya*; by प्रकृत्यैकाच् (पा. सू. ६-३-१६३) (*prakṛtyaikāc (pā. sū. 6-3-163)*) the natural form remains, so the loss of *ṭi* does not occur; guṇa; because the suffix is marked *n* the first syllable is acute (printed "ಆದ್ಯುದಾತ್ತಸ್ವತರ"). अतिथिम् (*atithim*) (root अत सातत्यगमने (*ata sātatyagamane*)): by ऋतन्यंजि—(उ. सू. ४-४४२) (*ṛtanyaṃji—(u. sū. 4-442)*) the suffix *ithin*; by इत्यादिर्नित्यम् (*ityādirnityam*) the first syllable is acute. गृणीषे (*gṛṇīṣe*) (root ग्य शब्दे (*gya śabde*), *kryādi*): by व्यत्ययो बहुलम् (*vyatyayo bahulam*) the second-person singular ending in place of the first-person singular of the present; by क्रादिभ्यः श्ना (*krādibhyaḥ śnā*) the *śnā* suffix; by स्वादीनां ह्रस्वः (पा. सू. ७-३-८०) (*svādīnāṃ hrasvaḥ (pā. sū. 7-3-80)*) shortening of the root; by ई हल्यघोः (पा. सू. (*ī halyaghoḥ (pā. sū.*) ६-४-११३) (*6-4-113)*) *ī* for the *ā* of the suffix; the change to *ṇ* after *ṛ*; the verb-*nighāta* accent. तुर्वणिः (*turvaṇiḥ*) (root तुर्वी हिंसायां (*turvī hiṃsāyāṃ*)): the Uṇādi suffix *ani*; the last syllable of the suffix is acute. असत् (*asat*) (root अस भुवि (*asa bhuvi*)): *leṭ*; the third person singular *tip*; by इतश्चलोपः (*itaścalopaḥ*) loss of the final *i*; by लेटोऽडाट् (पा. सू. ३-४-६३) (*leṭo 'ḍāṭ (pā. sū. 3-4-63)*) the augment *aḍāṭ* [the sentence ends at the page break; it continues on p. 135 with "ಗಮ"]
+
+### Printed p. 135
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4 ] Ṛgveda-saṃhitā 135 (as supplied).*
+
+...the augment *aḍāṭ*. Because it stands at the beginning of the pāda there is no *nighāta* accent; because the augment is unaccented, the accent of the root remains. सुकीर्तिः (*sukīrtiḥ*) ("he whose fame is good"): by नञ्सुभ्याम् (पा. सू. ६-२-१७२) (*nañsubhyām (pā. sū. 6-2-172)*) the last syllable of the later member is acute. पर्षत् (*parṣat*) (root पृ पालनपूरणयोः (*pṛ pālanapūraṇayoḥ*)): *leṭ*; third person singular *śip* [as printed]; loss of *i*; augment *aḍ*; by सिब्बहुलं लेटि (पा. सू. ३-१-३४) (*sibbahulaṃ leṭi (pā. sū. 3-1-34)*) *sip*; on that account guṇa of the *ṛ* of the root with *r*; because of the *r* the *s* of *sip* becomes *ṣ*; the verb-*nighāta* accent.
+
+*[Stray line in the supplied text: "________ :0: ________".]*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+*[The supplied text prints, inside the Saṃhitā block, the stray lines ॥ ४ ॥ (*‖ 4 ‖*) and चदुरि (*caduri*); the verse-end is printed "॥ ೨ [?] ॥" where ೪ is expected; marked [?].]*
+
+> उप॑ व॒ एषे॒ नम॑सा जिगी॒षोषासा॒नक्ता॑ [?] सु॒दुघे॑व धे॒नुः ।
+> स॒मा॒ने अह॑न्वि॒मिमा॑नो अ॒र्कं विषु॑रूपे॒ पय॑सि॒ सस्मि॒न्नूध॑न् ॥ २ [?] ॥
+
+**॥ पदपाठः ॥**
+
+> उप । वः । आ । ईषे । नमसा । जिगीषा । उषसानक्ता । सुदुघाइव । धेनुः ।
+> समाने । अहन् । विमिमानः । अर्कं । विषुरूषे [?] । पयसि । सस्मिन् । ऊधन्॥४ ॥
+
+> *upa | vaḥ | ā | īṣe | namasā | jigīṣā | uṣasānaktā | sudughāiva | dhenuḥ |*
+> *samāne | ahan | vimimānaḥ | arkaṃ | viṣurūṣe [?] | payasi | sasmin | ūdhan‖4 ‖*
+
+*[As supplied, the label line of the next section reads सयणभास्यं (*sayaṇabhāsyaṃ*) (inside the Pada block); standard label inserted. Readings marked [?]: the Saṃhitā जिगीषोषासानक्ता (*jigīṣoṣāsānaktā*) for the Pada's *jigīṣā*, *uṣasānaktā*, and the Pada's विषुरूषे (*viṣurūṣe*) for *viṣurūpe*.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देवाः वो युष्माकं नमस्ता हविषा नमस्कारेण वोपोपेत्य जिगीषा
+> पापानां जिगीषयेषे इच्छामि ॥ इष गतावित्यस्य वेषतेर्वा गत्याद्यर्थस्य लिट्युत्त-
+> मैकवचन इदं रूपं ॥ भजामि । कस्मिन्काले । उषासानक्ताहनि रात्रौ च । यद्वा ।
+> अहोरात्रदेवते अप्यभिगच्छामि । गतौ दृष्टांतः । सुदुघा धेनुरिव सुदोग्नि
+> धेनुर्यथा दोहाय दोगुर्गृहवागच्छति तद्वत् । किं कुर्वन् । सस्मिन् समान
+> ऊधन्नू धस्युत्पन्ने विषुरूपे नानारूपे पयसि क्षीरघृतादिकेऽर्कमर्चनीयमन्नं
+> चरुपुरोडाशादिकं विमिमानो विविधं मिमानः। कस्मिन्काले। समानेऽहन् षष्ठेऽहनि।
+> एकस्मिन्नेवाहनि ० र्वदैव [?] नेत्यर्थः । एकस्मिन्नेवाहनि समान ऊधस्युत्पन्ने नानारूपे
+
+*Gist:* With homage and oblation I approach Dawn and Night, as a good milch-cow comes to be milked, offering sacrificial food on the same day in the same udder. (The bhāṣya breaks off at the end of p. 135; the supplied text has "ಅಹನಿ ೦ ರ್ವದೈವ [?]" in it, marked [?].)
+
 ---
 
-**Progress note:** Done through printed p. 132 (PDF 132). Done through printed p. 132 (Sukta 186 Rk 2 grammar page complete; Rk 3 complete through printed English; Special Topics begun)
+**Progress note:** Done through printed p. 135 (PDF 135). Done through printed p. 135 (Sukta 186 Rk 3 complete; Rk 4 Samhitha and Pada done, bhashya breaks off mid-sentence at end of p. 135)
