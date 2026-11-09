@@ -1693,6 +1693,98 @@ The two Anuvākas that are in the form of a Brāhmaṇa for the above mantras, t
 
 *[The passage continues on the next page.]*
 
+### Printed p. 62
+
+*[Running head, p. 62: 62 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+*[The Brāhmaṇa passage of Tai. Saṃ. 6-3-3 continues from the previous page.]*
+
+> भूयाग्ंस उत्तिष्ठंति सहस्रवल् शा वि वयग्ं रुहेमेत्याहाशिषमे-
+> वैतामा शास्त्रेनक्षसंगं वृश्चेद्यदक्षसंगं वृश्चेदध ईषं यजमानस्य
+> प्रमायुकग् स्याद्यं कामयेताप्रतिष्ठितः स्यादित्यारोहं तस्मै
+> वृश्चेदेष वै वनस्पतीनामप्रतिष्ठितोऽप्रतिष्ठित एव भवति यं काम-
+> येतापशुः स्यादित्यपर्ण० तस्मै तुष्काग्रं वृश्चेदेष वै वनस्पतीनाम
+> पशव्योऽपशुरेव भवॆति यं कामयेत पशुमान्त्यादिति बहुपर्णं
+> तस्मै बहुशाखं वृश्चेदेष वै वनस्पतीनां पशव्यः पशुमानेव भवति
+> प्रतिष्ठितं वृश्चेत्पतिष्ठाकामस्येष वै वनस्पतीनां प्रतिष्ठितो यः
+> समे भूम्यॆ स्वाद्योनेरूढः प्रत्येव तिष्ठति यः प्रश्यज्जुपनतस्तं
+> वृश्चेत्स हि मेधमभ्युपनतः पंचारत्निं तस्मै वृश्चेद्यं कामये-
+> तोपैनमुत्तरो यज्ञो नमेदिति पंचाक्षरा पंक्तिः पांक्तो यज्ञ
+> उपैनमुत्तरो यज्ञो नमति षडरत्निं प्रतिष्ठाकामस्य षड्वा ऋतव
+> ऋतुस्वेव प्रति तिष्ठति सप्तारत्निं पशुकामस्य सप्तपदा शक्वरी पशवः
+> शक्वरी पशूनेवाव रुंधे नवारत्निं तेजस्कामस्य तिवृता स्तोमेन
+> संमितं तेजस्त्रिवृत्तेजस्वेव भवत्येकादशारत्निमिंद्रियकामस्यैकाद-
+> शाक्षरा त्रिष्टगिंद्रियं त्रिष्टुगिंद्रियाव्येव भवति पंचडशारत्निं भ्रातृ-
+> व्यवतः पंचदशो वज्रो भ्रातृव्याभिभूत्यै सप्तदशारत्निं प्रजाकामस्य
+> सप्तदशः प्रजापतिः प्रजापतेराप्ता एकविग्ंशत्यरत्निं प्रतिष्ठाकाम-
+> स्यैकविग्०शः सोमानां प्रतिष्ठा प्रतिष्ठित्या अष्टाश्रिर्भवत्यष्टाक्षरा
+> गायत्री तेजो गायत्री गायत्री यज्ञमुखं तेजसैव गायत्रिया
+> यज्ञमुखेन संमितः ॥ (तै. सं. ६-३-३).
+
+> *bhūyāgṃsa uttiṣṭhaṃti sahasraval śā vi vayagṃ ruhemetyāhāśiṣame-*
+> *vaitāmā śāstrenakṣasaṃgaṃ vṛścedyadakṣasaṃgaṃ vṛścedadha īṣaṃ yajamānasya*
+> *pramāyukag syādyaṃ kāmayetāpratiṣṭhitaḥ syādityārohaṃ tasmai*
+> *vṛścedeṣa vai vanaspatīnāmapratiṣṭhito 'pratiṣṭhita eva bhavati yaṃ kāma-*
+> *yetāpaśuḥ syādityaparṇa0 tasmai tuṣkāgraṃ vṛścedeṣa vai vanaspatīnāma*
+> *paśavyo 'paśureva bhavèti yaṃ kāmayeta paśumāntyāditi bahuparṇaṃ*
+> *tasmai bahuśākhaṃ vṛścedeṣa vai vanaspatīnāṃ paśavyaḥ paśumāneva bhavati*
+> *pratiṣṭhitaṃ vṛścetpatiṣṭhākāmasyeṣa vai vanaspatīnāṃ pratiṣṭhito yaḥ*
+> *same bhūmyè svādyonerūḍhaḥ pratyeva tiṣṭhati yaḥ praśyajjupanatastaṃ*
+> *vṛścetsa hi medhamabhyupanataḥ paṃcāratniṃ tasmai vṛścedyaṃ kāmaye-*
+> *topainamuttaro yajño namediti paṃcākṣarā paṃktiḥ pāṃkto yajña*
+> *upainamuttaro yajño namati ṣaḍaratniṃ pratiṣṭhākāmasya ṣaḍvā ṛtava*
+> *ṛtusveva prati tiṣṭhati saptāratniṃ paśukāmasya saptapadā śakvarī paśavaḥ*
+> *śakvarī paśūnevāva ruṃdhe navāratniṃ tejaskāmasya tivṛtā stomena*
+> *saṃmitaṃ tejastrivṛttejasveva bhavatyekādaśāratnimiṃdriyakāmasyaikāda-*
+> *śākṣarā triṣṭagiṃdriyaṃ triṣṭugiṃdriyāvyeva bhavati paṃcaḍaśāratniṃ bhrātṛ-*
+> *vyavataḥ paṃcadaśo vajro bhrātṛvyābhibhūtyai saptadaśāratniṃ prajākāmasya*
+> *saptadaśaḥ prajāpatiḥ prajāpaterāptā ekavigṃśatyaratniṃ pratiṣṭhākāma-*
+> *syaikavig0śaḥ somānāṃ pratiṣṭhā pratiṣṭhityā aṣṭāśrirbhavatyaṣṭākṣarā*
+> *gāyatrī tejo gāyatrī gāyatrī yajñamukhaṃ tejasaiva gāyatriyā*
+> *yajñamukhena saṃmitaḥ ‖ (tai. saṃ. 6-3-3).*
+
+The setting up of the yūpa. At the beginning the priest called Adhvaryu makes an offering in the fire with the Viṣṇu-deity mantra उरु विष्णो विक्रमस्वोरु क्षयाय (*uru viṣṇo vikramasvoru kṣayāya*) (Tai. Saṃ. 1-3-4-1) and then comes to the yūpa. For the yūpa belongs to Viṣṇu as its deity; therefore, having made the oblation with a mantra addressed to Viṣṇu, he must approach the yūpa.
+
+Then, standing by the tree for the yūpa, he says अत्यन्यानगां नान्यानुपागामित्याह (*atyanyānagāṃ nānyānupāgāmityāha*): although there are many trees, leaving them all he addresses (prays to) the tree, "I have come to you alone." In the same way he goes up to the tree that he has chosen for the yūpa, leaving the other trees. अर्वाक्त्वा परैरविदं परोवरैरित्याह (*arvāktvā parairavidaṃ parovarairityāha*): he says, "You, endowed with excellent qualities, are far away, and yet you are not very far but quite near."
+
+### Printed p. 63
+
+*[Running head, p. 63: [Maṃ. 3. A. 1. Va. 3] Ṛgvedasaṃhitā 63]*
+
+तं त्वा जुषे वैष्णवं देवयज्याया इत्याह (*taṃ tvā juṣe vaiṣṇavaṃ devayajyāyā ityāha*): "You are a part of Viṣṇu; therefore I welcome you for the performance of the sacrifice to the gods", so saying he asks the yūpa to be welcome.
+
+देवस्त्वा सविता मध्वानक्तित्याह (*devastvā savitā madhvānaktityāha*): "May the god Savitṛ anoint you with ghee", so saying he praises the power and capacity of the yūpa.
+
+ओषधे त्रायस्वैनग् स्वधिते मैनग्ं हिग्ंसीरित्याह (*oṣadhe trāyasvainag svadhite mainagṃ higṃsīrityāha*): "O lord of the forest, protect (the sacrificer); O axe, do not harm this tree", so saying he addresses the weapon with praise.
+
+वज्रो वै स्वधितिः शांतिः (*vajro vai svadhitiḥ śāṃtiḥ*): this axe has the nature of the thunderbolt. For the sake of peace he prays, "Do not harm this tree."
+
+The tree is afraid of the axe. With the first chip cut off by the blow of the axe the splendour (tejas) of the tree falls down. Therefore the first chip must be taken along (with the yūpa); so saying, he brings the first chip, which is endowed with splendour, together with the yūpa.
+
+इमै वै लोका यूपात्पयतो बिभ्यति (*imai vai lokā yūpātpayato bibhyati*) and the following: these worlds (earth, atmosphere, sky) are afraid that the tree being cut will fall on them. Therefore he prays to the tree, "O tree, when you fall do not scratch the sky with your tip, do not harm the atmosphere with your middle part (trunk)", so that no trouble may be done to the earth, atmosphere and sky.
+
+वनस्पते शतवल्‌शो वि रोहेत्याव्रश्चने जुहोति (*vanaspate śatavalśo vi rohetyāvraścane juhoti*) and the following: "O best of trees, grow with hundreds of shoots and flourish", so saying, with the mantra वनस्पते शतवल्‌शो वि रोह सहस्रवल्‌शा वि वयग् रुहेम (*vanaspate śatavalśo vi roha sahasravalśā vi vayag ruhema*) (Tai. Saṃ. 1-3-5-1) he places gold at the foot of the tree, spreads the strewing (paristaraṇa) round it and makes the oblation. By doing so the cut tree grows large with hundreds of shoots.
+
+सहस्रवल्शा वि वयग्ं रुहेमेत्याह (*sahasravalśā vi vayagṃ ruhemetyāha*): "May we grow, flourishing with thousands of shoots", so saying he makes a prayer for well-being.
+
+Then he cuts the tree: अनक्षसंगं वृश्चेदध ईषं यजमानस्य प्रमायुकग् स्यात् (*anakṣasaṃgaṃ vṛścedadha īṣaṃ yajamānasya pramāyukag syāt*): in cutting the tree its size should be such that it does not touch the axle of the cart (the passage continues on the next page).
+
+### Printed p. 64
+
+*[Running head, p. 64: 64 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+(Continued.) If the size is too great and touches the axle of the cart, the sacrificer's cattle and the like will perish. Therefore the tree must be cut to the proper measure.
+
+यं कामयेताप्रतिष्ठितः स्यादित्यारोहं तस्मै वृश्चेदेश वै वनस्पतीनाम- (*yaṃ kāmayetāpratiṣṭhitaḥ syādityārohaṃ tasmai vṛścedeśa vai vanaspatīnāma-*) and the following: if one wishes that the sacrificer should be without support (should not become a person of consequence), the one who cuts the tree should cut for the yūpa a branch that stands high on the tree (not touching the ground). Among plants the root or main part of the plant is the best, not its branches, which are not so important. Therefore by making the yūpa from an unimportant branch the sacrificer's standing is not increased but diminished.
+
+यं कामयेत पशुमास्तादिति बहुपर्णं तस्मै बहुशाखं वृश्चेदेश (*yaṃ kāmayeta paśumāstāditi bahuparṇaṃ tasmai bahuśākhaṃ vṛścedeśa*) and the following: one who wishes that the sacrificer should be endowed with cattle such as cows should cut for the yūpa a tree that has grown luxuriantly with many leaves and branches. For animals are very fond of a tree that is fresh and full of leaves. Therefore one desiring animals should cut a tree with many leaves and branches. If such a tree is cut the sacrificer becomes rich in cattle.
+
+प्रतिष्ठितं वृश्चेत्पतिष्ठाकामस्मैष वै वनस्पतीनां प्रतिष्ठितो यः समे (*pratiṣṭhitaṃ vṛścetpatiṣṭhākāmasmaiṣa vai vanaspatīnāṃ pratiṣṭhito yaḥ same*) and the following: one who desires standing or honour (should cut a tree that is firmly grown on level ground, without pits or mounds); such a tree is held to be the best among the trees of the forest. And this tree must have sprouted and grown from its own source (yoni), that is, from the seed; it must not be a tree that has sprouted from a cut branch planted in the ground. One who cuts for the yūpa such an independent tree, sprouted from seed and grown large, obtains honour and consideration among men.
+
+यः प्रत्यज्जुपनतस्तं वृश्चेत्स हि मेधमभ्युपनतः (*yaḥ pratyajjupanatastaṃ vṛścetsa hi medhamabhyupanataḥ*): the tree to be cut for the yūpa should be one that leans towards the east. For if it is so, it is helpful to the sacrifice and fit for it.
+
+पंचारत्निं तस्मै वृश्चेद्यं कामयेतोपैनमुत्तरो यज्ञो नमेदिति (*paṃcāratniṃ tasmai vṛścedyaṃ kāmayetopainamuttaro yajño namediti*) and the following: from here on the measure (length) of the yūpa [the supplied text prints "ಯೂಹ 5", i.e. "yūha 5"; doubtful] is described. In the sacrifices that everyone performs the yūpa may be of any measure, while in the optional rites (kāmyeṣṭi, in which the attainment of a particular fruit is desired) ... (the passage continues on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 61 (PDF 61). Done through printed p. 61. Sukta 8 Pithika: Ait.Br. yupa/animals, svaru passage, Tai.Sam. 1-3-5,6 mantras, Brahmana 6-3 begins; ends mid-passage p. 61; Rk 1 not started
+**Progress note:** Done through printed p. 64 (PDF 64). Sukta 8 Pithika: Tai.Sam. 6-3-3 Brahmana continues, yupa-cutting rite explained; ends mid-passage p. 64; Rk 1 not started
