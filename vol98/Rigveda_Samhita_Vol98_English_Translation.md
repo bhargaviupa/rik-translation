@@ -5703,6 +5703,87 @@ O food, even the venerable gods, Indra and the rest, have their minds fixed on y
 
 The thoughts of the mighty gods are fixed. Pitu, upon you, by your kind and intelligent assistance, (Indra) slew Ahi.
 
+### Printed p. 200
+
+*Running head: [200 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 25. Sū. 187] (as supplied, the print has "೨೫" for the adhyāya).*
+
+*[As supplied, the label line of the Special Topics of Ṛk 6 reads विशेषयगळु (*viśeṣayagaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 6)**
+
+महानां (*mahānāṃ*) — "of the great" or "of the venerable". The words *mahat* and *mahaḥ* are also read among the names of water (नि. २-२४ (*ni. 2-24*)); and Yāska, giving the explanation of the first ṛk of this sūkta, पितुं नु स्तोषं (*pituṃ nu stoṣaṃ*), explains the word *mahaḥ* in it as *mahataḥ*. Hence in the present ṛk the sense of *mahānāṃ* as "possessing greatness, of great glory, great, that is venerable" is suitable. The use of the word *mahānāṃ* here raises the importance of food. How? The phrase महानां देवानां मनः त्वे हितं (*mahānāṃ devānāṃ manaḥ tve hitaṃ*) says that the very mind of the gods of great glory, not much regarding their natural food, the nectar, rests in you (in food). That is: even the gods of great glory desire food; as to men and other animals, there is no need to say how necessary food is. Thus the use of the word *mahānāṃ* stresses the greatness of food.
+
+केतुना (*ketunā*) — the word *ketu* has the sense "wisdom" (नि. ३-१३ (*ni. 3-13*)). The bhāṣyakāra's explanation is "(protection) marked by wisdom": that is, the excellent knowledge or intelligence arising from partaking of food.
+
+अहिं अवधीत् (*ahiṃ avadhīt*) — although the word *ahi* has several senses, here it means Vṛtra. Although the sentence has no noun indicating the subject, it must be supplied; since the slayer of Vṛtra is Indra, the word *indraḥ* is to be supplied as subject. The latter half of this ṛk says the very thing stated in the first ṛk of this sūkta: that Indra slew the demon Vṛtra by the abundant strength of food.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 6, noted briefly)
+
+महानाम् (*mahānām*) (root मह पूजायां (*maha pūjāyāṃ*)): by नंदिग्रहिपचादिभ्य— (*naṃdigrahipacādibhya—*) (पा सू. ३-१-१३४ (*pā sū. 3-1-134*)) the suffix *ac*; being marked *c*, the last syllable is acute; genitive plural. हितम् (*hitam*) (root डुधाण् धारणपोषणयोः (*ḍudhāṇ dhāraṇapoṣaṇayoḥ*)): by निष्ठा (*niṣṭhā*) the suffix *kta*; by दधातेर्हिः (*dadhāterhiḥ*) (पा. सू. ७-४-४२ (*pā. sū. 7-4-42*)) the substitute *hi* before the suffix; by the suffix accent the last syllable is acute. आकारि (*ākāri*) (root डुकृञ् करणे (*ḍukṛñ karaṇe*)): *luṅ* in the passive; by चिण्‌भावकर्मणोः (*ciṇbhāvakarmaṇoḥ*) (पा. सू. ३-१-६६ (*pā. sū. 3-1-66*)) the substitute *ciṇ* for *cli*; by अचोञ्णति (*acoñṇati*) vṛddhi of the root vowel *ṛ*;
+
+### Printed p. 201
+
+*Running head: [Aṣṭaka 2 Adhyāya 5. Varga 7] Ṛgveda-saṃhitā 201 (as supplied).*
+
+by चिणोलुक् (*ciṇoluk*) (पा. सू. ६-४-१०४ (*pā. sū. 6-4-104*)) the *ta* suffix is dropped; the augment *aṭ* for the stem; being at the beginning of the pāda, no *nighāta*; since the augment is acute, the first syllable is acute. अवधीत् (*avadhīt*) (root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*)): third person singular; the verb-*nighāta* accent.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> यद॒दो पि॑तो॒ अज॑गन्वि॒वस्व॒ पर्व॑तानां ।
+> अत्रा॑ चिन्नो मधो पि॒तो ऽरं॑ भ॒क्षाय॑ गम्याः ॥ ७ ॥
+
+*[The supplied text has no label line before the Pada; standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> यत् । अदः । पितो इति । अजगन् । विवस्व । पर्वतानां ।
+> अत्र । चित् । नः । मधो इति । पितो इति । अरं । भक्षाय । गम्याः ॥ ७ ॥
+
+> *yat | adaḥ | pito iti | ajagan | vivasva | parvatānāṃ |*
+> *atra | cit | naḥ | madho iti | pito iti | araṃ | bhakṣāya | gamyāḥ ‖ 7 ‖*
+
+*[As supplied, a line reading कायणभाष्यं (*kāyaṇabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे पितो अन्न त्वां यद्यदा विवस्व ॥ सुपो लुक् । अंत्यलोपश्रांदसः ॥
+> विवासनवतां विद्युद्रूपप्रकाशनवतां । विवो धनमुदकलक्षणं । धनवतां वा पर्व-
+> तानां मेघानां संबंध्यदः प्रसिद्धं तदुदकमजगन् अगमत् गच्छेत्. अत्र चिदस्मि-
+> न्नाले नोऽस्मान् हे मधो हे पितो माधुर्योपेतान्न त्वं नोऽस्मानरमलं
+> संपूर्णं भक्षाय भक्षणाय गम्याः । गच्छ । संनिहितो भव ॥
+
+*Gist:* O Pito, when the water of the lightning-bright clouds comes to you, then, O sweet food, be present with us in sufficiency for eating.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पितो—ऎलै अन्नवे (*pito—èlai annave*) (O food). यत्—यावाग (*yat—yāvāga*) (when). विवस्व—(उदकरूपवाद) धनदिंद युक्त वाद अथवा विद्युद्रूपवाद प्रकाशदिंद कूडिद (*vivasva—(udakarūpavāda) dhanadiṃda yukta vāda athavā vidyudrūpavāda prakāśadiṃda kūḍida*) (endowed with wealth in the form of water, or with the light of lightning). पर्वतानां—मेघगळ (*parvatānāṃ—meghagaḷa*) (of the clouds). अदः—प्रसिद्धवाद उदकवु (*adaḥ—prasiddhavāda udakavu*) (the well-known water). अजगन्—(निन्नन्नु) सेरिकॊळ्ळुत्तदॆयो (*ajagan—(ninnannu) serikòḷḷuttadèyo*) (reaches you). आत्र चित्—आ कालदल्लि (*ātra cit—ā kāladalli*) (at that time; the print has "ಆತ್ರ" for *atra*, as supplied). मधो— माधुर्योपेतनाद (*madho— mādhuryopetanāda*) (sweet). पितो—ऎलै अन्नवे (*pito—èlai annave*) (O food). नः—नमगॆ (*naḥ—namagè*) (to us). अरं—पूर्णवाद (*araṃ—pūrṇavāda*) (full). भक्षाय— भक्षणक्कॆ अर्हवागि (*bhakṣāya— bhakṣaṇakkè arhavāgi*) (fit for eating). गम्याः—सन्निहितनागु (*gamyāḥ—sannihitanāgu*) (be present).
+
+**भावार्थ (Bhāvārtha)**
+
+O food, when the water, the wealth of the clouds bright with the light of lightning, reaches you, then, O sweet food, be present with us as fit for our eating, in sufficiency (the print has "ಪುಷ್ಪಲವಾದ", as supplied).
+
+### Printed p. 202
+
+*Running head: [202 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24 Sū. 187] (as supplied).*
+
+**Printed English translation**
+
+When, Pitu, this (product) of the water-wealthy clouds, (the rain), arrives ; then do you, sweet Pitu, be at hand with sufficiency for our eating.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 7)**
+
+विवस्व (*vivasva*) — here the genitive plural of *vivasvat*, विवस्वतां (*vivasvatāṃ*), must be meant; since the final syllable तां (*tāṃ*) is dropped in the Vedic manner, only *vivasva* remains. For the word *vivasvat* Yāska gives विवस्वान् विवासनवान् (*vivasvān vivāsanavān*) (नि. ७-२६ (*ni. 7-26*)), "that which dispels darkness", and the bhāṣyakāra explains it here in the same way: possessing the light of lightning (flash) which drives away darkness. This word is a qualifier of पर्वतानां (*parvatānāṃ*) (मेघानां (*meghānāṃ*)).
+
+पर्वतानां (*parvatānāṃ*) — the word *parvata* is read among the thirty names of cloud, *adriḥ*, *grāva* and others (नि २-२१ (*ni 2-21*)). For the word *parvata* Yāska gives the explanation पर्ववान् पर्वतः । पर्व पुनः पृणातेः प्रीणातीर्वा (*parvavān parvataḥ | parva punaḥ pṛṇāteḥ prīṇātīrvā*) (नि १-२० (*ni 1-20*)): the word *parva* is derived either from the root *pṛ*, "to fill", or from the root *prī*, "to satisfy"; that which has such *parvas* is a *parvata*. If *parvata* is derived from the root *pṛ*, it means that which fills empty regions: the mountain fills the empty regions of the earth, and the clouds (*parvatas*) fill the empty regions of the sky. If it is derived from *prī*, it means that which satisfies the whole world by the release of rain. In this sense too *parvata* means cloud.
+
+*[As supplied, the label line reads व्याकरण पकिया (*vyākaraṇa pakiyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 7, noted briefly; it continues in the next window)
+
+अजगन् (*ajagan*) (root गम्‌ल्य गतौ (*gamlya gatau*)): in the Vedic manner *laṅ* in the sense of *liṭ*; third person singular *śip*; by इतश्च (*itaśca*) the final *i* is dropped; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) *śap* is replaced by *ślu*; on that basis reduplication of the root; with *jagam-t*, by हल्‌जाभ्यो— (*haljābhyo—*) the suffix is dropped; by मोनोधातोः (*monodhātoḥ*) (पा. सू. ८-२ ६४ (*pā. sū. 8-2 64*)) the final *m* of the root becomes *n*; the augment *aṭ* for the stem; owing to the connection with *yat* the *nighāta* accent is prohibited; since the augment is acute, the first syllable is acute. विवस्व (*vivasva*): विवः धनं. अस्य आस्ति इति विवस्वान् (*vivaḥ dhanaṃ. asya āsti iti vivasvān*); by तदस्यास्ति— (*tadasyāsti—*) the suffix *matup*; by तसौ मत्पर्धे (*tasau matpardhe*) (पा. सू १-१-१९ (*pā. sū 1-1-19*)) the *bha* designation, so that the *s* ... (the print breaks off at the end of the window, "ಸಕಾರಕ್ಕೆ ರುತ್ವವಿಸರ್ಗ").
+
 ---
 
-**Progress note:** Done through printed p. 199 (PDF 199). Done through printed p. 199 (Sukta 187 Rik 5 complete; Rik 6 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Rik 6 Special Topics next); [?] on te/tai in Rik 5 Special Topics
+**Progress note:** Done through printed p. 202 (PDF 202). Done through printed p. 202 (Sukta 187 Rik 6 complete; Rik 7 done through printed English and Special Topics; Rik 7 grammar page breaks off mid-entry at vivasva, continues p. 203)
