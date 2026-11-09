@@ -1975,7 +1975,9 @@ I desire the wealth that belongs to the complete earth and atmosphere, that is h
 
 **Printed English translation**
 
+I solicit of Aditi wealth, without pain or decay, like heaven (in its fullness of enjoyment), exempt from injury, and abounding in food: grant, Heaven and Earth, such wealth to him who praises you: defend us, Heaven and Earth, from great (danger).
 
+*[Repaired by the dispatcher on Nov 9 2026: this paragraph had been left empty in window pp. 65-67 by a slip; the text is that of the supplied page, see vol98/review/edits_log.tsv.]*
 
 *[As supplied, the label line of the Special Topics reads विशेषविवरगळु]* (*viśeṣavivaragaḷu]**); standard label inserted.]*
 
