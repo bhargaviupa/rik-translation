@@ -3263,6 +3263,127 @@ Entire in all parts and girded with rings, they appear upon the earth like the h
 
 शृंगाणीवेत् (*śṛṃgāṇīvet*) — here, in the three words शृंगाणि इव इत् (*śṛṃgāṇi iva it*) (the supplied text has कदगळल्लि (*kadagaḷalli*) [sic] for "words"), the word इत् (*it*) (*it*) is used in the sense of a mere filler of the line. The Nirukta writers state अथ ये प्रवृत्तेर्थे (*atha ye pravṛtterthe*) ... and the quotation is cut off at the end of this page (continued in the next window).
 
+### Printed p. 115
+
+*[Running head, p. 115: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 115]*
+
+*[Special Topics of Ṛk 10 continued from the previous page. The page opens with a fragment द्विति (*dviti*) [?] whose connection is unclear in the supplied text.]*
+
+The Nirukta writers explain that the particles (the text has निखातगळु (*nikhātagaḷu*) [sic], evidently for *nipāta*) कं (*kaṃ*), ईं (*īṃ*), इत् (*it*) and उ (*u*) are used in prose works for completing the sentence and in metrical works for filling the pāda.
+
+पृथिव्यां शृंगिणां शृंगाणीव संददृश्रे (*pṛthivyāṃ śṛṃgiṇāṃ śṛṃgāṇīva saṃdadṛśre*) — the sense is explained thus: the yūpas shine like the horns of horned animals such as buffaloes.
+
+विहवे (*vihave*) — विविधं हूयंते हवींष्यत्रेति विहवो यज्ञः (*vividhaṃ hūyaṃte havīṃṣyatreti vihavo yajñaḥ*): the sacrifice, the rite in which many kinds of oblations offered to Agni are poured in many ways, is called *yajña*; this is the meaning explained here.
+
+वाघद्भिः (*vāghadbhiḥ*) — the word वाघत् (*vāghat*) is stated among the names of priests (Ni. 3-19). The meaning is: the priests who perform the sacrificial rites.
+
+पृतनाज्येषु (*pṛtanājyeṣu*) — the word पृतनाज्य (*pṛtanājya*) is stated among the names of battle (Ni. 3-9), and the Nirukta writers, citing the Ṛk इमं तं पश्य वृषभस्य युंजं काष्ठाया मध्ये द्रुघणं शयानं । येन जिगाय शतवत्सहस्रं गवां मुद्गलः पृतनाज्येषु ॥ (*imaṃ taṃ paśya vṛṣabhasya yuṃjaṃ kāṣṭhāyā madhye drughaṇaṃ śayānaṃ | yena jigāya śatavatsahasraṃ gavāṃ mudgalaḥ pṛtanājyeṣu ‖*) (Pu. Saṃ. 10-102-9, as printed), comment: पृतनाज्यमिति संग्रामनाम पृतनानाम जनाद्वा जयनाद्वा ! (*pṛtanājyamiti saṃgrāmanāma pṛtanānāma janādvā jayanādvā !*) (the text has वाख्यानमाडिद्दारॆ (*vākhyānamāḍiddārè*) [sic] for "explained"). Durgācārya explains the sense thus: पृतनः (*pṛtanaḥ*), men, अंजंति (*aṃjaṃti*) गच्छंति (*gacchaṃti*), go, where they perish, or पृतनः (*pṛtanaḥ*) men जयंति (*jayaṃti*) become victorious; and he says that because there arises a situation, a war, in which men perish or men conquer others, battle is expressed by the word पृतनाज्य (*pṛtanājya*). Sāyaṇa describes the meaning with पृतनाज्यशब्दः संग्रामवाची पृतनाज्येषु संग्रामेषु वधस्थलेष्टिति यावत् (*pṛtanājyaśabdaḥ saṃgrāmavācī pṛtanājyeṣu saṃgrāmeṣu vadhasthaleṣṭiti yāvat*), and says that the meaning is: may the posts (the text has यूषगळु (*yūṣagaḷu*) [sic] for यूपगळु (*yūpagaḷu*)) protect the sacrificers in these places of slaughter.
+
+**Vyākaraṇa-prakriyā**
+
+Grammar page, noted briefly. शृंगाणि (*śṛṃgāṇi*): root शृ हिंसायां (*śṛ hiṃsāyāṃ*); by शृणातेः ह्रस्वश्च (*śṛṇāteḥ hrasvaśca*) (Uṇ. Sū. 1-123, as printed here; the bhāṣya tail gives a different last number) the suffix gan; augment nuṭ; the root vowel is shortened, giving शृंग (*śṛṃga*). By निर्त्यं (*nirtyaṃ*) (as supplied) (Pā. Sū. 6-1-197) the suffix having an n-marker, the initial udātta accent comes. In compound with इव (*iva*), as before, the accent of the first member. ददृश्रे (*dadṛśre*): root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*); by छंदसि लुज्लज्लिटः (*chaṃdasi lujlajliṭaḥ*) (Pā. Sū. 3-4-6) liṭ in the passive in the present sense, third person plural, affix झ (*jha*) (continued on the next page).
+
+### Printed p. 116
+
+*[Running head, p. 116: 116 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+(Grammar notes, continued.) ददृश्रे (*dadṛśre*): by the sūtra लिटस्तझयो (*liṭastajhayo*) (the text gives only these words) the substitute इरेच् (*irec*) comes; then by इरयोरे (*irayore*) (Pā. Sū. 6-4-76) the substitute रे (*re*) for it. The root is doubled because of liṭ, etc. Because it stands after an *atijanta* (as supplied) the nipāta accent comes (the bhāṣya says nighāta). विहवे (*vihave*): root हु दानादनयोः (*hu dānādanayoḥ*); affix घ (*gha*) in the sense of the locus; taking it as the occasion, guṇa and अव् (*av*) substitution for the उ (*u*) of the root; by the accent of the affix it is acute on the final; in the prādi compound the accent of the latter member of a kṛt compound; locative singular form. श्रोषमाणाः (*śroṣamāṇāḥ*): root श्रु श्रवणे (*śru śravaṇe*); by vyatyaya it takes the ātmanepada; liṭ gets the substitute शानच् (*śānac*); by vyatyaya the vikaraṇa शप् (*śap*). By सिब्बहुलं लेटि (*sibbahulaṃ leṭi*) (Pā. Sū. 3-1-38) the power of the word *bahula* brings सिप् (*sip*) here also; taking it as the occasion, guṇa of the उ (*u*); ṣatva and the augment मुक् (*muk*) for it. Because the laśārvadhātuka becomes anudātta by तास्यनुदात्तेत् (*tāsyanudāttet*), the root accent remains. अवंतु (*avaṃtu*): root अव रक्षणे (*ava rakṣaṇe*); loṭ third person plural; tiṅanta, so the nighāta accent.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> वन॑स्पते श॒तव॑ल्वो॒ वि रो॑ह स॒हस्र॑वल्या॒ वि व॒यं रु॑हेम ॥
+> यं त्वाम॒यं स्वधि॑ति॒स्तेज॑मानः प्रणि॒नाय॑ मह॒ते सौभ॑-
+> गाय ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> वनस्पते । शतवल्यः । वि । रोह । सहस्रवल्याः । वि । वयं । रुहेम ।
+> यं । त्वां । आयं । स्वधितिः । तेजमानः । प्रनिनाय । महते । सौभगाय ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वनस्पते भिन्नमूल स्थानो शतवल्यः शतशाखः सन् विरोह । विशेषेण
+> हादुर्भूतो भव । वयमपि सहस्रवल्याः पुत्रपौत्रादिसंतानपरंपरया सहस्रशाखाः
+> संतो विरुहेम । विशेषेण प्रादुर्भूता भवेम । तेजमानो निशितधारोऽयं
+> स्वधितिः परशुः हे स्थानो यं त्वां महते सौभगाय महत्सौभाग्यं बहुशाखत्व-
+> लक्षणं प्रणिनाय । प्रकर्षेण प्रापयामास ॥ सहस्रवल्याः । सहस्रशब्दः कर्दमादि-
+> श्वान्मध्योदात्तः । बहुव्रीह पूर्वपदप्रकृतिस्वरः । रुहेम । रुह प्रादुर्भाव इत्य.
+
+> *he vanaspate bhinnamūla sthāno śatavalyaḥ śataśākhaḥ san viroha | viśeṣeṇa*
+> *hādurbhūto bhava | vayamapi sahasravalyāḥ putrapautrādisaṃtānaparaṃparayā sahasraśākhāḥ*
+> *saṃto viruhema | viśeṣeṇa prādurbhūtā bhavema | tejamāno niśitadhāro 'yaṃ*
+> *svadhitiḥ paraśuḥ he sthāno yaṃ tvāṃ mahate saubhagāya mahatsaubhāgyaṃ bahuśākhatva-*
+> *lakṣaṇaṃ praṇināya | prakarṣeṇa prāpayāmāsa ‖ sahasravalyāḥ | sahasraśabdaḥ kardamādi-*
+> *śvānmadhyodāttaḥ | bahuvrīha pūrvapadaprakṛtisvaraḥ | ruhema | ruha prādurbhāva itya.*
+
+### Printed p. 117
+
+*[Running head, p. 117: [Ā. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 117 (merged into the bhāṣya of p. 116 in the supplied text; separated here)]*
+
+> स्मादाशीर्लिजि किदाशिषीति यासुडागमः । स्कोः संयोगाद्योरंते चेति सलोपः ।
+> लिज्याशिष्यङ्ङित्यङ् प्रत्ययः । अतो येय इति इयादेशः । लोपो व्योर्वलीति
+> यलोपः । गुणः । प्रणिनाय । णीञ् प्रापण इत्यस्माल्लिटि णलि रूपं । पादादित्वाद-
+> निघातः । लितीति प्रत्ययात्तूर्वस्योदात्तत्वं ॥
+
+> *smādāśīrliji kidāśiṣīti yāsuḍāgamaḥ | skoḥ saṃyogādyoraṃte ceti salopaḥ |*
+> *lijyāśiṣyaṅṅityaṅ pratyayaḥ | ato yeya iti iyādeśaḥ | lopo vyorvalīti*
+> *yalopaḥ | guṇaḥ | praṇināya | ṇīñ prāpaṇa ityasmālliṭi ṇali rūpaṃ | pādāditvāda-*
+> *nighātaḥ | litīti pratyayāttūrvasyodāttatvaṃ ‖*
+
+*Gist: O stump of the broken-off yūpa, grow with a hundred branches, and may we grow with a thousand; the sharp axe has brought you for great good fortune. (The grammatical tail is transcribed, not explained: रुहेम (*ruhema*), प्रणिनाय (*praṇināya*).)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(हे) वनस्सते (*(he) vanassate*) [sic, as supplied for वनस्पते (*vanaspate*)] — O stump (post) whose root is cut off; यं त्वां (*yaṃ tvāṃ*) — you whom; तेजमानः (*tejamānaḥ*) — with sharpened edge, अयं स्वधितिः (*ayaṃ svadhitiḥ*) — this axe; महते (*mahate*) — great; सौभगाय (*saubhagāya*) — for good fortune; प्र निनाय (*pra nināya*) — has cut and brought; (सः (*saḥ*) — such a you); शतवल्यः (*śatavalyaḥ*) — having hundreds of branches; विरोह (*viroha*) — appear (grow); वयं (अपि) (*vayaṃ (api)*) — we also; सहस्रवल्याः (*sahasravalyāḥ*) — having a thousand offspring such as sons and grandsons; वि रुहेम (*vi ruhema*) — may we prosper (the text has अभिवृद्ध रागोण (*abhivṛddha rāgoṇa*), with a stray space).
+
+**भावार्थ (Bhāvārtha)**
+
+O stump of the yūpa, whose root is cut off: this axe with its sharp edge has cut you and brought you to the sacrifice so that you may bestow good fortune. May you, such as you are, grow with hundreds of branches, and grant that we too may prosper, having thousands of branches in the form of sons, grandsons and the like.
+
+**Printed English translation**
+
+VANASPATI, mount up (grow) with a hundred branches, that we may mount with a thousand, you whom the sharpened hatchet has brought for great auspiciousness.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वनस्पते शतवल्वो विरोह (*vanaspate śatavalvo viroha*) — the meaning of the word *vanaspati* has been explained (in the Pīṭhikā). Here, with भिन्नमूल स्थाणो (*bhinnamūla sthāṇo*), the base of the tree that remains with its roots after the tree is cut, the stump, is addressed by the word वनस्पति (*vanaspati*). And the wish is expressed that this rooted stump, having many branches, may attain the state of a great tree.
+
+The sacrificers, by the grace of the Agni present in the yūpa, express the hope सहस्रवल्याः वि रुहेम पुत्रपौत्रादिसंतानपरंपरया सहस्रशाखाः संतः विशेषेण प्रादुर्भूता भवेम (*sahasravalyāḥ vi ruhema putrapautrādisaṃtānaparaṃparayā sahasraśākhāḥ saṃtaḥ viśeṣeṇa prādurbhūtā bhavema*): that we may prosper in many ways in the order of sons and grandsons (the text has पुत्ररू (*putrarū*) मक्कळू (*makkaḷū*) मॊम्मक्कळू (*mòmmakkaḷū*)).
+
+तेजमानः स्वधितिः महते सौभगाय प्रणिनायि (*tejamānaḥ svadhitiḥ mahate saubhagāya praṇināyi*) (as supplied; the text then has an underscore) — the yūpa connected with the vanaspati has been cut by the sharp axe and brought here, in order to bring us much welfare. This meaning (continued on the next page)
+
+### Printed p. 118
+
+*[Running head, p. 118: 118 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 9]]*
+
+is described with the explanation निशितधारः परशुः महत्सौभाग्यं बहुशाखत्वलक्षणं प्रकर्षेण प्रापयामास (*niśitadhāraḥ paraśuḥ mahatsaubhāgyaṃ bahuśākhatvalakṣaṇaṃ prakarṣeṇa prāpayāmāsa*).
+
+**Vyākaraṇa-prakriyā**
+
+रोह (*roha*): root रुह बीजजन्मनि प्रादुर्भावे च (*ruha bījajanmani prādurbhāve ca*); loṭ second person singular. Because it stands after an *atijanta* (as supplied), the nighāta accent comes. सहस्रवल्याः (*sahasravalyāḥ*): because the word सहस्र (*sahasra*) is read in the group beginning कर्दम (*kardama*), it has the accent on the middle syllable. By बहुप्रीहौप्रकृत्यापूर्वपदम् (*bahuprīhauprakṛtyāpūrvapadam*) (Pā. Sū. 6-2-1) (as supplied) the first member keeps its own accent in the bahuvrīhi compound. रुहेम (*ruhema*): root रुह प्रादुर्भावे (*ruha prādurbhāve*), first person plural of the āśīrliṅ, मस् (*mas*); by नित्यंजितः (*nityaṃjitaḥ*) (as supplied) loss of the स (*sa*); by लिज्याशिष्यज् (*lijyāśiṣyaj*) (Pā. Sū. 3-1-86) the affix अज् (*aj*); the liṅ takes the augment यासुट् (*yāsuṭ*); by आतोयेयः (*ātoyeyaḥ*) (Pā. Sū. 7-2-80) the substitute इय् (*iy*); guṇa; by लोपोव्योर्वलि (*lopovyorvali*) loss of the य् (*y*) of इय् (*iy*); tiṅanta nighāta accent. प्रणिनाय (*praṇināya*): upasarga प्र (*pra*); root णिञ् प्रापणे (*ṇiñ prāpaṇe*); liṭ third person singular, when तिप् (*tip*) comes, the substitute णल् (*ṇal*); doubling of the root; because the affix is ṇit, vṛddhi of the इ (*i*) of the root by अचो-इत्ति (*aco-itti*) (as supplied); substitute आय् (*āy*). Because it stands at the beginning of the pāda, the nighāta accent does not come. Because the affix is lit, by लिति (*liti*) the syllable before the affix gets the udātta. By तिजिचोदात्तवति (*tijicodāttavati*) (Pā. Sū. 8-1-71) the gati (प्र (*pra*)) gets the udātta, since a tiṅanta with an udātta follows. महशे (*mahaśe*) [sic, evidently for महते (*mahate*)]: by बृहन्महतोरुपसंख्यानम् (*bṛhanmahatorupasaṃkhyānam*) the dative ending gets the udātta.
+
+## Sūkta 9 (Maṇḍala 3)
+
+**The ninth sūkta**
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> सखायस्त्वति नवर्चं नवमं सूक्तं वैश्वामित्रं । आश्रेयमनुक्रमणिका ।
+> सखायो नव बार्हतं त्रिष्टुबंतमिति । अंत्या त्रिष्टुप् । शिष्टा अष्ट् बृहत्यः ॥ प्रात-
+> रनुवाकाश्विनशस्त्रयोर्बार्हते छंदस्यस्य सूक्तस्य विनियोगः । अथैतस्या इति खंडे
+> सूत्रितं । सखायस्त्वियमग्निरग्न आ याहि । आ. ४-१३ । इति ॥
+
+> *sakhāyastvati navarcaṃ navamaṃ sūktaṃ vaiśvāmitraṃ | āśreyamanukramaṇikā |*
+> *sakhāyo nava bārhataṃ triṣṭubaṃtamiti | aṃtyā triṣṭup | śiṣṭā aṣṭ bṛhatyaḥ ‖ prāta-*
+> *ranuvākāśvinaśastrayorbārhate chaṃdasyasya sūktasya viniyogaḥ | athaitasyā iti khaṃḍe*
+> *sūtritaṃ | sakhāyastviyamagniragna ā yāhi | ā. 4-13 | iti ‖*
+
+**Anuvāda (Kannada).** This sūkta beginning सखायस्त्वा (*sakhāyastvā*) is the ninth sūkta in the first anuvāka. It has nine ṛks. Viśvāmitra is the seer of this sūkta. In the Anukramaṇikā it is said: सखायो नव बार्हतं त्रिष्टुबंतमिति (*sakhāyo nava bārhataṃ triṣṭubaṃtamiti*). The last ṛk of this sūkta is in the Triṣṭubh metre; the remaining eight ṛks are in the Bṛhatī metre. At the recitation of the Prātaranuvāka mantras and of the Āśvina śastra mantras, for the recitation of the ṛks in the Bṛhatī metre, this sūkta's (the Anuvāda breaks off here at the end of p. 118; the application continues on p. 119, together with the sūkta data and Ṛk 1).
+
 ---
 
-**Progress note:** Done through printed p. 114 (PDF 114). Done through printed p. 114 (PDF 114). pp. 111-114: Sukta 8 Rk 9 Special Topics (pp. 111-112) and grammar notes (pp. 112-113) written; Rk 10 Samhita, Pada, bhasya (pp. 113-114), Pratipadartha, Bhavartha and printed English written; Rk 10 Special Topics begin (Svaravah, Casalavantah, Srngani-vet) and break off mid-quotation at the end of p. 114; rest of Rk 10 Special Topics and its grammar not yet written, continue on p. 115
+**Progress note:** Done through printed p. 118 (PDF 118). pp. 115-118: Sukta 8 Rk 10 Special Topics finished (Nirukta on prtanajya) and grammar notes (pp. 115-116) written; Rk 11 (last of Sukta 8) fully written: Samhita, Pada, bhasya (pp. 116-117), Pratipadartha, Bhavartha, printed English, Special Topics (pp. 117-118) and grammar (p. 118); Sukta 9 begins on p. 118: heading, Sayana introduction (block) and Anuvada, which break off mid-sentence at the end of p. 118; sukta data and Rk 1 begin on p. 119. Sukta 8 Rk 11 grammar done; no grammar pending
