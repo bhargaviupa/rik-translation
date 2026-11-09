@@ -4253,6 +4253,96 @@ in this ṛk it is said that Tvaṣṭṛ made a very excellent thunderbolt, gol
 
 in this ṛk, since Tvaṣṭṛ is a very intelligent workman, it is said that he not only made drinking vessels for the gods to drink Soma, but also sharpened the steel axe of Brahmaṇaspati... [the window ends mid-sentence: "ಮಾಡಿ"].
 
+### Printed p. 151
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5] Ṛgveda-saṃhitā 151 (as supplied, "ಅ, ೨. ಅ. ೫. ವ. ೫"; the Varga number changes here from 4 to 5). The window continues the Tvaṣṭṛ note in the Special Topics of Ṛk 6 of Sūkta 186 from p. 150, in mid-sentence.*
+
+... [he sharpened the steel axe of Brahmaṇaspati and] gave it: so there is a description. Since there is much to say about Tvaṣṭṛ, it will be explained at length later.
+
+सूरिभिः-सूरिस्तव स्तोता (*sūribhiḥ-sūristava stotā*) — "your praiser": the meaning is "praiser". Since it is read among the thirteen names of the praiser, such as *rebhaḥ*, *jaritā* and *kāruḥ* ((नि. ३-१९) (*(ni. 3-19)*)), *sūrayaḥ* means praisers, devotees who recite praises. The word *sūri* is also used in many places where the sense "learned, discerning, wise" is meant. When used of the ṛṣis who have the supernatural power of vision, bodily and mental, by which they grasp the true nature of the gods and the secret principles of the universe, this epithet gives a special sense.
+
+तद्विष्णोः परमं पदं सदा पश्यंति सूरयः । दिवीव चॆक्षुराततं ॥ (*tadviṣṇoḥ paramaṃ padaṃ sadā paśyaṃti sūrayaḥ | divīva cèkṣurātataṃ ‖*)
+(म. सं. १-२२-२०) (*(ma. saṃ. 1-22-20)*)
+
+in such contexts it indicates not merely those who praise but the extraordinary power of vision of the ṛṣis. And it is used not only of ṛṣis but also as an epithet of Indra and the other gods.
+
+महिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ॥ (*mahiṣṭhamacchoktibhirmatīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai ‖*)
+(म. सं. १-६३-३) (*(ma. saṃ. 1-63-3)*)
+
+in these and similar ṛks the words विपश्चितमिंद्रं (*vipaścitamiṃdraṃ*) indicate the wisdom of Indra and other gods. Besides, the word *sūri* is used when the sense "lord, inciter, leader on the good path" is indicated. For example:
+
+जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः । (*jano yaḥ pajrebhyo vājinīvānaśvāvato rathino mahyaṃ sūriḥ |*)
+(ऋ. सं. १-१२२-८) (*(ṛ. saṃ. 1-122-8)*)
+असद्यथा जरित्र उत सूरिरिंद्रो रायो विश्ववारस्य दाता । (*asadyathā jaritra uta sūririṃdro rāyo viśvavārasya dātā |*)
+(ऋ सं. ६-२३-१०) (*(ṛ saṃ. 6-23-10)*)
+मुह्यंत्वन्ये अभिटो जनास इहास्माकं मघवा सूरिरस्तु ॥ (*muhyaṃtvanye abhiṭo janāsa ihāsmākaṃ maghavā sūrirastu ‖*)
+(ऋ. सं. १०-८१-६) (*(ṛ. saṃ. 10-81-6)*)
+
+in these and similar contexts this epithet describes the qualities of the gods who are lords and leaders on the good path, Indra and the rest.
+
+आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः । (*ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathādīṣate vayaḥ |*)
+(ऋ. सुं. १-१४१-८) (*(ṛ. suṃ. 1-141-8)*)
+
+(printed "ಋ. ಸುಂ." for "ಋ. ಸಂ.") in a few such places only the sense "path" arises.
+
+### Printed p. 152
+
+*Running head: [152 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+त्वष्टा (*tvaṣṭā*) (root त्वक्षू तनूकरणे (*tvakṣū tanūkaraṇe*)): the suffix *tṛn* in the agent sense; because it is marked *n* the first syllable is acute; nominative singular form. गंतु (*gaṃtu*) (root गम्‌ल्य गत् (*gamlya gat*)): imperative, third person singular, with *tu*; by एरुः (*eruḥ*) *u*; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) *luk* of the thematic suffix; anusvāra of the *m* of the root, and the homorganic nasal; the verb-*nighāta* accent. अच्छ (*accha*): by निपातस्य च (पा. सू. ६-३-१-३६) (*nipātasya ca (pā. sū. 6-3-1-36)*) [as printed] lengthening in the Saṃhitā. सजोषाः (*sajoṣāḥ*) (root जुषी प्रीतिसेवनयोः (*juṣī prītisevanayoḥ*)): the Uṇādi suffix *asun*; "he whose joy is the same"; by the sūtra समानस्य छंदसि (*samānasya chaṃdasi*) the substitute *sa* for *samāna*; nominative singular form. वृत्रहा (*vṛtrahā*) (root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*)): by ब्रह्मभ्रूण—(पा. सू. ३-२-८७) (*brahmabhrūṇa—(pā. sū. 3-2-87)*) *kvip* when *vṛtra* is the upapada; "who has slain Vṛtra"; in the compound the accent of the *kṛt* later member. चर्षणिप्राः (*carṣaṇiprāḥ*) (root प्रा, पूरणे (*prā, pūraṇe*)): by क्विप् च (*kvip ca*) *kvip*; it becomes a word ending in *a*; the accent of the later member. नराम् (*narām*) (root नृ नये (*nṛ naye*)): *kvip*; genitive plural; by सावेकाचस्तृ- (*sāvekācastṛ-*) तीयादिः (पा. सू. ६-१-१६८) (*tīyādiḥ (pā. sū. 6-1-168)*) the ending is acute. गम्याः (*gamyāḥ*) (root गम्‌ल्य गतौ (*gamlya gatau*)): optative; by व्यत्ययो बहुलम् (*vyatyayo bahulam*) the second-person singular ending in place of the third-person singular; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) *luk* of the thematic suffix; the augment *yāsuṭ* for *sip*; *ruttva* and visarga for the *s*; the verb-*nighāta* accent.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> उ॒त न॑ ईं म॒तयोऽश्व॑योगाः॒ शिशुं॒ न गाव॒स्तरु॑णं रिहंति ।
+> तमिां॒ [?] गिरो॒ जन॑यो॒ न पत्निः॑ सुर॒भिष्ट॑मं न॒रां न॑संत ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । नः । ईं । मतयः । अश्वयोगाः । शिशुं । न । गावः । तरुणं । रिहंति ।
+
+> *uta | naḥ | īṃ | matayaḥ | aśvayogāḥ | śiśuṃ | na | gāvaḥ | taruṇaṃ | rihaṃti |*
+
+### Printed p. 153
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 5.] Ṛgveda-saṃhitā 153 (as supplied, with tabs).*
+
+> तं । ईं । गिरः । जनयः । न । पत्निः । सुरभिःतमं । नरां । नसंत ॥ ७ ॥
+
+> *taṃ | īṃ | giraḥ | janayaḥ | na | patniḥ | surabhiḥtamaṃ | narāṃ | nasaṃta ‖ 7 ‖*
+
+*[The Pada runs over the page break between p. 152 and p. 153; it is given as two blocks. As supplied, the label line of the next section reads हायणभाष्यं (*hāyaṇabhāṣyaṃ*) (inside the Pada block); standard label inserted. The Saṃhitā has तमिां [?] (*tamiāṃ [?]*) with a stray vowel sign; marked [?].]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उतापि चेमेनं तरुणं नित्ययुवानमिंद्रं मतयोऽस्मदुद्धयोऽश्वयोगा
+> अश्वसमानप्राप्तयो रिहंति । आस्वादयंति । स्तुवंतीत्यर्थः । तत्र दृष्टांतः गावो
+> दोग्यो धेनवः शिशुं न शिशुमिव वत्समिव तं यथा लिहंति तद्वत् । तदेवाह ।
+> तमीं तमेवैनं नरां नराणां यजमानानां सुरभिष्टममतिशयेन सुरभिं जनयः
+> फलस्योत्पादयित्र्यो गिरः स्तुतयो नसंत । व्याप्नुवंति । नसतिर्व्याप्तिकर्मा । तत्र
+> दृष्टांतः । जनयो नोत्पादयित्र्यः पत्निः पत्न्यः पतिमिव ॥
+
+*Gist:* Our minds, yoked like horses, lick and praise the ever-young Indra as cows lick their calves; our praises encompass him as wives their husbands.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत—मत्तु (*uta—mattu*). ईं तरुणं (*īṃ taruṇaṃ*) — this ever-youthful Indra. अश्वयोगाः (*aśvayogāḥ*) — yoked together like horses. नः मतयः (*naḥ matayaḥ*) — our minds. गावः (*gāvaḥ*) — milch cows. शिशुं न (*śiśuṃ na*) — as they lick their calves. रिहंति (*rihaṃti*) — lick (they praise Indra lovingly). तं ईं (*taṃ īṃ*) — that very Indra. नरां (*narāṃ*) — of men, the sacrificers. सुरभिष्टमं (*surabhiṣṭamaṃ*) — the most fragrant fruit. जनयः (*janayaḥ*) — producing; (capable of producing sons). गिरः (*giraḥ*) — words of praise. पत्निः न (*patniḥ na*) — as wives join their husbands. नसंत—प्यापिसुत्तवॆ [?] (*nasaṃta—pyāpisuttavè [?]*) — they pervade ("ಪ್ಯಾಪಿಸುತ್ತವೆ" for *vyāpisuttave*, as supplied).
+
+**भावार्थ (Bhāvārtha)**
+
+Our minds, yoked together like horses, lovingly encompass and praise the ever-young Indra, as milch cows lick their calves; and the praises of the men, producing the most fragrant fruit, encompass the same Indra, as wives capable of bearing sons join their husbands.
+
+**Printed English translation**
+
+For our minds, yoked together like horses, tend to the ever youthful Indra, as cows to their calves : and the praises of men, (addressed) to him, are generating most fragrant (fruit), as wives bear (children to their hus-bands).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अश्वयोगा (*aśvayogā*) — as horses are yoked together to a chariot, so may our minds dwell with attachment on Indra, or praise him: this is the main idea [the window ends here, in the middle of the note].
+
 ---
 
-**Progress note:** Done through printed p. 150 (PDF 150). Done through printed p. 150 (Sukta 186 Rk 5 grammar page complete; Rk 6 complete through printed English; Special Topics on Tvashtri begun, ends mid-sentence)
+**Progress note:** Done through printed p. 153 (PDF 153). Done through printed p. 153 (Sukta 186 Rk 6 complete; Rk 7 complete through printed English; Special Topics begun, ends mid-sentence)
