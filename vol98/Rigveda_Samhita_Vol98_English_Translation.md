@@ -10873,6 +10873,135 @@ The page explains: नवानाम् (*navānām*) (by the rule षट् �
 
 *(The supplied text ends here, at the end of the Pratipadārtha of Ṛk 14; the Bhāvārtha follows in the next window.)*
 
+### Printed p. 367
+
+*Running head (as supplied): [अ. २. अ ५. व. १६ ] ऋग्वेदसंहिता 367 (*[a. 2. a 5. va. 16 ] ṛgvedasaṃhitā 367*).*
+
+*(Continuation of Ṛk 14 of Sūkta 191, after the Pratipadārtha which ended the previous window.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O body, may the twenty-one peahens, and the seven rivers, the Ganges and others, that flow, carry off your poison completely, as women who carry water in pitchers carry away the water they have filled.
+
+**Printed English translation**
+
+May the thrice-seven peahens, the seven-sister rivers, carry off, (O Body), your poison as maidens, with pitchers, carry away water.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 14)**
+
+त्रिः सप्त मयूर्यः (*triḥ sapta mayūryaḥ*): मयूर (*mayūra*) means a peacock; मयूरि (*mayūri*) means a peahen; twenty-one kinds (with twenty-one varieties of species) of peahens. It is said that these peacocks arose from the garuḍa birds that hate snakes. Therefore it is well known that these peacocks fearlessly kill and eat snakes.
+
+सप्त स्वसारो आग्रुवः (*sapta svasāro āgruvaḥ*): स्वसारः (*svasāraḥ*) means of a flowing nature, streaming. The word अग्रुवः (*agruvaḥ*) is read among the names of fingers (नि. ३-९ (*ni. 3-9*)) and among the names of rivers (नि. २-२४ (*ni. 2-24*)). Here the meaning is rivers; it is said that flowing rivers have the power to remove poison. Therefore the bhāṣyakāra has here said "the seven rivers beginning with the Ganges"; or it may be the Ganges and its tributaries. Although there are many holy rivers, since the word सप्त (*sapta*) is used here, the reliance of the sage is on seven chief rivers.
+
+ते विषं (*te viṣaṃ*): the word "your" is addressed to the body, according to the bhāṣyakāra's explanation. It prays that the female peacocks and the seven flowing rivers may remove the poison of your (the body's) self.
+
+उदकं कुंभिनीरिव—कुंभिनीः कुंभिन्यः कुंभवत्यः कुंभेन जलहारिण्य इव । ता यथा तद्धरंति तद्वन्नद्यो मयूर्यश्चातिप्रभूतं हरंतु (*udakaṃ kuṃbhinīriva—kuṃbhinīḥ kuṃbhinyaḥ kuṃbhavatyaḥ kuṃbhena jalahāriṇya iva | tā yathā taddharaṃti tadvannadyo mayūryaścātiprabhūtaṃ haraṃtu*): कुंभिनी (*kuṃbhinī*) means women who carry a pot (गडिगॆ (*gaḍigè*) or बिंदिगॆ (*biṃdigè*)) to bring water. As such women take water in a pot from a river or other reservoir, so may the rivers wash away the poison spread in the body: thus the example is given.
+
+*[As supplied, the label line of the grammar page reads व्याकरणिप्रक्रिया (*vyākaraṇiprakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 14, noted briefly)
+
+The page explains: मयूर्यः (*mayūryaḥ*) (the word printed मयारशब्द (*mayāraśabda*); in the feminine, since it denotes a species, जीष् (*jīṣ*); before *jas* *yaṇ* is substituted; since *yaṇ* replaces an acute, the following syllable takes the svarita).
+
+### Printed p. 368
+
+*Running head (as supplied): [368 सायणभाष्यसहिता [मं. १ अ. २४. सू. १९१] (*[368 sāyaṇabhāṣyasahitā [maṃ. 1 a. 24. sū. 191]*).*
+
+(The grammar page of Ṛk 14 continues.) जभ्रिरे (*jabhrire*) (root हृञ् हरणे (*hṛñ haraṇe*); *liṭ* in the sense of the imperative in the Veda; the substitute इरेच् (*irec*) for the third person plural; because it is treated as marked *k* (कित्वातिदेश (*kitvātideśa*)), *guṇa* does not occur; *yaṇ*; the verbal *nighāta* accent because it follows a verb form); कुंभिनीः (*kuṃbhinīḥ*) (कुंभः आसामस्ति इति कुंभिनीः (*kuṃbhaḥ āsāmasti iti kuṃbhinīḥ*); the suffix इनिप्रत्यय (*inipratyaya*) in the possessive sense; because the stem ends in *n* in the feminine, जीप् (*jīp*); by the first-syllable acute of the suffix *ini* the word becomes accented in the middle; in the Veda, when *jis* (as printed) follows, lengthening to the similar vowel).
+
+*[As supplied, the label line of the Saṃhitā reads संहितपारकि (*saṃhitapāraki*), and two label lines पदपठः (*padapaṭhaḥ*), a duplicate, stand before the Pada; standard labels inserted. Two readings, one in the Saṃhitā and one in the Pada of Ṛk 15, and two in the Saṃhitā of Ṛk 16, are marked with a query.]*
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> इ॒य॒त्त॒कः कु॑षुंभ॒कस्त॒कं भि॑न॒द्मृश॑ना [?] ।
+> ततो॑ वि॒षं प्र वा॑वृते॒ परा॑ची॒रनु॑ सं॒वतः॑ ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> इयत्तकः । कुषुंभकः । तकं । भिनद्मि । अश्वना [?] ।
+> ततः । विषं । प्र । ववृते । पराचीः । अनु । संवतः ॥ १५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> इयत्तकः कुत्सितेयत्तः । अल्पप्रमाण इत्यर्थः । कुषुंभकः कुं पृथ्विं
+> सुंभति विलिखतीति सर्पाणां कुत्सितं सुंभयिता निग्रहीता कुषुंभको नकुलः ।
+> स ते विषं हरत्विति शेषः । यदि न तथा स करोति तकं कुत्सितं तं नकुलमश्मना
+> भिनद्मि । विदारयामि । विषनिर्हरणप्रयोगे यावद्विषापगमं तं पाषाणानुघात-
+> मनुतिष्ठंति तद्विदः । तदिदमत्तोक्तं । तत एवं प्रयोगे सति विषं प्र वावृते ।
+> विषावृताद्देहाद्विषं प्रवर्तते । निर्गच्छतु । काः प्रति । उच्यते । पराचीः परागंच-
+> नवतीरतिदूरगाः संवतः संविभागवतो दिशोऽनु लक्ष्मीकृत्य । दिगंतं प्रति गच्छतु न
+> मां प्रति गच्छत्वित्यर्थः ॥
+
+*Gist:* The little mongoose is asked to take the poison, else I crush it with a stone; the poison is to depart to far directions.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इयत्तकः—अल्पप्रमाणवुळ्ळ (*iyattakaḥ—alpapramāṇavuḷḷa*) (of small measure). कुषंभकः—मुंगसियु (ई नन्न सर्पदष्टवाद विष वन्न पहरिसलि इल्लदिद्दरॆ) (*kuṣaṃbhakaḥ—muṃgasiyu (ī nanna sarpadaṣṭavāda viṣa vanna paharisali illadiddarè)*) (the mongoose (may it remove this snake-bitten poison of mine; if not)). तकं—कुत्सितवाद आ मुंगुसियन्नु (*takaṃ—kutsitavāda ā muṃgusiyannu*) (that vile mongoose). अश्वना—कल्लिनिंद (*aśvanā—kalliniṃda*) (with a stone). भिनद्दि— (*bhinaddi—*) (I crush (the entry is divided across the page boundary)).
+
+### Printed p. 369
+
+*Running head (as supplied): [अ. २. अ. ५. व. १६.] ऋग्वेदसंहिता 369 (*[a. 2. a. 5. va. 16.] ṛgvedasaṃhitā 369*).*
+
+जज्जिहाकुत्तेनॆ (*jajjihākuttenè*) (I crush: the rest of the entry). ततः—अनंतर (*tataḥ—anaṃtara*) (afterwards). विषं—विषवु (*viṣaṃ—viṣavu*) (the poison). प्र वावृते—हॊरक्कॆबरलि (*pra vāvṛte—hòrakkèbarali*) (may it come out). पराचीः— अत्यंत दूरस्थवाद (*parācīḥ— atyaṃta dūrasthavāda*) (of the very distant). संवतः—दिक्कुगळन्नु (*saṃvataḥ—dikkugaḷannu*) (the directions). अनु—लक्षिसि हॊरटुहोगलि (*anu—lakṣisi hòraṭuhogali*) (may it go off aiming at (them)).
+
+**भावार्थ (Bhāvārtha)**
+
+May the mongoose of small measure take this snake-bitten poison of mine; if not, I will crush it with a stone. Afterwards may the poison come out and go off to the very distant regions.
+
+**Printed English translation**
+
+May the insignificant mungoose (carry off) your venom, (Poison), if not, I will crush the vile (creature) with a stone; so may the poison depart (from my body), and go to distant regions.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 15)**
+
+In this ṛk the sage hopes that the mongoose will destroy the poison.
+
+इयत्तकः-कुत्सितेयत्तः अल्पप्रमाण इत्यर्थः (*iyattakaḥ-kutsiteyattaḥ alpapramāṇa ityarthaḥ*): that is, one with a very small bodily form, small.
+
+कुषुंभकः--कुं पृथिवीं सुंभति विलिखतीति सर्पाणां कुत्सितं सुंभयिता निग्र- हीता कुषुंभको नकुलः (*kuṣuṃbhakaḥ--kuṃ pṛthivīṃ suṃbhati vilikhatīti sarpāṇāṃ kutsitaṃ suṃbhayitā nigra- hītā kuṣuṃbhako nakulaḥ*): कु (*ku*) means the earth (the ground); because when snakes crawl on that ground there is a mark of their movement like a crooked line drawn, कुत्सितं (*kutsitaṃ*) means snakes. Because it provokes such snakes, fights them and kills them, the mongoose is named कुषुंकभ (*kuṣuṃkabha*) (as printed), that is, *nakula* or mongoose (( the neul or or viverra Mungoose) (*( the neul or or viverra Mungoose)*), as printed). It is well known that these mongooses kill the snakes that are their natural enemies. Such a mongoose is prayed to remove the poison of the body. Here the verb हरतु (*haratu*) has to be supplied.
+
+तकं भिनद्मि अश्वना (*takaṃ bhinadmi aśvanā*) (as printed): तकं (*takaṃ*) means तं (*taṃ*), that small or base creature. It says that if the mongoose does not remove the poison, it will crush that base creature with a stone. In the procedures for removing poison, until the poison has gone completely and the cure has come, stones are struck one against another, and here too it is done so, is Sāyaṇa's explanation.
+
+ततो विषं प्र वावृते पराचीरनु संवृताः (*tato viṣaṃ pra vāvṛte parācīranu saṃvṛtāḥ*) (as printed): by this sentence in the second half the wish is expressed that the poison, leaving the body, may go off very far in various directions without coming back near me.
+
+*[A stray line of the supplied text, [24] Vol. 14 (*[24] Vol. 14*), is kept as an italic note in the Kannada text. The running head of printed p. 370 stands unmarked inside the text; the marker for p. 370 was inserted in the Kannada text, and the page is carried in the page list of the window.]*
+
+### Printed p. 370
+
+*Running head (unmarked in the supplied text, as printed): 370 सायणभाव्यसहिता [ मं. १. अ. २४. सू. १९१ (*370 sāyaṇabhāvyasahitā [ maṃ. 1. a. 24. sū. 191*).*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 15, noted briefly)
+
+The page explains: भिनद्मि (*bhinadmi*) (root भिदिर् विदारणे (*bhidir vidāraṇe*), of the *rudhādi* class; *laṭ*, first person singular, *mip*; the *śnam* vikaraṇa, because it is marked *m*, comes after the root's *n*; the verbal *nighāta* accent because it follows a verb form); ववृते (*vavṛte*) (root वृतु वर्तने (*vṛtu vartane*); by the rule छंदसि लुज् (*chaṃdasi luj*) *liṭ* in the sense of the imperative; since the root belongs to the *tudādi* class, by the rule तुजादीनां दीर्घोभ्यासस्य (*tujādīnāṃ dīrghobhyāsasya*) (पा. सू. ६-१-७ (*pā. sū. 6-1-7*)) the reduplicative syllable is lengthened in the Saṃhitā; the verbal *nighāta* accent).
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> कु॒षुं॒भ॒कस्तद॑ब्रवीद्दि॒रेः [?] प्र॑वर्तमान॒कः ।
+> वृश्चि॑कस्यार॒ॆसं [?] वि॒षम॑र॒सं वृ॑श्चिक ते वि॒षं ॥ १६ ॥
+
+**॥ पदपाठः ॥**
+
+> कुषुंभकः । तत् । अब्रवीत् । गिरेः । प्रवर्तमानकः ।
+> वृश्चिकस्य । अरसं । विषं । अरसं । वृश्चिक । ते । विषं ॥ १६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अध्यायोपाकरणोत्सर्गयोः कुषुंभकस्तदित्यंत्या विनियुक्ता । दधिसक्कू-
+> इज्जुहोतीत्युपक्रम्य कुषुंभकस्तदब्रवीत् । आ. गृ. ३-५-५ । इति सूत्रितत्वात् ॥
+> एवं महानुभावेनागस्त्यमहर्षिणोच्यमाने सति गिरीः सकाशात्पवर्त-
+> मानकः प्रवर्तमानोऽतिशीघ्रमभिगच्छन् कुषुंभको नकुलस्तदब्रवीत् । तद्वाक्य-
+> माचख्यौ । किं तदिति उच्यते । वृश्चिकस्यैतद्विषमरसमसारं । बाधकं न भवतीत्यर्थः ।
+> तथा लोकेऽपि सर्पदष्टमपि क्रिम्यादिदंशनमेव अतो न बाध इति हि वदंति ।
+> एवमभिवचनेन सोऽपि निर्विषोऽभवत् । अथ तं वृश्चिकं प्रति नकुल आह । हे वृश्चिक
+> ते विषमरसं । आतस्तमृषिं किं करिष्यति । तस्मात्परिहरेति । यदैवमवादीत् तदा-
+> प्रकृति वृश्चिकविषमसारमभवत् । एषा विषनिर्हरण्युपनिषत् ॥
+
+*(The supplied text ends with the bhāṣya of Ṛk 16; its Pratipadārtha, Bhāvārtha and the rest follow in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 366 (PDF 366). Sukta 191 Rik 12 and Rik 13 complete; Rik 14 complete through the Pratipadartha; three readings marked with a query
+**Progress note:** Done through printed p. 370 (PDF 370). Sukta 191 Rik 14 complete; Rik 15 complete; Rik 16 Samhita, Pada and bhashya only; unmarked p. 370 head handled; four readings marked with a query
