@@ -6830,6 +6830,162 @@ In this ṛk the word *iḷāvān* is an epithet of Agni, and so the Bṛhaddeva
 
 आजुह्वानः (*ājuhvānaḥ*) (root हु दानादनयोः (*hu dānādanayoḥ*)): the substitute *śānac* for *laṭ*; the *ślu* stem; on that basis reduplication of the root; by अभ्यस्तानामादिः (*abhyastānāmādiḥ*) (पा. सू. ६-१-१८९ (*pā. sū. 6-1-189*)) the first syllable is acute; in a *prādi* compound the accent of the first member of the *kṛt* compound. ईड्य: (*īḍya:*) (root ईड स्तुत् (*īḍa stut*)): the suffix *yat*; by यतोनावः (*yatonāvaḥ*) (पा. सू. ६-१-२१३ (*pā. sū. 6-1-213*)) the first syllable is acute. वक्षि (*vakṣi*) (root वह प्रापणे (*vaha prāpaṇe*)): *laṭ*, second person singular, ending *sip*; by बहु- लंछंदंसि (*bahu- laṃchaṃdaṃsi*) the *luk* of the stem-suffix; by होढः (*hoḍhaḥ*) the *h* of the root becomes *ḍh*; by षढोः कः सि (*ṣaḍhoḥ kaḥ si*) that *ḍh* before *s* becomes *k*; on that basis *ṣ* for the *s* of the suffix; the verb-*nighāta* accent. यज्ञियान् (*yajñiyān*): यज्ञमर्हंति इति यज्जियाः (*yajñamarhaṃti iti yajjiyāḥ*); by यज्ञर्त्वग्भ्यां घ ख इौ [?] (*yajñartvagbhyāṃ gha kha iau [?]*) (पा. सू. ५-१-७१ (*pā. sū. 5-1-71*)) the suffix *gha* (the print is garbled at the end of the rule, marked [?]); by आयनेयीनी— (*āyaneyīnī—*) (पा. सू ७-१-२ (*pā. sū 7-1-2*)) the substitute *iya*; by यस्येतिच (*yasyetica*) the preceding *a* is dropped; the suffix's first syllable is acute. सहस्रसाः (*sahasrasāḥ*): सहस्रं सनोति इति सहस्रसाः (*sahasraṃ sanoti iti sahasrasāḥ*), root षणु दाने (*ṣaṇu dāne*); the suffix *kvip*; by जनसन खनां— (*janasana khanāṃ—*) (पा. सू. ६-४-४२ (*pā. sū. 6-4-42*)) the root takes *ā*; by गतिकारकोपपदात्— (*gatikārakopapadāt—*) the accent of the first member of the *kṛt* compound.
 
+### Printed p. 236
+
+*Running head: [236 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+*(The sahasrasāḥ entry of the Ṛk 3 grammar page ended on p. 235; p. 236 begins directly with Ṛk 4.)*
+
+#### Ṛk 4
+
+*[As supplied, the label line reads संहिताचार्य (*saṃhitācārya*); standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> प्रा॒चीनं॑ ब॒र्हिरोज॑सा स॒हस्र॑वीरमस्तृणन् ।
+> यत्रा॑दित्या वि॒राज॑थ ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> प्राचीनं । बर्हिः । ओजसा । सहस्रवीरं । अस्त्रणन् ।
+> यत्र । आदित्याः । विराजथ ॥ ४ ॥
+
+> *prācīnaṃ | barhiḥ | ojasā | sahasravīraṃ | astraṇan |*
+> *yatra | ādityāḥ | virājatha ‖ 4 ‖*
+
+*[As supplied, a line reading सयणभाष्यं (*sayaṇabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> प्राचीनं प्रागग्रं सहस्रवीरं सहस्रसंख्याका वीराः शत्रूणां विशेषेणेरयि-
+> तारो देवा यस्य तत्तादृक् । यद्वा । अपरिमितवीराः पुत्रादयो येन तादृक् ।
+> बर्हिरोजसा मंत्रलक्षणबलेनोपेता ऋत्विजोऽस्तृणन् । आच्छादयन । यत्र
+> यस्मिन्बर्हिष्कादित्या अदितेः पुत्रा: यूयं विराजथ विविधं राजध्वे तद्बर्हिरस्तृणन्॥
+
+*Gist:* The priests, endowed with the strength of mantras, have strewn the eastward-pointing sacred grass, rich in heroes, on which you, Ādityas, shine.
+
+*[As supplied, a line reading । प्रसिद्धार्थ । (*| prasiddhārtha |*) stands inside the bhāṣya block as the label; standard label inserted. The following lines carry block marks in the supplied text and are given as prose.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+प्राचीनं—पूर्वदिक्किगॆ तिरुगिसिरुव अग्रभागवुळ्ळद्दू (*prācīnaṃ—pūrvadikkigè tirugisiruva agrabhāgavuḷḷaddū*) (with its tip turned to the east). सहस्रवीरं—सहस्रसंख्याकवाद वीररन्नु हॊंदिरतक्कद्दू (मत्तु) (*sahasravīraṃ—sahasrasaṃkhyākavāda vīrarannu hòṃdiratakkaddū (mattu)*) (possessing thousands of heroes). यत्र—यावुदर मेलॆ (*yatra—yāvudara melè*) (on which). आदित्याः—अदितिपुत्रराद (देवतॆ गळाद) नीवु (*ādityāḥ—aditiputrarāda (devatè gaḷāda) nīvu*) (you, sons of Aditi, the gods). विराजथ—प्रकाशिसुत्तीरो अंतहुदू आद (*virājatha—prakāśisuttīro aṃtahudū āda*) (shine). बर्हिः—दर्भासनवन्नु (ऋत्विक्कु ळु) (*barhiḥ—darbhāsanavannu (ṛtvikku ḷu)*) (the seat of darbha grass, the priests). ओजसा—मंत्ररूपवाद बलदिंद (*ojasā—maṃtrarūpavāda baladiṃda*) (with the strength in the form of mantras). अस्त्रणन्—हरडि सिद्धपडिसिद्दारॆ (*astraṇan—haraḍi siddhapaḍisiddārè*) (have spread and prepared).
+
+**भावार्थ (Bhāvārtha)**
+
+O Ādityas, the priests, endowed with the strength in the form of mantras, have spread and prepared the seat of darbha grass on which you sit and shine, with its tip turned to the east and possessing thousands of heroes.
+
+**Printed English translation**
+
+By the power (of their prayers) they have strewn the sacred grass, the seat of numerous heroes, pointing to the east, on which Adityas, you are manifest (as printed, without a final full stop)
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4)**
+
+सहस्रवीरं (*sahasravīraṃ*) — the bhāṣyakāra has given three kinds of meaning for this word: सहस्र वीरं सहस्रसंख्याका वीराः शत्रूणां विशेषेणेरयितारो देवा यस्य शादृक् [?] (*sahasra vīraṃ sahasrasaṃkhyākā vīrāḥ śatrūṇāṃ viśeṣeṇerayitāro devā yasya śādṛk [?]*) (the print has "ಶಾದೃಕ್" where *tādṛk* is expected; marked [?])
+
+### Printed p. 237
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 8] Ṛgveda-saṃhitā 237 (as supplied).*
+
+यद्वा । अपरिमितवीराः पुत्रादयो येन तादृक् (*yadvā | aparimitavīrāḥ putrādayo yena tādṛk*). That is: having a thousand (many) heroes; or having gods who destroy a thousand enemy heroes; or having heroes in great number, such as sons and grandsons: so he has said.
+
+बर्हि (*barhi*) — this implement has a more concrete form than the notions of *idhma* and *iḷaḥ*. *Barhis* means the seat of darbha grass. Unlike the divine element attributed to doors in देवीः द्वारः (*devīḥ dvāraḥ*), none is attributed to the *barhis*; only the sense of a seat for the gods is indicated. Moreover, the doors are prayed to open of themselves, without other help, and make a way for the coming of the gods; insentient doors cannot open of themselves and make a wide path unless they have divine power. But for the *barhis* this power is not attributed; the priests must spread it. Not only in this ṛk but also in the other ṛks of the Āprī sūktas it is clearly said that the *barhis* must be spread with the help of priests and others. For example:
+
+प्राचीनं बर्हिरोजसा सहस्रवीरमस्त्रणन् । यत्रादित्या विराजथ । (*prācīnaṃ barhirojasā sahasravīramastraṇan | yatrādityā virājatha |*)
+(पु. : ०. १-१८८-४) (*(pu. : 0. 1-188-4)*)
+
+in this ṛk, and likewise in ऋ. सं. ९-५-४ (*ṛ. saṃ. 9-5-4*), बर्हिः प्राचीनमोजसा पवमानः स्तृणन् हरिः (*barhiḥ prācīnamojasā pavamānaḥ stṛṇan hariḥ*), there is the description that priests spread the *barhis*. Likewise in the ṛks of the other Āprī sūktas the *barhis* is said to be an earthly and insentient place, yet a place holy to the gods. In the Praiṣa sūkta alone:
+
+होता यक्षद्बर्हिः सुष्टरीमोर्णंम्रदा अस्मिन्यज्ञे विचप्रच प्रथताग्ं (*hotā yakṣadbarhiḥ suṣṭarīmorṇaṃmradā asminyajñe vicapraca prathatāgṃ*)
+स्वासस्थं देवेभ्यः । एमेनदद्य वसवो रुद्रा आदित्याः सदंतु प्रियमिंद्र- (*svāsasthaṃ devebhyaḥ | emenadadya vasavo rudrā ādityāḥ sadaṃtu priyamiṃdra-*)
+स्यास्तु वेत्वाज्यस्य होतरज ॥ (*syāstu vetvājyasya hotaraja ‖*)
+(तै. ब्रा. ३-६-२-१) (*(tai. brā. 3-6-2-1)*)
+
+it is called a seat which is a synonym of Agni and divine, by बर्हिर्नामकं चतुर्थप्रयाजदेवमग्निं (*barhirnāmakaṃ caturthaprayājadevamagniṃ*). In the Aitareya-brāhmaṇa:
+
+बर्हिर्यजति, पशवो वै बर्हिः पशूनेव तत्प्रीणाति पशून्यजमाने दधाति । (*barhiryajati, paśavo vai barhiḥ paśūneva tatprīṇāti paśūnyajamāne dadhāti |*)
+( ऐ ब्रा. २-४) (*( ai brā. 2-4)*)
+
+it is explained as an animal that grazes grass or is accompanied by grass; but it is understood that there is not the slightest room for this meaning.
+
+The Nirukta-authors say बर्हिः परिबर्हणात् (*barhiḥ paribarhaṇāt*): the darbha grass is called *barhis* because it grows fast (नि ८-८ (*ni 8-8*)). In the Bṛhaddevatā:
+
+### Printed p. 238
+
+*Running head (unmarked page break in the supplied text; printed inside the text): [238 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+बर्हिरेवायमग्निस्तु सर्वं हि परिबृंहितं । (*barhirevāyamagnistu sarvaṃ hi paribṛṃhitaṃ |*)
+अन्नेन यद्दुतो वा सन्निध्मेन परिबृंहितः ॥ (*annena yadduto vā sannidhmena paribṛṃhitaḥ ‖*)
+(बृ. दे. ३-५) (*(bṛ. de. 3-5)*)
+
+it is stated that Agni is identical with the *barhis*, because all the food is pervaded by it and because after the oblation it is filled by the *idhma*. Although in many matters the Bṛhaddevatā authors follow the sentences of the Nirukta, here they show a slight difference: what the Nirukta-authors call merely the *barhis*, the seat of the gods, these explain as a seat that is divine and a synonym of Agni.
+
+आदित्याः (*ādityāḥ*) — on page 120 (*120*) of this same part, the question who the Ādityas are has been examined.
+
+*[As supplied, the label line reads व्याकरणपकिया (*vyākaraṇapakiyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 4, noted briefly)
+
+सहस्रवीरम् (*sahasravīram*): सहस्रसंख्याकाः वीराः यस्य तत् (*sahasrasaṃkhyākāḥ vīrāḥ yasya tat*); by बहु व्रीहौ प्रकृत्या पूर्वपदम् (*bahu vrīhau prakṛtyā pūrvapadam*) the first member keeps its natural accent. अस्त्रणन् (*astraṇan*) (root स्त्रञ् आच्छादने (*strañ ācchādane*)): *kryādi*, *laṅ*, third person plural; the substitute *anta* for *jhi*, the dropping of *i*, the stem-suffix *śnā*; by श्नाभ्यस्तयोरातः (*śnābhyastayorātaḥ*) (पा सू ६-४-११२ (*pā sū 6-4-112*)) the *a* of the stem-suffix is dropped; because it follows *ṛ*, retroflex *ṇ*; the augment *aṭ* for the stem; owing to the connection with a finite verb the *nighāta* accent. आदित्याः (*ādityāḥ*): अदितेः अपत्यानि पुमांसः आदित्याः (*aditeḥ apatyāni pumāṃsaḥ ādityāḥ*); by दित्यदित्यादि— (*dityadityādi—*) (पा. सू. ४-१-८५ (*pā. sū. 4-1-85*)) the suffix *ṇya*; by तद्धितेष्वचामादेः (*taddhiteṣvacāmādeḥ*) (पा. सू. ७-२-११७ (*pā. sū. 7-2-117*)) vṛddhi of the first vowel; by यस्यॆतिच (*yasyètica*) (पा. सू ६-४-१४० (*pā. sū 6-4-140*)) the *i* is dropped; in the Vedic manner it is wholly unaccented.
+
+*[Stray line in the supplied text: 408 कादंबरि (*408 kādaṃbari*); not part of the text.]*
+
+#### Ṛk 5
+
+*[The supplied text has no label line before the Saṃhitā; standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> वि॒राट् स॒म्राड्वि॒भ्वीः प्र॒भ्वीर्ब॒ह्वीश्च॒ भूय॑सीश्च॒ याः ।
+> दुरो॑ घृ॒तान्य॑क्षरन् ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> विराट् । संराट् । विभ्वीः । प्रभ्वीः । बह्वीः । च । भूयसीः । च । याः ।
+> दुरः । धृतानि । अक्षरन् ॥ ५ ॥
+
+> *virāṭ | saṃrāṭ | vibhvīḥ | prabhvīḥ | bahvīḥ | ca | bhūyasīḥ | ca | yāḥ |*
+> *duraḥ | dhṛtāni | akṣaran ‖ 5 ‖*
+
+### Printed p. 239
+
+*Running head: [Aṣṭaka 2. Adhyāya 5 Varga 8] Ṛgveda-saṃhitā 239 (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+
+> विराट् ॥ विशेषेण राजंत इति व्यत्ययेनैकवचनं ॥ सम्राट् सम्यगिति पूज्यतरं
+> राजमानाः ॥ आत्रापि व्यत्ययेनैकवचनं ॥ विभीर्विभ्यो विविधं भवित्र्यः प्रभ्वीः
+> प्रभ्वैः प्रकर्षेण भवित्र्यो बह्वीर्बह्व्यो भूयसीर्लोकप्रसिद्धसंख्याभिश्च भूय-
+> स्यश्च या दुरो यज्ञगृहद्वारः संति ता धृतान्युदकानि प्राण्युपकारार्थमक्षरन् ।
+> क्षरंति । यद्वा । बह्वीर्भूयसीरित्येते संख्यावचने । शिष्टानि तासां नामधेयानि ॥
+
+*Gist:* The doors of the sacrificial house, variously radiant, mighty, many and numerous, shed water on the sacrifice for the benefit of creatures; or *bahvī* and *bhūyasī* are mere numeral words.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विराट्—विशेषरीतियिंद प्रकाशिसुवुदू (*virāṭ—viśeṣarītiyiṃda prakāśisuvudū*) (shining in a special way). सम्राट्—पूज्यतरवागि प्रकाशिसुवुदू (*samrāṭ—pūjyataravāgi prakāśisuvudū*) (shining more worthily). विभ्वीः—बहु विधवागि शोभिसुवुदू (*vibhvīḥ—bahu vidhavāgi śobhisuvudū*) (resplendent in many ways). प्रभ्वीः—महत्त्वदिंद कूडिरुवुदू (*prabhvīḥ—mahattvadiṃda kūḍiruvudū*) (endowed with greatness). बह्वीः— बहु संख्यातवागिरुवुदू (*bahvīḥ— bahu saṃkhyātavāgiruvudū*) (very numerous). भूयसीश्च—बाहुळ्यवन्नु हॊंदिरुवुवू आद (*bhūyasīśca—bāhuḷyavannu hòṃdiruvuvū āda*) (abundant). याः दुरः— यज्ञगृहद याव द्वारगळिरुवुवो अवुगळल्लि (*yāḥ duraḥ— yajñagṛhada yāva dvāragaḷiruvuvo avugaḷalli*) (the doors of the sacrificial house that there are, on them). धृतानि-उदकगळु (*dhṛtāni-udakagaḷu*) (waters). अक्षरन्-प्रोक्षिसल्पडुत्तवॆ (*akṣaran-prokṣisalpaḍuttavè*) (are sprinkled).
+
+**भावार्थ (Bhāvārtha)**
+
+On the doors of the sacrificial house, which shine in a special way, shine more worthily, are resplendent in many ways, endowed with greatness, very numerous and abundant, waters are sprinkled.
+
+**Printed English translation**
+
+They have sprinkled water on the doors (of the hall of sacrifice), which are variously and perfectly radiant, manifold, excellent, many, and numerous- (the print breaks off at the hyphen "numerous-" at the end of the supplied text for the Ṛk)
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 5)**
+
+In this ṛk the door-deities of the sacrificial house, देवीर्द्वारः (*devīrdvāraḥ*) (the divine Doors, *duraḥ*), are prayed to. Another special feature of this ṛk is that the names of the four doors in the four directions of the sacrificial house are indicated here. In the other Āprī sūktas there are no such names. Even so, it is reasonable to understand words such as *virāṭ* by assigning to them etymological meanings and to say that they are epithets of the word *duraḥ*. The bhāṣyakāra has made both kinds of attempt.
+
+दुरः (*duraḥ*) — द्वारः (*dvāraḥ*), the door-deities of the sacrificial house. Who they are, Yāska says:
+
+द्वारः । द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा । गृहद्वार इतिकात्थक्यः । (*dvāraḥ | dvāro javatervā dravatervā vārayatervā | gṛhadvāra itikātthakyaḥ |*)
+अग्निरिति शाकपूणिः ॥ (*agniriti śākapūṇiḥ ‖*)
+(सि. ८-१०) [?] (*(si. 8-10) [?]*)
+
+*[The reference is printed with Telugu letters; rewritten in Kannada letters by script only and marked [?].]*
+
 ---
 
-**Progress note:** Done through printed p. 235 (PDF 235). Done through printed p. 235 (Sukta 188 Rik 3 complete, with Special Topics and grammar page; Rik 4 next); [?] on the garbled rule in the Rik 3 grammar page
+**Progress note:** Done through printed p. 239 (PDF 239). Done through printed p. 239 (Sukta 188 Rik 4 complete; Rik 5 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Special Topics of Rik 5 begun, breaks off at the Nirukta quotation on dvarah); [?] on tadrk, Telugu letters rewritten in Kannada
