@@ -3950,6 +3950,80 @@ The bhāṣyakāra (Sāyaṇa)'s explanation is: नक्तशब्द: उ�
 
 ईषे (*īṣe*) — the word ईषे (*īṣe*) may be formed from the root *iṣ* meaning "to go", or from the root *īṣ* with the same sense, according to the bhāṣyakāra's explanation. *Īṣe* means "I wish", "I desire", or "I desire to come near (you)".
 
+### Printed p. 139
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 139 (as supplied). The window continues the Special Topics of Ṛk 4 of Sūkta 186 from p. 138, after the note on *īṣe*.*
+
+समाने पयसि ऊधन् विषुरूपे (*samāne payasi ūdhan viṣurūpe*) — two kinds of meaning are possible for these words. One meaning: from milk drawn on a single day, many kinds of milk, curds, ghee, oblation and so on; another meaning: in a sacrifice whose fruit is milk, accompanied by many kinds of milk-products, that is, accompanied by soma-juices (such as *gavāśir* and *dadhyāśir*): thus the bhāṣyakāra has explained. The main idea is this: although the same kind of milk arises at the same time from the udders of all cows, it takes different forms such as milk, curds and ghee. The ṛṣi describes that he will come near the gods reciting a praise that is the means of the food (*caru*, *puroḍāśa* and the like) accompanied by these milk-products, or of the soma-juice.
+
+विषुरूपे— नानारूपे (*viṣurūpe— nānārūpe*) — having many forms: although the milk is one, the things made from it, milk, curds and ghee, are of many kinds.
+
+अर्कं— अन्नसाधनं स्तोत्रं (*arkaṃ— annasādhanaṃ stotraṃ*) — the bhāṣyakāra has here given the sense "food" for the word *arka*. Yāska in his Nirukta says:
+
+अर्को देवो भवति यदेनमर्चंति । (*arko devo bhavati yadenamarcaṃti |*)
+अर्को मंत्रो भवति यदनेनार्चंति । (*arko maṃtro bhavati yadanenārcaṃti |*)
+अर्कमन्नं भवत्यर्चति भूतानि । (*arkamannaṃ bhavatyarcati bhūtāni |*)
+अर्को वृक्षो भवति संवृत्तः कटुकिम्मा [?] । (*arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimmā [?] |*)
+(सि. ५-४) (*(si. 5-4)*) (printed "ಸಿ." for "ನಿ.")
+
+and thus has given four derivations of the word *arka*. (1) देवः । तावत्सर्व एवार्क इत्युच्यते यत्-यॆस्मात् एनं देवं अर्चंति स्तोतारः (*devaḥ | tāvatsarva evārka ityucyate yat-yèsmāt enaṃ devaṃ arcaṃti stotāraḥ*) ["ಯೆಸ್ಮಾತ್" as supplied]: *arka* means a god, because the worshippers worship this one with it; that is, the thing worshipped by the devotee (the deity) is called *arka*. (2) अर्को मंत्रो भवति । यत् यस्मात् अनेन मंत्रेण अर्चंति स्तोतारः तस्मादर्कः (*arko maṃtro bhavati | yat yasmāt anena maṃtreṇa arcaṃti stotāraḥ tasmādarkaḥ*): *arka* also means a mantra, because those who praise worship the deity with it (the *arka*, the ṛk, the mantra); so the word *arka* is also a name for a mantra. (3) अर्कमन्नं भवति । तद्धि अर्चति भूतानि, यो हि पूज्यः तस्यान्नमपि संस्कारविशेषेण संस्कृतं पूजायां क्रियते, पूज्यं च सर्वस्यॆवान्नं (*arkamannaṃ bhavati | taddhi arcati bhūtāni, yo hi pūjyaḥ tasyānnamapi saṃskāraviśeṣeṇa saṃskṛtaṃ pūjāyāṃ kriyate, pūjyaṃ ca sarvasyèvānnaṃ*): *arka* also means food. Food is necessary for all creatures, and
+
+### Printed p. 140
+
+*Running head: [140 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186].*
+
+everyone respects and desires it with regard; that is, because all respect and wish for it with love and regard, the word *arka* also means food. (4) अर्को वृक्षो भवति य एष प्रसिद्धः । संवृत्तः हि संगतः संव्याप्तः कटुकिम्ना कटुकभावेन भवति (*arko vṛkṣo bhavati ya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṃgataḥ saṃvyāptaḥ kaṭukimnā kaṭukabhāvena bhavati*): further, the name of a kind of tree, well known, also belongs to the word *arka*. The *arka* tree is called *ekkada giḍa* in the Karnāṭaka language; since its fuel sticks are used in sacrifices and it is used in medicine, the *arka* tree is a thing known to all; because it is bitter it is called कटुकिम्मा [?] (*kaṭukimmā [?]*) ["ಕಟುಕಿಮ್ಮಾ" as supplied in the first quotation, "ಕಟುಕಿಮ್ನಾ" in the second; marked [?]].
+
+As an example for the explanation of the word *arka* Yāska has quoted the ṛk beginning गायंति त्वा (*gāyaṃti tvā*) and given its explanation; since it is unnecessary here it is not set out. (See Ṛg. Saṃ. part 2, page 385, as printed.)
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+ईषे (*īṣe*) (root इष गतौ (*iṣa gatau*), "to go"): by छंदसिलुज् लज् लिटः (*chaṃdasiluj laj liṭaḥ*) the *liṭ* in the sense of the present; first person singular; because it follows a non-verb the *nighāta* accent arises. जिगीषा (*jigīṣā*) (जेतुमिच्छा जिगीषा (*jetumicchā jigīṣā*), "the wish to conquer"; root जि जये (*ji jaye*)): by धातोः कर्मणः समान- (*dhātoḥ karmaṇaḥ samāna-*) (पा. सू. ३-१ ७) (*(pā. sū. 3-1 7)*) (as printed, the numeral incomplete) the suffix *san* in the sense of wish; doubling by सन्यजोः (*sanyajoḥ*); by अज्जनगमां सनि (पा. सू. ६-४-१६) (*ajjanagamāṃ sani (pā. sū. 6-4-16)*) lengthening of the *i* of the root when *san* follows; by सन्‌लिटो (*sanliṭo*) र्जेः (पा. सू ७-३-५७) (*rjeḥ (pā. sū 7-3-57)*) the guttural change of *j*; by अप्रत्ययात् (पा. सू. ३-३-१०२) (*apratyayāt (pā. sū. 3-3-102)*) the suffix *a* after a *san*-ending root; the feminine *ṭāp*; by सुपां सुलुक् (*supāṃ suluk*) *luk* of the instrumental singular; by the suffix accent the last syllable is acute. उषासानक्ता (*uṣāsānaktā*) ("Uṣas and night"): by उषासोषसः (पा सा. ६-३-३१) (*uṣāsoṣasaḥ (pā sā. 6-3-31)*) (as printed "ಸಾ." for "ಸೂ.") the substitute *uṣāsā* for the earlier member in a dvandva; by देवताद्वंद्वे च (पा. सू. ६-२-१४१) (*devatādvaṃdve ca (pā. sū. 6-2-141)*) both members keep their own accent; by the sūtra सुपां सुलुक् (*supāṃ suluk*) the substitute *ā* for the dual ending. अहन् (*ahan*): by सुपां सुलुक् (*supāṃ suluk*) *luk* when the locative singular follows; by न जि संबुद्ध्योः (*na ji saṃbuddhyoḥ*) the loss of *n* does not occur. विमिमानः (*vimimānaḥ*) (root माज् माने (*māj māne*)): the substitute *śānac* for the present; because of the *śluk* suffix doubling of the root; by भृञामित् (पा. सू. ७-४-७६) (*bhṛñāmit (pā. sū. 7-4-76)*) *i* for the reduplicative syllable; by अभ्यस्तानामादिः (*abhyastānāmādiḥ*)
+
+### Printed p. 141
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4.] Ṛgveda-saṃhitā 141 (as supplied).*
+
+(पा. सू. ६-१-१८९) (*(pā. sū. 6-1-189)*) the first syllable is acute. In a compound with a prefix the accent of the later member, a *kṛt* word. विषुरूपे (*viṣurūpe*) ("that which has many forms"): by बहुव्रीहौ प्र— (*bahuvrīhau pra—*) the accent of the earlier member.
+
+#### Ṛk 5
+
+*[As supplied, the label line of the next section reads संवाद (*saṃvāda*); standard label inserted. In the Saṃhitā the supplied text has बुध्न्यो ३ [?] (*budhnyo 3 [?]*) ("ಬುಧ್ನ್ಯೋ ೩" with a stray numeral); the Saṃhitā lines were joined.]*
+
+**॥ संहितापाठः ॥**
+
+> उ॒त नोs हि॑र्बु॒ध्न्यो॒३॒॑ ३ [?] मय॑स्कः॒ शिशुं॒ न पि॒प्युषी॑व वेति॒ सिंधुः॑ ।
+> येन॒ नपा॑तम॒पां जु॒नाम॑ मनो॒ जुवो॒ वृष॑णो॒ यं वहं॑ति ॥ ५ ॥
+
+> *uta nos hirbudhnyo 3 [?] mayaskaḥ śiśuṃ na pipyuṣīva veti siṃdhuḥ |*
+> *yena napātamapāṃ junāma mano juvo vṛṣaṇo yaṃ vahaṃti ‖ 5 ‖*
+
+*[As supplied, the label line of the next section reads सदाचार (*sadācāra*); standard label inserted. The Pada reads करिति कः [?] (*kariti kaḥ [?]*) (marked [?]).]*
+
+**॥ पदपाठः ॥**
+
+> उत । नः । अहिः । बुध्न्यः । मयः । करिति कः [?] । शिशुं । न । पिप्युषीऽइव । वेति । सिंधुः ।
+> येन । नपातं । अपां । जुनाम । मनःजुवः । वृषणः । यं । वहंति ॥ ५ ॥
+
+> *uta | naḥ | ahiḥ | budhnyaḥ | mayaḥ | kariti kaḥ [?] | śiśuṃ | na | pipyuṣī 'iva | veti | siṃdhuḥ |*
+> *yena | napātaṃ | apāṃ | junāma | manaḥjuvaḥ | vṛṣaṇaḥ | yaṃ | vahaṃti ‖ 5 ‖*
+
+*[As supplied, the label line of the next section reads गायणभाष्यं (*gāyaṇabhāṣyaṃ*); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> उतापि च नोऽस्माकमहिरंतरिक्षगाम्यहंता वाहीनो वाहन्यमानो नैत-
+> न्नामको देवः स एव बुद्ध्यः । बुध्नं बंधकमंतरिक्षं । तदर्हतीति बुध्योऽंत-
+> रिक्षचार्येतन्नामको देवो मयः सुखं कः । करोतु ॥ करोतेर्लज रूपं ॥
+> किंच पिप्युषी । इवशब्द एवार्थः पूरणो वा । अस्मान्रसेनाप्याययंती सिंधुर्नाम
+> नदी वेतु । आगच्छतु । तत्र दृष्टांतः । शिशुं न यथा शिशुं प्याययंती गौर्गच्छति
+> तद्वत् । अपां नपातमुदकानामपातयितारं वर्षकमेतन्नामकं यद्योदकानां
+> नप्तारं तृतीयं पुत्रं । अद्भ्य ओषधिवनस्पतयः तेभ्योऽग्निरिति नप्तृत्वं । तादृश-
+> मग्निं जुनाम । स्तुतिभिः सॆंगच्छेम ॥ जु इति सौत्रो धातुर्गत्यर्थः ॥ यं देवं
+> मनोजुवो मनोवेगा वृषणो वर्षका मेघा अश्वा वहंति स सुखं करोतु ॥
+
+*Gist:* May Ahirbudhnya of the atmosphere give us happiness; may the swelling river Sindhu come; we praise Agni, son of the waters, whom the mind-swift showering horses carry.
+
 ---
 
-**Progress note:** Done through printed p. 138 (PDF 138). Done through printed p. 138 (Sukta 186 Rk 4 complete through Special Topics: naktosasa, usas, sudugheva, ishe)
+**Progress note:** Done through printed p. 141 (PDF 141). Done through printed p. 141 (Sukta 186 Rk 4 complete; Rk 5 Samhita, Pada and bhashya done)
