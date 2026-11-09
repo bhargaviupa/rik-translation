@@ -20,3 +20,4 @@ pp.62-64 | sonnet | n/a | n/a | n/a
 pp.65-67 | sonnet | n/a | n/a | n/a
 pp.68-70 | sonnet | n/a | n/a | n/a
 pp.71-74 | sonnet | n/a | n/a | n/a
+pp.75-78 | sonnet | n/a | n/a | n/a
