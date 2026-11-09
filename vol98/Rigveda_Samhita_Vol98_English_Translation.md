@@ -7184,6 +7184,100 @@ The best and most brilliant light of the sun is rising. The dawn-time, which pre
 
 The bhāṣyakāra's (Sāyaṇa's) explanation: नक्तशब्द उषश्यब्दश्च लोके कालविशेषवा- चिन् । इह तु तत्कालाभिमानिवह्निमूर्तिद्वये प्रयुज्येते । नक्तोषासा नक्तोषो- नामिके वह्निमूर्ति (*naktaśabda uṣaśyabdaśca loke kālaviśeṣavā- cin | iha tu tatkālābhimānivahnimūrtidvaye prayujyete | naktoṣāsā naktoṣo- nāmike vahnimūrti*) — that is, the two words *nakta* (night) and *uṣas* (morning) in worldly usage denote the particular times, night and morning. Here, that is, in this ṛk or in the Ṛgveda, these words convey the sense of the presiding deities of night and morning. Therefore the words *naktoṣāsā* or *uṣāsānaktā*, in the sense of the two forms of Agni, the presiding deities of night and of the dawn-time... (the supplied text breaks off here, in mid-sentence, at the end of the window).
 
+### Printed p. 247
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 9] Ṛgveda-saṃhitā 247 (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 6 of Sūkta 188, on *naktoṣāsā*.)*
+
+...are used. The word *supeśasā* (of good form or shape) used in this ṛk supports this meaning; for night and morning, being divisions of time, have neither form nor shape, whereas, on the view that they are the presiding deities of those times, form can be indicated for those deities. Since such an indication is made in this ṛk, it must be understood that the presiding deities of those times are the ones set forth here. The syllable *ṣā* in the word *naktoṣāsā* is long for the convenience of the metre.
+
+The epithet ऋतस्य मातरा (*ṛtasya mātarā*) in the ṛk ऋ. सं. १-१४२-७ (*ṛ. saṃ. 1-142-7*) is very important.
+
+द्रवतां त उषसा वाजयंती अग्ने वातस्य पथ्याभिरच्छ । (*dravatāṃ ta uṣasā vājayaṃtī agne vātasya pathyābhiraccha |*)
+यत्स्रीमंजंति पूर्व्यं हविर्भिरा वंधुरेव तस्थतुर्दुरोणे ॥ (*yatsrīmaṃjaṃti pūrvyaṃ havirbhirā vaṃdhureva tasthaturduroṇe ‖*)
+(मि. सं. ३-१४-३) (*(mi. saṃ. 3-14-3)*)
+
+In this ṛk their constant relation to the sacrifice is described. In all the ṛks in which they are invoked (there are about twenty such ṛks) they are prayed to come with the other gods and sit on the darbha seat. They have a very close relation with Agni, who is kindled at dawn and at evening. Therefore a figurative description is given that they hold Agni between them:
+
+नक्तोषासा वर्णमामेम्याने धापयेते शिशुमेकं समीची । (*naktoṣāsā varṇamāmemyāne dhāpayete śiśumekaṃ samīcī |*)
+द्यावाक्षामा रुक्मो अंतर्वि भाति देवा अग्निं धारयन्सविणोदां । (*dyāvākṣāmā rukmo aṃtarvi bhāti devā agniṃ dhārayansaviṇodāṃ |*)
+(म. सं. १-९६-५) (*(ma. saṃ. 1-96-5)*)
+
+In such ṛks it is shown that they help the child-formed Agni to drink the oblation. Because of this relation they are said to be near the sacrificers. Generally in the Āprī sūktas too this point is repeated. For example:
+
+आ सुष्वयंती यजते उपाके उषासानक्ता सदतां नि योन् । (*ā suṣvayaṃtī yajate upāke uṣāsānaktā sadatāṃ ni yon |*)
+दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं सकुपिशं दधाने ॥ (*divye yoṣaṇe bṛhatī surukme adhi śriyaṃ sakupiśaṃ dadhāne ‖*)
+(म. सं. १०-११०-६) (*(ma. saṃ. 10-110-6)*)
+
+In this ṛk of the Āprī sūkta also the same matter is stated. From this it is understood that the deities Uṣāsānaktā hold not a subordinate place in the sacrificial work but a most important place. This principal place is shown by
+
+### Printed p. 248
+
+*Running head: [248 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. ೨. ೨೪. Sū. 188] (as supplied; the print has "೨" for the adhyāya sign).*
+
+होता यक्षदुषासानक्ता बृहती सुपेशसा नृग्ः पतिभ्यो योनिं कृष्णाने । (*hotā yakṣaduṣāsānaktā bṛhatī supeśasā nṛgḥ patibhyo yoniṃ kṛṣṇāne |*)
+सग्स् स्मयमाने इंद्रेण देवैरेदं बर्हिः सीदतां वीतामाज्यस्य (*sags smayamāne iṃdreṇa devairedaṃ barhiḥ sīdatāṃ vītāmājyasya*)
+होतरज ॥ (*hotaraja ‖*)
+(तै. ब्रा. ३-६-२-१) (*(tai. brā. 3-6-2-1)*)
+
+in the mantra of the Praiṣa sūkta, where it is indicated that Uṣānaktā are to sit on the darbha seat not only with Agni but also with Indra and other gods. In the Aitareya-brāhmaṇa they are addressed as *ahorātre*. The Nirukta-authors have explained the nature of these deities in ८-११ (*8-11*). What the Nirukta-authors have said of the derivation of the two words *uṣas* and *nakta* and of the nature of these deities has been stated before. In the Bṛhaddevatā too they are described thus:
+
+नक्तोषासौ च ये देव्यावाग्नेय्यावेव ते स्मृते । (*naktoṣāsau ca ye devyāvāgneyyāveva te smṛte |*)
+श्या व्याग्नेयी हि कालस्य तस्यैवोषाः कलेव तु ॥ (*śyā vyāgneyī hi kālasya tasyaivoṣāḥ kaleva tu ‖*)
+(बृ. दे. ३-८) (*(bṛ. de. 3-8)*)
+
+It is well known that the two deities *uṣas* and *nakta* are both connected with Agni. Of these, Śyāvī (the night deity, १-७१-१ (*1-71-1*)) has a close relation with Agni, and from the Nirukta sentence उषः कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣaḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ*) (नि. २-१८ (*ni. 2-18*)) it is known that *uṣas* is the later time of that night.
+
+तम उच्चत्युषा नक्तानक्तिमां हिमबिंदुभिः । (*tama uccatyuṣā naktānaktimāṃ himabiṃdubhiḥ |*)
+अपि वाव्यक्तवर्णेति नइद् पूर्वाञ्चीरिदं भवेत् ॥ (*api vāvyaktavarṇeti naid pūrvāñcīridaṃ bhavet ‖*)
+(बृ डे. ३-९) (*(bṛ ḍe. 3-9)*)
+
+Of these two, Uṣas drives away the darkness. The night makes everything wet and pervaded with dew-drops; or, because it has no definite colour, the root *añj* joins the particle *nañ* to give the sense "of indistinct colour".
+
+सा हि दोषा भवत्यादौ निशीथे सा तमस्वती । (*sā hi doṣā bhavatyādau niśīthe sā tamasvatī |*)
+नाम्ना भवत्युषाश्चैव सैषा प्रागुदयाद्रवेः ॥ (*nāmnā bhavatyuṣāścaiva saiṣā prāgudayādraveḥ ‖*)
+(बृ. दे. ३-१०) (*(bṛ. de. 3-10)*)
+
+At the beginning this deity is named (*pra*)*doṣā*, at midnight *tamasvatī*, and before sunrise *uṣas*. *Doṣā*, *tamasvatī*, *śyāvī* and *naktā* are all read as names of night in the Nighaṇṭu (निघंटु १-७ (*nighaṃṭu 1-7*)). Elsewhere in the Ṛk-saṃhitā, by epithets such as तंतुं ततं संवयंती (*taṃtuṃ tataṃ saṃvayaṃtī*) (२-३-६ (*2-3-6*)), the help of Uṣāsānaktā in the extension of the sacrifice is described.
+
+### Printed p. 249
+
+*Running head: [ಕಿ. ೨ ಆ. ೫. ವ. ೯.] Ṛgveda-saṃhitā 249 (as supplied; the print has "ಕಿ." for the aṣṭaka sign).*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 6, noted briefly)
+
+सुरुक्मे (*surukme*): शोभनं रुक्मं ययोस्ते. सुरुक्मे (*śobhanaṃ rukmaṃ yayoste. surukme*); by नञ्सुभ्याम् (*nañsubhyām*) (पा. सू. ६-२-१७२ (*pā. sū. 6-2-172*)) the last syllable of the final member is acute; dual form. सुपेशसा (*supeśasā*): शोभनं पेशः ययोस्ते (*śobhanaṃ peśaḥ yayoste*); overriding the *su* accent, by द्व्यच्- छंदसि (*dvyac- chaṃdasi*) (पा सू. ६-१-११९ (*pā sū. 6-1-119*)) the first syllable of the final member is acute; by सुपां सुलक् (*supāṃ sulak*) the substitute *ā* for the dual ending. विराजतः (*virājataḥ*) (root राज्य दीप्तौ (*rājya dīptau*)): *laṭ*, third person dual; owing to the connection with हि (*hi*), by हिच (*hica*) (पा. सू. ८-१-३४ (*pā. sū. 8-1-34*)) the *nighāta* accent is prohibited; since the *lasārvadhātuka* ending is unaccented by तास्यनुदात्तेत्— (*tāsyanudāttet—*) the accent of the root remains; by तिजुचोदात्तवति (*tijucodāttavati*) (पा. सू. ८-१-७१ (*pā. sū. 8-1-71*)) the preverb (*vi*) is unaccented. सीदताम् (*sīdatām*) (root षद्ल्य विशरणगत्यवसादनेषु (*ṣadlya viśaraṇagatyavasādaneṣu*)): *loṭ*, third person dual; by तस्‌थस्थ— (*tasthastha—*) (पा. सू. ३-४-१०१ (*pā. sū. 3-4-101*)) the substitute *tām*; by पाघ्राध्मा— (*pāghrādhmā—*) (पा. सू. ७-३-७८ (*pā. sū. 7-3-78*)) the substitute *sīda* for the root; owing to the connection with a finite verb the *nighāta* accent.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> प्र॒थ॒मा हि सु॒ वाच॑सा॒ होता॑रा॒ दैव्या॑ क॒वी ।
+> य॒ज्ञं नो॑ यक्षतामि॒मं ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> प्रथमा । हि । सुवाचसा । होतारा । दैव्या । कवी इति ।
+> यज्ञं । नः । यक्षतां । इमं ॥ ७ ॥
+
+> *prathamā | hi | suvācasā | hotārā | daivyā | kavī iti |*
+> *yajñaṃ | naḥ | yakṣatāṃ | imaṃ ‖ 7 ‖*
+
+*[As supplied, a line reading साहित्यभाष्यं (*sāhityabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रथमा । मुख्यनामृतत् । प्रतमौ प्रकृष्टतमौ । हिः प्रसिद्धौ । सुवाचसा
+> प्रियवचनौ दैव्या देवार्हौ होतारा देवानामाह्वातारौ होमनिष्पादकौ ना
+> कवी मेधाविनावेत् नोऽस्मदीयमिमं यज्ञं यक्षतां । यजतां । गच्छतां वा ॥
+
+*Gist:* The two foremost, sweet-voiced, divine hotṛ priests, wise, are to perform this sacrifice of ours.
+
+**Pratipadārtha** (the supplied text breaks off here, at the end of the window)
+
+प्रथमा हि-प्रसिद्धरू, प्रमुखरू (*prathamā hi-prasiddharū, pramukharū*) (famed, foremost). सुवाचसा-प्रियकरवाद वाक्कुळ्ळवरू (*suvācasā-priyakaravāda vākkuḷḷavarū*) (of pleasing speech).
+
 ---
 
-**Progress note:** Done through printed p. 246 (PDF 246). Done through printed p. 246 (Sukta 188 Rik 5 complete; Rik 6 complete through Special Topics begun, breaks off mid-sentence in the naktoshasa note on p. 246); [?] on prabhrih, phritani, a i
+**Progress note:** Done through printed p. 249 (PDF 249). Done through printed p. 249 (Sukta 188 Rik 6 complete; Rik 7 Samhita, Pada, bhashya done; Pratipadartha begun, breaks off after suvacasa)
