@@ -14533,6 +14533,104 @@ In this ṛk Agni in the form of a forest fire is described. As the bodily nouri
 
 *(The supplied text ends here, at the end of the Special Topics of Ṛk 4 on p. 478; Ṛk 5 follows in the next window.)*
 
+### Printed p. 479
+
+*Running head (as supplied): [अ. २. अ. ५. व. २४.] ऋग्वेदसंहिता 479 (*[a. 2. a. 5. va. 24.] ṛgvedasaṃhitā 479*).*
+
+#### Ṛk 5
+
+*[The Saṃhitā and Pada lines are joined. One reading of the Saṃhitā and one of the Pada are marked with a query, as they differ from each other. The Saṃhitā ends its first line with a word printed with the digit for the anusvāra, as supplied. As supplied, the label line of the bhāṣya reads शायणभाष्यं (*śāyaṇabhāṣyaṃ*), inside the Pada block; standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> आ यन्मे॒ अभ्वं॑ व॒नदः॒ पनं॑तो॒तिग्भ्यो॒ [?] नामि॑मीत॒ वर्ण॑० ।
+> स चि॒त्रेण॑ चिकिते॒ रंसु॑ भा॒सा जु॑जु॒र्वा यो मुहु॒रा युवा॒ भूत् ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । यत् । मे । अभ्वं । वनदः । पनंत । उशिक्भ्यः [?] । न । अमिमीत । वर्णं ।
+> सः । चित्रेण । चिकिते । रंसु । भासा । जुजुर्वान् । यः । मुहुः । आ । युवा । भूत् ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यत् यस्याभ्वं महत्त्वं मे मम संबंधिनो वनदो वनंतः संभक्तारः ।
+> यद्वा वनदोऽवनदो भृशं शब्दयंतः स्तोतारः ॥ अवशब्दो भृशार्थवाची ।
+> तत्पूर्वान्नदेः क्विप् । आवाप्योरित्यकारलोपः ॥ अपनंत । समंतात् स्तुवंति ।
+> सोऽग्निरुशिग्गोऽस्मदीयं रूपं कामयमानेभ्य ऋत्विग्गोऽ वर्णं स्वसदृशं
+> रूपं नामिमिता ॥ नशब्दश्चार्थे ॥ निर्मिवीते च । स च रंसु रमणीयेष्वाज्यादिह-
+> विःषु निमित्तेषु चित्रेण भासा हिरण्यकनकादिनानावर्णया दीप्त्या चिकिते । विज्ञा-
+> यते । किंच योऽग्निर्जुजुर्वान् जीर्णः सन् ज्वालोपशमे स एव मुहुः पुनः-
+> पुनरा युवा सर्वतो मिश्रयिता तरुणो वाभूत् । अभवति पुनराज्यादिसंगोगात् ।
+
+*Gist:* Whose greatness my kinsmen praise loudly, who shapes his form for the priests, shines in many colours at oblations, and though ageing becomes young again.
+
+*(The bhāṣya contains short grammatical remarks on the formation of two words; they are transcribed in the block and not explained.)*
+
+*[As supplied, the label line of the Pratipadārtha reads प्रतिसदार्फ् (*pratisadārph*), inside the bhāṣya block, and its lines carry the quote marks of the block; the label is replaced by the standard label and the lines are un-quoted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यत्—याव अग्निय (*yat—yāva agniya*) (of which Agni). अभ्वं—महत्त्ववन्नु (*abhvaṃ—mahattvavannu*) (greatness). मे—नन्न बंधुगळु (*me—nanna baṃdhugaḷu*) (my kinsmen). वनदः—गट्टि यागि शब्द माडिसुत्ता (*vanadaḥ—gaṭṭi yāgi śabda māḍisuttā*) (making loud sound (the word is divided by a line break)). आ पनंत—सुत्तलू स्तुतिसुत्तारॆयो (*ā panaṃta—suttalū stutisuttārèyo*) (they praise all around). सः—आ अग्नियु (*saḥ—ā agniyu*) (that Agni). उशिग्भ्यः— अवन रूपवन्नु नोडबेकॆंदु अपेक्षिसुव ऋत्विक्कुगळिगॆ (*uśigbhyaḥ— avana rūpavannu noḍabekèṃdu apekṣisuva ṛtvikkugaḷigè*) (for the priests who desire to see his form). वर्णं—तन्न रम्यवाद रूपवन्नु (*varṇaṃ—tanna ramyavāda rūpavannu*) (his charming form). नामिमीत—निर्मिसि तोरिसुत्तानॆ (मत्तु) (*nāmimīta—nirmisi torisuttānè (mattu)*) (he creates and shows (and)). रंसु—रमणीयवाद आज्यादि हविस्सुगळन्नु अर्पिसिदाग (*raṃsu—ramaṇīyavāda ājyādi havissugaḷannu arpisidāga*) (when charming oblations such as ghee are offered). चित्रेण—नानारूपवाद (*citreṇa—nānārūpavāda*) (of various forms). भासा—कांतियिंद (*bhāsā—kāṃtiyiṃda*) (with lustre). चिकिते—प्रकाशितनागुत्तानॆ (*cikite—prakāśitanāguttānè*) (he shines). यः—याव अग्नियु (*yaḥ—yāva agniyu*) (which Agni). जुजुर्वान्—जीर्णवागुवनो (अवने) (*jujurvān—jīrṇavāguvano (avane)*) (he who is consumed (that very one)). मुहुः—पुनः पुनः (आज्या हुतिगळन्नु अर्पिसुवुदरिंद) (*muhuḥ—punaḥ punaḥ (ājyā hutigaḷannu arpisuvudariṃda)*) (again and again (by offering ghee oblations)). आ युवा भूत्—तरुणनागि आगुत्तानॆ (*ā yuvā bhūt—taruṇanāgi āguttānè*) (he becomes young).
+
+### Printed p. 480
+
+*Running head (as supplied): [480 सायणभाष्यसहिता [मं. २. अ. १. सू. .४] (*[480 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. .4]*).*
+
+**भावार्थ (Bhāvārtha)**
+
+The Agni whose greatness my kinsmen praise all around with a loud voice shapes and shows his charming form to the priests who desire to see his form; and when charming oblations such as ghee are offered, he shines with a lustre of many forms. When he is being consumed, by the offering of ghee oblations he attains youth again.
+
+**Printed English translation**
+
+Whose greatness my colleagues loudly extol, who has manifested his real form to the priests, who is recognized at oblations by his variegated radiance, and who though frequently growing old, again and again becomes young.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 5)**
+
+अभ्वं वनदः आ पनंत—यस्य महत्त्वं संभक्तारः यद्वा वनदो अवनदो बृशं शब्दयंतः स्तोतारः समंतात् स्तुवंति (*abhvaṃ vanadaḥ ā panaṃta—yasya mahattvaṃ saṃbhaktāraḥ yadvā vanado avanado bṛśaṃ śabdayaṃtaḥ stotāraḥ samaṃtāt stuvaṃti*) (as printed): the word for "great", spelt in the print with the Kannada ending, has been read by Yāska among the names of "great" (नि. ३-१३ (*ni. 3-13*)); here it is used in the sense of Agni's greatness. For the word वनद (*vanada*) the meaning is given that they make the greatness manifest, or that they sound loudly. It is explained that when the priests of the sacrificers praise Agni they make his abundant greatness manifest by hymns, or praise him with a loud voice so that all may know.
+
+उशिग्भ्यः वर्णं नामिमीत (*uśigbhyaḥ varṇaṃ nāmimīta*): the meaning is that Agni creates for the priests who wish to see his own form a form that matches his greatness. The word उशिक् (*uśik*) (with the sense of "desiring") is stated among the names of lustre-acts (नि. ३-९ (*ni. 3-9*)) and is explained by Yāska: उशिग् वष्टेः कांति कर्मणः (*uśig vaṣṭeḥ kāṃti karmaṇaḥ*) (नि ६-१ (*ni 6-1*)).
+
+रंसु-चित्रेण चिकिते (*raṃsu-citreṇa cikite*): it is explained that by the offering of oblations such as ghee this Agni shines with the lustres of charming things such as gold. That is, the purport is that Agni's flames, endowed with many colours such as red, golden and white, are delightful to look at.
+
+जुजुर्वान् मुहुः आ युवा (*jujurvān muhuḥ ā yuvā*)—ज्वालोपशमे जीर्णर्स्स स एव पुनः पुनः मिश्रयिता तरुणो ना भवति (*jvālopaśame jīrṇarssa sa eva punaḥ punaḥ miśrayitā taruṇo nā bhavati*) (as printed): Agni, when his flames subside and he is lustreless, shines again, having attained youth, at the time of receiving oblations (the sentence continues on the next page).
+
+### Printed p. 481
+
+*Running head (as supplied): [अ. २. अ. ५. व. २५ ] ऋग्वेदसंहिता 481 (*[a. 2. a. 5. va. 25 ] ṛgvedasaṃhitā 481*).*
+
+That an old man becomes young is unknown in the world; but Agni, though old many times, shines with youth: thus a contrast is stated. Here Agni, when he is going out, is said to be in old age; but when sticks, wood, ghee, oblations and the like are put on the small embers of the fire and the homa is made, the small fire again becomes great and shines brightly with flames, and this is described here as Agni becoming young again.
+
+#### Ṛk 6
+
+*[One reading of the Saṃhitā is marked with a query, as it differs from the Pada. The stray line "[31] Vol. 14." at the end of the page is kept as an italic note in the Kannada text.]*
+
+**॥ संहितापाठः ॥**
+
+> आ यो वना॑ तातृषा॒णो [?] न भाति॒ वार्ण प॒था रथ्ये॑व स्वानीत्।
+> कृ॒ष्णाध्वा॒ तपू॑ र॒ण्वश्चि॑केत॒ द्यौरि॑व॒ स्मय॑मानो॒ नभो॑भिः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । यः । वना । ततृषाणः । न । भाति । वाः । न । पथा । रथ्या इव । स्वानीत् ।
+> कृष्णाध्वा । तपुः । रण्वः । चिकेत । द्यौः इव । स्मयमानः । नभःभिः ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> योऽग्निर्वना वनानि वृक्षसमूहान् ततृषाणो न तृषित इव । त्वरमाण
+> इत्यर्थः । आभाति । आभासयति । दहतीत्यर्थः । यद्वा वना वने आभाति । किंच वार्ण
+> उदकमिव पथा प्रवणेन मार्गेण गच्छति । तद्वत् इतस्ततो गच्छति । रथ्येव रथस्य
+> वोढाश्व इव स्वानीत् । शब्दयति ! यद्वा रथशब्दात् सोर्ड्यादेशः । यथा रथो
+> युद्धमार्गेण गच्छन् स्वनति तद्वत् । किंच कृष्णाध्वा कृष्णवर्त्मा तपुस्तापको रणो
+> रमणीय एवंभूतः सन् चिकेत । ज्ञायते । प्रकाशत इत्यर्थः । क इव । नभोभि-
+> र्नक्षत्रैः स्वयमानः प्रकाशमानो द्यौरिव द्युलोक इव । यद्वा नभोभिरंतरिक्ष-
+> प्रदेशविशेषैः स्वयमानः शोभमानो द्यौरादित्य इव । नीलवर्णांतरिक्षचार्या-
+> दित्यो यथा ज्ञायते तद्वत् स्वसंचारेण कृष्णीभूते मार्गे ज्ञायते । प्रकाशत
+> इत्यर्थः ॥
+
+*Gist:* Agni, eager, burns the woods, flows like water, sounds like a chariot-horse, is dark-pathed, hot and shines like the sky with stars.
+
+*(The bhāṣya contains an exclamation mark in place of a danda after a word, as printed, and short grammatical remarks; they are transcribed in the block and not explained. The supplied text ends here, after the bhāṣya of Ṛk 6 at the end of p. 481; the Pratipadārtha follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 478 (PDF 478). Mandala 2 Sukta 4 Rik 3 Special Topics and Rik 4 complete
+**Progress note:** Done through printed p. 481 (PDF 481). Mandala 2 Sukta 4 Rik 5 complete; Rik 6 Samhita, Pada and bhasya; three readings marked with a query
