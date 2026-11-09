@@ -9204,6 +9204,109 @@ In the animal sacrifice, when the *vapā* offering is made to Bṛhaspati, this 
 
 ऋत्वियाः (*ṛtviyāḥ*): by छंदसि घस् (*chaṃdasi ghas*) (पा. सू. ५-१-१०६ (*pā. sū. 5-1-106*)) the suffix *ghas* for the word *ṛtu*; by आयनेयीनी — (*āyaneyīnī —*) (पा. सू. ७-१-२ (*pā. sū. 7-1-2*)) the substitute *iya*; by सितिच (*sitica*) (पा. सू. १-४-१६ (*pā. sū. 1-4-16*)) the *pada* designation, as an exception to the *bha* designation, because the suffix is marked *n*, so that by ओर्गुणः (*orguṇaḥ*) (पा. सू. ६-४-१४६ (*pā. sū. 6-4-146*)) guṇa of the *u* does not occur; *yaṇ*; the suffix's first syllable is acute. सचंते (*sacaṃte*) (root षच समवाये (*ṣaca samavāye*)): *s* for the initial; *laṭ*, third person plural; owing to the connection with a finite verb the *nighāta* accent. देवयताम् (*devayatām*): देवान् आत्मनः इच्छंतः देवयंतः तेषाम् (*devān ātmanaḥ icchaṃtaḥ devayaṃtaḥ teṣām*); by सुप आत्मनः क्यच् (*supa ātmanaḥ kyac*) the suffix *kyac*; *laṭ* after it with the participle substitute; genitive plural; since an ending beginning with a vowel follows the participle without *num*, by ततुरनुमो नद्यजादी (*taturanumo nadyajādī*) (पा. सू ६-१-१७३ (*pā. sū 6-1-173*)) it is acute. असर्जि (*asarji*) (root सृज विसर्गॆ (*sṛja visargè*)): *luṅ* in the passive, third person singular, suffix *ta*; by चिण् भावकर्मणोः (*ciṇ bhāvakarmaṇoḥ*) (पा. सू ३-१-६६ (*pā. sū 3-1-66*)) the substitute *ciṇ* for *cli*; on that basis guṇa of the root's penultimate; by चिणोलुक् (*ciṇoluk*) (पा. सू. ६-४-१०४ (*pā. sū. 6-4-104*)) *luk* of the suffix after *ciṇ*; the augment *aṭ*; by यद्वृत्तान्वितम् (*yadvṛttānvitam*) (पा. सू. ८-१-६६ (*pā. sū. 8-1-66*)) because of the connection with *yat* the *nighāta* is prohibited; by the accent of the augment *aṭ* the first syllable is acute. अञ्ज् : (*añj :*) (root अंजू व्यक्तिम्रक्षणकांतिगतिपु (*aṃjū vyaktimrakṣaṇakāṃtigatipu*), as printed): the suffix *ac* applying to all roots; being marked *n*, the first syllable is acute. वरांसि (*varāṃsi*) (root वृञ् वरणे (*vṛñ varaṇe*)): as before the suffix *asun*; on that basis by सार्वधातुका— (*sārvadhātukā—*) guṇa of the root's *ṛ*; accusative plural (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 313
+
+*Running head: [ಆ. ೨. ಆ ೫. ವ. ೧೨] Ṛgveda-saṃhitā 313 (as supplied).*
+
+*(Continuation of the Ṛk 2 grammar page of Sūkta 190, after the *varāṃsi* entry which ended the previous window.)*
+
+विभ्वा (*vibhvā*) (root भू सत्तायां (*bhū sattāyāṃ*)): by विप्रसंभो ड्वसंज्ञायाम् (*viprasaṃbho ḍvasaṃjñāyām*) (पा. सू. ३-२-१८० (*pā. sū. 3-2-180*)) the suffix *ḍu* when *vi* is the prefix; because it is marked *ḍ*, the *ṭi* is dropped; the form *vibhu* results; when *su* follows, by सुपांसुलुक्— (*supāṃsuluk—*) (पा. सू. ७-१-३९ (*pā. sū. 7-1-39*)) the substitute *a* for it; then if *yaṇ* were to come by ओः सुपि (*oḥ supi*) (पा सू ६-४-८३ (*pā sū 6-4-83*)), it is prohibited by नभू सुधियोः (*nabhū sudhiyoḥ*) (पा. सू. ६-४-८५ (*pā. sū. 6-4-85*)); by छंदस्युभयथा (*chaṃdasyubhayathā*) (पा. सू. ६-४-८६ (*pā. sū. 6-4-86*)) *yaṇ* comes again; by *vyatyaya* the first syllable is acute. Or, the Uṇādi suffix *ḍun* after the root *bhū* with *vi*; because it is marked *n*, by इत्यादिर्नित्यम् (*ityādirnityam*) (पा. सू. ६-१-१९७ (*pā. sū. 6-1-197*)) the first syllable is acute.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+*[A figure line of the supplied text, figure vol14/html/figures_p1/fig_1_1_line3456.jpg, viewed (*figure vol14/html/figures_p1/fig_1_1_line3456.jpg, viewed*), was viewed as an image; it repeats the Saṃhitā and Pada of Ṛk 3, agreeing with the machine text apart from one hard-to-read word, marked [?] in the Pada; see the note in the Kannada text.]*
+
+> उप॑स्तुतिं॒ नम॑स॒ उद्य॑तिं च॒ श्लोकं॑ यंसत्सवि॒तेव॒ प्र॒
+> बा॒हू ।
+> अ॒स्य क्रत्वा॑ह॒न्यो॒३॒॑३यो अस्ति॑ मृ॒गो न भी॒मो अ॑र॒क्षस॒स्तु-॑
+> विष्मान् ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+*[The Pada's second word उत्यतिं [?] (*utyatiṃ [?]*) is marked [?].]*
+
+> उपस्तुतिं । नमसः । उत्यतिं [?] । च । श्लोकं । यंसत् । सविताइव । प्र । बाहू
+> इति ।
+> अस्य । क्रत्वा । अहन्यः । यः । अस्ति । मृगः । न । भीमः । अरक्षसः । तुविष्मान् ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अयं बृहस्पतिरुपस्तुतिं यजमानेनोपेत्य क्रियमाणां स्तुतिं नमसो
+> हविर्लक्षणस्यान्नस्योद्यतिमुद्धारं च श्लोकमन्यो यो मंत्रविशेषोऽस्ति तं च
+> प्र यंसत् । प्रकर्षण यतते स्वीकर्तुं । यजमानो वा तत्सर्वं प्रयच्छत्यस्मै !
+> तत्र दृष्टांतः । सवितेव सूर्य इव स यथा स्तोत्रादिकं स्वीकरोति तद्वत् । यज-
+> मानप्रदानपक्षे सविता सर्वस्य प्रसविता सूर्य इव । स यथा बाहुभ्यः प्रकाशादि
+> प्रयच्छति तद्वद्वाहू बाहुभ्यां यजमानोऽपीत्यर्थः । तस्य महत्त्वमाह । अरक्षसः
+
+> *ayaṃ bṛhaspatirupastutiṃ yajamānenopetya kriyamāṇāṃ stutiṃ namaso*
+> *havirlakṣaṇasyānnasyodyatimuddhāraṃ ca ślokamanyo yo maṃtraviśeṣo 'sti taṃ ca*
+> *pra yaṃsat | prakarṣaṇa yatate svīkartuṃ | yajamāno vā tatsarvaṃ prayacchatyasmai !*
+> *tatra dṛṣṭāṃtaḥ | saviteva sūrya iva sa yathā stotrādikaṃ svīkaroti tadvat | yaja-*
+> *mānapradānapakṣe savitā sarvasya prasavitā sūrya iva | sa yathā bāhubhyaḥ prakāśādi*
+> *prayacchati tadvadvāhū bāhubhyāṃ yajamāno 'pītyarthaḥ | tasya mahattvamāha | arakṣasaḥ*
+
+### Printed p. 314
+
+*Running head: [314 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 190] (as supplied).*
+
+> स्वविरोधिरक्षोरहितस्यास्य बृहस्पतेः क्रत्वा कर्मणा सामर्थ्येनाहन्योऽहि साधु-
+> र्यः सूर्योऽस्तिस भीमो न मृग इव भयजनकः सिंहादिरिव भीमो भयहेतुस्तु-
+> विष्मान् बलवान् परिभ्रमतीति शेषः । यस्य माहात्म्येन मंत्राभिमानिनो बृहस्पतेः
+> सामर्थान्मंदेहाद्यसुराञ्चाति तेजस्वी भवति तादृशो महानुभावो यजमान-
+> दत्तं हविरादिकं स्वीकरोतीत्यर्थः ॥
+
+*Gist:* This Bṛhaspati strives to accept the praise offered by the sacrificer, the oblation of food and other mantras, as the sun puts forth his arms; by the power of this Bṛhaspati, who is free of hostile demons, the day-sun shines, terrible as a beast and mighty.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सविता—सूर‍्यनु (*savitā—sūryanu*) (the sun). प्र बाहू इव—तन्न हस्त (किरण)गळन्नु प्रसरिसुवंतॆ (*pra bāhū iva—tanna hasta (kiraṇa)gaḷannu prasarisuvaṃtè*) (as he stretches out his arms, the rays). अयं— ई बृहस्पतियु (*ayaṃ— ī bṛhaspatiyu*) (this Bṛhaspati). उपस्तुतिं—(यजमाननिंद) पठितवाद स्तुतियन्नू (*upastutiṃ—(yajamānaniṃda) paṭhitavāda stutiyannū*) (the praise recited by the sacrificer). नमसः—हवीरूपद अन्नद (*namasaḥ—havīrūpada annada*) (of food in the form of an oblation). उद्यंति—अर्पणॆयन्नू (*udyaṃti—arpaṇèyannū*) (the offering). श्लोकं—इतर विधवाद मंत्रविशेषगळन्नू (*ślokaṃ—itara vidhavāda maṃtraviśeṣagaḷannū*) (other special mantras). प्रयं- सत्—आत्मच्छॆयिंद स्वीकरिसलु प्रयत्निसुत्तानॆ (*prayaṃ- sat—ātmacchèyiṃda svīkarisalu prayatnisuttānè*) (strives to accept willingly; the print has "ಆತ್ಮಚ್ಛೆ", as supplied). अथवा सूर‍्यनु किरणगळन्नु प्रसरिसि प्रकाशवन्नु कॊडुवंतॆ यजमाननू सह तन्न बाहुगळन्नु प्रसरिसि स्तुत्यादिगळन्नु अर्पिसुत्तानॆ (*athavā sūryanu kiraṇagaḷannu prasarisi prakāśavannu kòḍuvaṃtè yajamānanū saha tanna bāhugaḷannu prasarisi stutyādigaḷannu arpisuttānè*) (or, as the sun stretches out his rays and gives light, so the sacrificer too, stretching out his arms, offers praise and the like). अरक्षसः— तनगॆ विरोधिगळाद राक्षसरे इल्लदंतॆ माडिरुव (*arakṣasaḥ— tanagè virodhigaḷāda rākṣasare illadaṃtè māḍiruva*) (who has left no hostile demons). अस्य—ई बृहस्पतिय (*asya—ī bṛhaspatiya*) (of this Bṛhaspati). क्रत्वा—सामर्थ्यदिंद (*kratvā—sāmarthyadiṃda*) (by power). अहन्यः—अहस्सन्नुंटुमाडि प्रकाशिसतक्क (*ahanyaḥ—ahassannuṃṭumāḍi prakāśisatakka*) (the day-shining). यः अस्ति—याव सूर‍्यनिद्दानॆयो (*yaḥ asti—yāva sūryaniddānèyo*) (the sun that exists). (सः— अवनु) (*(saḥ— avanu)*) (he). मृगो न—क्रूरमृगदंतॆ (*mṛgo na—krūramṛgadaṃtè*) (like a fierce beast). भीमः—भयंकरनागियू (*bhīmaḥ—bhayaṃkaranāgiyū*) (terrible). तुविष्मान्—बलशालि यागियू आगिद्दानॆ (*tuviṣmān—balaśāli yāgiyū āgiddānè*) (and mighty).
+
+*[As supplied, the label line reads धनार्थ (*dhanārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+As the sun stretches out his rays, this Bṛhaspati strives to accept willingly the praise recited by the sacrificer, the food offered by him and other special mantras. By the power of this Bṛhaspati, who has left no hostile demons, the sun who makes and shines by day is terrible as a fierce beast and mighty.
+
+*[As supplied, the label line reads Englih Tranlation (*Englih Tranlation*); standard label inserted.]*
+
+**Printed English translation**
+
+He is ready (to accept) the offered praise, the presentation of the homage. the hymn, as the sun (is ready to put forth) his rays ; by the acts of him whom the Rakshasas (oppose not), the daily (revolving sun) exists, and he is strong as a fearful beast of prey.
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3)**
+
+For the first half of this ṛk Sāyaṇa has given two kinds of meaning: this Bṛhaspati, hearing the praise made by the sacrificer seated near, accepts the oblation of food in the form of an offering which the sacrificer presents with outstretched hands, and the mantra in the form of praise, as the sun accepts praise and the like
+
+### Printed p. 315
+
+*Running head: [ಅ: ೨. ಅ. ೫ ನ. ೧೨] Ṛgveda-saṃhitā 315 (as supplied; the print has "ನ." for the varga sign).*
+
+— this is one sense. Or: while this sacrificer praises Bṛhaspati, as the sun, the cause of the whole world, gives light, heat and the like to the people of the world with his rays that are like arms, so this sacrificer too offers with outstretched hand oblations of food and other mantras in the form of praise to Bṛhaspati: this is the other sense. Both senses are possible here.
+
+In the latter half Bṛhaspati's power and prowess are described. अरक्षसः (*arakṣasaḥ*) means one who has no hostile demons, that is, none among the demons has the strength and power to face this Bṛhaspati; तुविष्मान् (*tuviṣmān*) means very mighty; मृगो न भीमः (*mṛgo na bhīmaḥ*) means of a terrible might like beasts such as the lion. The giving of the simile मृगो न भीमः (*mṛgo na bhīmaḥ*) to one of great prowess occurs in many places in the Ṛgveda:
+
+प्र तद्विष्णुस्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः । (*pra tadviṣṇustavate vīryeṇa mṛgo na bhīmaḥ kucaro giriṣṭhāḥ |*)
+(ऋ. सं. १-१५४-२) (*(ṛ. saṃ. 1-154-2)*)
+
+मृगो न हस्ती तविषीमुषाणः सिंहो न भीमः आयुधानि बिभ्रत् ॥ (*mṛgo na hastī taviṣīmuṣāṇaḥ siṃho na bhīmaḥ āyudhāni bibhrat ‖*)
+(ऋ. सं. ४-१६-१४) (*(ṛ. saṃ. 4-16-14)*)
+
+अश्वो न क्रदो वृषभिर्युजानः सिंहो न भीमो मनसो जवीयान् । (*aśvo na krado vṛṣabhiryujānaḥ siṃho na bhīmo manaso javīyān |*)
+(ऋ. सं. ९-९७-२८) (*(ṛ. saṃ. 9-97-28)*)
+
+आशु: शिशानो वृषभो न भीमो घनाघनः क्षोभणश्चर्षणीनां ॥ (*āśu: śiśāno vṛṣabho na bhīmo ghanāghanaḥ kṣobhaṇaścarṣaṇīnāṃ ‖*)
+(ऋ सं. १०-१०३-१) (*(ṛ saṃ. 10-103-1)*)
+
+In these and other ṛks the word *bhīma* is used in the sense of terrible prowess, with the simile of strong beasts such as the lion and the bull.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 3, noted briefly)
+
+नमसः (*namasaḥ*) (root णमु प्रह्वत्वे शब्दे च (*ṇamu prahvatve śabde ca*)): by नोनः (*nonaḥ*) *n* for the initial; the Uṇādi suffix *asun*; because it is marked *n*, the first syllable is acute; genitive singular. यंसत् (*yaṃsat*) (root यम उपरमे (*yama uparame*)): *leṭ*, third person singular; by सिब्बहुलं लेटि (*sibbahulaṃ leṭi*) (वा. सू. ३-१-३४ (*vā. sū. 3-1-34*), as printed) *sip*; by तिज्जतिजिः (*tijjatijiḥ*) (as printed) the *nighāta* accent. बाहू (*bāhū*): by *vyatyaya* the nominative dual has been substituted for the instrumental dual; by the suffix accent the last syllable is acute. अहन्यः (*ahanyaḥ*): अह्नि भवः (*ahni bhavaḥ*) (one who is in the day); the suffix *yat* in the sense of the state; because it is marked *t*, by तित्स्वरितम् (*titsvaritam*) (पा सू ६-१-१८५ (*pā sū 6-1-185*)) it takes the svarita accent (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 311 (PDF 311). Sukta 190 Rik 1 complete with grammar page; Rik 2 complete through Special Topics and begun grammar page (breaks off at the varamsi entry); printed p. 312 header appears inside the p. 311 text
+**Progress note:** Done through printed p. 315 (PDF 315). Sukta 190 Rik 2 grammar page complete; Rik 3 complete through Special Topics and begun grammar page (breaks off at ahanyah); figure line viewed; [?] on one Pada word
