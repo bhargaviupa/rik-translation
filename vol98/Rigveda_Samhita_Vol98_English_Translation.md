@@ -1636,6 +1636,91 @@ After Prajāpati had created all the creatures, all the joints of his body becam
 
 (the supplied text breaks the Kannada sentence off at "ದೇವತೆಗಳೆಲ್ಲರ", and the Sanskrit continues in the next line.) When the joints had been put right, Prajāpati received this food in the form of the Mahāvratīya graha. What is food for Prajāpati and for the creatures created by him is food in the form of *vrata* for the gods also. Because it has the greatness of putting right the bodily distress even of Prajāpati and making him vigorous, the name Mahāvrata became famous for it: so its praise says. What the characteristic of such a great Mahāvrata is, is told very extensively in the Aitareya Āraṇyaka. As it is not possible to give the explanation fully here, it will be told briefly. The special points will be told later.
 
+### Printed p. 56
+
+*Running head: [56 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 185]. The window begins inside the Special Topics of Ṛk 1, continuing the account of the Mahāvrata from p. 55.*
+
+अथ महाव्रतं । इंद्रो वै वृत्रं हत्वा महानभवद्यन्महानभवत्तन्महाव्रत- (*atha mahāvrataṃ | iṃdro vai vṛtraṃ hatvā mahānabhavadyanmahānabhavattanmahāvrata-*)
+मभवत्तन्महाव्रतस्य महाव्रतत्वं । (*mabhavattanmahāvratasya mahāvratatvaṃ |*)
+
+(Aitareya Āraṇyaka 1-1 [as printed "ಐತರೇಯ ಆರಣ್ಯಕಂ"])
+
+Indra killed Vṛtra and manifested his greatness. Afterwards the Mahāvrata, which celebrates that greatness, began; therefore the rite called Mahāvrata also got this name. The story-context that, by this rite in the form of the slaying of the asura Vṛtra, the name Mahendra too became famous for Indra is explained by sentences such as “ इंद्रो वै वृत्रं हत्वा . . . . यन्महानिंद्रोऽभवत्तन्म- हेंद्रस्यमहेंद्रत्वं ” (*“ iṃdro vai vṛtraṃ hatvā . . . . yanmahāniṃdro 'bhavattanma- heṃdrasyamaheṃdratvaṃ ”*) in the Aitareya Brāhmaṇa also (12-10) and in the Taittirīya Saṃhitā (6-5-5-3). Although the Aitareya Āraṇyaka by the sentence “ तन्महाव्रतस्य महाव्रतत्वं ” (*“ tanmahāvratasya mahāvratatvaṃ ”*) states the context that celebrates Indra's greatness, Sāyaṇa, in giving his commentary in this context, has given the derivation stated in the Taittirīya Brāhmaṇa. As in the Śatapatha sentences cited above the context of the offering of the Mahāvrata for relieving Prajāpati's exhaustion is described, the Taittirīya Brāhmaṇa also tells the same matter. The order of that account is as follows, and is somewhat different from the Śatapatha account:
+
+प्रजापतिः प्रजाः सृष्ट्वा वृत्तोऽशयत् । तं देवा भूतानाग्ं रसं तेजः (*prajāpatiḥ prajāḥ sṛṣṭvā vṛtto 'śayat | taṃ devā bhūtānāgṃ rasaṃ tejaḥ*)
+संभृत्य । तेनैनमभिषज्यन् । महानववर्तीति । तन्महाव्रतस्य महाव्रतत्त्वं । (*saṃbhṛtya | tenainamabhiṣajyan | mahānavavartīti | tanmahāvratasya mahāvratattvaṃ |*)
+महद्व्रतमिति । तन्महाव्रतस्य महाव्रतत्वं । महतो व्रतमिति । तन्महाव्रतस्य (*mahadvratamiti | tanmahāvratasya mahāvratatvaṃ | mahato vratamiti | tanmahāvratasya*)
+महाव्रतत्वं ॥ (*mahāvratatvaṃ ‖*)
+
+(Tai. Brā. 1-2-6-1)
+
+In this account it is told that Prajāpati, calmed after the work of creation, fell down exhausted; the gods acquired the brilliance that is the essence of all creatures and by its help relieved his exhaustion; therefore Prajāpati became great. This brilliance, which is the essence, is the oblation offered at the time of the Mahāvrata; thus it is explained why the Mahāvrata became famous under this name.
+
+महानवर्तिष्ट अनेन कर्मणा इति व्युत्पत्ता तस्य कर्मणः महाव्रतमिति नाम (*mahānavartiṣṭa anena karmaṇā iti vyutpattā tasya karmaṇaḥ mahāvratamiti nāma*)
+संपन्नं । यद्वा कर्मणोऽस्य महाफलहेतुत्वेन महत्वान् महच्च (*saṃpannaṃ | yadvā karmaṇo 'sya mahāphalahetutvena mahatvān mahacca*)
+तद्व्रतमिति तद्व्युत्पत्तिः । अथवा महतः प्रजापतेरौषधरूपत्वान्महतो (*tadvratamiti tadvyutpattiḥ | athavā mahataḥ prajāpaterauṣadharūpatvānmahato*)
+व्रतमिति व्युत्पत्तिः ॥ (*vratamiti vyutpattiḥ ‖*)
+
+### Printed p. 57
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2. Ṛgveda-saṃhitā 57.*
+
+Sāyaṇa says that the rite has the name Mahāvrata either because the purport is that by the rite of offering oblations Prajāpati became great, or because it is a rite that has the capacity to give great fruit and fitness of nature, or because it is a medicine for Prajāpati, who became great. At the time of such a Mahāvrata the recitation of the present sūkta is prescribed. This itself
+
+कतरा पूर्वा कतरापरायोरिति द्यावापृथिवीयं समानोदर्कं समानो- (*katarā pūrvā katarāparāyoriti dyāvāpṛthivīyaṃ samānodarkaṃ samāno-*)
+दर्कं ना एतदहरेतस्याह्नो रूपं ॥ (*darkaṃ nā etadaharetasyāhno rūpaṃ ‖*)
+
+(Ai. Ā. 1-5-3 [as printed "ಇ. ಆ."])
+
+is told in these sentences. The explanation of the present ṛk by the Nirukta authors is as follows:
+
+कतरा पूर्वा कतरापरा । एनयोः कथं जाते कवयः क एने (*katarā pūrvā katarāparā | enayoḥ kathaṃ jāte kavayaḥ ka ene*)
+विजानाति । सर्वमात्मना बिभृतो यद्धैनयोः कर्म विवर्तेते (*vijānāti | sarvamātmanā bibhṛto yaddhainayoḥ karma vivartete*)
+चैनयोरहनी अहोरात्रे चक्रियेव चक्रयुक्ते इवेति द्यावा- (*cainayorahanī ahorātre cakriyeva cakrayukte iveti dyāvā-*)
+पृथिव्योर्महिमानमाचष्ट आचष्टे (*pṛthivyormahimānamācaṣṭa ācaṣṭe*)
+
+(Ni. 2-22 [the print has Telugu letters and numerals here; see the Kannada text])
+
+This says: Which is the earlier of these two deities? What is the order of their origin? O seers, which of you knows this secret? These two are the support of all the beings of the universe. Like the two wheels of a chariot, day and night revolve continuously around them. Durgācārya, explaining “ कतरा पूर्वा कतरा अपरा ” (*“ katarā pūrvā katarā aparā ”*), says “ किं पौर्वापर्येण, उत युगपत् भवेतां ” (*“ kiṃ paurvāparyeṇa, uta yugapat bhavetāṃ ”*): the question is whether one was born after the other or both were born together. In regard to the origin of these deities sometimes wonder, sometimes an uncertain conjecture, is natural.
+
+किं स्विध्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्ठ तक्षुः । (*kiṃ svidhvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣṭha takṣuḥ |*)
+संतस्थाने अजरे इत ऊती अहानि पूर्विरुषसो जरंत ॥ (*saṃtasthāne ajare ita ūtī ahāni pūrviruṣaso jaraṃta ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 10-31-7)
+
+The seer expresses his wonder, mixed with praise: from what forest and from what trees were these Heaven and Earth fashioned, which stand indestructible, unbroken and steady while countless days and dawns roll by? The curiosity expressed in the ṛk “ क्विं स्विध्वनं ” (*“ kviṃ svidhvanaṃ ”*) (Ṛ. Saṃ. 10-31-7) is indicated in many other places too. In some places the fitting answer is also stated. For example,
+
+### Printed p. 58
+
+*Running head: [58 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185].*
+
+किंस्विदासीदधिष्ठानमारंभणं कथमत्सित्कथासीत् । (*kiṃsvidāsīdadhiṣṭhānamāraṃbhaṇaṃ kathamatsitkathāsīt |*)
+यतो भूमिं जनयन् विश्वकर्मा वि द्यामौर्णेन्महिना विश्वचक्षाः ॥ (*yato bhūmiṃ janayan viśvakarmā vi dyāmaurṇenmahinā viśvacakṣāḥ ‖*)
+
+(Ṛ. Saṃ. 10-81-2)
+
+it is asked what was the basis for the making of these for Viśvakarman, who has all-seeing eyes, who created the earth and spread out the atmosphere. As the answer to this,
+
+किग्ग् स्विध्वनं क उ स वृक्ष आसीत् । यतो द्यावापृथिवी निष्कृतक्षुः । मनीषिणो (*kigg svidhvanaṃ ka u sa vṛkṣa āsīt | yato dyāvāpṛthivī niṣkṛtakṣuḥ | manīṣiṇo*)
+मनसा पृच्छतेदु तत् । यदध्यतिष्ठद्भुवनानि धारयन् । ब्रह्म वनं ब्रह्म (*manasā pṛcchatedu tat | yadadhyatiṣṭhadbhuvanāni dhārayan | brahma vanaṃ brahma*)
+स वृक्ष आसीत् । यतो द्यावापृथिवी निष्कृतक्षुः । मनीषिणो मनसा विब्र- (*sa vṛkṣa āsīt | yato dyāvāpṛthivī niṣkṛtakṣuḥ | manīṣiṇo manasā vibra-*)
+वीमि वः । ब्रह्माध्यतिष्ठद्भुवनानि धारयन् ॥ (*vīmi vaḥ | brahmādhyatiṣṭhadbhuvanāni dhārayan ‖*)
+
+(Śai. Brā. 2-8-9-6-7 [as printed "ಶೈ. ಬ್ರಾ."])
+
+the Taittirīya Brāhmaṇa says that for the creation of these Heaven and Earth Brahman (the imperishable thing called Brahman) is the forest, and Brahman is the tree; from it comes their creation.
+
+कवयः (*kavayaḥ*) — क्रांतदर्शन: (*krāṃtadarśana:*) अतींद्रियज्ञाः (*atīṃdriyajñāḥ*): in this way he has given the sense of the word *kavi*. Having cited the sentence of the Nirukta authors मेधावी कविः क्रांतदर्शनो भवति कवतेर्वा ” (*medhāvī kaviḥ krāṃtadarśano bhavati kavatervā ”*) (Ni. 12-13), the derivation of the word *kavi* was told earlier. What the nature and the power of a *kavi* are, and to tell what nature and powers the word *kavi* is used in the Ṛksaṃhitā, was also told earlier subtly. In the present ṛk it is asked: "who has known the secret of Heaven and Earth, which reflect the principle of the universe?" and with “ कवयः, को विवेद ” (*“ kavayaḥ, ko viveda ”*) it is asked: "O seers who know what is beyond the senses, who has fully known this principle?" That is, this secret is not to be understood by a merely ordinary and physical view. To pierce and understand this secret there must be an extraordinary power of fitness. He who has such an extraordinary power of vision is called a *kavi*.
+
+समानं नीळं वृषणो वसानाः सं जग्मिरे महिषा अर्वतीभिः । (*samānaṃ nīḷaṃ vṛṣaṇo vasānāḥ saṃ jagmire mahiṣā arvatībhiḥ |*)
+यतस्य पदं कवयो नि पांति गुहा नामानि दधिरे पराणि । (*yatasya padaṃ kavayo ni pāṃti guhā nāmāni dadhire parāṇi |*)
+
+(Ṛ. Saṃ. [printed ಪು. ಸಂ.] 10-5-2)
+
+In ṛks like this the true nature of the *kavi* is described. The *kavi*s, having entered the path of *ṛta*, hold in the most hidden heart the names of the highest secret; and they make it manifest and make it known to the world: so it is described; that is, hidden and concealed, of the world… (the sentence is cut off at the end of the window).
+
+*[The window ends here, mid-sentence.]*
+
 ---
 
-**Progress note:** Done through printed p. 55 (PDF 55). Sukta 185 Rik 1 Special Topics: Abhiplava-shadaha, Mahavrata, Mahaduktha, Agnicit (Kaushitaki, Aitareya, Shatapatha); continues on next page
+**Progress note:** Done through printed p. 58 (PDF 58). Sukta 185 Rik 1 Special Topics: Mahavrata derivations, Nirukta and Durga on the Rik, kavi (continues on next page)
