@@ -2308,6 +2308,74 @@ Standing on the east of the kindled (fire), dispensing food (as the source) of u
 
 समिद्धस्य श्रयमाणः पुरस्तात् (*samiddhasya śrayamāṇaḥ purastāt*) — दीप्यमानस्याहवनीयाग्नेः प्राच्यां दिशि वर्तमानः (*dīpyamānasyāhavanīyāgneḥ prācyāṃ diśi vartamānaḥ*) (being in the east of the kindled Āhavanīya fire). In the sacrificial hall the fire is divided and set in three places. Gārhapatya, (the passage stops at the end of this page and continues on the next page).
 
+### Printed p. 83
+
+*[Running head, p. 83: Aṣṭaka 3, Adhyāya 1, Varga 3 — Ṛgveda-saṃhitā — 83]*
+
+(Special Topics of Ṛk 2, continued from p. 82.) Gārhapatya, Āhavanīya and Dakṣiṇāgni are the names of these three fires. Of these, the fire called Āhavanīya is well kindled in the eastern part of the vedi. The meaning is that the yūpa stands to the east of it.
+
+अजरं (*ajaraṃ*) — जरारहितं समृद्धं (*jarārahitaṃ samṛddhaṃ*) (free from decay, prosperous). The author of the Nirukta explains the word ajara as अजरणधर्माणं (*ajaraṇadharmāṇaṃ*) (as supplied), "that which does not grow old" (Ni. 4-27). Sāyaṇa too gives the meaning "that which is free from old age and is increasing (prosperous)".
+
+सुवीरं (*suvīraṃ*) — The author of the Nirukta (the supplied text prints निमुक्तकाररु (*nimuktakāraru*), evidently a misprint for Nirukta-kāra) explains the word vīra: वीरवंतः कल्याणवीरा वा वीरो वीरयत्यमित्रान् वेतेर्वा स्याद्गतिकर्मणः वीरयतेर्वा (*vīravaṃtaḥ kalyāṇavīrā vā vīro vīrayatyamitrān vetervā syādgatikarmaṇaḥ vīrayatervā*) (Ni. 1-7): one who harasses enemies in many ways, one who marches against the enemies, one endowed with valour. In
+
+वनस्पते वीड्वंगो हि भूया अस्मत्सखा प्रतरणस्सुवीरः (*vanaspate vīḍvaṃgo hi bhūyā asmatsakhā prataraṇassuvīraḥ*) (Ṛ. Saṃ. 6-47-26, as given in the supplied text, "ಮ. ಸಂ.")
+
+the meaning "suvīra = of good valour" is given. Durgācārya explains it as "one who is not timid, who does not fall under the control of others". Sāyaṇa here takes the word as an adjective of the word brahma and explains शोभनापत्ययुक्तं (*śobhanāpatyayuktaṃ*) as food that produces excellent sons.
+
+ब्रह्म (*brahma*) — food. The word brahman is listed among the names of food (Ni. 3-7) and among the names of wealth (Ni. 3-9). Here the meaning "food" is given, and it is prayed that the fire within the yūpa, spoken of by the word vanaspati, should produce such food. Further: "driving away our enemy" (अस्मदमतिं बाधमानः (*asmadamatiṃ bādhamānaḥ*)) means destroying the sacrificers' enemy called hunger; "for great good fortune" (महते सौभगाय (*mahate saubhagāya*)) means "be capable of producing exceptional wealth"; thus it is invoked. The Aitareya Brāhmaṇa passage explains the purport of this Ṛk (the passage is given in the bhāṣya also; the supplied text prints it in Kannada script, with the readings ब्रह्मवन्वानो आजरं (*brahmavanvāno ājaraṃ*) and बाधदान (*bādhadāna*) as supplied, which differ from the Sanskrit bhāṣya above, ब्रह्म वन्वानो अजरं and बाधमानः):
+
+समिद्धस्य श्रयमाणः पुरस्तादिति समिद्धस्य ह्येष एतत् पुरस्ताच्छ्रयते (*samiddhasya śrayamāṇaḥ purastāditi samiddhasya hyeṣa etat purastācchrayate*) ब्रह्मवन्वानो आजरं सुवीरमित्याशिषमेवाशास्त्र आरे अस्मदमतिं (*brahmavanvāno ājaraṃ suvīramityāśiṣamevāśāstra āre asmadamatiṃ*) बाधदान इत्यशनाया वै पाप्मामतिस्तामेव तदारान्नुदते (*bādhadāna ityaśanāyā vai pāpmāmatistāmeva tadārānnudate*) इत्याशिषमेवाशास्त्रे (*ityāśiṣamevāśāstre*) (Ai. Brā. 2-2, as printed इ. ब्रा. २-२ (*i. brā. 2-2*)). (Meaning: it asks the blessing for the sacrificer; hunger is the sinful enemy; the yūpa drives it far from the sacrifice and the sacrificer.)
+
+**Vyākaraṇa-prakriyā**
+
+Grammar notes (pp. 83–85), noted briefly. On p. 83: समिद्धस्य (*samiddhasya*), printed समिद्दस्य (*samiddasya*) in the supplied text: prefix sam, root इइंधी दीप्तौ (*iiṃdhī dīptau*), the past participle suffix (nishthā, Pā. 3-2-102); because the root has long ī marked (ītit) the augment iṭ does not come (Pā. 7-2-14, on p. 84).
+
+### Printed p. 84
+
+*[Running head, p. 84: 84 Sāyaṇabhāṣyasahitā — Maṃ. 3, A. 1, Sū. 8]*
+
+(Grammar notes, continued.) Loss of the nasal of the root, dh for t of the suffix (jhaṣastathoḥ), the gati takes the udātta (Pā. 9-2-49, as printed). श्रयमाणः (*śrayamāṇaḥ*): root śriñ sevāyām, śānac for laṭ, śap, guṇa, ayādeśa, muk augment (Pā. 7-2-82), ṇatva; the root accent remains (Pā. 6-1-186). पुरस्तात् (*purastāt*): the suffix astāti (Pā. 5-3-27), substitute pura for pūrva (Pā. 5-3-40). ब्रह्म (*brahma*): initial udātta by the Phiṭ rule 29 (as printed). वन्वानः (*vanvānaḥ*): root vanu yācane, used here in the sense of giving (the supplied text says दीनार्थ (*dīnārtha*), as supplied); śānac; final udātta (Pā. 6-1-183). अजरम् (*ajaram*): Pā. 6-2-116, initial udātta of the latter member. सुवीरम् (*suvīram*): Pā. 6-2-120. आरे (*āre*): from the group evamādi, final udātta. अस्मत् (*asmat*): Uṇ. 1-136, suffix madik; luk of the case ending. अमतिम् (*amatim*): negative tatpuruṣa, Pā. 6-2-2, accent of the first member. उत् (*ut*): nipāta, initial udātta. श्रयस्व (*śrayasva*): root śriñ sevāyām, loṭ, thās, replaced by se (supplied as पा. दू. ३-४-८० (*pā. dū. 3-4-80*)), then va for e (Pā. 3-4-91 on the next page), guṇa and ayādeśa, nighāta accent as it follows a non-verb... (as supplied: it stands after a finite verb-form).
+
+### Printed p. 85
+
+*[Running head, p. 85: Aṣṭaka 3, Adhyāya 1, Varga 3 — Ṛgveda-saṃhitā — 85]*
+
+(Grammar notes, concluded.) महते (*mahate*): root maha pūjāyām; Uṇ. 2-2-41, "mahat" is made by nipāta, hence final accent; the case ending in the dative singular is udātta by the vārttika on bṛhat and mahat. सौभगाय (*saubhagāya*): the suffix añ (Pā. 5-1-129), vṛddhi of the first member (Pā. 7-3-19), but vṛddhi of the latter member does not occur, since all rules are optional in the Veda; initial udātta; a form of the dative singular.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> उच्छ्र॑यस्व वनस्पते॒ वर्ष्म॑न्पृथि॒व्या अधि॑ ।
+> सुमि॑ती मी॒यमा॑नो॒ वर्चो॑ धा य॒ज्ञवा॑हसे ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> उत् । श्रयस्व । वनस्पते । वर्षन् । पृथिव्याः । अधि ।
+> सुमिती । मीयमानः । वर्चः । धाः यज्ञवाहसे ॥ ३ ॥
+
+**Sāyaṇa-bhāṣya** (begun on this page; the sense is quoted from the Brāhmaṇa)
+
+> हे वनस्पते यूप पृथिव्या अधि पृथिव्यां वर्ष्मन् उत्कृष्टे देवयज-
+> नाख्ये देश उच्छ्रयस्व । उच्चैतो भव । सुमिती शोभमानिया बुद्धा अथवा
+> शोभनेन परिमाणेन मीयमान इयत्तया परिच्छिद्यमानस्य यज्ञवाहसे
+> यज्ञनिर्वाहकाय यजमानाय वर्चो धाः । अन्नं धेहि । अयमेवार्थो
+> ब्राह्मणेन दर्शितः । उच्छ्रयस्व वनस्पत इत्युच्छ्रियमाणायाभिरूपा यद्यज्ञेऽभि-
+> रूपं तत्समृद्धं । वर्ष्मन्पृथिव्या अधीत्येतद्वै वर्ष पृथिव्यै यत्र यूपमुन्नि-
+> न्वंति सुमिती मीयमानो वर्चो धा यज्ञवाहस इत्याशिषमाशास्ते । ऐ. प्रा.
+> २-२ ॥ वनस्पते । अपादादित्वादाष्टमिकमनुदात्तत्वं । पृथिव्याः । उदात्तयणो
+
+> *he vanaspate yūpa pṛthivyā adhi pṛthivyāṃ varṣman utkṛṣṭe devayaja-*
+> *nākhye deśa ucchrayasva | uccaito bhava | sumitī śobhamāniyā buddhā athavā*
+> *śobhanena parimāṇena mīyamāna iyattayā paricchidyamānasya yajñavāhase*
+> *yajñanirvāhakāya yajamānāya varco dhāḥ | annaṃ dhehi | ayamevārtho*
+> *brāhmaṇena darśitaḥ | ucchrayasva vanaspata ityucchriyamāṇāyābhirūpā yadyajñe 'bhi-*
+> *rūpaṃ tatsamṛddhaṃ | varṣmanpṛthivyā adhītyetadvai varṣa pṛthivyai yatra yūpamunni-*
+> *nvaṃti sumitī mīyamāno varco dhā yajñavāhasa ityāśiṣamāśāste | ai. prā.*
+> *2-2 ‖ vanaspate | apādāditvādāṣṭamikamanudāttatvaṃ | pṛthivyāḥ | udāttayaṇo*
+
+(Gist: O yūpa, vanaspati, rise up on the earth in the excellent sacrificial place; being well measured, bestow food on the sacrificer. The bhāṣya continues on the next page; its grammatical tail begins with वनस्पते (*vanaspate*) and पृथिव्याः (*pṛthivyāḥ*).)
+
 ---
 
-**Progress note:** Done through printed p. 82 (PDF 82). Sukta 8 Rk 2 (Saṃhitā, Pada, bhasya, Pratipadartha, Bhavartha, English) and Special Topics begun; p. 82 marker/blocks repaired (see work/w0079/repair_log.txt). Special Topics stops at 'Gārhapatya.'
+**Progress note:** Done through printed p. 85 (PDF 85). Done through printed p. 85. Sukta 8 Rk 2 Special Topics and grammar complete; Rk 3 Samhita, Pada and start of bhasya on p. 85 (bhasya continues).
