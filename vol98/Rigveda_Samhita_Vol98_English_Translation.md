@@ -8584,6 +8584,95 @@ Agni, born for sacrifice, (a man) praising you, who are excellent, for (the sake
 
 (The Special Topics of Ṛk 6 follow in the next window.)
 
+### Printed p. 291
+
+*Running head: [Ā. 2. A. 5. Va. 11] Ṛgveda-saṃhitā 291 (as supplied).*
+
+*[As supplied, the label line of the Special Topics of Ṛk 6 reads विशेषयुक्त: (*viśeṣayukta:*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 6)**
+
+ऋतजात (*ṛtajāta*) — the word *ṛta* has many senses; here the bhāṣyakāra takes it as "sacrifice" and explains that Agni is addressed as "one born for that sacrifice".
+
+वरूथं (*varūthaṃ*) — since the word *varūtha* is read among the names of house (नि. ३-१३ (*ni. 3-13*)), the word means "house"; but this word, formed from the root वृञ्-वरणे (*vṛñ-varaṇe*) (*svādi*, *ubhayapadi*), gives the sense "to be chosen", that is, desired by all; in this sense it is used here as an epithet of Agni (त्वां (*tvāṃ*)).
+
+रिरिक्षोः (*ririkṣoḥ*) — हिंसितुमिच्छोश्चोरादेः सकाशात् (*hiṃsitumicchoścorādeḥ sakāśāt*): from wicked people such as thieves who desire to do harm.
+
+निनित्यो8 [?] (*ninityo8 [?]*) (the print reads thus, with a Latin *8*; marked [?], *ninitsoḥ* is meant) — from hostile people who desire to revile.
+
+अभिह्रुतां (*abhihrutāṃ*) — the sense is wicked people who chiefly try to deceive by other means.
+
+*[As supplied, the label line reads व्यक्तप्रक्रिया (*vyaktaprakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 6, noted briefly)
+
+त्वावान् (*tvāvān*): the word *yuṣmad*; when the suffix *matup* comes, by आ सर्वनाम्नः (*ā sarvanāmnaḥ*) (पा. सू. ६-३-९१ (*pā. sū. 6-3-91*)) *ā* for the *d*; by प्रत्ययोत्तरपदयोश्च (*pratyayottarapadayośca*) (पा. सू. ८-३-३ (*pā. sū. 8-3-3*), as printed) the substitute *tvā* up to the *m*; lengthening; since *matup* is marked *p*, it is unaccented and the nominal accent remains; by दीर्घादट समानपादे (*dīrghādaṭa samānapāde*) *ru* for the *n*; by अतोटिनित्यम् (*atoṭinityam*) nasalisation of the preceding *ā*. यंसत् (*yaṃsat*) (root यम उपरमे (*yama uparame*)): *leṭ*, third person singular, *tip*; by इतश्च लोपः (*itaśca lopaḥ*) (पा. सू. ३-४-९७ (*pā. sū. 3-4-97*)) the final *i* is dropped; by लेटोडाट् (*leṭoḍāṭ*) (पा. सू. ३-४-९४ (*pā. sū. 3-4-94*)) the augment *aṭ*; by सिब्बहुलंलेटि (*sibbahulaṃleṭi*) (पा. सू. ३-१-३४ (*pā. sū. 3-1-34*)) *sip*; the root's *m* becomes *anusvāra* owing to *s*; the verb-*nighāta* accent. वरूथम् (*varūtham*) (root वृञ् वरणे (*vṛñ varaṇe*)): by जृ वृञ्भ्यामूथन् (*jṛ vṛñbhyāmūthan*) (उ. सू. २-१६३ (*u. sū. 2-163*)) the suffix *ūthan*; by सार्वधातुकार्थधातुकयोः (*sārvadhātukārthadhātukayoḥ*) guṇa of the root's *ṛ* with *r*; the suffix being marked *n*, by इत्त्यादिर्नित्यम् (*ittyādirnityam*) the first syllable is acute. रिरिक्षोः (*ririkṣoḥ*): रिरिक्षतीति रिरिक्षुः (*ririkṣatīti ririkṣuḥ*), root रिष हिंसायां (*riṣa hiṃsāyāṃ*); by धातोःकर्मणः समा— (*dhātoḥkarmaṇaḥ samā—*) (पा. सू ३-१-७ (*pā. sū 3-1-7*)) *san* in the sense of wishing; on account of *san* reduplication of the root; by सनाशंसभिक्षउः (*sanāśaṃsabhikṣauḥ*)
+
+### Printed p. 292
+
+*Running head: [292 Sāyaṇa-bhāṣya-sahitā [Maṃ. . A. 24. Sū. 189] (as supplied; the print has a blank where the maṇḍala numeral belongs).*
+
+(पा. सू. ३-२-१६८ (*pā. sū. 3-2-168*)) the suffix *u* in the agent sense after the desiderative stem; by अतोलोपः (*atolopaḥ*) (पा. सू. ६-४-४८ (*pā. sū. 6-4-48*)) the *a* of *san* is dropped; by the suffix accent the last syllable is acute; ablative singular. निनित्सोः (*ninitsoḥ*) (root णिदि कुत्सायां (*ṇidi kutsāyāṃ*)): by नोनः (*nonaḥ*) (पा. सू. ६-१-६५ (*pā. sū. 6-1-65*)) *n* for the initial; *san* as before; the suffix *u* after the desiderative. अभिह्रुताम् (*abhihrutām*) (root ह्रु कौटिल्ये (*hru kauṭilye*)): the suffix *kvip*; by ह्रस्वस्य पितिकृतितुक् (*hrasvasya pitikṛtituk*) (पा. सू. ६-१-७१ (*pā. sū. 6-1-71*)) the augment *tuk*; the accent of the first member of the *kṛt* compound; genitive plural.
+
+*[A figure line of the supplied text, viewed as an image, shows the headings, Saṃhitā and Pada of Ṛk 7 with accent marks: figure vol14/html/figures_p1/fig_1_1_line2604.jpg, viewed (*figure vol14/html/figures_p1/fig_1_1_line2604.jpg, viewed*). Corrections to the image in four words are recorded in the note in the Kannada text.]*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> त्वं ता अ॑ग्न उ॒भया॒न्वि वि॒द्वान्वेषि॑ प्रपि॒त्वे मनु॑षो यजत्र ।
+> अ॒भि॒पि॒त्वे मन॑वे॒ शास्यो॑ भूर्मर्मृ॒जेन्य॑ उ॒शिग्भि॒र्नाक्रः
+> ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । तान् । अग्ने । उभयान् । वि । विद्वान् । वेषि । प्रपित्वे । मनुषः । यजत्र ।
+> अभिपित्वे । मनवे । शास्यः । भूः । मर्मृजेन्यः । उशिक्भिः । न । अक्रः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यजत्र यष्टव्याग्ने त्वं तान्यष्टानयष्टांश्चोभयान्ननुषो मनुष्या
+> न्विविच्य विद्वाञ्ज्ञानन् प्रपित्वे सन्निहित एव काले वेषि । कामयसे यष्टान् । तथा
+> कुर्वन्नक्र आक्रमिता त्वं मनवे । षष्ठ्यर्थे चतुर्थी । मनुष्यस्य यजमानस्याभि-
+> पित्वेऽभिप्राप्तकालेऽभिगमनवति यज्ञे वा शास्को भूः । शिक्षणीयो भव । इदं
+> कुर्विदं कुर्विति विधेयो भव। मर्मृजेन्यः शोधयिता यजमान उशिग्निः कामय-
+> मानैर्यत्विग्धिरिव ॥
+
+*Gist:* O adorable Agni, discerning the two kinds of men, those who sacrifice and those who do not, you desire in the sacrifice at hand only the sacrificers; and, pervading, be like one instructed by the priests, teaching the sacrificer "do this, avoid that".
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यजत्र—यज्ञार्हनाद (*yajatra—yajñārhanāda*) (worthy of sacrifice). अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). तान् उभयान्— यज्ञकर्तरू मत्तु यज्ञ कर्तरल्लदवरू आद ऎरडु बगॆय (*tān ubhayān— yajñakartarū mattu yajña kartaralladavarū āda èraḍu bagèya*) (both kinds, sacrificers and non-sacrificers). मनुषः-मानवरन्नू (*manuṣaḥ-mānavarannū*) (men). विद्वान्- तिळिदुकॊंडु (*vidvān- tiḷidukòṃḍu*) (knowing). प्रपित्वे—सन्निहितवाद यज्ञ कालदल्लि (*prapitve—sannihitavāda yajña kāladalli*) (at the sacrifice-time at hand). वेषि—यज्ञ कर्तरन्नु मात्र इच्छिसु (*veṣi—yajña kartarannu mātra icchisu*) (you desire only the sacrificers).
+
+### Printed p. 293
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 11] Ṛgveda-saṃhitā 293 (as supplied).*
+
+त्तीयॆ (अनंतर) (*ttīyè (anaṃtara)*) (the end of the word "ಇಚ್ಛಿಸುತ್ತೀಯೆ" broken across the page). अक्रः—व्यापकनाद नीनु (*akraḥ—vyāpakanāda nīnu*) (you, the all-pervading). मनवे—यज्ञकर्तनाद यजमाननिगॆ (*manave—yajñakartanāda yajamānanigè*) (for the sacrificer). अभिपित्वे—सद्यः नॆरवेरिसल्पडुव यागदल्लि (*abhipitve—sadyaḥ nèraverisalpaḍuva yāgadalli*) (in the sacrifice now being performed). मर्मृजेन्यः—शोधकनाद यजमाननु (*marmṛjenyaḥ—śodhakanāda yajamānanu*) (the purifying sacrificer). उशिग्भिः न—ऋत्विक्कुगळ अपेक्षॆयंतॆ विधिकार्यगळन्नु तिळियुवंतॆ (*uśigbhiḥ na—ṛtvikkugaḷa apekṣèyaṃtè vidhikāryagaḷannu tiḷiyuvaṃtè*) (as one who learns the rites at the wish of the priests). शास्यः भूः—इदन्नु माडु, इदन्नु बिडु ऎंदु तिळिसुववनागि आगु (*śāsyaḥ bhūḥ—idannu māḍu, idannu biḍu èṃdu tiḷisuvavanāgi āgu*) (be one who says "do this, leave that").
+
+**भावार्थ (Bhāvārtha)**
+
+O adorable Agni, you discern the two kinds of men, those who perform sacrifices and those who do not, and at the sacrifice-time at hand desire only the sacrificers. Then, pervading the whole sacrificial ground, as the sacrificer is instructed by the priests, so you too be a teacher who declares the injunctions "do this, leave that".
+
+**Printed English translation**
+
+Adorable Agni, you are sagacious, and in a short time discriminate between both those men (who do and do not worship you); approach the worshipper at the proper time, and be compliant (with his wishes), like an institutor of the rite, (who is directed) by the desires (of the priests).
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 7)**
+
+उभयान् मनुषः (*ubhayān manuṣaḥ*) — two kinds of people: Sāyaṇa explains them as those who worship Agni and satisfy him with sacrifices and the like, and others who do not.
+
+प्रपित्वे, अभिपित्वे (*prapitve, abhipitve*) — सन्निहिते (*sannihite*): the sense is in the sacrifice that has arrived, that is going on now. Yāska reads this word among the twenty names of the near (the print says "ದ್ವಿಶನಾಮ", as supplied), and
+
+प्रपित्वेऽभीक इत्यासन्नस्य । प्रपित्वे प्राप्ते । अभीकेऽभ्यक्ते । (*prapitve 'bhīka ityāsannasya | prapitve prāpte | abhīke 'bhyakte |*)
+(सि. ३-२०) (*(si. 3-20)*)
+
+gives the explanation: so *prapitve* means the sacrifice now being performed. The word *abhipitve* has the same sense: अभिपित्वे—अभिगमनवति यज्ञे (*abhipitve—abhigamanavati yajñe*): the sense is in this sacrifice going on before us.
+
+उशिग्नि: (*uśigni:*) (the print has *nī*) — the word *uśik* is read among the words denoting radiance (नि. ३-९ (*ni. 3-9*)) and among the names of the wise (नि. ३-१९ (*ni. 3-19*)). Here the sense is the wise priests.
+
+अक्र: (*akra:*) — आक्रमिता त्वं (*ākramitā tvaṃ*): an epithet of Agni, "one who overcomes and burns everything". Yāska, अक्र आक्रमणात् (*akra ākramaṇāt*) giving the derivation (नि ६-१७ (*ni 6-17*)) (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 290 (PDF 290). Done through printed p. 290 (Sukta 189 Rik 5 complete; Rik 6 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Special Topics of Rik 6 next); [?] on tanne
+**Progress note:** Done through printed p. 293 (PDF 293). Sukta 189 Rik 6 Special Topics and grammar page complete; Rik 7 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Rik 7 Special Topics begun, breaks off at akrah (Nirukta 6-17); figure line viewed and four words corrected to the image; [?] on a Latin 8
