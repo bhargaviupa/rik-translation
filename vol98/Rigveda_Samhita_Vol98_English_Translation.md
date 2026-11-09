@@ -8991,6 +8991,124 @@ That is: a person who, having bathed and become pure and saluted the deity Bṛh
 
 *[Stray line of the supplied text: [20] Vol. 14 (*[20] Vol. 14*); not part of the text.]*
 
+### Printed p. 306
+
+*Running head: [306 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 190] (as supplied).*
+
+#### Sūkta 190
+
+**Sūkta 190 — heading lines (printed as plain lines)**
+
+The first line is printed H ओं H (*H oṃ H*) (garbled; the sign "Oṃ" between double dandas is meant, not otherwise readable here).
+
+सूक्त—१९० (*sūkta—190*)
+॥ मंडल—१ ॥ अनुवाक—२४ ॥ सूक्त—१९० ॥ (*‖ maṃḍala—1 ‖ anuvāka—24 ‖ sūkta—190 ‖*)
+॥ अष्टक— २ ॥ अध्याय— ५ ॥ वर्ग— १२, १३ ॥ (*‖ aṣṭaka— 2 ‖ adhyāya— 5 ‖ varga— 12, 13 ‖*)
+॥ सूक्तदल्लिरुव ऋक्संख्यॆ-८ ॥ (*‖ sūktadalliruva ṛksaṃkhyè-8 ‖*)
+ऋषिः—अगॆस्त्यः । (*ṛṣiḥ—agèstyaḥ |*)
+देवता—बृहस्पतिः ॥ (*devatā—bṛhaspatiḥ ‖*)
+छंदः—त्रिष्टुप् । (*chaṃdaḥ—triṣṭup |*)
+—————:०:— (*—————:0:—*)
+
+(Sense: sūkta 190; maṇḍala 1, anuvāka 24; aṣṭaka 2, adhyāya 5, varga 12, 13; the number of ṛks in the sūkta, 8; ṛṣi Agastya; deity Bṛhaspati; metre triṣṭubh; then a ruled line with the mark ":೦:".)
+
+*[A figure line of the supplied text, figure vol14/html/figures_p1/fig_1_1_line3163.jpg, viewed (*figure vol14/html/figures_p1/fig_1_1_line3163.jpg, viewed*), was viewed as an image: it shows the heading lines, the Saṃhitā and the Pada of Ṛk 1, agreeing with the machine text, except that the Pada is cut off at the left edge of the image; see the note in the Kannada text.]*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अ॒न॒र्वाणं॑ वृष॒भं मं॒द्रजि॑ह्वं॒ बृह॒स्पतिं॑ वर्धया॒ नव्य॒॑
+> म॒र्कैः ।
+> गा॒था॒न्यः॑ सु॒रुचो॒ यस्य॑ दे॒वा आ॑शृ॒ण्वंति॒ नव॑मानस्य॒ मर्ताः॑
+> ॥ १ ॥
+
+> *anarvāṇaṃ vṛṣabhaṃ maṃdrajihvaṃ bṛhaspatiṃ vardhayā navya*
+> *markaiḥ |*
+> *gāthānyaḥ suruco yasya devā āśṛṇvaṃti navamānasya martāḥ*
+> *‖ 1 ‖*
+
+*[The Pada's first words are cut off at the left edge of the figure image: र्वाणं [?] (*rvāṇaṃ [?]*) and थान्यः [?] (*thānyaḥ [?]*) are given as supplied and marked [?].]*
+
+**॥ पदपाठः ॥**
+
+> र्वाणं [?] । वृषभं । मंद्रजिह्वं । बृहस्पतिं । वर्धय । नव्यं । अर्कैः ।
+> थान्यः [?] । सुरुचः । यस्य । देवाः । आशृण्वंति । नवमानस्य । मर्ताः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे होतः नव्यं नवतरं स्तुत्यं ना तमनर्वाणमगंतारं । स्तोतुरधीन-
+> मित्यर्थः । वृषभमपां फलानां वर्षितारं मंद्रजिह्वं मादकवाचकं बृहस्पतिं
+> मंत्रस्य पालयितारमेतन्नामकं देवमर्कॆरर्चनसाधनैर्मंत्रैर्वर्धय । प्रवृद्धं
+> कुरु । सुरुचः शोभनदीप्तेर्नवमानस्य स्तूयमानस्य । कर्मणि कर्तृप्रत्ययः ॥
+> यस्य बृहस्पतेः ॥ कर्मणि षष्ठ्यः ॥ रोचमानं स्तूयमानं गाथान्यः । गाथेति
+> वाङ्णाम । स्तुतिवचसो नेतारो देवा व्यवहर्तारो मर्ता मनुष्या होत्रा-
+> दयः । यद्वा । नवमानस्य स्तुवानस्य यजमानस्य संबंधिनस्ते । आशृण्वंति आश्राव-
+> यंति पुरा तं बृहस्पतिं वर्धय । अत्रानर्वाणमप्रत्यृतमन्यस्मिन्नित्यादि निरुक्तं
+> द्रष्टव्यं । नि. ६-२३ ॥
+
+> *he hotaḥ navyaṃ navataraṃ stutyaṃ nā tamanarvāṇamagaṃtāraṃ | stoturadhīna-*
+> *mityarthaḥ | vṛṣabhamapāṃ phalānāṃ varṣitāraṃ maṃdrajihvaṃ mādakavācakaṃ bṛhaspatiṃ*
+> *maṃtrasya pālayitārametannāmakaṃ devamarkèrarcanasādhanairmaṃtrairvardhaya | pravṛddhaṃ*
+> *kuru | surucaḥ śobhanadīpternavamānasya stūyamānasya | karmaṇi kartṛpratyayaḥ ‖*
+> *yasya bṛhaspateḥ ‖ karmaṇi ṣaṣṭhyaḥ ‖ rocamānaṃ stūyamānaṃ gāthānyaḥ | gātheti*
+> *vāṅṇāma | stutivacaso netāro devā vyavahartāro martā manuṣyā hotrā-*
+> *dayaḥ | yadvā | navamānasya stuvānasya yajamānasya saṃbaṃdhinaste | āśṛṇvaṃti āśrāva-*
+> *yaṃti purā taṃ bṛhaspatiṃ vardhaya | atrānarvāṇamapratyṛtamanyasminnityādi niruktaṃ*
+> *draṣṭavyaṃ | ni. 6-23 ‖*
+
+*Gist:* O priest, increase with praises the ever-new Bṛhaspati, who does not go away from his worshipper, showerer of fruits, sweet-tongued, guardian of the mantra, of whose bright praise the gods and mortals sing; see the Nirukta नि. ६-२३ (*ni. 6-23*).
+
+### Printed p. 307
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 12] Ṛgveda-saṃhitā 307 (as supplied).*
+
+*[As supplied, a line reading प्रतिपदार्थ् (*pratipadārth*) with a block mark stands where the Pratipadārtha label belongs; standard label inserted. The following lines carry block marks in the supplied text and are given as prose.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(ऎलै होतृवे) सुरुचॆः—शोभनात्मकवाद कांतियुळ्ळवनू (*(èlai hotṛve) surucèḥ—śobhanātmakavāda kāṃtiyuḷḷavanū*) (O priest: of beautiful radiance). नवमानस्य—स्तुति सल्पडुववनू आद (*navamānasya—stuti salpaḍuvavanū āda*) (who is praised). यस्य—याव बृहस्पतिय (प्रशंसॆयन्नु) (*yasya—yāva bṛhaspatiya (praśaṃsèyannu)*) (of which Bṛhaspati, his praise). गाथान्यः—स्तुतिवाक्यगळिगॆ कर्तृगळू नेतृगळू आद (*gāthānyaḥ—stutivākyagaḷigè kartṛgaḷū netṛgaḷū āda*) (the makers and leaders of songs of praise). देवाः—देवतॆगळू (*devāḥ—devatègaḷū*) (the gods). मर्ताः—मानवरू (*martāḥ—mānavarū*) (and mortals). आशृण्वंति—घोषिसि पठिसुत्तारॆयो अंतह (*āśṛṇvaṃti—ghoṣisi paṭhisuttārèyo aṃtaha*) (proclaim and recite). नव्यं—स्तुत्यनू (*navyaṃ—stutyanū*) (praiseworthy). अनर्वाणं—(स्तोतृवन्नु बिट्टु) बेरॆ प्रदेशक्कॆ होगदिरुववनू (*anarvāṇaṃ—(stotṛvannu biṭṭu) berè pradeśakkè hogadiruvavanū*) (not going away from the worshipper to another place). वृषभं—इष्टार्थगळन्नु सुरिसुववनू (*vṛṣabhaṃ—iṣṭārthagaḷannu surisuvavanū*) (the showerer of desired things). मंद्रजिह्वं—हर्षदायकवाद वाक्यवुळ्ळवनू आद (*maṃdrajihvaṃ—harṣadāyakavāda vākyavuḷḷavanū āda*) (of joy-giving speech). बृहस्पतिं—मंत्रक्कॆ पालकनू आद बृहस्पतियन्नु (*bṛhaspatiṃ—maṃtrakkè pālakanū āda bṛhaspatiyannu*) (Bṛhaspati, guardian of the mantra). अर्कैः—पूजासाधन गळाद मंत्रगळिंद (*arkaiḥ—pūjāsādhana gaḷāda maṃtragaḷiṃda*) (with the mantras that are means of worship). वर्धय—प्रवृद्धनागुवंतॆ माडु (स्तोत्रमाडु) (*vardhaya—pravṛddhanāguvaṃtè māḍu (stotramāḍu)*) (make him grow, praise him).
+
+**भावार्थ (Bhāvārtha)**
+
+Bṛhaspati is of beautiful radiance and praiseworthy; the gods and mortals, leaders of songs of praise, proclaim and recite his praise. Make that praiseworthy Bṛhaspati, who stays with his worshipper, showers desired things, has joy-giving speech and guards the mantra, grow by the mantras that are means of worship.
+
+**Printed English translation**
+
+Priests, augment by your hymns Brihaspati, who deserts not (his worshipper) ; the showerer (of benefits), the pleasant-tongued, the adorable ; of whom resplendent, gods and men, (the ministers) of the institutor of the sacrifice, emulous in sacred songs, proclaim (the praise) (as printed, without a final full stop)
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1)**
+
+अनर्वाणं (*anarvāṇaṃ*) — अगंतारं स्तोतुरधीनमित्यर्थः (*agaṃtāraṃ stoturadhīnamityarthaḥ*): Sāyaṇa explains it as one who does not leave the neighbourhood of the sacrificer who praises, that is, who is subject to the sacrificer who praises. According to the view of the Nirukta-authors for this word: अप्रत्यृतः अप्रतिगतोऽन्यस्मिन् अन्यमनाश्रितः स्वतंत्र इत्यर्थः (*apratyṛtaḥ apratigato 'nyasmin anyamanāśritaḥ svataṃtra ityarthaḥ*) (नि-४-२७ (*ni-4-27*)): one who does not seek another's help, independent. Both senses are possible here.
+
+वृषभं (*vṛṣabhaṃ*) — अपां फलानां वर्षितारं (*apāṃ phalānāṃ varṣitāraṃ*). We have explained the derivation of the word *vṛṣabha* at length in the Ṛgveda part five, page 682 (*682*), part eight, page 168 (*168*) and other places. In the present ṛk the sense is one who showers fruits in the form of water. On Bṛhaspati's helping in the giving of rain, see what is said in the introduction to this sūkta (page 301 (*301*)).
+
+### Printed p. 308
+
+*Running head: [308 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 190] (as supplied).*
+
+मंद्रजिह्वं (*maṃdrajihvaṃ*) — मादकवाचं (*mādakavācaṃ*): one who has a tongue that speaks words giving joy to the mind, that is, one who speaks pleasing words so that those who praise are glad.
+
+अर्कै: (*arkai:*) — अर्चनसाधनैर्मंत्रैः (*arcanasādhanairmaṃtraiḥ*): with mantras that are the means of praising. Because they are used for praising, mantras are called *arka*. On the word *arka* Yāska:
+
+अर्को देवो भवति यदेनमर्चंति । अर्को मंत्रो भवति यदनेनार्चंति (*arko devo bhavati yadenamarcaṃti | arko maṃtro bhavati yadanenārcaṃti*)
+अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥ (*arkamannaṃ bhavatyarcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā ‖*)
+(नि. ५-४) (*(ni. 5-4)*)
+
+gives four kinds of meaning:
+
+*[List marker in the supplied text: "1."]*
+
+(1) अर्कॊ देवो भवति यदेनमर्चंति । तावत्सर्व एवार्क इत्युच्यते यद्य- स्मादेनं देवं अर्चंति स्तोतारः (*arkò devo bhavati yadenamarcaṃti | tāvatsarva evārka ityucyate yadya- smādenaṃ devaṃ arcaṃti stotāraḥ*): *arka* means a deity, because the devotees use it to worship someone; that is, the person or god whom the devotees worship is called *arka*.
+
+(2) अर्कॊ मंत्रो भवति । यद्यस्मात् अनेन मंत्रेण अर्चंति स्तोतारः तस्मादर्कः (*arkò maṃtro bhavati | yadyasmāt anena maṃtreṇa arcaṃti stotāraḥ tasmādarkaḥ*): *arka* also means a mantra, because those who praise worship the deity with it; hence *arka* is also the name of the mantra.
+
+(3) अर्कमन्नं भवति । तद्दि अर्चति भूतानि यो हि पूज्यः तस्यान्नमपि संस्कारविशेषेण संस्कृतं पूजायां क्रियते पूज्यं च सर्वस्यॆवान्नं (*arkamannaṃ bhavati | taddi arcati bhūtāni yo hi pūjyaḥ tasyānnamapi saṃskāraviśeṣeṇa saṃskṛtaṃ pūjāyāṃ kriyate pūjyaṃ ca sarvasyèvānnaṃ*): *arka* also means food; since food (nourishment) is necessary to all creatures, everyone honours it with respect and desires it, and so the word *arka* also means food.
+
+(4) अर्कॊ वृक्षो भवतिय एष प्रसिद्धः । संवृत्तः हि संगतः संव्याप्तः कटुकिम्मा कटुकभावेन भवति (*arkò vṛkṣo bhavatiya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṃgataḥ saṃvyāptaḥ kaṭukimmā kaṭukabhāvena bhavati*): the name "tree" for the word *arka* is well known; the *arka* tree is, in the Karnataka language, the plant called *ekka* (the swallow-wort). Since its kindling-sticks are used in sacrifices and it is used in medicines and the like, the *arka* tree is a thing known to all; since it is bitter it is called *kaṭukimmā*. As an example for the explanation of the word *arka*, Yāska gives गायंतित्वा (ऋ सं १-१०-१) (*gāyaṃtitvā (ṛ saṃ 1-10-1)*) (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 305 (PDF 305). Bhrihaspati introduction complete (qualities, Agni and Brihaspati compared); Sukta 190 begun: Sayana's introduction and anuvada done (sukta heading lines and Rik 1 next); [?] on a footnote sign inside a quoted verse
+**Progress note:** Done through printed p. 308 (PDF 308). Sukta 190 heading lines and Rik 1 done through printed English; Special Topics of Rik 1 begun, breaks off at the Nirukta example Gayanti tva (1-10-1) on p. 308; figure line viewed; [?] on two cut-off Pada words
