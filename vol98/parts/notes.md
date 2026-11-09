@@ -1,1 +1,2 @@
 - w0029 (Vol 98): reference printed '1.8. 85, 10, 11' written '1.8.85, 10, 11' (space removed to pass twin check; stated in text).
+- w0056 (Vol 98): Nirukta ref printed in Telugu letters/numerals (సి. ౨-౨౨) rewritten letter for letter as Kannada (ಸಿ. ೨-೨೨) in kn.md, with note; user to confirm.
