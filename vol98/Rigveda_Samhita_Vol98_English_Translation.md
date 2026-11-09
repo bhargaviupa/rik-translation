@@ -8080,6 +8080,109 @@ in these ṛks it is indicated that, because the gods rejoice at the mantra *sv�
 
 *Gist:* The sūkta beginning "Agne naya" is the tenth sūkta of this group, of eight ṛks, by Agastya, in *triṣṭubh*, to Agni (Anukramaṇikā). It is used in the morning litany; Śaunaka prescribes it for one who has strayed from the path, the first four ṛks are used in the Śrāvaṇa rite (Āśvalāyana Gṛhya), and the ṛks are variously used in the animal sacrifice, in the Prāyaṇīya and Udayanīya offerings (Śrauta rules).
 
+### Printed p. 275
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 9] Ṛgveda-saṃhitā 275 (as supplied).*
+
+**Anuvāda (Kannada)** of Sāyaṇa's introduction to Sūkta 189 (continued from p. 274). This sūkta beginning अग्ने नय (*agne naya*) is the tenth sūkta in the twenty-fourth anuvāka. It has eight ṛks. Agastya is the seer of this sūkta; Agni is the deity; the metre is *triṣṭubh*. In the Anukramaṇikā it is stated as अग्ने नयाष्टावाग्नेयं (*agne nayāṣṭāvāgneyaṃ*) and so on. Its use for the *triṣṭubh* mantras of the Āśvina litany at the time of reciting the morning-recitation mantras is explained by the Āśvalāyana Śrauta Sūtra rule अथैतस्या इत्यत्राग्ने नयाग्रे बृहन्नित्य- ष्टानामुत्तमादुत्तमास्तिस्र उद्धरेत् (*athaitasyā ityatrāgne nayāgre bṛhannitya- ṣṭānāmuttamāduttamāstisra uddharet*) (आ ४-१३ (*ā 4-13*)). And on the use of this sūkta the sage Śaunaka in the work Ṛgvidhāna says:
+
+उत्पथप्रतिपन्नो यो भ्रष्टो वापि पथः क्वचित् । (*utpathapratipanno yo bhraṣṭo vāpi pathaḥ kvacit |*)
+पंथानं प्रतिपद्येत कृत्वा वा कर्म गर्हितं ॥ (*paṃthānaṃ pratipadyeta kṛtvā vā karma garhitaṃ ‖*)
+अग्ने नयेति सूक्तेन प्रत्यृ चं जुहुयाद्भृतं । (*agne nayeti sūktena pratyṛ caṃ juhuyādbhṛtaṃ |*)
+जपेच्च प्रयतो नित्यमुपतिष्ठेत वानलं ॥ (*japecca prayato nityamupatiṣṭheta vānalaṃ ‖*)
+(मुग्विधान. १-२७) (*(mugvidhāna. 1-27)*)
+
+That is: a person who, while climbing a hill or travelling to a distant country, goes astray somewhere on the way, or unknowingly does a reprehensible act, should offer ghee in the fire with each ṛk of this sūkta beginning "Agne naya", and should, in purity, recite this sūkta daily and worship Agni; then he will find the right path: so they say. Besides, the first four ṛks of this sūkta are to be offered, each ṛk separately, in the rite called *upākarman* on the full moon with the Śravaṇa asterism, as explained by the Āśvalāyana Gṛhya Sūtra rule अग्ने नय सुपथा राये अस्मानितिचतसृभिः प्रत्यैचं हुत्वा (*agne naya supathā rāye asmāniticatasṛbhiḥ pratyaicaṃ hutvā*) in the section श्रावण्यां पौर्णमास्यां (*śrāvaṇyāṃ paurṇamāsyāṃ*) (आ गृ. सू. २-१-४ (*ā gṛ. sū. 2-1-4*)). And in the animal sacrifice connected with Agni, when the *vapā* and *puroḍāśa* offerings are made, the first two ṛks of this sūkta are to be recited as *puronuvākyā* mantras, as explained by the Āśvalāyana Śrauta Sūtra rule अग्नेनय सुपथा राये अस्मान् पाहि नो अग्ने पायुभिरजस्रैः (*agnenaya supathā rāye asmān pāhi no agne pāyubhirajasraiḥ*) (आ ३-७ (*ā 3-7*)). And in the Prāyaṇīya offering (the first day of the sacrifice) the first ṛk of this sūkta is to be used as the *puronuvākyā* mantra to Agni, and in the Udayanīya offering (the last day of the sacrifice) the same ṛk as the *yājyā* mantra, as explained by the Āśvalāyana Śrauta Sūtra rules, in the section तदहः प्रायणीयॆष्टि (*tadahaḥ prāyaṇīyèṣṭi*), अग्ने नय सुपथा राये अस्माना देवानामपि पंथामगन्न (*agne naya supathā rāye asmānā devānāmapi paṃthāmaganna*) and also विपरीताश्च याज्यानुवाक्या (*viparītāśca yājyānuvākyā*) (आ. ४-३ (*ā. 4-3*)). (The print gives the work "ಮುಗ್ವಿಧಾನ" for *Ṛgvidhāna*, as supplied.)
+
+### Printed p. 276
+
+*Running head: [276 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 189] (as supplied).*
+
+**Sūkta 189 — heading lines (printed as plain lines)**
+
+॥ ओं ॥ (*‖ oṃ ‖*)
+सूक्त—१८९ (*sūkta—189*)
+॥ मंडल—१ ॥ अनुवाक—२४ ॥ सूक्त—१८९ ॥ (*‖ maṃḍala—1 ‖ anuvāka—24 ‖ sūkta—189 ‖*)
+॥ अष्टक— २ ॥ अध्याय— ५ ॥ वर्ग- १०-११ ॥ (*‖ aṣṭaka— 2 ‖ adhyāya— 5 ‖ varga- 10-11 ‖*)
+। सूक्तदल्लि रुवऋक्संख्यॆ-अ [?] । (*| sūktadalli ruvaṛksaṃkhyè-a [?] |*)
+ऋषिः—आगस्त्यः । (*ṛṣiḥ—āgastyaḥ |*)
+देवता—आग्निः ॥ (*devatā—āgniḥ ‖*)
+छंदः—त्रिष्टुप् । (*chaṃdaḥ—triṣṭup |*)
+
+(Sense: Om; sūkta 189; maṇḍala 1, anuvāka 24; aṣṭaka 2, adhyāya 5, varga 10-11; number of ṛks in the sūkta, printed अ [?] (*a [?]*), probably eight, the digit being unreadable and marked [?]; ṛṣi: Agastya; deity: Agni; metre: triṣṭubh.)
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+*[The Saṃhitā line has a footnote sign, printed ೧, inside the word *yuyodhy asmat* — युयोध्य १ [?] (*yuyodhya 1 [?]*) — marked [?].]*
+
+> अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान्विश्वा॑नि देव व॒युना॑नि॒
+> विद्वान् ।
+> यु॒यो॒ध्य१॒॑ १ [?] स्मज्जु॑हुरा॒णमेनो॒ भूयि॑ष्ठां ते॒ नम॑उक्तिं
+> विधेम ॥ १ ॥
+
+> *agne naya supathā rāye asmānviśvāni deva vayunāni*
+> *vidvān |*
+> *yuyodhya 1 [?] smajjuhurāṇameno bhūyiṣṭhāṃ te namauktiṃ*
+> *vidhema ‖ 1 ‖*
+
+*[Footnote text of the supplied text: १ हदिनाल्कु (*1 hadinālku*), "fourteen"; kept as supplied. The supplied text has no label line before the Pada; standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> अग्ने । नय । सुपथा । राये । अस्मान् । विश्वानि । देव । वयुनानि । विद्वान् ।
+> युयोधि । अस्मत् । जुहुराणं । एनः । भूयिष्ठां । ते । नमःउक्तिं । विधेम ॥
+
+> *agne | naya | supathā | rāye | asmān | viśvāni | deva | vayunāni | vidvān |*
+> *yuyodhi | asmat | juhurāṇaṃ | enaḥ | bhūyiṣṭhāṃ | te | namaḥuktiṃ | vidhema ‖*
+
+*[As supplied, a line reading सहायभाष्यं (*sahāyabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने०गनादिगुणविशिष्ट देव द्योतमान विश्वानि वयुनानि सर्वाणि प्रज्ञा-
+> नानि । अनेकैतदनुष्ठितमिदं प्रायणीयमिति यदेतज्ञानमस्ति तद्विद्वानित्यर्थः ।
+> यतो विद्वान् अतस्त्वमस्मान् सुपथा शोभनेन मार्गेण राये गंतव्याय
+> स्वर्गादिधनाय । द्वितीयार्थे वा चतुर्थी । प्रापणीयं रयिं प्रति नयॆ । तदर्थं
+> जुहुराणं कुटिलकार्येनः पापं फलप्रतिबंधरूपमस्मदस्मत्तो युयोधि ।
+> पृथक्कुरु । ते तव वयं भूयिष्ठामतिप्रवृद्धां नमउक्तिं नमस्कारोक्तिं स्तुतिं
+> विधेम । परिचरेम । कुर्मः ॥
+
+*Gist:* O shining Agni, knowing all kinds of knowledge, lead us by a good path to the wealth to be reached, such as heaven; separate from us the crooked sin that obstructs the fruit; we offer you abundant praise.
+
+### Printed p. 277
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 10] Ṛgveda-saṃhitā 277 (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देव—देवतात्मनाद (*deva—devatātmanāda*) (divine in nature). अग्ने—ऎलै अग्निये,  (*agne—èlai agniye, *)(O Agni). विश्वानि वयुनानि—सकल ज्ञान गळन्नू (*viśvāni vayunāni—sakala jñāna gaḷannū*) (all kinds of knowledge). विद्वान्—तिळिदिरुव नीनु (*vidvān—tiḷidiruva nīnu*) (you who know). आस्मान्—नम्मन्नु (*āsmān—nammannu*) (us). सुपथा—श्रेष्ठवाद मार्गदिंद (*supathā—śreṣṭhavāda mārgadiṃda*) (by the excellent way). राये—स्वर्गादिरूपवाद संपत्तन्नु पडॆयलु ! (*rāye—svargādirūpavāda saṃpattannu paḍèyalu !*) (to obtain wealth in the form of heaven and the like). नय—करॆदुकॊंडु होगु (*naya—karèdukòṃḍu hogu*) (lead). जुहुराणं— कुटिलवाद मार्गदल्लि ऎळॆयतक्क (*juhurāṇaṃ— kuṭilavāda mārgadalli èḷèyatakka*) (that draws us on a crooked path). एनः—पापवन्नु (*enaḥ—pāpavannu*) (sin). अस्मत्—नम्मिंद (*asmat—nammiṃda*) (from us). युयोधि—बेरॆ माडु (*yuyodhi—berè māḍu*) (remove). ते—निनगॆ (*te—ninagè*) (to you). भूयिष्ठां—अत्यधिकवागि (*bhūyiṣṭhāṃ—atyadhikavāgi*) (most abundantly). नमउक्तिं—नमस्कारोक्तियन्नु (*namauktiṃ—namaskāroktiyannu*) (the utterance of homage). विधेम—पठिसुवॆवु (*vidhema—paṭhisuvèvu*) (we shall recite).
+
+*[As supplied, the label line reads भाषार्थ (*bhāṣārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O divine Agni, you who know all kinds of knowledge, lead us by the excellent way to obtain wealth in the form of heaven and the like. Remove from us the sin that draws us on a crooked path. We shall recite to you most abundant homage.
+
+**Printed English translation**
+
+Agni, knowing all kinds of knowledge, lead us by good ways to wealth, remove far from us the sin that would force us astry, that we may offer to you most ample adoration. [sic: "astry"]
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1)**
+
+राये (*rāye*) — the word *rayi* is read among the names of water (नि. २-२४ (*ni. 2-24*)) and among the names of wealth (३-९ (*3-9*)). Besides, Yāska:
+
+रयिरिति धननाम रातेर्दानकर्मणः (*rayiriti dhananāma rāterdānakarmaṇaḥ*) (नि. ४-१७ (*ni. 4-17*))
+
+gives the sense "wealth" for the word *rayi*, explaining that the word is formed from the root *rā*, "to give, to make a gift", and has the sense wealth. In the present ṛk too the sense is the same.
+
+देव (*deva*) — Yāska's Nirukta on the word *deva* is as follows:
+
+देवो दानाद्वा, दीपनाद्वा, द्योतनाद्वा, द्युस्थानो भवतीति वा, यो देवः सा देवता (*devo dānādvā, dīpanādvā, dyotanādvā, dyusthāno bhavatīti vā, yo devaḥ sā devatā*) (नि. ७-१५ (*ni. 7-15*))
+
+That is, this deity is named *deva* because he gives riches and the like (*dānāt*); because he lights up everything with his splendour (*dīpanāt*, *dyotanād vā*: the two words have the same sense); or because he dwells in the heavenly place (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 274 (PDF 274). Done through printed p. 274 (Sukta 188 complete; Sukta 189 begun: Sayana's introduction on p. 274, the sukta heading lines and Rik 1 come next)
+**Progress note:** Done through printed p. 277 (PDF 277). Done through printed p. 277 (Sukta 189 heading and Rik 1 done through printed English; Rik 1 Special Topics begun: rayi, deva; breaks off mid-sentence in the Nirukta note on deva); [?] on the rik-count numeral and the footnote sign
