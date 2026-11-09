@@ -1785,6 +1785,138 @@ Then he cuts the tree: अनक्षसंगं वृश्चेदध ई�
 
 पंचारत्निं तस्मै वृश्चेद्यं कामयेतोपैनमुत्तरो यज्ञो नमेदिति (*paṃcāratniṃ tasmai vṛścedyaṃ kāmayetopainamuttaro yajño namediti*) and the following: from here on the measure (length) of the yūpa [the supplied text prints "ಯೂಹ 5", i.e. "yūha 5"; doubtful] is described. In the sacrifices that everyone performs the yūpa may be of any measure, while in the optional rites (kāmyeṣṭi, in which the attainment of a particular fruit is desired) ... (the passage continues on the next page).
 
+### Printed p. 65
+
+*[Running head, p. 65: [Maṃ. 3. A. 1. Va. 3] Ṛgvedasaṃhitā 65]*
+
+(Continued from the previous page.) ...the sacrifices performed with the aim that a given fruit may result: according to some, the yūpa should be of the measure that suits each fruit. Here the measure of the yūpa is indicated by the word अरत्नि (*aratni*) [the supplied text first prints अशत्नि (*aśatni*), evidently a misreading, [sic]]. अरत्नि (*aratni*) means चतुर्विंशत्यंगलयोऽरत्निः (*caturviṃśatyaṃgalayo 'ratniḥ*), a measure of twenty-four finger-breadths; that is, in common usage, one cubit in length.
+
+पंचारत्नि (*paṃcāratni*): one who wishes that the sacrifice may be completed in an excellent manner, in all its parts, and that the sacrificer may attain the desired fruit, should cut the tree so that the yūpa is five cubits long. For in the metre called Paṅkti there are five syllables in each pāda, and the sacrifice also consists of five kinds of rites. Therefore the tree must be cut to a length of five cubits. Hence the sacrifice of the sacrificer who has cut a yūpa five cubits long is completed successfully and the intended fruit is obtained.
+
+षडरत्निं प्रतिष्ठाकामस्य षड्वा ऋतव ऋतुष्टेव प्रति तिष्ठति (*ṣaḍaratniṃ pratiṣṭhākāmasya ṣaḍvā ṛtava ṛtuṣṭeva prati tiṣṭhati*): one who desires standing (honour) should cut the yūpa six cubits long. For there are six seasons; the sacrifice is established in these seasons. Thereby he obtains standing.
+
+सप्तारत्निं पशुकामस्य सप्तपदा शक्वरी पशवः शक्वरी पशूनेवावरुंधे (*saptāratniṃ paśukāmasya saptapadā śakvarī paśavaḥ śakvarī paśūnevāvaruṃdhe*): one who desires abundance of cattle should cut a yūpa seven cubits long. For the Śakvarī metre has seven pādas, and there is a mutual relation between the Śakvarī metre and cattle; Śakvarī is said to be cattle. Therefore the sacrificer who has made a yūpa seven cubits long obtains abundance of cattle. (The supplied text prints निर्मिसिदु (*nirmisidu*) for the expected निर्मिसिद (*nirmisida*), [sic].)
+
+नवारत्निं तेजस्कामस्य त्रिवृता स्तोमेन संमितं तेजस्त्वत्तेजस्वेव भवति (*navāratniṃ tejaskāmasya trivṛtā stomena saṃmitaṃ tejastvattejasveva bhavati*): one who desires splendour should cut a yūpa nine cubits long and praise it with the Trivṛt stoma. For splendour has the form of the Trivṛt stoma. If he does so he becomes splendid.
+
+एकादशारत्निमिंद्रियकामस्यैकादशाक्षरा त्रिष्टुगिंद्रियं त्रिष्टुगिंद्रियाव्येव भवति (*ekādaśāratnimiṃdriyakāmasyaikādaśākṣarā triṣṭugiṃdriyaṃ triṣṭugiṃdriyāvyeva bhavati*): one who desires power and capacity should cut a yūpa eleven cubits long. For in the pāda of the Triṣṭubh metre there are eleven syllables, and the Triṣṭubh metre signifies indriya, that is, strength. Therefore one who does so becomes strong.
+
+पंचदशारत्निं भ्रातृव्यवतः पंचदशो वज्रो भ्रातृव्याभिभूत्यै (*paṃcadaśāratniṃ bhrātṛvyavataḥ paṃcadaśo vajro bhrātṛvyābhibhūtyai*): one afflicted by enemies should cut and set up a yūpa fifteen cubits long. For the thunderbolt has a measure of fifteen, and the thunderbolt is able to destroy enemies (the sentence continues on the next page).
+
+### Printed p. 66
+
+*[Running head, p. 66: 66 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8]]*
+
+(Continued.) Therefore the sacrificer who cuts and sets up a yūpa of fifteen aratni, the number that symbolises the thunderbolt, becomes free from harm by enemies.
+
+सप्तदशारत्निं प्रजाकामस्य सप्तदशः प्रजापतिः प्रजापतेराप्त्यै (*saptadaśāratniṃ prajākāmasya saptadaśaḥ prajāpatiḥ prajāpaterāptyai*): one who desires progeny, sons, grandsons and so on, should make a yūpa seventeen cubits long. For Prajāpati is called the seventeenfold; by propitiating that Prajāpati the sacrificer becomes possessed of progeny.
+
+एकविग्‌ंशत्यरत्नं प्रतिष्ठाकामस्यैकविग्‌०शः स्तोमानां प्रतिष्ठा प्रतिष्ठितै (*ekavigṃśatyaratnaṃ pratiṣṭhākāmasyaikavig0śaḥ stomānāṃ pratiṣṭhā pratiṣṭhitai*) (the supplied text prints एकविग्‌०शः (*ekavig0śaḥ*) the second time; as supplied): one who desires standing and honour should cut a yūpa twenty-one cubits long. For the standing or excellence of the stomas is indicated by twenty-one (one may also say that twenty-one is the number of the stomas). Therefore the sacrificer who desires standing should cut and set up a yūpa twenty-one cubits long.
+
+अष्टाश्रिर्भवत्यष्टाक्षरागायत्रि तेजो गायत्रि गायत्रि यज्ञमुखं तेजसैव गायत्रिया यज्ञमुखेन संमितः (*aṣṭāśrirbhavatyaṣṭākṣarāgāyatri tejo gāyatri gāyatri yajñamukhaṃ tejasaiva gāyatriyā yajñamukhena saṃmitaḥ*): this yūpa has eight corners (angles or edges). For in the pāda of the Gāyatrī metre there are eight syllables. The Gāyatrī has the nature of splendour; the sacrifice begins with mantras in the Gāyatrī metre; or the Gāyatrī is like the head of the sacrifice, the chief part. The principal or foremost part of the sacrifice is joined to the havirdhāna of the Gāyatrī metre. There is the Vedic sentence शिरो वा एतद्यज्ञस्य यद्धविर्धानं (*śiro vā etadyajñasya yaddhavirdhānaṃ*) (तृ. सं. ६-२-११-१ (*tṛ. saṃ. 6-2-11-1*) as printed). As the sacrifice that begins with the splendid Gāyatrī is endowed with splendour, so the yūpa post with eight corners is fit for the sacrifice.
+
+॥ Yūpaprokṣaṇādividhiḥ ॥ (heading as printed: the rite of sprinkling the yūpa and the rest.)
+
+*[Brāhmaṇa passage (the reference is printed at the end, as कृ. सं. ६३-४ (*kṛ. saṃ. 63-4*)) begins; it continues through the next page.]*
+
+> पृथिव्यै त्वांतरिक्षाय त्वा दिवे त्वेत्याहैभ्य एवैनं लोकेभ्यः प्रोक्षति
+> परांचं प्रोक्षति पराजुव हि सुवर्गॊ लोकः क्रूरमिव वा एतत्क-
+> रोति यत्पनत्यपोऽव नयति शांतै यवमतीरव नयत्यूर्ग्वै
+> यवो यजमानेन यूप: संमितो यावानेव यजमानस्तावती-
+> मेवास्मिन्नूर्जं दधाति पितृणाग्ं सदनमसीति बर्हिरव स्त्रजाति पितृ-
+> देवत्या २ ग्ल् हैतदन्निखातं यद्बर्हिरनवस्तीर्य मिनुयात्पितृदे-
+> वत्यो निखातः स्याद्बर्हरवस्तीर्य मिनोत्यस्यामेवैनं मिनोति
+> यूपशकलमवास्यति सतेजसमेवैनं मिनोति देवस्त्वा सविता मध्वा-
+> नक्तित्याद तेजसैवैनमनक्ति सुपिप्पलाभ्यष्टौषधीभ्य इति चषालं प्रति
+> मुंचति तस्माच्छीर्षत ओषधयः फलं गृह्णंत्यनक्ति तेजो वा अज्यं
+
+> *pṛthivyai tvāṃtarikṣāya tvā dive tvetyāhaibhya evainaṃ lokebhyaḥ prokṣati*
+> *parāṃcaṃ prokṣati parājuva hi suvargò lokaḥ krūramiva vā etatka-*
+> *roti yatpanatyapo 'va nayati śāṃtai yavamatīrava nayatyūrgvai*
+> *yavo yajamānena yūpa: saṃmito yāvāneva yajamānastāvatī-*
+> *mevāsminnūrjaṃ dadhāti pitṛṇāgṃ sadanamasīti barhirava strajāti pitṛ-*
+> *devatyā 2 gl haitadannikhātaṃ yadbarhiranavastīrya minuyātpitṛde-*
+> *vatyo nikhātaḥ syādbarharavastīrya minotyasyāmevainaṃ minoti*
+> *yūpaśakalamavāsyati satejasamevainaṃ minoti devastvā savitā madhvā-*
+> *naktityāda tejasaivainamanakti supippalābhyaṣṭauṣadhībhya iti caṣālaṃ prati*
+> *muṃcati tasmācchīrṣata oṣadhayaḥ phalaṃ gṛhṇaṃtyanakti tejo vā ajyaṃ*
+
+### Printed p. 67
+
+*[Running head, p. 67: [Maṃ. 3. A. 1. Va. 3] Ṛgvedasaṃhitā 67]*
+
+> यजमानेनाग्निष्ठाति संमिता यदग्निष्ठामश्रिमनक्ति यजमानमेव
+> तेजसानक्कांतमनक्कांतमेव यजमानं तेजसानक्ति सर्वतः परि
+> मृशत्य परिवर्गमेवास्मिन् तेजो दधात्युद्धिवग् स्वभानांतरिक्षं पृणे-
+> त्याहैषां लोकानां विधृत्य वैष्णव्यर्चा कल्पयतिवृष्टवो वै देवत-
+> या यूपः स्वयैवैनं देवतया कल्पयति द्वाभ्यां कल्पयति द्विपा-
+> द्यजमानः प्रतिष्ठित्य यं कामयेत तेजसैनं देवताभिरिंद्रियेण
+> व्यर्धयेयमित्यग्निष्ठां तस्मात्रिमाहवनीयादित्थं वेत्तं वाति नावये-
+> त्तेजसैवैनं देवताभिरिंद्रियेण व्यर्धयति यंकामयेत तेज
+> सैनं देवताभिरिंद्रियेण समर्धयेयमित्यग्निष्ठां तस्मात्रिमाह
+> वनीयेन सं मिनुयात्तेजसैवैनं देवताभिरिंद्रियेण समर्धयति
+> ब्रह्मवनिं त्वा क्षत्रवनिमित्याह यथायजुरेवैकत्परि व्ययत्यूर्गै
+> रशना यजमानेन यूपस्संमितो यजमानमेवोर्जा समर्थयति
+> नाभिदघ्ने परि व्ययति नाभिदघ्न एवास्मा ऊर्ज० दधाति तस्मान्नाभि-
+> दघ्नु ऊर्जा भुंजते यं कामयेतोर्जैनं व्यर्धयेयमित्यू-
+> र्ध्वां वा तस्यावाचीं वावोहेदूर्जैनं व्यर्धयति यदि काम-
+> येत वर्षुकः पर्जन्यः सादित्यवाचीमवोहेद्वष्टिमेव नियच्छति
+> यदि कामयेतावर्षकः स्यादित्यर्थामुदूहेद्वष्टिमेवोद्यच्छति
+> पितृणां निखातं मनुष्याणामूर्ध्वं निखातादा रशनाया ओषधीनाग्
+> रशना विश्वेषां देवानामूर्ध्वग्० रशनाया आ चषालादिंद्रस्य चषा-
+> लग्० साध्यानामतिरिक्तग्० स वा ऐष सर्वदेवत्यो यद्यूपो
+> यद्यूपं मिनोति सर्वा एव देवताः प्रीणाति यज्ञेन वै देवाः
+> सुवर्ग० लोकमायन्नेऽमन्यंत मनुष्या नोन्वाभविष्यंतीति ते
+> यूपेन योपयित्वा सुवर्ग० लोकमायन्तमृषयो यूपेनै-
+> नानु प्रापानंद्योपस्य यूपत्वं यद्यूपं मिनोति सुवर्गस्य
+> लोकस्य प्रज्ञात्मै पुरस्तान्मिनोति पुरस्ताद्धि यज्ञस्य प्रज्ञायतेऽ-
+> प्रज्ञातग्० हि तद्यदतिपन्न आहुरिदं कार्यमासीदिति साध्या वै देवा
+> यज्ञमत्यमन्यंत तान् यज्ञो नास्पृशत्वान् यद्यज्ञस्यातिरिक्तमा-
+> सीत्तदस्पृतदरिक्तं वा एतद्यज्ञस्य यदग्नावग्निं मथित्वा प्रहरत्यति-
+> रिक्तमेतद्यूपस्य यदूर्ध्वं चषालात्तेषां तद्भागधेयं तानेव
+> तेन प्रीजाति देवा वै सग्‌स्थिते सोमे प्र सुचोऽहरन्न यूपॆं
+> तेऽमन्यंत यज्ञवेशसं वा इदं कुर्म इति ते प्रस्तरग्न् सुचां
+> निष्कृयणमपश्यन्वरुं यूपस्य सग्ग् स्थिते सोमे प्र प्रस्तरग्०
+> हरति जुहोति स्वरुमयज्ञवेशसाय ॥
+
+> *yajamānenāgniṣṭhāti saṃmitā yadagniṣṭhāmaśrimanakti yajamānameva*
+> *tejasānakkāṃtamanakkāṃtameva yajamānaṃ tejasānakti sarvataḥ pari*
+> *mṛśatya parivargamevāsmin tejo dadhātyuddhivag svabhānāṃtarikṣaṃ pṛṇe-*
+> *tyāhaiṣāṃ lokānāṃ vidhṛtya vaiṣṇavyarcā kalpayativṛṣṭavo vai devata-*
+> *yā yūpaḥ svayaivainaṃ devatayā kalpayati dvābhyāṃ kalpayati dvipā-*
+> *dyajamānaḥ pratiṣṭhitya yaṃ kāmayeta tejasainaṃ devatābhiriṃdriyeṇa*
+> *vyardhayeyamityagniṣṭhāṃ tasmātrimāhavanīyāditthaṃ vettaṃ vāti nāvaye-*
+> *ttejasaivainaṃ devatābhiriṃdriyeṇa vyardhayati yaṃkāmayeta teja*
+> *sainaṃ devatābhiriṃdriyeṇa samardhayeyamityagniṣṭhāṃ tasmātrimāha*
+> *vanīyena saṃ minuyāttejasaivainaṃ devatābhiriṃdriyeṇa samardhayati*
+> *brahmavaniṃ tvā kṣatravanimityāha yathāyajurevaikatpari vyayatyūrgai*
+> *raśanā yajamānena yūpassaṃmito yajamānamevorjā samarthayati*
+> *nābhidaghne pari vyayati nābhidaghna evāsmā ūrja0 dadhāti tasmānnābhi-*
+> *daghnu ūrjā bhuṃjate yaṃ kāmayetorjainaṃ vyardhayeyamityū-*
+> *rdhvāṃ vā tasyāvācīṃ vāvohedūrjainaṃ vyardhayati yadi kāma-*
+> *yeta varṣukaḥ parjanyaḥ sādityavācīmavohedvaṣṭimeva niyacchati*
+> *yadi kāmayetāvarṣakaḥ syādityarthāmudūhedvaṣṭimevodyacchati*
+> *pitṛṇāṃ nikhātaṃ manuṣyāṇāmūrdhvaṃ nikhātādā raśanāyā oṣadhīnāg*
+> *raśanā viśveṣāṃ devānāmūrdhvag0 raśanāyā ā caṣālādiṃdrasya caṣā-*
+> *lag0 sādhyānāmatiriktag0 sa vā aiṣa sarvadevatyo yadyūpo*
+> *yadyūpaṃ minoti sarvā eva devatāḥ prīṇāti yajñena vai devāḥ*
+> *suvarga0 lokamāyanne 'manyaṃta manuṣyā nonvābhaviṣyaṃtīti te*
+> *yūpena yopayitvā suvarga0 lokamāyantamṛṣayo yūpenai-*
+> *nānu prāpānaṃdyopasya yūpatvaṃ yadyūpaṃ minoti suvargasya*
+> *lokasya prajñātmai purastānminoti purastāddhi yajñasya prajñāyate '-*
+> *prajñātag0 hi tadyadatipanna āhuridaṃ kāryamāsīditi sādhyā vai devā*
+> *yajñamatyamanyaṃta tān yajño nāspṛśatvān yadyajñasyātiriktamā-*
+> *sīttadaspṛtadariktaṃ vā etadyajñasya yadagnāvagniṃ mathitvā praharatyati-*
+> *riktametadyūpasya yadūrdhvaṃ caṣālātteṣāṃ tadbhāgadheyaṃ tāneva*
+> *tena prījāti devā vai sagsthite some pra suco 'haranna yūpèṃ*
+> *te 'manyaṃta yajñaveśasaṃ vā idaṃ kurma iti te prastaragn sucāṃ*
+> *niṣkṛyaṇamapaśyanvaruṃ yūpasya sagg sthite some pra prastarag0*
+> *harati juhoti svarumayajñaveśasāya ‖*
+
+(Kṛ. Saṃ. 63-4) [as printed in the supplied text, "Kṛ." for "Tai."; the numeral is given as supplied, with no hyphen between the first two figures].
+
+*[The Sanskrit passage of these two pages is given without an English rendering here; its explanation by the commentary follows on the next pages.]*
+
 ---
 
-**Progress note:** Done through printed p. 64 (PDF 64). Sukta 8 Pithika: Tai.Sam. 6-3-3 Brahmana continues, yupa-cutting rite explained; ends mid-passage p. 64; Rk 1 not started
+**Progress note:** Done through printed p. 67 (PDF 67). Done through printed p. 67. Sukta 8 Pithika: yupa measures (aratni) and Tai.Sam. 6-3-4 yupa-sprinkling passage quoted in full; Rk 1 not started
