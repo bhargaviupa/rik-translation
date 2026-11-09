@@ -13935,6 +13935,112 @@ Let the divine doors, spacious and easily accessible, and to be saluted with pro
 
 *(The supplied text ends here, at the end of the printed English of Ṛk 5 on p. 461; Ṛk 6 follows in the next window.)*
 
+### Printed p. 462
+
+*Running head (as supplied): [462 सायणभाष्यसहिता [मं. २ अ १. सू. ३] (*[462 sāyaṇabhāṣyasahitā [maṃ. 2 a 1. sū. 3]*).*
+
+#### Ṛk 6
+
+*[As supplied, the label line of the Saṃhitā reads संहितपाठः (*saṃhitapāṭhaḥ*) and that of the Pada reads दपाठः (*dapāṭhaḥ*); standard labels inserted. A figure line of the supplied text, an image repeating the Saṃhitā and Pada of this ṛk, was viewed. Two words of the Pada differ in the image from the machine text and are corrected to the image, as noted in the Kannada text; the Saṃhitā agrees. The Saṃhitā and Pada, printed as plain lines, are given as quoted blocks. The Pada repeats some words after the word "iti", as printed.]*
+
+**॥ संहितापाठः ॥**
+
+> सा॒ध्वपां॑सि स॒नता॑ न उक्षि॒ते उ॒षासा॒नक्ता॑ व॒य्ये॑व रण्वि॒ते ।
+> तंतुं॑ त॒तं सं॒वयं॑ती समी॒ची य॒ज्ञस्य॒ पेशः॑ सु॒दुघे॒ पय॑स्वती ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> साधु । आपांसि । सनता । नः । उक्षिते इति । उषसानक्ता । वय्या इव । रण्विते इति ।
+> तंतुं । ततं । संवयंती इति संवयंती । समीची इति संईची । यज्ञस्य । पेशः । सुदुघे इति सुदुघे । पयस्वती इति ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> साधु साधूनि नोऽस्मदीयान्यपांसि कर्माण्युद्दिश्य सनता सनातनेनाविच्छिन्न-
+> प्रवृत्तिकेन स्तोत्रादिनोक्षिते पूजिते । यद्वा पुराणवाची विभक्त्यंतः सनच्छब्दोऽस्ति ।
+> तस्य प्रथमाद्विवचनस्याकारः । सनातने नित्ये इत्यर्थः । अस्मिन्पक्ष उक्षिते फलस्य सेच-
+> यित्र्यौ ॥ कर्तरि निष्ठा ॥ उषासानक्ताहोरात्रदेवते वय्या इव वानकुशले इव
+> रण्विते शब्दिते स्तुते परस्परं गच्छंत्यौ वा ततं विस्तृतं तंतुं तंतुस्थानीयं
+> यज्ञावयवं संवयंती सम्यक् चित्रं सह वा वयंत्यावुत्पादयित्र्यौ समीची
+> सम्यक् प्रवृत्तिके परस्परानुकूले । किमर्थ० संवयंती । यज्ञस्यानुष्ठीयमानस्य
+> पेशो रूपं निर्मातुमिति शेषः । यज्ञं निर्वर्तयितुं तदवयवानुक्रमेणानु-
+> ष्ठापयित्र्या वित्यर्थः । अहोरात्राभ्यां हि यज्ञास्तन्यंते । सुदुघे सुष्टु फलस्य
+> दोग्त्यौ पयस्वती उदकवत्यौ । अहोरात्राभ्यां खलु वृष्टिर्जायते। एवं महा-
+> नुभावे अहोरात्रदेवते अस्मद्यज्ञं निर्वहतामित्यर्थः ॥
+
+*Gist:* Day and Night, ancient and rain-giving, like two weavers weave the extended thread of the sacrifice for our good deeds and grant the fruit.
+
+*(The bhāṣya contains short grammatical remarks on the dual ending, the participle and on the formation of the word for "ancient"; they are transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सनता—पुरातनॆयरू (*sanatā—purātanèyarū*) (the ancient ones (feminine)). उक्षिते—फलवन्नु सुरिसुववरू (*ukṣite—phalavannu surisuvavarū*) (the showerers of fruit). [अथवा सनता—स्तोत्र गळिंद (*[athavā sanatā—stotra gaḷiṃda*) ((the bracketed alternative begins here) with praises, the alternative for "ancient"). उक्षिते—पूजितरादवरू (*ukṣite—pūjitarādavarū*) (the worshipped ones (the entry closes with a bracket that stands before the next entry)). ] सुदुघे—इष्टार्थगळन्नु करॆयुववरू (*] sudughe—iṣṭārthagaḷannu karèyuvavarū*) (the milkers of desired objects). पयस्वती— उदकवन्नु हॊंदिरुववरू आद (*payasvatī— udakavannu hòṃdiruvavarū āda*) (those who have water). उषासानक्ता—अहोरात्र देवतॆगळु (*uṣāsānaktā—ahorātra devatègaḷu*) (Day and Night, the deities (the word is divided by a line break)). यज्ञस्य—यज्ञद (*yajñasya—yajñada*) (of the sacrifice).
+
+### Printed p. 463
+
+*Running head (as supplied): [अ. २. अ. ५. व. २३.] ऋग्वेदसंहिता 463 (*[a. 2. a. 5. va. 23.] ṛgvedasaṃhitā 463*).*
+
+*(Continuation of the Pratipadārtha of Ṛk 6 after the last entry of the previous page.)*
+
+पेशः—रूपवन्नु (निर्मिसलु) (*peśaḥ—rūpavannu (nirmisalu)*) ((to form) the shape). साधु—उत्तमवाद (*sādhu—uttamavāda*) (excellent). नः—नन्न (*naḥ—nanna*) (my (as printed)). अपांसि—कर्मगळन्नु द्देशिसि (*apāṃsi—karmagaḷannu ddeśisi*) (in regard to the deeds (the word is divided by a line break)). ततं—विस्त्रृतवाद (*tataṃ—vistrṛtavāda*) (the extended). तंतुं—तंतुस्थानीयवाद यज्ञावयववन्नु (*taṃtuṃ—taṃtusthānīyavāda yajñāvayavavannu*) (the thread-like part of the sacrifice). रण्विते— ऒट्टिगॆ सेरि कॆलस माडुव (*raṇvite— òṭṭigè seri kèlasa māḍuva*) (working together). वय्या इव—नॆय्दॆय स्त्रीयरंतॆ (*vayyā iva—nèydèya strīyaraṃtè*) (like women weavers). समीची—परस्पर अनुकूल कारकरागि (*samīcī—paraspara anukūla kārakarāgi*) (mutually helpful (the word is divided by a line break)). संवयंती—यज्ञवन्नु निर्वहिसुत्तारॆ. (*saṃvayaṃtī—yajñavannu nirvahisuttārè.*) (they carry out the sacrifice).
+
+**भावार्थ (Bhāvārtha)**
+
+The goddesses Day and Night, who are ancient, givers of fruit, showerers of desired objects and possessed of water, carry out the sacrifice, for the sake of forming the shape of the sacrifice, in regard to our excellent deeds, being mutually helpful like women weavers working together on the extended thread-like part of the sacrifice.
+
+**Printed English translation**
+
+In regard of our good deeds, Day and Night, perpetually reverenced, are interweaving in concert, like two famous female weavers, the extended, thread (to complete) the web of the sacrifice, liberal yielders (of rewards) containers of water.
+
+#### Ṛk 7
+
+*[As supplied, the label line of the Saṃhitā reads संहिता. पाठः (*saṃhitā. pāṭhaḥ*); standard label inserted. The Saṃhitā, printed as plain lines, is given as a quoted block with its split lines joined; two readings of the Saṃhitā are marked with a query, as they differ from the Pada. The closing mark of the Pada prints a different numeral from the Saṃhitā, as printed.]*
+
+**॥ संहितापाठः ॥**
+
+> दैन्व्या॒ [?] होता॑रा प्रथ॒मा वि॒दुष्ट॑र [?] ऋ॒जु य॑क्षतः॒ समृ॒चा व॒पुष्ट॑रा ।
+> दे॒वान् यजं॑तावृतु॒था समं॑जतो॒ नाभा॑ पृथि॒व्या अधि॒ सानु॑षु त्रि॒षु ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> दैव्या । होतारा । प्रथमा । विदुःतरा । ऋजु । यक्षतः । सं । ऋचा । वपुःतरा ।
+> देवान् । यजंतौ । ऋतुथा । सं । अंजतः । नाभा । पृथिव्याः । अधि । सानुषु । त्रिषु ॥ ४ ॥
+
+> *daivyā | hotārā | prathamā | viduḥtarā | ṛju | yakṣataḥ | saṃ | ṛcā | vapuḥtarā |*
+> *devān | yajaṃtau | ṛtuthā | saṃ | aṃjataḥ | nābhā | pṛthivyāḥ | adhi | sānuṣu | triṣu ‖ 4 ‖*
+
+### Printed p. 464
+
+*Running head (as supplied): [464 सायणभाष्यसहिता [मं. २. अ. १. सू. ३] (*[464 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 3]*).*
+
+*[As supplied, the label line of the bhāṣya reads साह्यभाष्यं (*sāhyabhāṣyaṃ*), inside the quoted block; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> दैव्या । दिवि भवो दिव्योग्निः । तस्माद्दिव्यादग्नेर्जातौ होताराह्वातारौ
+> देवानां होमनिष्पादकौ नाग्नी पार्थिवांतरिक्ष्या प्रथमा प्रथमं यष्टव्यौ विदु-
+> ष्टरा विद्वत्तमौ वपुष्टरा प्रकृष्टवपुषौ देवावृचा मंत्रेण ऋजु अविकलं यथा
+> तथा सम्यक् यक्षतः । पूजयतः ! ऋतुथा तत्तदृतौ तत्र तत्र काले देवान्यष्टव्यान्
+> यजंतौ देवौ पृथिव्या नाभा नाभावुत्तरवेद्यामधि उपरि त्रिषु सानुषु समुच्छि-
+> तेषु प्रदेशेषु गार्हपत्यादिषु समंजतः । समांक्तां ॥ अंजेर्लॆट्यडागमः ॥
+
+*Gist:* The two divine hotṛs, born of heavenly Agni, foremost and most wise, worship the gods in due seasons at the three high places.
+
+*(The bhāṣya contains a short grammatical remark on the form of the verb; it is transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+प्रधमा—(यज्ञार्हराद देवतॆगळल्लि) मुख्यरू (*pradhamā—(yajñārharāda devatègaḷalli) mukhyarū*) (the foremost (first word misprinted) among the gods worthy of the sacrifice). विदुष्टरा—प्राज्ञरल्लॆल्ला श्रेष्ठरू (*viduṣṭarā—prājñarallèllā śreṣṭharū*) (the wisest of the wise). वपुष्टरा—अत्युत्तमवाद देहवुळ्ळवरू (*vapuṣṭarā—atyuttamavāda dehavuḷḷavarū*) (those of the most excellent body). ऋचा—मंत्रदिंद (*ṛcā—maṃtradiṃda*) (with the mantra). ऋजु—न्यूनतॆयिल्लदॆ (*ṛju—nyūnatèyilladè*) (without deficiency). सं यक्षतः—(देवतॆगळन्नु) पूर्णवागि पूजिसुववरू (*saṃ yakṣataḥ—(devatègaḷannu) pūrṇavāgi pūjisuvavarū*) (those who worship fully). ऋतुथा—यज्ञ कालगळल्लॆल्ला (*ṛtuthā—yajña kālagaḷallèllā*) (in all the times of the sacrifice (the word is divided by a line break)). देवान्—यज्ञार्हराद देवतॆगळन्नु उदेशिसि (*devān—yajñārharāda devatègaḷannu udeśisi*) (addressing the gods worthy of the sacrifice (misspelt in the print)). यजंतौ—यज्ञ माडुववरू (*yajaṃtau—yajña māḍuvavarū*) (those who sacrifice). दैव्या होतारा—देवतॆगळन्नु यज्ञक्कॆ करॆयुववरू आद अग्निय ऎरडु रूपगळू सह (*daivyā hotārā—devatègaḷannu yajñakkè karèyuvavarū āda agniya èraḍu rūpagaḷū saha*) (the two forms of Agni, the divine hotṛs who call the gods to the sacrifice, also). पृथिव्याः— पृथिविय (*pṛthivyāḥ— pṛthiviya*) (of the earth). नाभा अधि—नाभिरूपियाद उत्तरवेदियल्लि (*nābhā adhi—nābhirūpiyāda uttaravediyalli*) (on the navel-like northern altar). त्रिषु सानुषु—उच्च प्रदेशगळाद गाह्यपत्यादिस्थानगळल्लि (*triṣu sānuṣu—ucca pradeśagaḷāda gāhyapatyādisthānagaḷalli*) (in the high places, the Gārhapatya and other places (misspelt in the print)). समंजतः—ऒट्टिगॆ सेरिकॊंडु पूजिसल्पडलि. (*samaṃjataḥ—òṭṭigè serikòṃḍu pūjisalpaḍali.*) (let them be worshipped, joined together).
+
+**भावार्थ (Bhāvārtha)**
+
+May the two forms of Agni called the divine hotṛs, who are foremost among the gods worthy of the sacrifice, the wisest of the wise, of the most excellent body, who worship the gods fully with the mantra without deficiency, who sacrifice to the gods in all the times of the sacrifice and who call the gods to the sacrifice, be worshipped, joined together, at the high places, the Gārhapatya and the other places, on the navel-like northern altar of the earth.
+
+**Printed English translation**
+
+Let the two divine invokers of the gods, the first (to be reverenced), most wise, sincerely worshipping with sacred texts, most excellent in form, offering homage to the gods in due season, present oblations in the three high places upon the navel of the earth.
+
+*(The supplied text ends here, at the end of the printed English of Ṛk 7 on p. 464; Ṛk 8 follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 461 (PDF 461). Mandala 2 Sukta 3 Rik 3, Rik 4 and Rik 5 complete; one Saṃhitā/Pada word corrected to the figure image; one Pada reading marked with a query
+**Progress note:** Done through printed p. 464 (PDF 464). Mandala 2 Sukta 3 Rik 6 and Rik 7 complete; two Pada words corrected to the figure image; two Saṃhitā readings marked with a query
