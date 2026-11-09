@@ -9509,6 +9509,92 @@ In this ṛk it is described that Bṛhaspati gives nothing to those who do not 
 
 *[A stray line of the supplied text, [21] Vol. 14 (*[21] Vol. 14*), is kept as an italic note in the Kannada text.]*
 
+### Printed p. 322
+
+*Running head (as supplied): [322 सायणभाष्यसहिता [मं. १. आ. २४. सू. १९०] (*[322 sāyaṇabhāṣyasahitā [maṃ. 1. ā. 24. sū. 190]*).*
+
+*(Continuation of the *usrikaṃ* note in the Special Topics of Ṛk 5 of Sūkta 190, from the end of the previous page.)*
+
+...like an aged ox, knowing that no use comes from you (Bṛhaspati), they do not worship you. To such wicked ones you give nothing, that is, none of the wealth they want, and you harm them: this is the main purport of the ṛk.
+
+उपजीवंति—उपेत्य प्राणंति । अल्पं याचंत इत्यर्थः (*upajīvaṃti—upetya prāṇaṃti | alpaṃ yācaṃta ityarthaḥ*): they approach you and do not ask for much, they pay no regard to you: this is the purport.
+
+पज्रा: (*pajrā:*) — Sāyaṇa has given two kinds of meaning for this word: हविर्लक्षणान्नवंतः (*havirlakṣaṇānnavaṃtaḥ*) (those who have food in the form of oblations), or पापेन जीर्णा वा नराः (*pāpena jīrṇā vā narāḥ*) (men worn out by sin, that is, sinful men).
+
+बृहस्पते—चयस इप्पियारुं (*bṛhaspate—cayasa ippiyāruṃ*) (as printed): for these words Yāska says बृहस्पते यच्चातयसि देवपीयुं पीयतिर्हिंसाकर्म (*bṛhaspate yaccātayasi devapīyuṃ pīyatirhiṃsākarma*) (नि. ४-२५ (*ni. 4-25*)), that is, the word *piyāru* is formed from the root *pīyati*, which means an act of harming. So the word means one who harms, that is, a harmer of the gods, one who does not worship the gods and desires only his own enjoyment. Such a harmer of the gods, they have explained, you, Bṛhaspati, destroy.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 5, noted briefly)
+
+The page explains: उस्रिकम् (*usrikam*) (from *usriyā*, with the suffix *ka* in the sense of contempt, a syllable is elided and the acute goes to the end by *vyatyaya*); मन्यमानाः (*manyamānāḥ*) (root *man*, *śānac* for the present, *śyan*; initial acute by the rule इत्यादिर्नित्यम् (*ityādirnityam*)); पापाः (*pāpāḥ*) (पापं येषामस्ति इति पापाः (*pāpaṃ yeṣāmasti iti pāpāḥ*), the suffix *āc* in the possessive sense by आर्शआदिभ्योआच् (*ārśaādibhyoāc*), elision of the preceding *a* by यस्येति च (*yasyeti ca*), final acute by चितः (*citaḥ*) (पा. सू. ६१-१६३ (*pā. sū. 61-163*), as printed)); उपजीवंति (*upajīvaṃti*) (root *jīv*, present third person plural; no *nighāta* because of the connection with *yad*; the prefix is unaccented by the rule तिजिचोदा- त्तम् (*tijicodā- ttam*) (पा. सू. ८-१-७१ (*pā. sū. 8-1-71*))); दूढ्ये (*dūḍhye*) (from दुर्धियः (*durdhiyaḥ*), with the suffix *kvip* by the rule क्विप् च (*kvip ca*), *samprasāraṇa*, the form being accepted through the *pṛṣodarādi* group, and the locative put for the dative by *vyatyaya*).
+
+### Printed p. 323
+
+*Running head (as supplied): [अ. व अ. ५ व. १३] ऋग्वेदसंहिता 323 (*[a. va a. 5 va. 13] ṛgvedasaṃhitā 323*) (as printed).*
+
+(The grammar page of Ṛk 5 continues.) चयसे (*cayase*) (root *caya*, present second person singular; no *nighāta* because of the connection with *it*); पियारुं (*piyāruṃ*) (root *pīj*, as printed; since roots have many meanings it is used here in the sense of harming; the desired form is obtained through an Uṇādi suffix marked *n*).
+
+*[A figure line of the supplied text, figure line of the supplied text: vol14/html/figures_p1/fig_1_1_line3874.jpg, viewed as an image (*figure line of the supplied text: vol14/html/figures_p1/fig_1_1_line3874.jpg, viewed as an image*), was viewed; it repeats the Saṃhitā and Pada of Ṛk 6. The Saṃhitā agrees with the machine text. Two words of the Pada differ in the image (split forms with accent signs) and are marked with a query, left as supplied.]*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> सु॒प्रैतुः॑ सू॒यव॑सो॒ न पंथा॑ दुर्नि॒यंतुः॒ परि॑प्रीतो॒ न॒
+> मि॒त्रः ।
+> अ॒न॒र्वाणो॑ अ॒भि ये चक्ष॑ते॒ नोऽपी॑वृता अपोर्णु॒वंतो॑
+> अस्थुः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> सुप्रैतुः । सुयवसः । न । पंथाः । दुःनियंतुः । परिप्रीतः । न । मित्रः ।
+> अनर्वाणः । अभि । ये । चक्षते । नः । अपीवृताः [?] । अपोर्णुवंतः [?] । अस्थुः ॥ ६ ॥
+
+> *supraituḥ | suyavasaḥ | na | paṃthāḥ | duḥniyaṃtuḥ | pariprītaḥ | na | mitraḥ |*
+> *anarvāṇaḥ | abhi | ye | cakṣate | naḥ | apīvṛtāḥ [?] | aporṇuvaṃtaḥ [?] | asthuḥ ‖ 6 ‖*
+
+*[As supplied, a line reading सायणभ.पं (*sāyaṇabha.paṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते त्वं सुप्रैतुः सुष्टु गंतुर्मनुष्यस्य सुयवसः शोभनान्नस्य
+> पंथा न मार्ग इव सुष्टु यज्ञमार्गगामिनो सुयवसः पंथा इव । सुखकारी
+> भवेत्यर्थः । किंच दुर्नियंतुर्दुःखेन नियमितू राज्यः परिप्रीतः सर्वप्रकारेण
+> संतुष्टो द्वेषादिरहितो मित्रो न सुहृन्मंत्रीव । स यथा दुर्नयान्निवर्तयति
+> तद्वत् त्वमपि तथास्मभ्यं कुर्वित्यर्थः । सखिवदमार्गान्निवर्त मार्गे यज्ञादिरूपे
+> योजयित्वा तत्रापि फलप्रदो भवेत्यर्थः । किंचानर्वाणोऽपापा ये नरा
+> नोऽस्मानभ्याभिमुख्येन चक्षते बोधयंति तेऽपीवृता अज्ञानेनावृता अप्य-
+> पूर्णुवंतोऽपगतावरणवंतो ज्ञानवंतोऽस्थुः । तिष्ठंतु । यद्वा । अनर्वाण-
+> स्वामप्राप्नुवंतो येऽस्मद्विरोधिनो नोऽस्मानभि चक्षते अभिवदंति निंदंति
+> तेऽपीवृता आच्छादिता रक्षिता अप्यपूर्णुवंतोऽषगतरक्षणा भवंति ॥
+
+*Gist:* Bṛhaspati is asked to be pleasant to the sacrificer, like a friendly minister to a king, and to free the sinless teachers from ignorance.
+
+### Printed p. 324
+
+*Running head (as supplied): [324 सायणभाष्यसहिता [मं. १. अ. २४. सू. १९०] (*[324 sāyaṇabhāṣyasahitā [maṃ. 1. a. 24. sū. 190]*).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुयेवसः—श्रेष्ठवाद अन्नवन्नु कॊडतक्क यज्ञादि कर्मगळ (*suyevasaḥ—śreṣṭhavāda annavannu kòḍatakka yajñādi karmagaḷa*) (of the sacrificial acts that give excellent food; before it the print has (ऎलै बृहस्पतिये) (*(èlai bṛhaspatiye)*), O Bṛhaspati). पंथाः न—मार्गवु सुखकरवागिरुवंतॆयू (*paṃthāḥ na—mārgavu sukhakaravāgiruvaṃtèyū*) (as a path is pleasant). (मत्तु) दुर्नियंतुः—दुष्टरन्नु निग्रह माडतक्क राजनिगॆ (*(mattu) durniyaṃtuḥ—duṣṭarannu nigraha māḍatakka rājanigè*) (and to the king who restrains the wicked). परिप्रीतः—परिपूर्णवाद प्रेमवुळ्ळवनू (*pariprītaḥ—paripūrṇavāda premavuḷḷavanū*) (full of love). मित्रः न—सुहृत्तू आगिरुव मंत्रियु सुखकरनागिरुवंतॆयू (*mitraḥ na—suhṛttū āgiruva maṃtriyu sukhakaranāgiruvaṃtèyū*) (as a minister who is also a friend is pleasant). सुप्रैतुः—सन्मार्गदल्लि व्यवहरिसि कर्माचरणॆयन्नु माडतक्क यजमाननिगॆ सुखकारियागिरु (*supraituḥ—sanmārgadalli vyavaharisi karmācaraṇèyannu māḍatakka yajamānanigè sukhakāriyāgiru*) (be pleasant to the sacrificer who acts on the good path and performs the rites). ये—यारु (*ye—yāru*) (who). अनर्वाणः—पापरहितरागि (*anarvāṇaḥ—pāparahitarāgi*) (being free of sin). नः—नम्मन्नु (नमगॆ) (*naḥ—nammannu (namagè)*) (us, to us). अभिचक्षते—उपदेशवन्नु कॊट्टु सन्मार्गगामिगळागुवंतॆ माडु त्तारॆयो (अवरु) (*abhicakṣate—upadeśavannu kòṭṭu sanmārgagāmigaḷāguvaṃtè māḍu ttārèyo (avaru)*) (those who instruct and make us follow the good path). अपीवृताः—आज्ञानदिंद आवृतरागिद्दरू सह (*apīvṛtāḥ—ājñānadiṃda āvṛtarāgiddarū saha*) (even though enveloped by ignorance). अपोर्णुवंतः— अज्ञानरूपवाद आवरणदिंद मुक्तरागि (*aporṇuvaṃtaḥ— ajñānarūpavāda āvaraṇadiṃda muktarāgi*) (freed from the covering of ignorance). अस्थुः—आगलि (*asthuḥ—āgali*) (let them be).
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, be pleasant to the sacrificer who acts on the good path and performs the rites, as the path of sacrificial acts that give excellent food is pleasant, and as a minister who is full of love and a friend is pleasant to a king who restrains the wicked. And since the teachers who show us the good path are sinless, if they are enveloped by ignorance, remove their covering also and make them knowers.
+
+**Printed English translation**
+
+Be a (pleasant) way to him who goes well and makes good offerings, like the affectionate friend of (a ruler who) restrains the bad, and may those sinless men who instruct us, although yet enveloped (by ignorance), stand extricated from their covering.
+
+*[As supplied, the label line of the Special Topics reads विशेषयगळु: (*viśeṣayagaḷu:*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 6)**
+
+The matter stated in this ṛk is not clear or is troublesome. Even so, the bhāṣyakāra has explained it so that a meaning fits; the meaning given for the second half does not fit properly.
+
+सुप्रैतुः—सुष्टु गंतुर्मनुष्यस्य (*supraituḥ—suṣṭu gaṃturmanuṣyasya*) । सन्मार्गप्रवर्तकनाद मनुष्यन (*sanmārgapravartakanāda manuṣyana*): that is, here, the man who worships Bṛhaspati with hymns and the like.
+
+सुयवसः (*suyavasaḥ*) — the word यव (*yava*) is read (the print has पतरिवागिदॆ (*patarivāgidè*), [sic]) among the names of food. Hence it means one who gives excellent food. Since food is obtained through sacrifices, यज्ञमार्गगामिनो (*yajñamārgagāmino*) (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 321 (PDF 321). Sukta 190 Rik 4 Special Topics and grammar page complete; Rik 5 through the start of its Special Topics (Nirukta usrikam discussion begun); three readings marked with a query; verse numeral missing in the printed Samhita
+**Progress note:** Done through printed p. 324 (PDF 324). Sukta 190 Rik 5 Special Topics and grammar pages complete; Rik 6 complete through the printed English; Special Topics of Rik 6 begun; figure line viewed, two Pada words marked with a query
