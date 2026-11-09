@@ -2,7 +2,7 @@
 import os,re,glob,subprocess
 VOL=os.path.abspath(os.path.join(os.path.dirname(__file__),'..'))   # the vol14/ folder
 ROOT=os.path.dirname(VOL)
-EN=os.path.join(ROOT,'Rigveda_Samhita_Vol14_English_Translation.md')
+EN=os.path.join(ROOT,'vol14','Rigveda_Samhita_Vol14_English_Translation.md')
 REVIEW=os.path.join(VOL,'review')
 WORK=os.environ.get('V14WORK','/tmp/v14num/')
 os.makedirs(WORK,exist_ok=True)

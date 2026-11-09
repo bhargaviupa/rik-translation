@@ -6,7 +6,7 @@ add_iast.py, append_en.py, log doubts to vol14/review/api_doubts.tsv, cost to vo
 Stops on any error, on a missing CHUNK, if cumulative cost would exceed --budget (USD), or if the chunk lacks an IAST line for a Devanagari block."""
 import os,sys,re,json,subprocess,base64,time,argparse
 ROOT=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..')); V=os.path.join(ROOT,'vol14')
-EN=os.path.join(ROOT,'Rigveda_Samhita_Vol14_English_Translation.md')
+EN=os.path.join(ROOT,'vol14','Rigveda_Samhita_Vol14_English_Translation.md')
 COST=os.path.join(V,'parts','api_costs.jsonl'); DOUBTS=os.path.join(V,'review','api_doubts.tsv')
 PRICE=dict(inp=3.0,out=15.0)   # USD per million tokens; ASSUMED Sonnet-class list price, adjust with --price-in/--price-out
 def sh(c,**k): return subprocess.run(c,shell=True,capture_output=True,text=True,cwd=ROOT,**k)

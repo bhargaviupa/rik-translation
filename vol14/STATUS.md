@@ -9,7 +9,7 @@ Maṇḍala 1 from Sūkta 185 to Maṇḍala 2 Sūkta 23 (Second Aṣṭaka, Adh
 Printed pp. 1–766: scans (9 parts, 979 PDF pp., ~660 ppi — **removed from the working tree Nov 7 2026**). Printed pp. 767–954 (Maṇḍala 2 Sūktas 15–23): the user's machine-read text `vol14/html/rig_14_2.html` (+ `vol14/html/figures/`, 21 embedded pictures kept). Offset: printed = PDF − 18 to PDF 222, − 19 from PDF 224, − 20 from PDF 336 (PDF 223 and 335 are duplicates).
 
 ## Outputs
-`Rigveda_Samhita_Vol14_English_Translation.md` — **currently at the repository root (stray; move it into `vol14/`)**, and `vol14/Rigveda_Samhita_Vol14_Kannada_Text.md`.
+`vol14/Rigveda_Samhita_Vol14_English_Translation.md` (moved from the repository root on Nov 9 2026) and `vol14/Rigveda_Samhita_Vol14_Kannada_Text.md`.
 
 ## How it was made
 pp. 1–766 scan-based (Sonnet/Opus translators, numerals from user files `vol14/numerals/`, `vol14/vol14_runbook.md`); pp. 767–954 with the Vol 15 pipeline on branch `claude/vol14-html`; verse blocks later corrected from the embedded pictures.

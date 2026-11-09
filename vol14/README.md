@@ -12,7 +12,7 @@ First translation of this volume (not a correction pass); English file only (a K
 | `review/` | `doubts_v14.json` and the review pages. |
 | `tools/` | `page.py` (read a page), `numsheets.py` (header strips, for the offset), `append_en.py`, `doubt.py`, `doubts_v14.py`, `cfg.py`. |
 
-Output (repo root): `Rigveda_Samhita_Vol14_English_Translation.md`.
+Output: `vol14/Rigveda_Samhita_Vol14_English_Translation.md`.
 
 ## Remaining pages from the supplied machine-read text (user decision, Nov 5 2026)
 From printed p. 767 the translation continues with the Vol 15 workflow (`tools/rv/`, rules in `CLAUDE.md` section "Vol 15 onwards"): the Kannada text is made by script from the user's HTML/markdown, a Sonnet agent writes only the English chunk, the build adds Devanagari, IAST and accents, and the Kannada file and the English file are appended together.
