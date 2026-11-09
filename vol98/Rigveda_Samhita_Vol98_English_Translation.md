@@ -7806,6 +7806,83 @@ These and other sentences praise Tvaṣṭṛ's work of making. Moreover he has 
 
 वनस्पते—ऎलै यूपाभिमानिदेवतॆये (*vanaspate—èlai yūpābhimānidevatèye*) (O deity of the sacrificial post). त्मन्या—निन्न स्वरूपदिंदले (*tmanyā—ninna svarūpadiṃdale*) (by your own self). देवेभ्यः— अग्न्यादिदेवतॆगळिगॆ (*devebhyaḥ— agnyādidevatègaḷigè*) (for the gods, Agni and the rest). पाथः—पशुरूपवाद अन्नवन्नु (*pāthaḥ—paśurūpavāda annavannu*) (food in the form of an animal). उप सृज—सृष्टिमाडु (आनंतर) (*upa sṛja—sṛṣṭimāḍu (ānaṃtara)*) (create; then). अग्निः—अग्नियु (*agniḥ—agniyu*) (Agni). हव्यानि—हविस्सुगळन्नु (*havyāni—havissugaḷannu*) (the oblations). सिस्वदत्—आस्वादिसलि (*sisvadat—āsvādisali*) (let him taste).
 
+### Printed p. 266
+
+*Running head: [266 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+**Bhāvārtha** (Ṛk 10; the Pratipadārtha ended on p. 265)
+
+O deity of the sacrificial post, from your own nature create for Agni and the other gods the animal-food. Then let Agni taste the oblations.
+
+**Printed English translation**
+
+Vanaspati, deliver of yourself the victim to the gods, so that Agni may taste the oblation.
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 10)**
+
+वनस्पते (*vanaspate*) — Yāska's explanation of the word *vanaspati*:
+
+वनस्पत इत्येनमाहैष हि वनानां पाता ना पालयिता वा । वनं वनोतेः ॥ (*vanaspata ityenamāhaiṣa hi vanānāṃ pātā nā pālayitā vā | vanaṃ vanoteḥ ‖*)
+(नि. ८-३) (*(ni. 8-3)*)
+
+तत्को वनस्पतिः । यूप इति कात्थक्यः । अग्निरिति शाकपूणिः (*tatko vanaspatiḥ | yūpa iti kātthakyaḥ | agniriti śākapūṇiḥ*) (नि. ८-१८ (*ni. 8-18*))
+
+That is, they call Agni himself *vanaspati*, for Agni is the protector or guardian of the forests. Though Agni is present within a tree, he does not burn it, so he is called its protector; or *vana* means wood used for the implements of sacrifice, such as timber. *Vanaspate* means "king of trees", a large tree. Who is the deity *vanaspati*? Kātthakya's view is that it is the wooden post set up in the sacrifice for binding the animal; Śākapūṇi's view is that *vanaspati* is Agni.
+
+To support Kātkya's view Yāska gave a ṛk as an example:
+
+अंजंति त्वामध्वरे देवयंतो वनस्पते मधुना दैव्येन ॥ (*aṃjaṃti tvāmadhvare devayaṃto vanaspate madhunā daivyena ‖*)
+(ऋ. सं. ३-८-१) (*(ṛ. saṃ. 3-8-1)*)
+
+That is: O Vanaspati (sacrificial post), the sacrificers and priests anoint you in the sacrifice with ghee consecrated by mantras; so the post for binding the animal is addressed. In the third, sixth and eleventh ṛks of this same sūkta too Vanaspati is addressed as the sacrificial post, and it is well known that the post itself is the deity of this sūkta. In the eleventh ṛk of this sūkta, वनस्पते शतवल्यो विरोह सहस्रवल्या वि वयं रुहेम (*vanaspate śatavalyo viroha sahasravalyā vi vayaṃ ruhema*), "O Vanaspati, grow with hundreds and thousands of sprouts" applies to Vanaspati as a tree. In the ṛk ऋ सं. १०-७०-१० (*ṛ saṃ. 10-70-10*), वनस्पते रशनया नियूय (*vanaspate raśanayā niyūya*), "O Vanaspati, bind with the rope for binding the animal", confirms the sense "sacrificial post" for the word *vanaspati*. Therefore *vanaspati* means the sacrificial post; "Agni" is the indirect sense.
+
+### Printed p. 267
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 9] Ṛgveda-saṃhitā 267 (as supplied).*
+
+The nature of Vanaspati must be understood by much examination. On the basis of this word some modern Western scholars have concluded that in the Vedic period the violent animal sacrifice was prominent and that the Āprī sūktas were *prayāja* mantras connected with such a sacrifice.
+
+From a gross point of view *vanaspati* is the sacrificial post to which the sacrificial animal is bound. But whether it is the post to which the sacrificial animal is bound or not, its nature can be determined after noting the scriptural sentences and relying on them. In the Praiṣa sūkta:
+
+होता यक्षद्वनस्पतिमुपावस्रक्षद्धियो जोष्टारग्ं शशमं नरः । स्वदात्स- (*hotā yakṣadvanaspatimupāvasrakṣaddhiyo joṣṭāragṃ śaśamaṃ naraḥ | svadātsa-*)
+धितिर्यतुथाद्य देवो देवेभ्यो हव्यवाड्वेत्वाज्यस्य होतर्यज । (*dhitiryatuthādya devo devebhyo havyavāḍvetvājyasya hotaryaja |*)
+(तै. ब्रा. ३-६-२-२) (*(tai. brā. 3-6-2-2)*)
+
+the commentary on this mantra is as follows: वनस्पतिं यूपाधारभूतं दशमप्रयाजदेवतात्मक- मग्निं दैवो होता यजतु (*vanaspatiṃ yūpādhārabhūtaṃ daśamaprayājadevatātmaka- magniṃ daivo hotā yajatu*): "let the divine hotṛ sacrifice to Agni in the form of the tenth *prayāja* deity, who is the support of the post"; that is, Vanaspati is the support of the post, and the hotṛ is to sacrifice to him, Agni, the tenth *prayāja* deity. Vanaspati has the epithets धियो जोष्णा (*dhiyo joṣṇā*), स्वदात् स्वधितिः (*svadāt svadhitiḥ*), देवेभ्यः ऋतुधा हव्यवाट् (*devebhyaḥ ṛtudhā havyavāṭ*), यज्ञस्य आयुः कल्पमानः (*yajñasya āyuḥ kalpamānaḥ*). Of these, धियो जोष्णा (*dhiyo joṣṇā*) is explained as बुद्धॆः प्रीणयितारं (*buddhèḥ prīṇayitāraṃ*), "a giver of joy to the mind"; स्वदितिः (*svaditiḥ*) as "prepared with the *svadhiti* (thunderbolt or) divine weapon"; ऋतुधा (*ṛtudhā*) as ऋत् विहिते कालविशेषे अद्य अस्मिन्कर्मणि स्वदादस्माभिर्दि- यमानं हविः स्वदयतु । किंच देवो वनस्पतिर्देवेभ्यो देवार्थं हव्या हवींष्य वाड्वहतु (*ṛt vihite kālaviśeṣe adya asminkarmaṇi svadādasmābhirdi- yamānaṃ haviḥ svadayatu | kiṃca devo vanaspatirdevebhyo devārthaṃ havyā havīṃṣya vāḍvahatu*): "at the appointed time, today, in this rite, let him sweeten the oblation given by us, and let the god Vanaspati carry the oblations to the gods": this is the sense of the mantra. And the epithet यज्ञस्य आयुः कल्पमानः (*yajñasya āyuḥ kalpamānaḥ*) means "one who prolongs the life of the sacrifice". By such epithets the Praiṣa sūkta states the identity of Agni and Vanaspati. In the Aitareya-brāhmaṇa it is indicated by the sentence प्राणो वै वनस्पतिः (*prāṇo vai vanaspatiḥ*) (२-४ (*2-4*)) (the print has "ನಿರ್ದೆಶಿಸಿದೆ"). The Nirukta-authors first give the derivation of the word *vanaspati* and then state the nature of Vanaspati in the Āprī sūkta. In explaining the ṛk ऋ. सं. २-३७-३ (*ṛ. saṃ. 2-37-3*) they show the derivation of the word *vanaspati* in it (नि. ८-३ (*ni. 8-3*)): वनानां पाता वा पालयिता वा । वनं वनोतेः (*vanānāṃ pātā vā pālayitā vā | vanaṃ vanoteḥ*): Agni is famed as *vanaspati* as the lord or protector of the forests, and the word is formed from the root *van*, meaning "to obtain"; then, discussing the nature of the deities of the Āprī sūkta (८-१८ (*8-18*)), तत् को वनस्पतिः, यूप इति कात्क्यः अग्निरिति शाकपूणिः (*tat ko vanaspatiḥ, yūpa iti kātkyaḥ agniriti śākapūṇiḥ*), they state the two opinions, and to support the view of Kātkya (the print has दुतवन्नु [?] (*dutavannu [?]*) for the word "view"; marked [?])
+
+### Printed p. 268
+
+*Running head: [268 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+अंजंति त्वामध्वरे देवयंतो वनस्पते मधुना दैव्येन । (*aṃjaṃti tvāmadhvare devayaṃto vanaspate madhunā daivyena |*)
+यदूर्ध्वस्तिष्ठा द्रविणेह धत्ताद्यद्वा क्षयो मातुरस्या उपस्थे ॥ (*yadūrdhvastiṣṭhā draviṇeha dhattādyadvā kṣayo māturasyā upasthe ‖*)
+
+they cited this ṛk. In this ṛk Sāyaṇa addresses the word *vanaspati* as the sacrificial post. Then, to support the view of Śākapūṇi, the Nirukta-authors cited
+
+वनस्पते रशनया नियूया देवानां पाथ उप वक्षि विद्वान् । (*vanaspate raśanayā niyūyā devānāṃ pātha upa vakṣi vidvān |*)
+स्वदाति देवः कृणवद्धवींष्यवतां द्यावापृथिवी हवं मे ॥ (*svadāti devaḥ kṛṇavaddhavīṃṣyavatāṃ dyāvāpṛthivī havaṃ me ‖*)
+(१०-७०-१०) (*(10-70-10)*)
+
+Here too Sāyaṇa takes it as the post; but the Nirukta-authors' view is that it is the Agni inside the post. Durgācārya, explaining this ṛk in the Nirukta, says एवमग्निर्वनस्पतिः । यत् पुनरेतदुक्तं यूपांजनीयायां 'यूपे वनस्पतिशब्दः' इति । अत्र ब्रूमः—अग्निरेवास् यूपांतर्गतो यूपात्मना वर्तमानो यूपां- जनीयायां वनस्पतिशब्देनोच्यते (*evamagnirvanaspatiḥ | yat punaretaduktaṃ yūpāṃjanīyāyāṃ 'yūpe vanaspatiśabdaḥ ' iti | atra brūmaḥ—agnirevās yūpāṃtargato yūpātmanā vartamāno yūpāṃ- janīyāyāṃ vanaspatiśabdenocyate*). He thus establishes that here *vanaspati* is none other than the Agni within the post. The authors of the Bṛhaddevatā:
+
+वनस्पतिं तु यं प्राहुरयं सोऽग्निर्वनस्पतिः । (*vanaspatiṃ tu yaṃ prāhurayaṃ so 'gnirvanaspatiḥ |*)
+अयं वनानां हि पतिः पाता पालयतीति वा ॥ (*ayaṃ vanānāṃ hi patiḥ pātā pālayatīti vā ‖*)
+अग्निर्गृत्समदेनायं वनस्पतिरितीळितः । (*agnirgṛtsamadenāyaṃ vanaspatiritīḷitaḥ |*)
+मंदस्वेत्यस्य सूक्तस्य षळ्ळ्यचस्य तृतीयया ॥ (*maṃdasvetyasya sūktasya ṣaḷḷyacasya tṛtīyayā ‖*)
+यूपवत्तरुवच्चैव स्तुतियार्यस्य प्रसंगजा । (*yūpavattaruvaccaiva stutiyāryasya prasaṃgajā |*)
+सर्वेणांजति सूक्तेन तृतीये सा तु मंडले ॥ (*sarveṇāṃjati sūktena tṛtīye sā tu maṃḍale ‖*)
+(बृ. दे. ३-२६रिंद २८) (*(bṛ. de. 3-26riṃda 28)*)
+
+by these sentences they discuss the nature of the Āprī deity addressed in the ṛk ऋ. सं. १-१३-११ (*ṛ. saṃ. 1-13-11*) and say that here *vanaspati* means the terrestrial Agni, that in the ṛk ऋ सं. २-३७-२ (*ṛ saṃ. 2-37-2*) too Gṛtsamada addresses this terrestrial Agni by the word *vanaspati*, and that only in some ṛks of the third maṇḍala is the sense post or tree, and that also by contextual reasons. Besides:
+
+इहैष पवमानोग्निर्मध्यमोग्निर्वनस्पतिः । (*ihaiṣa pavamānognirmadhyamognirvanaspatiḥ |*)
+अमुष्मिन्नेव विप्रैस्तु लोकेग्निश्युचिरुच्यते ॥ (*amuṣminneva vipraistu lokegniśyucirucyate ‖*)
+(बृ दे १-६६) (*(bṛ de 1-66)*)
+
+(the supplied text breaks off here, at the end of the window, after the Bṛhaddevatā verse).
+
 ---
 
-**Progress note:** Done through printed p. 265 (PDF 265). Done through printed p. 265 (Sukta 188 Rik 9 complete; Rik 10 Samhita, Pada, bhashya done; Pratipadartha begun, breaks off after sisvadat); [?] on tryanya, trishna
+**Progress note:** Done through printed p. 268 (PDF 268). Done through printed p. 268 (Sukta 188 Rik 10 complete through Special Topics on vanaspati, breaks off after the Brihaddevata verse on p. 268); [?] on dutavannu
