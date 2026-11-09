@@ -14894,6 +14894,105 @@ By you (Agni), may the Gritsamadas, repeating your praise, become masters of the
 
 *(The supplied text ends here, after the Pada of Ṛk 1 of Sūkta 5 on p. 490; the bhāṣya follows in the next window.)*
 
+### Printed p. 491
+
+*Running head (as supplied): [अ. २ अ. ५ व. २६] ऋग्वेदसंहिता 491 (*[a. 2 a. 5 va. 26] ṛgvedasaṃhitā 491*).*
+
+*(Continuation of Ṛk 1 of Sūkta 5 of Maṇḍala 2: its bhāṣya follows the Pada of the previous page.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> होता होमनिष्पादकश्चेतनश्चतयितास्मदनुष्ठितस्य पिता पालकोऽस्मद्यज्ञस्य
+> ईदृशोग्निरजनिष्ट । उत्पन्नः । किमर्थं । पितृभ्यः पालकेभ्यो यजमानेभ्यः ॥
+> षष्ठ्यर्थे चतुर्थी ॥ तेषामूतये रक्षणाय च । वयं च वाजिनो हविर्लक्षणान्न-
+> वंतः संतः प्रयक्षं प्रकर्षण पूज्यं जेन्यं जीतव्यं यमं यमयितव्यं वसु
+> धनं शकेम । शक्ता भूयास्म लब्धुमिति शेषः । यद्वा वाजिनोऽन्नस्य यमं
+> यमनं कर्तुं शकेम । प्रयक्षं जेन्यं वसु धनमित्युपमानं । उक्तलक्षणं धनमिव ।
+> तद्यथावरोद्दुं शक्नुमस्तद्वत् ॥
+
+*Gist:* Agni, hotṛ, instigator and protector of our rite, is born to protect the sacrificers; with food offered may we win worshipful, conquerable, controllable wealth.
+
+*[In the supplied text a word of the bhāṣya for the sixth case was printed with Devanagari letters for its conjuncts inside the Kannada text; it is rewritten letter for letter as Kannada, as noted in the Kannada text. The bhāṣya contains short grammatical remarks; they are transcribed in the block and not explained.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+होता—होमसंपादकनू (*hotā—homasaṃpādakanū*) (the accomplisher of homa). चेतनः—(नम्म अनुष्ठानगळिगॆ) चैतन्यवन्नुंटुमाडु ववनू (*cetanaḥ—(namma anuṣṭhānagaḷigè) caitanyavannuṃṭumāḍu vavanū*) (one who animates (our rites) (the word is divided by a line break)). पिता—नम्म यज्ञद पालकनू आद अग्नियु (*pitā—namma yajñada pālakanū āda agniyu*) (the protector of our sacrifice, Agni). पितृभ्यः—यज्ञकर्तर (*pitṛbhyaḥ—yajñakartara*) (of the sacrificers). ऊतये— रक्षणॆगागि (*ūtaye— rakṣaṇègāgi*) (for the protection). अजनिष्ट—उत्पन्ननागिद्दानॆ (*ajaniṣṭa—utpannanāgiddānè*) (he has been born). (वयं—नावू सह) (*(vayaṃ—nāvū saha)*) ((we also)). वाजिनः—हविस्सिन रूपद अन्नवंतरागि (*vājinaḥ—havissina rūpada annavaṃtarāgi*) (possessing food in the form of oblation). प्रयक्षं—अतिशयवागि पूज्यवादुदू (*prayakṣaṃ—atiśayavāgi pūjyavādudū*) (exceedingly worshipful). जेन्यं—जेतव्यवादुदू (*jenyaṃ—jetavyavādudū*) (to be won). यमं— नम्म नियमदल्लिरतक्कद्दू आद (*yamaṃ— namma niyamadalliratakkaddū āda*) (within our control). वसु—धनवन्नु (*vasu—dhanavannu*) (wealth). शकेम—हॊंदुवंतागलि. (*śakema—hòṃduvaṃtāgali.*) (may we obtain).
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, the accomplisher of homa, the giver of vitality to us, the protector of our sacrifice, has been born for the protection of the sacrificers. May we also, possessing food in the form of oblation, worship Agni and obtain wealth that is exceedingly worshipful and within our control.
+
+**Printed English translation**
+
+An invoker (of the gods), our instructor and protector, has heen [sic] born for the preservation of our patrons ; may we, possessed of (sacrificial) food be able to acquire worshipful, conquerable, and manageable riches.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 1)**
+
+चेतनः— चेतॆयिता अस्मदनुष्ठितस्य । (*cetanaḥ— cetèyitā asmadanuṣṭhitasya |*) (as printed): one who is the impeller of the sacrificial rites and the like that we perform or are performing; that is, one who gives us the power and capacity to accomplish them.
+
+पिता (*pitā*): Sāyaṇa has explained that this word, formed from the root meaning "to protect", means "protector". Yāska, having cited the ṛk (cited in the next lines) ... (the sentence continues on the next page)
+
+### Printed p. 492
+
+*Running head (as supplied): [492 सायणभाष्यसहिता [ मं. २. अ.१ . सू.५] (*[492 sāyaṇabhāṣyasahitā [ maṃ. 2. a.1 . sū.5]*).*
+
+दौर्मे पिता जनिता नाभिरत्र बंधुर्मे माता पृथिवी महीयं । (*daurme pitā janitā nābhiratra baṃdhurme mātā pṛthivī mahīyaṃ |*)
+उत्तानयोश्चन्वो ३ र्योनिरंतरत्रा पिता दुहितुर्गर्भमाधात् ॥ (*uttānayoścanvo 3 ryoniraṃtaratrā pitā duhiturgarbhamādhāt ‖*)
+
+(म. सं. १-१६४-३३ (*ma. saṃ. 1-164-33*)) (as printed; the first abbreviation is a misprint) (rendered loosely: heaven is my father, the begetter; here is the navel, the bond; my kinsman is my mother, this great earth; of the two upturned bowls the womb is in between; there the father placed the embryo of the daughter), has said of the word पिता (*pitā*) there: पाता ना पालयिता ना (*pātā nā pālayitā nā*) (as printed), "protector or preserver" or "guardian" (नि. ४-२१ (*ni. 4-21*)); and, having cited the ṛk
+
+उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः । (*udīratāmavara utparāsa unmadhyamāḥ pitaraḥ somyāsaḥ |*)
+असुं य ईयुरवृका ऋतज्ञास्ते नोऽवन्नु पितरो हवेषु ॥ (*asuṃ ya īyuravṛkā ṛtajñāste no 'vannu pitaro haveṣu ‖*)
+
+(ऋ, सं. १०-१५-१ (*ṛ, saṃ. 10-15-1*)) (rendered loosely: may the lower, the higher and the middle Fathers, the Soma-drinkers, rise; may those unharmed, truth-knowing Fathers who have attained life protect us in the invocations), he has given the meaning "Pitṛ deities" for the word पितरः (*pitaraḥ*) in it (नि. ११-१८ (*ni. 11-18*)). Sāyaṇa has explained both words पिता (*pitā*) and पितृभ्यः (*pitṛbhyaḥ*) in the present ṛk with the meaning "protector", applying "protector" to Agni and "the protecting sacrificers" to the sacrificers. Although the meaning "protector" given by Sāyaṇa for the word पिता (*pitā*) suits Agni, there is no objection to giving for पितृभ्यः (*pitṛbhyaḥ*) the meaning "for (the protection of) the Pitṛ deities" rather than "for the sacrificers". The scholar Wilson (the name in Latin letters in the Kannada text) has approved the meaning "Pitṛ deities" itself.
+
+वाजिनः—हविर्लक्षणान्नवंतः । (*vājinaḥ—havirlakṣaṇānnavaṃtaḥ |*) The word वाजः (*vājaḥ*) is read among the twenty-eight names of food (नि. ३-९ (*ni. 3-9*)) (the print has a misspelt word for "read"); वाजिनः (*vājinaḥ*) means those accompanied by food, or those who have the food in the form of oblation prepared to offer to Agni.
+
+जेन्यं वसु (*jenyaṃ vasu*)—वसु (*vasu*) means wealth. This wealth should be worthy of being won by us; that is, it should be such that, subduing the enemies, we win their wealth and bring it under our control. Agni is prayed that we may be able to obtain such wealth.
+
+In this ṛk and in the following ṛks Agni is addressed and praised as the priests who take part in the sacrifice: the hotṛ, the netṛ, the praśāstṛ, the neṣṭṛ, the adhvaryu and the rest. In the present ṛk, praising Agni as होता (*hotā*) (one who invokes the gods at the sacrifice) or होमनिष्पादकः (*homaniṣpādakaḥ*) (one who accomplishes the homa), it is described that Agni, of such greatness, has been born (for our sacrifice, in the fire-sticks).
+
+### Printed p. 493
+
+*Running head (as supplied): [अ. २. अ. ५. व. २६.] ऋग्वेदसंहिता 493 (*[a. 2. a. 5. va. 26.] ṛgvedasaṃhitā 493*).*
+
+#### Ṛk 2
+
+*[One reading of the Saṃhitā is marked with a query, as it differs from the Pada.]*
+
+**॥ संहितापाठः ॥**
+
+> आ यस्मि॑न्त॒प्त [?] र॒श्मय॑स्त॒ता य॒ज्ञस्य॑ ने॒तरि॑ ।
+> म॒नु॒ष्वद्दैव्य॑मष्ट॒मं पोता॒ विश्वं॒ तदि॑न्वति ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । यस्मिन् । सप्त । रश्मयः । तताः । यज्ञस्य । नेतरि ।
+> मनुष्वत् । दैव्यं । अष्टमं । पोता । विश्वं । तत् । इन्वति ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यज्ञस्य नेतरि यागस्य निर्वाहके यस्मिन्नग्नौ सप्त रश्मयः सप्तसंख्याका रश्मि-
+> वद्वाप्ता होत्रका आतताः । स्वस्वकर्मभिः सर्वतो व्याप्ता भवंति । स पोता
+> पावको देवानां प्रोत्राख्य ऋत्विग्रूपो वाग्निर्मनुष्वत् मनुष्यपोतृवत्
+> दैव्यं । देवो यज्ञः । तत्संबंध्यष्टममष्टर्त्विक्संबंधि तद्विश्वं कर्तव्यजातं सप्त
+> होत्रकैः सह स्वयमष्टमः सन् इन्वति । व्याप्नोति । यद्वा तदित्यस्य लिंगव्यत्ययः। स
+> पोतेति संबंधः । सप्तहोत्रकैः सहाष्टमो भूत्वा तद्विद्यज्ञं निर्वहतीत्यर्थः ॥
+
+*Gist:* In Agni, the leader of the sacrifice, the seven hotṛ-rays are spread; as the divine potṛ he, as eighth, accomplishes the whole rite.
+
+*(The bhāṣya contains a short grammatical remark on the change of gender; it is transcribed in the block and not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यज्ञस्य नेतरि—यज्ञक्कॆ नेतृवाद (निर्वाहकनाद) (*yajñasya netari—yajñakkè netṛvāda (nirvāhakanāda)*) (in the leader (manager) of the sacrifice). यस्मिन्—याव अग्नियल्लि (*yasmin—yāva agniyalli*) (in which Agni). सप्त रश्मयः—(सप्तरश्मिरूपदल्लिरुव) सप्तसंख्याकराद होतृगळू (*sapta raśmayaḥ—(saptaraśmirūpadalliruva) saptasaṃkhyākarāda hotṛgaḷū*) (the seven hotṛs in the form of the seven rays). आ तताः—तम्म तम्म कर्तव्यगळॊडनॆ सर्वत्र व्यापिसिद्दारॆयो अंतह (*ā tatāḥ—tamma tamma kartavyagaḷòḍanè sarvatra vyāpisiddārèyo aṃtaha*) (have spread everywhere with their respective duties, such). पोता—(देवतॆगळिगॆ) पोतृवॆंब ऋत्विक्काद अग्नियु (*potā—(devatègaḷigè) potṛvèṃba ṛtvikkāda agniyu*) (Agni, the priest called potṛ (for the gods)). मनुष्वत्—मानव ऋक्कुगळल्लि ऒब्बनाद पोतृविनंतॆ (*manuṣvat—mānava ṛkkugaḷalli òbbanāda potṛvinaṃtè*) (like the potṛ, one of the human priests). दैव्यं—देवतात्मवाद यज्ञदल्लि (*daivyaṃ—devatātmavāda yajñadalli*) (in the divine sacrifice). अष्टमं—(उळिद एळु ऋत्विक्कुगळॊडनॆ) सेरि ऎंटनॆय ऋत्विक्कागि (*aṣṭamaṃ—(uḷida eḷu ṛtvikkugaḷòḍanè) seri èṃṭanèya ṛtvikkāgi*) (joining the other seven priests as the eighth priest). तत् विश्वं— समस्तवाद कर्तव्यवन्नु (*tat viśvaṃ— samastavāda kartavyavannu*) (the whole duty). इन्वति—व्यापिसुत्तानॆ. (निर्वहिसुत्तानॆ) (*invati—vyāpisuttānè. (nirvahisuttānè)*) (he pervades (he accomplishes)).
+
+**भावार्थ (Bhāvārtha)**
+
+In Agni, the accomplisher of the sacrifice, the seven hotṛs, in the form of seven rays, are spread everywhere with their respective duties. That Agni, the divine potṛ, accomplishes the whole duty of the sacrifice, like a human potṛ.
+
+*(The supplied text ends here, at the end of the Bhāvārtha of Ṛk 2 on p. 493; the printed English follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 490 (PDF 490). Mandala 2 Sukta 4 complete; Sukta 5 introduction and Rik 1 Samhita and Pada
+**Progress note:** Done through printed p. 493 (PDF 493). Mandala 2 Sukta 5 Rik 1 complete; Rik 2 through the Bhavartha; one Saṃhitā reading marked with a query; Devanagari letters in the bhashya rewritten as Kannada
