@@ -2648,6 +2648,101 @@ nowhere else. There too it praises the qualities of Heaven and Earth.
 
 *[The Saṃhitā of Ṛk 8 begins at the end of p. 88; the block is incomplete and continues on the next page.]*
 
+### Printed p. 89
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 3] Ṛgveda-saṃhitā 89 (as supplied). The Saṃhitā of Ṛk 8 began at the end of p. 88 (previous window, block incomplete); the remaining two lines are given here as a separate block, and the Pada follows.*
+
+**Saṃhitā-pāṭha** (continuation of Ṛk 8)
+
+> इयं धीर्भूया अवयानमेषां द्यावा रक्षतं पृथिवी
+> नो अभ्वात् ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+*[In the supplied text the Pada of this ṛk was a picture; it was viewed and agrees with the machine text, which has been used with the lines joined.]*
+
+> देवान् । वा । यत् । चकृम । कत् । चित् । आगः । सखायं । वा । सदं । इत् । जाःपतिं । वा ।
+> इयं । धीः । भूयाः । अव्ययानं । एषां । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ८ ॥
+
+> *devān | vā | yat | cakṛma | kat | cit | āgaḥ | sakhāyaṃ | vā | sadaṃ | it | jāḥpatiṃ | vā |*
+> *iyaṃ | dhīḥ | bhūyāḥ | avyayānaṃ | eṣāṃ | dyāvā | rakṣataṃ | pṛthivī iti | naḥ | abhvāt ‖ 8 ‖*
+
+*[As supplied, the label line of the next section reads साहणभाष्यं (*sāhaṇabhāṣyaṃ*) (inside the bhāṣya block); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे द्यावापृथिव्यौ वयं देवान् देवान्प्रति यत्कच्चिदागोऽपराधं तत्तद्या-
+> गकाले तेषां तेषामयागलक्षणं सदमित्सर्वदैव चकृम कृतवंतो वयं ।
+> सखायं वा प्रियं मित्रं वा प्रति यच्चक्रम । जास्पतिं । जाः पुत्रः । तासां पतिं
+> जामातरं वा जायापतिं प्रति दोषारोपणकलहोत्पादनादिरूपं यत्सर्वदैव
+> चकृम । एषामुक्तरूपाणां पापानामपगमं कर्तुमियं धीर्युष्मत्सुतिरूप-
+> मिदं कर्म भूयाः । भूयात् । भवतु । द्यावेत्यादि गतं । अत्र सर्वत्र प्रकारांत-
+> रेण मंत्रमंतरेण रक्षतं रक्षतमिति प्रार्थनं तयोरश्विन्यादिबहुमननासंभवा-
+> दुचितमेव । तस्मात्स्थान एव स्थिते अनुकूले भवतमित्येवं प्रार्थ्यते ॥
+
+*Gist:* The offences we have committed against the gods, friends or a son-in-law: may this praise-rite be their expiation; protect us from great fear.
+
+*[As supplied, the label line of the next section reads ॥ प्रतिदर्थ ॥ (*‖ pratidartha ‖*) (inside the bhāṣya block); standard label inserted. The following paragraph is the Pratipadārtha.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O Heaven and Earth) वयं (*vayaṃ*) — we. देवान् वा (*devān vā*) — whether towards the gods. यत्कच्चिदागः (*yatkaccidāgaḥ*) — whatever offence, whether a fault or a transgression. सदमित् (*sadamit*) — always. चकृम (*cakṛma*) — we may have done (likewise). सखायं वा (*sakhāyaṃ vā*) — or towards friends. जास्पतिं (*jāspatiṃ*) — towards a son-in-law (whatever offence we may have committed; the stray syllable ना (*nā*) stands in the supplied text). एषां (*eṣāṃ*) — of such offences. अवयानं (*avayānaṃ*) — as a means of atonement. इयं धीः (*iyaṃ dhīḥ*) — this action consisting of praise. भूयाः (*bhūyāḥ*) — may it be. द्यावापृथिवी (*dyāvāpṛthivī*) — O Heaven and Earth. नः (*naḥ*) — us. अभ्वात् (*abhvāt*) — from great fear. रक्षतं (*rakṣataṃ*) — protect.
+
+### Printed p. 90
+
+*Running head: [90 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185] (the print has "ಆ." for the second abbreviation, as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+
+O Heaven and Earth, whatever offences we have committed on all the occasions of the sacrifices we perform, against the gods, and likewise whatever offences we have committed against friends and sons-in-law: may this rite of praise be the atonement for all such offences. O Heaven and Earth, save us from terrible sin and protect us.
+
+**Printed English translation**
+
+May this sacrifice be the means of expiating those offences which we may have committed against the gods, against a friend at any time, against a sun-in-law [sic] : defend us, Heaven and Earth, from great danger.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the ṛṣi humbly prays to the gods to forgive the many faults and offences that may arise in the sacrificial rite that he performs or is now performing.
+
+आगः—पाप, (*āgaḥ—pāpa,*) — the meaning is sin, offence. Explaining the derivation of this word, Yāska quotes the ṛk
+
+यस्मै त्वं सुद्रविणो ददाशोऽनागास्त्वमदिते सर्वताता । (*yasmai tvaṃ sudraviṇo dadāśo 'nāgāstvamadite sarvatātā |*)
+यं भद्रेण शवसा जोदयासि प्रजावता राधसा ते स्याम ॥ (*yaṃ bhadreṇa śavasā jodayāsi prajāvatā rādhasā te syāma ‖*)
+
+(मि. सं. १-९४-१५) (*(mi. saṃ. 1-94-15)*) (as printed; the book prints "ಮಿ. ಸಂ.")
+
+and then gives the derivation: आग आज्‌पूर्वाद्धमेः (अवश्यमेवैतदागच्छति कर्तारमित्यागः) एन एतेः. किल्बिषं सुकृतकर्मणो भयं कीर्तिमस्य भिनत्तीति वा । (*āga ājpūrvāddhameḥ (avaśyamevaitadāgacchati kartāramityāgaḥ) ena eteḥ. kilbiṣaṃ sukṛtakarmaṇo bhayaṃ kīrtimasya bhinattīti vā |*) ("it comes inevitably to the doer, therefore *āgaḥ*"; from *ā* + *i*, "to go"; or "it breaks the fear and the fame of one of good deeds"; this is the sense of the Sanskrit). Since the sin that may arise from the faults committed by the sacrificer in sacrifices and the like follows the sacrificer and comes to him without fail, such a sin or offence is called *agaḥ*; having so explained, he gives by the way the meaning of the word *kilbiṣa* too, which is similar.
+
+It need not be thought that the offence the ṛṣi mentions concerns the gods alone: it is said that he expresses repentance also with regard to the people who take part in the sacrificial rites (the priests and so on), friends, the son-in-law and other relatives. The offence against people is that mutual fault-finding, quarrels and the like are likely to arise, and the ṛṣi prays that these be forgiven.
+
+जास्पतिं— (*jāspatiṃ—*) — the word जाः (*jāḥ*) is read among the names of offspring ((नि. ३. २.) (*(ni. 3. 2.)*)); it means a daughter. The husband of a daughter is well known as *jāspati* or *jāmātā*. Yāska gives the derivation of the word *jāmātā* as
+
+### Printed p. 91
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 3.] Ṛgveda-saṃhitā 91 (as supplied).*
+
+जामाता जा अपत्यं तन्निर्माता (*jāmātā jā apatyaṃ tannirmātā*); to this Durgācārya, in his commentary, says: व्याख्यानदल्लि—जा अपत्यं स्त्रीत्वं हि मैथुनेन व्यवहारेणासौ निर्मिणोति तेनासौ दुहितुः पतिर्जामाता भवति (नि. ६-९) (*vyākhyānadalli—jā apatyaṃ strītvaṃ hi maithunena vyavahāreṇāsau nirmiṇoti tenāsau duhituḥ patirjāmātā bhavati (ni. 6-9)*) (the supplied text runs the word व्याख्यानदल्लि—जा (*vyākhyānadalli—jā*) together with the preceding dash). Because he produces offspring in the daughter, the son-in-law is called *jāmātā*.
+
+धीः—इयं धीर्युष्मत्सुतिरूपं कर्म । (*dhīḥ—iyaṃ dhīryuṣmatsutirūpaṃ karma |*) — "this *dhī* is the rite consisting of your praise"; the word *dhī* is read among the names of actions ((नि. ३-२) द्यावापृथिविगळाद (*(ni. 3-2) dyāvāpṛthivigaḷāda*)). The ṛṣi means: the rite of praise that I perform in your honour, O Heaven and Earth.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+चक्रम—यद्योगविरुवुदरिंद (*cakrama—yadyogaviruvudariṃda*) ("because of the word *yat* (the relative) the verb-*nighāta* does not occur; by the suffix accent the last syllable is acute"). जास्पतिम्—जायंते (*jāspatim—jāyaṃte*) ("those who are born" इति जाः. (*iti jāḥ.*)): by the sense of the word "seeing" the suffix *ḍa* although no upapada is present; because of the mark *ḍ* the loss of *ṭi*; plural by the nature of the word; "the husband of the *jā*s"; the first-member's own accent. आग:— (*āga:—*) (root इण् गतौ धातु. (*iṇ gatau dhātu.*), "to go"): by इण आगोपराधेच (उ. सू. ४-६५१) (*iṇa āgoparādheca (u. sū. 4-651)*) (Uṇ. Sū. 4-651, as printed) the suffix *asun*; the substitute *āga* for the root; because of the mark *n* the first-syllable acute. भूयाः— (*bhūyāḥ—*) (root भू सत्तायां धातु. (*bhū sattāyāṃ dhātu.*), "to be"): by व्यत्ययो बहुलम् (पा. सू. ३-१-८५) (*vyatyayo bahulam (pā. sū. 3-1-85)*) (Pā. Sū. 3-1-85) the second-person singular ending in place of the third-person singular of the optative (benedictive); because it follows a non-verb the *nighāta* accent arises.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> उ॒भा शंसा॒ नर्या॒ माम॑विष्टामु॒भे मामू॒ती अव॑सा सचेतां ।
+> भूरि॑ चिद॒र्यः सु॒दास्त॑राये॒षा मदं॑त इषयेम देवाः ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> उभा । शंसा । नर्या । मां । अविष्टां । उभे इति । मां । ऊती इति । अवसा ।
+> सचेतां ।
+
+*[The Pada of Ṛk 9 is incomplete at the end of p. 91 and continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 88 (PDF 88). Done through printed p. 88 (Sukta 185 Rk 7 complete; Rk 8 Samhita begun, block incomplete at end of p. 88)
+**Progress note:** Done through printed p. 91 (PDF 91). Done through printed p. 91 (Sukta 185 Rk 8 complete; Rk 9 Samhita done, Pada incomplete at end of p. 91)
