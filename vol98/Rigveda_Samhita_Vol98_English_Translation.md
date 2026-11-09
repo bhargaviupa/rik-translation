@@ -3074,6 +3074,62 @@ explains: सजोषाः-सह जोषणः (समानप्रीत
 
 शवः— (*śavaḥ—*) — the word शवः (*śavaḥ*) is said among the names of water ((नि. २-२४) (*(ni. 2-24)*)) and among the names of strength ((नि. ३-९) (*(ni. 3-9)*)); so शवः (*śavaḥ*) means "strength". Here the bhāṣyakāra has taken it as food that produces strength (nourishing).
 
+### Printed p. 102
+
+*Running head: [102 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186]. The window continues the Special Topics of Ṛk 1 of Sūkta 186 from p. 101.*
+
+विश्वे (*viśve*) (the Viśve Devāḥ) — this name is read among the thirty-one names that denote special deities such as the Aśvins. The bhāṣyakāra says that these are separate special deities. Some say they are all the gods. But from what is said in other sūktas it can be stated plainly that the ṛṣis worshipped the Viśve Devāḥ as separate deities. On this matter Yāska has written an explanation of the ṛk ओमासः (*omāsaḥ*):
+
+अवितारो वावनीया वा मनुष्यधृतः सर्वॆ देवा इहागच्छत दत्तवंतो दत्तवतः सुतमिति, तदेततेकमेव वैश्वदेवं गायत्रं तृचं दशतयीषु विद्यते यत्तु किंचि- द्वहुदैवतं तद्वैश्वदेवानां स्थाने युज्यते यदेव विश्वलिंगमिति (*avitāro vāvanīyā vā manuṣyadhṛtaḥ sarvè devā ihāgacchata dattavaṃto dattavataḥ sutamiti, tadetatekameva vaiśvadevaṃ gāyatraṃ tṛcaṃ daśatayīṣu vidyate yattu kiṃci- dvahudaivataṃ tadvaiśvadevānāṃ sthāne yujyate yadeva viśvaliṃgamiti*)
+
+(नि. १२-४०) (*(ni. 12-40)*) In the sense of this ṛk there is no difference between the meaning we have given and Yāska's meaning. But, according to Yāska, *viśve devāḥ* means "all the gods", while the Viśve Devāḥ as a special group of deities called by that name is the opinion of one Śākapūṇi, as Yāska himself says. It can therefore be said firmly that already in his time there was a difference of opinion on this matter. As is the custom today in domestic and similar rites, these Viśve Devāḥ are not of the group of the common gods but a special group of thirteen persons. Be that as it may, it seems right to say that the Viśve Devāḥ described in the Ṛgveda belong to a separate group of deities.
+
+In the Ṛgveda there are 63 sūktas that praise the Viśve Devāḥ alone. Besides, in the sūkta १-१६४ (*1-164*) the first 41 ṛks are addressed to the Viśve Devāḥ. In all of these, except the sūkta ऋ सं. १०-१५५ (*ṛ saṃ. 10-155*), many deities, that is, Agni, Indra and other gods, as in other sūktas, are praised, and besides them trees, rivers, mountains, cows, horses and the like are also celebrated. Apart from these, in sūktas of other deities, in many places a total of 17 ṛks are addressed to the Viśve Devāḥ. In all these places the Viśve Devāḥ themselves are named as the deity of the ṛks. And in the mantra ऋ. सं. १०-१२५-१ (*ṛ. saṃ. 10-125-1*) the Vasus, Rudras and Ādityas are included along with the Viśve Devāḥ.
+
+In the mantra २-२२ (*2-22*) of the Vājasaneyi Saṃhitā (Śukla Yajurveda) Indra, the Ādityas, the Vasus and the Maruts are prayed to join the Viśve Devāḥ. In the mantras ३३-४५ रिंद ४७ (*33-45 riṃda 47*) of the same Saṃhitā, Indra, Vāyu and other gods are praised together with the Viśve Devāḥ.
+
+In the mantra २०-६२-६ (*20-62-6*) of the Atharvaveda the Viśve Devāḥ are indicated in the singular, and there are many sūktas in the Atharvaveda addressed to the Viśve Devāḥ.
+
+### Printed p. 103
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 103 (as supplied).*
+
+In the Brāhmaṇas too the name of the Viśve Devāḥ is mentioned here and there. In the Kauṣītaki Brāhmaṇa (४-१४ (*4-14*)) and the Gopatha Brāhmaṇa (१-२० (*1-20*)) all the gods are addressed by the very name Viśve Devāḥ. In the Śatapatha Brāhmaṇa (३-९-२-६ (*3-9-2-6*)) the Viśve Devāḥ are called the rays of the sun, in Śat. Brā. १४-२-२-३७ (*14-2-2-37*) the vital airs such as *prāṇa*, in Śat. Brā. ७-१-१-४२ (*7-1-1-42*) the sacrificial rites, and in Śat. Brā. २-४-४-१३ (*2-4-4-13*) Indra and Agni. In the Taittirīya Āraṇyaka (तै. आ. ५-१-६ (*tai. ā. 5-1-6*)) Indra and Agni are praised together with the Viśve Devāḥ. In some places in the Purāṇas the Viśve Devāḥ are said to be the lords of the quarters.
+
+In the Nirukta (नि. १२-३९ (*ni. 12-39*)) it is said that the Viśve Devāḥ are all the gods. Durgācārya, the commentator of the Nirukta, has explained the Viśve Devāḥ as the rays of the sun. Yāska, the author of the Nirukta, has stated his opinion that the Viśve Devāḥ are all the gods, and has also indicated the opinion of Śākapūṇi. Śaunaka, in his work the Bṛhaddevatā (बृ. दे. २-१४८ रिंद १३४ (*bṛ. de. 2-148 riṃda 134*), verses), speaking of the Viśve Devāḥ, says that Yāska and Śāṇḍilya hold that *viśve devāḥ* means all the gods. Śaunaka's view is the same.
+
+Sāyaṇācārya, in commenting on this ṛk, has expressed his opinion that the Viśve Devāḥ are a group of thirty-one gods beginning with the Aśvins, called Viśve Devāḥ together.
+
+Among Western scholars, Langlois, Kaegi and Hopkins hold that the Viśve Devāḥ are all the gods; Wilson, Griffith and Macdonell accept both meanings: all the gods, or a separate group of gods called the Viśve Devāḥ.
+
+The main point is this: in the earliest, very ancient time the meaning "all the gods" was current for the Viśve Devāḥ, and in course of time it came into use to regard the Viśve Devāḥ as a separate group of gods of that name. In many Brāhmaṇas and Purāṇas the Viśve Devāḥ are indicated as a separate group of gods. But that even in Yāska's time there was a difference of opinion on this matter is known from Yāska's Nirukta itself.
+
+In the Ṛgveda, besides the ṛks to the Viśve Devāḥ that occur here and there, there are 58 separate sūktas addressed to the Viśve Devāḥ: in the first Maṇḍala 14, 89, 90, 105, 106 (printed "१.०६ (*1.06*)"), 107, 121, and (the next page begins) 12 [as printed]
+
+### Printed p. 104
+
+*Running head: [104 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 186].*
+
+sūktas; in the second Maṇḍala 29, 31; in the third Maṇḍala 54; in the fourth Maṇḍala 55; in the fifth Maṇḍala 41, 42, 43, 44, 45, 47, 48, 49, 50, 51; in the sixth Maṇḍala 49, 50, 51, 52; in the seventh Maṇḍala 35, 36, 37, 39, 40, 42, 43; in the eighth Maṇḍala 27, 28, 29, 30, 58, 83; in the tenth Maṇḍala 31, 32, 35, 36, 64, 65, 66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181: these sūktas are addressed to the Viśve Devāḥ.
+
+विदथे—यज्ञे (*vidathe—yajñe*) — यज्ञदल्लि (*yajñadalli*) ("at the sacrifice"), that is, "at the place of sacrifice". By वेदयत्सु स्तोत्रेषु निमित्तभूतेषु (*vedayatsu stotreṣu nimittabhūteṣu*) ("in the praises that are the occasion of making known") the derivation of the word *vidatha* is shown. Here only one of the derivations of the Nirukta-author is followed. यज्ञः, वेनः (*yajñaḥ, venaḥ*) ("yajña, vena" and so on) are read among the names of sacrifice ((नि ३-१९), (*(ni 3-19),*) as printed), and विधथानि वेदनानि (*vidhathāni vedanāni*) (*vidathāni* = *vedanāni*, "knowings") — to show that the word *vidatha* means "knowledge" ((नि. ६-७). (*(ni. 6-7).*)).
+
+होता देवो अमत्यर्ति पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥ (*hotā devo amatyarti purastādeti māyayā | vidathāni pracodayan ‖*)
+(ऋ. सं. ३-२७-७) (*(ṛ. saṃ. 3-27-7)*)
+
+having quoted this ṛk, he has shown that in it the word is formed from the root *vid* in the sense of knowing. Here Sāyaṇa has explained विदथानि वेदितव्यानि कर्माणि (*vidathāni veditavyāni karmāṇi*) as "rites that are to be known".
+
+Some scholars have tried to give the exact meaning of this word, and each has given his own personal opinion. Since each has shown a different derivation of this word and given different meanings, it is seen that all these meanings fit according to the context. The scholar Max Müller, in explaining the ṛk
+
+अमादेषां भियसा भूमिरेजति नर्न पूर्णा क्षरति व्यथिर्यती। (*amādeṣāṃ bhiyasā bhūmirejati narna pūrṇā kṣarati vyathiryatī|*)
+दॊरेदृशो ये चितयंत एमभिरंतर्महे विदथे येतिरे नरः ॥ (*dòredṛśo ye citayaṃta emabhiraṃtarmahe vidathe yetire naraḥ ‖*)
+
+((म. सं. ५-५९-२) (*(ma. saṃ. 5-59-2)*), as printed; the book prints "ಮ. ಸಂ.")
+
+has explained the word *vidathe* as "(sacrificial) assembly" (printed in English: "the great sacrificial assembly"). And in giving his explanation, after stating the meanings that other German scholars have given to this word and their opinions on its root, he concludes at the end: "Vidatha may have been the name of a sacred act. as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes." (Sacred Books of the East, Vol. 32, p. 349-50; the reference is printed twice in the supplied text.)
+
+Some have said that a sacred act is the meaning of the word *vidatha*, as sacred knowledge is the meaning of the word *veda*. But he has concluded that there is no doubt that "sacrificial assembly" is the chief meaning of this word.
+
 ---
 
-**Progress note:** Done through printed p. 101 (PDF 101). Done through printed p. 101 (Sukta 185 complete; Sukta 186 Rk 1 with Special Topics begun, incomplete at end of p. 101)
+**Progress note:** Done through printed p. 104 (PDF 104). Done through printed p. 104 (Sukta 186 Rk 1 Special Topics: Visve Devah, vidatha; continues on next page)
