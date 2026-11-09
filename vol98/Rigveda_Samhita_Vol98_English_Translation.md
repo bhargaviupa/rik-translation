@@ -1136,6 +1136,107 @@ That is to say,
 
 *[The window ends here; the Special Topics continue on the next page.]*
 
+### Printed p. 38
+
+*Running head: [38 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184]. The window begins inside the Special Topics of Ṛk 4, after the quotation of the ṛk 1-189-8 that ended p. 37.*
+
+In the ṛk (the one just quoted), "mānasya sūnuḥ" means, in the opinion of the English scholars, Agastya, the son of the sage named Māna. But Sāyaṇa, in explaining the meaning of this word in the same ṛk, has commented thus:
+
+मानस्य सूनुः ; मीयत इति मानः मंत्रः । तस्यसूनुः अग्निः मंत्रेणउत्पा- (*mānasya sūnuḥ ; mīyata iti mānaḥ maṃtraḥ | tasyasūnuḥ agniḥ maṃtreṇautpā-*)
+द्यमानत्वात् । मानस्य सूनौ अग्नौ ॥ (*dyamānatvāt | mānasya sūnau agnau ‖*)
+
+((म. भा. (*(ma. bhā.*) 1-189-8 [as supplied: the print has "ಮ. ಭಾ." for the usual "ಋ. ಸಂ."])
+
+"Māna" means mantra; its son is Agni. Therefore "mānasya sūnuḥ" means Agni, he has explained. Likewise,
+
+सत्रे ह जाताविषिता नमोभिः कुंभे रेतः सिषिचतुः समानं । (*satre ha jātāviṣitā namobhiḥ kuṃbhe retaḥ siṣicatuḥ samānaṃ |*)
+ततो ह मान उदियाय मध्यात्ततो जातमृषिमाहुर्वसिष्ठं ॥ (*tato ha māna udiyāya madhyāttato jātamṛṣimāhurvasiṣṭhaṃ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 7-33-13)
+
+here too, although the sense is Agastya, Sāyaṇa has not stated that मान (*māna*) is a proper name. Therefore wherever the word मान्यस्य (*mānyasya*) occurs, there is a difference between what the English scholars take and what Sāyaṇa explains. In the present ṛk also it can mean either Agastya, the son of Māna, or Agastya the esteemed and worshipful.
+
+कारोः (*kāroḥ*) — the sense given is स्तोतुः अगस्त्यस्य (*stotuḥ agastyasya*), "of the praiser Agastya". The Nirukta authors have read the word कारुशब्दवन्नु (*kāruśabdavannu*) among the names of praise (Ni, 3-19). The authors of the Bṛhaddevatā have used this word in the sense "poets, seers of subtle things (rishis)":
+
+अग्नेस्तु यानि सूक्तानि पंचनामानि कारवः । (*agnestu yāni sūktāni paṃcanāmāni kāravaḥ |*)
+षड्विंशतिस्तथेंद्रस्य प्राहुः सूर्यस्य सप्त च ॥ (*ṣaḍviṃśatistatheṃdrasya prāhuḥ sūryasya sapta ca ‖*)
+
+(Bṛ. De. 2-22)
+
+पृथक्त्वेन समासैस्तु यज्ञे यच्छस्यते नृभिः । (*pṛthaktvena samāsaistu yajñe yacchasyate nṛbhiḥ |*)
+स्तुवंत्याप्रीषु तेनेमं नराशंसं तु कारवः ॥ (*stuvaṃtyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*)
+
+(Bṛ. De. 2-28)
+
+In these sentences, the word कारुगळु (*kārugaḷu*) is used as a word synonymous with "poet", with the sense "they praise" (as printed "ಎ.ದು"). In the Ṛksaṃhitā also,
+
+प्रदक्षिणिदभि गृणंति कारवो वयो वदंत ऋतुथा शकुंतयः । (*pradakṣiṇidabhi gṛṇaṃti kāravo vayo vadaṃta ṛtuthā śakuṃtayaḥ |*)
+
+(Ṛ. Saṃ. 2-43-1)
+
+in ṛks like these also the use of this word in the sense "poet" was told earlier at length.
+
+### Printed p. 39
+
+*Running head: [೨. ೨. ಅ. ೫ ವ. ೧] Ṛgveda-saṃhitā 39 (the print has "೨." for the first "ಅ.", as supplied).*
+
+*[As supplied, the label line reads व्याकरणक्रिया]* (*vyākaraṇakriyā]**) for "Vyākaraṇa-prakriyā".]*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+अस्मे (*asme*): by सुपां सुलुक् (*supāṃ suluk*) the substitute *śe* for the genitive/locative plural ending. माध्वी (*mādhvī*): by मधोरणि च (*madhoraṇi ca*) (Pā. Sū. 4-129 [as printed]) the suffix *añ* after *madhu* in the sense of possession; before it, by ऋत्त्ववास्त्व (*ṛttvavāstva*) (Pā. Sū. 6-4-175) the substitution *yaṇ* is irregularly stated in place of *guṇa*; the vocative *nighāta* accent arises. रातिः (*rātiḥ*): by मंत्रेवृषेषपच (*maṃtrevṛṣeṣapaca*) (Pā. Sū. 3-3-96) the suffix *ktin* takes the acute. हिनोतम् (*hinotam*) (root हि (*hi*) in the sense of going and increase), imperative, second person dual: by तप्तनप्तन (*taptanaptana*) (Pā. Sū. 7-1-45) the substitute *tam*; by स्वादिभ्यःश्नुः (*svādibhyaḥśnuḥ*) (Pā. Sū. 3-1-73) the suffix *śnu*, *guṇa* because it has the mark *p*; the *nighāta* accent because it follows a non-verb. कारोः (*kāroḥ*) (root डुकृञ् करणे (*ḍukṛñ karaṇe*) in the sense of making): the suffix *uṇ* by कृवापा (*kṛvāpā*) (Uṇ. Sū. 1-1), *vṛddhi* of the *ṛ* by अचोञ्णिति (*acoñṇiti*); the accent of the suffix, last-syllable acute. श्रवस्या (*śravasyā*): from श्रवःआत्मनः (*śravaḥātmanaḥ*) "he wishes his own fame", by सुपआत्मनःक्यच् (*supaātmanaḥkyac*) (Pā. Sū. 3-1-8) the suffix *kyac*; then the suffix *a*, feminine *ṭāp*; the instrumental singular, by सुपां सुलुक् (*supāṃ suluk*) the lengthening to the preceding class vowel. सुवीर्याय (*suvīryāya*): "he who has good vigour"; by वीरवीर्यौच (*vīravīryauca*) (Pā. Sū. 6-2-120) the accent of the later word's first syllable overrides the accent of *su*; dative singular. चर्षणयः (*carṣaṇayaḥ*) (root कृष (*kṛṣa*) in the sense of ploughing): by कृषेरादेश्वचः (*kṛṣerādeśvacaḥ*) (Uṇ. Sū. 261 [as printed]) the suffix *ani*, *ca* in place of the first *k*, *guṇa*; by अट्- कुप्वाज् (*aṭ- kupvāj*) the *ṇ* substitution; nominative plural. मदंति (*madaṃti*) (root मदी (*madī*) in the sense of joy and smearing): present, third person plural; because of the *yat* connection the *nighāta* accent does not arise; by तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) the present tense ending is unaccented, so the accent of the root remains.
+
+*[A stray line ":0:" follows in the supplied text.]*
+
+### Printed p. 40
+
+*Running head: [40 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184]. A stray line कन्नड साहित्य (*kannaḍa sāhitya*) ("Kannada literature") stands at the head of the page.*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> ए॒ष वां॒ स्तोमो॑ अश्विनावकारि॒ माने॑भिर्मघवाना सुवृ॒क्ति ।
+> या॒तं व॒र्तिस्तन॑याय॒ त्मने॑ चा॒गस्ये॑ नासत्या॒ मदं॑ता ॥ ५ ॥
+
+> *eṣa vāṃ stomo aśvināvakāri mānebhirmaghavānā suvṛkti |*
+> *yātaṃ vartistanayāya tmane cāgasye nāsatyā madaṃtā ‖ 5 ‖*
+
+*[The Saṃhitā has । (*|*) where the Pada has सुवृक्ति (*suvṛkti*), and prints चागस्ये (*cāgasye*) where the Pada has अगस्त्ये (*agastye*); kept as supplied.]*
+
+**॥ पदपाठः ॥**
+
+> एषः । वां । स्तोमः । अश्विनौ । अ कारि । मानेभिः । मघवाना । सुवृक्ति ।
+> यातं । वर्तिः । तनयाय । त्मने । च । अगस्त्ये । नासत्या । मदंता ॥ ५ ॥
+
+> *eṣaḥ | vāṃ | stomaḥ | aśvinau | a kāri | mānebhiḥ | maghavānā | suvṛkti |*
+> *yātaṃ | vartiḥ | tanayāya | tmane | ca | agastye | nāsatyā | madaṃtā ‖ 5 ‖*
+
+*[As supplied, the label line of the next section reads स. यणभाष्यं (*sa. yaṇabhāṣyaṃ*); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विन् हे मघवाना हनिर्लक्षणान्नवंतौ वां युवाभ्यामेष स्तोमः
+> स्तोत्रं सुवृक्ति सुष्टु पापवर्जनं यथा भवति तथा यद्वा सुसमाप्त्यकारि । कृतः ।
+> कीदृशोऽयं । मानेभिर्मानैर्हविष्प्रदानरूपैः सहितः । हे नासत्यासत्यरहितौ
+> युवामगस्य एतन्नामि महर्षौ मयि मदंता माद्यंतौ संतौ वर्तिर्गृहं
+> यज्ञसंबंधि यातं । प्राप्पुतं । किमर्थं । तनयाय पुत्रादिलाभाय त्मन आत्मने
+> च हिताय ॥
+
+*Gist:* O Aśvins, endowed with oblation-food: this praise, sin-removing and complete, with gifts of offerings, has been made for you; come to my sacrificial house, delighted with me, Agastya, for sons and my welfare.
+
+*[The label line of the next section reads, as supplied, १ प्रतिपवार्ध १ (*1 pratipavārdha 1*) (inside the bhāṣya block); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मघवाना (*maghavānā*) — those endowed with food in the form of oblations. अश्विनौ (*aśvinau*) — O Aśvin deities. वार (*vāra*) — for you (as printed). मानेभिः (*mānebhiḥ*) — accompanied by the giving of oblations. सुवृक्ति (*suvṛkti*) — having the power to remove sin (or complete). विषः स्तोमः (*viṣaḥ stomaḥ*) — this praise (the supplied text has the stray word before it). आकारि (*ākāri*) — has been made. नासत्या (*nāsatyā*) — O Aśvin deities, free from untruth (you two). अगस्त्ये (*agastye*) — in me, famed as Agastya (by my praise). मदंता (*madaṃtā*) — having obtained satisfaction. तनयाय (*tanayāya*) — for the gain of sons and the like. त्मने च (*tmane ca*) — and for my own welfare. वर्तिः (*vartiḥ*) — to the house of the sacrifice. यातं (*yātaṃ*) — come.
+
+*[The label line of the next section reads, as supplied, भानुवार (*bhānuvāra*) (inside the Pratipadārtha block); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, endowed with food in the form of oblations: for you a praise has been made, accompanied by the giving of oblations, with the power to remove sin and complete. O Aśvin deities, free from untruth: delighted by my praise, of me who am famed as Agastya, come to my sacrificial house, for the gain of sons and the like and for my own welfare.
+
 ---
 
-**Progress note:** Done through printed p. 37 (PDF 37). Sukta 184 Rik 4 Pada end, bhashya, Pratipadartha, Bhavartha, printed English; Special Topics begun (sudanu, carshanayah, manya)
+**Progress note:** Done through printed p. 40 (PDF 40). Rik 4 Special Topics end, grammar page; Rik 5 Samhita, Pada, bhashya, Pratipadartha, Bhavartha (printed English follows)
