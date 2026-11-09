@@ -2159,6 +2159,80 @@ Here Heaven and Earth are described as the mother and father of the whole univer
 
 in Brāhmaṇa sentences like this too, the epithet "having the gods as sons" for Heaven and Earth is established. In the present ṛk too the same point is told. And "Heaven and Earth are the parents, the support and protectors of the whole universe": thus their greatness is described; the sentence is cut off at the end of the window.
 
+### Printed p. 74
+
+*Running head: [74 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185]. The window begins inside the Special Topics of Ṛk 4, continuing p. 73.*
+
+… how they are described in the … will be told in this same part later, in the special topics of the ṛk 1-185-6.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+अतप्यमाने (*atapyamāne*) (root तप (*tapa*), in the sense of lordship; divādi class): the present-participle substitute *śānac*; by the rule beginning दिवादिभ्यः (*divādibhyaḥ*) the suffix *śyan*; by आनेमुक् (*ānemuk*) (Pā. Sū. 7-2-82) the augment *muk*; when the *nañ*-tatpuruṣa compound is made, by तत्पुरुषे तुल्यार्थ (*tatpuruṣe tulyārtha*) the accent of the first member, the indeclinable, is retained; dual form. अवंती (*avaṃtī*) (root अव (*ava*), "to protect"): the present-participle substitute; the feminine suffix *ṅīp* by उगितश्च (*ugitaśca*); when the dual ending follows, by सुपां सुलुक्—सूत्रदिंद (*supāṃ suluk—sūtradiṃda*) lengthening to the preceding class vowel. स्याम (*syāma*) (root अस (*asa*), "to be"): optative, first person plural; the *nighāta* accent of a finite verb; by उपसर्गप्रादुर्भ्यां (*upasargaprādurbhyāṃ*) (Pā. Sū. 8-3-87) the root's *s* becomes *ṣ*. देवपुत्रे (*devaputre*) (देवाः पुत्राः ययोस्ते देवपुत्रे. (*devāḥ putrāḥ yayoste devaputre.*), "those whose sons are the gods"): by बहुव्रीहौ प्रकृत्यापूर्व- (*bahuvrīhau prakṛtyāpūrva-*) (Pā. Sū. 6-2-1) the accent of the first member is retained; dual form (the supplied text has "ದ್ವಿಪಚನಾಂತರೂಪ", as supplied). उभयेभिः (*ubhayebhiḥ*): by उभयोन्यत्र (*ubhayonyatra*) the suffix *ayac* on *ubha*; because the rule बहुलं- (*bahulaṃ-*) छंदसि (*chaṃdasi*) makes the substitute *ais* of *bhis* optional, it does not occur; the suffix has the first-syllable acute.
+
+#### Ṛk 5
+
+*[As supplied, the label line of the Saṃhitā reads शंखशापाकि]* (*śaṃkhaśāpāki]**), of the Pada ⟦⟧ (with a lone danda line after the second part of the Pada), and of the bhāṣya ⟦⟧; standard labels inserted. The Saṃhitā and Pada words जामिा (*jāmiā*) and the Pada's final word are printed as supplied.]*
+
+**॥ संहितापाठः ॥**
+
+> सं॒गच्छ॑माने युव॒ती समं॑ते॒ स्वसा॑रा जा॒मिा पि॒त्रोरु॒पस्थे॑ ।
+> अ॒भि॒जिघ्रं॑ती॒ भुव॑नस्य॒ नाभिं॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> संगच्छमाने इति संगच्छमाने । युवती इति । समंते इति संअंते । स्वसारा ।
+> जामिा इति । पित्रोः । उपस्थे ।
+
+> *saṃgacchamāne iti saṃgacchamāne | yuvatī iti | samaṃte iti saṃaṃte | svasārā |*
+> *jāmiā iti | pitroḥ | upasthe |*
+
+### Printed p. 75
+
+*Running head: [Aṣṭaka 2. Adhyāya 5 Varga 2] Ṛgveda-saṃhitā 75.*
+
+> अभिजिघ्रंती इत्यभिजिघ्रंती । भुवनस्य । नाभिं । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्यात् ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> संगच्छमाने परस्परमुपकारित्वेन सह युज्यमाने । वृष्टिहविषोश्च परस्पर-
+> मुपकार्योपकारकभावः । यद्वा । पूर्वं संस्कृष्टे एव सत्यौ पश्चाद्वियुज्य वृष्टि-
+> हविषी अकुर्वंत्यौ पश्चान्मनुष्यैः प्रार्थितैर्देवैर्विवाहिते सत्यौ संगते अभूता-
+> मित्याहुः । आयमर्थो द्यावापृथिवी सहास्तां । तै. ब्रा. १-१-३-२ । इत्यादि
+> ब्राह्मणे समाम्नातः । युवती नित्यतरुण्यॆ मिश्रयंत्यौ ना सर्वॆषु भावेषु
+> समंते समानांतिके समानसर्यंते वा स्वसारा परस्परं स्वसृभूते जामी बंधु-
+> भूते । प्रजापतेः सकाशात्सहोत्पन्नत्वात्परस्परं जामित्वं । तथा च निगमौ दिवं च
+> पृथिवीं चांतरिक्षमथो स्वः । ऋ. १०-१९०-३ । यतो द्यावापृथिवी निष्टतक्षुः ।
+> ऋ. १०-३१-७ । इति । पित्रोः सर्वस्य पितृस्थानीययोः पालकयोस्तयोरुपस्थ
+> उत्संगे स्थितं भुवनस्य भूतजातस्य नाभिं बंधकमुदकमभिजिघ्रंती अभिघ्राणं
+> कुर्वंत्यौ स्पृशंत्यौ । समानमेतदुदकं । ऋ. १-१६४-५१ । इत्यादिमंत्रवर्णा-
+> दुभयोरुदकप्रदत्वं प्रसिद्धं । ईदृश्यौ नो रक्षतं ॥
+
+*Gist:* Heaven and Earth, always together, benefiting each other (rain and oblation), ever young, equal in extent, sisters and kin through Prajāpati, hold the water, the navel of the beings of the world, in the lap of their parents; may they protect us.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+संगच्छमाने (*saṃgacchamāne*) — (with the wish to help each other) always staying together. युवती (*yuvatī*) — "ever young" (the supplied text prints "ನಿತ್ಯಕರ್ಮರೂ", as supplied). समंते (*samaṃte*) — of equal extent. स्वसारा (*svasārā*) — mutually loving like elder and younger sisters. जामिा (*jāmiā*) — (being children of Prajāpati) mutually kin. पित्रोः (*pitroḥ*) — of the parents or protectors. उपस्थे (*upasthe*) — placed on the lap (thigh). भुवनस्य (*bhuvanasya*) — for all beings living in the world. नाभिं (*nābhiṃ*) — the water that is the support. आभिजिघ्रंती (*ābhijighraṃtī*) — touching (holding) it. द्यावापृथिवी (*dyāvāpṛthivī*) — O Heaven and Earth. अभ्वात् (*abhvāt*) — from great fear. नः (*naḥ*) — us. रक्षतं (*rakṣataṃ*) — protect.
+
+**भावार्थ (Bhāvārtha)**
+
+O Heaven and Earth, you two are always together and ever young. As children of Prajāpati you are loving and kin to each other like sisters. You hold the water, the support of all beings. Such as you, protect us from great fear.
+
+### Printed p. 76
+
+*Running head: [76 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 185].*
+
+**Printed English translation**
+
+Going always together, equally young, and of the like termination, sisters, and kindred, and scenting the navel of the world, placed on their lap as its parents : defend us, Heaven and Earth, from great danger.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The seer Agastya has shown his skill of composition well in this sūkta. The extraordinary deeds of Heaven and Earth, the deities of this sūkta, and their protection of the world are described in an excellent and natural body of words. That is, in describing or praising these deities the words अतप्यमाने, अवंती, देवपुत्रे, संगच्छमाने, युवती, समंते, स्वसारा, जामी, अभिजिघ्रंती, उर्वि, सद्मनी, बृहती, जनित्रि, सुप्रतीके, पृथ्वी, बहुले, दूरेअंते, सुभगे, सुप्रतूर्ति (*atapyamāne, avaṃtī, devaputre, saṃgacchamāne, yuvatī, samaṃte, svasārā, jāmī, abhijighraṃtī, urvi, sadmanī, bṛhatī, janitri, supratīke, pṛthvī, bahule, dūreaṃte, subhage, supratūrti*) have been used. These words are natural, of profound sense and fitting to the context, and moreover the use of these words in praising the qualities of the gods gives dignity and devotion to the poetry. Therefore there is no need to say separately that the composition of the ṛks of this sūkta is on a very high level. Besides, the profound principles propounded in the first ṛk of this sūkta in the form of question and answer, and the similes used here and there, are excellent examples of the seer's skill in poetic composition.
+
+संगच्छमाने (*saṃgacchamāne*) — this word means "those who go or are together". Sāyaṇa says in his bhāṣya परस्परमुपकारित्वेन सह युज्यमाने । वृष्टिहविषोश्च परस्पर- मुपकार्योपकारकभावः । यद्वा । पूर्वं संसृष्टे एव सत्यौ पश्चाद्वियुज्य वृष्टिहविषी अकुर्वंत्यौ पश्चान्मनुष्यैः प्रार्थितैर्देवैर्निवाहिते (*parasparamupakāritvena saha yujyamāne | vṛṣṭihaviṣośca paraspara- mupakāryopakārakabhāvaḥ | yadvā | pūrvaṃ saṃsṛṣṭe eva satyau paścādviyujya vṛṣṭihaviṣī akurvaṃtyau paścānmanuṣyaiḥ prārthitairdevairnivāhite*) तामित्याहुः (*tāmityāhuḥ*) (the print has "ನಿವಾಹಿತೇ" for "ವಿವಾಹಿತೇ" in the bhāṣya as quoted here, as supplied). That is, they are together in order to benefit each other. The benefit here is rain-water (rain) and the oblation offered to the gods. Because rain makes plants and the like arise and gives the grains needed for the oblation, it is described here that rain and oblations are obtained by mutual co-operation. If it is asked what the relation of Heaven and Earth to rain is, the seer explains that too in this same ṛk by the sentence अभिजिघ्रंती भुवनस्य नाभिं (*abhijighraṃtī bhuvanasya nābhiṃ*): since in the atmosphere (*dyāvā*) the clouds gather together and produce rain, plants and the like grow on the earth (*pṛthivī*); therefore it is meant that Heaven and Earth are mutually helpful to rain and to the origin of plants.
+
+Or, although Prajāpati created Heaven and Earth together, that is, at one time, they are for other reasons separate and distinct, and the rain which is very necessary for the world (the sentence is cut off at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 73 (PDF 73). Rik 3 grammar page end; Rik 4 (Samhita and Pada from figure, bhashya, Pratipadartha, Bhavartha, English); Special Topics begin (continues on next page)
+**Progress note:** Done through printed p. 76 (PDF 76). Rik 4 Special Topics end, grammar page; Rik 5 (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English) and start of its Special Topics (continues on next page)
