@@ -12606,6 +12606,101 @@ What was stated in the previous ṛk, namely that the gods eat the oblations thr
 
 *(The supplied text ends here, in the middle of the sentence, at the end of the last line of p. 422; the Special Topics of Ṛk 14 continue in the next window.)*
 
+### Printed p. 423
+
+*Running head (as supplied): [अ. २. अ. ५. व. १९.] ऋग्वेदसंहिता 423 (*[a. 2. a. 5. va. 19.] ṛgvedasaṃhitā 423*).*
+
+*(Continuation of the Special Topics of Ṛk 14, from mid-sentence at the end of the previous page. A line-end hyphen inside the Nirukta quotation is joined.)*
+
+...or मर्त्य (*martya*) (*martya*). Therefore the word *amṛta* in the first half of this ṛk is an adjective of the word *devāḥ* (gods). In the second half the word *martāsaḥ* denotes human beings.
+
+अद्रुहः— अद्रोद्धारः । (*adruhaḥ— adroddhāraḥ |*) (as printed) Since the gods plan harm to no one, they are praised with the adjective *adruhaḥ*.
+
+आसुतिं—रसरूपमन्नादिकं । (*āsutiṃ—rasarūpamannādikaṃ |*) Food, soma and the like, edible or drinkable foodstuffs.
+
+त्वं गर्भो वीरुधां जज्जिषे शुचिः (*tvaṃ garbho vīrudhāṃ jajjiṣe śuciḥ*): O Agni, you are pure; you are born as the embryo of the herbs. On the word *vīrudh* Yāska has given this etymology: वीरुध ओषधयो भवंति विरोहणात् । वीरुधः पारयिष्ण्वः इत्यपि निगमो भवति (*vīrudha oṣadhayo bhavaṃti virohaṇāt | vīrudhaḥ pārayiṣṇvaḥ ityapi nigamo bhavati*) (the *vīrudhs* are herbs because of growing up; and there is also a Vedic passage, "the *vīrudhs* are those that carry across") (नि ६-३ (*ni 6-3*)). Because these grow on the earth, creepers and the like are called *oṣadhis*; plants and the like may also be called *oṣadhis*. The purport is that Agni, being in the womb of the herbs (or plants), helps their growth and the production of food and the like; or, if the word *vīrudh* is taken to mean "tree", it can be said that Agni arises in the fire-sticks (*araṇi*) that belong to trees.
+
+#### Ṛk 15
+
+*[As supplied, the label line of the Saṃhitā of Ṛk 15 reads संवाद (*saṃvāda*); standard label inserted. The Saṃhitā lines are split across lines and are joined. Two readings of the Saṃhitā differ from the Pada and the bhāṣya and are marked with a query. Pada lines split at the line end are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> त्वं तान्तस्यं [?] च॒ प्रति॑ चासि म॒ज्जनाग्ने॑ [?] सुजात॒ प्र च॑ देव रिच्यसे ।
+> पृ॒क्षो यदत्र॑ महि॒ना वि ते॒ भुव॒दनु॒ द्यावा॑पृथि॒वी रोद॑सी उ॒भे ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । तान् । सं । च । प्रति । च । असि । मज्मना । अग्ने । सुजात । प्र । च । देव । रिच्यसे ।
+> पृक्षः । यत् । अत्र । महिना । वि । ते । भुवत् । अनु । द्यावापृथिवी इति । रोदसी इति । उभे इति । ॥ १५ ॥
+
+> *tvaṃ | tān | saṃ | ca | prati | ca | asi | majmanā | agne | sujāta | pra | ca | deva | ricyase |*
+> *pṛkṣaḥ | yat | atra | mahinā | vi | te | bhuvat | anu | dyāvāpṛthivī iti | rodasī iti | ubhe iti | ‖ 15 ‖*
+
+### Printed p. 424
+
+*Running head (as supplied): [424 सायणभाष्यसहिता [ मं. २. अ. १. सू. १] (*[424 sāyaṇabhāṣyasahitā [ maṃ. 2. a. 1. sū. 1]*).*
+
+*[As supplied, the label line of the bhāṣya reads कायणभाष्यं (*kāyaṇabhāṣyaṃ*), inside the quoted block; standard label inserted. A few misprints of the bhāṣya are kept as printed.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वं मज्मना बलेन तान् प्रसिद्धान्देवान् सं चासि । संगच्छसि । तैः
+> सहितोऽपि भवसि । तथा सामर्थ्येन प्रति चासि ! प्रत्येकं तैर्विभिन्नः प्रतिनिधिर्वा भवसि ।
+> प्रतिस्वीकारसमये तैः सहितो भवसि वियुक्तश्च भवसीत्यर्थः । हे सुजात शोभन-
+> जनन । शोभनमंत्रसहितमथनेनोत्पन्नत्वादग्ने: सुजन्मत्वं । तादृशाग्ने हे देव
+> परिच्यसे च। तैर्बलेन चाधिको भवसि। आधिक्ये कारणमाह । यत् यस्मादत्रास्मिन्यज्ञे
+> पृक्षः सर्वमप्यन्नं ॥ व्यत्ययेन बहुवचनं॥ ते तवैव विभुवत् । समर्थं भवति
+> महिला माहात्म्येन । यतो महत्त्वमस्ति अत इत्यर्थः । कुत्रॆति तदुच्यते ।
+> रोदसी सर्वनिरोदनस्वभावे उभे द्यावापृथिव्यावनु । ते प्रति । तयोर्मध्यॆ
+> व्याप्तमित्यर्थः । त्वयि हुतमन्नं त्वन्महत्तेन लोकत्रये व्याप्तमित्यर्थः ॥
+
+*Gist:* By his strength Agni joins the gods and remains distinct from them, and excels them, since the offered food pervades both worlds by his greatness.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). मज्मना—शक्तियिंद (*majmanā—śaktiyiṃda*) (by strength). तान्—प्रसिद्धराद देवतॆ गळॊडनॆ (*tān—prasiddharāda devatè gaḷòḍanè*) (with the famous gods (the word for "gods" is divided by a line break)). संचासि—सेरिकॊंडिद्दीयॆ (*saṃcāsi—serikòṃḍiddīyè*) (you have joined). प्रतिचासि—विविक्तनागियू इद्दीयॆ (*praticāsi—viviktanāgiyū iddīyè*) (you are also separate (the two entries are divided in the print by an exclamation mark in place of a danda)). यत्—याव निन्न (*yat—yāva ninna*) (by whose). महिना—माहात्म्यदिंद (*mahinā—māhātmyadiṃda*) (greatness). अत्र—ई यज्ञदल्लि (अर्पितवाद) (*atra—ī yajñadalli (arpitavāda)*) (here, in this sacrifice (offered)). पृक्षः—समस्तवाद अन्नवू (*pṛkṣaḥ—samastavāda annavū*) (all the food). ते—निन्न (*te—ninna*) (your). वि भुवत्—अधीनदल्लिये इद्दु (अनंतर) (*vi bhuvat—adhīnadalliye iddu (anaṃtara)*) (being under your control (afterwards)). रोदसी उभे—द्यावा पृथिविगळॆरडु लोकगळन्नू (*rodasī ubhe—dyāvā pṛthivigaḷèraḍu lokagaḷannū*) (both heaven and earth, the two worlds). अनु—व्यापिसुत्तदॆयो (आद्दरिंद) (*anu—vyāpisuttadèyo (āddariṃda)*) (it pervades). सुजात—श्रेष्ठवाद जन्म वुळ्ळवनू (*sujāta—śreṣṭhavāda janma vuḷḷavanū*) (O one of excellent birth). देव—देवतात्मनू आद ऎलै अग्निये (*deva—devatātmanū āda èlai agniye*) (and of divine self, O Agni). परिच्यसे च—नीनु सामर्थ्यदल्लि देवतॆ गळॆल्लरन्नू मीरिये इद्दीयॆ. (*paricyase ca—nīnu sāmarthyadalli devatè gaḷèllarannū mīriye iddīyè.*) (you surpass all the gods in ability).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, of excellent birth and divine self, you have joined the gods by your strength, and you are also separate. By your greatness all the food offered in this sacrifice, being first under your control, afterwards pervades heaven and earth and is distributed to the other gods; therefore you surpass all the other gods in ability.
+
+*[As supplied, the label line of the printed English reads English Translatin (*English Translatin*); standard label inserted.]*
+
+**Printed English translation**
+
+You are associated, Agni, by your vigour, with those (goods) [sic] ; divine, well-born Agni, you exceed (them in strength), for the (sacrificial) food that is here prepared is, by your power, subsequently diffused through both regions, heaven and earth.
+
+*(The printed "goods" is evidently a misprint for "gods".)*
+
+### Printed p. 425
+
+*Running head (as supplied): [अ. २. अ. ५ व. १९ ] ऋग्वेदसंहिता 425 (*[a. 2. a. 5 va. 19 ] ṛgvedasaṃhitā 425*).*
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*); standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 15)**
+
+त्वं तान् सं च प्रति च असि मज्मना (*tvaṃ tān saṃ ca prati ca asi majmanā*): the word *majmanā* is read among the names of strength. O Agni, in strength you are equal to the gods; or you are in company with the gods. That is, at the time of accepting the oblation you are with the gods. Since the gods eat the oblations offered in you, at the time of offering the oblation you and the gods are together; at other times you remain separate. Such is the purport. (The printed word for "oblations" is misspelt in the print and is left as printed.)
+
+अग्ने सुजात प्र च देव रिच्यसे (*agne sujāta pra ca deva ricyase*): *sujāta* means that since Agni arises at the time of friction (kindling) with the recitation of good mantras, Agni is called *sujāta*, "well-born". Such, O Agni, you surpass the gods in strength (the printed word is "māris-" for "mīris-", left as printed); that is the purport. How is that? —
+
+पृक्षः यदत्र रोदसी उभे (*pṛkṣaḥ yadatra rodasī ubhe*): the food in the form of oblation that is offered in you in this sacrifice pervades, by your greatness, the whole intermediate region between heaven and earth; that is, it goes and reaches all the gods in the earth, the atmosphere and heaven.
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> ये स्तो॒तृभ्यो॒ गोअ॑ग्रा॒मश्व॑पेशस॒मग्ने॑ रा॒तिमु॑पसृ॒जंति॑ सू॒रयः॑ ।
+> अ॒स्माञ्च॒ तांश्च॒ प्र हि नेषि॒ वस्य॒ आ बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ १६ ॥
+
+**॥ पदपाठः ॥**
+
+> ये । स्तोतृभ्यः । गोऽग्रां । अश्वपेशसं । अग्ने । रातिं । उपसृजंति । सूरयः ।
+> अस्मान् । च । तान् । च । प्र । हि । नेषि । वस्यः । आ । बृहत् । वदेम । विदथे । सुवीराः ॥ १६ ॥
+
+*(The supplied text ends here, at the end of the Pada of Ṛk 16 on p. 425; the bhāṣya follows in the next window. Saṃhitā and Pada lines split at the line end are joined.)*
+
 ---
 
-**Progress note:** Done through printed p. 422 (PDF 422). Mandala 2 Sukta 1 Rik 12 complete, Rik 13 complete, Rik 14 through the start of the Special Topics; unmarked p. 420 marked; one Saṃhitā/Pada word corrected to the figure image
+**Progress note:** Done through printed p. 425 (PDF 425). Mandala 2 Sukta 1 Rik 14 complete, Rik 15 complete, Rik 16 through the Pada; two readings marked with a query
