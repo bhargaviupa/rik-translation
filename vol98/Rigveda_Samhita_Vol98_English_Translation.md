@@ -7597,6 +7597,106 @@ We shall explain, as far as is known, where the river Sarasvatī flowed at that 
 
 The Sarasvatī river at that time was a large river. Rising in the Sismur range (Sismur (*Sismur*)) in the Himalayas, it flows west and a little south. At its source five small streams (small channels in which water flows) joined to form this river and flowed on; hence it may have got the name *Pañcajātā*. After flowing some distance, the river Dṛṣadvatī (the modern Chitrang; the print has modren (*modren*) [sic]) comes flowing from the east and joins it. The Apayā is a tributary of the Dṛṣadvatī. The Sarasvatī of that time lay south of the present Surasuti river (desert rivers often change their courses). To the present Sarasuti the small rivers Markandā (Markand (*Markand*)) and Ghaggar (Ghaggar (*Ghaggar*)) join. Then the Sarasvatī flows south and west and finally reaches the sea. The bed of the dried-up river now called Hakra (Hakra (*Hakra*)) must have been the bed of the Sarasvatī of that time. It may have joined the river Sutlej (Sutlej (*Sutlej*)) and merged into the Sindhu; or it may have gone directly and joined the Sindhu. At that time the Sindhu lay much farther east than it does now and joined the sea near the gulf called the Rann of Kachh (Rann of Kach (*Rann of Kach*)). The scholar Max Müller (Max Muller (*Max Muller*)), on the basis of the word आसमुद्रात् (*āsamudrāt*) in the ṛk ऋ. सं. ७-९५-२ (*ṛ. saṃ. 7-95-2*), holds that this Sarasvatī river went directly to the sea. Since this river flowed in the region of the sandy waste before reaching the sea (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 260
+
+*Running head: [260 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 188] (as supplied).*
+
+*(Continuation of the account of the river Sarasvatī in the Special Topics of Ṛk 8 of Sūkta 188.)*
+
+...this river may have vanished in the desert before reaching the sea (See Muir's Sanskrit Texts Vol. II page 393 (*See Muir 's Sanskrit Texts Vol. II page 393*)). A description of a river vanishing in the desert in this way is also given in the Mahābhārata (Vanaparva, description of the pilgrimages) and in the Manu-saṃhitā (१-२१ (*1-21*)). For all these reasons it may be said that the present Surasuti river must be the Sarasvatī river of former times.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 8, noted briefly)
+
+भारति (*bhārati*): being read in the *śārṅgaravādi* group, by शार्जरवादिभ्योजीन् (*śārjaravādibhyojīn*) (पा. सू ४-१-७३ (*pā. sū 4-1-73*)) the suffix *ṅīn*; being at the beginning of the pāda, no vocative *nighāta* accent; by आमंत्रितस्य (*āmaṃtritasya*) (पा. सू. ६-१-१९८ (*pā. sū. 6-1-198*)) the first syllable is acute. इळे (*iḷe*): by आमंत्रितं पूर्वमविद्यमानवत् (*āmaṃtritaṃ pūrvamavidyamānavat*) (पा. सू. ८-१-७२ (*pā. sū. 8-1-72*)) the preceding vocative counts as non-existent, so this does not stand after a word and the wholly unaccented accent does not occur; the first syllable is acute from before; and for the following word *sarasvati*, since these two words are as if absent, by the preceding rule too the first syllable is acute. उपब्रुवॆ (*upabruvè*) (root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*)): *laṭ*, first person singular; by यद्वृत्तान्वित्यम् (*yadvṛttānvityam*) (पा. सू. ८-१-६६ (*pā. sū. 8-1-66*)) the *nighāta* accent is prohibited, so by the suffix accent the last syllable is acute; by तिजिचोदात्तवति (*tijicodāttavati*) (पा. सू. ८-१-७१ (*pā. sū. 8-1-71*)) the preverb (*upa*) is wholly unaccented. चोदयत (*codayata*) (root चुद प्रेरणे (*cuda preraṇe*)): *loṭ*, second person plural; owing to the connection with a finite verb the *nighāta* accent. श्रिये (*śriye*): dative singular; by सावेकाचस्तृतीयादिः (*sāvekācastṛtīyādiḥ*) (पा. सू. ६-१-१८ (*pā. sū. 6-1-18*), as printed) the ending is acute.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> त्वष्टा॑ रू॒पाणि॒ हि प्र॒भुः प॒शून्विश्वा॑न्त्समान॒जे ।
+> तेषां॑ नः स्ना॒तिमा य॑ज ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वष्टा । रूपाणि । हि । प्रभुः । पशून् । विश्वान् । संआनजे ।
+> तेषां । नः । स्नातिं । आ । यज ॥ ९ ॥
+
+> *tvaṣṭā | rūpāṇi | hi | prabhuḥ | paśūn | viśvān | saṃānaje |*
+> *teṣāṃ | naḥ | snātiṃ | ā | yaja ‖ 9 ‖*
+
+### Printed p. 261
+
+*Running head: [Aṣṭaka 2. Adhyāya 5 Varga 9] Ṛgveda-saṃhitā 261 (as supplied).*
+
+*[As supplied, a line reading शायणभाष्यं (*śāyaṇabhāṣyaṃ*) stands inside the bhāṣya block as the label; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> त्वष्टा यज्ञसाधनपात्राभिमानी देवो रूपाणि योन् सृष्टानि रेतांसि
+> रूपाणि कर्तुं प्रभुर्हि । हिशब्दः श्रुत्यंतरप्रसिद्दिद्योतनार्थः । यावच्छो वै रेतसः
+> सिक्तस्य त्वष्टा रूपाणि विकरोति । तै. सं. १-५-९-१ । इति श्रुतेः । स देवो विश्वान्
+> सर्वानपि पशूनस्मदीयान् गवादिकान् समानजे । सम्यगनक्ति । व्यक्तीकरोति ॥ संपू-
+> र्वादनक्केर्लिट तस्मान्नुडिति नुट् ॥ अथ प्रत्यक्षः । तेषामक्तानां पशूनां स्फातिं
+> वृद्धिं नोऽस्मदर्थमा यज । सर्वतः पूजय । कुर्वित्यर्थः ॥
+
+*Gist:* Tvaṣṭṛ, the deity of the vessels of sacrifice, is able to give forms to the shed seed (so the Taittirīya-saṃhitā), and he makes all our animals, cows and the rest, distinct; may he increase them for us.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+त्वष्टा-त्वष्टृवु (*tvaṣṭā-tvaṣṭṛvu*) (Tvaṣṭṛ). रूपाणि-सृष्टवाद रेतस्सुगळिगॆ रूपगळन्नु कॊट्टु परिष्करिसलु (*rūpāṇi-sṛṣṭavāda retassugaḷigè rūpagaḷannu kòṭṭu pariṣkarisalu*) (to give forms to the created seeds and refine them). प्रभुः हि-समर्थनागिद्दानॆ (*prabhuḥ hi-samarthanāgiddānè*) (is able). विश्वान् पशून्-नमगॆ संबंधिसिद समस्त पश्वादि गळन्नू (*viśvān paśūn-namagè saṃbaṃdhisida samasta paśvādi gaḷannū*) (all our animals and the like). समानजे-नैयक्षिकवाद स्वरूपवन्नु कॊट्टु परिष्करिसिदनु (*samānaje-naiyakṣikavāda svarūpavannu kòṭṭu pariṣkarisidanu*) (gave each its own form and refined it; the print has "ನೈಯಕ್ಷಿಕ" as supplied). तेषां-आ पश्वादिगळ (*teṣāṃ-ā paśvādigaḷa*) (of those animals and the rest). स्नातिं-वृद्धियन्नु (*snātiṃ-vṛddhiyannu*) (the increase). नः-नमगोस्कर (*naḥ-namagoskara*) (for us). आ यज-माडु (*ā yaja-māḍu*) (do).
+
+*[As supplied, the label line reads भाषार्थ (*bhāṣārtha*), run on after the Pratipadārtha; standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+Tvaṣṭṛ is able to give forms to the created seeds and refine them. He gave each of all our animals and the rest its own form and refined it. O Tvaṣṭṛ, create those animals for us and increase their number.
+
+**Printed English translation**
+
+Twashtri, who is the master (in fashioning) the forms (of beings), has made all animals distinct; grant us, (Twashtri), their increase.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 9)**
+
+कृष्णा [?]-यास्कर विवरणॆयु (*kṛṣṇā [?]-yāskara vivaraṇèyu*) (the head-word is printed *kṛṣṇā*, for *tvaṣṭā*; marked [?]) — Yāska's explanation:
+
+त्वष्टा । त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्वषेर्वा स्याद्वीप्तिकर्मणस्त्वक्ष- (*tvaṣṭā | tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tvaṣervā syādvīptikarmaṇastvakṣa-*)
+तेर्वा स्यात्करोतिकर्मणः ॥ माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने (*tervā syātkarotikarmaṇaḥ ‖ mādhyamikastvaṣṭetyāhurmadhyame ca sthāne*)
+समाम्नातः । अग्निरिति शाकपूणिः ॥ (नि. ८_१४) (*samāmnātaḥ | agniriti śākapūṇiḥ ‖ (ni. 8_14)*)
+
+That is, for the word तृष्णा [?] (*tṛṣṇā [?]*) (the print; *tvaṣṭā* is meant) the Nirukta-authors say "one who pervades quickly", or "one who is shining", or "one who performs works (works of craft)"; some say "Mādhyamika", that is, one who is between heaven and earth; Śākapūṇi says Agni.
+
+### Printed p. 262
+
+*Running head: [262 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū 188] (as supplied).*
+
+Some say that Tvaṣṭṛ is the craftsman of the gods, like Viśvakarman; for in the ṛk given by Yāska by way of example,
+
+य इमे द्यावापृथवी जनित्री रूपैरपिंशद्भवनानि विश्वा । (*ya ime dyāvāpṛthavī janitrī rūpairapiṃśadbhavanāni viśvā |*)
+तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ॥ (*tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān ‖*)
+(म. सं. १०-११०-९) (*(ma. saṃ. 10-110-9)*)
+
+it is said that Tvaṣṭṛ is the maker of heaven and earth and the cause of form, beauty, prosperity, growth and so on suited to the beings in all the worlds. Besides, Yajurveda sentences such as त्वष्टा वै पशूनां मिथुनानां रूपकृत् (*tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt*) (तै. सं. ६-१-८-५ (*tai. saṃ. 6-1-8-5*)), त्वष्टा रूपाणा- मधिपतिः (*tvaṣṭā rūpāṇā- madhipatiḥ*) (तै. सं. ३-३ (*tai. saṃ. 3-3*)), त्वष्टा रूपाणि विकरोति (*tvaṣṭā rūpāṇi vikaroti*) declare Tvaṣṭṛ's skill in making things. And
+
+मध्यं त्वष्टा वज्रमतक्षदायसं मयि देवासोवृजन्नपि क्रतुं ॥ (*madhyaṃ tvaṣṭā vajramatakṣadāyasaṃ mayi devāsovṛjannapi kratuṃ ‖*)
+(म. सं. १०-४८-३) (*(ma. saṃ. 10-48-3)*)
+
+Indra says that Tvaṣṭṛ made for him the thunderbolt of iron. It is said in many mantras of the Ṛgveda that he made for the gods the implements needed for sacrifice and many other things.
+
+It is well known that Tvaṣṭṛ is one of the twelve Ādityas; therefore Yāska explained the word as "shining".
+
+Among the scriptural sentences giving individual opinions on the deity Tvaṣṭṛ, those cited below indicate only the deity connected with the Āprī sūkta:
+
+होतायक्षत्त्वष्टारमचिष्टुमपाकग्ं रेतोधां विश्रवसं यशोधां । (*hotāyakṣattvaṣṭāramaciṣṭumapākagṃ retodhāṃ viśravasaṃ yaśodhāṃ |*)
+पुरुरूपमकामकर्शनग्ं सुपोषः पोपैः स्यात्सुवीरो वीरैर्वेत्वाज्यस्य (*pururūpamakāmakarśanagṃ supoṣaḥ popaiḥ syātsuvīro vīrairvetvājyasya*)
+होतरज । (*hotaraja |*)
+(तै. ब्रा. ३-६-२-२) (*(tai. brā. 3-6-2-2)*)
+
+In this mantra there are the epithets अचिष्टुं (*aciṣṭuṃ*), अपाकं (*apākaṃ*), रेतोधां (*retodhāṃ*), विश्रवसं (*viśravasaṃ*), यशोधां (*yaśodhāṃ*), पुरुरूपं (*pururūpaṃ*), अकाम कर्शनं (*akāma karśanaṃ*). Of these:
+
+अचिष्टुं (*aciṣṭuṃ*) — चेष्टनरहितं, चांचल्यरहितं, स्थिरं (*ceṣṭanarahitaṃ, cāṃcalyarahitaṃ, sthiraṃ*): without restlessness, steady; one who is steady and not restless;
+
+अपाकं (*apākaṃ*) — अबालं, प्राज्ञं (*abālaṃ, prājñaṃ*): not a child, wise (the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 259 (PDF 259). Done through printed p. 259 (Sukta 188 Rik 8 Special Topics on Sarasvati continue; breaks off mid-sentence in the account of the river Sarasvati on p. 259)
+**Progress note:** Done through printed p. 262 (PDF 262). Done through printed p. 262 (Sukta 188 Rik 8 complete; Rik 9 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English done; Special Topics on tvashta begun, breaks off at apakam); [?] on krishna/trishna for tvashta
