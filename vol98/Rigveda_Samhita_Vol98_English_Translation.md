@@ -656,6 +656,118 @@ here it is also in the sense of the locative case; thus they have stated that th
 
 *[A stray line "-৪০৪-" (page number in other numerals) follows in the supplied text; kept as an italic note in the Kannada file.]*
 
+### Printed p. 23
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1.] Ṛgveda-saṃhitā 23 (the print has "ಅ" without a full stop for the first abbreviation, as supplied).*
+
+#### Ṛk 3
+
+*[As supplied, the label line reads सेहितापारः]* (*sehitāpāraḥ]**) for "Saṃhitā-pāṭha"; the label of the Pada reads दडवाडि]* (*daḍavāḍi]**). The Saṃhitā has त्रिये (*triye*) where the Pada has श्रिये (*śriye*), and the Saṃhitā जूर्णेव (*jūrṇeva*) where the Pada has । जूर्णाइव (*| jūrṇāiva*); kept as supplied. The Saṃhitā's last word and the Ṛk number were split between two lines in the supplied text and have been joined.]*
+
+**॥ संहितापाठः ॥**
+
+> त्रि॒ये पू॑षन्निषु॒कृते॑व दे॒वा नास॑त्या वह॒तुं सू॒र्यायाः॑।
+> व॒च्यंते॑ वां ककु॒हा अ॒प्सु जा॒ता यु॒गा जू॒र्णेव॒ वरु॑णस्य॒ भूरेः॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> श्रिये । पूषन् । इषुकृताइव । देवा । नासत्या । वहतुं । सूर्यायाः ।
+> वच्यंते । वां । ककुहाः । अप्सु । जाताः । युगा । जूर्णाइव । वरुणस्य । भूरेः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सविता सूर्यो दुहितरं सूर्याख्यां प्रदातुमना देवानाहूय सामर्थ्य-
+> समीक्षणायाजिं परिकल्प्य य इमं ज्येष्यति स एषां कन्यकामृक्सहस्रक्लप्तं स्तोत्रं
+> च लभत इत्यकल्पयत् । तमग्निः प्रथममजयत् तमन्वश्विनावपि जित्वाग्निं प्रधृप्यर्क्स्-
+> हस्रं कन्यकां चालभेतां । तत इंद्र उषाश्चाजयतां । तौ च तैरग्न्यादिभिः प्रार्थितौ
+> स्वशस्त्रस्य कंचित्कंचिद्भागं तेभ्यः परिकल्प्य सूर्यां स्वरथेऽधारयतामिति । अयमिति-
+> हासो ब्राह्मणे प्रजापतिर्वै सोमाय राज्ञे । ऐ. ब्रा. ४-७ । इत्यत्राम्नातोS-
+> स्माभिः प्रथमाष्टके आ वां पतित्वं सख्याय ( ऋ. १-११९-५ ) इत्यत्र प्रपंचितः ।
+> अत्राह । हे पूषन् पोषक सूर्य । एतच्चंद्रस्याप्युलक्षणं सूर्याचंद्रमसो-
+> रेवाश्वित्वात् । सूर्याचंद्रमसावित्येके । नि. १२=१ । इति यास्केनोक्तत्वात् । अतः
+> पूषन्नितुक्ते हे पोषकावश्विनावित्युक्तं भवति । हे पोषकौ हे नासत्यासत्यरहितौ
+> देवा देवौ युवां श्रिये श्रेयसे । शस्त्रस्य कन्यायाश्च लाभायेत्यर्थः । इषु-
+> कृतेव । इवशब्द एवार्थे । आजिधावनायेषुवच्छेप्रमृजुगामिनौ कृतावेव संतौ
+> सूर्याया एतन्नामिकायाः सवितुः पुत्राः ॥ कर्मणि षष्ठी ॥ सूर्यां वहतुं
+> रथे धारयितुं । आजिमुदजयतामित्यर्थः । यस्मादेवं तस्मादप्पु जाताः कर्मसु
+> संपादिताः ककुहाः शस्त्ररूपाः स्तुतयो भूरेरविच्छिन्न प्रवाहस्य वरुणस्य फलप्रति-
+> बंधकपापनिवारकस्य यागस्य सिद्ध्यर्थं तत्संबंधिन्यो नां प्रति वच्यंते होत्रा-
+> दिभिः । युवामेव शस्त्रगतमंत्रैर्यागकाले च स्तुवंतीत्यर्थः । युगा जूर्णेव
+> जीर्णानि युगानीव । इवशब्दः संप्रत्यर्थः । पुरातना यागकाला यथा तद्वदद्यतना
+> अपीत्यर्थः । पूर्वकाले यथा युवामेव स्तुवंति तद्विदिदानीमपीति तात्पर्यं ॥
+
+*Gist:* Savitṛ, wishing to give his daughter Sūryā away, held a contest; Agni won first, then the Aśvins and others; the Aśvins carry Sūryā. O Aśvins, for welfare and to carry Sūryā, swift as arrows, praises are recited for the sacrifice, as in ancient times.
+
+### Printed p. 24
+
+*Running head: [24 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184].*
+
+*[The label line of the following section reads, as supplied, ॥ प्रतिदर्श ॥ (*‖ pratidarśa ‖*) (it stood inside the bhāṣya block); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नासत्या (*nāsatyā*) — free from untruth. पूषन् (*pūṣan*) — (in the form of the sun and the moon) nourishers of the world. देवा (*devā*) — divine in nature, O Aśvin deities. त्रिये (*triye*) — for welfare in the form of śastra mantras, सूर‍्यायाः (*sūryāyāḥ*) — and for the daughter of Sūrya, वहतुं (*vahatuṃ*) — for coming with her seated in the chariot. इषु कृता इव (*iṣu kṛtā iva*) — like arrows, swiftly and straight (you set out for the contest). वां (*vāṃ*) — (such) you, अप्सुजाताः (*apsujātāḥ*) — accomplished in rites such as sacrifice, ककुहाः (*kakuhāḥ*) — praises in the form of śastra mantras, भूरेः (*bhūreḥ*) — of the uninterrupted, वरुणस्य (*varuṇasya*) — (removing sin that obstructs the fruit), for the accomplishment of the sacrifice. जूर्णा इव युगाः (*jūrṇā iva yugāḥ*) — in ancient times of sacrifice, as you were praised and recited, वच्यंते (*vacyaṃte*) — (even now) are recited.
+
+*[The label of the next section reads, as supplied, धर्मार्थ (*dharmārtha*) (it stood inside the Pratipadārtha block); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, free from untruth, nourishers of the world in the forms of the sun and the moon, and divine in nature: for welfare in the form of śastra mantras, and for coming with the daughter of Sūrya seated in your chariot, you set out like arrows, swiftly and straight, for the contest. To you the praises, accomplished in rites such as sacrifice and of the form of śastra mantras, are recited, for the accomplishment of the uninterrupted sacrifice that removes the sin which obstructs the fruit; as in ancient times of sacrifice, when you were praised and recited, so they are recited even now.
+
+**Printed English translation**
+
+Divine Ashwins, in whom is no untruth, (darting) like arrows to acquire glory, and to carry off Surya, to you are addressed the prayers that are recited at holy rites, for (the completion of) the uninterrupted, sin-removing (sacrifice), as ancient sages (offered them).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पूषन् (*pūṣan*) — this word is used as an epithet of the Aśvin deities. Because they are nourishers of the world, their quality and work are praised by this epithet. By the derivation of this word the quality of Pūṣā, one of the twelve Ādityas, is also described.
+
+प्रूषा- यद्रश्मिपोषं पुष्यति तत् प्रूषा भवति । (*prūṣā- yadraśmipoṣaṃ puṣyati tat prūṣā bhavati |*)
+
+(Ni. 2-16 [the print has "ಸಿ." for "ನಿ."])
+
+Because he nourishes by his rays, the Āditya has the name Pūṣā: this is the etymology of the Nirukta authors. In the Śatapatha Brāhmaṇa also:
+
+### Printed p. 25
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 1.] Ṛgveda-saṃhitā 25.*
+
+इयं वै पूषा पूषेयं हीदं सर्वं पुष्यति यदिदं किं च । (*iyaṃ vai pūṣā pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yadidaṃ kiṃ ca |*)
+
+(Śa. Brā. 14-4-2-25)
+
+It is said that this deity is called Pūṣan because he nourishes everything. This sense may refer to the Āditya; or, since as the carrier of oblations he is the cause of the nourishment of all, gods, men and others, it may refer to Agni; or, if it is taken that the Āditya himself is one of the other forms of Agni, then there is no difficulty. Still, if the doubt arises how this epithet is fitting for the Aśvin deities, the answer is
+
+सूर्याचंद्रमसावित्येके । (*sūryācaṃdramasāvityeke |*)
+
+(Ni. 12-1)
+
+By this Nirukta sentence, since there is a view that the Aśvin deities are the sun and the moon, this epithet must naturally apply to them. Telling this same etymology,
+
+पुष्यन् क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः । (*puṣyan kṣitiṃ poṣayati praṇudan raśmibhistamaḥ |*)
+तेनैनमस्तौत्सोषेति भरद्वाजस्तु पंचभिः ॥ (*tenainamastautsoṣeti bharadvājastu paṃcabhiḥ ‖*)
+
+(Bṛ. De. 2-63)
+
+the Bṛhaddevatā sentence also gives the same view: because he destroys the darkness and nourishes the earth so that it flourishes, he has the name Pūṣan. Moreover,
+
+त्वं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना । (*tvaṃ vātairaruṇairyāsi śaṃgayastvaṃ pūṣā vidhataḥ pāsi nu tmanā |*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ.] 2-1-6)
+
+त्वमग्ने द्रविणोदा आरंकृते त्वं देवः सविता रत्नधा असि । (*tvamagne draviṇodā āraṃkṛte tvaṃ devaḥ savitā ratnadhā asi |*)
+त्वं भगो नृपते वस्व ईशिषे त्वं पायुर्दमे यस्तेऽविधत् ॥ (*tvaṃ bhago nṛpate vasva īśiṣe tvaṃ pāyurdame yaste 'vidhat ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ] 2-1-7)
+
+In ṛks like these the identity of पूष, (*pūṣa,*), भग, (*bhaga,*), सवितृ, (*savitṛ,*) and अदित्य (*aditya*) is stated. All the Ādityas are of the nature of Agni, and the Aśvin deities are of the form of the Āditya; therefore the epithet पूषन् (*pūṣan*) states their nourishing of the world. Moreover,
+
+तत्कावश्विन् द्यावापृथिविन्यावित्येके । (*tatkāvaśvin dyāvāpṛthivinyāvityeke |*)
+
+(Ni. 12-1)
+
+since there is a view that these two are heaven and earth, it can be said that in the form of heaven and earth they are nourishers of the world, and that this epithet is therefore fitting. For this reason Sāyaṇa too, in the present ṛk, has explained the meaning of this word with हे पूषक सूर (*he pūṣaka sūra*) and so on.
+
 ---
 
-**Progress note:** Done through printed p. 22 (PDF 22). Rik 2 Special Topics (urmi end, pani, asme in all cases), grammar page; Rik 2 complete
+**Progress note:** Done through printed p. 25 (PDF 25). Rik 3 complete: Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics on pushan (continues on next page)
