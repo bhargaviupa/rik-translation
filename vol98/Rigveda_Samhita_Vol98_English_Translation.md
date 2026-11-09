@@ -1985,6 +1985,86 @@ In this ṛk there is the prayer दात्रं हुवे (*dātraṃ huv
 
 आदितेः (*āditeḥ*) — for this word Sāyaṇa has given the sense as follows: एतदंतरिक्षस्याप्युलक्षणं । अखंडनीयायाः पृथिव्याः तादृशस्यांतरिक्षस्य च संबंधि दात्रं । (*etadaṃtarikṣasyāpyulakṣaṇaṃ | akhaṃḍanīyāyāḥ pṛthivyāḥ tādṛśasyāṃtarikṣasya ca saṃbaṃdhi dātraṃ |*). The word *aditi* may refer to the atmosphere, and may denote the nature of the indivisible earth (the first letter is printed with a different vowel from the epithet in the previous sentence, as supplied).
 
+### Printed p. 68
+
+*Running head: [68 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 185]. The window begins inside the Special Topics of Ṛk 3, continuing the note on *aditi* from p. 67.*
+
+In the present ṛk, as an epithet of both earth and atmosphere, it has been explained as the wealth belonging to the indivisible earth and atmosphere together.
+
+The Nirukta authors have given for the word *aditi* the sense अदीना (*adīnā*) (Ni. 4-23): "not poor", of indivisible nature, not decaying. This is an epithet that tells the endlessness of Agni, of the divine mother Aditi and so on. Concerning the special purport of this word the scholar Max Müller has said thus:
+
+" Aditi, an ancient God or Goddess is in reality, the earliest name invented to express the infinite. That was called A-diti, the unbound, the un-bounded. It is derived from Diti, bond and the negative particle and meant there-fore, originally what is free from bonds of any kind whether of spice or time, free from physical weakness, free from moral guilt."
+
+( S. B. E. Vol. XXXII. p. 241. )
+
+The principle that is endless, not limited by place, time and the like, immeasurable: to tell the nature of that principle the word is used in many places in the Ṛksaṃhitā. The seers have expressed a profound idea by using this word. Explaining the negative sense of the word *diti* (meaning "to be bound, to be limited, to be regulated"), he has said that it is a word indicating an endless principle that has neither physical limit nor moral deficiency.
+
+अदितिद्यौरदितिरंतरिक्षमदितिर्माता स पिता स पुत्रः । (*aditidyauraditiraṃtarikṣamaditirmātā sa pitā sa putraḥ |*)
+विश्वे देवा अदितिः संच जना अदितिर्जातमदितिर्जनित्वं ॥ (*viśve devā aditiḥ saṃca janā aditirjātamaditirjanitvaṃ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ. ಸಂ] 1-89-10)
+
+As described in ṛks like these, Aditi is the mother of the universe and of the nature of the universe. A goddess who is such a mother of the world may be said to preside over the whole physical world and over moral conduct. But it must be examined whether the word *aditi* indicates the nature of one separate deity, or is an epithet of Heaven and Earth and the like, of the nature of the Ādityas. There is also a view that, except in the sūkta Ṛ. Saṃ. 10-72, everywhere else the word *aditi* indicates only the nature of the Ādityas, the sons of Aditi. For example,
+
+" Aditi is not a prominent deity in the Veda, she is celebrated rather in her sons,
+Adityas, than in her own person . . . . . . ."
+
+( S. B. E. XXXII. p. 243 )
+
+### Printed p. 69
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 2.] Ṛgveda-saṃhitā 69.*
+
+Such is the opinion of Max Müller and other scholars. In the present context that examination is not so necessary, so this matter will be examined later at a suitable occasion. In the present ṛk too the prayer is that immeasurable wealth connected with Heaven and Earth, of an endless and indivisible nature, may be obtained.
+
+अनेहः (*anehaḥ*) — for this word Sāyaṇa has given the senses अपारं, दुःखरहितं, सुखात्मकं (*apāraṃ, duḥkharahitaṃ, sukhātmakaṃ*). In some places it also means "free from enemies".
+
+अनर्वं (*anarvaṃ*) — अनरणं, अक्षीणं (*anaraṇaṃ, akṣīṇaṃ*): it is told that it means "free from decay". By अनर्वा- (*anarvā-*) (Ni. 6-23) one sense is "without support from others and without dependence", and another sense, "eternal, without old age and death", becomes possible. The sense stated in the ṛk "tri-nābhi cakram ajaram anarvam" (Ṛ. Saṃ. 1-164-2) is the same for the word *anarva* in the present mantra. Its special senses will be explained where the words *anarvan*, *anarvāṇam* and so on occur.
+
+स्वर्वत् (*svarvat*) — "equal to the heaven full of fruit": an epithet of दात्रं (*dātraṃ*). What the root of the word स्वर् (*svar*) is and how this word is derived was explained earlier, together with the derivation of the Nirukta authors स्वः आदित्यो भवति ; सु अरणः (*svaḥ ādityo bhavati ; su araṇaḥ*) (Ni. 2-14), and the use of the word स्वः (*svaḥ*) in different senses was told. As there is the word स्वर्वत् (*svarvat*), so स्वर्दृशः, (*svardṛśaḥ,*), स्वर्विद् (*svarvid*) and the like are used in many places and give special senses suited to those contexts. Here only a few contexts in which the word स्वर्वत् (*svarvat*) occurs are cited and its sense explained.
+
+या इंद्र भुज आभरः स्वर्वा असुरेभ्यः । (*yā iṃdra bhuja ābharaḥ svarvā asurebhyaḥ |*)
+स्तोतारमिन्मघवन्नस्य वर्धय ये च त्वे व्यक्तबर्हिषः ॥ (*stotāraminmaghavannasya vardhaya ye ca tve vyaktabarhiṣaḥ ‖*)
+
+(Ṛ. Saṃ. [printed ಮ ಸಂ] 8-97-1)
+
+Here: स्वर्वान्—सुखवान् ; स्वर्गवान् वा । अथवा स्वः शब्दः सर्वपर्यायः । सर्वं भूतजातं आत्मन एवोत्सन्नत्वात् तद्वान्॥ (*svarvān—sukhavān ; svargavān vā | athavā svaḥ śabdaḥ sarvaparyāyaḥ | sarvaṃ bhūtajātaṃ ātmana evotsannatvāt tadvān‖*), that is, since the word स्वः (*svaḥ*) can mean heaven, happiness or "all", *svarvān* means one with happiness, one with heaven, or one who has obtained everything.
+
+तं शिशीता स्वध्वरं सत्यं सत्वानमृत्वियं । (*taṃ śiśītā svadhvaraṃ satyaṃ satvānamṛtviyaṃ |*)
+उतो नु चिद्य ओहत आंडा शुष्णस्य भेदत्यजैः सर्वतीरपोनभंतामन्यके (*uto nu cidya ohata āṃḍā śuṣṇasya bhedatyajaiḥ sarvatīraponabhaṃtāmanyake*)
+समे ॥ (*same ‖*)
+
+(Ṛ. Saṃ. 8-40-11)
+
+### Printed p. 70
+
+*Running head: [70 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. Ā. 24. Sū. 185] (the print has "ಆ." for "ಅ.", as supplied).*
+
+In such places, when *svarvatīḥ* is an epithet of "water" (*apaḥ*), "divine" means water born in the divine world (in heaven). The same epithet also describes the natures of Agni and other deities. For example,
+
+ज्योतिष्मतीमदितिं धारयत् क्षितिं स्वर्वतीमा सचेते दिवेदिवे जागृवांसा (*jyotiṣmatīmaditiṃ dhārayat kṣitiṃ svarvatīmā sacete divedive jāgṛvāṃsā*)
+दिवेदिवे । (*divedive |*)
+ज्योतिष्मत् क्षत्रमाशाते आदित्या दानुनस्पती ॥ (*jyotiṣmat kṣatramāśāte ādityā dānunaspatī ‖*)
+
+(Ṛ. Saṃ. 1-136-3)
+
+here the word स्वर्वती (*svarvatī*) is an epithet of Aditi. Here, through the accomplishment of the sacrifice, the sense "possessing heaven" is stated.
+
+आ ते शुष्मो वृषभ एतु पश्चादोत्तरादधरादा पुरस्तात् । (*ā te śuṣmo vṛṣabha etu paścādottarādadharādā purastāt |*)
+आ विश्वतो अभि समेत्वर्नाजिंद्र द्युम्नं स्वर्वद्हेह्यस्मे ॥ (*ā viśvato abhi sametvarnājiṃdra dyumnaṃ svarvadhehyasme ‖*)
+
+(Ṛ. Saṃ. 6-19-9)
+
+In such contexts it is said to mean "wealth together with happiness". In the same way in the present ṛk too the sense of "equal to heaven" is: wealth (*dātra*) that gives happiness like the happiness obtained in heaven.
+
+रोदसी (*rodasī*) — the derivation and purport of this word were told earlier subtly. Its special senses will be told in more detail later under the Special Topics.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly)
+
+अनेहः (*anehaḥ*) (root हन (*hana*), in the sense of killing and going): by नञ् हनविहच (*nañ hanavihaca*) (Uṇ. Sū. 4-663 [as printed]) the suffix *asi*; the substitute *eha* for the root; by नलोपोनञ् (*naloponañ*) the elision of the *n* of *nañ*; by तस्मान्नडचि (*tasmānnaḍaci*) the augment *nuḍ* to the following *u*; with a dual accusative following, in the neuter by स्वमोर्नपुंसकात् (*svamornapuṃsakāt*) (Pā. Sū. [printed ೭ವ೧-೨೩, with a stray letter between the digits]) the elision of the case ending; by the accent of a word ending in a *kṛt* suffix, last-syllable acute. दात्रम् (*dātram*) (root डुदाञ् दाने (*ḍudāñ dāne*), "to give"): by दादिभ्यश्चंदसि (*dādibhyaścaṃdasi*) (Uṇ. Sū. 4-609) the suffix *tran*; by interchange last-syllable acute. हुवे (*huve*) (root ह्वेञ् (*hveñ*), in the sense of challenge and sound): present, first person singular; because it stands at the beginning of the pāda there is no *nighāta*; by the suffix accent, last-syllable acute. स्वर्वत् (*svarvat*) (*svar* means heaven; "that which has it"): the suffix *matup*; because it is *pit* it is unaccented; by नजिस्वरौस्वरिता (*najisvarausvaritā*) (printed "ಫಿ ಸೂ. ೭೪") the *svarita* accent of *svar*.
+
+*[The window ends here, within the grammar page.]*
+
 ---
 
-**Progress note:** Done through printed p. 67 (PDF 67). Rik 2 Special Topics end, grammar page; Rik 3 (Samhita, Pada, bhashya, Pratipadartha, Bhavartha, English), Special Topics begin (continues on next page)
+**Progress note:** Done through printed p. 70 (PDF 70). Rik 3 Special Topics: aditi (Max Muller), anehah, anarvam, svarvat; grammar page begins (continues on next page)
