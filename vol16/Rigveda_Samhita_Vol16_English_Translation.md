@@ -3142,6 +3142,127 @@ The posts, clad in bright garments called *raśanā*, endowed with all their par
 
 Arrayed in bright (garments), entire (in their parts), these pillars ranging in rows like swans, have come to us erected by pious sages on the east (of the fire); they proceed resplendent on the path of the gods.
 
+### Printed p. 111
+
+*[Running head, p. 111: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 111]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+हंसा इव श्रेणिशो यतानाः (*haṃsā iva śreṇiśo yatānāḥ*) — पङ्क्तः प्रवर्तमानाः हंसा इव (*paṅktaḥ pravartamānāḥ haṃsā iva*): moving in rows, like swans. यथा नभसि पङ्क्तः पतंतो हंसाः शोभंते तद्वत् शोभमानास्ते यूपाः (*yathā nabhasi paṅktaḥ pataṃto haṃsāḥ śobhaṃte tadvat śobhamānāste yūpāḥ*): as swans flying in rows in the sky shine, so those posts shine. The Nirukta writers have stated the word हंसासः (*haṃsāsaḥ*) among the names of the horse (Ni. 2-27). And:
+
+ईर्मांतासः सिलिकमध्यमासः सं शूरणासो दिव्यासो अत्याः । हंसा इव श्रेणिशो यतंते यदाक्षिषुर्दिव्यमज्ममश्वाः ॥ (*īrmāṃtāsaḥ silikamadhyamāsaḥ saṃ śūraṇāso divyāso atyāḥ | haṃsā iva śreṇiśo yataṃte yadākṣiṣurdivyamajmamaśvāḥ ‖*) (the supplied text has पु. सं. (*pu. saṃ.*) [sic] 1-163-10).
+
+Having cited this Ṛk, they explain हंसाः हंतेर्घ्नंत्यध्वानं (*haṃsāḥ haṃterghnaṃtyadhvānaṃ*): the word हंस (*haṃsa*) (*haṃsa*), derived from the root हन (*hana*) (*hana*) [as supplied] in the sense of going, means "one that travels the road". They also describe the word श्रेणि (*śreṇi*) (*śreṇi*) in श्रेणितः (*śreṇitaḥ*) as derived from the root श्रिज् (*śrij*) (*śrij*) [as supplied], with the sense of "being in a row". Sāyaṇa has explained it by comparing the posts to rows of swan-birds flying in the sky, which shine.
+
+शुक्रा वसानाः (*śukrā vasānāḥ*) — शुक्राणि दीप्तानि रशनाख्यानि वासांसि आच्छादयंतः (*śukrāṇi dīptāni raśanākhyāni vāsāṃsi ācchādayaṃtaḥ*): covering themselves with shining garments called *raśanā*. The word शुक्र (*śukra*) (*śukra*) is stated among the names of water (Ni. 2-24).
+
+आ सुष्वयंती यजते उपाके उषासानक्ता सदतां नि योन् । दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपितं दधाने ॥ (*ā suṣvayaṃtī yajate upāke uṣāsānaktā sadatāṃ ni yon | divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapitaṃ dadhāne ‖*) (the supplied text has पु. सं. (*pu. saṃ.*) [sic] 10-110-6).
+
+Here शुक्रं शोचतेर्ज्वलतिकर्मणः (*śukraṃ śocaterjvalatikarmaṇaḥ*) (the supplied text has दीप्तर्थवन्नु (*dīptarthavannu*) for the sense "shining" [sic]): the word शुक्र (*śukra*) is derived from the root शुच (*śuca*) (*śuca*), which conveys the sense of shining, and the meaning "lustrous" is given. Durgācārya explains the meaning as शुक्लरूपां श्रियं (*śuklarūpāṃ śriyaṃ*) (white-formed splendour).
+
+शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि । विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥ (*śukraṃ te anyadyajataṃ te anyadviṣurūpe ahanī dyaurivāsi | viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*) (the supplied text has म. सं. (*ma. saṃ.*) [sic] 6-58-1).
+
+Here the word शुक्रम् (*śukram*) is given the sense "white" (शुक्ल (*śukla*)). The meaning is that the posts, clad in garments called *raśanā*, white (of a white colour) and lustrous, shine.
+
+कविभि: पुरस्तादुन्नियमाना: (*kavibhi: purastādunniyamānā:*) [colons as supplied] — the word कवि (*kavi*) (*kavi*) is stated among the names of the intelligent (Ni. 3-19). The meaning is that the priests such as the Adhvaryu have set the posts up, shining, in the sacrificial hall on the eastern side of the Āhavanīya fire.
+
+देवानां पाथः अपियंति (*devānāṃ pāthaḥ apiyaṃti*) — देवानां स्थानमंतरक्षं प्राप्नुवंति (*devānāṃ sthānamaṃtarakṣaṃ prāpnuvaṃti*) (the supplied text has अंतरक्षं (*aṃtarakṣaṃ*) [sic] for अंतरिक्षं (*aṃtarikṣaṃ*)): they reach the atmosphere, the abode of the gods. The Nirukta writer, (continued on the next page)—
+
+### Printed p. 112
+
+*[Running head, p. 112: 112 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+यत्रा चक्रुरमृता गातुमस्मै श्येनो न दीयन्नन्वेति पाथः । प्रति वां सूर उदिते विधेम नमोभिर्मित्रावरुणोत हव्यैः ॥ (*yatrā cakruramṛtā gātumasmai śyeno na dīyannanveti pāthaḥ | prati vāṃ sūra udite vidhema namobhirmitrāvaruṇota havyaiḥ ‖*) (the supplied text has पु. सं. (*pu. saṃ.*) [sic] 7-63-5).
+
+Having cited this Ṛk, he explains पाथः अंतरिक्षं पथा व्याख्यानतं (*pāthaḥ aṃtarikṣaṃ pathā vyākhyānataṃ*) [as supplied; the sense is "pāthaḥ is the atmosphere, explained by 'path'"], giving the meaning "way". Then:
+
+वनस्पते रशनया नियूया देवानां पाथ उप वक्षि विद्वान् । स्वदाति देवः कृणवद्धवींष्यवतां द्यावापृथिवी हवं मे ॥ (*vanaspate raśanayā niyūyā devānāṃ pātha upa vakṣi vidvān | svadāti devaḥ kṛṇavaddhavīṃṣyavatāṃ dyāvāpṛthivī havaṃ me ‖*) (10-70-10, as supplied).
+
+For the word पाथः (*pāthaḥ*) in this Ṛk he explains अन्नमपि पाथ उच्यते पानादेव (*annamapi pātha ucyate pānādeva*) ("food too is called pātha, from drinking"); the supplied text has वाख्यानमाडि (*vākhyānamāḍi*) [sic] for "explained". Durgācārya has explained the meaning as हवनसंबंधादन्नं पाथ उच्यते पानादेव (*havanasaṃbaṃdhādannaṃ pātha ucyate pānādeva*) ("food connected with the oblation is called pātha, from drinking").
+
+उपावसृज त्मन्या समंजन् देवानां पाथ यतुथा हवींषि । हनस्पतिश्यमिता देवो अग्निः स्वदंतु हव्यं मधुना धृतेन ॥ (*upāvasṛja tmanyā samaṃjan devānāṃ pātha yatuthā havīṃṣi | hanaspatiśyamitā devo agniḥ svadaṃtu havyaṃ madhunā dhṛtena ‖*) (the supplied text has म. सं. (*ma. saṃ.*) [sic] 10-110-10; it also has हनस्पति (*hanaspati*) [sic]).
+
+In this Ṛk too the word पाथ (*pātha*) is explained as "food". Sāyaṇa explains (अध्वय्यादिभिः उच्छ्रीयमाणा यूपा अतिदैर्घ्यादंतरिक्षं व्याप्य वर्तंते (*adhvayyādibhiḥ ucchrīyamāṇā yūpā atidairghyādaṃtarikṣaṃ vyāpya vartaṃte*)): the posts, consecrated by the Adhvaryu and other priests, shine in the atmosphere, the abode of the gods, by their height.
+
+**Vyākaraṇa-prakriyā**
+
+Grammar page, noted briefly. हंसा इव (*haṃsā iva*): root हसे हसने (*hase hasane*) (as supplied), suffix ac; being in the Pṛṣodarādi group it takes the anusvāra augment; by the statement इवेनसमासो विभक्त्यलोपश्च (*ivenasamāso vibhaktyalopaśca*) the case-ending is not elided in the compound; the accent of the first member remains. श्रेणितः (*śreṇitaḥ*): suffix śas by बह्वल्पार्थात् शस् का (*bahvalpārthāt śas kā*) (Pā. Sū. 5-4-42); final udātta by the suffix accent. यताना: (*yatānā:*) [colon as supplied]: root यती प्रयत्ने (*yatī prayatne*); replacement of liṭ by śānac; luk for the vikaraṇa by बहुलंछंदसि (*bahulaṃchaṃdasi*); तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) keeps the root accent. शुक्रा (*śukrā*): root शुच दीप्तौ (*śuca dīptau*); suffix rat by ऋज्रेंद्राग्र (*ṛjreṃdrāgra*) (Uṇ. Sū. 2-180), final udātta. स्वरमः (*svaramaḥ*) [sic, as supplied]: said to be explained in the sixth mantra of this same sūkta.
+
+### Printed p. 113
+
+*[Running head, p. 113: [A. 3. A. 1. V. 4.] Ṛgvedasaṃhitā 113]*
+
+(Grammar notes, continued.) अगुः (*aguḥ*): root इण् गत् (*iṇ gat*) [as supplied], luṅ; the root becomes gā by इणोगालुजि (*iṇogāluji*) (Pā. Sū. 2-4-45); by गातिस्थाघुपा (*gātisthāghupā*) (Vā. Sū. 2-4-77, as supplied) sic is dropped; the ending jhi becomes us by आतः (*ātaḥ*) (Pā. Sū. 3-4-110); the augment aṭ; nighāta accent. उन्नीयमानाः (*unnīyamānāḥ*): root णीञ् प्रापणे (*ṇīñ prāpaṇe*); śānac in the passive; yak by सार्वधातुके यक् (*sārvadhātuke yak*); augment muk by आनेमुक् (*ānemuk*); the yak accent remains; in the prādi compound the accent of the latter member of a kṛt compound. यंति (*yaṃti*): root इण् गतौ (*iṇ gatau*), laṭ third person plural; nighāta accent. पाथः (*pāthaḥ*): root पा रक्षणे (*pā rakṣaṇe*); suffix asun and the augment thuṭ are taught as irregular by अन्नेच (*anneca*) (Uṇ. Sū. 4-644, as supplied); here it conveys the meaning "atmosphere" (the supplied text has इर्थ (*irtha*) [sic] for "meaning").
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> [figure: vol16/html/figures/fig_line5779.jpg]
+> शृंगा॑णी॒वेच्छृं॒गिणां॒ सं द॑दृश्रे च॒षाल॑वंतः॒ स्वर॑वः॒
+> पृथिव्यां ।
+> वा॒घद्भ॑र्वा विह॒वे शोष॑माणा अ॒स्मा अ॑वंतु पृत॒नाज्ये॑षु
+> ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> [figure: vol16/html/figures/fig_line5788.jpg]
+> शृंगाणिइव । इत् । शृंगिणां । सं । ददृश्रे । चषालवंतः । स्वरवः । पृथिव्यां ।
+> वाघत्भिः । वा । विहवे । शोषमाणाः । आस्मान् । आवंतु । पृतनाज्येषु ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स्वरवः स्वरमंतश्च षालवंतः प्रतिमुक्तकंटकाः । एवंविधा यूपाः पृथिव्यां
+> शृंगिणां महिषादीनां शृंणाणीवेत् विषाणानीव संददृश्रे । सम्यक् दृश्यंत एव ।
+> वा अपि च विदवे । विविधं हूयंते हवींष्यत्रेति विहवो यज्ञः । तस्मिन्यज्ञे वाघ-
+
+> *svaravaḥ svaramaṃtaśca ṣālavaṃtaḥ pratimuktakaṃṭakāḥ | evaṃvidhā yūpāḥ pṛthivyāṃ*
+> *śṛṃgiṇāṃ mahiṣādīnāṃ śṛṃṇāṇīvet viṣāṇānīva saṃdadṛśre | samyak dṛśyaṃta eva |*
+> *vā api ca vidave | vividhaṃ hūyaṃte havīṃṣyatreti vihavo yajñaḥ | tasminyajñe vāgha-*
+> 15
+
+### Printed p. 114
+
+*[Running head, p. 114: 114 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+> द्विऋत्विग्निः । वाघतो व्यक्तबर्हिष इत्यृत्विज्ञामसु पाठात् । शोषमाणास्मैः
+> क्रियमाणं स्तुतिलक्षणं शब्दं शृण्वंतः । तादृशा यूपाः पृतनाज्येषु । पृतनाज्य-
+> शब्दः संग्रामवाची । आजौ पृतनाज्यमिति संग्रामनामसु पठितत्वात् । पृतनाज्येष्व
+> संग्रामेषु । वधस्थलेष्टिति यावत् । अस्मान्यजमानानवंतु । रक्षंतु ॥ शृंगाणि ।
+> श्य हिंसायामित्यस्माच्छृणातेर्ह्रस्वश्च । उ. १-१२५ । इति गन् नुडागमो धातो-
+> र्ह्रस्वत्व । नित्स्वरः । ददृश्रे । छंदसि लुङ्लज्जिट इति लजर्थे लिट् । इरयो र इती-
+> रेचो रे इत्यादेशः । निघातः ॥
+
+> *dviṛtvigniḥ | vāghato vyaktabarhiṣa ityṛtvijñāmasu pāṭhāt | śoṣamāṇāsmaiḥ*
+> *kriyamāṇaṃ stutilakṣaṇaṃ śabdaṃ śṛṇvaṃtaḥ | tādṛśā yūpāḥ pṛtanājyeṣu | pṛtanājya-*
+> *śabdaḥ saṃgrāmavācī | ājau pṛtanājyamiti saṃgrāmanāmasu paṭhitatvāt | pṛtanājyeṣva*
+> *saṃgrāmeṣu | vadhasthaleṣṭiti yāvat | asmānyajamānānavaṃtu | rakṣaṃtu ‖ śṛṃgāṇi |*
+> *śya hiṃsāyāmityasmācchṛṇāterhrasvaśca | u. 1-125 | iti gan nuḍāgamo dhāto-*
+> *rhrasvatva | nitsvaraḥ | dadṛśre | chaṃdasi luṅlajjiṭa iti lajarthe liṭ | irayo ra itī-*
+> *reco re ityādeśaḥ | nighātaḥ ‖*
+
+*Gist: The posts, eight-cornered and smooth, are seen on the earth like the horns of horned animals, and, hearing the praise uttered by the priests at the sacrifice, may protect us in battles. (The grammatical tail is transcribed, not explained: शृंगाणि (*śṛṃgāṇi*), ददृश्रे (*dadṛśre*).)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+स्वरवः (*svaravaḥ*) (*svaravaḥ*) — possessing their parts; चषालवंतः (*caṣālavaṃtaḥ*) (*caṣālavantaḥ*) — free of thorns, the posts; पृथिव्यां (*pṛthivyāṃ*) (*pṛthivyāṃ*) — on the earth; शृंगिणां (*śṛṃgiṇāṃ*) (*śṛṅgiṇāṃ*) — of horned ones such as buffaloes; शृंगाणि इव इत् (*śṛṃgāṇi iva it*) (*śṛṅgāṇi iva it*) — just like horns; सं ददृश्रे (*saṃ dadṛśre*) (*saṃ dadṛśre*) — are well seen; वा (*vā*) (*vā*) — and; विहवे (*vihave*) (*vihave*) — in the sacrifice where oblations of various kinds are offered; वाघद्भिः (*vāghadbhiḥ*) (*vāghadbhiḥ*) — by the priests (the sound in the form of praise made by them); श्रोषमाणाः (*śroṣamāṇāḥ*) (*śroṣamāṇāḥ*) — those hearing (the posts); पृतनाज्येषु (*pṛtanājyeṣu*) (*pṛtanājyeṣu*) — in battles (wars); अस्मान् (*asmān*) (*asmān*) — us, the performers of the sacrifice; अवंतु (*avaṃtu*) (*avantu*) — may they protect.
+
+**भावार्थ (Bhāvārtha)**
+
+The posts, complete in their parts and free of thorns and the like, are seen on the earth like the horns of buffaloes and other horned animals. And these posts, which listen to the praise uttered by the priests at the sacrifices, may they protect us in battles.
+
+**Printed English translation**
+
+Entire in all parts and girded with rings, they appear upon the earth like the horns of horned cattle; bearing (their praises) by the priests: may they protect us in battles.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+स्वरव: (*svarava:*) [colon as supplied] — स्वरुमंतः (*svarumaṃtaḥ*) [as supplied]: the meaning is that the posts are made eight-cornered (with eight edges) [the supplied text has an underscore and a bracket here].
+
+चषालवंतः (*caṣālavaṃtaḥ*) — प्रतिमुक्तकंटका: (*pratimuktakaṃṭakā:*): the meaning is that they are smooth, as if free of thorns (जंटकगळु (*jaṃṭakagaḷu*) [sic] for "thorns").
+
+शृंगाणीवेत् (*śṛṃgāṇīvet*) — here, in the three words शृंगाणि इव इत् (*śṛṃgāṇi iva it*) (the supplied text has कदगळल्लि (*kadagaḷalli*) [sic] for "words"), the word इत् (*it*) (*it*) is used in the sense of a mere filler of the line. The Nirukta writers state अथ ये प्रवृत्तेर्थे (*atha ye pravṛtterthe*) ... and the quotation is cut off at the end of this page (continued in the next window).
+
 ---
 
-**Progress note:** Done through printed p. 110 (PDF 110). Done through printed p. 110 (PDF 110). pp. 108-110: Sukta 8 Rk 8 Special Topics end (ketu citations) and Rk 8 grammar notes (pp. 108-109) written; Rk 9 Samhita, Pada, bhasya, Pratipadartha, Bhavartha and printed English written (p. 110); Rk 9 Special Topics and grammar not yet written, continue on p. 111
+**Progress note:** Done through printed p. 114 (PDF 114). Done through printed p. 114 (PDF 114). pp. 111-114: Sukta 8 Rk 9 Special Topics (pp. 111-112) and grammar notes (pp. 112-113) written; Rk 10 Samhita, Pada, bhasya (pp. 113-114), Pratipadartha, Bhavartha and printed English written; Rk 10 Special Topics begin (Svaravah, Casalavantah, Srngani-vet) and break off mid-quotation at the end of p. 114; rest of Rk 10 Special Topics and its grammar not yet written, continue on p. 115
