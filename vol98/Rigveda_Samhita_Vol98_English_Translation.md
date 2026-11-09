@@ -3209,6 +3209,60 @@ Asking "What is Vaiśvānara? Why has this deity this name?", he gives the answe
 
 *[The window ends here, in the middle of the sentence; the next window continues from "ಸಕಲ ಪ್ರಾಣಿಗಳನ್ನೂ".]*
 
+### Printed p. 108
+
+*Running head: [108 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 18] (the supplied text is cut at "೧೮"). The window continues the Vaiśvānara note of the Special Topics of Ṛk 1 of Sūkta 186 from p. 107; the sentence is completed here.*
+
+... enters all living beings, that is, because he has entered all living beings in the form of the digestive fire (*jāṭharāgni*), this Agni is named Vaiśvānara; they have given the derivation "*viśvānara* himself is *vaiśvānara*". For the word *vaiśvānara* they have given the derivation in three ways: first, विश्वे सर्वॆ नरा एनमग्निं यज्ञादौ प्रणयंतीति विश्वेनराः तत्संबंधाद्वैश्वानरः (*viśve sarvè narā enamagniṃ yajñādau praṇayaṃtīti viśvenarāḥ tatsaṃbaṃdhādvaiśvānaraḥ*) ("all men lead this Agni in sacrifices and the like, so they are *viśve-narāḥ*; from connection with them, *vaiśvānara*"); second, विश्वेषां नराणां लोकांतरं प्रति नेतृतया संबंधी वैश्वानरः (*viśveṣāṃ narāṇāṃ lokāṃtaraṃ prati netṛtayā saṃbaṃdhī vaiśvānaraḥ*) ("he who is connected, as leader, with all men with regard to the other world, is *vaiśvānara*"); and third, विश्वान् सर्वान् प्राणिनः प्रत्यतो गच्छत इति वैश्वानरौ, मध्यमोत्तमौ, ताभ्यामुत्पन्न 8 वैश्वानरः (*viśvān sarvān prāṇinaḥ pratyato gacchata iti vaiśvānarau, madhyamottamau, tābhyāmutpanna 8 vaiśvānaraḥ*) ("*vaiśvānarau* are the middle and the last; one produced from those two is *vaiśvānara*"; the numeral "8" stands in the supplied text before *vaiśvānaraḥ* and is kept as supplied). The sense expressed is the praise of the greatness of Vaiśvānara, who killed Vṛtra the cloud-obstructer, gives rain and destroys demons. The Nirukta that points to this same purport is as follows:
+
+प्रब्रमीमि तन्महित्वं महाभाग्यं वृषभस्य वर्षितुरपां यं पूरवः पूरयितव्या मनुष्या वृत्रहणं मेघहनं सचंते सेवंते वर्षकामा दस्युर्दस्यते क्षयार्थादुपदस्यंत्यस्मिन् रसा उपदासयति कर्माणि तमग्निर्वैश्वा- नरो घन्न वाधुनोदपः काष्ठा अभिनच्छंबरं मेघं (*prabramīmi tanmahitvaṃ mahābhāgyaṃ vṛṣabhasya varṣiturapāṃ yaṃ pūravaḥ pūrayitavyā manuṣyā vṛtrahaṇaṃ meghahanaṃ sacaṃte sevaṃte varṣakāmā dasyurdasyate kṣayārthādupadasyaṃtyasmin rasā upadāsayati karmāṇi tamagnirvaiśvā- naro ghanna vādhunodapaḥ kāṣṭhā abhinacchaṃbaraṃ meghaṃ*)
+
+((निरु. ७-२०) (*(niru. 7-20)*), "ನಿರು." as printed.) After this they have inquired who the Vaiśvānara spoken of here is. Then some have said that the Vaiśvānara should be Vāyu or Indra, who stand in the middle region, because they two have authority over the work of rain; in the matter of getting rain it is they whom one must generally praise; since Agni is said to have the earth as his place, this is not possible, they have argued. Others say that the word *vaiśvānara* spoken of here indicates the Sun, because the morning, midday and evening pressings (*savana*) are set out in order as the Earth world, the Atmosphere world and the Heaven world, and it is concluded that by performing those pressings those worlds are obtained. Then by the performance of the third pressing, heaven is obtained, and a complete falling away from the earth occurs. To remove such a falling away they recite the mantra of the last śastra, the Agni-Mārutam, so as to come back to the earth. That śastra-mantra begins with the Vaiśvānara sūkta. After that, the Rudra deity and the Maruts connected with the middle region are caused to descend by the recitation of the sūkta of those deities. Since Agni has the earth as his place, if the word *vaiśvānara* here did not mean the Sun, how could the descent to the earth be connected? Having so concluded, they have explained *vaiśvānara* as the Sun. But Sāyaṇācārya's opinion is that the word *vaiśvānara* means the Agni of the middle region and related to "ನಿಮ್ಮ…" [the supplied text has a broken word here, निम्म (*nimma*) at the line end and त्संबंधवाद (*tsaṃbaṃdhavāda*) at the next line start, which I cannot settle; ?].
+
+**The greatness of Vaiśvānara Agni** (printed heading वैश्वानराग्नियॆ महिमॆ (*vaiśvānarāgniyè mahimè*))
+
+इंद्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । (*iṃdraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān |*)
+एकं सद्विप्रा बहुधा वदंत्यग्निं यमं मातरिश्वानमाहुः ॥ (*ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ ‖*)
+
+((म. सं. १-१६४-९६) (*(ma. saṃ. 1-164-96)*), as printed; the book prints "ಮ. ಸಂ.")
+
+### Printed p. 109
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 4] Ṛgveda-saṃhitā 109 (as supplied).*
+
+इममेवाग्निं महांतमात्मानमेकमात्मानं बहुधा मेधाविनो वदंति ॥ (*imamevāgniṃ mahāṃtamātmānamekamātmānaṃ bahudhā medhāvino vadaṃti ‖*) ("Thoughtful men speak in many ways of this very one great Self, Agni.") अग्निः सर्वा देवताः इति ब्राह्मणमपि भवति. (*agniḥ sarvā devatāḥ iti brāhmaṇamapi bhavati.*) ("There is a Brāhmaṇa text also: 'Agni is all the deities'") ((नि. ७-१८) (*(ni. 7-18)*)). The great Self, the Self of all, this Agni alone is addressed by various names such as Indra and worshipped by all. And there are statements of the Śruti that this Vaiśvānara Agni is the source of all the portions of Agni that appear in various circumstances in other forms, and that all the other forms are branches of this Vaiśvānara Agni.
+
+वया इदग्ने अग्नयस्ते अन्वे त्वे विश्वे अमृता मादयंते । (*vayā idagne agnayaste anve tve viśve amṛtā mādayaṃte |*)
+वैश्वानर नाभिरसि क्षितीनां स्तूणेव जना उपमिद्ययंथ ॥ (*vaiśvānara nābhirasi kṣitīnāṃ stūṇeva janā upamidyayaṃtha ‖*)
+((म. सं. १-५९-१) (*(ma. saṃ. 1-59-1)*), as printed; the book prints "ಮ. ಸಂ.")
+
+The Vaiśvānara Agni is the cause of the existence of the whole world of gods, men and the rest, and is the leader of all the dealings of the world; therefore all beings who desire their own welfare and the welfare of the world must know the nature of this Vaiśvānara Agni, the Self of all, and worship him; the Śruti texts that teach the performance of rites and the Śruti texts that teach spiritual knowledge alike declare the necessity of the worship of Vaiśvānara Agni. The Saṃhitās, the Ṛgveda and others, say वैश्वानरस्य सुमतौ स्याम (ऋ. सं. (*vaiśvānarasya sumatau syāma (ṛ. saṃ.*) १-९८-१) (*1-98-1)*) ("may we be in the good graces of Vaiśvānara"); the Brāhmaṇas such as the Śatapatha say स यो ह्येतमेवमग्निं वैश्वानरं पुरुषविधं पुरुषेऽंतः प्रतिष्ठितं वेदाप पुनर्म्मृत्युं जयति सर्वमायुरेति (*sa yo hyetamevamagniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ṃtaḥ pratiṣṭhitaṃ vedāpa punarmmṛtyuṃ jayati sarvamāyureti*) — "whoever knows Vaiśvānara Agni, who is of the form of a man and abides within man, conquers death again and attains the whole life" — that all who know the nature of this Vaiśvānara Agni, who is hidden within man and has the form of man, conquer death and obtain full life ((श. ब्रा. १०-६-१-११) (*(śa. brā. 10-6-1-11)*)); and the Upaniṣads such as the Chāndogya have declared the greatness of the worship of Vaiśvānara Agni: अथ य एतदेवं विद्वानग्नि होत्रं जुहोति तस्य सर्वॆषु लोकेषु सर्वॆषु भूतेषु सर्वॆष्वात्मसु हुतं भवति (*atha ya etadevaṃ vidvānagni hotraṃ juhoti tasya sarvèṣu lokeṣu sarvèṣu bhūteṣu sarvèṣvātmasu hutaṃ bhavati*) ("then he who, knowing this, performs the Agnihotra, his offering is made in all worlds, in all beings, in all selves"); that is, the man who, knowing the nature of Vaiśvānara Agni, performs the Agnihotra offers as it were in all beings, all worlds and all selves ((छा. उ. ५-२४-२) (*(chā. u. 5-24-2)*)). Therefore it is most necessary in this context to know what the nature of this deity is, and what the relation of this deity is to the performance of rites and the acquisition of spiritual knowledge. In the above ṛk (राजा हि कं भुवनानामभिश्रीः । (*rājā hi kaṃ bhuvanānāmabhiśrīḥ |*) "for he is the king, the lustre of the worlds") Vaiśvānara is described as the venerable lord of all beings. But the question who that Vaiśvānara is arises at the same time, and the author of the Nirukta, in explaining this very ṛk, has taken many examples and concluded that Vaiśvānara is the terrestrial Agni. His explanation is as follows:
+
+वैश्वानरः कस्माद्विश्वान्नरान्नयति । विश्व एनं नरा नयंतीति वा । (*vaiśvānaraḥ kasmādviśvānnarānnayati | viśva enaṃ narā nayaṃtīti vā |*)
+
+### Printed p. 110
+
+*Running head: [110 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24 Sū. 186].*
+
+अपि वा विश्वानर एव स्यात् प्रत्युतः सर्वाणि भूतानि तस्य वैश्वानरः ॥ (*api vā viśvānara eva syāt pratyutaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ ‖*)
+((नि. ७-२१-) (*(ni. 7-21-)*), as printed with a final hyphen)
+
+Because he is the leader and guide of all, or because all take him as the chief deity in the sacrifice, or because he pervades everywhere and has entered all beings: so he explains the present ṛk वैश्वानरस्य सुमतौ स्याम (*vaiśvānarasya sumatau syāma*) and has made known the nature of this deity: इतो जातः सर्वमिदमभिपश्यति वैश्वानरः संयतते सूर्येण राजा यः । सर्वेषां भूतानामभिश्रयणीयस्तस्य वयं वैश्वानरस्य कल्याण्यां मत् सौ स्यामेति । (*ito jātaḥ sarvamidamabhipaśyati vaiśvānaraḥ saṃyatate sūryeṇa rājā yaḥ | sarveṣāṃ bhūtānāmabhiśrayaṇīyastasya vayaṃ vaiśvānarasya kalyāṇyāṃ mat sau syāmeti |*) ("he who, born from here, looks upon all this, Vaiśvānara, who goes together with the sun, the king: he is the refuge of all beings; may we be in the favour of that Vaiśvānara" [the Sanskrit as printed, with the broken words "ಮತ್ ಸೌ" kept]). That is: because he is the lord of all and the refuge of all, may we all be worthy of the gracious glance of this Vaiśvānara. Born in the form of the terrestrial Agni, he looks upon the whole world and becomes one with the Sun: so he explains the sense of the ṛk, and then, putting the question तत्को वैश्वानरः । (*tatko vaiśvānaraḥ |*) ("Who is Vaiśvānara?", (नि. ६-२२) (*(ni. 6-22)*)), discusses the disagreement of the traditions and at the end states his own considered opinion. In his discussion, first he points out the fault in the opinions which designate Vaiśvānara as a deity of the atmosphere.
+
+मध्यम इत्याचार्याः । वर्षकर्मणा ह्येनं स्तौति । प्र नू महित्वं वृषभस्य वोचं । (*madhyama ityācāryāḥ | varṣakarmaṇā hyenaṃ stauti | pra nū mahitvaṃ vṛṣabhasya vocaṃ |*) ((ऋ. सं. १-५९-६) (*(ṛ. saṃ. 1-59-6)*)) — the teachers hold that he is a deity of the atmosphere because he is praised as the cause of the work of rain, as in the ṛk "I proclaim the greatness of the bull". Besides:
+
+एषां लोकानां रोहेण सवनानां रोह आम्मातो रोहात् प्रत्यव- रोहश्चिकीर्षितस्तामनुकृतिं होताग्निमारुते शस्त्रे वैश्वानरीयेण सूक्तेन प्रतिपद्येते । (*eṣāṃ lokānāṃ roheṇa savanānāṃ roha āmmāto rohāt pratyava- rohaścikīrṣitastāmanukṛtiṃ hotāgnimārute śastre vaiśvānarīyeṇa sūktena pratipadyete |*)
+
+सूरप्रसूतावग्नी तु दृष्टौ पार्थिवमध्यमौ । (*sūraprasūtāvagnī tu dṛṣṭau pārthivamadhyamau |*)
+एतेषामेव लोकानां त्रयाणामध्वरेऽध्वरे ॥ (*eteṣāmeva lokānāṃ trayāṇāmadhvare 'dhvare ‖*)
+रोहात्पत्यवरोहेण चिकीर्षन्नग्निमारुतं । (*rohātpatyavaroheṇa cikīrṣannagnimārutaṃ |*)
+शस्त्रं वैश्वानरीयेण सूक्तेन प्रतिपद्यते ॥ (*śastraṃ vaiśvānarīyeṇa sūktena pratipadyate ‖*)
+((बृ. दे. १-१०१ : १-१०२) (*(bṛ. de. 1-101 : 1-102)*), as printed with a colon between the two numbers)
+
+There is a rule that the abundance of oblations should follow the order of ascent: earth, atmosphere and heaven. After the order of ascent, the order of descent must be carried out. Following this course the sacrificer, in this Vaiśvānarīya sūkta recited to Agni and the Maruts, praises Vaiśvānara first, in the order of descent. It is with this intention that here is indicated
+
+*[The window ends here, in the middle of the sentence ("ಇಲ್ಲಿ ನಿರ್ದೇಶಿ…"); the next window continues from it.]*
+
 ---
 
-**Progress note:** Done through printed p. 107 (PDF 107). Done through printed p. 107 (Sukta 186 Rk 1 Special Topics: vidatha, ila, visvanara; ends mid-sentence in the Vaisvanara note)
+**Progress note:** Done through printed p. 110 (PDF 110). Done through printed p. 110 (Sukta 186 Rk 1 Special Topics: Vaisvanara note; ends mid-sentence)
