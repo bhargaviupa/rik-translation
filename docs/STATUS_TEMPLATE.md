@@ -23,5 +23,12 @@
 ## Publication (print PDF)
 (Built? date, page counts, front-matter roles, known layout issues, cover real/reconstructed.)
 
+## Metrics (fill at the end of the volume; compare with the previous volume)
+| windows | pages | hand-fixes by kind (merged heads / garbled labels / stray lines / hyphen joins / other-script letters) | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA sample (pages, errors, minors) | agent tokens / cost |
+|---|---|---|---|---|---|---|---|---|
+
+## Lessons from this volume
+(One line each → also added to `docs/LESSONS.md` with the rule/tool change.)
+
 ## Pointers
 (Files worth reading first.)

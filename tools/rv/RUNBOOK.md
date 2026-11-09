@@ -1,6 +1,6 @@
 # Vol 15+ runbook for the dispatcher (the main Claude Code session)
 
-One window = 3 consecutive PDF pages. The dispatcher only dispatches; a **fresh Sonnet translator agent per window** does the reading (an agent cannot drop old images from its context; the output files carry the continuity).
+One window = 3 consecutive PDF pages. The dispatcher only dispatches; a Sonnet translator agent does the reading. **Preferred (Vol 15): one standing agent per volume**, one window per `SendMessage` (≈11–27k tokens per batch vs ≈100k for a fresh agent); resend a short rules recap when its token counter drops (context compaction) and recycle it about every 60 windows. A fresh agent per window remains possible (the output files carry the continuity).
 
 ## Set-up (once per volume)
 1. `python3 tools/rv/batch.py new N --mandala M --start-page 1 --source "volN/html/FILE1.html@1-100" --source "volN/html/FILE2.md@101-200"` -> `volN/volcfg.json`, folders, empty `Rigveda_Samhita_VolN_English_Translation.md` and `..._Kannada_Text.md` (progress note: Done through printed p. START-1). Each `--source` is a file of the supplied machine-read text with the printed pages (`@FIRST-LAST`) taken from it; add one per file as the user supplies them. Strip embedded base64 images from a markdown file before committing it.
@@ -26,3 +26,15 @@ page markers in both files (`<!-- printed N -->` in kn.md, `### Printed p. N` in
 - The `[?]` re-check pass over Vols 1–14's existing files (separate tool).
 - Real-scan test of the whole loop with an agent (only the scripts were tested, on a synthetic window).
 - The numeral file's new Kannada-numerals column: only header-name matching is implemented; send a sample when ready.
+
+## Per-window message to the standing agent (template)
+"Batch K: translate window volN/work/wPPPP (printed pp. A–B) under the standing rules (inline ⟦ ⟧ by script from kn.md with start/end text markers; `check_inline` then `commit` only with `&&`; verify any edit applied; grep `XXX` and empty `⟦ (*⟦*)⟧`; read the commit output; keep stray lines as italic notes; ≤ 15-line report quoting `git log -1`, `git status -sb`, tail of the English file). The previous window ended at: «exact last sentence». Continue seamlessly without removing or repeating earlier text. Then wait."
+
+## Dispatcher verification after every window (do not skip; reports are not evidence)
+`git log -1 --oneline` is the window's commit; `git status -sb` has no ahead marker; `grep -c '^\*\*Progress note'` = 1 in both files that have one; the note says the expected page; `grep -c XXX` = 0; no `⟦ (*⟦*)⟧`. Then: cost line in `volN/parts/batch_costs.md` (real tokens), commit + push, `batch.py prep N`, next message. If a check fails, fix it before the next window.
+
+## After the last window
+Follow the checklist in CLAUDE.md §11 (repair/consistency tools, accent report, Kannada headings, QA sample by a different model, front matter and PDFs, review lists, metrics, retrospective in `docs/LESSONS.md`).
+
+## Tools added after Vol 15 (all in `tools/rv/`)
+`check_inline.py` (inline Sanskrit ⊂ kn.md; required before commit) · `repair_inline.py` (convert leftover multi-line quotations of older files) · `kn_headings.py` (Kannada headings from the English structure) · `annotate_report.py` (printed pages in a review TSV). `convert.py` now joins quotations broken over several lines.

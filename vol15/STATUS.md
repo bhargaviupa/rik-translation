@@ -27,5 +27,13 @@ Front matter is deliberately not translated.
 ## Publication (print PDF)
 `python3 publish/volbook.py 15 [eng|kan]` (config `vol15/pubcfg.json`); outputs in `publish/out/`; front matter = the user's scan pages; Guruji and 'present day' pages kept (user decision).
 
+## Metrics (Vol 15 = the baseline; later volumes should beat it)
+| windows | pages | hand-fixes | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA sample | tokens / cost |
+|---|---|---|---|---|---|---|---|---|
+| ≈ 257 | 800 | ≈ 40 merged page heads; ≈ 1 garbled label per Ṛk; ≈ 1 stray line per ~3 pages; hyphen joins in most windows (counts not logged: start logging) | 3 known (batch 121 false report; `XXX` placeholder; empty inline segment); 1 silent failed edit | 118 | 39 | 57 | 12 pages: 0 errors, 4 minor (fixed) | standing agent ≈ 11–27k per batch (early lines "n/a") |
+
+## Lessons from this volume
+See `docs/LESSONS.md` (items 1–24 come from Vol 15).
+
 ## Pointers
 `vol15/README.md`, `vol15/volcfg.json`, `vol15/pubcfg.json`, `vol15/review/`, `vol15/parts/`.

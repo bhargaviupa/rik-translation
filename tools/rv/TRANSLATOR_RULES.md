@@ -32,3 +32,13 @@ Read first (once): `CLAUDE.md` conventions, the last ~80 lines of the English ou
 
 ## Doubts
 There is no zoom step any more. The aim is still zero `[?]` at commit; leftovers (`--max-doubts N`) are listed for the user with the exact words/digits in doubt. No OCR, no outside sources.
+
+## Lessons from Vol 15 (binding; full list in `docs/LESSONS.md`)
+- **Sanskrit is quoted in full, never paraphrased or summarised** — Special-Topics quotations, bhāṣya glosses that carry meaning, Nirukta/Brāhmaṇa passages. Use `⟦…⟧` copied from `kn.md` (script with start/end markers), never retype.
+- **Printed oddities stay and are noted**: a word that looks like a misprint, a doubled reference, a wrong head, a verb that differs between Pratipadārtha and Bhāvārtha → keep as supplied and add a short bracketed italic note ("as supplied"); do not choose the 'obvious' reading silently. Translate what the Kannada says, not what the Sanskrit probably meant.
+- **Running heads**: ಮಂ. = Maṇḍala, ಅ. between ಮಂ. and ಸೂ. = **Anuvāka** (not Aṣṭaka), ಸೂ. = Sūkta, ಅ./ವ. on the other side = Adhyāya/Varga. Write the head as printed, expand only with this legend, and say "(printed …)" when the print looks odd.
+- **Every stray line is kept** as an italic note (page numbers, ornaments, "This image contains…", converter lines, Tamil numerals); never delete. Characters of other scripts inside Kannada (Devanagari ॐ, Telugu, Latin S for avagraha) → rewrite letter for letter as Kannada in `kn.md` and note it.
+- **Gates, in this order, joined with `&&`**: `batch.py build` → `batch.py check` → `tools/rv/check_inline.py WIN` → `batch.py commit`. After any edit of `en.md`/`kn.md` confirm the edit really applied (print "applied"); read the commit output to the end (`git: pushed`).
+- **Report with evidence** (≤ 15 lines): the exact last sentence written, `git log -1 --oneline`, `git status -sb`, the tail of the English file (progress note), grep results for `XXX` and `⟦ (*⟦*)⟧`, and every hand-fix kind you used (the dispatcher counts them for the volume metrics). If something failed, say so first.
+- **Accent/doubt/page-flag lines are logged to the volume's review files**, not only mentioned in the report.
+- **Improve the process**: if you do the same hand-fix a third time in a volume, say so in the report ("recurring: …") so the dispatcher can turn it into a tool change (`docs/LESSONS.md`, CLAUDE.md §15).

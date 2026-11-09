@@ -1,6 +1,6 @@
 # Rigveda Saṃhitā translation (Kannada → English) — how this repository works
 
-This file is the **general** instruction file. It says how every volume from **Vol 15 onwards** is created (inputs, tools, translation loop, outputs, publication, git). It contains **no volume-specific status**: each volume keeps its own `volN/STATUS.md` (position, open items, publication state). Rules for the older, scan-based Volumes 1–14 are in `docs/LEGACY_SCAN_WORKFLOW.md`. A frank review of what should still change in the repository is in `docs/REPO_REVIEW.md`.
+This file is the **general** instruction file. It says how every volume from **Vol 15 onwards** is created (inputs, tools, translation loop, outputs, publication, git). It contains **no volume-specific status**: each volume keeps its own `volN/STATUS.md` (position, open items, publication state). Rules for the older, scan-based Volumes 1–14 are in `docs/LEGACY_SCAN_WORKFLOW.md`. A frank review of what should still change in the repository is in `docs/REPO_REVIEW.md`. **Read `docs/LESSONS.md` before starting a volume and extend it afterwards: every volume must leave the tools and rules better than it found them (§15).**
 
 ## 1. What we make
 
@@ -88,6 +88,7 @@ Check the text once before starting: `python3 tools/rv/html_pages.py FILE` (is e
 1. `python3 tools/rv/batch.py prep N` → new `work/wPPPP/`.
 2. Send the agent: window path, printed pages, where the previous window ended (exact last sentence), the standing gates (below), "report in ≤ 15 lines and quote `git log -1`, `git status -sb`, tail of the English file".
 3. **Verify yourself** (do not trust the report): `git log -1 --oneline`; `git status -sb` (pushed); exactly one `**Progress note**` and "Done through printed p. N" equals the window end; no `XXX`; no empty `⟦ (*⟦*)⟧`. Append a line to `volN/parts/batch_costs.md`; commit and push the log; `prep` the next window.
+3a. **Gates are enforced by you, not trusted**: a report that says 'committed' is checked against `git log`; a window whose `commit` output you did not see is treated as not committed (batch 121 of Vol 15 was reported done and was not). Never run two long jobs on the repo at once.
 4. Every ~10 windows give the user a 5-line status (page reached, windows done, `[?]` count, accent-report count). Stop when the usage limit nears; the next session resumes from the progress note.
 
 **Agent steps per window** (full rules: `tools/rv/TRANSLATOR_RULES.md`)
@@ -140,14 +141,38 @@ In memory only (the `.md` is not changed): missing `## Sūkta` headings are supp
 
 Fresh agent per window ≈ 90–110k agent tokens; standing agent ≈ 11–27k per batch (cumulative counter resets when the harness compacts the agent). Once the loop ran, one window took ≈ 1–3 minutes of agent time. Vol 15 (800 printed pages) needed ≈ 257 windows (`parts/batch_costs.md` has one line per window); plan on ~270 windows for an 800-page volume. Record real tokens in `parts/batch_costs.md` (the harness reports them per agent; Vol 15's early lines say "n/a", which loses the data).
 
-## 11. Status files — the contract
+## 11. Finishing a volume — checklist (do all, in this order, then update `volN/STATUS.md`)
+
+1. Last window committed; progress note "Done through printed p. LAST (final)"; colophon and closing lines in three layers, nothing added.
+2. **Repair/consistency tools on the finished files**: `python3 tools/rv/repair_inline.py N` (must report 0 leftover `⟦` quotations; windows built with the current `convert.py` should have none), missing `## Sūkta` headings in the English file (compare the count with the contents), `python3 tools/rv/check_inline.py` over all windows (log mismatches in `review/inline_mismatch.tsv`).
+3. **Accent report**: `python3 publish/tools/accents/accent_volume.py N --html refs/mandala/rv_mandalaM.html [refs/mandala/rv_mandalaM2.html]` (report mode) → `review/accent_report.tsv`; `python3 tools/rv/annotate_report.py N` adds printed pages. Apply with `--write` only when asked; unaccented lines are listed for the user, never accented by hand.
+4. **Kannada headings**: `python3 tools/rv/kn_headings.py N --write` (needs equal counts of Sūktas and Ṛks in both files; a printed-number WARN is logged).
+5. **QA sample**: ≥ 12 stratified printed pages (+ ≥ 12 Special-Topics pages) checked by a *different* model (Agent tool, `model: opus`, read-only, not told what to expect): numbers/references, names/terms/quotations, negations/attribution, omissions/additions. Write `review/qa_sample.md`; repair findings with logged edits (`review/repair_log.md`); if ERRORs are found, double the sample.
+6. **Front matter and PDFs** (§8): front-matter scan PDF from the user → `fm_extract.py` → `contents_parse.py --check` → compare every contents number with the scan → `pubcfg.json` → `volbook.py N`; **look at the first 20 pages and one body page of both PDFs as images**.
+7. **Review lists for the user** are complete and human-readable: `doubts.tsv`, `inline_mismatch.tsv`, `page_flags.md`, `accent_report_pages.tsv`, `contents_check.md`, `qa_sample.md`.
+8. **Metrics** in `STATUS.md` (windows, pages, hand-fixes by kind, `[?]` count, gate failures, tokens, cost) so the next volume can be compared with this one.
+9. **Retrospective**: add lessons to `docs/LESSONS.md`; change tools/rules (§15); update `TRANSLATOR_RULES.md` / `RUNBOOK.md` if agent or dispatcher behaviour changes; update the template `docs/STATUS_TEMPLATE.md` if a new section is needed.
+10. Merge only when the user says so; before the session ends, deliver or push anything worth keeping.
+
+## 12. Status files — the contract
 
 Every volume has `volN/STATUS.md` (template: `docs/STATUS_TEMPLATE.md`): scope, source and inputs, outputs, how it was made, status, open items, publication state, pointers. **Update it at the end of every session**; the general rules above never carry a volume's position. Currently present: `vol1/STATUS.md` … `vol15/STATUS.md` (Vol 12 is the missing volume of the series: not started, waiting for the user's text). Older per-volume state files (`vol12_state.md`, `vol13_state.md`, `vol14_state.md`, READMEs) are historical and partly out of date; `STATUS.md` wins.
 
-## 12. Bringing the older volumes under the same tools
+## 13. Bringing the older volumes under the same tools
 
 New volumes use the pipeline above. Vols 1–14 keep their legacy workflow (`docs/LEGACY_SCAN_WORKFLOW.md`) for repair passes; their closed `.md` files are not edited except the agreed passes recorded in each `STATUS.md`. To print Vols 4–14 with `volbook.py` we need a small *format adapter* per old format (heading layout `## Sūkta N — "…"`, `### Rik N`, inline notes) — see `docs/REPO_REVIEW.md`; do not fork `volbook.py`.
 
-## 13. Where to look
+## 15. Keep improving — rules for every future session (user request, Nov 9 2026)
 
-`docs/REPO_REVIEW.md` (what to change), `docs/LEGACY_SCAN_WORKFLOW.md`, `docs/HISTORY.md` (old CLAUDE.md copy with per-volume details), `tools/rv/RUNBOOK.md`, `tools/rv/TRANSLATOR_RULES.md`, `publish/tools/frontmatter/README.md`, `volN/STATUS.md`.
+Every volume must be cheaper, faster and cleaner than the one before. Concretely:
+1. **Read `docs/LESSONS.md` at the start; add to it at the end.** A lesson is: incident → rule or tool change → status (DONE / RULE / TODO).
+2. **Twice is a pattern.** A workaround used twice (a hand-fix of `kn.md`, a recurring check, a repeated manual command) becomes a tool change or a gate. Fix the shared tool (`tools/rv/`, `publish/`), never a per-volume copy; add the change to `docs/LESSONS.md`, the tool's docstring and the relevant rules file.
+3. **Prefer a gate to a promise.** If a mistake was possible once, make the tool refuse it (e.g. `commit` should run `check_inline`; `html_pages.py` should flag suspiciously long pages). Open items of this kind are listed in `docs/REPO_REVIEW.md`; take at least the top item of its section A at the start of every volume if nobody has.
+4. **Measure.** Record per volume: windows, hand-fixes by kind, gate failures, `[?]` count, QA-sample result, tokens/cost. A metric that does not improve is a signal to change something.
+5. **Propose, then do.** When you see a better way (a cheaper model split, a smarter check, a clearer file layout), tell the user in two lines with the expected gain; do it when it is small and reversible, ask when it changes outputs, history or rights.
+6. **Do not lose what exists.** Improvements must keep old volumes reproducible: tools stay backward compatible, format changes ship with a repair script (like `repair_inline.py`) and a log entry in `volN/review/repair_log.md`.
+7. **Say what you did not verify.** Reports separate "verified (how)" from "not checked"; sizes and counts are quoted from finished commands only.
+
+## 16. Where to look
+
+`docs/LESSONS.md` (what went wrong before and what we changed), `docs/REPO_REVIEW.md` (what still to change), `docs/LEGACY_SCAN_WORKFLOW.md`, `docs/HISTORY.md` (old CLAUDE.md copy with per-volume details), `tools/rv/RUNBOOK.md`, `tools/rv/TRANSLATOR_RULES.md`, `publish/tools/frontmatter/README.md`, `volN/STATUS.md`.
