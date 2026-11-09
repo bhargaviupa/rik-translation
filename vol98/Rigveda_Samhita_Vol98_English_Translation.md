@@ -12901,6 +12901,102 @@ In this ṛk the sage, the seer of the mantra, describes the many kinds of great
 
 *(The supplied text ends here, in the middle of the bhāṣya of Ṛk 2 on p. 431, after the words "moreover, O"; the rest follows in the next window. The Pada line is joined to its closing mark.)*
 
+### Printed p. 432
+
+*Running head (as supplied): [432 सायणभाष्यसहिता [मं. २. अ. १. सू. १] (*[432 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 1]*).*
+
+*(Continuation of the bhāṣya of Ṛk 2 of Sūkta 2 of Maṇḍala 2, as a quoted block.)*
+
+> पुरुवार बहुभिर्वर्णीयाग्ने संयतो नियतस्त्वं दिव इव द्युलोकस्येवारतिः ।
+> व्याप्तो विस्तृतः । तत्रत्यानां देवानां हविःप्रदानायैव सर्वत्र व्याप्त इत्यर्थः ।
+> मानुषा मनुष्याणां यजमानानां संबंधीनि युगा युगानि । युगशब्दः कालो-
+> पलक्षकः । प्रातरादिसवनानि । सर्वेषु सवनेषु ॥ अत्यंतसंयोगे द्वितीया ॥ क्षपो
+> रात्रिः । सर्वासु रात्रिष्टप्याभासि । समंताद्दीप्यसे ॥
+
+*Gist:* Sacrificers long for Agni at all times like cows for a calf; spread like heaven, he shines at all pressings and at night.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वा अभि—निन्नन्नुद्देशिसि (*tvā abhi—ninnannuddeśisi*) (towards you). नक्तीः—रात्रिकालगळल्लू (*naktīḥ—rātrikālagaḷallū*) (in the nights). उषसः- अहस्सुगळल्लू सह (*uṣasaḥ- ahassugaḷallū saha*) (in the days also). स्वसरेषु—कॊट्टिगॆगळल्लि (*svasareṣu—kòṭṭigègaḷalli*) (in the stalls). धेनवः—धेनुगळु (*dhenavaḥ—dhenugaḷu*) (the cows). वत्सं न—करुवन्नु प्रीतिसि अदर सामीप्यवन्नु इच्छिसुवंतॆ (*vatsaṃ na—karuvannu prītisi adara sāmīpyavannu icchisuvaṃtè*) (as they love the calf and long for its nearness). ववाशिरे—(यजमानरु) यज्ञ माडुवुदक्कागि निन्न सान्निध वन्नपेक्षिसुत्तारॆ (*vavāśire—(yajamānaru) yajña māḍuvudakkāgi ninna sānnidha vannapekṣisuttārè*) ((the sacrificers) long for your presence in order to perform sacrifice). पुरुवार—बहुजनरिंद अपेक्षितनादवनू (*puruvāra—bahujanariṃda apekṣitanādavanū*) (one desired by many people). संयतः—नियतवाद व्यवहार वुळ्ळवनू (*saṃyataḥ—niyatavāda vyavahāra vuḷḷavanū*) (one of regulated conduct). दिव इव—द्युलोकदंतॆ (*diva iva—dyulokadaṃtè*) (like the heaven-world). अरतिः—विस्त्रतनागिरुववनू आद नीनु (*aratiḥ—vistratanāgiruvavanū āda nīnu*) (and extended, you). मानुषा— मनुष्यर (*mānuṣā— manuṣyara*) (of men). युगा—(यज्ञ)कालगळल्लियू (*yugā—(yajña)kālagaḷalliyū*) (at the (sacrifice-)times). क्षपः—रात्रिकालगळल्लियू (*kṣapaḥ—rātrikālagaḷalliyū*) (in the night-times). आ भासि—अतिशय वागि प्रकाशिसुत्तीयॆ (*ā bhāsi—atiśaya vāgi prakāśisuttīyè*) (you shine exceedingly).
+
+*[As supplied, the label line of the Bhāvārtha reads धनार्थ (*dhanārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, as cows in the stalls love the calf and long for its nearness, so the sacrificers, in order to perform sacrifice to you, long for your presence in the night-times and in the days also. You, desired by many people, of regulated conduct, extended like the heaven-world, shine brightly at the sacrifice-times of men and at night-times.
+
+**Printed English translation**
+
+The mornings and evenings, Agni, are desirous (of worshipping) you, as cows in their stalls long for their calves: adored of many, you self-controlled, are verily spread through the sky : you (are present at all) the sacred rites of men, and shine brightly by night.
+
+*(The printed English divides "self-controlled" by a line break and a hyphen, joined here.)*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 2)**
+
+नक्तीः-रात्रिः । उषसः-अहानि । (*naktīḥ-rātriḥ | uṣasaḥ-ahāni |*) *Nakti* means night; *uṣas* means days. In the first meaning the bhāṣya says सर्वासु रात्रिषु सर्वेष्टप्यहस्सु (*sarvāsu rātriṣu sarveṣṭapyahassu*) (as printed): in all nights and in all days as well Agni is desired to be worshipped by the sacrificers; this first meaning is explained for the sentence अभित्वा रात्रीरुषसो ववाशिरे (*abhitvā rātrīruṣaso vavāśire*). In the second meaning: यद्वा नक्तशब्दः सायंकालं लक्षयति । सायं प्रातरग्निहोत्रस्य सद्भावात् । (*yadvā naktaśabdaḥ sāyaṃkālaṃ lakṣayati | sāyaṃ prātaragnihotrasya sadbhāvāt |*) (or the word *nakta* denotes the evening, because the agnihotra exists in the evening and in the morning); thus the meaning "evening" is given for the word *nakta*. The performers of the sacrifice desire Agni every evening and every morning (the sentence continues on the next page)
+
+### Printed p. 433
+
+*Running head (as supplied): [अ. २. अ. ५. व. २०.] ऋग्वेदसंहिता 433 (*[a. 2. a. 5. va. 20.] ṛgvedasaṃhitā 433*).*
+
+...for performing the homa: thus it is explained.
+
+यद्वा अहानि रात्रयश्च त्वामेव कामयंते होतुं काले कर्मणश्चोदनात् कालानां कामनमुपचर्यते । (*yadvā ahāni rātrayaśca tvāmeva kāmayaṃte hotuṃ kāle karmaṇaścodanāt kālānāṃ kāmanamupacaryate |*) (or the days and nights desire you alone, to offer the homa; since the rite is enjoined for its time, desire is attributed figuratively to the times). Even the inanimate nights and days, following the injunction that agnihotra is to be performed at the respective times, themselves desire Agni in order to worship him: thus the third meaning is explained. Since the injunction सायंप्रातरग्निहोत्रं जुहुयात् (*sāyaṃprātaragnihotraṃ juhuyāt*) teaches the necessary duty in the performance of agnihotra, the sage, the seer of the mantra, has expressed this same view.
+
+स्वसरेषु धेनवः वत्सं न (*svasareṣu dhenavaḥ vatsaṃ na*): in this sentence the word न (*na*) is a particle of comparison. For the word *svasara* (the print has स्वर (*svara*)) the bhāṣya explains two meanings: स्वयं सरणीलेषु अहस्सु (*svayaṃ saraṇīleṣu ahassu*) (as printed), days that pass of themselves; or सुखसरणाधिकरणेषु गोष्ठेषु वा (*sukhasaraṇādhikaraṇeṣu goṣṭheṣu vā*) (as printed), places where cows are tied, fit for comfortable movement.
+
+Yāska has read the word स्वसर (*svasara*) among the names of day (नि. २-२१ (*ni. 2-21*)) and has explained: स्वसराण्यहानि भवन्ति स्वयं सारीण्यपि वा (*svasarāṇyahāni bhavanti svayaṃ sārīṇyapi vā*) (the *svasaras* are days; or they go of themselves), and has given the example उस्रा इव स्वसराणि (*usrā iva svasarāṇi*) (नि ५-४ (*ni 5-4*)). The word स्वसर (*svasara*) is also read among the "graha" names (as printed) (नि. ३-१३ (*ni. 3-13*)). As milch cows long for their calves day and night in order to yield milk, so the sacrificers long for Agni at evening and morning for the offering of oblations: thus a comparison is made.
+
+Sāyaṇa has explained the word अरतिः (*aratiḥ*) as "one who pervades", and has described the meaning that Agni, described by many people, remaining in a fixed manner, like the sky in all regions, तत्रत्यानां हविः प्रदानाय्कॆव सर्वत्र व्याप्तः (*tatratyānāṃ haviḥ pradānāykèva sarvatra vyāptaḥ*) (as printed), pervading everywhere in order to offer oblations to the gods who are in the middle region, shines greatly at all times in the sacrifices performed by the sacrificers, in the morning and the other pressings, by the sentence मानुषा युगा क्षपः आ भासि (*mānuṣā yugā kṣapaḥ ā bhāsi*).
+
+युगा युगानि । युगशब्दः कालोपलक्षकः । प्रातरादि सवनानि सर्वॆषु सवनेषु । (*yugā yugāni | yugaśabdaḥ kālopalakṣakaḥ | prātarādi savanāni sarvèṣu savaneṣu |*) (as printed) The word *yuga* denotes time, and by it the meaning "the morning, midday and third pressings" is explained.
+
+By the word पुरुवार (*puruvāra*) it is explained that Agni is praised in many ways by many people.
+
+*[A stray line of the supplied text, [28] Vol. 14 (*[28] Vol. 14*), is kept as an italic note in the Kannada text.]*
+
+### Printed p. 434
+
+*Running head (as supplied): [434 सायणभाष्यसहिता [मं. २. अ. १. सू. २.] (*[434 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 2.]*).*
+
+#### Ṛk 3
+
+*[As supplied, the label lines of the Saṃhitā and the Pada read संहिता दार्क्य (*saṃhitā dārkya*) and पदरार्कः (*padarārkaḥ*); standard labels inserted. The Saṃhitā and Pada lines, printed as plain lines, are given as quoted blocks, and the closing mark of the Saṃhitā is joined to its line.]*
+
+**॥ संहितापाठः ॥**
+
+> तं दे॒वा बु॒ध्ने रज॑सः सु॒दंस॑सं दि॒वस्पृ॑थि॒व्योर॑र॒तिं नै॑रिरे।
+> रथ॑मिव॒ वेद्यं॑ शु॒क्रशो॑चिषम॒ग्निं मि॒त्रं न क्षि॒तिषु॑ प्र॒शंस्यं॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> तं । देवाः । बुध्ने । रजसः । सुदंससं । दिवःपृथिव्योः । अरतिं । नि । एरिरे ।
+> रथं इव । वेद्यं । शुक्रशोचिषं । अग्निं । मित्रं । न । क्षितिषु । प्रशंस्यं ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तं प्रसिद्धमुक्तगुणविशिष्टमग्निं देवाः प्रसिद्धा व्यवहर्तार ऋत्विजो वा
+> रजसो रंजनात्मकस्य लोकस्य बुद्धे मूले । पृथिव्यां वेद्यामित्यर्थः। तत्र नैरिरे।
+> नितरामीरयंति । व्यापारयंति स्वस्वहविर्लाभाय । ऋत्विक् पक्षे स्तोत्रादिना नितरां
+> गच्छंति । भजंते । कीदृशमित्याह । सुदंससं शोभनदर्शनं दिवस्पृथिव्योर्दावा-
+> पृथिव्योररतिं । ईश्वरं गंतारं व्याप्तं वा । वेद्यं । वेदो धनं । तस्मै हितं
+> रथमिव । रथं यथा स्वाभिमतलाभायाश्रयंते तद्वत् । यद्वा रथमिव प्राप्ति-
+> साधनत्वेन वर्तमानं । वेद्यं वेदितव्यं । शुक्रशोचिषंदीप्तवर्णमग्निं मित्रं न
+> सखिवत्कार्यसाधकं । यद्वा आदित्यमिव । क्षितिषु यागभूमिषु मनुष्येषु वा
+> प्रशंस्यं । प्रकर्षेण स्तुत्यं । एवं महानुभावमग्निं नैरिर इति ॥
+
+*Gist:* The gods or priests set Agni, fair, lord of heaven and earth, like a chariot and a friend, on the altar.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुदंससं—शोभनात्मकवाद दर्शनवुळ्ळवनू (*sudaṃsasaṃ—śobhanātmakavāda darśanavuḷḷavanū*) (one of beautiful appearance). दिवस्पृथिव्योः—द्यावापृथिविगळ नडुवॆयॆल्ला (ईश्वरनागिद्दु) (*divaspṛthivyoḥ—dyāvāpṛthivigaḷa naḍuvèyèllā (īśvaranāgiddu)*) (between heaven and earth (being lord)). अरतिं—व्यापिसि संचरिसुववनू (*aratiṃ—vyāpisi saṃcarisuvavanū*) (one who pervades and moves). रथमिव—(हविस्सन्नु वहिसु वुदरिंद) भारवन्नु वहिसुव रथदंतॆ (*rathamiva—(havissannu vahisu vudariṃda) bhāravannu vahisuva rathadaṃtè*) (like a chariot that bears a burden (by carrying the oblation)). वेद्यं—तिळियल्पडुववनू (*vedyaṃ—tiḷiyalpaḍuvavanū*) (one who is to be known). शुक्रशोचिषं—प्रकाश मानवाद कांतियुळ्ळवनू (*śukraśociṣaṃ—prakāśa mānavāda kāṃtiyuḷḷavanū*) (one of resplendent lustre). क्षितिषु—मानवरल्लि (*kṣitiṣu—mānavaralli*) (among men). प्रशंस्यं—अत्यंत स्तुत्यनाद (*praśaṃsyaṃ—atyaṃta stutyanāda*) (extremely praiseworthy (printed with an exclamation mark in place of a danda)). मित्रं न— स्नेहितनंतिरुववनू आद (*mitraṃ na— snehitanaṃtiruvavanū āda*) (who is like a friend). तं अग्निं—प्रसिद्धनाद अग्नियन्नु (*taṃ agniṃ—prasiddhanāda agniyannu*) (that famous Agni). देवाः—देवतॆगळु (*devāḥ—devatègaḷu*) (the gods). रजसः— रंजनात्मकवाद पृथिविय (*rajasaḥ— raṃjanātmakavāda pṛthiviya*) (of the earth, the delightful one). बुद्धे—मूलदल्लि (वेदियल्लि) (*buddhe—mūladalli (vediyalli)*) (in the base (on the altar)). नैरिरे—स्थापिसुत्तारॆ (*nairire—sthāpisuttārè*) (they set).
+
+**भावार्थ (Bhāvārtha)**
+
+One who has a beautiful appearance, who is lord of all heaven and earth and moves pervading everywhere, who is known like a chariot that bears a burden because he bears the oblation, who is radiant प्रकाश (*prakāśa*)
+
+*(The supplied text ends here, in the middle of the Bhāvārtha of Ṛk 3 on p. 434, at the word प्रकाश (*prakāśa*) as supplied; the rest follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 431 (PDF 431). Mandala 2 Sukta 2 Rik 1 complete; Rik 2 Samhita, Pada and the start of the bhasya
+**Progress note:** Done through printed p. 434 (PDF 434). Mandala 2 Sukta 2 Rik 2 complete; Rik 3 Samhita, Pada, bhasya, Pratipadartha and the start of the Bhavartha
