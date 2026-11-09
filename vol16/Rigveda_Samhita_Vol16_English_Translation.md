@@ -1310,6 +1310,58 @@ Grant, Agni, to the offerer of the oblation, earth the bestower of cattle, the m
 
 the goddess Iḷā or Iḍā is described as a deity of the middle region. Sāyaṇa explains the word as the deity named Iḷā who has taken the form of a cow.
 
+### Printed p. 50
+
+*[Running head, p. 50: 50 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 7.]]*
+
+*[Special Topics of Ṛk 11 continued from the previous page.]*
+
+**ಶಶ್ವತ್ತಮಂ** — शश्वत्तमं हवमानाय साध (*śaśvattamaṃ havamānāya sādha*): निरंतरं हवमानाय यजमानाय मह्यं साधय (*niraṃtaraṃ havamānāya yajamānāya mahyaṃ sādhaya*). Agni is prayed that the favour of the deity Iḷā, in the form of a cow, who fulfils the desired ends of the sacrificer who continually gratifies Agni with oblations, and who is full of abundant greatness, may come about.
+
+**ಸೂನುಃ** — सूनुः-पुत्रः, तनयः पौत्रः (*sūnuḥ-putraḥ, tanayaḥ pautraḥ*). Among the fifteen names of offspring (apatya-nāmas) beginning with tuk, toka (Ni. 3-2), both the word tanaya and the word sūnu are read. In the Ṛk
+
+एता विश्वा सवना तूतुमा कृषे स्वयं सूनो सहसो यानि दधिषे । वराय ते पात्रं धर्मणे तना यज्ञो मंत्रो ब्रहोद्यतं वचः ॥ (*etā viśvā savanā tūtumā kṛṣe svayaṃ sūno sahaso yāni dadhiṣe | varāya te pātraṃ dharmaṇe tanā yajño maṃtro brahodyataṃ vacaḥ ‖*) (Ṛ. Saṃ. 10-50-6)
+
+the meaning "son" is given for the word सूनो (*sūno*), and Agni is called सहससूनो (*sahasasūno*), "son of strength". Sāyaṇa explains the word sūnu as "son" and the word tanaya as "grandson" (son's son).
+
+**ಸುಮತಿಃ** — सुमतिः—शोभना बुद्धिः (*sumatiḥ—śobhanā buddhiḥ*). The author of the Nirukta, at देवसुमतिं (*devasumatiṃ*), explains it as देवनां कल्याणीं मतिं (*devanāṃ kalyāṇīṃ matiṃ*), the auspicious mind of the gods; at वैश्वानरस्य सुमत् स्याम (*vaiśvānarasya sumat syāma*) as कल्याण्यां मत् (*kalyāṇyāṃ mat*); and at वयं देवस्य धीमहि सुमतिं सत्यधर्मणः (*vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ*) also कल्याणीं मतिं (*kalyāṇīṃ matiṃ*), the same sense. Sāyaṇa's remark concerns the sacrificers who have gratified Agni with oblations; the prayer is that there may arise Agni's auspicious mind, namely the birth and increase of the sons, grandsons and the like that Agni can bestow. (The sentence is printed as supplied; its construction is loose.)
+
+**Vyākaraṇa-prakriyā (grammar)**
+
+Grammar page, noted briefly. Words treated: पुरुदंसम् (*purudaṃsam*) (bahuvrīhi: she of whom there are many works; Pā. 6-2-119 gives the accent on the last syllable of the second member); शश्वत्तमम् (*śaśvattamam*) (read in the uṇ-group, so by Pā. 6-1-160 the final-syllable accent); साध (*sādha*) (root rādh/sādh, sense of accomplishing; causative sense included; imperative second person singular, sip; śap by Pā. 3-4-87; loss of hi by Pā. 6-4-105; nighāta accent); स्यात् (*syāt*) (root as, optative third person singular; no unaccented form since it begins the pāda; yāsuṭ is accented).
+
+### Printed p. 51
+
+*[Running head, p. 51: [A. 3. A. 1. V. 3.] Ṛgvedasaṃhitā 51]*
+
+Grammar page continued, noted briefly. विजावा (*vijāvā*) (root janī, to be born; affix vanip by Pā. 3-2-57; root vowel ā by Pā. 6-4-41; compound with vi; nominative singular; gender change; accent of the second member of a kṛt compound); सुमतिः (*sumatiḥ*) (root man, affix ktin; Pā. 3-3-96 as printed; the sūtra reference is as supplied); भूतु (*bhūtu*) (root bhū, imperative third person singular, tip; ukāra substitution; luk of the vikaraṇa śap by the "bahulaṃ chandasi" rule; prohibition of guṇa; nighāta accent); अस्मे (*asme*) (by the "supāṃ suluk" rule, the substitution śe in the sixth(?) plural, as supplied).
+
+## Sūkta 8 (Maṇḍala 3)
+
+**The eighth sūkta**
+
+**Pīṭhikā (Introduction)**
+
+In this sūkta the sacrificial post (yūpa) is praised. Since the setting up of the yūpa and its consecrations have special importance in the sacrifice, they will be explained here in a special manner. The yūpa is the wooden pillar planted in the sacrifice for binding the animal. It is also called vanaspati; in the Ṛgveda the word vanaspati is the one more used. The word yūpa is used in only five Ṛks, namely यूपः (*yūpaḥ*) (Ṛ. Saṃ. 1-51-14); यूपवाहाः (*yūpavāhāḥ*) (Ṛ. Saṃ. 1-162-6); यूपव्रस्काः (*yūpavraskāḥ*) (Ṛ. Saṃ. 1-162-6); यूपेव (*yūpeva*) (Ṛ. Saṃ. 4-33-3); यूपात् (*yūpāt*) (Ṛ. Saṃ. 5-2-7); nowhere else. In the Yajurveda and the like the use of the word yūpa is frequent. Yāska too gives no nirvacana of the word yūpa. Regarding the word vanaspati, when explaining the Ṛk मेद्यंतु ते वह्नयो येभिरीयसे (*medyaṃtu te vahnayo yebhirīyase*) (Ṛ. Saṃ. 2-37-3), he says:
+
+वनस्पत इत्येनमाहैष हि वनानां पाता वा पालयिका वा । वनं वनोशेः । (*vanaspata ityenamāhaiṣa hi vanānāṃ pātā vā pālayikā vā | vanaṃ vanośeḥ |*) (Ni. 8-3)
+
+Durgācārya, commenting on this, says:
+
+### Printed p. 52
+
+*[Running head, p. 52: 52 Sāyaṇabhāṣyasahitā [Maṃ. 3. A. 1. Sū. 8.]]*
+
+यस्मादेषः वनानां वृक्षादीनां अंतर्गतोऽपि समर्थोऽपि दग्गुं न तानि दहति तस्मादयं तेषां पाता रक्षिता पालयिता वेति । (*yasmādeṣaḥ vanānāṃ vṛkṣādīnāṃ aṃtargato 'pi samartho 'pi dagguṃ na tāni dahati tasmādayaṃ teṣāṃ pātā rakṣitā pālayitā veti |*)
+
+That is, Agni, although he is inside trees and the like, does not burn them, and so is called their protector. Here vanaspati is explained as Agni. We have explained this matter at length in commenting on the Āprī sūkta सुसमिद्दो न आ वह (*susamiddo na ā vaha*) (Ṛ. Saṃ. 1-13) (see Ṛgveda Saṃhitā Part 2, pp. 576 and 577). Or, following the derivation वनं वनोतेः (*vanaṃ vanoteḥ*) of the word vana, he says that the tree (vṛkṣa) is used for various purposes, the word being formed from the root vanati/sambhajati ("to resort to, to serve").
+
+Regarding the yūpa there is an old story in the Aitareya Brāhmaṇa (Ai. Brā. 2-1). Its account is given here:
+
+यज्ञेन वै देवा ऊर्ध्वाः स्वर्गं लोकमायंस्तेबिभयुरिमं नो दृष्ट्वा मनुष्याश्च ऋषयश्चानु प्रज्ञास्यंतीति तं वै यूपेनैवायोपयिंस्तं यद्यूपेन्वैवायेपयंस्तद्यूपस्य यूपत्वं तमवाचीनाग्रं निमित्योर्ध्वा उदायंस्ततो वै मनुष्याश्च ऋषयश्च देवानां यज्ञवास्त्वभ्यायन्यज्ञस्य किंचिदेषिष्यामः प्रज्ञात्या इति ते वै यूपमेवाविंदन्न वाचीनाग्रं निमितं ते विदुरनेन वै देवा यज्ञमयूयुपन्निति तमुत्थायोर्ध्वं न्यमिन्वंस्ततो वै ते प्रयज्ञमजानन्न स्वर्गं लोकं । तद्यद्यूप ऊर्ध्वो निमिषायते यज्ञस्य प्रज्ञात्यै स्वर्गस्यलोकस्यानुख्यात्यै ॥ (*yajñena vai devā ūrdhvāḥ svargaṃ lokamāyaṃstebibhayurimaṃ no dṛṣṭvā manuṣyāśca ṛṣayaścānu prajñāsyaṃtīti taṃ vai yūpenaivāyopayiṃstaṃ yadyūpenvaivāyepayaṃstadyūpasya yūpatvaṃ tamavācīnāgraṃ nimityordhvā udāyaṃstato vai manuṣyāśca ṛṣayaśca devānāṃ yajñavāstvabhyāyanyajñasya kiṃcideṣiṣyāmaḥ prajñātyā iti te vai yūpamevāviṃdanna vācīnāgraṃ nimitaṃ te viduranena vai devā yajñamayūyupanniti tamutthāyordhvaṃ nyaminvaṃstato vai te prayajñamajānanna svargaṃ lokaṃ | tadyadyūpa ūrdhvo nimiṣāyate yajñasya prajñātyai svargasyalokasyānukhyātyai ‖*)
+
+(Explanation.) In former times the gods performed the sacrifice called Jyotiṣṭoma and by its power went to the world of heaven. Seeing this sacrificial procedure of the gods, the gods feared that men and seers too would perform sacrifice in the same way and come to heaven, and so they devised a means. To bewilder men and seers, the gods planted a sacrificial post in their sacrifice. Because this post was planted so that the sacrifice might seem fully performed, it got the name yūpa (yūpa meaning "obstruct, make it not come"). When the gods were going to heaven they planted the top (tip) of the yūpa upside down. Afterwards men and seers came there, looked, and found only the yūpa planted upside down. What is its use? Why was it planted? None of these details of the sacrifice were understood. Thinking that the gods must have planted the yūpa upside down in order to deceive them, that is, so that the details of the sacrifice might not be known to them, they pulled it out and planted it correctly, with the top upward. Thereupon [the printed page ends here; the sentence continues on the next page]. ("Mamaṣyarū", sic, for "men", is as supplied.)
+
 ---
 
-**Progress note:** Done through printed p. 49 (PDF 49). Done through printed p. 49. Sukta 7 Rk 11 (Ila) Special Topics begun; grammar pp. 47-48 noted
+**Progress note:** Done through printed p. 52 (PDF 52). pp. 50-52: Sukta 7 Rk 11 Special Topics and grammar end; Sukta 8 Pithika begun (yupa), ends mid-sentence p. 52
