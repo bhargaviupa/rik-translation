@@ -1,9 +1,9 @@
 {
  "vol": 14,
  "mandala": 2,
- "branch": "claude/vol14-html",
+ "branch": "claude/vol14-p1-500",
  "source": [
-  "vol14/html/rig_14_2.html@767-954"
+  "vol14/html/rig_14_2.html@501-954"
  ],
  "scan": {
   "glob": "vol14/scans/14 *.pdf"
