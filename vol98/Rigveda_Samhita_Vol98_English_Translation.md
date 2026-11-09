@@ -9403,6 +9403,112 @@ Since Bṛhaspati's weapons are mentioned in this ṛk it is necessary to examin
 
 बृहस्पतिर्हंत्यमित्रमर्कॆः (*bṛhaspatirhaṃtyamitramarkèḥ*) — "Bṛhaspati destroys enemies by mantras alone": this is supported in other places also in the Ṛgveda and other works (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 319
+
+*Running head (as supplied): [आ. २. अ. ५. व. १२. ] ऋग्वेदसंहिता 319 (*[ā. 2. a. 5. va. 12. ] ṛgvedasaṃhitā 319*).*
+
+*(Continuation of the Special Topics of Ṛk 4 of Sūkta 190: further passages on the weapons of Bṛhaspati.)*
+
+ऋतज्येन क्षिप्रेण ब्रह्मणस्पतिर्यत्र वष्टि प्र तदश्नोति धन्वना । (*ṛtajyena kṣipreṇa brahmaṇaspatiryatra vaṣṭi pra tadaśnoti dhanvanā |*)
+तस्य साद्वीरिषवो याभिरस्यति नृचक्षसो दृशये कर्णयोनयः ॥ (*tasya sādvīriṣavo yābhirasyati nṛcakṣaso dṛśaye karṇayonayaḥ ‖*)
+(पु. सं. २-२४-८) (*(pu. saṃ. 2-24-8)*)
+
+In this ṛk it is said that he has a bow, for which ṛta (sacrifice or truth) is the bowstring (*jyā*) and goodness is the arrow.
+
+स हि शुचिः शतपत्रः स शुंध्युर्हिरण्यवाशीरिषिरः स्वर्षाः । (*sa hi śuciḥ śatapatraḥ sa śuṃdhyurhiraṇyavāśīriṣiraḥ svarṣāḥ |*)
+(ऋ. सं. ७-९७-७) (*(ṛ. saṃ. 7-97-7)*)
+
+Here it is said that Bṛhaspati wears golden weapons.
+
+त्वष्टा माया वेदपसामपस्तमो बिभ्रत्पात्रा देवपानानि शंतमा । (*tvaṣṭā māyā vedapasāmapastamo bibhratpātrā devapānāni śaṃtamā |*)
+शिशीते नूनं परशुं स्वायसं येन वृश्चदेतशो ब्रह्मणस्पतिः ॥ (*śiśīte nūnaṃ paraśuṃ svāyasaṃ yena vṛścadetaśo brahmaṇaspatiḥ ‖*)
+(ऋ. सं. १०-५३-९) (*(ṛ. saṃ. 10-53-9)*)
+
+In this ṛk it is said that Bṛhaspati uses, for the slaying of enemies, the iron axe sharpened and handed over by तृष्टवु (*tṛṣṭavu*) (as printed; Tvaṣṭṛ).
+
+*[As supplied, the label line of the grammar page reads व्याकरणक्रिया (*vyākaraṇakriyā*), run on after the previous line; standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 4, noted briefly)
+
+The page explains the forms of Ṛk 4: ईयते (*īyate*) (a root of motion, middle-voice ending, present third person singular; the *nighāta* accent arises because the word stands after a verb form, printed अतिजंत (*atijaṃta*)); अत्यः (*atyaḥ*) (suffix *kyap*; the print says the accent falls on the first syllable); यक्षभृत् (*yakṣabhṛt*) (root *bhṛ*, suffix *kvip*, accent of the first element of the compound); विचेताः (*vicetāḥ*) (a possessive compound, with the accent of the first member by the rule बहुप्रीहौ प्रकृत्या पूर्वपदम् (*bahuprīhau prakṛtyā pūrvapadam*)); यंति (*yaṃti*) (the *nighāta* is prohibited by the rule च वा योगे प्रथमा (*ca vā yoge prathamā*), because *ca* follows); द्यून् (*dyūn*) (accusative by the rule कालाध्वनो रत्यंत संयोगे (*kālādhvano ratyaṃta saṃyoge*) (पा. सू. २-३-५ (*pā. sū. 2-3-5*)), because the days are constantly connected with the action); अभि (*abhi*) (a preposition; by the rule उपसर्गाःक्रियायोगे (*upasargāḥkriyāyoge*) the name *upasarga* applies only when a verb is connected, so here a verb must be supplied, and the verb लक्षयंति (*lakṣayaṃti*) is supplied; the print reads क्रियापवन्नु (*kriyāpavannu*) for the word for verb, [sic]).
+
+*The word *upasarga* is divided across the page boundary (its first part ends p. 319, the rest begins p. 320); kept as printed.*
+
+### Printed p. 320
+
+*Running head (as supplied): [320 सायणभाष्यसहिता [मं. आ. २४. सू. १९०] (*[320 sāyaṇabhāṣyasahitā [maṃ. ā. 24. sū. 190]*).*
+
+*[As supplied, the label line of the Saṃhitā reads संकष्टगळु (*saṃkaṣṭagaḷu*); standard label inserted. The verse numeral is not printed at the end of the Saṃhitā text, while the Pada shows it; no number is added to the Saṃhitā. Three readings of the Saṃhitā and Pada are marked with a query in the Kannada text; the Saṃhitā lines are given as supplied.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> ये त्वा॑ देवोश्री॒कं [?] मन्य॑मानाः पा॒पा भ॒द्रमु॑प॒जीवं॑ति॒
+> पज्राः ।
+> न दू॒ढ्ये॒३॒॑३अनु॑ ददासि वा॒मं बृह॑स्पते॒ चय॑स॒ इप्पिया॑रुं [?]॥
+
+> *ye tvā devośrīkaṃ [?] manyamānāḥ pāpā bhadramupajīvaṃti*
+> *pajrāḥ |*
+> *na dūḍhye3anu dadāsi vāmaṃ bṛhaspate cayasa ippiyāruṃ [?]‖*
+> 
+
+**॥ पदपाठः ॥**
+
+> ये । त्वा । देव । उस्रिकं । मन्यमानाः । पासाः [?] । भद्रं । उपजीवंति । पज्राः ।
+> न । दुःध्ये । अनु । ददासि । वामं । बृहस्पते । चयसे । इत् । पियारुं ॥ ५ ॥
+
+> *ye | tvā | deva | usrikaṃ | manyamānāḥ | pāsāḥ [?] | bhadraṃ | upajīvaṃti | pajrāḥ |*
+> *na | duḥdhye | anu | dadāsi | vāmaṃ | bṛhaspate | cayase | it | piyāruṃ ‖ 5 ‖*
+
+*[As supplied, a line reading साहित्यभाष्यं (*sāhityabhāṣyaṃ*) stands inside the Pada block where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे देव बृहस्पते ये पापाः पापबुद्धयोऽल्पाः पज्रा हविर्लक्षणान्नवंतः
+> पापेन जीर्णा वानरा भद्रं कल्याणं त्वा त्वामुस्तिकं । उस्रियेति गोनाम !
+> कुत्सितामल्पक्षिरोत्साविणीं गां जीर्णमनड्वाहं वा मन्यमाना उपजीवंति
+> उपेत्य प्राणंति । अल्पं याचंत इत्यर्थः । दूढ्यॆ दुर्धिये ॥ वचनव्यत्ययः ॥
+> दुर्बुद्धिभ्यस्तेभ्यो वामं वननीयं धनं नानु ददासि । अनुकूलं न वितरसि । हे
+> बृहस्पते देव पियारुं सोमपानशीलं सोमेन यष्टारं महाफलरिप्पुं तु
+> चयस इत् । गच्छस्यॆवानुग्रहीतुं ॥ चय गतावित्यस्येदं रूपं ॥ यद्वा । हे
+> बृहस्पते पियारुं हिंसकं ॥ पीयतेर्हिंसाकर्मण इदं रूपं ॥ तं प्राणिहिंसकं
+> चयस इत् । हंस्येव । बृहस्पते यच्चातयसि देवपीयुमिति निरुक्तं । ४-२५ ॥
+
+*Gist:* Bṛhaspati gives no desirable wealth to the sinful, dull men who live thinking him a worn-out cow or ox; he favours the soma-offering sacrificer.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देव—पूज्यनाद ऎलै बृहस्पतिये (*deva—pūjyanāda èlai bṛhaspatiye*) (O revered Bṛhaspati). ये पापाः—याव पापिगळु (*ye pāpāḥ—yāva pāpigaḷu*) (the sinners who). पज्राः—हवि र्लक्षणान्नयुक्तरागि (*pajrāḥ—havi rlakṣaṇānnayuktarāgi*) (possessed of food in the form of oblations). भद्रं—कल्याणात्मकनाद (*bhadraṃ—kalyāṇātmakanāda*) (auspicious). त्वा—निन्नन्नु (*tvā—ninnannu*) (you). हॆच्चु प्रयोजनकारियागदॆ इरुव (*hèccu prayojanakāriyāgadè iruva*) (of little use) उस्रिकं—जीर्णवाद गोवॆंदु (*usrikaṃ—jīrṇavāda govèṃdu*) (as a worn-out cow). मन्यमानाः—तिळिदवरागि (*manyamānāḥ—tiḷidavarāgi*) (thinking). उपजीवंति— जीविसुत्तारॆयो (*upajīvaṃti— jīvisuttārèyo*) (live). दूढ्ये—दुष्टबुद्धियुळ्ळ आ पापिष्ठरिगॆ (*dūḍhye—duṣṭabuddhiyuḷḷa ā pāpiṣṭharigè*) (to those evil-minded sinners). वामं—कांक्षितवाद धनवन्नु (*vāmaṃ—kāṃkṣitavāda dhanavannu*) (the desired wealth). न अनु ददासि—अवरवर अनुकूलक्कॆ बेकागुवंतॆ कॊडुवुदे इल्ल (*na anu dadāsi—avaravara anukūlakkè bekāguvaṃtè kòḍuvude illa*) (you never give as suits each of them). बृहस्पते—ऎलै (*bṛhaspate—èlai*) (O; the entry is divided across the page boundary, as printed).
+
+### Printed p. 321
+
+*Running head (as supplied): [अ. २. अ. ५. व. १२.] ऋग्वेदसंहिता 321 (*[a. 2. a. 5. va. 12.] ṛgvedasaṃhitā 321*).*
+
+बृहस्पतिये ! (*bṛhaspatiye !*) (Bṛhaspati!). पियारुं—सोमवन्नर्पिसि यज्ञमाडतक्कवनन्नु (*piyāruṃ—somavannarpisi yajñamāḍatakkavanannu*) (him who offers soma and performs the sacrifice). चयसे इत्—खंडित वागियू अनुग्रहिसुत्तीयॆ (*cayase it—khaṃḍita vāgiyū anugrahisuttīyè*) (you certainly favour).
+
+**भावार्थ (Bhāvārtha)**
+
+Revered Bṛhaspati, those sinners who, worn out by sin, consider you, the auspicious, an aged cow or one of no use, and live so, to those evil-minded sinners you give no desired wealth at all. But him who offers soma and performs the sacrifice you certainly favour.
+
+**Printed English translation**
+
+Divine Brihaspati, you do not bestow desired (wealth) upon those stupid (men), who, sinful and mean, subsist, considering you, who are auspicious, as an old ox, but you favour him who offers (you) libations.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 5)**
+
+In this ṛk it is described that Bṛhaspati gives nothing to those who do not desire him and praise him, and destroys those violent ones.
+
+सुनीतिभिर्नयसि त्रायसे जनं यस्तुभ्यं दाशान्न तमंहो अश्ववत् । (*sunītibhirnayasi trāyase janaṃ yastubhyaṃ dāśānna tamaṃho aśvavat |*)
+ब्रह्मद्विषस्तपनो मन्युमीरसि बृहस्पते महितत्ते महित्वनं ॥ (*brahmadviṣastapano manyumīrasi bṛhaspate mahitatte mahitvanaṃ ‖*)
+(म. सं. २-२३-४) (*(ma. saṃ. 2-23-4)*)
+
+*(The reference is printed म. सं. (*ma. saṃ.*), as supplied; kept as printed.)* In this ṛk it is said: to him who satisfies you (Bṛhaspati) with oblations and the like, you are a good guide and you protect him; sins cannot touch him; but those who hate you fall under your wrath; O Bṛhaspati, is this not your greatness?
+
+उस्रिकं—उस्रियेति गोनाम । कुत्सिताल्पक्षीरो स्राविणीं गां जीर्णमनड्वा- हं वा (*usrikaṃ—usriyeti gonāma | kutsitālpakṣīro srāviṇīṃ gāṃ jīrṇamanaḍvā- haṃ vā*): the word *usriyā* is read among the names of the cow (नि. ३-९ (*ni. 3-9*)). Yāska has said: उस्रियेति गो नाम उस्राविणोऽस्यां भोगाः उस्रेति च (*usriyeti go nāma usrāviṇo 'syāṃ bhogāḥ usreti ca*) (नि. ४-१९ (*ni. 4-19*)). The milch cow is called *usriyā*, because from such milk the means of enjoyment arise; she is also called *usrā*. Since the word *usrikam* is used here, the bhāṣyakāra explains it as a barren cow that gives very little milk or none, or an aged ox that cannot do any hard work. Nobody expects any return from such a cow or ox; likewise the sinful, like a barren cow or (the supplied text breaks off here, at the end of the window).
+
+*[A stray line of the supplied text, [21] Vol. 14 (*[21] Vol. 14*), is kept as an italic note in the Kannada text.]*
+
 ---
 
-**Progress note:** Done through printed p. 318 (PDF 318). Sukta 190 Rik 3 grammar page complete; Rik 4 complete through printed English; Special Topics of Rik 4 begun (Rik 6-73 verses, ahimayan), breaks off after the Rik 6-72-1 discussion on p. 318; figure line viewed, one Samhita word corrected to the image; [?] on a footnote sign
+**Progress note:** Done through printed p. 321 (PDF 321). Sukta 190 Rik 4 Special Topics and grammar page complete; Rik 5 through the start of its Special Topics (Nirukta usrikam discussion begun); three readings marked with a query; verse numeral missing in the printed Samhita
