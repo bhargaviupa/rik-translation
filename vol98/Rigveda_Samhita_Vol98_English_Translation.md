@@ -5209,6 +5209,110 @@ It is explained that if a man worships food as the form of Parabrahman, he gets 
 
 *Gist:* "Pitum nu" is the eighth sūkta of this group, of eleven ṛks, by Agastya, to the deity Food, in *gāyatrī*; the first ṛk is *anuṣṭubh-bṛhatī*, and Śaunaka prescribes its use for honouring food and eating without contempt.
 
+### Printed p. 185
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 6] Ṛgveda-saṃhitā 185 (as supplied). The window starts at the p. 185 marker, after Sāyaṇa's introduction to Sūkta 187 (p. 184).*
+
+**Anuvāda (Kannada).** The sūkta beginning with पितुं नु (*pituṃ nu*) is the eighth sūkta in the twenty-fourth anuvāka. It has eleven ṛks. Agastya is the seer of this sūkta, the praise of food is the deity, and the metre is *gāyatrī*. The first ṛk has the metre called *anuṣṭubh-garbhoṣṭik* (the supplied text prints "ಗರ್ಭೋಷ್ಟಿಕ್"); in the Anukramaṇikā it is said आद्यः पंचकस्त्रयोऽष्टका अनुष्टुप् गर्भा (*ādyaḥ paṃcakastrayo 'ṣṭakā anuṣṭup garbhā*) ((अनु. ५-७) (*(anu. 5-7)*)). The third, fifth, sixth, seventh and eleventh ṛks of this sūkta are in the *anuṣṭubh* metre; and in the Anukramaṇikā it is said पितुं नन्न स्तुतिर्गायत्रं त्वाद्यानुष्टुब्गर्भा तृतीयांत्ये (*pituṃ nanna stutirgāyatraṃ tvādyānuṣṭubgarbhā tṛtīyāṃtye*) पंचम्याध्याश्च तिस्रोऽनुष्टुभ इति (*paṃcamyādhyāśca tisro 'nuṣṭubha iti*) (the supplied text has "ಪಿತುಂ ನನ್ನ" for the Sanskrit "*pitum nu*"; kept as supplied). On the application (*viniyoga*) of this sūkta Śaunaka says in his work the Ṛgvidhāna:
+
+पितुं नित्युपतिष्ठेत नित्यमन्नमुपस्थितं । (*pituṃ nityupatiṣṭheta nityamannamupasthitaṃ |*)
+पूजयेदशनं नित्यं भुंजीत ह्यविकुत्सयन् ॥ (*pūjayedaśanaṃ nityaṃ bhuṃjīta hyavikutsayan ‖*)
+नास्य स्यादन्नजो व्याधिर्विषमप्यमृतं भवेत् । (*nāsya syādannajo vyādhirviṣamapyamṛtaṃ bhavet |*)
+विषं च पीत्वैतत्तूक्तं जपेद्विषविनाशनं ॥ (*viṣaṃ ca pītvaitattūktaṃ japedviṣavināśanaṃ ‖*)
+नावाग्यतस्तु भुंजीत नाशुचिर्न जुगुप्सितं । (*nāvāgyatastu bhuṃjīta nāśucirna jugupsitaṃ |*)
+दद्याच्च पूजयेच्चैव जुहुयाच्च हविस्तदा ॥ (*dadyācca pūjayeccaiva juhuyācca havistadā ‖*)
+क्षुद्भयं नास्य किंचित्सान्नान्नजं व्याधिमाप्पुयात् ॥ (*kṣudbhayaṃ nāsya kiṃcitsānnānnajaṃ vyādhimāppuyāt ‖*)
+(यग्विधान. १-२७) [?] (*(yagvidhāna. 1-27) [?]*)
+
+(the reference is printed "(ಯಗ್ವಿಧಾನ. ೧-೨೭) [?]" for Ṛgvidhāna). This sūkta beginning "pitum nu" should be recited daily at meal-time with devotion, food should be honoured and then one should eat. One should never reproach food. If one does so, the troubles such as disease that can arise from faults of food will not occur; even poison becomes nectar. If, through some other cause, that is, unknowingly, one takes poison, the poison is removed if this sūkta is muttered. While eating one should not chatter but eat with restraint and in purity. One should not eat food that is loathsome, disagreeable or reprehensible. At meal-time one should give a little of the food to others, honour the food, offer an oblation in the fire, and only then eat oneself. For one who does so there is no affliction from hunger, and no disease arising from improper food touches him: thus the greatness of this sūkta is explained.
+
+### Printed p. 186
+
+*Running head: [186 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 187].*
+
+**Sūkta—187**
+
+॥ ओं ॥ (*‖ oṃ ‖*)
+सूक्त—१८७ (*sūkta—187*)
+Maṇḍala 1 ‖ Anuvāka 24 ‖ Sūkta 187 ‖
+Aṣṭaka 2 ‖ Adhyāya 5 ‖ Varga 6-7 [as printed] ‖
+Number of ṛks in the Sūkta: 11 ·
+Ṛṣi: Agastya · Devatā: Anna-stuti (praise of food; printed "ಅನ್ನ ಸ್ತುತಿಃ") · Chandas: 1. *anuṣṭubh-garbhoṣṭik* (printed "ಅನುಷ್ಟುಬ್ಬರ್ಭೋಷ್ಠಿಕ್"); 2, 4, 8-10 *gāyatrī*; 3, 5, 6, 7, 11 *anuṣṭubh*.
+
+#### Ṛk 1
+
+*[The supplied text prints the stray word बॆंगळूरु (*bèṃgaḷūru*) before the Saṃhitā, and the label of the Saṃhitā is missing; the standard label was inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> पि॒तुं नु स्तो॑षं म॒हो ध॒र्माणं॒ तवि॑षीं ।
+> यस्य॑ त्रि॒तो व्योज॑सा वृ॒त्रं विप॑र्वम॒र्दय॑त् ॥ १ ॥
+
+> *pituṃ nu stoṣaṃ maho dharmāṇaṃ taviṣīṃ |*
+> *yasya trito vyojasā vṛtraṃ viparvamardayat ‖ 1 ‖*
+
+*[As supplied, the label line of the next section reads पदहारः (*padahāraḥ*); standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> पितुं । नु । स्तोषं । महः । धर्माणं । तविषीं ।
+> यस्य । त्रितः । वि । ओजसा । वृत्रं । विपर्वं । अर्दयत् ॥ १ ॥
+
+> *pituṃ | nu | stoṣaṃ | mahaḥ | dharmāṇaṃ | taviṣīṃ |*
+> *yasya | tritaḥ | vi | ojasā | vṛtraṃ | viparvaṃ | ardayat ‖ 1 ‖*
+
+*[As supplied, the label line of the next section reads चायुधभाष्यं (*cāyudhabhāṣyaṃ*); standard label inserted.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> अहमगस्यो नु क्षिप्रं पितुं पालकमन्नं स्तोषं। सौमि। महो महांतं
+> धर्माणं सर्वस्य धारकं तविषीं बलात्मकं । यद्वा । महतो लोकस्य धारकं ।
+> यस्यान्न स्यौजसा बलेन सामर्थ्येन त्रितो विस्तीर्णतमः प्रख्यातकीर्तिस्त्रिषु क्षित्यादि-
+> स्थानेषु तायमानोऽपींद्रो वृत्रं विपर्वं विच्छिन्नसंधिकं यथा तथार्दयत्
+> हिंसितवान् ॥
+
+*Gist:* I, Agastya, quickly praise the protecting food, great, the upholder of all, strong, by whose might the famous Trita-Indra tore Vṛtra limb from limb.
+
+*[As supplied, the label line of the next section reads । प्रतिसदर्थ । (*| pratisadartha |*); standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यस्य (*yasya*) — of which food. ओजसा (*ojasā*) — by the life-giving power. त्रितः (*tritaḥ*) — Indra, famed in the three worlds (*trita*). वृत्रं (*vṛtraṃ*) — the demon Vṛtra. विपर्वं (*viparvaṃ*) — (making him) one with severed joints. वि आर्दयत् (*vi ārdayat*) — utterly destroyed. (Such food:) महः (*mahaḥ*) — great. धराणं (*dharāṇaṃ*) — all-supporting (or: of the great world, the upholder). तविषीं (*taviṣīṃ*) — strong. पितुं (*pituṃ*) — protecting food. नु (*nu*) — quickly. स्तोषं (*stoṣaṃ*) — I praise.
+
+### Printed p. 187
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 6] Ṛgveda-saṃhitā 187 (as supplied, "ಅ ೨").*
+
+*[The Pratipadārtha, begun on p. 186, ends on p. 187 (from the head महः (*mahaḥ*) on); it is given in full above.]*
+
+*[As supplied, the label line of the next section reads भवार्थ (*bhavārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+I quickly praise that food which is life-giving, great, the upholder of the world, strong and protecting, by whose life-giving power Indra, famed in all three worlds, cut the joints of the demon Vṛtra and destroyed him.
+
+**Printed English translation**
+
+I glorify Pitu, the great, the upholder, the strong, by whose invigorating power Trita slew the mutilated Vritra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पितुं—पालकमन्नं (*pituṃ—pālakamannaṃ*) — "the protecting food": the meaning is food that protects us from the affliction of hunger. The word *pitu* is read among the twenty-eight names of food, *andhaḥ*, *vājaḥ* and others ((नि. ३-९) (*(ni. 3-9)*)). Besides, Yāska:
+
+पितुरित्यन्ननाम पातेर्वा, पिबतेर्वा, प्यायतेर्वा । (*piturityannanāma pātervā, pibatervā, pyāyatervā |*)
+(सि. ९-२४) (*(si. 9-24)*)
+ऎंदु पितु शब्दद निर्वचनवन्नु हेळिद्दारॆ. ऎंदरॆ—पातेर्वा—नम्मन्नु हसिविनिंद कापाडु (*èṃdu pitu śabdada nirvacanavannu heḷiddārè. èṃdarè—pātervā—nammannu hasiviniṃda kāpāḍu*)
+
+has given the derivation of the word *pitu*: that is, *pātervā*: because it protects us from hunger, *pitu* means food; or because it is used for drinking it is called *pitu*, it also applies to liquid food (milk and the like), so it is used for drinking and may be formed from the root *pā* (*pib*) "to drink"; or it may be formed from the root *pyāy* (the supplied text has "ಪ್ರ್ಯಾಯ" for *pyāyate*), which gives the sense "to satisfy". Taking the very ṛk in which this word occurs as the example, he has given its explanation:
+
+पितुं नु स्तोषं महो धर्माणं तविषीं । (*pituṃ nu stoṣaṃ maho dharmāṇaṃ taviṣīṃ |*)
+यस्य त्रितो व्योजसा वृत्रं विपर्वमर्दयत् ॥ (*yasya trito vyojasā vṛtraṃ viparvamardayat ‖*)
+तं पितुं स्तौमि महतो धारयितारं बलस्य । तविषीति बलनाम तवतेर्वा (*taṃ pituṃ staumi mahato dhārayitāraṃ balasya | taviṣīti balanāma tavatervā*)
+वृद्धिकर्मणः । यस्य त्रित ओजसा बलेन त्रितस्त्रिस्थान इंद्रो वृत्रं विपर्वाणं (*vṛddhikarmaṇaḥ | yasya trita ojasā balena tritastristhāna iṃdro vṛtraṃ viparvāṇaṃ*)
+व्यर्दयति ॥ (*vyardayati ‖*)
+
+[the window ends here with the Nirukta passage and its reference (printed "(ನಿ. ೯-೨೫)")].
+
 ---
 
-**Progress note:** Done through printed p. 183 (PDF 183). Done through printed p. 184 start (Sukta 187 introduction essay on food and the three kinds of gift complete; Sayana's introduction to the sukta given; the sukta heading block and Rk 1 follow)
+**Progress note:** Done through printed p. 187 (PDF 187). Done through printed p. 187 (Sukta 187 heading block and Rk 1 complete through printed English; Special Topics on pitu begun, ends with the Nirukta passage)
