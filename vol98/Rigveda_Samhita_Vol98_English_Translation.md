@@ -6741,6 +6741,95 @@ This terrestrial Agni is the *napāt*, grandson, of the Agni of the divine world
 
 *[Stray line of the supplied text after the Pada: Pages: 250/250 (*Pages: 250/250*); not part of the text.]*
 
+### Printed p. 233
+
+*Running head: [Aṣṭaka 2. Ā. 5. Varga 8] Ṛgveda-saṃhitā 233 (as supplied).*
+
+*[As supplied, a line reading आयुधभाष्य C (*āyudhabhāṣya C*) stands inside the bhāṣya block as the label; standard label inserted.]*
+
+**Sāyaṇa-bhāṣya** (Ṛk 3)
+
+> हे अग्ने आजुह्वानोऽस्माभिराहूयमानः सन्नीड्योऽस्माभिः स्तुत्य इण्नाम-
+> कस्यं नोऽस्मदर्थं यज्ञियान् यज्ञभाजो देवाना वक्षि । आवह । हे अग्ने त्वं
+> सहस्रसा असि । अपरिमितधनस्य दातासि ॥
+
+*Gist:* O Agni, invoked and praised by us, bring for us the gods who are fit for the sacrifice; you are a giver of boundless wealth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). आजुह्वानः—नम्मिंद आहूतनागियू (*ājuhvānaḥ—nammiṃda āhūtanāgiyū*) (invoked by us). ईड्यः—स्तुत्यनागियू इरुव नीनु (*īḍyaḥ—stutyanāgiyū iruva nīnu*) (you who are to be praised). नः—नमगागि (*naḥ—namagāgi*) (for us). यज्ञियान्—यज्ञार्हराद (*yajñiyān—yajñārharāda*) (fit for the sacrifice). देवान्—देवतॆगळन्नु (*devān—devatègaḷannu*) (the gods). आ वक्षि—करॆदुकॊंडु बा (*ā vakṣi—karèdukòṃḍu bā*) (bring). त्वं—नीनु (*tvaṃ—nīnu*) (you). सहस्रसा असि—अपरिमितवाद धनक्कॆ दातृवागिद्दीयॆ (*sahasrasā asi—aparimitavāda dhanakkè dātṛvāgiddīyè*) (you are the giver of boundless wealth).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, invoked and praised by us, bring for us the gods who are fit for the sacrifice. You are the giver of boundless wealth.
+
+**Printed English translation**
+
+Agni, who are to be glorified, bring hither, being invoked by us, the adorable gods, for you are for the donor of thousands.
+
+*[As supplied, the label line of the Special Topics reads विशेषविवरगळु (*viśeṣavivaragaḷu*), run on after the printed English; standard label inserted.]*
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 3)**
+
+देवान् आ वक्षियज्ञॆयान् (*devān ā vakṣiyajñèyān*) — "fit for the sacrifice" means: bring (to our sacrificial ground) the gods whom we desire to come for the sacrifice. The prayer that Agni should bring the gods is stated in
+
+अग्निः पूर्वेभिर्यषिभिरीड्र्यो नूतनैरुत । स देवा एह वक्षति ॥ (*agniḥ pūrvebhiryaṣibhirīḍryo nūtanairuta | sa devā eha vakṣati ‖*)
+(म. सं. १-१-२) (*(ma. saṃ. 1-1-2)*)
+
+आग्ने देवा इहा वह जज्ञानो व्यक्तबर्हिषे । असि होता न ईड्यः । (*āgne devā ihā vaha jajñāno vyaktabarhiṣe | asi hotā na īḍyaḥ |*)
+(ऋ. सं. १-१२-३) (*(ṛ. saṃ. 1-12-3)*)
+
+and other ṛks.
+
+ईड्यः (*īḍyaḥ*) — सर्वैः स्तुत्यः इळ् नामकः त्वं (*sarvaiḥ stutyaḥ iḷ nāmakaḥ tvaṃ*): it is explained as Agni, praised by all and famed by the name Iḷa. Showing the explanation of this word, ईळ ईट्टेः स्तुतिकर्मणः ; इंधते र्वा (*īḷa īṭṭeḥ stutikarmaṇaḥ ; iṃdhate rvā*) (नि ८-८ (*ni 8-8*)), that it may be derived from the root *īḍ* in the sense of praising, or from the root *indh* in the sense of burning, the Nirukta-authors cite the ṛk ऋ. सं. १०-११०-३ (*ṛ. saṃ. 10-110-3*) and explain the right sense of this word.
+
+### Printed p. 234
+
+*Running head: [234 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 188] (as supplied).*
+
+First, like the word *samidh*, this word too seems to be used only as an epithet of Agni, without a separate indication as a deity. Since the help and support of Agni had to be complete at the time of carrying out the sacrifice, he naturally became worthy of praise. At the beginning Agni must be (1) kindled; then (2) by the name Tanūnapāt or Narāśaṃsa he must make the sacrificial oblations filled with honey; then he must bring the gods to the sacrifice. For this work he must be *īḍya* (praiseworthy); therefore in this context he is (3) *īḍya* (prayed to) by the sacrificers.
+
+In the Āprī sūktas this word, formed from the root *īḍ*, is used eight times as an epithet meaning "praised" or "worthy of praise", and once as an epithet showing Agni's office of messenger: nine places in all, with reference to Agni. And only in the ṛk of the Āprī sūkta composed by Viśvāmitra,
+
+प्र दीधितिर्विश्ववारा जिगाति होतारमिळः प्रथमं यजध्यै । (*pra dīdhitirviśvavārā jigāti hotāramiḷaḥ prathamaṃ yajadhyai |*)
+अच्छा नमोभिर्वृषभं वंदध्यै स देवान्यक्षदिषितो यजीयान् । (*acchā namobhirvṛṣabhaṃ vaṃdadhyai sa devānyakṣadiṣito yajīyān |*)
+(ऋ सं. ३-४-३) (*(ṛ saṃ. 3-4-3)*)
+
+does it mean food in the form of an oblation; even so it is connected with Agni, the chief deity of that ṛk. This meaning differs from the tradition of the Āprī sūktas; but in the Praiṣa sūkta alone it is a synonym of Agni:
+
+होतायक्षदग्निमिड ईडितो देवो देवाग्ं अवक्षद्दूतो हव्यवाडमूरः । (*hotāyakṣadagnimiḍa īḍito devo devāgṃ avakṣaddūto havyavāḍamūraḥ |*)
+उपेमं यज्ञमुपेमां देवो देवहूतिमवतु वेत्वाज्यस्य होतरज । (*upemaṃ yajñamupemāṃ devo devahūtimavatu vetvājyasya hotaraja |*)
+(तै. ब्रा. ३-६-२-१) (*(tai. brā. 3-6-2-1)*)
+
+On this sentence the bhāṣyakāra says इडेत्येतन्नामकमग्निं तृतीयप्रयाददेवं (*iḍetyetannāmakamagniṃ tṛtīyaprayādadevaṃ*), saying it is a synonym of Agni. In the Aitareya-brāhmaṇa:
+
+इळो यजत्यन्नं वा इळोऽन्नमेव तत्प्रीणात्यन्नं यजमाने दधाति । (*iḷo yajatyannaṃ vā iḷo 'nnameva tatprīṇātyannaṃ yajamāne dadhāti |*)
+(इ ब्रा. २-४) (*(i brā. 2-4)*)
+
+it is said that *iḷaḥ* means the food in the form of an oblation to be offered in the sacrifice, and that as the fruit of this offering of food the sacrificer too obtains food.
+
+As explained above, the connection Yāska shows between this word and the root *indh* is not clearly understood. Here Yāska does not state the opinion of Kātthakya. In the Bṛhaddevatā:
+
+इळस्त्वषिकृतं रूपं ईडेश स्तुतिकर्मणः । (*iḷastvaṣikṛtaṃ rūpaṃ īḍeśa stutikarmaṇaḥ |*)
+इळावांस्तेन वोक्तोग्निरिडिना वृद्धि कर्मणा ॥ (*iḷāvāṃstena voktogniriḍinā vṛddhi karmaṇā ‖*)
+(बृ दे. ३-४) (*(bṛ de. 3-4)*)
+
+### Printed p. 235
+
+*Running head: [Aṣṭaka 2. Adhyāya 5. Varga 8] Ṛgveda-saṃhitā 235 (as supplied).*
+
+by these sentences it is shown that this word is of the ṛṣis' usage and a synonym of Agni, and that the word *iḷāvān* is an epithet of Agni.
+
+गोमा अग्नेऽविमा अश्वी यज्ञो नृवत्सखा सदमिदप्रमृष्यः । (*gomā agne 'vimā aśvī yajño nṛvatsakhā sadamidapramṛṣyaḥ |*)
+इळावा एषो असुर प्रजावान्दीर्घो रयिः पृथुबुध्नः सभावान् । (*iḷāvā eṣo asura prajāvāndīrgho rayiḥ pṛthubudhnaḥ sabhāvān |*)
+(ऋ. सं. ४-२-५) (*(ṛ. saṃ. 4-2-5)*)
+
+In this ṛk the word *iḷāvān* is an epithet of Agni, and so the Bṛhaddevatā indicates that point. Although such differences of tradition are seen in the explanations, it may be said on the whole that this is a synonym of the Agni deity holding the fourth place in the sūkta.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 3, noted briefly)
+
+आजुह्वानः (*ājuhvānaḥ*) (root हु दानादनयोः (*hu dānādanayoḥ*)): the substitute *śānac* for *laṭ*; the *ślu* stem; on that basis reduplication of the root; by अभ्यस्तानामादिः (*abhyastānāmādiḥ*) (पा. सू. ६-१-१८९ (*pā. sū. 6-1-189*)) the first syllable is acute; in a *prādi* compound the accent of the first member of the *kṛt* compound. ईड्य: (*īḍya:*) (root ईड स्तुत् (*īḍa stut*)): the suffix *yat*; by यतोनावः (*yatonāvaḥ*) (पा. सू. ६-१-२१३ (*pā. sū. 6-1-213*)) the first syllable is acute. वक्षि (*vakṣi*) (root वह प्रापणे (*vaha prāpaṇe*)): *laṭ*, second person singular, ending *sip*; by बहु- लंछंदंसि (*bahu- laṃchaṃdaṃsi*) the *luk* of the stem-suffix; by होढः (*hoḍhaḥ*) the *h* of the root becomes *ḍh*; by षढोः कः सि (*ṣaḍhoḥ kaḥ si*) that *ḍh* before *s* becomes *k*; on that basis *ṣ* for the *s* of the suffix; the verb-*nighāta* accent. यज्ञियान् (*yajñiyān*): यज्ञमर्हंति इति यज्जियाः (*yajñamarhaṃti iti yajjiyāḥ*); by यज्ञर्त्वग्भ्यां घ ख इौ [?] (*yajñartvagbhyāṃ gha kha iau [?]*) (पा. सू. ५-१-७१ (*pā. sū. 5-1-71*)) the suffix *gha* (the print is garbled at the end of the rule, marked [?]); by आयनेयीनी— (*āyaneyīnī—*) (पा. सू ७-१-२ (*pā. sū 7-1-2*)) the substitute *iya*; by यस्येतिच (*yasyetica*) the preceding *a* is dropped; the suffix's first syllable is acute. सहस्रसाः (*sahasrasāḥ*): सहस्रं सनोति इति सहस्रसाः (*sahasraṃ sanoti iti sahasrasāḥ*), root षणु दाने (*ṣaṇu dāne*); the suffix *kvip*; by जनसन खनां— (*janasana khanāṃ—*) (पा. सू. ६-४-४२ (*pā. sū. 6-4-42*)) the root takes *ā*; by गतिकारकोपपदात्— (*gatikārakopapadāt—*) the accent of the first member of the *kṛt* compound.
+
 ---
 
-**Progress note:** Done through printed p. 232 (PDF 232). Done through printed p. 232 (Sukta 188 Rik 2 complete; Rik 3 Samhita and Pada done; Rik 3 bhashya next); [?] on Latin S for avagraha
+**Progress note:** Done through printed p. 235 (PDF 235). Done through printed p. 235 (Sukta 188 Rik 3 complete, with Special Topics and grammar page; Rik 4 next); [?] on the garbled rule in the Rik 3 grammar page
