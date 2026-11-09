@@ -11742,6 +11742,126 @@ You, Agni, are Indra, the showerer (of bounties) on the good ; you are the adora
 
 *(The bhāṣya of Ṛk 4 breaks off here, in the middle of a sentence, at एतन्नामको (*etannāmako*), at the end of the window.)*
 
+### Printed p. 398
+
+*Running head (as supplied): [398 सायणभाष्यसहिता [मं. २. अ. १. सू. १] (*[398 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 1]*).*
+
+*(Continuation of the bhāṣya of Ṛk 4 of Sūkta 1 of Maṇḍala 2, from mid-sentence at the end of the previous page.)*
+
+> देवोऽसि । यतः सत्पतिः सतामभिमतप्रदानेन पालयिता अतोऽर्यमा भवसि ।
+> दातृत्वं चार्यन्नो लिंगं । अर्यमेति तमाहुर्यो ददातिति । यस्यार्यवन्नो
+> दानं संभुजं संततभुजं व्यापकं भवति । यद्वा यस्य धनं संभुजं सम्यक्
+> भोगाय साधु ग्रहीत्कृणां । तथा त्वमंशः सूर्यमूर्त्यंतरभूत एतन्ना-
+> मको देवोऽसि । तादृश हे देव विदथेऽस्मदीये यज्ञे भाजयुः फलानां
+> भाजयिता प्रपयितासि ॥
+
+> *devo 'si | yataḥ satpatiḥ satāmabhimatapradānena pālayitā ato 'ryamā bhavasi |*
+> *dātṛtvaṃ cāryanno liṃgaṃ | aryameti tamāhuryo dadātiti | yasyāryavanno*
+> *dānaṃ saṃbhujaṃ saṃtatabhujaṃ vyāpakaṃ bhavati | yadvā yasya dhanaṃ saṃbhujaṃ samyak*
+> *bhogāya sādhu grahītkṛṇāṃ | tathā tvamaṃśaḥ sūryamūrtyaṃtarabhūta etannā-*
+> *mako devo 'si | tādṛśa he deva vidathe 'smadīye yajñe bhājayuḥ phalānāṃ*
+> *bhājayitā prapayitāsi ‖*
+
+*[As supplied, a line reading प्र,तिपदार् (*pra,tipadār*) stands inside the bhāṣya block where the Pratipadārtha label belongs, and the following lines carry block marks in the supplied text; they are given as prose; standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). धृतव्रतः—सत्यादि व्रतगळिगॆ नियामकनू (*dhṛtavrataḥ—satyādi vratagaḷigè niyāmakanū*) (the regulator of vows such as truth). राजा—प्रभुवादवनू आद (*rājā—prabhuvādavanū āda*) (and lord). वरुणः—वरुणनागिद्दीयॆ (*varuṇaḥ—varuṇanāgiddīyè*) (you are Varuṇa). त्वं—नीनु (*tvaṃ—nīnu*) (you). दस्मः—शत्रुनाशकनू (*dasmaḥ—śatrunāśakanū*) (the destroyer of foes). ईड्यः—स्तुत्यनू आद (*īḍyaḥ—stutyanū āda*) (and the adorable). मित्रः—मित्रनागिद्दीयॆ (*mitraḥ—mitranāgiddīyè*) (you are Mitra). त्वं—नीनु (*tvaṃ—nīnu*) (you). यस्य—याव आर्यमन दानवु (*yasya—yāva āryamana dānavu*) (of whom, that is, of Aryaman, the gift). संभुजं—सर्वत्र भोग्यवागिदॆयो अंतह (*saṃbhujaṃ—sarvatra bhogyavāgidèyo aṃtaha*) (is everywhere to be enjoyed, such). सत्पतिः—सज्जनर पालकनाद (*satpatiḥ—sajjanara pālakanāda*) (protector of the good). आर्यमा- आर्यमनागि (*āryamā- āryamanāgi*) (you become Aryaman (the entry is printed with a hyphen)). भवसि—आगिद्दीयॆ (*bhavasi—āgiddīyè*) (you become). त्वं—नीनु (*tvaṃ—nīnu*) (you). अंशशः—अंशदेवनू आगिद्दीयॆ (*aṃśaśaḥ—aṃśadevanū āgiddīyè*) (you are also the god Aṃśa). देवः—देवता, त्मनाद ऎलै अग्निये (*devaḥ—devatā, tmanāda èlai agniye*) (O Agni, whose self is divine). विदथे—नम्म यज्ञदल्लि (*vidathe—namma yajñadalli*) (in our sacrifice). भाजयुः—सत्फलगळन्नु हंचुववनागु. (*bhājayuḥ—satphalagaḷannu haṃcuvavanāgu.*) (be the distributor of good fruits).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you are Varuṇa, the regulator of vows and lord, and Mitra, the destroyer of foes and the adorable. You are Aryaman (the print has अरम्यनू (*aramyanū*)), the protector of the good and the cause of the gift that is enjoyed by all, and Aṃśa. O Agni, whose self is divine, be the distributor of good fruits in our sacrifice.
+
+**Printed English translation**
+
+You, Agni, are the royal Varuna, observant of holy vows: you are the adorable Mitra, the destroyer (of foes) : you are Aryaman, the protector of the virtuous, whose (liberality) is enjoyed by all : you are a portion (of the sun) : be the distributor (of good things), divine (Agni), at our sacrifice.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 4)**
+
+In this ṛk Agni is described as the form of the deities Mitra, Varuṇa, Aryaman and Aṃśa. These deities Mitra and the others, as Ādityas,
+
+इमा गिर आदित्येभ्यो धृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि । (*imā gira ādityebhyo dhṛtasnūḥ sanādrājabhyo juhvā juhomi |*)
+शृणोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ॥ (*śṛṇotu mitro aryamā bhago nastuvijāto varuṇo dakṣo aṃśaḥ ‖*)
+(पु सं. २-२७-१) (*(pu saṃ. 2-27-1)*)
+
+(The reference is printed पु सं. २-२७-१ (*pu saṃ. 2-27-1*), as supplied.)
+
+### Printed p. 399
+
+*Running head (as supplied): [अ. २. अ. ५. व. १७.] ऋग्वेदसंहिता 399 (*[a. 2. a. 5. va. 17.] ṛgvedasaṃhitā 399*).*
+
+are praised in this ṛk and in the following ṛks of this sūkta. These three deities, Mitra, Varuṇa and Aryaman, are praised in many places as a group. About them see what we have written at length on the pages 119-129ने (*119-129ne*) of this same part. विदथे—अस्मदीये यज्ञे (*vidathe—asmadīye yajñe*): in this sacrifice that we are performing; for the extended explanations of the word *vidatha* see what has been written in ऋ. सं. भाग १३ पेजु 9-13 (*ṛ. saṃ. bhāga 13 peju 9-13*). भाजयुः—फलानां भाजयिता प्रापयितासि (*bhājayuḥ—phalānāṃ bhājayitā prāpayitāsi*): in the sacrifice you are the one who provides us with the fruits in the form of our desired objects.
+
+*[A figure line of the supplied text, figure line of the supplied text: vol14/html/figures_p1/fig_1_1_line6982.jpg, viewed as an image (*figure line of the supplied text: vol14/html/figures_p1/fig_1_1_line6982.jpg, viewed as an image*), was viewed; it repeats the Saṃhitā and Pada of Ṛk 5. One word of the Saṃhitā, स्वश्वं (*svaśvaṃ*), reads स्वश्व्यं (*svaśvyaṃ*) in the image, and the corresponding Pada word सुअश्वं (*suaśvaṃ*) reads सुअश्व्यं (*suaśvyaṃ*); both are corrected to the image, as recorded in the notes in the Kannada text.]*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्ने॒ त्वष्टा॑ विध॒ते सु॒वीर्यं॒ तव॒ ग्नावो॑ मित्रमहः सजा॒त्यं॑ ।
+> त्वमा॑शु॒हेमा॑ ररिषे॒ स्वश्व्यं॒ त्वं न॒रां शर्धो॑ असि पुरू॒वसुः॑
+> ॥ ५ ॥
+
+> *tvamagne tvaṣṭā vidhate suvīryaṃ tava gnāvo mitramahaḥ sajātyaṃ |*
+> *tvamāśuhemā rariṣe svaśvyaṃ tvaṃ narāṃ śardho asi purūvasuḥ*
+> *‖ 5 ‖*
+
+*[A word that stood alone on the second line of the first Saṃhitā line is joined to its line. As supplied, and as printed in the image, the label line over the Pada reads भावार्थ (*bhāvārtha*); standard label inserted. As supplied, a line reading कयणभाष्य c (*kayaṇabhāṣya c*) stands where the bhāṣya label belongs; standard label inserted.]*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । त्वष्टा । विधते । सुवीर्यं । तव । ग्नावः । मित्रमहः । सजात्यं ।
+> त्वं । आशुहेमा । ररिषे । सुअश्व्यं । त्वं । नरां । शर्धः । असि । पुरूवसुः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वष्टा फलस्य साधु संपादयिता त्वं विधते परिचरते जनाय
+> सुवीर्यं शोभनवीर्यं । वीर्यं धनर । तद्धेतुर्भवसि । ग्नावो याः स्तुतिवाचः
+> संति तास्तव स्वभूताः । हे मित्रमहः हितकारितेजः सजात्यमस्माकं बांधवं भजस
+> इत्यर्थः । हे अग्ने आशुहेमा आशु प्रेरयिता त्वं स्वश्वं शोभनाश्वसमूहोपेतं
+> फलं ररिषे । ददासि । हे अग्ने पुरूवसुः प्रभूतधनस्त्वं नरां नराणां शर्धो
+> बलस्थानीयोऽसि ॥
+
+*Gist:* Agni, as Tvaṣṭṛ, gives his worshipper heroic wealth; praises are his; he is asked for kinship and good horses; he is the strength of men.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वष्टा—फलवन्नु संपादिसिकॊडतक्क (*tvaṣṭā—phalavannu saṃpādisikòḍatakka*) (Tvaṣṭṛ, the one who obtains the fruit). त्वं—नीनु (*tvaṃ—nīnu*) (you). विधते— (निन्नन्नु) सेविसतक्क जनरिगॆ (*vidhate— (ninnannu) sevisatakka janarigè*) (to those who serve you). सुवीर‍्यं - श्रेष्ठवाद वीर्यदिंद कूडिद धनवन्नु (कॊडुत्तीयॆ) (*suvīryaṃ - śreṣṭhavāda vīryadiṃda kūḍida dhanavannu (kòḍuttīyè)*) ((you give) wealth endowed with excellent heroism).
+
+### Printed p. 400
+
+*Running head (as supplied): [400 सायणभाष्यसहिता [ मं २ अ. १. सू १.] (*[400 sāyaṇabhāṣyasahitā [ maṃ 2 a. 1. sū 1.]*).*
+
+ग्नावः-स्तुतिरूपवाद वाक्कुगळॆल्लवू (*gnāvaḥ-stutirūpavāda vākkugaḷèllavū*) (all the praises in the form of hymns). तव-निन्नवे आगिवॆ (*tava-ninnave āgivè*) (are yours). मित्रमहः-जगत्तिगॆ हितवन्नुंटु माडुव तेजस्सुळ्ळ अग्निये (*mitramahaḥ-jagattigè hitavannuṃṭu māḍuva tejassuḷḷa agniye*) (O Agni of beneficial lustre for the world). सजात्यं--नम्मॊडनॆ बंधुत्ववन्नु पालिसु (*sajātyaṃ--nammòḍanè baṃdhutvavannu pālisu*) (observe kinship with us). आशुहेमा-(कर्तव्य गळल्लि) शीघ्रवागि प्रेरिसतक्क नीनु (*āśuhemā-(kartavya gaḷalli) śīghravāgi prerisatakka nīnu*) (you who urge us promptly (in duties)). स्वश्वं-श्रेष्ठवाद अश्वदिंद कूडिरुव फलवन्नु (*svaśvaṃ-śreṣṭhavāda aśvadiṃda kūḍiruva phalavannu*) (the fruit endowed with excellent horses). ररिषे- कॊडुत्तीयॆ ! पुरूवसुः-प्रभूतवाद धनवुळ्ळ (*rariṣe- kòḍuttīyè ! purūvasuḥ-prabhūtavāda dhanavuḷḷa*) (you give! (the "!" is printed in place of a danda) and, endowed with abundant wealth). त्वं-नीनु (*tvaṃ-nīnu*) (you). नरां--नरर (*narāṃ--narara*) (of men). शर्धः-शक्ति रूपवागि (*śardhaḥ-śakti rūpavāgi*) (as the strength). असि-इद्दीयॆ (*asi-iddīyè*) (you are).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you, in the form of Tvaṣṭṛ, give wealth endowed with excellent heroism to the people who serve you. All the praises in the form of hymns are yours. O Agni of lustre beneficial to the world, observe kinship with us. You who urge us promptly in our duties give the fruit endowed with excellent horses. You, endowed with abundant wealth, are the strength of men.
+
+*[As supplied, the label line of the printed English reads English Translatin (*English Translatin*) (sic), run on without a blank line; standard label inserted.]*
+
+**Printed English translation**
+
+You, Agni, are Twashtri, (the giver) of great wealth to (your) worshipper : these praises are yours : do you, of benevolent power, (admit) our affinity : you, who are prompt to encourage (us), give us good (store of) horses : you, who abound with opulence, are the strength of men.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 5)**
+
+त्वष्टा—फलस्य साधु संपदयिता (*tvaṣṭā—phalasya sādhu saṃpadayitā*) (as printed): for this word the bhāṣyakāra has taken the sense of one who well provides the sacrificers with the fruit of sacrificial rites and the like. Or the word *tvaṣṭā* may also be said to mean the divine craftsman named त्वष्टनामकनाद देवशिल्पि (*tvaṣṭanāmakanāda devaśilpi*). As the divine craftsman (printed तृष्ण (*tṛṣṇa*)) makes for the gods the implements they need, in the same way you (Agni) too are one who gives all kinds of wealth and prosperity to the gods and to men: this is the purport.
+
+ग्नावः— ग्नावो याः स्तुतिवाचः संति तास्तव स्वभूताः (*gnāvaḥ— gnāvo yāḥ stutivācaḥ saṃti tāstava svabhūtāḥ*): the word ग्नाः (*gnāḥ*) is read among the names of speech (नि. २-२३ (*ni. 2-23*); the print has वाज्ञाम (*vājñāma*), as printed). Since all praise sentences are on your behalf, the purport is that you are of the very form of the praise sentences.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्ने रु॒द्रो असु॑रो म॒हो दि॒वस्त्वं शर्धो॒ मारु॑तं॒॑
+> पृ॒क्ष ई॑शिषे ।
+
+> *tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ*
+> *pṛkṣa īśiṣe |*
+
+*(The Saṃhitā of Ṛk 6 begins at the end of the window; the supplied text breaks off after these two lines, at पृक्ष ईशिषे (*pṛkṣa īśiṣe*).)*
+
 ---
 
-**Progress note:** Done through printed p. 397 (PDF 397). Mandala 2 Sukta 1 Rik 2 complete; Rik 3 complete; Rik 4 Samhita, Pada and the first lines of the bhashya; one reading marked with a query
+**Progress note:** Done through printed p. 400 (PDF 400). Mandala 2 Sukta 1 Rik 4 complete; Rik 5 complete; Rik 6 Samhita begun (two lines); figure line viewed, two words corrected to the image
