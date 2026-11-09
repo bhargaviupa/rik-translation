@@ -12363,6 +12363,107 @@ You, Agni, are (ever) resplendent, and are to be glorified when present ; you ar
 
 आतनिगॆ—फलस्य सर्वतो विस्तारयिता (*ātanigè—phalasya sarvato vistārayitā*) (the print has आतनिगॆ (*ātanigè*) for *ātaniḥ*): one who gives in abundance the fruits that the sacrificial rites and the like should obtain; this is the purport (the supplied text ends here, at the end of the window).
 
+### Printed p. 416
+
+*Running head (as supplied): [416 सायणभाष्यसहिता [मं. २ अ. १. सू. १.] (*[416 sāyaṇabhāṣyasahitā [maṃ. 2 a. 1. sū. 1.]*).*
+
+*(No grammar page of Ṛk 10 is present at the head of this page; it opens directly with the Saṃhitā of Ṛk 11, the verse numeral ೧೧ being printed at its end.)*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्ने॒ अदि॑तिर्देव दा॒शुषे॒ त्वं होत्रा॒भार॑ती वर्धसे गि॒रा।
+> त्वमीळा॑ श॒तहि॑मासि॒ दक्ष॑से॒ त्वं वृ॑त्र॒हा व॑सुपते॒ सर॑स्वती ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । अदितिः । देव । दाशुषे । त्वं । होत्रा । भारती । वर्धसे । गिरा ।
+> त्वं । इळा । शतहिमा । असि । दक्षसे । त्वं । वृत्रहा । वसुपते । सरस्वती ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने देव त्वं दाशुषे हविर्दत्तवते यजमानायादितिरखंडयिता परि-
+> पालयितासि । यद्वा आदीना भूमिरसि । किंच त्वं होत्रा होमनिष्प्रादका भारती
+> भरतस्यादित्यस्यादित्यसंबंधिनी रश्मिरूपा सती गिरा स्तुत्या वर्धसे । प्रवृद्दो भवसि ।
+> किंच त्वं शतहिमा । हिमशब्दः कालोपलक्षकः । अपरिमितकाला नित्येळा भूमिरसि ।
+> तादृशी सती दक्षसे दानाय समर्था भवसि ॥तिज उत्तरत्वादनिघातः ॥तथा हे वसुपते
+> धनपालक वृत्रहा पापादेर्हंता त्वं सरस्वती । सरणवान्वायुः । तत्संबंधिन्येतन्नि-
+> यामका माध्यमिकासि । आदित्याग्नि वायूनां संबंधिन्नो भारतीळासरस्वत्याख्या
+> यास्तिस्रो देव्यः संति ता अपि त्वमेवेत्यर्थः 8
+
+*(The bhāṣya block ends with the printed character 8 (*8*), in place of a danda, as supplied.)*
+
+*Gist:* Agni is Aditi to the donor, Hotrā and Bhāratī (sun's rays), Ilā (earth) of a hundred seasons, and Sarasvatī (wind).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देव—देवतात्मनाद (*deva—devatātmanāda*) (of divine self). अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). दाशुषे—हविस्सन्नु अर्पिसुव यजमाननिगॆ (*dāśuṣe—havissannu arpisuva yajamānanigè*) (to the sacrificer who offers oblations). अदितिः—पूर्णपालकळाद आदितियागि इद्दीयॆ (*aditiḥ—pūrṇapālakaḷāda āditiyāgi iddīyè*) (you are Aditi, the complete protector). त्वं—नीनु (*tvaṃ—nīnu*) (you). होत्रा—होमसंपादकियाद होत्रळागियू (*hotrā—homasaṃpādakiyāda hotraḷāgiyū*) (as Hotrā, the accomplisher of homa). भारती—आदित्यसंबंधियाद भारतिया गियू (*bhāratī—ādityasaṃbaṃdhiyāda bhāratiyā giyū*) (as Bhāratī, connected with the Āditya (the entry is divided by a line break in the print)). गिरा—स्तुतियिंद (*girā—stutiyiṃda*) (by praise). वर्धसे—प्रवृद्धनागुत्तीयॆ (*vardhase—pravṛddhanāguttīyè*) (you thrive). त्वं—नीनु (*tvaṃ—nīnu*) (you). शतहिमा— शतसंख्याकवाद कालवुळ्ळ ऎंदरॆ नित्यळाद (*śatahimā— śatasaṃkhyākavāda kālavuḷḷa èṃdarè nityaḷāda*) (of a hundred seasons, that is, the eternal one). इळा—इळारूपदल्लि (*iḷā—iḷārūpadalli*) (in the form of Iḷā). आसि—इद्दीयॆ. (मत्तु) (*āsi—iddīyè. (mattu)*) (you are (and)). दक्षसे—दानादिगळिगू समर्थनागिद्दीयॆ (*dakṣase—dānādigaḷigū samarthanāgiddīyè*) (you are capable of giving and the like). वसुपते—धनक्कॆ पालकनाद ऎलै अग्निये वृत्रहा—पापादिगळ हंतकनाद (*vasupate—dhanakkè pālakanāda èlai agniye vṛtrahā—pāpādigaḷa haṃtakanāda*) (O Agni, protector of wealth, destroyer of sin and the like). त्वं—नीनु (*tvaṃ—nīnu*) (you). सरस्वती—(वायुसंबंधियाद) (*sarasvatī—(vāyusaṃbaṃdhiyāda)*) ((connected with the wind)). असि— सरस्वतियागियू इद्दीयॆ. (*asi— sarasvatiyāgiyū iddīyè.*) (you are also Sarasvatī).
+
+*[As supplied, the label line of the Bhāvārtha reads भानुवार (*bhānuvāra*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, of divine self, to the sacrificer who offers oblations you are Aditi, the complete protector. You thrive by praise, as Hotrā, the accomplisher of homa, and as Bhāratī, connected with the Āditya (the sentence continues on the next page).
+
+### Printed p. 417
+
+*Running head (as supplied): [अ. २. अ. ५. व. १९ ] ऋग्वेदसंहिता 417 (*[a. 2. a. 5. va. 19 ] ṛgvedasaṃhitā 417*).*
+
+You are in the form of Iḷā (the earth), the eternal; and you are capable of giving and the like. O Agni, protector of wealth, destroyer of sin and the like, you are also Sarasvatī, connected with the wind.
+
+**Printed English translation**
+
+You, divine Agni, are Aditi to the donor of the oblation; you are Hotra and Bharati, and thrive by praise ; you are Ila of a hundred winters to him who makes you gifts ; you, lord of wealth, are the destroyer of Vritra, Saraswati.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 11)**
+
+अदितिः—अखंडयिता परिपालयितासि । यद्वा अदीना भूमिरसि (*aditiḥ—akhaṃḍayitā paripālayitāsi | yadvā adīnā bhūmirasi*): you are an uninterrupted protector, that is, you are always protecting us; or you are a nourisher like the earth. The word *aditi* is read among the names of the earth (नि. २-५ (*ni. 2-5*)), among the names of speech (नि ३-२३ (*ni 3-23*)), among the names of the cow (नि ३-९ (*ni 3-9*)) and among the names of heaven and earth (here *āditī* in the dual) (नि ३-२२ (*ni 3-22*)). Here the bhāṣyakāra has taken the meaning "earth". The extended explanation and discussion of the word *aditi* we have given in ऋ. सं. भाग 8, पुट 559 (*ṛ. saṃ. bhāga 8, puṭa 559*).
+
+भारती भरतस्यादित्यस्य संबंधिनी रश्मिरूपा सती (*bhāratī bharatasyādityasya saṃbaṃdhinī raśmirūpā satī*): Bharata is one of the twelve Ādityas. The lustre of an Āditya is called भा (*bhā*). Therefore *Bhāratī* means the light of the sun, or the Agni that exists in the sun's disc in the form of light. Here a relation of the rays of Agni with the rays of the Āditya is stated. Since it is said that Agni himself exists in the heavenly region in the form of the sun, there is a relation between the rays of the sun and the rays of Agni.
+
+इळा—भूमिरसि (*iḷā—bhūmirasi*): since the word *iḷā* is read among the names of the earth (नि. २-५ (*ni. 2-5*)), the meaning is the earth.
+
+सरस्वती—सरणवान्वायुः । तत्संबंधिन्येतन्नियामका माध्यमिकासि (*sarasvatī—saraṇavānvāyuḥ | tatsaṃbaṃdhinyetanniyāmakā mādhyamikāsi*): here the bhāṣyakāra has explained the word *sarasvatī* as the wind, which has a moving nature, and therefore as a deity of the middle region (the atmosphere). आदित्याग्निवायूनां संबंधिन्यो भारतीळासरस्वत्याख्या यास्तिस्रो देव्यः संति ता असि त्वमेवेत्यर्थः (*ādityāgnivāyūnāṃ saṃbaṃdhinyo bhāratīḷāsarasvatyākhyā yāstisro devyaḥ saṃti tā asi tvamevetyarthaḥ*): that is, Agni is praised as being the very form of the three goddesses named Bhāratī, Iḷā and Sarasvatī, connected with the Āditya, fire and wind.
+
+*[A stray ornament line of the supplied text, _______:o:_______ (*_______:o:_______*), and a stray line [27] Vol. 14. (*[27] Vol. 14.*) are kept as italic notes in the Kannada text.]*
+
+### Printed p. 418
+
+*Running head (as supplied): [418 सायणभाष्यसहिता [मं. २. अ. १. सू. १] (*[418 sāyaṇabhāṣyasahitā [maṃ. 2. a. 1. sū. 1]*).*
+
+*[As supplied, the label line of the Saṃhitā of Ṛk 12 reads संहारं (*saṃhāraṃ*). In the Saṃhitā the word at the beginning of the second printed line of each Saṃhitā line is joined to its line, and the hyphen-split word is joined. No Pada label is printed; the Pada lines are given as a block with the standard label inserted. As supplied, the label line of the bhāṣya reads आयुधभाष्य c (*āyudhabhāṣya c*); standard label inserted. One reading of the Saṃhitā is marked with a query, as it differs from the Pada.]*
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> त्वम॑ग्ने॒ सुभृ॑त उत्त॒मं वय॒स्तव॑ स्पा॒र्हे वर्ण॒ आ सं॒दृशि॒ त्रियः॑ [?] ।
+> त्वं वाजः॑ प्र॒तर॑णो ब्र॒हन्न॑सि॒ त्वं र॒यिर्ब॑हु॒लो वि॒श्वत॑स्पृ॒थुः ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । सुभृतः । उत्तमं । वयः । तव । स्पार्हे । वर्णे । आ । संदृशि । श्रियः ।
+> त्वं । वाजः । प्रतरणः । बृहन् । असि । त्वं । रयिः । बहुलः । विश्वतः । पृथुः ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने त्वं सुभृतः सुष्टु पोषितः सन् उत्तमं निरतिशयं वयोऽन्नमा-
+> युष्यं वा त्वमसि । तत्संपादकोऽसित्यर्थः । तथा तव स्पार्हे स्पृहणीये वर्णॆ
+> लोहितशुक्लादिलक्षणे संदृशि सम्यग्दर्शनीये श्रिय ऐश्वर्याणि कांतयो वाश्रित्य
+> वर्तंते ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ किंच त्वं वाजोऽन्नं । तत्साध-
+> कत्वात्ताच्छब्दं । अन्नसाधक इत्यर्थः । प्रतरणः प्रतारयिता पापात् । अत एव बृहन्
+> महानसि । तथा त्वं रयिर्धनरूपोऽसि । बहुलः सर्वविषयबाहुल्योपेतो विश्वतः
+> पृथुविस्तीर्णः प्रख्यात इत्यर्थः ॥
+
+*Gist:* Well nourished, Agni gives the best food or life; fortunes abide in his lovely colour; he is food, saviour from sin, great wealth, renowned.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने—ऎलै अग्निये (*agne—èlai agniye*) (O Agni). त्वं—नीनु (*tvaṃ—nīnu*) (you). सुभृतः—चॆन्नागि पोषितनादाग (*subhṛtaḥ—cènnāgi poṣitanādāga*) (when well nourished). उत्तमं— निरतिशयवाद (*uttamaṃ— niratiśayavāda*) (of the highest). वयः—अन्न (आयुस्स) संपादकवागुवॆ (*vayaḥ—anna (āyussa) saṃpādakavāguvè*) (you are the accomplisher of food (life)). तव—निन्न (*tava—ninna*) (your). स्पार्हे—आकर्षक वादुदू (*spārhe—ākarṣaka vādudū*) (attractive). वर्णे—लोहितादिरूपवुळ्ळद्दू (*varṇe—lohitādirūpavuḷḷaddū*) (having the form red and the like). सुदृशि—दर्शनीयवादुदू आद स्वरूपदल्लि (*sudṛśi—darśanīyavādudū āda svarūpadalli*) (in the visible form (the printed word is "sudṛśi")). श्रियः—ऐश्वर्यगळु अथवा कांतिगळु (*śriyaḥ—aiśvaryagaḷu athavā kāṃtigaḷu*) (fortunes or splendours). आ—अडगिवॆ (*ā—aḍagivè*) (abide). त्वं—नीनु (*tvaṃ—nīnu*) (you). वाजः—अन्नवु (अन्नसाध कनु) (*vājaḥ—annavu (annasādha kanu)*) (food (the accomplisher of food)). प्रतरणः—(पापदिंद) दाटिसतक्कवनु (*prataraṇaḥ—(pāpadiṃda) dāṭisatakkavanu*) (the one who carries (across sin)). बृहन्—महात्मनागि (*bṛhan—mahātmanāgi*) (great). असि—आगिद्दीयॆ (*asi—āgiddīyè*) (you are). त्वं—नीनु (*tvaṃ—nīnu*) (you). रयिः—धनरूपनागिद्दीयॆ (*rayiḥ—dhanarūpanāgiddīyè*) (you are wealth). बहुलः—नाना स्वरूपवुळ्ळवनू (*bahulaḥ—nānā svarūpavuḷḷavanū*) (of manifold forms). विश्वतः—ऎल्ला कडॆगळल्लू (*viśvataḥ—èllā kaḍègaḷallū*) (everywhere). पृथुः—विस्त्रतवादवनू आगिद्दीयॆ. (*pṛthuḥ—vistratavādavanū āgiddīyè.*) (and extensive).
+
+*(The supplied text ends here, at the end of the Pratipadārtha of Ṛk 12; the Bhāvārtha follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 415 (PDF 415). Mandala 2 Sukta 1 Rik 9 complete; Rik 10 complete through the Special Topics; two readings marked with a query
+**Progress note:** Done through printed p. 418 (PDF 418). Mandala 2 Sukta 1 Rik 11 complete; Rik 12 through the Pratipadartha; one reading marked with a query
