@@ -13088,6 +13088,111 @@ The word पृश्नि (*pṛśni*) is read among the six common names begi
 
 *(The supplied text ends here, at the end of p. 437; the Special Topics of Ṛk 4 may continue in the next window.)*
 
+### Printed p. 438
+
+*Running head (as supplied): [438 सायणभाष्यसहिता [ मं. २. अ. १. सू २] (*[438 sāyaṇabhāṣyasahitā [ maṃ. 2. a. 1. sū 2]*).*
+
+*(Continuation of the Special Topics of Ṛk 4 of Sūkta 2 of Maṇḍala 2.)*
+
+दमे (*dame*): the word is read among the names of house (नि. ३-१३ (*ni. 3-13*)). Here too it is used in the sense of a dwelling-house.
+
+#### Ṛk 5
+
+*[A figure line of the supplied text, an image repeating the Saṃhitā and Pada of this ṛk, was viewed. One word of the Saṃhitā shows a doubled letter in the image and is corrected to the image, as noted in the Kannada text; the other words agree with the machine text. Split lines of the Saṃhitā and Pada are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> स होता॒ विश्वं॒ परि॑ भूत्वध्व॒रं तमु॑ ह॒व्यैर्मनु॑ष ऋंजते गि॒रा ।
+> हि॒रि॒शि॒प्रो वृ॑धसा॒नासु॒ जर्भु॑र॒द्द्यौर्न स्तृभि॑श्चितय॒द्रोद॑सी॒ अनु॑ ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । होता । विश्वं । परि । भूतु । अध्वरं तं । ऊं इति । हव्यैः । मनुषः । ऋंजते । गिरा ।
+> हिरिशिप्रः । वृधसानासु । जर्भुरत् । द्यौः । न । स्तृभिः । चितयत् । रोदसी इति । अनु ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सोग्निर्होता होमनिष्पादकः सन् विश्वं सर्वमध्वरं यागं परिभूतु ।
+> हरितो भवतु । तमु तमेवाग्निं हव्यैर्हविर्भिर्गिरा स्तुत्या च मनुषो मनुष्या
+> यंजते । प्रसाधयंति ॥ ऋंजतिः प्रसाधनकर्मा ॥ हिरिशिप्रो हरणशीलहनुर्दिपो-
+> ष्टीषो वा । शिप्राः शीर्षसु वितता हिरण्ययाः । ५.५४-११ । इत्यादिमंत्रांतरात् ।
+> वृधसानासु प्रवर्धमानास्वोषधीषु ज्वालासु ना जर्भुरत् । पूर्यमाणो यज्ञं
+> गंता ॥ शत्रंतं पदं । यद्वा द्वितीयार्थे सप्तमी ॥ वर्धमाना ओषधीर्जर्भुरत् ।
+> पुनःपुनर्दहन्नित्यर्थः । द्यौर्द्युलोकांतरिक्षं स्तृभिर्ननक्षत्रैरिव रोदसी अनु
+> द्यावापृथिव्यावनु चितयत् । चेतयति । ज्वालाभिर्विस्फुलिंगैश्च भुवमंतरिक्षं च
+> व्याप्नोतीत्यर्थः ॥
+
+*Gist:* Agni the hotṛ surrounds the sacrifice; men adorn him with oblations and praise; he burns plants and pervades heaven and earth like stars.
+
+*(The bhāṣya contains short grammatical remarks on the participle and on the use of the seventh case for the second; they are transcribed in the block and not explained. The bhāṣya reads यंजते (*yaṃjate*) where the Saṃhitā has a different first letter, as printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः—अग्नियु (*saḥ—agniyu*) (he, Agni). होता—होमसंपादकनागि (*hotā—homasaṃpādakanāgi*) (as the accomplisher of homa). विश्वं अध्वरं—समस्तयागवन्नू (*viśvaṃ adhvaraṃ—samastayāgavannū*) (the entire sacrifice). परि भूतु—सुत्तुवरिदु निल्ललि (*pari bhūtu—suttuvaridu nillali*) (let him stand surrounding). तमु—अदे अग्नियन्नु (*tamu—ade agniyannu*) (that same Agni). हव्यैः—हविस्सुगळिंदलू (*havyaiḥ—havissugaḷiṃdalū*) (with oblations). गिरा— स्तुतियिंदलू सह (*girā— stutiyiṃdalū saha*) (with praise also). मनुषः—मानवरु (*manuṣaḥ—mānavaru*) (men). ऋंजते—अलंकरिसुत्तारॆ (*ṛṃjate—alaṃkarisuttārè*) (they adorn). हिरिशिप्रः—प्रकाशमान (*hiriśipraḥ—prakāśamāna*) (radiant (the word is divided by the page break and completed in the next entry)).
+
+### Printed p. 439
+
+*Running head (as supplied): [अ. २. अ. ५. व. २०.] ऋग्वेदसंहिता 439 (*[a. 2. a. 5. va. 20.] ṛgvedasaṃhitā 439*).*
+
+*(Continuation of the Pratipadārtha of Ṛk 5, the entry at the end of the previous page being completed.)*
+
+वाद ज्वालॆयुळ्ळ अग्नियु (*vāda jvālèyuḷḷa agniyu*) ((completing the previous entry) having flames, Agni). वृधसानासु—दट्टवागि बॆळॆदिरुव ओषधिगळ पॊदॆयल्लि (*vṛdhasānāsu—daṭṭavāgi bèḷèdiruva oṣadhigaḷa pòdèyalli*) (in the thicket of densely grown plants). जर्भुरत्— दहिसुत्ता (*jarbhurat— dahisuttā*) (burning). स्तृभिः—नक्षत्रगळिंद (*stṛbhiḥ—nakṣatragaḷiṃda*) (with the stars). द्यौ: न - अंतरिक्षवन्नु कांतियुतवन्नागि माडुवंतॆ (*dyau: na - aṃtarikṣavannu kāṃtiyutavannāgi māḍuvaṃtè*) (as one makes the atmosphere bright (the head word is printed with a colon)). रोदसी अनु—द्यावापृथिविगळॆरडन्नू (*rodasī anu—dyāvāpṛthivigaḷèraḍannū*) (both heaven and earth). चितयत्—चैतन्ययुक्तवागुवंतॆ माडुत्तानॆ. (*citayat—caitanyayuktavāguvaṃtè māḍuttānè.*) (he makes them animate).
+
+**भावार्थ (Bhāvārtha)**
+
+May Agni, the accomplisher of homa, stand surrounding the whole sacrifice. Men adorn that same Agni with oblations and with praise. Agni, with radiant flames, burning the thicket of densely grown plants, makes heaven and earth animate, as one makes the atmosphere bright with stars.
+
+**Printed English translation**
+
+May he, the presenter of oblations (to the gods), be around all sacrifices ; men propitiate him with oblations and with praises, when blazing with radiant tresses amongst the growing plants, and enlivening heaven and earth (with his sparks), like the sky with stars.
+
+**Viśeṣaviṣayagaḷu (Special Topics, Ṛk 5)**
+
+The meaning that Agni is the object denoted by the word होतृ (*hotṛ*), which denotes the priest called *hotṛ*, one of the priests, is given here for the word होता (*hotā*); the meaning "accomplisher of homa" is also explained. It is described that men worship this Agni हव्यैः गिरा यंजते (*havyaiḥ girā yaṃjate*) (as printed), with oblations and with praises, so that he may be pleased.
+
+हिरिशिप्रः—हरणशीलदीपोष्टीषो वा (*hiriśipraḥ—haraṇaśīladīpoṣṭīṣo vā*) (as printed): it is explained that Agni wears a charming and very radiant turban. Here the word शिप्र (*śipra*) is explained as "turban", and a ṛk in which this word is used in this sense is cited: अंसेषु वा ऋष्टयः पत्सु खादयो वक्षस्सु रुक्मा मरुतो रथे शुभः । (*aṃseṣu vā ṛṣṭayaḥ patsu khādayo vakṣassu rukmā maruto rathe śubhaḥ |*) अग्निभ्राजसो विद्युत्तो गभस्तोः शिप्राः शीर्षसु वितता हिरण्ययीः ॥ (*agnibhrājaso vidyutto gabhastoḥ śiprāḥ śīrṣasu vitatā hiraṇyayīḥ ‖*) (ऋ. सं. ५-५४-११ (*ṛ. saṃ. 5-54-11*)) (rendered loosely: on the shoulders spears, on the feet anklets, on the breasts golden ornaments; the Maruts are splendid on the chariot; fire-bright and flashing, with golden turbans spread on their heads).
+
+वृधसानासु जर्भुरत् (*vṛdhasānāsu jarbhurat*): प्रवर्धमानास्वोषधीषु ज्वालासु वा पूर्यमाणो यज्ञं गंता । यद्वा द्वितीयार्थे सप्तमी । वर्धमाना ओषधीः पुनः पुनः दर्ह । (*pravardhamānāsvoṣadhīṣu jvālāsu vā pūryamāṇo yajñaṃ gaṃtā | yadvā dvitīyārthe saptamī | vardhamānā oṣadhīḥ punaḥ punaḥ darha |*) (as printed) Agni, spreading in the growing herbs or in his own flames, enters the sacrificial house; and, since the seventh case in the word वृधसानासु (*vṛdhasānāsu*) has come in the sense of the second case, he is one who devours the growing herbs now and then: two kinds of meaning are explained.
+
+### Printed p. 440
+
+*Running head (as supplied): [440 सायणभाष्यसहिता [ मं २. अ. १. सू २.] (*[440 sāyaṇabhāṣyasahitā [ maṃ 2. a. 1. sū 2.]*).*
+
+दौ स्तृभिर्न रोदसी अनु चितयत् (*dau stṛbhirna rodasī anu citayat*) — नक्षत्रैरिव ज्वालाभिः विस्फुलिंगैश्च भुवमंतरिक्षं च व्याप्न्नोति (*nakṣatrairiva jvālābhiḥ visphuliṃgaiśca bhuvamaṃtarikṣaṃ ca vyāpnnoti*) (as printed; a line-end hyphen inside it is joined): it is described that Agni, as the stars pervade the atmosphere, pervades the earth and the atmosphere with his flames and sparks.
+
+#### Ṛk 6
+
+*[Four readings of the Saṃhitā and Pada are marked with a query, as the Saṃhitā and the Pada differ in a letter in the words concerned. Split lines are joined. As supplied, the label line of the bhāṣya reads कयणभाष्यं (*kayaṇabhāṣyaṃ*), inside the Pada block; standard label inserted.]*
+
+**॥ संहितापाठः ॥**
+
+> स नो॑ रे॒वत् [?]स॑मिधा॒नः स्व॒स्तये॑ संदद॒स्वान्व॒यिम॒स्मासु॑ [?] दीदिहि ।
+> आ नः॑ कृणुष्व [?] सुवि॒ताय॒ रोद॑सी॒ अग्ने॑ ह॒व्या मनु॑षो देव वी॒तये॑ ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । नः । रेषत् । संइधानः । स्वस्तये । संददस्वान् । रयिं । अस्मासु । दीदिहि ।
+> आ । नः । कृणुष्ट । सुविताय । रोदॆसी [?] इति । अग्ने । हव्या । मनुषः । देव । वीतये ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने स तादृशत्त्वं नोऽस्माकं स्वस्तये । स्वस्तीत्यविनाशनाम । क्षेमाय
+> रेवद्रयिमद्रयिं धनं उपर्युपरिवृद्धिमद्दानयोग्यं वा धनमस्मासु संददस्वान्
+> सम्यक् प्रयच्छन् समिधानोऽस्माभिः सम्यगिध्यमानः सन् दीदिहि । दीप्यस्व । यद्वा
+> रेवदिति क्रियाविशेषणं । रा धनं समृद्धिमद्यथा तथा दीप्यस्वति । तथाभूतः सन्
+> नोऽस्मभ्यं सुविताय सुहिताय शोभनफलाय रोदसी द्यावापृथिव्यावाकृणुष्ट ।
+> सर्वतः कुरुष्व । उभौ लोकौ भोगप्रदौ कुर्वित्यर्थः । किमर्थमिति तदुच्यते । हे
+> देवाग्ने मनुषो मनुष्यस्य यजमानस्य मम संबंधीनि हव्या हवींषि नीतये
+> देवेभ्यो भक्षणाय । पुनःपुनर्यागाद्यनुष्ठानायेत्यर्थः ॥
+
+*Gist:* Agni, kindled, is asked to give us wealth for welfare and make heaven and earth beneficial, so that oblations are offered to the gods repeatedly.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः—(ऎलै अग्निये) मेलॆ वर्णितवाद गुणगळुळ्ळ (*saḥ—(èlai agniye) melè varṇitavāda guṇagaḷuḷḷa*) (he, O Agni, having the qualities described above). नः—नम्म (*naḥ—namma*) (our). स्वस्तये—क्षेम क्कागि (*svastaye—kṣema kkāgi*) (for welfare). रेवत् रयिं—वृद्धियन्नु हॊंदि दानक्कॆ योग्यवाद धनवन्नु (*revat rayiṃ—vṛddhiyannu hòṃdi dānakkè yogyavāda dhanavannu*) (wealth that has increased and is fit for giving). आस्मासु—नमगॆ (*āsmāsu—namagè*) (to us). संददस्वान्.—कॊडुत्तलू (*saṃdadasvān.—kòḍuttalū*) (giving (printed with a full stop)). समिधानः—(नम्मिंद) प्रज्वलितनागियू (*samidhānaḥ—(nammiṃda) prajvalitanāgiyū*) ((by us) kindled). दीदिहि—प्रकाशिसु (*dīdihi—prakāśisu*) (shine).
+
+*(The supplied text ends here, in the middle of the Pratipadārtha of Ṛk 6, at the end of p. 440; the rest follows in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 437 (PDF 437). Mandala 2 Sukta 2 Rik 3 complete; Rik 4 complete through the Special Topics as supplied
+**Progress note:** Done through printed p. 440 (PDF 440). Mandala 2 Sukta 2 Rik 5 complete; Rik 6 Samhita, Pada, bhasya and the start of the Pratipadartha; four readings marked with a query; one Samhita word corrected to the figure image
