@@ -8768,6 +8768,96 @@ explaining the derivation of the word *jīra* in this ṛk, Sāyaṇa says that 
 
 In this ṛk the Aśvin deities are prayed to make our rite *jīrādhvara*; here *jīrādhvara* means a sacrifice that is performed unobstructed by hindrances, without violence, and quickly (the supplied text breaks off here, at the end of the window).
 
+### Printed p. 297
+
+*Running head: [Aṣṭaka 2. Adhyāya 5 Varga 11] Ṛgveda-saṃhitā 297 (as supplied).*
+
+*(Continuation of the Special Topics of Ṛk 8 of Sūkta 189, on *jīradānuṃ*.)*
+
+पृषे ता विश्वा भुवना ववक्षिरे मित्राय ना सदमा जीरदानवः । (*pṛṣe tā viśvā bhuvanā vavakṣire mitrāya nā sadamā jīradānavaḥ |*)
+पृषदश्वासो अनवभ्रराधस ऋजिप्यासो न वयुनेषु धूर्षदः ॥ (*pṛṣadaśvāso anavabhrarādhasa ṛjipyāso na vayuneṣu dhūrṣadaḥ ‖*)
+(म. सं. २-३४-४) (*(ma. saṃ. 2-34-4)*)
+
+In this and other places *jīradānavaḥ* is an epithet of the Maruts; the sense is those who very quickly fulfil the wishes of the sacrificer. Likewise the compounds जीराश्वः (*jīrāśvaḥ*) and जीराश्वं (*jīrāśvaṃ*) are epithets of Agni and other deities, or sometimes of their chariot.
+
+आ वां रथं पुरुमायं मनोजुवं जीराश्वं यज्ञियं जीवसे हुवे । (*ā vāṃ rathaṃ purumāyaṃ manojuvaṃ jīrāśvaṃ yajñiyaṃ jīvase huve |*)
+सहस्रकेतुं वनिनं शतद्वसुं श्रुष्टिवानं वरिवोधामभि प्रयः ॥ (*sahasraketuṃ vaninaṃ śatadvasuṃ śruṣṭivānaṃ varivodhāmabhi prayaḥ ‖*)
+(म. सं. १-११९-१) (*(ma. saṃ. 1-119-1)*)
+
+In these and other ṛks the chariot of the Aśvin deities is described as having swiftly running horses. Likewise the word *dānu* too, used separately and also in the compounds *sudānavaḥ* and *jīradānavaḥ*, gives a sense suited to the context. From the context cited by the Nirukta-authors it is known that the word *dānu* gives the sense either "giver" or "demon".
+
+स्तुषेय्यं पुरुवर्ससमृभ्वमिनतममास्त्यमाप्त्यानां । (*stuṣeyyaṃ puruvarsasamṛbhvaminatamamāstyamāptyānāṃ |*)
+आ दर्षते शवसा सप्त दानून् प्र साक्षते प्रतिमानानि भूरि ॥ (*ā darṣate śavasā sapta dānūn pra sākṣate pratimānāni bhūri ‖*)
+(पु. सं. १०-१२०-६) (*(pu. saṃ. 10-120-6)*)
+
+In explaining this ṛk the Nirukta-authors say that the words सप्त दानून् (*sapta dānūn*) mean सप्त दात्यन् इति वा सप्त दानवान् इति वा (*sapta dātyan iti vā sapta dānavān iti vā*): "seven givers" or "seven demons". But how in such contexts the word *dānu* can have the sense "demon", Max Müller, pointing out his own difficulty (the print has "ತನ್ನ ಕೇಶವನ್ನು" as supplied), says as follows:
+
+It must be confessed that even the meaning of Danu is by no means quite clear. (*It must be confessed that even the meaning of Danu is by no means quite clear.*)
+It is clear enough where it means Demon, II. 11, 18 : II. 12. 11 ; IV. 30.7 : (*It is clear enough where it means Demon, II. 11, 18 : II. 12. 11 ; IV. 30.7 :*)
+X. 120-6; The seven Demons, in I. 32.9; III. 30.8 ; Danu, Demon is applied to (*X. 120-6; The seven Demons, in I. 32.9; III. 30.8 ; Danu, Demon is applied to*)
+the mother of Vritra' the dark cloud; From this Danu we have the derivative (*the mother of Vritra ' the dark cloud; From this Danu we have the derivative*)
+Danava, meaning again Demon, why the demons conquered by Indra, were (*Danava, meaning again Demon, why the demons conquered by Indra, were*)
+called Danu is not clear, unless they were conceived originally as dark clouds, (*called Danu is not clear, unless they were conceived originally as dark clouds,*)
+like Danu, the mother of Indra. Danu might mean wise or even powerful, for (*like Danu, the mother of Indra. Danu might mean wise or even powerful, for*)
+this meaning also is ascribed to Danu by the author of Unadi Sutras. (*this meaning also is ascribed to Danu by the author of Unadi Sutras.*)
+[ S. B. E. XXXII. P. 114-115 ] (*[ S. B. E. XXXII. P. 114-115 ]*)
+
+### Printed p. 298
+
+*Running head: [298 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. . 24. Sū. 188] (as supplied; the print has the sūkta number 188 and a blank for the adhyāya sign).*
+
+*Dānu* is the name of the mother of Vṛtra, an asura-woman; this scholar asks how her sons should have come to be called *dānu* when they ought to be *dānava*. It is also understood from the Uṇādi sūtra that the word may have the senses "power" and "wise". But the sense "giver" is the better known. So if *jīra* means "swift" and *dānu* "gift", then in the present ṛk "swift gift" would be the sense; but Sāyaṇa has taken "victorious gift". Since the word *jīra* is used in many places in the sense of "impelling", here the sense "victory-impelling gift" may be taken. In general the word *jīradānavaḥ* is mostly used as an epithet of the Maruts.
+
+पृक्षे ता विश्वा भुवना ववक्षिरे मित्राय ना सदमा जीरदानवः ॥ (*pṛkṣe tā viśvā bhuvanā vavakṣire mitrāya nā sadamā jīradānavaḥ ‖*)
+(म. सं. २-३४-४) (*(ma. saṃ. 2-34-4)*)
+
+In these and other ṛks *jīradānavaḥ* is well known as the Maruts. (The print has "ಪೃಷೇ" in the first quotation on p. 297 and "ಪೃಕ್ಷೇ" here; both as printed.) And:
+
+वृषा न क्रुद्धः पतयद्रजःस्वा यो अर्यपत्नीरकृणोदिमा अपः । (*vṛṣā na kruddhaḥ patayadrajaḥsvā yo aryapatnīrakṛṇodimā apaḥ |*)
+स सुन्वते मघवा जीरदानवेऽविंदज्योतिर्मनवे हविष्मते ॥ (*sa sunvate maghavā jīradānave 'viṃdajyotirmanave haviṣmate ‖*)
+(म. सं. १०-४३-८) (*(ma. saṃ. 10-43-8)*)
+
+in these and other ṛks the word is also an epithet of the sacrificer who offers oblations and the like.
+
+*[As supplied, the label line reads व्याकरणक्रिया (*vyākaraṇakriyā*); standard label inserted.]*
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 8, noted briefly)
+
+अवोचाम (*avocāma*) (root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*)): in the Vedic manner *luṅ* in the present sense; by ब्रुवोवचिः (*bruvovaciḥ*) (पा. सू. २-४-५३ (*pā. sū. 2-4-53*)) the substitute *vac* for the root; by अस्यतिवक्तिख्या— (*asyativaktikhyā—*) (पा. सू. ३-१-८२ (*pā. sū. 3-1-82*)) the substitute *aṅ* for *cli*; when it follows, by वचउम् (*vacaum*) the augment *um*, with guṇa; being at the beginning of the pāda the *nighāta* accent does not occur; by the accent of the augment *aṭ* the first syllable is acute. मानस्य (*mānasya*) (root माज् माने (*māj māne*)): the suffix *ghañ*; being marked *ñ*, the first syllable is acute. In मानस्य सूनुः (*mānasya sūnuḥ*) the nominative has come in the sense of the locative by the statement सुपां सुपो भवंति (*supāṃ supo bhavaṃti*). सहसाने (*sahasāne*) (root षह मर्षणे (*ṣaha marṣaṇe*)): by धात्पादेः षः. सः (*dhātpādeḥ ṣaḥ. saḥ*) (पा. सू. ६-१-६४ (*pā. sū. 6-1-64*)) *s* for the initial; by ऋञ्चिवृधिमंदिसहिभ्यःकित् (*ṛñcivṛdhimaṃdisahibhyaḥkit*) (उ. सू. २-२६४ (*u. sū. 2-264*)) the suffix *asānac*; being marked *c*, by चितः (*citaḥ*) (पा. सू. ६-१-१६३ (*pā. sū. 6-1-163*)) the last syllable is acute; locative singular. सनेम (*sanema*) (root षण संभक्तौ (*ṣaṇa saṃbhaktau*)): as before *s* for the initial; *liṅ*, first person plural; by तिज्जतिजः (*tijjatijaḥ*) the *nighāta* accent.
+
+*(No colophon of Sūkta 189 is printed in the supplied text; the next lines begin the introduction to the following sūkta.)*
+
+### Printed p. 299
+
+*Running head: [ಅ. ೨. ಅ ೫. ವ. ೧೧.] Ṛgveda-saṃhitā 299 (as supplied).*
+
+*[As supplied, the heading line reads पि ळिकॆ. (*pi ḷikè.*) (garbled; apparently an introduction, *pīṭhike*, to the next sūkta); no sūkta-number line is printed in the supplied text, so no sūkta number is given here.]*
+
+**Introduction (to the next sūkta)**
+
+The deity of this sūkta is Bṛhaspati. Yāska, in his Nirukta, explaining the derivation of the word *bṛhaspati*, says:
+
+बृहस्पतिः बृहतः पाता ना पालयिता वा । (*bṛhaspatiḥ bṛhataḥ pātā nā pālayitā vā |*)
+(सि. १०-११) (*(si. 10-11)*)
+
+and Durgācārya the commentator says बृहतः महतोऽस्य जगतः उदकस्य ना पाता रक्षिता, पाल- यिता अपि रक्षितैव धात्वन्यत्वमर्थैकत्वं (*bṛhataḥ mahato 'sya jagataḥ udakasya nā pātā rakṣitā, pāla- yitā api rakṣitaiva dhātvanyatvamarthaikatvaṃ*): that is, protector or guardian of the great world, or of water. To convey the sense of *pati* the words *pātā* and *pālayitā*, formed from different roots, are given, though the sense is one. Sāyaṇa in many places, explaining *bṛhataḥ pātā*, gives for *bṛhataḥ* the sense बृहतः यज्ञाख्यकर्मणः (*bṛhataḥ yajñākhyakarmaṇaḥ*) or वृष्टाख्यकर्मणः (*vṛṣṭākhyakarmaṇaḥ*), that is, of the work in the form of sacrifice or the work in the form of giving rain. Since Bṛhaspati carries out the sacrificial work as priest of the gods and brings about the rain needed by men, both epithets are natural. The ṛk describing Bṛhaspati's priesthood and the giving of rain:
+
+यद्देवापिः शंतनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् । (*yaddevāpiḥ śaṃtanave purohito hotrāya vṛtaḥ kṛpayannadīdhet |*)
+देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥ (*devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖*)
+(म सं. १०-९८-७) (*(ma saṃ. 10-98-7)*)
+
+is given by Yāska as an example. In the explanation of this ṛk, बृहस्पतिर्ब्रह्मा- सीत् सोऽस्मै वाचमयच्छत् (*bṛhaspatirbrahmā- sīt so 'smai vācamayacchat*): Bṛhaspati, as the priest named Brahmā at the sacrifice made by the king Śantanu, taught the mantra in the form of speech, and when the sacrificer praised with that mantra, rain came about: so it is described. Besides, in the Yajurveda and elsewhere:
+
+बृहस्पतिर्देवानां पुरोहित आसीच्छंडामर्कावसुराणां । (*bṛhaspatirdevānāṃ purohita āsīcchaṃḍāmarkāvasurāṇāṃ |*)
+(तै. सं. ६-४-१०-१) (*(tai. saṃ. 6-4-10-1)*)
+
+it is said that Bṛhaspati was the priest of the gods and that Śaṇḍa and Marka were the priests of the asuras.
+
+ब्रह्म वै देवानां बृहस्पतिर्ब्रह्मण्यैव नमभिचरति । (*brahma vai devānāṃ bṛhaspatirbrahmaṇyaiva namabhicarati |*)
+(कृ. सं. २-२-९-१) (*(kṛ. saṃ. 2-2-9-1)*)
+
+(the supplied text breaks off here, at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 296 (PDF 296). Sukta 189 Rik 7 complete; Rik 8 (last rik) complete through printed English; Rik 8 Special Topics begun, breaks off in the jiradhvara note on p. 296
+**Progress note:** Done through printed p. 299 (PDF 299). Sukta 189 Rik 8 complete with grammar page (no colophon line in the supplied text); introduction to the next sukta (deity Brihaspati) begun on p. 299, no sukta-number line printed; breaks off at a Taittiriya-samhita quotation
