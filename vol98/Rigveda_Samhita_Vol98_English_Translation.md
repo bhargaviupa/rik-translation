@@ -6073,6 +6073,144 @@ Since *rasāśira* is said here, it means Soma mixed with either milk or curds.
 
 गवाशिरः (*gavāśiraḥ*): गोभिः आशिरः गवाशिरः (*gobhiḥ āśiraḥ gavāśiraḥ*); here the word *go* indicates cow-products such as milk. The root अशभोजने (*aśabhojane*); by अशेर्णित् (*aśerṇit*) (उ. सू. १-५२ (*u. sū. 1-52*)) the suffix *kirac*; because it is marked *ṇ*, by अतउपधायाः (*ataupadhāyāḥ*) (पा सू. ७-२-११६ (*pā sū. 7-2-116*)) vṛddhi of the first syllable; in the compound the first member keeps its natural accent. भजामहे (*bhajāmahe*) (root भज सेवायं (*bhaja sevāyaṃ*)): *bhvādi*, *laṭ*, first person plural; because of the connection with *yat* the *nighāta* accent does not occur; by तास्यनुदात्तेत् (*tāsyanudāttet*) (पा. सू. ६-१-१८६ (*pā. sū. 6-1-186*)) the *lasārvadhātuka* ending is unaccented, so the accent of the root remains.
 
+### Printed p. 212
+
+*Running head: [212 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 187] (as supplied).*
+
+*(The Ṛk 9 grammar page ended on p. 211; p. 212 begins directly with Ṛk 10.)*
+
+#### Ṛk 10
+
+*[As supplied, the label line reads संहाररु (*saṃhāraru*); standard label inserted. The Saṃhitā has सीवो [?] (*sīvo [?]*) and सीव [?] (*sīva [?]*) against the Pada's *pīvaḥ*; marked [?].]*
+
+**॥ संहितापाठः ॥**
+
+> क॒रं॒भ ओ॑षधे भव॒ सीवो॑ [?] वृ॒क्क उ॑दार॒थिः ।
+> वाता॑पे॒ सीव॒ [?] इद्भ॑व ॥ १० ॥
+
+> *karaṃbha oṣadhe bhava sīvo [?] vṛkka udārathiḥ |*
+> *vātāpe sīva [?] idbhava ‖ 10 ‖*
+
+*[The Pada of this Ṛk as supplied has a line reading only । । (*| |*) between its first and last lines; a line seems to be missing in the supplied text.]*
+
+**॥ पदपाठः ॥**
+
+> करंभः । ओषधे । भव । पीवः । वृक्कः । उदारथिः ।
+> । ।
+> वातापे । पीवः । इत् । भव ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> करंभो यः करंभादिरूपः सक्तुपिंडोऽस्ति तदात्मक हे ओषधे त्वं पीवः
+> स्थौल्यवान् वृक्को व्याधीर्वर्जयिता भव । उदारथिरूर्ध्वगम इंद्रियाणामुद्दीप-
+> यिता भव । शिष्टो गतः ॥
+
+*Gist:* O herb in the form of a lump of meal, be stout, a remover of disease, and a quickener of the senses; and, body, grow fat.
+
+*[As supplied, a line reading ॥ प्रतिसदार्थ ॥ (*‖ pratisadārtha ‖*) stands inside the bhāṣya block as the label; standard label inserted. The following lines carry block marks in the supplied text and are given as prose.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+करंभ—करंभ रूपवन्नु हॊंदिरुव (*karaṃbha—karaṃbha rūpavannu hòṃdiruva*) (having the form of *karambha*). ओषधे—ऎलै ओषधिये (नीनु) (*oṣadhe—èlai oṣadhiye (nīnu)*) (O herb, you). पीवः— पुष्टिदायकनागियू (*pīvaḥ— puṣṭidāyakanāgiyū*) (nourishing). वृक्कः—व्याधिवर्जितवाद आरोग्यवर्धकनागियू (*vṛkkaḥ—vyādhivarjitavāda ārogyavardhakanāgiyū*) (a giver of health free of disease). उदारथिः—(इंद्रि यगळिगॆ) चैतन्यदायकनागियू आगिरु (*udārathiḥ—(iṃdri yagaḷigè) caitanyadāyakanāgiyū āgiru*) (be a giver of vigour to the senses). वातापे—ऎलै शरीरवे (*vātāpe—èlai śarīrave*) (O body). पीव इत् भव—पुष वागिये बॆळॆ (*pīva it bhava—puṣa vāgiye bèḷè*) (grow stout).
+
+*[As supplied, the label line reads बानार्थ (*bānārtha*); standard label inserted.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O herb in the form of *karambha*, be nourishing, a giver of health free of disease, and a giver of vigour to the senses. O body, grow well nourished.
+
+**Printed English translation**
+
+Vegetable cake of fried meal, be substantial, wholesome, and invigorating ; and, Body, do you grow fat.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the herb (plant) which is the cause of food is praised.
+
+करंभ (*karaṃbha*) — for this word the bhāṣyakāra says करंभो यः करंभादिरूपः सक्तुपिंडोऽस्ति तदात्मक (*karaṃbho yaḥ karaṃbhādirūpaḥ saktupiṃḍo 'sti tadātmaka*): that is, what is made by kneading (grain) flour into a lump is called *karambha*, and the herb is addressed as being in the form of that *karambha*.
+
+### Printed p. 213
+
+*Running head: [Aṣṭaka 2. Adhyāya 5 Varga 7] Ṛgveda-saṃhitā 213 (as supplied).*
+
+Yāska has said nothing about the word *karambha*. The bhāṣyakāra, in the ṛk
+
+पूषण्वते ते चकृमा करंभं हरिवते हर्यश्वाय धानाः । (*pūṣaṇvate te cakṛmā karaṃbhaṃ harivate haryaśvāya dhānāḥ |*)
+(ऋ- सं. ३-५२-७) (*(ṛ- saṃ. 3-52-7)*)
+
+explains the word *karambha* as करंभं दधिमिश्रं सक्तुं (*karaṃbhaṃ dadhimiśraṃ saktuṃ*), a lump of flour kneaded with curds; and in the commentary on the ṛk
+
+य एनवादिदेशति करंभादिति पूषणं । न तेन देव आदिशे ॥ (*ya enavādideśati karaṃbhāditi pūṣaṇaṃ | na tena deva ādiśe ‖*)
+(म. सं. ६-५६-१) (*(ma. saṃ. 6-56-1)*)
+
+as करंभात् करंभाणां धृतमिश्राणां यवसक्तूनां (*karaṃbhāt karaṃbhāṇāṃ dhṛtamiśrāṇāṃ yavasaktūnāṃ*), that is, made into a lump by mixing wheat flour and ghee (the print says wheat, while the Sanskrit says *yava*, barley, as supplied); and in the ṛk
+
+सोममन्य उपासदत्पातवे चन्वोः सुतं । करंभमन्य इच्छति ॥ (*somamanya upāsadatpātave canvoḥ sutaṃ | karaṃbhamanya icchati ‖*)
+(ऋ. सं. ६-५७ २) (*(ṛ. saṃ. 6-57 2)*)
+
+the word *karambhaṃ* he explains as करंभं धृतसिक्तं सत्वात्मकं हविः (*karaṃbhaṃ dhṛtasiktaṃ satvātmakaṃ haviḥ*), an oblation in the form of flour mixed with ghee. Therefore *karambha* may be understood as an oblation prepared for offering to the gods, a lump formed by adding to flour things such as ghee and curds. The English scholar Wilson on this word says: करंभ ओषधे (*karaṃbha oṣadhe*)—The first is explained, a lump or cake of parched meal, सक्तुपिंड (*saktupiṃḍa*) idendified [sic] with an herb or vegetable तदात्मक ओषधिः (*tadātmaka oṣadhiḥ*). And the scholar Griffith says: करंभ (*karaṃbha*) is some soft food, a sort of gruel, offered especially to पूषन् (*pūṣan*).
+
+ओषधे (*oṣadhe*) — the word *oṣadhi* means a plant or herb. In giving the explanation of the word *oṣadhi*, Yāska cites the ṛk
+
+या ओषधीः पूर्वा जाता देवेभ्यस्त्रियुगं पुरा । (*yā oṣadhīḥ pūrvā jātā devebhyastriyugaṃ purā |*)
+मन्यॆ नु बभ्रूणामहं शतं धामानि सप्त च ॥ (*manyè nu babhrūṇāmahaṃ śataṃ dhāmāni sapta ca ‖*)
+(म सं. १०-९७-१) (*(ma saṃ. 10-97-1)*)
+
+and says:
+
+ओषधयः । ओषधय ओषद्धयंतीति वा । (*oṣadhayaḥ | oṣadhaya oṣaddhayaṃtīti vā |*)
+ओषत्येना भयंतीति वा ॥ (*oṣatyenā bhayaṃtīti vā ‖*)
+दोषं भयंतीति वा ॥ (*doṣaṃ bhayaṃtīti vā ‖*)
+(नि. ९-२७) (*(ni. 9-27)*)
+
+That is: because it destroys (*oṣat*) consumption and other diseases in the body (*dhayanti*), it is called *oṣadhi*; or, because it is drunk (*oṣati enā dhayanti*) to allay the burning arising in the belly and other parts of the body, it is called *oṣadhi*;
+
+### Printed p. 214
+
+*Running head: [214 Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 187] (as supplied).*
+
+or, because it destroys (दोषं भयंतीति वा (*doṣaṃ bhayaṃtīti vā*)) the faults such as wind in the body, it is called *oṣadhi*: so three kinds of explanation are given. In the present ṛk, the sense is grain belonging to the class of plants, or flour made from grain.
+
+वृक्कः (*vṛkkaḥ*) — व्याधीर्वर्जयिता (*vyādhīrvarjayitā*): the sense is (food) having the power to destroy disease.
+
+**Vyākaraṇa-prakriyā** (grammar page for Ṛk 10, noted briefly)
+
+करंभः (*karaṃbhaḥ*) (root डुकृञ् करणे (*ḍukṛñ karaṇe*)): the Uṇādi suffix *ambhac*; on that basis guṇa of the *i*-vowel of the root; being marked *c*, the last syllable is acute.
+
+*[As supplied, the label line reads कंठपाठि (*kaṃṭhapāṭhi*); standard label inserted.]*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> तं त्वा॑ व॒यं पि॑तो॒ वचो॑भि॒र्गावो॒ न ह॒व्या सु॑षूदिम ।
+> दे॒वेभ्य॑स्त्वा सध॒माद॑म॒स्मभ्यं॑ त्वा सध॒मादं॑ ॥ ११ ॥
+
+> *taṃ tvā vayaṃ pito vacobhirgāvo na havyā suṣūdima |*
+> *devebhyastvā sadhamādamasmabhyaṃ tvā sadhamādaṃ ‖ 11 ‖*
+
+*[The Pada of this Ṛk as supplied reads सधर्मादं [?] (*sadharmādaṃ [?]*) twice against the Saṃhitā's *sadhamādam*; marked [?].]*
+
+**॥ पदपाठः ॥**
+
+> तं । त्वा । वयं । पितो इति । वचःभिः । गावः । न । हव्या । सुसूदिम ।
+> देवेभ्यः । त्वा । सधर्मादं [?] । अस्मभ्यं । त्वा । सधर्मादं [?] ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे पितो अन्न सोमरूप तं तादृशं स्तुतं त्वा त्वां महानुभावं वचोभिः
+> स्तुतिवाग्निर्वयं सुषूदिमु । क्षारयामो रसान् । तत्र दृष्टांतः । गावो न हवां
+> गाव इव हवींष्युत्पादयंति तथा त्वत्सकाशात्सोमं सुषूदिमु । किमर्थं कीदृशं
+> चेति चेत् उच्यते । देवेभ्य इंद्रादिभ्यस्तदर्थं सधमादं तेषां सह मादयितारं।
+> न केवलं देवेभ्य एव किंतु सधमादमस्माभिः सह मादयितारं हुतशेषरूपं त्वा
+> त्वामस्मभ्यमस्म दर्थमपि ॥
+
+*Gist:* O Pito, in the form of Soma, we press out your juices with praises, as cows yield oblations, for the gods as a fellow-reveller, and for ourselves also as the remainder of the offering.
+
+**Pratipadārtha** (the supplied text breaks off here)
+
+पितो-सोमरूपवाद अन्नवे (*pito-somarūpavāda annave*) (O food in the form of Soma). तं त्वा-हिंदॆ वर्णितवाद गुणगळुळ्ळ निन्नन्नू (*taṃ tvā-hiṃdè varṇitavāda guṇagaḷuḷḷa ninnannū*) (you, who have the qualities described before). देवेभ्यः-देवतॆगळिगॆ (*devebhyaḥ-devatègaḷigè*) (for the gods). सधमादं-तृप्तिदायकनाद (*sadhamādaṃ-tṛptidāyakanāda*) (a giver of satisfaction). त्वा-निन्नन्नू (*tvā-ninnannū*) (you). अस्मभ्यं-नम (*asmabhyaṃ-nama*) (for us; the line breaks off at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 211 (PDF 211). Done through printed p. 211 (Sukta 187 Rik 9 Special Topics on Soma complete; grammar page begun, continues on p. 212)
+**Progress note:** Done through printed p. 214 (PDF 214). Done through printed p. 214 (Sukta 187 Rik 10 complete; Rik 11 Samhita, Pada, bhashya done; Rik 11 Pratipadartha begun, text breaks off at asmabhyam; [?] on sivo/siva, sadharmadam)
