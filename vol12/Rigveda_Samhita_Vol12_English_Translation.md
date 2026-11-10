@@ -4989,6 +4989,88 @@ The sacrificer who, by offering the horse as an oblation and performing the sacr
 
 O horse, whichever limb of you, the sacrificial horse, full of flesh, a fly ate here, whatever part stuck to the stake of slaughter or to the knife, the means of slaughter *[the supplied text ends here, in the middle of the sentence, after "ಅಂಟಿಕೊಂಡಿದ್ದಿತೋ"; the rest of the Bhāvārtha is in the next window]*
 
+### Printed p. 182
+
+*Running head: 182 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೨.] (as supplied; "ಆ." printed for "ಅ.").* (Sūkta 162, Ṛk 9: the Bhāvārtha continues from the previous window.)
+
+...and whatever part is attached to the hands and nails of the slaughterer: may all of it be offered to the gods.
+
+**Printed English translation**
+
+Whatever the flies may eat of the raw flesh of the horse; whatever (grease) is smeared upon the brush or upon the axe; (what is smeared) upon the hands or the nails of the immolator, may all this be with thee, (horse), among the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+It is the custom to smear anointing paste on the sacrificial post to which the sacrificial horse is tied and on the knife that cuts. It is prayed that the smear of such anointing paste too may go to the gods, for the adornment of the horse.
+
+स्वरौ (*svarau*)—generally "svaru" means the sacrificial post. Just as collyrium is applied to the eye, applying anointing paste to the sacrificial post is an enjoined rite. There is also a usage of calling the "svaru" a chip of the post (yūpa-śakala). For example,
+
+अथ ये तेभ्योऽवर आसंस्त एतं स्वरुमपश्यन्यूपशकलं । (*atha ye tebhyo 'vara āsaṃsta etaṃ svarumapaśyanyūpaśakalaṃ |*) (ಐ. ಬ್ರಾ. 2-3)
+
+in this, and also in the Taittirīya Saṃhitā in अग्रेगा नेतृणां वनस्पतिः (*agregā netṛṇāṃ vanaspatiḥ*) (1-3-6, reference as printed) it is explained as यूपस्य प्रथमशकलः (*yūpasya prathamaśakalaḥ*). But Sāyaṇa, explaining the sentence of the Taittirīya Saṃhitā, has explained प्रथमशकलः; स्वरुः; चषालं (*prathamaśakalaḥ; svaruḥ; caṣālaṃ*) as three different parts of the post. The Bhaṭṭabhāskara commentary also has the same divisions. But Sāyaṇa, in the sentence
+
+अपश्यंध्वरुं यूहस्य संस्थिते सोमे । (*apaśyaṃdhvaruṃ yūhasya saṃsthite some |*) (ತೈ. ಸಂ. 6-3-4) *[abbreviation as printed]*
+
+of the Taittirīya Saṃhitā only, has explained "svaru" as the first chip. There is a contradiction between his earlier explanation and the explanation of this sentence. In the present ṛk Sāyaṇa has explained the word "svar" as पश्वंजनकाले (*paśvaṃjanakāle*).
+
+स्वधितौ—स्वधिति शब्दवु वज्र नामगळल्लि (*svadhitau—svadhiti śabdavu vajra nāmagaḷalli*) *[the Kannada continues: "the word is read among the names of vajra"]* (Ni. 3-11); it means the knife *[printed "ಮಚ್ಚು"]* for slaughtering the animal.
+
+ब्रह्मा देवानां पदवीः कवीनामृषिर्विप्राणां महिषो मृगाणां । (*brahmā devānāṃ padavīḥ kavīnāmṛṣirviprāṇāṃ mahiṣo mṛgāṇāṃ |*)
+शैनो गृध्राणां स्वधितिर्वनानां सोमः पवित्रमत्येति रेभन् ॥ (*śaino gṛdhrāṇāṃ svadhitirvanānāṃ somaḥ pavitramatyeti rebhan ‖*) (ಋ. ಸಂ. 9-96 6) *[reference as printed, without a hyphen between 96 and 6]*
+
+### Printed p. 183
+
+*Running head: [ಆ ೨. ಅ. ೩. ವ. ೮.] Ṛgveda-saṃhitā 183 (as supplied).*
+
+in this, for the word "vanānām" it has been explained हिंसकानां छेदकानां मध्ये स्वधितिः एतन्नामकश्वेद (*hiṃsakānāṃ chedakānāṃ madhye svadhitiḥ etannāmakaśveda*)कोऽसि (*ko 'si*) *[the word is split over two lines]* and, as the meaning "instrument of cutting" is given to this word, the same meaning applies here too. But Sāyaṇa has explained, in the present ṛk, this word as छेदनकाले (*chedanakāle*), "at the time of cutting".
+
+शमितु: (*śamitu:*)—Sāyaṇa has not given a meaning for this word. The one who kills the sacrificial animal is called "śamitṛ". This matter will be discussed in the explanation of the next ṛk.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses मक्षिका (*makṣikā*) (ಉ. ಸೂ. 4-593, abbreviation as printed), आश (*āśa*) (Pā. Sū. 6-1-193), स्वरौ (*svarau*) (ಉ. ಸೂ. 1-10), रिप्तम् (*riptam*), अस्ति (*asti*) and शमितुः (*śamituḥ*), with the accents; it ends with the mark ॥ ೯ ॥. *[A stray line ":0:" follows in the supplied text; kept in kn.md as an italic note.]*
+
+#### Ṛk 10
+
+*[The label of the Saṃhitā is garbled in the supplied text ("ಸಂವಾದ"); the standard label is inserted and the garbled word kept in kn.md as an italic note. The Saṃhitā stood as plain lines, split by the page break; they are made blocks. The Pratipadārtha has "ಕೃತಪಾಕಂ" where the Saṃhitā and the Pada have "ಶೃತಪಾಕಂ"; kept as supplied.]*
+
+**॥ संहितापाठः ॥**
+
+> यदूव॑ध्यमु॒दर॑स्याप॒वाति॒ य आ॒मस्य॑ क्र॒विषो॑ गं॒धो अस्ति॑ ।
+
+> *yadūvadhyamudarasyāpavāti ya āmasya kraviṣo gaṃdho asti |*
+
+### Printed p. 184
+
+*Running head: 184 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).* (The Saṃhitā continues.)
+
+> सुकृता तच्छमितारः कृण्वंतूत मेधं शृतपाकं पचंतु॥१०॥
+
+**॥ पदपाठः ॥**
+
+> यत् । ऊवध्यं । उदरस्य । अपवाति । यः । आमस्य । क्रविषः । गंधः । अस्ति ।
+> सुकृता । तत् । शमितारः । कृण्वंतु । उत । मेधं । शृतपाकं । पचंतु ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> उदरस्य संबंधि यदूवध्यमीषज्जीर्णं तृणं पुरीषमपवाति अपगच्छति ।
+> यश्चामस्यापक्वस्य क्रविषो मांसस्य गंधोऽस्ति लेशोऽस्ति । पाकस्य समये यत्किंचिदूवध्यमपक्वस्य च लेशोऽस्ति आमगंधोऽस्ति । तत्सर्वं शमितारो विशसनकर्तारः
+> सुकृता कृण्वंतु । सुकृतमुक्तदोषरहितं कुर्वंतु । उतापि च मेधं मेध्यं
+> यज्ञार्हं पश्ववयवं शृतपाकं देवयोग्यपाकोपेतं यथा भवति तथा पचंतु ।
+> पितृमनुष्यादियोग्यमतिपक्षमीषत्पक्वं च मा कुर्वंतित्यर्थः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): may the slaughterers make pure the undigested stomach contents and the raw-flesh odour, and cook the sacrificial parts to suit the gods.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उदरस्य (*udarasya*)—(of this horse) in the belly; यत् (*yat*)—which; ऊवध्यं (*ūvadhyaṃ*)—food not completely digested; अपवाति (*apavāti*)—comes out (at the time of killing); यः (*yaḥ*)—whatever; आमस्य (*āmasya*)—raw; क्रविषः (*kraviṣaḥ*)—of the flesh; गंधः (*gaṃdhaḥ*)—smell; अस्ति (*asti*)—there is; तत् (*tat*)—all that; शमितारः (*śamitāraḥ*)—the slaughterers; सुकृताः (*sukṛtāḥ*)—as free from fault and pure; कृण्वंतु (*kṛṇvaṃtu*)—let them make; उत (*uta*)—and; मेधं (*medhaṃ*)—the part of it fit for the sacrifice; कृतपाकं (*kṛtapākaṃ*) *[so printed]*—so that it has a cooking suitable for the gods; पचंतु (*pacaṃtu*)—let them cook.
+
+**भावार्थ (Bhāvārtha)**
+
+Whatever food, not completely digested, comes out of the belly of this sacrificial horse at the time of killing, and whatever bad smell of raw flesh there is, all that may the slaughterers make free from fault and pure. And the part of it fit for the sacrifice may they cook so that it suits the gods.
+
 ---
 
-**Progress note:** Done through printed p. 181 (PDF 181). Sūkta 162 Ṛk 7 Special Topics end, grammar; Ṛk 8 (picture) complete; Ṛk 9 Saṃhitā to Bhāvārtha start
+**Progress note:** Done through printed p. 184 (PDF 184). Sūkta 162 Ṛk 9 Bhāvārtha end to grammar; Ṛk 10 Saṃhitā to Bhāvārtha
