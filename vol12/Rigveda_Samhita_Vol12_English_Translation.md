@@ -8168,6 +8168,154 @@ told him: "This is the Supreme Brahman. The victory of the gods is through the v
 
 सप्ततंतून् (*saptataṃtūn*)—the seven threads may be the sacrifice, or the seven metres, or the praise-hymn (stotra); Sāyaṇa, *(the sentence breaks off at the end of the page and continues in the next window)*
 
+### Printed p. 323
+*Running head: [೫. ೨. ಆ ೩. ವ. ೧೪.] Ṛgveda-saṃhitā 323 (as supplied; ೫ where the other heads have ಅ.).*
+
+[Continuing] ...Sāyaṇa, in the Ṛk
+
+इमं नो अग्न उप यज्ञमेहि पंचयामं त्रिवृतं सप्ततंतुं । असो हव्यवाळुत नः पुरोगा ज्योगेव दीर्घं तम अशयिष्ठाः (*imaṃ no agna upa yajñamehi paṃcayāmaṃ trivṛtaṃ saptataṃtuṃ | aso havyavāḷuta naḥ purogā jyogeva dīrghaṃ tama aśayiṣṭhāḥ*)
+(Ṛ. Saṃ. 10-124-1)
+
+explaining the meaning of the word सप्ततंतु (*saptataṃtu*), has explained it as सप्ततंतवस्तनितारः कर्मणां विस्तारयितारो होत्राद्याः सप्तवषट्कर्तारो यस्य (*saptataṃtavastanitāraḥ karmaṇāṃ vistārayitāro hotrādyāḥ saptavaṣaṭkartāro yasya*), that is, either a sacrifice that is carried out with the participation of seven performers of the vaṣaṭ-call, the hotṛ and the rest, or a sacrifice of seven kinds (of rites): अग्निष्टोम (*agniṣṭoma*), अत्यग्निष्टोम (*atyagniṣṭoma*), उक्त्य (*uktya*), षोडशी (*ṣoḍaśī*), वाजपेय (*vājapeya*), अतिरात्र (*atirātra*) and अप्टोर्याम (*apṭoryāma*) *[as supplied: ಅಪ್ಟೋರ್ಯಾಮ]*. And in the Ṛk
+
+मां देवा दधिरे हव्यवाहमपम्लुक्तं बहु कृच्छ्र चरंतं । अग्निर्विद्यान्यज्ञं नः कल्पयाति पंचयामं त्रिवृतं सप्ततंतुं (*māṃ devā dadhire havyavāhamapamluktaṃ bahu kṛcchra caraṃtaṃ | agnirvidyānyajñaṃ naḥ kalpayāti paṃcayāmaṃ trivṛtaṃ saptataṃtuṃ*)
+(Ṛ. Saṃ. 10-52-4)
+
+he has explained it as सप्तभिश्चंदोमय्यैः स्तुतिभिः विस्त्रतं यज्ञं (*saptabhiścaṃdomayyaiḥ stutibhiḥ vistrataṃ yajñaṃ*) *[as supplied: ವಿಸ್ತ್ರತಂ]*. Just as in both places सप्ततंतु (*saptataṃtu*) means a sacrifice, so in the Ṛk now under consideration also the meaning is a sacrifice.
+
+बष्कये (*baṣkaye*)—बडिति सत्यनाम (*baḍiti satyanāma*); तत्कषति इति बष्कयः (*tatkaṣati iti baṣkayaḥ*); आदित्यः यद्वा बष्कयो नाम एकहायनो वत्सः (*ādityaḥ yadvā baṣkayo nāma ekahāyano vatsaḥ*). For this word the meaning is either Āditya or a calf one year old. But here, पुनरपि वत्सशब्दस्य पृथग्निर्देशात् बष्कयशब्देन तत्कालमात्रं लक्ष्यते । तस्मिन्नादित्ये (*punarapi vatsaśabdasya pṛthagnirdeśāt baṣkayaśabdena tatkālamātraṃ lakṣyate | tasminnāditye*): since the word vatsa is read again, only the span of time is indicated by the word bashkaya. The meaning is: in such an Āditya. The construction has been made as तस्मिन्नादित्ये सप्ततंतू न्वितत्रिरे (*tasminnāditye saptataṃtū nvitatrire*) *[as supplied: split by the line break; ವಿತತ್ರಿರೇ where the Ṛk as printed has ವಿ ತತ್ನಿರೇ]*. Explaining its purpose, ओतवै (*otavai*)—सप्तस्तोमसंस्थारूपतिरक्तंतुसंतानाय यज्ञनिर्माणाय इत्यर्थः (*saptastomasaṃsthārūpatiraktaṃtusaṃtānāya yajñanirmāṇāya ityarthaḥ*), यज्ञानां स्थितेः सूर्याधीनत्पादिति भावः (*yajñānāṃ sthiteḥ sūryādhīnatpāditi bhāvaḥ*) *[as supplied: ಸೂರ್ಯಾಧೀನತ್ಪಾದಿತಿ]*. Since all sacrifices, ritual offerings and so on are dependent on the sun, the meaning is that the sacrificial rites are performed with that sun in view *(no full stop in print)*.
+
+Then, showing the connection between the inquiry stated in the first half and the rite stated in the second half, he has explained: ईदृशं तत्त्वं पृच्छामीत्यर्थः (*īdṛśaṃ tattvaṃ pṛcchāmītyarthaḥ*), the purport being "I desire to know such a principle." This same connection he shows in the Chāndogya also:
+
+अथ हैनं गार्हपत्योऽनुशशास पृथिव्यग्निरन्नमादित्य इति य एष आदित्ये पुरुषो दृश्यते सोऽहमस्मि स एवाहमस्मीति (*atha hainaṃ gārhapatyo 'nuśaśāsa pṛthivyagnirannamāditya iti ya eṣa āditye puruṣo dṛśyate so 'hamasmi sa evāhamasmīti*)
+(छां. उ. (*chāṃ. u.*) 4-11-1)
+
+### Printed p. 324
+*Running head: 324 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+It declares that the Gārhapatya fire is Āditya, and that the person who appears in Āditya is the form of the Gārhapatya fire: the identity of the sacrificial fire and Āditya.
+
+स य एतमेवं विद्वानादित्यं ब्रह्मेत्युपास्तेs भ्याशो ह यदेनं साधवो घोषा आ च गच्छेयुरुप च निम्म्रेडेरन्निम्रेडेरन् (*sa ya etamevaṃ vidvānādityaṃ brahmetyupāstes bhyāśo ha yadenaṃ sādhavo ghoṣā ā ca gaccheyurupa ca nimmreḍerannimreḍeran*)
+(भा उ. (*bhā u.*) 3-19-4) *[as supplied: ಭಾ ಉ.]*
+
+If one worships as Brahman that very Āditya who is the cause of all the activities of this world, असावादित्योब्रह्मेति (*asāvādityobrahmeti*) (तै. आ (*tai. ā*) 2-1), then the pleasing hymns (ghoṣa) gladden and satisfy the person; since the Śruti says so, the wise worshipped such Brahman in the form of Āditya through sacrifices and so on. "I too desire to know his nature": thus the desire for knowledge is declared.
+
+*Grammar (transcribed, not explained):*
+पाकः (*pākaḥ*)—root डुपचिष् पाके (*ḍupaciṣ pāke*); by the inclusion of बहुल (*bahula*) the suffix ghañ in the passive; by अत उपधायाः (*ata upadhāyāḥ*) (Pā. Sū. 7-2-116) ādivṛddhi; by चजोः कुघिण्यतोः (*cajoḥ kughiṇyatoḥ*) (Pā. Sū. 7-3-52) kutva for the c; since the suffix is इत्तादुवरिंद (*ittāduvariṃda*) *[as supplied]* the initial-udātta accent comes. पृच्छामि (*pṛcchāmi*)—प्रच्छ ज्ञेप्सायां वाचि (*praccha jñepsāyāṃ vāci*); tudādi class; laṭ, first person singular; the accent तिजंतनिघातस्वर (*tijaṃtanighātasvara*) comes. अविजानन् (*avijānan*)—न विजानन् अविजानन् (*na vijānan avijānan*); root ज्ञा अवबोधने (*jñā avabodhane*), the substitute śatṛ for laṭ; by तत्पु रुषे तुल्यार्थ (*tatpu ruṣe tulyārtha*) *[as supplied: split by line break]* (Pā. Sū. 6-2-2) the natural accent of the first member, nañ, comes. एना (*enā*)—in the neuter plural, by शेश्चंदसि बहुलम् (*śeścaṃdasi bahulam*) (Pā. Sū. 6-1-70) loss of the "ti" *[as supplied: ತಿ]*. तत्किरे (*tatkire*) *[as supplied: so the headword here]*—तनु विस्तारे (*tanu vistāre*); Vedic liṭ in the present sense; for the third person plural, by लिटस्तझयो (*liṭastajhayo*) the substitute ire; by vyatyaya no ētva and loss of the reduplicative syllable; Vedic loss of the upadhā of the root; because it follows an atiṅanta *[as supplied: ಅತಿಜಂತ]* the accent nighāta comes. ओतवै (*otavai*)—वेञ् तंतुसंताने (*veñ taṃtusaṃtāne*); when the sense of tumun is shown, by तुमर्थे सेसेनसे (*tumarthe sesenase*) (Pā. Sū. 3-4-9) the suffix tavai; Vedic saṃprasāraṇa of the root, pūrvarūpa; the suffix being the occasion, by सार्वधातुकार्थधातुकयोः (*sārvadhātukārthadhātukayoḥ*) guṇa to it; since it ends in vi *[as supplied: ವಿಜಂತ]*, by कृन्मेजंतः (*kṛnmejaṃtaḥ*) the designation avyaya comes. || 5 ||
+*[The script rewrote the Devanagari letters of the next line as Kannada, letter for letter.]*
+- ओं (*oṃ*) -
+
+### Printed p. 325
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೧೫] ಮುಗ್ವೇದಸಂಹಿತಾ 325 (as supplied; ಪ. for ವ., ಮುಗ್ವೇದ [sic] for Ṛgveda).*
+
+#### Ṛk 6
+**॥ संहितापाठः ॥**
+> अचि॑कित्वा इच्चिकि॒तुष॑श्चि॒दत्र॑ क॒वीन्सृ॑च्छामि वि॒द्मने॒ न वि॒द्वान् ।
+> वि यस्त॒स्तंभ॒ षळि॒मा रजां॑स्य॒जस्य॑ रू॒पे किमपि॑ स्वि॒देकं॑ ॥ ६ ॥
+**॥ पदपाठः ॥**
+> अचिकित्वान् । चिकितुषः । चित् । अत्र । कवीन् । पृच्छामि । विद्मने । न । विद्वान् ।
+> वि । यः । तस्तंभ । षट् । इमा । रजांसि । अजस्य । रूपे । किं । अपि । स्वित् । एकं॥६॥
+**॥ सायणभाष्यम् ॥**
+> अचिकित्वान् देवतातत्त्वमजानन्नहं चिकितुषो विशेषेण तत्त्वं जानतः कवीन्
+> क्रांतदर्शिनोऽधिगतपरमार्थानत्रास्मिंस्तत्त्वविषये पृच्छामि । किमर्थ० । विद्मने
+> वेदनाय परमार्थज्ञानाय । किं जानन्नेव पराभवाद्यर्थ० नेत्याह । विद्वान्न
+> पृच्छामि अपि त्वज्ञानादेव । यः परमेश्वरस्तस्तंभ स्तंभितवान् नियमितवान् ।
+> अथ य आत्मा स सेतुर्विधृतिरेषां लोकानामसंभेदाय । छां उ. ८-४-१ । इति
+> श्रुतेः । किं । इमेमानि षड्रजांसि लोकान्नंजनात्मकान् । लोका रजांस्युच्यंत
+> इति निरुक्तं । यद्यपि लोकाः सप्त तथापि सत्यलोकस्य कर्मिणां सर्वेषां साधारणत्वाभावात् षडित्युक्तं । ननु षडेवोक्ताः सप्तमः किमिति न निर्दिष्ट इति उच्यते ।
+> अजस्य जननादिरहितस्य चतुर्मुखस्य ब्रह्मणो रूपे स्वरूप एकं सत्यलोकाख्यं
+> पुनरावृत्तिरहितं स्थानं किमपि स्मित् । किंस्विदेव । तन्न केनाप्यधिगंतुं शक्यमित्यर्थः ।
+> कैश्चि देवोपासकैरर्चिरादिमार्गेण गंतव्यत्वादिति भावः । यद्वा । षड्रजांसि विलक्षणाः
+> षडृतवः । तान्यस्तंभयत्तत्वं । आजस्य गमनशीलस्य जन्मरहितस्य वादित्यस्य रूपे रूप्यमाणे दृश्यमाने मंडल एकमद्वितीयं किमपि स्मित् । यत्किंचिदवाज्जनसगम्यं
+> तत्त्वमस्ति तत्पृच्छामि । अथ य एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते ।
+> मै. उ. ६-१ । इत्यादिश्रुतिप्रतिपादितं तत्त्वमित्यर्थः । अथवा षडिमानि रजांसि
+> त्रिविधान्यलोकांश्च यस्तस्तंभ । तिस्रो भूमिर्धारयन्तीरुत द्यून् ।
+> ऋ. २-२७-८ । इति निगमः । तस्याजस्य परब्रह्मणो रूपे नानाविकारभाजि जगति किमपि
+> स्विदेकमेकात्मकमस्तीति प्रश्नॆः । अविशेषमस्ति नाममात्रमेकरूपमस्तीत्युत्तरविवक्षया प्रश्नॆः । अस्तीत्येवोपलब्धव्यमिति श्रुतेः ॥
+*Gist:* Not knowing the divine truth, I ask the knowing sages about the six worlds (or seasons) upheld by the Unborn: what is the One in his form?
+
+### Printed p. 326
+*Running head: 326 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+अचिकित्वान् (*acikitvān*)—not knowing the divine principle *(a comma follows in print, as supplied)*; चिकितुषः (*cikituṣaḥ*)—who have known the knowledge of the principle; कवीन् (*kavīn*)—the wise; अत्र (*atra*)—in this matter of the truth; विद्मने (*vidmane*)—for the sake of obtaining knowledge; पृच्छामि (*pṛcchāmi*)—I ask; विद्वान् (*vidvān*)—I, having known well (in order to test others); न (*na*)—I do not ask; यः (*yaḥ*)—which Supreme Person; इमा षड्रजांसि (*imā ṣaḍrajāṃsi*)—these six worlds; वि तस्तंभ (*vi tastaṃbha*)—who has upheld and regulated in a special manner; अजस्य (*ajasya*)—of the Supreme Person who is without birth; रूपे (*rūpe*)—in the nature; एकं (*ekaṃ*)—that which is non-dual; किमपि स्वित् (*kimapi svit*)—what indeed is it? What is its nature?
+**भावार्थ (Bhāvārtha)**
+Not knowing the divine principle, I question the wise who know it, in order to gain knowledge in this matter of truth; I do not ask as one who knows, with the aim of testing them. What is the principle that is non-dual in the nature of that unborn Supreme Person who has upheld and regulated in a special manner all these six worlds? What is its nature?
+**Printed English**
+Ignorant, I inquire of the sages who know (the truth); not as one knowing (do I inquire), for the sake of (gaining) knowledge: what is that One alone, who has upheld these six spheres in the form of the unhorn? *[sic: "unhorn"]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the first half of this Ṛk the questioner expresses his humility. It is established that without humility the attainment of knowledge is not possible. All those who, without sound knowledge of the principle of the universe, knew only some disparate parts of it and took pride in being knowers of the principle, finally had to take refuge in humility and receive systematic instruction from a teacher. The story of दृष्टबालाकि (*dṛṣṭabālāki*) *[as supplied: ದೃಷ್ಟ; the quotation below has ದೃಪ್ತ]* in the Bṛhadāraṇyaka, and the story of श्वेतकेतु (*śvetaketu*) Āruṇi in the Chāndogya, are examples of this.
+
+दृप्तबालाकिर्हानूचानो गार्ग्य आस स होवाचाजातशत्रुं काश्यं ब्रह्म ते ब्रवाणीति (*dṛptabālākirhānūcāno gārgya āsa sa hovācājātaśatruṃ kāśyaṃ brahma te bravāṇīti*)
+(Bṛ. U. 2-1-1)
+
+Bālāki, who lacked sound knowledge about Brahman and was full of false pride, approached Ajātaśatru, the king of Kāśī, and said that he himself was a knower of the principle and would give him instruction about Brahman.
+
+### Printed p. 327
+*Running head: [ಅ. ೨. ಅ. ೩. ವ ೧೫.] Ṛgveda-saṃhitā 327 (as supplied).*
+
+After he had said this, Ajātaśatru said that he would honour him, and asked many questions about Brahman. To all of them Bālāki gave answers that described only some aspects of Brahman, but he could not state the nature of the complete Brahman. Then, when Ajātaśatru showed him that he had no complete knowledge, Bālāki said with humility:
+
+स होवाच गार्ग्य उप त्वा यानीति (*sa hovāca gārgya upa tvā yānīti*)
+(Bṛ. U. 2-1-14)
+
+"I shall serve you as a pupil and take instruction from you." Here the one who is already a knower may be anyone; there is a rule that one who wishes to know the principle must serve him as a pupil. This very thing is said in the Ṛk now under consideration: अकिचित्वान् चिकितुषः कवीन् (*akicitvān cikituṣaḥ kavīn*) *[as supplied: ಅಕಿಚಿತ್ವಾನ್]* — "I, who am ignorant, approach the poets who are knowers." Bālāki was a Brāhmaṇa. Ajātaśatru was a Kṣatriya.
+
+स होवाचाजातशत्रुः प्रतिलोमं चैतद्यद्ब्राह्मणः क्षत्रियमुपेयात् (*sa hovācājātaśatruḥ pratilomaṃ caitadyadbrāhmaṇaḥ kṣatriyamupeyāt*)
+(Bṛ. U. 2-1-5)
+
+Although Ajātaśatru said that it is not the tradition for a Brāhmaṇa to learn knowledge from a Kṣatriya, Bālāki decided that, since he was a knower, his caste need not be examined.
+
+विद्मने न विद्वान् (*vidmane na vidvān*)—in these words also the questioner has shown his humility. From the example of Bālāki it is understood what kind of humility is necessary for a seeker. The story of Śvetaketu is another example of this.
+
+श्वेतकेतुर्हारुणेय आस तं ह पितोवाच श्वेतकेतो वस ब्रह्मचर्यं न वै सोम्यास्मत्कुलीनोs ननूच्य ब्रह्मबंधुरिव भवतीति ॥ स ह द्वादशवर्षमुपेत्य चतुर्विंशतिवर्षः सर्वान् वेदानधीत्य महामना अनूचानमानी स्तब्ब एवाय तं ह पितोवाच ॥ श्वेतकेतो यन्नु सोम्येदं महामना अनूचानमानी स्तभ्भोऽस्युत तमादेशमप्राक्ष्यः येनाश्रुतं श्रुतं भवत्यमतं मतमविज्ञातं विज्ञातमिति (*śvetaketurhāruṇeya āsa taṃ ha pitovāca śvetaketo vasa brahmacaryaṃ na vai somyāsmatkulīnos nanūcya brahmabaṃdhuriva bhavatīti ‖ sa ha dvādaśavarṣamupetya caturviṃśativarṣaḥ sarvān vedānadhītya mahāmanā anūcānamānī stabba evāya taṃ ha pitovāca ‖ śvetaketo yannu somyedaṃ mahāmanā anūcānamānī stabhbho 'syuta tamādeśamaprākṣyaḥ yenāśrutaṃ śrutaṃ bhavatyamataṃ matamavijñātaṃ vijñātamiti*) *(four-dot ellipses follow in print, as supplied)*
+(छा. उ. (*chā. u.*) 6-1-1 to 3)
+
+His father told Śvetaketu, the grandson of Aruṇa, to study by the practice of brahmacarya. Śvetaketu, while still a boy of twelve, began his studies and carried them on for twenty-four years, and then came to his father, and when out of the pride of being omniscient he behaved in an unhumble manner,
+
+### Printed p. 328
+*Running head: 328 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+the father said: "Śvetaketu, although you are so learned, since you are full of false pride, it appears that you have no sound knowledge. Have you made an effort to obtain that knowledge? Do you know the One principle that is not within reach of the eye and the other senses, nor of the intellect?" Then Śvetaketu, following humility, asked his father to instruct him in that principle. In this way the sentence of the Ṛk now under consideration shows the necessity of humility.
+
+चिकितुषः कवीन् (*cikituṣaḥ kavīn*)—by this it declares that it may be any poet (ṛṣi) who has obtained complete knowledge; and by विद्मने न विध्वान् (*vidmane na vidhvān*) *[as supplied: ವಿಧ್ವಾನ್]* it declares that one should approach such a teacher humbly for instruction. Declaring that the nature of the Lord can be imagined to some extent from the world that is his effect, but that his hidden and immortal principle is not possible without instruction, it has first stated, in यः षडिमा रजांसि तस्तंभ (*yaḥ ṣaḍimā rajāṃsi tastaṃbha*) (which Lord has upheld these six worlds, which are of the nature of effects and subject to recurrence), only the principle that is within reach of the outer senses. Sāyaṇa, citing the sentence of the author of the Nirukta, लोका रजांस्युच्यंते (*lokā rajāṃsyucyaṃte*) (Ni. 4-19), has taken the word rajas in the sense of "worlds".
+
+रजो रजते ज्योति रज उच्यते; उदकं रज उच्यते, लोका रजांस्युच्यंते (*rajo rajate jyoti raja ucyate; udakaṃ raja ucyate, lokā rajāṃsyucyaṃte*)
+(Ni. 4-19; printed "ನಿ, ೪-೧೯" with a comma)
+
+Formed from the root रंज् (*raṃj*), which gives the meaning "to shine", the word rajas comes to mean light, water and worlds. [Moreover आसृगहनी रजसी उच्यते (*āsṛgahanī rajasī ucyate*): it is also a synonym for रक्त (*rakta*) (blood) and अहस्सु (*ahassu*).] The author of the Nirukta (gave examples from the Ṛk-saṃhitā to show the many meanings of this word and explained them; this was stated earlier (Ṛgveda-saṃhitā, Part 11, page 58) *[as supplied: the parenthesis is not closed]*.
+
+In the Ṛk now under consideration a slight doubt appears in the description षट् रजांसि (*ṣaṭ rajāṃsi*), and Sāyaṇa has also given the solution to it: यद्यपि लोकाः सप्त तथापि सत्यलोकस्य कर्मिणां सर्वेषां साधारणत्वाभावात् षडित्युक्तं (*yadyapi lokāḥ sapta tathāpi satyalokasya karmiṇāṃ sarveṣāṃ sādhāraṇatvābhāvāt ṣaḍityuktaṃ*). Although the worlds are seven in number, however many rites those without knowledge may perform, entry into that world is not possible for all performers of rites; and since entry into these six worlds is possible for those devoted to rites, the number of the worlds is stated here as six only. But the world that is beyond all these is the Satyaloka. The Supreme Self has regulated these six worlds by his power.
+
+अथ य आत्मा स सेतुर्विधृतिरेषां लोकानामसंभेदाय (*atha ya ātmā sa seturvidhṛtireṣāṃ lokānāmasaṃbhedāya*)
+(छा उ (*chā u*) 8-9-1) *[as supplied: ಛಾ ಉ without full stop, and 8-9-1 where the bhāṣya on p. 325 gives 8-4-1]*
+
+### Printed p. 329
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೧೫.] Ṛgveda-saṃhitā 329 (as supplied).*
+
+Sāyaṇa has cited the sentence that, in order to keep apart, each with its own individual power, the worlds such as Bhū, which were made in accordance with the fruits of actions, a bridge in the form of the Self has been built, and has explained यः तस्तंभ (*yaḥ tastaṃbha*) *(no full stop in print before the next sentence, as supplied)*. अजस्य रूपे किमपि स्विदेकं (*ajasya rūpe kimapi svidekaṃ*) is the description of the Satyaloka. It is stated that only worshippers can enter this world by the path of light and the rest (arcirādi) and obtain an eternal place there. Having thus given the word rajas the meaning "worlds", Sāyaṇa afterwards explains it in another way.
+
+षड्रजांसि विलक्षणाः षडृतवः तान्यस्तंभयत् (*ṣaḍrajāṃsi vilakṣaṇāḥ ṣaḍṛtavaḥ tānyastaṃbhayat*): explaining यः (*yaḥ*) as referring to Āditya, he has explained that this Āditya has regulated the six seasons according to their respective times, and that in the disc of that same Āditya there is a seventh and eternal state. The six seasons also, being subject to recurrence, are non-eternal. The person who is in the disc of Āditya, which is in an eternal state beyond these time-regulations, is described in this way:
+
+अथ य एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते (*atha ya eṣo 'ṃtarāditye hiraṇmayaḥ puruṣo dṛśyate*)
+(छा उ. (*chā u.*) 1-6-6)
+
+Citing this sentence, Sāyaṇa has explained the nature of the principle taught by the word एक (*eka*) in किमपि स्विदेकं (*kimapi svidekaṃ*).
+
+तिस्रो भूमीर्धारयन् त्रेरुत द्यून् त्रीणि व्रता विदथे अंतरेषां । ऋतेनादित्या महि पो महित्वं तदर्यमन्वरुण मित्र चारु (*tisro bhūmīrdhārayan treruta dyūn trīṇi vratā vidathe aṃtareṣāṃ | ṛtenādityā mahi po mahitvaṃ tadaryamanvaruṇa mitra cāru*)
+(Ṛ. Saṃ. 1-27-8)
+
+It is Sāyaṇa's view that one meaning may be that, as stated in this Ṛk, he regulated the worlds Bhū and the rest, which are of three kinds. Thus the import is that, beyond (as supplied: ಮಾರಿ) these six rajas which undergo various modifications and changes, there is in the Supreme Person a truth that is non-dual and free from old age, death and the like, and that the knowledge of that truth is indispensable.
+
+अयं लोको नास्ति पर इति मानी पुनः पुनर्वशमापद्यते मे (*ayaṃ loko nāsti para iti mānī punaḥ punarvaśamāpadyate me*)
+(कठ. (*kaṭha.*) 1-2-6)
+
+One who thinks that only this world seen by our eyes is true and that there is no other, falls again and again under birth and death and becomes a sharer in affliction time after time; therefore,
+
+अस्तित्येवोपलब्धव्यस्तत्त्वभावेन चोभयोः । अस्तित्येवोपलब्धस्य तत्त्वभावः प्रसीदति (*astityevopalabdhavyastattvabhāvena cobhayoḥ | astityevopalabdhasya tattvabhāvaḥ prasīdati*)
+(कठ. (*kaṭha.*) 2-3-13)
+
 ---
 
-**Progress note:** Done through printed p. 322. Sukta 164 Rk 4 special topics end, grammar; Rk 5 text, Sayana, pratipadartha, bhavartha; special topics on paka (Narada, Kena story)
+**Progress note:** Done through printed p. 329. Rk 5 special topics (saptatantu, bashkaya), grammar; Rk 6 text, bhashya, pratipadartha; special topics on humility (Balaki, Svetaketu), six rajas
