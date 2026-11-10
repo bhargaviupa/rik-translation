@@ -5843,6 +5843,126 @@ So it is stated. But in the present Ṛk, with *kṛṇomi* the sacrificer, maki
 
 ಜುಹೋಮಿ—root *hu* in the senses of giving and eating. *Śluk* for the verbal-class suffix; doubling and the rest for the root. Because it stands after a non-finite word [as supplied: *atijanta*], the *nighāta* accent comes. ॥ 19 ॥
 
+### Printed p. 217
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 10] Ṛgveda-saṃhitā 217 (as supplied).*
+
+#### Ṛk 20
+**॥ संहितापाठः ॥**
+> मा त्वा॑ तपत्प्रि॒य आ॒त्मापि॒यंतं॒ मा स्वधि॑तिस्त॒न्व१॒॑ १ आ ति॑ष्ठिपत्ते ।
+> मा ते॑ गृ॒ध्नुर॑विश॒स्ताति॒हाय॑ छि॒द्रा गात्रा॑ण्य॒सिना॒ मिथू॑ कः
+> ॥२०॥
+**॥ पदपाठः ॥**
+> मा । त्वा । त प त् । प्रियः। आत्मा । अपियंतं । मा । स्वधितिः । तन्वः । आ । तिस्थि पत् ।
+> ते ।
+> मा । ते । गृध्नुः । अविशस्ता । अतिहाय । छिद्रा । गात्राणि । असिना । मिथु । करितिकः ॥ २० ॥
+**॥ सायणभाष्यम् ॥**
+> हे अश्व त्वा त्वामपियंतं देवान्प्रति गच्छंतं प्रिय आत्मा भोगायतनत्वात्तव प्रियतरो देहो मा तसत् । तप्तं मा कार्षित् । वियोगजनिता व्यथा मा
+> भूदित्यर्थः । स्वधितिः शस्त्रं ते तव तन्वस्तनूरंगानि मा तिष्ठिपत् । त्वयि चिरमास्थितानि
+> मा कार्षित् ॥ स्थापयतेर्लुजि तिष्ठते रित् । पा. ७-४-५. । इतीत्वं ॥ तथा ते तव
+> गात्राणि गृध्नुः केवलमांसग्रहणेप्सुरविशस्ता विशसनेकुशलः शमितातिहाय न्यूनातिरेकभावेन तत्तदंगमतिक्रम्य मध्यॆ मिथु मिथ्या व्यर्थमसिना छिद्रा छिद्राणि तिर्यक्छिन्नानि मा कः । मा कार्षित् ॥ करोतेर्लुजि मंत्रे घसेति चेर्लुक् । गुणः ।
+> हल्जाब्बि इति तलोपः ॥
+*Gist:* O horse, let neither your own dear body grieve, nor the knife linger in your limbs, nor the unskilled, greedy slaughterer hack your limbs.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(हे अश्व (*he aśva*)—O horse); अपियंतं (*apiyaṃtaṃ*)—going towards the gods, to them; त्वा (*tvā*)—you; प्रियः (*priyaḥ*)—your beloved; आत्मा (*ātmā*)—body; मा तपत् (*mā tapat*)—let it not cause to grieve; स्वधितिः (*svadhitiḥ*)—the knife, the instrument of cutting; ते (*te*)—your; तन्नः (*tannaḥ*)—limbs (in the limbs) *[as supplied: ತನ್ನಃ; the bhāṣya has ತನ್ವಃ]*; मा आ अतिष्ठत् (*mā ā atiṣṭhat*)—let it not stay long; गृध्नुः (*gṛdhnuḥ*)—one desirous of flesh alone; अविशस्ता (*aviśastā*)—one without fine experience in cutting, the slaughterer (*śamitṛ*); अतिहाय (*atihāya*)—leaving the proper places, roughly; ते (*te*)—your; गात्राणि (*gātrāṇi*)—members; असिना (*asinā*)—with his knife; मिथु (*mithu*)—needlessly; छिद्रा (*chidrā*)—as pieces; माकः (*mākaḥ*)—let him not make—
+
+### Printed p. 218
+*Running head: 218 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+O horse, as you go towards the gods, let your beloved body not make you grieve; let the knife, the instrument of cutting, not linger long in your limbs. Let the slaughterer, who is desirous of flesh alone and without fine experience in cutting, not, leaving the proper places in your body, roughly make your members, with his knife, into needless pieces.
+
+**Printed English**
+Let not your precious body grieve you, who are going verily (to the gods): let not the axe linger in your body: let not the greedy and unskilful (immolator), missing the members, mangle your limbs needlessly with his knife.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Because the horse is to go and join the gods, and because a place better than the earth will be obtained, it is suggested to it that it need not grieve at leaving its present body. Further, since pain to the body may arise at the time of cutting with the knife (*asi*), it is also prayed that no kind of injury may arise from the carelessness of the slaughterer, from his desire for flesh, or from his using the knife roughly and without understanding. The same is said in the Śatapatha-brāhmaṇa also:
+
+न वा उ एतन्म्रियते न रिष्यसीति । प्रश्वासयत्येवैनं तद्देवाग्० इदेषि पथिभिः सुगेभिरिति देवयानानेवैनं पथो दर्शयति यत्रासते सुकृतो यत्र ते ययुरिति सुकृद्भिरेवैनग्० सलोकं करोति तत्र त्वा देवः सविता दधात्विति सवितैवैनग्० स्वर्गॆ लोके दधाति प्रजापतये त्वा जुष्टं प्रोक्षामीत्युपाग्० श्वथोपगृह्णाति (*na vā u etanmriyate na riṣyasīti | praśvāsayatyevainaṃ taddevāg0 ideṣi pathibhiḥ sugebhiriti devayānānevainaṃ patho darśayati yatrāsate sukṛto yatra te yayuriti sukṛdbhirevainag0 salokaṃ karoti tatra tvā devaḥ savitā dadhātviti savitaivainag0 svargè loke dadhāti prajāpataye tvā juṣṭaṃ prokṣāmītyupāg0 śvathopagṛhṇāti*) (Śa. Brā. 13-2-7-12)
+
+"O horse, there is no death for you (for your self). Let there be no injury to you" — reciting thus the sentence of the Ṛk-saṃhitā (1-162-21), it encourages the horse; showing "On easy paths you go to the world of the gods" it points out the easy way to the world of the gods; saying "Where the doers of good deeds dwell, where all the doers of good deeds go", it says that the world of the doers of good deeds will be obtained by the horse also; and uttering "the world to which Savitṛ carries you, you shall go", he sprinkles — thus the procedure stated above is conveyed. Agni, Vāyu and Sūrya having been sacrificial animals and all of them having obtained the highest world, the Śatapatha-brāhmaṇa has shown this as an example also:
+
+अग्निः पशुरासीत् । तेनायजंत । स एतं लोकमजयद्यस्मिन्नग्निः स ते लोको भविष्यति तं जेष्यसि पिबैता अप इति यावानग्निर्विजयो यावांल्लोको यावदैश्वर्यं तावांस्ते विजयस्तावां लोकस्तावदैश्वर्यं भविष्यतीत्येवैनं तदाह (*agniḥ paśurāsīt | tenāyajaṃta | sa etaṃ lokamajayadyasminnagniḥ sa te loko bhaviṣyati taṃ jeṣyasi pibaitā apa iti yāvānagnirvijayo yāvāṃlloko yāvadaiśvaryaṃ tāvāṃste vijayastāvāṃ lokastāvadaiśvaryaṃ bhaviṣyatītyevainaṃ tadāha*) (Śa. Brā. 13-7-2-13) *[as supplied: the reference reads 13-7-2-13, while the neighbouring references have a different pattern]*
+
+"Agni was a sacrificial animal, and after he was offered as an oblation, he obtained all the worlds over which Agni now exercises lordship. O horse, that same world will be obtained by you too. As great as is Agni's victory, as extensive as is his lordship, just so great will be your victory and your lordship" — and:
+
+### Printed p. 219
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 10] Ṛgveda-saṃhitā 219 (as supplied).*
+
+वायुः पशुरासीत् । तेनायजंत स एतं लोकमजयद्यस्मिन्वायुः स ते लोको भविष्यति तं जेष्यसि पिबैता अप इति यावान्वायोर्विजयो (*vāyuḥ paśurāsīt | tenāyajaṃta sa etaṃ lokamajayadyasminvāyuḥ sa te loko bhaviṣyati taṃ jeṣyasi pibaitā apa iti yāvānvāyorvijayo*).... .... .... .... .... ॥ *[the ellipsis dots are as supplied]* (Śa. Brā. 13-2-7-14)
+
+Vāyu too was a sacrificial animal. After that animal was offered in the sacrifice in the form of an oblation, he obtained the world over which Vāyu now exercises lordship. O horse, for you too that same victory and that same lordship will be obtained.
+
+सूर्यः पशुरासीत् । तेनायजंत (*sūryaḥ paśurāsīt | tenāyajaṃta*) .................... । *[the ellipsis dots are as supplied]* (Śa. Brā. 13-2-7-15)
+
+In the same way Sūrya too was an animal. To him also the position of being lord of all the worlds has now been obtained. Therefore, "you also, offered as an oblation in the sacrifice, obtain that same world and greatness" — the sentence thus encouraging the horse, with the mantra (1-162-21) of this same part of the Ṛk-saṃhitā recited, prays that no injury may befall the animal and that a good destination may be obtained.
+
+आत्मा (*ātmā*)—this word is used here as a synonym for the body. It means a body dear as one's self.
+
+गृध्नुः (*gṛdhnuḥ*)—it is an epithet of the *śamitṛ*. It prays that the slaughterer, who, not knowing the greatness of the sacrifice, desires only the flesh of the horse and does the cutting, be warned, and that he may not cut you roughly.
+
+### Printed p. 220
+*Running head: 220 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨ ಸೂ೧೬೦] (as supplied: the sūkta number is printed 160 here, and the abbreviation mark is missing).*
+
+*Grammar (transcribed, not explained):*
+
+तपत् (*tapat*)—root *tapa*, in the sense of heat (*saṃtāpa*). By स्मोत्तरेलज्च (*smottarelajca*) (Pā. Sū. 3-3-176) the *laṅ* that is prescribed comes even without connection with *sma*. Form ending in the third person singular. Because of connection with *māṅ* the augment *aṭ* does not come. As a finite verb, the *nighāta* accent comes.
+
+अपियंतम् (*apiyaṃtam*)—root *iṇ* in the sense of going. *Śatṛ* substituted for *laṭ*. By इणो यण् (*iṇo yaṇ*) (Pā. Sū. 6-4-81) *yaṇ* is substituted for the root. The suffix has the first-acute accent. When it forms a *prādi* compound, the *kṛt*-final member has its own natural accent. Form ending in the accusative singular.
+
+तन्वः (*tanvaḥ*)—the word *tanu*. When the accusative plural *śas* follows, by तन्नादीनां छंदस्युपसंख्यानम् (*tannādīnāṃ chaṃdasyupasaṃkhyānam*) *yaṇ* is substituted. By उदात्तस्वंतयोर्यणः (*udāttasvaṃtayoryaṇaḥ*) (Pā. Sū. 8-2-4) the *svarita* final accent comes. *[as supplied: ತನ್ನಾದೀನಾಂ]*
+
+तिष्ठिपत् (*tiṣṭhipat*)—root *ṣṭhā* in the sense of cessation of movement. To it, after the causative (*ṇijanta*), *luṅ*. In the third person singular *tip*. Elision of *i*; by आर्तिह्रीव्ली (*ārtihrīvlī*) (Pā. Sū. 7-3-36) the augment *puk*. By तिष्ठतेरित् (*tiṣṭhaterit*) (Pā. Sū. 7-4-5) *i* for the penultimate. *Caṅ* substituted for *cli*. By *caṅi* doubling. By शर्पूर्वाःखयः (*śarpūrvāḥkhayaḥ*) (Pā. Sū. 7-4-61) the *ta* remains in the reduplicate. Because of connection with *māṅ*, the augment *aṭ* does not come. As a finite verb the *nighāta* accent comes.
+
+गृध्नुः (*gṛdhnuḥ*)—root *gṛdhu* in the sense of desire. By तृसिगृधिधृषिक्षिपेः क्नुः (*tṛsigṛdhidhṛṣikṣipeḥ knuḥ*) (Pā. Sū. 3-2-140) the suffix *knu*. Because it has a *k*, the *guṇa* of the light penultimate does not come. By the accent of the suffix, it becomes final-acute.
+
+अतिहाय (*atihāya*)—root *hāk* in the sense of abandoning. By समासेनञ् (*samāsenañ*) (Pā. Sū. 7-1-37) *lyap* is substituted for the suffix *ktvā*. Because it has a *p*, the accent of the root remains. In the compound, the *kṛt*-final member has its natural accent.
+
+छिद्रा (*chidrā*)—root *chidir* in the sense of splitting in two. The Uṇādi suffix *rak*. In the neuter plural, by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-70) elision of *śi*.
+
+कः (*kaḥ*)—root *ḍukṛñ* in the sense of doing. *Luṅ*, the suffix *tip* in the third person singular. By इतश्च (*itaśca*) elision of *i*. By मंत्रेघसहवर्ण (*maṃtreghasahavarṇa*) (Pā. Sū. 2-4-80) *luk* for *cli*. On account of *tip*, *guṇa* for the *i*-vowel of the root; it comes as *ra* [as supplied: ರಸರವಾಗಿ] *[sic]*. By हल्ज्याभ्यो (*haljyābhyo*) the *tip* that is attached is elided. *Visarga* for the *repha*. By नमाज्‌योगे (*namājyoge*) (Pā. Sū. 6-4-74) the augment *aṭ* does not come. As a finite verb, the *nighāta* accent comes. ॥ 20 ॥
+
+### Printed p. 221
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 10] Ṛgveda-saṃhitā 221 (as supplied).*
+
+#### Ṛk 21
+**॥ संहितापाठः ॥**
+> न वा उ॑ ए॒तन्म्रि॑यसे॒ न रि॑ष्यसि दे॒वा इदे॑षि प॒थिभिः॑ सु॒गेभिः॑।
+> हरी॑ ते॒ युंजा॒ पृष॑ती अभूता॒मुपा॑स्थाद्वा॒जी धु॒रि रास॑भस्य ॥ २० ॥
+
+> *na vā u etanmriyase na riṣyasi devā ideṣi pathibhiḥ sugebhiḥ|*
+> *harī te yuṃjā pṛṣatī abhūtāmupāsthādvājī dhuri rāsabhasya ‖ 20 ‖*
+*[As supplied: the verse-end number after the Saṃhitā text is printed ॥ ೨೦ ॥ (20), though the Pada-pāṭha that follows ends with ॥ ೨೧ ॥ (21).]*
+**॥ पदपाठः ॥**
+> न । वै । ऊं इति । एतत् । म्रियसे । न । रिष्यसि । देवान् । इत् । एषि । पथिभिः ।
+> सुगेभिः ।
+> हरी इति । ते ! युंजा । पृषती इति । अभूतां । उप । अस्फात् । वाजी । धुरि ।
+> रासभस्य ॥ २१ ॥
+**॥ सायणभाष्यम् ॥**
+> न वा उ नैव खल्वेतन्म्रियसे । वैशब्द एवकारार्थः । उ इत्यवधारणे । नैवेदानीमितराश्ववन्मृतो भवसि देवत्वप्राप्तेर्वक्ष्यमाणत्वात् । आत एव न रिष्यसि-। न
+> हिंस्यसे । व्यर्थहिंसाया अभावात् । ननु प्रत्यक्षतो मृतिरवयवनाशश्च दृश्यते
+> कथमेवमुच्यत इति उच्यते । सुगेभिः पथिभिः शोभनगमनसाधनैर्मार्गॆर्देवयानलक्षणैर्देवानिदेषि । देवानेव प्राप्नोषि । अतो युक्तैषोक्तिः । कैः
+> साधनैरिति तत्राह । ते त्वां वोढुं हरी एतन्नामानाविंद्रस्याश्वा ते तव युंजा
+> रथे युक्तावभूतां । भविष्यतः । आशंसारूपत्वादूतार्थनिर्देशः । हरी इंद्रस्यॆति
+> निरुक्तं । तथा पृषती पृषत्यौ मरुतां वाहनभूतौ युंजाभूतां । युक्तौ भविष्यतः । पृषत्यो मरुतामिति च निरुक्तं ॥ युजेर्युत्विगित्यादिना क्विन् । युजेरसमासे । पा. ७-१- ७१ । इति नुम् । सुपां सुलुगित्याकारः । तथा रासभस्याश्विवाहनस्यॆतन्नामकस्याश्वस्य धुरि स्थाने वर्तमानः कश्चिद्वाज्युपास्थात् । उपस्थास्यति । वहतीत्यर्थः । यद्वा । रासभस्य भानोधुरि वर्त्मनि युक्तो वाज्यश्व उपस्थास्यति । देवत्वं
+> गच्छतस्तव गमनायेंद्रादयः स्वस्ववाहनानि प्रेषयंतीत्यर्थः । यद्वा । तत्तद्देवभावमापन्नं त्वां तानि तानि वाहनानि वहंति ॥
+*Gist:* You do not die; you are not harmed; by easy paths you go to the gods. Horses of Indra, the Maruts' mares, and another steed will be yoked to carry you.
+
+### Printed p. 222
+*Running head: 222 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+एतत् (*etat*)—at this time of the sacrifice; न वा उ म्रियसे (*na vā u mriyase*)—(as other horses meet death) you certainly do not meet death at all; न रिष्यसि (*na riṣyasi*)—you are not harmed either; सुगेभिः (*sugebhiḥ*)—suitable for easy travelling; पथिभिः (*pathibhiḥ*)—by paths, that is, by paths having the character of the *devayāna*; देवा इत् (*devā it*)—to the gods alone; एषि (*eṣi*)—you go; ते (*te*)—you (to carry); हरी (*harī*)—the two horses of Indra named *Harī*; युंजा (*yuṃjā*)—yoked together to the car; अभूतां (*abhūtāṃ*)—become; पृषती (*pṛṣatī*)—the vehicles of the Maruts (are also yoked to the car); रासभस्य (*rāsabhasya*)—of the horse of this name, the vehicle of the Aśvin deities, that is yoked; धुरि (*dhuri*)—in the region of the yoke; वाजी (*vājī*)—another horse; उपास्थात् (*upāsthāt*)—yoked (carries you). [as supplied: the Kannada text writes ಮೈತಿಯನ್ನು for ಮೃತಿಯನ್ನು]
+
+**भावार्थ (Bhāvārtha)**
+O horse, at this time of the sacrifice you do not meet a low death in the manner in which other horses meet death. And no injury will come to you from the cutting. By the *devayāna* path, suitable for easy travelling, you reach the gods alone. To carry you, the horses of Indra, named *Harī*, are yoked together to the car. The vehicle of the Maruts too is made ready, joined to the car. In the region of the yoke where the *rāsabha*, the vehicle of the Aśvin deities, is yoked, another horse, yoked, stands ready to carry you. *[as supplied: ಆಶ್ವಗಳು for ಅಶ್ವಗಳು]*
+
+**Printed English**
+Verily at this moment you do not die; nor are you harmed; for you go by auspicious paths to the gods. The horses of Indra, the steeds of the Maruts shall be yoked (to their cars), and a courser shall be placed in the shaft of the ass of the Aswins (to bear you to heaven).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk two main points are indicated. First, after the sacrificial horse has been offered in the form of an oblation, the death that befalls other worldly animals does not befall it; a distinct state is obtained, one that makes it immortal along with the gods. As soon as the offering is made, its movement is attained on the path by which it goes and joins the gods. Here, for सुगेभिः पथिभिः (*sugebhiḥ pathibhiḥ*) the commentator has explained शोभनगमनसाधनैर्मार्गैः देवयानलक्षणैः (*śobhanagamanasādhanairmārgaiḥ devayānalakṣaṇaiḥ*) as "by paths suitable for the movement of the gods". This path of the *devayāna* … *[the printed page ends here; the sentence continues on the next page]*
+
 ---
 
-**Progress note:** Done through printed p. 216. Ṛk 18 Special Topics end, grammar; Ṛk 19 (Sūkta 162) with Special Topics and grammar
+**Progress note:** Done through printed p. 222. Sukta 162 rks 20-21, Satapatha quotations, grammar, pp. 217-222
