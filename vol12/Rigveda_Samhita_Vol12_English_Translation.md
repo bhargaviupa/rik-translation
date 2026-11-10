@@ -998,6 +998,103 @@ Number of ṛks in the Sūkta: 5 ·
 
 ऋतावृधा (*ṛtāvṛdhā*)—those who make the sacrifice increase; मही (*mahī*)—those of great form; विदथेषु (*vidatheṣu*)—in sacrifices; प्रचेतसा (*pracetasā*)—who give us consciousness, or who are to be worshipped by us with faith; द्यावापृथिवी (*dyāvāpṛthivī*)—the deities Heaven and Earth; यज्ञैः (*yajñaiḥ*)—with oblations and the like, which are the means of sacrifice, or for the sake of offering oblations; स्तुषे (*stuṣe*)—I praise. देवपुत्रे (*devaputre*)—having the sacrificers themselves as sons, or having the gods as sons. ये (*ye*)—which Heaven and Earth; देवेभिः (*devebhiḥ*)—performed by the sacrificers; सुदंससा (*sudaṃsasā*)—endowed with excellent works; इत्था (*itthā*)—certainly; धिया (*dhiyā*)—with a gracious mind; वार्याणि (*vāryāṇi*)—the desired oblations; प्रभूषतः (*prabhūṣataḥ*)—adorn, that is, accept. [Or वार्याणि (*vāryāṇi*)—the desired objects wished for by the sacrificers; प्रभूषतः (*prabhūṣataḥ*)—provide.]
 
+### Printed p. 37
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨.] Ṛgveda-saṃhitā, p. 37 (as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+
+I praise and pray, for the sake of offerings of oblations and the like, to Heaven and Earth, who make the sacrifice increase, who have a great form and are praised in the sacrifices. Heaven and Earth, who have the gods themselves as sons, endowed with the excellent rites performed by the sacrificers, fulfil the desired objects of the sacrificers with their gracious mind.
+
+**Printed English translation**
+
+*[Printed heading "English Tranlation" [sic]; the Latin text breaks "augment-ers" over a line, joined here.]*
+
+I glorify with sacred rites the mighty Heaven and Earth, the augmenters of sacrifice, who (are to be contemplated) with devotion at holy ceremonies; those two, who, cherishing their worshippers as children, are venerated by the devout, and therefore with favour bestow (upon us) desirable blessings.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+द्यावापृथिवी (*dyāvāpṛthivī*)—Except for one sūkta, beginning with the ṛk बळित्था पर्वतानां (*baḷitthā parvatānāṃ*) (Ṛ. Saṃ. 5-84), which has the Earth as its deity, there is no sūkta that has the Earth alone, or Heaven alone, as its deity. Heaven and Earth are referred to together in the other places. When they are so referred to together, in the matter of which of the two has the greater precedence, the authors of the Nirukta, anticipating that doubt, have explained as follows on the basis of the Ṛk-saṃhitā:
+
+द्यावापृथिवीनामधेयान्युत्तराणि चतुर्विंशतिः । (*dyāvāpṛthivīnāmadheyānyuttarāṇi caturviṃśatiḥ |*) "स्वधे, पुरंधी, धिषणे (*svadhe, puraṃdhī, dhiṣaṇe*) रोदसी (*rodasī*) and so on are the twenty-four names of Heaven and Earth" (Ni. 3-21). तयोरेषा भवति । (*tayoreṣā bhavati |*)
+
+कतरा पूर्वा कतरापरायोः कथा जाते कवयः को विवेद । (*katarā pūrvā katarāparāyoḥ kathā jāte kavayaḥ ko viveda |*)
+विश्वं त्मना बिभृतो यद्ध नाम वि विर्तेते अहनी चक्रियेव ॥ (*viśvaṃ tmanā bibhṛto yaddha nāma vi virtete ahanī cakriyeva ‖*)
+
+(Ṛ. Saṃ. 1-185-1)
+
+कतरा पूर्वा कतरापरा । एनयोः कथं जाते कवयः क एने विजानाति । (*katarā pūrvā katarāparā | enayoḥ kathaṃ jāte kavayaḥ ka ene vijānāti |*)
+सर्वमात्मना बिभृतो यद्धैनयोः कर्म विवर्तेते चैनयोरहनी (*sarvamātmanā bibhṛto yaddhainayoḥ karma vivartete cainayorahanī*)
+अहोरात्रे चक्रियेव चक्रयुक्ते इवेति द्यावापृथिव्योर्महिमानमाचष्ट (*ahorātre cakriyeva cakrayukte iveti dyāvāpṛthivyormahimānamācaṣṭa*)
+आचष्टे । (*ācaṣṭe |*)
+
+(Ni. 3-22)
+
+"Which of these two deities is the earlier? What is the order of their origin? O seers, which of you knows this secret? They are the support of all the beings of the world; like the two wheels of a chariot, both are praised as running in succession": thus, quoting the Ṛk-saṃhitā, (the Nirukta authors) have explained. *[The sentence runs over the page break, "ರಥದ | ಎರಡು ಚಕ್ರಗಳಂತೆ".]*
+
+### Printed p. 38
+
+*Running head: 38 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159 (printed with a full stop after "೧೫೯").*
+
+The same ṛk is quoted in the Aitareya Brāhmaṇa also. Concerning the origin of these deities, wonder at times and an uncertain conjecture at other times are natural.
+
+किं स्विध्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्कृतक्षुः । (*kiṃ svidhvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣkṛtakṣuḥ |*)
+संतस्थाने अजरे इतऊती अहानि पूर्विरुषसो जरंत ॥ (*saṃtasthāne ajare itaūtī ahāni pūrviruṣaso jaraṃta ‖*)
+
+(Ṛ. Saṃ. 11 31-7) *[reference as printed, "೧೧ ೩೧-೭"; the ṛk is quoted again below as Ṛ. Saṃ. 10-31-7]*
+
+"While innumerable days and dawns are passing, from what forest and from what trees were these Heaven and Earth, which stand imperishable, unbroken and firm, built?": thus the seer expresses his wonder, full of praise.
+
+The inquiry expressed in the ṛk किं स्विध्वनं (*kiṃ svidhvanaṃ*) (Ṛ. Saṃ. 10-31-7) is indicated in many other places too; in some places an apt answer can also be seen. For example,
+
+किं स्विदासीदधिष्ठानमारंभणं कतमत्स्वित्कथासीत् । (*kiṃ svidāsīdadhiṣṭhānamāraṃbhaṇaṃ katamatsvitkathāsīt |*)
+यतो भूमिं जनयन् विश्वकर्मा वि द्यामौर्णोन्महिना विश्वचक्षाः ॥ (*yato bhūmiṃ janayan viśvakarmā vi dyāmaurṇonmahinā viśvacakṣāḥ ‖*)
+
+(Ṛ. Saṃ. 10-81-2)
+
+it asks Viśvakarman, who created the earth, made the atmosphere spread and has all-seeing eyes, what the support was for their creation. As the answer to it,
+
+किग्स् स्विद्वनं क उ स वृक्ष आसीत् । यतो द्यावा पृथिवी निष्कृतक्षुः । मनिषि- (*kigs svidvanaṃ ka u sa vṛkṣa āsīt | yato dyāvā pṛthivī niṣkṛtakṣuḥ | maniṣi-*)
+णो मनसा पृच्छतेम तत् । यदध्यतिष्ठद्भवनानि धारयन् । ब्रह्म वनं (*ṇo manasā pṛcchatema tat | yadadhyatiṣṭhadbhavanāni dhārayan | brahma vanaṃ*)
+ब्रह्म स वृक्ष आसीत् । यतो द्यावापृथिवी निष्कृतक्षुः । मनिषिणो मनसा (*brahma sa vṛkṣa āsīt | yato dyāvāpṛthivī niṣkṛtakṣuḥ | maniṣiṇo manasā*)
+विब्रवीमि वः । ब्रह्माध्यतिष्ठद्भवनानि धारयन् ॥ (*vibravīmi vaḥ | brahmādhyatiṣṭhadbhavanāni dhārayan ‖*)
+
+(Tai. Brā. 2-8-9-6, 7) *[printed "ತೈ. ಬ್ರಾ."; the first word is printed "ಕಿಗ್ಸ್" in the supplied text]*
+
+"For the creation of these Heaven and Earth Brahman (the imperishable thing called Brahman) itself is the forest and Brahman itself is the tree; from it they were made": thus it is said in the Taittirīya Brāhmaṇa.
+
+इयं पृथ्वी भूतस्य प्रथमजा । (*iyaṃ pṛthvī bhūtasya prathamajā |*)
+
+(Śa. Brā. 14-1-2-11)
+
+"This earth was born first of all beings": this is the statement of the Śatapatha Brāhmaṇa. In the present ṛk the greatness of Heaven and Earth is praised by the epithets मही (*mahī*), ऋतावृधा (*ṛtāvṛdhā*) and so on.
+
+### Printed p. 39
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨.] Ṛgveda-saṃhitā, p. 39 (as supplied).*
+
+ऋतावृधा (*ṛtāvṛdhā*)—ऋतस्य यज्ञस्य सत्यस्य वा वर्धयित्र्यौ । (*ṛtasya yajñasya satyasya vā vardhayitryau |*) The word ऋत (*ṛta*) has the meanings "sacrifice" and "truth"; and since the sacrifice is performed and truth established only with the help of Heaven and Earth, the epithets ऋतावृधा (*ṛtāvṛdhā*) and ऋतावरी (*ṛtāvarī*) refer to Heaven and Earth *[printed "ವ್ಯಾವಾಪೃಥಿವಿಗಳ", for ದ್ಯಾವಾಪೃಥಿವಿಗಳ, as supplied]*.
+
+मही (*mahī*)—महत्यौ । (*mahatyau |*) "Those of great form." प्रथनात्पृथिवीत्याहुः क एनामप्रथ (*prathanātpṛthivītyāhuḥ ka enāmapratha*)यिष्यत् किमाधारश्चेत्यथ वै दर्शनेन पृथुरप्रथिता चेदप्यन्यैः (*yiṣyat kimādhāraścetyatha vai darśanena pṛthuraprathitā cedapyanyaiḥ*) (Ni. 1-14): the name Pṛthivī is from being spread out widely. If it is asked who spread it out, it is hard to give the answer; even if no one had spread it, it is spread out of itself.
+
+आपो वा इदमग्रे सलिलमासीत्तस्मिन्जापतिर्वायुर्भूत्वाचरत्स इमामप- (*āpo vā idamagre salilamāsīttasminjāpatirvāyurbhūtvācaratsa imāmapa-*)
+श्यत्तां वराहो भूत्वाहरत्तां विश्वकर्माभूत्वा व्यमार्ट्सा प्रथत सा (*śyattāṃ varāho bhūtvāharattāṃ viśvakarmābhūtvā vyamārṭsā prathata sā*)
+पृथिव्यभवत्तत्पृथिव्यै पृथिवित्वं । (*pṛthivyabhavattatpṛthivyai pṛthivitvaṃ |*)
+
+(ಕೃ. ಸಂ. 7-1-5-1) *[abbreviation "ಕೃ. ಸಂ." as printed, not expanded; probably the Taittirīya Saṃhitā or Ṛk-saṃhitā]*
+
+Here too the same quality is stated, and the greatness of the earth is shown.
+
+विदथेषु (*vidatheṣu*)—यज्ञेषु । (*yajñeṣu |*) "In sacrifices", that is, at the places of sacrifice. By वेदयत्सु (*vedayatsu*) स्तोत्रेषु निमित्तभूतेषु (*stotreṣu nimittabhūteṣu*) the derivation of the word विदथ (*vidatha*) is shown. This word is read among the names of sacrifice, यज्ञः वेनः (*yajñaḥ venaḥ*) and so on (Ni. 3-16). And,
+
+होता देवो अमर्त्यः पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥ (*hotā devo amartyaḥ purastādeti māyayā | vidathāni pracodayan ‖*)
+
+(Ṛ. Saṃ. 3-27-7)
+
+quoting this ṛk, the authors of the Nirukta show that the word विदथ (*vidatha*) is formed from the root विद् (*vid*), which gives the sense of knowledge. The opinions of the scholars who tried to give the exact meaning of this word and stated their own views were given in the earlier part (that is, Ṛgveda-saṃhitā, part 11, pages 321 to 325, "ಸೇಜು" printed for the page). Max Muller has explained the word as "sacrificial assembly", Oldenberg as "the sacrifice prescribed by the śāstra", and Bloomfield as "house"; this was shown earlier by quoting their own sentences. Since the different meanings "house", "sacrifice" and "assembly" are all possible for this word, all fit according to the context; and it was also shown earlier, with examples, that all these meanings occur in Sāyaṇa's bhāṣya itself. In the present ṛk the meaning विदथेषु यागेषु (*vidatheṣu yāgeṣu*), "in sacrifices", is given.
+
+देवपुत्रे (*devaputre*)—देवाः सर्वे पुत्रस्थानीया ययोस्ते द्यावापृथिव्यौ । (*devāḥ sarve putrasthānīyā yayoste dyāvāpṛthivyau |*) "Heaven and Earth, who have all the deities as sons."
+
 ---
 
-**Progress note:** Done through printed p. 36 (PDF 36). Sūkta 158 end (Ṛk 6 Bhāvārtha, English, Special Topics, grammar); Sūkta 159 introduction, Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha
+**Progress note:** Done through printed p. 39 (PDF 39). Sūkta 159 Ṛk 1 Bhāvārtha, English, Special Topics (dyāvāpṛthivī, ṛtāvṛdhā, mahī, vidatha, devaputre)
