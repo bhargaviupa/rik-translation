@@ -15066,6 +15066,215 @@ In the Nirukta the word Sarasvatī is read both among the names of speech and am
 
 पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः (*pāvakā naḥ sarasvatī vājebhirvājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ*) (Ṛ. Saṃ. 1-3-10)
 
+### Printed p. 643
+*Running head: [ಅ. ೨ ಅ. ೩. ವ ೨೩.] Ṛgveda-saṃhitā 643 (as supplied).*
+
+In these and similar Ṛks, the identity of Vāk (speech) and Sarasvatī is stated and the goddess of speech is praised. Among the thirty-five deities beginning with शैनः सोमः (*śainaḥ somaḥ*), the authors of the Nirukta included the deities Saramā and Sarasvatī, and as an example they recited and explained the Ṛk quoted above (Ṛ. Saṃ. 1-3-10). In that Ṛk all the qualities of Sarasvatī that are described in the present Ṛk (1-164-89) are praised. The epithets पावका (*pāvakā*), वाजिनीवती (*vājinīvatī*), धियावसुः (*dhiyāvasuḥ*) and the like make known the nature of Sarasvatī, the goddess of speech. She is the purifier; she herself is the धियावसु (*dhiyāvasu*).
+
+In the Aitareya Āraṇyaka the purport of this Ṛk is explained in detail; pointing this out, Sāyaṇa has cited that passage in support of his meaning. The explanation given there is as follows.
+
+पावका नः सरस्वती यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः (*pāvakā naḥ sarasvatī yajñaṃ vaṣṭu dhiyāvasuriti vāgvai dhiyāvasuḥ*) वाचमेवास्मिंस्तद्दधाति य एवं वेद येषां चैवं विद्वानेतद्धोता शंसति (*vācamevāsmiṃstaddadhāti ya evaṃ veda yeṣāṃ caivaṃ vidvānetaddhotā śaṃsati*) यज्ञं वष्टिविति यदाह यज्ञं वहत्वित्येव तदाह (*yajñaṃ vaṣṭiviti yadāha yajñaṃ vahatvityeva tadāha*)
+(Ai. Ā. 1-1-4; abbreviation as supplied.)
+
+("'Pāvakā naḥ sarasvatī, yajñaṃ vaṣṭu dhiyāvasuḥ': speech indeed is dhiyāvasu. Thereby he places speech in him who knows thus, and in those for whom the Hotṛ, knowing thus, recites this. When he says 'yajñaṃ vaṣṭu', he says just this: 'let her carry the sacrifice'.")
+
+Here the word धी (*dhī*) is explained as mere praise. The goddess of speech is the treasure of these praise-mantras. The one who knows this principle, or the Hotṛ who knowing it recites this for whatever sacrificer, that sacrificer too obtains the grace of the goddess of speech. Not only that: this goddess destroys all sins and brings about purity of self for the performer of the sacrifice. It is stated that this deity, pure in herself and the purifier of others, is prayed to with "यज्ञं वष्टु (*yajñaṃ vaṣṭu*)": "may she carry our sacrifice and deliver it to the gods". In the same way the authors of the Nirukta have also cited and explained the Ṛk
+
+महो अर्णः सरस्वती प्र चेतयति केतुना । धियो विश्वा वि राजति (*maho arṇaḥ sarasvatī pra cetayati ketunā | dhiyo viśvā vi rājati*)
+(Ṛ. Saṃ. 1-3-12)
+
+In this Ṛk it is stated that Sarasvatī is a deity of the form of a river. Even so, the very qualities that belong to the goddess of speech are described here too. Even in stating the definition of the word Sarasvatī, the authors of the Nirukta have said that one and the same definition fits in both contexts:
+
+तत्र सरस्वतीत्येतस्य नदीवद्देवतावच्च निगमा भवंति (*tatra sarasvatītyetasya nadīvaddevatāvacca nigamā bhavaṃti*)
+(Ni. 7-23)
+
+("Of this name Sarasvatī, the Vedic passages are both river-like and deity-like.")
+
+सरस्वती । सर इत्युदकनाम सर्तॆस्तद्विती (*sarasvatī | sara ityudakanāma sartèstadvitī*)
+(Ni. 9-26)
+
+("Sarasvatī: *sara* is a name for water, from *sṛ*; she who has it." *[as supplied: the last word is printed ಸರ್ತೆಸ್ತದ್ವಿತೀ; kept as printed.]*)
+
+### Printed p. 644
+*Running head: 644 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+The word *sara* is formed from the root सृ (*sṛ*), which gives the sense "to flow"; it means water. She who possesses this (*sara*) is Sarasvatī. This is the definition of Sarasvatī in the form of a river. That this same definition also gives the nature of the word Sarasvatī in the form of the goddess of speech is stated by "सरस्वती व्याखाता (*sarasvatī vyākhātā*)" (Ni. 11-15).
+
+In the word धियावसुः (*dhiyāvasuḥ*), an epithet of Sarasvatī, it has been stated above that the Aitareya Āraṇyaka explains the word धी (*dhī*) as praise. The authors of the Nirukta explain धियावसुः-कर्मवसुः (*dhiyāvasuḥ-karmavasuḥ*), taking the word धी (*dhī*) to mean action. The word धी (*dhī*) is read in the Nirukta both among the names of action and among the names of intelligence (Ni. 3-1; Ni. 3-13). When the authors of the Nirukta explain the word in the Ṛk "महो अर्णः सरस्वती (*maho arṇaḥ sarasvatī*)" as सर्वाणि प्रज्ञानानि (*sarvāṇi prajñānāni*) (Ni. 11-27), they state the meaning "all our meditation endowed with intelligence". And in the Ṛks
+
+पथस्पथः परिगतिं वचस्या कामेन कृतो अभ्यानळर्कं । स नो रासच्चुरुधश्चंद्राग्रा धियंधियं सीषधाति प्र पूषा (*pathaspathaḥ parigatiṃ vacasyā kāmena kṛto abhyānaḷarkaṃ | sa no rāsaccurudhaścaṃdrāgrā dhiyaṃdhiyaṃ sīṣadhāti pra pūṣā*)
+(Ṛ. Saṃ. 6-49-8)
+
+पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरापः समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāpaḥ samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā*)
+(Ṛ. Saṃ. 10-65-13)
+
+the word धी (*dhī*) is explained as sacrificial rites and the like. In the present Ṛk, whichever meaning is taken, it suits the context.
+
+स्तनः-स्तनवच्छिशुस्थानीयानां प्राणिनामाप्यायनकारी लौकिकवैदिकसुशब्दरूपः (*stanaḥ-stanavacchiśusthānīyānāṃ prāṇināmāpyāyanakārī laukikavaidikasuśabdarūpaḥ*) स्तनः (*stanaḥ*). Sāyaṇa explains: just as a breast gives milk to the people who stand in the place of infants and thereby satisfies them, so the word consisting of speech, whether worldly or Vedic in form, satisfies the wise ṛtviks. And सर्वप्राण्युपकारकं सूक्तमयं स्तनं (*sarvaprāṇyupakārakaṃ sūktamayaṃ stanaṃ*): the meaning is "a breast that benefits all living beings and is made of sūktas". The Bṛhadāraṇyaka Upaniṣad (printed ಬೃಹದಾರ್ಣ್ಯಕ in the next paragraph) recites this same mantra and states that both kinds of meaning are admissible there:
+
+अथैनं मात्रे प्रदाय स्तनं प्रयच्छति (*athainaṃ mātre pradāya stanaṃ prayacchati*) "यस्ते स्तनः (*yaste stanaḥ*) ......"
+
+This lays down the rule that the mother, while giving the breast to her child to suckle, should recite this mantra. Śaṅkarācārya says:
+
+अथैनं मात्रे प्रदाय सात्विकस्थं स्तनं प्रयच्छति यस्ते स्तनइत्यादिमंत्रेण (*athainaṃ mātre pradāya sātvikasthaṃ stanaṃ prayacchati yaste stanaityādimaṃtreṇa*)
+(Bṛ. U. Śāṅkara-bhāṣya, printed ಶಾಂಕರಭ್ಯಾಷ್ಯ, 6-4-27.)
+
+मयोभूः—रसास्वादिनां सुखस्य भावयिता (*mayobhūḥ—rasāsvādināṃ sukhasya bhāvayitā*): "one who brings about the happiness of those who taste rasa" is the meaning, that is, she who makes one experience the happiness of the rasa of speech. Or: she who pours the milk called rasa from the breast of the form of speech, and who gives delight. In the Bṛhadāraṇyaka this purport is indicated by comparing speech (printed ವಾಕ್ಯನ್ನು, *[as supplied: for ವಾಕ್ಕನ್ನು]*) with a cow:
+
+### Printed p. 645
+*Running head: [ಅ ೨. ಅ. .೩ ವ. ೨೩.] Ṛgveda-saṃhitā 645 (as supplied).*
+
+वाचं धेनुमुपासीत तस्याश्चत्वारः स्तनाः स्वाहाकारो वषट्कारो हंतकारो स्वधाकारस्तस्यै द्वौ स्तनौ देवा उपजीवंति स्वाहाकारं च वषट्कारं च हंतकारं मनुष्याः स्वधाकारं पितरस्तस्याः प्राण ऋषभो मनो वत्सः (*vācaṃ dhenumupāsīta tasyāścatvāraḥ stanāḥ svāhākāro vaṣaṭkāro haṃtakāro svadhākārastasyai dvau stanau devā upajīvaṃti svāhākāraṃ ca vaṣaṭkāraṃ ca haṃtakāraṃ manuṣyāḥ svadhākāraṃ pitarastasyāḥ prāṇa ṛṣabho mano vatsaḥ*)
+(Bṛ. U. 5-8)
+
+("One should worship speech as a cow. She has four teats: svāhākāra, vaṣaṭkāra, hantakāra, svadhākāra. Of her two teats, svāhākāra and vaṣaṭkāra, the gods live; hantakāra, men; svadhākāra, the Fathers. Her bull is the vital breath; her calf, the mind.")
+
+Speech is to be worshipped as a cow. This cow has four teats: svāhākāra, vaṣaṭkāra, hantakāra and svadhākāra. Svāhākāra and vaṣaṭkāra supply the gods with food in the form of oblations and bring them satisfaction. Hantakāra gives satisfaction to men, and svadhā to the Fathers. The vital breath is like the bull of this cow in the form of speech.
+
+प्राणेन हि वाक्प्रसूयते । मनो वत्सः । मनसा हि प्रस्राव्यते । मनसा ह्यालोचिते विषये वाक्प्रवर्तते । तस्मान्मनो वत्सस्थानीयं (*prāṇena hi vākprasūyate | mano vatsaḥ | manasā hi prasrāvyate | manasā hyālocite viṣaye vākpravartate | tasmānmano vatsasthānīyaṃ*)
+(Śāṅkara-bhāṣya.) *[as supplied: this reference is printed twice, first as ಶಾ೦ಕರಭಾಷು. and again as ಶಾಂಕರಭಾಷ್ಯ.]*
+
+Because speech is brought forth by the vital breath, the vital breath is the bull. Because speech functions only after the mind has reflected, the mind became that which stands in the place of the calf. Thus the fruit obtained from the milk of the speech-cow is described, and the nature of the satisfaction obtained from it is also indicated.
+
+What is described in the pāda येन विश्वा पुष्यसि वार्याणि (*yena viśvā puṣyasi vāryāṇi*), and the points indicated by the epithets रत्नधाः (*ratnadhāḥ*), वसुवित् (*vasuvit*) and the like, are described in the Chāndogya, which states that speech alone is the support of all worlds, all beings and all kinds of dealings:
+
+वाग्नाव नान्नो भूयसी वाग्वा ऋग्वेदं विज्ञापयति यजुर्वेदं सामवेदमाथर्वणं चतुर्थमितिहासपुराणं पंचमं वेदानां वेदं पित्र्यं राशिं दैवं निधिं वाकोवाक्यमेकायनं देवविद्यां ब्रह्मविद्यां भूतविद्यां क्षत्रविद्यां नक्षत्रविद्यां सर्पदेवजनविद्यां दिवं च पृथिवीं च वायुं चाकाशं चापश्च तेजश्च देवांश्च मनुष्यांश्च पशूंश्च वयांसि च .... .... .... .... .... धर्मं चाधर्मं च सत्यं चानृतं च साधु चासाधु च हृदयज्ञं जाहृदयज्ञं च यद्वै वाज्‌नाभविष्यन्नधर्मो नाधर्मो व्यज्ञापयिष्यन्न सत्यं नानृतं .... .... .... वाचमुपास्वेति (*vāgnāva nānno bhūyasī vāgvā ṛgvedaṃ vijñāpayati yajurvedaṃ sāmavedamātharvaṇaṃ caturthamitihāsapurāṇaṃ paṃcamaṃ vedānāṃ vedaṃ pitryaṃ rāśiṃ daivaṃ nidhiṃ vākovākyamekāyanaṃ devavidyāṃ brahmavidyāṃ bhūtavidyāṃ kṣatravidyāṃ nakṣatravidyāṃ sarpadevajanavidyāṃ divaṃ ca pṛthivīṃ ca vāyuṃ cākāśaṃ cāpaśca tejaśca devāṃśca manuṣyāṃśca paśūṃśca vayāṃsi ca .... .... .... .... .... dharmaṃ cādharmaṃ ca satyaṃ cānṛtaṃ ca sādhu cāsādhu ca hṛdayajñaṃ jāhṛdayajñaṃ ca yadvai vājnābhaviṣyannadharmo nādharmo vyajñāpayiṣyanna satyaṃ nānṛtaṃ .... .... .... vācamupāsveti*)
+(Bhā. U. 7-2-1; abbreviation as supplied.)
+
+("Speech is greater than name. Speech makes known the Ṛgveda, the Yajurveda, the Sāmaveda, the Atharvaṇa as the fourth, Itihāsa-Purāṇa as the fifth, the Veda of the Vedas, ... heaven and earth, wind and ether, waters and fire, gods and men, cattle and birds ... dharma and adharma, truth and untruth, good and bad, the heart-pleasing and the not heart-pleasing. If speech did not exist, neither dharma nor adharma would be made known, nor truth nor untruth ... Worship speech.") *[as supplied: the dotted ellipses stand in the print; the word ಜಾಹೃದಯಜ್ಞಂ is printed so and kept.]*
+
+The principle of speech is greater than mere name. It is through speech that the Ṛgveda, the Yajurveda, the Sāmaveda, the Atharvaveda and all the itihāsa-purāṇas are known. Heaven and earth, wind, ether, all gods and men, and animals and birds are all known only through speech.
+
+### Printed p. 646
+*Running head: 646 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+Truth and untruth, good and bad, the pleasant and the unpleasant are all known through speech alone. If there were no speech, there would be neither pleasant nor unpleasant, neither good nor bad. Therefore:
+
+स यो वाचं ब्रह्मेत्युपास्ते । यावद्वाचो गतं तत्रास्य यथा कामचारो भवति यो वाचं ब्रह्मेत्युपास्ते (*sa yo vācaṃ brahmetyupāste | yāvadvāco gataṃ tatrāsya yathā kāmacāro bhavati yo vācaṃ brahmetyupāste*)
+(Chā. U. 7-2-2)
+
+("He who worships speech as Brahman: as far as speech reaches, there he moves as he wishes, he who worships speech as Brahman.")
+
+He who worships Brahman in the form of speech obtains every kind of freedom and the objects he desires. Moreover:
+
+वाग्वै गायत्री वाग्वा इवं सर्वं भूतं गायति च त्रायते च (*vāgvai gāyatrī vāgvā ivaṃ sarvaṃ bhūtaṃ gāyati ca trāyate ca*)
+(Bhā. U. 3-12-1; abbreviation as supplied.)
+
+("Speech indeed is Gāyatrī; speech sings this whole creation and protects it.") Because through speech the nature of all principles is described and recited, and because speech is the protector of all, the greatness of speech is praised, saying that speech itself is Gāyatrī, and so on.
+
+अथ सारस्वतं । वाग्वै सरस्वती वाचैव तत्प्रजापतिः पुनरात्मानमास्त्याययत वागेनमुपसमावर्तते वाचमनुकामात्मानः कुरुते (*atha sārasvataṃ | vāgvai sarasvatī vācaiva tatprajāpatiḥ punarātmānamāstyāyayata vāgenamupasamāvartate vācamanukāmātmānaḥ kurute*)
+(Pa. Prā. 3-9.1.7; abbreviation as supplied.)
+
+Speech is Sarasvatī. Through speech Prajāpati increased his own strength and obtained satisfaction. Speech approaches Prajāpati and increases his delight. In the same way the sacrificer too obtains satisfaction by the grace of speech.
+
+तद्यत्सारस्वतमनुभवति । वाग्वै सरस्वत्यन्नग्ं सोमस्तस्माद्यो वाचा प्रसाम्यन्नादो हैन भवति (*tadyatsārasvatamanubhavati | vāgvai sarasvatyannagṃ somastasmādyo vācā prasāmyannādo haina bhavati*)
+(Śa. Patra. 3-9-1-9; abbreviation as supplied.)
+
+Sarasvatī is the goddess of speech; Soma is food. He who obtains these two together becomes possessed of abundance of food. Thus in the Śatapatha and other texts there is praise of Sarasvatī, the goddess of speech. *[as supplied: the print has ಸರಸ್ವತಿಯು ಪ್ರಶಂಸೆ ಇದೆ with the subject in the nominative; kept.]*
+
+रत्नधा—बहुविधरमणीयरसानां धारयिता (*ratnadhā—bahuvidharamaṇīyarasānāṃ dhārayitā*): "one who holds many kinds of delightful rasas"; it is an epithet of speech (printed ವಾಕ್ಯಕ್ಕೆ, *[as supplied: for ವಾಕ್ಕಿಗೆ]*; in brackets, Sarasvatī). The meaning "delightful" for the word *ratna* can be stated in many places. The authors of the Nirukta have given this very meaning to the word *ratna* in the phrase "होतारं रत्नधातमं (*hotāraṃ ratnadhātamaṃ*)" (Ni. 7-15). In the present Ṛk the meaning is: she who possesses the rasa that is of the form of bliss.
+
+### Printed p. 647
+*Running head: [ಅ. ೨. ಆ ೩ ವ. ೨೩ ] Ṛgveda-saṃhitā 647 (as supplied; the word printed ಮಗ್ವೇದಸಂಹಿತಾ [sic] is the title Ṛgveda-saṃhitā).*
+
+सुदत्रः—सुदत्रः कल्याणदानः । सुविदत्रः कल्याणविद्यः (*sudatraḥ—sudatraḥ kalyāṇadānaḥ | suvidatraḥ kalyāṇavidyaḥ*): the authors of the Nirukta show the difference between these two words, saying that the word सुदत्र (*sudatra*) means one whose giving is auspicious, and the word सुविदत्र (*suvidatra*) means one whose knowledge is auspicious (Ni. 6-14). Sāyaṇa too gives this same meaning and shows the Nirukta's etymology in support. To show the use of the word सुदत्र (*sudatra*) the authors of the Nirukta have cited the Ṛk
+
+ता नो रासन्नातिषाचो वसून्या रोदसी वरुणानी शृणोतु । वरूत्रीभिः सुशरणो नो अस्तु त्वष्टा सुदत्रो वि दधातु रायः (*tā no rāsannātiṣāco vasūnyā rodasī varuṇānī śṛṇotu | varūtrībhiḥ suśaraṇo no astu tvaṣṭā sudatro vi dadhātu rāyaḥ*)
+(Ṛ. Saṃ. 7-34-22) *[as supplied: the reference is first printed broken off as "(ಋ. ಸಂ. ೭-" and then repeated in full.]*
+
+Here the word सुदत्र (*sudatra*) is an epithet of Tvaṣṭṛ: "one whose giving is auspicious". In the same way in the present Ṛk also, it is described as an epithet of the breast of Sarasvatī, meaning that it gives an auspicious fruit.
+
+When it says तमिह धातवे कः (*tamiha dhātave kaḥ*), Sāyaṇa explains that तं (*taṃ*) means the breast that benefits all living beings and is of the form of sūkta, and that Sarasvatī is prayed to favour us so that we may drink it. It is stated that the mantra प्रवर्ग्ये अभिष्टवे यस्ते स्तनः इत्येका (*pravargye abhiṣṭave yaste stanaḥ ityekā*) is to be recited as praise at the time of the Pravargya sacrifice.
+
+*Grammar (transcribed, not explained):*
+शशयः (*śaśayaḥ*)—root शीज् स्वप्ने (*śīj svapne*); the pratyaya ac after the pacādi class; guṇa and the ayādeśa for the ikāra of the root because of the pratyaya; doubling by Vedic usage; because it is cit, the final-udātta accent results.
+मयोभूः (*mayobhūḥ*)—मयः सुखं भावयति इति मयोभूः (*mayaḥ sukhaṃ bhāvayati iti mayobhūḥ*); the pratyaya kvip after the root bhū, which carries the sense of an included causative (printed ಅಂತಭಾರ್ವಿತಣ್ಯರ್ಥಕ); the kṛd-uttarapada prakṛtisvara results.
+विश्वा (*viśvā*)—in the neuter plural, by शेश्छंदसि बहुलं (*śeśchaṃdasi bahulaṃ*) (Pā. Sū. 6-1-20) loss of śi.
+पुष्यसि (*puṣyasi*)—root पुष पुष्टौ (*puṣa puṣṭau*), divādi; laṭ, madhyama-puruṣa, ekavacana form; by यद्वृत्तान्नित्यं (*yadvṛttānnityaṃ*) (Pā. Sū. 8-1-66) prohibition of the nighāta accent; because the vikaraṇa śyan is nit, the ādyudātta accent results.
+रत्नधाः (*ratnadhāḥ*)—root डुधाण् धारणपोषणयोः (*ḍudhāṇ dhāraṇapoṣaṇayoḥ*); by अतोमनिन्क्वनिप् वनिजश्च (*atomaninkvanip vanijaśca*) (Pā. Sū. 3-2-74) the pratyaya vic; sarvalopa results; the kṛd-uttarapada prakṛtisvara results.
+वसुवित् (*vasuvit*)—वसूनां वेत्ता वसुवित् (*vasūnāṃ vettā vasuvit*); root विद ज्ञाने (*vida jñāne*); the pratyaya kvip; the kṛd-uttarapada prakṛtisvara results.
+
+### Printed p. 648
+*Running head: 648 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ ೨೨ ಸೂ ೧೬೪] (as supplied; the first word of the head is printed ಸಾಯುಣಭಾಷ್ಯಸಹಿತಾ [sic]).*
+
+सरस्वति (*sarasvati*)—because it stands at the beginning of the pāda, the aṣṭamika amantrita-nighāta accent does not occur; by अमंत्रितस्य (*amaṃtritasya*) (Pā. Sū. 6-1-198) the ādyudātta accent results.
+धातवे (*dhātave*)—root धेट् पाने (*dheṭ pāne*). When the sense of tumun appears, by तुमर्थसेसेनसे (*tumarthasesenase*) (Pā. Sū. 3-4-9) the pratyaya tavenˑ; by आदेचउपदेशेशिति (*ādecaupadeśeśiti*) (Pā. Sū. 6-1-45) ātva for the root; by इत्यादिर्नित्यं (*ityādirnityaṃ*) (Pā. Sū. 6-1-169) the ādyudātta accent results.
+कः (*kaḥ*)—root डुकृञ् करणे (*ḍukṛñ karaṇe*); by छंदसिलुङ् लज् लिटः (*chaṃdasiluṅ laj liṭaḥ*) (Pā. Sū. 3-4-6) luṅ in the sense of loṭ; sip in the madhyama-puruṣa ekavacana; by इतश्च (*itaśca*) loss of the ikāra; by मंत्रेघसह्व (*maṃtreghasahva*) (Pā. Sū. 2-4-70) luk for ಳ್ (so printed); guṇa for the i of the root because of sip, which comes with raparatva; by the sūtra हल् ज्याभ्यो (*hal jyābhyo*) luk for sip; by बहुलं छंदस्य (*bahulaṃ chaṃdasya*) (Pā. Sū. 6-4-75) the aḍāgama does not occur; visarga for the repha; the anudātta accent results. || 49 ||
+
+*[as supplied: the label printed as "। ಸಂಚಾರಿಣಿ ॥" before the next verse is garbled; it stands in the place of the label Saṃhitā-pāṭha.]*
+
+#### Ṛk 50
+**॥ संहितापाठः ॥**
+> य॒ज्ञेन॑ य॒ज्ञम॑यजंत दे॒वास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन्।
+> ते ह॒ नाकं॑ महि॒मानः॑ सचंत॒ यत्र॒ पूर्वे॑ सा॒ध्याः संति॒॑
+> देवाः ॥ ५० ॥
+*[as supplied: the label printed as "ಚ.ಪ.ಡಿ:" is garbled; it stands in the place of the label Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> यज्ञेन । यज्ञं । अयजंत । देवाः । तानि । धर्माणि । प्रथमानि । आसन् ।
+> ते । ह । नाकं । महिमानः । सचंत । यत्र । पूर्वे । साध्याः । संति । देवाः ॥ ५० ॥
+*[as supplied: the label printed as "ಸಮಯಭಕ್ತಿಃ" is garbled; it stands in the place of the label Sāyaṇa-bhāṣya.]*
+**॥ सायणभाष्यम् ॥**
+> अग्निमंथने यज्ञेन यज्ञमित्येषा परिधानीया । यज्ञेन यज्ञमयजंत देवा इति परिदध्यात् । आ. २-१६. । इति सूत्रितत्वात् ॥
+> देवा व्यवहर्तारो यजमाना यज्ञेन निर्मथ्याग्निना यज्ञं होमसाधनमाहवनीयमयजंत । पूजितवंतः । अनुष्ठानाय संयोजितवंत इत्यर्थः ।
+> अग्निं मथित्वा प्रहरति तेनैवाग्निय आतिथ्यं क्रियत इति हि तैत्तिरीयकं । तानि धर्माण्यग्निसाधनानि कर्माणि प्रथमानि । प्रथम इति मुख्यनाम । प्रतमानि प्रकृष्टतमाना-
+
+> *agnimaṃthane yajñena yajñamityeṣā paridhānīyā | yajñena yajñamayajaṃta devā iti paridadhyāt | ā. 2-16. | iti sūtritatvāt ‖*
+> *devā vyavahartāro yajamānā yajñena nirmathyāgninā yajñaṃ homasādhanamāhavanīyamayajaṃta | pūjitavaṃtaḥ | anuṣṭhānāya saṃyojitavaṃta ityarthaḥ |*
+> *agniṃ mathitvā praharati tenaivāgniya ātithyaṃ kriyata iti hi taittirīyakaṃ | tāni dharmāṇyagnisādhanāni karmāṇi prathamāni | prathama iti mukhyanāma | pratamāni prakṛṣṭatamānā-*
+
+### Printed p. 649
+*Running head: [ಅ ೨. ಅ. ೩. ಪ. ೨೩] Ṛgveda-saṃhitā 649 (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya from p. 648; the word ಪ್ರಕೃಷ್ಟತಮಾನಾ- is completed by ಸನ್ at the head of the next block.]
+> सन् । फलप्रसवसमर्थान्यभवन्नित्यर्थः । ते ह ते च यजमाना नाकं । नास्मिन्नकमस्तीति नाकः स्वर्गः । तं महिमानो माहात्मयुक्ताः सचंत । संगताः । कीदृतं
+> नाकं । यत्र यस्मिन्नाके पूर्व पूर्वतनाः साध्याः साधना यज्ञादिसाधनवंतः ।
+> कर्मदेवा इत्यर्थः । ते संति निवसंति तं सचंत । तस्मादिदानीमपि मनुष्यरेवं
+> कर्तव्यमित्यर्थः । यद्वा । देवा इदानीं देवभागमापन्नाः पूर्वं यज्ञेनाग्नि ना
+> पशुभूतेन यज्ञं यष्टव्यमग्निमयजंत । पूजितवंतः । अग्नेरेव मूर्तिभेदेन
+> देवत्वं च पशुत्वं च द्रष्टव्यं । अग्निः पशुरासीत्तमालभंत तेनायजंतेति श्रुतेः ।
+> शिष्टं पूर्ववत् । यत्र यस्मिन् स्वर्गॆ निमित्तभूते सति पूर्व पूर्वतनाः साध्या
+> देवाः साधनाश्चंदोभिमानिनः । आदित्या अंगिरसश्च साध्या देवा उच्यंते । छंदांसि
+> वै साध्या देवास्तेऽग्रेग्निनाग्निमयजंत ते स्वर्ग० लोकमायन्नादित्याश्चैवेहासन्नंगिरसश्च तेऽग्रेग्निनाग्निमयजंत ते स्वर्ग० लोकमायन् । ऐ. ब्रा. १-१६ । इति
+> ब्राह्मणं । एते देवाः स्वर्गे संति । भवंति । स्वर्गप्राप्ता इत्यर्थः । यद्वा । यज्ञेन
+> ज्ञानादियज्ञेन यज्ञं विष्णुमयजंत । पूजयंति । ते नाकं विष्णुलोकं
+> महानुभावाः सचंत । संगच्छंते । यत्र पूर्व साध्यादयो देवाः संति तत्स्थानं।
+> अग्निनाग्निमयजंत देवा इत्यादि निरुक्तमनुसंधेयं । नि. १२-४१ ॥
+*Gist:* Closing verse of fire-kindling: sacrificers worship sacrifice with sacrifice and reach heaven, where the earlier Sādhya gods dwell; alternative readings given.
+*[as supplied: the label printed as "ಪ್ರಪದಾರ್ಥ" is garbled; it stands in the place of the label Pratipadārtha.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+देवाः (*devāḥ*)—the gods, or the sacrificers who have become illustrious; यज्ञेन (*yajñena*)—by sacrifice; यज्ञं (*yajñaṃ*)—the sacrifice; आयजंत (*āyajaṃta*)—performed (*[as supplied: the verse has ಅಯಜಂತ]*); तानि (*tāni*)—those thus performed; धर्माणि (*dharmāṇi*)—sacrificial rites; प्रथमानि (*prathamāni*)—as the most excellent; आसन् (*āsan*)—became. (Thereafter) यत्र (*yatra*)—in which heaven; पूर्वे (*pūrve*)—the ancient ones, and साध्याः (*sādhyāḥ*)—those endowed with the means of sacrifice and the like performed formerly; देवाः (*devāḥ*)—the sacrificers who have attained godhood; संति (*saṃti*)—are, such a one; नाकं (*nākaṃ*)—heaven; ते ह (*te ha*)—those who here have performed the sacrifice also; महिमानः (*mahimānaḥ*)—being endowed with very powerful greatness; सचंते (*sacaṃte*)—(joining) enjoy (*[as supplied: the verse has ಸಚಂತ]*).
+*[as supplied: the label printed as "ಧನಾರ್ಥ" is garbled; it stands in the place of the label Bhāvārtha.]*
+**भावार्थ (Bhāvārtha)**
+The performers of the sacrifice carried out sacrifice by sacrifice. The sacrificial rites performed in that manner became most excellent. Thereafter these sacrificers too attain the heaven which the ancient ones, those endowed with the means of sacrifice and the like performed formerly, and those who have attained godhood, join and enjoy, and, endowed with their very powerful greatness, they experience the happiness of heaven.
+
+### Printed p. 650
+*Running head: 650 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+**Printed English**
+The gods sacrifice with sacrifice, for such are their first duties : those mighty ones assemble in heaven, where the divinities who are to be propitiated (by sacred rites) abide.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+At the time of fire-kindling this Ṛk beginning यज्ञेन यज्ञं (*yajñena yajñaṃ*) is to be used as the closing (paridhānīya) mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra यज्ञेन यज्ञमयजंत देवा इति परिदध्यात् (*yajñena yajñamayajaṃta devā iti paridadhyāt*) (Ā. 2-16).
+
+This is a mantra that praises the fruit of sacrifice. It extols that for an excellent sacrifice the fruit is the attainment of the best heaven, in "ते ह नाकं महिमानः सचंते (*te ha nākaṃ mahimānaḥ sacaṃte*)".
+
+नाकं (*nākaṃ*)—heaven: नास्मिन्न कमस्तीति नाकः स्वर्गः (*nāsminna kamastīti nākaḥ svargaḥ*); because there is no sorrow, heaven is well known by the name *nāka*. The word *nāka* is used in the Ṛk-saṃhitā in different meanings: it is used in the senses of sacrifice, heaven, the sun (Āditya) and so on. The authors of the Nirukta include this word among six common names and explain their meaning as "common", saying साधारणान्युत्तराणि षट् दिवश्चादित्यस्य च (*sādhāraṇānyuttarāṇi ṣaṭ divaścādityasya ca*), that is, they are synonyms common to the world of heaven and to Āditya (Ni. 2-13). Then, giving the etymology of this word:
+
+नाक आदित्यो भवति : नेता रसानां । नेता भासां ज्योतिषां प्रणयः (*nāka ādityo bhavati : netā rasānāṃ | netā bhāsāṃ jyotiṣāṃ praṇayaḥ*)
+(Ni. 2-14)
+
+("Nāka is Āditya: the leader of the rasas; the leader of lights, the one who sets the luminaries in motion.") Having stated that this word is a synonym of Āditya, because Āditya is the carrier of rasa and the carrier of radiance and is named *nāka*, he then says:
+
+अथ द्यौः ; कमिति सुखनाम, तत्पतिषिद्दं प्रतिषिध्येश (*atha dyauḥ ; kamiti sukhanāma, tatpatiṣiddaṃ pratiṣidhyeśa*)
+(Ni. 2-14) *[as supplied: ತತ್ಪತಿಷಿದ್ದಂ ಪ್ರತಿಷಿಧ್ಯೇಶ is printed so; kept.]*
+
+("Next, heaven: *kam* is a name for happiness; that denied, having denied it ...") *Kam* is a synonym for happiness; the absence of happiness is *akam*; the absence of that, that is, *sukhābhāvābhāva* (the non-existence of the absence of happiness), is that which is free from sorrow, he explains. He then cites the sentence
+
+न वा अमुं लोकं जग्मुषे किंच नाकं (*na vā amuṃ lokaṃ jagmuṣe kiṃca nākaṃ*)
+(Kāṭhaka Saṃ. 21.2; abbreviation as supplied.)
+
+and the explanation न वा अमुं लोकं गतवते किंच नासुखं पुण्यकृतो ह्येव तत्र गच्छंति (*na vā amuṃ lokaṃ gatavate kiṃca nāsukhaṃ puṇyakṛto hyeva tatra gacchaṃti*): for those who have gone to that world there is no sorrow at all; only the doers of good deeds enter that world. Thus he states the meaning of the word *nāka*. In the Ṛk-saṃhitā this word is used in some places as a synonym of Āditya and in some places as a synonym of heaven.
+
 ---
 
-**Progress note:** Done through printed p. 642. Ṛk 48 (year-wheel), Ṛk 49 (Sarasvatī breast) and Special Topics
+**Progress note:** Done through printed p. 650. Sūkta 164 end of Ṛk 49 commentary (Sarasvatī, stana, grammar) and Ṛk 50, pp. 643-650
