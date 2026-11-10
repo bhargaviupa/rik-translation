@@ -3208,6 +3208,118 @@ Here one more point is to be noted. The root तक्ष् (*takṣ*), which i
 
 *Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses चर्मणः (*carmaṇaḥ*) (Pā. Sū. 6-1-169), अरिणीत (*ariṇīta*) (root री (*rī*); Pā. Sū. 7-3-80 and 6-4-113), जरंता (*jaraṃtā*) (root जृष् (*jṛṣ*); Pā. Sū. 7-1-39), अकृणोतन (*akṛṇotana*), अतक्षत (*atakṣata*) and, at the end of the page, युक्त्वा (*yuktvā*) (root युजिर् (*yujir*)); the analysis of Ṛk 7 continues on p. 113 and has not ended with this window.
 
+### Printed p. 113
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೫.] Ṛgveda-saṃhitā 113 (as supplied).* (The grammar of Ṛk 7 continues.)
+
+**Grammar (Vyākaraṇa-prakriyā) of Ṛk 7, continued**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analysis of अयातन (*ayātana*) (root या (*yā*); the ending as before; the supplied text has "अडागनु (*aḍāganu*)" for "ಅಡಾಗಮ", kept as supplied) with the accent rule; it ends with the mark ॥ ೭ ॥.
+
+#### Ṛk 8
+
+*[A picture (vol12/html/figures/fig1_line05080.jpg) stood at this place in the supplied text. I looked at it and zoomed in: it shows the Saṃhitā of this Ṛk, the label "ಪದಪಾಠಃ" and the Pada. Read from the picture letter by letter, it agrees with the machine-read text except for three places: (1) at the end of the Saṃhitā the picture has "ಯಾಧ್ವೈ" (ध्वै (*dhvai*)) where the machine text had "ದ್ವೈ"; kn.md is changed after the picture; (2) the Pada shows the avagraha sign (ಽ) in "मुंजऽनेजनं (*muṃja 'nejanaṃ*)" and in "नऽइव (*na 'iva*)", which the machine text had lost; it is restored from the picture; (3) the line-end hyphens "ಮುಂಜನೇ-ಜನಂ" (Saṃhitā and Pada) and "ಮಾದ-ಯಾಧ್ವೈ" are joined. The accent marks and the underlines of the picture, and the letter-spacing of some Pada words, are not transcribed. "ಮಾದಯಾಥ್ವೈ" in the Pada (with ಥ) is as printed.]*
+
+**॥ संहितापाठः ॥**
+
+> इ॒दमु॑द॒कं पि॑ब॒तेत्य॑ब्रवीतने॒दं वा॑ घा पिबता मुंज॒नेज॑नं ।
+> सौध॑न्वना॒ यदि॒ तन्नेव॒ हर्य॑थ तृ॒तीये॑ घा॒ सव॑ने मादयाध्वै ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> इदं । उदकं । पि ब त । इति । अ ब्र वी त न । इदं । वा । घ । पि ब त । मुंजऽनेजनं ।
+> सौधन्वनाः । यदि । तत् । नऽइव । हर्यथ । तृतीये । घ । सवने । मादयाथ्वै ।
+> ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಕಾಯಣಭಾಷ್ಯಂ", printed with a stray ">" and no blank line, inside the Pada block); the standard label is inserted and the garbled word kept in kn.md as a note. Hyphenated line breaks in the block are joined. At the foot of p. 113 two stray signature lines "[8] Vol. 12" stand in the supplied text; they are kept in kn.md as notes. The word "ತಸ್ಯೆ-" at the end of the page continues, across the page boundary, with "ವೇದಂ" on p. 114; kept as printed.]*
+
+> इदानीमृषिर्देवैरुक्तमर्थं तान्संबोध्य यूयमृभूनेवमुक्तवंतः
+> स्थेत्यनुवाचयति । हे सौधन्वनाः सुधन्वनः पुत्राः यूयमिदमुदकं सोमलक्षणं
+> पिबतेत्यब्रवीतन । इत्युक्तवंतः ॥ ब्रवीतेर्लजि मध्यमबहुवचनस्य तस्य तनबादेशे
+> पित्त्वाद्रुव ईट् । पा. ७-३-९३ ॥ एतत्पातःसवनिकाभिप्रायं । वाथवा । घेत्यनर्थकः
+> प्रसिद्ध्यर्थो ना । इदं मुंजनेजनं । मुंजवान्नाम पर्वतः सोमोत्पत्तिस्थानं ।
+> तत आह्ृतत्वात्तेन मुंजतृणेन शोधितं । अपगततृणमित्यर्थः । इदं सोमरसरूप
+> मुदकं पिबतेत्यब्रवीतन । एतन्माध्यंदिनसवनाभिप्रायं । हे ऋभवः यूयं
+> तदुभयसवनसंबंधि सोमपानकार्यं नेव हर्यथ । नैव कामयथ । हर्यतिः
+> कांतिकर्मा । हर्यत्युशिगिति तत्कर्मसु पाठात् । तृतीये सवने तु मादयाध्वै ।
+> अत्यर्थं तृप्ता भवथ । ऋभवो देवाः सोमस्य मत्सन्निति तृतीयसवने तेषां
+> सोमपानसद्भावात् । एवं यूयमृभूनुक्तवंतः । अथवा ऋभून्प्रति तस्यॆ-
+
+> *idānīmṛṣirdevairuktamarthaṃ tānsaṃbodhya yūyamṛbhūnevamuktavaṃtaḥ*
+> *sthetyanuvācayati | he saudhanvanāḥ sudhanvanaḥ putrāḥ yūyamidamudakaṃ somalakṣaṇaṃ*
+> *pibatetyabravītana | ityuktavaṃtaḥ ‖ bravīterlaji madhyamabahuvacanasya tasya tanabādeśe*
+> *pittvādruva īṭ | pā. 7-3-93 ‖ etatpātaḥsavanikābhiprāyaṃ | vāthavā | ghetyanarthakaḥ*
+> *prasiddhyartho nā | idaṃ muṃjanejanaṃ | muṃjavānnāma parvataḥ somotpattisthānaṃ |*
+> *tata āhṛtatvāttena muṃjatṛṇena śodhitaṃ | apagatatṛṇamityarthaḥ | idaṃ somarasarūpa*
+> *mudakaṃ pibatetyabravītana | etanmādhyaṃdinasavanābhiprāyaṃ | he ṛbhavaḥ yūyaṃ*
+> *tadubhayasavanasaṃbaṃdhi somapānakāryaṃ neva haryatha | naiva kāmayatha | haryatiḥ*
+> *kāṃtikarmā | haryatyuśigiti tatkarmasu pāṭhāt | tṛtīye savane tu mādayādhvai |*
+> *atyarthaṃ tṛptā bhavatha | ṛbhavo devāḥ somasya matsanniti tṛtīyasavane teṣāṃ*
+> *somapānasadbhāvāt | evaṃ yūyamṛbhūnuktavaṃtaḥ | athavā ṛbhūnprati tasyè-*
+
+### Printed p. 114
+
+*Running head: 114 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೧.] (as supplied).* (The bhāṣya block continues from p. 113.)
+
+> वेदं वाक्यं । हे सौधन्वनाः यूयं देवत्वं प्राप्य देवयजनं प्रति सोमपानाय रथेनागत्य श्रांतानश्वान् प्रात्सवन इदमुदकं सोमलक्षणं पिबतेत्यब्रवीतन । तत्र यदि नेच्छथ इदं वा मुंजनेजनं मुंजेन दूषितं वाजिनं पिबतेत्यब्रवीतन पश्चात्तद्वयं यदि नेव हर्यथ हे अश्वाः यूयं तृतीये सवने
+> माधयाध्यै । तत्रापि वाजिनप्रचारात् ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): the Ṛbhus are told to drink Soma at the morning pressing, or the midday one, or else rejoice at the third.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सौधन्वनाः (*saudhanvanāḥ*)—O Ṛbhus, sons of Sudhanvan; इदं उदकं (*idaṃ udakaṃ*)—this water in the form of Soma (of the morning pressing); पिबत (*pibata*)—drink; इति (*iti*)—thus; अब्रवीतन (*abravītana*)—(they) said; वा (*vā*) ((घ) (*(gha)*))—or; मुंजनेजनं (*muṃjanejanaṃ*)—pure, separated from the grass that grew together with Soma on Mount Muñja; इदं (*idaṃ*) ((घ) (*(gha)*))—at least this water in the form of juice; पिबत (*pibata*)—drink; यदि (*yadi*)—if perchance; तत् (*tat*)—that too; नेव हर्यथ (*neva haryatha*)—you do not desire; तृतीये घ सवने (*tṛtīye gha savane*)—at least at the third pressing; मादयाध्यै (*mādayādhyai*) *[so printed in the Pratipadārtha]*—drink and be satisfied.
+
+*[The label of the Bhāvārtha is garbled in the supplied text ("ಭಾನುವಾರ"); the standard label is inserted and the garbled word kept in kn.md as a note.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Ṛbhus, sons of Sudhanvan, drink this water in the form of Soma at the morning pressing. Or drink the juice of the midday pressing, which is separated from the Muñja grass and pure. Or, if that too does not please you, drink at least at the third pressing and be satisfied.
+
+**Printed English translation**
+
+They, (the gods), have said, Sons of Sudhanwan, drink of this water, (the Soma juice); or drink that which has been filtered through the Munja grass; or if you be pleased with neither of these, be exhilarated (by that which is drunk) at the third (daily) sacrifice-
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Two kinds of construction are given for this ṛk. First, the seer of the sūkta, addressing the gods, says to them that they gave the Ṛbhus an invitation to drink Soma: "you said thus to the Ṛbhus". Second, addressing the Ṛbhus themselves, he says that after they came in their chariot for the Soma-drinking at the divine sacrifice they urged their horses to drink: "you said thus to your horses".
+
+The saying three times of इदमुदकं पिबत ; इदं वा पिबत ; तृतीये सवने मादयध्वै । (*idamudakaṃ pibata ; idaṃ vā pibata ; tṛtīye savane mādayadhvai |*) is shown, with एतत्प्रातस्सवनिकाभिप्रायं (*etatprātassavanikābhiprāyaṃ*) ; एतन्माध्यंदिन सवनाभिप्रायं (*etanmādhyaṃdina savanābhiprāyaṃ*) (so printed) and so on, as the context
+
+### Printed p. 115
+
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೫.] Ṛgveda-saṃhitā 115 (as supplied).*
+
+for the first two sentences. It is stated that the word मादयध्वै (*mādayadhvai*) is used because in the third pressing a place was obtained by them. The situation in which they first twice did not get an opportunity is described thus:
+
+यभवो वै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातस्सवने वाचि (*yabhavo vai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātassavane vāci*)
+कल्पयिषंस्तानग्निर्वसुभिःप्रातस्सवनादनुदत । (*kalpayiṣaṃstānagnirvasubhiḥprātassavanādanudata |*)
+(Ai. Brā. 3-30) *[the first word is printed "ಯಭವೋ" for "ಋಭವೋ"; kept as supplied]*
+
+The Ṛbhus attained, by their supernatural power of works, the place of the gods. Then, when the gods made ready to admit them also with themselves to the Soma-drinking, Agni, joining with the Vasus, drove them away without admitting them.
+
+तेभ्यो माध्यंदिने सवने वाचि कल्पयिषंस्तानिंद्रो रुद्रॆर्माध्यंदिनात्सवनादनुदत । (*tebhyo mādhyaṃdine savane vāci kalpayiṣaṃstāniṃdro rudrèrmādhyaṃdinātsavanādanudata |*)
+(Ai. Brā. 3-30) *[the hyphenated line break "ಮಾಧ್ಯಂದಿನಾ-ತ್ಸವನಾದನುದತ" is joined]*
+
+Thereafter, when the gods made ready to make an opening for them at the midday pressing, Indra, joining with the Rudras, drove them away.
+
+तेभ्यस्तृतीयसवने वाचि कल्पयिषंस्तान्विश्वेदेवाः अनोनुद्यंत नेह पास्यंति (*tebhyastṛtīyasavane vāci kalpayiṣaṃstānviśvedevāḥ anonudyaṃta neha pāsyaṃti*)
+नेहेति स प्रजापतिरब्रवीत्सवितारं तव ना इमे०तेवासास्त्वमेवैभिः (*neheti sa prajāpatirabravītsavitāraṃ tava nā ime0tevāsāstvamevaibhiḥ*)
+संपिबस्वेति स तथेत्यब्रवीत्सविता तान्वै त्वमुभयतः परिपिबेति तान्प्रजापतिरुभयतः पर्यपिबत् । (*saṃpibasveti sa tathetyabravītsavitā tānvai tvamubhayataḥ paripibeti tānprajāpatirubhayataḥ paryapibat |*)
+(Ai. Brā. 3-30) *[the hyphenated line break "ತಾನ್ಪ್ರಜಾಪತಿ-ರುಭಯತಃ" is joined]*
+
+Even then the Viśvedevas did not admit them, and Prajāpati, addressing Savitṛ, said: "These are your pupils; drink with them." Then Savitṛ, and with him Prajāpati, drank together with the Ṛbhus. That matter is told here.
+
+घ-घेत्यनर्थकः, प्रसिद्ध्यर्थो वा । (*gha-ghetyanarthakaḥ, prasiddhyartho vā |*) The word "ಘ" is commonly used without meaning, only to fill out the pāda; in some places it indicates the sense "well known".
+
+प्र घा नृस्य महतो महानि सत्या सत्यस्य करणानि वोचं । (*pra ghā nṛsya mahato mahāni satyā satyasya karaṇāni vocaṃ |*) (Ṛ. Saṃ. 2-15-1)
+
+in this, घ इति प्रसिद्धौ (*gha iti prasiddhau*) is explained as the well-known great deeds of Indra.
+
+आ घा गमद्यदि श्रवत्सहस्रिणीभिरूतिभिः । वाजेभिरुप नो हवं ॥ (*ā ghā gamadyadi śravatsahasriṇībhirūtibhiḥ | vājebhirupa no havaṃ ‖*) (Ṛ. Saṃ. 1-30-8)
+
 ---
 
-**Progress note:** Done through printed p. 112 (PDF 112). Sūkta 161 Ṛk 6 Special Topics, grammar; Ṛk 7 Saṃhitā/Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar start
+**Progress note:** Done through printed p. 115 (PDF 115). Sūkta 161 Ṛk 7 grammar end; Ṛk 8 Saṃhitā/Pada (picture), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics start
