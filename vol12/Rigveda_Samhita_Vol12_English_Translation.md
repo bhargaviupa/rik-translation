@@ -10054,6 +10054,194 @@ This Vaiśvānara Agni, by his supernatural power the chief of all beings, shini
 
 the original Prajāpati expanded into three parts and manifested himself in the form of cause and effect, and so on; and in the Chāndogya, (the sentence ends here as supplied and continues in the next window).
 
+### Printed p. 405
+*Running head: [ಆ. ೨. ಅ. ೩. ವ. ೧೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 405 (as supplied; "ಆ. ೨." as printed).*
+
+[Continuing the sentence of the previous window: "… and in the Chāndogya,"]
+
+नागेव ब्रह्मणश्चतुर्थः पादः सोग्निना ज्योतिषा भाति च तपति च भाति च तपति च कीर्त्या यशसा ब्रह्मवर्चसेन य एवं वेद (*nāgeva brahmaṇaścaturthaḥ pādaḥ sogninā jyotiṣā bhāti ca tapati ca bhāti ca tapati ca kīrtyā yaśasā brahmavarcasena ya evaṃ veda*)
+
+प्राण एव ब्रह्मणश्चतुर्थः पादः स वायुना ज्योतिषा भाति च तपति च........... ब्रह्मवर्चसेन य एवं वेद (*prāṇa eva brahmaṇaścaturthaḥ pādaḥ sa vāyunā jyotiṣā bhāti ca tapati ca........... brahmavarcasena ya evaṃ veda*)
+
+चक्षुरेव ब्रह्मणश्च तुर्थः पादः स आदित्येन ज्योतिषा भाति च तपति च (*cakṣureva brahmaṇaśca turthaḥ pādaḥ sa ādityena jyotiṣā bhāti ca tapati ca*)
+(छा. उ. ३-१८-३ रिंद ६ (*chā. u. 3-18-3 riṃda 6*)) *[as supplied: the dots and the printed "ನಾಗೇವ", "ಚ ತುರ್ಥಃ" are kept in the copied passages.]*
+
+By passages of this kind it is described that the presiding deities of the three worlds, Agni, Vāyu and Āditya, are manifestations of Brahman, and that the speech and the other faculties of a person shine with the help of the deities Agni and the rest, who are parts of this Brahman. And in the Śatapatha-brāhmaṇa:
+
+संवसथाग् स्वर्विदा । समीची उरसा त्मनेति संवसथामेनग् स्वर्विदा समीची उरसा चात्मना चेत्येतदग्निमंतर्भरिष्यंती ज्योतिष्मंत मजस्रमिदित्यसौ वा आदित्य एषोऽग्निः स एष ज्योतिष्मानजस्रस्तमेतेअंतराबिभृतस्तस्मादाह ज्योतिष्मंतमजस्रमिदिति (*saṃvasathāg svarvidā | samīcī urasā tmaneti saṃvasathāmenag svarvidā samīcī urasā cātmanā cetyetadagnimaṃtarbhariṣyaṃtī jyotiṣmaṃta majasramidityasau vā āditya eṣo 'gniḥ sa eṣa jyotiṣmānajasrastameteaṃtarābibhṛtastasmādāha jyotiṣmaṃtamajasramiditi*)
+(श. ब्रा. ६-४-१-११ (*śa. brā. 6-4-1-11*)) *[as supplied: the abbreviation as printed.]*
+
+"O luminous ones, this shining and immortal Agni is the very Āditya who shines in the world of heaven. Therefore, joining him with the breast and the heart, worship this brilliance" — thus; and likewise:
+
+अग्ने यत्ते दिवि वर्च इति । आदित्यो ना अस्य दिवि वर्चः पृथिव्यामित्ययमग्निः पृथिव्यां यदोषधीष्वप्स्वा यजत्रेति य एवौषधीषु चाप्सु चाग्निस्तमेतदाह येनांतरिक्षमुर्वा ततंथेति वायुः स त्वेषः स भानुरर्णवो नृचक्षा इति महान्स भानुरर्णवो नृचक्षा इत्येतत् (*agne yatte divi varca iti | ādityo nā asya divi varcaḥ pṛthivyāmityayamagniḥ pṛthivyāṃ yadoṣadhīṣvapsvā yajatreti ya evauṣadhīṣu cāpsu cāgnistametadāha yenāṃtarikṣamurvā tataṃtheti vāyuḥ sa tveṣaḥ sa bhānurarṇavo nṛcakṣā iti mahānsa bhānurarṇavo nṛcakṣā ityetat*)
+(श. ब्रा. ७-१-१-२३ (*śa. brā. 7-1-1-23*))
+
+"O Agni, your lustre which is in the world of heaven is great; this same lustre shines in the form of Āditya. On the earth it is in the form of the earthly fire; and it shines also in the herbs and in other forms. This same lustre pervades the wind and the rest, and, beholding everything, men and the others, it exists in the form of a great brilliance" — thus it is described. Similarly, describing the nature of this Agni, who is the Self of the universe, in the Kaṭhopaniṣad,
+
+### Printed p. 406
+*Running head: 406 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪.] (as supplied; "ಆ." as printed).*
+
+प्र ते ब्रवीमि तदु मे निबोध स्वर्ग्यमग्निं नचिकेतः प्रजानन् । अनंतलोकाप्तिमथो प्रतिष्ठां विद्वि त्वमेतं निहितं गुहायां (*pra te bravīmi tadu me nibodha svargyamagniṃ naciketaḥ prajānan | anaṃtalokāptimatho pratiṣṭhāṃ vidvi tvametaṃ nihitaṃ guhāyāṃ*)
+(कठ. १-१-१४ (*kaṭha. 1-1-14*))
+
+"O Naciketas, this heavenly Agni provides the endless world, and is also in the form of the foundation, that is, in the form of the Virāṭ he is the support of the world; and he is pervading the hearts of the worshippers" — thus. Describing the nature of this same Virāṭ Puruṣa, in the Muṇḍaka Upaniṣad,
+
+अग्निर्मूर्धा चक्षुषी चंद्रसूर्य्य दिशः श्रोत्रे वाग्विवृताश्च वेदाः । वायुः प्राणो हृदयं विश्वमस्य पद्भ्यां पृथिवी ह्येष सर्वभूतांतरात्मा (*agnirmūrdhā cakṣuṣī caṃdrasūryya diśaḥ śrotre vāgvivṛtāśca vedāḥ | vāyuḥ prāṇo hṛdayaṃ viśvamasya padbhyāṃ pṛthivī hyeṣa sarvabhūtāṃtarātmā*)
+(मु. उ. २-१-४ (*mu. u. 2-1-4*))
+
+He for whom Agni is the head, the moon and the sun the eyes, the quarters the ears, the wind the life-breath, the universe the heart, is the Virāṭ Puruṣa, famed as the universe.
+
+तस्मादग्निः समिधो यस्य सूर्यः सोमात्पर्जन्य ओषधयः पृथिव्यां । पुमान् रेतः सिंचति योषितायां बह्वीः प्रजाः पुरुषात् संप्रसूताः (*tasmādagniḥ samidho yasya sūryaḥ somātparjanya oṣadhayaḥ pṛthivyāṃ | pumān retaḥ siṃcati yoṣitāyāṃ bahvīḥ prajāḥ puruṣāt saṃprasūtāḥ*)
+(म: उ. २-१-५ (*ma: u. 2-1-5*)) *[as supplied: the abbreviation as printed.]*
+
+For that Supreme Person whose fuel is the Sun, from him that Agni is born; and by that same Sun the world of heaven shines. From Soma produced from the Agni that is the world of heaven, the second Agni, called Parjanya, arises. It is described thus. The same in the Praśna Upaniṣad:
+
+एषोग्निस्तपत्येष सूर‍्य एष पर्जन्यो मघवानेष वायुरेष पृथिवी रयिर्देवः सदसच्चामृतं च यत् (*eṣognistapatyeṣa sūrya eṣa parjanyo maghavāneṣa vāyureṣa pṛthivī rayirdevaḥ sadasaccāmṛtaṃ ca yat*)
+(Praśna. 2-5)
+
+This Supreme Self, of the form of the life-breath, burns as Agni; likewise he shines as the Sun; and as Parjanya he pours down rain; as Indra he protects the creatures; and he alone is the formed and the formless, the cause of the origin of the gods and the rest. The identity of Āditya and Agni, told in many Śruti sentences of this kind, is described in the Ṛk now in hand also, in अवः परेण पितरं यो अस्यानुवेद पर एनावरेण (*avaḥ pareṇa pitaraṃ yo asyānuveda para enāvareṇa*) and so on. To know the nature of such a Supreme Self one must be a seer; and his mind too must be far from earthly and perishable things and must have a pure thought. Therefore its characteristic is stated as देवं मनः (*devaṃ manaḥ*). Without such purity the form of this Supreme Self cannot be known. Why? (the answer continues after the next page-head)
+
+### Printed p. 407
+*Running head: ೫. ೨. ಆ .೩ ಪ. ೧೭.] ಮುಗ್ವೇದಸಂಹಿತಾ 407 (as supplied: the head was not marked by the script and was inserted by hand; "ಮುಗ್ವೇದ" and "೫." as printed).*
+
+न चक्षुषा गृह्यते नापि वाचा नान्यैर्देवैस्तपसा कर्मणा वा । ज्ञानप्रसादेन विशुद्धसत्त्वस्ततस्तु तं पश्यते निष्कलं ध्यायमानः (*na cakṣuṣā gṛhyate nāpi vācā nānyairdevaistapasā karmaṇā vā | jñānaprasādena viśuddhasattvastatastu taṃ paśyate niṣkalaṃ dhyāyamānaḥ*)
+(मु:. उ. ३-१-८ (*mu:. u. 3-1-8*)) *[as supplied: the abbreviation as printed.]*
+
+This principle, the original cause, has no form; therefore it cannot be grasped by the eye. It is not to be spoken; therefore it cannot be grasped by speech, nor by the other senses. It becomes possible only through a mind that is far from the contact of the stains, such as passion, arising from the relation between the senses and their objects, and is clear and calm. How the characteristic of a seer who has such a pure mind should be:
+
+संप्राप्य नमृषयो ज्ञानतृप्ताः कृतात्मानो वीतरागाः प्रशांताः । ते सर्वगं सर्वतः प्राप्य धीरा युक्तात्मानः सर्वमेवाविशंति (*saṃprāpya namṛṣayo jñānatṛptāḥ kṛtātmāno vītarāgāḥ praśāṃtāḥ | te sarvagaṃ sarvataḥ prāpya dhīrā yuktātmānaḥ sarvamevāviśaṃti*)
+(मुं. उ. ३-२-५ (*muṃ. u. 3-2-5*)) *[as supplied: नमृषयो (*namṛṣayo*) as printed.]*
+
+These sages, who have obtained such a seer's mind, are satisfied with knowledge, have perfected selves, are free from passion, and are very tranquil. Such wise ones, having obtained the all-pervading Self everywhere, with their selves united, become all-pervading. But since such united selves are very rare, it is told that a mind of this kind, concerned with the gods, देवं मनः कुतः अधिजातं (*devaṃ manaḥ kutaḥ adhijātaṃ*) *[as supplied: so printed, "ಅಧಿಜಾತಂ"]*, is possible only through a special destiny.
+
+*[Stray word as supplied: "ವ್ಯಕ್ತಿತ್ವ" in place of the heading of the grammar, kept as a note; the heading was then read as Vyākaraṇa-prakriyā.]*
+
+*Vyākaraṇa-prakriyā (grammatical procedure)*
+
+Grammar (transcribed, not explained):
+
+अनुवेद (*anuveda*) — the root विद ज्ञाने (*vida jñāne*); in the third person singular of laṭ, for tip by विदोलटोवा (*vidolaṭovā*) (Pā. Sū. 3-4-83) the substitute ṇal; luk for the vikaraṇa; guṇa of the short penultimate vowel of the root. Because of the connection with ya, the nighāta accent does not come. Since ṇal has the mark l, by लिति (*liti*) the acute accent comes before the suffix. By तिजीचोदात्तवति (*tijīcodāttavati*) (Pā. Sū. 8-1-71) the gati (anu) gets the all-grave accent.
+
+एना (*enā*) — by सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 3-1-39) *[as supplied: the number as printed]*, when the instrumental follows, the lengthening by the preceding similar letter.
+
+कवीयमानः (*kavīyamānaḥ*) — कविरिव आचरन् कवीयमानः (*kaviriva ācaran kavīyamānaḥ*); by कर्तु: क्यज् सलोपश्च (*kartu: kyaj salopaśca*) (Pā. Sū. 3-1-11) the suffix kyaj. By अन्येषामपि दृश्यते (*anyeṣāmapi dṛśyate*) (Pā. Sū. 6-3-137) lengthening of the preceding. After the kyajanta the substitute śānac for laṭ. By आने मुक् (*āne muk*) (Pā. Sū. 7-2-83) the augment muk to the stem ending in a. By तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) the laṭ-sārvadhātuka becomes anudātta, so the kyaj accent remains.
+
+### Printed p. 408
+*Running head: 408 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+Grammar (continued, transcribed, not explained):
+
+वोचत् (*vocat*) — the root वच परिभाषणे (*vaca paribhāṣaṇe*); luṅ in the Vedic manner in the present sense. When tip follows, by अस्यतिवक्ति (*asyativakti*) (Pā. Sū. 3-1-53) the substitute aj for च्चि (*cci*) *[as supplied: so printed]*. By वचउम् (*vacaum*) (Pā. Sū. 7-4-20) the augment um to the root. Guṇa. By बहुलं छंदस्यमाज् (*bahulaṃ chaṃdasyamāj*) (Pā. Sū. 6-4-75) the augment aḍ does not come. The tiṅanta nighāta accent comes.
+
+प्रजातम् (*prajātam*) — the root जनी प्रादुर्भावे (*janī prādurbhāve*); the suffix kta. By गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the gati (pra) keeps its own accent. || 18 ||
+
+*[Figure line as supplied: a picture of the Saṃhitā-pāṭha and Pada-pāṭha of Ṛk 19, with accent marks, standing before the heading of the Sāyaṇa-bhāṣya. It only repeats the blocks below, which are in the text, and was removed from kn.md.]*
+
+#### Ṛk 19
+**॥ संहितापाठः ॥**
+> ये अ॒र्वांच॒स्ता उ॒ परा॑च आहु॒र्ये परां॑च॒स्ता उ॒॑॑
+> अ॒र्वाच॑ आहुः ।
+> इंद्र॑श्च॒ या च॒क्रथुः॑ सोम॒ तानि॑ धु॒रा न यु॒क्ता रज॑सो
+> वहंति ॥ १९ ॥
+**॥ पदपाठः ॥**
+> ये । अर्वांचः । तान् । ऊं इति । पराचः । आहुः । ये । परांचः । तान् । ऊं
+> इति । अर्वाचः । आहुः ।
+> इंद्रः । च । या । चक्रथुः । सोम । तानि । धुरा । न । युक्ताः । रजसः । वहंति ॥१९॥
+**॥ सायणभाष्यम् ॥**
+> ये सूर्यसोमयोश्चक्रे वर्तमाना रश्मयो ग्रहादयश्च तत्परिभ्रमणवशेनार्वांचोर्वागंचना अधोमुखाः संति ता उ तानेव पराच आहुः । पराङ्मुखांचनानूर्ध्वानाहुः कालविदः । तथा प्रथमं ये परांचः परागंचनाः ता उ
+> तानेवार्वाच आहुः । हे सोम त्वमिंद्रः परमेश्वर इरां भूमिं वृष्टा धारक
+> आदित्यः । यद्वा । द्वादशादित्यानां मध्य इंद्रोऽप्येकः । निवस्वदिंद्रयुता इत्युक्तत्वादयमपींद्रः । स च युवां या यानि मंडलपरिभ्रमणानि चक्रथुः कृतवंतौ
+
+> *ye sūryasomayoścakre vartamānā raśmayo grahādayaśca tatparibhramaṇavaśenārvāṃcorvāgaṃcanā adhomukhāḥ saṃti tā u tāneva parāca āhuḥ | parāṅmukhāṃcanānūrdhvānāhuḥ kālavidaḥ | tathā prathamaṃ ye parāṃcaḥ parāgaṃcanāḥ tā u*
+> *tānevārvāca āhuḥ | he soma tvamiṃdraḥ parameśvara irāṃ bhūmiṃ vṛṣṭā dhāraka*
+> *ādityaḥ | yadvā | dvādaśādityānāṃ madhya iṃdro 'pyekaḥ | nivasvadiṃdrayutā ityuktatvādayamapīṃdraḥ | sa ca yuvāṃ yā yāni maṃḍalaparibhramaṇāni cakrathuḥ kṛtavaṃtau*
+
+### Printed p. 409
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೭.] ಋಗ್ವೇದಸಂಹಿತಾ 409 (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya of Ṛk 19.]
+> तानि रजसो रंजनात्मकस्य लोकस्य ॥ कर्मणि षष्ठी ॥ लोकं वहंति । निर्वहंति ।
+> तत्र दृष्टांतः । धुरा शकटादौ धुरि युक्ताः संबद्धा अश्वादयो यथा धुरं
+> वहंति तद्वत् । यद्वा । एतत्पूर्वार्धे दृष्टांतितं । धुरा युक्ताः । धुरि स्थितं
+> चक्रमपि धुर् शब्देनोच्यते । तत्र युक्ताः समर्पिताः पुरुषास्तत्परिभ्रमणवशेनार्वांचोऽपि परांचः परांचोऽत्यर्वांचो भवति तद्वत् ॥
+*Gist:* The rays that turn downward are called upward, and the upward ones downward, by the revolution of the wheel; Soma and Indra made orbits that carry the worlds like yoked horses.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+अर्वांचः (*arvāṃcaḥ*)—having a downward-turned movement; ये (*ye*)—whichever rays of the Sun's wheel there are; तान् उ (*tān u*)—those same; पराचः (*parācaḥ*)—as having upward-turned positions; आहुः (*āhuḥ*)—(the knowers of time) say; ये (*ye*)—which rays; परांचः (*parāṃcaḥ*) have upward-turned spreadings; तान् उ (*tān u*)—those same; अर्वाचः (*arvācaḥ*)—as downward-going; आहुः (*āhuḥ*)—they say; सोम (*soma*)—O Soma; (you); इंद्रश्च (*iṃdraśca*)—and Indra, together; या (*yā*)—whichever planets and the rest, of the nature of revolution; चक्रथुः (*cakrathuḥ*)—you created; ता (*tā*)—all those; धुरा (*dhurā*)—in the yokes of carts and the like; युक्ताः न (*yuktāḥ na*)—like horses and the rest, harnessed; रजसः (*rajasaḥ*)—the delightful worlds; वहंति (*vahaṃti*)—bear.
+
+**भावार्थ (Bhāvārtha)**
+Those rays of the Sun's wheel which have a downward-turned movement, those same the knowers of time call as having upward-turned positions. Those rays which have upward-turned spreadings, those same they call downward-going. O Soma, whichever revolving planets and the rest you and Indra together have created, all those too, like horses and the rest harnessed in the yokes of carts and the like, bear the delightful worlds.
+
+**Printed English**
+Those which (the sages) have termed descending, they have also termed ascending; and those they have termed ascending, they have also called descending: and those (orbits) which you, Soma and Indra, have made, bear along the worlds like (oxen) yoked to a wan [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the Ṛk now in hand also, the very matter described in the previous mantra is stated by other sentences. When this primal principle, by its outward manifestation, revolves in a wheel-like manner, the rays and the planets and the rest that are in the upper part turn to the lower part, and those in the lower part to the upper
+
+### Printed p. 410
+*Running head: 410 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+part, by way of exchange, in a cycle. Therefore one and the same object is called in two ways, as having a downward face and as having an upward face.
+
+इंद्रश्च या चक्रथुः सोम (*iṃdraśca yā cakrathuḥ soma*) — it is a well-known matter that these orbs of brilliance, the Āditya and the rest, were created by Indra and by Soma.
+
+इंद्रासोमा वासयथ उषासमुत्सूर्यं नयथो ज्योतिषा सह । उप द्यां स्कंभथुः स्कंभनेनाप्रथतं पृथिवीं मातरं वि (*iṃdrāsomā vāsayatha uṣāsamutsūryaṃ nayatho jyotiṣā saha | upa dyāṃ skaṃbhathuḥ skaṃbhanenāprathataṃ pṛthivīṃ mātaraṃ vi*)
+(ऋ. सं. ६-७-२ (*ṛ. saṃ. 6-7-2*)) *[as supplied: the reference as printed.]*
+
+"O Indra and Soma, you created the Dawn by uniting her with splendour and the Sun with brilliance; you set up heaven and earth with a support" — thus they are praised. And further, praising the greatness of Indra,
+
+यदा सूर्यममुं दिवि शुक्रं ज्योतिरधारयः । आदित्ते विश्वा भुवनानि येमिरे (*yadā sūryamamuṃ divi śukraṃ jyotiradhārayaḥ | āditte viśvā bhuvanāni yemire*)
+(Ṛ. Saṃ. 8-12-30)
+
+इंद्रेण रोचना दिव्ये दृळ्हानि दृढितानि च । सिराणि न पराणुदे (*iṃdreṇa rocanā divye dṛḷhāni dṛḍhitāni ca | sirāṇi na parāṇude*)
+(Ṛ. Saṃ. 8-14-9)
+
+When Indra established the orb of brilliance in the atmosphere, all the worlds bowed to Indra in gratitude. Among the masses of brilliance of the atmosphere established by him, none falls from its place, and they carry out their duties continuously. The point described in passages of this kind is told here.
+
+*[Label as supplied: "ಸ್ಮರಣಪ್ರಕ್ರಿಯಾ", repaired by the script to Vyākaraṇa-prakriyā.]*
+*Vyākaraṇa-prakriyā (grammatical procedure)*
+
+Grammar (transcribed, not explained):
+
+चक्रथुः (*cakrathuḥ*) — डुकृञ् करणे (*ḍukṛñ karaṇe*); the root; liṭ, a form ending as second person dual. By यद्वृत्तान्नित्यम् (*yadvṛttānnityam*) (Pā. Sū. 8-1-66) the prohibition of the nighāta accent comes, so the initial-acute accent of the suffix comes.
+
+धुरा (*dhurā*) — by सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) the substitute ā for the locative singular.
+
+रजसः (*rajasaḥ*) — the root रंज रागे (*raṃja rāge*); by भूरंजिभ्यां कित् (*bhūraṃjibhyāṃ kit*) (U. Sū. 4-656) the suffix asun. Because it has the mark k, by अनिदितां हललु (*aniditāṃ halalu*) *[as supplied: so printed]* the loss of the nasal of the penultimate. The genitive stands in the sense of the object.
+
+### Printed p. 411
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 411 (as supplied).*
+
+वहंति (*vahaṃti*) — the root वह प्रापणे (*vaha prāpaṇe*); a form ending as third person plural of laṭ. The tiṅanta nighāta accent comes. || 19 ||
+
+*[Label as supplied: garbled "। ಸಂಹಕಾರ ॥", read as Saṃhitā-pāṭha; the verse lines were not marked as a block by the script and were wrapped by hand.]*
+
+#### Ṛk 20
+**॥ संहितापाठः ॥**
+> द्वा सु॑प॒र्णा स॒युजा॒ सखा॑या समा॒नं वृ॒क्षं परि॑षस्वजाते ।
+> तयो॑र॒न्यः पिप्प॑लं स्वा॒द्वत्त्यन॑श्नन्न॒न्नो अ॒भि चा॑कशीति ॥ २० ॥
+**॥ पदपाठः ॥**
+> द्वा । सुपर्णा । सयुजा । सखाया । समानं । वृक्षं । परि । सस्वजाते इति ।
+> तयोः । अन्यः । पिप्पलं । स्वादु । अत्ति । अनश्नन् । अन्यः । अभि । चाकशीति ॥ २० ॥
+**॥ सायणभाष्यम् ॥**
+> अत्र लौकिकपक्षिद्वयद्रष्टांतेन जीवपरमात्मानौ स्तूयेते । यथा लोके
+> दौ सुपर्णौ सुपतन् शोभनगमनौ सयुजा समानयोगौ सखाया समानख्यान्
+> समानं वृक्षं परि षस्वजाते एकमेव वृक्षं परिषस्वजाते आश्रयतः तयोरन्य एकः
+> पिप्पलं पक्वं स्वादुतरमत्ति अपरोऽनश्वन्नभि चाकशीति अभिपश्यति तद्वत् दौ सुपर्णस्थानीयौ क्षेत्रज्ञ परमात्मानौ सयुजा समानयोगौ । योगो नाम संबंधः स च
+> तादात्मलक्षणः स एवात्मा जीवात्मनः स्वरूपं यस्य परमात्मन स तदात्मा । एवमन्यस्यापि स एवात्मा परमात्मनः स्वरूपं यस्य जीवात्मनः । एवमेकस्वरूपावित्यर्थः ।
+> अनेन भास्कर मतानुसारिणोऽतिरेकिनान्नो जीवात्मा परमात्मनो नान्यः सच
+> परमात्मा जीवादन्यो नानाजीवाश्रयणादिति मतं निरस्तं भवति । ननु संबंधो
+> द्विष्यः स च दक्षिणॊरेव भेदमपेक्षते अतः कथमैकात्ममिति न औपाधिकभेदं वास्तवा
+> भेदं चापेक्ष प्रवृत्तः। आत एव सखायौ समानख्यान् नान्यख्यान्। नन्नेकस्य यादृशं
+> ख्यानं तादृशमेवान्यस्यॆति व्युत्पत्ता भेदः स्पुटं प्रतिभाति कथं तादात्ममुच्यत
+> इति न वक्तव्यं ! नात्र परस्परं दृष्टांतदार्ष्टांतिकभावः । अपि तु यस्य यादृशं
+> ख्यानं स्पुरणं परमात्मनः तदेव ज्ञानमितरस्यापि जीवात्मन इति सखायावित्युच्यते ।
+> एकरूपप्रकाशावित्यर्थः । आत उपपन्नमैकात्मं । अनेन वास्तवभेदोऽपि निरस्तः ।
+> समानं वृक्षं परि षस्वजाते इत्यत्र यथाश्रयांताराभावादुभयोरेकाश्रयत्व-
+*Gist:* By the example of two birds on one tree, the individual self and the Supreme Self are praised; the commentary continues and is cut at the end of the window.
+
+*[The Sāyaṇa-bhāṣya is cut by the end of the window as supplied, at "ಏಕಾಶ್ರಯತ್ವ-", and continues in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 404. Vol 12 pp. 399-404: end of Rk 17 special topics, grammar, Rk 18 (1.164.18) with bhashya and special topics
+**Progress note:** Done through printed p. 411. Vol 12 pp. 405-411: end of Rk 18 special topics, Rk 19 complete, Rk 20 begun
