@@ -10838,6 +10838,169 @@ In this Upaniṣad sentence, which teaches identity, the characteristic stated b
 
 *[as supplied: the text of this window ends here, after the reference; it continues in the next window.]*
 
+### Printed p. 442
+*Running head: 442 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 23:]* Having cited this sentence, he says that this identity is found in the Śruti sentence as well. Besides, in the Śatapatha Brāhmaṇa also, after showing the relation between Agni and Gāyatrī, it is stated that Gāyatrī, which is of the nature of a metre, is connected with Agni, and that in showing that relation the very word that conveys identity is used. For example—
+
+आग्नेयीरन्वाह । स्वयैवेनमेतद्देवतया समिंधे । गायत्रीरन्वाह । गायत्रं ना अग्नेश्चंदः । स्वेन्नैवैनमेतच्छंदसा समिंधे (*āgneyīranvāha | svayaivenametaddevatayā samiṃdhe | gāyatrīranvāha | gāyatraṃ nā agneścaṃdaḥ | svennaivainametacchaṃdasā samiṃdhe*) ॥
+(Śat. Brā. 1-3-5-4) *[as supplied: "ಶ. ಬ್ರಾ."]*
+
+In sentences such as this the relation is explained.
+
+त्रैष्टुभात् त्रैष्टुभं निरतक्षत (*traiṣṭubhāt traiṣṭubhaṃ niratakṣata*)—when it says "from the firmament he fashioned the station of Vāyu", explaining how the name Traiṣṭubha came to the firmament, he has interpreted वृष्टिपर्जन्यविद्युद्रूपत्रिस्तोभयुक्तात् अंतरिक्षात् (*vṛṣṭiparjanyavidyudrūpatristobhayuktāt aṃtarikṣāt*) as: from the firmament joined with the three stobhas, namely rain, Parjanya and lightning.
+
+त्रिष्टुभोपदधाति । त्रैष्टुभो हि वायुः (*triṣṭubhopadadhāti | traiṣṭubho hi vāyuḥ*) ।
+(Śat. Brā. 8-7-3-12) *[as supplied: "ಶ. ಪ್ರಾ." in the reference]*
+
+Just as in sentences such as this the identity of Triṣṭubh and Vāyu is stated, here too the second word त्रैष्टुभं (*traiṣṭubhaṃ*) means the station of Vāyu. Sāyaṇa has explained it as ऊर्ध्वाधस्तिर्य ग्लक्षण स्तोभत्रयोपेतं वायुं (*ūrdhvādhastirya glakṣaṇa stobhatrayopetaṃ vāyuṃ*).
+
+जगति जगत्पदमाहितं (*jagati jagatpadamāhitaṃ*)—explaining that the station of Āditya is established in the heavenly world, for the first word जगति (*jagati*) he gives सर्वैर्गंतव्ये उद्गततमे वा तृतीयभूते द्युलोके (*sarvairgaṃtavye udgatatame vā tṛtīyabhūte dyuloke*) । The meaning is the heavenly world, which all must go to and join, which is the highest, and which is the third of the worlds. Because Āditya is of moving nature he is named Jagat. There is an injunctive sentence that if the knowledge of these three stations exists there is release. This was the meaning on the adhilokā side. Besides this, there is a meaning relating to the sacrifice (adhiyajña). In that meaning the metres to be used in the three savanas are meant.
+
+गायत्रे प्रातःसवने गायत्रं छंदः पदं आहितं । त्रैष्टुभात् माध्यंदिनात् सवनात् त्रैष्टुभं छंदः जगती तृतीयसवने जागतं पदं (*gāyatre prātaḥsavane gāyatraṃ chaṃdaḥ padaṃ āhitaṃ | traiṣṭubhāt mādhyaṃdināt savanāt traiṣṭubhaṃ chaṃdaḥ jagatī tṛtīyasavane jāgataṃ padaṃ*) ॥
+
+Gāyatra means the morning pressing, Traiṣṭubha means the midday pressing, and Jagat means the third pressing. It is understood that at these times of pressing these metres were fashioned and recited, or that there is an injunction that they must be recited or
+
+### Printed p. 443
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 443] (as supplied).*
+
+recited. It is established that the sacrificer who performs the rite in the three savanas, knowing these stations of the metres, obtains immortality. Explaining this very thing in the Taittirīya Saṃhitā,
+
+गायत्रं प्रातःसवनं, त्रैष्टुभं माध्यंदिनर्ं सवनं, जागतं तृतीयसवनं (*gāyatraṃ prātaḥsavanaṃ, traiṣṭubhaṃ mādhyaṃdinarṃ savanaṃ, jāgataṃ tṛtīyasavanaṃ*) ।
+(Tai. Saṃ. 2-2-9. 5, 6) *[as supplied: "ಮಾಧ್ಯಂದಿನರ್ಂ" is printed in the quotation]*
+
+it is explained in this sentence.
+
+The order of reciting the Traiṣṭubha and the others, joined with the other characteristics, together with the eight-syllabled Gāyatrī, in such morning pressings and the rest, is described in the Aitareya Brāhmaṇa. Since this same point is stated in the next Ṛk also, its explanation is given in the Special Topics of the next Ṛk.
+
+*[as supplied: a stray label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" is printed before the proper heading "ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ".]*
+
+*Grammar (transcribed, not explained):*
+गायत्रे (*gāyatre*)—गायत्राः संबंधि गायत्रम् (*gāyatrāḥ saṃbaṃdhi gāyatram*). By तस्येदम् (*tasyedam*) (Pā. Sū. 4-3-120) the suffix aṇ; by यस्यॆति च (*yasyèti ca*) loss of ī; by the suffix accent it becomes final-accented; locative singular form.
+आहितम् (*āhitam*)—by गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the udātta accent comes on the gati (ā).
+निरतक्षत (*niratakṣata*)—तक्षू तनूकरणे (*takṣū tanūkaraṇe*), root; laṅ, third person plural; because of the yad-connection nighāta does not come; since the augment aṭ is udātta it becomes adyudātta; by तिजुचोदात्तवति (*tijucodāttavati*) (Pā. Sū. 8-1-71) the nighāta accent comes on the gati (nir).
+अमृतत्वम् (*amṛtatvam*)—अमृतस्य भावः अमृतत्वम् (*amṛtasya bhāvaḥ amṛtatvam*); by तस्यभावस्त्वतला (*tasyabhāvastvatalā*) the suffix tva in the sense of state; by the suffix accent it becomes final-accented.
+आनशुः (*ānaśuḥ*)—अशू व्याप्तौ (*aśū vyāptau*), root, liṭ; in the third person plural, by vyatyaya, parasmaipada; by परस्मै, पदानां (*parasmai, padānāṃ*) (Pā. Sū. 3-4-82) the substitute us; doubling because of liṭ; by अश्नोतेश्च (*aśnoteśca*) (Pā. Sū. 7-4-72) the augment nuṭ after the reduplicative syllable; by आतआदेः (*ātaādeḥ*) lengthening of the reduplicative syllable; the tiṅanta-nighāta accent comes. ॥ 23 ॥
+
+### Printed p. 444
+*Running head: 444 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*[as supplied: a stray, garbled label "। ಸಂಹರಾಪಃ ।" is printed before the proper heading "ಸಂಹಿತಾಪಾಠಃ".]*
+
+#### Ṛk 24
+**॥ संहितापाठः ॥**
+> गा॒य॒त्रेण॒ प्रति॑ मिमिते अ॒र्कम॒र्केण॒ साम॒ त्रैष्टु॑भेन॒
+> वाकं ।
+> वा॒केन॑ वा॒कं द्वि॒पदा॒ चतु॑ष्पदा॒क्षरे॑ण मिमते स॒प्त वाणीः॑ ॥
+> ॥ २४ ॥
+**॥ पदपाठः ॥**
+> गायत्रेण । प्रति । मिमिते । आर्कं । अर्केण । साम । त्रैस्तुभेन । वाकं ।
+> वाकेन । वाकं । द्विपदा । चतुःपदा । अक्षरेण । मिमते । सप्त । वाणीः ॥ २४ ॥
+*[as supplied: a stray, garbled label "ಕಯಣಭಾಷ್ಯಂ" is printed before the proper heading "ಸಾಯಣಭಾಷ್ಯಂ".]*
+
+**॥ सायणभाष्यम् ॥**
+> गायत्रेण गायत्रछंदसार्कमर्चनसाधनं मंत्रं प्रति मिमिते । प्रत्येकं
+> परिच्छिन्नत्ति । अर्कॊ मंत्रो भवति यदेनेनार्चंतीति निरुक्तं । ५-४ । प्रतिमंत्रं
+> गायत्रेण छंदसोपनिबद्धं करोति । उपलक्षणमेतदन्येषां छंदसां । यद्वा ।
+> इतरेषां छंदसामस्यॆव चतुश्चतुरक्षराधिक्येन तत्तच्छंदोभिः प्रतिमिमित इत्यर्थः ।
+> यद्वा । प्रतिशब्दः समित्येतस्मिन्नर्थे । छंदोभिर्मंत्रान् संमितं करोतीत्यर्थः ।
+> अर्केण साम । उक्तलक्षणेन मंत्रेण साम गायत्ररथंतरसंज्ञकं साम प्रति
+> मिमिते । नन्नेकं साम तृचे क्रियत इति तिसृष्टेकं साम विहितं अतोऽर्कैसामेति वक्तव्यं कथमुच्यतेऽर्कॆणेति न । वस्तुत एकं सामैकस्यामृच्यारूढं ।
+> पश्चादन्योन्यां तदुत्तरयोगायतीत्यतिदेशतः प्राप्तं तिसृषु गानं । अत एकवचनमविरुद्धं । त्रैष्टुभेन वाकं । अत्र त्रिष्टुबुपादानमितरछंदःप्रदर्शनार्थं । अथवा
+> अनादेशे सर्वत्र त्रिष्टुभो ग्रहणात्प्राचुर्याभिप्रायेणेदमुक्तं । त्रैष्टुभेन
+> द्विवारत्रिवारावृत्तेन द्व्यचतृचरूपं वाकं वक्तव्यमेकैकं छंदः प्रति मिमिते ।
+> अथवा वाकं सूक्तमेतावद्धिस्त्रिष्टुब्बिरुपनिबद्धमिदं सूक्तमिति । तादृशेन वाकेन
+> वाकं वर्गमनुवाकं वा मिमिते । कीदृशेन वाकेनेति स विशेष्यते । द्विपदा चतुष्पदा । पादद्वयबद्ध विराडादिच्छंदोनिबद्धमंत्ररूपेण चतुष्पदा पादचतुष्टयोपेतेनानुष्टुबादि मंत्ररूपेणेति । इयतीभिर्द्विपदाभिर्वर्गः इयतीभिश्च तुष्पदाभिरुपेतो वर्गः । इयद्दि पदापैर्वाकैः इयच्च तुष्पदरूपैर्वाकैश्च परिमितोऽनुवाक इति । सूक्तपक्ष एतावद्धिः सूक्ष्तरयमनुवाक इति । किंचाक्षरेणाक्षरेणैव स
+
+> *gāyatreṇa gāyatrachaṃdasārkamarcanasādhanaṃ maṃtraṃ prati mimite | pratyekaṃ*
+> *paricchinnatti | arkò maṃtro bhavati yadenenārcaṃtīti niruktaṃ | 5-4 | pratimaṃtraṃ*
+> *gāyatreṇa chaṃdasopanibaddhaṃ karoti | upalakṣaṇametadanyeṣāṃ chaṃdasāṃ | yadvā |*
+> *itareṣāṃ chaṃdasāmasyèva catuścaturakṣarādhikyena tattacchaṃdobhiḥ pratimimita ityarthaḥ |*
+> *yadvā | pratiśabdaḥ samityetasminnarthe | chaṃdobhirmaṃtrān saṃmitaṃ karotītyarthaḥ |*
+> *arkeṇa sāma | uktalakṣaṇena maṃtreṇa sāma gāyatrarathaṃtarasaṃjñakaṃ sāma prati*
+> *mimite | nannekaṃ sāma tṛce kriyata iti tisṛṣṭekaṃ sāma vihitaṃ ato 'rkaisāmeti vaktavyaṃ kathamucyate 'rkèṇeti na | vastuta ekaṃ sāmaikasyāmṛcyārūḍhaṃ |*
+> *paścādanyonyāṃ taduttarayogāyatītyatideśataḥ prāptaṃ tisṛṣu gānaṃ | ata ekavacanamaviruddhaṃ | traiṣṭubhena vākaṃ | atra triṣṭubupādānamitarachaṃdaḥpradarśanārthaṃ | athavā*
+> *anādeśe sarvatra triṣṭubho grahaṇātprācuryābhiprāyeṇedamuktaṃ | traiṣṭubhena*
+> *dvivāratrivārāvṛttena dvyacatṛcarūpaṃ vākaṃ vaktavyamekaikaṃ chaṃdaḥ prati mimite |*
+> *athavā vākaṃ sūktametāvaddhistriṣṭubbirupanibaddhamidaṃ sūktamiti | tādṛśena vākena*
+> *vākaṃ vargamanuvākaṃ vā mimite | kīdṛśena vākeneti sa viśeṣyate | dvipadā catuṣpadā | pādadvayabaddha virāḍādicchaṃdonibaddhamaṃtrarūpeṇa catuṣpadā pādacatuṣṭayopetenānuṣṭubādi maṃtrarūpeṇeti | iyatībhirdvipadābhirvargaḥ iyatībhiśca tuṣpadābhirupeto vargaḥ | iyaddi padāpairvākaiḥ iyacca tuṣpadarūpairvākaiśca parimito 'nuvāka iti | sūktapakṣa etāvaddhiḥ sūkṣtarayamanuvāka iti | kiṃcākṣareṇākṣareṇaiva sa*
+
+### Printed p. 445
+*Running head: [ಆ. ೨. ಆ .೩ ವ. ೧೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 445] (as supplied).*
+
+*[Continuing the bhāṣya:]*
+> वाणीर्वागधिष्ठितानि सप्त छंदांसि मिमते । निर्माणं कुर्वंति । अष्टाक्षरा गायत्री
+> एकादशाक्षरा त्रिष्टुप् द्वादशाक्षरा जगतीति । अक्षरैः पादाः परिमीयंते । परिमितैः
+> पादैश्चंदांसि । ततः पादानां छंदसामक्षरं मूलमिति । तथा ऋग्वर्गसूक्तानुवाकादीनां चाक्षरं मूलमित्यक्षरप्रशंसा ॥
+*Gist:* Sāyaṇa explains mimite as measuring out, arka as mantra, sāma, vāka as sūkta or division, the seven metres; and praises the syllable as the root of all.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+गायत्रेण (*gāyatreṇa*)—by the Gāyatra metre; अर्कं (*arkaṃ*)—the mantra, an instrument of worship; प्रति मिमिते (*prati mimite*)—they compose separately; अर्केण (*arkeṇa*)—by this mantra, an instrument of worship; साम (*sāma*)—the sāma (named Gāyatra-rathantara) (they compose); त्रिष्टुभेन (*triṣṭubhena*)—by the Triṣṭup; वाकं (*vākaṃ*)—the part of the form of a sūkta, or each recitable metre (they compose); द्विपदा (*dvipadā*)—having two pādas; चतुष्पदा (*catuṣpadā*)—having four pādas; वाकेन (*vākena*)—by this part of the nature of a sūkta; वाकॆं (*vākèṃ*) *[as supplied: "ವಾಕೆಂ"]*—they compose the parts of the nature of varga and anuvāka; अक्षरेण (*akṣareṇa*)—by the syllable; सप्त वाणीः (*sapta vāṇīḥ*)—the seven metres; मिमते (*mimate*)—they fashion.
+
+**भावार्थ (Bhāvārtha)**
+By the Gāyatra metre the poets compose separately the mantra that is an instrument of worship. By this mantra, an instrument of worship, they compose the sāma. By the Triṣṭup they compose the part of the form of a sūkta, and by this part of the nature of a sūkta, having two pādas and four pādas, they compose the parts of the nature of vargas and anuvākas. And by the syllables they fashion the seven metres.
+
+**Printed English**
+He constructs the prayer with the Gayatri metre; with the prayer (he
+constructs) the Sama, and with the Trishtubh metre the couplet (or triplet):
+with the couplet (or triplet) he constructs the hymn with (verses of) two or
+four disrichs : and with the syllable they construct the seven metres.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The composition and the nature of arka, sāma, vāka and the seven vāṇīs are described. What is arka? What is the nature of arka? The authors of the Nirukta have stated this in the following way. According to the explanation in the Nirukta,
+
+अर्को देवो भवति यदेनमर्चति । अर्को मंत्रो भवति यदनेनार्चंति । अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना (*arko devo bhavati yadenamarcati | arko maṃtro bhavati yadanenārcaṃti | arkamannaṃ bhavatyarcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā*) ।
+(Ni. 5-4)
+
+### Printed p. 446
+*Running head: 446 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+Because it is the object of worship, arka itself is the deity. Because it is the instrument of worship, arka itself is the mantra. Because it gives vitality to beings, arka itself is food. The tree called arka is a bitter tree *[as supplied: "ದೃಕ್ಷವಿಶೇಷವು" in the Kannada]*: having stated these different meanings, he explained the nature of arka by citing the Ṛk
+
+गायंति त्वा गायत्रिणोऽर्चंत्यर्कमकिणः । ब्रह्माणस्त्वा शतक्रत उद्यंशमिव येमिरे (*gāyaṃti tvā gāyatriṇo 'rcaṃtyarkamakiṇaḥ | brahmāṇastvā śatakrata udyaṃśamiva yemire*) ॥
+(Ṛ. Saṃ. 1-10-1)
+
+The glory of arka is very great, and its greatness is praised in many places.
+
+अथातः शिरः । तद्गायत्रीषु भवत्यग्रं वै छंदसां गायत्र्यग्रमंगानां शिरः । तदर्कवतीषु भवत्यग्निर्वा अर्कः (*athātaḥ śiraḥ | tadgāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatryagramaṃgānāṃ śiraḥ | tadarkavatīṣu bhavatyagnirvā arkaḥ*) ।
+(ಪ. ಆ. 1-4-1) *[as supplied: the abbreviation "ಪ. ಆ."; the Kannada text below calls the work the Aitareya Āraṇyaka]*
+
+Thus it is praised in the Aitareya Brāhmaṇa *[as supplied: the Kannada says "ಐತರೇಯಬ್ರಾಹ್ಮಣ" here and "ಐತರೇಯಾರಣ್ಯಕ" a few lines below for the same passage]*. According to this explanation, it is also said that the nine Ṛks beginning with the Ṛk इंद्रमिद्दाथिनो बृहदिंद्रमर्कॆभिरर्किणः (*iṃdramiddāthino bṛhadiṃdramarkèbhirarkiṇaḥ*) (Ṛ. Saṃ. 1-7-1) are the arka mantras, that they are the head, that is, the chief mantras of all; that since Gāyatra is the chief principle and these mantras too are in the form of that Gāyatra, the arka mantras have obtained the chief place above all the other mantras.
+
+In this cited sentence of the Aitareya Āraṇyaka the natural relation common to Agni, Gāyatrī and arka is shown. That the identity of Gāyatrī and Agni was stated in the Taittirīya Saṃhitā by "गायत्रोऽग्निः (*gāyatro 'gniḥ*)" was told in the Special Topics of the previous Ṛk. It is on the basis of this very sentence that Sāyaṇa in the previous Ṛk gave the meaning आग्नेयं पदमाहितं (*āgneyaṃ padamāhitaṃ*) for गायत्रमाहितं (*gāyatramāhitaṃ*). Showing the identity of Agni, which is of such Gāyatra form, and arka, there is the Āraṇyaka sentence "अग्निर्वा अर्कः (*agnirvā arkaḥ*)". Stating this same point in the Śatapatha Brāhmaṇa also,
+
+एषोऽग्निरर्को यत्पुरुषः स यो हैतमेवमग्निमर्कं पुरुषमुपास्तेऽयमहमग्निरर्कोऽस्मीति विद्यया हैवास्यैष आत्मन्नग्निरर्कश्चितो भवति (*eṣo 'gnirarko yatpuruṣaḥ sa yo haitamevamagnimarkaṃ puruṣamupāste 'yamahamagnirarko 'smīti vidyayā haivāsyaiṣa ātmannagnirarkaścito bhavati*) ॥
+(Śat. Brā. 10-3-4-5)
+
+in sentences such as this too the identity of Agni and arka is stated. It is explained in the Ṛk under discussion that this arka mantra is fashioned by the Gāyatra metre, which is dear to Agni. It should be understood that, as explained above in the sentences of the Nirukta authors, if arka refers to the deity it means Agni, and if it refers to the mantra it means Gāyatrī.
+
+### Printed p. 447
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 447] (as supplied).*
+
+गायत्रेण अर्कं प्रति मिमीते (*gāyatreṇa arkaṃ prati mimīte*)—when it says this, it is shown that if the preposition प्रति (*prati*) is joined to the verb मिमिते (*mimite*), two kinds of meaning result. First, प्रत्येकं परिच्छिन्नत्ति (*pratyekaṃ paricchinnatti*) *[as supplied: "ಪರಿಚ್ಛಿನ್ನತ್ತಿ"]*, he divides each mantra, that is, it may mean that he composes each mantra separately by the Gāyatra metre. Or the other metres as well are composed on the basis of the Gāyatra metre. How? इतरेषां छंदसा अस्यॆव चतुश्चतुरक्षराधिक्येन तत्तच्छंदोभिः प्रतिमिमिते इत्यर्थः (*itareṣāṃ chaṃdasā asyèva catuścaturakṣarādhikyena tattacchaṃdobhiḥ pratimimite ityarthaḥ*) ।
+If the Gāyatra metre has twenty-four syllables:
+Uṣṇik 24 + 4 (28)
+Anuṣṭup 24 + 4 + 4 ; (32)
+Bṛhatī 24 + 4 + 4 + 4 ; (36)
+Paṅkti 24 + 4 + 4 + 4 + 4 (40)
+Triṣṭup 24 + 4 + 4 + 4 + 4 + 4 (44)
+Jagatī 24 + 4 + 4 + 4 + 4 + 4 (48) *[as supplied: the Jagatī row is printed with the same terms as the Triṣṭup row; kept as printed]*
+(The metre names are printed उष्णिक् (*uṣṇik*), अनुष्टुप् (*anuṣṭup*), बृहती (*bṛhatī*), पंक्तिः (*paṃktiḥ*), त्रिष्टुप् (*triṣṭup*), जगती (*jagatī*).)
+In this way, with four more syllables each time, the Uṣṇik and the rest are composed on the basis of the Gāyatra: this too may be the meaning. Second, if the word प्रति (*prati*) is in the sense of the word सम् (*sam*), then:
+
+यद्वा प्रतिशब्दः सम् इत्येतस्मिन्नर्थे । छंदोभिर्मंत्रान् संमितं करोतीत्यर्थः (*yadvā pratiśabdaḥ sam ityetasminnarthe | chaṃdobhirmaṃtrān saṃmitaṃ karotītyarthaḥ*) ।
+
+he explains that the meaning is that he first fashions the mantras and afterwards makes them joined with metres. Then,
+
+अर्केण सामः (*arkeṇa sāmaḥ*)—by this arka, of the form of a mantra, he fashions the sāma, that is, the sāma named Gāyatra-rathantara. If arka is created from Gāyatra and sāma from arka, it may also be called the Gāyatra-sāma. Or it may be of three kinds: Gāyatra-sāma, Rathantara-sāma and Bṛhat-sāma. That these three sāmas relate to Agni is stated in the Śatapatha Brāhmaṇa.
+
+वीर्यवत्तरो हिंकृत्य गायति तत्र हि सर्वं कृत्स्नगं साम भवति । गायत्रं पुरस्ताद्गायति । अग्निर्वै गायत्रमग्निमेवास्यैतच्छिरः करोत्यथो शिर एवास्यैतदनस्थिकममृतं करोति (*vīryavattaro hiṃkṛtya gāyati tatra hi sarvaṃ kṛtsnagaṃ sāma bhavati | gāyatraṃ purastādgāyati | agnirvai gāyatramagnimevāsyaitacchiraḥ karotyatho śira evāsyaitadanasthikamamṛtaṃ karoti*) ।
+(Śat. Brā. 9-1-2-35)
+
+The sacrificer, the performer of the sacrifice, sings the complete sāma. In it the Gāyatra-sāma is sung first. Since the Gāyatra metre itself is Agni, Agni himself becomes of the form of the head for this sacrificer.
+
+*[as supplied: the text of this window ends here, at the end of the page.]*
+
 ---
 
-**Progress note:** Done through printed p. 441. Vol 12 pp. 435-441: end of Māṇḍūkya/Muṇḍaka/Kaṭha citations, Ṛk 22 grammar, Ṛk 23 (1.164.23) text, bhāṣya, special topics begin
+**Progress note:** Done through printed p. 447. Vol 12 pp. 442-447: end of Ṛk 23 special topics and grammar; Ṛk 24 (1.164.24) text, bhāṣya, arka/sāma/vāka special topics
