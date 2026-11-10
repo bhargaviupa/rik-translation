@@ -11,3 +11,4 @@
 | w0027 | 27-29 | sonnet (standing) | n/a | n/a | n/a |
 | w0030 | 30-32 | sonnet (standing) | n/a | n/a | n/a |
 | w0033 | 33-36 | sonnet (standing) | n/a | n/a | n/a |
+| w0037 | 37-39 | sonnet (standing) | n/a | n/a | n/a |
