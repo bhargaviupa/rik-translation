@@ -1,0 +1,21 @@
+{
+ "vol": 12,
+ "mandala": 1,
+ "branch": "claude/vol12-html",
+ "source": [
+  "vol12/html/rig_12.md@2-727"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol12/Rigveda_Samhita_Vol12_Kannada_Text.md",
+  "en": "vol12/Rigveda_Samhita_Vol12_English_Translation.md"
+ },
+ "work": "vol12/work",
+ "window": 3
+}
