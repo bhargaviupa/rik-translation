@@ -16,7 +16,7 @@ The user's machine-read markdown, two files merged losslessly (`tools/rv/merge_m
 Set up Nov 10 2026 (merge, pictures, config; `batch.py prep 12` tested). Translation: Vol 15 pipeline (`tools/rv/RUNBOOK.md`); dispatcher prompt `vol12/CONTINUE_PROMPT_HTML.md`.
 
 ## Status
-In progress. **Done through printed p. 240** on branch `claude/affectionate-faraday-2iv8y4` (which contains `claude/vol12-html` through p. 196 plus the pipeline changes of Nov 10 2026: see `CLAUDE.md`, `tools/rv/RUNBOOK.md`, `docs/LESSONS.md` 31–36). Windows pp. 197–199, 200–203 and 204–210 were made with the new flow (`TASK.md` → `en.md` → `batch.py done`); `window` is now 6 pages. Next: `python3 tools/rv/batch.py next 12` (starts at p. 241). `batch.py audit 12` passes; 0 `[?]`. Real token counts are in `parts/batch_costs.md` from p. 197 on.
+In progress. **Done through printed p. 315** on branch `claude/affectionate-faraday-2iv8y4` (which contains `claude/vol12-html` through p. 196 plus the pipeline changes of Nov 10 2026: see `CLAUDE.md`, `tools/rv/RUNBOOK.md`, `docs/LESSONS.md` 31–36). Windows pp. 197–199, 200–203 and 204–210 were made with the new flow (`TASK.md` → `en.md` → `batch.py done`); `window` is now 6 pages. Next: `python3 tools/rv/batch.py next 12` (starts at p. 316; batches of three 6-page windows per fresh Sonnet agent, see `parts/batch_costs.md`). `batch.py audit 12` passes; 0 `[?]`. Real token counts are in `parts/batch_costs.md` from p. 197 on.
 **Continue on this branch (or merge it into `claude/vol12-html` first); do not resume the old branch at p. 197, the two would diverge.**
 
 ## Open items
