@@ -4533,4 +4533,4 @@ in this ṛk, while the Nirukta authors have explained ऋतुभिः (*ṛt
 
 ---
 
-**Progress note:** Done through printed p. 161 (PDF 161). Sūkta 162 Ṛk 3 Special Topics, grammar; Ṛk 4 Saṃhitā (picture) to Special Topics start
+**Progress note:** Done through printed p. 162 (PDF 162). Sūkta 162 Ṛk 3 Special Topics, grammar; Ṛk 4 Saṃhitā (picture) to Special Topics start
