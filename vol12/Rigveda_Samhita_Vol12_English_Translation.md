@@ -550,6 +550,91 @@ In this place अज्मभिः बलैः बलकरैरुदकै�
 
 *Note (the Sanskrit grammar is only transcribed):* the Kannada begins the grammatical analysis with पेरुः (*peruḥ*) (root पि (*pi*), suffix *ru* by मिपिभ्यां रुः (*mipibhyāṃ ruḥ*), Uṇ. Sū. 4-541) and अर्णसः (*arṇasaḥ*) (root ऋ (*ṛ*), suffix *asun* with the augment *nuṭ* by उदकेनुट् च (*udakenuṭ ca*), Uṇ. Sū. 4-639); the analysis continues on the next page.
 
+### Printed p. 21
+
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೧.] Ṛgveda-saṃhitā, p. 21 (as supplied).*
+
+*Grammar of Ṛk 3, continued (the Sanskrit grammar is only transcribed):* the Kannada analyses धायि (*dhāyi*) (root डुधाञ् (*ḍudhāñ*), aorist, no augment because Vedic), अवः (*avaḥ*) (root अव (*ava*), Uṇādi suffix *asun*), गमेयम् (*gameyam*) (optative of the root गमल् (*gamal*), first person), अज्ज (*ajja*) *[so printed for ಅಜ್ಮ]* (root अज (*aja*), suffix *manin*), पतयद्भिः (*patayadbhiḥ*) (root पत्ल्‌ (*patl*), causative, participle suffix, instrumental plural) and एवै (*evai*) (root इण् (*iṇ*), suffix *van* by the sūtra Uṇ. Sū. 1-150, accent on the first syllable), and ends with the mark ॥ ೩ ॥. A stray ornament line ":C:" follows, kept as supplied.
+
+#### Ṛk 4
+
+*[The Saṃhitā label is garbled in the supplied text ("ಸಂಹಿ ತಾಂಡಾ") and the Saṃhitā lines are not a block; the standard label is inserted, the garbled words kept in kn.md as a note, and the lines made a block. The printed line break "ಬದ್ಧಸ್ಮನಿ-ಖಾದತಿ" has a hyphen where the Pada shows two words; the hyphen is dropped and a space left in kn.md.]*
+
+**॥ संहितापाठः ॥**
+
+> उप॑स्तुतिरौच॒थ्यमु॑रुष्ये॒न्मा मामि॒मे प॑त॒त्रिणी॒ वि दु॑ग्धां ।
+> मा मामेधो॒ दश॑तयश्चि॒तो धा॒क् प्र यद्वां॑ ब॒द्धस्मनि॒ खाद॑ति॒ क्षां ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> उपस्तुतिः । औचथ्यं । उरुष्येत् । मा । मां । इमे इति । पतत्रिणी इति । वि ।
+> दुग्धां ।
+> मा । मां । एधः । दशतयः । चितः । धाक् । प्र । यत् । वां । बद्धः । त्मनि । खादति।
+> क्षां ॥ ४ ॥
+
+> *upastutiḥ | aucathyaṃ | uruṣyet | mā | māṃ | ime iti | patatriṇī iti | vi |*
+> *dugdhāṃ |*
+> *mā | māṃ | edhaḥ | daśatayaḥ | citaḥ | dhāk | pra | yat | vāṃ | baddhaḥ | tmani | khādati|*
+> *kṣāṃ ‖ 4 ‖*
+
+### Printed p. 22
+
+*Running head: 22 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22 (printed "ಆ. ೨೨"), Sū. 158.*
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಕಾಯಶಭಾಷ್ಯ c") and sits inside the block; moved out and the standard label inserted. Hyphenated line breaks inside the block are joined.]*
+
+> अत्राख्यानमाहुः । जराझुर्झरितगात्रं जात्यंधं दीर्घतमसं मामतेयं
+> वरिवसितुमशक्नुवानाः स्वगर्भदासा अग्नौ प्रदाहाय प्रचक्षिपुः । तत्र क्षिप्रोऽश्विनावस्तावीत् । तौ चैनमरक्षतां । ततोऽप्यमियमाणमुदकेष्वपातयन् । तत्र निमग्नः
+> पुनरश्विन् तुष्टाव । तुष्टौ संतौ तौ जलादुदहार्ष्टां । एवमवध्यं तं त्रैतनो
+> नामकः कश्चिद्दासोऽस्य शिरो वक्षश्च व्यतक्षत् । ततोऽप्यपालयतामिति । तदिदमृग्धयाभ्यामुच्यते । हे अश्विनौ उपस्तुतिर्युवां बुद्धोपेत्य क्रियमाणा स्तुतिरौचथ्यमुचथस्य पुत्रं दीर्घतमसं मामुरुष्येत् । रक्षेद्वाहाम्य पद्रवात् । उरुष्यती रक्षाकर्मति यास्कः । नि. ५. २३. । एवं सामान्येनोक्ता विशेषेण प्रत्युपद्रवपरिहारं प्रार्थयते । इमे प्रसिद्धे पतत्रिणी पतनरीले पुनरावर्तनशीले अहोरात्रे मां मा वि दुग्धां । विशेषेण दोहगतसारं मा कार्ष्टां । प्राणनिर्गमनानुकूल्यं मा कुरुतामित्यर्थः । किंच मां दशतयो वशवारश्चितः संचितः संपादित
+> एधः प्रज्वालितेंधनसंघो मा धाक् । मा धाक्षीत् ॥ दहतेर्लुजि सिचि हलंतलक्षणा
+> वृद्धिः । बहुलं छंदसीतीडभावः । हल्बादिसंयोगांतलोप् ॥ दुःसहदुप्राप्तिं
+> दर्शयति । यद्यस्माद्वां युवयोः संबंध्ययुं जनो बद्धः पाशैर्गाढं वेष्टित
+> सन् त्मन्यात्मन्यात्मना क्षां भूमिं खादति भक्षयति । गंतुमशक्तः सन् भूमौ परिलुततीत्यर्थः । तस्मादुपस्तुतिरौचथ्यमुरुष्येदिति ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): blind, aged Dīrghatamas, cast by servants into fire and water, prays: may your praise protect me, may days, nights and fire not consume me.]*
+
+*[The Pratipadārtha label is garbled in the supplied text ("ಪ್ರ. ಶ್ರೀಧರ್") and the Pratipadārtha sits inside the bhāṣya block; moved out, un-quoted, and the standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(हे अश्विनौ (*he aśvinau*)—O Aśvin deities.) औचथ्यं (*aucathyaṃ*)—made by Dīrghatamas, son of Ucathya; उपस्तुतिः (*upastutiḥ*)—(addressed to you) this hymn; मां (*māṃ*)—me; उरुष्यत् (*uruṣyat*)—may it protect. इमे पतत्रिणी (*ime patatriṇī*)—these days and nights, moving by recurrence; वि मग्धां (*vi magdhāṃ*) *[so printed; the Saṃhitā has ವಿ ದುಗ್ಧಾಂ]*—(causing me old age) may they not make me wither. दशतयः (*daśatayaḥ*)—ten times; चितः (*citaḥ*)—kindled (and flaming); विधः (*vidhaḥ*) *[so printed; the Saṃhitā has ಏಧಃ]*—the mass of sparks of fire; मां (*māṃ*)—me; मा धाक् (*mā dhāk*)—may it not burn. यत् (*yat*)—for which reason (that is, in which manner); वां (*vāṃ*)—I, belonging to you; बद्धः (*baddhaḥ*)—(the whole body) bound; त्मनि (*tmani*)—by myself; क्षां (*kṣāṃ*)—the earth; खादति (*khādati*)—(crawling) I lick (knowing this, protect me).
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities! May this fire, kindled ten times by enemies, not burn me. May the days and nights, which move by recurrence, in the same way not make me old and decrepit. May this praise, made by me, the son of Ucathya, satisfy you and protect me. Knowing my wretched state, bound by enemies, crawling by myself and licking the earth, protect me.
+
+### Printed p. 23
+
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೧.] Ṛgveda-saṃhitā, p. 23 (as supplied).* (The Bhāvārtha, begun at the foot of p. 22, is given above in full.)
+
+**Printed English translation**
+
+*[Printed heading "English Translation."]*
+
+May the praise addressed to you, Ashwins, preserve the son of Uchatthya: let not these revolving (days and nights) exhaust me : let not the ten times kindled fire consume me: let it not be, that one who is your (dependant), bound (with bonds), should of himself bite the earth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Dīrghatamas had a body worn out by old age and had been blind from birth. His attendants, disgusted at serving him, bound his hands and feet and threw him into fire. When he praised the Aśvin deities, they protected him from the fire. The attendants then pushed him, who had not died, into the water. Even then, praised and invoked by him, the Aśvin deities protected him. One slave named Traitana, with his own strength, struck him on the head and chest, wounded him and ran away. Sāyaṇa has told the earlier story, saying that this occasion is spoken of in these two ṛks. (See Ṛ. Saṃ. part 5, page 231 — so printed: "ಋ. ಸಂ. ಭಾಗ ೫. ಪೇಜು 231 ನೋಡಿ".)
+
+उरुष्येश् (*uruṣyeś*) *[so printed]*—उरुष्यती रक्षाकर्म (*uruṣyatī rakṣākarma*) (Ni. 5-23): it is used in the sense of protection. The authors of the Nirukta
+
+स नो बोधि श्रुधी हवमुरुष्या णो अघायतः समस्मात् । (*sa no bodhi śrudhī havamuruṣyā ṇo aghāyataḥ samasmāt |*)
+
+(Ṛ. Saṃ. 5-24-3)
+
+quote this ṛk and give the meaning of the word उरुष्य (*uruṣya*) as "protect us from all who wish us evil". Sāyaṇa has said that the meaning is the same in the present ṛk.
+
+पतत्रिणी (*patatriṇī*)—पतनशीले पुनरावर्तनशीले । (*patanaśīle punarāvartanaśīle |*) It is used as a synonym for the days and nights, which move by recurrence (being born, setting) and by an uninterrupted succession. Although this word too shows the sense "moving", the authors of the Nirukta (quote):
+
+यो होतासीत्पथमो देवजुष्टो यं समांजन्नाज्येना वृणानाः । (*yo hotāsītpathamo devajuṣṭo yaṃ samāṃjannājyenā vṛṇānāḥ |*)
+स पतत्रीत्वरं स्था जगद्यच्छात्रमग्निरकृणोज्जातवेदाः । (*sa patatrītvaraṃ sthā jagadyacchātramagnirakṛṇojjātavedāḥ |*)
+
+(Ṛ. Saṃ. 10-88-4)
+
 ---
 
-**Progress note:** Done through printed p. 20 (PDF 20). Sūkta 158 Ṛk 3 bhāṣya end, Pratipadārtha, Bhāvārtha, English, Special Topics (Taugrya/Bhujyu, pajra, ajma, śūra), grammar start
+**Progress note:** Done through printed p. 23 (PDF 23). Sūkta 158 Ṛk 3 grammar end, Ṛk 4 complete (Saṃhitā to Special Topics start: uruṣyet, patatriṇī)
