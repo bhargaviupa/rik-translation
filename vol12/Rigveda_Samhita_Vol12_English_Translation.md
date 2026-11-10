@@ -466,6 +466,90 @@ in such ṛks a woman fit for enjoyment is understood. Thus, when various qualit
 
 *[The bhāṣya block breaks off at the end of printed p. 17 in the middle of a sentence ("…ಕುತ್ರೆತಿ"); it continues on p. 18, in the next window. Two stray signature lines at the foot of the page ("[2] Vol. 12", printed twice) are kept in kn.md as a note. Gist of what is given so far: enemies defeated King Taugrya in battle, bound him and threw him into the mid-ocean; he praised the Aśvins, who yoked horses to a chariot, came to the sea and brought him out; the bhāṣya says that this story is known from another mantra (Ṛ. 1-117-15) and is referred to here.]*
 
+### Printed p. 18
+
+*Running head: 18 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. "೫೮" (printed so for 158; the hundreds figure is missing in the supplied text).*
+
+*(Sāyaṇa-bhāṣya of Ṛk 3, continued from the end of p. 17; the block begins with the words "ತದುಚ್ಯತೇ" that complete the sentence "…ಕುತ್ರೆತಿ" of the previous window. A hyphenated line break in the block is joined in kn.md.)*
+
+> तदुच्यते। अर्णसोऽंभसो मध्यॆ समुद्रस्य मध्यॆ। स च पज्रः पाजसा बलेन तीर्णः
+> सन् वि धायि । धारितः । स्थापितः । यस्मादेवं तस्माद्वां युवयोरवो रक्षणं
+> शरणमुप गमेयं । संप्राप्नुयां । ऐहिकदुःखाद्विमुक्तो युष्मत्स्थानं संभजेयं । गतौ दृष्टांतः । पतयद्भिरेवैरश्चैः शूरो न शूर इव । स यथाज्म जित्वा
+> निर्भयं स्वगृहं प्राप्नोति तद्वत् ॥
+
+*[Gist of the Sāyaṇa-bhāṣya of Ṛk 3 (my own short summary): Taugrya, thrown by enemies into mid-ocean, called on the Aśvins, whose horse-drawn chariot brought him out; the seer prays to reach their protection as a victorious hero reaches home.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(हे अश्विनौ (*he aśvinau*)—O Aśvin deities.) यत् (*yat*)—for which reason, that is, in which manner. वां (*vāṃ*)—your. पेरुः (*peruḥ*)—the chariot able to protect. तौग्राय (*taugrāya*)—for the son of Tugra. अर्णसः मध्यॆ (*arṇasaḥ madhyè*)—in the middle of the sea with deep water. युक्तो ह (*yukto ha*)—joined (with horses). पज्रः (*pajraḥ*)—(as) having the capacity to cross (the sea). विधायि (*vidhāyi*)—has it been established? ("ಸ್ಥಾಪಿಸಲ್ಪಟ್ಟಿದೆಯೋ"). (Therefore:) पतयद्भिः (*patayadbhiḥ*)—swiftly running; एवैः (*evaiḥ*)—with horses; शूरो न अज्म (*śūro na ajma*)—just as a valiant hero, victorious, reaches a well-protected house. वां (*vāṃ*)—your; अवः (*avaḥ*)—protection; शरणं (*śaraṇaṃ*)—and refuge; उप गमेयं (*upa gameyaṃ*)—I shall obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities! At the time of rescuing the son of Tugra who was sinking in the middle of the sea, your chariot, able to protect, joined with horses, showed its capacity to cross the sea. Therefore your refuge always gives protection. Just as a valiant hero returns victorious, with the help of horses, to a well-protected house, so I too obtain your protection and refuge.
+
+**Printed English translation**
+
+In like manner, Ashwins, as your strong-drawn(car) able to cross (the sea), was placed, harnessed, in the middle of the water, for (the rescue of) the son of Tugra, so may I attain to your preserving protection (with the same alacrity) as a victorious hero (returns home) with bounding steeds.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+A king named Taugrya was once defeated by enemies, who tied his hands and feet and threw him into the middle of the sea. Unable to cross the sea, he prayed to the Aśvin deities for help. At once they yoked horses to their chariot, drove it into the sea and brought him to the shore: thus Sāyaṇa has cited the earlier story. *[The sentence runs over the page break, "ಪ್ರಾರ್ಥಿ|ಸಿದನು".]*
+
+### Printed p. 19
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧ ] Ṛgveda-saṃhitā, p. 19 (as supplied).*
+
+(Sāyaṇa has cited the story with the word "ದಹರಿಸಿದ್ದಾರೆ", printed for "ಉದಹರಿಸಿದ್ದಾರೆ", as supplied.) This son of Tugra is well known by the name Bhujyu. That the Aśvin deities rescued this same son of Tugra, who was sinking in the sea, is described by Kakṣīvān, son of Dīrghatamas, in sūktas 1-116 and 1-117, by Agastya Maitrāvaruṇi in sūkta 1-182, by Brahmātithi of the Kaṇva gotra in sūkta 8-5, and by Ghoṣā, daughter of Kakṣīvān, in 10-39. In sūkta 1-182 it is described how they sent boats and how the son of Tugra, filled with hope, clung to those boats.
+
+युवमेतं चक्रथुः सिंधुषु प्लवमात्मन्यंतं दक्षिणं तौग्राय कं । (*yuvametaṃ cakrathuḥ siṃdhuṣu plavamātmanyaṃtaṃ dakṣiṇaṃ taugrāya kaṃ |*)
+येन देवत्रा मनसा निरूहथुः सुपप्तनी पेतथुः क्षोदसो महः । (*yena devatrā manasā nirūhathuḥ supaptanī petathuḥ kṣodaso mahaḥ |*)
+अवविद्धं तौग्रमप्पन्तरनारंभणे तमसि प्रविद्दं । (*avaviddhaṃ taugramappantaranāraṃbhaṇe tamasi praviddaṃ |*)
+चतस्रो नावो जठलस्य जुष्टा उदश्चिभ्यामिषिताः पारयंति ॥ (*catasro nāvo jaṭhalasya juṣṭā udaścibhyāmiṣitāḥ pārayaṃti ‖*)
+कः स्विद्वक्षो निष्ठितो मध्यॆ अर्णसो यं तौग्रो नाधितः पर्यषस्वजत् । (*kaḥ svidvakṣo niṣṭhito madhyè arṇaso yaṃ taugro nādhitaḥ paryaṣasvajat |*)
+पर्णा मृगस्य पतरोरिवारभ उदश्विना ऊहथुः श्रोमताय कं ॥ (*parṇā mṛgasya patarorivārabha udaśvinā ūhathuḥ śromatāya kaṃ ‖*)
+
+(Ṛ. Saṃ. 1-182-5 to 7)
+
+O Aśvin deities! For Bhujyu, son of Tugra, you made this boat, endowed with life and with wings. For the son of Tugra who had fallen and was sinking in the unfathomable sea filled with darkness, you sent four boats. It is praised (by asking) from which tree you made the parts of the boat that was the support and protector of Bhujyu sinking in the sea, like the wings that are the support of flying birds in the sky. The same point is indicated in the present ṛk too. And this refuge and protection are described along with comparisons.
+
+पेरुः (*peruḥ*)—उपद्रवेभ्यः पारयिता । (*upadravebhyaḥ pārayitā |*) "One who carries across from calamities." As in places such as शं नो अपां (*śaṃ no apāṃ*) नपात्सेरुरस्तु (*napātserurastu*) (Ṛ. Saṃ. 7-35-13) it is an epithet of Agni and others, here it is an epithet of the chariot of the Aśvin deities.
+
+पज्रः (*pajraḥ*)—The word *pajra* is well known as the name of the family of Kakṣīvān; its details were given earlier. As the word पज्र (*pajra*) in the ṛk Ṛ. Saṃ. 8-63-12 was explained as वेगवान् बलवान् ना (*vegavān balavān nā*) *[so printed]*, the same meaning is given in the present ṛk. पाजसा बलेन तीर्ण (*pājasā balena tīrṇa*)स्सन् । (*ssan |*) "having crossed by its own strength, it stands": thus it shows the strength of the chariot *[printed "ಶಥದ ಶಕ್ತಿ", for "ರಥದ" presumably; kept as supplied]*.
+
+### Printed p. 20
+
+*Running head: 20 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158.*
+
+एवैः (*evaiḥ*)—कामैरयनैरवनैर्वा (*kāmairayanairavanairvā*) (Ni. 12-21): this word shows free, unobstructed movement and also indicates the power of going. Ordinarily this word is an epithet of the Maruts, who are always moving and are friends of Indra. In the present ṛk it is a synonym for the swift and powerful horses of the hero.
+
+अज्ज (*ajja*) *[so printed for ಅಜ್ಮ]*—This word is read among the names of battle (Ni. 3-9) and among the names of a house (Ni. 3-13). Besides the usages in these two senses,
+
+उचध्ये ३ वपुषि यः स्वराळुत वायो घृतस्नाः । (*ucadhye 3 vapuṣi yaḥ svarāḷuta vāyo ghṛtasnāḥ |*)
+अश्वेषितं रजेषितं शुनेषितं प्राज्ञ तदिवं नु तत् ॥ (*aśveṣitaṃ rajeṣitaṃ śuneṣitaṃ prājña tadivaṃ nu tat ‖*)
+
+(Ṛ. Saṃ. 3-46-28)
+
+in this (ṛk) the word अज्ज (*ajja*) *[so printed]* is explained as "food".
+
+अच्युता चिद्वो अज्मन्ना नानदति पर्वतासो वनस्पतिः। भूमिर्या मेषु रेजते। (*acyutā cidvo ajmannā nānadati parvatāso vanaspatiḥ| bhūmiryā meṣu rejate|*)
+
+(Ṛ. Saṃ. 8-20-5)
+
+Here अज्मनि गमने सति । (*ajmani gamane sati |*) is given, and it is explained as a usage in the sense of going.
+
+ये पातयंते अज्मभिर्गिरीणां स्नुभिरेषां । (*ye pātayaṃte ajmabhirgirīṇāṃ snubhireṣāṃ |*)
+यज्ञं महिष्वणीनां सुम्मं तुविष्टणीनां प्राध्वरे ॥ (*yajñaṃ mahiṣvaṇīnāṃ summaṃ tuviṣṭaṇīnāṃ prādhvare ‖*)
+
+(Ṛ. Saṃ. 8-46-18)
+
+In this place अज्मभिः बलैः बलकरैरुदकैः सह (*ajmabhiḥ balaiḥ balakarairudakaiḥ saha*) is explained as "strengths, together with strength-giving waters". Thus this word is used in various senses. In the present ṛk the meaning is "a house that gives comfort and protection".
+
+शूरः (*śūraḥ*)—शूरः शवतेर्गतिकर्मणः । (*śūraḥ śavatergatikarmaṇaḥ |*) Formed from the root शु (*śu*) meaning "to go", it gives the purport "one who has valour" (Ni. 4-13).
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada begins the grammatical analysis with पेरुः (*peruḥ*) (root पि (*pi*), suffix *ru* by मिपिभ्यां रुः (*mipibhyāṃ ruḥ*), Uṇ. Sū. 4-541) and अर्णसः (*arṇasaḥ*) (root ऋ (*ṛ*), suffix *asun* with the augment *nuṭ* by उदकेनुट् च (*udakenuṭ ca*), Uṇ. Sū. 4-639); the analysis continues on the next page.
+
 ---
 
-**Progress note:** Done through printed p. 17 (PDF 17). Sūkta 158 Ṛk 2 Special Topics end (purandhi, jigṛtam), grammar, Ṛk 3 Saṃhitā, Pada, bhāṣya start
+**Progress note:** Done through printed p. 20 (PDF 20). Sūkta 158 Ṛk 3 bhāṣya end, Pratipadārtha, Bhāvārtha, English, Special Topics (Taugrya/Bhujyu, pajra, ajma, śūra), grammar start
