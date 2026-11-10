@@ -4348,6 +4348,81 @@ have shown with रेक्षः इति धननाम; रिच्यत
 
 If, out of envy, an enemy gives trouble to the sacrificer who is performing the Aśvamedha, then, killing a dog with four eyes and cursing the enemy, he offers it as an oblation below the horse *[the supplied text ends here, in the middle of the sentence; the rest is in the next window]*
 
+### Printed p. 156
+
+*Running head: 156 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).* (Sūkta 162, Ṛk 2: the Special Topics continue; the first words complete the sentence about the four-eyed dog from the previous window.)
+
+...: thus even the enemy is destroyed by the stroke of the thunderbolt in the form of the horse. From these sentences, which have this purport, it is clear that this custom is a different one. In the present ṛk the word "aja" (goat) occurs. What is the nature of this goat?
+
+विश्वरूपः—बहुवर्णोपेतं । कृष्णग्रीवः । कृष्णललामो वा । (*viśvarūpaḥ—bahuvarṇopetaṃ | kṛṣṇagrīvaḥ | kṛṣṇalalāmo vā |*) having a black neck or a black forehead-mark. Why so?
+
+आग्नेयः कृष्णग्रीवः सारस्वती मेषी । (*āgneyaḥ kṛṣṇagrīvaḥ sārasvatī meṣī |*) (ತೈ. ಸಂ. 55-22) *[reference as printed, "೫೫-೨೨"; abbreviation as printed]*
+
+Since it is said that the colour dear to Agni is black, and that the black colour should be especially near the neck, this meaning is given here.
+
+Here, for the word पूषन् (*pūṣan*) the meaning पोषकः देवः अग्निः (*poṣakaḥ devaḥ agniḥ*) is given, that is, Agni, the nourisher, of divine nature. Moreover, at the time of the Aśvamedha,
+
+इंद्राग्नी वै सर्वे देवास्तदेवैनान्यथादेवतं प्रिणातीति । (*iṃdrāgnī vai sarve devāstadevainānyathādevataṃ priṇātīti |*) (ಪ. ಪ್ರಾ. 13-5-2-12) *[abbreviation "ಪ. ಪ್ರಾ." as printed]*
+
+Indra and Agni are joined with the Viśvedevas and their identity is stated.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses निर्णिजा (*nirṇijā*), प्रावृत्रस्य (*prāvṛtrasya*) *[so printed]* (Pā. Sū. 6-2-49), रातिम् (*rātim*) (Pā. Sū. 3-3-96), गृभीताम् (*gṛbhītām*) (Pā. Sū. 7-2-35 and 7-2-37), मुखतः (*mukhataḥ*), नयंति (*nayaṃti*) (Pā. Sū. 6-1-186) and, on p. 157, मेम्यत् (*memyat*) (Pā. Sū. 2-4-74, 6-1-189 and 7-1-78), विश्वरूपः (*viśvarūpaḥ*) (Pā. Sū. 6-2-106), इंद्रापूष्णोः (*iṃdrāpūṣṇoḥ*) (Pā. Sū. 6-2-141 and 6-2-142; the number of 6-3-26 is split over two lines and is printed "ಪಾ," with a comma), एति (*eti*) and पाथः (*pāthaḥ*) (ಉ. ಸೂ. 644, abbreviation as printed), with the accents; it ends with the mark ॥ ೨ ॥.
+
+### Printed p. 157
+
+*Running head: [ಅ ೨. ಅ. ೩ ವ. ೭.] Ṛgveda-saṃhitā 157 (as supplied).* (The grammar of Ṛk 2 continues and ends here.)
+
+#### Ṛk 3
+
+*[The label of the Saṃhitā is garbled in the supplied text ("। ಸಂಹಾಪಾದ ॥"), and the Saṃhitā stood as plain lines; the standard label is inserted, the garbled words kept in kn.md as an italic note, and the lines made a block.]*
+
+**॥ संहितापाठः ॥**
+
+> एष भागः पुरो अश्वेन वाजिना पूष्णो भागो नीयते
+> विश्वदेव्यः ।
+> अ॒भि॒प्रियं॒ यत्पु॑रो॒ळाश॒मर्व॑ता॒ त्वष्टेदे॑नं सौश्रव॒साय॑
+> जिन्वति ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> एषः । भागः । पुरः । अश्वेन । वाजिना । पूष्णः । भागः । नीयते । विश्वदेव्यः ।
+> अभिप्रियं । यत् । पुरोळाशं । अर्वता । त्वष्टा । इत् । एनं । सौश्रवसाय ।
+> जिन्वति ॥ ३ ॥
+
+> *eṣaḥ | bhāgaḥ | puraḥ | aśvena | vājinā | pūṣṇaḥ | bhāgaḥ | nīyate | viśvadevyaḥ |*
+> *abhipriyaṃ | yat | puroḷāśaṃ | arvatā | tvaṣṭā | it | enaṃ | sauśravasāya |*
+> *jinvati ‖ 3 ‖*
+
+### Printed p. 158
+
+*Running head: 158 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined. The Pada has पुरोळाशं (*puroḷāśaṃ*) where the bhāṣya has "ಪುರೋಡಾಶಂ"; kept as supplied.]*
+
+> एष भागः शृंगरहितोऽजोऽश्वेन वाजिना शीघ्रव्यापकेनाश्वेन सह पूष्णः
+> पोषकस्याग्नेर्भागो भजनीयो विश्वदेव्यः सर्वदेवार्हः । अग्नेः सर्वदेवात्मकत्वात् तदर्हत्वेन सर्वदेवप्रियत्वं । एवंविधोऽजः पुरः पुरस्तानीयते । प्राप्यते।
+> यद्यस्मादेवं क्रियते तस्मात्प्रियं प्रीणयितारं पुरोडाशं पुरस्ताद्घातव्यमेनमजं त्वष्टा सर्वस्कोत्पादको देवः । त्वष्टा रूपाणि विकरोतीति श्रुतेः । तूर्णव्यापकोऽग्निर्वा । उभे त्वष्टुर्बिभ्यतुरित्युक्तत्वात् अहोरात्रे इति वारणी इति वेति
+> यास्केनारणी बिभ्यतुरित्युक्तत्वात् । नि ८-१५ । अरणिसंबंधोऽग्नेरेवेति गम्यते
+> अर्वतारणवताश्वेन सह सौश्रवसाय देवानां शोभनान्ननिमित्तमभि जिन्वति । प्रीतिहेतुकं करोति ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): this hornless goat, Agni's share fit for all gods, is led before the swift horse; Tvaṣṭṛ (or Agni) makes it a pleasing offering.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+विश्वदेव्यः (*viśvadevyaḥ*)—fit to be offered to all the gods; पूष्णः भागः (*pūṣṇaḥ bhāgaḥ*)—assigned to Agni, the nourisher (that which belongs to him); एषः भागः (*eṣaḥ bhāgaḥ*)—this goat; वाजिना (*vājinā*)—swift; अश्वेन (*aśvena*)—with the horse; पुरः (*puraḥ*)—in front; नीयते (*nīyate*)—is led; यत् (*yat*)—therefore; प्रियं (*priyaṃ*)—giving pleasure; पुरोळाशं (*puroḷāśaṃ*)—to be offered first; एनं (*enaṃ*)—this goat; त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ or Agni; अर्वता (*arvatā*)—with the horse; सौश्रवसाय (*sauśravasāya*)—so that it becomes excellent food, and; अभि जिन्वति इत् (*abhi jinvati it*)—makes it be pleasing.
+
+**भावार्थ (Bhāvārtha)**
+
+This goat, fit to be offered to all the gods and belonging to the share of Agni, the nourisher, is led in front together with the swift horse. Therefore Tvaṣṭṛ, together with the horse, makes this goat, which gives pleasure and is to be offered first, be excellent food and pleasing.
+
+**Printed English translation**
+
+This goat, the portion of Pushan, fit for all the gods, is brought first with the fleet courser, so that Twashtri may prepare him along with the horse, as an acceptable preliminary offering for the (sacrifical) [sic] food.
+
 ---
 
-**Progress note:** Done through printed p. 155 (PDF 155). Sūkta 162 Ṛk 2 Saṃhitā to Special Topics (to mid-sentence)
+**Progress note:** Done through printed p. 158 (PDF 158). Sūkta 162 Ṛk 2 Special Topics end and grammar; Ṛk 3 Saṃhitā to English
