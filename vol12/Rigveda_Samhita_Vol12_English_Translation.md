@@ -10242,6 +10242,241 @@ Grammar (transcribed, not explained):
 
 *[The Sāyaṇa-bhāṣya is cut by the end of the window as supplied, at "ಏಕಾಶ್ರಯತ್ವ-", and continues in the next window.]*
 
+### Printed p. 412
+*Running head: 412 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+*[Continuing the Sāyaṇa-bhāṣya of Ṛk 20 from the previous window; the cut word "ekāśrayatva-" is completed by the first word below.]*
+> मभ्युपगंतव्यं तद्वत्सयुजा सखायेत्युभयत्राप्यकयोगख्याने आश्रयणीये ।
+> वृश्चत इति वृक्षो देहः । स चोभयोः समान एक एव । जीवस्य भोगार्थत्वात्
+> परमात्मना सृष्टैर्महाभूतैरारब्धात्तस्योपलब्बि स्थानत्वाच्चोभयोरपि समानः ।
+> तादृशं समानं वृक्षं परि षस्वजाते । परि ष्वजतः । आश्रयतः । न च जीवस्य वस्तुत
+> ईश्वरत्वे कथं जीवबुद्धा संसारशोकाविति वाच्यं तयोर्मोहकृतत्वात् । तथा
+> चाधर्वणिका अनुमंत्रमाम्मायास्य संदेहनिवर्तकमुत्तरं मंत्रमेवमामनंति ।
+> समाने वृक्षे पुरुषो निमग्दोनीशया शोचति मुह्यमानः । जष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः । मुं. उ. ३-१-२ । इति । अस्यायमर्थः ।
+> एक एव शरीरे पूर्णः पुरुष परमात्मा निमग्दो निगूढः सन् स्वयमपीश्वरोऽप्यनीशत्वबुद्धा मुह्यमानो मूढः सङ्छोचति । संसारेऽहं कर्ता सुखी
+> दुःखीति जननमरणे अनुभवति । यदा तु जुष्टं नित्यतृप्तमन्यं संसारशोकातीतमीशं परमेश्वरं पश्यति स्नानन्यतॆया साक्षात्करोति। तदा वीतशोको देहाद्व्यतिरिक्तः
+> स्वस्वरूपसाक्षात्कारेण गततापत्रयः सन्नस्य महिमानमिति । निरस्तसमस्तौपाधिकस्य
+> परमेश्वरस्य महिमानं सर्वात्मसर्वज्ञत्वादिमहिमानमिति । एति । प्राप्नोति । न च
+> तद्भावनाप्तौ तन्महिमा प्राप्यते । आतस्तद्रूपो भवतीत्यर्थः । तस्माद्वस्तुत एक एव ।
+> भेदस्तु मोहकृत इति प्रसिद्धं । अनुभवदशायां लौकिकबुद्ध्या भेदमभ्युपेत्योच्यते । तयोरन्यो जीवात्मा पिप्पलं कर्मफलं स्वादुभूतमत्ति । भुंक्ते । यस्य
+> यदुपार्जितं तत्तस्य स्वादु भवति । अन्यः परमात्मानश्च न्नाप्त कामत्वेनाभुंजानः
+> स्पृहाया अभावात् । आप्तकामस्य का स्पृहेति स्मृतेः । तस्मादवास्तवभेदमुपजीव्य
+> तयोरन्य इत्युक्तं । वस्तुतस्त्वनीशया शोचति मुह्यमान इत्युक्तत्पादभेद एव ।
+> तादृशः परमात्मा स्वात्मन्यध्यस्तं जगत्साक्षित्वेनेक्षते । अत्र द्वौ द्वौ प्रतिष्ठित् सुकृतौ
+> धर्मकर्तारावित्यादि निरुक्ते गतमस्य मंत्रस्य व्याख्यानमनुसंधेयं । नि १४-३० ॥
+
+> *mabhyupagaṃtavyaṃ tadvatsayujā sakhāyetyubhayatrāpyakayogakhyāne āśrayaṇīye |*
+> *vṛścata iti vṛkṣo dehaḥ | sa cobhayoḥ samāna eka eva | jīvasya bhogārthatvāt*
+> *paramātmanā sṛṣṭairmahābhūtairārabdhāttasyopalabbi sthānatvāccobhayorapi samānaḥ |*
+> *tādṛśaṃ samānaṃ vṛkṣaṃ pari ṣasvajāte | pari ṣvajataḥ | āśrayataḥ | na ca jīvasya vastuta*
+> *īśvaratve kathaṃ jīvabuddhā saṃsāraśokāviti vācyaṃ tayormohakṛtatvāt | tathā*
+> *cādharvaṇikā anumaṃtramāmmāyāsya saṃdehanivartakamuttaraṃ maṃtramevamāmanaṃti |*
+> *samāne vṛkṣe puruṣo nimagdonīśayā śocati muhyamānaḥ | jaṣṭaṃ yadā paśyatyanyamīśamasya mahimānamiti vītaśokaḥ | muṃ. u. 3-1-2 | iti | asyāyamarthaḥ |*
+> *eka eva śarīre pūrṇaḥ puruṣa paramātmā nimagdo nigūḍhaḥ san svayamapīśvaro 'pyanīśatvabuddhā muhyamāno mūḍhaḥ saṅchocati | saṃsāre 'haṃ kartā sukhī*
+> *duḥkhīti jananamaraṇe anubhavati | yadā tu juṣṭaṃ nityatṛptamanyaṃ saṃsāraśokātītamīśaṃ parameśvaraṃ paśyati snānanyatèyā sākṣātkaroti| tadā vītaśoko dehādvyatiriktaḥ*
+> *svasvarūpasākṣātkāreṇa gatatāpatrayaḥ sannasya mahimānamiti | nirastasamastaupādhikasya*
+> *parameśvarasya mahimānaṃ sarvātmasarvajñatvādimahimānamiti | eti | prāpnoti | na ca*
+> *tadbhāvanāptau tanmahimā prāpyate | ātastadrūpo bhavatītyarthaḥ | tasmādvastuta eka eva |*
+> *bhedastu mohakṛta iti prasiddhaṃ | anubhavadaśāyāṃ laukikabuddhyā bhedamabhyupetyocyate | tayoranyo jīvātmā pippalaṃ karmaphalaṃ svādubhūtamatti | bhuṃkte | yasya*
+> *yadupārjitaṃ tattasya svādu bhavati | anyaḥ paramātmānaśca nnāpta kāmatvenābhuṃjānaḥ*
+> *spṛhāyā abhāvāt | āptakāmasya kā spṛheti smṛteḥ | tasmādavāstavabhedamupajīvya*
+> *tayoranya ityuktaṃ | vastutastvanīśayā śocati muhyamāna ityuktatpādabheda eva |*
+> *tādṛśaḥ paramātmā svātmanyadhyastaṃ jagatsākṣitvenekṣate | atra dvau dvau pratiṣṭhit sukṛtau*
+> *dharmakartārāvityādi nirukte gatamasya maṃtrasya vyākhyānamanusaṃdheyaṃ | ni 14-30 ‖*
+
+*[as supplied: the label before the Pratipadārtha reads "೧ ಪ್ರತಿಪಾದನೆ ।" and was normalised by the script to Pratipadārtha.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+सयुजा (*sayujā*)—those that are joined together; सखाया (*sakhāyā*)—those that appear as one form; द्वा सुपर्णा (*dvā suparṇā*)—two birds of excellent flight; समानं वृक्षं (*samānaṃ vṛkṣaṃ*)—the one and the same tree; परि षस्वजाते (*pari ṣasvajāte*)—have embraced (taken refuge in); तयोः (*tayoḥ*)—of those two; अन्यः (*anyaḥ*)—one; स्वादु (*svādu*)—sweet; पिप्पलं (*pippalaṃ*)—the fruit called pippala; अत्ति (*atti*)—eats; अन्यः (*anyaḥ*)—the other; अनश्नन् (*anaśnan*)—not eating; अभि चाकशीति (*abhi cākaśīti*)—looks on.
+
+### Printed p. 413
+*Running head: ಆ. ೨. ಅ. ೩ ವ. ೧೭ ] ಮುಗ್ವೇದಸಂಹಿತಾ 413 (as supplied; the script inserted this page marker because the head was not recognised).*
+
+**भावार्थ (Bhāvārtha)**
+Two birds that are joined together, that appear as one form, and that are of excellent flight have taken refuge in one and the same tree. Of the two, one eats the sweet fruit. The other does not eat, but looks on.
+
+**Printed English**
+Two birds associated together, and mutual friends, take refuge in the same tree : one of them eats the sweet fig ; the other, abstaining from food. [sic] merely looks on
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Here, through the likeness of a pair of worldly birds, the individual self and the Supreme Self are praised. The meaning is: just as, in the world, two birds of excellent flight, appearing in one form, take refuge in one tree, so the individual self and the Supreme Self dwell in one body. But when it is said that of those two birds one eats a sweet fruit and the other merely sits looking on as a witness, the individual self is likened to the bird that enjoys the fruit, and the Supreme Self to the bird that sits as a mere witness without contact with the fruit.
+सुपर्णा (*suparṇā*)—सुपतना ; शोभनगमनौ (*supatanā ; śobhanagamanau*). Because they fly well, these are suparṇas (good-winged). It may be said that for the individual self there is going through saṃsāra (worldly passage), for the Lord pure going.
+सयुजा (*sayujā*)—समानयोगौ ; सहैव सर्वदा युक्तौ (*samānayogau ; sahaiva sarvadā yuktau*). Always joined together, united.
+सखाया (*sakhāyā*)—समानख्यान् (*samānakhyān*) (sic, as supplied). The meaning is: those that show themselves in one and the same way. Having explained thus, Sāyaṇa then states the special meaning of the word सयुजा (*sayujā*) once more:
+सयुजा-समानयोगौ । योगो नाम संबंधः । स च तादात्मलक्षणः, स एवात्मा जीवात्मनः स्वरूपं यस्य परमात्मनं स तदात्मा! (*sayujā-samānayogau | yogo nāma saṃbaṃdhaḥ | sa ca tādātmalakṣaṇaḥ, sa evātmā jīvātmanaḥ svarūpaṃ yasya paramātmanaṃ sa tadātmā!*) Yoga means relation. But there are many kinds of relation; here "equal yoga" means the relation of identity (tādātmya). The meaning is that the Supreme Self is of the very nature of the individual self and not different. By this qualifier the view of Bhāskara is refuted. How? According to that view there is difference between the individual self and the Supreme Self; that is an extreme doctrine, and such a doctrine of difference does not describe the true principle. Therefore, in order to refute it, the qualifier सयुजा (*sayujā*) is stated here.
+
+### Printed p. 414
+*Running head: 414 ಸಾಯುಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied; the script inserted this page marker because the head was not recognised).*
+
+Sāyaṇa points out that there is room here for yet another objection, and gives the following answer to it as well:
+ननु संबंधो द्विष्ठः स च पक्षिणोरिव भेदमपेक्षते अतः कथं ऐकात्म्यमिति। न । औपाधिकभेदं वास्तवाभेदं च अपेक्ष्य प्रवृत्तः । (*nanu saṃbaṃdho dviṣṭhaḥ sa ca pakṣiṇoriva bhedamapekṣate ataḥ kathaṃ aikātmyamiti| na | aupādhikabhedaṃ vāstavābhedaṃ ca apekṣya pravṛttaḥ |*)
+It is clear that a relation belongs to two different things. If an objection is raised that it must be a relation like that of two different birds, and that where there is one thing alone there is no room for the description "yoga" or "relation", that is wrong. For difference is of two kinds: one is difference through a limiting adjunct (aupādhika), the other is real difference (vāstava). What is here is only the difference through an adjunct; there is no real difference here.
+Or: ननु एकस्य यादृशं स्थानं तादृशमेव अन्यस्य इति व्युत्पत्ता भेदं स्पुटं प्रतिभाति कथं तादात्ममुच्यते इति न वक्तव्यं । (*nanu ekasya yādṛśaṃ sthānaṃ tādṛśameva anyasya iti vyutpattā bhedaṃ spuṭaṃ pratibhāti kathaṃ tādātmamucyate iti na vaktavyaṃ |*) When it is said that whatever place there is for one bird (the individual self), the same place there is for the other bird (the Supreme Self), does it not come to this, that this is one thing and that another? That too is not right. For here: नात्र परस्परं दृष्टांतदार्ष्टांतिकभावः । (*nātra parasparaṃ dṛṣṭāṃtadārṣṭāṃtikabhāvaḥ |*) Here no relation of illustration and thing illustrated, nor of the likened and that to which it is likened, has been stated between the two, one saying "like this, that". This intention is made clear by the qualifier सखायौ (*sakhāyau*) (sic, as supplied; the Ṛk has सखाया (*sakhāyā*)). यस्य यादृशं ज्ञानं परमात्मनः तदेव ज्ञानं इतरस्यापि जीवा त्मनः, तदेव ज्ञानमितरस्यापि जीवात्मनः इति सखायौ इत्युच्यते । (*yasya yādṛśaṃ jñānaṃ paramātmanaḥ tadeva jñānaṃ itarasyāpi jīvā tmanaḥ, tadeva jñānamitarasyāpi jīvātmanaḥ iti sakhāyau ityucyate |*) *[as supplied: the clause "tadeva jñānam itarasyāpi jīvātmanaḥ" is printed twice in this passage, the first time with a line-break inside "jīvā-tmanaḥ".]* The answer is given that the qualifier सखायौ (*sakhāyau*) is there to show that whatever light and appearance the Supreme Self has, the same light and appearance the individual self has also. Therefore the identity (aikātmya) is established here. By this, real difference also is refuted. Śaṅkarācārya, explaining this in his commentary on the Muṇḍaka Upaniṣad, says:
+सयुजा सयुज् सहैव सर्वदा युक्तौ, सखाया सखायौ समानख्यान् समानाभिव्यक्ति कारणावेवंभूत् संतः । (*sayujā sayuj sahaiva sarvadā yuktau, sakhāyā sakhāyau samānakhyān samānābhivyakti kāraṇāvevaṃbhūt saṃtaḥ |*)
+(P. U. Śaṃ. Bhā. 3-1-1) *[as supplied: the abbreviation reads "ಪ. ಉ. ಶಂ. ಭಾ"; kept as printed.]*
+The meaning is: having equal fame (khyāti); having one cause that makes them shine and appear.
+वृक्षो व्रश्चनात् । वृत्वा क्षां तिष्ठतीति वा । क्षा क्षियतेर्निवासकर्मणः । (*vṛkṣo vraścanāt | vṛtvā kṣāṃ tiṣṭhatīti vā | kṣā kṣiyaternivāsakarmaṇaḥ |*) It is derived from the root व्रश् (*vraś*), which gives the meaning "to be cut down"; or else the name is well known because it gives the sense of covering the earth, which is the place of dwelling, and standing on it. (Ni. 2-6.) Where it is said that in the Ṛk at hand both rest on one and the same tree,
+
+### Printed p. 415
+*Running head: ಅ. ೨. ಅ. ೩. ಪ. ೧೭ ]  ಪುಗ್ವೇದಸಂಹಿತಾ  415 (as supplied; the script inserted this page marker because the head was not recognised).*
+
+एकं वृक्षं वृक्षमिवोच्छेदनसामान्याच्छरीरं वृक्षं परिषस्वजाते परिष्वक्तवंतौ। (*ekaṃ vṛkṣaṃ vṛkṣamivocchedanasāmānyāccharīraṃ vṛkṣaṃ pariṣasvajāte pariṣvaktavaṃtau|*)
+(Mu. U. Śaṃ. Bhā. 3-1-1)
+"Equal" means: they have embraced the tree that is one, with no special mark, a support for knowing. Here, because of the likeness of being destroyed like a tree, the body is likened to a tree. This perishable tree is described in Śaṅkara's commentary as follows:
+अयं हि वृक्षः ऊर्ध्वमूलोऽवाक्याखोऽश्वत्थोऽव्यक्तमूलप्रभवः क्षेत्रसंज्ञकः सर्वप्राणिकर्मफलाश्रयः । (*ayaṃ hi vṛkṣaḥ ūrdhvamūlo 'vākyākho 'śvattho 'vyaktamūlaprabhavaḥ kṣetrasaṃjñakaḥ sarvaprāṇikarmaphalāśrayaḥ |*)
+(Mu. U. Śaṃ. Bhā. 3-1-1)
+This tree is the aśvattha (peepal) with roots above and branches below. Born of the root called the unmanifest, named the field (kṣetra), it is the support of the fruit of the actions of all beings. And this same tree:
+तं परिष्कृतवंतौ सुपर्णाविविनाद्याकामकर्मवासनाश्रयलिंगोपाध्यात्मेश्वरौ । तयोः परिष्कृतयोरन्य एकः क्षेत्रज्ञो लिंगोपाधिवृक्षमाश्रितः पिप्पलं कर्मनिष्पन्नं सुखदुःखलक्षणं फलं साद्वनेकविचित्रवेदनास्वादरूपं स्वाद्वत्ति भक्षयत्युपभुंक्तेविवेकतः ॥ (*taṃ pariṣkṛtavaṃtau suparṇāvivinādyākāmakarmavāsanāśrayaliṃgopādhyātmeśvarau | tayoḥ pariṣkṛtayoranya ekaḥ kṣetrajño liṃgopādhivṛkṣamāśritaḥ pippalaṃ karmaniṣpannaṃ sukhaduḥkhalakṣaṇaṃ phalaṃ sādvanekavicitravedanāsvādarūpaṃ svādvatti bhakṣayatyupabhuṃktevivekataḥ ‖*)
+(Mu. U. Śaṃ. Dhā. 3-1-1) *[as supplied: the abbreviation reads "ಶಂ. ಧಾ" here; kept as printed.]*
+The individual self and the Lord, who has the adjunct of the subtle body (liṅga-śarīra) that is the support of ignorance, desire and the impressions of action, have taken refuge like two birds. Of these two who have taken refuge, one, namely the knower of the field (kṣetrajña) with the subtle-body adjunct, resting on the tree, eats the pippala, the sweet fruit; that is, he enjoys the fruit, born of his own action, of the nature of pleasure and pain, the savour of many and various feelings.
+अनश्नन्नन्य इतर ईश्वरो नित्यशुद्धबुद्धमुक्तस्वभावः सर्वज्ञः सर्वसत्त्वोपाधिरीश्वरो नाश्नाति ॥ (*anaśnannanya itara īśvaro nityaśuddhabuddhamuktasvabhāvaḥ sarvajñaḥ sarvasattvopādhirīśvaro nāśnāti ‖*)
+(Mu. U. Śaṃ. Bhā. 3-1-1) *[as supplied: the reference is printed "ಮ:೦. ಉ ಶಂ. ಭಾ. ೩-೧-೧", garbled; kept as printed.]*
+The other does not eat; being the Lord, of ever pure, awakened and free nature, omniscient, the adjunct of all sattva, he does not eat. While this is so described, Sāyaṇa, anticipating yet another objection, has given an answer to it as well:
+न च जीवस्य वस्तुतः ईश्वरत्वे कथं जीवबुद्ध्या संसारशोक् इति वाच्यं तयोर्मोहकृतत्वात् ॥ (*na ca jīvasya vastutaḥ īśvaratve kathaṃ jīvabuddhyā saṃsāraśok iti vācyaṃ tayormohakṛtatvāt ‖*)
+
+### Printed p. 416
+*Running head: 416 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ.೧೬೪] (as supplied).*
+
+"If the individual self really is the Lord, how can there be the sorrow of saṃsāra through the notion of being an individual?" There is no room for this question, because saṃsāra and sorrow are caused by delusion. Having shown that this objection is easily removed, he supports his argument by quoting a sentence of the Muṇḍaka Upaniṣad:
+समाने वृक्षे पुरुषो निमग्नोऽनीशया शोचति मुह्यमानः । जुष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः ॥ (*samāne vṛkṣe puruṣo nimagno 'nīśayā śocati muhyamānaḥ | juṣṭaṃ yadā paśyatyanyamīśamasya mahimānamiti vītaśokaḥ ‖*)
+(Mu. U. 3-1-2)
+"On the same tree the person, sunk in it, grieves, deluded by helplessness" is the idea; this he explains with the words एक एव शरीरे पूर्णः पुरुषः (*eka eva śarīre pūrṇaḥ puruṣaḥ*) .... .... .... and so on (ellipsis as printed). Its meaning is as follows.
+On one tree, that is, in the body spoken of above, the person, that is the individual self who is the enjoyer, carrying the burden of ignorance, desire, action, hope of fruit and so on, sunk like a gourd-float in the water of the sea (*alābur iva sāmudre jale nimagnaḥ*—Śaṅkara's commentary), and possessed of the notion that he is the body, obtains experiences such as "I am the doer, I am happy, I am unhappy", in the forms of birth, death and the rest.
+यदा तु जुष्टं नित्यतृप्तमन्यं संसारशोकातीतं परमेश्वरं पश्यति (*yadā tu juṣṭaṃ nityatṛptamanyaṃ saṃsāraśokātītaṃ parameśvaraṃ paśyati*) .... .... ....
+तदा वीतशोको देहाद्यतिरिक्तः (*tadā vītaśoko dehādyatiriktaḥ*) . . .... .... .... अस्य परमेश्वरस्य महिमानं प्राप्नोति (*asya parameśvarasya mahimānaṃ prāpnoti*)।
+When he realises the Lord, who is beyond the sorrow of saṃsāra, then, free from sorrow and released from the fetters of the body and the rest, he obtains the very greatness of the Lord. The meaning is that as soon as that conception arises, he obtains the very form of the Lord.
+तस्माद्वस्तुतः एक एव । भेदस्तु मोहकृत इति सिद्धं । (*tasmādvastutaḥ eka eva | bhedastu mohakṛta iti siddhaṃ |*) Therefore the principle that is in truth one appears, because of the veil of delusion, as having difference; this is the established point.
+अनश्नन्नन्यो अभिचाकशीति (*anaśnannanyo abhicākaśīti*)—अन्यः परमात्मा तु आप्तकामत्वेन स्पृहाया अभ वात् अभुंजानः । (*anyaḥ paramātmā tu āptakāmatvena spṛhāyā abha vāt abhuṃjānaḥ |*) Because the Lord is of fulfilled desire, he does not eat but simply goes on looking. *[as supplied: "ಅಭ" and "ವಾತ್" are split by a line-break in the print.]*
+आप्तकामस्य का स्पृहा । (*āptakāmasya kā spṛhā |*)
+(Mā. U. Kā. 1-9) *[as supplied: the reference is printed "ಮಾ ಉ. ಕಾ. ೧-೯"; kept as printed.]*
+Thus the fulfilled-desire nature of the Lord is described; the same point is explained in the Ṛk at hand. The same Ṛk is explained in the Nirukta as follows—
+
+### Printed p. 417
+*Running head: ಅ ೨. ಅ. .೩ ವ. ೧೭.] ಋಗ್ವೇದಸಂಹಿತಾ 417 (as supplied).*
+
+द्वौ द्वौ प्रतिष्ठितौ सुकृतौ धर्मकर्तारौ दुष्कृतं पापं परिसरकमित्याचक्षते। सुपर्णा सयुजा सखायेत्यात्मानं दुरात्मानं परमात्मानं प्रत्युत्तिष्ठति शरीर एव तज्ञायते .... .... .... आत्मगतिमाचष्टे ॥ (*dvau dvau pratiṣṭhitau sukṛtau dharmakartārau duṣkṛtaṃ pāpaṃ parisarakamityācakṣate| suparṇā sayujā sakhāyetyātmānaṃ durātmānaṃ paramātmānaṃ pratyuttiṣṭhati śarīra eva tajñāyate .... .... .... ātmagatimācaṣṭe ‖*) *[ellipsis ".... .... ...." as printed.]*
+(Ni. 14-30)
+The meaning of this too is as explained above.
+
+*Grammar (transcribed, not explained):*
+सुपर्णा (*suparṇā*)—शोभनौ पर्णौ ययोस्तौ (*śobhanau parṇau yayostau*); नञ् सुभ्याम् (*nañ subhyām*) (Pā. Sū. 6-2-172) for the final-syllable udātta; सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) for the ā-substitute in the dual; the same ā-substitute in the next two words.
+सस्वजाते (*sasvajāte*) *[as supplied: so printed, without the prefix pari]*—root ष्वंज परिष्वंगे (*ṣvaṃja pariṣvaṃge*); Vedic liṭ, third person dual, ending ātām; टित आत्मनेपदानां (*ṭita ātmanepadānāṃ*) (Pā. Sū. 3-4-79) for e; the statement श्रंथिग्रंथिदंभिस्वंजीनां लिटः कित्वंवा (*śraṃthigraṃthidaṃbhisvaṃjīnāṃ liṭaḥ kitvaṃvā*) for kit-ness of the ending; अनिदितांहलउप (*aniditāṃhalaupa*) (as printed, joined) for loss of the penultimate nasal; सदेःपरस्य लटि (*sadeḥparasya laṭi*) (Pā. Sū. 8-3-118) with स्वंजेरुपसंख्यानम् (*svaṃjerupasaṃkhyānam*), hence no ṣatva of the sa after the reduplicative syllable; nighāta accent because it follows a finite verb.
+अत्ति (*atti*)—root अद भक्षणे (*ada bhakṣaṇe*), laṭ, third person singular; no nighāta because it stands at the beginning of a pāda; the root-accent remains because tip is pit.
+अनश्नन् (*anaśnan*)—root आश भोजने (*āśa bhojane*); śatṛ in place of laṭ; śnā-vikaraṇa; श्नाभ्यस्तयोरातः (*śnābhyastayorātaḥ*) (Pā. Sū. 6-4-112) for loss of its ā; in the nañ-tatpuruṣa compound तत्पुरुषे तुल्यार्थ (*tatpuruṣe tulyārtha*) (Pā. Sū. 6-2-2) gives the original accent of the first member. चाकशीति (*cākaśīti*)—root कश गतिशासनयोः (*kaśa gatiśāsanayoḥ*); laṭ after yaṅ-luk; दीर्घोकितः (*dīrghokitaḥ*) (Pā. Sū. 7-4-83) for lengthening of the reduplicative syllable; यजूवा (*yajūvā*) (Pā. Sū. 7-3-94) *[as supplied: reference printed "ಪಾ ಸೂ. ೭-೩-೯೪"]* for the īṭ augment of the ending; nighāta accent after a finite verb. ॥ 20 ॥
+*[as supplied: below the Ṛk end, a rule "----------:0:----------" and the signature marks "[27]" and "[ Vol. 12", which the script left as stray lines.]*
+
+### Printed p. 418
+*Running head: 418 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+#### Ṛk 21
+**॥ संहितापाठः ॥**
+> यत्रा॑ सुप॒र्णा अ॒मृत॑स्य भा॒गमनि॑मेषं वि॒दथा॑भि॒स्वरं॑ति ।
+> इ॒नो विश्व॑स्य॒ भुव॑नस्य गो॒पाः स मा॒ धीरः॒ पाक॒मत्रा॑
+> विवेश ॥ २१ ॥
+*[as supplied: the label "ಕನ್ನಡ" printed after the Saṃhitā block, normalised by the script to Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> यत्र । सुपर्णाः । अमृतस्य । भागं । अनिमेषं । विदथा । अभिस्वरंति ।
+> इनः । विश्वस्य । भुवनस्य । गोपाः । सः । मा । धीरः । पाकं । अत्र । आ । विवेश ॥ २१ ॥
+*[as supplied: the label "ಸಹಾಯಧರ್ಮ" printed after the Pada block, normalised by the script to Sāyaṇa-bhāṣya.]*
+**॥ सायणभाष्यम् ॥**
+> यत्रादित्यमंडले सुपर्णाः सुपतनाः शोभनगमना रश्मयोऽमृतस्योदकस्य
+> भागं भजनीयमंशमादायानिमेषमनवरतं विदथा वेदनेन ज्ञानेनास्माभिरेवं
+> कर्तव्यमिति बुद्ध्याभिस्वरंति अभिप्रावयंति । यश्च विश्वस्य भुवनस्य भूतजातस्येनः
+> स्वामी तथा तस्यै व गोपा गोपायिता रक्षिता। आयमादित्यः स परमेश्वरो धीरो
+> धीमान् प्राण्यनुग्रहबुद्धियुक्त सन् मा मां पाकं पक्तव्यमपक्वप्रज्ञमत्रास्मिन्स्वकीयमंडल आ विवेश । प्रवेशयति । अत्रास्मदीये देहे ना नियामकतया
+> प्रविष्ट इत्यधिदैवतपक्षे ॥ अढाध्यात्मपक्षे ॥ यत्र यस्मिन्नात्मनि सुपर्णाः शोभनपतनानि स्वस्वविषयग्रहणाय गमनकुशलानींद्रियाणि चक्षुरादीन्यमृतस्य भागं ।
+> अत्र विषयावच्चिन्नचैतन्यममृतमित्युच्यते । तस्य भागं भजनीयं स्वस्वांशमनिमेषं
+> निमेषरहितमनारतं विदथा वेदनेन वृत्त्यवच्छिन्नचैतन्यॆनावरुद्धान्यभिस्वरंति अभिप्रयंति आवरणापगमनेन स्फोरयंति । किंच यस्त्विनः स्वाम्यस्य देहस्य विश्वस्य
+> भुवनस्य गोपा गोपायिता रक्षिता । यद्वा । विश्वस्य भुवनस्य भूतजातस्य स्वाम्यस्य
+> देहस्य गोपाः । अनेन तत्त्वपदार्थयोरेकत्वं प्रतिपादितं भवति । स परमेश्वरो
+> धीरः समाधिनिष्ठः सर्वदाविक्रियो मा मां पाकं परिपक्वमनस्कं यागदानादिनापगतरजस्तमस्कत्वेन दर्पणवदतिनिर्मलसत्तोद्रिक्तमनस्कं मामा विवेश । उक्तरूपे
+> चित्ते तादृशं वस्तु स्पुरतीत्यर्थः । यद्वा । अपरिपक्वमना अहं पूर्वमज्ञानदशायां मदन्य ईश्वरोऽस्तीत्यविद्वान् ततः परमस्ति कश्चित्सर्वज्ञः सर्वेश्वरः सत्यज्ञानादिलक्षण इति निश्चित्य पश्चाद्गुरुशास्त्राभ्यां स एवाहमस्मीति मत्ता एवं पारंपर्ये-
+
+> *yatrādityamaṃḍale suparṇāḥ supatanāḥ śobhanagamanā raśmayo 'mṛtasyodakasya*
+> *bhāgaṃ bhajanīyamaṃśamādāyānimeṣamanavarataṃ vidathā vedanena jñānenāsmābhirevaṃ*
+> *kartavyamiti buddhyābhisvaraṃti abhiprāvayaṃti | yaśca viśvasya bhuvanasya bhūtajātasyenaḥ*
+> *svāmī tathā tasyai va gopā gopāyitā rakṣitā| āyamādityaḥ sa parameśvaro dhīro*
+> *dhīmān prāṇyanugrahabuddhiyukta san mā māṃ pākaṃ paktavyamapakvaprajñamatrāsminsvakīyamaṃḍala ā viveśa | praveśayati | atrāsmadīye dehe nā niyāmakatayā*
+> *praviṣṭa ityadhidaivatapakṣe ‖ aḍhādhyātmapakṣe ‖ yatra yasminnātmani suparṇāḥ śobhanapatanāni svasvaviṣayagrahaṇāya gamanakuśalānīṃdriyāṇi cakṣurādīnyamṛtasya bhāgaṃ |*
+> *atra viṣayāvaccinnacaitanyamamṛtamityucyate | tasya bhāgaṃ bhajanīyaṃ svasvāṃśamanimeṣaṃ*
+> *nimeṣarahitamanārataṃ vidathā vedanena vṛttyavacchinnacaitanyènāvaruddhānyabhisvaraṃti abhiprayaṃti āvaraṇāpagamanena sphorayaṃti | kiṃca yastvinaḥ svāmyasya dehasya viśvasya*
+> *bhuvanasya gopā gopāyitā rakṣitā | yadvā | viśvasya bhuvanasya bhūtajātasya svāmyasya*
+> *dehasya gopāḥ | anena tattvapadārthayorekatvaṃ pratipāditaṃ bhavati | sa parameśvaro*
+> *dhīraḥ samādhiniṣṭhaḥ sarvadāvikriyo mā māṃ pākaṃ paripakvamanaskaṃ yāgadānādināpagatarajastamaskatvena darpaṇavadatinirmalasattodriktamanaskaṃ māmā viveśa | uktarūpe*
+> *citte tādṛśaṃ vastu spuratītyarthaḥ | yadvā | aparipakvamanā ahaṃ pūrvamajñānadaśāyāṃ madanya īśvaro 'stītyavidvān tataḥ paramasti kaścitsarvajñaḥ sarveśvaraḥ satyajñānādilakṣaṇa iti niścitya paścādguruśāstrābhyāṃ sa evāhamasmīti mattā evaṃ pāraṃparye-*
+
+### Printed p. 419
+*Running head: ಅ. ೨. ಚ. ೩. ವ. ೧೬.] ಋಗ್ವೇದಸಂಹಿತಾ 419 (as supplied).*
+
+*[Continuing the Sāyaṇa-bhāṣya of Ṛk 21.]*
+> णावगत्यासंभावनाविपरीतभावने व्युदस्य भावनया साक्षात्कृत्य परिपूर्णः परमात्माभूवमित्यर्थः । अयमेव स मा धीरः पाकमत्रा विवेशेत्यनेनोच्यते । नन्ननवच्छिन्नस्य परमात्मनः सर्वत्रव्याप्तत्वात्पाप्तिरेव नोपपद्यते संप्रत्यत्र प्राप्तिर्द्विविधा
+> प्राप्तप्राप्तिरप्राप्तप्राप्तिश्चेति । प्राप्तस्यापि कंठे चामीकरन्यायेनावरणाज्ञानहानद्वारेण प्राप्तिरुपपद्यते । अस्यमंत्रस्य यन्नि रुक्तं यत्र सुपर्णाः सुपतना आदित्यरश्मय इत्यादिकं तदत्र द्रष्टव्यं । नि. ३-१२ ॥
+*Gist:* In the sun's orb the rays draw water and the Lord of all protects; read as the Supreme Self, he enters the immature seeker and dissolves his ignorance (two readings).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+यत्र (*yatra*)—in which orb of the sun; सुपर्णाः (*suparṇāḥ*)—rays of excellent spread; विदथा (*vidathā*)—by their knowledge of their duty; अमृतस्य (*amṛtasya*)—of the water; अंशं (*aṃśaṃ*) *[as supplied: the Ṛk has भागं (*bhāgaṃ*)]*—the portion; अनिमेषं (*animeṣaṃ*)—always; अभिस्वरंति (*abhisvaraṃti*)—make to flow; (and) (यः (*yaḥ*)—who); विश्वस्य (*viśvasya*)—of all; भुवनस्य (*bhuvanasya*)—of the world; इनः (*inaḥ*)—lord (and likewise); गोपाः (*gopāḥ*)—protector; सः (*saḥ*)—that Supreme Lord in the form of the sun; धीरः (*dhīraḥ*)—having a mind of grace; मानन्नन्नु (*mānannannu*) *[as supplied: so printed, for "mām" and "me"]*—me; पाकं (*pākaṃ*)—though endowed with an immature intellect; अत्र (*atra*)—in this his orb; आ विवेश (*ā viveśa*)—causes to enter.
+
+**भावार्थ (Bhāvārtha)**
+In which orb of the sun the rays of excellent spread, by their knowledge of their duty, always cause a portion of water to flow, and who is lord and protector of the whole world, that Supreme Lord in the form of the sun, having a mind of grace, causes even me, though I am of immature knowledge, to enter into this his orb.
+
+**Printed English**
+Where the smooth-gliding (rays), cognizant (of their duty), distil the prepetual [sic] portion of ambrosial (water); there has the lord ,and [sic] steadfast protector of all beings consigned me, (though) immature (in wisdom).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The Nirukta's explanation of this Ṛk is twofold. First:
+यत्र सुपर्णाः सुपतना आदित्यरश्मयः अमृतस्य भागं उदकस्य अनिमिषंतो वेदनेनाभिस्वरंतीति वाभिप्रयंतीति वा । ईश्वरः सर्वेषां भूतानां गोपायितादित्यः । ' स मा धीरः पाकमत्राविवेश ' । धीरो धीमान् (*yatra suparṇāḥ supatanā ādityaraśmayaḥ amṛtasya bhāgaṃ udakasya animiṣaṃto vedanenābhisvaraṃtīti vābhiprayaṃtīti vā | īśvaraḥ sarveṣāṃ bhūtānāṃ gopāyitādityaḥ | ' sa mā dhīraḥ pākamatrāviveśa ' | dhīro dhīmān*)
+
+### Printed p. 420
+*Running head: 420 ಸಾಯಣಭಾವ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied; "bhāvya" for "bhāṣya"; the script inserted this page marker because the head was not recognised).*
+
+पाकः पक्तव्यो भवति “ विपक्षप्रज्ञ आदित्यः ” इत्युपनिषद्वर्णो भवतीत्यधिदैवतं । (*pākaḥ paktavyo bhavati “ vipakṣaprajña ādityaḥ ” ityupaniṣadvarṇo bhavatītyadhidaivataṃ |*)
+*[stray line as supplied: ( ൨. ൨-൧ )]*
+The sun's rays of very attractive flight, with full knowledge, spreading toward the water, perform their duties in that sun, who is the protector of the entire world and of fully ripened understanding; that sun has approached me, of unripe knowledge, with a mind of grace. This is the explanation relating to the divinity (adhidaivata).
+The second reading:
+अथाध्यात्मं । यत्र सुपर्णाः सुपतनानींद्रियाण्यमृतस्य भागं ज्ञानस्यानिवि:- षंतो वेदनेनाभिस्वरंतीति वाभिप्रयंतीति वा । ईश्वरः सर्वेषामिंद्रियाणां गोपायितात्मा स मा धीरः पाकमत्राविवेशेति धीरो धीमान् पाकः पक्तव्यो भवति विपक्वप्रज्ञ आत्मेत्यात्मगतिमाचष्टे ॥ (*athādhyātmaṃ | yatra suparṇāḥ supatanānīṃdriyāṇyamṛtasya bhāgaṃ jñānasyānivi:- ṣaṃto vedanenābhisvaraṃtīti vābhiprayaṃtīti vā | īśvaraḥ sarveṣāmiṃdriyāṇāṃ gopāyitātmā sa mā dhīraḥ pākamatrāviveśeti dhīro dhīmān pākaḥ paktavyo bhavati vipakvaprajña ātmetyātmagatimācaṣṭe ‖*) *[as supplied: the line-end hyphen in "anivi-ṣanto" is printed ":-".]*
+(Ni. 3-12)
+The spiritual (ādhyātma) explanation is as follows. In which body the senses, that spread easily (towards the objects that attract them), knowing their own nature, move toward knowledge, the means of immortality, in that body the self (the Supreme Self), lord of all the senses and of full understanding, has approached me, of unripe knowledge, with a mind of grace. Having explained it in these two ways, he then gives incidentally the etymology of the words suparṇa and dhīra.
+धीरो धीमान् । (*dhīro dhīmān |*) The meaning is: one who has understanding. This word is read among the names of the intelligent. (Ni. 3-9.) In present usage the word dhīra comes to mean "courageous". In the Vedas and the Upaniṣads too this word is used in the sense of "wise, discriminating"; there too, since the dhīra is wise, and has such qualities as conquering fear and being fearless and of tranquil mind even in time of calamity, the sense of "courageous" is also implied.
+युवा सुवासाः परिवीत आगात्स उ श्रेयान्भवति जायमानः । तं धीरासः कवयः उन्नयंति स्वाध्यो३ मनसा देवयंतः । (*yuvā suvāsāḥ parivīta āgātsa u śreyānbhavati jāyamānaḥ | taṃ dhīrāsaḥ kavayaḥ unnayaṃti svādhyo3 manasā devayaṃtaḥ |*)
+(Ṛ. Saṃ. 3-8-4)
+in such Ṛks, and
+श्रेयश्च प्रेयश्च मनुष्यमेतस्त् संसरीत्य विविनक्ति धीरः । श्रेयो हि धीरोऽभिप्रेयसो वृणीते प्रियो मंदो योगक्षेमाद्वणीते ॥ (*śreyaśca preyaśca manuṣyametast saṃsarītya vivinakti dhīraḥ | śreyo hi dhīro 'bhipreyaso vṛṇīte priyo maṃdo yogakṣemādvaṇīte ‖*)
+(Kaṭha. 2-2)
+
+### Printed p. 421
+*Running head: ಅ. ೨. ಅ. ೪ ವ ೧೭.] ಋಗ್ವೇದಸಂಹಿತಾ 421 (as supplied; the script had marked this page "422" and the true head of p. 422 is below, so the marker was repaired by hand).*
+
+in such Upaniṣad sentences also the word dhīra has the meaning "wise, understanding".
+सुपर्णाः (*suparṇāḥ*)—the word suparṇa, though read among the names of rays (Ni. 2-15) and among the names of horses (Ni. 2-27), is used also in the senses of bird, arrow and so on. Whatever meaning is given, it conveys the idea of "good flight", that is, "that which moves charmingly". For example,
+वि सुपर्णो अंतरिक्षाण्यख्यद्दभीरवेपा असुरः सुनीथः । क्वेषिदानीं सूर्यः कश्चिकेत कतमां द्यां रश्मिरस्या ततान ॥ (*vi suparṇo aṃtarikṣāṇyakhyaddabhīravepā asuraḥ sunīthaḥ | kveṣidānīṃ sūryaḥ kaściketa katamāṃ dyāṃ raśmirasyā tatāna ‖*)
+(Ṛ. Saṃ. 1-35-7)
+in this Ṛk there is a description of the ray, of deep tremor, pervading the whole atmosphere and attracting the mind. The word suparṇa here refers to the ray. The words शोभनपतना रश्मयः (*śobhanapatanā raśmayaḥ*) show a special quality of the ray. Likewise,
+इंद्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद्विप्रा बहुधा वदंत्यग्निं यमं मातरिश्वानमाहुः ॥ (*iṃdraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān | ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ ‖*)
+(Ṛ. Saṃ. 1-164-46)
+in the 46th Ṛk of this same sūkta, सुपतनः गरुत्मान् (*supatanaḥ garutmān*) refers to a bird, Garuḍa, whose flight through the sky is attractive. And in the Ṛk explained before (164-20) too, the special quality of the worldly bird is said to be described. Likewise,
+उक्षा समुद्रो अरुषः सुपर्णः पूर्वस्य योनिं पितुरा विवेश । मध्ये दिवो निहितः पृश्नरश्मा वि चक्रमे रजसस्पात्यंतौ ॥ (*ukṣā samudro aruṣaḥ suparṇaḥ pūrvasya yoniṃ piturā viveśa | madhye divo nihitaḥ pṛśnaraśmā vi cakrame rajasaspātyaṃtau ‖*)
+(Ṛ. Saṃ. 5-47-3)
+here it is explained as the sea (the atmosphere) of good motion, and in
+सुपर्णं वस्ते मृगो अस्या दंतो गोभिः संनद्धा पतति प्रसूता । (*suparṇaṃ vaste mṛgo asyā daṃto gobhiḥ saṃnaddhā patati prasūtā |*)
+(Ṛ. Saṃ. 6-75-11)
+the Ṛk quoted in the Nirukta (Ni. 9-19), it is explained as an arrow of good flight. In the Ṛk at hand, on the side relating to the divinity it is explained as rays of good flight, and on the spiritual side as senses of good flight. When it is said सुपर्णा अभिस्वरंति (*suparṇā abhisvaraṃti*), what ideas are suggested on the side relating to the divinity and on the spiritual side must be examined.
+
+### Printed p. 422
+*Running head: 422 ಸಾಯುಧಭಾಷ್ಯಸಹಿತಾ । ಮಂ. ೧ ಆ. ೨೨. ಸೂ. ೧೬೦ (as supplied; "sūkta 160" is printed although the sūkta is 164; the script had not marked this page and it was inserted by hand).*
+
+For the word अभिस्वरंति (*abhisvaraṃti*) the author of the Nirukta gives the meaning अभिप्रयंति (*abhiprayaṃti*). Durgācārya, explaining this, says (स्वशब्दोपतापयोः (*svaśabdopatāpayoḥ*)) that it is formed from the root स्वृ (*svṛ*) in the sense of heating, and the meaning is that they make all beings glow with heat; that is, by drawing the juice in the earth they make the earth glow with heat. This does not appear very agreeable. Therefore he shows another derivation of it too:
+अथ अभिमुख्यन रसान् गृहीत्वा आदित्यमंडलं प्रयांति । (*atha abhimukhyana rasān gṛhītvā ādityamaṃḍalaṃ prayāṃti |*) The second meaning is stated: having drawn up the juice, they go toward the orb of the sun. In both of these meanings the drawing of juice is the main point; but in the first explanation it applies to heating the earth. Here, however, since the rays' readiness to protect the world is described, it is proper to say that, for the sake of performing that duty and by knowledge of the duty (विदथा (*vidathā*)), they take that juice to the sun and gather it there so as to favour the fall of rain. In the Ṛk-saṃhitā this word is used in two meanings. First,
+रथानां न ये १ राः सनाभयो जिगीवांसो न शूरा अभिद्यवः । वरेयवो न मर्या धृतपुषोऽभिस्वर्तारो अर्कं न सुष्टुभः ॥ (*rathānāṃ na ye 1 rāḥ sanābhayo jigīvāṃso na śūrā abhidyavaḥ | vareyavo na maryā dhṛtapuṣo 'bhisvartāro arkaṃ na suṣṭubhaḥ ‖*) *[as supplied: "ಯೇ ೧ ರಾಃ" is printed with a numeral 1 inside the word.]*
+(Ṛ. Saṃ. 10-78-4)
+in this Ṛk the explanation अभिस्वर्तार अभितः शब्दयितारः । (*abhisvartāra abhitaḥ śabdayitāraḥ |*) is given, "those who recite words of praise"; so the word अभिस्वर (*abhisvara*) means praise-speech. Likewise,
+नेमिं नमंति चक्षसा मेषं विप्रा अभिस्वरा । सुदीतयो वो अम्रहोऽपि कर्णॆ तरस्विनः समृक्वभिः ॥ (*nemiṃ namaṃti cakṣasā meṣaṃ viprā abhisvarā | sudītayo vo amraho 'pi karṇè tarasvinaḥ samṛkvabhiḥ ‖*)
+(Ṛ. Saṃ. 8-97-12)
+here too अभिस्वरा अभिस्वरणेन स्तोत्रेण । (*abhisvarā abhisvaraṇena stotreṇa |*) means "by a hymn of praise". Besides this it is used also in the sense of following one another.
+एकपादभूयो द्विपदो वि चक्रमे द्विपात्रिपादमभ्येति पश्चात् । चतुष्पादेति द्विपदामभिस्वरे संपश्यन् पंक्तिरुपतिष्ठमानः ॥ (*ekapādabhūyo dvipado vi cakrame dvipātripādamabhyeti paścāt | catuṣpādeti dvipadāmabhisvare saṃpaśyan paṃktirupatiṣṭhamānaḥ ‖*)
+(Ṛ. Saṃ. 18-17-8) *[as supplied: the reference is printed "೧೮-೧೭-೮"; kept as printed.]*
+in this Ṛk, to explain that the superior and the inferior stand in mutual dependence and mutual following, it is described as अभिस्वरे संपश्यन् (*abhisvare saṃpaśyan*). Here the word अभिस्वर (*abhisvara*) means going toward: it means "go to meet" or "go following". In the Ṛk at hand it can apply in both these meanings. How? *[The Special Topics are cut by the end of the window as supplied, at "ಹೇಗೆಂದರೆ,", and continue in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 411. Vol 12 pp. 405-411: end of Rk 18 special topics, Rk 19 complete, Rk 20 begun
+**Progress note:** Done through printed p. 422. Ṛk 20 end (Sāyaṇa, Anuvāda, Special Topics, grammar) and Ṛk 21 up to Special Topics on abhisvaranti
