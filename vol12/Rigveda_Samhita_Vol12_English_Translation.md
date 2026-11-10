@@ -4682,6 +4682,73 @@ Then King Soma made the gods drink. Then they said, "A venomous serpent is looki
 
 अध्वर्युः— अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति वा । (*adhvaryuḥ— adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti vā |*) Because he carries out the sacrifice, or is the leader of the sacrifice, or serves the sacrifice with devotion, the name "adhvaryu" is well known (Ni., the number printed "೧. ೮"). Measuring the sacrificial ground, constructing the altar, preparing the sacrificial vessels, making the fire blaze and the other works favourable to these are what the adhvaryu does *[printed "ಅಧ್ಯಯ್ಯ"]*. While doing these works he must recite the respective mantras.
 
+### Printed p. 169
+
+*Running head: [ಅ. ೨. ಅ. ೩ ನ ೭.] Ṛgveda-saṃhitā 169 (as supplied; "ನ" printed for "ವ").* (Sūkta 162, Ṛk 5: the Special Topics continue.)
+
+आवयाः - अभिमुख्येन हविषां गमयिता अध्वर्योर्विशेषणमेतत् । (*āvayāḥ - abhimukhyena haviṣāṃ gamayitā adhvaryorviśeṣaṇametat |*) He who offers the oblations facing the fire: in one way it is explained as an epithet of the adhvaryu (printed "ಅಧ್ವರುವಿಗೆ"); or, अथवा अभिमुख्येन अवयष्टा । प्रतिप्रस्थाता उच्यते । (*athavā abhimukhyena avayaṣṭā | pratiprasthātā ucyate |*) it is explained in another way that, among the helpers of the adhvaryu, प्रतिप्रस्थातृ, नेष्टृ, उन्नतृ (*pratiprasthātṛ, neṣṭṛ, unnatṛ*), the first, the pratiprasthātṛ, can also be meant. This mantra is also in the Taittirīya Saṃhitā (the number is printed "೪. ೬. ೮"). Explaining it, Keith says about this word as follows:
+
+"The origin of आवयाः (*āvayāḥ*) is uncertain. The tradition here of the पद (*pada*) derives it from अवयाः (*avayāḥ*) *[the hyphenated line break "ಅ-ವಯಾಃ" is joined]* but यज् (*yaj*) or या (*yā*) have also been in the last part, what priest of the later ritual is meant is uncertain." *[Taittiriya Sampita [sic] I Vol. H [sic], O. S. P. 378: the source line is printed so, without the closing bracket; the English sentence is kept as supplied, with the Sanskrit words in Kannada letters as printed.]*
+
+As explained by Sāyaṇa in his second alternative, it must be the pratiprasthātṛ.
+
+अग्निमिंधः (*agnimiṃdhaḥ*)—since the one who makes the fire blaze is the adhvaryu, this too must be an epithet of the adhvaryu.
+
+शंस्ता (*śaṃstā*)—"śaṃstā" means the priest called praśāstṛ *[printed "ಪ್ರಶಾಸ್ತ"]*.
+
+सुविप्रः— विप्र इति मेधाविनाम । शोभनमेधोपेतो ब्रह्मोच्यते । (*suvipraḥ— vipra iti medhāvināma | śobhanamedhopeto brahmocyate |*) Sāyaṇa explains that it is a synonym of the priest called Brahman, who has an excellent intellect, and, quoting the ṛk
+
+ऋचां त्वः पोषमास्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु । (*ṛcāṃ tvaḥ poṣamāste pupuṣvān gāyatraṃ tvo gāyati śakvarīṣu |*)
+ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां वि मिमीत उ त्वः ॥ (*brahmā tvo vadati jātavidyāṃ yajñasya mātrāṃ vi mimīta u tvaḥ ‖*) (ಋ. ಸಂ. 10. 71-11) *[reference as printed, "೧೦. ೭೧-೧೧"]*
+
+he has explained, with ब्रह्मैको जाते जाते विद्यां वदति ब्रह्मा सर्वविद्यः सर्वं (*brahmaiko jāte jāte vidyāṃ vadati brahmā sarvavidyaḥ sarvaṃ*) वेदितुमर्हति । (*veditumarhati |*): Brahman expounds all the śāstras; he is omniscient, supreme in knowledge, and so on; on the basis of this Nirukta sentence (the number is printed "೧. ೮"), Sāyaṇa has explained "suvipraḥ" as Brahman.
+
+वक्षणा (*vakṣaṇā*)—this word is read among the names of rivers (the number is printed "೨. ೨೪"); here it means the flow of ghee and the like, flowing like a river; that is, the meaning is: carry the sacrifice out completely and obtain its full fruit.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses अध्वर्युः (*adhvaryuḥ*) (Pā. Sū. 7-4-29; the number of 3-1-8 is split over two lines; and, on p. 170, Pā. Sū. 3-2-170), आवयाः (*āvayāḥ*) (Pā. Sū. 3-2-72; "ಉ ಸೂ. ೪-೬೬೬" as printed), अग्निमिंधः (*agnimiṃdhaḥ*) (the Pā. Sū. number is printed "೬-೩-೭೦-೬"), ग्रावग्राभः (*grāvagrābhaḥ*) (Pā. Sū. 7-2-116), शंस्ता (*śaṃstā*), स्वरंकृतेन (*svaraṃkṛtena*) (Pā. Sū. 6-2-49; the first number is printed "೧-೨೯"), वक्षणाः (*vakṣaṇāḥ*) (Pā. Sū. 3-2-151 and 7-1-1) and पृणध्वम् (*pṛṇadhvam*), with the accents; it ends with the mark ॥ ೫ ॥.
+
+### Printed p. 170
+
+*Running head: 170 Sāyaṇa-bhāṣya-sahitā [.ಮಂ. ೧. ಅ. ೨೨. ಸೂ ೬೨] (as supplied: "ಸೂ ೬೨" for "೧೬೨" and a stray stop after the bracket).* (The grammar of Ṛk 5 continues and ends on this page.)
+
+### Printed p. 171
+
+*Running head: [ಅ. ೨ ಅ. ೩. ವ. ೮ ] Ṛgveda-saṃhitā 171 (as supplied).*
+
+#### Ṛk 6
+
+*[A picture (vol12/html/figures/fig1_line07513.jpg) stood at this place in the supplied text. I looked at it: it shows the label "ಸಂಹಿತಾಪಾಠಃ", the Saṃhitā, the label "ಪದಪಾಠಃ", the Pada and the beginning of the label of the bhāṣya; read letter by letter, it agrees with the machine-read text below, so kn.md only has an italic note in place of the figure line. The small hook marks in the Pada ("ಯೂಪ·ವ್ರಸ್ಕಾಃ" and others) are the division sign and are not transcribed. The hyphenated line breaks in the Saṃhitā and bhāṣya blocks are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> यू॒प॒व्र॒स्का उ॒त ये यू॑पवा॒हाश्च॒षालं॒ ये अ॑श्वयू॒पाय॒ तक्ष॑ति ।
+> ये चार्व॑ते॒ पच॑नं सं॒भरं॑त्यु॒तो तेषा॑म॒भिगू॑र्तिर्न
+> इन्वतु ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> यूपव्रस्काः । उत । ये । यूपवाहाः । चषालं । ये । अश्वयूपाय ।
+> तक्षति ।
+> ये । च । अर्वते । पचनं । संभरंति । उतो इति । तेषां । अभिगूर्तिः ।
+> नः । इन्वतु ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यूपप्रस्का यूपार्हवृक्षस्य व्रश्चनकर्तारश्वेत्तारः । उत ये च यूपवाहाश्चिन्नस्य वोढारः । ये च चषालं । यूपस्योपरिस्थाप्यं यूपाग्रभागं चषालमाहुः । तद्येऽश्व यूपाय बंधनयूपाय तक्षति ॥ तक्षतीति वचनव्यत्ययः ॥ साधु
+> संपादयंति । ये चार्वतेऽरणवतेऽश्वाय पचनं पाकसाधनं काष्ठभांडादिकं
+> संभरंति । उतो अपि च नोऽस्मत्संबंधिनां तेषामृत्तिजामभिगूर्तिः संकल्पः
+> सर्वथा करणीयमिति बुद्धिरिन्वतु । व्याप्पोतु ॥ इन्वतिव्याप्तिवचनः इन्वति ननक्षेति
+> तद्वचनेषु पाठात् ॥ यद्वा । तेषामभिगूर्तिर्नोऽस्मानिन्वतु । यागं साधुपारं
+> प्रापय्य फलेन योजयत्वित्यर्थः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): woodcutters, carriers, makers of the post's ring and gatherers of the horse's cooking-vessels: may their resolve reach and bless us.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ये (*ye*)—who; यूपव्रस्काः (*yūpavraskāḥ*)—cut the tree suitable for the sacrificial post; उत (*uta*)—and; (ये (*ye*)—who) यूपवाहाः (*yūpavāhāḥ*)—carry the (cut) tree for the post; ये (*ye*)—who; अश्वयूपाय (*aśvayūpāya*)—for the post to which the horse is tied; चषालं (*caṣālaṃ*)—the ring *[printed "ಕೊಂಡಿ", a hook or ring]* to be attached to the upper part of the post; तक्षति (*takṣati*)—make (procure); ये (*ye*)—who; आर्वते (*ārvate*)—for the sacrificial horse... *[the supplied text ends here, after "ಯಜ್ಞಾಶ್ವ"; the rest of the Pratipadārtha is in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 168 (PDF 168). Sūkta 162 Ṛk 5 Pratipadārtha to Special Topics (hotṛ, grāvastut, adhvaryu)
+**Progress note:** Done through printed p. 171 (PDF 171). Sūkta 162 Ṛk 5 Special Topics end and grammar; Ṛk 6 Saṃhitā (picture) to Pratipadārtha start
