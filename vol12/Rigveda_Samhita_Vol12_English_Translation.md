@@ -4812,6 +4812,71 @@ in this ṛk, since the cooking of the flesh of the horse (the sacrificial anima
 
 तेषां अभिगूर्तिःनः इन्वतु (*teṣāṃ abhigūrtiḥnaḥ invatu*)—for this sentence Sāyaṇa has explained, नोऽस्मत्संबंधिना तेषामृत्विजामभिगूर्तिः संकल्पः सर्वथा करणीयमिति बुद्धिरिन्वतु व्याप्नोतु । यागं साधुपारं प्रापय्य फलेन योजयत्वित्यर्थः (*no 'smatsaṃbaṃdhinā teṣāmṛtvijāmabhigūrtiḥ saṃkalpaḥ sarvathā karaṇīyamiti buddhirinvatu vyāpnotu | yāgaṃ sādhupāraṃ prāpayya phalena yojayatvityarthaḥ*) *[the hyphenated line breaks "ತೇಷಾಮೃ-ತ್ವಿಜಾ" and "ಸಾಧು-ಪಾರಂ" are joined]*—that is, in the matters mentioned above, namely felling the tree for the post, carrying it, carving and fixing it and attaching the ring at the top, and making the vessels for preparing the horse's food, and in the other rites, the explanation is given in such a way that our priests may be favoured as they wish, so that their purpose is accomplished and the fruit of the sacrifice performed reaches us. That is, as Wilson says, "Let the exertions of them all fulfil our expectations": the meaning is that the labour they have taken in these matters may be fruitful and bring us satisfaction.
 
+### Printed p. 175
+
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೮] Ṛgveda-saṃhitā 175 (as supplied; "ಪ." printed for "ವ.").* (Sūkta 162, Ṛk 6: the Special Topics end.)
+
+अभिगूर्तिः (*abhigūrtiḥ*)—for this word in this ṛk the commentator has explained अभिगूर्तिः संकल्पः सर्वथाकरणीयमिति बुद्धिः (*abhigūrtiḥ saṃkalpaḥ sarvathākaraṇīyamiti buddhiḥ*) *[the hyphenated line break is joined]*, "the thought that it must necessarily be done in just this way"; for the same word *[printed "ಶುಬ್ಬಕ್ಕೆ"]* in the twelfth ṛk of this sūkta, अभिगूर्तिरभित उद्यमनं (*abhigūrtirabhita udyamanaṃ*) *[so printed]*, "pervading all around, that is, the work that is being accomplished"; and for the word "abhigūrtam" in the fifteenth ṛk, अभिमुख्येन प्रदानायोद्यतं (*abhimukhyena pradānāyodyataṃ*) *[the hyphenated line break is joined]*, "made ready chiefly for offering": thus he has explained it in many ways.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses यूपव्रस्काः (*yūpavraskāḥ*) (the root is printed "ಓ ಪ್ರಶ್ಚ"), योपवाहाः (*yopavāhāḥ*) *[so printed]* (Pā. Sū. 6-1-159; the number of 7-2-116 is split over two lines), चषालम् (*caṣālam*) (root चष (*caṣa*); ಉ. ಸೂ. 547, abbreviation as printed), अश्वयूपाय (*aśvayūpāya*) (ಉ. ಸೂ. 307), तक्षति (*takṣati*), पचनम् (*pacanam*) (Pā. Sū. 6-1-193), संभरंति (*saṃbharaṃti*) (Pā. Sū. 8-1-71), अभिगूर्तिः (*abhigūrtiḥ*) (Pā. Sū. 3-3-94 and 6-2-50) and इन्वतु (*invatu*), with the accents; it ends with the mark ॥ ೬ ॥.
+
+### Printed p. 176
+
+*Running head: 176 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+#### Ṛk 7
+
+*[The label of the Saṃhitā is garbled in the supplied text ("ಸಂವಾದ"); the standard label is inserted and the garbled word kept in kn.md as an italic note. A picture (vol12/html/figures/fig1_line07711.jpg) stood at this place in the supplied text. I looked at it: it shows the label of the Saṃhitā, the Saṃhitā, the label "ಪದಪಾಠ" and the Pada of this Ṛk and the beginning of the label of the bhāṣya; read letter by letter, it agrees with the machine-read text below, so kn.md only has an italic note in place of the figure line. The small hook marks in the Pada ("ಸ್ಯುಮತ್", "ಸ್ಯುಬಂಧುಂ" and others) are the division sign and are not transcribed. The hyphenated line breaks in the bhāṣya block are joined.]*
+
+**॥ संहितापाठः ॥**
+
+> उप॒ प्रागा॑त्सु॒मन्मे॑धायि॒ मन्म॑ दे॒वाना॒माशा॒ उप॒॑॑
+> वी॒तपृ॑ष्ठः ।
+> अन्वे॑नं॒ विप्रा॒ ऋष॑यो मदंति दे॒वानां॑ पु॒ष्टे च॑कृमा॒॑
+> सुबंधुं ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> उप । प्र । अगात् । सुमत् । मे । अधायि । मन्म । देवानां । आशाः । उप ।
+> वीतपृष्ठः ।
+> अनु । ए नं । विप्राः । ऋषयः । मदंति । देवानांपुष्टे । चकृम । सुबंधुं ॥ ७ ।
+
+**॥ सायणभाष्यम् ॥**
+
+> मन्म मननीयं फलं सुमदुप प्रागात् । उपपैतु । सुमत्स्ययमित्यर्थः।
+> नि. ६. २२ । इति यास्कः । यद्वा । स्वयमेव मादयितृतमे मय्यधायि । धीयते ।
+> फलभूतोऽश्व आगतः स च मया धृत इत्यर्थः । किमर्थ० । वीतपृष्ठः साधुपोषणेन प्राप्तपश्चाद्भागः कांतपृष्टो वा । अत्यंतं दृप्त इत्यर्थः। तादृशोऽयं देवानामाशाः पूरयितुमुप गच्छतु । यागार्थमागतमेनं सुबंधुं शोभनबंधनमश्वं देवानामाशास्यमानानां पुष्टे पोषणाय चक्रम । कुर्मः । तं च विप्रा
+> मेधाविन ऋत्विज ऋषयोऽतींद्रियद्रष्टारोऽन्ये वा विप्रा ऋषयत्चानु मदंति ।
+> अनुमोदंतां । सम्यक् कृतमिति परितुष्यंतु ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): may the desired fruit, the horse, come of itself; it has been secured; we make him ready for the gods' nourishment; may the sages approve.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मन्म (*manma*)—the horse that is worthy of reflection, that is, venerable and the fruit of the sacrifice; सुमत् (*sumat*)—of itself; उप प्रागात् (*upa prāgāt*)—may it approach; अधायि (*adhāyi*)—let it afterwards be held (by me); वीतपृष्ठः (*vītapṛṣṭhaḥ*)—(therefore) this horse with a well-grown back; देवानां (*devānāṃ*)—of the gods;
+
+### Printed p. 177
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೮.] Ṛgveda-saṃhitā 177 (as supplied).*
+
+आशाः (*āśāḥ*)—the desired aims; उप (*upa*)—(to fulfil) may it approach; एनं (*enaṃ*)—that has come for the sacrifice, and; सुबंधुं (*subaṃdhuṃ*)—having an excellent binding, the horse; देवानां (*devānāṃ*)—(of the gods who desired this); पुष्टे (*puṣṭe*)—for the nourishment; चक्रम (*cakrama*) *[so printed in the Pratipadārtha]*—we shall prepare; विप्राः (*viprāḥ*)—the intelligent priests; ऋषयः (*ṛṣayaḥ*)—the seers with supersensory knowledge; अनुमदंति (*anumadaṃti*)—let them approve (that our rite is excellent) and show satisfaction.
+
+**भावार्थ (Bhāvārtha)**
+
+This horse, the fruit of the sacrifice, has come of itself and has been held by me. Therefore may it approach to fulfil the desired aims of the gods. The horse that has come for the sacrifice, with a well-grown back and an excellent binding, we shall prepare for the nourishment of the gods who desired it. May the intelligent priests and the seers with supersensory knowledge also approve that our rite is excellent, and show satisfaction.
+
+**Printed English translation**
+
+May my desire be of itself accomplished, such as it has been entertained, that the smooth-backed steed should come to (gratify) the expectations of the gods: we have made him well-secured for the nutriment of the gods; let the wise saints now rejoice. *[the line-end hyphenation "entertain-ed" is joined]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुमत्—सुमत्स्वयमित्यर्थः (*sumat—sumatsvayamityarthaḥ*) (ನಿ- 6- 22) *[reference as printed, with hyphens for stops]* quoting this sentence of the Nirukta authors, Sāyaṇa has explained this word as "of itself". The purport is that the fruit may come of itself. The word "sumat" has not only the meaning "svayam", that is, "of its own accord", but also the meanings "auspicious", "beautiful" or "good". This was explained earlier with examples.
+
+मन्म (*manma*)—"mananīya" means "worthy of meditation". Although the literal sense of the word "manma" is "wish of the mind", in the sentences of the Ṛgveda-saṃhitā the use of this word is to denote a thing that shows an excellent longing. The Nirukta authors, quoting this same ṛk, have explained the meaning of this word as above (Ni., the number printed "೬. ೨೨"). In this context Durgācārya, explaining the word, explained मन्म-मननी (*manma-mananī*)यमर्थजातं । (*yamarthajātaṃ |*) *[the word is split over two lines]* as an "ādṛta" thing *[so printed, "ಆದೃತ", with the next sentence "ಅದೃತ"]*. The "adṛta" thing may be the fruit of the sacrifice, praise, or an oblation. In the present ṛk it means a fruit that is venerable and worthy of meditation. In sentences such as अग्निः प्रश्नेन मन्मना (*agniḥ praśnena manmanā*) (ಐ. ಬ್ರಾ. 1. 4, reference as printed with a stop) the superior sense of this word may also be noted. *[A stray signature "(12)" and "Vol. 12]" at the foot of the page is kept in kn.md as italic notes.]*
+
 ---
 
-**Progress note:** Done through printed p. 174 (PDF 174). Sūkta 162 Ṛk 6 Pratipadārtha end, Bhāvārtha, English, Special Topics
+**Progress note:** Done through printed p. 177 (PDF 177). Sūkta 162 Ṛk 6 Special Topics end and grammar; Ṛk 7 Saṃhitā (picture) to Special Topics
