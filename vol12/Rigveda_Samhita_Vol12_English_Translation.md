@@ -3068,6 +3068,146 @@ By the skill of the Ṛbhus, Indra yoked his horses called Hari to his chariot. 
 
 Indra has caparisoned his horses: the Ashwins have harnessed their cars : Brihaspathi has accepted the omniform (cow): therefore, Ribhu, Vibhwa, and Vaja, go to the gods, doers of good deeds, enjoy your sacrificial portion.
 
+### Printed p. 108
+
+*Running head: 108 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೧] (as supplied; "ಆ." printed for "ಅ."; the opening bracket is placed after "sahitā").*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*(Ṛk 6, continued from the previous window.)* Described here are the supernatural skill of the Ṛbhus and their excellent works, the means by which they attained a rank equal to that of the gods and bear the share of the sacrifice together with them. It is told that with their help Indra obtained an excellent chariot and the horses fit for it.
+
+इंद्रो हरी (*iṃdro harī*)—Indra yoked to his chariot his horses called Hari. हरी इंद्यस्य (*harī iṃdyasya*) *[so printed]* (Ni. 2-28): thus the name of Indra's horses is well known.
+
+तक्षनथं सुवृतं विद्मनापसस्तक्षन्हरी इंद्रवाहा वृषण्वसू । (*takṣanathaṃ suvṛtaṃ vidmanāpasastakṣanharī iṃdravāhā vṛṣaṇvasū |*) (Ṛ. Saṃ. 1-111-1)
+
+अनवस्ते रथमश्वाय तक्षन् त्वष्टा षज्रं पुरुहूत द्युमंतं । (*anavaste rathamaśvāya takṣan tvaṣṭā ṣajraṃ puruhūta dyumaṃtaṃ |*) (Ṛ. Saṃ. 5-31-4)
+
+इंद्राय च हरी । (*iṃdrāya ca harī |*) (ಬೃ. ದೇ. 3-85) *[the abbreviation "ಬೃ. ದೇ." is not on the user's list and is kept as printed]*
+
+thus it is well known that the Ṛbhus, by their excellent skill, made the horses called Hari, strong of body and the carriers of Indra. In the same way,
+
+बृहस्पतेरथाश्विभ्यां रथं दिव्यं त्रिवंधुरं (*bṛhaspaterathāśvibhyāṃ rathaṃ divyaṃ trivaṃdhuraṃ*) (ಬೃ. ದೇ. 3-85)
+
+says that a chariot was built and given to Bṛhaspati and to the Aśvin gods. Here it is said बृहस्पतिर्विश्वरूपां (*bṛhaspatirviśvarūpāṃ*) (the next word, "ಉಪಾಜತ", is split over two lines in the print). Sāyaṇa has explained विश्वरूपां (*viśvarūpāṃ*) as नानारूपोपेतां गां । (*nānārūpopetāṃ gāṃ |*), a cow of many colours.
+
+यद्यप्यत्र गौरिति विशेषो न श्रुतः तथापि पूर्वं धेनुः कर्त्वा इत्युक्तत्वात् (*yadyapyatra gauriti viśeṣo na śrutaḥ tathāpi pūrvaṃ dhenuḥ kartvā ityuktatvāt*)
+
+परस्ताच्च ये धेनुं विश्वजुवं विश्वरूपां इति वक्ष्यमाणत्वाच्च विश्वरूपा गौः इत्येवाध्यवसीयते ॥ (*parastācca ye dhenuṃ viśvajuvaṃ viśvarūpāṃ iti vakṣyamāṇatvācca viśvarūpā gauḥ ityevādhyavasīyate ‖*) *[the line-end hyphen "ಇತ್ಯೇ-ವಾಧ್ಯವಸೀಯತೇ" is joined]*
+
+Here the word "cow" as the thing qualified is absent; still, because earlier the making of a cow has been stated (Ṛ. Saṃ. 1-161-3) and later too the creation of a cow is told by "viśvarūpā", Sāyaṇa has settled the doubt by saying that here too the meaning must be understood as a cow.
+
+वृषभं चर्षणीनां विश्वरूपमदाभ्यं । बृहस्पतिं वरेण्यं । (*vṛṣabhaṃ carṣaṇīnāṃ viśvarūpamadābhyaṃ | bṛhaspatiṃ vareṇyaṃ |*) (Ṛ. Saṃ. 3-62-6)
+
+In ṛks of this kind the word "viśvarūpa" is an epithet of Bṛhaspati himself. According to the Nirukta sentence विश्वरूपा बृहस्पतेः (*viśvarūpā bṛhaspateḥ*) (Ni. 2-28) it is understood that "Viśvarūpa" is the name of Bṛhaspati's horse.
+
+रथं ये चक्रुः सुवृतं नरेष्ठां ये धेनुं विश्वजुवं विश्वरूपां । (*rathaṃ ye cakruḥ suvṛtaṃ nareṣṭhāṃ ye dhenuṃ viśvajuvaṃ viśvarūpāṃ |*)
+त आ तक्षन्त्वभवो रयिं नः स्ववसः स्वपसः सुहस्ताः ॥ (*ta ā takṣantvabhavo rayiṃ naḥ svavasaḥ svapasaḥ suhastāḥ ‖*) (Ṛ. Saṃ. 4-33-8)
+
+### Printed p. 109
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೫. ] Ṛgveda-saṃhitā 109 (as supplied).*
+
+Here it is clear that the Ṛbhus created for Bṛhaspati also a cow called "viśvarūpā". That point is told here too.
+
+From the description of the peculiarities of the chariot of the Aśvin gods, the skill in construction of the Ṛbhus who made it is known. Epithets such as त्रिचक्रः, मधुवाहनः, त्रिवंधुरः (*tricakraḥ, madhuvāhanaḥ, trivaṃdhuraḥ*) show the peculiarity of their chariot. The description of the chariot of the Aśvin gods, which shows the Ṛbhus' skill in construction, is given at great length in the Ṛgveda-saṃhitā.
+
+निमिषश्चिज्जवीयसा रथेना यातमश्विना । अंति षद्भूतु नामवः ॥ (*nimiṣaścijjavīyasā rathenā yātamaśvinā | aṃti ṣadbhūtu nāmavaḥ ‖*) (Ṛ. Saṃ. 8-73-2)
+
+In this the chariot of the Aśvin gods is said to be able to run faster than the blink of an eye, and in
+
+प्र नां रथो मनोजवा इयर्ति तिरो रजांस्यश्विना शतोतिः । (*pra nāṃ ratho manojavā iyarti tiro rajāṃsyaśvinā śatotiḥ |*)
+अस्मभ्यं सूर‍्यावसू इयानः । (*asmabhyaṃ sūryāvasū iyānaḥ |*) (Ṛ. Saṃ. 7-68-3)
+
+and other places its greatness is praised as able to travel through all worlds and as protecting all worlds; and
+
+आ तेन यातं मनसो जवीयसा रथं यं वामृभवश्च क्रुरश्विना । (*ā tena yātaṃ manaso javīyasā rathaṃ yaṃ vāmṛbhavaśca kruraśvinā |*)
+यस्य योगे महिता जायते दिव उभे अहनी सुदिने विवस्वतः ॥ (*yasya yoge mahitā jāyate diva ubhe ahanī sudine vivasvataḥ ‖*) (Ṛ. Saṃ. 10-39-12)
+
+in this the chariot of the Aśvin gods made by the Ṛbhus is swifter than thought; as soon as it is yoked with horses, Uṣas, the daughter of heaven, appears and welfare comes to the world: thus it is described as a means not merely of the beauty of the chariot but also of the welfare of the world.
+
+All this is the greatness of the Ṛbhus' skill in making. The Ṛbhus, who have such divine power and who display their influence by their excellent works throughout earth and atmosphere in a manner astonishing even to the gods, are prayed to join the gods in order to take part in the sacrifice.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* युयुजे (*yuyuje*) (root युजिर् (*yujir*), a *liṭ* form, with the rule Pā. Sū. 8-1-63 on the prohibition of the *nighāta* accent); on p. 110 follow आश्विना (*āśvinā*) *[so printed, with long ā]* (Pā. Sū. 7-1-39), बृहस्पतिः (*bṛhaspatiḥ*) (Pā. Sū. 6-2-140), विश्वरूपां (*viśvarūpāṃ*) (Pā. Sū. 6-2-106), आजत (*ājata*) (root अज (*aja*)), अगच्छत (*agacchata*) (root गमल्य (*gamalya*) *[so printed]*), स्वपसः (*svapasaḥ*) (a sūtra whose number is split over two lines) and ऐतन (*aitana*) (root इण् (*iṇ*); Pā. Sū. 7-1-45 and 6-4-22 as printed), with the accent rules; it ends with the mark ॥ ೬ ॥.
+
+### Printed p. 110
+
+*Running head: 110 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೧.] (as supplied).* (The grammar of Ṛk 6 begins on p. 109 and ends here with ॥ ೬ ॥.)
+
+#### Ṛk 7
+
+*[The labels of the Pada-pāṭha and the end of the Saṃhitā block are missing in the supplied text: the Saṃhitā and the Pada stood in one block without the label "ಪದಪಾಠಃ", and the running head of p. 111 stood inside that block. The label is inserted, the block is split, and the running head of p. 111 is moved to its place with the page mark. Variants between Saṃhitā and Pada kept as supplied: the Pada has अकृनोतन (*akṛnotana*) (Saṃhitā अकृणोतन (*akṛṇotana*) in the Pratipadārtha), युक्ता (*yuktā*) (Saṃhitā "ಯುಕ್ತ್ವಾ") and आया त न (*āyā ta na*) (Saṃhitā "ಅಯಾತನ").]*
+
+**॥ संहितापाठः ॥**
+
+> निश्चर्म॑णो॒ गाम॑रिणीत धी॒तिभि॒र्या जरं॑ता युव॒शा॑
+> ताकृ॑णोतन ।
+> सौध॑न्वना॒ अश्वा॒दश्व॑मतक्षत यु॒क्त्वा रथ॒मुप॑ दे॒वा अ॑यातन
+> ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> निः । चर्मणः । गां । अरिणीत । धीतिभिः । या । जरंता । युवशा । ता ।
+> अकृनोतन ।
+> सौधन्वनाः । अश्वात् । अश्वं । अतक्षत । युक्ता । रथं । उप । देवान् । आया त न ।
+> ॥ ७ ॥
+
+> *niḥ | carmaṇaḥ | gāṃ | ariṇīta | dhītibhiḥ | yā | jaraṃtā | yuvaśā | tā |*
+> *akṛnotana |*
+> *saudhanvanāḥ | aśvāt | aśvaṃ | atakṣata | yuktā | rathaṃ | upa | devān | āyā ta na |*
+> *‖ 7 ‖*
+
+### Printed p. 111
+
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೫ ] Ṛgveda-saṃhitā 111 (as supplied: "ಋಗ್ವೇದಸಂಪೀತಾ" is printed for "ಋಗ್ವೇದಸಂಹಿತಾ"; the head had been merged into the Pada block).*
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> हे सौधन्वनाः यूयं निश्चर्मणो मृताया गोः सकाशादुत्कत्ताच्चर्मणो गां नूतनां निररिणीत । निरगमयत । उत्पादितवंत इत्यर्थः । तेनैव
+> चर्मणा संवीतां तत्सदृशीमन्यां धेनुं कृतवंत इत्यर्थः । यद्यपि पूर्वमेवाश्वादीनां विनियोग उक्तः तथापि तेषामत्यंतदुःखसंपादत्वज्ञापनाय पुनराह ।
+> न केवलं गोकरणमेव अपि च या जरंता यौ जीर्णौ पितरौ ता तौ युवशा
+> युवानावकृषोतन । अकुरुत । किंचाश्वादश्वमेकेन विद्यमानेनाश्वेनाश्वांतरमतक्षत । प्रयत्नेन संपादितवंतः । यस्मादेवं कृतवंतस्तस्माद्रथं युष्मदीयं
+> युक्ताश्वैर्योजयित्वा देवानिंद्रादीनुपायातन । देवसमीपं प्राप्तुत ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Sudhanvan's sons made a cow from a hide, rejuvenated their parents, made a horse from a horse, and must harness their chariot.]*
+
+*[The label of the Pratipadārtha is garbled in the supplied text ("ಪ್ರಸಿಹವಾರ್ಥ") and the text stood inside the bhāṣya block; the garbled word is kept in kn.md as a note, the standard label is inserted and the text moved out of the block.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सौधन्वनाः (*saudhanvanāḥ*)—O sons of Sudhanvan; निश्चर्मणः (*niścarmaṇaḥ*)—from the hide of a dead cow; गां (*gāṃ*)—a (new) cow; अरिणीत (*ariṇīta*)—you made; धीतिभिः (*dhītibhiḥ*)—by your works full of power; या (*yā*)—the parents who; जरंता (*jaraṃtā*)—were aged; ता (*tā*)—them; युवशा (*yuvaśā*)—as young; अकृणोतन (*akṛṇotana*)—you made; अश्वात् (*aśvāt*)—from one horse (that existed before); अश्वं (*aśvaṃ*)—another horse; अतक्षत (*atakṣata*)—you made; रथं (*rathaṃ*)—your chariot (*the printed "!" after it is a misprint for the stop*); युक्ता (*yuktā*)—having got it ready with the horses; देवान् (*devān*)—to the gods, Indra and the others; आयातन (*āyātana*)—go and join.
+
+**भावार्थ (Bhāvārtha)**
+
+O Ṛbhus, sons of Sudhanvan, you created a new cow from the hide of a dead cow. By your works full of power you made your aged parents young. From the one horse that existed before you made another horse. Having got your chariot ready with the horses, go and join Indra and the other gods.
+
+**Printed English translation**
+
+Sons of Sudhanwan, from a hideless (cow) you have formed a living one: by your marvellous acts you have made your aged parents young: from one horse you have fabricated another: harness now your chariot, and repair unto the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Anticipating the doubt that explaining here the matters described in this ṛk, which have been told before, would be a repetition, Sāyaṇa says यद्यपि पूर्वमेवाश्वादीनां (*yadyapi pūrvamevāśvādīnāṃ*)
+
+### Printed p. 112
+
+*Running head: 112 ಕಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೮ (as supplied: "ಕಾಯಣ" for "ಸಾಯಣ" and "೧೬೮" for "೧೬೧"; the head stood in the middle of the sentence and its page mark was missing, so it is supplied).*
+
+विनियोग उक्तस्तथापि तेषामत्यंतदुःखसंपादित्वज्ञापनाय पुनराह । (*viniyoga uktastathāpi teṣāmatyaṃtaduḥkhasaṃpāditvajñāpanāya punarāha |*) *[so printed, "ಸಂಪಾದಿತ್ವ"; the bhāṣya block has "ಸಂಪಾದತ್ವ"]* He has given the reply that, although these were indicated earlier, such works cannot be accomplished by ordinary power and extraordinary power is needed to carry out such toilsome work, and that for this reason they are explained again here.
+
+Here one more point is to be noted. The root तक्ष् (*takṣ*), which is commonly used to denote the making-work of Tvaṣṭṛ, the teacher of the Ṛbhus, is used here too, in the verb of the third pāda ("from one horse another"; the verb is split over two lines in the print). Besides, in the same way in ṛks such as तक्षन्रथं सुवृतं (*takṣanrathaṃ suvṛtaṃ*) (1-111-1) and त आ तक्षन्त्वभवो रयिं (*ta ā takṣantvabhavo rayiṃ*) (4-33-8) also the creative work of the Ṛbhus is told with this root: this is another special feature.
+
+धीतिभिः (*dhītibhiḥ*)—the word "dhīti" is included both among the names of works and among the names of wisdom, and since the distinction of the Ṛbhus is made manifest by both these qualities, either meaning can be given here.
+
+*[The heading of the grammar is garbled in the supplied text ("ಸ್ಮರಣಕ್ರಿಯಾ"); the standard label is inserted and the garbled word kept in kn.md as a note.]*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses चर्मणः (*carmaṇaḥ*) (Pā. Sū. 6-1-169), अरिणीत (*ariṇīta*) (root री (*rī*); Pā. Sū. 7-3-80 and 6-4-113), जरंता (*jaraṃtā*) (root जृष् (*jṛṣ*); Pā. Sū. 7-1-39), अकृणोतन (*akṛṇotana*), अतक्षत (*atakṣata*) and, at the end of the page, युक्त्वा (*yuktvā*) (root युजिर् (*yujir*)); the analysis of Ṛk 7 continues on p. 113 and has not ended with this window.
+
 ---
 
-**Progress note:** Done through printed p. 107 (PDF 107). Sūkta 161 Ṛk 5 Special Topics end and grammar; Ṛk 6 Saṃhitā/Pada (picture), bhāṣya, Pratipadārtha, Bhāvārtha, English
+**Progress note:** Done through printed p. 112 (PDF 112). Sūkta 161 Ṛk 6 Special Topics, grammar; Ṛk 7 Saṃhitā/Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar start
