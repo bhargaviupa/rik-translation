@@ -35,3 +35,4 @@
 | w0102 | 102-104 | sonnet (standing) | n/a | n/a | n/a |
 | w0105 | 105-107 | sonnet (standing) | n/a | n/a | n/a |
 | w0108 | 108-112 | sonnet (standing) | n/a | n/a | n/a |
+| w0113 | 113-115 | sonnet (standing) | n/a | n/a | n/a |
