@@ -6522,6 +6522,211 @@ In the preceding Ṛk, by "त्रीणि बंधनानि (*trīṇi b
 यथा द्युलोके तवोच्चैःश्रवोरूपस्य बंधनत्रयमभिज्ञा आहुतथैवाप्पु समुद्रे च । यथा वा वाजपेयेऽस्वंतरमृतमिति मंत्रेणाश्वानप्पु स्नापयंति तथापि पूर्वोक्तरीत्या बंधनत्रयमपेक्षितं तथा समुद्रमध्यॆ स्थिताया वडवाया बंधनत्रयं इत्येवमभिज्ञा आहुः (*yathā dyuloke tavoccaiḥśravorūpasya baṃdhanatrayamabhijñā āhutathaivāppu samudre ca | yathā vā vājapeye 'svaṃtaramṛtamiti maṃtreṇāśvānappu snāpayaṃti tathāpi pūrvoktarītyā baṃdhanatrayamapekṣitaṃ tathā samudramadhyè sthitāyā vaḍavāyā baṃdhanatrayaṃ ityevamabhijñā āhuḥ*).
 (Tai. Saṃ. Bhā. 4-6-7) *[abbreviation as printed: ತ್ರೈ. ಸಂ ಭಾ.]*
 
+### Printed p. 247
+*Running head: [ಅ. ೨. ಆ. .೩ ವ. ೧೧.] ಋಗ್ವೇದಸಂಹಿತಾ 247] (as supplied).*
+
+*(Continuing the Special Topics of Ṛk 4.)* Here Sāyaṇa quotes the mantra used at the time of the Vājapeya, अप्पु । अंतरमृतमप्पु भेषजमपां (*appu | aṃtaramṛtamappu bheṣajamapāṃ*), and, just as it means "water" there, shows that the word in the Taittirīya Saṃhitā passage also means "water". For "sea" he says the conventional sea. Taking this commentary itself as the basis, Keith too has rendered that passage thus:
+
+Three they say, are thy bonds in the sky, Three in the waters, three within the
+occan [sic] ; And like Varuna to me thou appearest, where, they say, is thy highest, O steed,
+birth place.
+[Harvard oriental Series Vol. 19. P. 376]
+
+Thus, since the Ṛg-Saṃhitā passage has been interpreted in one way, and the same mantra quoted in the Taittirīya Saṃhitā in another, it is difficult in such cases to know the exact intention. But in the present context the explanation given in the Ṛg-Saṃhitā mantra itself suits the context. In it, explaining what the threefold binding on earth is and what the nature of the threefold binding of the firmament is, he says: अप्पु अन्नं, स्थानं, बीजमिति त्रीणि । अंतरिक्षे वृष्टुत्पत्ति निमित्तानि मेघो, विद्युत्, स्तनितमिति (*appu annaṃ, sthānaṃ, bījamiti trīṇi | aṃtarikṣe vṛṣṭutpatti nimittāni megho, vidyut, stanitamiti*). That is, on earth the threefold binding of food, place and seed; and in the firmament the threefold binding of cloud, lightning and thunder, which are the causes of the production of rain. It seems that this passage must have a still more hidden intention.
+
+वरुणक (*varuṇaka*) *[as supplied]*—this word here is a synonym of "horse". He has explained: पापस्य वारकः फलस्यावर्जयिता (*pāpasya vārakaḥ phalasyāvarjayitā*), that is, "one who wards off sin, or one who supplies the fruit". Or: just as in the earlier passage यमेन दत्तं (*yamena dattaṃ*) (1-163-2) the relation of "given by Agni" was stated, and therefore identity was stated in असि यमः अस्यादित्यः (*asi yamaḥ asyādityaḥ*) (1-163-3), so, since this same horse has a very close relation with Varuṇa too, identity with Varuṇa may have been stated here. The relation of this sacrificial horse with Varuṇa is shown thus:
+
+वारुणो ना अश्वः । तं देवतया व्यर्धयति (*vāruṇo nā aśvaḥ | taṃ devatayā vyardhayati*)
+(Śai. Brā. 3-9-16-1) *[abbreviation as printed: ಶೈ. ಬ್ರಾ-]*
+
+This Brāhmaṇa passage has been quoted and this matter explained earlier. Not only this, but:
+
+अथ श्वो भूते । सूतस्य गृहान्नरेत्य वारुणं यवमयं चरुं निर्वपति स वो वै सूतः स वो वै देवानां वरुणस्तस्माद्वारुणो भवत्येतद्वा (*atha śvo bhūte | sūtasya gṛhānnaretya vāruṇaṃ yavamayaṃ caruṃ nirvapati sa vo vai sūtaḥ sa vo vai devānāṃ varuṇastasmādvāruṇo bhavatyetadvā*)
+
+### Printed p. 248
+*Running head: 248 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ ೧೬೩] (as supplied).*
+
+*(The Brāhmaṇa passage continues from the previous page:)* अस्यैकं रत्नं यत्तूतस्तस्मा एवैतेन सूयते तग्ग् स्वमनकक्रमिणं कुरुते तस्याश्वो दक्षिणा स हि वारुणो यदश्वः (*asyaikaṃ ratnaṃ yattūtastasmā evaitena sūyate tagg svamanakakramiṇaṃ kurute tasyāśvo dakṣiṇā sa hi vāruṇo yadaśvaḥ*)
+(Śa.. Brā. 4-3-1-5) *[abbreviation as printed: ಶ.. ಬ್ರಾ.]*
+
+In this passage identity of Varuṇa and the horse is stated, and in the Rājasūya there is the injunction that the barley, dear to the horse, is to be offered to Varuṇa. Since identity of this kind is stated in many other contexts as well, it would not be wrong to say that the same intention is indicated in the present Ṛk too.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+अप्पु (*appu*)—a form ending in the locative plural. By ऊडिदंपदादि (*ūḍidaṃpadādi*) (Pā. Sū. 6-1-171) the udātta accent comes on the case-ending.
+
+छन् त्सि (*chan tsi*)—छदि (*chadi*) संवरणे (*saṃvaraṇe*) (in the sense of covering), a root of the *curādi* class. Because it is i-marked, the optional ṇic does not occur. By इदितो नुम्‌धातोः (*idito numdhātoḥ*) (Pā. Sū. 7-1-58) the num augment. *Laṭ*, second person singular, sip. By खरि च (*khari ca*) the change to a *car* letter (ca-class) of the root's d. Because it follows a non-finite verb, the *nighāta* accent results.
+
+यत्रा (*yatrā*)—by यचितुनुघ (*yacitunugha*) (Pā. Sū. 6-3-133) lengthening occurs in the Saṃhitā text.
+
+जनित्रम् (*janitram*)—जनी (*janī*) प्रादुर्भावे (*prādurbhāve*) (in the sense of coming into being), a root. Since it belongs to the *aśitrādi* group, by अशित्रादिभ्य इत्रोत्थौ (*aśitrādibhya itrotthau*) (U. Sū. 4-612) the suffix itra. By the initial-acute accent of the suffix the word becomes middle-acute. ‖ 4 ‖
+
+*[stray line as supplied: :0:]*
+
+*[as supplied: the label "ಸಂಹಾಪಾಠಃ" stands here, where the Saṃhitā-pāṭha label belongs; the script replaced it.]*
+
+#### Ṛk 5
+**॥ संहितापाठः ॥**
+> इ॒मा ते॑ वाजिन्नव॒मार्ज॑नानी॒मा श॒फानां॑ सनि॒तुर्नि॒धाना॑ ।
+> अत्रा॑ ते भ॒द्रा र॑श॒ना अ॑पश्यमृ॒तस्य॒ या अ॑भि॒रक्षं॑ति गो॒पाः ।
+> ॥ ५ ॥
+**॥ पदपाठः ॥**
+> इमा । ते । वाजिन् । अव्यमार्जनानि । इमा । शफानां । सनितुः । निधाना ।
+> अत्र । ते । भद्राः । रशनाः । अपश्यं । ऋतस्य । याः । अभिरक्षंति । गोपाः ॥ ५ ॥
+
+> *imā | te | vājin | avyamārjanāni | imā | śaphānāṃ | sanituḥ | nidhānā |*
+> *atra | te | bhadrāḥ | raśanāḥ | apaśyaṃ | ṛtasya | yāḥ | abhirakṣaṃti | gopāḥ ‖ 5 ‖*
+
+### Printed p. 249
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೧೧.] ಋಗ್ವೇದಸಂಹಿತಾ 249] (as supplied).*
+
+*[as supplied: the label "ಸಾಯಾಣಭಾಷ್ಯಂ" stands here, where the Sāyaṇa-bhāṣya label belongs; the script replaced it.]*
+
+**॥ सायणभाष्यम् ॥**
+> हे वाजिन्नश्व ते संबंधीन्यवमार्जनान्यंगसंशोधकानि स्थानानीमेमान्युक्तानि द्युलोकादीनि किंच सनितुर्यागसंभक्तुस्तवेमेमानि शफानां निधानानि स्थानानि।
+> संचारप्रदेशा इत्यर्थः । किंचात्रैव ते तव भद्रा भंधनीयाः कल्याणा रशना ग्रीवादिषु संयुक्ता रज्जूरत्रापश्यं । एषूक्तेषु स्थानेष्टपश्यं । रशना विशेष्यंते । या
+> गोपा गोपयित्र्यो रशना ऋतस्य सत्यभूतस्य यज्ञसाधनस्य वाश्वस्य॥ कर्मणि षष्ठी॥
+> ऋतमभिरक्षंति अभितः पालयंति ता अपश्यं । दृष्टवानस्मि । यद्वा । इमा ते तवावमार्जनान्यंगप्रक्षालनसाधनान्युदकानि । इमानि सनितुस्तव शफानां निधानानि देवयजनभूमयः संचारप्रदेशा वा । अत्रास्मिन्देवयजनस्थाने या रशना गोपास्तव
+> पालयितारो राजपुरुषा ऋत्विजो वा ऋतस्य संबंधिन्नोऽभिरक्षंति ता अपश्यं ॥
+*Gist:* The purifying places (heaven etc.), the hoof-resting places and the auspicious guarding reins are seen; alternatively: waters, sacrificial grounds, and the royal men or priests as guards.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+वाजिन् (*vājin*)—O horse; ते (*te*)—your; अवमार्जनानि (*avamārjanāni*)—the places that purify the limbs; इमा (*imā*)—these heaven-world etc., (and); सनितुः (*sanituḥ*)—of you who take part in the sacrifice; शफानां (*śaphānāṃ*)—the hooves; निधाना (*nidhānā*)—where they are set down; इमा (*imā*)—these regions (and); याः (*yāḥ*)—which; गोपाः (*gopāḥ*)—protecting; ऋतस्य (*ṛtasya*)—the horse that is a means of the sacrifice, or that is of the nature of truth; अभिरक्षंति (*abhirakṣaṃti*)—guard, such ones and; भद्राः (*bhadrāḥ*)—auspicious; ते (*te*)—your; रशनाः (*raśanāḥ*)—bridles; अत्र (*atra*)—here; अपश्यं (*apaśyaṃ*)—I have seen.
+
+**भावार्थ (Bhāvārtha)**
+O horse, I have seen here these heaven-world etc., which are the places that purify your limbs; these regions where you, who take part in the sacrifice, set down your hooves; and your bridles, which guard the horse that is a means of the sacrifice and are auspicious.
+
+**Printed English**
+I have beheld, Horse, these your purifying (regions); these impressions
+of the feet of you, who share in the sacrifice; and here your auspicious reins,
+which are the protectors of the rite that preserve it.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Two kinds of construction have been made for this Ṛk: first, with reference to the heaven-world etc., and second, with reference to waters etc. The first construction is given in the Pratipadārtha.
+
+### Printed p. 250
+*Running head: 250 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+Secondly, the word अवमार्जनानि (*avamārjanāni*) is explained by अंगप्रक्षालनसाधनान्युदकानि (*aṃgaprakṣālanasādhanānyudakāni*), that is, waters that wash and purify the limbs; शफानां निधाना इमा (*śaphānāṃ nidhānā imā*) as the sacrificial ground where the hooves are set down; and गोपाः रशनाः (*gopāḥ raśanāḥ*) as the priests who guard the sacrifice, or the royal men who guard the horse.
+
+For the same mantra in the Taittirīya Saṃhitā Sāyaṇa has given a somewhat different meaning. There (Tai. Saṃ. 4-6-7) for अवमार्जनानि (*avamārjanāni*) he says शरीरशोधनसाधनानि लोहमयानि (*śarīraśodhanasādhanāni lohamayāni*), that is, iron instruments for scrubbing the body; and for शफानां निधाना (*śaphānāṃ nidhānā*) he says लोहमयान्याभरणविशेषरूपाणि (*lohamayānyābharaṇaviśeṣarūpāṇi*), that is, since it is the custom to put an iron cover on the hooves of royal horses so that no kind of trouble befalls them as they walk, the word is explained as indicating such a covering device here too.
+
+भद्रा (*bhadrā*):—भद्रं भगेन व्याख्यातं । भजनीयं, भूतानामभिद्रवणीयं भवद्रमयतीति वा भाजनवद्वा (*bhadraṃ bhagena vyākhyātaṃ | bhajanīyaṃ, bhūtānāmabhidravaṇīyaṃ bhavadramayatīti vā bhājanavadvā*) (Ni. 4-9). The word भद्र (*bhadra*) is used in the sense of "conducive to welfare" or "auspicious". To explain further: the word भद्र (*bhadra*) is used in the senses of that which is fit for enjoyment, that which is most desired by living beings, or that which causes the enjoyment of happiness, or that which belongs only to one who is deserving. When explaining this word the Nirukta-writers explained one meaning suited to the context through the quotation of a Śruti passage:
+
+अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि (*atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīrnihitādhi vāci*)
+(Ṛ. Saṃ. 10-21-2)
+
+In this passage, explaining the word भद्र (*bhadra*), they gave the meaning "auspicious"; accordingly here too the meaning is "auspicious".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+इमा (*imā*)—in the neuter plural, by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-70) the loss of śi.
+
+अवमार्जनानि (*avamārjanāni*)—मृजू (*mṛjū*) शुद्धौ (*śuddhau*) (in the sense of purifying), a root. The suffix lyuṭ; by युवोरनाकौ (*yuvoranākau*) the substitute ana. Caused by the suffix, by मृजेर्वृद्दिः (*mṛjervṛddiḥ*) (Pā. Sū. 7-2-114) vṛddhi for the light penultimate vowel of the root, with a following r. By लिति (*liti*) (Pā. Sū. 9-1-193) *[number as supplied]* the udātta accent comes on the syllable before the suffix. When it forms a compound with the prefix etc., the *kṛd*-final member keeps its own accent (*prakṛti-svara*).
+
+सनितुः (*sanituḥ*)—षण (*ṣaṇa*) संभक्तौ (*saṃbhaktau*) (in the sense of sharing), a root. By धात्वादेः षः सः (*dhātvādeḥ ṣaḥ saḥ*) the change of the initial to s. In the agent sense, the suffix tṛc. By आर्धधातुक (*ārdhadhātuka*) (Pā. Sū. 7-2-35) the iṭ augment for it. A form ending in the genitive singular. By the suffix accent it becomes final-acute.
+
+### Printed p. 251
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೨.] ಋಗ್ವೇದಸಂಹಿತಾ 251] (as supplied).*
+
+निधाना (*nidhānā*)—डुधाग् (*ḍudhāg*) धारणपोषणयोः (*dhāraṇapoṣaṇayoḥ*) (in the senses of holding and nourishing), a root. By करणाधिकरणयोश्च (*karaṇādhikaraṇayośca*) (Pā. Sū. 3-3-117) the suffix lyuṭ in the locative sense; the substitute ana for it. By गतिकारकोपपदात्कृत् (*gatikārakopapadātkṛt*) (Pā. Sū. 6-2-139) the *kṛd*-final member keeps its own accent. In the neuter plural, by शेश्शृंदसि बहुलम् (*śeśśṛṃdasi bahulam*) (Pā. Sū. 9-1-70) *[number and letters as supplied]* the loss of śi.
+
+अत्र (*atra*)—by यजितुनुघ (*yajitunugha*) (Pā. Sū. 6-3-133) lengthening occurs in the Saṃhitā text.
+
+भद्रा (*bhadrā*)—भवि (*bhavi*) कल्याणे सुखे च (*kalyāṇe sukhe ca*) (in the sense of welfare and happiness). By यजेंद्राग्र (*yajeṃdrāgra*) (U. Sū. 1-186) it is irregularly formed with the ending ra.
+
+अपश्यम् (*apaśyam*)—दृशिर् (*dṛśir*) प्रेक्षणे (*prekṣaṇe*) (in the sense of seeing), a root. लज् (*laj*) (as supplied), a form ending in the first person singular. The *tiṅanta* *nighāta* accent results.
+
+यशस्सु (*yaśassu*)—In the sense of the object the पक्कि (*pakki*) has come. *[as supplied: the print reads thus; not settled here.]*
+
+अभिरक्षंति (*abhirakṣaṃti*)—रक्ष (*rakṣa*) पालने (*pālane*) (in the sense of protecting). *Laṭ*, a form ending in the third person plural. By यद्वृत्तान्नित्यं (*yadvṛttānnityaṃ*) (Pā. Sū. 8-1-66) the prohibition of the *nighāta* accent results. By त्यास्यनुदात्तेत् (*tyāsyanudāttet*) (Pā. Sū. 6-1-186) the *lasārvadhātuka* is unaccented, so the root accent remains; by तिजिर्चोदात्तवति (*tijircodāttavati*) (Pā. Sū. 8-1-71) the *nighāta* accent comes on the gati (abhi).
+
+गोपाः (*gopāḥ*)—गुपू (*gupū*) रक्षणे (*rakṣaṇe*) (in the sense of guarding), a root. By नंदिग्रहपचादिभ्यः (*naṃdigrahapacādibhyaḥ*) (Pā. Sū. 3-1-134) the suffix ac in the agent sense. By पुगंतलघूपधस्य च (*pugaṃtalaghūpadhasya ca*) (Pā. Sū. 7-3-89) guṇa for the light penultimate vowel of the root, caused by the suffix. By चितः (*citaḥ*) (Pā. Sū. 6-1-163) the final-acute accent results. ‖ 5 ‖
+
+*[stray line as supplied: :0:]*
+
+*[as supplied: the label "ಕಂಠಪಾಠ" stands here, where the Saṃhitā-pāṭha label belongs; the script replaced it.]*
+
+#### Ṛk 6
+**॥ संहितापाठः ॥**
+> आ॒त्मानं॑ ते॒ मन॑सा॒राद॑जानाम॒वो दि॒वा प॒तयं॑तं पतं॒गं।
+> शिरो॑ अपश्यं प॒थिभिः॑ सु॒गेभि॑ररे॒णुभि॒र्जॆह॑मानं पत॒त्रि ॥ ६ ॥
+*[as supplied: the label "ಚದಮಾರು" stands here, where the Pada-pāṭha label belongs; the script replaced it.]*
+**॥ पदपाठः ॥**
+> आत्मानं । ते । मनसा । आरात् । अजानां । अवः । दिवा । पतयंतं । पतंगं ।
+> शिरः । अपश्यं । पथिभिः । । सुगेभिः । अरेणुभिः । जेहमानं । पतत्रि ॥ ६ ॥
+
+> *ātmānaṃ | te | manasā | ārāt | ajānāṃ | avaḥ | divā | patayaṃtaṃ | pataṃgaṃ |*
+> *śiraḥ | apaśyaṃ | pathibhiḥ | | sugebhiḥ | areṇubhiḥ | jehamānaṃ | patatri ‖ 6 ‖*
+
+### Printed p. 252
+*Running head: 252 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩.] (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+> हे अश्व ते तवात्मानं शरीरं मनसास्मदीयेन प्रकृष्टगमनवता चेतसारादतिदूरे स्थितमजानां । जानामि । अतिव्याप्तं भावयामीत्यर्थः । कथं । अवोऽ-वस्तात् । सामर्थ्याद्दूमेः । भूमिमारभ्य दिवांतरिक्षेण मार्गेण पतंगमादित्यं
+> पतयंतं गच्छंतं प्राप्पुवंतं । यद्वा । यतो दिवांतरिक्षेण मार्गेण दिवि वा
+> पतयंतं गच्छंतं पतंगमादित्यमवः आवः व्याप्योषि अतो व्याप्तं जानामि । किंच
+> शिरोऽपश्यं । तव शिर एवं पश्यामि । कथं । सुगेभिः शोभनगमनसाधनैररेणुभिरपापैः पथिभिर्मार्गैः । आदित्यमंडलादप्युपरिभूतैः सत्यलोकमार्गैरित्यर्थः । तत्र
+> प्रतिबंधाभावान्मार्गाणामुक्तरूपत्वं । तथाविध्यॆस्तैर्जॆहमानमुपर्युपरि व्याप्पुवत् पतत्रि पतनवच्छिरोऽपश्यं । भावयामि । एवं लोकत्रयव्याप्तं भावयामीत्यर्थः । यद्वा । त आत्मानमेवं भावयामि मनसा दिवा द्योतनात्मकेनांतरिक्षमार्गीण दिवः सकाशाद्वावोऽवस्तादवाङ्मुखं पतयंतं यागदेशं प्रति व्याप्प्पुवत् आत एव पतंगं पतनशीलमधःपतदादित्यसदृशं वा । एवं तव शिरो भावयामीत्यर्थः । शिरश्चैवमपश्यं । उक्तरूपैर्देवयजनमार्गैर्जेहमानं यज्ञदेशं
+> व्याप्नुवत् पतत्रि शीघ्रगामि शिरः पश्यामि । यद्यप्यात्मशब्देन सशिरस्कं शरीरमुक्तं
+> तथापि देहात्पूर्वं शिरसो दृश्यमानत्वात् पृथगभिधीयते ॥
+*Gist:* I perceive by mind your form far off, flying from earth through the sky toward the sun, and your head moving swiftly on dustless, excellent paths.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(अश्व (*aśva*)—O horse); अवः (*avaḥ*)—(starting) from the earth; दिवा (*divā*)—by the path of the firmament; पतंगं (*pataṃgaṃ*)—aiming at the sun; पतयंतं (*patayaṃtaṃ*)—flying; ते (*te*)—your; आत्मानं (*ātmānaṃ*)—form; आरात् (*ārāt*)—from very far; मनसा (*manasā*)—with my faith-filled mind; अजानां (*ajānāṃ*)—I knew; (and) अरेणुभिः (*areṇubhiḥ*)—dustless (pure); सुगेभिः (*sugebhiḥ*)—excellent, fit for travel; पथिभिः (*pathibhiḥ*)—by the path; जेहमानं (*jehamānaṃ*)—pervading higher and higher; पतत्रि (*patatri*)—flying; शिरः (*śiraḥ*)—your head also; अपश्यं (*apaśyaṃ*)—I see.
+
+**भावार्थ (Bhāvārtha)**
+O horse, starting from the earth, aiming at the sun, flying by the path of the firmament, your form I knew from very far with my faith-filled mind. And I see also your head, flying, pervading higher and higher by a path that is free of impurity, pure, and excellent and fit for travel.
+
+### Printed p. 253
+*Running head: [ಅ.೨.ಆ. ೩ ವ. ೧೨. ] ಸುಗ್ವೇದಸಂಹಿತಾ 253] (as supplied; the word ಸುಗ್ವೇದ is printed so).*
+
+**Printed English**
+I recognise in my mind your form afar off, going from (the earth)below, by way of heaven, to the sun. I behold your head soaring aloft, and mount-ing quickly by unobstructed paths, unsullied by dust.
+
+*[as supplied: the label "ವಿಶೇಷವಿವರಗಳು" stands here, where the Special Topics label belongs; the script replaced it.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Two kinds of construction have been made for this Ṛk. First, for the word अवः (*avaḥ*): अवस्तात् (*avastāt*), "from the lower part", that is, from the earth; and second, अवः (*avaḥ*): अवस्तात् (*avastāt*), "to the lower part", that is, aiming at the earth. The first meaning is given in the Pratipadārtha.
+
+According to the second construction: दिवः सकाशात् (*divaḥ sakāśāt*), starting from the firmament; अवः (*avaḥ*), facing the earth; पतयंतं (*patayaṃtaṃ*), flying and coming down; पतंगं (*pataṃgaṃ*), resembling the Āditya; आत्मानं (*ātmānaṃ*), the form of the horse. And in the latter half: सुगेभिः पथिभिः (*sugebhiḥ pathibhiḥ*), on excellent paths for the divine sacrifice; जेहमानं (*jehamānaṃ*), pervading; पतत्रि (*patatri*), swift-going; शिरः पश्यामि (*śiraḥ paśyāmi*), "I see the head"—this is the meaning given. If the objection arises: when the word आत्मानं (*ātmānaṃ*) already means the body together with the head, why use the word शिरः (*śiraḥ*) again and describe it?—the answer is given as यद्यप्यात्मशब्देन सशिरस्कं शरीरमुक्तं तथापि देहात्पूर्वं शिरसो दृश्यमानत्वात् पृथगभिधीयते (*yadyapyātmaśabdena saśiraskaṃ śarīramuktaṃ tathāpi dehātpūrvaṃ śiraso dṛśyamānatvāt pṛthagabhidhīyate*). That is, although the word आत्म (*ātma*) itself means the body including the head, since in motion the head is seen first, this word has been stated separately. Even then an objection may arise: in such a context one ought to have followed the order, saying first "I saw the head" and afterwards "I saw the body"—this objection is natural. But in the speech of a ṛṣi there is no room for such faults. Since Sāyaṇa has stated first the meaning given in the Pratipadārtha, it appears that he has taken that as the main one. If that is followed, then for सुगेभिः अरेणुभिः पथिभिः (*sugebhiḥ areṇubhiḥ pathibhiḥ*) he says आदित्यमंडलादपि उपरिभूतैः सत्यलोकमार्गैः (*ādityamaṃḍalādapi uparibhūtaiḥ satyalokamārgaiḥ*), that is, by the paths of the Satya-loka, which lie above even the orb of Āditya. This description of the Satya-loka is given in the Upaniṣads thus:
+
+सत्यमेव जयति नानृतं सत्येन पंथा विततो देवयानः । येनाक्रमंत्यृषयो ह्याप्तकामा यत्र तत्सत्यस्य परमं निधानं (*satyameva jayati nānṛtaṃ satyena paṃthā vitato devayānaḥ | yenākramaṃtyṛṣayo hyāptakāmā yatra tatsatyasya paramaṃ nidhānaṃ*)
+(Muṇḍaka 3-1.-6) *[reference as printed]*
+
+It is described that the ṛṣis who have attained their desires and know the highest truth reach this most excellent Satya-loka, and that this is the supreme place. This very thing:
+
+### Printed p. 254
+*Running head: 254 [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩. (as supplied; the head is printed without its closing bracket).*
+
+यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः । स तु तत्पदमाप्नोति यस्माद्भूयो न जायते (*yastu vijñānavānbhavati samanaskaḥ sadā śuciḥ | sa tu tatpadamāpnoti yasmādbhūyo na jāyate*)
+(Kara. 3-8-9) *[abbreviation as printed: ಕರ.]*
+
+Having acquired spiritual knowledge, the self-controlled person endowed with the riches of tranquillity, self-restraint and the rest attains this Satya-loka and does not become a transmigrating being again: thus there is a description of the Satya-loka which goes beyond even the world of Āditya.
+
+जेहमानं (*jehamānaṃ*)—the word जेहते (*jehate*) is read among the 122 names of motion (Ni. 3-9). It is derived from the root जेहृ (*jehṛ*), which gives the meaning "strive, arise"; and the meaning of this word must be stated according to the context.
+
+अस्य शुष्मासो ददृशानपवेर्जॆहमानस्य स्वनयन्नियुद्भिः । प्रत्नेभिरो रुशद्भिर्देवतमो वि रेभद्भिररतिर्भाति विभ्वा (*asya śuṣmāso dadṛśānapaverjèhamānasya svanayanniyudbhiḥ | pratnebhiro ruśadbhirdevatamo vi rebhadbhiraratirbhāti vibhvā*)
+(Ṛ. Saṃ. 10-3-6)
+
+In this passage it has the meaning of mere motion, that is, "going towards the gods"; and
+
+ये तातृषुर्देवत्रा जेहमाना होत्राविदः स्तोमतष्टासो अर्कैः । अग्ने याहि सुविदत्रेभिरर्वाज् सत्यैः कव्यैः पितृभिर्घर्मसद्भिः (*ye tātṛṣurdevatrā jehamānā hotrāvidaḥ stomataṣṭāso arkaiḥ | agne yāhi suvidatrebhirarvāj satyaiḥ kavyaiḥ pitṛbhirgharmasadbhiḥ*)
+(Ṛ. Saṃ. 10-15-9)
+(Ṛ. Saṃ. 10-15-9) *[the reference is printed twice, as supplied]*
+
+in this passage it has the meaning "attained". In some contexts it shows an extremely intense desire. In the present Ṛk it has the meaning "pervade".
+
+*[as supplied: the label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" stands here, where the Grammar label belongs; the script replaced it.]*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+अजानाम् (*ajānām*)—ज्ञा (*jñā*) अवबोधने (*avabodhane*) (in the sense of knowing), a root. लज् (*laj*) (as supplied), first person singular, mip. By तस्थस् थमिपां (*tasthas thamipāṃ*) (Pā. Sū. 3-4-101) the substitute am for it. By क्र्यादिभ्यः श्ना (*kryādibhyaḥ śnā*) (Pā. Sū. 3-1-81) the śnā infix. By ज्ञाजनोर्जा (*jñājanorjā*) (Pā. Sū. 7-3-79) the substitute jā for the root. The stem takes the aṭ augment. Because it follows a non-finite verb, the *nighāta* accent results.
+
+अवः (*avaḥ*)—by पूर्वाधरावराणामसिपुरधवश्चैषाम् (*pūrvādharāvarāṇāmasipuradhavaścaiṣām*) (Pā. Sū. 5-3-39) the suffix asi in the sense of "from below". The substitute av for the stem. By the suffix accent it becomes final-acute.
+
+पतॆयंतम् (*patèyaṃtam*) *[as supplied]*—पत (*pata*) गत् (*gat*) *[as supplied]*, a root of the *curādi* class. By सत्यापपाश (*satyāpapāśa*) (Pā. Sū. 3-1-15) the suffix ṇic in its own sense. Because it ends in a, the loss caused by ṇic. After the ṇijanta, for laṭ *[the entry is cut off at the end of the window and continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 246. Sukta 163 Rk 3 (end of Rk 2 grammar) and Rk 4, pp. 241-246
+**Progress note:** Done through printed p. 254. Sukta 163 end of Rk 4 (pp. 247-248), Rk 5 and Rk 6 (to p. 254, ends in the grammar of Rk 6)
