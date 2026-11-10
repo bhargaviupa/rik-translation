@@ -14657,6 +14657,147 @@ It is stated in these and similar sentences. These sentences too indicate the me
 5) सर्पाणां वाग्वयसां कुद्रस्य सरीसृपस्य चतुर्थी व्यावहिरिकीत्येकॆ (*sarpāṇāṃ vāgvayasāṃ kudrasya sarīsṛpasya caturthī vyāvahirikītyekè*) *[as supplied: ಕುದ್ರಸ್ಯ and ವ್ಯಾವಹಿರಿಕೀ as printed]* । The threefold speech of serpents, of birds and of worms and insects, together with the worldly speech of men, make four: this is the opinion of some others. In this way the Nirukta-writers have stated the other meanings possible for this sentence (Ni. 13-9).
 गुहा त्रीणि निहिता नेंगयंति तुरीयं वाचो मनुष्या वदंति (*guhā trīṇi nihitā neṃgayaṃti turīyaṃ vāco manuṣyā vadaṃti*) । Among these four kinds of speech, three kinds of speech are beyond the reach of our worldly perception; that is *[the passage breaks off here at the end of the window, to be continued]*
 
+### Printed p. 624
+*Running head: 624 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+[Continuing the passage of the previous page] ...their meaning is not available to us. Of these, only the fourth can we understand: this is the plain sense. There are differences of opinion in the explanation of this sentence too. In the Śatapatha-brāhmaṇa this Ṛk is taken up and its explanation is given in this way:
+
+स होवाच । तुरीयं तुरीयं चेन्मामबीभजुस्तु रीयमेव तर्हि वाङ्मुरुक्तं वदिस्त्यतीति तदेतत्तु रीयं वाचो निरुक्तं यन्मनुष्या वदंत्यथैतत्तु रीयं वाचोऽनिरुक्तं यत्पशवो वदंत्यथैतत्तु रीयं वाचोऽनिरुक्तं यद्वयाग्ंसि वदंत्यथैतत्तु रीयं वाचोऽनिरुक्तं यदिदं क्षुद्रग्ंसरीसृपं वदंति । तस्मादेतदृषिणाभ्रनूक्तं । "चत्वारि वाक्परिमिता पदानि .... .... ... .... मनुष्या वदंतीति (*sa hovāca | turīyaṃ turīyaṃ cenmāmabībhajustu rīyameva tarhi vāṅmuruktaṃ vadistyatīti tadetattu rīyaṃ vāco niruktaṃ yanmanuṣyā vadaṃtyathaitattu rīyaṃ vāco 'niruktaṃ yatpaśavo vadaṃtyathaitattu rīyaṃ vāco 'niruktaṃ yadvayāgṃsi vadaṃtyathaitattu rīyaṃ vāco 'niruktaṃ yadidaṃ kṣudragṃsarīsṛpaṃ vadaṃti | tasmādetadṛṣiṇābhranūktaṃ | "catvāri vākparimitā padāni .... .... ... .... manuṣyā vadaṃtīti*) (Ka. Brā. 4-1-3-14) *[as supplied: the reference is abbreviated ಕ. ಬ್ರಾ. in the print; the dots in the quotation are as printed]*
+
+This statement was uttered by Indra. Here the reason is given why only a fourth part is offered to him as his sacrificial share. Three parts of speech are used by worms and insects and by birds and other creatures, so they are not to be understood; only the remaining fourth part is used by human beings, and therefore it is said here that only the sacrificial offering joined with a mantra that can be understood in that fourth part is to be offered to him.
+
+But the meaning according to the *sahāyārtha* is somewhat different from this. *[as supplied: ಸಹಾಯಾರ್ಥ ಅರ್ಥವು as printed; the sentence ends without a full stop]*
+
+*[Label as supplied, garbled: ವ್ಯಾಕರಣ, ಕ್ರಿಯಾ]*
+
+*Grammatical process (ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ)*
+
+*Grammar (transcribed, not explained):* परिमिता (*parimitā*): the root माज् मानॆः (*māj mānèḥ*) (as printed); the suffix kta in the passive; by द्यतिस्यतिमास्थामित्तिकिति (*dyatisyatimāsthāmittikiti*) (Pā. Sū. 7-4-40) the ā of the root becomes i; by गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū 6-2-49 as printed) the gati (pari) takes its own original accent; ṭāp in the feminine. विदुः (*viduḥ*): the root विद ज्ञाने (*vida jñāne*); laṭ, third person plural form; the tiṅ-final nighāta accent results. गुहा (*guhā*): by सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) luk for the locative. निहित (*nihita*): the root डुधाञ् धारणपोषणयोः (*ḍudhāñ dhāraṇapoṣaṇayoḥ*); when a niṣṭhā suffix follows, by दधातेर्हिः (*dadhāterhiḥ*) (Pā. Sū 7-4-42) the substitute ā for the root *[as supplied: ಆ ಆದೇಶ as printed]*; by गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the gati (ni) takes the udātta accent; in the neuter plural, by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-70 as printed) elision of śi.
+
+### Printed p. 625
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೨೨ ] ಋಗ್ವೇದಸಂಹಿತಾ 625 (as supplied).*
+
+*Grammar, continued:* इंगयंति (*iṃgayaṃti*): the root इगि गत् (*igi gat*) *[as supplied: the print has ಗತ್]*; by इदितोनुम् धातोः (*iditonum dhātoḥ*) (Pā. Sū. 7-1-58) the augment num; laṭ after the causative (ṇic); third person plural form; the tiṅ-final nighāta accent results. तुरीयम् (*turīyam*): the word चतुर् (*catur*); by चतुरश्चयतावाद्यक्षरलोपश्च (*caturaścayatāvādyakṣaralopaśca*) the suffix cha; by आयनेयीनी (*āyaneyīnī*) (Pā. Sū. 7-1-2) the substitute īya for it; elision of the letter ca; the suffix has the initial udātta accent. वदंति (*vadaṃti*): the root वद व्यक्तायां वाचि (*vada vyaktāyāṃ vāci*); laṭ, third person plural form; the tiṅ-final nighāta accent results. || 45 ||
+
+#### Ṛk 46
+**॥ संहितापाठः ॥**
+> इंद्रं॑ मि॒त्रं वरु॑णम॒ग्निमा॑हु॒रथो॑ दि॒व्यः स सु॑प॒र्णो॒॑
+> ग॒रुत्मा॑न् ।
+> एकं॒ सद्विप्रा॑ बहु॒धा व॑दंत्य॒ग्निं य॒मं मा॑त॒रिश्वा॑नमाहुः ॥
+> ॥ ४६ ॥
+**॥ पदपाठः ॥**
+> इंद्रं । मित्रं । वरुणं । अग्निं । आहुः । अथो इति । दिव्यः । सः । सुपर्णः ।
+> गरुत्मान् ।
+> एकं । सत् । विप्राः । बहुधा । वदंति । अग्निं । यमं । मातरिश्वानं । आहुः ॥ ४६ ॥
+**॥ सायणभाष्यम् ॥**
+> अमुमादित्यमैश्वर्यविशिष्टमिंद्रमाहुः । तथा मित्रं प्रमीतेर्मरणात्र्यातारमहरभिमानिनमेतन्नामकं देवं तमाहुः । वरुणं पापस्य निवारकं रात्र्यभिमानिनं देवनाहुः । तथाग्निमंगनादिगुणविशिष्टमेतन्नामकमाहुः । अथो अपि
+> चायमेव दिव्यो दिवि भवः सपर्णः सुपतनो गरुत्मान् गरणवान् पक्षवान्वा '
+
+> *amumādityamaiśvaryaviśiṣṭamiṃdramāhuḥ | tathā mitraṃ pramītermaraṇātryātāramaharabhimāninametannāmakaṃ devaṃ tamāhuḥ | varuṇaṃ pāpasya nivārakaṃ rātryabhimāninaṃ devanāhuḥ | tathāgnimaṃganādiguṇaviśiṣṭametannāmakamāhuḥ | atho api*
+> *cāyameva divyo divi bhavaḥ saparṇaḥ supatano garutmān garaṇavān pakṣavānvā '*
+> [40] [Vol. 12
+> [40]                                                                 [ Vol. 12
+
+### Printed p. 626
+*Running head: 626 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨ ಸೂ ೧೬೪.] (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya]
+> एतन्नामको यः पक्षस्ति सोऽप्ययमेव । कथमेकस्य नानात्वमिति उच्यते ।
+> अमुमेवादित्यमेकमेव वस्तुतः संतं विप्रा मेधाविनो देवतातत्त्वविदो
+> बहुधा वदंति । तत्तत्कार्यकारणेनेंद्राद्यात्मानं वदंति । एकैव वा महानात्मा
+> देवता स सूर्य इत्याचक्षत इत्तुक्तत्वात् । किंच तमेव वृष्टादिकारणं वैद्युताग्निं यमं नियंतारं मातरिश्वानमंतरिक्षे श्वसंतं वायुमाहुः । सूर्यस्य
+> ब्रह्मणोऽनन्यत्वेन सर्वात्ममुक्तं भवति । अत्र ये केचदग्निः सर्वा देवताः ।
+> ऐ. ब्रा. २-३. । इत्यादिश्रुतितोऽयमेवाग्निरुत्तरे अपि ज्योतिषी इति मत्वाग्नेरेव
+> सार्वात्मप्रतिपादकोऽयं मंत्र इति वदंति। तत्पक्षे प्रथमोऽग्नि शब्द उद्देश्यः। तमग्निमुद्दीशेंद्राद्यात्मकत्वकथनं । अयं मंत्रो निरुत्त एनं व्याख्यात । इममेवाग्निं महांतमात्मानमेकमात्मानं बहुधा मेधाविनो वदंति इंद्रं मित्रं
+> वरुणमग्निं दिव्यंच गरुत्मत्तं । दित्यो दिविजो गरुत्मान गरणवान् गुर्वात्मा
+> महात्मेति वा । नि ७.१८. । इति ॥
+*Gist:* Sāyaṇa takes the one being as the Sun, called by many names; the Nirukta takes the one as Agni, the great Self, named Indra, Mitra, Varuṇa and the rest.
+*[Label as supplied, garbled: ಪ್ರ,ತಿಪದಾರ್ಥ]*
+**प्रतिपदार्थ (Pratipadārtha)**
+(अमुं (*amuṃ*)—this Āditya) । इंद्रं (*iṃdraṃ*)—as Indra, । मित्रं (*mitraṃ*)—as Mitra, । वरुणं (*varuṇaṃ*)—as Varuṇa, । अग्निं (*agniṃ*)—as Agni, । आहुः (*āhuḥ*)—they call. । अथो (*atho*)—moreover (he himself) । दिव्यः (*divyaḥ*)—the divine Self, । सुपर्णः (*suparṇaḥ*)—one possessed of excellent flight *[as supplied: ವತನ as printed; the Bhāvārtha below has ಪತನ]*, and so । गरुत्मान् (*garutmān*)—is Garutmat. । सद्विप्राः (*sadviprāḥ*)—the wise priests । एकं (*ekaṃ*)—this one Supreme Self, of single nature, । अग्निं (*agniṃ*)—as Agni, । यमं (*yamaṃ*)—as Yama and । मातरिश्वानं (*mātariśvānaṃ*)—as Mātariśvan, । बहुधा (*bahudhā*)—in many ways । आहुः (*āhuḥ*)—call.
+**भावार्थ (Bhāvārtha)**
+*[as supplied: a stray word ಭರತ stands before the paragraph]* They call the one Āditya Indra, Mitra, Varuṇa and Agni. Moreover, he himself is the divine Self, one of excellent flight, who is Garutmat. The wise priests call the one Supreme Self, of single nature, in many ways: Agni, Yama, Mātariśvan.
+**Printed English**
+They have styled (him, the Sun), Indra, Mitra, Varuna, Agni, and
+he is the celestial, well-winged Garutmat, for learned priests call one by
+many names as they speak of Agni, Yama, Matarishwan.
+
+### Printed p. 627
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨.] ಋಗ್ವೇದಸಂಹಿತಾ 627 (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+This Ṛk speaks of an essential unity. It states clearly that Indra and the other deities are all different forms of this one root principle and that there is no essential diversity among them. The meaning is that all the worship that is to be performed addressed to Indra and the other deities is offered to this supreme deity. Sāyaṇa's explanation is that the Āditya (अमुमेवादित्यं (*amumevādityaṃ*)) is this root principle. But the Nirukta-writers have here taken the word एकं (*ekaṃ*) to mean Agni.
+
+इममेवाग्निं महांतमात्मानमेकमात्मानं बहुधा मेधाविनो वदंतींद्रं मित्रं वरुणमग्निं दिव्यं च गरुत्मंतं दिव्यो दिविजो गरुत्मान् गरणवान् गुर्वात्मा महात्मेऽति वा । यस्तु सूक्तं भजते यस्मै हविर्निरूप्यतेयमेव सोऽग्निः (*imamevāgniṃ mahāṃtamātmānamekamātmānaṃ bahudhā medhāvino vadaṃtīṃdraṃ mitraṃ varuṇamagniṃ divyaṃ ca garutmaṃtaṃ divyo divijo garutmān garaṇavān gurvātmā mahātme 'ti vā | yastu sūktaṃ bhajate yasmai havirnirūpyateyameva so 'gniḥ*) (Ni. 7-18)
+
+The knowers of the truth call this very Agni, the great Self, by many names such as Indra, Mitra, Varuṇa, Garutmān. Whatever prayer or oblation is offered by human beings is made with this Agni in view and reaches this very Agni. This matter is stated clearly in the Ṛk-saṃhitā passages themselves. For example:
+
+त्वमग्न इंद्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः । त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या (*tvamagna iṃdro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ | tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā*) (Ṛ. Saṃ. 2-1-3)
+
+O Agni, since you shower the desired objects, you yourself are Indra. You are also Viṣṇu, praised by all. You are Brahmā, who knows the nature of wealth. You are praised with many kinds of praise.
+
+त्वमग्ने राजा वरुणो धृतव्रतस्त्वं मित्रो भवसि दस्म ईड्यः । त्वमर्यमा सत्पतिरस्य संभुजं त्वमंशो विदथे देव भाजयुः (*tvamagne rājā varuṇo dhṛtavratastvaṃ mitro bhavasi dasma īḍyaḥ | tvamaryamā satpatirasya saṃbhujaṃ tvamaṃśo vidathe deva bhājayuḥ*) (Ṛ. Saṃ. 2-1-4)
+
+O Agni, you are Varuṇa of firm vows, you are Mitra, the destroyer of enemies and one worthy of praise, and Aryaman, the giver of what is desired; and Aṃśa, another embodiment of the Sun, is none other than you. You who possess the power of all the gods, become the giver of fruit.
+
+त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे । त्वं नातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना (*tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe | tvaṃ nātairaruṇairyāsi śaṃgayastvaṃ pūṣā vidhataḥ pāsi nu tmanā*) (Ṛ. Saṃ. 2-1-6)
+
+### Printed p. 628
+*Running head: 628 ಸಾಯುಜಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied; the print has ಸಾಯುಜ and ಆ.).*
+
+O Agni, you are Rudra, who drives the Asuras out of the three worlds. You are the host of the Maruts. Being the nourisher and giver of happiness of all, enter the house of sacrifice. In this way it is clearly stated that Agni is the root principle of all the deities. Not only that:
+
+अग्ने नेमिररा इव देवास्त्वं परिभूरसि । आ राधश्चित्रमृंजसे (*agne nemirarā iva devāstvaṃ paribhūrasi | ā rādhaścitramṛṃjase*) (Ṛ. Saṃ. 5-13-6)
+
+In this Ṛk Agni is compared to the felly of a chariot wheel and all the other deities to the spokes of the wheel: just as the felly of a chariot wheel gathers all the spokes together and secures a unity, so Agni too pervades the different deities who show diversity and manifests the one principle in all of them.
+
+By epithets such as *vibhū* and *paribhū* the all-pervasiveness of Agni is indicated. The sacrificial rites and Agni are compared to the pin (axle-nail) and the rims of the chariot. The sacrifice mirrors the principle of the universe. Since the sacrificial altar is the navel of the sacrifice, it is the navel of the whole universe. Agni, established in this navel, is the centre of all the principles of the universe and is all-pervading. The sun, the moon and all the other heavenly bodies keep this centre as the support of their movements.
+
+सर्वाणि ह त्त्वेव भूतानि । सर्वे देवा एषोऽग्निश्चित आपोऽस्मि सर्वे देवास्सर्वाणि भूतानि ता हैता एवैषोऽग्निश्चितस्तस्य नाव्या एव परिश्रितस्ताः षष्टिश्च त्रीणि च शतानि भवंति .... .... .... योऽयं हिरण्मयः पुरुषः (*sarvāṇi ha ttveva bhūtāni | sarve devā eṣo 'gniścita āpo 'smi sarve devāssarvāṇi bhūtāni tā haitā evaiṣo 'gniścitastasya nāvyā eva pariśritastāḥ ṣaṣṭiśca trīṇi ca śatāni bhavaṃti .... .... .... yo 'yaṃ hiraṇmayaḥ puruṣaḥ*) (Ka. Brā 10-5-4-14) *[as supplied: ಕ. ಬ್ರಾ; the dots are as printed]*
+
+In such sentences the Agni who is on the fire-altar is described as pervading all the worlds, as the overseer of all rites, and as the one on whom, as this centre, all the business of the universe depends; and it is declared that this Agni, the Self of the universe, is the Supreme Person of golden form. The epithet हिरण्मयः पुरुषः (*hiraṇmayaḥ puruṣaḥ*) applies to Agni and in many places also to Āditya. Since there is no essential difference between Āditya and Agni, there is no contradiction between Sāyaṇa's saying अमुमेवादित्यं (*amumevādityaṃ*) *[as supplied: the print has ಆಮುಮೇವಾದಿತ್ಯಂ here]* in the present Ṛk and the Nirukta-writers' saying इममेवाग्निं (*imamevāgniṃ*).
+
+The epithet सुपर्णो गरुत्मान् (*suparṇo garutmān*) is noteworthy here. For the word गरुत्मान् (*garutmān*) the Nirukta-writers give the meaning गुर्वात्मा (*gurvātmā*), महात्मा (*mahātmā*), that is, the Supreme Self, the Self of the universe. The epithet *suparṇa* is used very often for the Supreme Self in the Ṛk-saṃhitā.
+
+### Printed p. 629
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨. ] ಋಗ್ವೇದಸಂಹಿತಾ 629 (as supplied).*
+
+सुपर्णं विप्राः कवयो वचोभिरेकं संतं बहुधा कल्पयंति । छंदांसि च दधतो अध्वरेषु ग्रहान्त्सोमस्य मिमते द्वादश (*suparṇaṃ viprāḥ kavayo vacobhirekaṃ saṃtaṃ bahudhā kalpayaṃti | chaṃdāṃsi ca dadhato adhvareṣu grahāntsomasya mimate dvādaśa*) (Ṛ. Saṃ. 10-114-5)
+
+The Supreme Self, of excellent flight and without a second, is conceived by wise human beings in many kinds of imagination, and they praise him. In sacrifices they extol his greatness with praise-sentences in metrical form. In this way, with the epithet *suparṇa*, praise of the Supreme Self is found.
+
+In explaining and examining the exposition of spiritual principles, Western scholars hold that there are three kinds of development in the Ṛk-saṃhitā. Dr. Rādhākṛṣṇan has stated his opinion on this matter in this way.
+
+A religious growth of many centuries can not be a simple and transparent creed admitting of easy definition and classification. A striking aspect of the hymns is their Polytheistic character. A great many gods are named and worshipped. Yet some of the hymns shock us by their highly abstract philosophising and from primitive polytheism to systematic Philosophy, it is a long long way. Three strata of thought can be discerned in the religion of the hymns of the Rig-Veda, which are naturalistic polytheism, monotheism and monism.
+(Indian Philosophy. Vol. I. p. 72)
+
+A philosophical inquiry that has grown over many centuries cannot easily be explained. It is not possible to say precisely that its character is just so. That the doctrine of many deities is set forth in the Ṛk-saṃhitā passages is the first and chief point. Yet it is a marvel to seekers of truth that in some mantras the doctrine of a single deity is set forth, and that this exposition, which is the foundation of non-dualism, is in places a principal element even in the Ṛk-saṃhitā. In the series of philosophical ideas indicated by the Ṛk-saṃhitā passages, three chief steps can be seen. They are:
+
+1. 1) polytheism, which mirrors the principle of nature; *[as supplied: the print has "1." before "೧)"]*
+2) the belief in a single deity, showing unity in the many deities;
+3) non-dualism, which sets forth the one principle.
+
+Having shown these three divisions, he has examined all three points in detail (p. 72-98).
+
+The idea described in the present Ṛk can be placed either in the class called Monotheism or in the class called Monism (non-dualism). Agni or Āditya, one alone, is worshipped in the form of Indra and the other gods; that is,
+
+### Printed p. 630
+*Running head: 630 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+the one deity, of the form of Agni, has accepted the principles of Indra and the other deities and gained unity with them: this is the meaning. Or else the description "एकं सद्विप्रा बहुधा वदंति (*ekaṃ sadviprā bahudhā vadaṃti*)" in the latter half of the present Ṛk sets forth non-dualism. This one principle, which the wise describe in many ways, is stated definitely in many places in the Ṛk-saṃhitā.
+
+न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न आसीत्प्रकेतः । आनीदवातं स्वधया तदेकं तस्माध्वान्यन्न परः किं चनास (*na mṛtyurāsīdamṛtaṃ na tarhi na rātryā ahna āsītpraketaḥ | ānīdavātaṃ svadhayā tadekaṃ tasmādhvānyanna paraḥ kiṃ canāsa*) (Ṛ. Saṃ. 10-129-2)
+
+This one principle is the beginning of the universe and the support of the universe. The greatness and beauty of this non-dual idea Radakrishnan has described in his excellent style in this way.
+
+This One is the soul of the world, the reason immanent in the Universe, the source of all nature, the eternal energy. It is neither heaven, nor the earth, neither sun-shine nor storm, but another essence, perhaps the Rita substantiated. the Aditi spiritualised the ONE breathing breathless. It is the supreme reality which lives in all things and moves them all, the real one that blishes [sic] in the rose, breaks into beauty in the clouds, shows its strength in the storms and sets the stars in the sky.
+(Indian Philosophy, p. 95-)
+
+This One is the Self of the universe, the power of consciousness within the universe, and the support of the power of the universe. It is not merely the earth, nor the atmosphere, nor the light of the sun, nor a physical force of nature, as described in many other Ṛks. That Brahman-principle, whose existence the Bṛhadāraṇyaka establishes through the negative sentences "neti neti" (not this, not this), is the cosmic consciousness. The universal principle described elsewhere as Ṛta and Aditi is here praised. This power, which fills the many living beings of the universe with the principle of life, is all-pervading. Explaining this same point, Prof. Max Müller has stated his opinion in this way:
+
+" Whatever is the age when the collection of our Rig-Veda Samhita was finished it was before that age that the conviction had been formed that there is but ONE, ONE being, neither male nor female, a Being raised high above all the conditions and limitations of personality and of hyman [sic] nature, and nevertheless the being that was really meant by al [sic] sucn [sic] names as Indra, Agni, Matariswan, nay, even by the name of Prajapati, Lord of creatures; In fact, the Vedic poets had arrived at a conception of the god-head which was reached nnce [sic] more by some of the christian Philosophers at Alexandria, but which even at present is beyond the reach of many who call themselves Christians "
+(Six Systems of Indian Phylosophy [sic], p. 51-52)
+
 ---
 
-**Progress note:** Done through printed p. 623. pp. 618-623: Special Topics of Ṛk 45 (vyāhṛtis, Tai. U., Chā. U., Nirukta fourfold divisions of speech)
+**Progress note:** Done through printed p. 630. Ṛk 1.164.45 end (Śatapatha, grammar), Ṛk 46 with Special Topics on unity of gods
