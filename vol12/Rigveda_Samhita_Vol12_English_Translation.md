@@ -11771,6 +11771,123 @@ Here the word vatsa is given the meaning Āditya. It comes to this: for marking 
 > तां स्वरूपं प्रदर्शयेति पप्रच्छ । सा चायं स शिंक्त इत्येषा मद्देवता तत्र प्रतीयमानं मत्स्वरूपमित्युपदिदेश । नि. २-८ । कथमत्तोभयलिंगत्वं वस्तुत उभयलिंगत्वे कथं दैवतैक्यमिति उच्यते। अत्रोभयलिंगत्वमुभयथा संभवति स्त्रीपुल्लिंगद्वयेन मध्यनोत्तमलिंगद्वयेन च। तत्कथं। आयं स येनेति पुल्लिंगवाजिना शब्द-
 *Gist:* The calf cries; the cow, encircled by him, makes a sound, humbles mortals by her care, and shows her form like lightning; Śākapūṇi's anecdote of the deity follows (continues on the next page).
 
+### Printed p. 479
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೯. ] Ṛgveda-saṃhitā 479 (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya of Ṛk 29 from the previous page; the sentence breaks off at the end of the last line of p. 478 and goes on in the block below.]
+> त्रयेण मेघः प्रतीयते । अधि श्रिता सेत्यादिना स्त्रीलिंगवाचकेन माध्यमिका वाक् ।
+> आत उभयलिंगत्वं । तथा विद्युद्भवंतीत्यंतं मध्यमलिंगं तत्र मेघस्तनितयोर्माध्यमिकयोः प्रतीतेः । तथा सति वत्रिमौहतेत्यत्र वर्षेण पृथिवीं प्रच्छाद्य
+> तस्या रसं प्रत्यादत्त इत्ययमर्थो विवक्षितः । स चादित्यव्यापार इत्युत्तमलिंगत्वं ।
+> तर्हि वस्तुत उभयलिंगत्वप्रतीतेरुभे अपि देवते यल्लिंगं सा देवता । अनु. ऋ.
+> १.१३९ । इति न्यायात् आतः कथमेकदेवतासिद्धिरिति आयं स येनेत्येषां व्यत्ययाश्रयणेन सर्वदेवतानामधिष्ठात्मिकाया एकत्वाश्रयणेन वा सर्वफलदात्रात्मन
+> एकत्वाश्रयणेन वा देवतैक्योपपत्तेः । अनेन मध्यमोत्तमभेदेनोभयलिंगत्वपेक्षेऽपि देवतैक्यमुक्तं भवति । आत एकैव वा महानात्मा देवतेत्युक्तत्वाद्वस्तुतो
+> देवतैक्यं अधिष्ठात्रधिष्ठानभेदेन भेदश्च न विरुध्यते ॥ अयं स शिंक्ते । इयं सा
+> माध्यमिकाया वाचोऽधिष्ठाश्री देवता शिंक्ते । अव्यक्तध्वनिं करोति । यीन गौरभीवृता । गौरिति वाज्ञाम । माध्यमिका वाग्ययाभिवृता अभितो व्याप्ता । अधिष्ठितेत्यर्थः ।
+> सेयं शिंक्ते । अथवा । अयं स शिंक्त इति नैव माध्यमिका वाङ्मुर्दिश्यते अपि तु
+> मेघः । तस्यां वाचि शिंजानायां स एव शिंक्त इत्युपचर्यते मंचाः क्रोशंतीतिवत् । अयं स मेघः शब्दं करोति येन माध्यमिका वागभिव्याप्ता । शब्दने प्रकार
+> एवोच्यते । मिमाति मायुं । स्तनितलक्षणं शब्दं करोति । अथवायं । लुप्तोपमा । मिनोति स्वतेजः सर्वत्र प्रक्षिपतीति मायुरादित्यः । तमिवातिदीप्तं करोतीत्यर्थः । अथवा सामर्थ्यदात्मानमादित्यसदृशं निर्मिमिते । कुत्र स्थिता । ध्वसनावधि
+> श्रिता । ध्वंसने मेघेऽधिश्रिता । सेदृशी चित्तिभिः । कर्मनामैतत् । स्वकर्मभिर्वृष्टिरूपैर्मर्तं मरणधर्माणं स्थावरजंगमरूपं कृत्स्नं जगन्नि हि चकार । नीचैः
+> करोति मनुष्यान्प्रणतान्यरोशि । ओषध्यादिकं फलेनावनतं करोति । अथवा चित्तिभिर्द्योतनलक्षणैः कर्मभिः । विद्युति विद्योतमापद्यमाना प्रति वत्रिमौहत । वत्रिरिति
+> रूपनाम । ऊहतिरत्र सामर्थ्यादुपसंहारवाची । प्रत्युपसंहरति । उदकलक्षणं
+> रूपं पुनरादत्ते । रश्मिद्वारा वृष्टमुदकं पुनर्घर्मकाल आदत्ते । एकस्यॆव
+> ज्योतिषस्त्रेधाकरणाद्विद्युतः सूर्यरश्मिभाव उपपद्यते तमू अकृष्णन्नेधा भुवे
+> कं । ऋ. १०-८८-१० । इति वक्ष्यमाणत्वात् । स्तनितस्य विद्युद्धावो मेघविद्युत्सनितानामभेदाभिप्रायेण ॥
+*Gist:* The deity is of both genders (masculine cloud, feminine middle speech, Āditya); her unity is defended; "ayaṃ sa śiṅkte" is read of speech or of the cloud.
+
+*[as supplied: a garbled label "ಪ್ರಸಿದ್ಧಾರ್ಥ" stands here in the print before the Pratipadārtha; the script has read it as the label Pratipadārtha. Inside the bhāṣya block the variants "ವತ್ರಿಮೌಹತ" and "ವನ್ರಿ", the reference "ಅನು. ಋ. ೧.೧೩೯" and "ಋ. ೧೦-೮೮-೧೦" are kept as printed.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+येन (*yena*)—by which calf; गौः (*gauḥ*)—the mother cow; अभीवृता (*abhīvṛtā*)—is encircled; सः अयं (*saḥ ayaṃ*)—this calf too; शिंक्ते (*śiṃkte*)—(indicating satisfaction) makes an indistinct sound; ध्वसनावधि (*dhvasanāvadhi*)—in the cowshed her place [!]; श्रिता (*śritā*)—this cow, which has taken refuge in it and stands there; मायुं (*māyuṃ*)—(in return) the sound; मिमाति (*mimāti*)—makes; सा (*sā*)—that cow; चित्तिभिः (*cittibhiḥ*)—by her natural knowledge of affection; मर्त्यं (*martyaṃ*)—the human being; नि चकार हि (*ni cakāra hi*)—puts below (showed a love greater than that of a human being); विद्युद्भवंती (*vidyudbhavaṃtī*)—shining exceedingly; वविं (*vaviṃ*)—her own form; प्रत्याहत (*pratyāhata*)—manifests.
+
+### Printed p. 480
+*Running head: 480 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*[the Pratipadārtha continues from the previous page: the word "ಶ್ರಿತಾ—ಆಶ್ರಯಿಸಿ ನಿಂತುಕೊಂಡಿರುವ ಈ ಧೇನುವು" is completed above.]*
+
+*[as supplied: "ವವಿಂ" for "ವವ್ರಿಂ" and "ಪ್ರತ್ಯಾಹತ" for "ಪ್ರತ್ಯೌಹತ" are printed so in the Pratipadārtha, with a stray full stop before the latter.]*
+
+**भावार्थ (Bhāvārtha)**
+*[as supplied: the print gives here the label "ಪದಪಾಠಃ" for what is the Bhāvārtha paragraph in Kannada prose; it was read as the label Bhāvārtha.]*
+As soon as the mother has come, the calf encircles her and makes a sound indicating its satisfaction. The cow, who stands in the cowshed having taken her place, also makes a sound in answer to it. When that cow shows her natural love, she shows a knowledge of affection that is superior even to that of a human being. And she manifests her own form, which shines exceedingly.
+
+**Printed English**
+He, too, bellows, and the cow utters inarticulate sounds, as, encompassed by him, she repairs to her stall; (influenced) by her instincts, she acts like a human being, and, radiant, manifests her nature.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk the nature of the natural affection of the cow, which shows a love greater than the love of human beings, and her shining and attractive form filled with such affection, are described. That is explained by the explanation वव्रिमौहत रूपं प्रकाशयति (*vavrimauhata rūpaṃ prakāśayati*). But since other meanings have been stated here for the word gauḥ, it must be understood what kind of vavri is meant. The Nirukta-kāras, explaining the derivation of this word, say
+
+वविरिति रूपनाम ; वृणोतीति सतः (*vaviriti rūpanāma ; vṛṇotīti sataḥ*) (Ni. 9-9)
+
+This word is formed from the root vṛ, which gives the meaning "cover"; therefore it is also read among the names of form; they have quoted the present Ṛk itself and told the meaning of this word. Besides this, they have also discussed the deep meaning of the present Ṛk, and, in telling its purport, have mentioned other views.
+
+When explaining the meaning of this Ṛk the Nirukta-kāras first state a scene of a story and afterwards explain the Ṛk. It is this:
+
+### Printed p. 481
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೧೯ ] Ṛgveda-saṃhitā 481 (as supplied).*
+
+शाकपूणिः संकल्पयां चक्रे— “ सर्वा देवता जानामी ”ति । तस्मै देवतोभयलिंगा प्रादुर्बभूव । तां न जज्ञे ; तां पप्रच्छ विविदिषाणि त्वैति । सास्मा एतामृचमादिदेशैषा मद्देवतेति (*śākapūṇiḥ saṃkalpayāṃ cakre— “ sarvā devatā jānāmī ”ti | tasmai devatobhayaliṃgā prādurbabhūva | tāṃ na jajñe ; tāṃ papraccha vividiṣāṇi tvaiti | sāsmā etāmṛcamādideśaiṣā maddevateti*) (Ni. 2-8)
+
+Śākapūṇi resolved, "I shall know all the deities." Then a deity endowed with both genders appeared before him. He did not know the true nature of that deity. When he prayed, "Tell me your nature rightly", the deity pointed to the present Ṛk "ayaṃ sa śiṅkte" and told him that the deity to whom this Ṛk is addressed in praise is to be understood as herself, and that this mantra is meant for herself. But because the meaning of the Ṛk is not easy to understand, and therefore because it is hard to know who that deity really is, the Nirukta-kāras have explained its meaning.
+
+अयं स शब्दायते येन गौरभिप्रवृत्ता मिमाति मायुं शब्दं करोति मायुमिवादित्यमिति वा । वागेषा माध्यमिका ध्वसने मैघेऽधिश्रिता । सा चित्तिभिः कर्मभिनीर्चैर्निकरोति मर्त्यं विद्युद्भवंती प्रत्यूहते वन्रिं । वन्रिरिति रूपनाम वृणोतिति सतः । वर्षेण प्रच्छाद्य पृथिवीं तत्पुनरादत्ते (*ayaṃ sa śabdāyate yena gaurabhipravṛttā mimāti māyuṃ śabdaṃ karoti māyumivādityamiti vā | vāgeṣā mādhyamikā dhvasane maighe 'dhiśritā | sā cittibhiḥ karmabhinīrcairnikaroti martyaṃ vidyudbhavaṃtī pratyūhate vanriṃ | vanririti rūpanāma vṛṇotiti sataḥ | varṣeṇa pracchādya pṛthivīṃ tatpunarādatte*) (Ni. 2-9)
+
+Here gauḥ is understood as the middle speech (mādhyamikā vāk), and vāyu as Āditya. It is understood either that as soon as the sound is made by the thunder of the cloud, the middle speech, which is encircled by it, herself also imitates that sound, or that she herself also makes her own body shining like Āditya. वायुरादित्यो भवति सर्व भूतनिर्माता (*vāyurādityo bhavati sarva bhūtanirmātā*)—Durgācārya has explained that Āditya is named Vāyu because he is the maker of all beings. Taking refuge in the cloud that produces the thundering sound, and scolding human beings by her actions in the form of sound and making them humble, she herself also takes the form of lightning and hides her own nature. वन्रिमौहत (*vanrimauhata*) means "she obtained her own form again": that is, after first making the earth covered by rain, she afterwards draws back the same water to herself by means of rays and the like.
+
+Explaining तत्पुनरादत्ते (*tatpunarādatte*) Durgācārya says:
+
+विद्युदात्मना मेघस्थाने स्थित्वा वर्षति । अदित्यात्मना द्युस्थाने स्थित्वा पुनरादत्त इत्यभिप्रायः (*vidyudātmanā meghasthāne sthitvā varṣati | adityātmanā dyusthāne sthitvā punarādatta ityabhiprāyaḥ*)
+
+and the sentence goes on (at the end of the page, in the form of lightning)
+
+*[as supplied: "ಮೈಘೇ" stands so in the Nirukta passage; "ಅದಿತ್ಯಾತ್ಮನಾ" is printed with a short a; the passage printed "ಕರ್ಮಭಿನೀರ್ಚೈರ್ನಿಕರೋತಿ" is kept; "ಅಭಿಪ್ರಾಯಃ । ವಿದ್ಯುದ್ರೂಪದಲ್ಲಿ" runs on into the Kannada; the stray line "[31] [Vol. 12" at the foot of the page is kept as supplied.]*
+
+### Printed p. 482
+*Running head: 482 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+—in the form of lightning she stays in the place of the cloud and pours rain, and afterwards, staying in the heaven-world in the form of Āditya, she sucks up the same water again: this is the meaning, it is told.
+
+Sāyaṇa has explained in this connection, by showing those doubts and answers, very fully.
+
+शाकपूणिर्नाम निरुक्ताचार्यः सकलमंत्रदेवता जानामीति अभिमानितवान् (*śākapūṇirnāma niruktācāryaḥ sakalamaṃtradevatā jānāmīti abhimānitavān*)—the Nirukta teacher named Śākapūṇi showed the pride that he would know fully the nature of the deity of all mantras; then that deity, taking her form of both genders, appeared, and when, not knowing her nature, he prayed humbly that she should tell him, she said "understand her to be the deity pointed to in the present Ṛk"; having stated this as the Nirukta-kāras said above, Sāyaṇa then, in explaining the meaning of the present Ṛk, states one by one the objections that may arise and gives his own answers.
+
+दुर्ज्ञेयस्य तत्त्वस्य स्वरूपमसौ जानाति किल एनं व्यामोहयामीति मनसि कृत्वा संदिग्धोभयलिंगदेवता प्रादुरासीत् (*durjñeyasya tattvasya svarūpamasau jānāti kila enaṃ vyāmohayāmīti manasi kṛtvā saṃdigdhobhayaliṃgadevatā prādurāsīt*)—a deity, doubtful and of both genders, appeared, intending to bewilder Śākapūṇi, who, filled with self-conceit, had shown his boldness in saying that he would know the hard-to-know truth. When this is said, an objection arises.
+
+कथमत्र उभयलिंगत्वं ; वस्तुतः उभयलिंगत्वे कथं दैवतैक्यं (*kathamatra ubhayaliṃgatvaṃ ; vastutaḥ ubhayaliṃgatve kathaṃ daivataikyaṃ*). "How is there both-genderedness here? If there is a form consisting of two genders, how can it be called one deity?" Such a doubt is natural here; having stated it, he has given the answer with उच्यते (*ucyate*) in this way. How there is both-genderedness here:—
+
+अत्र उभयलिंगत्वं उभयथा संभवति । स्त्रीपुंलिंगद्वयेन मध्यमोत्तम लिंगद्वयेन च (*atra ubhayaliṃgatvaṃ ubhayathā saṃbhavati | strīpuṃliṃgadvayena madhyamottama liṃgadvayena ca*). Here the both-genderedness may be of two kinds. First, there may be a union of the feminine and masculine genders; or, second, there may be a pair of genders, "middle and highest", that is, a difference of lower and higher in occupying a place. These too are a pair of genders, he says; and, understanding that this explanation also is not so clear, he has made the point clearer still by showing examples.
+
+By the masculine word ‘ಅಯಂ ಸ ಯೇನ’ the cloud is understood. By the description ‘ಅಧಿಶ್ರಿತಾ ಸಾ’ the deity called middle speech (mādhyamikā vāk), indicated by the feminine, is pointed to. Therefore it is of both genders. Second:—तथा विद्युद्भवंतीत्यंतं मध्यमलिंगं तत्र मेघस्तनितयोर्माध्यमिकयोः प्रतीतेः (*tathā vidyudbhavaṃtītyaṃtaṃ madhyamaliṃgaṃ tatra meghastanitayormādhyamikayoḥ pratīteḥ*). The middle region, the atmosphere,
+
+### Printed p. 483
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೯. ] Ṛgveda-saṃhitā 483 (as supplied).*
+
+—when it is said "shining with the lightning-form belonging to the cloud which has taken refuge in it", this indicates the middle gender. The word of the cloud too confirms this very point. And likewise, by ‘ವವಿಮೌಹತ’ [as printed], when it is said that having made the earth covered by rain, she afterwards draws it back, this becomes an act of Āditya. स च आदित्यव्यापार इत्यत्तमलिंगत्वं (*sa ca ādityavyāpāra ityattamaliṃgatvaṃ*): since this is an act of Āditya, it indicates the highest gender. Therefore, seen from the point of view of the pair feminine–masculine, it is of both genders; or, seen from the point of view of the pair of genders of the middle and highest forms, the deity here is of both genders. When both-genderedness is established, then, there being the rule that the deity indicated by the gender that stands is different from another deity—उभे अपि देवते (*ubhe api devate*), यल्लिंगं सा देवता (*yalliṃgaṃ sā devatā*)—since there are here two genders, there are two deities. अतः कथ एकदेवतासिद्धिः (*ataḥ katha ekadevatāsiddhiḥ*)—therefore how is the oneness of the deity established here? How can it be said that the deity indicated in the present Ṛk is one only? He states that this objection is just, and then, giving an answer to that objection, he supports that the present Ṛk indicates one deity only. How is that?:—
+
+इत्येतेषां व्यत्ययाश्रयणेन सर्वदेवतानां अधिष्ठात्मिकायाः एकत्वाश्रयणेन वा सर्वफलदात्मेन एकत्वाश्रयणेन वा देवतैक्योपपत्तेः (*ityeteṣāṃ vyatyayāśrayaṇena sarvadevatānāṃ adhiṣṭhātmikāyāḥ ekatvāśrayaṇena vā sarvaphaladātmena ekatvāśrayaṇena vā devataikyopapatteḥ*)
+
+Here, even though there are forms different from one another in the shapes of lightning, Āditya, cloud and so on, the support of all the forms is one deity only, and the one who gives fruit by all the forms is also one deity only. Here, although the forms are held separately according to practical situations and indicate difference of gender, yet, as is said in the sentence एकैव वा महानात्मा देवता (*ekaiva vā mahānātmā devatā*), "the one great Self, the deity", that which is the Self of everything is one deity only; so here too the original deity is the one substratum of all the special deities in all the forms. Therefore, he gives the answer that here difference of gender does not show difference of deity. How?:—
+
+अयं स शिंक्ते (*ayaṃ sa śiṃkte*) means: the deity who presides over this middle speech makes an indistinct sound. येन गौरभीवृता (*yena gaurabhīvṛtā*): gauḥ is a name of speech, as the text says; the middle speech is that by which she is encircled, pervaded on all sides, presided over. Here, for ‘ಯೇನ’ there is a change of gender (liṅga-vyatyaya) and it becomes ‘ಯಯಾ’. That is, the one who is encircled by the deity of the form of the presiding one is "that one", so the meaning is that "she makes the sound ‘ಸಾ ಇಯಂ ಶಿಂಕ್ತೇ’".
+
+Or,—अयं स शिंक्त इति नैव माध्यमिका वाक् निर्दिश्यते अपि तु मेघः (*ayaṃ sa śiṃkta iti naiva mādhyamikā vāk nirdiśyate api tu meghaḥ*). Because the word ‘ಅಯಂ’ stands here, it is not the middle speech; the meaning is that the cloud makes a sound. If it is so said,
+
+### Printed p. 484
+*Running head: 484 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+that too may be. It becomes a figurative statement. How? When it is said मंचाः क्रोशंति (*maṃcāḥ krośaṃti*), instead of saying that the men on the platforms cry out, it is the custom to say that the platforms themselves cry out. In the same way here too, instead of saying that the deity in the cloud makes a sound, it is said that the cloud itself makes a sound; therefore there is no fault of principle here. The special sound produced by this deity, who manifests oneness in all the forms although there are differences of form, is thus described. शब्दने प्रकार एवोच्यते (*śabdane prakāra evocyate*)—what the manner of this sound is:
+
+मिमाति मायुं (*mimāti māyuṃ*)—स्तनितलक्षणं शब्दं करोति (*stanitalakṣaṇaṃ śabdaṃ karoti*): she makes a sound in the form of thunder. मिनोति स्वतेजः सर्वत्र प्रक्षिसतीति मायुरादित्यः (*minoti svatejaḥ sarvatra prakṣisatīti māyurādityaḥ*) and तमिव अतिदीपं करोतीत्यर्थः (*tamiva atidīpaṃ karotītyarthaḥ*): or here the meaning can be made by showing an elided simile (luptopamā): Āditya is named Vāyu because he spreads his own brilliance everywhere; the deity too, like the māyu, makes her own form exceedingly shining. Or it may also be understood that she makes her own form like that of Āditya. Having asked "where does she stand?",
+
+ध्वसनावधि श्रिता । ध्वंसने मॆघेऽधिश्रिता (*dhvasanāvadhi śritā | dhvaṃsane mèghe 'dhiśritā*): he has shown the support: "taking her place in the cloud". Of such a deity it is said चित्तिभिः मर्त्यं नि चकार (*cittibhiḥ martyaṃ ni cakāra*).
+
+चित्तिभिः कर्मनामैतत् स्वकर्मभिः वृष्टिरूपैः मर्त्यं मरणधर्माणं स्थावरजंगमरूपं कृत्स्नं जगत् नि हि चकार नीचैः करोति । मनुष्यान् प्रणतान् करोति । ओषध्यादिकं फलेन अवनतं करोति (*cittibhiḥ karmanāmaitat svakarmabhiḥ vṛṣṭirūpaiḥ martyaṃ maraṇadharmāṇaṃ sthāvarajaṃgamarūpaṃ kṛtsnaṃ jagat ni hi cakāra nīcaiḥ karoti | manuṣyān praṇatān karoti | oṣadhyādikaṃ phalena avanataṃ karoti*): by her own actions in the form of rain [chittibhiḥ means "by actions"] she makes the whole world, consisting of the immovable and the movable, bow down; she makes human beings humble, and plants and the like bow down with the abundance of fruit: this is the meaning. Or, चित्तिभिः द्योतनलक्षणैःकर्मभिः (*cittibhiḥ dyotanalakṣaṇaiḥkarmabhiḥ*): by actions of the form of shining, is the meaning. First appearing with her own light in the form of lightning, and afterwards, by means of her own rays, drawing up and holding the water, she takes her natural form: this is the meaning. Therefore here the one deity of the nature of light takes three kinds of forms. How is that?:—
+
+स्तोमेन हि दिवि देवासो अग्निमजीजनञ्क्तिभी रोदसिप्रां । तमू अकृण्वन्त्रेधा भुवे कं स ओषधीः पचति विश्वरूपाः (*stomena hi divi devāso agnimajījanañktibhī rodasiprāṃ | tamū akṛṇvantredhā bhuve kaṃ sa oṣadhīḥ pacati viśvarūpāḥ*) (Ṛ. Saṃ. 10-88-10)
+
+The gods, by the help of their praise in the form of stoma, made Agni, who pervades all Heaven and Earth, shine in three forms. The one deity on the earth, in the atmosphere (continues on the next page).
+
+*[as supplied: "ಅಥವಾ ಇಲ್ಲಿ ಲುಪ್ತೋಪಮೆಯನ್ನು…", "ಪ್ರಕ್ಷಿಸತೀತಿ", "ಮೆಘೇಽಧಿಶ್ರಿತಾ", "ಕುತ್ರೆ", "ಔಷಧ್ಯಾದಿ", "ಇಲ್ಲಿಯಾ ಸಹ", "ದೆವತೆಯು" are kept as printed; the quotation "ಸ ಚ ಆದಿತ್ಯವ್ಯಾಪಾರ ಇತ್ಯತ್ತಮಲಿಂಗತ್ವಂ" has "ಇತ್ಯತ್ತಮ" where the bhāṣya block has "ಇತ್ಯುತ್ತಮ". The Ṛk is cut at the end of p. 484 in the print ("ಅಂತರಿಕ್ಷನ" …) and continues in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 478. Ṛk 27 end and grammar; Ṛk 28 with Special Topics and grammar; Ṛk 29 begun
+**Progress note:** Done through printed p. 484. Ṛk 29 bhāṣya end, pratipadārtha, bhāvārtha, Nirukta and Śākapūṇi discussion (begun)
