@@ -11306,6 +11306,161 @@ and so on. Praising Prajāpati's power of upholding, in the Ṛk-saṃhitā too:
 
 दिवो धर्ता भुवनस्य प्रजापतिः पिशंगं द्रापिं प्रति मुंचते कविः । विचक्षणः प्रथयन्ना पृणन्नुर्वजीजनत्सविता सुम्ममुक्थं (*divo dhartā bhuvanasya prajāpatiḥ piśaṃgaṃ drāpiṃ prati muṃcate kaviḥ | vicakṣaṇaḥ prathayannā pṛṇannurvajījanatsavitā summamukthaṃ*) (Ṛ. Saṃ. 4-53-2)
 
+### Printed p. 461
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೮ ] Ṛgveda-saṃhitā 461 (as supplied).*
+
+It is said that Prajāpati not only established the sun and the rest in the heaven-world, but is also the upholder of all the worlds. Here Sāyaṇa has explained the word प्रजापतिः (*prajāpatiḥ*) as प्रजानां प्रकाशवृष्ट्यादिना पालयिता (*prajānāṃ prakāśavṛṣṭyādinā pālayitā*) (the protector of creatures by light, rain and the like). The sense is that he keeps the waters of rain and the like under his own rule and distributes them, and that, establishing the orbs of light such as Āditya in the atmosphere, he distributes light to the world. Therefore in the present Ṛk the words सिंधुं दिव्यस्तभायत् (*siṃdhuṃ divyastabhāyat*) may be explained either as "at the time of creation he set the waters in an orderly manner" or as "he established Āditya in the heaven-world".
+
+रथंतरे सूर्यं पर्यपश्यत् (*rathaṃtare sūryaṃ paryapaśyat*)—having explained this as "Prajāpati saw the Āditya who was fixed in the Sāman called Rathantara", [Sāyaṇa] cites the Ṛk
+
+अभि त्वा शूर नोनुमोऽदुग्वा इव धेनवः । ईशानमस्य जगतः स्वर्दृशमीशानमिंद्र तस्थुषः (*abhi tvā śūra nonumo 'dugvā iva dhenavaḥ | īśānamasya jagataḥ svardṛśamīśānamiṃdra tasthuṣaḥ*) (Ṛ. Saṃ. 7-32-22)
+
+and, explaining the word स्वर्दृशं (*svardṛśaṃ*) occurring there as सूरप्रतिपादकशब्द दर्शनात् (*sūrapratipādakaśabda darśanāt*), that is, "from the sight of a word that denotes the Sun", he has supported the meaning he has given here. But the word स्वर्दृशं (*svardṛśaṃ*) is an epithet of Indra. For it the meaning "सर्वदृशं (*sarvadṛśaṃ*), Indra who sees everything" (one may also say "the omniscient Indra") has been given. What kind of similarity can be said to exist between the meaning of the present Ṛk and this example cannot be understood if one looks only from a gross point of view. But continuing the same explanation, [Sāyaṇa] cites the sentence
+
+ईशानमस्य जगतः स्वर्दृशमित्यसौ नावस्वर्दृक् तेन सूर्यं नातिशंसति (*īśānamasya jagataḥ svardṛśamityasau nāvasvardṛk tena sūryaṃ nātiśaṃsati*) (Ai. Brā. 4-10)
+
+and has stated that, just as there the meaning is made to refer to the Sun and the relation between the Rathantara-sāman and the Sun is shown, so also in the present Ṛk the relation between the Rathantara-sāman and Āditya is shown and the sight of Āditya had by Prajāpati is described. In the same passage of the Aitareya Brāhmaṇa:
+
+अभि त्वा शूर नोनुम इति राथंतरीं योनिं शंसति राथंतरेण वै संधिनाश्विनाय स्तुवते तद्यद्रांथंतरीं योनिं शंसति रथंतरस्यैव सयोनित्याय (*abhi tvā śūra nonuma iti rāthaṃtarīṃ yoniṃ śaṃsati rāthaṃtareṇa vai saṃdhināśvināya stuvate tadyadrāṃthaṃtarīṃ yoniṃ śaṃsati rathaṃtarasyaiva sayonityāya*) (Ai. Brā. 4-10)
+
+thus the hidden meaning of the Ṛk अभि त्वा शूर (*abhi tvā śūra*) (7-32-22) cited above from the Ṛk-saṃhitā is explained: this mantra is the womb (yoni) of the Rathantara-sāman. This womb is a means of seeing Ā- *[the sentence continues on the next page]*
+
+### Printed p. 462
+*Running head: 462 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+-ditya. It is explained that the same meaning is conveyed also by the mantra-part रथंतरे सूरं पर्यपश्यत् (*rathaṃtare sūraṃ paryapaśyat*).
+
+रथंतरे प्रस्तुयमाने संमीलयेत् स्वर्दृशं प्रति वीक्षेत (*rathaṃtare prastuyamāne saṃmīlayet svardṛśaṃ prati vīkṣeta*) (ता. ब्रा. (*tā. brā.*) 7-7-15)
+
+This point is taught also in sentences such as this.
+
+*[as supplied: the reference abbreviation is printed "ತಾ. ಬ್ರಾ."]*
+
+गायत्रस्य समिधः तिस्रः (*gāyatrasya samidhaḥ tisraḥ*)—गायत्रामुत्पन्नस्य साम्नः तिस्रः विभक्तीः । पादत्रयमाहुः (*gāyatrāmutpannasya sāmnaḥ tisraḥ vibhaktīḥ | pādatrayamāhuḥ*): for the Sāman produced from the Gāyatrī it is a matter known that it has three pādas. Yet it is understood that there is another, secret meaning there also.
+
+गायत्रीमनुवाक्यामन्वाह । त्रिपदा वै गायत्री त्रय इमे लोका इमानेवैतच्छोकान्तेवाः प्रत्यष्ठापयन् (*gāyatrīmanuvākyāmanvāha | tripadā vai gāyatrī traya ime lokā imānevaitacchokāntevāḥ pratyaṣṭhāpayan*) (श. ब्र, (*śa. bra,*) 11-2-2-1)
+
+*[as supplied: the reference is printed "ಶ. ಬ್ರ," with a comma; the wording "ಇಮಾನೇವೈತಚ್ಛೋಕಾನ್ತೇವಾಃ" is as printed.]*
+
+The pādas of the Gāyatrī are three in number; the well-known worlds also are three in number. By this the gods established these three worlds.
+
+गायत्रै गायत्रमिति गायत्रै छंदसो गायत्रग्ं साम निरमिमीत (*gāyatrai gāyatramiti gāyatrai chaṃdaso gāyatragṃ sāma niramimīta*) (श. ब्रा. (*śa. brā.*) 8-1-1-5)
+
+*[as supplied: in the print the closing bracket after "ನಿರಮಿಮೀತ" stands before the reference, and the reference lacks its closing bracket and ends in a danda.]*
+
+Since its description is such, "from this Gāyatrī, consisting of three pādas, he fashioned the Gāyatra-sāman", and so on, one meaning can be stated here: गायत्र्यामुत्पन्नस्य साम्नः तिस्रः विभक्तीः (*gāyatryāmutpannasya sāmnaḥ tisraḥ vibhaktīḥ*); or तिस्रः ऋच आहुः (*tisraḥ ṛca āhuḥ*), "they say three Ṛks", is another meaning which can be given. So it is stated.
+
+ततः मह्ना महित्वा प्ररिरिचे (*tataḥ mahnā mahitvā praririce*)—बलेन महत्वेन अन्यानि सामानि पृथक् निर्मितवान् (*balena mahatvena anyāni sāmāni pṛthak nirmitavān*): one kind of meaning is that by its strength and its greatness he fashioned the other Sāmans separately. How is that? Thus:
+
+गायत्री वा इदं सर्वं भूतं यदिदं किंच वाग्नै गायत्री (*gāyatrī vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiṃca vāgnai gāyatrī*) (छा. उ. (*chā. u.*) 3-12-1)
+
+The Gāyatrī is the support of all beings, and the Gāyatrī is also the support of speech. Therefore,
+
+गायत्री च्छंदसां माता (*gāyatrī cchaṃdasāṃ mātā*) (म ना. उ. (*ma nā. u.*) 15-1)
+
+the Gāyatrī is praised also as the mother of all metres. Likewise,
+
+*[as supplied: the references are printed "ಛಾ. ಉ." and "ಮ ನಾ. ಉ."; the sentence "Likewise," ends the page and continues on p. 463.]*
+
+### Printed p. 463
+*Running head: [ಅ. ೨. ಆ. .೩ ವ. ೧೮] Ṛgveda-saṃhitā 463 (as supplied).*
+
+अथातः शिरः । तद्गायत्रीषु भवत्यग्रं वै छंदसां गायत्र्यग्रमंगानां शिरः (*athātaḥ śiraḥ | tadgāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatryagramaṃgānāṃ śiraḥ*) (ऐ. आ. (*ai. ā.*) 1-4-1)
+
+It is taught that, as the head is the chief of all the limbs of the body, so the Gāyatrī is the chief of all the metres, and that afterwards, on its basis, the remaining metres were produced. That, just as the Gāyatra-sāman was fashioned from the Gāyatrī metre, so separate Sāmans were fashioned from the remaining metres also, is stated in the Taittirīya Saṃhitā in this way:
+
+अयं पुरो भुवस्तस्य प्राणो भौवायनो वसंतः प्राणायनो गायत्री वासंती गायत्रियै गायत्रं .... .... । अयं दक्षिणा विश्वकर्मा तस्य मनो वैश्वकर्मणं ग्रीष्मो मानसस्तिष्टुग्ग्रॆष्मी त्रिष्टुभ ऐडं .... .... । अयं पश्चाद्विश्वव्यचास्तस्य चक्षुर्वैश्वव्यचसं वर्षाणि चक्षुषाणि जगती वार्षी जगत्या ऋक्षमं .... .... । इदमुत्तरात्सु वस्तस्य श्रोत्रग्ं सौवग्ं शरच्छात्र्यनुष्टुप्छारद्यनुष्टुभः स्वारं (*ayaṃ puro bhuvastasya prāṇo bhauvāyano vasaṃtaḥ prāṇāyano gāyatrī vāsaṃtī gāyatriyai gāyatraṃ .... .... | ayaṃ dakṣiṇā viśvakarmā tasya mano vaiśvakarmaṇaṃ grīṣmo mānasastiṣṭuggrèṣmī triṣṭubha aiḍaṃ .... .... | ayaṃ paścādviśvavyacāstasya cakṣurvaiśvavyacasaṃ varṣāṇi cakṣuṣāṇi jagatī vārṣī jagatyā ṛkṣamaṃ .... .... | idamuttarātsu vastasya śrotragṃ sauvagṃ śaracchātryanuṣṭupchāradyanuṣṭubhaḥ svāraṃ*) (त्रै सं (*trai saṃ*) 4-3 2-1, 2)
+
+*[as supplied: the reference is printed "ತ್ರೈ ಸಂ ೪-೩ ೨-೧, ೨" without stops and with a space in the number.]*
+
+From Prāṇa came spring, and from spring the Gāyatrī and the Gāyatra-sāman. Likewise, from Viśvakarman came mind, from mind summer, from summer the Triṣṭup, and from the Triṣṭup the Iḍa-sāman. From the all-pervading Prajāpati came the eye, from the eye the Jagatī, and from the Jagatī the Ṛkṣama (the Ṛkṣama-sāman). From light came the ear, from the ear autumn, from autumn the Anuṣṭup, and from the Anuṣṭup the Svāra-sāman. Thus the derivation of the several Sāmans is explained. It is this that Sāyaṇa has said in the present Ṛk, in giving the meaning of the word प्ररिरिचे (*praririce*), as "अन्यानि सामानि पृथक् पृथक् निर्मितवान् (*anyāni sāmāni pṛthak pṛthak nirmitavān*)", "he fashioned the remaining Sāmans separately". Since the Gāyatrī has the greater greatness even in this, it has the first place. Besides this, Sāyaṇa has explained that another meaning of मह्ना महित्वा प्र रिरिचे (*mahnā mahitvā pra ririce*) is also possible. It is thus:
+
+यद्वा! गायत्रशब्दश्चंदोवाजी। तस्य तिस्रो मूर्तिः आहुः क्रमेण अष्टादक्षरैकादशाक्षरद्वादशाक्षरैः गायत्री त्रिष्टुब् जगत्यात्मिकाः। यस्मादेवं ततस्तस्माद्गायत्री छंदसां कनिष्ठा सती मह्ना बलेन वाहत्वेन प्र रिरिचे सर्वाणि च्छंदांस्कृतिकामति येनैव बलेन सोममाहृतवती तादृशेनैव भवति (*yadvā! gāyatraśabdaścaṃdovājī| tasya tisro mūrtiḥ āhuḥ krameṇa aṣṭādakṣaraikādaśākṣaradvādaśākṣaraiḥ gāyatrī triṣṭub jagatyātmikāḥ| yasmādevaṃ tatastasmādgāyatrī chaṃdasāṃ kaniṣṭhā satī mahnā balena vāhatvena pra ririce sarvāṇi cchaṃdāṃskṛtikāmati yenaiva balena somamāhṛtavatī tādṛśenaiva bhavati*)
+
+*[as supplied: this quotation of Sāyaṇa stands here with readings differing from the bhāṣya block of the Ṛk (for example "ಅಷ್ಟಾದಕ್ಷರೈಕಾದಶ…", "ವಾಹತ್ವೇನ", "ಚ್ಛಂದಾಂಸ್ಕೃತಿಕಾಮತಿ", "ಚಂದೋವಾಜೀ"); they are kept as printed.]*
+
+### Printed p. 464
+*Running head: 464 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+The three forms Gāyatrī, Triṣṭup and Jagatī are indicated here by the word Gāyatra. Of these the Gāyatrī has eight syllables, the Triṣṭup eleven syllables (11) and the Jagatī twelve syllables (12). Therefore the Gāyatrī is the smallest of all the metres. Even so, the great work which could not be accomplished by the Triṣṭup and Jagatī metres, which are greater than it, the Gāyatrī accomplished by its strength and its greatness. Therefore, Sāyaṇa has explained, there is a description which points to a story: that it brought the Soma which could not be brought by the other metres. This story is described in the Aitareya Brāhmaṇa in this way.
+
+सोमो वै राजामुष्मिंल्लोक आसीत्तं देवाश्च ऋषयश्चाभ्यध्यायन्कथमयमस्मात्सोमो राजागच्छेदिति तेऽब्रुवंश्वंदांसि यूयं न इमं सोमं राजानमाहरतेति तथेति ते सुपर्णा भूत्योदपतंस्ते यत्सुपर्णा भूत्योदपतंस्तदेतत्सौपर्णमित्याख्यानविद आचक्षते (*somo vai rājāmuṣmiṃlloka āsīttaṃ devāśca ṛṣayaścābhyadhyāyankathamayamasmātsomo rājāgacchediti te 'bruvaṃśvaṃdāṃsi yūyaṃ na imaṃ somaṃ rājānamāharateti tatheti te suparṇā bhūtyodapataṃste yatsuparṇā bhūtyodapataṃstadetatsauparṇamityākhyānavida ācakṣate*) (Ai. Brā. 3-25)
+
+The gods and the ṛṣis desired to get the Soma in the heaven-world as their king, and prayed to the metres to bring that King Soma to them. They agreed, and, because they changed into the form of Suparṇas (birds) for the accomplishment of this task, this episode is known as the Sauparṇa-story.
+
+छंदांसि वै तत्सोमं राजानमच्छाचरंस्तानि ह तर्हि चतुरक्षराणि चतुरक्षराण्येव च्छंदांस्यासन्सा जगती चतुरक्षरा प्रथमोदपतत्सा पतित्वार्धमध्वनो गत्वाश्राम्यत् (*chaṃdāṃsi vai tatsomaṃ rājānamacchācaraṃstāni ha tarhi caturakṣarāṇi caturakṣarāṇyeva cchaṃdāṃsyāsansā jagatī caturakṣarā prathamodapatatsā patitvārdhamadhvano gatvāśrāmyat*) (Ai. Brā. 3-25)
+
+अथ त्रिष्टुबुदपतत्सा पतित्वा भूयोऽर्धादध्वनो गत्वाश्रामत् (*atha triṣṭubudapatatsā patitvā bhūyo 'rdhādadhvano gatvāśrāmat*) (Ai. Brā. 3-25)
+
+*[as supplied: the reference after the first passage is printed "ಐ ಬ್ರಾ ೩-೨೫" without stops; the form "ಗತ್ವಾಶ್ರಾಮತ್" is as printed.]*
+
+Then, when the metres in bird form flew to fetch the Soma, the Jagatī was tired out half way. The Triṣṭup, trying afterwards, went further than half the way, but, not being able to cross the whole way, had to turn back.
+
+ते देवा अब्रुवन्गायत्रीं त्वं न इमं सोमं राजानमाहरेति सा तथेत्यब्रवीत्तां वै मा सर्वेण स्वस्त्ययनेनानुमंत्रयध्वमिति .... .... .... .... सा पतित्वा सोमपालान् भीषयित्वा पद्भ्यां च मुखेन च सोमं राजानं समगृभ्नाड्यानि चेतरे छंदसी अक्षराण्यजहितां तानि चोपसमगृभ्नात् (*te devā abruvangāyatrīṃ tvaṃ na imaṃ somaṃ rājānamāhareti sā tathetyabravīttāṃ vai mā sarveṇa svastyayanenānumaṃtrayadhvamiti .... .... .... .... sā patitvā somapālān bhīṣayitvā padbhyāṃ ca mukhena ca somaṃ rājānaṃ samagṛbhnāḍyāni cetare chaṃdasī akṣarāṇyajahitāṃ tāni copasamagṛbhnāt*) (Ai. Brā. 3-26)
+
+Then all the gods approached the Gāyatrī and prayed that she should accomplish that work. She agreed, and, supported by their blessing, flew upward and approached the Soma, and her
+
+### Printed p. 465
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೯ ] Ṛgveda-saṃhitā 465 (as supplied).*
+
+[Continuing:] guards, frightening them, she brought the Soma with her feet and with her mouth also, and she accomplished the work which the other metres could not do. Therefore this is her greatness. The same story is told in the Śatapatha Brāhmaṇa also:
+
+तद्वैकनिष्ठं छंधः सद्दायत्री प्रथमा छंदसां युज्यते तदु तद्वीर्येणैव यच्छेनो भूत्वा दिवः सोममाभरत् (*tadvaikaniṣṭhaṃ chaṃdhaḥ saddāyatrī prathamā chaṃdasāṃ yujyate tadu tadvīryeṇaiva yaccheno bhūtvā divaḥ somamābharat*) (श. भा. (*śa. bhā.*) 1-6-2-12) (श. बा. (*śa. bā.*) 1-6-2-10)
+
+*[as supplied: two different references stand one after the other, printed "(ಶ. ಭಾ. ೧-೬-೨-೧೨)" and "(ಶ. ಬಾ. ೧-೬-೨-೧೦)"; both are kept.]*
+
+Though smallest in form among all the metres, the Gāyatrī takes the first place before all metres. It is praised thus: by its own power it changed into the form of a hawk (śyena) and brought the Soma from the world of the gods.
+
+The same account, with a little change, is told also in the Taittirīya Saṃhitā, on the occasion of the dispute of Kadrū and Suparṇī.
+
+साष्टाक्षरा समपद्यत ब्रह्मवादिनो वदंति कस्मात्सत्याद्गायत्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं परीयायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पर्यैत्तस्मात्तेजस्विनीतमा (*sāṣṭākṣarā samapadyata brahmavādino vadaṃti kasmātsatyādgāyatrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ parīyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ paryaittasmāttejasvinītamā*) (Tai. Saṃ. 6-1-6-3, 4)
+
+Formerly, when Kadrū and Suparṇī disputed, Kadrū won, and Suparṇī had to become subject to her. Then Kadrū told Suparṇī that if she brought the Soma that is in the atmosphere, in the manner of a thief, and gave it as a price, she would be released. Then Suparṇī asked the help of the metres, her children; the efforts of the two metres Jagatī and Triṣṭup failed, and the Gāyatrī accomplished the work by her greatness. Therefore Sāyaṇa has explained that the words मह्ना (*mahnā*), महित्वा (*mahitvā*) in the present Ṛk show that greatness of the Gāyatrī, with the words "येनैव बलेन सोममाहृतवती तादृशेनैवं भवति (*yenaiva balena somamāhṛtavatī tādṛśenaivaṃ bhavati*)".
+
+**Vyākaraṇa-prakriyā** (grammatical procedure)
+
+*Grammar (transcribed, not explained):*
+- सिंधुम् (*siṃdhum*)—root स्यंदू प्रस्रवणे (*syaṃdū prasravaṇe*). By स्यंदेः संप्रसारणं धश्च (*syaṃdeḥ saṃprasāraṇaṃ dhaśca*) (Uṇ. Sū. 1- 11) the suffix उन् (*un*); संप्रसारण (*saṃprasāraṇa*) of the root; the substitution of ध (*dha*) for द (*da*). Because of the n-marker, the initial-acute accent results.
+- दिवि (*divi*)—by ऊडिदं पदादि (*ūḍidaṃ padādi*) (Pā. Sū. 6-1-171) the acute accent comes on the case-ending.
+- अस्तभायत् (*astabhāyat*)—root स्तंभु स्तंभे (*staṃbhu staṃbhe*); this is stated by a sūtra. लज् (*laj*); in the third person singular तिप् (*tip*); loss of इ (*i*). By स्तंभुस्तुंभु (*staṃbhustuṃbhu*) (Pā. Sū. 3-1-83) the vikaraṇa श्ना (*śnā*). [continued on the next page]
+
+*[stray lines as supplied: the signature line "[30] [Vol. 12" stands twice, the second time with wide spacing.]*
+
+### Printed p. 466
+*Running head: 466 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*Grammar (continued):*
+- By छंदसि शायजपि (*chaṃdasi śāyajapi*) (Pā. Sū. 3-1-84), although हि (*hi*) does not follow, by transposition (vyatyaya) the substitution शायज (*śāyaja*) for the suffix श्ना (*śnā*). By अनिदितां हलउ (*aniditāṃ halau*) (Pā. Sū. 6-4-24) loss of the penultimate nasal of the root. The augment अडागम (*aḍāgama*) to the stem. Because it stands after a अतिजंत (*atijaṃta*) [as printed], the nighāta accent results.
+- रिरिचे (*ririce*)—root रिचिर् विरेचने (*ricir virecane*), Rudhādi class. The form ending in the third person singular of लिट् (*liṭ*). The tiṅanta-nighāta accent results.
+- महित्वा (*mahitvā*)—by सुपां सुलुक् (*supāṃ suluk*) (Pā. 7-1-39) the substitution डा (*ḍā*) for the instrumental ending. Because of डित्तादुदरिंद (*ḍittādudariṃda*) the टॆगॆलोप (*ṭègèlopa*). By the उदात्तनिवृत्तिस्वर (*udāttanivṛttisvara*) the case-ending becomes acute. || 25 ||
+
+*[figure repeating the Saṃhitā and Pada blocks of Ṛk 26 (already in kn.md as text) removed; it was looked at and found to contain the same text.]*
+
+#### Ṛk 26
+**॥ संहितापाठः ॥**
+
+> उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त॑
+> दोहदेनां ।
+> श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभी॑द्दो घ॒र्मस्तदु॒ षु प्र॑
+> वोचं ॥ २६ ॥
+
+**॥ पदपाठः ॥**
+
+> उप । ह्वये । सुदुघां । धेनुं । एतां । सुहस्तः । गोऽधुक् । उत । दोहत् ।
+> एनां ।
+> श्रेष्ठं । सवं । सविता । साविषत् । नः । अभिइद्दः । घर्मः । तत् । ऊं इति । सु ।
+> प्र । वोचं ॥ २६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रवर्ग्ये घर्मधुगाह्वानकाल उप हूय इत्यादिके द्वे ऋचौ । उप
+> ह्वये सुदुघां धेनुमेतामिति द्वे । आ. ४-७ । इति सूत्रितत्वात् ॥
+> अहं होतोप ह्वये । उपेत्याह्वयामि । किं । एतां धेनुमागच्छंतीं
+> क्षीरेण प्रीणयित्रीं गां प्रवर्गार्थां। पुनः कीदृशीं । सुदुघां सुष्टु दोग्निं ।
+> उतापि चैनामुक्तलक्षणां गां सुहस्तः शोभनहस्तो दोहनकुशलो गोधुगो-
+
+*Gist:* In the Pravargya, at the calling of the Gharma-milker, two Ṛks are used; the Hotṛ calls the cow that gives milk well, to be milked by a skilful milker. *[the bhāṣya is cut at the end of this window, in the middle of the word "ಗೋಧುಗೋ-", and continues in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 460. pp. 455-460: Ai. Brā. on Gāyatrī/Triṣṭup/Jagatī syllables, Tai. Saṃ. syllable table, grammar of Ṛk 24, Ṛk 25 with Special Topics
+**Progress note:** Done through printed p. 466. pp. 461-466: Rathantara/Gāyatrī sāman discussion, Sauparṇa story, grammar of Ṛk 25, Ṛk 26 begins
