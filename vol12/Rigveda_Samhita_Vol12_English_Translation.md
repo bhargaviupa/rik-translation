@@ -2491,6 +2491,105 @@ Aṣṭaka 2 ‖ Adhyāya 3 ‖ Varga 4, 5, 6 ‖
 Number of ṛks in the Sūkta: 14 ‖
 Ṛṣi: Dīrghatamas Aucathya · Devatā: the Ṛbhus (ऋभवः (*ṛbhavaḥ*)) · Chandas: Ṛks 1–13 *jagatī*; Ṛk 14 *triṣṭubh*.
 
+### Printed p. 87
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೪. ] Ṛgveda-saṃhitā, p. 87 (as supplied).*
+
+#### Ṛk 1
+
+*[The Saṃhitā of this Ṛk is garbled in the supplied text (it reads, e.g., "ಯವಿಷ್ಟೋ", "ಕದದ್ಯೂಚಿಮು", "ಚಮಸಂ", and carries a numeral "೧" at the end of the first line); no picture was supplied for it. It is kept as supplied.]*
+
+**॥ संहितापाठः ॥**
+
+> किमु श्रेष्ठः किं यविष्टो न आजगन्निमायते दूत्यं १
+> कदद्यूचिमु ।
+> न निंदिम चमसं यो महाकुलोऽग्ने भ्रातर्दुर्ण
+> इद्भूतिमूदिनु ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+*[The label line is garbled in the supplied text ("ಚಡಚಾಡು") and sits inside the Saṃhitā block; the standard label is inserted and the garbled line kept in kn.md as a note.]*
+
+> किं । ऊं इति । श्रेष्ठः । किं । यविष्ठः । नः । आ । अ ज ग न् । किं । ईयते । दूत्यं ।
+> कत् । यत् । ऊचिम ।
+> न । निंदिम । चमसं । यः । महाकुलः । अग्ने । भ्रातः । द्रुणः । इत् । भूतिं ।
+> ऊदिम ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಸಯಣಭಾಷ್ಯ c") and sits inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the block are joined; a break "ಸಮಾನ-ರೂಪ…" across the page boundary is kept.]*
+
+> ऋभवो नाम सुधन्वनस्त्रयः पुत्रा ऋभुर्विभ्वा वाज इति । ते च मनुष्याः
+> संतः सुकर्मणा देवत्वं प्राप्य कदाचित्कर्मकाले सोमपानाय प्रवृत्ताः । तान्प्रति
+> देवैः प्रेरितोऽग्निः परस्परसमानरूपान्दृष्टा स्वयमपि तदाकारं धृत्वा तेषु
+> मध्यॆ स्वयं चतुर्थः सन् पातुं प्रवृत्तः । ते च ऋभव आगतं तं समानरूपमवलोक्य विवेकुमसमर्थाः परस्परमेवं संदिहते । अयं किमु श्रेष्ठः किं नु
+> खल्पस्मत्तोऽयं प्रशस्यतमो वयसा श्रेष्ठः सोऽस्मानाजगन् । आगमत् । प्राप्तः ॥
+> गमर्लजि छांदसः शपः श्लुः । हल्बादिलोपे मो नो धातोरिति नत्वं । अजगन्निति
+> गतिकर्मा अगन्न जगन्निति तन्नामसु पाठात् ॥ किं यविष्ठः किं नास्माकं युवतमोऽस्मत्तः कनीयानाजगन् ! प्राप्तः । किं वा दूत्यं दूतकर्म देवसंबंधीयते ।
+> गच्छति । देवैः प्रेरितो दूतोऽस्मानागतो वा ॥ दूतस्य भागकर्मणी इति यत् !!
+> यदूचिम यदेतद्दूमः तत्कत् । कथं निश्चेतव्यमित्यर्थः । वयं तावत्रय एनेदानीं चत्वारः समानरूपा वर्तामहे तस्मादयमधिकः किमु श्रेष्ठ इति विचिकित्सा ।
+> एवं संदिह्य कथंचित्सतोऽन्यं निश्चित्य तं प्रत्यापरोक्षेण ब्रुवते । हे अग्ने
+> भ्रातर्भ्रातृवद्भागार्ह । भ्राता यथा बलात्स्वकीयभागं स्वीकरोति तद्वत् समान-
+
+> *ṛbhavo nāma sudhanvanastrayaḥ putrā ṛbhurvibhvā vāja iti | te ca manuṣyāḥ*
+> *saṃtaḥ sukarmaṇā devatvaṃ prāpya kadācitkarmakāle somapānāya pravṛttāḥ | tānprati*
+> *devaiḥ prerito 'gniḥ parasparasamānarūpāndṛṣṭā svayamapi tadākāraṃ dhṛtvā teṣu*
+> *madhyè svayaṃ caturthaḥ san pātuṃ pravṛttaḥ | te ca ṛbhava āgataṃ taṃ samānarūpamavalokya vivekumasamarthāḥ parasparamevaṃ saṃdihate | ayaṃ kimu śreṣṭhaḥ kiṃ nu*
+> *khalpasmatto 'yaṃ praśasyatamo vayasā śreṣṭhaḥ so 'smānājagan | āgamat | prāptaḥ ‖*
+> *gamarlaji chāṃdasaḥ śapaḥ śluḥ | halbādilope mo no dhātoriti natvaṃ | ajaganniti*
+> *gatikarmā aganna jaganniti tannāmasu pāṭhāt ‖ kiṃ yaviṣṭhaḥ kiṃ nāsmākaṃ yuvatamo 'smattaḥ kanīyānājagan ! prāptaḥ | kiṃ vā dūtyaṃ dūtakarma devasaṃbaṃdhīyate |*
+> *gacchati | devaiḥ prerito dūto 'smānāgato vā ‖ dūtasya bhāgakarmaṇī iti yat !!*
+> *yadūcima yadetaddūmaḥ tatkat | kathaṃ niścetavyamityarthaḥ | vayaṃ tāvatraya enedānīṃ catvāraḥ samānarūpā vartāmahe tasmādayamadhikaḥ kimu śreṣṭha iti vicikitsā |*
+> *evaṃ saṃdihya kathaṃcitsato 'nyaṃ niścitya taṃ pratyāparokṣeṇa bruvate | he agne*
+> *bhrātarbhrātṛvadbhāgārha | bhrātā yathā balātsvakīyabhāgaṃ svīkaroti tadvat samāna-*
+
+### Printed p. 88
+
+*Running head: 88 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 161.* (The bhāṣya block continues from p. 87, after "ಸಮಾನ-".)
+
+> रूपमाश्रित्य बलाच्चमसपानाय प्रवृत्त इति भ्रातरित्युक्तं । हे तादृशाग्ने चमसं न
+> निंदिम । अधिकः समागत इति पानमकृत्वा चमसं न दूषयामः ॥ णुदि कुत्सायां ।
+> छंदसि वेति वक्तव्यमिति द्विर्वचनाभावः ॥ अदूष्यत्वे कारणमाह । यश्चमसो महाकुलः महाकुलोत्पन्नः त्वष्टा निर्मितत्वात् । वक्ष्यति च त्वष्टा ग्नास्वंतर्यानज इति ।
+> अतः कारणात् द्रुणः । विकारे प्रकृतिशब्दः । ततश्च तत्स्थे तच्छब्दः । इच्छब्बोऽवधारणे ।
+> दारुविकारचमसस्य भूतिं प्राप्तिमूदिम । ब्रूमः ॥ विदेश्यांदसे लिटि वचिस्वपीति
+> संप्रसारणं । क्रादिनियमादिट् ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): the Ṛbhus ask whether the newcomer, Agni in their likeness, is elder, younger or a messenger, and they honour the ladle.]*
+
+*[The Pratipadārtha label is garbled in the supplied text ("ಕ್ರಿಪಾಪಾತ್ರ್ಯ") and the Pratipadārtha sat inside the bhāṣya block; moved out, un-quoted, and the standard label inserted. Likewise the Bhāvārtha label ("॥ ಭವಾರ್ಥ ॥") and text.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नः (*naḥ*)—to us; अजगन् (*ajagan*)—this one who has come; किमु श्रेष्ठः (*kimu śreṣṭhaḥ*)—(in age or in worth) is he greater than we? किं यविष्ठः (*kiṃ yaviṣṭhaḥ*)—or is he younger? (or) मूत्यं (*mūtyaṃ*) *[so printed for ದೂತ್ಯಂ]*—having taken up the office of messenger (of the gods); किं ईयते (*kiṃ īyate*)—has he come? यत् (*yat*) ऊचिम (*ūcima*)—if there is anything we have to say; कत् (*kat*)—what is it? भ्रातः अग्ने (*bhrātaḥ agne*)—O Agni, brother; यः महाकुलः (*yaḥ mahākulaḥ*)—which (this ladle) is born of a noble family; (तं (*taṃ*)) चमसं (*camasaṃ*)—that ladle; न निंदिम (*na niṃdima*)—(in anger that a newcomer has come to drink, without drinking ourselves) we do not revile; द्रुण इत् (*druṇa it*)—of the ladle made of wood; भूतिमित् (*bhūtimit*) *[so printed]*—the greatness; ऊदिम (*ūdima*)—we declare, making it known.
+
+**भावार्थ (Bhāvārtha)**
+
+Who is this one who has newly come to us? Is he older than we, in age or in worth, or younger? Or has he come having taken up the office of messenger of the gods? If there is anything that we have to say to him, what is it? O Agni, brother! Out of anger that a newcomer has come to drink with us, we do not revile, without drinking, this ladle, which is born of a noble family. We shall tell you, so that you too may know it, the greatness of this vessel made of wood.
+
+**Printed English translation**
+
+Is this our senior or our junior who has come (to us); has he come upon a message (from the gods); what is it we should say? Agni, brother, we revile not the ladle which is of exalted race; verily we assert the dignity of the wooden (Implement).
+
+### Printed p. 89
+
+*Running head: [ಆ. ೨. ಅ. ೩. ವ. ೪ ] Ṛgveda-saṃhitā, p. 89 (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the introduction to the bhāṣya of this ṛk, Sāyaṇa has told the earlier story connected with it. The three sons of Sudhanvan, named Ṛbhu (printed "ಯಭು"), Vibhvan and Vāja, though human, having obtained divinity by their good works, once, at the time of a sacrifice, set out with the gods to drink Soma. Agni, impelled by the gods, saw them, who were of identical form, took on the same form himself and began to drink with them. Not knowing who the fourth was who had come with the same form as theirs, they doubt among themselves. This inquiry is in the first half of this ṛk; that, after some time, having ascertained who he was, they will converse with him and tell him the greatness of the ladle, is said in the second half. The noble birth of these brothers, the greatness of their good works, how the gods, out of jealousy, caused them trouble when they joined the gods, and how Prajāpati and Savitṛ then helped them, are told in some places. For example:
+
+ऋभवो वै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातस्सवने वाचि (*ṛbhavo vai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātassavane vāci*)
+कल्पयिषंस्तानग्निर्वसुभिः प्रातःसवनादनुदत तेभ्यो माध्यंदिने सवने (*kalpayiṣaṃstānagnirvasubhiḥ prātaḥsavanādanudata tebhyo mādhyaṃdine savane*)
+वाचि कल्पयिषंस्तानिंद्रो रुद्रॆर्माध्यंदिनात्सवनादनुदत तेभ्यस्तृतीय (*vāci kalpayiṣaṃstāniṃdro rudrèrmādhyaṃdinātsavanādanudata tebhyastṛtīya*)
+सवने वाचि कल्पयिषंस्तान्विश्वे देवा अनोनुद्यंत नेह पास्यंति नेहेति (*savane vāci kalpayiṣaṃstānviśve devā anonudyaṃta neha pāsyaṃti neheti*)
+स प्रजापतिरब्रवीत्सवितारं तव वा इमेऽंतेवासास्त्वमेवैभिः संपिबस्वेति (*sa prajāpatirabravītsavitāraṃ tava vā ime 'ṃtevāsāstvamevaibhiḥ saṃpibasveti*)
+स तथेत्यब्रवीत्सविता तान्नै त्वमुभयतः परिपिबेति तांप्रजापतिरुभयतः (*sa tathetyabravītsavitā tānnai tvamubhayataḥ paripibeti tāṃprajāpatirubhayataḥ*)
+परपिबत् ॥ (*parapibat ‖*)
+
+(Ai. Brā. 3-3-30)
+
+The Ṛbhus obtained a share of Soma among the gods by their austerity and intense wish. First, when they wished to obtain it at the morning pressing, Agni, joining the Vasus, rejected them and drove them away. Then, when they wished to obtain it at the midday pressing, Indra, joining the Rudras, drove them away. Again, when they wished to obtain it at the third pressing, the Viśvedevas rejected them there too with harsh words: "You are certainly not fit to drink Soma here; you must not." Then Prajāpati said to Savitṛ: "These Ṛbhus are your pupils; drink Soma with them." Savitṛ agreed. Prajāpati too, staying beside them, drank the Soma juice: thus this story is told in the Aitareya Brāhmaṇa.
+
 ---
 
-**Progress note:** Done through printed p. 86 (PDF 86). Sūkta 160 Ṛk 5 Special Topics end and grammar (sūkta 160 complete); Sūkta 161 introduction and header
+**Progress note:** Done through printed p. 89 (PDF 89). Sūkta 161 Ṛk 1 complete to Special Topics start (Ṛbhus story, Ai. Brā. 3-3-30)
