@@ -13421,6 +13421,174 @@ has said that the Self within the body is one thing and the body another; that t
 (Bṛ. U. 2-3-6)
 The form of this Person, who is the subtle-body Self, is like a cloth of saffron colour, like white wool, like an indragopa insect, like a flame of fire, like a white lotus flower, like a flash of lightning. The nature of this Supreme Self who is beyond the body cannot be described as “thus”. Taking all the things of the world, his nature has to be described only by sentences of negation, such as “this is not that Supreme Self” and “that too is not”. Therefore the nature of that Parabrahman is described by the śruti sentence नेति ; नेति (*neti ; neti*). From one point of view it has to be described only by sentences that express negation. But it is not merely a principle of the nature of negation; the assertion of existence also extols its great glory.
 
+### Printed p. 566
+*Running head: 566 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+हिरण्मये परे कोशे विरजं ब्रह्म निष्कलं (*hiraṇmaye pare kośe virajaṃ brahma niṣkalaṃ*)
+तच्चुभ्रं ज्योतिषां ज्योतिस्तद्यदात्मविदो विदुः (*taccubhraṃ jyotiṣāṃ jyotistadyadātmavido viduḥ*)
+(Pu. U. 2-9) *[as supplied: the abbreviation "Pu. U."]*
+
+In the golden (that is, filled with the radiance of knowledge) sheath, this supreme principle shines: free from the dust of ignorance and the like, without parts, possessing a light greater than all lights such as the sun. But only the knowers of the Self can know it; others cannot. The statement न नि चिक्युः (*na ni cikyuḥ*), "no one can know", made in the ṛk under consideration, does not apply to these knowers of the Self. This negation applies to those who are intent merely on ritual action and are satisfied with the knowledge that consists in hearing. This negation only tells us how hard the discipline is by which knowledge of the Self is to be won. Describing the hardship of that discipline, and (declaring) that the principle of Brahman can be known only through that discipline and by no other path, the Kaṭha Upaniṣad says as follows.
+
+उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत (*uttiṣṭhata jāgrata prāpya varānnibodhata*)
+क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदंति (*kṣurasya dhārā niśitā duratyayā durgaṃ pathastatkavayo vadaṃti*)
+(Kath. 1-3-14) *[as supplied: the abbreviation "Kath."]*
+
+Arise, all of you; be awake; approach those who know Brahman and know that principle of Brahman. That Self is to be perceived only by a subtle intellect. As hard as it is to walk with the foot placed on the edge of a whetted, sharpened razor, so hard is the path of knowing Brahman, say those who know. For that Supreme Brahman is:
+
+अशब्दमस्पर्शमरूपमव्ययं तथारसं नित्यमगंधवच्च यत् (*aśabdamasparśamarūpamavyayaṃ tathārasaṃ nityamagaṃdhavacca yat*)
+अनाद्यनंतं महतः परं ध्रुवं निजाय्य तन्नृत्युमुखात्प्रमुच्यते (*anādyanaṃtaṃ mahataḥ paraṃ dhruvaṃ nijāyya tannṛtyumukhātpramucyate*)
+(Kaṭh. 1-3-15)
+
+It is soundless, touchless, formless, imperishable, devoid of form (rūpa) and devoid of smell. Even so, it is without beginning and end, constant. To know such a supreme principle the discipline must be extremely hard. One who knows through this discipline is freed from the mouth of death.
+
+In this way, by worldly illustrations in the form of negation, and by a description of its supra-worldly nature without illustration in the form of assertion, the necessity of knowing the principle of Parabrahman is indicated; and to show that such knowers of the truth are rare, the ṛk under consideration says न नि चिक्कुरन्यं (*na ni cikkuranyaṃ*).
+
+### Printed p. 567
+*Running head: [ಆ. ೨. ಅ. ೩. ವ. ೨೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 567] (as supplied; the head reads "ಆ." where the other pages read "ಅ.").*
+
+**Vyākaraṇa-prakriyā (grammatical procedure; belonging to the preceding ṛk 38)**
+
+अपाज् (*apāj*)—अप अंचति इति अपाज् (*apa aṃcati iti apāj*). The root is अंचु गतिपूजनयोः (*aṃcu gatipūjanayoḥ*). By ऋत्विक्‌दधृक् (*ṛtvikdadhṛk*) (the sūtra as printed) the suffix kvin.
+गृभीतः (*gṛbhītaḥ*)—the root is ग्रह उपादाने (*graha upādāne*); the suffix kta in the passive. By आर्धधातुकस्येड्वलादेः (*ārdhadhātukasyeḍvalādeḥ*) it takes the augment iṭ. By गृहो लिटि दीर्घः (*gṛho liṭi dīrghaḥ*) (Pā. Sū. 7-2-37) lengthening of that. By the sūtra ग्रहिज्यावयिव्यधि (*grahijyāvayivyadhi*) (Pā. Sū. 6-1-16) samprasāraṇa. By the statement हृगृहोर्भश्चंदसि (*hṛgṛhorbhaścaṃdasi*) bha-substitution for the letter ha. By the accent of the suffix it becomes final-acuted.
+शश्वंता (*śaśvaṃtā*)—by सुपां सुलुक् (*supāṃ suluk*) the substitution of ā for the dual (au).
+वियंता (*viyaṃtā*)—the root is इण् गत् (*iṇ gat*) *[as supplied: ಗತ್]*. The substitute śatṛ for laṭ. By इणो यण् (*iṇo yaṇ*) (Pā. Sū 6-4-81) the substitution of yaṇ for the root. For the dual, the ā-substitution as before. Because it is ukit, the augment num. The accent of the base after a kṛt-ending *[as supplied: the printed word is "ಕೃದುತ್ತರಪವ" for "ಕೃದುತ್ತರಪದ"]* comes.
+चिक्युः (*cikyuḥ*)—the root is कि ज्ञाने (*ki jñāne*). In Vedic usage liṭ in the present sense. For the third person plural, by परस्मैपदानां (*parasmaipadānāṃ*) the substitution of us. When the doubling and the like come on account of liṭ, the yaṇ-substitution. The tiṅanta-nighāta accent comes. ‖ 38 ‖
+
+**॥ संहितापाठः ॥**
+#### Ṛk 39
+> ऋ॒चो अ॒क्षरे॑ पर॒मे व्यो॑म॒न्यस्मि॑न्दे॒वा अधि॒ विश्वे॑ निषे॒दुः ।
+> यस्तन्न वेद॒ किमृ॒चा क॑रिष्यति॒ य इत्तद्वि॒दुस्त इ॒मे समा॑सते ॥ ३९ ॥
+
+> *ṛco akṣare parame vyomanyasmindevā adhi viśve niṣeduḥ |*
+> *yastanna veda kimṛcā kariṣyati ya ittadvidusta ime samāsate ‖ 39 ‖*
+*[as supplied: a garbled label "। ಹದಹಾದಿ ।" stands after the verse; the script read it as a mark for the Pada-pāṭha.]*
+
+**॥ पदपाठः ॥**
+> ऋचः । अक्षरे । परमे । विओमन् । यस्मिन् । देवाः । अधि । विश्वे । निसेदुः ।
+> यः i तत् । न । वेद । किं । ऋचा । करिष्यति । ये । इत् । तत् । विदुः । ते ।
+> इमे । सं। आ स ते ॥ ३९ ॥
+*[as supplied: the Pada text has "ವಿಓಮನ್", "ಯಃ i" and "ನಿಸೇದುಃ" as printed.]*
+
+### Printed p. 568
+*Running head: 568 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತೆ: [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied; the script inserted the page marker because the splitter did not recognise this head).*
+
+*[as supplied: a garbled label "ಶಾಯಖಭಾಷ್ಯಂ" precedes the standard label; the script read it as Sāyaṇa-bhāṣya.]*
+
+**॥ सायणभाष्यम् ॥**
+> पूर्वमंत्रे देहात्मजीवात्मानावुक्तौ । तयोरन्यस्य जीवात्मनः पारमार्थिकं
+> रूपमस्ति तदप्रोच्यते । ऋचो अक्षरे । अत्र यकृब्बीन ऋक्प्रधानभूताः सांगापरविद्यात्मकाश्चत्वारो वेदा उच्यंते । ऋगादीनामपरविद्यात्वं मुंडके श्रूयते । द्वे विद्यॆ वेदितव्ये इति प्रतिज्ञाय तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदः । मुं १. १. ५. । इत्यादिना । तस्याः संबंधिन्यक्षरेऽदृश्यादिगुणकेक्षणरहितेS
+> नश्वरे नित्ये सर्वत्र व्याप्ते ब्रह्मणि । अक्षरशब्दस्य ब्रह्मनाचकत्वं एतद्वै तदक्षरस्य
+> प्रकाशने गार्गि । बृ. उ. ३-८. । यया तदक्षरमधिगम्यते । मुं. उ. १-१-५ ।
+> येनाक्षरं पुरुषं वेद सत्यं । मुं. उ. १-२-१३ । इत्यादिश्रुतिषु प्रसिद्धं ।
+> ऋगक्षरयोः प्रतिपाद्यप्रतिपादकभावः संबंधः । सर्वॆर्वेदैः खलु ब्रह्माधिगम्यते तं त्वापनिषदं पुरुषं सृच्छामि । शत. १४-६-९-२८. । इत्यादिश्रुतेः । ननूपनिषद्भागानां तथास्तु । इतरेषां तु कथं ब्रह्मविषयत्वमिति उच्यते । यद्यपीतरभागानां यागादिविषयत्वं तथापि बुद्धिः श्रुत्तुत्पादनद्वारा वेदनसाधनत्वेन ब्रह्मविषया भविष्यति वेदानुपचनेन ब्राह्मणा विविदिषंति । बृ. उ. ४. ४. २२. । इत्यादिश्रुतेः । तदेव विशेष्यते । परम उत्कृष्टे निरतिशये प्रोमन् प्रोमनि प्रोमसद्वृशे । आलेपत्वनीरूपत्वव्यापित्वादिसादृश्येन प्रोमेत्युक्तं । यद्वा । विशेषेण
+> सर्वस्य रक्षके । निरधिष्ठा न कस्यचिदस्ति स्वाध्यस्तस्य सर्वस्याधिष्ठानत्वेन रक्षकत्वात् ।
+> तादृशे तत्त्वे सर्वमध्यस्तमित्यर्थः । पुनस्तदेव विशेष्यते । यस्मिन्परमात्मनि विश्वे
+> सर्वे देवा अधि निषेदुः निषीदंति आश्रित्य तिष्यंति तस्मिन् । यद्वा । उक्तलक्षणे
+> वस्तुन्यगुपलक्षिताः सर्वे सांगा वेदाः पर्यवसिता इत्यर्थः । यः यो मर्तस्तत्तादृशं देवादीनां स्वरूपलाभास्पदं कृत्सनवेदैस्तात्पर्यं प्रतिपाद्यं यद्वस्तु
+> न वेद न जानाति स मर्त्य ऋचा पूर्वोक्तेनर्गादिशब्दजालेन किं करिष्यति । वेदनसाधनेन वेदेन वेद्यमविदित्वा किं साधयतीत्यर्थः । प्रयोजनाभावात्सर्वस्यापि
+> वेदस्य नैष्फल्यादिति भावः । अथवा योक्षरमविदित्वा कर्मणां कर्ता भवति यागादीननुतिष्यति तेन किंचिदपि कर्म कृतं न भवतीत्यर्थः । य इद्य एव तत्तत्त्वं विदुः
+> जानंति त इमे समासते । त एवेमे ज्ञातारः समासते । सम्यक्तिष्यंति । अपुनरावृत्या स्वरूपेऽवस्थानं समासनं । यद्वा । ये विदुरिद्रॆ जानंत्येव नानुतिष्यंति । इच्छज्योऽवधारणे । त इमे त एव समासते । गवामयनादिसहस्रसंवत्सरसत्प्रर्यंतानि सहोपयंति । सहार्थे संशब्दः । सत्रादधिकानां यागानामभाव त् तेषामपि फलमेतदज्ञानेनैव प्राप्तं भवतीत्यर्थः । कर्तृणां बहुत्वाद्वयवचननिर्दॆशः ॥ अन्ये त्वन्यथा वर्णयंति । ऋचः । मुगर्चनीयमादित्य-
+
+> *pūrvamaṃtre dehātmajīvātmānāvuktau | tayoranyasya jīvātmanaḥ pāramārthikaṃ*
+> *rūpamasti tadaprocyate | ṛco akṣare | atra yakṛbbīna ṛkpradhānabhūtāḥ sāṃgāparavidyātmakāścatvāro vedā ucyaṃte | ṛgādīnāmaparavidyātvaṃ muṃḍake śrūyate | dve vidyè veditavye iti pratijñāya tatrāparā ṛgvedo yajurvedaḥ sāmavedaḥ | muṃ 1. 1. 5. | ityādinā | tasyāḥ saṃbaṃdhinyakṣare 'dṛśyādiguṇakekṣaṇarahiteS*
+> *naśvare nitye sarvatra vyāpte brahmaṇi | akṣaraśabdasya brahmanācakatvaṃ etadvai tadakṣarasya*
+> *prakāśane gārgi | bṛ. u. 3-8. | yayā tadakṣaramadhigamyate | muṃ. u. 1-1-5 |*
+> *yenākṣaraṃ puruṣaṃ veda satyaṃ | muṃ. u. 1-2-13 | ityādiśrutiṣu prasiddhaṃ |*
+> *ṛgakṣarayoḥ pratipādyapratipādakabhāvaḥ saṃbaṃdhaḥ | sarvèrvedaiḥ khalu brahmādhigamyate taṃ tvāpaniṣadaṃ puruṣaṃ sṛcchāmi | śata. 14-6-9-28. | ityādiśruteḥ | nanūpaniṣadbhāgānāṃ tathāstu | itareṣāṃ tu kathaṃ brahmaviṣayatvamiti ucyate | yadyapītarabhāgānāṃ yāgādiviṣayatvaṃ tathāpi buddhiḥ śruttutpādanadvārā vedanasādhanatvena brahmaviṣayā bhaviṣyati vedānupacanena brāhmaṇā vividiṣaṃti | bṛ. u. 4. 4. 22. | ityādiśruteḥ | tadeva viśeṣyate | parama utkṛṣṭe niratiśaye proman promani promasadvṛśe | ālepatvanīrūpatvavyāpitvādisādṛśyena prometyuktaṃ | yadvā | viśeṣeṇa*
+> *sarvasya rakṣake | niradhiṣṭhā na kasyacidasti svādhyastasya sarvasyādhiṣṭhānatvena rakṣakatvāt |*
+> *tādṛśe tattve sarvamadhyastamityarthaḥ | punastadeva viśeṣyate | yasminparamātmani viśve*
+> *sarve devā adhi niṣeduḥ niṣīdaṃti āśritya tiṣyaṃti tasmin | yadvā | uktalakṣaṇe*
+> *vastunyagupalakṣitāḥ sarve sāṃgā vedāḥ paryavasitā ityarthaḥ | yaḥ yo martastattādṛśaṃ devādīnāṃ svarūpalābhāspadaṃ kṛtsanavedaistātparyaṃ pratipādyaṃ yadvastu*
+> *na veda na jānāti sa martya ṛcā pūrvoktenargādiśabdajālena kiṃ kariṣyati | vedanasādhanena vedena vedyamaviditvā kiṃ sādhayatītyarthaḥ | prayojanābhāvātsarvasyāpi*
+> *vedasya naiṣphalyāditi bhāvaḥ | athavā yokṣaramaviditvā karmaṇāṃ kartā bhavati yāgādīnanutiṣyati tena kiṃcidapi karma kṛtaṃ na bhavatītyarthaḥ | ya idya eva tattattvaṃ viduḥ*
+> *jānaṃti ta ime samāsate | ta eveme jñātāraḥ samāsate | samyaktiṣyaṃti | apunarāvṛtyā svarūpe 'vasthānaṃ samāsanaṃ | yadvā | ye viduridrè jānaṃtyeva nānutiṣyaṃti | icchajyo 'vadhāraṇe | ta ime ta eva samāsate | gavāmayanādisahasrasaṃvatsarasatpraryaṃtāni sahopayaṃti | sahārthe saṃśabdaḥ | satrādadhikānāṃ yāgānāmabhāva t teṣāmapi phalametadajñānenaiva prāptaṃ bhavatītyarthaḥ | kartṛṇāṃ bahutvādvayavacananirdèśaḥ ‖ anye tvanyathā varṇayaṃti | ṛcaḥ | mugarcanīyamāditya-*
+
+### Printed p. 569
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೧.] ಋಗ್ವೇದಸಂಹಿತಾ 569] (as supplied).*
+
+*[The Sāyaṇa-bhāṣya continues from the previous page.]*
+> मंडलमृगादिमयं ना । ऋग्भिः पूर्वाह्ने दिवि देव आदित्यो वा एष एतन्मंडलं तपति तत्र ता ऋच इत्यादिश्रुतेः । तस्य संबंधिन्यक्षरे परमे व्योमन्नित्युक्तलक्षणे ब्रह्मणि य एषोंतरादित्ये हिरण्मयः पुरुषो दृश्यत इत्यादिश्रुत्युक्तस्वरूपे यस्मिन् सर्वॆ देवा द्योतमाना रश्मयो निषेदुः वर्तंते । य एतन्न
+> वेद स केवलयर्चा किं करिष्यति । ये जानंति भावयंति त एव विद्वांसः समासते । भूम्यां सुखेन रोगादिरहिता भोगिनः संतश्चिरकालं जीवंति ॥ अपरे
+> प्रकारांतरेण प्रतिपादयंति । ऋचोक्षर ऋगुपलक्षितसर्ववेदसंबंधिन्यक्षरे
+> प्रणवरूप ओंकारेऽविनाशिनि सर्ववेदेषु व्याप्ते वा । प्रणवस्य सर्ववेदसारत्वं
+> ब्राह्मणे श्रूयते । तान्वेदानभ्यतपत्तेभ्योभितस्तेभ्यस्रयो वर्णा अजायंताकार उकारो मकार इति तानेकधा समभरत् तदेतदोमिति । ऐ. ब्रा. ५-३२. ।
+> इति । परमे निरतिशये । न हि प्रणवादधिकं किंचिन्मंत्रजातमस्ति कालातीतस्य ब्रह्मणः
+> प्रतिपादकत्वात् । यच्चान्यत्रिकालातीतं तदप्योंकार एव ओमिति ब्रह्म । तै. आ.
+> ७. ८. । इत्यादिश्रुतेः । वेदानां प्रणवस्य स्थानप्रतिनिधिभावः संबंधो य ऋचोऽधीत इत्याद्युपक्रम्य यः प्रणवमधीते स सर्वमधीते ओमिति प्रतिपद्यत एतद्वै यजुस्त्रयीं विद्यां प्रत्येषा नागेतत्परमक्षरं । तै आ. २. ११. ४.। इत्यादिश्रुतेः। यस्मिन्विश्वे सर्वे देवा अधि निषेदुः। प्रणवस्य सर्वमंत्रात्मकत्वात् मंत्रेषु सर्वदेवतानां निवासात् सर्वदेवनिवासत्वं। ब्रह्माधिष्ठानत्वाद्वा ब्रह्मणि सर्वदेवानां निवासात् ।
+> शिष्टमवशिष्टं ॥ अयं मंत्रो निरुक्ते व्याख्यतः । नि. १३. १०. ॥ अपरे त्वपरथा
+> वर्णयंति । ऋचः । ऋगर्चनीयो जीवः । तस्य संबंधिन्यक्षरेऽविनाशे व्याप्
+> वा परमात्मनीत्यर्थः । आत एव जीवापेक्षया परम उत्कृष्टे निरुपाधिके व्योमन्
+> विशेषेण सर्वाधिष्ठानत्वेन रक्षके व्योमसदृशे वा । यस्मिन्नरमात्मनि देवा गमनवंतो व्यवहरंतो वेंद्रियसंज्ञका विश्वे सर्वॆऽस्यधि निषेदुः निषिदंति आश्रित्य
+> वर्तंते । यस्तन्न वेद न जानाति उपाध्यंशपरित्यागे तदेव स्वरूपमितिन पश्यति
+> स्कूलो जनः किमृचा करिष्यति । केवलेन जीवेन जीवभावेन किं फलं प्राप्ति ।
+> जननमरणादिकेशस्यात्यागादिति भावः । ये तत्तत्वं विदुस्त इत्यादि सिद्धं ॥
+
+*Gist:* Sāyaṇa: the imperishable Brahman, supreme and protector of all, is the seat of all gods; one ignorant of it gains nothing from the Ṛk; the knowers abide in it. Three further interpretations follow.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+ऋचः (*ṛcaḥ*)—he who is propounded by the Vedas in which the Ṛk predominates *[as supplied: the printed word is "ಋಕ್ರಧಾನವಾದ"]*; अक्षरे (*akṣare*)—the imperishable one; परमे (*parame*) उत्कृष्टवाद (*utkṛṣṭavāda*) *[as supplied: no dash after the first word]*—the supreme, excellent; व्योमनि (*vyomani*)—(of all) the protector; यस्मिन् (*yasmin*)—in this Supreme Self; विश्वे देवाः (*viśve devāḥ*)—all the gods; अधि निषेदुः (*adhi niṣeduḥ*)—have taken refuge; यः (*yaḥ*)—who; तत् (*tat*)—that (namely) the study of the Veda is for the sake of knowing such a supreme principle; न (*na*) *[continues on the next page]*
+
+### Printed p. 570
+*Running head: 570 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied; the head reads "ಆ." for the Anuvāka).*
+
+*[Pratipadārtha continued:]* वेद (*veda*)—does not know; ( सः (*saḥ*)—that man ); ऋचा (*ṛcā*)—by the mere recitation of the Ṛk and the rest (which does not reach the goal); किं करिष्यति (*kiṃ kariṣyati*)—what benefit can he gain?; य इत् (*ya it*)—whoever; तत् (*tat*)—this principle; विदुः (*viduḥ*)—know; ते इमे (*te ime*)—those knowers alone; समासते (*samāsate*)—attain oneness with Brahman.
+
+*[as supplied: a garbled label "ಭವಾರ್ಥ" precedes the standard label; the script read it as Bhāvārtha.]*
+
+**भावार्थ (Bhāvārtha)**
+All the gods have taken refuge in this Supreme Self, who is propounded by the Vedas in which the Ṛk predominates, who is imperishable, and who is the supreme protector. The man who does not understand that the aim of the study of the Veda lies in knowing the supreme principle gains no benefit whatever from the mere recitation of the Ṛk and the rest. Only the knowers who know this principle attain oneness with Brahman.
+
+**Printed English**
+All the gods have taken their seats upon this supreme heaven, the imperishable (text) of the veda : what will he, who knows not this, do with the Veda ? but they who do know it, they are perfect.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Three kinds of meaning can be given to this ṛk. All the meanings follow the derivation of the word ऋचः (*ṛcaḥ*). Sāyaṇa has shown that three kinds of meaning are possible for the word ऋचः (*ṛcaḥ*): (1) the Vedas, the Ṛk and the others; (2) the orb of the sun, which is to be worshipped; (3) the individual soul (jīva), which is to be worshipped. *[as supplied: the print numbers the first item "1. ೧)", with a stray "1." before it.]* Among these, if the first meaning, the Vedas Ṛk and the others, is taken:
+
+(1) ऋचः (*ṛcaḥ*)—ऋक् शब्देन ऋक्प्रधानभूताः सांगापरविद्यात्मकाश्च त्वारो वेदाः उच्यंते (*ṛk śabdena ṛkpradhānabhūtāḥ sāṃgāparavidyātmakāśca tvāro vedāḥ ucyaṃte*). That is, by the word Ṛk are meant the four Vedas, in which the Ṛk is predominant and which are accompanied by their limbs. These are called the lower knowledge (aparā vidyā). Showing the divisions of knowledge, the Muṇḍaka Upaniṣad divides it into two classes, the higher (parā) and the lower (aparā), and says among them:
+
+द्वे विद्यॆ वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदंति परा चैवापरा च (*dve vidyè veditavye iti ha sma yadbrahmavido vadaṃti parā caivāparā ca*)
+तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽधर्ववेदः शिक्षा कल्लो व्याकरणं निरुक्तं छंदो ज्योतिषमिति (*tatrāparā ṛgvedo yajurvedaḥ sāmavedo 'dharvavedaḥ śikṣā kallo vyākaraṇaṃ niruktaṃ chaṃdo jyotiṣamiti*)
+अध परा यया तदक्षरमधिगम्यते (*adha parā yayā tadakṣaramadhigamyate*)
+(Mu. U. 1-1-4, 5)
+
+### Printed p. 571
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೨೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 571] (as supplied).*
+
+कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति (*kasminnu bhagavo vijñāte sarvamidaṃ vijñātaṃ bhavatīti*): when Śaunaka prayed to Aṅgiras, "Teach me that principle by knowing which the knowledge of all principles comes", Aṅgiras taught Śaunaka the knowledge of Brahman. Then, pointing out that this knowledge has two divisions, he said: there are two kinds of knowledge that a man must know, one the higher knowledge, the other the lower. Among these, the Ṛgveda, Yajurveda, Sāmaveda, Atharvaveda, Śikṣā, Kalpa, Vyākaraṇa, Nirukta, Chandas and Jyotiṣa are the lower knowledge; and that by which the imperishable (the knowledge of imperishable Brahman) is attained is the higher knowledge: thus he showed the two parts. Sāyaṇa has interpreted तस्याः संबंधिनि अक्षरे (*tasyāḥ saṃbaṃdhini akṣare*) as "in the imperishable Brahman that is propounded by the Ṛk and the rest, which are of the nature of the lower knowledge", and has also cited the mantra beginning तत्रापरा ऋग्वेदः (*tatrāparā ṛgvedaḥ*) .... .... as the basis of his commentary. Here one more point is to be noticed.
+
+When Śaṅkarācārya wrote his commentary on the sentence तत्रापरा ऋग्वेदः (*tatrāparā ṛgvedaḥ*).... .... he imagined an objection there and gave the answer to it: ननु कस्मिन्विदिते सर्वविद्भवतीति शौनकेन पृष्टं (*nanu kasminvidite sarvavidbhavatīti śaunakena pṛṣṭaṃ*) तस्मिन् वक्तव्येऽपृष्टमाहांगिरा द्वै विद्यॆ इत्यादि (*tasmin vaktavye 'pṛṣṭamāhāṃgirā dvai vidyè ityādi*). The objection is this: Śaunaka asked that one single knowledge be taught by knowing which the principle of Brahman is known; yet Aṅgiras spoke of two kinds of knowledge that were not asked about. The answer should be understood as follows: नैष दोषः (*naiṣa doṣaḥ*) क्रमापेक्षत्वात्पतिवचनस्य (*kramāpekṣatvātpativacanasya*) अपरा हि विद्या अविद्या सा निराकर्तव्या (*aparā hi vidyā avidyā sā nirākartavyā*) तद्विषये हि विदिते न कश्चित्तत्त्वतः विदितं स्यादिति (*tadviṣaye hi vidite na kaścittattvataḥ viditaṃ syāditi*) निराकृत्य हि पूर्वपक्षं पश्चात् सिद्धांतो वक्तव्यो भवतीति न्यायात् (*nirākṛtya hi pūrvapakṣaṃ paścāt siddhāṃto vaktavyo bhavatīti nyāyāt*).
+
+There is no fault in this. There is an order in giving the answer. First the division of knowledge is shown; of it the lower knowledge is really ignorance (avidyā) and not knowledge that teaches the principle. By knowing its subject one does not come to know the principle of Brahman. Therefore the ignorance in the form of the lower knowledge, which does not help towards knowledge of the principle, is set aside, and the higher knowledge, the true means to knowledge of the principle, is taught: thus he has stated the answer. But here the question naturally arises whether the lower knowledge of the Ṛk and the rest is indeed to be set aside. There is a difference of opinion on this. One view (or one of the different views of one and the same seer) holds that the lower knowledge is merely concerned with ritual action and, being aimed at the fruit of action and productive of a perishable fruit, does not help knowledge of the principle. Another view holds that action is the preliminary of knowledge, that it too becomes a means to knowledge, and that therefore the knowledge of the lower knowledge, which is predominantly action, is absolutely necessary. For what Śaṅkarācārya says, that the lower knowledge is ignorance, there is also the authority of the śruti. For example, in the Īśāvāsya Upaniṣad the two divisions, knowledge and ignorance, are explained thus:
+
+### Printed p. 572
+*Running head: 572 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+अन्यदेवाहुर्विद्यया अन्यदाहुरविद्यया (*anyadevāhurvidyayā anyadāhuravidyayā*)
+इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे (*iti śuśruma dhīrāṇāṃ ye nastadvicacakṣire*)
+(Īśa. U. 10)
+
+Those who know say that one fruit comes from knowledge and another fruit from ignorance. If it is asked what the fruit of knowledge is and what the fruit of ignorance, then:
+
+कर्मणा पितृलोको विद्यया देवलोकः (*karmaṇā pitṛloko vidyayā devalokaḥ*)
+(Bṛ. U. 1-5-16)
+
+Śaṅkarācārya explains, in his commentary on the Īśa Upaniṣad sentence that he cites, that just as the Bṛhadāraṇyaka Upaniṣad says that the world of the gods is gained through knowledge, and the world of the fathers through ignorance, that is, through action, so it is said here too.
+
+विद्यां चाविद्यां च यस्तद्वेदोभयग्ं सह (*vidyāṃ cāvidyāṃ ca yastadvedobhayagṃ saha*)
+अविद्यया मृत्युं तीर्त्वा विद्ययामृतमश्नुते (*avidyayā mṛtyuṃ tīrtvā vidyayāmṛtamaśnute*)
+(Ī. U. 11) *[as supplied: "Ī. U." here, "Īśa. U." in the previous citation]*
+
+He who knows both knowledge and ignorance, that is, knowledge of the deity and the performance of ritual action, taken together, attains in due order the connection with a single human goal. Having crossed death, which is of the nature of action, through the performance of action, he afterwards attains immortality through knowledge of the deity: so it is said.
+
+Thus, that very lower knowledge which has been called ignorance, which is said to be set aside and not to be a means to knowledge of Brahman, yields knowledge of action, which is a means to the human goal, and in some places it is said that through the performance of that action the path to knowledge of the deity is also to be prepared. Moreover, the ṛks do not praise action alone; they also praise the nature of the Supreme Person. For example:
+
+तावानस्य महिमा ततो ज्यायाश्च पूरुषः (*tāvānasya mahimā tato jyāyāśca pūruṣaḥ*)
+पादोऽस्य सर्वा भूतानि त्रिपादस्यामृतं दिवीति (*pādo 'sya sarvā bhūtāni tripādasyāmṛtaṃ divīti*)
+(Chā. U. 3-12-39) *[as supplied: "ಛ. ಉ."]*
+
+This ṛk is cited in the Chāndogya Upaniṣad, and with the words तदेतद्वचाभ्युक्तं (*tadetadvacābhyuktaṃ*) ("this is declared by a ṛk") it is stated that the greatness of this Supreme Person is praised in a ṛk (Bhā. U. 3-12-5) *[as supplied: the abbreviation "ಭಾ. ಉ."]*. But in the Ṛk-saṃhitā the sequence of this ṛk is somewhat different.
+
 ---
 
-**Progress note:** Done through printed p. 565. pp. 559-565: Special Topics of Rk 38 (sayoni, svadha, devayana/pitryana, Upanishad citations)
+**Progress note:** Done through printed p. 572. Vol 12 pp. 566-572: end of Sukta 164 commentary; Rk 39 with Sayana bhashya, Pratipadartha, Bhavartha, Special Topics
