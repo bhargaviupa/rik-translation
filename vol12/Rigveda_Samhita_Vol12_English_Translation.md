@@ -14557,6 +14557,106 @@ In the animal offering made for the deity Speech, this ṛk चत्वार�
 (Tai. U. 1-5 *[as supplied: ತೈ. ಉ.]*) *[as supplied: spellings such as ಜ್ಯೋತಿರ್ಘಂಷಿ and ಸರ್ವೆ are kept]*
 There are three vyāhṛtis: Bhūḥ, Bhuvaḥ, Suvaḥ. Of them, Māhācamasya came to know the fourth, the great vyāhṛti called Mahaḥ. Mahaḥ is Brahman. It is the Self. The other deities are its limbs. Among these vyāhṛtis, Bhūḥ is this world; Bhuvaḥ is the atmosphere; Suvaḥ is the heaven-world. Mahaḥ is Āditya. Through Āditya alone all the worlds become great. (Here the vyāhṛtis are described as the essence of all the worlds.) *[The passage continues beyond the end of the window.]*
 
+### Printed p. 618
+*Running head: 618 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 45.]*
+
+Bhūḥ is Agni; Bhuvaḥ is Vāyu; Suvaḥ is Āditya; Mahaḥ is the Moon; through the Moon alone all the lights are made great. (Here the vyāhṛtis reflect the principle of Agni, Vāyu and Āditya, the deities of the three worlds.)
+Bhūḥ is the ṛks; Bhuvaḥ is the sāmans *[as supplied: the text runs "ಭುವಃ ಎಂಬುದೇಸಾಮಗಳು", the words joined]*; Suvaḥ is the yajus-formulas; Mahaḥ is Brahman; through Brahman alone everything is made great *[as supplied: ಮದತ್ತಾಗುವುವು]*. (Thus it is stated here that the vyāhṛtis are the essence of all the Vedas.)
+Bhūḥ is the prāṇa; Bhūḥ *[as supplied: so printed, for Bhuvaḥ]* is the apāna; Suvaḥ is the vyāna *[as supplied: ಪ್ಯಾನವು]*. Mahaḥ is food; through food alone all the vital breaths are made great. (Thus the vyāhṛtis *[as supplied: ವ್ಯಾಹ್ಪತಿಗಳನ್ನು]* that reflect the principle of the vital breath are praised by these sentences.)
+The vyāhṛtis are thus of the well-known fourfold kind (चतस्रश्चतस्रो व्याहृतयः (*catasraścatasro vyāhṛtayaḥ*)). The mutual relation of these four is of the nature of the relation of the limb and the whole (aṅgāṅgi-bhāva).
+भूर्भुवःसुवस्वरूपा महः इत्येतस्य व्याहृत्यात्मनो ब्रह्मणः अंगान्यन्या देवता इत्युक्तं । यस्य ताः अंगभूताः तस्य एतस्य ब्रह्मणः साक्षात् उपलब्ध्यर्थं उपासनार्थं च हृदयाकाशः स्थानमुच्यते (*bhūrbhuvaḥsuvasvarūpā mahaḥ ityetasya vyāhṛtyātmano brahmaṇaḥ aṃgānyanyā devatā ityuktaṃ | yasya tāḥ aṃgabhūtāḥ tasya etasya brahmaṇaḥ sākṣāt upalabdhyarthaṃ upāsanārthaṃ ca hṛdayākāśaḥ sthānamucyate*) .... .... .... .... .... ॥ *[as supplied: the dots]*
+(Śaṅkara-bhāṣya)
+All the deities indicated by the triad of vyāhṛtis, Bhūḥ, Bhuvaḥ, Suvaḥ, are limbs of the Brahman of the form of the vyāhṛti Mahaḥ. The space in the heart (hṛdayākāśa) is the place of this Brahman.
+स य एषोऽंतर्हृदय आकाशः । तस्मिन्नयं पुरषो मनोमयः । .... ........ यत्रास् केशांतो विवर्तते। व्यपोह्य शीर्षकपाले। भूरित्यग्नौ प्रतितिष्ठति । भुव इति वाय् । सुवरित्यादित्ते । मह इति ब्रह्मणि । आप्नोति स्वाराज्यं (*sa ya eṣo 'ṃtarhṛdaya ākāśaḥ | tasminnayaṃ puraṣo manomayaḥ | .... ........ yatrās keśāṃto vivartate| vyapohya śīrṣakapāle| bhūrityagnau pratitiṣṭhati | bhuva iti vāy | suvarityāditte | maha iti brahmaṇi | āpnoti svārājyaṃ*) *[as supplied: the passage is printed with a row of dots after ಮನೋಮಯಃ ।, and ಯತ್ರಾಸ್, ವಾಯ್, ಆದಿತ್ತೇ as printed]*
+(Te. U. 1-6 *[as supplied: ತೆ. ಉ.]*)
+In this description the way is told to attain the Īśvara form of Indra *[as supplied: ಇಂದ್ರನ ಈಶ್ವರರೂಪ]*, who is realised in the space of the heart and is the very nature of the worshipper. The worshipper of the Self made of mind (manomaya), who has worshipped by the suṣumnā channel, goes out by the crown of the head and stands in Agni, the presiding deity of this world, who is of the form of the vyāhṛti Bhūḥ and is a limb of the great Brahman. In the same way he stands in Vāyu, who is of the form of the second vyāhṛti Bhuvaḥ, and then in Āditya, who is of the form of the third vyāhṛti Suvaḥ. Then he stands in the Supreme Brahman, who is the whole of all (aṅgin), called Mahaḥ. That is, being in all of them in the state of the Self, he becomes Brahman itself and obtains the svārāj *[as supplied: ಸ್ವಾರಾಜನನ್ನು]*, that is, the form of svarāṭ, is the meaning. This is described in "सत्यात्म प्राणारामं मन आनंदं । शांतिसमृद्धममृतं (*satyātma prāṇārāmaṃ mana ānaṃdaṃ | śāṃtisamṛddhamamṛtaṃ*)" and so on.
+
+### Printed p. 619
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨.] Ṛgveda-saṃhitā 619 (as supplied).*
+
+In the Chāndogya-upaniṣad it is said that the Praṇava arose from the vyāhṛtis, that all the worlds arose from the Praṇava, and that the Praṇava itself is all the worlds.
+प्रजापतिर्लोकानभ्यतपत्तेभ्योऽभितप्लेभ्यस्त्रयी विद्या संप्रास्रवत्तामभ्यतपत्तस्या अभितप्ताया एतान्यक्षराणि संप्रास्रवंत भूर्भुवःस्परिति (*prajāpatirlokānabhyatapattebhyo 'bhitaplebhyastrayī vidyā saṃprāsravattāmabhyatapattasyā abhitaptāyā etānyakṣarāṇi saṃprāsravaṃta bhūrbhuvaḥspariti*) ॥
+(Chā. U. 2-23-1 *[as supplied: ಛಾ. ಉ.]*)
+Prajāpati caused all the worlds to be heated. From those worlds, made ripe, the Veda of the threefold form arose. When he caused the three Vedas to be heated, from those, ripened, the vyāhṛtis Bhūḥ, Bhuvaḥ, Svaḥ arose.
+तान्यभ्यतपत्तेभ्योऽभितप्तेभ्य ओंकारः संप्रास्रवत्तद्यथा शंकुना सर्वाणि पर्णानि संतृण्णान्वेवमोंकारेण सर्वा वाक्संतृण्णींकार एवेदं सर्वमोंकार एवेदं सर्वं (*tānyabhyatapattebhyo 'bhitaptebhya oṃkāraḥ saṃprāsravattadyathā śaṃkunā sarvāṇi parṇāni saṃtṛṇṇānvevamoṃkāreṇa sarvā vāksaṃtṛṇṇīṃkāra evedaṃ sarvamoṃkāra evedaṃ sarvaṃ*) ॥
+(Chā. U. 2-23-2)
+When the vyāhṛtis were caused to be heated, from them the Praṇava, of the form of Oṃkāra, arose. Just as all leaves are held together on the support of a single peg, so all kinds of speech are held together on the support of this Praṇava. "Oṃ" itself is all the worlds. These vyāhṛtis are the worlds, the earth and the rest, and the deities, Agni and the rest. These are the protectors of the worlds.
+अथ यदवोचं भूः प्रपद्य इति पृथिवीं प्रपद्येंतरिक्षं प्रपद्ये दिवं प्रपद्य इत्येव तदवोचं (*atha yadavocaṃ bhūḥ prapadya iti pṛthivīṃ prapadyeṃtarikṣaṃ prapadye divaṃ prapadya ityeva tadavocaṃ*) ।
+"We have obtained the protection of the vyāhṛti Bhūḥ" means that one should say that the protection of the triad of worlds also, earth, atmosphere and heaven, has been obtained.
+अथ यदवोचं भुवः प्रपद्य इत्यग्निं प्रपद्ये वायुं प्रपद्य आदित्यं प्रपद्य इत्येव तदवोचं (*atha yadavocaṃ bhuvaḥ prapadya ityagniṃ prapadye vāyuṃ prapadya ādityaṃ prapadya ityeva tadavocaṃ*) ॥
+"We have obtained the protection of the vyāhṛti Bhuvaḥ" means that the protection of all these deities, Agni, Vāyu and Āditya, has been obtained.
+अथ यदवोचं स्वः प्रपद्य इत्यग्वेदं प्रपद्ये यजुर्वेदं प्रपद्ये सामवेदं प्रपद्य इत्येव तदवोचं तदवोचं (*atha yadavocaṃ svaḥ prapadya ityagvedaṃ prapadye yajurvedaṃ prapadye sāmavedaṃ prapadya ityeva tadavocaṃ tadavocaṃ*) ।
+"We have obtained the protection of the vyāhṛti Svaḥ" means that the protection of all the śrutis, the Ṛgveda, Yajurveda and Sāmaveda, has been obtained.
+
+### Printed p. 620
+*Running head: 620 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+Since the greatness of the triad of vyāhṛtis and of the Praṇava is described in this way in many śruti passages, Sāyaṇa has explained: सप्रणवासु व्याहृतिषु सर्वा वाक् परिमितेति केचन वेदवादिनो वदंति (*sapraṇavāsu vyāhṛtiṣu sarvā vāk parimiteti kecana vedavādino vadaṃti*). The Nirukta-writers have stated that this is one among the many explanations possible for चत्वारि पदानि (*catvāri padāni*). Secondly:
+(2) नामाख्याते चोपसर्गनिपाताश्चैति वैयाकरणाः (*nāmākhyāte copasarganipātāścaiti vaiyākaraṇāḥ*) । The four classes, नाम (*nāma*), आख्यात (*ākhyāta*), उपसर्ग (*upasarga*) and निपात (*nipāta*), are meant by चत्वारि पदानि (*catvāri padāni*); this is the view of the grammarians. [Patañjali and others have made the division into जातिशब्द (*jātiśabda*), गुणशब्द (*guṇaśabda*), क्रियार शब्द (*kriyāra śabda*) *[as supplied: ಕ್ರಿಯಾರ]* and द्रव्यशब्द (*dravyaśabda*).] By such authority alone all worldly and Vedic usage goes on. These four classes are explained in the Nirukta:
+तद्यान्येतानि चत्वारि पदजातानि नामाख्याते चोपसर्गनिपाताश्च तानीमानि भवंति । तत्रैतन्नामाख्यातयोर्लक्षणं प्रदिशंति भावप्रधानमाख्यातं सत्त्वप्रधानानि नामानि (*tadyānyetāni catvāri padajātāni nāmākhyāte copasarganipātāśca tānīmāni bhavaṃti | tatraitannāmākhyātayorlakṣaṇaṃ pradiśaṃti bhāvapradhānamākhyātaṃ sattvapradhānāni nāmāni*) ।
+(Ni. 1-2 *[as supplied: the abbreviation is printed in Telugu script, for ನಿ.]*)
+Among these four kinds, the Nirukta states their characteristics: that in which becoming (bhāva) is predominant is the ākhyāta, and that in which substance (sattva) is predominant is the nāma. In the Bṛhaddevatā too:
+शब्देनोच्चरितेनेह येन द्रव्यं प्रतीयते । तदक्षरविधौ युक्तं नामेत्याहुर्मनीषिणः ॥ अष्टौ यत्र प्रयुज्यंते नानार्थेषु विभक्तयः । तन्नाम कवयः प्राहुर्भेदे वचनलिंगयोः (*śabdenoccariteneha yena dravyaṃ pratīyate | tadakṣaravidhau yuktaṃ nāmetyāhurmanīṣiṇaḥ ‖ aṣṭau yatra prayujyaṃte nānārtheṣu vibhaktayaḥ | tannāma kavayaḥ prāhurbhede vacanaliṃgayoḥ*) ॥
+(Bṛ. Me. 1-42, 85 *[as supplied: ಬೃ. ಮೇ.]*)
+The word by whose utterance a substance comes into view is called by the learned a "nāma". The characteristic of the "nāma" has been stated thus *[as supplied: the printed words "ನಾಮ ' ವ ಲಕ್ಷಣವು" are garbled]*: that word which has a suffix showing differences of meaning and which shows differences of gender and number is called "nāma" by the poets. Then, stating the nature of the ākhyāta:
+क्रियासु बह्वीष्वभिसंश्रितो यः पूर्वापरीभूत इहैक एव । क्रियाभिनिर्वृत्तिवशेन सिद्ध आख्यातशब्देन तमर्थमाहुः (*kriyāsu bahvīṣvabhisaṃśrito yaḥ pūrvāparībhūta ihaika eva | kriyābhinirvṛttivaśena siddha ākhyātaśabdena tamarthamāhuḥ*) ॥
+(Bṛ. De. 1-44)
+The characteristic of the ākhyāta is stated: the bhāva which is connected with various actions, which changes from a former state and which indicates the growth of a work, is called ākhyāta. How many divisions of the ākhyāta there are is also explained further on thus.
+
+### Printed p. 621
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೨೨] Ṛgveda-saṃhitā 621 (as supplied; "ಪ." for ವ. as printed).*
+
+भावप्रधानमाख्यातं षड्विकारा भवंति ते । जन्मास्तित्वं परीणामो वृद्धिर्हानं विनाशनं ॥ एतेषामेव षण्णां तु येऽन्ये भावविकारजाः (*bhāvapradhānamākhyātaṃ ṣaḍvikārā bhavaṃti te | janmāstitvaṃ parīṇāmo vṛddhirhānaṃ vināśanaṃ ‖ eteṣāmeva ṣaṇṇāṃ tu ye 'nye bhāvavikārajāḥ*) ॥
+(Bṛ. De. 2-121, 122)
+In the ākhyāta, in which becoming (Becoming) is predominant, there are six kinds of bhāva: origin, existence, change, growth, decline (decline), and destruction. The other modifications of bhāva too arise from these roots alone. The Nirukta-passage itself is the basis for this division made in the Bṛhaddevatā. In the Nirukta, having first stated that what is predominantly substance is nāma and what is predominantly becoming is ākhyāta, the nature of sattva and bhāva is then explained as the description of sattva and the description of bhāva.
+आद इति सत्त्वानामुपदेशः । गौरश्वः पुरुषो हस्तीति (*āda iti sattvānāmupadeśaḥ | gauraśvaḥ puruṣo hastīti*) ।
+(Ni. 1-2 *[as supplied: the abbreviation is printed in Telugu script]*)
+Every object indicated by the word "ad" *[as supplied: ಆದ ... ಆದಶ್ಯಬ್ದ]* is sattva: गौः (*gauḥ*) "cow", अश्वः (*aśvaḥ*) "horse", पुरुषः (*puruṣaḥ*) "man" and so on.
+भवतीति भावस्य । आस्ते, शेते, व्रजति, तिष्ठतीति (*bhavatīti bhāvasya | āste, śete, vrajati, tiṣṭhatīti*) ।
+(Ni. 1-1 *[as supplied: Telugu-script abbreviation]*)
+"He sits", "he lies down", "he goes", "he stands" and so on: that which makes known works *[as supplied: ಕಾವ್ಯಗಳನ್ನು, "poems", where "actions" is evidently meant]* of the nature of bhāva is bhāva (Becoming). Thus, stating the characteristics of nāma and ākhyāta, the Nirukta mentions also differing views on this division of words:
+इंद्रियनित्यं वचनमौदुंबरायणः । तत्र चतुष्ट्वं नोपपद्यते (*iṃdriyanityaṃ vacanamauduṃbarāyaṇaḥ | tatra catuṣṭvaṃ nopapadyate*) ।
+(2. 1-2 *[as supplied: so printed, the abbreviation missing]*)
+Since speech has only the eternity of the sense-organ, the four divisions stated above are not right: such is the view of Audumbarāyaṇa. The reason he gives for not agreeing to the division into "four words" is also discussed in sentences beginning युगपदुत्पन्नानां (*yugapadutpannānāṃ*). [That explanation is not given here because it would become very long.] After the nature of sattva has been stated, the explanation of bhāva is shown, and its nature and divisions are stated (Ni. 1-2).
+षड्भावविकारा भवंतीति वार्षायणिर्जायतेऽस्ति विपरिणमते वर्धतेऽपक्षीयते विनश्यतीति (*ṣaḍbhāvavikārā bhavaṃtīti vārṣāyaṇirjāyate 'sti vipariṇamate vardhate 'pakṣīyate vinaśyatīti*) ।
+According to the view of Vārṣāyaṇi, bhāvas can be divided into six kinds: birth, existence, change, growth, decay and destruction. Among them,
+
+### Printed p. 622
+*Running head: 622 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೪.] (as supplied).*
+
+(1) जायत इति पूर्वभावस्यादिमाचष्टे, नापरभावमाचष्टे, न प्रतिषेधति (*jāyata iti pūrvabhāvasyādimācaṣṭe, nāparabhāvamācaṣṭe, na pratiṣedhati*) ।
+The bhāva of the form of origin (Generis [sic]) shows only the beginning of the former bhāva. But it does not state the condition of the later bhāva either in the sense of existence or in the sense of negation.
+1. (2) अस्तीत्युत्पन्नस्य सत्त्वस्यावधारणं (*astītyutpannasya sattvasyāvadhāraṇaṃ*) । *[as supplied: the stray "1." before (೨)]*
+The verb "asti" states the condition of the sattva that has arisen.
+(3) विपरिणमत इत्यप्रच्यवमानस्य तत्त्वाद्विकारं (*vipariṇamata ityapracyavamānasya tattvādvikāraṃ*) ।
+The verb "vipariṇamate" indicates only the change of a principle that does not decay.
+(4) वर्धत इति स्वांगाभ्युच्चयं सांयोगिकानां वार्थानां वर्धते विजयेनेति वा वर्धते शरीरेणेति वा (*vardhata iti svāṃgābhyuccayaṃ sāṃyogikānāṃ vārthānāṃ vardhate vijayeneti vā vardhate śarīreṇeti vā*) ।
+The verb "vardhate" indicates either the growth of the parts of the body or the growth of the meanings (artha) connected with the respective thing. For example: he grows by victory; or he grows by body, and so on.
+(5) अपक्षीयत इत्येतेनैव व्याख्यातः प्रतिलोमं (*apakṣīyata ityetenaiva vyākhyātaḥ pratilomaṃ*) ।
+The word "kṣaya" itself indicates the bhāva opposed to growth.
+(6) विनश्यतीत्यपरभावस्यादिमाचष्टे न पूर्वभावमाचष्टे न प्रतिषेधति (*vinaśyatītyaparabhāvasyādimācaṣṭe na pūrvabhāvamācaṣṭe na pratiṣedhati*) ।
+Destruction indicates the beginning of the later bhāva, but it does not state the condition of the former bhāva either in the form of existence or in the form of negation.
+अतोऽन्ये भावविकारा एतेषामेव विकारा भवंतीति ह स्माह । ते यथावचनमभ्यूहितव्याः (*ato 'nye bhāvavikārā eteṣāmeva vikārā bhavaṃtīti ha smāha | te yathāvacanamabhyūhitavyāḥ*) The other modifications of bhāva also arise from these roots alone. They are to be inferred according to context. Having thus stated the characteristics of nāma and ākhyāta, the Nirukta discusses the nature of the upasarga, which comes next (Ni. 1-2).
+न निर्बद्धा उपसर्गार्थान्निराहुरिति शाकटायनः । नामाख्यातयोस्तु कर्मोपसंयोगद्योतका भवंति (*na nirbaddhā upasargārthānnirāhuriti śākaṭāyanaḥ | nāmākhyātayostu karmopasaṃyogadyotakā bhavaṃti*) । It is the view of Śākaṭāyana that an upasarga which is not joined either with a nāma or with an ākhyāta has no meaning, and that upasargas express only the secondary meaning of the nāma and the ākhyāta.
+उच्चावचाः पदार्था भवंतीति गार्ग्यः । तद्य एषु पदार्थः प्राहुरिमे तं नामाख्यातयोरर्थविकरणं (*uccāvacāḥ padārthā bhavaṃtīti gārgyaḥ | tadya eṣu padārthaḥ prāhurime taṃ nāmākhyātayorarthavikaraṇaṃ*) । It is the view of Gārgya that upasargas have different meanings and cause the meaning of the nāma and ākhyāta to be changed. For example—
+
+### Printed p. 623
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨.] Ṛgveda-saṃhitā 623 (as supplied).*
+
+आ इत्यर्वागर्थे । प्रपरेत्येतस्य प्रातिलोम्यं । अभीत्याभिमुख्यं (*ā ityarvāgarthe | praparetyetasya prātilomyaṃ | abhītyābhimukhyaṃ*) and so on: thus the meanings of the upasargas आ (*ā*), प्र (*pra*), पर (*para*) and others are shown (Ni. 1-3). Next:
+आथ निपाताः । उच्चावचेष्वर्थेषु निपतंति । अप्युपमार्थेऽपि कर्मोपसंग्रहार्थेऽपि पदपूरणाः (*ātha nipātāḥ | uccāvaceṣvartheṣu nipataṃti | apyupamārthe 'pi karmopasaṃgrahārthe 'pi padapūraṇāḥ*) ।
+(Ni. 8-4 *[as supplied]*)
+Nipātas have many meanings. Nipātas are used in the sense of comparison, in the sense of conjunction, in the sense of excess, in the sense of negation, and likewise in still other meanings. नेति प्रतिषेधार्थियो भाषायां, नु इत्येषोऽनेककर्मा (*neti pratiṣedhārthiyo bhāṣāyāṃ, nu ityeṣo 'nekakarmā*) ! The nipāta न (*na*) is of negative meaning, and so on; thus the meanings and the uses of nipātas are explained in detail (Ni. 2-4). The Bṛhaddevatā says the same:
+उच्चावचेषु चार्थेषु निसाताः समुदाहृताः । कर्मोपसंग्रहार्थे च क्वचिच्छौपम्यकारणात् ॥ ऊनानां पूरणार्था ना पादानामसरे क्वचित् । मिताक्षरेषु ग्रंथेषु पूरणार्थास्त्वनर्थकाः (*uccāvaceṣu cārtheṣu nisātāḥ samudāhṛtāḥ | karmopasaṃgrahārthe ca kvacicchaupamyakāraṇāt ‖ ūnānāṃ pūraṇārthā nā pādānāmasare kvacit | mitākṣareṣu graṃtheṣu pūraṇārthāstvanarthakāḥ*) ॥
+(Bṛ. De. 2-89 to 92 *[as supplied: "ರಿಂದ,"; the verse is printed "ನಿಸಾತಾಃ"]*)
+It is stated in these and similar sentences. These sentences too indicate the meaning stated above. Thus, for चत्वारि पदानि (*catvāri padāni*) in the ṛk under consideration, the four parts nāma, ākhyāta, upasarga and nipāta are the view of the grammarians and of the Nirukta-writers. In the same way, the Nirukta, giving also the meanings stated by others:
+3) मंत्रः, कल्पो, ब्राह्मणं, चतुर्थी व्यावहारिकीति याज्ञिकाः (*maṃtraḥ, kalpo, brāhmaṇaṃ, caturthī vyāvahārikīti yājñikāḥ*) । The three Vedic divisions, mantra, kalpa and brāhmaṇa, together with the fourth, the worldly one, make four parts in all: this is the opinion of the sacrificers (yājñikas).
+4) ऋचो, यजूंषि सामानि चतुर्थी व्यावहारिकीति नैरुक्ताः (*ṛco, yajūṃṣi sāmāni caturthī vyāvahārikīti nairuktāḥ*) । The Ṛgveda, the Yajurveda, the Sāman, and the fourth, the worldly one: this is the view of the Nirukta-writers.
+5) सर्पाणां वाग्वयसां कुद्रस्य सरीसृपस्य चतुर्थी व्यावहिरिकीत्येकॆ (*sarpāṇāṃ vāgvayasāṃ kudrasya sarīsṛpasya caturthī vyāvahirikītyekè*) *[as supplied: ಕುದ್ರಸ್ಯ and ವ್ಯಾವಹಿರಿಕೀ as printed]* । The threefold speech of serpents, of birds and of worms and insects, together with the worldly speech of men, make four: this is the opinion of some others. In this way the Nirukta-writers have stated the other meanings possible for this sentence (Ni. 13-9).
+गुहा त्रीणि निहिता नेंगयंति तुरीयं वाचो मनुष्या वदंति (*guhā trīṇi nihitā neṃgayaṃti turīyaṃ vāco manuṣyā vadaṃti*) । Among these four kinds of speech, three kinds of speech are beyond the reach of our worldly perception; that is *[the passage breaks off here at the end of the window, to be continued]*
+
 ---
 
-**Progress note:** Done through printed p. 617. pp. 612-617: end of Ṛk 44 special topics, grammar of Ṛk 44, Ṛk 45 (four grades of speech) with bhāṣya and start of Special Topics
+**Progress note:** Done through printed p. 623. pp. 618-623: Special Topics of Ṛk 45 (vyāhṛtis, Tai. U., Chā. U., Nirukta fourfold divisions of speech)
