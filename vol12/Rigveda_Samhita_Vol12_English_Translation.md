@@ -4749,6 +4749,69 @@ he has explained, with ब्रह्मैको जाते जाते व
 
 ये (*ye*)—who; यूपव्रस्काः (*yūpavraskāḥ*)—cut the tree suitable for the sacrificial post; उत (*uta*)—and; (ये (*ye*)—who) यूपवाहाः (*yūpavāhāḥ*)—carry the (cut) tree for the post; ये (*ye*)—who; अश्वयूपाय (*aśvayūpāya*)—for the post to which the horse is tied; चषालं (*caṣālaṃ*)—the ring *[printed "ಕೊಂಡಿ", a hook or ring]* to be attached to the upper part of the post; तक्षति (*takṣati*)—make (procure); ये (*ye*)—who; आर्वते (*ārvate*)—for the sacrificial horse... *[the supplied text ends here, after "ಯಜ್ಞಾಶ್ವ"; the rest of the Pratipadārtha is in the next window]*
 
+### Printed p. 172
+
+*Running head: 172 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬.] (as supplied: "ಸೂ. ೧೬." for "೧೬೨").* (Sūkta 162, Ṛk 6: the Pratipadārtha continues from the previous window.)
+
+**Pratipadārtha (continued)**
+
+...क्कागि । (*kkāgi |*) *[completes "ಯಜ್ಞಾಶ್ವ|ಕ್ಕಾಗಿ", "for the sacrificial horse", cut at the end of the previous window]* पचनं (*pacanaṃ*)—the vessels and the like that are the means of cooking; संभरंति (*saṃbharaṃti*)—procure, (of those who); their अभि (*abhi*)गूर्तिः (*gūrtiḥ*) *[the word is split over two lines]*—faith-filled intelligence (resolve); नः (*naḥ*)—our (and); तेषां (*teṣāṃ*)—belonging to them, the priests' (desired aims); इन्वतु (*invatu*)—may it bring to fulfilment.
+
+*[The label of the Bhāvārtha is garbled in the supplied text ("ಭಾಷಾರ್ಥ", printed without a blank line before it); the standard label is inserted and the garbled word kept in kn.md as an italic note.]*
+
+**भावार्थ (Bhāvārtha)**
+
+May the faith-filled intelligence of all those who cut the tree suitable for the post, those who then carry that tree, those who prepare the ring or hook to be fixed on the top of that post for tying the horse, and those who make ready the vessels and the like as the means of cooking for the sacrificial horse, bring to fulfilment the desired aims of us and of the priests connected with us.
+
+**Printed English translation**
+
+Whether they be those who cut the (sacrificial) post, or those who bear the post, or those who fasten the rings on the top of the post, to which horse (is bound), or those who prepare the vessels in which the food of the horse is dressed, let the exertions of them all fulfil our expectations.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+तक्षति-तक्षतिः करोटिकर्मा । (*takṣati-takṣatiḥ karoṭikarmā |*) (Ni. 4-19) *[so printed, "ಕರೋಟಿ"]* "Chaṣāla" means: those who make ready and finish the ring on the top for tying the horse to the post.
+
+अभिगूर्ति: (*abhigūrti:*)—this word is explained as "resolve". The good intent to perform the enjoined rites without fail and the devotion to the rite are indicated.
+
+इन्वति— इन्वतिः व्याप्तिकर्मा (*invati— invatiḥ vyāptikarmā*) (Ni. 2-18) यागं साधुपारं प्रापय्य फलेन (*yāgaṃ sādhupāraṃ prāpayya phalena*) योजयत्वित्यर्थः । (*yojayatvityarthaḥ |*) The purport is that the excellent resolve of all of them may bring our desired aims to fulfilment.
+
+ये यूपव्रस्काः उत ये यूपवाहाः (उत) ये अश्वयूपाय चषालं (*ye yūpavraskāḥ uta ye yūpavāhāḥ (uta) ye aśvayūpāya caṣālaṃ*)
+तक्षति (*takṣati*)—in this ṛk some acts to be performed before planting the sacrificial post (yūpa-stambha) are described. "Yūpa" means the wooden post planted in the sacrifice for tying the animal. Although the use of the word "yūpa" in the Ṛgveda is not frequent (it occurs only in the ṛks 1-51-14, 1-162-6, 4-33-3 and 5-2-7), the word "vanaspati", which indicates the same meaning, is much used. Therefore this post is always connected with a tree or wood; one can say that it is not connected with metal
+
+### Printed p. 173
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೮. ] Ṛgveda-saṃhitā 173 (as supplied).*
+
+*[so the sentence is split over the page break: "ಲೋಹಸಂಬಂಧ|ವಾದದ್ದಲ್ಲ"]*. When a sacrifice is performed, people on the sacrificer's side go to the forest and cut a tree suitable for the post to the proper shape. Others bring them, carrying them, to the sacrificial ground. Others carve them well and attach at the top a ring or hook for tying the horse. This is what is said in the first half of this ṛk. यूपव्रस्काः (*yūpavraskāḥ*) means those who go to the forest for the post and cut the tree, यूपवाहाः (*yūpavāhāḥ*) those who carry the cut tree from the forest to the sacrificial ground, and ये आश्वयूपाय चषालं तक्षति (*ye āśvayūpāya caṣālaṃ takṣati*) *[so printed, "ಆಶ್ವ"]* those who attach the ring (चषाल (*caṣāla*)) (or hook) at the top of the post to which the horse is tied. They must generally be people who know woodwork: to carve the tree smooth, cut it to the proper measure and fit the ring at the top, they must be skilled in those works. The tree thus prepared is planted upright in the sacrificial ground. In this matter,
+
+ऊर्ध्व ऊ षु ण ऊतये तिष्ठा देवो न सविता । (*ūrdhva ū ṣu ṇa ūtaye tiṣṭhā devo na savitā |*)
+ऊर्ध्वो वाजस्य सनिता यदंजिभिर्वाघद्भिर्विह्वयामहे ॥ (*ūrdhvo vājasya sanitā yadaṃjibhirvāghadbhirvihvayāmahe ‖*)
+ऊर्ध्वो नः पाह्यंहसो नि केतुना विश्वं समत्रिणं दह । (*ūrdhvo naḥ pāhyaṃhaso ni ketunā viśvaṃ samatriṇaṃ daha |*)
+कृधी न ऊर्ध्वाञ्चरथाय जीवसे विदा देवेषु नो दुवः ॥ (*kṛdhī na ūrdhvāñcarathāya jīvase vidā deveṣu no duvaḥ ‖*) (Ṛ. Saṃ. 1-36-14)
+
+in these ṛks the matter of the prayer to the post when it is planted is stated. After the post is planted, they anoint it with ghee and the like (smear it with ghee), adorn it, perform many sanskāras with mantras, and pray to it. This is told in detail in the sūkta आंजंति त्वामध्वरे देव (*āṃjaṃti tvāmadhvare deva*)यंतः (*yaṃtaḥ*) (Ṛ. Saṃ. 3-8) *[the word is split over two lines]*. This whole sūkta is the praise of the post.
+
+In the Aśvamedha there is only one post, but in some sacrifices it seems that the custom was to plant many posts in accordance with the number of animals. On this matter the opinion of some Western scholars is:
+
+"Twenty-one posts, of different kinds of wood, each twenty-one cubits long, are to be set up to which the different animals are to be fastened, amounting to three-hundred and forty-nine, besides two hundred and sixty wild animals, making altogether six hundred and nine according to Katyayana ; a similar enumeration occurs in the Ramayana b. i. ch. 12, 13 ; but the text is no warrant for such a multiplication and it would seem as if a single post
+
+### Printed p. 174
+
+*Running head: 174 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+was intended ; when the word occurs uncompounded it is in the singular चषालं ये अश्वयूपाय तक्षति (*caṣālaṃ ye aśvayūpāya takṣati*). चषाल (*caṣāla*) is given in the आमरकोश (*āmarakośa*) and is explained by most of the commentators a wooden ring. or bracalet [sic] on the top of the sacrificial post; some notice also authority for its being an iron ring at the foot of the post." *[English as supplied, with the Sanskrit words in Kannada letters as printed; the hyphenated line break "ಅಶ್ವಯೂ-ಪಾಯ" is joined.]*
+
+Thus it is said. The matter of the post will be explained in detail when the sūkta अजंतित्वा (*ajaṃtitvā*) *[so printed, probably for "ಆಂಜಂತಿ ತ್ವಾ"]* is expounded.
+
+ये च अर्वते पचनं संभरंति (*ye ca arvate pacanaṃ saṃbharaṃti*)—the commentator and others have explained this sentence as people who prepare the equipment needed for cooking food for the horse, that is, vessels and the like. Although this meaning appears from the words of the sentence, it is possible to conjecture that there may be another meaning besides this. The reason for making vessels for cooking the horse's food in a sacrifice is not so strong. It is the opinion of some that probably the vessels needed for cooking the limbs and flesh of the horse when they are offered to the gods may be what is indicated here. Since cooking food in a wooden vessel is not possible, it may be that the making of wooden vessels in which cooked food, or the flesh and other parts of the horse before the offering, are to be placed is what is specified. For to the words of this sūkta, or पचनं संभरंति (*pacanaṃ saṃbharaṃti*),
+
+ये वाजिनं परिपश्यंति पक्वं य ईमाहुः सुरभिर्नर्हरेति । (*ye vājinaṃ paripaśyaṃti pakvaṃ ya īmāhuḥ surabhirnarhareti |*)
+ये चार्वतो मांसभीक्षामुपासत उतो तेषामभिगूर्तिन् इन्वतु ॥ (*ye cārvato māṃsabhīkṣāmupāsata uto teṣāmabhigūrtin invatu ‖*) (Ṛ. Saṃ. 1-162-12)
+
+in this ṛk, since the cooking of the flesh of the horse (the sacrificial animal) is stated, support for this kind of meaning is found. It may also mean collecting and bringing wood and the like (firewood) that are the means of cooking.
+
+तेषां अभिगूर्तिःनः इन्वतु (*teṣāṃ abhigūrtiḥnaḥ invatu*)—for this sentence Sāyaṇa has explained, नोऽस्मत्संबंधिना तेषामृत्विजामभिगूर्तिः संकल्पः सर्वथा करणीयमिति बुद्धिरिन्वतु व्याप्नोतु । यागं साधुपारं प्रापय्य फलेन योजयत्वित्यर्थः (*no 'smatsaṃbaṃdhinā teṣāmṛtvijāmabhigūrtiḥ saṃkalpaḥ sarvathā karaṇīyamiti buddhirinvatu vyāpnotu | yāgaṃ sādhupāraṃ prāpayya phalena yojayatvityarthaḥ*) *[the hyphenated line breaks "ತೇಷಾಮೃ-ತ್ವಿಜಾ" and "ಸಾಧು-ಪಾರಂ" are joined]*—that is, in the matters mentioned above, namely felling the tree for the post, carrying it, carving and fixing it and attaching the ring at the top, and making the vessels for preparing the horse's food, and in the other rites, the explanation is given in such a way that our priests may be favoured as they wish, so that their purpose is accomplished and the fruit of the sacrifice performed reaches us. That is, as Wilson says, "Let the exertions of them all fulfil our expectations": the meaning is that the labour they have taken in these matters may be fruitful and bring us satisfaction.
+
 ---
 
-**Progress note:** Done through printed p. 171 (PDF 171). Sūkta 162 Ṛk 5 Special Topics end and grammar; Ṛk 6 Saṃhitā (picture) to Pratipadārtha start
+**Progress note:** Done through printed p. 174 (PDF 174). Sūkta 162 Ṛk 6 Pratipadārtha end, Bhāvārtha, English, Special Topics
