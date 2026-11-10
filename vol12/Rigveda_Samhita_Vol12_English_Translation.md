@@ -15757,6 +15757,173 @@ in the Ṛk under discussion it is stated that the mouth of Agni is absolutely n
 **भावार्थ (Bhāvārtha)**
 I call again and again, for protection, the god who is born of the heavenly world, who has an excellent means of falling *[as supplied: ಪತನಸಾಧನ, where the Pratipadārtha has "excellent leaves"; kept]*, who is of moving nature, endowed with greatness, the producer of waters, the illuminator of the herbs, who favourably satisfies the world with rains, and who is full of water.
 
+### Printed p. 670
+*Running head: 670 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied; the closing bracket is missing in the print).*
+
+**Printed English**
+I invoke for our protection the celestial, well-winged, swift-moving majestic (sun); who is the germ of the waters; the displayer of herbs; the cherisher of lakes; replenishing the ponds with rain.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the sacrifice connected with the Sarasvat deity, at the time of the animal offering, this Ṛk दिव्यं सुपर्ण० (*divyaṃ suparṇa0*) is to be recited as the yājyā mantra for the vapā oblation. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra दिव्यं सुपर्ण० वायसं बृहंतं स वावृधे नर्यो योषणासु (*divyaṃ suparṇa0 vāyasaṃ bṛhaṃtaṃ sa vāvṛdhe naryo yoṣaṇāsu*) (Ā. 3-8; abbreviation as supplied), and that this very Ṛk is to be used as the yājyā mantra in the Sarasvat sacrifice connected with the Anvārambhaṇīya rite is explained by the sūtra of the same Āśvalāyana Śrauta Sūtra दिव्यं सुपर्ण० वायसं बृहंतमा सवं सनितुर्यथा (*divyaṃ suparṇa0 vāyasaṃ bṛhaṃtamā savaṃ sanituryathā*) (Ā. 2-8) *[as supplied: ಸನಿತುರ್ಯಥಾ is so printed; kept]*.
+
+This mantra has the Sarasvat deity. The injunctive sentence सरस्वद्देवताके पशौ दिव्यं सुपर्णं इति वषायाज्या (*sarasvaddevatāke paśau divyaṃ suparṇaṃ iti vaṣāyājyā*) (Āśv. Śau. 3-8; abbreviation as supplied) states the application of this mantra *[as supplied: ವಷಾಯಾಜ್ಯಾ is so printed; kept]*. For the word सरस्वंतं (*sarasvaṃtaṃ*) Sāyaṇa has said, as an alternative, that it may mean "the god, the sun", or the deity called Sarasvat *[as supplied: the print has ನಾ after ಸೂರ್ಯಂ, apparently for ವಾ "or"; kept]*; or, since the word *saras* means water, Sarasvat would be the sun endowed with water. The epithets in this Ṛk such as दिव्यं सुपर्णं (*divyaṃ suparṇaṃ*) support both these meanings.
+
+By stating the derivation of the word Sarasvatī, the Nirukta-author has also, as it were, stated the meaning of the word Sarasvat, and he indicates this by saying सरस्वान् व्याख्यातः (*sarasvān vyākhyātaḥ*) (Ni. 10-27). Stating the derivation of the word Sarasvatī:
+
+सरस्वती सर इत्युदकनाम सर्तॆस्तद्वर्ती (*sarasvatī sara ityudakanāma sartèstadvartī*)
+(Ni. 9-26)
+
+*Sara* means water. She who has it is Sarasvatī (this may be the name of the deity of the form of a river). Having stated that the same explanation gives the meaning of the word Sarasvat also, he then quotes from the Ṛk-saṃhitā:
+
+ये ते सरस्व ऊर्मयो मधुमंतो घृतश्चुतः । तेभिर्नोऽविता भव (*ye te sarasva ūrmayo madhumaṃto ghṛtaścutaḥ | tebhirno 'vitā bhava*)
+(Ṛ. Saṃ. 7-96-5)
+
+and states that the meaning of this Ṛk becomes easy by mere reading. Even so, the words ऊर्मयः (*ūrmayaḥ*) and धृतश्चुतिः (*dhṛtaścutiḥ*) *[as supplied: so printed here, against ಘೃತಶ್ಚುತಃ in the Ṛk above]* are noteworthy here. That this deity is a deity of the middle world is understood from a statement of the Bṛhaddevatā:
+
+मन्युश्च विश्वकर्मा च मित्रः क्षेत्रपतियर्मः (*manyuśca viśvakarmā ca mitraḥ kṣetrapatiyarmaḥ*)
+
+### Printed p. 671
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೨೩] Ṛgveda-saṃhitā 671 (as supplied; the print has ಪ. where ವ. is expected).*
+
+ताक्ष्यो वास्तोष्पतिश्चैव सरस्वांश्चैवमत्र ह (*tākṣyo vāstoṣpatiścaiva sarasvāṃścaivamatra ha*)
+(Bṛ. De. 1-123; abbreviation as supplied)
+
+In the middle world, the dwelling-place of Indra, all the deities such as Manyu, Viśvakarman and Sarasvān are gathered together with Indra.
+
+सरांसि धृतवंत्यस्य संति लोकेषु यत्रिषु । सरस्वंतमिति प्राह वाचं प्राहुः सरस्वतीं (*sarāṃsi dhṛtavaṃtyasya saṃti lokeṣu yatriṣu | sarasvaṃtamiti prāha vācaṃ prāhuḥ sarasvatīṃ*)
+(Bṛ. Dē. 2-51; abbreviation as supplied)
+
+Because he has lakes (*saras*) full of ghee *[as supplied: ಧೃತಪೂರ್ಣವಾದ is so printed; kept]* in all three worlds, the name Sarasvat became famous for this deity. In the same way the goddess of speech became Sarasvatī.
+
+मातापुत्रौ तु वाक्प्राणौ माता नागितरः सुतः । सरस्वंतमिति प्राणो वाचं प्राहुः सरस्वतीं (*mātāputrau tu vākprāṇau mātā nāgitaraḥ sutaḥ | sarasvaṃtamiti prāṇo vācaṃ prāhuḥ sarasvatīṃ*)
+(Bṛ. Pē. 4-39; abbreviation as supplied)
+
+Speech is the mother; the vital breath is the son. By the word Sarasvat the vital breath is indicated, and by the word Sarasvatī speech. The two came to stand in the relation of mother and son.
+
+इंद्रं मित्रमिमे सौत्या सारी वांत्या सरस्वते (*iṃdraṃ mitramime sautyā sārī vāṃtyā sarasvate*)
+(Bṛ. Pē. 4-42; abbreviation as supplied)
+
+That the last mantra of the sūkta printed as ೨-೧-೬೪ *[as supplied: so printed; the sūkta is the 164th of the first Maṇḍala]*, "दिव्यं सुपर्णं (*divyaṃ suparṇaṃ*)", is addressed to the Sarasvat deity spoken of above is clearly understood from the Bṛhaddevatā. In the Śatapatha Brāhmaṇa, stating the relation of the two deities Sarasvat and Sarasvatī, the division of the oblation offered to them is stated in this way:
+
+तद्देके । चतू निर्वपंति पौर्णमास्यां सरस्वतेऽमावास्यायां सरस्वत्या एतत्प्रत्यक्षं दर्शपूर्णमासौ यजामह इति वदंतस्तदु तथा न कुर्यान्मनो वै सरस्वान्वाक्सरस्वती स यदेवैतावाघारयति तदेवास्य दर्शपूर्णमासाविष्टौ भवतस्तस्मादेत् चतू न निर्वपेत् (*taddeke | catū nirvapaṃti paurṇamāsyāṃ sarasvate 'māvāsyāyāṃ sarasvatyā etatpratyakṣaṃ darśapūrṇamāsau yajāmaha iti vadaṃtastadu tathā na kuryānmano vai sarasvānvāksarasvatī sa yadevaitāvāghārayati tadevāsya darśapūrṇamāsāviṣṭau bhavatastasmādet catū na nirvapet*)
+(Ś. Brā. 11-2-4-9)
+
+Sarasvat is mind; Sarasvatī is speech. Since the offering of the Āghāras is enough in the Darśa-pūrṇamāsa and other sacrifices, the Catū-nirvapana is not necessary; in stating this the relation between Sarasvat and Sarasvatī is also stated. As Sāyaṇa has explained, in the Ṛk under discussion सरस्वंतं-उदकवंतं (*sarasvaṃtaṃ-udakavaṃtaṃ*), "possessed of water"; सर इत्युदकनाम (*sara ityudakanāma*), "*sara* is a name of water"; or the god, the sun. It means either the Sarasvat deity, or the sun who is possessed of water;
+
+### Printed p. 672
+*Running head: 672 Sāyaṇa-bhāṣya-sahitā [ಮಂ ೧. ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+and even if "the sun" is the meaning taken, the epithet "Sarasvān" fits this context. Although water is not contained within the sun, the epithet is appropriate either because the sun travels in the midst of water, or because he is the producer of water: this is understood from the descriptions in the Śatapatha and other texts.
+
+अपां गंभन्सीदेति । एतद्वापां गंभिष्टं यत्रैष एतत्तपति (*apāṃ gaṃbhansīdeti | etadvāpāṃ gaṃbhiṣṭaṃ yatraiṣa etattapati*)
+(Ś. Brā. 7-5-1-8)
+
+The sun shines in the atmosphere in the midst of deep water.
+
+अग्ने दिवोऽर्णमच्छा जिगासीति । आपो ना अस्य दिवोऽर्णस्ता ............ या रोचने परस्तात्तूरस्य (*agne divo 'rṇamacchā jigāsīti | āpo nā asya divo 'rṇastā ............ yā rocane parastāttūrasya*)
+(Ś. Brā. 7-1-1-24) *[as supplied: a row of dots stands in the print inside the passage; it is kept]*
+
+O Agni, [one may say that the deity called Sarasvat is also a changed form of the Agni who dwells in the middle world]. In the heavenly world all your radiance shines in the form of the Ādityas. You shine in the stream that stands in the atmosphere; that stream is pervaded by the water of the atmosphere. The stream of that water goes even beyond the orb of light of the Āditya. In the midst of the stream spreading below, above and all around, the Agni of the form of Āditya shines: so it is described. Because of the epithet "Sarasvān" one may guess that there is also a connection with the river named Sarasvatī. The scholar Macdonell, in translating these deity-related passages of the Bṛhaddevatā, has expressed his opinion in this way:
+
+"Yaska does not explain this word Saraswati (Nirukta- X. 24) he merely remarks सरस्वान् व्याख्यातः (*sarasvān vyākhyātaḥ*) This must refer to Nir. II. 23. where सरस्वती (*sarasvatī*) is stated to be a name of वै.क् (*vai.k*) (R. V. VI. 61-2) being quoted as an example of सरस्वती (*sarasvatī*) as a river, while examples of her as a goddess (मध्यस्थाना स्त्री (*madhyasthānā strī*)) were defferred to Nir. XI. 25-27." *[as supplied: "defferred" and the form ವೈ.ಕ್ are so printed; kept]*
+(Brihaddevata. II. 51. Translation and notes, by Macdonell. p. 44.)
+
+There are two epithets, सुपर्णं वायसं (*suparṇaṃ vāyasaṃ*). Sāyaṇa has explained the word *suparṇa* as "of beautiful motion" and the word *vāyasa* as "of moving nature". Wilson's rendering of *suparṇa* as "Well-Winged" seems appropriate. The word *suparṇa* is read among the names of rays (Ni. 2-15) and among the names of horses (Ni. 2-27), and it is also used in the meanings bird, arrow and the like. Whichever meaning is taken, it conveys the sense शोभनपतन (*śobhanapatana*), that is, "that which moves charmingly". The derivation of this word and its uses in different meanings have been stated on page 42 of this same part;
+
+### Printed p. 673
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೨೩.] ಋಗ್ವೇದಸಂಪತಾ 673 (as supplied; the print has ಋಗ್ವೇದಸಂಪತಾ for Ṛgveda-saṃhitā and a stray full stop before ೩).*
+
+in the Ṛk under discussion, the sense "means of motion" can be given. The remaining epithets have clear meanings. It is understood from certain circumstances that it is the custom of those who desire offspring to worship the Sarasvat deity. Muir, explaining this point, has expressed his opinion in the following sentences. As he says:
+
+" In VII, 96. 4-6, a river God called सरस्वत् (*sarasvat*), is assigned as a consort to सरस्वती (*sarasvatī*), who rolls along his fertilizing waters and is invoked by the worshippers who are seeking for wives and offspring, as well as for plenty and protection "
+( Muir. original Sanskrit Texts. Vol. V. p. 340 )
+
+Those who desire wives, those who desire sons, and those who wish to obtain wealth also pray to the Sarasvat deity, who is the husband of the river Sarasvatī and a deity of the nature of a river. In the Ṛk-saṃhitā this special form of prayer indicates the greatness of this deity. It is cited here in brief.
+
+जनीयंतो नग्रवः पुत्रीयंतः सुदानवः । सरस्वंतं हवामहे (*janīyaṃto nagravaḥ putrīyaṃtaḥ sudānavaḥ | sarasvaṃtaṃ havāmahe*)
+(Ṛ. Saṃ. 7-96-4)
+
+We who desire wives, who desire sons, and who are excellent givers, pray to Sarasvat that he should fulfil our wishes *[as supplied: the print has ಸರಸ್ವತಿಸನನ್ನು for the god's name; kept]*.
+
+ये ते सरस्व ऊर्मयो मधुमंतो धृतश्चुतः । तेभिर्नोऽविता भव (*ye te sarasva ūrmayo madhumaṃto dhṛtaścutaḥ | tebhirno 'vitā bhava*)
+(Ṛ. Saṃ. 7-96-5)
+
+O Sarasvat deity, your floods of water are full of sap and pour down the water of rain. Protect all of us with your floods of water.
+
+पीपिवांसं सरस्वतः स्तनं यो विश्वदर्शतः । भक्षीमहि प्रजामिषं (*pīpivāṃsaṃ sarasvataḥ stanaṃ yo viśvadarśataḥ | bhakṣīmahi prajāmiṣaṃ*)
+(Ṛ. Saṃ. 7-96-6)
+
+We worship the swelling cloud of the Sarasvat deity, the receptacle of sap like a breast. That deity becomes visible to us. By his grace we all obtain sons and other offspring and food-wealth and experience happiness: in such words this deity is prayed to. In the Taittirīya Saṃhitā, praising this deity as the lord of animals and of waters:
+
+यस्य व्रतं पशवो यंति सर्वे यस्य व्रतमुपतिष्ठंत आपः ॥ यस्य व्रते पुष्टिपतिर्निविष्टस्तग्ं सरस्वंतमवसे हुवेम (*yasya vrataṃ paśavo yaṃti sarve yasya vratamupatiṣṭhaṃta āpaḥ ‖ yasya vrate puṣṭipatirniviṣṭastagṃ sarasvaṃtamavase huvema*)
+(Tai. Saṃ. 3-1-10-3)
+*[Stray line as supplied: "[43] [Vol 12"]*
+
+### Printed p. 674
+*Running head: [674 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೪] (as supplied).*
+
+"We call upon, praying for protection, that Sarasvat deity whose command all the animals follow and whose rule all the waters observe; under that deity's authority even the lord of nourishment has taken shelter": so it is prayed. In this context the Ṛk quoted above, “ये ते सरस्व (*ye te sarasva*) .... .... .... ....” (Ṛ. Saṃ. 7-95-5 *[as supplied: so printed; above it is 7-96-5]*), and the Ṛk under discussion, “दिव्यं सुपर्णं (*divyaṃ suparṇaṃ*) .... .... .... ....” (Ṛ. 1-164-52), are also recited, and the protection of this deity is sought.
+
+*Grammar (transcribed, not explained):*
+दिव्यम् (*divyam*)—दिवि भवः तम् (*divi bhavaḥ tam*); by दंडादिभ्योयः (*daṃḍādibhyoyaḥ*) the pratyaya ya; by the pratyaya accent it becomes final-udātta.
+वायसम् (*vāyasam*)—root वय गतौ (*vaya gatau*); by वयश्च (*vayaśca*) (U. Sū. 4-400) the pratyaya asac; since ṇit continues from the preceding sūtra, by अतउपधायाः (*ataupadhāyāḥ*) (Pā. Sū. 7-2-117) ādi-vṛddhi comes; by चितः (*citaḥ*) (Pā. Sū. 6-1-163) the final-udātta accent comes.
+असां-ऊडिदं पदादि (*asāṃ-ūḍidaṃ padādi*) (Pā. Sū. 6-1-171) *[as supplied: ಅಸಾಂ is so printed]*: by it the vibhakti receives the udātta accent.
+दर्शतम् (*darśatam*)—root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*); by भ्रमृदृशियजि (*bhramṛdṛśiyaji*) (U. Sū. 3-390) the pratyaya atac; taking that as the cause, guṇa of the penultimate of the root; because it is cit, by चितः (*citaḥ*) the final-udātta accent comes.
+अभीपतः (*abhīpataḥ*)—root सत्ल्य गतौ (*satlya gatau*) *[as supplied: so printed]*, pratyaya ac; by अन्येषामपि दृश्यते (*anyeṣāmapi dṛśyate*) lengthening of the preceding vowel; the accent of the final member of a compound follows the kṛt rule.
+वृष्टिभिः (*vṛṣṭibhiḥ*)—root वृषु सेचने (*vṛṣu secane*); pratyaya ktin; by मंत्रेवृषेषपच (*maṃtrevṛṣeṣapaca*) (Pā. Sū. 3-3.-96) it becomes udātta; tṛtīyā-bahuvacana form.
+तर्पयंतम् (*tarpayaṃtam*)—root तृप तृप्ति (*tṛpa tṛpti*); by हेतुमति च (*hetumati ca*) (Pā. Sū. 3-1-26) the pratyaya ṇic; by पुंगतलघूपधस्यच (*puṃgatalaghūpadhasyaca*) (Pā. Sū. 7-3-86) guṇa of the light penultimate; after the ṇijanta, for laṭ the substitute śatṛ, śap as vikaraṇa; taking that as the cause, guṇa for ṇic, ayādeśa; the ṇic accent remains; by the sūtra तास्यनुदात्तेत् (*tāsyanudāttet*) the lasārvadhātuka becomes anudātta; in the dvitīyā-ekavacana, because it is ugit, the augment num.
+अवसे (*avase*)—root अव रक्षणे (*ava rakṣaṇe*); by सर्वधातुभ्यअसुन् (*sarvadhātubhyaasun*) the pratyaya asun; because it is nit, the ādyudātta accent comes.
+
+### Printed p. 675
+*Running head: [ಅ. ೨ ಅ. ೪ ವ. ೨೪] Ṛgveda-saṃhitā 675 (as supplied).*
+
+जोहवीमि (*johavīmi*)—root हु दानादनयोः (*hu dānādanayoḥ*); when the sense of repetition is shown, by धातोरेखाचः क्रि (*dhātorekhācaḥ kri*) (Pā. Sū. 3-1-22) when yaṅ comes, by यजोचिच (*yajocica*) (Pā. Sū. 2-4-74) luk for it; when dvitva and the rest come on account of yaṅ, by गुणोयज्लुकोः (*guṇoyajlukoḥ*) (Pā. Sū. 7-4-82) guṇa for the u of the abhyāsa; by यजोवा (*yajovā*) (Pā. Sū. 7-3-94) the augment īḍ [printed ಈಡಾಡಮ] for miṣ; on account of the pratyaya, guṇa for the u of the root and avādeśa; because it stands after an atiṅanta [sic: so printed], the nighāta accent comes. || 52 ||
+
+Here the 16th [sic: expected 164th] sūkta ends: इल्लिगॆ १६ने सूक्तवु मुगिदुदु (*illigè 16ne sūktavu mugidudu*).
+*[as supplied: a stray line "------- 808 -------" stands here in the print.]*
+
+The hundred and sixty-fifth sūkta
+## Sūkta 165 (Maṇḍala 1)
+**Sāyaṇa's introduction**
+> त्रयोविंशेनुवाके पंचदश सूक्तानि । तत्र कया शुभेति पंचदशर्चं
+> प्रथमं सूक्तं त्रैष्टुभं । अत्रानुक्रमणिका । कॆया पंचोना संवादस्तृतीयाद्ययुजो मरुतां वाक्यमंत्यस्त्वचोगस्तस्य शिष्टा इंद्रस्यॆकादशी च मरुत्वांस्त्विंद्रो देवतेति । अत्रेंद्रागस्तमरुतां संवादः प्रतिपाद्यते । तत्र तृतीयापंचमीसस्तमानवमीनां मरुद्वाक्यरूपत्वात्त एवर्षयः । यस्य वाक्यं स ऋषिः ।
+> अनु २-४ । इति न्यायात् । अंत्यतृचस्यागस्तवाक्यत्वात्स एवर्षिः । शिष्टा युज आद्या
+> चैकादशी चेंद्रस्य वाक्यं । अतः स एवर्षिः । अत्र या तेनोच्यते सा देवता । अनु
+> २-५ । इति सामान्यापवादेन कृत्स्नस्य मरुत्वद्गणक इंद्रो देवता ॥ संसवचातुर्विंशकयोर्मरुत्वतीयशस्त्रे निविद्धानीयात्तूर्वमेतत्तूक्तं । यदि पर्यायान्मरुत्वतीय इति खंडयोः सूत्रितं । कया शुभेति च मरुत्वतीये पुरस्तात्तूक्तस्य
+> शंसेत् । आ. ६-६-७-३ । इति ॥ अभिप्लविके पंचमेऽहनि मरुत्वतीय एतदेव सूक्तं ।
+> पंचमस्य कया शुभा यस्तिगृंग इति मध्यंदिनः । आ ७ ७ । इति सूत्रितत्वात् ॥
+> महाव्रते मरुत्वतीयशस्त्र एतत्तूक्तं । पंचमारण्यके कया शुभा सवयसः सनीळा
+> मरुत्वा इंद्र वृषभो रणाय । ऐ. आ. ५ १-१ । इत्युक्तत्वात् ॥ विषुवति मरुत्वतीय
+> एतदेव निविद्धानीयं । त्यं सु मेषं कया शुभेति च मरुत्वतीयं । आ. ८-६ । इति
+> सूत्रितत्वात् ॥ अस्य विनियोगं शौनक आह । ज्ञातिपुत्रसुहृन्मित्रैर्यश्च राज्यं चिकीर्षति नित्यं स नियतो भूत्वा सूक्तं तु मनसा जपेत् । कया शुभेति पैशुन्यं
+> कृत्वाचार्यनृपद्विजैः । श्रुत्वा पररहस्यं तु गुरोरस्याह शौनकः । ऋग्वि. १-२६ ।
+> इति ॥
+
+> *trayoviṃśenuvāke paṃcadaśa sūktāni | tatra kayā śubheti paṃcadaśarcaṃ*
+> *prathamaṃ sūktaṃ traiṣṭubhaṃ | atrānukramaṇikā | kèyā paṃconā saṃvādastṛtīyādyayujo marutāṃ vākyamaṃtyastvacogastasya śiṣṭā iṃdrasyèkādaśī ca marutvāṃstviṃdro devateti | atreṃdrāgastamarutāṃ saṃvādaḥ pratipādyate | tatra tṛtīyāpaṃcamīsastamānavamīnāṃ marudvākyarūpatvātta evarṣayaḥ | yasya vākyaṃ sa ṛṣiḥ |*
+> *anu 2-4 | iti nyāyāt | aṃtyatṛcasyāgastavākyatvātsa evarṣiḥ | śiṣṭā yuja ādyā*
+> *caikādaśī ceṃdrasya vākyaṃ | ataḥ sa evarṣiḥ | atra yā tenocyate sā devatā | anu*
+> *2-5 | iti sāmānyāpavādena kṛtsnasya marutvadgaṇaka iṃdro devatā ‖ saṃsavacāturviṃśakayormarutvatīyaśastre nividdhānīyāttūrvametattūktaṃ | yadi paryāyānmarutvatīya iti khaṃḍayoḥ sūtritaṃ | kayā śubheti ca marutvatīye purastāttūktasya*
+> *śaṃset | ā. 6-6-7-3 | iti ‖ abhiplavike paṃcame 'hani marutvatīya etadeva sūktaṃ |*
+> *paṃcamasya kayā śubhā yastigṛṃga iti madhyaṃdinaḥ | ā 7 7 | iti sūtritatvāt ‖*
+> *mahāvrate marutvatīyaśastra etattūktaṃ | paṃcamāraṇyake kayā śubhā savayasaḥ sanīḷā*
+> *marutvā iṃdra vṛṣabho raṇāya | ai. ā. 5 1-1 | ityuktatvāt ‖ viṣuvati marutvatīya*
+> *etadeva nividdhānīyaṃ | tyaṃ su meṣaṃ kayā śubheti ca marutvatīyaṃ | ā. 8-6 | iti*
+> *sūtritatvāt ‖ asya viniyogaṃ śaunaka āha | jñātiputrasuhṛnmitrairyaśca rājyaṃ cikīrṣati nityaṃ sa niyato bhūtvā sūktaṃ tu manasā japet | kayā śubheti paiśunyaṃ*
+> *kṛtvācāryanṛpadvijaiḥ | śrutvā pararahasyaṃ tu gurorasyāha śaunakaḥ | ṛgvi. 1-26 |*
+> *iti ‖*
+
+### Printed p. 676
+*Running head: 676 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೩. ಸೂ. ೧೬೫] (as supplied).*
+
+**Anuvāda (Kannada rendering of the introduction)**
+Anuvāda: with this sūkta the twenty-third anuvāka of the first Maṇḍala begins. In this anuvāka there are fifteen sūktas. Among them, in the first sūkta, beginning *kayā śubhā*, there are fifteen Ṛks. The metre is Triṣṭubh. In the Anukramaṇikā it is said: कया पंचोना संवादस्तृतीयाद्ययुजो मरुतां वाक्यमंत्यश्चोगस्तस्य शिष्टा इंद्रस्यॆकादशी च मरुत्वांस्त्विंद्रो देवतेति (*kayā paṃconā saṃvādastṛtīyādyayujo marutāṃ vākyamaṃtyaścogastasya śiṣṭā iṃdrasyèkādaśī ca marutvāṃstviṃdro devateti*). In this sūkta a dialogue that took place among Indra, Agastya and the Marut deities is set forth. Therefore, in this sūkta the third, fifth, seventh and ninth Ṛks are words of the Maruts, and for those Ṛks the Maruts themselves are the ṛṣis. यस्य वाक्यं स ऋषिः (*yasya vākyaṃ sa ṛṣiḥ*): he who speaks the words in a Ṛk is the ṛṣi of that Ṛk; this is stated in the Anukramaṇikā (Anu. 2-4). Since the last three Ṛks are words of Agastya, Agastya himself is the ṛṣi of those Ṛks. The remaining Ṛks, the first Ṛk and the eleventh Ṛk, are all words of Indra; therefore Indra himself is the ṛṣi of those Ṛks. And as to the deity: या तॆनोच्यते सा देवता (*yā tènocyate sā devatā*) *[as supplied: ತೆನೋಚ್ಯತೇ is so printed; kept]*: the subject spoken of in a Ṛk is the deity of that Ṛk; this is stated in the Anukramaṇikā (Anu. 2-5), and chiefly because Indra and the Maruts are set forth in this sūkta, for the whole sūkta the deity is Indra accompanied by the Marut deities.
+
+The application of this sūkta is as follows. (1) At the time of reciting the mantras of the Marutvatīya śastra connected with the Saṃsava and the Cāturviṃśaka, this sūkta is to be recited before the nivid mantra; this is explained by the Āśvalāyana Śrauta Sūtra in the sections beginning यदि पर्यायान्मरुत्वतीय (*yadi paryāyānmarutvatīya*) by the sūtra कया शुभेति च मरुत्वतीये पुरस्तात्सूक्तस्य शंसेत् (*kayā śubheti ca marutvatīye purastātsūktasya śaṃset*) (Ā. 6-6; 7-3). And (2) on the fifth day of the sacrifice called Abhiplava, this sūkta is to be recited for the mantras of the Marutvatīya śastra; this is explained by the sūtra पंचमस्य कया शुभा यस्तिगृंग इति मध्यंदिनः (*paṃcamasya kayā śubhā yastigṛṃga iti madhyaṃdinaḥ*) (Ā. 7-7). (3) That this sūkta is applied in the Mahāvrata for the recitation of the mantras of the Marutvatīya śastra is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence कया शुभा सवयसः सनीळा मरुत्वा इंद्र वृषभो रणाय (*kayā śubhā savayasaḥ sanīḷā marutvā iṃdra vṛṣabho raṇāya*) (Ai. Ā. 5-1-1). (4) That this sūkta is applied in the Viṣuvat sacrifice for the nivid mantras connected with the Marutvatīya is explained by the sūtra of the Āśvalāyana Śrauta Sūtra त्यं सु मेषं कया शुभेति च मरुत्वतीयं (*tyaṃ su meṣaṃ kayā śubheti ca marutvatīyaṃ*) (Ā. 8-6). And on the application of this sūkta the great sage Śaunaka, in his work Ṛgvidhāna, says:
+
+ज्ञातिपुत्रसुहृन्मित्रैर्यश्च राज्यं चिकीर्षति । नित्यं स नियतो भूत्वा सूक्तं तु मनसा जपेत् ॥ कया शुभेति पैशुन्यं कृत्वाचार्यनृपद्विजैः । श्रुत्वा पररहस्यं तु गुरोरप्याह शौनकः (*jñātiputrasuhṛnmitrairyaśca rājyaṃ cikīrṣati | nityaṃ sa niyato bhūtvā sūktaṃ tu manasā japet ‖ kayā śubheti paiśunyaṃ kṛtvācāryanṛpadvijaiḥ | śrutvā pararahasyaṃ tu gurorapyāha śaunakaḥ*)
+( ಮುಗ್ವಿ. ೧-೨೬ ) *[as supplied: the abbreviation is printed ಮುಗ್ವಿ.; kept]*
+
 ---
 
-**Progress note:** Done through printed p. 669. Vol 12 pp. 663-669: end of Special Topics on Ṛk 51, grammar, Ṛk 52 (Sūkta 164)
+**Progress note:** Done through printed p. 676. Vol 12 pp. 670-676: Ṛk 52 Special Topics and grammar, end of Sūkta 164, Sūkta 165 introduction and Anuvāda
