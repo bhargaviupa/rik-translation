@@ -4531,6 +4531,86 @@ in this ṛk, while the Nirukta authors have explained ऋतुभिः (*ṛt
 यत्वाकत्रा मनसा दीनदक्षा न यज्ञस्य मन्वते मर्त्यासः । (*yatvākatrā manasā dīnadakṣā na yajñasya manvate martyāsaḥ |*)
 अग्निष्टद्भोता क्रतुविद्विजानन्यजिष्ठो देना ऋतुशो यजाति । (*agniṣṭadbhotā kratuvidvijānanyajiṣṭho denā ṛtuśo yajāti |*) (ಋ. ಸಂ. 18-2-5) *[reference as printed, "೧೮-೨-೫"]*
 
+### Printed p. 163
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೭. ) ಋಗ್ವೇದಸಂಹಿತಾ 163] (as supplied, with a closing round bracket and tabs).* (Sūkta 162, Ṛk 4: the Special Topics continue.)
+
+In the ṛk quoted at the end of the previous window, the two words "martyāsaḥ" and "ṛtuśaḥ" are used together. Here "martyāsaḥ" means men, that is, the priests, and "ṛtuśaḥ" means "at the time fit for each one's sacrifice". It should be understood in the same way everywhere. In the present ṛk it means "at the specific times of the Aśvamedha sacrifice", that is, the rite called "paryagnikaraṇa", in which the animal that is the offering is made to go three times around the fire before the oblation is offered to the gods. It must be understood here as "at the time of doing this". The same description is in
+
+कृष्णग्रीवमाग्नेयग्ं रराटे पुरस्तात् । पूर्वाग्निमेव तं कुरुते ॥ (*kṛṣṇagrīvamāgneyagṃ rarāṭe purastāt | pūrvāgnimeva taṃ kurute ‖*) (ಶ. ಬ್ರಾ. 13-2-2-3) *[abbreviation as printed]*
+
+and it indicates that the goat with a black neck, ready for the offering to the fire, goes around the fire in front of the horse, and that the goat too, in front of the horse, making the circumambulation of the fire, announces to the gods that the sacrifice is being accomplished.
+
+पूष्णः पूषन् (*pūṣṇaḥ pūṣan*) is here a synonym of Agni. It is also the well-known name of one of the twelve Ādityas. In both meanings there is one and the same derivation. By this derivation one can take it to mean either Agni or Āditya. Here Agni
+
+प्रूषा यद्रश्मिपोषं पुष्यति तत् प्रूषा भवति । (*prūṣā yadraśmipoṣaṃ puṣyati tat prūṣā bhavati |*) (ನಿ. 12-16) *[so printed, "ಪ್ರೂಷಾ" and "ರತ್ನಿಗಳಿಂದ" in the Kannada for "ಪೂಷಾ" and "ರಶ್ಮಿಗಳಿಂದ"]*
+
+is the derivation of the Nirukta authors: he is called "Pūṣan" because he nourishes with rays. In the Śatapatha Brāhmaṇa too,
+
+इयं वै पूषा पूषेयं हीदं सर्वं पुष्यति यदिदं किंच ॥ (*iyaṃ vai pūṣā pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yadidaṃ kiṃca ‖*) (ಶ. ಬ್ರಾ. 14-4-2-25)
+
+it is said that this deity is called "Pūṣan" because he nourishes everything. This kind of meaning can apply to Āditya, or, since Agni, as the carrier of the oblations, is the cause of the nourishment of all, gods, men and the rest, it can apply to Agni; or, if one takes it that Āditya himself is one of the transformations of Agni, there is no difficulty at all. The same meaning is indicated by
+
+पुष्यन् क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः । (*puṣyan kṣitiṃ poṣayati praṇudan raśmibhistamaḥ |*)
+तेनैनमस्तौत्पोषेति भरद्वाजस्तु पंचभिः ॥ (*tenainamastautpoṣeti bharadvājastu paṃcabhiḥ ‖*) (ಬೃ. ವೇ. 2-6-3) *[abbreviation "ಬೃ. ವೇ." as printed]*
+
+the sentence of the Bṛhaddevatā that the name "Pūṣan" is given because, destroying darkness, he nourishes the earth so that it grows. Moreover,
+
+### Printed p. 164
+
+*Running head: 164 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+त्वं वात्यैररुण्यर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना । (*tvaṃ vātyairaruṇyaryāsi śaṃgayastvaṃ pūṣā vidhataḥ pāsi nu tmanā |*) (Ṛ. Saṃ. 2-1-6)
+
+त्वमग्ने द्रविणोदा आरंकृते त्वं देवः सविता रत्नधा असि ॥ (*tvamagne draviṇodā āraṃkṛte tvaṃ devaḥ savitā ratnadhā asi ‖*)
+त्वं भगो नृपते वस्व ईशिषे त्वं पायुर्दमे यस्तेऽविधत् ॥ (*tvaṃ bhago nṛpate vasva īśiṣe tvaṃ pāyurdame yaste 'vidhat ‖*) (Ṛ. Saṃ. 2-1-7)
+
+In ṛks of this kind the identity of Agni with Pūṣan, Bhaga, Savitṛ and others is stated; so the twelve Ādityas are transformations of Agni. Therefore here too, in accordance with the Nirukta derivation, the meaning is Agni. Or,
+
+अजा अन्यस्य वह्नयो हरी अन्यस्य संस्कृता । ताभ्यां वृत्राणि जिघ्नते ॥ (*ajā anyasya vahnayo harī anyasya saṃskṛtā | tābhyāṃ vṛtrāṇi jighnate ‖*) (Ṛ. Saṃ. 6-57-3)
+
+since the goat is a dear oblation of Pūṣan, there is also an opinion that the goat to be offered here may be meant for the well-known god Pūṣan himself.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses हविष्यम् (*haviṣyam*) (the number of the sūtra is split over two lines), ऋतुशः (*ṛtuśaḥ*) (Pā. Sū. 5-4-43), देवयानम् (*devayānam*), त्रि: (*tri:*) (Pā. Sū. 5-4-18), नयंति (*nayaṃti*), अत्रा (*atrā*) (Pā. Sū. 6-3-133) and प्रतिवेदयन् (*prativedayan*) (Pā. Sū. 7-3-86), with the accents; it ends with the mark ॥ ೪ ॥. *[A stray line ":-0:-" follows in the supplied text; kept in kn.md as an italic note.]*
+
+### Printed p. 165
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ ೭. ] Ṛgveda-saṃhitā 165 (as supplied).*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> होता॑ध्व॒युर्राव॑या अग्निमिं॒धो ग्रा॑वग्रा॒भ उ॒त शंस्ता॒॑
+> सुवि॑प्रः ।
+> तेन॑ य॒ज्ञेन॒ स्व॑रंकृतेन॒ स्वि॑ष्टेन व॒क्षणा॒ आ पृ॑णध्वं ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> होता । अध्वर्युः । आवयाः । अग्निं इंधः । ग्रावग्राभः । उत । शंस्ता ।
+> सुविप्रः ।
+> तेन । यज्ञेन । सुअरंकृतेन । सुइष्टेन । वक्षणाः । आ । पृणध्वं ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> होता देवानामाह्वातैतन्नामक ऋत्विक् अध्वर्युरध्वरयुरध्वरस्य नेता
+> सोऽप्यावया अभिमुख्येन हविषां गमयिता । अध्वर्योर्विशेषणमेतत् ॥ आज्पूर्वाद्वैतेरसुन् । पूर्वपदप्रकृतिस्वरत्वं च ॥ यद्वा । अभिमुख्येनावयष्टा
+> प्रतिप्रस्थातोच्यते ॥ अवे यजः । पा ३-२-७२ । इति ण्णिन्। अनाप्योरुपसर्गयोरित्यल्लोपः ॥ अग्निमिंधोऽग्नीत् ॥ भ्राषाग्नोरिंधे । पा. ६-३-७०-६ । इति मुम् ॥
+> ग्रावग्राभः । ग्राव्वः स्तुत्या गृह्णातीति ग्रावस्तुत् ॥ कर्मण्यण् ॥ उतापि च शंस्ता
+> प्रशास्ता । सुविप्र इति मेधाविनाम । शोभनमेधोपेतो ब्रह्मोच्यते । ब्रह्मा
+> तो वदति जातविद्यामित्यत्र ब्रह्मैको जाते जाते विद्यां वदति ब्रह्मा सर्वविद्यः
+> सर्वं वेदितुमर्हति । नि. १-८ । इत्युक्तत्वादब्रह्मैव सुविप्रशब्देनाभिधेयः । स
+> चानुक्तर्त्विगुपलक्षकः ! एते सर्वे तेन प्रसिद्धेन स्वरंकृतेन सुष्करणीयं कृतेन
+> स्वलंकृतेन पोच्चारसौष्ठवादिना सुष्टु संपादितेन स्विष्टेन सुष्टिष्टेन यज्ञेन
+> वक्षणा अभितो धृतकुल्यादीन् प्रवहणस्वभावाः प्रसिद्दा नदीर्वा पृणध्वं । सर्वतः
+> पूरयत । यज्ञं सम्यग्निर्वर्त फलं साधयतेत्यर्थः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): the hotṛ, adhvaryu, agnīdh, grāvastut, śaṃstṛ and Brahman, with this well-done sacrifice, fully accomplish its fruit (or fill the streams).]*
+
 ---
 
-**Progress note:** Done through printed p. 162 (PDF 162). Sūkta 162 Ṛk 3 Special Topics, grammar; Ṛk 4 Saṃhitā (picture) to Special Topics start
+**Progress note:** Done through printed p. 165 (PDF 165). Sūkta 162 Ṛk 4 Special Topics end and grammar; Ṛk 5 Saṃhitā, Pada, bhāṣya
