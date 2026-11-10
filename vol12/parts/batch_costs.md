@@ -16,3 +16,4 @@
 | w0043 | 43-45 | sonnet (standing) | n/a | n/a | n/a |
 | w0046 | 46-49 | sonnet (standing) | n/a | n/a | n/a |
 | w0050 | 50-52 | sonnet (standing) | n/a | n/a | n/a |
+| w0053 | 53-55 | sonnet (standing) | n/a | n/a | n/a |
