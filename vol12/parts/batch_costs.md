@@ -13,3 +13,4 @@
 | w0033 | 33-36 | sonnet (standing) | n/a | n/a | n/a |
 | w0037 | 37-39 | sonnet (standing) | n/a | n/a | n/a |
 | w0040 | 40-42 | sonnet (standing) | n/a | n/a | n/a |
+| w0043 | 43-45 | sonnet (standing) | n/a | n/a | n/a |
