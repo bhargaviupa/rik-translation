@@ -1385,6 +1385,91 @@ In sentences such as this, the growth and greatness of the worlds are described 
 
 *Note (the Sanskrit grammar is only transcribed):* the Kannada begins with स्वपसः (*svapasaḥ*) (the accent of the compound by आद्युदात्तंद्व्यच् छंदसि (*ādyudāttaṃdvyac chaṃdasi*), a sūtra number broken across two lines) and says that the same compound accents occur in सुदंससः (*sudaṃsasaḥ*). A stray signature line at the foot of the page ("[ 4 ] Vol. 12") is kept in kn.md as a note.
 
+### Printed p. 50
+
+*Running head: 50 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159.* (The grammar of Ṛk 3 continues.)
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses जज्ञुः (*jajñuḥ*) (root ज्ञा (*jñā*), or the root जनी (*janī*); the verb accent), मातरा (*mātarā*) (सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39), स्थातुः (*sthātuḥ*) (root ष्ठा (*ṣṭhā*), suffix *tṛc*; Pā. Sū. 6-1-111 and 8-2-24), धर्मणि (*dharmaṇi*) (root धृञ (*dhṛña*), suffix *manin*), पाथि (*pāthi*) *[so printed for ಪಾಥಃ]* (root पा (*pā*), present second person dual) and अद्वयाविनः (*advayāvinaḥ*) (suffix *vini* by the Vedic rule; Pā. Sū. 6-3-137 and 6-2-2), and ends with the mark ॥ ೩ ॥ and a stray ornament line ":੦:", kept as supplied.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> ते मायिनो ममिरे सुप्रचेतसो जामी सयोनी
+> मिथुना समोकसा ।
+> नव्यं॑नव्यं॒ तंतु॒मा त॑न्वते दि॒वि स॑मु॒द्रे अं॒तः क॒वयः॒॑॑
+> सुदीतयः ॥ ४ ॥
+
+> *te māyino mamire supracetaso jāmī sayonī*
+> *mithunā samokasā |*
+> *navyaṃnavyaṃ taṃtumā tanvate divi samudre aṃtaḥ kavayaḥ*
+> *sudītayaḥ ‖ 4 ‖*
+
+### Printed p. 51
+
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೨] Ṛgveda-saṃhitā, p. 51 (as supplied; "ಪ. ೨" for the Varga).*
+
+**॥ पदपाठः ॥**
+
+*[The label line is garbled in the supplied text ("ಪದಹಾರಃ"), and stands as the first line of the Pada block; the standard label is inserted and the garbled line kept in kn.md as a note. The Pada ends "॥ ೪ ii", the double danda printed as "ii", as supplied.]*
+
+> ते । मायिनः । ममिरे । सुप्रचेतसः । जामी इति । सयोनी इति सयोनी ।
+> मिथुना । संओकसा ।
+> नव्यंनव्यं । तंतुं । आ । तन्नते । दिवि । समुद्रे । अंतरिति । कवयः । सुदीतयः ।
+> ॥ ४ ii
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಸಾಯುಧಭಾಷ್ಯಂ") and sits inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the block are joined; a line end "ತದ್ವ." followed by "ಚನಃ" is joined as "ತದ್ವಚನಃ".]*
+
+> ते प्रसिद्धे द्यावापृथिव्यौ मायिनः । माया प्रज्ञा । स्वविषयप्रज्ञावंतः
+> प्रज्ञोपलक्षितकर्मवंतो ना सुप्रचेतसः सुष्टु प्रकर्षण चेतितुं शक्ता रश्मयो
+> ममिरे । मिमते । प्रमाणेन परिछिंदंति । कीदृश्यौ ते । जामी परस्परं भगिनी ।
+> एतत्कुत इति चेत् उच्यते । सयोनी समानोत्पत्तिस्थाने मिथुना प्राण्युत्पत्तये
+> मिथुनभूते । परस्परमवियुक्ते इत्यर्थः । समोकसा समानस्थाने । द्युपृथिव्योरेकस्मिन्नेवावकाशरूप आकाशेऽवस्थानात् । समीचीनस्थाने वा । किंच कवयो
+> मेधाविनः स्वव्यापारविषयज्ञानवंतः सुदीतयः सुष्ठुद्योतना रश्मयो दिवि
+> द्योतमाने समुद्रेंतरिक्षेऽंतर्मध्यॆ । समुद्रशब्दोऽंतरिक्षनामसु पाठात्तद्वचनः । स चैवं यास्केन निरुत्तः । समुद्रः कस्मात्समुद्रवंत्यस्मादापः समभिद्रवंत्येनमापः संमोदंतेऽस्मिन्भूतानि समुदको भवति समुनत्तीति वा । नि. २-१० ।
+> इति । नव्यं नव्यं तंतुं तननीयं विस्तारणीयं । जात्येकवचनं । रश्निना तन्नते ।
+> समंताद्विस्तारयंति ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Heaven and Earth, sisters sharing one home, measure the wise rays; those bright rays stretch ever-new threads of light through the mid-space.]*
+
+*[The Pratipadārtha label is garbled in the supplied text ("ಪ್ರತಿಪದ ರ್ಥ") and the Pratipadārtha sits inside the bhāṣya block; moved out, un-quoted, and the standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जामी (*jāmī*)—sisters; सयोनी (*sayonī*)—having one place of origin; मिथुना (*mithunā*)—being together; समोकसा (*samokasā*)—having one dwelling-place in the form of space: ते (*te*)—those Heaven and Earth; मायिनः (*māyinaḥ*)—having (full) wisdom (in their own matter); सुप्रचेतसः (*supracetasaḥ*)—having an excellent power to give consciousness: the rays; ममिरे (*mamire*)—determine in the form of measure. कवयः (*kavayaḥ*)—the wise, that is, those who know their duty well; सुदीतयः (*sudītayaḥ*)—shining excellently: the rays; दिवि (*divi*)—shining; समुद्रे अंतः (*samudre aṃtaḥ*)—in the middle part of the atmosphere; नव्यंनव्यं (*navyaṃnavyaṃ*)—exceedingly new; तंतुं (*taṃtuṃ*)—and spreading: their rays; आ तन्नते (*ā tannate*) *[so printed]*—spread all around.
+
+### Printed p. 52
+
+*Running head: 52 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159.*
+
+**भावार्थ (Bhāvārtha)**
+
+Heaven and Earth, who are sisters, have one place of origin, are together and have one dwelling-place in the form of space, determine in the form of measure the rays, which have (full) wisdom in their own matter and an excellent power of giving consciousness. Those wise rays, that is, those that know their duty well and shine excellently, spread all around, in the middle part of the shining atmosphere, their exceedingly new and extending radiances.
+
+**Printed English translation**
+
+Those provident and intlligent [sic] sisters, (the rays of light), conceived of the same womb, (ever) united (with each other), and dwelling in the same abode, mete out (all things): knowing (their functions), and bright-shining, they spread in ever new (directions) throughout the radiant firmament.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+जामी (*jāmī*)—जामिरन्नेऽस्यां जनयंति जामपत्यं । (*jāmiranne 'syāṃ janayaṃti jāmapatyaṃ |*) जमतेर्वा स्याद्दतिकर्मणो (*jamatervā syāddatikarmaṇo*) निर्गमनप्राया भवति । (*nirgamanaprāyā bhavati |*) (Ni. 3-9). One explanation gives the idea that "the other makes children be born in her" and a derivation from the root जन् (*jan*), which means "to be born"; the other gives the idea "she who goes to her husband's house" and a derivation from the root जम् (*jam*), which means "to go". By both explanations it is understood, from the explanation of the authors of the Nirukta, that the word जामि (*jāmi*) means "sister". In support of this meaning,
+
+न जामये तान्वो रिक्कमारैक्यकार गर्भः सनितुर्निधानं । (*na jāmaye tānvo rikkamāraikyakāra garbhaḥ saniturnidhānaṃ |*)
+यदी मातरो जनयंत वह्निमन्यः कर्ता सुकृतोरन्य ऋंधन् ॥ (*yadī mātaro janayaṃta vahnimanyaḥ kartā sukṛtoranya ṛṃdhan ‖*)
+
+(Ṛ. Saṃ. 3-21-2)
+
+quoting this ṛk they have explained the word जामि (*jāmi*) as "sister". Likewise,
+
+भगस्य स्वसा वरुणस्य जामिरुषः सूनृते प्रथमा जरस्व । (*bhagasya svasā varuṇasya jāmiruṣaḥ sūnṛte prathamā jarasva |*)
+पश्चा स दध्या यो अघस्य धाता जयेम तं दक्षिणया रथेन ॥ (*paścā sa dadhyā yo aghasya dhātā jayema taṃ dakṣiṇayā rathena ‖*)
+
+(Ṛ. Saṃ. 1-123-5)
+
+here too it is explained as "you who are in the position of a sister, like a sister to Varuṇa". This same meaning, extended, also becomes "kinsmen" for this word, as (was shown) earlier with examples… *[the supplied text of p. 52 breaks off here, at "ಹಿಂದೆ ಉದಾಹರಣೆಗಳೊಡನೆ", in the middle of a sentence; it continues on p. 53, in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 49 (PDF 49). Sūkta 159 Ṛk 2 grammar end, Ṛk 3 complete (Saṃhitā/Pada from picture, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics: svapasaḥ, sudaṃsasaḥ, putrasya), grammar start
+**Progress note:** Done through printed p. 52 (PDF 52). Sūkta 159 Ṛk 3 grammar end, Ṛk 4 complete to Special Topics (jāmī)
