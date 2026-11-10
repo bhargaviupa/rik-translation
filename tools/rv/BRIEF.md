@@ -30,7 +30,7 @@ Faithful English of the Kannada; every Sanskrit quotation in full as ⟦…⟧ w
 *Grammar (transcribed, not explained):* 2–4 lines naming the words and the sūtras as printed (Pā. Sū. 6-1-163).
 ```
 - `[[bN]]` alone on a line, every block exactly once, in the place where it belongs. A block that continues from the previous window goes first, under `[Continuing …]`.
-- Inline Sanskrit: copy the Kannada-script words from kn.md inside `⟦ ⟧`. **Never type Devanagari or IAST** — scripts make them (and the accents).
+- Inline Sanskrit: copy the Kannada-script words from kn.md inside `⟦ ⟧`. **Long quotation (more than about 8 words): write only its first and last words, `⟦first two words~~last two words⟧`; the script copies the passage from kn.md** (the first words must occur only once in kn.md; do not write your own expander script). Never add `(*iast*)` after a segment. **Never type Devanagari or IAST** — scripts make them (and the accents).
 - Do not write a Progress note. Do not repeat or rewrite anything shown under "Context".
 - A sentence that started on the previous page: read the context lines and complete it; a sentence cut at the end of the window: translate what is there and say it continues.
 

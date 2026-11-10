@@ -30,6 +30,7 @@ def pages(path,heads=None,title=('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','�
     return {k:re.sub(r'\n\s*\n+','\n','\n'.join(v)).strip() for k,v in out.items()}
 
 def _head_number(h):
+    h=h.translate(KD)                                   # Kannada digits in a head count like Latin ones (Vol 16)
     m=re.match(r'^[#\s]*([0-9][0-9:)]{0,4})(?=\s)',h) or re.search(r'\s([0-9]{1,4})\s*$',h)
     if not m: return None
     d=re.sub(r'[^0-9]','',m.group(1)); return int(d) if d else None

@@ -118,6 +118,11 @@ def cmd_build(a):
     r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
     wr(p,labels.normalise(rd(p)))
     r=sh(f'python3 publish/tools/accents/accent_volume.py {cfg.vol} --file "{p}" --write'); print('accents:',[l for l in (r.stdout+r.stderr).split('\n') if l.startswith('Vol') or 'not matched' in l or 'Error' in l or 'Trace' in l])
+    rep=os.path.join(ROOT,f'vol{cfg.vol}','review','accent_report.tsv')                     # the accent step rewrites its report every time: keep a cumulative copy (Vol 16 lesson 35)
+    if os.path.exists(rep):
+        rows=[l for l in rd(rep).split('\n')[1:] if l.strip()]; cum=rep.replace('.tsv','_cumulative.tsv'); tag=os.path.basename(w.rstrip('/'))
+        old=[l for l in (rd(cum).split('\n') if os.path.exists(cum) else []) if l.strip() and not l.startswith(tag+'\t')]
+        wr(cum,'\n'.join(old+[tag+'\t'+r for r in rows])+'\n')
     wr(os.path.join(w,'kn_final.md'),convert.kn_final(kn)); print('built',p,os.path.join(w,'kn_final.md'))
 def doubts(text): return [(i,l.strip()[:110]) for i,l in enumerate(text.split('\n'),1) if '[?]' in l]
 def cmd_check(a):
@@ -141,6 +146,14 @@ def cmd_check(a):
     bad=check_inline.mismatches(w)
     if bad: fail.append(f'{len(bad)} inline ⟦…⟧ segment(s) are not in kn.md (copy them from kn.md, never retype): '+' | '.join(x[:40] for x in bad[:6]))
     if 'XXX' in en or 'XXX' in enf: fail.append('placeholder XXX left in en.md')
+    dv=re.findall('[ऄ-ह][ऀ-ॣ]*',en)
+    if dv: fail.append(f'Devanagari typed in en.md ({len(dv)} places, e.g. {dv[0]}): Sanskrit is copied from kn.md in Kannada script inside ⟦ ⟧; the script converts')
+    if re.search(r'⟧\s*\(\*[^)]*\*\)',en): fail.append('hand IAST "(*…*)" after a ⟦ ⟧ segment in en.md: the build adds the IAST itself (Vol 16: 116 doubled pairs)')
+    if re.search(r'\(\*([^)]{2,})\*\) \(\*\1\*\)',enf): fail.append('doubled IAST "(*x*) (*x*)" in en_final.md')
+    for sec in re.findall(r'\*\*Pratipadārtha\*\*\n(.*?)(?=\n\*\*|\n#|\Z)',en,re.S):
+        if sec.count('—')>=3 and '⟦' not in sec: fail.append('a Pratipadārtha has no ⟦ ⟧ headwords (the Sanskrit words are copied from kn.md inside ⟦ ⟧, not written in Latin letters)'); break
+    acc=[l[:60] for l in enf.split('\n') if l.startswith('> ') and re.search('([१३])[॒॑]+\\1|्[॒॑]|[॒॑][ा-ौ]',l)]
+    if acc: print('ACCENT WARNING (doubled pluta digit / mark at a virama or before a vowel sign; logged, do not hand-edit):',acc[:3]); open(os.path.join(ROOT,f'vol{cfg.vol}','review','accent_flags.tsv'),'a',encoding='utf8').write(''.join(f"{os.path.basename(w)}\t{x}\n" for x in acc))
     if re.search(r'⟦\s*⟧|⟦\s*\(\*\s*\*\)\s*⟧',enf): fail.append('empty inline segment ⟦ ⟧ in en.md')
     if re.search(r'\*\*Progress note',en): fail.append('en.md must not contain a Progress note (the script writes it)')
     if '[figure' in kn: fail.append('kn.md still has a [figure: …] line: read the picture, write the block into kn.md, remove the line (BRIEF.md)')

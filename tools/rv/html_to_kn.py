@@ -28,11 +28,12 @@ CANON={'samhita':'ಸಂಹಿತಾಪಾಠಃ','pada':'ಪದಪಾಠಃ','b
 BLOCK={'samhita','pada','bhashya'}
 DROP=()   # nothing is dropped any more: stray lines are kept as notes (CLAUDE.md rule)
 def clean_line(l):
-    l=l.replace('||','॥').replace('|','।')
+    l=l.replace('||','॥').replace('|','।').translate(TELUGU_DIGITS)     # Telugu digits (౧౦-౧೨೦) are Kannada digits misread (Vol 16 lesson 38)
     l=re.sub('(?<='+KN+')[sS](?=-?'+KN+')','ಽ',l)   # also before a line-end hyphen (ತೇs-ಸ್ಮಿನ್), recurring in Vol 12
     l=refs_fix.fix_kn(l.strip().strip('*').strip())      # ಸಿ.→ನಿ., ಮಿ./ಮ./ಪು. ಸಂ.→ಋ. ಸಂ., ಇ. ಬ್ರಾ.→ಐ. ಬ್ರಾ. before a number (the user's reading of the print, Nov 9 2026)
     return '' if re.fullmatch(r'[-~_=. ]{3,}',l) else l
 
+TELUGU_DIGITS=str.maketrans('౦౧౨౩౪౫౬౭౮౯','೦೧೨೩೪೫೬೭೮೯')
 ORDER=['samhita','pada','bhashya','pratipada','bhavartha','english','special','grammar']
 NEXT={None:ORDER,'samhita':['pada'],'pada':['bhashya'],'bhashya':['pratipada'],'pratipada':['bhavartha'],'bhavartha':['english'],
       'english':['special','grammar','samhita'],'special':['grammar','samhita'],'grammar':['samhita']}
@@ -110,6 +111,8 @@ def kn_page(printed,head,text,section=None,st=None):
         nonlocal section
         if garbled is not None: out.append(f'*[{garbled}]*')
         if why: LOG.append(f'p. {printed}: {why}')
+        if st.get('lastlabel')==k and not st.get('content'): section=k; st['force']=None; return      # the same label twice with nothing between (block split by a page/window break)
+        st['lastlabel']=k; st['content']=False
         section=k; out.extend(['',f'*{CANON[k]}*','']); st['force']=None; st['fresh']=(k=='samhita')
     lines=[clean_line(r) for r in text.split('\n')]; lines=[l for l in lines if l]
     for i,l in enumerate(lines):
@@ -144,7 +147,7 @@ def kn_page(printed,head,text,section=None,st=None):
             rid=verse_start(l,ref,st.get('last'),True) or verse_start(l,ref,None,True); st['fresh']=False
             if rid: st['last']=rid
         if section=='bhavartha' and is_latin(l): setlabel('english',None,'label English Translation missing: inserted before the Latin text')
-        out.append(('> '+l) if section in BLOCK else l)
+        out.append(('> '+l) if section in BLOCK else l); st['content']=True
         if section in ('samhita','pada') and ENDNUM.search(l): st['force']={'samhita':'pada','pada':'bhashya'}[section]
     return '\n'.join(join_hyphens(out))+'\n',section
 def join_hyphens(out):
