@@ -16748,6 +16748,151 @@ Although the Maruts received help from Indra's side in a time of difficulty and,
 **Vyākaraṇa-prakriyā** *(Grammar, Ṛk 9)*
 *Grammar (transcribed, not explained):* अनुत्तम् (*anuttam*) *[as supplied: ending m; the Pada-pāṭha has अनुत्तं (*anuttaṃ*)]*—root णुद प्रेरणे (*ṇuda preraṇe*), suffix kta; by the sūtra cited as (Pā. Sū 8-61) *[as supplied: number printed without a hyphen]* nipātana, so the niṣṭhā-nattva does not occur. Then the tatpuruṣe tulyārtha rule (Pā. Sū. … *[the print breaks off here at the end of the window; it continues on the next page]*
 
+### Printed p. 709
+*Running head: [ಅ. ೨. “ ೩. ವ. ೨೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 709] (as supplied; the second sign is printed “ in place of ಅ.).*
+
+**Vyākaraṇa-prakriyā** *(continued from Ṛk 9)*
+*[Continuing: the sūtra begun at the end of the previous page, "tatpuruṣe tulyārtha…", ends with its number:]* (Pā. Sū. 6-2-2); by this the first member nañ keeps its natural accent.
+*Grammar (transcribed, not explained):* त्वावान् (*tvāvān*)—suffix vatup in the sense of likeness (Pā. Sū. 5-2-39-1, as printed), the substitution tva up to the m, and the ā-substitution for the d (Pā. Sū. 6-3-91); the stem accent because the suffix has the mark p. देवता (*devatā*)—deva itself is devatā; suffix tal in the same sense; ṭāp by the rule on feminine words in -tal; the udātta accent before the suffix. विदानः (*vidānaḥ*)—root विद ज्ञाने (*vida jñāne*); śānac in place of laṭ by vyatyaya; luk for the vikaraṇa; no guṇa of the root vowel since the suffix is treated as marked n; the accent on the ending by vyatyaya.
+नशते (*naśate*)—root ṇaś vyāptau, laṭ third person singular; the nighāta accent is prevented by Pā. Sū. 8-1-63, so the root accent remains. करिष्या (*kariṣyā*)—a Vedic suffix; in the neuter, loss of śi by Pā. Sū. 6-1-70. कृणुहि (*kṛṇuhi*)—root krvi, loṭ second person singular; the luk of hi does not come by Pā. Sū. 9-4-106-1 *[as supplied: number printed so]*; no nighāta because of the yad-connection; accent udātta because hi is stated to be unmarked p. प्रवृद्ध (*pravṛddha*)—root वृधु वृधौ (*vṛdhu vṛdhau*), suffix kta, dh-substitution for it; in the vocative the āmantrita-nighāta accent comes. ॥ 9 ॥
+
+#### Ṛk 10
+**॥ संहितापाठः ॥**
+> एक॑स्य चिन्मे वि॒भ्व१॒॑ १ स्तोऽजो॒ या सु द॑धृ॒ष्टान्कृ॒णवै॒॑
+> मनी॒षा ।
+> अ॒हं ह्यु१॒॑ १ ग्रो म॑रुतो॒ विदा॑नो॒ यानि॒ च्यव॒मिंद्र॒ इदी॑श
+> एषां ॥ १० ॥
+
+> *ekasya cinme vibhva 1 sto 'jo yā su dadhṛṣṭānkṛṇavai*
+> *manīṣā |*
+> *ahaṃ hyu 1 gro maruto vidāno yāni cyavamiṃdra idīśa*
+> *eṣāṃ ‖ 10 ‖*
+
+### Printed p. 710
+*Running head: 710 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೩. ಸೂ ೧೬೫] (as supplied).*
+
+**॥ पदपाठः ॥**
+> एकस्य । चित् । मे । विभु । अस्तु । ओजः । या । नु । दधृष्टान् । कृणवै । मनीषा ।
+> अहं । हि । उग्रः । मरुतः । विदानः । यानि । च्यवं । इंद्रः । इत् । ईशे । एषां ॥
+> ॥ १० ।
+**॥ सायणभाष्यम् ॥**
+> इदानीमिंद्र आह । मे ममैकस्य चिदेकस्यैव विभु सर्वत्रगमनशीलमोजो
+> बलमस्तु । यद्वा । बलमेकस्यॆवास्तु । किमर्थमिति चेत् उच्यते । या यानि
+> कर्माणि मनीषा मनीषया मनस ईषया दधृष्टान् धर्षितवानहं नु क्षिप्रं
+> कृणवै कर्तुं शक्नुवानि । हे मरुतः अहं ह्यहं खलूग्र उद्यूर्णबलो विदानो
+> वेदनावान् । यानि यानि वसूनि च्यवं अवगच्छामि एषामहमेवेंद्र इदीश्वर एव
+> सन्नीशे । ईश्वरो भवामि । अथवा विदानोऽहं यानि च्यवं यान्युद्दिश्य गच्छेयं
+> एषामीशे । यतोऽहमिंद्रः अतः शक्त इत्यर्थः ॥
+*Gist:* Indra says: let his pervasive strength be his alone; being fierce and wise, he rules whatever he sets his mind on.
+
+*[as supplied: garbled label line "ಪ್ರತಿಪದಾರ್ಥ-" before the Pratipadārtha heading, and garbled label line "ಭಾನುವಾರ" before the Bhāvārtha heading.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+या (*yā*)—whichever daring deeds; मनीषा (*manīṣā*)—by the prompting of my own intellect; दधृष्टान् (*dadhṛṣṭān*)—having resolved; नु (*nu*)—swiftly; कृणवै (*kṛṇavai*)—I am able to do (and therefore); मे एकस्य चित् (*me ekasya cit*)—belonging to me alone; विभु (*vibhu*)—and all-pervading; ओजः (*ojaḥ*)—strength; अस्तु (*astu*)—let it be firm; मरुतः (*marutaḥ*)—O Maruts; अहं हि (*ahaṃ hi*)—as for me; उग्रः (*ugraḥ*)—I am terrible; विदानः (*vidānaḥ*)—wise (and); यानि (*yāni*)—in whichever matter; च्यवं (*cyavaṃ*)—I set my mind; एषां (*eṣāṃ*)—of all those things; इंद्र इत् (*iṃdra it*)—I myself, as master; ईशे (*īśe*)—I exercise lordship.
+
+**भावार्थ (Bhāvārtha)**
+O Maruts, I am able, by the prompting of my own intellect alone, to resolve upon all daring deeds and to carry them out swiftly. Therefore let only my strength, fit to range everywhere, be firm. As for me, I am exceedingly terrible and wise; whatever thing I set my mind on, I can obtain all those things and be lord over them.
+
+**Printed English**
+(Indra),—May the prowess of me alone be irresistible : may I quickly accomplish whatever I contemplate in my mind : for verily, Maruts, I am *[the sentence continues on p. 711]*
+
+### Printed p. 711
+*Running head: [ಅ. ೨. ಆ. ೩. ವ. ೨೫ ] ಋಗ್ವೇದಸಂಹಿತಾ 711] (as supplied; ಆ. printed for the second sign).*
+
+**Printed English** *(continued)*
+fierce and sagacious, and to whatever (objects) I direct (my thoughts), of them I am the lord, and rule (over them).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk Indra praises his all-pervading strength, his intelligence, his terrible nature and his wisdom, and says that because he has all these qualities he is fit to be lord of everything. Because he has many great qualities of this kind, he declares in यानि च्यवमिंद्र इदीश एषां (*yāni cyavamiṃdra idīśa eṣāṃ*) that "I am Indra". Here the word Indra means lordship accompanied by the many great qualities mentioned above. The Nirukta authors, showing the derivation of the word Indra, have stated that all the special qualities of Indra are indicated by this word alone:
+इंद्र इरां दृणातीति वा (*iṃdra irāṃ dṛṇātīti vā*)—formed from the root dṛ meaning "to divide" [as printed]; इरां अन्नं व्रीह्यादि दृणाति विदारयति । वर्षक्लेदितमंकुरं बीजं भिनत्ति (*irāṃ annaṃ vrīhyādi dṛṇāti vidārayati | varṣakleditamaṃkuraṃ bījaṃ bhinatti*): he divides the food in the form of rice and the like, that is, he splits open the seed-sprouts moistened by rain and makes them become plants; or
+इरां ददातीति वा (*irāṃ dadātīti vā*)—formed from the root dā meaning "to give": वर्षद्वारेणासौ इरां ददाति (*varṣadvāreṇāsau irāṃ dadāti*), he gives food through the production of rain; or
+इरां दधातीति वा (*irāṃ dadhātīti vā*)—formed from the root dhā meaning "to nourish": he nourishes by giving food and the like through rain; or
+इरां दारयत इति ना (*irāṃ dārayata iti nā*) *[as supplied: ना (*nā*) for वा (*vā*)]*—formed from the root dṝ meaning "to cause to split": he makes the earth ready, in the form of ploughing, for plants and the like; or
+इंदवे द्रवतीति वा (*iṃdave dravatīti vā*)—formed from the root dru meaning "to run": he runs hurriedly for the Soma juice; or
+इंदौ रमत इति वा (*iṃdau ramata iti vā*)—formed from the root ram meaning "to delight": he is satisfied by drinking the Soma juice; or
+इंधे भूतानीति वा (*iṃdhe bhūtānīti vā*)—formed from the root indh meaning "to shine": he makes beings shine; in these ways the name Indra is well known. Having stated his own personal opinion, he then gives the opinions of other teachers:—
+इदं करणादित्याग्रयणः (*idaṃ karaṇādityāgrayaṇaḥ*)—in the creation of the world he made everything (इदमसौ सर्वमकरोत् (*idamasau sarvamakarot*)); thus he is denoted by the word Indra, according to the sage Āgrayaṇa.
+
+### Printed p. 712
+*Running head: 712 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೩. ಸೂ. ೧೬೫] (as supplied).*
+
+**Special Topics** *(continued)*
+इदं दर्शनादित्यौपमन्यवः (*idaṃ darśanādityaupamanyavaḥ*)—because he has the power of seeing everything, he is denoted by the word Indra, according to the sage Aupamanyava.
+इंदतेर्वैश्वर्यकर्मणः (*iṃdatervaiśvaryakarmaṇaḥ*)—because he is lord of the whole world, this name may also be given.
+इंदङ्घात्रोणां दारयिता वा द्रावयिता वा (*iṃdaṅghātroṇāṃ dārayitā vā drāvayitā vā*) *[as supplied: spelling kept]*—endowed with all power, he splits or drives away the enemies; by this too the name is well known.
+In the present Ṛk also, the qualities mentioned above are understood to be indicated by the word Indra, from इंद्र इदीश एषां (*iṃdra idīśa eṣāṃ*).
+
+*[as supplied: garbled label line "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ।" before the Vyākaraṇa-prakriyā heading.]*
+
+**Vyākaraṇa-prakriyā** *(Grammar, Ṛk 10)*
+*Grammar (transcribed, not explained):* विभु (*vibhu*)—vibhavati iti vibhu; root bhū sattāyām; Pā. Sū. 3-2-179 continues, with Pā. Sū. 3-2-180 the suffix ḍu; loss of ṭi; the krt-uttarapada-prakṛti accent. दधृष्टान् (*dadhṛṣṭān*)—root इधृषा प्रागल्भे (*idhṛṣā prāgalbhe*) *[as supplied: spelling]*; kvasu in place of liṭ; reduplication; nominative singular.
+कृणवै (*kṛṇavai*)—root krvi; the augment num; the suffix of the tumartha (Pā. Sū. 3-4-9) gives the desired form in the Veda. उग्र (*ugra*)—root uc samavāye; by Uṇ. Sū. 2-186 formed as a nipātana ending in ra. च्यवम् (*cyavam*)—root cyuj gatau, bhvādi; parasmaipada by Pā. Sū. 3-1-85; liṭ first person singular, mip, am-substitution by Pā. Sū. 3-4-101; luk of the vikaraṇa; guṇa and av-substitution; no nighāta because of the yad-connection; the root accent remains since mip is marked p. ईशे (*īśe*)—root īś aiśvarye, laṭ first person singular; the tiṅanta-nighāta accent. ॥ 10 ॥
+*[as supplied: stray line ":੦:" at the end of the page.]*
+
+### Printed p. 713
+*Running head: [ಆ. ೨. ಅ. ೩. ವ. ೨೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 713] (as supplied; ಆ. printed for the first sign, and ವ. ೨೬ here).*
+
+#### Ṛk 11
+*[Note: the supplied text had a picture of the Saṃhitā-pāṭha of this Ṛk, with accents; it only repeats the Saṃhitā block that kn.md already has as text, so the picture line was removed.]*
+**॥ संहितापाठः ॥**
+> अम॑न्दन्मा मरुतः॒ स्तोमो॒ अत्र॒ यन्मे॑ नरः॒ श्रुत्यं॒ ब्रह्म॒॑
+> च॒क्र ।
+> इंद्रा॑य॒ वृष्णे॒ सुम॑खाय॒ मह्यं॒ सख्ये॒ सखा॑यस्त॒न्वे॒॑॑
+> तनूभिः ॥ ११ ॥
+**॥ पदपाठः ॥**
+> अमंदत् । मा । मरुतः । स्तोमः । अत्र । यत् । मे । नरः । श्रुत्यं । ब्रह्म । चक्र ।
+> इंद्राय । वृष्णे । सुमखाय । मह्यं । सख्ये । सखायः । तन्वे । तनूभिः ॥ ११ ॥
+**॥ सायणभाष्यम् ॥**
+> इदमहींद्रवाक्यं । हे मरुतः मा मामत्रास्मिन्नुदकोत्पादनविषये
+> स्तोमः स्तोत्रममंदत् । मादयति मोदयते वा । हे नरः सखायः यूयं मे
+> मम यच्चुत्यं सर्वै श्रोतव्यं ब्रह्म परिवृढमेघधारणादिरूपं चक्र कृतवंतः ।
+> स्वप्रभूतं स्तोत्रं वानुत्तमा त इत्यादिकं । इंद्राय परमैश्वर्यगुणकाय
+> वृष्णेऽभिमतॆवर्षित्रे सुमखाय शोभनयागाय सख्ये युष्माभिः समानख्यानाय
+> तनूभिरनेकशरीरैरुपेताय मह्यं मम तन्ने मदीयशरीरपोषाय भवतु ।
+> यद्वा । तनूभिरस्मच्छरीरभूतैर्युष्माभिः कृतं मह्यमेवास्ति त्वर्थः ॥
+*Gist:* Indra speaks: the Maruts' praise delights him; let the praise they made for him, friend and lord of rain, serve his own body's nourishment.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+मरुतः (*marutaḥ*)—O Maruts; मा (*mā*)—me; अत्र (*atra*)—on this occasion; स्तोमः (*stomaḥ*)—praise; आमंदत् (*āmaṃdat*) *[as supplied: आमंदत् (*āmaṃdat*) for अमंदत् (*amaṃdat*)]*—delights; नरः (*naraḥ*)—leaders, and; सखायः (*sakhāyaḥ*)—friends, you; मे (*me*)—belonging to me, and; यत् (*yat*)—which; श्रुत्यं (*śrutyaṃ*)—to be heard by all; ब्रह्म (*brahma*)—praise able to hold the great cloud; चक्र (*cakra*)—you have made (all that, too); इंद्राय (*iṃdrāya*)—for him who has the qualities of lordship; वृष्णे (*vṛṣṇe*)—who showers desired benefits; सुमखाय (*sumakhāya*)—who has an excellent sacrifice; सख्ये (*sakhye*)—your friend; तनूभिः (*tanūbhiḥ*)—endowed with many bodies; मह्यं (*mahyaṃ*)—for my; तन्ने (*tanne*) *[as supplied: तन्ने (*tanne*) for the Pada-pāṭha's तन्वे (*tanve*)]*—body's nourishment, let it be intended.
+
+### Printed p. 714
+*Running head: 714 ಸಾಯುಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೩. ಸೂ. ೮೫] (as supplied; ಸಾಯುಣ and "ಸೂ. ೮೫" are printed so, the page marker was inserted by the script).*
+
+*[as supplied: the Bhāvārtha label stands as "ಭಾಷಾ" in the supplied text; repaired in kn.md to the standard label.]*
+
+**भावार्थ (Bhāvārtha)**
+O Maruts, on this occasion your praise delights me. You, leaders and friends, have recited the praise that belongs to me, that is heard by all, and that is able to hold the great cloud. May all those praises be for the nourishment of my body, mine, who have the qualities of lordship, who shower desired benefits, who have an excellent sacrifice, who am your friend and who am endowed with many bodies. *[as supplied: ಶೇರಿರದ in the print for ಶರೀರದ, "body".]*
+
+**Printed English**
+Maruts, on this occasion praise delights me ; that praise which is to be heard (by all), which men have offered me. To Indra, the showerer (o benefits) *[sic]*, the object of pious sacrifice : to me, (endowed) with many forms (do you) my friends (offer sacrifices) for (the nourishment of my) person.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk Indra does not answer in such a way as to hurt the minds of the Maruts, as he did in the earlier Ṛks. He remembers the friendship of the Maruts and speaks courteous words so that they may be reconciled. Although, as described in the earlier Ṛks, Indra had behaved very harshly toward the Maruts, in the ninth Ṛk, in “ अनुत्तमा ते मघवन्नकिर्नु (*anuttamā te maghavannakirnu*) ” and so on, the Maruts praise the greatness of Indra; afterwards Indra's answer is gentle and mindful of benefit received. Although the meaning of this Ṛk is clear, only the pāda सख्यॆ सखायस्तन्ने तनूभिः (*sakhyè sakhāyastanne tanūbhiḥ*) *[as supplied: spelling as printed]* is somewhat difficult. Sāyaṇa has given two kinds of meaning for it. First, तनूभिः (*tanūbhiḥ*)—अनेकशरीरैरुपेताय (*anekaśarīrairupetāya*); मह्यं (*mahyaṃ*)—मम (*mama*); तन्ने (*tanne*)—मदीयशरीरपोषाय (*madīyaśarīrapoṣāya*): "for the nourishment of my body, endowed with many bodies", this is one meaning; and besides this, तनूभिरस्मच्छरीरभूतैर्युष्माभिः (*tanūbhirasmaccharīrabhūtairyuṣmābhiḥ*): "done by you, who are not different from my body", he has said that another meaning is possible.
+
+**Vyākaraṇa-prakriyā** *(Grammar, Ṛk 11)*
+*Grammar (transcribed, not explained):* अमंदत् (*amaṃdat*)—root मदि स्तुत्यादिषु (*madi stutyādiṣu*), laṅ in the present sense in the Veda; as the causal action is seen it has the sense of the inner ṇic; third person singular; no nighāta at the start of a pāda; the augment aṭ is udātta, so the word is initial-accented. श्रुत्यम् (*śrutyam*)—root श्रु श्रवणे (*śru śravaṇe*); by Pā. Sū. 3-1-67 as an exception to yat, the Uṇ-ādi suffix kyap; the augment tuk by Pā. Sū. 6-1-71 *[the sentence continues on p. 715]*
+
+### Printed p. 715
+*Running head: [ಅ. ೨. ಅ. ೩. ನ. ೨೬] ಋಗ್ವೇದಸಂಹಿತಾ 715] (as supplied; ನ. printed for ವ.).*
+
+**Vyākaraṇa-prakriyā** *(continued)*
+*Grammar (transcribed, not explained):* [continuing श्रुत्यम् (*śrutyam*):] the tuk augment; the root accent remains since the suffix is marked p; or the word śruti, with suffix yat by Pā. Sū. 4-4-110, in the Veda; initial accent by Pā. Sū. 6-1-213. चक्र (*cakra*)—root Dukṛñ karaṇe, liṭ second person plural; no nighāta because of the yad-connection; final accent by the suffix accent. सुमखाय (*sumakhāya*)—"he whose sacrifice is excellent", dative; initial accent as an exception to the su-accent. सख्ये (*sakhye*) *[as supplied: सख्यॆ (*sakhyè*)]*—by Pā. Sū. 1-4-7 it lacks the name ghi, so guṇa and the like do not come; yaṇ-substitution in the dative singular. तन्ने (*tanne*)—the word tanu before the dative singular: by "jasādiṣu chandasi vā vacanam" guṇa and the like do not come; yaṇ-substitution; by Pā. Sū. 8-2-4 (as printed) the ending gets the svarita accent. ॥ 11 ॥
+
+#### Ṛk 12
+*[Note: the supplied text had a picture of the Saṃhitā-pāṭha of this Ṛk, with accents; it only repeats the Saṃhitā block that kn.md already has as text, so the picture line was removed. The garbled label line "। ದವಜಾರ ।" after the Saṃhitā block was replaced by the script's label ಪದಪಾಠಃ.]*
+**॥ संहितापाठः ॥**
+> ए॒वेदे॒ते प्रति॑ मा॒ रोच॑माना॒ अने॑द्यः॒ श्रव॒ एषो॒ दधा॑नाः।
+> सं॒चक्ष्या॑ मरुतश्चं॒द्रव॑र्णा॒ अच्छां॑त मे छ॒दया॑था च॒
+> नूनं ॥ १२ ॥
+**॥ पदपाठः ॥**
+> एव । इत् । एते । प्रति । मा । रोचमानाः । अनेद्यः । श्रवः । आ । इषः । दधानाः ।
+> संचक्ष्य । मरुतः । चंद्रवर्णाः । अच्छांत । मे । छदयाथ । च । नूनं ॥ १२ ॥
+**॥ सायणभाष्यम् ॥**
+> हे मरुतः एवेदेवमेवैते यूयं मा मां प्रति रोचमाना मद्विषये
+> संप्रीयमाणा मां ख्यापयंतो वानेद्योऽनंतिकस्थं श्रवः कीर्तिमिषश्च दधानाः ।
+> आ इति चार्थे । यद्वा । अनेद्य इति प्रशस्यनाम । प्रशस्यं यशोऽस्मत्तो दधाना
+*Gist:* The Maruts, gladdened toward Indra, hold fame and strength; the bhāṣya of this Ṛk is cut at the end of this window and continues on the next page.
+
 ---
 
-**Progress note:** Done through printed p. 708. Sukta 165 Rk 7 (end) to Rk 9 (start of grammar), pp. 701-708
+**Progress note:** Done through printed p. 715. Sukta 165 Rk 9 grammar end, Rk 10, Rk 11, Rk 12 start, pp. 709-715
