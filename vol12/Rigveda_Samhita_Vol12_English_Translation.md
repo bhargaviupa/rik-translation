@@ -261,6 +261,128 @@ In the present ṛk too the word कव (*kava*) has the meaning "small". What i
 > *śapaḥ śluḥ | abhyāsasyètvaṃ hrasvatvaṃ ca ii punastāveva viśeṣyete | kāmapraṇeva | ivaśabda evakārārthaḥ | kāmapūrakeṇaiva manasā saha caraṃtā caraṃtau | yajamānasya kāmāḥ*
 > *pūraṇīyā iti kṛtasaṃkalpāvityarthaḥ ‖ prā pūraṇe | kāmaṃ prātīti kāmapraḥ | ātonupasarge kaḥ ‖*
 
+### Printed p. 11
+
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 1] Ṛgveda-saṃhitā, p. 11 (printed "ಅ. ೨ .ಅ. ೩. ವ. ೧. ]", as supplied).*
+
+*[Gist of the Sāyaṇa-bhāṣya of Ṛk 2 (the bhāṣya block closed on p. 10; this gist, my own short summary, is given here with the Pratipadārtha): O Aśvins, who could honour with oblation such goodwill as yours? Invoked at the altar, you grant us milk-rich, nourishing cows with willing minds.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसू (*vasū*)—O Aśvin deities, who provide dwelling-places. यत् (*yat*)—(because you wish to do good to us) for which reason. गोः पदे (*goḥ pade*)—in the place of the venerable altar. नमसा (*namasā*)—with food in the form of oblation (a meagre quantity) (in return for that). धेथे (*dhethe*)—(you hold a mind that gives to us abundantly) (and therefore). कामप्रेणेव (*kāmapreṇeva*)—with the (our) desires bound to be fulfilled. मनसा (*manasā*)—with a mind. चरंता (*caraṃtā*)—moving about. अस्मे (*asme*)—to us. रेवतीः (*revatīḥ*)—possessing wealth such as milk; पुरंधीः (*puraṃdhīḥ*)—and the cause of growth of the body: cows. जिगृतं (*jigṛtaṃ*)—you give (such). वां (*vāṃ*)—your. अस्यॆ सुमतये चित् (*asyè sumataye cit*)—to this excellent and gracious mind, (so abundantly as to satisfy it) *[the closing parenthesis has no opening one in the supplied text]*. कः (*kaḥ*)—which sacrificer indeed दाशत् (*dāśat*)—can offer?
+
+*[Label garbled in the supplied text: "ಭಾಷಾರ್ಥ"; the standard Bhāvārtha label is inserted and the garbled line kept in kn.md as a note.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin deities, who provide dwelling-places! With the intention that you must do good to us, you stand at the place of the venerable altar and hold a gracious mind that gives us abundantly wealth and the like in return for the small oblation we offer. Therefore, moving with a mind set on fulfilling all our desires, you give us cows that possess milk and other wealth and are the cause of the growth of the body. Which sacrificer indeed can offer you oblation so abundantly as to satisfy such an excellent, gracious mind of yours? You must be satisfied with our small offering itself.
+
+**Printed English translation**
+
+Granters of dwellings, who may make you offerings so propitiatory of that your good will, that (invoked) by our adoration, to the site of the altar, you may entertain (favourable intentions towards us), and grant us cows rich in milk, coming with minds made up to grant the desires (of the worshipper).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+गोः पदे (*goḥ pade*)—भूम्याः सर्वैर्गंतव्यायाः स्तुत्याया वा वेदिरूपायाः (*bhūmyāḥ sarvairgaṃtavyāyāḥ stutyāyā vā vedirūpāyāḥ*) स्थाने । (*sthāne |*) This is explained as "on the earth in the form of the altar". One should first understand how the word गो (*go*) comes to have the name "earth", and then the identity (*tādātmya*) of the earth and the altar. The authors of the Nirukta have included the word गो (*go*) among the names of the earth (Ni. 2-5) and have then given its derivation.
+
+### Printed p. 12
+
+*Running head: 12 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158.*
+
+गौरिति पृथिव्या नामधेयं । यद्दूरंगता भवति । यच्चास्यां भूतानि (*gauriti pṛthivyā nāmadheyaṃ | yaddūraṃgatā bhavati | yaccāsyāṃ bhūtāni*)
+गच्छंति । गातेर्वौकारो नामकरणः । (*gacchaṃti | gātervaukāro nāmakaraṇaḥ |*)
+
+(printed "ಸಿ-೨೫", i.e. Ni. 2-5 as in the sentence above; reference as supplied)
+
+"Because it spreads out very widely (दूरंगता भवति (*dūraṃgatā bhavati*)); or because beings move about on it (भूतानि गच्छंति (*bhūtāni gacchaṃti*))": the word गौः (*gauḥ*) is a synonym of "earth". The authors of the Nirukta explain this synonym of the earth, saying that its derivation is possible also by adding the suffix औ (*au*) to the root गा (*gā*), and then say:
+
+अधापि पशुनामेह भवत्येतस्मादेव ।: (*adhāpi paśunāmeha bhavatyetasmādeva |:*) *[the line ends in ".:" as supplied]*
+
+Because it is formed from the root गम् (*gam*) or गा (*gā*) with the above sense, this name is well known also for the animal; and saying आदित्योऽपि गौरुच्यते, सर्वॆऽपि (*ādityo 'pi gaurucyate, sarvè 'pi*) रश्मयो गाव उच्यंते । (*raśmayo gāva ucyaṃte |*) they show that the word गो (*go*) is used also in the senses sun, ray and so on. In those contexts the meaning of the root and the derivation of गो (*go*) have been given, or will be given, in the respective contexts. In the present ṛk the meaning is "earth"; if this is extended further, the purport is "the earth in the form of the altar".
+
+चंद्रमा एव प्रत्यक्षादादित्यो यजमानस्तस्येयमेव पृथिवी वेदिः । (*caṃdramā eva pratyakṣādādityo yajamānastasyeyameva pṛthivī vediḥ |*)
+
+(Śa. Brā. 12-8-2-36)
+
+In sentences like this the identity of the earth and the altar is stated. And when Śaṅkarācārya wrote the bhāṣya on the sentence होता वेदिषत् (*hotā vediṣat*) of the Karopaniṣad *[so printed]* (5-2), he wrote:
+
+इयं वेदिः परोऽंतः पृथिव्याः । या यज्ञे प्रसिद्धा इयं वेदिः पृथिव्याः (*iyaṃ vediḥ paro 'ṃtaḥ pṛthivyāḥ | yā yajñe prasiddhā iyaṃ vediḥ pṛthivyāḥ*)
+परोऽंतः परः स्वभाव इति वेद्याः पृथिवीस्वभावत्वकीर्तनात् पृथिवी वेदिशब्दवाच्या भवतीत्यर्थः । (*paro 'ṃtaḥ paraḥ svabhāva iti vedyāḥ pṛthivīsvabhāvatvakīrtanāt pṛthivī vediśabdavācyā bhavatītyarthaḥ |*) *[a hyphenated line break inside ವೇದಿ-ಶಬ್ದವಾಚ್ಯಾ is joined in kn.md]*
+
+— thus giving a meaning that shows the identity of earth and altar. Moreover:
+
+इयं वेदिः परो अंतः पृथिव्या अयं यज्ञो भुवनस्य नाभिः । (*iyaṃ vediḥ paro aṃtaḥ pṛthivyā ayaṃ yajño bhuvanasya nābhiḥ |*)
+
+(Ṛ. Saṃ. 1-164-35)
+
+there is a śruti sentence itself. In the present ṛk Sāyaṇa has explained it as "on the earth in the form of the altar, easily approached by all and worthy of praise".
+
+नमसा (*namasā*)—हविर्लक्षणेन अन्नेन । (*havirlakṣaṇena annena |*) "By food in the form of oblation." The word नमः (*namaḥ*) is read among the names of food (Ni. 3-9) and among the names of the thunderbolt (Ni. 3-11), and in the Ṛk-saṃhitā this word is used in both these senses, besides the established sense of salutation.
+
+### Printed p. 13
+
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೧.] ಮುಗ್ವೇದಸಂಹಿತಾ 13 (as supplied; "ಮುಗ್ವೇದ" for "ಋಗ್ವೇದ"). In the supplied text this head is merged into the last line of p. 12 and no page marker was supplied; the page break is inserted here.*
+
+In some places there is also the meaning "praise, a means of salutation". In the present ṛk it means "by food in the form of oblation".
+
+कामप्रेणेव (*kāmapreṇeva*)—इव शब्दः एवकारार्थः । कामपूरकेणैव मनसा (*iva śabdaḥ evakārārthaḥ | kāmapūrakeṇaiva manasā*) यजमानस्य (*yajamānasya*) कामाः पूरणीया इति कृतसंकल्पावित्यर्थः । (*kāmāḥ pūraṇīyā iti kṛtasaṃkalpāvityarthaḥ |*) This is explained as: having minds that have firmly resolved to obtain and give what the sacrificer's mind desires and so to satisfy him. Or it can also mean: having minds full of love, (thinking) that the desired object must be fulfilled. Because,
+
+बृहस्पते प्रथमं वाचो अग्रं यत्पैरत नामधेयं वधानाः । (*bṛhaspate prathamaṃ vāco agraṃ yatpairata nāmadheyaṃ vadhānāḥ |*)
+यदेषां श्रेष्ठं यदरिप्रमासीत्प्रेणा तदेषां निहितं गुहाविः॥ (*yadeṣāṃ śreṣṭhaṃ yadaripramāsītpreṇā tadeṣāṃ nihitaṃ guhāviḥ‖*)
+
+(Ṛ. Saṃ. 18-71-1)
+(Ṛ. Saṃ. 18-71-1) *[the reference is printed twice, with "೧೮" for the Maṇḍala number, as supplied]*
+
+in this ṛk, for the word प्रेणा (*preṇā*) Sāyaṇa has explained मकारलोपश्छांदसः । प्रेम्नाविर्भवति (*makāralopaśchāṃdasaḥ | premnāvirbhavati*): in the word प्रेम्ना (*premnā*), being a Vedic word, the letter *m* is dropped; the meaning is "with love". Likewise in the present ṛk कामाभिपूरकप्रेम्ना इव । (*kāmābhipūrakapremnā iva |*) may also mean "with the pride (*abhimāna*) that the sacrificer's desired objects must be filled".
+
+रेवतीः (*revatīḥ*)—क्षीरादिधनवतीः । (*kṣīrādidhanavatīḥ |*) The meaning is "possessing wealth such as milk". It is formed from the word रै (*rai*) read among the names of wealth (Ni 3-9, as printed). The word रेवति (*revati*) can mean either merely "wealthy" or "cattle that give milk and so on".
+
+आ तू न इंदो शतदात्वश्वं सहस्रदातु पशुमद्धिरण्यवत् ॥ (*ā tū na iṃdo śatadātvaśvaṃ sahasradātu paśumaddhiraṇyavat ‖*)
+उप मास्व बृहती रेवतीरिषोऽधि स्तोत्रस्य पवमान नो गहि ॥ (*upa māsva bṛhatī revatīriṣo 'dhi stotrasya pavamāna no gahi ‖*)
+
+(Ṛ. Saṃ. 9-72-9)
+
+Here for रेवतीः (*revatīḥ*) (Sāyaṇa gives) धनवंति यद्वा पयसो दातारः पशवः तद्वंति (*dhanavaṃti yadvā payaso dātāraḥ paśavaḥ tadvaṃti*), "wealthy or possessing animals that give milk": both meanings are given. It is an epithet of इषः (*iṣaḥ*) (food). The word is used in the same way in other places too.
+
+पुरंधीः (*puraṃdhīḥ*)—शरीरधारिकाः शरीराभिवृद्धिहेतूः गाः । (*śarīradhārikāḥ śarīrābhivṛddhihetūḥ gāḥ |*) This is explained as "cows that are means of nourishing the body (are given)"; the purport lies in the nourishing quality of milk-wealth, "filled with milk". Although this word everywhere indicates "abundant, full, prosperous", since it is used in many contexts its meaning has to be explained according to each context, as is known from the sentence of the Nirukta author himself.
+
+ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि संति देवाः । (*te hi yajñeṣu yajñiyāsa ūmāḥ sadhasthaṃ viśve abhi saṃti devāḥ |*)
+ता अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिं । (*tā adhvara uśato yakṣyagne śruṣṭī bhagaṃ nāsatyā puraṃdhiṃ |*)
+
+(Ṛ. Saṃ. 7-39-4)
+
+### Printed p. 14
+
+*Running head: 14 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158.*
+
+*[In the supplied text the 7-39-4 reference is printed "ಮ. ಸಂ- ೭-೩೯-೪"; read Ṛ. Saṃ. by the rule of the user's reading of the abbreviation and changed in kn.md. The Kannada says "ಎಂಬ ಮಕ್ಕಿನಲ್ಲಿ" for "in that ṛk", as supplied.]* While explaining the meaning of the word पुरंधिं (*puraṃdhiṃ*) in that ṛk, (the Nirukta says):
+
+पुरंधिर्बहुधीस्तत्कः पुरंधिर्भगः पुरस्तात्तस्यान्वादेश इत्येकं । इंद्र इत्यपरं (*puraṃdhirbahudhīstatkaḥ puraṃdhirbhagaḥ purastāttasyānvādeśa ityekaṃ | iṃdra ityaparaṃ*)
+स बहुकर्मतः पुरां च दारयितृतमः । वरुण इत्यपरं तं प्रज्ञया स्तौति । (*sa bahukarmataḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparaṃ taṃ prajñayā stauti |*)
+
+(Ni. 6-13)
+
+The word पुरंधि (*puraṃdhi*) means "one with abundant intelligence (*dhī*)". The question is: who is such a one? Since the word भग (*bhaga*) precedes it in the ṛk, some hold that it is an epithet of that word. Since the word धी (*dhī*) is read among the names of actions, पुरंधि (*puraṃdhi*) means either "one with many kinds of action" or "one who splits enemy cities", and so some hold that it is an epithet of Indra. Or, as in sentences such as इमामू नु कवितमस्य मायां (*imāmū nu kavitamasya māyāṃ*) (Ṛ. Saṃ. 5-85-6) the excellent wisdom of Varuṇa is praised, in the present ṛk too (the 7-39-4 quoted by the Nirukta authors) it may be a synonym of Varuṇa, describing his wisdom, say still others: thus the Nirukta author states the differences of opinion. The Nirukta author shows with some more examples that this word is used also when the abundance of generosity shown by the gods towards sacrificers is shown, and when the abundance of oblations and the like offered by the sacrificers to the gods is indicated.
+
+आदाय श्येनो अभरत्सोमं सहस्रं सना आयुतं च साकं । (*ādāya śyeno abharatsomaṃ sahasraṃ sanā āyutaṃ ca sākaṃ |*)
+अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः । (*atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ |*)
+
+(Ṛ. Saṃ. 4-26-2)
+
+For the word in this ṛk, Durgācārya (Ni. 11-2) gives पुरंधिः बहु नः धनस्य दाता (*puraṃdhiḥ bahu naḥ dhanasya dātā*) *[so printed]*, that is, "one who gives much wealth", and Sāyaṇa gives बहुकर्म (*bahukarma*). It is an epithet of Indra. The purport is "generous".
+
+नृधूतो अद्रिषुतो बर्हिषि प्रियः पतिर्गवां प्रदिव इंदुर्य्त्वियः । (*nṛdhūto adriṣuto barhiṣi priyaḥ patirgavāṃ pradiva iṃdurytviyaḥ |*)
+पुरंधिवान्मनुषो यज्ञ साधनः शुचिर्धिया पवते सोम इंद्र ते ॥ (*puraṃdhivānmanuṣo yajña sādhanaḥ śucirdhiyā pavate soma iṃdra te ‖*)
+
+(Ṛ. Saṃ. 9-22-4)
+
+In this ṛk बहुकर्मवान् मनुषः (*bahukarmavān manuṣaḥ*) is given the meaning "of the man who has many kinds of rites for the satisfaction of the gods".
+
+पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरासः समुद्रियः । (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāsaḥ samudriyaḥ |*)
+विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥ (*viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖*)
+
+(Ṛ. Saṃ. 10-65-13)
+
 ---
 
-**Progress note:** Done through printed p. 10 (PDF 10). Sūkta 158 Special Topics end (kavāri, dasrā), grammar pp. 8-9, Ṛk 2 Saṃhitā, Pada, bhāṣya
+**Progress note:** Done through printed p. 14 (PDF 14). Sūkta 158 Ṛk 2 Pratipadārtha, Bhāvārtha, English, Special Topics (go, namas, kāmapra, revatī, purandhi)

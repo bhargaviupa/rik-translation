@@ -8,3 +8,5 @@
 - p. 8: first line continues the word broken at the end of p. 7 (ತಾತ್ಪರವಾಗು|ತ್ತದೆ). Ṛk 3-47-5 quotation ends with "ii" (for ॥), as supplied.
 - p. 9: stray ornament line ":੦:" after "॥ ೧ ॥" (contains Gurmukhi characters), kept as supplied in kn.md. Grammar page cites Pā. 7-1-39 and, for ūtī, 3-1-39 ("ಸುಪಾಂ ಸುಲುಕ್" both times), as supplied.
 - p. 10: Ṛk 2 Pada label garbled ("ಗದಗ ತಾ"), bhāṣya label garbled ("ಸಯಣಭಾಷ್ಯಂ"); fixed as for Ṛk 1. Running head prints "ಸೂ.೧೫೮.". Accent report: 1.158.2 DIFF (Saṃhitā as supplied differs from reference text).
+- pp. 11-14: p. 13 has no running-head line of its own in the supplied text: its head ("ಆ. ೨. ಆ. ೩. ವ. ೧.] ಮುಗ್ವೇದಸಂಹಿತಾ 13") is merged into the last line of p. 12; page marker inserted by hand in kn.md, page added to pages.json. Window therefore covers pp. 11-14.
+- p. 11: Bhāvārtha label garbled ("ಭಾಷಾರ್ಥ"). p. 12: reference "(ಸಿ-೨೫)" (Ni. 2-5 or 2-25? kept as supplied). p. 13: "(ಋ. ಸಂ. ೧೮-೭೧-೧)" printed twice (Maṇḍala "೧೮" presumably misread); "ನಿ ೩-೯" without dot. p. 14: "(ಮ. ಸಂ- ೭-೩೯-೪)" read as Ṛ. Saṃ. (hyphen after ಸಂ defeated refs_fix.py; recurring tool gap).
