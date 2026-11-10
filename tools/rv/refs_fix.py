@@ -15,7 +15,7 @@ KD = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')
 NUM = r'[೦-೯0-9]+(?:\s*[-–]\s*[೦-೯0-9]+)*'
 RULES = [  # (regex of the TOKEN only, Kannada replacement, English replacement); the number after it is only looked at, never consumed
     (rf'(?<![{KN}])ಸಿ\.?(?=[ \t]*[೦-೯0-9])', 'ನಿ.', 'Ni.'),
-    (rf'(?<![{KN}])(?:ಮಿ|ಮ|ಪು|ಋ)[.,]?[ \t]*ಸಂ\.?(?=[ \t]*[೦-೯0-9])', 'ಋ. ಸಂ.', 'Ṛ. Saṃ.'),
+    (rf'(?<![{KN}])(?:ಮಿ|ಮ|ಪು|ಋ)[.,\-]?[ \t]*ಸಂ[.\-]?(?=[ \t]*[೦-೯0-9])', 'ಋ. ಸಂ.', 'Ṛ. Saṃ.'),
     (rf'(?<![{KN}])ಇ\.?[ \t]*ಬ್ರಾ\.?(?=[ \t]*[೦-೯0-9])', 'ಐ. ಬ್ರಾ.', 'Ai. Brā.'),
 ]
 def fix_kn(t):
