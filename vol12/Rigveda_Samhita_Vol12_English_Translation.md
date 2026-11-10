@@ -10477,6 +10477,110 @@ here too अभिस्वरा अभिस्वरणेन स्तोत
 (Ṛ. Saṃ. 18-17-8) *[as supplied: the reference is printed "೧೮-೧೭-೮"; kept as printed.]*
 in this Ṛk, to explain that the superior and the inferior stand in mutual dependence and mutual following, it is described as अभिस्वरे संपश्यन् (*abhisvare saṃpaśyan*). Here the word अभिस्वर (*abhisvara*) means going toward: it means "go to meet" or "go following". In the Ṛk at hand it can apply in both these meanings. How? *[The Special Topics are cut by the end of the window as supplied, at "ಹೇಗೆಂದರೆ,", and continue in the next window.]*
 
+### Printed p. 423
+*Running head: ಆ. ೨. ರಾ. ೨. ವ. ೧೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 423 (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 21 from the previous window.]*
+शीर्ष्णः क्षीरं दुह्रते गावो अस्य वव्रिं वसाना उदकं पदापुः । (*śīrṣṇaḥ kṣīraṃ duhrate gāvo asya vavriṃ vasānā udakaṃ padāpuḥ |*)
+(Ṛ. Saṃ. 1-164-7)
+As described in this Ṛk, the one preceding this in the same sūkta, the rays of the sun, while performing the sun's duty, serve him both by pouring out water and by drawing the water up again and gathering it to Sūra *[as supplied: "ಸೂರನಲ್ಲಿಗೆ"]*. And knowing what is in his mind, they do their duties. Drawing water from the earth, going toward him, they again make things favourable to the fall of rain, and so on. As thus described, here too अमृतस्य भागं अभिस्वरंति (*amṛtasya bhāgaṃ abhisvaraṃti*) may mean that they take in a portion of the water (knowing their duty) and gather it to him; or it may mean that by their hymn, which is a form of their service, and by approaching him together with the water, they have urged him to pour down rain again.
+अमृतस्य (*amṛtasya*)—on the side relating to the divinity, the word अमृत (*amṛta*) is explained as water. The author of the Nirukta has read this word among the names of water (Ni. 2-24), and when giving the explanation of this Ṛk also he explains it as उदकस्य (*udakasya*) (Ni. 3-12).
+तस्य ये प्रांचो रश्मयः .... .... .... .... .... ता अमृता आप्तः । (*tasya ye prāṃco raśmayaḥ .... .... .... .... .... tā amṛtā āptaḥ |*) *[ellipsis ".... .... .... .... ...." as printed.]*
+(Chā. U. 2-1-2)
+In the Chāndogya Upaniṣad, where the relation between the sun and the waters is told, the word अपः (*apaḥ*) has the qualifier अमृताः (*amṛtāḥ*). Śaṅkarācārya explains this as अमृतार्थत्वादत्यंतरसवत्य आपो भवंति (*amṛtārthatvādatyaṃtarasavatya āpo bhavaṃti*). Continuing this:
+On the spiritual side: अमृतस्य ( अमरणधर्मणः ) ज्ञानस्य (*amṛtasya ( amaraṇadharmaṇaḥ ) jñānasya*)—as the author of the Nirukta explained, Sāyaṇa too has understood it, and he has also stated a qualification: explaining अत्र विषयावच्छिन्नचैतन्यं अमृतमित्र्युच्यते (*atra viṣayāvacchinnacaitanyaṃ amṛtamitryucyate*) *[as supplied: "ಮಿತ್ರ್ಯು" for the expected "ಮಿತ್ಯು"]*, he has shown the difference between consciousness limited by the object and consciousness limited by the mental modification. This explanation is like:
+द्वे अक्षरे ब्रह्मपरे त्वनंते विद्याविद्ये निहिते यत्र गूढे । क्षरं त्वविद्या ह्यमृतं तु विद्या विद्याविद्ये ईशते यस्तु सोऽन्यः । (*dve akṣare brahmapare tvanaṃte vidyāvidye nihite yatra gūḍhe | kṣaraṃ tvavidyā hyamṛtaṃ tu vidyā vidyāvidye īśate yastu so 'nyaḥ |*)
+(Prai. U. 5-8) *[as supplied: reference "ಪ್ರೈ. ಉ. ೫-೮"; kept as printed.]*
+In the imperishable and endless Supreme Brahman, knowledge and ignorance are laid down. Of these, ignorance is perishable and knowledge is immortal; as this difference is shown, so here too the difference is shown between consciousness limited by the object and consciousness limited by the mental modification. The basis of both is the self alone. Therefore, with यत्र यस्मिन्नात्मनि अभिस्वरंति (*yatra yasminnātmani abhisvaraṃti*), the self, the one basis of both, is described.
+
+### Printed p. 424
+*Running head: 424 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+अनिमेषं (*animeṣaṃ*)—for this word the meaning in the sense of water is "unceasingly", and in the sense of knowledge "without a wink" (that which has no closing of the eyes).
+धीरः पाकमत्रा विवेश (*dhīraḥ pākamatrā viveśa*)—Sāyaṇa has explained this in two ways. First:
+स परमेश्वरः धीरः समाधिनिष्ठः सर्वदा अविक्रियो मां पाकं परि पक्वमनस्कं यागादिना अपगतरजस्तमस्कत्वेन दर्पणवदतिनिर्मलसत्तोद्रिक्तमनस्सं मां आ विवेश । (*sa parameśvaraḥ dhīraḥ samādhiniṣṭhaḥ sarvadā avikriyo māṃ pākaṃ pari pakvamanaskaṃ yāgādinā apagatarajastamaskatvena darpaṇavadatinirmalasattodriktamanassaṃ māṃ ā viveśa |*) *[as supplied: "ಪರಿ ಪಕ್ವ" is split by a line-break, and "ಮನಸ್ಸಂ" is printed where the bhāṣya of Ṛk 21 has "ಮನಸ್ಕಂ".]* The Supreme Lord, firm in samādhi, destroying through sacrifices and other good acts the qualities of rajas and tamas, entered me, who am fully ripened, filled with sattva, and as pure as a mirror. And secondly:
+यद्वा, अपरिपक्वमनाः अहं पूर्वं अज्ञानदशायां मदन्यः ईश्वरोऽस्तीति अविद्वान् ततः परमस्ति कश्चित्सर्वज्ञः .... .... .... पश्चाद्गुरुशास्त्राभ्यां स एवाहमस्मीति मत्वा .... .... परिपूर्णः परमात्माभवं । (*yadvā, aparipakvamanāḥ ahaṃ pūrvaṃ ajñānadaśāyāṃ madanyaḥ īśvaro 'stīti avidvān tataḥ paramasti kaścitsarvajñaḥ .... .... .... paścādguruśāstrābhyāṃ sa evāhamasmīti matvā .... .... paripūrṇaḥ paramātmābhavaṃ |*) *[ellipses ".... .... ...." as printed.]* He has also explained: in the earlier state of the practice of knowledge, holding the notion of difference, "I am one, the Lord is another", and afterwards, through the study of the scriptures and the teaching of the teachers, giving up the notion of difference, I attained oneness with the Lord by the thought अहमस्मि (*ahamasmi*) ("I am"): this is the meaning. How the word पाक (*pāka*) in the second meaning means one of unripe mind has been told in the explanation of the sentence पाकः पृच्छामि मनसा विजानन् (*pākaḥ pṛcchāmi manasā vijānan*) in the 5th Ṛk of this same sūkta. The author of the Nirukta, too, explaining this, says पाकः पक्तव्यो भवति विपक्षप्रज्ञ आत्मेत्यात्मगतिमाचष्टे (*pākaḥ paktavyo bhavati vipakṣaprajña ātmetyātmagatimācaṣṭe*).
+*[as supplied: the garbled label "ವ್ಯಾಕರಣ, ಕ್ರಿಯಾ" stands before the grammar section; the script normalised it.]*
+
+*Grammar (transcribed, not explained):*
+यत्र (*yatra*)—निपातस्यच (*nipātasyaca*) (Pā. Sū. 6-3-136), lengthening in the saṃhitā. अमृतस्य (*amṛtasya*)—नञो जरमर (*naño jaramara*) (Pā. Sū. 6-2-116), the final member has initial udātta. अनिमेषम् (*animeṣam*)—तत्पुरुषे तुल्यार्थ (*tatpuruṣe tulyārtha*) (Pā. Sū. 6-2-2), the original accent of the first member.
+विदथा (*vidathā*)—root विदज्ञाने (*vidajñāne*) (printed joined); रुदिविदिभ्यांजुत् (*rudividibhyāṃjut*) (Uṇ. Sū. 3-395), ending atha; as jit-ness is laid down, no guṇa for the penultimate of the root; initial udātta from the ending; before the instrumental case-ending, सुपां सुलुक् (*supāṃ suluk*) gives the lengthening to the preceding homogeneous vowel.
+अभिस्वरंति (*abhisvaraṃti*)—root स्व गत् (*sva gat*) *[as supplied: so printed]*, bhvādi; laṭ third person plural, ending jha; झोंतः (*jhoṃtaḥ*) for the substitute anta; śap-vikaraṇa; सार्वधातुकार्धधातुकयोः (*sārvadhātukārdhadhātukayoḥ*) for
+
+### Printed p. 425
+*Running head: ಅ. ೨. ಅ. ೩. ಪ. ೧೭] ಋಗ್ವೇದಸಂಹಿತಾ 425 (as supplied).*
+
+guṇa of the ṛ-vowel, with r following; no nighāta accent because of the connection with यत्र (*yatra*); by the sūtra तास्यनुदात्तेत् (*tāsyanudāttet*) the lasārvadhātuka is unaccented, so the root-accent remains; by तिजुचोदात्तवति (*tijucodāttavati*) (Pā. Sū. 7-1-71) *[as printed]* the gati (abhi) takes nighāta accent.
+इनः (*inaḥ*)—root इण् गतौ (*iṇ gatau*); इण् सिंजिदी (*iṇ siṃjidī*) (Uṇ. Sū. 3-282), ending nak; as it is kit, no guṇa; final udātta by the accent of the ending.
+विवेश (*viveśa*)—root विश प्रवेशने (*viśa praveśane*); Vedic liṭ, third person singular; nighāta accent because it follows a finite verb. ॥ 21 ॥
+*[stray line as supplied: ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು.. (imprint line at the foot of the Ṛk's last section).]*
+*[as supplied: the garbled label "ಕಂಠಪಾಠಿ" stands before the Saṃhitā block, normalised by the script to Saṃhitā-pāṭha.]*
+
+#### Ṛk 22
+**॥ संहितापाठः ॥**
+> यस्मि॑न्वृ॒क्षे म॒ध्वदः॑ सुप॒र्णा नि॑वि॒शंते॒ सुव॑ते॒ चाधि॒ विश्वे॑ ।
+> तस्यॆदा॑हुः॒ पिप्स॑लं स्वा॒द्वग्रे॒ तन्नोन्न॑श॒द्यः पि॒तरं॒ न वेद॑ ॥२२॥
+*[as supplied: the garbled label "ಪವನಾಡಿ" stands after the Saṃhitā block, normalised by the script to Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> यस्मिन् । वृक्षे ! मधुअदः । सुपर्णाः । निविशंते । सुवते । च । अधि । विश्वे !
+> तस्य । इत् । आहुः । पिप्पलं । स्वादु । अग्रे । तत् । न । उत् । नशत् । यः । पितरं ।
+> न । वेद ॥ २२ ॥
+**॥ सायणभाष्यम् ॥**
+> अत्र वृक्षस्वरूपकल्पना । अधिदैवमादित्यमध्यात्ममात्मानं च प्रशंसति । यस्मिन्नादित्ये वृक्षे वृक्षवत्सर्वफलाश्रयभूते मध्वदः । मध्वित्युदकनाम । तददंतीति
+> मध्वद उदकस्यात्तारः सुपर्णाः सुपतना रश्मयो निविशंते प्रविशंति रात्र्य सुवते च
+> पुनरुदयकाले प्रकाशं जनयंति च यस्मादादित्यात् । कुत्र । आधि विश्वे विश्वस्योपरि।
+> तस्यादित्यवृक्षस्य पिप्पलं पालकं फलं स्वादु रसवदग्र उपर्युपासनानंतरमाहुः ।
+> कथयंति तत्त्वविदः । यद्वा । सर्वस्याध्युपरि वर्तमानमाहुः । ईदृशं पितरं जगतः
+> पालयितारं यो नरो न वेद नोपास्ते स तन्नोन्नशत् । नशतिर्गतिकर्मा । तत्सलं
+> न प्राप्नोति । वेदितुस्त्वग्रे पिप्पलमाहुरित्यर्थः । इत्यधिदैवपक्षे ॥ अथाध्यात्मपक्षे ।
+> यस्मिन्परमात्मनि वृक्षे वृक्षवद्दमनादिरहितेऽविक्रिये सुपर्णाः शोभनगमनानींद्रि-
+*[The Sāyaṇa-bhāṣya is cut by the end of the page as supplied, at "ಇಂದ್ರಿ-", and continues on the next page.]*
+
+### Printed p. 426
+*Running head: 426 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧.. ಅ. ೨೨. ಸೂ - ೬೪] (as supplied; the sūkta number is printed "೬೪").*
+
+*[Continuing the Sāyaṇa-bhāṣya of Ṛk 22.]*
+> याणि मध्वदो मधुनो ज्ञानस्यात्तणि । तज्ञानेन ज्ञानभांजीत्यर्थः । निविशंते
+> स्वापकाले स्वस्वविषयेभ्यः प्रतिनिवृत्तान्यात्मनिवृत्ता लीयंते पुनः प्रबोधकालेऽधि
+> विश्व विश्वस्योपरि सुवते च उद्यंति । स्वस्वविषयाल्लभंत इत्यर्थः । तस्य परमात्मनः
+> पिप्पलं पालकं संसारत उद्धारकं स्वाद्वास्वादनीयममृतत्वलक्षणं ज्ञानं। यत्पलास्वादने पुनः क्षुत्तृष्णाशोकमोहजरामरणादयो न भवंति तद्दि स्वामतमं ।
+> इतरस्वर्गादिफलानि पुनर्जननाद्यापादकत्वादापातस्वादूनि । तत्पलमग्रे स्वरूपज्ञानोत्तरकालमाहुः । यः पुमान् पितरं पालकं ज्ञानफलं तत्पलाधारमात्मानं वा
+> न वेद न जानाति गुरुशास्त्रात् स तत्पलं नोन्नशत् । न प्राप्नोति । अत आत्मानं यो
+> वेद स एव तन्नोक्षफलं प्राप्नोतीत्यर्थः । यद्वा । चर्मवदाकाशं । श्वे. उ. ६-२०
+> इत्यादिश्रुतेर्ज्ञानादन्नोपायस्यामृतत्वप्राप्तिं निवारयति ब्रह्म वेद ब्रह्मैव
+> भवतीत्याधिकानुज्ञा प्राप्ति माह । तस्मादीदृशं परमेश्वरं विदित्वा मुक्तो भूयासमित्यर्थः ॥
+*Gist:* In the sun as tree the rays enter at night and spread light at dawn; read spiritually, the senses sink into the Self; its fruit is gained only by one who knows the protector.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+यस्मिन् (*yasmin*)—in which, in the form of the sun; वृक्षे (*vṛkṣe*)—in the tree; मध्यदः (*madhyadaḥ*) *[as supplied: the Ṛk has मध्वदः (*madhvadaḥ*)]*—those that feed on water; सुपर्णाः (*suparṇāḥ*)—rays; निविशंते (*niviśaṃte*)—enter (at night-time, and again at the time of rising); अधि विश्वे (*adhi viśve*)—over all the worlds; सुवते च (*suvate ca*)—spread (the sun's) light; तस्य इत् (*tasya it*)—of that same sun; पिप्पलं (*pippalaṃ*)—the fruit that protects; स्वादु (*svādu*)—as full of savour; अग्रे (*agre*)—as the best (above all other fruits); आहुः (*āhuḥ*)—the knowers of truth say; यः (*yaḥ*)—which man; पितरं (*pitaraṃ*)—the sun, protector of the world; न वेद (*na veda*)—does not know (through worship and the like); तत् (*tat*)—that fruit; न उन्नशत् (*na unnaśat*)—does not obtain *[as supplied: the dash after न उन्नशत् (*na unnaśat*) is lacking in the print]*.
+
+**भावार्थ (Bhāvārtha)**
+In which tree, in the form of the sun, the rays that feed on water enter at night-time, and again at the time of rising spread the sun's light over all the worlds, of that same sun the fruit that protects the knowers of truth call full of savour and the best of all other fruits. The man who does not know, through worship and the like, the sun, protector of the world, does not obtain that fruit.
+
+**Printed English**
+In the tree into which the smooth-gliding (rays), feeders on the sweet (produce), enter, and again bring forth (light) over all ; they have calied [sic] the
+
+### Printed p. 427
+*Running head: ಅ. ೨. ಅ. ೩. ವ. ೧೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 427 (as supplied).*
+
+fruit sweet, but he partakes not of it who knows not the protector (of the universe).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Here, on the side relating to the divinity, the sun is praised, and on the spiritual side the Self. It is said that those who worship, by worship and the like, that sun in whom the rays enter at night and again at the time of rising spread his light to the world, enjoy the fruit that is in the tree in the form of the sun, extremely sweet and the best of all other fruits, and that for the rest it is not attainable. By पितरः न वेद (*pitaraḥ na veda*) ("who does not know the protector") the primacy is given to knowledge. It is stated that for tasting that fruit the knowledge of the nature of the sun is absolutely necessary. This is on the side relating to the divinity. On the spiritual side:
+यस्मिन्परमात्मनि वृक्षे सुपर्णाः शोभनगमनानींद्रियाणि मध्वदः ज्ञानस्यात्त्वाणि निविशंते स्वापकाले स्वस्वविषयेभ्यः प्रतिनिवृत्तानि पुनः प्रबोधकाले विश्वस्योपरि सुवते स्वस्वविषयान् लभंते । तस्य परमात्मनः पिप्वलं पालकं .... .... .... .... ॥ (*yasminparamātmani vṛkṣe suparṇāḥ śobhanagamanānīṃdriyāṇi madhvadaḥ jñānasyāttvāṇi niviśaṃte svāpakāle svasvaviṣayebhyaḥ pratinivṛttāni punaḥ prabodhakāle viśvasyopari suvate svasvaviṣayān labhaṃte | tasya paramātmanaḥ pipvalaṃ pālakaṃ .... .... .... .... ‖*) *[as supplied: पिप्वलं (*pipvalaṃ*) for पिप्पलं (*pippalaṃ*); ellipses as printed.]*
+In which tree in the form of the Supreme Self the senses, easy movers, that experience the savour of knowledge, at the time of sleep turn back from their objects and are absorbed in the Self alone, and afterwards at the time of waking again come into contact with their objects, the nature of that Supreme Self, to be gained by experiencing it, is extremely sweet and the best of all other fruits. But if it is asked for whom the enjoyment of this fruit is possible, or for whom it is not to be gained, then यः पितरं न वेद न तन्नोन्नशत् (*yaḥ pitaraṃ na veda na tannonnaśat*) means: it is gained by one who knows the nature of this Supreme Self, the protector; it is not gained by the ignorant who does not know. In this manner, passages are many, in the Saṃhitā and in the Āraṇyakas and elsewhere, that state the identity of the sun and the Supreme Self and have a description and praise of one form. For example,
+मरीचयः स्वायंभुवाः । ये शरीराण्यकल्पयन् । ते ते देहं कल्पयंतु मा च ते ख्यास्मै तीरिषत् । उत्तिष्ठत मा स्वप्त । अग्निमिच्छध्वं भारताः । राज्ञः सोमस्य तृप्नसः । सूर्येण सयुजोषसः । युवा सुवासाः । अष्टाचक्रा नवद्वारा । देवानां पूरयोध्या । तस्याग्ं हिरण्मयः कोशः । स्वर्गो लोको ज्योतिषावृतः । यो वै तां ब्रह्मणो वेद । अमृतेनावृतां पुरीं ! तस्मै ब्रह्म च ब्रह्माच । आयुः कीर्तिं प्रजां ददुः । विभ्राजमानाग्ं हरिणीं। यशसा संपरीवृतां । पुरग्ं हिरण्मयिं ब्रह्मा ॥ (*marīcayaḥ svāyaṃbhuvāḥ | ye śarīrāṇyakalpayan | te te dehaṃ kalpayaṃtu mā ca te khyāsmai tīriṣat | uttiṣṭhata mā svapta | agnimicchadhvaṃ bhāratāḥ | rājñaḥ somasya tṛpnasaḥ | sūryeṇa sayujoṣasaḥ | yuvā suvāsāḥ | aṣṭācakrā navadvārā | devānāṃ pūrayodhyā | tasyāgṃ hiraṇmayaḥ kośaḥ | svargo loko jyotiṣāvṛtaḥ | yo vai tāṃ brahmaṇo veda | amṛtenāvṛtāṃ purīṃ ! tasmai brahma ca brahmāca | āyuḥ kīrtiṃ prajāṃ daduḥ | vibhrājamānāgṃ hariṇīṃ| yaśasā saṃparīvṛtāṃ | puragṃ hiraṇmayiṃ brahmā ‖*)
+(Śrī. Ā. 1-27-2, 3) *[as supplied: so printed.]*
+
+### Printed p. 428
+*Running head: 438 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ ೭. ಅ. ೨೨ ಸೂ ೧೬.] (as supplied; the page is 428, and "438", "ಮಂ ೭" and "ಸೂ ೧೬" are printed so).*
+
+In these sentences all the elements that are in the Ṛk at hand are found. Here the sense conveyed by the word सुपर्ण (*suparṇa*) is indicated by the word मरीचयः (*marīcayaḥ*). रश्मयः शरीरान्यात्मोपासकदेहानकल्पयन्कृतवंतस्ते तव देहं कल्पयंतु । (*raśmayaḥ śarīrānyātmopāsakadehānakalpayankṛtavaṃtaste tava dehaṃ kalpayaṃtu |*) It is understood as the rays, members of the body of the sun, and as the senses and other members of the body that serve as the means of worshipping the Self. Such rays, or such senses and other members, join the Supreme Self in the form of the sun, and again prepare the way for the welfare of the world and the welfare of the self. But for these to become instruments of welfare, the knowledge of the nature of the sun, or of the Supreme Self in the form of the sun, must above all be indispensable. This chief point is stated in the Ṛk at hand in a prohibitive form as यः पितरं न वेद नोन्नशत् (*yaḥ pitaraṃ na veda nonnaśat*), and in the Āraṇyaka sentence in an injunctive form as यो वै तां ब्रह्मणो वेद (*yo vai tāṃ brahmaṇo veda*). The words पिप्पलं फलं स्वादु (*pippalaṃ phalaṃ svādu*) are explained by the sentence अमृतेनावृतां पुरीं (*amṛtenāvṛtāṃ purīṃ*). No other fruit can give the satisfaction that is gained from this state, which is of the nature of supreme bliss. If the question arises, "Are there not other fruits, in the form of heaven and the like?", Sāyaṇa answers it with इतरस्वर्गादिफलानि पुनर्जननाद्यापादकत्वात् आपातस्वादूनि । (*itarasvargādiphalāni punarjananādyāpādakatvāt āpātasvādūni |*): since the other fruits, heaven and the rest, cause birth again and again, they are not fruits as good as this bliss in the form of immortality; this he has made clear. Before understanding the descriptions in the Upaniṣads and elsewhere that likewise show the identity of the sun and the Supreme Self, one must examine the proper meaning of the sentences in the Ṛk at hand that explain the description of the sun, who is the divinity, the nature of the rays that are his members, on the spiritual side the description of the Self, and the nature of the senses and the rest, members of the body that is its support, and how the senses, attached to their objects, enter the Self and become instruments of the bliss of the Self.
+On the side relating to the divinity: for the word वृक्षे (*vṛkṣe*) the explanation वृक्षवत् सर्वफलाश्रयभूते (*vṛkṣavat sarvaphalāśrayabhūte*) is given: "in the one who, like a tree, is the support of all kinds of fruit" (in the sun). Or it would not be wrong to explain also that, as a tree is the support of all kinds of beings, the sun is the support of all worlds.
+धर्ता दिवो विभाति तपसस्पृथिव्यामिति । धर्ता ह्येष दिवो विभाति तपस स्पृथिव्यां धर्ता देवो वेदानाममर्त्यस्तपोज्जा ॥ (*dhartā divo vibhāti tapasaspṛthivyāmiti | dhartā hyeṣa divo vibhāti tapasa spṛthivyāṃ dhartā devo vedānāmamartyastapojjā ‖*)
+(Ca. Prā. 14-1-9) *[as supplied: the reference is printed "ಚ. ಪ್ರಾ. ೧೪-೧-೯-:-"; kept as printed.]*
+In such sentences both these meanings are indicated, and since the sun is described as the supporter of all worlds and the giver of the fruits of all worlds, the sun is the support of all and the giver of all fruits.
+
 ---
 
-**Progress note:** Done through printed p. 422. Ṛk 20 end (Sāyaṇa, Anuvāda, Special Topics, grammar) and Ṛk 21 up to Special Topics on abhisvaranti
+**Progress note:** Done through printed p. 428. end of Ṛk 21 (Special Topics, grammar) and Ṛk 22 complete up to Special Topics
