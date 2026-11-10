@@ -7751,6 +7751,148 @@ having quoted the Ṛk
 (Ṛ. Saṃ. 6-47-26)
 and thus given the etymology of ratha. [In some places the sons and others who move about in chariots are also designated by this word.] In the present Ṛk, एकचारिणं (*ekacāriṇaṃ*) ratha means the Sūra who revolves alone. Durgācārya, explaining this sentence, says रथं रंहण- (*rathaṃ raṃhaṇa-*) *(the sentence is cut off at the end of the page and continues in the next window)*.
 
+### Printed p. 303
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೧೪.] ಋಗ್ವೇದಸಂಹಿತಾ 303] (as supplied).*
+
+(The quotation from Durgācārya, cut off at the end of p. 302, continues:) मादित्यं रंहणश्चासौ मुहूर्तमप्यनवस्थायित्वात् (*mādityaṃ raṃhaṇaścāsau muhūrtamapyanavasthāyitvāt*). He has explained that Āditya has this name because he moves about without rest even for a moment.
+
+Thus, if the word ratha is explained as the Sun, then the word सप्त (*sapta*) must be understood as the rays; if it is explained as the well-known chariot of the Sun, then as seven horses. Sāyaṇa says सप्तसंख्याकाः आश्वाः (*saptasaṃkhyākāḥ āśvāḥ*).
+
+एको अश्वो वहति सप्तनामा—किं वस्तुतः सप्त नेत्याह । एक एव सप्ताभिधानः । सप्तधा नमनप्रकारो वा (*eko aśvo vahati saptanāmā—kiṃ vastutaḥ sapta netyāha | eka eva saptābhidhānaḥ | saptadhā namanaprakāro vā*) It is explained that the one principle in the form of Vāyu, taking seven forms, makes the movement through the atmosphere possible, so that here Vāyu has the synonymous name सप्तनामा (*saptanāmā*). As the basis for Sāyaṇa's commentary वाय्वधीनत्वात् अंतरिक्षसंचाराय (*vāyvadhīnatvāt aṃtarikṣasaṃcārāya*),
+
+नमो वायवेंतरिक्ष्यते लोकक्षिते (*namo vāyaveṃtarikṣyate lokakṣite*)
+(भा. उ. (*bhā. u.*) 2-24-9) *[as supplied: abbreviation ಭಾ. ಉ.]*
+
+प्रजापतिर्लोकानभ्यतपत्तेषां तस्यमानानां रसान्वावृहदग्निं पृथिव्या वायुमंतरिक्षादादित्यं दिवः (*prajāpatirlokānabhyatapatteṣāṃ tasyamānānāṃ rasānvāvṛhadagniṃ pṛthivyā vāyumaṃtarikṣādādityaṃ divaḥ*)
+(भा. उ. (*bhā. u.*) 4-17-1)
+In such Upaniṣadic sentences Vāyu pervades the atmosphere and is the support of all activities that go on there; hence the meaning "Vāyu is one alone" is fitting. If the epithet सप्तनामा (*saptanāmā*) is appropriate for the ray, which is of the nature of light, how does the epithet सप्तनामा (*saptanāmā*) suit Vāyu? The answer:
+
+अथ विश्वज्योतिषमुपदधाति । वायुर्वै मध्यमा विश्वज्योतिर्वायुर्हैवांतरिक्षलोके विश्वं ज्योतिर्वायुमेवैतदुपदधाति तामनंतर्हितां दिश्याभ्य उपदधाति दिक्षु तद्वायुं दधाति तस्मात्सर्वासु दिक्षु वायुः (*atha viśvajyotiṣamupadadhāti | vāyurvai madhyamā viśvajyotirvāyurhaivāṃtarikṣaloke viśvaṃ jyotirvāyumevaitadupadadhāti tāmanaṃtarhitāṃ diśyābhya upadadhāti dikṣu tadvāyuṃ dadhāti tasmātsarvāsu dikṣu vāyuḥ*)
+(श. ब्रा (*śa. brā*) 8-3-2-1) *[as supplied: abbreviation ಶ. ಬ್ರಾ, without the full stop of the usual form]*
+In such sentences the identity of Vāyu and the Universal Light is stated, and it is said that the radiance in the form of Vāyu pervades all the quarters; and since this radiance in the form of Vāyu is also said to be sevenfold, this meaning is suitable too. The author of the Nirukta says:
+
+सप्तनामादित्यः अस्मै रश्मयो रसानभिसन्नामयंति सप्तनमृषयः स्तुवंतीति वा (*saptanāmādityaḥ asmai raśmayo rasānabhisannāmayaṃti saptanamṛṣayaḥ stuvaṃtīti vā*) *[as supplied: ಸಪ್ತನಮೃಷಯಃ]*
+(Ni. 4-2) *[as supplied: so printed]*
+
+### Printed p. 304
+*Running head: 304 ಸಾಯುಜಾಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ೮. ೨೨ ಸೂ.೧೬೪.] (as supplied; the script inserted the page marker because the splitter did not recognise this head).*
+
+He has explained that the seven rays suck up the sap for the Sun, or that the seven sages praise him. In brief, then: according to Sāyaṇa's explanation of the first half, the chariot of Āditya has one wheel, and it is borne by seven horses (printed ಸಸ್ತಾಶ್ವಗಳು, *sic*). But these horses are not seven different forms; the one horse in the form of Vāyu has seven synonymous names. And according to the explanation of the author of the Nirukta, as soon as this Āditya, revolving alone, rises, the seven rays join him; the purport is that the sevenfold rays serve him, sucking up the sap for Āditya, and that Āditya moves in the atmosphere as the sole lord.
+
+Explaining the second half, the author of the Nirukta says:
+
+संवत्सरप्रधान उत्तरोर्धर्चस्ति नाभि चक्रं त्युतुःसंवत्सरो ग्रीष्मो वर्षा हेमंत इति (*saṃvatsarapradhāna uttarordharcasti nābhi cakraṃ tyutuḥsaṃvatsaro grīṣmo varṣā hemaṃta iti*)
+(Ni. 4-6)
+The second half of the present Ṛk mainly describes the year. This year consists of three naves: the summer, rainy and winter seasons are the naves. This year, consisting of three seasons, is described as त्रिनाभिचक्रं (*trinābhicakraṃ*), and all the worlds are contained within this wheel; he explains that this wheel in the form of the year is beginningless, free from decay and unslackened.
+
+Sāyaṇa, applying the meaning of the first half to the second also, has explained the word चक्र (*cakra*) of the second half as referring to Vāyu alone: that wheel in the form of Vāyu is undecaying and unloosened, and all the worlds abide resting on it.
+
+Giving a second meaning again, he has stated just the Nirukta author's meaning: यद्वा एकचक्रं एकचारिणं असाहाय्यन संचरंतं रथं आदित्यमंडलं सप्त युंजंति (*yadvā ekacakraṃ ekacāriṇaṃ asāhāyyana saṃcaraṃtaṃ rathaṃ ādityamaṃḍalaṃ sapta yuṃjaṃti*) and so on. But in giving the meaning of the epithet and the thing qualified in त्रिनाभिचक्रं (*trinābhicakraṃ*) he has shown some strain (printed ಕೇಶವನ್ನೂ, *as supplied*), and connecting it with words such as सप्तनामा (*saptanāmā*) is also difficult. Explaining the two words सप्त (*sapta*) and सप्तनामा (*saptanāmā*), for the word सप्त (*sapta*) he says:
+
+सर्पणस्वभावाः सप्तसंख्याः वा रश्मयः सप्तपकारकार्याः असाधारणाः परस्परविलक्षणाः षडृतवः । मासद्वयात्मकाः षट् अपरः अधिकमासात्मकः इत्येवं सप्तर्तवो युंजंति । एतस्य कार्यनिर्वहंति (*sarpaṇasvabhāvāḥ saptasaṃkhyāḥ vā raśmayaḥ saptapakārakāryāḥ asādhāraṇāḥ parasparavilakṣaṇāḥ ṣaḍṛtavaḥ | māsadvayātmakāḥ ṣaṭ aparaḥ adhikamāsātmakaḥ ityevaṃ saptartavo yuṃjaṃti | etasya kāryanirvahaṃti*) *[as supplied: ಸಪ್ತಪಕಾರ-, ಕಾರ್ಯನಿರ್ವಹಂತಿ, so printed]*
+The six seasons of two months each and one more season in the form of the intercalary month together make seven seasons. These carry out the work of the year in good order.
+
+### Printed p. 305
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 305] (as supplied).*
+
+"Three-naved" may mean the three junctures (saṃdhyā) that stand in the place of naves; or, according to the Nirukta author, the summer, rainy and winter seasons; or the past, future and present times. He has explained that the meaning is: Āditya turns by recurrence the wheel of the year, which consists of these parts, which revolves again and again like a wheel, and which is undecaying and unslackened; and because all the worlds and all worldly activities depend on this wheel of time in the form of the year, it is said यत्रेमा विश्वा भुवनानि तस्थुः (*yatremā viśvā bhuvanāni tasthuḥ*)—this is Sāyaṇa's view. And this wheel of time in the form of the year is undecaying and unslackened. Quoting the smṛti sentence अनादिनिधनः कालः (*anādinidhanaḥ kālaḥ*), "time is without beginning or end", he has shown the fitness of the above epithets. Joining both these views together:
+
+स एष संवत्सरः प्रजापतिः षोडशकलस्तस्य रात्रय एव ............ सर्वमिदं प्राणभृदनुप्रविश्य ततः प्रतर्जायते (*sa eṣa saṃvatsaraḥ prajāpatiḥ ṣoḍaśakalastasya rātraya eva ............ sarvamidaṃ prāṇabhṛdanupraviśya tataḥ pratarjāyate*) *[as supplied: the dotted ellipsis inside the quotation is the print's own]*
+(Bṛ. U. 1-5-14)
+In such sentences the identity of the year and Prajāpati is stated, and it is said that the year in the form of Prajāpati is the cause both of the uninterrupted course of all the activities of the universe and of everything having its support.
+
+संवत्सरः संवसंतेऽस्मिन् भूतानि (*saṃvatsaraḥ saṃvasaṃte 'smin bhūtāni*) The Nirukta author's etymology is: since all beings live together in it, it has the name saṃvatsara. The intention is that this mantra shows that everything is of the nature of time and subject to time, and that Āditya is the controller of this time. ईदृशस्य कालस्य कारणभूतपरमेश्वरपरिज्ञानेन मोक्षसद्भावात् (*īdṛśasya kālasya kāraṇabhūtaparameśvaraparijñānena mokṣasadbhāvāt*)—Sāyaṇa has explained that liberation comes from direct knowledge of the Supreme Lord, who is the cause even of such time, the controller of the world.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+*Grammar (transcribed, not explained):*
+युंजंति—युजि योगे (*yuṃjaṃti—yuji yoge*): a root, of the rudhādi class; the form is the third person plural of laṭ. Since it stands after a finite verb (printed ಅತಿಜಂತ, as supplied), the nighāta accent results.
+एकचक्रम् (*ekacakram*): since it is a bahuvrīhi compound, the first member keeps its natural accent; the form is the accusative singular.
+वहति — वह प्रापणे (*vahati — vaha prāpaṇe*): a root; the form is the third person singular of laṭ; the nighāta accent of a finite verb results.
+*[stray line as supplied: [20]                                                                    Vol. 12]]*
+
+### Printed p. 306
+*Running head: 306 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ ೧. ಅ. ೨೨ ಸೂ. ೧೬೪] (as supplied).*
+
+*Grammar, continued:*
+त्रिनाभि-त्रयः नाभयः यस्य तत् (*trinābhi-trayaḥ nābhayaḥ yasya tat*): by परादिश्चंदसि बहुलम् (*parādiścaṃdasi bahulam*) (Pā. Sū. 6 2-199 *[as supplied: no hyphen after 6]*) the initial-acute accent of the last member results.
+अजरम्—न विद्यते जरा यस्य तत् (*ajaram—na vidyate jarā yasya tat*): by नञ्चोजरमर (*nañcojaramara*) (Pā. Sū. 6-2-116) the initial-acute accent of the last member results.
+अनर्वम्—न विद्यते अर्व यस्य तत् (*anarvam—na vidyate arva yasya tat*): by नञ्सुभ्याम् (*nañsubhyām*) (Pā. Sū. 6-2-172) the final-acute accent of the last member results.
+इमा (*imā*): in this and the next two words, by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-70) the śi is dropped.
+तस्थुः—ष्ठा गतिनिवृत्तौ (*tasthuḥ—ṣṭhā gatinivṛttau*): a root; the form is the third person plural of liṭ; because of the यद्योग (*yadyoga*) (connection with yat, the relative) the nighāta accent is prohibited, so by the accent of the suffix it has the final-acute accent. ॥ 2 ॥
+
+*[stray lines as supplied: ":0:" and "ಸಂಹಾರಗಳು"]*
+*[A figure line followed here in the supplied text. I looked at the picture: it only repeats the Saṃhitā and Pada blocks of Ṛk 3 that kn.md already has as text, so the figure line was removed.]*
+
+#### Ṛk 3
+**॥ संहितापाठः ॥**
+> इ॒मं रथ॒मधि॒ ये स॒प्त त॒स्थुः स॒प्तच॑क्रं स॒प्त व॑हं॒त्यश्वाः॑ ।
+> स॒प्त स्वसा॑रो अ॒भि सं न॑वंते॒ यत्र॒ गवां॒ निहि॑ता स॒प्त नाम॑ ॥
+> ॥ ३ ॥
+**॥ पदपाठः ॥**
+> इमं । रथं । अधि । ये । सप्त । तस्थुः । सप्तचक्रं । सप्त । वहंति । अश्वाः ।
+> सप्त । स्वसारः । अभि । सं । नवंते । यत्र । गवां । निहिता । सप्त । नाम ॥ ३ ॥
+*[Label as supplied: ಶಾಯಾಣಭಾಷ್ಯಂ, repaired by the script to ಸಾಯಣಭಾಷ್ಯಂ.]*
+**॥ सायणभाष्यम् ॥**
+> इममुक्तस्वरूपमादित्यमंडलाख्यं संवत्सराख्यं वा रथं ये सप्त रश्मयोऽधि तस्थुः अधिष्ठिताः । संवत्सरपक्षेऽयनतुर्मासपक्षदिवसरात्रिमुहूर्ताख्याः
+> सप्तावयवा अधितिष्ठंति । कीदृशं रथं । सप्तचक्रं । चकनाच्चरणात् क्रवणाद्वा
+> चक्राणि रश्मयः । ते सप्त यस्य रथस्य तादृशमुभयविधं रथं पूर्वोक्ता अधिष्ठिता
+> अश्वाव्यापनशीलाः सप्त वहंति । निर्वहंति च । तादृशं रथं सप्त स्वसारः स्वयंसरणाः ।
+> स्वरादित्यः । तेन सारिताः परस्परं स्वसृभूता वा सप्तसंख्याका रश्मय ऋतवश्चाभि सं
+*(The bhāṣya continues on p. 307.)*
+
+### Printed p. 307
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 307] (as supplied).*
+
+*[Continuing the Sāyaṇa-bhāṣya from p. 306.]*
+> नवंते । अभिमुख्येन संगच्छंते । असाधारणाः परस्परविलक्षणकार्याः षडृतवः
+> सर्वसाधारण एक इति सप्तत्वं । यद्वा । उक्तरूपा मासद्वयात्मकाः षट् त्रयोदशमासात्मकः सप्तम इति सप्तत्वं । कीदृशो रथ इति तदुच्यते । यत्र यस्मिन्रथ उभयविधे गवां वाचां स्तुतिरूपाणां सप्त सप्तविधानि नाम नमनानि सप्तस्वरूपाणि निहितानि।
+> सप्तस्वरोपेतैः सामभिः स्तुत्यं रथमित्यर्थः । यद्वा । गवामुदकानां सप्त सर्पणस्वभावानि नाम नमनानि यत्र यासु स्वसृषु निहिता स्वसारः परस्परस्वसृभूता देवनद्योऽभि सं नवंते ॥
+*Gist:* The seven rays, or the seven parts of the year, stand on this chariot and draw it; seven sisters join it, and the seven names of speech are laid in it.
+*[Label as supplied: ಪ್ರತಿಪದಾರ್ಥ-, repaired by the script to ಪ್ರತಿಪದಾರ್ಥ.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+ये सप्त (*ye sapta*)—the seven rays which, or the seven parts of the year beginning with the solstice (ayana), which; इमं रथं (*imaṃ rathaṃ*)—this revolving Āditya, or the year; अधि तस्थुः (*adhi tasthuḥ*)—have joined; (they,) सप्त आश्वाः (*sapta āśvāḥ*)—those same seven all-pervading rays or solstices and so on; सप्त चक्रं (*sapta cakraṃ*)—Āditya or the year, of the nature of seven wheels; वहंति (*vahaṃti*)—bear (carry out their work); यत्र (*yatra*)—in which chariot of both forms; गवां (*gavāṃ*)—of the words in the form of praise; सप्तनाम (*saptanāma*)—seven notes (svara); निहितानि (*nihitāni*)—are laid down, of such (together with the chariot in the form of Āditya or of the year); अभि (*abhi*)—round about; सप्त स्वसारः (*sapta svasāraḥ*)—the seven rays or the seasons and so on; सं नवंते (*saṃ navaṃte*)—join together in identity.
+**भावार्थ (Bhāvārtha)**
+(1) The seven rays that have joined the revolving Āditya, those same seven all-pervading rays bear the chariot, which is of the nature of seven wheels and is in the form of Āditya. Round about the chariot in the form of Āditya, in which the seven notes of the words in the form of praise are laid down, the seven rays join together in identity.
+(2) The seven parts, beginning with the solstice, that have joined this revolving year, those same seven parts bear this chariot in the form of the year. Round about this chariot in the form of the year, in which the seven notes of the words in the form of praise are laid down, the seasons and so on join together in identity (they revolve).
+**Printed English**
+The seven who preside over this seven-wheeled chariot (are) the seven horses who draw it; seven sisters ride in it together, and in it are deposited the seven forms of utterance.
+
+### Printed p. 308
+*Running head: 308 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧ ಆ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The purport of this Ṛk can be stated in one way with reference to Āditya and in another with reference to the year (printed ಸಂದತ್ಸರದ, *sic*).
+
+इमं रथं अधि ये सप्त तस्थुः (*imaṃ rathaṃ adhi ye sapta tasthuḥ*)—here the word सप्त (*sapta*), if referring to Āditya, is understood as seven rays; संवत्सरपक्षे अयनर्तुमासपक्षदिवसरात्रिमुहूर्ताख्याः सप्त अवयवाः (*saṃvatsarapakṣe ayanartumāsapakṣadivasarātrimuhūrtākhyāḥ sapta avayavāḥ*); if referring to the year, it is understood as the seven parts: solstice, season, month, fortnight, day, night and muhūrta. The word सप्त (*sapta*) is used in five places here. Of these, in the three places of the first half, it means rays if it refers to Āditya, and the parts beginning with the solstice if it refers to the year. In the second half it is used once as an epithet of स्वसारः (*svasāraḥ*), and in the other place, in गवां सप्त नाम (*gavāṃ sapta nāma*), to state the number of the forms of the utterances. सप्तचक्र (*saptacakra*) is a metaphor showing a character common to Āditya and the year. The basis of such a metaphor is the real connection between Āditya and the year and their common causation of worldly activity. The sentences which say that Āditya is the year and the parts of the year are the parts of Āditya themselves show the charm of this metaphor.
+
+संवत्सरोवै प्रजापतिः । .... .... .... .... स यः स संवत्सरोसौ स आदित्यः (*saṃvatsarovai prajāpatiḥ | .... .... .... .... sa yaḥ sa saṃvatsarosau sa ādityaḥ*) *[as supplied: the dotted ellipsis inside the quotation is the print's own]*
+(श. ब्रा. (*śa. brā.*) 10-2 4 3) *[as supplied: so printed, without hyphens]*
+The year is Prajāpati; the year is Āditya.
+
+त्रयोदश संपादयति । त्रयोदश वै मासाः संवत्सरस्य संवत्सर एष य एष तपत्येष उ प्रवर्ग्यः (*trayodaśa saṃpādayati | trayodaśa vai māsāḥ saṃvatsarasya saṃvatsara eṣa ya eṣa tapatyeṣa u pravargyaḥ*)
+(श. ब्रा, (*śa. brā,*) 14-1-3-28) *[as supplied: comma after ಬ್ರಾ]*
+The year consisting of thirteen months is nothing other than Āditya shining in the atmosphere. Many sentences of this kind state the identity of Āditya and the year. If the question should arise, since the seven seasons are the parts of the year, whether those same seven seasons are parts of Āditya also, the answer to that is:
+
+आदित्यस्त्वेव सर्व ऋतवः । यदैवोदेत्यथ वसंतो यदा संगवोऽथ ग्रीष्मो यदा मध्यंदिनोऽथ वर्षा यदपराह्नोऽथ शरद्यदैवा स्तमेत्यथ हेमंतस्तस्मादु मध्यंदिन एवादधीत (*ādityastveva sarva ṛtavaḥ | yadaivodetyatha vasaṃto yadā saṃgavo 'tha grīṣmo yadā madhyaṃdino 'tha varṣā yadaparāhno 'tha śaradyadaivā stametyatha hemaṃtastasmādu madhyaṃdina evādadhīta*) *[as supplied: the dotted ellipsis after the quotation is the print's own]*
+(श ब्रा (*śa brā*) 2-2-3-9) *[as supplied: abbreviation without full stops]*
+
+### Printed p. 309
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 309] (as supplied).*
+
+Āditya is all the seasons, or the cause of the seasons. When he rises, it is spring. When the time for milking the cattle arrives, it is summer. The midday time itself is the rainy season. When the afternoon arrives, it is autumn. When the time of setting arrives, it is winter. In this way the identity of Āditya, the cause of the seasons, with the seasons is stated. Moreover:
+
+अत्र ह वा असावग्र आदित्य आस तम्मृतवः परिगृह्यैवात ऊर्ध्वाः स्वर्गं लोक मुपोदक्रामन्त्स एष ऋतुषु प्रतिष्ठितस्तपति (*atra ha vā asāvagra āditya āsa tammṛtavaḥ parigṛhyaivāta ūrdhvāḥ svargaṃ loka mupodakrāmantsa eṣa ṛtuṣu pratiṣṭhitastapati*)
+(श. ब्रा. (*śa. brā.*) 4-2-5-9)
+Formerly Āditya had overspread this earth. When the seasons took hold of him, he flew up with them to the atmosphere; afterwards, firmly established in the seasons, he now shines in the atmosphere. These seasons are the parts of the year and are also the main means of understanding the nature of the year. Without knowledge of these means, the nature of the year is not understood.
+
+संवत्सरग्ंह वै प्रयाजैर्जयञ्चयति । स ह नेवैनं जयति योऽस्य द्वाराणि वेद तग्ं हि स तैर्गृह्यैः कुर्याद्यानंतरतो न व्यवविद्याद्यथास्य (*saṃvatsaragṃha vai prayājairjayañcayati | sa ha nevainaṃ jayati yo 'sya dvārāṇi veda tagṃ hi sa tairgṛhyaiḥ kuryādyānaṃtarato na vyavavidyādyathāsya*) ते भवंति तस्य वसंत एव द्वारग्ं हेमंतो द्वारं तं वा एतग्ं संवत्सरग्ं स्वर्गं लोकं प्रपद्यते सर्वं वै संवत्सरः सर्वं वा अक्षय्यमेतेन हास्याक्षय्यग्ं सुकृतं भवत्यक्षय्यो लोकः (*te bhavaṃti tasya vasaṃta eva dvāragṃ hemaṃto dvāraṃ taṃ vā etagṃ saṃvatsaragṃ svargaṃ lokaṃ prapadyate sarvaṃ vai saṃvatsaraḥ sarvaṃ vā akṣayyametena hāsyākṣayyagṃ sukṛtaṃ bhavatyakṣayyo lokaḥ*)
+(श. ब्रा. (*śa. brā.*) 1-6-19)
+By the preliminary offerings (prayāja) the sacrificer attains the best state and comes to know the nature of the year; but knowledge of the year comes only to one who has acquaintance with the doors of the year. Just as acquaintance with a house is of no use to a man who does not know the door convenient for entering the house, so without acquaintance with the seasons, which are the doors of the year, knowledge of the year cannot be obtained. For this year, spring and winter are the doors; the year is the atmosphere (as supplied: ಸಂವತ್ಸರವೇ ಅಂತರಿಕ್ಷವು); and the year is all. Therefore one who has obtained knowledge of the year attains an eternal state.
+
+द्वे वाव ब्रह्मणो रूपे कालश्चाकालश्च । य आदित्याद्यः स कालः । तस्मात्संवत्सरो वै कालः (*dve vāva brahmaṇo rūpe kālaścākālaśca | ya ādityādyaḥ sa kālaḥ | tasmātsaṃvatsaro vai kālaḥ*)
+(मैत्रायण ब्राह्मणोपनिषत्. (*maitrāyaṇa brāhmaṇopaniṣat.*) 6-15)
+Time and non-time are the two forms of Brahman. The time produced by Āditya is the year. Thus in some places, when the identity of Āditya and the year is stated, it is taught that the seasons, the parts of the year, are the parts of Āditya; and in still other places, where it is said that the year is produced from the Sun (printed ಸೂರ‍್ಯ), it is also taught that the seasons too are produced from him.
+
 ---
 
-**Progress note:** Done through printed p. 302. Sūkta 164: end of Ṛk 1 special topics and grammar; Ṛk 2 text, Sāyaṇa, pratipadārtha, bhāvārtha, start of special topics
+**Progress note:** Done through printed p. 309. Sūkta 164: Ṛk 2 special topics (Vāyu/year), grammar; Ṛk 3 text, Sāyaṇa, pratipadārtha, bhāvārtha, special topics
