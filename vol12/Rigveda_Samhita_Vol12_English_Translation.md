@@ -8028,6 +8028,146 @@ At first there was only a mass of darkness, without light, profound like the oce
 (Bṛ. U. 1-4-11) *[as supplied: ಬೃ. ಉ without full stop]*
 Before the creation of the being (manifest) universe there was a single principle of the nature of non-being (unmanifest); nothing else existed apart from it: thus in the Chāndogya, and in the Bṛhadāraṇyaka that this single principle itself *(the sentence is cut off at the end of the page and continues in the next window)*.
 
+### Printed p. 316
+*Running head: 316 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೪] (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+[Continuing] ...Brahman, thus also in the Bṛhadāraṇyaka it is described, and it is declared that no one living in the ordinary (natural) world can know what the nature of this Brahman-principle is.
+
+By भूम्याः आसुरसृक् (*bhūmyāḥ āsurasṛk*) the earthly, gross body is described. Here asu means breath (prāṇa). Even though breath is of the nature of consciousness, it must be understood to be earthly. In the physical body two divisions, gross and subtle, are made, and breath is divided off as the subtle body, while blood and the like are the gross body. And Sāyaṇa, showing the difference between the consciousness that is of the nature of breath and the consciousness that is of the nature of the Self (ātman), cites the sentence of the Aitareya-āraṇyaka (this is the first sentence of the Aitareya Upaniṣad)
+
+आत्मा ना इदमेक एवाग्र आसीन्नान्यक्किंचन मिषत् (*ātmā nā idameka evāgra āsīnnānyakkiṃcana miṣat*)
+(इ. आ. (*i. ā.*) 9-4-1) *[as supplied: ಇ. ಆ.]*
+
+*[as supplied: the verb is printed ಹದರಿಸಿ]* and thereby shows here the difference that is to be stated between the physical breath and pure consciousness. But in the Aitareya-āraṇyaka, in the second Āraṇyaka, from the beginning up to the fourth chapter, while describing the greatness of breath, it is said that breath itself is the Supreme Brahman, and immediately afterwards, in the fourth chapter, the difference between breath and the Self is stated. Since, according to the Sāṃkhya doctrine, knowing the meaning of breath (prāṇa) and of puruṣa is a means to scriptural knowledge, and since the examination of the Sāṃkhya doctrine will come later, the difference between these two consciousnesses will be explained then.
+
+कः विद्वांसमुपगात्पष्टुमेतत् (*kaḥ vidvāṃsamupagātpaṣṭumetat*)—Since before creation there was only the One, and so there was no plurality that shows a distinction such as speaker and listener, the meaning is that there is no reason at all for a distinction between one who hears and one who speaks.
+
+*Grammar (transcribed, not explained):*
+ददर्श (*dadarśa*)—root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*); by छंदसि लुज् लज् लिटः (*chaṃdasi luj laj liṭaḥ*) (Pā. Sū. 3-4-6; printed "ಪಾ, ಸೂ.") a liṭ form, third person singular, "in the sense of lij" *[as supplied: ಲಿಜರ್ಥದಲ್ಲಿ]*; the accent तिजंतनिघातस्वर (*tijaṃtanighātasvara*) comes. अस्थन्वंतम् (*asthanvaṃtam*)—अस्थि अस्य अस्ति इति अस्थन्वान् (*asthi asya asti iti asthanvān*); by छंदस्यपि दृश्यते (*chaṃdasyapi dṛśyate*) (Pā. Sū. 7-1-76) the substitute anaj even though no ajādi suffix follows; loss of na when matup follows; the augment nuṭ by अनोनुट् (*anonuṭ*) (Pā. Sū. 8-2-16); by ह्रस्वनुड्भ्यां मतुप् (*hrasvanuḍbhyāṃ matup*) (Pā. Sū. 6-1-176) matup takes the udātta accent; in the accusative singular the augment num because it is ugit. अनस्था (*anasthā*)—न विद्यते अस्थि यस्य (*na vidyate asthi yasya*); anaj, Vedic, as before; by नञ् सुभ्याम् (*nañ subhyām*) (Pā. Sū. 7-2-172, as printed) the final-udātta accent comes.
+
+### Printed p. 317
+*Running head: [ಅ. ೨. ಅ. ೪ ವ. ೧೪. ] Ṛgveda-saṃhitā 317 (as supplied).*
+
+*Grammar (continued):*
+बिभर्ति (*bibharti*)—root डुभृञ् भरणे (*ḍubhṛñ bharaṇe*), juhotyādi class; laṭ, third person "vikavacana" *[as supplied: ವಿಕವಚನ]*; by यद्वृत्तान्नित्यम् (*yadvṛttānnityam*) the prohibition of the nighāta accent comes; by अभ्यस्तानामादिः (*abhyastānāmādiḥ*) (Pā. Sū. 6-1-189, line-broken in print) the initial-udātta accent comes. असु (*asu*)—root असु क्षेपणे (*asu kṣepaṇe*); by शृस्वस्निहित्रस्य (*śṛsvasnihitrasya*) (Uṇ. Sū. 1-10) the suffix un, initial-udātta accent comes. विद्वांसम् (*vidvāṃsam*)—root विद ज्ञाने (*vida jñāne*); when śatṛ comes in the sense of laḍ, by विदेः शतुर्वसुः (*videḥ śaturvasuḥ*) (Pā. Sū. 7-1-36) the substitute vasu; in the accusative singular the augment num because it is ugit; the initial-udātta accent of the suffix vasu comes. गात् (*gāt*)—root इण् गतौ (*iṇ gatau*); Vedic luṅ; by इणोगालुजिः (*iṇogālujiḥ*) (Pā. Sū. 2-4-45) the substitute gā for the root; by गातिस्थाघुपा (*gātisthāghupā*) (Pā. Sū. 2-4-77, as printed "ಪಾ ಸೂ.") when the substitute sic comes for "cci" *[as supplied: ಚ್ಚಿ]* it takes luk; by बहुलं छंदस्य (*bahulaṃ chaṃdasya*) (Pā. Sū. 6-4-75) the augment aṭ does not come; the accent तिजंतनिघातस्वर (*tijaṃtanighātasvara*) comes. प्रष्टुम् (*praṣṭum*)—root प्रच्छ ज्ञेप्सायां वाचि (*praccha jñepsāyāṃ vāci*); by the sūtra beginning tumun (Pā. Sū. 3-3-10) the suffix tumun; by the sūtra वृश्च भृस्थ (*vṛśca bhṛstha*) ṣatva, and taking that as occasion, ṣṭutva for the suffix; since the suffix has the mark n *[as supplied: ನಿತ್ತಾದುದರಿಂದ]*, by इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169, as printed "ಪಾ ಸೂ.") the initial-udātta accent comes; since it ends in an m-final kṛt-ending it receives the designation avyaya. || 4 ||
+
+#### Ṛk 5
+**॥ संहितापाठः ॥**
+> पाकः॑ पृच्छामि॒ मन॒सा वि॑जानन्दे॒वाना॑मे॒ना निहि॑ता प॒दानि॑ ।
+> व॒त्से ब॒ष्कयेऽधि॑ स॒प्त तंतू॒न्वि त॑त्निरे क॒वय॒ ओत॒वा उ॑ ॥ ५ ॥
+**॥ पदपाठः ॥**
+> पाकः । पृच्छामि । मनसा । अविजानन् । देवानां । एना । निहिता । पदानि ।
+> वत्से । बष्कये । अधि । सप्त । तंतून् । वि । तत्निरे । कवयः । ओतवै । ऊं इति ॥ ५ ॥
+
+> *pākaḥ | pṛcchāmi | manasā | avijānan | devānāṃ | enā | nihitā | padāni |*
+> *vatse | baṣkaye | adhi | sapta | taṃtūn | vi | tatnire | kavayaḥ | otavai | ūṃ iti ‖ 5 ‖*
+
+### Printed p. 318
+*Running head: 318 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪.] (as supplied, ಆ. for ಅ.).*
+
+**॥ सायणभाष्यम् ॥**
+> पाकः पक्तव्योऽपक्षमतिरहं मनसा संस्कृतेनाविजानन्न तिगहनं तत्त्वं विशेषेण
+> ज्ञातुमशक्नु वन् पृच्छामि । प्रश्नं करोमि । अज्ञाने कारणमाह । एनैनानि पदानि
+> संदेहास्पदानि तत्वानि देवानां निहितानि । देवानामपि गूढानीत्यर्थः । यद्वा ।
+> देवानां पदानि तत्वानि निधिवद्योपयित्वा स्थापितानि । अतः पृच्छामि तत्त्वज्ञानोपयोगायेति शेषः । तानि कानीति उच्यते । वत्से सर्वस्य निवासभूते बष्कये । बडिति
+> सत्यनाम । तत्कषतीति बष्कय आदित्यः । यद्वा । बष्कयो नामैकहायनो वत्सः ।
+> पुनरपि वत्सशब्दस्य पृथङ्निर्देशाद्बष्कय शब्देन तत्कालमात्रं लक्ष्यते । तस्मिन्नादित्येऽद्यधिकं सप्त तंतूंस्तायमानान् सप्त सोमसंस्थान्कवयो मेधाविनो यजमाना
+> ओतवै जगद्रूपतिर्यक्तंतून्नेतुं वि तत्निरे । वितन्वंति । यद्वा । सप्त तंतवः सप्त
+> छंदांसि । तानि वितन्वंति । किमर्थ० । ओतवै सप्तसोमसंस्थारूपतिर्यक्तंतुसंतानाय । यज्ञनिर्माणायेत्यर्थः । यज्ञानां स्थितेः सूर्याधीनत्वादिति भावः ।
+> ईदृशं तत्त्वं पृच्छामित्यर्थः ॥
+*Gist:* I, immature in mind, unable to grasp the deep truth, ask about the principles hidden even from the gods, and about the seven threads the sages stretch in the sun.
+**प्रतिपदार्थ (Pratipadārtha)**
+देवानां (*devānāṃ*)—of the gods (even beyond their understanding); निहिता (*nihitā*)—placed, hidden; एना पदानि (*enā padāni*)—these matters of truth; मनसा (*manasā*)—with an untrained intellect; अविजानन् (*avijānan*)—being unable to understand; पाकः (*pākaḥ*)—having an unripe mind; पृच्छामि (*pṛcchāmi*)—I ask; वत्से (*vatse*)—in the one that is the support (of everything); बष्कये (*baṣkaye*)—in Āditya (the sun); कवयः (*kavayaḥ*)—the wise; ओतवै (*otavai*)—for weaving the warp and woof of the world-form; अधि (*adhi*)—in excess; सप्ततंतून् (*saptataṃtūn*)—the threads, seven in number (the Soma-institutions); वितत्निरे (*vitatnire*)—have spread out (what are those seven threads?).
+**भावार्थ (Bhāvārtha)**
+The supreme truth is beyond even the range of the gods. Therefore I, who am of small understanding, whose mind is not ripe and who am unable to understand that truth, ask in order to know it. In the Āditya, who is the support of the whole world, the wise have spread out seven threads for weaving the warp and woof of the form of the world: what are they?
+**Printed English**
+Immature (in understanding), undiscerning in mind, I inquire of those things which are hidden (even) from the gods : (what are) the seven threads which the sages have spread to envelop the sun, in whom all abide?
+
+### Printed p. 319
+*Running head: [ಅ. ೨. ಅ ೩ ವ. ೧೪ ] ಮುಗ್ವೇದಸಂಹಿತಾ 319 (as supplied; ಮುಗ್ವೇದ [sic] for Ṛgveda).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+पाकः (*pākaḥ*)—पक्तव्यो भवति, विपक्षप्रज्ञः (*paktavyo bhavati, vipakṣaprajñaḥ*). One whose intellect is not ripe means one who has not taken the slightest pains in understanding the truth, and whose intellect is such as to deserve instruction from the teachers in that matter. (Ni. 3-12.) The author of the Nirukta, citing the Ṛk of this very hymn
+
+यत्रा सुपर्णा अमृतस्य भागमनिमेषं विदथाभिस्वरंति । इनो विश्वस्य भुवनस्य गोपाः स मा धीरः पाकमत्रा विवेश (*yatrā suparṇā amṛtasya bhāgamanimeṣaṃ vidathābhisvaraṃti | ino viśvasya bhuvanasya gopāḥ sa mā dhīraḥ pākamatrā viveśa*)
+(Ṛ. Saṃ. 1-164-21)
+*[a fragment "(ಋ. ಸಂ" is printed once more before the reference: stray line, as supplied]*
+
+and showing there the difference between the steadfast (धीरः (*dhīraḥ*)) and the unripe (पाकः (*pākaḥ*)), has explained that धीरः (*dhīraḥ*) means धीमान् (*dhīmān*) and that पाकः (*pākaḥ*) means विपक्वप्रज्ञः (*vipakvaprajñaḥ*).
+
+Here a disciple whose intellect is not ripe but who desires knowledge asks out of an intense longing to know the principle of the Lord. But that principle is not within reach of ordinary knowledge.
+
+One point must be noticed here in giving the meaning of the word पाक (*pāka*). The questioner here is a seeker (jijñāsu), that is, one who has an intense wish to become a knower. If he were merely of small understanding he would have no qualification for knowing the Brahman-principle. Therefore he must be understood as one qualified to know knowledge. It is necessary that he have the faith and the doubt that are needed for grasping the principle.
+
+Likewise, using also the word bāla, Annambhaṭṭa, when he says in the Tarkasaṅgraha बालानां सुख बोधाय क्रियते तर्कसंग्रहः (*bālānāṃ sukha bodhāya kriyate tarkasaṃgrahaḥ*), explains the word bāla: ग्रहणधारणपटुः न तु स्तनंध यः (*grahaṇadhāraṇapaṭuḥ na tu stanaṃdha yaḥ*) *[as supplied: the last word split by the line break]*. The word bāla does not mean a child that takes the breast; he has explained it as one who has the power to grasp if the meaning of the truth is explained *[as supplied: no full stop before the next sentence]*. To get the right meaning of the word पाक (*pāka*) one may take and explain some examples from the Upaniṣads. That a mind which has acquired many kinds of knowledge but does not know the supreme truth may be called a mind of the पाक (*pāka*) kind, can be understood from the example of Nārada in the Chāndogya.
+
+अधीहि भगव इति होपससाद सनत्कुमारं नारदस्तं होवाच यद्वेत्थ तेन मोपसीद ततस्त ऊर्ध्वं वक्ष्यामीति स होवाच ॥ यग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथवर्णं चतुर्थमितिहासपुराणं पंचमं वेदानां वेदं पित्र्यं राशिं दैवं निधिं नाको- (*adhīhi bhagava iti hopasasāda sanatkumāraṃ nāradastaṃ hovāca yadvettha tena mopasīda tatasta ūrdhvaṃ vakṣyāmīti sa hovāca ‖ yagvedaṃ bhagavo 'dhyemi yajurvedaṃ sāmavedamāthavarṇaṃ caturthamitihāsapurāṇaṃ paṃcamaṃ vedānāṃ vedaṃ pitryaṃ rāśiṃ daivaṃ nidhiṃ nāko-*)
+*[the quotation is hyphenated at the foot of the page and continues on p. 320]*
+
+### Printed p. 320
+*Running head: 320 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied, ಆ. for ಅ.).*
+
+वाक्यमेकायनं देवविद्यां ब्रह्मविद्यां भूतविद्यां क्षत्रविद्यां नक्षत्रविद्यां सर्पदेवजनविद्यामेतद्भगवोऽध्येमि ॥ सोऽहं भगवो मंत्रविदेवास्मि नात्मविच्छ्रुतं ह्येव मे भगवद्भवे तरति शोकमात्मनित् सोऽहं भगवः शोचामि तं मा भगवाञ्छोकस्य पारं तारयत्विति (*vākyamekāyanaṃ devavidyāṃ brahmavidyāṃ bhūtavidyāṃ kṣatravidyāṃ nakṣatravidyāṃ sarpadevajanavidyāmetadbhagavo 'dhyemi ‖ so 'haṃ bhagavo maṃtravidevāsmi nātmavicchrutaṃ hyeva me bhagavadbhave tarati śokamātmanit so 'haṃ bhagavaḥ śocāmi taṃ mā bhagavāñchokasya pāraṃ tārayatviti*)
+(छा. उ. (*chā. u.*) 7-1-1 to 3)
+
+When Nārada approached Sanatkumāra and prayed that instruction in the principle be given to him *[as supplied: ತತ್ಪೋಪದೇಶ]*, Sanatkumāra said, "Tell me what you know. Afterwards I shall tell you what knowledge there is beyond *[as supplied: ಮಾರಿದ]* that knowledge." Then Nārada prayed: "I have studied the Ṛgveda, the Yajurveda, the Sāmaveda, the Atharvaveda, the Itihāsas and Purāṇas and the like, grammar and the like, likewise the science of reasoning (nyāya), the science of conduct (nīti), astronomy (jyotiṣa), ritual (kalpa), the science of spirits, the science of the warrior, the science of the stars, the science of serpents, the science of dance, and many other sciences of this kind. But I know only the recitation of the mantras of those respective śāstras. I have no knowledge of the principle of the Self. That without knowledge of the principle of the Self there is no release from the sorrow of worldly existence, I have learnt from knowers such as you. Instruct *[as supplied: ಪದೇಶಿಸಿ]* me in the principle of the Self and make me free from sorrow." Although Nārada knew all the śāstras, he did not know the knowledge of the Self; yet since he had in him intense desire to know (jijñāsā), it will not be wrong to call him a पाक (*pāka*). In the Ṛk now under consideration also, the word पाक (*pāka*) must be given the same meaning.
+
+The reason why, though one may know all the śāstras beginning with the Ṛgveda, the principle of the Self taught in them is not understood, is that the method of reciting mantras is one thing, and the inner tranquillity of the Self for knowing the knowledge of the principle is another; this the example above makes clear. That this spiritual principle is beyond the range of the gods is described in the Ṛk now under consideration by the sentence देवानामेना निहिता पदानि (*devānāmenā nihitā padāni*). This very thing, in the Kaṭha Upaniṣad:
+
+न तत्र सूरो भाति न चंद्रतारकं नेमा विद्युतो भांति कुतोऽयमग्निः । तमेव भांतमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति (*na tatra sūro bhāti na caṃdratārakaṃ nemā vidyuto bhāṃti kuto 'yamagniḥ | tameva bhāṃtamanubhāti sarvaṃ tasya bhāsā sarvamidaṃ vibhāti*)
+(कठ. (*kaṭha.*) 5-15)
+
+Before this supreme principle neither the sun, nor the moon, nor the stars, nor lightning can cast their light. The brightness of earthly fire becomes the least of all. By the light of that principle everything shines. This whole universe shines by his radiance alone. But,
+
+### Printed p. 321
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 321 (as supplied).*
+
+न संदृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनं (*na saṃdṛśe tiṣṭhati rūpamasya na cakṣuṣā paśyati kaścanainaṃ*)
+(कठ. (*kaṭha.*) 6-9)
+
+The physical eye cannot grasp its form. If one has only the purely physical eye, no one can know it. That this supreme principle is beyond the power of the gods is shown by a story in the Kena Upaniṣad *[as supplied: ಕೇನೋ ಪನಿಷತ್ತಿನಲ್ಲಿ]*.
+
+ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो विजये देवा अमहीयंत । त ऐक्षंतास्माकमेवायं विजयोऽस्माकमेवायं महिमेति (*brahma ha devebhyo vijigye tasya ha brahmaṇo vijaye devā amahīyaṃta | ta aikṣaṃtāsmākamevāyaṃ vijayo 'smākamevāyaṃ mahimeti*)
+(केस. (*kesa.*) 3-1) *[as supplied: ಕೇಸ. for ಕೇನ.]*
+
+This Supreme Brahman won a victory for the gods. For this victory, which had Brahman as its root, the gods became proud, thinking that they themselves had gained the victory and that the full glory was theirs alone. This Brahman-principle, in order to teach them discernment about that groundless pride of the gods,
+
+तद्भैषां विजज्ञा तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत किमिदं यक्षमिति (*tadbhaiṣāṃ vijajñā tebhyo ha prādurbabhūva tanna vyajānata kimidaṃ yakṣamiti*)
+(केन. (*kena.*) 3-2)
+
+appeared before them; yet not knowing what the nature of this principle was, they were amazed.
+
+तेऽग्निमब्रुवञ्ञातवेद एतद्विजानीहि किमेत्यद्यक्षमिति तथेति ॥ तदभ्यद्रवत्तमभ्यवदत्कोऽसीत्यग्निर्वा अहमस्मीत्यब्रवीज्जातवेदा वा अहमस्मीति । तस्मिग्गस्त्वयि किं वीर्यमित्यपीदग्ं सर्वं दहेयं यदिदं पृथिव्यामिति । तस्मै तृणं निदधावेतद्दहेति तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्गुं स तत एव निववृते नैतदशकं विज्ञातुं तदेतद्यक्षमिति (*te 'gnimabruvaññātaveda etadvijānīhi kimetyadyakṣamiti tatheti ‖ tadabhyadravattamabhyavadatko 'sītyagnirvā ahamasmītyabravījjātavedā vā ahamasmīti | tasmiggastvayi kiṃ vīryamityapīdagṃ sarvaṃ daheyaṃ yadidaṃ pṛthivyāmiti | tasmai tṛṇaṃ nidadhāvetaddaheti tadupapreyāya sarvajavena tanna śaśāka dagguṃ sa tata eva nivavṛte naitadaśakaṃ vijñātuṃ tadetadyakṣamiti*)
+(केन. (*kena.*) 3-3 to 6)
+(केन. (*kena.*) 3-3 to 6) *[the reference line is printed twice, as supplied]*
+
+Then the gods said to Agni: "O Jātavedas (knower of all), find out what this supramundane *[as supplied: ಅಪಾಕೃತ]* principle is." Agni agreed and ran to where the Yakṣa was. Then the Yakṣa asked Agni, "Who are you?" Agni answered, "I am Agni, I am Jātavedas." To the question "What is your power?" he said, "I can burn all that there is in this world." Then the Yakṣa placed a blade of grass before Agni and said, "Burn this." Though Agni used all his power, he could not burn it. Then Agni turned back and admitted, "I was not able to find out what this Yakṣa is."
+
+अथ वायुमब्रुवन्वायवेतद्विजानीहि किमेतद्यक्षमिति तथेति । तदभ्यद्रवत्तमभ्यवदत्कोऽसीति वायुर्वा अह मस्मीत्यब्रवीन्मातरिश्वा वा अहमस्मीति (*atha vāyumabruvanvāyavetadvijānīhi kimetadyakṣamiti tatheti | tadabhyadravattamabhyavadatko 'sīti vāyurvā aha masmītyabravīnmātariśvā vā ahamasmīti*)
+*[Signature mark at the foot of the page, as supplied: "[21] [Vol. 12"]*
+
+### Printed p. 322
+*Running head: 322 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೪] (as supplied).*
+
+तस्मिग्स्त्वयि किं वीर्यमित्यपीदग्ं सर्वमाददीय यदिदं पृथिव्यामिति ॥ तस्मै तृणं निदधावेतदादत्वेति तदुपप्रेयाय सर्वजवेन तन्न शशाकादातुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति (*tasmigstvayi kiṃ vīryamityapīdagṃ sarvamādadīya yadidaṃ pṛthivyāmiti ‖ tasmai tṛṇaṃ nidadhāvetadādatveti tadupapreyāya sarvajavena tanna śaśākādātuṃ sa tata eva nivavṛte naitadaśakaṃ vijñātuṃ yadetadyakṣamiti*)
+(केन. (*kena.*) 3-7 to 10)
+
+Then the gods said to Vāyu, "O Vāyu, go and find out the nature of that Yakṣa," and Vāyu agreed and ran to it. When it said, "Who are you?", he said, "I am Vāyu; I am indeed Mātariśvan." When he was asked, "What is the power in you?", he answered, "I can carry all that there is on this earth." Then the Yakṣa placed a blade of grass before him, saying, "Lift this," and Vāyu strove with all his speed, but could not lift it. He too, unable to learn the nature of the Yakṣa, turned back from there.
+
+अथेंद्रमब्रुवन् मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्र वत्तस्मात्तिरोदधे ॥ सतस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमाग्ं हैमवतीं ताग्‌ं होवाच किमेद्यक्षमिति (*atheṃdramabruvan maghavannetadvijānīhi kimetadyakṣamiti tatheti tadabhyadra vattasmāttirodadhe ‖ satasminnevākāśe striyamājagāma bahuśobhamānāmumāgṃ haimavatīṃ tāgṃ hovāca kimedyakṣamiti*)
+(केस. (*kesa.*) 3-1, 12) *[as supplied: ಕೇಸ.]*
+
+Then the gods sent Indra to learn the nature of this Yakṣa; he agreed and ran to it. Then it disappeared from him. Afterwards, in that very sky, he approached a female form shining most charmingly, and asked her, "What is this Yakṣa?" Then she,
+
+सा ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदांचकार ब्रह्मेति (*sā brahmeti hovāca brahmaṇo vā etadvijaye mahīyadhvamiti tato haiva vidāṃcakāra brahmeti*)
+(केन (*kena*) 4-1) *[as supplied: no full stop after ಕೇನ]*
+
+told him: "This is the Supreme Brahman. The victory of the gods is through the victory of this. Your glory is through its power." After she had told him thus, he understood that this very thing was Brahman: such is the story. It is an apt illustration both for the sentence देवानामेना निहिता पदानि (*devānāmenā nihitā padāni*) in the Ṛk now under consideration in the Ṛk-saṃhitā, and for Sāyaṇa's explaining the same sentence as देवानापि गूढानि (*devānāpi gūḍhāni*) *[as supplied: ದೇವಾನಾಪಿ; the bhāṣya on p. 318 has ದೇವಾನಾಮಪಿ ಗೂಢಾನಿ]*.
+
+सप्ततंतून् (*saptataṃtūn*)—the seven threads may be the sacrifice, or the seven metres, or the praise-hymn (stotra); Sāyaṇa, *(the sentence breaks off at the end of the page and continues in the next window)*
+
 ---
 
-**Progress note:** Done through printed p. 315. Sūkta 164: Ṛk 3 special topics and grammar; Ṛk 4 text, Sāyaṇa, pratipadārtha, bhāvārtha, special topics (start of Nāsadīya quotations)
+**Progress note:** Done through printed p. 322. Sukta 164 Rk 4 special topics end, grammar; Rk 5 text, Sayana, pratipadartha, bhavartha; special topics on paka (Narada, Kena story)
