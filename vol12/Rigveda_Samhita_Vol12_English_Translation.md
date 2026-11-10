@@ -16222,6 +16222,208 @@ He explains that it means not merely a protector of subjects, but a protector of
 
 In this Ṛk, "satāṃ vṛṣabhaḥ asi" is taken to mean "the hero among heroes", and likewise *[the sentence breaks off here at the end of the page and continues in the next window]*
 
+### Printed p. 689
+*Running head: अ. २. अ. ३ व. २४ (*a. 2. a. 3 va. 24*) Ṛgveda-saṃhitā 689 (as supplied).*
+
+*(Special Topics of Ṛk 3, continuing from the previous page.)*
+
+समत्सु त्वा शूर सतामुराणं प्रपथिंतमं परिसंतयध्यै । सजोषस इंद्रं मदे क्षोणीः सूरिं चिद्ये अनुमदंति वाज्ञैः (*samatsu tvā śūra satāmurāṇaṃ prapathiṃtamaṃ parisaṃtayadhyai | sajoṣasa iṃdraṃ made kṣoṇīḥ sūriṃ cidye anumadaṃti vājñaiḥ*)
+(Ṛ. Saṃ. 1-173-7)
+
+Here, just as "samatsu śūra satām urāṇam" is taken to mean "one who protects heroes in battle", so also in the present Ṛk he says that the word sat is to be taken to mean heroes.
+
+शुभानैः (*śubhānaiḥ*)—शोभमानैः वचनैः (*śobhamānaiḥ vacanaiḥ*). Sāyaṇa has explained it as "with auspicious words". But it is also the opinion of some that this word is used as a synonym for the Maruts.
+
+शुभान (*śubhāna*) is evidently meant as a name for the Maruts, who thus speak of themselves
+in the third person which is by no means unusual in the Rig-Veda.
+(Max Muller's Sacred Books of the east Vol. XXII. p. 190)
+
+**Grammatical analysis (Vyākaraṇa-prakriyā)**
+*Grammar (transcribed, not explained):*
+
+माहिनः (*māhinaḥ*)—root mah (to worship); by Uṇ. Sū. 2-214 the suffix inaṇ; by Pā. Sū. 7-2 16 vṛddhi of the penultimate of the root.
+
+सत्पते (*satpate*)—"lord of the good" (satāṃ patiḥ), a compound with another relation; by Pā. Sū. 8-1-19 (vocative) the accent nighāta arises.
+
+पृच्छसे (*pṛcchase*)—root praccha (to ask, in speech); by Pā. Sū. 1-3-29-1 (the supplementary rule on vid, praccha, svar-) the ātmanepada because of the connection with sam. Laṭ, second person singular. The verbal accent arises.
+
+समराणः (*samarāṇaḥ*)—root ṛ (to go). By Pā. Sū. 1-3-29-2 (ārti-śru-dṛśibhyaś ceti vaktavyam) the ātmanepada, and śānac in laṭ, because of the connection with sam. By "aṭ kupvāṅ…" the change of the suffix n to ṇ. Because it is marked with c, the final-udātta accent; in the prefix-compound the accent of the final member of a kṛdanta arises.
+
+शुभानैः (*śubhānaiḥ*)—root śubh (to shine). The substitute śānac for laṭ. By "bahulaṃ chandasi" luk for śas; by "sārvadhātukam apit" the śānac is treated as marked with ṅ, so that the guṇa of the short penultimate of the root does not occur. By "cit" the final-udātta accent.
+
+वोचेः (*voceḥ*)—root vac (to speak). Liṅ; in the second person singular sip; by "itaś ca" elision of i. By Pā. Sū. 3-1-83 (liṅ āśiṣy aṅ) the aṅ. When this follows, 
+*[stray line as supplied: [44] (*[44]*) [Vol 12 — a page footer.]*
+
+### Printed p. 690
+*Running head: 690 Sāyaṇa-bhāṣya-sahitā [मं. १. अ. २३. सू. १६५ (*maṃ. 1. a. 23. sū. 165*)] (as supplied).*
+
+by Pā. Sū. 7-4-20 (vaca um) the augment um is added to the root. By Pā. Sū. 3-4-117 (chandasy ubhayathā) yāsuṭ has the designation sārvadhātuka, so that by Pā. Sū. 7-27-9 *[as supplied: reference printed so]* the s is elided. By Pā. Sū. 7-2-80 (ato yeyaḥ) the substitute iya, guṇa, elision of y; for the s, ru and visarga. The form वोचेः (*voceḥ*) results.
+
+अस्मे (*asme*)—by Pā. Sū. 7-1-39 (supāṃ sulug-) the substitute śe for the locative. ॥ 3 ॥
+*[stray line as supplied: ":0:"]*
+*[as supplied: a garbled label संजातः (*saṃjātaḥ*) stands before the Saṃhitā label.]*
+
+#### Ṛk 4
+**॥ संहितापाठः ॥**
+> ब्रह्मा॑णि मे म॒तयः॒ शं सु॒तासः॒ शुष्म॑ इयर्ति॒ प्रभृ॑तो॒॑
+> मे॒ अद्रिः॑ ।
+> आ शा॑सते॒ प्रति॑ हर्यंत्यु॒क्थेमा हरी॑ वहत॒स्ता नो॒ अच्छ॑ ॥
+> ॥ ४ ॥
+
+> *brahmāṇi me matayaḥ śaṃ sutāsaḥ śuṣma iyarti prabhṛto*
+> *me adriḥ |*
+> *ā śāsate prati haryaṃtyukthemā harī vahatastā no accha ‖*
+> *‖ 4 ‖*
+*[as supplied: a garbled label ॥ पवनाथ ॥ (*‖ pavanātha ‖*) stands after the Saṃhitā block, for "Pada-pāṭha".]*
+**॥ पदपाठः ॥**
+> ब्रह्माणि । मे । मतयः । शं । सुतासः । शुष्मः । इयर्ति । प्रभृतः । मे । अद्रिः ।
+> आ । शा स ते । प्रति । हर्यंति । उक्था । इमा । हरी इति । वहतः । ता । नः । अच्छ ॥४॥
+
+> *brahmāṇi | me | matayaḥ | śaṃ | sutāsaḥ | śuṣmaḥ | iyarti | prabhṛtaḥ | me | adriḥ |*
+> *ā | śā sa te | prati | haryaṃti | ukthā | imā | harī iti | vahataḥ | tā | naḥ | accha ‖4‖*
+*[as supplied: a garbled label साहणभाष्यं (*sāhaṇabhāṣyaṃ*) stands after the Pada block, for "Sāyaṇa-bhāṣya".]*
+**॥ सायणभाष्यम् ॥**
+> आथैवं तैः पृष्टोऽनया चतुर्थ्येंद्रः प्रत्याह।हे मरुतः ब्रह्माणि सर्वाणि
+> कर्माणि हवींषि ना मे मम स्वभूतानि । तथा मतयश्च मननयुक्ता: स्तुतयश्च
+> मे मम शं सुखकार्याः । यद्वा । मे मतयो बुद्धयस्तेष्टेव वर्तंत इति
+> शेषः । तथा सुतासोऽभिषुताः सोमा मे मदीया मदर्था एव । आतो यज्ञं
+> प्रति गंतव्यमित्यर्थः । किंच मध्यॆ राक्षसादिबाधपरिहाराय शुष्मो बलवान्मे मदीयोऽद्रिः शत्रूणां भक्षको वज्रः प्रभृतः सन्नियर्ति । गच्छत्येव लक्ष्यं प्रति न च
+> निवर्तते । न केवलं हविरादीनां मदीयत्वमेव अपि तु यजमाना आ शासते ।
+> मामेव प्रार्थयंते । किंचोक्कोक्यानि शस्त्राणि मां प्रति हर्यंति । कामयंते ।
+> मामेव शंसंतीत्यर्थः । किंच नोऽस्मदीयाविमा हरी इमावश् ता तानि गंतव्यानि
+> हविरादीन्यच्छाभिप्रापुं मां वहतः । अभिमतदेशं प्रापयतः । अत एव शीघ्रं
+
+> *āthaivaṃ taiḥ pṛṣṭo 'nayā caturthyeṃdraḥ pratyāha|he marutaḥ brahmāṇi sarvāṇi*
+> *karmāṇi havīṃṣi nā me mama svabhūtāni | tathā matayaśca mananayuktā: stutayaśca*
+> *me mama śaṃ sukhakāryāḥ | yadvā | me matayo buddhayasteṣṭeva vartaṃta iti*
+> *śeṣaḥ | tathā sutāso 'bhiṣutāḥ somā me madīyā madarthā eva | āto yajñaṃ*
+> *prati gaṃtavyamityarthaḥ | kiṃca madhyè rākṣasādibādhaparihārāya śuṣmo balavānme madīyo 'driḥ śatrūṇāṃ bhakṣako vajraḥ prabhṛtaḥ sanniyarti | gacchatyeva lakṣyaṃ prati na ca*
+> *nivartate | na kevalaṃ havirādīnāṃ madīyatvameva api tu yajamānā ā śāsate |*
+> *māmeva prārthayaṃte | kiṃcokkokyāni śastrāṇi māṃ prati haryaṃti | kāmayaṃte |*
+> *māmeva śaṃsaṃtītyarthaḥ | kiṃca no 'smadīyāvimā harī imāvaś tā tāni gaṃtavyāni*
+> *havirādīnyacchābhiprāpuṃ māṃ vahataḥ | abhimatadeśaṃ prāpayataḥ | ata eva śīghraṃ*
+
+### Printed p. 691
+*Running head: अ. २. अ. ३. व. २४. (*a. 2. a. 3. va. 24.*) Ṛgveda-saṃhitā 691 (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya of Ṛk 4 from the previous page]
+> गच्छामि । युष्माभिरपि तत्पापुं गंतव्यमित्यर्थः । अतोऽसहाय इति मंतव्यमिति
+> भावः ॥
+
+> *gacchāmi | yuṣmābhirapi tatpāpuṃ gaṃtavyamityarthaḥ | ato 'sahāya iti maṃtavyamiti*
+> *bhāvaḥ ‖*
+*[as supplied: a garbled label ॥ प्रतिपदः । (*‖ pratipadaḥ |*) stands before the standard label "Pratipadārtha".]*
+*Gist:* Indra answers: all rites, praises, soma, my thunderbolt, the worshippers, the hymns and my horses are mine and bring me to the sacrifice; that is why I go quickly and alone.
+**प्रतिपदार्थ (Pratipadārtha)**
+मरुतः (*marutaḥ*)—O Maruts; ब्रह्माणि (*brahmāṇi*)—all rites, are directed to me; मे (*me*)—to me; मतयः (*matayaḥ*)—the praises also; शं (*śaṃ*)—cause me happiness; सुतासः (*sutāsaḥ*)—the pressed soma juices also are mine; शुष्म (*śuṣma*)—(my) strength is great; मे (*me*)—my; अद्रिः (*adriḥ*)—thunderbolt; प्रभृतः (*prabhṛtaḥ*)—hurled; इयर्ति (*iyarti*)—runs towards its mark; आ शासते (*ā śāsate*)—(all sacrificers) long for me alone; उक्का (*ukkā*)—the praises in the form of śastras also; प्रति हर्यंति (*prati haryaṃti*)—extol me alone; नः (*naḥ*)—my; इमा हरी (*imā harī*)—these horses; ता (*tā*)—the sacrifices and the like which have to be reached; अच्च होगिसेरलु (*acca hogiseralu*)—to go and reach; वहतः (*vahataḥ*)—carry me. *[as supplied: the word-list prints उक्का (*ukkā*) for the Pada word, and अच्च (*acca*) is run on to its meaning without the dash; kept as printed.]*
+**भावार्थ (Bhāvārtha)**
+O Maruts, all rites are performed with me as their object. The praises also give me happiness. The pressed soma juices are mine. My strength is very great. When my thunderbolt is hurled, it runs towards its enemy. All the sacrificers long for me alone. The praises in the form of śastras also extol me alone. These horses of mine carry me to go and reach the sacrifices and the like which I must reach.
+**Printed English**
+(Indra),—Sacred rites are mine : (holy) praises give me pleasure :
+libations are for me : my vigorous thunder-bolt, hurled (against my foes),
+goes (to its mark): me, do (pious worshippers) propitiate : hymns are
+addressed to me : these horses bear us to the presence (of those worshippers
+and worship).
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+ब्रह्माणि (*brahmāṇi*)—It means either a grown rite or food in the form of an oblation. The derivation and the various meanings of this word have been given earlier.
+
+शुष्क (*śuṣka*)—Since it is read among the names of strength such as ओजः पाजः (*ojaḥ pājaḥ*) and the like, the word means strength. (Ni. 3-9) *[as supplied: the headword is printed शुष्क (*śuṣka*), while the Ṛk and the grammar read ಶುಷ್ಮ.]*
+
+कुष्ममिति बलनाम शोषयतीत सतः (*kuṣmamiti balanāma śoṣayatīta sataḥ*)
+(Ni. 2-23)
+
+### Printed p. 692
+*Running head: 692 Sāyaṇa-bhāṣya-sahitā [मं. १. अ. २३. सू १६५ (*maṃ. 1. a. 23. sū 165*)] (as supplied).*
+
+This name is well known because it causes all enemies to waste away. In many places this word is used as an epithet of Indra, the most powerful of all the powerful. For example—
+
+यस्यानाप्तः सूर्यस्येव यामो भरेभरे वृत्रहा शुष्मो अस्ति । वृषंतमः सखिभिः स्वेभिरेवैर्मरुत्वान्नो भवित्विंद्र ऊती (*yasyānāptaḥ sūryasyeva yāmo bharebhare vṛtrahā śuṣmo asti | vṛṣaṃtamaḥ sakhibhiḥ svebhirevairmarutvānno bhavitviṃdra ūtī*)
+(Ṛ. Saṃ. 1-100-2)
+
+In such Ṛks the word śuṣma is an epithet of Indra.
+
+अद्रिः (*adriḥ*)—The word adri is used in the senses of thunderbolt, demon (?), the stone for pressing soma juice, mountain, cloud, and so on. *[as supplied: "ರಾಕ್ಷಸ" stands without a comma between "thunderbolt" and "soma-pressing stone", so the list may be "thunderbolt, demon, …" or a single phrase; kept as printed.]* The Nirukta-author, giving the derivation of this word, says:
+
+अद्रिरादृणात्येतेन । अपि वा अत्तेः स्यात् (*adrirādṛṇātyetena | api vā atteḥ syāt*)
+(Ni. 4-4)
+
+He has shown that the word adri is formed either from the root धृ (*dhṛ*), which gives the meaning "to split", or from the root ad, which gives the meaning "to eat". Because it splits mountains and the like, the thunderbolt is called adri. And it is also explained as "the eater, the asura, the devourer, the paṇi". In giving this explanation the Nirukta-author quotes the Ṛk
+
+यदिंद्र चित्र मेहनास्ति त्वादातमद्रिवः । राधस्तन्नो विदद्वस उभयाहस्त्या भर (*yadiṃdra citra mehanāsti tvādātamadrivaḥ | rādhastanno vidadvasa ubhayāhastyā bhara*)
+(Ṛ. Saṃ. 5-39-1)
+
+and shows how the meaning "Indra, the possessor of the thunderbolt" is possible for the word अद्रिवः (*adrivaḥ*). Since the root, or roots, of the word adri give different meanings through derivations suited to the context, it must be explained according to each situation.
+
+महः स राय एषते पतिर्दन्निन इनस्य वसुनः पद आ । उ- प्रजंतमद्रयो विधन्नित् (*mahaḥ sa rāya eṣate patirdannina inasya vasunaḥ pada ā | u- prajaṃtamadrayo vidhannit*)
+(Ṛ. Saṃ. 1-149-1)
+*[as supplied: in this quotation a fragment उ- (*u-*) stands before the last line.]*
+
+In such Ṛks "possessors of adris" means sacrificers having pressing stones. In the same way, the usages in the senses of cloud, asura, mountain and so on were stated earlier.
+
+उक्का (*ukkā*)—उक्कानि शस्त्राणि (*ukkāni śastrāṇi*). It means a śastra in the form of an ukkha. *[as supplied: ukka for the Ṛk's ukthā.]*
+
+### Printed p. 693
+*Running head: अ. २. अ. ३. व २४ (*a. 2. a. 3. va 24*) Ṛgveda-saṃhitā 693 (as supplied).*
+
+*[as supplied: a garbled label व्याकरण, क्रिया (*vyākaraṇa, kriyā*) stands before the standard label "Vyākaraṇa-prakriyā".]*
+**Grammatical analysis (Vyākaraṇa-prakriyā)**
+*Grammar (transcribed, not explained):*
+
+बृह्माणि (*bṛhmāṇi*)—root bṛh (to grow). By Uṇ. Sū. 4-585 the suffix manin. The n of the augment that came because of the marker i becomes a; with that as cause, the ṛ becomes ra. By "ityādi-nityam" the initial-udātta accent arises. *[as supplied: the headword is printed बृह्माणि (*bṛhmāṇi*), the Ṛk reads ಬ್ರಹ್ಮಾಣಿ.]*
+
+सुतासः (*sutāsaḥ*)—root ṣu (to press). The suffix for the agent; by the accent of the suffix, final-udātta. By Pā. Sū. 7-1-50 the augment asuk for jas.
+
+शुष्क (*śuṣka*)—root ruṣa *[as supplied: so printed]* (to dry up); by Uṇ. Sū. 1-141 the suffix man. By the extension of the marker k, the guṇa of the short penultimate does not occur. Because of the marker s *[as supplied: so printed]* the initial-udātta accent arises.
+
+इयर्ति (*iyarti*)—root ṛ (to go), of the juhotyādi class; the sixth *[as supplied: ೬ನೇ so printed]*, third person singular, tip. Because of the vikaraṇa ślu, reduplication. By Pā. Sū. 6-4-78 the substitute iyaṅ for the reduplicative syllable. The verbal accent arises.
+
+प्रभृतः (*prabhṛtaḥ*)—by Pā. Sū. 6-2-49 the gati becomes udātta.
+
+शासते (*śāsate*)—root śās (to instruct), of the adādi class. Because of the connection with ā the ātmanepada; by Pā. Sū. 7-1-5 the substitute ātām *[as supplied: so printed]* for the suffix jha. Because it stands after a non-verb (atiṅanta), the nighāta accent arises.
+
+उक्ता (*uktā*)—root vac (to speak). By Uṇ. Sū. 2 164 the suffix thak. Because it is marked with k, by the rule वचस्वपियजादीनां किति (*vacasvapiyajādīnāṃ kiti*) (Pā. Sū., reference printed garbled: ६-त-१५ (*6-ta-15*)) samprasāraṇa and the earlier form. By the accent of the suffix, final-udātta. In the neuter plural, by Pā. Sū. 6-1-70 luk for śi. ॥ 4 ॥
+*[stray line as supplied: — ❖ ❖ —]*
+*[as supplied: a garbled label कन्नड साहित्य (*kannaḍa sāhitya*) stands before the Saṃhitā label.]*
+
+#### Ṛk 5
+**॥ संहितापाठः ॥**
+> अतो॑ व॒यमं॑त॒मेभि॑र्युजा॒नाः स्वक्ष॑त्रेभिस्त॒न्व१॒॑ १ : शुंभ॑मानाः ।
+> महो॑भि॒रेता॒ उप॑ युज्महे॒ न्विंद्र॑ स्व॒धामनु॒ हि नो॒॑॑
+> बभूथ ॥ ५ ॥
+
+> *ato vayamaṃtamebhiryujānāḥ svakṣatrebhistanva 1 : śuṃbhamānāḥ |*
+> *mahobhiretā upa yujmahe nviṃdra svadhāmanu hi no*
+> *babhūtha ‖ 5 ‖*
+
+### Printed p. 694
+*Running head: 694 Sāyaṇa-bhāṣya-sahitā [मं. १. अ. २३. सू. १६५ (*maṃ. 1. a. 23. sū. 165*)] (as supplied).*
+
+*[as supplied: a garbled label १ पदहारः . (*1 padahāraḥ .*) stands after the Saṃhitā block, for "Pada-pāṭha".]*
+**॥ पदपाठः ॥**
+> अशः । वयं । अंतमेभिः । युजानाः । स्वक्षत्रेभिः । तन्वः । शुंभमानाः ।
+> महःभिः । एतान् । उप । युज्महे । नु । इंद्र । स्वधां । अनु । हि । नः । बभूथ ॥५॥
+**॥ सायणभाष्यम् ॥**
+> एवमुक्ता मरुतस्तमेव ब्रुवते । हे इंद्र त्वं यस्मादेवं करोषि आतः
+> कारणाद्वयमप्यंतमेभिरंतिकतमैरश्वैर्युजाना युक्ताः संतः । कीदृश्यैः स्वक्षत्रेभिः स्वायत्तबलैः किंच महोभिस्तेजोभिस्तन्व आत्मशरीराणि शुंभमाना दीपयंतः ।
+> हर्षं प्राप्नुवाना इत्यर्थः । यद्वा । महोभिः स्वमहत्वेन युक्ता वयमेतान्नंतून्नु क्षिप्रमुप युज्महे । तव साकं हविरादि स्वीकुर्मह इत्यर्थः । हे इंद्र
+> त्वमपि नोऽस्मत्संबंधि स्वधामुदकं बलं नानु बभूथ हि । अस्मत्सृष्टोदकजन्यं
+> हविरनुभवसि खलु । हिशब्दः परस्परोपकार्योपकारिभावप्रसिद्धिद्योतनार्थः ॥
+
+> *evamuktā marutastameva bruvate | he iṃdra tvaṃ yasmādevaṃ karoṣi ātaḥ*
+> *kāraṇādvayamapyaṃtamebhiraṃtikatamairaśvairyujānā yuktāḥ saṃtaḥ | kīdṛśyaiḥ svakṣatrebhiḥ svāyattabalaiḥ kiṃca mahobhistejobhistanva ātmaśarīrāṇi śuṃbhamānā dīpayaṃtaḥ |*
+> *harṣaṃ prāpnuvānā ityarthaḥ | yadvā | mahobhiḥ svamahatvena yuktā vayametānnaṃtūnnu kṣipramupa yujmahe | tava sākaṃ havirādi svīkurmaha ityarthaḥ | he iṃdra*
+> *tvamapi no 'smatsaṃbaṃdhi svadhāmudakaṃ balaṃ nānu babhūtha hi | asmatsṛṣṭodakajanyaṃ*
+> *haviranubhavasi khalu | hiśabdaḥ parasparopakāryopakāribhāvaprasiddhidyotanārthaḥ ‖*
+*[as supplied: a garbled label प्रतिकूल (*pratikūla*) stands before the standard label "Pratipadārtha".]*
+*Gist:* The Maruts reply: therefore we too, adorned and yoked with our horses, shall quickly join you in taking the oblations; you in turn enjoy what we give.
+**प्रतिपदार्थ (Pratipadārtha)**
+अतः (*ataḥ*)—because you are ready to accept praises and the like; वयं (*vayaṃ*)—we also; अंतमेभिः (*aṃtamebhiḥ*)—with the horses that stand near us; युजानाः (*yujānāḥ*)—being yoked; स्वक्षत्रेभिः (*svakṣatrebhiḥ*)—and with our own strengths; महोभिः (*mahobhiḥ*)—with splendours; तन्वः (*tanvaḥ*)—our bodies; शुंभमानाः (*śuṃbhamānāḥ*)—making them shine; एतान् (*etān*)—with regard to the sacrificial rites; नु (*nu*)—quickly; उप युज्महे (*upa yujmahe*)—we accept with you the oblations and the like; इंद्र (*iṃdra*)—O Indra; नः (*naḥ*)—given by us; स्वधां (*svadhāṃ*)—water or strength *[as supplied: the word-list reads "ಉದಕವನ್ನು ಅಥವಾ ಒಲವನ್ನು", "water or inclination"]*; अनु बभूथ हि (*anu babhūtha hi*)—do you not enjoy?
+**भावार्थ (Bhāvārtha)**
+*[as supplied: a garbled label कन्नडक्कॆ (*kannaḍakkè*) stands before the standard label "Bhāvārtha".]*
+O Indra, because you are ready to accept praises and the like, we also, yoked with the horses that stand near us, making our bodies shine with our own strengths and splendours, come quickly with regard to the sacrificial rites and accept the oblations and the like together with you. O Indra, do you not enjoy the strength given by us? (Like them, give us also a share in your oblation.)
+**Printed English**
+(The Maruts),—Therefore we also, decorating our persons, are ready, with our docile and nigh-standing steeds, (to attend you), with all our splen-dour [sic], to those rites : verily, Indra, you appropriate our sacrificial food.
+
 ---
 
-**Progress note:** Done through printed p. 688. Vol 12 pp. 683-688: end of Mar.1.165 Ṛk 1 grammar, Ṛks 2-3 with commentary
+**Progress note:** Done through printed p. 694. Vol 12 pp. 689-694: end of Ṛk 3, Ṛk 4 with commentary, Ṛk 5 text and Sāyaṇa
