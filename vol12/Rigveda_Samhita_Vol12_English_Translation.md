@@ -7315,6 +7315,95 @@ in Ṛks like these, since there is the injunction that before the oblation of t
 *Grammatical Derivation (transcribed, not explained):*
 अगात् (*agāt*)—root इण् गतौ (*iṇ gatau*); luṅ in the present sense in the Vedic manner; by इणो गालुणु (*iṇo gāluṇu*) (Pā. Sū. 2-4-45) the substitute गा (*gā*) *[as supplied: the print has "ಗಾವೇಶ"]* for the root; the tiṅanta nighāta accent arises. *(The grammatical notes on this Ṛk continue in the next window.)*
 
+### Printed p. 279
+*Running head: [5. 2. Aṣṭaka 3. Varga 13.] Ṛgveda-saṃhitā 279 (as supplied: the Kannada running head reads ५. २. अ. ३. व. १३. (*5. 2. a. 3. va. 13.*)).*
+
+*Grammar (transcribed, not explained; continuing the notes of the previous Ṛk):*
+शसनम् (*śasanam*)—by करणाधिकरणयोश्च (*karaṇādhikaraṇayośca*) (Pā. Sū. 3-3-117) the suffix lyuṭ in the sense of the locus; by युवोरनाकौ (*yuvoranākau*) (Pā. Sū. 7-1-1) the substitute ana for it; by लिति (*liti*) (Pā. Sū. 6-1-193) [as supplied: printed "ಪಾ ಸೂ ೬-೧-೧೯೩" without full stops] the udātta accent comes on the syllable before the suffix.
+देवद्रीचा (*devadrīcā*)—देवान् अंचति इति देवद्रज् (*devān aṃcati iti devadraj*). When the root अंचु (*aṃcu*), ending in that suffix, follows the word देव (*deva*), by विष्ण्वगेवयोश्च (*viṣṇvagevayośca*) (Pā. Sū. 6-3-92) the substitute अद्रि (*adri*) comes for the ṭi of देव (*deva*). When the instrumental singular follows, by the sūtra अचः (*acaḥ*) the a of the root अंचु (*aṃcu*) is elided, and by the sūtra चौ (*cau*) the preceding vowel is lengthened. As an exception to the accent determined by the final member of a kṛt compound, by the statement अदिसध्योरंतोदात्तनिपातनं कृत्‌स्वरनिवृत्यर्थम् (*adisadhyoraṃtodāttanipātanaṃ kṛtsvaranivṛtyartham*) (Pā. Sū. 6-3-95-1) the substitute अद्रि (*adri*) becomes final-udātta, so the ī becomes udātta.
+दीध्यानः (*dīdhyānaḥ*)—root दिधीज् (*didhīj*) in the senses of shining and playing; belongs to the adādi class; the suffix śānac in the sense of laṭ. By the sūtra तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) the laśārvadhātuka suffix becomes anudātta, so the accent of the root remains.
+नीयते (*nīyate*)—root णीञ् (*ṇīñ*) in the sense of carrying; laṭ in the passive; the form is third person singular. The tiṅanta nighāta accent comes.
+यंति (*yaṃti*)—root इण् (*iṇ*) in the sense of going; laṭ, third person plural form. The tiṅanta nighāta accent comes.
+रेभा (*rebhā*)—root रेभृ (*rebhṛ*) in the sense of sound. By नंदिग्रहिपचादिभ्यः (*naṃdigrahipacādibhyaḥ*) (Pā. Sū. 3-1-134) the suffix ac in the agent sense. By चितः (*citaḥ*) (Pā. Sū. 6-1-163) the final-udātta accent comes.
+
+#### Ṛk 13
+**॥ संहितापाठः ॥**
+> उप॒ प्रागा॑त्पर॒मं यत्स॒धस्थ॒मर्वा॒ अच्छा॑ पि॒तरं॑ मा॒तरं॑ च।
+> अ॒द्या दे॒वाञ्जुष्ट॑तमो॒ हि ग॒म्या अथा शा॑स्त्रे दा॒शुषे॒॑
+> वार्याणि ॥ १३ ॥
+
+> *upa prāgātparamaṃ yatsadhasthamarvā acchā pitaraṃ mātaraṃ ca|*
+> *adyā devāñjuṣṭatamo hi gamyā athā śāstre dāśuṣe*
+> *vāryāṇi ‖ 13 ‖*
+
+### Printed p. 280
+*Running head: 280 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+*[Stray label before the Pada-pāṭha, as supplied: जडपारि (*jaḍapāri*) (garbled; the script read it as the label of the Pada-pāṭha).]*
+**॥ पदपाठः ॥**
+> उप । प्र । अगात् । परमं । यत् । सध्वस्थं । आर्वान् । अच्छ । पितरं । मातरं । च ।
+> अद्य । देवान् । जुष्टतमः । हि । गम्याः । अथ । आ । शास्त्रे । दाशुषे । वार्याणि ।
+> ॥ १३ ॥
+**॥ सायणभाष्यम् ॥**
+> अर्वानरणकुशलोऽयमश्व उप प्रागात् । उपगच्छति । किं । यत्परममुत्कृष्टं सधस्थं सहस्थानं सुकृतिभिरेकत्रनिवासयोग्यं स्वर्गाख्यं यदस्ति तत् ।
+> किमर्थं । पितरं मातरं चाच्छाभिमुख्येन प्राप्तं । हे अश्व अद्यास्मिन्काले जुष्टतमः प्रीततमः । स्वर्ग० प्राप्नोमाति हर्षयुक्त इत्यर्थः । एवंभूतो देवान्
+> गम्याः । गच्छेर्देवान् । हिशब्दो यज्ञ उपयुक्तस्य पशोः स्वर्गप्राप्तेः सगर्भ्योनु सखा सयूथ्यः । तै. सं १-२-४-२ । इत्यादिमंत्रांतरप्रसिद्धिद्योतनार्थः ।
+> अथानंशरं यजमान आ शास्त्रे । कस्मै । दाशुषे हविर्दत्तवते स्वस्मै । कानि ।
+> वार्याणि वरणीयानि धनानि । यद्वा ॥ पुरुषस्य व्यत्ययः ॥ आ शास्त्रे प्रार्थये
+> यजमानार्थं ॥
+*Gist:* Sāyaṇa: the horse goes to the highest heavenly abode of the virtuous, to father and mother; rejoicing, go to the gods; I pray for desired wealth for the donor.
+**प्रतिपदार्थ (Pratipadārtha)**
+अर्वान् (*arvān*)—this horse; पितरं (*pitaraṃ*)—the father, the heaven-world; मातरं (*mātaraṃ*)—the mother, the earth; अच्छ (*accha*)—to go forward and reach (them); यत् (*yat*)—which; परमं (*paramaṃ*)—is most excellent; सधस्थं (*sadhasthaṃ*)—where all the virtuous assemble together, that place of heaven; उप प्रागात् (*upa prāgāt*)—approaches; (horse—O horse!); अद्य (*adya*)—now; जुष्टतमः (*juṣṭatamaḥ*)—(thinking "I shall reach heaven") exceedingly joyful; देवान् (*devān*)—towards the gods; गम्या (*gamyā*) (hi)—you are to go; अथ (*atha*)—afterwards; दाशुषे (*dāśuṣe*)—to the sacrificer; वाराणि (*vārāṇi*) *[as supplied: so printed, the Saṃhitā has वार्याणि (*vāryāṇi*)]*—desired things; आ शास्त्रे (*ā śāstre*)—I pray.
+**भावार्थ (Bhāvārtha)**
+This sacrificial horse approaches that most excellent place of heaven, where all the virtuous go and gather together, going forward to the father, the heaven-world, and to the mother, the earth. O horse, you are now to go towards the gods, exceedingly joyful at the thought "I shall reach heaven". Afterwards I pray for desired things for the sacrificer.
+
+### Printed p. 281
+*Running head: [A. 2. A. 3. V. 13] Ṛgveda-saṃhitā 281 (as supplied: अ. २. अ. ३. व. १३ (*a. 2. a. 3. va. 13*), with "ಅ." at the start).*
+**Printed English**
+The horse proceeds to that assembly which is most excellent: to the presence of his father and his mother, (heaven and earth). Go, (Horse), to-day rejoicing to the gods, that (the sacrifice) may yield blessings to the donor.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+सधस्थं—सहस्थानं सुकृतिभिरेकत्र निवासयोग्यं स्वर्गाख्यं यदस्ति तत् (*sadhasthaṃ—sahasthānaṃ sukṛtibhirekatra nivāsayogyaṃ svargākhyaṃ yadasti tat*)—Sāyaṇa has explained it as the place called heaven, in which those who have performed good works such as sacrifices assemble together. In some contexts this word is also a synonym of the atmosphere. There is a usage by which the place consisting of the Veda and so on, where all the officiating priests gather together, is called sadhastha; the author of the Nirukta says so (Ni. 3-13).
+Citing the Ṛk
+कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः । को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ (*kuha sviddoṣā kuha vastoraśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ | ko vāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadhastha ā*) (Ṛ. Saṃ. 10-40-2)
+Sāyaṇa has interpreted the word sadhastha there as "place of assembly" *[as supplied: दहरिसि (*daharisi*) for "citing"]*. For the word in the cited Ṛk, Sāyaṇa took it to be the sadhastha in the form of the altar, and the author of the Nirukta took it in general to be a dwelling place in the form of a house where all live together. In the present Ṛk Sāyaṇa's explanation is appropriate to the context. Since the sacrificial horse also takes part in the good work, it is right that it reaches the heaven to which the virtuous go.
+पितरं मातरं च (*pitaraṃ mātaraṃ ca*)—Sāyaṇa has not said in the bhāṣya who this horse's father and mother are. But the Śatapatha Brāhmaṇa states it clearly.
+विभूर्मात्रा प्रभूः पित्रॆति । इयं वै मातासौ पिताभ्यामेवैनं परिददात्य श्वोऽसि हयोऽसीति शास्त्र्येवैनं तत्तस्माच्छिष्टाः प्रजा जायंतेऽत्योऽसि (*vibhūrmātrā prabhūḥ pitrèti | iyaṃ vai mātāsau pitābhyāmevainaṃ paridadātya śvo 'si hayo 'sīti śāstryevainaṃ tattasmācchiṣṭāḥ prajā jāyaṃte 'tyo 'si*) (Śa. Brā. 13-1-6 1) *[as supplied: so printed, with a space]*
+This horse obtains the form of the pervader from the mother and the power of the lord from the father; it is said that the earth is the mother and the heaven-world the father. On that basis here too पितरं (*pitaraṃ*), मातरं (*mātaraṃ*) can be interpreted as heaven and earth (द्यावापृथिगळॆंदु (*dyāvāpṛthigaḷèṃdu*) as printed).
+In देवान् गम्या हि (*devān gamyā hi*), explaining the need for the word हि (*hi*), he says: हि शब्दो यज्ञे उपयुक्तस्य पशोः स्वर्गप्राप्तेः (*hi śabdo yajñe upayuktasya paśoḥ svargaprāpteḥ*) "सगर्भ्योऽनु सखा सयूथ्यः (*sagarbhyo 'nu sakhā sayūthyaḥ*) (Tai. Saṃ. 1-2-4-2)"
+
+### Printed p. 282
+*Running head: 282 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩.] (as supplied).*
+इत्यादि मंत्रांतरप्रसिद्धिद्योतनार्थः (*ityādi maṃtrāṃtaraprasiddhidyotanārthaḥ*) (the sentence continues from the previous page). Having cited this Taittirīya Saṃhitā sentence *[as supplied: printed तृत्तिरीय (*tṛttirīya*)]*, he has shown that there is no doubt about those who approach the gods and obtain their presence.
+
+*Grammar (transcribed, not explained):*
+सधस्थम् (*sadhastham*)—सह स्थानं सधस्थम् (*saha sthānaṃ sadhastham*). Root ष्ठा (*ṣṭhā*) in the sense of cessation of motion. By सुपिस्थः (*supisthaḥ*) the suffix ka. By आतो लोप इटि च (*āto lopa iṭi ca*) (Pā. Sū. 6-4-64) elision of the ā of the root. By सधमाधस्थयोश्चंदसि (*sadhamādhasthayoścaṃdasi*) (Pā. Sū. 6-3-96) the substitute sadha for saha.
+अद्य (*adya*), अच्छ (*accha*), अथ (*atha*)—by निसातस्यच (*nisātasyaca*) a lengthening comes for these in the Saṃhitā.
+जुष्टतमः (*juṣṭatamaḥ*)—root जुषी (*juṣī*) in the senses of pleasing and serving; suffix kta. By अतिशायने तमबिष्ठनौ (*atiśāyane tamabiṣṭhanau*) the suffix tamap after it. Because it carries the mark p it becomes anudātta.
+गम्याः (*gamyāḥ*)—root गमल्य (*gamalya*) in the sense of going. Lij, second person singular, with sip. By the sūtra इतश्च (*itaśca*) elision of the i. By यासुट् परस्मै (*yāsuṭ parasmai*) (Pā. Sū. 3-4-103) the augment yāsuṭ for lij. By बहुलं छंदसि (*bahulaṃ chaṃdasi*) elision of the vikaraṇa. By हिच (*hica*) (Pā. Sū. 8-1-34) the nighāta accent is prohibited; since the augment yāsuṭ is udātta, the ā becomes udātta.
+शास्त्रे (*śāstre*)—root शासु (*śāsu*) in the sense of instructing; adādi class. Laṭ, third person singular form. In the second explanation, by vyatyaya the first-person singular suffix has come. Because it follows a non-verb (atiṅanta), the nighāta accent comes.
+दाशुषे (*dāśuṣe*)—root दाश्य (*dāśya*) in the sense of giving. By दाश्वान् साह्वान् (*dāśvān sāhvān*) (Pā. Sū. 6-1-12) it is irregularly formed ending in the suffix kvasu. When the dative singular follows, by वसोः संप्रसारणम् (*vasoḥ saṃprasāraṇam*) saṃprasāraṇa, the earlier form. By शासिवसिघसीनां च (*śāsivasighasīnāṃ ca*) (Pā. Sū. 8-3-60) the change to ṣ. The suffix accent comes.
+Here the twelfth sūkta is finished. *[as supplied: so printed १२ने (*12ne*), in a series where this is Sūkta 163]*
+*[Separator line as supplied: ________:0:_______]*
+
+**Concluding remarks on Sūktas 162 and 163 (as supplied: १६२ मत्तु १६३ ने सूक्तगळ उपसंहार (*162 mattu 163 ne sūktagaḷa upasaṃhāra*))**
+**Description of the nature of the Aśvamedha sacrifice**
+It was stated earlier, in the Brāhmaṇas and elsewhere, that the Aśvamedha is a national sacrifice, that only one who is a sovereign can perform it, and that it is impossible for other ordinary kings. *(The sentence continues on the next page.)*
+
+### Printed p. 283
+*Running head: [A. 2. A. 3. V. 13.] Ṛgveda-saṃhitā 283 (as supplied: अ २. अ. ३. व. १३. (*a 2. a. 3. va. 13.*)).*
+Regarding its glory, although all the śruti passages give a single view, in the manner of performing it each śākhā has stated it in one way or another.
+In the Taittirīya Saṃhitā and Brāhmaṇa, and in the Vājasaneya Saṃhitā and the Śatapatha Brāhmaṇa, the subject of the Aśvamedha has been stated at length. The Aitareya Brāhmaṇa and the Kauṣītaki Brāhmaṇa too do not state any special pre-eminence. In the Pañcaviṃśa Brāhmaṇa also its greatness is praised. The manner of performing this rite is explained in detail in the Śrauta Sūtras that follow each śākhā.
+Here, the rules explained mainly in the Śrauta Sūtras of Āpastamba, Kātyāyana and Śāṅkhāyana, and the differences among them in certain important circumstances, will be stated; afterwards the similarity and the difference between the description of the Aśvamedha in the present Ṛgveda sūktas and the description in the Śatapatha and other works will be explained.
+The Aśvamedha rule is explained in the 20th praśna of the Āpastamba Śrauta Sūtra. The Sūtrakāra, citing a sentence of the Taittirīya Brāhmaṇa, says first that this sacrifice should be performed only by a sovereign, and afterwards that an ordinary king too may perform it. (राजा सार्वभौमो अश्वमेधेन यजेत । असार्वभौमो वा (*rājā sārvabhaumo aśvamedhena yajeta | asārvabhaumo vā*) (Āpastamba, Sū. 20-5-2)). This sacrifice should be begun on the full-moon day of the month of Vaiśākha. On the new-moon day following it, its opening rite should be performed with a Prājāpatya bull *[as supplied: ऋषभ अथवा यज्ञदिंद (*ṛṣabha athavā yajñadiṃda*), "bull or by the sacrifice"]*. The qualifications of the priests and others, and the colour and other features of the horse to be chosen for the sacrifice, are described. When the horse is ready for the victory-journey, a dog should be offered as an oblation near its ear. Afterwards, one hundred king's sons with the Adhvaryu; one hundred non-royal उग्र (*ugra*) (राजभिरुग्रैः (*rājabhirugraiḥ*)) with the Brahman; one hundred सूतग्रामणि (*sūtagrāmaṇi*) with the Hotṛ; and one hundred क्षत्रिसंगृहीतृ (*kṣatrisaṃgṛhītṛ*) with the Udgātṛ should be ready for protection on the four sides of the horse. The horse that has set out on the victory-journey must stop at the house of the chariot-maker. Within this period of the journey, one year, the other dīkṣā rites are performed in the sacrificial house, with lute-song and with the Pāriplava mantras to be recited by the Hotṛ. If any harm befalls the horse on the way, another horse must be obtained. If enemy kings stop it and drive it away, the Aśvamedha is as though destroyed. (अमित्रा अश्वं विंदेरन् हन्येतास्य यज्ञः (*amitrā aśvaṃ viṃderan hanyetāsya yajñaḥ*) (20-8-1)). After it has returned, on the new-moon day at the end of the year, the rite named उखा (*ukhā*), including the sacrifice of many animals, is performed. After all the preliminary rites are completed, the horse, adorned by the royal consorts, is brought. Mahiṣī, Vāvātā and Parivṛktā are the names of these consorts. At the time of the adorning they are guarded by one hundred king's daughters, one hundred wives of the उग्र (*ugra*), and one hundred wives of the सूतग्रामणि (*sūtagrāmaṇi*).
+
+### Printed p. 284
+*Running head: 284 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಆ. ೨೨. ಸೂ ೧೬೩] (as supplied).*
+*(The sentence of the previous page continues: "...guarded by one hundred king's daughters, ..." as above.)* The Mahiṣī adorns the horse with golden ornaments, the Vāvātā with silver ornaments, and the Parivṛktī with coral and the like. Then the king, with his bow and arrows, takes the horse to a lake to drink water. The horse drinks at the time when the prescribed mantras are recited. Afterwards the horse is slain, together with the hornless तूपर (*tūpara*) and the गोमृग (*gomṛga*) brought to the sacrificial place. The order of it is as follows.
+वेतसशाखायां तार्प्यं कृत्त्यधीवासं हिरण्यकशिपुं चास्तिर्य सौवर्णं रुक्ष्ममुपरिष्टात्कृत्वा तस्मिन्नश्वतूपरगोम्यगान्निघ्नंति । प्लक्षशाखायास्त्वितरान्पशून्. (*vetasaśākhāyāṃ tārpyaṃ kṛttyadhīvāsaṃ hiraṇyakaśipuṃ cāstirya sauvarṇaṃ rukṣmamupariṣṭātkṛtvā tasminnaśvatūparagomyagānnighnaṃti | plakṣaśākhāyāstvitarānpaśūn.*) (20-17-8) श्यामलेन क्षौमेण वाश्वं संज्ञपयंति (*śyāmalena kṣaumeṇa vāśvaṃ saṃjñapayaṃti*) (20-17-9). In this way there is a description of the seats to be prepared for the horse, the गोमृग (*gomṛga*), the तूपर (*tūpara*) and the other animals to be slain. In this context the Sūtrakāra, saying "as in the rule of Daśaratha's Aśvamedha described in the Vālmīki Rāmāyaṇa", mentions the occasion when Kausalyā slew the horse.
+कौसल्या तं हयं तत्र परिचर्य समंततः । कृपाणैर्विशशासैनं त्रिभिः परमया मुदा (*kausalyā taṃ hayaṃ tatra paricarya samaṃtataḥ | kṛpāṇairviśaśāsainaṃ tribhiḥ paramayā mudā*)
+(Vālmīki Rāmāyaṇa 1-24-33)
+When all these rites have been performed, the avabhṛtha is carried out with the sacrifice of many more animals, and the sacrifice is completed.
+In the Sūtra of Kātyāyana the procedure of the Aśvamedha is explained in this manner, in the way stated in the Śatapatha Brāhmaṇa. Only the difference from Āpastamba's explanation will be stated here. According to this, the Aśvamedha should begin on the eighth or ninth day of the bright half of Phālguna (that is, it should be पडहद (*paḍahada*) *[as supplied: word unclear]* before the full moon). Along with the royal consorts Mahiṣī, Vāvātā and Parivṛktā mentioned in Āpastamba, a fourth name, पालागली (*pālāgalī*), is also indicated; the commentators have called her the daughter of a messenger (Śa. Brā. 13-4-1-8). The remaining dog sacrifice *[as supplied: ऒलियू (*òliyū*), evidently "sacrifice"]*, the protection of the horse, the description of the horse's journey, and the account of the horse's colour are the same as in Āpastamba's explanation. After the horse's journey is finished, the main rite is performed on the full-moon day of Phālguna. From the description हिरण्यवासोऽधिवासेष्वश्वसंज्ञपनं (*hiraṇyavāso 'dhivāseṣvaśvasaṃjñapanaṃ*) it is understood that the horse, like the other animals offered in sacrifice, is killed by stopping its breath. On this occasion a conversation called ब्रह्मोद्य (*brahmodya*) takes place among the priests. The main difference here is that the chief consorts only help in the killing of the horse and do not themselves slay it. After they have shown the marks, their attendants carry out the killing of the horse.
+
 ---
 
-**Progress note:** Done through printed p. 278. Ṛk 11 Sāyaṇa-bhāṣya, Special Topics, grammar; Ṛk 12 (goat and priests) with Special Topics
+**Progress note:** Done through printed p. 284. Sukta 163 Rk 13 (end), special topics, grammar, concluding remarks on Asvamedha (Apastamba, Katyayana)
