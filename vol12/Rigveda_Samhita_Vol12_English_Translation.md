@@ -3555,6 +3555,91 @@ the gods, three thousand three hundred and thirty-nine in number, also worshippe
 
 On the basis of these authorities there is truth also in what the second of the Ṛbhus said, अग्निर्भूयिष्ठः (*agnirbhūyiṣṭhaḥ*). The third,
 
+### Printed p. 125
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೫. ] Ṛgveda-saṃhitā 125 (as supplied).* (The Special Topics of Ṛk 9 continue: the third Ṛbhu.)
+
+वधर्यंतीं—प्रैकोऽब्रवीत् (*vadharyaṃtīṃ—praiko 'bravīt*)—he describes the earth as the greatest of all. Sāyaṇa has explained the word "vadharyantī" in two ways. First:
+
+वधरिति रेफांतोऽपि वज्रनाम । वधोर्क इति तन्नामसु पाठात् । तदिच्छति वृष्टु ध्य (*vadhariti rephāṃto 'pi vajranāma | vadhorka iti tannāmasu pāṭhāt | tadicchati vṛṣṭu dhya*)
+काय इति वधर्यंती मेघपंक्तिरुच्यते । (*kāya iti vadharyaṃtī meghapaṃktirucyate |*) *[the first line ends with the printed "ವೃಷ್ಟು ಧ್ಯ" and the second begins with "ಕಾಯ", a word split over two lines (so printed, with a stray "ಧ್ಯ"); quoted in two parts]*
+
+Since "vadhaḥ", "vajraḥ" and "arkaḥ" are read among the names of the thunderbolt (Ni. 3-11), the word "vadha" means the thunderbolt. Because, in order to shed rain, the cloud awaits a stroke from the thunderbolt, "vadharyantī" means the rain-producing cloud. Understood thus, since the cloud is the cause of water also, Sāyaṇa has explained that the cloud is the most excellent.
+
+अभ्रं भूत्वा मेघो भवति मेघो भूत्वा प्रवर्षति । (*abhraṃ bhūtvā megho bhavati megho bhūtvā pravarṣati |*) (ಛಾ. ಉ. 5-10-6.)
+
+Thus the cloud, being the cause of water too, is the basis of all abundance of food. And:
+
+ताभिः पर्जन्यो वर्षति पर्जन्येनौषधिवनस्पतयः प्रजायंते ॥ (*tābhiḥ parjanyo varṣati parjanyenauṣadhivanaspatayaḥ prajāyaṃte ‖*) (ತೈ. ಉ. 4-23-1)
+
+Since the herbs and trees that provide food to beings are produced by this raining, the purport is that nothing is more useful than the cloud, which is the cause of this rain. *[the abbreviations "ಛಾ. ಉ." and "ತೈ. ಉ." are as printed]*
+
+Second, making the construction "bahubhyaḥ vadharyantīm":
+
+बहूनामर्थाय (*bahūnāmarthāya*)
+आत्मनः वधं इच्छंतीं भूमिं । (*ātmanaḥ vadhaṃ icchaṃtīṃ bhūmiṃ |*) *[the sentence is split over two lines]*
+
+it may mean the earth, which for the life of many beings wishes its own "vadha" (beating, cutting) by works such as ploughing. If this meaning is taken, the word "pṛthvī" then does not mean only the conventional earth but means the whole world. Since this word is included both among the names of the earth (Ni. 2-5) and among the names of the atmosphere (Ni. 2-10), it may mean the wide world. To understand it as a synonym of the cloud also seems proper. Even if that meaning is right, the depth of the exposition of principle given by the first two is not seen in this third view.
+
+ऋता वदंतः (*ṛtā vadaṃtaḥ*)—here the word "ṛta" is explained as true speech. To show that when the Ṛbhus expound the meaning of principles they declare that it is true, and that precisely because they have such true speech the name "Ṛbhu" became well known, Sāyaṇa has explained, quoting the Nirukta derivation
+
+उरु भांतीति वा ऋतेन भांतीति वा, ऋतेन भवंतीति वा (*uru bhāṃtīti vā ṛtena bhāṃtīti vā, ṛtena bhavaṃtīti vā*) (Ni. 11-15)
+
+the view of the Nirukta authors being that they are famous by the name "Ṛbhus" because they shine by truth or because they are of the nature of truth.
+
+### Printed p. 126
+
+*Running head: 126 Sāyaṇa-bhāṣya-sahitā [ಮಂ ೧. ಅ. ೨೨. ಸೂ. ೧೬೧] (as supplied).*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses भूयिष्ठाः (*bhūyiṣṭhāḥ*) (the rule Pā. Sū. 6-4-159; the number of the first sūtra is split over two lines), अब्रवीत् (*abravīt*) (root ब्रूज् (*brūj*) *[so printed]*), वधर्यंतीम् (*vadharyaṃtīm*) (Pā. Sū. 3-1-8), ऋता (*ṛtā*) (Pā. Sū. 6-1-70), वदंतः (*vadaṃtaḥ*) (Pā. Sū. 6-1-186) and अपिंशत (*apiṃśata*) (root पिश (*piśa*)), with the accents; it ends with the mark ॥ ೯ ॥. *[A stray line ":0:" follows in the supplied text; kept in kn.md as an italic note.]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> श्रो॒णामेक॑ उद॒कं गामवा॑जति मां॒समेकः॑ पिंशति सू॒नयाभ्॑यतं ।
+> आ नि॒म्रुचः॒ शकृ॒देको॒ अपा॑भर॒त्किं स्वि॑त्पु॒त्रेभ्यः॑ पि॒तरा॒ उपा॑वतुः ॥ १० ॥
+
+> *śroṇāmeka udakaṃ gāmavājati māṃsamekaḥ piṃśati sūnayābhyataṃ |*
+> *ā nimrucaḥ śakṛdeko apābharatkiṃ svitputrebhyaḥ pitarā upāvatuḥ ‖ 10 ‖*
+
+*[The hyphenated line breaks in the Saṃhitā block are joined. The Saṃhitā has सूनयाभ्यतं (*sūnayābhyataṃ*) where the Pada has "ಸೂನಯಾ । ಆಭೃತಂ" and the Pratipadārtha has निम्मुचः (*nimmucaḥ*) where the Saṃhitā and the Pada have "ನಿಮ್ರುಚಃ"; kept as supplied.]*
+
+### Printed p. 127
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೫. ] Ṛgveda-saṃhitā 127 (as supplied).* *[The word "ಪಡೆದರು" ("they obtained") stands alone at the head of the page, before the label of the Pada, in the supplied text; kept in kn.md as an italic note. The label of the Pada was missing from the block and is inserted.]*
+
+**॥ पदपाठः ॥**
+
+> श्रोणां । एकः । उदकं । गां । अव । अ ज ति । मांसं । एकः । पिं शति । सूनया ।
+> आभृतं ।
+> आ । निम्रुचः । शकृत् । एकः । अप । अभरत् । किं । स्वित् । पुत्रेभ्यः । पितरा । उप ।
+> आवतुः ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined. The block reads "शोणं ii ना छंदसीति (*śoṇaṃ ii nā chaṃdasīti*)" as supplied.]*
+
+> अत्रर्भव एवर्त्विग्रूपेण स्थित्वा सर्वत्र यज्ञं निर्वहंतीत्याह । शोणां
+> शोणं ii ना छंदसीति पररूपाभावः ॥ शोणवर्णमुदकं रुधिरमेक ऋभुषु
+> मध्य ऋत्विग्गामवाजति । वाह्यभूमिं प्रति गमयति । रक्षोभागत्वेन स्थापयति ।
+> तथैको मांसं सूनया छेदनसाधनेन स्वधितिनाभृतं संपादितं पिंशति । हृदयजिह्वावक्ष आद्याकारेणाहृतं संपादितं मांसं पिंशति । अवयवीकरोति । स्वधितिना
+> तत्तदवयवान्विभजतीत्यर्थः । अथैको निम्रुचो निःशेषेण च्छिन्नान्मांसात् शकृत्
+> कुक्षिस्थं जरत्ृणमूवध्यनामकमपाभरत् । अपाहरन्निरसनाय । एवमृतिग्रूपेण
+> स्थितेभ्यः पुत्रेभ्यः पुरुत्रातृभ्यः पुत्रस्थानीयेभ्य ऋभुभ्यः सर्वॆष्टनुष्ठितेषु पितरा
+> यज्ञस्य पालयितारौ जायापती किं स्विदुपावतुः । किं नु खलु प्राप्पुतः ॥ अवतेः
+> प्राप्त्यर्थाच्छांदसो लिट् ॥ सर्वं तैरेवानुष्ठितमिति तयोर्न किंचित्कृत्यमस्तीत्यर्थः । अथवायमर्थः । एकस्तेषामन्यतमः शोणां पंगुकां गामुदकं प्रत्यवगमयति । अपरः सूनया मांसविक्रयिण्याभृतं संपादितं मांसं पिंशति । अपर आ
+> निम्रुचोऽस्तमयादर्वागेव शकृद्योपुरीषं हरति । एवमृभुभिरनुष्ठिते सति किं
+> स्सिदेतस्मात्परिचरणादन्यत्पुत्रेभ्यः सकाशादुपावतुः । उपगच्छेतामिति ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): the Ṛbhus themselves, as priests, do all the sacrificial work, bringing blood, cutting flesh, removing dung; what is left for their parents to do?]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+एकः (*ekaḥ*)—one of the Ṛbhus; शोणां उदकं (*śoṇāṃ udakaṃ*)—the red-coloured water, that is, blood; गां (*gāṃ*)—to the sacrificial ground; अवाजति (*avājati*)—brings; एकः (*ekaḥ*)—another; सूनया (*sūnayā*)—with a chopping knife; आभृतं (*ābhṛtaṃ*)—cut; मांसं (*māṃsaṃ*)—the flesh; पिंशति (*piṃśati*)—separates into pieces; निम्मुचः (*nimmucaḥ*)—from the flesh cut completely; शकृत् (*śakṛt*)—the dung and the like; एकः (*ekaḥ*)—another; अपाभरत् (*apābharat*)—took away (to throw outside); पुत्रेभ्यः (*putrebhyaḥ*)—to the Ṛbhus in the position of sons, or to the Ṛbhus in the form of priests who are protectors; पितरौ (*pitarau*) *[so printed in the Pratipadārtha]*—the sacrificer, protector of the sacrifice, and his wife; किंस्वित् (*kiṃsvit*)—what else indeed; उपावतुः (*upāvatuḥ*)—can procure and give (as help)?
+
 ---
 
-**Progress note:** Done through printed p. 124 (PDF 124). Sūkta 161 Ṛk 9 Special Topics continued (water, fire; Upaniṣad quotations), to 'The third,'
+**Progress note:** Done through printed p. 127 (PDF 127). Sūkta 161 Ṛk 9 Special Topics end and grammar; Ṛk 10 Saṃhitā, Pada, bhāṣya, Pratipadārtha
