@@ -6240,6 +6240,157 @@ have shown that there the word पुरीष (*purīṣa*) is derived, accordi
 
 समुद्रात् (*samudrāt*)—two kinds of meaning have been given for this word: from the firmament, or from the Sun. How the meaning "firmament" is possible for the word समुद्र (*samudra*) has been explained, by citing the statements of the authors of the Nirukta, in the Special Topics of the Ṛk Ṛ. Saṃ. 1-159-4 of this same volume.
 
+### Printed p. 235
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೧.] Ṛgveda-saṃhitā 235 (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 1 from the previous page]* Or, Sāyaṇa explains: समुद्रः आदित्यः समुंदनात् वृष्टा (*samudraḥ ādityaḥ samuṃdanāt vṛṣṭā*) *[as supplied]*, "the Sun is called *samudra* because he drenches (everything) with rain"; that is, because he makes everything wet with rain, the Sun also has the name "ocean" (*samudra*).
+
+*[As supplied, a garbled label: "ಸ್ನಾಕರಣಪ್ರಕ್ರಿಯಾ" (the script read it as the heading Vyākaraṇa-prakriyā).]*
+
+*Grammar (transcribed, not explained):*
+
+अक्रंदः (*akraṃdaḥ*)—the root क्रदि आह्वाने रोदने च (*kradi āhvāne rodane ca*) (in the sense of calling and of weeping). *Laṅ*, second person singular, सिप् (*sip*). By इतश्च (*itaśca*) elision of the इ (*i*). The vikaraṇa शप् (*śap*). By इदितो नुम् धातोः (*idito num dhātoḥ*) (Pā. Sū. 7-1-58) the augment नुम् (*num*) for the root. Because of the connection with यत् (*yat*) the *nighāta* accent does not occur. Since the past-tense augment is *udātta*, the form has the initial-acute accent.
+
+जायमानः (*jāyamānaḥ*)—the root जनी प्रादुर्भावे (*janī prādurbhāve*) (in the sense of coming into being). The substitute participle suffix for *laṭ*. The vikaraṇa श्यन् (*śyan*). By the sūtra beginning ज्ञा (*jñā*)… (Pā. Sū. 7-3-79) the substitute जा (*jā*) for the root. By आनेमुक् (*ānemuk*) (Pā. Sū. 7-2-82) the augment मुक् (*muk*) for the stem ending in अ (*a*). Since the *lasārvadhātuka* is unaccented and श्यन् (*śyan*) has the न् (*n*)-marker, the initial-acute accent results.
+
+उद्यन् (*udyan*)—the prefix उत् (*ut*); the root इण् गतौ (*iṇ gatau*) *[as printed]*. The substitute participle suffix for *laṭ*. By इणोयण् (*iṇoyaṇ*) (Pā. Sū. 6-4-81) the substitute यण् (*yaṇ*) for the root. The *kṛd-uttarapada-prakṛti* accent results.
+
+पुरीषात् (*purīṣāt*)—the root पृ पालनपूरणयोः (*pṛ pālanapūraṇayoḥ*) (in the sense of protecting and filling). By शृपृभ्यामिषन् (*śṛpṛbhyāmiṣan*) (U. Sā. 4-466, as supplied) the suffix ईषन् (*īṣan*). By इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-164) the initial-acute accent results.
+
+पक्षा (*pakṣā*)—the root पण व्यवहारे स्तुतौ च (*paṇa vyavahāre stutau ca*) (in the sense of trade and of praise). By गृधिपण्योर्दकौ च (*gṛdhipaṇyordakau ca*) (U. Sū. 3-349) the suffix स (*sa*). For the ण (*ṇa*) of the root the substitute क (*ka*). By the accent of the suffix the final-acute accent results. By *supāṃ suluk* (the sūtra is split across lines in the print) the substitute आ (*ā*) for the dual.
+
+उपस्तुत्यम् (*upastutyam*)—the root ष्टुञ् स्तुत् (*ṣṭuñ stut*) *[as printed]*. By एतिस्तुशास् (*etistuśās*) (Pā. Sū. 3-1-109) the suffix क्यप् (*kyap*). Because it is प् (*p*)-marked, by ह्रस्वस्य पिति कृति तुक् (*hrasvasya piti kṛti tuk*) (Pā. Sū. 6-1-71) the augment तुक् (*tuk*). Because the suffix is प् (*p*)-marked, the accent of the root remains. In a *prādi* compound the *kṛd-uttarapada-prakṛti* accent results.
+
+जातम् (*jātam*)—the root जनी प्रादुर्भावे (*janī prādurbhāve*). The suffix क्त (*kta*) in the sense of the abstract. By the sūtra beginning *janasanakhanāṃ sanjhaloḥ* (Pā. Sū. 6-4-47) the substitution आ (*ā*) for the root. By the accent of the suffix the final-acute accent results. ॥ ೦ ॥ *[as supplied]*
+*[Stray line as supplied: This image contains no text. It is a decorative graphic design consisting of swirls and floral elements.]*
+
+### Printed p. 236
+*Running head: 236 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩.] (as supplied).*
+
+#### Ṛk 2
+**॥ संहितापाठः ॥**
+> य॒मेन॑ द॒त्तं त्रि॒त ए॑नमायुन॒गिंद्र॑ एणं प्रथ॒मो अध्य॑तिष्ठत् ।
+> गं॒ध॒र्वो अ॑स्य रश॒नाम॑गृभ्णा॒त्सूरा॒दश्वं॑ वसवो॒ निर॑तष्ट ॥२॥
+*[As supplied, a garbled label: "ಹಡಪಾರು" (the script read it as the heading Pada-pāṭha).]*
+**॥ पदपाठः ॥**
+> यमेन । दत्तं । त्रितः । एनं । अयुनक् । इंद्रः । एनं । प्रथमः । अधि । अतिष्ठत् ।
+> गंधर्वः । अस्य । रशनां । अगृभ्णात् । सूरात् । अश्वं । वसवः । निः । अतष्ट ॥ २ ॥
+*[As supplied, a garbled label: "ಶಾಯಣಭಾಷ್ಯಂ" (the script read it as the heading Sāyaṇa-bhāṣya).]*
+**॥ सायणभाष्यम् ॥**
+> यमेन नियामकेनाग्नि ना दत्तमेनमश्वं त्रितः पृथिव्यादिषु त्रिषु स्थानेषु
+> वर्तमान स्तीर्णतमो वा वायुरयनक् । रथे योजितवान् । किंचैनमश्वमिंद्रः
+> प्रथमः प्रतमः प्रकृष्टतमः । प्रथम इति मुख्यनाम । अध्यतिष्ठत् । अधिष्ठितवान् ।
+> अस्य गंधर्वः सोमः । सोमेन समया विपृक्त इति वक्षमाणत्वात् । स चास्याश्वस्य
+> रशनां नियमनरज्जु मगृभ्णात् । अग्रहीत् । ईवृशोऽश्वः कुतः समुत्पन्न इति चेत्
+> उच्यते । हे वसवो रश्मयः यूयं सूरादादित्यादश्वमेवंमहानुभावं निरतष्ट ।
+> निश्शेषेण साधु संपादितवंतः । यद्वा । वसुशब्देनोक्ता एव यमादयः परामृश्यंते । हे वसवः स्वस्वव्यापारेण सर्वस्याच्छादयितारः यूयं सूरादादित्यादश्वमेनं निरतष्ट । अतक्षत । निरित्येष समित्येतस्य स्थाने । तक्षतिः करोटिकर्मा । स च
+> क्रियासामान्यवचनः । अत्रौचित्याद्धारणे वर्तते । सम्यग्धारितवंत इत्यर्थः ॥ तक्षेर्लजि छांदसः शपो लुक् । स्कोः संयोगाद्योरिति कलोपः ॥
+*[As supplied, a garbled label: "೧ ಪ್ರತಿಪದಾರ್ಥ ೧" (the script read it as the heading Pratipadārtha).]*
+*Gist:* Yama (the controlling Agni) gave the horse; Trita (the wind) yoked it; Indra mounted it; Gandharva (Soma) held the rein; the Vasus (rays) fashioned it from the Sun.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+यमेन (*yamena*)—by Yama; दत्तं (*dattaṃ*)—given; एनं (*enaṃ*)—this horse; त्रितः (*tritaḥ*)—the wind that moves in the three places beginning with the earth *[printed ಪ್ರಥಿವ್ಯಾದಿ, as supplied]*; आयुनक् (*āyunak*)—harnessed to the car; एनं (*enaṃ*)—this horse; प्रथमः (*prathamaḥ*)—the excellent; इंद्रः (*iṃdraḥ*)—Indra; अध्यतिष्ठत् (*adhyatiṣṭhat*)—mounted and sat; गंधर्वः (*gaṃdharvaḥ*)—King Soma; अस्य (*asya*)—of this horse; रशनां (*raśanāṃ*)—the bridle; अगृभ्णात् (*agṛbhṇāt*)—held; वसवः (*vasavaḥ*)—the rays of the Sun, or Yama and the others; अश्वं (*aśvaṃ*)—this horse; सूरात् (*sūrāt*)—from the Sun; निरतष्ट (*nirataṣṭa*)—produced.
+
+### Printed p. 237
+*Running head: [ಆ. ೨. ಅ. ೩. ವ. ೧೧ ] Ṛgveda-saṃhitā 237 (as supplied; "ಆ." where "ಅ." is usual).*
+
+**भावार्थ (Bhāvārtha)**
+This horse, given by Yama, was harnessed to the car by the wind that moves in the three places beginning with the earth. The excellent Indra mounted and sat on this horse. King Soma held the bridle of this horse. The rays of the Sun, or Yama and the others, produced this horse from the Sun.
+
+**Printed English**
+Trita harnessed the horse which was given by Yama: Indra first mounted him, and Gandharva seized his reins. Vasus, you fabricated the horse from the sun.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+This Ṛk makes known the relation of the sacrificial horse to Agni, and likewise to Indra and the others.
+
+यमेन दत्तं (*yamena dattaṃ*)—for this Sāyaṇa has explained the word *yama* as Agni: यमेन नियामकेन अग्निना (*yamena niyāmakena agninā*), "by Yama, that is, the controlling Agni".
+
+यमो यच्छतीति सतः । अग्निरपि यम उच्यते (*yamo yacchatīti sataḥ | agnirapi yama ucyate*)
+(Ni. 10-19)
+
+The authors of the Nirukta say that Agni also has the name Yama because he has the power to restrain.
+
+यमो ह जातो यमो जनित्वं जारः कनीनां पतिर्जनीनां (*yamo ha jāto yamo janitvaṃ jāraḥ kanīnāṃ patirjanīnāṃ*)
+(Ṛ. Saṃ. 1-66-8)
+
+Citing this Ṛk, they have shown that there the word *yama* is a synonym of Agni. Sāyaṇa has given two kinds of meaning for this word in the Ṛk cited. यच्छति ददाति स्तोतृभ्यः कामानिति यमोऽग्नि रुच्यते (*yacchati dadāti stotṛbhyaḥ kāmāniti yamo 'gni rucyate*): Agni gets the name Yama because he gives the desired objects to the devotees—this is one explanation; or इंद्राग्न्यूर्युगपदुत्पन्न त्पादग्नेयमत्तं (*iṃdrāgnyūryugapadutpanna tpādagneyamattaṃ*) *[as supplied]*: because Indra and Agni were born together, Agni gets the name Yama—this is the other explanation. The statement of the authors of the Nirukta, यमो ह जात इंद्रेण सह संगतः (*yamo ha jāta iṃdreṇa saha saṃgataḥ*), supports this second meaning. Besides this,
+
+बळित्था महिमा वामिंद्राग्नी पनिष्ठ आ । समानो वां जनिता भ्रातरा युवं यमाविहेहमातरा (*baḷitthā mahimā vāmiṃdrāgnī paniṣṭha ā | samāno vāṃ janitā bhrātarā yuvaṃ yamāvihehamātarā*)
+(Ṛ. Saṃ. 6-59-2)
+
+### Printed p. 238
+*Running head: 238 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+in this, since युवं यमौ (*yuvaṃ yamau*) ("you two are twins") states the simultaneous birth of Indra and Agni, the second meaning also may be asserted.
+
+Here it is hard to find proper authority to say precisely what the context is for such descriptions as "given by Yama" and "mounted by Indra". Sāyaṇa too has taken pains to explain this Ṛk. First he gives the meaning stated above in the Pratipadārtha, and afterwards यद्वा वसुशब्देनोक्ता एव यमादयः प्रतिपद्यंते । हे वसवः स्वस्वव्यापारेण सर्वस्याच्छादयितारः यूयं सूरादादित्यात् अश्वं अतक्षत (*yadvā vasuśabdenoktā eva yamādayaḥ pratipadyaṃte | he vasavaḥ svasvavyāpāreṇa sarvasyācchādayitāraḥ yūyaṃ sūrādādityāt aśvaṃ atakṣata*). "O Vasus (that is, Yama and the others mentioned in the Ṛk), you, each by your own activity pervading everything, fashioned the horse from the Sun and impelled it for the sacrifice": he has shown that this meaning also exists.
+
+This context is described in subtle form in the Śatapatha in this way:
+
+युंजंति ब्रध्नमरुषं चरंतमिति । असौ वा आदित्यो ब्रध्नोऽरुषोऽमुमेवात्मा आदित्यं युनक्ति स्वर्गस्य लोकस्य समष्टैः (*yuṃjaṃti bradhnamaruṣaṃ caraṃtamiti | asau vā ādityo bradhno 'ruṣo 'mumevātmā ādityaṃ yunakti svargasya lokasya samaṣṭaiḥ*)
+(Śa. Brā. 13-2-6-1)
+
+For the attainment of the world of heaven they yoke the ruddy (red-coloured) horse. The Sun himself is this horse.
+
+तदाहुः । पराज् वा एतस्माद्यज्ञ एति यस्य पशुरुपा कृतोऽन्यत्र वेदेगेतीत्येतग्ग स्तोतरनेन पथा पुनरश्वमावर्तयासि न इति वायुवै स्तोता तमेवास्मा एतत्परस्ताद्वधाति तथा नात्येति (*tadāhuḥ | parāj vā etasmādyajña eti yasya paśurupā kṛto 'nyatra vedegetītyetagga stotaranena pathā punaraśvamāvartayāsi na iti vāyuvai stotā tamevāsmā etatparastādvadhāti tathā nātyeti*)
+(Śa. Brā. 13-2-6-2)
+
+If the horse is outside the altar, the sacrifice also (the horse) is not within the altar; therefore, "O praiser, make the horse stay in its appointed place" is the prayer. The wind is this praiser. As soon as he is prayed to, the wind makes the horse stay in its appointed place; he restrains its movement.
+
+वसवस्तांजंतु गायत्रेण छंदसा (*vasavastāṃjaṃtu gāyatreṇa chaṃdasā*) and so on: thus the chief queen praises the horse. Although in this description the situation described in the present Ṛk is not suggested from the point of view of a narrative, there is an account of how the wind and the others make the sacrificial horse fit for sacrifice. This very matter is stated in the Taittirīya Saṃhitā:
+
+क्रम्येरत्यक्रमीद्वाजी विश्वैर्देव्येयज्ञॆय्सस्संविदानः (*kramyeratyakramīdvājī viśvairdevyeyajñèysassaṃvidānaḥ*) *[as supplied]*
+(Tai. Saṃ. 5-7-24)
+
+### Printed p. 239
+*Running head: [ಅ. ೨ .ಅ. ೩. ವ. ೧೧.] Ṛgveda-saṃhitā 239 (as supplied).*
+
+For this sentence it is explained: विश्वैर्देवैः यज्ञियैः यज्ञार्हैः संविदानः ऐकमत्यं गतः (*viśvairdevaiḥ yajñiyaiḥ yajñārhaiḥ saṃvidānaḥ aikamatyaṃ gataḥ*), "in agreement with all the gods worthy of sacrifice"; that is, it is shown as one with the Viśvedevas, which means that all their portions were contained in the horse. This very matter is described thus:
+
+द्यास्ते पृष्ठं पृथिवी सधस्थमात्मांतरिक्षग्ं समुद्रो योनिस्सूर्यस्ते चक्षुर्वातः प्राणश्चंद्रमाश्क्रोत्रं (*dyāste pṛṣṭhaṃ pṛthivī sadhasthamātmāṃtarikṣagṃ samudro yonissūryaste cakṣurvātaḥ prāṇaścaṃdramāśkrotraṃ*)
+(Kṛ. Saṃ. 5-8.25) *[reference as supplied]*
+
+and so on.
+
+त्रितः—पृथिव्यादित्रिषु स्थानेषु वर्तमानः तीर्णतमो ना वायुः (*tritaḥ—pṛthivyāditriṣu sthāneṣu vartamānaḥ tīrṇatamo nā vāyuḥ*) *[as supplied]*: it is explained that this name is well known either because he is present in the three places beginning with the earth, or because he is exceedingly swift. This epithet also makes known the nature of Indra. The authors of the Nirukta, in explaining the word *trita* in the Ṛk
+
+पितुं नु स्तोषं महो धर्माणं तविषीं । यस्य त्रितो व्योजसा वृत्तं विपर्वमर्दयत् (*pituṃ nu stoṣaṃ maho dharmāṇaṃ taviṣīṃ | yasya trito vyojasā vṛttaṃ viparvamardayat*)
+(Ṛ. Saṃ. 1-187-1)
+
+have given the meaning ओजसा बलेन त्रितः त्रिस्थान इंद्रः (*ojasā balena tritaḥ tristhāna iṃdraḥ*), "by *ojas*, that is, strength; Trita, Indra of three places". There are contexts which state the identity of Indra and the wind. But since in the present Ṛk the name of Indra is clearly stated again, here it must be understood as the wind.
+
+वसवः (*vasavaḥ*)—for this word one meaning is given as the gods beginning with Yama (Agni and the rest), and another meaning as the rays of the Sun. The authors of the Nirukta give this etymology of the word:
+
+वसवो यद्विवसते सर्वमग्निर्वसुभिर्वासव इति समाख्या, तस्मात्पृथिवीस्थानाः । इंद्रो वसुभिर्वासव इति समाख्या, तस्मान्मध्यस्थानाः । वसव आदित्यरश्मयो विवासनात्तस्माद्दुस्थानाः (*vasavo yadvivasate sarvamagnirvasubhirvāsava iti samākhyā, tasmātpṛthivīsthānāḥ | iṃdro vasubhirvāsava iti samākhyā, tasmānmadhyasthānāḥ | vasava ādityaraśmayo vivāsanāttasmāddusthānāḥ*)
+*[reference as supplied: "೨ ೧೨-೪೧"]*
+
+Because he envelops everything like a covering, Agni has the name *vāsava*; therefore it may be the name of a deity of the earth-region. Because Indra has the same quality, Indra also has the name *vāsava*; therefore it may be the name of a deity of the middle region. Because they shine exceedingly, the rays of the Sun also are called *vasus*; therefore it may be the name of a deity of the heaven-region. Having thus shown the extended meaning of this word, in support of this:
+
+स्वगा वो देवास्सदनमकर्म य आजग्म सवनेदं जुषाणाः । जक्षिवाग्ंसः पपिवाग्ंसश्च विश्वेस्मे धत्त वसवो वसूनि (*svagā vo devāssadanamakarma ya ājagma savanedaṃ juṣāṇāḥ | jakṣivāgṃsaḥ papivāgṃsaśca viśvesme dhatta vasavo vasūni*)
+(Tai. Saṃ. 1-4-44-2)
+
+### Printed p. 240
+*Running head: 240 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+citing this sentence, he has shown there the extended meaning that belongs to the word *vasu*. In the present Ṛk also Sāyaṇa has stated a purport of the same kind. Therefore it may also be said that the sacrificial horse exerted its influence in all three worlds and helped the affairs of the three worlds. The same idea is suggested in the Taittirīya Saṃhitā also by other sentences:
+
+आक्रान्वाजी पृथिवीमग्निं युजमकृत वाज्यर्वाक्रान् वाज्यंतरिक्षं वायुं युजमकृत वाज्यर्वा द्यां वाज्याक्रग्गस्त सूर्यं युजमकृत वाज्यर्वाग्निस्ते वाजिन् युज्जनु त्वारभे स्वस्ति मा सं पारय वायुस्ते वाजिन् युज्जनु त्वारभे स्वस्तिमा सं पारय (*ākrānvājī pṛthivīmagniṃ yujamakṛta vājyarvākrān vājyaṃtarikṣaṃ vāyuṃ yujamakṛta vājyarvā dyāṃ vājyākraggasta sūryaṃ yujamakṛta vājyarvāgniste vājin yujjanu tvārabhe svasti mā saṃ pāraya vāyuste vājin yujjanu tvārabhe svastimā saṃ pāraya*)
+(Tai. Saṃ. 7-5-19)
+
+Since this idea is suggested in the next Ṛk also, the meaning of these Saṃhitā sentences will be explained in the next Ṛk.
+
+*Grammar (transcribed, not explained):*
+
+दत्तम् (*dattam*)—the root डुदाञ् दाने (*ḍudāñ dāne*) (in the sense of giving). By निष्ठा (*niṣṭhā*) the suffix क्त (*kta*). By दोदद्घोः (*dodadghoḥ*) (Pā. Sū. 7-4-46) the substitute दत् (*dat*) for the root. By खरि च (*khari ca*) the change to च (*ca*)-class (*cartva*). By the accent of the suffix the final-acute accent results.
+
+अयुनक् (*ayunak*)—the root युजिर् योगे (*yujir yoge*) (in the sense of joining). *Laṅ*, third person singular, the suffix तिप् (*tip*). By इतश्च (*itaśca*) elision of its इ (*i*). By रुधादिभ्यः श्नम् (*rudhādibhyaḥ śnam*) (Pā. Sū. 3-1-78) the vikaraṇa श्नम् (*śnam*). Because it is म् (*m*)-marked it comes after the last vowel. By the sūtra हल्ज्याभ्योदी (*haljyābhyodī*) elision of the suffix. By चोःकुः (*coḥkuḥ*) the change of च (*ca*) to a velar (*kutva*). By the sūtra वावसाने (*vāvasāne*) the change to च (*ca*)-class (*cartva*). The augment the past-tense augment for the stem. Because it stands after a non-verb, the *nighāta* accent results.
+
+अतिष्ठत् (*atiṣṭhat*)—the root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*) (in the sense of cessation of motion). *Laṅ*, a form ending in the third person singular. The *tiṅanta* *nighāta* accent results.
+
+रशनाम् (*raśanām*)—the root अशू व्याप्तौ (*aśū vyāptau*) (in the sense of pervading). By अशेरच (*aśeraca*) (U. Sū. 2-233) the suffix युच् (*yuc*). The substitute आश (*āśa*) for the stem. By युवोरनाकौ (*yuvoranākau*) (Pā. Sū. 7-1-1) the substitute अन (*ana*); because it is च् (*c*)-marked, the final-acute accent results.
+
+अगृभ्नात् (*agṛbhnāt*)—the root ग्रह उपादाने (*graha upādāne*) (in the sense of taking), *krayādi* class. A form of the third person singular. By *hṛgrahor bha chandasi* (the sūtra is split across lines in the print) the change of ह (*ha*) to भ (*bha*). The *tiṅanta* *nighāta* accent results. *[The Grammar continues on the next page.]*
+
 ---
 
-**Progress note:** Done through printed p. 234. Vol 12 pp. 229-234: end of Rk 22 special topics and grammar; Sukta 163 introduction; Rk 1 with special topics (horse origin, Varuna)
+**Progress note:** Done through printed p. 240. Vol 12 pp. 235-240: grammar of Rk 1; Sukta 163 Rk 2 (Yama, Trita, Vasus) with Sayana, special topics, start of grammar
