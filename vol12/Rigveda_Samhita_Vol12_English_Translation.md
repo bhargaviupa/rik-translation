@@ -13019,6 +13019,144 @@ Since Prakṛti, which has these three qualities, pervades all places, all times
 
 In such a Prakṛti the great principle called Buddhi arises. Here the usage is that transformation itself is origination. In that ocean called Buddhi, the third principle called Ahaṃkāra emerges like bubbles. It is of three kinds: sāttvika, rājasa and tāmasa. From the sāttvika Ahaṃkāra the eleven senses (including the mind) arise; from the tāmasa Ahaṃkāra the five tanmātras, which are the subtle states of the five elements, arise. The rājasa Ahaṃkāra is a helper to the sāttvika and tāmasa Ahaṃkāras. From the five tanmātras the five great elements, ākāśa, air, fire, water and earth, arise. The eighteen principles, from Buddhi up to the tanmātras, have to form the subtle body (*liṅga-śarīra*) of every living being.
 
+### Printed p. 541
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 21] Ṛgveda-saṃhitā 541 (as supplied).*
+
+The Puruṣa (Ātman) is a thing different from this Prakṛti. In it there is no quality of any kind and no fault either; no power and no capacity either. It is like a pure mirror. It is without modification. He is *kūṭastha* (the unchanging one). It is also named "the thing that has no superior" (*niratiśaya*). Such individual selves, called powers of consciousness (*citi-śakti*), are innumerable. This is a brief exposition of the Sāṅkhya principles.
+
+For the explanation of Sāyaṇa in the present Ṛk, प्रपंचरूपेण परिणामादर्धगर्भाः (*prapaṃcarūpeṇa pariṇāmādardhagarbhāḥ*) *[as supplied: the bhāṣya block reads prapañcākāreṇa here]*, it is difficult to grasp the meaning. In this explanation the order of creation stated in the Sāṅkhya view is also hidden. Sāyaṇa has indicated that it should be designated by the word "transformation" (*pariṇāma*); that point has been stated above also. Although in the present context we ourselves, for the sake of usage, use the word "creation", this convention must not be forgotten. In the Sāṅkhya view the nature of creation is explained thus: Prakṛti, being insentient, stands without the power of will in the position of the blind; Puruṣa, without the power of action, stands in the position of the lame (*paṅgu*); and by the maxim of the blind and the lame all activities such as creation go on. The maxim of the blind and the lame is this: just as, in a great forest, a lame man and a blind man join together, the lame man sits on the blind man and shows the way, the blind man walks, and so they arrive at a village, so, knowing the nature of Prakṛti and Puruṣa, no other Puruṣottama is needed as an impeller of them. In this context there is room for a philosophical discussion on the subject of *puruṣārtha* and *parārtha*. Since, in explaining the present Ṛk, that discussion is not directly connected with us, it has not been set out here, although it concerns the main subject.
+
+Of the total twenty-five principles stated above, Sāyaṇa has indicated only these seven: Mahat, Ahaṃkāra and the five पंचशत्मात्र (*paṃcaśatmātra*) *[as supplied: printed so]*. And for the word विष्णोः (*viṣṇoḥ*) he has taken the meaning व्याप्तस्य पुरुषस्य (*vyāptasya puruṣasya*), "the all-pervading Puruṣa", and for विधर्मणि (*vidharmaṇi*) "the activity that consists in sustaining the world". This becomes the opinion of the Vedānta school, which accepts God (*seśvara-vādin*), and not the opinion of the Sāṅkhya school, which is godless (*nirīśvara-vādin*). But does it follow that Sāyaṇa's explanation is unscientific (*aśāstrīya*)? It never does. If it is asked whether there is the support of Śruti for it, one can cite them in plenty. In the Upaniṣads the order of creation of the universe is explained by the very procedures of the godless Sāṅkhya view, and the sportive activity (*līlā-vyāpāra*) of the Puruṣottama, taught in the theistic Vedānta, is also stated; therefore the appropriateness of Sāyaṇa's bhāṣya can be stated on the basis of those Śruti sentences. In the Upaniṣadic sentences that form the basis of the exposition of the Sāṅkhya principles, the description of the nature of Prakṛti and Puruṣa is as follows. In the Kaṭha Upaniṣad,
+
+इंद्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः । मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान् परः ॥ (*iṃdriyebhyaḥ parā hyarthā arthebhyaśca paraṃ manaḥ | manasastu parā buddhirbuddherātmā mahān paraḥ ‖*)
+
+### Printed p. 542
+*Running head: 542 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied; "ಆ." is printed for the Anuvāka abbreviation).*
+
+महतः परमव्यक्तमव्यक्तात्पुरुषः परः । पुरुषान्न परं किंचित्सा काष्ठा सा परा गतिः ॥ (*mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ | puruṣānna paraṃ kiṃcitsā kāṣṭhā sā parā gatiḥ ‖*)
+(Kaṭha. U. 1-3-10, 11)
+
+Higher than the senses are the objects. Higher than the objects is the mind. Higher than the mind is the intellect. Higher than the intellect is the Ātman called Mahān. Higher than Mahat is the Avyakta. Higher than the Avyakta is the Puruṣa. Higher than the Puruṣa there is nothing. This is the end. This is the highest goal—so it is said. This very thing, in the Muṇḍaka Upaniṣad:
+
+तपसा चीयते ब्रह्म ततोऽन्न मभिजायते । अन्नात्प्राणो मनः सत्यं लोकाः कर्मसु चामृतं ॥ (*tapasā cīyate brahma tato 'nna mabhijāyate | annātprāṇo manaḥ satyaṃ lokāḥ karmasu cāmṛtaṃ ‖*)
+(Mu. U. 1-8)
+
+Here Śaṅkarācārya has taken the word *anna* to mean *avyākṛta* (the undifferentiated). The principle that Sāyaṇa calls the five *tanmātras* in the present Ṛk is explained in the Praśna Upaniṣad in the mantra “ पृथिवीं च पृथिवीमात्रा च (*pṛthivīṃ ca pṛthivīmātrā ca*) .... .... .... .... ” *[the ellipsis is as printed]*.
+
+But even though the Sāṅkhya procedure of Prakṛti, Avyakta, Mahat and so on is present in the Upaniṣad also, here Prakṛti is not regarded as an independent and separate principle. All the dealings of Prakṛti are subject to Īśvara; this Īśvara is called the Supreme Puruṣa. It is the view of the Upaniṣad that insentient Prakṛti has no power of action.
+
+" The Upanishads protest against the transfer of creative functions to mere matter divorced from God. Their main tendency is to support the hypothesis of an absolute spirit on the background of which subject and object arise."
+(S. Radhakrishnan's Indian philosophy. Vol. I. p. 250).
+
+This subjection of Prakṛti to Īśvara is described in detail in the Śvetāśvatara Upaniṣad.
+
+प्रधानक्षेत्रज्ञपतिगुणेशः । (*pradhānakṣetrajñapatiguṇeśaḥ |*)
+(Prai. U. 6-16) *[as supplied: the abbreviation is kept as printed.]*
+
+यस्तूर्णनाभ इव तंतुभिः प्रधानजैः स्वभावतो देव एकः समावृणोत् । (*yastūrṇanābha iva taṃtubhiḥ pradhānajaiḥ svabhāvato deva ekaḥ samāvṛṇot |*)
+(Kveṃ. U. 6-10) *[as supplied: the abbreviation is kept as printed.]*
+
+Just as the *ūrṇanābha* (spider) makes its web out of the thread that is in its own belly, so Īśvara, the lord of Prakṛti named Pradhāna, creates the universe through the three qualities born of Prakṛti and manifests himself through the universe, which has the form of an effect.
+
+### Printed p. 543
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 21] Ṛgveda-saṃhitā 543 (as supplied; a stray full stop is printed before the figure 3).*
+
+मायां तु प्रकृतिं विद्वि मायिनं तु महेश्वरं । (*māyāṃ tu prakṛtiṃ vidvi māyinaṃ tu maheśvaraṃ |*)
+(Śve. U. 6-10)
+
+अस्मान्मायी सृजते विश्वमेतत्तस्मिंश्चान्यो मायया संनिरुद्धः । (*asmānmāyī sṛjate viśvametattasmiṃścānyo māyayā saṃniruddhaḥ |*)
+(Śve. U. 6-9)
+
+In sentences of this kind it is described that Prakṛti is only the *māyā-śakti* of Īśvara, and that this Īśvara, who possesses this power, created the universe. The relation between this Īśvara and Prakṛti is shown in the present Ṛk as the relation of the served and the servant. In sentences such as ' तिष्ठंति प्रदिशा विधर्मणि (*tiṣṭhaṃti pradiśā vidharmaṇi*) ' and ' धीतिभिः मनसा परि भवंति (*dhītibhiḥ manasā pari bhavaṃti*) ' it is described that, in the regions indicated by this Supreme Puruṣa, who is all-pervading and the lord of all, the parts of Prakṛti stand surrounding him, performing each its own appointed duties. The relation indicated here is portrayed in the Sāṅkhya-kārikā as follows.
+
+रंगस्य दर्शयित्वा निवर्तते नर्तकी यथा नृत्यात् । पुरुषस्य तथात्मानं प्रकाश्य विनिवर्तते प्रकृतिः ॥ (*raṃgasya darśayitvā nivartate nartakī yathā nṛtyāt | puruṣasya tathātmānaṃ prakāśya vinivartate prakṛtiḥ ‖*)
+(Sāṅkhya-kārikā 5)
+(Sāṅkhya-kārikā 59)
+*[as supplied: two reference lines are printed, "5" and "59".]*
+
+Here Puruṣa is masculine, Buddhi feminine. If this relation of Buddhi and Puruṣa is looked at from the standpoint of husband and wife, Buddhi, assuming full authority, conducting all activities through all the retinue that is under her hand, always looking to the pleasure of Puruṣa, toils for his enjoyment; just as on the stage a dancer shows her skill through varied costumes, the whole dance of Buddhi is for the sake of Puruṣa.
+
+Or, looking at the Sāṅkhya philosophy from the standpoint of the world, the rule of a king can be understood as an illustration of it. How? From the meaning of the word *puruṣa* as पुरिशयन (*puriśayana*) ("lying in the city") a lord of a city appears. He, having handed over full authority to Buddhi, who stands in the position of minister, remains indifferent, the witness of all, the master of all enjoyment; since he does no work himself he is a non-agent (*akartā*), and since he joins with no one he is alone (*kevala*).
+
+The minister called Buddhi, who has all authority, being directly the doer of all actions, attaining every kind of *bhāva*, *siddhi* and *tuṣṭi*, reports all these to the king called Puruṣa. The twenty-two officers under his hand—their respective activities combining—though the activities to be done are endless, since they are carried on only by the power of the minister, he (the minister) is the chief (*pradhāna*).
+
+Although such a relation of the served and the servant is stated, according to the Sāṅkhya philosophy there is between Puruṣa and Prakṛti only a relation of worldly dealing, not a natural relation. Puruṣa is unattached.
+
+### Printed p. 544
+*Running head: 544 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied).*
+
+There is no action in him. All action belongs to Prakṛti. But according to the explanation of the present Ṛk, since Prakṛti itself is a part of the Supreme Puruṣa, all the transformations of Prakṛti are understood to be the act of will of Īśvara. Through these actions in the form of transformation, Īśvara may remain far from the experiences of pleasure, pain and the like. But it is understood that he is active, that Prakṛti is a part of him, and that the root principle is Īśvara alone: “ कारणभूतानि तान्वेव विष्णोर्व्याप्तस्य पुरुषस्य प्रदेशेन तिष्ठंति (*kāraṇabhūtāni tānveva viṣṇorvyāptasya puruṣasya pradeśena tiṣṭhaṃti*) ” *[as supplied: the bhāṣya block reads tānyāva here]*. Although they are the causes of worldly dealings, the Mahat and Ahaṃkāra, the tanmātras, and the Pradhāna that is the root of them all—all of them remain subject to Īśvara and fulfil their duty in their own appointed regions.
+
+*Grammar (transcribed, not explained):*
+अर्धगर्भा (*ardhagarbhā*)—by समासस्य (*samāsasya*) (Pā. Sū. 6-1-23) the final-acute accent comes.
+विष्णोः (*viṣṇoḥ*)—root विषल्य व्याप्त् (*viṣalya vyāpt*) *[as supplied]*; by विषेः किच्च (*viṣeḥ kicca*) (Pā. Sū. 3-319) the suffix ṇi; since *kittva* has been prescribed, the guṇa of the light penultimate does not come; because of the *ca*, *nittva* is also carried over, so the initial-acute accent comes.
+तिष्ठंति (*tiṣṭhaṃti*)—root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); the form ending in the laṭ third person plural; the तिजंतनिघात (*tijaṃtanighāta*) accent comes.
+प्रदिशा (*pradiśā*)—root दिश अतिसर्जने (*diśa atisarjane*); suffix kvip; by गतिकारकोपपदात् (*gatikārakopapadāt*) कृत् (*kṛt*) the prakṛti-accent of the word that follows the kṛt comes; the form ending in the instrumental singular.
+धीतिभिः (*dhītibhiḥ*)—root डुधाण् धारणपोषणयोः (*ḍudhāṇ dhāraṇapoṣaṇayoḥ*); by क्तिच्क्तौचसुंज्ञायाम् (*kticktaucasuṃjñāyām*) (Pā. Sū. 3-3-174) the suffix ktic; by घुमास्थागा (*ghumāsthāgā*) (Pā. Sū. 6-4-66) *ī* for the root; by चितः (*citaḥ*) the final-acute accent comes.
+परिभुवः (*paribhuvaḥ*)—root भू सत्तायां (*bhū sattāyāṃ*); suffix kvip; when it is a *prādi*-compound the prakṛti-accent of the word following the kṛt (as printed कृदुत्तदपद (*kṛduttadapada*)) comes.
+विश्वतः (*viśvataḥ*)—after the word *viśva*, in the sense of the second case, by *vyatyaya* the suffix tasil; by लिति (*liti*) (Pā. Sū. 6-1-193) the udātta accent comes before the suffix. ‖ 36 ‖
+*[as supplied: a stray line of two signs is printed after the grammar section.]*
+
+### Printed p. 545
+*Running head: [2. 2. Adhyāya 3, Varga 21] Ṛgveda-saṃhitā 545 (as supplied; the first abbreviation is missing and "2." is repeated).*
+
+#### Ṛk 37
+**॥ संहितापाठः ॥**
+> न वि जा॑नामि॒ यदि॑वे॒दमस्मि॑ नि॒ण्यः संन॑द्धो॒ मन॑सा चरामि ।
+> य॒दा माग॑न्प्रथम॒जा ऋ॒तस्यादिद्वा॒चो अ॑श्नुवे भा॒गम॒स्याः ॥ ३७ ॥
+
+> *na vi jānāmi yadivedamasmi niṇyaḥ saṃnaddho manasā carāmi |*
+> *yadā māganprathamajā ṛtasyādidvāco aśnuve bhāgamasyāḥ ‖ 37 ‖*
+*[as supplied: stray garbled label । पवहार । (*| pavahāra |*) printed before the Pada-pāṭha label.]*
+**॥ पदपाठः ॥**
+> न । वि । जानामि । यत् इव । इदं । अस्मि । निण्यः । संनद्धः । मनसा । चरामि ।
+> यदा । मा । आ । अगन् । प्रथमजाः । ऋतस्य । आत् । इत् । वाचः । अश्नुवे ।
+> भागं । अस्याः ॥ ३७ ॥
+**॥ सायणभाष्यम् ॥**
+> अहं यदिवेदं यदपीदं विश्वमस्मि । कृत्स्नः प्रपंचोऽप्यहमेवास्मि। नामरूपांशं परमार्थं त्यक्त्वा सर्वत्रानुगतोऽस्मि । योऽयं सच्चिदानंदाकारोऽस्ति
+> सोऽहमस्मीति न वि जानामि । विविच्य नाज्ञासिषं । परं शास्त्रजनितविदमहमस्मीति
+> ज्ञानं जातं । अविनेक्यहमित्यर्थः । कार्यकारणयोरभेदात् । कृत्सप्रपंचस्यापि ब्रह्मानन्यत्तेन ब्रह्मैकत्ावगमे प्रपंचजातमपि स्वस्वरूपमेव भवति । इदं
+> सर्वं यदयमात्मा ब्रह्मैवेदं सर्वं आत्मवेदं सर्वं स ईक्षत बहु स्यां
+> प्रजायेयेत्यादिश्रुतिभ्य एकविज्ञानेन सर्वविज्ञानप्रतिज्ञानात् । तदनव्यत्वमारंभणशब्दादिभ्यः । वेदां २. १. १४. । इत्याद्युपपत्तिभिश्च प्रपंचस्य ब्रह्मानन्यत्वं सिद्धं ।
+> यद्वा। इवशब्द उपमार्थः। यदिव यत्परोक्षज्ञानं सर्वैकात्मरूपमानुभाविकमस्ति तदिव तद्वदेवाहमस्मि । इदं सर्वमहमस्मीति ज्ञानं मे जातं। अपि त्वेतद्दार्ष्टांतिकभूतं । आनुभविकं सार्वात्मं यदस्ति तन्न वि जानामि । न प्राप्तोऽस्मि । शास्त्रजनितं सार्वात्मं जातं न त्वानुभाविकमित्यर्थः । तत्र कारणमाह । यतोऽहं
+> निण्यः । अंतर्हितनामैतत् । अंतर्हितो मूढचित्तः । चित्तप्रत्यक्रवणताभावेन परिछिन्न इत्यर्थः । तत्रोपपत्ति माह । संनद्योऽविद्या कामकर्मभिः सम्यग्बद्धो वेष्टितः
+> अत एव मनसा युक्तो भाविनासहिष्णुना बहिर्मुखेन विक्षिप्तदन चेतसा युक्तः
+> संचरामि संसारे । अथवा मनसा संनद्दश्चरामि । इंद्रियपरवश एव सन् संसारे
+> दुःखमनुभवामि । न सार्वात्मं जानामीति परिदेवते । यास्कोऽपीमं परिदेवनार्थत्वेनोदाजहार । अथापि परिदेवना कस्माच्चिद्भावात् न वि जानामि यदिवेद-
+
+> *ahaṃ yadivedaṃ yadapīdaṃ viśvamasmi | kṛtsnaḥ prapaṃco 'pyahamevāsmi| nāmarūpāṃśaṃ paramārthaṃ tyaktvā sarvatrānugato 'smi | yo 'yaṃ saccidānaṃdākāro 'sti*
+> *so 'hamasmīti na vi jānāmi | vivicya nājñāsiṣaṃ | paraṃ śāstrajanitavidamahamasmīti*
+> *jñānaṃ jātaṃ | avinekyahamityarthaḥ | kāryakāraṇayorabhedāt | kṛtsaprapaṃcasyāpi brahmānanyattena brahmaikatāvagame prapaṃcajātamapi svasvarūpameva bhavati | idaṃ*
+> *sarvaṃ yadayamātmā brahmaivedaṃ sarvaṃ ātmavedaṃ sarvaṃ sa īkṣata bahu syāṃ*
+> *prajāyeyetyādiśrutibhya ekavijñānena sarvavijñānapratijñānāt | tadanavyatvamāraṃbhaṇaśabdādibhyaḥ | vedāṃ 2. 1. 14. | ityādyupapattibhiśca prapaṃcasya brahmānanyatvaṃ siddhaṃ |*
+> *yadvā| ivaśabda upamārthaḥ| yadiva yatparokṣajñānaṃ sarvaikātmarūpamānubhāvikamasti tadiva tadvadevāhamasmi | idaṃ sarvamahamasmīti jñānaṃ me jātaṃ| api tvetaddārṣṭāṃtikabhūtaṃ | ānubhavikaṃ sārvātmaṃ yadasti tanna vi jānāmi | na prāpto 'smi | śāstrajanitaṃ sārvātmaṃ jātaṃ na tvānubhāvikamityarthaḥ | tatra kāraṇamāha | yato 'haṃ*
+> *niṇyaḥ | aṃtarhitanāmaitat | aṃtarhito mūḍhacittaḥ | cittapratyakravaṇatābhāvena parichinna ityarthaḥ | tatropapatti māha | saṃnadyo 'vidyā kāmakarmabhiḥ samyagbaddho veṣṭitaḥ*
+> *ata eva manasā yukto bhāvināsahiṣṇunā bahirmukhena vikṣiptadana cetasā yuktaḥ*
+> *saṃcarāmi saṃsāre | athavā manasā saṃnaddaścarāmi | iṃdriyaparavaśa eva san saṃsāre*
+> *duḥkhamanubhavāmi | na sārvātmaṃ jānāmīti paridevate | yāsko 'pīmaṃ paridevanārthatvenodājahāra | athāpi paridevanā kasmāccidbhāvāt na vi jānāmi yadiveda-*
+> [35] [Vol 12
+> [35]                                                                 [ Vol 12
+
+### Printed p. 546
+*Running head: 545 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied; the page number 545 is printed on p. 546).*
+
+[Continuing the bhāṣya of the previous page:]
+> मस्मि । नि. ७-३. । इति । बहिर्मुखचेतसः स्वरूपापरिज्ञानजनितं दुःखमन्यत्र
+> शूयते । परांचि खानि व्यतृणत्स्वयंभूस्तस्मात्पराज् पश्यति नांतरात्मन् । क. उ.
+> ४-१. । इति । तर्हि कदैतद्भवतीति आह । यदा मागन् आगमिष्यति तदा । किं तदिति
+> उच्यते । ऋतस्य परमार्थस्य परस्य ब्रह्मणः प्रथमजाः प्रथमोन्नेषः प्रथमोत्पनश्चित्तप्रत्यक्प्रवणजनितोऽनुभावः । स यदा मा मां प्राप्नोति आदिदनंतरमेवाव्यवधानेनास्या वाच ऐकात्मप्रतिपादिकाया उपनिषद्वाचो यदिवेदमस्मित्युक्ताया
+> वा भागं भजनीयं शब्दब्रह्मणा व्याप्तव्यं परं ब्रह्मपदमश्नुवे । प्राप्नोमि ।
+> चित्तस्य बहिर्मुखतां परित्यज्यांतर्मुखतैवादुःसंपादा । सा यदा स्यात् तदानीमेव स्वरूपं द्रष्टुं सुशकं भवति । पश्चाद्विलंबाभावात् यथा गिरिशिखरात्पतन्
+> पाषाणोऽविलंबेन पतति तद्वत् । चित्तप्रत्यङ्मुखत्वस्य दुःशकत्वमपि तत्रैव रूयते।
+> कश्चित्दीरः प्रत्यगात्मानमैच्छदावृत्तचक्षुरमृतत्वमिच्छन्निति ॥
+*Gist:* The speaker, not having realised his identity with the all-pervading Brahman, wanders bound by ignorance; when true knowledge comes, he realises the Upaniṣadic word.
+**प्रतिपदार्थ (Pratipadārtha)**
+यदि वा इदं अस्मि (*yadi vā idaṃ asmi*)—the principle whether I myself may be this Brahman who pervades the whole universe; न विजानामि (*na vijānāmi*)—I have not considered and known; निण्यः (*niṇyaḥ*)—as one covered by ignorance; संनद्धः (*saṃnaddhaḥ*)—as one bound by objects and the like; मनसा (*manasā*)—as one having an outward-turned mind; चरामि (*carāmi*)—I am dealing; ऋतस्य (*ṛtasya*)—of the Parabrahman who is of the nature of truth; प्रथमजा (*prathamajā*)—true knowledge; यदा (*yadā*)—when; मागन् (*māgan*)—it is obtained; आदित् (*ādit*)—immediately; अस्या वाचः (*asyā vācaḥ*)—of the Upaniṣadic sentences that teach the principle ‘अहं ब्रह्मास्मि (*ahaṃ brahmāsmi*)’ [as supplied: the word पदेशिसुव (*padeśisuva*) is printed]; भागं (*bhāgaṃ*)—the part; अश्नुवे (*aśnuve*)—I experience (I realise directly).
+**भावार्थ (Bhāvārtha)**
+I have not considered and known the principle whether I myself may be this Brahman who pervades the whole universe. Therefore I am dealing as one covered by ignorance, bound by objects and the like, and having an outward-turned mind. Immediately when the true knowledge of the Parabrahman, who is of the nature of truth, is obtained, I shall realise the part of the Upaniṣadic sentences that teach the principle ' अहं ब्रह्मास्मि (*ahaṃ brahmāsmi*) '.
+**Printed English**
+I distinguish not if I am this all; for I go perplexed, and bound in mind ; when the first-born (perceptions) of the truth reach me, then liminedi- ately [sic] shall I obtain a portion (of the meaning) of that (sacred) word.
+
 ---
 
-**Progress note:** Done through printed p. 540. Rk 36 (seven rays, Visnu, Sankhya tattvas)
+**Progress note:** Done through printed p. 546. Special Topics on Sankhya and Vedanta (Rk 36 end), grammar, Rk 37 first part
