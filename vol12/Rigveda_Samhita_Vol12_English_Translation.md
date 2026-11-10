@@ -3719,6 +3719,83 @@ Here, indicating that same context, it is said that the Ṛbhus fully performed 
 > *vidhā naraḥ prakāśāvṛṣṭyu dakādernetāraḥ yūyamudvattūnnateṣu pradeśeṣu mervādiṣu tṛṇaṃ vrīhiyavādirūpamasyè prāṇijātāya tadupakārārthamakṛṇotana | kṛtavaṃtaḥ stha ‖ upasargācchaṃdasi dhātvartha iti vatiḥ ‖ tathā nivattu pravaṇadeśeśvasmā*
 > *evāpa udakānyakṛṇotana | akuruta | kiṃ svabhogārthaṃ netyāha | svapasyayā*
 
+### Printed p. 131
+
+*Running head: [ಅ. ಅ. ೩. ವ. ೬.] Ṛgveda-saṃhitā 131 (as supplied: "೨." is missing after "ಅ.").* (Ṛk 11: the Sāyaṇa-bhāṣya continues from the previous window.)
+
+**Sāyaṇa-bhāṣya (continued)**
+
+*[The continuation stood as plain lines in the supplied text and is made a block; the hyphenated line breaks are joined ("ಗೃಹೇ೦-ತರಿಕ್ಷೇ" is printed so).]*
+
+> शोभनकर्मेच्छया । शोभनं कर्मेच्छः कृतमिति यथा यजमानाः स्तुवंति तदिच्छयेत्यर्थः । किंच यूयमगोह्यस्याग्राह्यस्यादित्यस्य गृहे मंडले यद्यावत्कालमसस्तन सुप्तवंतः स्थ रात्रौ निर्वापारास्तिष्ठथ ॥ षस स्वप्ने । अस्माल्लुजि पूर्ववत्तस्य तनबादेशः । अदादित्वाच्छपो लुक् ॥ तत्तावंतं कालमद्याहनीदमिदानीं
+> नानु गच्छथ । अनुसृत्य न गच्छथ । यावंतं कालं रात्रौ सूर्यॆ निगूढा वर्तद्वे
+> तावंतमेव कालमहन्यपि नानुगच्छथेत्यर्थः । यद्वा । अगोपनीयस्य तस्य गृहे०तरिक्षे यद्यावंतं कालमसस्तन वृष्टिमदत्त्वा । स्वापमकुरुत तत्तावंतं कालमद्येदानीं वर्षसमय इदं सस्याभिवर्धनवृष्टिप्रवाहरूपं कर्म नानु गच्छथ । अनुसृत्य न प्राप्पुथ । यावतं कालं विवर्षथ तावंतमेव कालं प्रवर्षथेत्यर्थः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): the Ṛbhus raise grass on heights, waters in hollows; as they rested in the Sun's abode at night, they must not desist by day.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+नरः (*naraḥ*)—you leaders of all the rains and the like; ऋभवः (*ṛbhavaḥ*)—O Ṛbhus, who are most luminous and are in the form of rays of the sun, you; उदत्सु (*udatsu*) *[so printed, with a stray "!" after it]*—in high places; अस्मै (*asmai*)—for the benefit of the beings of this world; तृणं (*tṛṇaṃ*)—plants such as rice and barley; अकृणोतन (*akṛṇotana*)—you created; स्वपस्यया (*svapasyayā*)—for the assistance of excellent works; निवत्सु (*nivatsu*)—in low-lying places; अपः (*apaḥ*)—(you made) the waters (flow); अगोह्यस्य (*agohyasya*)—of the Sun, who cannot be hidden; गृहे (*gṛhe*)—in the dwelling; यत् (*yat*)—for how long (at night); असस्तन (*asastana*)—you rested; तत् (*tat*)—for that same time; इवं (*ivaṃ*) *[so printed]*—on this day too; नानुगच्छथ (*nānugacchatha*)—(leaving your duty) do not remain just there.
+
+**भावार्थ (Bhāvārtha)**
+
+O Ṛbhus, leaders of all the rains and the like, most luminous and in the form of the rays of the sun, you have created, for the benefit of the beings of this world, plants such as rice and barley. For the assistance of excellent works you have made the waters flow in low-lying places. For as long as you rested at night in the dwelling of the Sun, who cannot be hidden, for that long do not, on this day *[printed "ಹೆಗಲಿನಲ್ಲಿಯೂ", "on the shoulder", presumably for "ಹಗಲಿನಲ್ಲಿಯೂ"; kept as supplied]* too, leave your duty and remain just there.
+
+**Printed English translation**
+
+Ribhus, leaders (of the rains), you have caused the grass to grow upon the high places; you have caused the waters to flow over the low places; for (the promotion of) good works: as you have reposed for a while
+
+### Printed p. 132
+
+*Running head: 132 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೧.] (as supplied).*
+
+in the dwelling of the unapprehensible (Suu) [sic], so desist not to-day from (the discharge of) this (your function).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The glory of the Ṛbhus is to be seen from two points of view. First, after describing that the Ṛbhus, the sons of Sudhanvan, obtained divinity by their good works, it is said that the Ṛbhus who are in the form of the rays of the sun, well known in the Veda, are now praised. In the Purāṇa the Ṛbhu is called a mind-born son of Brahmā, and the Bhāgavata (4-8) says that he is one of these five: Sanaka, Sananda, Sanatkumāra, Sanatsujāta and Ṛbhu. Since Sāyaṇa says "well known in the Purāṇa", it is a matter that deserves examination.
+
+As said in the Nirukta sentence आदित्यरश्मयोऽप्यभव उच्यंते (*ādityaraśmayo 'pyabhava ucyaṃte*) (Ni. 11-16), Sāyaṇa has explained the ṛk by stating here the identity of the rays of the sun with the Ṛbhus.
+
+अगोह्यस्य—आगोह्य आदित्योऽगूहनीयः । (*agohyasya—āgohya ādityo 'gūhanīyaḥ |*) *[so printed, "ಆಗೋಹ್ಯ"]* This epithet, applied to the Sun, who cannot be covered, tells his nature. [In the ṛk 8-98-4 this epithet is, in the same sense, an epithet of the mountain.] *[bracketed as supplied]*
+
+ऋभवः (*ṛbhavaḥ*)—explaining the meaning of this word with the Nirukta derivation, the special character of this name was told earlier.
+
+उद्वत्सु निवत्सु—उन्नतेषु प्रदेशेषु, श्रवणदेशेषु (*udvatsu nivatsu—unnateṣu pradeśeṣu, śravaṇadeśeṣu*) *[so printed, "ಶ್ರವಣದೇಶೇಷು"; the bhāṣya block has "ಪ್ರವಣದೇಶೇ"]* means in high and low regions. The Nirukta authors have used the words प्रवत उद्धतो निवत इति (*pravata uddhato nivata iti*) as synonyms of gods, men and animals (Ni. 10.20, printed with a stop). Durgācārya explains it: उद्धतः- (*uddhataḥ-*) देवाः, प्रवतः-मनुष्याः (*devāḥ, pravataḥ-manuṣyāḥ*) and "nivataḥ" as animals. अवतिर्गतिकर्मा (*avatirgatikarmā*): derived from the root "ava", which indicates movement, "uddhata" is the name of those who move in the world of the gods, "pravata" of men and the like who move on the earth, and "nivata" of worms, insects and the like living very low down.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses उद्वत्सु (*udvatsu*) (Pā. Sū. 5-1-118), अकृणोतन (*akṛṇotana*) and, on p. 133, निवत्सु (*nivatsu*), स्वपस्यया (*svapasyayā*) (Pā. Sū. 3-1-8 and 3-3-102), अगोह्यस्य (*agohyasya*) (Pā. Sū. 6-2-2), असस्तन (*asastana*) (root षस (*ṣasa*); Pā. Sū. 7-1-45 and 2-4-72) and गच्छथ (*gacchatha*), with the accents; it ends with the mark ॥ ೧೧ ॥.
+
+### Printed p. 133
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೬. ] Ṛgveda-saṃhitā 133 (as supplied).* (The grammar of Ṛk 11 ends here with ॥ ೧೧ ॥.)
+
+#### Ṛk 12
+
+*[A picture (vol12/html/figures/fig1_line05934.jpg) stood at this place in the supplied text. I looked at it and zoomed in: it shows the label "ಸಂಹಿತಾಪಾಠಃ", the Saṃhitā, the label "ಪದಪಾಠಃ" and the Pada of this Ṛk, read letter by letter. The picture and the machine-read text agree except for two places in the Saṃhitā: the picture has "ಯದ್ಭುವನಾ" where the machine text had "ಯದ್ಭವನಾ", and "ಕರಸ್ನಂ ವ ಆದದೇ" (करस्नं व आददे (*karasnaṃ va ādade*)) where the machine text had "ಕರಸ್ನಂ ನ ಆದದೇ"; kn.md is changed after the picture (the Pada has "ವಃ"). The picture prints small hook marks in several Pada words ("ಸಂ·ಮೀಲ್ಯ", "ಪರ್ಯ·ಅಸರ್ಪತ", "ಆ·ದದೇ"), taken as the division sign and not transcribed, nor are the accent marks. Note for the editor: in the Pada of Ṛk 8 (previous batches) a similar sign was transcribed as the avagraha.]*
+
+**॥ संहितापाठः ॥**
+
+> सं॒मील्य॒ यद्भुव॑ना प॒र्यस॑र्पत॒ क्व॑ स्वित्ता॒त्या पि॒तरा॑ व
+> आसतुः ।
+> अश॑पत॒ यः क॒रस्नं॑ व आद॒दे यः प्राब्र॑वी॒त्प्रो तस्मा॑
+> अब्रवीतन ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> संमील्य । यत् । भुवना । परिअसर्पत । क्व । स्वित् । तात्या । पितरा । वः । आसतुः ।
+> अशपत । यः । करस्नं । वः । आददे । यः । प्र । आब्रवीत् । प्रो इति । तस्मै ।
+> अब्रवीतन ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The supplied text of the bhāṣya ends after two lines at the end of this window; the rest follows in the next window.]*
+
+> हे ऋभवो रश्मयः यूयं यद्यदा भुवना भूतजातानि संमील्य संमीलनं कृत्वा जलधरपटलैराच्छाद्य पर्यसर्पत परितः सर्पणं कुरुथ । वर्षथेत्यर्थः ।
+
+> *he ṛbhavo raśmayaḥ yūyaṃ yadyadā bhuvanā bhūtajātāni saṃmīlya saṃmīlanaṃ kṛtvā jaladharapaṭalairācchādya paryasarpata paritaḥ sarpaṇaṃ kurutha | varṣathetyarthaḥ |*
+
 ---
 
-**Progress note:** Done through printed p. 130 (PDF 130). Sūkta 161 Ṛk 10 Bhāvārtha, English, Special Topics, grammar; Ṛk 11 Saṃhitā, Pada, bhāṣya start
+**Progress note:** Done through printed p. 133 (PDF 133). Sūkta 161 Ṛk 11 bhāṣya end, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar; Ṛk 12 Saṃhitā/Pada (picture), bhāṣya start
