@@ -7614,6 +7614,143 @@ Aditi, desiring a son, cooked a Brahmaudana for the Sādhyas. After they had eat
 (Bṛ. U. 8-2-5) *[as supplied: so printed]*
 Prajāpati began to eat again, in the form of food, whatever he had himself created. That is his Aditi (the Infinite) nature. The whole universe is his food. As described in such sentences, the Lord who is the dissolver dissolves the whole universe again within himself; hence this epithet होतुः (*hotuḥ*).
 
+### Printed p. 297
+*Running head: [೨ ೨. ಅ. ೩. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 297] (as supplied).*
+
+(continuing Sāyaṇa's comment on the Ṛk 1 words, in the Kannada commentary)
+
+मध्यमो भ्राता तदंशभूतः सूत्रात्मा मध्यमः सर्वत्र मध्ये वर्तमानोऽस्ति जगद्धारकत्वेन वर्तते (*madhyamo bhrātā tadaṃśabhūtaḥ sūtrātmā madhyamaḥ sarvatra madhye vartamāno 'sti jagaddhārakatvena vartate*) The meaning is: the wind (Vāyu), who is part of Brahman and like a thread (sūtra) running through the middle of all the things of the world. This same Vāyu is अश्वः व्यापनशीलः (*aśvaḥ vyāpanaśīlaḥ*)—he is all-pervading.
+
+वायुना वै गौतम सूत्रेणायं च लोकः परश्च लोकः सर्वाणि च भूतानि संरब्धानि (*vāyunā vai gautama sūtreṇāyaṃ ca lokaḥ paraśca lokaḥ sarvāṇi ca bhūtāni saṃrabdhāni*)
+(Bṛ. U. 3-7-2)
+This world, the other world and all beings are bound to one another by the thread called Vāyu, and abide within one single principle.
+
+धृतपृष्ठः—धृतमित्युदकनाम । तेन तत्कार्यं शरीरमुच्यते । तदेव पृष्ठं स्पर्शकं (*dhṛtapṛṣṭhaḥ—dhṛtamityudakanāma | tena tatkāryaṃ śarīramucyate | tadeva pṛṣṭhaṃ sparśakaṃ*) Since it was created by himself, water itself became his bodily form. This body of water, having taken a third form in its manifestation and having his own portion, may be called तृतीयो भ्राता (*tṛtīyo bhrātā*) ("the third brother"). Or, if the word धृत (*dhṛta*) is given the meaning "blazing", the intention is that he becomes an object of heaven (svarga) in a luminous body, not as one with a subtle body, like Vāyu, the Sūtrātman who identifies himself with the body.
+
+विश्वतिं—विशां प्रजानां पतिं । उपलक्षणमेतत् । सर्वस्य पतिमित्यर्थः (*viśvatiṃ—viśāṃ prajānāṃ patiṃ | upalakṣaṇametat | sarvasya patimityarthaḥ*) This shows an extension of the meaning of the word: not merely lord of the human subjects, but lord of the whole universe.
+
+Since the Lord of the universal Self is praised as सर्वस्य पतिः सर्वस्य ईशानः (*sarvasya patiḥ sarvasya īśānaḥ*) (Sāyaṇa), here too the meaning is lord of the universe. All the śruti texts state this very point.
+
+यद्वैतमनुपश्यत्यात्मानं देवमंजसा । ईशानं भूतभव्यस्य न ततो विजुगुप्सते (*yadvaitamanupaśyatyātmānaṃ devamaṃjasā | īśānaṃ bhūtabhavyasya na tato vijugupsate*)
+(Bṛ. U. 4-4-15)
+It is established that when one has direct realisation of him as lord of the whole universe, as the Self of the universe and as God, his nearness is then obtained for ever.
+
+स वा एष महानज आत्मा योऽयं विज्ञानमयः प्राणेषु य एषोऽंतर्हृदय आकाशस्तस्मिञ्छेते सर्वस्य वशी सर्वस्येशानः सर्वस्याधिपतिः............ सर्वेश्वर एष भूताधिपतिरेष भूतपालः (*sa vā eṣa mahānaja ātmā yo 'yaṃ vijñānamayaḥ prāṇeṣu ya eṣo 'ṃtarhṛdaya ākāśastasmiñchete sarvasya vaśī sarvasyeśānaḥ sarvasyādhipatiḥ............ sarveśvara eṣa bhūtādhipatireṣa bhūtapālaḥ*) *[as supplied: the dotted ellipses inside the quotation are the print's own]*
+(Bṛ. U. 4-4-22)
+
+### Printed p. 298
+*Running head: 298 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಆ. ೨೨, ಸೂ. ೧೬೪] (as supplied).*
+
+This Supreme Self, of great nature, unborn, made of knowledge, is lord of all and the controller, and pervades the space of the heart of everyone. In many places the universal nature of the Lord is thus praised. In the Kaṭha Upaniṣad also, describing this point:
+
+य इमं मध्वदं वेद आत्मानं जीवमंतिकात् । ईशानं भूतभव्यस्य न ततो विजुगुप्सते (*ya imaṃ madhvadaṃ veda ātmānaṃ jīvamaṃtikāt | īśānaṃ bhūtabhavyasya na tato vijugupsate*)
+(कड. (*kaḍa.*) 4-5) *[as supplied: abbreviation ಕಡ.]*
+Sāyaṇa explains that the description of him as lord (īśāna) of the past and the future is what is said in the present Ṛk by the epithet विश्वतिं (*viśvatiṃ*).
+
+सप्तपुत्रं—सप्तपुत्रं सप्तलोकाः पुत्रा यस्य तादृशं (*saptaputraṃ—saptaputraṃ saptalokāḥ putrā yasya tādṛśaṃ*) Because he himself created the seven worlds beginning with Bhū, it gives the meaning "father of the universe, who has obtained seven sons". Sāyaṇa explains the same in his commentary as स्वमायया सृष्टसर्वलोकमित्यर्थः (*svamāyayā sṛṣṭasarvalokamityarthaḥ*). The word सप्त (*sapta*) has other meanings too, and this epithet describes the nature of the Lord by showing different attributes.
+
+सप्तप्राणाः प्रभवंति तस्मात् सप्तार्चिषः समिधः सप्त जिह्वाः । सप्त इमे लोका येषु चरंति प्राणा गुहाशयां निहिताः सप्त सप्त (*saptaprāṇāḥ prabhavaṃti tasmāt saptārciṣaḥ samidhaḥ sapta jihvāḥ | sapta ime lokā yeṣu caraṃti prāṇā guhāśayāṃ nihitāḥ sapta sapta*)
+(Tai. U. 4-12-1)
+From this Supreme Person alone the seven "creatures" (*sic* as printed ಸಪ್ತಪ್ರಾಣಿಗಳೂ; the text has seven vital airs) are born. The seven flames *[as supplied: printed ಸಪಾರ್ಚಿಗಳೂ]*, the seven oblations, and the seven worlds in which the vital airs lodged in the cave move about are all produced from him. From such sentences, because he is the cause of the sevenfold creation, the Supreme Person is renowned as "having seven sons".
+
+स्वमायया सृष्टि सर्वलोकं (*svamāyayā sṛṣṭi sarvalokaṃ*)—the Supreme Self who created all the worlds by his own divine power,
+
+अपश्यं—पश्येयं साक्षात्करोमीत्यर्थः (*apaśyaṃ—paśyeyaṃ sākṣātkaromītyarthaḥ*) The meaning is that I shall realise him, not merely by looking with the physical eye, but also with the inner eye, through meditation. Explaining this further in detail, he says:
+
+अयमर्थः । स्वाधीनमायो जगत्कारणभूतः परमेश्वर एक एव । तत उत्पन्नौ स्कूलसूक्ष्मशरीराभिमानिनौ द्वै विराट् सूत्रात्मानौ । तेषु मध्ये द्वयोः साक्षात्कारेण मोक्षाभावात् सृष्टादिकारणं परमेश्वरं ज्ञेयत्वेन प्रसिद्धं श्रवणमननादिसाधनेन साक्षात्करोमीत्यर्थः (*ayamarthaḥ | svādhīnamāyo jagatkāraṇabhūtaḥ parameśvara eka eva | tata utpannau skūlasūkṣmaśarīrābhimāninau dvai virāṭ sūtrātmānau | teṣu madhye dvayoḥ sākṣātkāreṇa mokṣābhāvāt sṛṣṭādikāraṇaṃ parameśvaraṃ jñeyatvena prasiddhaṃ śravaṇamananādisādhanena sākṣātkaromītyarthaḥ*)
+The main purport of all this explanation *[as supplied: ಮುಖ್ಯತಾತ್ಪರವಿಷ್ಟೇ, so printed]* is this. The Lord who is the cause of creation, preservation and dissolution and possesses an inexpressible power is one alone. From him were produced Virāṭ and Sūtrātman, who identify themselves with the gross and the subtle (printed ಸ್ಕೂಲ, *sic*) forms, and who have
+
+### Printed p. 299
+*Running head: [೮. ೨. ಆ. ೩. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 299] (as supplied).*
+
+the forms described above: two fundamental principles. But since these two principles belong to the world of effects, true liberation is not possible by realising them; so the intention is "I shall realise the Supreme Lord, the first cause of all, by hearing (śravaṇa), reflection (manana) and meditation (nididhyāsana)"; thus it is explained.
+
+Likewise, for all the Ṛks of this sūkta, although it would be possible to give one meaning in terms of the individual deity praised in each Ṛk, and another in terms of the Lord, the primal cause, स्वरसत्वाभावात् ग्रंथविस्तरभयाच्च न लिख्यते (*svarasatvābhāvāt graṃthavistarabhayācca na likhyate*)—in many places the spiritual meaning does not fit naturally, and where it does fit, the book would grow very large in explaining it; for both reasons that task has not been attempted. But यत्र (*yatra*) द्वा सुपर्णावित्यादौ स्पुटं आध्यात्मिको ह्यर्थः प्रतीयते तत्र तत्र प्रतिपादयामः (*dvā suparṇāvityādau spuṭaṃ ādhyātmiko hyarthaḥ pratīyate tatra tatra pratipādayāmaḥ*): wherever the meanings shown in Upaniṣadic sentences such as "द्वा सुपर्णा (*dvā suparṇā*)" are clearly spiritual, both meanings will be explained there. In the other places only the meaning concerning the individual deity will be given.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+*[Label as supplied: ವ್ಯಾಕರಣಕ್ರಿಯಾ, repaired by the script to ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ.]*
+
+*Grammar (transcribed, not explained):*
+अश्नः—अशू व्याप्तौ (*aśnaḥ—aśū vyāptau*): a root; by the power of the word बहुलग्रहण (*bahulagrahaṇa*) the suffix nan comes after it too; because it has n as an indicatory letter, the initial-acute accent results.
+तृतीयः—त्रयाणां पूरणः तृतीयः (*tṛtīyaḥ—trayāṇāṃ pūraṇaḥ tṛtīyaḥ*): when the suffix ḍaṭ comes in the sense of completion, त्रेः संप्रसारणं च (*treḥ saṃprasāraṇaṃ ca*) (Pā. Sū. 5-2-55) gives the substitute tīya for it, and samprasāraṇa for the r of tri; the suffix has the initial-acute accent.
+धृतपृष्ठः—धृतं पृष्टे यस्य सः (*dhṛtapṛṣṭhaḥ—dhṛtaṃ pṛṣṭe yasya saḥ*): by बहुव्रीहौ प्रकृत्या पूर्वपदम् (*bahuvrīhau prakṛtyā pūrvapadam*) (Pā. Sū. 6-2-1) the first member keeps its natural accent.
+अपश्यम्—दृशिर् प्रेक्षणे (*apaśyam—dṛśir prekṣaṇe*): a root; the form is the first person singular of laṅ (printed ಲಜ್, *sic*); since a verb follows (printed ಅತಿಜಂತವ, as supplied), the nighāta accent results.
+विश्वतिम्—वितां पतिः विश्वतिः (*viśvatim—vitāṃ patiḥ viśvatiḥ*) *[as supplied: ವಿತಾಂ]*: if the accent of the first member is obtained by तम् पत्यावैश्वर्ये (*tam patyāvaiśvarye*) (Pā. Sū. 6-2-18), then, as an exception to it, by परादिश्चंदसि बहुलम् (*parādiścaṃdasi bahulam*) (Pā, Sū. 6-2-199 *[as supplied: comma after Pā]*) the initial-acute accent of the last member results. ॥ 1 ॥
+
+*[stray line as supplied: ਃ੦ਃ]*
+
+### Printed p. 300
+*Running head: 300 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+#### Ṛk 2
+**॥ संहितापाठः ॥**
+> स॒प्त यु॑जंति॒ रथ॒मेक॑चक्र॒मेको॒ अश्वो॑ वहति स॒प्तना॑मा ।
+> त्रि॒नाभि॑ च॒क्रम॒जर॑मन॒र्वं यत्रे॒ना विश्वा॒ भुव॒नाधि॑ त॒स्थुः ॥
+> ॥ २ ॥
+
+> *sapta yujaṃti rathamekacakrameko aśvo vahati saptanāmā |*
+> *trinābhi cakramajaramanarvaṃ yatrenā viśvā bhuvanādhi tasthuḥ ‖*
+> *‖ 2 ‖*
+*[as supplied: the line ೧೨ ॥ that follows the Saṃhitā block is a garbled version of the label that the script repaired to ಪದಪಾಠಃ.]*
+**॥ पदपाठः ॥**
+> पडसाकॆ
+> सप्त । युंजंति । रथं । एकचक्रं । एकः । अश्वः । वहति । सप्तनामा ।
+> त्रिऽनाभि । चक्रं । अजरं । अनर्वं । यत्र । इमा । विश्वा । भुवना । अधि । तस्थुः ॥ २ ॥
+*[as supplied: the word ಪಡಸಾಕೆ stands at the head of the Pada block in the print.]*
+*[Label as supplied: ಕಾಯುಷಭಾಷ್ಯಂ, repaired by the script to ಸಾಯಣಭಾಷ್ಯಂ.]*
+**॥ सायणभाष्यम् ॥**
+> एकचक्रमेकरथांगोपेतं । यद्यपि त्रीणि चक्राणि तथापि तेषामेकरूपत्वादेकचक्रमित्युच्यते । रथं रंहणस्वभावं सूर्यस्य संबंधिनं सप्ततत्संख्याका
+> अश्वा युंजंति । अनुबध्वंति । वहंतैहोरात्रनिर्वाहाय । किं वस्तुतः सप्त नेत्याह।
+> एकोऽश्वः सप्तनामैक एव सप्ताभिधानः सप्तधा नमनप्रकारो वा । एक एव वायुः
+> सप्तरूपं धृत्वा वहतीत्यर्थः । वाय्तधीनत्पादंतरिक्षसंचारस्य । एकचक्रमित्युक्तं
+> कीदृशं तदित्यत आह । त्रिनाभि वलयत्रयमध्यस्थितनाभिस्थानीयछिद्रत्रयोपेतं अजरममरणधर्मकं अनर्वमशिथिलं । पुनस्तदेव विशेष्यते । यत्र यस्मिंश्चक्र इमा
+> विश्वा भुवनेमानि प्रसिद्धानि सर्वाणि भूतजातान्यध्याश्रित्य तस्तुः । तिष्ठंति । यद्वा ।
+> एकचक्रमेकचारिणमसाहाय्यन संचरंतं रथमादित्यमंडलं सप्त युंजंति ।
+> सर्पणस्वभावाः सप्तसंख्या ना रश्मयः सप्तप्रकारकार्या असाधारणाः परस्परविलक्षणाः षडृतवः । एक साधारण इत्येवं । अथवा मासद्वयात्मकाः षट् अपरोऽधिकमासात्मक इत्येवं सप्तर्तवो युंजंति । एतस्य कार्यं निर्वहंतीत्यर्थः । स चैकोसहायोऽश्वो व्यापनशील आदित्यः सप्तनामा सप्त रसानां संनमयितारो
+> रश्मयो यस्य तादृशः सप्तर्षिभिः स्तूयमानो वादित्यो वहति । धारयति । भ्रमयतीत्यर्थः । किं । त्रिनाभि चक्रं । तिस्रो नाभिस्थानीयाः संध्याः संबद्धा वा त्रय
+> ऋतवो यस्य तत्तादृशं । के ते । ग्रीष्मवर्षाहेमंताख्याः । यद्वा । भूतभविष्यद्वर्तमानाख्यास्त्रयः कालास्त्रिनाभयः । तिद्विशिष्टं चक्रं चक्रवत्पुनः पुनः परिभ्रममाणं संवत्सराख्यं चक्रमजरं मरणरहितं । न हि कदाचिदपि कालो म्रियते ।
+> अनादिनिधनः काल इति स्मृतेः । अनर्वमप्रतिहतं । ईदृशं संवत्सराख्यं चक्रं
+*(The bhāṣya continues on p. 301.)*
+
+### Printed p. 301
+*Running head: [ಅ. ೨. ಆ. ೩. ವ. ೧೪.] ಋಗ್ವೇದಸಂಹಿತಾ 301] (as supplied).*
+
+*[Continuing the Sāyaṇa-bhāṣya from p. 300.]*
+> नानाकालावयवोपेतमयमादित्यः पुनरावर्तयति । संवत्सरादर्वाचीनानां तत्रै
+> वांतर्भावात् ततो युगादीनां तदावृत्तिसाध्यत्वात्संवत्सरस्य चक्रवेन निरूपणं।
+> पुनः कीदृशं तत् । यत्र यस्मिंश्चक्र इमा विश्वा भुवनेमानि सर्वाणि भूतान्यधि
+> तस्थुः आश्रित्य तिष्ठंति कालाधीनत्वात्सर्वस्य स्थितेः । ईदृशस्य कालस्य कारणभूतपरमेश्वरपरिज्ञानेन मोक्षसद्भावात् ज्ञानमोक्षाक्षरप्रशंसा चेत्यनुक्रमण्यामुक्तं । अयमपि मंत्रो यास्केण सप्त युजंति रथमेकचक्रमेकचारिणमित्यादिना व्याख्यातः ।
+> नि ४-२७ । तदत्राप्यनुसंधेयं ॥
+*Gist:* The one-wheeled chariot is the Sun's chariot; the seven horses are rays or seasons, the wheel is the year with three seasons-nave, and all beings rest on it; Yāska explains it (Ni. 4-27).
+**प्रतिपदार्थ (Pratipadārtha)**
+एकचक्रं (*ekacakraṃ*)—having one wheel; रथं (*rathaṃ*)—to the chariot; सप्त (*sapta*)—seven (horses); युंजंति (*yuṃjaṃti*)—they yoke; सप्तनामा (*saptanāmā*)—called in seven ways; एकः अश्वः (*ekaḥ aśvaḥ*)—one single horse; वहति (*vahati*)—(this chariot) he bears; यत्र (*yatra*)—in which wheel; विश्वा (*viśvā*)—all; इमा (*imā*) भुवना (*bhuvanā*)—all these worlds; अधि तस्थुः (*adhi tasthuḥ*)—abide resting on it; such a त्रिनाभि (*trinābhi*)—wheel having three naves; चक्रं (*cakraṃ*)—this wheel; अजरं (*ajaraṃ*)—is deathless; आनर्वं (*ānarvaṃ*) *[as supplied: ಆನರ್ವಂ]*—and unslackened.
+**भावार्थ (Bhāvārtha)**
+They yoke seven horses to the chariot having one wheel; one single horse, called in seven ways, bears this chariot. This wheel having three naves, on which all these worlds abide resting, is deathless and unslackened (printed ಅತಿಥಿಲವಾದುದೂ, *sic*).
+**Printed English**
+They yoke the seven (horses) to the one-wheeled car: one horse, named seven, bears it along: the three-axled wheel is undecaying. never [sic] loosened, and in it all these regions of the universe abide.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The meaning of this Ṛk is very profound. Although Sāyaṇa has explained as far as possible, in some places it is difficult to state the exact meaning. The explanation of the author of the Nirukta is as follows. First, explaining एकचक्रं (*ekacakraṃ*) (Ni. 4-27): सप्त युंजंति रथमेक चक्रं—एकचारिणं चक्रं चकतेर्वा चरतेर्वा क्रामतेर्वा (*sapta yuṃjaṃti rathameka cakraṃ—ekacāriṇaṃ cakraṃ cakatervā caratervā krāmatervā*). The word cakra is derived from the root चर् (*car*) in the sense of obstruction (printed "ಪ್ರತಿಘಾತಾರ್ಥಕವಾದ"), or from the root क्रमु (*kramu*). एकचक्रं-एकचारिणं (*ekacakraṃ-ekacāriṇaṃ*): a chariot that moves on the support of one wheel. Saying that seven rays bear this chariot, he has shown that this is
+
+### Printed p. 302
+*Running head: 302 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+the chariot in the form of the Sun. Here, for the word सप्त (*sapta*), the meaning is either सप्तास्मै रश्मयो रसानभिसन्नामयंति (*saptāsmai raśmayo rasānabhisannāmayaṃti*)—"for him the seven rays draw up the saps"—or सप्तैनमृषयः स्तुवंतीति वा (*saptainamṛṣayaḥ stuvaṃtīti vā*)—"the seven sages praise him". The Nirukta author's meaning refers to the Sun (printed ಸೂರ, *sic*). Durgācārya explains this: रथं-रंहणमादित्यं, उद्यन्नेव ह्यसावादित्यो रश्मिभिः युज्यते, रंहणश्चासौ मुहूर्तमप्यनवस्थायित्वात् । एकचक्रं-एक एव ह्यसावंतरिक्षे चरति, एकोऽश्वः-अशनो व्यापनः सर्वभूतानां। (*rathaṃ-raṃhaṇamādityaṃ, udyanneva hyasāvādityo raśmibhiḥ yujyate, raṃhaṇaścāsau muhūrtamapyanavasthāyitvāt | ekacakraṃ-eka eva hyasāvaṃtarikṣe carati, eko 'śvaḥ-aśano vyāpanaḥ sarvabhūtānāṃ|*). The Sun, who is always revolving, joins himself with the seven rays as soon as he rises. Because he moves without rest even for a moment, the name "chariot" for Āditya here shows his nature. Such a Sun, moving through the universe, pervading the whole universe alone, joins himself with the seven rays; thus it is explained.
+
+Sāyaṇa has given the first half a meaning concerning the Sun's chariot.
+एकचक्रं—एकरथांगोपेतं । यद्यपि त्रीणि चक्राणि तथापि तेषामेकरूपत्वात् एकचक्रमित्युच्यते रथं रंहणस्वभावं सूरस्य संबंधिनं (*ekacakraṃ—ekarathāṃgopetaṃ | yadyapi trīṇi cakrāṇi tathāpi teṣāmekarūpatvāt ekacakramityucyate rathaṃ raṃhaṇasvabhāvaṃ sūrasya saṃbaṃdhinaṃ*) *[as supplied: ಸೂರಸ್ಯ for the Sūryasya of the bhāṣya above]* Although the Sun's chariot is famous for having three wheels, since their form is one, it is called here "one-wheeled".
+
+According to the etymology that the author of the Nirukta gives for the word ratha, the meaning of this word can be given here either as a synonym of Āditya or as a synonym of Āditya's chariot.
+
+रथः रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा । रपतेर्वा रसतेर्वा (*rathaḥ raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā | rapatervā rasatervā*)
+(Ni. 9-11)
+The Nirukta author says that it is formed from the root रंह् (*raṃh*) giving the meaning "motion or speed", or by transposition of letters from स्थिर (*sthira*) (firm), or from the root रम् (*ram*) giving the meaning "one sits in it and rejoices", or from the root रप् (*rap*) or रस् (*ras*) meaning "to make sound",
+
+having quoted the Ṛk
+
+वनस्पते वीड्वंगो हि भूया अस्मत्सखा प्रतरणः सुवीरः । गोभिः सन्नद्धो असि नीळयस्वास्थाता ते जयतु जेत्वानि (*vanaspate vīḍvaṃgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ | gobhiḥ sannaddho asi nīḷayasvāsthātā te jayatu jetvāni*)
+(Ṛ. Saṃ. 6-47-26)
+and thus given the etymology of ratha. [In some places the sons and others who move about in chariots are also designated by this word.] In the present Ṛk, एकचारिणं (*ekacāriṇaṃ*) ratha means the Sūra who revolves alone. Durgācārya, explaining this sentence, says रथं रंहण- (*rathaṃ raṃhaṇa-*) *(the sentence is cut off at the end of the page and continues in the next window)*.
+
 ---
 
-**Progress note:** Done through printed p. 296. Sukta 164 Rk 1: header, Samhita/Pada/bhashya, Pratipadartha, special topics (Brihaddevata, Nirukta, Aditi story, adhyatma)
+**Progress note:** Done through printed p. 302. Sūkta 164: end of Ṛk 1 special topics and grammar; Ṛk 2 text, Sāyaṇa, pratipadārtha, bhāvārtha, start of special topics
