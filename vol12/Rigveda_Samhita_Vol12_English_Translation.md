@@ -2661,6 +2661,84 @@ In such places the excellent origin of this vessel is described: "Tvaṣṭṛ f
 
 सौधन्वनाः (*saudhanvanāḥ*)—O sons of Sudhanvan; एकं चमसं (*ekaṃ camasaṃ*)—this ladle, made (by Tvaṣṭṛ at first) as a single vessel; चतुरस्कृणोतन (*caturaskṛṇotana*)—make it into four vessels (thus); तत् (*tat*)—that work to be done by you; वः (*vaḥ*)—to you; देवाः (*devāḥ*)—the gods; अब्रुवन् (*abruvan*)—said; तत् (*tat*)—therefore; वः (*vaḥ*)—to you; आगमं (*āgamaṃ*)—I have come… *[the Pratipadārtha is cut off here at the end of the supplied text of p. 92; it continues on p. 93, in the next window]*
 
+### Printed p. 93
+
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೪] Ṛgveda-saṃhitā, p. 93 (printed "ಪ. ೪" for the Varga; as supplied).* (The Pratipadārtha of Ṛk 2 continues after "ಆಗಮಂ—I have come".)
+
+यदि (*yadi*)—if; एव (*eva*)—in this manner; करिष्यथ (*kariṣyatha*)—if you do; देवैः साकं (*devaiḥ sākaṃ*)—with the gods; यज्ञियासः (*yajñiyāsaḥ*)—entitled to a share of the sacrifice; भविष्यथ (*bhaviṣyatha*)—you will become.
+
+**भावार्थ (Bhāvārtha)**
+
+O sons of Sudhanvan! This ladle, which was first made by Tvaṣṭṛ as a single one, you are to make into four vessels: this is the message of the gods to you. I have come here to make that message known to you. If you carry it out, you too will then become entitled to receive a share of the sacrifice together with the gods.
+
+**Printed English translation**
+
+Make fourfold the single ladle; so the gods comand [sic] you; and for that purpose am I come, sons of Sudhanwan: if you accomplish this, you will be entitled to sacrifices along with the gods,
+
+*[The label of the Special Topics is garbled in the supplied text ("ವಿಶೇಷವಿವರಗಳು"); the standard label is inserted and the garbled line kept in kn.md as a note.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+एवं चमसं चतुरः कृणोतन (*evaṃ camasaṃ caturaḥ kṛṇotana*) *[so printed, "ಏವಂ"]*—Agni conveys the message of the gods: make the ladle, which was first made as one, into four. It is well known that the Ṛbhus, honouring this message, made by their skill the single vessel into four. In this poem too it is well known that this power came to them through the teaching of Tvaṣṭṛ and that they were his favourite pupils. In the same way it is said that in some other ways they showed their extraordinary power and obtained the qualification to drink Soma together with the gods.
+
+सुधन्वन अंगिरसस्यासन्नुत्रास्त्रयः पुरा । (*sudhanvana aṃgirasasyāsannutrāstrayaḥ purā |*)
+ऋभुर्विभ्वा च वाजश्च शिष्यास्त्वष्टुश्च तेभवन् ॥ (*ṛbhurvibhvā ca vājaśca śiṣyāstvaṣṭuśca tebhavan ‖*)
+शिक्षयामास तांस्वष्टा त्वाष्टं यत्कर्म किंचन । (*śikṣayāmāsa tāṃsvaṣṭā tvāṣṭaṃ yatkarma kiṃcana |*)
+परिनिष्ठितकर्माणो विश्वेदेवा उपाह्वयन् ॥ (*pariniṣṭhitakarmāṇo viśvedevā upāhvayan ‖*)
+विश्लेषां ते ततश्च कुर्वाहनान्यायुधानि तु । (*viśleṣāṃ te tataśca kurvāhanānyāyudhāni tu |*)
+धेनुं सबर्दुघां चक्रुरमृतं सबरुच्यते ॥ (*dhenuṃ sabardughāṃ cakruramṛtaṃ sabarucyate ‖*)
+बृहस्पतेरथाश्विभ्यां रथं दिव्यं त्रिवंधुरं । (*bṛhaspaterathāśvibhyāṃ rathaṃ divyaṃ trivaṃdhuraṃ |*)
+इंद्राय च हरी देवप्रहितेनाग्निनापि यत् ॥ (*iṃdrāya ca harī devaprahitenāgnināpi yat ‖*)
+एकं चमसमित्युक्ते ज्येष्ठ आहेत्यथो दिवि । (*ekaṃ camasamityukte jyeṣṭha āhetyatho divi |*)
+उक्त्वा ततक्षुश्चमसन् यथोक्तं तेन हर्षिताः ॥ (*uktvā tatakṣuścamasan yathoktaṃ tena harṣitāḥ ‖*)
+
+### Printed p. 94
+
+*Running head: 94 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. "೧.೬೧" (printed so, for 161).*
+
+त्वष्टा च सविता चैव देवदेवः प्रजापतिः । (*tvaṣṭā ca savitā caiva devadevaḥ prajāpatiḥ |*)
+सर्वान्देवान् समामंत्र्य अमृतत्वं ददुश्च ते ॥ (*sarvāndevān samāmaṃtrya amṛtatvaṃ daduśca te ‖*)
+तेषामाद्यांत्ययोर्नाम्ना दृश्यते बहुवत् स्तवः । (*teṣāmādyāṃtyayornāmnā dṛśyate bahuvat stavaḥ |*)
+तृतीयसवने तेषां तैस्तु भागः प्रकल्पितः ॥ (*tṛtīyasavane teṣāṃ taistu bhāgaḥ prakalpitaḥ ‖*)
+अपिबत्तोममिंद्रश्च तैस्तत्र सवने सह । (*apibattomamiṃdraśca taistatra savane saha |*)
+
+(Bṛ. De. 3-83 to 89) *[printed "ಬೃ. ದೇ. ೩-೮೩ ರಿಂದ ೮೯"]*
+
+Before this, the three sons of Sudhanvan, Ṛbhu, Vibhvan and Vāja, became pupils of Tvaṣṭṛ. Tvaṣṭṛ, who was skilled in all the arts, taught them too all the arts. Then the Viśvedevas, who were skilled in the arts, confronted them with an attitude of opposition. Then they made weapons and vehicles for all the gods. Afterwards they created the cow that gives immortality. For Bṛhaspati and the Aśvin deities they made chariots with three seats, for Indra horses, and for Agni, who had been sent by the gods as a messenger, they made, as he had wished, the single ladle into four as well: thus it is explained.
+
+चमसं (*camasaṃ*)—चमसः कस्मात् ? चमंत्यस्मिन्निति । (*camasaḥ kasmāt ? camaṃtyasminniti |*) After asking from which root the word चमस (*camasa*) is formed, the authors of the Nirukta have shown that it is formed from the root चम (*cama*), which means "to eat" (Ni. 11-12).
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses चतुरः (*caturaḥ*) (accent by Pā. Sū. 6-1-167, printed "ಪಾ-. ಸೂ."), कृणोतन (*kṛṇotana*) (root कृवि (*kṛvi*); Pā. Sū. 7-1-45; the *u* augment of धिन्विकृण्योरच (*dhinvikṛṇyoraca*), Pā. Sū. 3-1-80), अब्रुवन् (*abruvan*) (root ब्रूञ् (*brūñ*)), अगमम् (*agamam*) (aorist first person), and, on p. 95, सौधन्वनाः (*saudhanvanāḥ*) (suffix *aṇ*; Pā. Sū. 6-1-198), करिष्यथ (*kariṣyatha*) (Pā. Sū. 3-1-33, 8-1-30 and 6-1-186), यज्ञियासः (*yajñiyāsaḥ*) (suffix *gha*; Pā. Sū. 6-4-198 and 7-1-50) and भविष्यथ (*bhaviṣyatha*), with the accents; it ends with the mark ॥ ೨ ॥.
+
+### Printed p. 95
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೪.] Ṛgveda-saṃhitā, p. 95 (as supplied).*
+
+#### Ṛk 3
+
+*[The label of the Saṃhitā is garbled in the supplied text ("ಸಂಕ್ಷಿಪ್ತವಾಗಿ") and the Saṃhitā lines are not a block; the standard label is inserted, the garbled word kept in kn.md as a note, and the lines made a block. The printed line end "ಕರ್ತ್ವರ್ಃ" in the Saṃhitā differs from "ಕರ್ತ್ವಃ" in the Pada of the same text; it is written "ಕರ್ತ್ವಃ" in kn.md after the Pada (the only change). A hyphenated break "ಕೃತ್ವೇ-ಮಸಿ" is joined.]*
+
+**॥ संहितापाठः ॥**
+
+> अ॒ग्निं दू॒तं प्रति॒ यदब्र॑वीत॒नाश्वः॒ कर्त्वो॒ रथ॑ उ॒तेह कर्त्वः॑ ।
+> धे॒नुः कर्त्वा॑ युव॒शा कर्त्वा॒ द्वा तानि॑ भ्रात॒रनु॑ नः कृ॒त्वे-म॑सि ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+*[The Pada ends with the mark "॥ ೩ ॥" printed twice, as supplied.]*
+
+> अग्निं । दूतं । प्रति । यत् । अब्रवीतन । अश्वः । कर्त्वः । रथः । उत । इह । कर्त्वः ।
+> धेनुः । कर्त्वा । युवशा । कर्त्वा । द्वा । तानि । भ्रातः । अनु । वः । कृत्वी । आ । इमसि ।
+> ॥ ३ ॥
+> ॥ ३ ॥
+
+> *agniṃ | dūtaṃ | prati | yat | abravītana | aśvaḥ | kartvaḥ | rathaḥ | uta | iha | kartvaḥ |*
+> *dhenuḥ | kartvā | yuvaśā | kartvā | dvā | tāni | bhrātaḥ | anu | vaḥ | kṛtvī | ā | imasi |*
+> *‖ 3 ‖*
+> *‖ 3 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 92 (PDF 92). Sūkta 161 Ṛk 1 Special Topics end and grammar; Ṛk 2 Saṃhitā/Pada (picture), bhāṣya, Pratipadārtha start
+**Progress note:** Done through printed p. 95 (PDF 95). Sūkta 161 Ṛk 2 Pratipadārtha end, Bhāvārtha, English, Special Topics, grammar; Ṛk 3 Saṃhitā and Pada
