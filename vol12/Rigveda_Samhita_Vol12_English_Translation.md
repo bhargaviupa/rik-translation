@@ -13734,6 +13734,170 @@ The study of the Vedas, Ṛk and the others, and the performance of the action e
 
 If one only studies the Veda and does not know its meaning, the study is merely a burden to that man. He is a dull fellow who carries a load *[as supplied: "ಧಾರವನ್ನು ವಹಿಸಿರುವ"]*. But he who studies the Veda after fully understanding the Vedic meaning obtains all kinds of good; complete knowledge destroys all his faults.
 
+### Printed p. 579
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೨೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 579] (as supplied).*
+
+*[Special Topics continued.]*
+
+यद्गृहीतमविज्ञातं निगदेनैव शब्द्यते (*yadgṛhītamavijñātaṃ nigadenaiva śabdyate*)
+अनग्नाविव शुष्कैधो न तज्ञ्वलति कर्हिचित् (*anagnāviva śuṣkaidho na tajñvalati karhicit*)
+(Ni. 1-18)
+
+Whatever sentence is recited without being understood becomes a mere mass of words. As dry wood put into a fire that has gone out does not blaze, so a mind without knowledge of the meaning is unable to shine. This idea is stated in other parts of the Ṛk-saṃhitā also. Of the man who studies without knowing the meaning:
+
+उत त्वः पश्यन्न ददर्श वाचमुत त्वः शृण्वन्न शृणोत्येनां (*uta tvaḥ paśyanna dadarśa vācamuta tvaḥ śṛṇvanna śṛṇotyenāṃ*)
+उतो त्वस्मै तन्वंग वि सस्रे जायेव पत्य उशती सुवासाः (*uto tvasmai tanvaṃga vi sasre jāyeva patya uśatī suvāsāḥ*)
+(Ṛ. Saṃ. 10-71-4)
+
+Even though he looks at the ṛk mantras, since there is no fruit of it, it is as if he did not see them; that is, he has become like a blind man. Even though he hears the Vedic sentences with his ears, because there is no fruit of hearing, he has become like a deaf man. But for one who has fully understood the meaning of the Veda, it is like the joy that arises in the mind when a beautiful woman, adorned with garments, ornaments and the like, stands before her husband. Moreover:
+
+उत त्वं सख्ये स्थिरपीतमाहुर्नैनं हिन्वंत्यपि वाजिनेषु (*uta tvaṃ sakhye sthirapītamāhurnainaṃ hinvaṃtyapi vājineṣu*)
+अधेन्वा चरति मायय्यष वाचं शुश्रुवा अफलामपुष्पां (*adhenvā carati māyayyaṣa vācaṃ śuśruvā aphalāmapuṣpāṃ*)
+(Ṛ. *[as supplied: the reference is cut off after "(ಋ."]*
+
+One who has fully understood the meaning of the Veda receives, even in assemblies of the learned and among the gods, the love and respect that a friend receives. When discussions are held, there is no one who can defeat him. But one without knowledge of the meaning, sunk in a mere mass of words that is devoid of fruit and flower and the like, carries a useless burden and wanders among the learned. The Bṛhadāraṇyaka and the other Upaniṣads also state this idea clearly.
+
+तमेव धीरो विज्ञाय प्रज्ञां कुर्वीत ब्राह्मणः (*tameva dhīro vijñāya prajñāṃ kurvīta brāhmaṇaḥ*)
+नानुध्यायाद्भहूञ्छब्दान् वाचो विग्लापनं हि तत् (*nānudhyāyādbhahūñchabdān vāco viglāpanaṃ hi tat*) iti ‖
+(Bṛ. U. 4-4-21)
+
+The wise man should make this Parabrahman principle, which is of the nature of the Akṣara, the object of his reflective insight, which leads to direct realisation, and make it fruitful. He must not float merely on the show of words without entering into the meaning; mere words are only a weariness. And:
+
+### Printed p. 580
+*Running head: 580 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+यतो वाचो निवर्तंते (*yato vāco nivartaṃte*) अप्राप्य मनसा सह (*aprāpya manasā saha*) आनंदं ब्रह्मणो विद्वान् न बिभेति कुतश्च नेति (*ānaṃdaṃ brahmaṇo vidvān na bibheti kutaśca neti*) ‖
+(Trai. U. 2-9) *[as supplied: the abbreviation "ತ್ರೈ. ಉ."]*
+
+Speech that lacks reflection on the meaning never approaches Parabrahman. Such a mind also cannot approach Brahman. But the knower of Brahman, after he has attained the direct realisation of Brahman, fears no one and remains fearless and of tranquil mind. Therefore the fruit of the study of the Veda must lie in the form of direct realisation of Brahman; otherwise it is vain. So Sāyaṇa, explaining the part किमृचा करिष्यति (*kimṛcā kariṣyati*) of the ṛk under consideration, has given the purport of that sentence: प्रयोजनाभावात् सर्वस्यापि वेदस्य नैष्फल्यात् इति भावः (*prayojanābhāvāt sarvasyāpi vedasya naiṣphalyāt iti bhāvaḥ*) *[as supplied: the print has "ಪಡೆ-ಬಳಿಕ" with a hyphen in the sentence just before]*.
+
+य इत्तद्विदुस्त इमे समासते (*ya ittadvidusta ime samāsate*)—ये एव तत्त्वं जानंति ते एव ज्ञातारः सम्यक्तिष्ठंति (*ye eva tattvaṃ jānaṃti te eva jñātāraḥ samyaktiṣṭhaṃti*). Those who know this supreme principle alone attain harmony with the Self (ātmasāmarasya) and become of tranquil mind.
+
+एको वशी सर्वभूतांतरात्मा एकं रूपं बहुधा यः करोति (*eko vaśī sarvabhūtāṃtarātmā ekaṃ rūpaṃ bahudhā yaḥ karoti*)
+तमात्मस्थं येनुपश्यंति धीरास्तेषां सुखं शाश्वतं नेतरेषां (*tamātmasthaṃ yenupaśyaṃti dhīrāsteṣāṃ sukhaṃ śāśvataṃ netareṣāṃ*)
+(Kaṭh. 2-2-12)
+
+This Supreme Self is all-pervading. The whole world is under his control. Those discerning ones who look with the inner eye at this Supreme Self, who dwells in the self, and realise him directly, to them alone comes happiness that is eternal and of the nature of the bliss of the Self. For those who lack this there is certainly no experience of this happiness.
+
+प्राणो ह्येष यः सर्वभूतैर्विभाति विजानन्विदान् भवते नातिवादी (*prāṇo hyeṣa yaḥ sarvabhūtairvibhāti vijānanvidān bhavate nātivādī*)
+आत्मक्रीड आत्मरतिः क्रियावानेष ब्रह्मविदां वरिष्ठः (*ātmakrīḍa ātmaratiḥ kriyāvāneṣa brahmavidāṃ variṣṭhaḥ*)
+(Pu U. 3-1-4) *[as supplied: "ಪು ಉ." without a full stop]*
+
+This Akṣara-Brahman, the life-breath of the universe, makes himself shine in the forms of all beings. The learned man who knows his principle does not become an over-talker (ativādin); he becomes one who plays in the Self and delights in the Self. He is the very best among the knowers of Brahman. Thus, describing the nature of the knower of Brahman, and explaining the sense of the sentence "ta ime samāsate" (त इमे समासते (*ta ime samāsate*)) in the ṛk under consideration, the Muṇḍaka Upaniṣad describes the tranquillity of mind of the seers who know Brahman in this way:
+
+संप्राप्यैनमृषयो ज्ञानतृप्ताः कृतात्मानो वीतरागाः प्रशांताः (*saṃprāpyainamṛṣayo jñānatṛptāḥ kṛtātmāno vītarāgāḥ praśāṃtāḥ*)
+ते सर्वगं सर्वतः प्राप्य धीरा युक्तात्मानः सर्वमेवाविशंति (*te sarvagaṃ sarvataḥ prāpya dhīrā yuktātmānaḥ sarvamevāviśaṃti*)
+(Mu U, 3-2-5) *[as supplied: "ಮು ಉ," with a comma for the full stop]*
+
+### Printed p. 581
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೧ ! ಋಗ್ವೇದಸಂಹಿತಾ 581] (as supplied, with "!" for the bracket).*
+
+The seers who have attained this Self, the supreme principle, are satisfied with knowledge, have fulfilled themselves, are free from passion and of tranquil mind. Those wise ones, having realised the all-pervading Self everywhere, and being yoked in self, become, like that Supreme Self, all-pervading themselves. Describing the nature of this supreme seer who has attained identity with Brahman, the Bṛhadāraṇyaka Upaniṣad says:
+
+यस्यानुवित्तः प्रतिबुद्ध आत्मास्मिन् संदेह्ये गहने प्रविष्टः (*yasyānuvittaḥ pratibuddha ātmāsmin saṃdehye gahane praviṣṭaḥ*)
+स विश्वकृत् स हि सर्वस्य कर्ता तस्य लोकः स उ लोक एव (*sa viśvakṛt sa hi sarvasya kartā tasya lokaḥ sa u loka eva*)
+(Bṛ. U. 4-4-13)
+
+He who is awakened, and who realises directly the Self that has entered this body, the cause of sorrow and a compacted mass, becomes one who has the power to make everything. The world belongs to him; or it may also be said that he himself becomes the world. Therefore:
+
+एकधैवानुद्रष्टव्यमेतदप्रमयं ध्रुवं (*ekadhaivānudraṣṭavyametadapramayaṃ dhruvaṃ*)
+विरजः पर आकाशादज आत्मा महान् ध्रुवः (*virajaḥ para ākāśādaja ātmā mahān dhruvaḥ*)
+(Bṛ. U. 4-4-20)
+
+Just as one sees unity in the continuous, all-pervading sky, one should see the unity of the universe in this Self, the inner controller of all. [विज्ञानघनैकरसप्रकारेण आकाशवन्निरंतरेणानुद्रष्टव्यं (*vijñānaghanaikarasaprakāreṇa ākāśavanniraṃtareṇānudraṣṭavyaṃ*) (Śa. Bhā.)] The ṛk under consideration states that the direct realisation of the Supreme Self, who is free from dust, greater than the sky, unborn and constant, is the aim of all Śruti sentences: this is one kind of explanation.
+
+(2) Among the four meanings said to belong to this ṛk, as divided above *[as supplied: "four", where three meanings were listed above]*, for the word ऋचः (*ṛcaḥ*) one view is to explain it as ऋक् प्रधानभूताः सांगापरविद्यात्मकाश्च त्वारो वेदाः (*ṛk pradhānabhūtāḥ sāṃgāparavidyātmakāśca tvāro vedāḥ*), that is, the four Vedas together with the Vedāṅgas, and to say that the study of these is a means to realisation of the Self. Secondly, the word ṛk can be taken to mean the orb of the sun, which is to be worshipped. The meaning of this view is explained thus in the Nirukta:
+
+आदित्य इति पुत्रः शाकपूणेरेषर्ग्भवति यदेनमर्चंति प्रत्यृचः सर्वाणि भूतानि तस्य यदन्यन्मंत्रेभ्यस्तदक्षरं भवति रश्मयोऽत्र देवा उच्यंतॆ य एतस्मिन्नधिनिषण्णा इत्यधिदैवतं (*āditya iti putraḥ śākapūṇereṣargbhavati yadenamarcaṃti pratyṛcaḥ sarvāṇi bhūtāni tasya yadanyanmaṃtrebhyastadakṣaraṃ bhavati raśmayo 'tra devā ucyaṃtè ya etasminnadhiniṣaṇṇā ityadhidaivataṃ*)
+(Ni. 13-11)
+
+The word ऋचः (*ṛcaḥ*) means Āditya, who is to be worshipped, and that by which they worship this Āditya *[the sentence is cut here by the page end and continues on p. 582]*
+
+### Printed p. 582
+*Running head: 582 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied; the head reads "ಆ." for the Anuvāka).*
+
+*[Continuation:]* … is named ṛk; the word देवाः (*devāḥ*) means rays; and the purpose of the ṛk under consideration is to teach that Āditya, who is the support of all the rays, is to be worshipped: this is the view of the son of Śākapūṇi *[as supplied: the sentence breaks off with "ಶಾಕಪೂಣಿಪುತ್ರಮತ"]*.
+
+य एषोऽंतरादित्ये हिरण्मयः पुरुषः (*ya eṣo 'ṃtarāditye hiraṇmayaḥ puruṣaḥ*)
+(Tai. U. 4-13)
+
+Sāyaṇa cited this mantra and also explained the view that holds that the aim is to worship the Person who is within the orb of the sun. That the Supreme Person who is within Āditya is described in the Upaniṣads and elsewhere has been stated in many places earlier in this same sūkta.
+
+Stating the third view, that of the spiritual (adhyātma) interpretation, the Nirukta writers say, अध्याध्यात्मं (*adhyādhyātmaṃ*):
+
+शरीरमत्र यगुच्यते यदेनेनार्चंति प्रत्यृचः सर्वाणींद्रियाणि तस्य यदविनाशिधर्म तदक्षरं भवतींद्रियाण्यत्र देवा उच्यंते यान्यस्मिन्नधिनिषण्णानीत्यात्मप्रवादाः (*śarīramatra yagucyate yadenenārcaṃti pratyṛcaḥ sarvāṇīṃdriyāṇi tasya yadavināśidharma tadakṣaraṃ bhavatīṃdriyāṇyatra devā ucyaṃte yānyasminnadhiniṣaṇṇānītyātmapravādāḥ*)
+(Ni. 3-11) *[as supplied: "ಯಗುಚ್ಯತೇ"; the preceding Nirukta reference is 13-11]*
+
+According to this, the word ṛk means the body. In the perishable body, the principle that is imperishable is the Akṣara, that is, the Self. The word देवाः (*devāḥ*) is a synonym of the senses; all those senses are established in the body.
+
+Sāyaṇa has changed this a little (besides explaining ṛk as the body):
+
+ऋक् अर्चनीयो जीवः तस्य संबंधिन्यक्षरेऽविनाशे व्याप्ते ना परमात्मनीत्यर्थः (*ṛk arcanīyo jīvaḥ tasya saṃbaṃdhinyakṣare 'vināśe vyāpte nā paramātmanītyarthaḥ*) *[as supplied: "ವ್ಯಾಪ್ತೇ ನಾ" in this quotation]*
+
+The word ṛk means the venerable individual soul (jīva). The Supreme Self, who is related to it and is imperishable, is denoted by the word akṣara. Because he stands in a place higher than the jīva, this Supreme Self is described as अक्षरे परमे व्योमन् (*akṣare parame vyoman*). यस्मिन् परमात्मनि देवा गमनवंतो ना इंद्रियसंज्ञका विश्वे सर्वॆऽपि अधि निषेदुः (*yasmin paramātmani devā gamanavaṃto nā iṃdriyasaṃjñakā viśve sarvè 'pi adhi niṣeduḥ*) *[as supplied: "ನಾ" in this quotation]*: all the jīvas have taken refuge in this Supreme Self. Therefore all the multitudes of jīvas who do not become one with him, being bound up with bodies together with limiting adjuncts such as old age and death, have sorrow and no happiness. Hence the purport is that direct realisation of the Supreme Self is absolutely necessary.
+
+Sāyaṇa has shown that for the word यजः (*yajaḥ*) *[as supplied: "ಯಜಃ", where "ಋಚಃ" would be expected; the print also has "ಪ್ರಣವಪರವವಾಗಿಯೂ"]* a meaning can be given also with reference to the Praṇava.
+
+ऋचोक्षरे—ऋगुपलक्षितसर्ववेदसंबंधिनि अक्षरे प्रणवरूपे ओंकारे अविनाशिनि सर्ववेदेषु व्याप्ते वा (*ṛcokṣare—ṛgupalakṣitasarvavedasaṃbaṃdhini akṣare praṇavarūpe oṃkāre avināśini sarvavedeṣu vyāpte vā*)
+
+In the Oṅkāra, which is the essence of all the Vedas, Ṛk and the others, which is imperishable, and which pervades all the Vedas. How is the Oṅkāra the essence of all the Vedas? He has cited a sentence of the Aitareya Brāhmaṇa to show that the Śruti sentence is the authority for it *[the sentence is cut by the page end and continues on the next page]*
+
+### Printed p. 583
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೨೧] ಮುಗ್ವೇದಸಂಹಿತಾ 563] (as supplied; the page was found without a separate head by the script and the page marker 583 was inserted by hand in kn.md; the print as supplied reads "563" and "ಪ." in this head).*
+
+… In the Aitareya Brāhmaṇa the coming into being of the Praṇava, the essence of the Vedas, is described thus.
+
+प्रजापतिरकामयत प्रजायेय भूयान्यामिति स तपोऽतप्यत स तपस्तप्तेमाल्लोकानसृजत पृथिवीमंतरिक्षं दिवं ताल्लोकानभ्यतपत्तेभ्योऽभितप्तेभ्यस्त्रीणि ज्योतींष्यजायंताग्निरेव पृथिव्या अजायत वायुरंतरिक्षादादित्यो दिवस्तानि ज्योतींष्यभ्यतपत्तेभ्योऽभितप्तेभ्यस्रयो वेदा अजायंत (*prajāpatirakāmayata prajāyeya bhūyānyāmiti sa tapo 'tapyata sa tapastaptemāllokānasṛjata pṛthivīmaṃtarikṣaṃ divaṃ tāllokānabhyatapattebhyo 'bhitaptebhyastrīṇi jyotīṃṣyajāyaṃtāgnireva pṛthivyā ajāyata vāyuraṃtarikṣādādityo divastāni jyotīṃṣyabhyatapattebhyo 'bhitaptebhyasrayo vedā ajāyaṃta*) *[as supplied: "ಸ್ರಯೋ"]*
+ऋग्वेद एवाग्नेरजायत यजुर्वेदो वायोः सामवेद आदित्यात्तान्वेदानभ्यतपत्तेभ्योऽभितप्तेभ्यस्त्रीणि शुक्राण्यजायंत भूरित्येव ऋग्वेदादजायत भुव इति यजुर्वेदात्स्वरिति सामवेदात् (*ṛgveda evāgnerajāyata yajurvedo vāyoḥ sāmaveda ādityāttānvedānabhyatapattebhyo 'bhitaptebhyastrīṇi śukrāṇyajāyaṃta bhūrityeva ṛgvedādajāyata bhuva iti yajurvedātsvariti sāmavedāt*)
+तानि शुक्राण्यभ्यतपत्तेभ्योऽभितप्तेभ्यस्त्रयो वर्णा अजायंताकार उकारो मकार इति तानेकधासमभरत्तदेतदोमिति तस्मादोमोमिति प्रणौत्योमिति वै स्वर्गो लोक ओमित्यसौ योऽसौ तपति (*tāni śukrāṇyabhyatapattebhyo 'bhitaptebhyastrayo varṇā ajāyaṃtākāra ukāro makāra iti tānekadhāsamabharattadetadomiti tasmādomomiti praṇautyomiti vai svargo loka omityasau yo 'sau tapati*)
+(Ai. Brā. 5-32)
+
+Prajāpati desired to grow, and performed austerity. By the power of that austerity he created the earth, the atmosphere and the heavenly world, and made them ripen. Of these, Agni arose from the earth, Vāyu from the atmosphere and Āditya from the heavenly world. To make these ripen, the Ṛgveda arose from Agni, the Yajurveda from Vāyu and the Sāmaveda from Āditya. From these three pure sounds went forth: from the Ṛgveda the sound "bhūḥ", from the Yajurveda the sound "bhuvaḥ", from the Sāmaveda the sound "svar". When those pure sounds were made to ripen, the three letters a, u and m appeared. When all these were put together, the Praṇava "Om" was formed. "Om" is the heavenly world; it is the Āditya. Explaining this, the text declares that the Praṇava of the form of Oṅkāra is the essence of the Vedas.
+
+This Praṇava is described by the qualifiers परमे व्योमन् (*parame vyoman*): न हि प्रणवादधिकं किंचिनंत्रजातमस्ति त्रिकालातीतस्य ब्रह्मणः प्रतिपादकत्वात् (*na hi praṇavādadhikaṃ kiṃcinaṃtrajātamasti trikālātītasya brahmaṇaḥ pratipādakatvāt*) *[as supplied: "ಕಿಂಚಿನಂತ್ರಜಾತ"]*. The purport is that, because it teaches the principle of Brahman that lies beyond the three times, there is no mantra more excellent than the Praṇava. Its greatness is described thus in the Upaniṣads.
+
+ओमित्येतदक्षरमिदग्ं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोंकार एव (*omityetadakṣaramidagṃ sarvaṃ tasyopavyākhyānaṃ bhūtaṃ bhavadbhaviṣyaditi sarvamoṃkāra eva*)
+यच्चान्यत्रि कालातीतं तदपोंकार एव (*yaccānyatri kālātītaṃ tadapoṃkāra eva*)
+(Mā. U. 1)
+
+### Printed p. 584
+*Running head: 584 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨ ಸೂ .೧೬೪] (as supplied).*
+
+The whole universe is made of Oṅkāra. Therefore the Praṇava, of the form of Oṅkāra, is Parabrahman. Explaining how this is so, Śaṅkarācārya says:
+
+यदिदं अर्थजातं अभिधेयभूतं तस्य अभिधानाव्यतिरेकात् अभिधानस्य च ओंकाराव्यतिरेकात् ओंकार एवेदं सर्वं, परं च ब्रह्म अभिधानाभिधेयो पायपूर्वकमेव गम्यते इति ओंकार एव (*yadidaṃ arthajātaṃ abhidheyabhūtaṃ tasya abhidhānāvyatirekāt abhidhānasya ca oṃkārāvyatirekāt oṃkāra evedaṃ sarvaṃ, paraṃ ca brahma abhidhānābhidheyo pāyapūrvakameva gamyate iti oṃkāra eva*)
+तस्य एतस्य परापरब्रह्मरूपस्य अक्षरस्य ओं इत्येतस्य उपव्याख्यानं (*tasya etasya parāparabrahmarūpasya akṣarasya oṃ ityetasya upavyākhyānaṃ*)
+(Pā. U. Śaṅkara-bhāṣya 1) *[as supplied: "ಪಾ. ಉ." for the Upaniṣad]*
+
+All things in the world that are indicated by names and forms, and are named (called by a name), are made of Oṅkāra. The naming itself (the way of indicating) is also Oṅkāra. Parabrahman too is known only by means of the pair of the name and the named, and so that also is Oṅkāra. The exposition of this syllable Om, which is of the form of the higher and lower Brahman, is a means to knowing Brahman and is therefore near to Brahman. In this way, in praising the Praṇava, the identity of the Praṇava with Parabrahman is stated. In the Taittirīya Upaniṣad also:
+
+ओमिति ब्रह्म (*omiti brahma*) ओमितीदग्ं सर्वं (*omitīdagṃ sarvaṃ*) ओमित्येतदनुकृति ह स्म वा अप्पो श्रावयेत्याश्रावयंति (*omityetadanukṛti ha sma vā appo śrāvayetyāśrāvayaṃti*) ओमिति सामानि गायंति (*omiti sāmāni gāyaṃti*) ओग्ंशोमिति शस्त्राणि शगंसंति (*ogṃśomiti śastrāṇi śagaṃsaṃti*)
+ओमित्यध्वर्युः प्रतिगरं प्रतिगृणाति (*omityadhvaryuḥ pratigaraṃ pratigṛṇāti*) ओमिति ब्रह्मा प्रसौति (*omiti brahmā prasauti*) ओमित्यग्निहोत्रमनुजानाति (*omityagnihotramanujānāti*) ओमिति ब्राह्मणः प्रवक्ष्यन्नाह ब्रह्मोपाप्नवानीति (*omiti brāhmaṇaḥ pravakṣyannāha brahmopāpnavānīti*) ब्रह्मैपोपापोति (*brahmaipopāpoti*)
+(Kṛ. U. 1-8) *[as supplied: the abbreviation "ಕೃ. ಉ."; the quotation has "ಅಪ್ಪೋ" and "ಬ್ರಹ್ಮೈಪೋಪಾಪೋತಿ" as printed]*
+
+"Om" (the Praṇava) is Brahman. The whole universe is "Om". It is imitation (anukṛti). Those who sing the sāmans, and likewise the adhvaryu and the others, call out the response (pratigara) with it. One who studies the Veda, thinking before study "May I obtain Brahman", obtains Brahman by pronouncing the Oṅkāra. "Om" means the Supreme Self; it is stated that by its utterance the Supreme Self is attained.
+
+ओंकारपूर्वं प्रवृत्तानां क्रियाणां फलवत्त्वं यस्मात्, तस्मात् ओंकारं ब्रह्मेत्युपासीत इत्यर्थः (*oṃkārapūrvaṃ pravṛttānāṃ kriyāṇāṃ phalavattvaṃ yasmāt, tasmāt oṃkāraṃ brahmetyupāsīta ityarthaḥ*)
+(Śaṅkara-bhāṣya)
+
+Śaṅkarācārya, in his commentary on the above sentence, says that the fruit of pronouncing the Praṇava is the direct realisation of Brahman.
+
+### Printed p. 585
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೨೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 585] (as supplied).*
+
+To show that the Praṇava, of the form of Oṅkāra, is a means to immortality, the Chāndogya Upaniṣad tells a story. (Chā. 1-4)
+
+देवा वै मृत्योर्बिभ्यतस्त्रयीं विद्यां प्राविशंस्ते छंदोभिरच्छादयन्यदेभिरच्छादयन्स्छंदसां छंदस्त्वं (*devā vai mṛtyorbibhyatastrayīṃ vidyāṃ prāviśaṃste chaṃdobhiracchādayanyadebhiracchādayanschaṃdasāṃ chaṃdastvaṃ*) ‖ 2 ‖
+तानु तत्र मृत्युर्यथा मत्स्यमुदके परिपश्येदेवं पर्यपश्यदृचि सान्नि यजुषि (*tānu tatra mṛtyuryathā matsyamudake paripaśyedevaṃ paryapaśyadṛci sānni yajuṣi*) तेनु विदित्वोर्ध्वा ऋचः साम्यो यजुषः स्वरमेव प्राविशन् (*tenu viditvordhvā ṛcaḥ sāmyo yajuṣaḥ svarameva prāviśan*) ‖ 3 ‖
+यदा वा ऋचमाप्नोत्योमित्येवातिस्वरत्येवं सामैवं यजुरेव उ स्वरो यदेतदक्षरमेतदमृतमभयं तत्प्रविश्य देवा अमृता अभया अभवन् (*yadā vā ṛcamāpnotyomityevātisvaratyevaṃ sāmaivaṃ yajureva u svaro yadetadakṣarametadamṛtamabhayaṃ tatpraviśya devā amṛtā abhayā abhavan*) ‖ 4 ‖
+स य एतदेवं विद्वानक्षरं प्रणौत्येतदेवाक्षरं स्वरममृतमभयं प्रविशति तत्पृविश्य यदमृता देवास्त्रदमृतो भवति (*sa ya etadevaṃ vidvānakṣaraṃ praṇautyetadevākṣaraṃ svaramamṛtamabhayaṃ praviśati tatpṛviśya yadamṛtā devāstradamṛto bhavati*) ‖ 5 ‖
+
+The gods, afraid of death, took refuge in the knowledge of the three (the triple Veda) and hid it with the metres (chandas). (That is why it is called chandas.) But as one easily finds fish in water, death found the gods who were hidden in the Ṛk and the others. Then they rose out of the ṛk, the yajus and the sāman and hid in the svara, taking refuge in it. [That is why the Oṅkāra is recited at the close of the Ṛk and the others.] This svara, of the form of Oṅkāra, is immortal and fearless. The gods too, taking refuge in it, attained immortality and fearlessness. Those who, knowing this principle, take refuge in this svara of the form of Oṅkāra become immortal and gain fearlessness.
+
+यस्मिन् विश्वे सर्वॆ देवा अधि निषेदुः (*yasmin viśve sarvè devā adhi niṣeduḥ*). प्रणवस्य सर्वमंत्रात्मकत्वात् मंत्रेषु सर्वदेवतानां निवासात् सर्वदेवनिवासत्वं (*praṇavasya sarvamaṃtrātmakatvāt maṃtreṣu sarvadevatānāṃ nivāsāt sarvadevanivāsatvaṃ*). ब्रह्माधिष्ठानत्वाद्वा ब्रह्मणि सर्वदेवानां निवासात् (*brahmādhiṣṭhānatvādvā brahmaṇi sarvadevānāṃ nivāsāt*). All the gods are established in the Praṇava. It can be said in two ways: the mantras are the dwelling of the gods, and the Praṇava has the nature of all the mantras; therefore the Praṇava is the dwelling of the gods: this is one way of putting it. Or: the Praṇava is the support of Brahman, and Brahman is the support of all the gods; therefore the Praṇava is the support of all the gods.
+
+Therefore, to show that without worship of the Praṇava there is no direct realisation of Brahman, it is explained in the ṛk under consideration with किमृचा करिष्यति (*kimṛcā kariṣyati*), and य इत्तद्विदुस्त इमे समासते (*ya ittadvidusta ime samāsate*). Those who (know) this … *[the printed sentence breaks off here at the end of the window and continues]*
+
 ---
 
-**Progress note:** Done through printed p. 578. Vol 12 pp. 573-578: Special Topics on Rk 39 (akshara, apara vidya, Upanishad citations), end of Sukta 164 Rk 39 commentary
+**Progress note:** Done through printed p. 585. Vol 12 pp. 579-585: Special Topics on Rk 39 (Nirukta, Upanishad citations, Pranava, Aitareya Brahmana, Chandogya story)
