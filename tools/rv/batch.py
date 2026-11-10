@@ -9,10 +9,15 @@ Base text = the supplied machine-read HTML/markdown (volcfg "source"); the scan 
   python3 tools/rv/batch.py zoomlist VOL WIN              every [?] with line and context
   python3 tools/rv/batch.py fix VOL WIN kn|en OLD NEW     exact unique replacement in WIN/kn.md or WIN/en.md (logged); then re-run build + check
   python3 tools/rv/batch.py commit VOL WIN --note TEXT [--max-doubts N] [--no-git]   append to the two volume files (progress note replaced), doubts log, git commit + push
+  python3 tools/rv/batch.py done VOL WIN --note TEXT [--max-doubts N] [--dry-run]    ONE command for the translator: build + check + inline/placeholder gates + commit + push
+                                                          + self-verification (git log, pushed, one progress note); prints <= 12 lines. --dry-run: gates only, nothing appended
+  python3 tools/rv/batch.py next VOL [--tokens T] [--tools K] [--min M]             ONE command for the dispatcher: audit the last window, log its cost, prep the next, print the message to send
+  python3 tools/rv/batch.py audit VOL                     repository invariants of the two volume files (script, no model): one progress note, no XXX, markers, pushed
+  python3 tools/rv/batch.py view VOL WIN                  kn.md with its Sanskrit blocks numbered «bN» (after a fix of kn.md the numbers may have moved)
 Position = the trailing '**Progress note:** Done through printed p. N' of the English file. Nothing is appended unless `check` passes."""
 import os,re,sys,json,glob,subprocess,shutil
 sys.path.insert(0,os.path.dirname(__file__))
-import rvlib,numerals,convert,labels,html_to_kn
+import rvlib,numerals,convert,labels,html_to_kn,check_inline
 ROOT=rvlib.ROOT
 def sh(c,**k): return subprocess.run(c,shell=True,capture_output=True,text=True,cwd=ROOT,**k)
 def rd(p): return open(p,encoding='utf8').read()
@@ -49,29 +54,62 @@ def cmd_new(a):
     if not os.path.exists(en): wr(en,f'# Rigveda Samhita — Volume {vol} (Kannada → English translation)\n\n---\n\n**Progress note:** Done through printed p. {start-1}; nothing translated yet.\n')
     if not os.path.exists(kn): wr(kn,f'# ಋಗ್ವೇದ ಸಂಹಿತಾ — ಸಂಪುಟ {vol} (Kannada text)\n*The Kannada text of the printed pages, made by script from the supplied machine-read text (tools/rv/html_to_kn.py) and checked by the translator; the English file is made from it. `[?]` marks a doubtful reading.*\n\n---\n\n')
     print('created',cp,'\nnext: put the supplied HTML/markdown in',f'vol{vol}/html/','and list it under "source" (file@FIRST-LAST printed pages); set "printed" only if you need PDF numbers (numeral file pages), and the numeral file(s) in',f'vol{vol}/numerals/')
-def cmd_prep(a):
+PLACEHOLDER=re.compile(r'(?<![IVXLCDM])XXX(?![IVXLCDM])')   # the placeholder, not a printed roman numeral such as 'Vol. XXXII' (Vol 12 p. 536: a translator rewrote the numeral to pass)
+def numbered(kn):
+    """kn.md with «bN» before the first line of every Sanskrit block (the numbers [[bN]] refers to)"""
+    out=[];n=0;inb=False
+    for l in kn.split('\n'):
+        isb=l.startswith('> ') and not l.startswith('> *')
+        if isb and not inb: n+=1; out.append(f'«b{n}»')
+        inb=isb; out.append(l)
+    return '\n'.join(out),n
+def mandalas(cfg): return cfg.d.get('mandalas') or [cfg.mandala,cfg.mandala+1]
+def cmd_prep(a,quiet=False):
     cfg=rvlib.Cfg(a[0]); heads={}; src=cfg.source_pages(heads)
     if src is None: sys.exit('volcfg.json has no "source": this workflow needs the supplied text (use the older scan workflow only for volumes without one)')
     dp,dpdf=position(cfg); pages=next_pages(cfg,dp,dpdf,src); w=os.path.join(cfg.work,f'w{pages[0][0]:04d}'); os.makedirs(w,exist_ok=True)
-    st=json.load(open(state_path(cfg))) if os.path.exists(state_path(cfg)) else {}
-    kn,sec=html_to_kn.kn_pages(cfg.source and [os.path.join(ROOT,x.split('@')[0])+('@'+x.split('@')[1] if '@' in x else '') for x in cfg.source],[p for p,_ in pages],st.get('section'))
+    specs=[os.path.join(ROOT,x.split('@')[0])+('@'+x.split('@')[1] if '@' in x else '') for x in cfg.source]
+    kn,sec=html_to_kn.kn_pages(specs,[p for p,_ in pages],None,mandalas(cfg))        # section/verse at the window start: found by the script itself (no state file)
+    notes=list(html_to_kn.LOG); extra=list(html_to_kn.EXTRA)
+    pages=sorted(set(pages)|{(p,None) for p in extra},key=lambda x:x[0])
     wr(os.path.join(w,'kn.md'),kn); wr(os.path.join(w,'section_end.txt'),sec or '')
     rows=numerals.load(cfg) if cfg.numeral_files() else []; info=[]; nrows=[]
     for pr,g in pages:
-        rs=numerals.rows_for(cfg,rows,g) if g else []
-        info.append(dict(printed=pr,pdf=g,file_page=cfg.file_page(g) if g else None,numeral_rows=len(rs)))
-        nrows.append(f'== printed {pr} (PDF {g}, file page {cfg.file_page(g) if g else "?"}): {len(rs)} rows\n'+'\n'.join(f"  line {r['line']} | {r['kn']} | {r['en']} | {r['ctx'][:100]}" for r in rs))
-    wr(os.path.join(w,'pages.json'),json.dumps(info,indent=1)); wr(os.path.join(w,'numerals.txt'),'\n'.join(nrows)+'\n')
-    rel=os.path.relpath(w,ROOT)
-    wr(os.path.join(w,'PROMPT.txt'),f"""Translate window {rel}: printed pages {pages[0][0]}-{pages[-1][0]} of Vol {cfg.vol}.
-Read tools/rv/TRANSLATOR_RULES.md first. The Kannada text of these pages is in {rel}/kn.md (made by script from the supplied machine-read text; letters and numbers are as supplied);
-numeral rows of the user's file: {rel}/numerals.txt. Position before this window: done through printed p. {dp}. The end of {os.path.relpath(cfg.en,ROOT)} (last ~80 lines) shows the format.
-Write {rel}/en.md (the Kannada text is NOT retyped: Sanskrit blocks are placed with [[bN]]), then run build and check (VOL={cfg.vol}) until check passes, then commit.
-""")
-    print(w); print(json.dumps(info,indent=1))
-    miss=[p for p,_ in pages if p not in src]
-    if miss: print('WARNING: not in the supplied text:',miss)
-    if cfg.numeral_files() and any(i['numeral_rows']==0 for i in info): print('NOTE: a numeral file is configured but has no rows for some of these pages (check numerals.file_page in volcfg.json)')
+        rs=numerals.rows_for(cfg,rows,g) if g and rows else []
+        info.append(dict(printed=pr,pdf=g if rows else None,file_page=cfg.file_page(g) if g and rows else None,numeral_rows=len(rs)))
+        nrows.append(f'== printed {pr}: {len(rs)} rows\n'+'\n'.join(f"  line {r['line']} | {r['kn']} | {r['en']} | {r['ctx'][:100]}" for r in rs))
+    wr(os.path.join(w,'pages.json'),json.dumps(info,indent=1))
+    if rows: wr(os.path.join(w,'numerals.txt'),'\n'.join(nrows)+'\n')                 # only when the user supplied a numeral file
+    rel=os.path.relpath(w,ROOT); en=rd(cfg.en); i=en.rfind('**Progress note:**'); body=en[:i].rstrip('\n').rstrip('-').rstrip('\n') if i>=0 else en
+    tail='…'+body[-900:]; prev=[p for p in sorted(src) if p<pages[0][0]][-1:]
+    pk=''
+    if prev:
+        t,_=html_to_kn.kn_pages(specs,prev,None,mandalas(cfg),warm=6); pk='\n'.join([l for l in t.split('\n') if l.strip()][-5:]); html_to_kn.LOG[:]=notes
+    view,nb=numbered(kn); med=sorted(len(v) for v in src.values())[len(src)//2]
+    long_=[p for p,_ in pages if p in src and len(src[p])>1.7*med]
+    if long_: notes.append(f'pages much longer than usual ({long_}): a running head may be missing inside (insert "<!-- printed N -->" + the head line in kn.md, "### Printed p. N" in en.md, and append the page to pages.json)')
+    task=f"""# Window {rel}: printed pp. {pages[0][0]}-{pages[-1][0]} of Vol {cfg.vol}   (rules: tools/rv/BRIEF.md)
+
+Write `{rel}/en.md`, then run:  python3 tools/rv/batch.py done {cfg.vol} {rel} --note "what the window covers"
+Page headings needed in en.md: {', '.join(f'### Printed p. {p}' for p,_ in pages)}.  Sanskrit blocks to place: [[b1]] … [[b{nb}]] (each exactly once, alone on its line).
+
+## What the script already did to kn.md (check it; mention garbled labels / inserted markers only if something is still wrong)
+{chr(10).join('- '+n for n in notes) or '- nothing special'}
+
+## Context, already translated — do NOT translate again (end of the English file, then the last Kannada lines before this window)
+{tail}
+
+{pk}
+
+## kn.md of this window («bN» = number of the Sanskrit block that follows; the marks are not in kn.md itself)
+{view}
+"""
+    wr(os.path.join(w,'TASK.md'),task); wr(os.path.join(w,'PROMPT.txt'),f'Read {rel}/TASK.md and do the window (rules: tools/rv/BRIEF.md).\n')
+    miss=[p for p,_ in pages if p not in src and p not in extra]
+    if not quiet:
+        print(w); print('pages:',[p for p,_ in pages],'| blocks:',nb,'| script notes:',len(notes))
+        if miss: print('WARNING: not in the supplied text:',miss)
+    return w,pages,notes
 def cmd_build(a):
     cfg=rvlib.Cfg(a[0]); w=a[1]; kn=rd(os.path.join(w,'kn.md')); en=rd(os.path.join(w,'en.md'))
     if re.search(r'^> \*',en,re.M): sys.exit("FAIL: IAST typed by hand in en.md ('> *' lines): IAST is added by script")
@@ -81,6 +119,11 @@ def cmd_build(a):
     r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
     wr(p,labels.normalise(rd(p)))
     r=sh(f'python3 publish/tools/accents/accent_volume.py {cfg.vol} --file "{p}" --write'); print('accents:',[l for l in (r.stdout+r.stderr).split('\n') if l.startswith('Vol') or 'not matched' in l or 'Error' in l or 'Trace' in l])
+    rep=os.path.join(ROOT,f'vol{cfg.vol}','review','accent_report.tsv')                     # the accent step rewrites its report every time: keep a cumulative copy (Vol 16 lesson 35)
+    if os.path.exists(rep):
+        rows=[l for l in rd(rep).split('\n')[1:] if l.strip()]; cum=rep.replace('.tsv','_cumulative.tsv'); tag=os.path.basename(w.rstrip('/'))
+        old=[l for l in (rd(cum).split('\n') if os.path.exists(cum) else []) if l.strip() and not l.startswith(tag+'\t')]
+        wr(cum,'\n'.join(old+[tag+'\t'+r for r in rows])+'\n')
     wr(os.path.join(w,'kn_final.md'),convert.kn_final(kn)); print('built',p,os.path.join(w,'kn_final.md'))
 def doubts(text): return [(i,l.strip()[:110]) for i,l in enumerate(text.split('\n'),1) if '[?]' in l]
 def cmd_check(a):
@@ -90,17 +133,33 @@ def cmd_check(a):
     if not os.path.exists(fe): sys.exit('run build first')
     enf=rd(fe)
     for p in pg:
-        if not re.search(rf"<!-- printed {p['printed']}[ :]",kn) and not re.search(rf"<!-- PDF {p['pdf']} ·",kn): fail.append(f"kn.md has no page marker for printed p. {p['printed']}")
+        if not re.search(rf"<!-- printed {p['printed']}[ :]",kn) and not (p.get('pdf') and re.search(rf"<!-- PDF {p['pdf']} ·",kn)): fail.append(f"kn.md has no page marker for printed p. {p['printed']}")
         if not re.search(rf"### Printed p\. {p['printed']}\b",en): fail.append(f"en.md has no heading '### Printed p. {p['printed']}'")
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
-    pdfs=[p['pdf'] for p in pg if p['pdf']]; res=numerals.check(cfg,pdfs,kn,en) if cfg.numeral_files() else numerals.check(cfg,[],kn,en,rows=[])
+    pdfs=[p['pdf'] for p in pg if p.get('pdf')]; res=numerals.check(cfg,pdfs,kn,en) if cfg.numeral_files() else numerals.check(cfg,[],kn,en,rows=[])
     print(numerals.report(res))
     if res['near']: fail.append(f"{len(res['near'])} numerals differ from the numeral file by 1-2 characters (the file is the reference: correct kn.md, or tell the user)")
     if res['twin_bad']: fail.append(f"English references without Kannada twin: {res['twin_bad']}")
     if res['missing']: fail.append(f"{len(res['missing'])} numeral-file rows have no counterpart in the Kannada text")
     if re.search(r'\[\[b\d+\]\]',enf): fail.append('unresolved [[bN]] in en_final.md')
     if re.search('['+chr(0x0900)+'-'+chr(0x0963)+chr(0x0966)+'-'+chr(0x097F)+']',convert.kn_final(kn)): fail.append('Devanagari in kn.md (the Kannada file is Kannada script only; danda marks are allowed)')
+    bad=check_inline.mismatches(w)
+    if bad: fail.append(f'{len(bad)} inline ⟦…⟧ segment(s) are not in kn.md (copy them from kn.md, never retype): '+' | '.join(x[:40] for x in bad[:6]))
+    if PLACEHOLDER.search(en) or PLACEHOLDER.search(enf): fail.append('placeholder XXX left in en.md')
+    dv=re.findall('[ऄ-ह][ऀ-ॣ]*',en)
+    if dv: fail.append(f'Devanagari typed in en.md ({len(dv)} places, e.g. {dv[0]}): Sanskrit is copied from kn.md in Kannada script inside ⟦ ⟧; the script converts')
+    if re.search(r'⟧\s*\(\*[^)]*\*\)',en): fail.append('hand IAST "(*…*)" after a ⟦ ⟧ segment in en.md: the build adds the IAST itself (Vol 16: 116 doubled pairs)')
+    if re.search(r'\(\*([^)]{2,})\*\) \(\*\1\*\)',enf): fail.append('doubled IAST "(*x*) (*x*)" in en_final.md')
+    for sec in re.findall(r'\*\*Pratipadārtha\*\*\n(.*?)(?=\n\*\*|\n#|\Z)',en,re.S):
+        if sec.count('—')>=3 and '⟦' not in sec: fail.append('a Pratipadārtha has no ⟦ ⟧ headwords (the Sanskrit words are copied from kn.md inside ⟦ ⟧, not written in Latin letters)'); break
+    acc=[l[:60] for l in enf.split('\n') if l.startswith('> ') and re.search('([१३])[॒॑]+\\1|्[॒॑]|[॒॑][ा-ौ]',l)]
+    if acc: print('ACCENT WARNING (doubled pluta digit / mark at a virama or before a vowel sign; logged, do not hand-edit):',acc[:3]); open(os.path.join(ROOT,f'vol{cfg.vol}','review','accent_flags.tsv'),'a',encoding='utf8').write(''.join(f"{os.path.basename(w)}\t{x}\n" for x in acc))
+    if re.search(r'⟦\s*⟧|⟦\s*\(\*\s*\*\)\s*⟧',enf): fail.append('empty inline segment ⟦ ⟧ in en.md')
+    if re.search(r'\*\*Progress note',en): fail.append('en.md must not contain a Progress note (the script writes it)')
+    if '[figure' in kn: fail.append('kn.md still has a [figure: …] line: read the picture, write the block into kn.md, remove the line (BRIEF.md)')
+    for m in re.findall(r'<!-- printed (\d+)',kn):
+        if int(m) not in [p['printed'] for p in pg]: fail.append(f'kn.md has a marker for printed p. {m} that is not in pages.json (append it there and add "### Printed p. {m}" to en.md)')
     nums=[int(x) for x in re.findall(r'^#### Ṛk (\d+)',enf,re.M)]
     if nums and any(b<a_ and b!=1 for a_,b in zip(nums,nums[1:])): fail.append(f'Ṛk headings out of order: {nums}')
     print('\nFAIL:' if fail else '\nPASS')
@@ -120,16 +179,17 @@ def cmd_fix(a):
     wr(p,t.replace(old,new)); open(os.path.join(w,'fixes.tsv'),'a',encoding='utf8').write(f'{which}\t{old}\t{new}\n'); print('fixed; re-run build and check')
 def cmd_commit(a):
     cfg=rvlib.Cfg(a[0]); w=a[1]; note=a[a.index('--note')+1]; mx=a[a.index('--max-doubts')+1] if '--max-doubts' in a else '0'
+    if re.match(r'\s*Done through',note): sys.exit('FAIL: the note must not start with "Done through" (the script writes the position)')
     r=sh(f'python3 tools/rv/batch.py check {cfg.vol} "{w}" --max-doubts {mx}'); print(r.stdout[-1500:])
     if r.returncode: sys.exit('check failed: nothing appended')
     if cfg.branch and '--no-git' not in a:
         cur=sh('git rev-parse --abbrev-ref HEAD').stdout.strip()
-        if cur!=cfg.branch and not os.environ.get('ALLOW_OTHER_BRANCH'): sys.exit(f'STOP: on branch {cur!r}, Vol {cfg.vol} belongs on {cfg.branch!r}')
-    pg=json.load(open(os.path.join(w,'pages.json'))); last=max(pg,key=lambda x:x['printed']); enf=rd(os.path.join(w,'en_final.md')).rstrip('\n'); knf=rd(os.path.join(w,'kn_final.md')).strip()   # last = highest printed page, even if a merged head was appended to pages.json out of order (Vol 12 w0159)
+        if cur!=cfg.branch and cur not in cfg.d.get('branches',[]) and not os.environ.get('ALLOW_OTHER_BRANCH'): sys.exit(f'STOP: on branch {cur!r}, Vol {cfg.vol} belongs on {cfg.branch!r}')
+    pg=json.load(open(os.path.join(w,'pages.json'))); last=max(pg,key=lambda x:x['printed']); pg=sorted(pg,key=lambda x:x['printed']); enf=rd(os.path.join(w,'en_final.md')).rstrip('\n'); knf=rd(os.path.join(w,'kn_final.md')).strip()   # last = highest printed page, even if a merged head was appended to pages.json out of order (Vol 12 w0159)
     s=rd(cfg.en); n0=len(s); i=s.rfind('**Progress note:**')
     if i>=0:
         assert i>len(s)-20000,'progress note not near the end'; s=s[:i].rstrip('\n').rstrip('-').rstrip('\n')
-    pdf=f" (PDF {last['pdf']})" if last['pdf'] else ''
+    pdf=f" (PDF {last['pdf']})" if last.get('pdf') else ''
     s=s+'\n\n'+enf+f"\n\n---\n\n**Progress note:** Done through printed p. {last['printed']}{pdf}. {note}\n"
     assert s.count('**Progress note:**')==1 and len(s)>=n0-2000; wr(cfg.en,s)
     k=rd(cfg.kn); assert not re.search(rf"<!-- printed {pg[0]['printed']}[ :]",k),'Kannada file already has this window'; wr(cfg.kn,k.rstrip('\n')+'\n\n'+knf+'\n')
@@ -143,8 +203,64 @@ def cmd_commit(a):
             for x in dl: f.write('\t'.join(map(str,x))+'\n')
     print('appended to',os.path.relpath(cfg.en,ROOT),'and',os.path.relpath(cfg.kn,ROOT),f'; {len(dl)} doubts logged')
     if '--no-git' not in a:
-        r=sh(f'git add -A && git commit -qm "Vol {cfg.vol}: {rng}" -m "Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" && git push -q origin HEAD'); print('git:',(r.stdout+r.stderr).strip()[-200:] or 'pushed')
-CMDS=dict(new=cmd_new,prep=cmd_prep,build=cmd_build,check=cmd_check,zoomlist=cmd_zoomlist,fix=cmd_fix,commit=cmd_commit)
+        co=os.environ.get('RV_COAUTHOR') or cfg.d.get('coauthor') or 'Claude <noreply@anthropic.com>'
+        r=sh(f'git add "vol{cfg.vol}" && git commit -qm "Vol {cfg.vol}: {rng}" -m "Co-Authored-By: {co}" && git push -q origin HEAD'); print('git:',(r.stdout+r.stderr).strip()[-200:] or 'pushed')
+
+def audit(cfg,expect_clean=True):
+    """invariants of the volume files and of git; returns (problems, facts)"""
+    en=rd(cfg.en); kn=rd(cfg.kn); pr=[]; dp,_=position(cfg)
+    if en.count('**Progress note:**')!=1: pr.append(f"{en.count('**Progress note:**')} progress notes in the English file (must be 1)")
+    if PLACEHOLDER.search(en): pr.append('XXX in the English file')
+    if re.search(r'⟦\s*⟧|⟦\s*\(\*\s*\*\)\s*⟧',en): pr.append('empty ⟦ ⟧ in the English file')
+    if re.search('['+chr(0x0900)+'-'+chr(0x0963)+chr(0x0966)+'-'+chr(0x097F)+']',kn): pr.append('Devanagari in the Kannada file')
+    pe=[int(x) for x in re.findall(r'^### Printed p\. (\d+)',en,re.M)]; pk=[int(x) for x in re.findall(r'<!-- printed (\d+)',kn)]
+    if set(pe)!=set(pk): pr.append(f'page marks differ between the files: only English {sorted(set(pe)-set(pk))[:8]}, only Kannada {sorted(set(pk)-set(pe))[:8]}')
+    if pe and max(pe)!=dp: pr.append(f'progress note says p. {dp} but the last page heading is p. {max(pe)}')
+    q=lambda t:t.count('[?]')-t.count('`[?]`')
+    if q(en)!=q(kn): pr.append(f"[?] counts differ: English {q(en)}, Kannada {q(kn)}")
+    st=sh('git status -sb').stdout.split('\n'); dirty=[l for l in st[1:] if l.strip() and f'vol{cfg.vol}/' in l and '/work/' not in l]
+    if expect_clean and dirty: pr.append('uncommitted changes: '+'; '.join(dirty[:4]))
+    if 'ahead' in st[0]: pr.append('commits not pushed: '+st[0])
+    return pr,dict(page=dp,pages=len(pe),doubts=q(en),head=sh('git log -1 --oneline').stdout.strip())
+def cmd_audit(a):
+    cfg=rvlib.Cfg(a[0]); pr,f=audit(cfg); print(f"Vol {cfg.vol}: done through printed p. {f['page']} ({f['pages']} page headings, {f['doubts']} [?]); HEAD {f['head']}")
+    print('AUDIT FAIL:\n - '+'\n - '.join(pr) if pr else 'AUDIT PASS'); sys.exit(1 if pr else 0)
+def cmd_view(a): print(numbered(rd(os.path.join(a[1],'kn.md')))[0])
+def cmd_done(a):
+    """build + check (+ inline and placeholder gates) + commit + push + self-verification: the translator's single command"""
+    cfg=rvlib.Cfg(a[0]); w=a[1].rstrip('/'); note=a[a.index('--note')+1] if '--note' in a else ''; mx=a[a.index('--max-doubts')+1] if '--max-doubts' in a else '0'
+    if not note and '--dry-run' not in a: sys.exit('give --note "what the window covers"')
+    r=sh(f'python3 tools/rv/batch.py build {cfg.vol} "{w}"')
+    if r.returncode: print('BUILD FAIL\n'+(r.stdout+r.stderr).strip()[-1500:]); sys.exit(1)
+    acc=[l for l in r.stdout.split('\n') if l.startswith('accents:')]
+    r=sh(f'python3 tools/rv/batch.py check {cfg.vol} "{w}" --max-doubts {mx}')
+    if r.returncode: print('CHECK '+r.stdout[r.stdout.rfind('FAIL'):].strip()[:1800]+'\nNothing was appended. Fix en.md / kn.md (batch.py fix …) and run done again.'); sys.exit(1)
+    print('gates: PASS |',(acc[0][:160] if acc else 'accents: n/a'))
+    if '--dry-run' in a: print('dry run: nothing appended'); return
+    extra=' --no-git' if '--no-git' in a else ''
+    r=sh(f'python3 tools/rv/batch.py commit {cfg.vol} "{w}" --note "{note.replace(chr(34),chr(39))}" --max-doubts {mx}{extra}')
+    out=(r.stdout+r.stderr).strip()
+    if r.returncode or 'appended to' not in out: print('COMMIT FAIL\n'+out[-1200:]); sys.exit(1)
+    pr,f=audit(cfg,expect_clean=not extra); pg=json.load(open(os.path.join(w,'pages.json'))); last=max(p['printed'] for p in pg)
+    if f['page']!=last: pr.append(f"progress note is at p. {f['page']}, window ends at p. {last}")
+    if not extra and f'Vol {cfg.vol}: printed pp.' not in f['head']: pr.append('HEAD is not this window\'s commit: '+f['head'])
+    print(f"DONE through printed p. {f['page']} | {f['head']} | {'pushed' if not extra else 'no git'}")
+    if pr: print('VERIFY FAIL:\n - '+'\n - '.join(pr)); sys.exit(1)
+    print('VERIFIED: one progress note, no XXX, no empty ⟦⟧, page marks equal in both files, pushed. Report in <= 4 lines.')
+def cmd_next(a):
+    """dispatcher: audit, log the cost of the window just done, prep the next window, print the message for the translator"""
+    cfg=rvlib.Cfg(a[0]); opt=lambda k:a[a.index(k)+1] if k in a else 'n/a'
+    pr,f=audit(cfg,expect_clean=False)
+    if pr: print('AUDIT FAIL (fix before the next window):\n - '+'\n - '.join(pr)); sys.exit(1)
+    cost=os.path.join(ROOT,f'vol{cfg.vol}','parts','batch_costs.md'); os.makedirs(os.path.dirname(cost),exist_ok=True)
+    if '--tokens' in a or '--tools' in a or '--min' in a:
+        open(cost,'a',encoding='utf8').write(f"| through p. {f['page']} | {opt('--model') if '--model' in a else 'sonnet'} | {opt('--tools')} | {opt('--tokens')} | {opt('--min')} |\n")   # committed with the next window (commit adds volN/)
+    try: w,pages,notes=cmd_prep([a[0]],quiet=True)
+    except SystemExit as e: print(f"Vol {cfg.vol}: done through printed p. {f['page']}; no further window: {e}"); return
+    rel=os.path.relpath(w,ROOT)
+    print(f"audit PASS | done through p. {f['page']} | {f['doubts']} [?] | next window {rel} (pp. {pages[0][0]}-{pages[-1][0]}, {len(notes)} script notes)")
+    print(f'MESSAGE: Window {rel}: read {rel}/TASK.md, write {rel}/en.md, run `python3 tools/rv/batch.py done {cfg.vol} {rel} --note "…"` until it prints VERIFIED; report in <= 4 lines (last line of `done`, hand-fixes, doubts).')
+CMDS=dict(new=cmd_new,prep=cmd_prep,build=cmd_build,check=cmd_check,zoomlist=cmd_zoomlist,fix=cmd_fix,commit=cmd_commit,done=cmd_done,next=cmd_next,audit=cmd_audit,view=cmd_view)
 if __name__=='__main__':
     if len(sys.argv)<3 or sys.argv[1] not in CMDS: sys.exit(__doc__)
     CMDS[sys.argv[1]](sys.argv[2:])

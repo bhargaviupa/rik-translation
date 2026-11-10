@@ -62,3 +62,35 @@
 | w0188 | 188-190 | sonnet (standing) | n/a | n/a | n/a |
 | w0191 | 191-193 | sonnet (standing) | n/a | n/a | n/a |
 | w0194 | 194-196 | sonnet (standing) | n/a | n/a | n/a |
+| through p. 199 | sonnet | 5 | 95800 | 0.9 |
+| through p. 203 | sonnet | 7 | 122994 | 1.4 |
+| through p. 210 | sonnet | 7 | 121997 | 2.2 |
+| through p. 216 | sonnet | 7 | 99630 | 1.4 |
+| through p. 222 | sonnet | 8 | 99827 | 1.6 |
+| through p. 240 (three windows in one agent: pp. 223-228, 229-234, 235-240) | sonnet | 22 | 181723 | 6.1 |
+| through p. 260 (three windows in one agent: pp. 241-246, 247-254, 255-260) | sonnet | 20 | 193043 | 6.8 |
+| through p. 278 (three windows in one agent: pp. 261-266, 267-272, 273-278) | sonnet | 17 | 178512 | 6.2 |
+| through p. 296 (three windows in one agent: pp. 279-284, 285-290, 291-296) | sonnet | 17 | 197428 | 7.0 |
+| through p. 315 (three windows in one agent: pp. 297-302, 303-309, 310-315) | sonnet | 23 | 204448 | 6.9 |
+| through p. 335 (three windows in one agent: pp. 316-322, 323-329, 330-335) | sonnet | 17 | 228567 | 9.6 |
+| through p. 353 (three windows in one agent: pp. 336-341, 342-347, 348-353) | sonnet | 18 | 205936 | 8.2 |
+| through p. 373 (three windows in one agent: pp. 354-359, 360-367, 368-373) | sonnet | 18 | 201697 | 6.7 |
+| through p. 392 (three windows in one agent: pp. 374-379, 380-386, 387-392) | sonnet | 22 | 205854 | 7.1 |
+| through p. 411 (three windows in one agent: pp. 393-398, 399-404, 405-411) | sonnet | 26 | 199934 | 7.1 |
+| through p. 434 (three windows in one agent: pp. 412-422, 423-428, 429-434) | sonnet | 19 | 231860 | 8.7 |
+| through p. 454 (three windows in one agent: pp. 435-441, 442-447, 448-454) | sonnet | 22 | 213640 | 6.9 |
+| through p. 472 (three windows in one agent: pp. 455-460, 461-466, 467-472) | sonnet | 19 | 186182 | 5.9 |
+| through p. 490 (three windows in one agent: pp. 473-478, 479-484, 485-490) | sonnet | 23 | 225898 | 6.4 |
+| through p. 508 (three windows in one agent: pp. 491-496, 497-502, 503-508) | sonnet | 20 | 217130 | 8.3 |
+| through p. 528 (three windows in one agent: pp. 509-514, 515-522, 523-528) | sonnet | 21 | 212152 | 6.4 |
+| through p. 546 (three windows in one agent: pp. 529-534, 535-540, 541-546) | sonnet | 23 | 205818 | 7.4 |
+| through p. 565 (three windows in one agent: pp. 547-552, 553-558, 559-565) | sonnet | 23 | 235739 | 8.3 |
+| through p. 585 (three windows in one agent: pp. 566-572, 573-578, 579-585) | sonnet | 19 | 233737 | 9.3 |
+| through p. 604 (three windows in one agent: pp. 586-592, 593-598, 599-604) | sonnet | 18 | 187749 | 6.4 |
+| through p. 623 (three windows in one agent: pp. 605-611, 612-617, 618-623) | sonnet | 20 | 193952 | 6.3 |
+| through p. 642 (three windows in one agent: pp. 624-630, 631-636, 637-642) | sonnet | 18 | 183592 | 5.4 |
+| through p. 662 (three windows in one agent: pp. 643-650, 651-656, 657-662) | sonnet | 19 | 211559 | 7.8 |
+| through p. 682 (three windows in one agent: pp. 663-669, 670-676, 677-682) | sonnet | 24 | 214754 | 6.9 |
+| through p. 700 (three windows in one agent: pp. 683-688, 689-694, 695-700) | sonnet | 19 | 167580 | 5.0 |
+| through p. 721 (three windows in one agent: pp. 701-708, 709-715, 716-721) | sonnet | 27 | 204126 | 6.0 |
+| through p. 727 FINAL (one window: pp. 722-727) | sonnet | 11 | 102834 | 2.0 |

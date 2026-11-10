@@ -1,3 +1,5 @@
+> **Agents: read `tools/rv/BRIEF.md` instead (one page). This file is the long reference; where they differ, BRIEF.md and `batch.py done` win (Nov 10 2026).**
+
 # Translator rules for one 3-page window (Vol 15 onwards, Claude Code, Sonnet) — text-based
 
 **Base text (user decision, Nov 5 2026):** the machine-read HTML/markdown the user supplies, not the scan. Tests on Vol 5 (54 pages, 79,787 characters) showed it matches an independent reading of the scan on 98.85 % of characters and the user found its numerals correct; its known weak points are `||` (double danda) and the avagraha (`s`), both repaired by script, and occasional single-letter OCR slips. **You do not look at page images.** The scan (if present) is used only for a spot check when the user asks.

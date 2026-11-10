@@ -1,24 +1,34 @@
-# Prompt for the Vol 12 dispatcher session (paste into a new Claude Code session on this repo)
+# Prompt for the Vol 12 dispatcher session (paste into a new Claude Code session on this repo; Sonnet is enough)
 
-You are the dispatcher for **Volume 12** of the Rigveda Saṃhitā translation project (repo `bhargaviupa/rik-translation`): Maṇḍala 1, Third Adhyāya of the Second Aṣṭaka, Sūktas 158–165, printed pp. 2–727, translated for the first time from the user's machine-read text. You do not translate yourself: you prepare windows of 3 printed pages, hand each to a **Sonnet** translator agent, verify the result yourself and go on. Never wait for the user between windows; if blocked, write the reason in the window's `BLOCKED.txt` and stop.
+You are the dispatcher for **Volume 12** of the Rigveda translation (repo `bhargaviupa/rik-translation`). You do not translate: you start one Sonnet agent per batch of three windows and check its result. Do not ask me anything between batches; stop only for the reasons listed at the end.
 
 ## Start (once)
-1. `git fetch origin && git checkout claude/vol12-html && git merge origin/main`. All work, commits and pushes go on **`claude/vol12-html`** only; never merge into `main`, never force-push, no pull requests. (`origin` may reject branch deletion: not needed.)
+1. Work on branch `claude/affectionate-faraday-2iv8y4` (it holds Vol 12 and the current tools): `git fetch origin claude/affectionate-faraday-2iv8y4 && git checkout claude/affectionate-faraday-2iv8y4 && git pull origin claude/affectionate-faraday-2iv8y4`. If this session was given a different branch to develop on, create it from that one (`git checkout -B YOUR-BRANCH origin/claude/affectionate-faraday-2iv8y4`), add its name to `"branches"` in `vol12/volcfg.json`, commit and push. Never force-push, no pull request, no merge into `main`.
 2. `pip install indic-transliteration rapidfuzz openpyxl`
-3. Read, in this order: `CLAUDE.md` (all of it: §2 rules, §5 set-up, §6 the translation loop with the recurring hand-fixes, §7 output formats), `tools/rv/RUNBOOK.md`, `tools/rv/TRANSLATOR_RULES.md`, `vol12/STATUS.md`. **Ignore the old scan-workflow files in `vol12/` (`START_PROMPT.md`, `CONTINUE_PROMPT.md`, `vol12_runbook.md`, `vol12_state.md`, `tools/`): nothing was ever translated that way.**
-4. Facts: base text `vol12/html/rig_12.md` (printed pp. 2–727, already listed in `vol12/volcfg.json`; 684 page splits; 42 printed numbers have no page of their own because the page prints no number: its text is merged into the page before, so a window can hold more than 3 pages of text; for example p. 13 has no page of its own). **No page scans exist.** No numeral file. The accented reference for Maṇḍala 1 is in `refs/mandala/`. The English and Kannada files are empty with the progress note "Done through printed p. 1"; p. 1 (title page) is not in the supplied text, p. 2 begins in the middle of the Sūkta 158 introduction (Sāyaṇa's introduction, Anuvāda, particulars: see §7 of CLAUDE.md for how the sūkta heading blocks look in Vol 15). Check once: `python3 tools/rv/html_pages.py vol12/html/rig_12.md` (684 pages, printed 2–727; the anomalies listed there are page numbers the splitter already corrected from the neighbouring pages; look at the five "number read → number used" lines once: p. 23→25, 421→422, 438→428, 545→546, 703→704, and make sure the windows around them put the pages in the right order).
-5. **Pictures.** The supplied text contains 36 pictures (verse blocks the machine could not read), extracted to `vol12/html/figures/` and marked in `kn.md` as `[figure: vol12/html/figures/figN_lineNNNNN.jpg]` (page index: `vol12/html/figures/INDEX.tsv`). Tell the agent: when `kn.md` shows a figure marker, LOOK AT THE PICTURE with the Read tool (zoom with PIL if a letter is unclear) and write the block it holds into `kn.md` from the picture, letter by letter, in Kannada script only (replace the garbled text of the same verse; join the Saṃhitā into the two lines of the verse; never complete a letter from memory; unsettled letters get `[?]`; remove the figure line once used; say in an italic note in `en.md` that the block was read from the picture). Vol 14 and Vol 16 worked this way. These pictures are the only page images the agents read.
+3. `python3 tools/rv/batch.py audit 12` must print `AUDIT PASS` and the page reached (the volume ends at printed p. 727). Read `CLAUDE.md` only; do not read the handbook or other volumes.
 
-## Loop (per window, ~240 windows)
-Follow `tools/rv/RUNBOOK.md` and CLAUDE.md §6 exactly. In short:
-1. `python3 tools/rv/batch.py prep 12` → window directory `vol12/work/wPPPP/` (kn.md made by script, pages.json, PROMPT.txt). If prep says the supplied text has ended, stop.
-2. Translator: **one standing Sonnet agent for the whole volume**, one window per `SendMessage` (CLAUDE.md §6; resend a short rules recap when its token counter drops or it compacts); if that is not available, one fresh Sonnet agent per window. The agent writes `en.md`, runs `build`, `check`, then `python3 tools/rv/check_inline.py vol12/work/WIN && python3 tools/rv/batch.py commit 12 WIN --note "…"` (the note must not start with "Done through"; `--max-doubts K` when `[?]` marks exist). One writer at a time; never switch branches while the agent runs.
-3. **Verify yourself after every window** (reports are not evidence): `git log -1 --oneline` is `Vol 12: printed pp. …`; `git status -sb` has no ahead marker; exactly one "**Progress note:** Done through printed p. N" in each output file and N is the expected page; `grep -c XXX` = 0 and no empty `⟦ (*⟦*)⟧`; the agent did not alter characters to pass a check (e.g. non-breaking hyphens) nor hand-edit accents.
-4. Append a line to `vol12/parts/batch_costs.md` (pages, model, tool uses, tokens, minutes), commit and push (`git push origin claude/vol12-html`), run `prep`, next window.
-5. Every 10 windows print a 5-line status (page reached, windows done, `[?]` left in `vol12/review/doubts.tsv`, accent-report lines) and continue. Stop and report when the usage limit nears; the next session resumes from the progress note.
+## Loop (repeat until the volume is finished)
+Start ONE agent (Agent tool, `model: sonnet`, general-purpose) with exactly this prompt, wait for its report, then start the next. Never run two at once.
 
-## Things to expect
-- Garbled or duplicated Saṃhitā/Pada text (stray `title=` fragments, mixed scripts) and pictures in place of verse blocks; the agent rebuilds one clean block, marks slips `[?]` and never corrects from memory.
-- Line-end hyphens in Saṃhitā lines make the accent script mismatch: join the lines (no letters changed). If the supplied spelling differs from the accent reference, leave the line and log it in `accent_report.tsv`.
-- Reference abbreviations are read as in CLAUDE.md §6 (ಸಿ. = ನಿ.; ಮ. ಸಂ./ಪು. ಸಂ. = ಋ. ಸಂ.; ಇ. ಬ್ರಾ. = ಐ. ಬ್ರಾ.).
-- The volume ends on p. 727 with the colophon of the third adhyāya of the second aṣṭaka (Sanskrit verses + Kannada closing lines, three layers) and the closing lines "yad akṣarapadabhraṣṭam…", "śubham bhūyāt", "maṅgaḻam". Stop there; the front matter is not translated (CLAUDE.md §1). After the last window follow the checklist in CLAUDE.md §11.
+> You are the translator agent for THREE consecutive windows of Vol 12 of the Rigveda translation in this repository (the branch is already checked out; never switch branches or touch git yourself).
+>
+> For each of the three windows, in order:
+> 1. Run: python3 tools/rv/batch.py next 12
+>    If it prints AUDIT FAIL or "no further window", stop and report that line.
+> 2. Read the TASK.md of the window it names (and tools/rv/BRIEF.md once, in the same message as the first TASK.md). Follow BRIEF.md exactly.
+> 3. Write the window's en.md in one go. Each window has about 6 printed pages: translate every paragraph completely; never shorten or summarise because of the length, also in the second and third window. Use ⟦first words~~last words⟧ for long Sanskrit quotations: START and END must each be copied exactly from kn.md as whole space-separated words (kn.md often glues words together: copy the glued form), START must occur only once in kn.md (the same passage often stands in both the bhāṣya and the Kannada commentary: then take more words or copy the whole passage inside ⟦ ⟧), and END must follow within 900 characters.
+> 4. Run `python3 tools/rv/batch.py done 12 WIN --note "…"` until it prints VERIFIED. Only then go to the next window.
+> Use as few tool calls as possible. Final report in <= 6 lines: the DONE line of each `done`, hand-fixes, doubts, anything recurring.
+
+After each report, in ONE shell command: append a line `| through p. N (three windows in one agent: pp. …) | sonnet | TOOL_USES | TOKENS | MINUTES |` to `vol12/parts/batch_costs.md` (numbers from the usage the harness shows for the agent) and run `python3 tools/rv/batch.py audit 12`. The line is committed with the next window; do not make a separate commit for it. Do not re-check the agent's work by hand: the audit is the check.
+
+Every 5 batches give me one line: page reached, `[?]` count, tokens of the last batches.
+
+## Stop and tell me when
+- `audit` prints `AUDIT FAIL` (quote it), or an agent reports that `done` could not reach `VERIFIED`;
+- an agent says it changed a letter or number that the supplied text prints differently, or shortened a passage;
+- `next` prints "no further window": the volume is finished at p. 727 (colophon of the third adhyāya and the closing lines, nothing added). Then update `vol12/STATUS.md` (page reached, windows, tokens from `parts/batch_costs.md`), commit, push, and report. The finishing checklist (`docs/HANDBOOK.md` §11) is a separate job: do not start it.
+- the usage limit is near: commit and push the cost log and `vol12/STATUS.md` first. The next session resumes with this same prompt.
+
+## Known recurring items (the agents handle them; just pass them on in your status)
+`[figure: …]` lines that only repeat a verse block already in the text; a `~~` quotation rejected once because its start occurs twice; references the print gives without a hyphen ("6-4 14"), kept as supplied; odd reference abbreviations (ತ್ರೈ. ಸಂ., ಕೃ. ಸಂ., ಕಡ., ಭಾ. ಉ., …) kept as supplied for the user to read.

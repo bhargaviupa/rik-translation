@@ -18,9 +18,33 @@ def kn_blocks(kn_text):
             cur.append(l[2:])
         else: cur=None
     return blocks
+def kn_flat(kn_text):
+    """kn.md as one line of text for quotation look-up: block prefixes, page markers and note lines dropped, line breaks -> spaces"""
+    ls=[re.sub(r'^> ','',l) for l in kn_text.split('\n') if l.strip() and not l.startswith(('<!--','*[','[figure')) and not re.fullmatch(r'\*[^*]+\*',l.strip())]
+    return re.sub(r'\s+',' ',' '.join(ls))
+def resolve_markers(en_text,kn_text,prob=None,maxlen=900):
+    """⟦START~~END⟧ -> ⟦the passage of kn.md from START to END⟧.  For long quotations: the translator writes only the first and last words (copied from
+    kn.md) and the script copies the passage.  START must occur exactly once in kn.md, END must follow within `maxlen` characters (Vol 16: home-made
+    expanders matched an earlier START and swallowed pages)."""
+    flat=kn_flat(kn_text); prob=prob if prob is not None else []
+    pos=[i for i,c in enumerate(flat) if c!=' ']; ns=''.join(flat[i] for i in pos)      # spaces are ignored when matching: kn.md often glues words that the translator separates (and the reverse)
+    def rep(m):
+        a,b=[re.sub(r'\s+','',x) for x in m.group(1).split('~~',1)]
+        if not a or not b: prob.append('empty START or END in '+m.group(0)[:50]); return m.group(0)
+        n=ns.count(a)
+        if n!=1: prob.append(f'⟦{a}~~…⟧: START occurs {n} times in kn.md (must be exactly once: use more words)'); return m.group(0)
+        i=ns.index(a); j=ns.find(b,i+len(a))
+        if j<0: prob.append(f'⟦{a}~~{b}⟧: END not found after START'); return m.group(0)
+        i0=pos[i]; j1=pos[j+len(b)-1]+1
+        if j1-i0>maxlen: prob.append(f'⟦{a}~~{b}⟧: END is more than {maxlen} characters after START'); return m.group(0)
+        m2=re.match(r'\s*[।॥]',flat[j1:])                 # a danda that closes the quotation belongs to it (Vol 12 QA: closing dandas were dropped)
+        if m2: j1+=m2.end()
+        return '⟦'+flat[i0:j1]+'⟧'
+    return re.sub(r'⟦([^⟧]*~~[^⟧]*)⟧',rep,en_text)
 def expand(en_text,kn_text):
     """returns (text, problems)"""
     blocks=kn_blocks(kn_text); used=set(); prob=[]; out=[]
+    en_text=resolve_markers(en_text,kn_text,prob)
     # a quotation may be broken over several lines in en.md: join it first (add_iast.py and the line-wise conversion below work on single lines)
     en_text=re.sub(r'⟦([^⟧]*)⟧',lambda m:'⟦'+re.sub(r'\s*\n\s*',' ',m.group(1)).strip()+'⟧',en_text)
     for l in en_text.split('\n'):
