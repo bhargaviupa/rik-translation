@@ -2133,6 +2133,105 @@ He it is, amongst gods (the most divine), amongst (pious) works the most pious, 
 
 रोदसी जजान (*rodasī jajāna*)—In the sentence "he created Heaven and Earth", a contradiction appears when looked at superficially.
 
+### Printed p. 75
+
+*Running head: [ಆ. ೨ ಆ. ೩. ವ. ೩.] Ṛgveda-saṃhitā, p. 75 (as supplied).* (The Special Topics of Ṛk 4 continue.)
+
+नमो मित्रस्य वरुणस्य चक्षसे महो देवाय तदृतं सपर्यत । (*namo mitrasya varuṇasya cakṣase maho devāya tadṛtaṃ saparyata |*)
+दूरेदृशे देवजाताय केतवे दिवस्सुताय सूराय शंसत ॥ (*dūredṛśe devajātāya ketave divassutāya sūrāya śaṃsata ‖*)
+
+*[Stray fragment "( ಋ." as supplied, before the reference.]* (Ṛ. Saṃ. 10-37-1)
+
+In such sentences Āditya is called the son of heaven; in still other places he is also said to be the son of Heaven and Earth. But, supporting the view stated in the present ṛk,
+
+यत्रा समुद्रः स्कभितो व्यौनदपां नपात्सविता तस्य वेद । (*yatrā samudraḥ skabhito vyaunadapāṃ napātsavitā tasya veda |*)
+अतो भारत आ उत्थितं रजोऽतो द्यावापृथिवी अप्रथेतां !! (*ato bhārata ā utthitaṃ rajo 'to dyāvāpṛthivī aprathetāṃ !!*)
+
+(Ṛ. Saṃ. 10-149-2) *[the closing double danda is printed "!!", as supplied]*
+
+in such ṛks it is also said, अस्मादेव सवितुः भूमिरासीत् । रजः अंतरिक्षं च अजायत । (*asmādeva savituḥ bhūmirāsīt | rajaḥ aṃtarikṣaṃ ca ajāyata |*), that the earth and the atmosphere were born from this very Savitṛ. There is no contradiction in saying that there is a mutual relation of producer and produced; for, since Savitṛ rises in the atmosphere itself and the atmosphere is his support and refuge, he is called the son of heaven. And
+
+दिवो धर्ता भवनस्य प्रजापतिः पिशंगं द्रापिं प्रति मुंचते कविः । (*divo dhartā bhavanasya prajāpatiḥ piśaṃgaṃ drāpiṃ prati muṃcate kaviḥ |*)
+
+(Ṛ. Saṃ. 4-53-2)
+
+आप्रा रजांसि दिव्यानि पार्थिवा श्लोकं देवः कृणुते धर्मणे (*āprā rajāṃsi divyāni pārthivā ślokaṃ devaḥ kṛṇute dharmaṇe*)
+
+(Ṛ. Saṃ. 4-53-2) *[the same reference is printed again, as supplied]*
+
+नि नाकमुख्यत्सविता वरेण्योऽनु प्रयाणमुषसो वि राजति । (*ni nākamukhyatsavitā vareṇyo 'nu prayāṇamuṣaso vi rājati |*)
+
+(Ṛ. Saṃ. 5-81-2)
+
+in all such ṛks, because he made the earth and the atmosphere, which were hidden by darkness, bright and visible to all, because he is well known as the supporter of these worlds, and because he helps the two worlds to move according to the rule, he is said to be the producer of Heaven and Earth. Since there is truth in both statements, there is no contradiction between them.
+
+विश्वशंभुवा रोदसी (*viśvaśaṃbhuvā rodasī*)—सर्वप्रकारेण भूतानां सुखस्य भावयित्र्यौ । (*sarvaprakāreṇa bhūtānāṃ sukhasya bhāvayitryau |*) "Givers of happiness to the beings in every way." Because the atmosphere *[printed "ಆಂತರಿಕ್ಷವೂ"]* makes the whole world luminous and is the support of rain and the like, and because the Earth, besides satisfying the gods through sacrifices and the like, becomes again the cause of rain and the like and provides wealth of plants and so on to all beings, it is said that both give happiness to the whole universe. This was explained earlier with examples.
+
+### Printed p. 76
+
+*Running head: 76 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 160.*
+
+स्कंभनेभिः समानृचे (*skaṃbhanebhiḥ samānṛce*)—"He stood (them) up, holding them up by giving a prop with supporting pillars."
+
+न प्रमिये सवितुद्वैव्यस्य तद्यथा विश्वं भुवनं धारयिष्यति । (*na pramiye savitudvaivyasya tadyathā viśvaṃ bhuvanaṃ dhārayiṣyati |*)
+
+(Ṛ. Saṃ. 4-54-4)
+
+सविता यंत्रैः पृथिवीमरम्णादस्कंभने सविता द्यामदृंहत् । (*savitā yaṃtraiḥ pṛthivīmaramṇādaskaṃbhane savitā dyāmadṛṃhat |*)
+अश्वमिवाधुक्षद्दु निमंतरिक्ष मतूर्ते बद्धंसविता समुद्रं ॥ (*aśvamivādhukṣaddu nimaṃtarikṣa matūrte baddhaṃsavitā samudraṃ ‖*)
+
+(Ṛ. Saṃ. 10-149-1)
+
+Savitṛ has established the heaven-world, which was without support, by giving it support and a prop. By means of regulating instruments, such as the giving of rain, he has upheld the Earth. With bonds in the form of wind and the like *[printed "ವಾಯ್ತಾದಿ"]* he has made the atmosphere bound. Thus, because he has given to the three worlds, the earth and the rest, which were without support and without refuge, a support according to the need of each, that point is described by स्कंभनेभिः समानृचे (*skaṃbhanebhiḥ samānṛce*). The support and the sustenance found in the earth and the rest have a limit and a rule of time; but, to show that the support and refuge which Āditya gives to the earth and the atmosphere are eternal, the epithet अजरेभिः (*ajarebhiḥ*), "not wasting away", to स्कंभनेभिः (*skaṃbhanebhiḥ*) shows the nature and the power of the support.
+
+(अयं देवानां मध्यॆ देवतमः (*ayaṃ devānāṃ madhyè devatamaḥ*))—This Āditya is the most excellent deity among the gods. Therefore among the gods he obtained the position of Brahman; he is one who took the place of Brahman in the earthly sacrifices and the like. Whatever excellent worthiness is to be had, among all the gods Āditya alone has this excellent worthiness; so "I was in the form of Bṛhaspati for all of them" is said in the "ವಾ. ಸಂಹಿತೆ" *[abbreviation as printed, not expanded]*. In the present ṛk the quality of Āditya is described only by the words अयं देवानां (*ayaṃ devānāṃ*). देवानां मध्यॆ देवतमः (*devānāṃ madhyè devatamaḥ*) is the sentence of Sāyaṇa's bhāṣya. This excellent quality is found in Savitṛ in many forms. For example, because Āditya gives vitality to all the gods,
+
+सवितारं प्रसवायोपाधावत्सविता वै देवानां प्रसविता । (*savitāraṃ prasavāyopādhāvatsavitā vai devānāṃ prasavitā |*)
+
+(Śa. Brā. 5-1-1-15)
+
+सविता प्रसनानामधिपतिः । (*savitā prasanānāmadhipatiḥ |*)
+
+(Tai. Saṃ. 3-3-5)
+
+in sentences such as these he is praised as the impeller of all the gods. And not only this:
+
+### Printed p. 77
+
+*Running head: [೮.೨.೬. ೩ ವ. ೩. ] Ṛgveda-saṃhitā, p. 77 (printed "೮.೨.೬. ೩" for the Aṣṭaka and Adhyāya; as supplied).*
+
+वनानि विभ्यो नकिरस्य तानि व्रता देवस्य सवितुर्मिनंति । (*vanāni vibhyo nakirasya tāni vratā devasya saviturminaṃti |*)
+न यस्येंद्रो वरुणो न मित्रो व्रतमर्यमा न मिनंति रुद्रः ॥ (*na yasyeṃdro varuṇo na mitro vratamaryamā na minaṃti rudraḥ ‖*)
+नारातयस्तमिदं स्वस्ति हुवे देवं सवितारं नमोभिः ॥ (*nārātayastamidaṃ svasti huve devaṃ savitāraṃ namobhiḥ ‖*)
+
+(Ṛ. Saṃ. 2-38-7 to 9)
+
+in such ṛks it is made clear that none of the gods, such as Indra, can transgress the rule of Savitṛ, and that all must remain in accordance with that rule. Thus, from many points of view, since the glory of Āditya in the form of Savitṛ is the greatest among the gods, and since it shows the nature of a leader, the greatness of Āditya is described by देवानां (*devānāṃ*) (मध्ये देवतमः (*madhye devatamaḥ*)) *[the supplied text has "ಸವಿತೃರೂಪನಾಡ" for "ಸವಿತೃರೂಪನಾದ"]*.
+
+रजसी (*rajasī*)—रजो रजतेर्ज्योती रज उच्यते । (*rajo rajaterjyotī raja ucyate |*) उदकं रज उच्यते । (*udakaṃ raja ucyate |*) लोका (*lokā*) रजांस्युच्यंते (*rajāṃsyucyaṃte*) (Ni. 4-19). Formed from the root रंज् (*raṃj*), which gives the sense "to shine", the word रजस् (*rajas*) means "light", "water" and "worlds".
+
+रजांसि चित्रा वि चरंति तन्यवो दिवः सम्राजा पयसा न उक्षतं । (*rajāṃsi citrā vi caraṃti tanyavo divaḥ samrājā payasā na ukṣataṃ |*)
+
+(Ṛ. Saṃ. 5 63-5) *[printed "೫ ೬೩-೫"]*
+
+Quoting this ṛk, the authors of the Nirukta have shown that the word रजांसि (*rajāṃsi*) means "worlds" (in the 44th section of the 10th chapter of the Nirukta, as printed). While explaining the ṛk
+
+अज्जामुक्षैरहिं गृणीषे बुद्धे नदीनां रजस्सु षीदन् । (*ajjāmukṣairahiṃ gṛṇīṣe buddhe nadīnāṃ rajassu ṣīdan |*)
+
+(Ṛ. Saṃ. 7-34-16)
+
+they explain that the word रजस्सु (*rajassu*) means उदकेषु (*udakeṣu*), "in the waters"; and in the 7th section of the 12th chapter, while explaining the ṛk
+
+एता उ त्या उषसः केतुमुक्त पूर्वे अर्धे रजसो भानुमंजते । (*etā u tyā uṣasaḥ ketumukta pūrve ardhe rajaso bhānumaṃjate |*)
+
+(Ṛ. Saṃ. 1-92-1)
+
+they have also explained रजसः (*rajasaḥ*) as "atmosphere".
+
+श्रीणि भांति रजांस्यस्य यत्पदानि तु तेजसा । (*śrīṇi bhāṃti rajāṃsyasya yatpadāni tu tejasā |*)
+
+*[the reference is not printed]* The authors of the Bṛhaddevatā, describing the striding of Viṣṇu over the three worlds, have used the word रजांसि (*rajāṃsi*) as a synonym of the three worlds. *[printed "ಶ್ರೀಣಿ" in the Sanskrit line, for ತ್ರೀಣಿ, as supplied]* The words रजः (*rajaḥ*), रजांसि (*rajāṃsi*) are generally used as synonyms of "worlds". But, *[the text of p. 77 ends here, with "ಆದರೆ,"; the passage continues on p. 78, in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 74 (PDF 74). Sūkta 160 Ṛk 3 Special Topics end and grammar; Ṛk 4 complete to Special Topics start
+**Progress note:** Done through printed p. 77 (PDF 77). Sūkta 160 Ṛk 4 Special Topics (Savitṛ producer/son of heaven, skambhanebhiḥ, devatamaḥ, rajasī)
