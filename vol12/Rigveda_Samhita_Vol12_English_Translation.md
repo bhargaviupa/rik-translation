@@ -11989,6 +11989,130 @@ The sacrificer who performs this sacrifice called Pravargya, who teaches its gre
 
 *[as supplied: the printed "ಶ್ರೀ. ಆ.", "ತ್ರೈ. ಆ.", "ತೈ. ಆ.", "ಕೃ. ಆ.", "ಕೃ. ಅ.", "ಶ. ಬ್ರಾ." references are kept as printed, with the variants "ಆಶ್ವ./ಅಶ್ವ. ಶ್ರೌ."; the bhāṣya-quotations carry printed misspellings such as "ತಗ್ಗಸ್ತೃತಂ", "ಯತ್ಪವರ್ಗ್ಯಃ", "ಗ್ರಾಂಳಿ", "ಜ್ಯಾಮಪ್ಯಾದನ್!", "ಸವಿಾಪಿಸಿ", "ವಮ್ರಿ" which are kept as printed.]*
 
+### Printed p. 491
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೧೯.] ಋಗ್ವೇದಸಂಹಿತಾ 491 (as supplied; the printed "ಅ. .೩" is kept).*
+
+*[Continuing the grammar of Ṛk 29]*
+**Grammar (transcribed, not explained)**
+- चित्तिभिः (*cittibhiḥ*)—root चिती ज्ञाने (*citī jñāne*). By क्तिच्‌क्त्यौ च संज्ञायाम् (*kticktyau ca saṃjñāyām*) (Pā. Sū. 3-3-174) the suffix ktic. Because it is cit-marked, the end-udātta accent results. Instrumental-plural form.
+- चकार (*cakāra*)—by हिच (*hica*) (Pā. Sū. 8-1-34) the nighāta accent is prohibited. Because ṇal is l-marked, by लिति (*liti*) (Pā. Sū. 6-1-193) the udātta accent falls on the syllable before the suffix.
+- भवंती (*bhavaṃtī*)—root भू सत्तायां (*bhū sattāyāṃ*). Śatṛ substituted for laṭ. By उगितश्च (*ugitaśca*) the suffix जीप् (*jīp*) (as printed). By तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) the l-sārvadhātuka suffix is anudātta, so the root accent remains.
+- औहत (*auhata*)—root ऊह वितर्के (*ūha vitarke*). In the Veda लज् (*laj*) (as printed). Third-person singular form. The tiṅanta-nighāta accent results. (Ṛk 29 ends.)
+
+#### Ṛk 30
+**॥ संहितापाठः ॥**
+> अ॒नच्छ॑ये तु॒रगा॑तु जी॒वमेज॑द्दु॒नं मध्य॒ आ प॒स्ता॑नां ।
+> जी॒वो मृ॒तस्य॑ चरति स्व॒धाभि॒रम॑र्त्यो॒ मर्त्ये॑ना॒ सयो॑निः ॥
+> ॥ ३० ॥
+**॥ पदपाठः ॥**
+> अनत् । शये । तुरऽगातु । जीवं । विजत् । ध्रुवं । मध्ये । आ । पस्यानां ।
+> जीवः । मृतस्य । च रति । स्वधाभिः । अमत्यर्तः । मर्त्येन । सयोनिः ॥ ३० ॥
+*[as supplied: the Saṃhitā block reads "ಏಜದ್ದುನಂ" and "ಪಸ್ತಾನಾಂ", the Pada block "ಪಸ್ಯಾನಾಂ" and "ಅಮತ್ಯರ್ತಃ", the Pratipadārtha "ಪಸ್ತ್ಯಾನಾಂ"; all kept as printed.]*
+**॥ सायणभाष्यम् ॥**
+> इदं शरीरं जीवावस्थायां । अनेन देहस्यासारता जीवस्य नित्यत्वं च
+
+> *idaṃ śarīraṃ jīvāvasthāyāṃ | anena dehasyāsāratā jīvasya nityatvaṃ ca*
+*[as supplied: the bracketed fragment "ಪ್ರತಿಪಾದ್ಯತೇ ॥" that follows is the end of the preceding bhāṣya sentence ("…is taught"), not a section label; the bhāṣya then continues, though the print/script labels it "Pratipadārtha".]*
+अनत् प्राणनं कुर्वज्जीवं जीवनवत्तुरगातु स्वव्यापाराय तूर्णगमनं सदेजत्तच्छये । शेते । वर्तते । पश्चात्पाणापगमनानंतरमुक्तविलक्षणं सद्भुव वमविचलितं सत् पस्त्यानां गृहाणां मध्य आशेते च । स्थाणुवत्तिष्ठति । आकारः पूरणो वा । जीवस्य वैलक्षण्यमाह । मृतस्य शरीरस्य संबंधी जीवो मर्त्येन मरणधर्मकेण शरीरेण सयोनिः पूर्वं समानोत्पत्तिस्थानः । यद्यपि जीवस्य (*anat prāṇanaṃ kurvajjīvaṃ jīvanavatturagātu svavyāpārāya tūrṇagamanaṃ sadejattacchaye | śete | vartate | paścātpāṇāpagamanānaṃtaramuktavilakṣaṇaṃ sadbhuva vamavicalitaṃ sat pastyānāṃ gṛhāṇāṃ madhya āśete ca | sthāṇuvattiṣṭhati | ākāraḥ pūraṇo vā | jīvasya vailakṣaṇyamāha | mṛtasya śarīrasya saṃbaṃdhī jīvo martyena maraṇadharmakeṇa śarīreṇa sayoniḥ pūrvaṃ samānotpattisthānaḥ | yadyapi jīvasya*)
+
+### Printed p. 492
+*Running head: 492 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+न जन्मास्ति तथापि वपुषस्तत्सद्भावात्तत्संबंधेनोपचर्यते । तदेवाह । अमर्त्योऽमरणस्वभावः । जीवोपेतं नाव किलेदं म्रियते न जीवो म्रियते । छां- उ. ६-११-३. । इति श्रुतेः । उक्तस्वभावो जीवः स्वधाभिश्चरति । पुत्रकृतैः स्वधाकार पूर्वकदत्तैरन्नैश्चरति । वर्तत इत्यर्थः (*na janmāsti tathāpi vapuṣastatsadbhāvāttatsaṃbaṃdhenopacaryate | tadevāha | amartyo 'maraṇasvabhāvaḥ | jīvopetaṃ nāva kiledaṃ mriyate na jīvo mriyate | chāṃ- u. 6-11-3. | iti śruteḥ | uktasvabhāvo jīvaḥ svadhābhiścarati | putrakṛtaiḥ svadhākāra pūrvakadattairannaiścarati | vartata ityarthaḥ*)
+
+*Gist:* Teaches the body's unsubstantiality and the soul's permanence: the immortal soul, though co-born with the mortal body, lives on svadhā-food offered by sons.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+जीवं (*jīvaṃ*)—(the individual soul) endowed with life-breath; अनत् (*anat*)—breathing; तुरगातु (*turagātu*)—(for his duties) with swift movements; विजत् (*vijat*)—moving; पस्त्यानां (*pastyānāṃ*)—of the houses in the form of bodies; मध्यॆ (*madhyè*)—in the midst; ध्रुवं (*dhruvaṃ*)—motionless; आ शये (*ā śaye*)—he abides; जीवः (*jīvaḥ*)—the soul; मृतस्य (*mṛtasya*)—as related to the body subject to death; मर्त्येन (*martyena*)—with the body of mortal nature; सयोनिः (*sayoniḥ*)—(at the time of the body's origin) having one and the same place of origin, and yet; अमर्त्यः (*amartyaḥ*)—he alone being without mortality; स्वधाभिः (*svadhābhiḥ*)—by svadhās (kavyas) (given by sons and others), satisfied; चरति (*carati*)—he moves about.
+**भावार्थ (Bhāvārtha)**
+While with the body [sic: printed "ದೇಹೊಂದಿಗಿರುವಾಗ"], the soul, endowed with life-breath, breathing, and moving about with swift motions for his worldly duties, abides motionless in the midst of the houses in the form of bodies. Although the soul is related to the body that is subject to death, and although at the time of origin he has one place of origin with the mortal body, he alone, free from mortality, moves about satisfied with the svadhās given by sons and others.
+**Printed English**
+Life endowed with breath, eager (in discharge of its functions) reposes, steady, in the midst of its (proper) abodes: the life of the mortal body, cognate with the mortal frame, endures immortal, (sustained) by (obsequial) offerings.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+For the jīva (the ātman) this body exists only in this birth. Therefore it is declared in this Ṛk that the body is unsubstantial and impermanent, and that the jīva (the ātman) is eternal. While the jīva is within the body and is the animator of worldly activities, the body is spoken of as living; without it the body is regarded as dead. Thereby this Ṛk shows the difference between body and jīva: the body is mortal, the jīva immortal.
+*[as supplied: the stray bracketed labels "ಭಾವಾರ್ಥಃ" and "ವಿಶೇಷವಿವರಗಳು" in the print are the labels of the sections above and below; the script has normalised them.]*
+
+### Printed p. 493
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೯.] ಋಗ್ವೇದಸಂಹಿತಾ 493 (as supplied).*
+
+By the description विजद्भवं (*vijadbhavaṃ*) *[as supplied: printed so, with "--"; the Ṛk has "ವಿಜತ್ … ಧ್ರುವಂ"]* both the moving and the motionless states of the jīvātman are described. By his natural form the jīvātman is steady and motionless; but joined with the body and furnished with limiting adjuncts (upādhi) he is moving. Describing this same point in the Īśopaniṣad:
+तदेजति तन्नैजति तद्दूरे तद्वंतिके (*tadejati tannaijati taddūre tadvaṃtike*)
+तदंतरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः (*tadaṃtarasya sarvasya tadu sarvasyāsya bāhyataḥ*)
+(Īś. 5)
+This Ātman is at one and the same time moving and motionless; at one and the same time far and near. That is, though connected with the body, being pure in himself he remains unattached. Moreover:
+अनक् तुरगातु (*anak turagātu*) *[as supplied: so printed, against "ಅನತ್" in the Ṛk]*—If this jīvātman, being within the body, is the life-breath of the body, then the senses and the rest engage in their respective activities. Then the usage arises that it is this jīva that is engaged in transactions. The point that, while the jīva is present, the body, or the life-breath within the body, is engaged in its fixed functions, is described in the Kaṭha and other Upaniṣads thus:
+यॆदिदं किं च जगत्सर्वं प्राण विजति निस्सृतं (*yèdidaṃ kiṃ ca jagatsarvaṃ prāṇa vijati nissṛtaṃ*) *[as supplied: "ಯೆದಿದಂ"]*
+(Kaṭh. 9-2-9, as supplied)
+यदिदं किं च यत्किंचेदं जगत् सर्वं प्राणे परस्मिन् ब्रह्मणि सति एजति कंपते तत एव निस्कृतं निर्गतं सत् प्रचलति नियमेन चेष्टते (*yadidaṃ kiṃ ca yatkiṃcedaṃ jagat sarvaṃ prāṇe parasmin brahmaṇi sati ejati kaṃpate tata eva niskṛtaṃ nirgataṃ sat pracalati niyamena ceṣṭate*)
+(Śaṅkara-bhāṣya.)
+All this world, when Prāṇa (that is, the Supreme Brahman) is there, trembling from his impulsion and from dread of that Lord, is engaged in its worldly activities and does its work according to rule: so it is explained in the Kaṭhopaniṣad. Since this Ātman, the cause of the activities of body and senses, dwells in the house in the form of the body, the words पस्तानां मध्यॆ आ शये (*pastānāṃ madhyè ā śaye*) show the Ātman's embodied state. Because of such a state the Ātman is also called Puruṣa: the meaning is, he who lies hidden in the body, which is conditioned and worldly. Describing this very thing:
+पुरः स पक्षी भूत्वा पुरः पुरुष आविशदिति (*puraḥ sa pakṣī bhūtvā puraḥ puruṣa āviśaditi*)
+स वा आयं पुरुषः सर्वासु पूर्षु पुरिशयो नैनेन किंचनानावृतं नैनेन किंचनासंवृतं (*sa vā āyaṃ puruṣaḥ sarvāsu pūrṣu puriśayo nainena kiṃcanānāvṛtaṃ nainena kiṃcanāsaṃvṛtaṃ*)
+(Bṛ. U. 9-5-18, as supplied)
+
+### Printed p. 494
+*Running head: 494 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+पुरः पुरस्तात्स ईश्वरः पक्षी लिंगशरीरं भूत्वा पुरः शरीराणि पुरुषः आविशदित्यस्यार्थमाचष्टे श्रुतिः (*puraḥ purastātsa īśvaraḥ pakṣī liṃgaśarīraṃ bhūtvā puraḥ śarīrāṇi puruṣaḥ āviśadityasyārthamācaṣṭe śrutiḥ*) स वा अयं पुरुषः सर्वासु पूर्षु सर्व शरीरेषु पुरिशयः [पुरि शेत इति पुरिशयः] सन् पुरुष इत्युच्यते (*sa vā ayaṃ puruṣaḥ sarvāsu pūrṣu sarva śarīreṣu puriśayaḥ [puri śeta iti puriśayaḥ] san puruṣa ityucyate*)
+(Śaṅkara-bhāṣya.)
+Because the Paramātman, in the form of the subtle body, has entered bodies of every kind, he has the designation Puruṣa. But to resolve the doubt, "Does he, being within bodies furnished with adjuncts, not also become tainted by their respective bodily activities?", the difference between the body he resides in and the Ātman is shown. As long as this jīva is within the body, the body is called living; after it departs, the body is called dead. Therefore the Ātman is immortal, the body mortal. Hence the difference is stated: अमर्त्यः जीवः मृतस्य चरति (*amartyaḥ jīvaḥ mṛtasya carati*). The same is stated in the Chāndogya Upaniṣad:
+जीवापेशं वाव किलेदं म्रियते न जीवो म्रियते (*jīvāpeśaṃ vāva kiledaṃ mriyate na jīvo mriyate*)
+(Bhā. U. 6-11-3, as supplied) *[as supplied: the print gives "ಭಾ. ಉ." for the Chāndogya reference and "ಜೀವಾಪೇಶಂ", whereas the bhāṣya on p. 492 has "ಛಾಂ. ಉ." and "ಜೀವೋಪೇತಂ"; kept as printed.]*
+When the jīva leaves the body, the body becomes dead; but since the jīva is immortal it does not die: so it is declared. Even so, at the time of arising together with the body, the usage exists that body and jīva have one place of origin.
+स्वधाभिः चरति (*svadhābhiḥ carati*)—As soon as this jīva abandons the body, the paths open to it are of two kinds: one is the path of the gods, the other the path of the Fathers. If it follows the path of the Fathers, then satisfaction comes to this jīva from the svadhās (kavyas) given by sons and others. The meaning is: obtaining satisfaction from food in the form of svadhā, they move about in the world of the Fathers.
+
+**Grammar (transcribed, not explained)**
+- अनत् (*anat*)—अन प्राणने (*ana prāṇane*); the root belongs to the adādi class. Śatṛ substituted for laṭ. The ādyudātta accent of the suffix results *[as supplied: printed "ಆದ್ಯುದತ್ತ"]*.
+- शये (*śaye*)—root शीज् स्वप्ने (*śīj svapne*). Laṭ, third person singular, suffix ta. By टित आत्मनेपदानां (*ṭita ātmanepadānāṃ*) e for the ṭi. By अदिप्रभृतिभ्यः शपः (*adiprabhṛtibhyaḥ śapaḥ*) (Pā. Sū. 2-4-72) luk for śap. By the sūtra शीजः सार्वधातुके गुणः (*śījaḥ sārvadhātuke guṇaḥ*) (Pā. Sū. 7-4-21) guṇa for the i of the root. By लोपस्त आत्मनेपदेषु (*lopasta ātmanepadeṣu*) (Pā. Sū. 7 1-4, as supplied) elision of the t of the suffix. The āya substitution. The tiṅanta-nighāta accent results.
+
+### Printed p. 495
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೨೦] ಋಗ್ವೇದಸಂಹಿತಾ 495 (as supplied; "ಪ." is printed where "ವ." would be expected).*
+
+- तुरगातु (*turagātu*)—by बहुप्रीहौ प्रकृत्या पूर्वपदम् (*bahuprīhau prakṛtyā pūrvapadam*) (Pā. Sū. 6-2-1) the prakṛti accent of the prior member results.
+- विजत् (*vijat*)—root एज्य कंपने (*ejya kaṃpane*). Śatṛ substituted for laṭ. Since the l-sārvadhātuka is anudātta by the sūtra तास्यनुदात्तेत् (*tāsyanudāttet*), the root accent remains.
+- चरति (*carati*)—root चर गतिभक्षणयोः (*cara gatibhakṣaṇayoḥ*); laṭ, third person singular. The tiṅanta-nighāta accent results.
+- अमर्त्यः (*amartyaḥ*)—nañ-tatpuruṣa compound. By तत्पुरुषे तुल्यार्थ (*tatpuruṣe tulyārtha*) (Pā. Sū. 6-2-2) the prakṛti accent of the prior member, an indeclinable, results.
+- सयोनिः (*sayoniḥ*)—समानः योनिः यस्य सः (*samānaḥ yoniḥ yasya saḥ*). By समानस्यछंदस्यमूर्ध (*samānasyachaṃdasyamūrdha*) (Pā. Sū. 6-3-84) the substitution sa for samāna. By बहुव्रीहौ प्रकृत्यापूर्वपदम् (*bahuvrīhau prakṛtyāpūrvapadam*) (Pā. Sū. 6-2-1) the prakṛti accent of the prior member results. (Ṛk 30 ends.)
+*[as supplied: the print has the misprints "ಬಹುಪ್ರೀಹೌ", "ಎಂಬುದರಿಂಗ", "ಬುರುತ್ತದೆ" in this grammar, kept; and a stray word बॆंगळूरु (*bèṃgaḷūru*) ("Bengaluru") stands after it, before Ṛk 31.]*
+
+#### Ṛk 31
+**Saṃhitā-pāṭha** *[as supplied: given in the print as plain lines, not as a block]*
+अपश्यं गोपामनिपद्यमानमा च परा च पथिभिश्चरंतं (*apaśyaṃ gopāmanipadyamānamā ca parā ca pathibhiścaraṃtaṃ*)
+स सध्रीचीः स विषूचीर्वसान आ वरीवर्ति भुवनेष्वंतः (*sa sadhrīcīḥ sa viṣūcīrvasāna ā varīvarti bhuvaneṣvaṃtaḥ*)
+**॥ पदपाठः ॥**
+> अपश्यं । गोपां । अनिपद्यमानं । आ । च । परा । च । पथिभिः । चरंतं ।
+> सः । सध्रीचीः । सः । विषूचीः । वसानः । आ । वरीवर्ति । भुवनेषु । अंतरिति ॥ ३१ ॥
+**॥ सायणभाष्यम् ॥**
+> प्रवर्ग्यर्भिष्टवेऽपश्यं गोपामित्येका विनियुक्ता । सूत्रितं च । अपश्यं
+> गोपामनिपद्यमानं स्रक्वे द्रप्सस्य । आ ४.६ । इति ॥
+> अहं गोपां सर्वस्य लोकस्य वृष्टिप्रकाशादिना गोपायितारमनिपद्यमानं
+> कदाचिदप्यविषण्णं तथा पथिभिर्विचित्रैमार्गैरंतरिक्षरूपैरा चरंतं च परा चरंतं
+
+> *pravargyarbhiṣṭave 'paśyaṃ gopāmityekā viniyuktā | sūtritaṃ ca | apaśyaṃ*
+> *gopāmanipadyamānaṃ srakve drapsasya | ā 4.6 | iti ‖*
+> *ahaṃ gopāṃ sarvasya lokasya vṛṣṭiprakāśādinā gopāyitāramanipadyamānaṃ*
+> *kadācidapyaviṣaṇṇaṃ tathā pathibhirvicitraimārgairaṃtarikṣarūpairā caraṃtaṃ ca parā caraṃtaṃ*
+
+### Printed p. 496
+*Running head: 496 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+> च उदयप्रभृत्या मध्याह्नमागच्छंतं मध्याह्नप्रभृत्या सायं पराङ्मुखं गच्छंतं
+> एवं महानुभावमादित्यमपश्यं । याथात्म्येन पश्येयं । किंच स आदित्यः सध्रीचीः
+> सहांचंतीर्विषूचीर्विष्टगंचंती रात्रावपि चंद्रभौमादित्यानां प्रकाशयित्रीस्तिषो वसान आच्छादयन् भुवनेषु भुवनैकदेशेषु लंकादिप्रदेशेश्वंतर्मध्य आ वरीवर्ति । उदयास्तमयं कुर्वन् पुनःपुनरावर्तते । तमपश्यमित्यर्थः । एष वै
+> गोपा एष हीदं सर्वं गोपायतीत्याद्यस्मद्ब्राह्मणं । अपश्यं गोपमित्याह असा
+> वा आदित्यो गोपा स हीमाः प्रजा गोपायतीत्यादि तैत्तिरीयकं च द्रष्टव्यं ।
+> तै. आ. ५-६-४ ॥
+*Gist:* Applied in the Pravargya; the poet sees the sun, unwearied guardian of all, travelling the sky-paths, covering the worlds with rays, rising and setting.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+गोपां (*gopāṃ*)—the protector of the universe; अनिपद्यमानं (*anipadyamānaṃ*)—one who is never dejected; पथिभिः (*pathibhiḥ*)—by paths such as the atmosphere; आ चरंतं (*ā caraṃtaṃ*)—moving about; परा चॆ (*parā cè*) *[as supplied: "ಚೆ"]*—both towards the world and away from it, with an alternating movement in forms such as coming and going: him, the Āditya; अपश्यं (*apaśyaṃ*)—I shall know; सः (*saḥ*)—that same Āditya; सध्रीचीः (*sadhrīcīḥ*)—gathered together; विषूचीः (*viṣūcīḥ*)—spreading in various forms and pervading the universe: with such rays; वसानः (*vasānaḥ*)—covering the worlds; भुवनेषु (*bhuvaneṣu*)—of the worlds in the form of the liṅga; अंतः (*aṃtaḥ*)—in the middle part; आ वरीवर्ति (*ā varīvarti*)—he undergoes revolution in the form of rising and setting.
+**भावार्थ (Bhāvārtha)**
+I know the Āditya, the protector of the universe, ever undejected, who moves by paths such as the atmosphere, and whose movement alternates, in forms such as coming and going, both facing the world and turned away from it *[sic: printed "ಪರಾಹ್ಮುಖ"]*. That same Āditya, covering the worlds with his rays, which are gathered together in him and spread in various forms pervading the universe, undergoes revolution, in the form of rising and setting, in the middle part of the worlds in the form of the liṅga.
+**Printed English**
+I have beheld the unwearied protector of the universe, the sun, travelling upwards and downwards by various paths : invested with aggregative and diffusive radiance, he revolves in the midst of the regions.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the Pravargya, at the time of the abhiṣṭava, this Ṛk, अपश्यं गोपां ऎंब (*apaśyaṃ gopāṃ èṃba*), has its application, as is set out by the sūtra of the Āśvalāyana-śrautasūtra अपश्यं गोपामनिपद्यमानं स्रक्वे द्रप्सस्य (*apaśyaṃ gopāmanipadyamānaṃ srakve drapsasya*) (Ā. 4-6).
+
 ---
 
-**Progress note:** Done through printed p. 490. Ṛk 29 Special Topics: Pravargya, Taittirīya Āraṇyaka and Śatapatha accounts; grammar begun
+**Progress note:** Done through printed p. 496. Ṛk 29 grammar end; Ṛk 30 (soul and body); Ṛk 31 (sun, Pravargya)
