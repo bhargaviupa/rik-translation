@@ -3640,6 +3640,85 @@ the view of the Nirukta authors being that they are famous by the name "Ṛbhus"
 
 एकः (*ekaḥ*)—one of the Ṛbhus; शोणां उदकं (*śoṇāṃ udakaṃ*)—the red-coloured water, that is, blood; गां (*gāṃ*)—to the sacrificial ground; अवाजति (*avājati*)—brings; एकः (*ekaḥ*)—another; सूनया (*sūnayā*)—with a chopping knife; आभृतं (*ābhṛtaṃ*)—cut; मांसं (*māṃsaṃ*)—the flesh; पिंशति (*piṃśati*)—separates into pieces; निम्मुचः (*nimmucaḥ*)—from the flesh cut completely; शकृत् (*śakṛt*)—the dung and the like; एकः (*ekaḥ*)—another; अपाभरत् (*apābharat*)—took away (to throw outside); पुत्रेभ्यः (*putrebhyaḥ*)—to the Ṛbhus in the position of sons, or to the Ṛbhus in the form of priests who are protectors; पितरौ (*pitarau*) *[so printed in the Pratipadārtha]*—the sacrificer, protector of the sacrifice, and his wife; किंस्वित् (*kiṃsvit*)—what else indeed; उपावतुः (*upāvatuḥ*)—can procure and give (as help)?
 
+### Printed p. 128
+
+*Running head: 128 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೧.] (as supplied).* (Ṛk 10 continues: the Bhāvārtha.)
+
+**भावार्थ (Bhāvārtha)**
+
+One of the Ṛbhus places the blood on the sacrificial ground. Another separates into pieces the flesh cut with a chopping knife. Another takes the dung and the like, separated from the completely cut flesh, to throw it away. What other help could the sacrificer in the form of father and mother, and his wife, give to the Ṛbhus in the form of priests?
+
+**Printed English translation**
+
+One pours the red water, (the blood), upon the ground ; one cuts the flesh, divided into fragments by the chopper; and a third separates the excrement from the other parts: in what manner may the parents (of the sacrifice) render assistance to their sons ?
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Two kinds of meaning are given for this ṛk. The first meaning has been given in the Pratipadārtha. According to the second explanation, the word श्रोणा (*śroṇā*) *[so printed, "ಶ್ರೋಣಾರಬ್ದಕ್ಕೆ", with "ರಬ್ದ" for "ಶಬ್ದ"]* is explained as "lame" *[printed in Latin letters "(Laine)", kept as supplied]*, the word सूना (*sūnā*) as a shop that sells meat, and नम्रुचः (*namrucaḥ*) *[so printed]* as "before sunset". According to this, एकः शोणां गां उदकं अवाजति (*ekaḥ śoṇāṃ gāṃ udakaṃ avājati*) means that one of the Ṛbhus leads a lame cow to the water; एकः सूनया आभृतं (*ekaḥ sūnayā ābhṛtaṃ*) मांसं पिंशति (*māṃsaṃ piṃśati*) means that another divides the flesh brought from the meat shop; and एकः निम्रुचः शकृत् अवाभरत् (*ekaḥ nimrucaḥ śakṛt avābharat*) means that another brings, before sunset, cow-dung and the like (for purification). The purport is that, since the Ṛbhus in the form of priests, standing in the position of sons to the sacrifice, carried out all the equipment needed for the sacrifice, the sacrificer in the position of the parents and his wife have no toil at all.
+
+Here the Ṛbhus are designated as priests in the position of sons to the sacrifice, and the sacrificer, the protector of the sacrifice, and his wife (printed "ಸತ್ನಿ") as पितरा (*pitarā*).
+
+हनामैना इति त्वष्टा यदब्रवीच्च मसं ये देवपानमनिंदिषुः । (*hanāmainā iti tvaṣṭā yadabravīcca masaṃ ye devapānamaniṃdiṣuḥ |*)
+अन्या नामानि कृण्वते सुते सचा अन्यैरेनान् कन्या३नामभिः स्परत् ॥ (*anyā nāmāni kṛṇvate sute sacā anyairenān kanyā3nāmabhiḥ sparat ‖*) (Ṛ. Saṃ. 1-161-5)
+
+In the previous ṛk of this same sūkta, when the Ṛbhus made the ladle defiled, Tvaṣṭṛ angrily tried to kill them; when they took other names and hid themselves in the form of priests, the mother honoured them in their priestly form: thus the earlier story was told when the ṛk quoting it was explained.
+
+### Printed p. 129
+
+*Running head: [ಅ. ೨. ಅ. ೩ ವ ೬.] Ṛgveda-saṃhitā 129 (as supplied).*
+
+Here, indicating that same context, it is said that the Ṛbhus fully performed their duties in the priestly form.
+
+पुत्रेभ्यः—पुरु त्रातृभ्यः पुत्रस्थानीयेभ्यो ऋभुभ्यः । (*putrebhyaḥ—puru trātṛbhyaḥ putrasthānīyebhyo ṛbhubhyaḥ |*) Because they protect the sacrifice completely, the priests are called sons. Here, since the Ṛbhus are priests, they are designated by the word "putra".
+
+पितरा—यज्ञस्य पालयितार् जायापती (*pitarā—yajñasya pālayitār jāyāpatī*) *[so printed, "ಪಾಲಯಿತಾರ್"]* the "jāyāpati" protectors of the sacrifice, the sacrificer and his wife *[printed "ಪತ್ನಿಯರು", plural]*.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses श्रोणाम् (*śroṇām*) (root श्रु (*śru*); with the rule ಉ. ಸೂ. 3-386, the abbreviation as printed), उदकम् (*udakam*) (root उंदी (*uṃdī*); ಉ. ಸೂ. 2-197; a Pā. Sū. number is split over two lines), अजति (*ajati*), पिंशति (*piṃśati*), सूनया (*sūnayā*) (ಉ. ಸೂ. 2-293), अभृतम् (*abhṛtam*) (Pā. Sū. 6-2-49), अभरत् (*abharat*) and, on p. 130, आवतुः (*āvatuḥ*) (root अव (*ava*); Pā. Sū. 3-4-6 and 3-4-82), with the accents; it ends with the mark ॥ ೧೦ ॥. *[A stray signature line "[9] Vol. 12" stands at the foot of p. 129 and a stray ":C:" after the grammar; both kept in kn.md as italic notes.]*
+
+### Printed p. 130
+
+*Running head: 130 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೧] (as supplied; "ಆ." printed for "ಅ.").* (The grammar of Ṛk 10 ends here with ॥ ೧೦ ॥.)
+
+#### Ṛk 11
+
+*[The labels of this Ṛk are garbled in the supplied text: the Saṃhitā label as "ಕಂಠಪಾಠ।", the Pada label as "ಕಡತ: ೪೧" and the bhāṣya label as "ಸಾಯುಣಭಾಷ್ಯಂ", and the Saṃhitā, Pada and bhāṣya stood as plain lines. The standard labels are inserted, the garbled words kept in kn.md as italic notes, and the lines made blocks; the hyphenated line breaks in the bhāṣya are joined. Variants between Saṃhitā and Pada kept as supplied: the Pada has उद्वर्तिसु (*udvartisu*) and निवर्तिसु (*nivartisu*) where the Saṃhitā has उद्वत्स्व (*udvatsva*) and निवत्स्व (*nivatsva*).]*
+
+**॥ संहितापाठः ॥**
+
+> उ॒द्वत्स्व॑स्मा अकृणोतना॒ तृणं॑ नि॒वत्स्व॒पः स्व॑प॒स्यया॑ नरः ।
+> अगो॑ह्यस्य॒ यदस॑स्तना गृ॒हे तद॒द्येदमृ॑भवो॒ नानु॑ गच्छथ ।
+> ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> उद्वर्तिसु । अस्मै । अ कृ णो त न । तृणं । निवर्तिसु । अपः । सुअपस्यया । नरः ।
+> अगोह्यस्य । यत् । असस्तन । गृहे । तत् । अद्य । इदं । ऋभवः । न । अनु । गच्छथ ।
+> ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The supplied text of the bhāṣya ends in the middle of the Sanskrit at the end of this window; the rest, and the gist of the whole bhāṣya, follow in the next window.]*
+
+> पुराणप्रसिद्धान्सुधन्वनः पुत्रान् कर्मणा देवत्वं प्राप्तवत ऋभून् स्तुत्वा
+> वेदप्रसिद्ध्या सूर्यरश्मिरूपानृभूनिदानीं सौति । तथा च यास्को निरुक्ते
+> पुराणप्रक्रियासिद्ध्या नृभून्बहुधा निरुच्य तदुदाहरणत्वेन विष्टि शमीत्येतामुदाहृत्यादित्यरश्मयोऽप्यभव उच्यंत इत्युक्ता तस्मिन्नर्थ एतामृचमुदाजहार ।
+> नि. ११-१६. । हे ऋभव उरु प्रभूतं भासमानाः ऋतेनादित्येन भासमाना वा
+> ऋतेनोदकेनोदकार्थमुत्पन्ना वा । रश्मीनामुरुभासमानत्वं प्रसिद्धं । तथादित्यादुत्पत्तिरपि । उदकार्थं भवनमपि रश्मीनां घर्मकाले भूमिगतं सारवादाय
+> पुनर्वर्षकाले प्रवर्षंतीति प्रसिद्धं । अदित्याज्ञायते वृष्टिरिति शास्त्रात् । तथा
+> विधा नरः प्रकाशावृष्ट्यु दकादेर्नेतारः यूयमुद्वत्तून्नतेषु प्रदेशेषु मेर्वादिषु तृणं व्रीहियवादिरूपमस्यॆ प्राणिजाताय तदुपकारार्थमकृणोतन । कृतवंतः स्थ ॥ उपसर्गाच्छंदसि धात्वर्थ इति वतिः ॥ तथा निवत्तु प्रवणदेशेश्वस्मा
+> एवाप उदकान्यकृणोतन । अकुरुत । किं स्वभोगार्थं नेत्याह । स्वपस्यया
+
+> *purāṇaprasiddhānsudhanvanaḥ putrān karmaṇā devatvaṃ prāptavata ṛbhūn stutvā*
+> *vedaprasiddhyā sūryaraśmirūpānṛbhūnidānīṃ sauti | tathā ca yāsko nirukte*
+> *purāṇaprakriyāsiddhyā nṛbhūnbahudhā nirucya tadudāharaṇatvena viṣṭi śamītyetāmudāhṛtyādityaraśmayo 'pyabhava ucyaṃta ityuktā tasminnartha etāmṛcamudājahāra |*
+> *ni. 11-16. | he ṛbhava uru prabhūtaṃ bhāsamānāḥ ṛtenādityena bhāsamānā vā*
+> *ṛtenodakenodakārthamutpannā vā | raśmīnāmurubhāsamānatvaṃ prasiddhaṃ | tathādityādutpattirapi | udakārthaṃ bhavanamapi raśmīnāṃ gharmakāle bhūmigataṃ sāravādāya*
+> *punarvarṣakāle pravarṣaṃtīti prasiddhaṃ | adityājñāyate vṛṣṭiriti śāstrāt | tathā*
+> *vidhā naraḥ prakāśāvṛṣṭyu dakādernetāraḥ yūyamudvattūnnateṣu pradeśeṣu mervādiṣu tṛṇaṃ vrīhiyavādirūpamasyè prāṇijātāya tadupakārārthamakṛṇotana | kṛtavaṃtaḥ stha ‖ upasargācchaṃdasi dhātvartha iti vatiḥ ‖ tathā nivattu pravaṇadeśeśvasmā*
+> *evāpa udakānyakṛṇotana | akuruta | kiṃ svabhogārthaṃ netyāha | svapasyayā*
+
 ---
 
-**Progress note:** Done through printed p. 127 (PDF 127). Sūkta 161 Ṛk 9 Special Topics end and grammar; Ṛk 10 Saṃhitā, Pada, bhāṣya, Pratipadārtha
+**Progress note:** Done through printed p. 130 (PDF 130). Sūkta 161 Ṛk 10 Bhāvārtha, English, Special Topics, grammar; Ṛk 11 Saṃhitā, Pada, bhāṣya start
