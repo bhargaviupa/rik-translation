@@ -3320,6 +3320,81 @@ in this, घ इति प्रसिद्धौ (*gha iti prasiddhau*) is exp
 
 आ घा गमद्यदि श्रवत्सहस्रिणीभिरूतिभिः । वाजेभिरुप नो हवं ॥ (*ā ghā gamadyadi śravatsahasriṇībhirūtibhiḥ | vājebhirupa no havaṃ ‖*) (Ṛ. Saṃ. 1-30-8)
 
+### Printed p. 116
+
+*Running head: 116 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧. ೬೧] (as supplied: the sūkta number is printed "೧. ೬೧").* (The Special Topics of Ṛk 8 continue.)
+
+In the ṛk quoted at the end of the previous window the meaning "certainly" is given for the word "ಘ": if Indra hears our prayer he will certainly come. In the present ṛk it may be understood as indicating a limit: "at least drink this".
+
+मुंजनेजनं (*muṃjanejanaṃ*)—मुंजन्नाम पर्वतः । सोमोत्पत्तिस्थानं । तत आहृतत्वात्तेन (*muṃjannāma parvataḥ | somotpattisthānaṃ | tata āhṛtatvāttena*) मुंजतृणेन शोधितं । अपगततृणमित्यर्थः । (*muṃjatṛṇena śodhitaṃ | apagatatṛṇamityarthaḥ |*) The Kannada explains: brought from the mountain called Muñjavān, where it was mixed with grass and the like, it was, after being brought from there, cleared of those impurities and purified; that is the meaning. The Nirukta authors, having quoted the ṛk
+
+प्रावेपा मा बृहतो मादयंति प्रवातेजा इरिणे वर्वृतानाः । (*prāvepā mā bṛhato mādayaṃti pravātejā iriṇe varvṛtānāḥ |*)
+सोमस्येव मौजवतस्य भक्षो विभीवको जागृविर्मह्यमच्छान् ॥ (*somasyeva maujavatasya bhakṣo vibhīvako jāgṛvirmahyamacchān ‖*) (Ṛ. Saṃ. 10-34-1)
+
+(Ni. 9-8), have explained this mountain and the nature of the Soma produced on it, where they compare the taste of the fruit of the vibhīvaka tree with the sweetness of the juice of the Soma plant produced on the Mauja mountain.
+
+मौजवतो मूजवति जातः । मूजवान् पर्वतो मुंजवान् । मुंजो (*maujavato mūjavati jātaḥ | mūjavān parvato muṃjavān | muṃjo*)
+विमुच्यत इषीकया (*vimucyata iṣīkayā*) (Ni. 9-8). मौजवतः (सोमस्य) (*maujavataḥ (somasya)*) means produced on the Muñjavat mountain. Because it is filled with the grass called muñja, that mountain is well known by the name Mūjavat. It is explained that the Soma plant grows on that mountain and has a juice of the greatest sweetness. The present ṛk says that it is pure, being filtered through that grass.
+
+मादयाध्वै (*mādayādhvai*)—for the drinking at both times, the morning pressing and the midday pressing, the expression "pibata" (drink) is used, while the use of "mādayādhvai" for the drinking of the third pressing shows the special character of the third pressing. This intoxicating satisfaction is possible only through the drinking of the third pressing. Because this word was once used also for the drinking of the midday pressing, an objection arose, and an answer to it has been given:
+
+असावि देवं गोऋजीकमंध इति मध्यंदिन उन्नीयमानेभ्योऽन्वाह वृषण्वतीः पीतवतीः सुतवतीर्मद्वती रूपसमृद्धाः । ऐंद्रीरन्वाहैंद्रो वै (*asāvi devaṃ goṛjīkamaṃdha iti madhyaṃdina unnīyamānebhyo 'nvāha vṛṣaṇvatīḥ pītavatīḥ sutavatīrmadvatī rūpasamṛddhāḥ | aiṃdrīranvāhaiṃdro vai*)
+यज्ञस्त्रिष्टुभोऽन्वाह त्रैष्टुभं वै माध्यंदिनं सवनं । तदाहुर्यत्तृतीय (*yajñastriṣṭubho 'nvāha traiṣṭubhaṃ vai mādhyaṃdinaṃ savanaṃ | tadāhuryattṛtīya*)
+सवनस्यॆव रूपं मद्वदथ कस्मान्माध्यंदिने मद्वतीरनु चाह यजंति (*savanasyèva rūpaṃ madvadatha kasmānmādhyaṃdine madvatīranu cāha yajaṃti*)
+चाभिरिति । माद्यंतीव वै मध्यंदिने देवताः समेव तृतीयसवने मादयंते तस्मान्मध्यंदिने मद्वतीरनु चाह यजंति चाभिः ॥ (*cābhiriti | mādyaṃtīva vai madhyaṃdine devatāḥ sameva tṛtīyasavane mādayaṃte tasmānmadhyaṃdine madvatīranu cāha yajaṃti cābhiḥ ‖*)
+(ಇ. ಬ್ರ. 6-10) *[the abbreviation "ಇ. ಬ್ರ." is printed so, without the long ā; presumably the Aitareya Brāhmaṇa, as the Kannada on p. 117 says; kept as printed. The hyphenated line breaks "ವೃಷ-ಣ್ವತೀಃ" and "ಮಾದ-ಯಂತೇ" are joined.]*
+
+### Printed p. 117
+
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೫. ] Ṛgveda-saṃhitā 117 (as supplied).*
+
+At the midday pressing the Adhvaryu
+
+असावि देवं गोयजीकमंधो न्यस्मिन्निंद्रो जनुषेमुवोच । (*asāvi devaṃ goyajīkamaṃdho nyasminniṃdro januṣemuvoca |*)
+बोधामसि त्वा हर्यश्व यज्ञैर्बोधा नः स्तोममंधसो मदेषु ॥ (*bodhāmasi tvā haryaśva yajñairbodhā naḥ stomamaṃdhaso madeṣu ‖*) (Ṛ. Saṃ. 7-21-1)
+
+should recite the sūkta that begins with this ṛk. In this first mantra the nature of intoxication is stated by अंधसः (*aṃdhasaḥ*) मदेषु (*madeṣu*). But since all the gods obtain joy at the time of the Soma-drinking of the third pressing, the question arises why a ṛk with this word is recited at the time of the midday pressing. However, since the gods drink Soma at the midday pressing too, intoxication comes to them without fail; but at the third pressing, संमादयंते (*saṃmādayaṃte*) they are exceedingly and greatly delighted by the abundance of the Soma-drinking. That is the only difference, so there is no objection: thus it is explained in the Aitareya Brāhmaṇa. In the present ṛk the word मादयाध्यॆ (*mādayādhyè*) *[so printed]* is used to indicate the greater joy of the third pressing. What is the nature of this joy?
+
+अपादिंद्रो अपादग्निर्विश्वे देवा अमत्सत । (*apādiṃdro apādagnirviśve devā amatsata |*)
+वरुण इदिह क्षयत्तमापो अभ्यनूषत वत्सं संशिश्वरीरिव ॥ (*varuṇa idiha kṣayattamāpo abhyanūṣata vatsaṃ saṃśiśvarīriva ‖*) (Ṛ. Saṃ. 8-69-11)
+
+Here the joy accompanied by the intoxication produced by the Soma-drinking of Indra, Agni, Varuṇa and the other gods, and expressed in sound, is compared with the joyful expression of a cow that, seeing her calf, runs towards it making sound. The Ṛbhus are prayed to become sharers in such intoxicating joy.
+
+हरथ (*haratha*) *[so printed, "(ನೇವ) ಹರಥ", for "ಹರ್ಯಥ"]*—हरतिः कांतिकर्मा (*haratiḥ kāṃtikarmā*) (Ni. 3-6), हरतिः प्रेप्साकर्मा विहरतीति (*haratiḥ prepsākarmā viharatīti*) (Ni. 7-17). Because it is very attractive, it gives the meaning "desire that thing". When showing the derivation of the word "hiraṇya" the Nirukta authors say हरतेर्वा स्यात् प्रेप्साकर्मणः (*haratervā syāt prepsākarmaṇaḥ*) (Ni. 2-10), and have shown that the name "hiraṇya" is well known because of the above meaning. In the present ṛk its negative use occurs. If you do not desire the Soma-drinking of the morning and midday pressings, you are prayed to obtain the drinking of the third pressing, which gives more joy than they, and to gain satisfaction in it.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses पिबत (*pibata*) (root पा (*pā*), with the rule Pā. Sū. 7-3-78 on p. 118), अब्रवीतन (*abravītana*) (root ब्रूञ् (*brūñ*); Pā. Sū. 7-3-93), घा (*ghā*) (Pā. Sū. 6-3-133), हर्यथ (*haryatha*) (root हर्य (*harya*); with the remark of Yāska हर्यति उशिक् (*haryati uśik*), printed reference "ನಿರು. 2-6-10") and मादयाध्वै (*mādayādhvai*) (root मद (*mada*); Pā. Sū. 3-4-79, 3-4-94, 3-4-96 and 3-1-25), with the accents; it ends with the mark ॥ ೮ ॥.
+
+### Printed p. 118
+
+*Running head: 118 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨ ಸೂ ೧೬೧] (as supplied).* (The grammar of Ṛk 8 begins on p. 117 and ends here.)
+
+*[A stray line "408 ಕಾದಂಬರಿ" stands after the grammar of Ṛk 8 in the supplied text; kept in kn.md as a note.]*
+
+#### Ṛk 9
+
+*[The label of the Saṃhitā is missing in the supplied text and the Saṃhitā stood as four plain lines; the label is inserted and the lines are made a block. Variants between Saṃhitā and Pada kept as supplied: the Saṃhitā has इत्यन्नो (*ityanno*) where the Pada has अन्यः (*anyaḥ*), and वधर्यंतीं (*vadharyaṃtīṃ*) where the Pada has वधःयंतीं (*vadhaḥyaṃtīṃ*).]*
+
+**॥ संहितापाठः ॥**
+
+> आपो॒ भूयि॑ष्ठा॒ इत्येको॑ अब्रवीद॒ग्निर्भूयि॑ष्ठ॒ इत्य॒न्नो॑
+> अ॑ब्रवीत् ।
+> व॒ध॒र्यंतीं॑ ब॒हुभ्यः॒ प्रैको॑ अब्रवीदृ॒ता वदं॑तश्चम॒सा॑
+> अपिंशत ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> आपः । भूयिष्ठाः । इति । एकः । अब्रवीत् । अग्निः । भूयिष्ठः । इति । अन्यः ।
+> अब्रवीत् ।
+> वधःयंतीं । बहुभ्यः । प्र । एकः । अब्रवीत् । ऋता । वदंतः । चमसान् ।
+> अपिंशत ॥ ९ ॥
+
+> *āpaḥ | bhūyiṣṭhāḥ | iti | ekaḥ | abravīt | agniḥ | bhūyiṣṭhaḥ | iti | anyaḥ |*
+> *abravīt |*
+> *vadhaḥyaṃtīṃ | bahubhyaḥ | pra | ekaḥ | abravīt | ṛtā | vadaṃtaḥ | camasān |*
+> *apiṃśata ‖ 9 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 115 (PDF 115). Sūkta 161 Ṛk 7 grammar end; Ṛk 8 Saṃhitā/Pada (picture), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics start
+**Progress note:** Done through printed p. 118 (PDF 118). Sūkta 161 Ṛk 8 Special Topics end and grammar; Ṛk 9 Saṃhitā and Pada
