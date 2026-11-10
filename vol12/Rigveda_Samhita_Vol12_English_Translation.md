@@ -14925,6 +14925,147 @@ There is a Brāhmaṇa sentence, "Agni sends rain forth from this world." It is 
 > *dvādaśa | pradhayaḥ | cakraṃ | ekaṃ | trīṇi | nabhyāni | kaḥ | ūṃ iti | tat | ciketa |*
 > *tasmin | sākaṃ | triśatāḥ | na | śaṃkavaḥ | arpitāḥ | ṣaṣṭiḥ | na | cèlācalāsaḥ ‖ 48 ‖*
 
+### Printed p. 637
+*Running head: [೯. ೨. ಆ. ೩. ವ. ೨೩.] ಋಗ್ವೇದಸಂಹಿತಾ 637 (as supplied; the print has ೯. and ಆ. here).*
+
+**॥ सायणभाष्यम् ॥**
+> द्वादशैतत्संख्याकाः प्रधयः परिधयः प्रहिता वर्तंते । तत्स्थानीया द्वादश
+> मासा एकमद्वितीयं चक्रं क्रमणस्वभावं संवत्सराख्यं चक्रमाश्रिताः । तथा त्रीणि
+> त्रिसंख्याकानि नभ्यानि नाभ्याश्रयाणि फलकानि तत्स्थानीयानि ग्रीष्मवर्षाहेमंताख्यान्याश्रितानि । यथा सूर्यरथचक्रस्य द्वादश परिधयो नाभ्यार्हाणि त्रीणि फलकानि संति तद्वत्कालचक्रस्यापि । क उक्तोऽपि महांस्तच्चक्रं चिकेत । जानाति ।
+> तस्मिंश्चक्रे साकं सह शंकवो न शंकव इव । अत्र पुरस्तादुपचारोऽपि नशब्दः
+> सामर्थादुपमार्थीयः । तस्मिन्नपि संवत्सरचक्रे त्रिशता एतत्संख्याकाः षष्टिर्न ।
+> नशब्दश्चार्थे । षष्टिश्चारा अरस्थानीयान्यहान्यर्पिताः । अर्पितानि । कीदृशानि तानि ।
+> चलाचलासः । एकश्चलशब्दो द्विर्भावप्राप्तः । चलाः । चलनस्वभावानीत्यर्थः ॥
+> चरिचलिपतिवदीनामच्याक्वाभ्यासस्य । पा. ६-१-१२-६ । इति द्विर्वचनमागागमश्च ।
+> ततोऽसुक् ॥ षष्टिश्च ह वै त्रीणि च शतानि संवत्सरस्याहानीति ब्राह्मणं । शत. ९-१-
+> १-४३. । द्वादश प्रधयश्चक्रमेकमिति मासानां मासा मानादित्यादि निरुक्तं । ४-२७. ॥
+*Gist:* The twelve fellies are twelve months, the one wheel the year, the three naves three seasons; the 360 pegs are the 360 days.
+**प्रतिपदार्थ (Pratipadārtha)**
+प्रधयः (*pradhayaḥ*)—the rims (fellies); द्वादश (*dvādaśa*)—are twelve in number; चक्रं (*cakraṃ*)—the wheel; एकं (*ekaṃ*)—one; नभ्यानि (*nabhyāni*)—the central axles (naves); त्रीणि (*trīṇi*)—are three in number; तत् (*tat*)—this secret; क उ चिकेत (*ka u ciketa*)—what great soul has known it?; तस्मिन् (*tasmin*)—in this wheel; चलाचलासः (*calācalāsaḥ*)—revolving; त्रिशता षष्टिर्न (*triśatā ṣaṣṭirna*)—parts numbering three hundred and sixty; साकं (*sākaṃ*)—together; शंकवो न (*śaṃkavo na*)—like pegs; अर्पिताः (*arpitāḥ*)—are fixed (attached).
+*[Label as supplied: ॥ ಭಾಷಾರ್ಥ ॥]*
+**भावार्थ (Bhāvārtha)**
+The wheel in the form of the year has twelve rims. The central axles are three. In this wheel three hundred and sixty revolving parts *[as supplied: ಅನಯವಗಳು as printed, for ಅವಯವಗಳು]* are fixed together like pegs. The great soul who knows this secret is rare.
+**Printed English**
+The fellies are twelve; the wheel is one; three are the axles; but who knows it? within it are collected 360 (spokes), which are, as it were, move-able and immoveable
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+What is described in this Ṛk may be the wheel of the sun, or it may be the wheel of time. Since both the sun and the year undergo a revolving motion of recurrence, the synonymous name "wheel" may be given to both
+
+### Printed p. 638
+*Running head: 638 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+of these two principles. Both have twelve rims, and for the three naves there are three hundred and sixty pegs. It would be right also to declare the two identical.
+
+द्वादश प्रधयः—परिधयः ; तत् स्थानीया द्वादशमासाः (*dvādaśa pradhayaḥ—paridhayaḥ ; tat sthānīyā dvādaśamāsāḥ*): the meaning is the twelve months in the form of rims. The orb of the sun is compared to the wheel of a chariot and the twelve months to the rims. The orb of the sun becomes one that has twelve signs, Aries, Taurus and the rest. Since the count of three hundred and sixty days and nights is there, it fits better if the word is taken here as a synonym for months. The word द्वादश (*dvādaśa*) is also sometimes used as a synonym of the year, which has twelve months. For example:
+
+देवहितिं जुगुपुर्द्वादशस्य ऋतुं नरो न प्र मिनंत्र्येते । संवत्सरे प्रावृष्ट्यागतायां तप्ता घर्मा आश्नुवते विसर्गं (*devahitiṃ jugupurdvādaśasya ṛtuṃ naro na pra minaṃtryete | saṃvatsare prāvṛṣṭyāgatāyāṃ taptā gharmā āśnuvate visargaṃ*) (Ṛ. Saṃ. 7-103-9)
+
+Here it means "of the year consisting of twelve months" (द्वादशमासात्मकस्य संवत्सरस्य (*dvādaśamāsātmakasya saṃvatsarasya*)). In the present Ṛk too that may be the meaning. The Nirukta-writers quote the foot द्वादश प्रधयश्चक्रमेकं (*dvādaśa pradhayaścakramekaṃ*) and explain "इति मासानां (*iti māsānāṃ*)": these twelve months are synonyms of month (Ni. 4-27). The meaning is a wheel of such a nature of months.
+
+त्रीणि नभ्यानि—नाभ्याश्रयाणि फलकानि तत्स्थानीयानि ग्रीष्मवर्षाहेमंताख्यान्याश्रितानि (*trīṇi nabhyāni—nābhyāśrayāṇi phalakāni tatsthānīyāni grīṣmavarṣāhemaṃtākhyānyāśritāni*): the three naves here denote the seasons of summer, rains and winter; or they may be the three junctures (*sandhyā*) standing in the place of naves, or the three times, past, future and present.
+
+क उ तच्चिकेत (*ka u tacciketa*)—कोऽपि महान् जानाति (*ko 'pi mahān jānāti*): "what great soul knows?". In this, "Who knows this secret?" may be a question, or the meaning may be "the great soul who knows this is rare". The meaning is that the secret of the principle of time is not within the reach of ordinary intelligence. The meaning of this idea has been stated earlier in explaining ideas such as को ददर्श प्रथमं जायमानं (*ko dadarśa prathamaṃ jāyamānaṃ*) (cf. 1-164-4).
+
+शंकवो न (*śaṃkavo na*); षष्टिर्न (*ṣaṣṭirna*): in both places the particle *na* is used. In शंकवो न (*śaṃkavo na*), as the Nirukta-writers explain by showing the example दुर्मदासो न सुरायां (*durmadāso na surāyāṃ*), it has the sense of comparison: "like pegs" (Ni. 1-4). In षष्टिर्न (*ṣaṣṭirna*) the explanation is न शब्दः चार्थे त्रिशताः षष्टिश्च (*na śabdaḥ cārthe triśatāḥ ṣaṣṭiśca*): the word *na* is used in the sense of combination; "three hundred and sixty" means three hundred and sixty. Here the Nirukta-writers explain the particle *na* with examples only in the sense of negation and of comparison. If the question comes how the sense of combination is possible here, then Sāyaṇa, supporting it,
+
+### Printed p. 639
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೨೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 639 (as supplied; the print has ಅ. .೩).*
+
+has supported his meaning by quoting the sentence of the Śatapatha-brāhmaṇa:
+
+षष्टिश्च ह वै त्रीणि च शतानि संवत्सरस्वाहानि (*ṣaṣṭiśca ha vai trīṇi ca śatāni saṃvatsarasvāhāni*) (Śat. Brā. 9-1-1-43) *[as supplied: ಸಂವತ್ಸರಸ್ವಾಹಾನಿ as printed; the bhāṣya block has ಸಂವತ್ಸರಸ್ಯಾಹಾನೀತಿ]*
+
+चक्रं—चकतेर्ना चरतेर्ना क्रामतेर्ना (*cakraṃ—cakaternā caraternā krāmaternā*): the word *cakra* is formed from the root *car* or *kram*, in the sense of obstruction *[as supplied: ಪ್ರತಿಘಾತಾರ್ಥಕವಾದ as printed]*.
+
+चलाचलासः— एकश्चलशब्दो द्विर्भावप्राप्तः । चलाः । चलनस्वभावानीत्यर्थः (*calācalāsaḥ— ekaścalaśabdo dvirbhāvaprāptaḥ | calāḥ | calanasvabhāvānītyarthaḥ*): here the word *cala*, in the sense of moving, has undergone doubling; Sāyaṇa explains that the meaning is "of revolving nature". But the scholar Wilson, in rendering this word, divides it into two parts, *cala* and *acala*:
+
+Within it are collected 360 spokes, which are, as it were, moveable
+and immoveable.
+(Rig-veda Translation. Vol. II. p. 78)
+
+and takes it to mean "those that move and those that do not move". Sāyaṇa quotes Pāṇini's sūtra चरिचलिपतिवदीनामच्याक्षाभ्यासस्य (*caricalipativadīnāmacyākṣābhyāsasya*) (Pā. Sū 6-1-12-6 *[as supplied: the number is printed thus]*) and explains that the word *cala* itself takes doubling, and that here चलाचलासः (*calācalāsaḥ*) means merely "of the nature of moving". Among the three hundred and sixty parts in the one wheel in the form of the year, it is not possible that some move and some are without motion. Therefore the meaning given by Sāyaṇa is appropriate in this context. It may be said that the meaning given by Wilson is wrong.
+
+*Grammatical process (ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ)*
+
+*Grammar (transcribed, not explained):* प्रधयः (*pradhayaḥ*): the root डुधाण् धारणपोषयोः (*ḍudhāṇ dhāraṇapoṣayoḥ*) *[as supplied: as printed]*; by उपसर्गे घोः किः (*upasarge ghoḥ kiḥ*) (Pā. Sū. [number missing in the print]) the suffix ki; because it is kit, by आतोलोप इटिच (*ātolopa iṭica*) (Pā. Sū. 6-4-92) elision of the ā of the root; the accent of a kṛt-ending compound's latter member results. नभ्यानि (*nabhyāni*): "beneficial to the nave"; by नाभये हितानि नाभिनभंच (*nābhaye hitāni nābhinabhaṃca*) (Pā. Sū. 5-1-2-1 *[as supplied: as printed]*) the suffix yat; the substitute nabha for the base; by यस्येतिच (*yasyetica*) elision of a; by यतोनावः (*yatonāvaḥ*) (Pā. Sū. 6-1-213) the initial udātta accent results.
+
+### Printed p. 640
+*Running head: 640 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*[Stray line as supplied, a note on the picture: This image contains no text. It shows a simple black line drawing of what appears to be two small hills or mounds side by side.]*
+
+*Grammar, continued:* चिकेत (*ciketa*): the root कित ज्ञाने (*kita jñāne*); in the Vedic manner laṭ-sense by liṭ, third person singular form; the tiṅ-final nighāta accent results. शंकवः (*śaṃkavaḥ*): by खरु शंकु पीयु नीलंगलिगु (*kharu śaṃku pīyu nīlaṃgaligu*) (Uṇ. Sū. 1-36) it is formed ending in the suffix ka *[as supplied: ಕ. ಪ್ರತ್ಯಯಾಂತವಾಗಿ ನಿಷಾತಿತವಾಗಿದೆ as printed]*. चलाचलासः (*calācalāsaḥ*): the root चल कंपने (*cala kaṃpane*); by चरिचलिपतिवदीनामच्छ्याक्षाभ्यासस्य (*caricalipativadīnāmacchyākṣābhyāsasya*) (Pā. Sū. 6-1-126) doubling of the root when the suffix ac follows; the augment ā for the reduplicative syllable, which, being kit, comes as the final part; by चितः (*citaḥ*) (Pā. Sū. 6-1-163) the final-udātta accent results; when jas follows, by अज्जसेरुसुक् (*ajjaserusuk*) (Pā. Sū. 7-1-50) the augment asuk for it. || 48 ||
+*[Stray line as supplied: 406 25:01]*
+
+#### Ṛk 49
+**॥ संहितापाठः ॥**
+> यस्ते॒ स्तनः॑ शश॒यो यो म॑यो॒भूर्येन॒ विश्वा॒ पुष्य॑सि॒॑
+> वायर्याणि ।
+> यो र॑त्न॒धा व॑सु॒विद्यः सु॒दत्रः॒ सर॑स्वति॒ तमि॒ह धात॑वे कः ॥२९॥
+**॥ पदपाठः ॥**
+> यः । ते । स्तनः । शशयः । यः । मयंभः । येन । विश्वा । पुषसि । वायाणि ।
+> यः । रत्नधाः । वसुऽवित् । यः । सुदपत्रः । सरस्वति । तं । इह । धातवे । करिति कः ॥
+> ॥ ४९ ॥
+
+> *yaḥ | te | stanaḥ | śaśayaḥ | yaḥ | mayaṃbhaḥ | yena | viśvā | puṣasi | vāyāṇi |*
+> *yaḥ | ratnadhāḥ | vasu 'vit | yaḥ | sudapatraḥ | sarasvati | taṃ | iha | dhātave | kariti kaḥ ‖*
+> *‖ 49 ‖*
+*[Verse number as supplied: the Saṃhitā block ends with ॥೨೯॥ while the Pada block has ॥ ೪೯ ॥; the Pada line also has the stray ಕರಿತಿ and other printed oddities, kept.]*
+**॥ सायणभाष्यम् ॥**
+> प्रवर्ग्येऽभिष्टवे यस्ते स्तन इत्येका । सूत्रितं च । यस्ते स्तनः शशयो यो
+> मयोभूर्गौरमीमेदनु वत्सं मिषंतं । आ. ४-७. । इति ॥ एष्येव सारस्वते पशु
+> हविषो याज्या । सूत्रितं च । यस्ते स्तनः शशयो यो मयोभूस्त्वं सोम
+> प्र चिकितो मनीषेति द्वे । आ. ३-७. । इति ॥
+> हे सरस्वति ते शिव संबंधी यः स्तनः स्तनवच्छिशुस्थानीयानां प्राणिनामाप्यायनकारी लौकिकवैदिकसुशब्दरूपः स्तनः शशयः शयानस्तव देहे वर्तमानः ।
+
+> *pravargye 'bhiṣṭave yaste stana ityekā | sūtritaṃ ca | yaste stanaḥ śaśayo yo*
+> *mayobhūrgauramīmedanu vatsaṃ miṣaṃtaṃ | ā. 4-7. | iti ‖ eṣyeva sārasvate paśu*
+> *haviṣo yājyā | sūtritaṃ ca | yaste stanaḥ śaśayo yo mayobhūstvaṃ soma*
+> *pra cikito manīṣeti dve | ā. 3-7. | iti ‖*
+> *he sarasvati te śiva saṃbaṃdhī yaḥ stanaḥ stanavacchiśusthānīyānāṃ prāṇināmāpyāyanakārī laukikavaidikasuśabdarūpaḥ stanaḥ śaśayaḥ śayānastava dehe vartamānaḥ |*
+
+### Printed p. 641
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 641 (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya]
+> यश्च स्तनो मयोभू रसास्वादिनां सुखस्य भावयिता । येन स्तनेन विश्वा
+> सर्वाणि वार्याणि वरुणीयान्यभिमतरूपाणि धनानि पुष्यसि भोक्तृभ्यः । यश्च
+> स्तनो रत्नधा बहुविधरमणीयरसानां धारयिता वसुविद्वसूनां वासयित्यणां
+> धनानां वेत्ता लब्धा वेदयिता वा । किंच यः स्तनः सुदत्रः शोभनदानः । सुदत्रः
+> कल्याणदान इति निरुक्तं ! ६-१४. । अत्रासकृद्यच्छब्दश्रवणं स्तनस्यातिप्रशस्तत्वज्ञापनार्थं । हे देवि तं तादृशं सर्वप्राण्युपकारकं सूक्तमयं स्तनमिहास्मिन्कर्मणीदानीं वा धातवेऽस्टाभिर्धातुं पातुं पानाय कः । कुरु ॥
+*Gist:* Saraswatī's breast, the sacred sound, nourishes all beings, bestows wealth and gifts; Sāyaṇa asks her to make it available here for our drinking.
+**प्रतिपदार्थ (Pratipadārtha)**
+सरस्वति (*sarasvati*)—O Sarasvatī; ते (*te*)—your; यः (*yaḥ*)—which; स्तनः (*stanaḥ*)—your breast, which gives satisfaction to the wise priests and is of the form of good sound; शशयः (*śaśayaḥ*)—which rests in your body, finding repose; यः (*yaḥ*)—which breast of the form of sound; मयोभूः (*mayobhūḥ*)—which gives happiness; येन (*yena*)—by which; विश्वा (*viśvā*)—all; वार्याणि (*vāryāṇi*)—desired objects; पुष्यसि (*puṣyasi*)—you give abundantly; यः (*yaḥ*)—which; रत्नधाः (*ratnadhāḥ*)—which supplies delightful essence; वसुवित् (*vasuvit*)—which is the knower of wealth; यः (*yaḥ*)—which; सुदत्रः (*sudatraḥ*)—which is an excellent giver; तं (*taṃ*)—that breast; इह (*iha*)—in this sacrificial act; धातवे (*dhātave*)—as fit for our drinking; कः (*kaḥ*)—make.
+*[Label as supplied, garbled: ಪ್ರತಿಪವಾರ್ಧ]*
+**भावार्थ (Bhāvārtha)**
+O Sarasvatī, that breast of yours, which gives satisfaction to the wise priests and is of the form of good sound, which rests in your body finding repose; that breast of the form of sound which gives happiness; by which you give abundantly all desired objects; which supplies delightful essence; and which is both knower of wealth and giver: make that breast in this sacrificial act fit for our drinking.
+**Printed English**
+Saraswathi, that retiring breast, which is the source of delight with
+which you bestow all good things, which is the container of wealth,
+the distributor of riches, the giver of food (fortune); that (bosom) do you
+lay open at this season for our nourishment.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the special sacrifice called Pravargya, at the time of the Abhiṣṭava, this Ṛk यस्ते स्तन (*yaste stana*) is to be recited as the *yājyā* mantra; this is set out by the Āśvalāyana-śrauta-sūtra sūtra यस्ते स्तनः शशयो यो मयोभू (*yaste stanaḥ śaśayo yo mayobhū*) *[the sūtra is broken across the page here by a stray line "[41] [Vol. 12" as printed]*
+
+### Printed p. 642
+*Running head: 642 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+गौरमीमेदनु वत्सं मिषंतं (*gauramīmedanu vatsaṃ miṣaṃtaṃ*) (Ā. 4-7), and also, in the animal-offering connected with Sarasvatī, when the oblation is offered, this Ṛk is to be recited as the *yājyā* mantra, as set out by the Āśvalāyana-śrauta-sūtra sūtra यस्ते स्तनः शशयो यो मयोभूस्त्वं सोम प्र चिकितो मनीषेति द्वे (*yaste stanaḥ śaśayo yo mayobhūstvaṃ soma pra cikito manīṣeti dve*) (Ā. 3-7).
+
+The name Sarasvatī is, in the Ṛgveda, in many places well known as almost always the name of a river. That she is a goddess of speech is very rare.
+
+Though there is nothing to show distinctly that Saraswathi is ever anything more in the Rig-Veda than a river godless [sic], we find her identified in the Brahmanas, with Var. speech. and in post Vedic mythology she has become goddess of eloquence and wisdom, invoked as a muse and regarded as the wife of Brahma.
+(Macdonell : Vedic Mythology. p. 87.)
+
+In the Ṛk-saṃhitā the name Sarasvatī is the name of a river. In the Brāhmaṇas and the like Sarasvatī is called the goddess of speech, the wife of Brahmā and the giver of wisdom: this is the opinion of Western scholars such as Mac-Donell. But,
+
+शं नो देवा विश्वदेवा भवंतु शं सरस्वती सह धीभिरस्तु । शमभिषाचः शमु रातिषाचः शं नो दिव्याः पार्थिनाः शं नो अप्याः (*śaṃ no devā viśvadevā bhavaṃtu śaṃ sarasvatī saha dhībhirastu | śamabhiṣācaḥ śamu rātiṣācaḥ śaṃ no divyāḥ pārthināḥ śaṃ no apyāḥ*) (Ṛ. Saṃ. 7-35-11)
+
+here the deities who are in the three worlds, beginning with the earth, are prayed to and peace and well-being are sought from them. After addressing the deities of the three worlds as दिव्याः (*divyāḥ*), पार्थिनाः (*pārthināḥ*), अप्याः (*apyāḥ*), Sarasvatī is again prayed to separately with सरस्वती सह धीभिरस्तु (*sarasvatī saha dhībhirastu*). In this quoted Ṛk there is no reason for the name to be that of a river; the goddess of speech is the deity addressed here. In the same way, in the present Ṛk also, it is clearly understood, from the description in the Ṛk and from Sāyaṇa's bhāṣya, that the prayer is addressed to the goddess of speech.
+
+In the Nirukta the word Sarasvatī is read both among the names of speech and among the names of rivers (Ni. 2-23; 2-24). What we need here is to know in what way the form of Sarasvatī, the presiding deity of speech, has been described. Not only in the Ṛk-mantra quoted above but in many other places in the Ṛk-saṃhitā there is praise of Sarasvatī as the goddess of speech. For example:
+
+पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः (*pāvakā naḥ sarasvatī vājebhirvājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ*) (Ṛ. Saṃ. 1-3-10)
+
 ---
 
-**Progress note:** Done through printed p. 636. Ṛk 164.47 (rain, ṛta, Nirukta/Durga), Ṛk 48 verse
+**Progress note:** Done through printed p. 642. Ṛk 48 (year-wheel), Ṛk 49 (Sarasvatī breast) and Special Topics
