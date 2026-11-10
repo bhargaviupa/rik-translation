@@ -13241,6 +13241,103 @@ In these passages of the Kaṭha and Muṇḍaka Upaniṣads the result of the d
 न नरेणावरेण प्रोक्त एष सुविज्ञेयो बहुधा चिंत्यमानः । अनन्यप्रोक्ते गतिरत्र नास्त्यणीयान् ह्यतर्क्यमणुमप्रमाणात् (*na nareṇāvareṇa prokta eṣa suvijñeyo bahudhā ciṃtyamānaḥ | ananyaprokte gatiratra nāstyaṇīyān hyatarkyamaṇumapramāṇāt*)
 *[The window ends here; the translation of these verses follows in the next window.]*
 
+### Printed p. 553
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೧ । ಋಗ್ವೇದಸಂಹಿತಾ 553] (as supplied).*
+नैषा तर्केण मतिरापनेया प्रोक्तान्येनैव सुज्ञानाय प्रेष्ठ । यां त्वमापः सत्यधृतिर्बतासि त्वादृज् नो भूयान्नचिकेतः प्रष्टा (*naiṣā tarkeṇa matirāpaneyā proktānyenaiva sujñānāya preṣṭha | yāṃ tvamāpaḥ satyadhṛtirbatāsi tvādṛj no bhūyānnaciketaḥ praṣṭā*)
+(Kaṭha 1-2-7 to 9)
+Brahman, in this form of the inner Self, is not obtained even by the hearing of many; even after hearing the śruti it remains beyond the grasp of the understanding of many. One who, having realised the nature of such a Parabrahman, expounds it is very rare. One who obtains it is exceedingly skilful. The nature of this Self is not something that can be described by a man of ordinary intelligence. Only to one who has fully obtained realisation is the experience of it possible. Only he can become a teacher to others. It is stated categorically that this Brahman-knowledge, which is beyond the reach of logic and the like, can be obtained by Naciketas, of true resolve, and by others like him, but not by the rest. Sāyaṇa has named that very thing सर्वैकात्मरूपमानुभविकमस्ति तद्वदेव (*sarvaikātmarūpamānubhavikamasti tadvadeva*)—complete knowledge in the form of one's own experience.
+In the latter half of this same Ṛk, यदा मागन् प्रथमजा ऋतस्यादिद्वाचो अश्नुवे भागमस्याः ॥ (*yadā māgan prathamajā ṛtasyādidvāco aśnuve bhāgamasyāḥ ‖*) *[as supplied: the opening quotation mark is not closed]*, the nature of the experience is stated: as soon as the Brahman-knowledge that is accompanied by realisation and is complete is obtained, “I shall enjoy its essence.” The nature of that experience is as follows,
+संप्राप्य नमृषयो ज्ञानतृप्ताः कृतात्मानो वीतरागाः प्रशांताः । ते सर्वगं सर्वतः प्राप्य धीरा युक्तात्मानः सर्वमेवाविशंति (*saṃprāpya namṛṣayo jñānatṛptāḥ kṛtātmāno vītarāgāḥ praśāṃtāḥ | te sarvagaṃ sarvataḥ prāpya dhīrā yuktātmānaḥ sarvamevāviśaṃti*)
+(Muṇḍ. U. 3-2-5)
+The sages who have known this Supreme Self, by that very knowledge, are satisfied and have attained the Self, have a self that is constituted by the very nature of Parabrahman, are free from attachment and have a tranquil mind.
+तं दुर्दर्शं गूढमनुप्रविष्टं गुहाहितं गह्वरेष्ठं पुराणं । अध्यात्मयोगाधिगमेन देवं मत्वा धीरो हर्षशोक् जहाति (*taṃ durdarśaṃ gūḍhamanupraviṣṭaṃ guhāhitaṃ gahvareṣṭhaṃ purāṇaṃ | adhyātmayogādhigamena devaṃ matvā dhīro harṣaśok jahāti*)
+(Kaṭha 1-2-12)
+The wise one who, through the yoga of the Self, has realised Brahman—who can be known only by great labour, who is exceedingly hidden, who dwells in the cave in the form of the heart, who abides in the depths, who is ancient—gives up joy and sorrow. Without the outward-turned tendency expressed by “ಸಂನದ್ಧೋ ಮನಸಾ ಚರಾಮಿ” and the attachment and aversion that are its fruit, he is of tranquil mind.
+
+### Printed p. 554
+*Running head: 554 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ ೨೨. ಸೂ ೧೬೪] (as supplied).*
+यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति । सर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥ यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः । तत्र को मोहः कः शोक एकत्वमनुपश्यतः (*yastu sarvāṇi bhūtānyātmanyevānupaśyati | sarvabhūteṣu cātmānaṃ tato na vijugupsate ‖ yasminsarvāṇi bhūtānyātmaivābhūdvijānataḥ | tatra ko mohaḥ kaḥ śoka ekatvamanupaśyataḥ*)
+(Īśā. U. 6, 7) *[as supplied: the abbreviation printed is ಈ.ಉ]*
+The great knower who, through the experiential knowledge “ahaṃ brahmāsmi”, sees all beings in his own Self, and sees his own Self in all beings, has no revulsion at all. For one who has obtained the non-dual experience that he himself is of the form of Brahman and that the whole universe is his own form, there is neither delusion nor sorrow. That the experience of the bliss of Brahman is obtained by such a tranquil-minded one is the intention of the Saṃhitā sentence “अश्नुवे भागमस्याः (*aśnuve bhāgamasyāḥ*)”.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+*Note (the Sanskrit grammar is only transcribed, not explained word for word):* the Kannada gives the grammatical analysis of जानामि (*jānāmi*) (root ज्ञा अवबोधने (*jñā avabodhane*), Kryādi class, Laṭ, first person singular; the verb-accent nighāta comes), अस्मि (*asmi*) (root printed आस भुवि (*āsa bhuvi*), a Laṭ form printed as “ಲಡಂತ”; since the word yad is connected with it, the nighāta accent does not come; because the suffix is pit the root accent remains), संनद्धः (*saṃnaddhaḥ*) (root णह बंधने (*ṇaha baṃdhane*); initial n by णोनः (*ṇonaḥ*); suffix kta by the niṣṭhā rule in the passive; ha becomes dha by नहोधः (*nahodhaḥ*) (Pā. Sū. 8-2-34); dha for the suffix by झषस्तथोधोधः (*jhaṣastathodhodhaḥ*) (Pā. Sū. 8-2-40); jas for the preceding letter by झलां जश् झशि (*jhalāṃ jaś jhaśi*); udātta accent on the gati sam by गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49)), अगन् (*agan*) (the root of going, printed in a garbled form; Vedic luṅ; loss of i when tip comes; luk by मंत्रेघसह्व (*maṃtreghasahva*) (Pā. Sū 2-4-80) for the formative printed as “ಜ್ಲೈ”; loss of tip by the sūtra हल् ज्याभ्योदीर्घा (*hal jyābhyodīrghā*); m becomes n by मोनोधातोः (*monodhātoḥ*) (Pā. Sū. 8-2-64); the aṭ augment for the base; the nighāta accent is prevented by निपातैर्यद्यदि (*nipātairyadyadi*) (Pā. Sū. 8-1-30), so the word is ādyudātta through the accent of the aṭ augment) and अश्नुवे (*aśnuve*) (root आशू व्याप्तौ (*āśū vyāptau*), Svādi class, affix śnu, Laṭ first person singular; since it stands after an “ಅತಿಜಂತ” as printed, the nighāta accent comes). The grammar ends with the mark ॥ 37 ॥ and a stray ornament line.
+*[stray line as supplied: ઃ૦ઃ]*
+
+### Printed p. 555
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೨೧] ಋಗ್ವೇದಸಂಹಿತಾ 555] (as supplied; "ಪ." is printed for the Varga abbreviation).*
+#### Ṛk 38
+*[as supplied: a garbled label “ಸಂಹಕಾಪಾರಿ” is printed before the Saṃhitā-pāṭha label.]*
+**॥ संहितापाठः ॥**
+> अपा॒ज् प्राजे॑ति स्व॒धया॑ गृभी॒तोऽम॑र्त्यो॒ मर्त्ये॑ना॒॑
+> सयोनिः ।
+> ता शश्वं॑ता विषू॒चीना॑ वि॒यंता॒ न्य१॒॑ न्न्यं चि॒क्क्युर्न नि चि॑क्क्युर॒न्यं ॥ ३८ ॥
+**॥ पदपाठः ॥**
+> अपाज् । प्राज् । एति । स्वधया । गृभीतः । अमर्त्यः । मर्त्येन । सयोनिः ।
+> ता । शश्वंता । विषूचीना । वियंता । नि । अन्यं । चिक्युः । न । नि । चिक्युः । अन्यं ॥
+> ॥ ३८ ॥
+**॥ सायणभाष्यम् ॥**
+> अमर्त्योऽमरणधर्मायमात्मा मर्त्येन मरणधर्मणा भूतात्मना देहेन
+> सयोनिः समानस्थानः । यत्र परिच्छेदको देहोऽस्ति तत्र सर्वत्र सोऽयमपि
+> तिष्ठन्नित्यर्थः । यद्वा । समानोत्पत्तिः । सहवासेन स्वस्मिन्नप्युत्पत्तिरुपचरते । एवंभूतः सन् स्वधयान्नोपलक्षिततद्दोगेन गृभीतः । यद्वा । स्वधाशब्देनान्नमयं
+> शरीरं लक्ष्यते । तेन गृहीतः सन्नपाजीति । अशुक्लं कर्म कृत्वाधो गच्छति । प्राजीति
+> ऊर्ध्वं स्वर्गादिलोकं प्राप्नोति । परमात्मैव सूक्ष्मशरिरोपाधिकः सन्नानाविधकर्म कृत्वा तद्योगाय जीवसंज्ञां लब्ध्वा शरीरत्रयेण संबद्धो लोकांतरेषु संचरति । स्कूलसूक्ष्मोभयशरीरपरिग्रहेण लोके गुणत्रयान्वितः सन् परिभ्रमति । तथा च श्रूयते । गुणान्वयो यः फलकर्मकर्ता कृतस्य तस्मैव स चोपभोक्ता । स विश्वरूपस्त्रिगुणस्त्रिवर्त्मान् प्राणाधिपः संचरति स्वकर्मभिः । श्वे. उ. ५-७ ।
+> इति । इदानीमुभयप्राधानेनाह । ता तौ भूतात्मककर्त्रात्मानौ शश्वंता विभागेन
+> सर्वदा वर्तमानौ । यद्वा । सूक्ष्मशरीरपक्षे सर्वदा सहवास उपपद्यते । स्कूलशरीरपक्षेऽपि सात्विकजातेः । तत्कारणानां भूतसूक्ष्माणां सद्भावात्तत्र शरीरसंबंध
+> उपपद्यते । विषूचीनेह लोके सर्वत्रगमनौ वियंता तत्तत्फलोपभोगायि
+> सर्वत्र लोकांतरेषु गच्छंतौ वर्तेते । तत्र नरा अन्यं भूतात्मानं नि चिक्कुः ।
+> नितरां विशेषेण पश्यंति जानंति ! अन्यमपरं देहवच्छायातिरिक्तं न नि चिक्कुः । न
+> जानंति । केचन सामरा देहव्यतिरिक्तं न जानंति । केचन विवेकिनः कर्तृत्वभोक्तृ-
+
+> *amartyo 'maraṇadharmāyamātmā martyena maraṇadharmaṇā bhūtātmanā dehena*
+> *sayoniḥ samānasthānaḥ | yatra paricchedako deho 'sti tatra sarvatra so 'yamapi*
+> *tiṣṭhannityarthaḥ | yadvā | samānotpattiḥ | sahavāsena svasminnapyutpattirupacarate | evaṃbhūtaḥ san svadhayānnopalakṣitataddogena gṛbhītaḥ | yadvā | svadhāśabdenānnamayaṃ*
+> *śarīraṃ lakṣyate | tena gṛhītaḥ sannapājīti | aśuklaṃ karma kṛtvādho gacchati | prājīti*
+> *ūrdhvaṃ svargādilokaṃ prāpnoti | paramātmaiva sūkṣmaśariropādhikaḥ sannānāvidhakarma kṛtvā tadyogāya jīvasaṃjñāṃ labdhvā śarīratrayeṇa saṃbaddho lokāṃtareṣu saṃcarati | skūlasūkṣmobhayaśarīraparigraheṇa loke guṇatrayānvitaḥ san paribhramati | tathā ca śrūyate | guṇānvayo yaḥ phalakarmakartā kṛtasya tasmaiva sa copabhoktā | sa viśvarūpastriguṇastrivartmān prāṇādhipaḥ saṃcarati svakarmabhiḥ | śve. u. 5-7 |*
+> *iti | idānīmubhayaprādhānenāha | tā tau bhūtātmakakartrātmānau śaśvaṃtā vibhāgena*
+> *sarvadā vartamānau | yadvā | sūkṣmaśarīrapakṣe sarvadā sahavāsa upapadyate | skūlaśarīrapakṣe 'pi sātvikajāteḥ | tatkāraṇānāṃ bhūtasūkṣmāṇāṃ sadbhāvāttatra śarīrasaṃbaṃdha*
+> *upapadyate | viṣūcīneha loke sarvatragamanau viyaṃtā tattatphalopabhogāyi*
+> *sarvatra lokāṃtareṣu gacchaṃtau vartete | tatra narā anyaṃ bhūtātmānaṃ ni cikkuḥ |*
+> *nitarāṃ viśeṣeṇa paśyaṃti jānaṃti ! anyamaparaṃ dehavacchāyātiriktaṃ na ni cikkuḥ | na*
+> *jānaṃti | kecana sāmarā dehavyatiriktaṃ na jānaṃti | kecana vivekinaḥ kartṛtvabhoktṛ-*
+
+### Printed p. 556
+*Running head: 556 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+> तोपेतो देहातिरिक्तः कश्चिदस्तीत्यनुमिमते । न केऽपि देहत्रयव्यतिरिक्तमात्मानं
+> जानंति । अतो दुर्लभमात्मज्ञानमित्यर्थः ॥
+*Gist:* The immortal Self shares its place with the mortal body and goes down or up with it; people know only the bodily one.
+*[as supplied: a garbled label “ಪ್ರಸಿದ್ಧಾರ್ಥ” is printed before the Pratipadārtha label.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+अमर्त्यः (*amartyaḥ*)—the Self free from death; मर्त्येन (*martyena*)—with the body that has the nature of death; सयोनिः (*sayoniḥ*)—as one having the same place; स्वधया (*svadhayā*)—by the desire for the pleasure of objects; गृभीतः (*gṛbhītaḥ*)—as one covered; अप्राज् (*aprāj*)—facing downward *[as supplied: ಅಪ್ರಾಜ್ is printed here, ಅಪಾಜ್ in the Saṃhitā]*; प्राज् (*prāj*)—(as the fruit of good deeds) facing heaven; एति (*eti*)—goes; ता (*tā*)—those two, body and Self; शश्वंता (*śaśvaṃtā*)—always; विषूचीना (*viṣūcīnā*)—(in this world) moving about together; वियंता (*viyaṃtā*)—(for the experience of the fruits of their respective deeds) moving about in other worlds also, they are; अन्यं (*anyaṃ*)—(of them) the one connected with the body; नि चिक्कुः (*ni cikkuḥ*)—(people) know; अन्यं (*anyaṃ*)—the one other than the body; न निचिक्कुः (*na nicikkuḥ*)—do not know.
+**भावार्थ (Bhāvārtha)**
+The Self free from death *[as supplied: ಮರಣಹಿತ is printed]* goes, having the same place as the body that has the nature of death, covered by the desire for the pleasure of objects, facing downward, and, as the fruit of good deeds, facing heaven. Those two, body and Self, are always moving about together in this world and moving about in other worlds for the experience of their respective deeds. People can know the one connected with the body. They cannot know the one other than the body (the Self).
+**Printed English**
+The immortal, cognate with the mortal, affected by (desire of) enjoy- ment, goes to the lower or the upper (sphere): but (men beholding them) associated, going everywhere (in this world together); going everywhere (in other worlds together); have comprehended the one, but have not comprehended the other.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The immortal Self keeps up a connection with the mortal body. It takes birth after birth again and again in order to experience the fruits of the actions done through the body. And since during all the times of these experiences of actions the connection with the body must remain, the Self too has the usage of “is born, dies”, just as the body has. Therefore it is said सयोनिः (*sayoniḥ*): समानोत्पत्तिः । सहवासेन स्वस्मिन्नपि उत्पत्तिरुपचरते (*samānotpattiḥ | sahavāsena svasminnapi utpattirupacarate*). Sāyaṇa has explained that although the truly pure Self has neither birth nor death, this appearance exists because, being within the body, it has a bodily connection.
+
+### Printed p. 557
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೨೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 557] (as supplied).*
+In this Ṛk, is the one described as immortal the individual Self or the Supreme Self? If the Supreme Self, how do the connection with the body, and old age, death and the like together with the body, apply to him? If the individual Self, is there a difference between the individual soul and Īśvara? Such questions arise. Also, regarding the unattached Īśvara becoming bound by action, a contradiction is seen among the śruti sentences themselves. Therefore the matter must be examined thoroughly here. The matters stated in this Ṛk can be divided into four parts.
+1. (1) The immortal being of the same origin as the mortal. *[as supplied: “1.” is printed before (೧)]*
+(2) Joining the mortal body and taking other births in order to experience the fruits that accord with its actions.
+(3) Only the Self connected with the body becomes an object of experience, and
+(4) the Self that is beyond the body remains beyond experience.
+Having thus subtly stated the worldly and other-worldly states of the Self, the Ṛk suggests that the knowledge and experience of the Self that is beyond the body must be obtained through meditation and the like. As in the previous Ṛk, here too, Sāyaṇa's explanation says that the purpose is to teach that दुर्लभमात्मज्ञानं (*durlabhamātmajñānaṃ*)—knowledge of the Self is hard to obtain by ordinary efforts.
+What is the meaning of the immortal Self being of the same origin as the mortal body? If the question arises whether this is the individual Self or the Supreme Self, there is no contradiction even if it is interpreted here as the Supreme Self. Whatever we call in worldly dealings an individual body or an individual self, all of it is a manifestation of Īśvara; therefore it can be interpreted that here the immortal Supreme Self enters into connection with mortal bodies and the like. If the immortal Īśvara did not join with mortal bodies and the like, there would be no worldly dealing at all. But if it is asked whether Īśvara, engaged in the beginningless and endless worldly dealing, is also himself immersed in it, he is not. Īśvara is without beginning and end; worldly dealing has a beginning and has an end. The world, which is under the control of the beginningless and endless Īśvara and pervaded by him, is bounded at the beginning and at the end. This matter is understood from the explanation of the word satya.
+तदेतत्त्रक्षरं सत्यमिति । स इत्येकमक्षरं । तीत्येकमक्षरं । यमित्येकमक्षरं । प्रथमोत्तमे अक्षरे सत्यं । मध्यतोऽनृतं । तदेतदनृतमुभयतः सत्येन परिगृहीतं सत्यभूयमेव भवति (*tadetattrakṣaraṃ satyamiti | sa ityekamakṣaraṃ | tītyekamakṣaraṃ | yamityekamakṣaraṃ | prathamottame akṣare satyaṃ | madhyato 'nṛtaṃ | tadetadanṛtamubhayataḥ satyena parigṛhītaṃ satyabhūyameva bhavati*)
+(Bṛ. U. 5-5-1)
+
+### Printed p. 558
+*Running head: 558 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied; the Maṇḍala number is not printed).*
+In the word सत्यं (*satyaṃ*), which consists of the three syllables स, ति, यं (*sa, ti, yaṃ*), the two syllables स (*sa*) and यं (*yaṃ*) are of the nature of truth. (Real) The middle syllable ति (*ti*) is of the nature of untruth. (Unreal). Therefore the principle of the nature of untruth is covered on both sides by the principle of the nature of truth. Therefore that too shows the very nature of truth. For one who knows this aspect of truth there is no fear: thus the nature of Īśvara, whose nature is Being, is taught. The upshot is that this world, which has a beginning and an end, is covered by Īśvara, who has neither beginning nor end. But if it is asked whether this world, though it has a beginning and an end, is not independent and subject to Īśvara, then the fact that the world arises from the will of Īśvara alone and disappears from the will of Īśvara alone is supplied together with it; that is, the beginningless and endless Īśvara himself creates the world and himself also deals with the mortal world; this is the meaning. But one who lacks complete knowledge takes the Supreme Self that is joined with worldly dealing to be the Supreme Self in reality. That is wrong. What is the nature of the Supreme Self? How is the creation of the mortal world? What are the movements of the Self engaged in dealings in the world, which consists of names and forms and the like? All this must be understood subtly. First one must understand how the immortal Supreme Self has a connection with the mortal world.
+सोऽकामयत । बहु स्यां प्रजायेयेति । स तपोऽतप्यत । स तपस्तप्ता । इदग्ं सर्वमसृजत । यदिदं किंच । तत्सृष्ट्वा । तदेवानुप्राविशत् । शदनु प्रविश्य । सच्च त्यच्चाभवत् । निरुक्तं चानिरुक्तं च । निलयनं चानिलयनं च । विज्ञानं चाविज्ञानं च । सत्यं चानृतं च सत्यमभवत् (*so 'kāmayata | bahu syāṃ prajāyeyeti | sa tapo 'tapyata | sa tapastaptā | idagṃ sarvamasṛjata | yadidaṃ kiṃca | tatsṛṣṭvā | tadevānuprāviśat | śadanu praviśya | sacca tyaccābhavat | niruktaṃ cāniruktaṃ ca | nilayanaṃ cānilayanaṃ ca | vijñānaṃ cāvijñānaṃ ca | satyaṃ cānṛtaṃ ca satyamabhavat*)
+(Trai. U. 2-6) *[as supplied: the abbreviation printed is ತ್ರೈ. ಉ.]*
+Parabrahman desired to grow and increase into many forms. Then, by its power of austerity, it created all beings. Then it entered the very world created by itself *[as supplied: the word printed is ಸ್ಪಷ್ಟವಾದ]*. Thereby there arose the division into सत् (*sat*) and त्यत् (*tyat*), that is, the embodied and the unembodied; the division into निलयन (*nilayana*) and अनिलयन (*anilayana*), that is, the shelter in the form of a nest and that which takes shelter in it; and the division into the conscious and the unconscious.
+स यथोर्णनाभिस्तंतुनोच्चरेद्यथाग्नेः क्षुद्रा विस्फुलिंगा व्युच्चरंत्येवमेवास्मादात्मनः सर्वे प्राणाः सर्वे लोकाः सर्वे देवाः सर्वाणि भूतानि व्युच्चरंति तस्योपनिषत्सत्यस्य सत्यमिति प्राणा वै सत्यं तेषामेष सत्यं (*sa yathorṇanābhistaṃtunoccaredyathāgneḥ kṣudrā visphuliṃgā vyuccaraṃtyevamevāsmādātmanaḥ sarve prāṇāḥ sarve lokāḥ sarve devāḥ sarvāṇi bhūtāni vyuccaraṃti tasyopaniṣatsatyasya satyamiti prāṇā vai satyaṃ teṣāmeṣa satyaṃ*)
+(Bṛ. U. 2-1-20)
+As threads come forth naturally from the spinner of threads (the spider) and a web is formed, and as sparks come out of fire and become masses of brilliance, so too from this original Self *[the sentence continues in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 552. pp. 547-552: Special Topics of Rk 164.37, Upanishad citations on aham brahmasmi, nigya
+**Progress note:** Done through printed p. 558. pp. 553-558: Rk 37 end (Katha/Mundaka/Isha citations, grammar), Rk 38 text, bhashya, Special Topics begin
