@@ -12769,6 +12769,149 @@ The faith to be placed in the principle of sacrifice is not mere blind faith. Th
 
 अयं सॊमो वृष्णो अश्वस्य रेतः (*ayaṃ sòmo vṛṣṇo aśvasya retaḥ*) [as supplied: "so-mo" is printed with a short o]—that the semen of Āditya, who sprinkles rain and so on and pervades the world, is in the form of Soma, as [shown by the question] पृच्छामि त्वा वृष्णो अश्वस्य रेतः (*pṛcchāmi tvā vṛṣṇo aśvasya retaḥ*) *[the sentence breaks off here at the end of the printed page and the window; it continues in the next window]*
 
+### Printed p. 529
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 20] Ṛgveda-saṃhitā 529 (as supplied).*
+
+—this is said as the answer to the question quoted at the end of the previous window. Here one must first understand which quality of Āditya the synonym *aśva* points to, and then examine what is meant by saying that Soma is his *retas* (seed). In the Śatapatha-brāhmaṇa, explaining the derivation of the word *aśva*:
+
+प्रजापतेरक्ष्यश्वयत् तत्परापतत्ततोऽश्वः समभवद्यदश्वयत्तदश्वस्याश्वत्वं । (*prajāpaterakṣyaśvayat tatparāpatattato 'śvaḥ samabhavadyadaśvayattadaśvasyāśvatvaṃ |*)
+(Śa. Brā. 13-3-1-1)
+
+The eye (*akṣi*) of Prajāpati swelled and fell down. From it the horse (*aśva*) came into being. Because it had swelled, the name *aśva* became established for it. Having said this, the text goes on to explain how the identity between this horse and Āditya comes about.
+
+प्रजापतिर्वा इदमग्र आसीत् .... .... .... .... .... .... .... निरमिमीत मनसः पुरुषं चक्षुषोऽश्वं (*prajāpatirvā idamagra āsīt .... .... .... .... .... .... .... niramimīta manasaḥ puruṣaṃ cakṣuṣo 'śvaṃ*)
+(Śa. Brā. 7-5-2-6)
+
+[The ellipsis of dots inside the quotation is as printed.] Having said that this horse was created from the eye of Prajāpati, the text then states in many places the close connection that this horse has with Varuṇa.
+
+वारुणो वा अश्वः । तं देवतया व्यर्धयति । यत्प्राजापत्यं करोति । नमो राज्ञे नमो वरुणायेत्याह । वारुणो वा अश्वः । (*vāruṇo vā aśvaḥ | taṃ devatayā vyardhayati | yatprājāpatyaṃ karoti | namo rājñe namo varuṇāyetyāha | vāruṇo vā aśvaḥ |*)
+(Tai. Brā. 3-9-16-1)
+
+In stating this relation between Varuṇa and the horse, Sāyaṇa says अश्वस्याब्योनित्वाद्वरुणस्य चापां पतित्वादयमश्वो वारुणः । (*aśvasyābyonitvādvaruṇasya cāpāṃ patitvādayamaśvo vāruṇaḥ |*) that is, since the horse is born of the all-pervading water, and Varuṇa is the lord of water, the sacrificial horse belongs to the deity Varuṇa; thus he has given the explanation. Examining what the secret meaning of this Varuṇa-horse is, the scholar Eggelling [as supplied: spelt "Eggelling" here, "Eggeling" on p. 531] said as follows at the time of translating the Śatapatha-brāhmaṇa.
+
+Varuna's horse is none other than the fiery races who pursue his diurnal course across the all-encompassing arch of heaven, the sphere of Varuna, the all-ruler. It is in the form of the horse that the Sun is thus lauded in the hymn in praise of Aswamedha."
+(Sacred Books of the East. Vol. XLIV ; P. XIX-XX)
+*[as supplied: the closing quotation mark has no opening mark; the English is printed exactly so.]*
+
+This horse of Varuṇa, the lord of heaven and earth, is none other than the Sun going through his daily revolution. The relation that Varuṇa has together with this horse is described in the Taittirīya Saṃhitā as follows.
+
+*[as supplied: foot line of the page: "[34]" and "[ Vol. 12" (signature mark).]*
+
+### Printed p. 530
+*Running head: 530 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied).*
+
+प्रजापतिर्वरुणायाश्वमनय त्स स्वां देवतामार्भत्स परदीर्यत स एतं वारुणं चतुष्कपालमपश्यत्तं निरवपत्ततो वै स वरुणपाशादमुच्यत वरुणो वा एतं गृह्णाति योऽश्वं प्रतिगृह्णाति (*prajāpatirvaruṇāyāśvamanaya tsa svāṃ devatāmārbhatsa paradīryata sa etaṃ vāruṇaṃ catuṣkapālamapaśyattaṃ niravapattato vai sa varuṇapāśādamucyata varuṇo vā etaṃ gṛhṇāti yo 'śvaṃ pratigṛhṇāti*) .... .... .... ॥
+(Tai. Saṃ. 2-3-12-1)
+
+Prajāpati led this horse to Varuṇa, but the horse went to its own deity (to Prajāpati). Then, since Varuṇa was aggrieved, Prajāpati made an offering of a *catuṣkapāla* (cake on four potsherds) addressed to Varuṇa. Then Prajāpati was freed from Varuṇa's noose—thus it is explained. Some more mantras would help to understand this point in detail, but since the book would become too voluminous, they cannot be explained; only their sources are given. These indicate that the word *aśva* is a synonym of *sūra* (the Sun).
+
+Ṛ. Saṃ. 1-50-1; Tai. Saṃ. 2-2-12-1;
+ditto 1-115-1; ditto 2-5-12-1, etc.
+
+That Soma is of the form of seed (*retas*) for this all-pervading (*aśvasya*) Āditya—that is, that for the supreme Brahman who is in the form of Āditya, Soma itself is the seed—can be said. How? That Soma is the generative seed for the creation of all beings is said in the Bṛhadāraṇyaka Upaniṣad as follows.
+
+अथ यत्किंचेदमार्द्रं तद्रेतसोऽसृजत तदु सोम एतावद्वा इदं सर्वमन्नं चैवान्नादश्च सोम एवान्न मग्निरन्नादः (*atha yatkiṃcedamārdraṃ tadretaso 'sṛjata tadu soma etāvadvā idaṃ sarvamannaṃ caivānnādaśca soma evānna magnirannādaḥ*)
+(Bṛ. U. 1-4-6)
+
+The non-dual supreme Brahman created, from his own seed, everything moist in the universe. That seed is Soma. This Soma, offered in the fire, and the two become mutually food and eater. Explaining this very point, the Maitrī Upaniṣad says:
+
+रविमध्ये स्थितः सोमः सोममध्ये हुताशनः । (*ravimadhye sthitaḥ somaḥ somamadhye hutāśanaḥ |*)
+(Mai. U. 6-38)
+
+It is stated that Soma stands in the middle of the solar orb, and Agni in the middle of Soma. In general, the relation between Āditya and Soma is described in many places in the Ṛk-saṃhitā. For example—
+
+महत्तत्सोमो महिषश्च कारापां यद्गर्भोवृणीत देवान् । अवधादिंद्रे पवमान ओजोऽजनयत्सूर्ये ज्योतिरिंदुः ॥ (*mahattatsomo mahiṣaśca kārāpāṃ yadgarbhovṛṇīta devān | avadhādiṃdre pavamāna ojo 'janayatsūrye jyotiriṃduḥ ‖*)
+(Ṛ. Saṃ. 9-97-41)
+
+### Printed p. 531
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 20] Ṛgveda-saṃhitā 531 (as supplied).*
+
+Soma, the embryo of the waters that abide in Āditya, gratified the gods also. Being in the form of virility it created the universal light in Āditya—so it is said. And further:
+
+तं समुद्रो असि विश्ववित्कवे तवेमाः पंच प्रदिशो विधर्मणि । त्वं द्यां च पृथिवीं चाति जभ्रिषे तव ज्योतींषि पवमान सूर्यः ॥ (*taṃ samudro asi viśvavitkave tavemāḥ paṃca pradiśo vidharmaṇi | tvaṃ dyāṃ ca pṛthivīṃ cāti jabhriṣe tava jyotīṃṣi pavamāna sūryaḥ ‖*)
+(Ṛ. Saṃ. 9-86-29)
+
+Here it is stated that Soma himself is the ocean situated in the atmosphere, the support of all light, and that Āditya shines by the power of Soma. Explaining what principle Soma reflects here, the scholar Eggeling has stated as follows.
+
+The poet of IX. 86. 29; while saying " Thou art the heavenly ocean (Samudra),
+thine are the lights (ज्योत्स्नां (*jyotsnāṃ*)) O pavamana, thine the Sun," seems to conceive
+Soma as the bright ether, the azure ' sea of light ' generally.
+(Sacred Books of the East. Vol. XXVI. P. XV.)
+
+In the present Ṛk, Sāyaṇa explains this point thus: अग्नौ हुतः सोमरसः आदित्यं प्राप्य वृष्टा दिफलं जनयति । (*agnau hutaḥ somarasaḥ ādityaṃ prāpya vṛṣṭā diphalaṃ janayati |*) that is, the Soma offered in the fire reaches Āditya and brings about the effect such as rain; therefore it is described as the seed of Āditya. Here the meaning should be made out not only from the *adhidaivata* standpoint but also from the *adhyātma* standpoint. In the *adhyātma* standpoint, the Upaniṣadic sentences cited above state the world-generating power of Soma, who is in the form of seed, and the relation of Soma to Āditya.
+
+ब्रह्मायं वाचः परमं व्योम (*brahmāyaṃ vācaḥ paramaṃ vyoma*)—मंत्रादिरूपायाः वाचः प्रजापतिरेव उत्कृष्टं रक्षकं स्थानं । तत्रैव उत्पत्तेस्तत्रैव पर्यवसानाच्च । (*maṃtrādirūpāyāḥ vācaḥ prajāpatireva utkṛṣṭaṃ rakṣakaṃ sthānaṃ | tatraiva utpattestatraiva paryavasānācca |*) Since Prajāpati is both the place of origin and the place of final resolution of speech, which has the form of mantras and so on, he himself is *vyoman*, it is stated. Here Sāyaṇa has explained the word *vyoman* as उत्कृष्टं रक्षकं स्थानं (*utkṛṣṭaṃ rakṣakaṃ sthānaṃ*), that is, a supreme and protecting place of support. [as supplied: the Upaniṣadic words are printed ब्रह्मायं (*brahmāyaṃ*) here and ब्रह्मयं (*brahmayaṃ*) on p. 533.]
+
+The word *vyoman* is read in the Nirukta among the names of the atmosphere (Ni. 2-10). It is formed from the root व्येञ् (*vyeñ*), which means "to pervade, to cover"; the meaning is the all-pervading atmosphere. Besides this, the word *vyoman* may also be formed when the prefix vi joins the root अव (*ava*) (to protect); it then means a place provided with manifold protections. In this very sense:
+
+ऋतेन ऋतं धरुणं धारयंत यज्ञस्य शाके परमे व्योमन् । दिवो धर्मन् धरुणो सेदुषो नृञ्चातैरजाता अभि ये ननक्षुः ॥ (*ṛtena ṛtaṃ dharuṇaṃ dhārayaṃta yajñasya śāke parame vyoman | divo dharman dharuṇo seduṣo nṛñcātairajātā abhi ye nanakṣuḥ ‖*)
+(Ṛ. Saṃ. 5-15-2)
+
+### Printed p. 532
+*Running head: 532 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied; "ಆ." is printed for the Anuvāka abbreviation).*
+
+—here too this word is used as an epithet of the *uttara-vedi* (northern altar).
+
+व्योमसदित्येष वै व्योमसद्व्योम वा एतत्सद्मानां यस्मिन्नेष आसन्नस्तपति॥ (*vyomasadityeṣa vai vyomasadvyoma vā etatsadmānāṃ yasminneṣa āsannastapati‖*)
+(Ai. Brā. 4-20)
+
+In this sentence of the Aitareya-brāhmaṇa also the word is used in the sense of a place of protection or a place of support.
+
+How Prajāpati is the support or protecting place for speech: because he is the cause of its origin and also its final resolution—thus Sāyaṇa has given the meaning in the *adhyātma* sense. By declaring the identity of the supreme Brahman and speech, it is taught in the Bṛhadāraṇyaka Upaniṣad as follows that all the dealings of the world proceed on the basis of speech, that the supreme Brahman is the support of this speech, and that speech makes his principle manifest outwardly.
+
+जनको ह वैदेह आसांचक्रेऽथ ह याज्ञवल्क्य आवप्राज तं होवाच याज्ञवल्क्य किमर्थमचारीः पशूनिच्छन्नण्वंतानीति । उभयमेव सम्राडिति होवाच । (*janako ha vaideha āsāṃcakre 'tha ha yājñavalkya āvaprāja taṃ hovāca yājñavalkya kimarthamacārīḥ paśūnicchannaṇvaṃtānīti | ubhayameva samrāḍiti hovāca |*)
+(Bṛ. U. 4-1)
+
+While Janaka Vaideha was seated in his court, a sage named Yājñavalkya came to him. Then Janaka addressed him: "What is the purpose (उद्दिश्रवेनु (*uddiśravenu*)) for which you have come? Have you come to obtain cattle, or to conduct a discussion on principles?" [as supplied: the word is printed so.] Yājñavalkya said: "O lord, I have come intending both."
+
+यत्ते कश्चिदब्रवीत्तच्छृणवामेत्यब्रवीन्मे जित्वा शैलिनिवार्गै ब्रह्मेति यथा मातृमान् पितृमानाचारवान् ब्रूयात्तथा तच्छैलिनिरब्रवीद्वाग्वै ब्रह्मेत्यवदतो हि किं स्यादित्यब्रवीत्तु ते तस्यायतनं प्रतिष्ठां न मेऽब्रवीदित्येकपाद्वा एतत्सम्राडिति स वै नो ब्रूहि याज्ञवल्क्य । (*yatte kaścidabravīttacchṛṇavāmetyabravīnme jitvā śailinivārgai brahmeti yathā mātṛmān pitṛmānācāravān brūyāttathā tacchailinirabravīdvāgvai brahmetyavadato hi kiṃ syādityabravīttu te tasyāyatanaṃ pratiṣṭhāṃ na me 'bravīdityekapādvā etatsamrāḍiti sa vai no brūhi yājñavalkya |*)
+(Bṛ. U. 4-1)
+
+Yājñavalkya asked Janaka: "Explain what you know on this principle, or what you have learned from others." In answer Janaka said: "Śailini said that speech is Brahman." Yājñavalkya accepted that, and it was as if only one part of the truth had been stated in it. He then asked whether [Śailini] had told what the *āyatana* and what the *pratiṣṭhā* (place of support) of that Brahman in the form of speech is; Janaka said that he had not told it. Then Yājñavalkya said that this Brahman has only one foot. Then Janaka asked him to explain how that is, and Yājñavalkya explained as follows.
+
+### Printed p. 533
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 20] Ṛgveda-saṃhitā 533 (as supplied).*
+
+नागेवायतनमाकाशः प्रतिष्ठा प्रज्ञेत्येतदुपासीत । (*nāgevāyatanamākāśaḥ pratiṣṭhā prajñetyetadupāsīta |*) *[as supplied: नागेवायतन (*nāgevāyatana*) is printed here, although the Kannada gloss that follows says "the tongue is the āyatana".]*
+
+For this Brahman in the form of speech the tongue is the *āyatana*, space (*ākāśa*) is the place of support. Knowing this as *prajñā*, one should practise worship—when this was said,
+
+का प्रज्ञता याज्ञवल्क्य (*kā prajñatā yājñavalkya*) he asked, "What is the nature of that *prajñā*?" Then Yājñavalkya [said]:
+
+वागेव सम्राडिति होवाच । वाचा वै सम्राड्‌बंधुः प्रज्ञायत ऋग्वेदो यजुर्वेदः सामवेदोऽथर्वांगिरस इतिहासः पुराणं विद्या उपनिषदः श्लोकाः सूत्राण्यनुव्याख्यानानि व्याख्यानानीष्टं हुतमाशितं पायितमयं च लोकः परश्च लोकः सर्वाणि च भूतानि वाचैव सम्राट् प्रज्ञायंते वागै सम्राट् परमं ब्रह्म नैनं वाग्दहाति सर्वाण्येनं भूतान्यभिरक्षंति देवो भूत्वा देवानप्येति य एवं विद्वानेतदुपास्ते ॥ (*vāgeva samrāḍiti hovāca | vācā vai samrāḍbaṃdhuḥ prajñāyata ṛgvedo yajurvedaḥ sāmavedo 'tharvāṃgirasa itihāsaḥ purāṇaṃ vidyā upaniṣadaḥ ślokāḥ sūtrāṇyanuvyākhyānāni vyākhyānānīṣṭaṃ hutamāśitaṃ pāyitamayaṃ ca lokaḥ paraśca lokaḥ sarvāṇi ca bhūtāni vācaiva samrāṭ prajñāyaṃte vāgai samrāṭ paramaṃ brahma nainaṃ vāgdahāti sarvāṇyenaṃ bhūtānyabhirakṣaṃti devo bhūtvā devānapyeti ya evaṃ vidvānetadupāste ‖*)
+(Bṛ. U. 4-1)
+
+It is speech that is this knowledge. The kinsman, the Ṛgveda, the Yajurveda, the Sāmaveda, the Atharvaveda, the Itihāsa and Purāṇa and the like, their commentaries and sub-commentaries, the sacrificial oblations, the principle of this world and likewise of the other world—everything is known only with the help of this speech; through speech alone Brahman too is known. Speech is the supreme Brahman. Speech does not forsake those who, with this philosophical knowledge, worship the Brahman who is in the form of speech. He too attains divinity. Thus he has explained the point made in the sentence ब्रह्मयं वाचः परमं व्योम (*brahmayaṃ vācaḥ paramaṃ vyoma*); he has declared the identity of speech and the supreme Brahman. This very thing, in the Śatapatha-brāhmaṇa also:
+
+वाचस्पतिर्वाचं नः स्वदतु स्वाहेति प्रजापतिवै वाचस्पतिः । (*vācaspatirvācaṃ naḥ svadatu svāheti prajāpativai vācaspatiḥ |*)
+(Śa. Brā. 5-1-1-16)
+
+—is stated by sentences of this kind. And in the account that, in describing the order of creation, the supreme Brahman manifested himself in the form of speech, one can understand the relation of support and supported between Brahman and speech. How? Thus:—
+
+प्रजापतिः प्रजा असृजत । ताः सृष्टाः समश्लिष्यन् । ता रूपेणानुप्राविशत् । तस्मादाहुः । रूपं वै प्रजापतिरिति । ता नाम्नानुप्राविशत् । तस्मादाहुः । नाम वै प्रजापतिरिति । (*prajāpatiḥ prajā asṛjata | tāḥ sṛṣṭāḥ samaśliṣyan | tā rūpeṇānuprāviśat | tasmādāhuḥ | rūpaṃ vai prajāpatiriti | tā nāmnānuprāviśat | tasmādāhuḥ | nāma vai prajāpatiriti |*)
+(Tai. Brā, 2-2-7-1) *[as supplied: a comma stands after "Brā" in the printed reference.]*
+
+After Prajāpati had created the creatures, they all, without showing individuality from one another, became संక్లిष्ट (*saṃక్లిṣṭa*) *[as supplied: this word is printed partly in Telugu letters]*, that is, confused with one another. Then, to show their distinguishing properties, he created both name and form
+
+### Printed p. 534
+*Running head: 534 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied).*
+
+—and, saying that form became the aid of mental division and name the aid of the division in the form of speech, the Śatapatha-brāhmaṇa states as follows.
+
+मर्त्या ह वा देवा आसुः । स यदैव ते ब्रह्मणापुरथामृता आसुः स यं मनस आघारयति मनो वै रूपं मनसा हि वेदेदग्‌रूपमिति तेन रूपमाप्नोत्यथ यं वाच आघारयति वाग्वै नाम वाचा हि नाम गृह्णाति तेन नामाप्नोत्येतावद्वा इदग्ं सर्वं यावद्रूपं चैव नाम च तत्सर्वमाप्नोति ॥ (*martyā ha vā devā āsuḥ | sa yadaiva te brahmaṇāpurathāmṛtā āsuḥ sa yaṃ manasa āghārayati mano vai rūpaṃ manasā hi vededagrūpamiti tena rūpamāpnotyatha yaṃ vāca āghārayati vāgvai nāma vācā hi nāma gṛhṇāti tena nāmāpnotyetāvadvā idagṃ sarvaṃ yāvadrūpaṃ caiva nāma ca tatsarvamāpnoti ‖*)
+(Pra. Prā. 1-2-3-4) *[as supplied: abbreviation "ಪ್ರ. ಪ್ರಾ." kept as printed.]*
+
+In the beginning the gods were mortal. Only after they had realised Brahman did they obtain immortality. This Brahman has two forms, name and form. Form is a principle belonging to the mind; therefore, through the mental *āghāra* (oblation) one comes to know the Brahman-principle having the nature of form. Through the *āghāra* in the form of speech one comes to know the Brahman having the nature of speech. By knowing this Brahman-principle, which is both mind-formed and speech-formed, man too attains the Brahman-principle, that is, immortality—thus the relation of speech and Brahman has been stated. [as supplied: तत्त्ववुआदुदरिंद (*tattvavuādudariṃda*) is printed run together.]
+
+*[as supplied: stray label व्याकरणक्रिया (*vyākaraṇakriyā*) printed before the heading of the grammar section.]*
+
+*Grammar (transcribed, not explained):*
+व्याकरणप्रक्रिया (*vyākaraṇaprakriyā*)
+वेदिः (*vediḥ*)—root विद ज्ञाने (*vida jñāne*); suffix in by हृपिषिरुहि (*hṛpiṣiruhi*) (U. Sū. 4-258); guṇa of the light penultimate by पुगंतलघूपधस्यच (*pugaṃtalaghūpadhasyaca*) (Pā. Sū. 7-3-86); since the suffix is *nit*, the initial acute accent comes by इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169).
+नाभिः (*nābhiḥ*)—root णह बंधने (*ṇaha baṃdhane*); suffix iñ by नहोभश्च (*nahobhaśca*) (U. Sū. 4-565); *bha* substituted for the *ha* of the root; vṛddhi of the penultimate *a* by आत उपधायाः (*āta upadhāyāḥ*) (Pā. Sū. 7-2-119); since the suffix is *it*, the initial acute accent comes as before.
+रेतः (*retaḥ*)—root रीज् श्लेषणे (*rīj śleṣaṇe*); suffix asun by स्नुरीभ्यांतुट् च (*snurībhyāṃtuṭ ca*) (U. Sū. 4-641), with the augment *tuṭ*; guṇa of the root's *i* because of the suffix; the initial acute accent comes since the suffix is (as printed) नित्या (*nityā*)-.
+व्योम (*vyoma*)—formed, ending in *manin*, as an irregular form (*nipātita*) by नामन् सीमन् व्योमन् (*nāman sīman vyoman*) (U. Sū. 4-590); the initial acute accent comes as before. ‖ 35 ‖ (as printed)
+
 ---
 
-**Progress note:** Done through printed p. 528. Ṛk 35 Special Topics: sacrifice as the navel of the world (pp. 523-528)
+**Progress note:** Done through printed p. 534. Special Topics on aśva/Varuṇa, Soma as retas, vyoman, vāc and Brahman; grammar for Ṛk 35
