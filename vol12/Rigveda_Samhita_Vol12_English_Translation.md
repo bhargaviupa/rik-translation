@@ -9911,6 +9911,149 @@ and shown that rays that have many horns and are tireless (आयास (*āyās
 
 The relation between such a ray of the Sun, or the sacrificial offering that becomes identical with a ray of the Sun, and the sacrificer, the performer of the sacrifice, is told here. The ray of the Sun is compared to the cow, and the sacrificer to the calf. On the whole, the relation between the Sun and the sacrificer is also told.
 
+### Printed p. 399
+*Running head: [ಆ. ೨. ಆ. ೩. ಪ. ೧೭] ಋಗ್ವೇದಸಂಹಿತಾ 399 (as supplied; "ಆ.", "ಪ." as printed).*
+
+[Continuing the Special Topics of Ṛk 17.]
+
+Here, if the word "go" is explained as referring to the sacrificial offering, then by the descriptions beginning with क्व स्मित् सूते (*kva smit sūte*) *[as supplied: so printed, "ಸ್ಮಿತ್"]* the wealth of food and the like that may accrue to the sacrificer become the aims. Or, if explained as referring to the Sun's rays, then the excellent station of the heavenly world that accrues to the sacrificer becomes the aim. It may be said that both these meanings are specified in the following sentence quoted from the Śatapatha-brāhmaṇa.
+
+स उदीक्षते । स्वयंभूरसि श्रेष्ठो रश्मिरित्येष वै श्रेष्ठो रश्मिर्यत्सूर्यस्तस्मादाह स्वयंभूरसि श्रेष्ठो रश्मिरिति वर्चोदा असि वर्चो मे देहीति त्वेवाहं ब्रवीमीति ह स्माह याज्ञवल्क्यस्तद्भैव ब्राह्मणेनेष्टव्यं यद्ब्रह्मवर्चसी स्यादित्युतो ह स्माहौपोदितेय एष नाव मह्यं गा दास्यति गोदा गा मे देहीत्येवं यं कामं कामयते सोऽस्मै कामः समृध्यते (*sa udīkṣate | svayaṃbhūrasi śreṣṭho raśmirityeṣa vai śreṣṭho raśmiryatsūryastasmādāha svayaṃbhūrasi śreṣṭho raśmiriti varcodā asi varco me dehīti tvevāhaṃ bravīmīti ha smāha yājñavalkyastadbhaiva brāhmaṇeneṣṭavyaṃ yadbrahmavarcasī syādityuto ha smāhaupoditeya eṣa nāva mahyaṃ gā dāsyati godā gā me dehītyevaṃ yaṃ kāmaṃ kāmayate so 'smai kāmaḥ samṛdhyate*)
+(श. बा. १-९-३-१६ (*śa. bā. 1-9-3-16*)) *[as supplied: the abbreviation श. बा. (*śa. bā.*) as printed.]*
+
+The Āditya is the most excellent ray, self-existent, the giver of lustre. Therefore he is prayed to, "Give me too lustre." Here there are two kinds of prayer. Yājñavalkya prayed, वर्चोदा असि वर्चोमे देहि (*varcodā asi varcome dehi*), "You are possessed of lustre; give me too lustre." Aupoditeya prayed, एष वाव मह्यं गा दास्यति गोदा गामे देहीत्येवं (*eṣa vāva mahyaṃ gā dāsyati godā gāme dehītyevaṃ*): "This Āditya is a giver of cows; therefore, O Āditya, give me a cow." Therefore, to say that whatever prayer anyone makes, Āditya fulfils that prayer, it is said यं यं कामं कामयते सोऽस्मै कामः समृध्यते (*yaṃ yaṃ kāmaṃ kāmayate so 'smai kāmaḥ samṛdhyate*). It appears that the sentence explaining the second meaning stated here is quoted in the Śatapatha from the Taittirīya Saṃhitā.
+
+सग्गश्रवा ह सौवर्चनसस्तुमिंजमौपोदितिमुवाच यत्सत्रिणाग्ं होता भूः कामिडामुपाह्वथा इति तामुपाश्व इति होवाच या प्राणेन देवान्साधार व्यानेन मनुष्यानपानेन पितृनिति छिनत्ति सा न छिनत्ती३ इति छिनत्तीति होवाच शरीरं वा अस्यै तदुपाह्वथा इति होवाच गौर्वै (*saggaśravā ha sauvarcanasastumiṃjamaupoditimuvāca yatsatriṇāgṃ hotā bhūḥ kāmiḍāmupāhvathā iti tāmupāśva iti hovāca yā prāṇena devānsādhāra vyānena manuṣyānapānena pitṛniti chinatti sā na chinattī3 iti chinattīti hovāca śarīraṃ vā asyai tadupāhvathā iti hovāca gaurvai*)
+(तै. सं. १-७-२-१ (*tai. saṃ. 1-7-2-1*)) *[as supplied: the abbreviation तै. सं. (*tai. saṃ.*) as printed.]*
+
+In this Saṃhitā sentence there is a conversation between Saṃśravas and Aupoditi. *[as supplied: the Sanskrit text has सग्गश्रवा (*saggaśravā*), the Kannada "ಸಂಶ್ರವಸ್ಸು"; both kept.]* The Śatapatha says that in it Aupoditi reveals only the earthly wish, as explained above. What is wanted in the present context is that from the cow of the form of the Sun's rays one may obtain worldly wealth also; or
+
+### Printed p. 400
+*Running head: 400 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+as Yājñavalkya desired, one may obtain spiritual wealth also; this is clear. Explaining this very point in the Muṇḍaka Upaniṣad:
+
+एतेषु यश्चरते भ्राजमानेषु यथाकालं चाहुतयो ह्याददायन् । तं नयंत्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः (*eteṣu yaścarate bhrājamāneṣu yathākālaṃ cāhutayo hyādadāyan | taṃ nayaṃtyetāḥ sūryasya raśmayo yatra devānāṃ patireko 'dhivāsaḥ*)
+(पु. उ. १-२-५ (*pu. u. 1-2-5*)) *[as supplied: the abbreviation as printed.]*
+
+While these rays are shining, if the offerings suited to each time are made, these rays of the Sun carry that sacrificer to the region where the Supreme Person, the lord of all the gods, dwells. Not only that,
+
+एह्येहीति तमाहुतयः सुवर्चसः सूरस्य रश्मिभिर्यजमानं वहंति । प्रियां वाचमभिवदंत्योर्चयंत्य एष वः पुण्यः सुकृतो ब्रह्मलोकः (*ehyehīti tamāhutayaḥ suvarcasaḥ sūrasya raśmibhiryajamānaṃ vahaṃti | priyāṃ vācamabhivadaṃtyorcayaṃtya eṣa vaḥ puṇyaḥ sukṛto brahmalokaḥ*)
+(मुं. उं. १-२-६ (*muṃ. uṃ. 1-2-6*)) *[as supplied: the abbreviation as printed.]*
+
+These excellent offerings, calling the sacrificer lovingly "Come, come", and carrying him with the rays of the Sun to the world of Brahmā, speaking pleasant words, "This is the world of Brahmā, won by your good deeds", and praising him, take him away. Thus the help that the Sun's ray does to the best sacrificer is described. Sāyaṇa, having quoted this sentence of the Muṇḍaka Upaniṣad, has shown that the same idea is stated in the Ṛk now in hand.
+
+वत्सं बिभ्रती—वत्सस्थानीयमग्निं धारयंती (*vatsaṃ bibhratī—vatsasthānīyamagniṃ dhārayaṃtī*): holding Agni, who stands in the place of the calf; that is, "holding the Agni who is in the form of the calf".
+
+अज्ज गोजा इत्यब्बाश्च ह्येष गोजाश्च (*ajja gojā ityabbāśca hyeṣa gojāśca*)
+(श. ब्रा. ६-७-३-११ (*śa. brā. 6-7-3-11*)) *[as supplied: so printed.]*
+
+Describing thus, it is told that Agni is "go-jā", that is, born of the cow. Here it is described that the mother cow, holding Agni, who is the calf, climbs upward. The epithet and the vocative "calf" has been used in many places, showing the natural quality of Agni.
+
+गर्भो यो अपां गर्भो ननानां गर्भश्च स्थातां गर्भश्वरथां (*garbho yo apāṃ garbho nanānāṃ garbhaśca sthātāṃ garbhaśvarathāṃ*)
+(Ṛ. Saṃ. 1-20-2)
+
+### Printed p. 401
+*Running head: [ಅ. ೨. ಆ. ೩. ವ. ೧೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 401 (as supplied).*
+
+क इमं वो निण्यमा चिकेत वत्सो मात्यर्जनयत स्वधाभिः । बह्वीनां गर्भो अपसामुपस्थान्महान्यविनिर्निश्चरति स्वधावान् (*ka imaṃ vo niṇyamā ciketa vatso mātyarjanayata svadhābhiḥ | bahvīnāṃ garbho apasāmupasthānmahānyavinirniścarati svadhāvān*)
+(Ṛ. Saṃ. 1-95-4)
+
+In such descriptions it is told that Agni in the form of lightning, being as it were an embryo in the waters, which are forms of the Sun's rays, changes into the Sun through the form of the herbs and साग्नि (*sāgni*) *[as supplied: "ಔಷಧಸಾಗ್ನಿರೂಪದಿಂದ" as printed]* and comes out from the atmosphere; and that this same Agni, in the form of the calf, is possessed of svadhā.
+
+अस्मे वत्सं परि षंतं न विंदन्निच्छंतो विश्वे अमृता अमूराः (*asme vatsaṃ pari ṣaṃtaṃ na viṃdannicchaṃto viśve amṛtā amūrāḥ*)
+(Ṛ. Saṃ. 1-72-2)
+
+In Ṛks of this kind also the relation of Agni, in the form of the calf, to the gods, men and all the others is told. The purport is that the mother cow held such an Agni, in the form of the calf. Thus the meaning that refers to Agni is one kind. Secondly,
+
+गौः उक्तलक्षणा रश्मिरूपा गौः वत्सं वत्सवद्रक्षणीयं यजमानं उक्तक्रमेण बिभ्रती उदस्थात् (*gauḥ uktalakṣaṇā raśmirūpā gauḥ vatsaṃ vatsavadrakṣaṇīyaṃ yajamānaṃ uktakrameṇa bibhratī udasthāt*)
+
+He has said that it may be explained thus: the cow of the form of the ray, taking up the sacrificer who is as it were her calf, flying and becoming invisible, went to the Sun. The explanation of this idea in the sentence beginning कं नयंत्येताः (*kaṃ nayaṃtyetāḥ*) ".... .... .... " *[as supplied: the dots are in the print; कं (*kaṃ*) as printed]* and so on has been given above.
+
+*Vyākaraṇa-prakriyā (grammatical procedure)*
+
+Grammar (transcribed, not explained):
+
+अवः (*avaḥ*) — the word अवर (*avara*); when the suffix astāti comes after it, by पूर्वाधरावराणाम (*pūrvādharāvarāṇāma*) (Pā. Sū. 5-3-39) the substitute av; the substitute ās for the suffix; by the suffix accent it becomes final-acute.
+
+एना (*enā*) — when the instrumental ending follows, by सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) the lengthening by the preceding similar letter comes.
+
+पदा (*padā*) — by ऊडिदं पदादि (*ūḍidaṃ padādi*) (Pā. Sū. 6-1-171) the acute accent comes to the instrumental ending.
+
+अस्मात् (*asmāt*) — the root ष्या गतिनिवृत्तौ (*ṣyā gatinivṛttau*) *[as supplied: "ಷ್ಯಾ" as printed]*; luṅ in the Vedic manner; a form ending as third person singular. Because it stands after an atiṅanta, the nighāta accent comes.
+
+अगात् (*agāt*) — the root इण् गतौ (*iṇ gatau*); as before luṅ, a form ending as third person singular. By इणोगालुजि (*iṇogāluji*) (Pā. Sū. 2-4-45) the substitute gā for the root. The tiṅanta nighāta accent comes.
+
+*[Stray lines as supplied, at the foot of the page: "[26] [Vol. 12" printed twice, with a gap in the second.]*
+*[26] [Vol. 12*
+
+*[26] [ Vol. 12*
+
+### Printed p. 402
+*Running head: 402 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+Grammar (continued, transcribed, not explained):
+
+सूते (*sūte*) — the root षूज् प्राणिगर्भविमोचने (*ṣūj prāṇigarbhavimocane*). By धात्वादेः षःसः (*dhātvādeḥ ṣaḥsaḥ*) (Pā. Sū. 6-1-64) the substitution of s for the initial *[as supplied: the print has "ಅದಾದಿ" before the sūtra]*. A form ending as third person singular of laṭ. The tiṅanta nighāta accent comes.
+
+यूथे (*yūthe*) — the root यु मिश्रणामिश्रणयोः (*yu miśraṇāmiśraṇayoḥ*). By तिथपृष्ठगूथयूथप्रोथाः (*tithapṛṣṭhagūthayūthaprothāḥ*) (U. Sū. 2-166) it is irregularly formed ending in the suffix thak. By the suffix accent it becomes final-acute. A form ending in the locative singular. || 17 ||
+
+#### Ṛk 18
+*[Label as supplied: garbled "ಸಮಿತಾ", read by hand as Saṃhitā-pāṭha.]*
+**॥ संहितापाठः ॥**
+> अ॒वः परे॑ण पि॒तरं॒ यो अ॑स्यानु॒वेद॑ प॒र ए॒नाव॑रेण ।
+> क॒वी॒यमा॑नः॒ क इ॒ह प्र वो॑चद्दे॒वं मनः॒ कुतो॒ अधि॒॑
+> प्रजातं ॥ १८ ॥
+*[Label as supplied: garbled "ಹಡಗು", read by hand as Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> अवः । परेण । पितरं । यः । अस्य । अन्वेव । परः । एना । अवरेण ।
+> कवीऽयमानः । कः । इह ! प्र । वोचत् । देवं । मनः । कुतः । अधि । प्रजातं ॥१८॥
+*[Label as supplied: garbled "ಸಯಾಭ್ಯಾಂ", read by hand as Sāyaṇa-bhāṣya; the sentence lines were not marked as a block by the script and were wrapped by hand.]*
+**॥ सायणभाष्यम् ॥**
+> अवोऽवस्तात्स्थितमस्य पितरमेतल्लोकपालकमग्निं परेणादित्येन सह योऽनुवेद अनुक्रमेण जानाति तथा परः परस्तात्स्थितमादित्यमस्य पितरं पालकं । सोऽपीममेव लोकं वृष्टादिना पालयति । तादृशमादित्यमेनानेनावरेणाग्नि ना सह
+> योऽनुवेद अग्न्यादित्यौ व्यतिहारेणोपास्त्रे । यद्वा । अभिभूतरजस्तमस्कावुद्बुद्धसत्त्वौ अत एव स्वाधीन मायावेतावेकत्वेन वाधिगच्छति । स तादृशः पुरुषः कवीयमानः कविवदाचरन् क्रांतदर्शित्वमात्मनः ख्यापयन् क इहास्मिल्लिको प्र वोचत् ।
+> प्रब्रवीति । किंच देवं द्योतमानं देवविषयमलौकिकं वा मनः कुतः कस्माददृष्टविशेषादध्याधिक्येन प्रजातं । उत्पन्नं । उभयमपि दुर्लभमित्यर्थः ॥
+*Gist:* He who knows Agni below with the Sun above, and the Sun with Agni, is a seer; yet who can expound this, and whence did the divine mind arise?
+
+**प्रतिपदार्थ (Pratipadārtha)**
+अवः (*avaḥ*)—the one who is in the lower part; अस्य पितरं (*asya pitaraṃ*)—Agni, the protector of this earth; परेण (*pareṇa*)—as joined with the Āditya who is in the upper part; (and) परः (*paraḥ*)—in the upper part (the sentence is cut by the page end and continues on the next page)
+
+### Printed p. 403
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 403 (as supplied).*
+
+… the Āditya; अवरेण एन (*avareṇa ena*)—as mixed with this Agni who is in the lower part; यः (*yaḥ*)—who; अनुवेद (*anuveda*)—knows, (such a one); कवीयमानः (*kavīyamānaḥ*)—a seer; कः (*kaḥ*)—who indeed; इह (*iha*)—on this earth; प्र वोचत् (*pra vocat*)—will tell in a special manner? देवं (*devaṃ*)—having supernatural intelligence; मनः (*manaḥ*)—mind; कुतः (*kutaḥ*)—by what special destiny; अधि (*adhi*)—exceedingly; प्रजातं (*prajātaṃ*)—has it been produced?
+
+**भावार्थ (Bhāvārtha)**
+Who, being like a seer, can on this earth explain clearly the relation of the Āditya and the others for one who knows Agni, who is in the lower part and is the protector of this earth, as joined with the Āditya who is in the upper part, and also the Āditya who is in the upper part as mixed with this Agni who is below? By what special destiny, and in an exceedingly wonderful manner, has the mind, having intelligence that is supernatural and concerned with the gods, been produced?
+
+**Printed English**
+He who knows the protector of this (world) as the the [sic] inferior associ-ated with the superior, and the superior associated with the inferior, he is, as it were, a sage; but who in this world can expound (it)? whence is the divine mind in its supremacy engendered ?
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The relation between Agni and the Āditya is explained in this Ṛk. This relation can be shown in two ways. Firstly, in the order of the protection of the world, which consists of an exchange between Āditya and Agni, the two are two parts of one principle; secondly, even though both appear in different forms by outward manifestation, it is understood that there is unity of the two. Their positions are told by the words अव (*ava*) and पर (*para*). Here अव (*ava*) may be taken to mean the lower part, and पर (*para*) the atmosphere in the upper part. To take the meaning "superiority and inferiority" is not quite proper. The scholar Wilson, with
+
+He who knows the protector of this world as the inferior associated with the Superior, and the superior associated with the inferior .... .... .... .... ".
+
+has explained the word अव (*ava*) as inferior and the word पर (*para*) as superior. Since Āditya and Agni are two parts of one principle, to say this meaning may be improper. In the Nirukta, while describing the greatness of Agni, no support for this meaning is found.
+
+### Printed p. 404
+*Running head: 404 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+मूर्धा भुवो भवति नक्तमग्निस्ततः सूरो जायते प्रातरुद्यन् । मायामू तु यज्ञियानामेतामपो यत्तूर्णिश्चरति प्रजानन् (*mūrdhā bhuvo bhavati naktamagnistataḥ sūro jāyate prātarudyan | māyāmū tu yajñiyānāmetāmapo yattūrṇiścarati prajānan*)
+(Ṛ. Saṃ. 10-88-6)
+
+This Vaiśvānara Agni, by his supernatural power the chief of all beings, shining at night in the form of Agni and in the morning in the form of the Sun, carries out his task of protecting the world. Explaining this same point, again in the Nirukta:
+
+स्तोमेन हि दिवि देवासो अग्निमजीजनञ्क्तिभी रोदसिप्रां । तमू अकृण्वन्त्रेधा भुवे कं स ओषधीः पचति विश्वरूपाः (*stomena hi divi devāso agnimajījanañktibhī rodasiprāṃ | tamū akṛṇvantredhā bhuve kaṃ sa oṣadhīḥ pacati viśvarūpāḥ*)
+(Ṛ. Saṃ. 10-28-10)
+
+".... .... .... द्यावापृथिव्यो: पूरणं तमकुर्वंस्त्रेधाभावाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः (*dyāvāpṛthivyo: pūraṇaṃ tamakurvaṃstredhābhāvāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ*)" *[as supplied: the dots are in the print]* The gods caused Agni to blaze, pervading the earth, the atmosphere and the heaven, in order to carry out his duties of protection. By his changes of form he pervades the three worlds. Thus the author of the Nirukta has explained, by quoting Śruti sentences, the idea that the universal principle which shines in forms like the Āditya is one and not different. (Ni. 7-27) The same idea is stated in the Ṛk in hand also. But this kind of unity of Āditya and Agni is not a matter visible to the physical eye. To know it, the quality of being a seer is quite indispensable. Therefore the question is asked, कवीयमानः क इह प्र वोचत् (*kavīyamānaḥ ka iha pra vocat*). This seer knows the two kinds of relation of Āditya and Agni. Firstly, as said above, they are doers of different tasks by exchange in day and night. Sāyaṇa has told this as अग्न्यादित्यौ व्यतिहारेण उपास्ते (*agnyādityau vyatihāreṇa upāste*). Secondly, "or": अभिभूतरजस्तमस्कौ उद्बुद्धसत्त्वा आत एव स्वाधीनमायौ एत् एकत्वेन वा अधिगच्छति (*abhibhūtarajastamaskau udbuddhasattvā āta eva svādhīnamāyau et ekatvena vā adhigacchati*) *[as supplied: the stray word एत् (*et*) at the end of the printed line is kept in the copied passage]*. Overcoming the quality of rajas and the quality of tamas, and manifesting the pure quality of sattva, Āditya and Agni exercise their lordship. It is said that the seer understands that they are different only by their activities, but the original principle of both is one. Explaining the same in the Bṛhadāraṇyaka,
+
+स त्रेधात्मानं व्यकुरुतादित्यं तृतीयं वायुं तृतीयं स एष प्राणस्त्रेधा विहितः (*sa tredhātmānaṃ vyakurutādityaṃ tṛtīyaṃ vāyuṃ tṛtīyaṃ sa eṣa prāṇastredhā vihitaḥ*)
+(बृ. ५. १-२-३ (*bṛ. 5. 1-2-3*)) *[as supplied: the abbreviation and the "೫." as printed.]*
+
+the original Prajāpati expanded into three parts and manifested himself in the form of cause and effect, and so on; and in the Chāndogya, (the sentence ends here as supplied and continues in the next window).
+
 ---
 
-**Progress note:** Done through printed p. 398. Vol 12 pp. 393-398: Rk 16 special topics, grammar, Rk 17
+**Progress note:** Done through printed p. 404. Vol 12 pp. 399-404: end of Rk 17 special topics, grammar, Rk 18 (1.164.18) with bhashya and special topics
