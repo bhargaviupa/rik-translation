@@ -19,3 +19,4 @@
 | w0053 | 53-55 | sonnet (standing) | n/a | n/a | n/a |
 | w0056 | 56-58 | sonnet (standing) | n/a | n/a | n/a |
 | w0059 | 59-61 | sonnet (standing) | n/a | n/a | n/a |
+| w0062 | 62-64 | sonnet (standing) | n/a | n/a | n/a |
