@@ -1395,8 +1395,8 @@ In sentences such as this, the growth and greatness of the worlds are described 
 
 **॥ संहितापाठः ॥**
 
-> ते मायिनो ममिरे सुप्रचेतसो जामी सयोनी
-> मिथुना समोकसा ।
+> ते मा॒यिनो॑ ममिरे सु॒प्रचे॑तसो जा॒मी सयो॑नी
+> मिथु॒ना समो॑कसा ।
 > नव्यं॑नव्यं॒ तंतु॒मा त॑न्वते दि॒वि स॑मु॒द्रे अं॒तः क॒वयः॒॑॑
 > सुदीतयः ॥ ४ ॥
 
@@ -2499,10 +2499,10 @@ Number of ṛks in the Sūkta: 14 ‖
 
 **॥ संहितापाठः ॥**
 
-> किमु श्रेष्ठः किं यविष्टो न आजगन्निमायते दूत्यं १
-> कदद्यूचिमु ।
-> न निंदिम चमसं यो महाकुलोऽग्ने भ्रातर्दुर्ण
-> इद्भूतिमूदिनु ॥ १ ॥
+> किमु॒ श्रेष्ठः॒ किं यवि॑ष्टो न॒ आज॑ग॒न्निमा॑यते दू॒त्यं१॒॑ १
+> कदद्यू॑चि॒मु ।
+> न निं॑दिम चम॒सं यो म॑हाकु॒लोऽग्ने॑ भ्रात॒र्दुर्ण॒
+> इद्भू॒तिमू॑दिनु ॥ १ ॥
 
 **॥ पदपाठः ॥**
 
@@ -4081,8 +4081,8 @@ Om. Sūkta 162. Maṇḍala 1, Anuvāka 22, Sūkta 162. Aṣṭaka 2, Adhyāya 3
 
 **॥ संहितापाठः ॥**
 
-> मा नो मित्रो वरुणो अर्यमायुरिंद्र ऋभुक्षा
-> मरुतः परि ख्यन् ।
+> मा नो॑ मि॒त्रो वरु॑णो अर्य॒मायुरिंद्र॑ ऋभु॒क्षा
+> म॒रुतः॒ परि॑ ख्यन् ।
 > यद्वा॒जिनो॑ दे॒वजा॑तस्य॒ सप्तेः॑ प्रव॒क्ष्यामो॑ वि॒दथे॒॑॑
 > वीर्याणि ॥ १ ॥
 
@@ -4378,8 +4378,8 @@ Indra and Agni are joined with the Viśvedevas and their identity is stated.
 
 **॥ संहितापाठः ॥**
 
-> एष भागः पुरो अश्वेन वाजिना पूष्णो भागो नीयते
-> विश्वदेव्यः ।
+> ए॒ष भागः॑ पु॒रो अश्वे॑न वा॒जिना॑ पू॒ष्णो भा॒गो नी॑यते
+> वि॒श्वदे॑व्यः ।
 > अ॒भि॒प्रियं॒ यत्पु॑रो॒ळाश॒मर्व॑ता॒ त्वष्टेदे॑नं सौश्रव॒साय॑
 > जिन्वति ॥ ३ ॥
 
@@ -12077,8 +12077,8 @@ When the jīva leaves the body, the body becomes dead; but since the jīva is im
 
 #### Ṛk 31
 **॥ संहितापाठः ॥**
-> अपश्यं गोपामनिपद्यमानमा च परा च पथिभिश्चरंतं ।
-> स सध्रीचीः स विषूचीर्वसान आ वरीवर्ति भुवनेष्वंतः ॥
+> अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चरं॑तं ।
+> स स॒ध्रीचीः॒ स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्वं॒तः ॥
 > ॥ ३१ ॥
 
 > *apaśyaṃ gopāmanipadyamānamā ca parā ca pathibhiścaraṃtaṃ |*
@@ -12186,9 +12186,9 @@ This Āditya is honey for all beings; all beings are honey for this Āditya. The
 
 #### Ṛk 32
 **॥ संहितापाठः ॥**
-> य ईं चकार न सो अस्य वेद य ईं ददर्श हिरुगिन्नु
+> य ईं॑ च॒कार॒ न सो अ॒स्य वे॑द॒ य ईं॑ द॒दर्श॒ हिरु॒गिन्नु॑
 > तस्मात् ।
-> स मातुर्योना परिवीतो अंतर्बहुप्रजा निर्ऋतिमा
+> स मा॒तुर्योना॒ परि॑वीतो अं॒तर्ब॑हुप्र॒जा निर्ऋ॑ति॒मा॑
 > विवेश ॥ ३२ ॥
 
 > *ya īṃ cakāra na so asya veda ya īṃ dadarśa hiruginnu*
@@ -13473,6 +13473,7 @@ In this way, by worldly illustrations in the form of negation, and by a descript
 
 **॥ संहितापाठः ॥**
 #### Ṛk 39
+**॥ संहितापाठः ॥**
 > ऋ॒चो अ॒क्षरे॑ पर॒मे व्यो॑म॒न्यस्मि॑न्दे॒वा अधि॒ विश्वे॑ निषे॒दुः ।
 > यस्तन्न वेद॒ किमृ॒चा क॑रिष्यति॒ य इत्तद्वि॒दुस्त इ॒मे समा॑सते ॥ ३९ ॥
 
@@ -16636,10 +16637,8 @@ In all such passages the help that Indra received from the Maruts at the time of
 कृत्वा मरुतो यद्वशाम (*kṛtvā maruto yadvaśāma*)—Sāyaṇa himself has said that giving a meaning for this portion is somewhat difficult. First, from the explanation यतो वयं मरुतः (*yato vayaṃ marutaḥ*) it is understood that these are words of the Maruts. Afterwards, from the explanation
 अथवा इंद्रस्येदं वाक्यं ; हे मरुतः यत् यस्यैव तत्‌तस्यैव भवतु (*athavā iṃdrasyedaṃ vākyaṃ ; he marutaḥ yat yasyaiva tattasyaiva bhavatu*)........॥
 and so on, he has indicated that it can also be said to be a speech of Indra. The scholar Max Muller has stated his opinion on this matter in this way:
-> The last words leave no doubt as to their meaning, for the phrase is one of frequent occurrence. The only difficulty is the vocative ⟦मतुतः⟧ where we should expect the nomi-native It is quite possible, however, that the Maruts Should here address themselves, though, no doubt, it would be easy to alter the accent.
-
-> *The last words leave no doubt as to their meaning, for the phrase is one of frequent occurrence. The only difficulty is the vocative ⟦matutaḥ⟧ where we should expect the nomi-native It is quite possible, however, that the Maruts Should here address themselves, though, no doubt, it would be easy to alter the accent.*
-> (Sacred Books of the East. Voi. XXXII. The Vedic Hymns. p. 198)
+The last words leave no doubt as to their meaning, for the phrase is one of frequent occurrence. The only difficulty is the vocative मतुतः (*matutaḥ*) where we should expect the nomi-native It is quite possible, however, that the Maruts Should here address themselves, though, no doubt, it would be easy to alter the accent.
+(Sacred Books of the East. Voi. XXXII. The Vedic Hymns. p. 198)
 *[as supplied: "Voi." for "Vol.", "nomi-native" with the line-break hyphen kept, and मतुतः (*matutaḥ*) in Kannada letters for the Sanskrit word, as printed.]*
 Although the meaning of the last words is clear, the fact that the word मरुतः (*marutaḥ*), which ought to be in the nominative, stands in the vocative causes some delay; or one may say that the Maruts may have addressed themselves.
 In some passages such as

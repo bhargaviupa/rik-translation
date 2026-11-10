@@ -32,7 +32,7 @@ suktas = [e for e in ev if e[0] == 'sukta']; riks = [e for e in ev if e[0] == 'r
 # Kannada anchors
 sl = []
 for i, l in enumerate(kn):
-    m = re.match(rf'^ಮಂಡಲ\s*[-—–]\s*([೦-೯]+).*ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)', l.strip())
+    m = re.match(rf'^(?:[॥।]\s*)?ಮಂಡಲ\s*[-—–]\s*([೦-೯]+).*ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)', l.strip())
     if m: sl.append((i, edig(m.group(1)), edig(m.group(2))))
 labs = [i for i, l in enumerate(kn) if l.strip() == '*ಸಂಹಿತಾಪಾಠಃ*']
 prob = []; warn = []
