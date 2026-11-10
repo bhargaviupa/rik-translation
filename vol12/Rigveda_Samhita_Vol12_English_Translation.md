@@ -5350,6 +5350,85 @@ Taittirīya Brāhmaṇa 2-6-1-3. The horse-flesh is put in large earthen pots ca
 
 *Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analysis of नीक्षणं (*nīkṣaṇaṃ*) (the rules Pā. Sū. 7-1-1 and 7-1-163 as printed) begins here; the analysis of Ṛk 13 is cut off in the supplied text at the end of this window and continues in the next window.
 
+### Printed p. 197
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 197] (as supplied; Aṣṭaka 2, Adhyāya 3, Varga 9, Ṛgveda-saṃhitā, with a stray closing bracket).*
+
+*(Grammar, continued from the previous page; transcribed, not explained.)*
+
+मांस्पचन्याः (*māṃspacanyāḥ*)—the root *ḍupachiṣ* (to cook); the affix *lyuṭ* in the sense of locus, by the rule Pā. Sū. 3-3-117; the substitution as before; the elision in the word *māṃsa* by the rule cited as Kā. 6-1-144 (as printed); in the compound the accent of the final member's base applies.
+
+आसेचनानि (*āsecanāni*)—the root *ṣicir* (to flow); the affix *lyuṭ* in the sense of instrument; in the compound with a prefix the accent of the final member's base applies.
+
+ऊष्मण्या (*ūṣmaṇyā*)—the affix *yat* in the sense of "fit for"; the svarita accent by the rule Pā. Sū. 6-1-185; in the neuter the elision of *śi* by the rule Pā. Sū. 6-1-70. The same elision of *śi* occurs in अपिधाना (*apidhānā*).
+
+भूषंति (*bhūṣaṃti*)—the root *bhūṣa* (to adorn), first class, present tense, third person plural; being after a finite verb it takes the *nighāta* accent.
+
+#### Ṛk 14
+**॥ संहितापाठः ॥**
+> नि॒क्रम॑णं नि॒षद॑नं वि॒वर्त॑नं॒ यच्च॒ षड्बे॑श॒मर्व॑तः ।
+> यच्च॑ प॒पौ यच्च॑ घा॒सिं ज॒घास॒ सर्वा॒ ता ते॒ अपि॑ दे॒वे॑
+> श्वस्तु ॥ १४ ॥
+**॥ पदपाठः ॥**
+> निक्रमणं । निसदनं । विवर्तनं । यत् । च । पद्भीशं । अर्वतः ।
+> यत् । च । पपौ । यत् । च । घासिं । जघूस । सर्वा । ता । ते । अपि । देवेषु । अस्तु ॥
+**॥ सायणभाष्यम् ॥**
+> यन्नि क्रमणं नितरां क्रमते यत्र तन्नि क्रमणं स्थानं । नितरां सीदत्यत्रेति ।
+> निषदनं । विवर्तनं विविधवर्तनमितस्ततो लुंठनं यत्र तत् ॥ यच्चार्वतोऽश्वस्य
+
+> *yanni kramaṇaṃ nitarāṃ kramate yatra tanni kramaṇaṃ sthānaṃ | nitarāṃ sīdatyatreti |*
+> *niṣadanaṃ | vivartanaṃ vividhavartanamitastato luṃṭhanaṃ yatra tat ‖ yaccārvato 'śvasya*
+### Printed p. 198
+*Running head: 198 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied; Maṇḍala 1, Anuvāka 22, Sūkta 162).*
+
+> पद्वीशं पादबंधनं । यद्वा । बंधनं पट् तद्वान्प्रदेशः । अत्र सर्वत्र देवार्थस्याश्वस्य रोमादीनामपि निरर्थकत्वाभावाय तत्स्थानमपि स्वीक्रियते । यद्वा ।
+> क्रियापरावगंतव्या । आलंभसमये निग्रहेण या निक्रमणादयश्वेष्टाः संति ता
+> इत्यर्थः । यच्च पपौ यदुदकमपिबत् । यच्च घासिमदनीयं तृणादिकं जघास
+> अभक्षयत् । हे अश्व ते तव ता तानि सर्वाणि निक्रमणादीनि देवेष्वस्तु । संतु ।
+> देवेषु व्याप्नोतु । तान्यपि निरर्थकानि मा भूवन्नित्यर्थः ॥
+*Gist:* Sāyaṇa explains the places of going forth, sitting and rolling, and the foot-fastening (rope or place); the water drunk and the grass eaten by the horse are likewise to go to the gods, so that nothing is wasted.
+
+*[as supplied: the label "ಪ್ರಗಿದಾರ್ಥ" stands after the bhāṣya; it is garbled and was replaced by the standard label Pratipadārtha.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(हे अश्व (*he aśva*)—O sacrificial horse); अर्वतः (*arvataḥ*)—of you, this sacrificial horse; निक्रमणं (*nikramaṇaṃ*)—the place of going about; निषदनं (*niṣadanaṃ*)—the place of standing; विवर्तनं (*vivartanaṃ*)—the place of rolling on the ground; यच्च पद्वीशं (*yacca padvīśaṃ*)—and the rope that binds the horse's feet; यच्च पपौ (*yacca papau*)—and the water the horse drank; यच्च घासिं जघास (*yacca ghāsiṃ jaghāsa*)—and also the food, grass and the like, that the horse ate; ते (*te*)—your; ता अपि (*tā api*)—all such acts as well; देवेषु (*deveṣu*)—among the gods (to the gods); अस्तु (*astu*)—may they be offered (may they reach).
+
+**भावार्थ (Bhāvārtha)**
+O sacrificial horse, the places where you walked while grazing, where you stood here and there, and where you rolled on the ground to rest, the rope used to bind your feet, the water you drank and the grass you ate: may all these not be wasted but be offered to the gods themselves.
+
+**Printed English**
+May the place of going forth, of tarrying, of rolling on the ground ; tha [sic] foot-fastening of the horse, (the water) that he has drunk, the grass that he has eaten ; may all these be yours among the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk the seer, praying to the horse, indicates his wish that its hair and the like, and the grass it ate and the water it drank, should not be wasted but should reach the gods. Since the limbs and flesh of the horse, prepared by cooking and so on, are offered in the fire for the gods' pleasure, all of that reaches the gods and becomes fruitful; and what cannot be offered in the fire, the water in the horse's belly, the undigested grass and the like, is also prayed for, that it may not be wasted but may reach the gods. This prayer is described in this Ṛk.
+
+### Printed p. 199
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 199] (as supplied; Aṣṭaka 2, Adhyāya 3, Varga 9, Ṛgveda-saṃhitā, with a stray closing bracket).*
+
+निक्रमणं (*nikramaṇaṃ*), निषदनं (*niṣadanaṃ*), विवर्तनं (*vivartanaṃ*)—the places where the horse, in its lifetime, walked about, lay down and rested, and the like: the description is that these too should reach the gods and cause them pleasure; thus the daily course of the horse's life is described, and the prayer is that it may be a cause of the gods' delight.
+
+पद्वीशं (*padvīśaṃ*)—the commentator has explained this word in two ways: पद्वीशं पादबंधनं (*padvīśaṃ pādabaṃdhanaṃ*) and यद्वा तद्वान् प्रदेशः (*yadvā tadvān pradeśaḥ*), that is, either the rope that binds the horse's feet or the place where the horse is tied. Some parts of the meaning stated in this Ṛk are stated in another manner in the Ṛk of this same sūkta beginning यद्वाजिनो दाम (*yadvājino dāma*).
+
+यच्च पपौ यच्च घासिं जघास (*yacca papau yacca ghāsiṃ jaghāsa*)—the seer prays that the water the horse drank and the grass it ate should reach the gods. For, as stated in यदूवध्यमुदरस्यापवाति (*yadūvadhyamudarasyāpavāti*) (Ṛ. Saṃ. 1-162-10) of this sūkta, the undigested food in the form of grass in the horse's belly is to be removed and only the clean flesh cooked. Therefore the grass the horse ate and the water it drank, which cannot be offered to the gods in the oblation, are, according to my prayer, to reach the gods themselves: such is the seer's intention described.
+
+The rite of offering the horse's limbs, that is, the rite of offering the various limbs of the horse in the fire with mantras, is described in detail in the 14 anuvākas, 11-23, of the fifth kāṇḍa of the Taittirīya Saṃhitā, beginning स्तेगान्नंष्ट्राभ्यां (*stegānnaṃṣṭrābhyāṃ*). For fear of prolixity they are not explained here.
+
+As there are Āprī-sūktas for the animal offering in other animal sacrifices, the Āprī-sūkta relating to the horse, used in the Aśvamedha sacrifice, is found in the Taittirīya Saṃhitā. It has eleven mantras. Since this sūkta is not in the Ṛgveda, it is given here:
+
+1. (1)
+समिद्धो अंजन्करं मतीनां धृतमग्ने मधुमत्पिन्वमानः । (*samiddho aṃjankaraṃ matīnāṃ dhṛtamagne madhumatpinvamānaḥ |*)
+वाजी वहन्वाजिनं जातवेदो देवानां वक्षि प्रियमा सधस्थं ॥ (*vājī vahanvājinaṃ jātavedo devānāṃ vakṣi priyamā sadhasthaṃ ‖*)
+(2)
+धृतेनांजन्तं पथो देवयानान्स्र जानन्वाज्यप्येतु देवान् । (*dhṛtenāṃjantaṃ patho devayānānsra jānanvājyapyetu devān |*)
+अनु त्वा सप्ते प्रदिशस्सचंताग् स्वधामस्मै यजमानाय धेहि ॥ (*anu tvā sapte pradiśassacaṃtāg svadhāmasmai yajamānāya dhehi ‖*)
+(3)
+ईड्यश्चासि वंद्यश्च वाजिन्नाशुश्चासि मेध्यश्व सप्ते । (*īḍyaścāsi vaṃdyaśca vājinnāśuścāsi medhyaśva sapte |*)
+अग्निष्ट्वा देवैर्वसुभिस्सजोषाः प्रीतं वह्निं वहतु जातवेदाः ॥ (*agniṣṭvā devairvasubhissajoṣāḥ prītaṃ vahniṃ vahatu jātavedāḥ ‖*)
+(4)
+स्तीर्णं बर्हिस्सुष्टरीमा जुषाणोरु पृथु प्रथमानं पृथिव्यां । (*stīrṇaṃ barhissuṣṭarīmā juṣāṇoru pṛthu prathamānaṃ pṛthivyāṃ |*)
+देवेभिर्युक्तमदितिस्सजोषाः सोनं कृष्णाना सुविते दधातु ॥ (*devebhiryuktamaditissajoṣāḥ sonaṃ kṛṣṇānā suvite dadhātu ‖*)
+
+*[The quotation of the Āprī-sūkta is cut off in the supplied text after verse (4) at the end of this window and continues in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 196 (PDF 196). Sūkta 162 Ṛk 13 Pratipadārtha to Special Topics, grammar start
+**Progress note:** Done through printed p. 199. Ṛk 14 of Sūkta 162 (grammar of Ṛk 13 end, Ṛk 14, Special Topics, Taittirīya Āprī verses 1-4)
