@@ -7038,6 +7038,146 @@ Prajāpati assigned sacrifices to the gods, but kept the Aśvamedha for himself.
 दिशस्सुषुवाणेनाभिजित्या इत्याहुर्यदेतानि हवीग्गंषि निर्वपति दिशामभिजित्या एतयावा इंद्रं देवा अयाजयन्तस्मादिंद्रसव एतया मनुं मदुष्यास्तस्मान्मनुसवो यथेंद्रो देवानां यथा मनुर्मनुष्याणामेवं भवति (*diśassuṣuvāṇenābhijityā ityāhuryadetāni havīggaṃṣi nirvapati diśāmabhijityā etayāvā iṃdraṃ devā ayājayantasmādiṃdrasava etayā manuṃ maduṣyāstasmānmanusavo yatheṃdro devānāṃ yathā manurmanuṣyāṇāmevaṃ bhavati*)
 (Trai. Saṃ. 7-5-12-2, 3) *[as supplied: abbreviation "ತ್ರೈ ಸಂ."]*
 
+### Printed p. 267
+*Running head: 267 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 12] (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 9:]* In the (passage) just quoted, it may have been said "first mounted" (प्रथमोध्यतिष्ठत् (*prathamodhyatiṣṭhat*)) because in the homa that is the means of conquest of the directions the gods gave Indra the first place, and also because, that being a chief part of the Aśvamedha, the foremost place in it fell to Indra. Sāyaṇa too has explained: स्वहविष्टेन स्वकीयत्तेन वा आश्रितवान् इत्यर्थः (*svahaviṣṭena svakīyattena vā āśritavān ityarthaḥ*), "he took possession of it with his own oblation or as his own."
+
+*Grammatical Derivation (transcribed, not explained):*
+हिरण्यशृंगः (*hiraṇyaśṛṃgaḥ*)—हिरण्ये शृंगे यस्य सः (*hiraṇye śṛṃge yasya saḥ*); by बहुप्रीहौ प्रकृत्या पूर्वपदम् (*bahuprīhau prakṛtyā pūrvapadam*) (Pā. Sū. 6-1-1) the accent of the first member's own base arises. Likewise in मनोजवाः (*manojavāḥ*), being a bahuvrīhi compound, the accent of the first member's base arises.
+आसीत् (*āsīt*)—root अस भुवि (*asa bhuvi*); laṅ, third person singular form; being after a word that is not a finite verb, the nighāta accent arises.
+हविरद्यम् (*haviradyam*)—हविषः अद्यम् हविरद्यम् (*haviṣaḥ adyam haviradyam*); root अद भक्षणे (*ada bhakṣaṇe*); suffix yat in its own sense or in the sense of fitness; by यतोऽनावः (*yato 'nāvaḥ*) (Pā. Sū. 6-1-213) the initial acute arises; in the compound, by गतिकारकोपपदात् (*gatikārakopapadāt*)… (Pā. Sū. 6-1-139) the accent of the base of the latter member ending in kṛt arises.
+आयन् (*āyan*)—root इण् गतौ (*iṇ gatau*); laṅ, third person plural, suffix jhi; by रोंतः (*roṃtaḥ*) the substitute anta; by इतश्च (*itaśca*) elision of the final i; by आडजादीनां (*āḍajādīnāṃ*) the aṭ-augment to the stem; by इणोयण् (*iṇoyaṇ*) (Pā. Sū. 6-4-81) yaṇ for the i of the root; being after a word that is not a finite verb, the nighāta accent arises.
+अध्यतिष्ठत् (*adhyatiṣṭhat*)—adhi is the prefix; root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); laṅ, third person singular form; because of the connection with the word यः (*yaḥ*), by यद्वृत्तांतित्यम् (*yadvṛttāṃtityam*) (printed "ಪಾ. ಸವ. ೮-೧-೬೬", i.e. Pā. Sū. 8-1-66 *[as supplied: "ಪಾ. ಸವ."]*) the nighāta accent is prohibited; the augment aṭ being udātta, it has the initial acute; by तिजिचोदात्तवति (*tijicodāttavati*) (Pā. Sū. 8-1-71) the nighāta accent arises for the preverb (adhi). ॥ 9 ॥
+*[stray line as supplied: :C:]*
+
+### Printed p. 268
+*Running head: 268 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+#### Ṛk 10
+**॥ संहितापाठः ॥**
+> ई॒र्मांता॑सः॒ सिलि॑कमध्यमासः॒ सं शूर॑णासो दि॒व्यासो॒॑
+> अत्याः॑ ।
+> हं॒सा इ॑व श्रेणि॒शो य॑तंते॒ यदाक्षि॑षुर्दि॒न्यमज्म॒मश्वाः॑ ।
+> ॥ १० ॥
+**॥ पदपाठः ॥**
+> ईर्मअंतासः । सिलिकमध्यमासः । सं । शूरणासः । दिव्यासः । अत्याः ।
+> हंसाः इव । श्रेणिशः । यतंते । यत् । आक्षिषुः । दिव्यं । अज्मं । अश्वाः ॥ १० ॥
+**॥ सायणभाष्यम् ॥**
+> अत्राश्वसमूहस्तुतिद्वारेणायं स्तूयते । ईर्मांतास ईरिताः प्रेरिता अंता
+> येषां ते तथोक्ताः । विरलांता इत्यर्थः । सिलिकमध्यमासः संस्कृताः संगता मध्यप्रदेशा येषां ते तथोक्ताः । मध्यॆ निविडा इत्यर्थः । अथवा शरीरस्यैते विशेषणे
+> ईर्म ईरितः । पुरतो नुन्न इत्यर्थः । तादृशः पृथुरंतो जघनप्रदेशो येषां
+> ते तादृशाः । तथा सिलिकमध्यमास । संस्कृतः संगतः संलग्नो मध्यभागो येषां ते
+> तादृशाः। पुष्टत्वात्पौढपृष्ठाः संलग्नमध्याश्चेत्यर्थः । जघनपुरोभागावपेक्ष्यसिलिकमध्यमा इत्युक्तं । समित्ययमुपसर्गो यतंत इत्याख्यातेन संबंधयितव्यः ।
+> शूरणासो विक्रमशीला दिव्यासो दिवि भवा अत्या आतनशीलाः । यद्यप्ययमश्वनाम
+> तथाप्यश्वशब्दस्य वक्ष्यमाणत्पादयं यौगिकोऽवगंतव्यः । ईदृशाः अश्वाः श्रेणिशः ।
+> एकव्यापाराणां बहूनां समूहः श्रेणिरित्युच्यते । शीघ्रधावनाय श्रेणिशः पंक्तिभूय सं यतंते । सम्यग्यत्नं कुर्वंति । तत्र दृष्टांतः । हंसा इव । ते यथा
+> श्रेणिभूता ईर्मांतास इत्याद्युक्तरूपाः संतॊऽंतरिक्षे गमनाय यतंते तद्वत् ।
+> कदा । उच्यते । यद्यदाश्वा दिव्यमज्मं गमनं गंतव्यं वा मार्गमाक्षिषुः व्याप्प्पुवंति तदा ॥ अयं मंत्रो यास्केनैवं व्याख्यातः । ईर्मांताः समारितांताः
+> पृथ्वंता ना सिलकमध्यमाः संस्कृतमध्यमाः शीर्षमध्यमा वा । अपि वा शिर आदित्यो
+> भवति यदनुशेते सर्वाणि भूतानि मध्यॆ चैषां तिष्ठति । इदमहीतरच्छिर एतस्मादेव समाश्रितान्येतदिंद्रियाणि भवंति । सं शूरणासो दिव्यासो अत्या! शूरः शवते-
+
+> *atrāśvasamūhastutidvāreṇāyaṃ stūyate | īrmāṃtāsa īritāḥ preritā aṃtā*
+> *yeṣāṃ te tathoktāḥ | viralāṃtā ityarthaḥ | silikamadhyamāsaḥ saṃskṛtāḥ saṃgatā madhyapradeśā yeṣāṃ te tathoktāḥ | madhyè niviḍā ityarthaḥ | athavā śarīrasyaite viśeṣaṇe*
+> *īrma īritaḥ | purato nunna ityarthaḥ | tādṛśaḥ pṛthuraṃto jaghanapradeśo yeṣāṃ*
+> *te tādṛśāḥ | tathā silikamadhyamāsa | saṃskṛtaḥ saṃgataḥ saṃlagno madhyabhāgo yeṣāṃ te*
+> *tādṛśāḥ| puṣṭatvātpauḍhapṛṣṭhāḥ saṃlagnamadhyāścetyarthaḥ | jaghanapurobhāgāvapekṣyasilikamadhyamā ityuktaṃ | samityayamupasargo yataṃta ityākhyātena saṃbaṃdhayitavyaḥ |*
+> *śūraṇāso vikramaśīlā divyāso divi bhavā atyā ātanaśīlāḥ | yadyapyayamaśvanāma*
+> *tathāpyaśvaśabdasya vakṣyamāṇatpādayaṃ yaugiko 'vagaṃtavyaḥ | īdṛśāḥ aśvāḥ śreṇiśaḥ |*
+> *ekavyāpārāṇāṃ bahūnāṃ samūhaḥ śreṇirityucyate | śīghradhāvanāya śreṇiśaḥ paṃktibhūya saṃ yataṃte | samyagyatnaṃ kurvaṃti | tatra dṛṣṭāṃtaḥ | haṃsā iva | te yathā*
+> *śreṇibhūtā īrmāṃtāsa ityādyuktarūpāḥ saṃtò 'ṃtarikṣe gamanāya yataṃte tadvat |*
+> *kadā | ucyate | yadyadāśvā divyamajmaṃ gamanaṃ gaṃtavyaṃ vā mārgamākṣiṣuḥ vyāpppuvaṃti tadā ‖ ayaṃ maṃtro yāskenaivaṃ vyākhyātaḥ | īrmāṃtāḥ samāritāṃtāḥ*
+> *pṛthvaṃtā nā silakamadhyamāḥ saṃskṛtamadhyamāḥ śīrṣamadhyamā vā | api vā śira ādityo*
+> *bhavati yadanuśete sarvāṇi bhūtāni madhyè caiṣāṃ tiṣṭhati | idamahītaracchira etasmādeva samāśritānyetadiṃdriyāṇi bhavaṃti | saṃ śūraṇāso divyāso atyā! śūraḥ śavate-*
+
+### Printed p. 269
+*Running head: 269 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 12] (as supplied; the print has a stray full stop before "೧೨").*
+
+> र्गतिकर्मणो दिव्या दिविजा अत्या अतनाः । हंसा इव श्रेणिशो यतंते । हंसा
+> हंतेर्घ्नंत्यध्वानं ! श्रेणिश इति श्रेणिः श्रयतेः समाश्रिता भवंति । यदाक्षिषुर्यदापुर्दिव्यमज्ममजनिमाजिमश्वाः । नि- ४-१३ । इति ॥
+*Gist:* The sun's horses are praised: full-hipped, slender-waisted, brave, celestial, they strive in rows like swans when they traverse the heavenly path; Yāska's Nirukta explanation is cited.
+**प्रतिपदार्थ (Pratipadārtha)**
+यत् (*yat*)—when; अश्वाः (*aśvāḥ*)—the horses (of the Sun); दिव्यं अज्मं (*divyaṃ ajmaṃ*)—the path of the world of the gods; आक्षिषुः (*ākṣiṣuḥ*)—traverse (then); ईर्मांतासः (*īrmāṃtāsaḥ*)—having full-grown haunch-girths; सिलिकमध्यमासः (*silikamadhyamāsaḥ*)—having evenly formed sides of the waist; शूरणासः (*śūraṇāsaḥ*)—possessing vigour; दिव्यासः (*divyāsaḥ*)—born in the world of the gods; अत्याः (*atyāḥ*)—the horses, given to movement; श्रेणिशः (*śreṇiśaḥ*)—forming rows; हंसा इव (*haṃsā iva*)—like swans; संयतंते (*saṃyataṃte*)—strive (to fly).
+
+**भावार्थ (Bhāvārtha)**
+When the horses of the Sun traverse the path of the world of the gods, those horses, with full-grown haunch-girths, evenly formed sides of the waist, vigour, and birth in the world of the gods, strive to fly, forming rows like flying swans.
+
+**Printed English**
+The full-haunched, slender-waisted, high-spirited, and celestial coursers
+(of the sun), gallop along like swans in rows, when the horses spread
+along the heavenly path.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Here the movement of the horses of the Āditya in the heavenly world is compared to a garland of swans flying in a flock, and in this simile, besides describing the beauty of the horses' going, their supernatural form and powers are also described. The author of the Nirukta has commented on this Ṛk; it is quoted in the Sāyaṇa-bhāṣya (Ni. 4-13).
+
+ईर्मांतासः (*īrmāṃtāsaḥ*)—ईर्मांताः समीरितांताः पृथ्व्यंता वा (*īrmāṃtāḥ samīritāṃtāḥ pṛthvyaṃtā vā*): the meaning is "having well-formed, or fully stretched, middles (girths)."
+
+सिलिकमध्यमासः (*silikamadhyamāsaḥ*)—the Kannada comment quotes the Nirukta: शीर्षमध्यमा वा अपि ना शिर आदित्यो भवति यदनुशेते सर्वाणि भूतानि मध्यॆ चैषां तिष्ठति (*śīrṣamadhyamā vā api nā śira ādityo bhavati yadanuśete sarvāṇi bhūtāni madhyè caiṣāṃ tiṣṭhati*), that is, "well-formed in the middle, or having the head in the middle; for the head is the Āditya, because all beings lie (follow) under him, and he stands in the midst of them." *[as supplied: the comment begins with the head-word and a dash, and has "ನಾ" where the bhāṣya has "ವಾ"]*
+
+### Printed p. 270
+*Running head: 270 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ.೧೬೩.] (as supplied).*
+
+*(Continuing सिलिकमध्यमासः (*silikamadhyamāsaḥ*):)* It means either "with evenly pressed-in sides of the waist" or "with the head in the middle." Here the word śīrṣa (śiras) applies to the Sun. The author of the Nirukta explains that this epithet is used because he pervades all beings and stands in the midst of them. Durgācārya, commenting on this, says यस्माच्चासौ अनुप्रविश्य प्राणभावेन सर्व भूतानि शीते । अस्ते तस्मात्सर्वभूताश्रयणात् शिर आदित्यः (*yasmāccāsau anupraviśya prāṇabhāvena sarva bhūtāni śīte | aste tasmātsarvabhūtāśrayaṇāt śira ādityaḥ*), and explains that, since he enters all beings in the form of breath and pervades everything, he is indicated by the epithet "head" (śiras).
+
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आप्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | āprā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthuṣaśca*)
+(Ṛ. Saṃ. 1-115-1)
+In Ṛks such as this, the Sun, who is described as the self of the whole world, has here the synonymous name "head" (śiras). This is the purport of Durgācārya's commentary. स चैतेषामश्वानां मध्यॆ तिष्ठति (*sa caiteṣāmaśvānāṃ madhyè tiṣṭhati*): since this Āditya, who is of the form of the head, is in the midst of the horses, it should be understood that सिलिकमध्यमाः (*silikamadhyamāḥ*) is an epithet of the horses.
+
+संशूरणासः (*saṃśūraṇāsaḥ*)—शूरः शवतेर्गतिकर्मणः (*śūraḥ śavatergatikarmaṇaḥ*): it is formed from the root शु (*śu*) in the sense of going.
+दिविजाः (*divijāḥ*)—दिव्याः दिविजाः (*divyāḥ divijāḥ*): born in the heavenly world.
+अत्याः (*atyāḥ*)—अपेक्षितप्रदेशं प्रति आतनशीलाः (*apekṣitapradeśaṃ prati ātanaśīlāḥ*): it means one having the nature and power of travelling to whatever place he wishes. This word is an epithet of Agni, of the horse and of the Āditya.
+
+एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुर्वणः । दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसं (*eṣa pra pūrvīrava tasya camriṣo 'tyo na yoṣāmudayaṃsta bhurvaṇaḥ | dakṣaṃ mahe pāyayate hiraṇyayaṃ rathamāvṛtyā hariyogamṛbhvasaṃ*)
+(Ṛ. Saṃ. 1-56-1)
+(Ṛ. Saṃ. 1-56-1) *[as supplied: the reference is printed twice]*
+In the Ṛk *[as supplied: printed "ಮಕ್ಕಿನಲ್ಲಿ"]* (just quoted) अत्यः (*atyaḥ*) is a synonym of "horse"; and in
+
+अस्य श्लोको दिवीयते पृथिव्यामत्तो न यंसद्यक्षभृद्विचेताः । मृगाणां न हेतयो यंति चेमा बृहस्पतेरहिमाया अभि द्यून् (*asya śloko divīyate pṛthivyāmatto na yaṃsadyakṣabhṛdvicetāḥ | mṛgāṇāṃ na hetayo yaṃti cemā bṛhaspaterahimāyā abhi dyūn*)
+(Ṛ. Saṃ. 1-190-4)
+and other Ṛks, आतनशीलः आदित्यः (*ātanaśīlaḥ ādityaḥ*) ("the Āditya, who has the nature of travelling") is also understood. In the present Ṛk it is an epithet of the horses.
+
+### Printed p. 271
+*Running head: 271 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 13] (as supplied; the preceding pages have "Varga 12").*
+
+अज्जं (*ajjaṃ*) *[as supplied: so printed here; the Ṛk has अज्मं (*ajmaṃ*)]*—This word is used in many senses. It is read among the names of battle (Ni. 3-9) and among the names of houses (Ni. 3-13). Besides the usages in these two senses,
+
+उचथ्येण वपुषि यः स्वराळुत वायो धृतस्नाः । अश्वेषितं रजेषितं शुनेषितं प्राज्ञ तदिदं नु तत् (*ucathyeṇa vapuṣi yaḥ svarāḷuta vāyo dhṛtasnāḥ | aśveṣitaṃ rajeṣitaṃ śuneṣitaṃ prājña tadidaṃ nu tat*)
+(Ṛ. Saṃ. 8-46-28)
+there the word ajma is also explained as "food".
+
+अच्युता चिद्वो अज्मन्ना नानदति पर्वतासो वनस्पतिः। भूमिर्यामेषु रेजते (*acyutā cidvo ajmannā nānadati parvatāso vanaspatiḥ| bhūmiryāmeṣu rejate*)
+(Ṛ. Saṃ. 8-20-5)
+There it is explained, अज्मनि गमने सति (*ajmani gamane sati*)—"when there is going", that is, when there is movement—as a usage in the sense of going.
+
+ये पातॆयंते अज्जभिर्गिरीणां स्नुभिरेषां । यज्ञं महिष्वणीनां सुम्मंतुविष्वणीनां प्राध्वरे (*ye pātèyaṃte ajjabhirgirīṇāṃ snubhireṣāṃ | yajñaṃ mahiṣvaṇīnāṃ summaṃtuviṣvaṇīnāṃ prādhvare*)
+(Ṛ. Saṃ. 8-46-18)
+There अज्जभिः बलैः बलकरैरुदकैः सह (*ajjabhiḥ balaiḥ balakarairudakaiḥ saha*) has been explained as "strength-giving water." In the present Ṛk, अज्मं अजनिं । अज्यतेऽस्यां गम्यत इति अजनिः वाहिकां स्वर्गपथ इत्यर्थः (*ajmaṃ ajaniṃ | ajyate 'syāṃ gamyata iti ajaniḥ vāhikāṃ svargapatha ityarthaḥ*); Durgācārya has explained the view of the author of the Nirukta that it is the road to heaven.
+
+हंसाः (*haṃsāḥ*)—हंतेर्घन्त्यध्यानं (*haṃterghantyadhyānaṃ*): gathering in flocks they cover the roads. It is formed from the root हन् (*han*) *[as supplied: printed "ನಿಷ್ಪನ್ನವಾಗಿನೆ"]*.
+श्रेणयः (*śreṇayaḥ*)—formed from the root श्री (*śrī*), which gives the sense "bring together"; the meaning is that which is a collective.
+
+*Grammatical Derivation (transcribed, not explained):*
+ईर्मांतासः (*īrmāṃtāsaḥ*)—ईर्माः ईरिताः अंताः येषां ते ईर्मांतासः (*īrmāḥ īritāḥ aṃtāḥ yeṣāṃ te īrmāṃtāsaḥ*); root ईर गतौ प्रेरणे च (*īra gatau preraṇe ca*); by the inclusion of bahula, the suffix mak prescribed by इषियुधींधि (*iṣiyudhīṃdhi*) (Uṇ. Sū. 1-142) comes here too; by the suffix accent ईर्म (*īrma*) has the final acute; in the bahuvrīhi compound the accent of the first member's base arises. From this word onward, in four words, when jas follows, by आज्जसेरसुक् (*ājjaserasuk*) (Pā. Sū. 7-1-50) it takes the augment asuk. In सिलिकमध्यमासः (*silikamadhyamāsaḥ*) also, being a bahuvrīhi compound, the accent of the first member's base arises.
+
+### Printed p. 272
+*Running head: 272 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+दिव्यासः (*divyāsaḥ*)—दिवि भवाः दिव्यासः (*divi bhavāḥ divyāsaḥ*); being included among daṇḍādi words, by दंडादिभ्यो यः (*daṃḍādibhyo yaḥ*) (Pā. Sū. 5-1-66) the suffix ya; by the suffix accent it has the final acute; as before, when jas follows, it takes the augment asuk.
+श्रेणिशः (*śreṇiśaḥ*)—by संख्यैकवचनाच्च वीप्सायाम् (*saṃkhyaikavacanācca vīpsāyām*) (Pā. Sū. 5-4-43) the suffix śas; by the suffix accent it has the final acute.
+यतंते (*yataṃte*)—root यती प्रयत्ने (*yatī prayatne*); laṭ, third person plural form; the tiṅanta nighāta accent arises.
+आक्षिपुः (*ākṣipuḥ*) *[as supplied: so printed; the Ṛk has आक्षिषुः (*ākṣiṣuḥ*)]*—root अक्षू व्याप्तौ (*akṣū vyāptau*), of the first (bhvādi) class; by छंदसिलुज्लिज्लिटः (*chaṃdasilujlijliṭaḥ*) (Pā. Sū. 3-4-6) luṅ in the present sense; third person plural form; because of the connection with यत् (*yat*) the nighāta accent does not arise; the augment āṭ being udātta, it has the initial acute.
+अज्मम् (*ajmam*)—root अज गतिक्षेपणयोः (*aja gatikṣepaṇayoḥ*); since bahula is included among the Uṇādi (suffixes), the suffix man; by the statement वलादावार्धधातुके वेष्यते (*valādāvārdhadhātuke veṣyate*) (Kā. 2-4-56-2), the vī-substitution that should come by अजेव्यघञपोः (*ajevyaghañapoḥ*) (Pā. Sū. 3-4-56 *[as supplied: so printed]*) does not come; by इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169), the suffix having the marker n, the initial acute arises. ॥ 10 ॥
+
+#### Ṛk 11
+**॥ संहितापाठः ॥**
+> तव॒ शरी॑रं पतयि॒ष्णुव॑र्न॒न्तव॑ चि॒त्तं वात॑ इव॒ ध्रजी॑मान् ।
+> तव॒ शृंगा॑णि॒ विष्ठि॑ता पुरु॒त्रार॑ण्येषु॒ जर्भु॑राणा चरंति ॥११॥
+**॥ पदपाठः ॥**
+> तव । शरीरं । पतयिष्णु । अर्वन् । तव । चित्तं । वातःइव । ध्रजीमान् ।
+> तव । शृंगाणि । विस्थिता । पुरुत्रा । अरण्येषु । जर्भुराणा । चरंति ॥ ११ ॥
+
+*(The Sāyaṇa-bhāṣya and the rest of this Ṛk follow in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 266. Ṛk 8 Special Topics and grammar; Ṛk 9 (Sūkta 163) with Special Topics
+**Progress note:** Done through printed p. 272. Ṛk 9 end; Ṛk 10 (sun's horses) with Special Topics and grammar; Ṛk 11 blocks
