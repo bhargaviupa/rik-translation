@@ -2039,6 +2039,100 @@ and in such ṛks, and in
 
 *[The text of p. 71 ends here with this quotation and its reference; the remarks that follow are in the next window.]*
 
+### Printed p. 72
+
+*Running head: 72 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 160 (printed "ಮಂ ೧.").* (The Special Topics of Ṛk 3 continue.)
+
+As in such Upaniṣad sentences धीरः (*dhīraḥ*) means "wise", "learned" (धीमान् (*dhīmān*), प्राज्ञः (*prājñaḥ*)), so here too it means "learned".
+
+धेनुं (*dhenuṃ*)—The word धेनु (*dhenu*) is a synonym of "earth". धेनुर्धयतेर्वा, धिनोतेर्वा । (*dhenurdhayatervā, dhinotervā |*) धयतेऽसौ वत्सेनेति । तर्पयत्यसौ पयसा (*dhayate 'sau vatseneti | tarpayatyasau payasā*) (Ni. 11-42): since the milk is drunk by the calf, or since it gives milk and satisfies, cows are called धेनु (*dhenu*). The Earth too satisfies the world with the wealth of plants and the like; so this identity is stated.
+
+पृश्निं (*pṛśniṃ*)—*Pṛśni* has the well-known meaning "the mother of deities such as the Maruts"; it is also a word that indicates colour; in some places it indicates a collection of mixed colours. In the present ṛk it is explained as "white colour".
+
+सुरेतसं वृषभं (*suretasaṃ vṛṣabhaṃ*)—These epithets show the generative power of the presiding deity of the heaven-world. It was explained earlier that these two words indicate virility. The quality of the father, in द्यौः पिता (*dyauḥ pitā*), is described.
+
+शुक्रं (*śukraṃ*)—शुक्रं शोचतेज्वलतिकर्मणः । (*śukraṃ śocatejvalatikarmaṇaḥ |*) Formed from the root शुच् (*śuc*), which gives the sense "to shine"; it means "exceedingly radiant".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*[The heading is garbled in the supplied text ("ಪೃಕನಪ್ರಕ್ರಿಯಾ"); the standard heading is inserted and the garbled line kept in kn.md as a note.]*
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses पित्रोः (*pitroḥ*) (the residue by माता च पिता च पितरौ तयोः पित्रोः पितामात्रा (*mātā ca pitā ca pitarau tayoḥ pitroḥ pitāmātrā*), Pā. Sū. 1-2-70), पुनाति (*punāti*) (root पूञ् (*pūñ*), *śnā*), धीरः (*dhīraḥ*) (root डुधाञ् (*ḍudhāñ*), suffix *kran* by सुसूधागृधिभ्यः क्रन् (*susūdhāgṛdhibhyaḥ kran*); Pā. Sū. 6-1-169), पृश्निम् (*pṛśnim*) (root स्पृश (*spṛśa*), Uṇ. Sū. 492), सुरेतसम् (*suretasam*) (Pā. Sū. 6-2-199, number broken across lines), विश्वाहा (*viśvāhā*) (Pā. Sū. 6-1-70) and, on the next page, धुक्षत (*dhukṣata*) (root दुह (*duha*); Pā. Sū. 3-4-6, 3-1-45, 8-2-37 and 8-3-59, as printed), with the accents.
+
+### Printed p. 73
+
+*Running head: [ಆ ೨. ಅ. ೩. ನ ೩.) Ṛgveda-saṃhitā, p. 73 (printed "ನ ೩." for "ವ. ೩."; as supplied).*
+
+*(The grammar of Ṛk 3 ends with the mark ॥ ೩ ॥ and a stray ornament line ":0:", kept as supplied.)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+*[A hyphenated line break "ವಿಶ್ವ-ಶಂಭುವಾ" in the Saṃhitā is joined in kn.md.]*
+
+> अ॒यं दे॒वाना॑म॒पसा॑म॒पस्त॑मो॒ यो ज॒जान॒ रोद॑सी वि॒श्वशं॑भुवा ।
+> वि यो म॒मे रज॑सी सुक्रतू॒यया॒जरे॑भिः॒ स्कंभ॑नेभिः॒॑
+> समानृचे ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+*[The label line is garbled in the supplied text ("ಪದಾರ್ಥೇ") and sits inside the Saṃhitā block; the standard label is inserted and the garbled line kept in kn.md as a note.]*
+
+> अयं । देवानां । अपसां । अपःतमः । यः । जजान । रोदसी इति । विश्वशंभुवा ।
+> वि । यः । ममे । रजसी इति । सुक्रतुयया । अजरेभिः । स्कंभनेभिः । सं । आनृचे ।
+> ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಸಯಣಭಾಷ್ಯಂ") and sits inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the block are joined.]*
+
+> पूर्वं पुत्रमाहात्म्येनैते प्रशस्येदानीं स्वोत्पादकस्तुत्या प्रशंसति । अयं
+> देवानां मध्ये देवतमोऽपसामहस्तमः । अप इति कर्मनाम । तेन तद्वान्
+> लक्ष्यते । कर्मवतां मध्ये प्रकृष्टकर्मा । अयमित्युक्तं क इत्याह । यो देवो
+> विश्वशंभुवा सर्वप्रकारेण भूतानां सुखस्य भावयित्र्यौ रोदसी द्यावापृथिव्यौ
+> महानुभावे जजान उत्पादितवान् । न केवलमुत्पादनमात्रं अपि तु यो देवो
+> रजसी रंजनात्मिके द्यावापृथिव्यौ । रजसी इति द्यावापृथिव्योर्नाम रजसी सदसी इति
+
+> *pūrvaṃ putramāhātmyenaite praśasyedānīṃ svotpādakastutyā praśaṃsati | ayaṃ*
+> *devānāṃ madhye devatamo 'pasāmahastamaḥ | apa iti karmanāma | tena tadvān*
+> *lakṣyate | karmavatāṃ madhye prakṛṣṭakarmā | ayamityuktaṃ ka ityāha | yo devo*
+> *viśvaśaṃbhuvā sarvaprakāreṇa bhūtānāṃ sukhasya bhāvayitryau rodasī dyāvāpṛthivyau*
+> *mahānubhāve jajāna utpāditavān | na kevalamutpādanamātraṃ api tu yo devo*
+> *rajasī raṃjanātmike dyāvāpṛthivyau | rajasī iti dyāvāpṛthivyornāma rajasī sadasī iti*
+
+### Printed p. 74
+
+*Running head: 74 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22 (printed with "ಆ."), Sū. 160.* (The bhāṣya block continues from p. 73.)
+
+> तन्नामसु पाठात् । उक्तरूपे वि ममे विशेषेण परिच्छनत्ति । किं स्तोपभोगाय
+> नेत्याह । सुक्रतूयया शोभनकर्मच्छया । येन कर्मणा प्राणिनां सुखं
+> संभवति तादृक्कर्मेच्छया । अथवैतदुत्तरत्र संबंध्यते । सुक्रतूययोक्तेन निमित्तेनेमे द्यावापृथिव्यावजरेभिरजीर्णैर्दृढतरैः स्यंभनेभिर्गतिप्रतिबंधसाधनैः
+> शंकुभिः समानृचे । सम्यक् सर्वतः पूजितवान् । स्थापितवानित्यर्थः ॥ ऋच स्तुता ।
+> लिटि रेफसामान्याद्विहल्त्वमस्तीति तस्मान्नुड्द्विहल इत्यभ्यासस्य नुट् ॥ यस्मादेवं
+> तस्मादयमेव देवोऽयमेवापस्तम इत्येवं महानुभावेन परमेश्वरेणोत्पन्ने
+> इति स्तुतिः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): praising the maker: this Āditya, foremost of gods and doers, created, measured and, to support rites, propped Heaven and Earth with undecaying pillars.]*
+
+*[The Pratipadārtha label is garbled in the supplied text ("॥ ಪ್ರತಿವರ್ಧ ॥") and the Pratipadārtha sat inside the bhāṣya block; moved out, un-quoted, and the standard label inserted. Likewise the Bhāvārtha label ("ಬಾವಾರ್ಥ") and text.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*)—the Āditya who; विश्वशंभुवा (*viśvaśaṃbhuvā*)—who gives happiness to the whole world; रोदसी (*rodasī*)—Heaven and Earth; जजान (*jajāna*)—caused to be born; and यः (*yaḥ*)—who; रजसी (*rajasī*)—both Heaven and Earth; वि ममे (*vi mame*)—measured; (moreover) सुक्रतूयया (*sukratūyayā*)—with the wish to help the performance of excellent rites; अजरेभिः (*ajarebhiḥ*)—by unwasting; स्कंभनेभिः (*skaṃbhanebhiḥ*)—supporting pillars; समानृचे (*samānṛce*)—gave support and established: such; अयं (*ayaṃ*)—this Āditya; देवानां (*devānāṃ*)—among the gods (the most divine); अपसां (*apasāṃ*)—among those who perform works; अपस्तमः (*apastamaḥ*)—one who performs exceedingly excellent works (is).
+
+**भावार्थ (Bhāvārtha)**
+
+The Āditya who created Heaven and Earth, which give happiness to the whole world, who measured Heaven and Earth, and who, with the wish to help the performance of excellent rites, gave support with unwasting supporting pillars and established Heaven and Earth: such an Āditya is the most divine among the gods and, among those who perform works, the one who performs the most excellent works.
+
+**Printed English translation**
+
+He it is, amongst gods (the most divine), amongst (pious) works the most pious, who gave birth to the all-delighting heaven and earth : who measurd [sic] them both, and, for the sake of holy rites, propped them up with undecaying pillars.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रोदसी जजान (*rodasī jajāna*)—In the sentence "he created Heaven and Earth", a contradiction appears when looked at superficially.
+
 ---
 
-**Progress note:** Done through printed p. 71 (PDF 71). Sūkta 160 Ṛk 2 grammar end; Ṛk 3 complete to Special Topics (māyayā, dhīraḥ)
+**Progress note:** Done through printed p. 74 (PDF 74). Sūkta 160 Ṛk 3 Special Topics end and grammar; Ṛk 4 complete to Special Topics start
