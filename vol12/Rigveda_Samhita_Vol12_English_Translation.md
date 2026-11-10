@@ -4188,6 +4188,71 @@ In this and in other ways the special character of this sacrifice is praised. In
 
 वाजिनः (*vājinaḥ*)—for this word too the above meaning is current. But since both words occur here, it must have another meaning. Since "vāja" is read among the names of food, the word वाज (*vāja*) is taken to mean food and बह्वन्नवतः (*bahvannavataḥ*) has been explained as a horse having abundant food. But since the root ओविजी भय (*ovijī bhaya*) चलनयोः (*calanayoḥ*) has both meanings, fear and movement, one may say here that it is one that is to cause fear. The Nirukta authors, quoting the ṛk उत स्य वाजी क्षिपणिं तुरण्यति (*uta sya vājī kṣipaṇiṃ turaṇyati*) (the Ṛ. Saṃ. number is split over two lines in the print), have explained वाजी-वेजनवान् (*vājī-vejanavān*), and Durgācārya has explained it as भयवान् परेभ्यो भयदाता परेषां हि तं दृष्ट्वा भयमुत्पद्यते (*bhayavān parebhyo bhayadātā pareṣāṃ hi taṃ dṛṣṭvā bhayamutpadyate*): seeing the power of speed of this horse, fear arises in others; the purport is a horse that causes fear. The two words "sapti" and "vājī" are also used together in the Taittirīya Saṃhitā, when the nature of the horse is described in अर्वासि सप्तिरसि वाज्यसि (*arvāsi saptirasi vājyasi*) (ತೈ. ಸಂ. 1-7-8, abbreviation as printed), and for the word "sapti" संग्रामेषु सहसा समवैति (*saṃgrāmeṣu sahasā samavaiti*) (षप समवाये (*ṣapa samavāye*)) in an instant (to the battlefield) *[the supplied text ends here, in the middle of the sentence; the rest is in the next window]*
 
+### Printed p. 150
+
+*Running head: 150 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ ೧೬೨.] (as supplied).* (Sūkta 162, Ṛk 1: the Special Topics continue; the first words complete the sentence about "sapti" in the Taittirīya Saṃhitā from the previous window.)
+
+...: capable of reaching (the battlefield); and, as "vājī" is also explained as "swift" and "having food", it can be understood in the same way in the present ṛk.
+
+देवजातस्य (*devajātasya*)—two kinds of meaning are given for this word. First, बहुदेवता (*bahudevatā*) स्वरूपेणोत्पन्नस्य । (*svarūpeṇotpannasya |*) *[split over two lines]* उषादीनामस्य शिर आद्यवयवत्वादिति भावः । (*uṣādīnāmasya śira ādyavayavatvāditi bhāvaḥ |*) Since the gods Uṣas, Sūrya and so on are said to be the limbs of this horse, this meaning; or, second, देवेभ्यो जातस्य गंधर्वकुले उत्पन्नत्वात् । (*devebhyo jātasya gaṃdharvakule utpannatvāt |*) since it was born from the gods in the family of the Gandharvas, it is explained as an epithet *[printed "ವೀಶೆಷಣ"]*. Both these explanations have full scope.
+
+उषा वा अस्य मेध्यस्य शिरः । सूरश्चक्षुर्वातः प्राणो व्यात्तमग्निर्वैश्वानरः (*uṣā vā asya medhyasya śiraḥ | sūraścakṣurvātaḥ prāṇo vyāttamagnirvaiśvānaraḥ*)
+संवत्सर आत्माश्वस्य मेध्यस्य । द्यौः पृष्ठमंतरिक्षमुदरं पृथिवी पाजस्यं (*saṃvatsara ātmāśvasya medhyasya | dyauḥ pṛṣṭhamaṃtarikṣamudaraṃ pṛthivī pājasyaṃ*)
+दिशः पार्श्वे अवांतरदिशः पर्शव ऋतवोऽंगानि मासाश्चार्धमासाश्च पर्वाण्यहोरात्राणि प्रतिष्ठा नक्षत्राण्यस्थीनि नभो मांसानि ॥ (*diśaḥ pārśve avāṃtaradiśaḥ parśava ṛtavo 'ṃgāni māsāścārdhamāsāśca parvāṇyahorātrāṇi pratiṣṭhā nakṣatrāṇyasthīni nabho māṃsāni ‖*) (ಶ. ಬ್ರಾ. 10-6-4) *[abbreviation as printed; the hyphenated line break "ಪರ್ವಾ-ಣ್ಯಹೋರಾತ್ರಾಣಿ" is joined]*
+
+The Dawn is the head of this sacrificial horse, the Sun the eye, Vāyu the breath, Vaiśvānara Agni the open mouth, the year the body, heaven the back, the atmosphere the belly, the earth the lower part, the directions the sides, and so on: thus the nature *[printed "ಸ್ವಶೂಪ"]* of this sacrificial horse is described.
+
+देवेभ्यो जातस्य गंधर्वकुल उत्पन्नत्वात् । (*devebhyo jātasya gaṃdharvakula utpannatvāt |*) This is another meaning. In this meaning the horse has an indirect relation to the gods. Since in many places a direct relation of the horse with the gods is also stated, one may also say that "devajāta" means directly born of a god.
+
+यत्पजापतिरालब्दोऽश्वोभवत् । तस्मादश्वः । यत्सद्यो मेधोऽभवत् । (*yatpajāpatirālabdo 'śvobhavat | tasmādaśvaḥ | yatsadyo medho 'bhavat |*)
+तस्मादश्वमेधः । (*tasmādaśvamedhaḥ |*) (ತೈ. ಬ್ರಾ. 3-9-22-1) *[abbreviation as printed]*
+
+Prajāpati, taken in the form of an animal, immediately became the all-pervading horse. On that same day that horse became the sacrifice in the form of "medha". Therefore the name "Aśvamedha" is well known. Moreover,
+
+हयो भूत्वा देवानवहद्वाजी गंधर्वानर्नासुरानश्वो मनुष्यान् समुद्र (*hayo bhūtvā devānavahadvājī gaṃdharvānarnāsurānaśvo manuṣyān samudra*)
+एवास्य बंधुः समुद्रो योनिः ॥ (*evāsya baṃdhuḥ samudro yoniḥ ‖*) (ಬೃ. ಉ. 1-1-2)
+
+### Printed p. 151
+
+*Running head: [ಅ.೨.ಅ ೩ ವ. ೭. ] Ṛgveda-saṃhitā 151 (as supplied).*
+
+this world-pervading sacrificial horse bears the gods in the form of "haya", the Gandharvas in the form of "vājī", the Asuras in the form of "arvan" and men in the form of "aśva". The atmosphere, the dwelling of the Gandharvas, is the kinsman and the birth-place of this horse. On the basis of such descriptions the second meaning given above for the epithet "devajāta" too becomes possible.
+
+ऋभुक्षाः (*ṛbhukṣāḥ*)—for this word the Nirukta authors themselves have given two meanings: one, उरुक्षयणः इंद्रः (*urukṣayaṇaḥ iṃdraḥ*), and another, ऋभूनां राजा (*ṛbhūnāṃ rājā*). Either it is an epithet of Indra, "he who dwells in the wide atmosphere", or it means a king of the Ṛbhus, that is, of the shining gods. Or, as Sāyaṇa explains, since it is read among the names of "great" (Ni. 3-13), it may mean the great Indra.
+
+मा परिख्यन् (*mā parikhyan*)—it is prayed: "let them not disparage". The meaning is: may Mitra and the other gods not reject us, thinking that there is no propriety in petty humans praising this horse, which is of divine nature.
+
+विदथे—वेदनसाधने यज्ञे । (*vidathe—vedanasādhane yajñe |*) Sāyaṇa has explained it as "in a sacrifice that is a means of understanding". It is therefore understood that this sacrifice is also a means of acquiring spiritual knowledge. At the time of this sacrifice a brahmodya assembly takes place in connection with the adhvaryu, the hotṛ and the other priests, and a discussion on the principles of the world takes place in it.
+
+अप वा एतस्मात् । तेजो ब्रह्मवर्चसं क्रामति योऽश्वमेधेन यजते (*apa vā etasmāt | tejo brahmavarcasaṃ krāmati yo 'śvamedhena yajate*)
+होता च ब्रह्मा च ब्रह्मोद्यं वदत आग्नेयो वै होता बार्हस्पत्यो (*hotā ca brahmā ca brahmodyaṃ vadata āgneyo vai hotā bārhaspatyo*)
+ब्रह्मा ब्रह्मा बृहस्पतिस्तेजश्चैवास्मिन्ब्रह्मवर्चसं च समीची धत्तो यूपोमभितो वदतो यजमानो वै यूपो यजमानमेवैतत्तेजसा च (*brahmā brahmā bṛhaspatistejaścaivāsminbrahmavarcasaṃ ca samīcī dhatto yūpomabhito vadato yajamāno vai yūpo yajamānamevaitattejasā ca*)
+ब्रह्मवर्चसेन चोभयतः परिधत्तः । (*brahmavarcasena cobhayataḥ paridhattaḥ |*) (ಶ. ಬ್ರಾ 13-2-6-9) *[the hyphenated line break "ಯೂಪೋ-ಮಭಿತೋ" is joined; the reference line is printed twice, the second time without the closing bracket "(ಶ. ಬ್ರ. ೧೩-೨-೬-೯" (abbreviation as printed); the second is kept in kn.md as an italic note]*
+
+तेजसा वा विष .... .... .... ब्रह्मवर्चसमेवावरुंधे । (*tejasā vā viṣa .... .... .... brahmavarcasamevāvaruṃdhe |*) (ಶೈ. ಬ್ರಾ. 3-9-5) *[abbreviation "ಶೈ. ಬ್ರಾ." as printed; the line has printed dots]*
+
+In such sentences a discussion of principles takes place among the priests, and, since it is a means of knowledge, Sāyaṇa explains that the place where this Aśvamedha is performed is called "vidatha". This matter will be told in the conclusion of this sūkta and of the next, when the nature of the Aśvamedha is explained from the point of view of the rite and of knowledge. But since here the word "vidatha" is explained as a sacrifice that is a means of knowledge, one can acquire a subtle acquaintance with the discussion on that knowledge. The brahmodya discussion that takes place between the hotṛ and the Brahmā is as follows.
+
+कः स्विदेकाकी चरतीति । असौ वा आदित्य एकाकी चरत्येष ब्रह्मवर्चसं ब्रह्मवर्चसमेवास्मिन्पत्तः । (*kaḥ svidekākī caratīti | asau vā āditya ekākī caratyeṣa brahmavarcasaṃ brahmavarcasamevāsminpattaḥ |*) (ಶ ಬ್ರಾ. 13-2-6-10) *[the hyphenated line break "ಬ್ರಹ್ಮ-ವರ್ಚಸ" is joined]*
+
+### Printed p. 152
+
+*Running head: 152 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+In answer to the question "Who moves alone?", the distant Sun is the one who moves alone; he is the Brahman-radiance.
+
+किग्ग स्विदासीद्भृहद्वय इति । अश्वो वै बृहद्वय आयुरेवावरुंधे । (*kigga svidāsīdbhṛhadvaya iti | aśvo vai bṛhadvaya āyurevāvaruṃdhe |*) (ಶ. ಬ್ರಾ. 13-2-6-15) *[so printed, "ಕಿಗ್ಗ"]*
+
+In answer to the question "Which is that great bird?", the sacrificial horse itself is that great "vaya"; it obtains the power of life. Thus the discussion of principles shows the nature of the brahmodya. Because of such discussion the Aśvamedha is a means of knowledge and is therefore named "vidatha". The same matter, in the Bṛhadāraṇyaka:
+
+एष ह ना अश्वमेधो य एष तपति तस्य संवत्सर आत्मायमग्नि रर्कस्तस्येमेलोका आत्मानस्तावेतावर्काश्वमेधौ ॥ (*eṣa ha nā aśvamedho ya eṣa tapati tasya saṃvatsara ātmāyamagni rarkastasyemelokā ātmānastāvetāvarkāśvamedhau ‖*) (ಬೃ ಉ 1-2-7) *[the hyphenated line break "ತಸ್ಯೇಮೇ-ಲೋಕಾ" is joined]*
+
+it shows the universal-self nature of the Aśvamedha. In the brahmodya there is a discussion explaining the nature of this universal self. Therefore the Aśvamedha, which has the brahmodya discussion, is named "vidatha", the means of knowledge.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses आयुः (*āyuḥ*) (root वा (*vā*); ಉ. ಸೂ. 1-1, abbreviation as printed; Pā. Sū. 7-3-33), ख्यन् (*khyan*) (Pā. Sū. 3-3-175, 3-1-52, 6-4-64 and 6-4-74), देवजातस्य (*devajātasya*), प्रवक्ष्यामः (*pravakṣyāmaḥ*) (Pā. Sū. 8-1-71) and विदथे (*vidathe*) (root विद (*vida*)), with the accents; it ends with the mark ॥ ೧ ॥. *[A stray line ":੦:" in Gurmukhi letters ends the supplied text; kept in kn.md as an italic note.]*
+
 ---
 
-**Progress note:** Done through printed p. 149 (PDF 149). Sūkta 162 Ṛk 1 English and Special Topics (Aśvamedha; sapti, vājin), to mid-sentence
+**Progress note:** Done through printed p. 152 (PDF 152). Sūkta 162 Ṛk 1 Special Topics end and grammar
