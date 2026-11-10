@@ -14074,6 +14074,114 @@ The sound (of the clouds) has been uttered, fabricating the waters, and being on
 This ṛk is interpreted in one way with reference to Mādhyamikā Vāk and in another way with reference to Vāk as Śabda-brahman.
 गौरी (*gaurī*):—गौरी रोचतेज्वलतिकर्मणः (*gaurī rocatejvalatikarmaṇaḥ*). It is formed from the root ruc, which has the sense of shining. [अयमपीतरो गौरो वर्ण एतस्मादेव प्रशस्यो भवति (*ayamapītaro gauro varṇa etasmādeva praśasyo bhavati*): the word gaura, denoting a colour, is also formed from this very root and is highly praised.] Having said this, the Nirukta author quotes the ṛk under consideration and explains it in detail. Its Nirukta runs thus— *[the printed passage ends here at the end of the window and continues]*
 
+### Printed p. 593
+*Running head: [ಅ. ೨ ಅ. ೩. ವ ೨೨] ಋಗ್ವೇದಸಂಹಿತಾ 593] (as supplied).*
+
+[Continuing the Special Topics of Ṛk 41]
+गौरीर्मिमाय सलिलानि तक्षती कुर्वत्येकपदी मध्यमेन, द्विपदी मध्यमेन चादित्येन च, चतुष्पदी दिग्भिः, अष्टापदी दिग्भिश्चावांतरदिग्भिश्च, नवपदी दिग्भिश्चावांतरदिग्भिश्चादित्येन च सहस्राक्षरा बहूदका परमे व्यवने (*gaurīrmimāya salilāni takṣatī kurvatyekapadī madhyamena, dvipadī madhyamena cādityena ca, catuṣpadī digbhiḥ, aṣṭāpadī digbhiścāvāṃtaradigbhiśca, navapadī digbhiścāvāṃtaradigbhiścādityena ca sahasrākṣarā bahūdakā parame vyavane*) (Ni. 11-40)
+Creating the waters, Mādhyamikā Vāk of the atmosphere makes a sound. "Ekapadī" means one who has one support, of the middle (region). Explaining this, Sāyaṇa says मेघे वर्तमाना गमनसाधनेन वायुना एकपदी वा (*meghe vartamānā gamanasādhanena vāyunā ekapadī vā*): that is, the epithet ekapadī is given either because she is situated in the cloud, or because she has as her support the wind, which is the means of her movement.
+द्विपदी मध्यमेन चादित्येन चॆ (*dvipadī madhyamena cādityena cè*) *[as supplied: the final word reads ಚೆ]*—one who has the two supports, the atmosphere and the sun; or मेघांतरिक्षाख्यद्व्यधिष्ठाना (*meghāṃtarikṣākhyadvyadhiṣṭhānā*), one who has the two supports called cloud and atmosphere.
+चतुष्पदी (*catuṣpadī*)—दिग्भि (*digbhi*): दिक्चतुष्टयाधिष्ठाना (*dikcatuṣṭayādhiṣṭhānā*); resting on the four quarters, she is as though possessed of four feet (पादचतुष्टयोपेता (*pādacatuṣṭayopetā*)).
+अष्टापदी (*aṣṭāpadī*), नवपदी (*navapadī*)—दिग्बिश्चावांतरदिग्बिश्चादित्येन च (*digbiścāvāṃtaradigbiścādityena ca*): the four quarters, the four intermediate quarters (vidik) and the sun: these are the nine supports.
+Thus, pervading all the quarters and intermediate quarters, possessed of immeasurable extension and creating immeasurable waters, this goddess of speech is praised as shining in the highest atmosphere and as a benefactor of the world.
+The Nirukta author has used the word व्यवन (*vyavana*) as a synonym of the word व्योम (*vyoma*). Durgācārya, commenting on this, explains विभक्तानां भूतानां यत्परमं अवनं (*vibhaktānāṃ bhūtānāṃ yatparamaṃ avanaṃ*): the atmosphere is the highest place of protection for all the beings that are divided, since it establishes one kind of connection for all of them. The meaning is that it establishes a connection with all beings in the manner of warp and woof.
+कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति वायौ गार्गीति कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेत्यंतरिक्षलोकेषु गार्गि (*kasminnu khalvāpa otāśca protāśceti vāyau gārgīti kasminnu khalu vāyurotaśca protaścetyaṃtarikṣalokeṣu gārgi*) (Bṛ. U. 3-6-1)
+The whole universe is contained in water as warp and woof; water in the wind, and the wind in the atmosphere: so it is described.
+Another kind of meaning is also possible for this ṛk. गौरीः—गरणशीला शब्दब्रह्मात्मिका वाक् (*gaurīḥ—garaṇaśīlā śabdabrahmātmikā vāk*): the word gaurī means the speech whose nature is Śabda-brahman, which attains greatness in its fullness; this is the meaning of the word gaurī (the sentence continues on the next page).
+*[stray lines as supplied at the foot of the page: "[38] [Vol. 12" and "[38]   [ Vol. 12".]*
+
+### Printed p. 594
+*Running head: 594 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied; the Maṇḍala number is not given).*
+
+… This Gaurī divides pitchers and other things by the usage of individual names and gives them their individuality; therefore she is described as तक्षती (*takṣatī*) (fashioning).
+वाग्वै ग्रहः स नाम्नातिग्राहेण गृहीतो वाचा हि नामान्यभिवदति (*vāgvai grahaḥ sa nāmnātigrāheṇa gṛhīto vācā hi nāmānyabhivadati*) (Bṛ. U. 3-2-3)
+Speech is that which grasps everything. It consists of names. By the name alone are all things transacted. The meaning is that all things arose as consisting of names.
+वाग्वै ब्रह्मेति यथा मातृमान् पितृमानाचारवान् ब्रूयात्तथा तच्छैलिनिरब्रवीद्वाग्वै ब्रह्मेत्यवदतो हि किं स्यादित्यब्रवीत्तु ते तस्यायतनं प्रतिष्ठां न मेऽब्रवीदित्येकपाद्वा एतत्सम्राडिति स वै नो ब्रूहि याज्ञवल्क्य (*vāgvai brahmeti yathā mātṛmān pitṛmānācāravān brūyāttathā tacchailinirabravīdvāgvai brahmetyavadato hi kiṃ syādityabravīttu te tasyāyatanaṃ pratiṣṭhāṃ na me 'bravīdityekapādvā etatsamrāḍiti sa vai no brūhi yājñavalkya*) (Bṛ. U. 4-1-2)
+This is a conversation that took place between Janaka and Yājñavalkya. In it the identity of speech and Brahman is shown and the greatness of speech is praised. Śailini told Janaka only that speech is Brahman, but did not state its abode or its support. Yājñavalkya, knowing this, tells what Śailini left unsaid to Janaka concerning speech.
+वागेवायतनमाकाशः प्रतिष्ठा प्रज्ञेत्येनदुपासीत । काप्रज्ञता याज्ञवल्क्य । वागेव सम्राडिति होवाच । वाचा वै सम्राड्बंधुः प्रज्ञायत ऋग्वेदो यजुर्वेदः सामवेदोऽथर्वांगिरसः .... .... .... .... अयं च लोकः परश्च लोकः सर्वाणि च भूतानि वाचैव सम्राट् प्रज्ञायंते वाग्वै सम्राट् परमं ब्रह्म (*vāgevāyatanamākāśaḥ pratiṣṭhā prajñetyenadupāsīta | kāprajñatā yājñavalkya | vāgeva samrāḍiti hovāca | vācā vai samrāḍbaṃdhuḥ prajñāyata ṛgvedo yajurvedaḥ sāmavedo 'tharvāṃgirasaḥ .... .... .... .... ayaṃ ca lokaḥ paraśca lokaḥ sarvāṇi ca bhūtāni vācaiva samrāṭ prajñāyaṃte vāgvai samrāṭ paramaṃ brahma*) (Bṛ. U. 4-1-2) *[the printed quotation contains rows of dots at its middle, as supplied]*
+Speech alone is its abode; space (ākāśa) is the support (the foundation). A friend or any other kinsman is spoken of and transacted with by speech alone. By speech alone are known the Vedas beginning with the Ṛgveda, the Itihāsas and the rest, all the śāstras and smṛtis, the sacrifices and the like, and all the worlds. The whole universe rests on the usage of speech. Speech is the supreme Brahman: in this way the greatness of speech is described. This is what Sāyaṇa here explains by घटादिद्रव्याणि तत्तद्वाचकत्वेन निष्पादयंति (*ghaṭādidravyāṇi tattadvācakatvena niṣpādayaṃti*). This speech, whose nature is Śabda-brahman, is described by the epithets beginning with एकपदी (*ekapadī*).
+एकपदी—अव्याकृतत्वेन एकप्रतिष्ठाना एकरूपा वा आत्मना (*ekapadī—avyākṛtatvena ekapratiṣṭhānā ekarūpā vā ātmanā*): this Śabda-brahman exists in many forms in the manifested state; in the unmanifested state it is without a second and undivided. It has one form and one support. Hence the epithet ekapadī.
+
+### Printed p. 595
+*Running head: [೨. ೨ ಅ. ೩. ವ. ೨೨ ] ಋಗ್ವೇದಸಂಹಿತಾ 595] (as supplied).*
+
+द्विपदी—सुप्तिज्भेदेन पादद्वयवती (*dvipadī—suptijbhedena pādadvayavatī*): having two feet through the distinction of subanta and tiṅanta, that is, noun-words and verb-words.
+चतुष्पदी—नामाख्यातोपसर्गनिपातभेदेन (*catuṣpadī—nāmākhyātopasarganipātabhedena*): having the four divisions, noun, verb, preverb and particle.
+तद्यान्येतानि चत्वारि पदजातानि नामाख्याते चोपसर्गनिपाताश्च तानीमानि भवंति (*tadyānyetāni catvāri padajātāni nāmākhyāte copasarganipātāśca tānīmāni bhavaṃti*) (2. 2-1, as supplied)
+In this way the Nirukta author has explained the natures of nouns and the rest.
+अष्टापदी-आमंत्रितसहिताष्टभेदेन (*aṣṭāpadī-āmaṃtritasahitāṣṭabhedena*)—having eight case-endings together with the vocative.
+नवपदी (*navapadī*)—speech combined with the indeclinable and consisting of the eight case-endings: this is one meaning. Or: speech that arises in nine places, the navel, the chest, the throat and so on, and then spreads endlessly (सहस्राक्षरा (*sahasrākṣarā*)): this is another meaning.
+For this speech, which has the form of Śabda-brahman, the space of the heart is the root. The purport is that, arising or becoming manifest from this root, it pervades the universe. परमे व्योमन् (*parame vyoman*) is explained as उत्कृष्टे हृदयाकाशे (*utkṛṣṭe hṛdayākāśe*). The space of the heart, the root of Śabda-brahman, is described in the Upaniṣads as follows.
+यावान् वा अयमाकाशस्तावानेषोऽंतर्हृदय आकाश उभे आस्मिन् द्यावापृथिवी अंतरेव समाहिते उभावग्निश्च वायुश्च सूर‍्याचंद्रमसावुभौ विद्युन्नक्षत्राणि यच्चास्येहास्ति यच्च नास्ति सर्वं तदस्मिन् समाहितमिति (*yāvān vā ayamākāśastāvāneṣo 'ṃtarhṛdaya ākāśa ubhe āsmin dyāvāpṛthivī aṃtareva samāhite ubhāvagniśca vāyuśca sūryācaṃdramasāvubhau vidyunnakṣatrāṇi yaccāsyehāsti yacca nāsti sarvaṃ tadasmin samāhitamiti*) (Chā. U. 8-1-3)
+In this body, the city of Brahman, there is a subtle dwelling in the form of a lotus. That is the space of the heart. It is the abode of Brahman. One must search for it and there see the principle of Brahman (Chā. U. 8-1-1). The nature of this subtle inner space, which holds within it the Brahman principle greater than the universe, is this: as widely as the outer space extends, so widely this space of the heart extends. In it both heaven and earth are spread; moreover wind and fire, moon and sun, lightning, the stars, and everything, whether it is contained within the body or not, are contained in this small space (Chā. 8-1-3). The Taittirīya Upaniṣad says of this very thing,
+
+### Printed p. 596
+*Running head: 596 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨ ಸೂ ೧೬೪] (as supplied).*
+
+दह्रं विपापं परमेश्मभूतं यत्पुंडरीकं पुरमध्यसग्‌स्थं । तत्रापि दह्रं गगनं विशोकस्तस्मिन् यदंतस्तदुपासितव्यं (*dahraṃ vipāpaṃ parameśmabhūtaṃ yatpuṃḍarīkaṃ puramadhyasagsthaṃ | tatrāpi dahraṃ gaganaṃ viśokastasmin yadaṃtastadupāsitavyaṃ*) (Śrī 35. 4-1-3, as supplied)
+This space of the heart is exceedingly subtle and free from sin; it is an excellent dwelling. In the form of a lotus in the midst of the city that is the body, in this subtle heart there is a space still subtler, and the principle of Brahman that is contained in that space is to be worshipped: so the space of the heart is described.
+Sāyaṇa's commentary says that in the ṛk under consideration the relation of support and supported is stated between this space of the heart and speech whose nature is Śabda-brahman. The Chāndogya also states this same relation, showing that space is the root of speech, which is the root of the division into names and forms.
+आकाशो वै नाम नामरूपयोर्निवर्हिता ते यदंतरा तद्ब्रह्म तदमृतं स आत्मा (*ākāśo vai nāma nāmarūpayornivarhitā te yadaṃtarā tadbrahma tadamṛtaṃ sa ātmā*) (Chā. 31 8-14-1, as supplied)
+Space is the cause of making the individual division as names and forms. He who is within it is the supreme Brahman, the Supreme Self. Śaṅkarācārya quotes this sentence in the Dahara-adhikaraṇa section of his Brahmasūtra-bhāṣya and declares the identity of the supreme Brahman with this small space.
+प्रसिद्धेश्व—इतश्च परमेश्वर एव “ दहरोऽस्मिन्नंतराकाशः ” इत्युच्यते । यत्कारणमाकाशशब्दः परमेश्वरे प्रसिद्धः । “ आकाशो वै नाम .... .... .... स आत्मा ” “ सर्वाणि ह वा इमानि भूतान्याकाशादेव समुत्पद्यंते ” (छा. उ १-९-१) इत्यादि प्रयोगदर्शनात् (*prasiddheśva—itaśca parameśvara eva “ daharo 'sminnaṃtarākāśaḥ ” ityucyate | yatkāraṇamākāśaśabdaḥ parameśvare prasiddhaḥ | “ ākāśo vai nāma .... .... .... sa ātmā ” “ sarvāṇi ha vā imāni bhūtānyākāśādeva samutpadyaṃte ” (chā. u 1-9-1) ityādi prayogadarśanāt*) (Brahmasūtra-bhāṣya 1-3-17)
+This inner space of the heart is famous under the name of the Supreme Lord. Because space is the cause of the division into names and forms, which are the outer manifestations of the supreme Brahman, and because the Śruti sentences say that all these beings arise from space alone and so declare the identity of space with Brahman, the small space is well known in some places as the dwelling of Brahman and in others as having the form of Brahman itself.
+सा इयं शब्दब्रह्मात्मिका वाक् उत्कृष्टे हृदयाकाशे मूलाधारे सहस्राक्षरा अनेकाकारेण व्याप्ता भवतीत्यर्थः (*sā iyaṃ śabdabrahmātmikā vāk utkṛṣṭe hṛdayākāśe mūlādhāre sahasrākṣarā anekākāreṇa vyāptā bhavatītyarthaḥ*) (Sā. Bhā.)
+Sāyaṇa explains that the purport is: this speech, which has the form of Śabda-brahman, abiding in the root-support which is the highest space of the heart, takes immeasurable forms and pervades the universe.
+
+### Printed p. 597
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೨೨.] ಋಗ್ವೇದಸಂಹಿತಾ 597] (as supplied).*
+
+*[A garbled label stands here in the supplied text: ಸಂಹಕಾರಾ; the Vyākaraṇa-prakriyā (grammar) label is missing in the supplied text and the grammar paragraph follows.]*
+
+*Grammar (transcribed, not explained), Ṛk 41:*
+गौरी (*gaurī*)—the root गुज् अव्यक्ते शब्दे (*guj avyakte śabde*) ("to sound indistinctly"); by यज्रेंद्र (*yajreṃdra*) (Uṇ. Sū. 2-1-186) it is irregularly formed ending in the suffix rak. In the feminine, by गौरादिभ्यश्च (*gaurādibhyaśca*) the suffix ṅīṣ. By the suffix's accent it has the acute on the end. When a case ending follows, by the Vedic usage the elision does not occur; the ru-substitution and visarga.
+मिमाय (*mimāya*)—the root माज् माने शब्दे च (*māj māne śabde ca*), of the juhotyādi class; in the Veda liṭ, third person singular. The tiṅanta-nighāta accent occurs.
+सलिलानि (*salilāni*)—the root षलगतौ (*ṣalagatau*); सलति गच्छति निम्ममिति सलिलम् (*salati gacchati nimmamiti salilam*) *[as supplied]*; by सलिकल्यनिमहि (*salikalyanimahi*) (Uṇ. Sū. 1-54) the suffix ilac; by चितः (*citaḥ*) (Pā. Sū. 6-1-163) the acute on the end occurs. The form ends in the accusative plural.
+एकपदी (*ekapadī*)—in these four words (and others like them) there is a bahuvrīhi compound, so the accent of the first member's base occurs.
+द्विपदी (*dvipadī*)—by द्वित्रिभ्यां पाद् (*dvitribhyāṃ pād*) (Pā. Sū. 6-2-197) the acute on the first syllable of the final member occurs.
+बभूवुषी (*babhūvuṣī*)—the root भू सत्तायां (*bhū sattāyāṃ*); in the Veda the substitute kvasu for liṭ. In the feminine, by उगितश्च (*ugitaśca*) (Pā. Sū. 5-91-6, as supplied) the suffix ṅīp. Because it has the bha-designation, there is saṃprasāraṇa of va (by the rule beginning वसोः (*vasoḥ*)), and the earlier-form substitution for the following vowel. By शासिवसिघसीनां च (*śāsivasighasīnāṃ ca*) (Pā. Sū. 8-3-60) the s becomes ṣ. By भुवोवुकल्ज्लिटोः (*bhuvovukaljliṭoḥ*) (Pā. Sū. 6-4-88) the augment vuk. By the accent of vasu, the u is acute.
+व्योमन् (*vyoman*)—by सुपांसुलुक् (*supāṃsuluk*) (Pā. Sū. 7-1-34, as supplied) the locative is elided (luk). ‖ 41 ‖
+
+#### Ṛk 42
+
+**॥ संहितापाठः ॥**
+
+> तस्याः॑ समु॒द्रा अधि॒ वि क्ष॑रंति॒ तेन॑ जीवंति प्र॒दिश॒श्चत॑स्रः ।
+> ततः॑ क्षरत्य॒क्षरं॒ तद्विश्व॒मुप॑ जीवति ॥ ४२ ॥
+
+> *tasyāḥ samudrā adhi vi kṣaraṃti tena jīvaṃti pradiśaścatasraḥ |*
+> *tataḥ kṣaratyakṣaraṃ tadviśvamupa jīvati ‖ 42 ‖*
+
+### Printed p. 598
+*Running head: 598 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+**॥ पदपाठः ॥**
+
+> तस्याः । समुद्राः । अधि । वि । क्षरंति । तेन । जीवंति । प्रदिशः । चतस्रः ।
+> ततः । क्षरति । अक्षरं । तत् । विश्वं । उप । जीवति ॥ ४२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तस्या उक्ताया गोः सकाशात्समुद्रा वृष्ट्युदकसमुंदनाधिकरणभूता
+> मेघा अध्यधिकं प्रभूतमुदकं नि क्षरंति । विविधं क्षरंति । तेनोदकेन प्रदिशश्च तस्रः ।
+> प्रशब्दो वीत्यर्थः । विदिशश्च तस्रो दिशश्च । अथवा प्रकृष्टा दिशो मुख्याश्च तस्रः ।
+> तत्स्थेषु ताच्छब्दं । तत्साः पुरुषा जीवंति । ततः पश्चात्तदक्षरमुदकं क्षरति ।
+> सस्यादिकमुत्पादयतीत्यर्थः । तत् सस्यादिकं विश्वं जगदुप जीवति । अयमपि
+> यास्केन व्याख्यातः । तस्याः समुद्रा अधिविक्षरंति वर्षंति मेघास्तेन जीवंति दिगाश्रयाणि भूतानि ततः क्षरत्यक्षरमुदकं तत्सर्वाणि भूतान्युपजीवंति । नि. ११-४१ । इति ॥
+
+*[garbled label in the supplied text, before the Pratipadārtha label: ಪ್ರ,ತಿಪದಾರ್ಥ]*
+
+*Gist:* From that cow the clouds pour abundant water; the people of the four quarters live by it; the water then nourishes crops; Yāska's Nirukta is cited.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+तस्याः (*tasyāḥ*)—from the Mādhyamikā speech described above; समुद्राः (*samudrāḥ*)—the clouds; अधि (*adhi*)—abundantly; वि क्षरंति (*vi kṣaraṃti*)—pour down (rain); तेन (*tena*)—by that; प्रदिशश्चतस्रः (*pradiśaścatasraḥ*)—the creatures that are in the four quarters; जीवंति (*jīvaṃti*)—live; ततः (*tataḥ*)—thereafter; अक्षरं (*akṣaraṃ*)—water; क्षरति (*kṣarati*)—spreads (to plants and the like); तत् (*tat*)—the plants and the like; विश्वं (*viśvaṃ*)—the entire world also; उप जीवति (*upa jīvati*)—lives by its support.
+
+**भावार्थ (Bhāvārtha)**
+From Mādhyamikā Vāk the clouds pour down rain abundantly. By it the creatures in the four quarters live. Thereafter the water spreads to the plants and the like. The entire world, the plants and the rest also, lives by its support.
+
+**Printed English**
+From her the clouds shed abundant rain, and thence (the pople [sic] of) the four quarters live: thence the moisture spreads (to the grain), and the universe exists.
+
 ---
 
-**Progress note:** Done through printed p. 592. Mu. U. quotations ending Ṛk 39 commentary; Ṛk 40 (sūyavasāt) and Ṛk 41 (gaurīr mimāya) begun
+**Progress note:** Done through printed p. 598. Ṛk 41 Special Topics (Nirukta, Bṛhadāraṇyaka, Chāndogya on Vāk and hṛdayākāśa) and grammar; Ṛk 42 (tasyāḥ samudrā)
