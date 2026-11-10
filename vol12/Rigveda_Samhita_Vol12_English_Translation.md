@@ -11888,6 +11888,107 @@ The gods, by the help of their praise in the form of stoma, made Agni, who perva
 
 *[as supplied: "ಅಥವಾ ಇಲ್ಲಿ ಲುಪ್ತೋಪಮೆಯನ್ನು…", "ಪ್ರಕ್ಷಿಸತೀತಿ", "ಮೆಘೇಽಧಿಶ್ರಿತಾ", "ಕುತ್ರೆ", "ಔಷಧ್ಯಾದಿ", "ಇಲ್ಲಿಯಾ ಸಹ", "ದೆವತೆಯು" are kept as printed; the quotation "ಸ ಚ ಆದಿತ್ಯವ್ಯಾಪಾರ ಇತ್ಯತ್ತಮಲಿಂಗತ್ವಂ" has "ಇತ್ಯತ್ತಮ" where the bhāṣya block has "ಇತ್ಯುತ್ತಮ". The Ṛk is cut at the end of p. 484 in the print ("ಅಂತರಿಕ್ಷನ" …) and continues in the next window.]*
 
+### Printed p. 485
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೧೯. ] Ṛgveda-saṃhitā 485 (as supplied).*
+
+*[the sentence from the previous page is completed here.]* … and in the heaven-world shines in these three forms, terrestrial fire, lightning and Āditya, as it is said; Sāyaṇa has explained that the same point is stated in the present Ṛk also.
+
+On the whole, two kinds of explanation have been given for this Ṛk. In stating the worldly meaning, the worldly cow and her calf are pointed to, their mutual affection is described, and it is explained that by their mutual sounds and echoes she shows an affection greater than the love of human beings. Second, in stating the hidden meaning of the Ṛk, it is told that by the descriptions such as "ayaṃ sa śiṅkte yena gaur abhīvṛtā" two persons are not indicated; that all the descriptions here refer to one deity and indicate only the differences of form of that one deity; and that by the world-protecting actions of that deity all beings, human beings and the rest, bow down. In this connection, while mentioning incidentally the special experiences of Śākapūṇi, Sāyaṇa, however difficult the subject, has set out even the technical discussion very fully in his own natural and excellent style. The description of the present Ṛk is one of the many occasions that show that, though there is difference of form among the deities named in the Ṛk-saṃhitā, there is unity in principle. From the spiritual point of view, what is the nature of this deity? What connection is there between the action that is the means of knowledge and this knowledge of the deity that is to be accomplished by action? What kind of action is pointed to here? What is the special character of that action? It is quite necessary to understand this.
+
+प्रवर्ग्ये घर्मधुगाह्वानकाले ' उप ह्वये ' इत्यादिके द्वे ऋचौ (*pravargye gharmadhugāhvānakāle ' upa hvaye ' ityādike dve ṛcau*): the two Ṛks beginning उप ह्वये सुदुघां धेनुमेतामिति द्वे (*upa hvaye sudughāṃ dhenumetāmiti dve*) (Āśv. Śrau. 4-7), since it is set out so in the sūtra. प्रवर्ग्येभिष्टवे दोहनसमये वत्से मातुः सकाशादपनीयमाने " गौरमीमेत् " इत्येषा (*pravargyebhiṣṭave dohanasamaye vatse mātuḥ sakāśādapanīyamāne " gauramīmet " ityeṣā*). And it is set out: गौरमीमेदनु वत्सं मिषंतं नमसेदुप सीदत (*gauramīmedanu vatsaṃ miṣaṃtaṃ namasedupa sīdata*) (Āśv. Śrau. 4-7). That is, Āśvalāyana has told the application of these Ṛks: the Ṛks in this very sūkta, उपह्वये सुदुघां (*upahvaye sudughāṃ*) (26), हिज्क्ण्वती (*hijkṇvatī*) (27) [as printed] and गौरमीमेत् (*gauramīmet*) (28), are to be recited at the time of the Pravargya sacrifice, which is a part of the Soma sacrifice. What is the importance of that Pravargya sacrifice? What is the real meaning of these mantras used there? This is chiefly what must be understood.
+
+**The nature and importance of the Pravargya sacrifice** *(printed "ಪ್ರವರ್ಗಯಾಗದ")*
+
+उप ह्वये सुदुघां धेनुमेतां सुहस्तो गोधुगुत दोहदेनां । श्रेष्ठं सवं सविता साविषन्नोऽभीद्वो घर्मस्तदु षु प्र वोचं (*upa hvaye sudughāṃ dhenumetāṃ suhasto godhuguta dohadenāṃ | śreṣṭhaṃ savaṃ savitā sāviṣanno 'bhīdvo gharmastadu ṣu pra vocaṃ*) (Ṛ. Saṃ. 1-164-26)
+
+*[as supplied: the reference "(ಋ. ಸಂ. ೧-೧೬೪-೨೬)" is printed twice, on two consecutive lines; the word "ಹಿಜ್ಕ್ಣ್ವತೀ" for "ಹಿಂಕೃಣ್ವತೀ" are kept as printed; the sūtra reference is printed "ಆಶ್ವ. ಶ್ರೌ." and "ಅಶ್ವ. ಶ್ರೌ." in turn.]*
+
+### Printed p. 486
+*Running head: 486 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+In the Ṛk "upa hvaye" the words श्रेष्ठं सवं (*śreṣṭhaṃ savaṃ*) are given the meaning "the praiseworthy Soma sacrifice", and घर्मः (*gharmaḥ*) the meaning Pravargya. It is told that "let the Pravargya be kindled for the excellent Soma sacrifice", that the Pravargya is a limb of the Soma sacrifice, and that as its limb it is the action that precedes it. From the explanation of the Śrauta Sūtras also it is understood that the Pravargya is not a principal and independent rite. But if the praise of this Pravargya sacrifice stated in the Taittirīya Āraṇyaka and in the Brāhmaṇas such as the Śatapatha is examined, it is clear that it is praised as the rite that is the head of all rites, just as the head is the chief limb of the whole body. If the sacrifice is to obtain the real fruit of the sacrifice, the performance of this rite, which is of the form of the head, is quite necessary. A story that tells its importance, that without the performance of this rite the fruit of the sacrifice is not obtained at all, is told in the Taittirīya Āraṇyaka.
+
+तग्गस्तृतं देवतास्त्रेधा व्यगृह्णत । अग्निः प्रातःसवनं । इंद्रो माध्यंदिनग्ं सवनं । विश्वे देवास्तृतीयसवनं । तेनापशीर्ष्णा यज्ञेन यजमानाः । नाशिषोवारुंधत । न सुवर्गं लोकमभ्यजयन् (*taggastṛtaṃ devatāstredhā vyagṛhṇata | agniḥ prātaḥsavanaṃ | iṃdro mādhyaṃdinagṃ savanaṃ | viśve devāstṛtīyasavanaṃ | tenāpaśīrṣṇā yajñena yajamānāḥ | nāśiṣovāruṃdhata | na suvargaṃ lokamabhyajayan*) (printed "ಶ್ರೀ. ಆ. ೫-೮-೬")
+
+As described in the Aitareya Brāhmaṇa beginning यज्ञो वै देवेभ्य उदक्रामत् (*yajño vai devebhya udakrāmat*), when the sacrifice in the form of the Pravargya was injured by the gods, the gods Agni and the rest, in the headless sacrifice called Pravargya, took, Agni the morning pressing, Indra the midday pressing, and the Viśvedevas the third pressing. Even so, because this sacrifice, called Pravargya and being the head of the sacrifices, was invisible there, the gods could not obtain the fruit of the sacrifice that they desired. They could not obtain the heaven-world either. Then,
+
+ते देवा अश्विनावब्रुहन् । भिषजौ वै स्थः । इदं यज्ञस्य शिरः प्रतिधत्तमिति । शावब्रूतां वरं वृणावहै । ग्रह एव नावत्रापि गृह्यतामिति । ताभ्यामेतमाश्विनमगृह्णन् । तावेतद्यज्ञस्य शिरः प्रत्यधत्तां । यत्पवर्ग्यः । तेन सशीर्ष्णा यज्ञेन यजमानाः । अवाशिषोऽरुंधत । अभि सुवर्गं लोकमजयन् (*te devā aśvināvabruhan | bhiṣajau vai sthaḥ | idaṃ yajñasya śiraḥ pratidhattamiti | śāvabrūtāṃ varaṃ vṛṇāvahai | graha eva nāvatrāpi gṛhyatāmiti | tābhyāmetamāśvinamagṛhṇan | tāvetadyajñasya śiraḥ pratyadhattāṃ | yatpavargyaḥ | tena saśīrṣṇā yajñena yajamānāḥ | avāśiṣo 'ruṃdhata | abhi suvargaṃ lokamajayan*) (printed "ತ್ರೈ. ಆ. ೫-೧-೬, ೭")
+
+Those gods approached the Aśvin deities, the physicians of the gods, and prayed, "You are physicians. Join again the Pravargya, the head of the sacrifice, to the body of the sacrifice consisting of the three pressings." Then they obtained for themselves also the right to a share in the fruit of the sacrifice, and carried out the prayer of the gods.
+
+### Printed p. 487
+*Running head: [ಅ. ೨. ಅ. ೪ ವ. ೧೯.] Ṛgveda-saṃhitā 487 (as supplied).*
+
+Then, having again obtained the sacrifice provided with its head, the gods obtained what they desired. Having told this earlier story, he then says,
+
+यत्प्रवर्ग्यं प्रवृणक्ति । यज्ञस्यैव तच्छिरः प्रतिदधाति । तेन सशीर्ष्णा यज्ञेन यजमानः । अवाशिषो रुंधे । अभि सुवर्गं लोकं जयति । तस्मादेष आश्विनप्रवया इव (*yatpravargyaṃ pravṛṇakti | yajñasyaiva tacchiraḥ pratidadhāti | tena saśīrṣṇā yajñena yajamānaḥ | avāśiṣo ruṃdhe | abhi suvargaṃ lokaṃ jayati | tasmādeṣa āśvinapravayā iva*) and then the words यत्प्रवर्ग्यः (*yatpravargyaḥ*) (Tai. Ā. 5-1-7)
+
+Thus the sacrificer accomplishes what he desires, and obtains the heaven-world, by the performance of the rite called Pravargya, which even the gods worshipped as the chief; so its greatness is praised. Because the Aśvin mantras and the pre-eminence of the Aśvin deities are chief at the time of this rite, it also has the alternative name आश्विनप्रवयाः (*āśvinapravayāḥ*). This very point is told in the 27th Ṛk of this same sūkta:
+
+दुहामश्विभ्यां पयो अघ्न्येयं सा वर्धतां महते सौभगाय (*duhāmaśvibhyāṃ payo aghnyeyaṃ sā vardhatāṃ mahate saubhagāya*) (Ṛ. Saṃ. 1-164-27)
+
+Therefore, though the Pravargya is reckoned as a subsidiary sacrifice, its pre-eminence is very great. The alternative name Gharma is well known for it. Therefore in the 26th Ṛk of the present sūkta अभीद्दो घर्मः (*abhīddo gharmaḥ*) [as printed] stands as a word denoting Gharma. What is the reason that this name came? What is meant here by gauḥ and vatsa? What is the secret of the praise of Āditya in the mantras connected with the Pravargya such as अपश्यं गोपां (*apaśyaṃ gopāṃ*) (printed "೧-೧೪-೩೧")? These and the like must be examined.
+
+Since the Taittirīya Āraṇyaka and the Śatapatha Brāhmaṇa have told the rule of this Pravargya sacrifice fully, one can, after examining closely the order of its rule, know who the real deity addressed in this sacrifice is, and what its pre-eminence is from the point of view of the rite and from the spiritual point of view. The order of its performance is told in the Taittirīya Āraṇyaka (4th prapāṭhaka; printed "ತೈತ್ತಿರೀಯಾಣ್ಯಕದಲ್ಲಿ") in this way.
+
+The recital of peace for it begins with the mantras नमो वाचे याचोदिता (*namo vāce yācoditā*) (Pr. 4, Anu. 1). Afterwards the mantras for making the Mahāvīra, युंजते मन उत युंजते धियः (*yuṃjate mana uta yuṃjate dhiyaḥ*) (4-2), are recited [as printed "ಪರಿತವಾಗುತ್ತವೆ"]. In this it is told that the Ṛtvijs and others who take part in the sacrifice should withdraw from the objects of sense and obtain purity of self. In commenting on this anuvāka Sāyaṇa quotes the sentences of the fifth prapāṭhaka that give the explanation of the words Pravargya, Gharma, Mahāvīra and Samrāṭ, and explains the meanings of these words.
+
+### Printed p. 488
+*Running head: 488 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied; the Maṇḍala number is missing in the print).*
+
+स धनुः प्रतिष्कभ्यातिष्ठत् । ता उपदीका अब्रुवन्वरं वृणामहै । अध व इमग् रंधयाम ! यत्र क्व च खनाम। तदपोऽभितृणदामेति। तस्मादुपदीका यत्र क्व च खनंति । तदपोऽभितृंदंति । वारे वृतग्गहासां । तस्य ज्यामप्यादन्! तस्य धनुर्विप्रवमाणग्ं शिर उदवर्तयत्। तद्दावापृथिवी अनुप्रावर्तत। यत्पावर्तत। तत्प्रवर्ग्यस्य प्रवर्ग्यत्वं। तद्घ्रांळि इत्यपतत्। तद्धर्मस्य घर्मत्वं । महतो वीर्यमपस्तदिति। तन्महावीरस्य महावीरत्वं । यदस्याः समभरन् । तत्सम्राज्ञः सम्राट्त्वं (*sa dhanuḥ pratiṣkabhyātiṣṭhat | tā upadīkā abruvanvaraṃ vṛṇāmahai | adha va imag raṃdhayāma ! yatra kva ca khanāma| tadapo 'bhitṛṇadāmeti| tasmādupadīkā yatra kva ca khanaṃti | tadapo 'bhitṛṃdaṃti | vāre vṛtaggahāsāṃ | tasya jyāmapyādan! tasya dhanurvipravamāṇagṃ śira udavartayat| taddāvāpṛthivī anuprāvartata| yatpāvartata| tatpravargyasya pravargyatvaṃ| tadghrāṃḷi ityapatat| taddharmasya gharmatvaṃ | mahato vīryamapastaditi| tanmahāvīrasya mahāvīratvaṃ | yadasyāḥ samabharan | tatsamrājñaḥ samrāṭtvaṃ*) (printed "ತೈ. ಆ. ೫-೧-೪, ೫, ೬")
+
+In this explanation a scene of a story is indicated, and then the famous matter of the names Gharma and the rest is told. As it is told in the Śatapatha Brāhmaṇa, this scene of the story is as follows. Indra and the others performed a sattra in the divine sacrificial region called Kurukṣetra. Then, when the matter arose of deciding who among them was the greatest, it was decided that whoever first obtains the end of the sacrifice by austerity, by faith and by the performance of sacrifice should be reckoned the greatest; Viṣṇu won in that contest. Then Viṣṇu was reckoned the greatest. The pride that naturally comes from such a victory also took hold of Viṣṇu. Filled with self-pride, Viṣṇu took his bow, strung it, took three arrows in his hand and rested his head on the tip of his bow; none of the gods could face him, and all sat down around him. Then, to put an end to his pride, the gods approached the worms in the form of ants (vamri) and asked them to cut the string of his bow; and they cut the string of Viṣṇu's bow. (It is Indra himself who cut it in the form of an ant; in the Taittirīya Āraṇyaka there is तस्येंद्रो वम्रिरूपेण । धनुर्ज्यामभिनत्स्वयं (*tasyeṃdro vamrirūpeṇa | dhanurjyāmabhinatsvayaṃ*).) Then the tip of the bow sprang upward and Viṣṇu's head was cut off. When the string of the bow was cut, तद्फृज्जिति पपात (*tadphṛjjiti papāta*): it fell with the sound "ghṛṇ", and therefore the name Gharma became famous for it. Because the bow, which had been contracted, spread out and flew as soon as the string was cut, the name Pravargya became famous for it. Because the gods said, "Our Mahāvīra has fallen", the name Mahāvīra came to the sacrificial vessel. In this way it is told how these names came.
+
+In the same section, that is, in the story-passage where the mantras for making the Mahāvīra are recited, beginning युंजते मन (*yuṃjate mana*) …. …. (as printed; Tai. Ā. 4-2),
+
+### Printed p. 489
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೯ ] Ṛgveda-saṃhitā 489 (as supplied).*
+
+मखस्य शिर इत्याह । यज्ञो वै मखः (*makhasya śira ityāha | yajño vai makhaḥ*) (printed "ತೈ. ಆ. ೫-೩-೭")
+
+by quoting the part of these sentences in which the Pravarga is praised as the head of all sacrifices, its importance is told. Afterwards,
+
+वृष्णो अश्वस्य निष्पदसि । वरुणस्त्वा धृतव्रत अधूपयतु (*vṛṣṇo aśvasya niṣpadasi | varuṇastvā dhṛtavrata adhūpayatu*) (printed "ತೈ. ಆ" and then "ಕೃ. ಆ. ೪-೩-೧")
+
+the order of the consecration of the Mahāvīra, beginning with this mantra, is told. In the same section, by the mantras beginning सूर्यस्य त्वा चक्षुषान्वीक्षे (*sūryasya tvā cakṣuṣānvīkṣe*), the connection between the Pravargya and Āditya is told. By the prayer-mantras and the rest such as
+
+ब्रह्मन् प्रवर्ज्येण प्रचरिष्यामः । होतर्घर्ममभिष्टुहि (*brahman pravarjyeṇa pracariṣyāmaḥ | hotargharmamabhiṣṭuhi*) (printed "ಕೃ. ಅ. ೪-೪-೧")
+
+and by the mantras of setting up the Mahāvīra such as
+
+ब्रह्मन् प्रचरिष्यामः । होतर्घर्ममभिष्टुहि (*brahman pracariṣyāmaḥ | hotargharmamabhiṣṭuhi*) (printed "ಕೃ. ಅ. ೮-೫-೧")
+
+the setting up of the Pravarga is accomplished. In the section of its invocation, the brilliance of the Pravarga, indicated by the description अभीद्धः (*abhīddhaḥ*) in the 26th Ṛk of the present sūkta, is described.
+
+रोचितस्त्वं देव घर्म देवेष्वसि । रोचिषीयाहं मनुष्येषु । सम्राट् घर्मरुचितस्त्वं देवेष्वायुष्माग्स्तेजस्वी ब्रह्मवर्चस्यसि (*rocitastvaṃ deva gharma deveṣvasi | rociṣīyāhaṃ manuṣyeṣu | samrāṭ gharmarucitastvaṃ deveṣvāyuṣmāgstejasvī brahmavarcasyasi*) (printed "ಕೃ. ಆ. ೪-೬-೨")
+
+"O Mahāvīra, shining among the gods you have shown your great qualities; you are the Samrāṭ; shine with the same brilliance among human beings also": in this way he is praised. Afterwards, as praised in the 31st Ṛk of this same sūkta, the mantras for looking at the Mahāvīra are recited, beginning अपश्यं गोपामनिपद्यमानं (*apaśyaṃ gopāmanipadyamānaṃ*). After the rule has thus been fully carried out,
+
+एतत्त्वं देव घर्म देवो देवानुपागाः । इदमहं मनुष्यो मनुष्यान् । सोमपीथानु मेहि । सह प्रजया सह रायस्पोषेण । सुमित्रा न अप ओषधयः संतु (*etattvaṃ deva gharma devo devānupāgāḥ | idamahaṃ manuṣyo manuṣyān | somapīthānu mehi | saha prajayā saha rāyaspoṣeṇa | sumitrā na apa oṣadhayaḥ saṃtu*) (printed "ಕೃ. ಆ ೪-೧೨೮")
+
+### Printed p. 490
+*Running head: 490 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ.೧೬೪.] (as supplied).*
+
+in prayer-mantras such as these, prosperity of wealth is prayed for. At the time of such a Pravarga sacrifice, it is told in the Aitareya Brāhmaṇa that the eulogy is to be recited with the mantras
+
+उपह्वये सुदुघां धेनुमेतां हिंकृण्वती वसुपत्नी वसूनामभित्वा देव सवितः .... इत्येकविंशतिरभिरूपा यद्यज्ञेऽभिरूपं तत्समृद्धं (*upahvaye sudughāṃ dhenumetāṃ hiṃkṛṇvatī vasupatnī vasūnāmabhitvā deva savitaḥ .... ityekaviṃśatirabhirūpā yadyajñe 'bhirūpaṃ tatsamṛddhaṃ*) (Ai. Brā. 1-22)
+
+These are twenty-one Ṛks in all. Among them are included the 26th, 27th, 28th and 31st Ṛks in the present sūkta. In the explanation of each Ṛk it is told that the chief deity addressed in these four Ṛks also can be said to be Āditya. The connection between Gharma and Āditya has also been told before. In the Śatapatha and other works it is told that this Mahāvīra is the representative of Āditya, that the milk filled in it is the divine stream of the life of the universe, and that by the brilliance of this Āditya the sacrificer too makes his own nature shining. And,
+
+आयुरेतज्योतिः प्रविशति य एतमनु वा ब्रूते भक्षयति वातस्य व्रतचर्या या सृष्टौ (*āyuretajyotiḥ praviśati ya etamanu vā brūte bhakṣayati vātasya vratacaryā yā sṛṣṭau*) (printed "ಶ. ಬ್ರಾ. ೧೪-೩-೨-೩೧", with a stray closing quotation mark)
+
+The sacrificer who performs this sacrifice called Pravargya, who teaches its greatness to others, and who takes a full part in it, joins the light of Āditya and becomes himself of the nature of light. And, leaving his earthly nature, he obtains a new creation, and by that creation obtained by his good action he obtains a divine body and wins divinity: thus the greatness of the Pravarga is praised.
+
+**Vyākaraṇa-prakriyā** (grammatical procedure)
+
+*Grammar (transcribed, not explained):*
+- शिंक्ते (*śiṃkte*)—root शिजि अव्यक्ते शब्दे (*śiji avyakte śabde*), of the adādi class. laṭ (printed "ಲಟ್"), third person singular form. Because it is idit, the num augment. The tiṅanta-nighāta accent results.
+- अभिवृता (*abhivṛtā*)—root वृञ् वरणे (*vṛñ varaṇe*); in the passive, by निष्ठा (*niṣṭhā*) the suffix kta. In the feminine, because it ends in a, ṭāp. By गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the gati (abhi) keeps its own accent.
+- मायुम् (*māyum*)—root माज् माने शब्देच (*māj māne śabdeca*); by the taking of bahula the suffix uṇ. By आतो युक्चिण् कृतोः (*āto yukciṇ kṛtoḥ*) the yuk augment for the root. By the suffix accent it becomes end-udātta. *(the printed grammar of this Ṛk continues on the next page.)*
+
+*[as supplied: the printed "ಶ್ರೀ. ಆ.", "ತ್ರೈ. ಆ.", "ತೈ. ಆ.", "ಕೃ. ಆ.", "ಕೃ. ಅ.", "ಶ. ಬ್ರಾ." references are kept as printed, with the variants "ಆಶ್ವ./ಅಶ್ವ. ಶ್ರೌ."; the bhāṣya-quotations carry printed misspellings such as "ತಗ್ಗಸ್ತೃತಂ", "ಯತ್ಪವರ್ಗ್ಯಃ", "ಗ್ರಾಂಳಿ", "ಜ್ಯಾಮಪ್ಯಾದನ್!", "ಸವಿಾಪಿಸಿ", "ವಮ್ರಿ" which are kept as printed.]*
+
 ---
 
-**Progress note:** Done through printed p. 484. Ṛk 29 bhāṣya end, pratipadārtha, bhāvārtha, Nirukta and Śākapūṇi discussion (begun)
+**Progress note:** Done through printed p. 490. Ṛk 29 Special Topics: Pravargya, Taittirīya Āraṇyaka and Śatapatha accounts; grammar begun
