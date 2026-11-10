@@ -1949,6 +1949,96 @@ In many such places it is shown, by repeating it again and again, that the exist
 
 *Note (the Sanskrit grammar is only transcribed):* the Kannada analyses उरुव्यचसा (*uruvyacasā*) (root व्यच (*vyaca*), Uṇādi suffix *asi*; the rule cited as "ಕಾ. ೧-೨-೧-೧", as printed; the accent by Pā. Sū. 6-2-199; सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39), महिनी (*mahinī*) (root मह (*maha*), suffix *inan*), असश्चता (*asaścatā*) (root षस्थ (*ṣastha*) *[so printed]*; नञ्सुभ्याम् (*nañsubhyām*) Pā. Sū. 6-2-172), रक्षतः (*rakṣataḥ*), सुधृष्टमे (*sudhṛṣṭame*), वपुष्ये (*vapuṣye*) and आवासयत् (*āvāsayat*) (root वस (*vasa*), *ṇic*, initial vṛddhi, imperfect in the Vedic language), with the accents; the analysis may continue on the next page.
 
+### Printed p. 69
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೩. ] Ṛgveda-saṃhitā, p. 69 (as supplied).* (The grammar of Ṛk 2 ends.)
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada ends the analysis of the last verb of the Ṛk (begun on p. 68) with the remarks that, because of the connection with the relative word, the verb accent does not occur, and that, the augment being udātta, the first syllable is udātta; it ends with the mark ॥ ೨ ॥.
+
+#### Ṛk 3
+
+*[The Saṃhitā and Pada of this Ṛk are printed as ordinary lines, not as blocks, in the supplied text; their labels are garbled ("। ಸಂಹಶಾಪಾದಿ ।" and "೧ ಪದಪಾಠ ೧"). The standard labels are inserted, the garbled lines kept in kn.md as notes, and the lines made blocks.]*
+
+**॥ संहितापाठः ॥**
+
+> स वह्निः॑ पु॒त्रः पि॒त्रोः प॒वित्र॑वान्पु॒नाति॒ धीरो॒ भुव॑नानि॒॑
+> मायया ।
+> धे॒नुं च॒ पृश्निं॑ वृष॒भं सु॒रेत॑सं वि॒श्वाहा॑ शु॒क्रं पयो॑
+> अस्य दुक्षत ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । वह्निः । पुत्रः । पित्रोः । पवित्रवान् । पुनाति । धीरः । भुवनानि । मायया ।
+> धेनुं । च । पृश्निं । वृषभं । सुरेतसं । विश्वाहा । शुक्रं । पयः । अस्य । धुक्षत ॥३॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> पित्रोर्मातापित्रोर्द्यावापृथिव्योः ॥ पिता मात्रेति पिता शिष्यते । उदात्तयण इति पितुर्विभक्तिरुदात्ता ॥ पुत्रः पुरुत्राता पुत्रस्थानीय आदित्यः पवित्रवान्
+> पावनरश्मियुक्तो धीरो धीमान् स वह्निः फलस्य वोढा धारकः सन्मयया
+> प्रज्ञया स्वकीयया भुवनानि भूतजातानि पुनाति । पावयति । प्रकाशयतीत्यर्थः ।
+> किंच स एव पुत्रः पृश्चिं शुक्लवर्णां धेनुं प्रीणयित्रीं भूमिं सुरेतसं शोभनसामर्थ्यं शोभनोदकं वा वृषभं सेक्तारं द्युलोकं च मायया पुनाति ।
+> प्रकाशयतीत्यर्थः । कदा । विश्वाहा सर्वाण्यप्यहानि । सर्वकालमित्यर्थः ॥ किंचास्य
+> म्युलोकस्य । यद्वा ॥ कर्मणि षष्ठी ॥ इमं द्युलोकं । शुक्रं पयो दीप्तं
+> पयःसदृशमुदकं धुक्षत । दोग्धि ॥ दुहेश्छांदसे । लुजः शल इगुपधादनिटः क्ष इति
+> च्छेः क्सादेशः ॥ ईदृशो महानुभाव आदित्यस्तयोः पुत्र इति द्यावापृथिव्योः स्तुतिः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Āditya, son of Heaven and Earth, wise, bearer of fruit, purifies the worlds by his wisdom and daily milks bright, milk-like water from the sky.]*
+
+### Printed p. 70
+
+*Running head: 70 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 160.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पित्रोः (*pitroḥ*)—of the parents (of the whole world), Heaven and Earth; पुत्रः (*putraḥ*)—who is in the position of a son; वह्निः (*vahniḥ*)—the bearer of fruit; ववित्रवान् (*vavitravān*) *[so printed for ಪವಿತ್ರವಾನ್]*—who has pure rays; धीरः सः (*dhīraḥ saḥ*)—the wise Āditya; मायया (*māyayā*)—by his wisdom; भुवनानि (*bhuvanāni*)—all the worlds; पुनाति (*punāti*)—illuminates and makes pure. (स एव (*sa eva*)—he himself) प्रश्निं (*praśniṃ*) *[so printed for ಪೃಶ್ನಿಂ]*—the white-coloured; धेनुं (*dhenuṃ*)—the delighting one, the Earth; सुरेतसं (*suretasaṃ*)—of excellent capacity; वृषभं (*vṛṣabhaṃ*)—the heaven-world, which pours rain and the like (he makes pure); विश्वाहा (*viśvāhā*)—every day; अस्य (*asya*)—of this heaven-world (from the heaven-world); शुक्रं (*śukraṃ*)—shining; पयः (*payaḥ*)—water that resembles milk; धुक्षतः (*dhukṣataḥ*) *[so printed]*—milks.
+
+**भावार्थ (Bhāvārtha)**
+
+Āditya, who is in the position of a son of Heaven and Earth, the parents of the whole world, who bears the fruit, has pure rays and is wise, illuminates all the worlds by his wisdom and makes them pure. He also purifies the white-coloured, delighting Earth, and the heaven-world, of excellent capacity, which pours rain and the like. Every day he milks from this heaven-world water that is shining and resembles milk.
+
+*[Printed heading "English Tranlation" [sic].]*
+
+**Printed English translation**
+
+The pure and the resolute son of (these) parents, the bearer (of rewards sanctifies the worlds by his intelligence; as well as the milch-cow (the earth), and the vigorous bull (the heaven), and daily milks the pellucid milk (of the sky).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पित्रोः पुत्रः (*pitroḥ putraḥ*)—In this ṛk, describing the great qualities of Āditya, it is indicated that the greatness of Heaven and Earth, his parents, must be greater still. पिता मात्रेति पिता शिष्यते (*pitā mātreti pitā śiṣyate*): it is said that if the two words *pitṛ* and *mātṛ* are combined, the single compound word *pitā* remains. It is said in many places that Heaven and Earth are the parents of Āditya, or that Āditya is the son of heaven: दिवस्पुत्राय सूर्याय शंसत (*divasputrāya sūryāya śaṃsata*) (Ṛ. Saṃ. 10-37-1); and not only is it said of Sūrya alone that they are his parents, but also
+
+### Printed p. 71
+
+*Running head: [ಅ. ೨ ಅ. ೩. ನ. ೩. ] Ṛgveda-saṃhitā, p. 71 (printed "ನ. ೩." for "ವ. ೩."; as supplied).*
+
+य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । (*ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā |*)
+
+(Ṛ. Saṃ. 10-110-9)
+
+in many such ṛks it is said that Heaven and Earth are the producers of the whole world; this is indicated here by the word पित्रोः (*pitroḥ*). Their son Āditya, मायया—भुवनानि पुनाति— (*māyayā—bhuvanāni punāti—*) "purifies the worlds by wisdom". Here the word माया (*māyā*) must be taken to mean wisdom. मायेति प्रज्ञानाम । (*māyeti prajñānāma |*) माया (*māyā*) वयुनं इति तन्नामसु पाठात् । (*vayunaṃ iti tannāmasu pāṭhāt |*) (Ni. 3-13). The authors of the Nirukta, quoting the ṛk माया मू तु यज्ञियानां (*māyā mū tu yajñiyānāṃ*) (Ṛ. Saṃ. 10-88-6) and explaining स एव प्रज्ञां तैतां मन्यंते (*sa eva prajñāṃ taitāṃ manyaṃte*) *[so printed]*, have shown that the word माया (*māyā*) has the meaning "wisdom" (Ni. 7-27). Moreover, quoting the ṛk विश्वा हि माया (*viśvā hi māyā*) अवसि स्वधावः (*avasi svadhāvaḥ*) (Ṛ. Saṃ. 6-58-1) they explained it as "wisdom" there too (Ni. 12-17). But in ṛks such as नि मायिनो दानवस्य (*ni māyino dānavasya*) (Ṛ. Saṃ. 2-11-10), with मायाविनः दानवस्य वंचनानि (*māyāvinaḥ dānavasya vaṃcanāni*), the meanings "trickery" and "deceit" occur as well. In the present ṛk the purport is that Āditya purified the worlds by his wisdom.
+
+धीरः (*dhīraḥ*)—धीमान् । (*dhīmān |*) Because he is wise, this epithet too is there. Ordinarily the meaning "courageous" is established for the word धीर (*dhīra*); but in the Vedas and the Upaniṣads too it is given the meaning धीमान् (*dhīmān*) (धीरो धीमान् (*dhīro dhīmān*), Ni. 3-12); this word is read among the names of the wise (Ni. 3-9). Even if धीर (*dhīra*) is explained as "courage", the purport is "one who has courage", since the wise man, having conquered fear, is fearless, and calm in mind even in times of calamity, and has other such qualities.
+
+युवा सवासाः परिवीत आगात्स उ श्रेयान्भवति जायमानः । (*yuvā savāsāḥ parivīta āgātsa u śreyānbhavati jāyamānaḥ |*)
+तं धीरासः कवय उन्नयंति स्वाध्यो ३ मनसा देवयंतः ॥ (*taṃ dhīrāsaḥ kavaya unnayaṃti svādhyo 3 manasā devayaṃtaḥ ‖*)
+
+(Ṛ. Saṃ. 3-8-4)
+
+and in such ṛks, and in
+
+श्रेयश्च प्रेयश्च मनुष्यमेतस्ता संपरीत्य विविनक्ति धीरः । (*śreyaśca preyaśca manuṣyametastā saṃparītya vivinakti dhīraḥ |*)
+श्रेयो हि धीरोऽभिप्रेयसो वृणीते प्रेयो मंदो योगक्षेमा- (*śreyo hi dhīro 'bhipreyaso vṛṇīte preyo maṃdo yogakṣemā-*)
+द्वृणीते ॥ (*dvṛṇīte ‖*)
+
+(ಕರ. 2-2) *[abbreviation "ಕರ." as printed, not expanded]*
+
+महांतं विभुमात्मानं मत्वा धीरो न शोचति । (*mahāṃtaṃ vibhumātmānaṃ matvā dhīro na śocati |*)
+
+(ಕರ. 5-4) *[as printed]*
+
+*[The text of p. 71 ends here with this quotation and its reference; the remarks that follow are in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 68 (PDF 68). Sūkta 160 Ṛk 1 grammar end; Ṛk 2 complete (Saṃhitā to Special Topics), grammar start
+**Progress note:** Done through printed p. 71 (PDF 71). Sūkta 160 Ṛk 2 grammar end; Ṛk 3 complete to Special Topics (māyayā, dhīraḥ)
