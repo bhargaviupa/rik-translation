@@ -873,6 +873,131 @@ In sentences such as this the word गर (*gara*) is explained as an intoxicati
 
 Dīrghatamas, son of Mamatā, through the favour of the Aśvin deities, experienced a happy life for the yugas of his life, and when the tenth yuga had passed, he became one with a body weakened by old age… *[the supplied text of p. 32 breaks off here, in the middle of the sentence ("ಶಿಥಿಲಿತವಾದ", "weakened"); the Bhāvārtha continues on p. 33, in the next window]*
 
+### Printed p. 33
+
+*Running head: [ಅ. ೨. ಆ. ೩. ವ. ೨.] Ṛgveda-saṃhitā, p. 33 (printed so: "ವ. ೨." although Ṛk 6 is in Varga 1; as supplied).* (The Bhāvārtha of Ṛk 6, begun at the foot of p. 32, continues.)
+
+*[The sentence begun on p. 32 continues with "ದೇಹವುಳ್ಳವನಾದನು", "became one with a body (weakened by old age)".]* From his excellent life, he obtained the position of Brahman, a helper in performing rites so that the desired objects are fulfilled for all the people who, expecting fruit, perform sacrifices and the like. As there is a charioteer to drive a chariot, he became capable of conducting sacrifices and the rest. *[The final syllable of "ಅದನು" is on the last line of the page: "ಆದವನಾಗಿ / ಅದನು", as supplied.]*
+
+**Printed English translation**
+
+Dirghatamas, the son of Mamata, has grown old after the tenth yuga (has passed): he is the Brahma of those who seek to obtain the object of their (pious) works: he is their chariotcer [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Dīrghatamas, who had become unable to lead even an ordinary life, overcame, with the help of the Aśvin deities, all the kinds of calamity that had befallen him, and not only enjoyed for a very long time a life full of happiness, with the wealth of sons, grandsons and so on, but also, by his excellent life, in which he performed sacred rites accompanied by faith and devotion, obtained the position of Brahman, the leader of all sacrificers: thus his worth is told.
+
+ब्रह्मा (*brahmā*)—ब्रह्मसदृशः परिवृढो भवति । (*brahmasadṛśaḥ parivṛḍho bhavati |*) "He became one with power equal to Brahman." What this power is, the authors of the Nirukta (explain), citing this reasoning *[the supplied "ದಹರಿಸಿ" stands for "ಉದಹರಿಸಿ"]* from the ṛk
+
+ऋचां त्वः पोषमास्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु । (*ṛcāṃ tvaḥ poṣamāste pupuṣvān gāyatraṃ tvo gāyati śakvarīṣu |*)
+ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां वि मिमीत उ त्वः ॥ (*brahmā tvo vadati jātavidyāṃ yajñasya mātrāṃ vi mimīta u tvaḥ ‖*)
+
+(Ṛ. Saṃ. 10-21-11)
+
+and explaining the nature of the position of Brahman:
+
+ब्रह्मैको जाते जाते विद्यां वदति । ब्रह्मा सर्वविद्यः सर्वं वेदितुमर्हति । (*brahmaiko jāte jāte vidyāṃ vadati | brahmā sarvavidyaḥ sarvaṃ veditumarhati |*)
+ब्रह्मा परिवृळ्हः श्रुततो ब्रह्म परिवृळ्हं सर्वतः ॥ (*brahmā parivṛḷhaḥ śrutato brahma parivṛḷhaṃ sarvataḥ ‖*)
+
+(Ni. 1-8)
+
+"Brahman (being a knower) expounds the truths of all things; he is one who knows all. Because he knows the truth he is the most excellent of all": thus the authors of the Nirukta have stated the high worth of Brahman. It is said that Dīrghatamas obtained such a position.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada begins with मामतेयः (*māmateyaḥ*) (suffix *ḍhak*; *eya* substituted by Pā. Sū. 7-1-2; initial vṛddhi by Pā. Sū. 7-2-118, and loss of the ā by Pā. Sū. 6-8-148, all as printed) and, on the next page, जुजुर्वान् (*jujurvān*) (root जृष् (*jṛṣ*), perfect, *kvasu* by Pā. Sū. 3-2-107), दतमे (*datame*) *[so printed for ದಶಮೇ]* (suffix *maṭ* by Pā. Sū. 5-2-49), अपाम् (*apām*) (Pā. Sū. 6-1-171) and यतीनाम् (*yatīnām*) (root इण् (*iṇ*); Pā. Sū. 6-1-81, 4-1-6 and 6-1-173), with the accents; it ends with the mark ॥ ೬ ॥.
+
+### Printed p. 34
+
+*Running head: 34 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22 (printed "ಆ ೨೨"), Sū. 159 (as supplied: the head is already that of the next sūkta). In the supplied text this head is merged into the text after two stray signature lines ("[3] Vol. 12", printed twice at the foot of p. 33); the page marker is inserted in kn.md.*
+
+*Here the "fifteenth" sūkta is ended: "ಇಲ್ಲಿಗೆ ೧೫ನೇ ಸೂಕ್ತವು ಮುಗಿದುದು." (printed so; Sūkta 158 is meant). A line of ornament follows: "________:0:_______".*
+
+## Sūkta 159 (Maṇḍala 1)
+
+*"ನೂರ ಇವತ್ತೊಂಭನೆತ್ತಯ ಸೂಕ್ತವು" — printed so (garbled; "the hundred and fifty-ninth sūkta").*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; the sense is in the Anuvāda below):
+
+> प्र द्यावेति पंचर्चं तृतीयं सूक्तं दैर्घतमसं जागतं द्यावापृथिव्यं ।
+> अनुक्रांतं च। प्र द्यावा पंच द्यावापृथिव्यं तु जागतं त्विति ॥ अग्निष्टोमे पृष्ठस्य
+> षष्ठेऽहनि च द्यावापृथिव्यनिविद्वानमेतत्तूक्तं । तथा च सूत्रं ! प्र द्यावेति दैर्घततमसं । आ. ५-१८ । इति ॥ आद्या द्यावापृथिव्ये पशौ हविषो याज्या । तथा च सूत्रितं ।
+> प्र द्यावा यज्ञैः पृथिवी ऋतावृधा मृळा नो रुद्रोत नो मयस्कृधीति द्वै ।
+> आ ३-८ । इति ॥
+
+> *pra dyāveti paṃcarcaṃ tṛtīyaṃ sūktaṃ dairghatamasaṃ jāgataṃ dyāvāpṛthivyaṃ |*
+> *anukrāṃtaṃ ca| pra dyāvā paṃca dyāvāpṛthivyaṃ tu jāgataṃ tviti ‖ agniṣṭome pṛṣṭhasya*
+> *ṣaṣṭhe 'hani ca dyāvāpṛthivyanividvānametattūktaṃ | tathā ca sūtraṃ ! pra dyāveti dairghatatamasaṃ | ā. 5-18 | iti ‖ ādyā dyāvāpṛthivye paśau haviṣo yājyā | tathā ca sūtritaṃ |*
+> *pra dyāvā yajñaiḥ pṛthivī ṛtāvṛdhā mṛḷā no rudrota no mayaskṛdhīti dvai |*
+> *ā 3-8 | iti ‖*
+
+**Anuvāda (Kannada).** The sūkta beginning प्र द्यावा (*pra dyāvā*) is the third sūkta in the twenty-second anuvāka. It has five ṛks. The seer of this sūkta is Dīrghatamas, son of Ucathya (printed "ಉಚಧ್ಯ", as supplied). Heaven and Earth are the deity. The metre is *jagatī*. In the Anukramaṇikā it is said: प्र द्यावा पंच द्यावा (*pra dyāvā paṃca dyāvā*)
+
+### Printed p. 35
+
+*Running head: [ಅ. ೨. ಅ. ೩ ವ ೨ ] Ṛgveda-saṃhitā, p. 35 (as supplied).*
+
+पृथिव्यं तु जागतं तु (*pṛthivyaṃ tu jāgataṃ tu*) *[the Anukramaṇikā words are broken across the page, "ದ್ಯಾವಾ-ಪೃಥಿವ್ಯಂ"; the supplied text has "ತು" twice where the Sanskrit of the introduction has "ತ್ವಿತಿ"]*. In the Agniṣṭoma sacrifice called Pṛṣṭha, the application of this sūkta is in the recitation of the *nivid-dhāna* mantra related to Heaven and Earth on the sixth day, as determined by the sūtra प्र द्यावेति दैर्घतमसं (*pra dyāveti dairghatamasaṃ*) of the Āśvalāyana Śrauta-sūtra (Ā. 5-18). And in the animal sacrifice, in the oblation made to the deities Heaven and Earth, the first ṛk of this sūkta is to be used as the *yājyā* mantra, as laid down by the sūtra of the Āśvalāyana Śrauta-sūtra
+
+प्र द्यावा यज्ञैः पृथिवी ऋतावृधा मृळा नो रुद्रोत नो मयस्कृधीति द्वे (*pra dyāvā yajñaiḥ pṛthivī ṛtāvṛdhā mṛḷā no rudrota no mayaskṛdhīti dve*)
+
+(Ā. 3-8)
+
+**Sūkta—159**
+
+*[Om sign ("॥ ಓಂ ॥") printed above the sūkta number, left out here and in the Kannada-script file as a sign only.]*
+
+Maṇḍala 1 ‖ Anuvāka 22 ‖ Sūkta 159 ‖
+Aṣṭaka 2 ‖ Adhyāya 3 ‖ Varga 2 ‖
+Number of ṛks in the Sūkta: 5 ·
+Ṛṣi: Dīrghatamas Aucathya · Devatā: Heaven and Earth (द्यावापृथिवौ (*dyāvāpṛthivau*)) · Chandas: *jagatī*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र द्यावा॑ य॒ज्ञैः पृ॑थि॒वी ऋ॑ता॒वृधा॑ म॒ही स्तु॑षे वि॒दथे॑षु॒॑
+> प्रचे॑तसा ।
+> दे॒वेभि॒र्ये दे॒वपु॑त्रे सु॒दंस॑से॒त्था धि॒या वार्या॑णि॒॑
+> प्रभूषतः ॥ १ ॥
+
+> *pra dyāvā yajñaiḥ pṛthivī ṛtāvṛdhā mahī stuṣe vidatheṣu*
+> *pracetasā |*
+> *devebhirye devaputre sudaṃsasetthā dhiyā vāryāṇi*
+> *prabhūṣataḥ ‖ 1 ‖*
+
+### Printed p. 36
+
+*Running head: 36 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159.*
+
+**॥ पदपाठः ॥**
+
+*[The label line is garbled in the supplied text ("ಪದರಃ") and stands as the first line of the Pada block; the standard label is inserted and the garbled line kept in kn.md as a note. The Pada text is kept as supplied (e.g. "ಋತ್ತ್ವವೃಧಾ").]*
+
+> प्र । द्यावा । यज्ञैः । पृथिवी इति । ऋत्त्ववृधा । मही इति । स्तुषे । विदथेषु ।
+> प्रचेतसा ।
+> देवेभिः । ये इति । देवपुत्रे इति देवपुत्रे । सुदंससा । इत्था । धिया ।
+> वार्याणि । प्रभूषतः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[In the bhāṣya a Latin "s" stood for the avagraha ("ಕೋs-ತಿಶಯ"); it is written letter for letter as ಽ in kn.md, and the hyphenated line breaks in the block are joined. The word "ಯತಾವೃಧಾ" in the block is printed so, as supplied.]*
+
+> द्यावा पृथिवी द्यावापृथिव्यौ ॥ दिवो द्यावेति द्यानादेश आमृदात्तः । प्रथिवीशब्दो जीषंतोऽंतोदात्तः । देवताद्वंद्वे चेत्युभयपदप्रकृतिस्वरत्वं । समासमध्ये पदांतरपाठश्चांदसः ॥ अहं यजमानो यज्ञैर्यागैस्तत्पदानैर्निमित्तभूतैर्हविष्प्रदानार्थं प्र स्तुषे । प्रकर्षेण सौमि ॥ पुरुषव्यत्ययः । कीवृशौ ते ।
+> यतावृधा यज्ञस्य वर्धयित्र्यौ मही महत्यौ विदथेषु यागेषु प्रचेतसा प्रकर्षणास्मांश्चेतयित्र्यौ आस्माभिश्चेतयितव्ये वा । ईदृश्यौ स्तुषे । अनयोः कोऽतिशय इति उच्यते । ये द्यावापृथिव्यौ देवेभिर्यजमानैर्देवपुत्रे देवा यजमानाः पुत्रस्थानीयाः शुश्रूषकाययोस्ते तादृश्यौ । यद्वा । देवेभिर्विशिष्टे
+> सुदंससा । दंस इति कर्मनाम । शोभनकर्मोपेते इत्था सत्यं । इत्येति सत्यनाम
+> सत्रेत्थेति तन्नामसु पाठात् । सत्यं धियास्मदनुग्रहबुद्ध्या वार्याणि वरणीयानि
+> धनान्यस्मभ्यं प्रभूषतः अलंकुरुतः । वत्त इत्यर्थः । यद्वा । वार्याणि हवींषि
+> धिया कर्मणा निमित्तेन कर्मसमाप्त्यर्थं प्रभूषतः प्रकर्षेण स्वीकुरुतः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): I praise great Heaven and Earth, who nurture the sacrifice; with gracious mind they accept our desired oblations or grant our desired wealth.]*
+
+*[The Pratipadārtha label is garbled in the supplied text ("ಕ್ರಿ,ತಿಪದಾರ್ಥ") and the Pratipadārtha sits inside the bhāṣya block; moved out, un-quoted, and the standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋतावृधा (*ṛtāvṛdhā*)—those who make the sacrifice increase; मही (*mahī*)—those of great form; विदथेषु (*vidatheṣu*)—in sacrifices; प्रचेतसा (*pracetasā*)—who give us consciousness, or who are to be worshipped by us with faith; द्यावापृथिवी (*dyāvāpṛthivī*)—the deities Heaven and Earth; यज्ञैः (*yajñaiḥ*)—with oblations and the like, which are the means of sacrifice, or for the sake of offering oblations; स्तुषे (*stuṣe*)—I praise. देवपुत्रे (*devaputre*)—having the sacrificers themselves as sons, or having the gods as sons. ये (*ye*)—which Heaven and Earth; देवेभिः (*devebhiḥ*)—performed by the sacrificers; सुदंससा (*sudaṃsasā*)—endowed with excellent works; इत्था (*itthā*)—certainly; धिया (*dhiyā*)—with a gracious mind; वार्याणि (*vāryāṇi*)—the desired oblations; प्रभूषतः (*prabhūṣataḥ*)—adorn, that is, accept. [Or वार्याणि (*vāryāṇi*)—the desired objects wished for by the sacrificers; प्रभूषतः (*prabhūṣataḥ*)—provide.]
+
 ---
 
-**Progress note:** Done through printed p. 32 (PDF 32). Sūkta 158 Ṛk 5 Special Topics end, grammar, Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha start
+**Progress note:** Done through printed p. 36 (PDF 36). Sūkta 158 end (Ṛk 6 Bhāvārtha, English, Special Topics, grammar); Sūkta 159 introduction, Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha
