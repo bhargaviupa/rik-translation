@@ -5,3 +5,6 @@
 - p. 4: Special Topics ends with Bṛhaddevatā verses (8 lines) that may continue on p. 5; the reference "ಬೃ. ವೇ. ೪-೨೬" (Bṛ. Ve.) not expanded: abbreviation to confirm with the user.
 - pp. 5-7: Bṛhaddevatā references printed "ಬೃ. ಪೇ. ೪-೧೧ರಿಂದ ೧೫" (p. 5, "ಪೇ" vs "ವೇ" on p. 4), "ಬೃಹದ್ದೇವತಾ ೪-೨೧ರಿಂದ ೨೫"; "ತ್ರೈ. ಉ- ೪-೧೬-೫" and "ಋ. ಸಂ. ೮ ೮-೨" (odd form) kept as supplied. Running head p. 7 prints "೨. ೨." for the Aṣṭaka.
 - p. 7: last line truncated in the supplied text ("…ತಾತ್ಪರವಾಗು"); continues on p. 8.
+- p. 8: first line continues the word broken at the end of p. 7 (ತಾತ್ಪರವಾಗು|ತ್ತದೆ). Ṛk 3-47-5 quotation ends with "ii" (for ॥), as supplied.
+- p. 9: stray ornament line ":੦:" after "॥ ೧ ॥" (contains Gurmukhi characters), kept as supplied in kn.md. Grammar page cites Pā. 7-1-39 and, for ūtī, 3-1-39 ("ಸುಪಾಂ ಸುಲುಕ್" both times), as supplied.
+- p. 10: Ṛk 2 Pada label garbled ("ಗದಗ ತಾ"), bhāṣya label garbled ("ಸಯಣಭಾಷ್ಯಂ"); fixed as for Ṛk 1. Running head prints "ಸೂ.೧೫೮.". Accent report: 1.158.2 DIFF (Saṃhitā as supplied differs from reference text).

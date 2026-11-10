@@ -183,6 +183,84 @@ in this ṛk the Aśvin deities are praised by the epithet गंभीरचे
 
 अकवाभिः (*akavābhiḥ*)—अकुत्सितैः (*akutsitaiḥ*) is explained as "not blameworthy, that is, not faulty", ऊतिभिः (*ūtibhiḥ*) "by protections"; the meaning is "worthy of praise". The word कव (*kava*), formed from the root कु (*ku*), which gives the sense of "blameworthy", (means) small, despised, faulty, "thus the purport become…" *[the supplied text breaks off here, at the end of printed p. 7, in the middle of the word "ತಾತ್ಪರವಾಗು"; the sentence continues on p. 8, in the next window]*
 
+### Printed p. 8
+
+*Running head: 8 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158.*
+
+*[Continuation of the word broken at the end of p. 7: ತಾತ್ಪರವಾಗು|ತ್ತದೆ, "the purport becomes (so)".]* From this root कु (*ku*) both the forms कव (*kava*) and कवारि (*kavāri*) are formed. The word कवारि (*kavāri*) ordinarily means a man who is exceedingly selfish, miserly, and who lives a despicable life without performing sacrifice.
+
+दैवी पूर्तिर्दक्षिणा देवयज्या न कवारिभ्यो नहि ते पृणंति । (*daivī pūrtirdakṣiṇā devayajyā na kavāribhyo nahi te pṛṇaṃti |*)
+अथा नरः प्रयतदक्षिणासोऽवद्यभिया बहवः पृणंति ॥ (*athā naraḥ prayatadakṣiṇāso 'vadyabhiyā bahavaḥ pṛṇaṃti ‖*)
+
+(Ṛ. Saṃ. 10-107-3)
+
+In this (ṛk) the word कवारिभ्यः (*kavāribhyaḥ*) has the meaning कुत्सितगंतृभ्यः (*kutsitagaṃtṛbhyaḥ*) अयष्टृभ्यः (*ayaṣṭṛbhyaḥ*), that is, selfish and miserly people who lead a despicable life without performing sacrifices and the like. This is one kind of usage of the word कवारि (*kavāri*).
+
+मरुत्वंतं वृषभं वावृधानमकवारिं दिव्यं शासमिंद्रं । (*marutvaṃtaṃ vṛṣabhaṃ vāvṛdhānamakavāriṃ divyaṃ śāsamiṃdraṃ |*)
+विश्वासाहमवसे नूतनायोग्रं सहोदामिह तं हुवेम ii (*viśvāsāhamavase nūtanāyograṃ sahodāmiha taṃ huvema ii*)
+
+(Ṛ. Saṃ. 3-47-5) *[the end of the second line is printed "ii" for the double danda, as supplied]*
+
+In this ṛk the word कव (*kava*) has the meaning "small, despised"; कवारि (*kavāri*) is a compound meaning "the enemy (*ari*) who is *kava*; a petty enemy". One who is not such a कवारि (*kavāri*) is आकवारि (*ākavāri*) *[so printed, with long ā]*, that is, an enemy with great power. Here this word is an epithet of Indra. The power of the demon Vṛtra is greater still; to subdue him the power of Indra, the enemy of Vṛtra, must be greater still, so this is an epithet showing Indra's valour. This is another kind of usage of the word कवार (*kavāra*) *[printed "ಕವಾರಯೆಂಬ ಪದ", as supplied]*.
+
+In the present ṛk too the word कव (*kava*) has the meaning "small". What is not *kava* is *akava*. By such *akava* protections, that is, by exceedingly great protections, is the meaning indicated by the words अकवाभिः (*akavābhiḥ*) ऊती (*ūtī*).
+
+दस्रा (*dasrā*)—अस्मद्विरोध्युपक्षपयितार् (*asmadvirodhyupakṣapayitār*) "those who harm and destroy our enemies": thus it describes the nature of the Aśvin deities. It was shown earlier that this word can have two meanings: destroyers of enemies, or those of beautiful form.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+वसू (*vasū*)—वसु अनयोः अस्ति इति वसू. (*vasu anayoḥ asti iti vasū.*) When the suffix *matup* comes, it is dropped in the Vedic language (*chāndasa*).
+
+### Printed p. 9
+
+*Running head: [ಅ ೨.ಅ. ೩ ವ. ೧.] Ṛgveda-saṃhitā, p. 9 (as supplied).*
+
+*Note on the grammar page (not rendered word for word, as the Sanskrit grammar is only transcribed):* the Kannada gives the grammatical analysis of रुद्रा (*rudrā*), पुरुमंतू (*purumaṃtū*), वृधंता (*vṛdhaṃtā*), दशस्यतम् (*daśasyatam*), दस्रा (*dasrā*), औचथ्यः (*aucathyaḥ*), सस्राथे (*sasrāthe*) and ऊती (*ūtī*): the suffix and accent of each form and the Vedic irregularities, citing the sūtras रोदेर्णिलुक् च (*roderṇiluk ca*) (Uṇ. Sū. 2-179), सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39 and, at the end for ūtī, Pā. Sū. 3-1-39, as supplied), कंड्वादिभ्यो यक् (*kaṃḍvādibhyo yak*) (Pā. Sū. 3-1-27), स्थायितंचिवंचि (*sthāyitaṃcivaṃci*) (Uṇ. Sū. 2-170), आमंत्रितस्य (*āmaṃtritasya*) (Pā. Sū. 6-1-198), तद्धितेष्टचामादेः (*taddhiteṣṭacāmādeḥ*) (Pā. Sū. 7-2-117), ऊतियूतिजूति (*ūtiyūtijūti*) (Pā. Sū. 3-3-97) and, for औचथ्यः (*aucathyaḥ*), Pā. Sū. 4-1-92. The page ends with the whole-ṛk mark ॥ ೧ ॥ and a stray ornament line ":੦:", kept as supplied.
+
+### Printed p. 10
+
+*Running head: 10 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158 (printed "ಸೂ.೧೫೮.").*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> को नां॑ दाशत्सुम॒तये॑ चिद॒स्यै वसू॒ यद्धेथे॒ नम॑सा॒
+> प॒दे गोः ।
+> जि॒गृ॒तम॒स्मे रे॒वतीः॒ पुरं॑धीः काम॒प्रेणे॑व॒ मन॑सा॒ चरं॑ता । ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+*[The label line is garbled in the supplied text ("ಗದಗ ತಾ") and sits inside the Saṃhitā block; the standard label is inserted and the garbled line kept in kn.md as a note.]*
+
+> कः । वां । दाशत् । सुमतये । चित् । अस्यै । वसू इति । यत् । धेथे इति । नमसा ।
+> पदे । गोः ।
+> जिगृतं । अस्मे इति । रेवतीः । पुरंधीः । कामप्रेण इव । मनसा । चरंता ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಸಯಣಭಾಷ್ಯಂ") and sits inside the block; moved out and the standard label inserted. Hyphenated line breaks inside the block are joined. The bhāṣya of this Ṛk is only transcribed; its gist is given with the Pratipadārtha, which follows on the next page.]*
+
+> हे वसू वासयितारावश्विन् नां युवयोः संबंधिन्या अस्यॆ वक्ष्यमाणरूपायै सुमतये चित् शोभनबुद्धै ! चित् पूजायामप्यर्थे ना । स्वल्वेनैव
+> हविषा महत्पलप्रदानरूपाया ईदृश्या अपि बुद्धै प्रीणनाय को दाशत् । को
+> वद्यात् । दातुं शक्नुयात् । युवयोः प्रभावस्यातिमहत्वादिति भावः ॥ दाशतेर्लेट्यडागमः ॥ कथं मतेः सौष्टवमिति तदुच्यते । यद्यस्मात्कारणाद्योः पदे
+> भूम्याः सर्वैर्गंतव्यायाः स्तुत्याया ना वेदिरूपायाः स्थाने । एतावती वै पृथिवी
+> यावती वेदिरिति श्रुतेः । गौरिति भूनाम । तथा च निरुक्तं । गौरिति पृथिव्या नामधेयं यद्दूरं गता भवति यच्चास्यां भूतानि गच्छंति गातेर्वौकारो नामकरणः ।
+> नि. २-५ । इति । तादृशे स्थानेऽस्माभिः प्रार्थितौ संतौ नमसा हविर्लक्षणेन यवमात्रप्रकारेणान्नेन धेथे धारयथो बहुप्रदानविषयां बुद्धिं !! दधातेर्लटि बहुलं
+> छंदसीति विकरणस्य लुक् । धातोर्ह्रस्वत्वं । आतो जितः । पा. ७-२-८१ । इतीयादेशः ॥ यस्मादेवं तस्मादस्मे अस्मभ्यं रेवतीः क्षीरादिधनवतीः पुरंधीः शरीरधारिकाः शरीराभिवृद्धि हेतूर्गा जिगृतं । शब्दयतं । दत्तमित्यर्थः ॥ गृ शब्दे । भांदसः
+> शपः श्लुः । अभ्यासस्यॆत्वं ह्रस्वत्वं च ii पुनस्तावेव विशेष्येते । कामप्रणेव । इवशब्द एवकारार्थः । कामपूरकेणैव मनसा सह चरंता चरंतौ । यजमानस्य कामाः
+> पूरणीया इति कृतसंकल्पावित्यर्थः ॥ प्रा पूरणे । कामं प्रातीति कामप्रः । आतोनुपसर्गे कः ॥
+
+> *he vasū vāsayitārāvaśvin nāṃ yuvayoḥ saṃbaṃdhinyā asyè vakṣyamāṇarūpāyai sumataye cit śobhanabuddhai ! cit pūjāyāmapyarthe nā | svalvenaiva*
+> *haviṣā mahatpalapradānarūpāyā īdṛśyā api buddhai prīṇanāya ko dāśat | ko*
+> *vadyāt | dātuṃ śaknuyāt | yuvayoḥ prabhāvasyātimahatvāditi bhāvaḥ ‖ dāśaterleṭyaḍāgamaḥ ‖ kathaṃ mateḥ sauṣṭavamiti taducyate | yadyasmātkāraṇādyoḥ pade*
+> *bhūmyāḥ sarvairgaṃtavyāyāḥ stutyāyā nā vedirūpāyāḥ sthāne | etāvatī vai pṛthivī*
+> *yāvatī vediriti śruteḥ | gauriti bhūnāma | tathā ca niruktaṃ | gauriti pṛthivyā nāmadheyaṃ yaddūraṃ gatā bhavati yaccāsyāṃ bhūtāni gacchaṃti gātervaukāro nāmakaraṇaḥ |*
+> *ni. 2-5 | iti | tādṛśe sthāne 'smābhiḥ prārthitau saṃtau namasā havirlakṣaṇena yavamātraprakāreṇānnena dhethe dhārayatho bahupradānaviṣayāṃ buddhiṃ !! dadhāterlaṭi bahulaṃ*
+> *chaṃdasīti vikaraṇasya luk | dhātorhrasvatvaṃ | āto jitaḥ | pā. 7-2-81 | itīyādeśaḥ ‖ yasmādevaṃ tasmādasme asmabhyaṃ revatīḥ kṣīrādidhanavatīḥ puraṃdhīḥ śarīradhārikāḥ śarīrābhivṛddhi hetūrgā jigṛtaṃ | śabdayataṃ | dattamityarthaḥ ‖ gṛ śabde | bhāṃdasaḥ*
+> *śapaḥ śluḥ | abhyāsasyètvaṃ hrasvatvaṃ ca ii punastāveva viśeṣyete | kāmapraṇeva | ivaśabda evakārārthaḥ | kāmapūrakeṇaiva manasā saha caraṃtā caraṃtau | yajamānasya kāmāḥ*
+> *pūraṇīyā iti kṛtasaṃkalpāvityarthaḥ ‖ prā pūraṇe | kāmaṃ prātīti kāmapraḥ | ātonupasarge kaḥ ‖*
+
 ---
 
-**Progress note:** Done through printed p. 7 (PDF 7). Sūkta 158 Special Topics (Bṛhaddevatā story, epithets vasū, rudrā, purumantū, rekṣaḥ, akavābhiḥ)
+**Progress note:** Done through printed p. 10 (PDF 10). Sūkta 158 Special Topics end (kavāri, dasrā), grammar pp. 8-9, Ṛk 2 Saṃhitā, Pada, bhāṣya
