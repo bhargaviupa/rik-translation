@@ -6727,6 +6727,175 @@ in this passage it has the meaning "attained". In some contexts it shows an extr
 
 पतॆयंतम् (*patèyaṃtam*) *[as supplied]*—पत (*pata*) गत् (*gat*) *[as supplied]*, a root of the *curādi* class. By सत्यापपाश (*satyāpapāśa*) (Pā. Sū. 3-1-15) the suffix ṇic in its own sense. Because it ends in a, the loss caused by ṇic. After the ṇijanta, for laṭ *[the entry is cut off at the end of the window and continues on the next page.]*
 
+### Printed p. 255
+*Running head: [ಅ. ೨ ಅ ೩. ಪ. ೧೨] ಋಗ್ವೇದಸಂಹಿತಾ 255] (as supplied).*
+
+*(Grammar of Ṛk 6, continuing the entry on the word printed ಪತೆಯಂತಮ್ from the previous page:)* the substitute śatṛ. The śap infix. Caused by śap, guṇa for ṇic; the substitute aya. When the second-case विकवचन (*vikavacana*) *[as supplied: ದ್ವಿತೀಯಾವಿಕವಚನ]* ending follows, because it is ug-marked the num augment. Since the *lasārvadhātuka* is unaccented, the root accent remains.
+
+पतंगम् (*pataṃgam*)—पत्ल्य (*patlya*) *[as supplied]* गत् (*gat*) *[as supplied]*, a root. By पतेरंगच् (*pateraṃgac*) (U. Sū. 1-116) the suffix aṅgac. By चितः (*citaḥ*) (Pā. Sū. 6-1-163) the final-acute accent results. A form ending in the accusative singular.
+
+अपश्यम् (*apaśyam*)—दृशिर् (*dṛśir*) प्रेक्षणे (*prekṣaṇe*) (in the sense of seeing), a root. In the Veda लज् (*laj*) (as supplied) in the present sense. A form ending in the first person singular. The *tiṅanta* *nighāta* accent results.
+
+सुगेभिः (*sugebhiḥ*)—गम्‌ल्य (*gamlya*) *[as supplied]* गतौ (*gatau*) (in the sense of going), a root. By सुदुरोरधिकरणे (*suduroradhikaraṇe*) the suffix ḍa. By the force of its being ḍ-marked, the loss of the ṭi (av) of the root. The suffix accent results. By बहुलं छंदसि (*bahulaṃ chaṃdasi*), because the substitution of ais for bhis is optional, the e-substitution.
+
+अरेणुभिः (*areṇubhiḥ*)—न विद्यंते रेणवः येषु ते (*na vidyaṃte reṇavaḥ yeṣu te*) (those in which there are no dusts). अरेणवः (*areṇavaḥ*), तैः (*taiḥ*). By नञ्सुभ्याम् (*nañsubhyām*) the final-acute accent of the latter member results.
+
+जेहमानम् (*jehamānam*)—जेहृ (*jehṛ*) प्रयत्ने (*prayatne*) (in the sense of striving), a root of the *bhvādi* class. Because it is anudātta-marked (it has anudātta ṭ), by अनुदात्तजित आत्मनेपदम् (*anudāttajita ātmanepadam*) *[as supplied]* (Pā. Sū. 1-3-12) the ātmanepada results. For laṭ the substitute śānac. The śap infix. By आनेमुक् (*ānemuk*) (Pā. Sū. 7-2-82) the muk augment. By तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-189) *[number as supplied]* the *lasārvadhātuka* is unaccented, so the root accent remains. ‖ 6 ‖
+
+*[stray line as supplied: This image contains a decorative graphic or ornament and does not contain any transcribable text.]*
+
+*[as supplied: the label "ಕಂಠಪಾಠಿ" stands here, where the Saṃhitā-pāṭha label belongs; the script replaced it.]*
+
+#### Ṛk 7
+**॥ संहितापाठः ॥**
+> अत्रा॑ ते रू॒पमु॑त्त॒मम॑पश्यं॒ जिगी॑षमाणमि॒ष आ प॒दे
+> गोः ।
+> य॒दा ते॒ मर्तो॒ अनु॒ भोग॒मान॒ळादिद्ग्रसि॑ष्ठ॒ ओष॑धीरजीगः ॥ ७ ॥
+
+> *atrā te rūpamuttamamapaśyaṃ jigīṣamāṇamiṣa ā pade*
+> *goḥ |*
+> *yadā te marto anu bhogamānaḷādidgrasiṣṭha oṣadhīrajīgaḥ ‖ 7 ‖*
+
+### Printed p. 256
+*Running head: 256 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ೮. ೨೨, ಸೂ. ೧೬೩] (as supplied).*
+
+*[as supplied: the label "ಟಡದಿ" stands here, where the Pada-pāṭha label belongs; the script replaced it.]*
+
+**॥ पदपाठः ॥**
+> अत्र । ते । रूपं । उत्कतमं । अपश्यं । जिगीषमाणं । इषः । आ । पदे । गोः ।
+> यदा । ते । मर्तः । अनु । भोगं । आनट् । आत् । इत् । ग्रसिष्यः । ओषधीः ।
+> अजीगरिति ॥ ७ ॥
+*[as supplied: the label "ಶಾಯುಘಭಾಷ್ಯಂ" stands here, where the Sāyaṇa-bhāṣya label belongs; the script replaced it.]*
+
+**॥ सायणभाष्यम् ॥**
+> एवं गमनानंतरं हे अश्व ते तवोत्तममुक्तरूपेणोत्कृष्टतमं रूपमत्रास्मिन्यागदेशेऽपश्यं । पश्यामि । कीदृशं । गोर्भूम्याः पदे स्थाने देवस्थाने
+> देवयजनप्रदेश आजिधावनस्थाने वेषः ॥ कर्मणि षष्ठि ॥ इषमिष्यमाणमन्नमन्नानि
+> वा आ सर्वतो जिगीषमाणं गंतुमिच्छंतं । हे अश्व ते तव यदा मर्तो
+> मनुष्टो भोगं भोक्तव्यमन्नमन्वानट् ॥ नशतिर्गतिकर्मा ॥ अनुक्रमेण
+> समीपं गमयति । आदिदनंतरं तदानीमेव तदनुग्रहाद्विलंबमकृत्वा ग्रसिष्टो
+> महातृष्णयेव ग्रसितृतमो भक्षयितृतमः सन्नोषधीरन्नान्यजीगः । गिरसि । भक्षयसि ।
+> महानुभावोऽपि त्वं लौकिकाश्ववत्तुच्छेन पुरुषेण दीयमानं स्वल्पं भक्ष्यमनुग्रहात्स्वीकरोषीत्यर्थः ॥
+*Gist:* I see here at the sacrificial ground your finest form, eager to get food; when a man brings you food in order, you at once devour it greedily.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(अश्व (*aśva*)-O horse) गोः (*goḥ*)-of the earth; पदे (*pade*)-in the sacrificial ground; इषः (*iṣaḥ*)-food; आ (*ā*)-all around; जिगीषमाणं (*jigīṣamāṇaṃ*)-desirous of obtaining; ते (*te*)-your; उत्तमं (*uttamaṃ*)-excellent; रूपं (*rūpaṃ*)-form; अत्र (*atra*)-in this sacrificial place; अपश्यं (*apaśyaṃ*)-I see (and); ते (*te*)-your; मर्तः (*martaḥ*)-(servant) man; यदा (*yadā*)-when; भोगं (*bhogaṃ*)-the enjoyable food; अनु आनट् (*anu ānaṭ*)-brings and offers in order; आदित् (*ādit*)-at that very moment; ग्रसिष्ठः (*grasiṣṭhaḥ*) (it), in eager haste to eat; ओषधीः (*oṣadhīḥ*)-the foods; अजीगः (*ajīgaḥ*)-you devour.
+
+**भावार्थ (Bhāvārtha)**
+O horse, I see in this sacrificial place your excellent form, desirous of obtaining food all around the sacrificial ground of the earth; and when your attendant, the man, brings you in order the food that is enjoyable to you and offers it to you, at that very moment you devour those foods in eager haste to eat them.
+
+### Printed p. 257
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೧೨] ಋಗ್ವೇದಸಂಹಿತಾ 257] (as supplied).*
+
+**Printed English**
+I behold your most excellent form coming eagerly to (receive) your food in your (holy) place of earth: when your attendant brings you nigh to the enjoyment (of the provender), therefore greedy, you devour the fodder.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+उत्तमं रूपं अपश्यं (*uttamaṃ rūpaṃ apaśyaṃ*)—this is a mantra to be recited at the time of the Prakramāhuti. In the Prakramāhuti the form of the horse, and the oblation corresponding to it, is to be offered. Therefore he announces "I behold your excellent form". Since it is established that the sacrifice is not complete unless an oblation corresponding to this form of the horse is offered, this Prakramāhuti is a prescribed rite. First the nature of this oblation is described, and afterwards it is examined what the form of the horse is that is fit to receive this oblation.
+
+यथा वै हविषोऽहुतस्य स्कंदेत् । एवमेतत्पशोः स्कंदति यं प्रोक्षितमनालब्धमुत्सृजंति यद्रूपाणि जुहोति सर्वहुतमेवैनं जुहोत्यस्कंदायस्कन्नग्ं .... .... .... .... .... एतानि वा अश्वस्य रूपाणि तान्येवावरुंधे (*yathā vai haviṣo 'hutasya skaṃdet | evametatpaśoḥ skaṃdati yaṃ prokṣitamanālabdhamutsṛjaṃti yadrūpāṇi juhoti sarvahutamevainaṃ juhotyaskaṃdāyaskannagṃ .... .... .... .... .... etāni vā aśvasya rūpāṇi tānyevāvaruṃdhe*)
+(Śa. Brā. 13-1-5) *[abbreviation as printed: ಶ. ಬ್ರಾ.]*
+
+If, at the time of offering the oblation, some part falls outside the altar, the oblation is not complete. If this "form-oblation" is then offered, that deficiency is made good. The oblation is to be offered thus: हिंकाराय स्वाहा ; हिंकृताय स्वाहा (*hiṃkārāya svāhā ; hiṃkṛtāya svāhā*) and so on. These are the forms of the horse. There is also a discussion on this matter:
+
+तदाहुः । अनाहुतिर्वै रूपाणि नैना होतव्या इत्यथो खल्वाहुरत्र वा अश्वमेधः संतिष्ठते यद्रूपाणि जुहोति (*tadāhuḥ | anāhutirvai rūpāṇi nainā hotavyā ityatho khalvāhuratra vā aśvamedhaḥ saṃtiṣṭhate yadrūpāṇi juhoti*)
+(Śa. Brā. 13-1-3-6)
+
+Even those who say that this form-oblation is not needed at all, having learned its importance, admit that the Aśvamedha is completed only by performing it. But if it is asked what this form of the horse is, its description is as follows. This form of the horse, which is of the nature of the universe, was earlier described in
+
+असि यमो अस्यादित्यो अर्वन्नसि त्रितो गुह्येन व्रतेन । असि सोमेन समया विपृक्त आहुस्ते त्रीणि दिवि बंधनानि (*asi yamo asyādityo arvannasi trito guhyena vratena | asi somena samayā vipṛkta āhuste trīṇi divi baṃdhanāni*)
+(Ṛ. Saṃ. 1-163-3)
+*[printed here: "[17]" before the reference, and "Vol. 12]" as a stray footer line, as supplied.]*
+
+### Printed p. 258
+*Running head: 258 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩.] (as supplied).*
+
+and so on; it was thus shown that the horse has a form pervading the three worlds in the forms of Agni and the others. Not only that, but later also:
+
+तव शरीरं पतॆयिष्णर्वण्तव चित्तं वात इव ध्रजीमान् । तव शृंगाणि विष्ठिता पुरुत्रारण्येषु जर्भुराणा चरंति (*tava śarīraṃ patèyiṣṇarvaṇtava cittaṃ vāta iva dhrajīmān | tava śṛṃgāṇi viṣṭhitā purutrāraṇyeṣu jarbhurāṇā caraṃti*)
+(Ṛ. Saṃ. 1-163-11)
+
+In this passage the body of the horse, its mind, and the hairs that stand in the place of horns are described, and its form is praised. The nature of this description will be explained later.
+
+यदा ते मर्तः अनु भोगमानट् (*yadā te martaḥ anu bhogamānaṭ*)—"when the human attendant places before you the food that is enjoyable to you": the order of this is described in
+
+प्राजापत्योश्वः स्वयैवैनं देवतया समर्धयंति लाजी३इं ची ३ न्यव्ये गव्य इत्यतिरिक्तमन्नमश्वायोपावहरति (*prājāpatyośvaḥ svayaivainaṃ devatayā samardhayaṃti lājī3iṃ cī 3 nyavye gavya ityatiriktamannamaśvāyopāvaharati*)
+
+and similar passages, in which the foods to be offered to the horse are described.
+(Śa. Brā. 13-2-68)
+
+जिगीषमाणं (*jigīṣamāṇaṃ*)—this word has the conventional meaning जेतुमिच्छा (*jetumicchā*), "desirous of conquering". But that meaning is not here. Whenever this word occurs in the Ṛk-saṃhitā, the meaning is "desirous of obtaining" or "fit". For example:
+
+स्तुतासो नो मरुतो मृळयंतूत स्तुतो मघवा शंभविष्ठः । ऊर्ध्वा नः संतु कोम्या वनान्यहानि विश्वा मरुतो जिगीषा (*stutāso no maruto mṛḷayaṃtūta stuto maghavā śaṃbhaviṣṭhaḥ | ūrdhvā naḥ saṃtu komyā vanānyahāni viśvā maruto jigīṣā*)
+(Ṛ. Saṃ. 1-171-3)
+
+In this the favour of the Maruts is sought. Here for the word जिगीषा (*jigīṣā*) the explanation जिगीषितव्यानि प्राप्तव्यानि उत्तरत्रानुभूयमानानि (*jigīṣitavyāni prāptavyāni uttaratrānubhūyamānāni*) is given; the prayer is "give us all the desired objects that we are to obtain and to experience". Likewise in the present Ṛk also the intention is जिगीषमाणं गंतुमिच्छंतं (*jigīṣamāṇaṃ gaṃtumicchaṃtaṃ*), "desirous of obtaining".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+अत्र (*atra*)—by ऋचितुनुघ (*ṛcitunugha*) *[letters as supplied]* (Pā. Sū. 6-3-133) lengthening occurs in the Saṃhitā text.
+
+जिगीषमाणम् (*jigīṣamāṇam*)—जि (*ji*) जये (*jaye*) (in the sense of conquering), a root. By धातोः कर्मणः (*dhātoḥ karmaṇaḥ*) (Pā. Sū. 3-1-7) the suffix san in the sense of desire. By अज्ञनग (*ajñanaga*) (Pā. Sū. 6-4-16) lengthening of the root when san follows. By the sūtra सन्यजोः (*sanyajoḥ*) (Pā. Sū 6-1-9) reduplication of the root. Shortening of the reduplicative syllable. San. By लिटोर्जेः (*liṭorjeḥ*) (Pā. Sū. 7-3-57) the change to k of the root's j. By inversion, when laṭ comes after san, the substitute śānac. By आनेमुक् (*ānemuk*) the muk augment. The ṣatva, ṇatva and so on. By अभ्यस्तानामादिः (*abhyastānāmādiḥ*) (Pā. Sū. 6-1-189) the initial-acute accent results. A form ending in the accusative singular.
+
+### Printed p. 259
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೨ ] ಋಗ್ವೇದಸಂಹಿತಾ 259] (as supplied).*
+
+इषः (*iṣaḥ*)—a form ending in the genitive singular. By सावेकाचॆ (*sāvekācè*) *[as supplied]* (Pā Sū. 6-1-168) the udātta accent comes on the case-ending. The genitive has come in the sense of the object.
+
+आनट् (*ānaṭ*)—णश (*ṇaśa*) आदर्शने (*ādarśane*) (in the sense of non-appearance), a root. Here it is used in the sense of going. By छंदसि लुज् लज् लिटः (*chaṃdasi luj laj liṭaḥ*) (Pā. Sū. 3-4-7) लज् (*laj*) (as supplied) in the present sense. Third person singular, tip. Loss of the i. By बहुलं छंदसि (*bahulaṃ chaṃdasi*) the luk-elision of the vikaraṇa. By the sūtra व्रश्चभृस्थ (*vraścabhṛstha*) the ṣa-substitution for the root's ś. By the sūtra हल् ज्याभ्यो (*hal jyābhyo*) the loss of the suffix. In the Veda the stem takes the āṭ augment. For the word-final ś the jaś- and car-substitutions. Because of the connection with yat, the *nighāta* accent does not result. Since the āṭ augment is udātta, it becomes initial-acute.
+
+ग्रसिष्ठः (*grasiṣṭhaḥ*)—ग्रसु (*grasu*) अदने (*adane*) (in the sense of eating), a root. When tṛc comes in the agent sense, the form grasitṛ results. आतिशयेन ग्रसिता ग्रसिष्ठः (*ātiśayena grasitā grasiṣṭhaḥ*) (one who devours most is grasiṣṭha). By तुष्पंदसि (*tuṣpaṃdasi*) (Pā. Sū. 5-3-59) the suffix iṣṭhan in the sense of the superlative after a tṛ-ending. By तुरिष्टे मेयस्सु (*turiṣṭe meyassu*) (Pā. Sū. 6-4-154) the loss of tṛc when iṣṭhan follows. By इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169) the initial-acute accent results.
+
+ओषधीः (*oṣadhīḥ*)—ओषः पाकः आसु धीयते इति ओषधयः (*oṣaḥ pākaḥ āsu dhīyate iti oṣadhayaḥ*) (those in which ripening is held are *oṣadhis*). By कर्मण्यधिकरणे च (*karmaṇyadhikaraṇe ca*) (Pā. Sū. 3-3-93) the suffix ki after the root धाञ् (*dhāñ*). By आतो लोप इट च (*āto lopa iṭa ca*) (Pā. Sū. 6-4-64) the loss of the root's ā. When the feminine is intended, by कृदिकारादक्तिनः (*kṛdikārādaktinaḥ*) the suffix ṅīp. When śas follows it, the lengthening by homogeneous coalescence with the preceding vowel. Because it is read in the *dāsībhārādi* group, the accent of the base of the former member results. Since it is "ಘಇಂತ" *[as supplied]*, it becomes initial-acute.
+
+अजीगः (*ajīgaḥ*)—गृ (*gṛ*) निगणे (*nigaṇe*) *[as supplied]*, a root. In the Veda लज् (*laj*) (as supplied). By बहुलं छंदसि (*bahulaṃ chaṃdasi*) the substitute ślu for śap. Caused by ślu, reduplication of the root. By बहुलं छंदसि (*bahulaṃ chaṃdasi*) the i-substitution for the reduplicative syllable. Caused by sip, guṇa for the ik of the root, with a following r. By the sūtra हल् ज्याभ्यो (*hal jyābhyo*) the loss of sip. Visarga for the repha. By तुजादीनां दीर्घोS (*tujādīnāṃ dīrghoS*) (Pā Sū. 6-1-7) lengthening of the reduplicative syllable. For the stem, because it follows a non-finite verb, the *nighāta* accent results. ‖ 7 ‖
+
+*[as supplied: the label "ಕಂಠಪಾಠ. ಈ" stands here, where the Saṃhitā-pāṭha label belongs; the script replaced it.]*
+
+#### Ṛk 8
+**॥ संहितापाठः ॥**
+> अनु॑ त्वा॒ रथो॒ अनु॒ मर्यो॑ अर्व॒न्ननु॒ गावोऽनु॒ भगः॒॑॑
+> कनीनां ।
+> अनु॒ व्राता॑स॒स्तव॑ स॒ख्यमा॑यु॒रनु॑ दे॒वा म॑मिरे वी॒र्यं॑ ते।
+> ॥ ८ ॥
+
+> *anu tvā ratho anu maryo arvannanu gāvo 'nu bhagaḥ*
+> *kanīnāṃ |*
+> *anu vrātāsastava sakhyamāyuranu devā mamire vīryaṃ te|*
+> *‖ 8 ‖*
+
+### Printed p. 260
+*Running head: 260 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+*[as supplied: the label "ಪವಪಾಠ" stands here, where the Pada-pāṭha label belongs; the script replaced it.]*
+
+**॥ पदपाठः ॥**
+> अनु । त्वा । रथः । अनु । मर्यः । अर्वन् । अनु । गावः । अनु । भगः । कनीनां ।
+> अनु । व्रातासः । तव । सख्यं । ईयुः । अनु । देवाः । ममिरे । वीर्यं । ते ॥ ८ ॥
+*[as supplied: the label "ಶಾಯಣಭಾಷ್ಯಂ" stands here, where the Sāyaṇa-bhāṣya label belongs; the script replaced it.]*
+
+**॥ सायणभाष्यम् ॥**
+> इदानीं कृत्स्नस्य लोकस्यापि मुख्य इति प्रतिपादयति । हे अर्वन् गमनशीलाश्व त्वा त्वामन्वनुसृत्य रथो गच्छति । ततः पुरतोऽश्वस्य गमनात् । तथा मर्त्यो
+> मर्त्यस्त्वा त्वामनु ॥ जात्येकवचनं ॥ अनु गावः । गावोऽपि त्वामनुगच्छंति । तथा
+> कनीनां कन्यकानां स्त्रीणां भगो भाग्यं सौंदर्यं त्वद्भगमनु । तथा व्रातासो
+> व्राताः संघात्मका अन्येऽश्वसमूहा वस्वादिदेवगणा वा त्वामन्वनुसृत्य तव सख्यमायुः । सखिभावं गच्छंति । देवा ऋत्विजो द्योतमाना देवा ना त्वामनुसृत्य
+> ते वीर्यं वीरकर्म ममिरे । स्तुत्या मांति । अतः सर्वोऽपि त्वामनुसरः त्वं तु
+> सर्वस्य श्रेष्ठ इत्यर्थः ॥
+*Gist:* Chariot, man, cattle, maidens' beauty, troops of horses or gods all follow you; the priests praise your valour; so you are the foremost of all.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+आर्वन् (*ārvan*) *[as supplied]*—O horse; त्वा (*tvā*)—you; रथः (*rathaḥ*)—the excellent chariot; अनु (*anu*)—follows; मर्यः (*maryaḥ*)—man; अनु (*anu*)—comes following; गावः (*gāvaḥ*)—cows; अनु (*anu*)—follow behind; कनीनां (*kanīnāṃ*)—of maidens; भगः (*bhagaḥ*)—the loveliness *[as supplied: ಸೌಂದಯ್ಯವು]*; अनु (*anu*)—follows; व्रातासः (*vrātāsaḥ*)—other troops of horses of the nature of bands, or the groups of gods such as the Vasus; अनु (*anu*)—following you; तव (*tava*)—your; सख्यं (*sakhyaṃ*)—friendship; ईयुः (*īyuḥ*)—obtain; देवाः (*devāḥ*)—the resplendent priests or the gods; अनु (*anu*)—(you) following; ते (*te*)—your; वीर्यं (*vīryaṃ*)—heroic act; ममिरे (*mamire*)—praise with hymns.
+
+**भावार्थ (Bhāvārtha)**
+O horse, the excellent chariot follows you. In the same way the man, the cows, the lovely maidens and the band-like groups of gods follow you and obtain your friendship. The resplendent priests, following you, praise your heroic act with hymns.
+
+**Printed English**
+The car follows you, O Horse : men attend you ; cattle follow you ;
+the loveliness of maidens (waits) upon you ; troops of demigods following
+you have sought your friendship ; the gods themselves have been admirers
+of your vigour.
+
+*(The Special Topics of this Ṛk follow in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 254. Sukta 163 end of Rk 4 (pp. 247-248), Rk 5 and Rk 6 (to p. 254, ends in the grammar of Rk 6)
+**Progress note:** Done through printed p. 260. Sukta 163 end of Rk 6 grammar (p. 255), Rk 7 and Rk 8 to the English translation, pp. 255-260
