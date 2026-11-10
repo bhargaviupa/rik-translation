@@ -1570,6 +1570,88 @@ in such ṛks it is hard to say whether it is the atmospheric synonym or the ear
 
 In many such ṛks it can be said definitely that it is the earthly sea. In some places this word is used as an adjective and gives the sense "flowing".
 
+### Printed p. 56
+
+*Running head: 56 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159 (printed with a full stop after "೧೫೯").* (The Special Topics of Ṛk 4 continue.)
+
+अद्भिर्याति वरुणः समुद्रैर्युष्मा इच्छंतः शवसो नपातः । (*adbhiryāti varuṇaḥ samudrairyuṣmā icchaṃtaḥ śavaso napātaḥ |*)
+
+(Ṛ. Saṃ. 1-161-14)
+
+In this ṛk समुद्रैः समुंदनस्वभावैः अद्भिः (*samudraiḥ samuṃdanasvabhāvaiḥ adbhiḥ*) *[so printed]* means "with waters whose nature is to flow". In the present ṛk the meaning is "atmosphere"; it tells of the pervasion of the rays of Āditya throughout the interior region of the atmosphere.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses मायिनः (*māyinaḥ*) (suffix *ini* by the sūtra on व्रीह्यादिभ्यश्च (*vrīhyādibhyaśca*), Pā. Sū. 5-2-116), ममिरे (*mamire*) (root माज् (*māj*), perfect in a present sense), सयोनी (*sayonī*) (the substitution of *sa* for *samāna*; a sūtra number broken across lines), मिथुना (*mithunā*) (suffix *unan*, Uṇ. Sū. 335), समोकसा (*samokasā*) (the root उच (*uca*); the rule is cited as "ಕಾ. ೭-೩-೬೪", as printed), नव्यंनव्यम् (*navyaṃnavyam*) (doubling, Pā. Sū. 8-1-4), तन्वते (*tanvate*) and सुदीतयः (*sudītayaḥ*) (Pā. Sū. 6-2-172), with the accents; it ends with the mark ॥ ೪ ॥ and a stray ornament line ":C:", kept as supplied.
+
+### Printed p. 57
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨ ] Ṛgveda-saṃhitā, p. 57 (as supplied).*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+*[A hyphenated line break "ಮನಾ-ಮಹೇ" in the Saṃhitā is joined in kn.md.]*
+
+> तद्राधो॑ अ॒द्य स॑वि॒तुर्वरे॑ण्यं व॒यं दे॒वस्य॑ प्रस॒वे म॑नामहे ।
+> अ॒स्मभ्यं॑ द्यावापृथिवी सुचे॒तुना॑ र॒यिं ध॑त्तं॒ वसु॑मंतं॒॑
+> शतग्विनं ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> तत् । राधः । अद्य । सवितुः । वरेण्यं । वयं । देवस्य । प्रसवे । मनामहे ।
+> अस्मभ्यं । द्यावापृथिवी इति । सुचेतुना । रयिं । धत्तं । वसुमंतं । श तग्विनं ॥५॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> वयं यजमानाः सवितुः सर्वस्य प्रसवितुर्देवस्यादित्यस्यांतर्यामिरूपिणः प्रसवेऽनुज्ञायां सत्यां तत्तादृशं वरेण्यं वरणीयं राधः पुरुषार्थसाधनसमर्थं गवादि धनं मनामहे । याचामहे ॥ मन्यतिर्याज्ञाकर्मा ।
+> छांदसः शप् ॥ यद्वा । पुनःपुनरभ्यस्यामः । लप्सीमहीति यावत् ॥ म्या अभ्यासे ।
+> व्यत्ययेनात्मनेपदं । शपि पाघ्रादिना मनादेशः ॥ किंचास्मभ्यं द्यावापृथिवी द्यावापृथिव्यौ सुचेतुना शोभनचेतनेनास्मदनुग्रहबुद्ध्या रयिं धनं धत्तं । दत्तं ।
+> कीदृशं । वसुमंतं निवासयोग्यगृहादिविशिष्टं शतग्विनं शतसंख्याकगवादिविशिष्टं ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): we sacrificers, under Savitṛ's impulse, ask desirable wealth; may Heaven and Earth, with gracious mind, give us wealth with dwellings and a hundred cows.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वयं (*vayaṃ*)—we, the sacrificers; सवितुः (*savituḥ*)—of the one who showers all desired objects; देवस्य (*devasya*)—of the venerable Āditya; प्रसवे (*prasave*)—when his favour is there; वरेण्यं (*vareṇyaṃ*)—exceedingly desired; राधः (*rādhaḥ*)—wealth in the form of cows and the like; मनामहे (*manāmahe*)—we ask, or (from him) obtain at every step; (and) अस्मभ्यं (*asmabhyaṃ*)—to us; द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth; सुचेतुना (*sucetunā*)—with a mind kind towards us; वसुमंतं (*vasumaṃtaṃ*)—endowed with dwelling-places such as houses; शतग्विनं (*śatagvinaṃ*)—endowed with hundreds of cows; रयिं (*rayiṃ*)—wealth; धत्तं (*dhattaṃ*)—may (they) give.
+
+**भावार्थ (Bhāvārtha)**
+
+*[The Bhāvārtha runs over the page break, "ಪದೇ | ಪದೇ"; given here in full.]*
+
+With the favour of Āditya, who provides all desired objects and is of divine nature, we ask for the wealth in the form of cows and the like that we exceedingly desire, or (we) obtain it from him at every step. And may Heaven and Earth, with a mind kind towards us, give wealth endowed with dwelling-places such as houses and endowed with hundreds of cows.
+
+### Printed p. 58
+
+*Running head: 58 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159 (printed "ಸೂ ೧೫೯.").*
+
+**Printed English translation**
+
+We solicit to-day of the divine sun, his favour being propitiated, that wealth which is desirable, Benignant Heaven and Earth, bestow upon us rieches [sic], (consisting of) habitations and hundreds (of cattle and the like).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सवितुः (*savituḥ*)—सविता सर्वस्य प्रसविता । (*savitā sarvasya prasavitā |*) "The one who impels all": the nature of Savitṛ stated thus was explained earlier.
+
+राधः (*rādhaḥ*)—It is read among the names of wealth, मघं (*maghaṃ*), रेक्णः (*rekṇaḥ*) and so on (Ni. 3-9). राध इति (*rādha iti*) धननाम । राध्नु वंत्यनेन । (*dhananāma | rādhnu vaṃtyanena |*) Sāyaṇa has shown the derivation of this word: wealth is well known by the name राधः (*rādhaḥ*) because by it people win over or appease.
+
+मनामहे (*manāmahe*)—मन्यतिः याज्ञाकर्म । (*manyatiḥ yājñākarma |*) *[so printed]* याचामहे (*yācāmahe*), "we ask": this is one meaning; and यद्वा पुनःपुनरभ्यास्यामः । (*yadvā punaḥpunarabhyāsyāmaḥ |*) लप्सीमहीति यावत् । (*lapsīmahīti yāvat |*) "or at every step we obtain": this is the second meaning which he has given. The purport is either "having obtained the favour of Savitṛ we ask wealth of him", or "we obtain wealth from him again and again".
+
+शतग्निनं (*śatagninaṃ*) *[so printed for ಶತಗ್ವಿನಂ]*—शतसंख्याकगवादिविशिष्टं । (*śatasaṃkhyākagavādiviśiṣṭaṃ |*) "Having cows in the hundreds": an epithet of the word रयि (*rayi*).
+
+शनैश्चिध्यंतो अद्रिपोऽश्वावंतः शतग्विनः । विरक्षणा अनेहसः । (*śanaiścidhyaṃto adripo 'śvāvaṃtaḥ śatagvinaḥ | virakṣaṇā anehasaḥ |*)
+
+(Ṛ. Saṃ. 8-45-11)
+
+In such ṛks, for the word शतग्विनः (*śatagvinaḥ*) only "possessing much wealth" has been given as the meaning.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada begins with राधः (*rādhaḥ*) (root राध (*rādha*), Uṇādi suffix *asun*) and सवितुः (*savituḥ*) (root षु (*ṣu*), suffix *tṛc*; genitive singular), with the accents; the analysis continues on the next page.
+
 ---
 
-**Progress note:** Done through printed p. 55 (PDF 55). Sūkta 159 Ṛk 4 Special Topics (sayonī, māyinaḥ, samudra, Devāpi-Śantanu story)
+**Progress note:** Done through printed p. 58 (PDF 58). Sūkta 159 Ṛk 4 Special Topics end and grammar; Ṛk 5 complete (Saṃhitā to Special Topics), grammar start
