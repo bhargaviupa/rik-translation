@@ -91,3 +91,4 @@
 | through p. 642 (three windows in one agent: pp. 624-630, 631-636, 637-642) | sonnet | 18 | 183592 | 5.4 |
 | through p. 662 (three windows in one agent: pp. 643-650, 651-656, 657-662) | sonnet | 19 | 211559 | 7.8 |
 | through p. 682 (three windows in one agent: pp. 663-669, 670-676, 677-682) | sonnet | 24 | 214754 | 6.9 |
+| through p. 700 (three windows in one agent: pp. 683-688, 689-694, 695-700) | sonnet | 19 | 167580 | 5.0 |
