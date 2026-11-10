@@ -79,3 +79,4 @@
 | through p. 411 (three windows in one agent: pp. 393-398, 399-404, 405-411) | sonnet | 26 | 199934 | 7.1 |
 | through p. 434 (three windows in one agent: pp. 412-422, 423-428, 429-434) | sonnet | 19 | 231860 | 8.7 |
 | through p. 454 (three windows in one agent: pp. 435-441, 442-447, 448-454) | sonnet | 22 | 213640 | 6.9 |
+| through p. 472 (three windows in one agent: pp. 455-460, 461-466, 467-472) | sonnet | 19 | 186182 | 5.9 |
