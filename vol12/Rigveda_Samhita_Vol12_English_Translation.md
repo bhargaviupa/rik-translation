@@ -16893,6 +16893,127 @@ In this Ṛk Indra does not answer in such a way as to hurt the minds of the Mar
 > आ इति चार्थे । यद्वा । अनेद्य इति प्रशस्यनाम । प्रशस्यं यशोऽस्मत्तो दधाना
 *Gist:* The Maruts, gladdened toward Indra, hold fame and strength; the bhāṣya of this Ṛk is cut at the end of this window and continues on the next page.
 
+### Printed p. 716
+*Running head: 716 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ಅ. ೨೩. ಸೂ ೧೬೫] (as supplied; the Maṇḍala number is missing after ಮಂ.).*
+
+*[Continuing the Sāyaṇa-bhāṣya of Ṛk 12 from the previous page:]*
+> अस्माभिर्वा धारयमाणाः । चंद्रवर्णाः । चंद्रमिति हिरण्यनाम । सुवर्णवर्णा
+> यूयं मे मां संचक्ष्य सम्यक्प्रकाश्य नूनं निश्चयमच्छांत यशोभिराच्चादितवंतश्च दयाथ । आच्छादयथ च । मां प्रति सर्वदा रोचमाना मय्येव कीर्तिमन्नं च दधाना मत्कृतैः कर्मभिर्मामेव स्तुतेत्यर्थः ॥
+*Gist:* The Maruts, golden in colour and holding fame and food through Indra's favour, are asked to cover him with glory in return.
+
+*[as supplied: the Bhāvārtha label stands as "ಭಾಷಾ" in the supplied text; repaired in kn.md to the standard label.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+मरुतः (*marutaḥ*)—O Maruts; एवेत् (*evet*)—in this very manner; एते (*ete*)—you; मां (*māṃ*)—me; प्रतिरोचमानाः (*pratirocamānāḥ*)—gladdening with words of praise; अनेद्यः (*anedyaḥ*)—exceedingly wide; श्रवः (*śravaḥ*)—fame; इषः (*iṣaḥ*)—and food (printed ಆನ್ನ); दधानाः (*dadhānāḥ*)—obtaining; चंद्रवर्णाः (*caṃdravarṇāḥ*)—of delightful colour; मे (*me*)—me (printed so); संचक्ष्य (*saṃcakṣya*)—having made radiant; नूनं (*nūnaṃ*)—surely, and; अच्छांत (*acchāṃta*)—being endowed with glory; छदयाथ च (*chadayātha ca*)—(do you) make me also endowed with glory.
+
+**भावार्थ (Bhāvārtha)**
+O Maruts, in this very manner, gladdening me with words of praise, obtaining exceedingly wide fame and food, being of delightful colour, and making me radiant, be yourselves endowed with glory, and make me too endowed with glory *[as supplied: the print has a garbled word here, "ಯಃಕ ನಾಗುವಂತೆ", rendered as "endowed with glory" from the Pratipadārtha]*.
+
+**Printed English**
+Maruts, verily, glorifying me and enjoying boundless fame and food (through my favour), do you, of golden colour, and invested with glory, cover me in requital verily, (with renown).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The word अनेद्यः (*anedyaḥ*) can be given two kinds of meaning. First, अनंतिकस्थं (*anaṃtikasthaṃ*), that is, fame spread very far (abundant); second, since the word is read among the names of "praiseworthy" (Ni. 3-13), अनेद्यः श्रवः (*anedyaḥ śravaḥ*) means highly praiseworthy fame.
+चंद्रवर्णा: (*caṃdravarṇā:*)—चंद्रमिति हिरण्यनाम (*caṃdramiti hiraṇyanāma*); सुवर्णवर्णाः (*suvarṇavarṇāḥ*). The word chandra is read among the names of gold (Ni. 2-10); therefore here it means those whose colour is pleasing like gold; or,
+
+### Printed p. 717
+*Running head: [ಆ ೨ ಅ. ೩ ವ. ೨೬] ಋಗ್ವೇದಸಂಹಿತಾ 717] (as supplied).*
+
+**Special Topics** *(continued)*
+चंद्रश्चंदतेःकांतिकर्मणः (*caṃdraścaṃdateḥkāṃtikarmaṇaḥ*) (Ni. 10-5): since the word chandra is formed from the root chand meaning "bright, pleasing", the colour of the Maruts is praised as that of those who have a delightful form. As in Ṛks such as
+ये अग्नयो न शोशुचन्निधाना द्विर्यत्रिर्मरुतो वावृधंत । अरेणवो हिरण्ययास एषां साकं नृन्मैः पौंस्येभिश्च भूवन् (*ye agnayo na śośucannidhānā dviryatrirmaruto vāvṛdhaṃta | areṇavo hiraṇyayāsa eṣāṃ sākaṃ nṛnmaiḥ pauṃsyebhiśca bhūvan*) (Ṛ. Saṃ. 6-66-2)
+the delightful form of the Maruts is described here too. *[as supplied: "ಮರುಗುಗಳ" printed for "ಮರುತ್ತುಗಳ", Maruts; नृन्मैः (*nṛnmaiḥ*) as printed.]*
+
+**Vyākaraṇa-prakriyā** *(Grammar, Ṛk 12)*
+*Grammar (transcribed, not explained):* रोचमानाः (*rocamānāḥ*)—root रुच दीप्तौ (*ruca dīptau*), śānac in place of laṭ; guṇa of the short-vowel penultimate because of the vikaraṇa śap; the augment muk by Pā. Sū. 7-2-82 *[as supplied: ಆನೇಮುಕ್; "ಬರಿಂದ" misprinted in the print]*; by Pā. Sū. 6-1-186 the sārvadhātuka is unaccented, so the root accent remains. अनेद्यः (*anedyaḥ*)—root णिदि कुत्सायां (*ṇidi kutsāyāṃ*), na for the initial; suffix ṇyat by Pā. Sū. 3-1-124; the num augment does not come; as a nañ-tatpuruṣa the first member keeps its natural accent.
+संचक्ष्या (*saṃcakṣyā*)—root चक्षिज् व्यक्तायां वाचि (*cakṣij vyaktāyāṃ vāci*), used here in the sense of "shine"; lyap in place of ktvā by Pā. Sū. 7-1-37; unaccented because p-marked; lengthening in the saṃhitā by Pā. Sū. 6-3-136. चंद्रवर्णाः (*caṃdravarṇāḥ*)—in a bahuvrīhi the first member keeps its natural accent. छदयाथ (*chadayātha*)—root छद अपवारणे (*chada apavāraṇe*), curādi; leṭ second person plural, ending tha; the āṭ augment by Pā. Sū. 3-4-64; guṇa and ay-substitution for ṇic; no vṛddhi of the penultimate; no nighāta; the vowel after d is udātta by the ṇic accent. ॥ 12 ॥
+
+### Printed p. 718
+*Running head: 718 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೩. ಸೂ. ೧೬೫] (as supplied).*
+
+*[as supplied: garbled label line "ಕಂಠೀರವ" before the Saṃhitā-pāṭha heading; garbled label line "। ಪದಹಾಳಿ ।" before the Pada-pāṭha heading; garbled label line "ಸಾಹಿತ್ಯಭಾಷ್ಯಂ" before the Sāyaṇa-bhāṣya.]*
+
+#### Ṛk 13
+**॥ संहितापाठः ॥**
+> को नृत्र॑ मरुतो मामहे वः॒ प्र या॑तन॒ सखी॒रच्छा॑
+> सखायः ।
+> मन्मा॑नि चित्रा अपिवा॒तयं॑त ए॒षां भू॑त॒ नवे॑दा म ऋ॒तानां॑ ॥ १३ ॥
+**॥ पदपाठः ॥**
+> कः । नु । अत्र । मरुतः । ममहे । वः । प्र । यातन । सखीन् । अच्छ । सखायः ।
+> मन्मानि । चित्राः । अपिवातयंतः । एषां । भूत । नवेदाः । मे । ऋतानां ॥ १३ ॥
+**॥ सायणभाष्यम् ॥**
+> हे मरुतः युष्मानत्र लोके को नु खलु मर्त्यो ममहे । पूजयति ।
+> हे सखायः सर्वस्य सखवत्प्रियकारिणः संतः सखीन् हविष्प्रदानेन सखिभूतान्यजमानानच्चाभिमुख्येन प्राप्तं प्र यातन । गच्छत । हे चित्राश्चायनीयाः यूयं
+> मन्मानि मननीयानि धनान्यपिवातयंतः संपूर्णं प्रापयंतो भूत । भवत । किंच
+> मे मदीयानामेषामृतानामवितथानां नवेदा भूत । ज्ञातारो भवत ॥
+*Gist:* Addressing the Maruts: what mortal worships you here? Go to your sacrificer-friends, give them desirable wealth, and know my true devotion.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+मरुतः (*marutaḥ*)—O Maruts; अत्र (*atra*)—in this world; को नु (*ko nu*)—what mortal indeed (like me); ममहे (*mamahe*)—worships; सखायः (*sakhāyaḥ*)—being friends to all; सखीन् (*sakhīn*)—the sacrificers who are friends to you *[as supplied: printed run together "ಸಖೀನ್ನಿಮಗೆ"]*; अच्छ (*accha*)—to go toward and join; प्र यातन (*pra yātana*)—go forth!; चित्राः (*citrāḥ*)—attractive Maruts; मन्मानि (*manmāni*)—wealth that is the object of meditation; अपिवातयंतः (*apivātayaṃtaḥ*)—(to them) providing; भूत (*bhūta*)—be *[as supplied: printed भूत—इं (*bhūta—iṃ*), the last syllable "ಇಂ" being a stray]*; मे (*me*)—my; एषा ऋतानां (*eṣā ṛtānāṃ*) *[as supplied: printed so]*—this true devotion; नवेदाः (*navedāḥ*)—know.
+
+**भावार्थ (Bhāvārtha)**
+O Maruts, what mortal in this world worships you as I do? Being friends to all, go forth to approach the sacrificers who are friends to you. O attractive Maruts, keep providing them with the wealth that is the object of their meditation (which they desire). Know this true devotion of mine.
+
+### Printed p. 719
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೨೬] ಋಗ್ವೇದಸಂಹಿತಾ 719] (as supplied).*
+
+**Printed English**
+(Agastya),—What mortal, Maruts, worships you in this world; hasten friends, to the presence of your friends: wonderful (divinities), be to them the means of acquiring riches, and be not uncognizant of my merits.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+After the conversation between Indra and the Maruts, Agastya prays in this mantra, addressing the Maruts.
+मन्मानि (*manmāni*)—the word manma has been explained as मननीयानि धनानि (*mananīyāni dhanāni*), wealth worthy of meditation. The word is used in the senses "praiseworthy" and "venerable" (Ṛ. Saṃ. 1-26-2; 1-151-8). In many such Ṛks the words manmanā and manmabhiḥ mean an excellent and praiseworthy movement of the mind. The Nirukta authors, in the Ṛk
+उप प्रागात्सुमन्मेऽधायि मन्म देवानामाशा उप वीतपृष्ठः । अन्वेनं विप्रा ऋषयो मदंति देवानां पुष्टे चकैमा सुबंधुं (*upa prāgātsumanme 'dhāyi manma devānāmāśā upa vītapṛṣṭhaḥ | anvenaṃ viprā ṛṣayo madaṃti devānāṃ puṣṭe cakaimā subaṃdhuṃ*) (Ṛ. Saṃ. 1-162-7)
+have explained the word manma as "mantra" (Ni. 6-22), that is, a mantra worthy of meditation, "belonging to the mind". Sāyaṇa *[as supplied: printed ಸಾರುಣರು]* in this quoted Ṛk has explained it as the fruit that belongs to the mind. Second, in
+तनूनपात्पथ ऋतस्य यानान्मध्वा समंजन्त्वदया सुजिह्व । मन्मानि धीभिरुत यज्ञमृंधन् देवत्रा च कृणुह्यध्वरं नः (*tanūnapātpatha ṛtasya yānānmadhvā samaṃjantvadayā sujihva | manmāni dhībhiruta yajñamṛṃdhan devatrā ca kṛṇuhyadhvaraṃ naḥ*) (Ṛ. Saṃ. 10-110-2)
+it is explained as अस्मदभिप्रेतानि स्तोत्राणि (*asmadabhipretāni stotrāṇi*), hymns desired by us. Likewise, having quoted the Ṛk 1-129-9 *[as supplied: printed "೧-೧೨೯-೯. ನೇ, ಋಕ್ಕನ್ನುದಚರಿಸಿ"]* (Ni. 10-42), the same meaning is shown there too. In the present Ṛk it can be explained as a fruit worthy of meditation.
+नवेदाः (*navedāḥ*)—ज्ञातारो भवत (*jñātāro bhavata*); the prayer is "be knowers", which shows an eminent eagerness in knowledge as well.
+कथा सबाधः शशमानो अस्य नशदभि द्रविणं दीध्यानः । देवो भुवन्नवेदा म ऋतानां नमो जगृभ्वा अभि यज्जु जोषत् (*kathā sabādhaḥ śaśamāno asya naśadabhi draviṇaṃ dīdhyānaḥ | devo bhuvannavedā ma ṛtānāṃ namo jagṛbhvā abhi yajju joṣat*) (Ṛ. Saṃ. 4-23-4)
+
+### Printed p. 720
+*Running head: 720 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ । ಮಂ. ೧ ೮. ೨೩. ಸೂ. ೧೬೫] (as supplied; the stop after ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, the missing "[" and "೮." for "ಅ." are printed so).*
+
+**Special Topics** *(continued)*
+The word is used also in this Ṛk (the one quoted above); there Sāyaṇa has explained it as अतिशयेन ज्ञात्वा (*atiśayena jñātvā*). In the present Ṛk also it shows eagerness for knowledge and pride. Agastya prays that they should fully know his true faith and show pride in him.
+
+*[as supplied: garbled label line "ವ್ಯಾಕರಣಕ್ರಿಯಾ" before the Vyākaraṇa-prakriyā heading.]*
+
+**Vyākaraṇa-prakriyā** *(Grammar, Ṛk 13)*
+*Grammar (transcribed, not explained):* ममहे (*mamahe*)—root मह पूजायां (*maha pūjāyāṃ*); causal sense included (ṇyartha); present sense by "chandasi luṅ laṅ liṭ" with liṭ; third person singular; the nighāta accent because it follows an atiṅanta. यातन (*yātana*)—root yā prāpaṇe, loṭ second person plural; lengthening in the saṃhitā by Pā. Sū. 6-3-136 *[as printed with the sūtra words "ತಪ್ತನಪ್ತನಥನಾಶ್ಚ"]*. सखायः (*sakhāyaḥ*)—by Uṇ. Sū. 4-576 *[as printed]*, with the word samāna as upapada, the root khyā prakathane takes the suffix iṇ; it is ḍit; loss of y; the substitute sa for samāna is udātta; in the vocative the āmantrita-nighāta accent.
+मन्मानि (*manmāni*)—root मन ज्ञाने (*mana jñāne*), the Uṇ-ādi suffix manin; initial accent because n-marked. अपिवातयंतः (*apivātayaṃtaḥ*)—root vāta gatisukhasevanayoḥ, curādi; ṇic in its own sense by Pā. Sū. 3-1-25; śatṛ in place of laṭ; śap; guṇa and ay-substitution of ṇic; the ṇic accent; in the prādi compound the krt-uttarapada-prakṛti accent. भूत (*bhūta*)—root bhū sattāyām, loṭ second person plural; ta-substitution; luk of the vikaraṇa; prohibition of guṇa by Pā. Sū. 7-3-88; the tiṅanta-nighāta accent. नवेदाः (*navedāḥ*)—root विद ज्ञाने (*vida jñāne*), suffix ac as it belongs to the pacādi; laghūpadha-guṇa by Pā. Sū. 7-3-86; prakṛtibhāva of naṇ in the compound by Pā. Sū. 6-3-75; the naṇ-pūrvapada-prakṛti accent. ॥ 13 ॥
+*[as supplied: stray line "ਃ੦ਃ" at the end of the page.]*
+
+### Printed p. 721
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೨೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 721] (as supplied).*
+
+*[as supplied: garbled label line "ಕಂಠಪಾಠ. ೬೧" before the Saṃhitā-pāṭha heading; garbled label line "ದಶಕ" after the Saṃhitā block, replaced by the Pada-pāṭha heading; the label ಸಾಯಣಭಾಷ್ಯಂ stands twice, with a stray repeated line "॥೧೪॥" between (placed below as b7); garbled label lines "ಪ್ರ, ತಿಸವಾರ್ಥ" and "ಭಾನುವಾರ" before the Pratipadārtha and Bhāvārtha headings.]*
+
+#### Ṛk 14
+**॥ संहितापाठः ॥**
+> आ यद्दु॑ व॒स्याद्दु॒ वसे॒ न का॒रुर॒स्माञ्च॒क्रे मा॒न्यस्य॑ मे॒धा ।
+> ओ षु व॑र्त्त मरुतो॒ विप्र॒मचे॒मा ब्रह्मा॑णि जरि॒ता वो॑
+> अर्चत् ॥ १४ ॥
+**॥ पदपाठः ॥**
+> आ । यत् । दुवस्यात् । दुवसे । न । कारुः । अस्मान् । चक्रे । मान्यस्य । मेधा ।
+> ओ इति । सु । वर्त्त । मरुतः । विप्रं । अच्छ । इमा । ब्रह्माणि । जरिता । वः । अर्चत् ॥
+> ॥१४॥
+**॥ सायणभाष्यम् ॥**
+> ॥१४॥
+**॥ सायणभाष्यम् ॥**
+> हे मरुतः दुवस्याद्युष्मत्परिचरणार्हात्सूत्रात् तेन स्तोत्रेण दुवसे
+> परिचरणाय पर्याप्ता कारुः कर्त्रि स्तुतिकुशला मान्यस्य माननीयस्य विदुषो
+> मेधा बुद्धिरस्मान् । नेति संप्रत्यर्थे । इदानींतनाना चक्रे । अभिमुख्येन करोति ।
+> प्राप्तोतीत्यर्थः । यद्वा । षष्ठिबहुवचन इदं रूपं । दुवस्यानां परिचरणार्हाणां दुवसे परिचरणायेत्यर्थः । अतो हे मरुतः यूयं विप्रं मेधाविनं
+> यजमानं मामगस्तमच्छाभिमुख्येन प्राप्तुं सु सुष्टो वर्त । ओ इति निपातद्वयसमुदायरूप एको निपातः । आजित्याभिमुख्येन । उकारोऽवधारणे ।
+> आवर्तध्वमेव । र्किमर्थमेवमिति उच्यते । इमा ब्रह्माणीमानि परिवृढानि कर्माण्युद्दिश्य जरिता स्तोता वो युष्मानर्चत् । अर्चति । यस्मादेवं तस्मादावर्तध्वमित्यर्थः ॥
+*Gist:* Maruts, the praise-skilled wit of the venerable sage has come to us; turn fully toward me, the sage, for the praiser worships you with these rites.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(मरुतः (*marutaḥ*)—O Maruts); दुवस्यात् (*duvasyāt*)—(from you) by hymns fit to attend upon you; दुवसे (*duvase*)—for worship; कारुः (*kāruḥ*)—skilled in praise, and; मान्यस्य (*mānyasya*)—belonging to the venerable sage; मेधा (*medhā*)—the intelligence; अस्मान् (*asmān*)—us; न (*na*)—now; आ चक्रे (*ā cakre*)—has reached; मरुतः (*marutaḥ*)—O Maruts; विप्रं (*vipraṃ*)—me, the intelligent one; अच्छ (*accha*)—to come toward and join; सु ओ वर्त्त (*su o vartta*)—make up your full mind; इमा ब्रह्माणि (*imā brahmāṇi*)—through these rites; जरिता (*jaritā*)—the praiser; वः (*vaḥ*)—you; अर्चत् (*arcat*)—worships.
+
+**भावार्थ (Bhāvārtha)**
+O Maruts, by hymns fit to attend upon you, for worshipping you, the intelligence, skilled in praise and belonging to the venerable sage, has now reached us. The intelligent *[the Kannada text of this window ends here, in the middle of the sentence; it continues on the next page]*
+
 ---
 
-**Progress note:** Done through printed p. 715. Sukta 165 Rk 9 grammar end, Rk 10, Rk 11, Rk 12 start, pp. 709-715
+**Progress note:** Done through printed p. 721. Sukta 165 Rk 12 end, Rk 13, Rk 14 start, pp. 716-721
