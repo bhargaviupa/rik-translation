@@ -12076,9 +12076,16 @@ When the jīva leaves the body, the body becomes dead; but since the jīva is im
 *[as supplied: the print has the misprints "ಬಹುಪ್ರೀಹೌ", "ಎಂಬುದರಿಂಗ", "ಬುರುತ್ತದೆ" in this grammar, kept; and a stray word बॆंगळूरु (*bèṃgaḷūru*) ("Bengaluru") stands after it, before Ṛk 31.]*
 
 #### Ṛk 31
-**Saṃhitā-pāṭha** *[as supplied: given in the print as plain lines, not as a block]*
-अपश्यं गोपामनिपद्यमानमा च परा च पथिभिश्चरंतं (*apaśyaṃ gopāmanipadyamānamā ca parā ca pathibhiścaraṃtaṃ*)
-स सध्रीचीः स विषूचीर्वसान आ वरीवर्ति भुवनेष्वंतः (*sa sadhrīcīḥ sa viṣūcīrvasāna ā varīvarti bhuvaneṣvaṃtaḥ*)
+**॥ संहितापाठः ॥**
+> अपश्यं गोपामनिपद्यमानमा च परा च पथिभिश्चरंतं ।
+> स सध्रीचीः स विषूचीर्वसान आ वरीवर्ति भुवनेष्वंतः ॥
+> ॥ ३१ ॥
+
+> *apaśyaṃ gopāmanipadyamānamā ca parā ca pathibhiścaraṃtaṃ |*
+> *sa sadhrīcīḥ sa viṣūcīrvasāna ā varīvarti bhuvaneṣvaṃtaḥ ‖*
+> *‖ 31 ‖*
+
+*[as supplied: the supplied text gives this Saṃhitā as plain lines under a garbled label; set as a block here.]*
 **॥ पदपाठः ॥**
 > अपश्यं । गोपां । अनिपद्यमानं । आ । च । परा । च । पथिभिः । चरंतं ।
 > सः । सध्रीचीः । सः । विषूचीः । वसानः । आ । वरीवर्ति । भुवनेषु । अंतरिति ॥ ३१ ॥
@@ -12178,9 +12185,18 @@ This Āditya is honey for all beings; all beings are honey for this Āditya. The
 *[as supplied: a stray line । संहकार ॥ (*| saṃhakāra ‖*) follows in the print.]*
 
 #### Ṛk 32
-**Saṃhitā-pāṭha** *[as supplied: given in the print as plain lines, not as a block]*
-य ईं चकार न सो अस्य वेद य ईं ददर्श हिरुगिन्नु तस्मात् (*ya īṃ cakāra na so asya veda ya īṃ dadarśa hiruginnu tasmāt*)
-स मातुर्योना परिवीतो अंतर्बहुप्रजा निर्ऋतिमा विवेश (*sa māturyonā parivīto aṃtarbahuprajā nirṛtimā viveśa*)
+**॥ संहितापाठः ॥**
+> य ईं चकार न सो अस्य वेद य ईं ददर्श हिरुगिन्नु
+> तस्मात् ।
+> स मातुर्योना परिवीतो अंतर्बहुप्रजा निर्ऋतिमा
+> विवेश ॥ ३२ ॥
+
+> *ya īṃ cakāra na so asya veda ya īṃ dadarśa hiruginnu*
+> *tasmāt |*
+> *sa māturyonā parivīto aṃtarbahuprajā nirṛtimā*
+> *viveśa ‖ 32 ‖*
+
+*[as supplied: the supplied text gives this Saṃhitā as plain lines under a garbled label; set as a block here.]*
 **॥ पदपाठः ॥**
 > यः । ईं । चकार । न । सः । अस्य । वेद । यः । ईं । ददर्श । हिरुक् । इत् । नु ।
 > तस्मात् ।
