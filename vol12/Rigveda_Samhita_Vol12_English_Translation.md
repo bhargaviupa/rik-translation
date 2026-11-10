@@ -12113,6 +12113,122 @@ I have beheld the unwearied protector of the universe, the sun, travelling upwar
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 In the Pravargya, at the time of the abhiṣṭava, this Ṛk, अपश्यं गोपां ऎंब (*apaśyaṃ gopāṃ èṃba*), has its application, as is set out by the sūtra of the Āśvalāyana-śrautasūtra अपश्यं गोपामनिपद्यमानं स्रक्वे द्रप्सस्य (*apaśyaṃ gopāmanipadyamānaṃ srakve drapsasya*) (Ā. 4-6).
 
+### Printed p. 497
+*Running head: [ಅ. ೨ ಅ. ೩. ವ ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 497 (as supplied).*
+
+*[Continuing Ṛk 31]*
+**Special Topics** (continued)
+"In the Pravargya, at the प्रवर्ग्य अभिष्टवे (*pravargya abhiṣṭave*) one Ṛk, अपश्यं गोपां (*apaśyaṃ gopāṃ*), is applied (इत्येका विनियुक्ता (*ityekā viniyuktā*))": so saying, Sāyaṇa has cited the Āśvalāyana śrauta sūtra (printed "ಆಶ್ವಲಾಯನಶೌತ") अपश्यं गोपामनिपद्यमानः स्रक्षॆ द्रप्सस्य (*apaśyaṃ gopāmanipadyamānaḥ srakṣè drapsasya*) (Āśv. Śrau. 4-6) and stated the application of this mantra. It is a mantra to be recited at the time of the Pravargya sacrifice. But the particular time within it Sāyaṇa has stated in his commentary on the Taittirīya Āraṇyaka: अथ सप्तमे महावीरावेक्षणमुच्यते (*atha saptame mahāvīrāvekṣaṇamucyate*) ("Now, in the seventh, the inspection of the Mahāvīra is told"). In the introductory portion that comments on this same mantra in the Āraṇyaka it is said that this is the mantra to be recited at the time of the inspection of the Mahāvīra. Therefore the meaning of this mantra must be given both as bearing on the rite, the Pravargya, and as bearing on spiritual knowledge. If the meaning is first made out as bearing on the rite, the pot called Mahāvīra is here compared to the Āditya who travels through the world; or else the identity of the Mahāvīra with the Āditya is declared.
+*[as supplied: the print has "ಸ್ರಕ್ಷೆ" and "ಮಾನಃ" here, against "ಸ್ರಕ್ವೇ" and "ಮಾನಂ" in the sūtra quoted on p. 496; kept as printed.]*
+
+The movement of the Āditya, in the form of rising and setting, which is visible to ordinary perception, is a matter known to the whole world. Even so, epithets such as विश्वस्य गोपां (*viśvasya gopāṃ*) and अनिपद्यमानं (*anipadyamānaṃ*) describe the Āditya's character as protector of the world, and that, although for that purpose he travels without a break, he keeps an unimpaired nature. As in the Śatapatha and other texts this unimpaired nature of the Āditya is described by sentences such as
+असौ वा अदित्यो लोकंपृणायातयामा (*asau vā adityo lokaṃpṛṇāyātayāmā*) *[as supplied: "ಅದಿತ್ಯೋ"]*
+(Ś. Brā. 8-7-2-7)
+so here too anipadyamānam is said to mean the Āditya whose nature is not in the least dejected though he keeps up an uninterrupted (anusyūta) course.
+
+गोपां (*gopāṃ*)—सर्वस्य लोकस्य वृष्टिप्रकाशादिना गोपायितारं (*sarvasya lokasya vṛṣṭiprakāśādinā gopāyitāraṃ*): the meaning is, one who protects all the worlds both by bestowing rain and by spreading light. This same is praised in the Taittirīya Āraṇyaka by the sentences
+अपश्यं गोपामित्याह । असौ वा आदित्यो गोपाः । स हीमाः प्रजा गोपायति । तमेव प्रजानां गोप्तारं कुरुते (*apaśyaṃ gopāmityāha | asau vā ādityo gopāḥ | sa hīmāḥ prajā gopāyati | tameva prajānāṃ goptāraṃ kurute*)
+(Kṛ. Ā. 5-6-4)
+Sāyaṇa has explained: उदयेन प्रकाशं कृत्वा सर्वाः प्रजा गोपायति (*udayena prakāśaṃ kṛtvā sarvāḥ prajā gopāyati*).
+अनिपद्यमानं (*anipadyamānaṃ*)—कदाचिदपि अविषण्णं (*kadācidapi aviṣaṇṇaṃ*): "one who is never dejected", thus the Āditya's constant state is shown.
+*[as supplied: the printer's signature line "[32] [ Vol. 12" stands at the foot of the page.]*
+
+### Printed p. 498
+*Running head: 498 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೪] (as supplied; the printed "ಸೂ. ೧೪" is kept).*
+
+अनिपद्यमानमित्याह । न ह्येष निपद्यते (*anipadyamānamityāha | na hyeṣa nipadyate*)
+*[as supplied: a stray fragment ते (*te*) stands on the next line.]*
+(Śai. Ā. 5-6-4, 5)
+Here: भूमौ पतनाभावः (*bhūmau patanābhāvaḥ*) ("no falling on the earth"). Sāyaṇa states that the explanation in the Āraṇyaka is that the Āditya, being in the atmosphere, has no possibility of falling upon the earth. (Sā. Bhā.)
+
+सध्रीचीः विषूचीः (*sadhrīcīḥ viṣūcīḥ*)—both words are epithets of the Āditya's rays. विषूचीः (*viṣūcīḥ*) means: spreading in various ways in many places and causing the world affliction *[as supplied: so]*. To show that these are rays which not only spread directly from the presence of the Āditya, but also, centred in the moon and the other planets, pervade the world in different ways there too and spread a covering of light, Sāyaṇa has explained the word विषूचीः (*viṣūcīḥ*) as चंद्रभौमादित्यानां रात्रावपि प्रकाशयित्रिः त्विषः (*caṃdrabhaumādityānāṃ rātrāvapi prakāśayitriḥ tviṣaḥ*). This is given by way of explanation in the Taittirīya Āraṇyaka:
+स सध्रीचीस्सविषूचीर्वसान इत्याह । सध्रीचीश्च ह्येष विषूचीश्च वसानः प्रजा अभि विपश्यति (*sa sadhrīcīssaviṣūcīrvasāna ityāha | sadhrīcīśca hyeṣa viṣūcīśca vasānaḥ prajā abhi vipaśyati*)
+(Trai. Ā. 5-6-5)
+If all this relates to the Āditya, then, showing in the Pravargya sacrifice the identity with the Āditya, Sāyaṇa has given the meaning relating to the Mahāvīra in his commentary on the Taittirīya Āraṇyaka *[as supplied: printed "ತೈತ್ತಿರೀಯಾಣ್ಯಕ"]*. For गोपां (*gopāṃ*) he says कर्मनिष्पादनेन रक्षकं (*karmaniṣpādanena rakṣakaṃ*): because he causes the rite to be completed without obstruction, this epithet relates to the Mahāvīra. For the word अनिपद्यमानं (*anipadyamānaṃ*) he says विनाशरहितं (*vināśarahitaṃ*) or आदित्यरूपेण पतनरहितं (*ādityarūpeṇa patanarahitaṃ*): the meaning is, that which is free from destruction, or that which, being in the form of the Āditya, is free from falling. All these are meanings relating to the rite. By showing the fitness of these epithets from the spiritual point of view as well, one may also interpret that the Supreme Brahman himself is of the nature of the Āditya, and that therefore all these descriptions are descriptions of the Supreme Brahman.
+तद्यथा महापथ आतत उभौ ग्राम् गच्छतीमं चामुं चैवमेवैता आदित्यस्य रश्मय उभौ लोकौ गच्छतीमं चामुं चामुष्मादादित्यात्पतायंते ता आसु नाडीषु सृप्ता अभ्यो नाडीभ्यः प्रतायंते तेऽमुष्मिन्नादित्ये सृप्ताः (*tadyathā mahāpatha ātata ubhau grām gacchatīmaṃ cāmuṃ caivamevaitā ādityasya raśmaya ubhau lokau gacchatīmaṃ cāmuṃ cāmuṣmādādityātpatāyaṃte tā āsu nāḍīṣu sṛptā abhyo nāḍībhyaḥ pratāyaṃte te 'muṣminnāditye sṛptāḥ*)
+(Bhā. U. 8-6-2, as supplied)
+Thus the qualities signified by the epithets सथ्रीचीः विषूचीः (*sathrīcīḥ viṣūcīḥ*) *[as supplied: printed "ಸಥ್ರೀಚೀಃ"]* in the Ṛk at hand are described. Just as two great roads spread far and wide, showing the way to two great villages, so for these rays of the Āditya also there are two great roads, and on those roads the spreading of the rays is of two kinds: the spreading from the Āditya to all the other worlds, and again the setting out of all of them from there and
+*[the sentence continues on p. 499]*
+
+### Printed p. 499
+*Running head: [೮. ೨. ಅ. ೩. ವ. ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 499 (as supplied; the printed "೮." is kept).*
+
+their meeting and being centred in the Āditya himself, is also set out here. Here "nāḍīs" may be taken to mean simply all the channels in the body of a human person. Or, if it is taken as a figure, one may understand it by regarding the universe itself as the body and comparing the members in it to the channels. For that very reason it is said उभौ लोक् गच्छंति (*ubhau lok gacchaṃti*) *[as supplied: so printed]*. Describing that the forms and actions of these rays, spreading from the Āditya and being viṣūcī, are of various kinds:
+असौ वा आदित्यः पिंगलः एष नील एष पीत एष लोहितः (*asau vā ādityaḥ piṃgalaḥ eṣa nīla eṣa pīta eṣa lohitaḥ*)
+(Chā. U. 8-6-1)
+and so on, it is said. With the purpose of understanding the nature of such an Āditya, protector of the world, pervader of the world, dwelling within all the worlds, the word apaśyam is used. To show that apaśyam here does not mean the nature of the Āditya that is perceptible to the physical eye alone, Sāyaṇa has explained: अपश्यं—याथात्मेव पश्येयं (*apaśyaṃ—yāthātmeva paśyeyaṃ*) *[as supplied: "ಯಾಥಾತ್ಮೇವ"]*, "I shall know the true nature of the Āditya". It is to be understood that the true nature of the Āditya is not merely diffusion and gathering through the rays, but the Supreme Brahman himself, in whom the whole universe is contained.
+स होवाच गार्ज्यो य एवासावादित्ये पुरुष एतमेवाहं ब्रह्मोपास इति (*sa hovāca gārjyo ya evāsāvāditye puruṣa etamevāhaṃ brahmopāsa iti*)
+(Bṛ. U. 3-1-2)
+One should worship, saying that the great Puruṣa who stands in the midst of this Āditya is the Supreme Brahman. Why so?—
+अयमादित्यः सर्वेषां भूतानां मध्वस्यादित्यस्य सर्वाणि भूतानि मधु यश्चायमस्मिन्नादित्ये तेजोमयोऽमृतमयः पुरुषो यश्चायमध्यात्मं चाक्षुषस्तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मदं सर्वं (*ayamādityaḥ sarveṣāṃ bhūtānāṃ madhvasyādityasya sarvāṇi bhūtāni madhu yaścāyamasminnāditye tejomayo 'mṛtamayaḥ puruṣo yaścāyamadhyātmaṃ cākṣuṣastejomayo 'mṛtamayaḥ puruṣo 'yameva sa yo 'yamātmedamamṛtamidaṃ brahmadaṃ sarvaṃ*) *[as supplied: "ಬ್ರಹ್ಮದಂ"]*
+(Bṛ. U. 2-5-5)
+This Āditya is honey for all beings; all beings are honey for this Āditya. The Puruṣa within this Āditya, full of immortality, is the Supreme Brahman; "I shall know this principle": this is shown to be the meaning of apaśyam.
+
+**Grammar (transcribed, not explained)**
+- अपत्यम् (*apatyam*) *[as supplied: so printed, for the Ṛk's apaśyam]*—root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*). In the Veda लज् (*laj*) (as printed), first person singular form. Because it stands at the beginning of the pāda, the nighāta accent does not occur. Because the aṭ augment is udātta, it becomes ādyudātta (printed "ಅದ್ಯುದಾತ್ತ").
+
+### Printed p. 500
+*Running head: 500 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+- अनिपद्यमानम् (*anipadyamānam*)—root पद गतौ (*pada gatau*). Śānac substituted for laṭ. न निपद्यमानः अनिपद्यमानः तं (*na nipadyamānaḥ anipadyamānaḥ taṃ*). By तत्पुरुषे तुल्या (*tatpuruṣe tulyā*) the prakṛti accent of the prior member nañ results.
+- चरंतम् (*caraṃtam*)—root चर गतिभक्षणयोः (*cara gatibhakṣaṇayoḥ*). Śatṛ substituted for laṭ. By तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6=1-186, as printed) the l-sārvadhātuka is anudātta, so the root accent remains.
+- सध्रीचीः (*sadhrīcīḥ*)—सह अंचतीः सध्रीचीः (*saha aṃcatīḥ sadhrīcīḥ*); in the compound, by सहस्य सध्रीः (*sahasya sadhrīḥ*) (Pā. Sū. 6-3-956, as printed) the substitution sadhri for the word saha. Accusative plural form (printed "ದ್ವಿತೀಯೂ").
+- वसानः (*vasānaḥ*)—root वस आच्छादने (*vasa ācchādane*), adādi. Śānac substituted for laṭ. By अनुदात्तेत्तामदरिंद (*anudāttettāmadariṃda*) *[as supplied: garbled sūtra-name]* the l-sārvadhātuka is anudātta, so the root accent remains.
+- वरीवर्ति (*varīvarti*)—वृतु वर्तने (*vṛtu vartane*). The root, when yaṅ (printed यज् (*yaj*)) has come in the sense of repetition, has luk for it by यजोऽचिच (*yajo 'cica*). In laṭ, third person singular, by रीक्‌युदुपधस्यच (*rīkyudupadhasyaca*) (Pā. Sū. 7-4-90) the rīk augment for the reduplicative syllable. The tiṅanta-nighāta accent results. (Ṛk 31 ends.)
+*[as supplied: a stray line । संहकार ॥ (*| saṃhakāra ‖*) follows in the print.]*
+
+#### Ṛk 32
+**Saṃhitā-pāṭha** *[as supplied: given in the print as plain lines, not as a block]*
+य ईं चकार न सो अस्य वेद य ईं ददर्श हिरुगिन्नु तस्मात् (*ya īṃ cakāra na so asya veda ya īṃ dadarśa hiruginnu tasmāt*)
+स मातुर्योना परिवीतो अंतर्बहुप्रजा निर्ऋतिमा विवेश (*sa māturyonā parivīto aṃtarbahuprajā nirṛtimā viveśa*)
+**॥ पदपाठः ॥**
+> यः । ईं । चकार । न । सः । अस्य । वेद । यः । ईं । ददर्श । हिरुक् । इत् । नु ।
+> तस्मात् ।
+> सः । मातुः । योना । परिवीतः । अंतः । बहुप्रजाः । निऋतिं । आ । विवेश ॥३२॥
+
+> *yaḥ | īṃ | cakāra | na | saḥ | asya | veda | yaḥ | īṃ | dadarśa | hiruk | it | nu |*
+> *tasmāt |*
+> *saḥ | mātuḥ | yonā | parivītaḥ | aṃtaḥ | bahuprajāḥ | niṛtiṃ | ā | viveśa ‖32‖*
+
+### Printed p. 501
+*Running head: [೫. ೨. ಅ. .೩ ವ. ೨೦. ] ಋಗ್ವೇದಸಂಹಿತಾ 501 (as supplied; the printed "೫." and ".೩" are kept).*
+
+**॥ सायणभाष्यम् ॥**
+> अत्र गर्भवासक्लेशपूर्वकजननप्रतिपादनेन तत्परिहारायात्मा ज्ञातव्य इत्यर्थात्पतिपाद्यते । यः पुमान् पुत्रार्थिमेनं गर्भं चकार करोति विक्षिपति वा
+> तत्कारणभूतस्य विक्षेपद्वारेण न स पुमानस्य तत्त्वं वेद ॥ कर्मणि षष्ठि वा ॥ एनं
+> गर्भं न जानाति । कथंभूतः कथं वा केन प्रयोजनेनेति सर्वात्मना न जानातीत्यर्थः । यश्च मातुरुदरस्थं ददर्श उदरवृद्धन्यथानुत्पत्तानुमानॆन ना दर्शयति तस्माद्द्रष्टुः सकाशात्स हिरुगिन्नु । हिरुगित्यंतर्हितनाम । इच्छब्द एवकारार्थः ।
+> नु निश्चये । अत्यंतमंतर्हित एव खलु । यद्वा । यः संसारावस्थायामीमेनं
+> कृषिवाणिज्यवेदाध्ययनादिकं चकार सोऽस्य तन्न वेद लोकांतरे जन्मांतरे वा ।
+> तथा य ईमेनं ददर्श गिरिनदीसमुद्रबंध्वादिकं ददर्श जीवनसमये तस्माद्दृष्टाद्दिरुगिन्न पृथगेव । अत्रानुभूतं सर्वं न जन्मांतरे लोकांतरे वानुभवतीत्यर्थः । स तादृशो मातुर्जनन्या योना योनावंतः परिवीत उल्बजरायुभ्यां परितो वेष्टितः सन् बहुप्रजा बहुजन्मभाक् । अथवा । उत्पन्नः सन्
+> स्वयमप्यपत्योत्पादनेन बहुप्रजाः । एवं गर्भदुःखमनुभवन्नि र्युत्यभिधानं
+> प्रदुःखमनुभवति यावत् स्वरूपभूतात्मज्ञानं । अतस्तत्परिहारायात्मा ज्ञातव्य
+> इत्युक्तं भवति । एव मात्मविदामभिप्रेतोऽर्थः ॥ नैरुक्तानां तु मते य ईं चकार मध्यस्थानो वायुर्मेघो वैतद्वष्टु दकं करोति सोऽस्य । तत्त्वमिति
+> शेषः । अथवा एतत्कर्म । न जानाति । तयोरचेतनत्पादिति भावः । यस्मीमेतद्ददर्श पश्यति तस्मादपि हिरुगंतर्हितः । प्राणिकर्मवशेन काले वर्षिता परमेश्वर
+> आदित्यात्मनि गूढ इत्यर्थः । य ईं हिरुगंतर्हितमीमेतद्ददर्श पश्यति स वृष्टिलक्षणः पुत्रो मातुर्निमार्मातुरंतरिक्षस्य योन् योनिवदुत्पत्ताधारभूते०तरिक्षे।
+> उभयोरप्यंतरिक्षनामत्वात्सामान्यविशेषभावो द्रष्टव्यः। अंतरिक्षेकदेशे योन्यामंतर्मध्यॆ बहुप्रजा बहुप्रजातान्नो बहुप्राण्युपकारी । अथवा । जनिरत्रांतर्भावितण्यर्थः । बहूनां धारणां सस्यनिष्पादनद्वारेण प्राणिनां वा प्रजनयिता
+> सन् । निर्मति निरमणसाधनां भूमिमा विवेश । प्रविशति । प्राप्नोतीत्यर्थः ॥
+*Gist:* By describing suffering from life in the womb onward, teaches that the Self must be known to end it; the Nairuktas read it as rain.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+यः (*yaḥ*)—which man; ईं (*īṃ*)—this embryo in the form of offspring; चकार (*cakāra*)—created; सः (*saḥ*)—he; अस्य (*asya*)—of this embryo (the secret); न वेद (*na veda*)—cannot know; यः (*yaḥ*)—who; ईं (*īṃ*)—this; ददर्श (*dadarśa*)—sees (by outward signs such as the growth of the womb that bears the embryo); तस्मात् (*tasmāt*)—from him; हिरुगिन्नु (*hiruginnu*)—it remains hidden, concealed.
+
+### Printed p. 502
+*Running head: 502 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+सः (*saḥ*)—such an ignorant man; मातुः (*mātuḥ*)—of the mother, the cause of birth; योना (*yonā*)—of the womb; अंतः (*aṃtaḥ*)—inside; परिवीतः (*parivītaḥ*)—enveloped by the ulba and the like; बहुप्रजाः (*bahuprajāḥ*)—having many offspring (or births); निर्यतिं आ विवेश (*niryatiṃ ā viveśa*) *[as supplied: so printed]*—comes to suffering; or निर्यतिं आ विवेश (*niryatiṃ ā viveśa*)—enters the earth, the means of suffering.
+**भावार्थ (Bhāvārtha)**
+The man who has created this embryo in the form of offspring cannot know the secret of this embryo. Even if he sees it by outward signs such as the growth of the womb, its principle remains hidden *[as supplied: the plural "ಇವೆ" is printed]*. The ignorant man who does not know its secret, enveloped by the ulba and the like inside the womb of the mother who is the cause of his birth, having birth again and again, becomes a partaker of suffering.
+**Printed English**
+He who has made (this state of things) does not comprehend it: he who has beheld it, has it also verily hidden (from him): he, whilst yet enveloped in his mother's womb, is subject to many births, and has entered upon evil.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+For this Ṛk the Nirukta authors have shown two kinds of meaning. The first is the spiritual meaning of the Parivrājakas (wandering ascetics). The second is the meaning in the form of the explanation of the Nirukta authors.
+बहुप्रजाः कृच्छ्रमापद्यत इति परिव्राजकाः (*bahuprajāḥ kṛcchramāpadyata iti parivrājakāḥ*) वर्षकर्मेति नैरुक्ताः (*varṣakarmeti nairuktāḥ*)
+(Ni. 2-8)
+The purport, that one who has many offspring (or births) experiences hardship of many kinds, is understood in one way by the sannyāsins who know the spiritual principle; and that the explanation of the principle of rain is the chief purport of this Ṛk, in another way by the Nirukta authors. Yāska first says this and afterwards gives his own explanation in this way:
+य ईं चकारेति करोति किरती संदिग्धौ वर्षकर्मणा (*ya īṃ cakāreti karoti kiratī saṃdigdhau varṣakarmaṇā*) "न सो अस्यवेद (*na so asyaveda*)" मध्यमः स एवास्य वेद मध्यमो योददर्शादित्योपहितं (*madhyamaḥ sa evāsya veda madhyamo yodadarśādityopahitaṃ*) "समातुर्योन्‌नौ (*samāturyonnau*)" मातांतरिक्षं निर्मियंतेऽस्मिन् भूतानि (*mātāṃtarikṣaṃ nirmiyaṃte 'smin bhūtāni*) योनिरंतरिक्षं महानवयवः परिवीतो वायुना (*yoniraṃtarikṣaṃ mahānavayavaḥ parivīto vāyunā*) आयमपीतरो योनिरेतस्मादेव (*āyamapītaro yoniretasmādeva*), परियुतो भवति (*pariyuto bhavati*) बहुप्रजा भूमिमापद्यते वर्षकर्मणा (*bahuprajā bhūmimāpadyate varṣakarmaṇā*)
+(Ni. 9-8, as supplied)
+Literal sense, as printed: "yaḥ īṃ cakāra" means he makes or he scatters, a doubtful (reading), with the rain-rite; "na so asya veda": the middle one alone knows it, the middle one who has seen it, covered by the sun; "sa mātur yonau": the mother is the atmosphere, in which beings are measured out; the womb is the atmosphere, a great member, enveloped by the wind; this other womb too, from this same (source), becomes enveloped; the one of many offspring enters the earth with the rain-rite.
+
 ---
 
-**Progress note:** Done through printed p. 496. Ṛk 29 grammar end; Ṛk 30 (soul and body); Ṛk 31 (sun, Pravargya)
+**Progress note:** Done through printed p. 502. Ṛk 31 special topics and grammar; Ṛk 32 (womb, rain per Nirukta)
