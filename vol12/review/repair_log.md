@@ -12,3 +12,23 @@
 - 2026-11-10: English file, Sūkta 164 Ṛk 39: the label line **॥ संहितापाठः ॥** was missing above the (accented) Saṃhitā block; inserted.
 - 2026-11-10: tools/rv/kn_headings.py: 8 Sūkta and 132 Ṛk headings (and Maṇḍala headings) added to the Kannada file from the structure of the English file (no other text changed). Sūkta headings stand before the printed "ಮಂಡಲ—M ॥ ಅನುವಾಕ ॥ ಸೂಕ್ತ—N" line; a Pīṭhike printed above that line belongs to the sūkta that follows.
 - 2026-11-10 QA: closing dandas of inline Sanskrit quotations restored by script on pp. 197-727: 1023 quotations (of 1633 checked; 5 could not be located in the Kannada page and were left). A danda was added only where the same quotation in the Kannada text of that page is directly followed by । or ॥ at every occurrence; the IAST got the matching | or ‖. Cause: the ⟦first~~last⟧ quotation markers ended at the last word (QA sample, review/qa_sample.md).
+- 2026-11-10 QA p. 70: of this heaven-world -> this heaven-world (Kannada ಅಸ್ಯ—ಈ ದ್ಯುಲೋಕವನ್ನು is accusative)
+- 2026-11-10 QA p. 123: (ಬೃ. ಉ. 9-53) -> (Bṛ. U. 9-53) (reference in Kannada letters, as elsewhere; number unchanged)
+- 2026-11-10 QA p. 123: (ಬೃ. ಉ. 6-2-9) -> (Bṛ. U. 6-2-9) (reference in Kannada letters, as elsewhere; number unchanged)
+- 2026-11-10 QA p. 199: the 14 anuvākas, 11-23 -> added *[as supplied …]* note (count 14 against range 11-23 printed so)
+- 2026-11-10 QA p. 270: (just quoted) -> removed (not in the Kannada)
+- 2026-11-10 QA p. 285: he-goat -> bhāga with as-supplied note (printed ಭಾಗ, silently read as ಛಾಗ before)
+- 2026-11-10 QA p. 357: first statement stated as plain fact -> both statements credited to the Bṛhaddevatā authors (Kannada has one sentence)
+- 2026-11-10 QA p. 371: quotation ended at परिवत्सरः -> full quotation incl. चंद्रमा इदावत्सरः । वायुरनुवत्सरः । (Devanagari and IAST made by script from the Kannada)
+- 2026-11-10 QA p. 376: सूरन (*sūrana*) set out as Sanskrit -> plain English gloss with note (ಸೂರನ is the Kannada gloss)
+- 2026-11-10 QA p. 404: reference 10-28-10 given a note (as printed; same verse is 10-88-10 on p. 357)
+- 2026-11-10 QA p. 415: adjunct of the subtle body given to the Lord -> to the individual self (Kannada: ಲಿಂಗಶರೀರವೆಂಬ ಉಪಾಧಿಯುಳ್ಳ ಜೀವಾತ್ಮನೂ ಈಶ್ವರನೂ); desire given as-supplied note for printed ಕಾವ್ಯ
+- 2026-11-10 QA p. 430: (Tai. Ā. 3-11-9) -> added note for printed ತ್ರೈ. ಆ.
+- 2026-11-10 QA p. 594: Śailini -> as-supplied note for printed ಶೈವಲಿನಿಯು (twice)
+- 2026-11-10 QA p. 601: those rites were the first -> those rites were excellent (bhāṣya glosses prathamāni as ಅತಿಶಯವಾದವು)
+- 2026-11-10 QA p. 652: parenthetical English translation of the Taittirīya quotation removed (not in the Kannada); the as-supplied note on ಹವ್ಯಾಯ್ಕೆವಾಸನ್ನಾಯ kept
+- 2026-11-10 QA p. 696: by the Vārttika-sūtra (…) -> by (…) (Kannada gives only the reference)
+- 2026-11-10 QA p. 696: udāttasvaritayor yaṇaḥ -> udāttasvaritayoryè— (truncated name no longer completed; IAST by script)
+- 2026-11-10 QA p. 696: ṭita ātmanepadānām… -> ṭitaātmanepadā— (truncated name no longer completed; IAST by script)
+- 2026-11-10 QA p. 702: somewhat difficult -> added as-supplied note (printed ಕೊಂಚ ಕ್ರಮವೆಂದು)
+- 2026-11-10 QA p. 708: agents reversed and "only" dropped -> Indra received help from the Maruts and forgot it only at the oblation
