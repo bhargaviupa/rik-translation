@@ -5544,6 +5544,177 @@ gods accept a horse that has been selected (for sacrifice); that has been led (r
 
 ಧ್ವನಯೀತ್—the root ध्वन शब्दे (*dhvana śabde*); the affix *ṇic* by the rule हेतुमति च (*hetumati ca*) (Pā. Sū. 3-1-26); since the root belongs to the *ghaṭādi* group, it gets the designation *mit*; when the lengthening of the penultimate arises, the penultimate of the root is shortened by the rule मितां ह्रस्वः (*mitāṃ hrasvaḥ*) (Pā. Sū. 6-4-92); when *māṅ* is the accompanying word, *luṅ* by the rule माजि लुज् (*māji luj*) (Pā. Sū. 3-3-175); the affix *tip* in the third person singular; the elision of *i* by the rule इतश्च (*itaśca*); the prohibition of *caṅ* by the rule नोनयति ध्वन (*nonayati dhvana*) (Pā. Sū. 3-1-51) …
 
+### Printed p. 204
+*Running head: 204 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೨] (as supplied).*
+
+*[Continuing the grammar (Vyākaraṇa-prakriyā) of Ṛk 15 from the previous window; transcribed, not explained.]*
+
+… comes. The substitution सिचादेश (*sicādeśa*); for it the augment इडागम (*iḍāgama*); by the rule अस्तिसिचोऽपृक्ते (*astisico 'pṛkte*) (Pā. Sū. 7-3-93) the augment ईडागम (*īḍāgama*); by the rule इटईटि (*iṭaīṭi*) (Pā. Sū. 8-2-28) elision of the *sic*; by the rule ह्यंतक्षणश्वस (*hyaṃtakṣaṇaśvasa*) (Pā. Sū. 7-2-5) the prohibition of vṛddhi comes; guṇa for the *ṇic*; the substitution अयादेश (*ayādeśa*); by the rule नमाज्‌योगे (*namājyoge*) (Pā. Sū. 6-4-74) the augment *aṭ* does not come; because it stands after a finite verb, the nighāta accent comes.
+
+ಧೂಮಗಂಧಿಃ—धूमस्य गंधः यस्मिन् सः धूमगंधिः (*dhūmasya gaṃdhaḥ yasmin saḥ dhūmagaṃdhiḥ*) (that in which there is the smell of smoke); by the rule अल्पाख्यायां (*alpākhyāyāṃ*) (Pā. Sū. 5-4-136) the *i* comes as a samāsānta; by the rule बहुव्रीहौ प्रकृत्या पूर्वपदम् (*bahuvrīhau prakṛtyā pūrvapadam*) the accent of the first member's own nature comes.
+
+ಭ್ರಾಜಂತೀ—the root भ्राज्य दीप्तौ (*bhrājya dīptau*); by vyatyaya the affix *śatṛ* in place of *laṭ*; *ṅīp* in the feminine; the accent of the root remains.
+
+ವಿಕ್ತ—the root ओविजी भयचलनयोः (*ovijī bhayacalanayoḥ*); in the third person singular the affix *ta* of *laṅ*; by the rule बहुलं छंदसि (*bahulaṃ chaṃdasi*) *luk* for the vikaraṇa; or, because of connection with *māṅ*, *luṅ*; the substitution सिचादेश (*sicādeśa*) for *cli*; by the rule झलो झलि (*jhalo jhali*) (Pā. Sū. 8-2-26) elision of the *sic*; by the rule चोःकुः (*coḥkuḥ*) the *j* becomes a guttural, then a palatal; because the affix has the designation *ñit*, the laghūpadha guṇa does not come; the nighāta accent of a finite verb comes.
+
+ಜಘ್ರಿಃ—the root घ्रा गंधोपादाने (*ghrā gaṃdhopādāne*); because it ends in *ā*, by the rule आद्यगमहन (*ādyagamahana*) (Pā. Sū. 3-2-171) the affix *kin*; because the *liṭ*-like state is extended, doubling of the root; by the rule आतोलोप इटि च (*ātolopa iṭi ca*) (Pā. Sū. 6-4-63) elision of the *ā* of the root; by the rule इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-199) the accent on the first syllable comes.
+
+ಅಭಿಗೂರ್ತಮ್—गूरी उद्यमने (*gūrī udyamane*) root; the affix *kta*; by the rule गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the gati (*abhi*) keeps its own accent.
+
+ಗೃಭ್ಯಂತಿ—the root ग्रह उपादाने (*graha upādāne*), kryādi class; *laṭ*; a form in the third person plural; by the rule श्लाभ्यस्तयोरातः (*ślābhyastayorātaḥ*) (Pā. Sū. 6-4-112) elision of the *ā* of the vikaraṇa; by the statement हृग्रहोर्भशृंदसि (*hṛgrahorbhaśṛṃdasi*) the *h* of the root becomes *bh*; the nighāta accent of a finite verb comes. || 15 ||
+
+#### Ṛk 16
+**॥ संहितापाठः ॥**
+*[ಸಂಹ ಶಾಪಾಠ] — garbled label as supplied; the standard label follows.*
+> यदश्वा॑य॒ वास॑ उपस्तृ॒णंत्य॑धीवा॒सं या हिर॑ण्यान्यस्मै ।
+> सं॒दान॒मर्वं॑तं॒ पद्वी॑शं प्रि॒या दे॒वेष्वा या॑मयंति॥१६॥
+
+> *yadaśvāya vāsa upastṛṇaṃtyadhīvāsaṃ yā hiraṇyānyasmai |*
+> *saṃdānamarvaṃtaṃ padvīśaṃ priyā deveṣvā yāmayaṃti‖16‖*
+
+### Printed p. 205
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೦.] ಋಗ್ವೇದಸಂಹಿತಾ 205 (as supplied).*
+
+**॥ पदपाठः ॥**
+> यत् । अश्वाय । वासः । उपस्तृणंति । अधिनासं । या । हिरण्यानि । अस्मै ।
+> संदानं । अर्वंतं । पद्बेशं। प्रिया । देवेषु । आ । यमयंति ॥ १६ ॥
+*[ಸಾಯುಜಭಾಷ್ಯಂ] — garbled label as supplied; the standard label follows.*
+**॥ सायणभाष्यम् ॥**
+> अश्वाय संज्ञप्यमानायाधीवासमुपर्याच्छादनयोग्यं यद्वास उपस्तृणंति सर्वत आच्छादयंति ॥ स्त्रैञ् आच्छादने क्रैयादिकः ॥ तथास्मा अश्वाय या
+> यानि हिरण्यानि सौवर्णराजतकांस्यानि कल्पयंति । तथार्वंतं ॥ षष्ठ्यर्थे द्वितीया ॥
+> अर्वतोऽश्वस्य संदानं शिरोबंधनं पद्बीशं पादेषु प्रविष्टं पादबंधनं । एतानि
+> प्रिया देवानां प्रियतराणि चात्वाले बद्ध्वा स्थापितानि देवेष्वा यामयंति ।
+> प्रापयंति ॥
+*Gist:* Sāyaṇa explains the covering cloth spread over the horse, the gold, silver and bronze trappings, the head-rope and the foot-rope as dear things made to reach the gods.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+अश्वाय (*aśvāya*)—to the sacrificial horse; अधीवासं (*adhīvāsaṃ*)—in the form of a covering; यत् वासः (*yat vāsaḥ*)—which cloth; उपस्तृणंति (*upastṛṇaṃti*)—they spread over well, so that it covers (and); अस्मै (*asmai*)—of this horse; या (*yā*)—which; हिरण्यानि (*hiraṇyāni*)—the golden and other ornaments with which it is adorned, those too (likewise); अर्वंतं (*arvaṃtaṃ*)—of the horse; संदानं (*saṃdānaṃ*)—the rope that binds the neck; पद्वीशं (*padvīśaṃ*)—the rope that binds the feet (all these); प्रिया (*priyā*)—becoming causes of delight to the gods; देवेषु (*deveṣu*)—among the gods; (to the gods); आ यामयंति (*ā yāmayaṃti*)—go and reach.
+*[ಭವಾರ್ಥ] — garbled label as supplied; the standard label follows.*
+**भावार्थ (Bhāvārtha)**
+May the broad cloth that is spread over the sacrificial horse like a covering, the gold and silver ornaments with which the horse is adorned, and the ropes used for binding the horse's neck and legs, being very dear to the gods, reach the gods themselves.
+
+**Printed English**
+The cloth which they spread as a covering for the horse; the golden
+(trappings with which they decorate him), the head-ropes,-all these they
+offer as acceptable to the gods.
+
+### Printed p. 206
+*Running head: 206 ಸಾಯಣಧಾನ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬ (as supplied; the running head was not recognised by the page splitter and its marker was inserted by script).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+ವಾಸಂ ಅಧೀವಾಸಂ—for these words Sāyaṇa explains उपर्याच्छादनयोग्यं वास उपस्त्रणंति (*uparyācchādanayogyaṃ vāsa upastraṇaṃti*): they cover with a cloth fit to be spread over the horse as a covering. Here the word अधीवासं (*adhīvāsaṃ*) is stated as an adjective of the word वासः (*vāsaḥ*). Or, as Kātyāyana has said, अधीवास (*adhīvāsa*) may mean a cloth used as a curtain. Since on the day before the slaying of the sacrificial horse the wife of the sacrificer (the queen) has to spend the night with the horse, a curtain is hung to set off the place where the horse is; this curtain is called अधिवास (*adhivāsa*) *[as supplied: spelt with ಧಿ here and with ಧೀ above]*. This meaning also fits here.
+ಹಿರಣ್ಯಾನಿ—the various ornaments used for adorning the horse: a golden necklace, silver anklets and hoof-covers, and so on. Trappings used to decorate the horse.
+ಅರ್ವಂತಂ—here the commentator explains that the accusative case is used instead of the genitive, अर्वतः (*arvataḥ*).
+ಪದ್ವೀಶಂ—the meaning of this word is explained in the 14th Ṛk of this sūkta.
+The sage prays that the cloth and other ornaments that adorn the horse, and the ropes that were used to tie it, may (after the slaying of the horse) be offered to the gods and give them delight.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+*(Transcribed, not explained.)*
+ಉಪಸ್ತೃಣಂತಿ—the root स्त्याञ् आच्छादने (*styāñ ācchādane*), kryādi class; the substitution of *anta* for the third person plural of *laṭ*; by the rule क्यादिभ्यः श्ना (*kyādibhyaḥ śnā*) the vikaraṇa *śnā*; by the rule प्वादीनां ह्रस्वः (*pvādīnāṃ hrasvaḥ*) (Pā. Sū. 7-3-80) shortening of the root; because the affix has the designation *ñit*, by श्नाभ्यस्तयोरातः (*śnābhyastayorātaḥ*) (Pā. Sū. 6-4-112) elision of the *ā* of the vikaraṇa; because of the connection with *yat* the nighāta accent does not come; the accent on the first syllable of the affix comes; by तिजिचोदात्तवति (*tijicodāttavati*) (Pā. Sū. 8-1-71) the gati (*upa*) becomes wholly unaccented.
+ಅಧೀವಾಸಮ್—the root वस आच्छादने (*vasa ācchādane*); the affix *ghañ*; by अत उपधायाः (*ata upadhāyāḥ*) vṛddhi; by कर्षात्वतः (*karṣātvataḥ*) (Pā. Sū. 6-1-159) the accent on the last syllable comes; by अन्येषामपि दृश्यते (*anyeṣāmapi dṛśyate*) (Pā. Sū. 6-3-137) lengthening of the first member (*adi*).
+ಪ್ರಿಯಾ—when the form is प्रियाणि (*priyāṇi*), in the neuter, by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-70) elision of *śi* comes.
+
+### Printed p. 207
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 207 (as supplied).*
+
+ಯಾಮಯಂತಿ—the root यम उपरमे (*yama uparame*); by हेतुमति च (*hetumati ca*) (Pā. Sū. 3-1-26) the affix *ṇic*; *laṭ* after the *ṇijanta*; the substitution of *anta* for *jhi* in the third person plural; because of the vikaraṇa *śap*, guṇa for the *ṇic*; the substitution अयादेश (*ayādeśa*); by the statement संज्ञापूर्वकोविधिरनित्यः (*saṃjñāpūrvakovidhiranityaḥ*) the shortening that would arise from the designation *mit* does not come in the Saṃhitā; because it stands after a finite verb, the nighāta accent comes. || 16 ||
+
+#### Ṛk 17
+**॥ संहितापाठः ॥**
+> यत्ते॑ सा॒दे मह॑सा॒ शूकृ॑तस्य॒ पाष्णार्न्य॑ वा॒ कश॑या ना
+> तु॒तोद॑ ।
+> सु॒चेव॒ ता ह॒विषो॑ अध्व॒रेषु॒ सर्वा॒ ता ते॒ ब्रह्म॑णा सूदयामि ॥ १७ ॥
+*[ಹಡಪಾರ!] — garbled label as supplied; the standard label (Pada-pāṭha) follows.*
+**॥ पदपाठः ॥**
+> यत् । ते । सादे । महसा । शूकृतस्य । पाष्णार्न्या । वा । कशया । वा । तुतोद ।
+> स्रुचाइव । ता । हविषः । अध्वरेषु । सर्वा । ता । ते । ब्रह्मणा । सूदयामि ॥ १७ ॥
+*[ಸಾಯುಣಭಾಷ್ಯಂ] — garbled label as supplied; the standard label follows.*
+**॥ सायणभाष्यम् ॥**
+> महसा बलेन शू कृतस्य । शब्दानुकरणमेतत् । शूत्कारं कुर्वतस्ते तव सादे
+> सदनेऽगमने निमित्तभूते सति ॥ सदेर्भावे घञ् । कर्षात्वत इत्यंतोदात्तत्वं ॥
+> अर्थतो गमनं कुर्वञ्त्यात्कारं कुर्वतस्ते त्वां पाष्णार्य वा कशया वा तुतोद
+> व्यथयति यद्यस्मात् तस्मात्ते तव ता तानि सर्वा सर्वाण्यध्वरेषु यागेषु ब्रह्मणा
+> मंत्रेण सूदयामि । क्षरामि । आहुतित्वेन कल्पयामीत्यर्थः । तत्र दृष्टांतः ।
+> अद्वरेषु यागेषु हविषो हविराज्यादिकं स्रुचेव स्सुचा यथा सूदयंति तद्वत् ॥
+*Gist:* Sāyaṇa: when you slow down snorting from effort and are struck by heel or whip, all that hurt I pour away with the mantra, as the ladle pours oblations.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(He ashva—O sacrificial horse); महसा (*mahasā*)—with strength (that is, firmly); शूकृतस्य (*śūkṛtasya*)—of you who make the sound *śū* (from exhaustion); ते (*te*)—your; सादे (*sāde*)—when the going does not advance (when, while walking and snorting, you stop now and then); (त्वां (*tvāṃ*)—you); पाष्णार््य (*pāṣṇārya*)-
+
+### Printed p. 208
+*Running head: 208 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨.] (as supplied).*
+
+ವಾ [वा (*vā*)]—whether by a blow of the foot (the word पाष्णार््य (*pāṣṇārya*) is broken across the page in the print); कशया वा (*kaśayā vā*)—or by a whip; यत् (*yat*)—in whatever manner; तुतोद (*tutoda*)—you were hurt; ते (*te*)—your (what befell you); ता सर्वा (*tā sarvā*)—all such acts of the nature of injury; अध्वरेषु (*adhvareṣu*)—in the sacrifices; हविषः (*haviṣaḥ*)—oblations of ghee and the like; स्रुचाइव (*srucāiva*)—as one offers into the fire with the ladle called *sruk*, the instrument of oblation, and pleases the gods; ताः (*tāḥ*)—those sufferings of yours; ब्रह्मणा (*brahmaṇā*)—with mantras and the like; सूदयामि (*sūdayāmi*)—I soothe.
+
+**भावार्थ (Bhāvārtha)**
+O sacrificial horse, when you were moving about and, tired, snorted strongly and stopped now and then, you were hurt by blows of the foot or by whips (to make you run fast); all those acts of injury I soothe for you by the recitation of mantras and the like, as in the sacrifices one pours ghee with the wooden ladle called *sruk* into the fire and pleases the gods.
+
+**Printed English**
+Whoever has goaded you in your paces, either with heel or with whip
+whilst snorting in your strength,—all these (vexations) I pour out with holy
+prayer, as oblations with the ladle.
+*[ವಿಶೇಷವಿವರಗಳು] — garbled label as supplied; the standard label follows.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+ಸಾದೇ—सदनेऽगमने निमित्तभूते सति (*sadane 'gamane nimittabhūte sati*). The meaning is: when, being very tired and without strength to go, the horse stops now and then.
+ಮಹಸಾ ಶೂಕೃತಸ್ಯ—strongly, that is firmly, making the sound *śū śū*; the meaning is: when the horse, exhausted by fatigue and without strength to go forward quickly, is making the sound *śū śū*. (Snorting with great effort).
+ಪಾಷ್ಣಾರ್ವಾ ಕಶಯಾ ವಾ *[as supplied: ಪಾಷ್ಣಾರ್ವಾ]*—it is the custom that riders, when the horse does not go but backs away, press it with their heels and strike it with a whip, urging it to go fast—Goading with the stirrups (heels) or with the whip.
+ಸುಜೀವ ತಾ ಹವಿಷೋ ಅಧ್ವರೇಷು, ಸರ್ವಾ ತಾ ತೇ ಬ್ರಹ್ಮಣಾ ಸೂದಯಾಮಿ *[as supplied: ಸುಜೀವ, where the Saṃhitā has ಸ್ರುಚೇವ]*—here the sage gives an illustration. Just as in the sacrifices, to satisfy the gods, ghee and the like are offered into the fire with the wooden offering-ladle called *sukku* *[as supplied: ಸುಕ್ಕೆಂಬ]*, so he says that he soothes your sufferings, that is, all the hardships you underwent as described before, by the recitation of mantras.
+
+### Printed p. 209
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೧೦.] ಋಗ್ವೇದಸಂಹಿತಾ 209 (as supplied).*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+*(Transcribed, not explained.)*
+ಸಾದೇ—the root षदल्य विशकरणगत्यवसादनेषु (*ṣadalya viśakaraṇagatyavasādaneṣu*); the affix *ghañ* in the sense of the abstract; by अतउपधायाः (*ataupadhāyāḥ*) (Pā. Sū. 7-1-116) vṛddhi of the penultimate; by कर्षात्वतः (*karṣātvataḥ*) (Pā. Sū. 6-1-159) the accent on the last syllable comes; a locative form.
+ಪಾಷ್ಣಾರ್‍ಯ—the root पृषु सेचने (*pṛṣu secane*); by the rule पृणिपृश्नि पार्षि (*pṛṇipṛśni pārṣi*) (U. Sū. 4-49-2) *pārṣṇi* is irregularly formed *[as supplied: the print repeats the words ಎಂಬುದರಿಂದ, and has ಪಾಷ್ಣಾರ್‍ಯ and ಪಾರ್ಷಿ]*; an instrumental form.
+ತುತೋದ—the root तुद व्यथने (*tuda vyathane*); by छंदसि लुज्लज्लिटः (*chaṃdasi lujlajliṭaḥ*) (Pā. Sū. 3-4-6) *liṭ* in the sense of the present; a form in the third person singular *[as supplied: ಪ್ರಥನುಪುರುಷ]*; because of the connection with *yat* the nighāta accent does not come; since *ṇal* has the mark *l*, by लिति (*liti*) (Pā. Sū. 6-1-193) the udātta comes on the syllable before the affix.
+ಸರ್ವಾ—by शेश्चंदसि बहुलम् (*śeścaṃdasi bahulam*) (Pā. Sū. 6-1-70) elision of *śi*.
+ಸೂದಯಾಮಿ—the root षूद क्षरणे (*ṣūda kṣaraṇe*); by धात्वादेःषःसः (*dhātvādeḥṣaḥsaḥ*) (Pā. Sū. 6-164 *[as supplied: the print gives 6-164]*) *s* in place of the initial; by सत्यापपाश (*satyāpapāśa*) (Pā. Sū. 3-1-25) the affix *ṇic*; the affix *mip* in the first person singular of *laṭ*; because of the vikaraṇa *śap*, guṇa for the *ṇic*; the substitution अयादेश (*ayādeśa*); because it stands after a finite verb, the nighāta accent comes. || 17 ||
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of symmetrical swirls and lines.] A figure line (vol12/html/figures/fig1_line09066.jpg) followed: the picture shows an ornament and the Saṃhitā and Pada blocks of Ṛk 18, which are already in the supplied text (blocks b7 and b8); the figure line was removed from kn.md and nothing was re-read from the picture.*
+
+#### Ṛk 18
+**॥ संहितापाठः ॥**
+> चतु॑स्त्रिंशद्वा॒जिनो॑ दे॒वबं॑धो॒र्वंक्री॒रश्व॑स्य॒ स्वधि॑तिः॒ समे॑ति ।
+> अच्छि॑द्रा॒ गात्रा॑ व॒युना॑ कृणोत॒ परु॑ष्परुरनु॒घुष्या॒ विश॑स्त ॥
+> ॥१८॥
+
+**॥ पदपाठः ॥**
+> चतुःत्रिंशत् । वाजिनः । देवबंधोः । वंक्रीः । अश्वस्य । स्वधितिः । सं । एति ।
+> अच्छिद्रा । गात्रा । वयुना । कृणोत । परुष्परुः । अनुघुष्य । वि । शस्त्र ॥ १८ ॥
+
+*The label Sāyaṇa-bhāṣya occurs twice in the supplied text, with nothing between the two.*
+**॥ सायणभाष्यम् ॥**
+> वाजिनोऽश्वस्य देवबंधोर्देवानां प्रियस्य चतुस्त्रिंशद्वंक्रीरेतत्संख्यान्युभयपार्श्वास्थीनि स्वधितिश्चेदनसाधनोऽसिः समेति । सम्यग्गच्छति छेदनाय । इतरेषा-
+*[stray line as supplied: [14] Vol. 12]] — the bhāṣya block breaks off at the foot of the page in the middle of the word ಇತರೇಷಾ-, which continues on the next page.*
+
+### Printed p. 210
+*Running head: 210 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+> मजादीनां षड्विंशतिरेव षड्विंशतिरस्य वंक्रयः । ऐ. ब्रा. २-६ । इति प्रैषात् । हे
+> विशसनस्य कर्तारः अस्याश्वस्य गात्राणि शरीरावयवानच्छिद्राच्छिद्राणि यथा भवंति तथा
+> वयुना वयुनानि प्रज्ञानानि ! वयुनमिति प्रज्ञानाम वयुनमभिख्येति तन्नामसूक्तत्वात् कृणोत । कुरुत ॥ तप्तनस्तनथनाश्चति तबादेशः ॥ हृदयजिह्वावक्षःप्रभृतीनि प्रज्ञाय मध्यॆ छिन्नानि मा कुरुतेत्यर्थः । तदर्थं परुःपरुः प्रतिपर्व
+> प्रतिहृदयाद्यवयवमनुघुष्येदमवद्यमिति संशब्दैव वि शस्त्र । विशिसनं कुरुत ॥
+> शस् हिंसायां । छांदसः शपो लुक् ॥ गात्रंगात्रमस्यानूनं कृणुतात् । ऐ. ब्रा.
+> २.६ । इति प्रैषात् ॥
+*Gist:* Sāyaṇa: the horse's thirty-four ribs (other animals have twenty-six, Ai. Brā. 2-6) are entered by the knife; the cutters are to cut limb after limb without breaking, announcing each joint.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+देवबंधोः (*devabaṃdhoḥ*)—of that which is related to the gods, and; वाजिनः (*vājinaḥ*)—which is swift; अश्वस्य (*aśvasya*)—of this sacrificial horse; चतुस्त्रिंशत् (*catustriṃśat*)—numbering thirty-four; वंक्रीः (*vaṃkrīḥ*)—the side bones; स्वधितिः (*svadhitiḥ*)—this knife, the instrument of cutting; समेति (*sameti*)—approaches; वयुना (*vayunā*)—(of this horse) endowed with the intelligence that knows the form of the body minutely; गात्रा (*gātrā*)—its limbs; अच्छिद्रा (*acchidrā*)—so that they do not become broken pieces; कृणोत (*kṛṇota*)—make; परुष्परः (*paruṣparaḥ*) *[as supplied: the Pada-pāṭha has ಪರುಷ್ಪರುಃ]*—at every joint; अनु घुष्य (*anu ghuṣya*)—(in the matter of your cutting) proclaiming again and again that it is faultless; विशस्त (*viśasta*)—cut up.
+*[ಭಾಷಾರ್ಥ] — garbled label as supplied; the standard label follows.*
+
+**भावार्थ (Bhāvārtha)**
+This knife penetrates the thirty-four side bones of this sacrificial horse, which is related to the gods and swift. O slayers, being endowed with the intelligence that knows the form of this horse's body minutely, make its limbs so that they do not become broken pieces. Proclaim at every joint, in the matter of your cutting, that it is faultless, and cut it up.
+
+**Printed English**
+The axe penetrates the thirty-four ribs of the swift horse: the beloved
+of the gods, (the immolators), cut up (the horse) with skill, so that the
+limbs may be unperforated, and recapitulating joint by joint.
+*[ವಿಶೇಷವಿವರಗಳು] — garbled label as supplied; the standard label follows.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+ಚತುಸ್ತ್ರಿಂಶದ್ವಂಕ್ರೀಃ—वंक्रि (*vaṃkri*) means the side bones. From this it is understood that the sacrificial horse has thirty-four such bones. But for other animals, goats and the like, … *(the sentence is cut off at the end of the supplied text of this window and continues in the next window)*
+
 ---
 
-**Progress note:** Done through printed p. 203. Āprī verses 5-11, grammar of Ṛk 14, Ṛk 15 with Special Topics and start of its grammar
+**Progress note:** Done through printed p. 210. Ṛk 15 grammar end, Ṛks 16-18 of Sūkta 162, pp. 204-210
