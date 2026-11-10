@@ -15426,6 +15426,156 @@ In this way sacrifices of many kinds have been spread out from the mouth of Brah
 
 The sacrifice of knowledge is better than the sacrifice made of material things. All actions find their completion in knowledge alone. Thus the distinction of the sacrifice of knowledge is praised in many places. When it is said that they sacrificed with such a sacrifice of the nature of knowledge (यज्ञं अयजंत (*yajñaṃ ayajaṃta*)), the second word *yajña* may be explained as Viṣṇu or as Prajāpati. By sentences such as "यज्यो विष्णुः प्रजापतिः (*yajyo viṣṇuḥ prajāpatiḥ*)" (Maitrī Upaniṣad 6.16, printed ಮೈತ್ರೋಪನಿಷತ್. ೬. ೧೬) the identity of sacrifice with Viṣṇu, and of sacrifice with Prajāpati, is stated. Therefore the purport is that the Sādhyas, having worshipped Viṣṇu with the sacrifice of knowledge, obtained the world of Viṣṇu. The meaning is that in this holy *nāka*, the Sādhyas and the others who formerly worshipped sacrifice with sacrifice have each obtained their own places.
 
+### Printed p. 657
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೨೩ ] Ṛgveda-saṃhitā 657 (as supplied).*
+
+साध्याः (*sādhyāḥ*)—this word is read among the names of rays (Ni. 2-15). And when explaining this same Ṛk, the Nirukta further says द्युस्थानो देवगण इति नैरुक्ताः । पूर्वं देवयुगमित्याख्यानं (*dyusthāno devagaṇa iti nairuktāḥ | pūrvaṃ devayugamityākhyānaṃ*) (Ni. 12-41): "a group of gods whose place is heaven, say the Nairuktas; the legend says, an earlier age of gods". According to the view of the authors of the Nirukta the meaning is the deities of the heavenly world; or the view of the tradition is that they are the first among the gods, as Yāska has stated. The nature of the Sādhyas is stated differently in different places. For example, explaining this same passage, the Aitareya Brāhmaṇa says:
+
+छंदांसि वै साध्या देवास्तेऽग्रेऽग्नि नाग्निमयजंत ते स्वर्गं लोकमायन् (*chaṃdāṃsi vai sādhyā devāste 'gre 'gni nāgnimayajaṃta te svargaṃ lokamāyan*)
+आदित्याश्चैवेहासन्नंगिरसश्च तेऽग्रेऽग्नि नाग्निमयजंत ते स्वर्गं लोकमायन् (*ādityāścaivehāsannaṃgirasaśca te 'gre 'gni nāgnimayajaṃta te svargaṃ lokamāyan*)
+(Ai. Brā. 1-16)
+
+("The metres indeed are the Sādhya gods; at first they sacrificed with Agni to Agni; they went to the heavenly world. And the Ādityas were here and the Aṅgirases; at first they sacrificed with Agni to Agni; they went to the heavenly world.")
+
+The metres are the Sādhyas; in the beginning they worshipped Agni with fire (with fire-churning). As its fruit they obtained the heavenly world. Likewise the Ādityas and the Aṅgirases also performed the worship of Agni with fire and obtained the heavenly world, it says. It is this that Sāyaṇa has stated: आदित्या अंगिरसश्च साध्या देवा उच्यंते (*ādityā aṃgirasaśca sādhyā devā ucyaṃte*), that the Ādityas and the Aṅgirases are well known as the Sādhya deities. That the Aṅgirases sought out and brought Agni, and performed the worship of Agni, is described in many places. In the Ṛk-saṃhitā and elsewhere this word has three kinds of application: as a proper name, as the name of a line of seers, and as a name belonging to a group of deities. In all three contexts a direct connection between the Aṅgirases and Agni in the form of sacrifice is stated. First,
+
+शौनको ह वै महाशालोंगिरसं विधिवदुपसन्नः पप्रच्छ । कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति (*śaunako ha vai mahāśāloṃgirasaṃ vidhivadupasannaḥ papraccha | kasminnu bhagavo vijñāte sarvamidaṃ vijñātaṃ bhavatīti*)
+(Muṇḍaka Upaniṣad 1-1-3)
+
+("Śaunaka, the great householder, approached Aṅgiras in the prescribed manner and asked: 'By knowing what, Venerable One, does all this become known?'") Here it is stated that Aṅgiras was a seer who knew the truth and that he taught Śaunaka the knowledge of the sacrificial fire. Second,
+
+this is the name of a line of seers. The first ancestor of that line is the sacrificial fire. From that sacrificial fire itself the seer called Aṅgiras came into being and that line grew and flourished. The same matter is stated in the Ṛk-saṃhitā also:
+
+त्वमग्ने प्रथमो अंगिरा ऋषिर्देवो देवानामभवः शिवः सखा (*tvamagne prathamo aṃgirā ṛṣirdevo devānāmabhavaḥ śivaḥ sakhā*)
+(Kh. Saṃ. 1-31-1; abbreviation as supplied.)
+
+("You, O Agni, were the first Aṅgiras, a seer, a god, a kindly friend of the gods.") *[as supplied: after the reference a stray line "[42] [Vol. 12" (the printer's signature) is printed; kept.]*
+
+### Printed p. 658
+*Running head: 658 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨ ಸೂ ೧೬೪] (as supplied).*
+
+Just as this matter is indicated in such Ṛks, the Aitareya Brāhmaṇa also states it in sentences such as ये०ऽगिरा असंस्तेंगिरसोऽभवन् (*ye0 'girā asaṃsteṃgiraso 'bhavan*) (Ai. Brā. 3 34, hyphen absent in print): "those who were [printed ಯೇ೦ಽಗಿರಾ] became the Aṅgirases". And the story that the seers called Aṅgirases sought out the sacrificial fire hidden in a cave and obtained him is told in Ṛk-saṃhitā sentences such as
+
+त्वामग्ने अंगिरसो गुहा हितमन्वविंदञ्छश्रियाणं वनेवने । स जायसे मध्यमानः सहो महत्वामाहुः सहसस्पुत्रमंगिरः (*tvāmagne aṃgiraso guhā hitamanvaviṃdañchaśriyāṇaṃ vanevane | sa jāyase madhyamānaḥ saho mahatvāmāhuḥ sahasasputramaṃgiraḥ*)
+(Ṛ. Saṃ. 5-11-6)
+
+("O Agni, the Aṅgirases found you hidden in the cave, lodged in every wood. You are born when churned, mighty in strength; they call you the son of strength, O Aṅgiras.")
+
+and in Brāhmaṇa sentences such as
+
+समिद्धिर्हैतमंगिरस ऐंधत (*samiddhirhaitamaṃgirasa aiṃdhata*)
+(Ka. Prā. 1-4-1-25; abbreviation as supplied.)
+
+The Aṅgirases, who obtained the sacrificial fire and worshipped it with fire itself, are praised with gratitude and devotion in
+
+अंगिरसो नः पितरो नवग्वा अथर्वाणो भृगवः सोम्यासः । तेषां वयं सुमत् यज्जियानामपि भद्रे सौमनसे स्याम (*aṃgiraso naḥ pitaro navagvā atharvāṇo bhṛgavaḥ somyāsaḥ | teṣāṃ vayaṃ sumat yajjiyānāmapi bhadre saumanase syāma*)
+(Ṛ. Saṃ. 10-14-6)
+
+("The Aṅgirases are our fathers, the Navagvas, the Atharvans, the Bhṛgus, worthy of Soma; may we remain in the good favour of those worthy of worship.") One view is that it is those Aṅgirases that are indicated as Sādhyas in the present Ṛk. This can be understood from the explanation of the Aitareya Brāhmaṇa and from Sāyaṇa's bhāṣya. Besides this, the Sādhyas are greatly praised as belonging to a particular class of deities, as guides in sacrifice and the like, and as having obtained an excellent world through the performance of sacrifice and other rites.
+
+अथ यत्पंचमममृतं तत्साध्या उपजीवंति ब्रह्मणा मुखेन न वै देवा अश्नंति न पिबंतेतदेवामृतं दृष्ट्वा तृप्ति (*atha yatpaṃcamamamṛtaṃ tatsādhyā upajīvaṃti brahmaṇā mukhena na vai devā aśnaṃti na pibaṃtetadevāmṛtaṃ dṛṣṭvā tṛpti*)
+(Chā. U. 3-10-7; printed as ಛ: ೩೮ ೩-೧೦-೭, a garbled abbreviation, kept.)
+
+("Now the fifth nectar: the Sādhyas live on it, with Brahman as mouth; the gods neither eat nor drink; they are satisfied by merely seeing that nectar.") With the help of Brahman as mouth the Sādhyas partake of the fifth nectar. [The fifth nectar means the Upaniṣad. The purport is that they attain the realisation of Brahman and experience bliss.] "Partaking" does not mean eating or drinking. The Sādhyas, being gods, neither eat nor drink; the purport is that they experience bliss merely by looking at the nectar of the form of the Upaniṣad.
+
+त एतदेव रूपमभिसंविशंत्येतस्माद्रूपाद्यंति । स य एतदेवममृतं वेद साध्यानामेवैको भूत्वा ब्रह्मणैव मुखेनैतदेवामृतं दृष्ट्वा (*ta etadeva rūpamabhisaṃviśaṃtyetasmādrūpādyaṃti | sa ya etadevamamṛtaṃ veda sādhyānāmevaiko bhūtvā brahmaṇaiva mukhenaitadevāmṛtaṃ dṛṣṭvā*)
+
+### Printed p. 659
+*Running head: [ಆ. ೨. ಅ. ೩. ವ. ೨೩.] Ṛgveda-saṃhitā 659 (as supplied).*
+
+तृप्यति स एतदेव रूपमभिसंविशत्येतस्माद्रूपादुदेति (*tṛpyati sa etadeva rūpamabhisaṃviśatyetasmādrūpādudeti*)
+(Bhā. U. 3-10-2, 3; abbreviation as supplied.)
+
+("They enter this very form and go forth from this form. He who thus knows this nectar becomes one of the Sādhyas, and with Brahman as mouth, seeing this nectar, is satisfied; he enters this very form and rises from this form.") These Sādhyas obtain the form that lies within the sun. Again from that same form they obtain their existence. The knower who knows this principle also becomes one among the Sādhyas. Partaking of the nectar of the form of the Upaniṣad, he obtains satisfaction of the self. He too obtains the very form that is in the middle of the sun.
+
+स यावदादित्य उत्तरत उदेता दक्षिणतोऽस्तमेता द्विस्तावधूर्ध्व उदेतार्वागस्तमेता साध्यानामेव तावदाधिपत्यं स्वाराज्यं पर्येता (*sa yāvadāditya uttarata udetā dakṣiṇato 'stametā dvistāvadhūrdhva udetārvāgastametā sādhyānāmeva tāvadādhipatyaṃ svārājyaṃ paryetā*)
+(Chā. U. 3-10-4)
+
+("As long as the sun rises in the north and sets in the south, rises upward and sets downward, for so long he obtains the lordship and self-rule of the Sādhyas.") *[as supplied: the word ದ್ವಿಸ್ತಾವಧೂರ್ಧ್ವ is printed so and kept.]* The sacrificer who has attained the Sādhya form, and the knower who has known the principle of sacrifice, obtain the self-rule enjoyed by the Sādhyas and go on enjoying it as long as there is the course of the sun, southward and northward, upward and downward. Thus the pre-eminence of the act of sacrifice is praised. The Śatapatha Brāhmaṇa cites the present Ṛk itself and explains it in this way.
+
+यान्वै तान्सप्तपुरुषान् । एकं पुरुषमकुर्वन्तस् प्रजापतिरभवत्स् प्रजा असृजत स प्रजाः सृष्टोर्ध्व उदक्रामत्स एतं लोकमगच्छद्यत्रैष एतत्तपति नो ह तर्ह्यन्य एतस्मादत्र यज्ञिय आस तं देवा यज्ञेनैव यष्टुमध्रियंत (*yānvai tānsaptapuruṣān | ekaṃ puruṣamakurvantas prajāpatirabhavats prajā asṛjata sa prajāḥ sṛṣṭordhva udakrāmatsa etaṃ lokamagacchadyatraiṣa etattapati no ha tarhyanya etasmādatra yajñiya āsa taṃ devā yajñenaiva yaṣṭumadhriyaṃta*)
+(Ś. Brā. 10-2-2-1)
+
+("Those seven persons whom they made into one person became Prajāpati; he created creatures; having created creatures he went upward; he went to that world where this (sun) burns; there was then no other sacrificial victim for it than he; the gods undertook to sacrifice him with sacrifice alone.")
+
+"सप्त पुरुषानेकं पुरुषमकुर्वन् (*sapta puruṣānekaṃ puruṣamakurvan*)": that they made the seven persons into one person has been stated before (Ś. Brā. 6-1-1-3). This unique Person is Prajāpati. This Prajāpati created creatures and went upward to the world of Āditya. Then, because there was no other animal for the sacrifice, the gods made this Prajāpati himself the sacrificial victim. Therefore,
+
+तस्मादेतदृषिणाभ्यनूक्तं । यज्ञेन यज्ञमयजंत देवा इति यज्ञेन हि तं यज्ञमयजंत देवास्तानि धर्माणि प्रथमान्यासन्निति ते हि धर्माः प्रथमेक्रियंत ते ह नाकं महिमानः सचंतेति स्वर्गो वै लोको नाको देवा महिमानस्ते देवाः लोकग्‌ंसचंत ये तं यज्ञमय जन्नित्येतत् (*tasmādetadṛṣiṇābhyanūktaṃ | yajñena yajñamayajaṃta devā iti yajñena hi taṃ yajñamayajaṃta devāstāni dharmāṇi prathamānyāsanniti te hi dharmāḥ prathamekriyaṃta te ha nākaṃ mahimānaḥ sacaṃteti svargo vai loko nāko devā mahimānaste devāḥ lokagṃsacaṃta ye taṃ yajñamaya jannityetat*)
+(Ś. Brā. 10-2.2-2)
+
+("Therefore this was spoken after by the seer: 'The gods sacrificed with sacrifice'—for with sacrifice they sacrificed that sacrifice; 'those were the first rites'—for those rites were performed first; 'those mighty ones attain heaven'—nāka is indeed the heavenly world, the gods are the mighty ones; those gods attain the world who sacrificed that sacrifice.") *[as supplied: the form ಲೋಕಗ್‌ಂಸಚಂತ is printed so in the Sanskrit and kept.]*
+
+They offered the sacrifice of the form of Prajāpati with sacrifice; since this rule was established first, the seers have said of it "तानि धर्माणि प्रथमान्यासन् (*tāni dharmāṇi prathamānyāsan*)". These rules pervaded the atmosphere
+
+### Printed p. 660
+*Running head: 660 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+(or: became extended into the atmospheric region). Therefore it is stated that those who perform, with this sacrifice, the sacrifice of the form of Prajāpati go to heaven. In the same way all the gods, the sacrificers, have become dwellers in heaven.
+
+यत्र पूर्वे साध्यास्यंति देवाः इति । प्राणा वै साध्या देवास्त एतमग्र एवमसाधयन्नेतदेव बुभूषंतस्त उ एवाप्येतर्हि साधयंति पश्चेदमन्यदभवद्यजत्रममर्त्यस्य भुवनस्य भूनेति पश्चाहैवेदमन्यद्यज्जियमास यत्किंचामृतं (*yatra pūrve sādhyāsyaṃti devāḥ iti | prāṇā vai sādhyā devāsta etamagra evamasādhayannetadeva bubhūṣaṃtasta u evāpyetarhi sādhayaṃti paścedamanyadabhavadyajatramamartyasya bhuvanasya bhūneti paścāhaivedamanyadyajjiyamāsa yatkiṃcāmṛtaṃ*)
+(Pa. Brā. 10-2-2-3; abbreviation as supplied.)
+
+("'Where the earlier Sādhya gods are.' The Sādhya gods are the vital breaths; they first accomplished this one; and they accomplish it even now. 'Afterwards this other worshipful thing came to be, from the greatness of the immortal world'; afterwards this other thing worshipful came to be, whatever is immortal.") *[as supplied: ಸಾಧ್ಯಾಸ್ಯಂತಿ and ಯಜ್ಜಿಯಮಾಸ are printed so and kept.]*
+
+The Sādhyas have been dwellers of this heaven from of old. The seven vital breaths are these Sādhyas. At the beginning, in order to become the body of Prajāpati, the seven vital breaths themselves made him a Sādhya. Therefore the same matter is described thus in a Ṛk-saṃhitā sentence also:
+
+पश्चेदमन्यदभवद्यजत्रममर्त्यस्य भुवनस्य भूना । सुपर्णो अंग सवितुर्गरुत्मान्पूर्वो जातः स उ अस्यानु धर्म (*paścedamanyadabhavadyajatramamartyasya bhuvanasya bhūnā | suparṇo aṃga saviturgarutmānpūrvo jātaḥ sa u asyānu dharma*)
+(Ṛ. Saṃ. 10 149-3, hyphen absent in print)
+
+("Afterwards this other worshipful thing came to be, from the greatness of the immortal world. The bird, O friend, Savitṛ's Garutmat, was born first; he follows this law.") Only afterwards did this worshipful deity come into being along with the immortal world. This supreme thing is called the winged Garutmat. With the help of this original thing alone, all the other immortal things became worthy of worship. Thus the meaning of the word *sādhya* and of the word *yajña* is stated and the relation between the two is shown. When this same mantra is recited in the Puruṣa-sūkta (Ṛ. Saṃ. 10-90-6), Sāyaṇa states a somewhat different meaning:
+
+देवाः-प्रजापतिप्राणरूपा ; यज्ञेन यथोक्तेन मानसेन संकल्पेन ; यज्ञं-यथोक्तयज्ञस्वरूपं प्रजापतिं ; आयजंत-पूजितवंतः (*devāḥ-prajāpatiprāṇarūpā ; yajñena yathoktena mānasena saṃkalpena ; yajñaṃ-yathoktayajñasvarūpaṃ prajāpatiṃ ; āyajaṃta-pūjitavaṃtaḥ*)
+
+The gods, who are the vital breaths of Prajāpati, performed with their mental resolve the sacrifice of the form of Prajāpati. That special worship became helpful for the support of the world.
+
+यत्र—यस्मिन्विराट् प्राप्तिरूपे नाके ; पूर्वे साध्याः पुरातना विराडुपास्तिसाधकाः संति । ते विराट् प्राप्तिरूपं स्वर्गं प्राप्नुवंति (*yatra—yasminvirāṭ prāptirūpe nāke ; pūrve sādhyāḥ purātanā virāḍupāstisādhakāḥ saṃti | te virāṭ prāptirūpaṃ svargaṃ prāpnuvaṃti*)
+
+This Ṛk in the Puruṣa-sūkta is explained thus: all these Sādhyas, who are of the form of the vital breaths of Prajāpati and who worship the Virāj Puruṣa, obtain the heaven fit for the attainment of the Virāj Puruṣa. Praising this partaking of sacrifice, the Aitareya Brāhmaṇa says:
+
+### Printed p. 661
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೩. ] Ṛgveda-saṃhitā 661 (as supplied).*
+
+सैषा स्वर्ग्याहुतिर्यदग्न्याहुतिर्यदि ह ना अस्यब्राह्मणोक्तो यदि दुरुक्तोक्तो यजथेऽथ हैषाहुतिर्गच्छत्येव देवान्न पाप्मना संसृज्यते (*saiṣā svargyāhutiryadagnyāhutiryadi ha nā asyabrāhmaṇokto yadi duruktokto yajathe 'tha haiṣāhutirgacchatyeva devānna pāpmanā saṃsṛjyate*)
+(Ai. Brā. 1-16)
+
+("This is the oblation that leads to heaven, namely the Agni oblation. Whether it is spoken of him by a non-Brāhmaṇa or ill spoken, if he sacrifices, this oblation goes to the gods indeed and is not mixed with sin.") *[as supplied: ಅಸ್ಯಬ್ರಾಹ್ಮಣೋಕ್ತೋ is printed so and kept.]*
+
+According to the rule described in the mantra "यज्ञेन यज्ञमयजंत (*yajñena yajñamayajaṃta*)", and as the Sādhya and other gods followed it, those who partake of sacrifice by means of the sacrificial fire obtain the heavenly world. The oblations of one who knows this principle and carries out the sacrifice reach the gods who dwell in heaven. Even if he is a non-Brāhmaṇa, or is in any other way blameworthy, the gain of heaven is assured to him. He becomes free of sin, it states. In this way, for the present Ṛk, in the view of the deities (adhidaivata) and in the view of the self (adhyātma) alike, the purport is explained in the Brāhmaṇas such as the Śatapatha and in the Upaniṣads such as the Chāndogya.
+
+*Grammar (transcribed, not explained):*
+यज्ञेन (*yajñena*)—root यज देवपूजासंगतिकरणदानेषु (*yaja devapūjāsaṃgatikaraṇadāneṣu*); by यजयाचयत (*yajayācayata*) (Pā. Sū. 3-3-90) the pratyaya naṅ; by the pratyaya accent it becomes final-udātta.
+अयजंत (*ayajaṃta*)—laṅ, prathama-puruṣa, bahuvacana form of the same root; the tiṅanta-nighāta accent results.
+धर्माणि (*dharmāṇi*)—धृञ् धारणे (*dhṛñ dhāraṇe*); by अर्तिस्तुसुहु (*artistusuhu*) (U. Sū. 1-137) the pratyaya man; because of it guṇa for the i [sic: printed ಇಕಿಗೆ] of the root; raparatva (printed ರಸರವಾಗಿ) results; because it is nit, the ādyudātta accent (printed ಅದ್ಯುದಾತ್ತ) results.
+आसन् (*āsan*)—अस भुवि (*asa bhuvi*) root; laṅ prathama-puruṣa bahuvacana form; the tiṅanta-nighāta accent results.
+नाकम् (*nākam*)—न अकमस्मिन् इति नाकः (*na akamasmin iti nākaḥ*) ... tam; by नभ्राण्‌नपात्‌नवे (*nabhrāṇnapātnave*) (Pā. Sū. 6-3-75) it is nipātita through the absence of na-lopa.
+महिमानः (*mahimānaḥ*)—by पृथ्वादिभ्य इमनिज्वा (*pṛthvādibhya imanijvā*) (Pā. Sū. 5-1-122) the pratyaya imanic after the word maha; by the sūtra यस्येतिच (*yasyetica*) loss of a; because it is cit, the final-udātta accent results.
+सचंत (*sacaṃta*)—root षच समवाये (*ṣaca samavāye*); by Vedic usage laṅ prathama-puruṣa bahuvacana form; by Vedic usage the aḍāgama does not occur; the tiṅanta-nighāta accent results.
+संति (*saṃti*)—because of the yad-connection the nighāta accent does not occur; because tip is pit, the root accent remains. || 50 ||
+
+### Printed p. 662
+*Running head: 662 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+#### Ṛk 51
+**॥ संहितापाठः ॥**
+> स॒मा॒नमे॒तदु॑द॒कमुच्चैत्यन॒ चाह॑भिः ।
+> भूमिं॑ प॒र्जन्या॒ जिन्॑नंति॒ दिवं॑ जिन्नंत्य॒ग्नयः॑ ॥ ५१ ॥
+*[as supplied: the label printed as "೧೨೩೪೫೬" is garbled; it stands in the place of the label Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> समा नं । एतत् । उदकं । उत् । च । एति । अव । च । अहभिः ।
+> भूमिं । पर्जन्याः । जिन्वंति । दिवं । जिन्वंति । अग्नयः ॥ ५१ ॥
+*[as supplied: the label printed as "ಕಯಣಭಟ್ಟ, c" is garbled; it stands in the place of the label Sāyaṇa-bhāṣya.]*
+**॥ सायणभाष्यम् ॥**
+> एतत्प्रसिद्धमुदकं समानं । एकरूपमित्यर्थः । अहभिः कैश्चिदहोभिर्ग्रीष्मकालीनैरुच्चैति । ऊर्ध्वं गच्छति । तथाहभिर्वर्षकालीनैरेव तदुदकमव चैति । अवाज्मुखं च गच्छति ॥ चवायोगे प्रथमेति प्रथमाविभक्तिर्न निहन्यते !! रश्मिनाड्यैव
+> भूमिं प्राप्नोति । तदेवोच्यते । पर्जन्याः प्रीणयितारो मेघा भूमिं जिन्वंति ।
+> उदकसंस्थायेन सस्याद्युत्पादनद्वारा भूमिषान्प्रीणयंति । तथाग्नय आहवनीयाद्याः स्वे हुत आहुत्या दिवं द्युलोकस्थान्वेवाञ्जिन्वंति । प्रीणयंति ॥
+*Gist:* The same water rises in summer days and descends in rainy days; the clouds gratify the earth, the Āhavanīya and other fires gratify heaven.
+*[as supplied: the label printed as "೧ ಪ್ರತಿಪದಾರ್ಥ ೧" is garbled; it stands in the place of the label Pratipadārtha.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+समानं (*samānaṃ*)—of one form; एतत् उदकं (*etat udakaṃ*)—this well-known water; अहभिः (*ahabhiḥ*)—(in summer) in some days; उच्चैति (*uccaiti*)—rises upward (to the atmosphere) (अहभि: (*ahabhi:*)—in some days of the rainy season); अव च (*ava ca*)—and (from the atmosphere) pours downward; पर्जन्याः (*parjanyāḥ*)—the clouds, givers of delight; भूमिं (*bhūmiṃ*)—the earth; जिन्वंति (*jinvaṃti*)—gratify; अग्नयः (*agnayaḥ*)—the Āhavanīya and other fires; दिवं (*divaṃ*)—the heavenly world; जिन्वंति (*jinvaṃti*)—gratify.
+*[as supplied: the label printed as "॥ ಭವಾರ್ಥ ॥" is garbled; it stands in the place of the label Bhāvārtha.]*
+**भावार्थ (Bhāvārtha)**
+The water, of one form, rises upward to the atmosphere in the summer days. In the days of the rainy season it pours downward from the atmosphere. The clouds, which bring satisfaction to the world, gratify the earth. The Āhavanīya and other fires gratify the heavenly world, or the gods who are in the heavenly world *[as supplied: the paragraph ends here without a full stop in the print; it continues in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 656. Sūkta 164 Ṛk 50 special topics (nāka, three meanings of yajña, Agni as paśu), pp. 651-656
+**Progress note:** Done through printed p. 662. Sūkta 164 end of Ṛk 50 special topics (Sādhyas, Aṅgirases, Śatapatha), grammar, and Ṛk 51 start, pp. 657-662
