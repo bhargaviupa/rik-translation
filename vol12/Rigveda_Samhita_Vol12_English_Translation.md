@@ -1184,6 +1184,89 @@ in all such sentences the epithet देवपुत्रे (*devaputre*) is e
 
 उत (*uta*)—and; अद्रुहः (*adruhaḥ*)—who never does harm; पितुः (*pituḥ*)—of the Earth, who stands in the place of a father; स्वतवः (*svatavaḥ*)—with strength under her own control; महि (*mahi*)—(therefore) great; तत् (*tat*)—famous, together with grace; मनः (*manaḥ*)—the mind. (Likewise) मातुः (*mātuḥ*)—of the heaven-world, who is in the form of a mother, … *[the supplied text breaks off here in the middle of a word ("ದ್ಯುಲೋಕಾಧಿ"); the Pratipadārtha continues on p. 43, in the next window]*
 
+### Printed p. 43
+
+*Running head: [ಅ. ೨ .ಅ. ೩. ವ. ೨. ] Ṛgveda-saṃhitā, p. 43 (as supplied).* (The Pratipadārtha of Ṛk 2, broken off at the end of p. 42 in the word "ದ್ಯುಲೋಕಾಧಿ", continues: "…ದ್ಯುಲೋಕಾಧಿ|ದೇವತೆಯ", "…of the presiding deity of the heaven-world".)
+
+(मनः (*manaḥ*)—the mind.) हवीमभिः (*havīmabhiḥ*)—by hymns of praise accompanied by prayer; मन्ये (*manye*)—I know, that is, I make (it) satisfied. [Or: अद्रुहः (*adruhaḥ*)—who never does harm; पितुः (*pituḥ*)—of the presiding deity of the heaven-world, who is in the form of a father; स्वतवं (*svatavaṃ*) *[so printed]*—with strength under her own control; महि (*mahi*)—(therefore) great; तत् (*tat*)—famous, together with grace; मनः (*manaḥ*)—the mind; (likewise) मातुः (*mātuḥ*)—of the Earth, who is in the form of a mother; मनः (*manaḥ*)—the mind (endowed with the qualities stated above); हवीमभिः (*havīmabhiḥ*)—by hymns of praise accompanied by prayer; मन्ये (*manye*)—I know, that is, I satisfy.] पितरा (*pitarā*)—Heaven and Earth, the parents of the whole world; सुरेतसा (*suretasā*)—by their excellent capacity; प्रजायाः (*prajāyāḥ*)—of the people in the form of sacrificers (their desired objects); भूम (*bhūma*)—as very abundant; उरु (*uru*)—as extensive; अमृतं (*amṛtaṃ*)—as free from death; वरीमभिः (*varīmabhiḥ*)—by their help of protection; चक्रतुः (*cakratuḥ*)—made.
+
+**भावार्थ (Bhāvārtha)**
+
+With hymns accompanied by prayer I honour and satisfy the mind, strong with its own power and therefore great and gracious, of the presiding deity of the heaven-world, who never does harm and is in the form of a father, and the mind of the Earth, in the form of a mother, who has the same qualities. Heaven and Earth, the parents of the whole world, by their excellent capacity make the desired objects of the people in the form of sacrificers abundant, extensive and eternal, by their help of protection.
+
+**Printed English translation**
+
+Verily I propitiate, by my invocations, the mind of the benevolent father, and the great and spontaneous (affection) of the mother (of all beings): The parents, with kindness, have secured, by their excellent protections, the vast and manifold immortality of their progeny.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Heaven and Earth are designated by the word पितरा (*pitarā*) *[printed "ನಿರ್ದೇಶಿಸದೆ", which would read "does not designate"; the sense requires "designates"; kept as supplied]*. But from this ṛk it cannot be known exactly which is the father and which the mother. Sāyaṇa has explained it in two ways: पितुः पितृस्थानीयायाः पृथिव्याः (*pituḥ pitṛsthānīyāyāḥ pṛthivyāḥ*), मातुः (*mātuḥ*)—मातांतरिक्षं निर्मियंते अस्मिन् भूतानि (*mātāṃtarikṣaṃ nirmiyaṃte asmin bhūtāni*) (Ni. 2-8). Formed from the root पा (*pā*), which means "to protect", the earth, which protects all beings, is called "father"; and since all beings are formed in the atmosphere, the atmosphere is called "mother": thus, quoting the statement of the Nirukta authors, he has given the first meaning.
+
+### Printed p. 44
+
+*Running head: 44 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159.*
+
+This too is correct in one way from the point of view of derivation, but cannot accord with the traditional meaning. Ordinarily the sentences that designate the atmosphere as "father" and the earth as "mother" are the well-known ones.
+
+तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत् पिता द्यौः । (*tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tat pitā dyauḥ |*)
+तद्गावाणः सोमसुतो मयोभुवस्तदश्विना शृणुतं धिष्ण्या युवं ॥ (*tadgāvāṇaḥ somasuto mayobhuvastadaśvinā śṛṇutaṃ dhiṣṇyā yuvaṃ ‖*)
+
+(Ṛ. Saṃ. 1-89-4)
+
+Here the earth is designated "mother" and the atmosphere "father".
+
+प्रैषः स्तोमः पृथिवीमंतरिक्षं वनस्पतीरोषधी राये अश्याः । (*praiṣaḥ stomaḥ pṛthivīmaṃtarikṣaṃ vanaspatīroṣadhī rāye aśyāḥ |*)
+देवोदेवः सुहवो भूतु मह्यं मा नो माता पृथिवी मर्मत् धात् । (*devodevaḥ suhavo bhūtu mahyaṃ mā no mātā pṛthivī marmat dhāt |*)
+
+(Ṛ. Saṃ. 5-42-16)
+
+उप द्यां स्कंभथुः स्कंभनेनाप्रथतं पृथिवीं मातरं वि । (*upa dyāṃ skaṃbhathuḥ skaṃbhanenāprathataṃ pṛthivīṃ mātaraṃ vi |*)
+
+(Ṛ. Saṃ. 6-72-2)
+
+दौ ३ प्पितः पृथिवि मातरध्रुगन्ने भ्रातर्वसवो मृळता नः । (*dau 3 ppitaḥ pṛthivi mātaradhruganne bhrātarvasavo mṛḷatā naḥ |*)
+विश्व आदित्या अदिते सजोषा अस्मभ्यं शर्म बहुलं वि यंत ॥ (*viśva ādityā adite sajoṣā asmabhyaṃ śarma bahulaṃ vi yaṃta ‖*)
+
+(Ṛ. Saṃ. 6-51-5)
+
+In many such ṛks (Ṛ. Saṃ. 1-90-7, 1-185-11, 6-20-6 and others) the atmosphere is addressed as "father" and the earth as "mother". Thus, not only in the sentences of the Saṃhitā but also in
+
+द्याः पिता॥ पृथिवी माता (*dyāḥ pitā‖ pṛthivī mātā*) (Tai. Brā. 3-7-5-4-5)
+
+and in Brāhmaṇa sentences such as
+
+अथ यत्राहोपहूते द्यावापृथिवी इति । तदग्नीध आ दधाति तदग्नीत्पाश्ना- (*atha yatrāhopahūte dyāvāpṛthivī iti | tadagnīdha ā dadhāti tadagnītpāśnā-*)
+त्युपहूता पृथिवी मातोप मां पृथिवी माता ह्वायतामग्निराग्निध्रात्सा- (*tyupahūtā pṛthivī mātopa māṃ pṛthivī mātā hvāyatāmagnirāgnidhrātsā-*)
+होपहूता द्यौष्टितोप मां द्यौष्टिता । (*hopahūtā dyauṣṭitopa māṃ dyauṣṭitā |*)
+
+and in Upaniṣad sentences such as मधु द्यौरस्तु नः पिता । (*madhu dyaurastu naḥ pitā |*) (Bṛ. U. 6-3-6), the epithet "father" is established for the presiding deity of the heaven-world; therefore in the present ṛk the meaning that Sāyaṇa gave the second time, with यद्वा (*yadvā*), is the proper one.
+
+सुरेतसा (*suretasā*)—For this word he has given the meaning शोभनसामर्थ्येन (*śobhanasāmarthyena*). Although the meaning "capacity for procreation" is ordinarily well known for this word, the word is used in other senses too.
+
+### Printed p. 45
+
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೨.] Ṛgveda-saṃhitā, p. 45 (printed "ಪ. ೨." for the Varga; as supplied).*
+
+The authors of the Nirukta have included this word among अर्णः (*arṇaḥ*), क्षोदः (*kṣodaḥ*) and the other names of water (Ni. 2-27, printed "ನಿ- ೨-೨೭").
+
+दिवो न यस्य रेतसो दुघानाः पंथासो यंति शवसापरीताः । (*divo na yasya retaso dughānāḥ paṃthāso yaṃti śavasāparītāḥ |*)
+तरद्वेषाः सासहिः पौंस्येभिर्मरुत्वान्नो भवत्विंद्र ऊती ॥ (*taradveṣāḥ sāsahiḥ pauṃsyebhirmarutvānno bhavatviṃdra ūtī ‖*)
+
+(Ṛ. Saṃ. 1-100-3)
+
+In such ṛks the meaning is "rain-water".
+
+कथा महे पुष्टिंभराय पूष्टे कद्रुद्राय सुमखाय हविर्दे । (*kathā mahe puṣṭiṃbharāya pūṣṭe kadrudrāya sumakhāya havirde |*)
+कद्विष्णव उरुगायाय रेतो ब्रवः कदग्ने शरवे बृहत्यै ॥ (*kadviṣṇava urugāyāya reto bravaḥ kadagne śarave bṛhatyai ‖*)
+
+(Ṛ. Saṃ. 4-3-7)
+
+Here Sāyaṇa has explained the word रेतस् (*retas*) as "sin that is the cause of destruction". The use of this word in the sense of "procreative semen", and the description of the extraordinary power that semen has, are given at length in the Taittirīya Saṃhitā (5-6-8).
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses मन्ये (*manye*), अद्रुहः (*adruhaḥ*) (root द्रुह (*druha*), suffix *kvip* by सत्तूद्विष (*sattūdviṣa*) Pā. Sū. 3-2-61), महि (*mahi*), हवीमभिः (*havīmabhiḥ*) (suffix *manin*, Vedic augment; Pā. Sū. 6-1-34), सुरेतसा (*suretasā*) (accent by Pā. Sū. 6-2-119), पितरा (*pitarā*) (the residue by माता च पिता च पितरा पितामात्रा (*mātā ca pitā ca pitarā pitāmātrā*) Pā. Sū. 1-2-70; सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 3-1-39 for the dual) and चक्रतु (*cakratu*) *[printed "ಚಕ್ರತು:"]* (root डुकृञ् (*ḍukṛñ*), perfect dual), with the accents; some sūtra numbers are broken across lines in the supplied text and are kept as supplied. The grammar of Ṛk 2 may continue on p. 46.
+
 ---
 
-**Progress note:** Done through printed p. 42 (PDF 42). Sūkta 159 Ṛk 1 Special Topics end and grammar, Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha start
+**Progress note:** Done through printed p. 45 (PDF 45). Sūkta 159 Ṛk 2 Pratipadārtha end, Bhāvārtha, English, Special Topics (pitarā, surētasā), grammar start
