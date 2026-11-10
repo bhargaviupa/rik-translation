@@ -1470,6 +1470,106 @@ quoting this ṛk they have explained the word जामि (*jāmi*) as "sister
 
 here too it is explained as "you who are in the position of a sister, like a sister to Varuṇa". This same meaning, extended, also becomes "kinsmen" for this word, as (was shown) earlier with examples… *[the supplied text of p. 52 breaks off here, at "ಹಿಂದೆ ಉದಾಹರಣೆಗಳೊಡನೆ", in the middle of a sentence; it continues on p. 53, in the next window]*
 
+### Printed p. 53
+
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೨. ] Ṛgveda-saṃhitā, p. 53 (as supplied).* (The Special Topics of Ṛk 4 continue.)
+
+*[The sentence broken off at the end of p. 52, "…ಹಿಂದೆ ಉದಾಹರಣೆಗಳೊಡನೆ", continues with "ತಿಳಿಸಿದೆ.": "…(as) was shown earlier with examples."]* In the present ṛk it is made clear by the epithets सयोनी (*sayonī*) and the rest that Heaven and Earth are sisters to each other.
+
+सयोनी (*sayonī*)—समानोत्पत्तिस्थाने । (*samānotpattisthāne |*) It says "having one place of origin"; but this place of origin is not stated exactly. In other places, however, the origin of Heaven and Earth is spoken of:
+
+जनिता दिपो जनिता पृथिव्याः पिबा सोमं मदाय कं शतक्रतो । (*janitā dipo janitā pṛthivyāḥ pibā somaṃ madāya kaṃ śatakrato |*)
+यं ते भागमधारयन्विश्वाः सेहानः पृतना उरु ज्रयः समप्सुजिन्मरुत्वा (*yaṃ te bhāgamadhārayanviśvāḥ sehānaḥ pṛtanā uru jrayaḥ samapsujinmarutvā*)
+इंद्र सत्पते ॥ (*iṃdra satpate ‖*)
+
+(Ṛ. Saṃ. 8-36-4)
+
+in such ṛks Indra is said to be the creator of Heaven and Earth. But
+
+मा नो हिंसीज्जनिता यः पृथिव्या यो दिवं सत्यधर्मा जजान । (*mā no hiṃsījjanitā yaḥ pṛthivyā yo divaṃ satyadharmā jajāna |*)
+यश्चापश्चंद्रा बृहतीर्जजान कस्मै देवाय हविषा विधेम । (*yaścāpaścaṃdrā bṛhatīrjajāna kasmai devāya haviṣā vidhema |*)
+
+(Ṛ. Saṃ. 10-121-9)
+
+here it is Hiraṇyagarbha, and
+
+नाभ्या आसीदंतरिक्षं शीर्ष्णो द्यौः समवर्तत । (*nābhyā āsīdaṃtarikṣaṃ śīrṣṇo dyauḥ samavartata |*)
+पद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोका अकल्पयन् । (*padbhyāṃ bhūmirdiśaḥ śrotrāttathā lokā akalpayan |*)
+
+(Ṛ. Saṃ. 10-90-14)
+
+in this ṛk the Puruṣa in the form of Virāṭ is said to have created Heaven and Earth. Thus, whenever the creation of the two is described, it is clearly stated that both have one origin; that is what this ṛk says with the epithet सयोनी (*sayonī*).
+
+मायिनः (*māyinaḥ*)—माया प्रज्ञा । (*māyā prajñā |*) स्वविषयप्रज्ञावंतः । (*svaviṣayaprajñāvaṃtaḥ |*) It is explained as "having wisdom in the matter of their duty". मायेति प्रज्ञानाम । (*māyeti prajñānāma |*) The authors of the Nirukta have included माया (*māyā*), वयनं (*vayanaṃ*) and others among the names of wisdom (Ni. 3-13). Moreover,
+
+मायामू तु यज्ञियानामेतामपो यत्तूर्णिश्चरति प्रजानन् । (*māyāmū tu yajñiyānāmetāmapo yattūrṇiścarati prajānan |*)
+
+(Ṛ. Saṃ. 10-88-6)
+
+quoting this ṛk and explaining स एव प्रज्ञां त्वेतां मन्यंते । (*sa eva prajñāṃ tvetāṃ manyaṃte |*) they have shown that the word माया (*māyā*) means "wisdom" (Ni. 7-27). And
+
+### Printed p. 54
+
+*Running head: 54 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159 (printed with a full stop after "೧೫೯").*
+
+विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु । (*viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu |*)
+
+(Ṛ. Saṃ. 6-58-1)
+
+quoting this ṛk also (Ni. 12-17), they explained it as "wisdom" here too. Therefore in the present ṛk मायिनः (*māyinaḥ*) is an epithet of the rays, meaning "having wisdom".
+
+समुद्रे अंतः (*samudre aṃtaḥ*)—समुद्रशब्दोऽंतरिक्षनामसु पाठात्तद्वचनः स चैवं (*samudraśabdo 'ṃtarikṣanāmasu pāṭhāttadvacanaḥ sa caivaṃ*) यास्केन निरुक्तः । (*yāskena niruktaḥ |*) Having said that the authors of the Nirukta have included the word समुद्र (*samudra*) among the names of the atmosphere, Sāyaṇa quoted the Nirukta sentence and also gave the derivation of the word समुद्र (*samudra*) *[a line-end "ಸಂಮೋದಂತೇs-ಸ್ಮಿನ್" in the supplied quotation, with a Latin "s" for the avagraha, is joined and written with ಽ in kn.md]*:
+
+समुद्रः कस्मात्समुद्रवंत्यस्मादापः समभिद्रवंत्येनमापः संमोदंतेऽस्मिन् भूतानि समुदको भवति समुनत्तीति ना । (*samudraḥ kasmātsamudravaṃtyasmādāpaḥ samabhidravaṃtyenamāpaḥ saṃmodaṃte 'smin bhūtāni samudako bhavati samunattīti nā |*)
+
+(Ni. 9-11) *[reference as printed here; the same derivation is cited below as Ni. 2-10]*
+
+The word is formed: from the root द्रु (*dru*), which means "to move", together with the two prefixes सं (*saṃ*) and उद् (*ud*), which gives the sense "they flow upward, overflowing"; or, secondly, from the same root द्रु (*dru*) together with the prefixes सम् (*sam*) and अभि (*abhi*), giving the sense that the waters (of the rivers) flow toward it; or from the root मुद् (*mud*), which means "to rejoice", with the prefix सम् (*sam*), giving the sense that the aquatic creatures rejoice in it; or because it is the store (*nidhi*) of water; or from the root उद् (*ud*), which means "to be wet", with the prefix सम् (*sam*), giving the sense "to wet": thus the authors of the Nirukta have shown the derivation of the word समुद्र (*samudra*) (Ni. 2-10).
+
+Thereafter, to show the difference between the earthly *samudra* and the *samudra* that is a synonym of the atmosphere, regarding those who interpret without knowing the difference and so give room for doubt, (the Nirukta says):
+
+तत्र समुद्र इत्येतत्पार्थिवेन समुद्रेण संदिह्यते । (*tatra samudra ityetatpārthivena samudreṇa saṃdihyate |*)
+
+Many people mistake the atmospheric *samudra* for the earthly one and interpret accordingly; that is not right; and in this context, to show the difference between the atmospheric *samudra* and the earthly *samudra*, they have also quoted a story:
+
+तयोर्विभागस्तत्रेतिहासमाचक्षते । देवापिश्चार्ष्टिषेणः शंतनुश्च कौरन्यौ (*tayorvibhāgastatretihāsamācakṣate | devāpiścārṣṭiṣeṇaḥ śaṃtanuśca kauranyau*)
+भ्रातरा बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे । देवापिस्तपःप्रतिपेदे । ततः शंतनो राज्ये द्वादशवर्षाणि देवो न ववर्ष । तमू- (*bhrātarā babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣecayāṃcakre | devāpistapaḥpratipede | tataḥ śaṃtano rājye dvādaśavarṣāṇi devo na vavarṣa | tamū-*)
+⟦⟧
+
+*[the word "ತಮೂ-" is broken across the page break; the quotation continues on p. 55]*
+
+### Printed p. 55
+
+*Running head: [ಅ ೩. ಅ. ೩. ವ. ೨ ] Ṛgveda-saṃhitā, p. 55 (as supplied; "ಅ ೩." for the Aṣṭaka).*
+
+चुब्राह्मणा अधर्मस्त्वयाचरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं (*cubrāhmaṇā adharmastvayācarito jyeṣṭhaṃ bhrātaramaṃtarityābhiṣecitaṃ*)
+तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच (*tasmātte devo na varṣatīti | sa śaṃtanurdevāpiṃ śiśikṣa rājyena | tamuvāca*)
+देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति तस्यैद्वर्षकामसक्त तस्यैषा (*devāpiḥ purohitaste 'sāni yājayāni ca tveti tasyaidvarṣakāmasakta tasyaiṣā*)
+भवति । (*bhavati |*)
+
+Devāpi and Śantanu were sons of Ṛṣṭiṣeṇa, of the Kuru line; Śantanu, the younger of the two, had himself consecrated and became king of that kingdom. Devāpi went to the forest to practise austerities. From then on, for twelve years there was no rain in Śantanu's kingdom. Then the brahmins said to Śantanu: "By sending away your elder brother to the forest and becoming king yourself, you have done a sinful act; therefore the rain god has not rained in your kingdom." When Śantanu then tried to have Devāpi consecrated king, Devāpi said: "I shall be your priest and perform the sacrifice for you", and had the sacrifice performed for the sake of rain. Then rain fell from the upper *samudra* into the lower *samudra*: showing thus the difference between the two seas,
+
+आर्ष्टिषेणो होत्रमृषिर्निषीवन् देवापिर्देवसुमतिं चिकित्वान् । (*ārṣṭiṣeṇo hotramṛṣirniṣīvan devāpirdevasumatiṃ cikitvān |*)
+स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि ॥ (*sa uttarasmādadharaṃ samudramapo divyā asṛjadvarṣyā abhi ‖*)
+
+(Ṛ. Saṃ. 10-98-5)
+
+quoting this ṛk, they have shown the difference between the upper sea and the lower sea that are described here. Here "upper sea" means the atmosphere and "lower sea" means the earthly sea. Thus the meaning of this word has to be given according to the context. But
+
+यथा वातो यथा वनं यथा समुद्र विजति । (*yathā vāto yathā vanaṃ yathā samudra vijati |*)
+एवा त्वं दशमास्य सहावेहि जरायुणा ॥ (*evā tvaṃ daśamāsya sahāvehi jarāyuṇā ‖*)
+
+(Ṛ. Saṃ. 5-78-8)
+
+in such ṛks it is hard to say whether it is the atmospheric synonym or the earthly sea.
+
+या आपो दिव्या उत वा स्रवंति खनित्रिमा उत वा याः स्वयंजाः । (*yā āpo divyā uta vā sravaṃti khanitrimā uta vā yāḥ svayaṃjāḥ |*)
+समुद्रार्था याः शुचयः पावकास्ता आपो देवीरिह मामवंतु ॥ (*samudrārthā yāḥ śucayaḥ pāvakāstā āpo devīriha māmavaṃtu ‖*)
+
+(Ṛ. Saṃ. 7-49-2)
+
+In many such ṛks it can be said definitely that it is the earthly sea. In some places this word is used as an adjective and gives the sense "flowing".
+
 ---
 
-**Progress note:** Done through printed p. 52 (PDF 52). Sūkta 159 Ṛk 3 grammar end, Ṛk 4 complete to Special Topics (jāmī)
+**Progress note:** Done through printed p. 55 (PDF 55). Sūkta 159 Ṛk 4 Special Topics (sayonī, māyinaḥ, samudra, Devāpi-Śantanu story)
