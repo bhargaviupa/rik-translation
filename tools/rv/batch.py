@@ -125,7 +125,7 @@ def cmd_commit(a):
     if cfg.branch and '--no-git' not in a:
         cur=sh('git rev-parse --abbrev-ref HEAD').stdout.strip()
         if cur!=cfg.branch and not os.environ.get('ALLOW_OTHER_BRANCH'): sys.exit(f'STOP: on branch {cur!r}, Vol {cfg.vol} belongs on {cfg.branch!r}')
-    pg=json.load(open(os.path.join(w,'pages.json'))); last=pg[-1]; enf=rd(os.path.join(w,'en_final.md')).rstrip('\n'); knf=rd(os.path.join(w,'kn_final.md')).strip()
+    pg=json.load(open(os.path.join(w,'pages.json'))); last=max(pg,key=lambda x:x['printed']); enf=rd(os.path.join(w,'en_final.md')).rstrip('\n'); knf=rd(os.path.join(w,'kn_final.md')).strip()   # last = highest printed page, even if a merged head was appended to pages.json out of order (Vol 12 w0159)
     s=rd(cfg.en); n0=len(s); i=s.rfind('**Progress note:**')
     if i>=0:
         assert i>len(s)-20000,'progress note not near the end'; s=s[:i].rstrip('\n').rstrip('-').rstrip('\n')

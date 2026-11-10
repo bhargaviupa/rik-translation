@@ -17,7 +17,7 @@ BLOCK={'samhita','pada','bhashya'}
 DROP=('This image contains no discernible text',)
 def clean_line(l):
     l=l.replace('||','॥').replace('|','।')
-    l=re.sub('(?<='+KN+')[sS](?='+KN+')','ಽ',l)
+    l=re.sub('(?<='+KN+')[sS](?=-?'+KN+')','ಽ',l)   # also before a line-end hyphen (ತೇs-ಸ್ಮಿನ್), recurring in Vol 12
     l=refs_fix.fix_kn(l.strip().strip('*').strip())      # ಸಿ.→ನಿ., ಮಿ./ಮ./ಪು. ಸಂ.→ಋ. ಸಂ., ಇ. ಬ್ರಾ.→ಐ. ಬ್ರಾ. before a number (the user's reading of the print, Nov 9 2026)
     return '' if re.fullmatch(r'[-~_=. ]{3,}',l) else l
 def label_of(l):
