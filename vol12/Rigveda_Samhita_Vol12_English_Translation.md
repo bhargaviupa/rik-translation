@@ -2739,6 +2739,80 @@ Before this, the three sons of Sudhanvan, Ṛbhu, Vibhvan and Vāja, became pupi
 > *‖ 3 ‖*
 > *‖ 3 ‖*
 
+### Printed p. 96
+
+*Running head: 96 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 161.*
+
+**॥ सायणभाष्यम् ॥**
+
+*[The Ṛk 3 bhāṣya begins here. The label is garbled in the supplied text ("ಕಾಯಣಭಾಷ್ಯಂ") and sat inside the block; moved out and the standard label inserted. Hyphenated line breaks in the block are joined.]*
+
+> हे आगत देव अग्निमंगनादिगुणविशिष्टं दूतं दूतकर्म प्राप्तवंतं त्वां
+> प्रति यत् यत्कार्यमब्रवीतन । अब्रुवन् ॥ व्यत्ययेन मध्यमः । पूर्ववत्तनप् ॥
+> किमिति अश्वः कर्त्वः । एकस्मादश्वादश्वांतरं कर्तव्यमित्यर्थः । अश्वादश्वमतक्षतेति वक्ष्यमाणत्वात् ॥ कृत्यार्थे तवैकेनिति त्वन्प्रत्ययः ॥ उतापि च रथः कर्त्वः कर्तव्यः। धेनुः
+> कर्त्वा । चर्मरहिता मृता गौर्नित्यदोग्री पुनर्नूतना कार्या । तदुत्तरत्र निश्चर्मणो गामरिणीत धीतिभिरिति वक्ष्यमाणत्वात् । तथा द्वा द्वौ पितरौ जीर्णौ संतौ
+> पुनर्युवशा युवान् शयान् प्रकृष्टयौवनोपेत् कर्त्वा कर्तव्या । हे भ्रातरग्ने
+> युष्माकं देवानां तैरुक्तानि कर्माणि कृत्वानु पश्चात्कृत्वी कृत्वा कर्मणैमसि ।
+> एमः । अभिमुख्येन प्राप्पुमः ॥ इण् गत् । इदंतो मसिः ॥ यद्वा । ऋषेरिदं
+> वाक्यं । हे ऋभवः यूयमागतमग्निं दूतं प्रति यदब्रवीतन यत्कार्यं
+> वक्ष्यमाणरूपं कर्तव्येन वदथ अंगीकुरुथ तानि सर्वाणि संपाद्य हे भ्रातरग्ने
+> कृत्वा कर्मणैमसीति ब्रूथेत्यृषिराह ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): the Ṛbhus ask Agni, the messenger, what is to be made — horse, chariot, cow, or aged parents made young — and say that, having done all, they are ready.]*
+
+*[The Pratipadārtha label is garbled in the supplied text ("ಪ್ರಕಡಃರ್ಥ") and the Pratipadārtha sat inside the bhāṣya block; moved out, un-quoted, and the standard label inserted. Likewise the Bhāvārtha label ("ಧನಾರ್ಥ") and text.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+भ्रातः (*bhrātaḥ*)—O Agni, in the form of a brother; दूतं (*dūtaṃ*)—who has taken up the office of messenger; अग्निं (*agniṃ*)—and is endowed with qualities such as अंगन (*aṃgana*) *[so printed, "ಅಂಗನಾದಿ"]*—you, about …; यत् (*yat*)—in what work (printed "ಕಾವ್ಯ", as supplied); अब्रवीतन (*abravītana*)—they said (which of the following must be done?); अश्वः (*aśvaḥ*)—the horse; कर्त्वः (*kartvaḥ*)—is it to be made? उत (*uta*)—or; इह (*iha*)—in the present case; रथः (*rathaḥ*)—the chariot; कर्त्वः (*kartvaḥ*)—is it to be made? धेनुः (*dhenuḥ*)—the cow; कर्त्वा (*kartvā*)—is it to be made? द्वा (*dvā*)—both the parents too; युवशा (*yuvaśā*)—as young people; कर्त्वा (*kartvā*)—are they to be made? तानि (*tāni*)—having done all these tasks; अनु (*anu*)—afterwards; वः (*vaḥ*)—as the gods have said to you; कृत्वी (*kṛtvī*)—(in your) work (printed "ಕಾವ್ಯ"); एमसि (*emasi*)—we shall be ready.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, in the form of a brother, who have taken up the office of messenger and are endowed with qualities such as अंगन (*aṃgana*)! Which of the works stated below have the gods sent word to you that we must do? Must a horse be made? Or must a chariot be built in the present case? Must the dead cow be filled with life and made an everlasting milch cow? Or must the aged parents be made young? After doing all these works we shall make the ladle grow as you have said, that is, we shall make what is one into four.
+
+### Printed p. 97
+
+*Running head: [ಆ ೨.ಅ. ೩ ವ. ೪.] Ṛgveda-saṃhitā, p. 97 (as supplied).*
+
+**Printed English translation**
+
+*[The Latin text breaks "What-ever" over a line, joined here.]*
+
+Then said they, in answer to Agni, the messenger (of the gods)—Whatever is to be done, whether a horse is to be made, or a car is to be made, or a cow is to be made, or the two (old parents) are to be made young,—having done all these (acts), Brother Agni, we are then ready to do (what you desire) to be done.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Even Sāyaṇa has not been able to give the meaning of this ṛk exactly. He too has explained it in two ways: in the first, by construing it as said by the Ṛbhus to Agni; in the second, by construing it as said by the seer of the sūkta to the Ṛbhus themselves. According to the first construction the meaning was given in the Pratipadārtha. According to the second construction, हे ऋभवः यूयमागतमग्निं दूतं प्रति यदब्रवीतन यत्कार्यं वक्ष्यमाण- (*he ṛbhavaḥ yūyamāgatamagniṃ dūtaṃ prati yadabravītana yatkāryaṃ vakṣyamāṇa-*) रूपं कर्तव्यत्वेन वदथ तानि सर्वाणि संपाद्य हे भ्रातरन्ने कृत्वा कर्मणैमसीति (*rūpaṃ kartavyatvena vadatha tāni sarvāṇi saṃpādya he bhrātaranne kṛtvā karmaṇaimasīti*) ब्रूथेत्यृषिराह (*brūthetyṛṣirāha*): "O Ṛbhus, ask Agni, who has come to you as a messenger of the gods, which work you are to do; do those too, and then tell him: O brother Agni, we are ready in the duty that you have stated": this is explained as the sentence said by the seer to the Ṛbhus.
+
+Here the skill in the arts of the Ṛbhus and their filial devotion are described. Since the Ṛbhus are very famous for these qualities, such descriptions occur in all the sūktas seen by seers such as Viśvāmitra and Vāmadeva.
+
+ये अश्विना ये पितरा य ऊती धेनुं ततक्षुर्यभवो ये अश्वा । (*ye aśvinā ye pitarā ya ūtī dhenuṃ tatakṣuryabhavo ye aśvā |*)
+ये अंसत्रा य ऋधग्रोदसी ये विभ्वो नरः स्वपत्यानि चक्रुः ॥ (*ye aṃsatrā ya ṛdhagrodasī ye vibhvo naraḥ svapatyāni cakruḥ ‖*)
+
+(Ṛ. Saṃ. 4-34-9)
+
+"The Aśvin deities were pleased by your chariot-making. Your parents were pleased because you removed their old age and made them young. You made the dead cow a giver of milk": thus the power of the Ṛbhus is praised. And,
+
+अनवस्ते रथमश्वाय तक्षन् त्वष्टा वज्रं पुरुहूत द्युमंतं ॥ (*anavaste rathamaśvāya takṣan tvaṣṭā vajraṃ puruhūta dyumaṃtaṃ ‖*)
+
+(Ṛ. Saṃ. 5-31-4)
+
+"O Indra, the Ṛbhus made your excellent chariot": thus their skill in making chariots is praised.
+
+*[Stray signature line "[ 7 ] Vol. 12" at the end of p. 97, kept in kn.md as a note.]*
+
+### Printed p. 98
+
+*Running head: 98 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 161.*
+
+अश्वः कर्त्वः (*aśvaḥ kartvaḥ*)—There is a special point when it says this: आश्वादश्वमतक्षत (*āśvādaśvamatakṣata*) *[so printed]*, "from one horse they created another horse", is explained later; this is a supernatural power.
+
+धेनुः कर्त्वा (*dhenuḥ kartvā*)—"You made the dead cow, which had no skin, into a cow that gives milk": this is indicated here, as it is explained in the next mantra, निश्चर्मणो गामरिणीत (*niścarmaṇo gāmariṇīta*) (1-161-7).
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses अग्निम् (*agnim*) (root आगि (*āgi*) *[so printed]*; sūtra number printed "ಪಾ. ಸೂ. ೪೯೦"), अब्रवीतन (*abravītana*) (root ब्रूञ् (*brūñ*); Pā. Sū. 3-1-85; Pā. Sū. 7-1-45; Pā. Sū. 7-3-93), कर्त्वः (*kartvaḥ*) (root डुकृञ् (*ḍukṛñ*); Pā. Sū. 3-4-14; Pā. Sū. 6-1-199), युवशा (*yuvaśā*) (root शीज् (*śīj*) *[so printed]*; सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39), कृत्वी (*kṛtvī*) and इमसि (*imasi*) (Pā. Sū. 7-1-46), with the accents; it ends with the mark ॥ ೩ ॥ and a stray ornament line ".:0:", kept as supplied.
+
 ---
 
-**Progress note:** Done through printed p. 95 (PDF 95). Sūkta 161 Ṛk 2 Pratipadārtha end, Bhāvārtha, English, Special Topics, grammar; Ṛk 3 Saṃhitā and Pada
+**Progress note:** Done through printed p. 98 (PDF 98). Sūkta 161 Ṛk 3 bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar
