@@ -12229,6 +12229,128 @@ The purport, that one who has many offspring (or births) experiences hardship of
 (Ni. 9-8, as supplied)
 Literal sense, as printed: "yaḥ īṃ cakāra" means he makes or he scatters, a doubtful (reading), with the rain-rite; "na so asya veda": the middle one alone knows it, the middle one who has seen it, covered by the sun; "sa mātur yonau": the mother is the atmosphere, in which beings are measured out; the womb is the atmosphere, a great member, enveloped by the wind; this other womb too, from this same (source), becomes enveloped; the one of many offspring enters the earth with the rain-rite.
 
+### Printed p. 503
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೦.] ಋಗ್ವೇದಸಂಹಿತಾ 503 (as supplied).*
+
+*[Continuing Ṛk 32]*
+**Special Topics** (continued)
+Here the word "चकार (*cakāra*)", which gives the meanings "create" and "spread", shows the activity of the rain-rite. "न सो अस्य वेद (*na so asya veda*)" means that the cloud cannot know the secret of this rain-principle. It only pours down water in the form of rain; it does not know its secret. But Indra, who resides in that same middle world, knows its secret. This Indra is enveloped by the sun's rays and by the wind, and in the rainy season, descending in the form of rain flowing in manifold shapes, he enters the earth: so Yāska has stated the overall purport of this Ṛk. According to Yāska's explanation:
+
+चकार (*cakāra*)—whether this verb is derived from the root kṛ giving the sense "do", or from the root कृ (विक्षेपे) (*kṛ (vikṣepe)*) giving the sense "scatter", is doubtful, but it relates to the rain-rite. The meaning is: he creates rain, or he scatters the water in the form of rain. When explaining the Nirukta etymology, Durgācārya (printed "ದುರ್ಗಾಚಾರರು") asks कः पुनरसौ (*kaḥ punarasau*) ("who again is this?") and shows with मेघः (*meghaḥ*) that यः (*yaḥ*) is a word referring to the cloud. The meaning is that this cloud has no knowledge of the principle concerning rain; it belongs to Indra, who is of the middle world.
+
+स मातुर्योना परिवीतः (*sa māturyonā parivītaḥ*)—this description refers to Indra, who is in the atmosphere. Here मातुः (*mātuḥ*) means the atmosphere. How this meaning arose, the Nirukta authors have shown in the etymology of this word:
+मातांतरिक्षं निर्मीयंतेऽस्मिन् भूतानि (*mātāṃtarikṣaṃ nirmīyaṃte 'smin bhūtāni*)
+(Ni. 2-8)
+Because beings are created in it, the atmosphere is named "mother". For this same atmosphere "yoni" is also an alternative name. How? Thus:
+योनिरंतरिक्षं महानवयवः परिवीतो वायुना (*yoniraṃtarikṣaṃ mahānavayavaḥ parivīto vāyunā*)
+(Ni. 2-8)
+Because it is a very extensive member enveloped by the wind, the atmosphere is named "yoni".
+अयमपीतरो योनिरेतस्मादेव (*ayamapītaro yoniretasmādeva*) परियुतो भवति (*pariyuto bhavati*)
+(Ni. 7-8, as supplied)
+The member that bears the embryo in the form of offspring is also named "yoni" because it is bound round with flesh and the like: thus the etymology of the word yoni is given in both senses.
+बहुप्रजा निर्ऋतिमानिवेश (*bahuprajā nirṛtimāniveśa*) *[as supplied: so printed, for the Ṛk's "ಆ ವಿವೇಶ"]*—बहुप्रजा भूमिमापद्यते वर्षकर्मणा (*bahuprajā bhūmimāpadyate varṣakarmaṇā*). The meaning is: in the form of rain, spreading very widely and in various ways, he reaches the earth. Here the word nirṛti is taken to mean the earth. How is that?—
+
+### Printed p. 504
+*Running head: 504 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+इमान्येकविंशतिः पृथिवीनामधेयान्यनुक्रांतानि । तत्र निर्यतिर्निरमणादृच्छतेः कृच्छ्रापत्तिरितरा सा पृथिव्या संदिह्यते । तयोर्विभागः (*imānyekaviṃśatiḥ pṛthivīnāmadheyānyanukrāṃtāni | tatra niryatirniramaṇādṛcchateḥ kṛcchrāpattiritarā sā pṛthivyā saṃdihyate | tayorvibhāgaḥ*)
+(Ni. 7-7)
+Among the twenty-one names of the Earth the word nirṛti is also recited. Because she is a giver of delight, the Earth is named nirṛti. But this word is also used in the sense of calamity. In that case it must be understood as derived from the root ṛ: thus the Nirukta authors have shown its etymology; and afterwards they have cautioned that the precise use of this word must be understood, that when the meaning is the Earth one should not take it as calamity, and likewise that when the second meaning is to be given one should not take it as the Earth. They have also stated that there are contexts in which both meanings can be given, and as an example of it have cited in the Nirukta the Ṛk at hand and explained it as above. In this Ṛk the meaning is calamity (printed "ಅಪತ್ತೆಂದೂ") when the spiritual meaning is made, and the Earth in the adhidaivata view.
+
+Explaining this context, Durgācārya states that there are still other mantras that give two kinds of meaning in the same way, and cites the Ṛk
+दधिक्राव्णो अकारिषं जिष्णोरश्वस्य वाजिनः (*dadhikrāvṇo akāriṣaṃ jiṣṇoraśvasya vājinaḥ*)
+सुभिर नो मुखा करत्पण आयूंषि तारिषत् (*subhira no mukhā karatpaṇa āyūṃṣi tāriṣat*)
+(Ṛ. Saṃ. 4-39-6)
+He says that there too is a doubtful situation and both meanings are possible. How? This same mantra is recited in the Agniṣṭoma at the time of the eating of curds. Moreover, in the Aśvamedha sacrifice women recite this mantra before the horse. Because meaning can be given to this mantra according to each context, it is used in different contexts; and in the same way, he says, the word nirṛti, used in the Ṛk at hand, makes a twofold meaning possible for the whole Ṛk.
+
+In the adhidaivata view, when ईं ददर्श हिरुगिन्नु तस्मात् (*īṃ dadarśa hiruginnu tasmāt*) is said, it is known from the Nirukta sentence that this act of seeing relates to Indra. How? हिरुक् (*hiruk*) means "hidden". This word is recited among the names of the hidden, such as निण्यं (*niṇyaṃ*) and सस्वः (*sasvaḥ*) (Ni. 3-19); it means one who is unmanifest. Who is the unmanifest one here? The Nirukta authors have said आदित्योपहितं (*ādityopahitaṃ*); explaining this, Durgācārya (printed "ದುರ್ಗಾಚಾರರು") says आदित्यस्य रश्मंतर्गतं वर्षमनभिव्यक्तं (*ādityasya raśmaṃtargataṃ varṣamanabhivyaktaṃ*)—"rain within the Āditya's rays, not manifest"; कश्चासौ अंतर्गतः स इंद्रः (*kaścāsau aṃtargataḥ sa iṃdraḥ*)—"and who is he that is within? He is Indra"; असावपि मध्यम एव (*asāvapi madhyama eva*)—"he too is of the middle (world)". It is to be understood that the one who is within the sun's rays is Indra. The cloud, Indra and the wind are denizens of the middle world. But the wind
+*[the sentence continues on p. 505]*
+
+### Printed p. 505
+*Running head: [ಅ ೨. ಅ. ೩. ವ ೨೦.] ಋಗ್ವೇದಸಂಹಿತಾ 505 (as supplied).*
+
+and the cloud, though they are makers of rain, being insentient cannot know the principle of rain. "तयोरचेतनत्पादिति भावः (*tayoracetanatpāditi bhāvaḥ*)" *[as supplied: so printed]* is Sāyaṇa's explanation. But for य ईं ददर्श, हिरुक् (*ya īṃ dadarśa, hiruk*) Durgācārya, on the authority of the Nirukta sentence, has given the meaning Indra; Sāyaṇa says "प्राणिकर्मवशेन काले वर्षिता परमेश्वरः आदित्यात्मनि गूढ इत्यर्थः (*prāṇikarmavaśena kāle varṣitā parameśvaraḥ ādityātmani gūḍha ityarthaḥ*)": the Supreme Lord, who pours rain in due season in dependence on the actions of the respective living beings, is within the Āditya and hidden. What is described here by हिरुगिन्नु तस्मात् (*hiruginnu tasmāt*) is described in the Upaniṣads in this way:
+हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखं (*hiraṇmayena pātreṇa satyasyāpihitaṃ mukhaṃ*)
+तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये (*tattvaṃ pūṣannapāvṛṇu satyadharmāya dṛṣṭaye*)
+(Īśā. U. 15)
+The Īśopaniṣad says that the face of truth is covered by a golden vessel.
+हिरण्मयमिव हिरण्मयं (*hiraṇmayamiva hiraṇmayaṃ*) ज्योतिर्मयमित्येतत् (*jyotirmayamityetat*)
+तेन पात्रेणेवापिधानभूतेन सत्यस्यॆवादित्यमंडलस्थस्य ब्रह्मणोऽपिहितमाच्छादितं मुखं द्वारं (*tena pātreṇevāpidhānabhūtena satyasyèvādityamaṃḍalasthasya brahmaṇo 'pihitamācchāditaṃ mukhaṃ dvāraṃ*) *[as supplied: "ಸತ್ಯಸ್ಯೆವಾದಿತ್ಯ…" in the printed text of this passage]*
+(Śāṅkara-bhāṣya)
+By the golden vessel, that is, by a light concealed like a vessel, the face, that is the door, of the Satya-Brahman in the solar disc is covered, veiled. That is, the rays of the sun's disc cover it so that the Satya-Brahman in it is not seen. Here the disc itself is the lidded vessel; the Satya-Brahman within it is the principle of the Paramātman. This same in the Bṛhadāraṇyaka:
+तद्यत्तत्सत्यमसौ स आदित्यो य एष एतस्मिन्मंडले पुरुषः (*tadyattatsatyamasau sa ādityo ya eṣa etasminmaṃḍale puruṣaḥ*)
+(Bṛ. U. 5-7-2)
+The Puruṣa residing within this solar disc is the supreme entity: so it is described, and so on. Since this supreme entity is not perceptible to ordinary perception, the Ṛk at hand describes it by हिरुगिन्नु तस्मात् (*hiruginnu tasmāt*): to one who looks with merely physical vision, even though this Āditya is directly visible, this supreme entity alone remains hidden. That if the nature of such a Paramātman is not fully known, birth, old age and the like, the causes of sorrows of many kinds, will occur again and again, is shown in the Ṛk at hand, as the Nirukta authors have said by the sentence "बहुप्रजाः कृच्छ्रमापद्यत इति परिव्राजकाः (*bahuprajāḥ kṛcchramāpadyata iti parivrājakāḥ*)" (Ni. 2-8).
+अत्र गर्भवासक्लेशपूर्वकजननप्रतिपादनेन तत्परिहाराय आत्मा ज्ञातव्यः इत्यर्थात्पतिपद्यते (*atra garbhavāsakleśapūrvakajananapratipādanena tatparihārāya ātmā jñātavyaḥ ityarthātpatipadyate*) *[as supplied: "ಪತಿಪದ್ಯತೇ"]*
+That is: here, by setting forth birth preceded by the pain of dwelling in the womb, it is implied that the Self must be known in order to put an end to that.
+
+### Printed p. 506
+*Running head: 506 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+Dwelling in the womb, birth with pain, life full of pain, old age, death and the like in the form of suffering, and again the repetitions of all these: since all these are sufferings arising from the ignorance of not knowing that Paramātman, Sāyaṇa has stated at the very beginning of his bhāṣya (printed "ಭಾಷನ") that the chief purport of this Ṛk is that the Self must be known in order to be freed from them. In giving this meaning, the word nirṛti here must be taken to mean sorrow, calamity. [That in the adhidaivata view it means the earth has been stated above.] The meaning is that one without knowledge of the Self, having many offspring, becomes a partaker of unceasing sorrow. Here he has said that "bahuprajā" may mean either an excessive progeny, or that he himself, obtaining other births, takes the form of offspring in many wombs. Describing this same thing in the Kaṭhopaniṣad:
+अविद्यायामंतरे वर्तमानाः स्वयं धीराः पंडितंमन्यमानाः (*avidyāyāmaṃtare vartamānāḥ svayaṃ dhīrāḥ paṃḍitaṃmanyamānāḥ*)
+दंद्रम्यमाणाः परियंति मूढा अंधेनैव नीयमाना यथांधाः (*daṃdramyamāṇāḥ pariyaṃti mūḍhā aṃdhenaiva nīyamānā yathāṃdhāḥ*)
+न सांपरायः प्रतिभाति बालं प्रमाद्यंतं वित्तमोहेन मूढं (*na sāṃparāyaḥ pratibhāti bālaṃ pramādyaṃtaṃ vittamohena mūḍhaṃ*)
+अयं लोको नास्ति पर इति मानी पुनःपुनर्वशमापद्यते मे (*ayaṃ loko nāsti para iti mānī punaḥpunarvaśamāpadyate me*)
+(Kara 1-2-5, 6, as supplied)
+Those who, caught in the wheel of saṃsāra, are full of ignorance are "दंद्रम्यमाणाः (*daṃdramyamāṇāḥ*)": walking in the crooked course of karma, they wander, afflicted by sufferings such as old age, death and disease. Such blind ones, devoid of knowledge, obtaining birth again and again, come under my sway, who am Death. They keep climbing the ladder of sorrow, birth, death and the like: thus Yama explained to Naciketas. This same in the Muṇḍaka:
+अविद्यायां बहुधा वर्तमाना वयं कृतार्था इत्यभिमन्यंति बालाः (*avidyāyāṃ bahudhā vartamānā vayaṃ kṛtārthā ityabhimanyaṃti bālāḥ*)
+यत्कर्मिणो न प्रवेदयंति रागात्तेनातुराः क्षीणलोकाश्चवंते (*yatkarmiṇo na pravedayaṃti rāgāttenāturāḥ kṣīṇalokāścavaṃte*)
+(Mu. 1-2-9) *[as supplied: printed "ಮು. ೧-೨-೯)" with the opening bracket missing]*
+Those who are in the multitude of ignorance, from attachment, that is from desire for the fruit of action, become impatient, groan with sorrow, are diminished in their worlds, and obtain rebirth: so it is described. Therefore it is said that this supreme entity, which does not reach even the physical eye, must be realised by meditation and the like. Explaining what the instrument of this realisation is, and what the seeing is, it says that an ordinary worldly instrument cannot be the means of this seeing. Therefore "य ईं चकार न सो अस्य वेद (*ya īṃ cakāra na so asya veda*)":
+यः संसारावस्थायां ईं एनं कृषिवाणिज्यवेदाध्ययनादिकं चकार सोऽस्य एतन्नवेद (*yaḥ saṃsārāvasthāyāṃ īṃ enaṃ kṛṣivāṇijyavedādhyayanādikaṃ cakāra so 'sya etannaveda*)
+He who in the state of saṃsāra has done this, agriculture, trade, Vedic study and the like, does not know this. One who has performed only external actions such as farming and studying cannot know. Or: यो ददर्श हिरगिन्नु तस्मात् (*yo dadarśa hiraginnu tasmāt*) *[as supplied: "ಹಿರಗಿನ್ನು"]*. यः गिरिनदीसमुद्रबंध्वादिकं ददर्श (*yaḥ girinadīsamudrabaṃdhvādikaṃ dadarśa*)
+*[the sentence continues on p. 507]*
+
+### Printed p. 507
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೦. ] ಋಗ್ವೇದಸಂಹಿತಾ 507 (as supplied).*
+
+जीवनसमये तस्माद्दृष्टात् हिरगिन्नु पृथगेव (*jīvanasamaye tasmāddṛṣṭāt hiraginnu pṛthageva*) Whatever mountains, rivers and the like a man sees in the state of saṃsāra, this principle of the Self is different from all of them. For its realisation, the instrument of meditation and the like, and the means of seeing, manana, nididhyāsana and the like, are indispensable: so it is said. If this realisation takes place, knowledge of Brahman arises, and everlasting happiness is attained without the afflictions of other births: this, Sāyaṇa has explained, is the intention of the adhyātma view.
+
+**Grammar (transcribed, not explained)**
+- चकार (*cakāra*)—root डुकृञ् करणे (*ḍukṛñ karaṇe*). Liṭ form. Because of the connexion with the relative (printed "ಯದ್ಯೋಗ"), the nighāta accent does not occur. By लिति (*liti*) the udātta accent falls on the syllable before the suffix.
+- ददर्श (*dadarśa*)—root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*). In the Veda लिट् (*liṭ*) (as printed). Third person singular form. By यद्वृत्तान्तित्यम् (*yadvṛttāntityam*) the prohibition of the nighāta accent results; so, as before, the udātta accent falls before the suffix.
+- योना (*yonā*)—यु मिश्रणे (*yu miśraṇe*), root. By वहिश्रिश्रुयु (*vahiśriśruyu*) (Uṇ. Sū. 4-4-91, as printed "ಉ. ಸೂ") the suffix ni. By सार्वधातुकार्थधातुकयोः (*sārvadhātukārthadhātukayoḥ*) guṇa for the ik of the root. Because ni is made nit, by इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169) the ādyudātta accent results. By सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) ḍā is substituted for the locative case-ending. Because it is ḍit, elision of the i.
+- परिवीतः (*parivītaḥ*)—वी गत्यादिषु (*vī gatyādiṣu*), root. Suffix kta in the passive. By गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the prakṛti accent for the gati (pari) results.
+- बहुप्रजाः (*bahuprajāḥ*)—प्रजायंते इति प्रजाः जनी प्रादुर्भावे (*prajāyaṃte iti prajāḥ janī prādurbhāve*), root. By उपसर्गेच संज्ञायाम् (*upasargeca saṃjñāyām*) (Pā. Sū. 3-2-99) the suffix ḍa. By the force of ḍit-ness elision of the ṭi (an) of the root. By गतिकारकोपपदात् कृत् (*gatikārakopapadāt kṛt*) the accent of the prakṛti of the kṛd-ending latter member results.
+- निर्यतिम् (*niryatim*)—by तादौ च निति (*tādau ca niti*) (Pā. Sū. 6-250, as printed) the udātta accent for the gati (nir) results.
+- विवेश (*viveśa*)—विश प्रवेशने (*viśa praveśane*), root. Liṭ form. The tiṅanta-nighāta accent results. (Ṛk 32 ends.)
+
+### Printed p. 508
+*Running head: 508 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+#### Ṛk 33
+*[A figure line stood before the Saṃhitā block; the picture was looked at and only repeats the Saṃhitā and Pada blocks already given as text, so the line was removed.]*
+**॥ संहितापाठः ॥**
+> दौर्मे॑ पि॒ता ज॑नि॒ता नाभि॒रत्र॒ बंधु॑र्मे मा॒ता पृ॑थि॒वी॒
+> महीयं ।
+> उ॒त्ता॒नयो॑श्च॒म्वो॒३॒॑ ३ र्योनि॑रं॒तरत्रा॑ पि॒ता दु॑हि॒तुर्गर्भ॒माधा॑त् ॥ ३३ ॥
+**॥ पदपाठः ॥**
+> दौः । मे । पिता । जनिता । नाभिः । अत्र । बंधुः । मे । माता । पृथिवी । मही ।
+> इयं ।
+> उत्तानयोः । चन्वोः । योनिः । अंतः । अत्र । पिता । दुहितुः । गर्भं । आ ।
+> आधात् ॥ ३३ ॥
+**॥ सायणभाष्यम् ॥**
+> दीर्घतमा ब्रवीति । मे मम दौर्द्यलोकः पिता पालकः । न केवलं
+> पालकत्वमात्रं आपि तु जनिता जनयितोत्पादयिता । तत्रोपपत्तिमाह । नाभिरत्र
+> नाभिभूतो भौमो रसोऽत्र तिष्ठतीति शेषः । ततश्चानं जायते अन्नाद्रेतः
+> रेतसो मनुष्य इत्येवं पारंपर्येण जननसंबंधिनो हेतो रसस्यात्र सद्भावात् । अनेनैवाभिप्रायेण जनितेत्युच्यते । अत एव बंधुर्बंधिका तथेयं मही
+> महती पृथिवी मे माता मातृस्थानीया स्वोद्भूतौषध्यादिनिर्मात्रीत्यर्थः। किंचोत्तानयोरूर्ध्वतनयोश्चमैः सर्वस्यात्र्योर्भोगसाधनयोर्द्यावापृथिव्योरंतर्मध्यॆ योनिः सर्वभूतनिर्माणाश्रयमंतरिक्षं वर्तत इति शेषः । अत्रास्मिन्नंतरिक्षे पिता द्युलोकः । अधिष्ठात्रधिष्ठानयोरभेदेनादित्यो द्यौरुच्यते । स्वरश्मिभिः ।
+> अथवा इंद्रः पर्जन्यो वा । दुहितुदूरे निहिताया भूम्या गर्भं सर्वोत्पादनसमर्थं वृष्ट्वुदकलक्षणमाधात् । सर्वतः करोति ॥
+
+> *dīrghatamā bravīti | me mama daurdyalokaḥ pitā pālakaḥ | na kevalaṃ*
+> *pālakatvamātraṃ āpi tu janitā janayitotpādayitā | tatropapattimāha | nābhiratra*
+> *nābhibhūto bhaumo raso 'tra tiṣṭhatīti śeṣaḥ | tataścānaṃ jāyate annādretaḥ*
+> *retaso manuṣya ityevaṃ pāraṃparyeṇa jananasaṃbaṃdhino heto rasasyātra sadbhāvāt | anenaivābhiprāyeṇa janitetyucyate | ata eva baṃdhurbaṃdhikā tatheyaṃ mahī*
+> *mahatī pṛthivī me mātā mātṛsthānīyā svodbhūtauṣadhyādinirmātrītyarthaḥ| kiṃcottānayorūrdhvatanayoścamaiḥ sarvasyātryorbhogasādhanayordyāvāpṛthivyoraṃtarmadhyè yoniḥ sarvabhūtanirmāṇāśrayamaṃtarikṣaṃ vartata iti śeṣaḥ | atrāsminnaṃtarikṣe pitā dyulokaḥ | adhiṣṭhātradhiṣṭhānayorabhedenādityo dyaurucyate | svaraśmibhiḥ |*
+> *athavā iṃdraḥ parjanyo vā | duhitudūre nihitāyā bhūmyā garbhaṃ sarvotpādanasamarthaṃ vṛṣṭvudakalakṣaṇamādhāt | sarvataḥ karoti ‖*
+*[as supplied: a stray fragment क्र, ३२वार्ध (*kra, 32vārdha*) follows the bhāṣya; the Kannada Pratipadārtha that follows had been printed inside the bhāṣya block and was moved out of it.]*
+*Gist:* Heaven is my father, Earth my mother; in the atmosphere between them the sun, Indra or Parjanya places the seed of rain in the earth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+मे (*me*)—to me; द्यौः (*dyauḥ*)—the heaven-world; पिता (*pitā*)—protector (and); जनिता (*janitā*)—the cause of origin; it is so; नाभिः (*nābhiḥ*)—the earthly sap that is like the navel; अत्र (*atra*)—is here (therefore:); बंधुः (*baṃdhuḥ*)—a kinswoman; इयं (*iyaṃ*)—this; मही (*mahī*)—wide; पृथिवी (*pṛthivī*)—Earth.
+*[the Pratipadārtha continues in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 502. Ṛk 31 special topics and grammar; Ṛk 32 (womb, rain per Nirukta)
+**Progress note:** Done through printed p. 508. Ṛk 32 special topics, grammar; Ṛk 33 begins
