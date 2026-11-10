@@ -2590,6 +2590,77 @@ In the introduction to the bhāṣya of this ṛk, Sāyaṇa has told the earlie
 
 The Ṛbhus obtained a share of Soma among the gods by their austerity and intense wish. First, when they wished to obtain it at the morning pressing, Agni, joining the Vasus, rejected them and drove them away. Then, when they wished to obtain it at the midday pressing, Indra, joining the Rudras, drove them away. Again, when they wished to obtain it at the third pressing, the Viśvedevas rejected them there too with harsh words: "You are certainly not fit to drink Soma here; you must not." Then Prajāpati said to Savitṛ: "These Ṛbhus are your pupils; drink Soma with them." Savitṛ agreed. Prajāpati too, staying beside them, drank the Soma juice: thus this story is told in the Aitareya Brāhmaṇa.
 
+### Printed p. 90
+
+*Running head: 90 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 161.* (The Special Topics of Ṛk 1 continue.)
+
+Having obtained such a qualification for drinking Soma, they were drinking from the ladle when Agni, impelled by the gods, entered in the middle; at first they did not know about him and doubted, and then, after discovering who he was, they speak as is said in the ṛk.
+
+किमु श्रेष्ठः किं यविष्ठः (*kimu śreṣṭhaḥ kiṃ yaviṣṭhaḥ*)—ते च ऋभवः आगतं तं समानरूपमवलोक्य (*te ca ṛbhavaḥ āgataṃ taṃ samānarūpamavalokya*) विवेकुमसमर्थाः परस्परमेवं संदिहते । (*vivekumasamarthāḥ parasparamevaṃ saṃdihate |*) When Agni, having taken on their very form, came and sat among them, they could not tell any difference between themselves and Agni; then, in doubt, they express their doubt: "Is the newcomer older than we, or younger? What is the purpose of his coming?" and so on.
+
+महाकुलः (*mahākulaḥ*)—महाकुलोत्पन्न स्वष्टा निर्मितत्वात् । (*mahākulotpanna svaṣṭā nirmitatvāt |*) *[so printed, "ಸ್ವಷ್ಟಾ"]* Since it was made by Tvaṣṭṛ, it is said to be born of a great family.
+
+उत त्यं चमसं नवं त्वष्टुर्देवस्य निष्कृतं । अकर्त चतुरः पुनः ॥ (*uta tyaṃ camasaṃ navaṃ tvaṣṭurdevasya niṣkṛtaṃ | akarta caturaḥ punaḥ ‖*)
+
+(Ṛ. Saṃ. 1-20-6)
+
+In such places the excellent origin of this vessel is described: "Tvaṣṭṛ first made the ladle." That is stated here by the epithet महाकुलः (*mahākulaḥ*).
+
+द्रुणः (*druṇaḥ*)—दारुविकारचमसः । (*dāruvikāracamasaḥ |*) The ladle made of wood.
+
+भ्रातः (*bhrātaḥ*)—भ्रातृवद्भागार्ह । (*bhrātṛvadbhāgārha |*) Just as a brother insistently expects his share, so Agni, who came as a fourth to take a share with the three of them, is addressed as "brother".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*[The heading is printed "ವ್ಯಾಕರಣಕ್ರಿಯಾ" in the supplied text; the standard heading is inserted and the printed one kept in kn.md as a note.]*
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses श्रेष्ठः (*śreṣṭhaḥ*) (suffix *iṣṭhan*, Pā. Sū. 5-3-55; the substitution *śra* by Pā. Sū. 5-3-60; Pā. Sū. 6-4-163), यविष्ठः (*yaviṣṭhaḥ*) (Pā. Sū. 6-4-156) and, on the next page, अजगन् (*ajagan*) (root गमल् (*gamal*); Pā. Sū. 7-4-62 and 8-2-64), ईयते (*īyate*), दूत्यम् (*dūtyam*) (suffix *yat*, Pā. Sū. 4-4-120; Pā. Sū. 6-4-148; Pā. Sū. 6-1-185), ऊचिम (*ūcima*) (root वच (*vaca*), perfect in a present sense; Pā. Sū. 6-1-15), निंदिम (*niṃdima*) (root णिदि (*ṇidi*); Pā. Sū. 6-1-65 and 7-2-35), चमसम् (*camasam*) (root चमु (*camu*), suffix *asac*; Pā. Sū. 6-1-163) and ऊदिम (*ūdima*) (root नद (*nada*) *[so printed]*), with the accents; it ends with the mark ॥ ೧ ॥ and a stray ornament line ":-0:-", kept as supplied.
+
+### Printed p. 91
+
+*Running head: [೫. ೨. ಅ. ೩. ವ. ೪.] Ṛgveda-saṃhitā, p. 91 (printed "೫. ೨." for the Aṣṭaka; as supplied).*
+
+*(The grammar of Ṛk 1 continues and ends with the mark ॥ ೧ ॥ as described above.)*
+
+### Printed p. 92
+
+*Running head: 92 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 161.*
+
+#### Ṛk 2
+
+*[The label printed before the Saṃhitā is garbled in the supplied text ("ಶಂಕರಾದ್ರಿ"), and a picture (vol12/html/figures/fig1_line04218.jpg) stood in place of the Saṃhitā block. I looked at the picture and read the Saṃhitā and the Pada letter by letter in Kannada script, in the same text as the machine-read lines of the Saṃhitā; the Saṃhitā is joined into the two lines of the verse. The picture and the machine-read Saṃhitā agree; nothing was left unsettled. The picture prints a small hook mark (the compound-division sign) inside some Pada words, e.g. in "ಕೃ·ಣೋ·ತ·ನ"; it is not transcribed, nor are the accent marks (accents are added by script). The standard label is inserted and the garbled word kept in kn.md as a note.]*
+
+**॥ संहितापाठः ॥**
+
+> एकं॑ चम॒सं च॒तुरः॑ कृणोतन॒ तद्वो॑ दे॒वा अ॑ब्रुव॒न्तद्व॒ आग॑मं ।
+> सौध॑न्वना॒ यद्ये॒वा क॑रि॒ष्यथ॑ सा॒कं दे॒वैर्य॒ज्ञिया॑सो भविष्यथ ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> एकं । चमसं । चतुरः । कृणोतन । तत् । वः । देवाः । अब्रुवन् । तत् । वः । आ ।
+> आगमं ।
+> सौधन्वनाः । यदि । एव । करिष्यथ । साकं । देवैः । यज्ञियासः । भविष्यथ ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Two garbled labels ("ಶಾಯಣಭಾಷ್ಯಂ", "ಕಾಯಣಭಾಷ್ಯಂ") stand inside the Pada block in the supplied text; moved out as notes and the standard label inserted. Hyphenated line breaks in the bhāṣya are joined.]*
+
+> एवं पृष्टोग्निस्तान्प्रत्युवाच । हे सौधन्वनाः सुधन्वनः पुत्राः ययमेकं
+> चमसं त्वष्टा संपादितं पूर्वमेकमेव संतं चमसं चतुरः कृणोतन । चतुः
+> संख्याकान्कुरुत ॥ चतुरः शसीत्यंतोदात्तत्वं । पूर्ववत्तनप् ॥ यथोपरितने
+> ज्येष्ठ आह चमसा द्वा करेतीत्युपक्रम्य कनिष्ठ आह चतुरस्करेतीति चतुष्कं निर्धारितं । ऋ. ४-३३-५ । न केवलमहमेव ब्रवीमि किंतु वो युष्मान्प्रति तदुक्तं
+> चतुर्धाकरणरूपं कर्मोत्तरत्र वक्ष्यमाणमश्वरथादिकरणरूपं च कर्म देवा
+> इंद्रादयोऽब्रुवन् । देवत्वप्राप्तुपायत्वेन तत्तादृशं कर्म वो युष्माकं
+> वक्तुमहमागमं । प्राप्तोऽस्मि । यस्मादेवं तस्माद्यूयं यद्येवा करिष्यथ
+> यद्येवं मदुक्तप्रकारेण कर्तुं शक्नुथ तथा चेद्देवैः साकं सह यज्जियासो
+> भविष्यथ । इति तैरुक्तमित्यर्थः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Agni answers: O sons of Sudhanvan, make the one ladle four; the gods told you; if you do this you will share the sacrifice with the gods.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सौधन्वनाः (*saudhanvanāḥ*)—O sons of Sudhanvan; एकं चमसं (*ekaṃ camasaṃ*)—this ladle, made (by Tvaṣṭṛ at first) as a single vessel; चतुरस्कृणोतन (*caturaskṛṇotana*)—make it into four vessels (thus); तत् (*tat*)—that work to be done by you; वः (*vaḥ*)—to you; देवाः (*devāḥ*)—the gods; अब्रुवन् (*abruvan*)—said; तत् (*tat*)—therefore; वः (*vaḥ*)—to you; आगमं (*āgamaṃ*)—I have come… *[the Pratipadārtha is cut off here at the end of the supplied text of p. 92; it continues on p. 93, in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 89 (PDF 89). Sūkta 161 Ṛk 1 complete to Special Topics start (Ṛbhus story, Ai. Brā. 3-3-30)
+**Progress note:** Done through printed p. 92 (PDF 92). Sūkta 161 Ṛk 1 Special Topics end and grammar; Ṛk 2 Saṃhitā/Pada (picture), bhāṣya, Pratipadārtha start
