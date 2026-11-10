@@ -15576,6 +15576,187 @@ According to the rule described in the mantra "यज्ञेन यज्ञ�
 **भावार्थ (Bhāvārtha)**
 The water, of one form, rises upward to the atmosphere in the summer days. In the days of the rainy season it pours downward from the atmosphere. The clouds, which bring satisfaction to the world, gratify the earth. The Āhavanīya and other fires gratify the heavenly world, or the gods who are in the heavenly world *[as supplied: the paragraph ends here without a full stop in the print; it continues in the next window]*
 
+### Printed p. 663
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೩. ] Ṛgveda-saṃhitā 663 (as supplied).*
+
+**Printed English**
+The uniform water passes upwards and downwards in the course of days: clouds give joy to the earth; fires rejoice the heaven
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+भूमिं पर्जन्या जिन्वंति । दिवं जिन्वंत्यग्नयः (*bhūmiṃ parjanyā jinvaṃti | divaṃ jinvaṃtyagnayaḥ*). By causing the growth of plants and the like and so supplying food-wealth to the earth, the Parjanyas bring satisfaction to the people of the earthly world. By carrying the sacrificial oblations away and distributing them to the gods in the heavenly world, the fires satisfy the dwellers of the world of the gods. Not merely satisfying them, the Parjanyas and the fires are the causes of the whole condition of the dwellers of both worlds.
+
+जिन्वंति (*jinvaṃti*)—प्रीणयंति (*prīṇayaṃti*): they cause satisfaction. Stating the special meaning of this word with जिन्वतिः प्रीतिकर्मा (*jinvatiḥ prītikarmā*) (Ni. 6-22), the Nirukta-author has quoted the very Ṛk under discussion. It is also understood as "life-giving": both worlds are life-giving to each other through their cyclical return.
+
+The relation of the Parjanyas and the fires is like the relation of seed and sprout. Through sacrifices and the like the rain-cloud grows, and through the rain-cloud the sacrifice grows. These have mutual dependence on each other; each is the cause of the other. The conditions of all the worlds, the earth, the atmosphere and the rest, rest on this mutual dependence.
+
+अन्नाद्भवंति भूतानि पर्जन्यावन्नसंभवः । यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः (*annādbhavaṃti bhūtāni parjanyāvannasaṃbhavaḥ | yajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ*)
+(Bhagavadgītā 3-14)
+
+Sacrificial rites and the like can be performed only through food-wealth. The food that is the root of sacrifice is produced only from the rain-cloud. The rain-cloud is possible only through sacrifice. In this way there is mutual dependence between the rain-cloud and sacrifice. अग्नयः (*agnayaḥ*) means the sacrificial fires such as the Āhavanīya. Sāyaṇa has stated अग्नयः आहवनीयाद्याः (*agnayaḥ āhavanīyādyāḥ*). Therefore the relation that the rain-cloud has with sacrifice is the very relation that it has with the Āhavanīya and other fires. The same relation is stated in the Chāndogya Upaniṣad in this way:
+
+पर्जन्यो नाव गौतमाग्निस्तस्य वायुरेव समिदभ्रं धूमो विद्युदर्चिरशनिरंगारा ह्रादनयो विस्फुलिंगाः (*parjanyo nāva gautamāgnistasya vāyureva samidabhraṃ dhūmo vidyudarciraśaniraṃgārā hrādanayo visphuliṃgāḥ*)
+(Bhā. U. 5-5-1; abbreviation as supplied)
+
+### Printed p. 664
+*Running head: [664 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied; the opening bracket has no closing partner in the print).*
+
+"Parjanya is the sacrificial fire; the wind is its fuel; the cloud is its smoke; lightning is its flame; the thunderbolt is its coals; the thunderings are its sparks." *[as supplied: this Kannada rendering of the preceding Sanskrit is printed on its own before the next quotation.]*
+
+तस्मिन्नेतस्मिन्नग्नौ देवाः सोमं राजानं जुह्वति तस्या आहुतेर्वर्षं संभवंति (*tasminnetasminnagnau devāḥ somaṃ rājānaṃ juhvati tasyā āhutervarṣaṃ saṃbhavaṃti*)
+(Bhā. U. 5-23-2; abbreviation as supplied)
+
+In this fire in the form of Parjanya the gods offer Soma; as the result of this the fall of rain takes place. Thus the identity of Parjanya with the sacrificial fire is stated. Besides being the support of life for the earth, the atmosphere and the people, Parjanya is also engaged in closely developing the connection of the two worlds.
+
+पृथिवी पूर्वरूपं द्यौरुत्तररूपं वृष्टिःसंधिः पर्जन्यः संधाता । तदुतापि यत्रैतद्वलवदनुद्गळ्हन्त्संदधदहोरात्रे वर्षति द्यावापृथिव्यौ समधातामित्युताप्स्याहुः । इतीन्वधिदैवतं (*pṛthivī pūrvarūpaṃ dyauruttararūpaṃ vṛṣṭiḥsaṃdhiḥ parjanyaḥ saṃdhātā | tadutāpi yatraitadvalavadanudgaḷhantsaṃdadhadahorātre varṣati dyāvāpṛthivyau samadhātāmityutāpsyāhuḥ | itīnvadhidaivataṃ*) अधाध्यात्मं (*adhādhyātmaṃ*)
+(I. Āraṇyaka 2-2-1 to 3; abbreviation as supplied)
+
+The earth is the former half; the heavenly world is the latter half; through rain the connection of these two arises. Parjanya is the one who makes the connection. If Parjanya pours rain without a break through day and night, then, those who know say, heaven and earth are joined together. In this way the praise of Parjanya, the benefactor of both worlds, is of very great importance in the Ṛk-saṃhitā.
+
+अच्छा वद तवसं गीर्भिराभिः स्तुहि पर्जन्यं नमसा विवास । कनिक्रदद्वृषभो जीरदानू रेतो दधात्योषधीषु गर्भं (*acchā vada tavasaṃ gīrbhirābhiḥ stuhi parjanyaṃ namasā vivāsa | kanikradadvṛṣabho jīradānū reto dadhātyoṣadhīṣu garbhaṃ*)
+(Ṛ. Saṃ. 5-83 to 1 [sic: so printed, ರಿಂದ ೧])
+
+It is said, addressing the praiser: "All of you, offering gratitude to Parjanya, who causes rain and fills the plants and herbs with sap, praise him with excellent words of praise."
+
+यत्पर्जन्य कनिक्रदत्त्सनयन् हंसि दुष्कृतः । प्रतीदं विश्वं मोदते यत्किं च पृथिव्यामधि (*yatparjanya kanikradattsanayan haṃsi duṣkṛtaḥ | pratīdaṃ viśvaṃ modate yatkiṃ ca pṛthivyāmadhi*)
+(Ṛ. Saṃ. 5-83-9)
+
+"O Parjanya, when you roar and thunder, driving the evildoers far off, and do good to the world, the whole world, moving and unmoving, shows its delight": thus the praise of Parjanya runs.
+
+पर्जन्याः प्रीणयितारो मेघाः (*parjanyāḥ prīṇayitāro meghāḥ*): "the Parjanyas are the clouds that cause satisfaction", Sāyaṇa has explained. The Nirukta-author, stating the derivation of this word,
+
+### Printed p. 665
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೨೩ ] ಸುಗ್ವೇದಸಂಹಿತಾ 663 (as supplied; the print has "ಸುಗ್ವೇದ" for Ṛgveda and the number 663, though the page stands between 664 and 666 and is p. 665; kept as printed).*
+
+says:
+
+पर्जन्यस्तृपेराद्यंतविपरीतस्य तर्पयिता जन्यः (*parjanyastṛperādyaṃtaviparītasya tarpayitā janyaḥ*)
+(Ni. 10-10)
+
+This word is formed by the transposition of the letters of the root तृप (*tṛpa*), which gives the meaning "to satisfy". The meaning is that he is favourable to men and gives them satisfaction.
+
+तृप्+जन्यः=पृत्+जन्यः = पर्ज्+जन्यः = पर्जन्यः (*tṛp+janyaḥ=pṛt+janyaḥ = parj+janyaḥ = parjanyaḥ*). Or: the word Parjanya can be explained as परो जेशा वा (*paro jeśā vā*)—either "the supreme divinity" (para + je), or परो जनयिता वा (*paro janayitā vā*)—"the supreme producer", or प्रार्जयिता वा रसानां (*prārjayitā vā rasānāṃ*)—"the giver of the water that is of the form of sap" (pra + yaj). (Ni. 10-10)
+
+Having stated this, the Nirukta-author goes on to quote:
+
+विवृक्षान् हन्तुत हंति रक्षसो विश्वं बिभाय भुवनं महावधात् । उतानागा ईषते वृष्णावतो यत्पर्जन्यः स्तनयन् हंति दुष्कृतः (*vivṛkṣān hantuta haṃti rakṣaso viśvaṃ bibhāya bhuvanaṃ mahāvadhāt | utānāgā īṣate vṛṣṇāvato yatparjanyaḥ stanayan haṃti duṣkṛtaḥ*)
+(Ṛ. Saṃ. 5-83-2)
+
+and so states the many qualities of Parjanya. The authors of the Bṛhaddevatā state the nature of Parjanya in the Bṛhaddevatā in this way:
+
+यदिमां प्रार्जयत्येको रसेनांबरजेन गां । कालेऽत्रितार्वशश्चर्षी तेन पर्जन्यमाहतुः (*yadimāṃ prārjayatyeko rasenāṃbarajena gāṃ | kāle 'tritārvaśaścarṣī tena parjanyamāhatuḥ*)
+(Pu. De. 2-37; abbreviation as supplied)
+
+Because he alone fills the earth with the water produced from the atmosphere, the sage Atri, the son of Urvaśī, called this deity Parjanya and praised him.
+
+तर्पयत्येष यल्लोकान् जन्मो जनहितश्च यत् । परो जेशा जनयिता यद्वाग्नेयस्ततो जगौ (*tarpayatyeṣa yallokān janmo janahitaśca yat | paro jeśā janayitā yadvāgneyastato jagau*)
+(Bṛ. Pī. 2-38; abbreviation as supplied)
+
+Because he is the satisfier of creatures, because he is gracious, because he is [companion of creatures *[as supplied: printed ಪ್ರಜಾಸಹಿನಾಗಿರುವುದರಿಂದಲೂ, kept; probably "benefactor of creatures"]*], or because he is the supreme vital power, or because he is the producer, the son of Agni called this deity Parjanya: thus the many qualities of Parjanya are described.
+
+Just as Parjanya produces vitality and joy for the earthly world, so the fires too are givers of vitality and of joy to the heavenly world. अग्नयः-आवहनीयाद्याः स्वे हुते आहुत्या । दिवं-द्युलोकस्थान् देवान् जिन्वंति-प्रीणयंति (*agnayaḥ-āvahanīyādyāḥ sve hute āhutyā | divaṃ-dyulokasthān devān jinvaṃti-prīṇayaṃti*): the purport is that the Āhavanīya and other fires satisfy the gods who dwell in the heavenly world with the oblations offered in them. *[as supplied: the print has ಆವಹನೀಯಾದ್ಯಾಃ here, against ಆಹವನೀಯ elsewhere, and ಸ್ವೇ ಹುತೇ; kept.]*
+
+The nature of Agni is of many kinds, in forms such as जातवेदस् (*jātavedas*), द्रविणोदाः (*draviṇodāḥ*), वैश्वानर (*vaiśvānara*) and so on;
+
+### Printed p. 666
+*Running head: [666 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ಅ. ೨೨. ಸೂ ೧೬೪.] (as supplied; the Maṇḍala numeral is missing in the print).*
+
+how Agni, pervading the universe, makes his greatness shine, and how his Vaiśvānara and other forms are praised in the various śrutis, has been explained fully before, that is, in the 11th part of the Ṛgveda-saṃhitā. In the Ṛk under discussion the forms of Agni such as the Gārhapatya are indicated. Dakṣiṇāgni, Gārhapatya and Āhavanīya are the three well-known kinds of sacrificial fire. Stating their nature, the Taittirīya Saṃhitā says:
+
+यथा वै समृतसोमा एवं वा एते समृतयज्ञा यद्दर्शपूर्णमासौ कस्य वाह देवा यज्ञमागच्छंति कस्य वा बहूनां यजमानानां यो वै देवताः पूर्वः परिगृह्णाति (*yathā vai samṛtasomā evaṃ vā ete samṛtayajñā yaddarśapūrṇamāsau kasya vāha devā yajñamāgacchaṃti kasya vā bahūnāṃ yajamānānāṃ yo vai devatāḥ pūrvaḥ parigṛhṇāti*)
+(Tai. Saṃ. 1-6-7)
+
+Just as there is rivalry in Soma sacrifices, so there is rivalry in the Darśa-pūrṇamāsa sacrifices *[as supplied: the print reads "ದಶಪೂರ್ಣಾದಿಗಳಲ್ಲಿಯೂ"; kept]*. The gods approach only that sacrifice which the sacrificer performs for the satisfaction of the gods. Among these sacrificial fires, the Āhavanīya fire, which is placed in the other (outer) positions, is the abode of the gods. It is stated that the Gārhapatya is the abode of men, and the Anvāhāryapacana the abode of the fathers; and after that, that the Āhavanīya is helpful to the one who goes to the world of the gods.
+
+ब्रह्मवादिनो वदंति किं यज्ञस्य यजमान इति प्रस्तर इति तस्य क्व सुवर्गॊ लोक इत्याहवनीय इति ब्रूयाद्यत्प्रस्तर माहवनीये प्रहरति यजमानमेव सुवर्गं लोकं गमयति (*brahmavādino vadaṃti kiṃ yajñasya yajamāna iti prastara iti tasya kva suvargò loka ityāhavanīya iti brūyādyatprastara māhavanīye praharati yajamānameva suvargaṃ lokaṃ gamayati*)
+(Trai. Saṃ. 2-6-5; abbreviation as supplied; the print shows an opening quotation mark and a row of dots before the passage)
+
+In this passage the relation of benefit between the performer of the sacrifice and the sacrifice is stated, and it is said that the world of the gods is assured to the one who performs the sacrifice worshipping the Āhavanīya fire. This Āhavanīya fire belongs to the world of the gods and is the giver of satisfaction to the gods.
+
+आहवनीयं परीत्य वाचं विसृजेरन्यज्ञो वा आहवनीयः स्वर्गो लोक आहवनीयो यज्ञेनैव तत्स्वर्गेण लोकेन स्वर्गं लोकं यंति (*āhavanīyaṃ parītya vācaṃ visṛjeranyajño vā āhavanīyaḥ svargo loka āhavanīyo yajñenaiva tatsvargeṇa lokena svargaṃ lokaṃ yaṃti*)
+(Ai. Brā. 5-24)
+
+The rule is stated in the Aitareya Brāhmaṇa that, while circumambulating the Āhavanīya fire, one should recite: "The Āhavanīya is the sacrifice; the Āhavanīya is heaven; only through the sacrifice made with the worship of this Āhavanīya fire is the attainment of heaven gained."
+
+### Printed p. 667
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೨೩. ] Ṛgveda-saṃhitā 667 (as supplied).*
+
+एष वै स यज्ञः । येन तद्देवा दिवमुपोदक्रामन्नेष आहवनीयोऽथ य इहाहीयत स गार्हपत्यः (*eṣa vai sa yajñaḥ | yena taddevā divamupodakrāmanneṣa āhavanīyo 'tha ya ihāhīyata sa gārhapatyaḥ*)
+(Ś. Brā. 1.-2-3-22; the stray full stop is in the print)
+
+The Āhavanīya is the sacrifice. Through this the gods obtained residence in heaven.
+
+देवयोनिर्वा एष यदाहवनीयः। तस्यैतावमृतपक्षौ यावेतावभितोऽग्नी तद्य दाहवनीये यज्ञं तन्नते देवयोनावेवैतद्देवेभ्यो यज्ञं तन्नत उप हैनं पुनर्यज्ञो नमति नास्माद्यज्ञो व्यवच्चिद्यते य एवमेतद्वेद यस्य वैवं विदुष एतत्कर्म क्रियते (*devayonirvā eṣa yadāhavanīyaḥ| tasyaitāvamṛtapakṣau yāvetāvabhito 'gnī tadya dāhavanīye yajñaṃ tannate devayonāvevaitaddevebhyo yajñaṃ tannata upa hainaṃ punaryajño namati nāsmādyajño vyavaccidyate ya evametadveda yasya vaivaṃ viduṣa etatkarma kriyate*)
+(Ś. Brā. 12-9-3-10)
+
+The Āhavanīya is the womb ("source") of the gods *[as supplied: the print has ಯೋಸಿಯು, apparently for yoni; kept]*. The fires on its left and right are its immortal wings. Those who sacrifice in the Āhavanīya fire are as if they sacrificed in the womb of the gods. One who knows this principle becomes the cause *[as supplied: printed ಕಾಣನಾಗುತ್ತಾನೆ, apparently for kāraṇa; ತಿಳಿನವನು for ತಿಳಿದವನು; kept]* of the satisfaction of the gods.
+
+Thus the individual nature of the Āhavanīya and other fires has been stated in the view of the deities (adhidaivata). Describing the nature of the Āhavanīya and other fires in the view of the self (adhyātma), the Chāndogya Upaniṣad has described in detail that all of them reflect the principle of the Supreme Brahman (Chā. U. 4-10-14).
+
+In the Ṛk under discussion, in दिवः जिन्वंत्यग्नयः (*divaḥ jinvaṃtyagnayaḥ*) the quality of Agni as messenger of the gods, which is the cause of the satisfaction of the gods, is praised in many places of the Ṛk-saṃhitā.
+
+अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि । स इद्देवेषु गच्छति (*agne yaṃ yajñamadhvaraṃ viśvataḥ paribhūrasi | sa iddeveṣu gacchati*)
+(Ṛ. Saṃ. 1-1-4)
+
+"O Agni, whatever sacrifice you encompass on every side, that sacrifice in its entirety approaches the gods and causes them satisfaction."
+
+महां अस्यध्वरस्य प्रकेतो न ऋते त्वदमृता मादयंते । आ विश्वेभिः सरथं याहि देवैर्न्यग्ने होता प्रथमः सदेह (*mahāṃ asyadhvarasya praketo na ṛte tvadamṛtā mādayaṃte | ā viśvebhiḥ sarathaṃ yāhi devairnyagne hotā prathamaḥ sadeha*)
+(Ṛ. Saṃ. 7-11-1)
+
+In Ṛks such as these it is stated that without Agni joy and satisfaction are impossible for the gods, and that for them to obtain satisfaction the help of Agni is necessary; and further,
+
+त्वे अग्ने विश्वे अमृतासो अम्रह आसा देवा हनिरदंत्याहुतं । त्वया मर्ताः स्वदंत आसुतिं त्वं गर्भो वीरुधां जज्जिषे शुचिः (*tve agne viśve amṛtāso amraha āsā devā haniradaṃtyāhutaṃ | tvayā martāḥ svadaṃta āsutiṃ tvaṃ garbho vīrudhāṃ jajjiṣe śuciḥ*)
+(Ṛ. Saṃ. 2-1-14)
+
+### Printed p. 668
+*Running head: [668 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ ೧೬೪] (as supplied; the print has ಆ. where ಅ. is expected).*
+
+in the Ṛk under discussion it is stated that the mouth of Agni is absolutely necessary for the satisfaction of the immortals, that the gods eat the oblations and gain joy only through the mouth of Agni, and that he himself is the food of the gods.
+
+*[as supplied: a stray line "ಕ, ೪-೧-೨೫" stands here in the print; it is kept, and is probably a reference.]*
+
+*Grammar (transcribed, not explained):*
+उदकम् (*udakam*)—root उंदीक्षेदने (*uṃdīkṣedane*) (as printed); by उदकंच (*udakaṃca*) (U. Sū. 2-147) the pratyaya kvun; by अनिदितांहल (*aniditāṃhala*) loss of the penultimate nasal; by युवोरनाकौ (*yuvoranākau*) (Pā. Sū. 7-1-1) the substitution of aka for the pratyaya.
+एति (*eti*)—root iṇ gatau; ādi class, laṭ prathama-puruṣa ekavacana form; because of the connection with ca, by चवायोगे प्रथमा (*cavāyoge prathamā*) (Pā. Sū. 8-1-59) the nighāta accent is prohibited; because tip is anudātta, the root accent remains.
+पर्जन्याः (*parjanyāḥ*)—root पृषु सेचने (*pṛṣu secane*); by पर्जन्यः (*parjanyaḥ*) (U. Sū. 3-386) it is nipātita; the change of ṣa to ja, and the guṇa of the light penultimate before the pratyaya anya, are accomplished by nipāta; the ādyudātta accent of the pratyaya results.
+जिन्वंति (*jinvaṃti*)—root जिवि प्रीणने (*jivi prīṇane*); bhvādi class; by इदितोनुम् धातोः (*iditonum dhātoḥ*) the augment num; śap as vikaraṇa; laṭ prathama-puruṣa bahuvacana form; by चादिलोपे विभाषा (*cādilope vibhāṣā*) (Pā. Sū. 8-1-63) the nighāta accent does not occur; by तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) the lasārvadhātuka is anudātta, so the root accent remains; in the second form, since there is no prohibition, the nighāta accent occurs. || 51 ||
+
+*[as supplied: the label printed as "ಸಂಹಿತಾಕಾರರು" is garbled; it stands in the place of the label Saṃhitā-pāṭha.]*
+
+#### Ṛk 52
+**॥ संहितापाठः ॥**
+> दि॒व्यं सु॑प॒र्णं वा॑य॒सं बृ॒हंत॑म॒पां गर्भं॑ दर्श॒तमोष॑धीनां ।
+> अ॒भी॒प॒तो वृ॒ष्टिभि॑स्त॒र्पयं॑तं॒ सर॑स्वंत॒मव॑से जोहवीमि ॥
+> ॥ ५२ ॥
+
+> *divyaṃ suparṇaṃ vāyasaṃ bṛhaṃtamapāṃ garbhaṃ darśatamoṣadhīnāṃ |*
+> *abhīpato vṛṣṭibhistarpayaṃtaṃ sarasvaṃtamavase johavīmi ‖*
+> *‖ 52 ‖*
+
+### Printed p. 669
+*Running head: [ಅ. ೨. ಅ. ೩. ವ ೨೩. ] Ṛgveda-saṃhitā 669 (as supplied).*
+
+*[as supplied: the label printed as "ಪದಪಟು" is garbled; it stands in the place of the label Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> दिव्यं । सुपर्णं । वायुसं । बृहंतं । अपां । गर्भं । दर्शतं । ओषधीनां ।
+> अभीपतः । वृष्टिभिः । तर्पयंतं । सरस्वतं । अवसे । जोहवीमि ॥ ५२ ॥
+*[as supplied: the label printed as "ಸಾಯುಜಃಸ್ತ್ಯಂ" is garbled; it stands in the place of the label Sāyaṇa-bhāṣya.]*
+**॥ सायणभाष्यम् ॥**
+> सरस्वद्देवताके पशौ दिव्यं सुपर्णमिति वसायाज्या । दिव्यं सुपर्णं वायसं
+> बृहंतं स नावृधे नर्यो योषणासु । आ. ३-८. । इति सूत्रित्वात् ॥ अन्वारंभणीयायां सरस्वद्याग एषैव याज्या । सूत्रितं च । दिव्यं सुपर्णं वायसं बृहंतमा
+> सवं सवितुर्यथा । आ २. ८. । इति ॥
+> दिव्यं दिवि भवं सुपर्णं शोभनगमनं वायसं गमनशीलं बृहंतं
+> महांतमसां गर्भं वृष्टुदकानां गर्भवदुत्पादकं । ओषधीनामोषधीर्दर्शतं
+> दर्शनाय । दर्शयंतमित्यर्थः । यद्वा । ओषधीनां गर्भं दर्शतमिति पृथग्विशेषणं
+> किंचाभीपत आनुकूल्येन वृष्टभिस्तर्पयंतं जगत्रीणयंतं । यद्वा । अभीपतोऽभिगमनवतः सलिलाधारांस्तटाकादींस्तर्पयंतं । अथवावभिगंताहं । सरस्वंतमुदकवंतं । सर इत्युदकनाम । देवं सूर्यं नावसे रक्षणाय जोहवीमि । पुनः
+> पुनराह्वयामि ॥
+*Gist:* In the Sarasvat-deity animal-rite the Ṛk is the vapā-yājyā; the divine, swift, great embryo of waters, satisfying with rains, is called for protection.
+*[as supplied: the label printed as "ಪ್ರ,ತಿಪದಾರ್ಥ" is garbled; it stands in the place of the label Pratipadārtha.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+दिव्यं (*divyaṃ*)—born of the heavenly world; सुपर्णं (*suparṇaṃ*)—having excellent leaves (wings); वायसं (*vāyasaṃ*)—of moving nature; बृहंतं (*bṛhaṃtaṃ*)—endowed with greatness; अपां गर्भं (*apāṃ garbhaṃ*)—the producer of waters; ओषधीनां (*oṣadhīnāṃ*)—of the herbs; दर्शतं (*darśataṃ*)—the illuminator; अभीपतः (*abhīpataḥ*)—favourably; वृष्टिभिः (*vṛṣṭibhiḥ*)—with rains; तर्पयंतं (*tarpayaṃtaṃ*)—satisfying (the world); सरस्वंतं (*sarasvaṃtaṃ*)—the god who is full of water; अवसे (*avase*)—for protection; जोहवीमि (*johavīmi*)—I call again and again.
+*[as supplied: the label printed as "ಭೀಮಾರ್ಥ" is garbled; it stands in the place of the label Bhāvārtha.]*
+**भावार्थ (Bhāvārtha)**
+I call again and again, for protection, the god who is born of the heavenly world, who has an excellent means of falling *[as supplied: ಪತನಸಾಧನ, where the Pratipadārtha has "excellent leaves"; kept]*, who is of moving nature, endowed with greatness, the producer of waters, the illuminator of the herbs, who favourably satisfies the world with rains, and who is full of water.
+
 ---
 
-**Progress note:** Done through printed p. 662. Sūkta 164 end of Ṛk 50 special topics (Sādhyas, Aṅgirases, Śatapatha), grammar, and Ṛk 51 start, pp. 657-662
+**Progress note:** Done through printed p. 669. Vol 12 pp. 663-669: end of Special Topics on Ṛk 51, grammar, Ṛk 52 (Sūkta 164)
