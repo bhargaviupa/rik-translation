@@ -2232,6 +2232,91 @@ they have also explained रजसः (*rajasaḥ*) as "atmosphere".
 
 *[the reference is not printed]* The authors of the Bṛhaddevatā, describing the striding of Viṣṇu over the three worlds, have used the word रजांसि (*rajāṃsi*) as a synonym of the three worlds. *[printed "ಶ್ರೀಣಿ" in the Sanskrit line, for ತ್ರೀಣಿ, as supplied]* The words रजः (*rajaḥ*), रजांसि (*rajāṃsi*) are generally used as synonyms of "worlds". But, *[the text of p. 77 ends here, with "ಆದರೆ,"; the passage continues on p. 78, in the next window.]*
 
+### Printed p. 78
+
+*Running head: 78 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 160 (printed "ಸೂ.೧೬೦").* (The Special Topics of Ṛk 4 continue; the passage broken off at the end of p. 77 with "ಆದರೆ," continues.)
+
+यॆन्मा सोमासो ममदन्यदुक्थोभे भयेते रजसी अपारे । (*yènmā somāso mamadanyadukthobhe bhayete rajasī apāre |*)
+
+(Ṛ. Saṃ. 4-42-6)
+
+In such ṛks this word is in the dual and has the technical meaning "Heaven and Earth". Only in some places, that is,
+
+अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ॥ (*ahaśca kṛṣṇamahararjunaṃ ca vi vartete rajasī vedyābhiḥ ‖*)
+
+(Ṛ. Saṃ. 6-9-1)
+
+in one or two ṛks such as this, the basic meaning of the root is the main one: रजसी जगद्रंजयंतौ (*rajasī jagadraṃjayaṃtau*), "the two that delight the world". In the present ṛk too it is explained as रंजनात्मके द्यावापृथिव्यौ (*raṃjanātmake dyāvāpṛthivyau*).
+
+स्कंभनेभि (*skaṃbhanebhi*) *[printed with a colon, "ಸ್ಕಂಭನೇಭಿ:"]*—गतिबंधनैः शंकुभिः । (*gatibaṃdhanaiḥ śaṃkubhiḥ |*) It is explained as "pegs that hold the motion"; that is, it means an instrument that regulates the movements of the worlds. It can be an instrument of measuring, and it can also be a supporting pillar. The extent of its meaning is great. In the Atharvaveda (10-7) the deity named Skambha (the deity in the form of the support of the universe) is well known.
+
+क्व प्रेप्संती युवती विरूपे अहोरात्रे द्रवतः संविदाने । यत्र प्रेप्संती (*kva prepsaṃtī yuvatī virūpe ahorātre dravataḥ saṃvidāne | yatra prepsaṃtī*)
+रभियंति आपः स्कंभं । यस्मिन् स्तब्ध्वा प्रजापतिर्लोकान्सर्वानधारयत् (*rabhiyaṃti āpaḥ skaṃbhaṃ | yasmin stabdhvā prajāpatirlokānsarvānadhārayat*)
+स्कंभं ॥ (*skaṃbhaṃ ‖*)
+
+(Atharvaveda 10-7-6 to 7; printed "ಅ. ವೇ.")
+
+"Where the day and the night, both going for union, are eager to meet, into whom all the river-flows run, and on whose support Prajāpati created and regulated all these worlds: what is the nature of that Skambha?": thus it asks. The whole nature of Skambha described in this chapter is like the description of the nature of Hiraṇyagarbha described in sūkta 10-121 of the Ṛk-saṃhitā: as is said in sentences such as स दाधार पृथिवीमुत द्यां (*sa dādhāra pṛthivīmuta dyāṃ*) (10-121-1), he is said to be the support of all the universes. But in the Ṛk-saṃhitā too the meaning "support" is well known for the word स्कंभ (*skaṃbha*).
+
+अयं विदच्चित्रदृशीकमर्णः शुक्रसद्मनामुषसामनीके । (*ayaṃ vidaccitradṛśīkamarṇaḥ śukrasadmanāmuṣasāmanīke |*)
+अयं महान्महता स्कंभनेनॊद्वामस्तभ्नाद्वषभो मरुत्वान् ॥ (*ayaṃ mahānmahatā skaṃbhanenòdvāmastabhnādvaṣabho marutvān ‖*)
+
+(Ṛ. Saṃ. 6-47-5)
+
+Here for स्कंभन (*skaṃbhana*) the meaning स्कंभसाधनेन मध्यवर्तिनांतरिक्षेण (*skaṃbhasādhanena madhyavartināṃtarikṣeṇa*), "by the atmosphere in the middle, in the form of a pillar", is given. Even so, this support is not all-pervading; the idea is of a regional support.
+
+### Printed p. 79
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೩.] Ṛgveda-saṃhitā, p. 79 (as supplied).*
+
+In the present ṛk, as in the Atharvaveda sentence quoted above, the word has a meaning of extent that shows the pervasion of the universe. But although, according to Sāyaṇa's explanation, the sense "instrument that regulates the motion of the worlds" is suggested, since later the word समानृचे (*samānṛce*) is explained as स्थापितवान् (*sthāpitavān*), "established", the meaning "support" must be intended here too.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses अपसाम् (*apasām*) (suffix *asun*, Uṇ. Sū. 4-647; the genitive of "those who have works", by transference), अपस्तम (*apastama*) (suffix *tamap*), जजान (*jajāna*) (root जनी (*janī*), causal sense; accent by लिति (*liti*), Pā. Sū. 6-1-193, printed ".೬-೧-೧೯೩"), विश्वशंभुवा (*viśvaśaṃbhuvā*) (Pā. Sū. 6-2-106, as printed here; सुसां सुलुक् (*susāṃ suluk*) *[so printed for ಸುಪಾಂ ಸುಲುಕ್]*, Pā. Sū. 7-1-39), ममे (*mame*), सुक्रतूयया (*sukratūyayā*) (suffix *kyac*; Pā. Sū. 3-3-101; the loss of the *a* by Pā. Sū. 6-4-48), अजरेभिः (*ajarebhiḥ*) (Pā. Sū. 6-2-116) and आनृचे (*ānṛce*) (root ऋच (*ṛca*); the augment *nuṭ* by Pā. Sū. 7-4-71), with the accents; it ends with the mark ॥ ೪ ॥.
+
+### Printed p. 80
+
+*Running head: 80 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. "೧೬೮" (printed so, for 160).*
+
+#### Ṛk 5
+
+*[The label printed before the Saṃhitā is garbled in the supplied text ("ಸಂಸಾರ") and the Saṃhitā lines are not a block; the standard label is inserted, the garbled word kept in kn.md as a note, and the lines made a block; a hyphenated line break "ಸಮಿ-ನ್ವತಂ" is joined.]*
+
+**॥ संहितापाठः ॥**
+
+> ते नो॑ गृणा॒ने म॑हिनी॒ महि॒ श्रवः॑ क्ष॒त्रं द्या॑वापृथिवी॒
+> धासथो बृ॒हत् ।
+> येना॒भि कृ॒ष्टीस्त॒तना॑म वि॒श्वहा॑ प॒नाय्य॒मोजो॑ अ॒स्मे समि॑न्वतं ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+*[The Pada is kept as supplied, e.g. "ದಾ ಸ ಥ ಃ", "ಕೃಷ್ಣೀಃ", "ಪನಾಯ್ಕಂ", "ಆಸ್ಮೇ".]*
+
+> ते इति । नः । गृणाने इति । महिनी इति । महि । श्रवः । क्षत्रं । द्यावापृथिवी इति ।
+> दा स थ ः । बृहत् ।
+> येन । अभि । कृष्णीः । ततनाम । विश्वहा । पनाय्कं । ओजः । आस्मे इति । सं । इन्वतं ।
+> ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಸಾಯುಣಭಾಷ್ಯಂ") and sat inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the block are joined. The block closes with "ii", the double danda, as supplied.]*
+
+> ते प्रसिद्धे हे द्यावापृथिवी द्यावापृथिव्यौ गृणाने अस्माभिः स्तूयमाने
+> सत्यौ ॥ कर्मणि कर्तृप्रत्ययः ॥ महि महदतिप्रभूतं श्रवः सर्वत्र प्रसिद्धमन्नं सर्वत्र
+> शूयमाणां कीर्तिं वा नोऽस्मभ्यं धासथः । धत्तं ॥ दधातेर्लॆट्यडागमः । सिब्ब
+> हलमिति सिप् ॥ तथा बृहदतिप्रभूतं क्षत्रं बलं धासथः । तदेव विशेष्यते । येनान्नबलेन विश्वहा सर्वॆष्टप्यहस्सु कृष्टीः पुत्रादिरापाः प्रजा अभि ततनाम अभितो
+> विस्तारयाम ॥ तनोतेर्लोटि छांदसो विकरणस्य श्लुः । आडुत्तमस्येत्याडागमः ।
+> तस्य छंदस्युभयथेत्यार्थधातुकत्वादभ्यस्ताद्युदात्तत्वाभावे धातुस्वरः ॥ कृष्णय इति
+> मनुष्यनाम कृष्णयश्चर्षणय इति तन्नामसु पाठात् । किंच पनाय्कं स्तुत्यमोजः
+> शरीरबलमस्मे अस्मासु सम्यगिन्वतं । व्याप्नुतं । प्रवर्धयतमित्यर्थः । इन्वतिर्व्याप्तिवचनः इन्वति ननक्षेति तन्नामसु पाठात् ii
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): O praised Heaven and Earth, give us great food and vast strength, by which we daily extend our progeny, and increase our praiseworthy vigour.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ते (*te*)—well-known; महिनी (*mahinī*)—great; द्यावापृथिवी (*dyāvāpṛthivī*)—O Heaven and Earth; गृणाने (*gṛṇāne*)—being praised (by us); येन (*yena*)—by which; विश्वाहा (*viśvāhā*)—every day; कृष्टी: (*kṛṣṭī:*) *[so printed]*—the people in the form of sons and the rest; अभि ततनाम (*abhi tatanāma*)—we extend (such); महि (*mahi*)—great; श्रवः (*śravaḥ*)—food (or fame); बृहत् (*bṛhat*)—abundant; क्षत्रं (*kṣatraṃ*)—strength… *[the Pratipadārtha is cut off here at the end of the supplied text of p. 80; it continues on p. 81, in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 77 (PDF 77). Sūkta 160 Ṛk 4 Special Topics (Savitṛ producer/son of heaven, skambhanebhiḥ, devatamaḥ, rajasī)
+**Progress note:** Done through printed p. 80 (PDF 80). Sūkta 160 Ṛk 4 Special Topics end and grammar; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha start
