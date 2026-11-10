@@ -6896,6 +6896,148 @@ of your vigour.
 
 *(The Special Topics of this Ṛk follow in the next window.)*
 
+### Printed p. 261
+*Running head: 261 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 12] (as supplied).*
+
+**Special Topics** *(continuing Ṛk 8)*
+
+त्वं तु सर्वस्य श्रेष्ठ इत्यर्थः (*tvaṃ tu sarvasya śreṣṭha ityarthaḥ*)—"You are the best of all, that is the meaning": thus Sāyaṇa has stated the purport of this Ṛk, meaning "you are better than all, gods, men and the rest."
+
+देवा ममिरे वीर्यं ते (*devā mamire vīryaṃ te*)—Here the word देवाः (*devāḥ*) is explained as the priests or the gods. They praise the heroic deeds of the horse with hymns. The greatness of the horse, praised with those hymns, is described in the following manner.
+
+देवस्य त्वा सवितुः प्रसवेऽश्विनोर्बाहुभ्यां पूष्णो हस्ताभ्यामा दद इमामगृभ्नाश्रशनामृतस्य पूर्व आयुषि विदथेषु कव्या । तया देवास्सुतमा बभूवुर्यतस्य सामन्थरमारपंती (*devasya tvā savituḥ prasave 'śvinorbāhubhyāṃ pūṣṇo hastābhyāmā dada imāmagṛbhnāśraśanāmṛtasya pūrva āyuṣi vidatheṣu kavyā | tayā devāssutamā babhūvuryatasya sāmantharamārapaṃtī*)
+
+(Śrī Saṃ. 2-1-10-1) *[as supplied: reference abbreviation and numbers as printed]*
+(Tai. Saṃ. 7-1-11-1)
+
+O horse, by the impulse of the god Savitṛ, I take you with the arms of the Aśvins and with the hands of Pūṣan and lead you along. The poets of old took up this sacrificial bond at the times of sacrifice. Therefore it became possible for the gods to obtain the pressed Soma juice. The satisfaction of the gods and the others is to be obtained only through your favour.
+
+अभिधा असि भुवनमसि यंतासि धर्तासि सोऽग्निं वैश्वानरग्ं सप्रथसं गच्छ स्वाहाकृतः पृथिव्यां यंता राड्यंतासि यमनो धर्तासि धरुणः कृष्यै त्वा क्षेमाय त्वारय्यै त्वा पोषाय त्वा पृथिव्यै त्वांतरिक्षाय त्वा दिवे त्वा सते त्वासते त्वाद्भ्यस्यषधीभ्यस्त्वा विश्वेभ्यस्त्वा भूतेभ्यः (*abhidhā asi bhuvanamasi yaṃtāsi dhartāsi so 'gniṃ vaiśvānaragṃ saprathasaṃ gaccha svāhākṛtaḥ pṛthivyāṃ yaṃtā rāḍyaṃtāsi yamano dhartāsi dharuṇaḥ kṛṣyai tvā kṣemāya tvārayyai tvā poṣāya tvā pṛthivyai tvāṃtarikṣāya tvā dive tvā sate tvāsate tvādbhyasyaṣadhībhyastvā viśvebhyastvā bhūtebhyaḥ*)
+
+(Trai. Saṃ. 7-8-19) *[as supplied: abbreviation "ತ್ರೈ. ಸಂ."]*
+(Tai. Saṃ. 7-1-11-1)
+
+O horse, you yourself are the all-enveloping covering. You are also the whole world, the controller and the support. Go to Vaiśvānara as a victor. You are the controller of the earth, and you are the support and the foundation of the earth. In the same way you alone are the foundation and the support of the atmosphere, of the heavenly world, of the plants, of the waters *[as supplied: the print reads "ಅಪ್ಪಿಗೂ"]* and of all kinds of beings. For all that exists, and likewise for all that does not exist, that is, for the entire universe made of being and non-being, you alone are the foundation.
+
+विभूर्मात्रा प्रभोः पित्राश्वोऽसि हयोऽस्यत्योऽसि नरोऽस्यॆर्वासि सप्तिरसि वाज्यसि वृषासि नृमणा आसि ययुर्नामास्यादित्यानां पत्वान्विहि (*vibhūrmātrā prabhoḥ pitrāśvo 'si hayo 'syatyo 'si naro 'syèrvāsi saptirasi vājyasi vṛṣāsi nṛmaṇā āsi yayurnāmāsyādityānāṃ patvānvihi*)
+
+(Tai. Saṃ. 7-1-12-1)
+
+You are the horse (aśva) that pervades everything; you are the haya and the atya that conquer all kinds of animals; you are the man (nara) who leads those who keep you as their carrier; you are the ārva skilled in going, the sapti who shows skill in battles, the swift-going vājin, and one bearing the name yayu, which is the dearest of all the names of horses; and by your greatness you reach the Āditya himself.
+
+### Printed p. 262
+*Running head: 262 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+उपयामगृहीतोऽसि प्रजापतये त्वा जुष्टं गृह्णामि तस्य ते द्यौर्महिमा नक्षत्राणि रूपमादित्यस्ते तेजः (*upayāmagṛhīto 'si prajāpataye tvā juṣṭaṃ gṛhṇāmi tasya te dyaurmahimā nakṣatrāṇi rūpamādityaste tejaḥ*)
+
+(Tai. Saṃ. 7-5-17-1)
+
+तस्य ते पृथिवी महिमौषधयो वनस्पतयो रूपमग्निस्तीतेजः (*tasya te pṛthivī mahimauṣadhayo vanaspatayo rūpamagnistītejaḥ*)
+
+(Tai. Saṃ. 7-5-16-1)
+
+When you are in the heavenly world, the sky is your greatness, the stars are your form and the Āditya is your brilliance. When you are on the earth, the earth is your greatness, the plants and trees are your form and Agni is your brilliance. Since the priests praise the nature of the sacrificial horse in this and similar ways, it is said देवा ममिरे वीर्यं ते (*devā mamire vīryaṃ te*).
+
+व्रातासः (*vrātāsaḥ*)—व्रात (*vrāta*) means a group. The Nirukta-author has included this word among the names of men (Ni. 3-7). For this word, in the present Ṛk, Sāyaṇa has explained संघात्मकाः अन्ये अश्वसमूहाः वस्वादिदेवगणा ना (*saṃghātmakāḥ anye aśvasamūhāḥ vasvādidevagaṇā nā*), that is, other bands of horses, and groups of gods such as the Vasus. It is natural that other horses should follow this horse. But if the question arises why the other gods should follow it, (the answer is that) this horse has made it possible for the gods to obtain many things that were not available to them. To take one example—
+
+देवा ना उदंचः । स्वर्गं लोकं न प्राजानंस्तमश्वः प्राजानद्यदश्वेनोदंचो यंति स्वर्गस्य लोकस्य प्रजात्यै (*devā nā udaṃcaḥ | svargaṃ lokaṃ na prājānaṃstamaśvaḥ prājānadyadaśvenodaṃco yaṃti svargasya lokasya prajātyai*)
+
+(Śa. Brā. 13-2-8-1)
+
+The gods, going upward, did not know the way to the world of heaven. Then, following the horse, they learnt that way with the help of the horse that knew it; and many such occasions are described. Therefore it is said व्रातासः अनु तव सख्यमीयुः (*vrātāsaḥ anu tava sakhyamīyuḥ*).
+
+Moreover, in तया देवास्सुतमा बभूवुर्यतस्य सामन्त्सरमारंपती (*tayā devāssutamā babhūvuryatasya sāmantsaramāraṃpatī*) (Tai. Saṃ. 7-1-11) it is stated that the gods obtained the pressed Soma juice with the help of the sacrificial horse; so it is also shown that friendship with the horse must be made for the sake of Soma and the other foods that are their support.
+
+मर्यः (*maryaḥ*)—मर्यो मनुष्यो मरणधर्मा (*maryo manuṣyo maraṇadharmā*): "marya is man, he who is subject to death." Because he has the nature of dying, man is called marya (Ni. 3-15). With the help of the sacrificial horse man can obtain all good; therefore he follows this horse—this is one meaning. Secondly, when this horse is let loose on a campaign of conquest preceding the sacrifice, it is explained that all preparations are made for its protection; and it is described that, since protecting this sacrificial horse, which can bring welfare to the whole world, brings good to all, gods, men and the rest, everyone follows it for its protection.
+
+### Printed p. 263
+*Running head: 263 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 12] (as supplied).*
+
+कनीनां भगः अनु (*kanīnāṃ bhagaḥ anu*)—When the horse is adorned with various ornaments, there is a custom that the chief queen and her women friends do it. One opinion is that the horse has a natural feminine beauty; another opinion is that when it is adorned by beautiful women, the horse too acquires that beauty.
+
+गायत्रेण छंदसेति महिष्यभ्यनक्ति । .... .... .... पत्न्योऽभ्यंजंति श्रियै वा एत द्रूपं यत्पत्न्यः श्रियमेवास्मिन्दधाति (*gāyatreṇa chaṃdaseti mahiṣyabhyanakti | .... .... .... patnyo 'bhyaṃjaṃti śriyai vā eta drūpaṃ yatpatnyaḥ śriyamevāsmindadhāti*)
+
+(Śa. Brā. 13-2-6-4)
+
+Since it is described thus and in similar ways, the meaning is that when the horse is adorned by the chief queens and others, its feminine beauty increases. Or there may be a still deeper, hidden meaning in this.
+
+*Grammatical Derivation (transcribed, not explained):*
+मर्यः (*maryaḥ*)—root मृज् (*mṛj*) in the sense of abandoning life *[as supplied]*; suffix ṇyat; by Pā. Sū. 3-1-123 (निष्कर्क्यदेवहूयॆ (*niṣkarkyadevahūyè*), preceded by छंदसि (*chaṃdasi*)) the suffix yat; guṇa with r following by सार्वधातुकार्थधातुकयोः (*sārvadhātukārthadhātukayoḥ*); by यतोनावः (*yatonāvaḥ*) (Pā. Sū. 6-1-213) initial acute; singular used because it is a word denoting a class.
+व्रातासः (*vrātāsaḥ*)—when jas follows, āsuk-augment by आज्जसेरसुक् (*ājjaserasuk*) (Pā. Sū. 7-1-50).
+सख्यम् (*sakhyam*)—सख्युर्भावः सख्यम् (*sakhyurbhāvaḥ sakhyam*); suffix ya by सख्युर्यः (*sakhyuryaḥ*) (Pā. Sū. 5-1-126); elision of i by यस्येति च (*yasyeti ca*) (Pā. Sū. 6-4-148); final acute by the suffix accent.
+ईयुः (*īyuḥ*)—root इण् (*iṇ*) in the sense of going; by छंदसि लुज्लज्लिटः (*chaṃdasi lujlajliṭaḥ*) (Pā. Sū. 3-4-6) liṭ in the present sense; third person plural form; being after a non-finite word, the nighāta accent arises.
+ममिरे (*mamire*)—root माज् (*māj*) in the sense of measuring; liṭ in the Vedic manner as before; third person plural form; the tiṅanta nighāta accent arises.
+वीर्यम् (*vīryam*)—वीरस्य कर्म (*vīrasya karma*), vīryam; suffix yat in the sense of relation; as explained before, the initial acute by यतोनावः (*yatonāvaḥ*) does not arise in the case of the word vīra; by तित्‌स्वरितम् (*titsvaritam*) (Pā. Sū. 6-1-185) the svarita accent arises. ॥ 8 ॥
+
+### Printed p. 264
+*Running head: 264 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+#### Ṛk 9
+**॥ संहितापाठः ॥**
+> हिर॑ण्यशृं॒गोऽयो॑ अस्य॒ पादा॒ मनो॑जवा॒ अव॑र॒ इंद्र॑
+> आसीत् ।
+> दे॒वा इद॑स्य हवि॒रद्य॑माय॒न्नो अर्वं॑तं प्रथ॒मो अ॒ध्यति॑ष्ठत् ॥ ९ ॥
+**॥ पदपाठः ॥**
+> हिरण्यशृंगः । अयः । अस्य । पादाः । मनःजवाः । अवरः । इंद्रः । आसीत् ।
+> देवाः । इत् । अस्य । हविःअद्यं । आयन् । यः । अर्वंतं । प्रथमः । अधिअतिष्ठत् ।
+> ॥ ९ ॥
+**॥ सायणभाष्यम् ॥**
+> अयमश्वो हिरण्यशृंगो हितरमणीयशृंगो वा उन्नतशिरस्को हृदयरमणशृंगस्थानीयशिरोरुहो वा । अस्य पादा अयोऽयोमया. । अयःपिंडसदृता इत्यर्थः । तथा मनोजवा मनोवेगाः । अथवैतदिंद्रविशेषणं । ईदृशस्याश्वस्य सामर्थ्यं प्रति मनोवेग इंद्रोऽप्यवरो निकृष्ट आसीत् । किंचास्याश्वस्य
+> हविरद्यं हविषोdनं भक्षणं ॥ स्वार्थिको यत् ॥ आदनयोग्यं हनिर्वापेक्ष्य देवा
+> इत् सर्वॆऽपि देवा आयन् । प्राप्ताः । य इंद्रोऽर्वंतं प्रथमः प्रथमभावी
+> सन्नध्यतिष्ठत् अधिष्ठितवान् । सहविष्टेन स्वकीयत्वेन वाश्रितवानित्यर्थः । इंद्र एणं
+> प्रथमो अध्यतिष्ठदिति ह्युक्तं ॥
+*Gist:* This horse has golden or lovely horn-like mane and iron-firm feet; Indra is inferior to it in speed; all gods come for its oblation; Indra mounted it first.
+**प्रतिपदार्थ (Pratipadārtha)**
+अयं अश्वः (*ayaṃ aśvaḥ*)—this horse; हिरण्यशृंगः (*hiraṇyaśṛṃgaḥ*)—possessing manes that are golden (lit. "golden-toothed", as supplied) and stand in the place of horns; अस्य (*asya*)—of this horse; पादाः (*pādāḥ*)—the feet; अयः (*ayaḥ*)—firm like steel; मनोजवाः (*manojavāḥ*)—swift like the speed of mind; इंद्रः (*iṃdraḥ*)—Indra; अवरः (*avaraḥ*)—inferior to this horse; आसीत् (*āsīt*)—is; अस्य (*asya*)—of this horse; आद्यं (*ādyaṃ*)—fit to be eaten; हविः (*haviḥ*)—desiring the oblation-food; देवा इत् (*devā it*)—all the gods also; आयन् (*āyan*)—have come; यः (*yaḥ*)—that same Indra who; अर्वंतं (*arvaṃtaṃ*)—this horse; प्रथमः (*prathamaḥ*)—before all; अध्यतिष्ठत् (*adhyatiṣṭhat*)—mounted and sat.
+
+### Printed p. 265
+*Running head: 265 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 12] (as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+The mane-hairs of this horse, which are like horns, are golden-coloured and attractive. Its feet are firm like steel. Indra, who is swift as the speed of mind, is inferior to this horse in speed. Desiring the edible oblation of this horse, all the gods have come. Before all others Indra mounted and sat on this horse.
+
+**Printed English**
+His name is of gold ; his feet are of iron; and fleet as thought, Indra
+is his inferior (in speed). The gods have come to partake of his (being offered
+as) oblations : the first who mounted the horse was Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+मनोजवाः (*manojavāḥ*)—Two kinds of construction have been made for this word. First, explaining it as मनोवेगाः (*manovegāḥ*) with reference to the horse: the speed of this horse is swift like the speed of the mind, and Indra's speed is less than its speed. Secondly, taking this word as an epithet of Indra, it is explained: अथवा एतदिंद्रविशेषणं । ईदृशस्याश्वस्य सामर्थ्यं प्रति मनोवेगः इंद्रः अपि निकृष्टः असीत् (*athavā etadiṃdraviśeṣaṇaṃ | īdṛśasyāśvasya sāmarthyaṃ prati manovegaḥ iṃdraḥ api nikṛṣṭaḥ asīt*) *[as supplied: "ಅಸೀತ್" in the Kannada comment, against "ಆಸೀತ್" in the Ṛk]*—that is, even Indra, who is swift like the speed of the mind, appeared inferior.
+
+यस्ते रथो मनसो जवीयानेंद्र तेन सोमपेयाय याहि तूयमा ते हरयः प्र द्रवंतु येभिर्यासि वृषभिर्मंदमानः (*yaste ratho manaso javīyāneṃdra tena somapeyāya yāhi tūyamā te harayaḥ pra dravaṃtu yebhiryāsi vṛṣabhirmaṃdamānaḥ*)
+(Ṛ. Saṃ. 10-112-2)
+Since in Ṛks such as this the chariot of Indra is described as having a speed greater than the speed of the mind, the second meaning also suits here.
+
+हिरण्यशृंगः (*hiraṇyaśṛṃgaḥ*)—हितरमणीयशृंगो वा हृदयरमणशृंगस्थानीयशिरोरुहो वा (*hitaramaṇīyaśṛṃgo vā hṛdayaramaṇaśṛṃgasthānīyaśiroruho vā*). It means either a horn made of gold, or a mane that is attractive and stands in the place of a horn; for the word हिरण्य (*hiraṇya*) Sāyaṇa has explained "beneficial and delightful." The Nirukta-author also, for this word (gives the explanation):
+
+हिरण्यं कस्माद्ब्रियत आयम्यमानमिति वा । ह्रियिते जनाज्जनमिति वा । हितरमणं भवतीति वा । हृदयरमणं भवतीति वा । हर्यतीर्वा स्यात्प्रॆप्साकर्मणः (*hiraṇyaṃ kasmādbriyata āyamyamānamiti vā | hriyite janājjanamiti vā | hitaramaṇaṃ bhavatīti vā | hṛdayaramaṇaṃ bhavatīti vā | haryatīrvā syātprèpsākarmaṇaḥ*)
+(Ni. 2-80) *[as supplied: the reference is printed with a stray Telugu-script letter, "సి. ೨-೮೦"]*
+
+### Printed p. 266
+*Running head: 266 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ ೧೬೩] (as supplied).*
+
+*(The Nirukta explanation continues:)* he has shown the etymology that gold has this name because it spreads widely in the form of ornaments and the like, or because it moves from one person to another, or because it is useful and gladdening, or because it is desired with a most intense wish. Just so here also, it may be a mane attractive to the sight and standing in the place of a horn, or it may be a horn made of gold.
+
+That gold was created from this very horse is also stated in many places.
+
+अश्वस्य वा आलब्धस्य । रेत उदक्रामत्तत्सुवर्णग्ं हिरण्यमभवद्यत्सुवर्णग्ं हिरण्यं ददात्यश्वमेव रेतसा समर्धयति (*aśvasya vā ālabdhasya | reta udakrāmattatsuvarṇagṃ hiraṇyamabhavadyatsuvarṇagṃ hiraṇyaṃ dadātyaśvameva retasā samardhayati*)
+(Śa. Brā. 13-1-1-3)
+
+In sentences like this it is said that gold was created from the seed of the horse; therefore the limbs of the horse are in the form of gold, and here हिरण्यशृंग (*hiraṇyaśṛṃga*) may mean a horn made of gold.
+
+अद्यं हविः देवा इत् आयन् (*adyaṃ haviḥ devā it āyan*)—For the description that the gods came desiring this edible oblation of the Aśvamedha there is a narrative setting.
+
+प्रजापतिर्देवेभ्यो यज्ञान्त्यादिशत् । स आत्मन्नश्वमेधमधत्त ते देवाः प्रजापतिमब्रुवन्नेष वै यज्ञो यदश्वमेधोपि नोऽत्रास्तु भाग इति तेभ्य तेभ्य एतानन्नहोमानकल्पयद्यदन्न होमाञ्जु होति देवानेव तत्प्रीणाति (*prajāpatirdevebhyo yajñāntyādiśat | sa ātmannaśvamedhamadhatta te devāḥ prajāpatimabruvanneṣa vai yajño yadaśvamedhopi no 'trāstu bhāga iti tebhya tebhya etānannahomānakalpayadyadanna homāñju hoti devāneva tatprīṇāti*)
+(Śa. Brā. 13-2-1-1)
+
+Prajāpati assigned sacrifices to the gods, but kept the Aśvamedha for himself. Then the gods said, "Since this Aśvamedha is also a principal sacrifice, let us also have a share in it"; whereupon Prajāpati devised the anna-homa (food-oblations). Therefore, since the anna-homa is performed at the time of the Aśvamedha, the gods are satisfied: this matter is conveyed by the sentence "देवा इदस्य हविरदम्यायन् (*devā idasya haviradamyāyan*)" *[as supplied: so printed, "ಹವಿರದಮ್ಯಾಯನ್"]*.
+
+अर्वंतं प्रथमोऽध्यतिष्ठत् (*arvaṃtaṃ prathamo 'dhyatiṣṭhat*)—When it is said that Indra first took possession, it can be taken, like the sentence "इंद्र एणं प्रथमोऽध्यतिष्ठत् (*iṃdra eṇaṃ prathamo 'dhyatiṣṭhat*)", to mean that Indra first mounted this horse; or:
+
+दिशस्सुषुवाणेनाभिजित्या इत्याहुर्यदेतानि हवीग्गंषि निर्वपति दिशामभिजित्या एतयावा इंद्रं देवा अयाजयन्तस्मादिंद्रसव एतया मनुं मदुष्यास्तस्मान्मनुसवो यथेंद्रो देवानां यथा मनुर्मनुष्याणामेवं भवति (*diśassuṣuvāṇenābhijityā ityāhuryadetāni havīggaṃṣi nirvapati diśāmabhijityā etayāvā iṃdraṃ devā ayājayantasmādiṃdrasava etayā manuṃ maduṣyāstasmānmanusavo yatheṃdro devānāṃ yathā manurmanuṣyāṇāmevaṃ bhavati*)
+(Trai. Saṃ. 7-5-12-2, 3) *[as supplied: abbreviation "ತ್ರೈ ಸಂ."]*
+
 ---
 
-**Progress note:** Done through printed p. 260. Sukta 163 end of Rk 6 grammar (p. 255), Rk 7 and Rk 8 to the English translation, pp. 255-260
+**Progress note:** Done through printed p. 266. Ṛk 8 Special Topics and grammar; Ṛk 9 (Sūkta 163) with Special Topics
