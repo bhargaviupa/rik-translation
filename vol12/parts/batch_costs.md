@@ -85,3 +85,4 @@
 | through p. 528 (three windows in one agent: pp. 509-514, 515-522, 523-528) | sonnet | 21 | 212152 | 6.4 |
 | through p. 546 (three windows in one agent: pp. 529-534, 535-540, 541-546) | sonnet | 23 | 205818 | 7.4 |
 | through p. 565 (three windows in one agent: pp. 547-552, 553-558, 559-565) | sonnet | 23 | 235739 | 8.3 |
+| through p. 585 (three windows in one agent: pp. 566-572, 573-578, 579-585) | sonnet | 19 | 233737 | 9.3 |
