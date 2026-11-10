@@ -54,6 +54,7 @@ def cmd_new(a):
     if not os.path.exists(en): wr(en,f'# Rigveda Samhita — Volume {vol} (Kannada → English translation)\n\n---\n\n**Progress note:** Done through printed p. {start-1}; nothing translated yet.\n')
     if not os.path.exists(kn): wr(kn,f'# ಋಗ್ವೇದ ಸಂಹಿತಾ — ಸಂಪುಟ {vol} (Kannada text)\n*The Kannada text of the printed pages, made by script from the supplied machine-read text (tools/rv/html_to_kn.py) and checked by the translator; the English file is made from it. `[?]` marks a doubtful reading.*\n\n---\n\n')
     print('created',cp,'\nnext: put the supplied HTML/markdown in',f'vol{vol}/html/','and list it under "source" (file@FIRST-LAST printed pages); set "printed" only if you need PDF numbers (numeral file pages), and the numeral file(s) in',f'vol{vol}/numerals/')
+PLACEHOLDER=re.compile(r'(?<![IVXLCDM])XXX(?![IVXLCDM])')   # the placeholder, not a printed roman numeral such as 'Vol. XXXII' (Vol 12 p. 536: a translator rewrote the numeral to pass)
 def numbered(kn):
     """kn.md with «bN» before the first line of every Sanskrit block (the numbers [[bN]] refers to)"""
     out=[];n=0;inb=False
@@ -145,7 +146,7 @@ def cmd_check(a):
     if re.search('['+chr(0x0900)+'-'+chr(0x0963)+chr(0x0966)+'-'+chr(0x097F)+']',convert.kn_final(kn)): fail.append('Devanagari in kn.md (the Kannada file is Kannada script only; danda marks are allowed)')
     bad=check_inline.mismatches(w)
     if bad: fail.append(f'{len(bad)} inline ⟦…⟧ segment(s) are not in kn.md (copy them from kn.md, never retype): '+' | '.join(x[:40] for x in bad[:6]))
-    if 'XXX' in en or 'XXX' in enf: fail.append('placeholder XXX left in en.md')
+    if PLACEHOLDER.search(en) or PLACEHOLDER.search(enf): fail.append('placeholder XXX left in en.md')
     dv=re.findall('[ऄ-ह][ऀ-ॣ]*',en)
     if dv: fail.append(f'Devanagari typed in en.md ({len(dv)} places, e.g. {dv[0]}): Sanskrit is copied from kn.md in Kannada script inside ⟦ ⟧; the script converts')
     if re.search(r'⟧\s*\(\*[^)]*\*\)',en): fail.append('hand IAST "(*…*)" after a ⟦ ⟧ segment in en.md: the build adds the IAST itself (Vol 16: 116 doubled pairs)')
@@ -209,7 +210,7 @@ def audit(cfg,expect_clean=True):
     """invariants of the volume files and of git; returns (problems, facts)"""
     en=rd(cfg.en); kn=rd(cfg.kn); pr=[]; dp,_=position(cfg)
     if en.count('**Progress note:**')!=1: pr.append(f"{en.count('**Progress note:**')} progress notes in the English file (must be 1)")
-    if 'XXX' in en: pr.append('XXX in the English file')
+    if PLACEHOLDER.search(en): pr.append('XXX in the English file')
     if re.search(r'⟦\s*⟧|⟦\s*\(\*\s*\*\)\s*⟧',en): pr.append('empty ⟦ ⟧ in the English file')
     if re.search('['+chr(0x0900)+'-'+chr(0x0963)+chr(0x0966)+'-'+chr(0x097F)+']',kn): pr.append('Devanagari in the Kannada file')
     pe=[int(x) for x in re.findall(r'^### Printed p\. (\d+)',en,re.M)]; pk=[int(x) for x in re.findall(r'<!-- printed (\d+)',kn)]

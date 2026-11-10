@@ -12985,7 +12985,7 @@ they have indicated the all-pervasiveness of Viṣṇu described there. In the p
 
 This stepping of Vishnu is emblamatic [sic] of the rising, the culminating and setting
 of the Sun.
-(Sacred Books of the East. Vol. 32 [printed in roman capitals]—P. 133).
+(Sacred Books of the East. Vol. XXXII—P. 133).
 
 And it is known from a Nirukta sentence that ancient scholars such as Aurṇavābha also supported this meaning.
 
