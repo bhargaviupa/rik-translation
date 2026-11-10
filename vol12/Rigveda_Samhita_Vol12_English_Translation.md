@@ -14798,6 +14798,133 @@ This One is the Self of the universe, the power of consciousness within the univ
 " Whatever is the age when the collection of our Rig-Veda Samhita was finished it was before that age that the conviction had been formed that there is but ONE, ONE being, neither male nor female, a Being raised high above all the conditions and limitations of personality and of hyman [sic] nature, and nevertheless the being that was really meant by al [sic] sucn [sic] names as Indra, Agni, Matariswan, nay, even by the name of Prajapati, Lord of creatures; In fact, the Vedic poets had arrived at a conception of the god-head which was reached nnce [sic] more by some of the christian Philosophers at Alexandria, but which even at present is beyond the reach of many who call themselves Christians "
 (Six Systems of Indian Phylosophy [sic], p. 51-52)
 
+### Printed p. 631
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 631 (as supplied).*
+
+[Continuing the Special Topics of Ṛk 46] Whatever century the age of the Ṛk-saṃhitā may belong to, the exposition of this non-dual principle was already clear in the age of the mantras, which came before the age of the Saṃhitā. This great root principle is described as the One, beyond gender and beyond the reach of human perception. In some places it is also described as Hiraṇyagarbha. The greatness found in such an exposition of the non-dual principle is not found even in the Christian religion, which has shown effort in this matter.
+
+By explanations such as ऐश्वर्यविशिष्टं (*aiśvaryaviśiṣṭaṃ*) ("distinguished by lordship") Sāyaṇa has shown that the words *indra*, *mitra* and the like indicate that all the great power present in the many deities such as Indra is in this one deity alone. The derivation of the words Indra and the rest, and their special meanings, are given where the hymns addressed to the respective deities are explained.
+
+*Grammatical process (ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ)*
+
+*Grammar (transcribed, not explained):* मित्रम् (*mitram*): the root इामिदा स्नेहने (*iāmidā snehane*) *[as supplied: ಇಾಮಿದಾ as printed]*; by अमिचिमिदि (*amicimidi*) (Uṇ. Sū. 4-603 *[as supplied: printed ಉ ಸೂ, ೪-೬೦೩ and ಎಬುದರಿಂದ]*) the suffix kra; because it is kit the guṇa of the light penultimate does not occur; by the suffix-accent it is final-udātta. दिव्यः (*divyaḥ*): "that which is in heaven"; by दंडादिभ्योयः (*daṃḍādibhyoyaḥ*) (Pā. Sū. 5-1-66) the suffix ya; by the suffix-accent final-udātta. सुपर्णः (*suparṇaḥ*): "that of which the two wings are beautiful"; by नञ्सुभ्याम् (*nañsubhyām*) (Pā. Sū. 6-2-172) the accent on the last syllable of the latter member results. बहुधा (*bahudhā*): by संख्याया विधाधेधा (*saṃkhyāyā vidhādhedhā*) (Pā. Sū. 5-3-42; printed as such) the suffix dhā in the sense of "kind"; being counted among the tasi-class it is indeclinable; by the suffix-accent final-udātta. || 46 ||
+
+#### Ṛk 47
+**॥ संहितापाठः ॥**
+> कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तंति ।
+> त आव॑वृत्र॒न्तद॑नादृ॒तस्यादिद्भृ॒तेन॑ पृथि॒वी व्यु॑द्यते ॥ ४७ ॥
+**॥ पदपाठः ॥**
+> कृष्णं । नियानं । हरयः । सुपर्णाः । अपः । वसानाः । दिवं । उत् । पतंति ।
+> ते । अ । अववृत्र्न् । सदनात् । ऋतस्य । आत् । इत् । घृतेन । पृथिवी । वि ।
+> उद्यते ॥ ४७ ॥
+
+> *kṛṣṇaṃ | niyānaṃ | harayaḥ | suparṇāḥ | apaḥ | vasānāḥ | divaṃ | ut | pataṃti |*
+> *te | a | avavṛtrn | sadanāt | ṛtasya | āt | it | ghṛtena | pṛthivī | vi |*
+> *udyate ‖ 47 ‖*
+
+### Printed p. 632
+*Running head: 632 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ { ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+> वर्षकामेष्ट्यां तिस्रः पिंड्यो होतव्याः । तत्र कृष्णं नियानमिति तृतीयस्यानुवाक्या ! कृष्णं नियानं हरय सुपर्णा नियुत्वंतो ग्रामजितो यथा नरः ।
+> आ २-१३. इति ॥
+> कृष्णं कृष्णवर्णं नियानं नियमेन गच्छंतं मेघं हरय उदकस्य
+> हर्तारः सुपर्णाः शोभनपतना रश्मयोऽपो वसाना उदकानि वासयंतो
+> मेघेषु । अद्भिर्मेघान्पूरयंत इत्यर्थः । अंतर्भावितण्यर्थाद्विकर्मकत्वं ॥
+> यद्वा । कृष्णं नियानं नियमनं रात्रिः । देवानां हि रात्रिर्दक्षिणायनं । तत्पति ।
+> तस्मिन्वर्षकाल इत्यर्थः । एवं कुर्वंतो दिवं द्युलोकं तदाश्रितमादित्यं
+> वोद्दिश्योत्पतंति । ऊर्ध्वं गच्छंति । ते रश्मय ऋतस्य सदनादुदकस्य स्थानादादित्यमंडलादाववृत्रन् । आवर्तंते । अर्वांच आगच्छंति । आदिदनंतरमेव यदार्वाग्गच्छंति तदानीमेव धृतेनोदकेन पृथिवी व्यद्यते । विविधं क्लिद्यते । कृष्णं
+> निरयणं रात्रिरादित्यस्य हरयः सुपर्णा हरणा आदित्यरश्मय इत्यादिनिरुत्तं द्रष्टव्यं ।
+> नि. ७-२४ ॥
+*Gist:* In the rain-sacrifice this Ṛk is the third offering-verse; the sun's rays, carrying water, fill the dark cloud, go up, return, and the earth is wetted.
+*[stray line as supplied: ಕ, ಅ, ಕ, ಳ, ರ್]*
+**प्रतिपदार्थ (Pratipadārtha)**
+हरयः (*harayaḥ*)—the carriers of water, सुपर्णा (*suparṇā*)—those of excellent motion, the *rati* *[as supplied: ರತಿಗಳು as printed, where ರಶ್ಮಿ is expected]*; कृष्णं (*kṛṣṇaṃ*)—the cloud that is black and of fixed course; अपः (*apaḥ*)—with water; वसाना (*vasānā*)—making it covered (filled with water); दिवं (*divaṃ*)—toward the world of heaven; उत्पतंति (*utpataṃti*)—spread out upward; ते (*te*)—they; ऋतस्य (*ṛtasya*)—of water; सदनात् (*sadanāt*)—from the dwelling, the sun; अववृत्रन् (*avavṛtran*)—return *[as supplied: ಆ ಅವವೃತ್ರನ್ with the word ಆ as printed]*; आदित् (*ādit*)—immediately; पृथिवी (*pṛthivī*)—the earth; धृतेन (*dhṛtena*)—with water; व्युद्यती (*vyudyatī*)—is moistened *[as supplied: ವ್ಯುದ್ಯತೀ as printed]*.
+*[stray line as supplied: ೧ ದದರಾಣಿ ೧]*
+**भावार्थ (Bhāvārtha)**
+The rays, which carry water and are of excellent motion, make the dark cloud of fixed course covered with water, that is, filling it with water they spread upward toward the world of heaven. Again they return from the sun, the dwelling of water. Immediately the earth is moistened with water.
+**Printed English**
+The smooth-gliding wafters (of the rain, the solar rays), clothing the
+the [sic] waters with a dark cloud, ascend to heaven : they come down again from
+the dwelling of the rain, and immediately the earth is moistened with water.
+
+### Printed p. 633
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೨೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 633 (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the sacrifice called Varṣakāmeṣṭi three lumps (*piṇḍī*) are to be offered. When the third of them is offered, this Ṛk कृष्णं नियानं (*kṛṣṇaṃ niyānaṃ*) is to be recited as the *purōnuvākyā* mantra; this is set out by the sūtra of the Āśvalāyana-śrauta-sūtra:
+
+कृष्णं नियानं हरयः सुपर्णा नियुत्वंतो ग्रामजितो यथा नरः (*kṛṣṇaṃ niyānaṃ harayaḥ suparṇā niyutvaṃto grāmajito yathā naraḥ*) (Ā. 2-13)
+
+The meaning Sāyaṇa gives to this Ṛk is somewhat different from the explanation of the Nirukta-writers. For कृष्णं नियानं (*kṛṣṇaṃ niyānaṃ*) Sāyaṇa has explained "a cloud of black colour" (कृष्णवर्णं मेघं (*kṛṣṇavarṇaṃ meghaṃ*)). In the Nirukta it is explained as कृष्णं निरयणं रात्रिं (*kṛṣṇaṃ nirayaṇaṃ rātriṃ*) ("the dark course, the night"). The Nirukta on this Ṛk is as follows:
+
+कृष्णं निरयणं रात्रिरादित्यस्य हरयः सुपर्णा हरणा आदित्यरश्मयस्ते यदामुतोऽर्वांचः पर्यावर्तंते सहस्थानादुदकस्यादित्यादथ धृतेनोदकेन पृथिवी व्युद्यते (*kṛṣṇaṃ nirayaṇaṃ rātrirādityasya harayaḥ suparṇā haraṇā ādityaraśmayaste yadāmuto 'rvāṃcaḥ paryāvartaṃte sahasthānādudakasyādityādatha dhṛtenodakena pṛthivī vyudyate*) (Ni. 7-24)
+
+*Nirayaṇa* here may be called the course of travel. (The ordinary meaning of this word is "way of departure".) The sun has two courses of travel, one of black colour and the other of white. The black course may be taken to mean either the night or the southern course (*dakṣiṇāyana*); or the movement of the southern course itself may be called the sun's night-movement. Durgācārya has written a commentary on the Nirukta sentence in this way:
+
+नियानं निरयणं निर्गतिः [निर्याति] निर्गच्छंत्येतदिति नियानं वर्त्म पंथाः । तच्च पुनरेतत् । रात्रिः आदित्यस्य । द्वेह्यस्यायने शुक्लं चोत्तरं कृष्णं च दक्षिणं । सा हि दैवीरात्रिरभिप्रेता । ततो ब्रवीति रात्रिरादित्यस्य ज्योतिषः । स एष भगवानादित्यो यदा जगदनुग्रहाय गर्भमुदकमात्मन्याधित्तुरुत्तस्मादस्मारायणं प्रतिपद्यते तदैते हरयः रस हरणाः सुपर्णाः तस्य रश्मयः सर्वस्मादस्माल्लोकात् अपोवसानाः आत्मन्याच्छादयंतः आददानाः दिवं द्यूतनवंतमेतमादित्यं प्रतिउत्पतंति (*niyānaṃ nirayaṇaṃ nirgatiḥ [niryāti] nirgacchaṃtyetaditi niyānaṃ vartma paṃthāḥ | tacca punaretat | rātriḥ ādityasya | dvehyasyāyane śuklaṃ cottaraṃ kṛṣṇaṃ ca dakṣiṇaṃ | sā hi daivīrātrirabhipretā | tato bravīti rātrirādityasya jyotiṣaḥ | sa eṣa bhagavānādityo yadā jagadanugrahāya garbhamudakamātmanyādhitturuttasmādasmārāyaṇaṃ pratipadyate tadaite harayaḥ rasa haraṇāḥ suparṇāḥ tasya raśmayaḥ sarvasmādasmāllokāt apovasānāḥ ātmanyācchādayaṃtaḥ ādadānāḥ divaṃ dyūtanavaṃtametamādityaṃ pratiutpataṃti*) (Nirukta-vyākhyā 7-4, as printed)
+
+The sun's movement is of two kinds: one belongs to the northern course and the other to the southern. One is called white and the other black. That "night" here is a synonym of the black course, as thus explained, Sāyaṇa too has stated in his second meaning:
+
+यद्वा । कृष्णं नियानं नियमनं रात्रिः । देवानां हि रात्रिर्दक्षिणायनं । तत्पति तस्मिन्वर्षाकाले इत्यर्थः (*yadvā | kṛṣṇaṃ niyānaṃ niyamanaṃ rātriḥ | devānāṃ hi rātrirdakṣiṇāyanaṃ | tatpati tasminvarṣākāle ityarthaḥ*) *[as supplied: ವರ್ಷಾಕಾಲೇ here, where the bhāṣya block has ವರ್ಷಕಾಲ]*
+
+The night-time of the gods is called the southern course. While the sun follows the course of the northern passage, all his rays spread through the world and gather water from all regions, and
+
+### Printed p. 634
+*Running head: 634 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+in time for this night-season join the sun again. This is the rainy season. The meaning is that in this season rain falls abundantly. Describing this white and black, the Bhagavad-gītā says:
+
+अग्निर्ज्योतिरहश्युक्लः षण्मासा उत्तरायणं । तत्र प्रयाता गच्छंति ब्रह्म ब्रह्मविदो जनाः ॥ धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनं । तत्र चांद्रमसं ज्योतिर्योगी प्राप्य निवर्तते ॥ शुक्लकृष्णे गती हैते जगतश्याश्वते मते । एकया यात्यनावृत्तिमन्ययावर्तते पुनः (*agnirjyotirahaśyuklaḥ ṣaṇmāsā uttarāyaṇaṃ | tatra prayātā gacchaṃti brahma brahmavido janāḥ ‖ dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanaṃ | tatra cāṃdramasaṃ jyotiryogī prāpya nivartate ‖ śuklakṛṣṇe gatī haite jagataśyāśvate mate | ekayā yātyanāvṛttimanyayāvartate punaḥ*) (Bhagavad-gītā 8-24-25)
+
+Here not merely a physical description but also the results, good and bad, relating to moral conduct are stated. For this the usage "the path beginning with light (*arcirādi*)" and "the path of smoke" has been given earlier, in explaining the subject of the Devayāna and the Pitṛyāna [cf. Chā. U. 5-10-3; Bṛ. U. 6-2-19]. On such grounds, although the Nirukta-writers explain कृष्णं निरयणं (*kṛṣṇaṃ nirayaṇaṃ*) merely as night, Sāyaṇa has explained "the night of the gods, the southern course" (देवानां रात्रिर्दक्षिणायनं (*devānāṃ rātrirdakṣiṇāyanaṃ*)).
+
+ऋतस्य सदनात् (*ṛtasya sadanāt*)—उदकस्य स्थानादादित्यमंडलात् (*udakasya sthānādādityamaṃḍalāt*): it is explained as "from the orb of the sun, the place of origin of water". The word *ṛta* here means water. [The many meanings of the word *ṛta*, such as truth and the path of the sun, have been stated earlier in their places.] The Nirukta-writers have read the word *ṛta* among the names of water (Ni. 2-24). In about seventy Ṛks of the Ṛk-saṃhitā the word *ṛta* means water. In the Nirukta the words ऋतं योनिः । ऋतस्य योनिः । सत्यं । नीरं । (*ṛtaṃ yoniḥ | ṛtasya yoniḥ | satyaṃ | nīraṃ |*) have all been put together. Even if the word *ṛta* is given the meaning "truth", then, in accordance with the opinion of some philosophers that water is the root principle of the universe, it would mean water that is of the nature of truth. But in the Ṛk
+
+युद्ध त्यन्मित्रावरुणावृतादध्याददाथे अनृतं स्वेन मन्युना दक्षस्य स्वेन मन्युना । युवो रित्थाधि सद्मस्वपश्याम हिरण्ययं .... .... .... .... । धीभिश्चन मनसा स्वेभिरक्षभिः सोमस्य स्वेभिरक्षिभिः (*yuddha tyanmitrāvaruṇāvṛtādadhyādadāthe anṛtaṃ svena manyunā dakṣasya svena manyunā | yuvo ritthādhi sadmasvapaśyāma hiraṇyayaṃ .... .... .... .... | dhībhiścana manasā svebhirakṣabhiḥ somasya svebhirakṣibhiḥ*) (Ṛ. Saṃ. 1-139-2) *[as supplied: ಯುದ್ಧ and the dots are as printed]*
+
+in the words ऋतादनृतमाददार्थे (*ṛtādanṛtamādadārthe*) the explanation ऋतात्—आदित्यात् । अनृतं शोषणस्वभावं (उदकं) (*ṛtāt—ādityāt | anṛtaṃ śoṣaṇasvabhāvaṃ (udakaṃ)*) makes *ṛta* mean the sun and *anṛta* mean water. And Sāyaṇa has explained that the epithet *anṛta* for water shows the impermanent state of water.
+
+### Printed p. 635
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 635 (as supplied).*
+
+As is said in the Upaniṣads and elsewhere, what is eternal may also be understood as true and what is impermanent as untrue. Even if this idea fits only the meaning of the quoted Ṛk, the use of the word *anṛta* as a synonym of water is rare.
+
+घृतेन (*ghṛtena*)—घृतमित्युदकनाम (*ghṛtamityudakanāma*) (Ni. 7-73 *[as supplied: printed ೭-೭೩]*): *ghṛta* is a name synonymous with water. It is formed from the root *ghṛ* in the sense of sprinkling: जिघर्तेः सिंचतिकर्मणः (*jigharteḥ siṃcatikarmaṇaḥ*). For the latter half आववृत्र्त्सदनादृतस्यादिद् घृतेन पृथिवी व्युद्यते (*āvavṛtrtsadanādṛtasyādid ghṛtena pṛthivī vyudyate*) the Nirukta-writers have said that another meaning is also possible:
+
+आथा पि ब्राह्मणं भवत्यग्निर्वा इतो वृष्टिं समीरयति धामच्छद्दिवि खलु भूत्वा वर्षति मरुतः सृष्टां वृष्टिं नयंति । यदा खलु वासावादित्योऽग्निं रश्मिभिः पर्यावर्ततेऽथ वर्षतीति (*āthā pi brāhmaṇaṃ bhavatyagnirvā ito vṛṣṭiṃ samīrayati dhāmacchaddivi khalu bhūtvā varṣati marutaḥ sṛṣṭāṃ vṛṣṭiṃ nayaṃti | yadā khalu vāsāvādityo 'gniṃ raśmibhiḥ paryāvartate 'tha varṣatīti*) (reference printed as ಸಿ-೭೪ *[as supplied]*)
+
+There is a Brāhmaṇa sentence, "Agni sends rain forth from this world." It is thus: Agni, reaching the atmosphere in the form of smoke, is transformed into a cloud and pours rain. Another Brāhmaṇa sentence says, "When the sun, with his rays, makes Agni turn back, then it rains"; and so a meaning referring to Agni has also been given.
+
+आ अववृत्रन् (*ā avavṛtran*): अर्वाज् आगच्छति (*arvāj āgacchati*). It means "facing toward" or "when they come downward".
+
+सुपर्णाः (*suparṇāḥ*)—शोभनपतना रश्मयः (*śobhanapatanā raśmayaḥ*): "those that move attractively", a synonymous name for rays. The word *suparṇa* is read among the names of rays (Ni. 2-15) and among the names of horses (Ni. 3-27). It is also used in the senses of bird, arrow and the like. Whichever meaning is given, it means "possessing a graceful quivering" *[as supplied: ಗರ್ಭವಾದ ಕಂಪನವುಳ್ಳವು as printed]*. The many meanings of this word and the special character of this epithet have been stated in detail in this same part, on page 421.
+
+*Grammatical process (ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ)*
+
+*Grammar (transcribed, not explained):* नियानम् (*niyānam*): the root या प्रापणे (*yā prāpaṇe*); by the word *bahula* the suffix lyuṭ in the agent sense; by युवोरनाकौ (*yuvoranākau*) (Pā. Sū. 7-1-1) the substitute ana for it; the accent of a kṛt-ending compound's latter member results. हरयः (*harayaḥ*): the root हृञ् हरणे (*hṛñ haraṇe*); by हृपिषिरुहि (*hṛpiṣiruhi*) (Uṇ. Sū. 4-558) the suffix in; with it as cause the guṇa of ṛ, arising with r after it; by इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169) the initial udātta accent results; nominative plural form.
+
+### Printed p. 636
+*Running head: 636 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied; the number after ಮಂ. is missing in the print).*
+
+*Grammar, continued:* अपः (*apaḥ*): accusative plural form; by ऊडिदंपदादि (*ūḍidaṃpadādi*) (Pā. Sū. 6-1-171) the case-ending takes the udātta accent. वसानाः (*vasānāḥ*): the root वस आच्छादने (*vasa ācchādane*), a root with the causative sense included; the substitute śānac for laṭ; since it is anudātta-it, by तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) śānac is anudātta, so the root-accent remains. पतंति (*pataṃti*): the root is printed in a garbled form *[as supplied]*; laṭ, third person plural form; the tiṅ-final nighāta accent results. अववृत्र्न् (*avavṛtrn*): the root वृतु वर्तने (*vṛtu vartane*); by vyatyaya it takes the parasmaipada; in the Vedic manner, in laṅ third person plural the substitute anta for jhi; elision of i; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) the substitute ślu for śap; by ślu doubling of the root and so on; by बहुलं छंदसि (*bahulaṃ chaṃdasi*) the augment ruṭ for the suffix; the augment aṭ for the stem; because it stands after a non-verb the nighāta accent results. सदनात् (*sadanāt*): the root is printed in a garbled form *[as supplied]*; in the locative sense the suffix lyuṭ; the substitute ana; by लिति (*liti*) (Pā. Sū. 6-1-193) the udātta accent falls on the syllable before the suffix; ablative singular form. उद्यते (*udyate*): the root उंदी क्लेदने (*uṃdī kledane*); laṭ in the passive; by सार्वधातुकेयक् (*sārvadhātukeyak*) (Pā. Sū. 3-1-62) yak; because it is kit, by अनिदितांहलउ (*aniditāṃhalau*) *[as supplied: as printed]* the elision of the nasal of the penultimate; the tiṅ-final nighāta accent results. || 47 ||
+
+*[Label as supplied, garbled: ಸೊಲೆ ಸಾಹೇಬ?]*
+
+#### Ṛk 48
+**॥ संहितापाठः ॥**
+*[Label garbled in the print (ಸೊಲೆ ಸಾಹೇಬ?); read as Saṃhitā-pāṭha.]*
+> द्वाद॑श प्र॒धय॑श्च॒क्रमेकं॒ त्रीणि॒ नभ्या॑नि॒ क उ॒ तच्चि॑केत ।
+> तस्मि॑न्ता॒कं त्रि॑श॒ता न शं॒कवो॑र्पि॒ताः ष॒ष्टिर्न च॑लाच॒लासः॑ ॥
+> ॥ ४८ ॥
+*[Stray line as supplied: ೧ ಹದಿನಾಲ್ಕು ೧]*
+**॥ पदपाठः ॥**
+> द्वादश । प्रधयः । चक्रं । एकं । त्रीणि । नभ्यानि । कः । ऊं इति । तत् । चिकेत ।
+> तस्मिन् । साकं । त्रिशताः । न । शंकवः । अर्पिताः । षष्टिः । न । चॆलाचलासः ॥ ४८ ॥
+
+> *dvādaśa | pradhayaḥ | cakraṃ | ekaṃ | trīṇi | nabhyāni | kaḥ | ūṃ iti | tat | ciketa |*
+> *tasmin | sākaṃ | triśatāḥ | na | śaṃkavaḥ | arpitāḥ | ṣaṣṭiḥ | na | cèlācalāsaḥ ‖ 48 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 630. Ṛk 1.164.45 end (Śatapatha, grammar), Ṛk 46 with Special Topics on unity of gods
+**Progress note:** Done through printed p. 636. Ṛk 164.47 (rain, ṛta, Nirukta/Durga), Ṛk 48 verse
