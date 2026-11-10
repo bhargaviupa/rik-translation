@@ -3478,6 +3478,83 @@ in the Madhuvidyā section of the Bṛhadāraṇyaka Upaniṣad the identity of 
 
 Water is greater than food. If there is no good rain, all beings fear that there will be a shortage of food. If there is good rain, they think that abundant and plentiful food will be obtained *[printed "ಪುಷ್ಪವೂ ಪುಷ್ಕಲವೂ", as supplied]*; the beings *[the supplied text ends here, in the middle of the sentence, with the cut-off word "ಪ್ರಾಣಿಗಳೆ"; the rest is in the next window]*
 
+### Printed p. 122
+
+*Running head: 122 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨ ಸೂ. ೧೬೧] (as supplied).* (The Special Topics of Ṛk 9 continue; the first word ल्लवू (*llavū*) completes the word "ಪ್ರಾಣಿಗಳೆ" cut off at the end of the previous window: "ಪ್ರಾಣಿಗಳೆಲ್ಲವೂ", "all the beings".)
+
+...all the beings will be happy. The condensed water itself has pervaded the form of the earth, the form of the atmosphere and of the sky, the forms of gods, men and the like, of beasts, birds, grass, trees, and of worms, insects, ants and the like. Everything is made of water. Therefore worship water.
+
+स योऽपो ब्रह्मेत्युपास्त आप्नोति सर्वान् कामांस्तृप्तिमान् भवति यावदपां गतं तत्रास्य यथा कामचारो भवति योऽपो ब्रह्मेत्युपास्ते ॥ (*sa yo 'po brahmetyupāsta āpnoti sarvān kāmāṃstṛptimān bhavati yāvadapāṃ gataṃ tatrāsya yathā kāmacāro bhavati yo 'po brahmetyupāste ‖*) (ಛಾ. ಉ. 7-10-2) *[abbreviation "ಛಾ. ಉ." as printed; the hyphenated line break "ಯಾವ-ದಪಾಂ" is joined]*
+
+One who worships water as Brahman obtains all his desired objects and attains satisfaction; he also obtains unlimited freedom. Since the greatness of water is told in this way and in other ways, what one of the Ṛbhus said, आपो भूयिष्ठाः (*āpo bhūyiṣṭhāḥ*), is a true statement of the principle.
+
+अग्निर्भूयिष्ठः (*agnirbhūyiṣṭhaḥ*)—आंतरं बाह्यं च दाहपाकभुक्तजरणादिव्यापारेणाग्नेरेव जगन्निर्वाहकत्वादग्नेरेव भूयिष्ठत्वमित्येव मन्यते । (*āṃtaraṃ bāhyaṃ ca dāhapākabhuktajaraṇādivyāpāreṇāgnereva jagannirvāhakatvādagnereva bhūyiṣṭhatvamityeva manyate |*) *[the hyphenated line break "ಅಗ್ನೇ-ರೇವ" is joined]* It is explained that since fire alone is the cause of all the activities of the world, such as burning, cooking and digestion, inside and outside, there is no one greater than fire.
+
+In the Chāndogya Upaniṣad, having stated the identity of water and Brahman, when it is said that the Brahman who is in the form of water should be worshipped,
+
+अस्ति भगवोऽद्भो भूय इत्यद्भो वाव भूयोऽस्तीति तन्मे भगवन्नवीत्त्विति ॥ (*asti bhagavo 'dbho bhūya ityadbho vāva bhūyo 'stīti tanme bhagavannavīttviti ‖*) (ಭಾ. ಉ 7-10-2) *[abbreviation as printed, "ಭಾ. ಉ"; the hyphenated line break "ಭಗವನ್ನ-ವೀತ್ತ್ವಿತಿ" is joined]*
+
+and Nārada asks Sanatkumāra what there is that is more excellent than water,
+
+तेजो नावाद्भ्यो भूयस्तदा एतद्वायुमागृह्याकाशमभितपति तदाहुर्निशोचति नितपति वर्षिष्यति वा इति तेज एव तत्पूर्वं दर्शयित्वाथापः (*tejo nāvādbhyo bhūyastadā etadvāyumāgṛhyākāśamabhitapati tadāhurniśocati nitapati varṣiṣyati vā iti teja eva tatpūrvaṃ darśayitvāthāpaḥ*)
+सृजते तदेतदूर्ध्वाभिश्च तिरश्चिभिश्च विद्युद्भिराह्रादाश्चरंति तस्मादाहुर्विद्योतते स्तनयति वर्षिष्यति वा इति तेज एव तत्पूर्वं दर्शयित्वाथापः (*sṛjate tadetadūrdhvābhiśca tiraścibhiśca vidyudbhirāhrādāścaraṃti tasmādāhurvidyotate stanayati varṣiṣyati vā iti teja eva tatpūrvaṃ darśayitvāthāpaḥ*)
+सृजते तेज उपास्वेति। स यस्तेजो ब्रह्मेत्युपास्ते...यथा कामचारो (*sṛjate teja upāsveti| sa yastejo brahmetyupāste...yathā kāmacāro*)
+भवति ! (*bhavati !*) (ಛಾ. ಉ 7-11-1) *[the hyphenated line breaks "ತದಾಹು-ರ್ನಿಶೋಚತಿ" and "ತಸ್ಮಾದಾಹುರ್ವಿ-ದ್ಯೋತತೇ" are joined]*
+
+the radiance (fire) in the form of lightning is more than water. It checks the wind and makes the sky hot. Then the beings understand: "Now there is a scorching heat; it will rain." The radiance first causes this heat and afterwards pours down rain.
+
+### Printed p. 123
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೫. ] Ṛgveda-saṃhitā 123 (as supplied).*
+
+When lightning and thunder arise, they hope for rain. Fire in the form of lightning is praised as this radiance which is Brahman. Since the manifestation and the power of this fire are of many kinds, there is praise of this fire in many ways in many places. In the Madhuvidyā section of the Bṛhadāraṇyaka, having stated the identity of water and Brahman, it says immediately afterwards,
+
+अयमग्निः सर्वेषां भूतानां मध्वस्याग्नेः सर्वाणि भूतानि मधु यश्चायमस्मिन्नग्नौ तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मदं सर्वं । (*ayamagniḥ sarveṣāṃ bhūtānāṃ madhvasyāgneḥ sarvāṇi bhūtāni madhu yaścāyamasminnagnau tejomayo 'mṛtamayaḥ puruṣo 'yameva sa yo 'yamātmedamamṛtamidaṃ brahmadaṃ sarvaṃ |*) (ಬೃ. ಉ. 9-53) *[reference as printed; the hyphenated line breaks "ಯಶ್ಚಾಯ-ಮಸ್ಮಿನ್ನಗ್ನೌ" and "ಯೋಽಯ-ಮಾತ್ಮೇದ" are joined]*
+
+For all beings this fire is in the form of honey. The luminous and immortal Puruṣa who dwells within this fire is the Self, Brahman and everything: thus the identity of fire with the Self of the universe is stated. And in the conversation that took place between Pravāhaṇa Jaivali and Gautama the greatness of fire is explained in detail.
+
+असौ वै लोकोऽग्निर्गौतम तस्यादित्य एव समिद्रश्मयो धूमोऽहरर्चिर्दिशो०गारा अवांतरदिशो विस्फुलिंगास्तस्मिन्नेतस्मिन्नग्नौ देवाः श्रद्धां (*asau vai loko 'gnirgautama tasyāditya eva samidraśmayo dhūmo 'hararcirdiśo0gārā avāṃtaradiśo visphuliṃgāstasminnetasminnagnau devāḥ śraddhāṃ*)
+जुह्वति तस्या आहुत्यै सोमो राजा संभवति । (*juhvati tasyā āhutyai somo rājā saṃbhavati |*) (ಬೃ. ಉ. 6-2-9) *[the hyphenated line break "ಅಹರರ್ಚಿರ್ದಿ-ಶೋ೦ಗಾರಾ" is joined; "ಶೋ೦ಗಾರಾ" is printed with a zero-like sign]*
+
+For this fire, which stands in the heavenly world, the sun is the fuel; the clouds are the smoke, the horizons the embers, the intermediate directions the sparks. In this fire, the Self of the universe, the gods offer faith. From this offering of faith King Soma arises.
+
+पर्जन्यो वा अग्निर्गौतम तस्य संवत्सर एव समित् अभ्राणि धूमो .... .... ... (*parjanyo vā agnirgautama tasya saṃvatsara eva samit abhrāṇi dhūmo .... .... ...*)
+अस्मिन्नग्नौ देवाः सोमं राजानं जुह्वति तस्या आहुत्यै वृष्टिः संभवति । (*asminnagnau devāḥ somaṃ rājānaṃ juhvati tasyā āhutyai vṛṣṭiḥ saṃbhavati |*) (6-2-10) *[the line has printed dots]*
+
+The cloud that produces rain is this sacrificial fire. By offering Soma in this fire, rain is produced.
+
+अयं वै लोकोग्निर्गौतम तस्य पृथिव्येव समिदग्निर्धूमो रात्रिरर्चिश्चंद्रमा अंगारा नक्षत्राणि विस्फुलिंगास्तस्मिन्नेतस्मिन्नग्नौ देवा वृष्टिं (*ayaṃ vai lokognirgautama tasya pṛthivyeva samidagnirdhūmo rātrirarciścaṃdramā aṃgārā nakṣatrāṇi visphuliṃgāstasminnetasminnagnau devā vṛṣṭiṃ*)
+जुह्वति तस्या आहुत्या अन्नं संभवति । (*juhvati tasyā āhutyā annaṃ saṃbhavati |*) (6-2-11) *[the hyphenated line break "ರಾತ್ರಿರರ್ಚಿ-ಶ್ಚಂದ್ರಮಾ" is joined]*
+
+### Printed p. 124
+
+*Running head: 124 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ ೧೬೧] (as supplied).*
+
+This whole world is the sacrificial fire. The earth is the fuel, Agni is the smoke, night is the flame, the moon the embers, the stars the sparks. In this world-fire the gods pour down rain. From this food is produced.
+
+पुरुषो ना अग्निर्गौतम .... .... .... .... योषा वा अग्निः : (*puruṣo nā agnirgautama .... .... .... .... yoṣā vā agniḥ :*) (6-2-193) *[reference as printed; the line has printed dots]*
+
+Man, woman and everything are transformations of this fire.
+
+ते य एवमेतद्विदुर्य्ये चामिा अरण्ये श्रद्धां सत्यमुपासते तेऽर्चिरभि (*te ya evametadviduryye cāmiā araṇye śraddhāṃ satyamupāsate te 'rcirabhi*)
+संभवंति .... .... .... ........ .... .... .... .... ते तेषु ब्रह्मलोकेषु पराः (*saṃbhavaṃti .... .... .... ........ .... .... .... .... te teṣu brahmalokeṣu parāḥ*)
+परावतो वसंति तेषां न पुनरावृत्तिः । (*parāvato vasaṃti teṣāṃ na punarāvṛttiḥ |*) (6-2-15) *[the line "…ತೇಽರ್ಚಿರಭಿ" ends with a word split without a hyphen, the next line begins with "ಸಂಭವಂತಿ", so it is quoted in parts; the lines have printed dots]*
+
+The Kannada explains to Gautama that the knowers who have known the universal form, the universal power and the universal nature of the world-fire attain the world of Brahman and obtain liberation, and that for them there is no re-entry into saṃsāra. In this teaching fire is described as the support of the whole world, the giver of wealth, the nourisher, the protector and the giver of liberation, and as the cause and also the goal धैयवू (*dhaiyavū*) *[so printed]* of all kinds of activities of the terrestrial, atmospheric and heavenly worlds. In the Ṛgveda-saṃhitā also,
+
+वि यो रजांस्यमिमित सुक्रतुर्वैश्वानरो वि दिवो रोचना कविः । (*vi yo rajāṃsyamimita sukraturvaiśvānaro vi divo rocanā kaviḥ |*)
+परि यो विश्वा भुवनानि पप्रथेऽदब्बो गोपा अमृतस्य रक्षिता ! (*pari yo viśvā bhuvanāni paprathe 'dabbo gopā amṛtasya rakṣitā !*) (Ṛ. Saṃ. 6-7-7)
+
+this fire measured all the worlds and created all the spheres of radiance.
+
+श्रीणि शता श्री सहस्रां,ग्निं त्रिंशच्च देवा नव चासपर्यन् । (*śrīṇi śatā śrī sahasrāṃ,gniṃ triṃśacca devā nava cāsaparyan |*) (Ṛ. Saṃ. 3-9-9)
+
+the gods, three thousand three hundred and thirty-nine in number, also worshipped this same great fire. Thus the greatness of fire is praised. This fire, who is the support of the universe and the giver of life to the whole universe, is praised in the Śatapatha and other texts as everything, in sentences such as
+
+अग्निर्वै भुवोऽग्नेर्हीदग्ं सर्वं भवति । (*agnirvai bhuvo 'gnerhīdagṃ sarvaṃ bhavati |*) (ಶ. ಬ್ರಾ. 8-1-1-4) *[abbreviation as printed]*
+
+On the basis of these authorities there is truth also in what the second of the Ṛbhus said, अग्निर्भूयिष्ठः (*agnirbhūyiṣṭhaḥ*). The third,
+
 ---
 
-**Progress note:** Done through printed p. 121 (PDF 121). Sūkta 161 Ṛk 9 bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (water as the first principle; to the Chāndogya quotation)
+**Progress note:** Done through printed p. 124 (PDF 124). Sūkta 161 Ṛk 9 Special Topics continued (water, fire; Upaniṣad quotations), to 'The third,'
