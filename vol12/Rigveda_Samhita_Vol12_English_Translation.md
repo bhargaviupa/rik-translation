@@ -383,6 +383,89 @@ In this ṛk बहुकर्मवान् मनुषः (*bahukarmavān m
 
 (Ṛ. Saṃ. 10-65-13)
 
+### Printed p. 15
+
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 1] Ṛgveda-saṃhitā, p. 15 (printed "ಅ. ೨. ಅ ೩. ವ. ೧ ]", as supplied).* (Special Topics of Ṛk 2 continue.)
+
+In that ṛk (the Sarasvatī verse quoted at the end of p. 14) the authors of the Nirukta (Ni. 12-30) explain this word as पुरंध्या स्तुत्या प्रयुक्तानि (*puraṃdhyā stutyā prayuktāni*), that is, वचांसि (*vacāṃsi*) "words accompanied by many kinds of praise". Sāyaṇa has explained बहुविधया (*bahuvidhayā*) प्रज्ञया सहिता सरस्वती । (*prajñayā sahitā sarasvatī |*) "Sarasvatī endowed with manifold wisdom", as an epithet of Sarasvatī. But from the explanation made by Durgācārya (Ni. 12-30), बहुधात्रा माध्यमिकया वाचा (*bahudhātrā mādhyamikayā vācā*), it is understood to be a particular deity similar to Sarasvatī. Likewise,
+
+शं नो भगः शमु नः शंसो अस्तु शं नः पुरंधिः शमु संतु रायः । (*śaṃ no bhagaḥ śamu naḥ śaṃso astu śaṃ naḥ puraṃdhiḥ śamu saṃtu rāyaḥ |*)
+शं नः सत्यस्य सुयमस्य शंसः शं नो अरमा पुरुजातो अस्तु । (*śaṃ naḥ satyasya suyamasya śaṃsaḥ śaṃ no aramā purujāto astu |*)
+
+(Ṛ. Saṃ. 7-35-2)
+
+in such ṛks it is understood that Puraṃdhi is a separate deity; Sāyaṇa too has not made it an epithet of the words *bhaga* and so on in this ṛk. And
+
+देवो भगः सविता रायो अंश इंद्रो वृत्रस्य संजितो धनानां । (*devo bhagaḥ savitā rāyo aṃśa iṃdro vṛtrasya saṃjito dhanānāṃ |*)
+ऋभुक्षा वाज उत वा पुरंधिरवंतु नो अमृतासस्तुरासः ॥ (*ṛbhukṣā vāja uta vā puraṃdhiravaṃtu no amṛtāsasturāsaḥ ‖*)
+
+(Ṛ. Saṃ. 5-42-5)
+
+here it is a synonym of Vibhvan.
+
+पुराणी देवि युवतिः पुरंधिरनु व्रतं चरसि विश्ववारे । (*purāṇī devi yuvatiḥ puraṃdhiranu vrataṃ carasi viśvavāre |*)
+
+(Ṛ. Saṃ. 3-61-1)
+
+In such places it is an epithet of Uṣas; the meaning is "having many hymns of praise". In many places this word is used for the wife or for women in general, and gives the meaning of women who are not barren, who are fit to obtain the wealth of progeny and are nourished.
+
+अग्निः सप्तिं वाजंभरं ददात्यग्निर्वीरं श्रुत्यं कर्मनिष्ठां । (*agniḥ saptiṃ vājaṃbharaṃ dadātyagnirvīraṃ śrutyaṃ karmaniṣṭhāṃ |*)
+अग्नी रोदसी वि चरत्समंजन्नग्निर्नारीं वीरकुक्षिं पुरंधिं ॥ (*agnī rodasī vi caratsamaṃjannagnirnārīṃ vīrakukṣiṃ puraṃdhiṃ ‖*)
+
+(Ṛ. Saṃ. 10-80-1)
+
+In such ṛks (1-106-17, 1-117-19) the meaning is a wife capable of bearing offspring, and
+
+वायुर्युंक्ते रोहिता वायुररुणा वायू रथे अजिरा धुरि वोळ्हवे (*vāyuryuṃkte rohitā vāyuraruṇā vāyū rathe ajirā dhuri voḷhave*)
+वहिष्ठा धुरि वोळ्हवे । (*vahiṣṭhā dhuri voḷhave |*)
+प्र बोधया पुरंधिं जार आ ससतीमिव । (*pra bodhayā puraṃdhiṃ jāra ā sasatīmiva |*)
+प्र चक्षय रोदसी वासयोषसः श्रवसे वासयोषसः ॥ (*pra cakṣaya rodasī vāsayoṣasaḥ śravase vāsayoṣasaḥ ‖*)
+
+(Ṛ. Saṃ. 1-134-3)
+
+in such ṛks a woman fit for enjoyment is understood. Thus, when various qualities are described, the word पुरंधि (*puraṃdhi*) indicates the abundance of those qualities and real prosperity. In the present ṛk the meaning is given as cows that give abundant milk.
+
+### Printed p. 16
+
+*Running head: 16 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158 (printed with a full stop after "೧೫೮").*
+
+जिगृतं (*jigṛtaṃ*)—शब्दयतं । (*śabdayataṃ |*) "Make a sound of acceptance", that is, give cows: this is the purport. In अविष्टं धियो जिगृतं (*aviṣṭaṃ dhiyo jigṛtaṃ*) (Ṛ. Saṃ. 4-50-11) it has the meaning प्रबुध्यतं (*prabudhyataṃ*), "awaken". In the same way here too it can mean "make us aware in regard to cows", that is, "give us the knowledge that that wealth is ours".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained word for word):* the Kannada gives the grammatical analysis of दाशत् (*dāśat*), सुमतये (*sumataye*), वसू (*vasū*), धेथे (*dhethe*), पदे (*pade*), जिगृतम् (*jigṛtam*), अस्मे (*asme*) and रेवतीः (*revatīḥ*), with the suffix, the Vedic irregularity and the accent of each form, citing among others the sūtras लेटोऽडाट् (*leṭo 'ḍāṭ*) (Pā. Sū. 3-4-94), शृस्वस्निहित्रसि (*śṛsvasnihitrasi*) (Uṇ. Sū. 1-10), प्वादीनां ह्रस्वः (*pvādīnāṃ hrasvaḥ*) (Pā. Sū. 7-3-80), ऊडिदं पदादि (*ūḍidaṃ padādi*) (Pā. Sū. 6-1-171), सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) and छंदसीरः (*chaṃdasīraḥ*) (Pā. Sū. 8-2-15); the printed "ಪಾ. ಸೂ. ೭.೨-೮೧" for आतोजितः (*ātojitaḥ*) and the sūtra number "೬-೧-೧೭೬-೧" broken across two lines are kept as supplied.
+
+### Printed p. 17
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧. ] Ṛgveda-saṃhitā, p. 17 (as supplied).*
+
+*Grammar, continued:* कामप्रेण इव (*kāmapreṇa iva*) (root प्रा (*prā*), suffix *ka* by आतोनुपसर्गे कः (*ātonupasarge kaḥ*), Pā. Sū. 3-2-3, a third-case form) and चरंता (*caraṃtā*) (root चर (*cara*), participle suffix, *num* augment, सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39 for the dual, the root accent remains). The grammar of Ṛk 2 ends with the mark ॥ ೨ ॥ and a stray ornament line ":0:", kept as supplied.
+
+#### Ṛk 3
+
+*[The Saṃhitā of this Ṛk is printed as ordinary lines, not as a block, in the supplied text, and its label is garbled as "ಸಂಕ್ಷಿಪ್ತವಾಗಿ"; the standard label is inserted, the garbled word kept in kn.md as a note, and the lines are made a block.]*
+
+**॥ संहितापाठः ॥**
+
+> यु॒क्तो ह॒ यद्वां॑ तौ॒ग्राय॑ पे॒रुर्वि मध्ये॒ अर्ण॑सो॒॒॑
+> धायि॑ प॒ज्रः ।
+> उप॑ वा॒मवः॑ शर॒णं ग॑मेयं॒ शूरो॒ नाज्म॑ प॒तय॑द्धि॒रेवैः॑ । ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> युक्तः । ह । यत् । नां । तौग्त्याय । पेरुः । वि । मध्ये । अर्णसः । धायि । पज्रः ।
+> उप । नां । अवः । शरणं । गमेयं । शूरः । न । अज्म । पतयेत्भिः । एवैः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अत्रेतिहासमाहुः । तौग्र्यनामकं राजानं युद्धे शत्रवः पराभाव्य पाशैर्दृढं बद्धा समुद्रमध्यॆ प्रचिक्षिपुः । स चोत्तरीतुमशक्तः सन्नश्विन्‌नौ तुष्टाव । तौ
+> च तुष्टौ शीघ्रमेव रथमश्वैर्योजयित्वा समुद्रमागत्य तमुत्तार्यापालयतामिति । अयमर्थोऽजोहवीदश्विना तौग्र्यः । ऋ. १-११७-१५ । इत्यादिमंत्रांतरे
+> प्रसिद्धः । सोऽत्रोच्यते ॥ हे अश्विन् नां युवयोः संबंधी पेरुः पारणकुशलो
+> रथो युक्तो ह । अश्वैर्युक्तः खलु । हशब्दो मंत्रांतरप्रसिद्धिद्योतनार्थः ।
+> स चोदाहृतः । कस्मै । तौग्रायैतन्नाम्ने राज्ञे तद्बंधमोचनार्थं । कुत्रॆति
+
+*[The bhāṣya block breaks off at the end of printed p. 17 in the middle of a sentence ("…ಕುತ್ರೆತಿ"); it continues on p. 18, in the next window. Two stray signature lines at the foot of the page ("[2] Vol. 12", printed twice) are kept in kn.md as a note. Gist of what is given so far: enemies defeated King Taugrya in battle, bound him and threw him into the mid-ocean; he praised the Aśvins, who yoked horses to a chariot, came to the sea and brought him out; the bhāṣya says that this story is known from another mantra (Ṛ. 1-117-15) and is referred to here.]*
+
 ---
 
-**Progress note:** Done through printed p. 14 (PDF 14). Sūkta 158 Ṛk 2 Pratipadārtha, Bhāvārtha, English, Special Topics (go, namas, kāmapra, revatī, purandhi)
+**Progress note:** Done through printed p. 17 (PDF 17). Sūkta 158 Ṛk 2 Special Topics end (purandhi, jigṛtam), grammar, Ṛk 3 Saṃhitā, Pada, bhāṣya start
