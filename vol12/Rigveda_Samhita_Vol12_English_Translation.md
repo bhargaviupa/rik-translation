@@ -2911,6 +2911,87 @@ In such sentences, because the identity of speech and Tvaṣṭṛ is stated, an
 
 ऋभवः (*ṛbhavaḥ*)—अत्र यद्यपृभुरिति त्रयाणां मध्ये एकस्य नाम तथापि तस्य प्राथ (*atra yadyapṛbhuriti trayāṇāṃ madhye ekasya nāma tathāpi tasya prātha*)म्यात्सर्वेऽपि ऋभव उच्यंते. (*myātsarve 'pi ṛbhava ucyaṃte.*) Though the name Ṛbhu is the name of one of the three, still, by priority, all are called Ṛbhus: it is shown that, although Ṛbhu is only one of the three, by this word the names of all the three are indicated.
 
+### Printed p. 102
+
+*Running head: 102 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 161.* (The Special Topics of Ṛk 4 continue.)
+
+ऋभवः उरु भांतीति वा, ऋतेन भांतीति ना, ऋतेन भवंतीति वा (*ṛbhavaḥ uru bhāṃtīti vā, ṛtena bhāṃtīti nā, ṛtena bhavaṃtīti vā*) *[so printed, "ನಾ" for ವಾ]* (Ni. 11-15): "because they shine very widely, or shine with excellent rites such as sacrifice, or exist with such excellent rites, this name is well known": thus the authors of the Nirukta (explain), and
+
+विष्ट्वी शमी तरणित्वेन वाघतो मर्तासः संतो अमृतत्वमानशुः । (*viṣṭvī śamī taraṇitvena vāghato martāsaḥ saṃto amṛtatvamānaśuḥ |*)
+सौधन्वना ऋभवः सूरचक्षसः संवत्सरे समपृच्यंत धीतिभिः ॥ (*saudhanvanā ṛbhavaḥ sūracakṣasaḥ saṃvatsare samapṛcyaṃta dhītibhiḥ ‖*)
+
+(ಯ. ಸಂ, 1-110.4) *[printed "ಯ. ಸಂ" with a comma and a stop; the abbreviation is not on the user's list and is kept as printed, presumably Ṛ. Saṃ.]*
+
+quoting this ṛk they describe that the Ṛbhus, uniting with the priests, performed sacrifices and the like very quickly and, though human, obtained by their works divinity free from death. Then the Ṛbhus, sons of Sudhanvan, with a radiance equal to that of the Sun, united with the rites such as the Agniṣṭoma to be performed in the seasons beginning with spring, which are the parts of the year, and became fit to receive oblations: describing their greatness thus, they explain their history with ऋभुर्विभ्वावाज (*ṛbhurvibhvāvāja*) इति सुधन्वन अंगिरसस्य त्रयः पुत्रा बभूवुः । (*iti sudhanvana aṃgirasasya trayaḥ putrā babhūvuḥ |*) This explanation was given earlier.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses चकृवांसः (*cakṛvāṃsaḥ*) (root डुकृञ् (*ḍukṛñ*), *kvasu* by Pā. Sū. 3-2-107), अपृच्छत (*apṛcchata*) (root प्रच्छ (*praccha*)), स्यः (*syaḥ*) (the pronoun त्यद् (*tyad*)), अजगन् (*ajagan*), अवाख्यत् (*avākhyat*) (Pā. Sū. 3-1-52 and 6-4-64), त्वष्टा (*tvaṣṭā*) (root त्वक्षू (*tvakṣū*)) and, on p. 103, आनजे (*ānaje*) (root अंजू (*aṃjū*); Pā. Sū. 7-4-20 and 7-4-21), with the accents; it ends with the mark ॥ ೪ ॥.
+
+### Printed p. 103
+
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೪.] Ṛgveda-saṃhitā, p. 103 (as supplied).*
+
+*(The grammar of Ṛk 4 ends here with the mark ॥ ೪ ॥.)*
+
+#### Ṛk 5
+
+*[A picture (vol12/html/figures/fig1_line04678.jpg) stood at this place in the supplied text. I looked at it and zoomed in: it shows an ornament, the label "। ಸಂಹಿತಾಪಾಠಃ ॥" and the Saṃhitā and Pada of this Ṛk, which are read from the picture letter by letter. The picture and the machine-read text agree, except that the picture reads "ಸ್ಪರತ್" (ಸ್ಪ) at the end of the Saṃhitā and of the Pada, where the machine-read text has "ಸ್ವರತ್" (ಸ್ವ); this change is made in kn.md after the picture (the bhāṣya below keeps "ಸ್ವರತ್" as supplied). The Saṃhitā is as printed in three lines; the line-end hyphen "ದೇವಪಾನ-ಮನಿಂದಿಷುಃ" is joined. The picture prints small hook marks in some Pada words (e.g. "ದೇವ·ಪಾನಂ", "ನಾಮ·ಭಿಃ"), taken as the compound-division sign and not transcribed, nor are the accent marks.]*
+
+**॥ संहितापाठः ॥**
+
+> हना॑मैना॒ इति॒ त्वष्टा॒ यदब्र॑वीच्चम॒सं ये दे॑व॒पान॒मनिं॑दिषुः ।
+> अ॒न्या नामा॑नि कृण्वते सु॒ते सचा॑ अ॒न्यैरे॑नान्क॒न्या॒३॒॑ ३ नाम॑भिः
+> स्परत् ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> हनाम । एनान् । इति । त्वष्टा । यत् । अब्रवीत् । चमसं । ये । देवपानं ।
+> अनिंदिषुः ।
+> अन्या । नामानि । कृण्वते । सुते । सचा । अन्यैः । एनान् । कन्या । नामभिः । स्परत् ।
+> ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> एनान्वक्ष्यमाणान् हनामेति यद्यदाब्रवीत्त्वष्टा । पूजार्थं बहुवचनं ।
+> एतच्छब्दस्य प्रकृतपरामर्शकत्वादृभूणां प्रकृतत्वात् तेषां हननप्रसक्तिं दर्शयति
+> ये देवपानं देवैः पातव्यं चमसं य ऋभवोऽनिंदिषुः निंदामकुर्वन् । देवयोग्यं त्वाष्ट्रचमसं मनुष्या ऋभवः स्वीकृत्य चतुर्धा व्यभजन् तान् हनामेति
+
+> *enānvakṣyamāṇān hanāmeti yadyadābravīttvaṣṭā | pūjārthaṃ bahuvacanaṃ |*
+> *etacchabdasya prakṛtaparāmarśakatvādṛbhūṇāṃ prakṛtatvāt teṣāṃ hananaprasaktiṃ darśayati*
+> *ye devapānaṃ devaiḥ pātavyaṃ camasaṃ ya ṛbhavo 'niṃdiṣuḥ niṃdāmakurvan | devayogyaṃ tvāṣṭracamasaṃ manuṣyā ṛbhavaḥ svīkṛtya caturdhā vyabhajan tān hanāmeti*
+
+### Printed p. 104
+
+*Running head: 104 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1 (printed "ಮಂ. ೧,"), A. 22, Sū. 161.* (The bhāṣya block continues from p. 103.)
+
+> यदाब्रवीदित्यर्थः । तदाप्रभृति मनुष्याः सुतेऽभिषुते सोमे पानाय
+> प्रस्तुते सति सचा सह परस्परमन्या नामान्यन्यानि होत्रध्वर्यूद्गात्रादीनि कृण्वते ।
+> कुर्वंति । पूर्वनाम प्रच्छाद्योपहवकालेध्वर्य उपहूयस्व होतरुपहूयस्वेत्येवमन्यैरेव नामभिरात्मानं त्वष्टवधभीत्या प्रख्यापयंतीत्यर्थः । पूर्वमन्यानि कथं प्रसक्तानीत्यत आह । एनान्नरान् कन्या स्वोत्पादयत्रि मातान्वैरेव
+> नामभिः स्वरत् । प्रीणयति ॥ स्पृ प्रीतिबलयोः । लेट्यडागमः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Tvaṣṭṛ said: let us slay those who profaned the ladle; the Ṛbhus took other names (hotṛ, adhvaryu) and their mother pleased them by those names.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ये (*ye*)—who; देवपानं (*devapānaṃ*)—fit for the gods' drinking; चमसं (*camasaṃ*)—this ladle; अनिंदिषुः (*aniṃdiṣuḥ*)—(though human, touching the vessel of the gods and making it four) made defiled: such; एनान् (*enān*)—these Ṛbhus; हनाम (*hanāma*)—let us kill; इति (*iti*)—thus; त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ, who made the ladle; अब्रवीत् (*abravīt*)—said; (then these Ṛbhus) सचा (*sacā*)—mutually; सुते (*sute*)—at the time of the sacrifice at which Soma juice is pressed; अन्या नामानि (*anyā nāmāni*)—different names (the names hotṛ, adhvaryu and the like); कृण्वते (*kṛṇvate*)—take; कन्या (*kanyā*)—the mother who gave birth (to them); अन्नैः नामभिः (*annaiḥ nāmabhiḥ*) *[so printed, "ಅನ್ನೈಃ"]*—by (hotṛ and the like) different names; एनान् (*enān*)—these Ṛbhus; स्वरत् (*svarat*) *[so printed in the Pratipadārtha]*—satisfies.
+
+*[The Bhāvārtha label is garbled in the supplied text ("ಭಾಷಾರ್ಥ"); the standard label is inserted and the garbled word kept in kn.md as a note.]*
+
+**भावार्थ (Bhāvārtha)**
+
+When the Ṛbhus, who were human, touched the ladle fit for the drinking of the gods and made it defiled, Tvaṣṭṛ, who had made this ladle, tried to kill them. Then the Ṛbhus changed their names and took part in the sacrifices under names such as *hotṛ*. Then the mother satisfied them, who appeared under other names.
+
+**Printed English translation**
+
+When Twashtri said—Let us slay those who have profaned the ladle, (designed) for drinking of the gods; then they made use of other names for one another, as the libatation [sic] was poured out: and the maiden (mother) propitiated them by different appellations.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+हनामैना इति त्वष्टा यदब्रवीत् (*hanāmainā iti tvaṣṭā yadabravīt*)—It is said that Tvaṣṭṛ, angered because they, though human, touched the vessel of the gods and, making what was one into four, defiled it, wished to kill them. For this sentence there are contradictory sentences in two places. First,
+
 ---
 
-**Progress note:** Done through printed p. 101 (PDF 101). Sūkta 161 Ṛk 4 complete to Special Topics (gnāsvantarnyānaje, Tvaṣṭṛ, ṛbhavaḥ)
+**Progress note:** Done through printed p. 104 (PDF 104). Sūkta 161 Ṛk 4 Special Topics end and grammar; Ṛk 5 Saṃhitā/Pada (picture), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics start
