@@ -1267,6 +1267,124 @@ Here Sāyaṇa has explained the word रेतस् (*retas*) as "sin that is 
 
 *Note (the Sanskrit grammar is only transcribed):* the Kannada analyses मन्ये (*manye*), अद्रुहः (*adruhaḥ*) (root द्रुह (*druha*), suffix *kvip* by सत्तूद्विष (*sattūdviṣa*) Pā. Sū. 3-2-61), महि (*mahi*), हवीमभिः (*havīmabhiḥ*) (suffix *manin*, Vedic augment; Pā. Sū. 6-1-34), सुरेतसा (*suretasā*) (accent by Pā. Sū. 6-2-119), पितरा (*pitarā*) (the residue by माता च पिता च पितरा पितामात्रा (*mātā ca pitā ca pitarā pitāmātrā*) Pā. Sū. 1-2-70; सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 3-1-39 for the dual) and चक्रतु (*cakratu*) *[printed "ಚಕ್ರತು:"]* (root डुकृञ् (*ḍukṛñ*), perfect dual), with the accents; some sūtra numbers are broken across lines in the supplied text and are kept as supplied. The grammar of Ṛk 2 may continue on p. 46.
 
+### Printed p. 46
+
+*Running head: 46 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159.* (The grammar of Ṛk 2 continues.)
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses प्रजायाः (*prajāyāḥ*) (root जनी (*janī*), suffix *ḍa* with the prefix *pra*, by Pā. Sū. 3-2-99), अमृतम् (*amṛtam*) (accent by नञोजरमर (*nañojaramara*), Pā. Sū. 6-2-116, as printed) and वरीमभिः (*varīmabhiḥ*) (root वृञ् (*vṛñ*), Uṇādi suffix *manin*; a sūtra number broken across two lines), and ends with the mark ॥ ೨ ॥.
+
+#### Ṛk 3
+
+*[In the supplied text a picture (vol12/html/figures/fig1_line02341.jpg) stood in place of part of the Saṃhitā and Pada of this Ṛk. The Saṃhitā and the Pada were read from the picture letter by letter, in Kannada script, replacing the garbled text of the same verse; the Saṃhitā is joined into the two lines of the verse. The one difference from the machine-read text: "ಜಜ್ನುರ್ಮಾತರಾ" is "ಜಜ್ಞುರ್ಮಾತರಾ" and Pada "ಜಜ್ನುಃ" is "ಜಜ್ಞುಃ" in the picture; the line-end hyphens "ಪೂರ್ವ-ಚಿತ್ತಯೇ" are joined; the accent marks of the picture are not transcribed (accents are added by script). No letter was left unsettled.]*
+
+**॥ संहितापाठः ॥**
+
+> ते सू॒नवः॒ स्वप॑सः सु॒दंस॑सो म॒ही ज॑ज्ञुर्मा॒तरा॑ पू॒र्वचि॑त्तये ।
+> स्था॒तुश्च॑ स॒त्यं जग॑तश्च॒ धर्म॑णि पु॒त्रस्य॑ पाथः प॒दमद्व॑याविनः । ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> ते । सूनवः । सुअपसः । सुदंससः । मही इति । जज्ञुः । मातरा । पूर्वचित्तये ।
+> स्थातुः । च । सत्यं । जगतः । च । धर्मणि । पुत्रस्य । पाथः । पदं । अद्वयाविनः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label printed before the bhāṣya is garbled in the supplied text ("ಸಾಯುಣಭಾಷ್ಯಂ") and sat inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the blocks are joined.]*
+
+> ते प्रसिद्धाः सूनवो युवाभ्यामुत्पन्नाः पुत्रस्थानीयाः प्रजाः स्वपसः शोभनकर्माणः सुदंससः शोभनदर्शना युवां मही महत्यौ मातरा मातृवद्धितकारिण्यौ
+> जज्नुः । जानंति । महानुभावतामवगच्छंति । किमर्थं । पूर्वचित्तये प्रथमबुद्धयेऽनुग्रहरूपाय्कॆ । किंच ते द्यावापृथिव्यॆ स्थातुः स्थावरस्य जगतो जंगमस्य
+> पुत्रस्य पुत्रस्थानीयस्योभयविधस्य जगतोऽद्वयाविनो न विद्यते द्वयं यस्य
+> तादृशस्य । स्वजीवनाय युष्मद्व्यतिरिक्तमजानत इत्यर्थः । ईदृशस्य धर्मणि धारणे
+> रक्षणे निमित्तभूते सति पदं स्थानं सत्यमबाध्यं पाथः । सक्षथः दत्थ इत्यर्थः । यद्वा।
+
+> *te prasiddhāḥ sūnavo yuvābhyāmutpannāḥ putrasthānīyāḥ prajāḥ svapasaḥ śobhanakarmāṇaḥ sudaṃsasaḥ śobhanadarśanā yuvāṃ mahī mahatyau mātarā mātṛvaddhitakāriṇyau*
+> *jajnuḥ | jānaṃti | mahānubhāvatāmavagacchaṃti | kimarthaṃ | pūrvacittaye prathamabuddhaye 'nugraharūpāykè | kiṃca te dyāvāpṛthivyè sthātuḥ sthāvarasya jagato jaṃgamasya*
+> *putrasya putrasthānīyasyobhayavidhasya jagato 'dvayāvino na vidyate dvayaṃ yasya*
+> *tādṛśasya | svajīvanāya yuṣmadvyatiriktamajānata ityarthaḥ | īdṛśasya dharmaṇi dhāraṇe*
+> *rakṣaṇe nimittabhūte sati padaṃ sthānaṃ satyamabādhyaṃ pāthaḥ | sakṣathaḥ dattha ityarthaḥ | yadvā|*
+
+### Printed p. 47
+
+*Running head: [ಅ.೨.ಆ. ೩ ವ. ೨ ] Ṛgveda-saṃhitā, p. 47 (as supplied).* (The bhāṣya continues from p. 46 after "ಯದ್ವಾ".)
+
+> ते प्रसिद्धाः सुनव उत्पाद्यमानाः स्वपसः शोभनप्रकाशादिकर्माणः सुदंससः शोभनदर्शनाः सुषूपक्षयंतो वात्मानं स्वव्यापाराय ईदृशा रश्मयो मही महत्यौ
+> द्याव्यापृथिव्य पूर्वचित्तये प्राणिनां पूर्वज्ञानाय जज्जुः । जातवंतः । द्यावापृथिव्योरंतराले व्याप्ता इत्यर्थः । किंच स्थातुर्जगतश्च धर्मणि धारणे तदर्थमद्वयाविनो मार्गद्वयरहितस्य ॥ बहुलं छंदसीति द्वयशब्दान्मत्त्वर्थीयो विनिः ।
+> अन्येषामपि दृश्यत इति दीर्घः ॥ पुत्रस्य युष्मत्पुत्रस्थानीयस्यादित्यस्य पदं मार्गं
+> सत्यं पाथः । अवश्यं रक्षथः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): your sacrificer-sons recognise you as great parents; you truly guard the path of your son Āditya, whose rays pervade heaven and earth.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ते (*te*)—well-known; स्वपसः (*svapasaḥ*)—those with excellent rites; सुदंसनः (*sudaṃsanaḥ*) *[so printed]*—of excellent form; सूनवः (*sūnavaḥ*)—the sacrificers, in the position of sons; मही (*mahī*)—of great nature; मातरा (*mātarā*)—Heaven and Earth, beneficent like mothers; पूर्वचित्तये (*pūrvacittaye*)—for the first knowledge in the form of favour, (or) from former experiences (in which your favour was received); जज्जुः (*jajjuḥ*) *[so printed]*—know. (And you,) अद्वयाविनः (*advayāvinaḥ*)—who take in no second besides them, who trust wholly in them; स्थातुः (*sthātuḥ*) *[printed "ಸ್ಥಾಮಾತ್ಮಕವಾದುದೂ"]*—of the stationary; जगतश्च पुत्रस्य (*jagataśca putrasya*)—and of the people of the moving world; धर्मणि (*dharmaṇi*)—in protection; सत्यं (*satyaṃ*)—truly (without obstruction); पदं (*padaṃ*)—(their) place; पाथः (*pāthaḥ*)—you protect (you carry out the work of protection). [(Or) ते (*te*)—the world-famous *[printed "ಜಗತ್ಪ ಸಿದ್ಧವಾದವೂ"]*; स्वपसः (*svapasaḥ*)—having excellent works such as illumination; सुदंसनः (*sudaṃsanaḥ*)—of excellent form; सूनवः (*sūnavaḥ*)—the born (rays of Āditya); मही (*mahī*)—Heaven and Earth, of great shape; पूर्वचित्तये (*pūrvacittaye*)—for the first knowledge (of the beings of the world); जज्जुः (*jajjuḥ*)—know, that is, pervade all of Heaven and Earth. And स्थातुः (*sthātuḥ*)—of the stationary; जगतश्च (*jagataśca*)—and of the moving world; धर्मणि (*dharmaṇi*)—in the work of upholding, or for the fulfilment of the duty of upholding; अद्वयाविनः (*advayāvinaḥ*)—who always follows one path, without two paths; पुत्रस्य (*putrasya*)—of your son, Āditya; पदं (*padaṃ*)—the path; सत्यं (*satyaṃ*)—truly; पाथः (*pāthaḥ*)—(you) protect.]
+
+**भावार्थ (Bhāvārtha)**
+
+The world-famous rays of Āditya, who have excellent works such as illumination, have an attractive form and are born from Āditya, pervade all of Heaven and Earth in order to awaken the world. O Heaven and Earth! For the fulfilment of the duty of upholding the world, stationary and moving, you truly protect the path of your son Āditya, who always follows a single path.
+
+### Printed p. 48
+
+*Running head: 48 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. "೧೩೯" (printed so for 159; spelled "ಸಾಯಣಭಾವ್ಯಸಹಿತಾ", "ಸು."). In the supplied text this head is merged into the last line of p. 47, and no page marker was supplied; the page break is inserted in kn.md and pages.json.*
+
+**Printed English translation**
+
+These, your children, the performers of good works, and of goodly appearance, recognize you as their great parents, through experience of former (kindness): preserve uninterrupted stability in the functions of your progeny, whether stationary or moving, (depending for existence) on none other than you.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The two kinds of meaning given to this ṛk have been shown in the Pratipadārtha. First: the sacrificers know the nature of Heaven and Earth, and Heaven and Earth protect all such people. Second: the rays of Āditya, pervading Heaven and Earth, give the sacrificers in the world prior knowledge of their duties, and Heaven and Earth protect the steady path of their son Āditya and make it favourable to the sacrificers' performance of rites. In the first meaning स्वपसः (*svapasaḥ*), सुदंससः (*sudaṃsasaḥ*) and सूनव (*sūnava*) are epithets of the sacrificers.
+
+स्वपसः (*svapasaḥ*)—The word अपस् (*apas*) is read among the names of action: अपः (*apaḥ*), अप्पः (*appaḥ*) (Ni. 3-1). One meaning is "those with excellent rites such as sacrifice", another, "those with works such as illuminating the world (the rays of Āditya)", is possible.
+
+सुदंससः (*sudaṃsasaḥ*)—The word दंस (*daṃsa*) too is read among the names of action. But since the word अपस् (*apas*) here denotes action, the word दंस (*daṃsa*) is explained as "form". Since the root is given as दसि दंशदर्शनयोः (*dasi daṃśadarśanayoḥ*), it can be explained as "good sight". Since this word is used more in the sense of sight than in the sense of action, it can be explained here as "having an attractive form".
+
+उषस्तमश्यां यशसं सुवीरं दासप्रवर्गं रयिमश्वबुध्यं । (*uṣastamaśyāṃ yaśasaṃ suvīraṃ dāsapravargaṃ rayimaśvabudhyaṃ |*)
+सुदंससा श्रवसा या विभासि पाजप्रसूता सुभगे बृहंतं ॥ (*sudaṃsasā śravasā yā vibhāsi pājaprasūtā subhage bṛhaṃtaṃ ‖*)
+
+(Ṛ. Saṃ. 1-92-8)
+
+In this ṛk the word सुदंससा (*sudaṃsasā*) refers to Uṣas; it describes the form of Uṣas with its charming radiance. Likewise,
+
+तं देवा बुद्धे रजसः सुदंससं दिवस्पृथिव्योररतिं नैरिरे । (*taṃ devā buddhe rajasaḥ sudaṃsasaṃ divaspṛthivyoraratiṃ nairire |*)
+रथमिद वेद्यं शुक्रशोचिषमग्निं मित्रं न क्षितिषु प्रशंस्यं ॥ (*rathamida vedyaṃ śukraśociṣamagniṃ mitraṃ na kṣitiṣu praśaṃsyaṃ ‖*)
+
+(ಜ. ಸಂ. 7-2-3) *[the printed abbreviation "ಜ. ಸಂ." is kept; probably Ṛ. Saṃ., not expanded]*
+
+here also Sāyaṇa has explained the word सुदंससः (*sudaṃsasaḥ*) as शोभनदर्शनं (*śobhanadarśanaṃ*) *[the explanation runs over the page break]*
+
+### Printed p. 49
+
+*Running head: [೨ ೩. ೩ ವ. ೨.] Ṛgveda-saṃhitā, p. 49 (as supplied; "೨ ೩. ೩" for the Aṣṭaka and Adhyāya).*
+
+(of सुदंससः (*sudaṃsasaḥ*)): it describes the form of Agni. In the same way, in the present ṛk too the charming form of the rays of Āditya is described.
+
+पूर्वचित्तये जग्मुः (*pūrvacittaye jagmuḥ*) *[so printed]*—for this (Sāyaṇa) explained प्राणिनां पूर्वज्ञानाय द्यावापृथिव्योरंत (*prāṇināṃ pūrvajñānāya dyāvāpṛthivyoraṃta*)राले व्याप्तः । (*rāle vyāptaḥ |*): "for the first knowledge of the beings, (the rays) pervaded the space between Heaven and Earth." The explanation tells that, in the morning itself, they entered Heaven and Earth for the awakening of the beings and for making known their duties; it tells the pervasion of the rays of Āditya.
+
+आदित्यस्य रश्मय उभौ लोका गच्छंति । (*ādityasya raśmaya ubhau lokā gacchaṃti |*)
+
+(ಭಾ. ಉ. 8-6-2) *[abbreviation "ಭಾ. ಉ." as printed, not expanded]*
+
+As in such Upaniṣad sentences the pervasion of both Heaven and Earth by the rays of Āditya is described, so it is described here too.
+
+पुत्रस्य (*putrasya*)—युष्मत्पुत्रस्थानीयस्य आदित्यस्य । (*yuṣmatputrasthānīyasya ādityasya |*) The meaning "of your son Āditya" fits better.
+
+नमो मित्रस्य वरुणस्य चक्षसे महो देवाय तदृतं सपर्यत । (*namo mitrasya varuṇasya cakṣase maho devāya tadṛtaṃ saparyata |*)
+दूरेदृशे देवजाताय केतवे दिवस्पुत्राय सूराय शंसत ॥ (*dūredṛśe devajātāya ketave divasputrāya sūrāya śaṃsata ‖*)
+
+(Ṛ. Saṃ. 10-37-1)
+
+In such ṛks the description of the sun is indicated here. The order of the world-protection of this Āditya, who has no two paths, is weighty.
+
+मह इत्यादित्यः । आदित्येन नाव सर्वे लोका महीयंते । (*maha ityādityaḥ | ādityena nāva sarve lokā mahīyaṃte |*)
+
+(Tai. U. 1-5-2) *[printed "ತೈ. ಉ."]*
+
+In sentences such as this, the growth and greatness of the worlds are described as possible only through the power of Āditya; this point is indicated here too, and Heaven and Earth are praised thus: "you protect the path of such an Āditya."
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada begins with स्वपसः (*svapasaḥ*) (the accent of the compound by आद्युदात्तंद्व्यच् छंदसि (*ādyudāttaṃdvyac chaṃdasi*), a sūtra number broken across two lines) and says that the same compound accents occur in सुदंससः (*sudaṃsasaḥ*). A stray signature line at the foot of the page ("[ 4 ] Vol. 12") is kept in kn.md as a note.
+
 ---
 
-**Progress note:** Done through printed p. 45 (PDF 45). Sūkta 159 Ṛk 2 Pratipadārtha end, Bhāvārtha, English, Special Topics (pitarā, surētasā), grammar start
+**Progress note:** Done through printed p. 49 (PDF 49). Sūkta 159 Ṛk 2 grammar end, Ṛk 3 complete (Saṃhitā/Pada from picture, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics: svapasaḥ, sudaṃsasaḥ, putrasya), grammar start
