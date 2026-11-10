@@ -4253,6 +4253,101 @@ it shows the universal-self nature of the Aśvamedha. In the brahmodya there is 
 
 *Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses आयुः (*āyuḥ*) (root वा (*vā*); ಉ. ಸೂ. 1-1, abbreviation as printed; Pā. Sū. 7-3-33), ख्यन् (*khyan*) (Pā. Sū. 3-3-175, 3-1-52, 6-4-64 and 6-4-74), देवजातस्य (*devajātasya*), प्रवक्ष्यामः (*pravakṣyāmaḥ*) (Pā. Sū. 8-1-71) and विदथे (*vidathe*) (root विद (*vida*)), with the accents; it ends with the mark ॥ ೧ ॥. *[A stray line ":੦:" in Gurmukhi letters ends the supplied text; kept in kn.md as an italic note.]*
 
+### Printed p. 153
+
+*Running head: [ಆ. ೨. ಅ. ೩. ವ. ೭ ] Ṛgveda-saṃhitā 153 (as supplied; "ಆ." printed for "ಅ.").*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> यन्नि॒र्णिजा॒ रेक्ष्ण॑सा॒ प्रावृ॑तस्य रा॒तिं गृ॑भी॒तां मु॑ख॒तो॑
+> नयंति ।
+> सुप्रा॑ज॒जो मेम्य॑द्वि॒श्वरू॑प इंद्रापू॒ष्टोः प्रि॒यमप्ये॑ति॒॑
+> पाथः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+*[Variants between Saṃhitā and Pada kept as supplied: the Pada has रेक्णसा (*rekṇasā*) and इंद्रापूष्णोः (*iṃdrāpūṣṇoḥ*) where the Saṃhitā has "ರೇಕ್ಷ್ಣಸಾ" and "ಇಂದ್ರಾಪೂಷ್ಟೋಃ", and यॆत् (*yèt*) for "ಯತ್".]*
+
+> यॆत् । निःनिजा । रेक्णसा । प्रावृतस्य । रातिं । गृभीतां । मुखतः । नयंति ।
+> सुप्राज् । अजः । मेम्यत् । विश्वरूपः । इंद्रापूष्णोः । प्रियं । अपि । एति ।
+> पाथः ॥२॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined. The Pratipadārtha stood inside this block after the garbled label "೧ ಪ್ರತಿಪದಾರ್ಥ ೧".]*
+
+> यद्यस्मान्निर्णिजा । निर्णिगिति रूपनाम । रेक्षसा । रेक्ष इति धननाम । निर्णिग्वन्विरिति रेक्षो रिक्कमिति च तन्नामसूक्तत्वात् ॥ उभयत्र मत्त्वर्थो लुप्यते ॥
+> रूपवता हिरण्यवताभरणेन प्रावृतस्य सर्वतो वेष्टितस्याश्वस्य मुखतः पुरस्तादृभीतां गृहीतां रातिं दातव्यां दातव्यत्वेन गृहीतामजां नयंत्यृत्तिजः । स तादृशोऽजः सुप्राज् सुष्टु प्रशस्यागमनो मेम्यद्धन्यमानः ॥ माञ् हिंसायां ।
+> अस्माद्यज्नुगंतात्मर्मणि व्यत्ययेन शतृ ॥ यद्वा । तस्य शब्दानुकरणं मेमेशब्दं
+> कुर्वन् । विश्वरूपो बहुवर्णोपेतः कृष्णग्रीवः कृष्णललामो ना । नैकवर्ण
+> इत्यर्थः । एवंरूपोऽयमिंद्रापूष्टोः । इंद्रः प्रसिद्धः । पूषा पोषको
+> देवोऽग्निः । तयोः प्रियं । आग्नेयः कृष्णग्रीव इत्युक्तत्पादग्नेः प्रियत्वं ।
+> सर्वॆऽपींद्रस्येतींद्रप्रियत्वं । एवंरूपं पाथोऽन्नमप्येति । प्राप्पोतु ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): priests lead a goat before the adorned horse; the many-coloured, fine-gaited goat, bleating, becomes food dear to Indra and Pūṣan (Agni).]*
+
+*[The label of the Pratipadārtha is garbled in the supplied text ("೧ ಪ್ರತಿಪದಾರ್ಥ ೧"); the standard label is inserted, the garbled words kept in kn.md as an italic note, and the text moved out of the bhāṣya block.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यत् (*yat*)—when; निर्णिजा (*nirṇijā*)—(adorned) with beautiful forms; रेक्णसा (*rekṇasā*)—with ornaments made of gold and the like; प्रावृतस्य (*prāvṛtasya*)—of the horse adorned all around; मुखतः (*mukhataḥ*)
+
+### Printed p. 154
+
+*Running head: 154 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).* (The Pratipadārtha continues.)
+
+—in front; गृभीतां (*gṛbhītāṃ*)—held; रातिः (*rātiḥ*)—the goat that is to be offered; नयंति (*nayaṃti*)—(the priests) bring, (then); विश्वरूपः (*viśvarūpaḥ*)—of various colours; सुप्राज् (*suprāj*)—having a fine gait; अजः (*ajaḥ*)—the goat; मेम्यत् (*memyat*)—making the sound "mē" *[the supplied text has "ಕೆಹಾಕುತ್ತಾ" after it, kept as supplied]*; इंद्रा पूष्णोः (*iṃdrā pūṣṇoḥ*)—for Indra and Pūṣan (or for Agni in the form of Pūṣan); प्रियं पाथः (*priyaṃ pāthaḥ*)—as dear food; अप्येति (*apyeti*)—becomes ready.
+
+**भावार्थ (Bhāvārtha)**
+
+When the priests bring in front of the horse, which is adorned all around with beautiful ornaments made of gold and the like, the goat that is held and is to be offered as an oblation, that goat, of various colours and fine gait, bleating "mē", becomes ready as food dear to Indra and to Pūṣan in the form of Agni.
+
+**Printed English translation**
+
+When they, (the priescs) [sic], bring the prepared offering to the presence (of the horse), who has been bathed and decorated with rich (trappings). the various-coloured goat going before him, bleating, becomes an acceptable offering to Indra and Pushan.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk are described the decoration of the sacrificial horse, and the placing, by the priests, in front of that horse, of the goat that is ready for the oblation and has become food dear to Indra and Pūṣan.
+
+निर्णिजा—निर्णिक्, वप्रि इत्यादि रूपनामगळल्लि (*nirṇijā—nirṇik, vapri ityādi rūpanāmagaḷalli*) *[the Kannada continues "ಈ ಶಬ್ದವು ಪರಿತನಾಗಿದೆ", "this word is read"]* (Ni. 3-7). In general this word is used in two meanings: first, "cleansed", and second, "making manifest one's own nature"; besides these, it is also used in the meaning "well-grown".
+
+अमृक्तेन रुशता वाससा हरिरमर्त्यो निर्णिजानः परि व्यत । (*amṛktena ruśatā vāsasā hariramartyo nirṇijānaḥ pari vyata |*)
+दिवस्पृष्ठं बर्हणा निर्णिजे कृतोपस्तरणं चन्नोर्नभस्मयं ॥ (*divaspṛṣṭhaṃ barhaṇā nirṇije kṛtopastaraṇaṃ cannornabhasmayaṃ ‖*) (Ṛ. Saṃ. 9-69-5)
+
+In ṛks of this kind, and in the Upaniṣad sentence
+
+सर्वं पिबति निर्णिज्य कंसं चमसं वा । (*sarvaṃ pibati nirṇijya kaṃsaṃ camasaṃ vā |*) (ಛಾ. ತಾ. 5-2-7) *[reference as printed, "ಛಾ. ತಾ."]*
+
+### Printed p. 155
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೭ ] Ṛgveda-saṃhitā 155 (as supplied).*
+
+the meanings "being purified" and "having washed" arise; the purport is "washed, purified".
+
+यदी घृतेभिराहुतो वाशीमग्निर्भरत उच्चाव च । असुर इव निर्णिजं ॥ (*yadī ghṛtebhirāhuto vāśīmagnirbharata uccāva ca | asura iva nirṇijaṃ ‖*) (Ṛ. Saṃ. 8-19-23)
+
+Here, where it is said that Agni makes his own nature manifest, "nirṇijam" means "the nature".
+
+बिभ्रद्दापिं हिरण्ययं वरुणो वस्त निर्णिजं । परि स्पशो नि षेदिरे ॥ (*bibhraddāpiṃ hiraṇyayaṃ varuṇo vasta nirṇijaṃ | pari spaśo ni ṣedire ‖*) (Ṛ. Saṃ. 1-25-13)
+
+Here the body of the god Varuṇa is described; "nirṇijam" here has the purport "a well-grown body". Since the word is thus used in many meanings, in the present ṛk it is explained, रूपवता (*rūpavatā*) आभरणेन (*ābharaṇena*), as "with an ornament of beautiful form".
+
+रेक्णसा (*rekṇasā*)—this word is read among the names of wealth (Ni. 3-9). The Nirukta authors, quoting the ṛk
+
+परिषद्यं ह्यरणस्य रेक्लो नित्यस्य रायः पतयः स्याम । (*pariṣadyaṃ hyaraṇasya reklo nityasya rāyaḥ patayaḥ syāma |*) (Ṛ. Saṃ. 7-4-2) *[a stray line "(ಋ." before the reference is kept in kn.md as an italic note]*
+
+have shown with रेक्षः इति धननाम; रिच्यते प्रयतः । (*rekṣaḥ iti dhananāma; ricyate prayataḥ |*) (Ni. 3-2) that wealth has this name because it is a thing that is left behind by one who has died. Likewise, if in the present ṛk it is taken to mean wealth, the meaning of रेक्षसा (*rekṣasā*) is: the horse adorned with an ornament that has wealth in the form of gold, हिरण्यवताभरणेन (*hiraṇyavatābharaṇena*) *[the hyphenated line break is joined]*.
+
+अजः प्रियं पाथः अप्येति (*ajaḥ priyaṃ pāthaḥ apyeti*)—it is said that the goat becomes food dear to Indra and Pūṣan. In some places it is said that when the sacrificial horse is brought adorned, there is a custom of giving a dog with four eyes as an oblation.
+
+पाप्मा ना एतं भ्रातृव्य ईप्सति योऽश्वमेधेन यजेत वज्रोऽश्वः परो (*pāpmā nā etaṃ bhrātṛvya īpsati yo 'śvamedhena yajeta vajro 'śvaḥ paro*)
+मर्तः परः श्वेति श्वानं चतुरक्षग्ं हत्वाधस्पदमश्वस्योपप्लावयति वज्रेणैवैनमवक्रामति नैनं पाप्मा भ्रातृव्य आप्नोति ॥ (*martaḥ paraḥ śveti śvānaṃ caturakṣagṃ hatvādhaspadamaśvasyopaplāvayati vajreṇaivainamavakrāmati nainaṃ pāpmā bhrātṛvya āpnoti ‖*) (ಶ. ಬ್ರಾ. 13-1-2-9) *[abbreviation as printed; the hyphenated line break "ವಜ್ರೇಣೈ-ವೈನಮ" is joined]*
+
+If, out of envy, an enemy gives trouble to the sacrificer who is performing the Aśvamedha, then, killing a dog with four eyes and cursing the enemy, he offers it as an oblation below the horse *[the supplied text ends here, in the middle of the sentence; the rest is in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 152 (PDF 152). Sūkta 162 Ṛk 1 Special Topics end and grammar
+**Progress note:** Done through printed p. 155 (PDF 155). Sūkta 162 Ṛk 2 Saṃhitā to Special Topics (to mid-sentence)
