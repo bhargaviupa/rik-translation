@@ -8818,6 +8818,144 @@ Since Sāyaṇa has commented on the word वाचं (*vācaṃ*) as गर्
 
 अविश्वमिन्वाम् (*aviśvaminvām*)—विश्वमिन्वति व्याप्न्नोति इति विश्वमिन्वा (*viśvaminvati vyāpnnoti iti viśvaminvā*). The root इवि व्याप्तौ (*ivi vyāptau*). By नंदिग्रहपचादिभ्यः- (*naṃdigrahapacādibhyaḥ-*) (Pā. Sū. 3-1-134) the suffix ac. इदितो नुम् धातोः (*idito num dhātoḥ*) and by ऎंबु (*èṃbu*) *(the sentence is cut off at the end of the page and continues in the next window; the foot of the page carries the signature mark "[23] [Vol. 12" as supplied)*
 
+### Printed p. 354
+*Running head: 354 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+[Continuing the grammatical note on Ṛk 10, word *aviśvaminvām*, from the previous page:] … by the rule quoted above, the augment num is added to the root; in the compound, Vedically, the luk (elision) of the case ending does not occur. Or, the suffix khac comes to this root also *[as supplied: the Kannada reads "ಅಥವಾ ಬಹುವಚನದಿಂದ ಖಚ್ ಪ್ರತ್ಯಯ" — "or from the plural, the suffix khac"; the text is kept as it stands]*. Then the augment mum is added to the preceding member. It is a nañ-tatpuruṣa compound. By तत्पुरुषेतुल्यार्थ (*tatpuruṣetulyārtha*) (Pā. Sū. 6-2-2) the accent of the first member, an indeclinable, comes. A form ending in the accusative singular. || 10 ||
+
+#### Ṛk 11
+*[ಸಂಹಿತಾಕಾರರು]* *(garbled label as supplied; repaired by the script to Saṃhitā-pāṭha)*
+
+**॥ संहितापाठः ॥**
+> द्वाद॑शारं न॒हि तज्जरा॑य॒ वर्व॑र्ति च॒क्रं परि॒ द्यामृ॒तस्य॑ ।
+> आ पु॒त्रा अ॑ग्ने मिथु॒नासो॒ अत्र॑ स॒प्त श॒तानि॑ विंश॒तिश्च॑ तस्थुः ॥
+> ॥ ११ ॥
+
+*[ಪವನಾಕ್ಷಿ]* *(garbled label as supplied; repaired by the script to Pada-pāṭha)*
+
+**॥ पदपाठः ॥**
+> द्वादश अरं । नहि । तत् । जराय । वर्वर्ति । चक्रं । परि । द्यां । ऋतस्य ।
+> आ । पुत्राः । अग्ने । मिथुनासः । अत्र । सप्त । शतानि । विंशतिः । च । तस्थुः ॥ ११ ॥
+
+*[ಸಾಯಣಭಾಷ್ಯ C]* *(garbled label as supplied; repaired by the script to Sāyaṇa-bhāṣya)*
+
+**॥ सायणभाष्यम् ॥**
+> ऋतस्योदकस्य सत्यात्मकस्य वादित्यस्य चक्रं पुनः पुनः क्रमणशीलं मंडलाख्यं रथचक्रं ना वर्वर्ति । पुनःपुनर्वर्तते । संचरति । कुत्र । द्यां परि म्यलोकस्यांतरिक्षस्य परितः । कीदृशं तत् । द्वादशारं द्वादशसंख्याकमेषादिराश्यात्मकैर्मासात्मकैर्नारै रथांगावयवैर्युक्तं । किंच तच्चक्रं नहि जराय नैव खलु जराय्कॆ
+> भवति । हे अग्ने सर्वदागमनयुक्तादित्य । यद्वा । अग्नेरेव स्थानत्रये तत्तदात्मना
+> वर्तमानत्पादसावप्यग्निरित्युच्यते। आत्रास्मिंस्त्वदीये चक्रे मिथुनासः स्त्रीपुंसरूपेण
+> परस्परं मिथुनभूताः सप्त शतानि विंशतिश्च विंशत्युत्तरसप्तशतसंख्याकाः पुत्राः पुत्रवदुत्पद्यमानाः प्राणिनां दुःखात्रातारो वाहोरात्ररूपास्तस्थुः । तिष्यंति । निष्पद्यंते । षष्ठ्यधिकशतत्रयसंख्याकान्यहानि तावत्य एव रात्रय इत्येवं तद्विभागः । सप्त
+> च वै शतानि विंशतिश्च संवत्सरस्याहोरात्राः स एषोऽहःसंमानः । ऐ. आ. ३.२-१ ।
+> इत्यारण्यकं ॥
+
+*Gist:* The Sun's twelve-spoked wheel of months revolves round the sky without decay; in it stand 720 day-and-night "sons", as the Aitareya Āraṇyaka explains.
+
+*[ಪ್ರತಿಪಾರ್ಥ]* *(garbled label as supplied; repaired by the script to Pratipadārtha)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+यतस्य (*yatasya*)—of the Āditya who is of the nature of truth *[as supplied: यतस्य (*yatasya*); the Saṃhitā word is ऋतस्य (*ṛtasya*)]*; द्वादशारं (*dvādaśāraṃ*)—furnished with spokes in the form of the twelve zodiacal signs, or of the twelve months; चक्रं (*cakraṃ*)—the wheel, which is circular in form; द्यां परि (*dyāṃ pari*) (continued on the next page)
+
+### Printed p. 355
+*Running head: Ṛgveda-saṃhitā 355 [ಅ. ೨. ಆ. ೩. ವ. ೧೬ ] (as supplied).*
+
+—round the atmosphere (antarikṣa); वर्वर्ति (*varvarti*)—revolves again and again *[as supplied: "ಸುತ್ತುತ್ತಿದೆ"]*; तत् (*tat*)—that wheel; जराय न (*jarāya na*)—is not liable to decay; अग्ने (*agne*)—O Āditya, who art of the nature of Agni; अत्र (*atra*)—in this wheel; मिथुनासः (*mithunāsaḥ*)—joined together with one another; सप्तशतानि विंशतिश्च (*saptaśatāni viṃśatiśca*)—numbering seven hundred and twenty; पुत्राः (*putrāḥ*)—the days and nights, who are of the nature of sons; आ तस्थुः (*ā tasthuḥ*)—stand surrounding (it).
+
+**भावार्थ (Bhāvārtha)**
+The wheel of the Āditya, which is furnished with spokes in the form of the twelve zodiacal signs or the twelve months, and is circular in form, revolves again and again round the atmosphere. That wheel is not liable to decay. O Āditya, who art of the nature of Agni, in this wheel the days and nights, which are joined together with one another, which number seven hundred and twenty, and which are of the nature of sons, stand surrounding it. *[as supplied: the Kannada begins "ದನ್ನೆರಡು" for "ಹನ್ನೆರಡು" (twelve), and ends without a full stop]*
+
+**Printed English**
+The twelve-spoked wheel of the true (sun) revolves round the heavens, and never (tends) to decay : seven hundred and twenty children in pairs, Agni. abide in it.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The description of the Āditya, who, although he possesses an eternal revolving motion in the atmosphere in the form of recurrence, does not decay but keeps perpetual youth, is given in this Ṛk and in the next two Ṛks. The pair of days and nights, which are in the form of couples, which number seven hundred and twenty, and which are as sons to the Āditya, is contained within this wheel of time. This wheel of time, made up of parts such as the ayanas (solstitial courses), continues its revolution without a break. This is the principle of the universe. That this principle is contained in Prajāpati, the creator, is explained in some places; that it is contained in Agni and reflects his external principles, in others. In the present Ṛk the Āditya, the soul of the universe, is addressed as Agni. The identity of this principle of time with the principle of sacrifice is shown, and it is described in the Taittirīya Saṃhitā that Prajāpati, who is of the form of Āditya or of Agni, is the support of both these principles. Since the points mentioned in this Ṛk and in the next two Ṛks are also contained in that description, it will be explained in the Special Topics of the next Ṛk.
+
+*[as supplied: the next paragraph begins "ದಾದಶಾರಂ", a misprint for द्वादशारं (*dvādaśāraṃ*)]* दादशारं (*dādaśāraṃ*)—द्वादशसंख्याकमेषादिराश्यात्मकैः मासात्मकैर्न अरैः रथांगावयवैर्युक्तं (*dvādaśasaṃkhyākameṣādirāśyātmakaiḥ māsātmakairna araiḥ rathāṃgāvayavairyuktaṃ*) (the sentence of the bhāṣya, here taken with the words "ಮಾಸಾತ್ಮಕೈರ್ನ ಅರೈಃ" as printed). The word द्वादशारं (*dvādaśāraṃ*) is an epithet of the word "wheel". Here the orb of the Āditya is compared to the wheel of a chariot, and the twelve months to the spokes of the wheel. The twelve
+
+### Printed p. 356
+*Running head: 356 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+signs, Meṣa, Vṛṣabha and the rest, are meant, so that it is understood either as the solar orb having twelve signs or as the revolution of the solar orb having twelve months. Since the days and nights are taken into account here, it fits better if the sense of months is taken. The word "twelve" is also used merely as a synonym of the year, which has twelve months. For example:
+
+देवहितिं जुगुपुद्र्वादशस्य ऋतुं नरो न प्र मिनंत्येते । संवत्सरे प्रावृष्यागतायां तप्ता घर्मा अश्नुवते विसर्ग० (*devahitiṃ jugupudrvādaśasya ṛtuṃ naro na pra minaṃtyete | saṃvatsare prāvṛṣyāgatāyāṃ taptā gharmā aśnuvate visarga0*)
+(Ṛ. Saṃ. 7-103-9)
+
+In such Ṛks the meaning is, indeed, द्वादशमासात्मकस्य संवत्सरस्य (*dvādaśamāsātmakasya saṃvatsarasya*) "of the year consisting of twelve months". In the present Ṛk also it must be understood in the same way. The author of the Nirukta, too, quotes the pāda द्वादशारं नहि तज्ञराय (*dvādaśāraṃ nahi tajñarāya*) *[as supplied: तज्ञराय (*tajñarāya*); the Saṃhitā block above reads तज्जराय (*tajjarāya*)]* of this Ṛk and the pāda द्वादश प्रधयश्चक्रमेकं (*dvādaśa pradhayaścakramekaṃ*) (Ṛ. Saṃ. 1-164-48) and explains with इति मासानां (*iti māsānāṃ*) "of the months" that these words for "twelve" are synonyms of months. (Ni. 4-27) Thus the wheel, with its twelve spokes consisting of months, द्यां परि (*dyāṃ pari*)—round the atmosphere, वर्वर्ती (*varvartī*) *[as supplied: ವರ್ವರ್ತೀ]*—undergoes revolution again and again in the form of recurrence; thus it is described, and the Āditya, who is of the nature of such a wheel, is addressed with the epithet अग्ने (*agne*).
+
+अग्ने (*agne*)—Sāyaṇa has given two kinds of meaning to this word. First, in one way, सर्वदा गमनयुक्त आदित्य (*sarvadā gamanayukta āditya*), that is, "O Āditya, whose nature is to move always". Secondly, in another way: अग्नीरेव स्थानत्रये तत्तदात्मना वर्तमानत्वात् असावप्यग्निरित्युच्यते (*agnīreva sthānatraye tattadātmanā vartamānatvāt asāvapyagnirityucyate*) — whether it be the Āditya or the deities such as Vāyu, since it is Agni himself who exists in the several forms in the three places beginning with the earth, the Āditya is here addressed as Agni. It may be said that the first meaning is contained in the second, because Sāyaṇa explains the Āditya as that very Agni who pervades the three places, and the form of Agni pervading the three places is described also in the Bṛhaddevatā and other works. That this threefold existence of Agni, and the threefold manifestation corresponding to it, reflect the fundamental principle of the world, is known from the description of the Bṛhaddevatā:
+
+भवद्भूतस्य भव्यस्य जंगमस्थावरस्य च । अस्यैके सूर्यमेवैकं प्रभवं प्रलयं विदुः ॥ एतद्भूतेषु लोकेषु अग्निभूतं स्थितं त्रिधा । ऋषयो गीर्भिरर्चंति व्यंजितं नामभिस्त्रिभिः (*bhavadbhūtasya bhavyasya jaṃgamasthāvarasya ca | asyaike sūryamevaikaṃ prabhavaṃ pralayaṃ viduḥ ‖ etadbhūteṣu lokeṣu agnibhūtaṃ sthitaṃ tridhā | ṛṣayo gīrbhirarcaṃti vyaṃjitaṃ nāmabhistribhiḥ*)
+(Bṛ. Me. 1-61; 1-63) *[as supplied: "ಬೃ. ಮೇ." — elsewhere on the next page "ಬೃ. ದೇ."]*
+
+### Printed p. 357
+*Running head: Ṛgveda-saṃhitā 357 [ಅ. ೨. ಅ. .೩ ವ. ೧೬.] (as supplied).*
+
+Prajāpati, the source of all beings, is the origin of creation and dissolution for all moving and unmoving beings existing in the past, the future and the present, and holds his existence in three places, in the form of Agni, in three ways. The authors of the Bṛhaddevatā, describing the greatness of Agni and praising him, have thus described how the sages, too, speak of this threefold manifestation of Agni by three names, as seen below:
+
+त्रिस्थानं चैनमर्चंति होत्रायां व्यक्तबर्हिषः । इहैव पवमानोग्निर्मध्यमोग्निर्वनस्पतिः ॥ अमुष्मिन्नेव विप्रैस्तु लोकेग्निशुचिरुच्यते । इहाग्निभूतस्त्वृषिभिर्लोके स्तुतिभिरीळितः ॥ जातवेदाःस्तुतो मध्यॆ स्तुतो वैश्वानरो दिवि (*tristhānaṃ cainamarcaṃti hotrāyāṃ vyaktabarhiṣaḥ | ihaiva pavamānognirmadhyamognirvanaspatiḥ ‖ amuṣminneva vipraistu lokegniśucirucyate | ihāgnibhūtastvṛṣibhirloke stutibhirīḷitaḥ ‖ jātavedāḥstuto madhyè stuto vaiśvānaro divi*)
+(Bṛ. De. 1-65 to 67)
+
+Of these three kinds, the Agni who manifests on the earth is known as Pavamāna-agni, पवमानाग्नि (*pavamānāgni*); the Agni in the middle world is known as Vanaspati; and the Agni abiding in the heaven-world as Śuci. These three varieties are recited in the Taittirīya Saṃhitā (2-2-4) under the names पवमान शुचि, पावक (*pavamāna śuci, pāvaka*). The author of the Nirukta, quoting the Ṛk of the Ṛk-saṃhitā—
+
+स्तोमेन हि दिवि देवासो अग्निमजीजनञ्क्तिभी रोदसिप्रां । तमू अकृण्वन् त्रेधा भुवे कं स ओषधीः पचति विश्वरूपाः (*stomena hi divi devāso agnimajījanañktibhī rodasiprāṃ | tamū akṛṇvan tredhā bhuve kaṃ sa oṣadhīḥ pacati viśvarūpāḥ*)
+(Ṛ. Saṃ. 10-88-10)
+
+—and then तमकुर्वंस्त्रेधाभावाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः (*tamakurvaṃstredhābhāvāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ*), following the explanation of Śākapūṇi, has explained these three forms with examples from Saṃhitā sentences: that in the three places, the earth, the atmosphere and the heaven-world, Agni has manifested in the three forms अग्निः (*agniḥ*), जातवेदाः (*jātavedāḥ*) and वैश्वानर (*vaiśvānara*). (Ni. 7-14 to 7-25.)
+
+Similarly, in some other Ṛks also the manifestation of Agni is explained by the names समुद्रे (*samudre*), दिवि (*divi*) and अप्पु (*appu*), and it is stated that he is seen in the sea as the submarine fire, in the heaven-world as the Āditya, and in the अप्पु (*appu*), that is, in the atmosphere, as lightning. This threefold manifestation of Agni, and his shining in the heaven-world in the form of the Āditya, is described thus in the Bṛhadāraṇyaka and other works:
+
+आपो ना अर्कस्तद्यदपां शर आसीत्तत्समहन्यत । सा पृथिव्यभवत्तस्यामश्राम्यत्तस्य श्रांतस्य तप्तस्य तेजोरसो निरवर्तताग्निः (*āpo nā arkastadyadapāṃ śara āsīttatsamahanyata | sā pṛthivyabhavattasyāmaśrāmyattasya śrāṃtasya taptasya tejoraso niravartatāgniḥ*)
+
+### Printed p. 358
+*Running head: 358 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪.] (as supplied: "ಆ." for "ಅ." in the Maṇḍala-Anuvāka position).*
+
+स त्रेधात्मानं व्यकुरतादित्यं तृतीयं वायुं तृतीयं स एष प्राणस्त्रेधा विहितः (*sa tredhātmānaṃ vyakuratādityaṃ tṛtīyaṃ vāyuṃ tṛtīyaṃ sa eṣa prāṇastredhā vihitaḥ*)
+(Bṛ. U. 1-2-2-3)
+
+From the water in the form of arka the earth came into being, and from the solidified earth Agni, endowed with great brilliance, was produced. That Agni divided himself into the terrestrial fire, Vāyu and Āditya, and occupied the three places. And again:
+
+सोऽकामयत द्वितीयो म आत्मा जायेतेति स मनसा वाचं मिथुनं समभवदशनाया मृत्युस्तद्यद्रेत आसीत्स संवत्सरोऽभवत् । न ह पुरा ततः संवत्सर आस तमेतावंतं कालमबिभः (*so 'kāmayata dvitīyo ma ātmā jāyeteti sa manasā vācaṃ mithunaṃ samabhavadaśanāyā mṛtyustadyadreta āsītsa saṃvatsaro 'bhavat | na ha purā tataḥ saṃvatsara āsa tametāvaṃtaṃ kālamabibhaḥ*)
+(Bṛ. U. 1-2-4)
+
+Thereupon Prajāpati, who is of the form of Agni, desired to have a second, and became united in mind with Vāk. Then that seed became the year. Before that there was no year at all. Thus the relation between Prajāpati in the form of Agni and the year described in the present Ṛk is shown. The parts of this year are explained in the Aitareya Āraṇyaka just as in this Ṛk:
+
+तानि सप्तविंशतिशतानि भवंति सप्त च वै शतानि विंशतिश्च संवत्सरस्याहोरात्राः । स विषोऽहस्समानः (*tāni saptaviṃśatiśatāni bhavaṃti sapta ca vai śatāni viṃśatiśca saṃvatsarasyāhorātrāḥ | sa viṣo 'hassamānaḥ*)
+(Ai. Ā. 3-2-1) *[as supplied: "ಇ ಆ. ೩-೨-೧"]*
+
+The total of these is seven hundred and twenty. The reckoning of seven hundred and twenty is stated to be the total number of days and nights in the year. These days and nights are designated in the present Ṛk as sons. Here, for the word "sons", Sāyaṇa has said पुत्रवदुत्पद्यमानाः प्राणिनां दुःखात्त्रातारो वा अहोरात्ररूपाः (*putravadutpadyamānāḥ prāṇināṃ duḥkhāttrātāro vā ahorātrarūpāḥ*), that is, it is understood either as those born like sons, or as days and nights having the power to protect living beings from sorrow.
+
+*Grammar (transcribed, not explained):*
+द्वादशारम् (*dvādaśāram*)—a bahuvrīhi: "that which has twelve spokes". By बहुव्रीहौ प्रकृत्या पूर्वपदम् (*bahuvrīhau prakṛtyā pūrvapadam*) (Pā. Sū. 6-2-1) the accent of the first member comes. वर्वर्ति (*varvarti*)—the root वृतु वर्तने (*vṛtu vartane*); by the sūtra धातोरेकाचः (*dhātorekācaḥ*) (Pā. Sū. 3-1-22) yaṅ; by यजूचि च (*yajūci ca*) (Pā. Sū. 2-4-74) its non-causal luk; by सन्यजूः (*sanyajūḥ*) reduplication of the root; by रुग्रिकौच लुकि (*rugrikauca luki*) (Pā. Sū. 7-4-91) the augment ruk to the reduplicative syllable (the entry continues on the next page).
+
+### Printed p. 359
+*Running head: Ṛgveda-saṃhitā 359 [ಅ. ೨. ಅ. ೪ ನ. ೧೬.] (as supplied).*
+
+Because of tip, guṇa for the penultimate of the root. By अभ्यस्तानामादिः (*abhyastānāmādiḥ*) (Pā. Sū. 6-1-189) the anudātta accent comes *[as supplied: "ಅಮೃದಾತ್ತಸ್ವರ", i.e. a misprint for the anudātta accent]*.
+
+मिथुनासः (*mithunāsaḥ*)—mitha is a Saura root. By क्षुधिपिशिमिथिभ्यः कित् (*kṣudhipiśimithibhyaḥ kit*) (Uṇ. Sū. 3-335) the suffix unan. By vyatyaya (interchange) it has the final accent. When jas follows, by आज्जसेरसुक् (*ājjaserasuk*) (Pā. Sū. 7-1-50) the augment asuk is added to it.
+
+तस्थुः (*tasthuḥ*)—the root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*). By छंदसिलुज् लज् लिटः (*chaṃdasiluj laj liṭaḥ*) the liṭ in the present sense. A form ending in the third person plural. The tiṅanta nighāta accent comes. || 11 ||
+
+#### Ṛk 12
+**॥ संहितापाठः ॥**
+> पंच॑पादं पि॒तरं॒ द्वाद॑शाकृतिं दि॒व आ॑हुः॒ परे॒ अर्धे॑ पुरी॒षिणं॑ ।
+> अथे॒मे अ॒न्य उप॑रे विचक्ष॒णं स॒प्तच॑क्रे॒ षळ॑र आहु॒रर्पि॑तं ॥
+> ॥ १२ ॥
+
+*[ದವಹಾರಃ]* *(garbled label as supplied; repaired by the script to Pada-pāṭha)*
+
+**॥ पदपाठः ॥**
+> पंचपादं । पितरं । द्वादशआकृतिं । दिवः । आहुः । परे । अर्धे । पुरीषिणं ।
+> अथ । इमे । अन्ये । उपरे ! विचक्षणं । सप्तचक्रे । षट्सअरे । आहुः । अर्पितं ॥
+> ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+> पंचपादं पंचसंख्याकर्त्वात्मकपादोपेतं । एतद्देमंतशिशिरयोरेकत्वाभिप्रायं । पितरं सर्वस्य प्रीणयितारं द्वादशाकृतिं द्वादशमासा एवाकृतयो
+> यस्य तादृशं पुरीषिणं वृष्टुदकेन तद्वंतं प्रीणयितारं वा । पुरीषमित्युदकनाम । उक्तलक्षणं संवत्सरचक्रं दिवो द्युलोकस्य परेऽर्धे । तात्स्थात्ताच्छब्दं ।
+> परस्मिन्नर्धे०तरिक्षलक्षणेवस्थित आदित्य इत्यर्थः । तस्मिन्नर्पितमाहुः । एतदुत्तरत्र
+> स्थितमत्राप्यनुषज्यते । यद्यत्रार्पितं तत्तदधीनं अतः संवत्सरं सूर्यायत्तमाहुरित्यर्थः । अथेमेपि चान्ये केचन वेदवादिन एवमाहुः । किमिति । उपरे ।
+> उपरमंतेऽस्मिन् उपरताः प्राणिनोऽत्रेति वोपरः संवत्सरः । तस्मिन्निदृशे । सप्त-
+
+*(The bhāṣya is cut off at the foot of the page, in the middle of the word "ಸಪ್ತ-" ; it continues in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 353. Sukta 164 Rk 10 (Aditya as time) Pada, bhashya, special topics and grammar start; pp. 348-353
+**Progress note:** Done through printed p. 359. Ṛk 10 grammar end; Ṛk 11 (Sun's twelve-spoked wheel), special topics, grammar; Ṛk 12 begins
