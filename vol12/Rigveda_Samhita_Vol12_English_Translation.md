@@ -14435,6 +14435,128 @@ There, although the purpose is to describe the speed of Agni's going, it is comp
 
 These three deities, who under the names Agni, Vāyu and Āditya perform their duties in the three worlds in three ways in accordance with the seasons, must be examined: are they distinct beings, or three different forms of a single principle? It becomes clear that from the very beginning in this sūkta the chief aim is the exposition of the one principle that pervades the entire universe. In some ṛks it is described as the Supreme Brahman, and in other places as the Supreme Person who is within Āditya and has a golden form. Although in the ṛk under consideration there seems to be a description of distinct deities, it can be understood that in many places it is described that the fundamental principle of all of them is one and the same, and that all of them are different forms of that fundamental principle. That fundamental principle is called in some places Āditya and in other places Agni. *[The passage ends here at the end of the window.]*
 
+### Printed p. 612
+*Running head: 612 Sāyaṇa-bhāṣya-sahitā [ಮಂ ೧. ಆ ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 44.]*
+
+भवद्भूतस्य भव्यस्य जंगमस्थावरस्य च । अस्यैके सूरमेवैकं प्रभवं प्रलयं विदुः ॥ असतश्च सतश्चैव योनिरेषा प्रजापतिः । यदक्षरं च वाच्यं च यथैतत्प्रह्म शाश्वतं ॥ कृत्वैष हि त्रिधात्मानं एष लोकेषु तिष्ठति ॥ देवान्यथायथं सर्वान् निवेश्य स्वेषु रश्मिषु ॥ एतद्दूतेषु लोकेषु अग्निभूतं स्थितं त्रिधा । ऋषयो गीर्भिरर्चंति होत्रायां व्यक्तबर्हिषः (*bhavadbhūtasya bhavyasya jaṃgamasthāvarasya ca | asyaike sūramevaikaṃ prabhavaṃ pralayaṃ viduḥ ‖ asataśca sataścaiva yonireṣā prajāpatiḥ | yadakṣaraṃ ca vācyaṃ ca yathaitatprahma śāśvataṃ ‖ kṛtvaiṣa hi tridhātmānaṃ eṣa lokeṣu tiṣṭhati ‖ devānyathāyathaṃ sarvān niveśya sveṣu raśmiṣu ‖ etaddūteṣu lokeṣu agnibhūtaṃ sthitaṃ tridhā | ṛṣayo gīrbhirarcaṃti hotrāyāṃ vyaktabarhiṣaḥ*)
+(Bṛhaspati. 1-61-64 *[as supplied: the abbreviation is printed ಬೃಹಸ್ಪತಿ.; elsewhere the Bṛhaddevatā is meant]*)
+Āditya alone is the place of origin for that which exists in the present time, for that which existed before, for that which will come into being later, for that which is moving, for that which is fixed, and for the beings of the whole universe of all times and all regions. He alone is the creator and he alone is the dissolver. This same Āditya is Prajāpati, the maker of the universe. He alone is the support of both the existent and the non-existent. He alone is the eternal Supreme Brahman. He alone is the Imperishable (akṣara) that cannot be expressed in words. (The nature of the Imperishable has been explained earlier.) The deity who can be expressed in words is also he alone. This Prajāpati, of the form of Āditya, divided into three forms, shines in the three worlds. He has set all beings, the gods and the rest, in his all-pervading rays and made them abide. This same Prajāpati of the form of Āditya is also, in the form of Agni, in three forms in the three worlds. This Agni is Āditya; he is the terrestrial fire; he is Vāyu. In the ṛk under consideration, he is the fundamental principle for the three deities described in three forms. All of them are his different forms. One can see that many śrutis describe this fundamental principle in the form of Agni, and that Agni, Vāyu and Āditya, these three, are the different forms of this fundamental principle. It was stated earlier that the all-pervading Agni is described in the Śatapatha and other works as Rudra, as Paśupati, as Vāyu, as Prajāpati, and that all the deities are Agni alone. [Ṛgveda-saṃhitā, Part 11, pp. 426-428.]
+त्रिस्थानं जैनमर्चंति होत्रायां व्यक्तबर्हिषः । ... ... ... ... ... ... ... ... ... ... -' तासामियं विभूतिर्हि नामूनि यवनेकशः । आहुस्तासां तु मंत्रेषु कवयोऽन्मोन्ययोनितां (*tristhānaṃ jainamarcaṃti hotrāyāṃ vyaktabarhiṣaḥ | ... ... ... ... ... ... ... ... ... ... - ' tāsāmiyaṃ vibhūtirhi nāmūni yavanekaśaḥ | āhustāsāṃ tu maṃtreṣu kavayo 'nmonyayonitāṃ*)
+(Bṛ. Je. 1-7-1 *[as supplied: ಬೃ. ಜೇ.; the verse is printed with "ಜೈನ", "ಯವನೇಕಶಃ", and breaks off after the first line with a row of dots and "-'"]*)
+
+### Printed p. 613
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೨೨. ] Ṛgveda-saṃhitā 613 (as supplied).*
+
+Manifesting in different forms, Agni, Vāyu and Āditya make their respective splendours (vibhūti) shine in many ways. But all of them have one single place of origin; the poets have praised this fundamental principle, saying that the fundamental principle is one for all. This matter will be explained in the Special Topics of the 46th ṛk of this same sūkta.
+
+ध्राचिः एकस्य ददृशे न रूपं (*dhrāciḥ ekasya dadṛśe na rūpaṃ*)—वायोः गतिः सर्वैः दृश्यते न रूपं अप्रत्यक्षत्मात् (*vāyoḥ gatiḥ sarvaiḥ dṛśyate na rūpaṃ apratyakṣatmāt*) *[as supplied: ಧ್ರಾಚಿಃ for ಧ್ರಾಜಿಃ and ಅಪ್ರತ್ಯಕ್ಷತ್ಮಾತ್ as printed]* । Since Vāyu is not an object of direct perception, his form is not seen by the eye. Only his movements come within sight. There must be a secret meaning in this description. In other places the descriptions of the form of Vāyu convey Vāyu's beauty and the like. For example:
+त्वां हि सुप्सरस्तमं नृषवनेषु हूमहे । ग्रावाणं नाश्वपृष्टं मंहना (*tvāṃ hi supsarastamaṃ nṛṣavaneṣu hūmahe | grāvāṇaṃ nāśvapṛṣṭaṃ maṃhanā*)
+(Ṛ. Saṃ. 8-26-24)
+There is a description of an exceeding and beautiful form of Vāyu. This is contrary to ददृशे न रूपं (*dadṛśe na rūpaṃ*). And again:
+वायवा याहि दर्शतेमे सोमा अरंकृताः । तेषां पाहि श्रुधी हवं (*vāyavā yāhi darśateme somā araṃkṛtāḥ | teṣāṃ pāhi śrudhī havaṃ*)
+(Ṛ. Saṃ. 1-2-1)
+In such places the epithets दर्शत (*darśata*)—दर्शनीय (*darśanīya*) and the like are used. Since neither Sāyaṇa nor the Nirukta-writers have said anything on this point in their explanation of the ṛk under consideration, it would perhaps be a bold undertaking for us to show a contradiction among the śruti passages.
+
+**Grammar (transcribed, not explained):**
+- केशिनः (*keśinaḥ*)—केशाः एषां संति इति केशिनः (*keśāḥ eṣāṃ saṃti iti keśinaḥ*); by अतइनिरन् (*atainiran*) (Pā. Sū. 5-2-115) the suffix इनि (*ini*) in the sense of "possessing". The initial-acute accent of the suffix comes.
+- ऋतुथा (*ṛtuthā*)—the suffix था (*thā*) prescribed by था हेतौच छंदसि (*thā hetauca chaṃdasi*) (Pā.Sū 5-3-26) comes to this word also by vyatyaya. By the accent of the suffix it becomes end-acute.
+- चक्षते (*cakṣate*)—the root चक्षिज् व्यक्तायां वाचि (*cakṣij vyaktāyāṃ vāci*). Here it is used in the sense of illumining. लट् (*laṭ*), a form ending in the third person plural; the तिजंतनिघात (*tijaṃtanighāta*) accent comes.
+- संवत्सरे (*saṃvatsare*)—the root वस निवासे (*vasa nivāse*). By सपूर्वाच्चित् (*sapūrvāccit*) (Uṇ. Sū. 3-35-2), when सम् (*sam*) is the preceding member, the suffix सर (*sara*); it is चित् (*cit*). By सः स्यार्ध (*saḥ syārdha*)-(Pā. Sū. 7-4-49) the substitution of t for the preceding s; by चितः (*citaḥ*) (Pā. Sū. 6-1-163) the end-acute accent comes.
+
+### Printed p. 614
+*Running head: 614 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ ೨೨ ಸೂ ೧೬೪] (as supplied).*
+
+- वपते (*vapate*)—the root टुवप् बीजसंताने (*ṭuvap bījasaṃtāne*), ubhayapadin. लिट् (*liṭ*), a form ending in the third person singular. The तिजंतनिघात (*tijaṃtanighāta*) accent comes.
+- चष्टे (*caṣṭe*)—the root चक्षिज् (*cakṣij*) stated before. The suffix त (*ta*). टि (*ṭi*) becomes e. By स्कोस्संयोगाद्योरंतेच (*skossaṃyogādyoraṃteca*) (Pā. Sū. 8-2-29) the letter k is dropped. The suffix takes ṣṭutva. The nighāta accent comes.
+- ध्राजिः (*dhrājiḥ*)—the root ध्रज गतौ (*dhraja gatau*). The Uṇādi suffix इञ् (*iñ*). By अत उपधाया (*ata upadhāyā*) (Pā. Sū. 7-2-116) vṛddhi of the penultimate. Because it is उत्पादुदरिंद (*utpādudariṃda*) *[as supplied, unclear]* the initial-acute accent comes.
+- ददृशे (*dadṛśe*)—the root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*). In the passive, in the Vedic manner, लिट् (*liṭ*) in the present sense. A form ending in the third person singular. The तिजंतनिघात (*tijaṃtanighāta*) accent comes. ‖ 44 ‖
+*[Decoration line as supplied: "_________ :0: - --------".]*
+
+#### Ṛk 45
+*[Garbled label as supplied: ಸಂಹಿತಾಪಾತಕ? — read by the script as Saṃhitā-pāṭha.]*
+**॥ संहितापाठः ॥**
+*[A picture of the Saṃhitā and Pada lines stood here in the supplied text; it only repeats the two blocks that follow, so the figure line was removed from kn.md.]*
+> च॒त्वारि॒ वाक्परि॑मिता प॒दानि॒ तानि॑ विदुर्ब्राह्म॒णा ये म॑नी॒षिणः॑ ।
+> गुहा॒ त्रीणि॒ निहि॑ता॒ नेंग॑यंति तु॒रीयं॑ वा॒चो म॑नु॒ष्या॑
+> वदंति ॥ ४५ ॥
+**॥ पदपाठः ॥**
+> चत्वारि । वाक् । परिमिता । पदानि । तानि । विदुः । ब्राह्मणाः । ये । मनीषिणः ।
+> गुहा । त्रीणि । निहिता । न । इंगयंत । तुरीयं । वाचः । मनुष्याः । वदंति ॥४५॥
+*[Garbled label as supplied: ಶಾಯಣಭಾಷ್ಯ c — read by the script as Sāyaṇa-bhāṣya.]*
+**॥ सायणभाष्यम् ॥**
+> वाग्देवत्ये पश् चत्वारि वागिति हविषोऽनुवाक्या । चत्वारि वाक्परिमिता पदानि
+> यज्ञेन वाचः पदवीयमायन् । आ. ३-८ । इति सूत्रितत्वात् ॥
+> वाग्वाचः कृत्सायाः पदानि चत्वारि परिमिता परिमितानि । लोके या वागस्ति
+> सा चतुर्विधा विभक्तेत्यर्थः । तानि पदानि ब्राह्मणा वेदविदो मनीषिणो मनस
+> ईषिणो मेधाविनो विदुः । जानंति । तेषां मध्यॆ त्रीणि गुहा गुहायां निहिता
+> स्थापितानि नेंगयंति । न चेष्टंते । न प्रकाशंत इत्यर्थः । वाचस्तुरीयं पवं
+*[The block breaks off at the page end in the middle of a word as supplied: "ಪವಂ", continued on the next page.]*
+
+### Printed p. 615
+*Running head: [ಆ. ೨. ಅ. ೩. ವ. ೨೨ ] Ṛgveda-saṃhitā 615 (as supplied).*
+
+*[Continuing the Sāyaṇa-bhāṣya.]*
+> मनुष्या अज्ञास्तज्ञाश्च वदंति । व्यक्तमुच्चारयंति । व्यवहरंति । कानि तानि
+> चत्वारीत्यत्र बहवः स्वस्वमतानुरोधेन बहुधा वर्णयंति । सर्ववैदिकवाग्जालस्य
+> संग्रहरूपा भूरादयस्तिस्रो व्याकृतयः प्रणव एक इति वेदत्रयसारत्वात्तासां
+> व्याहृतीनामेव सारसंग्रहभूतत्वादकाराद्यात्मकस्य प्रणवस्यॆति सप्रणवासु व्याहृतिषु सर्वा वाक् परिमितेति केचन वेदवादिनो वदंति ॥ अपरे व्याकरणमतानुसारिणो नामाख्यातोपसर्गनिपातभेदेन । क्रियाप्रधानमाख्यातं । द्रव्यप्रधानं
+> नाम । प्रागुपसृज्यत आख्यातपदस्येत्युपसर्गः प्रादिः । उच्चावचेष्टर्थेषु निपतनान्निपातोऽपितुचेत्यादिः । एतेष्टेव सर्वा वाक् परिमितेत्यखंडायाः कृत्सया
+> वाचिश्चतुर्धा व्याकृतित्वात् । वाग्मै पराच्यव्याकृतावदत् तामिंद्रो मध्यतोऽवक्रम्य व्याकरोत्तस्मादियं व्याकृता वागुद्यते । तै. सं. ६-४-७-३ । इति श्रुतेः ॥
+> अन्ये तु याज्ञिका मंत्राः कल्वो ब्राह्मणं चतुर्थि लौकिकीति । याज्ञिकैः समाख्यातोऽनुष्ठेयार्थप्रकाशको वेदभागो मंत्रः । मंत्रविधानप्रतिपादको
+> वेदभाग इति मंत्राः कल्वोऽत ऊर्द्वं । तै आ. १-३१-२ । इत्यादिनोक्तः कल्पः ।
+> मंत्रतात्पर्यार्थप्रकाशको वेदभागो ब्राह्मणं । भोगविषया गामानयेत्यादिरूपा व्यावहारिकी । एष्टेव सर्वा वाङ्मयमितेति याज्ञिकाः । ऋग्यजुः सामानि
+> चतुर्थि व्यावहारिकीति नैरुक्ताः ॥ सर्पाणां वाग्वयसां क्षुद्रसरीसृपस्य च चतुर्थि
+> व्यावहारिकीतितिहासिकाः ॥ पशुषु तूणवेषु मृगेष्वात्मनि चेत्यात्मवादिनः ॥ अपरे
+> मातृकाः प्रकारांतरेण प्रतिपादयंति । परा पश्यंती मध्यमा वैखरीति चत्वारीति ।
+> एकैव नादात्मिका वाङ्मूलाधारादुदिता सती परेत्युच्यते । नादस्य च सूक्ष्मत्वेन
+> दुर्निरूपत्वात् सैव हृदयगामिनी पश्यंतीत्युच्यते योगिभिर्द्रष्टुं शक्यत्वात् ।
+> सैव बुद्धिं गता विवक्षां प्राप्ता मध्यमेत्युच्यते मध्यॆ हृदयाख्य उदीयमानत्वान्मध्यमायाः । अथ यदा सैव वक्रे स्थिता ताल्वोष्ठादिव्यापारेण बहिर्निर्गच्छति
+> तदा वैखरीत्युच्यते । एवं चत्वारि वाचः पदानि परिमितानि । मनीषिणो मनसः
+> स्वामिनः स्वाधीनमनस्का ब्राह्मणा रवाख्यस्य शब्दब्रह्मणोऽधिगंतारो योगिनः
+> परादिचत्वारि पदानि विदुः । जानंति । तेषु मध्यॆ त्रीणि परादीनि गुहा निहितानि
+> हृदयांतर्वतित्वात् । तुरीयं तु पदं वैखरीसंज्ञकं मनुष्याः सर्वॆ वदंति ॥
+> व्याकरणप्रसिद्धानामाख्यातादिपक्षे मनीषिणो ब्राह्मणाः प्रकृतिप्रत्ययादिविभागज्ञा
+> वाग्योगविदस्तानि पदानि जानंति । अवाग्योगविदः पामरा वाचो वाङ्मयस्य
+> तुरीयं चतुर्थ० भागं वदंति । व्यवहरंति । अर्थप्रकाशनाय प्रयुंजते ॥
+> अयं मंत्रो निरुक्ते व्याख्यातः । सोऽत्राप्यनुसंधेयः । नि. १३-९ ॥ अथापि
+> ब्राह्मणं भवति । सावै नाक् सृष्टा चतुर्था व्यभवदेप्पेव लोकेषु त्रिणि पशुषु
+*[The block breaks off at the page end; the passage continues on p. 616.]*
+
+### Printed p. 616
+*Running head: 616 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*[Continuing the Sāyaṇa-bhāṣya.]*
+> तुरीयं । या पृथिव्यां साग्नौ सा रथंतरे। यांतरिक्षे सा वायौ सा वामदेव्ये।
+> या दिवि साऽदित्ये सा बृहति सा स्तनयित्नावथ पशुषु ततो या वागत्यरिच्यत तां
+> ब्राह्मणेष्वदधुः । तस्माद्ब्राह्मणा उभयीं वाचं वदंति या च देवानां या च
+> मनुष्याणामिति ॥
+*Gist:* Speech has four grades; wise Brahmins know them; three lie hidden, the fourth is spoken by men. Sāyaṇa records many schemes of the four.
+**प्रतिपदार्थ (Pratipadārtha)**
+वाक् (*vāk*)—of speech; पदानि (*padāni*)—the classes; चत्वारि (*catvāri*)—as four parts; परिमिता (*parimitā*)—are defined; तानि (*tāni*)—those classes; ये (*ye*)—those who; मनीषिणि (*manīṣiṇi*) *[as supplied]*—are wise, such; ब्राह्मणाः (*brāhmaṇāḥ*)—the knowers of the Veda; विदुः (*viduḥ*)—know; (तेषां (*teṣāṃ*)—among those classes); त्रीणि (*trīṇi*) three *[as supplied: no dash]*; गुहा (*guhā*)—in secrecy; निहिता (*nihitā*)—placed; नेंगयंति (*neṃgayaṃti*)—are not clearly known; मनुष्याः (*manuṣyāḥ*)—all men; वाचः तुरीयं (*vācaḥ turīyaṃ*)—the fourth word of speech; वदंति (*vadaṃti*)—utter and use in practice.
+*[Garbled label as supplied: ಭಾಷಾರ್ಥ — read by the script as Bhāvārtha.]*
+**भावार्थ (Bhāvārtha)**
+The classes of speech are defined as four parts. Only the wise knowers of the Veda understand those classes. Of them three classes are placed in secrecy and are not clearly known. All men utter and use in practice only the fourth word of speech.
+
+**Printed English**
+Four are the definite grades of speech : those Brahmana who are wise know them : three, deposited in secret, indicate no meaning : men speak the fourth grade of speech.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the animal offering made for the deity Speech, this ṛk चत्वारि वाक् (*catvāri vāk*) is to be recited as the पुरोनुवाक्यामंत्र (*puronuvākyāmaṃtra*) at the time of pouring out the oblation; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra चत्वारि वाक्परिमिता पदानि यज्ञेन वाचः पदवीयमायन् (*catvāri vākparimitā padāni yajñena vācaḥ padavīyamāyan*) (Ā. 3-8).
+चत्वारि वाक्परिमिता पदानि (*catvāri vākparimitā padāni*) :— कानि कानि चत्वारि इत्यत्र बहवः स्वस्वमतानुरोधेन बहुधा वर्णयंति (*kāni kāni catvāri ityatra bahavaḥ svasvamatānurodhena bahudhā varṇayaṃti*) । There are many views on the question which are the four words of speech. Everyone has given the explanation of "four words" according to his own tradition. The Nirukta-writers have stated the list of these views in detail (Ni. 13-9). After asking कतमानि तानि चत्वारि पदानि (*katamāni tāni catvāri padāni*) ? "Which are those four words?", they state the differences of opinion one by one.
+
+### Printed p. 617
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೨೨ ] Ṛgveda-saṃhitā 617 (as supplied).*
+
+1. ओंकारो महाव्याहृतयश्चेत्यार्ष० (*oṃkāro mahāvyāhṛtayaścetyārṣa0*) :—
+सर्ववैदिकवाग्जालस्य संग्रहरूपाः भूरादयस्ति'स्रो व्याहृतयः प्रणव एक इति वेदत्रयसारत्वात् .... .... .... सप्रणवासु व्याहृतिषु सर्वा वाक् परिमितेति केचन वेदवादिनो वदंति (*sarvavaidikavāgjālasya saṃgraharūpāḥ bhūrādayasti 'sro vyāhṛtayaḥ praṇava eka iti vedatrayasāratvāt .... .... .... sapraṇavāsu vyāhṛtiṣu sarvā vāk parimiteti kecana vedavādino vadaṃti*) *[as supplied: the passage is printed with a row of dots after ವೇದತ್ರಯಸಾರತ್ವಾತ್, and "ತಿ'ಸ್ರೋ" with an apostrophe]*. The triad of vyāhṛtis, Bhūḥ, Bhuvaḥ, Suvaḥ, which is the essence and the compendium of all Vedic speech, together with the Praṇava (Omkāra), make four parts in all. This is the division according to the Vedic view. The vyāhṛtis are the means of the worship of Brahman. They reflect the principle of all the worlds and the principles of all the deities. Moreover, the principle of the Supreme Brahman itself is manifested in these forms. Therefore the Taittirīya-upaniṣad describes the nature of the vyāhṛtis and the order of worship of Brahman consisting of the vyāhṛtis, to show that worship of the vyāhṛtis is a means to knowledge of the Supreme Brahman. In the present context, however, it is stated that the principle called Mahaḥ, which is substituted for the Praṇava as the Nirukta-writers say, is the fourth. But from the descriptions that follow it is understood that this "Mahaḥ" is itself the Brahman-principle and itself the Praṇava, the reflector of Brahman. In the Taittirīya-upaniṣad the order of worship of Brahman in the form of the vyāhṛtis, which gives the fruit called svārājya, is as follows.
+भूर्भुवः सुवरिति वा एतास्तिस्रो व्याहृतयः । तासामुहस्मैतां चतुर्थीं । माहाचमस्यः प्रवेदयते । मह इति । तद्ब्रह्म । स आत्मा । अंगान्यन्या देवताः (*bhūrbhuvaḥ suvariti vā etāstisro vyāhṛtayaḥ | tāsāmuhasmaitāṃ caturthīṃ | māhācamasyaḥ pravedayate | maha iti | tadbrahma | sa ātmā | aṃgānyanyā devatāḥ*) ।
+भूरिति वा अयं लोकः । भुव इत्यंतरिक्षं । सुवरित्यसौ लोकः । मह इत्यादित्यः । आदित्येन वाव सर्वॆ लोका महीयंते (*bhūriti vā ayaṃ lokaḥ | bhuva ityaṃtarikṣaṃ | suvarityasau lokaḥ | maha ityādityaḥ | ādityena vāva sarvè lokā mahīyaṃte*) ।
+भूरिति वा अग्निः । भुव इति वायुः । सुवरित्यादित्यः । मह इति चंद्रमाः । चंद्रमसा वाव सर्वाणि ज्योतिर्घंषि महीयंते (*bhūriti vā agniḥ | bhuva iti vāyuḥ | suvarityādityaḥ | maha iti caṃdramāḥ | caṃdramasā vāva sarvāṇi jyotirghaṃṣi mahīyaṃte*) । भूरिति वा ऋचः । भुव इति सामानि । सुवरिति यजूग्ंषि । मह इति ब्रह्म । ब्रह्मणा वाव सर्वॆवेदा महीयंते (*bhūriti vā ṛcaḥ | bhuva iti sāmāni | suvariti yajūgṃṣi | maha iti brahma | brahmaṇā vāva sarvèvedā mahīyaṃte*) । भूरिति वै प्राणः। भुव इत्यपानः । सुवरिति व्यानः । मह इत्यन्नं। अन्नेन वाव सर्वॆ प्राणा महीयंते (*bhūriti vai prāṇaḥ| bhuva ityapānaḥ | suvariti vyānaḥ | maha ityannaṃ| annena vāva sarvè prāṇā mahīyaṃte*) । ता ना एताश्चतस्रश्चतुर्धा । चतस्रश्चतस्रो व्याहृतयः । ता यो वेद । स वेद ब्रह्म । सर्वॆऽस्मै देवा बलिमावहंति (*tā nā etāścatasraścaturdhā | catasraścatasro vyāhṛtayaḥ | tā yo veda | sa veda brahma | sarvè 'smai devā balimāvahaṃti*) ॥
+(Tai. U. 1-5 *[as supplied: ತೈ. ಉ.]*) *[as supplied: spellings such as ಜ್ಯೋತಿರ್ಘಂಷಿ and ಸರ್ವೆ are kept]*
+There are three vyāhṛtis: Bhūḥ, Bhuvaḥ, Suvaḥ. Of them, Māhācamasya came to know the fourth, the great vyāhṛti called Mahaḥ. Mahaḥ is Brahman. It is the Self. The other deities are its limbs. Among these vyāhṛtis, Bhūḥ is this world; Bhuvaḥ is the atmosphere; Suvaḥ is the heaven-world. Mahaḥ is Āditya. Through Āditya alone all the worlds become great. (Here the vyāhṛtis are described as the essence of all the worlds.) *[The passage continues beyond the end of the window.]*
+
 ---
 
-**Progress note:** Done through printed p. 611. pp. 605-611: end of Ṛk 43 special topics (Śakadhūma, ukṣan, pṛśni, vīra), grammar of Ṛk 43, Ṛk 44 (three Keśins) with Special Topics
+**Progress note:** Done through printed p. 617. pp. 612-617: end of Ṛk 44 special topics, grammar of Ṛk 44, Ṛk 45 (four grades of speech) with bhāṣya and start of Special Topics
