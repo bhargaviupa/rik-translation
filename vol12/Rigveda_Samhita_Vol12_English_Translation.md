@@ -13589,6 +13589,151 @@ Thus, that very lower knowledge which has been called ignorance, which is said t
 
 This ṛk is cited in the Chāndogya Upaniṣad, and with the words तदेतद्वचाभ्युक्तं (*tadetadvacābhyuktaṃ*) ("this is declared by a ṛk") it is stated that the greatness of this Supreme Person is praised in a ṛk (Bhā. U. 3-12-5) *[as supplied: the abbreviation "ಭಾ. ಉ."]*. But in the Ṛk-saṃhitā the sequence of this ṛk is somewhat different.
 
+### Printed p. 573
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 573] (as supplied).*
+
+*[Special Topics continued.]*
+
+एतावानस्य महिमातो ज्यायांश्च पूरुषः (*etāvānasya mahimāto jyāyāṃśca pūruṣaḥ*)
+पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि (*pādo 'sya viśvā bhūtāni tripādasyāmṛtaṃ divi*)
+(Ṛ. Saṃ. 10-90-3)
+
+In this ṛk the nature of Brahman, who is called Gāyatra *[as supplied: the printed word is "ಗಾಯತ್ರಾಖ್ಯನಾದ"]*, is described. All beings, in the empirical world, are in one fourth part of him. The remaining three fourths remains immortal in the heavenly world. In the same way there are many contexts in the Bṛhadāraṇyaka and other Upaniṣads where ṛk-sentences are cited and the Supreme Person is described *[as supplied: the printed text has a stray "ಎಂದು" after "ಇದೇ ವಿಧದಲ್ಲಿ"]*.
+
+तदेतदृचाभ्युक्तं (*tadetadṛcābhyuktaṃ*)
+एष स नित्यो महिमा ब्राह्मणस्य न वर्धते कर्मणा नो कनीयान् (*eṣa sa nityo mahimā brāhmaṇasya na vardhate karmaṇā no kanīyān*)
+तस्यैव स्यात्पदवित्तं विदित्वा न लिस्यते कर्मणा पापकेन (*tasyaiva syātpadavittaṃ viditvā na lisyate karmaṇā pāpakena*)
+(Bṛ. U. 4-4-23)
+
+The eternal greatness of Brahman is neither increased by action nor diminished. He who knows this principle of Brahman has no attachment to action and remains outside the fault of it.
+
+Mantras of this kind are shown as authorities for the teaching of the principle of Brahman. But in some contexts, although the mantras are recited with the words ऋचाभ्युक्तं (*ṛcābhyuktaṃ*), they may be Ṛgveda mantras exactly *[as supplied: the printed sentence reads "ಸಾಕ್ಷಾತ್ತಾಗಿ ಋಗ್ವೇದಮಂತ್ರಗಳೇ ಆಗಿರಬಹುದು"]*, or there may be slight changes in the order of the words. An example of this has been given above (Chā. U. 3-12-5; Ṛ. Saṃ. 10-90-3). The same can be seen in the Muṇḍaka and the others (Mu. U. 3-2-10; Pra. 1-7).
+
+Therefore, if the word ऋचः (*ṛcaḥ*) in the ṛk under consideration is taken to mean the lower knowledge (aparā vidyā), as Sāyaṇa says, then that lower knowledge also means ignorance (avidyā, that is, action). If this lower knowledge, in which action predominates, has no connection with knowledge, then, as Śaṅkarācārya says, it must be set aside. But here, since the meaning is ऋचः संबंधिनि अक्षरे (*ṛcaḥ saṃbaṃdhini akṣare*), it can be said that the akṣara is that which is propounded by the mantras in the Chāndogya and the other Upaniṣads cited above. Whenever the Upaniṣads state the main point in explaining the principle of Brahman, they cite Ṛk mantras with the words तदेतदृचाभ्युक्तं (*tadetadṛcābhyuktaṃ*) and then proceed with their explanations.
+
+अक्षरे—अदृश्यादिगुणके—क्षरणरहिते अनश्वरे नित्ये सर्वत्र व्याप्ते ब्रह्मणि (*akṣare—adṛśyādiguṇake—kṣaraṇarahite anaśvare nitye sarvatra vyāpte brahmaṇi*). अक्षरशब्दस्य ब्रह्मवाचकत्वं (*akṣaraśabdasya brahmavācakatvaṃ*). The word akṣara means the Supreme Brahman, who is not perishable, who is eternal and all-pervading. अक्षरशब्दस्य ब्रह्मवाचकत्वं (*akṣaraśabdasya brahmavācakatvaṃ*). Sāyaṇa cited many Upaniṣad sentences to show that the word akṣara is used in the Upaniṣads as a synonym of the word Brahman.
+
+### Printed p. 574
+*Running head: 574 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪.] (as supplied; the head reads "ಆ." for the Anuvāka).*
+
+अथ परा यया तदक्षरमधिगम्यते (*atha parā yayā tadakṣaramadhigamyate*)
+(Mu. 1-1-5)
+
+By the higher knowledge, which teaches the principle of Brahman, the nature of this Akṣara is known. Its nature is as follows.
+
+यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं तदपाणिपादं (*yattadadreśyamagrāhyamagotramavarṇamacakṣuḥśrotraṃ tadapāṇipādaṃ*)
+नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यंति धीराः (*nityaṃ vibhuṃ sarvagataṃ susūkṣmaṃ tadavyayaṃ yadbhūtayoniṃ paripaśyaṃti dhīrāḥ*)
+(Mu. 1-1-6)
+
+It is beyond sight, beyond grasp, without connection *[as supplied: "ಅನ್ವಯರಹಿತ"]*, without colour, without eyes and ears, without hands and feet; and it is eternal, all-pervading, omnipresent and imperishable. The wise know it as the source of all beings.
+
+परमेवाक्षरं प्रतिपद्यते स यो ह वै तदच्छायमशरीरमलोहितं शुभ्रमक्षरं वेदयते यस्तु सोम्य (*paramevākṣaraṃ pratipadyate sa yo ha vai tadacchāyamaśarīramalohitaṃ śubhramakṣaraṃ vedayate yastu somya*)
+(Praśna. 4-10)
+
+स होवाचैतद्वै तदक्षरं गार्गि ब्राह्मणा अभिवदंत्यस्कूलमनण्वह्रस्वमदीर्घमलोहितमस्नेहं (*sa hovācaitadvai tadakṣaraṃ gārgi brāhmaṇā abhivadaṃtyaskūlamanaṇvahrasvamadīrghamalohitamasnehaṃ*) .... .... .... .... न तदश्नाति किंचन न तदश्नाति कश्चन (*na tadaśnāti kiṃcana na tadaśnāti kaścana*)
+(Bṛ. U. 3-8-8)
+
+This Akṣara, the supreme principle, is not gross *[as supplied: "ಸ್ಕೂಲವೂ"]*, not small, not short, not long, not red (like fire), not viscous (like water); it is free from old age and death. This and the like is described in the Praśna, the Bṛhadāraṇyaka and the other Upaniṣads.
+
+अक्षरं न क्षरति न क्षीयते वाक्षया भवति ना (*akṣaraṃ na kṣarati na kṣīyate vākṣayā bhavati nā*) .... .... .... .... ।
+(Ni. 3-12)
+
+It is imperishable, of an everlasting state, and so on: the Nirukta writers also have given the derivation of it.
+
+अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते (*akṣaraṃ brahma paramaṃ svabhāvo 'dhyātmamucyate*)
+(Bh. 11. 8. 1) *[as supplied: the abbreviation "ಭ." and the reference "11. 8. 1"]*
+
+That this imperishable Akṣara is Parabrahman is also taught in the Bhagavadgītā. This Akṣara, the principle of Brahman, is the one praised by the Ṛk mantras; Sāyaṇa has explained in the ṛk under consideration, with the opening quotation mark left unclosed in the print, ऋचः संबंधिनि अक्षरे ब्रह्मणि (*ṛcaḥ saṃbaṃdhini akṣare brahmaṇi*).
+
+Where it is said यजः अक्षरे (*yajaḥ akṣare*) *[as supplied: "ಯಜಃ" where the bhāṣya has "ಋಚಃ"]*, the relation between ṛk and akṣara is ऋगक्षरयोः प्रतिपाद्यप्रतिपावकभावः संबंधः (*ṛgakṣarayoḥ pratipādyapratipāvakabhāvaḥ saṃbaṃdhaḥ*) *[as supplied: "ಪ್ರತಿಪಾವಕ" for "ಪ್ರತಿಪಾದಕ" in the print]*. सर्वैर्वेदैः खलु ब्रह्म अधिगम्यते (*sarvairvedaiḥ khalu brahma adhigamyate*). Between the ṛk and the akṣara, which is the principle of Brahman, there is a relation of what is to be propounded and the propounder *[the printed sentence is cut here by the page end and continues on p. 575]*.
+
+### Printed p. 575
+*Running head: [ಅ ೨. ಅ. ೩. ವ ೨೧.] ಋಗ್ವೇದಸಂಹಿತಾ 575] (as supplied).*
+
+*[Continuation of the sentence of the previous page:]* … that is, the akṣara is the subject propounded; the mantra is that which does the propounding. If the principle of Brahman is to be known, it is possible only through the Veda. How is that? 
+
+तं त्वापनिषदं पुरुषं पृच्छामि (*taṃ tvāpaniṣadaṃ puruṣaṃ pṛcchāmi*)
+(Bṛ. U. 3-9-26)
+
+Śākalya asks Yājñavalkya, "I ask you to describe and tell me the nature of the Person who is propounded in the Upaniṣads." If it is said that from this a relation of the propounded and the propounder arises between the mantra and Brahman, an objection arises here; anticipating it, Sāyaṇa said ननु उपनिषद्भागानां तथास्तु (*nanu upaniṣadbhāgānāṃ tathāstu*) इतरेषां तु कथं ब्रह्मविषयत्वमिति उच्यते (*itareṣāṃ tu kathaṃ brahmaviṣayatvamiti ucyate*). That is, let there be a relation of the propounded and the propounder between the Upaniṣad mantras and Brahman; but the remaining mantras, of the Ṛk and the others, are merely concerned with action; if the question arises what relation they have with the teaching of the principle of Brahman, an answer can be given. (This matter has been discussed in detail above.) यद्यपि इतरभागानां यागादिविषयत्वं तथापि बुद्धिशुद्धुत्पादनद्वारा वेदनसाधनत्वेन ब्रह्मविषयत्वं भविष्यति (*yadyapi itarabhāgānāṃ yāgādiviṣayatvaṃ tathāpi buddhiśuddhutpādanadvārā vedanasādhanatvena brahmaviṣayatvaṃ bhaviṣyati*) *[as supplied: "ಬುದ್ಧಿಶುದ್ಧುತ್ಪಾದನ" in this quotation]*. Even if the other parts of the Veda only prescribe sacrifices and similar acts, then, whether through knowing them or through performing the respective acts, the mind becomes free from impurity and a pure means to the knowledge of Brahman. This is stated in the Upaniṣad also.
+
+स वा एष महानज आत्मा योऽयं विज्ञानमयः (*sa vā eṣa mahānaja ātmā yo 'yaṃ vijñānamayaḥ*)......... ....................................
+तमेतं वेदानुवचनेन ब्राह्मणा विविदिषंति यज्ञेन दानेन तपसानाशकेनैतमेव विदित्वा मुनिर्भवति (*tametaṃ vedānuvacanena brāhmaṇā vividiṣaṃti yajñena dānena tapasānāśakenaitameva viditvā munirbhavati*)
+(Bṛ. U. 4-4-26)
+
+The knowers of Brahman know the Self, who consists of knowledge and is unborn, through the Vedic recitation (vedānuvacana); it is by this that they know. One who has attained the knowledge of Brahman through the sacrifice, the gift and the austerity enjoined by the Veda becomes a sage of tranquil mind: so it is said. Śaṅkarācārya too, when explaining this sentence in his commentary, imagined the same objection and said:
+
+नैष दोषः (*naiṣa doṣaḥ*) कर्मणां विशुद्धि हेतुत्वात् (*karmaṇāṃ viśuddhi hetutvāt*) कर्मभिः संस्कृता हि विशुद्धात्मानः शक्नु वंत्यात्मानमुपनिषत्प्रकाशितमप्रतिबंधेन वेदितुं (*karmabhiḥ saṃskṛtā hi viśuddhātmānaḥ śaknu vaṃtyātmānamupaniṣatprakāśitamapratibaṃdhena vedituṃ*)
+(Śāṅkara-bhāṣya)
+
+There is no fault in this. By the performance of action, refinement and purity of the self arise, and it becomes favourable for realising directly the Supreme Self *[as supplied: the printed word is "ಪರವ-ತ್ಮನನ್ನು" with a stray hyphen; sic]* who is set forth in the Upaniṣads, without any mental obstacle. The smṛti sentence ज्ञानमुत्पद्यते पुंसां क्षयात्पापस्य कर्मणः (*jñānamutpadyate puṃsāṃ kṣayātpāpasya karmaṇaḥ*) ("knowledge arises in men through the destruction of the evil of action") *[the sentence continues on the next page]*
+
+### Printed p. 576
+*Running head: 576 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೪] (as supplied: "ಸೂ. ೧೪" where the other heads read ೧೬೪).*
+
+… also teaches the same thing. He therefore explains that it is not right to say that Śruti sentences outside the Upaniṣads have no connection with knowledge of Brahman.
+
+परमे व्योमनि—उत्कृष्टे निरतिशये व्योमनि (*parame vyomani—utkṛṣṭe niratiśaye vyomani*). अवेपत्वनीरूपत्वव्यापित्यादि सादृश्येन वोम इत्युक्तं (*avepatvanīrūpatvavyāpityādi sādṛśyena voma ityuktaṃ*) *[as supplied: "ಅವೇಪತ್ವ", "ವ್ಯಾಪಿತ್ಯಾದಿ", "ವೋಮ" in the print]*. Because it has the qualities of being unsmeared, formless and all-pervading, Brahman is described by showing a similarity to the sky (antarikṣa), which has these same qualities. This is one meaning. अथवा विशेषेण सर्वस्य रक्षके (*athavā viśeṣeṇa sarvasya rakṣake*). निरधिष्ठा न कस्यचिदस्ति स्वाध्यस्तस्य सर्वस्याधिष्ठानत्वेन रक्षकत्वात् (*niradhiṣṭhā na kasyacidasti svādhyastasya sarvasyādhiṣṭhānatvena rakṣakatvāt*). It can also be said that the qualifier vyoma is used because he is the protector, in the form of the substratum, of all beings. Room is left here for both meanings. First:
+
+अशब्दमस्पर्शमरूपमव्ययं तथारसं नित्यमगंधवच्च यत् (*aśabdamasparśamarūpamavyayaṃ tathārasaṃ nityamagaṃdhavacca yat*)
+अनाद्यनंतं महतः परं ध्रुवं निजाय्य तन्मृत्युमुखात् प्रमुच्यते (*anādyanaṃtaṃ mahataḥ paraṃ dhruvaṃ nijāyya tanmṛtyumukhāt pramucyate*)
+(Kaṭh. 1-3-15)
+
+Brahman is soundless, touchless, formless, imperishable, eternal, without beginning and end, beyond the Mahat, constant. He who knows this Supreme Self, endowed with such qualities, becomes liberated. Thus in many sentences the attainability *[as supplied: "ಪಾಪ್ಯತ್ವ"]* and the greatness of Brahman are praised. Therefore the qualifier vyoma is used by comparing him with the sky, which has these same qualities. Second: the word vyoma is explained as akṣara. This form is derived from the root meaning "to flow, to decay" (kṣaraṇa) joined with the prefix vi. The use of this word in the sense of protection and in the sense of pervasion is shown in the 11th part of the Ṛgveda-saṃhitā, pp. 298-299, and:
+
+प्राणो ब्रह्म कं ब्रह्म खं ब्रह्मेति (*prāṇo brahma kaṃ brahma khaṃ brahmeti*)
+स होवाच विजानाम्यहं यत्पाणो ब्रह्म कं च तु खं च न विजामीति ते होचुर्यद्वाव कं तदेव खं यदेव खं तदेव कमिति प्राणं च हास्यै तदाकाशं चोचुः (*sa hovāca vijānāmyahaṃ yatpāṇo brahma kaṃ ca tu khaṃ ca na vijāmīti te hocuryadvāva kaṃ tadeva khaṃ yadeva khaṃ tadeva kamiti prāṇaṃ ca hāsyai tadākāśaṃ cocuḥ*)
+(Bhā. U. 4-10-5) *[as supplied: the abbreviation "ಭಾ. ಉ"]*
+
+(This is the instruction in Brahman given by the sacrificial fires of Satyakāma Jābāla to Upakosala Kāmalāyana.)
+
+Prāṇa is Brahman; Brahman is bliss (ka); Brahman is space (kha). Then Upakosala said, "I understand that prāṇa is Brahman; but that Brahman is bliss and space, this principle I do not understand." Then the fires said, "What is called bliss (ka) is space (kha); space is bliss," and afterwards taught the nature of prāṇa and the nature of space. In Upaniṣad sentences of this kind the identity of Brahman and space is stated.
+
+### Printed p. 577
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 577] (as supplied).*
+
+यस्मिन् देवा अधि विश्वे निषेदुः—यस्मिन् परमात्मनि सर्वॆ देवाः निषीदंति आश्रित्य तिष्ठंति (*yasmin devā adhi viśve niṣeduḥ—yasmin paramātmani sarvè devāḥ niṣīdaṃti āśritya tiṣṭhaṃti*). Sāyaṇa has explained, in one way, that it means the Supreme Self in the form of the Akṣara, in whom all the gods have taken refuge and abide; or यस्मिन् ऋगुपलक्षिताः सर्वॆ सांगा वेदाः पठ्यवसिताः (*yasmin ṛgupalakṣitāḥ sarvè sāṃgā vedāḥ paṭhyavasitāḥ*) *[as supplied: "ಪಠ್ಯವಸಿತಾಃ", for "ಪರ್ಯವಸಿತಾಃ"; sic]*, that is, the Supreme Person in the form of the Akṣara, in whom the Vedas Ṛk and the others, and all the Vedāṅgas, come to their end. The meaning is that the whole universe is contained in the Akṣara, has taken refuge in it, and carries on its respective operations under its rule. Describing this point, the Upaniṣads say:
+
+एतस्य वा अक्षरस्य प्रशासने गार्गि सूर्याचंद्रमसौ विधृतौ तिष्ठत एतस्य वा अक्षरस्य प्रशासने गार्गि द्यावापृथिव्यौ विधृते तिष्ठत एतस्य वा अक्षरस्य प्रशासने गार्गि निमेषामुहूर्ता अहोरात्राण्यर्धमासा मासा ऋतवः संवत्सरा इति विधृतास्तिष्ठंत्येतस्य वा अक्षरस्य प्रशासने गार्गि प्राज्योऽन्या नद्यः स्यंदंते श्वेतेभ्यः पर्वतेभ्यः प्रतीच्योऽन्या यां यां च दिशमन्वेतस्य वा अक्षरस्य प्रशासने गार्गि ददतो मनुष्याः प्रशंसंति यजमानं देवा दर्वि० पितरोऽन्वायत्ताः (*etasya vā akṣarasya praśāsane gārgi sūryācaṃdramasau vidhṛtau tiṣṭhata etasya vā akṣarasya praśāsane gārgi dyāvāpṛthivyau vidhṛte tiṣṭhata etasya vā akṣarasya praśāsane gārgi nimeṣāmuhūrtā ahorātrāṇyardhamāsā māsā ṛtavaḥ saṃvatsarā iti vidhṛtāstiṣṭhaṃtyetasya vā akṣarasya praśāsane gārgi prājyo 'nyā nadyaḥ syaṃdaṃte śvetebhyaḥ parvatebhyaḥ pratīcyo 'nyā yāṃ yāṃ ca diśamanvetasya vā akṣarasya praśāsane gārgi dadato manuṣyāḥ praśaṃsaṃti yajamānaṃ devā darvi0 pitaro 'nvāyattāḥ*)
+(Bṛ. U. 3-8-9)
+
+In these sentences Yājñavalkya has described the nature of the Akṣara to Gārgī. By the command of this Akṣara the sun and the moon, kept apart in their appointed places, keep their steady motion; by the command of this Akṣara heaven and earth stand firm in their respective fixed places; by its command the moments and the divisions of time such as day and night maintain their going and coming in the form of recurrence; by its command all rivers flow. Men praise the givers of oblations, the sacrificer who gives oblations is praised, and the gods and the fathers are satisfied.
+
+तस्मादृचः साम यजूंषि दीक्षा यज्ञाश्च सर्वे क्रतवो दक्षिणाश्च (*tasmādṛcaḥ sāma yajūṃṣi dīkṣā yajñāśca sarve kratavo dakṣiṇāśca*)
+संवत्सरश्च यजमानश्च लोकाः सोमो यत्र पवते यत्र सूर्यः (*saṃvatsaraśca yajamānaśca lokāḥ somo yatra pavate yatra sūryaḥ*)
+(Muṇḍaka. 2-1-6)
+
+From this Supreme Person alone arise the ṛks, the sāman, the yajus formulas, the initiations, all the sacrifices, the year, the sacrificer, and the worlds where the moon, the sun and the rest are, everything whatsoever.
+
+तस्माच्च देवा बहुधा संप्रसूताः साध्या मनुष्याः पशवो वयांसि (*tasmācca devā bahudhā saṃprasūtāḥ sādhyā manuṣyāḥ paśavo vayāṃsi*)
+प्राणापानौ व्रीहियवौ तपश्च श्रद्धा सत्यं ब्रह्मचर्यं विधिश्च (*prāṇāpānau vrīhiyavau tapaśca śraddhā satyaṃ brahmacaryaṃ vidhiśca*)
+(Mu. U. 2-1-7) .
+
+*[Printed signature line at the foot of p. 577: "[37] - [Vol. 12" (as supplied).]*
+
+### Printed p. 578
+*Running head: 578 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied; the head reads "ಆ." for the Anuvāka).*
+
+From this Supreme Person alone were born the gods, the Sādhyas, men, animals, birds and the rest, and austerity, faith, truth, celibacy and the like.
+
+आविःसन्निहितं गुहाचरं नाम महत्पदमत्रैतत्समर्पितं (*āviḥsannihitaṃ guhācaraṃ nāma mahatpadamatraitatsamarpitaṃ*)
+एजत्प्राणन्निमिषच्च यदेतज्ञानथ सदसद्वरेण्यं परं विज्ञानाद्यद्वरिष्ठं प्रजानां (*ejatprāṇannimiṣacca yadetajñānatha sadasadvareṇyaṃ paraṃ vijñānādyadvariṣṭhaṃ prajānāṃ*)
+(Saḥ. 2-2-1) *[as supplied: the abbreviation "ಸಃ."]*
+
+तदेतदक्षरं ब्रह्म स प्राणस्तदु वाङ्मनः (*tadetadakṣaraṃ brahma sa prāṇastadu vāṅmanaḥ*)
+तदेतत्सत्यं तदमृतं तद्वेद्धव्यं सोम्य विद्दि (*tadetatsatyaṃ tadamṛtaṃ tadveddhavyaṃ somya viddi*)
+(Pu. 2-2-2) *[as supplied: the abbreviation "ಪು."]*
+
+This Akṣara, called Brahman, is present in the hearts of all creatures and is therefore called "moving in the cave"; it is the support of all the śrutis and the cause of all worldly activities such as breathing; it is the life-breath of all beings. It is also speech and mind; it is truth; it is that which is immortal. Direct realisation of it is to be gained. [The method of reaching this aim is stated in the following mantras with the words धनुर्गृहीत्पौपनिषदं महास्त्रं (*dhanurgṛhītpaupaniṣadaṃ mahāstraṃ*).]
+
+The study of the Vedas, Ṛk and the others, and the performance of the action enjoined by the Veda must also become means of realising directly this Brahman called Akṣara. If one leaves this aim aside, trusts in the means alone, stands in it and forgets the chief aim, then neither the study of the Veda nor the performance of the Vedic action brings any benefit. With this meaning the question is put: यस्तन्नवेद किमृचा करिष्यति (*yastannaveda kimṛcā kariṣyati*), "if he does not know this Parabrahman, what indeed can he gain by reciting those ṛks?" The Nirukta writers have described in the following way the nature of a man who forgets the goal and is absorbed in the means alone.
+
+स्थाणुरयं भारहारः किलाभूदधीत्य वेदं न विजानाति योऽर्थ० (*sthāṇurayaṃ bhārahāraḥ kilābhūdadhītya vedaṃ na vijānāti yo 'rtha0*)
+योऽर्थज्ञ इत्सकलं भद्रमश्नुते नाकमेति ज्ञानविधूतसाप्मा (*yo 'rthajña itsakalaṃ bhadramaśnute nākameti jñānavidhūtasāpmā*)
+(Ni. 8-18)
+
+If one only studies the Veda and does not know its meaning, the study is merely a burden to that man. He is a dull fellow who carries a load *[as supplied: "ಧಾರವನ್ನು ವಹಿಸಿರುವ"]*. But he who studies the Veda after fully understanding the Vedic meaning obtains all kinds of good; complete knowledge destroys all his faults.
+
 ---
 
-**Progress note:** Done through printed p. 572. Vol 12 pp. 566-572: end of Sukta 164 commentary; Rk 39 with Sayana bhashya, Pratipadartha, Bhavartha, Special Topics
+**Progress note:** Done through printed p. 578. Vol 12 pp. 573-578: Special Topics on Rk 39 (akshara, apara vidya, Upanishad citations), end of Sukta 164 Rk 39 commentary
