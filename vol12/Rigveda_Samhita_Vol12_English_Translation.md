@@ -7893,6 +7893,141 @@ By the preliminary offerings (prayāja) the sacrificer attains the best state an
 (मैत्रायण ब्राह्मणोपनिषत्. (*maitrāyaṇa brāhmaṇopaniṣat.*) 6-15)
 Time and non-time are the two forms of Brahman. The time produced by Āditya is the year. Thus in some places, when the identity of Āditya and the year is stated, it is taught that the seasons, the parts of the year, are the parts of Āditya; and in still other places, where it is said that the year is produced from the Sun (printed ಸೂರ‍್ಯ), it is also taught that the seasons too are produced from him.
 
+### Printed p. 310
+*Running head: 310 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+ये सप्त अधि तस्थुः (*ye sapta adhi tasthuḥ*)—here the word सप्त (*sapta*), if referring to the year, means the parts solstice, season, month, fortnight, day, night and muhūrta; if referring to Āditya, it means the seven rays.
+
+सप्तचक्रं—चक्रं चकतेर्वा चरतेर्वा क्रामतेर्वा (*saptacakraṃ—cakraṃ cakatervā caratervā krāmatervā*) Because the ray is of the nature of obstruction, moving about and spreading without interruption, the ray too has the name cakra; and because of these same qualities the parts of the year, the seasons and so on, have this name too. (Ni. 4 26 *[as supplied: no hyphen]*) The meaning is that it undergoes revolution in the form of recurrence, like a wheel.
+
+सप्त अश्वाः वहंति (*sapta aśvāḥ vahaṃti*)—if referring to Āditya, the meaning is seven horses.
+
+अयुक्त सप्त हरितः सधस्थाद्या ईं वहंति सूर्यं धृताचीः । धामानि मित्रावरुणा युवाकुः सं यो यूथेव जनिमानि चष्टे (*ayukta sapta haritaḥ sadhasthādyā īṃ vahaṃti sūryaṃ dhṛtācīḥ | dhāmāni mitrāvaruṇā yuvākuḥ saṃ yo yūtheva janimāni caṣṭe*)
+(Ṛ. Saṃ. 7-60-3)
+In such Ṛks it is well known that seven horses are yoked to the chariot and bear the Sun. And if सप्त अश्वाः (*sapta aśvāḥ*) refers to the year, the six all-pervading seasons together with the intercalary month make up the parts of the year; the word "horse" for them shows the characteristic of pervading the whole world. Even when the word "horse" gives the meaning of the well-known animal used as a means of conveyance, it shows just this quality of the horse.
+
+अश्वः कस्मादश्नुतेऽध्यानं । महाशनो भवतीति वा (*aśvaḥ kasmādaśnute 'dhyānaṃ | mahāśano bhavatīti vā*)
+(३. (*3.*) 2-27) *[as supplied: so printed, not ನಿ.]*
+The Nirukta author's etymology shows the derivation of this word: from pervading the road with great speed, or from eating much food. The same meaning is possible here. It was said above that, with reference to the year, the six seasons together with the intercalary month are the seven horses. The same is said in the Śatapatha:
+
+सप्तर्तवः संवत्सरस्य .... .... .... त्रयोदश वै मासाः संवत्सरस्य (*saptartavaḥ saṃvatsarasya .... .... .... trayodaśa vai māsāḥ saṃvatsarasya*)
+(श ब्रा. (*śa brā.*) 12-3-2-1) *[as supplied: abbreviation ಶ ಬ್ರಾ.]*
+It is said in such sentences. Because the whole activity of the world goes on only by the seven-wheeled (circle) that contains such seven horses, it is described as सप्तचक्रं सप्ताश्वाः वहंति (*saptacakraṃ saptāśvāḥ vahaṃti*).
+
+कालात्स्रवंति भूतानि कालाद्वृद्धिं प्रयांति च । काले चास्तं नियच्छंति कालो मूर्तिरमूर्तिमान् (*kālātsravaṃti bhūtāni kālādvṛddhiṃ prayāṃti ca | kāle cāstaṃ niyacchaṃti kālo mūrtiramūrtimān*)
+(मै. उ. (*mai. u.*) 6-14) *[as supplied: abbreviation ಮೈ. ಉ.]*
+
+### Printed p. 311
+*Running head: [೨. ೨. ಅ. ೩. ವ. ೧೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 311] (as supplied).*
+
+It is stated here too that all beings move about, grow, and attain setting by time, in the form of Āditya or in the form of the year.
+
+सप्त स्वसारः—स्वः आदित्यः । तेन सारिताः परस्परं स्वसृभूता वा सप्तसंख्याका रश्मयः ऋतवश्च (*sapta svasāraḥ—svaḥ ādityaḥ | tena sāritāḥ parasparaṃ svasṛbhūtā vā saptasaṃkhyākā raśmayaḥ ṛtavaśca*) It may be understood either as the rays, which are made to move by Āditya and which are in the form of sisters, or as the seven seasons. Or परस्परस्वसृभूताः देवनद्यः अभि संनवंते (*parasparasvasṛbhūtāḥ devanadyaḥ abhi saṃnavaṃte*): it is also explained as the seven divine rivers.
+
+अवर्धयन्तुभगं सप्त यह्वीः श्वेतं जज्ञानमरुषं महित्वा । शिशुं न जातमभ्यारुरश्वा देवासो अग्निं जनिमन्वपुष्यन् (*avardhayantubhagaṃ sapta yahvīḥ śvetaṃ jajñānamaruṣaṃ mahitvā | śiśuṃ na jātamabhyāruraśvā devāso agniṃ janimanvapuṣyan*)
+(Ṛ. Saṃ. 3-1-4)
+As described in such Ṛks, and also as described in sentences such as
+
+याः सप्त प्राच्यः स्रवंति ताः स स सप्तकपालो भवति सप्त हि ता याः प्राच्यः स्रवंति (*yāḥ sapta prācyaḥ sravaṃti tāḥ sa sa saptakapālo bhavati sapta hi tā yāḥ prācyaḥ sravaṃti*)
+(श. ब्रा. (*śa. brā.*) 9-3-18)
+Sāyaṇa has explained that the seven divine rivers may be meant.
+
+गवां सप्तनाम (*gavāṃ saptanāma*)—the word go here means speech in the form of praise. सप्तस्वरोपेतैः सामभिः (*saptasvaropetaiḥ sāmabhiḥ*) means by Sāmans endowed with the seven notes.
+
+परि कोशं मधुश्च तमव्यये वारे अर्षति । अभि वाणीर्यषीणां सप्त नूषत॥ (*pari kośaṃ madhuśca tamavyaye vāre arṣati | abhi vāṇīryaṣīṇāṃ sapta nūṣata‖*)
+(Ṛ. Saṃ. 9-103-3)
+In such places it may be "by the seven metres", as in ऋषीनां सप्त वाणीः सप्तच्छंदांसि (*ṛṣīnāṃ sapta vāṇīḥ saptacchaṃdāṃsi*), or it may mean by the Sāma songs of the nature of the seven notes. The meaning is the Sāma song that praises Āditya, the cause of worldly activity.
+
+*[Label as supplied: ವ್ಯಾಕರಣ ಪ್ರಕಿಯಾ, repaired by the script to ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ.]*
+**Grammar (Vyākaraṇa-prakriyā)**
+*Grammar (transcribed, not explained):*
+स्वसारः—असु क्षेपणे (*svasāraḥ—asu kṣepaṇe*): a root; when सु (*su*) is the upapada, by सुञ्चसेर्यन् (*suñcaseryan*) (Uṇ. Sū. 2-253 *[as supplied: ಉ.ಸೂ, no full stop]*) the suffix ṛn; the yaṇ substitution; the word becomes स्वस्य (*svasya*) *[as supplied]*; since the suffix has n as an indicatory letter, the initial-acute accent results.
+नवंते— नवं कुर्वंति इति नवंते (*navaṃte— navaṃ kurvaṃti iti navaṃte*): a denominative root; by the statement तत्करोति तदाचष्टे (*tatkaroti tadācaṣṭe*) the suffix ṇic; by इद्ववद्भाव (*idvavadbhāva*) *[as supplied: so printed]* the loss of ṭi; by छंदस्युभयथा (*chaṃdasyubhayathā*) the ārdhadhātuka designation (printed ಆರ್ದಧಾತುಕ, *sic*) for śap (continued on p. 312)
+
+### Printed p. 312
+*Running head: 312 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+being present, taking that as the cause, the loss of ṇic; the form is the third person singular of laṭ; the accent of a finite verb (nighāta) results.
+निहता—डु धाण् धारणपोषणयोः (*nihatā—ḍu dhāṇ dhāraṇapoṣaṇayoḥ*) *[as supplied: ನಿಹತಾ, where the Pada text has ನಿಹಿತಾ]*: a root; the suffix kta in the passive; by दधातेर्हिः (*dadhāterhiḥ*) (Pā. Sū. 7-4-42 *[as supplied: ಪಾ. ಸೂ without full stop]*) the substitute hi for the root; by गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the prefix (ni) receives the udātta accent; in the neuter plural, by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-70) the loss of śi. ॥ 3 ॥
+
+*[Label as supplied: ಸಂಹಿತಾಪಾತಕಃ, repaired by the script to ಸಂಹಿತಾಪಾಠಃ.]*
+*[A figure line stood before the Saṃhitā block of Ṛk 4. I looked at the picture: it only repeats the Saṃhitā block that kn.md already has as text, so the figure line was removed. The picture seems to read the last word of the verse with ಪ್ರಷ್ಟು-, where kn.md has ಪೃಷ್ಟು-; kn.md is kept as supplied.]*
+
+#### Ṛk 4
+**॥ संहितापाठः ॥**
+> को द॑दर्श प्रथ॒मं जाय॑मानमस्थ॒न्वंतं॒ यद॑न॒स्था॑
+> भिभ॑र्ति ।
+> भूम्या॒ असु॒रसृ॑गा॒त्मा क्व॑ स्वि॒त्को वि॒द्वांस॒मुप॑ गा॒त्पृष्टु॑मे॒तत् ॥ ४ ॥
+*[Label as supplied: ಚಡಪ. ಈ, repaired by the script to ಪದಪಾಠಃ.]*
+**॥ पदपाठः ॥**
+> कः ! द द र्श । प्रथमं । जायमानं । असन्वंतं । यत् । अनस्था । बिभर्ति ।
+> भूम्याः । असुः । असृक् । आत्मा । क्व । स्वित् । कः । विद्वांसं । उप । गात् । प्रष्टुं ।
+> एतत् ॥ ४ ॥
+*[as supplied: the first Pada words are printed with stray marks, "ಕಃ ! ದ ದ ರ್ಶ".]*
+*[Label as supplied: ಸಾಯುಣಭಾಷ್ಯಂ, repaired by the script to ಸಾಯಣಭಾಷ್ಯಂ.]*
+**॥ सायणभाष्यम् ॥**
+> एवं प्रपंचस्य कालायत्ततां प्रतिपाद्य तस्य कारणभूतस्य परमेश्वरस्याविषयत्वमाह । को ददर्श । को द्रष्टुं शक्नु यात् । कदा । प्रथमं । सृष्टेः पूर्वं ।
+> अव्याकृतावस्थायामित्यर्थः । किं । जायमानं । प्रथमभावविकारमापन्नं । उत्पद्यमानं प्रपंचमित्यर्थः । दुर्ज्ञेयत्वे हेतुमाह । यद्यस्मादस्थन्वंतमस्थिमंतं
+> सशरीरं । उपलक्षणमेतत् । कार्यभावमापन्नमित्यर्थः । अनस्थास्थिरहिताशरीरा
+> सांख्यप्रसिद्धा प्रकृतिर्वेदांतप्रसिद्धेश्वरायत्ता माया बिभर्ति गर्भवदंतर्धारयति ।
+> अव्याकृतावस्थायामनस्थोऽशरीरः परमेश्वरो बिभर्ति । यदा केवलः परमेश्वरो
+*(The bhāṣya continues on p. 313.)*
+
+### Printed p. 313
+*Running head: [ಅ. ೨. ಆ ೩. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 313] (as supplied).*
+
+*[Continuing the Sāyaṇa-bhāṣya from p. 312.]*
+> मायाशबलितः सन्निदं जगन्निर्मितवानुत्पत्तिसमये देहादिसहितस्य कस्यचिदभावात्को ददर्श । तदानीं मनो नित्यमात्मा च नित्यः तत्संयोगात्कच्चिदात्मा जानातीति
+> चेत् सोऽपि न संभवतीत्यत आह । भूम्याः संबंधि पार्थिवं स्कूलशरीरं असुः
+> प्राणः तमपलक्षितं सूक्ष्मशरीरं असृक् शोणितं । एतत्सप्तधातूपलक्षकं । यद्यपि
+> शरीरं पंचभूतात्मकं तथापि भूतद्वयप्रत्यक्षत्वात्तदपेक्षयोक्तं । आत्मा तैः
+> संबद्धश्चेतनः क्व स्वित् । कुत्रास्त्रे । न कच्चिदस्तीत्यर्थः । नान्यकिंचन मिषत् । ऐ- अ-
+> २-४-१ । इति श्रुतेः । विद्वांसं जगत्कारणविषयज्ञानवंतमन्यं गुर्वादिकमेतत्कारणं प्रष्टुं कः शिष्योल्पमतिरुप गात् । उपगच्छति । तादृशो देहेंद्रियसंघातरूप आत्मा तस्मिन्समये कुत्रास्ति । प्रष्टा प्रतिवक्ता चोभावपि नास्तीत्यर्थः ।
+> न तु तद्वितीयमस्ति ततोऽन्यद्विभक्तं यत्पश्येदिति श्रुतेः । यद्वा । प्रथमं प्रथमभाविनं जगतः कारणभूतं को ददर्श । कः साक्षात्करोति । जायमानमस्थन्वंतं
+> मनुष्यमनस्थिकः परमेश्वरः सशरीरमशरीरो यद्यस्माद्बिभर्ति । द्रष्टुरसि तत्कार्यत्पादिति भावः । शिष्टं समानं ॥
+*Gist:* Who saw the primeval being at his birth? Where is the self amid earthly breath and blood? Who goes to a sage to ask?
+**प्रतिपदार्थ (Pratipadārtha)**
+यत् (*yat*)—by which cause of worldly activity; अस्थन्वंतं (*asthanvaṃtaṃ*)—the Lord who has made the universe itself his body; अनस्था (*anasthā*)—Prakṛti, or Māyā, who is bodiless; बिभर्ति (*bibharti*)—bears (such a one); प्रथमं जायमानं (*prathamaṃ jāyamānaṃ*)—the Lord who was (himself) born before the creation of the universe; कः (*kaḥ*)—who indeed; ददर्श (*dadarśa*)—has seen [or: प्रथमं (*prathamaṃ*)—the Lord who was unmanifest before creation; कः ददर्श (*kaḥ dadarśa*)—who indeed has seen]; असुः (*asuḥ*)—the subtle body marked by breath; असृक् (*asṛk*)—the gross body marked by blood, flesh and so on; भूम्याः (*bhūmyāḥ*)—belonging to the earth (earthly); आत्मा (*ātmā*)—the conscious principle mixed with them; क्व स्वित् (*kva svit*)—where is it?; एतत् (*etat*)—the nature of this conscious principle; प्रष्टुं (*praṣṭuṃ*)—to ask and know; कः (*kaḥ*)—what man of small understanding; विद्वांसं (*vidvāṃsaṃ*)—what teacher who knows the cause and nature of the world; उप गात् (*upa gāt*)—approaches.
+**भावार्थ (Bhāvārtha)**
+By what cause of worldly activity the bodiless Māyā or Prakṛti bears the Lord who has made the world itself his body: who, indeed, has known such an unmanifest Lord before the creation of the universe? The subtle body marked by breath and the gross body marked by blood, flesh and so on are earthly. Where is the conscious principle that is joined with them? And what pupil indeed approaches a teacher to learn its nature?
+
+### Printed p. 314
+*Running head: 314 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+**Printed English**
+Who has seen the primeval (being) at the time of his being born ; what is that endowed with substance which the unsubstantial sustains: from earth are the breath and blood, but where is the soul : who may repair to the sage to ask this?
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk the connection and the difference between Prakṛti and the Lord are stated. It is explained that the unmanifest body of the Lord is beyond grasp and inexpressible, and that his nature can be known only to a small extent through knowledge of the manifest world. The relation between the conscious self and the unconscious body is also wonderful (printed ಆಶ್ಚರಕರ, *sic*). The question is asked: what is the conscious principle without a body, what is its nature, who will tell it, or who has the curiosity to know it? Although different meanings could be shown for many Ṛks of this sūkta according to the differences of philosophical schools, here only the view stated in Sāyaṇa's explanation (printed ಸಾಯಣಠ, *sic*) has been followed in the explanation.
+
+अनस्था—अस्थिरहिता अशरीरा सांख्यप्रसिद्धा प्रकृतिः वेदांतप्रसिद्धा ईश्वरायत्ता माया (*anasthā—asthirahitā aśarīrā sāṃkhyaprasiddhā prakṛtiḥ vedāṃtaprasiddhā īśvarāyattā māyā*)—it may be understood either as the original Prakṛti taught in the Sāṃkhya system or as the Māyā taught by the Vedāntins. Prakṛti is of two kinds, unmanifest Prakṛti and manifest Prakṛti. The meaning is that Prakṛti, which is purely of the nature of the three guṇas sattva, rajas and tamas and without a body, or Māyā, which is bodiless, helps the Lord in the causal state (printed ಕಾರಾವಸ್ಥೆ, as supplied) with the worldly activity in the form of effect (printed ಕಾರರೂಪದ). [That which is without bones is anastha. Ṛ. Saṃ. 8-1-34.]
+
+अस्थन्वंतं—अस्थिमंतं सशरीरं (*asthanvaṃtaṃ—asthimaṃtaṃ saśarīraṃ*)—the meaning is the Lord who has a body furnished with bones. If a seeming contradiction is raised here, from where the Lord got a body furnished with bones, the answer is Sāyaṇa's उपलक्षणमेतत् (*upalakṣaṇametat*): this is merely a metaphorical and figurative description. He explains कार्यभावमापन्न मित्यर्थः (*kāryabhāvamāpanna mityarthaḥ*) as: it means one who has taken the form of the world, which is the effect.
+
+Before creation the universe too was merged in the Lord; there was no distinction of sentient and insentient (cit and acit), and only the unmanifest Lord alone existed; therefore asking "who has known the nature of such an inexpressible Lord?",
+
+को ददर्श प्रथमं जायमानं (*ko dadarśa prathamaṃ jāyamānaṃ*)—who has seen the form of the Lord born at the first? Thus the small understanding of man and the ungraspable nature of the Lord are shown. How the cosmic principle was before creation and at the time of creation is described thus in the Ṛk-saṃhitā. Just as here, that description too is inquiring and in question form.
+
+### Printed p. 315
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೧೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 315] (as supplied).*
+
+नासदासीन्नोसदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् । किमावरीवः कुह कस्य शर्मन्नंभः किमासीद्गहनं गभीरं (*nāsadāsīnnosadāsīttadānīṃ nāsīdrajo no vyomā paro yat | kimāvarīvaḥ kuha kasya śarmannaṃbhaḥ kimāsīdgahanaṃ gabhīraṃ*)
+(Ṛ. Saṃ. 10-128-1) *[as supplied: so printed]*
+Before creation there was neither being nor non-being. (Manifest, unmanifest.) There was no shining atmosphere. Who knows what pervaded the whole universe, what that profound principle was? Could that principle have been deep water? (Could it have been water?)
+
+न मृत्युरासीदमतं नृ तर्हि न रात्र्या अह्न असीत्प्रकेतः । आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास (*na mṛtyurāsīdamataṃ nṛ tarhi na rātryā ahna asītpraketaḥ | ānīdavātaṃ svadhayā tadekaṃ tasmāddhānyanna paraḥ kiṃ canāsa*)
+(Ṛ. Saṃ. 10-129-2)
+(Ṛ. Saṃ. 10-129-2) *[as supplied: the reference is printed twice]*
+At that time there was neither death nor the deathless (things subject to death or free from death), nor any means that gives knowledge of day and night. A single principle, sole and without a second, alone existed, and there was nothing else besides it.
+
+तम असीत्तमसा गूळ्हमग्रेऽप्रकेतं सलिलं सर्वमा इदं । तुच्छेनाभ्वपिहितं यदासीत्तपसस्तन्महिनाजायतैकं (*tama asīttamasā gūḷhamagre 'praketaṃ salilaṃ sarvamā idaṃ | tucchenābhvapihitaṃ yadāsīttapasastanmahinājāyataikaṃ*)
+(Ṛ. Saṃ. 10-129-3)
+At first there was only a mass of darkness, without light, profound like the ocean. And the principle covered by that darkness was different from being and non-being and beyond worldly knowledge. And by the fruit of its austerity (tapas) and by its greatness the manifestation of the single principle took place. Since there are such descriptions of the state before creation, and since no one is able to know it, the question को ददर्श प्रथमं जायमानं (*ko dadarśa prathamaṃ jāyamānaṃ*) is asked. Explaining this, Sāyaṇa says यदा केवलः परमेश्वरो मायाशबलितः सन्निदं जगन्निर्मितवान् उत्पत्तिसमये देहादिसहितस्य कस्यचिदभावात् (*yadā kevalaḥ parameśvaro māyāśabalitaḥ sannidaṃ jagannirmitavān utpattisamaye dehādisahitasya kasyacidabhāvāt*); that is, he has said so because before the manifestation, as if diversified by the power of Māyā, there was no one other than him. Thus the state of the Lord at the time when the worldly universe was absent and only the Supreme Brahman existed is described in the Upaniṣads and so on in this way:
+
+सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयं । तद्भैक अहुरसदेवेदमग्र आसीदेकमेवाद्वितीयं तस्मादसतः सज्जायत । ब्रह्म वा इदमग्र आसीदेकमेव तदेकं सन्न व्यभवत् (*sadeva somyedamagra āsīdekamevādvitīyaṃ | tadbhaika ahurasadevedamagra āsīdekamevādvitīyaṃ tasmādasataḥ sajjāyata | brahma vā idamagra āsīdekameva tadekaṃ sanna vyabhavat*)
+(छा. उ. (*chā. u.*) 6-2-1)
+(Bṛ. U. 1-4-11) *[as supplied: ಬೃ. ಉ without full stop]*
+Before the creation of the being (manifest) universe there was a single principle of the nature of non-being (unmanifest); nothing else existed apart from it: thus in the Chāndogya, and in the Bṛhadāraṇyaka that this single principle itself *(the sentence is cut off at the end of the page and continues in the next window)*.
+
 ---
 
-**Progress note:** Done through printed p. 309. Sūkta 164: Ṛk 2 special topics (Vāyu/year), grammar; Ṛk 3 text, Sāyaṇa, pratipadārtha, bhāvārtha, special topics
+**Progress note:** Done through printed p. 315. Sūkta 164: Ṛk 3 special topics and grammar; Ṛk 4 text, Sāyaṇa, pratipadārtha, bhāvārtha, special topics (start of Nāsadīya quotations)
