@@ -706,6 +706,91 @@ Quoting this ṛk (Ni. 5-3), (the authors of the Nirukta) have shown the differe
 
 My servants threw me, whose body was decrepit with old age, face downwards into the river. Knowing that I was helpless, may the rivers, which are most beneficial to the world like a mother, not make me sink. When Traitana, one of my servants, wounded me on the head and shoulder with a sword, by your (the Aśvin deities') grace he struck his own head and shoulder himself and ran away.
 
+### Printed p. 27
+
+*Running head: [ಅ. ೨ ಅ. .೩ ವ. ೧.] Ṛgveda-saṃhitā, p. 27 (printed so, as supplied).*
+
+**Printed English translation**
+
+Let not the maternal waters swallow me, since the slaves hurled down this decrepit (old man); in like manner as Traitana wounded his head, so has the slave wounded his own, and has struck his breast and shoulders,
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The application (*viniyoga*) of this fifth ṛk, नमा गरन् (*namā garan*) *[so printed]*, is stated by the great sage Śaunaka in his work called Ṛgvidhāna as follows: if a murderous and violent man, a tiger or a wolf comes face to face during a journey, then, if this mantra न मा गरन् (*na mā garan*) is chanted, the fear that might arise from them is removed. "Three nights" means: fast for three days, begin to chant this mantra at night and continue chanting until sunrise, then bathe in a river, stand facing the sun and praise it; then thieves and sinful men do not come near such a man, and when he travels on the road such a man alone can protect even a hundred people who are with him: this is stated in Ṛgvidhāna 1-25. Here, for the word आततायि (*ātatāyi*),
+
+अग्निदो गरदश्चैव शस्त्रोन्मत्तो धनापहः । (*agnido garadaścaiva śastronmatto dhanāpahaḥ |*)
+क्षेत्रदारहरश्चैतान् षड्विद्यादाततायिन ॥ (*kṣetradāraharaścaitān ṣaḍvidyādātatāyina ‖*)
+
+(Śukranīti, printed "ಶುಕ್ರಸೀತಿ" *[so printed]*)
+
+there is the following explanation in the Śukranīti: one who sets fire to a house, one who kills by giving poison, one who holds a sharp weapon in his hand and causes fear to others, one who seizes the wealth of others, one who deceitfully seizes land such as paddy-fields, fields and gardens, and one who abducts another man's wife: these six are called *ātatāyins*. Śaunaka has said that if one sees such sinners and recites the ṛk न मा गरन् (*na mā garan*), that sin is removed.
+
+सुसमुब्धं (*susamubdhaṃ*)—सुष्टु संकुचितसर्वांगं । (*suṣṭu saṃkucitasarvāṃgaṃ |*) This is explained as "having a body made contracted". Whether it is contracted because it is worn out by old age, or because the servants tied his hands and feet, is not explained. It is also difficult to say from which root this word is formed. The scholar Monier Williams, in his Sanskrit-English Dictionary, explains it as सम्+उभ् (उंभाति) (*sam+ubh (uṃbhāti)*) "to cover up, confined", saying that it is formed from the root उभ् (*ubh*). With this help, Sāyaṇa's word "contracted" (संकुचित (*saṃkucita*))
+
+### Printed p. 28
+
+*Running head: 28 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158 (printed with a full stop after "೧೫೮").*
+
+means "having a body made contracted because the servants bound it". But the scholar Wilson has translated this word as "decrepit"; then it must be understood that the body is worn out by old age and contracted. Monier Williams has clearly said that the meaning of सुसमुब्धं (*susamubdhaṃ*) is "well-bound, feltered" *[so printed; Latin letters in the supplied text]* (bound with nooses). In the Ṛk-saṃhitā, apart from this ṛk, the word is used in two other places: in one place merely as उब्बं (*ubbaṃ*) and in another as समुब्धं (*samubdhaṃ*).
+
+ते गव्यता मनसा दृढमुब्बं गा येमानं परि षंतमद्रिं । (*te gavyatā manasā dṛḍhamubbaṃ gā yemānaṃ pari ṣaṃtamadriṃ |*)
+दृळ्हं नरो वचसा दैवेयन व्रजं गोमंतमुशिजो वि ववुः ॥ (*dṛḷhaṃ naro vacasā daiveyana vrajaṃ gomaṃtamuśijo vi vavuḥ ‖*)
+
+(Ṛ. Saṃ. 4-1-15)
+
+In this ṛk, for the word उब्धं (*ubdhaṃ*) (Sāyaṇa) gives first the meaning समुब्धं संहितं (*samubdhaṃ saṃhitaṃ*), "collected, brought together" (here too the sense is contraction), and then says that, यद्वा उभिः पूर्णार्थः (*yadvā ubhiḥ pūrṇārthaḥ*) गोभिः पूर्णं । (*gobhiḥ pūrṇaṃ |*), formed from the root उभ् (*ubh*) in the sense of fullness, it may also mean "filled (with cows)". And,
+
+कुमारं माता युवतिः समुब्बं गुहा बिभर्ति न ददाति पित्रे । (*kumāraṃ mātā yuvatiḥ samubbaṃ guhā bibharti na dadāti pitre |*)
+अनीकमस्य न मिनज्जनासः पुरः पश्यंति निहितमरतौ ॥ (*anīkamasya na minajjanāsaḥ puraḥ paśyaṃti nihitamaratau ‖*)
+
+(ಮ್ಯ. ಸಂ. 5-2-1) *[the printed abbreviation "ಮ್ಯ. ಸಂ." is kept; probably Ṛ. Saṃ., not expanded]*
+
+here too, for the word समुब्बं (*samubbaṃ*) *[so printed]* he gives first चक्रेण हतं (*cakreṇa hataṃ*) and the second time निगूढं (*nigūḍhaṃ*). So Sāyaṇa too has not given an exact meaning. In the present ṛk the contraction of the body is the purport; it may be due to old age or to binding.
+
+नद्यः (*nadyaḥ*)—नद्यः कस्मान्नदना इमा भवंति शब्दवत्यः । (*nadyaḥ kasmānnadanā imā bhavaṃti śabdavatyaḥ |*) (Ni. 2-24) The word is formed from the root नद् (*nad*), which gives the sense "to make a sound". For these rivers there is the epithet मातृतमाः (*mātṛtamāḥ*), explained as "very beneficial, like a mother". The rivers not only are the support of food in the form of plants and the foundation of the life of the world, but also show their unearthly love like a mother to the whole world and do good. In this context the authors of the Nirukta have cited a story to show the maternal love of the river:
+
+विश्वामित्र ऋषिः सुदासः पैजवनस्य पुरोहितो बभूव । स वित्तं गृहीत्वा (*viśvāmitra ṛṣiḥ sudāsaḥ paijavanasya purohito babhūva | sa vittaṃ gṛhītvā*)
+विपाट्टतुद्रो संभेदमाययौ । अनुययुरितरे । स विश्वामित्रो (*vipāṭṭatudro saṃbhedamāyayau | anuyayuritare | sa viśvāmitro*)
+
+### Printed p. 29
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧. ] Ṛgveda-saṃhitā, p. 29 (as supplied).*
+
+नदीस्तुष्टाव ' गाधा भवत ' इति । (*nadīstuṣṭāva ' gādhā bhavata ' iti |*)
+
+(Ni. 2-24)
+
+Viśvāmitra the seer was the family priest (*purohita*) of the king Sudās, son of Pijavana. Once he collected wealth for a sacrifice and came to the confluence of the rivers Vipāś and Śutudrī, and praised them with the ṛk quoted below, praying that they would make it easy for him to cross.
+
+रमध्वं मे वचसे सोम्याय ऋतावरीरुप मुहूर्तमेवैः । (*ramadhvaṃ me vacase somyāya ṛtāvarīrupa muhūrtamevaiḥ |*)
+प्र सिंधुमच्छा बृहती मनीषावस्युरह्वे कुशिकस्य सूनुः ॥ (*pra siṃdhumacchā bṛhatī manīṣāvasyurahve kuśikasya sūnuḥ ‖*)
+
+(Ṛ. Saṃ. 3-33-5)
+
+"I, the son of Kuśika, pray with the most excellent praise. Stop your flow for a moment and make it convenient for our passage." When he prayed thus, the rivers (said):
+
+इंद्रो अस्मा अरदद्वज्रबाहुरपाहन्वृत्तं परिधिं नदीनां i (*iṃdro asmā aradadvajrabāhurapāhanvṛttaṃ paridhiṃ nadīnāṃ i*)
+देवोऽनयत्सविता सुपाणिस्तस्य वयं प्रसवे याम उर्वीः ॥ (*devo 'nayatsavitā supāṇistasya vayaṃ prasave yāma urvīḥ ‖*)
+
+(Ṛ. Saṃ. 3-33-6)
+
+"Indra of the thunderbolt arm made a path for our flow. Savitṛ of beautiful hands brought us here. By his impulsion we flow; yet" —
+
+अ ते कारो शृणवामा वचांसि ययाथ दूरादनसा रथेन । (*a te kāro śṛṇavāmā vacāṃsi yayātha dūrādanasā rathena |*)
+नि ते नंस्यॆ पीप्यानेव योषा मर्यायेव कन्या शश्वचै ते । (*ni te naṃsyè pīpyāneva yoṣā maryāyeva kanyā śaśvacai te |*)
+
+(Ṛ. Saṃ. 3-33-10)
+
+"we have accepted your prayer. As a mother bends lovingly so that her child may suckle, and as a young woman bends for the embrace of her beloved, so we bend and make a way for you": thus the authors of the Nirukta have cited the story in which the rivers show their maternal love. The same point,
+
+सूक्ते प्रेति तु नद्यश्च विश्वामित्रः समूदिरे ॥ (*sūkte preti tu nadyaśca viśvāmitraḥ samūdire ‖*)
+पुरोहितः सन्निज्यार्थं सुदासा सह यन्नृषिः । (*purohitaḥ sannijyārthaṃ sudāsā saha yannṛṣiḥ |*)
+विपाट्टु तुद्रोः संभेदं शमित्येते उवाच ह ॥ (*vipāṭṭu tudroḥ saṃbhedaṃ śamityete uvāca ha ‖*)
+
+(Bṛ. De. 4-105-6) *[printed "ಬೃ. ದೇ. ೪-೧೦೫-೬"]*
+
+in these sentences the authors of the Bṛhaddevatā too indicate the occasion on which Viśvāmitra praised the rivers and won their maternal love. Besides, the comparison of the help of the rivers to the loving help of mothers can be seen in the Ṛk-saṃhitā.
+
 ---
 
-**Progress note:** Done through printed p. 26 (PDF 26). Sūkta 158 Ṛk 4 Special Topics end and grammar, Ṛk 5 Saṃhitā/Pada (from picture), bhāṣya, Pratipadārtha, Bhāvārtha
+**Progress note:** Done through printed p. 29 (PDF 29). Sūkta 158 Ṛk 5 English, Special Topics (Ṛgvidhāna, susamubdha, nadyaḥ, Viśvāmitra and the rivers)
