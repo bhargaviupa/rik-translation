@@ -3395,6 +3395,89 @@ Here the joy accompanied by the intoxication produced by the Soma-drinking of In
 > *vadhaḥyaṃtīṃ | bahubhyaḥ | pra | ekaḥ | abravīt | ṛtā | vadaṃtaḥ | camasān |*
 > *apiṃśata ‖ 9 ‖*
 
+### Printed p. 119
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೫. ] Ṛgveda-saṃhitā 119 (as supplied).* (The Ṛk 9 Saṃhitā and Pada are at the end of the previous window.)
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಶಾಯಣಭಾಷ್ಯಂ", inside the block); the standard label is inserted and the garbled word kept in kn.md as a note. Hyphenated line breaks in the block are joined, and the Latin letter "S" in "ವಧೋS-ರ್ಕ" is read as the avagraha (ಽ).]*
+
+> चमसचतुर्धाकरणकाले किमिति सत्यं वदंतो व्यभजन्निति तदाह । एकस्त्रयाणामन्यतम आपो भूयिष्ठा इत्यब्रवीत् । न ह्युदकात्पशस्त्रं लोकोपकारकं
+> तत्त्वांतर मस्ति । आपो भूयिष्ठा इत्यृतमवादीत् । अपामेव श्रेष्ठत्वमप एव
+> ससर्जादौ । मनु. १-८ । इत्यादिशास्त्रात् । तथान्योऽग्निर्भूयिष्ठ इत्यब्रवीत् ।
+> आंतरं बाह्यं च दाहपाकभुक्तजरणादिव्यापारेणाग्नॆरेव जगन्निर्वाहकत्वादग्नेरेव
+> भूयिष्ठत्वमित्येव मन्यते। तथा वर्धयंतीं! वधरिति रेफांतोऽपि वज्रनाम वधोऽर्क इति तन्नामसु पाठात् । तदिच्छति वृष्टुदकायेति वर्धयंती मेघपंक्तिरुच्यते।
+> यद्यपीयं स्ववधार्थं वज्रं स्वयमेव नापेक्षते तथापि वृष्ट्यर्थमिंद्रवज्रेण
+> हन्यमानत्वात् तदिच्छंतीत्युपचर्यते । यद्वा । बहुभ्यस्तेषामर्थाय वर्धयंती
+> वधमात्मन इच्छंतीं भूमिं ॥ छांदसो रेफोपजनः ॥ तामेवैको बहुभ्यः
+> संवादिभ्यः श्रेष्ठतमामब्रवीत् । उदकस्यापि मेघकारणत्वात् । एवमृता ऋतान्युक्तरूपाणि यथार्थानि पाक्यानि वदंतः परस्परं ब्रुवंतश्चमसानपिंशत । अवयविनोऽकुरुत । चतुर्धा व्यभजतेत्यर्थः ॥ पिश अवयवे । शे मुचादीनामिति नुम् ॥
+> इदमेवर्तवदनमपेक्ष्यभुशब्दं व्याचक्षणो यास्कः । ऋभव उरु भांतीति
+> वर्तेन भांतीति वर्तेन भवंतीति वा । नि. ११-१५ । इत्युक्तत्वात् ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): one Ṛbhu called water the best, another fire, another the earth (the rain-cloud), each giving reasons; speaking true things they divided the ladle in four.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आपः (*āpaḥ*)—water; भूयिष्ठा (*bhūyiṣṭhā*)—most praiseworthy (the most excellent of all); इति (*iti*)—thus; एकः (*ekaḥ*)—one of the Ṛbhus; अब्रवीत् (*abravīt*)—said; अग्निः (*agniḥ*)—fire; भूयिष्ठः (*bhūyiṣṭhaḥ*)—the most excellent; इति (*iti*)—thus; अन्यः (*anyaḥ*)—another; अब्रवीत् (*abravīt*)—said; एकः (*ekaḥ*)—the third; वर्धयंतीं (*vardhayaṃtīṃ*) *[printed with a stray stop before it]*—the cloud or the earth; प्र (*pra*)—as more excellent; बहुभ्यः (*bahubhyaḥ*)—to all who were in dialogue; अब्रवीत् (*abravīt*) *[the hyphenated line break "ಅಬ್ರ-ವೀತ್" is joined]*—said; (एवं (*evaṃ*)—in this way) ऋता (*ṛtā*)—true matters; वदंतः (*vadaṃtaḥ*)—making clear and explaining; चमसान् (*camasān*)—(the one ladle); अपिशंत (*apiśaṃta*) *[so printed in the Pratipadārtha]*—divided so that it became four parts (four).
+
+**भावार्थ (Bhāvārtha)**
+
+One of the Ṛbhus said that water is the most excellent principle. Another said that fire is the best of all. The third said, to all the others who were in the dialogue there, that the earth is the most excellent of all. Thus, all of them, explaining true matters to one another, divided the single ladle so that it became four parts.
+
+### Printed p. 120
+
+*Running head: 120 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೧] (as supplied).*
+
+**Printed English translation**
+
+Waters are the most excellent, said one (of them): Agni is the most excellent, said another : the third declared to many the Earth (to be the most excellent), and thus speaking true things the Ribhus divided the ladle.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Ṛbhus, famed for their excellent works (स्वपसः (*svapasaḥ*)), have in this ṛk also revealed their excellent philosophical knowledge. One has told his view that water is the excellent principle, another that it is fire, the third that it is the earth. The subject of this dialogue is not what is the original principle of the whole world, but what is the most excellent principle in the whole world. But Sāyaṇa, by अपामेव श्रेष्ठत्वमप एव ससर्जादावित्यादिशास्त्रात् । (*apāmeva śreṣṭhatvamapa eva sasarjādāvityādiśāstrāt |*) *[so printed, "ಸಸರ್ಜಾದಾವಿ"; the bhāṣya block has "ಸಸರ್ಜಾದೌ"]* has said that, water being the first in all creation, it is the most excellent: this is one reason for its excellence. Or, by नह्युदकात्पशस्यं लोकोपकारकं तत्त्वांतरमस्ति (*nahyudakātpaśasyaṃ lokopakārakaṃ tattvāṃtaramasti*) *[the hyphenated line break "ನಹ್ಯುದ-ಕಾತ್ಪ" is joined]*—there is no other principle more beneficial to the world than water—he has shown the second reason for its excellence. In the present case water, fire and earth, all three, are well known as excellent principles. Whether one takes the point of being the first among all creations or the point of being beneficial to the world, all obtain a praiseworthy place by their distinction. Therefore these three views all reflect the truth. It should not be understood from this that they are opposed to one another. Since, in examining the original principle of the world, it is said at times that fire was created from water, at times that water was created from fire in the form of radiance, and that fire is the food of water, there is truth in the view of all three.
+
+आपो भूयिष्ठाः (*āpo bhūyiṣṭhāḥ*)—water is the origin of everything. From water comes food, from water purity, from water the origin of the other principles. Therefore, in support of the view that water is the most excellent, there is praise of water in many sentences.
+
+ओमानमापो मानुषीरमृक्तं धात तोकाय तनयाय शंयोः । (*omānamāpo mānuṣīramṛktaṃ dhāta tokāya tanayāya śaṃyoḥ |*)
+यूयं हि ष्ठा भिषजो मातृतमा विश्वस्य स्थातुर्जगतो जनित्रीः ॥ (*yūyaṃ hi ṣṭhā bhiṣajo mātṛtamā viśvasya sthāturjagato janitrīḥ ‖*) (Ṛ. Saṃ. 6-50-7)
+
+The waters are the producers of the whole world, movable and immovable. They are what gives all protection. They are nourishing like a mother to the whole universe. Moreover,
+
+आपो ह यद्बृहतीर्विश्वमायन् गर्भं दधाना जनयंतीरग्निं । (*āpo ha yadbṛhatīrviśvamāyan garbhaṃ dadhānā janayaṃtīragniṃ |*)
+ततो देवानुं समवर्ततासुरेकः कस्मै देवाय हविषा विधेम । (*tato devānuṃ samavartatāsurekaḥ kasmai devāya haviṣā vidhema |*) (Ṛ. Saṃ. 10-121-7)
+
+*[In the supplied text the reference line is printed twice; the second is kept in kn.md as an italic note.]*
+
+### Printed p. 121
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೫. ] Ṛgveda-saṃhitā 121 (as supplied).*
+
+The waters, the origin of the whole world, holding Hiraṇyagarbha within themselves for the creation of all beings marked by fire, pervaded the whole world. Prajāpati, the creator, was also born from there.
+
+आपो ह वा इदमग्रे सलिलमेवास । ता अकामयंत कथं नु प्रजायेमहीति ता आश्राम्यंस्तास्तपोऽतप्यंत तासु तपस्तप्यमानासु हिरण्मय (*āpo ha vā idamagre salilamevāsa | tā akāmayaṃta kathaṃ nu prajāyemahīti tā āśrāmyaṃstāstapo 'tapyaṃta tāsu tapastapyamānāsu hiraṇmaya*)
+मांडग्ं संबभूव । (*māṃḍagṃ saṃbabhūva |*)
+(ಶ. ಬ್ರಾ. 11-1-6-1) *[abbreviation "ಶ. ಬ್ರಾ." as printed, presumably the Śatapatha Brāhmaṇa, as the Kannada says; the hyphenated line break "ಪ್ರಜಾಯೇ-ಮಹೀತಿ" is joined; the word "ಹಿರಣ್ಮಯ-ಮಾಂಡಗ್ಂ" is split over two lines in the print and is quoted in two parts]*
+
+Before creation the waters alone covered the whole world. Wishing to increase in the form of progeny, they practised austerity, and from them a golden egg arose: thus the Śatapatha Brāhmaṇa states the meaning of the ṛk 10-121-7 of the Ṛgveda-saṃhitā. This same principle
+
+आपो अग्रे विश्वमावन् गर्भं दधाना अमृता ऋतज्ञाः । (*āpo agre viśvamāvan garbhaṃ dadhānā amṛtā ṛtajñāḥ |*)
+यासु देवीष्वधि देव आसीत् .... .... .... .... । (*yāsu devīṣvadhi deva āsīt .... .... .... .... |*) (ಅ. ವೇ. 4-2-6) *[the line ends in printed dots]*
+आपो वत्सं जनयंतीर्गर्भमग्रे समैरयन् । (*āpo vatsaṃ janayaṃtīrgarbhamagre samairayan |*)
+तस्योत जायमानस्य उल्ब आसीद्धिरण्ययः । (*tasyota jāyamānasya ulba āsīddhiraṇyayaḥ |*) (ಅ. ವೇ. 4-2-8) *[the reference line is printed twice; the second is kept in kn.md as an italic note; the abbreviation "ಅ. ವೇ." is as printed, presumably the Atharvaveda, as the Kannada says]*
+
+and so on is set forth also in the Atharvaveda. In the same way,
+
+इमा आपः सर्वेषां भूतानां मध्वासामपां सर्वाणि भूतानि मधु यश्चायमास्वप्सु तेजोमयोऽमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मदं सर्वं (*imā āpaḥ sarveṣāṃ bhūtānāṃ madhvāsāmapāṃ sarvāṇi bhūtāni madhu yaścāyamāsvapsu tejomayo 'mṛtamayaḥ puruṣo 'yameva sa yo 'yamātmedamamṛtamidaṃ brahmadaṃ sarvaṃ*) (ಬೃ. ಉ. 9-5-2) *[abbreviation and number as printed; the hyphenated line breaks "ಯಶ್ಚಾ-ಯಮಾಸ್ವಪ್ಸು" and "ಯೋಽಯ-ಮಾತ್ಮೇದ" are joined]*
+
+in the Madhuvidyā section of the Bṛhadāraṇyaka Upaniṣad the identity of the waters with Brahman is stated and the greatness of water is praised. In the Chāndogya Upaniṣad,
+
+आपो वावान्नाद्भूयस्तस्माद्यदा सुवृष्टिर्न भवति व्याधीयंते प्राणा अन्नं (*āpo vāvānnādbhūyastasmādyadā suvṛṣṭirna bhavati vyādhīyaṃte prāṇā annaṃ*)
+कनीयो भविष्यतीत्यथ यदा सुवृष्टिर्भवत्यानंदिनः प्राणा भवत्यन्नं बहु (*kanīyo bhaviṣyatītyatha yadā suvṛṣṭirbhavatyānaṃdinaḥ prāṇā bhavatyannaṃ bahu*)
+भविष्यतीत्याप एवेमा मूर्तायेयं पृथिवी यदंतरिक्षं यद्यौर्यत्पर्वता यद्देवमनुष्या यत्पशवश्च वयांसि च तृणवनस्पतयः श्वापदान्याकीटपतंगपिपीलकमाप एवेमा मूर्ता अप उपास्वेति ॥ (*bhaviṣyatītyāpa evemā mūrtāyeyaṃ pṛthivī yadaṃtarikṣaṃ yadyauryatparvatā yaddevamanuṣyā yatpaśavaśca vayāṃsi ca tṛṇavanaspatayaḥ śvāpadānyākīṭapataṃgapipīlakamāpa evemā mūrtā apa upāsveti ‖*) (ಫಾ. ಉ. 7-10-1) *[abbreviation as printed, "ಫಾ. ಉ."; the hyphenated line breaks "ಯದ್ಯೌರ್ಯ-ತ್ಪರ್ವತಾ" and "ಶ್ವಾಪದಾ-ನ್ಯಾಕೀಟ" are joined]*
+
+Water is greater than food. If there is no good rain, all beings fear that there will be a shortage of food. If there is good rain, they think that abundant and plentiful food will be obtained *[printed "ಪುಷ್ಪವೂ ಪುಷ್ಕಲವೂ", as supplied]*; the beings *[the supplied text ends here, in the middle of the sentence, with the cut-off word "ಪ್ರಾಣಿಗಳೆ"; the rest is in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 118 (PDF 118). Sūkta 161 Ṛk 8 Special Topics end and grammar; Ṛk 9 Saṃhitā and Pada
+**Progress note:** Done through printed p. 121 (PDF 121). Sūkta 161 Ṛk 9 bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (water as the first principle; to the Chāndogya quotation)
