@@ -791,6 +791,88 @@ Viśvāmitra the seer was the family priest (*purohita*) of the king Sudās, son
 
 in these sentences the authors of the Bṛhaddevatā too indicate the occasion on which Viśvāmitra praised the rivers and won their maternal love. Besides, the comparison of the help of the rivers to the loving help of mothers can be seen in the Ṛk-saṃhitā.
 
+### Printed p. 30
+
+*Running head: 30 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158 (printed with a full stop after "೧೫೮").* (The Special Topics of Ṛk 5 continue.)
+
+अभि त्वा सिंधो शिशुमिन्न मातरो वाश्रा अर्षंति पयसेव धेनवः । (*abhi tvā siṃdho śiśuminna mātaro vāśrā arṣaṃti payaseva dhenavaḥ |*)
+राजीव युध्वा नयसि त्वमित्सिचौ यदासामग्रं प्रवतामिनक्षसि ॥ (*rājīva yudhvā nayasi tvamitsicau yadāsāmagraṃ pravatāminakṣasi ‖*)
+
+(Ṛ. Saṃ. 10-75-4) *[printed "ಮ- ಸಂ." with a hyphen; read Ṛ. Saṃ. by the abbreviation rule and changed in kn.md]*
+
+In that (ṛk) it is described that, as a mother cow runs, making a sound, to her calf in order to give milk, the river rushes forward in the form of a flood, making a sound, in order to help the people. And,
+
+ओमानमापो मानुषीरमृक्तं धात तोकाय तनयाय शं योः । (*omānamāpo mānuṣīramṛktaṃ dhāta tokāya tanayāya śaṃ yoḥ |*)
+यूयं हि ष्ठा भिषजो मातृतमा विश्वस्य स्थातुर्जगतो जनित्रीः ॥ (*yūyaṃ hi ṣṭhā bhiṣajo mātṛtamā viśvasya sthāturjagato janitrīḥ ‖*)
+
+(Ṛ. Saṃ. 6-50-7)
+
+in this ṛk it is described that to the whole world, moving and unmoving, (the waters) give benefits greater even than those of mothers.
+
+अंबितमे नदीतमे देवितमे सरस्वति । (*aṃbitame nadītame devitame sarasvati |*)
+अप्रशस्ता इव स्मसि प्रशस्तिमंब नस्कृधि ॥ (*apraśastā iva smasi praśastimaṃba naskṛdhi ‖*)
+
+(Ṛ. Saṃ. 2-41-16)
+
+In this ṛk Sarasvatī, the best among the rivers, is praised as the best among mothers. Thus, as the loving help of the rivers is described in many places, in the present ṛk too Dīrghatamas, praising that quality, prays that they protect him without making him sink.
+
+गरन् (*garan*)—Formed from the root गृ (*gṛ*), which gives the sense "to swallow", it gives here the sense "to make sink". न गरन् (*na garan*), "do not make me sink": thus it is prayed.
+
+यथा ना शीर्णे गरमभिनिदध्यादेवं (*yathā nā śīrṇe garamabhinidadhyādevaṃ*)
+
+(Śa. Brā. 11-5-8-6)
+
+In sentences such as this the word गर (*gara*) is explained as an intoxicating substance.
+
+ग्ध (*gdha*)—It is formed from the root हन् (*han*), which gives the sense "to injure". हतवान् (*hatavān*): "struck himself" is the meaning. When (the slave) set out to strike Dīrghatamas with a sword, the Aśvin deities favoured Dīrghatamas and made those blows fall on Dīrghatamas's own slave Traitana, on his neck and arms; the seer says this with gratitude.
+
+### Printed p. 31
+
+*Running head: [ಆ. ೨ ಆ ೩. ವ. ೧.] Ṛgveda-saṃhitā, p. 31 (as supplied).*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses गरन् (*garan*) (root गृ (*gṛ*), *let* third person plural, suffix *jhi*, the *śap* augment by the Vedic rule, इतश्चलोपः (*itaścalopaḥ*) Pā. Sū. 3-4-97), दासा (*dāsā*) (root दसि (*dasi*), suffix *ṭa*/*ṭan* by Uṇ. Sū. 688), सुसमुब्बम् (*susamubbam*) *[so printed]* (root उब्ब (*ubba*) *[so printed]*, suffix *kta*, compound accent), अव अधुः (*ava adhuḥ*) (prefix अव (*ava*), root डुधाञ् (*ḍudhāñ*), aorist; गातिस्थाघु (*gātisthāghu*) Pā. Sū. 2-4-77, Pā. Sū. 3-4-110, Pā. Sū. 6-1-96, तिजिचोदात्तवति (*tijicodāttavati*) Pā. Sū. 8-1-71), वितक्षत् (*vitakṣat*) (root तक्षू (*takṣū*), no augment, Pā. Sū. 6-4-75), अंसौ (*aṃsau*) (root अम (*ama*), suffix *san* by Uṇ. Sū. 699) and गृ (*gṛ*) *[so printed, for ಗ್ಧ]* (root हन (*hana*), aorist), with the accents; it ends with the mark ॥ ೫ ॥. Odd printed forms (e.g. "ದಾಸಾ:", "ಪಾ ಸೂ. ಮ. ೨-೨-೧೮-೪") are kept as supplied.
+
+### Printed p. 32
+
+*Running head: 32 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158.*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> दी॒र्घत॑मा मामते॒यो जु॑जु॒र्वान्द॑श॒मे यु॒गे ।
+> अ॒पामर्थं॑ य॒तीनां॑ ब्र॒ह्मा भ॑वति॒ सार॑थिः ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+*[The label line is garbled in the supplied text ("ಹದಪಾರಃ") and sits inside the Saṃhitā block; the standard label is inserted and the garbled line kept in kn.md as a note.]*
+
+> दीर्घतमाः । मामतेयः । जुजुर्वान् । दशमे । युगे ।
+> अपां । अर्थं । यतीनां । ब्रह्मा । भवति । सारथिः ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[In the bhāṣya a Latin "s" stood in the Kannada text for the avagraha ("ಯುಗೇs-ತೀತೇ"); it is written letter for letter as ಽ in kn.md, and the hyphenated line breaks in the block are joined.]*
+
+> दीर्घतमा एतन्नामा महर्षिः स च मामतेयो मामतायाः पुत्रो
+> दशमे युगे दशयुगपर्यंतं महानुभावयोरश्विनोः प्रभावात्पूर्वोक्ताद्दुःखाद्विमुक्तोऽत्यंतसुखी स्वपुत्रभार्यादिभिः सहितो जीवितवान् । दशमे युगेऽतीते सति जुजुर्वाञ्चीर्णो वलीपलितगात्रो बभूव । एवंभूतः सन्नर्थं पुरुषैरर्थ्यमानं कर्मफलं स्वर्गादिकं यतीनां प्राप्नुवतीनामपामस्कार्याणां प्रजानां । यद्वा । अपामपसां कर्मणामर्थं प्रयोजनं यतीनां तासां प्रजानां ।
+> ब्रह्मा ब्रह्मसदृशः परिवृद्धो भवति । किंच सारथिः तद्वन्निर्वाहको भवति । देवो
+> भवतीत्यर्थः । एवमस्य वृत्तांतं मंत्रोऽनुवदति । स्वयं ना स्वात्मानं पारोक्ष्येणाश्विनोर्महानुभावत्वं प्रकटयितुं ब्रवीति ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Dīrghatamas, freed from his suffering by the Aśvins' power, lived happily ten yugas, then aged, and became like Brahmā and a guide for the people's rites.]*
+
+*[The Pratipadārtha label is garbled in the supplied text ("ಪ್ರ. ಶಿಪದಾರ್ಥ") and the Pratipadārtha sits inside the bhāṣya block; moved out, un-quoted, and the standard label inserted.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मामतेयः (*māmateyaḥ*)—the son of Mamatā; दीर्घतमाः (*dīrghatamāḥ*)—the seer named Dīrghatamas; दशमे युगे (*daśame yuge*)—(in his life) in the tenth yuga; जुजुर्वान् (*jujurvān*)—became one with a body worn out by old age; अपां (*apāṃ*)—for sacrifices and other rites; अर्थं (*arthaṃ*)—in order to obtain their desired objects in the form of fruit; यतीनां (*yatīnāṃ*)—for all the people who perform rites; ब्रह्मा (*brahmā*)—became Brahman in form (became a leader of the sacrificers); सारथिः (*sārathiḥ*)—(as there is a charioteer to drive a chariot) becoming fit to carry out sacrifices and the rest; भवति (*bhavati*)—became.
+
+**भावार्थ (Bhāvārtha)**
+
+Dīrghatamas, son of Mamatā, through the favour of the Aśvin deities, experienced a happy life for the yugas of his life, and when the tenth yuga had passed, he became one with a body weakened by old age… *[the supplied text of p. 32 breaks off here, in the middle of the sentence ("ಶಿಥಿಲಿತವಾದ", "weakened"); the Bhāvārtha continues on p. 33, in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 29 (PDF 29). Sūkta 158 Ṛk 5 English, Special Topics (Ṛgvidhāna, susamubdha, nadyaḥ, Viśvāmitra and the rivers)
+**Progress note:** Done through printed p. 32 (PDF 32). Sūkta 158 Ṛk 5 Special Topics end, grammar, Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha start
