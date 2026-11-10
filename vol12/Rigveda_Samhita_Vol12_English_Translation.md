@@ -635,6 +635,77 @@ quote this ṛk and give the meaning of the word उरुष्य (*uruṣya*)
 
 (Ṛ. Saṃ. 10-88-4)
 
+### Printed p. 24
+
+*Running head: 24 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158.* (The Special Topics of Ṛk 4 continue.)
+
+Quoting this ṛk (Ni. 5-3), (the authors of the Nirukta) have shown the difference between the flying movement of birds and the movement of all other moving beings. Comparing the movements of days and nights with the flight of birds is very fitting from the point of view of figures of speech. The comparison in this metaphor suits both the speed and the beauty and attractiveness.
+
+दशतयः (*daśatayaḥ*) *[the supplied text has "ದಶತೆಯರಿ" here]*—दशवाररि । (*daśavārari |*) "ten times".
+
+क्षां (*kṣāṃ*)—भूमिं । (*bhūmiṃ |*) It is read among the names of the earth: गौः, ग्मा, ज्मा, क्ष्मा, क्षौ । (*gauḥ, gmā, jmā, kṣmā, kṣau |*) and so on (Ni. 2-5). क्षा क्षियतेर्निवासकर्मणः (*kṣā kṣiyaternivāsakarmaṇaḥ*) (Ni. 2-6): formed from the root क्षी (*kṣī*), which gives the sense "to dwell", it means "the earth on which one dwells".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses उपस्तुति (*upastuti*) (root ष्टुञ् (*ṣṭuñ*), suffix *ktin*; accent by Pā. Sū. 5-2-50), उरुष्येत् (*uruṣyet*) (optative; with the Nirukta definition "ಉರುಷ್ಯತೀ ರಕ್ಷಾ ಕರ್ಮಾ"), पतत्रिणी (*patatriṇī*) (suffix *atrin* by Uṇ. Sū. 4-509, or *atran* by Uṇ. Sū. 3-385), दुग्धाम् (*dugdhām*) (Pā. Sū. 8-2-32 for the change of the aspirate), दशतयः (*daśatayaḥ*) (suffix *tayap*), चितः (*citaḥ*) (suffix *kta*), and, on the next page, धाक् (*dhāk*) (aorist; Pā. Sū. 3-3-175), बद्धः (*baddhaḥ*), त्मनि (*tmani*) (loss of the initial ā by Pā. Sū. 6-4-141) and खादति (*khādati*), with the suffixes, Vedic irregularities and accents of each.
+
+### Printed p. 25
+
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೧] Ṛgveda-saṃhitā 23 (printed so: "ಪ." for the Varga and "23" for the page number 25; as supplied).*
+
+*(The grammar of Ṛk 4 ends with the mark ॥ ೪ ॥.)*
+
+#### Ṛk 5
+
+*[In the supplied text the Saṃhitā and Pada of this Ṛk are not readable; the picture vol12/html/figures/fig1_line01464.jpg stood in their place. The block was read from the picture letter by letter, in Kannada script, replacing the garbled text of the same verse; the line "ಸಾಯಣಭಾಷ್ಯಂ" printed above the Saṃhitā in the picture is the print's own heading (kept as a note, the standard label inserted). Differences between the machine-read text and the picture: Saṃhitā "ಅಂಗಾವಪಿ" is "ಅಂಸಾವಪಿ" in the picture; Pada "ಅಂಗೌ" is "ಅಂಸೌ" and "ವಿೃತಕ್ಷತ್" is "ವಿತಕ್ಷತ್". The accent marks of the picture are not transcribed (accents are added by script). Not settled: the last syllable before the line-end hyphen in "ಸುಸಮುಬ್ಧಮ-ವಾಧುಃ" (read ಮ; joined with the next line in kn.md) and the subscript letter in the Pada word "ಅವ್ವಅಧುಃ" (read as in the machine text).]*
+
+**॥ संहितापाठः ॥**
+
+> न मा॑ गरन्न॒द्यो॑ मा॒तृत॑मा दा॒सा यदीं॒ सुस॑मुब्धम॒वाधुः॑ ।
+> शिरो॒ यद॑स्य त्रैत॒नो वि॒तक्ष॑त्स्व॒यं दा॒स उरो॒ अंसा॒वपि॑ ग्ध । ॥ ५ ॥
+
+**॥ पदपाठः ॥**
+
+> न । मा । गरन् । नद्यः । मातृतमाः । दासाः । यत् । ईं । सुसमुब्धं । अव्वअधुः ।
+> शिरः । यत् । अस्य । त्रैतनः । वितक्षत् । स्वयं । दासः । उरः । अंसौ । अपि । ग्धेति ग्ध । ॥ ५ ॥
+
+*[The label of the bhāṣya is garbled in the supplied text ("ಚಾಯುಧಭಾಷ್ಯಂ") and sits inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the bhāṣya are joined.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> अस्याः पंचम्या विनियोगमाह शौनकः । आततायिनमायांतं दृष्ट्वा
+> व्याघ्रमथो वृकं । नमा गरन्निति जपंस्तेभ्य एव प्रमुच्यते । त्रिरात्रोपोषितो
+
+> *asyāḥ paṃcamyā viniyogamāha śaunakaḥ | ātatāyinamāyāṃtaṃ dṛṣṭvā*
+> *vyāghramatho vṛkaṃ | namā garanniti japaṃstebhya eva pramucyate | trirātropoṣito*
+
+### Printed p. 26
+
+*Running head: 26 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158 (the bhāṣya block continues from p. 25).*
+
+> रात्र्य जपेदासूर्यदर्शनात् । आस्प्लुत्य प्रयतः सूर्यमुपतिष्ठेद्दिवाकरं । पश्यंति
+> तस्करा नैनं तथान्ये पापबुद्धयः । एकः शतानि त्रायेत तस्करेभ्यश्चरन्पथि ॥ ऋग्वि.
+> १. २५. । इति ॥
+> नद्यो नदनशीला मातृतमा मातृवज्जगतां हितकारिण्य आपो मा मां
+> दीर्घतमसं गरन् । न गिरेयुः । निमग्नं मा कुर्युः ॥ गृ निगरणे । लेटि व्यत्ययेन शप् ॥ गिरणपाप्तिं दर्शयति । यद्यस्माद्दासा अस्मदुपक्षपयितारो मदीयगर्भदासा ईमेनं दीर्घतमसं मां सुसमुब्धं सुष्टु संकुचितसर्वांगं ॥ स्वती
+> पूजायां । पा- २-२-१८ । इति प्रादिसमासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं ॥ अवाधुः
+> अवाङ्मुखमपातयन् । किंचास्य मम शिरः स त्रैतन एतन्नामको दासोऽत्यंतनिर्घृणः सन् यद्यस्माद्वितक्षत् विविधं तष्टवान् तस्मात्स दासः स्वयं स्वकीयमेव
+> शिरस्तक्षतु । न केवलं शिर एव अपि तु मदीयमुरो वक्षस्थलमंसौ च गृ । हतवान् ।
+> विदारितवानित्यर्थः ॥ हंतेर्लुजः छांदसमेतद्रूपं ॥ ततः स्वकीयमुरोऽंसावपि
+> स्वशस्त्रेणैव तथा कृतवान् । तम्मुवयोर्माहात्ममिति भावः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Śaunaka prescribes this ṛk against attackers; Dīrghatamas, bound and thrown into the rivers by his slaves, asks that they not swallow him; Traitana, who struck him, wounded himself.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यत् (*yat*)—for which reason; दासाः (*dāsāḥ*)—(my) servants; सुसमुब्धं (*susamubdhaṃ*)—with a decrepit body, or with hands and feet folded and bound; ईं (*īṃ*)—me; अवाधुः (*avādhuḥ*)—having made me face downwards threw (into the river) (so, being helpless); मातृतमाः (*mātṛtamāḥ*)—most beneficial to the world like a mother; नद्यः (*nadyaḥ*)—rivers; मा (*mā*)—me; न गरन् (*na garan*)—may they not make sink. यत् (*yat*)—for which reason; अस्य (*asya*)—of this me; शिरः (*śiraḥ*)—the head; त्रैतनः (*traitanaḥ*)—my servant named Traitana; वितक्षत् (*vitakṣat*)—struck (with a sword) (immediately); दासः (*dāsaḥ*)—that servant; स्वयं (*svayaṃ*)—of his own accord; उरः (*uraḥ*)—(his own) "ಪಕ್ಷಸ್ಸನ್ನೂ" *[so printed; chest (ವಕ್ಷಸ್ಸು) is presumably meant]*; अंसौ अपि (*aṃsau api*)—his own arms also; गृ (*gṛ*) *[so printed]*—cut himself (that is your greatness).
+
+*[The Bhāvārtha label is garbled in the supplied text ("॥ ಭವಾನಾಥ ॥"); the standard label is inserted and the garbled line kept in kn.md as a note.]*
+
+**भावार्थ (Bhāvārtha)**
+
+My servants threw me, whose body was decrepit with old age, face downwards into the river. Knowing that I was helpless, may the rivers, which are most beneficial to the world like a mother, not make me sink. When Traitana, one of my servants, wounded me on the head and shoulder with a sword, by your (the Aśvin deities') grace he struck his own head and shoulder himself and ran away.
+
 ---
 
-**Progress note:** Done through printed p. 23 (PDF 23). Sūkta 158 Ṛk 3 grammar end, Ṛk 4 complete (Saṃhitā to Special Topics start: uruṣyet, patatriṇī)
+**Progress note:** Done through printed p. 26 (PDF 26). Sūkta 158 Ṛk 4 Special Topics end and grammar, Ṛk 5 Saṃhitā/Pada (from picture), bhāṣya, Pratipadārtha, Bhāvārtha
