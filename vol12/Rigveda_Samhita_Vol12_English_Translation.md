@@ -14298,6 +14298,143 @@ One may conjecture that it is the Milky-way, which is not unlike a thin line of 
 The cluster of stars (Milky-way) that resembles in form the smoke produced from cow-dung is here designated Śakadhūma. The evil effects arising from the stars are averted by worshipping it. That is why the prayer भद्राहमस्तु नः सायं (*bhadrāhamastu naḥ sāyaṃ*) is made. Or, as Weber says, the rising and falling of the smoke may be described here. The line of smoke spreading upward in the atmosphere shows the nature of the weather of each day by its straight ascent and by its crooked spreading in accordance with the climate. The meaning is that this Śakadhūma is described in the ṛk under consideration also.
 In the Kauśika-paribhāṣā-sūtra (VIII. 17) the word शकधूम (*śakadhūma*) is used as a synonym for the Brahman priest, who plays the chief part in the sacrifice.
 
+### Printed p. 605
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨ ] Ṛgveda-saṃhitā 605 (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 43.]*
+
+In the sentence प्रमंदो शीरशलल्युपधानशकधूम जरंतः (*pramaṃdo śīraśalalyupadhānaśakadhūma jaraṃtaḥ*) .... (the dots as supplied), Dārila, commenting on it, explains शकधूम (?) ब्राह्मणः (*śakadhūma (?) brāhmaṇaḥ*) .... एतानि जीर्णानि प्रत्येतव्यानि (*etāni jīrṇāni pratyetavyāni*) (the "(?)" and the dots are as supplied). Moreover, in this same Kauśika-sūtra, it is said that a merchant who travels to a foreign place should recite, at his times of worship, the chapter Atharva-veda 6-128, which contains the praise of Śakadhūma, and pray to Śakadhūma (Kau. Sū. 50-13).
+
+Thus the word शकधूम (*śakadhūma*) has been given one meaning in one place and another in another. Although it is difficult to say precisely which meaning is intended in the description of the ṛk under consideration, the Bṛhaddevatā is for us the authority in this context. According to that authority, if the word शक (*śaka*) is taken to mean cloud and the word धूम (*dhūma*) to mean water or its abode, the sense fits this context. Moreover, in the preceding mantras too there is a description of the falling of rain. Or, as Sāyaṇa has explained, it may be said to be the line of smoke, born of the flame of cow-dung, which is the cause of the origin of the cloud.
+
+विषूवता-व्याप्तिमता (*viṣūvatā-vyāptimatā*) । The meaning is: by the pervading line of smoke.
+
+उक्षाणं (*ukṣāṇaṃ*)—फलस्य सेक्तारं (*phalasya sektāraṃ*)—the meaning is: one who showers down the desired objects. This word is formed from the root उक्ष् (*ukṣ*), which gives the sense of sprinkling (sēcana), i.e. pouring. The meaning is: the deity who grants the desired objects to devotees. The Nirukta-writers have read the word उक्षन् (*ukṣan*) among the names of "great" (mahat) things (Ni. 3-13).
+
+Furthermore, from the Ṛk-saṃhitā the ṛk
+वृषाकपायि रेवति सुपुत्र अदु सुस्नुषे । घसत्त इंद्र उक्षणः प्रियं काचित्करं हविर्विश्वस्मादिंद्र उत्तरः (*vṛṣākapāyi revati suputra adu susnuṣe | ghasatta iṃdra ukṣaṇaḥ priyaṃ kācitkaraṃ havirviśvasmādiṃdra uttaraḥ*)
+(Ṛ. Saṃ. 10-76-13)
+is quoted, and when explaining the word उक्षण (*ukṣaṇa*) occurring in it, it is said: उक्षण उक्षतेर्वृद्धिकर्मणः उक्षंत्युदकेनेति वा (*ukṣaṇa ukṣatervṛddhikarmaṇaḥ ukṣaṃtyudakeneti vā*) (Ni. 12-9). Since it is formed from the root उष् (*uṣ*) *[as supplied: the root is printed ಉಷ್ here, ಉಕ್ಷ್ above]*, which gives the sense "to grow", the meaning stated there is "that which grows with water".
+
+In general the word उक्ष (*ukṣa*) is used also in the senses of strength and capacity; that is, its purport lies in the capacity of sprinkling.
+
+ते जज्ञरे दिव ऋष्वास उक्षणो रुद्रस्य मर्या असुरा अरेपसः । पावकासः शुचयः सूर‍्या इव सत्वानो न द्रप्सिनो घोरवर्पसः (*te jajñare diva ṛṣvāsa ukṣaṇo rudrasya maryā asurā arepasaḥ | pāvakāsaḥ śucayaḥ sūryā iva satvāno na drapsino ghoravarpasaḥ*)
+(Ṛ. Saṃ. 1-64-2)
+
+### Printed p. 606
+*Running head: 606 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied; the page splitter did not recognise it; the word is printed "ಸಾಯುಣ-" here).*
+
+यज्ञस्य केतुं प्रथमं पुरोहितं हविष्मंत ईळते सप्त वाजिनं । शृण्वंतमग्निं धृतपृष्ठमुक्षणं पृणंतं देवं पृणते सुवीर्यं (*yajñasya ketuṃ prathamaṃ purohitaṃ haviṣmaṃta īḷate sapta vājinaṃ | śṛṇvaṃtamagniṃ dhṛtapṛṣṭhamukṣaṇaṃ pṛṇaṃtaṃ devaṃ pṛṇate suvīryaṃ*)
+(Ṛ. Saṃ. 10-122-4)
+In all such ṛks the word उक्ष (*ukṣa*) indicates its power as sprinkling or the capacity of sprinkling. In the ṛk under consideration also, the purport is Soma, which has the capacity of sprinkling, that is, the capacity of supplying desired objects.
+
+पृश्निं (*pṛśniṃ*)—पृश्निः वल्लीरूपः सोमः (*pṛśniḥ vallīrūpaḥ somaḥ*) । It is an epithet of Soma. Ordinarily the word पृश्नि (*pṛśni*) is used as a synonym of Āditya. The Nirukta-writers have read this word both among the names of the sky (dyu) and among the names of Āditya (Ni. 1-13). Then, giving the etymology of this word as referring to Āditya, they have explained thus:
+पृश्निरादित्यो भवति । प्राश्नुत एनं वर्ण इति नैरुक्ताः संस्पृष्टा रसान् । संस्पृष्टा भासं ज्योतिषां । संस्पृष्टो भासेति वा (*pṛśnirādityo bhavati | prāśnuta enaṃ varṇa iti nairuktāḥ saṃspṛṣṭā rasān | saṃspṛṣṭā bhāsaṃ jyotiṣāṃ | saṃspṛṣṭo bhāseti vā*)
+(Ni. 2-14)
+The view of the ancient Nirukta-writers is that Āditya is called Pṛśni because he is pervaded by radiance. Yāska's explanation is that this epithet describes the nature of Āditya because he unites the flowing saps and gathers together all the radiances of the luminous orbs.
+अथ द्यौराविष्टा ज्योतिर्भिः पुण्यकृद्भिश्च (*atha dyaurāviṣṭā jyotirbhiḥ puṇyakṛdbhiśca*) (Ni. 2-14 *[as supplied: printed "ನಿ ೨-೧೪" without the full stop]*)
+The Nirukta-writers have explained the meaning of this word thus: the heaven-world too has the epithet Pṛśni because it is filled with lights and with the doers of good deeds. In the ṛk under consideration too, by प्राश्नुते तेन फलं (*prāśnute tena phalaṃ*) and so on, this same meaning gives the nature of Soma and is an epithet of him.
+
+वीराः (*vīrāḥ*)—विविधेरणकुशला ऋत्विजः (*vividheraṇakuśalā ṛtvijaḥ*) । An epithet of the priests (ṛtvijs) who are engaged in sacrifices and other works of many kinds. The Nirukta-writers, showing the etymology of this word, say:
+वीरवंतः । कल्याणवीरा वा । वीरो वीरयत्यमित्रान् । वेतेर्वास्याद्गतिकर्मणो वीरयतीर्वा (*vīravaṃtaḥ | kalyāṇavīrā vā | vīro vīrayatyamitrān | vetervāsyādgatikarmaṇo vīrayatīrvā*)
+(Ni. 1-7)
+This epithet is used because they scatter and drive away enemies. Or they have explained that this word may be formed either from the root वी (*vī*), meaning movement, or from the root विर् (*vir*), meaning power. Since the priests too have this capacity, it is an epithet of them in the ṛk under consideration.
+
+### Printed p. 607
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨. ] Ṛgveda-saṃhitā 607 (as supplied).*
+
+*Grammar (transcribed, not explained):*
+- शकमयम् (*śakamayam*)—the suffix मयट् (*mayaṭ*) in the sense of modification. The initial-acute accent of the suffix comes. A form ending in the accusative singular. *[as supplied: "ದ್ವಿತೀಯಾ ಏಕವಚನಾಂತ", accusative singular]*
+- धूमम् (*dhūmam*)—the root धूञ् (*dhūñ*) in the sense of shaking. By इषियुधींधि (*iṣiyudhīṃdhi*)—(Uṇ. Sū. 1-142) the suffix मक् (*mak*). By the accent of the suffix it becomes end-acute.
+- अपश्यम् (*apaśyam*)—the root दृशिर् (*dṛśir*) in the sense of seeing. Imperfect (लज् (*laj*) as supplied), a form ending in the first person singular; the तिजिंतनिघात (*tijiṃtanighāta*) accent *[as supplied spelling]* comes.
+- विषूवता (*viṣūvatā*)—the root विष्‌ल्य (*viṣlya*) in the sense of pervading. To it the Uṇādi suffix कु (*ku*). विषुः अस्य अस्ति इति विषूवान् (*viṣuḥ asya asti iti viṣūvān*), the suffix मतुप् (*matup*). By ह्रस्वनुड्यांमतुप् (*hrasvanuḍyāṃmatup*) (Pā. Sū. 6-1-176) the मतुप् (*matup*) becomes acute. By अन्येषामपि दृश्यते (*anyeṣāmapi dṛśyate*) (Pā. Sū. 6-3-137) the preceding word is lengthened. By a licence (vyatyaya) the letter m of mat becomes v. A form ending in the instrumental singular.
+- एना (*enā*)—by सुपां सुलुक् (*supāṃ suluk*)-(Pā Sū 7-1-39) [as printed, without full stops], when the instrumental singular follows, lengthening with the preceding homogeneous vowel.
+- पृश्निम् (*pṛśnim*)—the root स्पृश (*spṛśa*) in the sense of touching. By फृणि पृश्नि पार्ष्णि (*phṛṇi pṛśni pārṣṇi*)—(Pā. Sū. 4-492) it is irregularly formed (nipātita).
+- अपचंत (*apacaṃta*)—the root डुपचिष् (*ḍupaciṣ*) in the sense of cooking. Here it is used in the sense of action in general. Imperfect (लज् (*laj*) as supplied), a form ending in the third person plural; the तिजंत (*tijaṃta*) nighāta accent comes.
+- आसन् (*āsan*)—the root अस (*asa*) in the sense of being. Imperfect (लज् (*laj*)), a form ending in the third person plural. Since it stands after an अतिजंत (*atijaṃta*) *[as supplied]*, the nighāta accent comes. ‖ 43 ‖
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of swirls and flourishes.]*
+
+#### Ṛk 44
+**॥ संहितापाठः ॥**
+> त्रयः॑ के॒शिन॑ ऋतु॒था वि च॑क्षते संवत्स॒रे व॑पत॒ एक॑ एषां ।
+> विश्व॒मेको॑ अ॒भि च॑ष्टे॒ शची॑भि॒ध्र्राजि॒रेक॑स्य ददृशे॒ न रू॒पं ॥
+> ॥ ४४ ॥
+
+> *trayaḥ keśina ṛtuthā vi cakṣate saṃvatsare vapata eka eṣāṃ |*
+> *viśvameko abhi caṣṭe śacībhidhrrājirekasya dadṛśe na rūpaṃ ‖*
+> *‖ 44 ‖*
+
+### Printed p. 608
+*Running head: 608 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*[Garbled label as supplied: ಹಡಪಾಟು — read by the script as Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> त्रयः । केशिनः । ऋतुथा । वि । च क्षते । संवत्सरे । वपते । एकः । एषां ।
+> विश्वं । एक । अभि । चष्टे । शचीभिः । ध्राजिः । एकस्य । ददृशे । न । रूपं ॥ ४४ ॥
+*[Garbled label as supplied: ಸಾಯುಣಭಾಸ್ಕಂ — read by the script as Sāyaṇa-bhāṣya.]*
+**॥ सायणभाष्यम् ॥**
+> केशस्थानीयप्रकृष्टरश्मियुक्तास्त्रयोऽग्न्यादित्यवायवः । ते चतुर्था काले
+> काले वि चक्षते । विविधलक्षणां भूमिं पश्यंति । तेषां पृथक्पृथक्कार्यमाह ।
+> एषां मध्य एकोऽग्नि संवत्सरेऽतीते सति संवत्सरं वपते । दाहेन केशस्थानीयौषधिवनस्पत्यादिके छेदनं नापितकार्यं करोति । एक अन्य आदित्यो विश्वं सर्वं जगच्छचीभिः स्वकीयैः प्रकाशवृष्ट्यादिकर्मभिरभि चष्टे । सर्वतः पश्यति । एकस्य वायोर्ध्राजिर्गतिर्ददृशे । दृश्यते सर्वै । न रूपं । अप्रत्यक्षत्वात् स्पर्शशब्दधृतिकंपलिंगैर्गम्यत इति हि न्यायविदो वदंति । आयमपि मंत्रो यास्केनैव व्याख्यातः । त्रयः
+> केशिन ऋतुथा विचक्षते काले कालेऽभिविपश्यंति संवत्सरे वपत एक एषामित्यग्निः पृथिवीं दहति सर्वमेकोऽभिपश्यति कर्मभिरादित्यो गतिरेकस्य दृश्यते न रूपं मध्यमस्य । नि. १२-२७ । इति ॥
+*Gist:* The three (Agni, Āditya, Vāyu) with ray-tresses look down in season; one shears after a year, one surveys all by his works, one's motion is seen, not his form.
+*[Garbled label as supplied: ಪ್ರಸಿದ್ಧ — read by the script as Pratipadārtha.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+केशिनः (*keśinaḥ*)—endowed with rays that are like hair; त्रयः (*trayaḥ*)—the three, Agni, Āditya and Vāyu; ऋतुथा (*ṛtuthā*)—in accordance with each season; वि चक्षते (*vi cakṣate*)—look down upon (the earth) in a special way; एषां (*eṣāṃ*)—among these; एकः (*ekaḥ*)—Agni; संवत्सरे (*saṃvatsare*)—when the year has passed; वपते (*vapate*)—cuts (the plants and so on); एकः (*ekaḥ*)—the other one, Āditya; विश्वं (*viśvaṃ*)—the whole world; शचीभिः (*śacībhiḥ*)—by works such as illumining; अभि चष्टे (*abhi caṣṭe*)—looks at everywhere; एकस्य (*ekasya*)—of the other one, Vāyu; ध्राजिः (*dhrājiḥ*)—the motion; ददृशे (*dadṛśe*)—is seen by all (is known); रूपं (*rūpaṃ*)—(his) form, however; न (*na*)—does not come within range of sight.
+*[As supplied: the label before the next paragraph is printed "। ಭಾಷಾಭಿಮಾನ ।"; it stands where the Bhāvārtha is expected.]*
+**भावार्थ (Bhāvārtha)**
+Agni, Āditya and Vāyu, endowed with rays that are like hair, look down upon the earth in a special way in accordance with each season. Among them, Agni cuts the plants and so on after the year has passed. The other one, Āditya, looks everywhere at the whole world by his works such as illumining. Of the other one, Vāyu, only the moving to and fro and so on are seen. His form is not seen.
+
+### Printed p. 609
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೨೨ ] Ṛgveda-saṃhitā 609 (as supplied).*
+
+**Printed English**
+The three, with beautiful tresses, look down in their several seasons npon [sic] the earth ; one of them, when the year is eneed [sic], shears (the ground); one, by his acts, overlooks the universe ; the course of one is visible, though not his form.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+त्रयः केशिनः (*trayaḥ keśinaḥ*)—केशस्थानीयप्रकृष्टरश्मियुक्ताः (*keśasthānīyaprakṛṣṭaraśmiyuktāḥ*) । "Having excellent rays in the places of the hair" is a common epithet of all three: Agni, Vāyu and Āditya. The Bṛhaddevatā also gives this same description and states the special nature of Agni, Vāyu and Āditya.
+अर्चिभिः केश्ययं त्वग्निर्विद्युद्बिश्चैव मध्यमः । निपातमात्रे कथ्यंते तथाग्नेयानि कानिचित् (*arcibhiḥ keśyayaṃ tvagnirvidyudbiścaiva madhyamaḥ | nipātamātre kathyaṃte tathāgneyāni kānicit*)
+(Bṛ. Je. 1-94 *[as supplied: printed "ಬೃ ಜೇ ೧-೯೪", the abbreviation without full stops and with "ಜೇ"; the neighbouring references read ಬೃ. ದೇ.]*)
+Since the flame of terrestrial fire is like hair, Agni is named Keśin. Vāyu, who is in the atmosphere, shines with radiances of the form of lightning, and Āditya, who is in the heaven-world, with his own rays; and because all these stand in their respective places of hair and increase their power, Agni, Vāyu and Āditya are named Keśins.
+एतेषां तु पृथक्त्वेन त्रयाणां केशिनामिह । संलक्ष्यंते प्रक्रियासु त्रयः केशिन इत्यृचि (*eteṣāṃ tu pṛthaktvena trayāṇāṃ keśināmiha | saṃlakṣyaṃte prakriyāsu trayaḥ keśina ityṛci*)
+(Bṛ. De. 1-95)
+Since the natures of these three kinds of Keśins are different, the differences in their respective procedures are also stated in the ṛk "त्रयः केशिनः (*trayaḥ keśinaḥ*)" (1-164-44). But it is not possible to divide their origin and the extent of their activity and say precisely "this is just so" (इदमित्तं (*idamittaṃ*)). Since all of them are all-pervading, a division of place is also impossible; stating this point, the Bṛhaddevatā says:
+न चैवैषां प्रसूतिर्वा विभूतिस्थानजन्म वा । निर्वक्तुं शक्यमेतैर्हि कृत्स्नं व्याप्तमिदं जगत् (*na caivaiṣāṃ prasūtirvā vibhūtisthānajanma vā | nirvaktuṃ śakyametairhi kṛtsnaṃ vyāptamidaṃ jagat*)
+(Bṛ. De. 1-96)
+Neither their birth, nor their power, nor the differences of their places can be stated precisely. The whole world too is pervaded by them. Their all-pervading nature is described in the passages of the Ṛk-saṃhitā, and it is stated that their power and their actions are limited neither from the point of view of place nor of time.
+*[Page-end marks as supplied: "[39] [Vol. 12", printed twice.]*
+
+### Printed p. 610
+*Running head: 610 Sāyaṇa-bhāṣya-sahitā [ಸುಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೮.] (as supplied; "ಸುಂ." for ಮಂ. and "೧೬೮" for ೧೬೪ as printed).*
+
+*[Sentence continued from the previous page:]* ... it is stated. (The authorities for this will be given later.) First, to know why the epithet Keśin has become well known for them, one has to look at the etymology of the Nirukta. The Nirukta-writers have explained the etymology of this word, and which special qualities of Agni and the others this epithet indicates, thus:
+केशी केशा रश्मयस्तैस्तद्वान्, काशनाद्वा, प्रकाशनाद्वा (*keśī keśā raśmayastaistadvān, kāśanādvā, prakāśanādvā*)
+(Ni. 12-25)
+One who has hair (keśa) is a Keśin. Keśa means rays; one endowed with rays has the synonymous name Keśin. This word may be formed either from the root काश् (*kāś*), which gives the sense "to make light", or from प्र (*pra*) + काश् (*kāś*), which shows that he himself is extremely brilliant. Having shown the etymology of this word, they then quoted a passage of the Ṛk-saṃhitā for the use of this word with reference to Āditya:
+केश्यंग्निं केशी विषं केशी बिभर्ति रोदसी । केशी विश्वं स्वर्वृशे केशीवं ज्योतिरुच्यते (*keśyaṃgniṃ keśī viṣaṃ keśī bibharti rodasī | keśī viśvaṃ svarvṛśe keśīvaṃ jyotirucyate*)
+(Ṛ. Saṃ. 10-136-1)
+The Keśin, that is, the shining Āditya, bears fire and water. (विष (*viṣa*) is here a word synonymous with water.) He bears heaven and earth *[as supplied: printed "ದ್ಯಾವಾಷ್ಟಥಿವಿ", sic for heaven and earth]* too. The whole world sees his form made of radiance. The name Keśin is for such a form of light. Having thus quoted the ṛk for the description of Āditya's nature, they then stated how, in the ṛk under consideration too, the nature of Agni and the others is described by this epithet. The explanation of the Nirukta-writers for the ṛk under consideration is as follows.
+त्रय. केशिनः ऋतुथा विचक्षते कालेकालेऽभिविपश्यंति संवत्सरे वपत एक एषामित्यग्निः पृथिवीं दहति सर्वमेकोऽभिविपश्यति कर्मभिरादित्यो गतिरेकस्य दृश्यते न रूपं मध्यमस्य (*traya. keśinaḥ ṛtuthā vicakṣate kālekāle 'bhivipaśyaṃti saṃvatsare vapata eka eṣāmityagniḥ pṛthivīṃ dahati sarvameko 'bhivipaśyati karmabhirādityo gatirekasya dṛśyate na rūpaṃ madhyamasya*)
+(Ni. 12-27)
+Its meaning is just as explained above in the Bhāvārtha. Although in this ṛk three deities are indicated, Agni, Vāyu and Āditya, their actions are not limited only to their respective worlds. When showing their division of place, the Nirukta-writers had earlier shown the limit of their extent:
+अग्निः पृथिवीस्थानो वायुर्वेंद्रो वांतरिक्षस्थानः सूरो द्युस्थानः (*agniḥ pṛthivīsthāno vāyurveṃdro vāṃtarikṣasthānaḥ sūro dyusthānaḥ*)
+(Ni. 7-5)
+
+### Printed p. 611
+*Running head: [ಅ. ೨. ಅ. ೪ ನ. ೨೨.] Ṛgveda-saṃhitā 611 (as supplied; "ನ." for ವ. as printed).*
+
+They have stated that the place of Agni is the earth, the place of Vāyu (or of Indra) is the atmosphere, and the place of Āditya is the heaven-world. There is no limit to this place. It is described by विश्वमेको अभि चष्टे (*viśvameko abhi caṣṭe*) ; सर्वमेकोऽभिविपश्यति (*sarvameko 'bhivipaśyati*)—Āditya surveys all the worlds—and so on. Among them, the forms of Agni and Āditya are visible to the world, but the form of Vāyu is not visible. One has to infer his activity from his motion alone. This is stated by ध्राजिरेकस्य दवृशे न रूपं (*dhrājirekasya davṛśe na rūpaṃ*) *[as supplied: ದವೃಶೇ, whereas the Saṃhitā block has ದದೃಶೇ]*.
+
+ध्राजिः (*dhrājiḥ*)—this word is read among the names of motion (Ni. 399 *[as supplied: printed ನಿ. ೩೯೯, without a hyphen]*). Ordinarily it is a word denoting the motion of Vāyu. For example:
+मुनयो नातरशनाः पिशंगा वसते मला । वातस्यानु ध्राजिं यंति यद्देवासो अविक्षत (*munayo nātaraśanāḥ piśaṃgā vasate malā | vātasyānu dhrājiṃ yaṃti yaddevāso avikṣata*)
+(Ṛ. Saṃ. 10-136-2)
+There, by वातस्य ध्राजिं (*vātasya dhrājiṃ*) the swift motion of Vāyu is described, and it is said that the ṛṣis who had acquired supernatural power knew the manner of Vāyu's movement. Or, even where this word is used in other contexts, the comparison is again with the motion of Vāyu. For example:
+हिरण्यकेशो रजसो विसारेऽहिर्धुनिर्वात इव द्रजीमान् । शुचिभ्राजा उषसो नवेदा यशस्वतीरपस्युवो न सत्याः (*hiraṇyakeśo rajaso visāre 'hirdhunirvāta iva drajīmān | śucibhrājā uṣaso navedā yaśasvatīrapasyuvo na satyāḥ*)
+(Ṛ. Saṃ. 1-79-1)
+There, although the purpose is to describe the speed of Agni's going, it is compared with the motion of Vāyu by वात इव ध्रजीमान् (*vāta iva dhrajīmān*) *[as supplied: the verse as printed has ದ್ರಜೀಮಾನ್, this comment ಧ್ರಜೀಮಾನ್]*.
+
+These three deities, who under the names Agni, Vāyu and Āditya perform their duties in the three worlds in three ways in accordance with the seasons, must be examined: are they distinct beings, or three different forms of a single principle? It becomes clear that from the very beginning in this sūkta the chief aim is the exposition of the one principle that pervades the entire universe. In some ṛks it is described as the Supreme Brahman, and in other places as the Supreme Person who is within Āditya and has a golden form. Although in the ṛk under consideration there seems to be a description of distinct deities, it can be understood that in many places it is described that the fundamental principle of all of them is one and the same, and that all of them are different forms of that fundamental principle. That fundamental principle is called in some places Āditya and in other places Agni. *[The passage ends here at the end of the window.]*
+
 ---
 
-**Progress note:** Done through printed p. 604. Ṛk 42 Special Topics (samudra, akṣara) and grammar; Ṛk 43 (śakamayaṃ dhūmam) with Special Topics on śakadhūma
+**Progress note:** Done through printed p. 611. pp. 605-611: end of Ṛk 43 special topics (Śakadhūma, ukṣan, pṛśni, vīra), grammar of Ṛk 43, Ṛk 44 (three Keśins) with Special Topics
