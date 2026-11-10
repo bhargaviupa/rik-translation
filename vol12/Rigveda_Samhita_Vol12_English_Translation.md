@@ -5071,6 +5071,91 @@ in this, for the word "vanānām" it has been explained हिंसकाना
 
 Whatever food, not completely digested, comes out of the belly of this sacrificial horse at the time of killing, and whatever bad smell of raw flesh there is, all that may the slaughterers make free from fault and pure. And the part of it fit for the sacrifice may they cook so that it suits the gods.
 
+### Printed p. 185
+
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೮. ] Ṛgveda-saṃhitā 185 (as supplied).* (Sūkta 162, Ṛk 10.)
+
+**Printed English translation**
+
+Whatever undigested grass fall from his belly; whatever particle of raw flesh may remain; let the immolators make the whole free from defect, and so cook the pure (offering) that it may be perfectly dressed.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऊवध्यं (*ūvadhyaṃ*)—food that is not completely digested is called "ūvadhya".
+
+ऊवध्यगोहं पार्थिवं खनत । (*ūvadhyagohaṃ pārthivaṃ khanata |*) (ಐ. ಬ್ರಾ. 2-6)
+
+here it is explained as excrement (puriṣa). It means food that is the remnant of digestion. In the Bṛhadāraṇyaka Upaniṣad, at the time of describing this same sacrificial horse,
+
+ऊवध्यं सिकताः सिंधवो गुदा । (*ūvadhyaṃ sikatāḥ siṃdhavo gudā |*) (ಬೃ. ಉ. 1-1-1)
+
+"sand is the ūvadhya of this sacrificial horse" *[printed "ಮೇಧಾಶ್ವ"]*: Śaṅkarācārya has explained "ūvadhya" as उदरस्थमर्धजीर्णमशनं (*udarasthamardhajīrṇamaśanaṃ*), food in the belly that is half digested.
+
+शमितारः (*śamitāraḥ*)—the "śamitṛ" is the one who kills the sacrificial animal. There are some disagreements about whether he is one of the priests or someone else. Although it appears to be the duty of the adhvaryu, the adhvaryu used to appoint others to assist him in it. Some hold that he is not one of the priests and need not even be a Brahmin.
+
+अध्रिगो शमीध्वं सुशमि शमीध्वं शमीध्वमध्रिगा ३ उ इति तिब्रूयादपापेति (*adhrigo śamīdhvaṃ suśami śamīdhvaṃ śamīdhvamadhrigā 3 u iti tibrūyādapāpeti*)
+चाद्रिगुर्वै देवानां शमितापापो निग्रभीता शमितृभ्यश्चैवैनं तन्निग्रभीतृभ्यश्च संप्रयच्छति ॥ (*cādrigurvai devānāṃ śamitāpāpo nigrabhītā śamitṛbhyaścaivainaṃ tannigrabhītṛbhyaśca saṃprayacchati ‖*) (ಐ. ಬ್ರಾ. 2-7) *[the hyphenated line break "ನಿಗ್ರಭೀ-ತೃಭ್ಯಶ್ಚ" is joined]*
+
+"O Adhrigu, kill this animal; kill it completely. Since Adhrigu is the śamitṛ of all the gods, those who utter his name become sinless": thus the hotṛ says and gives the animal into the hand of the śamitṛ.
+
+नैष यजमानेनान्वारभ्यो मृत्यवे ह्येतं नयंति .... .... .... वपाश्रपणीभ्यां (*naiṣa yajamānenānvārabhyo mṛtyave hyetaṃ nayaṃti .... .... .... vapāśrapaṇībhyāṃ*)
+प्रतिप्रस्थाता प्रतिप्रस्थातारमध्वर्युरध्वर्युं यजमान एतदु परोक्षमन्वारब्धं (*pratiprasthātā pratiprasthātāramadhvaryuradhvaryuṃ yajamāna etadu parokṣamanvārabdhaṃ*)
+भवति । (*bhavati |*) (ಶ. ಬ್ರಾ 3-8-1-10) *[abbreviation as printed; the first line has printed dots]*
+
+### Printed p. 186
+
+*Running head: 186 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+From sentences such as these it is described that the killer is a different person, and that the adhvaryu and others hold the animal in a certain manner *[printed "ನಿಚಿತ್ರ"]* at the time of killing. At that time, addressing the śamitṛ who cuts the animal, it is told that the offering must be prepared so as to be cooked in a manner fit for the gods.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses उदरस्य (*udarasya*) (root printed "ದ್ಧ"; ಉ. ಸೂ. 6-697, abbreviation as printed), अपवाति (*apavāti*) (the number of the Pā. Sū. 8-1-171 is split over two lines), सुकृता (*sukṛtā*) (Pā. Sū. 7-1-39), कृण्वंतु (*kṛṇvaṃtu*), शृतपाकम् (*śṛtapākam*) (Pā. Sū. 6-1-199) and पचंतु (*pacaṃtu*), with the accents; it ends with the mark ॥ ೧೦ ॥.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+*[The words "ರಾತ|ಮಸ್ತು" are split over two lines in the Saṃhitā block, printed so.]*
+
+> यत्ते॒ गात्रा॑द॒ग्निना॑ प॒च्यमा॑नाद॒भि शूलं॒ निह॑तस्याव॒धाव॑ति ।
+> मा तद्भूम्या॒मा त्रि॑ष॒न्मा तृणे॑षु दे॒वेभ्य॒स्तदु॒शद्भो॑ रा॒त॑
+> मस्तु ॥ ११ ॥
+
+> *yatte gātrādagninā pacyamānādabhi śūlaṃ nihatasyāvadhāvati |*
+> *mā tadbhūmyāmā triṣanmā tṛṇeṣu devebhyastaduśadbho rāta*
+> *mastu ‖ 11 ‖*
+
+### Printed p. 187
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೯ ] Ṛgveda-saṃhitā 187 (as supplied).*
+
+**॥ पदपाठः ॥**
+
+*[Variants between Saṃhitā and Pada kept as supplied: the Pada has अव्यधावति (*avyadhāvati*) where the Saṃhitā has "ಅವಧಾವತಿ", श्रिषत् (*śriṣat*) where the Saṃhitā has "ತ್ರಿಷನ್", शूलंनिहतस्य (*śūlaṃnihatasya*) and उशत्भ्यः (*uśatbhyaḥ*).]*
+
+> यत् । ते । गात्रात् । अग्निना । पच्यमानात् । अभि । शूलंनिहतस्य । अव्यधावति ।
+> मा । तत् । भूम्यां।आ । श्रिषत् । मा । तृणेषु । देवेभ्यः । तत् । उशत्भ्यः ।
+> रातं । अस्तु ॥ ११ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> हे अश्व ते तवाग्नि ना पच्यमानाद्दात्राद्यदूष्मरूपं रसो वा यत्किंचिदवधावति । तथा निहतस्य निःशेषेण हतस्य तव यदंगं रसरूपं शूलमभिलक्ष्यावधावति
+> निर्गच्छति । तत् तदंगं भूम्यां मा श्रिषत् । अश्लिष्टं मा भूत् ॥ श्रिषेः पुषादित्पादज् ॥ पाकसमये तथा मा तृणेषु विशसनसमये दर्भेषु मापगच्छतु । तर्हि
+> तत्पतितं कुत्र गच्छत्विति चेत् उच्यते । तत्तादृशमुशद्भ्यः कृत्स्नं हविः कामयमानेभ्यो देवेभ्यो रातं दत्तमस्तु ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): may whatever drips from your body while cooking, or slips from the spit, not cling to ground or grass but go to the gods.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+हे अश्व (*he aśva*)—O horse; अग्निना (*agninā*)—by fire; पच्यमानात् (*pacyamānāt*)—being cooked; ते (*te*)—your; गात्रात् (*gātrāt*)—from the body; यत् (*yat*)—whatever part, or juice in liquid form; अवधावति (*avadhāvati*)—spills and flows down, (and); निहतस्य (*nihatasya*)—whatever part of your dead body; शूलमभि (*śūlamabhi*)—slips and falls down from the spit (on which the flesh is pierced and cooked); भूम्यां तत् (*bhūmyāṃ tat*)—that part fallen on the ground; मा आश्रित् (*mā āśrit*) *[so printed]*—let it not cling to the earth (also the part fallen on the spread darbha grass); मा (श्रिषत्) (*mā (śriṣat)*)—let it not cling; (but) तत् (*tat*)—the part thus spilled; उशद्भ्यः (*uśadbhyaḥ*)—who desire the whole oblation; देवेभ्यः (*devebhyaḥ*)—to the gods; रातं अस्तु (*rātaṃ astu*)—let it be as if offered.
+
+**भावार्थ (Bhāvārtha)**
+
+O horse, the juice and other parts that fall down and spill out of the vessel while your dead body is being cooked in the fire, and the part (piece or fragment) that slips and falls from the spit while the flesh is pierced and roasted, whether they fall on the ground or on the spread darbha grass, may they not be wasted but be offered to the gods who love the oblation.
+
 ---
 
-**Progress note:** Done through printed p. 184 (PDF 184). Sūkta 162 Ṛk 9 Bhāvārtha end to grammar; Ṛk 10 Saṃhitā to Bhāvārtha
+**Progress note:** Done through printed p. 187 (PDF 187). Sūkta 162 Ṛk 10 English to grammar; Ṛk 11 Saṃhitā to Bhāvārtha
