@@ -16588,6 +16588,166 @@ In such Ṛks it is explained as अहिं वृत्रनामानम�
 > यूयं च सहैव क्रत्वा कर्मणा यद्वशाम यद्वष्टि कर्मॆ कामयामहे । तस्मादुदकं समानमेवेत्यर्थः । एवं मरुत इति निघातस्वरस्य व्याख्यानं ॥
 *[the Sāyaṇa-bhāṣya of Ṛk 7 ends at the end of this window; the Pratipadārtha and the rest of the Ṛk follow in the next window.]*
 
+### Printed p. 701
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 701] (as supplied).*
+
+*[Continuing Ṛk 7 of Sūkta 165: Pratipadārtha, Bhāvārtha, printed English and Special Topics.]*
+
+*[as supplied: stray label line "ಭಾವಃರ್ಥ" before the Bhāvārtha heading, a garbled form of the Bhāvārtha label.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+वृषभ (*vṛṣabha*)—O Indra, showerer of desired benefits; (त्वं (*tvaṃ*)—you); भूरि (*bhūri*)—exceedingly great deeds; चकर्थ (*cakartha*)—you have done (and yet); समानेभिः (*samānebhiḥ*)—together, equal; युज्येभिः (*yujyebhiḥ*)—united; अस्मे (*asme*)—our; पौंस्येभिः (*pauṃsyebhiḥ*)—of heroic deeds (with the help of these alone you have done them); शविष्ठ (*śaviṣṭha*)—O mighty one; इंद्र (*iṃdra*)—O Indra; क्रत्वा (*kratvā*)—by whichever deeds; यत् (*yat*)—rain and the like; वशाम (*vaśāma*)—we desire, of such kind; भूरीणि हि (*bhūrīṇi hi*)—exceedingly abundant deeds indeed; कृणवाम (*kṛṇavāma*)—we have done! (and therefore); मरुतः (*marutaḥ*)—we are Maruts.
+
+**भावार्थ (Bhāvārtha)**
+O Indra, showerer of desired benefits, it is true that you have done exceedingly great deeds. Yet it is only with the help of the heroic deeds that are in all of us, together, equal and united, that you have done all of them. O mighty Indra, we too have done exceedingly abundant deeds of the kind by which we desire rain and the like. Therefore we are Maruts.
+
+**Printed English**
+(Maruts),-Showerer (of benefits), you have done much ; but it has been with our united equal energies ; for we, too, most powerful Indra, have done many things, and by our deeds (we are, as) we desire to be, Maruts.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+समानेभिः युज्येभिः पौंस्येभिः (*samānebhiḥ yujyebhiḥ pauṃsyebhiḥ*)—This indicates the natural, collective power of the Maruts, and the heroic deeds accomplished by that power. The collective power of the Maruts is praised in many places:
+सप्त सप्त हि मारुतो गणस्तस्मान्मारुतः सप्तकपालः (*sapta sapta hi māruto gaṇastasmānmārutaḥ saptakapālaḥ*) (Śa. Brā. 2-5-1-13)
+सप्त सप्त हि मारुतो गणः सर्वमेवैतेन रथं प्रीणाति (*sapta sapta hi māruto gaṇaḥ sarvamevaitena rathaṃ prīṇāti*) (Śa. Brā. 5-4-3-17)
+From such passages it is understood that the Maruts are always in a company. In such a company a kind of vitality and power is naturally present.
+
+### Printed p. 702
+*Running head: 702 ಸಾವಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೩ ಸೂ. ೧೬೫ (as supplied; the page marker was inserted by the script; ಸಾವಣ is printed so).*
+
+**Special Topics** *(continued)*
+पौंस्येभिः (*pauṃsyebhiḥ*)—पुंसः कर्म पौंस्यं (*puṃsaḥ karma pauṃsyaṃ*); the sense is the power of a man. This word is read among the bala-names (Ni. 3-9) and among the saṃgrāma-names (Ni. 3-9). In the present Ṛk it has to be understood as "power".
+अथ मरुद्भ्यः क्रीडिभ्यः सप्तकपालं पुरोडाशं निर्वपति मरुतो ह वै क्रीडिनो वृत्रग्ं हनिष्यंतमिंद्रमागतं तमभितः परिचिक्रीडुः (*atha marudbhyaḥ krīḍibhyaḥ saptakapālaṃ puroḍāśaṃ nirvapati maruto ha vai krīḍino vṛtragṃ haniṣyaṃtamiṃdramāgataṃ tamabhitaḥ paricikrīḍuḥ*) .... .... .... (Śa. Brā. 2-5-3-20)
+In all such passages the help that Indra received from the Maruts at the time of the demon Vṛtra is stated, and therefore a share is assigned to the Maruts also in the oblations that Indra accepts. In the present Ṛk the Maruts remind him of the help they gave before.
+कृत्वा मरुतो यद्वशाम (*kṛtvā maruto yadvaśāma*)—Sāyaṇa himself has said that giving a meaning for this portion is somewhat difficult. First, from the explanation यतो वयं मरुतः (*yato vayaṃ marutaḥ*) it is understood that these are words of the Maruts. Afterwards, from the explanation
+अथवा इंद्रस्येदं वाक्यं ; हे मरुतः यत् यस्यैव तत्‌तस्यैव भवतु (*athavā iṃdrasyedaṃ vākyaṃ ; he marutaḥ yat yasyaiva tattasyaiva bhavatu*)........॥
+and so on, he has indicated that it can also be said to be a speech of Indra. The scholar Max Muller has stated his opinion on this matter in this way:
+> The last words leave no doubt as to their meaning, for the phrase is one of frequent occurrence. The only difficulty is the vocative ⟦मतुतः⟧ where we should expect the nomi-native It is quite possible, however, that the Maruts Should here address themselves, though, no doubt, it would be easy to alter the accent.
+
+> *The last words leave no doubt as to their meaning, for the phrase is one of frequent occurrence. The only difficulty is the vocative ⟦matutaḥ⟧ where we should expect the nomi-native It is quite possible, however, that the Maruts Should here address themselves, though, no doubt, it would be easy to alter the accent.*
+> (Sacred Books of the East. Voi. XXXII. The Vedic Hymns. p. 198)
+*[as supplied: "Voi." for "Vol.", "nomi-native" with the line-break hyphen kept, and मतुतः (*matutaḥ*) in Kannada letters for the Sanskrit word, as printed.]*
+Although the meaning of the last words is clear, the fact that the word मरुतः (*marutaḥ*), which ought to be in the nominative, stands in the vocative causes some delay; or one may say that the Maruts may have addressed themselves.
+In some passages such as
+अप्रामिसत्य मघवन्तथेदसदिंद्र कृत्वा यथा वशः (*aprāmisatya maghavantathedasadiṃdra kṛtvā yathā vaśaḥ*) (Ṛ. Saṃ. 8-61-4)
+the style क्रत्वा यथा वशः (*kratvā yathā vaśaḥ*) stands just as in the present Ṛk.
+
+### Printed p. 703
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೫ ] ಋಗ್ವೇದಸಂಹಿತಾ 703] (as supplied; the script had marked this page 704, corrected to 703 in kn.md and the page list, since the next running head is 704).*
+
+*[as supplied: label line "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ।" before the standard Vyākaraṇa-prakriyā heading.]*
+
+**Vyākaraṇa-prakriyā** *(Grammar, transcribed, not explained, Ṛk 7)*
+*Grammar (transcribed, not explained):* चकर्थ (*cakartha*)—root करणे (*karaṇe*) (Dukṛñ), perfect (liṭ), second person singular; the accent of a finite verb (tiṅanta-nighāta) is mentioned. युज्येभिः (*yujyebhiḥ*)—root yuj, suffix kyap by the power of bahula; the ending bhis and the optional ais-substitution, etc.; for अस्मे (*asme*) the sūtra Pā. Sū. 7-1-39 is cited.
+समासेभिः (*samāsebhiḥ*) *[as supplied: printed so for समानेभिः (*samānebhiḥ*)]*—the ending bhis, the optional ais-substitution, and the substitution of e (Pā. Sū. rule "bahuvacane jhaly et"). पौंस्येभिः (*pauṃsyebhiḥ*)—suffix ṣyañ, the strengthening of the first vowel, initial accent (ādyudātta); कृणवाम (*kṛṇavāma*)—root krvi, imperative (loṭ) first person plural, the hi-rule Pā. Sū. 8-1-34 prevents nighāta.
+शविष्य (*śaviṣya*) *[as supplied: for शविष्ठ (*śaviṣṭha*)]*—śavaḥ is a name of strength; suffix vini in the sense of possession, then iṣṭhan, with luk of vini by Pā. Sū. 5-3-65 and elision of ṭi; in the vocative the āmantrita-nighāta accent comes. क्रत्वा (*kratvā*)—instrumental singular, na-ending optional by Pā. Sū. 7-3-109-1 (as printed), yaṇ-substitution. मरुतः (*marutaḥ*)—in the first explanation the all-unaccented accent (chāndasa); in the second the nighāta accent by "āmantritasya ca". वशाम (*vaśāma*)—root वश कांतौ (*vaśa kāṃtau*), kānti meaning wish; loṭ first person; no nighāta because of the yad-connection; by Pā. Sū. 6-1-186 the root accent remains. ॥ 7 ॥
+*[as supplied: stray line ":0:" at the end of the page.]*
+
+### Printed p. 704
+*Running head: 704 ಗಾಯನಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೩. ಸೂ. ೧೬೫ (as supplied; ಗಾಯನ is printed for ಸಾಯಣ, and ಆ for ಅ).*
+
+*[as supplied: garbled label line "ಸಂಖ್ಯಾಶಾಸ್ತ್ರ" before the Saṃhitā-pāṭha heading; label ಪದಪಾಠಃ was missing in the supplied text and was inserted by the script; garbled label "ಬಃ ೧೨೮" before the Sāyaṇa-bhāṣya heading.]*
+
+#### Ṛk 8
+**॥ संहितापाठः ॥**
+> वधीं॑ व्॒रतं म॑रुत इंद्रि॒येण॒ स्वेन॒ भामे॑न तवि॒षो॒॑
+> ब॑भू॒वान् ।
+> अ॒हमे॒ता मन॑वे वि॒श्वश्चं॑द्राः सु॒गा अ॒पश्च॑कर॒ वज्र॑बाहुः॥८॥
+**॥ पदपाठः ॥**
+> वधीं । वृत्रं । मरुतः । इंद्रियेण । स्वेन । भामेन । तविषः । बभूवान् ।
+> अहं । एताः । मनसे । विश्वचंद्राः । सुगाः । अपः । च क र । वज्रबाहुः ॥ ८ ॥
+**॥ सायणभाष्यम् ॥**
+> इदानीमिंद्र आह । हे मरुत अदमि द्र इंद्रियेण स्वेन भामेन कोपेन
+> तविषो बलवान् बभूवान् । भूतः । संपन्नः । कस्यॆ कमिति तदुच्यते । मनवे
+> मनोरर्थायैता विश्वश्चंद्रा: सर्वाह्लादका सुगा: सुगमनाः सर्वत्र नद्यादिशु
+> गमनशीला अपो वृष्टु दकानि चकर । चकार । कृतवानस्मि । यतोऽहं वज्रबाहुः ।
+> अनेन सहायनैरपेक्ष्यमुक्तं भवति ॥
+*Gist:* Indra says: by his own power and anger he slew Vṛtra and made the pleasing, easy-flowing waters for man, needing no helper.
+
+*[as supplied: in the supplied text the Pratipadārtha and Bhāvārtha stood inside the bhāṣya block under the garbled labels "ಪ್ರವಾಸ." and "ಧರ್ಮಾರ್ಥ"; kn.md was repaired so that they stand as Kannada prose under their standard labels.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+मरुतः (*marutaḥ*)—O Maruts; अहं (*ahaṃ*)—I; इंद्रियेण (*iṃdriyeṇa*)—by my prowess; स्वेन (*svena*)—my own; भामेन (*bhāmena*)—by the manifestation of wrath; वृत्रं (*vṛtraṃ*)—Vṛtra; वधीं (*vadhīṃ*)—*[as supplied: कॊंडॆनु (*kòṃḍènu*), "took", evidently for "killed"]*; तविषः (*taviṣaḥ*)—together with my powerful weapon; बभूवान् (*babhūvān*)—I joined, and; वज्रबाहुः (*vajrabāhuḥ*)—holding the thunderbolt in my hand; अहं (*ahaṃ*)—I; मनवे (*manave*)—for man; एतां (*etāṃ*)—these well-known; विश्वचंद्रा: (*viśvacaṃdrā:*)—delighting all, and; सुगाः (*sugāḥ*)—of excellent flow; अपः (*apaḥ*)—rain-waters and the like; चकर (*cakara*)—I have created.
+
+**भावार्थ (Bhāvārtha)**
+O Maruts, by my own prowess and by the manifestation of my wrath I killed *[as supplied: "ವೃಕ್ಷ", tree, printed for Vṛtra]* and became exceedingly powerful. And holding the thunderbolt in my hand, I have created, for the good of man, the rain-waters and the like that delight all and flow excellently. *[as supplied: मुत्तुगळे (*muttugaḷe*) for "Maruts" in the first words.]*
+
+### Printed p. 705
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೨೫ ] ಋಗ್ವೇದಸಂಹಿತಾ 705] (as supplied).*
+
+**Printed English**
+(Indra),—by my own prowess, Maruts, I, mighty in my wrath, slew Vritra : armed with my thunderbolt, I created all these pellucid gently-flowing waters for (the good of) man.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk Indra says that he alone, with no one's help, slew the enemy, that by his own power he made the stream of rain and the like flow and did good to people, and that in these works there was no help at all from the Maruts.
+इंद्रियेण स्वेन (*iṃdriyeṇa svena*)—the meaning is "by his own strength". The Nirukta authors have included the word indriya among the 28 wealth-names beginning मघं (*maghaṃ*), रेक्णः (*rekṇaḥ*) (Ni. 3-9). Whether strength, wealth or any other meaning, it is understood from many passages of the Ṛk-saṃhitā that the word indriya derives from its connection with Indra. Besides these two meanings, it means "fit to be offered to Indra" and "what gives satisfaction to Indra".
+न क्षोणीभ्यां परिभ्ये त इंद्रियं न समुद्रॆः पर्वतैरिंद्र ते रथः (*na kṣoṇībhyāṃ paribhye ta iṃdriyaṃ na samudrèḥ parvatairiṃdra te rathaḥ*) (Ṛ. Saṃ. 2-16-3)
+In Ṛks like this, इंद्रियं-बलं (*iṃdriyaṃ-balaṃ*) and इंद्रियाय-वीर्याय (*iṃdriyāya-vīryāya*): the heroism and capacity of Indra are described.
+निरग्नयो रुरुचुर्निरु सूर्यो निः सोम इंद्रियोरसः (*niragnayo rurucurniru sūryo niḥ soma iṃdriyorasaḥ*) (Ṛ. Saṃ. 8-3-20)
+Here इंद्रेण सेव्यः इंद्रियः रसः (*iṃdreṇa sevyaḥ iṃdriyaḥ rasaḥ*), that is, the Soma juice fit to be enjoyed by Indra;
+नही न्वस्य महिमानमिंद्रियं स्वर्गृणंत आनशुः (*nahī nvasya mahimānamiṃdriyaṃ svargṛṇaṃta ānaśuḥ*) (Ṛ. Saṃ. 8-3-13)
+in this Ṛk इंद्रियमिंद्रस्य लिंगमिंद्रस्यैवासाधारणं (*iṃdriyamiṃdrasya liṃgamiṃdrasyaivāsādhāraṇaṃ*), that is, the uncommon greatness of Indra;
+आपच्छोकमिंद्रियं पूयमानः प्रति देवा अजुषत पयोभिः (*āpacchokamiṃdriyaṃ pūyamānaḥ prati devā ajuṣata payobhiḥ*) (Ṛ. Saṃ. 9-92-1)
+in Ṛks like this इंद्रस्य पर्याप्तं (*iṃdrasya paryāptaṃ*), that is, as much as suffices to satisfy Indra; and
+*[as supplied: stray line "[45] [ Vol. 12" at the foot of the page.]*
+
+### Printed p. 706
+*Running head: 706 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೩. ಸೂ. ೧೬೫] (as supplied).*
+
+**Special Topics** *(continued)*
+यथा क्षयाम सर्ववीरया विशा तन्नः शर्धाय धासथा स्विंद्रियं (*yathā kṣayāma sarvavīrayā viśā tannaḥ śardhāya dhāsathā sviṃdriyaṃ*) (Ṛ. Saṃ. 1-111-2)
+उद्यत्सहः सहस आजनिष्ट देदिष्ट इंद्र इंद्रियाणि विश्वा (*udyatsahaḥ sahasa ājaniṣṭa dediṣṭa iṃdra iṃdriyāṇi viśvā*) (Ṛ. Saṃ. 5-31-3)
+in such contexts it is understood to mean wealth, riches. In the present Ṛk it means Indra's own strength.
+भामेन (*bhāmena*)—the word भाम (*bhāma*) is read among the names of anger (Ni. 3-9).
+त्व हि मन्यो अभिभूत्योजाः स्वयंभूर्भामो अभिमातिषाहः । विश्वचर्षणिः सहुरिः सहानानस्मास्वोजः पृतनासु धेहि (*tva hi manyo abhibhūtyojāḥ svayaṃbhūrbhāmo abhimātiṣāhaḥ | viśvacarṣaṇiḥ sahuriḥ sahānānasmāsvojaḥ pṛtanāsu dhehi*) (Ṛ. Saṃ. 10-83-4)
+As the meaning "anger" is understood in such Ṛks, in the present Ṛk also it means the anger that Indra shows toward the enemy.
+*[as supplied: garbled label line "ಪ್ಯಾಕೆಟ ಪ್ರಕ್ರಿಯಾ" before the Vyākaraṇa-prakriyā heading.]*
+
+**Vyākaraṇa-prakriyā** *(Grammar, Ṛk 8)*
+*Grammar (transcribed, not explained):* वधीम् (*vadhīm*) *[as supplied: ending m; the Pada-pāṭha has वधीं (*vadhīṃ*)]*—root han, aorist (luṅ), vadha-substitution by Pā. Sū. 2-4-43 (printed "ಸಾ." for "ಸೂ." in places), the augment īṭ by Pā. Sū. 7-3-66 (as printed), loss of sic by Pā. Sū. 8-2-28, the vṛddhi blocked by Pā. Sū. 7-2-7, no aṭ augment in the Veda; the root accent remains.
+इंद्रियेण (*iṃdriyeṇa*)—Pā. Sū. 5-2-93, formed with the suffix ghac as a nipātana; antodātta accent as the suffix has the mark c. भामेन (*bhāmena*)—root bhā dīptau, suffix man by Uṇ. Sū. 1-137 (printed ಉ. ಸೂ), ādyudātta accent. बभूवन् (*babhūvan*) *[as supplied: for बभूवान् (*babhūvān*)]*—root bhū, suffix kvasu in the Veda; with su following, the num augment; lengthening of the penultimate vowel; loss of su.
+
+### Printed p. 707
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೫ ] ಋಗ್ವೇದಸಂಹಿತಾ 707] (as supplied).*
+
+**Vyākaraṇa-prakriyā** *(continued)*
+*Grammar (transcribed, not explained):* विश्वश्चंद्राः (*viśvaścaṃdrāḥ*)—Pā. Sū. 6-2-199, the accent on the end of the first member. सुगाः (*sugāḥ*)—root gam gatau, suffix ḍa when su is the upapada; loss of the root's ṭi (am) by the force of ḍit-ness; the krt-uttarapada-prakṛtisvara accent. चकर (*cakara*)—root Dukṛñ karaṇe, perfect (liṭ) first person singular, ṇal-substitution optional by Pā. Sū. 7-1-91; guṇa; the tiṅanta-nighāta accent. वज्रबाहुः (*vajrabāhuḥ*)—a bahuvrīhi (vajraḥ bāhau yasya saḥ); by Pā. Sū. 6-2-1 the first member keeps its natural accent. ॥ 8 ॥
+
+#### Ṛk 9
+*[as supplied: garbled label "ದಹನ" after the Saṃhitā block, replaced by the script's label ಪದಪಾಠಃ for the next block; garbled label "ಸಾಯುಜಭಟಸ್ಯಂ" before the Sāyaṇa-bhāṣya heading.]*
+
+**॥ संहितापाठः ॥**
+> अनु॑त्त॒मा ते॑ मघव॒न्नकि॒र्नु न त्वावा॑ अस्ति दे॒वता॒ विदा॑नः ।
+> न जाय॑मानो॒ नश॑ते॒ न जा॒तो यानि॑ करि॒ष्या कृ॑णु॒हि॑
+> प्रवृद्ध ॥ ९ ॥
+**॥ पदपाठः ॥**
+> अनुत्तं । आ । ते । मघवन् । नकिः । नु । न । त्वावान् । अस्ति । देवता । विदानः ।
+> न । जायमानः । नशते । न । जातः । यानि । करिष्या । कृणुहि । प्रवृद्ध ॥ ९ ॥
+**॥ सायणभाष्यम् ॥**
+> इदानीं ते मरुतो हर्षण प्रत्याहुः । आ इति स्मरणे । स्मृतवंतो वयमिदानीं हे मघवन् ते त्वयानुत्तमप्रेरितं नकिर्नु । नैवास्ति । नु निश्चये । त्वया
+> यदुक्तं तत्सत्यमित्यर्थः । हे देव त्वानांस्त्वत्सदृशो विदानो विद्वान् ॥ व्यत्ययेन
+> शानच् ॥ जयोपायवेदिता देवता देवो नास्ति । किंच हे प्रवृद्भातिबल जायमानो जातो वा कश्चिद्देवो मर्त्यो वा त्वं यानि वृत्रवधादीनि करिष्या कर्तव्यानि कृणुहि पुरुषे तानि न नशते । न व्याप्ोति । नशतिर्व्याप्तिकर्मा । नान्यस्तच्छेष्टितानुकार्येवेत्यर्थः ॥
+*Gist:* The Maruts reply with praise: nothing is unaccomplished by Indra, no god equals him in wisdom, and no one born or unborn can match his deeds.
+
+### Printed p. 708
+*Running head: 708 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೩ ಸೂ. ೧೬೫] (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+मघवन् (*maghavan*)—O Indra; आ (*ā*)—certainly; ते (*te*)—by you; अनुत्तं (*anuttaṃ*)—a work not carried out; नुकिर्नु (*nukirnu*)—there is none at all; त्वावान् (*tvāvān*)—like you; विदानः (*vidānaḥ*)—wise; देवता (*devatā*)—a deity; न अस्ति (*na asti*)—there is none at all; प्रवृद्द (*pravṛdda*)—O exceedingly mighty Indra *[as supplied: printed प्रवृद्द (*pravṛdda*)]*; यानि (*yāni*)—those deeds, of the kind of Vṛtra's slaying; करिष्या (*kariṣyā*)—to be carried out (for the good of the world); कृणुहि (*kṛṇuhi*)—which you do, those; जायमानः (*jāyamānaḥ*)—one who will be born hereafter, and; जातः (*jātaḥ*)—one who was born before, any deity or any man; न नशते (*na naśate*)—cannot do more than you.
+
+*[as supplied: the Bhāvārtha label stands as "ಬಸವೇಶ್ವರ" in the supplied text; it was repaired in kn.md to the standard label.]*
+
+**भावार्थ (Bhāvārtha)**
+O Indra, there is no work that has not been carried out by you. Among the gods there is no one as wise as you. O exceedingly mighty Indra, those deeds of the kind of Vṛtra's slaying, to be carried out for the good of the world, which you do: no deity, whether to be born hereafter or already born, and no man, can do them and surpass you.
+
+**Printed English**
+(Maruts),—Verily, Maghavat, nothing (done) by you is unavailing there is no divinty *[sic]* as wise as you : no one being born, or that has been born, ever surpasses the glorious deeds which you, mighty (Indra) have achieved.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Although the Maruts received help from Indra's side in a time of difficulty and, at the time of accepting the oblation, he forgot that help, the Maruts still pay Indra the honour due to him and praise his prowess. The meaning is that no deity equal to Indra in action, in wisdom or in benefit to the world was born before, and none will be born hereafter.
+नशते (*naśate*)—नशतिर्व्याप्तिकर्मा (*naśatirvyāptikarmā*). This word is read among the names of vyāpti-karma (Ni. 3-10). That a deity or a man does not pervade you means that he cannot make your work forgotten and do a greater work than it.
+
+**Vyākaraṇa-prakriyā** *(Grammar, Ṛk 9)*
+*Grammar (transcribed, not explained):* अनुत्तम् (*anuttam*) *[as supplied: ending m; the Pada-pāṭha has अनुत्तं (*anuttaṃ*)]*—root णुद प्रेरणे (*ṇuda preraṇe*), suffix kta; by the sūtra cited as (Pā. Sū 8-61) *[as supplied: number printed without a hyphen]* nipātana, so the niṣṭhā-nattva does not occur. Then the tatpuruṣe tulyārtha rule (Pā. Sū. … *[the print breaks off here at the end of the window; it continues on the next page]*
+
 ---
 
-**Progress note:** Done through printed p. 700. Vol 12 pp. 695-700: end of Ṛk 5, Ṛk 6 with commentary, Ṛk 7 text and Sāyaṇa
+**Progress note:** Done through printed p. 708. Sukta 165 Rk 7 (end) to Rk 9 (start of grammar), pp. 701-708
