@@ -2317,6 +2317,106 @@ In the present ṛk, as in the Atharvaveda sentence quoted above, the word has a
 
 ते (*te*)—well-known; महिनी (*mahinī*)—great; द्यावापृथिवी (*dyāvāpṛthivī*)—O Heaven and Earth; गृणाने (*gṛṇāne*)—being praised (by us); येन (*yena*)—by which; विश्वाहा (*viśvāhā*)—every day; कृष्टी: (*kṛṣṭī:*) *[so printed]*—the people in the form of sons and the rest; अभि ततनाम (*abhi tatanāma*)—we extend (such); महि (*mahi*)—great; श्रवः (*śravaḥ*)—food (or fame); बृहत् (*bṛhat*)—abundant; क्षत्रं (*kṣatraṃ*)—strength… *[the Pratipadārtha is cut off here at the end of the supplied text of p. 80; it continues on p. 81, in the next window]*
 
+### Printed p. 81
+
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೩.] Ṛgveda-saṃhitā, p. 81 (as supplied).* (The Pratipadārtha of Ṛk 5 continues after "ಕ್ಷತ್ರಂ—strength".)
+
+नः (*naḥ*)—to us; धासथः (*dhāsathaḥ*)—give; (and) अस्मे (*asme*)—to us; पनाय्क्यं (*panāykyaṃ*) *[so printed]*—worthy of praise; ओजः (*ojaḥ*)—vigour; समिन्वतं (*saminvataṃ*)—increase.
+
+**भावार्थ (Bhāvārtha)**
+
+O well-known and great Heaven and Earth! Praised by us, give us abundant food and strength. By means of it, grant that we may daily increase our progeny. Increase also our vigour, which is worthy of praise.
+
+**Printed English translation**
+
+Glorified by us, grant to us, Heaven and Earth, abundant food and great strength ; whereby we may daily multiply mankind ; bestow upon us commendable vigour.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk a reward is expected from Heaven and Earth, whom (the seer) has worshipped. श्रव (*śrava*), क्षत्र (*kṣatra*) and ओजस् (*ojas*) are the rewards that are expected. Of these, श्रव (*śrava*) and क्षत्र (*kṣatra*) are the means of the increase of progeny.
+
+श्रवः—सर्वत्र प्रसिद्धमन्नं, सर्वत्र श्रूयमाणां कीर्तिं वा । (*śravaḥ—sarvatra prasiddhamannaṃ, sarvatra śrūyamāṇāṃ kīrtiṃ vā |*) It is explained as well-known food or well-known fame. Both these meanings are possible for this word. The authors of the Nirukta, explaining the ṛk अभि श्रव ऋज्यंतः (*abhi śrava ṛjyaṃtaḥ*) (Ṛ. Saṃ. 6-37-3), (say) for the word श्रव (*śrava*): श्रव इत्यन्ननाम, श्रूयत इति सतः । (*śrava ityannanāma, śrūyata iti sataḥ |*) — because it is well known everywhere (is heard by all), the word श्रव (*śrava*), formed from the root श्रु (*śru*), means "food" (Ni. 10-3); and
+
+इंद्रस्य यस्य सुमखं सहो महि श्रवो नृण्णं च रोदसी सपर्यतः ॥ (*iṃdrasya yasya sumakhaṃ saho mahi śravo nṛṇṇaṃ ca rodasī saparyataḥ ‖*)
+
+(Ṛ. Saṃ. 10-50-1)
+
+here श्रवणीयं यशः । (*śravaṇīyaṃ yaśaḥ |*) is the explanation: "the fame that is heard by all", that is, well-known glory (Ni. 11-9). Therefore in the present ṛk the meaning "food" or "glory", the one synonymous with the other, is stated; or, since food too gives a share of glory, "food as the means of glory" is also understood.
+
+बृहत्या श्रीकामो यशस्वामः कुर्वीत । श्रीवैर्यशश्चंदसां बृहती । श्रिय (*bṛhatyā śrīkāmo yaśasvāmaḥ kurvīta | śrīvairyaśaścaṃdasāṃ bṛhatī | śriya*)
+मेव यश आत्मनत्ते । (*meva yaśa ātmanatte |*)
+
+(Ai. Brā. 1-5)
+
+(Ai. Brā. 1-5) *[the reference is printed twice, as supplied]*
+
+*[Stray signature line "[6] Vol. 12" at the end of p. 81, kept in kn.md as a note.]*
+
+### Printed p. 82
+
+*Running head: 82 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22 (printed "ಅ ೨೨."), Sū. 160.*
+
+Here the identity of Śrī, in the form of wealth such as grain, and of the glory obtained from it is stated. If one has wealth, a man becomes famous through gifts and the like; so wealth of food and the like is the basis of glory, and if wealth such as food exists, glory is obtained of itself; hence two meanings can be given to the word श्रव (*śrava*). It is prayed: "give us such श्रव (*śrava*)".
+
+क्षेत्र (*kṣetra*) *[so printed for ಕ್ಷತ್ರ]*—The word क्षत्र (*kṣatra*) means "strength". This is not ordinary strength; it is the power that protects food, glory and the whole of a man's possessions. If this *kṣatra* is not there, a man can have no kind of protection. Because it is so necessary, (the seer), not content with the satisfaction of food and glory, prays for *kṣatra* also. Therefore in other places too the greatness of *kṣatra* is praised at length. The means of wealth of food and the like is the sacrifice; the protector of such a sacrifice is *kṣatra*; if there is no support of *kṣatra*, there is no protection of the sacrifice. Hence its greatness and its necessity.
+
+अथातो देवयजनस्यैव याज्ञस्तदाहुर्यद्ब्राह्मणो राजन्यो वैश्यो (*athāto devayajanasyaiva yājñastadāhuryadbrāhmaṇo rājanyo vaiśyo*)
+दीक्षिष्यमाणः क्षत्रियं देवयजनं याचति कं क्षत्रियो याचेदिति । दैवं (*dīkṣiṣyamāṇaḥ kṣatriyaṃ devayajanaṃ yācati kaṃ kṣatriyo yācediti | daivaṃ*)
+क्षत्रं याचेदित्याहुरादितोवै दैवं क्षत्रमादित्य एषां भूतानामधि- (*kṣatraṃ yācedityāhurāditovai daivaṃ kṣatramāditya eṣāṃ bhūtānāmadhi-*)
+पतिः । .... .... .... .... .... .... .... .... .... .... तस्य ह न काचन (*patiḥ | .... .... .... .... .... .... .... .... .... .... tasya ha na kācana*)
+रिष्टिर्भवति देवेन सवित्रा प्रसूतस्कोत्तरोत्तरिणीं ह श्रियमश्नुतेऽश्नुते (*riṣṭirbhavati devena savitrā prasūtaskottarottariṇīṃ ha śriyamaśnute 'śnute*)
+ह प्रजानामैश्वर्यमाधिपत्यं य एवमुपस्थाय याचित्वा देवयजनमध्यव- (*ha prajānāmaiśvaryamādhipatyaṃ ya evamupasthāya yācitvā devayajanamadhyava-*)
+साय दीक्षिते क्षत्रियः सन् । (*sāya dīkṣite kṣatriyaḥ san |*)
+
+(ಇ ಬ್ರ. 7-20) *[printed so; abbreviation not expanded]*
+
+If Brahmins and others of the other classes wish to perform a sacrifice, they must obtain the support of a *kṣatriya*; if a *kṣatriya* himself wishes to perform a sacrifice, he must obtain the support of the divine *kṣatra*. Āditya, the lord of the whole world, is the essence of this *kṣatra*. Every sacrificer, completing the sacrifice with the protection of this Āditya in the form of *kṣatra*, obtains lordship himself, obtains all wealth, and obtains unobstructed victory.
+
+At sacrifices, or at other times of praising the deities, in order that the work may be accomplished without obstacle and that all wealth may be obtained, just as the protection of deities such as Āditya, in the form of *kṣatra*, must be obtained, so the protection of mantras such as the *trivṛt-stoma*, in the form of *kṣatra*, must be obtained: thus their power is described.
+
+सैतस्मिन्नधूळ्हा स यजमानस्तद्वैवं क्षत्रं सहो बलं । अश्नुते ह वै दैवं (*saitasminnadhūḷhā sa yajamānastadvaivaṃ kṣatraṃ saho balaṃ | aśnute ha vai daivaṃ*)
+क्षत्रं सहो बलं । (*kṣatraṃ saho balaṃ |*)
+
+(ಇತರೀಯ ಬ್ರಾಹ್ಮಣಂ 3-41) *[printed so, "ಇತರೀಯ" for Aitareya]*
+
+### Printed p. 83
+
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೩.] Ṛgveda-saṃhitā, p. 83 (as supplied).*
+
+The *trivṛt-stoma*, the means of brilliance, vigour, standing, victory and greatness, is itself the essence of this *kṣatra*. This power can stop any kind of obstacle. One who knows the secret of this mantra obtains the power to stop all kinds of obstacles: thus the power of mantras such as the *trivṛt-stoma* is described; and besides,
+
+त्रिष्टुप्रैष्टुभो वै राजन्य ओजो ना इंद्रियं वीर्यं त्रिष्टुबोजः क्षत्रं (*triṣṭupraiṣṭubho vai rājanya ojo nā iṃdriyaṃ vīryaṃ triṣṭubojaḥ kṣatraṃ*)
+वीर्यं राजन्यस्तदेनमोजसा क्षत्रेण वीर्येण समर्थयति ॥ (*vīryaṃ rājanyastadenamojasā kṣatreṇa vīryeṇa samarthayati ‖*)
+
+(Ai. Brā. 8-2)
+
+in such sentences the metres, such as *triṣṭubh*, which are in the form of *kṣatra*, and the point that, by worshipping them, one obtains strength in the form of *kṣatra* together with vigour and *ojas* and makes it a means of the wealth of progeny: thus the greatness of *kṣatra* is praised. To show that this is a supernatural power, दैवं क्षत्रं (*daivaṃ kṣatraṃ*) is said everywhere.
+
+क्षत्रं तदपि विज्ञेयं ब्रह्म यत्पाति शाश्वतं । (*kṣatraṃ tadapi vijñeyaṃ brahma yatpāti śāśvataṃ |*)
+
+(Bṛ. De. 5-126) *[printed "ಬೃ. ದೇ."]*
+
+That which has the ability to protect the eternal Brahman should be recognised as *kṣatra*. By this power all the other powers are protected.
+
+तस्मादु सर्वेषु लोकेषु क्षत्रस्यैव प्रशासनमभूत् । (*tasmādu sarveṣu lokeṣu kṣatrasyaiva praśāsanamabhūt |*)
+
+(Chā. U. 5-3-7) *[printed "ಛಾ. ಉ."]*
+
+Therefore in all the worlds lordship belongs to the *kṣatriya*.
+
+तस्मात् क्षत्रात्परं नास्ति तस्माद्ब्राह्मणः क्षत्रियमधस्तादुपास्ते । (*tasmāt kṣatrātparaṃ nāsti tasmādbrāhmaṇaḥ kṣatriyamadhastādupāste |*)
+
+(Bṛ. U. 1-4-11)
+
+Therefore, at the Rājasūya and similar sacrifices, even a Brahmin sits at a lower place than the *kṣatriya*. But this *kṣatra* is not merely a physical power.
+
+तच्छ्रेयोरूपमत्यसृजत धर्मं तदेतत् क्षत्रस्य क्षत्रं यद्धर्मस्तस्मा- (*tacchreyorūpamatyasṛjata dharmaṃ tadetat kṣatrasya kṣatraṃ yaddharmastasmā-*)
+द्वर्मात्परं । (*dvarmātparaṃ |*)
+
+(Bṛ. U. 1-4-14)
+
+This power is a *dharma* better than all *dharmas*; apart from it there is no other *dharma*. Because there is such a supernatural power, in the present ṛk, in order to obtain wealth in the form of food and in the form of glory, along with it the power in the form of *kṣatra*, which protects it, *[the supplied text of p. 83 ends here, in the middle of the sentence ("…ಕ್ಷತ್ರರೂಪದ ಶಕ್ತಿ"); it continues on p. 84, in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 80 (PDF 80). Sūkta 160 Ṛk 4 Special Topics end and grammar; Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha start
+**Progress note:** Done through printed p. 83 (PDF 83). Sūkta 160 Ṛk 5 Pratipadārtha end, Bhāvārtha, English, Special Topics (śravaḥ, kṣatra)
