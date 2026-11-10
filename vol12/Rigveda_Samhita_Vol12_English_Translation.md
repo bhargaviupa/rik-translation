@@ -17014,6 +17014,134 @@ The word is used also in this Ṛk (the one quoted above); there Sāyaṇa has e
 **भावार्थ (Bhāvārtha)**
 O Maruts, by hymns fit to attend upon you, for worshipping you, the intelligence, skilled in praise and belonging to the venerable sage, has now reached us. The intelligent *[the Kannada text of this window ends here, in the middle of the sentence; it continues on the next page]*
 
+### Printed p. 722
+*Running head: 722 Sāyaṇa-bhāṣya-sahitā [ಮಂ ೧. ಅ. ೨೩. ಸೂ. ೧೬೫] (as supplied).*
+
+**Bhāvārtha** *[continuing from p. 721]*
+…one, me, make up your full minds to come toward me and join. The praiser worships you through these well-known rites.
+
+**Printed English**
+Since the experienced intellect of a venerable (sage), competent to bestow praise upon (you), who deserve praise, has been exerted for us; do you, Maruts, come to the presence of the devout (worshipper), who, glorifying (you), worships you with these holy rites.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+दुवस्यात् दुवसे (*duvasyāt duvase*)—two kinds of meaning are possible for this. First, युष्मत्परिचरणार्हात् स्तोत्रात्, परिचरणाय (*yuṣmatparicaraṇārhāt stotrāt, paricaraṇāya*): "by a hymn that is fit for and sufficient to your worship". Second, दुवस्यानां परिचरणार्हाणां दुवसे परिचरणाय (*duvasyānāṃ paricaraṇārhāṇāṃ duvase paricaraṇāya*): "for the worship of you who are worthy of being served". The commentary states that the sense can be given in both ways.
+
+The word दुवस्यति (*duvasyati*) is read in the Nirukta among the names of acts of attendance (Ni. 3-13). The Nirukta-author, quoting the Ṛk
+परेयिवांसं प्रवतो महीरनु बहुभ्यः पंथामनुपस्पशानं (*pareyivāṃsaṃ pravato mahīranu bahubhyaḥ paṃthāmanupaspaśānaṃ*)
+वैवस्वतं संगमनं जनानां यमं राजानं हविषा दुवस्य (*vaivasvataṃ saṃgamanaṃ janānāṃ yamaṃ rājānaṃ haviṣā duvasya*)
+(Ṛ. Saṃ. 10-14-1), explains the word दुवस्य (*duvasya*) there as दुवस्यतिः राध्योतिकर्मा (*duvasyatiḥ rādhyotikarmā*), "an act of worship" (Ni. 10-20; the printed form is kept as supplied). The word is also used in the sense of protection. For example:
+याभिर्वम्रं विपिपानमुपस्तुतं कलिं याभिर्वित्तचानिं दुवस्यथः (*yābhirvamraṃ vipipānamupastutaṃ kaliṃ yābhirvittacāniṃ duvasyathaḥ*)
+याभिर्व्यश्वमुत पृथिमावतं ताभिरू षु ऊतिभिरश्विना गतं (*yābhirvyaśvamuta pṛthimāvataṃ tābhirū ṣu ūtibhiraśvinā gataṃ*)
+(Ṛ. Saṃ. 1-112-15). In Ṛks of this kind the sense "protected" is natural.
+
+कारुः (*kāruḥ*)—here the word kāru is an adjective of the word medhā (intelligence). It is explained as स्तुतिकुशला (*stutikuśalā*), "skilled in praise", that is, "one who makes praise and is skilled". Ordinarily this word is used mostly in the sense of "one who praises". This word is read in the Nirukta among the names of praisers such as rebha and jaritā (Ni. 3-9); and the Nirukta-author, in the Ṛk
+
+### Printed p. 723
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೬. । ಋಗ್ವೇದಸಂಹಿತಾ 723] (as supplied).*
+
+दैव्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यॆ (*daivyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyè*)
+प्रचोदयंता विदथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशंता (*pracodayaṃtā vidatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśaṃtā*)
+(Ṛ. Saṃ. 10-110-7), has explained it as कर्तारौ ऋत्विजौ (*kartārau ṛtvijau*), "the two doers", the two priests who are the performers of the sacrifice. The authors of the Bṛhaddevatā have used this word in the sense of poets, the sages who are seers of hymns:
+अग्नेस्तु यानि सूक्तानि पंचनामानि कारवः (*agnestu yāni sūktāni paṃcanāmāni kāravaḥ*)
+षड्विंशतिस्तथेंद्रस्य प्राहुः सूर्यस्य सप्त च (*ṣaḍviṃśatistatheṃdrasya prāhuḥ sūryasya sapta ca*)
+(Bṛ. Pe. 2-22, as supplied)
+पृथक्त्वेन समासैस्तु यज्ञे यच्छस्यते नृभिक (*pṛthaktvena samāsaistu yajñe yacchasyate nṛbhika*)
+स्तुवंत्याप्रीषु तेनेमं नराशंसं तु कारवः (*stuvaṃtyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ*)
+(Bṛ. De. 2-28). In such passages they have shown that "the kārus praised" is a synonym for poets. In the Ṛk-saṃhitā too, in
+प्रदक्षिणिदभि गृणंति कारवो वयो वदंत ऋतुथा शकुंतयः (*pradakṣiṇidabhi gṛṇaṃti kāravo vayo vadaṃta ṛtuthā śakuṃtayaḥ*)
+उभे वाचौ वदति सामगा इव गायत्रं च त्रैष्टुभं चानु राजति (*ubhe vācau vadati sāmagā iva gāyatraṃ ca traiṣṭubhaṃ cānu rājati*)
+(Ṛ. Saṃ. 2-43-1) and similar Ṛks, the sense "praisers" results. In the present Ṛk also the meaning is: poets who are praisers.
+
+*Grammar (transcribed, not explained):*
+दुवस्यात् (*duvasyāt*)—the root duvas in the sense of attendance; the affix yak in its own sense by कंड्वादिभ्यो यक् (*kaṃḍvādibhyo yak*) (Pā. Sū. 3-1-26, as supplied); then the affix ac; final-acute by the accent of the affix. कारुः (*kāruḥ*)—the root ḍukṛñ in the sense of doing; the affix uṇ by (U. Sū. 1-1); vṛddhi of the root's ṛ with r following; final-acute by the accent of the affix. चक्रे (*cakre*)—the perfect (liṭ), third person singular of the same root; no nighāta accent because of the connection with the relative (yad); final-acute by the accent of the affix. वर्त (*varta*)—the root vṛtu in the sense of turning; parasmaipada by the rule of variation; because the lar-substitution holds, the second person plural takes the substitution ta, and then (Pā. Sū.
+
+### Printed p. 724
+*Running head: [724 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧ ಅ. ೨೩. ಸೂ ೧೬೫] (as supplied).*
+
+7-1-45, as supplied) the substitution taba for it; luk of the vikaraṇa by the rule "variously in the Veda"; because the affix is pit, guṇa of the light penultimate vowel of the root, with r following; nighāta accent because it stands after a non-verb. इमा (*imā*)—loss of ś̄i in the neuter by (Pā. Sū. 6-1970, as supplied). जरिता (*jaritā*)—the root jṛṣ̌ in the sense of loss of age (as printed), here used in the sense of praise; the affix tṛc in the agent sense; augment iṭ; guṇa of the root's i-vowel because of the affix; final-acute by (Pā. Sū. 9-1-163, as supplied). अर्चत् (*arcat*)—the root arc in the sense of worship; in the Veda the imperfect (laṅ) third person singular; the augment aṭ does not come, even in connection with āṅ, by (Pā. Sū. 6-4-75); no nighāta accent. ॥ 14 ॥
+
+*[stray line as supplied: गृहप्रवेश (*gṛhapraveśa*) ("entering a house"), standing between the end of Ṛk 14 and the next verse; the page also carried a picture, which repeats the Saṃhitā and Pada blocks of Ṛk 15 below with accent marks and the first words of the Sāyaṇa-bhāṣya heading. The figure line was removed from kn.md because the picture only repeats blocks the text already has.]*
+
+#### Ṛk 15
+**॥ संहितापाठः ॥**
+> ए॒ष वः॒ स्तोमो॑ मरुत इ॒यं गीर्मा॑न्दा॒यस्य॑ मा॒न्यस्य॒॑
+> कारोः ।
+> एषा या॑सीष्ट त॒न्वे॑ व॒यां वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं॥
+> ॥ १५ ॥
+**॥ पदपाठः ॥**
+> एषः । वः । स्तोमः । मरुतः । इयं । गीः । मांदार्यस्य । मान्यस्य । कारोः ।
+> आ । इषा । यासीष्ट । तन्वे । वयां । विद्याम । इषं । वृजनं । जीरदानुं ॥ १५ ॥
+**॥ सायणभाष्यम् ॥**
+> अथ पंचदश्यां सूक्तोपक्रममारभ्य कृतां स्तुतिं मरुद्भो निवेद्याभिमतमाशास्ते ॥
+> हे मरुतः एष स्तोम इदानींक्रियमाणप्रकारं स्तोत्रं वो युष्मदर्थं ।
+> युष्मत्रीणनाय भवत्वित्यर्थः । तथेयं गीः स्तुतिरूपा वागपि वो युष्मदर्थाय ।
+> यस्मादेवं तस्मान्मांदार्यस्य स्तुतिविशेषैर्मंदयितुः स्तुतिभिर्मदस्य प्रेरयि-
+*Gist:* In the fifteenth verse Sāyaṇa says that the sage, having offered to the Maruts the praise made from the start of the hymn, now asks for what he desires; the bhāṣya continues on the next page.
+
+### Printed p. 725
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೨೬ ] ಋಗ್ವೇದಸಂಹಿತಾ : 725 (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya of Ṛk 15:]
+> तुर्वा मान्यस्य वरप्रदानादिना माननीयस्य कारोः स्तोतुरिषेच्छया यासीष्ट ।
+> आगच्छत । किमर्थं । तन्ने शरीराय । तत्पोषायेत्यर्थः । वयां वयमपीषमन्नं
+> वृजनं बलं जीरदानुं जयशीलदानमेतत्सर्वं विद्याम । युष्मास्वागतेषु यज्ञसंपूर्त्येष्ट्यादिद्वारा लभेमहि ॥
+*Gist:* O Maruts, may the praise reach you, come at the poet's wish for the nourishment of our bodies; may we obtain food, strength and victorious gifts through the completion of the sacrifice.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+Marutaḥ—O Maruts; मांदार्यस्य (*māṃdāryasya*)—of the one who gives you delight, and मान्यस्य (*mānyasya*)—worthy of worship; कारोः (*kāroḥ*)—of the praiser; विषः स्तोमः (*viṣaḥ stomaḥ*) *[as supplied: for ಏಷಃ ಸ್ತೋಮಃ]*—this hymn of praise; वः (*vaḥ*)—is directed to you; इयं गीः (*iyaṃ gīḥ*)—this praising speech also (is directed to you); तन्ने (*tanne*) *[as supplied, for ತನ್ವೇ]*—for the nourishment of the body; इषा (*iṣā*)—with food; आ यासीष्ट (*ā yāsīṣṭa*)—come; वयां (*vayāṃ*)—we also; इषं (*iṣaṃ*)—food; वृजनं (*vṛjanaṃ*)—strength; जीरदानुं (*jīradānuṃ*)—a gift that is the means of victory; विद्याम (*vidyāma*)—may we obtain.
+
+**भावार्थ (Bhāvārtha)**
+O Maruts, this hymn of the praiser, who gives you delight and is worthy of worship, and this praising speech are directed to you. Come with food. Be gracious, so that we also may obtain food, strength, and a gift that is a means of victory.
+
+**Printed English**
+This praise, Maruts, is for you: this hymn is for you, (the work) of a venerable author, capable of conferring delight (by his laudations). May the praise reach you, for (the good of your) persons, so that we may (thence) obtain food, strength, and long life.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+मांदार्यस्य मान्यस्य (*māṃdāryasya mānyasya*)—when Sāyaṇa gives the component meanings of these words, he explains māndārya as one who produces delight, and mānya as worthy of worship. Both are epithets of Agastya. Both are also used as proper names. In the Bṛhaddevatā, where the origin of Agastya is told:
+मानेन संमितो यस्मात् तस्मान्मान्य इहोच्यते (*mānena saṃmito yasmāt tasmānmānya ihocyate*)
+यद्वा कुंभादृषिर्जातः कुंभेनापि हि मीयते (*yadvā kuṃbhādṛṣirjātaḥ kuṃbhenāpi hi mīyate*)
+(Bṛ. De. 5-153, the closing bracket is printed as supplied). It is told that the name mānya is famous for Agastya either because he is worthy of worship, or because he was born in the pot (kumbha), which indicates a kind of measure (māna), that is, born from the measure in the form of a pot.
+
+### Printed p. 726
+*Running head: [726 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧ ಅ ೨೩ ಸೂ. ೧೬೫] (as supplied).*
+
+*[The sentence above is completed on this page: "…because he was born from the pot, that is, from the measure in the form of a pot."]*
+In this same order the words मांदार्यस्य मान्यस्य कारोः (*māṃdāryasya mānyasya kāroḥ*) stand in the last Ṛks of the following hymns also, that is, of hymns 166, 167 and 168.
+
+There are two words, स्तोमः (*stomaḥ*) and गीः (*gīḥ*), synonyms for praise. They indicate different kinds of praise. The importance of stoma has been explained in detail in part 11 of the Ṛgveda-saṃhitā, pp. 50-52.
+
+*Grammar (transcribed, not explained):*
+इषा (*iṣā*)—by (Pā. Sū. 6-1-168) the third case-ending takes the acute. यासीष्ट (*yāsīṣṭa*)—the root yā in the sense of reaching; ātmanepada by the rule of variation (Pā. Sū. 3-1-85); liṅ third person singular, affix ta; the augment sīyuṭ by (Pā. Sū. 3-4-102); the augment suṭ by (Pā. Sū. 3-4-107), and loss of y; the singular comes by variation itself; nighāta accent of a finite verb. विद्याम (*vidyāma*)—the root vid in the sense of obtaining; liṅ, first person plural; because it stands at the beginning of a pāda, no nighāta accent; the ā-vowel takes the acute because yāsuṭ is acute. वृजनम् (*vṛjanam*)—the root vṛjī in the sense of avoiding; the affix kyu by (U. Sū. 2-339), no guṇa because it is kit; the substitution ana by (Pā. Sū. 7-1-1); initial-acute of the affix. जीरदानुम् (*jīradānum*)—in a bahuvrīhi the first member keeps its natural accent. ॥ 15 ॥
+
+Here the hymn 165 is concluded.
+
+*[stray line as supplied: "This image contains no text. It is a decorative graphic design consisting of stylized swirls and floral elements." (a decorative ornament in the print).]*
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् (*vedārthasya prakāśena tamo hārdaṃ nivārayan*)
+पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः (*pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ*)
+*(Verse printed at the close of the hymn: "Dispelling the darkness of the heart by the illumination of the meaning of the Veda, may Vidyātīrtha-Maheśvara grant the four ends of man.")*
+
+### Printed p. 727
+*Running head: [ಆ ೨. ಅ. ೩. ವ. ೨೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 727 (as supplied).*
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये द्वितीयाष्टके तृतीयोऽध्यायः (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye dvitīyāṣṭake tṛtīyo 'dhyāyaḥ*)
+Thus, in the Ṛk-saṃhitā-bhāṣya, "Light on the Meaning of the Veda" of the school of Mādhava, composed by Sāyaṇācārya, bearer of the burden of the empire of the glorious king Vīra Bukka, the king of kings and supreme lord, the founder of the Vedic path, the third chapter of the second aṣṭaka.
+समाप्तः (*samāptaḥ*) — is concluded.
+
+*[as supplied: श्री ४ (*śrī 4*) — "Śrī 4"; the print has this figure, kept without number correction.]*
+*[as supplied: हिं तत्सर्त् (*hiṃ tatsart*) [sic] — kept as printed; it is the closing formula of the colophon.]*
+
+Here the third chapter of the second aṣṭaka of the Ṛgveda-saṃhitā, accompanied by Śrī Sāyaṇa's bhāṣya and a Karnataka-language translation, is concluded.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet*)
+तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते (*tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te*)
+*(Whatever is fallen from letter or word, or whatever may lack the measure of a syllable, may all that be forgiven, O God, Lord of Speech; salutation to you.)*
+
+शुभं भूयात् (*śubhaṃ bhūyāt*) — "May there be auspiciousness."
+मंगळं (*maṃgaḷaṃ*) — "Blessing."
+
+*[Printer's line as supplied: "— — 808 — —". The supplied text ends here.]*
+
 ---
 
-**Progress note:** Done through printed p. 721. Sukta 165 Rk 12 end, Rk 13, Rk 14 start, pp. 716-721
+**Progress note:** Done through printed p. 727. FINAL: pp. 722-727, end of Sukta 165, adhyaya colophon and closing lines
