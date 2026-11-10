@@ -9607,6 +9607,152 @@ Having quoted the sentence that Āditya takes up this Marīci, the essence of al
 
 Only these six seasons, produced from Āditya, are of two months each; the seventh *(the sentence is cut by the end of the window as supplied and continues in the next window)*
 
+### Printed p. 387
+*Running head: [ಅ. ೨. ಆ. ೩. ವ. ೧೬.] ಋಗ್ವೇದಸಂಹಿತಾ 387 (as supplied).*
+
+(Continuing) ...the seventh is not a season (ṛtu): thus the purport is stated. For the latter half the same kind of meaning is given in both places. The purport is that the six seasons produced from these six rays, manifesting themselves also in their fixed places, become helpers in the activities of the world according to the command of Āditya, their presiding lord.
+
+रूपशः विकृतानि (*rūpaśaḥ vikṛtāni*)—रूपभेदेन विविधाकृतियुक्तानि (*rūpabhedena vividhākṛtiyuktāni*) : the meaning is "having different forms". Because there are these differences of form, Sāyaṇa quotes the sentence in which it is stated in the Taittirīya Saṃhitā that gifts and the like suited to the respective seasons are to be made:
+
+सरसमहवसंताय प्रायच्छद्यवं ग्रीष्माय (*sarasamahavasaṃtāya prāyacchadyavaṃ grīṣmāya*) *[as supplied: the first words are printed glued together; the bhāṣya above has them as separate words]*
+
+(Tai. Saṃ. 7-2-10-1, 2)
+
+Here, by prescribing the gift of grain and the like suited to the respective seasons, the variety of forms of the seasons is shown. That even these six seasons, of such manifold forms, stand in aid of their presiding lord and give, each according to its own nature, help in his duties, he who controls the world, is conveyed by the description स्थात्रे रेजंते (*sthātre rejaṃte*).
+
+रेजंते (*rejaṃte*)—चलंति । जगद्व्यवहाराय पुनःपुनरावर्तंते इत्यर्थः (*calaṃti | jagadvyavahārāya punaḥpunarāvartaṃte ityarthaḥ*).
+
+*Vyākaraṇa-prakriyā (grammatical derivation)*
+
+साकंजानाम् (*sākaṃjānām*)—the root जनी प्रादुर्भावे (*janī prādurbhāve*). By अन्येष्टपि दृश्यते (*anyeṣṭapi dṛśyate*) *[as supplied: so spelt]* (Vā. Sū. 3-2-101) the suffix ḍa. By the force of the ḍit-ness the ṭi is elided; the accent of the prakṛti of the latter member (kṛd-uttarapada-prakṛti-svara) comes. A form ending in the genitive plural, in the sense of determination (nirdhāraṇa).
+
+एकजं (*ekajaṃ*) । देवजाः (*devajāḥ*)—for the root stated before, by पंचम्यामजात् (*paṃcamyāmajāt*) (Pā Sū. 3-2-98) *[as supplied: no full stop after "Pā"]* the suffix ḍa; as before, elision of ṭi, and the kṛd-uttarapada-prakṛti-svara comes.
+
+सप्तथम् (*saptatham*)—सप्तानां पूरणः (*saptānāṃ pūraṇaḥ*); by थट् च छंदसि (*thaṭ ca chaṃdasi*) (Pā. Sū. 5-2-50) the suffix thaṭ in the sense of completion; since the preceding has the name pada, elision of the letter n comes.
+
+ऋषयः (*ṛṣayaḥ*)—the root ऋषी गतौ (*ṛṣī gatau*). By इगुपधात् कित् (*igupadhāt kit*) (Uṇ. Sū. 4-559) the suffix in. By the prescription of kit the guṇa of the laghūpadha does not come. By इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169) the ādyudātta accent comes. A form ending in the nominative plural.
+
+स्थात्रे (*sthātre*)—the root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*). In the active, the suffix tṛc; since it is cit, it becomes antodātta. A form ending in the dative singular.
+
+### Printed p. 388
+*Running head: 388 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+रेजंते (*rejaṃte*)—the root रेजृ कंपने (*rejṛ kaṃpane*). A form ending in the third person plural of लट् (*laṭ*). Because it stands after a non-finite word *[as supplied: printed ಅತಿಜಂತ]*, the nighāta accent comes.
+
+विहितानि (*vihitāni*)—the root डुधाण् धारणपोषणयोः (*ḍudhāṇ dhāraṇapoṣaṇayoḥ*). When the niṣṭhā suffix follows, by दधातेर्हिः (*dadhāterhiḥ*) (Pā. Sū. 7-4-42) the substitution hi. By गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the udātta accent comes on the gati (vi).
+
+रूपशः (*rūpaśaḥ*)—by संख्यैकवचनाच्च वीप्सायां (*saṃkhyaikavacanācca vīpsāyāṃ*) (Pā. Sū, *[as supplied: comma]* 5-4-43) the suffix śas in the sense of repetition. By तद्धितश्चासर्वविभक्तिः (*taddhitaścāsarvavibhaktiḥ*) (Pā. Sū. 1-1-38) it obtains the name avyaya. (End of Ṛk 15; printed ‖ 15 ‖.)
+
+*[stray line as supplied: :C:]*
+
+#### Ṛk 16
+**॥ संहितापाठः ॥**
+> स्त्रीयः॑ स॒तीस्ता उ॑ मे पुं॒स आ॑हुः॒ पश्य॑दक्ष॒ण्वान्न वि चे॑तदं॒धः ।
+> क॒विर्यः पु॒त्रः स ई॒मा चि॑केत॒ यस्ता वि॑जा॒नात्स पि॒तुष्पि॒तास॑र्त् ॥ १६ ॥
+**॥ पदपाठः ॥**
+> स्त्रीयः । सतीः । तान् । ऊं इति । मे । पुंसः । आहुः । पश्यत् । अक्षण्वान् । न ।
+> वि । चेतत् । अंधः ।
+> कविः । यः । पुत्रः । सः । ईं । आ । चिकेत । यः । ता । विजानात् । सः । पितुः । पिता
+> असत् ॥ १६ ॥
+**॥ सायणभाष्यम् ॥**
+> मे मदीया या दीधितयः स्त्रियः संस्कृत्यनवत्यो योषितः सतीः सत्यः ।
+> योषिद्वदुदकरूपगर्भधारणात्स्त्रित्वं । एषां रश्मीनामाविष्टलिंगत्वात्स्त्रिलिंगता ।
+> तानु तान्रश्मीनेव पुंस आहुः । प्रभूतवृष्टु दकसेक्तान्पुरुषानाहुः । प्रतिनिर्देशापेक्षया पुल्लिंगता । अमुमर्थमत्यंतनिगूढमक्षण्वान् ज्ञानदृष्टुपेतः कश्चिन्महान्पश्यत् । जानाति । अंधोऽतथारूपः स्कूलदृष्टिर्न वि चेतत् । न विचेतयति ।
+
+> *me madīyā yā dīdhitayaḥ striyaḥ saṃskṛtyanavatyo yoṣitaḥ satīḥ satyaḥ |*
+> *yoṣidvadudakarūpagarbhadhāraṇātstritvaṃ | eṣāṃ raśmīnāmāviṣṭaliṃgatvātstriliṃgatā |*
+> *tānu tānraśmīneva puṃsa āhuḥ | prabhūtavṛṣṭu dakasektānpuruṣānāhuḥ | pratinirdeśāpekṣayā pulliṃgatā | amumarthamatyaṃtanigūḍhamakṣaṇvān jñānadṛṣṭupetaḥ kaścinmahānpaśyat | jānāti | aṃdho 'tathārūpaḥ skūladṛṣṭirna vi cetat | na vicetayati |*
+
+### Printed p. 389
+*Running head: [ಅ ೨ ಅ ಳ ನ ೧೭.] ಋಗ್ವೇದಸಂಹಿತಾ 389 (as supplied, garbled in print).*
+
+> न जानाति । किं च यः कविः क्रांतदर्शि पुत्रः स्त्रीपुरुषरूपाणां रश्मीनां पुत्रस्थानीयः पुरु जगतां त्राता वृष्ट्युदकलक्षणोऽस्ति स ईं स एव पुत्रः । यद्वा ।
+> ईमेनमर्थ० । स्त्रीणां सतीनां पश्चात्पुरुषभावमा चिकेत सर्वतो जानाति । पित्रोः
+> स्थितिं पुत्र एव जानाति नान्यः ! यः कश्चित्ता तानि विजानात् स्त्रीपुरुषपुत्ररूपाणि
+> जानीयात् स पितुः पितासत् । पिता वृष्ट्या जगत्पालको रश्मिसमूहः । तस्यापि पितादित्यः स भवति । आदित्य एव भवतीत्यर्थः । यद्वा । लौकिकोक्तिरियं । यस्तानि जानाति
+> स एवं भवति । स्वयं पितुः पुत्रः सन्नपि स्वपुत्रापेक्षया पिता च भवति । पुत्रपौत्रादिसहितश्चिरकालं जीवी भवति । इत्यधिदैवतं ॥ अथाध्यात्मं । या इदानीं स्त्रियः सतीः
+> स्त्रीत्वं प्राप्ता आहुर्लौकिकाः तानु तानेव मे मह्यं पुंसः पुरुषानाहुः । प्रतिपादयंति तत्त्वज्ञाः । कथमन्यस्यान्यभावः उच्यते । एकस्यॆव निरस्तसमस्तोपाधिकस्यात्मनस्तद्देहावस्थानमात्रेण तत्तद्व्यपदेशोपपत्तेः । श्रूयते हि । त्वं स्त्री त्वं
+> पुमानसि त्वं कुमार उत वा कुमारी । श्वे. उ. ४-३ । इत्यादि । स्त्रीत्वं पुंस्त्वं
+> चोभयमपि वस्तुतो नास्तीत्युक्तं भवति । श्रुतिरपि तदभावं बोधयति । नैव स्त्री
+> न पुमानेष नैव चायं नपुंसकः । यद्यच्छरीरमादत्ते तेन तेन स चोद्यते ।
+> श्वे. उ. ५-१० । इति । द्वितीयः पादः पूर्ववत् । किंच पुत्रो वयसाल्पोऽपि यः
+> कविः क्रांतप्रज्ञो ज्ञानी स्यात् ईमिमर्थं स विचिकेत । जानाति । एवमुक्तलक्षणस्य
+> परमात्मनस्ता तानि स्त्रीत्वपुंस्त्यादीनि यो विजानात् औपाधिकानि जानीयात् स पितुः
+> सोत्पादकस्यापि ज्ञानरहितस्य पितासत् । पितृवत्तूज्यो भवति । उक्तमर्थमभिप्रेत्य
+> तांडकब्रह्माणं । शिशुर्वा अंगिरसो मंत्रकृतां मंत्रकृदासीत् स पितृन् पुत्रका
+> इत्यामंत्रयतेत्युपक्रम्य ते देवानपृच्छंत ते देवा अब्रुवन्नेष वाव पिता यो
+> मंत्रकृदिति । तां. १३-२-२४ । मंत्रद्रष्टुदेव किल पितृत्वं तत्त्ववित् पितुः पितासदिति
+> किमाश्चर्यमित्यभिप्रायः ॥
+*Gist:* The rays, called women, are called men by the knowers; the seer perceives it, the blind man not; the wise son who knows these becomes the father of the father.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+मे (*me*)—these rays belonging to me; स्त्रियः सतीः (*striyaḥ satīḥ*)—although they are in the female form through bearing the embryo in the form of water; तान् उ (*tān u*)—those very ones; पुंसः (*puṃsaḥ*)—(because they pour out the water in the form of rain) by the designation "males"; आहुः (*āhuḥ*)—they call (this hidden secret); अक्षण्वान् (*akṣaṇvān*)—the great one endowed with the eye of knowledge; पश्यति (*paśyati*)—understands; अंधः (*aṃdhaḥ*)—he who, lacking that eye of knowledge, is like a blind man; न वि चेतत् (*na vi cetat*)—cannot understand; यः (*yaḥ*)—who; कविः पुत्रः (*kaviḥ putraḥ*)—is a sage son; सः (*saḥ*)—he alone; ईं (*īṃ*)—this secret; आ चिकेत (*ā ciketa*)—understands; यः (*yaḥ*)—who; ता (*tā*)—all those; विजानात् (*vijānāt*)—understands with the special knowledge (of each thing) *(the entry continues on the next page)*
+
+### Printed p. 390
+*Running head: 390 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*(continuing)* सः (*saḥ*)—he; पितुः (*pituḥ*)—of the rays that protect the world; पिता (*pitā*)—the father, Āditya himself; असत् (*asat*)—becomes.
+
+**भावार्थ (Bhāvārtha)**
+Although these rays belonging to me are in the female form through bearing the embryo in the form of water, they are called by the designation "males" because they pour out the water in the form of rain. This hidden secret is understood only by the great one endowed with the eye of knowledge. He who, lacking that eye of knowledge, is like a blind man, cannot understand it. He who is a sage son understands this secret. He who understands all those, with the special knowledge of each thing, becomes the father of the rays that protect the world, namely Āditya himself.
+
+**Printed English**
+They have called these, my virtuous females, males : he who hss [sic] eyes beholds ; the blind man sees not : he who is a sage son understands this, and he who discriminates is the father of the father.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Since both kinds of meaning, the one relating to the deities (adhidaivata) and the one relating to the Self (adhyātma), are contained in this mantra, Sāyaṇa has given it two kinds of meaning. First, explaining the worldly meaning, he has explained the physical nature of the rays.
+
+शीर्ष्णः क्षीरं दुह्रते गावो अस्य वन्रिं वसाना उदकं पदापुः । (*śīrṣṇaḥ kṣīraṃ duhrate gāvo asya vanriṃ vasānā udakaṃ padāpuḥ |*)
+
+(Ṛ. Saṃ. 1-164-7)
+
+In this and similar passages it has been described before that the rays of Āditya rain down water, and that the same rays of Āditya, sucking up water from the earth, hold it again within themselves. Therefore in these rays the female nature and the male nature are mingled. When they bear the embryo in the form of water the female form, and when they pour out the rain the male form, becomes manifest. When it displays the female form it is extremely attractive, and when it displays the male form it is extremely powerful. Its nature cannot be grasped by the merely physical eye. For this the power of obtaining a supernatural vision is absolutely necessary. Therefore the power of seeing is stated by अक्षण्वान् पश्यत् (*akṣaṇvān paśyat*). If the nature of these rays is to be described, they are the cause of all kinds of creation and preservation, and pervade everything by their own nature.
+
+### Printed p. 391
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೧೭.] ಋಗ್ವೇದಸಂಹಿತಾ 391 (as supplied).*
+
+अथादित्य उदयन्यत्पाचीं दिशं प्रविशति तेन प्राच्यान्प्राणान्रश्मिषु संनिधत्ते । यद्दक्षिणां यत्पतीचीं यदुदीचीं यदधो यदूर्ध्वं यदंतरा दिशो यत्सर्वं प्रकाशयति तेन सर्वान् प्राणान्रश्मिषु संनिधत्ते । (*athāditya udayanyatpācīṃ diśaṃ praviśati tena prācyānprāṇānraśmiṣu saṃnidhatte | yaddakṣiṇāṃ yatpatīcīṃ yadudīcīṃ yadadho yadūrdhvaṃ yadaṃtarā diśo yatsarvaṃ prakāśayati tena sarvān prāṇānraśmiṣu saṃnidhatte |*)
+
+(Praśna U. 1-6)
+
+These rays of Āditya spread to the various directions and the intermediate directions of the universe, illumine everything, and gather all the things of the universe within themselves. Having hidden everything in his own womb, Āditya himself is the one who has all forms.
+
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥ (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ | sahasraraśmiḥ śatadhā vartamānaḥ prāṇaḥ prajānāmudayatyeṣa sūryaḥ ‖*)
+
+(Praśna 1-8)
+
+In descriptions such as: "Āditya, who has all forms, who is all-knowing, the final refuge, the one single light for the whole world, who has a thousand rays, rises as the one single life-breath of all creatures", he is for the world both father and mother, he who bears the world in the form of an embryo and creates the world that is in the womb. Explaining this very thing from the spiritual point of view, Sāyaṇa says:
+
+याः इदानीं स्त्रियः सतीः स्त्रीत्वं प्राप्ता आहुर्लौकिकाः तान् उ तानेव मे मह्यं पुंसः पुरुषा नाहुः प्रतिपादयंति तत्त्वज्ञाः ॥ (*yāḥ idānīṃ striyaḥ satīḥ strītvaṃ prāptā āhurlaukikāḥ tān u tāneva me mahyaṃ puṃsaḥ puruṣā nāhuḥ pratipādayaṃti tattvajñāḥ ‖*) *[as supplied: पुरुषा नाहुः (*puruṣā nāhuḥ*) stands split in two words here; the bhāṣya on p. 389 has पुरुषानाहुः (*puruṣānāhuḥ*) as one word]*
+
+He has explained the meaning thus: what the worldly people call the female-formed principle of the ray, that very thing the knowers of the truth call male-formed.
+
+कथमन्यस्य अन्यभावः उच्यते । एकस्यॆव निरस्तसमस्तोपाधिकस्य आत्मनस्तद्देहावस्थानमात्रेण तत्तद्व्यपदेशोपसत्तेः । (*kathamanyasya anyabhāvaḥ ucyate | ekasyèva nirastasamastopādhikasya ātmanastaddehāvasthānamātreṇa tattadvyapadeśopasatteḥ |*) *[as supplied: the last word reads upasatteḥ here, against upapatteḥ in the bhāṣya on p. 389]* Then, if the objection arises: how can the principle that has the female form be called of male form? He has given the solution that there is no room for such objections about the greatness of this primal principle, which is free of all limiting adjuncts and has the power of assuming every form by mere resolve. The description of how, being non-dual, and afterwards, having desired creation, it assumed the female form by the mere power of its will, and itself, taking both the female and the male forms, brought about the creation of the world, is given in the Bṛhadāraṇyaka Upaniṣad in this manner:
+
+आत्मैवेदमग्र आसीत्पुरुषविधः सोऽनुवीक्ष्य नान्यदात्मनः। स वै नैवे रेमे तस्मादेकाकी न रमते स द्वितीयमैच्छत् । स हैतावानास यथा स्त्रीपु- (*ātmaivedamagra āsītpuruṣavidhaḥ so 'nuvīkṣya nānyadātmanaḥ| sa vai naive reme tasmādekākī na ramate sa dvitīyamaicchat | sa haitāvānāsa yathā strīpu-*) *(the quotation is cut by the page end, at a hyphenated word, and continues on p. 392)*
+
+### Printed p. 392
+*Running head: 392 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧ ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+मांसौ संपरिष्वक्तौ स इममेवात्मानं द्वेधापातयत्ततः पतिश्च पत्नि चाभवतां तस्मादिदमर्धबृगलमिव स्व इति ह स्माह याज्ञवल्क्यस्तस्मादयमाकाशः स्त्रिया पूरैत एव तां समभवत्ततो मनुष्या अजायंत ॥ (*māṃsau saṃpariṣvaktau sa imamevātmānaṃ dvedhāpātayattataḥ patiśca patni cābhavatāṃ tasmādidamardhabṛgalamiva sva iti ha smāha yājñavalkyastasmādayamākāśaḥ striyā pūraita eva tāṃ samabhavattato manuṣyā ajāyaṃta ‖*)
+
+(Bṛ U. 1-4-1 to 3) *[as supplied: "ಬೃ ಉ." without the full stop]*
+
+In the beginning this universal Self was non-dual, and saw no second thing other than himself. Because of that he had no delight, and desired to create a second thing that would give him delight. Afterwards he grew as extended as a woman and a man become when they are embraced together; at once, taking a dual form, he became husband and wife. "Therefore this whole space is pervaded by the female form. When the universal Self united with this female form, the creation of human beings and the rest took place," Yājñavalkya has described. In the same way, describing the creation of other creatures also, he has given the details of how, taking the forms of cow, bull and the like, he created cattle and the rest. In the same way in the Praśna Upaniṣad also the details of how the universal Self, assuming both the female and the male forms, carried on the creation of the world are stated thus:
+
+प्रजाकामो वै प्रजापतिः स तपोऽतप्यत स तपस्तप्त्वा स मिथुनमुत्पादयते रयिं च प्राणं चेत्येत् मे बहुधा प्रजाः करिष्यत इति । (*prajākāmo vai prajāpatiḥ sa tapo 'tapyata sa tapastaptvā sa mithunamutpādayate rayiṃ ca prāṇaṃ cetyet me bahudhā prajāḥ kariṣyata iti |*) *[as supplied: चेत्येत् मे (*cetyet me*) as printed]*
+
+(Praśna 1-4)
+
+Prajāpati, desiring offspring, by the greatness of his austerity created Nature in the female form (रयिं (*rayiṃ*)) and the life-breath in the male form (प्राणं (*prāṇaṃ*)), and from that pair brought about the increase of creatures. Having begun thus, it is then explained that by the expansion of those original principles the whole universe was transformed into the very forms of rayi and prāṇa. Describing that very nature, in the Praśna Upaniṣad:
+
+मासो वै प्रजापतिः .... .... .... अन्नं वै प्रजापतिस्ततो ह वै तद्रेतस्तस्मादिमाः प्रजाः प्रजायंत इति । तद्ये ह वै तत्प्रजापतिव्रतं चरंति ते मिथुनमुत्पादयंते । तेषामेवैष ब्रह्म लोको येषां तपो बह्मचर्यं येषु त्यं प्रतिष्ठितं । (*māso vai prajāpatiḥ .... .... .... annaṃ vai prajāpatistato ha vai tadretastasmādimāḥ prajāḥ prajāyaṃta iti | tadye ha vai tatprajāpativrataṃ caraṃti te mithunamutpādayaṃte | teṣāmevaiṣa brahma loko yeṣāṃ tapo bahmacaryaṃ yeṣu tyaṃ pratiṣṭhitaṃ |*) *[as supplied: the dots are in the print; त्यं (*tyaṃ*) as printed]*
+
+(Praśna 1-12 to 15)
+
+By sentences of this kind it is described that the primal principle, manifesting itself both in the female form and in the male form, as described in the present Ṛk, became the cause of the creation and other activities of the world. It must be understood that Prajāpati, Āditya and the year are all different names of one and the same principle. Therefore: संवत्सरो वै प्रजापतिः (*saṃvatsaro vai prajāpatiḥ*) ; मासो वै प्रजापतिः । (*māso vai prajāpatiḥ |*) ; अहोरात्रो वै प्रजापति (*ahorātro vai prajāpati*) ; *(the list is cut by the end of the window as supplied and continues in the next window)*
+
 ---
 
-**Progress note:** Done through printed p. 386. pp. 380-386: pancajana views, Rk 14 notes and grammar, Rk 15 (seven seasons), special topics
+**Progress note:** Done through printed p. 392. pp. 387-392: Rk 15 notes and grammar, Rk 16 (female/male rays), special topics
