@@ -5289,6 +5289,69 @@ one that some say "give us a little of the cooked flesh", and another that, beca
 
 *[Gist of the Sāyaṇa-bhāṣya (my own short summary): the cooking-tester wood, broth-pouring vessels, lids of flesh-filled pots, skewers and knives all serve to adorn the horse.]*
 
+### Printed p. 194
+
+*Running head: 194 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ ೧೬೨] (as supplied).* (Sūkta 162, Ṛk 13.)
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मांस्पचॆन्या (*māṃspacènyā*) *[so printed, "ಚೆ"]*—of the pot in which flesh is put and cooked; उखाया (*ukhāyā*)—of the vessel; यत् (*yat*) नीक्षणं (*nīkṣaṇaṃ*) *[split over two lines]*—the wooden ladle or stick, the means of testing the cooking; (and) यूष्णः आसेचनानि (*yūṣṇaḥ āsecanāni*)—for pouring in the cooked flesh-broth; या पात्राणि (*yā pātrāṇi*)—whatever vessels there are, those also; (तथा (*tathā*)—likewise) ऊष्मण्या (*ūṣmaṇyā*)—plates that cover so that the heat (of the cooked flesh) does not cool; (तथा (*tathā*)—likewise) चरूणां अपिधाना (*carūṇāṃ apidhānā*)—also vessels for putting the cooked flesh; (तथा (*tathā*)—likewise) अंकाः (*aṃkāḥ*)—the twigs of the vetasa tree pierced, before cooking, into the limbs such as the heart *[printed "ದೃದಯಾದಿ"]* to identify them; सूना (*sūnā*)—implements such as knives and cleavers for cutting flesh; अश्वं परि (*aśvaṃ pari*)—spread around the horse; भूषंति (*bhūṣaṃti*)—appear as if adorning.
+
+**भावार्थ (Bhāvārtha)**
+
+The wooden stick used to see whether the horse-flesh, put in a large vessel and cooking, is well cooked; the vessels for putting the cooked flesh-broth; the plates that cover the vessels so that the cooked flesh does not cool; the vessels for putting the flesh; the twigs of the vetasa tree pierced into the pieces of flesh, to identify, after cooking, the various limbs of the horse such as the heart; the knives, cleavers and the like for cutting the flesh: all these, placed around the horse in the sacrificial ground, look as if they adorn the horse.
+
+**Printed English translation**
+
+The stick that is dipped into the caldron in which the flesh is boiled ; the vessels that distribute the broth; the covers of the dishes, the skewers, the knives, all do honour (to the horse).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यन्निक्षणं—पाकपरीक्षणसाधनं काष्ठं । (*yannikṣaṇaṃ—pākaparīkṣaṇasādhanaṃ kāṣṭhaṃ |*) A long wooden stick used to test whether the flesh cooking in the vessel is well cooked or not. It may be in the shape of a ladle or like a stick. With it they lift the hot flesh cooking in the vessel and look from time to time to see whether it is cooked enough or still needs cooking. The commentator has explained it as a piece of wood used for this.
+
+मांस्पचन्या उखायाः (*māṃspacanyā ukhāyāḥ*)—the large vessel for cooking flesh. This vessel is called "ukhā". This vessel is a large earthen pot (printed "Coldron", in Latin letters, as supplied). It is also customary to call it "sthālī".
+
+### Printed p. 195
+
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೯] Ṛgveda-saṃhitā 195 (as supplied; "ಪ." printed for "ವ.").*
+
+The use of this word is in the places Ṛ. Saṃ. 1-162-13, 1-162-15, 3-53-22, Atharvaveda 7-3-23 (printed "ಅ. ವೇ."), Taittirīya Saṃhitā 5-1-6-3, Vājasaneyi Saṃhitā 11-59 (printed "ವಾ. ಸಂ."), Taittirīya Saṃhitā 4-1-5-4 and others. The method of making this vessel "ukhā" is told in the Taittirīya Saṃhitā 5-1-7, and its sanskāras, the filling and so on, in the Taittirīya Saṃhitā 5-1-7 *[so printed twice]*, and the Ukhā-homa in the Taittirīya Saṃhitā 5-5-3.
+
+आसेचनानि पात्राणि यूष्णः (*āsecanāni pātrāṇi yūṣṇaḥ*)—"sechana" means sprinkling water; here the name means vessels for putting or distributing (serving) to all the essence of the flesh in the form of juice.
+
+ऊष्मण्या अपिधाना (*ūṣmaṇyā apidhānā*)—plates that cover so that the hot flesh in the vessels does not cool.
+
+अंका:—हृदयावयवांकनसाधना वेतसशाखाः । (*aṃkā:—hṛdayāvayavāṃkanasādhanā vetasaśākhāḥ |*) To mark the limbs and parts of the horse-flesh such as the heart, twigs of the vetasa tree are used. Since these twigs are pierced into the respective pieces of flesh, it is easy to know to which limb the horse-flesh belongs. In course of time it seems that needles made of gold, silver and lead came into use instead of the vetasa wood. The work of piercing these needles to identify the flesh of the limbs of the horse is generally done by women, especially the sacrificer's wife and others. This matter is stated in the mantras recited while doing this work:
+
+गायत्री त्रिष्टुब्बगत्यनुष्टुप्पंक्ता सह । (*gāyatrī triṣṭubbagatyanuṣṭuppaṃktā saha |*)
+बृहत्युष्टिहा ककुत्सूचीभिः शिम्यंतु त्वा ॥ (*bṛhatyuṣṭihā kakutsūcībhiḥ śimyaṃtu tvā ‖*)
+द्विपदा या चतुष्पदा त्रिपदा या च षट्टदा । (*dvipadā yā catuṣpadā tripadā yā ca ṣaṭṭadā |*)
+सछंदा या च विच्छंदास्सूचीभिः शिम्यंतु त्वा ॥ (*sachaṃdā yā ca vicchaṃdāssūcībhiḥ śimyaṃtu tvā ‖*)
+महानामिन्ना रेवतयो विश्वा आशाः प्रसूवरीः । (*mahānāminnā revatayo viśvā āśāḥ prasūvarīḥ |*)
+मेघ्या विद्युतो वाचः सूचीभिः शिम्यंतु त्वा ॥ (*meghyā vidyuto vācaḥ sūcībhiḥ śimyaṃtu tvā ‖*)
+रजता हरिणीस्सा युजो युज्यंते कर्मभिः । (*rajatā hariṇīssā yujo yujyaṃte karmabhiḥ |*)
+अश्वस्य वाजिनस्त्वचि सूचीभिः शिम्यंतु त्वा ॥ (*aśvasya vājinastvaci sūcībhiḥ śimyaṃtu tvā ‖*)
+नारीस्ते पत्नियो लोम विचिन्वंतु मनीषया । (*nārīste patniyo loma vicinvaṃtu manīṣayā |*)
+देवानां पत्निर्दिशःसूचीभिः शिम्यंतु त्वा ॥ (*devānāṃ patnirdiśaḥsūcībhiḥ śimyaṃtu tvā ‖*)
+कुविदंग यवमंतो यवं चिद्यथा दांत्यनुपूर्वं वियूयॆ । (*kuvidaṃga yavamaṃto yavaṃ cidyathā dāṃtyanupūrvaṃ viyūyè |*)
+इहेहैषां कृणुत भोजनानि ये बर्हिषो नमोव्यक्तिं न जग्मुः ॥ (*ihehaiṣāṃ kṛṇuta bhojanāni ye barhiṣo namovyaktiṃ na jagmuḥ ‖*) (ಕೃ. ಸಂ. 5-2-11) *[reference as printed, "ಕೃ. ಸಂ."]*
+
+कुविदंग (*kuvidaṃga*)—this last mantra is read in Ṛ. Saṃ. 10-131-2, Atharvaveda 20-125-2, Vājasaneyi Saṃhitā 10-32, 19-16 and 23-38, Taittirīya Saṃhitā 1-8-21-1 and 5-2-11-2, and
+
+### Printed p. 196
+
+*Running head: 196 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೨] (as supplied; "ಆ." printed for "ಅ.").*
+
+Taittirīya Brāhmaṇa 2-6-1-3. The horse-flesh is put in large earthen pots called "ukhā" and cooked, and afterwards the various limbs of the horse are offered in the fire as oblations, each with its respective mantra. Since after the flesh is cooked it is difficult to say which flesh belongs to which limb, before cooking, that is, when the flesh (the body of the horse) is being cut, needles made of metals such as gold, or sharp twigs of the vetasa tree, are pierced into the pieces of flesh, so as to make it convenient to identify the respective limbs well, and by cooking them thus it is easy to identify to which limb the cooked flesh belongs. For this reason women such as the sacrificer's wife do this work.
+
+सूनाः—अवदानसाधनाः स्वधित्यादयः । (*sūnāḥ—avadānasādhanāḥ svadhityādayaḥ |*) A cleaver or other weapons for cutting flesh. The commentator has explained the word "sūnayā" in the ṛk 1-161-10 (printed "೧-೧೬೧-೧೦") as छेदनसाधनेन (*chedanasādhanena*), that is, with a weapon like a cleaver, the means of cutting flesh. "Implements of dissection, the Swadhiti and others." Some Western scholars (Macdonell and Keith) are of the opinion that this word means "Woven wickerwork basket for holding flesh", a woven basket for putting flesh *[the English phrases are in Latin letters in the supplied text, kept as supplied]*. But there is no proper basis for this. This word is read in the mantras Ṛ. Saṃ. 1-161-10, 1-162-13, 10-86-18, and "ಆ. ನೇ. ೫-೧೭-೧೪" *[so printed]*.
+
+परि भूषंति अश्वं (*pari bhūṣaṃti aśvaṃ*)—vessels and the like used in sacrificial rites, and the oblation, food, animal and so on that are to be offered to the gods, are placed on the sacrificial altar or near the fire, while the sacrificial rite is going on, in order to be consecrated with mantras; they are purified with various sanskāras together with mantras, and afterwards used in the respective rites. In domestic rites too, the performing of such arranging of vessels and the like in the rite of establishing the fire called "agnimukha" with mantras is still the custom. This order has come down following the order of sacrifices and the like. Therefore the seer describes that, in the Aśvamedha sacrifice, the weapons to be used after the horse is killed, the vessel "ukhā" for cooking flesh, the spit, the basket for filling the flesh and the various things that may be used at that time, which are placed around the horse in the sacrificial altar in order to be consecrated with mantras, look like an ornament, and that it is as if the horse were adorned.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analysis of नीक्षणं (*nīkṣaṇaṃ*) (the rules Pā. Sū. 7-1-1 and 7-1-163 as printed) begins here; the analysis of Ṛk 13 is cut off in the supplied text at the end of this window and continues in the next window.
+
 ---
 
-**Progress note:** Done through printed p. 193 (PDF 193). Sūkta 162 Ṛk 12 Pratipadārtha to grammar; Ṛk 13 Saṃhitā (picture), Pada, bhāṣya
+**Progress note:** Done through printed p. 196 (PDF 196). Sūkta 162 Ṛk 13 Pratipadārtha to Special Topics, grammar start
