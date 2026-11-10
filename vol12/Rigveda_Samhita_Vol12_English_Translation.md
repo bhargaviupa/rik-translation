@@ -8708,6 +8708,116 @@ On the whole, having stated earlier the original nature of Heaven-and-Earth as t
 > *tisro mātryastrīnityanbibhradeka ūrdhvastasthau nemava glāpayaṃti |*
 > *maṃtrayaṃte divo amuṣya pṛṣṭhe viśvavidaṃ vācamaviśvaminvāṃ ‖ 10 ‖*
 
+### Printed p. 348
+*Running head: 348 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied; "ಆ." stands for "ಅ." here).*
+
+**॥ पदपाठः ॥**
+> तिस्रः । मात्याः । त्रीन् । पित्र्यन् । बिभ्रत् । एकः । ऊर्ध्वः । तस्थौ । न । ईं । अव ।
+> ग्लपयंति ।
+> मंत्रयंते । दिवः । अमुष्य । पृष्ठे । विश्वविदं । वाचं । अविश्वमिन्वां ॥ १० ॥
+**॥ सायणभाष्यम् ॥**
+> एकः प्रधानभूतोऽसहायो वा पुत्रस्थानीय आदित्यः संवत्सराख्यः कालो
+> ना तिस्रो मात्यः सस्यवृष्टाद्युत्पादयित्रिः । क्षित्यादिलोकत्रयमित्यर्थः । तथा
+> श्रीन्पित्यज्जगतां पालयित्कल्लोकत्रयाभिमानिनोऽग्निवायुसूर्याख्यान्बिभ्रत्
+> सन्नूर्ध्वस्तस्थौ । उन्नतोऽत्यंतदीर्घस्तिष्ठति भूतभविष्यदाद्यात्मना । सूर्यपक्षे
+> सर्वेभ्यः उन्नतः । ईमेनं नाव ग्लपयंति । ग्लानिं नैव कुर्वंति । न हि काल
+> आदित्यो नान्येन पराभूयते । दिवः पृष्टे द्युलोकस्योपर्यंतरिक्षे मंत्रयंते । गुप्तं परस्परं भाषंते देवाः । किं । विश्वविदं विश्ववेदनसमर्थां विश्वैर्वेदनीयां नाविश्वमिन्वामसर्वव्यापिनीं वाचं गर्जितलक्षणां । अमुष्यादित्यस्य
+> संबंधिनीं मंत्रयंत इत्यर्थः ॥
+
+*Gist:* Āditya, as time, stands alone aloft, bearing three worlds and their deities; none can weary him; gods speak his thundering word above heaven.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+एकः (*ekaḥ*)—Āditya, who is the chief of (everything), or (time, called the year); तिस्रः मात्र्याः (*tisraḥ mātryāḥ*)—the three worlds beginning with the earth, which are the producers of crops, rain and so on, त्रीन् पित्र्यन् (*trīn pitryan*)—and also Agni, Vāyu and Sūra (printed ಸೂರ), who are the protectors of the world and the presiding deities of the three worlds; बिभ्रत् (*bibhrat*)—bearing; ऊर्ध्वः (*ūrdhvaḥ*)—high (above everything) or long; तस्थौ (*tasthau*)—stands. (Or: exists.) ईं (*īṃ*)—this Āditya (or time); न अव ग्लपयंति (*na ava glapayaṃti*)—no one can make wane; दिवः पृष्ठे (*divaḥ pṛṣṭhe*)—on the upper part of the heaven-world; अमुष्य (*amuṣya*)—concerning this Āditya (or concerning time); विश्वमिदं (*viśvamidaṃ*) *[as supplied; the Pada-pāṭha has विश्वविदं (*viśvavidaṃ*)]*—which is understood by all; अविश्वमिन्वां (*aviśvaminvāṃ*)—(but) not applicable to all; वाचं (*vācaṃ*)—a proclamation in the form of praise; (देवाः (*devāḥ*)—the gods); मंत्रयंते (*maṃtrayaṃte*)—recite.
+
+**भावार्थ (Bhāvārtha)**
+Āditya, the chief of everything, bearing the three worlds beginning with the earth, which are the producers *[as supplied: उक्षादकरागिरतक्क (*ukṣādakarāgiratakka*)]* of crops, rain and so on, and also Agni, Vāyu and Sūra, who are the protectors of the world and the presiding deities of the three worlds, is in the highest region of all. No one can make this Āditya wane. On the upper part of the heaven-world, the gods recite a proclamation in the form of praise, directed to this Āditya, understood by all but
+
+### Printed p. 349
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫. ] Ṛgveda-saṃhitā 349 (as supplied).*
+
+not applicable to all. [This is also how the purport with reference to time is to be stated.]
+
+**Printed English**
+The one sole (sun), having three mothers and three fathers, stood on high : none ever over-weary him : The (gods) on the summit of the sky take counsel respecting him in language all-comprehending, (but) not extending to all
+
+*[as supplied: a garbled label विशेषविवरगळु (*viśeṣavivaragaḷu*) stands here, before the label Viśeṣaviṣayagaḷu (Special Topics).]*
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+This Ṛk can be explained as referring either to Āditya or to time in the form of the year; or, in such contexts, one may show the identity of Āditya and time in the form of the year, and may also show that the place, the nature and the power of the two are one. In many contexts unity of Āditya and time in the form of the year is shown. In some places it is said that Āditya is the cause of time, and in other places, since the movement of Āditya takes place by the law of time, that time itself is the cause of Āditya. In the Maitrāyaṇa-brāhmaṇa-upaniṣad the relation between Āditya and time in the form of the year *[as supplied: वत्सराज्यवाद (*vatsarājyavāda*)]* is stated in this way:
+अन्नं सर्वस्य योनिः कालश्चान्नस्य सूरो योनिः कालस्य .... .... .... कालात्स्रवंति भूतानि कालाद्वृद्धिं प्रयांति च । द्वेवाव ब्रह्मणो रूपे कालश्चाकालश्च । य आदित्याद्यः स कालः .... .... .... तस्मात्संवत्सरो वै कालः । पचति भूतानि .... .... .... महात्मनि (*annaṃ sarvasya yoniḥ kālaścānnasya sūro yoniḥ kālasya .... .... .... kālātsravaṃti bhūtāni kālādvṛddhiṃ prayāṃti ca | dvevāva brahmaṇo rūpe kālaścākālaśca | ya ādityādyaḥ sa kālaḥ .... .... .... tasmātsaṃvatsaro vai kālaḥ | pacati bhūtāni .... .... .... mahātmani*) ॥
+(Maitrāyaṇī U. 6-14 to 16)
+Food is the cause of the state and course of all beings. For food the cause is time, and for time, the sun. The year, which is an object of perception, is the form of time. Through the parts of time the movement of the sun takes place. From this time all beings come into being, and by it all grow. The visible Āditya and the invisible moments and so on are forms of time. For Brahman there are two parts, time and non-time; the time that is prior to Āditya is unbounded and partless. The year itself is the form of this part. From the year all beings are born, grow and dissolve. Therefore the year is Prajāpati, the year is food, Brahman and the Supreme Self.
+
+### Printed p. 350
+*Running head: 350 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧, ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+To show that Āditya, whose self is time, shines as the lord of all the worlds, it is said एकः तस्थौ (*ekaḥ tasthau*). Describing this in the Chāndogya and other works,
+आदित्यो ब्रह्मेत्यादेशः (*ādityo brahmetyādeśaḥ*) (Chā. U. 3-19-1) असावादित्यो ब्रह्मेति (*asāvādityo brahmeti*) (Tai. Ā. 2-1)
+it is taught that Āditya is the Supreme Brahman. Showing the unity of this Āditya with the year, and describing the power of Āditya, who pervades the three worlds beginning with the earth, the Aitareya Āraṇyaka says thus. According to its description Āditya is at the same time the pervader of the world and the one who has occupied the most excellent heaven-world.
+महापुरुष इति यमवोचाम संवत्सर एव प्रध्वंसयन्नन्यानि भूतान्कैक्या भावयन्नन्यानि तस्यैतस्यासावादित्यो रसः ॥ स यश्चायमशरीरः प्रज्ञात्मा यश्चासावादित्य एकमेतदिति विद्यात् । तस्मात्पुरुषं पुरुषं प्रत्यादित्यो भवति । तदप्येतदृषिणोक्तं । चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आ प्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थु षश्चेति (*mahāpuruṣa iti yamavocāma saṃvatsara eva pradhvaṃsayannanyāni bhūtānkaikyā bhāvayannanyāni tasyaitasyāsāvādityo rasaḥ ‖ sa yaścāyamaśarīraḥ prajñātmā yaścāsāvāditya ekametaditi vidyāt | tasmātpuruṣaṃ puruṣaṃ pratyādityo bhavati | tadapyetadṛṣiṇoktaṃ | citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | ā prā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthu ṣaśceti*) ॥
+(Ai. Āraṇyaka 3-2-3)
+The principle which we indicated as the Great Person, that Great Person is the year. The essence of that year is Āditya. The incorporeal Prajñātman and Āditya are to be understood as one principle. This very thing the sage Kutsa has described in the Ṛk Saṃhitā (Ṛ. Saṃ. 1-115-1): “The brilliance, which is the eye of Mitra, Varuṇa and Agni and the face of the gods, has risen and has pervaded the earth, the atmosphere and the heaven-world. This is the self of all the worlds, moving and unmoving.” This same Āditya, “bearing three mothers” तिस्रो मात्मः बिभ्रत् (*tisro mātmaḥ bibhrat*) *[as supplied]*, is described in the Ṛk Saṃhitā in this way:
+दिपो धर्ता भुवनस्य प्रजापतिः पिशंगं द्रापिं प्रति मुंचते कविः । निचक्षणः प्रथयन्नापृणन्नुर्वजीजनत्सविता सुम्ममुक्थम् (*dipo dhartā bhuvanasya prajāpatiḥ piśaṃgaṃ drāpiṃ prati muṃcate kaviḥ | nicakṣaṇaḥ prathayannāpṛṇannurvajījanatsavitā summamuktham*) ॥ *[as supplied: दिपो (*dipo*)]*
+(Ṛ. Saṃ. 4-53-2)
+न प्रिमिये सवितुर्दैव्यस्य तद्यथा विश्वं भुवनं धारयिष्यति । यत्पृथिव्या वरिमन्ना स्वंगुरिर्वष्मन्पिवः सुवति सत्यमस्य तत् (*na primiye saviturdaivyasya tadyathā viśvaṃ bhuvanaṃ dhārayiṣyati | yatpṛthivyā varimannā svaṃgurirvaṣmanpivaḥ suvati satyamasya tat*) ॥
+(Ṛ. Saṃ. 4-54-4)
+Āditya in the form of Savitṛ is the supporter of the heaven-world and the earth-world. He pours rain on the earth and the atmosphere and gives all kinds of comforts. No one can hinder the work of this Āditya, who is the supporter of “the whole world”—thus his greatness is praised. In the same way, where it is said त्रीन् पित्थन् (अपि) बिभ्रत् (*trīn pitthan (api) bibhrat*) *[as supplied]*, for the word पित्थन् (*pitthan*) *[as supplied]* the explanation is जगतां पालयित्थन् लोकत्रया (*jagatāṃ pālayitthan lokatrayā*) *[as supplied; the quotation continues on the next page]*
+
+### Printed p. 351
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫.] Ṛgveda-saṃhitā 351 (as supplied).*
+
+भिमानिनः अग्निवायुसूर्याख्यान् (*bhimāninaḥ agnivāyusūryākhyān*)—that is, (he bears) Agni, the presiding deity of the earth, Vāyu, the presiding deity of the atmosphere, and Sūrya, the presiding deity of the heaven-world.
+त्रिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानो वायुर्वेंद्रो वांतरिक्षस्थानः सूरोद्युस्थानः (*trisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthāno vāyurveṃdro vāṃtarikṣasthānaḥ sūrodyusthānaḥ*) ॥
+(Ni. 7-5)
+ब्रह्म वा इदमग्र आसीत् । तद्देवानसृजत । तद्देवान् सृष्टैषु लोकेषु व्यारोहयदस्मिन्नेव लोकेग्निं वायुमंतरिक्षे दिव्येव सूर्यं (*brahma vā idamagra āsīt | taddevānasṛjata | taddevān sṛṣṭaiṣu lokeṣu vyārohayadasminneva lokegniṃ vāyumaṃtarikṣe divyeva sūryaṃ*) ॥
+(Śa. Brā. 11-2-3-1)
+As is stated in the Śatapatha Brāhmaṇa that in the beginning Brahman was alone, and afterwards created the gods and established Agni on the earth, Vāyu in the atmosphere and Sūrya in the heaven-world, and as in the statement of the Nirukta, त्रीन् पित्थन् (*trīn pitthan*) is to be explained. The meaning is: bearing all of them, Agni, Vāyu and Sūrya, the protectors of the three worlds, he shines as the sole lord.
+
+नेमव ग्लापयंति (*nemava glāpayaṃti*)—न हि कालः आदित्यो वा अन्येन पराभूयते (*na hi kālaḥ ādityo vā anyena parābhūyate*)—neither time nor Āditya comes under the authority of others. This point,
+न यस्येंद्रो वरुणो न मित्रो व्रतमर्यमा न मिनंति रुद्रः । नारातॆयस्तमिदं स्वस्ति हुवे देवं सवितारं नमोभिः (*na yasyeṃdro varuṇo na mitro vratamaryamā na minaṃti rudraḥ | nārātèyastamidaṃ svasti huve devaṃ savitāraṃ namobhiḥ*) ॥
+(Ṛ. Saṃ. 2-38-9)
+Neither Indra, nor Varuṇa, nor Mitra, nor Aryaman *[as supplied: ಅರಮ್ಯ]* can resist this work of Āditya in the form of Savitṛ, which consists of universal regulation. And
+अस्य हि स्वयशस्तरं सवितुः कच्चन प्रियं । न मिनंति स्वराज्यं (*asya hi svayaśastaraṃ savituḥ kaccana priyaṃ | na minaṃti svarājyaṃ*) ॥
+(Ṛ. Saṃ. 5-82-2)
+The fame of this Āditya is extraordinary. The sovereignty of this Āditya, who is dear to all, can be harmed by neither asuras nor gods—thus in many places the greatness of this Āditya, the controller of the universe, is described and praised. Or, applying this very thing to time, it can be explained with reference to it too.
+
+### Printed p. 352
+*Running head: 352 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೦] (as supplied; the Sūkta number is printed ೧೬೦, whereas the other pages have ೧೬೪).*
+
+अमुष्य मंत्रयंते (*amuṣya maṃtrayaṃte*)—आदित्यसंबंधिनीं गर्जितलक्षणां वाचं मंत्रयंते इत्यर्थः (*ādityasaṃbaṃdhinīṃ garjitalakṣaṇāṃ vācaṃ maṃtrayaṃte ityarthaḥ*). That is, they perform a recitation of praise, in the form of a proclamation, that glorifies Āditya. This recitation of mantras in the form of a proclamation is described in the Chāndogya in this way:
+अथ यत्तदजायत सोऽसावादित्यस्तं जायमानं घोषा उलूलवोऽनूदतिष्ठन्त्सर्वाणि च भूतानि सर्वे च कामास्तस्मात्तस्योदयं प्रति प्रत्यायनं प्रति घोषा उलूलवोऽनूत्तिष्ठंति सर्वाणि च भूतानि सर्वे च कामाः । स य एतमेवं विद्वानादित्यं ब्रह्मेत्युपास्तेऽभ्याशो ह यदेनं साधवो घोषा आ च गच्छेयुरुप च निम्रेडेरन्निम्रेडेरन् (*atha yattadajāyata so 'sāvādityastaṃ jāyamānaṃ ghoṣā ulūlavo 'nūdatiṣṭhantsarvāṇi ca bhūtāni sarve ca kāmāstasmāttasyodayaṃ prati pratyāyanaṃ prati ghoṣā ulūlavo 'nūttiṣṭhaṃti sarvāṇi ca bhūtāni sarve ca kāmāḥ | sa ya etamevaṃ vidvānādityaṃ brahmetyupāste 'bhyāśo ha yadenaṃ sādhavo ghoṣā ā ca gaccheyurupa ca nimreḍerannimreḍeran*) । ಇತಿ ॥
+(Bhā. U. 3-19-3, 4) *[as supplied: "ಭಾ. ಉ."]*
+Immediately after the manifestation of this Āditya, all beings proclaimed their joy, and all creatures awoke and obtained what they desired. For that reason, at every time of sunrise, a proclamation of this kind invites Āditya. If one, knowing this, worships Āditya as the Supreme Brahman, then for him too this proclamation and its joy will be a continuous cause of joy.
+आदित्य इति होवाच सर्वाणि ह वा इमानि भूतान्यादित्यमुच्चैः संतं गायंति सैषा देवतोद्गीथमन्वायत्ता (*āditya iti hovāca sarvāṇi ha vā imāni bhūtānyādityamuccaiḥ saṃtaṃ gāyaṃti saiṣā devatodgīthamanvāyattā*) ॥
+(Chā. U. 3.-11-2) *[as supplied]*
+When Āditya shines in the most elevated region, all beings gather together and praise Āditya in a loud voice. Āditya is the deity connected with the udgītha *[as supplied: उद्दीथ (*uddītha*)]*, and so on; since there results from Āditya लोपकार (*lopakāra*) *[as supplied]*, at the very sight of him all beings recite words of praise that indicate their joy and gratitude. This matter is stated in the present Ṛk by अमुष्य मंत्रयंते (*amuṣya maṃtrayaṃte*).
+
+विश्वविदं (*viśvavidaṃ*)—this is an adjective of वाचं (*vācaṃ*). It can be taken in two ways: “what is known to all”, or “what is to be known by all”.
+
+अविश्वमिन्वां (*aviśvaminvāṃ*)—the verb इन्वति (*invati*) is read among the names of the act of pervading (Ni. 3.- 10) *[as supplied]*. विश्वमिन्वां (*viśvaminvāṃ*) would mean “what pervades everywhere”. But this praise-recitation in the form of a proclamation applies to Āditya alone. To indicate that this praise cannot apply to any other deities or to others, the adjective अविश्वमिन्वां (*aviśvaminvāṃ*) has been used; if one explains thus,
+
+### Printed p. 353
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫ ] Ṛgveda-saṃhitā 353 (as supplied).*
+
+it cannot be wrong. Sāyaṇa too has explained it as असर्वव्यापिनीं (*asarvavyāpinīṃ*) and has shown that it is an adjective of वाचं (*vācaṃ*).
+
+Since Sāyaṇa has commented on the word वाचं (*vācaṃ*) as गर्जितलक्षणां (*garjitalakṣaṇāṃ*), the sound of thunder may also be understood here. Then विश्वविदं (*viśvavidaṃ*) means “to be known by all”, because this sound is heard by the whole world; but अविश्वमिन्वां (*aviśvaminvāṃ*) means “not pervading everywhere”, because this sound spreads over only a small part; in this way, it can be said, the nature of this thunder is described.
+
+*Grammatical process (Vyākaraṇa-prakriyā)*
+
+तिस्रः (*tisraḥ*)—the word त्रि (*tri*) (tri). When śas follows, the final-udātta substitute tisṛ. By अचिर ऋतः (*acira ṛtaḥ*) (Pā. Sū. 7-2-100) yaṇ substitution. By उदात्तस्वरितयोः (*udāttasvaritayoḥ*) (Pā. Sū. 8-2-4) the case ending takes the udātta accent.
+
+बिभ्रत् (*bibhrat*)—the root डुबृञ् भरणे (*ḍubṛñ bharaṇe*) [as supplied]. The substitute śatṛ for laṭ. The śLu vikaraṇa. Taking it as the cause, doubling; by बृञामित् (*bṛñāmit*) (Pā. Sū. 7-4-76) i for the abhyāsa. By अभ्यस्तानामादिः (*abhyastānāmādiḥ*) (Pā. Sū. 6-1-189) the initial-udātta accent comes.
+
+तस्थौ (*tasthau*)—the root ष्ठा गतिनिवृत् (*ṣṭhā gatinivṛt*) [as supplied]. Liṭ, a form ending in the third person singular. Because it stands after a finite verb *[as supplied: अतिजंतद (*atijaṃtada*)]*, the nighāta accent comes.
+
+ग्लपयंति (*glapayaṃti*)—the root ग्लै हर्षक्षये (*glai harṣakṣaye*). By हेतुमति च (*hetumati ca*) (Pā. Sū. 3-1-26) ṇic. By आदेच उपदेशेशिति (*ādeca upadeśeśiti*) (Pā. Sū. 6-1-45) ātva for the root. By अर्तिह्रीप्ली- (*artihrīplī-*) (Pā. Sū. 7-3-36) the augment puk. In the third person plural of laṭ, the substitute anta for jhi. Because of śap, guṇa and the substitute ay for ṇic. The nighāta accent of a finite verb comes.
+
+मंत्रयंते (*maṃtrayaṃte*)—the root मत्रि गुप्तपरिभाषणे (*matri guptaparibhāṣaṇe*). By इदितो नुम् धातोः (*idito num dhātoḥ*) (Pā. Sū 7-1 58) [as supplied] the augment num. By the sūtra सत्यापपाश- (*satyāpapāśa-*) (Pā. Sū. 3-1-25) ṇic in the own sense. A form ending in the third person plural of laṭ. Because it stands at the beginning of a pāda, the nighāta accent does not come. The accent of ṇic remains.
+
+विश्वविदम् (*viśvavidam*)—the root विद ज्ञाने (*vida jñāne*). विश्वं वेत्ति इति विश्ववित् (*viśvaṃ vetti iti viśvavit*). ताम् (*tām*). By सत्सुद्विषद्रुह- (*satsudviṣadruha-*) (Pā. Sū. 3-2-61) the suffix kvip. By गतिकारकोपपदात्‌कृत् (*gatikārakopapadātkṛt*) (Pā. Sū. 6-2-139) the accent of the kṛdut­tarapada comes. A form ending in the accusative singular.
+
+अविश्वमिन्वाम् (*aviśvaminvām*)—विश्वमिन्वति व्याप्न्नोति इति विश्वमिन्वा (*viśvaminvati vyāpnnoti iti viśvaminvā*). The root इवि व्याप्तौ (*ivi vyāptau*). By नंदिग्रहपचादिभ्यः- (*naṃdigrahapacādibhyaḥ-*) (Pā. Sū. 3-1-134) the suffix ac. इदितो नुम् धातोः (*idito num dhātoḥ*) and by ऎंबु (*èṃbu*) *(the sentence is cut off at the end of the page and continues in the next window; the foot of the page carries the signature mark "[23] [Vol. 12" as supplied)*
+
 ---
 
-**Progress note:** Done through printed p. 347. Sukta 164 Rk 8 grammar, Rk 9 (heaven, earth, rain-calf) with special topics, Rk 10 Samhita text; pp. 342-347
+**Progress note:** Done through printed p. 353. Sukta 164 Rk 10 (Aditya as time) Pada, bhashya, special topics and grammar start; pp. 348-353
