@@ -1840,6 +1840,115 @@ and, as there रजस्सु (*rajassu*) is explained as "in the waters", th
 
 *Note (the Sanskrit grammar is only transcribed):* the Kannada begins with विश्वशंभुवा (*viśvaśaṃbhuvā*) (root भू (*bhū*), suffix *kvip*, in a causal sense; the accent of the compound by the sūtra on बहुव्रीह् विश्वं संज्ञायाम् (*bahuvrīh viśvaṃ saṃjñāyām*), Pā. Sū. 6-2 104, as printed); the analysis continues on the next page.
 
+### Printed p. 65
+
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೩. ] Ṛgveda-saṃhitā, p. 65 (as supplied).* (The grammar of Ṛk 1 continues.)
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada continues with the end of the analysis of the word that began on p. 64 ( सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39, printed "೭.೧-೩೯"), ऋतावरी (*ṛtāvarī*) (suffix *vanip* by छंदसीवनिपौ (*chaṃdasīvanipau*); Pā. Sū. 6-3-137; the feminine suffix *ṅīp* by वनोरच (*vanoraca*), Pā. Sū. 4-1-7), धारयत् कवी (*dhārayat kavī*), सुजन्मनी (*sujanmanī*) (Pā. Sū. 6-2 119, number broken across lines), धिषणे (*dhiṣaṇe*) (root इंधृषा (*iṃdhṛṣā*) *[so printed]*, Uṇ. Sū. 240; the substitution युवोरनाकौ (*yuvoranākau*)) and ईयते (*īyate*) (root ईज् (*īj*), *śyan*), with the accents; it ends with the mark ॥ ೧ ॥.
+
+*[A picture, vol12/html/figures/fig1_line03129.jpg, follows in the supplied text: a decorative ornament with no text, and the converter line "This image contains a graphical icon and does not contain any text."; both are kept as a note in kn.md.]*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+*[The Saṃhitā block is as supplied; a hyphenated line break "ರೂಪೈರವಾ-ಸಯತ್" is joined. The numeral "೩" after "ವಪುಷ್ಯೇ" is printed so.]*
+
+> उ॒रु॒व्यच॑सा म॒हिनी॑ अस॒श्चता॑ पि॒ता मा॒ता च॒ भुव॑नानि रक्षतः ।
+> सु॒धृष्ट॑मे वपु॒ष्ये॒३॒॑ ३ न रोद॑सी पि॒ता यत्सी॑म॒भि रू॒पैरवा॑सयत् ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> उरुव्यचसा । महिनी इति । असश्चता । पिता । माता । च । भुवनानि । र क्ष तः ।
+> सुदृष्टमे इति सुधृष्टमे । वपुष्ये ३ इति । न । रोदसी इति । पिता । यत् । सीं ।
+> अभि । रूपैः । अवासयत् ॥ २ ॥
+
+> *uruvyacasā | mahinī iti | asaścatā | pitā | mātā | ca | bhuvanāni | ra kṣa taḥ |*
+> *sudṛṣṭame iti sudhṛṣṭame | vapuṣye 3 iti | na | rodasī iti | pitā | yat | sīṃ |*
+> *abhi | rūpaiḥ | avāsayat ‖ 2 ‖*
+
+### Printed p. 66
+
+*Running head: 66 "ರಾಯಣಭಾಷ್ಯಸಹಿತಾ" [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೦ (printed so, "ರಾಯಣ" for ಸಾಯಣ, without the closing bracket). In the supplied text this head is merged into the Pada block after a stray signature line ("[5] Vol. 12"), and no page marker was supplied; the page break is inserted in kn.md and pages.json.*
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಸಾಯುಣಭಾಷ್ಯಂ") and sat inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the block are joined.]*
+
+> उरुव्यचसा प्रभूतव्यजनवत्यावतिनिस्तीर्णे महिनी अत एव महत्या असश्चशासज्यमाने । परस्परवियुक्ते इत्यर्थः । पिता पालयित्री द्यौः माता निर्मात्रि
+> पृथिवी चेत्युभे भुवनानि भूतजातानि रक्षतः । पालयतः । द्यौष्टितः पृथिवी मातः ।
+> ऋ. ६-५१-५ । इत्यादिश्रुतेर्मातापितृरूपत्वं । किंच सुधृष्टमे अतिशयेन दृष्टे ॥
+> छांदसस्तकारलोपः ॥ प्रगल्वे रोदसी द्यावापृथिव्यौ वपुष्ये न वपुषो हिते इव ।
+> प्राणिनां पितराविव शरीररक्षके इत्यर्थः । तदेवोपपादयति । यद्यस्मात्सीं सर्वतः
+> पिता पितृस्थानीया द्यौ रूपैर्निरूपणसाधनैः प्रशस्यॆः प्रकाशैर्निरूप्यमाणैर्वृष्टाःदिभिर्वाभ्यवासयत् अभिवासयति अधितिष्ठति तिस्मात्पिता माता च भुवनानि रक्षतः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): vast, mighty, unattached Heaven and Earth, as father and mother, protect the worlds; the father-sky covers all with radiant forms and rain.]*
+
+*[The Pratipadārtha label is garbled in the supplied text ("ಪ್ರಸಿದ್ಧಾರ್ಥ") and the Pratipadārtha sat inside the bhāṣya block; moved out, un-quoted, and the standard label inserted. Likewise the Bhāvārtha label ("ಭಾಷಾರ್ಧ") and text.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उरुव्यचसा (*uruvyacasā*)—those spread out exceedingly widely; महिनी (*mahinī*)—therefore great; आसश्चता (*āsaścatā*) *[so printed]*—those that do not cling to one another; पिता (*pitā*)—the protecting presiding deity of the heaven-world; माता च (*mātā ca*)—and the Earth-goddess, the maker; भुवनानि (*bhuvanāni*)—all the worlds; रक्षतः (*rakṣataḥ*)—protect well. सुदृष्टमे (*sudṛṣṭame*) *[so printed]*—of firm resolve; रोदसी (*rodasī*)—Heaven and Earth; वपुष्ये न (*vapuṣye na*)—are as if solely for the welfare of all embodied beings. (Of the two,) the atmosphere, which is in the place of the father; सीं (*sīṃ*)—all around; रूपैः (*rūpaiḥ*)—by (its excellent) illuminations; अभ्यवासयत् (*abhyavāsayat*)—has covered (has dwelt all around).
+
+**भावार्थ (Bhāvārtha)**
+
+The protecting presiding deity of the heaven-world and the Earth-goddess, the maker, who are spread out exceedingly widely, therefore great, and do not cling to one another, protect all the worlds well. Heaven and Earth, of firm resolve, are as if solely for the welfare of all embodied beings. Of the two, the atmosphere, which is in the place of the father, has covered, that is, pervaded, all around with its excellent illuminations.
+
+**Printed English translation**
+
+Wide-spreading, vast, unconnected, the father and mother ( of all beings), they two preserve the worlds. Resolute, as if ( for the good ) of embodied (beings), are Heaven and Earth, and the father has invested every thing with (visible) forms.
+
+### Printed p. 67
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೩.] Ṛgveda-saṃhitā, p. 67 (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उरुव्यचसा (*uruvyacasā*)—उरु विस्तीर्णं व्यचः व्यापनं ययोः (*uru vistīrṇaṃ vyacaḥ vyāpanaṃ yayoḥ*) "those whose pervasion is exceedingly wide", or "those whose extent is enough to pervade everything". This word is used mostly as an epithet of Heaven and Earth and of Aditi. Since the identity of Aditi with the Earth is stated in many places,
+
+भगो विभक्ता शवसावसा गमदुरुव्यचा अदितिः श्रोतु मे हवं । (*bhago vibhaktā śavasāvasā gamaduruvyacā aditiḥ śrotu me havaṃ |*)
+
+(Ṛ. Saṃ. 5-46-6)
+
+in such ṛks the breadth of Aditi, full of greatness, is itself a description of the Earth. Like उरुव्यचसा (*uruvyacasā*), the epithet वरीमता (*varīmatā*) also indicates the extent of Heaven and Earth. The sentence in the Śatapatha Brāhmaṇa that nothing in the universe is spread out more widely than Heaven and Earth makes this truth clear. Since the original of the Kāṇva recension is not available at present, its English translation is quoted here:
+
+"The great Heaven and Earth" for additional superfluous (अतिरिक्त (*atirikta*)) is that (गर्भ (*garbha*)), beyond these two, Heaven and Earth, nothing whatever remains (or nothing surpasses them, अतिरिच्यते (*atiricyate*)). (S. B. E. Vol. XXVI. P. 336, f. n.)
+
+It is stated that nothing in the world has an extension beyond Earth and Atmosphere. Likewise the sentence पित माता च भुवनानि रक्षतः (*pita mātā ca bhuvanāni rakṣataḥ*) *[so printed]* tells that the whole universe too relies on Earth and Atmosphere for its maintenance and support.
+
+स्वाहोरोरंतरिक्षादारभते स्वाहा द्यावापृथिवीभ्यामिति तदाभ्यां द्यावापृथि- (*svāhororaṃtarikṣādārabhate svāhā dyāvāpṛthivībhyāmiti tadābhyāṃ dyāvāpṛthi-*)
+वीभ्यामारभते ययोरिदं सर्वमधि ॥ (*vībhyāmārabhate yayoridaṃ sarvamadhi ‖*)
+
+(Śa. Brā. 3-1-3-26)
+
+नमो द्यावापृथिवीभ्यामिति तदाभ्यां द्यावापृथिवीभ्यां निह्नुवते ययो- (*namo dyāvāpṛthivībhyāmiti tadābhyāṃ dyāvāpṛthivībhyāṃ nihnuvate yayo-*)
+रिदं सर्वमधि । (*ridaṃ sarvamadhi |*)
+
+(Śa. Brā. 3-4-3-21)
+
+द्यावापृथिवीभ्यां त्वा परिददामीति तदेनमाभ्यां द्यावापृथिवीभ्यां परिददाति (*dyāvāpṛthivībhyāṃ tvā paridadāmīti tadenamābhyāṃ dyāvāpṛthivībhyāṃ paridadāti*)
+ययोरिदं सर्वमधि । (*yayoridaṃ sarvamadhi |*)
+
+(Śa. Brā. 11-5-4-4)
+
+### Printed p. 68
+
+*Running head: 68 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 160 (printed "ಸೂ- ೧೬೦.").*
+
+In many such places it is shown, by repeating it again and again, that the existence of all the worlds, their maintenance and all the activity of protection rest on Heaven and Earth.
+
+पिता माता च (*pitā mātā ca*)—The relation of mother and father that Heaven and Earth, of whom it is said द्याः पितः पृथिवी मातः (*dyāḥ pitaḥ pṛthivī mātaḥ*) *[so printed]*, have with all other beings was explained earlier.
+
+सुधृष्ट्वमे (*sudhṛṣṭvame*) *[so printed]*—अतिशयेन दृष्टे । प्रगल्भे । (*atiśayena dṛṣṭe | pragalbhe |*) It means "those who are firm and of firm resolve".
+
+रूपैरवासयत् (*rūpairavāsayat*)—Since the planets such as Āditya are produced from the atmosphere, (it is explained as) "through them it has spread its light"; or वृष्ट्यादिभिर्वा अभ्यवासयत् (*vṛṣṭyādibhirvā abhyavāsayat*), "it has filled with rain and the like".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*[The heading is printed "ವ್ಯಾಕರಣಕ್ರಿಯಾ" in the supplied text; the standard heading is inserted and the printed one kept in kn.md as a note.]*
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses उरुव्यचसा (*uruvyacasā*) (root व्यच (*vyaca*), Uṇādi suffix *asi*; the rule cited as "ಕಾ. ೧-೨-೧-೧", as printed; the accent by Pā. Sū. 6-2-199; सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39), महिनी (*mahinī*) (root मह (*maha*), suffix *inan*), असश्चता (*asaścatā*) (root षस्थ (*ṣastha*) *[so printed]*; नञ्सुभ्याम् (*nañsubhyām*) Pā. Sū. 6-2-172), रक्षतः (*rakṣataḥ*), सुधृष्टमे (*sudhṛṣṭame*), वपुष्ये (*vapuṣye*) and आवासयत् (*āvāsayat*) (root वस (*vasa*), *ṇic*, initial vṛddhi, imperfect in the Vedic language), with the accents; the analysis may continue on the next page.
+
 ---
 
-**Progress note:** Done through printed p. 64 (PDF 64). Sūkta 160 Ṛk 1 Pratipadārtha, Bhāvārtha, English, Special Topics (rajasaḥ dhārayatkavī, dhiṣaṇe, rajasaḥ), grammar start
+**Progress note:** Done through printed p. 68 (PDF 68). Sūkta 160 Ṛk 1 grammar end; Ṛk 2 complete (Saṃhitā to Special Topics), grammar start
