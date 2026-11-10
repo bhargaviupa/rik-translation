@@ -21,3 +21,4 @@
 | w0059 | 59-61 | sonnet (standing) | n/a | n/a | n/a |
 | w0062 | 62-64 | sonnet (standing) | n/a | n/a | n/a |
 | w0065 | 65-68 | sonnet (standing) | n/a | n/a | n/a |
+| w0069 | 69-71 | sonnet (standing) | n/a | n/a | n/a |
