@@ -11001,6 +11001,167 @@ The sacrificer, the performer of the sacrifice, sings the complete sāma. In it 
 
 *[as supplied: the text of this window ends here, at the end of the page.]*
 
+### Printed p. 448
+*Running head: 448 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 24:]*
+
+रथंतरं दक्षिणे पक्षे । इयं वै रथंतरमियम वा एषां लोकानाग्ं रसतमोऽस्याग्‌ंहीमे सर्वे रसा रसतमग्‌ंह वै तद्रथंतरमित्याचक्षते परोक्षं परोक्षकामा हि देवा इमामेवास्यैतद्दक्षिणं पक्षं करोत्यथो दक्षिणमेवास्यैतत्पक्षमनस्थिकममृतं करोति (*rathaṃtaraṃ dakṣiṇe pakṣe | iyaṃ vai rathaṃtaramiyama vā eṣāṃ lokānāgṃ rasatamo 'syāgṃhīme sarve rasā rasatamagṃha vai tadrathaṃtaramityācakṣate parokṣaṃ parokṣakāmā hi devā imāmevāsyaitaddakṣiṇaṃ pakṣaṃ karotyatho dakṣiṇamevāsyaitatpakṣamanasthikamamṛtaṃ karoti*) ॥
+(Śat. Brā. 9-1-2-36) *[as supplied: "ಶ. ಬ್ರಾ"]*
+
+He sings the Rathantara-sāma on the right side. The earth, which is the most sap-filled of all the worlds and the dwelling-place of Agni, is Rathantara; what ought to be called "rasaṃtara" the gods, who love the indirect, call "rathantara". By the singing of the most sap-filled Rathantara the earth is on the right side of the sacrificer, and immortality is obtained by him.
+
+बृहदुत्तरे पक्षे । द्यौर्वै बृहद्दौर्हि बर्हिष्ठा दिवमेवास्यैतदुत्तरं पक्षं करोत्यथो उत्तरमेवास्यैतत्पक्षमनस्थिकममृतं करोति (*bṛhaduttare pakṣe | dyaurvai bṛhaddaurhi barhiṣṭhā divamevāsyaitaduttaraṃ pakṣaṃ karotyatho uttaramevāsyaitatpakṣamanasthikamamṛtaṃ karoti*) ॥
+(Śat. Brā. 9-1-2-27) *[as supplied: the verse number "೨೭" after the preceding "೩೬"; kept as printed]*
+
+He sings the Bṛhat-sāma on the left. The heavenly world, the greatest of all worlds, is on the left side of this Agni, and immortality is obtained by the sacrificer: thus the varieties in the singing of sāmas are stated. Besides, in this same part of the Śatapatha Brāhmaṇa, stating the power of this sāma and the benefit to be obtained from singing it,
+
+अथैनं सामभिः परिगायति । अत्रैष सर्वोऽग्निः संस्कृतस्तस्मिन् देवा एतदमृतग्ं रूपमुत्तममदधुस्तथैवास्मिन्नयमेतदमृतग्ं रूपमुत्तमं दधाति सामानि भवंति प्राणा वै सामान्यमृतमु वै प्राणा अमृतमेवास्मिन्नेतद्रूपमुत्तमं दधाति सर्वतः परिगायति सर्वत एवास्मिन्नेतदमृतग्ंरूपमुत्तमं दधाति (*athainaṃ sāmabhiḥ parigāyati | atraiṣa sarvo 'gniḥ saṃskṛtastasmin devā etadamṛtagṃ rūpamuttamamadadhustathaivāsminnayametadamṛtagṃ rūpamuttamaṃ dadhāti sāmāni bhavaṃti prāṇā vai sāmānyamṛtamu vai prāṇā amṛtamevāsminnetadrūpamuttamaṃ dadhāti sarvataḥ parigāyati sarvata evāsminnetadamṛtagṃrūpamuttamaṃ dadhāti*) ।
+(ಪ. ಬ್ರಾ. 9-1-2-32) *[as supplied: the abbreviation "ಪ. ಬ್ರಾ."; the Kannada text says this is the Śatapatha Brāhmaṇa]*
+
+This singing of sāmas is to be done around Agni. Therefore the ṛtviks, with a mind full of meditation, sing the Rathantara and the other sāmas. By this singing Agni too becomes complete in form. The gods also placed in him immortality of the most excellent form. The sāmas are the principal life-breaths. These principal life-breaths are immortal. Therefore the singing of sāmas produces *[as supplied: the Kannada verb is plural, "ಮಾಡುತ್ತವೆ"]* immortality.
+
+Such a sacred sāma, a giver of immortality, अर्कॆण (*arkèṇa*) *[as supplied: "ಅರ್ಕೆಣ"]* (प्रति मिमाते (*prati mimāte*)) they fashioned from arka: when the text says so, Sāyaṇa here raises an objection and also states the answer to it
+
+### Printed p. 449
+*Running head: [೨. ೨. ಆ. ೩. ವ. ೧೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 449] (as supplied: "೨. ೨." and "ಆ." where "ಅ. ೨. ಅ." would be expected; kept as printed).*
+
+as well. On the basis of a Śruti sentence an objection may arise in this context. How? Thus:
+
+एकं साम तृचे क्रियते (*ekaṃ sāma tṛce kriyate*) इति तिसृषु एकं साम विहितं अतः अर्कैः साम इति वक्तव्यं कथमुच्यते अर्केण इति (*iti tisṛṣu ekaṃ sāma vihitaṃ ataḥ arkaiḥ sāma iti vaktavyaṃ kathamucyate arkeṇa iti*) ॥
+
+"One sāma is included in three ṛks": so the Śruti sentence says. Therefore it should be said "ārkaiḥ", by the arkas, that the sāma is fashioned; the use of the singular "arkeṇa" (by the arka) *[as supplied: "ಅರ್ಕಣ"]* with "pratimimīte" is not right: this is a just objection. If it is asked what the Śruti authority for this is, in the Aitareya Brāhmaṇa and others the relation between ṛk and sāma is described in this way. An earlier story is also told for it:
+
+ऋक्च वा इदमग्रे साम चास्तां सैव नाम ऋगासीदमो नाम साम सा वा ऋक्सामोपावदन्मिथुनं संभवाव प्रजात्या इति नेत्यब्रवीत्साम् ज्यायान्वा अतो मम महिमेति ते द्वे भूत्वोपावदतां तेन प्रतिचन समवदत तास्तिस्रो भूत्वोपावदंस्तत्तिस्सृभिः समभवद्यत्ति सृभिः समभवत्तस्मात्तिस्सृभिस्तुवंति तिसृभिरुद्गायंति तिसृभिर्हि साम संमितं तस्मादेकस्य बह्वो जाया भवंति नैकस्यै बहवः सह पतयो यद्वै तत्सा चामश्च समभवतां तत्सामाभवत्तत्साम्नः सामत्वं (*ṛkca vā idamagre sāma cāstāṃ saiva nāma ṛgāsīdamo nāma sāma sā vā ṛksāmopāvadanmithunaṃ saṃbhavāva prajātyā iti netyabravītsām jyāyānvā ato mama mahimeti te dve bhūtvopāvadatāṃ tena praticana samavadata tāstisro bhūtvopāvadaṃstattissṛbhiḥ samabhavadyatti sṛbhiḥ samabhavattasmāttissṛbhistuvaṃti tisṛbhirudgāyaṃti tisṛbhirhi sāma saṃmitaṃ tasmādekasya bahvo jāyā bhavaṃti naikasyai bahavaḥ saha patayo yadvai tatsā cāmaśca samabhavatāṃ tatsāmābhavattatsāmnaḥ sāmatvaṃ*) ॥
+(Ai. Brā. 3-23)
+
+In the beginning ṛk and sāma were together. The ṛk was in female form and the sāma in male form. Then the ṛk approached the sāma and said, "Let us two establish a conjugal relation and obtain offspring." The sāma replied, "That cannot be; my greatness is greater than yours." Then the ṛk grew twice as large (became two forms) and asked again. Even then the sāma did not agree. When she grew into three and asked the sāma, then the sāma agreed. Because the sāma joined with three ṛks, they praise with three ṛks and sing with three ṛks. Therefore also in the world it is the custom for a man to have many wives; a woman cannot have many husbands. In this way, because ṛk and sāma joined together, the name sāma (sā + ama) became well known.
+
+In this way, since it is proper that one sāma should join with three ṛks, the above objection is just; yet Sāyaṇa, giving the answer to it,
+
+इति न । वस्तुतः एकं साम एकस्यां ऋचि आरूढं पश्चादन्योन्यां (*iti na | vastutaḥ ekaṃ sāma ekasyāṃ ṛci ārūḍhaṃ paścādanyonyāṃ*) तदुत्तरयोगा (*taduttarayogā*)
+
+*[as supplied: the page ends in the middle of a word, "ತದುತ್ತರಯೋಗಾ-"; two lines "[29] [Vol. 12", a printer's signature mark, are printed twice at the foot of the page.]*
+
+### Printed p. 450
+*Running head: 450 ಸಾಯುಧಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied: "ಸಾಯುಧ" for "ಸಾಯಣ"; the head was set off by the script).*
+
+यति इत्यतिदेशतः प्राप्तं तिसृषु गानं । अतः एकवचनमविरुद्धं (*yati ityatideśataḥ prāptaṃ tisṛṣu gānaṃ | ataḥ ekavacanamaviruddhaṃ*) ॥ In fact one sāma is sung on one ṛk. Afterwards it establishes a relation with the other ṛks, that is, it is sung on the other ṛks. Therefore, he has explained, the use here of the singular "arkeṇa" is neither against tradition nor against the śāstra.
+
+In many places the relation between the ṛk, which is of the form of arka, and the sāma is praised as a conjugal relation. In the Śatapatha and other Brāhmaṇas, and in the Chāndogya and other Upaniṣads, the ṛk is indicated as the wife and the sāma as the husband.
+
+तद्यथा पितुः पुत्रमेवं त्रीणि प्रथमान्याहाध कस्मादृक्षामयोः संक्रामति मतीति साम वा ऋचः पतिस्तद्यत्तत्रापि यथा पितुः पुत्रमेवं ब्रूयादृथा पतिग्ं संतं पुत्रं ब्रूयात्तादृक्तस्तस्मादृक्षामयोः संक्रामति तस्मादु त्रिः संतनोतीति पितरं पुत्रं पौत्रं तांस्तत्संतनोति तस्मादु तॆ भ्य एक एव दधाति (*tadyathā pituḥ putramevaṃ trīṇi prathamānyāhādha kasmādṛkṣāmayoḥ saṃkrāmati matīti sāma vā ṛcaḥ patistadyattatrāpi yathā pituḥ putramevaṃ brūyādṛthā patigṃ saṃtaṃ putraṃ brūyāttādṛktastasmādṛkṣāmayoḥ saṃkrāmati tasmādu triḥ saṃtanotīti pitaraṃ putraṃ pautraṃ tāṃstatsaṃtanoti tasmādu tè bhya eka eva dadhāti*) ॥
+(ಕ. ಪ್ರಾ. 8-1-5-5) *[as supplied: the abbreviation "ಕ. ಪ್ರಾ."]*
+
+If the question comes, what propriety there is in comparing the relation of father and son with the relation between sāma and ṛk: the sāma is the husband of the ṛk, and likewise it shows the position of the husband. With the three alternatives father, son, grandson, the relation of husband and wife between the sāma and the ṛk, which consists of three, is also stated. In the same way, in the Chāndogya Upaniṣad also, showing the relation between ṛk and sāma, it is described in one way in the adhidaivata view and in another way in the adhyātma view. As in the adhidaivata view—(Chā. U. 1-6-1-8),
+
+इयमेवर्गग्निः साम तदेतदेतस्यामृच्यधूढं साम तस्मादृच्यधूढं साम गीयत इयमेव साग्निरमस्तत्साम ॥ १ ॥ (*iyamevargagniḥ sāma tadetadetasyāmṛcyadhūḍhaṃ sāma tasmādṛcyadhūḍhaṃ sāma gīyata iyameva sāgniramastatsāma ‖ 1 ‖*)
+अंतरिक्षमेवर्ग्यायुः साम तदेतदेतस्यामृच्यधूढं साम तस्मादृच्य - धूढं साम गीयतेऽंतरिक्षमेव सा वायुरमस्तत्साम ॥ २ ॥ (*aṃtarikṣamevargyāyuḥ sāma tadetadetasyāmṛcyadhūḍhaṃ sāma tasmādṛcya - dhūḍhaṃ sāma gīyate 'ṃtarikṣameva sā vāyuramastatsāma ‖ 2 ‖*)
+दौरेवर्गादित्यः साम तदेतदेतस्यामृच्यधूढं साम तस्मादृच्यधूढं साम गीयते दौरेव सादित्योऽमस्तत्साम ॥ ३ ॥ (*daurevargādityaḥ sāma tadetadetasyāmṛcyadhūḍhaṃ sāma tasmādṛcyadhūḍhaṃ sāma gīyate daureva sādityo 'mastatsāma ‖ 3 ‖*)
+नक्षत्राण्येवर्च्चंद्रमाः साम तदेतदेशस्यामृच्यधूढं साम तस्मादृच्यधूढं साम गीयते नक्षत्राण्येव सा चंद्रमा अमस्तत्साम ॥ ४ ॥ (*nakṣatrāṇyevarccaṃdramāḥ sāma tadetadeśasyāmṛcyadhūḍhaṃ sāma tasmādṛcyadhūḍhaṃ sāma gīyate nakṣatrāṇyeva sā caṃdramā amastatsāma ‖ 4 ‖*)
+
+In this explanation, besides stating the relation of the earth, the firmament, the heavenly world and the stars, and of the deities Agni, Vāyu, Āditya and Candramā, as the relation of ṛk and sāma,
+
+### Printed p. 451
+*Running head: [ಅ. ೨. ಆ. ೩. ವ. ೧೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 451] (as supplied).*
+
+the identity of the earth and the rest with the ṛk, and of Agni and the other deities with the sāma, is stated. As the ṛk is the support of the sāma, so the earth and the rest are the supports of Agni and the rest. The earth and the rest are the ṛk. Therefore these are "sā", and Agni and the rest are "ama", and the two together became well known as sāma: so it is described. In the same way it explains also in the adhyātma view,
+(Chā. U. 1-7-1 to 9)
+
+अथाध्यात्मं वागेवक्र्प्राणः साम तदेतदेतस्यामृच्यधूढं साम तस्मादृच्यधूढं साम गीयते । वागेव सा प्राणोऽमस्तत्साम ॥ १ ॥ (*athādhyātmaṃ vāgevakrprāṇaḥ sāma tadetadetasyāmṛcyadhūḍhaṃ sāma tasmādṛcyadhūḍhaṃ sāma gīyate | vāgeva sā prāṇo 'mastatsāma ‖ 1 ‖*)
+चक्षुरेवर्गात्मा साम .... .... .... .... चक्षुरेव सात्मामस्तत्साम ॥ २ ॥ (*cakṣurevargātmā sāma .... .... .... .... cakṣureva sātmāmastatsāma ‖ 2 ‖*)
+शोत्रमेवर्ज्मन्मनः साम .... .... .... .... शोत्रमेव सा मनोऽमस्तत्साम (*śotramevarjmanmanaḥ sāma .... .... .... .... śotrameva sā mano 'mastatsāma*) ॥ ೩ ॥
+
+In this way speech, the eye, the ear and the rest, as supports of the life-breath, the self, the mind and the rest, show the relation of ṛk and sāma. Speech and the rest are the ṛks (sā); the life-breath and the rest are "ama"; the two together become sāma. This is the explanation of the adhyātma view.
+
+In stating thus the relation of ṛk and sāma, it is described that the three worlds, the earth and the rest, and the deities Agni and the rest who are the lords of these worlds, are in this form; or that ṛk and sāma themselves are in that form; and the all-pervasiveness of ṛk and sāma is described in the adhidaivata form and in the adhyātma form.
+
+स एष ये चैतस्मादर्वांचो लोकास्तेषां चेष्टे मनुष्यकामानां चेति तद्य इमे वीणायां गायंत्येतं ते गायंति तस्मात्ते धनसनयः (*sa eṣa ye caitasmādarvāṃco lokāsteṣāṃ ceṣṭe manuṣyakāmānāṃ ceti tadya ime vīṇāyāṃ gāyaṃtyetaṃ te gāyaṃti tasmātte dhanasanayaḥ*) ।
+(Chā. U. 1-7-6)
+
+He is the lord of all the worlds below this (the one within the eye, related to the Self) and of all desires. For those who sing this sāma in the form of lute-singing, all kinds of wealth are obtained. Not only this,
+
+अथ य एतदेवं विद्वान्साम गायत्युभौ स गायति सोऽमुनैव स एष ये चामुष्मात्परांचो लोकास्तांश्चाप्नोति देवकामांश्च ॥ कं ते काममागायानीत्येष ह्येव कामागानस्येष्टे य एवं विद्वान्साम गायति साम गायति (*atha ya etadevaṃ vidvānsāma gāyatyubhau sa gāyati so 'munaiva sa eṣa ye cāmuṣmātparāṃco lokāstāṃścāpnoti devakāmāṃśca ‖ kaṃ te kāmamāgāyānītyeṣa hyeva kāmāgānasyeṣṭe ya evaṃ vidvānsāma gāyati sāma gāyati*) ॥
+(Chā. U. 1-7-7 to 9)
+
+### Printed p. 452
+*Running head: 452 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ.೧೬೪] (as supplied: "ಆ." for "ಅ.").*
+
+By this singing of sāmas all desires common to gods, men and the rest are obtained. Therefore the udgātṛ may ask, "By this singing of sāma, which desire of yours shall I make accomplished?" For the one who performs this sacred singing of sāma is the lord of all kinds of desires, worldly and heavenly, and is able to obtain them.
+
+स य एतदेवं विद्वान्साधु सामेत्युपास्तेऽभ्याशो ह यदेवं सादवो धर्मा आ च गच्छेयुरुप च नमेयुः (*sa ya etadevaṃ vidvānsādhu sāmetyupāste 'bhyāśo ha yadevaṃ sādavo dharmā ā ca gaccheyurupa ca nameyuḥ*) ।
+(ಛ. 38 2-2-4) *[as supplied: the abbreviation and number "ಛ. ೩೮"]*
+
+The great one who knows this truth worships the sāma, knowing it to be sādhu (good). The sādhu-dharmas come always to protect him; and for the protection of his self they remain with him and serve him. In this way the power of sāma is described in many ways. Besides this, पंचविधं सामोपासीत (*paṃcavidhaṃ sāmopāsīta*) and so on: there is a description of the divisions of this sāma and praise of its greatness in many ways, and it is praised in many ways as a direct means to the welfare of the self. As the explanation would be very lengthy, those praising sentences cannot be cited here; its praise can be learnt from the Chāndogya and others.
+
+In the Ṛk under discussion, what Sāyaṇa explained as उक्तलक्षणेन मंत्रेण साम गायत्ररथंतरसंज्ञकं साम प्रतिमिमाते (*uktalakṣaṇena maṃtreṇa sāma gāyatrarathaṃtarasaṃjñakaṃ sāma pratimimāte*) *[as supplied: "ಪ್ರತಿಮಿಮಾತೇ"]* has been stated above.
+
+त्रैष्टुभेन वाकं (*traiṣṭubhena vākaṃ*)—"by the Triṣṭup metre he fashioned the vāka": this can be said as the gross meaning. Here the word vāka may mean the collective sentences of the form of dvyṛca and tṛca (couplets and triplets). Or he explains it as वाकं सूक्तं एतावद्भिस्त्रिष्टुब्बिः उपनिबद्धमिदं सूक्तं (*vākaṃ sūktaṃ etāvadbhistriṣṭubbiḥ upanibaddhamidaṃ sūktaṃ*) *[as supplied: "ಏತಾವದ್ಭಿಸ್ತ್ರಿಷ್ಟುಬ್ಬಿಃ"]*, a sūkta composed of Triṣṭups and the rest. Supposing the question, why only Triṣṭup is mentioned when there are other metres too, he has answered thus: अथवा अनादेशे सर्वत्र त्रिष्टुभो ग्रहणात् प्राचुर्याभिप्रायेण इदमुक्तं (*athavā anādeśe sarvatra triṣṭubho grahaṇāt prācuryābhiprāyeṇa idamuktaṃ*) । Since in the whole Ṛk-saṃhitā the sūktas composed in the Triṣṭup metre are by far the most numerous, Sāyaṇa explains that it is said taking this one metre as the chief.
+
+Not only this, the greatness of the Triṣṭup is very high. Its explanation is stated in the Nirukta in this way.
+
+त्रिष्टुप् स्तोभत्युत्तरपदा । का तु त्रितु स्यात् । तीर्णतमं छंधः। त्रिवृद्वज्रस्तस्य स्तोभतीति वा । यत्तिरस्तोभत्तत्तिष्टुभस्तिष्टुप्तमिति विज्ञायते (*triṣṭup stobhatyuttarapadā | kā tu tritu syāt | tīrṇatamaṃ chaṃdhaḥ| trivṛdvajrastasya stobhatīti vā | yattirastobhattattiṣṭubhastiṣṭuptamiti vijñāyate*) ।
+(Ni. 7-12)
+
+### Printed p. 453
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೧೮] ಋಗ್ವೇದಸಂಹಿತಾ 453] (as supplied: "ಪ." for "ವ.").*
+
+It is derived from the root stubh, which has the sense of praise. But what is the meaning of the first member, the word tri? "Most swift": that is, this is the most rapid metre. Or the name may have become well known because it praises the vajra consisting of the trivṛt, or because it praises three times. That it is not merely praising the thunderbolt but is itself of the nature of the vajra, the form and the power of the Triṣṭup are thus praised in the Śatapatha Brāhmaṇa.
+
+एकादशाक्षरा त्रिष्टुब्बजस्रिस्त्रिष्टुब्बीर्यं त्रिष्टुब्बज्रेणैवैतद्वीर्येण यजमानः पुरस्ताद्यज्ञमुखाद्रक्षाग्‌ंसि नाष्टा अपहंति (*ekādaśākṣarā triṣṭubbajasristriṣṭubbīryaṃ triṣṭubbajreṇaivaitadvīryeṇa yajamānaḥ purastādyajñamukhādrakṣāgṃsi nāṣṭā apahaṃti*) ।
+(Śat. Brā. 10-2-3-2) *[as supplied: "ಶ. ಬ್ರಾ."]*
+
+The Triṣṭup, which consists of eleven syllables, is the vajra; that itself is vigour. By this excellent power the sacrificer is able to drive away the asuras and the rest from the face of the sacrifice. Therefore the mantra of the Triṣṭup form is endowed with vigour. Describing this same thing in the Aitareya Brāhmaṇa also,
+
+तदेकादशर्चं भवत्येकादशाक्षरा वै त्रिषुष्ट्रष्टुभो वै राजन्य ओजो वा इंद्रियं वीर्यं त्रिष्टुबोजः (*tadekādaśarcaṃ bhavatyekādaśākṣarā vai triṣuṣṭraṣṭubho vai rājanya ojo vā iṃdriyaṃ vīryaṃ triṣṭubojaḥ*) .... ॥
+(Ai. Brā. 8-2)
+
+The Triṣṭup of eleven ṛks *[as supplied: "ಏಕದಶರ್ಚ"]* has eleven syllables. It is of the nature of the rājanya (royal order). It contains ojas, indriya and vīrya *[as supplied: "ವಿರ‍್ಯ"]*, and is of the nature of kṣatra. In this way the Triṣṭup is praised. Therefore it is explained in the Ṛk under discussion that they fashion the vāka with this metre, which is full of vigour.
+
+वाकेन वाकं (*vākena vākaṃ*): the meaning of वर्गमनुवाकं ना मिमिते (*vargamanuvākaṃ nā mimite*) *[as supplied: "ನಾ"]* is that they fashion either a varga or an anuvāka. Showing the qualifier for this, द्विपदा चतुष्पदा (*dvipadā catuṣpadā*) ।
+
+पादद्वयबद्धविराडादिच्छंदोनिबद्धमंत्ररूपेण ; पादचतुष्टयोपेतेन अनुष्टुबादिमंत्ररूपेणेति । इयतीभिर्द्विपदाभिर्वर्गः । इयतीभिश्चतुष्पदाभिरुपेतो वर्गः (*pādadvayabaddhavirāḍādicchaṃdonibaddhamaṃtrarūpeṇa ; pādacatuṣṭayopetena anuṣṭubādimaṃtrarūpeṇeti | iyatībhirdvipadābhirvargaḥ | iyatībhiścatuṣpadābhirupeto vargaḥ*) ii *[as supplied: "ii" in the print after this passage]*
+
+In the metre dvipadā virāṭ there are only two pādas, and it is only a half-ṛk. It is understood to mean a varga consisting of such mantras, or a varga consisting of Anuṣṭup and the rest. सूक्तपक्षे एतावद्धिः सूक्तैः आयमनुवाक इति (*sūktapakṣe etāvaddhiḥ sūktaiḥ āyamanuvāka iti*) *[as supplied: "ಆಯಮ"]*: in the sūkta view the meaning is an anuvāka containing so many sūktas; thus the reckoning of this vāka is stated. Since in this way room is here for both reckonings, varga or sūkta, it will not be wrong to cite here those divisions as given in Śaunaka's Anukramaṇī. According to Śaunaka's opinion, of the Ṛgveda
+
+### Printed p. 454
+*Running head: 454 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+according to the Śākala branch there are 10 maṇḍalas and 64 adhyāyas. Among these, the divisions of the maṇḍalas first, and their numbers, are as follows.
+
+In the 1st maṇḍala there are 24 anuvākas and 191 sūktas.
+
+| | | | | | |
+|---|---|---|---|---|---|
+| 2 ,, | ,, | 4 | ,, | 43 | ,, |
+| 3 ,, | ,, | 5 | ,, | 62 | ,, |
+| 4 ,, | ,, | 5 | ,, | 58 | ,, |
+| 5 ,, | ,, | 6 | ,, | 87 | ,, |
+| 6 ,, | ,, | 6 | ,, | 75 | ,, |
+| 7 ,, | ,, | 6 | ,, | 104 | ,, |
+| 8 ,, | ,, | 10 | ,, | 92 (11 Vālakhilya sūktas) | |
+| 9 ,, | ,, | 7 | ,, | 114 | ,, |
+| 10 ,, | ,, | 12 | ,, | 191 | ,, |
+
+In all, in the 10 maṇḍalas there are 85 anuvākas and 1017 + 11 = 1028 sūktas (according to the Bāṣkala branch, 1025 sūktas). The divisions of the form of vargas are as follows.
+
+| 1 | Vargas containing mantras | 1 | Total mantras | 1 |
+|---|---|---|---|---|
+| 2 | ,, | 2 | ,, | 4 |
+| 3 | ,, | 97 | ,, | 291 |
+| 4 | ,, | 174 | ,, | 696 |
+| 5 | ,, | 1206 | ,, | 6035 |
+| 6 | ,, | 346 | ,, | 2076 |
+| 7 | ,, | 119 | ,, | 833 |
+| 8 | ,, | 59 | ,, | 472 |
+| 9 | ,, | 1 | ,, | 9 |
+
+In all, in the 64 adhyāyas there are 2006 vargas and 10417 mantras. According to the reckoning of the Caraṇa-vyūha there are in all 2042 vargas and 10622 mantras; but what the correct basis for this difference is cannot be said. These divisions are described in the Ṛk under discussion by वाकेन वाकं द्विपदा चतुष्पदा (*vākena vākaṃ dvipadā catuṣpadā*).
+
+अक्षरेण मिमते सप्तवाणीः (*akṣareṇa mimate saptavāṇīḥ*)—अक्षरेणैव वागधिष्ठितानि सप्तच्छंदांसि निर्माणं कुर्वंति (*akṣareṇaiva vāgadhiṣṭhitāni saptacchaṃdāṃsi nirmāṇaṃ kurvaṃti*) । The meaning is that by the syllable they fashion the seven metres, Gāyatrī and the rest. अष्टाक्षरा गायत्रि (*aṣṭākṣarā gāyatri*) ; एकादशाक्षरा त्रिष्टुप् (*ekādaśākṣarā triṣṭup*) ; द्वादशाक्षरा जगती (*dvādaśākṣarā jagatī*) । The Gāyatrī has eight syllables; the Triṣṭu-
+
+*[as supplied: the text of this window ends here, in the middle of the word "ತ್ರಿಷ್ಟು-"; it continues in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 447. Vol 12 pp. 442-447: end of Ṛk 23 special topics and grammar; Ṛk 24 (1.164.24) text, bhāṣya, arka/sāma/vāka special topics
+**Progress note:** Done through printed p. 454. Vol 12 pp. 448-454: Ṛk 24 special topics (sāma/ṛk relation, Triṣṭup, vargas/anuvākas tables)
