@@ -8956,6 +8956,166 @@ Because of tip, guṇa for the penultimate of the root. By अभ्यस्त
 
 *(The bhāṣya is cut off at the foot of the page, in the middle of the word "ಸಪ್ತ-" ; it continues in the next window.)*
 
+### Printed p. 360
+*Running head: 360 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya of Ṛk 12, from the word "sapta-" cut off at the foot of the previous page:]
+> चक्रे । सप्तादित्यरश्मयस्तद्वारेण चक्रस्थानीया यस्य स तथोक्तः । यद्वा । आयनर्तुमासपक्षाहोरात्रिमुहूर्तानि सप्त सप्त चक्राणि पुनः पुनः क्रममाणानि यस्य
+> तादृशे । षळरे षडृतव एवारा नाभौ प्रत्युताः संबद्धा यस्य तथोक्तलक्षणे
+> संवत्सरे रथे विचक्षणं विविधदर्शनकरमादित्यमर्पितमाहुः । एतदुक्तं भवति ।
+> अमुमादित्यं दक्षिणोत्तररूपभिन्नगतेस्तीव्रमंदादिभावस्य च कालाधीनत्वात्तदधीनमाहुः । अन्ये तु संवत्सराद्यात्मकस्य कालस्य सूर्यगमनागमनसाध्यत्वात्तदायत्तत्वमाहुरिति ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+पंचपादं (*paṃcapādaṃ*)—him who has five feet in the form of seasons; पितरं (*pitaraṃ*)—the giver of delight, or him who is of the nature of a father; द्वादशाकृतिं (*dvādaśākṛtiṃ*)—him who has the twelve months as his limbs; पुरीषिणं (*purīṣiṇaṃ*)—him who is filled with rain-water: the Āditya; दिवः (*divaḥ*)—of the heaven-world; हरे अर्धे (*hare ardhe*) *[as supplied: हरे (*hare*); the Saṃhitā word is परे (*pare*)]*—in the highest place (as one placed there); आहुः (*āhuḥ*)—(some knowers of the truth) say; अथ इमे अन्वे (*atha ime anve*) *[as supplied: अन्वे (*anve*); the Saṃhitā word is अन्ये (*anye*)]*—and these others, some more of the Vedavādins; सप्तचक्रे (*saptacakre*)—in that which consists of seven parts such as the ayanas; षळरे (*ṣaḷare*)—having six spokes in the form of seasons; उपरे (*upare*)—in time in the form of the year; विचक्षणं (*vicakṣaṇaṃ*)—the Āditya, who is the cause of varied sights; अर्पितं (*arpitaṃ*)—as one placed *[as supplied: आर्पिसल्पट्टिरुवनन्नागि (*ārpisalpaṭṭiruvanannāgi*)]*; आहुः (*āhuḥ*)—they say.
+
+**भावार्थ (Bhāvārtha)**
+Some knowers of the truth say that the Āditya, who has five feet in the form of seasons, who is of the nature of a father, who has the forms of the twelve months, and who is filled with rain-water, is placed in the highest position of the heaven-world. Other Vedavādins say that the Āditya, the cause of varied sights, is placed (established) in time in the form of the year, which consists of seven parts such as the ayanas and has six spokes in the form of seasons.
+
+**Printed English**
+They have termed the five-footed, twelve-formed parent, Purishin, when in the further hemisphere of the sky: and others have termed him Arpita, when in the hither (portion of the sky); shining in his seven-wheeled (car), each (wheel) having six spokes.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Sāyaṇa has stated the total purport of this Ṛk in this way: अमुमादित्यं दक्षिणोत्तररूपभिन्नगतेः तीव्रमंदादिभावस्य च कालाधीनत्वात्तदधीन (*amumādityaṃ dakṣiṇottararūpabhinnagateḥ tīvramaṃdādibhāvasya ca kālādhīnatvāttadadhīna*) (continued on the next page)
+
+### Printed p. 361
+*Running head: Ṛgveda-saṃhitā 361 [ಅ ೨. ಅ. ೩. ವ. ೧೬ ] (as supplied).*
+
+माहुः (*māhuḥ*). अन्ये तु संवत्सराद्यात्मकस्य कालस्य सूर्यगमनागमनसाध्यत्वात् तदायत्तत्वमाहुः (*anye tu saṃvatsarādyātmakasya kālasya sūryagamanāgamanasādhyatvāt tadāyattatvamāhuḥ*) *ಇತಿ*. One opinion is that the courses of the Āditya, in the form of the southern and northern solstices, and likewise his intensity or mildness, are subject to time in the form of the year, and that therefore the Āditya is subject to time. Another opinion is that, since time in the form of the year depends on the going and coming of the sun, time in the form of the year depends on the sun. In the present Ṛk the Āditya in the form of the year is described.
+
+पंचपादं (*paṃcapādaṃ*)—पंचसंख्याकऋत्वात्मकपादोपेतं एतत् हेमंत शिशिरयोः एकत्वाभिप्रायं (*paṃcasaṃkhyākaṛtvātmakapādopetaṃ etat hemaṃta śiśirayoḥ ekatvābhiprāyaṃ*). Since the Hemanta season and the Śiśira season have the same quality, if both are reckoned as one season, then only five seasons are the parts of the year. Here "five-footed" is an epithet of the year. This mantra is recited also in the Praśna Upaniṣad. There Śaṅkarācārya explains this word as: पंचर्तवः पादा इवास्य संवत्सरात्मन आदित्यस्य । तैरस्सा पाद्यरिवर्तुभिरावर्तते । हेमंतशिशिरावेकीकृत्येयं कल्पना (*paṃcartavaḥ pādā ivāsya saṃvatsarātmana ādityasya | tairassā pādyarivartubhirāvartate | hemaṃtaśiśirāvekīkṛtyeyaṃ kalpanā*), that is, the five seasons that are like feet of the Āditya who is of the nature of the year. (Pra. U. 1-11.)
+
+द्वादशाकृतिं (*dvādaśākṛtiṃ*)—द्वादश मासा एव आकृतयो यस्य तादृशं (*dvādaśa māsā eva ākṛtayo yasya tādṛśaṃ*); that is, the Āditya of the nature of the year, whose limbs are the twelve months. The form of the Āditya furnished with all these seventeen limbs is described in the Śatapatha Brāhmaṇa:
+
+तस्य सप्तदश सामिधेन्यः । सप्तदशो वै संवत्सरो द्वादशमासाः पंचर्तवः संवत्सरः प्रजापतिः (*tasya saptadaśa sāmidhenyaḥ | saptadaśo vai saṃvatsaro dvādaśamāsāḥ paṃcartavaḥ saṃvatsaraḥ prajāpatiḥ*)
+(Śa. Brā. 6-2-2-8)
+
+Prajāpati is the year, having seventeen limbs, with twelve months and five seasons; thus the relation between the sāmidhenī mantras, which are a part of the sacrifice, and Prajāpati is shown. The purport is that, since the limbs of the year are seventeen, these mantras also must be seventeen in number.
+
+पितरं (*pitaraṃ*)—सर्वस्य प्रीणयितारं (*sarvasya prīṇayitāraṃ*), "one who gives delight to all": this is an epithet of the wheel of the year; that is, since the identity of the wheel of the year and the Āditya is stated here, it must be understood that the word पितरं (*pitaraṃ*) is an epithet of the Āditya also. If it is an epithet of the Āditya, it would not be wrong to give the established meaning "father". Why? Because:
+
+पिता नोऽसि पिता नो बोधीति । एष वै पिता य एष तपत्येष उ प्रवर्ग्यस्तदेतमेवैतत्प्रीणाति तस्मादाह पिता नोऽसि पिता नो बोधीति नमस्तेऽस्तु। (*pitā no 'si pitā no bodhīti | eṣa vai pitā ya eṣa tapatyeṣa u pravargyastadetamevaitatprīṇāti tasmādāha pitā no 'si pitā no bodhīti namaste 'stu|*)
+(Śa. Brā. 14-1-4-15)
+
+### Printed p. 362
+*Running head: 362 ರಾಯಣಭಾವ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೪ (as supplied, garbled; the intended running head is Sāyaṇa-bhāṣya-sahitā).*
+
+The Āditya who shines in the atmosphere is the father of us all; he is the giver of delight and the cause of contentment to us all; he is of the form of the pravargya. Since he is addressed thus, here also he may be called father. Both these meanings are contained in the word. This meaning can be given with reference to the year also. Why? Because:
+
+अथो प्रजननमेतत्संवत्सरो वा ऋतव्याः संवत्सरः प्रजननं प्रजननमेवैतदुपदधाति (*atho prajananametatsaṃvatsaro vā ṛtavyāḥ saṃvatsaraḥ prajananaṃ prajananamevaitadupadadhāti*)
+(Śa. Brā. 8-7-1-1) *[as supplied: "ಶ ಬ್ರಾ."]*
+
+In such sentences, since it is said that the power of generation is itself in the form of the year, and that all beings were produced from the year, the established meaning "father" can be given. Sāyaṇa has given only the meaning प्रीणयितारं (*prīṇayitāraṃ*), "giving contentment". In his commentary on the Praśna Upaniṣad, Śaṅkarācārya explains this word thus: सर्वस्य जनयित्कृत्वात्पितृत्वं तस्य (*sarvasya janayitkṛtvātpitṛtvaṃ tasya*) (संवत्सरात्मन आदित्यस्य (*saṃvatsarātmana ādityasya*)); that is, because the Āditya of the nature of the year is the progenitor of all, he has fatherhood. (Pra. U. 1-11.)
+
+पुरीषिणं (*purīṣiṇaṃ*)—पुरीषमित्युदकनाम (*purīṣamityudakanāma*): this word is read among the names of water. सर्व (*sarva*) कामानां पूरकं उदकं (*kāmānāṃ pūrakaṃ udakaṃ*): the meaning is "by water which fulfils all desired objects". When stating the precise etymology of this word, the author of the Nirukta, quoting the Ṛk
+
+देवानां माने प्रथमा अतिष्ठन् कृंतत्रादेषामुसरा उदायन् । त्रयस्तपंति पृथिवीमनूपा द्वा बृबूकं वहतः पुरीषं (*devānāṃ māne prathamā atiṣṭhan kṛṃtatrādeṣāmusarā udāyan | trayastapaṃti pṛthivīmanūpā dvā bṛbūkaṃ vahataḥ purīṣaṃ*)
+(Ṛ. Saṃ. 10-27-23)
+
+shows there, with पुरीषं प्रीणातेः पूरयतेर्वा (*purīṣaṃ prīṇāteḥ pūrayatervā*), that this word is formed from a root प्प (*ppa*) *[sic: as supplied]* meaning "fill" or "satisfy". (सि (*si*)- 2-22 *[as supplied: the abbreviation is odd; reported]*.) The epithet "purīṣī" is well known for the Āditya, since he possesses water which fills the world or gives satisfaction to the world, or since he is pervaded by water. Even though water is not contained within the Āditya, this epithet is applied because the Āditya revolves in the midst of water or because he is the producer of water; this is understood from many sentences of the Śatapatha Brāhmaṇa:
+
+अपां गंभन्तीदेति । एतद्वापां गंभिष्टं यत्रैष एतत्तपति (*apāṃ gaṃbhantīdeti | etadvāpāṃ gaṃbhiṣṭaṃ yatraiṣa etattapati*)
+(Śa. Brā. 7-5-1-8) *[as supplied: "ಶ ಬ್ರಾ."]*
+
+In the atmosphere, in the midst of deep water, the Āditya shines.
+
+### Printed p. 363
+*Running head: Ṛgveda-saṃhitā 363 [ಅ. ೨. ಅ. ೩. ಪ. ೧೬] (as supplied: "ಪ." for "ವ.").*
+
+अग्ने दिवोर्णमच्छा जिगासीति । अपो वा अस्य दिवोर्णस्ता .... .... .... या रोचने परस्तात्सूर्यस्य याश्चावस्तादुपतिष्ठंत अप इति रोचनो ह नामैष लोको यत्रैष एतत्तपति तद्याश्चैतं परेणापो याश्चावरेण ता एतदाह (*agne divorṇamacchā jigāsīti | apo vā asya divorṇastā .... .... .... yā rocane parastātsūryasya yāścāvastādupatiṣṭhaṃta apa iti rocano ha nāmaiṣa loko yatraiṣa etattapati tadyāścaitaṃ pareṇāpo yāścāvareṇa tā etadāha*)
+(Śa. Brā. 7-1-1-24) *[the dotted gaps are in the print]*
+
+O Agni, in the heaven-world all thy brilliance shines in the form of the Āditya. Thou shinest in the stream that is in the atmosphere. That stream is pervaded by the water of the atmosphere. That stream of water has overspread (*as supplied: "ಮಾರಿಹೋಗಿದೆ"*) even the orb of brilliance of the Āditya. In the midst of the stream spreading below, above and all round, the Agni in the form of the Āditya is shining; thus it is described. Further:
+
+सर्वाणि ह त्वेव भूतानि । सर्वे देवा एषोऽग्निश्चित अपो वै सर्वे देवा सर्वाणि भूतानि ता हैता आप एवैषोऽग्निश्चितस्तस्य नाव्या एव परिश्रितस्ताः षष्टिश्च त्रीणि च शतानि भवंति षष्टिश्च ह वै त्रीणि च शतान्यादित्यं नाव्या अभिरक्षंत्यथ यदंतरा नाव्ये तत्सूददोहा (*sarvāṇi ha tveva bhūtāni | sarve devā eṣo 'gniścita apo vai sarve devā sarvāṇi bhūtāni tā haitā āpa evaiṣo 'gniścitastasya nāvyā eva pariśritastāḥ ṣaṣṭiśca trīṇi ca śatāni bhavaṃti ṣaṣṭiśca ha vai trīṇi ca śatānyādityaṃ nāvyā abhirakṣaṃtyatha yadaṃtarā nāvye tatsūdadohā*)
+(Śa. Brā. 10-5-4-14)
+
+Here, speaking of the likeness between the fire-altar and the orb of the Āditya, it is stated that the sacrificial fire is itself all beings and all deities, that all beings are the all-pervading water, and the three hundred and sixty streams that surround the orb of the Āditya are described as equal to the three hundred and sixty bricks on the circumference of the fire-altar. It is explained that these streams flow enveloping the sun and facing him. Sāyaṇa explains that, because the sun's rays are the cause of the streams of water, the rays themselves are spoken of figuratively as streams, saying अर्चिसो ह्यापसूरकिरणानामेव वृष्टिकर्तृकत्वात् कार्यकारणयोरभेदेन अर्चिर्वा अप इत्युक्तं (*arciso hyāpasūrakiraṇānāmeva vṛṣṭikartṛkatvāt kāryakāraṇayorabhedena arcirvā apa ityuktaṃ*). Thus, because he is surrounded by water and, through his rays, is the cause of the flow of water, the epithet "purīṣa" explains the nature of the Āditya.
+
+Sāyaṇa first explains उदकवंतं (*udakavaṃtaṃ*), and then gives a second meaning also, प्रीणयितारं वा (*prīṇayitāraṃ vā*), "giving delight to beings". As both meanings are possible according to the etymology of the author of the Nirukta quoted above, and since all life in the world is full of delight through the Āditya alone, either meaning may be given here.
+
+उपरे (*upare*)—उपरमंते अस्मिन् उपरताः प्राणिनः अत्र इति वा उपरः संवत्सरः (*uparamaṃte asmin uparatāḥ prāṇinaḥ atra iti vā uparaḥ saṃvatsaraḥ*). Living beings come to rest here, that is, they attain death, without motion; since the word means this
+
+### Printed p. 364
+*Running head: 364 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+Sāyaṇa explains that "upara" means the year. For उपरमंते (*uparamaṃte*) in this sense there is also room to explain it as उपगम्य रमंते (*upagamya ramaṃte*), "approach and rejoice". Thus: the author of the Nirukta, showing the etymology of the word "upara" (Ni. 2-21; here it is a synonym of cloud), gives two explanations: उप रमंतेऽस्मिन्नभ्राणि (*upa ramaṃte 'sminnabhrāṇi*) and उप रता आप इति वा (*upa ratā āpa iti vā*). Durgācārya, commenting on this, says उपगम्य रमंते अस्मिन्नभ्राणि (*upagamya ramaṃte asminnabhrāṇi*): here the clouds gather together and show their joy. In the same way, in the present Ṛk also, उपरमंते (*uparamaṃte*) may be explained as "they experience the happiness obtained through plenty of food", and उपरताः (*uparatāḥ*) as "they are at rest", that is, "they attain a state without motion (they get death)". The year causes plenty of food and is the cause of contentment; and likewise, as the years, filled with days and nights, pass away, it is the cause of the death of living beings also. There are Śruti sentences showing both these views:
+
+त्रीणि वा इमानि पंचविधानि । संवत्सरोऽग्निः पुरुषस्तेषां पंचविधा अन्नं पानग्ग् श्रीज्योतिरमृतं यदेव संवत्सरेऽन्नं तदन्नं या आपस्तत्पानग्ग् रात्रिरेव श्रीः श्रियाग्ग् हैतद्रात्र्याग्ग् सर्वाणि भूतानि संवसंत्यहर्ज्योतिरादित्योऽमृतमित्यधिदेवतं (*trīṇi vā imāni paṃcavidhāni | saṃvatsaro 'gniḥ puruṣasteṣāṃ paṃcavidhā annaṃ pānagg śrījyotiramṛtaṃ yadeva saṃvatsare 'nnaṃ tadannaṃ yā āpastatpānagg rātrireva śrīḥ śriyāgg haitadrātryāgg sarvāṇi bhūtāni saṃvasaṃtyaharjyotirādityo 'mṛtamityadhidevataṃ*)
+(Śa. Brā. 10-2-6-16)
+
+There are three things that have fivefold wealth: the year, Agni and the Puruṣa. Food, drink, prosperity (happiness), brilliance and immortality are their five transformations. As much food as there is in the year, so much is its nourishment; as much as there is water, so much is the drink; since all beings find happiness in the night alone, the night is happiness; the day is brilliance and the Āditya is immortality. Thus praising the abundance of wealth of the year, it goes on:
+
+सोऽयं संवत्सरः प्रजापतिः .... .... .... .... तस्मादाहुस्संवत्सरः सर्वे कामा इति न ह संवत्सरात्कश्चन बहिर्धा कामोऽस्ति (*so 'yaṃ saṃvatsaraḥ prajāpatiḥ .... .... .... .... tasmādāhussaṃvatsaraḥ sarve kāmā iti na ha saṃvatsarātkaścana bahirdhā kāmo 'sti*)
+(*as supplied:* "ಪ. ಬ್ರಾ. 10-2-4-1"; the dotted gaps are in the print)
+
+Prajāpati is the year, and Agni is the reflection of every kind of desired object. The year in the form of Prajāpati, wishing to fulfil its desires, strove and itself filled itself with all kinds of desired objects. Therefore the year, the reflection of Prajāpati, was filled with desired objects. Thus the nature of the year is praised: there is no desired object outside the year. Since the year is also the support of every kind of desired object, the meaning संवत्सरे उपरमंते प्राणिनः (*saṃvatsare uparamaṃte prāṇinaḥ*), "living beings rejoice in the year", can be given. Secondly:
+
+### Printed p. 365
+*Running head: Ṛgveda-saṃhitā 365 [ಅ. ೨. ಅ. ೩. ವ. ೧೬ ] (as supplied).*
+
+एष वै मृत्युर्यत्संवत्सरः । एष हि मर्त्यानामहोरात्राभ्यामायुः क्षिणोत्यथ म्रियंते तस्मादेष एव मत्युः स यो हैतं मृत्युग्ं संवत्सरं वेद न हास्यैष पुरा जरसोऽहोरात्राभ्यामायु: क्षिणोति सर्वग्ंहैवायुरेति (*eṣa vai mṛtyuryatsaṃvatsaraḥ | eṣa hi martyānāmahorātrābhyāmāyuḥ kṣiṇotyatha mriyaṃte tasmādeṣa eva matyuḥ sa yo haitaṃ mṛtyugṃ saṃvatsaraṃ veda na hāsyaiṣa purā jaraso 'horātrābhyāmāyu: kṣiṇoti sarvagṃhaivāyureti*)
+(Śa. Brā. 10-4-3-1)
+
+The year is like death. Prajāpati, in the form of time, destroys the world of mortals through the days and nights. Therefore the year is like the Ender. He who knows this attains the full span of his life; otherwise untimely death befalls him. For such:
+
+एष उ एवांतकः । एष हि मर्त्यानामायुषोऽन्तं गच्छति। (*eṣa u evāṃtakaḥ | eṣa hi martyānāmāyuṣo 'ntaṃ gacchati|*)
+(Śa. Brā. 10-4-3-2)
+
+The year is the Ender. Prajāpati, in the form of time, is the ender of the lives of all beings through the days and nights. Since this is said, the second meaning given by Sāyaṇa, उपरताः प्राणिन अत्र इति वा उपरः संवत्सरः (*uparatāḥ prāṇina atra iti vā uparaḥ saṃvatsaraḥ*), is fitting.
+
+सप्तचक्रे (*saptacakre*)—सप्त आदित्यरश्मयस्तद्वारेण चक्रस्थानीया यस्य स तथोक्तः। (*sapta ādityaraśmayastadvāreṇa cakrasthānīyā yasya sa tathoktaḥ|*) That is, with reference to the Āditya, "he who has the seven rays of the Āditya in the place of wheels"; and यद्वा । आयनर्तुमासपक्षा होरात्रमुहूर्तानि सप्त सप्त चक्राणि पुनःपुनः क्रममाणानि यस्य तादृशे संवत्सररूपे रथे (*yadvā | āyanartumāsapakṣā horātramuhūrtāni sapta sapta cakrāṇi punaḥpunaḥ kramamāṇāni yasya tādṛśe saṃvatsararūpe rathe*). Or: the ayana, season, month, fortnight, day, night and muhūrta are the seven parts. Thus with reference to the year it is explained as: in the chariot in the form of the year, which, furnished with such parts, revolves again and again like a wheel.
+
+It may be said that in this Ṛk, by the above descriptions, the nature of the Āditya, who is beyond time and abides above the highest heaven-world, is explained from one point of view, and, secondly, the movements of the Āditya, who is subject to time, from another point of view. If, further, it is said that, as described in some earlier Ṛks, the Ṛk is explained from yet another point of view and praises also the Āditya who is of the nature of the Supreme Self, then a still more extended meaning must be given to the word सप्तचक्रे (*saptacakre*).
+
+अथ वा एकशतविधः । सप्तविधमभिसंपद्यत एकशतधा वासावादित्यो विहितः सप्तसु देवलोकेषु प्रतिष्ठितः सप्त वै देवलोकाश्चतस्रो दिशस्त्रय इमे लोका एते वै सप्त देवलोकास्तेष्टेव प्रतिष्ठितः (*atha vā ekaśatavidhaḥ | saptavidhamabhisaṃpadyata ekaśatadhā vāsāvādityo vihitaḥ saptasu devalokeṣu pratiṣṭhitaḥ sapta vai devalokāścatasro diśastraya ime lokā ete vai sapta devalokāsteṣṭeva pratiṣṭhitaḥ*)
+(Śa. Brā. 10-2-4-4) *[as supplied: "ಶ. ಬ್ರಾ, ೧೦-೨-೪-೪"]*
+
+### Printed p. 366
+*Running head: 366 ಸಾಯುಧಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ.೧೬೪] (as supplied, garbled; the intended running head is Sāyaṇa-bhāṣya-sahitā).*
+
+The Āditya, who is of the form of Agni, is of a hundred-and-one-fold nature (101): his rays are a hundredfold, and if his own form is added it becomes a hundred-and-one-fold. But this hundred-and-one-fold nature may also be summed up as sevenfold. The Āditya is established in this sevenfold universe. The four directions and the three worlds beginning with the earth together make the seven kinds of divine worlds. In these seven worlds the Āditya is established.
+
+यद्वैकशतविधः । सप्तविधमभिसंपद्यत एकशतधा वा असावादित्यो विहित सप्तस्वतुषु सप्तषु स्तोमेषु सप्तसु पृष्ठेषु सप्तसु च्छंदस्सु सप्तसु प्राणेषु सप्तसु दिक्षु प्रतिष्ठितः (*yadvaikaśatavidhaḥ | saptavidhamabhisaṃpadyata ekaśatadhā vā asāvādityo vihita saptasvatuṣu saptaṣu stomeṣu saptasu pṛṣṭheṣu saptasu cchaṃdassu saptasu prāṇeṣu saptasu dikṣu pratiṣṭhitaḥ*)
+(Śa. Brā. 10-2-4-5)
+
+This Āditya, of a hundred-and-one-fold nature, is established in the universe as sevenfold: in the seven seasons *[the Kannada adds in brackets: it has been explained before which the seven seasons are]*, the seven stomas, the seven pṛṣṭhas (sāmans), the seven metres, the seven breaths and the seven directions.
+
+यद्वैैकशतविधः । सप्तविधमभिसंपद्यत एकशतधा वा असावादित्यो विहितः सप्ताक्षरे ब्रह्मन् प्रतिष्ठितः सप्ताक्षरं वै बह्मर्गित्येकमक्षरं यजुरिति द्वे सामेति द्वेऽथ यदतोऽन्यद्ब्रह्मैव तद्दव्यक्षरं वै ब्रह्म तदेतत्सर्व सप्ताक्षरं ब्रह्म तस्मिन्नेष प्रतिष्ठितः (*yadvaiaikaśatavidhaḥ | saptavidhamabhisaṃpadyata ekaśatadhā vā asāvādityo vihitaḥ saptākṣare brahman pratiṣṭhitaḥ saptākṣaraṃ vai bahmargityekamakṣaraṃ yajuriti dve sāmeti dve 'tha yadato 'nyadbrahmaiva taddavyakṣaraṃ vai brahma tadetatsarva saptākṣaraṃ brahma tasminneṣa pratiṣṭhitaḥ*)
+(Śa. Brā. "10-24-6" *as supplied*; the first word is printed with a doubled sign, kept)
+
+The Āditya, of a hundred-and-one-fold nature, is established in Brahman, who has seven syllables. Brahman is of the nature of seven syllables: that of the form of the Ṛk is one, that of the form of the Yajus is two, the Sāman is two, and that of the nature of Brahman itself is two; altogether Brahman, whose nature is of seven syllables, is the universe. In this all-pervading Brahman the Āditya is established. Thus the various forms of the sevenfold Āditya are described. If the substance of the fourth brāhmaṇa of this chapter of the Śatapatha Brāhmaṇa, quoted here, is gathered together:
+
+संवत्सरो वै प्रजापतिः । अग्निरु सर्वॆ कामाः सोऽयं संवत्सरः । .... .... .. स यः स संवत्सरोऽसौ स आदित्यः .... .... .... (स) सप्तविधमभिसंपद्यते । .... .... .... सप्तविधो ना अग्रे प्रजापतिरसृज्यत (*saṃvatsaro vai prajāpatiḥ | agniru sarvè kāmāḥ so 'yaṃ saṃvatsaraḥ | .... .... .. sa yaḥ sa saṃvatsaro 'sau sa ādityaḥ .... .... .... (sa) saptavidhamabhisaṃpadyate | .... .... .... saptavidho nā agre prajāpatirasṛjyata*)
+(Śa. Brā. 10-2-4) *[the print gives this reference twice, once as "ಶ. ಬಾ.. ೧೦-೨-೪" and once as "ಶ. ಬ್ರಾ. ೧೦-೨-೪"; the dotted gaps are in the print]*
+
+The year is Prajāpati; Agni is the year; the year is the Āditya. Since Prajāpati was created in the beginning as sevenfold, it may be said that the point that the Āditya, who is of the nature of the year, is also established in the seven (seasons and the rest) and is all-pervading, is indicated by सप्तचक्रे अर्पितं आहुः (*saptacakre arpitaṃ āhuḥ*).
+
+विचक्षणं (*vicakṣaṇaṃ*)—विविधदर्शनकरमादित्यं (*vividhadarśanakaramādityaṃ*). It is explained as: he who looks upon the world in different ways, through his different forms. The author of the Nirukta has explained it as विचक्षतेऽभिविसश्यंति (*vicakṣate 'bhivisaśyaṃti*) (Ni. 12-27). The author of the Nirukta
+
+### Printed p. 367
+*Running head: [೨೨. ೨. ಅ ೩. ವ. ೧೬. ] Ṛgveda-saṃhitā 367 (as supplied, in this order).*
+
+quoting the Ṛk
+
+त्रयः केशिन ऋतुथा वि चक्षते संवत्सरे वपत एक एषां । विश्वमेको अभि चष्टे शचीभिध्र्राजिरेकस्य ददृशे न रूपं (*trayaḥ keśina ṛtuthā vi cakṣate saṃvatsare vapata eka eṣāṃ | viśvameko abhi caṣṭe śacībhidhrrājirekasya dadṛśe na rūpaṃ*)
+(Ṛ. Saṃ. 1-164-49)
+
+explains that Agni in the terrestrial form, the Āditya abiding in the heaven-world, and Vāyu abiding in the atmosphere, shining at their respective times of the year, regard the world with a benevolent mind. In the same sense the word विचक्षणं (*vicakṣaṇaṃ*) is used in the present Ṛk too. This word also has the meaning "learned", so that the nature of the Āditya can be stated as "wise, all-knowing".
+
+वैश्वानर तव धामान्या चके येभिः स्वर्विदभवो विचक्षण (*vaiśvānara tava dhāmānyā cake yebhiḥ svarvidabhavo vicakṣaṇa*)
+(Ṛ. Saṃ. 3-3-10)
+
+प्र ते बभ्रू विचक्षण शंसामि गोषणो नपात् (*pra te babhrū vicakṣaṇa śaṃsāmi goṣaṇo napāt*)
+(Ṛ. Saṃ. 4-32-22)
+
+As in these and other Ṛks the meaning "wise" results, so in the present Ṛk also it may be understood as the all-knowing Āditya. On the whole, the divine nature of the Āditya, who holds in his control the time that governs the world and is the lord of the three worlds, and another nature of his, which manifests its movements joined with time and is subject to time and worldly, are both described together in this Ṛk.
+
+*Grammar (transcribed, not explained):*
+पंच पादम् (*paṃca pādam*)—पंच पादाः यस्य तम् (*paṃca pādāḥ yasya tam*). In a bahuvrīhi the accent of the first member comes.
+अहुः (*ahuḥ*)—the root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*). When the laṭ third person plural follows, by ब्रुवः पंचानामादित आहो ब्रुवः (*bruvaḥ paṃcānāmādita āho bruvaḥ*) (Pā. Sū. 3-4-48 *as supplied*) the substitute āha for the root; the substitute us for the ending. Because it follows a non-verb, the nighāta accent comes.
+पुरीषिणम् (*purīṣiṇam*)—पुरीषमस्य अस्ति इति पुरीषिणम् (*purīṣamasya asti iti purīṣiṇam*). By अत इनि ठनौ (*ata ini ṭhanau*) (Pā. Sū. 5-2-115) the suffix ini in the possessive sense. By the accent of the suffix it has the final accent. A form ending in the accusative singular.
+विचक्षणम् (*vicakṣaṇam*)—the root चक्षिज् व्यक्तायां वाचि (*cakṣij vyaktāyāṃ vāci*). The i becomes anudātta and gets the designation it. Because it is anudātta-it, by अनुदात्तेतश्च हलादेः (*anudāttetaśca halādeḥ*) (Pā. Sū. 3-2-149) the suffix yuc. By युवोरनाकौ (*yuvoranākau*) (Pā. Sū. 7-1-1) ana is the substitute for it. By चितः (*citaḥ*)- (Pā. Sū. 6-1-163) the final accent comes. In a prādi compound the accent of the kṛdutarapada comes. *(The window ends here, as supplied.)*
+
 ---
 
-**Progress note:** Done through printed p. 359. Ṛk 10 grammar end; Ṛk 11 (Sun's twelve-spoked wheel), special topics, grammar; Ṛk 12 begins
+**Progress note:** Done through printed p. 367. Ṛk 12 (year as wheel/Āditya), special topics, grammar
