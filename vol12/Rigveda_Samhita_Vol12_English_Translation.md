@@ -13898,6 +13898,182 @@ The gods, afraid of death, took refuge in the knowledge of the three (the triple
 
 Therefore, to show that without worship of the Praṇava there is no direct realisation of Brahman, it is explained in the ṛk under consideration with किमृचा करिष्यति (*kimṛcā kariṣyati*), and य इत्तद्विदुस्त इमे समासते (*ya ittadvidusta ime samāsate*). Those who (know) this … *[the printed sentence breaks off here at the end of the window and continues]*
 
+### Printed p. 586
+*Running head: 586 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೪.] (as supplied).*
+
+[Continuing the Special Topics of the previous ṛk] … Those who know (this) are said to attain oneness with the Self. If, in the ṛk under consideration, the word akṣara is taken to mean the Praṇava, then the realisation of Brahman, which has the form of the Praṇava, is possible only through a means that also has the form of the Praṇava; this is declared in the Muṇḍaka Upaniṣad as follows.
+
+> तदेतदक्षरं ब्रह्म स प्राणस्तदु वाङ्मनः ।
+> तदेतत्सत्यं तदमृतं तद्वेद्धव्यं सोम्य विद्धि ॥
+
+> *tadetadakṣaraṃ brahma sa prāṇastadu vāṅmanaḥ |*
+> *tadetatsatyaṃ tadamṛtaṃ tadveddhavyaṃ somya viddhi ‖*
+
+(Mu. U. 2-2-2) That supreme principle in which all the worlds are contained is the Brahman called akṣara. That is the vital breath. That is speech and mind. That is the truth. That is the immortal. That alone is to be made the mark, and it (the aim) is to be pierced. How is that?
+
+> धनुर्गृहीत्वापनिषदं महास्त्रं शरं ह्युपासानिशितं संधयीत ।
+> आयम्य तद्भावगतेन चेतसा लक्ष्यं तदेवाक्षरं सोम्य विद्वि ॥
+
+> *dhanurgṛhītvāpaniṣadaṃ mahāstraṃ śaraṃ hyupāsāniśitaṃ saṃdhayīta |*
+> *āyamya tadbhāvagatena cetasā lakṣyaṃ tadevākṣaraṃ somya vidvi ‖*
+
+(Mu. U. 2-2-3) Taking up the bow, the great weapon of the Upaniṣad, one must fit to it the arrow sharpened by worship. Drawing it back with a mind that dwells wholly on that (thought), one must strike the mark, the imperishable.
+
+> प्रणवो धनुः शरो ह्यात्मा ब्रह्म तल्लक्ष्यमुच्यते ।
+> अप्रमत्तेन वेद्धव्यं शरवत्तन्मयो भवेत् ॥
+
+> *praṇavo dhanuḥ śaro hyātmā brahma tallakṣyamucyate |*
+> *apramattena veddhavyaṃ śaravattanmayo bhavet ‖*
+
+(Mu. U. 2-2-4) The Praṇava is the bow; the Self is the arrow; Brahman is called the mark. It must be pierced by the unwavering one; like an arrow he should become one with it. The Praṇava is the bow, the Self is the arrow, Brahman is the mark; one must strike it without lapse of attention. One must become one with it as an arrow does. Just as the bow is the cause of the arrow's going and reaching the target, so the Praṇava, the Oṃkāra, is the cause of the arrow called the Self reaching the target called the Imperishable. The meaning is: if the individual soul practises the Praṇava, that is, worships it, a latent impression arises from this; relying on it, without any obstacle, he reaches the Imperishable and abides there. In this way Sāyaṇa has shown four kinds of meaning for the ṛk under consideration, and has given authorities for all of them from the Nirukta and from the Upaniṣads.
+
+*Vyākaraṇa-prakriyā (Grammar; transcribed as printed, not explained):*
+Akṣare: the root अशू व्याप्तौ (*aśū vyāptau*) ("to pervade"); by अशेः सरः (*aśeḥ saraḥ*) (Uṇ. Sū. 4-3-50) the suffix sara; by व्रश्चभृस्ज (*vraścabhṛsja*) the ś of the root becomes ṣ; by षढोःकः सि (*ṣaḍhoḥkaḥ si*) (Pā. Sū. 8-2-41) (the sentence continues on the next page)
+
+### Printed p. 587
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೨೧ ] ಋಗ್ವೇದಸಂಹಿತಾ 587] (as supplied; the Aṣṭaka/Adhyāya letters stand as ಆ. in the supplied text).*
+
+… *[the grammar note continues]* by this (sūtra) it receives the substitute ka; by आदेशप्रत्यययोः (*ādeśapratyayayoḥ*) (Pā. Sū. 8-3-59) the s of the suffix becomes ṣ. The form akṣara results. With the suffix's acute on its first syllable it is a word with the acute in the middle.
+Vyoman: by नामन् सीमन् (*nāman sīman*) (Uṇ. Sū. 4-5-90) the suffix manin comes after the root vye (printed व्येञ् (*vyeñ*)) and the form is irregularly formed. By सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) the locative singular is elided (luk) when it follows.
+Niṣeduḥ: the root षद्ल्य विशरणगत्यवसादनेषु (*ṣadlya viśaraṇagatyavasādaneṣu*); in the Veda it takes liṭ; in the third person plural, by अतएकहल्‌मध्ये (*ataekahalmadhye*) (Pā. Sū. 6-4-120) the root takes ē and the reduplication is dropped. By यद्वृत्तानित्यम् (*yadvṛttānityam*) (Pā. Sū. 8-1-66) the nighāta accent is prohibited, so the accent of the suffix remains. By तिजिचोदात्तवति (*tijicodāttavati*) (Pā. Sū. 8-1-71) the gati (ni) receives the anudātta accent.
+Veda: the root विद ज्ञाने (*vida jñāne*); the form ends in laṭ. Because the yad connection is present, the nighāta accent does not occur. Because ṇal is marked with l, the acute falls on the syllable before the suffix.
+Kariṣyati: the root डुकृञ् करणे (*ḍukṛñ karaṇe*); the form is laṛṭ, third person singular. Because it stands after an atiṅanta (verb-form), the nighāta accent occurs.
+Āsate: the root आस उपवेशने (*āsa upaveśane*), of the adādi class. By आत्मनेपदेष्वनतः (*ātmanepadeṣvanataḥ*) (Pā. Sū. 7-1-5) the suffix jha takes the substitute āta; the vikaraṇa is elided (luk); the tiṅanta-nighāta accent occurs. ‖ 39 ‖
+
+#### Ṛk 40
+
+**॥ संहितापाठः ॥**
+
+> सू॒य॒व॒साद्भग॑वती॒ हि भू॒या अथो॑ व॒यं भग॑वंतः स्याम।
+> अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॒ पिब॑ शु॒द्धमु॑द॒कमा॒चरं॑ती ॥४०॥
+
+**॥ पदपाठः ॥**
+
+*[Devanagari letters in the Pada line of the supplied text were rewritten letter for letter as Kannada by the script.]*
+
+> सु य व स ऽ आत् । भग्यवती । हि । भूयाः । अथो इति । वयं । भग्यवंतः ।
+> स्याम ।
+> अद्धि । तृणं । अघ्न्ये । विश्वरदानीं । पिब । शुद्धं । उदकं । आचरंती ॥ ४० ॥
+
+> *su ya va sa ' āt | bhagyavatī | hi | bhūyāḥ | atho iti | vayaṃ | bhagyavaṃtaḥ |*
+> *syāma |*
+> *addhi | tṛṇaṃ | aghnye | viśvaradānīṃ | piba | śuddhaṃ | udakaṃ | ācaraṃtī ‖ 40 ‖*
+
+### Printed p. 588
+*Running head: 588 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+
+> अग्निहोत्रार्था धेनुर्यदि कुत्सितं शब्दं कुर्यात्तदानीं सूयवसादित्यनया यवसादिकं प्रयच्छेत् । तथा च सूत्रितं । वाश्यमानाय्कॆ यवसं प्रयच्छेत् सूयवसाद्भगवती हि भूयाः । आ. ३-११ । इति ॥ प्रवर्ग्येऽभिष्टव एष्येव परिधानीयो । सूत्रितं च । सूयवसाद्भगवती हि भूया इति परिदध्यात् । आ. ४-७ । इति ॥
+> हे अघ्न्ये गोनामैतत् । अहननीये हे गौः त्वं सूयवसाच्छोभनयवस्यस्य तृणादिकस्यात्रि भगवती । भग इति धननाम । सर्वैर्भजनीयप्रभूतक्षीरादिधनवती
+> भूयाः । भव । हि: पूरणः प्रसिद्धौ वा । लोके यवसादिभक्षणेन क्षीरादिसमृद्धिः
+> प्रसिद्धा । अथो अनंतरमेव वयं यजमाना आपि भगवंतः प्रभूतेन धनेन तद्वंतः
+> स्याम । अथैकवारं पूर्वमुक्तमिदानीं सर्वदा कर्तव्यमिति प्रार्थयते । विश्वदानीं
+> विश्वकालं सर्वदा तृणमुद्धि । भक्षय । आचरंती सर्वतो निर्गच्छंती शुद्धं निर्मलमुदकं पिब । अयं मंत्रो यास्केनैवं व्याख्यातः । सुयवसादिनी भगवतीहि
+> भवाथेदानीं वयं भगवंतः स्यामाद्वि तृणमघ्न्ये सर्वदा पिब च शुद्धमुदकमाचरंती । नि. ११-४४ । इति ॥
+
+*Gist:* When the cow kept for the Agnihotra makes a bad sound, fodder is given with this ṛk; Sāyaṇa glosses it as a prayer for milk and wealth and cites Yāska.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+अघ्न्ये (*aghnye*)—O unhurt cow; सूयवसात् (*sūyavasāt*)—eating excellent grass and the like; भगवती (*bhagavatī*)—endowed with revered wealth of milk; भूयः (*bhūyaḥ*)—be (so; the printed form भूयः (*bhūyaḥ*) stands against भूयाः (*bhūyāḥ*) in the Saṃhitā text, as supplied); अथो (*atho*)—thereafter; भगवंतः (*bhagavaṃtaḥ*)—possessed of abundant wealth; वयं (*vayaṃ*)—we also; स्याम (*syāma*)—we shall become; विश्वदानीं (*viśvadānīṃ*)—always; तृणं (*tṛṇaṃ*)—grass; अद्धि (*addhi*)—eat; आचरंती (*ācaraṃtī*)—roaming everywhere; शुद्धं (*śuddhaṃ*)—holy; उदकं (*udakaṃ*)—water; पिब (*piba*)—drink.
+
+**भावार्थ (Bhāvārtha)**
+O unhurt cow, eating excellent grass and the like, remain endowed with revered wealth of milk. Thereafter we also shall become possessed of abundant wealth. Eat grass always. Roaming everywhere, drink holy water.
+
+**Printed English**
+Cow, may you be rich in milk through abundant fodder; that we also may be rich (in abundance); eat grass at all seasons, and, roaming (at will), drink pure water.
+
+### Printed p. 589
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೨೧.] ಋಗ್ವೇದಸಂಹಿತಾ 589] (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+When milk is being drawn for the Agnihotra and the like, if the cow lowers with an evil sound, then this ṛk beginning सूयवसात् (*sūyavasāt*) is to be recited and fodder such as grass given; this is set out by the sūtra of the Āśvalāyana-śrauta-sūtra वाश्यमानाय्कॆ यवसं प्रयच्छेत् सूयवसाद्भगवती हि भूयाः (*vāśyamānāykè yavasaṃ prayacchet sūyavasādbhagavatī hi bhūyāḥ*) (Āś. 3-11). And in the sacrifice called Pravargya, at the time of the abhiṣṭava, this ṛk is to be used as the closing (paridhāna) mantra; this is set out by the sūtra of the Āśvalāyana-śrauta-sūtra सूयवसाद्भगवती हि भूया इति परिदध्यात् (*sūyavasādbhagavatī hi bhūyā iti paridadhyāt*) (Āś. 4-7).
+There is a rule that when the cow intended for the Agnihotra makes an evil sound, this mantra is to be recited and fodder given. "वाश्यमानाय्कॆ यवसं प्रयच्छेत् सूयवसाद्भगवती हि भूयाः (*vāśyamānāykè yavasaṃ prayacchet sūyavasādbhagavatī hi bhūyāḥ*)" (Āśv. Śrā. 3-11): so the Āśvalāyana-śrauta-sūtra states the application (viniyoga) of this mantra.
+अफ्घ्ये (*aphghye*) *[as supplied: the printed form; the Saṃhitā has अघ्न्ये (*aghnye*)]*—this word is read among the names of the cow (Ni. 3-9). Showing the etymology of this word, the Nirukta author says: अघ्न्या अहंतव्या भवति । अघ्नि इति वा । (*aghnyā ahaṃtavyā bhavati | aghni iti vā |*) (Ni. 11-43, as printed). The name aghnyā arises either from "that which is not to be killed", or from "that which destroys sin". Having so explained, he quotes the ṛk under consideration and writes a complete commentary on it. If it refers only to the cow, the sense of this mantra is easily understood. Durgācārya, writing the commentary on the Nirukta passage, gives one meaning with reference to the cow and another with reference to Mādhyamikā Vāk (the speech of the middle region). The Nirukta runs thus—
+सुयवसादिनी भगवती हि भवाथेदानीं वयं भगवंतः स्यामाद्धि तृणमघ्न्ये सर्वदा पिब च शुद्धमुदकमाचरंती । (*suyavasādinī bhagavatī hi bhavāthedānīṃ vayaṃ bhagavaṃtaḥ syāmāddhi tṛṇamaghnye sarvadā piba ca śuddhamudakamācaraṃtī |*) (Ni. 11-43, as printed)
+Here the meaning with reference to the cow is just as given above in the Bhāvārtha. With reference to Mādhyamikā Vāk: शोभनं यवसमुदकमध्यात्मीकृत्य सूरात् तेन ' भगवती ' धनवती उदकेन उदकवती भव (*śobhanaṃ yavasamudakamadhyātmīkṛtya sūrāt tena ' bhagavatī ' dhanavatī udakena udakavatī bhava*); "sūyavasa" means excellent water; the first prayer is: obtaining water from the sun, which is the support of this, become one endowed with full water. Then,
+
+### Printed p. 590
+*Running head: 590 ಕಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨ ಸೂ ೧೬೪] (as supplied; the first word reads ಕಾಯಣ for ಸಾಯಣ).*
+
+"अथो वयं भगवंतः स्याम (*atho vayaṃ bhagavaṃtaḥ syāma*)": thereafter, through the excellent water from you we also become possessed of water, and as a result obtain wealth of food and the like: this wish is the purport of the first half.
+In the phrase अद्धि तृणं (*addhi tṛṇaṃ*) the word tṛṇa means cloud. A condensed cloud is rubbed and split, and thereafter rain falls. Durgācārya explains that the cloud is called tṛṇa because it is formed from the root tṛd, meaning to split, तृद्यतेऽसौ इति तृणः (*tṛdyate 'sau iti tṛṇaḥ*) (it is split), being rubbed and split. [The Nirukta author has given the etymology of this word in another context as तृन्वात् तृणं (*tṛnvāt tṛṇaṃ*) (Ni. 1-22).] The sense of adhi is: make such a cloud, a condensed cloud, melt and pour down water.
+शुद्धमाचरंती (*śuddhamācaraṃtī*)—since she always moves in the atmosphere, without any impurity; उदकं (*udakaṃ*)—the water drawn up by the sun's rays; आचरंती (*ācaraṃtī*)—partaking of; विश्वदानीं (*viśvadānīṃ*)—whenever the rainy season arrives; पिब (*piba*)—drink: so he prays again.
+
+*Vyākaraṇa-prakriyā (Grammar; transcribed as printed, not explained):*
+Sūyavasāt: "one who eats good barley/grass"; the root आद भक्षणे (*āda bhakṣaṇe*) (printed so; ada, to eat); the suffix kvip by क्विप् च (*kvip ca*); by गतिकारकोपपदात् कृत् (*gatikārakopapadāt kṛt*) (Pā. Sū. 6-2-139) the accent of the krt-final word-base occurs. In the Saṃhitā, in the Veda, su is lengthened.
+Bhūyāḥ: the root भू सत्तायां (*bhū sattāyāṃ*); the form ends in āśīrliṅ, second person singular. By हिच (*hica*) (Pā. Sū. 8-1-34) the nighāta is prohibited. Because yāsuṭ has the acute, the word has the acute on its end.
+Syāma: the root अस भुवि (*asa bhuvi*); liṅ, first person plural, with mas. By नित्यं जितः (*nityaṃ jitaḥ*) the s is dropped; the yāsuṭ augment; by श्नसोरल्लोपः (*śnasorallopaḥ*) (Pā. Sū. 6-4-111) the a of the root is dropped; the tiṅanta-nighāta accent occurs.
+Addhi: the root अद भक्षणे (*ada bhakṣaṇe*); loṭ, second person singular, sip has the substitute hi; the vikaraṇa is elided; by हुझल्भ्योहेर्धिः (*hujhalbhyoherdhiḥ*) hi becomes dhi. Because it stands at the beginning of a pāda, the nighāta accent does not occur; by the suffix's accent the word has the acute on its end.
+Aghnye: by आमंत्रितस्यच (*āmaṃtritasyaca*) (Pā. Sū. 8-1-19) the nighāta accent occurs. अघ्नं अहननं अर्हति इति अघ्न्या (*aghnaṃ ahananaṃ arhati iti aghnyā*) (she who deserves non-killing is aghnyā).
+Viśvadānīm: by दानींचि (*dānīṃci*) (Pā. Sū. 5-3-18, as printed) the suffix dānīm after the word viśva; the acute on the first syllable of the suffix occurs.
+
+### Printed p. 591
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨ ] ಋಗ್ವೇದಸಂಹಿತಾ 591] (as supplied).*
+
+Piba: the root पा पाने (*pā pāne*); loṭ, second person singular. Because it stands at the beginning of a pāda, the nighāta accent does not occur. Because śap is anudātta, the accent of the root remains.
+Ācarantī: the root चर गतिभक्षणयोः (*cara gatibhakṣaṇayoḥ*); when the substitute śatṛ comes for laṭ, jīp in the feminine. By the sūtra तास्यनुदात्तेत् (*tāsyanudāttet*) the lasārvadhātuka is anudātta, so the accent of the root remains. In the compound the accent of the krt-final word-base occurs. ‖ 40 ‖
+
+*[stray line as supplied: This image contains no text. It appears to be a decorative graphic or logo consisting of abstract shapes and lines.]*
+*[A garbled label stands here in the supplied text: ಶಂಖನಾಥರು; the Saṃhitā-pāṭha label follows.]*
+
+#### Ṛk 41
+
+**॥ संहितापाठः ॥**
+
+> गौ॒रीर्मि॑माय सलि॒लानि॒ तक्ष॒त्येक॑पदी द्वि॒पदी॒ सा चतु॑ष्पदी ।
+> अ॒ष्टाप॑दी॒ नव॑पदी बभू॒वुषी॑ स॒हस्रा॑क्षरा पर॒मे व्यो॑मन् ॥
+> ॥ ४१ ॥
+
+*[garbled label in the supplied text: ಪಡೆಪಾರಃ (Pada-pāṭha)]*
+
+**॥ पदपाठः ॥**
+
+> गौरीः । मिमाय । सलिलानि । तक्षती । एकपदी । द्विपदी । सा । चतुःपदी ।
+> अष्टापदी । नवपदी । बभूवुषी । सहस्रअक्षरा । परमे । विओमन् ॥ ४१ ॥
+
+*[garbled label in the supplied text: ಕಾಯಶಾಭಾಷ್ಯ c (Sāyaṇa-bhāṣya)]*
+
+**॥ सायणभाष्यम् ॥**
+
+> गौरीर्गरणशीला माध्यमिका वाक् ॥ सुलोपाभावश्चांदसः ॥ मिमाय । शब्दयति । किं कुर्वती । सलिलानि वृष्टुदकानि तक्षती सम्यक्कंपादयित्री । एकपद्येकपादोपेतैकाधिष्ठाना मेघे वर्तमाना गमनसाधनेन वायुनैकपदी ना द्विपदी
+> मेघांतरिक्षाख्यद्व्यधिष्ठाना । आदित्यो वा द्वितीयः। तथा सा चतुष्पदी पादचतुष्पयोपेता दिक्षतुष्टयाधिष्ठाना। अथाष्टापदी विदिगपेक्षयाष्टपादोपेताष्टाधिष्ठाना
+> नवपद्युपरिदिगपेक्षया सूर्येण वा नवदिगधिष्ठाना बभूवुष्येवंभूता॥ भवेश्छांदसः क्वसुः। ततो जीपि वसोः संप्रसारणं॥ किमनया परिगणनया। सहस्राक्षरा। अपरिमितवचनोऽयं । अपरिमितव्याप्तियुक्ता । बहुव्यापनशीलोदकवतीत्यर्थः । कुत्त्रीति
+> तदुच्यते । परमे व्योमन्नुदकाश्रयत्वेनोत्कृष्टेंतरिक्षे ॥ केचिदेवमाहुः ।
+> गौरीर्गरणशीला शब्दब्रह्मात्मिका वाग्मिमाय । माति ॥ प्रसिद्धार्थे धातुः ॥ प्रतिष्ठितानि
+> घटादिद्रव्याणि तक्षती तत्तद्वाचकत्वेन निष्पादयंती एकपद्यव्याकृतत्वेनैकप्रतिष्ठानैकरूपा वात्मना द्विपदी सुप्तिज्‌भेदेन पादद्वयवती चतुष्पदी नामाख्यातोपसर्गनि-
+
+> *gaurīrgaraṇaśīlā mādhyamikā vāk ‖ sulopābhāvaścāṃdasaḥ ‖ mimāya | śabdayati | kiṃ kurvatī | salilāni vṛṣṭudakāni takṣatī samyakkaṃpādayitrī | ekapadyekapādopetaikādhiṣṭhānā meghe vartamānā gamanasādhanena vāyunaikapadī nā dvipadī*
+> *meghāṃtarikṣākhyadvyadhiṣṭhānā | ādityo vā dvitīyaḥ| tathā sā catuṣpadī pādacatuṣpayopetā dikṣatuṣṭayādhiṣṭhānā| athāṣṭāpadī vidigapekṣayāṣṭapādopetāṣṭādhiṣṭhānā*
+> *navapadyuparidigapekṣayā sūryeṇa vā navadigadhiṣṭhānā babhūvuṣyevaṃbhūtā‖ bhaveśchāṃdasaḥ kvasuḥ| tato jīpi vasoḥ saṃprasāraṇaṃ‖ kimanayā parigaṇanayā| sahasrākṣarā| aparimitavacano 'yaṃ | aparimitavyāptiyuktā | bahuvyāpanaśīlodakavatītyarthaḥ | kuttrīti*
+> *taducyate | parame vyomannudakāśrayatvenotkṛṣṭeṃtarikṣe ‖ kecidevamāhuḥ |*
+> *gaurīrgaraṇaśīlā śabdabrahmātmikā vāgmimāya | māti ‖ prasiddhārthe dhātuḥ ‖ pratiṣṭhitāni*
+> *ghaṭādidravyāṇi takṣatī tattadvācakatvena niṣpādayaṃtī ekapadyavyākṛtatvenaikapratiṣṭhānaikarūpā vātmanā dvipadī suptijbhedena pādadvayavatī catuṣpadī nāmākhyātopasargani-*
+
+### Printed p. 592
+*Running head: 592 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya]
+
+> पातभेदेन अष्टपद्यामंत्रितसहिताष्टभेदेनाष्टपदी नवपदी बभूवुषी साव्यय्यरुक्षैरष्टभिर्नवपदी । अथवा सनाभिकेषूरःकंठादिषु नवसु पदेषु भवंती पश्चाद्बहुविधाभिव्यक्तिमुपेयुषी परमे व्योमन्युत्कृष्टे हृदयाकाशे मूलाधारे सहस्राक्षरानेकाकारेण व्याप्तानेकध्वनिप्रकारा भवतीत्यर्थः ॥ अयं मंत्रः आचार्येणैवं
+> व्याख्यातः । गौरीर्मिमाय सलिलानि तक्षती कुर्वत्येकपदी मध्यमेन द्विपदी मध्यमेन चादित्येन च चतुष्पदी दिग्बिरष्टापदी दिग्बिश्वाांतरदिग्बिश्च नवपदी .दिग्बिश्वाांतरदिग्बिश्चादित्येन च सहस्राक्षरा बहूदका परमे व्यवने । नि. ११-४० । इति ॥
+
+*Gist:* Gaurī is Mādhyamikā Vāk, one-footed to nine-footed with the quarters and the sun, thousand-syllabled, abundant in water; others take it as Śabda-brahman speech; Nirukta cited.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+गौरी (*gaurī*)—Mādhyamikā Vāk (speech of the middle region); मिमाय (*mimāya*)—makes a sound; सा (*sā*)—she; सलिलानि (*salilāni*)—waters; तक्षती (*takṣatī*)—acquiring; एकपदी (*ekapadī*)—having one support; द्विपदी (*dvipadī*)—having two supports; चतुष्पदी (*catuṣpadī*)—having four supports; अष्टापदी (*aṣṭāpadī*)—having eight supports; नवपदी (*navapadī*)—having nine supports; बभूवुषी (*babhūvuṣī*)—being; परमे प्रोमन् (*parame proman*) *[sic; as supplied: Pada and Saṃhitā have vyoman]*—in the excellent atmosphere; सहस्राक्षरा (*sahasrākṣarā*)—she becomes one of immeasurable extent.
+*[A label धनार्थ (*dhanārtha*) stands here in the supplied text, before the Bhāvārtha label; kept as a garbled label.]*
+
+**भावार्थ (Bhāvārtha)**
+Mādhyamikā Vāk, who dwells in the atmosphere, makes a sound. Acquiring waters, and having one, two, four, eight and nine supports, she becomes one of immeasurable extent in the excellent atmosphere.
+
+**Printed English**
+The sound (of the clouds) has been uttered, fabricating the waters, and being one-footed, two-footed, four-footed, eight-footed, nine-footed, or infinite in the highest heaven.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+This ṛk is interpreted in one way with reference to Mādhyamikā Vāk and in another way with reference to Vāk as Śabda-brahman.
+गौरी (*gaurī*):—गौरी रोचतेज्वलतिकर्मणः (*gaurī rocatejvalatikarmaṇaḥ*). It is formed from the root ruc, which has the sense of shining. [अयमपीतरो गौरो वर्ण एतस्मादेव प्रशस्यो भवति (*ayamapītaro gauro varṇa etasmādeva praśasyo bhavati*): the word gaura, denoting a colour, is also formed from this very root and is highly praised.] Having said this, the Nirukta author quotes the ṛk under consideration and explains it in detail. Its Nirukta runs thus— *[the printed passage ends here at the end of the window and continues]*
+
 ---
 
-**Progress note:** Done through printed p. 585. Vol 12 pp. 579-585: Special Topics on Rk 39 (Nirukta, Upanishad citations, Pranava, Aitareya Brahmana, Chandogya story)
+**Progress note:** Done through printed p. 592. Mu. U. quotations ending Ṛk 39 commentary; Ṛk 40 (sūyavasāt) and Ṛk 41 (gaurīr mimāya) begun
