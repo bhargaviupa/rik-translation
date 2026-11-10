@@ -6391,6 +6391,137 @@ Since this idea is suggested in the next Ṛk also, the meaning of these Saṃhi
 
 अगृभ्नात् (*agṛbhnāt*)—the root ग्रह उपादाने (*graha upādāne*) (in the sense of taking), *krayādi* class. A form of the third person singular. By *hṛgrahor bha chandasi* (the sūtra is split across lines in the print) the change of ह (*ha*) to भ (*bha*). The *tiṅanta* *nighāta* accent results. *[The Grammar continues on the next page.]*
 
+### Printed p. 241
+*Running head: [ಆ. ೨. ಆ. ೩. ಪ. ೧೧.] ಋಗ್ವೇದಸಂಹಿತಾ 241 (as supplied).*
+
+*Grammar (continuing from the previous Ṛk):*
+
+सूरात् (*sūrāt*)—the root सूज् (*sūj*) प्राणिगर्भविमोचने (*prāṇigarbhavimocane*) (in the sense of releasing the embryo of living beings). By सुसूधागृधिभ्यः क्रन् (*susūdhāgṛdhibhyaḥ kran*) (U. Sū. 2-182) the suffix kran. Because it is k-marked, guṇa does not occur. Because it is n-marked, the initial-acute accent results.
+
+अतष्ट (*ataṣṭa*)—the root तक्षू (*takṣū*) छेदने (*chedane*) (in the sense of cutting). For the second person plural of लज् (*laj*) (as supplied) the substitute ta by तस्थस्थ (*tasthastha*) (Pā. Sū. 3-4-101). By बहुलं छंदसि (*bahulaṃ chaṃdasi*) the luk-elision of the śap. By स्कोस्संयोगाद्योः (*skossaṃyogādyoḥ*) (Pā. Sū. 8-2-29) the loss of the k. The suffix takes the ṣṭutva change. The stem takes the aṭ augment. The *tiṅanta* *nighāta* accent results. ‖ 2 ‖
+
+*[as supplied: the label "ಸಂಹಿತಾಕಾರರು" stands here, where the Saṃhitā-pāṭha label belongs; the script replaced it.]*
+
+#### Ṛk 3
+**॥ संहितापाठः ॥**
+> असि॑ य॒मो अस्या॑दि॒त्यो अ॑र्व॒न्नसि॑ त्रि॒तो गुह्ये॑न व्र॒तेन॑ ।
+> असि॒ सोमे॑न स॒मया॒ विपृ॑क्त आ॒हुस्ते॒ त्रीणि॑ दि॒वि बंध॑नानि ।
+> ॥ ३ ॥
+**॥ पदपाठः ॥**
+> असि । यमः । असि । आदित्यः । अर्वन् । असि । त्रितः । गुह्येन । व्रतेन ।
+> असि । सोमेन । समया । विपृक्तः । आहुः । ते । त्रीणि । दिवि । बंधनानि ॥ ३ ॥
+**॥ सायणभाष्यम् ॥**
+> हे अर्वन् त्वं यमोऽसि । नियमिताग्निरसि । तेन दत्तत्वात्तच्छब्दव्यपदेशः ।
+> तथादित्योऽसि । सूरान्निरतष्टेत्युक्तत्वात् । तथा गुह्येन व्रतेन गोपनियेन दुर्निरूपेण वा कर्मणा । सर्वत्रव्याप्तिरूपेणेत्यर्थः । तेन त्रितस्त्रिषु स्थानेषु तायमानो वायुरसि । त्रित एनमायुनगित्युक्तत्वात्तद्रूपत्वं । अथवा गुह्येन व्रतेन
+> गोपनीयेन कर्मणा योगादिसाधनरूपेण त्रित एतन्नामक ऋषिरसि । किंच हे
+> अश्व त्वं सोमेन समया सह विपृक्तः । वीत्येष समित्येतस्मिन्नर्थे । संपृक्सोऽसि
+> तेन ग्रहीतत्वात् । हे अश्वैवंरूप ते तव दिवि द्युलोक आदित्ये वा वर्तमानस्य
+> त्रीणि बंधनान्युत्पत्ति कारणान्याहुः पुराविवः । वसव आदित्यो द्युस्थानं चेति त्रीणि ॥
+*Gist:* Addressing the horse: you are Yama (Agni as controller), Āditya, Trita (the wind, or the sage), and united with Soma; three bindings of yours are in heaven.
+
+*[stray line as supplied: [16] Vol. 12]]*
+*[stray line as supplied: [16] Vol. 12]]*
+
+### Printed p. 242
+*Running head: 242 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(हे (*he*)) अर्वन् (*arvan*)—O horse! (त्वं (*tvaṃ*)—you); यमः (*yamaḥ*)—as Agni; असि (*asi*)—you are; आदित्यः (*ādityaḥ*)—as Āditya; असि (*asi*)—you are; गुह्येन (*guhyena*)—mysterious; व्रतेन (*vratena*)—by the act; त्रितः (*tritaḥ*)—as the wind; असि (*asi*)—you are; सॊमेन समया (*sòmena samayā*)—with Soma; विपृक्तः (*vipṛktaḥ*)—connected; असि (*asi*)—you are; ते (*te*)—to you; दिवि (*divi*)—in the heaven-world; त्रीणिबंधनानि (*trīṇibaṃdhanāni*)—that there are three kinds of bindings; ते (*te*)—the knowers of the truth (as supplied); आहुः (*āhuḥ*)—say.
+
+**भावार्थ (Bhāvārtha)**
+*[The label is printed "ಭಾಷಾ" (Bhāṣā), as supplied.]*
+O horse, you are of the form of Agni and of the nature of the wind; by your mysterious act you are connected with Soma; and you are of the form of Āditya. The knowers say that you have three kinds of bindings in the heaven-world.
+
+**Printed English**
+You, horse, are Yama : you are Aditya : you are Trita by a mysterious
+act : you are associated with Soma. The sages have said there are three
+bindings of you in heaven.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Because it was given by Agni, the sacrificial horse is of the nature of Agni; because it was taken up by Āditya, it is of the nature of Āditya; and so on: identity with Agni and the others is stated. But along with this identity it is also said त्रीणि दिवि बंधनानि (*trīṇi divi baṃdhanāni*), that there are three kinds of bindings. This same mantra is also in the Taittirīya Saṃhitā, and in explaining it Sāyaṇa has given this meaning:
+
+ईदृशस्य ते तव द्युलोके बंधनानि बंधनसाधनानि दामानि त्रीणीत्येवमभिज्ञा आहुः । वणिजो हि शक्त्याधिक्येनात्युग्रमश्वं विक्रेतुं ग्रामांतरे नयंतस्त्रिभिर्दामभिर्बध्वंति । दक्षिणवामपार्श्वयोर्दामद्वयमुभौ पुरुषौ गृहीतः । यदा दक्षिणभागवर्तिनं द्रष्टुमुद्युंक्ते तदा वामभागवर्ति तमाकर्षति । तं चेद्द्रष्टुमुद्युंक्ते तदानीमितर आकर्षति । यदा सहसा पुरतः पलायनं करोति तदा तं वारयितुं गले बद्धमेकं दाम गृहीत्वा पृष्ठतः कश्चिदाकर्षति । यदिदं बंधनत्रयं । यद्वा शास्त्रसिद्धं किंचित्कारणत्रयं द्रष्टव्यं । तदनेन बंधनत्रयेणाधिकशक्तिरश्व इति स्तुतो भवति (*īdṛśasya te tava dyuloke baṃdhanāni baṃdhanasādhanāni dāmāni trīṇītyevamabhijñā āhuḥ | vaṇijo hi śaktyādhikyenātyugramaśvaṃ vikretuṃ grāmāṃtare nayaṃtastribhirdāmabhirbadhvaṃti | dakṣiṇavāmapārśvayordāmadvayamubhau puruṣau gṛhītaḥ | yadā dakṣiṇabhāgavartinaṃ draṣṭumudyuṃkte tadā vāmabhāgavarti tamākarṣati | taṃ ceddraṣṭumudyuṃkte tadānīmitara ākarṣati | yadā sahasā purataḥ palāyanaṃ karoti tadā taṃ vārayituṃ gale baddhamekaṃ dāma gṛhītvā pṛṣṭhataḥ kaścidākarṣati | yadidaṃ baṃdhanatrayaṃ | yadvā śāstrasiddhaṃ kiṃcitkāraṇatrayaṃ draṣṭavyaṃ | tadanena baṃdhanatrayeṇādhikaśaktiraśva iti stuto bhavati*)
+(Tai. Saṃ. Bhā. 4-6-7) *[abbreviation as printed: ತೈ. ಸಂ. ಭಾ.]*
+
+### Printed p. 243
+*Running head: [ಅ. ೨. ಅ ೩. ವ. ೧೧ ] ಋಗ್ವೇದಸಂಹಿತಾ 243 (as supplied).*
+
+The binding mentioned above may be compared with the binding of an ordinary horse. When a very powerful horse is being taken to another village for sale, it has restrainers on three sides. If it turns to the right side, the one on the left pulls; likewise, when it turns to the left, the one on the right pulls. If it suddenly tries to dash forward and run away, the one behind pulls. Thus even this horse has a threefold binding; having first stated this worldly comparison, and having then understood that it is not proper to compare the binding of this horse, born of a portion of the gods, with the binding of a worldly horse, he has stated another reason (kāraṇa).
+
+But since there is no proper basis for knowing what the nature of this binding is, even he could not give a precise opinion on the matter, and so said यद्वा शास्त्रसिद्धं (*yadvā śāstrasiddhaṃ*) किंचित्कारणत्रयं द्रष्टव्यं (*kiṃcitkāraṇatrayaṃ draṣṭavyaṃ*): "some other cause enjoined by the scripture is to be understood."
+
+The nature of this binding is described in the Taittirīya Saṃhitā itself, in the mantras quoted in the Special Topics of the preceding Ṛk: आक्रान्वाजी पृथिवीमग्निं (*ākrānvājī pṛthivīmagniṃ*) .... .... .... ........ आक्रान्वाज्यंतरिक्षं वायुं युजमकृत (*ākrānvājyaṃtarikṣaṃ vāyuṃ yujamakṛta*) .... .... .... ‖ (Tai. Saṃ. 7-5-19) and so on. Its meaning is this: this sacrificial horse, having traversed the earth, made Agni the binder in the form of its yoke for the terrestrial rite; that is, it rendered its service through Agni. Likewise this horse, pervading the atmosphere, made the wind its yoke-rope (and rendered its service). The same horse went to the heaven-world and, making Āditya its yoke-rope there, provided what was suitable for the affairs there. Therefore the prayer is made: "Grant us welfare with the help of terrestrial Agni, through the wind of the atmosphere, and by the power of Āditya in the heaven-world." One more point is to be noticed in this description: in the preceding Ṛk, on the authority of the words of the Nirukta-writers, the word वसवः (*vasavaḥ*) was explained as the deities pervading the three worlds, namely Agni, Vāyu or Indra, and Āditya, and it was said that those deities impelled this sacrificial horse. The same idea is indicated in these quoted passages of the Saṃhitā. From this the divine power of this horse and its activities beneficial to the world can be understood.
+
+गुह्येन कर्मणा (*guhyena karmaṇā*)—गोपनीयेन दुर्निरूपेण वा कर्मणा । सर्वत्रव्याप्तिरूपेणेत्यर्थः (*gopanīyena durnirūpeṇa vā karmaṇā | sarvatravyāptirūpeṇetyarthaḥ*). The meaning is: by a secret act, or by an act that cannot be described. It may be said that this description is there both because the wind is all-pervading and because human beings of limited vision cannot describe the universal activities of the wind.
+
+### Printed p. 244
+*Running head: 244 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+असि (*asi*)—the root अस (*asa*) भुवि (*bhuvi*) (in the sense of being). *Laṭ*, second person singular; when sip follows, by तासस्त्योर्लोपः (*tāsastyorlopaḥ*) (Pā. Sū. 7-4-50) the loss of the root's s. Because it stands at the beginning of a pāda, the *nighāta* accent does not result. Since sip is unaccented, the root accent remains.
+
+यमः (*yamaḥ*)—यमयतीति यमः (*yamayatīti yamaḥ*) (he who restrains is Yama); the root यम (*yama*) उपरमे (*uparame*) (in the sense of ceasing). A root with the causative sense included, belonging to the *pacādi* class, hence the suffix ac. Because it is c-marked, it becomes final-acute.
+
+गुह्येन (*guhyena*)—गुहायां भवम् गुह्यम् (*guhāyāṃ bhavam guhyam*) (what is in a cave is guhya); तेन (*tena*). By भवे छंदसि (*bhave chaṃdasi*) (Pā. Sū. 4-4-110) the suffix yat. By यस्यॆतिच (*yasyètica*) the loss of the ā-vowel. By यतोनावः (*yatonāvaḥ*) (Pā. Sū. 6-1-213) the initial-acute accent results.
+
+समया (*samayā*)—the prefix सम् (*sam*). The root इण् (*iṇ*) गतौ (*gatau*) (in the sense of going). By आःसमिण् निकषिभ्याम् (*āḥsamiṇ nikaṣibhyām*) (U. Sū. 6-4 14, as supplied) the suffix ā when सम् (*sam*) is the preceding member. Taking that as the cause, guṇa for the i of the root; the substitute aya.
+
+विपृक्तः (*vipṛktaḥ*)—the root पृची (*pṛcī*) संपर्के (*saṃparke*) (in the sense of contact). In the passive, by निष्ठा (*niṣṭhā*) the suffix kta. By चोःकुः (*coḥkuḥ*) the change to k of the root's c. By गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the udātta accent comes on the gati (vi).
+
+आहुः (*āhuḥ*)—the root ब्रूञ् (*brūñ*) व्यक्तायां वाचि (*vyaktāyāṃ vāci*) (in the sense of clear speech). *Laṭ*, third person plural, when jhi follows, by ब्रुवः पंचानामादित आहोब्रुवः (*bruvaḥ paṃcānāmādita āhobruvaḥ*) (Pā. Sū. 3-4-84) the substitute us for it. The substitute āha for the root. By उस्यपदांतात् (*usyapadāṃtāt*) (Pā. Sū. 6-1-99) the following form (para-rūpa). Because it stands at the beginning of a pāda, the *nighāta* accent does not result. By the suffix accent it becomes final-acute.
+
+दिवि (*divi*)—a locative-ending form. By ऊडिदं पदादि (*ūḍidaṃ padādi*) (Pā. Sū. 6-1-171) the udātta accent comes on the case-ending.
+
+बंधनानि (*baṃdhanāni*)—बंध (*baṃdha*) बंधने (*baṃdhane*), a root. In the sense of the action, the suffix lyuṭ. By युवोरनाक् (*yuvoranāk*) (Pā. Sū. 7 1-1, as supplied) the substitute ana for it. By लिति (*liti*) (Pā. Sū. 6-1-193) the udātta accent comes on the syllable before the suffix. ‖ 3 ‖
+
+*[stray line as supplied: :੦:]*
+
+### Printed p. 245
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೧೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 245 (as supplied).*
+
+*[as supplied: the label "ಸಂಖ್ಯಾಶಾಸ್ತ್ರ" stands here, where the Saṃhitā-pāṭha label belongs; the script replaced it.]*
+
+#### Ṛk 4
+**॥ संहितापाठः ॥**
+> त्रीणि॑ त आहुर्दि॒वि बंध॑नानि॒ त्रीण्य॒प्सु त्रीण्यं॒तः स॑मु॒द्रे ।
+> उ॒तेव॑ मे॒ वरु॑णश्चंस्यर्व॒न्यत्रा॑ त आ॒हुः प॑र॒मं ज॒नित्रं॑ ।
+> ॥ ४ ॥
+**॥ पदपाठः ॥**
+> त्रीणि । ते । आहुः । दिवि । बंधनानि । त्रीणि । अप्सु । त्रीणि । अंतरिति । समुद्रे ।
+> उत्यइव । मे । वरुणः । छंत्सि । अर्वन् । यत्र । ते । आहुः । परमं । जनित्रं ॥ ४ ॥
+**॥ सायणभाष्यम् ॥**
+> पूर्वं दिवि त्रीणि बंधनानीत्युक्तं । इदानीं स्थानत्रयेष्टपि त्रीणि बंधनानीत्याह । हे अर्वन् ते तव दिवि संबंधनानि त्रीण्याहुः । तानि पूर्वमुक्तानि । अप्पु ।
+> अबुपजीवितत्वाद्दूलोकोऽप्यद्वेनाभिधीयते । पृथिव्यां त्रीणि बंधनान्याहुः ।
+> आन्नं स्थानं बीजमिति त्रीणि । तथा समुद्रेंतः समुद्रमध्यॆ । समुद्रवणादपादानात्समुद्रमंतरिक्षं । तस्मिंस्त्रीणि वृष्टुत्पत्तिनिमित्तानि मेघो विद्यत् स्तनितमिति। उतेव।
+> इवशब्दश्चार्थे । अपि च हे आर्वन्नश्व वरुणः पापस्य वारकः फलस्यावर्जयिता वा त्वं
+> मे मह्यं छंत्सि । कथयसि । किं कथयसीति चेत् उच्यते । ते तव परमं जनित्रं
+> निरतिशयं जन्म । जनेरौणादिक इत्रप्रत्ययः ॥ यत्र येषु त्रिषूक्तेषु स्थानेष्वाहुः
+> कथयंति । यद्वा । यत्र यस्मिन्नादित्ये परमं जनित्रमाहुः सूरादश्वं वसवो निरतष्टेत्युक्तत्वात् । तादृशं प्रशस्यं जन्म यज्ञसाधनभावेन कथयसीत्यर्थः ॥
+*Gist:* Three bindings are in heaven, three on earth (apas), three in the sea-like firmament; the horse, as Varuṇa, declares to me its supreme birth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(अर्वन् (*arvan*)—O horse *[as supplied: ಎಕೈ for ಎಲೈ]*); ते (*te*)—to you; दिवि (*divi*)—in the heaven-world; त्रीणि बंधनानि (*trīṇi baṃdhanāni*)—three bindings; अप्पु (*appu*) (as supplied)—on earth; त्रीणि (*trīṇi*)—three (bindings); समुद्रे अंतः (*samudre aṃtaḥ*)—in the middle of the firmament; त्रीणि (*trīṇi*)—three (bindings) there are; आहुः (*āhuḥ*)—(the knowers of the truth) say; उतेव (*uteva*)—not only do they say so; अर्वन् (*arvan*)—O horse; यत्र (*yatra*)—in which three places, or from which Āditya (arising); ते (*te*)—your; जनित्रं (*janitraṃ*)—birth; परमं (*paramaṃ*)—as most excellent; आहुः (*āhuḥ*)—they describe (of such a you, the nature of the
+
+### Printed p. 246
+*Running head: 246 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ.೧೬೩.] (as supplied).*
+
+*[Pratipadārtha continued from the previous page:]* birth); वरुणः (*varuṇaḥ*)—you who ward off sin, or who give the fruit; मे (*me*)—to me; छन्ति (*chanti*) (as supplied)—you tell (you make known by your activities).
+
+**भावार्थ (Bhāvārtha)**
+O horse, the knowers of the truth say that you have three bindings in the heaven-world, three bindings on earth, and three bindings in the middle of the firmament. Not only do they say so: O horse, the nature of that birth of yours, arising from the Āditya from whom the knowers of the truth describe your birth as most excellent, you, who ward off sin, make known to me by your activities.
+
+**Printed English**
+They have said that three are your binds in heaven; three upon earth ; and three in the firmament. You declare to me, Horse, who are (one with) Varuna, that which they have called your most excellent birth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the preceding Ṛk, by "त्रीणि बंधनानि (*trīṇi baṃdhanāni*)" the activities, beneficial to the world, of the horse, regularly performed through Āditya and the others, were described. Here it is said that there are three bindings in each world. A part of this was explained in the Special Topics of the preceding Ṛk.
+
+अप्पु त्रीणि (*appu trīṇi*)—अबुपजीवितत्वात् भूलोकोऽपि अप्शब्देनाभिधीयते । पृथिव्यां (*abupajīvitatvāt bhūloko 'pi apśabdenābhidhīyate | pṛthivyāṃ*). Since it lives by the support of अप्पिन (*appina*) (as supplied; water), the word अप् (*ap*) is also a synonym for the earth-world. Therefore Sāyaṇa has explained that अप्पु (*appu*) here means "on earth". This meaning fits the context here. If the earth is to be included along with the heaven-world and the firmament, as in दिवि (*divi*) and समुद्रे (*samudre*), the word अप्पु (*appu*) must be given the meaning "on earth". But when Sāyaṇa commented on this same mantra in the Taittirīya Saṃhitā, he gave अप्पु (*appu*) there the meaning "in the water". That commentary is as follows.
+
+यथा द्युलोके तवोच्चैःश्रवोरूपस्य बंधनत्रयमभिज्ञा आहुतथैवाप्पु समुद्रे च । यथा वा वाजपेयेऽस्वंतरमृतमिति मंत्रेणाश्वानप्पु स्नापयंति तथापि पूर्वोक्तरीत्या बंधनत्रयमपेक्षितं तथा समुद्रमध्यॆ स्थिताया वडवाया बंधनत्रयं इत्येवमभिज्ञा आहुः (*yathā dyuloke tavoccaiḥśravorūpasya baṃdhanatrayamabhijñā āhutathaivāppu samudre ca | yathā vā vājapeye 'svaṃtaramṛtamiti maṃtreṇāśvānappu snāpayaṃti tathāpi pūrvoktarītyā baṃdhanatrayamapekṣitaṃ tathā samudramadhyè sthitāyā vaḍavāyā baṃdhanatrayaṃ ityevamabhijñā āhuḥ*).
+(Tai. Saṃ. Bhā. 4-6-7) *[abbreviation as printed: ತ್ರೈ. ಸಂ ಭಾ.]*
+
 ---
 
-**Progress note:** Done through printed p. 240. Vol 12 pp. 235-240: grammar of Rk 1; Sukta 163 Rk 2 (Yama, Trita, Vasus) with Sayana, special topics, start of grammar
+**Progress note:** Done through printed p. 246. Sukta 163 Rk 3 (end of Rk 2 grammar) and Rk 4, pp. 241-246
