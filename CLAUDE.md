@@ -14,10 +14,11 @@ From the 1949–52 Kannada edition of the Ṛgveda-saṃhitā (Sāyaṇa's bhā�
 6. **Private repo**: `refs/mandala/*` is for personal study; rights/ISBN are placeholders until the user decides.
 7. No per-volume tools or prompts: fix the shared tool (`tools/rv/`, `publish/`). Twice is a pattern: a hand-fix used twice becomes a script change (§15).
 
-## The translation loop (one window ≈ 3 printed pages)
-- **Translator agent (Sonnet)** reads `tools/rv/BRIEF.md` once, then per window: read `WIN/TASK.md` → write `WIN/en.md` → `python3 tools/rv/batch.py done N WIN --note "…"` (build, all gates, commit, push, self-verification in one command). Three tool calls per window is the target.
-- **Dispatcher** (main session) per window: `python3 tools/rv/batch.py next N --tokens T --tools K --min M` (audits the files and git by script, logs the cost, preps the next window, prints the message) → send that message to the standing agent. Nothing else: no manual `git log`/`grep` checks, no separate log commit. One standing agent per volume; never two writers on one volume.
-- `python3 tools/rv/batch.py audit N` = the invariants at any time. A window is done only when `done` printed `VERIFIED` and `next`/`audit` passes.
+## The translation loop (one window ≈ 6 printed pages; `window` in `volN/volcfg.json`)
+- **Translator agent (Sonnet, fresh for every batch of three windows)**: for each window runs `python3 tools/rv/batch.py next N` (audit by script + prep), reads `WIN/TASK.md` (and `tools/rv/BRIEF.md` once), writes `WIN/en.md`, runs `python3 tools/rv/batch.py done N WIN --note "…"` (build, all gates, commit, push, self-verification) until it prints `VERIFIED`.
+- **Dispatcher** (main session; Sonnet is enough): one Agent call per batch with the prompt in `volN/CONTINUE_PROMPT_HTML.md`; when the agent reports, append its token count to `volN/parts/batch_costs.md` and start the next batch. No manual `git log`/`grep` checks: `next` refuses to prepare a window while the audit fails. Never two writers on one volume.
+- Measured on Vol 12 (Nov 10 2026): about 10k tokens per page this way, against 25–36k for one fresh agent per 3-page window (Vols 14–16).
+- `python3 tools/rv/batch.py audit N` = the invariants at any time. A window is done only when `done` printed `VERIFIED` and `audit` passes.
 - The script (`tools/rv/html_to_kn.py`) repairs the supplied text's structure before the translator sees it (garbled/missing labels, hyphen joins, stray lines, missed running heads); what it did is listed in `TASK.md`.
 
 ## Where things are
