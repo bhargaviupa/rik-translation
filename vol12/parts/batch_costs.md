@@ -17,3 +17,4 @@
 | w0046 | 46-49 | sonnet (standing) | n/a | n/a | n/a |
 | w0050 | 50-52 | sonnet (standing) | n/a | n/a | n/a |
 | w0053 | 53-55 | sonnet (standing) | n/a | n/a | n/a |
+| w0056 | 56-58 | sonnet (standing) | n/a | n/a | n/a |
