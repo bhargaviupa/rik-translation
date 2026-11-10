@@ -3859,6 +3859,103 @@ have explained the word "karasna" as कर्मणां प्रस्ना
 
 *Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses संमील्य (*saṃmīlya*) (root मील (*mīla*); Pā. Sū. 7-1-37), भुवना (*bhuvanā*) (Pā. Sū. 6-1-70), पर्यसर्पत (*paryasarpata*) (Pā. Sū. 8-1-71), तात्या (*tātyā*), आसतुः (*āsatuḥ*), अशपत (*aśapata*), आददे (*ādade*) (root डुदाञ् (*ḍudāñ*)) and अब्रवीत् (*abravīt*), with the accents; it ends with the mark ॥ ೧೨ ॥. *[The supplied text ends with the stray machine-description line "This image contains no text. It is a decorative graphic design element ...", kept in kn.md as an italic note: an ornament after the grammar.]*
 
+### Printed p. 137
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೬.] Ṛgveda-saṃhitā 137 (as supplied).*
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+*[The hyphenated line break "ಅಬೂ-ಬುಧತ್" is joined; the Pada has सुसुप्वांसः (*susupvāṃsaḥ*) where the Saṃhitā has सुषुप्वांस (*suṣupvāṃsa*); kept as supplied.]*
+
+> सु॒षु॒प्वांस॑ ऋभव॒स्तद॑पृच्छ॒तागो॑ह्य॒ क इ॒दं नो॑ अबूबुधत् ।
+> श्वानं॑ ब॒स्तो बो॑धयि॒तार॑मब्रवीत्संवत्स॒र इ॒दम॒द्या॑
+> व्यख्यत ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> सुसुप्वांसः । ऋभवः । तत् । अ पृच्छत । अगोह्य । कः । इदं । नः । अबूबुधत् ।
+> श्वानं । बस्तः । बोधयितारं । अब्रवीत् । संवत्सरे । इदं । आद्य । वि । अख्यत ॥१३॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined. In the supplied text the Pratipadārtha stood inside this block, after the garbled label "೦ ಪ್ರತಿಪದ ೦".]*
+
+> हे ऋभवो रश्मात्मकाः यूयं सुषुप्वांस आदित्यमंडले स्वपंतो
+> वर्षणाय ॥ स्वपेर्लिटः क्वसुः !! तमादित्यं तद्वाक्यमपृच्छत । प्रश्नं कुरुथ । किं
+> तदिति चेत् उच्यते । हे अगोह्य केनचिदगोपनीयादित्य स्वामिन् नोऽस्मदीयमिदं कर्म वर्षणरूपं कोऽबूबुधत् । बोधयति । प्रेरयति । साहाय्यं
+> करोति ॥ बुधेर्ण्यंताल्लुज चङ रूपं ॥ बस्तः सर्वस्य वासयितादित्यः ॥ वसेराणादिकस्तप्रत्ययः । बवयोरभेदाद्बत्वं ॥ बोधयितारं प्रेरयितारं श्वानमब्रवीत् । अंतरिक्षे श्वसंतं वायुं प्रावादीत् । असौ युष्मान्रेरयतीति । अथवायुसहायेन वर्षंतो यूयं संवत्सरे पूर्णेऽद्येदानीमिदं जगद्व्यख्यत ।
+> विविधं प्रकाशितवंतः । पूर्व० सूर्याचंद्रमसौ यथा न दृश्येते तथा वर्षित्वेदानीं वर्षकालेऽतीते विश्वं जगद्व्यक्तं कुरुथेत्यर्थः ॥ ख्यातेर्लुज्यस्यतिवक्तिख्यातीत्यज् ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): resting in the Sun's orb, the Ṛbhus ask who impels them to rain; the Sun answers: Vāyu; after the year they light the world again.]*
+
+*[The label of the Pratipadārtha is garbled in the supplied text ("೦ ಪ್ರತಿಪದ ೦"); the standard label is inserted, the garbled words kept in kn.md as an italic note, and the text (which was inside the bhāṣya block) moved out of the block.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋभवः (*ṛbhavaḥ*)—O Ṛbhus, in the form of rays; सुषुप्वांसः (*suṣupvāṃsaḥ*)—resting, having taken support in the orb of the Sun; तत् (*tat*)—this question; अपृच्छत (*apṛcchata*)—ask (it is this); अगोह्य (*agohya*)—O Sun, whom no one can hide; इदं (*idaṃ*)—to this work of raining; नः (*naḥ*)—us; कः (*kaḥ*)—who; अबूबुधत् (*abūbudhat*)—has impelled; बस्तः (*bastaḥ*)—the Sun, who covers (everyone); श्वानं (*śvānaṃ*)—Vāyu; बोधयितारं (*bodhayitāraṃ*)—as the impeller; अब्रवीत् (*abravīt*)—said; संवत्सरे (*saṃvatsare*) *[printed with a double hyphen]*—the year
+
+### Printed p. 138
+
+*Running head: 138 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೧] (as supplied).* (The Pratipadārtha continues.)
+
+having been completed; अद्य (*adya*)—now; इदं (*idaṃ*)—this world; व्यख्यत (*vyakhyata*)—you made shine in manifold ways (he also said).
+
+**भावार्थ (Bhāvārtha)**
+
+O Ṛbhus, in the form of rays, resting with the orb of the Sun as your support, ask the question: "O Sun, whom no one can hide, who has impelled us to this work of raining?" Then the Sun, who covers everyone, said that Vāyu is the impeller. He also said: "Afterwards, when the year has been completed, you made this world shine in manifold ways."
+
+**Printed English translation**
+
+Ribhus, reposing in the solar orb, you inquire, who awakens us, unapprehensible (Sun), to tbis [sic] office (of sending rain). The sun replies-The awakener is the wind ; and the year (being ended), you again to-day light up this (world).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+It is a well-known matter that the rays of the sun draw up water and perform the work of raining in the form of clouds. On careful examination, that work cannot be completely carried out by the sun's rays alone. To make clear that other help is also necessary, it is explained here in the form of question and answer. It is described here figuratively that the Sun says, in answer to the question of the rays, that Vāyu, who pervades the whole atmosphere and holds lordship of the middle world, is the chief helper in this work of raining.
+
+Among Agni, Vāyu and Āditya, it is clear that Vāyu is the presiding deity of the middle world. For the sun's rays, which travel through the atmosphere, the impulse of this presiding deity of the atmosphere is indispensable for the shedding of rain. Vāyu is the lord of all the activities that take place in this world.
+
+अथ विश्वज्योतिषमुपदधाति । नायुर्वै मध्यमा विश्वज्योतिर्नायुर्हैवांतरिक्षलोके विश्वं ज्योतिर्नायुमेवैतदुपदधाति ॥ (*atha viśvajyotiṣamupadadhāti | nāyurvai madhyamā viśvajyotirnāyurhaivāṃtarikṣaloke viśvaṃ jyotirnāyumevaitadupadadhāti ‖*) (ಶ. ಬ್ರಾ. 8-3-2-1) *[abbreviation as printed; the hyphenated line break "ನಾಯುರ್ಹೈ-ವಾಂತರಿಕ್ಷ" is joined; "ನಾಯು" is printed for "ವಾಯು"]*
+
+Of the three universal lights, Agni, Vāyu and Āditya, Vāyu is the universal light of the middle world, and he is the one who illumines the whole atmosphere and rules it.
+
+### Printed p. 139
+
+*Running head: [ಅ.೨.ಅ. ೩ ವ. ೬.] Ṛgveda-saṃhitā 139 (as supplied).*
+
+वेत्थ चत्वारि महांति वेत्थ चत्वारि महतां महांतीत्यग्निर्महांस्तस्य महतो (*vettha catvāri mahāṃti vettha catvāri mahatāṃ mahāṃtītyagnirmahāṃstasya mahato*)
+महदोषधयश्च वनस्पतयश्च तद्ध्यस्यान्नं वायुर्महांस्तस्य महतो (*mahadoṣadhayaśca vanaspatayaśca taddhyasyānnaṃ vāyurmahāṃstasya mahato*)
+महदापस्तद्ध्यस्यान्नमादित्यो महान् .... .... .... ॥ (*mahadāpastaddhyasyānnamādityo mahān .... .... .... ‖*) (ಶ. ಬ್ರಾ. 10-3-4-4) *[the last line has printed dots]*
+
+The great things of the world are four: Agni, Vāyu, Āditya and Puruṣa. Among these four great things, for Vāyu, who stands in the atmosphere, the great water is food.
+
+अयं वै वर्षस्येष्टे योऽयं पवते सोऽयमेक इवैव पवते सोऽयं (*ayaṃ vai varṣasyeṣṭe yo 'yaṃ pavate so 'yameka ivaiva pavate so 'yaṃ*)
+पुरुषेंतः प्रविष्टः प्राज्ञ प्रत्यज्ज तानिमौ प्राणोदानौ प्राणोदानौ (*puruṣeṃtaḥ praviṣṭaḥ prājña pratyajja tānimau prāṇodānau prāṇodānau*)
+वै मित्रावरुणौ तद्य एव वर्षस्येष्टे स त्वा वृष्ट्यावत्त्येवृतदाह तमेतेनैवाददीत यदा ह्येव कदा च वृष्टिः समिव समनक्त्याहुतिमेवैतत्करोत्याहुतिर्भूत्वा देवलोकं गच्छादिति ॥ (*vai mitrāvaruṇau tadya eva varṣasyeṣṭe sa tvā vṛṣṭyāvattyevṛtadāha tametenaivādadīta yadā hyeva kadā ca vṛṣṭiḥ samiva samanaktyāhutimevaitatkarotyāhutirbhūtvā devalokaṃ gacchāditi ‖*) (ಶ. ಬ್ರಾ. 1-8-3-12) *[the hyphenated line breaks "ತಮೇತೇ-ನೈವಾ" and "ಕರೋ-ತ್ಯಾಹುತಿ" are joined]*
+
+Vāyu, who has entered within the Puruṣa and moves in two parts as prāṇa and udāna, pervades the atmosphere as one alone and is the sole lord of all rain. By the offering of an oblation useful to him he is helped to shed rain. By that rain he protects everyone.
+
+तद्वायव्यं भवति । अयं वै वायुर्योऽयं पवत एष ना इदग्ं सर्वं (*tadvāyavyaṃ bhavati | ayaṃ vai vāyuryo 'yaṃ pavata eṣa nā idagṃ sarvaṃ*)
+प्रप्याययति यदिदं किंच वर्षति वृष्टादोषधयो जायंते.... .... .... (*prapyāyayati yadidaṃ kiṃca varṣati vṛṣṭādoṣadhayo jāyaṃte.... .... ....*)
+तस्माद्वायव्यं भवति ॥ (*tasmādvāyavyaṃ bhavati ‖*) (ಶ. ಬ್ರಾ. 2-6.-3-7) *[reference as printed, with a stop; the middle line has printed dots]*
+
+The falling of rain is by the impulse of Vāyu. It is by the help of Vāyu, who is the cause and the increaser of rain, that plants and the like grow. (Therefore the Śākamedha oblation is to be offered to Vāyu.)
+
+Thus all the śruti sentences say that Vāyu, who is in the atmosphere, is the impeller of the falling of rain; this is made clear here too, and it is shown that the sun's rays are the instrumental causes.
+
+श्वानं—अंतरिक्षे श्वसंतं वायुं । (*śvānaṃ—aṃtarikṣe śvasaṃtaṃ vāyuṃ |*) Vāyu has this name because he has the chief breath in the atmosphere (Ni. 7-29).
+
+संवत्सरे अद्य इदं व्यख्यत (*saṃvatsare adya idaṃ vyakhyata*)—it means that after the rainy season has passed, in the hot season the sun's rays again light up the world free of clouds.
+
+### Printed p. 140
+
+*Running head: 140 ರಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೧ (as supplied: "ರಾಯಣ" for "ಸಾಯಣ", closing bracket missing; the head stood in the middle of the page without its page mark, so the page mark is supplied).*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses सुषुप्वांसः (*suṣupvāṃsaḥ*) (root printed इष्टप् (*iṣṭap*); Pā. Sū. number printed "೩-೨ ೧೦೭" without a hyphen, not cited), अपृच्छत (*apṛcchata*) (Pā. Sū. 3-4-6), अगोह्य (*agohya*) (Pā. Sū. 6-1-198), अबूबुधत् (*abūbudhat*) (root बुध (*budha*); Pā. Sū. 3-1-26, 3-1-48, 6-1-11, 7-4-93, 7-4-94 and 6-4-51), बस्तः (*bastaḥ*), बोधयितारम् (*bodhayitāram*) (Pā. Sū. 6-1-163), अब्रवीत् (*abravīt*), अद्य (*adya*) (the sūtra number is printed "೬-೦-೧೩೬", not cited) and अख्यत (*akhyata*) (Pā. Sū. 3-1-52 and 6-4-64), with the accents; it ends with the mark ॥ ೧೩ ॥. *[A stray line "ਃ੦ਃ" in Gurmukhi letters ends the supplied text; kept in kn.md as an italic note.]*
+
 ---
 
-**Progress note:** Done through printed p. 136 (PDF 136). Sūkta 161 Ṛk 12 bhāṣya end, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar
+**Progress note:** Done through printed p. 140 (PDF 140). Sūkta 161 Ṛk 13 complete (Saṃhitā to grammar)
