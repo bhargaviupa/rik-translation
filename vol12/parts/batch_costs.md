@@ -8,3 +8,4 @@
 | w0018 | 18-20 | sonnet (standing) | n/a | n/a | n/a |
 | w0021 | 21-23 | sonnet (standing) | n/a | n/a | n/a |
 | w0024 | 24-26 | sonnet (standing) | n/a | n/a | n/a |
+| w0027 | 27-29 | sonnet (standing) | n/a | n/a | n/a |
