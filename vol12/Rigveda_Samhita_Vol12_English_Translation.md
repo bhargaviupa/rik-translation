@@ -5219,6 +5219,76 @@ on darbha spread on the ground. Therefore, when the dead body of the horse is cu
 
 *[Gist of the Sāyaṇa-bhāṣya (my own short summary): those who look at the cooked horse, saying it smells good and asking a share, and those who beg its flesh: may their effort prosper.]*
 
+### Printed p. 191
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. .೯ ] Ṛgveda-saṃhitā 191 (as supplied, with a stray stop before "೯").* (Sūkta 162, Ṛk 12.)
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ये (*ye*)—who; पक्वं (*pakvaṃ*)—cooking; वाजिनं (*vājinaṃ*)—the parts of the horse (the flesh); परिपश्यंति (*paripaśyaṃti*)—look at with eagerness; ये (*ye*)—who; ईं (*īṃ*)—this horse-flesh that is cooking; सुरभिः (*surabhiḥ*)—fragrant with a good smell, (therefore); निः हर इति (*niḥ hara iti*)—(give) to us also, or, because it is well cooked and fragrant, it must be offered to the gods; आहुः (*āhuḥ*)—say; ये च (*ye ca*)—and who; अर्वतः (*arvataḥ*)—of the horse that is cooking; मांस (*māṃsa*)भिक्षां (*bhikṣāṃ*) *[the word is split over two lines]*—a small part of the flesh (left over from the oblation); उपासते (*upāsate*)—desire; उतो (*uto*)—and; तेषां (*teṣāṃ*)—of these people (or priests); अभिगूर्तिः (*abhigūrtiḥ*)—faith-filled intelligence or request; नः (*naḥ*)—our (desired aims); इन्वतु (*invatu*)—may it bring to fulfilment.
+
+*[The label of the Bhāvārtha is garbled in the supplied text ("ಭಾನಾರ್ಥಿ", printed without a blank line before it); the standard label is inserted and the garbled word kept in kn.md as an italic note.]*
+
+**भावार्थ (Bhāvārtha)**
+
+May the requests of those be fulfilled who look with great eagerness at the limbs and flesh of the horse while they are cooking, and who desire that, because the flesh is well cooked and gives out a good smell, it be taken down from the fire, offered to the gods, and also given to them.
+
+**Printed English translation**
+
+Let their exertions be for our good who watch the cooking of the horse : who say, It is fragrant : therefore give us some : who solicit the flesh of the horse as alms.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ये वाजिनं परिपश्यंति पक्वं—अश्वावयवं परिपश्यंति परितः पावनबुद्ध्येक्षंते । (*ye vājinaṃ paripaśyaṃti pakvaṃ—aśvāvayavaṃ paripaśyaṃti paritaḥ pāvanabuddhyekṣaṃte |*) *[the hyphenated line break "ಪಾವನಬುದ್ಧ್ಯೇ-ಕ್ಷಂತೇ" is joined]* Those who look at the horse-flesh cooking in the vessel with the good intent that it be offered to the gods. Here "vājinam" means the parts of the horse, or the flesh of the horse, cooking in the vessel. For the horse is not cooked whole; it is cut up, put into the vessel and cooked. The description of this is given in the following ṛks. "Paripaśyanti" means that they stand around the fire and watch with great curiosity how long it will take to cook.
+
+सुरभि (*surabhi*)—after the horse-flesh is well cooked, a good smell indicating that it is cooked comes out; therefore enough cooking, and it must be taken down from the fire: that is the meaning.
+
+निः हर इति (*niḥ hara iti*)—for these words the commentator gives two kinds of meaning, निर्हर किंचिदस्मभ्यं देहीत्याहुः । यद्वा (*nirhara kiṃcidasmabhyaṃ dehītyāhuḥ | yadvā*) यतः सुरभिः अतो देवयोग्यमिति निश्शेषेण देवेभ्यो हरेत्याहुः । (*yataḥ surabhiḥ ato devayogyamiti niśśeṣeṇa devebhyo haretyāhuḥ |*)
+
+### Printed p. 192
+
+*Running head: 192 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+one that some say "give us a little of the cooked flesh", and another that, because it is well cooked and fragrant, it must be offered entirely to the gods. Of these two meanings, the meaning "they say, give us a little" does not seem very appropriate, because in the second half of this very ṛk, which indicates this same idea, ये चार्वतो मांस (*ye cārvato māṃsa*) भिक्षामुपासते (*bhikṣāmupāsate*) *[the word is split over two lines]*, "others desire the cooked horse-flesh for themselves too", is said; so the second meaning, "offer to the gods", fits properly; or, since "surabhiḥ nirhara" is said, another meaning may also be given: "enough, there is no need to cook more; therefore take the vessel down from the fire". This last opinion has been stated by the Yajurveda commentator Mahīdhara, explaining this mantra (the mantras of this sūkta are also found in the Yajurveda-saṃhitā, printed "ತ್ರೈ. ಸಂ. ಕಾಂ. ೪").
+
+मांसभीक्षां उपासते (*māṃsabhīkṣāṃ upāsate*) *[so printed here, "ಮಾಂಸಭೀಕ್ಷಾಂ"]*—after the cooked flesh has been offered to the gods in the fire as an oblation, they desire that a small part of the remaining flesh be given to them also. Those who desire thus may be priests taking part in the sacrifice or others.
+
+तेषामभिगूर्तिन् इन्वतु (*teṣāmabhigūrtin invatu*)—this sentence has been explained in the sixth ṛk of this sūkta.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses परिपश्यंति (*paripaśyaṃti*) (Pā. Sū. 8-1-66 and 8-1-71), पक्वम् (*pakvam*) (Pā. Sū. 3-2-102; the number of the next sūtra is printed "೮-೨ರ೫೨", a misprint, not cited), आहुः (*āhuḥ*) (Pā. Sū. 3-4-84), हर (*hara*), मांसभिक्षाम् (*māṃsabhikṣām*) and, on p. 193, उपासते (*upāsate*) (Pā. Sū. 6-1-186 and 8-1-71), with the accents. *[The mark ॥ ೧೨ ॥ is not printed at the end of this grammar in the supplied text. The supplied text then has the machine-description line "This image contains no text. It is a decorative graphic design consisting of swirls and floral elements.", kept in kn.md as an italic note: an ornament.]*
+
+### Printed p. 193
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. .೯ ] Ṛgveda-saṃhitā 193 (as supplied, with a stray stop before "೯").*
+
+#### Ṛk 13
+
+*[The label of the Saṃhitā is garbled in the supplied text ("ಸಂಹಕಾಶಾ"); the standard label is inserted and the garbled word kept in kn.md as an italic note. A picture (vol12/html/figures/fig1_line08407.jpg) stood at this place in the supplied text. I looked at it: it shows the Saṃhitā, the label "ಪದಪಾಠ", the Pada of this Ṛk and the beginning of the label of the bhāṣya; read letter by letter, it agrees with the machine-read text, so kn.md only has an italic note in place of the figure line. The Saṃhitā ends with "॥" without the Ṛk number in the print. The small hook marks in the Pada ("ನಿ·ಈಕ್ಷಣಂ", "ಆ·ಸೇ-ಚನಾನಿ" and others) are the division sign and are not transcribed. Hyphenated line breaks in the Pada and bhāṣya are joined; a stray signature "(13) Vol. 12]" at the foot of the bhāṣya is kept in kn.md as an italic note.]*
+
+**॥ संहितापाठः ॥**
+
+> यन्नीक्ष॑णं मां॒स्पच॑न्या उ॒खाया॒ या पात्रा॑णि यू॒ष्ण॒॑
+> आ॒सेच॑नानि ।
+> ऊ॒ष्म॒ण्या॑पि॒धाना॑ चरू॒णामं॒काः सू॒नाः परि॑ भूषं॒त्यश्वं॑ ॥
+
+**॥ पदपाठः ॥**
+
+> यत् । निईक्षणं । मांस्पचन्याः । उखायाः । या । पात्राणि । यूष्णः । आसेचनानि ।
+> ऊष्मण्या । अपिधाना । चरूणां । अंकाः । सूनाः । परि । भूषंति । अश्वं ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> मास्पचन्या मांसपचन्याः ॥ पचतेरधिकरणे ल्युट् । मांसस्य पचि युड्घ
+> इतोः । का. ६-१-१४४ । इत्यंतलोपः ॥ उखायाः स्थाल्यानीक्षणं पाकपरीक्षा साधनं
+> काष्ठं तथा या यानि पात्राणि यूष्टो रसस्य क्वथितस्यासेचनान्यासेचनसाधननानि
+> तथोष्ण्योष्मनिवारणार्हाणि पात्राणि तथा चरूणां पात्राणां मांसपूर्णानामपिधानापिधानानि तत्साधनानि तथांका हृदयाद्यवयवांकनसाधना वेतसशाखाः सूना
+> अवदानसाधनाः स्वधित्यादय एतमश्वमश्वावयवं परिभूषंति । परितो भूषयंति ।
+> स्वस्वव्यापारेण साधयंतीत्यर्थः ॥ भूष अलंकारे । भौवादिकः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): the cooking-tester wood, broth-pouring vessels, lids of flesh-filled pots, skewers and knives all serve to adorn the horse.]*
+
 ---
 
-**Progress note:** Done through printed p. 190 (PDF 190). Sūkta 162 Ṛk 11 English to grammar; Ṛk 12 Saṃhitā, Pada, bhāṣya
+**Progress note:** Done through printed p. 193 (PDF 193). Sūkta 162 Ṛk 12 Pratipadārtha to grammar; Ṛk 13 Saṃhitā (picture), Pada, bhāṣya
