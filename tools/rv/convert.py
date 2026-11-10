@@ -37,6 +37,8 @@ def resolve_markers(en_text,kn_text,prob=None,maxlen=900):
         if j<0: prob.append(f'⟦{a}~~{b}⟧: END not found after START'); return m.group(0)
         i0=pos[i]; j1=pos[j+len(b)-1]+1
         if j1-i0>maxlen: prob.append(f'⟦{a}~~{b}⟧: END is more than {maxlen} characters after START'); return m.group(0)
+        m2=re.match(r'\s*[।॥]',flat[j1:])                 # a danda that closes the quotation belongs to it (Vol 12 QA: closing dandas were dropped)
+        if m2: j1+=m2.end()
         return '⟦'+flat[i0:j1]+'⟧'
     return re.sub(r'⟦([^⟧]*~~[^⟧]*)⟧',rep,en_text)
 def expand(en_text,kn_text):
