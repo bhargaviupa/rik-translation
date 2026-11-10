@@ -16424,6 +16424,170 @@ O Indra, because you are ready to accept praises and the like, we also, yoked wi
 **Printed English**
 (The Maruts),—Therefore we also, decorating our persons, are ready, with our docile and nigh-standing steeds, (to attend you), with all our splen-dour [sic], to those rites : verily, Indra, you appropriate our sacrificial food.
 
+### Printed p. 695
+*Running head: अ. २. आ. ३. व. २४ (*a. 2. ā. 3. va. 24*) Ṛgveda-saṃhitā 695 (as supplied).*
+
+**Special Topics** *(of Ṛk 5, continuing)*
+
+Reminding Indra how the Maruts helped him at the time of the slaying of the asura Vṛtra, they state in this Ṛk that they too have the right to share with him in the sacrifices in which Indra takes part, and that he must not forget them.
+
+स्वधां (*svadhāṃ*)—उदकं बलं ना (*udakaṃ balaṃ nā*). Here the word svadhā is explained as the water given by them, that is, by the Maruts, or their own strength. *[as supplied: in the print this entry runs on from the previous sentence without a break.]* The Nirukta-author has read this word among the names of water (Ni. 2-23) and among the names of food (3-9). But in many contexts the word svadhā also means one's own greatness, splendour, or self-dependence. For example,
+
+शश्वत्पुरोषा व्युवासे देव्यथो अद्येवं न्यावो मघोनी । अथो व्युच्छादुत्तारा अनु द्यूनजरामृता चरति स्वधाभिः (*śaśvatpuroṣā vyuvāse devyatho adyevaṃ nyāvo maghonī | atho vyucchāduttārā anu dyūnajarāmṛtā carati svadhābhiḥ*)
+(Ṛ. Saṃ. 1-113-13)
+
+In this Ṛk, for the word used of Uṣas, the explanation आत्मीयैस्तेजोभिः (*ātmīyaistejobhiḥ*), "with her own splendours", is given. Likewise,
+
+यदंतरिक्षे पतथः पुरुभुजा यद्वेमे रेवसी अनु । यद्वा स्वधाभिरधितिष्यथो रथमत आ यातमश्विना (*yadaṃtarikṣe patathaḥ purubhujā yadveme revasī anu | yadvā svadhābhiradhitiṣyatho rathamata ā yātamaśvinā*)
+(Ṛ. Saṃ. 8-10-6)
+
+here too आत्मीयैस्तेजोभिर्बलैर्वा सार्थं (*ātmīyaistejobhirbalairvā sārthaṃ*) is given, the meaning being "together with your splendours or your own strengths".
+
+न मृत्युरासीदमृतं न तर्हि न रात्रा अह्न आसीत्प्रकेतः । अनीदनातं स्वधया तदेकं तस्माद्वान्यन्न परः किं चॆनास (*na mṛtyurāsīdamṛtaṃ na tarhi na rātrā ahna āsītpraketaḥ | anīdanātaṃ svadhayā tadekaṃ tasmādvānyanna paraḥ kiṃ cènāsa*)
+(Ṛ. Saṃ. 10-129-2)
+
+In this Ṛk Sāyaṇa explains स्वस्मिन् धीयते धीयते आश्रित्य वर्तते इति स्वधा (*svasmin dhīyate dhīyate āśritya vartate iti svadhā*): because it depends on itself, svadhā is an epithet of māyā, the wonderful power of the Lord (the Supreme Brahman). In the same way, in the present Ṛk it may be taken as the extraordinary power of the Maruts: such is Sāyaṇa's opinion.
+
+शुंभमानाः (*śuṃbhamānāḥ*)—दीप्त्ययंतः । हर्षं प्राप्नुपाना इत्यर्थः (*dīptyayaṃtaḥ | harṣaṃ prāpnupānā ityarthaḥ*). "Shining" means "manifesting delight". The root śumbh, which gives the meaning "to shine, to be beautiful", gives the form śumbhamānā. *[as supplied: the print has the quoted gloss दीप्त्ययंतः (*dīptyayaṃtaḥ*) and प्राप्नुपाना (*prāpnupānā*); kept.]* शुंभ दीप्तौ (*śuṃbha dīptau*). The Nirukta-author (Ni. 8-11), with शुशोभिषमाणाः (*śuśobhiṣamāṇāḥ*),
+
+### Printed p. 696
+*Running head: 696 Sāyaṇa-bhāṣya-sahitā [मं. १. अ. २३. सू. १६५ (*maṃ. 1. a. 23. sū. 165*)] (as supplied).*
+
+has explained this word as "shining exceedingly". Accordingly in the present Ṛk also the word indicates the attractive beauty of the Maruts.
+
+**Grammatical analysis (Vyākaraṇa-prakriyā)**
+*Grammar (transcribed, not explained):*
+
+अंतमेभिः (*aṃtamebhiḥ*)—"exceedingly near" (antikā). By Pā. Sū. 5-3-55 the suffix tamap. By Pā. Sū. 6-4-149-9 the elision of the ti- in antika, so that the word antama results. Because tamap is marked with p, it is anudātta. The former word antika, being ended by ṭhan, is initial-udātta. When bhis follows, by "bahulaṃ chandasi" the substitution of ais for bhis is optional and therefore does not occur; by "bahuvacane jhaly et" the vowel e.
+
+युजानाः (*yujānāḥ*)—root yuj (to join). The substitute śānac for laṭ. By "bahulaṃ chandasi" luk for the vikaraṇa. By "citaḥ" the final-udātta accent arises.
+
+स्वक्षत्रेभिः (*svakṣatrebhiḥ*)—"those whose own strength it is"; svakṣatrāḥ, with them. By Pā. Sū. 6-2-1 (bahuvrīhau prakṛtyā pūrvapadam) the accent of the first member remains. Because the substitution of ais for bhis is optional, the vowel e.
+
+तन्वः (*tanvaḥ*)—by the supplementary rule तन्नादीनां छंदस्युपसंख्यानम् (*tannādīnāṃ chaṃdasyupasaṃkhyānam*), when śas follows, the substitute of a semivowel. By Pā. Sū. 9-2-4 *[as supplied: so printed]* (udāttasvaritayor yaṇaḥ) the svarita accent arises.
+
+शुंभमानाः (*śuṃbhamānāḥ*)—root śumbh (to shine); the substitute śānac for laṭ; the vikaraṇa śap. By the sūtra तास्यनुदात्तेत् (*tāsyanudāttet*) the lasārvadhātuka ending is anudātta, so that the accent of the root remains.
+
+महोभिः (*mahobhiḥ*)—root mah (to worship); the Uṇādi suffix asun. Because it is marked with n, the initial-udātta accent arises; instrumental plural.
+
+युज्महे (*yujmahe*)—root yuj (to join). Laṭ, first person plural, with the suffix mahiṅ. By "ṭita ātmanepadānām…" the vowel e for ṭi. By "bahulaṃ chandasi" luk for the vikaraṇa. The verbal accent (nighāta) arises.
+
+बभूथ (*babhūtha*)—by the Vārttika-sūtra (Vā. Sū. 7-2-64) "babhūthātatanthajagṛmbhavavartheti nigame" the form arises in liṭ without the augment iṭ, as an irregular form. By Pā. Sū. 8-1-34 (hi ca) the prohibition of nighāta. Because thal is marked with l, by Vā. Sū. 6-1-164 *[as supplied: so printed]* (liti) the udātta accent falls on the syllable before the suffix. ॥ 5 ॥
+
+### Printed p. 697
+*Running head: अ. २ अ. ३. व. २५ (*a. 2 a. 3. va. 25*) Ṛgveda-saṃhitā 697 (as supplied).*
+
+*[as supplied: a garbled label कंठाभ्यास. ६१ (*kaṃṭhābhyāsa. 61*) stands before the Saṃhitā label.]*
+
+#### Ṛk 6
+**॥ संहितापाठः ॥**
+> क्व१॒॑ १ स्या वो॑ मरुतः स्व॒धासी॒द्यन्मामेकं॑ स॒मध॑त्ताहि॒हत्ये॑ ।
+> अ॒हं ह्यु१॒॑ १ ग्रस्त॑वि॒षस्तुवि॑ष्टा॒न्विश्व॑स्य॒ शत्रो॒रन॑मं वध॒स्मैः ॥६॥
+
+> *kva 1 syā vo marutaḥ svadhāsīdyanmāmekaṃ samadhattāhihatye |*
+> *ahaṃ hyu 1 grastaviṣastuviṣṭānviśvasya śatroranamaṃ vadhasmaiḥ ‖6‖*
+*[as supplied: a garbled label दवपाठः (*davapāṭhaḥ*) stands after the Saṃhitā block, for "Pada-pāṭha".]*
+**॥ पदपाठः ॥**
+> क्व । स्या । वः । मरुतः । स्वधा । आसीत् । यत् । मां । एकं । संअधत्त । अहिहत्ये ।
+> अहं । हि । उग्रः । तविषः । तुविष्मान् । विश्वस्य । शत्रोः । अनमं । वध्नस्मैः ॥ ६ ॥
+**॥ सायणभाष्यम् ॥**
+> स्या सा स्वधा तदुदकं बलं वा वो युष्माकं संबंधि क्वासीत् । नैवासिदित्यर्थः । अस्माकमुदकं त्वमनुभवसीति ब्रूथ । यद्या स्वधैकमसहायं मामहिहत्ये वृष्ट्यर्थ० मेघहननकर्मणि वृत्रवधे वा समधत्त सहितमभूत् । समासीदिति
+> संबंधः । असहायस्य कथमिति मतं सेत्स्यतीति अत आह । अहं ह्यहं खलूग्र
+> उद्धर्णबलस्तविषो बलवांस्तुविष्मान्महत्तोपेतोऽस्मि । यस्मादतिबलोऽहं
+> तस्माद्विश्वस्य कृत्स्नस्य शत्रोर्मघस्य । शत्रुरेवायं ॥ कर्मणि षष्ठी ॥ सर्व० शत्रुसंघं वधस्नैर्वधरूपैः शोधनैः । वधकौशलैरित्यर्थः । यद्वा । वध इति वज्रनाम ।
+> वधस्नैर्वज्रस्यासनैः क्षेपणप्रकारैः । अनमं।अनमयं ॥ अंतर्भावितण्यर्थोऽयं॥
+> वशीकरोमीत्यर्थः ॥
+*Gist:* Indra denies the Maruts' claim: where was their strength? He alone, fierce and mighty, subdued all enemies with his thunderbolts when Ahi was slain.
+**प्रतिपदार्थ (Pratipadārtha)**
+स्या (*syā*)—the (strength) you have described; स्वधा (*svadhā*)—power; वः (*vaḥ*)—manifesting your greatness; क्व आसीत् (*kva āsīt*)—where was it? (you had no such strength); यत् (*yat*)—that same strength which; एकं (*ekaṃ*)—without needing the help of another strength; मां (*māṃ*)—me; अहिहत्ये (*ahihatye*)—at the time of slaying Vṛtra; समधत्त (*samadhatta*)—joined; अहं हि (*ahaṃ hi*)—I alone; उग्रः (*ugraḥ*)—am terrible; तविषः (*taviṣaḥ*)—possessed of strength; तुविष्मान् (*tuviṣmān*)—endowed with greatness; वधस्नैः (*vadhasnaiḥ*)—with the thunderbolt, the instrument of slaying; विश्वस्य (*viśvasya*)—of all; शत्रोः (*śatroḥ*)—the enemies; अनमं (*anamaṃ*)—I have brought into subjection.
+**भावार्थ (Bhāvārtha)**
+O Maruts, what you say, that I slew Ahi with your help, is false. Where indeed was that strength of yours? Because my own strength is extraordinary, without needing the help of any other strength it helped me at the time of the slaying of Vṛtra. I alone am terrible, of marvellous strength, and endowed with greatness. With the thunderbolt, the instrument of slaying, I have brought all the enemies into my power.
+
+### Printed p. 698
+*Running head: 698 Sāyaṇa-bhāṣya-sahitā [मं. १. अ. २३ सू. १६५ (*maṃ. 1. a. 23 sū. 165*)] (as supplied).*
+
+*(The Bhāvārtha of Ṛk 6 continues from the previous page; it is given above in full.)*
+**Printed English**
+(Indra)—Where Maruts, has that (sacrifical) food been assigned to
+you, which, for the destruction of Ahi, was appropriated to me alone? for I
+indeed am fierce, and strong, and mighty, and have bowed down all mine
+enemies with death-dealing shafts.
+*[as supplied: a stray word पितृपूजॆयाद (*pitṛpūjèyāda*) follows the printed English and stands apart from the text; "sacrifical" is the printed spelling.]*
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+It is well known that Indra received the help of the Maruts at the time of the slaying of the asura Vṛtra. Yet when the Maruts mention this matter and ask that, in remembrance of that help, they too be given a share in the oblation that is due to Indra, Indra says that he received no help whatever from the Maruts, and that he killed all his enemies by his own strength alone.
+
+अहिहत्ये (*ahihatye*)—वृष्ट र्थं मेघहननकर्मणि वृत्रवधे वा (*vṛṣṭa rthaṃ meghahananakarmaṇi vṛtravadhe vā*). The meaning is: for the sake of rain, either the slaying of the cloud or the slaying of Vṛtra.
+
+The word ahi is read among the names of the cloud (Ni. 2-21) and among the names of water (Ni. 2-23), but here it can also be explained as a synonym for the enemy. The Nirukta-author, quoting the Ṛk
+
+दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः (*dāsapatnīrahigopā atiṣṭhanniruddhā āpaḥ paṇineva gāvaḥ*)
+(Ṛ. Saṃ. 1-32-11)
+
+and giving the derivation of the word ahi, explains it as the cloud and has shown अहिरयनादेत्यंतरिक्षे (*ahirayanādetyaṃtarikṣe*) (Ni. 2-17): the cloud is called ahi because it travels in the mid-air. Here also Sāyaṇa explains it as "the slaying of the cloud for the sake of rain". Besides this,
+
+अयमपीतरोऽहिरेतस्मादेव निर्हसितोपर्ग आहंतीति (*ayamapītaro 'hiretasmādeva nirhasitoparga āhaṃtīti*)
+(Ni. 9-17)
+
+the prefix ā joins with the root han, which gives the meaning "to fall upon", and then, shortened, obtains the derivation ahi, giving the meaning "serpent". Besides this,
+
+### Printed p. 699
+*Running head: अ. २. अ. ३. व. २५ (*a. 2. a. 3. va. 25*) Ṛgveda-saṃhitā 699 (as supplied).*
+
+योऽहिः स बुध्न्यो ऽबुध्नमंतरिक्षं तन्निवासात् (*yo 'hiḥ sa budhnyo 'budhnamaṃtarikṣaṃ tannivāsāt*)
+(Ni. 10-44)
+
+He has stated that the mid-air is called budhna and that, because he dwells in such a mid-air, ahi is called budhnya. Explaining the same meaning separately, the author of the Bṛhaddevatā too says:
+
+अहिराहंति मेघान्त्स एति ना तेषु मध्यमः । योऽहिः स बुध्यो बुद्धे हि सो०तरिक्षेभिजायते (*ahirāhaṃti meghāntsa eti nā teṣu madhyamaḥ | yo 'hiḥ sa budhyo buddhe hi so0tarikṣebhijāyate*)
+(Bṛ. De. 5-166)
+
+Ahi presses forward, resorting to the clouds, or moves among them. Because he is born in the deep mid-air, he too is called budhnya: thus the derivation of the word ahi is shown. In this sense ahi may be a serpent or an asura. Besides these meanings, cloud, an asura moving in the deep mid-air, or serpent, the word is used as an epithet of the asura Vṛtra or as his synonym:
+
+त्वं प्रति प्रवत आशयानमहिं वज्रेण मघवन्वि वृश्च (*tvaṃ prati pravata āśayānamahiṃ vajreṇa maghavanvi vṛśca*)
+(Ṛ. Saṃ. 4-17-7)
+
+In such Ṛks it is explained as अहिं वृत्रनामानमसुरं (*ahiṃ vṛtranāmānamasuraṃ*), that is, as a synonym of Vṛtra. In the whole of the 32nd sūkta of the first Maṇḍala, ahi means the cloud that pervades all around, holding back the water. Sāyaṇa's explanation is that in the present Ṛk also it may mean either the cloud or the asura Vṛtra.
+
+**Grammatical analysis (Vyākaraṇa-prakriyā)**
+*Grammar (transcribed, not explained):*
+
+स्या (*syā*)—the word tyad. When su follows, by "tadādīnām aḥ" the substitute a; the later form. In the feminine, the suffix ṭāp because it ends in a. By "tadoḥ saḥ sāv anantyayoḥ" the s for the initial t.
+
+समधत्त (*samadhatta*)—root ḍudhāñ (to hold, to nourish). Laṅ, third person singular. Because of the connection with yad, the nighāta accent does not arise. Because the augment aṭ is udātta, the form becomes initial-udātta. By Pā. Sū. 8-1-71 (tiṅ cod…) the gati (sam) becomes anudātta.
+
+अहिहत्ये (*ahihatye*)—root han (to hurt, to go). By Pā. Sū. 3-1-108 (hano ta ca) the suffix kyap, when a subanta stands as the upapada; the final n of the root becomes t. Because the suffix is marked with p, it is anudātta, so the accent of the root remains. In the compound the accent of the first member of a kṛdanta compound arises. Locative singular.
+
+### Printed p. 700
+*Running head: 700 Sāyaṇa-bhāṣya-sahitā [मं. अ. २३. सू. १६५ (*maṃ. a. 23. sū. 165*)] (as supplied).*
+
+तविषः (*taviṣaḥ*)—tavi is a root of the sautra class. By Uṇ. Sū. 1-58 the suffix ṭiṣac. In this, iṣa remains. By Pā. Sū. 6-1-163 (citaḥ) the final-udātta accent arises.
+
+अनुमम् (*anumam*)—root ṇam (to bow, and to sound). Because the action of the causer appears, it has the causative sense within it. Luṅ, first person singular. By Pā. Sū. 8-1-39 (hi ca) the prohibition of nighāta arises, so that through the accent of aṭ it becomes initial-udātta. *[as supplied: the headword is printed अनुमम् (*anumam*), while the Ṛk reads ಅನಮಂ.]* शत्रु (*śatru*) ೪- *[as supplied: so printed, the number 4 with a dash]*: the genitive (printed हष्ठि (*haṣṭhi*) *[as supplied: for ಷಷ್ಠಿ]*) has come in the sense of the object. ॥ 6 ॥
+*[as supplied: a garbled label संहिताकाररु (*saṃhitākāraru*) stands before the Saṃhitā label.]*
+
+#### Ṛk 7
+**॥ संहितापाठः ॥**
+> भूरि॑ चकर्थ॒ युज्ये॑भिर॒स्मे स॑मा॒नेभि॑वृषभ॒ पौंस्ये॑भिः ।
+> भूरी॑णि॒ हि कृ॒णवा॑मा शवि॒ष्ठेंद्र॒ क्रत्वा॑ मरुतो॒ यद्वशा॑म ॥
+> ॥ ७ ॥
+
+> *bhūri cakartha yujyebhirasme samānebhivṛṣabha pauṃsyebhiḥ |*
+> *bhūrīṇi hi kṛṇavāmā śaviṣṭheṃdra kratvā maruto yadvaśāma ‖*
+> *‖ 7 ‖*
+*[as supplied: a garbled label पददारि (*padadāri*) stands after the Saṃhitā block, for "Pada-pāṭha".]*
+**॥ पदपाठः ॥**
+> भूरि । च क र्थ । युज्येभिः । अस्मे इति । समानेभिः । वृ ष भ । पौंस्येभिः ।
+> भूरीणि । हि । कृणवाम । श वि ष्ठ । इंद्र । क्रत्वा । मरुतः । यत् । वशाम ॥ ७ ॥
+**॥ सायणभाष्यम् ॥**
+> अथैवमुक्ता इंद्रं पुनराहुः । हे इंद्र वृषभ वर्षितः त्वं भूरि चकर्थ
+> प्रभूतं कृवानसि । सत्यमेव । तथाप्यस्य अस्माकं समानेभिः समानैर्युज्येभिरस्माभिर्युक्तैः पौंस्येभिः पुंसः कर्मभिः सामर्थ्यरेव चकर्थ । नत्वेक एवेत्यर्थः ।
+> हे शविष्ठ । शव इति बलनाम । हे इंद्र बलवत्तम वयं भूरीणि हि त्वत्कृतादपि
+> प्रभूतानि कर्माणि कृणवाम । कृतवंतः स्म । हे इंद्र क्रत्वा क्रतुना कर्मणा यद्यद्वृष्टादिकं वशाम कामयामहे । तानि त्वत्तोऽप्यधिकानीत्यर्थः । यतो वयं
+> मरुतः ॥ छांदसमनु दातत्वं ॥ एतेन स्वमहत्त्वं स्थापितं भवति । स्वरो व्यस्तः ।
+> अथवा इंद्रस्येदं वाक्यं । हे मरुतः यद्यस्यॆव तत्तस्यॆव भवतु । तर्ह्यहं च
+> यूयं च सहैव क्रत्वा कर्मणा यद्वशाम यद्वष्टि कर्मॆ कामयामहे । तस्मादुदकं समानमेवेत्यर्थः । एवं मरुत इति निघातस्वरस्य व्याख्यानं ॥
+*[the Sāyaṇa-bhāṣya of Ṛk 7 ends at the end of this window; the Pratipadārtha and the rest of the Ṛk follow in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 694. Vol 12 pp. 689-694: end of Ṛk 3, Ṛk 4 with commentary, Ṛk 5 text and Sāyaṇa
+**Progress note:** Done through printed p. 700. Vol 12 pp. 695-700: end of Ṛk 5, Ṛk 6 with commentary, Ṛk 7 text and Sāyaṇa
