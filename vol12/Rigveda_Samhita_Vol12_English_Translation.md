@@ -10665,6 +10665,179 @@ Taking the impression of waking, with all its means and riches, he experiences t
 (Mā. U. 1-5)
 In this state the Self is asleep. He desires no desire. He sees no dream. At this time he is "having deep sleep as his place" *[as supplied: "ಸುಮಪ್ತಸ್ಥಾನ" is printed for "ಸುಷುಪ್ತಸ್ಥಾನ"]*, become one, a mass of knowledge, full of bliss, an enjoyer of bliss, having thought as his mouth. This is the third quarter. And the mind, objects *[as supplied: the text breaks off at the end of the page at "ಮನಸ್ಸು ವಿಷಯ" and continues in the next window.]*
 
+### Printed p. 435
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 435] (as supplied).*
+
+*[Continuing the sentence of the previous window, "And the mind, objects":]* …the objects, having become the forms of the objects, because the pain of fatigue through agitation is absent, the Self is Ānandamaya (made of bliss). He is abundant in bliss. (It does not mean "of the nature of bliss.") But this bliss does not exist even for the last ones *[as supplied: "ಕೊನೆಯವರಿಗೂ"; kept as printed]*.
+
+एष सर्वॆश्वर एष सर्वज्ञ एषोऽंतर्यामेष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानां (*eṣa sarvèśvara eṣa sarvajña eṣo 'ṃtaryāmeṣa yoniḥ sarvasya prabhavāpyayau hi bhūtānāṃ*)
+(Mā. U. 1-6) *[as supplied: "ಮಾ ಉ."]*
+
+He is the Lord of all, he is the all-knower, he is the inner controller. He is the cause of everything. He is also the origin and the dissolution of beings. Thus, having described the three quarters in due order, in order to explain the fourth quarter the next mantra begins with the sentence नांतः प्रज्ञं (*nāṃtaḥ prajñaṃ*) and describes the Self's turīya state (the fourth state) in this way.
+
+नांतःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञं । अदृष्टमव्यवहारमग्राह्यमलक्षणमचिंत्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपंचोपशमं शांतं शिवमद्वैतं चतुर्थं मन्यंते स आत्मा स विज्ञेयः (*nāṃtaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥprajñaṃ na prajñānaghanaṃ na prajñaṃ nāprajñaṃ | adṛṣṭamavyavahāramagrāhyamalakṣaṇamaciṃtyamavyapadeśyamekātmapratyayasāraṃ prapaṃcopaśamaṃ śāṃtaṃ śivamadvaitaṃ caturthaṃ manyaṃte sa ātmā sa vijñeyaḥ*)
+(Mā. U. 1-7)
+
+In this state the Self is neither inwardly knowing, nor outwardly knowing, nor a mass of knowledge, nor knowing *[as supplied: the Kannada reads "ಪ್ರಜ್ಞನೂ, ಅಲ್ಲ" with a stray comma; kept as printed]*. He is beyond transactions, without characteristic, unthinkable, the essence of the conviction of the one Self, peaceful, auspicious, non-dual: such is the Self. This Self-realisation is to be obtained; that is the aim of the one who obtains Self-realisation *[sentence as printed]*. Describing the fruit of this Self-realisation, in the Ṛk under discussion,
+
+तस्येदाहुः पिप्पलं स्वाद्वग्रे (*tasyedāhuḥ pippalaṃ svādvagre*)—तस्य परमात्मनः पिप्पलं पालकं संसारतः उद्धारकं स्वादु आस्वादनीयं अमृतत्वलक्षणं ज्ञानं (*tasya paramātmanaḥ pippalaṃ pālakaṃ saṃsārataḥ uddhārakaṃ svādu āsvādanīyaṃ amṛtatvalakṣaṇaṃ jñānaṃ*) । The knowledge that is a deliverer from saṃsāra, that is free of repeated birth, death and so on, the knowledge of the form of immortality, is the fruit of this. It is praised as the best of all other fruits such as heaven, and as endless, and so on.
+
+स यो ह वै तत्परमं ब्रह्म वेद ब्रह्मैव भवति नास्याब्रह्मवित्कुले भवति । तरति शोकं तरति पाप्मानं गुहाग्रंथिभ्यो विमुक्तोऽमृतो भवति (*sa yo ha vai tatparamaṃ brahma veda brahmaiva bhavati nāsyābrahmavitkule bhavati | tarati śokaṃ tarati pāpmānaṃ guhāgraṃthibhyo vimukto 'mṛto bhavati*)
+तदेतत्सत्यं (*tadetatsatyaṃ*).... नमः परमऋषिभ्यः (*namaḥ paramaṛṣibhyaḥ*) ॥
+(Mu. U. 3-2-9, 11)
+
+Immediately upon the realisation of this Supreme Self (Parabrahman) the Self himself becomes Brahman. In his family none without knowledge of Brahman is born. He crosses completely sorrow, and the sin that is the cause of sorrow.
+
+### Printed p. 436
+*Running head: 436 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+He becomes free from the knot of the heart and becomes immortal. This is true. Since this is the truth taught by the supreme Ṛṣis, salutation to them: thus the Muṇḍaka Upaniṣad praises the fruit obtained by this realisation and its excellence. Praising this very thing in the Kaṭha Upaniṣad also,
+
+एको वशी सर्वभूतांतरत्मा एकं रूपं बहुधा यः करोति । तमात्मस्थं येनुपश्यंति धीरास्तेषां सुखं शाश्वतं नेतरेषां (*eko vaśī sarvabhūtāṃtaratmā ekaṃ rūpaṃ bahudhā yaḥ karoti | tamātmasthaṃ yenupaśyaṃti dhīrāsteṣāṃ sukhaṃ śāśvataṃ netareṣāṃ*)
+(Kaṭha. U. 2-2-12)
+
+The one who keeps the whole world in his control, who is the inner Self of all beings, and who transforms his one form in many ways, the Supreme Self: for those wise ones who realise him in their own heart, endless happiness is obtained, but for the others it is certainly not obtained. This matter is stated precisely. Calling this very thing non-return,
+
+तमात्मस्थं येनुपश्यंति धीरास्तेषां शांतिः शाश्वती नेतरेषां (*tamātmasthaṃ yenupaśyaṃti dhīrāsteṣāṃ śāṃtiḥ śāśvatī netareṣāṃ*) ।
+(Kaṭha. 2-2-13)
+
+For such wise ones eternal peace of the Self is obtained, but not for the other ignorant ones. This point is stated in the Ṛk under discussion by तन्नोन्नशद्यः पितरं न वेद (*tannonnaśadyaḥ pitaraṃ na veda*)—for one who does not know such a protector, the Self, this fruit is certainly not obtained. तन्नोन्नशत् (*tannonnaśat*)—नशतिर्गतिकर्मा (*naśatirgatikarmā*) । तत्पलं न प्राप्नोति (*tatpalaṃ na prāpnoti*) *[as supplied: "ತತ್ಪಲಂ"]* । He does not obtain that fruit. Thus it is shown that one without knowledge of the Self has no experience of this fruit. Stating this very thing in the Muṇḍaka, and explaining that for one without such knowledge of the Supreme Self there is not merely absence of bliss but also the suffering that is birth,
+
+अविद्यायामंतरे वर्तमानाः स्वयं धीराः पंडितंमन्यमानाः ॥ जंघन्यमानाः परियंति मूढा अंधेनैव नीयमाना यथांधाः (*avidyāyāmaṃtare vartamānāḥ svayaṃ dhīrāḥ paṃḍitaṃmanyamānāḥ ‖ jaṃghanyamānāḥ pariyaṃti mūḍhā aṃdhenaiva nīyamānā yathāṃdhāḥ*)
+(Mu. U. 1-2-8)
+
+It is shown that the fools without knowledge of the Self, obtaining birth again and again, suffer greatly, and so on. Therefore तस्मादीदृशं परमेश्वरं विदित्वा मुक्तो भूयासमित्यर्थः (*tasmādīdṛśaṃ parameśvaraṃ viditvā mukto bhūyāsamityarthaḥ*) । "Therefore, having known such a Supreme Lord, the protector of the world, may I become free": the intention of the Ṛṣi is clear; with this Sāyaṇa has concluded his commentary.
+
+### Printed p. 437
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೧೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 437] (as supplied).*
+
+*[Continuing the grammar of Ṛk 22:]*
+*Grammar (transcribed, not explained):*
+मध्वदः (*madhvadaḥ*)—मधु अदंति इति मध्वदः (*madhu adaṃti iti madhvadaḥ*), root आद भक्षणे (*āda bhakṣaṇe*); by क्विप् च (*kvip ca*) (Pā. Sū. 3-2-76) the suffix kvip; by गतिकारकोपपदात्‌कृत् (*gatikārakopapadātkṛt*) (Pā. Sū. 6-2-49) the accent of the final member after a kṛt-ending applies; nominative plural form.
+नि विशंते (*ni viśaṃte*)—विश प्रवेशने (*viśa praveśane*), root; by नेर्विशः (*nerviśaḥ*) (Pā. Sū. 1-3-17) ātmanepada; laṭ, third person plural; by यद्वृत्तान्नित्यम् (*yadvṛttānnityam*) the nighāta accent is prohibited, so the vikaraṇa accent remains; by तिजिचोदात्तवति (*tijicodāttavati*) the nighāta accent comes on the gati (ni).
+सुवते (*suvate*)—सूज् प्राणिगर्भविमोचने (*sūj prāṇigarbhavimocane*), root; laṭ, third person plural. Since it follows a tiṅanta, nighāta does not come; by तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) the lasārvadhātuka becomes anudātta, so the root accent remains.
+नशत् (*naśat*)—णश अदर्शने (*ṇaśa adarśane*), used here in the sense of going; leṭ, third person singular, tip; by इतश्चलोपः प (*itaścalopaḥ pa*)—(Pā. Sū. 3-4-94) loss of i; by लेटोडाटौ (*leṭoḍāṭau*) (Pā. Sū. 3-4-49) the augment aṭ; the tiṅanta-nighāta accent comes.
+वेद (*veda*)—विदज्ञाने (*vidajñāne*), root; liṭ-ending form; because of the yad-connection nighāta does not come; since the suffix has the mark l, the adyudātta accent comes. ॥ 22 ॥
+
+*[Figure line removed: the picture repeated the Saṃhitā and Pada blocks of Ṛk 23 given below as text.]*
+
+#### Ṛk 23
+**॥ संहितापाठः ॥**
+> यद्गा॑य॒त्रे अधि॑ गाय॒त्रमाहि॑तं॒ त्रैष्टु॑भाद्वा॒ त्रैष्टु॑भं॒॑
+> नि॒रत॑क्षत ।
+> यद्वा॒ जग॒ज्जग॒त्याहि॑तं प॒दं य इत्तद्वि॒दुस्ते अ॑मृत॒त्वमा॑नशुः ॥ २३ ॥
+**॥ पदपाठः ॥**
+> यत् । गायत्रे । अधि । गायत्रं । आहितं । त्रैस्तुभात् । वा । त्रैस्तुभं । निःआतक्षत ।
+
+> *yat | gāyatre | adhi | gāyatraṃ | āhitaṃ | traistubhāt | vā | traistubhaṃ | niḥātakṣata |*
+
+### Printed p. 438
+*Running head: 438 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+> यत् । वा । जगत् । जगति । आहितं । पदं । ये । इत् । तत् । विदुः ॥ i ते ।
+> अमृतत्वं । आनशुः ॥ २३ ॥
+*[as supplied: a stray label "ಸಾಯಾಣಭಾಷ್ಯಂ" is printed before the proper heading "ಸಾಯಣಭಾಷ್ಯಂ".]*
+
+**॥ सायणभाष्यम् ॥**
+> गायत्रे अधि गायत्रमाहितं । प्राथम्यात्सर्वैः स्तुत्यत्वाच्च गायत्री भूः ।
+> तदीयं स्थानं गायत्रं । अध्युपरि तत्र गायत्रमाग्नेयं पदमाहितं । प्रथमसृष्टत्वात् गायति त्रायते चेति व्युत्पत्या च प्रजापतेर्मुखाद्दायत्रा सहोत्पन्नत्वाद्भक्ताग्निरपि गायत्रः । गायत्रोग्निः । तै. सं २-२-५-५। इति श्रुतेः। भूम्यामग्निः
+> स्थापित इति यदस्ति । तथा त्रैष्टुभाद्धि तीयत्वाद्वृष्टिपर्जन्यविद्युद्रूपत्रिस्तोभयुकादंतरिक्षात् त्रैष्टुभं स्तोभयुक्तमूर्ध्वाधस्तियर्ग्लक्षणस्तोभत्रयोपेतं
+> वायुं निरतक्कत साधु संपादितवंतो देवा इति यदस्ति । वाथवा जगति सर्वैर्गंतव्य उद्धततमे वा तृतीयभूते म्यलोके जगद्गमनशीलमादित्याख्यं पदमाहितमिति यदस्ति । तदिदं त्रिषु स्थानेषु त्रयाणामग्न्यादीनां पदाधानं य इद्य
+> एव नरा विदुः जानंति त एवामृतत्वमानशुः । अमरणरूपं पदमाप्नुवंति । इत्यधिलोकं ॥ अथाधियज्ञं । गायत्रे प्रातःसवनेऽध्युपरि गायत्रं छंदः पदमाहितमिति
+> यत् । तथा त्रैष्टुभान्माध्यंदिनात्सवनात्रॆष्टुभं छंदो निरतक्षत तत्र आहितमिति
+> यत् । वा किंचेत्यर्थः । जगति तृतीयसवने जगज्जागतं पदमाहितमिति यत् !
+> तत्तादृशं सवनत्रयेषु छंदस्त्रयसंस्थानं ये नरा विदुः यजमाना विदुः जानंति
+> तेऽमृतत्वं ज्ञानानुष्ठानद्वारेण मोक्षमानशुः । आप्पुवंति । अथवा गायत्रे प्रात
+> सवने । त्रिषु सवनेषु छंदस्रयपरिमाणात् सवनान्यपि तत्तच्छंदः शब्देनोच्यंते ।
+> गायत्रं प्रातःसवनं त्रैष्टुभं माध्यंदिनं सवनं जागतं तृतीयसवनमिति श्रुतेः ।
+> तै. सं. २-२-९-५, ६ । तादृशे प्रातःसवनेऽध्युपरि गायत्रमष्टाक्षरात्मकमाहावप्रति
+> गररूपं गायत्रं पदमाहितं । तद्यथा होता शोंसावोमिति त्रैक्षरेण तथा
+> शंसामोदैवोमिति पंचाक्षरेणाध्वर्युः प्रतिगृणाति । तन्निलिश्वाष्टाक्षरं संपद्यते ।
+> तच्चाष्टाक्षरं गायत्रिसदृशं तस्या आपि पादस्याष्टाक्षरत्वात् । इदमेकं प्रातःसवन
+> रूपे गायत्रपदप्रतिष्ठापनं । तथा सवनांतेऽपि शंसनानंतरमुक्थं वाचीति चतुरक्षरमाह । ओमुक्थशा इति चतुरक्षरमद्वयुः । तदष्टाक्षरं संपद्यते । एतदेकं
+> परं गायत्रे गायत्रस्थापनं । तथा त्रैष्टुभान्माध्यंदिनसवनात्रॆष्टुभमाहाव
+> प्रतिगरणरूपं पदं निरतक्षत ऋत्विजः । तद्यथा माध्यंदिनसवने होताध्वयो
+> शोंसावोमित्याहूयते षडक्षरेण अध्वर्युश्च शंसामोदैवोमिति पंचाक्षरेण
+> प्रतिगृणाति । तन्निलित्कैकादशाक्षरं संपद्यते । इदमेकं माध्यंदिनसवनाद् त्रैष्टुभे
+
+> *gāyatre adhi gāyatramāhitaṃ | prāthamyātsarvaiḥ stutyatvācca gāyatrī bhūḥ |*
+> *tadīyaṃ sthānaṃ gāyatraṃ | adhyupari tatra gāyatramāgneyaṃ padamāhitaṃ | prathamasṛṣṭatvāt gāyati trāyate ceti vyutpatyā ca prajāpatermukhāddāyatrā sahotpannatvādbhaktāgnirapi gāyatraḥ | gāyatrogniḥ | tai. saṃ 2-2-5-5| iti śruteḥ| bhūmyāmagniḥ*
+> *sthāpita iti yadasti | tathā traiṣṭubhāddhi tīyatvādvṛṣṭiparjanyavidyudrūpatristobhayukādaṃtarikṣāt traiṣṭubhaṃ stobhayuktamūrdhvādhastiyarglakṣaṇastobhatrayopetaṃ*
+> *vāyuṃ niratakkata sādhu saṃpāditavaṃto devā iti yadasti | vāthavā jagati sarvairgaṃtavya uddhatatame vā tṛtīyabhūte myaloke jagadgamanaśīlamādityākhyaṃ padamāhitamiti yadasti | tadidaṃ triṣu sthāneṣu trayāṇāmagnyādīnāṃ padādhānaṃ ya idya*
+> *eva narā viduḥ jānaṃti ta evāmṛtatvamānaśuḥ | amaraṇarūpaṃ padamāpnuvaṃti | ityadhilokaṃ ‖ athādhiyajñaṃ | gāyatre prātaḥsavane 'dhyupari gāyatraṃ chaṃdaḥ padamāhitamiti*
+> *yat | tathā traiṣṭubhānmādhyaṃdinātsavanātrèṣṭubhaṃ chaṃdo niratakṣata tatra āhitamiti*
+> *yat | vā kiṃcetyarthaḥ | jagati tṛtīyasavane jagajjāgataṃ padamāhitamiti yat !*
+> *tattādṛśaṃ savanatrayeṣu chaṃdastrayasaṃsthānaṃ ye narā viduḥ yajamānā viduḥ jānaṃti*
+> *te 'mṛtatvaṃ jñānānuṣṭhānadvāreṇa mokṣamānaśuḥ | āppuvaṃti | athavā gāyatre prāta*
+> *savane | triṣu savaneṣu chaṃdasrayaparimāṇāt savanānyapi tattacchaṃdaḥ śabdenocyaṃte |*
+> *gāyatraṃ prātaḥsavanaṃ traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ jāgataṃ tṛtīyasavanamiti śruteḥ |*
+> *tai. saṃ. 2-2-9-5, 6 | tādṛśe prātaḥsavane 'dhyupari gāyatramaṣṭākṣarātmakamāhāvaprati*
+> *gararūpaṃ gāyatraṃ padamāhitaṃ | tadyathā hotā śoṃsāvomiti traikṣareṇa tathā*
+> *śaṃsāmodaivomiti paṃcākṣareṇādhvaryuḥ pratigṛṇāti | tanniliśvāṣṭākṣaraṃ saṃpadyate |*
+> *taccāṣṭākṣaraṃ gāyatrisadṛśaṃ tasyā āpi pādasyāṣṭākṣaratvāt | idamekaṃ prātaḥsavana*
+> *rūpe gāyatrapadapratiṣṭhāpanaṃ | tathā savanāṃte 'pi śaṃsanānaṃtaramukthaṃ vācīti caturakṣaramāha | omukthaśā iti caturakṣaramadvayuḥ | tadaṣṭākṣaraṃ saṃpadyate | etadekaṃ*
+> *paraṃ gāyatre gāyatrasthāpanaṃ | tathā traiṣṭubhānmādhyaṃdinasavanātrèṣṭubhamāhāva*
+> *pratigaraṇarūpaṃ padaṃ niratakṣata ṛtvijaḥ | tadyathā mādhyaṃdinasavane hotādhvayo*
+> *śoṃsāvomityāhūyate ṣaḍakṣareṇa adhvaryuśca śaṃsāmodaivomiti paṃcākṣareṇa*
+> *pratigṛṇāti | tannilitkaikādaśākṣaraṃ saṃpadyate | idamekaṃ mādhyaṃdinasavanād traiṣṭubhe*
+
+### Printed p. 439
+*Running head: [ಆ. ೨. ಆ. ೩. ವ ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 439] (as supplied).*
+
+> त्रैष्टुभाधानं । तथा सवनांतेऽपि शंसनानंतरमुक्तं वाचि इंद्रायेति सप्ताक्षरमाह । अध्वर्युश्चोमुक्तशा इति चतुरक्षरेण प्रतिगृणाति । तन्निलित्वैकादशाक्षरं
+> संपद्यते । इदमपरं त्रैष्टुभे त्रैष्टुभस्थापनं । तथा तृतीयसवने होताध्वयो
+> शोंशोंसावोमिति सप्ताक्षरेणाहूयते शंसामोदैवोमिति पंचाक्षरेणाध्वर्युः प्रतिगृणाति । द्वादशाक्षरं भवति । तदिदं प्रथमं जागते जागतोत्पादनं । तथा
+> पश्चादपि शंसनानंतरमाह उक्धं वाचि इंद्राय देवेभ्य इति । एतदेवैकादशाक्षरं
+> भवति । अध्वर्युश्चोमित्येकाक्षरेण प्रतिगृणाति । तदुभयं मिलित्वा द्वादशाक्षरं
+> भवति । तदिदमपरं जागते जागतपदस्थापनं । एवं त्रिषु छंदःसु त्रिषु गायत्रादिसवनेषु गायत्रादिछंदस्त्रयपदप्रतिष्ठापनं । एतत्सर्वमैतरेयब्राह्मणे देवविशः
+> कल्पयितव्या इति खंडे विस्पष्टमाम्नातं । १-९ । तत्तादृशं छंदसि छंदःस्थापनं य
+> इत्तद्विदुः य एव जानंति त एवामृतत्वमानशुः । प्राप्नुवंत्यनुष्ठानद्वारा । एवमजानंतोऽनुष्ठानेनापि फलं न प्राप्न्नुवंतीत्यर्थः । तस्य साकल्याभावादिति भावः ॥
+*Gist:* Sāyaṇa takes the three stations as earth/Agni, firmament/Vāyu, sky/Āditya, and in the rite as the three savanas with their metres, counted by syllables of the calls; knowers attain immortality.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+गायत्रे अधि (*gāyatre adhi*)—on the earth; गायत्रं (*gāyatraṃ*)—the station of Agni; आहितं (*āhitaṃ*)—is established, such; यत् (*yat*)—whatever truth there is, that also; वा (*vā*)—or; त्रैष्टुभात् (*traiṣṭubhāt*)—from the firmament; त्रैष्टुभं (*traiṣṭubhaṃ*)—the station of Vāyu; निरतक्षत (*niratakṣata*)—(the gods) fashioned (whatever truth there is that they fashioned, that also); वा (*vā*)—or; जगति (*jagati*)—in the heavenly world; जगत् (*jagat*)—named after Āditya; पदं (*padaṃ*)—the station; आहितं (*āhitaṃ*)—is established, such; ये (*ye*)—whatever truth there is; तत् (*tat*)—that; य इत् (*ya it*)—whoever indeed; विदुः (*viduḥ*)—knows; ते (*te*)—they; अमृतत्वं (*amṛtatvaṃ*)—the station free of death; आनशुः (*ānaśuḥ*)—obtain.
+*[as supplied: the stray label "ಭಾಷಾರ್ಥ" is printed before the proper heading "ಭಾವಾರ್ಥ".]*
+
+**भावार्थ (Bhāvārtha)**
+Whatever truth there is that the station of Agni *[as supplied: "ಆಗ್ನಿಯ"]* is established on the earth, whatever truth there is that the gods fashioned the station of Vāyu from the firmament, or whatever truth there is that the station of Āditya is established in the heavenly world: the man who knows all this by his own knowledge obtains the station free of death.
+
+**Printed English**
+They who know the station of Agni upon the earth ; the station of
+Vayu that was fabricated from the firmament; and that station of the Sun
+which is placed in heaven, obtain immortality.
+
+### Printed p. 440
+*Running head: 440 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The station of Gāyatra is established in Gāyatra. The station of Traiṣṭubha was fashioned from Traiṣṭubha itself. The station of Jagat is established in Jagatī itself. That knowledge of these truths is absolutely necessary for a man to obtain immortality is the summary of the meaning of this Ṛk. If looked at merely from the poetic point of view, there is the charm of verbal ornament. If examined from the point of view of the mantra, its meaning is very profound. It is described that the all-pervading Supreme Self is established in various stations, and that in those stations he has manifested with his embodied form; and it is said that from the knowledge of these manifestations perfect knowledge is obtained and immortality is attained. If we examine what hidden meaning lies within this verbal ornament:—
+
+यद्गायत्रे अधि गायत्रमाहितं (*yadgāyatre adhi gāyatramāhitaṃ*)—When it says "on Gāyatra, Gāyatra is placed", the first word gāyatra is explained as the earth, and the second word gāyatra as आग्नेयं पदं (*āgneyaṃ padaṃ*) (the station of Agni). Explaining how the name Gāyatra became well known for the earth, प्राथम्यात् स्तुत्यत्वाच्च गायत्रि भूः (*prāthamyāt stutyatvācca gāyatri bhūḥ*): because it is first of all in creation and because it is most worthy of praise, an identity of Gāyatrī and the earth is stated, as Sāyaṇa explains. Support for this can also be shown from the Śruti passages. For example:
+
+सोऽन्वाह । अग्निं दूतं वृणीमह इति देवाश्च वासुराश्चोभये प्राजा पत्याः पस्पृधिरे तान्त्सपृर्धमानानांयत्र्यंतरा तस्थौ या वै सा गायत्र्यासीदियं वै सा पृथिवीयग्ं हैव तदंतरा तस्थौ ता उभय एव विदां चक्रुः (*so 'nvāha | agniṃ dūtaṃ vṛṇīmaha iti devāśca vāsurāścobhaye prājā patyāḥ paspṛdhire tāntsapṛrdhamānānāṃyatryaṃtarā tasthau yā vai sā gāyatryāsīdiyaṃ vai sā pṛthivīyagṃ haiva tadaṃtarā tasthau tā ubhaya eva vidāṃ cakruḥ*) ॥
+(Śat. Brā. 1-4-1-34)
+
+*[Translation of the Kannada rendering:]* While they were contending, Gāyatrī stood between them to mediate. The meaning is that this earth itself, in the form of that Gāyatrī, stood between them. Then they understood that victory belongs to those on whose side the earth in the form of Gāyatrī is, and defeat to the other group: so says the Brāhmaṇa passage. In commenting on it Sāyaṇa explains in his bhāṣya in this way.
+
+योत्स्यमानांस्तान्निवारयितुं गायत्री मध्ये प्रादुर्भूत्वा सेयं पृथिव्येव । मेरोग्रभागे हि अमरावती नाम नगरी तस्यां हि देवाः तथा मेरोरधस्ताद्भागे च यत् इरामुखं नाम नगरं तस्मिन्‌ह्यसुरा निवसंति तयोर्मध्यॆ पृथिवी वर्तत इति ह शब्दद्योतित शास्त्रप्रसिद्धिः (*yotsyamānāṃstānnivārayituṃ gāyatrī madhye prādurbhūtvā seyaṃ pṛthivyeva | merograbhāge hi amarāvatī nāma nagarī tasyāṃ hi devāḥ tathā meroradhastādbhāge ca yat irāmukhaṃ nāma nagaraṃ tasminhyasurā nivasaṃti tayormadhyè pṛthivī vartata iti ha śabdadyotita śāstraprasiddhiḥ*) ।
+(Sā. Bhā. 1-4-1-34)
+
+### Printed p. 441
+*Running head: ಆ. ೨. ಆ. ೩. ವ. ೧೮ । ಹುಗ್ವೇದಸಂಹಿತಾ 441 (as supplied: "ಹುಗ್ವೇದಸಂಹಿತಾ" for "ಋಗ್ವೇದಸಂಹಿತಾ"; the head stood unmarked inside the page of the preceding text and was set off by the script).*
+
+While the gods and the asuras were contending, Gāyatrī became the mediator. This earth is that Gāyatrī. The purport of this is as follows. At the top of Meru there is a city named Amarāvatī. In it the gods *[as supplied: "ವೇವತೆಗಳು" for "ದೇವತೆಗಳು"]* dwell. In the lower part of Meru there is a city named Irāvatī. In it the asuras dwell. That the earth lies between these two cities is indicated by the word ha: such is the well-known tradition of the śāstra; this is Sāyaṇa's opinion. Like this, the identity of Gāyatrī and the earth is stated also in the Chāndogya Upaniṣad.
+
+गायत्री वा इदं सर्वं भूतं यदिदं किंच वाग्वै गायत्री वाग्वा इदं सर्वं भूतं गायति च त्रायते च या वै सा गायत्रीयं नाव सा येयं पृथिव्यस्यां हीदं सर्वं भूतं प्रतिष्ठितमेतामेव नातिशीयते (*gāyatrī vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiṃca vāgvai gāyatrī vāgvā idaṃ sarvaṃ bhūtaṃ gāyati ca trāyate ca yā vai sā gāyatrīyaṃ nāva sā yeyaṃ pṛthivyasyāṃ hīdaṃ sarvaṃ bhūtaṃ pratiṣṭhitametāmeva nātiśīyate*) ॥
+या वै सा पृथिवीयं नाव सा यदिदमस्मिन्पुरुषे शरीरमस्मिन्हीमे प्राणाः प्रतिष्ठिता एतदेव नातिशीयंते (*yā vai sā pṛthivīyaṃ nāva sā yadidamasminpuruṣe śarīramasminhīme prāṇāḥ pratiṣṭhitā etadeva nātiśīyaṃte*) ॥
+(Bhā. U. 3-12-1 to 3) *[as supplied: "ಭಾ. ಉ." although the passage is introduced as from the Chāndogya; kept as printed]*
+
+In this Upaniṣad sentence, which teaches identity, the characteristic stated by Sāyaṇa in the Ṛk under discussion is found. इदं सर्वं भूतं प्राणिजातं यत्किंच स्थावरं जंगमं वा तत्सर्वं गायत्रेव (*idaṃ sarvaṃ bhūtaṃ prāṇijātaṃ yatkiṃca sthāvaraṃ jaṃgamaṃ vā tatsarvaṃ gāyatreva*)—(Śaṃ. Bhā.). All beings, both those of the nature of the immovable and those of the nature of the moving, are forms of this Gāyatrī. Speech is Gāyatrī. The name Gāyatrī became well known because she praises (gāyati) and protects (trāyate) all beings. Moreover, since all beings are established in this earth, this earth is Gāyatrī. Thus it is shown that in many places the name Gāyatrī is well known for the earth. When it is said that the station of Gāyatra (Agni) is established on this Gāyatra, an identity of Agni and Gāyatrī is stated. Explaining how this is so, Sāyaṇa says गायत्रं आग्नेयं पदं आहितं । प्रथमसृष्टत्वात् । गायति त्रायते च इति व्युत्पत्ता च प्रजापतेर्मुखात् गायत्रा सह उत्पन्नत्वात् भक्त्या अग्निरपि गायत्रः (*gāyatraṃ āgneyaṃ padaṃ āhitaṃ | prathamasṛṣṭatvāt | gāyati trāyate ca iti vyutpattā ca prajāpatermukhāt gāyatrā saha utpannatvāt bhaktyā agnirapi gāyatraḥ*): as said before, whether because of being of the nature of the two actions, praising and protecting, or because Agni too was manifested together with Gāyatrī from the mouth of Prajāpati, it may be said that gāyatra here is a word that is a synonym of Agni. And to show support for his explanation, from the Taittirīya Saṃhitā,
+
+अष्टाक्षरा गायत्री गायत्रोऽग्निः (*aṣṭākṣarā gāyatrī gāyatro 'gniḥ*) ।
+(Tai. Saṃ. 2-2-5-5)
+
+*[as supplied: the text of this window ends here, after the reference; it continues in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 434. Special Topics of Ṛk 22 (Taittirīya Āraṇyaka, Bṛhadāraṇyaka, Māṇḍūkya passages)
+**Progress note:** Done through printed p. 441. Vol 12 pp. 435-441: end of Māṇḍūkya/Muṇḍaka/Kaṭha citations, Ṛk 22 grammar, Ṛk 23 (1.164.23) text, bhāṣya, special topics begin
