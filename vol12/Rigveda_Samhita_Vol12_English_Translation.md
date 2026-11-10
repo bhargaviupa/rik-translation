@@ -5156,6 +5156,69 @@ From sentences such as these it is described that the killer is a different pers
 
 O horse, the juice and other parts that fall down and spill out of the vessel while your dead body is being cooked in the fire, and the part (piece or fragment) that slips and falls from the spit while the flesh is pierced and roasted, whether they fall on the ground or on the spread darbha grass, may they not be wasted but be offered to the gods who love the oblation.
 
+### Printed p. 188
+
+*Running head: 188 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).* (Sūkta 162, Ṛk 11.)
+
+**Printed English translation**
+
+Whatever (portion) of your slaughtered (body) fall from your carcase when it is being roasted by the fire, (escaping) from the spit : let it not be left on the ground, nor on the (sacred) grass, but let it (all) be given to the longing gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The main idea: when the flesh of the sacrificial horse is put, for the offering, into the large vessel like a big cauldron called "ukhā" and is being cooked, a little may boil over and spill out of the vessel. Or, when it is stirred with implements such as a ladle, some portion may fall on the ground. Besides the method of cooking flesh, there is also the roasting of it by piercing a piece of flesh with a long rod (śūla, "spit") and holding it over the fire. When roasting in this way, one or two small pieces may slip from the rod and fall. The seer prays that such pieces of flesh fallen down may not cling to the earth and be wasted but be offered to the gods.
+
+यत्ते गात्रात् (*yatte gātrāt*)—in the ṛk the use of the words "te", "your", addressing the horse, refers to the dead horse; is not this usage contradictory? It is not so. It need not be said that the seer recited this mantra while the horse was being killed and its flesh cooked; it should be understood that, before the killing of the horse, indicating the rite that may take place later, he is addressing the horse.
+
+शूलं (*śūlaṃ*)—a long rod (spit). It is common even now to roast flesh by piercing it with a rod and holding it over the fire. Or, when cooking flesh in a large vessel, a long rod (or ladle) is used to stir it from time to time. In both these situations it is possible that some portion of the flesh may fall on the ground. The seer's intention is that the portion so fallen may not be wasted but be offered to the gods. The word "śūla" occurs in the Ṛgveda only in this ṛk and nowhere else.
+
+तृणेषु—विशसनसमये दर्भेषु मापगच्छतु । (*tṛṇeṣu—viśasanasamaye darbheṣu māpagacchatu |*) May the part that falls on darbha grass when the horse's body is being cut not be wasted. In performing sacrifices and the like it is the custom to invite the gods and to prepare a seat for them to come and sit, by spreading on the ground the darbha grass called "barhis". In the same way it is the practice to place the sacrificial materials too, such as the sacrificial vessels (ghee vessels and the like), the oblation, the food and the puroḍāśa,
+
+### Printed p. 189
+
+*Running head: [ಅ. ೨. ಅ. ೩ ವ. ೯.] Ṛgveda-saṃhitā 189 (as supplied).*
+
+on darbha spread on the ground. Therefore, when the dead body of the horse is cut, since the body is then on darbha, the blood, flesh and the like that fall fall on the darbha. Or, since here, without a word indicating darbha such as "barhis", तृणेषु (*tṛṇeṣu*) is said, "on grass", and since grass generally grows on the ground, it may also mean the blood and flesh that may fall on grass.
+
+रातं (*rātaṃ*)—the word "rātam", derived from the root "rā dāne", which means "give", means giving, donating or offering.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses गात्रात् (*gātrāt*) (ಉ. ಸೂ. 4-608, abbreviation as printed), पच्यमानात् (*pacyamānāt*) (Pā. Sū. 3-1-67, 7-2-82 and 6-1-186), निहतस्य (*nihatasya*) (Pā. Sū. 6-4-37 and 6-2-49), अवधावति (*avadhāvati*) (Pā. Sū. 8-1-71), श्रिषत् (*śriṣat*) (Pā. Sū. 3-3-175, 3-1-55 and 6-4-74), उशद्भ्यः (*uśadbhyaḥ*) (the number of the Pā. Sū. 6-1-16 is split over two lines) and, on p. 190, रातम् (*rātam*), with the accents; it ends with the mark ॥ ೧೧ ॥.
+
+### Printed p. 190
+
+*Running head: 190 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).* (The grammar of Ṛk 11 ends here.) *[A stray line ":0:" follows in the supplied text; kept in kn.md as an italic note.]*
+
+#### Ṛk 12
+
+*[The Saṃhitā, the Pada and the bhāṣya stood in one block in the supplied text, with the garbled labels "। ಚದರದಿ ।" (for the Pada) and "॥ ಸಾಯಣಭಾಷ್ಯಂ ।." (for the bhāṣya) inside it. The block is split, the standard labels are inserted and the garbled words kept in kn.md as italic notes; the hyphenated line breaks are joined. The Saṃhitā has "ಮಾಂಸಭಿಕ್ಷಾಂ" where this verse was quoted earlier (in the Special Topics of Ṛk 6) with "ಮಾಂಸಭೀಕ್ಷಾ"; kept as supplied.]*
+
+**॥ संहितापाठः ॥**
+
+> ये वा॒जिनं॑ परि॒पश्यं॑ति प॒क्वं य ई॑मा॒हुः सु॑र॒भिर्निर्ह॒रेति॑।
+> ये चार्व॑तो मांसभि॒क्षामु॒पास॑त उ॒तो तेषा॑म॒भिगू॑र्तिर्न इन्वतु ॥ १२ ॥
+
+**॥ पदपाठः ॥**
+
+> ये । वाजिनं । परिपश्यंति । पक्वं । ये । ईं । आहुः । सुरभिः । निः । हर । इति ।
+> ये । च । अर्वतः । मांसभिक्षां । उपासते । उतो इति । तेषां । अभिगूर्तिः ।
+> नः । इन्वतु ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> ये पक्वं वाजिनमश्वमश्वावयवं परिपश्यंति परितः पावनबुद्ध्येक्षंते । य
+> ईं ये चैनं सुरभिः शोभनगंधोऽतो निर्हर किंचिदप्यस्मभ्यं देहीत्याहुः ।
+> यद्वा । निःशेषेण देवेभ्यो हरेत्याहुः । यतः सुरभिः अतो देवयोग्यमिति ।
+> किंच ये चार्वतो मांसभिक्षामुपासते ये नरा अस्यार्वतोऽश्वस्य हुतशिष्टमांसयाचनामुपासते कांक्षंते । उतो अपि च तेषामुक्तविधानामभिगूर्तिरभित उद्यमनं नोऽस्मानिन्वतु । व्याप्नोतु । यथास्माभिरश्व उपालब्ध एवं
+> स्पृहयंति तथा यज्ञो निर्वाहयत्वित्यर्थः ॥ यद्वा । मंत्रो देवपरो
+> व्याख्येयः । ये देवा वाजिनं पक्वं परिपश्यंति कदा होष्यतीति विलंबं दृष्टा ३
+> ये च सुरभिरी मेनं निर्हर निःशेषेणास्मभ्यं देहीत्याहुः ये चार्वतोऽश्वस्य
+> मांसभिक्षामुपासते तेषामभिगूर्तिर्न इन्वतु । तेषामुद्यमः सफलो भवत्वि
+> त्यर्थः॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): those who look at the cooked horse, saying it smells good and asking a share, and those who beg its flesh: may their effort prosper.]*
+
 ---
 
-**Progress note:** Done through printed p. 187 (PDF 187). Sūkta 162 Ṛk 10 English to grammar; Ṛk 11 Saṃhitā to Bhāvārtha
+**Progress note:** Done through printed p. 190 (PDF 190). Sūkta 162 Ṛk 11 English to grammar; Ṛk 12 Saṃhitā, Pada, bhāṣya
