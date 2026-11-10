@@ -3956,6 +3956,88 @@ Thus all the śruti sentences say that Vāyu, who is in the atmosphere, is the i
 
 *Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses सुषुप्वांसः (*suṣupvāṃsaḥ*) (root printed इष्टप् (*iṣṭap*); Pā. Sū. number printed "೩-೨ ೧೦೭" without a hyphen, not cited), अपृच्छत (*apṛcchata*) (Pā. Sū. 3-4-6), अगोह्य (*agohya*) (Pā. Sū. 6-1-198), अबूबुधत् (*abūbudhat*) (root बुध (*budha*); Pā. Sū. 3-1-26, 3-1-48, 6-1-11, 7-4-93, 7-4-94 and 6-4-51), बस्तः (*bastaḥ*), बोधयितारम् (*bodhayitāram*) (Pā. Sū. 6-1-163), अब्रवीत् (*abravīt*), अद्य (*adya*) (the sūtra number is printed "೬-೦-೧೩೬", not cited) and अख्यत (*akhyata*) (Pā. Sū. 3-1-52 and 6-4-64), with the accents; it ends with the mark ॥ ೧೩ ॥. *[A stray line "ਃ੦ਃ" in Gurmukhi letters ends the supplied text; kept in kn.md as an italic note.]*
 
+### Printed p. 141
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೬ ] Ṛgveda-saṃhitā 141 (as supplied).*
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> दि॒वा यां॑ति म॒रुतो॒ भूम्या॒ग्निर॒यं वातो॑ अं॒तरि॑क्षेण
+> याति ।
+> अ॒द्भिर्या॑ति॒ वरु॑णः समु॒द्रैर्यु॒ष्मा इ॒च्छंतः॑ शवसो
+> नपातः ॥ १४ ॥
+
+**॥ पदपाठः ॥**
+
+*[Variants between Saṃhitā and Pada kept as supplied: the Pada has अत्भिः (*atbhiḥ*), समुद्रॆः (*samudrèḥ*) and शव सः (*śava saḥ*) (with a space) where the Saṃhitā has "ಅದ್ಭಿಃ", "ಸಮುದ್ರೈಃ" and "ಶವಸೋ".]*
+
+> दिवा । यांति । मरुतः। भूम्या । अग्निः । अयं । वातः । अंतरिक्षेण । याति ।
+> अत्भिः । याति । वरुणः । समुद्रॆः । युष्मान् । इच्छंतः । शव सः । नपातः ॥ १४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined. The supplied text has "ಆಗ." with a stop for the hyphen at one line end ("ಆಗ.-ಚ್ಛಂತಿ"), kept as supplied, and a stray "॥ ॥ ೬ ॥" at the end of the bhāṣya, kept as supplied. The Pratipadārtha stood inside this block after the garbled label "ಪ್ರಸಿಪದಾರ್ಥ".]*
+
+> हे शवसो वृष्टिकार्यस्य बलस्य नपातो नपातयितार ऋभवः युष्मानिच्छंतो वृष्ट्यनुकूलचिकीर्षया युष्मानेवेच्छंतः सर्वॆ देवा आयांति ।
+> कस्मादिति तदुच्यते । मरुतो वृष्ट्यनुकूला देवा दिवा द्युलोकाद्यांति । आग.
+> च्छंति ॥ सावेकाच इति तृतीयानिभक्तेरुदात्तत्वं ॥ भूम्या भूमेः सकाशादग्निर्याति । आगच्छति । अयं वातः सर्वदा संचारी वायुरंतरिक्षेण याति । अंतरिक्षादायाति । तथा वरुण आवरको जलाभिमानी देवः समुद्रॆः समुंदनस्वभावैरद्भिः ताभ्य आयाति । यद्वा । पूर्व० वृष्टिसाहाय्यायागता एते देवाः कृतकार्याः संतः पुनर्युष्मान्कामयमानाः स्वस्वदेशं प्रति यांतीत्यर्थः ॥ ॥ ६ ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Ṛbhus, sons of strength: desiring you, the Maruts come from the sky, Agni from the earth, Vāyu from the atmosphere, Varuṇa with waters; or they go home.]*
+
+*[The label of the Pratipadārtha is garbled in the supplied text ("ಪ್ರಸಿಪದಾರ್ಥ"); the standard label is inserted, the garbled word kept in kn.md as an italic note, and the text moved out of the bhāṣya block.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+शवसः नपातः (*śavasaḥ napātaḥ*)—O Ṛbhus, who urge on the power that takes the form of rain (or, O Ṛbhus, sons of strength); युष्मान् इच्छंतः (*yuṣmān icchaṃtaḥ*)—desiring you; मरुतः (*marutaḥ*)—the Maruts; दिवा (*divā*)—from the heavenly world; यांति (*yāṃti*)—come; अग्निः (*agniḥ*)—Agni; भूम्या (*bhūmyā*)—from the earth (comes); अयं वातः (*ayaṃ vātaḥ*)—this Vāyu; अंतरिक्षेण (*aṃtarikṣeṇa*)—from the atmosphere; याति (*yāti*)—comes; वरुणः (*varuṇaḥ*)—the god Varuṇa; समुद्रॆः (*samudrèḥ*) *[so printed]*—with the waters (of the atmosphere) that have a flowing nature; अद्भिः (*adbhiḥ*)—with waters; याति (*yāti*)—comes.
+
+### Printed p. 142
+
+*Running head: 142 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ- ೧೬೧.] (as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+
+O Ṛbhus, sons of strength, desiring you, the Maruts come from the heavenly world, Agni from the earth, Vāyu from the atmosphere, and Varuṇa also, with the waters that are in the atmosphere.
+
+**Printed English translation**
+
+Sons of Strength, the Maruts, desirous of your coming, advance from the sky : Agni comes (to meet you) from the earth : the wind traverses the firmanent [sic] ; and Varuna comes with undulating waters.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+For the words "yāti" and "yānti" Sāyaṇa has given one meaning by adding the prefix "ā" and another without it. According to the first meaning, the gods named in the ṛk come, to help the shedding of rain, from various directions, desiring the company of the ray. According to the second explanation, since, by the sentence संवत्सर इदमद्या व्यख्यत (*saṃvatsara idamadyā vyakhyata*) of the previous ṛk, the rainy season has ended, all the gods set out for their own appointed places, so as to help the shining of the ray.
+
+श्वानं बस्तो बोधयितारमब्रवीत् । (*śvānaṃ basto bodhayitāramabravīt |*) In the previous ṛk the chief help of Mātariśvan was told. In the present ṛk, for the same work of raining, the collective help of the gods Maruts, Agni, Vāta and Varuṇa is indicated. To know the relation between the fall of rain and these gods, one must know the individual nature of these gods and their mutual relation.
+
+Mātariśvan, Vāyu and Maruts: in the conventional sense now current, these names are well known as mere synonyms of Vāyu. But in the Ṛgveda-saṃhitā these names have different significations. Those significations are examined here only from the point of view of the fall of rain described in the present ṛk.
+
+The Ṛbhus (the rays of the sun) are the means of the fall of rain. Mātariśvan is their helper. Both these divine functions are transformations of Agni in the form of lightning. Since the Ṛbhus are plainly said to be the rays of the sun, there is no reason for doubt there. But as to what the relation is between Mātariśvan, a transformation of Vāyu, and Agni, in some ṛks the identity of the two deities is stated.
+
+### Printed p. 143
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೬. ] Ṛgveda-saṃhitā 143 (as supplied).*
+
+तनूनपादुच्यते गर्भ आसुरो नराशंसो भवति यद्विजायते । (*tanūnapāducyate garbha āsuro narāśaṃso bhavati yadvijāyate |*)
+मातरिश्वा यदमिमीत मातरि वातस्य सर्गो अभवत्सरीमणि ॥ (*mātariśvā yadamimīta mātari vātasya sargo abhavatsarīmaṇi ‖*) (Ṛ. Saṃ. 3-29-11)
+
+When Agni is in the form of an embryo he is called "tanūnapāt". When he forms and makes manifest his radiance in the atmosphere he is called "Mātariśvan": thus Mātariśvan is said to be a transformation of the Agni that is in the atmosphere.
+
+स मातरिश्वा पुरुवारपुष्टिर्विदद्गातुं तनयाय स्वर्वित् । (*sa mātariśvā puruvārapuṣṭirvidadgātuṃ tanayāya svarvit |*)
+विशां गोपा जनिता रोदस्योर्देवा अग्निं धारयन्द्रविणोदां ॥ (*viśāṃ gopā janitā rodasyordevā agniṃ dhārayandraviṇodāṃ ‖*) (Ṛ. Saṃ. 1-96-4)
+
+In this, Sāyaṇa explains मातरि सर्वस्य जगतः निर्मातरि अंतरिक्षे श्वसन् वर्तमानः । (*mātari sarvasya jagataḥ nirmātari aṃtarikṣe śvasan vartamānaḥ |*) as the Agni in the atmosphere, who is the maker of the whole world; and Skandasvāmin has explained मातरिश्वसंबंधादग्निरेव मातरिश्वेत्युच्यते (*mātariśvasaṃbaṃdhādagnireva mātariśvetyucyate*) *[the hyphenated line break "ಮಾತರಿ-ಶ್ವೇತ್ಯುಚ್ಯತೇ" is joined]* as: because of connection with Mātariśvan (Vāyu), that is, because Mātariśvan is the cause of the manifestation of Agni, Agni too has the name Mātariśvan.
+
+It was explained earlier that the god Vāyu, who is in the atmosphere and, as explained in the Special Topics of the previous ṛk, is the presiding deity of the atmosphere, is also only a transformation of Agni. The changed state of the Agni in the form of lightning that causes rain is called by names such as Mātariśvan and Vāyu.
+
+वरुणः समुद्रॆरद्भिर्याति (*varuṇaḥ samudrèradbhiryāti*)—in saying that Varuṇa comes with the waters that are in the atmosphere, the mutual relation of water and Varuṇa is also stated. "Samudra" here means the atmosphere. (The explanation of this has been given in great detail earlier.) The relation of Varuṇa to rain will be told later.
+
+In the present ṛk it is explained that the gods beginning with Mātariśvan, joining with Agni in the form of the sun's rays, provide rain at the time of rain and, when that has ended and the year is complete, the shining sun's ray for the world.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses दिना (*dinā*) *[so printed, for "ದಿವಾ"]* (Pā. Sū. 6-1-168) and यांति (*yāṃti*) (root या (*yā*)); the analysis of Ṛk 14 is cut off in the supplied text at the end of this window and continues in the next window.
+
 ---
 
-**Progress note:** Done through printed p. 140 (PDF 140). Sūkta 161 Ṛk 13 complete (Saṃhitā to grammar)
+**Progress note:** Done through printed p. 143 (PDF 143). Sūkta 161 Ṛk 14 Saṃhitā to Special Topics, grammar start
