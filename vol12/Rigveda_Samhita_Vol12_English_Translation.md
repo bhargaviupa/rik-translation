@@ -2813,6 +2813,104 @@ Here the skill in the arts of the Ṛbhus and their filial devotion are describe
 
 *Note (the Sanskrit grammar is only transcribed):* the Kannada analyses अग्निम् (*agnim*) (root आगि (*āgi*) *[so printed]*; sūtra number printed "ಪಾ. ಸೂ. ೪೯೦"), अब्रवीतन (*abravītana*) (root ब्रूञ् (*brūñ*); Pā. Sū. 3-1-85; Pā. Sū. 7-1-45; Pā. Sū. 7-3-93), कर्त्वः (*kartvaḥ*) (root डुकृञ् (*ḍukṛñ*); Pā. Sū. 3-4-14; Pā. Sū. 6-1-199), युवशा (*yuvaśā*) (root शीज् (*śīj*) *[so printed]*; सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39), कृत्वी (*kṛtvī*) and इमसि (*imasi*) (Pā. Sū. 7-1-46), with the accents; it ends with the mark ॥ ೩ ॥ and a stray ornament line ".:0:", kept as supplied.
 
+### Printed p. 99
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೪.] Ṛgveda-saṃhitā, p. 99 (as supplied).*
+
+#### Ṛk 4
+
+*[A picture (vol12/html/figures/fig1_line04500.jpg) stood inside the Saṃhitā block in the supplied text. I looked at it and zoomed in. The picture's Saṃhitā agrees letter for letter with the machine-read Saṃhitā lines, which are kept, joined into the two lines of the verse (the line-end hyphen "ನ್ಯಾ-ನಜೇ" is joined). In the Pada the picture reads "ಯಃ" where the machine-read text has "ಯ್ಯ" (the one change); everything else agrees. The picture prints small marks inside some Pada words (a hook, e.g. in "ಚಕೃ·ವಾಂಸಃ", "ಅವ·ಅಖ್ಯತ್", and two dots in "ಚಮಃಸಾನ್"); I took them for the compound-division sign and did not transcribe them, nor the accent marks. The label printed before the Pada is garbled in the supplied text ("ಪದವಾಕ್ಯಃ") and sat inside the Saṃhitā block; the standard label is inserted and the garbled word kept in kn.md as a note.]*
+
+**॥ संहितापाठः ॥**
+
+> च॒कृ॒वांस॑ ऋभव॒स्तद॑पृच्छत॒ क्वेद॑भू॒द्यः स्य दू॒तो न॒ आज॑गन् ।
+> य॒दावाख्य॑च्चम॒साञ्च॒तुरः॑ कृ॒तानादित्त्वष्टा॒ ग्नास्वं॒तर्न्या॑नजे ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> चकृवांसः । ऋभवः । तत् । अपृच्छत । क्व । इत् । अभूत् । यः । स्यः । दूतः । नः ।
+> आ । अजगन् ।
+> यदा । अव्वअख्यत् । चमसान् । चतुरः । कृतान् । आत् । इत् । त्वष्टा । ग्नासु ।
+> अंतः । नि । आनजे ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> हे ऋभवः तत्कार्यं यथा चकृवांसः कृतवंतो यूयमपृच्छत । प्रश्नं
+> कुरुत ॥ करोतेर्लिटः क्वसुः ॥ अत्र यद्यप्यभुरिति त्रयाणां मध्य एकस्य नाम
+> तथापि तस्य प्राथम्याच्छत्रिणो गच्छंतीतिवत्सर्वेऽप्यभव उच्यंते । किमिति । स्यः स
+> दूतः क्वेदभूत् । कुत्र गतः । स इत्युक्तं क इत्याह । यः यो दूतो नोऽस्मानाजगन् आगमत् प्राप्तः । एवंभूते सति यदायं त्वष्टा चतुरः कृतांश्चमसानवाख्यत् अभिपश्यति ॥ ख्यातेर्लुङ्यस्यतिवक्तिख्यातीति चेरणादेशः ॥ आदिदनंतरमेव त्वष्टा
+> तस्य चमसस्कोत्पादक एतन्नामको देवो ग्नासु स्त्रेषु । मेना ग्ना इति स्त्रीणामिति
+> निरुक्तं । ३-२१ । अंतर्मध्यॆ न्यानजे । व्यक्तोऽभूत् । स्त्रियमात्मनममन्यतेत्यर्थः॥
+> अंजेर्लिटि तस्मान्नुड्विहल इति नुट् । छांदसोऽनुनासिकलोपः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): the Ṛbhus asked where the messenger had gone; when Tvaṣṭṛ saw the four ladles, Agni vanished among the women.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ऋभवः (*ṛbhavaḥ*)—O Ṛbhus; तत् (*tat*)—the work that was prescribed; चकृवांसः (*cakṛvāṃsaḥ*)—having done (after doing it); यः (*yaḥ*)—the messenger who; नः (*naḥ*)—to us; आ अजगन् (*ā ajagan*)—had come; स्यः दूतः (*syaḥ dūtaḥ*)—that messenger, who had been visible before us; क्वेदभूत् (*kvedabhūt*)—"where has he gone?" (thus); अपृच्छत (*apṛcchata*)—you asked. यदा (*yadā*)—when; चतुरः कृतान् (*caturaḥ kṛtān*)—made into four; चमसान् (*camasān*)—the ladles *[the line is divided between pp. 99 and 100: "ಚಮಸ|ಪಾತ್ರೆಗಳನ್ನು"]*; अवाख्यत् (*avākhyat*)—he saw; आदित् (*ādit*)—immediately; त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ (your teacher); ग्नासु अंतः (*gnāsu aṃtaḥ*)—among the women; न्यानजे (*nyānaje*)—vanished.
+
+### Printed p. 100
+
+*Running head: 100 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 161.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Ṛbhus! After doing your prescribed work you asked where Agni, who had come to you as a messenger, had gone. As soon as you had made the single ladle into four, Tvaṣṭṛ, your teacher, vanished among the women.
+
+**Printed English translation**
+
+So doing, Ribhus, you inquired—Where, indeed, is he who came to us as a messenger ? when Twashtri observed the one ladle become four, he was immediately lost amongst the women.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ग्नास्वंतर्न्यानजे (*gnāsvaṃtarnyānaje*)—ग्नासु अंतः न्यानजे । (*gnāsu aṃtaḥ nyānaje |*) "He vanished among the women": Sāyaṇa explains it as स्त्रियमात्मानममन्यत (*striyamātmānamamanyata*), "he regarded himself too as one of the women". But nowhere is it described that Tvaṣṭṛ took a woman's form or a woman's quality; only his moving about in the company of women is described.
+
+उत स्य देवो भुवनस्य सक्षणिस्तष्टा ग्नाभिः सजोषा जूजुवद्रथं । (*uta sya devo bhuvanasya sakṣaṇistaṣṭā gnābhiḥ sajoṣā jūjuvadrathaṃ |*)
+
+(Ṛ. Saṃ. 2-31-4)
+
+रुद्रो रुद्रेभिर्देवो मृळयाति नस्त्वष्टा नो ग्नाभिः सुविताय जिन्वतु । (*rudro rudrebhirdevo mṛḷayāti nastvaṣṭā no gnābhiḥ suvitāya jinvatu |*)
+
+(Ṛ. Saṃ. 10-66-3)
+
+In all such ṛks it is understood that Tvaṣṭṛ always kept the company of the wives of the gods. In the same way this point is clear in the ṛks Ṛ. Saṃ. 1-22-9, 2-36-3, 6-50-13, 7-35-6, 10-64-10 and others. From this description the scholar Roth conjectures that all of Tvaṣṭṛ's work of creation was accomplished through the wombs of women.
+
+"This, according to professor Roth, S.V., results from the fact that it is in the wombs of females that his creative action is principally manifested." [O. S. T. Vol. V. P. 229]. *[Latin text, as supplied.]*
+
+This conjecture too finds support in some sentences.
+
+### Printed p. 101
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೪.) Ṛgveda-saṃhitā, p. 101 (the closing bracket is printed as a parenthesis, as supplied).*
+
+विष्णुर्योनिं कल्पयतु त्वष्टा रूपाणि पिंशतु । (*viṣṇuryoniṃ kalpayatu tvaṣṭā rūpāṇi piṃśatu |*)
+आ सिंचतु प्रजापतिर्धाता गर्भं दधातु ते ॥ (*ā siṃcatu prajāpatirdhātā garbhaṃ dadhātu te ‖*)
+
+(Ṛ. Saṃ. 10-184-1)
+
+In such Ṛk-saṃhitā sentences, and in
+
+अथ त्वष्टारं यजति । त्वष्टा वै सिक्त १ रेतो विकरोति । (*atha tvaṣṭāraṃ yajati | tvaṣṭā vai sikta 1 reto vikaroti |*)
+
+(Śa. Brā. 1-9-2-10) *[the word "ಸಿಕ್ತ ೧" is printed so, with a numeral]*
+
+Brāhmaṇa sentences such as this, it is stated that Tvaṣṭṛ makes all his creation by means of the semen sown in the womb, and that his work always needs the help of women. Moreover, since the beauty of women is manifest in all his creation, that point is described as ग्नास्वंतर्न्यानजे (*gnāsvaṃtarnyānaje*).
+
+ग्नासु (*gnāsu*)—This word is read among the names of women, मेना ग्ना (*menā gnā*). ग्ना गच्छंत्येनाः । (*gnā gacchaṃtyenāḥ |*) "Men go to them; therefore women are called ग्ना (*gnā*)": thus the authors of the Nirukta have shown the derivation of this word (Ni. 3-21). It is also read among the names of speech, श्लोकः (*ślokaḥ*), धारा (*dhārā*) and so on (2-23); therefore the sentence ग्नास्वंतर्न्यानजे (*gnāsvaṃtarnyānaje*) can be explained in another way too.
+
+त्वष्टारं यजति वाग्वै त्वष्टा वाग्भीदं सर्वं ताष्टीव वाचमेव तत्प्रीणाति (*tvaṣṭāraṃ yajati vāgvai tvaṣṭā vāgbhīdaṃ sarvaṃ tāṣṭīva vācameva tatprīṇāti*)
+वाचं यजमाने दधाति ॥ (*vācaṃ yajamāne dadhāti ‖*)
+
+(Ai. Brā. 2-4)
+
+In such sentences, because the identity of speech and Tvaṣṭṛ is stated, and because he is able to describe the small as spread out and the spread-out as small ("even great things such as mountains are taken by a small word, and so this world becomes as if carved", Sāyaṇa's bhāṣya, abbreviated "ಸಾ. ಭಾ."), and has the capacity to create as he likes, this name is well known: so it is said. If that meaning is taken, one may also say that he vanished into speech, which has the power of creation.
+
+त्वष्टा (*tvaṣṭā*)—तस्य चमसस्कोत्पादक एतन्नामको देवः । (*tasya camasaskotpādaka etannāmako devaḥ |*) The deity of this name, the maker of the ladle. The nature and the greatness of this deity are explained in the special topics of the next sūkta, that is, of the ṛk 1-162-3.
+
+ऋभवः (*ṛbhavaḥ*)—अत्र यद्यपृभुरिति त्रयाणां मध्ये एकस्य नाम तथापि तस्य प्राथ (*atra yadyapṛbhuriti trayāṇāṃ madhye ekasya nāma tathāpi tasya prātha*)म्यात्सर्वेऽपि ऋभव उच्यंते. (*myātsarve 'pi ṛbhava ucyaṃte.*) Though the name Ṛbhu is the name of one of the three, still, by priority, all are called Ṛbhus: it is shown that, although Ṛbhu is only one of the three, by this word the names of all the three are indicated.
+
 ---
 
-**Progress note:** Done through printed p. 98 (PDF 98). Sūkta 161 Ṛk 3 bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar
+**Progress note:** Done through printed p. 101 (PDF 101). Sūkta 161 Ṛk 4 complete to Special Topics (gnāsvantarnyānaje, Tvaṣṭṛ, ṛbhavaḥ)
