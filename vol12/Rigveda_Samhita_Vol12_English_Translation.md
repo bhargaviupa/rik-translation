@@ -11623,6 +11623,154 @@ The sentence above states precisely that, since those who pervade the whole univ
 
 *[as supplied: "ವಧಾನೇ" in this Ṛk is printed so.]*
 
+### Printed p. 473
+*Running head: [೫. ೨ ಆ .೩ ಪ. ೧೯.] Ṛgveda-saṃhitā 473 (as supplied).*
+
+*[the sentence from the previous page is completed here.]* … in the Ṛk beginning madhu no dyāvāpṛthivī the characteristic of Heaven and Earth described is one and the same as the characteristic of the Aśvin deities described in the sentence of the Śatapatha Brāhmaṇa quoted above. Moreover, by saying "these are the Heaven and Earth that appear directly", it states precisely their identity itself. (3).
+
+अहोरात्रावित्येके (*ahorātrāvityeke*)—"Day and night are the Aśvin deities", is the opinion of some others. (4)
+
+सूर्याचंद्रमसावित्येके (*sūryācaṃdramasāvityeke*)—"These two are the sun and moon", say some others. (5)
+
+राजानौ पुण्यकृतावित्यैतिहासिकाः (*rājānau puṇyakṛtāvityaitihāsikāḥ*)—"Two meritorious kings", is the opinion of the historians. (6). Since different explanations have thus been shown, there is room for stating three kinds of meaning in the present Ṛk also. There are also some Ṛks in the Ṛk-saṃhitā that support the meaning "the Aśvins are Vāyu and Āditya". For example—
+
+इहेह जाता समवावशीतामरेपसा तन्वाति नामभिः स्वैः । जिष्णुर्वामन्यः सुमखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे (*iheha jātā samavāvaśītāmarepasā tanvāti nāmabhiḥ svaiḥ | jiṣṇurvāmanyaḥ sumakhasya sūrirdivo anyaḥ subhagaḥ putra ūhe*) (Ṛ. Saṃ. 1-181-4)
+
+In this passage the explanation is given: अन्यः सुमहतो बलस्यॆरयिता मध्यमो दिवो अन्यः सुभगः पुत्र ऊह्यत आदित्यः (*anyaḥ sumahato balasyèrayitā madhyamo divo anyaḥ subhagaḥ putra ūhyata ādityaḥ*) (Ni. 12-2). It means: one is the dweller of the middle world, the other is the excellent son of the heaven-world in the form of Āditya. Here some say the dweller of the middle world is Vāyu, others that he is the Moon. According to the first view it comes to Vāyu and Āditya. This supports Sāyaṇa's meaning in the present Ṛk: "let the cloud, impelled by such Vāyu and Āditya, pour rain" is the meaning.
+
+*[as supplied: the reference is printed "ನಿ. ೧೨-೨" here; the quotation begins with a stray quotation mark "'" in the print; "ಅಶ್ವಿನೀದೇಸತೆಗಳು" and "ಸೂರಚಂದ್ರರೆಂದು" stand so in the text.]*
+
+**Vyākaraṇa-prakriyā** (grammatical procedure)
+
+*Grammar (transcribed, not explained):*
+- हिंकृण्वती (*hiṃkṛṇvatī*)—root कृवि हिंसाकरणयोश्च (*kṛvi hiṃsākaraṇayośca*). The ādeśa śatṛ for laṭ; on the śatṛ-ending the feminine suffix ṅīp. Because ṅīp has come after a śatṛ that has no num, by शतुरनुमो नद्यजादी (*śaturanumo nadyajādī*) (Pā. Sū. 6-1-173) it becomes udātta.
+- वसुपत्नी (*vasupatnī*)—वसूनां पत्नि वसुपत्नी (*vasūnāṃ patni vasupatnī*); by परादिश्चंदसि बहुलम् (*parādiścaṃdasi bahulam*) (Pā. Sū. 6-2-199) the accent on the first syllable of the latter member results.
+- इच्छंती (*icchaṃtī*)—root इषु इच्छायां (*iṣu icchāyāṃ*). When the ādeśa śatṛ has come for laṭ, in the feminine by उगितश्च (*ugitaśca*) (Pā. Sū. 4-6-6) ṅīp. By the vikaraṇa accent it becomes madhyodātta.
+- अगात् (*agāt*)—root इण् गतौ (*iṇ gatau*). luṅ, third person singular form (printed "ಲುಜ್"). The tiṅanta-nighāta accent results.
+
+### Printed p. 474
+*Running head: 474 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+*Grammar (continued):*
+- दुहाम् (*duhām*)—root दुह प्रपूरणे (*duha prapūraṇe*). By इगुपधज्ञाप्रीकिरः कः (*igupadhajñāprīkiraḥ kaḥ*) (Pā. Sū. 3-1-135) the suffix ka. Because it is k-marked, guṇa does not come. In the feminine, because of the ending in a, ṭāp.
+- अघ्न्या (*aghnyā*)—अहननम् अघ्न्यः (*ahananam aghnyaḥ*); घञार्थे कविधानं स्थास्नापाव्यधि हनि युध्यर्थम् (*ghañārthe kavidhānaṃ sthāsnāpāvyadhi hani yudhyartham*) (Pā. Sū. 3-3-58-4, as printed): by this the suffix ka. अघ्नमर्हति अघ्न्या छंदसिच (*aghnamarhati aghnyā chaṃdasica*) (Pā. Sū. 5-1-97): by this the suffix ya. After it, in the feminine, ṭāp. By the suffix accent the end becomes udātta.
+- वर्धताम् (*vardhatām*)—root वृधु वर्धने (*vṛdhu vardhane*). loṭ, third person singular form. The tiṅanta-nighāta accent results.
+- महते (*mahate*)—by बृहन्महतोरुपसंख्यानम् (*bṛhanmahatorupasaṃkhyānam*) the case-ending receives the udātta accent. ‖ 27 ‖
+
+*[as supplied: the line-end after "ಅಘ್ನ್ಯಾ ಛಂದಸಿಚ (ಪಾ. ಸೂ." continues "೫-೧-೯೭)" on the next printed line; the reference "೩-೩-೫೮-೪" is kept as printed.]*
+
+*[figure line: the picture at this place (vol12/html/figures/fig2_line06032.jpg) only repeats the Saṃhitā-pāṭha and Pada-pāṭha of Ṛk 28, which the text below already has as text; the line was removed from kn.md.]*
+
+#### Ṛk 28
+**॥ संहितापाठः ॥**
+> गौर॑मीमे॒दनु॑ व॒त्सं मि॒षंतं॑ मू॒र्धानं॒ हिज्ज॑कृणो॒न्मात॒वा उ॑ ।
+> सृक्वा॑णं घ॒र्मम॒भि वा॑वशा॒ना मिमा॑ति मा॒युं पय॑ते॒॑
+> पयोभिः ॥ २८ ॥
+**॥ पदपाठः ॥**
+> गौः । अमीमेत् । अनु । वत्सं । मिषंतं । मूर्धानं । हिज् । अकृणोत् । मातवै ।
+> ऊं इति ।
+> सृक्वाणं । घर्मं । अभि । वावशाना । मिमाति । मायुं । पयते । पयःभिः ॥ २८ ॥
+**॥ सायणभाष्यम् ॥**
+> चायुधभाष्यं
+> प्रवर्ग्येऽभिष्टवे दोहनसमये वत्से मातुः सकाशादपनीयमाने गौरमीमेदित्येषा । सूत्रितं च । गौरमीमेदनु वत्सं मिषंतं नमसेदुप सीदत ।
+> आ. ४_७ । इति ॥
+*[as supplied: the first line of the block, printed "ಚಾಯುಧಭಾಷ್ಯಂ", is the heading "Sāyaṇa-bhāṣya" garbled; kept as it stands.]*
+
+### Printed p. 475
+*Running head: [೫. ೨. ಅ. ೩. ನ. ೧೯.] Ṛgveda-saṃhitā 475 (as supplied).*
+
+> गौर्धेनुर्मिषंतं निमीलिताक्षं वत्समनु प्राप्यामीमेत् । शब्दं करोति ।
+> मीमयतिः शब्दकर्मा । यद्वा । उक्तं वत्समन्वात्मानं प्रक्षिपति । किंच तस्य वत्सस्य
+> मूर्धानं मातवै मातुं निर्मातुं लेहनेन शोधयितुं । उशब्दोऽवधारणे ।
+> हिंजृकृणोत् । हिंकारमकरोत् । करोति । किंच सृक्वाणं वत्सस्य शब्दवदनप्रांतं
+> फेनस्य स्रष्टारं घर्म० क्षीरस्य क्षरणशीलं वत्समभ्यभिलक्ष्य नावशाना भृशं कामयमाना मायुं शब्दं मिमाति । निर्माति । करोति । तादृशी सती पयोभिः प्रभूतैः
+> क्षीरैः पयते । प्यायते । आप्यायनं करोति वत्सं ॥ अत्रापि मेघपरतया
+> योजनीयं । एवमाहूता मेघरूपा गौर्धेनुर्मिषंतं वृष्टिरूपक्षीराभावेन
+> निमीलिताक्षं लोकाख्यं पुत्रमन्वनुसृत्यामीमेत् । गर्जनशब्दं वर्षणचिह्न रूपं
+> करोति । मूर्धस्थानीयां भूमिं मातवा उ निर्मातुमेव सस्यादियुक्तां कर्तुं
+> हिंजृकृणोत् । हिंकाररूपं शब्दमकरोत् । प्रतिपादनभेदादपुनरुक्तिः । किंच
+> सृक्वाणं फलस्य स्रष्टारं घर्म० दीप्तं पुत्रमभि नावशानाभिमुख्येन कामयमाना
+> पयोभिरुदकैः पयते । प्यायते । आप्यायनं करोति ॥
+*Gist:* The cow lows to her winking calf, licks and calls to him, sees the foam at his mouth and nourishes him with milk; the bhāṣya adds a cloud-sense.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+गौः (*gauḥ*)—the cow; मिषंतं (*miṣaṃtaṃ*)—winking; वत्सं अनु (*vatsaṃ anu*)—approaching the calf; अमीमेत् (*amīmet*)—makes a sound; मूर्धानं (*mūrdhānaṃ*)—its head; मातवै उ (*mātavai u*)—with the very intention of licking and cleaning (it); हिज् अकृणोत् (*hij akṛṇot*)—makes a lowing sound; सृक्वाणं (*sṛkvāṇaṃ*)—at the corner of the (calf's) mouth; घर्मं (*gharmaṃ*)—the foam; अभि (*abhi*)—seeing; नावशाना (*nāvaśānā*)—with affection; मायुं (*māyuṃ*)—a sound; मिमाति (*mimāti*)—makes, (and); पयोभिः (*payobhiḥ*)—with milks; पयते (*payate*)—(the calf) she satisfies.
+
+*[as supplied: the printed "ನಾವಶಾನಾ" (for the Saṃhitā "ವಾವಶಾನಾ") stands so in the Pratipadārtha and in the bhāṣya block; "ಅಮೀಮೇತ್—ಶಬ್ದವನ್ನು ಮಾಡುತ್ತದೆ. ।" and the "!" after "ಮಾಡುತ್ತದೆ" are kept as printed.]*
+
+**भावार्थ (Bhāvārtha)**
+The cow approaches her calf, which is winking its eyes, and makes a sound. With the very intention of licking its head and cleaning it, she makes a lowing sound. Seeing the foam at the corner of the calf's mouth, she makes a sound with affection. She satisfies her calf with her milks.
+
+**Printed English**
+The cow bel lows [sic] for her calf, (who stands) with winking eyes, and lows as (she) proceeds to lick his forehead : she utters a cry, as, anxious, she sees the moisture in the corners of his mouth, and nourishes him with her milk.
+
+### Printed p. 476
+*Running head: 476 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the Pravargya, at the time of milking, when the calf is separated from the cow and led away to be tied elsewhere, this Ṛk "gaur amīmet" is to be recited; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra गौरमीमेदनु वत्सं मिषंतं नमसेदुप सीदत (*gauramīmedanu vatsaṃ miṣaṃtaṃ namasedupa sīdata*) (Ā. 4-7).
+
+In this Ṛk also a meaning relating to the cloud can be given. Then: मिषंतं वत्सं (*miṣaṃtaṃ vatsaṃ*)—seeing the calf in the form of the world, which, distressed by the lack of milk in the form of rain, winks its eyes; अमीमेत् (*amīmet*)—made the thundering sound that precedes the rain; मूर्धानं मातवै हिज् अकृणोत् (*mūrdhānaṃ mātavai hij akṛṇot*)—she makes a sound full of the intention of making the earth, which stands in the place of the head, endowed with plants and the like; सृक्षाणं घर्म० अभि वावशाना (*sṛkṣāṇaṃ gharma0 abhi vāvaśānā*)—caressing with affection the earth, which is the producer of fruit and is shining; पयोभिः पयते (*payobhiḥ payate*)—she fills it with milk-like waters; this is the meaning, as Sāyaṇa has explained. The explanation of the Nirukta-kāras for this mantra is as follows.
+
+गौरन्वमीमेद्वत्सं निमिषंतमनिमिषंतमादित्यमिति वा मूर्धानमस्याभिहिज्जकरोन्मननाय सृक्षाणं सरणं घर्मं हरणमभिवावशाना मिमाति मायुं प्रप्यायते पयोभिर्मायुमिवादित्यमिति वा (*gauranvamīmedvatsaṃ nimiṣaṃtamanimiṣaṃtamādityamiti vā mūrdhānamasyābhihijjakaronmananāya sṛkṣāṇaṃ saraṇaṃ gharmaṃ haraṇamabhivāvaśānā mimāti māyuṃ prapyāyate payobhirmāyumivādityamiti vā*) (Ni. 11-42)
+
+Here the word vatsa is given the meaning Āditya. It comes to this: for marking out the head of Āditya she makes the sound "hiñ"; pouring in the form of a stream she makes a thundering sound and fills (him) fully with water; and she sounds like a māyu. Here the word māyu is given the meaning Āditya; the Nirukta-kāra states his own view that the word gauḥ here means the "middle speech" (mādhyamikā vāk), and then states also the sacrificial view: घर्मधुगिति याज्ञिकाः (*gharmadhugiti yājñikāḥ*)—the Vaidikas too say that she is to give the heated milk in the form of water. [The meaning of the word māyu will be explained again in the 29th Ṛk.]
+
+वावशाना (*vāvaśānā*)—वावशानो वष्टेर्वा वाश्यतेर्वा (*vāvaśāno vaṣṭervā vāśyatervā*) (Ni. 5-1). The Nirukta-kāras show the derivation of this word as formed either from the root vaś, which gives the meaning "wish with regard", or from the root vāś, which gives the meaning "make a sound loudly"; then, to show its usage, from the Ṛk-saṃhitā,
+
+सप्त स्वस्वररुषीर्वावशानो विद्वान्मध्व उज्जभारा दृशे कं । अंतर्येमे अंतरिक्षे पुराजा इच्छन्वप्रिमविदत्पूषणस्य (*sapta svasvararuṣīrvāvaśāno vidvānmadhva ujjabhārā dṛśe kaṃ | aṃtaryeme aṃtarikṣe purājā icchanvaprimavidatpūṣaṇasya*) (Ṛ. Saṃ. 1.2-5-5)
+
+*[as supplied: the reference of this Ṛk is printed "ಋ. ಸಂ. ೧.೨-೫-೫" with a full stop after the first number; the word "ಸೃಕ್ಷಾಣಂ" in this section differs from the Saṃhitā "ಸೃಕ್ವಾಣಂ"; "ಹಿಂಜಾರಶಬ್ದ" and "ಮೂಯು" (for māyu) stand so; the sentence "ವಾವಶಾನಾ—… ಇಚ್ಛಿಸು" is printed with "ವರ್" for both roots; all are kept as printed.]*
+
+### Printed p. 477
+*Running head: [ಅ ೨. ಅ. ೩. ವ ೧೯.] Ṛgveda-saṃhitā 477 (as supplied).*
+
+—having quoted this Ṛk, they have shown (the usage). In this Ṛk Sāyaṇa explains वावशानः (*vāvaśānaḥ*) as कामयमानः वाश्यमानः स्तोतृभिः स्तूयमानो ना अग्निं (*kāmayamānaḥ vāśyamānaḥ stotṛbhiḥ stūyamāno nā agniṃ*) and has given one meaning in the sense of "honoured", and another in the sense of "praised by the praises (in the form of sounds) made by the praisers". The Nirukta-kāras have stated that in the same way the meaning can be made in the present Ṛk also.
+
+पयते (*payate*)—प्यायते (*pyāyate*). The meaning is: she makes (him) increase exceedingly and obtain complete satisfaction.
+
+**Vyākaraṇa-prakriyā** (grammatical procedure)
+
+*Grammar (transcribed, not explained):*
+- आमीमेत् (*āmīmet*) (as printed)—the root मीमा (*mīmā*) is Vedic, with the sense of sound. In the Vedic manner, in the present sense, laṅ (printed "ಲಜ್"). In the third person singular the form amīmet results. Because it stands after an atiṅanta [sic as printed], the nighāta accent results.
+- मिषंतम् (*miṣaṃtam*)—root मिष स्पर्धायां (*miṣa spardhāyāṃ*), of the tudādi class. The ādeśa śatṛ for laṭ. Form of the second case, singular. By the vikaraṇa (śa) accent it becomes madhyodātta.
+- अकृणोत् (*akṛṇot*)—कृवि हिंसाकरणयोश्च (*kṛvi hiṃsākaraṇayośca*), a root. By छंदसि लुज् लज् लिटः (*chaṃdasi luj laj liṭaḥ*) laṅ in the present sense. Third person singular form. The tiṅanta-nighāta accent results.
+- मातवै (*mātavai*)—माज् माने (*māj māne*), a root. By तुमर्थे सेसे (*tumarthe sese*) (Pā. Sū. 3-4-9) the suffix tavai. Because it ends in an ej-sound it becomes an indeclinable. By vyatyaya the accent on the first syllable results.
+- वावशाना (*vāvaśānā*)—वश कांतौ (*vaśa kāṃtau*), a root. By धातोरेकाचः (*dhātorekācaḥ*) (Pā. Sū. 3-1-22), when yaṅ (printed "ಯಜ್") has come in the sense of intensity, after it the suffix śānac. By छंदस्युभयथा (*chaṃdasyubhayathā*) (Pā. Sū. 3-4-117), since it has the designation ārdhadhātuka, elision of the a and ya of yaṅ results. Therefore by the sūtra तास्यनुदात्तेत् (*tāsyanudāttet*) the śānac does not become anudātta; by चितः (*citaḥ*) (Pā. Sū. 6-1-163) the end-udātta accent results. When the feminine is intended, ṭāp because it ends in a. By the udātta-nivṛtti accent that also becomes udātta.
+- मिमाति (*mimāti*)—माज् माने शब्दे च (*māj māne śabde ca*), a root. By vyatyaya it becomes parasmaipada. laṭ, third person singular form. Because it stands at the beginning of a pāda, the nighāta accent does not come. By अभ्यस्तानामादिः (*abhyastānāmādiḥ*) (Pā. Sū. 6-1-189) (printed "ಎಂಬುವರಿಂದ") the accent on the first syllable results.
+- पयते (*payate*)—ओप्यायी वृद्धौ (*opyāyī vṛddhau*), a root. By vyatyaya, even though the niṣṭhā suffix does not follow, the substitution pī. In laṭ, guṇa and ayādeśa by reason of śap. In the Vedic manner the accent on the first syllable results. ‖ 28 ‖
+
+*[as supplied: the roots "ಲಜ್", "ಲುಜ್", "ಮಾಜ್", "ಯಜ್" and the heading "ಆಮೀಮೇತ್" (for the Saṃhitā "ಅಮೀಮೇತ್") are kept as printed; the word "ಅತಿಜಂತದ" stands so; "ಯಜುನ" stands so; "ತಾಸ್ಯನುದಾತ್ತೇತ್—ಸೂತ್ರದಿಂದ" is printed without a reference.]*
+
+*[stray line as supplied: ਃ੦ਃ]*
+
+### Printed p. 478
+*Running head: 478 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+*[as supplied: a garbled label "ಬೆಂಗಳೂರು" stands here before the Saṃhitā-pāṭha; the script has read it as the label Saṃhitā-pāṭha.]*
+
+#### Ṛk 29
+**॥ संहितापाठः ॥**
+> अ॒यं स शिं॑क्ते॒ येन॒ गौर॒भीवृ॑ता॒ मिमा॑ति मा॒युं ध्व॒सना॒वधि॑ श्रि॒ता ।
+> सा चि॒त्तिभि॒र्नि हि च॒कार॒ मर्त्यं॑ वि॒द्युद्भवं॑ती॒ प्रति॑ व॒व्रिमौ॑हत॥
+> ॥ २९ ॥
+**॥ पदपाठः ॥**
+> अयं । सः । शिंक्ते । येन । गौः । अभिवृता । मिमाति । मायुं । ध्वसना । अधि ।
+> श्रिता ।
+> सा । चित्तिभिः । नि । हि । चकार । मर्त्यं । विद्युत् । भवंती । प्रति । वव्रिं । औहत ॥
+> ॥ २९ ॥
+*[as supplied: a garbled label "ಚಾಯಣಭಾಷ್ಯಂ" stands here for the heading Sāyaṇa-bhāṣya; the label Pada-pāṭha is missing in the print and was inserted by the script.]*
+
+**॥ सायणभाष्यम् ॥**
+> सोऽयं वत्सः शिंक्ते । अव्यक्तध्वनिं करोति । येन वत्सेन गौर्माताभीवृता
+> अगत्याभितो वेष्टिता भवति । किंच सा गौर्मायुं शब्दं मिमाति । निर्मिमाति । कुत्र
+> स्थिता । ध्वसनावधि श्रिता ध्वननस्थाने गवां निवासाश्रयेऽधिष्ठिता । सा तादृशी चित्तिभिर्ज्ञानैस्तत्पूर्वकैः कर्मभिर्वा मर्त्यं नि चकार हि । नीचैः करोति । ज्ञानविशिष्टा
+> मनुष्या यथा बालकस्यादनस्तनपानादिस्नेहं कुर्वंति ततोऽप्यतिशयमियं करोतीत्यर्थः । किंच विद्युद्भवंती बहुक्षीरतया विद्योतमाना वन्रिं स्वकीयं रूपं ।
+> वन्रिरिति रूपनाम । रूपं प्रत्यौहत । प्रकाशयति । यद्वा । वत्सस्नेहातिशयस्वरूपं
+> विद्युद्भवंती विद्युदिव शीघ्रदर्शनौहत । अयमेकोऽर्थः ॥ अर्थांतरं च । शाकपूणिर्नाम निरुक्ताचार्यः सकलमंत्रदेवता जानामीत्यभिमानितवान् । दुर्ज्ञेयस्य तत्त्वस्य स्वरूपमसौ जानाति किलैनं व्यामोहयामिति मनसि कृत्वा संदिग्धोभयलिंगा देवता प्रादुरासीदथ तस्य पुरतः । स च तां न बबुधे । बुभुत्सया च
+> तां स्वरूपं प्रदर्शयेति पप्रच्छ । सा चायं स शिंक्त इत्येषा मद्देवता तत्र प्रतीयमानं मत्स्वरूपमित्युपदिदेश । नि. २-८ । कथमत्तोभयलिंगत्वं वस्तुत उभयलिंगत्वे कथं दैवतैक्यमिति उच्यते। अत्रोभयलिंगत्वमुभयथा संभवति स्त्रीपुल्लिंगद्वयेन मध्यनोत्तमलिंगद्वयेन च। तत्कथं। आयं स येनेति पुल्लिंगवाजिना शब्द-
+*Gist:* The calf cries; the cow, encircled by him, makes a sound, humbles mortals by her care, and shows her form like lightning; Śākapūṇi's anecdote of the deity follows (continues on the next page).
+
 ---
 
-**Progress note:** Done through printed p. 472. pp. 467-472: Ṛk 26 completed (Pravargya, Dhenu), grammar; Ṛk 27 with Aghnyā and Aśvin discussion
+**Progress note:** Done through printed p. 478. Ṛk 27 end and grammar; Ṛk 28 with Special Topics and grammar; Ṛk 29 begun
