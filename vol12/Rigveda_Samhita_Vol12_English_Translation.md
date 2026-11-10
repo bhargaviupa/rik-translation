@@ -15924,6 +15924,147 @@ The application of this sūkta is as follows. (1) At the time of reciting the ma
 ज्ञातिपुत्रसुहृन्मित्रैर्यश्च राज्यं चिकीर्षति । नित्यं स नियतो भूत्वा सूक्तं तु मनसा जपेत् ॥ कया शुभेति पैशुन्यं कृत्वाचार्यनृपद्विजैः । श्रुत्वा पररहस्यं तु गुरोरप्याह शौनकः (*jñātiputrasuhṛnmitrairyaśca rājyaṃ cikīrṣati | nityaṃ sa niyato bhūtvā sūktaṃ tu manasā japet ‖ kayā śubheti paiśunyaṃ kṛtvācāryanṛpadvijaiḥ | śrutvā pararahasyaṃ tu gurorapyāha śaunakaḥ*)
 ( ಮುಗ್ವಿ. ೧-೨೬ ) *[as supplied: the abbreviation is printed ಮುಗ್ವಿ.; kept]*
 
+### Printed p. 677
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೪. ] Ṛgveda-saṃhitā 677 (as supplied).*
+
+*[Continuing the Kannada rendering of Śaunaka's verses given at the end of the previous window.]* This is what he has said: the king who wishes to rule his kingdom free from harassment by enemies, together with his sons, friends, well-wishers, kinsmen and the rest, should every day recite this sūkta beginning *kayā śubhā* mentally, with devotion. By doing so the secrets and the like of other kings become known; he escapes from them and becomes victorious. Thus it is stated.
+
+**Sūkta—165**
+
+*[Om sign ("॥ ಓಂ ॥") printed above the sūkta number, left out here and in the Kannada-script file as a sign only.]*
+
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 165 ‖
+Aṣṭaka 2 ‖ Adhyāya 3 ‖ Varga 24, 25, 26 ‖
+Number of ṛks in the Sūkta: 15 ‖
+1. Ṛṣi: for Ṛks 1, 2, 4, 6, 8, 10–12: इंद्रः (*iṃdraḥ*); for 3, 5, 7, 9: मरुतः (*marutaḥ*); for 13–15: आगस्त्यः (*āgastyaḥ*).
+2. Devatā: मरुत्वानिंद्रः (*marutvāniṃdraḥ*).
+3. Chandas: त्रिष्टुप् (*triṣṭup*).
+
+*[as supplied: the label printed as "ಸಂಹಸಾಪಾಠಿ" is garbled; it stands in the place of the label Saṃhitā-pāṭha.]*
+
+#### Ṛk 1
+**॥ संहितापाठः ॥**
+> कया॑ शु॒भा सव॑यसः॒ सनी॑ळाः समा॒न्या म॒रुतः॒ सं मि॑मिक्षुः।
+> कया॑ म॒ती कुत॒ एता॑स ए॒तेऽर्चं॑ति॒ शुष्मं॒ वृष॑णो॒
+> वसूया ॥ १ ॥
+**॥ पदपाठः ॥**
+> कया । शुभा । सवयसः । सनीळा । समान्या । मरुतः । सं । मिमिक्षुः ।
+> कया । मती । कुतः । आइतासः । एते । अर्चंति । शुष्मं । वृषणः । वसुया ॥ १ ॥
+
+> *kayā | śubhā | savayasaḥ | sanīḷā | samānyā | marutaḥ | saṃ | mimikṣuḥ |*
+> *kayā | matī | kutaḥ | āitāsaḥ | ete | arcaṃti | śuṣmaṃ | vṛṣaṇaḥ | vasuyā ‖ 1 ‖*
+
+### Printed p. 678
+*Running head: 678 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೩. ಸೂ. ೮೬೫] (as supplied; the print has ೮೬೫ where ೧೬೫ is expected, and the closing bracket is missing).*
+
+**॥ सायणभाष्यम् ॥**
+> इंद्रवाक्यं । सवयसः समानवयस्काः सनीळाः समानस्थाना एते मरुतः
+> कया शुभा कैरपि दुर्ज्ञेयया शोभया समान्या सर्वेषामेकरूपया महत्या
+> युक्ताः । यद्वा । शुबित्युदकनाम । उक्तरूपया शुभोदकेन । सं मिमिक्षुः ।
+> लोकं सम्यक् सिंचंति ॥ मिहिसमानार्थो मिमिक्षतिधातुः ॥ यद्वा मां युद्धादिषु
+> प्रवर्तमानं सं मिमिक्षुः । तदर्थमेते मरुतः कयानिश्चेयया मती मत्या कुतो
+> देशादेतासः । आगताः । अगत्य चैते वृषणो वर्षितारो वसूया वसूयया ॥
+> सुपां सुलुगिति पूर्वसवर्णदीर्घः ॥ धनेच्छया । यद्वा । वसवो वासयितारो वा॥
+> तेनैव जसो याजादेशः ॥ शुष्मं बलं वृष्टि प्रदानजनितं लोकेऽर्चंति । पूजयंति । जगति कुर्वंति । यद्वा । मम बलं वर्धयंतीत्यर्थः । मरुतो हैनं
+> नाजहुः । ऐ. ब्रा. ३.२० । इति श्रुतेः । अत्रेंद्रमरुत्संवादरूपे सर्वत्र प्राणजीवात्मपरतयापि योजनीयं । अत्रापींद्रो ब्रूते ॥
+*Gist:* Indra's words: with what splendour, purpose and from where have the Maruts, equal in age and dwelling, rain-givers and seekers of wealth, come to sprinkle the world.
+*[as supplied: the label printed as "ಪ್ರತಿವರ್ಧ" is garbled; it stands in the place of the label Pratipadārtha.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+सवयसः (*savayasaḥ*)—of one age; सनीळाः (*sanīḷāḥ*)—of one dwelling-place; these मरुतः (*marutaḥ*)—Maruts; कया शुभा (*kayā śubhā*)—by what splendour (that is not visible to gross *[as supplied: printed ಸ್ಕೂಲವಾದ, apparently for ಸ್ಥೂಲವಾದ; kept]* sight); समान्या (*samānyā*)—endowed with greatness of one kind; सं मिमिक्षुः (*saṃ mimikṣuḥ*)—do they sprinkle (the world) with water?; कया मती (*kayā matī*)—with what purpose are they?; कुतः (*kutaḥ*)—from what region; एतासः (*etāsaḥ*)—have these Maruts come?; वृषणः (*vṛṣaṇaḥ*)—who pour down rain; एते (*ete*)—these Maruts; वसूया (*vasūyā*)—with desire of wealth; शुष्मं (*śuṣmaṃ*)—strength; अर्चंति (*arcaṃti*)—worship.
+**भावार्थ (Bhāvārtha)**
+These Maruts, of one age and of one dwelling-place, endowed with some splendour that is not visible to gross sight and with greatness of one kind, sprinkle water over the whole world? What is their purpose? From where have they come? These Maruts, who pour down rain, are worshippers of strength through desire of wealth.
+**Printed English**
+(Indra speaks),—With what auspicious fortune have the Maruts, who are of one age, one residence, one dignity, watered (the earth) together ? with what intention ? whence have they come ? Showerers of rain, they vener-ate, through desire of wealth, the energy (that is granted in the world by rain). *[as supplied: "vener-ate" is printed with the hyphen of a line break; kept]*
+
+### Printed p. 679
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೪ ] Ṛgveda-saṃhitā 679 (as supplied).*
+
+*[as supplied: the label printed as "ವಿಶೇಷವಿವರಗಳು" is garbled; it stands in the place of the label Special Topics.]*
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+From here to the end of the first Maṇḍala there are in all 27 sūktas composed by the ṛṣi Agastya. These are sūktas recited addressed to deities such as Indra, the Maruts, the Aśvin deities, Heaven and Earth, Anna, Bṛhaspati and so on. In the Bṛhaddevatā these 27 sūktas are divided into two groups. From the 165th to the 170th sūkta the conversation that took place between Indra and the Maruts is given in the form of a narrative, and also how the ṛṣi Agastya entered between them, praised the Maruts and Indra, and reconciled them. The sūktas from the 171st to the 191st were composed on the occasion of describing the relation and the love between Agastya and Lopāmudrā.
+
+Since in the sūkta under discussion (1-165) the conversation between Indra and the Maruts, and in the midst of it the reconciling praise of the ṛṣi Agastya, are described, it becomes necessary to know the nature of this conversation, its cause, the propriety of the ṛṣi Agastya's entering in between, the earlier story of the ṛṣi Agastya, and so on. Of these, the nature of the conversation between Indra and the Maruts is stated briefly in the Bṛhaddevatā:
+
+मारुतैंद्रस्तु संवादः कयेति परमः स्मृतः । मरुतामयुजस्तैंद्रो युग्माः सर्वाः सहांत्यया ॥ एकादशी प्रथमा च मारुतस्य च उत्तरः । तृचस्यॆव तु तत्रोक्तं कर्तृत्वमितरस्य तु (*mārutaiṃdrastu saṃvādaḥ kayeti paramaḥ smṛtaḥ | marutāmayujastaiṃdro yugmāḥ sarvāḥ sahāṃtyayā ‖ ekādaśī prathamā ca mārutasya ca uttaraḥ | tṛcasyèva tu tatroktaṃ kartṛtvamitarasya tu*)
+( Bṛ. De. 4-44, 45 )
+
+The sūkta beginning with the Ṛk "*kayā śubhā*" has been praised from of old as setting forth the main substance of the conversation between Indra and the Maruts. Of these, all the Ṛks of odd number are words of the Maruts. Those of even number, the first, the eleventh and the last are also words of Indra. The Ṛks from 13 to 15 are recited addressed to the Maruts. The authorship of those belongs to another.
+
+इतिहासः पुरावृत्त ऋषिभिः परिकीर्त्यते । समागच्छन्मरुद्भिस्तु चरन्‌व्यून्नि शतक्रतुः ॥ दृष्ट्वा तुष्टाव तानिंद्रस्ते चेंद्रमृषयोऽब्रुवन् । तेषामगस्त्यः संवादं तपसा वेद तत्त्वतः (*itihāsaḥ purāvṛtta ṛṣibhiḥ parikīrtyate | samāgacchanmarudbhistu caranvyūnni śatakratuḥ ‖ dṛṣṭvā tuṣṭāva tāniṃdraste ceṃdramṛṣayo 'bruvan | teṣāmagastyaḥ saṃvādaṃ tapasā veda tattvataḥ*)
+( Bṛ. De. 4-46, 47 )
+
+Once, when Indra was moving about in the atmosphere, he met the Maruts. As soon as he saw them, Indra praised them, and they too praised Indra. Agastya, by the greatness of his
+
+### Printed p. 680
+*Running head: [680 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೩. ಸೂ. ೧೬] (as supplied; the number of the sūkta is cut short in the print).*
+
+austerity, grasped their conversation: thus an event of the past is told here in the form of a narrative. And further:
+
+स तानभिजगामाशु निरूप्यैंद्रं हविस्तदा । मरुतश्चाभितुष्टाव सूक्तैस्तन्निविति च त्रिभिः (*sa tānabhijagāmāśu nirūpyaiṃdraṃ havistadā | marutaścābhituṣṭāva sūktaistanniviti ca tribhiḥ*)
+( Bṛ. De. 4-48 )
+
+The explanation is that as soon as Agastya grasped their conversation, he too went towards them, prepared the oblation for Indra, and at the same time composed three sūktas (1-166 to 168) with mantras beginning with वोचाम (*vocāma*) and the like, and praised the Maruts.
+
+The eternal companionship of Indra and the Maruts is well known in the śruti. Their relation of king and subjects, the offering of oblations in the principal sacrificial acts to Indra together with the Maruts, and the help given by the Maruts to Indra when he fought with the demon Vṛtra, are praised in many places in the Saṃhitās and the Brāhmaṇas. The Śatapatha Brāhmaṇa tells an earlier story of how Indra, joined with the Maruts, stood apart from the other deities.
+
+आतिथ्येन वै देवा इष्टा । तान्त्समदविदंते चतुर्धाव्यद्रवन्नन्योन्यस्य श्रिया तिष्ठमाना अग्निर्वसुभिः, सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्भिर्भृहस्पतिर्विश्वेदेवैः (*ātithyena vai devā iṣṭā | tāntsamadavidaṃte caturdhāvyadravannanyonyasya śriyā tiṣṭhamānā agnirvasubhiḥ, somo rudrairvaruṇa ādityairiṃdro marudbhirbhṛhaspatirviśvedevaiḥ*)
+( Ś. Prā. 3-4-2-1; abbreviation as supplied )
+
+Formerly, when the gods performed the rite of hospitality, discord arose among them; unwilling to be defeated by one another, they formed four groups and separated. Agni joined with the Vasus, Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Maruts, and Bṛhaspati with the Viśvedevas, and each made a separate group. In this story the close relation that Indra built up and maintained with the Maruts through companionship is stated. Besides this, it is said in many places that Indra is the chief and the Maruts are the subjects. For example:
+
+क्षत्रं वा इंद्रो विशो मरुतो पिशा वै क्षत्रियो बलवान् भवति (*kṣatraṃ vā iṃdro viśo maruto piśā vai kṣatriyo balavān bhavati*)
+( Ś. Brā. 4-3-3-6 )
+
+Indra is the king, who has the splendour of the warrior class. The Maruts are the subjects. It is indicated that the king becomes powerful only by the cooperation of the subjects, and that Indra's prowess grew with the help of the Maruts. Because of such a close relation and companionship, the practice of offering oblations addressed to Indra and the Maruts together is also seen in the śrutis. And
+
+### Printed p. 681
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೪ ] Ṛgveda-saṃhitā 681 (as supplied).*
+
+स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः (*sa no marudbhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ*)
+( Ṛ. Saṃ. 1-171-5 )
+
+In Ṛks such as this there is an invocation, and an offering of oblations, to Indra and the Maruts together. Describing this companionship, in the Bṛhaddevatā:
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat*)
+( Bṛ. De. 4-56 )
+
+By sentences such as this the epithet that denotes the relation of these deities has been explained. But in the sūkta under discussion the verbal dispute between Indra and the Maruts and their mutual estrangement are described, and it is stated that at that time the ṛṣi Agastya reconciled them.
+
+महाव्रते मरुत्वतीयशस्त्र एतत्तूक्तं (*mahāvrate marutvatīyaśastra etattūktaṃ*) *[as supplied: the print has ತೂಕ್ತಂ]* ' कया शुभा सवयसः (*kayā śubhā savayasaḥ*) ... .... ' ( Ai. Ā. 5-1-1 ) इत्युक्तत्वात् (*ityuktatvāt*) विषुवति मरुत्वतीये एतदेव निविद्धानीयं (*viṣuvati marutvatīye etadeva nividdhānīyaṃ*).
+
+This sūkta is recited in the Marutvatīya śastra. And Sāyaṇa has cited the injunction that this sūkta must be recited whenever there is the injunction of the Marutvatīya śastra. If the section of the Marutvatīya śastra is examined, it is clear that Indra wishes that, as a token of the confidence which the Maruts showed in him, they too should receive a share in the oblation *[as supplied: printed ದವಿಸ್ಸಿನಲ್ಲಿ, for ಹವಿಸ್ಸಿನಲ್ಲಿ; kept]* offered to him.
+
+इंद्रो वै वृत्रं हनिष्यन्सर्वा देवता अब्रवीदनु मोपतिष्ठध्वमुप मा ह्वयध्वमिति तथेति तं हनिष्यंत आद्रवन्सोऽवेन्मां वै हनिष्यंत आद्रवंति हंतेमान् भीषया इति तानभिप्राश्वसीत्तस्य श्वसथादीषमाणा विश्वे देवा आद्रवन्मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्वेत्येवैनमेतां वाचं वदंत उपातिष्ठंत (*iṃdro vai vṛtraṃ haniṣyansarvā devatā abravīdanu mopatiṣṭhadhvamupa mā hvayadhvamiti tatheti taṃ haniṣyaṃta ādravanso 'venmāṃ vai haniṣyaṃta ādravaṃti haṃtemān bhīṣayā iti tānabhiprāśvasīttasya śvasathādīṣamāṇā viśve devā ādravanmaruto hainaṃ nājahuḥ prahara bhagavo jahi vīrayasvetyevainametāṃ vācaṃ vadaṃta upātiṣṭhaṃta*)
+( Ai. Brā. 3-20 )
+
+At the time of killing Vṛtra, Indra addressed all the deities, "Help me in this work of killing the demon Vṛtra"; they agreed, saying "So be it", and ran up for that purpose. Then the demon Vṛtra said, "These are coming to kill me; I shall frighten them", and breathed out a fierce breath. At once all the deities became afraid and ran away. But the Maruts alone did not abandon Indra. They kept encouraging Indra, saying, "Strike him; use your full strength on him." This same matter is praised
+
+### Printed p. 682
+*Running head: [682 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧ ಅ. ೨೩ ಸೂ. ೧೬೫] (as supplied).*
+
+in the Ṛk
+
+वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः । मरुद्भरिंद्र सख्यं ते अस्त्वथेमा विश्वाः पृतना जयासि (*vṛtrasya tvā śvasathādīṣamāṇā viśve devā ajahurye sakhāyaḥ | marudbhariṃdra sakhyaṃ te astvathemā viśvāḥ pṛtanā jayāsi*)
+( Ṛ. Saṃ. 8-96-7 )
+
+Therefore Indra, remembering the help the Maruts had given him,
+
+सोऽवेदिमे वै किल मे सचिवा इमे माकामयंत हंतेमानस्मिन्नुक्थ अभजा इति तानेतस्मिन्नुक्थ आभजदथहैते तर्हुभे एव निष्केवल्ये उक्थ आसतुः । मरुत्वतीयं ग्रहं गृह्णाति मरुत्वतीयं प्रगाथं शंसति मरुत्वतीयं सूक्तं शंसति मरुत्वतीयां निविदं दधाति मरुतां सा भक्तिः (*so 'vedime vai kila me sacivā ime mākāmayaṃta haṃtemānasminnuktha abhajā iti tānetasminnuktha ābhajadathahaite tarhubhe eva niṣkevalye uktha āsatuḥ | marutvatīyaṃ grahaṃ gṛhṇāti marutvatīyaṃ pragāthaṃ śaṃsati marutvatīyaṃ sūktaṃ śaṃsati marutvatīyāṃ nividaṃ dadhāti marutāṃ sā bhaktiḥ*)
+( Ai. Brā. 3-20 ) *[as supplied: the print has "ಐ ಬ್ರಾ." without the full stop after ಐ]*
+
+"These Maruts are my true friends. They loved me. Therefore I shall give them also a share in the ukta *[as supplied: printed ಉಕ್ತ, apparently for ಉಕ್ಥ; kept]* addressed to me": so resolving, he arranged a share for them also. He took the cup (drinking vessel) for the Maruts, recited the Pragātha, and in this way attended on them in many ways: this is stated on the occasion of describing the Marutvatīya śastra. But what the real meaning is of the description that estrangement arose between Indra and the Maruts, as in the Ṛk under discussion, will be stated later.
+
+सनीळाः (*sanīḷāḥ*)—since गयः (*gayaḥ*), कृदरः (*kṛdaraḥ*), गर्तः (*gartaḥ*) and so on are read among the 22 names of the house (Ni. 3-13), the word नीळ (*nīḷa*) means a house. Because the Maruts always live together, the intention is that they have one dwelling. This epithet is used when the Maruts are addressed.
+
+क ईं व्यक्ता नरः सनीळा रुद्रस्य मर्या आधा स्वश्वाः (*ka īṃ vyaktā naraḥ sanīḷā rudrasya maryā ādhā svaśvāḥ*)
+(Ṛ. Saṃ. 7-56-1)
+
+In all such Ṛks the epithet सनीळाः (*sanīḷāḥ*) describes living in one dwelling.
+
+शुभा (*śubhā*)—for this word one meaning is "by splendour, by light, endowed with beauty" (शोभया (*śobhayā*)); or, since the word शुभ् (*śubh*) is read among the names of water (Ni. 2-24), another meaning, "endowed with water", is possible.
+
+Sāyaṇa has stated that in this sūkta the dialogue of Indra and the Maruts can be applied to a conversation between the vital breath and the individual self, and a meaning referring to the self (adhyātma) can be made.
+
 ---
 
-**Progress note:** Done through printed p. 676. Vol 12 pp. 670-676: Ṛk 52 Special Topics and grammar, end of Sūkta 164, Sūkta 165 introduction and Anuvāda
+**Progress note:** Done through printed p. 682. Vol 12 pp. 677-682: end of Sūkta 165 introduction, particulars, Ṛk 1 and Special Topics
