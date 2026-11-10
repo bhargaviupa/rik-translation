@@ -1652,6 +1652,95 @@ In such ṛks, for the word शतग्विनः (*śatagvinaḥ*) only "pos
 
 *Note (the Sanskrit grammar is only transcribed):* the Kannada begins with राधः (*rādhaḥ*) (root राध (*rādha*), Uṇādi suffix *asun*) and सवितुः (*savituḥ*) (root षु (*ṣu*), suffix *tṛc*; genitive singular), with the accents; the analysis continues on the next page.
 
+### Printed p. 59
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೩. ] Ṛgveda-saṃhitā, p. 59 (printed "ವ. ೩." although Ṛk 5 of Sūkta 159 is still in Varga 2; as supplied).* (The grammar of Ṛk 5 continues.)
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada continues with प्रसवे (*prasave*) (suffix *ac*, compound accent), मनामहे (*manāmahe*) (root मन (*mana*) used in the sense of "asking"; the lengthening by अतो दीर्घो यञि (*ato dīrgho yañi*), a sūtra number broken across two lines; and, in the second explanation, the root म्या (*myā*)), सुचेतुना (*sucetunā*) (नञ् सुभ्याम् (*nañ subhyām*) Pā. Sū. 6-2-70, as printed), धत्तम् (*dhattam*) (root डुधाञ् (*ḍudhāñ*), imperative second dual) and शतग्विनम् (*śatagvinam*) (suffix *ini* in a possessive compound), and ends with the mark ॥ ೫ ॥.
+
+*Here the "ಗೀರ್ನೇ" sūkta is ended: "ಇಲ್ಲಿಗೆ ಗೀರ್ನೇ ಸೂಕ್ತವು ಮುಗಿದುದು." (printed so; the 159th sūkta is meant).*
+
+## Sūkta 160 (Maṇḍala 1)
+
+*"ನೂರ ಅರವತ್ತನೆಯ ಸೂಕ್ತವು" — "the hundred and sixtieth sūkta".*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; the sense is in the Anuvāda below):
+
+> तेहीति पंचर्चं चतुर्थं सूक्तं दैर्घतमसं जागतं द्यावापृथिव्यं ।
+> ते हीत्यनुक्रांतं ॥ चतुर्विंशेऽहनि वैश्वदेवशस्त्रे द्यावापृथिव्यनिविद्धानमेतत्तूक्तं
+> ते हि द्यावापृथिवी यज्ञस्य वो रथ्यमिति वैश्वदेवं । आ. ७-४ । इति सूत्रितत्वात् ॥
+> तथा पृष्ठ्याभिप्लवषडहयोर्द्वितीयेऽहनि वैश्वदेवे द्यावापृथिव्यं निविद्धानीयं
+> चातुर्विंशिकं तृतीयसवनं । आ. ७-६ । इत्याभिप्लविके द्वितीयेऽहन्यतिदिष्टत्वात् ।
+> आभिप्लाविकाद्वितीयादह्नः पृष्यस्य द्वितीयेऽहन्येतत्तूक्तमतिदेशतः प्राप्तं
+> पृष्यस्याभिप्लवेनोक्ते अहनी आद्ये आद्याभ्यां । आ. ७-१० । इति सूत्रितत्वात् ॥
+> प्रथमाश्विनशस्त्रे विनियुक्ता । संस्थितेश्वाश्विनायेत्यत्र सूत्रितं । ते हि द्यावापृथिवी
+> विश्वशंभुवा विश्यस्य देवीमृचयस्य । आ. ६-५ । इति ॥
+
+> *tehīti paṃcarcaṃ caturthaṃ sūktaṃ dairghatamasaṃ jāgataṃ dyāvāpṛthivyaṃ |*
+> *te hītyanukrāṃtaṃ ‖ caturviṃśe 'hani vaiśvadevaśastre dyāvāpṛthivyanividdhānametattūktaṃ*
+> *te hi dyāvāpṛthivī yajñasya vo rathyamiti vaiśvadevaṃ | ā. 7-4 | iti sūtritatvāt ‖*
+> *tathā pṛṣṭhyābhiplavaṣaḍahayordvitīye 'hani vaiśvadeve dyāvāpṛthivyaṃ nividdhānīyaṃ*
+> *cāturviṃśikaṃ tṛtīyasavanaṃ | ā. 7-6 | ityābhiplavike dvitīye 'hanyatidiṣṭatvāt |*
+> *ābhiplāvikādvitīyādahnaḥ pṛṣyasya dvitīye 'hanyetattūktamatideśataḥ prāptaṃ*
+> *pṛṣyasyābhiplavenokte ahanī ādye ādyābhyāṃ | ā. 7-10 | iti sūtritatvāt ‖*
+> *prathamāśvinaśastre viniyuktā | saṃsthiteśvāśvināyetyatra sūtritaṃ | te hi dyāvāpṛthivī*
+> *viśvaśaṃbhuvā viśyasya devīmṛcayasya | ā. 6-5 | iti ‖*
+
+### Printed p. 60
+
+*Running head: 60 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 160.*
+
+**Anuvāda (Kannada).** The sūkta beginning "ತೇ ಹೀ ದ್ಯಾವಾಪೃಥಿವೀ" *[so printed, "ಹೀ"]* is the fourth sūkta in the twenty-second anuvāka. It has five ṛks. The seer of this sūkta is Dīrghatamas, son of Ucathya (printed "ಉಚಥ್ಯ", as supplied). Heaven and Earth are the deity. The metre is *jagatī*. In the Anukramaṇikā it is said to begin with ते हि (*te hi*). On the twenty-fourth day of the sacrifice, when the mantras of the Vaiśvadeva-śastra are recited, the application of this sūkta is for the recitation of the *nivid-dhāna* mantras related to Heaven and Earth, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra ते हि द्यावापृथिवी यज्ञस्य वो रथ्यमिति वैश्वदेवं (*te hi dyāvāpṛthivī yajñasya vo rathyamiti vaiśvadevaṃ*) (Ā. 7-4). In the sacrifices called *pṛṣṭha* and *abhiplavaṣaḍaha* (printed "ಪೃಷ್ಟ", "ಅಭಿಪ್ಲವಪಡಹ"), on the second day, for the *nivid-dhāna* mantras related to Heaven and Earth when the Vaiśvadeva-śastra mantras are recited, the application of this sūkta is indicated both by the sūtra चातुर्विंशिकं तृतीयसवनमित्याभिप्लविके (*cāturviṃśikaṃ tṛtīyasavanamityābhiplavike*) द्वितीयेऽहस्यतिदिष्टत्वात् (*dvitīye 'hasyatidiṣṭatvāt*) (Ā. 7-6) and by the sūtra अभिप्लविकाद्वितीयादह्नः (*abhiplavikādvitīyādahnaḥ*) पृष्टस्य द्वितीयेऽहन्येतत्तूक्तमतिदेशतः प्राप्तं पृष्ट स्याभिप्लवेनोक्ते अहनी (*pṛṣṭasya dvitīye 'hanyetattūktamatideśataḥ prāptaṃ pṛṣṭa syābhiplavenokte ahanī*) आद्ये आद्याभ्यां (*ādye ādyābhyāṃ*) (Ā. 7-10); and that the first ṛk of this sūkta is applied in the Āśvina-śastra mantras also is shown by the sūtra ते हि द्यावापृथिवी विश्वशंभुवा विश्वस्य देवीमृचयस्य (*te hi dyāvāpṛthivī viśvaśaṃbhuvā viśvasya devīmṛcayasya*) in the place संस्थितेष्णाश्विनाय (*saṃsthiteṣṇāśvināya*) (Ā. 6-5).
+
+**Sūkta—160**
+
+*[Om sign ("॥ ಓಂ ॥") printed above the sūkta number, left out here and in the Kannada-script file as a sign only.]*
+
+Maṇḍala 1 ‖ Anuvāka 22 ‖ Sūkta 160 ‖
+Aṣṭaka 2 ‖ Adhyāya 3 ‖ Varga 3 ‖
+*[the line "೧ ಸೂಕ್ತದಲ್ಲಿರುವ ಮುಕ್ಸಂಖ್ಯೆ-೫" is printed so, with a stray "೧" and "ಮುಕ್ಸಂಖ್ಯೆ" for ಋಕ್ಸಂಖ್ಯೆ]* Number of ṛks in the Sūkta: 5 ·
+*[printed "ಮುನಿಃ" (muni) for ṛṣi]* Ṛṣi: Dīrghatamas Aucathya *[printed "ಔಚಧ್ಯಃ"]* · Devatā: Heaven and Earth *[printed "ದ್ಯಾವಾಪೃಥಿವ್ಯೈ"]* · Chandas: *jagatī*.
+
+### Printed p. 61
+
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೩ ] Ṛgveda-saṃhitā, p. 61 (as supplied).*
+
+#### Ṛk 1
+
+*[In the supplied text a picture (vol12/html/figures/fig1_line02941.jpg) stood in place of the Saṃhitā block, whose machine-read text is garbled. The Saṃhitā and the Pada were read from the picture letter by letter, in Kannada script, replacing the garbled text of the same verse; the Saṃhitā is joined into the two lines of the verse and the line-end hyphen "ಧಾರ-ಯತ್ಕವೀ" is joined. Differences from the machine-read text: Pada "ವಿಶ್ವಶಂಭುನಾ" is "ವಿಶ್ವಶಂಭುವಾ" in the picture. The picture prints a small hook mark (the compound-division sign) inside some words, e.g. in "ವಿಶ್ವ·ಶಂಭುವಾ", "ಋತ·ವರೀ", "ಧಾರಯತ್·ಕವೀ"; it is not transcribed, nor are the accent marks (accents are added by script). No letter was left unsettled.]*
+
+**॥ संहितापाठः ॥**
+
+> ते हि द्यावा॑पृथि॒वी वि॒श्वशं॑भुव ऋ॒ताव॑री॒ रज॑सो धार॒यत्क॑वी ।
+> सु॒जन्म॑नी धि॒षणे॑ अं॒तरी॑यते दे॒वो दे॒वी धर्म॑णा॒ सूर्यः॒ शुचिः॑ ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> ते इति । हि । द्यावापृथिवी इति । विश्वशंभुवा । ऋतवरी इत्यृतवरी । रजसः ।
+> धारयत्कवी इति धारयत्कवी ।
+> सुजन्मनी इति सुजन्मनी । धिषणे इति । अंतः । ईयते । देवः । देवी इति । धर्मणा ।
+> सूर्यः । शुचिः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label printed before the bhāṣya is garbled in the supplied text ("ಕಾಯಣಭಾಷ್ಯಂ") and sat inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the block are joined. The bhāṣya of this Ṛk continues on p. 62, in the next window; its gist will be given with its end.]*
+
+> ते हि ते खलु प्रसिद्धे द्यावापृथिवी अंतस्तयोरंतराले शुचिः शुद्धो
+> विश्वस्य शोचयिता वा देवो दीप्यमानः सूर्यो धर्मणा प्रकाशोदक्कदानादिधारणेन युक्तः सन्नीयते । सर्वदा गच्छति ॥ ईज् गत् दैन्वादिकः ॥ तादृशं कर्म युवयोरनुग्रहादिति स्तुतिः । कीदृत्यौ ते । विश्वशंभुना । विश्वं सुखभावयित्य ययोस्ते
+> विश्वशंभुना । विश्वस्य सुखयित्रावित्यर्थः । ऋतावरी ऋतवत्यौ ॥ ऋतशब्दाच्छंदसीवनिपाविति वनिप् । वनो र चेति जिब्रोफौ ॥ रजस उदकस्योदकोत्पत्तौ । उदकं
+> रज उच्यत इति निरुक्तं । ४-१९ । धारयत्कवी अकृच्छ्रेण धारकं कवि ययोस्ते
+> तादृश्यौ । उदकोत्पादनाया प्रयत्नवत्यावित्यर्थः । यद्वा । धारयत्कविर्मनीष्यादित्यो ययोस्ते तादृश्यौ । वृष्टु दकधारयत्सूर्योपेते इत्यर्थः । सुजन्मनी
+> शोभनजन्मवत्यौ धिषणे धर्षणोपेते । स्वव्यापारेषु प्रगल्पे इत्यर्थः । देवी
+> द्योतमाने । अत्र यद्यपि धिषणे इत्येतत् धिषणे रोदसी इति तन्नामसूक्तत्वाद्द्यावापृथिवीनाम तथापि द्यावापृथिवी इत्यस्य विद्यमानत्वाद्योगिकं द्रष्टव्यं ॥
+
+> *te hi te khalu prasiddhe dyāvāpṛthivī aṃtastayoraṃtarāle śuciḥ śuddho*
+> *viśvasya śocayitā vā devo dīpyamānaḥ sūryo dharmaṇā prakāśodakkadānādidhāraṇena yuktaḥ sannīyate | sarvadā gacchati ‖ īj gat dainvādikaḥ ‖ tādṛśaṃ karma yuvayoranugrahāditi stutiḥ | kīdṛtyau te | viśvaśaṃbhunā | viśvaṃ sukhabhāvayitya yayoste*
+> *viśvaśaṃbhunā | viśvasya sukhayitrāvityarthaḥ | ṛtāvarī ṛtavatyau ‖ ṛtaśabdācchaṃdasīvanipāviti vanip | vano ra ceti jibrophau ‖ rajasa udakasyodakotpattau | udakaṃ*
+> *raja ucyata iti niruktaṃ | 4-19 | dhārayatkavī akṛcchreṇa dhārakaṃ kavi yayoste*
+> *tādṛśyau | udakotpādanāyā prayatnavatyāvityarthaḥ | yadvā | dhārayatkavirmanīṣyādityo yayoste tādṛśyau | vṛṣṭu dakadhārayatsūryopete ityarthaḥ | sujanmanī*
+> *śobhanajanmavatyau dhiṣaṇe dharṣaṇopete | svavyāpāreṣu pragalpe ityarthaḥ | devī*
+> *dyotamāne | atra yadyapi dhiṣaṇe ityetat dhiṣaṇe rodasī iti tannāmasūktatvāddyāvāpṛthivīnāma tathāpi dyāvāpṛthivī ityasya vidyamānatvādyogikaṃ draṣṭavyaṃ ‖*
+
 ---
 
-**Progress note:** Done through printed p. 58 (PDF 58). Sūkta 159 Ṛk 4 Special Topics end and grammar; Ṛk 5 complete (Saṃhitā to Special Topics), grammar start
+**Progress note:** Done through printed p. 61 (PDF 61). Sūkta 159 Ṛk 5 grammar end; Sūkta 160 introduction, Ṛk 1 Saṃhitā/Pada (from picture) and bhāṣya start
