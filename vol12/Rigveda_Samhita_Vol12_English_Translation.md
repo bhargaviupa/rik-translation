@@ -5429,6 +5429,121 @@ As there are Āprī-sūktas for the animal offering in other animal sacrifices, 
 
 *[The quotation of the Āprī-sūkta is cut off in the supplied text after verse (4) at the end of this window and continues in the next window.]*
 
+### Printed p. 200
+*Running head: 200 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied; Sāyaṇa-bhāṣya-sahitā, Maṇḍala 1, Anuvāka 22, Sūkta 162).*
+
+*[Continuing the Āprī-sūkta of the Taittirīya Saṃhitā quoted at the end of the previous page; verses (5) to (11). The list number "1." before verse (5) is a stray mark of the supplied text.]*
+
+(5)
+एता उ वस्सुभगा विश्वरूपा वि पक्षोभिः श्रयमाणा उदातैः । (*etā u vassubhagā viśvarūpā vi pakṣobhiḥ śrayamāṇā udātaiḥ |*)
+ऋष्वास्सतीः कवषश्युंभमाना द्वारो देवीः सुप्रायणा भवंतु ॥ (*ṛṣvāssatīḥ kavaṣaśyuṃbhamānā dvāro devīḥ suprāyaṇā bhavaṃtu ‖*)
+(6)
+अंतरा मित्रावरुणा चरंती मुखं यज्ञानामभि संविदाने । (*aṃtarā mitrāvaruṇā caraṃtī mukhaṃ yajñānāmabhi saṃvidāne |*)
+उषासा वां सुहिरण्ये सुशिल्पे ऋतस्य योनाविह सादयामि ॥ (*uṣāsā vāṃ suhiraṇye suśilpe ṛtasya yonāviha sādayāmi ‖*)
+(7)
+प्रथमा वाग्ं सरथिना सुवर्णा देवौ पश्यंतौ भुवनानि विश्वा । (*prathamā vāgṃ sarathinā suvarṇā devau paśyaṃtau bhuvanāni viśvā |*)
+अपिप्रयं चोदना वां मिमाना होतारा ज्योतिः प्रदिशा दिशंता ॥ (*apiprayaṃ codanā vāṃ mimānā hotārā jyotiḥ pradiśā diśaṃtā ‖*)
+(8)
+आदित्यैनोर्नो भारती वष्टु यज्ञग्ं सरस्वती सह रुद्रैर्न आवीत् । (*ādityainorno bhāratī vaṣṭu yajñagṃ sarasvatī saha rudrairna āvīt |*)
+इडोपहूता वसुभिः सजोषा यज्ञं नो देवीरमृतेषु धत्त ॥ (*iḍopahūtā vasubhiḥ sajoṣā yajñaṃ no devīramṛteṣu dhatta ‖*)
+(9)
+त्वष्टा वीरं देवकामं जजान त्वष्टुरर्वा जायत आशुरश्वः । (*tvaṣṭā vīraṃ devakāmaṃ jajāna tvaṣṭurarvā jāyata āśuraśvaḥ |*)
+त्वष्टेदं विश्वं भुवनं जजान बहोः कर्तारमिह यक्षि होतः ॥ (*tvaṣṭedaṃ viśvaṃ bhuvanaṃ jajāna bahoḥ kartāramiha yakṣi hotaḥ ‖*)
+(10)
+अश्वो धृतेन त्मन्या समक्त उप देवाग्ं ऋतुशः पाथ एतु । (*aśvo dhṛtena tmanyā samakta upa devāgṃ ṛtuśaḥ pātha etu |*)
+वनस्पतिर्देवलोकं प्रजानन्नग्निना हव्या स्वदितानि वक्षत् ॥ (*vanaspatirdevalokaṃ prajānannagninā havyā svaditāni vakṣat ‖*)
+(11)
+प्रजापतेस्तपसा वावृधानस्सद्यो जातो दधिषे यज्ञमग्ने । (*prajāpatestapasā vāvṛdhānassadyo jāto dadhiṣe yajñamagne |*)
+स्वाहाकृतेन हविषा पुरोगा याहि साध्या हविरदंतु देवाः ॥ (*svāhākṛtena haviṣā purogā yāhi sādhyā haviradaṃtu devāḥ ‖*)
+(Trai. Saṃ. 5-1-11) *[as supplied: the abbreviation is printed ತ್ರೈ. ಸಂ.]*
+
+These eleven mantras are used as yājyā mantras in the Aśvamedha sacrifice. All eleven mantras are in the Triṣṭubh metre.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*(Transcribed, not explained.)*
+
+ನಿಕ್ರಮಣಮ್—नितरां क्रमते यत्र (*nitarāṃ kramate yatra*); the root क्रमु पादविक्षेपे (*kramu pādavikṣepe*); the affix *lyuṭ* in the sense of locus, with the substitution *anā*; since it has the marker *l*, the udātta accent falls before the affix; in the compound with a prefix the accent of the final member's base applies.
+
+ನಿಷದನಮ್—the root षदल्य विशरणागत्यवसादनेषु (*ṣadalya viśaraṇāgatyavasādaneṣu*); the affix and accents as before; the root's *s* becomes *ṣ* because of the prefix.
+
+ನಿವರ್ತನಮ್ *[as supplied: the word is printed thus although the Ṛk has ವಿವರ್ತನಂ]*—the root वृतु वर्तने (*vṛtu vartane*); the process as before.
+
+ಪಪೌ—the root पा. पाने (*pā. pāne*); perfect, third person singular, the substitution *ṇal*, which becomes *au* by the rule आत औणलः (*āta auṇalaḥ*) (Pā. Sū. 7-1-34); reduplication of the root; because of the connection with *yat* the *nighāta* accent does not occur; by the accent of the affix it is accented on the final syllable.
+
+### Printed p. 201
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೯.) ಋಗ್ವೇದಸಂಹಿತಾ 201] (as supplied; Aṣṭaka 2, Adhyāya 3, Varga 9, Ṛgveda-saṃhitā, with misread brackets).*
+
+ಘಾಸಿಮ್—the root घस्लृ भक्षणे (*ghaslṛ bhakṣaṇe*); the affix *iṇ* by the rule जनिघसिभ्यामिण् (*janighasibhyāmiṇ*) (Uṇ. Sū. 4-569, as printed); lengthening of the penultimate by the rule अतउपधायाः (*ataupadhāyāḥ*) (Pā. Sū. 7-2-116); accented on the final syllable by the affix.
+
+ಜಘಾಸ—the root घस्ल्य भक्षणे (*ghaslya bhakṣaṇe*) *[as supplied: printed thus, differently from the previous word]*; perfect, third person singular; because of the connection with *yat* the *nighāta* accent does not occur; since *ṇal* has the marker *l*, the udātta falls before the affix by the rule लिति (*liti*) (Pā. Sū. 6-1-193, as printed).
+
+*[A picture of the Saṃhitā-pāṭha and Pada-pāṭha of Ṛk 15 stands here in the supplied text; the same text is supplied in Kannada below, so no block was added.]*
+
+#### Ṛk 15
+**॥ संहितापाठः ॥**
+> मा त्वा॒ग्निर्ध्व॑नयाद्भू॒मगं॑धि॒र्मोखा भ्राजं॑त्य॒भि वि॑क्त॒जघ्रिः॑ ।
+> इ॒ष्टं वी॒तम॒भिगू॑र्तं॒ वष॑ट्कृतं॒ तं दे॒वासः॒ प्रति॑ गृभ्णं॒त्यश्वं॑ ॥ १५ ॥
+**॥ पदपाठः ॥**
+> मा । त्वा । अग्निः । ध्वनयीत् । धूमगंधिः । मा । उखा । भ्राजंती । अभि । विक्त ।
+> जघ्रिः ।
+> इष्टं । वीतं । अभिगूर्तं । वषट्कृतं । तं । देवासः । प्रति । गृभ्णंति । अश्वं॥१५॥
+**॥ सायणभाष्यम् ॥**
+> हे अश्व त्वा त्वां धूमगंधिर्धूमेन व्याप्त्सग्निर्मा ध्वनयीत् । मा
+> ध्वनयत् । धूमं दृष्ट्वा शब्दं मा कुनिर्त्यर्थः । अश्वस्य शब्दने प्रायश्चित्तविधानात् ।
+> यद्वा । हे पच्यमानाश्वावयव त्वा त्वां धूमगंधिरग्निर्मा ध्वनयीत् । ध्वन् सति
+> भांडभंगः स्यात् ॥ नोनयतीत्यादिना चज्‌प्रतिषेधः । पा. ३-१-५१ । ह्म्यंतक्षणेति
+
+> *he aśva tvā tvāṃ dhūmagaṃdhirdhūmena vyāptsagnirmā dhvanayīt | mā*
+> *dhvanayat | dhūmaṃ dṛṣṭvā śabdaṃ mā kunirtyarthaḥ | aśvasya śabdane prāyaścittavidhānāt |*
+> *yadvā | he pacyamānāśvāvayava tvā tvāṃ dhūmagaṃdhiragnirmā dhvanayīt | dhvan sati*
+> *bhāṃḍabhaṃgaḥ syāt ‖ nonayatītyādinā cajpratiṣedhaḥ | pā. 3-1-51 | hmyaṃtakṣaṇeti*
+### Printed p. 202
+*Running head: 202 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೨] (as supplied; Sāyaṇa-bhāṣya-sahitā, Maṇḍala 1, Anuvāka 22, Sūkta 162; "ಆ." is printed for "ಅ.").*
+
+> वृद्ध्यभावः ॥ किंच भ्राजंत्यत्यंताग्निसंयोगेन दीपोखा स्थाली माभि विक्त ।
+> अभितो मा चीचलत् । तापातिशयेन मा नीनशदित्यर्थः ॥ ओविजी भयचलनयोः ।
+> छांदसो विकरणस्य लुक् । लुजि वा झलो झलीति सलोपः ॥ स्थाली विशेष्यते ।
+> जघ्रिर्जिघ्रती तापेन ॥ घ्रा गंधोपादाने । आद्यगमहनेति किन्प्रत्ययः ॥ तं शादृशमश्वमिष्टं होतुमिषितं वीतं होमायानीतमभिगूर्तमाभिमुख्येन प्रदानायोद्यतं । यद्वा । इष्टं प्रयाजैराप्रीतं वीतं पर्यग्निकृतमभिगूर्तं ये
+> यजामह इत्यागूर्युक्तं । वषट्कृतं वषट्कारेण देवसंस्कृतं एवंभूतं तं
+> देवासो देवाः प्रति गृभ्यंति । प्रतिगृह्णंति ॥
+*Gist:* "O horse, may smoky Agni not make you neigh, for a neighing horse requires an expiation; or, may the pot with the cooking limb not break. May the glowing pot not be overturned by the great heat. Such a horse, selected, led round and consecrated by vaṣaṭ, the gods accept."
+
+**प्रतिपदार्थ (Pratipadārtha)**
+(हे अश्व (*he aśva*)—O horse); त्वा (*tvā*)—you; धूमगंधिः (*dhūmagaṃdhiḥ*)—the fire filled with smoke; मा ध्वनयित् (*mā dhvanayit*)—may it not make you neigh. [(Or) त्वा (*tvā*)—you, cooking in the vessel in the form of flesh (the vessel); धूमगंधिः (*dhūmagaṃdhiḥ*)—the fire filled with smoke; मा ध्वनयित् (*mā dhvanayit*)—may it not make a loud noise (may the vessel with the flesh not break).] भ्राजंते जघ्रिः (*bhrājaṃte jaghriḥ*)—heated by the flames of the fire and giving off a smell; उखा (*ukhā*)—the vessel (full of flesh); मा अभि विक्त (*mā abhi vikta*)—may it not slip and fall. इष्टं (*iṣṭaṃ*)—chosen for making the offering to the gods; वीतं (*vītaṃ*)—brought near the fire for the offering; अभिगूर्तं (*abhigūrtaṃ*)—prepared chiefly for the oblation. [(Or) इष्टं (*iṣṭaṃ*)—offered with the preliminary offerings (prayājas); वीतं (*vītaṃ*)—led thrice round the fire in the rite of leading round the fire (paryagnikaraṇa), keeping it to the right; अभिगूर्तं (*abhigūrtaṃ*)—made ready for the giving of the oblation.] वषट्कृतं (*vaṣaṭkṛtaṃ*)—consecrated by the exclamation vaṣaṭ (by uttering the mantra "vaṣaṭ") so as to be fit for the gods; तं अश्वं (*taṃ aśvaṃ*)—that horse; देवासः (*devāsaḥ*)—the gods; प्रति गृछंति (*prati gṛchaṃti*) *[as supplied: the Pada has ಗೃಭ್ಣಂತಿ]*—accept (the words "they accept" are printed twice in the supplied text).
+
+**भावार्थ (Bhāvārtha)**
+Seeing the smoking fire, that is, the fire giving off the smell of smoke, may the sacrificial horse not neigh (make a noise). May the vessel of flesh, heated by a great flame and giving off a smell, not be upset and fall. This horse, led round the fire in the rite of paryagnikaraṇa, has been prepared for the offering to the gods accompanied by vaṣaṭ. The gods accept a horse so consecrated.
+
+**Printed English**
+Let not smoke-smelling Agni cause you, (horse), to utter sound ; let not the glowing caldron, odoriferous (with its contents), be overturned : th- *[as supplied: the printed English breaks off here with "th-" at the page end; it continues on the next page]*
+
+### Printed p. 203
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೯.] ಹುಗ್ವೇದಸಂಹಿತಾ 203] (as supplied; Aṣṭaka 2, Adhyāya 3, Varga 9, Ṛgveda-saṃhitā; "ಹುಗ್ವೇದ" is a misreading of ಋಗ್ವೇದ; the page marker was inserted by script).*
+
+gods accept a horse that has been selected (for sacrifice); that has been led (round the fire): that has been devoutly offered, and has been consecrated by (the exclamation), Vashat.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+मा त्वा अग्निः ध्वनयीत् धूमगंधिः (*mā tvā agniḥ dhvanayīt dhūmagaṃdhiḥ*)—धूमगंधिः (*dhūmagaṃdhiḥ*) means having the smell of smoke, that is, filled with much smoke. The prayer is that when the horse is brought to such a smoking fire for the rite of leading round the fire (paryagnikaraṇa), it may not make a noise. If the horse takes fright and makes a noise, an expiatory rite has to be performed; so that there may be no occasion for expiation, the seer's intention is that the horse may not make a noise because of the trouble of the smoke.
+
+मा उखा भ्राजंती अभि विक्त जघ्रि: (*mā ukhā bhrājaṃtī abhi vikta jaghri:*)—The vessel of flesh on the fire, reddened and heated by the great flame, gives off the smell of the cooking flesh. The meaning is that such a vessel should not fall down or break from some cause.
+
+ಇಷ್ಟಂ—होतुमिषितं । (*hotumiṣitaṃ |*) यद्वा प्रयाजैराप्रीतं । (*yadvā prayājairāprītaṃ |*) The meaning is: the horse chosen for the offering, or the horse offered with the prayāja mantras.
+
+ವೀತಂ—brought near the fire, or having gone round the fire in the rite of paryagnikaraṇa.
+
+ಅಭಿಗೂರ್ತಂ—अभिमुख्येन प्रदानायोद्यतं । (*abhimukhyena pradānāyodyataṃ |*) Made ready to be given as the chief oblation; or, beginning with ये यजामहे (*ye yajāmahe*), ready for the offering with the mantra pronounced aloud.
+
+ವಷಟ್ಕೃತಂ—when offering in the fire, at the end of the prayāja mantras they make the offering uttering the word वौषट् (*vauṣaṭ*). Offering accompanied by this *vauṣaṭ* is called *vaṣaṭkāra*. The meaning is that the gods accept such a horse, or horse-flesh, purified by mantras.
+
+*[ವ್ಯಾಕರಣಕ್ರಿಯಾ] — garbled label as supplied; the standard label follows.*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*(Transcribed, not explained; the analysis of Ṛk 15 is cut off in the supplied text at the end of this window and continues in the next window.)*
+
+ಧ್ವನಯೀತ್—the root ध्वन शब्दे (*dhvana śabde*); the affix *ṇic* by the rule हेतुमति च (*hetumati ca*) (Pā. Sū. 3-1-26); since the root belongs to the *ghaṭādi* group, it gets the designation *mit*; when the lengthening of the penultimate arises, the penultimate of the root is shortened by the rule मितां ह्रस्वः (*mitāṃ hrasvaḥ*) (Pā. Sū. 6-4-92); when *māṅ* is the accompanying word, *luṅ* by the rule माजि लुज् (*māji luj*) (Pā. Sū. 3-3-175); the affix *tip* in the third person singular; the elision of *i* by the rule इतश्च (*itaśca*); the prohibition of *caṅ* by the rule नोनयति ध्वन (*nonayati dhvana*) (Pā. Sū. 3-1-51) …
+
 ---
 
-**Progress note:** Done through printed p. 199. Ṛk 14 of Sūkta 162 (grammar of Ṛk 13 end, Ṛk 14, Special Topics, Taittirīya Āprī verses 1-4)
+**Progress note:** Done through printed p. 203. Āprī verses 5-11, grammar of Ṛk 14, Ṛk 15 with Special Topics and start of its grammar
