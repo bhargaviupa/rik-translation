@@ -5963,6 +5963,143 @@ Verily at this moment you do not die; nor are you harmed; for you go by auspicio
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 In this Ṛk two main points are indicated. First, after the sacrificial horse has been offered in the form of an oblation, the death that befalls other worldly animals does not befall it; a distinct state is obtained, one that makes it immortal along with the gods. As soon as the offering is made, its movement is attained on the path by which it goes and joins the gods. Here, for सुगेभिः पथिभिः (*sugebhiḥ pathibhiḥ*) the commentator has explained शोभनगमनसाधनैर्मार्गैः देवयानलक्षणैः (*śobhanagamanasādhanairmārgaiḥ devayānalakṣaṇaiḥ*) as "by paths suitable for the movement of the gods". This path of the *devayāna* … *[the printed page ends here; the sentence continues on the next page]*
 
+### Printed p. 223
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೧೦.] Ṛgveda-saṃhitā 223 (as supplied).*
+
+*[Continuing the Special Topics of Ṛk 21 from the previous page]* ...is not attainable by all beings; it is attainable only by the virtuous. For that very reason it is explained that Indra's Haris (bay horses), the Pṛṣatīs (spotted mares) of the Maruts, and the ass of the Aśvins, or its representative, take this horse along, and that it procures for it the most excellent station. Sāyaṇa, for रासभस्य धुरि (*rāsabhasya dhuri*), has given the meaning भानोः धुरि वर्त्मनि युक्तः वाजी अश्वः (*bhānoḥ dhuri vartmani yuktaḥ vājī aśvaḥ*), that is, "the courser, the horse, yoked on the path of the Sun's movement". If we examine what the Sun's path of movement is:
+
+आ कृष्णेन रजसा वर्तमानो निवेशयन्नमृतं मर्त्यं च । हिरण्ययेन सविता रथेनादेवो याति भुवनानि पश्यन् (*ā kṛṣṇena rajasā vartamāno niveśayannamṛtaṃ martyaṃ ca | hiraṇyayena savitā rathenādevo yāti bhuvanāni paśyan*)
+(Ṛ. Saṃ. 1-35-2)
+
+याति देवः प्रवता यात्युद्वता याति शुभ्राभ्यां यजतो हरिभ्यां । आ देवो याति सविता परावतोप विश्वा दुरिता बाधमानः (*yāti devaḥ pravatā yātyudvatā yāti śubhrābhyāṃ yajato haribhyāṃ | ā devo yāti savitā parāvatopa viśvā duritā bādhamānaḥ*)
+(Ṛ. Saṃ. 1-35-3)
+
+In Ṛks such as these the bright and eternal nature of the Sun's movement, as described there, is made known here also. This path of the Sun's movement is itself the path that carries the virtuous to Brahmaloka. In the Upaniṣads and similar texts it is called *devayāna*. In the Ṛk-saṃhitā, however, the word *devayāna* has the ordinary meaning "the path on which the gods travel"; only in some places is the idea described in the Upaniṣads also present.
+
+परं मृत्यो अनु परेहि पंथां यस्ते स्व इतरो देवयानात् । चक्षुष्मते शृण्वते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरान् (*paraṃ mṛtyo anu parehi paṃthāṃ yaste sva itaro devayānāt | cakṣuṣmate śṛṇvate te bravīmi mā naḥ prajāṃ rīriṣo mota vīrān*)
+(Ṛ. Saṃ. 10-18-1)
+
+In Ṛks such as these the *devayāna* is declared to be a path free from death. Since it is stated in the Ṛk-saṃhitā itself that on this path Savitṛ leads the virtuous to the deathless world of merit, this meaning also is fitting.
+
+ये ते पंथाः सवितः पूर्व्यासोरेणवः सुकृता अंतरिक्षे । तेभिर्नो अद्य पथिभिः सुगेभी रक्षा च नो अधि च ब्रूहि देव (*ye te paṃthāḥ savitaḥ pūrvyāsoreṇavaḥ sukṛtā aṃtarikṣe | tebhirno adya pathibhiḥ sugebhī rakṣā ca no adhi ca brūhi deva*)
+(Ṛ. Saṃ. 1-35-11)
+
+यत्रासते सुकृतो यत्र ते ययुस्तत्र त्वा देवः सविता दधातु (*yatrāsate sukṛto yatra te yayustatra tvā devaḥ savitā dadhātu*)
+(Ṛ. Saṃ. 10-17-4)
+
+### Printed p. 224
+*Running head: 224 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+In Ṛks such as these, since Savitṛ is the god who leads the virtuous along the good path, it is prayed that he lead the sacrificers who perform the sacrifice, and the animals that take part in the sacrificial rite, along that same path, which is pure, free from dust (*rajas*), and free from death. This same path is called in the Upaniṣads the *arcirādi* path. This path is described as one on which divine souls who reach Brahmaloka after death have no return.
+
+तत्पुरुषोऽमानवः स एनान्ब्रह्म गमयत्येष देवपथो ब्रह्मपथ एतेन प्रति पद्यमाना इमं मानवमावर्तं नावर्तंते नावर्तंते (*tatpuruṣo 'mānavaḥ sa enānbrahma gamayatyeṣa devapatho brahmapatha etena prati padyamānā imaṃ mānavamāvartaṃ nāvartaṃte nāvartaṃte*)
+(Bhā. U. 4-15-5)
+
+*[Abbreviation "Bhā. U." as supplied.]* Just as it is proclaimed that there is no return for those who go to the world of the gods, having obtained such a superhuman (*amānuṣa*) spirit, the same idea is stated in the Muṇḍaka Upaniṣad also:
+
+सूर्यद्वारेण ते विरजाः प्रयांति यत्रामृतः स पुरुषो ह्यव्ययात्मा (*sūryadvāreṇa te virajāḥ prayāṃti yatrāmṛtaḥ sa puruṣo hyavyayātmā*)
+(Muṃ. U. 2-11)
+
+*[Abbreviation "Muṃ. U." as supplied.]* In passages such as these also the greatness of this path is stated. It is said that, leading the horse along such an excellent path, they will bring it to a good state. That is indicated here by सुगेभिः पथिभिः (*sugebhiḥ pathibhiḥ*).
+
+रासभस्य (*rāsabhasya*)—भानोः (*bhānoḥ*). On what authority the meaning "the Sun" has been stated for the word रासभ (*rāsabha*) is hard to show by giving its etymology. If proper authority is found, this word will be explained later.
+
+When, after being offered in the form of an oblation, this horse is moving on the path of the gods, the question arises why Indra's vehicle, the Maruts' vehicle and the vehicle of the Aśvin gods should come to take it along. As the answer to this, Sāyaṇa says तत्तद्देवभावमापन्नं त्वां तानि तानि वाहनानि वहंति (*tattaddevabhāvamāpannaṃ tvāṃ tāni tāni vāhanāni vahaṃti*) (preceded by यद्वा (*yadvā*), "or"): "the vehicles of the respective gods carry you who have attained the very nature of those gods."
+
+हरी इंद्रस्य ; रासभावश्विनोः ; पृषत्यो मरुतां (*harī iṃdrasya ; rāsabhāvaśvinoḥ ; pṛṣatyo marutāṃ*) (Ni. 2-28): thus the vehicles of Indra and the other gods are well known.
+
+*Grammar (transcribed, not explained):*
+
+म्रियसे (*mriyase*)—the root मृज् (*mṛj*) in the sense of giving up life (as printed); the *tudādi* class, *laṭ*, second person singular; when थास् (*thās*) comes, the substitute से (*se*); by तुदादिभ्यः (*tudādibhyaḥ*) (Pā. Sū. 3-1-77) the vikaraṇa श (*śa*). The text then breaks at the page end *[printed: "ಇಂ" at the end of the line; the next page begins "ಪರವಾದಾಗ"]*.
+
+### Printed p. 225
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೦. ] Ṛgveda-saṃhitā 225 (as supplied).*
+
+*Grammar (continued):* ...when it follows, by रिज्शयग्लिज्जु (*rijśayaglijju*) (Pā. Sū. 7-4-28) the substitute रिज् (*rij*) for the root; when it comes as a final substitute, by अचिश्नुधातुभ्रुवां (*aciśnudhātubhruvāṃ*) the substitution “ಇಯಜಾದೇಶ” (as printed). The *tiṅanta* *nighāta* accent results.
+
+रिष्यसि (*riṣyasi*)—the root रिष (*riṣa*) in the sense of injuring; *divādi* class. By *vyatyaya* (interchange) the active suffix in the passive. The form is *laṭ*, second person singular. The *tiṅanta* *nighāta* accent results.
+
+एषि (*eṣi*)—the root इण् (*iṇ*) in the sense of going. सिप् (*sip*) for *laṭ*. By आदिप्रभृतिभ्यःशपः (*ādiprabhṛtibhyaḥśapaḥ*) *luk* for the vikaraṇa. By reason of सिप् (*sip*), *guṇa* for the root. By आदेशप्रत्यययोः (*ādeśapratyayayoḥ*) the change to ष (*ṣa*). The *nighāta* accent results.
+
+सुगेभिः (*sugebhiḥ*)—the root गम्‌ल्य (*gamlya*) *[as supplied]* in the sense of going. By सुदुरोरधिकरणे (*suduroradhikaraṇe*) (Pā. Sū. 3-2-48-3, as supplied) the suffix ड (*ḍa*). By the force of the ड (*ḍa*)-marker, elision of the root's टि (*ṭi*). The *kṛd-uttarapada-prakṛti* accent results. When भिस् (*bhis*) follows, by बहुलं छंदसि (*bahulaṃ chaṃdasi*) the substitution ऐस् (*ais*) is optional and therefore does not occur. The change to ए (*e*).
+
+युञ्जा (*yuñjā*)—the root युजिर् (*yujir*) in the sense of joining. The root being by itself (without a prefix), by ऋत्विक् दधृक् (*ṛtvik dadhṛk*) (Pā. Sū. 3-2-59) the suffix क्विन् (*kvin*). When this follows, by युजेरसमासे (*yujerasamāse*) (Pā. Sū. 7-1-71) the augment (printed “ನುಮಾಗಮ”). Because it is marked with म् (*m*) it comes after the last vowel; for it, the *anusvāra* and the following homorganic (*parasavarṇa*). By सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) the substitute आ (*ā*) for the case-ending.
+
+अस्थात् (*asthāt*)—the root ष्ठा (*ṣṭhā*) in the sense of cessation of motion. *Luṅ* in the Vedic manner. In the third person singular, elision of the इ (*i*) of तिप् (*tip*). When सिच् (*sic*) comes for “ಚ್ಚಿ” (as printed), by गातिस्थाघुपा (*gātisthāghupā*) (Pā. Sū. 2-4-77) *luk* for it. The augment (printed “ಅಡಾಗಮ”) for the stem. The *tiṅanta* *nighāta* accent results.
+
+रासभस्य (*rāsabhasya*)—the root रासृ (*rāsṛ*) in the sense of sound. By रासिवल्लिभ्यां च (*rāsivallibhyāṃ ca*) (U. Sū. 4-405) the suffix अभच् (*abhac*). By चितः (*citaḥ*) (Pā. Sū. "ಟು೧-೧೬೩", as supplied; the number is garbled) the final-acute accent results. ॥ 21 ॥
+
+*[As supplied, a garbled label: "। ಸಂಹಕಾರ ॥" (the script read it as the heading Saṃhitā-pāṭha).]*
+
+#### Ṛk 22
+**॥ संहितापाठः ॥**
+> सु॒गव्यं॑ नो वा॒जी स्वश्वं॑ पुं॒सः पु॒त्रौ उ॒त वि॑श्वा॒पुषं॒॑
+> रयिं ।
+> अ॒ना॒गा॒स्त्वं नो॒ अदि॑तिः कृणोतु क्ष॒त्रं नो॒ अश्वो॑ वनतां॒॑
+> हविष्मान् ॥ २२ ॥
+*[Stray line as supplied: [15]                                                                 Vol. 12]]*
+
+### Printed p. 226
+*Running head: 226 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+**॥ पदपाठः ॥**
+> सुगव्यं । नः । वाजी । सुअश्वं । पुंसः । पुत्रान् । उत । विश्वपुषं । रयिं ।
+> अनागात्वं । नः । अदितिः । कृणोतु । क्षत्रं । नः । अश्वः । वनतां । हविष्मान् ॥ २२ ॥
+*[As supplied, a garbled label: "ಸಾಯಣಭಾಷ್ಯ c" (the script read it as the heading Sāyaṇa-bhāṣya).]*
+**॥ सायणभाष्यम् ॥**
+> उपाकरणकालेवघ्राणावर्तने यद्यश्वो न कुर्यात् तदैषा नैमित्तिकी
+> यजमानवाचनार्था भवति । तथा च सूत्रितं । सुगव्यं नो वाजी स्वश्वमिति यजमानं वाचयेत् । आ. १०-८ । इति ॥
+> वाज्यत्व आलभ्यमानो नोऽस्माकं सुगव्यं शोभनेन गोसमूहेन युक्तं
+> विश्वापुषं रयिं विश्वस्य पोषकं धनं कृणोतु । करोतु ॥ खलगोरथात् । सा
+> ४-२-५० । इति समूहार्थे यत् । छांदसमुत्तरपदाद्युदात्तत्वं । यद्वा । सामूहिकस्याणः प्रसंगे सर्वत्र गोरजादिप्रत्ययप्रसंग इति यत् । का. ४-३-१६० । तदंतस्याद्युदात्तं द्वच्छंदसीत्युत्तरपदाद्युदात्तत्वं ॥ तथा स्वश्वं शोभनाश्वसमूहयुक्तं । तथा पुंसः पुत्रान् । पुत्रशब्दः स्त्रीपुमपत्यसाधारणः । अतः पुमपत्यानीत्यर्थः । यद्वा । पुंसो वध्वादीन् पुत्रान् पुरुरक्षकानात्मजान् । स्त्रैपत्यानि पुमपत्यानि चेत्यर्थः । उतापि च विश्वापुषं रयिं विश्वपोषणसमर्थं धनं । किंच
+> नोऽस्मानदितिरदीनोऽश्वोऽनागास्त्वं कृणोतु । सर्वतो निष्पासत्वं करोतु -
+> उक्तानां फलानां न्यूनातिरेकजनितपापक्षयाभावेऽसंभवादपापत्वं प्रार्थ्यते ।
+> किंच हविष्मान् हविर्भूतावयवोपेतोऽश्वो नोऽस्माकं क्षत्रं बलं क्षात्रं
+> तेजो वनतां संभजतां । कुरुतां ॥
+*Gist:* If the horse does not sniff at the upākaraṇa, the sacrificer recites this Ṛk; may the horse give us cows, horses, sons, wealth, freedom from sin, and strength.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+वाजी (*vājī*)—this sacrificial horse; नः (*naḥ*)—to us; सुगव्यं (*sugavyaṃ*)—accompanied by excellent cows; स्वत्वं (*svatvaṃ*) *[as supplied]*—accompanied by excellent horses; पुंसः (*puṃsaḥ*)—of male form; पुत्रान् (*putrān*)—sons; उत (*uta*)—and; विश्वापुषं (*viśvāpuṣaṃ*)—nourishing all; रयिं (*rayiṃ*)—wealth; कृणोतु (*kṛṇotu*)—may it procure and give; अदितिः (*aditiḥ*)—possessing dignity; अश्वः (*aśvaḥ*)—the horse; नः (*naḥ*)—to us; अनागात्त्वं (*anāgāttvaṃ*)—the state free from sin; (कृणोतु (*kṛṇotu*)—may it bring about); हविष्मान् (*haviṣmān*)—this horse, which is offered in the form of an oblation; नः (*naḥ*)—to us; क्षत्रं (*kṣatraṃ*)—strength; वनतां (*vanatāṃ*)—may it supply.
+
+### Printed p. 227
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೦.] Ṛgveda-saṃhitā 227 (as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+May this sacrificial horse procure for us sons, accompanied by excellent cows, accompanied by excellent horses, and of male form, and wealth that nourishes all. May this horse, which possesses dignity, bring about for us a state free from sin. May this horse, which is offered in the form of an oblation, supply us with strength.
+
+**Printed English**
+May this horse bring to us all-sustaining wealth, with abundance of cows, of excellent horses, and of male offspring : may the spirited steed bring us exemption from wickedness: may this horse, offered in oblation, procure for us bodily vigor.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+If at the time of the upākaraṇa the sacrificial horse does not sniff (*avaghrāṇa*), then this Ṛk beginning सुगव्यं नो वाजीस्वश्वं (*sugavyaṃ no vājīsvaśvaṃ*) is to be recited by the sacrificer. This is set out in the Āśvalāyana Śrauta-sūtra by the sūtra सुगव्यं नो वाजे।स्वश्वमिति यजमानं वाचयेत् (*sugavyaṃ no vāje|svaśvamiti yajamānaṃ vācayet*) *[as supplied: ವಾಜೇ।, where the Saṃhitā has ವಾಜೀ]* (Ā. 10-8).
+
+Two points in this Ṛk are noteworthy. The first is the fruit of the Aśvamedha. The second is that this fruit must be joined with right action; if there is a deviation in the action, the fruit is not obtained. Therefore, having first prayed for wealth accompanied by cows and the like, for the wealth of affection and for the *kṣātra* power, it is prayed together with it also, अनागास्त्वं कृणोतु (*anāgāstvaṃ kṛṇotu*), "may it make us free from sin". The fruit to be obtained by performing the Aśvamedha is described in this manner:
+
+आस्य यजमानस्य वीरो जायतामिति । यजमानस्यैव प्रजायां वीर्यं दधाति तस्मात्पुरेजानस्य वीरो जज्ञे । निकामे निकामे नः पर्जन्यो वर्ष त्विति । निकामे निकामे वै तत्र पर्जन्यो वर्षति यत्रैनेन यज्ञेन यजंते फलवत्यो न ओषधयः पच्यंतामिति फलवत्यो वै तत्रौषधयः पच्यंते यत्रैतेन यज्ञेन यजंते योगक्षेमो नः कल्पतामिति योग क्षेमो वै तत्र कल्पते यत्रैतेन यज्ञेन यजंते तस्माद्यतैतेन यज्ञेन यजंते कृप्तः प्रजानां योगक्षेमो भवति (*āsya yajamānasya vīro jāyatāmiti | yajamānasyaiva prajāyāṃ vīryaṃ dadhāti tasmātpurejānasya vīro jajñe | nikāme nikāme naḥ parjanyo varṣa tviti | nikāme nikāme vai tatra parjanyo varṣati yatrainena yajñena yajaṃte phalavatyo na oṣadhayaḥ pacyaṃtāmiti phalavatyo vai tatrauṣadhayaḥ pacyaṃte yatraitena yajñena yajaṃte yogakṣemo naḥ kalpatāmiti yoga kṣemo vai tatra kalpate yatraitena yajñena yajaṃte tasmādyataitena yajñena yajaṃte kṛptaḥ prajānāṃ yogakṣemo bhavati*)
+(Śa. Brā. 13-1-9-9 to 10)
+
+The same idea is stated in Tai. Brā. 3-8-13-3 also. Since it is established that a valiant son is born to one who has performed the Aśvamedha, let a valiant son be born to this sacrificer also. *[The sentence continues on the next page.]*
+
+### Printed p. 228
+*Running head: 228 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೨] (as supplied; "ಆ." where "ಅ." is usual).*
+
+...Further, for such a sacrificer Parjanya pours rain and makes trees and the like heavy with fruit; and with no loss to the sacrificer's prosperity, all his wealth remains well protected. Therefore, since it is established that those who have performed this Aśvamedha obtain wealth in sons and wealth in fruit, and that all kinds of prosperity remain well protected, all these are prayed for here also.
+
+क्षत्रं (*kṣatraṃ*)—क्षत्रं बलं क्षात्रं तेजः (*kṣatraṃ balaṃ kṣātraṃ tejaḥ*). By this, the word is first given in general the meaning "strength", and then the distinctive feature of that strength is made known as *kṣātra* splendour. For performing the Aśvamedha also, complete *kṣātra* splendour is required, and the fruit of the Aśvamedha too is *kṣātra* splendour. One who lacks *kṣātra* splendour has no eligibility for the Aśvamedha at all; his former position also is lost.
+
+राष्ट्रं वा अश्वमेधः । राष्ट्रे खलु ना एते न्यायच्छंते । योऽश्वं मेध्यग्ं रक्षंति । तेषां य उदृचं गच्छंति । राष्ट्रादेव ते राष्ट्रं गच्छंति । अथ य उदृचं न गच्छंति । राष्ट्रादेव ते व्यवच्छिद्यंते । परा वा एष सिच्यते । योऽबलोऽश्वमेधेन यजते यदमित्रा अश्वं विंदेरन् । हन्येतास्य यज्ञः (*rāṣṭraṃ vā aśvamedhaḥ | rāṣṭre khalu nā ete nyāyacchaṃte | yo 'śvaṃ medhyagṃ rakṣaṃti | teṣāṃ ya udṛcaṃ gacchaṃti | rāṣṭrādeva te rāṣṭraṃ gacchaṃti | atha ya udṛcaṃ na gacchaṃti | rāṣṭrādeva te vyavacchidyaṃte | parā vā eṣa sicyate | yo 'balo 'śvamedhena yajate yadamitrā aśvaṃ viṃderan | hanyetāsya yajñaḥ*)
+(Tai. Brā. 3-8-9-4, 5)
+
+The Aśvamedha is not a sacrifice of an individual. It is the emblem of the power of the nation, and is that which is to display the nation's power. The king who has the strength to protect the nation should perform this sacrifice. Until the time of the sacrifice he must be so strong as to be capable of protecting this horse. If a Kṣatriya has no such strength and other kings seize the horse, the sacrifice of such a Kṣatriya fails and his loss of position is certain: thus the necessity of *kṣatra* is stated. Since this is wholly identified with the strength of the Kṣatriya, its fruit also is united with *kṣātra* splendour alone.
+(Śa. Brā. 13-1-6-3)
+
+अधिपतिरस्यधिपतिं मा कुर्वधिपतिरहं प्रजानां भूयासमित्याह । अधिपतिमेवैनग्ं समानानां करोति (*adhipatirasyadhipatiṃ mā kurvadhipatirahaṃ prajānāṃ bhūyāsamityāha | adhipatimevainagṃ samānānāṃ karoti*)
+(Tai. Brā. 3-9-16-2)
+
+"O sacrificial horse, you are the overlord of all the sacrificers. By your grace may I also become the overlord of all my subjects": as it is prayed in this way, so here also it is prayed क्षत्रं नो वनतां (*kṣatraṃ no vanatāṃ*).
+
+अनागास्त्वं करोतु (*anāgāstvaṃ karotu*)—may it make us free from sin. Since the Aśvamedha is an exceedingly difficult rite, a lapse in that rite may easily occur.
+
 ---
 
-**Progress note:** Done through printed p. 222. Sukta 162 rks 20-21, Satapatha quotations, grammar, pp. 217-222
+**Progress note:** Done through printed p. 228. Vol 12 pp. 223-228: end of Rk 21 special topics (devayana), grammar, Rk 22 (Sukta 162) with Sayana, special topics
