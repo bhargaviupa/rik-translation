@@ -9265,6 +9265,164 @@ As explained in this verse, "pratyaya-sarga" means ignorance; viparyaya (error),
 
 2) the eight constituents of the body; *(the list continues in the next window; the window ends here as supplied)*
 
+### Printed p. 374
+*Running head: 374 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+(Continuing the list of the six groups of eight:)
+
+3) the eight impersonal (apauruṣeya) powers; 4) the eight bhāvas (states); 5) the eight deities; 6) the eight guṇas (qualities). The collection of these is described as अष्टकैष्कड्डिः (*aṣṭakaiṣkaḍḍiḥ*) *[as supplied: so spelt here; the earlier passage has a different spelling of the same word]*. Further, desire (kāma) is called the rope of this chariot, and dharma, adharma and knowledge are called the three tracks of the chariot-wheel. In the same manner, comparing the principle of the universe to the wheel of a chariot, and the various parts of the universe to the different members of the wheel, is a common feature of the Śruti texts. Likewise in the present Ṛk also it is described: पंचारे चक्रे परिवर्तमाने तस्मिन्नातस्थुर्भुवनानि विश्वा (*paṃcāre cakre parivartamāne tasminnātasthurbhuvanāni viśvā*). In this wheel of the universe, which is of the nature of Time, the parts such as the vatsara and the parivatsara revolve again and again and are subject to old age and death; yet this original principle alone remains eternal. Therefore its imperishable state is described by नाक्षस्तप्यते (*nākṣastapyate*) ; सनादेव शीर्यते सनाभिः (*sanādeva śīryate sanābhiḥ*). Because it carries the whole burden of the universe, its axle bears a very great load, and yet it does not become blunted. This wheel of the universe, which is of the nature of Time, may be compared to the Agni, the Vāyu and the Sūrya described in the Kaṭha Upaniṣad *[as supplied: the Kannada spells the Upaniṣad's name ಕಠೋಪತಿಷತ್ತಿನಲ್ಲಿ, and "Sūra" ಸೂರ for the sun]*.
+
+अग्निर्यथैको भुवनं प्रविष्टो रूपं रूपं प्रतिरूपो बभूव । एकस्तथा सर्व भूतांतरात्मा रूपं रूपं प्रतिरूपो बहिश्च ॥ (*agniryathaiko bhuvanaṃ praviṣṭo rūpaṃ rūpaṃ pratirūpo babhūva | ekastathā sarva bhūtāṃtarātmā rūpaṃ rūpaṃ pratirūpo bahiśca ‖*)
+
+सूर्यो यथा सर्वलोकस्य चक्षुर्न लिप्यते चाक्षुषैर्बाह्यदोषैः । एकस्तथा सर्वभूतांतरात्मा न लिप्यते लोकदुःखेन बाह्यः ॥ (*sūryo yathā sarvalokasya cakṣurna lipyate cākṣuṣairbāhyadoṣaiḥ | ekastathā sarvabhūtāṃtarātmā na lipyate lokaduḥkhena bāhyaḥ ‖*)
+
+(Kaṭha Upaniṣad 5-9-11)
+
+In the manner in which the one single principle spreads in the universe and takes the form of every object, in the same manner this principle of Time also, pervading the universe, takes on the individual measure of each thing. But in the manner in which the sun, the eye of the whole world, is not tainted by the external defects of the eye that beholds him, in the same way this principle of Time is not tainted by the defects of the individual world. It is neither perishable; it is eternal and steady.
+
+यथा लौकिकरथाक्षः भारेण भग्नो भवति अक्षघातेन च नाभिर्विवृता भवति तद्वदत्रापि नास्तीत्यर्थः ॥ (*yathā laukikarathākṣaḥ bhāreṇa bhagno bhavati akṣaghātena ca nābhirvivṛtā bhavati tadvadatrāpi nāstītyarthaḥ ‖*)
+
+In the manner in which the axle of a worldly chariot breaks by carrying a burden beyond its strength, and thereby its nave becomes deformed, so, even though it carries the burden of the universe, so the axle of this chariot-wheel *(the sentence is cut by the page end and continues on p. 375)*.
+
+### Printed p. 375
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೧೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 375 (as supplied).*
+
+(Continuing) ...and so the axle of this wheel does not break even though it bears the burden of the universe, and its nave does not become deformed; thus Sāyaṇa has explained the purport of the second half.
+
+*Vyākaraṇa-prakriyā (grammatical derivation)*
+
+परिवर्तमाने (*parivartamāne*)—from the root वृतु वर्तने (*vṛtu vartane*); for लट् (*laṭ*) the substitute शानचादेश (*śānacādeśa*). By the rule पुगंतलघूपधस्यच (*pugaṃtalaghūpadhasyaca*) (Pā. Sū. 7-3-86), after the vikaraṇa śap, guṇa for the laghūpadha of the root. By तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. (6-1-186) *[as supplied: the reference is printed with the bracket opened twice, "(ಪಾ.ಸೂ." at the line end and "(೬-೧-೧೮೬)" on the next line]*, since the लसार्वधातुकवु (*lasārvadhātukavu*) becomes anudātta, the accent of the root remains. In the Prādi compound, the accent of the prakṛti of the latter member (kṛd-uttarapada-prakṛti-svara) comes.
+
+विश्वा (*viśvā*)—in the neuter plural, by शेश्छंदसि बहुलं (*śeśchaṃdasi bahulaṃ*) (Pā Sū. 6-1-70) *[as supplied: "ಪಾ ಸೂ." without the full stop]* elision of śi.
+
+तप्यते (*tapyate*)—the root तप संतापे (*tapa saṃtāpe*). A form ending in the passive Present (लट् (*laṭ*)), third person singular. The tiṅanta-nighāta accent comes.
+
+भूरिभारः (*bhūribhāraḥ*)—भूरि भारः यस्य सः (*bhūri bhāraḥ yasya saḥ*) (he of whom the burden is great); in the bahuvrīhi the accent of the prakṛti of the former member comes.
+
+शीर्यते (*śīryate*)—the root श्य हिंसायां (*śya hiṃsāyāṃ*) *[as supplied: root spelt so]*. Passive Present (लट् (*laṭ*)). By सार्वधातुके यक् (*sārvadhātuke yak*) (Pā. Sū. 3-1-67), when yak has come, by ऋत इद्दातोः (*ṛta iddātoḥ*) the root takes i (ittva); when r follows, lengthening. The tiṅanta-nighāta accent comes.
+
+सनाभिः (*sanābhiḥ*)—समानः नाभिः यस्य सः सनाभिः (*samānaḥ nābhiḥ yasya saḥ sanābhiḥ*); by समानस्य छंदस्यमूर्ध (*samānasya chaṃdasyamūrdha*)- (Pā. Sū. 6-3-84) the substitution sa for the word samāna; in the bahuvrīhi the accent of the prakṛti of the former member comes. (End of Ṛk 13; printed ‖ 13 ‖.)
+
+#### Ṛk 14
+**॥ संहितापाठः ॥**
+> सने॑मि च॒क्रम॒जरं॒ वि वा॑वृत उत्ता॒नायां॒ दश॑ यु॒क्ता॑
+> वहंति ।
+> सूर्य॑स्य॒ चक्षू॒ रज॑सै॒त्यावृ॑तं॒ तस्मि॒न्नार्पि॑ता॒ भुव॑नानि॒ विश्वा॑ ॥
+> ॥ १४ ॥
+**॥ पदपाठः ॥**
+> सनेमि । चक्रं । अजरं i वि । ववृते । उत्तानायां । दश । युक्ताः । वहंति ।
+> सूर्यस्य । चक्षुः । रजसा । एति । अवृतं । तस्मिन् । अर्पिता । भुवनानि । विश्वा॥ १४ ॥
+
+> *sanemi | cakraṃ | ajaraṃ i vi | vavṛte | uttānāyāṃ | daśa | yuktāḥ | vahaṃti |*
+> *sūryasya | cakṣuḥ | rajasā | eti | avṛtaṃ | tasmin | arpitā | bhuvanāni | viśvā‖ 14 ‖*
+
+### Printed p. 376
+*Running head: 376 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied).* *[as supplied: "ಆ. ೨೨" for the Anuvāka here, against "ಅ. ೨೨" on p. 374]*
+
+**॥ सायणभाष्यम् ॥**
+> सनेमि समाननेम्येकप्रकारबहिर्वलयमक्षीणनेमि चक्रं संवत्सराख्यमजरं
+> सदातनमपि जरारहितं वि ववृते । पुनःपुनर्विशेषेण वर्तते । उत्तानायामूर्ध्वतनायामीषायामुपरिविस्त्रतभूम्यां वा दशेंद्रादयः पंच लोकपाला
+> निषादपंच-माश्चत्वारो ब्राह्मणादयो वर्णा मिलित्वा दशसंख्याका युक्ताः
+> स्वस्वव्यापारयुक्ता वहंति । निर्वहंति । कृत्स्नं जगन्निर्वहंतीत्यर्थः । तन्निर्वाहार्थत्वात्कालस्य । किंच सूर्यस्यादित्यस्य चक्षुः ख्यानस्वभावं सर्वस्य चक्षुःस्थानीयं
+> वा मंडलं । चक्षुः ख्यातेर्वा चष्टेर्वति निरुक्तं । ४-३ । रजसा वृष्टु दकेनावृतं
+> व्याप्तमेति । गच्छति । उदकं रज उच्यत इति यास्कः । नि ४-१९ । तादृशे मंडले विश्वा
+> भुवनानि सर्वाणि भूतजातान्यार्पिता । अर्पितानि । तदधीनत्वात्तेषां ॥
+*Gist:* The year-wheel, undecaying, revolves; ten (five world-guardians and five classes of men) bear it; the sun's orb, invested with water, moves; all beings rest in it.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+सनेमि (*sanemi*)—(never wearing out) having an outer rim of one uniform kind; अजरं (*ajaraṃ*)—imperishable; चक्रं (*cakraṃ*)—this wheel of the universe; वि ववृते (*vi vavṛte*)—revolves again and again; उत्तानायां (*uttānāyāṃ*)—in its upper part; दश (*daśa*)—the five guardians of the worlds beginning with Indra, and the men of the Brāhmaṇa and other classes, with the Niṣāda as the fifth; युक्ता (*yuktā*)—engaged in their respective appointed duties; वहंति (*vahaṃti*)—carry out the work of the world; सूरस्य (*sūrasya*)—of Sūra *[as supplied: the Kannada word is so printed; the verse reads सूर्यस्य (*sūryasya*)]*, सूरन (*sūrana*) *[as supplied: "of the sun"]*; चक्षुः (*cakṣuḥ*)—the orb, which is of the form of the eye of the world; रजसा (*rajasā*)—with water; आवृतं (*āvṛtaṃ*)—pervaded; एति (*eti*)—moves about; तस्मिन् (*tasmin*)—(universe-pervading) in that orb; विश्वा भुवनानि (*viśvā bhuvanāni*)—all the worlds; अर्पिता (*arpitā*)—are deposited.
+
+**भावार्थ (Bhāvārtha)**
+This wheel of the universe, which has a uniform outer rim and is imperishable, revolves again and again. In its upper part the five world-guardians beginning with Indra, and men of the five classes, each engaged in his own appointed duty, carry out the work of the world. The orb of the sun, the eye of the world, moves pervaded by water; in that all-pervading orb all the worlds are deposited (established).
+
+**Printed English**
+The even-fellied, undecaying wheel, repeatedly revolves: ten, united on the upper surface, bear (the world): the orb of the sun proceeds, invested with water, and in it are all beings deposited.
+
+### Printed p. 377
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 377 (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Although the idea of the preceding Ṛk is the very same one stated in this Ṛk, the special point here is the description that the activity of the world proceeds in an unbroken sequence in subjection to the governance of this wheel of the universe. In this context the identity of the wheel of Time and the orb of the sun is shown. It has been stated before that from one point of view the revolution of the sun depends on Time, and from another point of view the comings and goings of Time depend on the sun. Here, and in the preceding Ṛk, the non-difference of the two is indicated, and it is said that the activity of the guardians of the worlds, Indra and the others, is also dependent on it. This same idea is stated in the Bṛhadāraṇyaka in this manner:
+
+यस्मादर्नाक्संवत्सरोऽहोभिः परिवर्तते । तद्देवा ज्योतीषां ज्योतिरायुर्होपासतेmृतं ॥ (*yasmādarnāksaṃvatsaro 'hobhiḥ parivartate | taddevā jyotīṣāṃ jyotirāyurhopāsatemṛtaṃ ‖*) *[as supplied: the Latin letter "m" stands inside the Kannada word]*
+
+(Bṛ. U. 4-4-16)
+
+In this sentence are stated the points described in the present Ṛk: सनेमि चक्रमजरं वि ववृते (*sanemi cakramajaraṃ vi vavṛte*) and सूरस्य चक्षुरेति (*sūrasya cakṣureti*). Śaṅkarācārya has commented on this sentence as follows:
+
+संवत्सरः कालात्मा सर्वस्य जनिमतः परिच्छेत्ता यमपरिच्छिंदन्नर्वागेव वर्ततेऽहोभिः स्वावयवैरहोरात्रैरित्यर्थः । तज्योतीषां ज्योतिः ॥ (*saṃvatsaraḥ kālātmā sarvasya janimataḥ paricchettā yamaparicchiṃdannarvāgeva vartate 'hobhiḥ svāvayavairahorātrairityarthaḥ | tajyotīṣāṃ jyotiḥ ‖*)
+
+On the strength of this original principle, the year and the others, maintaining their revolution of recurrence, carry on the affairs of the world. Having explained the original principle, the support of the activity of the universe, as "that which has a splendour greater than all splendours", he then goes on:
+
+यस्मिन्पंच पंचजना आकाशश्च प्रतिष्ठितः । तमेव मन्य आत्मानं विद्वान्ब्रह्मामृतोऽमृतं ॥ (*yasminpaṃca paṃcajanā ākāśaśca pratiṣṭhitaḥ | tameva manya ātmānaṃ vidvānbrahmāmṛto 'mṛtaṃ ‖*)
+
+(Bṛ. U. 4-4-17)
+
+In this verse the matter stated in the present Ṛk, उत्तानायां दश युक्ता वहंति (*uttānāyāṃ daśa yuktā vahaṃti*), is conveyed. Commenting on it, Śaṅkarācārya says:
+
+किंच यस्मिन्ब्रह्मणि (*kiṃca yasminbrahmaṇi*) (it was stated before that this original principle is called by many names such as Time, Nature, Destiny, Brahman). पंच पंचजना गंधर्वादयः पंचैव संख्याका गंधर्वाः पितरो देवा असुरा रक्षांसि निषादपंचमा वा वर्णा आकाशश्चाव्याकृताख्यो यस्मिन्सूत्रमोतं च प्रोतं च यस्मिन्प्रतिष्ठितः ॥ (*paṃca paṃcajanā gaṃdharvādayaḥ paṃcaiva saṃkhyākā gaṃdharvāḥ pitaro devā asurā rakṣāṃsi niṣādapaṃcamā vā varṇā ākāśaścāvyākṛtākhyo yasminsūtramotaṃ ca protaṃ ca yasminpratiṣṭhitaḥ ‖*)
+
+On the strength of this original principle the group of the gods numbering five, beginning with the Gandharvas, and the human group of five classes, carry on their respective activities. In it the whole universe is woven together like warp and woof (ota and prota). Explaining this very point to Gārgī, Yājñavalkya says:
+
+### Printed p. 378
+*Running head: 378 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+एतस्य वा अक्षरस्य प्रशासने गार्गि सूर्याचंद्रमसौ विधृतौ तिष्ठत एतस्य वा अक्षरस्य प्रशासने गार्गि द्यावापृथिव्यौ विधृते तिष्ठत एतस्य वा अक्षरस्य प्रशासने गार्गि निमेषा मुहूर्ता अहोरात्राण्यर्धमासा मासा ऋतवः संवत्सरा इति विधृतास्तिष्ठंत्येतस्य वा अक्षरस्य प्रशासने गार्गि प्राज्योऽन्या नद्यः स्यंदंते श्वेतेभ्यः पर्वतेभ्यः प्रतीच्योऽन्यायां यां यां च दिशमन्वेतस्य वा अक्षरस्य प्रशासने गार्गि ददतो मनुष्याः प्रशंसंति यजमानं देवा दर्वि० पितरोन्वायत्ताः ॥ (*etasya vā akṣarasya praśāsane gārgi sūryācaṃdramasau vidhṛtau tiṣṭhata etasya vā akṣarasya praśāsane gārgi dyāvāpṛthivyau vidhṛte tiṣṭhata etasya vā akṣarasya praśāsane gārgi nimeṣā muhūrtā ahorātrāṇyardhamāsā māsā ṛtavaḥ saṃvatsarā iti vidhṛtāstiṣṭhaṃtyetasya vā akṣarasya praśāsane gārgi prājyo 'nyā nadyaḥ syaṃdaṃte śvetebhyaḥ parvatebhyaḥ pratīcyo 'nyāyāṃ yāṃ yāṃ ca diśamanvetasya vā akṣarasya praśāsane gārgi dadato manuṣyāḥ praśaṃsaṃti yajamānaṃ devā darvi0 pitaronvāyattāḥ ‖*)
+
+(Bṛ. U. 3-8-9)
+
+O Gārgī, by the command of this Imperishable (described in the present Ṛk as "ajara", undecaying) the sun and the moon stand in their fixed places. Heaven and earth do not transgress their bounds *[as supplied: the Kannada word is मारुवुदिल्ल (*māruvudilla*), literally "do not sell"; the sense requires "transgress"]*. Moments, muhūrtas, days-and-nights, half-months, months, seasons and years appear and disappear within their limits. By the command of this Imperishable the streams of rivers and the like also flow.
+
+एतस्मिन्नु खल्वक्षरे गार्ग्याकाश ओतश्च प्रोतश्चेति ॥ (*etasminnu khalvakṣare gārgyākāśa otaśca protaśceti ‖*)
+
+(Bṛ. U. 3-8-11)
+
+In the Imperishable the whole world, beginning with space, is gathered together like warp and woof. Besides this:
+
+भीषास्माद्वातः पवते । भीषोदेति सूर्यः । भीषास्मादग्निश्चंद्रश्च । (*bhīṣāsmādvātaḥ pavate | bhīṣodeti sūryaḥ | bhīṣāsmādagniścaṃdraśca |*)
+
+(Tai. U. 2-8-1)
+
+Only in obedience to the command of this great principle do the wind, the sun, the fire and Indra carry out their respective appointed duties; thus, praising the power of this Imperishable in many Śruti texts, it is declared that the entire activity of the world depends on it.
+
+दश युक्ता वहंति (*daśa yuktā vahaṃti*)—the total meaning of this sentence has been explained above. But since other meanings are possible for the word दश (*daśa*), it must be examined what meanings can be given to this word in the present context on the strength of Śruti texts. Sāyaṇa, explaining it, says:
+
+इंद्रादयः पंच लोकपालाः निषादपंचमाश्चत्वारो ब्राह्मणादयो वर्णाः मिळित्वा दशसंख्याकाः ॥ (*iṃdrādayaḥ paṃca lokapālāḥ niṣādapaṃcamāścatvāro brāhmaṇādayo varṇāḥ miḷitvā daśasaṃkhyākāḥ ‖*)
+
+He has explained it as the five guardians of the worlds beginning with Indra, and men of the five classes. Indra, Yama, Varuṇa, Soma and Brahmā are the five well known as the guardians of the worlds. Explaining the word पंचजनाः (*paṃcajanāḥ*), the author of the Nirukta says *(the quotation continues on the next page)*.
+
+### Printed p. 379
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೧೬.] ಋಗ್ವೇದಸಂಹಿತಾ 379 (as supplied).*
+
+पंजजना (मम होत्रं जुषध्वं) गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके ! चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः ॥ (*paṃjajanā (mama hotraṃ juṣadhvaṃ) gaṃdharvāḥ pitaro devā asurā rakṣāṃsītyeke ! catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ ‖*) *[as supplied: the first word is printed पंजजना (*paṃjajanā*); and "!" stands for the danda]*
+
+He has stated that, according to some, the five kinds of people are the Gandharvas, the Pitṛs, the gods, the Asuras and the Rākṣasas; and that Aupamanyava and others hold that the four classes beginning with the Brāhmaṇas, together with the Niṣādas as the fifth group, make up the five peoples. Formerly, when all the gods addressed Agni, praying that he should receive the oblation offered in the sacrifice for them and distribute it to all, Agni agreed to it, and:
+
+तदद्य वाचः प्रथमं मसीय येनासुरा अभि देवा असाम । ऊर्जाद उत यज्ञियासः पंच जना मम होत्रं जुषध्वं ॥ (*tadadya vācaḥ prathamaṃ masīya yenāsurā abhi devā asāma | ūrjāda uta yajñiyāsaḥ paṃca janā mama hotraṃ juṣadhvaṃ ‖*)
+
+(Ṛ. Saṃ. 10-53-4)
+
+The author of the Bṛhaddevatā quotes this sentence, in which the answer was given that the five peoples may enjoy this oblation, shows the differences of opinion as to who the five peoples are, and discusses them.
+
+प्रत्युवाचाथ तानग्निर्विश्वेदेवा यदूच मां । तत्करिष्ये जुषंतां तु होत्रं पंचजना मम ॥ (*pratyuvācātha tānagnirviśvedevā yadūca māṃ | tatkariṣye juṣaṃtāṃ tu hotraṃ paṃcajanā mama ‖*)
+
+(Bṛ. De. 6-96)
+
+In this verse the answer that Agni gave to the gods is stated, and then the word पंचजन (*paṃcajana*) is explained:
+
+शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्निरेते पंचजनाः स्मृताः ॥ (*śālāmukhyaḥ praṇītaśca putro gṛhapateśca yaḥ | uttaro dakṣiṇaścāgnirete paṃcajanāḥ smṛtāḥ ‖*)
+
+(Bṛ. De. 7-67)
+
+That is: the fire at the entrance of the hall, the consecrated Āhavanīya fire, the Gārhapatya fire which is the son of the sacrificer, and the southern and northern fires and the rest, together these five kinds of fires are, by traditional usage, the five classes. Besides this view, explaining the same again:
+
+मनुष्याः पितरो देवाः गंधर्वोरगराक्षसाः । गंधर्वाः पितरो देवा असुरा यक्षराक्षसाः ॥ (*manuṣyāḥ pitaro devāḥ gaṃdharvoragarākṣasāḥ | gaṃdharvāḥ pitaro devā asurā yakṣarākṣasāḥ ‖*)
+
+(Bṛ. De. 7-68)
+
+According to the first view the Uraga-Rākṣasas are one group; according to the second view the Yakṣa-Rākṣasas are another group. And, *(the sentence is cut by the end of the window as supplied and continues in the next window)*
+
 ---
 
-**Progress note:** Done through printed p. 373. Ṛk 12 end; Ṛk 13 (five-spoked wheel), special topics incl. names of years and Upaniṣad wheel similes
+**Progress note:** Done through printed p. 379. pp. 374-379: end of Rk 13 notes, Rk 14 (sam-pada, bhasya, meaning), special topics on Upanishad parallels and pancajana

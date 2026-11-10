@@ -72,3 +72,5 @@
 | through p. 278 (three windows in one agent: pp. 261-266, 267-272, 273-278) | sonnet | 17 | 178512 | 6.2 |
 | through p. 296 (three windows in one agent: pp. 279-284, 285-290, 291-296) | sonnet | 17 | 197428 | 7.0 |
 | through p. 315 (three windows in one agent: pp. 297-302, 303-309, 310-315) | sonnet | 23 | 204448 | 6.9 |
+| through p. 335 (three windows in one agent: pp. 316-322, 323-329, 330-335) | sonnet | 17 | 228567 | 9.6 |
+| through p. 353 (three windows in one agent: pp. 336-341, 342-347, 348-353) | sonnet | 18 | 205936 | 8.2 |
