@@ -8571,6 +8571,143 @@ that is, after the fall of the rain the plants and so on grow, and when they app
 वेषि ह्यध्वरीयतामुपवक्ता जनानां । हव्या च मानुषाणां (*veṣi hyadhvarīyatāmupavaktā janānāṃ | havyā ca mānuṣāṇāṃ*) ।
 (Ṛ. Saṃ. 4-9-5) *(the discussion continues in the next window)*
 
+### Printed p. 342
+*Running head: 342 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪]] (as supplied; with a doubled closing bracket).*
+
+[Continuing from the previous page:] In the Ṛk (Ṛ. Saṃ. 4-9-5), in explaining the word उपवक्ता (*upavaktā*), Sāyaṇa has said:
+उपवक्ता, अध्वर्युप्रभृतीनां सर्वेषां कर्मणामनुज्ञार्थं “ मां प्रणय ” इत्यादि रूपस्य वाक्यस्य वक्ता सन् ब्रह्मा चासि (*upavaktā, adhvaryuprabhṛtīnāṃ sarveṣāṃ karmaṇāmanujñārthaṃ “ māṃ praṇaya ” ityādi rūpasya vākyasya vaktā san brahmā cāsi*) ॥
+that is, uttering sentences such as “मां प्रणय (*māṃ praṇaya*)” (“lead me forth”), he is Brahmā, who gives permission to the rites of all the ṛtviks beginning with the Adhvaryu. Hence it is understood from this that the one who speaks the upavacana is Brahmā. Or,
+उपवक्ता सर्वेषां कर्मणामनैकल्यार्थमुपद्रष्टा वा सदस्योऽसि । “ स हि सप्तदशः कर्मणामुपद्रष्टा भवति ” ॥ इत्यापस्तंबेनोक्तत्वात् (*upavaktā sarveṣāṃ karmaṇāmanaikalyārthamupadraṣṭā vā sadasyo 'si | “ sa hi saptadaśaḥ karmaṇāmupadraṣṭā bhavati ” ‖ ityāpastaṃbenoktatvāt*) ॥
+that is, the seventeenth member of the assembly, who sees that all the rites are carried out without deficiency and without obstacle, is the upadraṣṭṛ (overseer). Āpastamba has stated his characteristic with “सप्तदशः कर्मणामुपद्रष्टा भवति (*saptadaśaḥ karmaṇāmupadraṣṭā bhavati*)”. Explaining the nature of this upadraṣṭṛ, the Taittirīya Brāhmaṇa says thus:
+ब्राह्मणो दक्षिणत उपास्ते । ब्राह्मणो वै प्रजानामुपद्रष्टा । उपद्रष्टुमत्येव प्रजायते (*brāhmaṇo dakṣiṇata upāste | brāhmaṇo vai prajānāmupadraṣṭā | upadraṣṭumatyeva prajāyate*) ॥
+(Tai. Brā. 2-2-1-3)
+In explaining the word उपद्रष्टृ (*upadraṣṭṛ*) in this sentence, Sāyaṇa has said उपद्रष्टृ हिताहितस्य प्रजानामुपदेष्टृ (*upadraṣṭṛ hitāhitasya prajānāmupadeṣṭṛ*): the member of the assembly who, seeing that there is no deficiency in the rites, tells everyone what is beneficial and what is harmful. In the explanation of the Ṛk cited here (Ṛ. Saṃ. 4-9-5), identity of the upavaktṛ and the upadraṣṭṛ is stated. Again, in what is said in the Taittirīya Brāhmaṇa,
+प्रजापतिरकामयत प्रजाः सृजेयेति । स एतं दशहोतारमपश्यत् (*prajāpatirakāmayata prajāḥ sṛjeyeti | sa etaṃ daśahotāramapaśyat*) ॥
+(Tai. Brā. 2-2-1-1)
+Sāyaṇa, in naming the ten hotṛs *[as supplied: दशमोतृगळन्नु (*daśamotṛgaḷannu*)]*, cites this mantra of the Taittirīya Āraṇyaka:
+चित्तिः स्रुक्, चित्तमाज्यं, वाग्वेदिः, आधीतं बर्हिः, केतो अग्निः, विज्ञातमग्निः वाक्प्रतिर्होता, मन उपवक्ता (*cittiḥ sruk, cittamājyaṃ, vāgvediḥ, ādhītaṃ barhiḥ, keto agniḥ, vijñātamagniḥ vākpratirhotā, mana upavaktā*) .... .... .... .... ॥
+and explains: उपवक्तृशब्देनानुवचनकर्तुर्होतुः पुरा प्रैषवक्ता मैत्रावरुणो विवक्षितः (*upavaktṛśabdenānuvacanakarturhotuḥ purā praiṣavaktā maitrāvaruṇo vivakṣitaḥ*)—that is, by the word upavaktṛ is meant the Maitrāvaruṇa, who in front of the Hotṛ, his assistant, recites the praiṣa (the Hotṛ being the one who recites the anuvacana). He has explained that in front of the Hotṛ his assistant the Maitrāvaruṇa recites the upavacana. Thus, if in the present Ṛk it is the recitation of a mantra forming part of a rite, then it is the upavacana-mantra recited by Brahmā, by the upadraṣṭṛ or by the Maitrāvaruṇa; or else it is a word of congratulation.
+
+### Printed p. 343
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫. ] Ṛgveda-saṃhitā 343 (as supplied).*
+
+*Grammatical process (Vyākaraṇa-prakriyā)*
+
+बभाज (*babhāja*)—the root भज सेवायां (*bhaja sevāyāṃ*). By छंदसि लुज् लज् लिटः (*chaṃdasi luj laj liṭaḥ*) [as supplied] liṭ in the sense of the present. A form ending in the third person singular. The nighāta accent of a finite verb comes.
+
+धीती (*dhītī*)—when the instrumental singular follows, by सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-139) [as supplied] the long vowel homogeneous with the preceding vowel comes (the sentence is printed with a stray full stop: "ಬರುತ್ತದೆ.").
+
+संजग्मे (*saṃjagme*)—the root गम्‌ल्य गतौ (*gamlya gatau*) [as supplied]. By समो गम्यृच्छिभ्याम् (*samo gamyṛcchibhyām*) (Pā. Sū. 1-3-29) it takes ātmanepada. Vedic liṭ, a form ending in the third person singular. By हिच (*hica*) (Pā. Sū. 8-1-34) the prohibition of the nighāta accent comes, so that by the suffix accent it becomes final-udātta.
+
+बीभत्सुः (*bībhatsuḥ*)—when san comes in the sense of desire, after the san-ending stem, by सनाशंसभिक्ष उः (*sanāśaṃsabhikṣa uḥ*) (Pā. Sū. 3-2-164) the suffix u. By अतो लोपः (*ato lopaḥ*) (Pā. Sū. 6-4-48) the vowel a of the san (सनिन (*sanina*) [as supplied]) is dropped. By the suffix accent it becomes final-udātta.
+
+गर्भरसा (*garbharasā*)—गर्भस्य रसः तेन (*garbhasya rasaḥ tena*). By सुपां सुलुक् (*supāṃ suluk*)—(Pā. Sū. 7-1-39) when the instrumental case ending follows, the substitute ā for it. Or गर्भे रसः यस्याः सा (*garbhe rasaḥ yasyāḥ sā*), गर्भरसा (*garbharasā*). By बहुव्रीहौप्रकृत्यापूर्वपदम् (*bahuvrīhauprakṛtyāpūrvapadam*) the first member keeps its natural accent.
+
+निविद्धा (*nividdhā*)—the root व्यध ताडने (*vyadha tāḍane*). In the passive, by निष्ठा (*niṣṭhā*) the suffix kta. By ग्रहिज्यावयिव्यधि- (*grahijyāvayivyadhi-*) (Pā. Sū. 6-1-16) saṃprasāraṇa. By the sūtra न संप्रसारणे संप्रसारणम् (*na saṃprasāraṇe saṃprasāraṇam*) the letter y is replaced by i. By गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the gati (ni) takes the udātta accent.
+
+नमस्वंतः (*namasvaṃtaḥ*)—नमः अन्नादि येषामस्ति इति (*namaḥ annādi yeṣāmasti iti*). By the sūtra तदस्यास्ति (*tadasyāsti*) the suffix matup. By मादुपधायाश्च (*mādupadhāyāśca*) the m is replaced by v. Because the suffix is pit, it becomes anudātta.
+
+उपवाकम् (*upavākam*)—the root वच परिभाषणे (*vaca paribhāṣaṇe*), the suffix ghañ. By अतउपधायाः (*ataupadhāyāḥ*) vṛddhi of the penultimate. By चजोः कुघिण्यतोः (*cajoḥ kughiṇyatoḥ*) (Pā. Sū. 7-3-52) the guttural substitution (kutva). By कर्षात्वतः— (*karṣātvataḥ—*) (Pā. Sū. 6-1-159) the final-udātta accent comes. When it is a prādi compound, the accent of the kṛdut­tarapada (the final member keeps its natural accent) comes.
+
+ईयुः (*īyuḥ*)—the root इण् गत् (*iṇ gat*) [as supplied]. Vedic liṭ in the present sense. A form ending in the third person plural. Because it does not stand after a finite verb *[as supplied: अतिजंतव (*atijaṃtava*) for "ತಿಜಂತ"]*, the nighāta accent comes. ॥ 8 ॥
+
+*[stray line as supplied: :੦:]*
+
+### Printed p. 344
+*Running head: 344 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+#### Ṛk 9
+*[as supplied: a garbled label संकुचन (*saṃkucana*) stands here, before the label Saṃhitā-pāṭha.]*
+**॥ संहितापाठः ॥**
+> यु॒क्ता मा॒तासी॑द्दु॒रि दक्षि॑णाया॒ अति॑ष्ठ॒द्गर्भो॑ वृज॒नीष्वं॒तः।
+> अमी॑मेद्व॒त्सो अनु॒ गाम॑पश्यद्विश्वरू॒प्यं॑ त्रि॒षु योज॑नेषु॥
+> ॥ ९ ॥
+
+> *yuktā mātāsīdduri dakṣiṇāyā atiṣṭhadgarbho vṛjanīṣvaṃtaḥ|*
+> *amīmedvatso anu gāmapaśyadviśvarūpyaṃ triṣu yojaneṣu‖*
+> *‖ 9 ‖*
+*[as supplied: a garbled label । पदहार । (*| padahāra |*) stands here, before the label Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> युक्ता । माता । आसीत् । धुरि । दक्षिणायाः । अतिष्ठत् । गर्भः । वृजनीषु । अंतरिति ।
+> अमीमेत् । वत्सः । अनु । गां । अ प श्य त् । विश्वरूप्यं । त्रिषु । योजनेषु ॥ ९ ॥
+
+> *yuktā | mātā | āsīt | dhuri | dakṣiṇāyāḥ | atiṣṭhat | garbhaḥ | vṛjanīṣu | aṃtariti |*
+> *amīmet | vatsaḥ | anu | gāṃ | a pa śya t | viśvarūpyaṃ | triṣu | yojaneṣu ‖ 9 ‖*
+*[as supplied: a garbled label ई पराभाष्यं (*ī parābhāṣyaṃ*) stands here, before the label Sāyaṇa-bhāṣya.]*
+**॥ सायणभाष्यम् ॥**
+> माता । निर्मियंतेऽस्मिन्भूतानीति माता द्यौः । दक्षिणाया अभिमतपूरणसमर्थायाः पृथिव्या धुरि निर्वहणे युक्तासीत् । वर्षणाय समर्थाभूदित्यर्थः ।
+> कथमिति तदुच्यते । गर्भो गर्भस्थानीय उदकसंघो वृजनीषूदकवत्तु मेघपंक्तिष्टंतर्मध्यॆऽतिष्ठत् । तिष्ठति । अनंतरं वत्सः पुत्रस्थानीय उदकसंघस्तिषु
+> योजनेषु मेघरश्मिवायुषु संयुक्तेषु सत्स्वमीमेत् । वर्षणसमये
+> शब्दयति । अनंतरं विश्वरूप्यं विश्वरूपवतीं गामन्वपश्यत् । अनुक्रमेण पश्यति ।
+> वर्षतीत्यर्थः । यद्वा । त्रिषु योजनेषु सत्तु वत्सो मेघो वर्षणाय गां
+> भूमिं प्रत्यमीमेत् । अनंतरं सर्वो जनोऽनुक्रमेण विश्वरूप्यं सस्यादिभिर्नानारूपवतीं भूमिमपश्यत् । पश्यति ॥
+
+*Gist:* Heaven the mother is yoked to earth's burden; the water-embryo rests in the clouds; the calf thunders and beholds multiform earth: rain falls.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+माता (*mātā*)—the heaven-world, maker of all; दक्षिणायाः (*dakṣiṇāyāḥ*)—of the earth, which is capable (of fulfilling desired ends); धुरि (*dhuri*)—in the carrying out of the duty in the form of protection; युक्ता आसीत् (*yuktā āsīt*)—was appointed. गर्भः (*garbhaḥ*)—the mass of water that is in the place of the embryo; वृजनीषु (*vṛjanīṣu*)—in the rows of clouds filled with waters; अंतः (*aṃtaḥ*)—in the middle; अतिष्ठत् (*atiṣṭhat*)—has settled. वत्सः (*vatsaḥ*)—the mass of water that is in the place of the son; त्रिषु योजनेषु (*triṣu yojaneṣu*)—when cloud, wind and ray are joined together; अमीमेत् (*amīmet*)—makes the sound of thunder (and then); विश्वरूप्यं (*viśvarūpyaṃ*)—possessed of many kinds of forms; गां (*gāṃ*)—to the earth; अनु अपश्यत् (*anu apaśyat*)—in order pours down rain.
+
+### Printed p. 345
+*Running head: [ಆ.೨.ಅ. ೩ ವ. ೧೫. ] Ṛgveda-saṃhitā 345 (as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+Heaven, the mother of all, is appointed to the duty of protecting the earth, which is capable of fulfilling desired ends. The mass of water that is in the place of the embryo has settled in the middle of the rows of clouds filled with waters. When the mass of water that is in the place of the son, the cloud, the wind and the ray are joined together, it makes the sound of thunder. After that it pours rain on the earth of many forms.
+
+**Printed English**
+The mother, (sky), was associated in (sustaining) the burthen of the fulfiller of desires, (the earth): the embryo (water) rested within the (womb of the) clouds : thereupon the calf bellowed, and beheld the omniform cow in the three combinations.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the previous Ṛk the Earth was indicated as mother and Āditya, who abides in the atmosphere, as father. Here the atmosphere is called mother. By this it is shown that both the Earth and the atmosphere have a power of a special kind in the work of creating beings. To show that the Earth undertakes not only the work of creation but also the works of sustaining and protecting, the word दक्षिणायाः (*dakṣiṇāyāḥ*), a synonym of Earth, has been used. Sāyaṇa has explained this word as अभिमतपूरणसमर्थायाः पृथिव्याः (*abhimatapūraṇasamarthāyāḥ pṛthivyāḥ*)—of the Earth, which has the capacity to fulfil what is desired. The Earth has obtained all kinds of wealth and, besides, the power of sustaining. For providing what is desired, both these powers are absolutely necessary.
+
+खं वायुज्योतिरापः पृथिवी विश्वस्य धारिणी (*khaṃ vāyujyotirāpaḥ pṛthivī viśvasya dhāriṇī*) ।
+(Mu. U. 2-1-3)
+In sentences such as this the Earth is described as the sustainer of the world. Moreover,
+एषां भूतानां पृथिवी रसः (*eṣāṃ bhūtānāṃ pṛthivī rasaḥ*) ; (Chā. U. 1-1-2)
+पृथिवी ना अन्नं (*pṛthivī nā annaṃ*) । (Tai. U. 3-9-1) *[as supplied: ना (*nā*)]*
+In sentences such as these, as it is said that all the power that is essential for the existence and nourishment of beings is to be obtained from the Earth alone, the Earth, since it has all kinds of power, has the epithet dhāriṇī (sustainer). The author of the Nirukta too, when stating the etymology of the word दक्षिणा (*dakṣiṇā*), shows this very meaning,
+
+### Printed p. 346
+*Running head: 346 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೮೪] (as supplied; the Sūkta number is printed ೮೪, whereas the other pages have ೧೬೪).*
+
+दक्षिणा दक्षतेः समर्धयति कर्मणो व्यृद्धं समर्धयतीति (*dakṣiṇā dakṣateḥ samardhayati karmaṇo vyṛddhaṃ samardhayatīti*) ।
+(Ni. 1-2)
+[saying that] it is derived from the root दक्स् (*daks*) [as supplied], which gives the meaning of causing complete growth, and he has explained that the meaning “it makes complete what is deficient” is also possible. Since the Earth has all these powers, this epithet shows its power.
+
+वृजनीषु (*vṛjanīṣu*)—उदकवत्तु मेघपंक्तिषु (*udakavattu meghapaṃktiṣu*). Sāyaṇa has explained it as: in the rows of clouds that possess water in abundance. For the ī-ending word वृजनी (*vṛjanī*) the scholar Monier Williams, in his Sanskrit–English Dictionary, first gives the meaning “an enclosure; fold” (āvaraṇa) and then shows that in Sāyaṇa's view the meaning “cloud” (printed ವೇಘ, as supplied) also occurs. Besides, he states that in the Atharvaveda 7-30-7 this word gives the meaning deceit, intrigue.
+
+त्रिषु योजनेषु (*triṣu yojaneṣu*)—मेघरश्मिनायुषु संयुक्तेषु सत्सु (*megharaśmināyuṣu saṃyukteṣu satsu*) *[as supplied: रश्मिनायुषु (*raśmināyuṣu*); the bhāṣya has वायुषु (*vāyuṣu*)]*. To show that, when the cloud, the sun's ray and the wind were joined together, there was the sound of thunder, it is described: अमीमेत् वर्षणसमये शब्दयति (*amīmet varṣaṇasamaye śabdayati*)—it sounded at the time of the fall of rain.
+
+विश्वरूप्यं अपश्यत् (*viśvarūpyaṃ apaśyat*)—two kinds of meaning are given for this. First, विश्वरूपवतीं गां अनुक्रमेण पश्यति (*viśvarūpavatīṃ gāṃ anukrameṇa paśyati*): the water in the form of the calf looks in order at the Earth of many forms; that is, the rain falls in order and reaches the Earth. And second,
+त्रिषु योजनेषु सत्तु वत्सो मेघो वर्षणाय गां भूमिं प्रति अमीमेत् । जनः क्रमेण विश्वरूप्यं सस्यादिभिर्नानारूपवतीं भूमिमपश्यत् पश्यति (*triṣu yojaneṣu sattu vatso megho varṣaṇāya gāṃ bhūmiṃ prati amīmet | janaḥ krameṇa viśvarūpyaṃ sasyādibhirnānārūpavatīṃ bhūmimapaśyat paśyati*) ।
+that is, after the cloud, the wind and the sun's ray had been joined together, the cloud in the form of the calf made the sound of thunder that precedes the fall of rain. Immediately rain falls, and all the people, seeing the earth shining with plants of many kinds and with the varied colours of those plants, rejoice—so it is described in another way too.
+
+On the whole, having stated earlier the original nature of Heaven-and-Earth as the mother and father of all beings, this Ṛk explains the point that they nourish the world that has come into being by providing it with wealth in the form of food. The matter that the union of Heaven and Earth is in one way or another present for the origin, the sustaining and the nourishment of the universe and of everything is stated clearly.
+
+### Printed p. 347
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೧೫. ] Ṛgveda-saṃhitā 347 (as supplied).*
+
+*Grammatical process (Vyākaraṇa-prakriyā)*
+
+युक्ता (*yuktā*)—the root युजिर् योगे (*yujir yoge*). The suffix kta. By चोःकुः (*coḥkuḥ*) kutva for the j of the root. By the suffix accent it becomes final-udātta. In the feminine, because it ends in a, ṭāp.
+
+दक्षिणाया (*dakṣiṇāyā*)—the root दक्ष वृद्धौ (*dakṣa vṛddhau*). By द्रुदक्षिभ्यामिनन् (*drudakṣibhyāminan*) (U. Sū. 2-208) the suffix inan. By the sūtra अट् कुप्वाज्— (*aṭ kupvāj—*) ṇatva for the n of the suffix. By इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169) the initial-udātta accent comes.
+
+अतिष्ठत् (*atiṣṭhat*)—the root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*). Vedic laṅ in the present sense, a form ending in the third person singular. Because it stands at the beginning of a pāda, the nighāta accent does not come. Because the augment aṭ is udātta, it becomes initial-udātta.
+
+वृजनीषु (*vṛjanīṣu*)—the root वृजी वर्जने (*vṛjī varjane*). By कृष्णवृजि (*kṛṣṇavṛji*) (U. Sū. 2-239) the suffix kyu. By युवोरनाकौ (*yuvoranākau*) the substitute ana for it. Because it is kit, the guṇa of a light penultimate does not come. In the feminine, jīp. A form ending in the locative.
+
+अमीमेत् (*amīmet*)—the root मी गतौ (*mī gatau*), of the curādi class. ṇic comes optionally. Vedic laṅ. By बहुलं छंदसि (*bahulaṃ chaṃdasi*) the substitute śLu for śap. Because of śLu, doubling etc. of the root. The augment aṭ to the stem. Because it stands at the beginning of a pāda, the nighāta accent does not come. It becomes initial-udātta.
+
+विश्वरूपम् (*viśvarūpam*)—when the accusative singular follows, Vedic yaṇ substitution. By उदात्तस्वरितयोर्यणः— (*udāttasvaritayoryaṇaḥ—*) (Pā. Sū. 8-2-4) the svarita accent comes on the anudātta case ending. ॥ 9 ॥
+
+#### Ṛk 10
+**॥ संहितापाठः ॥**
+> ति॒स्रो मा॒त्र्यस्त्रीनि॒त्यन्बिभ्र॒देक॑ ऊ॒र्ध्वस्त॑स्थौ॒ नेमव॑ ग्लापयंति ।
+> मं॒त्रयं॑ते दि॒वो अ॒मुष्य॑ पृ॒ष्ठे वि॑श्व॒विदं॒ वाच॒मवि॑श्वमिन्वां ॥ १० ॥
+
+> *tisro mātryastrīnityanbibhradeka ūrdhvastasthau nemava glāpayaṃti |*
+> *maṃtrayaṃte divo amuṣya pṛṣṭhe viśvavidaṃ vācamaviśvaminvāṃ ‖ 10 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 341. Sukta 164 end of Sayana notes on Rk 7 grammar; Rk 8 (earth and sun) with special topics, pp. 336-341
+**Progress note:** Done through printed p. 347. Sukta 164 Rk 8 grammar, Rk 9 (heaven, earth, rain-calf) with special topics, Rk 10 Samhita text; pp. 342-347
