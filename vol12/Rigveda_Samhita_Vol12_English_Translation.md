@@ -9423,6 +9423,190 @@ That is: the fire at the entrance of the hall, the consecrated Āhavanīya fire,
 
 According to the first view the Uraga-Rākṣasas are one group; according to the second view the Yakṣa-Rākṣasas are another group. And, *(the sentence is cut by the end of the window as supplied and continues in the next window)*
 
+### Printed p. 380
+*Running head: 380 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied; "ಆ." for the Anuvāka as on p. 376).*
+
+यास्कौपमन्यनावेतानाहतुः पंच वै जनान् । निषादपंचमान्वर्णान् मन्यते शाकटायनः ॥ (*yāskaupamanyanāvetānāhatuḥ paṃca vai janān | niṣādapaṃcamānvarṇān manyate śākaṭāyanaḥ ‖*)
+
+(Bṛ. De. 7-69)
+
+In this sentence the authors of the Bṛhaddevatā say that Yāska's view is the first one; but the author of the Nirukta has only stated the view of Aupamanyu and others, and has not stated his own view definitively. Probably he too may have accepted that view.
+
+ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate*) ।
+
+(Bṛ. De. 7-10) *[as supplied: printed "ಬೃ ದೇ." without the full stop after the first word]*
+
+Another opinion is stated: that, according to Śākapūṇi, the five groups are the four priests beginning with the Hotṛ, together with the sacrificer. Besides this:
+
+चक्षुः श्रोत्रं मनो वाक् च प्राणश्चेत्यात्मवादिनः । गंधर्वाप्सरसो देवा मनुष्याः पितरस्तथा ॥ सर्वाश्च ब्राह्मणे चैव श्रूयंते हैतरेयके ॥ (*cakṣuḥ śrotraṃ mano vāk ca prāṇaścetyātmavādinaḥ | gaṃdharvāpsaraso devā manuṣyāḥ pitarastathā ‖ sarvāśca brāhmaṇe caiva śrūyaṃte haitareyake ‖*)
+
+(Bṛ. De. 7-21)
+
+The eye, the ear, the mind, speech and the breath: these five are the five peoples, according to the view of the teachers of the doctrine of the Self (adhyātma-vādins). That they are the Gandharvas and the rest is stated in the Aitareya Brāhmaṇa (Ai. Brā. 3-31). Such five peoples, says the explanation in the Bṛhaddevatā also, may enjoy the oblation, thus Agni gave his answer to the gods; and in it the differences of opinion are cited. Not only that: in the Chāndogya Upaniṣad and other texts also, it is described that the tenfold guardians of the worlds and the rest, as stated in the present Ṛk, are the cause of the activity of the world, and, being subject to this original principle, keep its command.
+
+तस्मा उ ह दमस्ते वा एते पंचान्ये पंचान्ये दश संतः । (*tasmā u ha damaste vā ete paṃcānye paṃcānye daśa saṃtaḥ |*)
+
+(Bhā. U. 4-3-8) *[as supplied: the abbreviation "ಭಾ. ಉ." is kept as printed]*
+
+Here the first word पंच (*paṃca*) is understood as the wind, fire, sun, moon and water; the second पंच (*paṃca*) as breath, speech, eye, ear *[as supplied: printed ಶೋತ್ರ]* and mind. Further, just as Sāyaṇa explained पंचलोकपालाः (*paṃcalokapālāḥ*) in the present Ṛk, in the Chāndogya Upaniṣad also:
+
+ते ना एते पंच ब्रह्मपुरुषाः स्वर्गस्य लोकस्य द्वारपाः । (*te nā ete paṃca brahmapuruṣāḥ svargasya lokasya dvārapāḥ |*)
+
+(Chā. U. 3-13-6)
+
+### Printed p. 381
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೧೬] ಮುಗ್ವೇದಸಂಹಿತಾ 381 (as supplied: "ಪ." for ವ., "ಮುಗ್ವೇದ" for ಋಗ್ವೇದ; the page splitter did not recognise this head and the script inserted the page mark).*
+
+it is said that they are the five Brahma-puruṣas, the door-keepers of heaven. Thus, although in many places the matter described in "दश युक्ता वहंति (*daśa yuktā vahaṃti*)" is indicated, since in all these contexts the words दश (*daśa*) and पंच (*paṃca*) are interpreted in the way suited to the respective circumstances, the authors of the Nirukta and the others themselves hold that one definite meaning cannot be stated. In the present context, since the meaning as Sāyaṇa has explained it, पंच लोकपालाः इंद्रादयः, वर्णात्मकाः पंजजनाः (*paṃca lokapālāḥ iṃdrādayaḥ, varṇātmakāḥ paṃjajanāḥ*) *[as supplied: printed ಪಂಜಜನಾಃ]*, fits, to interpret it in another way would be improper. That is to say: all beings, gods and men and the rest, follow the command of this principle of the universe and carry on the affairs of the world. In this immortal wheel, rise and fall are natural. Although the original principle is undecaying, to all that depends on it manifestation and disappearance belong in the form of recurrence. The sage Bādhva says this very thing in the Aitareya Āraṇyaka:
+
+महापुरुष इति यमवोचाम संवत्सर एव प्रध्वंसयन्नन्यानि भूतानैक्या भावयन्नन्यानि तस्यैतस्यासावादित्यो रसः । स यश्चायमशरीरः प्रज्ञात्मा यश्चासावादित्य एकमेतदिति विद्यात् । तस्मात्पुरुषं पुरुषं प्रत्यादित्यो भवति ॥ (*mahāpuruṣa iti yamavocāma saṃvatsara eva pradhvaṃsayannanyāni bhūtānaikyā bhāvayannanyāni tasyaitasyāsāvādityo rasaḥ | sa yaścāyamaśarīraḥ prajñātmā yaścāsāvāditya ekametaditi vidyāt | tasmātpuruṣaṃ puruṣaṃ pratyādityo bhavati ‖*)
+
+(Ai. Ā. 3-2-3-7 to 9)
+
+He whom we call the Mahāpuruṣa (great person) is of the form of the year. During the revolution of that year, rise and fall must befall all beings. The essence of this year is Āditya. The person who is bodiless and of the nature of consciousness (prajñātman) and this Āditya are one and not different. Therefore the portion of this Āditya pervades every individual soul and spreads the reflection of one single principle in all. Here, when the sage Bādhva states the identity of the Mahāpuruṣa, the year and Āditya, he, in order to show support for his view, has said:
+
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आप्रा द्यावापृथिवी अंतरिक्षं सूर‍्य आत्मा जगतस्तस्थुषश्च ॥ (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | āprā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthuṣaśca ‖*)
+
+(Ṛ. Saṃ. 1-115-1)
+
+The Āditya, who is of the form of the eye for Mitra, Varuṇa and Agni, has risen. He has pervaded fully the earth, the atmosphere and the heavenly world. Āditya is the inner Self of the moving world and of the stationary world, and he pervades the world.
+
+सूर्यस्य चक्षुः रजसा आवृतं एति (*sūryasya cakṣuḥ rajasā āvṛtaṃ eti*)—here the word रजस् (*rajas*) is interpreted as water. Showing also the other meanings that this word has, the author of the Nirukta says,
+
+### Printed p. 382
+*Running head: 382 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+रजो रजतेज्योती रज उच्यते । उदकं रज उच्यते । लोका रजांस्युच्यंते । अस्यगहनी उच्यते ॥ (*rajo rajatejyotī raja ucyate | udakaṃ raja ucyate | lokā rajāṃsyucyaṃte | asyagahanī ucyate ‖*) *[as supplied: अस्यगहनी (*asyagahanī*) as printed]*
+
+(Ni. 4-19)
+
+Derived from the root रंज् (*raṃj*), which gives the meaning "to shine", the word रजस् (*rajas*) means light, water and the worlds. Having explained that it is also a synonym for blood (rakta) and ahas, it is stated that the author of the Nirukta has given examples from the Ṛk-saṃhitā to support these meanings; this was explained in the earlier part, that is, in the 11th part *[as supplied: "೧೧ನೇ ಭಾಗ"]* of the Ṛgveda Saṃhitā, on page 58 *[as supplied: the figure "58" is in Latin digits]*.
+
+Quoting the Ṛk
+
+अज्जामुक्छैरहिं गृणीषे बुद्धे नदिनां रजःसु शीदन् । (*ajjāmukchairahiṃ gṛṇīṣe buddhe nadināṃ rajaḥsu śīdan |*)
+
+(Ṛ. Saṃ. 7-34-16)
+
+the author of the Nirukta says that in it the word रज (*raja*) means water; in the same way, in the present Ṛk also this word means water. रजसा आवृतं एति (*rajasā āvṛtaṃ eti*) is interpreted: the orb of the sun, covered with water, moves around the atmosphere.
+
+अपाग्ं रसमुद्वयसग्ं सूरै संतग्ं समाहितमपाग्ं रसस्य यो रसस्तं वो गृह्णामुत्तमं। (*apāgṃ rasamudvayasagṃ sūrai saṃtagṃ samāhitamapāgṃ rasasya yo rasastaṃ vo gṛhṇāmuttamaṃ|*)
+
+(Pa. Brā. *[as supplied: "ಪ. ಬ್ರಾ," with a comma]* 5-1-2-7)
+
+The essence of the invigorating water is contained within the sun.
+
+एता वा आपः स्वराजो यन्मरीचयस्ता यत्स्यंदंते । (*etā vā āpaḥ svarājo yanmarīcayastā yatsyaṃdaṃte |*)
+
+(Śa. Brā. 5-3-4-21)
+
+These rays of the sun, which are of the nature of streams, are the waters, and have unobstructed spreadings, and so on: thus the matter in which the orb of the sun, pervaded by water, is described, is described here. [This matter has been explained in detail under the Special Topics of the 12th Ṛk of this same sūkta, where the word पुरीषिणं (*purīṣiṇaṃ*) was explained.]
+
+चक्षुः (*cakṣuḥ*)—चक्षुः ख्यातेर्वा चष्टेर्वा (*cakṣuḥ khyātervā caṣṭervā*). The author of the Nirukta has given the derivation of this word, saying that it is formed either from the root ख्या (*khyā*), which means knowledge, or from the root चक्षु (*cakṣu*), which means seeing (Ni. 4-3). Showing the basis for that, Sāyaṇa has given the meaning of this word: ज्ञानस्वभावं, सर्वस्य चक्षुःस्थानीयं वा (*jñānasvabhāvaṃ, sarvasya cakṣuḥsthānīyaṃ vā*) *[as supplied: the bhāṣya on p. 376 reads khyāna- for jñāna-]*, that is, either the orb of the sun *[as supplied: printed ಸೂರಮಂಡಲ]*, which is of the nature of knowledge, or the orb of Āditya, which is of the form of the eye of the world.
+
+सूर्यो यथा सर्वलोकस्य चक्षुः (*sūryo yathā sarvalokasya cakṣuḥ*) ।
+
+(Kaṭha. 5-11)
+
+As described in sentences such as this, it is described in the present Ṛk also. The idea is that in this orb of Āditya विश्वा भुवनानि अर्पिता (*viśvā bhuvanāni arpitā*) (all the worlds are deposited).
+
+### Printed p. 383
+*Running head: [ಅ. ೨. ಅ. ೨. ವ. ೧೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 383 (as supplied; the second "ಅ." is followed by ೨ here, against ೩ on neighbouring pages).*
+
+*Vyākaraṇa-prakriyā (grammatical derivation)*
+
+सनेमि (*sanemi*)—समाना नेमिः यस्य तत् सनेमि (*samānā nemiḥ yasya tat sanemi*). By समानस्य छंदसि (*samānasya chaṃdasi*)—(Pā. Sū. 6-3-84), substitution sa for the word samāna. The accent of the prakṛti of the former member comes.
+
+अजरम् (*ajaram*)—न विद्यते जरा यस्य तत् (*na vidyate jarā yasya tat*); by नञ्खोजर (*nañkhojara*)—(Pā. Sū. 6-2-116) the latter member takes the ādyudātta accent.
+
+ववृते (*vavṛte*)—the root वृतु वर्तने (*vṛtu vartane*). In the Vedic manner, लिट् (*liṭ*). A form ending in the third person singular *[as supplied: the Kannada word is printed "ಏಕಚನ" for ಏಕವಚನ]*. The tiṅanta-nighāta accent comes.
+
+युक्ताः (*yuktāḥ*)—the root युजिर् योगे (*yujir yoge*). By निष्ठा (*niṣṭhā*) the suffix kta. By चोःकुः (*coḥkuḥ*) kutva. By the sūtra खरिच (*kharica*) cattva. By the pratyaya-accent it becomes antodātta.
+
+चक्षुः (*cakṣuḥ*)—the root चक्षिज् व्यक्तायां वाचि (*cakṣij vyaktāyāṃ vāci*). By चक्षेः शिच्च (*cakṣeḥ śicca*) (Uṇ. Sū. 2-276 *[as supplied: printed ಉ- ಸೂ: ೨-೨೭೬]*) the suffix usi. It becomes śit. Since śitva is prescribed, the khyā substitution does not come. Because नित् (*nit*) continues by anuvṛtti, the ādyudātta accent comes. चक्षते रूपादिकमिति चक्षुः (*cakṣate rūpādikamiti cakṣuḥ*).
+
+आवृतम् (*āvṛtam*)—the root वृञ् वरणे (*vṛñ varaṇe*). In the passive, the suffix kta. By गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the accent of the prakṛti for the gati (āṅ) comes. (End of Ṛk 14; printed ‖ 14 ‖.)
+
+*[stray line as supplied: "This image contains no text. It is a decorative graphic design element consisting of swirls and flourishes."]*
+*[A figure line stood here; the picture shows an ornament and only repeats the Saṃhitā and Pada blocks of Ṛk 15 that kn.md already has as text; the figure line was removed.]*
+
+#### Ṛk 15
+**॥ संहितापाठः ॥**
+> सा॒कं॒जानां॑ स॒प्तथ॑माहुरेक॒जं षळिद्य॒मा ऋष॑यो देव॒जा॑
+> इति ।
+> तेषा॑मि॒ष्टानि॒ विहि॑तानि धाम॒शः स्था॒त्रे रे॑जंते॒ विकृ॑तानि॒
+> रूपशः ॥ १५ ॥
+**॥ पदपाठः ॥**
+> साकंजानां । सप्तथं । आहुः । एकजं । षट् । इत् । यमाः । ऋषयः । देवजाः । इति ।
+> तेषां । इष्टानि । विहितानि । धामशः । स्थात्रे । रेजंते । विकृतानि । रूपशः ॥१५॥
+
+> *sākaṃjānāṃ | saptathaṃ | āhuḥ | ekajaṃ | ṣaṭ | it | yamāḥ | ṛṣayaḥ | devajāḥ | iti |*
+> *teṣāṃ | iṣṭāni | vihitāni | dhāmaśaḥ | sthātre | rejaṃte | vikṛtāni | rūpaśaḥ ‖15‖*
+
+### Printed p. 384
+*Running head: 384 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+> साकंजानामेकस्मादादित्यात्सहोत्पन्नानां सप्तानामृतूनां मध्यॆ सप्तथं
+> सप्तममृतुं ॥ थट् च छंदसि । पा- ५-२-५० । इति थट् ॥ एकजमेकेनोत्पन्नमाहुः
+> कालतत्त्वविदः । चैत्रादीनां द्वादशानां मासानां द्वयमेलनेन वसंताद्याः षडृतवो भवंति । अधिकमासेनैक उत्पद्यते सप्तमर्तुः । न च तादृशो मास एव नास्तीति
+> मंतव्यं । अस्ति त्रयोदशो मास इत्याहुः । तै. सं. ६-५-३-४ । इति श्रुतेः । तदेवोच्यते । षडिद्यमाः । इच्छब्द एवकारार्थः । षडेवर्तवो मासद्वयरूपा ऋषयो
+> गंतारः । ते च देवजा देवादादित्याज्ञाता इत्येवमाहुः । सप्तमाधारस्य त्रयोदशस्य मासस्य देवाभावः । निःसूर्योऽधिकमासो मंडलं तपते रवेरित्यादिस्मृतेः
+> तस्मात् षडेव देवजाः अदेवज एकः । तेषामृतूनां स्वरूपाणीष्टानि सर्वलोकाभिमतानि धामशस्त्रत्तत्स्थाने विहितानि पृथक् पृथक् स्थापितानि रूपशो रूपभेदेन
+> विकृतानि विविधाकृतियुक्तानि । स च रूपभेदस्मैत्तिरीयैराम्नातः । स रसमह
+> वसंताय प्रायच्छद्यवं ग्रीष्मायेत्यादि । तै. सं. ७-२-१०.१ । स्थात्रेऽधिष्ठात्रे
+> तदर्थाय रेजंते । चलंति । जगद्व्यवहाराय पुनःपुनरावर्तंत इत्यर्थः ॥
+*Gist:* Of the seven seasons born together from the sun, the seventh (the intercalary month) is single-born; the six, of two months each, are divine-born, move, and revolve for the world.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+साकंजानां (*sākaṃjānāṃ*)—among the seven seasons produced together (from Āditya); सप्तथं (*saptathaṃ*)—the seventh; एकजं (*ekajaṃ*)—as born single; आहुः (*āhuḥ*)—(the knowers of the truth) have said; षडित् (*ṣaḍit*)—the six seasons only; यमाः (*yamāḥ*)—as composed of two months each; गंतारः (*gaṃtāraḥ*)—as moving; देवजा इति (*devajā iti*)—and as produced from the shining Āditya they have called them; तेषां (*teṣāṃ*)—of those seasons; इष्टानि (*iṣṭāni*)—(approved by all the worlds); धामशः (*dhāmaśaḥ*)—in their respective fixed places; विहितानि (*vihitāni*)—separately established; रूपशः (*rūpaśaḥ*)—endowed with changes of form; विकृतानि (*vikṛtāni*)—the different manifestations; स्थात्रे (*sthātre*)—for the performance of the duty of their lord; रेजंते (*rejaṃte*)—are revolving.
+
+**Bhāvārtha** *[as supplied: the label here is printed ಭಾಷೆ]*
+Among the seven seasons produced together from Āditya, the knowers of the truth have said that the seventh is born single. Only the six seasons they have called moving, as composed of two months each, and as produced from the gods. The different manifestations of those seasons, approved by all the worlds, each established separately in its fixed place and endowed with changes of form, are revolving for the welfare of the stable world.
+
+### Printed p. 385
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 385 (as supplied).*
+
+**Printed English**
+Of those that are born together, sages have called the seventh the single-born ; for six are twins, and are moveable, and born of the gods : their desirable (properties), placed severallay [sic] in ltheir [sic] proper abode, are various (also) in form, and revolve for (the benefit of) that which is stationery [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Describing the nature of the seven seasons, which are produced from Āditya and dependent on Āditya, this Ṛk explains their manifestation and disappearance, in the form of recurrence, which go on for the activity of the world. It also states the difference between the season that is single-born and the seasons that are twin in nature. Sāyaṇa has given a somewhat different meaning to this same mantra in the Taittirīya Āraṇyaka. Since one can first understand the explanation given here and then examine the difference in the Āraṇyaka, the purport of this Ṛk is explained according to Sāyaṇa's commentary.
+
+साकंजानां सप्तधं एकजं आहुः—एकस्मादादित्यात् सहोत्पन्नानां सप्तानामृतूनां मध्यॆ सप्तमं ऋतुं एकेन उत्पन्नं आहुः । (*sākaṃjānāṃ saptadhaṃ ekajaṃ āhuḥ—ekasmādādityāt sahotpannānāṃ saptānāmṛtūnāṃ madhyè saptamaṃ ṛtuṃ ekena utpannaṃ āhuḥ |*) *[as supplied: सप्तधं (*saptadhaṃ*) here against सप्तथं (*saptathaṃ*) in the verse]* From Āditya seven seasons in all arise; among them the six seasons are twin in nature (composed of two months each) and born of the gods, while the seventh season only is single-born. How is that? —
+
+चैत्रादीनां द्वादशानां मासानां द्वयमेलनेन वसंताद्याः षडृतवः भवंति । अधिकमासेन एकः उत्पन्नते सप्तमर्तुः । (*caitrādīnāṃ dvādaśānāṃ māsānāṃ dvayamelanena vasaṃtādyāḥ ṣaḍṛtavaḥ bhavaṃti | adhikamāsena ekaḥ utpannate saptamartuḥ |*) In the twelve months beginning with Caitra, taking two and two together, the six seasons beginning with spring come about. The intercalary month is a single one, and this is a season consisting of one month. Having explained thus, he then says न च तादृशो मास एव नास्तीति मंतव्यं (*na ca tādṛśo māsa eva nāstīti maṃtavyaṃ*) : if there is any objection that there is no such month producing a season, it is not right; for:
+
+तस्मादादित्यः षण्मासो दक्षिणेनैति षडुत्तरेणोपयामगृहीतोऽसि सग्ंसर्पोर्स्यग्ंहस्पत्यायत्वेत्याहास्ति त्रयोदशो मास इत्याहुस्तमेव तत्प्रीणाति ॥ (*tasmādādityaḥ ṣaṇmāso dakṣiṇenaiti ṣaḍuttareṇopayāmagṛhīto 'si sagṃsarporsyagṃhaspatyāyatvetyāhāsti trayodaśo māsa ityāhustameva tatprīṇāti ‖*)
+
+(Tai. Saṃ. 6-5-3-4)
+
+Āditya moves for six months to the south and for another six months to the north. "You are Saṃsarpa (this is the name of the intercalary month). You are with a support. Those who know time say that there is a thirteenth month." Therefore in it he indicates his satisfaction; and since there are Śruti sentences of this kind *(the sentence is cut by the page end and continues on p. 386)*
+
+*[stray line as supplied: [25] [ Vol. 12]*
+
+### Printed p. 386
+*Running head: 386 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ.೧೬೪.] (as supplied).*
+
+(continuing) ...there is no room for such objections: thus he has resolved the doubt. But, explaining what is the significance of the qualification देवजाः (*devajāḥ*) (born of the gods) for the remaining six seasons, he says सप्तमाधारस्य त्रयोदशस्य मासस्य देवाभावः (*saptamādhārasya trayodaśasya māsasya devābhāvaḥ*) : "निस्सूर्योऽधिकमासो मंडलं तपते रवेः (*nissūryo 'dhikamāso maṃḍalaṃ tapate raveḥ*)" *[as supplied: the bhāṣya above reads निःसूर्यो (*niḥsūryo*) in the corresponding place]*. Since it is stated that the intercalary month is without the sun, the idea is that it is not born of the gods. For ऋषयः (*ṛṣayaḥ*) he gives गंतारः (*gaṃtāraḥ*): the meaning is that they are of the nature of going, with the nature of always moving. Commenting on this same mantra in the Taittirīya Āraṇyaka, Sāyaṇa says:
+
+साकंजानानां सहोत्पन्नानामादित्यरश्मीनां मध्ये सप्तथं यः स सप्तमो रश्मिः “ सूरो मरीचिमादत्ते ” इति पूर्वत्रोक्तस्तं सप्तमं रश्मिं एकजमाहुरितररश्मीभ्यः पूर्वमेक एवोत्पन्न इत्यभिज्ञाः कथयंति । (*sākaṃjānānāṃ sahotpannānāmādityaraśmīnāṃ madhye saptathaṃ yaḥ sa saptamo raśmiḥ “ sūro marīcimādatte ” iti pūrvatroktastaṃ saptamaṃ raśmiṃ ekajamāhuritararaśmībhyaḥ pūrvameka evotpanna ityabhijñāḥ kathayaṃti |*)
+
+(Tai. Ā. Sā. Bhā. 1-3)
+
+The knowers say that among the rays produced together from Āditya, the seventh was produced before all the others. Bhaṭṭabhāskara also has stated this same view when commenting on this mantra; explaining the word एकजं (*ekajaṃ*), he says एकत्वेन प्रधानत्वेन जातं सर्वसारभूतं आहुः मंत्रदृशः (*ekatvena pradhānatvena jātaṃ sarvasārabhūtaṃ āhuḥ maṃtradṛśaḥ*) ; he has explained that this ray, the essence of all the other rays, was produced first of all. Both commentators, in order to show proper support for these views of theirs, quote what stands in the Anuvāka preceding this mantra:
+
+एतैरादित्यमंडलं । सर्वैरेव विधास्यते । सूर्यो मरीचिमादत्ते । सर्वस्माद्भुवनावधि । तस्याः पाकविशेषेण । स्मृतं कालविशेषणं । नदीव प्रभवात्काचित् । अक्षय्यात्स्यंदते यथा । (*etairādityamaṃḍalaṃ | sarvaireva vidhāsyate | sūryo marīcimādatte | sarvasmādbhuvanāvadhi | tasyāḥ pākaviśeṣeṇa | smṛtaṃ kālaviśeṣaṇaṃ | nadīva prabhavātkācit | akṣayyātsyaṃdate yathā |*)
+
+(Tai. Ā. 1-2-1 *[as supplied: printed "ತ್ರೈ. ಆ."]*)
+
+Having quoted the sentence that Āditya takes up this Marīci, the essence of all, and through it bestows vigour and the like on all beings, they say that in the present mantra (of the Āraṇyaka) एकजं (*ekajaṃ*) denotes the ray (Marīci). Then, for the sentence षडुद्यमा ऋषयो देवजा इति (*ṣaḍudyamā ṛṣayo devajā iti*) (in the Ṛk-saṃhitā the reading is षडिद्यमा (*ṣaḍidyamā*)), the purport is stated: षड्रश्मयः सप्तमरश्मेरुपसर्जनभूताः (*ṣaḍraśmayaḥ saptamaraśmerupasarjanabhūtāḥ*), that the other six rays *[as supplied: printed "ರತ್ನಿ", for raśmi]* are subordinate to the seventh ray, which is the principal one, and help its work; and ते तु षण्णां ऋतूनां प्रवर्तका (*te tu ṣaṇṇāṃ ṛtūnāṃ pravartakā*) : these six rays are the causes of the six seasons. In the present Ṛk, Sāyaṇa, giving the meaning of षडिद्यमा देवजाः (*ṣaḍidyamā devajāḥ*), says:
+
+इच्छब्दः एवकारार्थः । षडेव ऋतवः मासद्वयरूपाः । देवादादित्याज्ञाताः । (*icchabdaḥ evakārārthaḥ | ṣaḍeva ṛtavaḥ māsadvayarūpāḥ | devādādityājñātāḥ |*)
+
+Only these six seasons, produced from Āditya, are of two months each; the seventh *(the sentence is cut by the end of the window as supplied and continues in the next window)*
+
 ---
 
-**Progress note:** Done through printed p. 379. pp. 374-379: end of Rk 13 notes, Rk 14 (sam-pada, bhasya, meaning), special topics on Upanishad parallels and pancajana
+**Progress note:** Done through printed p. 386. pp. 380-386: pancajana views, Rk 14 notes and grammar, Rk 15 (seven seasons), special topics
