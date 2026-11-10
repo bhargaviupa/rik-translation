@@ -4038,6 +4038,91 @@ In the present ṛk it is explained that the gods beginning with Mātariśvan, j
 
 *Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses दिना (*dinā*) *[so printed, for "ದಿವಾ"]* (Pā. Sū. 6-1-168) and यांति (*yāṃti*) (root या (*yā*)); the analysis of Ṛk 14 is cut off in the supplied text at the end of this window and continues in the next window.
 
+### Printed p. 144
+
+*Running head: 144 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied; the head already names Sūkta 162).* (The grammar of Ṛk 14 of Sūkta 161 continues.)
+
+**Grammar (Vyākaraṇa-prakriyā), continued**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses भूम्या (*bhūmyā*) (root भू (*bhū*); with the rule ಉ. ಸೂ. 485 printed without a stop), अद्भिः (*adbhiḥ*) (Pā. Sū. 6-1-171), इच्छंतः (*icchaṃtaḥ*) (root इष (*iṣa*); Pā. Sū. 8-3-9) and नपातः (*napātaḥ*) (Pā. Sū. 6-3-75 and 8-1-19), with the accents; it ends with the mark ॥ ೧೪ ॥.
+
+Here the 161st Sūkta ended. *[Kannada closing line of the supplied text.]*
+
+## Sūkta 162 (Maṇḍala 1)
+
+*[The Kannada heading of the supplied text reads "ನೂರ ಅರವತ್ತೆರಡನೆಯ ಸೂಕ್ತವು", "The one hundred and sixty-second Sūkta".]*
+
+**Sāyaṇa's introduction**
+
+*[The introduction stood as plain lines in the supplied text and is made a block; the hyphenated line break "ನ್ಯಾಯೇ-ನಾಶ್ವೋ" is joined.]*
+
+> मा नो मित्र इति द्वाविंशत्यृचं षष्ठं सूक्तं दैर्घतमसं । तृतीयाषष्टौ
+> जगत्यौ । शिष्टास्त्रिष्टुभः । अश्वस्य स्तूयमानत्वाद्या तेनोच्यते सा देवतेति न्यायेनाश्वो देवता । अत्रानुक्रमणिका । मा नो द्वैधिकाश्वस्तुतिस्तु तृतीयाषष्टौ
+> जगत्याविति ॥ अश्वमेधस्य मध्यमेऽहन्यध्रिगुप्रैषेऽध्रिगो शमीध्वमिति शिष्टा
+> षड्विंशतिरस्य वंक्रय इत्यस्मात्पुरस्ताद्वैतत्तूक्तमावपेत् । त्रीणि सुत्यानि भवंतीति
+> खंडे सूत्रितं । अद्रिगो शमीध्वमिति शिष्टा षड्विंशतिरस्य वंक्रय इति वा मा नो
+> मित्र इत्यावपेत । आ १०-८ । इति ॥
+
+**Anuvāda (Kannada rendering of the introduction)**
+
+This sūkta मा नो मित्रः (*mā no mitraḥ*) is the sixth sūkta in the twenty-second anuvāka. It has twenty-two ṛks. The seer of this sūkta is Dīrghatamas, son of Ucathya. The third and the sixth ṛks of this sūkta are in the jagatī metre, the remaining ṛks in the triṣṭubh metre. Since the horse is praised in this sūkta, the praise of the horse is the deity of this sūkta; for the subject that is set forth in a sūkta is said to be the deity of that sūkta. In the Anukramaṇikā it is said: मा नो द्वैधिकाश्वस्तुतिस्तु तृतीयाषष्टौ (*mā no dvaidhikāśvastutistu tṛtīyāṣaṣṭau*)
+
+### Printed p. 145
+
+*Running head: [ಅ. ೨. ಆ. ೩. ವ. ೭ ] Ṛgveda-saṃhitā 145 (as supplied; "ಆ." printed for "ಅ.").*
+
+जगत्याविति (*jagatyāviti*). That this sūkta is to be used for the stomāvāpa (insertion of the stoma) on the middle day of the Aśvamedha sacrifice, at the time of the adhrigupraiṣa, is explained by the sūtra of the Āśvalāyana-śrauta-sūtra in the section that begins त्रीणि सुत्यानि (*trīṇi sutyāni*) भवंति (*bhavaṃti*), अध्रिगो शमीध्वमिति शिष्टा षड्विंशतिरस्य वंक्रय इति वा मा नो (*adhrigo śamīdhvamiti śiṣṭā ṣaḍviṃśatirasya vaṃkraya iti vā mā no*) मित्र इत्यावपेत (*mitra ityāvapeta*) (ಆ. 10-8, abbreviation as printed).
+
+**Particulars of the sūkta**
+
+Om. Sūkta 162. Maṇḍala 1, Anuvāka 22, Sūkta 162. Aṣṭaka 2, Adhyāya 3, Vargas 7, 8, 9, 10. Number of ṛks in the sūkta: 22. Seer: दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*). Deity: अश्वस्तुतिः (*aśvastutiḥ*) (praise of the horse). Metre (printed "ಲಂದಃ"): ṛks 1, 2, 4, 5, 7, 22 त्रिष्टुप् (*triṣṭup*); ṛks 3 and 6 जगती (*jagatī*).
+
+#### Ṛk 1
+
+*[The label of the Saṃhitā is garbled in the supplied text ("ಕಂಠಪಾಠ"), and the Saṃhitā stood as plain lines; the standard label is inserted, the garbled word kept in kn.md as an italic note, and the lines made a block. The Pada has ऋभुषाः (*ṛbhuṣāḥ*) where the Saṃhitā has "ಋಭುಕ್ಷಾ"; kept as supplied.]*
+
+**॥ संहितापाठः ॥**
+
+> मा नो मित्रो वरुणो अर्यमायुरिंद्र ऋभुक्षा
+> मरुतः परि ख्यन् ।
+> यद्वा॒जिनो॑ दे॒वजा॑तस्य॒ सप्तेः॑ प्रव॒क्ष्यामो॑ वि॒दथे॒॑॑
+> वीर्याणि ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> मा । नः। मित्रः। वरुणः । अर्यमा । आयुः । इंद्रः । ऋभुषाः । मरुतः । परि ।
+> ख्यन् ।
+
+*[A stray signature line "[01] Vol 12" stands inside the Pada block at the foot of p. 145 in the supplied text; kept in kn.md as an italic note, and the Pada block is continued on p. 146.]*
+
+### Printed p. 146
+
+*Running head: 146 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೨.] (as supplied).*
+
+> यत् । वाजिनः । देवजातस्य । सप्तेः । प्रवक्ष्यामः । विदथे । वीर्याणि ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> नोऽस्थानश्वं स्तोतुं प्रवृत्तान्मित्रादयो देवा मा परि ख्यन् । परिख्यानं
+> मा कुर्वंतु । परिख्यानं नाम निंदा । महानुभावं देवजातमश्वं तुच्छा नराः
+> स्तुवंतीति मा कुर्वंतु ॥ ख्यातेर्माजि लुज्यस्य तिवक्तीत्यादिना चेरज् ॥ अहरभिमानी देवो मित्रो रात्र्यभिमानी वरुणः । अर्यमा तयोरंतरालाभिमान्यादित्यः । आयुः सततगंता वायुः ॥ वकारलोपो वा ॥ इंद्रः
+> प्रसिद्धः । ऋभुक्षा देवानां निवासभूतः प्रजापतिः । यद्वा । एतनृहन्नामेंद्रविशेषणं ऋभक्षा उक्षेति तन्नामसु पाठात् । निंदायाः प्रसक्तिं दर्शयति । यद्यस्माद्वाजिनो वेजननतो बह्वन्नवतो वा देवजातस्य बहुदेवतास्वरूपेणोत्पन्नस्य । उषआदीनामस्य शिरआद्यवयवत्पादितिभावः । उषा ना अश्वस्य मेध्यस्य शिर
+> इत्यादिश्रुतेः । यद्वा । देवेभ्यो जातस्य गंधर्वकुल उत्पन्नत्वात् । सप्तेः सर्पणशीलस्य । अश्वनामैतत् । एवंविधस्याश्वस्य महानुभावस्य वीर्याणि वीरकर्माणि
+> सामर्थ्यानि विदथे वेदनसाधने यज्ञॆ प्रवक्ष्यामः प्रकर्षण ब्रूमः । अतो मा
+> परि ख्यन् प्रत्युतानुगृह्णंतित्यर्थः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): may Mitra and the other gods not disparage us: we proclaim at the sacrifice the heroic deeds of the divine-born, swift horse.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यत् (*yat*)—when; विदथे (*vidathe*)—at the sacrifice; वाजिनः (*vājinaḥ*)—of the swift-going one; देव (*deva*)जातस्य (*jātasya*) *[the word is split over two lines]*—born of the gods (or born in the form of many gods); सप्तेः (*sapteḥ*)—of the horse; वीर्याणि (*vīryāṇi*)—the heroic deeds; प्रवक्ष्यामः (*pravakṣyāmaḥ*)—we proclaim and praise, (therefore); मित्रः (*mitraḥ*)—Mitra; वरुणः (*varuṇaḥ*)—Varuṇa; अर्यमा (*aryamā*)—Aryaman; आयुः (*āyuḥ*)—Vāyu, who moves constantly; इंद्रः (*iṃdraḥ*)—Indra; ऋभुक्षा (*ṛbhukṣā*)—Ṛbhukṣan; मरुतः (*marutaḥ*)—the Maruts; नः (*naḥ*)—us; मा परिख्यन् (*mā parikhyan*)—may they not disregard (may they not disparage).
+
+**भावार्थ (Bhāvārtha)**
+
+Because we proclaim and praise at this sacrifice the heroic deeds of this sacrificial horse, which is swift, born of the gods or existing in the forms of many gods, may Mitra, Varuṇa, Aryaman, Vāyu who moves constantly, Indra, Ṛbhukṣan and the Maruts not disregard us (not disparage us).
+
 ---
 
-**Progress note:** Done through printed p. 143 (PDF 143). Sūkta 161 Ṛk 14 Saṃhitā to Special Topics, grammar start
+**Progress note:** Done through printed p. 146 (PDF 146). Sūkta 161 Ṛk 14 grammar end; Sūkta 162 introduction; Ṛk 1 Saṃhitā to Bhāvārtha
