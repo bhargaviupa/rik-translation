@@ -11461,6 +11461,168 @@ Formerly, when Kadrū and Suparṇī disputed, Kadrū won, and Suparṇī had to
 
 *Gist:* In the Pravargya, at the calling of the Gharma-milker, two Ṛks are used; the Hotṛ calls the cow that gives milk well, to be milked by a skilful milker. *[the bhāṣya is cut at the end of this window, in the middle of the word "ಗೋಧುಗೋ-", and continues in the next window.]*
 
+### Printed p. 467
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೯. ] Ṛgveda-saṃhitā 467 (as supplied).*
+
+[Continuing the Sāyaṇa-bhāṣya of Ṛk 26, cut in the middle of a word at the end of the previous window:]
+
+> दोग्धाद्वर्युर्दोहत् । दोग्धि । यस्मादेवं तस्मादुप ह्वय इत्यर्थः । तदर्थ०
+> सविता सर्वस्यानुज्ञाता परमेश्वरो नोऽस्मदीयं श्रेष्ठं प्रशस्य सवं सोमयागं
+> क्षीरं वा साविषत् । अनुजानातु । कथमेवं । तच्छब्दश्रुतेर्यच्छब्दाध्याहार्यः ।
+> यद्यस्माद्वर्मः प्रवर्ग्यः । यद्वा इत्युपतत्तधर्मस्य घर्मत्वमिति तैत्तिरीयकं ।
+> तै. सं. ५-१-५ । तत्तादृशोऽभीद्वोऽभिदीप्तः । तदुशब्द एवकारार्थः । तस्मादेव
+> कारणात्तु प्र वोचं । सुष्टु ब्रवीमि । उपह्वय इति । यद्वा । एतां पुरतो दृश्यमानां धेनुं वृष्टा प्रीणयित्रीं मेघलक्षणां धेनुमुपह्वये । आह्वयामि
+> वर्षदोहाय । किंचैनां धेनुं सुहस्तः शोभनदोहनकुशलहस्तोपेतो गोधुग्गोदोग्दादित्यो ना वायुर्वा दोहत् । दोग्धि । तदधीनत्वाद्वर्षणस्य । किंच
+> तदर्थ० सविता प्रेरकः परमेश्वरोऽस्मदर्थमस्मदुपभोगादृष्टमपेक्ष्य । साविषत्
+> अनुजानातु । प्रतिबंधं मा करोत्वित्यर्थः । किमितीदमुच्यत इति उच्यते । घर्मो
+> ग्रीष्मोऽवर्षणजनितः सस्यशोषोऽभीद्धः प्रवृद्धः । तदु षु प्र वोचं । तस्मादेव
+> कारणाद्ववीमि ॥ ब्रवीतेर्लुजि वच्यादेशेऽस्यतिवक्तित्यादिना चेरज् । छांदसोऽडभावः ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुदुघां (*sudughāṃ*)—the one who is to be called with great zeal; एतां धेनुं (*etāṃ dhenuṃ*)—this cow; उप ह्वये (*upa hvaye*)—I approach and call (I invite); उत (*uta*)—and; एनां (*enāṃ*)—this cow; सुहस्तः (*suhastaḥ*)—he who has excellent hands; गोधुक् (*godhuk*)—the one who milks the cow, the Adhvaryu; दोहत् (*dohat*)—milks (therefore); सविता (*savitā*)—the Supreme Lord; नः (*naḥ*)—our; श्रेष्ठं (*śreṣṭhaṃ*)—praiseworthy; सवं (*savaṃ*)—our Soma-sacrifice [or the milk]; साविषत् (*sāviṣat*)—may he favour; घर्मः (*gharmaḥ*)—the Pravargya; अभीद्धः (*abhīddhaḥ*)—is kindled; तदु (*tadu*)—therefore indeed; सु प्रवोचं (*su pravocaṃ*)—I pray and call with great zeal.
+
+**भावार्थ (Bhāvārtha)**
+
+I pray to and invite this cow, who gives excellent milk. Then the Adhvaryu, who has excellent hands and is the milker of the cow, milks the milk of this cow. May the Supreme Lord favour this praiseworthy milk, milked by us. The Pravargya of this Savitṛ is kindled; therefore I invite this cow in a special manner.
+
+### Printed p. 468
+*Running head: 468 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+**Printed English**
+
+I invoke the milch cow that is easily milked, that the handy milker may milk her : may Savitri accept this our excellent libation, that his heat may (thereby) increase : it is for this, verily, that I earnestly invoke him
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+It is explained, by the Āśvalāyana Śrauta Sūtra sentence उप ह्वये सुदुफां धेनुमेतामिति द्वे (*upa hvaye suduphāṃ dhenumetāmiti dve*) (आ. (*ā.*) 4-7), that the two Ṛks beginning "upa hvaye" are to be recited at the time of calling the Gharma-milker in the Pravargya.
+
+*[as supplied: the word printed "ಸುದುಫಾಂ" in this sūtra quotation stands so in the Kannada.]*
+
+In this Ṛk two kinds of meaning can be given to the word dhenu. Then for the remaining words also two kinds of construction and purport must be stated accordingly. Sāyaṇa has explained that, besides the meaning stated above under Pratipadārtha, another meaning can be stated in this way. Accordingly:
+
+धेनुं-वृष्टा, प्रीणयित्रीं मेघलक्षणां धेनुं (*dhenuṃ-vṛṣṭā, prīṇayitrīṃ meghalakṣaṇāṃ dhenuṃ*). Just as the ordinary cow satisfies the sacrificer with milk, so the cloud satisfies the world with rain; therefore the name dhenu is well known for it also. The one who milks this cow of cloud-form is Āditya. Therefore the epithet सुहस्तः (*suhastaḥ*) means "he who is endowed with rays that cause rain and are shining". घर्म (*gharma*) means the hot season.
+
+*[as supplied: the word printed "ವೃಷ್ಟಾ" is kept as it stands.]*
+
+धेनुर्धयतेर्वा, धिनोतेर्वा धयतेऽसौ वत्सेनेति । तर्पयत्यसौ पयसा (*dhenurdhayatervā, dhinotervā dhayate 'sau vatseneti | tarpayatyasau payasā*) (Ni. 11-42). Cows are called dhenus either because the milk is sucked by the calf, or because they give milk and produce satisfaction. गोधुक् (*godhuk*): the one who milks such a cow is the Adhvaryu in the meaning relating to the sacrifice, and Āditya in the meaning relating to the cloud.
+
+घर्मः (*gharmaḥ*)—for this word he has given the meaning "the sacrifice named Pravargya". And to support his meaning he has quoted the sentence of the Āraṇyaka
+
+तत्प्रवर्ग्यस्य प्रवर्ग्यत्वं यद्वां ४ इत्यपतत् । तद्धर्मस्य घर्मत्वं (*tatpravargyasya pravargyatvaṃ yadvāṃ 4 ityapatat | taddharmasya gharmatvaṃ*) (तै. आ. (*tai. ā.*) 5-1-5)
+
+and has given here to the word घर्म (*gharma*) the meaning Pravargya, and moreover to the word सवं (*savaṃ*) the meaning Soma-sacrifice.
+
+*[as supplied: the reference is printed "ತೈ. ಆ. ೫-೧-೫" here, while the bhāṣya block cites "ತೈ. ಸಂ. ೫-೧-೫"; the odd "ಯದ್ವಾಂ ೪" inside the quotation is as printed.]*
+
+The Pravargya is a rite to be performed before the Soma-sacrifice. Its order is fully told in the Aitareya Brāhmaṇa and other works. Since in the next two Ṛks also, as in the present Ṛk, the same subject is stated, [the matter] will be told at the end of them, that is, in the Special Topics of the 29th Ṛk of this same sūkta.
+
+### Printed p. 469
+*Running head: [ಆ. ೨. ಆ. ೩. ಪ. ೧೯ ] Ṛgveda-saṃhitā 469 (as supplied).*
+
+*[the sentence from the previous page is completed above.]*
+
+**Vyākaraṇa-prakriyā** (grammatical procedure)
+
+*Grammar (transcribed, not explained):*
+- ह्वये (*hvaye*)—root ह्येञ् स्पर्धायां शब्दे च (*hyeñ spardhāyāṃ śabde ca*). When the third person singular of लट् (*laṭ*) follows, the vikaraṇa शप् (*śap*); अयादेश (*ayādeśa*). The tiṅanta-nighāta accent results.
+- सुदुघाम् (*sudughām*)—सुष्टु दुग्धे इति सुदुघा (*suṣṭu dugdhe iti sudughā*). By दुहः कप् घश्च (*duhaḥ kap ghaśca*) (Pā. Sū. 3-2-70) the suffix कप् (*kap*); the घकारादेश (*ghakārādeśa*) for the हकार (*hakāra*) of the root. Because the suffix is k-marked, guṇa does not come to the light penultimate of the root. Because it is p-marked, the root-accent remains. When a gati compound is made with the word सु (*su*), by गतिकारकोपपदात् कृत् (*gatikārakopapadāt kṛt*) the कृदुत्तरपदप्रकृति (*kṛduttarapadaprakṛti*) accent remains.
+- सुहस्तः (*suhastaḥ*)—शोभनौ हस्तौ यस्य सः (*śobhanau hastau yasya saḥ*). By अद्युदात्तंद्वच् छंदसि (*adyudāttaṃdvac chaṃdasi*) (Pā. Sū. 6-2-119) the accent on the first syllable of the latter member results.
+- गोधुक् (*godhuk*)—गां दोग्धि इति गोधुक् (*gāṃ dogdhi iti godhuk*). Root दुह प्रपूरणे (*duha prapūraṇe*). By सत्तूद्विषद्रुह (*sattūdviṣadruha*) (Pā. Sū. 3-2-61) the suffix क्विप् (*kvip*). The कृदुत्तरपदप्रकृति (*kṛduttarapadaprakṛti*) accent results.
+- दोहत् (*dohat*)—दुह प्रपूरणे (*duha prapūraṇe*), root. लेट् (*leṭ*), third person singular, तिप् (*tip*). By इतश्च लोपः प (*itaśca lopaḥ pa*) (Pā. Sū. 3-4-97) loss of इ (*i*). By लेटोऽडाट् (*leṭo 'ḍāṭ*) (Pā. Sū. 3-4-94) the अडागम (*aḍāgama*) to it. On that account guṇa to the light penultimate of the root. The tiṅanta-nighāta accent results.
+- श्रेष्ठम् (*śreṣṭham*)—अतिशयेन प्रशस्यः श्रेष्ठः (*atiśayena praśasyaḥ śreṣṭhaḥ*). When the suffix इष्टन् (*iṣṭan*) comes in the sense of excess, by प्रशस्यश्रः (*praśasyaśraḥ*) the substitution श्र (*śra*). Since प्रकृत्यैकाच् (*prakṛtyaikāc*) gives the natural form, guṇa. Because the suffix is n-marked, the आद्युद्यात्तस्वर (*ādyudyāttasvara*) results.
+
+*[as supplied: "ಆದ್ಯುದ್ಯಾತ್ತಸ್ವರ" is printed so.]*
+
+- सवम् (*savam*)—root षुञ् अभिषवे (*ṣuñ abhiṣave*). Because of पचादि (*pacādi*) the suffix अच् (*ac*); guṇa and the अवादेश (*avādeśa*) for the u of the root. Because it is c-marked, the अंतोदात्तस्वर (*aṃtodāttasvara*) results.
+- साविषत् (*sāviṣat*)—सौत्रधातु (*sautradhātu*). When तिप् (*tip*) comes in the third person singular of लेट् (*leṭ*), loss of इ (*i*). The अडागम (*aḍāgama*). By सिब्बहुलं लेटि (*sibbahulaṃ leṭi*) (Pā. Sū. 3-1-34) सिप् (*sip*). The tiṅanta-nighāta accent results.
+- अभीद्धः (*abhīddhaḥ*)—इंधी दीप्तौ (*iṃdhī dīptau*), root. When the निष्ठा (*niṣṭhā*) suffix comes, by अनिदितां हल उ (*aniditāṃ hala u*) (Pā. Sū. 6-4-24) loss of the penultimate nasal. By गतिरनंतरः (*gatiranaṃtaraḥ*) (Pā. Sū. 6-2-49) the natural accent of the gati (abhi) results.
+
+### Printed p. 470
+*Running head: 470 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+*Grammar (continued):*
+- वोचम् (*vocam*)—root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*); in the Vedic manner लुज् (*luj*). By ब्रुवोवचिः (*bruvovaciḥ*) (Pā. Sū. 2-4-53) the वच्यादेश (*vacyādeśa*) for the root. In the first person singular, the अमादेश (*amādeśa*). By अस्यतिवक्तिख्यातिभ्योज् (*asyativaktikhyātibhyoj*) (Pā. Sū. 3-1-52) the अजादेश (*ajādeśa*) for च्चि (*cci*). By वच उम् (*vaca um*) (Pā. Sū. 7-4-20) the उमागम (*umāgama*) to the root. In the Vedic manner the अडागम (*aḍāgama*) does not come. The tiṅanta-nighāta accent results. || 26 ||
+
+*[as supplied: the printed "ಚ್ಚಿ" and "ಲುಜ್" are kept as they stand.]*
+
+#### Ṛk 27
+**॥ संहितापाठः ॥**
+
+> हिं॒कृ॒ण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒च्छंती॒ मन॑सा॒भ्यागा॑त् ।
+> दु॒हाम॒श्विभ्यां॒ पयो॑ आ॒घ्न्येयं सा व॑र्धतां मह॒ते॑
+> सौभगाय ॥ २७ ॥
+
+**॥ पदपाठः ॥**
+
+> हिर्ज्कृण्वती । वसुपत्नी । वसूनां । वत्सं । इच्छंती । मनसा । अभि । आ । अगात् ।
+> दुहां । अश्विभ्यां । पयः । अघ्न्या । इयं । सा । वर्धतां । महते । सौभगाय ॥२७॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यथाहूता गौर्हिंकृण्वती वत्सं प्रति हिंकारं कुर्वती वसूनां वसुपत्नि
+> क्षीरदध्याज्यादिबहुधनानां सर्वदा पालयित्री । वृत्त्यवृत्तिभ्यां वसुनः पालयितृत्वं । तस्यॆवाधिक्यं च प्रतिपाद्यते । पुनः कीदृशी । मनसा वत्समिच्छंती । ईदृशी
+> साभ्यागात् । अभ्यागमत् । इयमागताघ्न्या । गोनामैतत् । अहननीया गौरश्विभ्यां
+> ताभ्यामर्थाय पयः क्षीरं दुहां । दुग्धां । सा तादृशी महते सौभगाय प्रवृद्धाय सौभाग्याय वर्धतां । प्रवृद्धा भवतु । यद्वा । अस्मै सौभगाय क्षीरं वर्धयतां॥ अत्रापि वृष्टिपरत्वेन यथायोगं योग्यं। हिंकृण्वती वर्षणाय शब्दयंती
+> वसूनां गोसस्यादिधनानां बहूनां वसुपत्नि तेषामेव पालयित्री वत्सं लोकं
+> वत्सवत्पोषणीयं मनसेच्छंती प्रीणयितुमभ्यागात् । अभिगच्छति मेघरूपा । सा
+> चाघ्न्याहंतव्या । प्रस्तुतेत्यर्थः । पय उदकमश्विभ्यां व्याप्ताभ्यां स्थावरजंगमाभ्यामर्थाय । यद्वा । अश्विनौ वाय्वादित्यौ । ताभ्यां सकाशात् । दुहां । दुग्धां ।
+> तौ हि वृष्टेर्मोचयितारौ । शिष्टमवशिष्टं ॥
+
+*Gist:* The lowing cow, guardian of wealth, comes desiring her calf; may she give milk for the Aśvins and thrive for great fortune; the bhāṣya adds a cloud-sense.
+
+### Printed p. 471
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೯. ] Ṛgveda-saṃhitā 471 (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसूनां (*vasūnāṃ*)—of the riches such as milk; वसुपत्नी (*vasupatnī*)—the ever-protecting one; मनसा (*manasā*)—within herself; वत्सं (*vatsaṃ*)—(her) calf; इच्छंती (*icchaṃtī*)—the one who cherishes; (therefore) हिंकृण्वती (*hiṃkṛṇvatī*)—the cow who makes her natural sound (towards the calf); अभ्यागात् (*abhyāgāt*)—has come; अघ्न्या इयं (*aghnyā iyaṃ*)—this cow, unharmed; अश्विभ्यां (*aśvibhyāṃ*)—for the Aśvin gods; पयः (*payaḥ*)—milk; दुहां (*duhāṃ*)—let her yield by milking; सा (*sā*)—that same cow; महते (*mahate*)—exceedingly great; सौभगाय (*saubhagāya*)—for good fortune; वर्धतां (*vardhatāṃ*)—let her grow.
+
+**भावार्थ (Bhāvārtha)**
+
+The cow, protector of the riches such as milk, who cherishes her calf in herself, and who therefore approaches the calf making her sound towards it, has come. May this unharmed cow yield milk for the Aśvin gods. May that same cow grow for exceeding good fortune.
+
+**Printed English**
+
+She comes lowing, abounding in rich (products), desiring her calf in her mind : may this cow grant her milk to the Ashwins; may she thrive for our great advantage.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk also a meaning relating to the cloud can be given. For the word हिंकृण्वती (*hiṃkṛṇvatī*) the meaning is given: "roaring at the time of letting rain fall"; for वसूनां वसुपत्नी (*vasūnāṃ vasupatnī*): "protector of the riches such as cattle and crops". The word वत्स (*vatsa*) means a world worthy of being nourished like a calf. When it is said अश्विभ्यां (*aśvibhyāṃ*), the purport is either "for the worlds of moving and unmoving form" or "by Vāyu and Āditya". According to the first meaning it means "let her pour rain for all the worlds", and according to the second "let her pour rain by the impulse of Vāyu and Āditya".
+
+आफ्घा (*āphghā*)—this word is read among the names of the cow (Ni. 3-9). The author of the Nirukta, showing the derivation of this word, says:
+
+अफ्ना अहंतव्या भवति । अघ्नी इति वा (*aphnā ahaṃtavyā bhavati | aghnī iti vā*)
+
+and explains that the name अफ्घा (*aphghā*) has come either because it is not to be killed or because it is to destroy sin,
+
+*[as supplied: the headword is printed "ಆಫ್ಘಾ", the Nirukta text "ಅಫ್ನಾ", and the explanation "ಅಫ್ಘಾ"; all kept as printed.]*
+
+### Printed p. 472
+*Running head: 472 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+and cites the Ṛk (the sentence from the previous page continuing):
+
+सूयवसाद्भगवती हि भूया अथो वयं भगवंतः स्याम । अद्धि तृणमघ्न्ये विश्वदानीं शुद्धमुदकमाचरंती (*sūyavasādbhagavatī hi bhūyā atho vayaṃ bhagavaṃtaḥ syāma | addhi tṛṇamaghnye viśvadānīṃ śuddhamudakamācaraṃtī*) (Ṛ. Saṃ. 1-164-40)
+
+and has told the meaning of this word.
+
+अश्विभ्यां (*aśvibhyāṃ*)—for this word the meaning is given in three ways. First, in the sense which is that of the cow, "अश्विभ्यां क्षीरं दुहां (*aśvibhyāṃ kṣīraṃ duhāṃ*)", that is, "let her yield milk for the Aśvin gods"; secondly, in the sense of the cloud it is understood as "for the worlds, all-pervading, of moving and unmoving form" or "by Vāyu and Āditya". It is understood from the explanation of the Nirukta-author that all these meanings have room (Ni. 12-1).
+
+अश्विनौ (*aśvinau*)—अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः (*aśvinau yadvyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ*). Because one deity pervades the whole universe in union with water, and the other in union with light, they are called the Aśvins. (1)
+
+अश्वैरश्विनावित्यौर्णवाभः (*aśvairaśvināvityaurṇavābhaḥ*): it is understood that, according to Aurṇavābha, the name Aśvin is well known because they have horses (aśva). (2).
+
+तत्कावश्विन् द्यावापृथिव्यावित्येके (*tatkāvaśvin dyāvāpṛthivyāvityeke*)—thus far the nature of the Aśvin deities has been described. Now, asking the question "who are they?", [the Nirukta] first says द्यावापृथिव्यावित्येके (*dyāvāpṛthivyāvityeke*): it is the view of some that they are Heaven and Earth. By citing a sentence of the Śatapatha Brāhmaṇa it can be shown that there is the support of a śruti sentence for this also.
+
+अथ यदश्विनावितीमे ह वै द्यावापृथिवी प्रत्यक्षमश्विनाविमे हीदं सर्वमश्नु वातां (*atha yadaśvināvitīme ha vai dyāvāpṛthivī pratyakṣamaśvināvime hīdaṃ sarvamaśnu vātāṃ*) (Śat. Brā. 4-1-5-16)
+
+The sentence above states precisely that, since those who pervade the whole universe are Heaven and Earth, Heaven and Earth are famous as the Aśvin deities. It can be shown that support for this view is obtained also from a sentence of the Ṛk-saṃhitā. For example—
+
+मधु नो द्यावापृथिवी मिमिक्षतां मधुश्चुता मधुदुघे मधुव्रते । वधाने यज्ञं द्रविणं च देवता महि श्रवो वाजमस्मे सुवीर्यं (*madhu no dyāvāpṛthivī mimikṣatāṃ madhuścutā madhudughe madhuvrate | vadhāne yajñaṃ draviṇaṃ ca devatā mahi śravo vājamasme suvīryaṃ*) (Ṛ. Saṃ. 6-7-5)
+
+*[as supplied: "ವಧಾನೇ" in this Ṛk is printed so.]*
+
 ---
 
-**Progress note:** Done through printed p. 466. pp. 461-466: Rathantara/Gāyatrī sāman discussion, Sauparṇa story, grammar of Ṛk 25, Ṛk 26 begins
+**Progress note:** Done through printed p. 472. pp. 467-472: Ṛk 26 completed (Pravargya, Dhenu), grammar; Ṛk 27 with Aghnyā and Aśvin discussion
