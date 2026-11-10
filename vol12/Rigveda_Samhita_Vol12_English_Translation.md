@@ -5715,6 +5715,134 @@ limbs may be unperforated, and recapitulating joint by joint.
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 ಚತುಸ್ತ್ರಿಂಶದ್ವಂಕ್ರೀಃ—वंक्रि (*vaṃkri*) means the side bones. From this it is understood that the sacrificial horse has thirty-four such bones. But for other animals, goats and the like, … *(the sentence is cut off at the end of the supplied text of this window and continues in the next window)*
 
+### Printed p. 211
+*Running head: ಆ. ೨. ಆ. ೩. ವ. ೧೦. ಋಗ್ವೇದಸಂಹಿತಾ 211 (as supplied; ಆ. for ಅ.).*
+
+[Continuing the Special Topics of Ṛk 18]
+
+… (but for other animals, goats and the like,) it is known from the Aitareya Brāhmaṇa that there are twenty-six. But at the time of cutting up, the Hotṛ, just as he gives the warning in this Ṛk, tells the Śamitṛ to be very careful concerning that sacrificial animal which is being slaughtered for the satisfaction of the gods:
+
+श्येनमस्य वक्षः तृणुतात्पशसा बाहू शला दोषणी कश्यपेवांसाच्छिद्रे श्रोणी कवषोरू स्प्रेकपर्णाष्टीवंता षड्विंशतिरस्य वंक्रयस्ता अनुष्ठोच्चावयताद्गात्रं गात्रमस्यानूनं कृणुतादित्यंगानैवास्य तद्गात्राणि प्रीणाति ॥ (*śyenamasya vakṣaḥ tṛṇutātpaśasā bāhū śalā doṣaṇī kaśyapevāṃsācchidre śroṇī kavaṣorū sprekaparṇāṣṭīvaṃtā ṣaḍviṃśatirasya vaṃkrayastā anuṣṭhoccāvayatādgātraṃ gātramasyānūnaṃ kṛṇutādityaṃgānaivāsya tadgātrāṇi prīṇāti ‖*) (Ai. Brā. 2-6)
+
+The breast of the sacrificial animal is to be made like a hawk's; the two arms pointed; the forearms fine like a spear; the limbs like a kaśyapa [as supplied]; the loin so that it is not cut through; and the twenty-six ribs without disturbing their arrangement; every single limb is to be made without deficiency, and in this way you are to cut it up; thus the Hotṛ gives them instruction, saying also:
+
+दैन्यः शमितार अरभध्वमुत मनुष्या इत्याह । (*dainyaḥ śamitāra arabhadhvamuta manuṣyā ityāha |*) (Ai. Brā. 2-6)
+
+"O Śamitṛs, begin your work." Just as this has been prayed, so in the present Ṛk also an injunction is given to the Śamitṛ. "Make the body of this horse faultless": that is, without injuring the limbs that are not fit for cutting, and knowing the order of arrangement of even the limbs that are fit for cutting, make your rite pure by your intelligence (*prajñā*). This is what is declared.
+
+वयुना—केतः, केतुः (*vayunā—ketaḥ, ketuḥ*) (Ni. 3-13): *vayunā* is read among the names of intelligence (*prajñā*), "Ketaḥ, ketuḥ" and so on. It is explained to have this meaning because it produces light. वयुनं वेतेः कांतिर्वा प्रज्ञा वा (*vayunaṃ veteḥ kāṃtirvā prajñā vā*) (Ni. 5-15): the authors of the Nirukta show that, formed from the root *vī*, which gives the meaning "to weave, to spread", it gives the meaning of "desire" or "intelligence", and then, citing the Ṛk
+
+स इत्तमोऽवयुनं ततन्वत्सूर्येण वयुनवच्चकार । कदा ते मर्ता अमृतस्य धामे यक्षंतो न मिनंति स्वधावः ॥ (*sa ittamo 'vayunaṃ tatanvatsūryeṇa vayunavaccakāra | kadā te martā amṛtasya dhāme yakṣaṃto na minaṃti svadhāvaḥ ‖*) (Ṛ. Saṃ. 6-21-3)
+
+they explain स तमोऽप्रज्ञानं ततन्वत्सूतं सूरेयण प्रज्ञानवच्चकार (*sa tamo 'prajñānaṃ tatanvatsūtaṃ sūreyaṇa prajñānavaccakāra*) (Ni. 5-15) [as supplied: *sūtaṃ sūreyaṇa*] as meaning: "He made that which, being of the form of darkness, was beyond perception, an object of perception." In the present Ṛk the meaning is: subtle knowledge of the limbs of the animal to be slaughtered, and subtle understanding in the rite of cutting.
+
+### Printed p. 212
+*Running head: 212 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] — Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 162] (as supplied).*
+
+ದೇವಬಂಧೋಃ ಅಶ್ವಸ್ಯ—"of the horse, the kinsman of the gods": in what is said here there are two meanings. First, that the deities Prajāpati and Varuṇa have a relation of creation to the sacrificial horse; or secondly, that after being offered in the oblation this horse goes and joins the gods, and so is related to them: both are intended. Since this point is stated again in the next Ṛk, it will be explained fully in the exposition of the next Ṛk.
+
+**Vyākaraṇa-prakriyā (grammatical process, transcribed, not explained)**
+
+ವಂಕ್ರೀಃ—root *vaki* in the sense of crookedness. By वंक्र्यादयश्च (*vaṃkryādayaśca*) (Uṇ. Sū. 4-506) the form is irregularly derived with the ending *kri*; as the ending has an *i*-marker, the augment *su* [as supplied] comes. By इत्यादिर्नित्यम् (*ityādirnityam*) (Pā. Sū. 6-1-169) the initial-acute accent comes. It is the accusative plural form.
+
+ಅಚ್ಛಿದ್ರಾ—*na chidrāṇi* = *acchidrāṇi*. By शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-70) [sic, the print has 6-1-70] elision of *śi*. By तत्पुरुषे तु- (*tatpuruṣe tu-*) (Pā. Sū. 6-2-2) the original accent of the first member comes. In *gātrā* also elision of *śi* has come.
+
+ಕೃಣೋತ—root *kṛvi* (in the senses of injury and doing). In the Loṭ, second person plural, by तप्तनप्तनथनाश्च (*taptanaptanathanāśca*) (Pā. Sū. 7-1-45) the substitute *tana*. By धिन्विकृण्वोरच (*dhinvikṛṇvoraca*) (Pā. Sū. 3-1-80) the *u* suffix of the verbal class. Substitution of a-final for the root. By अतोलोपः (*atolopaḥ*) elision of the *a*. As the root has an *i*-marker, the augment *num*. As the suffix has a *p*-marker, *guṇa* of the *u* suffix. By reason of the *ṛ*, change of *n* to *ṇ*. Because it stands after a non-finite word [as supplied: *atijanta*], the *nighāta* accent comes.
+
+ಪರುಃ ಪರುಃ—root *pṛ* (in the senses of protecting and filling). By आर्तिष्टवपियजि— (*ārtiṣṭavapiyaji—*) (Uṇ. Sū. 374 [as supplied: no part number]) the suffix *usi*; it has an *n*-marker. By reason of the suffix, *guṇa* of the *i* of the root [as supplied]; *ra* follows. As the *n*-marking has been prescribed, the initial-acute accent comes. When repetition (*vīpsā*) is shown, by नित्यवीप्सयोः (*nityavīpsayoḥ*) (Pā. Sū. 8-1-4) doubling comes. By अनुदात्तं च (*anudāttaṃ ca*) (Pā. Sū. 8-1-3) the following *āmreḍita* becomes wholly unaccented.
+
+ಅನುಘುಷ್ಯ—root *ghuṣir* in the sense of sound [as supplied: *ghaṣit viśabdane*]. By समासे नञ् पूर्वेक्वोल्यप् (*samāse nañ pūrvekvolyap*) (Pā. Sū. 7-1-37) substitution of *lyap* for the suffix *ktvā*. As it has a *p*-marker it is unaccented. In the compound, the original accent of the final member after a *kṛt* comes.
+
+ಶಸ್ತ್ರ—root *śas* in the sense of injury. In the Loṭ, second person plural, since it has the nature of *lajjat* [as supplied], substitution of *tā* [as supplied]. By बहुलं छंदसि (*bahulaṃ chaṃdasi*) *luk* for the verbal-class suffix. Because it stands after a non-finite word [as supplied], the *nighāta* accent comes. ॥ 18 ॥
+*:0:* (as supplied)
+
+### Printed p. 213
+*Running head: ಅ. ೨. ಅ. ೩. ವ. ೧೦. ಋಗ್ವೇದಸಂಹಿತಾ 213 (as supplied).*
+
+#### Ṛk 19
+**॥ संहितापाठः ॥**
+> एक॒स्त्वष्टु॒रश्व॑स्या विश॒स्ता द्वा यं॒तारा॑ भवत॒स्तथ॑ ऋ॒तुः ।
+> या ते॒ गात्रा॑णामृतु॒था कृ॒णोमि॒ ताता॒ पिंडा॑नां॒ प्रजु॑होम्य॒ग्नौ ॥ १९ ॥
+**॥ पदपाठः ॥**
+> एकः । त्वष्टुः । अश्वस्य । विशस्ता । द्वा । यंतारा । भवतः । तथा । ऋतुः ।
+> या । ते । गात्राणां । ऋतुथा । कृणोमि । ताता । पिंडानां । प्र । जुहोमि ।
+> अग्नौ ॥ १९ ॥
+**॥ सायणभाष्यम् ॥**
+> त्वष्टुरस्य दीप्तस्याश्वस्य विशस्ता विशसनस्य कर्तृकः । एक एव । स कः । ऋतुरेतदुपलक्षितः कालात्मा तस्यैव सर्वेषामपि पर्यवसितृत्वात् । यद्वा । ऋतुर्नि:-
+> शंकविशसनाय गंता शमिता । तथा द्वा यंतारा नियमयितारावहोरात्रे देवौ
+> द्यावापृथिव्य वा ऋत्विक्षु भवतः ॥ तथ ऋतुरित्यत्र ऋत्यक इति प्रकृतिभावो ह्रस्वत्वं
+> च ii हे अश्व ते तव गात्राणां मध्यॆ या यानि हृदयाद्यवयवान्न्युतुथा काले
+> कृणोमि छिनद्मि संपादयामि पिंडानां मध्यॆ ताता तानि तानि प्रज्ञानानुरोधेनाग्ना प्र जुहोमि । प्रकर्षण हुतं करोमि ॥
+*Gist:* Of this radiant horse the one cutter-up is Time; two (day and night, or heaven and earth) restrain it; the limbs I prepare in season I offer in the fire as balls.
+**प्रतिपदार्थ (Pratipadārtha)**
+त्वष्टुः (*tvaṣṭuḥ*)—radiant; अस्य अश्वस्य (*asya aśvasya*)—of this horse; विशस्ता (*viśastā*)—the cutter-up; एकः (*ekaḥ*)—one (who is that?); ऋतुः (*ṛtuḥ*)—Time, of the nature of the seasons (that brings everything to an end); यंतारा (*yaṃtārā*)—those who restrain it; द्वा (*dvā*)—two, having the forms of day and night, or of heaven and earth; भवतः (*bhavataḥ*)—there are; (हे अश्व (*he aśva*)—O horse); ते (*te*)—your; गात्राणां (*gātrāṇāṃ*)—among the limbs; या (*yā*)—which; ऋतुथा (*ṛtuthā*)—in accordance with the time of the sacrifice; कृणोमि (*kṛṇomi*)—I prepare; ताता (*tātā*)—all of them; पिंडानां (*piṃḍānāṃ*)—in the form of balls; अग्नौ (*agnau*)—in the fire; प्र जुहोमि (*pra juhomi*)—I offer as an excellent oblation.
+
+### Printed p. 214
+*Running head: 214 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨, ಸೂ. ೧೬೨.] (as supplied; a comma after ೨೨).*
+
+**भावार्थ (Bhāvārtha)**
+Of this radiant horse there is one cutter-up. Who is that? It is Time, of the nature of the seasons, which brings everything to an end. Those who restrain it are two, having the forms of day and night, or of heaven and earth. O horse, whichever of your limbs I prepare in accordance with the time of the sacrifice, all of them I offer in the fire, in the form of balls, as an excellent oblation.
+
+**Printed English**
+There is one immolator of the radiant horse, which is Time: there are two that hold him fast : such of your limbs as I cut up in due season, I offer them, made into balls (of meat), upon the fire.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The description in this Ṛk is not easily understood. A spiritual principle lies hidden in it. This description tells the nature of the sacrificial horse and its relation in two ways: in one way as the verse of the Śamitṛ engaged in the customary rite of cutting; in another way as the verse of Time, which holds the whole universe in its control and is the ender of all. ऋतुः एतदुपलक्षितः कालात्मा तस्यैव सर्वेषामपि पठ्यवसितृत्वात् । यद्वा ऋतुः, निःशंकविशसनाय गंता शमिता । (*ṛtuḥ etadupalakṣitaḥ kālātmā tasyaiva sarveṣāmapi paṭhyavasitṛtvāt | yadvā ṛtuḥ, niḥśaṃkaviśasanāya gaṃtā śamitā |*) [as supplied: *paṭhyavasitṛtvāt* for *paryavasitṛtvāt*; *niḥśaṅka* in the Bhāṣya reads *niśyaṅka* in the Kannada] — thus Sāyaṇa has shown the derivation in the two ways explained above.
+
+ತ್ವಷ್ಟುಃ—Sāyaṇa explains this word as दीप्तस्य (*dīptasya*), "radiant". But since the preceding Ṛk says देवबंधोः (*devabaṃdhoḥ*), and since in many places the relation of begetter and begotten is stated between the sacrificial horse and Tvaṣṭṛ, it would not be wrong to give here the meaning "belonging to Tvaṣṭṛ".
+
+श्वष्टा वीरं देवकामं जजान त्वष्टुरर्ना जायत आशुरश्वः ॥ (*śvaṣṭā vīraṃ devakāmaṃ jajāna tvaṣṭurarnā jāyata āśuraśvaḥ ‖*) (Tai. Saṃ. 5-1-11) [as supplied: *śvaṣṭā*, *arnā*]
+
+In this Āprī-sūkta of the Aśvamedha it is clearly said that the sacrificial horse was produced from Tvaṣṭṛ [as supplied: *tṛṣṭavinindā*]. Moreover:
+
+प्रजापतेरक्ष्यश्वयत् । तत्पारापतत्ततोऽश्वः समभवद्यदश्वयत्तदश्वस्माश्वत्वं तद्देवा अश्वमेधेनैव प्रत्यदधुरेष ह वै प्रजापतिग्ं सर्वं करोति योऽ श्वमेधेन यजते ॥ (*prajāpaterakṣyaśvayat | tatpārāpatattato 'śvaḥ samabhavadyadaśvayattadaśvasmāśvatvaṃ taddevā aśvamedhenaiva pratyadadhureṣa ha vai prajāpatigṃ sarvaṃ karoti yo ' śvamedhena yajate ‖*) (Śa. Brā. 13-3-1)
+
+### Printed p. 215
+*Running head: ಅ. ೨. ಅ. ೩. ವ. ೧೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 215 (as supplied).*
+
+Once the eye of Prajāpati swelled and fell out. From it the horse was produced. Therefore this name became famous for the horse. Afterwards the gods performed the Aśvamedha and restored it to its own place. Since it is said that he who performs the Aśvamedha makes Prajāpati complete and himself also becomes complete, it would not be wrong to say that here the word *tvaṣṭṛ* means "belonging to Prajāpati". Of such a horse, kinsman of the gods, it says विशस्ता एकः । विशसनकर्ता एकः । (*viśastā ekaḥ | viśasanakartā ekaḥ |*) "the cutter is one only", the one who cuts up. Who is this? It is indicated: ऋतुः (*ṛtuḥ*). The same matter is stated in the Taittirīya Saṃhitā:
+
+कस्त्वा भ्यति कस्त्वा वि शास्ति कस्ते गात्राणि शिम्यति । क उ ते शमिता कविः । ऋतवस्त ऋतुधा परुश्यमितारो वि शासतु । संवत्सरस्य धायसा शिमीभिशिम्यंतु त्वा । दैव्या अध्वरवस्ता भ्यंतु वि च शासतु । गात्राणि पर्वशस्ते शिमाः कृण्वंतु शिम्यंतः ॥ (*kastvā bhyati kastvā vi śāsti kaste gātrāṇi śimyati | ka u te śamitā kaviḥ | ṛtavasta ṛtudhā paruśyamitāro vi śāsatu | saṃvatsarasya dhāyasā śimībhiśimyaṃtu tvā | daivyā adhvaravastā bhyaṃtu vi ca śāsatu | gātrāṇi parvaśaste śimāḥ kṛṇvaṃtu śimyaṃtaḥ ‖*) (Tai. Saṃ. 5-2-12)
+
+"O sacrificial horse, who cuts you up? Who, putting the cutting instrument into your limbs, separates them one from another?" Having asked in the form of questions, it then says: "May the seasons, spring and the rest, cut you up at their fixed times and separate your limbs; may they cut you up with the power of the year." This statement is the basis of Sāyaṇa's first explanation. Secondly, the statement "May the Adhvaryu of the world of the gods cut you up and separate your limbs" is favourable to Sāyaṇa's second explanation. यद्वा । ऋतुः निश्यंकविशसनाय गंता शमिता । (*yadvā | ṛtuḥ niśyaṃkaviśasanāya gaṃtā śamitā |*) [as supplied: *niśyaṅka*] — he has explained it as "the Śamitṛ who goes to cut up with a firm mind".
+
+ದ್ವಾ ಯಂತಾರಾ—नियमितारौ अहोरात्रे देवौ द्यावापृथिव्यौ वा । (*niyamitārau ahorātre devau dyāvāpṛthivyau vā |*) It is explained as either day and night, or heaven and earth.
+
+अहर्वा अश्वं पुरस्तान्महिमान्वजायत तस्य पूर्वे समुद्रे योन् रात्रिरेनं पश्चान्महिमान्वजायत तस्यापरे समुद्रे योनिरेत् वा अश्वं महिमानावभितः संबभूवतुः । (*aharvā aśvaṃ purastānmahimānvajāyata tasya pūrve samudre yon rātrirenaṃ paścānmahimānvajāyata tasyāpare samudre yoniret vā aśvaṃ mahimānāvabhitaḥ saṃbabhūvatuḥ |*) (Bṛ. U. 1-1)
+
+"Day, in front of this horse, makes known its greatness. Night, behind it, makes known its greatness." This passage describes both the individual Aśvamedha and Prajāpati's universal sacrifice, famous as the Aśvamedha. If the individual sacrifice is examined: in front of the sacrificial animal a cup (*graha*) made of gold is placed, and behind it a cup made of silver; the meaning is that these two reflect day and night by their colours. From the spiritual point of view Śaṅkarācārya, explaining the meaning of this passage, says:
+
+### Printed p. 216
+*Running head: 216 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೦] (as supplied; ಆ. for ಅ., and ೧೬೦ where ೧೬೨ is expected).*
+
+अहरश्वं पुरस्तान्महिमान्वजायतेति कथं ? अश्वस्य प्रजापतित्वात् प्रजापतिर्ह्यादित्यादि लक्षणोऽह्ना लक्ष्यते । (*aharaśvaṃ purastānmahimānvajāyateti kathaṃ ? aśvasya prajāpatitvāt prajāpatirhyādityādi lakṣaṇo 'hnā lakṣyate |*) (Śa. Bhā. 1-1)
+
+"The horse belongs to Prajāpati. Prajāpati, having the characteristics of the sun and so on, is indicated by 'day'": explaining thus and so on, he says that the meaning is that day and night both make known the greatness of the horse. In Sāyaṇa's explanation also this same meaning comes.
+
+ಋತುಥಾ ಕೃಣೋಮಿ—for the word *ṛtudhā* the meaning given is only "in season" (काले (*kāle*)). Its intention is clear in the passage of the Taittirīya Saṃhitā:
+
+अर्धमासाः परूग्ंषि ते मासाश्च्यंतु शिम्यंतः । आहोरात्राणि मरुतो विलिष्टं सूदयंतु ते ॥ (*ardhamāsāḥ parūgṃṣi te māsāścyaṃtu śimyaṃtaḥ | āhorātrāṇi maruto viliṣṭaṃ sūdayaṃtu te ‖*) (Tai. Saṃ. 5-2-12) [as supplied: *ತ್ರೈ. ಸಂ*, without the full stop]
+
+So it is stated. But in the present Ṛk, with *kṛṇomi* the sacrificer, making himself the cause of the cutting, speaks of himself.
+
+**Vyākaraṇa-prakriyā (grammatical process, transcribed, not explained)**
+
+ವಿಶಸ್ತಾ—root *śas* in the sense of injury. In the agent sense the suffix *tṛc*. As it has a *c*-marker, it becomes final-acute.
+
+ಯಂತಾರಾ—root *yama* in the sense of stopping. As before, the suffix *tṛc*. As it has a *c*-marker, the final-acute accent comes. *Anusvāra* and homorganic nasal for the *m* of the root. By सुपां सुलुक्— (*supāṃ suluk—*) (Pā. Sū. 7-1-39) the substitution of *ā* for the dual ending. In *dvā* also the *ā*-substitution is the same.
+
+ತಥ ಋತುಃ—when it is *tathā + ṛtuḥ*, by ऋत्यकः (*ṛtyakaḥ*) (Pā. Sū. 9-1-128 [as supplied; the print has 9 for the adhyāya]) the natural form (*prakṛtibhāva*) and shortening [as supplied: ಪ್ರಸ್ವ] come.
+
+ಯಾ—by शेश्छंदसि बहुलम्— (*śeśchaṃdasi bahulam—*) (Pā. Sū. 6-1-70) elision of *śi*.
+
+ಋತುಥಾ—by था हेत् च छंदसि (*thā het ca chaṃdasi*) (Pā. Sū. 5-3-29) the suffix *dhā* prescribed there comes, by *vyatyaya*, to the word *ṛtu* also.
+
+ಕೃಣೋಮಿ—because of the connection with *yad* the *nighāta* accent does not come. By the accent of the verbal-class suffix it becomes middle-acute.
+
+ತಾತಾ—when it is *tāni tāni*, by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) elision of *śi*. In the sense of repetition (*vīpsā*) doubling comes. The following *āmreḍita* receives the unaccented accent.
+
+ಜುಹೋಮಿ—root *hu* in the senses of giving and eating. *Śluk* for the verbal-class suffix; doubling and the rest for the root. Because it stands after a non-finite word [as supplied: *atijanta*], the *nighāta* accent comes. ॥ 19 ॥
+
 ---
 
-**Progress note:** Done through printed p. 210. Ṛk 15 grammar end, Ṛks 16-18 of Sūkta 162, pp. 204-210
+**Progress note:** Done through printed p. 216. Ṛk 18 Special Topics end, grammar; Ṛk 19 (Sūkta 162) with Special Topics and grammar
