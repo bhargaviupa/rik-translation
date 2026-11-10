@@ -4423,6 +4423,114 @@ This goat, fit to be offered to all the gods and belonging to the share of Agni,
 
 This goat, the portion of Pushan, fit for all the gods, is brought first with the fleet courser, so that Twashtri may prepare him along with the horse, as an acceptable preliminary offering for the (sacrifical) [sic] food.
 
+### Printed p. 159
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೭. ] Ṛgveda-saṃhitā 159 (as supplied).* (Sūkta 162, Ṛk 3.)
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In stating the rule by which, in the Aśvamedha, the goat in the form of the puroḍāśa is made dear to the gods, there is an epithet "viśvadevyaḥ" for this food in the form of a goat. In this context an objection arises, and the answer to it is as follows.
+
+यत्पाजापत्योऽश्वोऽथ कथाप्यन्याभ्यो देवताभ्यः प्रोक्षतीति सर्वा वै (*yatpājāpatyo 'śvo 'tha kathāpyanyābhyo devatābhyaḥ prokṣatīti sarvā vai*)
+देवता अश्वमेधेऽन्वायत्ता यदाह सर्वेभ्यस्त्वा देवेभ्यः प्रोक्षामीति (*devatā aśvamedhe 'nvāyattā yadāha sarvebhyastvā devebhyaḥ prokṣāmīti*)
+सर्वा एनास्मिन्देवता अन्वायातयति तस्मादश्वमेधे सर्वा देवता अन्वायत्ताः ॥ (*sarvā enāsmindevatā anvāyātayati tasmādaśvamedhe sarvā devatā anvāyattāḥ ‖*) (ಶ. ಬ್ರಾ. 13-1-2-9) *[abbreviation as printed; the hyphenated line break "ಅನ್ವಾ-ಯತ್ತಾಃ" is joined]*
+
+Since the sacrificial horse belongs chiefly to Prajāpati alone, this whole share of the sacrifice should belong to that deity alone. In such a case, to the question why the horse is sprinkled with reference also to the other deities, the answer is given that, since all the deities are connected with the Aśvamedha, all are addressed. According to that rule, the food in the form of the goat, described in the present ṛk and being in the form of the puroḍāśa, is also "viśvadevya".
+
+पुरोळा (डा)शं-पुरस्ताद्दातव्यं । (*puroḷā (ḍā)śaṃ-purastāddātavyaṃ |*) *[so printed]* "that which is to be offered first".
+
+स ना एभ्यस्तत्पुरोऽदाशयत् । य एभ्यो यज्ञं प्रारोचयत्तस्मात्पुरोदाशः पुरोदाशो ह वै नामैतद्यत्पुरोडाश इति ॥ (*sa nā ebhyastatpuro 'dāśayat | ya ebhyo yajñaṃ prārocayattasmātpurodāśaḥ purodāśo ha vai nāmaitadyatpuroḍāśa iti ‖*) (ಶ. ಬ್ರಾ. 1-6-2-5) *[the hyphenated line break "ಪುರೋ-ದಾಶಃ" is joined]*
+
+The name "puroḍāśa" *[printed "ಪುರೋಡಾರ"]* is given to the preliminary offering that makes the sacrifice attractive and the sacrificial portion palatable. Here the offering of the goat is the one that precedes the offering of the horse. It is the puroḍāśa.
+
+वाजिना, अर्वता (*vājinā, arvatā*)—the two words "vājī" and "arvā" are also read among the names of the horse (Ni. 2-27). When explaining the description of the horse called Dadhikrāḥ, the Nirukta authors, quoting the ṛk
+
+आ दधिक्राः शवसा पंच कृष्टीः सूर‍्य इव ज्योतिषापस्ततान । (*ā dadhikrāḥ śavasā paṃca kṛṣṭīḥ sūrya iva jyotiṣāpastatāna |*)
+सहस्रसाः शतसा वाज्यर्वा पृणक्तु मध्वा समिमा वचांसि ॥ (*sahasrasāḥ śatasā vājyarvā pṛṇaktu madhvā samimā vacāṃsi ‖*) (Ṛ. Saṃ. 4-38-10)
+
+have explained वाजी वेजनवान्, अर्वेरणवान् (*vājī vejanavān, arveraṇavān*) as having both speed and movement. But since the root "vī" (ओविजी भयचलनयोः) (*(ovijī bhayacalanayoḥ)*) has both the meaning of fear and the meaning of movement,
+
+### Printed p. 160
+
+*Running head: 160 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೨.] (as supplied; "ಆ." printed for "ಅ.").*
+
+one may even say that the horse frightens (its enemies) by its swift gait.
+
+त्वष्टा अभिजिन्वति (*tvaṣṭā abhijinvati*)—when it is said that Tvaṣṭṛ makes it pleasing, that is, makes it be satisfied, Sāyaṇa has first taken it as the god Tvaṣṭṛ, explaining त्वष्टा सर्वस्य उत्पादको देवः (*tvaṣṭā sarvasya utpādako devaḥ*), and afterwards, by तूर्णव्यापकोऽग्निर्वा (*tūrṇavyāpako 'gnirvā*), he has given the word "tvaṣṭṛ" the meaning "spreading quickly and pervading" and made it an epithet of Agni, so that he has said that "tvaṣṭṛ" may also mean Agni. To support this meaning,
+
+अविष्टो वर्धते चारुरासु जिह्मानामूर्ध्वः स्वयशा उपस्थे। (*aviṣṭo vardhate cārurāsu jihmānāmūrdhvaḥ svayaśā upasthe|*)
+उभे त्वष्टुर्बिभ्यतुर्जायमाना त्प्रतीची सिंहं प्रति जोषयेते ॥ (*ubhe tvaṣṭurbibhyaturjāyamānā tpratīcī siṃhaṃ prati joṣayete ‖*) (Ṛ. Saṃ. 1-95-5)
+
+Sāyaṇa has explained that, having quoted this ṛk, the word "tvaṣṭṛ" is used as a synonym of Agni in the sentence त्वष्टुर्बिभ्यतुः (*tvaṣṭurbibhyatuḥ*). अरणी इति वा (*araṇī iti vā*) (Ni., the number printed "೮. ೧೫") इति यास्केन (*iti yāskena*) बिभ्यतुरित्युक्तत्वात् अरणिसंबंधः अग्नेरेवेति गम्यते । (*bibhyaturityuktatvāt araṇisaṃbaṃdhaḥ agnereveti gamyate |*) Sāyaṇa explains that, in giving the derivation of the word "tvaṣṭṛ", Yāska has also shown a derivation as a synonym of Agni.
+
+जिन्वति—जिन्वतिः प्रीतिकर्मा । (*jinvati—jinvatiḥ prītikarmā |*) The word is used in the sense "cause satisfaction". *[In the supplied text this paragraph is printed twice; the second is kept in kn.md as an italic note.]*
+
+भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः । (*bhūmiṃ parjanyā jinvaṃti divaṃ jinvaṃtyagnayaḥ |*) (Ṛ. Saṃ. 1-164-51)
+
+The word is used in a context that indicates the same kind of satisfaction, as in "Parjanya, providing abundance of food, satisfies the earth, and the fires, providing food in the form of oblations, satisfy the gods".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses भागः (*bhāgaḥ*) (Pā. Sū. 6-1-45 and 6-1-166; the Uṇādi-sūtra number is printed "ಉ ಸೂ. ೧-೧೨೧", not cited), भागः (*bhāgaḥ*) (root भज (*bhaja*); Pā. Sū. 7-2-116; the numbers of 7-3-52 and 6-1-156 are printed with a comma or split over lines, not cited), नीयते (*nīyate*) and, on p. 161, विश्वदेव्यः (*viśvadevyaḥ*) (Pā. Sū. 5-1-67 and 6-2-106), सौश्रवसाय (*sauśravasāya*) and जिन्वति (*jinvati*) (Pā. Sū. 7-1-58), with the accents; it ends with the mark ॥ ೩ ॥.
+
+### Printed p. 161
+
+*Running head: [ಅ. ೨. ಅ. .೩ ವ. ೭.] ಹುಗ್ವೇದಸಂಹಿತಾ 161 (as supplied: "ಹುಗ್ವೇದ" for "ಋಗ್ವೇದ", ".೩" for "೩"; the head stood in the middle of the page without its page mark and with tabs, so the page mark is supplied).* (The grammar of Ṛk 3 ends here with ॥ ೩ ॥.)
+
+#### Ṛk 4
+
+*[A picture (vol12/html/figures/fig1_line07102.jpg) stood at this place in the supplied text. I looked at it: it shows the label "ಸಂಹಿತಾಪಾಠಃ", the Saṃhitā of this Ṛk and the beginning of the label of the Pada; read letter by letter, it agrees with the machine-read text below, so kn.md only has an italic note in place of the figure line. The hyphenated line break "ಪ್ರತಿವೇ-ದಯನ್ನಜಃ" is joined.]*
+
+**॥ संहितापाठः ॥**
+
+> यद्ध॑वि॒ष्य॑मृतु॒शो दे॑व॒यानं॒ त्रिर्मानु॑षाः॒ पर्यश्वं॒॑
+> नयंति ।
+> अत्रा॑ पू॒ष्णः प्र॑थ॒मो भा॒ग ए॑ति य॒ज्ञं दे॒वेभ्यः॑ प्रतिवे॒दय॑न्न॒जः ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> यत् । ह विष्यं । ऋतुशः । देवयानं । त्रिः । मानुषाः । परि । अश्वं । नयंति ।
+> अत्र । पूष्णः । प्रथमः । भागः । एति । यज्ञं । देवेभ्यः । प्रतिवेदयन् । अजः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined. A stray signature line "(11) Vol. 12]" stands at the foot of the page in the supplied text; kept in kn.md as an italic note.]*
+
+> हविष्यं हविर्योग्यं देवयानं देवानां प्रापणीयमश्वं यद्यदा
+> मानुषा ऋत्विज ऋतुश ऋतावृत् काले काले त्रिः परिणयंति । पर्यग्नि कुर्वंतीत्यर्थः । अत्रास्मिन्समये ॥ ऋचि तुनुघेति दीर्घः ॥ पूष्णः पोषकस्याग्नेर्भागोऽजः प्रथम एति । पुरोगामि सन् गच्छति । किं कुर्वन् । यज्ञं देवेभ्यः
+> प्रतिवेदयन् प्रख्यापयन् ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): priests lead the horse thrice around the fire each season; the goat, Pūṣan's first portion, goes first, announcing the sacrifice to the gods.]*
+
+### Printed p. 162
+
+*Running head: 162 Sāyaṇa-bhāṣya-sahitā [ಮಂ ೧. ಅ. ೨೨. ಸೂ ೧೬೨] (as supplied).*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यत् (*yat*)—when; मानुषाः (*mānuṣāḥ*)—the priests; हविष्यं (*haviṣyaṃ*)—fit for the oblation (for the offering); देवयानं (*devayānaṃ*)—and that which belongs to the gods (printed "ಆದ್ವ" for "ಆದ"); अश्वं (*aśvaṃ*)—the horse; ऋतुशः (*ṛtuśaḥ*)—at the times of the sacrifice; त्रिः (*triḥ*)—three times; परि (*pari*)—round (the fire); नयंति (*nayaṃti*)—lead, (make it go round to the right); अत्र (*atra*)—at this time; पूष्णः (*pūṣṇaḥ*)—of Agni, the nourisher; प्रथमः (*prathamaḥ*) भागः (*bhāgaḥ*)—which is the first portion; अजः (*ajaḥ*)—the goat; देवेभ्यः (*devebhyaḥ*)—to the gods; यज्ञं (*yajñaṃ*)—the sacrifice; प्रतिवेदयन् (*prativedayan*)—announcing; एति (*eti*)—comes as the one going in front.
+
+*[The label of the Bhāvārtha is garbled in the supplied text ("॥ ಭಾನುವಾರ ॥"); the standard label is inserted and the garbled words kept in kn.md as an italic note.]*
+
+**भावार्थ (Bhāvārtha)**
+
+The priests, at the times of the sacrifice, make the horse, which is fit for the oblation and belongs to the gods, go three times round the fire. At that time the goat, which is the first share of Agni, goes in front announcing the sacrifice to the gods.
+
+**Printed English translation**
+
+When the priests at the season (of the ceremony) lead forth the horse, the offering devoted to the gods, thrice round (the sacrificical [sic] fire); then the goat, the portion of Pushan, goes first, announcing the sacrifice to the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+ऋतुशः (*ṛtuśaḥ*)—the word "ṛtu" is here a word for time. "Mānuṣāḥ" is a synonym for priests. Wherever the word "ṛtuśaḥ" is used, the meaning is "at the regular time". In some places Sāyaṇa has explained against the Nirukta. For example:
+
+आयूया धृष्णो अभिगूर्या त्वं नेष्त्रात्सोमं द्रविणोदः पिब ऋतुभिः । (*āyūyā dhṛṣṇo abhigūryā tvaṃ neṣtrātsomaṃ draviṇodaḥ piba ṛtubhiḥ |*) (Ṛ. Saṃ. 2-37-3)
+
+in this ṛk, while the Nirukta authors have explained ऋतुभिः (*ṛtubhiḥ*) as "at the right time" (Ni. 8-3), Sāyaṇa has explained this word as "with the priests" *[printed "ಸಂಜ್ಞ ಕೈಃ ಸಹ"]*.
+
+यत्वाकत्रा मनसा दीनदक्षा न यज्ञस्य मन्वते मर्त्यासः । (*yatvākatrā manasā dīnadakṣā na yajñasya manvate martyāsaḥ |*)
+अग्निष्टद्भोता क्रतुविद्विजानन्यजिष्ठो देना ऋतुशो यजाति । (*agniṣṭadbhotā kratuvidvijānanyajiṣṭho denā ṛtuśo yajāti |*) (ಋ. ಸಂ. 18-2-5) *[reference as printed, "೧೮-೨-೫"]*
+
 ---
 
-**Progress note:** Done through printed p. 158 (PDF 158). Sūkta 162 Ṛk 2 Special Topics end and grammar; Ṛk 3 Saṃhitā to English
+**Progress note:** Done through printed p. 161 (PDF 161). Sūkta 162 Ṛk 3 Special Topics, grammar; Ṛk 4 Saṃhitā (picture) to Special Topics start
