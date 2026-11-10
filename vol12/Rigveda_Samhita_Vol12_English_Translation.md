@@ -4611,6 +4611,77 @@ since the goat is a dear oblation of Pūṣan, there is also an opinion that the
 
 *[Gist of the Sāyaṇa-bhāṣya (my own short summary): the hotṛ, adhvaryu, agnīdh, grāvastut, śaṃstṛ and Brahman, with this well-done sacrifice, fully accomplish its fruit (or fill the streams).]*
 
+### Printed p. 166
+
+*Running head: 166 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೨] (as supplied; "ಆ." printed for "ಅ."). (Sūkta 162, Ṛk 5.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+होता (*hotā*)—the hotṛ who invokes the gods; ग्रावग्राभः (*grāvagrābhaḥ*)—the priest who praises the stones called grāvan that crush *[printed "ಜಜ್ವಿಸುವ"]* the Soma plant; आवयाः (*āvayāḥ*)—the one who offers oblations to the fire, facing it; अग्निमिंधः (*agnimiṃdhaḥ*)—the priest called Āgnīdhra, who makes the fire blaze; अध्वर्युः (*adhvaryuḥ*)—the priest called adhvaryu; उत (*uta*)—and; शंस्ता (*śaṃstā*)—the praśāstṛ *[printed "ಪ್ರಶಾಸ್ತ್ರ"]*; सुविप्रः (*suvipraḥ*)—the intelligent Brahman; तेन (*tena*)—by that well-known; स्वरंकृतेन (*svaraṃkṛtena*)—excellently adorned; स्विष्टेन (*sviṣṭena*)—well offered *[printed "ತ್ಯರ್ಪಣೆ"]*; यज्ञेन (*yajñena*)—by the sacrifice; वक्षणा (*vakṣaṇā*)—the flowing streams of ghee and the like; आ पृणध्वं (*ā pṛṇadhvaṃ*)—may they make them full and overflowing all round *[printed "ತುಂಬಿದರಿಯುವಂತೆ"]*.
+
+**भावार्थ (Bhāvārtha)**
+
+May the hotṛ who invokes the gods, the priest who praises the stones that crush the Soma plant and who offers the oblations to the fire facing it, the priest called adhvaryu, who makes the fire blaze, and also the praśāstṛ and the intelligent Brahman, with the well-known, excellently adorned and well-offered sacrifice, make the streams of ghee and the like that flow from it full and overflowing all round.
+
+**Printed English translation**
+
+The innoker [sic] of the gods, the minister of the rite, the offerer of the oblation, the kindler of the fire, the bruiser of the Soma plant, the director of the ceremony, the sage (superintendent of the whole); do you replenish the rivers by this well-ordered, well conducted, sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This describes the nature of the fruit of the sacrifice. But it also tells of the knowledge of duty that is the means to the fruit described here. It is said that, if the hotṛ and the others perform their duties without omission, the fruit is assured.
+
+होता (*hotā*)—among the four chief priests he is the one who recites the ṛg-mantras and gives the invitation to the gods. His duty is explained in the Aitareya Brāhmaṇa in this way:
+
+तदाहुर्यदन्यो जुहोत्यथ योऽनु चाह यजति च कस्मात्तं होतेत्याचक्षत इति । यद्वाव स तत्र यथाभाजनं देवता अमुमावहामुमावहेत्यावाहयति तदेव होतुर्होतृत्वं होता भवति ॥ होतेत्येन (*tadāhuryadanyo juhotyatha yo 'nu cāha yajati ca kasmāttaṃ hotetyācakṣata iti | yadvāva sa tatra yathābhājanaṃ devatā amumāvahāmumāvahetyāvāhayati tadeva hoturhotṛtvaṃ hotā bhavati ‖ hotetyena*)
+माचक्षते य एवं वेद । (*mācakṣate ya evaṃ veda |*) (ಐ. ಬ್ರಾ. 1-2) *[the hyphenated line breaks "ಹೋತೇತ್ಯಾ-ಚಕ್ಷತ" and "ಅಮುಮಾವಹೇ-ತ್ಯಾವಾಹಯತಿ" are joined; "ಹೋತೇತ್ಯೇನ|ಮಾಚಕ್ಷತೇ" is split over two lines without a hyphen and is quoted in two parts]*
+
+### Printed p. 167
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೭ ] Ṛgveda-saṃhitā 167 (as supplied).*
+
+If it is asked why the one who recites the anuvākya and yājyā mantras is called "hotṛ": he gives the gods an invitation in the form of a mantra and directs them to come and sit in their places. From "āvaha" (that is, bring near) the name "hotṛ" has arisen. One who knows the nature of the gods and has the knowledge of the mantras that give the proper invitation to each god is called "hotṛ".
+
+ग्रावग्राभः—ग्राव्णः स्तुत्या गृह्णातीति ग्रावस्तुत् । (*grāvagrābhaḥ—grāvṇaḥ stutyā gṛhṇātīti grāvastut |*) Maitrāvaruṇa, Acchāvāka and Grāvastut: he is one of these three priests who are the helpers of the hotṛ.
+
+प्रैते वदंतु प्र वयं वदाम ग्रावभ्यो वाचं वदता वदद्भ्यः । (*praite vadaṃtu pra vayaṃ vadāma grāvabhyo vācaṃ vadatā vadadbhyaḥ |*)
+यदद्रयः पर्वताः साकमाशवः श्लोकं घोषं भरथेंद्राय सोमिनः ॥ (*yadadrayaḥ parvatāḥ sākamāśavaḥ ślokaṃ ghoṣaṃ bharatheṃdrāya sominaḥ ‖*) (Ṛ. Saṃ. 10-94-1)
+
+the sūkta that begins with this ṛk *[printed "ಹಕ್ಕಿನಿಂದ"]*, and
+
+आ व ऋंजस ऊर्जां व्युष्टिष्टिंद्रं मरुतो रोदसी अनक्तन ॥ (*ā va ṛṃjasa ūrjāṃ vyuṣṭiṣṭiṃdraṃ maruto rodasī anaktana ‖*)
+उभे यथा नो अहनी सचाभुवा सदः सदो वरिवस्यात उद्भिदा ॥ (*ubhe yathā no ahanī sacābhuvā sadaḥ sado varivasyāta udbhidā ‖*) (Ṛ. Saṃ. 1-76-1)
+
+the sūkta that begins with this verse *[printed "ಮುಕ್ಕಿನಿಂದ"]*, and
+
+प्र वो ग्रावाणः सविता देवः सुवतु धर्मणा । धूर्षु युज्यध्वं सुनुत ॥ (*pra vo grāvāṇaḥ savitā devaḥ suvatu dharmaṇā | dhūrṣu yujyadhvaṃ sunuta ‖*) (Ṛ. Saṃ. 10-175-1)
+
+the sūkta that begins with this ṛk, are recited at the time of the midday pressing; thus they show his duty as the priest who helps in pressing out the Soma juice.
+
+A situation that explains the necessity of this grāvastut and his duty is told in the form of a story in the Aitareya Brāhmaṇa.
+
+देवा ह वै सर्वचरौ सत्रं निषेदस्ते ह पाप्मानं नापजघ्निरे तान्होवाचार्बुदः काद्रवेयः सर्प ऋषिर्मंत्रकृदेका वै वो होत्राकृता तां (*devā ha vai sarvacarau satraṃ niṣedaste ha pāpmānaṃ nāpajaghnire tānhovācārbudaḥ kādraveyaḥ sarpa ṛṣirmaṃtrakṛdekā vai vo hotrākṛtā tāṃ*)
+वोऽहं करवाण्यथ पाप्मानमपहनिष्यध्व इति ते ह तथेत्यूचुस्तेषां ह (*vo 'haṃ karavāṇyatha pāpmānamapahaniṣyadhva iti te ha tathetyūcusteṣāṃ ha*)
+स्म स मध्यंदिने मध्यंदिन एवोपोदासर्पद्ग्राव्णोऽभिष्टौति । तस्मान्मध्यंदिने मध्यंदिन एव ग्राव्नोऽभिष्णुवंति तदनुकृति सह स्म येनोपोदासर्पत्तद्दाप्येतर्ह्यर्बुदोदासर्पणी नाम प्रपदस्ति । (*sma sa madhyaṃdine madhyaṃdina evopodāsarpadgrāvṇo 'bhiṣṭauti | tasmānmadhyaṃdine madhyaṃdina eva grāvno 'bhiṣṇuvaṃti tadanukṛti saha sma yenopodāsarpattaddāpyetarhyarbudodāsarpaṇī nāma prapadasti |*) (ಐ. ಬ್ರಾ. 6-1) *[the hyphenated line breaks "ತಾನ್ಹೋವಾ-ಚಾರ್ಬುದಃ", "ಮಧ್ಯಂ-ದಿನೇ" and "ಯೇನೋಪೋದಾ-ಸರ್ಪತ್ತ" are joined]*
+
+### Printed p. 168
+
+*Running head: 168 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+The gods once began a sattra called Sarvacaru. Then they could not destroy their fault. Then Arbuda, the son of Kadrū, a mantra-seer and a serpent-seer, came and said: "You have forgotten one chief rite that is to be performed by the hotṛ; I shall perform it for you; then you will be able to destroy your fault." The gods agreed. Arbuda, every time, came exactly at the time of the midday pressing and recited the mantra of pressing at the time of grinding the Soma. (The path by which the serpent king came was named "Arbuda-sarpaṇī".)
+
+तान्ह राजा मदयांचकार ते होचुराशीविषो वै नो राजानमवेक्षते (*tānha rājā madayāṃcakāra te hocurāśīviṣo vai no rājānamavekṣate*)
+हंतास्योष्टीषेणाक्ष्यावपिनह्यामेति तथेति तस्य होष्टीषेणाक्ष्यावपिनह्युस्तस्मादुष्टीषमेव पर्यस्य ग्राप्पोऽभिष्णुवंति तदनुकृति।तान्हराजा मद (*haṃtāsyoṣṭīṣeṇākṣyāvapinahyāmeti tatheti tasya hoṣṭīṣeṇākṣyāvapinahyustasmāduṣṭīṣameva paryasya grāppo 'bhiṣṇuvaṃti tadanukṛti|tānharājā mada*)
+यामेव चकार ते होचुः स्वेन वै नो मंत्रेण ग्राप्पोऽभिष्णौति हंता (*yāmeva cakāra te hocuḥ svena vai no maṃtreṇa grāppo 'bhiṣṇauti haṃtā*)
+स्यान्याभिर्यग्निर्यंत्रमापृणचामेति तथेति तस्य हान्याभिर्यग्निर्मंत्र (*syānyābhiryagniryaṃtramāpṛṇacāmeti tatheti tasya hānyābhiryagnirmaṃtra*)
+मापृचुस्ततो दैनान्न मदयांचकार तद्यदस्याभिर्यग्निर्मंत्रमापृं (*māpṛcustato dainānna madayāṃcakāra tadyadasyābhiryagnirmaṃtramāpṛṃ*)
+चंति शांत्या एव । ते ह पाप्मानमपजघ्निरे तेषामन्वपहतिं सर्पाः पाप्मानमपजघ्निरे त एतेऽपहतपाप्मानो हित्वा पूर्वां जीर्णां त्वचं नव (*caṃti śāṃtyā eva | te ha pāpmānamapajaghnire teṣāmanvapahatiṃ sarpāḥ pāpmānamapajaghnire ta ete 'pahatapāpmāno hitvā pūrvāṃ jīrṇāṃ tvacaṃ nava*)
+य्यैव प्रयंति ॥ (*yyaiva prayaṃti ‖*) (इ. बॊ. ६ १ (*i. bò. 6 1*)) *[reference printed so, probably for the Aitareya Brāhmaṇa 6-1; several lines begin or end in the middle of a word, "ಮದ|ಯಾಮೇವ", "ಆಪೃಂ|ಚಂತಿ", "ನವ|ಯ್ಯೈವ", the line breaks being printed without hyphens, so the quotation is given line by line; the hyphenated line breaks "ಅಕ್ಷ್ಯಾವಪಿನ-ಹ್ಯುಸ್ತಸ್ಮಾದ್" and "ಪಾಪ್ಮಾ-ನಮಪಜಘ್ನಿರೇ" are joined]*
+
+Then King Soma made the gods drink. Then they said, "A venomous serpent is looking at our king; let us bind its eyes", and they did so. [Therefore, at all times when this praise is generally recited, people bind their eyes, to imitate what the gods did to the serpent.] Then King Soma made them drink. Then they arranged that other mantras too be recited together with the mantras recited by the serpent. When both mantras were mixed and recited together, their sin was removed. This is the origin of the grāvastuti. One who recites it at the times of the midday pressing is named "grāvastut". He is the helper of the hotṛ.
+
+अध्वर्युः— अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति वा । (*adhvaryuḥ— adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti vā |*) Because he carries out the sacrifice, or is the leader of the sacrifice, or serves the sacrifice with devotion, the name "adhvaryu" is well known (Ni., the number printed "೧. ೮"). Measuring the sacrificial ground, constructing the altar, preparing the sacrificial vessels, making the fire blaze and the other works favourable to these are what the adhvaryu does *[printed "ಅಧ್ಯಯ್ಯ"]*. While doing these works he must recite the respective mantras.
+
 ---
 
-**Progress note:** Done through printed p. 165 (PDF 165). Sūkta 162 Ṛk 4 Special Topics end and grammar; Ṛk 5 Saṃhitā, Pada, bhāṣya
+**Progress note:** Done through printed p. 168 (PDF 168). Sūkta 162 Ṛk 5 Pratipadārtha to Special Topics (hotṛ, grāvastut, adhvaryu)
