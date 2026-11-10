@@ -16065,6 +16065,163 @@ In all such Ṛks the epithet सनीळाः (*sanīḷāḥ*) describes liv
 
 Sāyaṇa has stated that in this sūkta the dialogue of Indra and the Maruts can be applied to a conversation between the vital breath and the individual self, and a meaning referring to the self (adhyātma) can be made.
 
+### Printed p. 683
+*Running head: अ. २ अ. ३. व. २४. (*a. 2 a. 3. va. 24.*) Ṛgveda-saṃhitā 683 (as supplied).*
+
+**Grammatical analysis (Vyākaraṇa-prakriyā)** *(continuing from the previous Ṛk; the Ṛk number 1 closes this section)*
+
+*Grammar (transcribed, not explained):*
+
+शुभा (*śubhā*)—root śubh (to shine). Because the suffix kvip is marked with k, the guṇa of the short penultimate vowel does not occur. By Pā. Sū. 6-1-168 (sāvekācas tṛtīyādiḥ) the udātta accent falls on the singular of the instrumental.
+
+सवयसः (*savayasaḥ*)—"those whose age is the same". By Pā. Sū. 6-3 84 (samānasya chandasi) the word samāna takes the form sa-. In the bahuvrīhi the accent of the first member remains. In सनीळाः (*sanīḷāḥ*) too, the same accents arise in this way.
+
+समान्या (*samānyā*)—by Pā. Sū. 4-1-30 (kevalamāmakabhāgadheyapāpāpara-samāna-). The feminine suffix ṅīp; the form of the instrumental singular.
+
+मिमिक्षुः (*mimikṣuḥ*)—root mikṣ (to sprinkle); in the Veda, liṭ in the sense of the present. Form of the third person plural. The accent of a verb (tiṅanta-nighāta) arises.
+
+मती (*matī*)—by Pā. Sū. 3-3-96 (mantre vṛṣeṣapacamana-…) the suffix ktin becomes udātta. When the instrumental singular follows, by Pā. Sū. 7-139 (supāṃ sulug-) there is the long vowel of the preceding homogeneous vowel, arising as a single substitute.
+
+एतासः (*etāsaḥ*)—the prefix ā; root iṇ (to go); suffix kta. Guṇa with the prefix. When jas follows, by Pā. Sū. 7-1-50 (āj-jaser asuk) the augment asuk is added to it.
+
+अर्चंति (*arcaṃti*)—root arca (to worship). Third person plural of laṭ. Because it stands at the beginning of a pāda, the verbal accent (nighāta) does not arise. Because the lasārvadhātuka ending is anudātta, the accent of the root remains.
+
+शुष्मम् (*śuṣmam*)—root śuṣ (to dry up). By Uṇ. Sū. 1-14 (avisivisiśuṣibhyaḥ kit) the suffix man. Because it is prescribed as marked with k, the guṇa of the short penultimate vowel does not occur; because it is marked with n, by "ityādi—nityam" the initial udātta accent arises.
+
+वसूया (*vasūyā*)—"he desires riches for himself". By Pā. Sū. 3-1-8 (supa ātmanaḥ kyac) the suffix kyac; then by Pā. Sū. 3-3-102 (aprataya-…, "a-pratyayāt") the suffix a. In the Veda, lengthening of the preceding vowel. When the instrumental singular follows, by supāṃ sulug- the lengthening by the preceding homogeneous vowel. In the sense of the accusative, when jas follows, the substitute yāc by the preceding sūtra. By the accent of the suffix it becomes final-udātta. ॥ 1 ॥
+
+### Printed p. 684
+*Running head: 684 Sāyaṇa-bhāṣya-sahitā [मं. १. अ. २३ सू. १६५ (*maṃ. 1. a. 23 sū. 165*)] (as supplied).*
+
+#### Ṛk 2
+**॥ संहितापाठः ॥**
+> कस्य॒ ब्रह्मा॑णि जुजुषु॒र्युवा॑नः॒ को अ॑ध्व॒रे म॒रुत॒ आ॑
+> नवर्त ।
+> श्ये॒नाइ॑व॒ ध्रज॑तो अं॒तरि॑क्षे॒ कॆन॑ म॒हा मन॑सा रीरमाम ॥
+> ॥ २ ॥
+
+> *kasya brahmāṇi jujuṣuryuvānaḥ ko adhvare maruta ā*
+> *navarta |*
+> *śyenāiva dhrajato aṃtarikṣe kèna mahā manasā rīramāma ‖*
+> *‖ 2 ‖*
+*[as supplied: a stray label १ पदपाठि १ (*1 padapāṭhi 1*) stands after the Saṃhitā block, a garbled "Pada-pāṭha" label.]*
+**॥ पदपाठः ॥**
+> कस्य । ब्रह्माणि । जुजुषुः । युवानः । कः । आध्वरे । मरुतः । आ । व वर्त ।
+> श्येनान् इव । ध्रजतः । अंतरिक्षे । केन । महा । मनसा । रीर मा म ॥ २ ॥
+
+> *kasya | brahmāṇi | jujuṣuḥ | yuvānaḥ | kaḥ | ādhvare | marutaḥ | ā | va varta |*
+> *śyenān iva | dhrajataḥ | aṃtarikṣe | kena | mahā | manasā | rīra mā ma ‖ 2 ‖*
+*[as supplied: a stray label सांख्यभाष्यं (*sāṃkhyabhāṣyaṃ*) stands after the Pada block, a garbled "Sāyaṇa-bhāṣya" label.]*
+**॥ सायणभाष्यम् ॥**
+> युवानो नित्यतरुणा महानुभावा मरुतः कस्य महाभागस्य ब्रह्माणि परिवृढानि हवींषि जुजुषुः । सेवंते । कश्च महानध्वरे स्वकीये या मरुत एतानाववर्त । यागांतरेभ्यो निवर्तयति । दुर्निग्र्ग्रहत्वे दृष्टांतमाह । अंतरीक्षे
+> ध्रजतो गच्छतः श्येनाञ्छंसनीयगमनानेतन्नामकान्पक्षिण इव । केन तत्प्रीतिसाधनेन
+> महा महता मनसा मननवता स्तोत्रेण रीरमाम । रमेमहि ॥
+*Gist:* The youthful Maruts: whose oblations do they enjoy, and who draws them to his own sacrifice; with what praise shall we delight them, flying like hawks in the sky?
+**प्रतिपदार्थ (Pratipadārtha)**
+युवानः (*yuvānaḥ*)—the ever-young Maruts; कस्य (*kasya*)—of which great one; ब्रह्माणि (*brahmāṇi*)—the oblations; जुजुषुः (*jujuṣuḥ*)—do they enjoy?; कः (*kaḥ*)—which great one; अध्वरे (*adhvare*)—in the sacrifice; मरुतः (*marutaḥ*)—the Maruts; आ ववर्त (*ā vavarta*)—(turning them back from other sacrifices) does he bring to his own sacrifice?; अंतरीक्षॆ (*aṃtarīkṣè*)—in the mid-air; ध्रजतः (*dhrajataḥ*)—the wandering; शैनानिव (*śaināniva*)—like hawks (the wandering Maruts); महा (*mahā*)—great; केन मनसा (*kena manasā*)—and meditative, by which praise; रीरमाम (*rīramāma*)—shall we propitiate? *[as supplied: the printed word-list reads अंतरीक्षॆ (*aṃtarīkṣè*) and शैनानिव (*śaināniva*), differing from the Saṃhitā and Pada text; kept as printed.]*
+**भावार्थ (Bhāvārtha)**
+Of which great one do the ever-young Maruts enjoy the oblations? Which great one, in the sacrifice, turns the Maruts back from other sacrifices and draws them to his own sacrifice? With what great and meditative praise shall we propitiate the Maruts, who wander in the mid-air like hawks?
+
+### Printed p. 685
+*Running head: आ. २ अ. ३. व. २४ (*ā. 2 a. 3. va. 24*) Ṛgveda-saṃhitā 685 (as supplied).*
+
+**Printed English**
+Of whose oblations do the youthful (Maruts) approve? who attracts
+them to his (own) sacrifice (from the rites of others)? with what powerful
+praise may we propitiate (them), wandering like kites in the mid-air?
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+ब्रह्माणि (*brahmāṇi*)—The word brahma is read among the names of food (Ni. 3-9) and among the names of wealth (Ni. 3-9). *[as supplied: the same reference "Ni. 3-9" stands twice.]* The word is used in the senses of food, rite and praise. The word brahma, formed from the root bṛh meaning "to grow", means a rite that has grown, or food. Earlier, in the Ṛk
+
+यामधर्वा मनुष्टिता दध्यज् धियमत्नत । तस्मिन् ब्रह्माणि पूर्वथेंद्र उक्षा समग्गतार्चन्ननु स्वराज्यं (*yāmadharvā manuṣṭitā dadhyaj dhiyamatnata | tasmin brahmāṇi pūrvatheṃdra ukṣā samaggatārcannanu svarājyaṃ*)
+(Ṛ. Saṃ. 1-80-16)
+
+Sāyaṇa explained the word brahma as food in the form of an oblation; in the same way the same meaning can be given in the present Ṛk. (Ni. 12-34)
+
+अध्वरे (*adhvare*)—ध्वरतिः हिंसाकर्म तत्प्रतिषेधः (*dhvaratiḥ hiṃsākarma tatpratiṣedhaḥ*) ("dhvarati" is an act of violence; its negation). The root dhvṛ, which gives the meaning "to kill", here indicates its negation (Ni. 1-8); the meaning is "in a sacrifice free of violence".
+
+ध्रजतः (*dhrajataḥ*)—the word dhrajati is read among the names of verbs of motion (Ni. 2-9). It is a word that indicates the manner of the Maruts' travelling.
+
+अंतरिक्षे (*aṃtarikṣe*)—अंतरिक्षं कस्मादंतरा क्षांतं भवत्यंतरेमे इति वा शरीरेष्ट्वंतरक्षयमिति ना (*aṃtarikṣaṃ kasmādaṃtarā kṣāṃtaṃ bhavatyaṃtareme iti vā śarīreṣṭvaṃtarakṣayamiti nā*) (Ni. 2-10). The Nirukta-author has given the explanation that this name is well known either because it lies between the earth and the heavenly world, or because it is at the edge of the earth.
+
+मनसा (*manasā*)—मनो मनोतेः (*mano manoteḥ*) (Ni. 4-4). Formed from the root man, meaning "to think, to meditate", it gives the meaning "accompanied by meditation" or "accompanied by faith". Here Sāyaṇa has explained it as "by a praise endowed with meditation (mananavat)", that is, by a meditative praise.
+
+आ विश्वतः प्रत्यंचं जिघर्म्यरक्षसा मनसा तज्जुषेत । मर्यश्रीः स्पृहयद्वर्णो अग्निर्नाभिमृशे तन्ना ३ जर्भुराणः (*ā viśvataḥ pratyaṃcaṃ jigharmyarakṣasā manasā tajjuṣeta | maryaśrīḥ spṛhayadvarṇo agnirnābhimṛśe tannā 3 jarbhurāṇaḥ*)
+(Ṛ. Saṃ. 2-10-5)
+
+### Printed p. 686
+*Running head: 686 Sāyaṇa-bhāṣya-sahitā [मं. १ आ २३ सू. १६५ (*maṃ. 1 ā 23 sū. 165*)] (as supplied).*
+
+In such Ṛks, just as "a praise accompanied by faith and by meditation" is the meaning, so also in the present Ṛk the sense "by praise" results.
+
+**Grammatical analysis (Vyākaraṇa-prakriyā)**
+*Grammar (transcribed, not explained):*
+
+जुजुषुः (*jujuṣuḥ*)—root juṣ (to be pleased, to serve). In the Veda, liṭ in the sense of the present; third person plural. Because it follows a non-verb (atiṅanta), the verbal accent (nighāta) arises.
+
+अध्वरे (*adhvare*)—by Pā. Sū. 6-2-172 (nañ-subhyām) the second member becomes final-udātta.
+
+ववर्ति (*vavarti*)—root vṛt (to turn). By "vyatyayo bahulam" it takes the parasmaipada; in the Veda, liṭ. Third person singular. The accent of a verb (tiṅanta-nighāta) arises. *[as supplied: the headword is printed ववर्ति (*vavarti*), while the Ṛk reads ವವರ್ತ.]*
+
+श्येनान् (*śyenān*)—root śyai (to go). By Uṇ. Sū. 2-204 (śyāstāhṛñvibhya inac) the suffix inac. By Pā. Sū. 6-1-45 (ād eca upadeśe 'śiti) the root takes ā, then guṇa. Because it is marked with c, the final-udātta accent arises.
+
+ध्रजतः (*dhrajataḥ*)—root dhraj (to go). When laṭ comes, it is replaced by śatṛ, with the vikaraṇa śap. Accusative plural. By Pā. Sū. 6-1-186 (tāsyanudāttet) the lasārvadhātuka ending is anudātta, so the accent of the root remains.
+
+महा (*mahā*)—root mah (to worship). By "kvip ca" the suffix kvip. Instrumental singular. By Pā. Sū. 6-1-168 (sāvekācas tṛtīyādiḥ) the case-ending becomes udātta. *[as supplied: the printed sūtra reads सावेकाचस्मतीयादिः (*sāvekācasmatīyādiḥ*).]*
+
+रीरमाम (*rīramāma*)—root ram (to play). In the Veda, luṅ in the sense of the present, on the causative stem. First person plural, with mas. By "nityaṃ jitaḥ" the elision of s. By Pā. Sū. 3-1-48 (ṇiśridrusru-) the substitute caṅ for cli. By the sūtra on caṅ, reduplication. By Pā. Sū. 7-4-1 (ṇau caṅy upadhāyā hrasvaḥ) the penultimate of the root becomes short. By Pā. Sū. 7-4-93 (sanvallaghuni caṅ) the treatment as a desiderative arises, and by Pā. Sū. 7-4-79 (sanyataḥ) the reduplicative syllable takes i. By Pā. Sū. 7-4-94 (dīrgho laghoḥ) it is lengthened. By Pā. Sū. 6-4-75 (bahulaṃ chandasy…) the augment aṭ does not occur. The verbal accent (tiṅanta-nighāta) arises. ॥ 2 ॥
+*[as supplied: a stray line ".808-" follows the end of this section.]*
+
+### Printed p. 687
+*Running head: अ. २. अ. ३. व. २४ (*a. 2. a. 3. va. 24*) Ṛgveda-saṃhitā 687 (as supplied).*
+
+#### Ṛk 3
+**॥ संहितापाठः ॥**
+> कुत॒स्त्वमिं॑द्र॒ माहि॑नः॒ सन्नेको॑ यासि सत्पते॒ किं त॑ इ॒त्था ।
+> सं पृ॑च्छसे समरा॒णः शु॑भा॒नैर्वो॒चेस्तन्नो॑ हरिवो॒ यत्ते॒॑
+> अस्मे ॥ ३ ॥
+
+> *kutastvamiṃdra māhinaḥ sanneko yāsi satpate kiṃ ta itthā |*
+> *saṃ pṛcchase samarāṇaḥ śubhānairvocestanno harivo yatte*
+> *asme ‖ 3 ‖*
+*[as supplied: a garbled label पवपाठः (*pavapāṭhaḥ*) stands after the Saṃhitā block, for "Pada-pāṭha".]*
+**॥ पदपाठः ॥**
+> कुतः । त्वं । इंद्र । माहिनः । सन् । एकः । यासि । सत्पते । किं । ते । इत्था ।
+> सं । पृच्छसे । संअराणः । शुभानैः । वोचेः । तत् । नः । हरिवः । यत् । ते । अस्मे
+> इति ॥ ३ ॥
+**॥ सायणभाष्यम् ॥**
+> अथ मरुत इंद्रेणोक्तास्तृतीययानया पतिब्रुवते ॥
+> हे इंद्र सत्पते सतां पालक त्वं माहिनो महनीयः पूजनीयः । अनुचरैरनुगंतव्य इत्यर्थः । तथाभूतः सन्नप्येकोऽसहायः सन् कुतो यासि । कुतः
+> कारणाद्यासि । यद्वा । कुत्र यासि । ते तवेत्थेत्थं किं । किं त्वमेवमेव । किं न
+> कोऽप्यनुचरोऽस्ति । किंच त्वं समराणोऽस्माभिः संगच्छमानः सं पृच्छसे । समाचीनं पृच्छसि । हे हरिवो हरिभ्यां तद्वन्निंद्र ते तनास्मे अस्मासु याद्वक्तुमिष्टतममस्ति तन्नोऽस्मभ्यं शुभानैः शोभमानैर्वचनैर्वोचेः । ब्रूहि ॥
+
+> *atha maruta iṃdreṇoktāstṛtīyayānayā patibruvate ‖*
+> *he iṃdra satpate satāṃ pālaka tvaṃ māhino mahanīyaḥ pūjanīyaḥ | anucarairanugaṃtavya ityarthaḥ | tathābhūtaḥ sannapyeko 'sahāyaḥ san kuto yāsi | kutaḥ*
+> *kāraṇādyāsi | yadvā | kutra yāsi | te tavetthetthaṃ kiṃ | kiṃ tvamevameva | kiṃ na*
+> *ko 'pyanucaro 'sti | kiṃca tvaṃ samarāṇo 'smābhiḥ saṃgacchamānaḥ saṃ pṛcchase | samācīnaṃ pṛcchasi | he harivo haribhyāṃ tadvanniṃdra te tanāsme asmāsu yādvaktumiṣṭatamamasti tanno 'smabhyaṃ śubhānaiḥ śobhamānairvacanairvoceḥ | brūhi ‖*
+*[as supplied: a garbled label प्रतिपदार्थः (*pratipadārthaḥ*) stands before the standard label "Pratipadārtha".]*
+*Gist:* The Maruts, spoken to by Indra, now address him in this third Ṛk: why does he, lord of the good and worthy of honour, go alone, without followers; let him tell them what he wishes, in fair words.
+**प्रतिपदार्थ (Pratipadārtha)**
+सत्पते (*satpate*)—O protector of good men; इंद्र (*iṃdra*)—O Indra; त्वं (*tvaṃ*)—you; माहिनः सन् (*māhinaḥ san*)—though worshipful and followed by attendants; एकः (*ekaḥ*)—alone; कुतः (*kutaḥ*)—why (or whither); यासि (*yāsi*)—are you going?; ते (*te*)—your; इत्था (*itthā*)—this conduct, devoid of attendants; किं (*kiṃ*)—for what reason?; समराणः (*samarāṇaḥ*)—you who are followed by us; संपृच्छसे (*saṃpṛcchase*)—are properly questioned; हरिवः (*harivaḥ*)—O Indra, possessed of the horses named Hari; ते (*te*)—your kinsmen; अस्मे (*asme*)—among us; यत् (*yat*)—whatever you have to say; तत् (*tat*)—that; नः (*naḥ*)—to us; शुभानैः (*śubhānaiḥ*)—with auspicious words; वोचीः (*vocīḥ*)—say. *[as supplied: वोचीः (*vocīḥ*) here, while the Pada text and Sāyaṇa read ವೋಚೇಃ; kept as printed.]*
+
+### Printed p. 688
+*Running head: 688 Sāyaṇa-bhāṣya-sahitā [मं. १. अ. २३ सू १६५ (*maṃ. 1. a. 23 sū 165*)] (as supplied).*
+
+**भावार्थ (Bhāvārtha)**
+O protector of good men, O Indra, though you are worshipful and followed by attendants, where are you going alone? Why is this conduct of yours, without attendants? You who are followed by us are properly questioned. O Indra, possessed of the horses named Hari, whatever you have to say among us, your kinsmen, say it to us in auspicious (good) words.
+**Printed English**
+( The Maruts ),—Indra, lord of the good, whither do you, who are entitled to honour, proceed alone? what means this (absence of attendance): when followed (by us), you require (what is right)? Lord of fleet horses, say to us, with pleasant words, that which you (have to say) to us.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+सत्पते (*satpate*)—Sāyaṇa has explained it as "protector of the good". "Satām" may mean "of the sats", that is, of all beings whose nature is being; or "of all good men". Pointing out that the word has a special sense here, the scholar Max Müller has said:
+
+Sat-pati, Lord of men means Lord of real men, of heroes, and should not be translated as good lord. Sat (सत् (*sat*)) by itself is frequently used in the sense of heroes, of men physically rather than morally good.
+
+He explains that it means not merely a protector of subjects, but a protector of subjects who are powerful and who show their valour in battle and the like, and he quotes two Ṛks in which this word occurs as examples. First:
+
+त्वमग्न इंद्रो पृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः । त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या (*tvamagna iṃdro pṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ | tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā*)
+(Ṛ. Saṃ. 2-2-3)
+
+In this Ṛk, "satāṃ vṛṣabhaḥ asi" is taken to mean "the hero among heroes", and likewise *[the sentence breaks off here at the end of the page and continues in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 682. Vol 12 pp. 677-682: end of Sūkta 165 introduction, particulars, Ṛk 1 and Special Topics
+**Progress note:** Done through printed p. 688. Vol 12 pp. 683-688: end of Mar.1.165 Ṛk 1 grammar, Ṛks 2-3 with commentary
