@@ -12912,6 +12912,113 @@ In the beginning the gods were mortal. Only after they had realised Brahman did 
 रेतः (*retaḥ*)—root रीज् श्लेषणे (*rīj śleṣaṇe*); suffix asun by स्नुरीभ्यांतुट् च (*snurībhyāṃtuṭ ca*) (U. Sū. 4-641), with the augment *tuṭ*; guṇa of the root's *i* because of the suffix; the initial acute accent comes since the suffix is (as printed) नित्या (*nityā*)-.
 व्योम (*vyoma*)—formed, ending in *manin*, as an irregular form (*nipātita*) by नामन् सीमन् व्योमन् (*nāman sīman vyoman*) (U. Sū. 4-590); the initial acute accent comes as before. ‖ 35 ‖ (as printed)
 
+### Printed p. 535
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 21] Ṛgveda-saṃhitā 535 (as supplied).*
+
+#### Ṛk 36
+**॥ संहितापाठः ॥**
+> स॒प्तार्ध॑ग॒र्भा भुव॑नस्य॒ रेतो॒ विष्णो॑स्तिष्ठंति प्र॒दिशा॒॑
+> विधर्मणि ।
+> ते धी॒तिभि॒र्मन॑सा॒ ते वि॑प॒श्चितः॑ परि॒भुवः॒ परि॑ भवंति वि॒श्वतः॑ ॥
+> ॥ ३६ ॥
+**॥ पदपाठः ॥**
+> सप्त । अर्धगर्भाः । भुवनस्य । रेतः । विष्णोः । तिष्ठंति । प्रदिशा । विधर्मणि ।
+> ते । धीतिभिः । मनसा । ते । विपःचितः । परिभुवः । परि । भवंति । विश्वतः ॥ ३६ ॥
+
+> *sapta | ardhagarbhāḥ | bhuvanasya | retaḥ | viṣṇoḥ | tiṣṭhaṃti | pradiśā | vidharmaṇi |*
+> *te | dhītibhiḥ | manasā | te | vipaḥcitaḥ | paribhuvaḥ | pari | bhavaṃti | viśvataḥ ‖ 36 ‖*
+*[as supplied: stray garbled label शायखभाष्यं (*śāyakhabhāṣyaṃ*) printed before the bhāṣya label.]*
+**॥ सायणभाष्यम् ॥**
+> सप्त सर्पणस्वभावाः सप्तसंख्या वा रश्मयोऽर्धगर्भाः संवत्सरस्यार्थे गर्भं
+> गर्भस्थानीयमुदकं धारयमाणाः । यद्वा । ब्रह्मांडस्यार्थे मध्ये०तरिक्षे गर्भवद्वर्तमानाः । भुवनस्य लोकस्य रेतः सारं वृष्टिप्रदत्वेन रेतोभूताः तादृशा
+> रश्मयो विष्णोर्व्यापकस्यादित्यस्य विधर्मणि जगद्धारणव्यापारे प्रदिशा प्रदेशेन
+> तिष्ठंति । वर्तंते । किंच ते धीतिभिः प्रज्ञाभिर्मनसा जगदुपकारः कर्तव्य इति बुद्ध्या
+> च विश्वतः सर्वतः ॥ द्वितीयार्थे तसिः ॥ विश्वं परि भवंति । परितो भावयंती ।
+> कृत्स्नं जगद्वाप्नुवंतीत्यर्थः । यस्मादेवं तस्मात्ते त एव विपश्चितो बुद्धियुक्ताः
+> परिभुवः सर्वत्र व्याप्ताश्च ॥ यद्वा । सप्तार्धगर्भाः । सप्त महदहंकारौ पंच
+> तन्मात्राणीति मिलित्वा सप्तसंख्यानि तत्वानि। अर्धगर्भा अविकृतिरूपाः। विकाराश्रयाया
+> मूलप्रकृतेः प्रकृतिविकृतेरुदासीनस्यात्मनश्चोत्पन्नत्वादर्धांशेन प्रपंचाकारेण
+> परिणामादर्धगर्भाः । पुरुषांशस्याविक्रियत्वादित्यभिप्रायः । आत एव तेषां प्रकृतिविकृतित्वं । यस्मादेवं तस्माद्भवनस्य रेतः कारणं । कारणभूतानि तान्याव विष्णोर्वाप्तस्य पुरुषस्य विधर्मणि प्रदिशा प्रदेशेन तिष्ठंति । इतरत्समानं ॥
+*Gist:* The seven rays, bearing the waters as embryo for half the year, are the seed of the world and pervade it; alternatively, in the Sāṅkhya sense, the seven principles.
+**प्रतिपदार्थ (Pratipadārtha)**
+अर्धगर्भाः (*ardhagarbhāḥ*)—those that bear the waters in the form of an embryo in the atmosphere, the middle part of the cosmic egg; भुवनस्य (*bhuvanasya*)—for the whole world; रेतः (*retaḥ*)—which are also the essence (*sāra*); सप्त (*sapta*)—the seven-numbered rays; विष्णोः (*viṣṇoḥ*)—of the all-pervading Āditya; विधर्मणि (*vidharmaṇi*)—in the activity that consists in sustaining the world;
+### Printed p. 536
+*Running head: 536 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied).*
+
+प्रदिशा (*pradiśā*)—(for his help) in their own appointed places; तिष्ठंति (*tiṣṭhaṃti*)—they abide; ते (*te*)—those rays; धीतिभिः (*dhītibhiḥ*)—by their intelligences; मनसा (*manasā*)—by their knowledge of what is to be done; विश्वतः (*viśvataḥ*)—all around; परि भवंति (*pari bhavaṃti*)—they have pervaded the world (and therefore); ते (*te*)—they; विपश्चितः (*vipaścitaḥ*)—being intelligent; परिभुवः (*paribhuvaḥ*)—they have pervaded all around.
+**भावार्थ (Bhāvārtha)**
+The seven rays, which bear the waters in the form of an embryo in the atmosphere, the middle part of the cosmic egg, and which are the essence of the whole world, abide in their own appointed places, for the help of the all-pervading Āditya, in his activity of sustaining the world. Those rays, by their intelligences and likewise by their knowledge of what is to be done, have pervaded the world all around.
+**Printed English**
+The seven (sustaining), the embryo (rain) for half a year, the fecundating (element) of the world, abide, by appointment, in the various functions of Vishnu. By their intelligence they prevade [sic] in thought all around (them), for they are intelligent and diffusive.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Here first one meaning from the *adhidaivata* standpoint is shown, and afterwards the meaning in the *adhyātma* sense is stated. In the *adhidaivata* standpoint the word *sapta* is said to mean seven rays. To these rays belong the epithets अर्धगर्भाः (*ardhagarbhāḥ*) and विपश्चितः (*vipaścitaḥ*). And by sentences such as विधर्मणि प्रदिशा तिष्ठंति (*vidharmaṇi pradiśā tiṣṭhaṃti*) and धीतिभिर्मनसा परि भवंति (*dhītibhirmanasā pari bhavaṃti*) there is described their knowledge of what is to be done, and also how, by this knowledge, they pervade the whole universe and help Āditya in the work of protecting the world.
+
+सर्पणस्वभावाः, सप्त संख्या वा रश्मयः (*sarpaṇasvabhāvāḥ, sapta saṃkhyā vā raśmayaḥ*)—"rays of the nature of spreading, or rays that are seven in number"—thus the word *sapta* has been explained in two ways. In the past the uses of this word *sapta* have been shown in detail as referring to rays, to seasons, to the seven sages and to the seven syllables [in this same part, on pages 295; 302-303; 310-311; 365-266 (as supplied) and so on, explained according to each context]. In the present Ṛk it must be understood in the sense of rays (in the *adhidaivata* standpoint).
+
+For the epithet अर्धगर्भाः (*ardhagarbhāḥ*) the explanation संवत्सरस्यार्थे गर्भं गर्भस्थानीयमुदकं धारयमाणाः (*saṃvatsarasyārthe garbhaṃ garbhasthānīyamudakaṃ dhārayamāṇāḥ*) means: rays that bear, in half of the year, that is in the rainy season, the waters that stand as the embryo—this is one way; or ब्रह्मांडस्यार्थे मध्येंतरिक्षे गर्भवद्वर्तमानाः (*brahmāṃḍasyārthe madhyeṃtarikṣe garbhavadvartamānāḥ*)
+### Printed p. 537
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 21] Ṛgveda-saṃhitā 537 (as supplied).*
+
+—rays that stand in the form of an embryo in the atmosphere, which is the half, that is the middle part, of the cosmic egg—this is the other way in which it has been explained. By the words प्रदिशा तिष्ठंति (*pradiśā tiṣṭhaṃti*) it is shown that the seasons, produced by the rays, appear in their appointed places and, according to the command of Āditya, their presiding lord, become helpers in the dealings of the world. The authors of the Nirukta, explaining the Ṛk यत्रा सुपर्णा अमृतस्य भागमनिमेषं विदथाभिस्वरंति (*yatrā suparṇā amṛtasya bhāgamanimeṣaṃ vidathābhisvaraṃti*) (Ṛ. Saṃ. 1-164-21), have shown that the rays of Āditya, which have a most attractive descent or spreading, spread with their perfect knowledge towards the water, join Āditya again and carry out their duties—thus the rays' knowledge of their duty and their devotion to duty are taught; just so must the epithet विपश्चितः (*vipaścitaḥ*) and the descriptions such as मनसा परिभवंति (*manasā paribhavaṃti*) be understood in the present Ṛk.
+
+These rays are described by the term "the seeds (*retas*) of the world". The word रेतः (*retaḥ*) may mean the virility that generates the world, as explained in the previous Ṛk; or it may mean the water that is the cause of the origin and protection of beings. The authors of the Nirukta have included this word among the names of water, अर्णः (*arṇaḥ*), क्षोदः (*kṣodaḥ*) and so on (Ni. 2-27; printed "ನಿ-" at the end of a line and "೨-೨೭" on the next). And—
+
+दिवो न यस्य रेतसो दुघानाः पंथासो यंति शवसापरीताः । तरद्वेषाः सासहिः पौंस्येभिर्मरुत्वान्नो भवत्विंद्र ऊती ॥ (*divo na yasya retaso dughānāḥ paṃthāso yaṃti śavasāparītāḥ | taradveṣāḥ sāsahiḥ pauṃsyebhirmarutvānno bhavatviṃdra ūtī ‖*)
+(Ṛ. Saṃ. 1-100-3)
+
+—in Ṛks of this kind the word is used in the sense of rain-water. [The use of this word in the sense of virility that begets offspring, and the account of the surpassing power belonging to *retas*, are shown in detail in the Taittirīya Saṃhitā (5-6-8).] In the present Ṛk Sāyaṇa has commented रेतः सारं वृष्टिप्रदानेन रेतोभूताः तादृशा रश्मयः (*retaḥ sāraṃ vṛṣṭipradānena retobhūtāḥ tādṛśā raśmayaḥ*) *[as supplied: the bhāṣya block above reads वृष्टिप्रदत्वेन (*vṛṣṭipradatvena*) here]*, that is, rays which are of the nature of rain-water through the bestowing of rain. The identity of rays and waters is stated in many places. For example, when explaining the 12th Ṛk of this very sūkta, in its Special Topics the sentence of the Śatapatha-brāhmaṇa (10-5-4-14) was cited, and for that sentence the explanation in Sāyaṇa's bhāṣya, अर्चिषो ह्यापसूरकिरणानामेव वृष्टिकर्तृ कत्वात् कार्यकारणयोरभेदेन अर्चिवा आप इत्युक्तं (*arciṣo hyāpasūrakiraṇānāmeva vṛṣṭikartṛ katvāt kāryakāraṇayorabhedena arcivā āpa ityuktaṃ*), was given: since the sun's rays are the cause of the streams of water, the rays themselves are spoken of figuratively as streams. (Page 363.)
+
+व्यापकस्य आदित्यस्य (*vyāpakasya ādityasya*) means "of Āditya, the all-pervading". The authors of the Nirukta, showing the derivation of this word,
+### Printed p. 538
+*Running head: 538 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied).*
+
+अथ यद्विषितो भवति तद्विष्णुर्भवति विष्णुर्विशतेर्वा व्यश्नोतीर्वा । (*atha yadviṣito bhavati tadviṣṇurbhavati viṣṇurviśatervā vyaśnotīrvā |*)
+(Ni. 12-18)
+
+have stated that it is formed either from the root विश् (*viś*), which gives the meaning "to pervade, or to enter so as to unite and become one in everything", or from the root व्यश् (*vyaś*) (वि+अशू (*vi+aśū*)). And, citing the Ṛk
+
+इदं विष्णुर्विचक्रमे श्रेधा नि दधे पदं । समूहमस्य पांसुरे ॥ (*idaṃ viṣṇurvicakrame średhā ni dadhe padaṃ | samūhamasya pāṃsure ‖*)
+(Ṛ. Saṃ. 1-22-17)
+*[as supplied: श्रेधा (*średhā*) is printed here for the *tredhā* of the Ṛk, and the line is run together as shown.]*
+
+they have indicated the all-pervasiveness of Viṣṇu described there. In the present Ṛk, however, this same word is an epithet of Āditya and describes Āditya's all-pervasiveness. In the Viṣṇu-sūkta also, in some places, when the stepping of Viṣṇu is described, the meaning relating to Āditya alone has been given. For example, in Ṛk 1-22-17 cited above (by the authors of the Nirukta), when it says त्रेधा निदधे पदं (*tredhā nidadhe padaṃ*), there is disagreement as to what these three kinds of stepping are and where they take place; Western scholars have stated that these are the three states: the rising of the sun, the sun's being at the highest point, and the setting. Max Muller, stating his opinion on this matter, says:
+
+This stepping of Vishnu is emblamatic [sic] of the rising, the culminating and setting
+of the Sun.
+(Sacred Books of the East. Vol. 32 [printed in roman capitals]—P. 133).
+
+And it is known from a Nirukta sentence that ancient scholars such as Aurṇavābha also supported this meaning.
+
+समारोहणे विष्णुपदे गयशिरसीत्यार्णवाभः । (*samārohaṇe viṣṇupade gayaśirasītyārṇavābhaḥ |*)
+(Ni. 2-11)
+
+Thus the view of Aurṇavābha is stated. On this sentence Durgācārya has explained: समारोहणे—उदय गिरावुद्यन् पदमेकं निधत्ते । विष्णुपदे माध्यंदिनेंतरिक्षे । गयशिरसि अस्तंगिर् (*samārohaṇe—udaya girāvudyan padamekaṃ nidhatte | viṣṇupade mādhyaṃdineṃtarikṣe | gayaśirasi astaṃgir*)—at the mountain of sunrise, at the time of sunrise, one step in the form of rising; at midday, in the atmosphere, another step as being at the highest point; at the time of setting, a third step placed on the mountain of setting; these too are indicated by the sentence विष्णुर्विचक्रमे त्रेधा निदधे पदं (*viṣṇurvicakrame tredhā nidadhe padaṃ*). In the same way,
+
+विष्णुस्त्रिधा निधत्ते पदं त्रेधा भावाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः । (*viṣṇustridhā nidhatte padaṃ tredhā bhāvāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ |*)
+(Ni. 12-19)
+### Printed p. 539
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 21] Ṛgveda-saṃhitā 539 (as supplied).*
+
+—it is also indicated that, in the view of Śākapūṇi, the three states of the Sun, moving in the three worlds, the earth, the atmosphere and the heaven-world, are meant. Therefore it is known from this that not only in this Ṛk but in many other places also the epithet Viṣṇu is a synonym for the Sun. Having shown that this is the meaning in the *adhidaivata* standpoint, Sāyaṇa has also stated the meaning in the *adhyātma* standpoint. In stating the *adhyātma* meaning Sāyaṇa has used the procedures of the Sāṅkhya school. In stating the meaning of the words in the present Ṛk according to the Sāṅkhya view, some strain is also seen in his effort. There is a difference between the technical expositions of the Sāṅkhya philosophy, one of the six systems, and the description in the present Ṛk; to state the meaning by making the two agree is one kind of strain. Besides, the procedure of the Vedānta view and that of the Sāṅkhya view do not agree. The Vedānta view has non-duality[^1] as its foundation. For the Sāṅkhya view, on the one hand there is the natural difference of Prakṛti and Puruṣa, and on the other the endlessness of the number of Puruṣas; to make the two views reconcilable in this way is another kind of strain. The labour of this effort is seen in Sāyaṇa's explanation. But it should not be understood that there is unscientific exposition in his explanation. It may be said that there is closeness between the points taught in the Upaniṣadic sentences that form the basis of the Sāṅkhya view and the points in Sāyaṇa's explanation.
+
+In the present Ṛk, explaining the meaning of the word सप्तार्धगर्भाः (*saptārdhagarbhāḥ*), Sāyaṇa says सप्तमहदहंकारा पंच तन्मात्राणि मिळित्वा सप्तसंख्यानि तत्वानि । (*saptamahadahaṃkārā paṃca tanmātrāṇi miḷitvā saptasaṃkhyāni tatvāni |*) (Mahat, Ahaṃkāra and the five tanmātras, all together, became the principles seven in number), he has explained. These seven principles are also described as half-embryos. How? विकाराश्रयायाः मूलप्रकृतेः प्रकृतिविकृतेरुदासीनस्यात्मनश्चोत्पनत्वादर्धांशेन प्रपंचाचारेण परिणामादर्धगर्भाः । (*vikārāśrayāyāḥ mūlaprakṛteḥ prakṛtivikṛterudāsīnasyātmanaścotpanatvādardhāṃśena prapaṃcācāreṇa pariṇāmādardhagarbhāḥ |*) *[as supplied: this quotation differs in a few letters from the bhāṣya block above (for example चोत्पनत्वा (*cotpanatvā*), प्रपंचाचारेण (*prapaṃcācāreṇa*) against चोत्पन्नत्वा (*cotpannatvā*), प्रपंचाकारेण (*prapaṃcākāreṇa*)); kept as printed.]* Since the Prakṛti, naturally unmodified, and the Puruṣa, who is apart from Prakṛti and its modifications and stands indifferent, together come into being in the form of the world, in the primal Prakṛti one half undergoes the transformation without modification and the other half in a modified form. In the Puruṣa also, since only the one part in which there is contact with Prakṛti, while the eternal part remains unmodified, is the support of the pleasure, pain and so on of the world, the epithet "half-embryo" is fitting there also—thus it is explained. To understand such technical words, acquaintance with the established Sāṅkhya procedures is necessary; so the principles of the Sāṅkhya view are explained here briefly, and afterwards the meaning according to this view will be explained for the remaining parts of the present Ṛk.
+
+[^1]: * Since Sāyaṇa's bhāṣya is being explained here, his traditional word अद्वैत (*advaita*) has been used. *[as supplied: the word in the text itself is printed अदैतवे (*adaitave*).]*
+
+### Printed p. 540
+*Running head: 540 Sāyaṇa-bhāṣya-sahitā [Maṇḍala 1, Anuvāka 22, Sūkta 164] (as supplied).*
+
+The Sāṅkhya principles:—Prakṛti (1), Mahat (1), Ahaṃkāra (1), the organs of knowledge beginning with the eye (5), the organs of action beginning with speech (5), the mind, which has the nature of both (1), the tanmātras (5), the elements beginning with ākāśa [as supplied: printed आकारादिभूतगळु (*ākārādibhūtagaḷu*)] (5), the individual self (1): all of these together make twenty-five principles in all. These they divide into five groups of five: the group of elements, the group of tanmātras, the group of organs of knowledge, the group of organs of action, and the remaining group. This primal Prakṛti is the first principle. A principle (*tattva*) is a thing of a particular new nature; that is, the nature that is seen in an effect-thing such as a tree [as supplied: काव्यवस्तुविनल्लि (*kāvyavastuvinalli*)] must be present subtly in the causal thing such as the seed. What, then, is the difference in principle between Prakṛti and Mahat? The power of action called *adhyavasāya* [as supplied: क्रियारक्तियु (*kriyāraktiyu*) is printed], which is not in Prakṛti, becomes manifest in Mahat. Thus self-conceit, resolve, deliberation, sound and the like—natures that come newly—arise; this Prakṛti is named *pradhāna*. Because the three qualities, sattva, rajas and tamas, are in it, it is called the triple-quality one. This very thing, in the Chāndogya Upaniṣad:
+
+यदग्ने रोहितं रूपं तेजस्तद्रूपं यच्छुक्लं तदपां यत्कृष्णं तदन्नस्यापागादग्नेरग्नित्वं वाचारंभणं विकारो नामधेयं त्रीणि रूपाणीत्येव सत्यं ॥ (*yadagne rohitaṃ rūpaṃ tejastadrūpaṃ yacchuklaṃ tadapāṃ yatkṛṣṇaṃ tadannasyāpāgādagneragnitvaṃ vācāraṃbhaṇaṃ vikāro nāmadheyaṃ trīṇi rūpāṇītyeva satyaṃ ‖*)
+(Chā. U. 6-4-1)
+
+—is called the red, white and black forms. Scholars have held that these three forms reflect the three qualities.
+
+Since Prakṛti, which has these three qualities, pervades all places, all times and all things like a great ocean, this is the meaning of the word Brahman. Brahman means that which is great in every way. In this Prakṛti countless crores of cosmic eggs are born and perish like bubbles in the sea. When these three qualities are in their respective state of balance, it is called dissolution (*pralaya*); when they are in a state of imbalance, creation.
+
+In such a Prakṛti the great principle called Buddhi arises. Here the usage is that transformation itself is origination. In that ocean called Buddhi, the third principle called Ahaṃkāra emerges like bubbles. It is of three kinds: sāttvika, rājasa and tāmasa. From the sāttvika Ahaṃkāra the eleven senses (including the mind) arise; from the tāmasa Ahaṃkāra the five tanmātras, which are the subtle states of the five elements, arise. The rājasa Ahaṃkāra is a helper to the sāttvika and tāmasa Ahaṃkāras. From the five tanmātras the five great elements, ākāśa, air, fire, water and earth, arise. The eighteen principles, from Buddhi up to the tanmātras, have to form the subtle body (*liṅga-śarīra*) of every living being.
+
 ---
 
-**Progress note:** Done through printed p. 534. Special Topics on aśva/Varuṇa, Soma as retas, vyoman, vāc and Brahman; grammar for Ṛk 35
+**Progress note:** Done through printed p. 540. Rk 36 (seven rays, Visnu, Sankhya tattvas)
