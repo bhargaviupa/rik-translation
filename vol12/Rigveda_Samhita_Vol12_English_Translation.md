@@ -6100,6 +6100,146 @@ The Aśvamedha is not a sacrifice of an individual. It is the emblem of the powe
 
 अनागास्त्वं करोतु (*anāgāstvaṃ karotu*)—may it make us free from sin. Since the Aśvamedha is an exceedingly difficult rite, a lapse in that rite may easily occur.
 
+### Printed p. 229
+*Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೧೦] Ṛgveda-saṃhitā 229 (as supplied; "ಪ." where "ವ." is usual).*
+
+*[Continuing the Special Topics of Ṛk 22 from the previous page]* The fragment printed at the head of this page, apparently the end of the Brāhmaṇa passage cited on the previous page and given without a reference, reads: प्र ना एष विभ्यो लोकेभ्यश्च वते । योश्वमेधेन यजते । (*pra nā eṣa vibhyo lokebhyaśca vate | yośvamedhena yajate |*) *[as supplied]*
+
+Since many offences may occur in the conduct of this sacrifice, it is prescribed that, to avoid them, atonement be obtained by the immolation of the three animals beginning with the one for Agni. Moreover, in the mantras that serve as *yājyā* and *puronuvākyā* for the oblations known as the *mṛgāreṣṭi*, atonement for sin is also prayed for:
+
+अग्नेर्मेन्वे प्रथमस्य प्रचेतसो .... .... .... .... स नो मुंचत्वग्‌हसः (*agnermenve prathamasya pracetaso .... .... .... .... sa no muṃcatvaghasaḥ*)
+(Tai. Saṃ. 4-7-15)
+
+In passages such as this, Agni and the other deities are prayed to make the sacrificers free from sin.
+
+*Grammar (transcribed, not explained):*
+
+सुगव्यम् (*sugavyam*)—शोभनानां गवां समूहः सुगव्यम् (*śobhanānāṃ gavāṃ samūhaḥ sugavyam*). By खल गोरथात् (*khala gorathāt*) (Pā. Sū. 4-2-50) the suffix यत् (*yat*) in the sense of collection. By वांतोयिप्रत्यये (*vāṃtoyipratyaye*) (Pā. Sū. 6-1-79) the substitute printed “ಅವಾದೇಶ”. By यतोनावः (*yatonāvaḥ*) (Pā. Sū. 6-1-213) the initial-acute accent results. In a *prādi* compound the *uttarapada-prakṛti* accent results in the Vedic manner. Or: if अण् (*aṇ*) is obtained in the sense of collection, by गोरजादिप्रत्ययप्रसंगे (*gorajādipratyayaprasaṃge*) (Kā. 4-3-160) the suffix यत् (*yat*). When a word ending in यत् (*yat*) stands as the second member, by आद्युदात्तंद्व्यच्छंदसि (*ādyudāttaṃdvyacchaṃdasi*) (Pā. Sū. 6-2-119) the accent on the first syllable of the second member results.
+
+स्वश्यम् (*svaśyam*) *[as supplied]*—as before; when it is a *bahuvrīhi* compound the initial-acute accent of the second member results.
+
+पुंसः (*puṃsaḥ*)—a form ending in the genitive singular. By सावेकाचस्तृतीयादिः (*sāvekācastṛtīyādiḥ*) (Pā. Sū. 6-1-168) the case-ending receives the *udātta* accent.
+
+विश्वापुषम् (*viśvāpuṣam*)—the root पुष (*puṣa*) in the sense of nourishing. The suffix क्विप् (*kvip*). By अन्येषामपिदृश्यते (*anyeṣāmapidṛśyate*) (Pā. Sū. 6-3-137) lengthening of the first member at the time of the Saṃhitā. By गतिकारकोपपदात् कृत् (*gatikārakopapadāt kṛt*) (Pā. Sū. 6-2-139) the *kṛd-uttarapada-prakṛti* accent results.
+
+अनागास्त्वम् (*anāgāstvam*)—न विद्यते आगः यस्य अनागः (*na vidyate āgaḥ yasya anāgaḥ*), and the state of that is अनागास्त्वम् (*anāgāstvam*). By तस्यभावस्त्वतला (*tasyabhāvastvatalā*) (Pā. Sū. 5-1-119) the suffix त्व (*tva*). By the accent of the suffix the final-acute accent results.
+
+वनताम् (*vanatām*)—the root वन (*vana*) in the sense of sharing. *Loṭ*, a form ending in the third person singular. Because it stands after a non-verb, the *nighāta* accent results.
+
+### Printed p. 230
+*Running head: 230 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೩] (as supplied; "ಆ." where "ಅ." is usual).*
+
+## Sūkta 163 (Maṇḍala 1)
+*The hundred and sixty-third sūkta.*
+
+Sāyaṇa's introduction: यदक्रंद इति त्रयोदशर्चं सप्तमं सूक्तं दैर्घतमसं त्रैष्टुभं (*yadakraṃda iti trayodaśarcaṃ saptamaṃ sūktaṃ dairghatamasaṃ traiṣṭubhaṃ*) — "The sūkta beginning *yadakranda*, of thirteen Ṛks, the seventh sūkta, belonging to Dīrghatamas, in the Triṣṭubh metre. Because the horse is being praised, it has the horse as its deity. यदक्रंदः सप्नोनेत्यनुक्रमणिका (*yadakraṃdaḥ sapnonetyanukramaṇikā*) *[as supplied]* is the Anukramaṇikā." आश्वमेधिके मध्यमेऽहन्युपाकरणायावस्थितमश्वमाद्याभिरेकादशभिः स्तौति (*āśvamedhike madhyame 'hanyupākaraṇāyāvasthitamaśvamādyābhirekādaśabhiḥ stauti*) — "In the Aśvamedha, on the middle day, he praises with the first eleven Ṛks the horse that has been stationed for the upākaraṇa." And so it is stated in the sūtra: तथा च त्रिणि सुत्यानीति खंडे सूत्रितं । तमवस्थितमुपाकरणाय यदक्रंद इत्येकादशभिः स्तौत्यप्रणुवन् । (*tathā ca triṇi sutyānīti khaṃḍe sūtritaṃ | tamavasthitamupākaraṇāya yadakraṃda ityekādaśabhiḥ stautyapraṇuvan |*) (Ā. 10-8), "in the section beginning 'three pressings': (the Hotṛ) praises that stationed (horse), for the upākaraṇa, with the eleven (Ṛks) beginning *yadakranda*; they respond."
+
+Anuvāda: This sūkta, यदक्रंदः (*yadakraṃdaḥ*), is the seventh sūkta in the twenty-second anuvāka. It contains thirteen Ṛks. Its ṛṣi is Dīrghatamas, the son of उचध्य (*ucadhya*) *[as supplied; the particulars below read ಔಚಥ್ಯ]*. The metre is Triṣṭup. Since the horse is praised in this sūkta, praise of the horse is itself the deity of this sūkta. In the Anukramaṇikā it is said यदक्रंदः सप्तोनेति (*yadakraṃdaḥ saptoneti*) *[as supplied; differs from the Sanskrit introduction above]*. In the upākaraṇa rite that is to be performed on the middle day of the Aśvamedha sacrifice, the horse brought there and made to stand is to be praised with the first eleven Ṛks of this sūkta; this is expounded in the Āśvalāyana Śrauta-sūtra by the sūtra of the section तथा च त्रीणि सुत्यानि (*tathā ca trīṇi sutyāni*), "tam avasthitam upākaraṇāya yadakranda ityekādaśabhiḥ …" (Ā. 10-8) *[the quotation as printed ends ಸೌತ್ಯಪ್ರಣುವನ್ here, differing from the Sanskrit above; kept as supplied]*.
+
+॥ Oṃ ॥
+Sūkta—163
+॥ Maṇḍala 1 ॥ Anuvāka 22 ॥ Sūkta 163 ॥
+॥ Aṣṭaka 2 ॥ Adhyāya 3 ॥ Varga 11, 12, 13 ॥
+॥ Number of Ṛks in the sūkta: 13 ॥
+॥ महि (*mahi*)—Dīrghatamā Aucathya ॥ *[as supplied: "ಮಹಿ" where "ṛṣi" is expected]*
+॥ वेषता (*veṣatā*)—Aśvastuti ॥ *[as supplied: "ವೇಷತಾ" where "devatā" is expected]*
+॥ 80—Triṣṭup ॥ *[number as supplied]*
+
+### Printed p. 231
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೧.] Ṛgveda-saṃhitā 231 (as supplied).*
+
+*[The Saṃhitā and Pada blocks at the head of this page were supplied both as a picture and as text; the text transcription (b1, b2) is used, and the picture line was removed. The heading "ಸಾಯಣಭಾಷ್ಯಂ" printed above the verse in the picture is the book's own.]*
+
+#### Ṛk 1
+**॥ संहितापाठः ॥**
+> यदक्रं॑दः प्रथ॒मं जाय॑मान उ॒द्यन्त॑मु॒द्रादु॒त वा॒॑
+> पुरी॑षात् ।
+> शै॒नस्य॑ प॒क्षा ह॑रि॒णस्य॑ बा॒हू उ॑प॒स्तुत्यं॒ महि॑ जा॒तं ते॑
+> अर्वन् ॥ १ ॥
+**॥ पदपाठः ॥**
+> यत् । अक्रंदः । प्रथमं । जायमानः । उत्यन् । समुद्रात् । उत । वा ।
+> पुरीषात् ।
+> शैनस्य । पक्षा । हरिणस्य । बाहू इति । उपस्तुत्यं । महि । जातं । ते । अर्वन् ॥१॥
+*[As supplied, a garbled label: "ಸಹಾಯಭಾಷ್ಯಂ" (the script read it as the heading Sāyaṇa-bhāṣya).]*
+**॥ सायणभाष्यम् ॥**
+> हे अर्वन्नरणकुशलाश्व ते तव जातं जन्म जननमुपस्तुत्यं । उपेत्य सर्वैः
+> स्तोतव्यं ॥ स्तौतेरेतिस्तुशास्विति क्यप् । ततस्तुक् ॥ कथं स्तुत्यत्वमिति उच्यते । यद्यस्मात्समुद्रात् । अंतरिक्षनामैतत् । उदकसमुंदनापादानाद्यक्षगंधर्वादिसंमोदनाधिकरणाद्वांतरिक्षात्पथमं पूर्वं जायमान उत्पन्नः । यद्वा । समुद्र अदित्यः
+> समुंदनाद्वृष्ट्या । तस्माद्वा जायमानः । सूरादश्वं वसवो निरतष्टेति वक्ष्यमाणत्वात् । उत वाधवा पुरीषात् सर्वकामानां पूरकादुदकात्पथममुद्यञ्चयमानः । स तादृशस्त्रं यद्यस्मादक्रंदः । महाशब्दमकरोर्यजमानमनुग्रहीतुं ।
+> किंच ते पक्षा पतनसाधनौ पक्षौ श्येनस्य पक्षाविव । तौ यथा शीघ्रपतनसाधनौ तादृशावित्यर्थः । तव बाहू हरिणस्य बाहू इव । तौ यथा वेगवंतौ तादृशावित्यर्थः ।
+> यस्मादेवं तस्मात्ते जन्म स्तुत्यमित्यर्थः ॥
+*Gist:* Sāyaṇa: the horse's birth is praiseworthy, since it arose from the sky or the sun, or from water, neighed, and has falcon's wings and deer's limbs.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+अर्वन् (*arvan*)—O sacrificial horse; यत् (*yat*)—for which reason; (you—thou); प्रथमं (*prathamaṃ*)—formerly; समुद्रात् (*samudrāt*)—from the firmament or from the sun; जायमानः (*jāyamānaḥ*)—having come into being; उ वा (*u vā*)—or; पुरीषात् (*purīṣāt*)—from water; उद्यन् (*udyan*)—having arisen; अक्रंदः (*akraṃdaḥ*)—because you made a neighing sound, and also because (for which reason); पक्षा (*pakṣā*)—your wings;
+
+### Printed p. 232
+*Running head: 232 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೩.] (as supplied).*
+
+शैनस्य (*śainasya*)—are like the wings of the falcon; बाहू (*bāhū*)—the limbs (legs); हरिणस्य (*hariṇasya*)—are like the legs of the deer (therefore); ते (*te*)—your; महि (*mahi*)—great; जातं (*jātaṃ*)—birth; उपस्तुत्यं (*upastutyaṃ*)—worthy of praise.
+
+**भावार्थ (Bhāvārtha)**
+O sacrificial horse, because you, having first come into being from the sun in the firmament or from water, made your attractive neighing sound, and because your wings are like the wings of the falcon and your legs like the legs of the deer (swift), your great birth is worthy of praise.
+
+**Printed English**
+The great birth, O Horse, is to be glorified ; whether first springing from the firmament or from the water, inasmuch as you have neighed (auspiciously), for you have the wings of the falcon and the limbs of the deer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+*[The print repeats the heading ಪ್ರತಿಪದಾರ್ಥ here, where the Special Topics begin.]*
+In this Ṛk the origin and nature of the sacrificial horse are described and the greatness of its birth is praised. Since the horse's origin is stated in समुद्रात् उत वा पुरीषात् (*samudrāt uta vā purīṣāt*) as from the firmament or from water, it is evident that these two kinds of origin must be described in the Śruti. If the Śruti passages are examined, support is found for both these views.
+
+अथ यो गर्भोऽंतरासीत् । सोऽग्निरसृज्यत स यदस्य सर्वस्याग्रमसृज्यतस्मादग्रिरग्रिर्ह वै तमग्निरित्याचक्षते परोऽक्षं परोक्षकामा हि देवा अथ यदश्रु संक्षरितमासीत्सोऽश्रुरभवदश्रुर्ह वै तमश्व इत्याचक्षते परोऽक्षं परोक्षकामा हि देवा अथ यदरसदिव स रासभोऽभवदथ यः कपाले रसो लिप्त आसीत्सोऽजोऽभवदथ यत्कपालमासीत्सा पृथिव्यभवत् (*atha yo garbho 'ṃtarāsīt | so 'gnirasṛjyata sa yadasya sarvasyāgramasṛjyatasmādagriragrirha vai tamagnirityācakṣate paro 'kṣaṃ parokṣakāmā hi devā atha yadaśru saṃkṣaritamāsītso 'śrurabhavadaśrurha vai tamaśva ityācakṣate paro 'kṣaṃ parokṣakāmā hi devā atha yadarasadiva sa rāsabho 'bhavadatha yaḥ kapāle raso lipta āsītso 'jo 'bhavadatha yatkapālamāsītsā pṛthivyabhavat*)
+(Śa. Brā. 6-1-1-11)
+
+*[The printed text reads ಅಗ್ರಿ(ರ್) where ಅಗ್ನಿ would be expected; kept as supplied.]* When Prajāpati wished to grow in the form of the creation of the world, an egg arose from the waters and from it Brahman, and this Brahman became the origin of the world and the rest (6-1-1-10). Since the egg that arose from the waters was the first of all creations, it became known as *āgri* *[as supplied]*.
+
+### Printed p. 233
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. .೧೧ ] Ṛgveda-saṃhitā 233 (as supplied).*
+
+This same fire (*agni*) the gods, who love the hidden (*parokṣa*), addressed as *agni*. The *aśru* (tear) that had spread around the egg the gods, who love the hidden, called *aśva* (horse). The sound that arose when the egg split became known as *rāsabha* (the ass). The juice that was smeared on the shell of the egg became the *aja* (the unborn). That shell was transformed into the form of the earth. In this description there is an account of how Prajāpati created this horse out of the all-pervading waters. According to another description:
+
+प्रजापतिर्वा इदमग्र आसीत् .................... निरमिमीत मनसः पुरुषं चक्षुषोऽश्वं (*prajāpatirvā idamagra āsīt .................... niramimīta manasaḥ puruṣaṃ cakṣuṣo 'śvaṃ*)
+(Śa. Brā. 7-5-26) *[as supplied]*
+
+It is said that this horse was created from Prajāpati's eye.
+
+Just as the relation of the horse to Prajāpati is stated, in many places a very close relation of the horse to Varuṇa is also described.
+
+वारुणो वा अश्वः । तं देवतया व्यर्धयति । यत्पाजापत्यं करोति । नमो राज्ञे नमो वरुणायेत्याह । वारुणो वा अश्वः (*vāruṇo vā aśvaḥ | taṃ devatayā vyardhayati | yatpājāpatyaṃ karoti | namo rājñe namo varuṇāyetyāha | vāruṇo vā aśvaḥ*)
+(Kṛ. Brā. 3-F-16-1) *[reference as supplied]*
+
+For this sentence Sāyaṇa has given the explanation अश्वस्याब्योनित्वाद्वरुणस्य चापां पतित्पादयमश्वो वारुणः (*aśvasyābyonitvādvaruṇasya cāpāṃ patitpādayamaśvo vāruṇaḥ*) *[as supplied]*: since the horse was born from the all-pervading waters, and Varuṇa is the lord of the waters, the sacrificial horse belongs to the deity Varuṇa. Discussing the question of the hidden meaning of this "horse of Varuṇa", the scholar Eggeling, who has translated the Śatapatha-brāhmaṇa into English, has spoken thus:
+
+"Varuna's horse is none other than the fiery races who Pursues his diurnal course across the all-encompassing arch of heaven, the sphere of Varuna, the all-ruler. It is in the form of the horse that the Sun is thus lauded in the hymn. Rigveda 1—163, received by the Hotri on the second Soma day of the Aswamedha."
+(Sacred Books of the East. Vol. XL1V-P. XIX-XX ) *[as supplied: the English as printed, including "races", "Pursues", "XL1V", the missing opening quotation mark]*
+
+What this horse of Varuṇa, the lord of all heaven and earth, is, is none other than the Sun going through his daily revolution. This very point the Hotṛ priest, reciting on the second day of the Aśvamedha the 163rd sūkta of the Ṛ. Saṃ., Maṇḍala 1 (the present sūkta), praises the Sun in the form of the horse (cf. Śa. Brā. 13-5-1-17 to 18). Sāyaṇa also, in the next Ṛk after the present one, *[the sentence continues on the next page]*
+
+### Printed p. 234
+*Running head: 234 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೩] (as supplied).*
+
+...namely गंधर्वो अस्य रशनामगृभ्या श्चूरादश्वं वसवो निरतष्ट (*gaṃdharvo asya raśanāmagṛbhyā ścūrādaśvaṃ vasavo nirataṣṭa*)
+(Ṛ. Saṃ. 1-163-2)
+
+by explaining this sentence has shown that the origin of this horse is the Sun.
+
+The relation, existing together with the horse, of Varuṇa and of Prajāpati is described in the Taittirīya Saṃhitā in this way:
+
+प्रजापतिर्वरुणायाश्वमनयथ्व स्वां देवतामार्छत्स पर्यदीर्यत स एतं वारुणं चतुष्कपालमपश्यत्तं निरवपत्ततो वै स वरुणपाशादमुच्यत वरुणो वा एतं गृह्णाति योऽश्वं प्रतिगृह्णाति (*prajāpatirvaruṇāyāśvamanayathva svāṃ devatāmārchatsa paryadīryata sa etaṃ vāruṇaṃ catuṣkapālamapaśyattaṃ niravapattato vai sa varuṇapāśādamucyata varuṇo vā etaṃ gṛhṇāti yo 'śvaṃ pratigṛhṇāti*) *[printed with a dotted omission after the last words]*
+(Tai. Saṃ. 2-3-12-1)
+
+Prajāpati took this horse to Varuṇa. But the horse went to its own deity (to Prajāpati himself). Then, because Varuṇa was grieved, Prajāpati made an offering of a *catuṣkapāla* (cake on four potsherds) addressed to Varuṇa. Thereupon Prajāpati was freed from Varuṇa's noose. Thus it is explained.
+
+यदक्रंदः (*yadakraṃdaḥ*)—महाशब्दमकरोः (*mahāśabdamakaroḥ*), "you made a great sound". This states the matter described in the passage "अथ यदरसदिव स रासभोऽभवत् (*atha yadarasadiva sa rāsabho 'bhavat*)" (Śa. Brā. 6-1-1-11) and so forth. This has been explained above.
+
+पुरीषात् (*purīṣāt*)—सर्वकामानां पूरकात् उदकात् (*sarvakāmānāṃ pūrakāt udakāt*): from the water that fulfils all desires, is the meaning. The authors of the Nirukta, citing the Ṛk
+
+देवानां माने प्रथमा अतिष्ठन् कृंतत्रादेषामुपरा उदायन् । त्रयस्तपंति पृथिवीमनूपा द्वा बृबूकं वहतः पुरीषं (*devānāṃ māne prathamā atiṣṭhan kṛṃtatrādeṣāmuparā udāyan | trayastapaṃti pṛthivīmanūpā dvā bṛbūkaṃ vahataḥ purīṣaṃ*)
+(Ṛ. Saṃ. 10-27-23)
+
+have shown that there the word पुरीष (*purīṣa*) is derived, according to पुरीषं पृणातेः पूरयतेर्वा (*purīṣaṃ pṛṇāteḥ pūrayatervā*), from the root पृ (*pṛ*), which gives the meaning "fill" or "satisfy". (Ni. 2-22)
+
+समुद्रात् (*samudrāt*)—two kinds of meaning have been given for this word: from the firmament, or from the Sun. How the meaning "firmament" is possible for the word समुद्र (*samudra*) has been explained, by citing the statements of the authors of the Nirukta, in the Special Topics of the Ṛk Ṛ. Saṃ. 1-159-4 of this same volume.
+
 ---
 
-**Progress note:** Done through printed p. 228. Vol 12 pp. 223-228: end of Rk 21 special topics (devayana), grammar, Rk 22 (Sukta 162) with Sayana, special topics
+**Progress note:** Done through printed p. 234. Vol 12 pp. 229-234: end of Rk 22 special topics and grammar; Sukta 163 introduction; Rk 1 with special topics (horse origin, Varuna)
