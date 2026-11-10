@@ -11162,6 +11162,150 @@ In all, in the 64 adhyāyas there are 2006 vargas and 10417 mantras. According t
 
 *[as supplied: the text of this window ends here, in the middle of the word "ತ್ರಿಷ್ಟು-"; it continues in the next window.]*
 
+### Printed p. 455
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೮.] Ṛgveda-saṃhitā 455 (as supplied).*
+
+[Continuing the word "Triṣṭu-" of the previous window:] -p has eleven syllables; the Jagatī has twelve syllables. All these are to be understood as being for each single pāda. The order of creation of these metres, and the benefit to be obtained from them, is stated in the Aitareya Brāhmaṇa in this way.
+
+देवविशः कल्पयितव्या इत्याहुश्चंदश्चंदसि प्रतिष्ठाप्यमिति शोंसावोमित्याह्वयते प्रातःसवने त्रक्षरेण शंसामो दैवोमित्यध्वर्युः प्रतिगृह्णाति पंचाक्षरेण तदष्टाक्षरं संपद्यतेऽष्टाक्षरा वै गायत्रि गायत्रिमेव तत्पुरस्तात्पातःसवनेऽचीक्लृपतां (*devaviśaḥ kalpayitavyā ityāhuścaṃdaścaṃdasi pratiṣṭhāpyamiti śoṃsāvomityāhvayate prātaḥsavane trakṣareṇa śaṃsāmo daivomityadhvaryuḥ pratigṛhṇāti paṃcākṣareṇa tadaṣṭākṣaraṃ saṃpadyate 'ṣṭākṣarā vai gāyatri gāyatrimeva tatpurastātpātaḥsavane 'cīklṛpatāṃ*) (Ai. Brā. 3-12)
+
+As described in the previous Ṛk, in order to establish the Gāyatra-pada, that is, the place of Agni who is of Gāyatra form, the Gāyatrī mantra dear to Agni must be composed. That is a rite to be performed at the time of the morning pressing (prātaḥ-savana). It takes the form of a call and a response. At this time the Hotṛ says "शोंसावों (*śoṃsāvoṃ*)" (let us two praise); this has three syllables. In reply to it the Adhvaryu speaks the answering mantra of five syllables, "शंसामोदैवों (*śaṃsāmodaivoṃ*)" (you recite the praise-word; we rejoice). Both together make eight syllables. It accords with the rule अष्टाक्षरा वै गायत्रि (*aṣṭākṣarā vai gāyatri*). Likewise the rite to be performed with the Triṣṭup at the time of the midday pressing (mādhyaṃdina-savana) is also stated.
+
+अध्वर्यो शोंसावोमित्याह्वयते मध्यंदिने षळक्षरेण शंसामोदैवोमित्यध्वर्युः प्रतिगृह्णाति पंचाक्षरेण तदेकादशाक्षरं संपद्यत एकादशाक्षरा वै त्रिष्टुप् त्रिष्टुभमेव तत्पुरस्तान्मध्यंदिनेऽचीक्लृपतां (*adhvaryo śoṃsāvomityāhvayate madhyaṃdine ṣaḷakṣareṇa śaṃsāmodaivomityadhvaryuḥ pratigṛhṇāti paṃcākṣareṇa tadekādaśākṣaraṃ saṃpadyata ekādaśākṣarā vai triṣṭup triṣṭubhameva tatpurastānmadhyaṃdine 'cīklṛpatāṃ*) (Ai. Brā. 3-12)
+
+*[as supplied: the reference "(ಐ. ಬ್ರಾ. ೩-೧೨)" is printed twice, once after the previous passage and again after this one, so that it stands twice in a row.]*
+
+In reply to the Hotṛ's recitation with the syllables "अध्वर्यो शंसावों (*adhvaryo śaṃsāvoṃ*)", the Adhvaryu speaks the answer of five syllables, "शंसामोदैवों (*śaṃsāmodaivoṃ*)". Both together make eleven syllables of Triṣṭup form. In the same way, at the third pressing (tṛtīya-savana), when the Hotṛ recites "अध्वर्यो शोशोंसावो (*adhvaryo śośoṃsāvo*)" and the Adhvaryu says in reply "शंसामोदैवों (*śaṃsāmodaivoṃ*)", there are twelve syllables in all. This became a pāda of the Jagatī, which consists of twelve syllables. This is what was described in the previous Ṛk with "यद्गायत्रे अधिगायत्रमाहितं त्रैष्टुभाद्वा त्रैष्टुभं निरतक्षत (*yadgāyatre adhigāyatramāhitaṃ traiṣṭubhādvā traiṣṭubhaṃ niratakṣata*)" and so on. The meaning is that immortality is attained by those who know this knowledge of the establishing of the metres.
+
+### Printed p. 456
+*Running head: 456 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+In his explanation of the present Ṛk, Sāyaṇa has told only the varieties of the three metres beginning with Gāyatrī, and has given only the number of the pāda in each of those three metres. The separate syllable-numbers of all the metres and their importance are stated in the Taittirīya Saṃhitā in sentences such as the following:
+
+चतुर्विग्ंशतिमनुब्रूयाद्दृह्मवर्चसकामस्य चतुर्विग्ंशत्यक्षरा गायत्रि.. त्रिग्ंशतमनुब्रूयादन्न कामस्य त्रिग्ंशदक्षरा विराट् .... .... .... .... .... .... द्वात्रिग्ंशतमनुब्रूयात्पतिष्ठाकामस्य द्वात्रिग्ंशदक्षरानुष्टुप् .... .... .... षट् त्रिग्ंशतमनुब्रूयात्पशुकामस्य षट् त्रिग्ंशदक्षरा बृहती .... .... .... चतुश्चत्वारिग्ंशतमनुब्रूयादिंद्रियकामस्य चतुश्चत्वारिग्ंशदक्षरा त्रिष्टक् अष्टाचित्वारिग्ंशतमनुब्रूयात्पशुकामस्याष्टाचित्वारिग्ंशदक्षरा जगती ... .... सर्वाणि छंदाग्ंस्यनु ब्रूयाद्बहुयाजिनस्सर्वाणि वा एतस्य छंदाग्स्यवरुद्धानि यो बहुयाज्यपरिमितमनु ब्रूयादपरिमितस्यावरुध्यै (*caturvigṃśatimanubrūyāddṛhmavarcasakāmasya caturvigṃśatyakṣarā gāyatri.. trigṃśatamanubrūyādanna kāmasya trigṃśadakṣarā virāṭ .... .... .... .... .... .... dvātrigṃśatamanubrūyātpatiṣṭhākāmasya dvātrigṃśadakṣarānuṣṭup .... .... .... ṣaṭ trigṃśatamanubrūyātpaśukāmasya ṣaṭ trigṃśadakṣarā bṛhatī .... .... .... catuścatvārigṃśatamanubrūyādiṃdriyakāmasya catuścatvārigṃśadakṣarā triṣṭak aṣṭācitvārigṃśatamanubrūyātpaśukāmasyāṣṭācitvārigṃśadakṣarā jagatī ... .... sarvāṇi chaṃdāgṃsyanu brūyādbahuyājinassarvāṇi vā etasya chaṃdāgsyavaruddhāni yo bahuyājyaparimitamanu brūyādaparimitasyāvarudhyai*) (त्रै. सं. (*trai. saṃ.*) 2-5-10-3, 4)
+
+*[as supplied: the abbreviation of the reference is printed "ತ್ರೈ. ಸಂ."; the dotted gaps inside the quotation are in the print.]*
+
+This is stated in those sentences etc.
+
+| | Syllables |
+|---|---|
+| Syllables of the Gāyatrī | 24 |
+| of the Anuṣṭup (ditto) | 32 |
+| of the Bṛhatī (ditto) | 36 |
+| of the Triṣṭup (ditto) | 44 |
+| of the Jagatī (ditto) | 48 |
+
+Having thus stated their numbers of syllables, it is stated that the Gāyatrī is effective for Brahmic radiance, the Anuṣṭup for firm standing, the Bṛhatī and the Jagatī for the gain of cattle, and the Triṣṭup for sensory power. The two metres Uṣṇik and Paṅkti are not included here. The Uṣṇik has 28 syllables and the Paṅkti 40 syllables. Besides these seven principal metres, their varieties also have names: Atijagatī (52), Śakvarī (56); Atiśakvarī (60); Aṣṭi (64); Atyaṣṭi (68); Dhṛti (72); Atidhṛti (76). There are also mixed metres such as Dvipadā-Virāṭ and so on.
+
+[A full description of these is given in Part 1, page ..., of the Ṛgveda-saṃhitā.]
+
+*[as supplied: the page number is missing in the print ("ಭಾಗ ೧ ಪೇಜು" with no number).]*
+
+ततः पदानां छंदसां अक्षरं मूलमिति । तथा ऋग्वर्गसूक्तानुवाकादीनां च अक्षरं मूलमित्यक्षरप्रशंसा (*tataḥ padānāṃ chaṃdasāṃ akṣaraṃ mūlamiti | tathā ṛgvargasūktānuvākādīnāṃ ca akṣaraṃ mūlamityakṣarapraśaṃsā*) Sāyaṇa has explained that for the metres, for their parts the pādas, and for the Ṛk, varga, sūkta, anuvāka and the like, the syllable alone is the root; thus there is a praise of the syllable (the word printed "ಅತ್ಪರಪ್ರಶಂಸೆ").
+
+*[as supplied: "ಅತ್ಪರಪ್ರಶಂಸೆಯಿದೆ" is printed so in the Kannada; Sāyaṇa's own word, printed just above, is "aksharaprashamsā".]*
+
+### Printed p. 457
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೧೮. ] Ṛgveda-saṃhitā 457 (as supplied).*
+
+**Vyākaraṇa-prakriyā** (grammatical procedure)
+
+*Grammar (transcribed, not explained):*
+- मिमिते (*mimite*)—root माज् (*māj*) in the sense of measuring and of sound; Juhotyādi class. In the third person singular of the present (laṭ), by टित आत्मनेपदानां (*ṭita ātmanepadānāṃ*) the टि (*ṭi*) becomes ए (*e*). Reduplication of the root because of the vikaraṇa श्लु (*ślu*). By भृञामित् (*bhṛñāmit*) (Pā. Sū. 7-4-76) the reduplicative syllable gets इ (*i*). By ईहल्यघोः (*īhalyaghoḥ*) (Pā. Sū. 6-4-113) the ā of the root becomes ई (*ī*). The tiṅanta-nighāta accent results.
+- अर्कम् (*arkam*)—root अर्च (*arca*) in the sense of worship. By कृदाधारार्चि (*kṛdādhārārci*) (Uṇ. Sū. 3-320) the suffix क (*ka*). By the word बहुल (*bahula*) (bahula) the क (*ka*) does not get the it-designation. By the suffix-accent it is final-acuted.
+- वाकम् (*vākam*)—root वच (*vaca*) in the sense of speaking. Suffix घञ् (*ghañ*). By आत उपधायाः (*āta upadhāyāḥ*) (Pā. Sū. 7-2-116) vṛddhi of the penultimate. By च जोःकुघिण्यतोः (*ca joḥkughiṇyatoḥ*) (Pā. Sū. 7-3-52) the substitution of a guttural. By कर्षात्वतः (*karṣātvataḥ*) (Pā. Sū. 6-1-159) it is final-acuted.
+- द्विपदा (*dvipadā*)—द्वौ पादौ यस्य तत् (*dvau pādau yasya tat*). By संख्यासंपूर्वस्य (*saṃkhyāsaṃpūrvasya*) the loss of the end of the word पाद (*pāda*) comes as a compound-final (samāsānta). When the instrumental singular and the rest follow, since it has the bha-designation, by पादःपत् (*pādaḥpat*) the substitution पद् (*pad*). By the maxim एकदेशविकृतमनन्यवत् (*ekadeśavikṛtamananyavat*) (Paribhāṣā 37), by द्वित्रिभ्यांपाद्दन्‌मूर्धसु बहुव्रीहौ (*dvitribhyāṃpāddanmūrdhasu bahuvrīhau*) (Pā. Sū. 6-2-197) the accent on the first syllable of the latter member comes.
+- चतुष्पदा (*catuṣpadā*)—चत्वारः पादा यस्य (*catvāraḥ pādā yasya*). तेन (*tena*) [as printed]. The loss of the end and the rest come as before. By बहुव्रीहौ प्रकृत्यापूर्वपदम् (*bahuvrīhau prakṛtyāpūrvapadam*) the natural accent of the first member comes.
+- मिमते (*mimate*)—root माज् (*māj*) in the sense of measuring; third person plural of the present; the suffix झ (*jha*); by आत्मनेपदेष्टनतः (*ātmanepadeṣṭanataḥ*) (Pā. Sū. 7-1-5) the substitution अत् (*at*) for it. टि (*ṭi*) becomes ए (*e*). When reduplication of the root comes because of the vikaraṇa श्लु (*ślu*), by श्नाभ्यस्तयोरातः (*śnābhyastayorātaḥ*) (Pā. Sū. 6-4-112) loss of the ā. The reduplicative syllable gets इ (*i*). The tiṅanta-nighāta accent results. || 24 ||
+
+*[stray line as supplied: :੦:]*
+
+### Printed p. 458
+*Running head: 458 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+#### Ṛk 25
+**॥ संहितापाठः ॥**
+
+> जग॑ता॒ सिंधुं॑ दि॒व्य॑स्तभायद्रथंत॒रे सूर्यं॒ पर्य॑पश्यत् ।
+> गा॒य॒त्रस्य॑ स॒मिध॑स्ति॒स्र आ॑हु॒स्ततो॑ म॒ह्ना प्र रि॑रिचे महि॒त्वा ॥
+> ॥ २५ ॥
+
+**॥ पदपाठः ॥**
+
+> जगता । सिंधुं । दिवि । अस्तभायत् । रथंतरे । सूर्यं । परि । अ प श्य त् ।
+> गायत्रस्य । संइधः । तिस्रः । आहुः । ततः । मह्ना । प्र । रिरिचे । महित्वा ॥ २५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> जगतीछंदस्कायामृच्युत्पन्नं साम जगत् । तेन ब्रह्मा सृष्टिकाले सिंधुं
+> स्यंदनशीलमुदकस्य स्यंदकं वादित्यं दिवि द्युलोकेऽस्तभायत् । स्तंभितवान् ।
+> जागतो वा एष य एष तपतीति श्रुतिः । रथंतर एतन्नामके साम्मि स्तंभितं
+> सूर्यं पर्यपश्यत् । परिदृष्टवान्स्रजापतिः । तदाधारभूतायामृचि । ऋ. ७-३२-२२।
+> स्वर्दृशमिति सूर्यप्रतिपादकशब्ददर्शनात् । असौ नाव स्वर्दृगिति हि श्रुतिः । अत एव
+> तत्र सूर्यदर्शनं विधीयते । रथंतरे प्रस्तुयमाने संमीलयेत् स्वर्दृशं प्रति
+> वीक्षेतेति सामब्राह्मणेन । शां ७-७-१५ । गायत्रस्य गायत्र्यामुत्पन्नस्य साम्मि:
+> समिधः समिंधनास्त्रिस्रो विभक्तीराहुः । पादत्रयमाहुरित्यर्थः । अथवा तिस्र ऋच
+> आहुः । ततो हेतोर्मह्ना बलेन महित्वा महत्वेन प्र रिरिचे । परिच्यते ।
+> अन्यानि सामानि पृथक्पृथग्निर्मितवान् । यद्वा । गायत्रशब्दश्चंदोवाची । तस्य
+> तिस्रो मूर्तीराहुः क्रमेणाष्टाक्षरैकादशाक्षरद्वादशाक्षरैर्गायत्रित्रिष्टुब्बगत्यात्मिकाः । यस्मादेवं ततस्तस्माद्दायत्री छंदसां कनिष्ठा सती मह्ना बलेन
+> महत्वेन प्र रिरिचे । सर्वाणि छंदांस्यतिक्रामति । येनैव बलेन सोममाहृतवती
+> तादृशेन्नैवं भवति ॥
+
+*Gist:* By the Jagata-sāman Brahmā fixed the Sun in heaven; in the Rathantara he beheld it; the Gāyatra has three divisions, whence the others excel.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जगता (*jagatā*)—from the Sāman born of the Jagatī metre; (ब्रह्मा (*brahmā*)—Brahmā); सिंधुं (*siṃdhuṃ*)—the flowing Āditya; दिवि (*divi*)—in the heaven-world; अस्तभायत् (*astabhāyat*)—he stayed (him); रथंतरे (*rathaṃtare*)—in the Sāman named Rathantara; सूर्यं (*sūryaṃ*)—the Sun; पर्यपश्यत् (*paryapaśyat*)—he gazed at (him) and saw *[the Pratipadārtha continues on the next page, in the middle of the word "ದೃಷ್ಟಿಸಿ ನೋಡಿ|ದನು"]*
+
+### Printed p. 459
+*Running head: [ಆ. ೨. ಆ. ೪ ವ ೧೮.] Ṛgveda-saṃhitā 459 (as supplied).*
+
+[Continuing:] गायत्रस्य (*gāyatrasya*)—of the Sāman born of the Gāyatrī metre; समिधः (*samidhaḥ*)—the divisions; तिस्रः (*tisraḥ*)—as three in number; आहुः (*āhuḥ*)—they say (that they have three pādas); ततः (*tataḥ*)—arisen from them, (the remaining Sāmans); मह्ना (*mahnā*)—by strength; महित्वा (*mahitvā*)—by greatness; प्र रिरिचे (*pra ririce*)—attain increase.
+
+**भावार्थ (Bhāvārtha)**
+
+By the Sāman born of the Jagatī metre, Brahmā fixed the flowing Āditya in the heaven-world. In the Sāman named Rathantara he gazed upon the Sun and saw him. They say that the divisions arisen from the Gāyatrī metre are three in number. The remaining Sāmans arisen from them also attain increase through strength and through greatness.
+
+**Printed English**
+
+With the stanzas in the Jagati metre he fixed the rain in heaven, and surveyed the Sun in the Rathantara. They have declared three divisions of the Gayatri metre, whence it surpasses (all the rest) in force and majesty.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+जगतीच्छंदस्कायां ऋचि उत्पन्नं साम जगत् (*jagatīcchaṃdaskāyāṃ ṛci utpannaṃ sāma jagat*)—The Sāman arisen from a Ṛk of the Jagatī metre is called Jagat. "Jagatā" therefore means: by that Sāman of Jagat form. This Sāman is called Ṛk-sāman. In the Śatapatha Brāhmaṇa, describing the order of its creation, it is said:
+
+तस्य चक्षुर्वैश्वव्यचसमिति । चक्षुस्तस्माद्रूपादादित्यान्निरमिमित वर्षाश्चाक्षुष्य इति वर्षा ऋतुं चक्षुषो निरमिमित जगती वार्षिति जगतीं छंदो वर्षाभ्य ऋतोर्निरमिमित जगत्या ऋक्षममिति जगत्यै छंदस ऋक्षमग्ंसाम निरमिमितर्क्स्माच्चुक्र इत्यृक्समात्सामः शुक्रं ग्रहं निरमिमित शुक्रात्सप्तदश इति शुक्राद्ग्रहात्सप्तदशग्ग् स्तोमं निरमिमित (*tasya cakṣurvaiśvavyacasamiti | cakṣustasmādrūpādādityānniramimita varṣāścākṣuṣya iti varṣā ṛtuṃ cakṣuṣo niramimita jagatī vārṣiti jagatīṃ chaṃdo varṣābhya ṛtorniramimita jagatyā ṛkṣamamiti jagatyai chaṃdasa ṛkṣamagṃsāma niramimitarksmāccukra ityṛksamātsāmaḥ śukraṃ grahaṃ niramimita śukrātsaptadaśa iti śukrādgrahātsaptadaśagg stomaṃ niramimita*) (Śat. Brā. 8-1-2-2)
+
+Prajāpati created the rainy season from Āditya, who is all-pervading and of the form of the eye. It is stated that from this rainy season he created the Ṛkṣama-sāman, and from the Ṛkṣama-sāman the Śukra-graha. The same is in the Taittirīya Saṃhitā also:
+
+प्रजाभ्योऽयं पश्चाद्विश्वव्यचास्तस्य चक्षुर्वैश्वव्यचसं वर्षाणि चाक्षुषाणि जगती वार्षि जगत्या ऋक्षमं (*prajābhyo 'yaṃ paścādviśvavyacāstasya cakṣurvaiśvavyacasaṃ varṣāṇi cākṣuṣāṇi jagatī vārṣi jagatyā ṛkṣamaṃ*) (Tai. Saṃ. 4-3-2-2)
+
+### Printed p. 460
+*Running head: 460 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+In the sentence just cited, the same is stated as above. Here Sāyaṇa has explained ऋक्षमं (*ṛkṣamaṃ*) as सामविशेषः (*sāmaviśeṣaḥ*) (a particular Sāman). From Sāyaṇa's explanation it is understood that such a Sāman is named Jagat. The Ṛk describes that by this Sāman of Jagat form Brahmā, at the time of creation, fixed Āditya in the heaven-world. Showing the relation of identity between such a Sāman of Jagat form and Āditya, Sāyaṇa has cited
+
+जागतो वा एष य एष तपति (*jāgato vā eṣa ya eṣa tapati*) iti śruti
+
+a śruti sentence giving the meaning that Āditya, who shines in the atmosphere, belongs to the Sāman called Jagat. But he has not said what the source of this sentence is.
+
+*[as supplied: the opening quotation mark before "ಜಾಗತೋ" is missing in the print; only the closing mark " ” " stands after "ತಪತಿ".]*
+
+सिंधुं दिव्यस्तभायत् (*siṃdhuṃ divyastabhāyat*)—it is said: he established the Sindhu in the atmosphere. Here for the word Sindhu he has shown that it means either स्यंदनशीलमुदकस्य स्यंदकं वा आदित्यं (*syaṃdanaśīlamudakasya syaṃdakaṃ vā ādityaṃ*), that is, the stream of flowing water, or Āditya. In many śrutis the description of the time of creation says that at the time of creation Brahmā set in an orderly manner the waters that had been disorderly before creation, and that likewise he first established Āditya in the atmosphere filled with the waters. Therefore both kinds of meaning may be taken.
+
+आपो वा इदमासन्स्वलिलमेव । स प्रजापतिरेकः पुष्करपर्णॆ समभवत् । तस्यांतर्मनसि कामः समवर्तन । इदग्ं सृजेयमिति । .... .... .... .... .... .... .... .... .... .... .... .... .... .... स इत आदायासः । अंजलिना पुरस्तादुपादधात् । एवाह्येवेति । तत आदित्य उदतिष्ठत् (*āpo vā idamāsansvalilameva | sa prajāpatirekaḥ puṣkaraparṇè samabhavat | tasyāṃtarmanasi kāmaḥ samavartana | idagṃ sṛjeyamiti | .... .... .... .... .... .... .... .... .... .... .... .... .... .... sa ita ādāyāsaḥ | aṃjalinā purastādupādadhāt | evāhyeveti | tata āditya udatiṣṭhat*) (कृ. आ. (*kṛ. ā.*) 1-23-1)
+
+*[as supplied: the abbreviation of this reference is printed "ಕೃ. ಆ."]*
+
+In these sentences it is described that Prajāpati put the waters in a state of stillness, and that afterwards Āditya arose from them and was made to stand in the atmosphere. The same idea is described also in the Brāhmaṇa sentence
+
+आपो वा इदमग्रे सलिलमासीत् । तेन प्रजापतिरश्राम्यत् (*āpo vā idamagre salilamāsīt | tena prajāpatiraśrāmyat*) (Tai. Brā. 1-1-3-5)
+
+and so on. Praising Prajāpati's power of upholding, in the Ṛk-saṃhitā too:
+
+दिवो धर्ता भुवनस्य प्रजापतिः पिशंगं द्रापिं प्रति मुंचते कविः । विचक्षणः प्रथयन्ना पृणन्नुर्वजीजनत्सविता सुम्ममुक्थं (*divo dhartā bhuvanasya prajāpatiḥ piśaṃgaṃ drāpiṃ prati muṃcate kaviḥ | vicakṣaṇaḥ prathayannā pṛṇannurvajījanatsavitā summamukthaṃ*) (Ṛ. Saṃ. 4-53-2)
+
 ---
 
-**Progress note:** Done through printed p. 454. Vol 12 pp. 448-454: Ṛk 24 special topics (sāma/ṛk relation, Triṣṭup, vargas/anuvākas tables)
+**Progress note:** Done through printed p. 460. pp. 455-460: Ai. Brā. on Gāyatrī/Triṣṭup/Jagatī syllables, Tai. Saṃ. syllable table, grammar of Ṛk 24, Ṛk 25 with Special Topics
