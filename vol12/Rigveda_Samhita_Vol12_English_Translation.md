@@ -4123,6 +4123,71 @@ Om. Sūkta 162. Maṇḍala 1, Anuvāka 22, Sūkta 162. Aṣṭaka 2, Adhyāya 3
 
 Because we proclaim and praise at this sacrifice the heroic deeds of this sacrificial horse, which is swift, born of the gods or existing in the forms of many gods, may Mitra, Varuṇa, Aryaman, Vāyu who moves constantly, Indra, Ṛbhukṣan and the Maruts not disregard us (not disparage us).
 
+### Printed p. 147
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೭. ] Ṛgveda-saṃhitā 147 (as supplied).* (Sūkta 162, Ṛk 1.)
+
+**Printed English translation**
+
+Let neither Mitra nor Varuna, Aryaman. Ayu, Indra, Ribhukshin, nor the Maruts, censure us ; when we proclaim in the sacrifice the virtues of the swift horse sprung from the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+(किमार्भवं) परे मा नो मेध्यस्याश्वस्य संस्तवः । (*(kimārbhavaṃ) pare mā no medhyasyāśvasya saṃstavaḥ |*)
+ईर्मांतास इति त्वस्यां नीयमानं प्रशंसति ॥ (*īrmāṃtāsa iti tvasyāṃ nīyamānaṃ praśaṃsati ‖*) (ಬೃಹದ್ದೇವತಾ. 4-27)
+
+The sūkta that begins with the ṛk मा नो मित्रो वरुणो (*mā no mitro varuṇo*) (1-162-1) and the sūkta that begins with the ṛk यदक्रंदः (*yadakraṃdaḥ*) प्रथमं जायमानः (*prathamaṃ jāyamānaḥ*) (1-163-1) are compositions in praise of the sacrificial horse. In ṛks such as ईर्मांतासः सिलिकमध्यमासः (*īrmāṃtāsaḥ silikamadhyamāsaḥ*) (1-163-10) there is a description of the well-grown sacrificial horse.
+
+स्वयूथ्यास्तस्य चैवात्र बहवः संस्तुता हयाः । (*svayūthyāstasya caivātra bahavaḥ saṃstutā hayāḥ |*)
+नियुक्ताश्चानियुक्ताश्च प्रसंगादनुकीर्तिताः ॥ (*niyuktāścāniyuktāśca prasaṃgādanukīrtitāḥ ‖*) (ಬೃ. ಪೇ. 4-28) *[abbreviation "ಬೃ. ಪೇ." as printed]*
+
+Besides this sacrificial horse, other horses too that accompany it, whether for help or for ornament, whether appointed or not appointed, are also praised incidentally.
+
+संज्ञप्तवदसंज्ञप्तं भविष्यं चाह भूतवत् । (*saṃjñaptavadasaṃjñaptaṃ bhaviṣyaṃ cāha bhūtavat |*)
+तस्य मांसस्य सूनस्य चरूणां हविषस्तथा ॥ (*tasya māṃsasya sūnasya carūṇāṃ haviṣastathā ‖*)
+वासोऽधिवाससोश्चात्र यद्विशस्यं च कीर्तितं । (*vāso 'dhivāsasoścātra yadviśasyaṃ ca kīrtitaṃ |*)
+गात्रस्य शूलस्थूणानां स्वधितेश्च प्रकीर्तनं ॥ (*gātrasya śūlasthūṇānāṃ svadhiteśca prakīrtanaṃ ‖*)
+भागस्य कीर्तनं चात्र इंद्रापूष्टोः सह स्तुतिः । (*bhāgasya kīrtanaṃ cātra iṃdrāpūṣṭoḥ saha stutiḥ |*) (ಬೃ. ದೇ. 4-29-31)
+
+The horse that is to be sacrificed in the future is described as if it had already been offered as a sacrificial oblation. Its flesh, "sūna", "caru", "vāsa" and "adhivāsa", limbs, spit, post, knife and other special features are praised. The portion connected with this sacrifice (the goat) is also indicated. The author of the Bṛhaddevatā has given, for the sūktas 1-162 and 1-163, the explanation that the praise of Indra and of Pūṣan is included. Also in the present first ṛk,
+
+### Printed p. 148
+
+*Running head: 148 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨.] (as supplied; the sentence "ಪ್ರಕೃತವಾದ ಮೊದಲ-ನೆಯ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಸಹ," is split across the page break).*
+
+यद्वाजिनो देवजातस्य सप्तेः प्रवक्ष्यामो विदथे वीर्याणि । (*yadvājino devajātasya sapteḥ pravakṣyāmo vidathe vīryāṇi |*)
+
+it is resolved: "We shall praise the heroic deeds of the horse born of the gods at this sacrifice." What is the nature of this sacrifice, what is the greatness of the horse appointed for it, and what is the special character of this sacrifice above the other sacrifices: this must be understood first.
+
+राष्ट्रं वा अश्वमेधः । राष्ट्रे खलु ना एते न्यायच्छंते । (*rāṣṭraṃ vā aśvamedhaḥ | rāṣṭre khalu nā ete nyāyacchaṃte |*) (ತೈ. ಬ್ರಾ. 3-8-9-4) *[abbreviation as printed]*
+
+The Aśvamedha is a very ancient and well-known sacrifice. This sacrifice, performed for the extension of the kingdom by a king who alone is qualified for the status of sovereign, has a national importance. Unlike the rites performed at the time of coronation or the Rājasūya sacrifice, it is not merely a personal display; it is impossible for petty kings to carry out, and is accomplished only by an emperor who shows his political authority as sovereign over many kings of kings and is not defeated by any king: this great sacrifice is a very laborious rite.
+
+परा ना एष सिच्यते । योऽबलोऽश्वमेधेन यजते । (*parā nā eṣa sicyate | yo 'balo 'śvamedhena yajate |*) (ತೈ. ಬ್ರಾ. 3-8-9-5)
+
+If any weak king tries to perform the Aśvamedha, thinking "I too will do it", it is certain that he will be driven out of his position.
+
+यदमित्रा अश्वं विंदेरन् । हन्येतास्य यज्ञः । (*yadamitrā aśvaṃ viṃderan | hanyetāsya yajñaḥ |*) (ತೈ- ಬ್ರಾ- 3-8-9-5) *[reference as printed, with hyphens for stops]*
+
+Thus, saying that enemies steal his horse and bring obstruction to his sacrifice, and so on, the qualification of the one who performs this sacrifice is fixed and its political significance and national importance are told. The horse capable of such a great undertaking must also be of great qualities. This horse must be swift. A black colour in front, a white colour behind and one black spot are its special qualities. On the eighth or ninth day of the month of Phālguna these rites begin. The king spends that night in the house of the Gārhapatya fire. The next day the horse is made ready. They have it bathed and so on. Then a dog with four eyes is cut up and let to roll under the horse. Then the sacrificer writes "He who confronts this horse confronts Varuṇa" and sticks it on. Then the horse comes near the altar of Agni. After the oblations to Savitṛ for three days
+
+### Printed p. 149
+
+*Running head: [೨೨ ೨. ಅ. ೩. ವ. ೭. ] Ṛgveda-saṃhitā 149 (as supplied; "೨೨ ೨." is printed for "ಅ. ೨.").*
+
+have been made, it is let loose freely. For its protection a hundred other horses, hundreds of youths and many warriors follow it. If the subordinate kings of him who is the sovereign are victorious in guarding it, their own sovereignty also remains safe. While that horse roams, the sacrificer and his priest sit on a golden seat. The hotṛ recites narratives and the like. The adhvaryu performs some rites for the victory of the horse. After it has returned, the sacrifice is performed.
+
+In the Śatapatha and other texts the greatness of this Aśvamedha is much praised. ऋषभ एष यज्ञा (*ṛṣabha eṣa yajñā*)नां (*nāṃ*) ( ಶ. ಬ್ರಾ. 13-1-2-2) *[the word is split over two lines]*: among all sacrifices it is the one that is excellent like a strong bull; राजा ना एष यज्ञानां यदश्वमेधः (*rājā nā eṣa yajñānāṃ yadaśvamedhaḥ*) (ಶ. ಬ್ರಾ. 13-2-2-1): it is the king of all sacrifices; and
+
+एष वै प्रभूर्नाम यज्ञः .... .... .... एष वै विभूर्नाम यज्ञः .... .... .... एष (*eṣa vai prabhūrnāma yajñaḥ .... .... .... eṣa vai vibhūrnāma yajñaḥ .... .... .... eṣa*)
+वै विधृतिर्नाम यज्ञः । .... .... .... एष वै प्रतिष्ठा नाम यज्ञः (*vai vidhṛtirnāma yajñaḥ | .... .... .... eṣa vai pratiṣṭhā nāma yajñaḥ*) (ಶ. ಬ್ರಾ. 13-3-7) *[abbreviation "ಶ. ಬ್ರಾ." as printed; the lines have printed dots]*
+
+In this and in other ways the special character of this sacrifice is praised. In the present ṛk there is praise of the horse that is the means of this great sacrifice. It is prayed that, if there is any deficiency in praising this horse, Mitra and the other gods may not, keeping it in view, blame us.
+
+सप्तेः (*sapteḥ*)—the word "sapti" is read among the names of the horse (Ni. 2-27). The Nirukta authors, quoting the present ṛk itself (Ni. 9-3), have explained सप्तेः (*sapteḥ*) as सरणस्य (*saraṇasya*). Although this word means merely "moving", it indicates speed and power in movement.
+
+वाजिनः (*vājinaḥ*)—for this word too the above meaning is current. But since both words occur here, it must have another meaning. Since "vāja" is read among the names of food, the word वाज (*vāja*) is taken to mean food and बह्वन्नवतः (*bahvannavataḥ*) has been explained as a horse having abundant food. But since the root ओविजी भय (*ovijī bhaya*) चलनयोः (*calanayoḥ*) has both meanings, fear and movement, one may say here that it is one that is to cause fear. The Nirukta authors, quoting the ṛk उत स्य वाजी क्षिपणिं तुरण्यति (*uta sya vājī kṣipaṇiṃ turaṇyati*) (the Ṛ. Saṃ. number is split over two lines in the print), have explained वाजी-वेजनवान् (*vājī-vejanavān*), and Durgācārya has explained it as भयवान् परेभ्यो भयदाता परेषां हि तं दृष्ट्वा भयमुत्पद्यते (*bhayavān parebhyo bhayadātā pareṣāṃ hi taṃ dṛṣṭvā bhayamutpadyate*): seeing the power of speed of this horse, fear arises in others; the purport is a horse that causes fear. The two words "sapti" and "vājī" are also used together in the Taittirīya Saṃhitā, when the nature of the horse is described in अर्वासि सप्तिरसि वाज्यसि (*arvāsi saptirasi vājyasi*) (ತೈ. ಸಂ. 1-7-8, abbreviation as printed), and for the word "sapti" संग्रामेषु सहसा समवैति (*saṃgrāmeṣu sahasā samavaiti*) (षप समवाये (*ṣapa samavāye*)) in an instant (to the battlefield) *[the supplied text ends here, in the middle of the sentence; the rest is in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 146 (PDF 146). Sūkta 161 Ṛk 14 grammar end; Sūkta 162 introduction; Ṛk 1 Saṃhitā to Bhāvārtha
+**Progress note:** Done through printed p. 149 (PDF 149). Sūkta 162 Ṛk 1 English and Special Topics (Aśvamedha; sapti, vājin), to mid-sentence
