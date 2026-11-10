@@ -12351,6 +12351,151 @@ He who in the state of saṃsāra has done this, agriculture, trade, Vedic study
 मे (*me*)—to me; द्यौः (*dyauḥ*)—the heaven-world; पिता (*pitā*)—protector (and); जनिता (*janitā*)—the cause of origin; it is so; नाभिः (*nābhiḥ*)—the earthly sap that is like the navel; अत्र (*atra*)—is here (therefore:); बंधुः (*baṃdhuḥ*)—a kinswoman; इयं (*iyaṃ*)—this; मही (*mahī*)—wide; पृथिवी (*pṛthivī*)—Earth.
 *[the Pratipadārtha continues in the next window]*
 
+### Printed p. 509
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೦ } ಋಗ್ವೇದಸಂಹಿತಾ 509] (as supplied; the bracket is printed as "}").*
+
+*[Continuing the Pratipadārtha of Ṛk 33]*
+
+मे (*me*)—to me; माता (*mātā*)—is of the form of a mother; उत्तानयोः (*uttānayoḥ*)—of these (Heaven and Earth) that are spread out facing upward, चमोः (*camoḥ*)—and that, like a cup (camū), are means of enjoyment [as supplied: the Kannada reads चमोः (*camoḥ*) here, but चन्नोः (*cannoḥ*) in the grammar section and चव्वोः (*cavvoḥ*) in the Special Topics]; अंतः (*aṃtaḥ*)—in the middle; योनिः (*yoniḥ*)—that is the place of making for all beings; अत्र (*atra*)—in the atmosphere; पिता (*pitā*)—Āditya; दुहितुः (*duhituḥ*)—of his daughter, the Earth; गर्भं (*garbhaṃ*)—the germ-form water; आधात् (*ādhāt*)—has placed.
+
+**भावार्थ (Bhāvārtha)**
+
+The heaven-world is my protector and the cause of my origin. This Earth, a kinswoman to all and wide, is of the form of a mother to me. In the middle of these Heaven and Earth, which are spread out facing upward and which, like a cup, are means of enjoyment, in the atmosphere that is the place of making for all beings, Āditya has placed the water that is the germ of his daughter, the Earth. *[as supplied: the Kannada reads ऊर्ध्वखवागि (*ūrdhvakhavāgi*) and द्यवापृथिविगळ (*dyavāpṛthivigaḷa*) and गर्भरूपवाध (*garbharūpavādha*) in this paragraph; kept as printed.]*
+
+**Printed English**
+
+The heaven is my parent and progenitor : the navel (of the earth) is my kinsman : the spacious earth is my mother. The womb (of all being) lies between the two uplifted ladies, and in it the parent has deposited the germ (of the fruitfulness) of the daughter.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The purport of this Ṛk is to show the place of Āditya and the relation of protector and protected between the universe and him. Incidentally it praises the atmosphere, the dwelling-place of Āditya, and the Heaven and Earth connected with it. The seer has designated the heaven-world as father and the Earth as mother. And to describe their nature he has used epithets such as नाभिः (*nābhiḥ*) and योनिः (*yoniḥ*). Since these words are used in the Ṛk-saṃhitā in many senses, one may first learn the usages of their various senses and then understand which particular forms of Heaven and Earth they describe here.
+
+नाभि: (*nābhi:*)—The meanings relation, protection, affection, place of origin and so on of the word नाभि (*nābhi*) are well known in the usages of the Ṛk-saṃhitā.
+
+वैश्वानर नाभिरसि क्षितीनां स्थूणेव जना उपमिद्ययंथ (*vaiśvānara nābhirasi kṣitīnāṃ sthūṇeva janā upamidyayaṃtha*) (Ṛ. Saṃ. 1-59-1)
+
+### Printed p. 510
+*Running head: 510 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧ ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+In this passage Vaiśvānara is described as the navel of the kṣitis (peoples). The meaning is that he is bound (saṃnaddha) to all men, that is, he is the one who establishes them [as supplied: अवस्थापकनु (*avasthāpakanu*)]; that is, because Vaiśvānara keeps a far-reaching connection with all the worlds, this epithet is used.
+
+मूर्धा दिवो नाभिरग्निः पृथिव्या अथाभवदरती रोदस्योः । तं त्वा देवासोऽजनयंत देवं वैश्वानर ज्योतिरिदार्याय (*mūrdhā divo nābhiragniḥ pṛthivyā athābhavadaratī rodasyoḥ | taṃ tvā devāso 'janayaṃta devaṃ vaiśvānara jyotiridāryāya*) (Ṛ. Saṃ. 1-59-2)
+
+Here too there is praise of the same Vaiśvānara fire. Here पृथिव्या नाभिः (*pṛthivyā nābhiḥ*) means the binder (saṃnāhaka) of the Earth, that is, her protector.
+
+अजः पुरो नीयते नाभिरस्यानु पश्चात्कवयो यंति रेभाः (*ajaḥ puro nīyate nābhirasyānu paścātkavayo yaṃti rebhāḥ*)
+*[as supplied: the reference is printed with a closing bracket only: ऋ. सं. १-१६३-१२) (*ṛ. saṃ. 1-163-12)*), that is Ṛ. Saṃ. 1-163-12; the script's label "Saṃhitā-pāṭha" before the next verse was removed, since the passage continues the Special Topics.]*
+
+पृच्छामि त्वा परमंतं पृथिव्याः पृच्छामि यत्र भुवनस्य नाभिः (*pṛcchāmi tvā paramaṃtaṃ pṛthivyāḥ pṛcchāmi yatra bhuvanasya nābhiḥ*) (Ṛ. Saṃ. 1-164-34)
+
+In passages such as this it is understood as a cause of binding, that is, a binder in the form of a regulation that shows relation to all beings; in
+
+गंधर्वो अप्स्वप्या च योषा सा नो नाभिः परमं जामि तन्नौ (*gaṃdharvo apsvapyā ca yoṣā sā no nābhiḥ paramaṃ jāmi tannau*) (Ṛ. Saṃ. 10-10-4)
+
+and similar passages, as a place of origin; and in
+
+माता रुद्राणां दुहिता वसूनां स्वसादित्यानाममृतस्य नाभिः (*mātā rudrāṇāṃ duhitā vasūnāṃ svasādityānāmamṛtasya nābhiḥ*) (Ṛ. Saṃ. 8-101-15)
+
+and similar Ṛks, as an abode. Likewise the word योनि (*yoni*) too is used not only in the sense of place of origin but also in the senses of dwelling-place, house and so on. In the Nighaṇṭu this word is read among the 101 names of water, अर्णः क्षोदः (*arṇaḥ kṣodaḥ*) and so on (Ni. 2-24).
+
+वर्धंतीमापः पन्वा सुशिश्ममृतस्य योना गर्भे सुजातं (*vardhaṃtīmāpaḥ panvā suśiśmamṛtasya yonā garbhe sujātaṃ*) (Ṛ. Saṃ. 1-65-4)
+
+Here यज्ञस्य अन्नस्य वा कारणभूते जले (*yajñasya annasya vā kāraṇabhūte jale*) is the explanation; the word योनि (*yoni*) is used in the sense of cause of origin.
+
+समिद्धः शुक्र दीदीह्यतस्य योनिमासदः ससस्य योनिमासदः (*samiddhaḥ śukra dīdīhyatasya yonimāsadaḥ sasasya yonimāsadaḥ*) (Ṛ. Saṃ. 5-21-4)
+
+### Printed p. 511
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೦. ] ಋಗ್ವೇದಸಂಹಿತಾ 511] (as supplied).*
+
+Here योनिं कारणं । स्वर्गसाधनं । (*yoniṃ kāraṇaṃ | svargasādhanaṃ |*) means cause, or means.
+
+दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै (*durokaśociḥ kraturna nityo jāyeva yonāvaraṃ viśvasmai*) (Ṛ. Saṃ. 1-66-5)
+
+Here it means house; in this way it is used in many senses. In the present Ṛk it is understood from the commentary that the word नाभि (*nābhi*) is a synonym of the earthly sap; that is, it means the producing cause. Explaining this, Sāyaṇa says नाभिभूतो भौमो रसोऽत्र तिष्ठतीति शेषः । ततश्चान्नं जायते अन्नाद्रेतः रेतसो मनुष्य इत्येवं पारंपर्येण जननसंबंधिनो हेतोः रसस्यात्र सद्भावात् (*nābhibhūto bhaumo raso 'tra tiṣṭhatīti śeṣaḥ | tataścānnaṃ jāyate annādretaḥ retaso manuṣya ityevaṃ pāraṃparyeṇa jananasaṃbaṃdhino hetoḥ rasasyātra sadbhāvāt*) and so on. The meaning given is: from this sap arises food, from food semen, from semen man; thus this sap, which is as it were the navel, is by succession the place of origin of everything, and therefore the word has been used.
+
+The word योनि (*yoni*) refers to the atmosphere. Earlier this word, referring to the atmosphere, was explained as the maker of all beings. The purport is that Āditya, standing in the atmosphere between the Heaven and Earth thus described, has placed the germ in the form of sap of his daughter, the Earth.
+
+मही (*mahī*)—महती पृथिवी (*mahatī pṛthivī*): this word is an epithet of the Earth. Here the word मही (*mahī*) must be given the sense "worshipful", for her wide extent is already shown by the word पृथिवी (*pṛthivī*) itself.
+
+प्रथनात्पृथिवीत्याहुः क एनामप्रथियिष्यत् किमाधारश्चेत्यथ वै दर्शनेन पृथुरप्रथिता चेदप्यन्यैः (*prathanātpṛthivītyāhuḥ ka enāmaprathiyiṣyat kimādhāraścetyatha vai darśanena pṛthuraprathitā cedapyanyaiḥ*) (Ni. 1-14)
+
+The Earth has this name because she is spread wide. If one asks who spread her out, it is hard to give an answer. Even if no one had spread her, she is spread of her own accord. How that is possible is described in the Taittirīya Saṃhitā, which shows that the Earth's expanse is natural:
+
+आपो वा इदमग्रे सललमासीत्तस्मिन्प्रजापतिर्वायुर्भूत्वाचरत्स इमामपश्यत्तां वराहो भूत्वाहरत्तां विश्वकर्मा भूत्वा व्यमार्ट्सा प्रथत सा पृथिव्यभवत्तत्पृथिव्यै पृथिवित्वं (*āpo vā idamagre salalamāsīttasminprajāpatirvāyurbhūtvācaratsa imāmapaśyattāṃ varāho bhūtvāharattāṃ viśvakarmā bhūtvā vyamārṭsā prathata sā pṛthivyabhavattatpṛthivyai pṛthivitvaṃ*) (Tai. Saṃ. 7-1-5-1) [as supplied: printed तै. सं. (*tai. saṃ.*)]
+
+Since passages such as these describe the natural expanse of the Earth, the further epithet मही (*mahī*) is not needed to show this quality; therefore it has been explained as meaning "worshipful". Here the seer *[the sentence continues on the next page]*
+
+### Printed p. 512
+*Running head: 512 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪.] (as supplied).*
+
+has praised Heaven and Earth with epithets such as जनिता (*janitā*), पिता (*pitā*), माता (*mātā*). The point that Heaven and Earth, through their conjugal relation, are the support of all the worlds has been explained earlier. Moreover, in
+
+य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् (*ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā | tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān*) (Ṛ. Saṃ. 10-110-9)
+
+and similar Ṛks the word जनित्री (*janitrī*) means विश्वस्य जनयित्र्य (*viśvasya janayitrya*), so Heaven and Earth are said to be the begetters of all beings, gods, men and the rest. The seer has worshipped them, the fathers of the universe, as fathers of himself too and as worshipful; Sāyaṇa explains this with the words पारंपर्येण जननसंबंधिनो हेतोः (*pāraṃparyeṇa jananasaṃbaṃdhino hetoḥ*).
+
+In many contexts Heaven and Earth are designated by the word पितरा (*pitarā*) alone, but it is not stated exactly who is the father and who the mother. In such contexts Sāyaṇa has explained in two ways. In the Nirukta also,
+
+पितुः पितृस्थानीयायाः पृथिव्याः); मातुः मातांतरिक्षं निर्मियंतेऽस्मिन् भूतानि (*pituḥ pitṛsthānīyāyāḥ pṛthivyāḥ); mātuḥ mātāṃtarikṣaṃ nirmiyaṃte 'smin bhūtāni*) (Ni. 2-8)
+
+there is a statement of the Nirukta authors that the epithet "father" is established for the Earth, which, derived from the root पा (*pā*) meaning to protect, protects all beings, and the epithet "mother" for the atmosphere, since all beings are formed in the atmosphere. Further, in Ṛks such as
+
+द्या ३ष्टितः पृथिवि मातरध्रुगग्ने भ्रातर्ववसो मृळता नः । विश्व आदित्या अदिते सजोषा अस्मभ्यं शर्म बहुलं वि यंत (*dyā 3ṣṭitaḥ pṛthivi mātaradhrugagne bhrātarvavaso mṛḷatā naḥ | viśva ādityā adite sajoṣā asmabhyaṃ śarma bahulaṃ vi yaṃta*) (Ṛ. Saṃ. 6-51-5)
+
+[as supplied: the Kannada text says "ityādi-yukkugaḷalli", "Ṛks and so on" with "yukku" for "ṛkku"], in
+
+दौः पिता । पृथिवी माता (*dauḥ pitā | pṛthivī mātā*) (Tai. Brā. 3-7-5-4, 5)
+
+and in the Brāhmaṇa passages such as
+
+उपहूता पृथिवी मातोप मां पृथिवी माता ह्वायतामग्निराग्नीध्रात्सा होपहूता द्यौष्टितोप मां द्यौष्टिता (*upahūtā pṛthivī mātopa māṃ pṛthivī mātā hvāyatāmagnirāgnīdhrātsā hopahūtā dyauṣṭitopa māṃ dyauṣṭitā*) (Śa. Brā. 1-8-1-41.)
+
+### Printed p. 513
+*Running head: [ಅ. ೨ ಅ. ೩ ವ. ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 513] (as supplied).*
+
+and in Ṛks such as मधु द्यौरस्तु नः पिता (*madhu dyaurastu naḥ pitā*) (Ṛ. Saṃ. 1-90-7) as well, the epithet "father" is established for the deity of the heaven-world. In the same way in the present Ṛk also it is praised as द्यौर्मे पिता : माता पृथिवी (*dyaurme pitā : mātā pṛthivī*).
+
+उत्तानयोः (*uttānayoḥ*)—ऊर्ध्वतानयोः (*ūrdhvatānayoḥ*): it is explained as "spread out facing upward". And this is an epithet of the word चव्वोः (*cavvoḥ*) [as supplied: so printed here]. सर्वस्य अत्तोऽत्थोऽ भोगसाधनयोः द्यावापृथिव्योः (*sarvasya atto 'ttho ' bhogasādhanayoḥ dyāvāpṛthivyoḥ*) [as supplied: so printed]: the meaning is of Heaven and Earth, which make all the worlds be contained within themselves and which are the means of enjoyment for all.
+
+द्यावापृथिवीभ्यामिति तदाभ्यां द्यावापृथिवीभ्यामारभते ययोरिदं सर्वमधि (*dyāvāpṛthivībhyāmiti tadābhyāṃ dyāvāpṛthivībhyāmārabhate yayoridaṃ sarvamadhi*) (Śa. Brā. 3-1-3-26) [as supplied: printed श. बा. (*śa. bā.*)]
+
+As this says, the point that the whole universe depends on Heaven and Earth alone for support and sustenance is shown here too.
+
+दुहितुः गर्भमाधात् (*duhituḥ garbhamādhāt*)—Here, although it would be natural to give the word दुहितुः (*duhituḥ*) the meaning that the Earth is the daughter of Āditya, Sāyaṇa has explained it as दूरे निहितायाः भूम्याः (*dūre nihitāyāḥ bhūmyāḥ*), that is, he has placed (held) the water that is the germ of the Earth situated far away. For the word पिता (*pitā*) of the latter half he first gave the meaning द्युलोकः (*dyulokaḥ*), and afterwards showed that since there is no difference between the substratum, the heaven-world, and the presiding one, Āditya, the meaning here is Āditya itself: अधिष्ठात्रधिष्ठानयोः अभेदेन आदित्यो द्यौरुच्यते (*adhiṣṭhātradhiṣṭhānayoḥ abhedena ādityo dyaurucyate*). He has also given the alternative meaning इंद्रः पर्जन्यो वा (*iṃdraḥ parjanyo vā*).
+
+आधात् (*ādhāt*)—सर्वतः करोति (*sarvataḥ karoti*): the meaning is that he first draws up the water with his rays and then spreads it over the whole universe.
+
+*Grammar (transcribed, not explained):*
+जनिता (*janitā*)—root जनी प्रादुर्भावे (*janī prādurbhāve*), with the causative sense included; suffix tṛc in the agent; the augment iṭ by अर्धधातुकस्येड्वलादेः (*ardhadhātukasyeḍvalādeḥ*); by चितः (*citaḥ*) the accent on the final comes.
+चन्नोः (*cannoḥ*) [as supplied: so printed here]—root चमु अदने (*camu adane*); by कृषिचमितनिधनि (*kṛṣicamitanidhani*) (Pā. Sū. 1-81, as printed) the suffix ū; by the suffix-accent it is final-acuted; when the genitive dual os follows, there is the yaṇ substitution; by उदात्तस्वरितयोर्यणः स्वरितोनुदात्तस्य (*udāttasvaritayoryaṇaḥ svaritonudāttasya*) (Pā. Sū. 8-2-4) the udātta accent comes on the case-ending *[the printed text breaks off with a stray स्वर बरुत्तदॆ (*svara baruttadè*) line end; then stray lines "3 -" and "[33]  [ Vol. 12" (page signature), as supplied]*.
+
+### Printed p. 514
+*Running head: 514 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+अत्रा (*atrā*)—by ऋचितुनुघ (*ṛcitunugha*) (Pā. Sū. 6-3-133) the long vowel comes in the Saṃhitā.
+अधात् (*adhāt*)—root डुधाञ् धारणपोषणयोः (*ḍudhāñ dhāraṇapoṣaṇayoḥ*); luṅ in the Vedic manner; by गातिस्थासिचाघु (*gātisthāsicāghu*) (Pā. Sū. 2-4-77) luk for sic; since it stands after a non-finite-verb word (as supplied: अतिजंतद (*atijaṃtada*)), the nighāta accent comes. ॥ 33 ॥
+*[as supplied: a stray line १०६ काव्य (*106 kāvya*) follows; the figure line that follows repeated the Saṃhitā and Pada of Ṛk 34, which stand as text in kn.md, so the figure line was removed after viewing the picture.]*
+
+#### Ṛk 34
+**॥ संहितापाठः ॥**
+> पृ॒च्छामि॑ त्वा॒ पर॒मंतं॑ पृथि॒व्याः पृ॒च्छामि॒ यत्र॒ भुव॑नस्य॒॑
+> नाभिः ।
+> पृ॒च्छामि॑ त्वा॒ वृष्णो॒ अश्व॑स्य॒ रेतः॑ पृ॒च्छामि॑ वा॒चः प॑र॒मं॑
+> व्योम ॥ ३४ ॥
+**॥ पदपाठः ॥**
+> पृच्छामि । त्वा । परं । अंतं । पृथिव्याः । पृच्छामि । यत्र । भुवनस्य । नाभिः ।
+> पृच्छामि । त्वा । वृष्णः । अश्वस्य । रेतः । पृच्छामि । वाचः । परमं । विओम ॥ ३४ ॥
+**॥ सायणभाष्यम् ॥**
+> आश्वमेधिके मध्यमेऽहनि ब्रह्मोद्ये होत्रादयः पृच्छामि त्वेत्यनया
+> यजमानं पृच्छेयुः । तथा च सूत्रितं । एकैकशो यजमानं पृच्छंति पृच्छामि
+> त्वा परमंतं पृथिव्याः । आ १०_९ । इति ॥
+> हे यजमान त्वा त्वां पृच्छामि । प्रश्नं करोमि । किं । पृथिव्याः परमंतमुत्कृष्टां काष्ठां । यत्र सर्वा पृथिवी समाप्यते तत्पृच्छामि । तथा त्वामन्यत्पृच्छामि । किं तदिति उच्यते । यत्र भुवनस्य भूतजातस्य नाभिः संनाहो बंधनं ।
+> यत्र सर्वं संनद्धं भवति तमित्यर्थः । किंच त्वा त्वां वृष्णो वर्षकस्याश्वस्य व्याप्त
+> स्यादित्यस्य । असौ वा आदित्यो वृषाश्व इति तैत्तिरीयकं । तस्य रेतो रेतोवत्कारणं
+> तत्किमिति पृच्छामि । तथा वाचिः सर्वस्य वाग्वातस्य परमं निरतिशयं व्योम स्थानं
+> सर्वस्य वचसः कारणं । एतत्पश्न चतुष्टयं पृच्छामि ॥
+*Gist:* On the middle day of the Aśvamedha the Hotṛ and others in the Brahmodya question the sacrificer with this Ṛk: four questions on the end of the Earth, the navel of the world, the seed of the horse (the sun) and the highest heaven of speech.
+
 ---
 
-**Progress note:** Done through printed p. 508. Ṛk 32 special topics, grammar; Ṛk 33 begins
+**Progress note:** Done through printed p. 514. Ṛk 33 Pratipadārtha end, Bhāvārtha, Special Topics, grammar; Ṛk 34 text and bhāṣya
