@@ -7483,6 +7483,137 @@ As to the deities of this sūkta: from the beginning of the sūkta up to the Ṛ
 (Ṛgvidhāna 1-26) *[as supplied: the abbreviation is printed मुग्विधान. (*mugvidhāna.*), a misprint]*
 that is, if a twice-born commits theft, whether through ignorance or through greed, then, fasting for three nights (three days) and purified, if he mutters this sūkta अस्य वामस्य (*asya vāmasya*) his sin is removed: thus it is said. And *(the sentence continues in the next window)*.
 
+### Printed p. 291
+*Running head: [A. 2. A. 3. V. 14.] Ṛgveda-saṃhitā 291 (as supplied: आ. २. अ. ३. व. १४. (*ā. 2. a. 3. va. 14.*), with "ಆ." at the start).*
+
+(Continuing the sentence of the previous page: "...and") in the Mahāvrata, when the mantras of the Vaiśvadeva-śastra are recited, the nivid-vāna mantras connected with the Viśvedevas must be recited as two pratīkas (parts). Then the first forty-one Ṛks of this sūkta beginning अस्य वामस्य (*asya vāmasya*) must be recited in the first pratīka: this is specified by the sūtra sentence in the fifth Āraṇyaka of the Aitareya Āraṇyaka, अस्य वामस्य पलितस्य होतुरिति सलिलस्य दैर्घतमस एकचत्वारिंशतं (*asya vāmasya palitasya hoturiti salilasya dairghatamasa ekacatvāriṃśataṃ*) (Ai. Ā. 5-3-2).
+
+*Heading of the sūkta, as printed:*
+ओं (*oṃ*)
+Sūkta 164
+Maṇḍala 1; Anuvāka 22; Sūkta 164
+Aṣṭaka 2; Adhyāya 3; Varga 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+Number of Ṛks in the sūkta: 52
+Ṛṣi: दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*) (Dīrghatamas Aucathya)
+Devatā: 1-41 विश्वेदेवाः (*viśvedevāḥ*) (Viśvedevas); 42 first half वाक् (*vāk*) (Vāk); 43 second half आपः (*āpaḥ*) (Āpaḥ) *[as supplied: so printed "43", though this is the second half of the Ṛk numbered 42 elsewhere]*; 43 first half शकधूमः (*śakadhūmaḥ*) (Śakadhūma); 43 second half सोमः (*somaḥ*) (Soma); 44 अग्निः सूर्यो वायुश्च (*agniḥ sūryo vāyuśca*) (Agni, Sūrya and Vāyu); 45 वाक् (*vāk*); 46, 47 सूर्यः (*sūryaḥ*) (Sūrya); 48 संवत्सरसंस्थं कालचक्रवर्णनं (*saṃvatsarasaṃsthaṃ kālacakravarṇanaṃ*) (description of the wheel of time, belonging to the year); 49 सरस्वती (*sarasvatī*) (Sarasvatī); 50 साध्याः (*sādhyāḥ*) (the Sādhyas); 51 सूर्यः पर्जन्याअग्नयो वा (*sūryaḥ parjanyāagnayo vā*) (Sūrya, or Parjanya, or Agni) *[as supplied: printed पर्जन्याअग्नयो (*parjanyāagnayo*)]*; 52 सरस्वान् सूर्यो वा (*sarasvān sūryo vā*) (Sarasvān or Sūrya).
+Chandas: 1-11, 13, 14, 16-22, 24-28, 30-35, 37-40, 43-50, 52: त्रिष्टुप् (*triṣṭup*) (Triṣṭubh); 12, 15, 23, 29, 36, 41: जगती (*jagatī*) (Jagatī); 42: प्रस्तारपंक्तिः (*prastārapaṃktiḥ*) (Prastārapaṅkti); 51: अनुष्टुप् (*anuṣṭup*) (Anuṣṭubh).
+*[Stray label before the Saṃhitā-pāṭha, as supplied: १ संहशापाति १ (*1 saṃhaśāpāti 1*) (garbled; the script read it as the label of the Saṃhitā-pāṭha).]*
+
+#### Ṛk 1
+**॥ संहितापाठः ॥**
+> अ॒स्य वा॒मस्य॑ पलि॒तस्य॒ होतु॒स्तस्य॒ भ्राता॑ मध्य॒मो अ॒स्त्यश्नः॑ ।
+> तृ॒तीयो॒ भ्राता॑ घृ॒तपृ॑ष्ठो अ॒स्यात्रा॑पश्यं वि॒श्वतिं॑ स॒प्तपु॑त्रं ।
+> ॥ ० ॥
+
+> *asya vāmasya palitasya hotustasya bhrātā madhyamo astyaśnaḥ |*
+> *tṛtīyo bhrātā ghṛtapṛṣṭho asyātrāpaśyaṃ viśvatiṃ saptaputraṃ |*
+> *‖ 0 ‖*
+
+### Printed p. 292
+*Running head: 292 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೪] (as supplied).*
+*[Stray label before the Pada-pāṭha, as supplied: पपारि (*papāri*) (garbled; the script read it as the label of the Pada-pāṭha).]*
+**॥ पदपाठः ॥**
+> अस्य । वामस्य । पलितस्य । होतुः । तस्य । भ्राता । मध्यमः । अस्ति । अश्वः ।
+> तृतीयः । भ्राता । धृतपृष्ठः । अस्य । अत्र । अपश्यं । विश्वतिं । सप्तपुत्रं ॥ १ ॥
+
+> *asya | vāmasya | palitasya | hotuḥ | tasya | bhrātā | madhyamaḥ | asti | aśvaḥ |*
+> *tṛtīyaḥ | bhrātā | dhṛtapṛṣṭhaḥ | asya | atra | apaśyaṃ | viśvatiṃ | saptaputraṃ ‖ 1 ‖*
+*[Stray label before the Sāyaṇa-bhāṣya, as supplied: ॥ सायणाभाष्यं ॥ (*‖ sāyaṇābhāṣyaṃ ‖*) (misprint for सायणभाष्यं (*sāyaṇabhāṣyaṃ*)).]*
+**॥ सायणभाष्यम् ॥**
+> अत्र द्वितीयपादे तच्छब्दश्रुतेः प्रथमपादे प्रतिविशेषणं योग्यक्रियार्थसंबद्धो यच्छब्दोऽध्याहार्यः । योऽयं दिवि द्योतते तस्यास्य वामस्य
+> वननीयस्य संभजनीयस्यारोग्यार्थिभिः सर्वैः सेवनीयस्य पलितस्य पालयितुः
+> प्रकाशवृष्टादिप्रदानेन पालकस्य तथा योऽयं दिवि द्योतते तस्यास्य होतुर्ह्वातव्यस्याह्वानार्हस्यादित्यस्य मध्यमो मध्यमस्थानः । मध्यॆ भवो वायुरुच्यते ।
+> आदित्याग्नी अपेक्ष्यास्य मध्यमत्वं । स चात्मः सर्वत्र व्याप्तः । न हि वायुरहितः
+> कश्चित्पदेशोऽस्ति । तादृशो भ्रातास्ति । भातृस्थानीयो भवति । यथा लोके
+> भ्राता पितृधनस्य भागं हरति तद्वत् । मध्य स्थानमंतरिक्षलोकं हरतीति वा । वृष्टर्थं
+> रश्मिभिराहृतानां भौमानां रसानां हरणाद्वा भ्रातेत्युच्यते । पित्रैण धनेन
+> स्वार्जितेन वा भर्तव्यो भवतीति भ्राता । मध्यमो वायुरपि वृष्ट्यर्थं रसैर्भक्तव्यो भवति । किंच घृतपृष्टः घृतमाहुतिलक्षणं सृष्टे यस्य तादृशो भ्राता तस्य
+> तृतीयोऽस्ति । भवति । त्रयाणां पूरणस्तृतीयः । उक्सोभयापेक्षया तृतीयत्वं।
+> भ्रातृत्वं प्रतिपादितप्रकारेणात्रापि द्रष्टव्यं । रात्रौ सवितुस्तेजोभागस्य हरणात् ।
+> दिवा स्वकीयतेजसो भागस्य तवर्धमेव भक्तव्यत्वाद्या भ्रातृत्वं । अत्रैषु भातृषु
+> मध्यॆ पुरोदेशे वा विश्वतिं विशां प्रजानां पालयितारं सप्तपुत्रं सर्पणरश्मिपुत्रोपेतं । ऐतिहासिकपक्षेदितिः पुत्रकामेति प्रस्तुते मित्रवरुणादिश्वदितिपुत्रेश्वस्यादित्यस्य सप्तमपुत्रत्वं । ईदृशं महानुभावमादित्यमपश्यं । अद्राक्षं । भावनयात्मश्वेन साक्षात्करोमीत्यर्थः । तद्योऽहं सोऽसौ योऽसौ सोhमिति श्रुतिः ॥
+> एवं वा । अस्य वामस्य विश्वसोद्धरितुः । प्रष्टुरित्यर्थः । पलितस्य पालयितु:
+> स्वसृष्टजगत्पालनशीलस्य होतुरादातुः । स्वस्मिन्संहर्तुरित्यर्थः । परमेश्वरस्य सृष्टादिकर्तृत्वं श्रुतिस्मृतिपुराणादिषु प्रसिद्धं । तस्य तादृशस्य परमेश्वरस्य भ्राता तद्भागहारी तदंशभूतः सूत्रात्मा मध्यमः सर्वत्र मध्यॆ वर्तमानोऽस्ति । जगद्धारकत्वेन
+> वर्तते । स चाश्नो व्यापनशीलः । वायुना वै गौतम सूत्रेणायं च लोकः परश्च
+> लोकः सर्वाणि च भूतानि संरज्ञानि । बृ. उ. ३-७-२ । इति श्रुतेः । वक्ष्यमाणविराडपेक्षया वा मध्यमत्वं । किंचास्य परमेश्वरस्य तृतीयो घृतपृष्ठः घृतमित्युदक-
+
+> *atra dvitīyapāde tacchabdaśruteḥ prathamapāde prativiśeṣaṇaṃ yogyakriyārthasaṃbaddho yacchabdo 'dhyāhāryaḥ | yo 'yaṃ divi dyotate tasyāsya vāmasya*
+> *vananīyasya saṃbhajanīyasyārogyārthibhiḥ sarvaiḥ sevanīyasya palitasya pālayituḥ*
+> *prakāśavṛṣṭādipradānena pālakasya tathā yo 'yaṃ divi dyotate tasyāsya hoturhvātavyasyāhvānārhasyādityasya madhyamo madhyamasthānaḥ | madhyè bhavo vāyurucyate |*
+> *ādityāgnī apekṣyāsya madhyamatvaṃ | sa cātmaḥ sarvatra vyāptaḥ | na hi vāyurahitaḥ*
+> *kaścitpadeśo 'sti | tādṛśo bhrātāsti | bhātṛsthānīyo bhavati | yathā loke*
+> *bhrātā pitṛdhanasya bhāgaṃ harati tadvat | madhya sthānamaṃtarikṣalokaṃ haratīti vā | vṛṣṭarthaṃ*
+> *raśmibhirāhṛtānāṃ bhaumānāṃ rasānāṃ haraṇādvā bhrātetyucyate | pitraiṇa dhanena*
+> *svārjitena vā bhartavyo bhavatīti bhrātā | madhyamo vāyurapi vṛṣṭyarthaṃ rasairbhaktavyo bhavati | kiṃca ghṛtapṛṣṭaḥ ghṛtamāhutilakṣaṇaṃ sṛṣṭe yasya tādṛśo bhrātā tasya*
+> *tṛtīyo 'sti | bhavati | trayāṇāṃ pūraṇastṛtīyaḥ | uksobhayāpekṣayā tṛtīyatvaṃ|*
+> *bhrātṛtvaṃ pratipāditaprakāreṇātrāpi draṣṭavyaṃ | rātrau savitustejobhāgasya haraṇāt |*
+> *divā svakīyatejaso bhāgasya tavardhameva bhaktavyatvādyā bhrātṛtvaṃ | atraiṣu bhātṛṣu*
+> *madhyè purodeśe vā viśvatiṃ viśāṃ prajānāṃ pālayitāraṃ saptaputraṃ sarpaṇaraśmiputropetaṃ | aitihāsikapakṣeditiḥ putrakāmeti prastute mitravaruṇādiśvaditiputreśvasyādityasya saptamaputratvaṃ | īdṛśaṃ mahānubhāvamādityamapaśyaṃ | adrākṣaṃ | bhāvanayātmaśvena sākṣātkaromītyarthaḥ | tadyo 'haṃ so 'sau yo 'sau sohmiti śrutiḥ ‖*
+> *evaṃ vā | asya vāmasya viśvasoddharituḥ | praṣṭurityarthaḥ | palitasya pālayitu:*
+> *svasṛṣṭajagatpālanaśīlasya hoturādātuḥ | svasminsaṃharturityarthaḥ | parameśvarasya sṛṣṭādikartṛtvaṃ śrutismṛtipurāṇādiṣu prasiddhaṃ | tasya tādṛśasya parameśvarasya bhrātā tadbhāgahārī tadaṃśabhūtaḥ sūtrātmā madhyamaḥ sarvatra madhyè vartamāno 'sti | jagaddhārakatvena*
+> *vartate | sa cāśno vyāpanaśīlaḥ | vāyunā vai gautama sūtreṇāyaṃ ca lokaḥ paraśca*
+> *lokaḥ sarvāṇi ca bhūtāni saṃrajñāni | bṛ. u. 3-7-2 | iti śruteḥ | vakṣyamāṇavirāḍapekṣayā vā madhyamatvaṃ | kiṃcāsya parameśvarasya tṛtīyo ghṛtapṛṣṭhaḥ ghṛtamityudaka-*
+
+### Printed p. 293
+*Running head: [A. 2. A. 3. P. 14] Ṛgveda-saṃhitā 293 (as supplied: अ. २. अ. ३. प. १४ (*a. 2. a. 3. pa. 14*), with "ಪ." where "ವ." is expected).*
+*[The bhāṣya continues from the previous page, the word being cut at the page end: "udaka-" / "nāma".]*
+> नाम । तेन तत्कार्यं शरीरमुच्यते । तदेव पृष्ठं स्पर्शकं वा यस्य स तादृशः ।
+> पृष्ठं स्पृशतेरिति निरुक्तं । ४-३ । यद्वा । प्रदीप्तपृष्ठः । पृष्ठशब्दः कृत्सशरीरोपलक्षकः । प्रकाशितशरीराभिमानीत्यर्थः । न त्वयं सूक्ष्मशरीराभिमानिसूत्रात्मवत्स्र्शनाविषयो भवति । अत्रैषु मध्यॆ विश्वतिं विशां प्रजानां पतिं । उपलक्षणमेतत् । सर्वस्य पतिमित्यर्थः । सर्वस्य पतिः सर्वस्येशान इति श्रुतेः । सप्तपुत्रं सप्त
+> लोकाः पुत्रा यस्य तादृशं । स्वमायया सृष्टसर्वलोकमित्यर्थः । अपश्यं ।
+> पश्येयं । साक्षात्करोमीत्यर्थः ॥ अयमर्थः । स्वाधीनमायाजगत्कारणभूतः
+> परमेश्वरः एकः । तत उत्पन्नौ स्कूलसूक्ष्मशरीराभिमानिनौ द्वौ विराट्सूत्रात्मानौ ।
+> तेषु मध्यॆ द्वयोः साक्षात्कारेण मोक्षाभावात् सृष्ट्या दिकारणं परमेश्वरं
+> ज्ञेयत्वेन प्रसिद्धं श्रवणमननादिसाधनेन साक्षात्करोमीत्यर्थः ॥ एवमुत्तरत्राप्यध्यात्मपरतया योजयितुं शक्यं । तथापि स्वरसत्वाभावाद्ग्रंथविस्तरभयाच्च न
+> लिख्यते ॥ यत्र द्वा सुपर्णॆत्यादौ स्पुटमाध्यात्मिको ह्यर्थः प्रतीयते तत्र तत्र
+> प्रतिपादयामः । अयं मंत्रो यास्केन व्याख्यातः । अस्य वामस्य वननीयस्य
+> पलितस्य पालयितुरित्यादिना । नि. ४-२६ । तच्च व्याख्यानमत्रानुसंधेयं ॥
+*Gist:* Sāyaṇa: the middle brother is the all-pervading wind, the third (ghee-backed) is Agni, and the speaker beholds this seven-rayed Āditya; or, spiritually, the Supreme Lord with Virāj and Sūtrātman; Yāska (Ni. 4-26) cited.
+**प्रतिपदार्थ (Pratipadārtha)**
+वामस्य (*vāmasya*)—of him who is served (by all); पलितस्य (*palitasya*)—protector (of the universe); होतुः (*hotuḥ*)—and worthy to be invoked; अस्य (*asya*)—this Āditya who exists; तस्य (*tasya*)—to him; मध्यमः (*madhyamaḥ*)—the one who has the middle position; अश्वः (*aśvaḥ*)—Vāyu, the all-pervading; भ्राता (*bhrātā*)—in the place of a brother; अस्ति (*asti*)—is (and); धृतपृष्टः (*dhṛtapṛṣṭaḥ*) *[as supplied: so printed, the Saṃhitā has घृतपृष्ठो (*ghṛtapṛṣṭho*)]*—having a body pervaded by ghee in the form of oblation; तृतीयः भ्राता (*tṛtīyaḥ bhrātā*)—the third brother also is; अत्र (*atra*)—among these; विश्वतिं (*viśvatiṃ*)—the lord of human beings; सप्तपुत्रं (*saptaputraṃ*)—him who is accompanied by seven sons in the form of rays; अस्य (*asya*)—this Āditya; अपश्यं (*apaśyaṃ*)—I am beholding.
+**भावार्थ (Bhāvārtha)**
+Of this Āditya, who is served by all, the protector of the universe and worthy to be invoked, Vāyu, who has the middle position and pervades everything, stands in the place of a brother; and there is also a third brother, whose body is pervaded by ghee in the form of oblation. Among these, this Āditya, the lord of human beings, accompanied by seven sons in the form of rays, has become visible before me.
+
+### Printed p. 294
+*Running head: 294 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+**Printed English**
+I have beheld the Lord of Men with seven sons; of which delightful and benevolent (deity), who is the object of cur *[sic]* invocation, there is an all-pervading middle brother, and a third brother, well fed with (oblations of) ghee.
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+सूक्तं यदस्य वामीयं वैश्वदेवं तदुच्यते । प्रवादा विविधास्तत्र देवानां चात्र कीर्तनं ॥ सूक्तेऽस्यर्चि परोक्षोक्ता वक्ष्यामि भ्रातरस्त्रयः । अग्निस्तु वामः पलितो वायुभ्राता तु मध्यमः । घृतपृष्ठस्कृतीयोऽत्र सप्त वै रश्मयस्सुताः (*sūktaṃ yadasya vāmīyaṃ vaiśvadevaṃ taducyate | pravādā vividhāstatra devānāṃ cātra kīrtanaṃ ‖ sūkte 'syarci parokṣoktā vakṣyāmi bhrātarastrayaḥ | agnistu vāmaḥ palito vāyubhrātā tu madhyamaḥ | ghṛtapṛṣṭhaskṛtīyo 'tra sapta vai raśmayassutāḥ*)
+(Bṛhaddevatā 4-31 to 33) *[as supplied: the reference is printed twice, once cut off "(ಬೃಹದ್ದೇವತಾ. ೪-೩೧ ರಿಂದ" and once as "(ಬೃಪದ್ದೇವತಾ, ೪-೩೧ ರಿಂದ ೩೩)"; the second spelling is a misprint]*
+The sūkta beginning with the Ṛk अस्य वामस्य (*asya vāmasya*) is addressed to the Viśvedevas. Many kinds of philosophical meaning are hidden in it. The deities are addressed according to the context. In the present Ṛk (1-164-1) three brothers are indicated in the third person. They are: Agni, the benefactor of the world, Vāyu and Āditya. And the seven rays of Āditya are also praised.
+For this Ṛk one meaning concerning Āditya and another concerning the Supreme Brahman have been given. The explanation of the author of the Nirukta for it is as follows. It concerns Āditya (Ni. 4-26).
+तस्य भ्राता मध्यमो अस्त्यशनः (*tasya bhrātā madhyamo astyaśanaḥ*) *[as supplied: so printed, "asty aśanaḥ"]*—Vāyu, the all-pervading, is the brother in the middle position for this Āditya.
+अथातो मध्यस्थाना देवताः । तासां वायुः प्रथमागामी भवति (*athāto madhyasthānā devatāḥ | tāsāṃ vāyuḥ prathamāgāmī bhavati*)
+(Ni. 10-1)
+Thus it is said that Vāyu, who is in the middle region, is a brother to Āditya. Here Vāyu has the epithet अश्वः (*aśvaḥ*)-अशनः (*aśanaḥ*) (so printed); it means one who pervades in all places. Āditya has two epithets, वामस्य (*vāmasya*) and पलितस्य (*palitasya*).
+वामस्य—वननीयस्य (*vāmasya—vananīyasya*)—it is explained as one who is desired and served by all; पलितस्य (*palitasya*) is explained as पालयितुः (*pālayituḥ*) (protector). वृष्ट्यादिप्रदानेन पालकस्य (*vṛṣṭyādipradānena pālakasya*): by pouring out rain and so on [as supplied: the Kannada has व्यष्टादिगळन्नु (*vyaṣṭādigaḷannu*), evidently "rain and so on"] he is the protector of the world, so it is understood.
+
+### Printed p. 295
+*Running head: [A. 2. A. 3. V. 14] Ṛgveda-saṃhitā 295 (as supplied: आ. २. आ. ३. व. १४ (*ā. 2. ā. 3. va. 14*), with "ಆ." at the start of both).*
+How did brotherhood come about between such an Āditya and Vāyu? It is explained thus:
+भात्रा—भरतेर्हरतिकर्मणो हरते भागं भर्तव्यो भवतीति वा (*bhātrā—bharaterharatikarmaṇo harate bhāgaṃ bhartavyo bhavatīti vā*)—it is explained that the name comes either from his taking a share in the property earned by the father, or from his being supported by it *[as supplied: प्रित्रार्जित (*pritrārjita*) for the father's property]*. But how Vāyu takes a share in the property belonging to Āditya here, Sāyaṇa has explained as follows.
+वृष्ट्यर्थं रश्मिभिराहृतानां भौमानां रसानां हरणाद्वा भ्रातेत्युच्यते । प्रित्र्येण धनेन स्वार्जितेन वा भर्तव्यः भवतीति भ्राता । मध्यमो वायुः अपि वृष्ट्यर्थं रसैः भक्तव्यः भवति (*vṛṣṭyarthaṃ raśmibhirāhṛtānāṃ bhaumānāṃ rasānāṃ haraṇādvā bhrātetyucyate | pritryeṇa dhanena svārjitena vā bhartavyaḥ bhavatīti bhrātā | madhyamo vāyuḥ api vṛṣṭyarthaṃ rasaiḥ bhaktavyaḥ bhavati*)
+By taking, for the sake of rain, a share of the sap drawn up by the rays, and sharing in it himself, he may become the brother of Sūrya. Or, because the Vāyu of the middle region has to be nourished by the sap for the sake of rain, and because Āditya himself must do that work, Vāyu becomes Āditya's brother.
+तृतीयो भ्राता अस्यायमग्निः (*tṛtīyo bhrātā asyāyamagniḥ*)—how Agni becomes the third brother of Āditya is this:
+रात्रौ सवितुस्तेजोभागस्य हरणात् (*rātrau savitustejobhāgasya haraṇāt*) दिवा स्वकीयतेजोभागस्य तदर्थमेव भक्तव्यत्वात् ना भातृत्वं (*divā svakīyatejobhāgasya tadarthameva bhaktavyatvāt nā bhātṛtvaṃ*) *[as supplied: the last word is printed भातृत्वं (*bhātṛtvaṃ*), with "ಭಾ" for "ಭ್ರಾ"]*
+Because at night Agni takes a share of the brilliance of Āditya, and by day he shares out his own brilliance to Sūrya, the two became brothers.
+धृतपृष्ठः—धृतं आहुतिलक्षणं पृष्ठे यस्य तादृशः (*dhṛtapṛṣṭhaḥ—dhṛtaṃ āhutilakṣaṇaṃ pṛṣṭhe yasya tādṛśaḥ*)—it means "one who carries on his back the ghee in the form of oblation" *[as supplied: आहुतिरूपपाद (*āhutirūpapāda*), misprint for "-ರೂಪವಾದ"]*. This epithet is said of Agni very commonly, in many places. आज्यस्पष्टः (*ājyaspaṣṭaḥ*) may also be understood as "one touched by ghee".
+सप्तपुत्रं—सप्तमपुत्रं सर्पणपुत्रमिति वा सप्त सृप्ता संख्या सप्तादित्यरश्मय इति वदंति (*saptaputraṃ—saptamaputraṃ sarpaṇaputramiti vā sapta sṛptā saṃkhyā saptādityaraśmaya iti vadaṃti*). It is understood as the seventh son, or the son who goes around in all directions, or the seven-numbered rays of Āditya. Here, for सप्तमपुत्र (*saptamaputra*) Sāyaṇa has cited a story from tradition.
+अदितिः पुत्रकामा ! साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्यै धाता चार्यमाचा- (*aditiḥ putrakāmā ! sādhyebhyo devebhyo brahmaudanamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyai dhātā cāryamācā-*) *(the quotation continues on the next page, the word being cut at the page end)*
+
+### Printed p. 296
+*Running head: 296 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+चायेतां । सा द्वितीयमपचत् ॥ तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोधत्त । तस्यॆ मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् तस्या उच्छेषणमददुः । तत्पाश्नात् .... .... .... .... सा रेतोधत्त । तस्या इंद्रश्च विवस्वाग्गंश्चा जायेतां (*cāyetāṃ | sā dvitīyamapacat ‖ tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā retodhatta | tasyè mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat tasyā uccheṣaṇamadaduḥ | tatpāśnāt .... .... .... .... sā retodhatta | tasyā iṃdraśca vivasvāggaṃścā jāyetāṃ*)
+(Tai. Brā. 1-1-9-1, 2)
+Aditi, desiring a son, cooked a Brahmaudana for the Sādhyas. After they had eaten and she had enjoyed what was left, she became pregnant and Aryaman was born from her. When she did the same a second time, Mitra and Varuṇa were born. The third time, Aṃśa and Bhaga; the next time, Indra and Āditya were born. Of these, Āditya is the seventh. Therefore this is one of the meanings given by the author of the Nirukta. Or it may mean rays that flow like a stream.
+अध्यात्मपक्षे (*adhyātmapakṣe*) (on the spiritual side):
+वामस्य—विश्वस्य उद्धरितुः स्रष्टुः इत्यर्थः (*vāmasya—viśvasya uddharituḥ sraṣṭuḥ ityarthaḥ*)—in the form of the cosmic egg, he lit up and created the whole universe, is the meaning.
+पलितस्य पालयितुः—स्वसृष्टजगत्पालनशीलस्य (*palitasya pālayituḥ—svasṛṣṭajagatpālanaśīlasya*)—capable of himself protecting the world that he himself created; and,
+होतुः—आदातुः । स्वस्मिन् संहर्तुः (*hotuḥ—ādātuḥ | svasmin saṃhartuḥ*). Giving to the words वामस्य (*vāmasya*), पलितस्य (*palitasya*), होतुः (*hotuḥ*) the three meanings creation, preservation (protection) and again dissolution, he has explained the word होतुः (*hotuḥ*) as स्वस्मिन् संहर्तुः (*svasmin saṃhartuḥ*), "one who dissolves everything within himself". For this too there is a basis in śruti.
+स यद्यदेवासृजत तत्तदत्तुमध्रियत सर्वं ना अत्तीति तददितेरदितित्वं सर्वस्यैतस्यात्ता भवति सर्वमस्यान्नं भवति य एवमेतददितेरदितित्वं वेद (*sa yadyadevāsṛjata tattadattumadhriyata sarvaṃ nā attīti tadaditeradititvaṃ sarvasyaitasyāttā bhavati sarvamasyānnaṃ bhavati ya evametadaditeradititvaṃ veda*)
+(Bṛ. U. 8-2-5) *[as supplied: so printed]*
+Prajāpati began to eat again, in the form of food, whatever he had himself created. That is his Aditi (the Infinite) nature. The whole universe is his food. As described in such sentences, the Lord who is the dissolver dissolves the whole universe again within himself; hence this epithet होतुः (*hotuḥ*).
+
 ---
 
-**Progress note:** Done through printed p. 290. Asvamedha concluding remarks (Sankhayana, animals, fruits), Sukta 164 introduction, anukramani, metres, deities
+**Progress note:** Done through printed p. 296. Sukta 164 Rk 1: header, Samhita/Pada/bhashya, Pratipadartha, special topics (Brihaddevata, Nirukta, Aditi story, adhyatma)
