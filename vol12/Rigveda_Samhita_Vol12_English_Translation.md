@@ -8422,6 +8422,155 @@ In the same way, the nature of Āditya described in the 5th, 6th and 7th Ṛks o
 ईं (*īṃ*)—ordinarily this word has no meaning. अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti*)
 (Ni. 1-9), that is, the word ईं (*īṃ*) does not have a separate meaning of its own. This word, in many places *(the sentence breaks off at the end of the page and continues in the next window)*
 
+### Printed p. 336
+*Running head: 336 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+[Continuing from the previous page:] ...is used merely to complete the sentence. Although this is the explanation given in the Nirukta, in the present Ṛk it is used to point to a definite indication, namely एतद्वक्ष्यमाणं तत्त्वं (*etadvakṣyamāṇaṃ tattvaṃ*) ("the truth that is about to be told").
+
+वामस्य (*vāmasya*)—by the word वननीयस्य (*vananīyasya*) the attractive form of Āditya is described. This is the outer form of Āditya. Within such an outer disc lies the supreme abode of the Supreme Self, which is visible to no one
+
+*Grammatical process (Vyākaraṇa-prakriyā)*
+
+ब्रवीतु (*bravītu*)—the root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*). A form ending in the third person singular of loṭ. Because it stands after a finite verb, the nighāta accent comes.
+
+वेद (*veda*)—the root विद ज्ञाने (*vida jñāne*). When tip comes in the third person singular of laṭ, by विदो लटोवा (*vido laṭovā*) (Pā. Sū. 3-4-83) it takes the substitute ṇal. By पुगंतलघूपधस्य च (*pugaṃtalaghūpadhasya ca*) the root's light penultimate takes guṇa. Because of the connection with yad, the nighāta accent does not come. Because the suffix is lit, by लिति (*liti*) the udātta accent falls on the syllable before the suffix.
+
+वेः (*veḥ*)—the root वी गत्यादिषु (*vī gatyādiṣu*). To it the Aunādika suffix i. The ṭi (ī) of the root is dropped; it becomes udātta by the suffix accent. A form ending in the genitive singular.
+
+शीर्षः (*śīrṣaḥ*)—by शीर्षन् छंदसि (*śīrṣan chaṃdasi*) (Pā. Sū. 6-1-60) the word शिरः (*śiraḥ*) has, as an alternative, the word śīrṣan, which is fixed as final-udātta. When the genitive singular follows, by अल्लोपोऽनः (*allopo 'naḥ*) the vowel a of अनिन (*anina*) [sic; as supplied] is dropped. By the udātta-nivṛtti accent the case ending becomes udātta.
+
+दुह्रते (*duhrate*)—the root दुह प्रपूरणे (*duha prapūraṇe*). In the third person plural of laṭ, the suffix jha. luk for śap. By आत्मनेपदेष्टनतः (*ātmanepadeṣṭanataḥ*) (Pā. Sū. 7-1-5) [as supplied] the suffix takes the substitute ata, and ṭi takes e. By बहुलं छंदसि (*bahulaṃ chaṃdasi*) it takes the augment ruṭ; because it is ṭit, it comes as the initial part. Because it stands after a finite verb, the nighāta accent comes.
+
+वसानाः (*vasānāḥ*)—the root वस आच्छादने (*vasa ācchādane*). The substitute śānac for laṭ. Because the root is anudāttet, by तास्यनुदात्तेत् (*tāsyanudāttet*) (Pā. Sū. 6-1-186) the suffix becomes anudātta, and therefore the accent of the root remains.
+
+पदा (*padā*)—by ऊडिदंपदादि- (*ūḍidaṃpadādi-*) (Pā. Sū. 6-1-171) the case ending takes the udātta accent.
+
+अपुः (*apuḥ*)—the root पा पाने (*pā pāne*). In the third person plural of luṅ, the suffix jhi. When the substitute sic has come for च्चिगॆ (*ccigè*) [as supplied], by गातिस्थासिच— (*gātisthāsica—*) (Pā. Sū. 2-4-77) [as supplied] luk for it, and by आतः (*ātaḥ*) (Pā. Sū. 3-4-110) *(the sentence continues on the next page)*
+
+### Printed p. 337
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫ ] Ṛgveda-saṃhitā 337 (as supplied).*
+
+...the substitute us for jhi. By the sūtra उस्यपदांतात् (*usyapadāṃtāt*) (Pā. Sū. 6-1-96) the following form (para-rūpa). The augment aṭ to the stem. The nighāta accent of a finite verb comes. ॥ 7 ॥
+
+*[stray line as supplied: This image contains no text. It is a decorative graphic design element consisting of swirls and curves with a small crown-like shape at the top center.]*
+
+#### Ṛk 8
+**॥ संहितापाठः ॥**
+> मा॒ता पि॒तर॑मृ॒त आ ब॑भाज धी॒त्यग्रे॒ मन॑सा॒ सं हि ज॒ग्मे ।
+> सा बी॑भ॒त्सुर्गर्भ॑रसा॒ निवि॑द्दा॒ नम॑स्वंत॒ इदु॑पवा॒कमी॑युः ॥
+> ॥ ८ ॥
+
+> *mātā pitaramṛta ā babhāja dhītyagre manasā saṃ hi jagme |*
+> *sā bībhatsurgarbharasā nividdā namasvaṃta idupavākamīyuḥ ‖*
+> *‖ 8 ‖*
+*[as supplied: a garbled label पडॆपाठि (*paḍèpāṭhi*) stands here, before the label of the Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> माता । पितरं । ऋते । आ । बभाज । धीती । अग्रे । मनसा । सं । हि । जग्मे ।
+> सा । बीभत्सुः । गर्भरसा । निविद्धा । नमस्वंतः । इत् । उपवाकं । ईयुः ॥ ८ ॥
+**॥ सायणभाष्यम् ॥**
+> माता सर्वस्य निर्मात्री पृथिवी पितरं पालकं द्युलोकं तत्स्थं । द्युलोकस्थमादित्यमित्यर्थः । तमा बभाज । आभजते । किमर्थं । ऋत उदके यज्ञे वा
+> निमित्तभूते सति । केन द्वारेण । धीती धीत्या कर्मणा यागादिरूपेण । स्वकीयेनाज्यसोमादिहविषा तर्पयतीत्यर्थः । अग्रे ततः पूर्वं पिता च मनसास्यामभिप्रायवता चेतसा सं जग्मे हि । संश्लिष्टो वर्तते खलु । वृष्टिमकरोदित्यर्थः ।
+> अनंतरं सा माता बीभत्सुर्गर्भबंधनेच्छावती गर्भरसा गर्भरसेन गर्भोत्पत्ति निमित्तेन रसेन निविद्दा नितरां विद्यासीत् । यद्वा । गर्भे रस ओषध्याद्युत्पादनसमर्थमुदकं यस्याः सा तादृश्युदकेनात्यंतं क्लिन्ना निविद्दा कृषीवलैर्हलमुखेन नितरां
+> विदारिता भवति बीजावासार्थं । अत्रायं समाधिः । या काचन योषिदपत्यार्थं
+> स्वपतिं युवानं यौति स च तस्यामनुरागयुक्तः संगतो भवति सा चांतर्वती
+> सती पुत्राञ्जनयतीति तद्वदत्रापि । अनंतरं नमस्वंत इद्भाविव्रीहिप्रियंग्वाद्यन्नवंत
+> एवोपवाकमुपेत्य वचनं परस्परं सम्यगभिवृद्धानि सस्यानीति वचनमीयुः । प्राप्पुवंति । यद्वा । हनिर्लक्षणान्नवंत उपेत्य वचनं प्रैषादिरूपमीयुः । वृष्टौ
+> सत्यां सस्यादिद्वारा यागमनुतिष्ठेयुरित्यर्थः ॥
+
+> *mātā sarvasya nirmātrī pṛthivī pitaraṃ pālakaṃ dyulokaṃ tatsthaṃ | dyulokasthamādityamityarthaḥ | tamā babhāja | ābhajate | kimarthaṃ | ṛta udake yajñe vā*
+> *nimittabhūte sati | kena dvāreṇa | dhītī dhītyā karmaṇā yāgādirūpeṇa | svakīyenājyasomādihaviṣā tarpayatītyarthaḥ | agre tataḥ pūrvaṃ pitā ca manasāsyāmabhiprāyavatā cetasā saṃ jagme hi | saṃśliṣṭo vartate khalu | vṛṣṭimakarodityarthaḥ |*
+> *anaṃtaraṃ sā mātā bībhatsurgarbhabaṃdhanecchāvatī garbharasā garbharasena garbhotpatti nimittena rasena nividdā nitarāṃ vidyāsīt | yadvā | garbhe rasa oṣadhyādyutpādanasamarthamudakaṃ yasyāḥ sā tādṛśyudakenātyaṃtaṃ klinnā nividdā kṛṣīvalairhalamukhena nitarāṃ*
+> *vidāritā bhavati bījāvāsārthaṃ | atrāyaṃ samādhiḥ | yā kācana yoṣidapatyārthaṃ*
+> *svapatiṃ yuvānaṃ yauti sa ca tasyāmanurāgayuktaḥ saṃgato bhavati sā cāṃtarvatī*
+> *satī putrāñjanayatīti tadvadatrāpi | anaṃtaraṃ namasvaṃta idbhāvivrīhipriyaṃgvādyannavaṃta*
+> *evopavākamupetya vacanaṃ parasparaṃ samyagabhivṛddhāni sasyānīti vacanamīyuḥ | prāppuvaṃti | yadvā | hanirlakṣaṇānnavaṃta upetya vacanaṃ praiṣādirūpamīyuḥ | vṛṣṭau*
+> *satyāṃ sasyādidvārā yāgamanutiṣṭheyurityarthaḥ ‖*
+> [22]                                                                    [ Vol. 12
+*[Printed at the foot of the page, as supplied: "[22]   [ Vol. 12" (a signature mark).]*
+
+*Gist:* Earth serves the heavenly sun through sacrifice for rain; he rains; the soaked earth is ploughed, and sacrificers voice praise for the coming crops.
+
+### Printed p. 338
+*Running head: 338 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಆ ೨೨. ಸೂ. ೧೬೪] (as supplied; "ಆ" stands for "ಅ." here).*
+
+*[as supplied: a garbled label प्रतिकदार्थ (*pratikadārtha*) stands here, before the label Pratipadārtha.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+माता (*mātā*)—the earth, the maker (of all); ऋते (*ṛte*)—for water; धीत्या (*dhītyā*)—by the rite in the form of sacrifice etc.; पितरं (*pitaraṃ*)—the protector, the Āditya who is in the heaven-world; आ बभाज (*ā babhāja*)—she served. (पिता (*pitā*)—Āditya.) अग्रे (*agre*)—even prior to this; मनसा (*manasā*)—with a mind (that knew the earth's wish); सं जग्मे हि (*saṃ jagme hi*)—had indeed formed the resolve to produce rain, or: sent down the rain beforehand. सा (*sā*)—the earth; बीभत्सुः (*bībhatsuḥ*)—with the desire to conceive; गर्भरसा (*garbharasā*)—and with the sap that is the means of the origin of the embryo; निविद्धा (*nividdhā*)—became united. इत् (*it*)—immediately after that; नमस्वंतः (*namasvaṃtaḥ*)—(all the sacrificers) who looked forward to the rice and other grain that will surely grow; उपवाकं (*upavākaṃ*)—words of praise accompanied by congratulation; ईयुः (*īyuḥ*)—they exchange.
+
+*[as supplied: a garbled label धनार्थ (*dhanārtha*) stands here, before the label Bhāvārtha.]*
+**भावार्थ (Bhāvārtha)**
+The earth, the maker of the world, served, for the sake of water, by the rite in the form of sacrifice etc., Āditya who abides in the heaven-world. Even before that, Āditya, with a mind that knew the earth's wish, sent down rain. The earth became united with the desire to conceive and with the sap that is the means of the origin of the embryo. Immediately, all the sacrificers, who looked forward to the rice and other grain that will surely grow hereafter, exchanged words of congratulation with one another.
+
+**Printed English**
+The mother, (earth), worships the father, (sun). with [sic] holy rites, for the sake of water; but he has anticipated (her wants) in his mind ; whereupon, desirous of progeny, she is penetrated by the dews of impregnation, and, {all} [sic] expectant of abundance, exchange words (of congratulation).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk the conjugal relation between Earth and Āditya is stated, and the manner of love in that conjugal union and the nature of the fruit of that love are made known. This is just what Sāyaṇa explains in the bhāṣya with the words “या काचन योषिदपत्यार्थं स्वपतिं युवानं यौति स च तस्यामनुरागयुक्तः संगतो भवति सा चांतर्वत्नी सती पुत्रान् जनयतीति तद्वदत्रापि (*yā kācana yoṣidapatyārthaṃ svapatiṃ yuvānaṃ yauti sa ca tasyāmanurāgayuktaḥ saṃgato bhavati sā cāṃtarvatnī satī putrān janayatīti tadvadatrāpi*)” [that is: when a woman who desires her husband's love desires, for the sake of a son, union with her husband, and the husband too, being extremely affectionate towards her, fulfils her wish, then she becomes pregnant and obtains a son]; in the same way the woman in the form of Earth showed love towards the husband in the form of Āditya, obtained in return his love as well, and as a result obtained a fruit in the form of food—so it is explained.
+
+### Printed p. 339
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫. ] Ṛgveda-saṃhitā 339 (as supplied).*
+
+माता (*mātā*)—सर्वस्य निर्मात्री पृथिवी (*sarvasya nirmātrī pṛthivī*); that is, the Earth, who creates everything.
+
+तद्यदुपयामेन ग्रहा गृह्यंते अनय्येव तद्गृह्यंतेऽथ यद्योन् सादयतीयं वा अस्य सर्वस्य योनिरस्यै वा इमाः प्रजाः प्रजाताः ॥ तं वा एतग्ं रेतो भूतग्ं सोममृत्विजो बिभ्रति यद्वा अयोन् रेतः सिच्यते प्र वै तन्नीयतेऽथ यद्योन् सादयत्यस्यामेव तत्सादयति (*tadyadupayāmena grahā gṛhyaṃte anayyeva tadgṛhyaṃte 'tha yadyon sādayatīyaṃ vā asya sarvasya yonirasyai vā imāḥ prajāḥ prajātāḥ ‖ taṃ vā etagṃ reto bhūtagṃ somamṛtvijo bibhrati yadvā ayon retaḥ sicyate pra vai tannīyate 'tha yadyon sādayatyasyāmeva tatsādayati*)
+(Śa. Brā. 4-1-2-9 to 10)
+The upayāma cup is taken with the help of this Earth. And since this Earth is the womb for the birth of all creatures and is the mother, he places the upayāma cup in the womb itself. Whatever is placed in the womb is as good as placed in the Earth—thus the point that Earth is the mother of all beings is described. If Earth is the mother, then heaven is the father—thus the conjugal relation of heaven and earth is shown. But since in the present Ṛk the relation between Āditya and Earth is stated, it need not be understood that there is a difference between the relation of heaven and earth and the relation of Āditya and earth.
+
+उद्वयं तमसस्परीति पाप्मा वै तमः पाप्मानमेव तमोऽपहते स्वः पश्यंत उत्तरमित्ययं वै लोकोऽद्ध्य उत्तरोऽस्मिन्नेव लोके प्रतितिष्ठति देवं देवत्रा सूरमगन्मज्योतिरुत्तममिति स्वर्गो वै लोकः सूरो ज्योतिरुत्तमग्ग् स्वर्ग एव लोकेऽंततः प्रतितिष्ठति (*udvayaṃ tamasasparīti pāpmā vai tamaḥ pāpmānameva tamo 'pahate svaḥ paśyaṃta uttaramityayaṃ vai loko 'ddhya uttaro 'sminneva loke pratitiṣṭhati devaṃ devatrā sūramaganmajyotiruttamamiti svargo vai lokaḥ sūro jyotiruttamagg svarga eva loke 'ṃtataḥ pratitiṣṭhati*)
+(Śa. Brā. 14-3-1-28)
+Sūra, the most brilliant of all the shining gods, is himself the world of the atmosphere (antarikṣa). Since he is eternally established in the atmosphere, there is complete unity between him and that world. Since identity is stated thus, whatever sense there is in stating a conjugal relation between Āditya and Earth, the same sense there is in stating a conjugal relation between Earth and the atmosphere. Therefore,
+
+अथ यत्राहोपहूते द्यावापृथिवी इति । तदग्नीध आदधाति तदग्नीत्पाश्नात्युपहूता पृथिवी मातोप मां पृथिवी माता ह्वयतामग्नि राग्नीध्राहोपहूतो द्यौष्टितोप मां द्यौष्टिता ह्वयतामग्नि राग्नीध्रात्स्वाहेति द्यावा पृथिव्यो वाएष यदाग्नीध्रः (*atha yatrāhopahūte dyāvāpṛthivī iti | tadagnīdha ādadhāti tadagnītpāśnātyupahūtā pṛthivī mātopa māṃ pṛthivī mātā hvayatāmagni rāgnīdhrāhopahūto dyauṣṭitopa māṃ dyauṣṭitā hvayatāmagni rāgnīdhrātsvāheti dyāvā pṛthivyo vāeṣa yadāgnīdhraḥ*)
+(Śa. Brā. 1-8-1-41)
+
+### Printed p. 340
+*Running head: 340 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+When the Hotṛ recites “Heaven and Earth have been invoked here” and hands over to the Āgnīdhra, the Āgnīdhra says: “Earth, the mother, has been invoked here; may she likewise invite me too; since I have taken the Āgnīdhra seat, I am Agni himself. Likewise the father, the deity of the heaven-world and so on, has been invoked.” In this way, Heaven and Earth are indicated as father and mother in many places. In such contexts “father” may mean the heaven-world, or Āditya who abides in the heaven-world. For example—
+
+पिता नोऽसि पिता नो बोधीति । एष वै पिता य ! एष तपत्येष उ प्रवर्ग्यः (*pitā no 'si pitā no bodhīti | eṣa vai pitā ya ! eṣa tapatyeṣa u pravargyaḥ*) *[as supplied: the text has य ! (*ya !*) before एष तपत्येष (*eṣa tapatyeṣa*)]*
+(Śa. Brā. 14-1-4-15)
+“You are our father. Be our father. Lo, the Āditya who shines in the atmosphere is our father, and the Pravargya is Āditya”—thus Āditya, who abides in the atmosphere, is indicated as the father, and so on.
+
+In this way the conjugal love, prior in time, of the two who are the mother and father of the creatures of the world is described in the present Ṛk. In many contexts even worldly couples are accustomed to compare themselves to Heaven and Earth and to describe their ultimate relationship. For example—
+
+द्यौरहं पृथिवी त्वं तावेहि संरंभावहै (*dyaurahaṃ pṛthivī tvaṃ tāvehi saṃraṃbhāvahai*)
+(Bṛ. U. 6-4-20)
+द्यौरहं पृथिवी त्वग्ं रेतोऽहग्ं रेतोभृत्त्वं (*dyaurahaṃ pṛthivī tvagṃ reto 'hagṃ retobhṛttvaṃ*) .... .... .... ।
+(Tai. Ekāgni-kāṇḍa 1-3)
+“We two are Heaven and Earth; let us two come together and strive for the begetting of offspring”—thus the husband says, addressing his wife. In this way in many places the conjugal relation of the Āditya-world and Earth is described. These two, the primal couple, are the father and mother of the world. Of them it is said that the mother served the father with धीति (*dhīti*).
+
+धीत्या (*dhītyā*)—यागादिरूपेण कर्मणा (*yāgādirūpeṇa karmaṇā*); that is, by rites in the form of sacrifice etc. The word धीति (*dhīti*) has two meanings, कर्म (*karma*) (rite) and प्रज्ञा (*prajñā*) (insight). [In the Nirukta (Ni. 3-8) this word is also read among the names of the fingers.] The author of the Nirukta has cited two Ṛks in which the two meanings, rite and insight, occur.
+
+सारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवसेम धीतिभिः (*sārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivasema dhītibhiḥ*) ।
+(Ṛ. Saṃ. 6-61-2)
+In this Ṛk धीतिभिः (*dhītibhiḥ*) is explained as कर्मभिः (*karmabhiḥ*), and in
+
+ऋतस्य हि शुरुधः संति पूर्वीर्यतस्य धीतिर्वृजिनानि हंति (*ṛtasya hi śurudhaḥ saṃti pūrvīryatasya dhītirvṛjināni haṃti*) ॥
+(Ṛ. Saṃ. 4-23-8) *(the sentence continues on the next page)*
+
+### Printed p. 341
+*Running head: [ಆ. ೨. ಆ. ೩. ವ. ೧೫ ] Ṛgveda-saṃhitā 341 (as supplied; "ಆ" stands for "ಅ." here).*
+
+...here it is explained as प्रज्ञा (*prajñā*). In some places this word is also used in the sense of praise. In the present Ṛk it means a rite in the form of sacrifice.
+
+गर्भरसा (*garbharasā*)—गर्भोत्पत्ति निमित्तेन रसेन निविधा नितरां विद्या असीत् (*garbhotpatti nimittena rasena nividhā nitarāṃ vidyā asīt*) *[as supplied: निविधा (*nividhā*); the bhāṣya has निविद्धा (*nividdhā*)]*. Explaining that she became completely united with the sap that is the means of the origin of the embryo, Sāyaṇa has said:
+गर्भे रसः ओषध्याद्युत्पादनसमर्थमुदकं यस्याः सा तादृशी उदकेन अत्यंतं क्लिन्ना निविद्धा कृषीवलैर्हलमुखेन नितरां विदारिता भवति (*garbhe rasaḥ oṣadhyādyutpādanasamarthamudakaṃ yasyāḥ sā tādṛśī udakena atyaṃtaṃ klinnā nividdhā kṛṣīvalairhalamukhena nitarāṃ vidāritā bhavati*) ।
+that is, having held in her womb the water that is the means of the origin of plants, herbs and so on—that is, after the whole earth has been drenched with that water—she is ploughed by the farmers and made ready for procreation in the form of crop-wealth.
+
+उपवाकं (*upavākaṃ*)—this word has been explained in two ways. First, उपेत्य वचनं परस्परं सम्यगभिवृद्धानि सस्यानीति वचनं (*upetya vacanaṃ parasparaṃ samyagabhivṛddhāni sasyānīti vacanaṃ*) ("coming near and saying to one another: 'the crops have grown well'"). When kinsmen or friends meet one another, all the people also express their joy over the growth of crops and the increase of fruit-wealth, and in addition speak words of congratulation. This is generally a worldly expression of joy in the form of an upavacana (a "saying-to").
+
+उदू अयां उपवक्तेव बाहू हिरण्यया सविता सुप्रतीका । दिवो रोहांस्यरुहत्पथिव्या अरीरमत्पतयत्कच्चिदभ्वं (*udū ayāṃ upavakteva bāhū hiraṇyayā savitā supratīkā | divo rohāṃsyaruhatpathivyā arīramatpatayatkaccidabhvaṃ*)
+(Ṛ. Saṃ. 6-21-5) *[as supplied: पथिव्या (*pathivyā*)]*
+Here the attractive spreading of the rays of Savitṛ is compared to a worldly expression of joy: as a friend, to show his satisfaction at his friend's prosperity, raises his hands and congratulates him, so may he too rise with the spreading of his rays—so it is described. This amounts to stating the nature of the worldly upavāka.
+
+Besides this, there is also the recitation of a mantra, the so-called upavacana, which is part of a rite. That this meaning too is possible here, Sāyaṇa has said:
+हनिर्लक्षणान्नवंतः उपेत्य वचनं प्रैषादिरूपमीयुः । वृष्टौ सत्यां सस्यादिद्वारा यागमनुतिष्ठेयुरित्यर्थः (*hanirlakṣaṇānnavaṃtaḥ upetya vacanaṃ praiṣādirūpamīyuḥ | vṛṣṭau satyāṃ sasyādidvārā yāgamanutiṣṭheyurityarthaḥ*) ॥
+that is, after the fall of the rain the plants and so on grow, and when they approach the time of fruit, obtaining food in the form of oblation and performing the sacrifice, they recited mantras such as the praiṣa. This praiṣa mantra has to be recited by one of the ṛtviks. Which of them it is cannot be stated precisely. Because,
+
+वेषि ह्यध्वरीयतामुपवक्ता जनानां । हव्या च मानुषाणां (*veṣi hyadhvarīyatāmupavaktā janānāṃ | havyā ca mānuṣāṇāṃ*) ।
+(Ṛ. Saṃ. 4-9-5) *(the discussion continues in the next window)*
+
 ---
 
-**Progress note:** Done through printed p. 335. Rk 6 grammar; Rk 7 text, bhashya, pratipadartha; special topics on Aditya (Chandogya madhu-vidya, Brahmaloka), word im
+**Progress note:** Done through printed p. 341. Sukta 164 end of Sayana notes on Rk 7 grammar; Rk 8 (earth and sun) with special topics, pp. 336-341
