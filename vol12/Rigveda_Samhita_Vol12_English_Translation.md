@@ -7178,6 +7178,143 @@ There अज्जभिः बलैः बलकरैरुदकैः स�
 
 *(The Sāyaṇa-bhāṣya and the rest of this Ṛk follow in the next window.)*
 
+### Printed p. 273
+*Running head: 273 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 13] (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+> हे अर्वन् तव शरीरं पतयिष्णु पतनशीलं । व्याप्तमित्यर्थः । तथा तव चित्तं
+> मनो वात इव ध्रजीमान् शीघ्रगमनवायुरिव । तद्वच्छिघ्रगमनानुकूलमित्यर्थः । किंच तव शृंगाणि शिरसो निर्गताः शृंगस्थानीयाः केशाः पुरुत्रा पुरुषु
+> बहुषु प्रदेशेषु विष्ठिता विष्ठितानि विविधं स्थिताः । किंच त एवारण्येषु जर्भुराणा
+> मनोहराणि पूर्यमाणानि वा एवंभूताः केशाश्चरंति । यद्वा । अत्राश्वस्य शृंगाभावात् तद्वदुन्नतानि तेजांसि परिगृह्यंते ॥
+*Gist:* O horse, your body is pervading and swift, your mind is swift as the wind; the horn-like mane-hairs spread in many places and move about in the forests; or "horns" means lofty splendours.
+**प्रतिपदार्थ (Pratipadārtha)**
+अर्वन् (*arvan*)—O horse; तव (*tava*)—your; शरीरं (*śarīraṃ*)—body; पतयिष्णु (*patayiṣṇu*)—given to movement (so as to pervade everything); तव (*tava*)—your; चित्तं (*cittaṃ*)—mind; वात इव (*vāta iva*)—like the wind; ध्रजीमान् (*dhrajīmān*)—swift-going; तव (*tava*)—your; शृंगाणि (*śṛṃgāṇi*)—the manes that are on the neck and are like horns; पुरुत्रा (*purutrā*)—in many places; विष्ठिता (*viṣṭhitā*)—spread widely (and); अरण्येषु (*araṇyeṣu*)—in the forests; जर्भुराणा (*jarbhurāṇā*)—pervading in an attractive manner; चरंति (*caraṃti*)—move about.
+
+**Bhāvārtha** *[as supplied: the label is printed "ಧರ್ಮಾರ್ಥ"]*
+O horse, your body is given to movement, as if pervading everything. Your mind is swift like the wind. The manes on your neck, which are like horns, are spread widely in many places, and in the forests they move about pervading in an attractive manner.
+
+**Printed English**
+Your body, horse, is made for motion : your mind is rapid (in intention)
+as the wind : the hairs (of your mane) are tossed in manifold directions ; and
+spread beautiful in the forests.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+जर्भुराणाः (*jarbhurāṇāḥ*)—Formed from the root भुर् (*bhur*) in the sense of going, it means moving about as if pervading. The Nirukta-author has included the words formed from this root among the names of motion (Ni. 3-9). Since it indicates swift motion even among kinds of motion, it is used as an epithet of birds and the like, and of Agni.
+*[stray line as supplied: [18]]*
+*[stray line as supplied: Vol. 12]]*
+
+### Printed p. 274
+*Running head: 274 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೩.] (as supplied; "ಆ." where other pages have "ಅ.").*
+
+भुरण्युरिति क्षिप्रनाम । शकुनिर्भूरिमध्वानं नयति स्वर्गस्य लोकस्यापि वोळ्हा तत्संपाती भुरण्युरनेन पावकख्यातेन (*bhuraṇyuriti kṣipranāma | śakunirbhūrimadhvānaṃ nayati svargasya lokasyāpi voḷhā tatsaṃpātī bhuraṇyuranena pāvakakhyātena*)
+(Ni. 12-22)
+Because it flies a great distance, the bird is called bhuraṇyu. The root bhur can carry anyone even to heaven. Since it means both holding and nourishing, words formed from this root are also used in those senses—
+
+यन्नासत्या भुरण्यथो यद्वा देव भिषज्यथः । अयं वां वत्सो मतिभिर्न विंधते हविष्मंतं हि गच्छथः (*yannāsatyā bhuraṇyatho yadvā deva bhiṣajyathaḥ | ayaṃ vāṃ vatso matibhirna viṃdhate haviṣmaṃtaṃ hi gacchathaḥ*)
+(Ṛ. Saṃ. 8-9-6)
+Here सर्वं जगत्पोषयथः (*sarvaṃ jagatpoṣayathaḥ*), "you nourish the whole world", is said of the Aśvin gods. But use in the sense of going is more common.
+
+शृंगेव नः प्रथमा गंतमर्वाक् छफानिव जर्भुराणा तरोभिः । चक्रवाकेव प्रति वस्तोरुस्रार्वांचा यातं रथ्येव शक्रा (*śṛṃgeva naḥ prathamā gaṃtamarvāk chaphāniva jarbhurāṇā tarobhiḥ | cakravākeva prati vastorusrārvāṃcā yātaṃ rathyeva śakrā*)
+(Ṛ. Saṃ. 2-39-3)
+Here too the word जर्भुराणा (*jarbhurāṇā*) refers to the Aśvin gods; but here the meaning is swift going.
+
+आ विश्वतः प्रत्यंचं जिघर्म्मरक्षसा मनसा तज्जुषेत । मर्यश्रीः स्पृहयद्वर्णो अग्निर्नाभिमृशे तन्ना ३ जर्भुराणः (*ā viśvataḥ pratyaṃcaṃ jigharmmarakṣasā manasā tajjuṣeta | maryaśrīḥ spṛhayadvarṇo agnirnābhimṛśe tannā 3 jarbhurāṇaḥ*)
+(Ṛ. Saṃ.) *[as supplied: the reference is first printed incomplete]*
+(Ṛ. Saṃ. 2-10-5)
+As here Agni is described as pervading everything and swift-going, so in the present Ṛk also the meaning is that the horse's splendour moves about, pervading all the forest in an attractive manner.
+
+ध्रजीमान् (*dhrajīmān*)—The word ध्रजति (*dhrajati*) too is read among the names of motion (Ni. 3-9).
+
+हिरण्यकेशो रजसो विसारेऽहिर्धुनिर्वात इव ध्रजीमान् । शुचिभ्राजा उषसो नवेदा यशस्वतीरपस्युवो न सत्याः (*hiraṇyakeśo rajaso visāre 'hirdhunirvāta iva dhrajīmān | śucibhrājā uṣaso navedā yaśasvatīrapasyuvo na satyāḥ*)
+(Ṛ. Saṃ. 1-79-1)
+Here also, as the speed of Agni's going is compared to the speed of the wind in वात इव ध्रजीमान् (*vāta iva dhrajīmān*), so in the present Ṛk the speed of the horse's going is compared to the speed of the wind.
+
+### Printed p. 275
+*Running head: 275 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 13] (as supplied).*
+
+पुरुत्रा (*purutrā*)—This word may mean "being in many places" or "being of many kinds".
+शृंगाणि (*śṛṃgāṇi*)—शिरसो निर्गताः शृंगस्थानीयाः केशाः (*śiraso nirgatāḥ śṛṃgasthānīyāḥ keśāḥ*): it is explained as hair that has come out of the head and stands in the place of a horn. Or अथवा अश्वस्य शृंगाभावात् तद्वदुन्नतानि तेजांसि परिगृह्यंते (*athavā aśvasya śṛṃgābhāvāt tadvadunnatāni tejāṃsi parigṛhyaṃte*): since the horse has no horns, the purport may be the lofty splendours of the horse that are like them.
+
+*Grammatical Derivation (transcribed, not explained):*
+शरीरम् (*śarīram*)—root श्य हिंसायाम् (*śya hiṃsāyām*); by कै श्य पृ कटि (*kai śya pṛ kaṭi*) (Uṇ. Sū. 4-470) the suffix īran; taking that as the occasion, guṇa for the i of the root, with r following; the suffix having the marker n, the initial acute arises.
+पतयिष्णु (*patayiṣṇu*)—root पत्ल्य गतौ (*patlya gatau*) *[as supplied]*; when ṇic comes, by णेश्छंदसि (*ṇeśchaṃdasi*) (Pā. Sū. 3-2-137) the suffix iṣṇuc; guṇa of ṇic as occasioned by the suffix; ay-substitution; the suffix having the marker c, by चितः (*citaḥ*) (Pā. Sū. 6-1-163) the final acute arises.
+ध्रजीमान् (*dhrajīmān*)—root ध्रज गतौ (*dhraja gatau*); by सर्वधातुभ्यः (*sarvadhātubhyaḥ*) (with in) the suffix in; after it the suffix matup; this having the marker p, it is anudātta; the in having the marker n, the initial acute arises.
+शृंगाणि (*śṛṃgāṇi*)—root श्य हिंसायां (*śya hiṃsāyāṃ*); by शृणातेर्ह्रस्वश्च (*śṛṇāterhrasvaśca*) (Uṇ. Sū. 1-123) the suffix gan, and shortening of the root; the suffix takes the nuḍ-augment and the substitution as if with the marker k.
+विष्ठिता (*viṣṭhitā*)—vi is the prefix; root ष्ठागतिनिवृत्तौ (*ṣṭhāgatinivṛttau*); suffix kta; by द्यतिस्यतिमा (*dyatisyatimā*) (Pā. Sū. 3-4-40) i for the root; in the neuter, by शेश्छंदसि बहुलं (*śeśchaṃdasi bahulaṃ*) (Pā. Sū. 6-1-70) elision of śi.
+पुरुत्रा (*purutrā*)—by देवमनुष्य (*devamanuṣya*)… (Pā. Sū. 5-4-56) the suffix trā in the locative sense; by the suffix accent it has the final acute.
+जर्भुराणा (*jarbhurāṇā*)—when the form is neuter nominative plural, by शेश्छंदसि बहुलं (*śeśchaṃdasi bahulaṃ*) (Pā. Sū. 6-1-70) elision of śi.
+चरंति (*caraṃti*)—root चर गतिभक्षणयोः (*cara gatibhakṣaṇayoḥ*); laṭ, third person plural form; being after a word that is not a finite verb, the nighāta accent arises. ॥ 11 ॥
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of swirls and floral elements.]*
+
+### Printed p. 276
+*Running head: 276 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ ೨೨ ಸೂ. ೧೬೩.] (as supplied).*
+
+#### Ṛk 12
+**॥ संहितापाठः ॥**
+> उप॒ प्रागा॒च्छस॑नं वा॒ज्यर्वा॑ देव॒द्रीचा॒ मन॑सा॒ दीध्या॑नः ।
+> अ॒जः पु॒रो नी॑यते॒ नाभि॑र॒स्यानु॑ प॒श्चात्क॒वयो॑ यंति॒
+> रेभाः ॥ १२ ॥
+**॥ पदपाठः ॥**
+> उप । प्र । अगात् । शसनं । वाजी । अर्वा । देवद्रीचा । मनसा । दीध्यानः ।
+> अजः । पुरः । नीयते । नाभिः । अस्य । अनु । पश्चात् । कवयः । यंति । रेभाः ॥१२॥
+**॥ सायणभाष्यम् ॥**
+> अश्वमेधिके मध्यमेऽहन्यद्रिगुप्रैषे मा नो मित्र इति सूक्तानंतरमुप
+> प्रागाच्छसनमिति द्वे युचौ शंसनीये । सूत्रितं च । उपप्रागाच्छसनमिति द्वे ।
+> आ. १०-८ । इति ॥
+> अयमवर्णणकुशलो वाज्यश्वः शसनं विशसनस्थानमुप प्रागात् । उपप्रैति ।
+> किं कुर्वन् । देवद्रीचा मनसा देवान्गच्छता मनसा दीध्यानो ध्यायन् । कदा
+> देवानस्मदवयवेनार्चामि देवत्वं प्राप्नोमीति वा मनसि ध्यायन् । किंचास्य
+> पुरः पुरस्तान्नाभिर्नहनं । बंधुभूत इत्यर्थः । यद्वा । अस्य बंधनस्थानीयोऽविमुक्तत्वात् । एवंभूतोऽजः पुरो नीयते । पुरतः प्राप्यते । अन्वनुसृत्य पश्चादनंतरं । अत्र यद्यप्युभयोः पर्यवसितोऽर्थ एक एव तथाप्यजाश्वोभयानंतर्यत्वप्रकटनाय पदद्वयं । यद्वा । अन्विति क्रियया संबध्यते । कवयोऽनूचाना रेभाः स्तोतार ऋत्विजो यंति । गच्छंति । ये वा अनूचानास्ते कवय इति
+> श्रुतेः । यद्वा । कवय इति मेधाविनाम कविर्मनीषीति तन्नामसु पठितत्वात् । रेभ
+> इति स्तोतृनाम रेभो जरितेति तत्र पाठात् ॥
+*Gist:* On the middle day of the Aśvamedha, after the sūkta "mā no mitra", this Ṛk and the next are recited; the horse goes to the place of slaughter meditating on the gods, the goat is led before it, and the priests follow.
+**प्रतिपदार्थ (Pratipadārtha)**
+अर्वा (*arvā*)—having a (pleasing) gait; वाजी (*vājī*)—the horse; देवद्रीचा (*devadrīcā*)—approaching the gods; मनसा (*manasā*)—with the mind; दीध्यानः (*dīdhyānaḥ*)—meditating; शसनं (*śasanaṃ*)—the place of slaughter; उप प्रागात् (*upa prāgāt*)—approaches; अस्य (*asya*)—of this; नाभिः (*nābhiḥ*)—the kinsman-like; अजः (*ajaḥ*)—goat; पुरः (*puraḥ*)—
+
+### Printed p. 277
+*Running head: 277 Ṛgveda-saṃhitā [Aṣṭaka 2, Adhyāya 3, Varga 13] (as supplied; the print has a stray full stop before "೩").*
+
+in front of it; नीयते (*nīyate*)—is led; अनु (*anu*)—following both these; पश्चात् (*paścāt*)—afterwards; कवयः (*kavayaḥ*)—the wise; रेभाः (*rebhāḥ*)—singers (priests); यंति (*yaṃti*)—go.
+
+**भावार्थ (Bhāvārtha)**
+The horse of pleasing gait, meditating with a mind that approaches the gods, draws near to the place of slaughter. The goat, its kinsman, is led in front of it; following both of these, behind them go the wise priests.
+
+**Printed English**
+The swift horse approaches the place of immolation, meditating with mind intent upon the gods: the goat bound to him is led before him; after him follow the priests and the singers.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+On the middle day of the Aśvamedha sacrifice, when the Adhrigu-praiṣa mantra is recited, after reciting the sūkta beginning मा नो मित्र (*mā no mitra*), the two Ṛks beginning उप प्रागाच्छसनं (*upa prāgācchasanaṃ*) (the 12th and 13th Ṛks of this sūkta) are to be recited, as is explained by the sūtra उप प्रागाच्छसनमिति द्वे (*upa prāgācchasanamiti dve*) of the Āśvalāyana-śrauta-sūtra (Ā. 10-8 *[as supplied: abbreviation "ಆ."]*).
+
+This Ṛk describes the manner in which the horse goes to the place of slaughter. Because it goes into the presence of the gods, it is absorbed in meditation; it describes its grave and sacred gait, the form of the goat in front of it, and the priests going behind both. Here, in giving the meaning of the word नाभिः (*nābhiḥ*), the close connection between the horse and the goat becomes clear. Two kinds of meaning have been given for this word: नाभिः नहनं बंधुभूतः । यद्वा अस्य बंधनस्थानीयः अविमुक्तत्वात् (*nābhiḥ nahanaṃ baṃdhubhūtaḥ | yadvā asya baṃdhanasthānīyaḥ avimuktatvāt*). If it means "binding", then, since it is a kinsman, one meaning is a binder in the form of kinship; or, since at the time of the offering of the oblation the goat has to be offered first before the horse, another meaning, "its binding", is possible.
+
+अथ यः कपाले रसो लिप्त आसीत्सोऽजोऽभवदथ यत्कपालमासीत्सा पृथिव्यभवत् (*atha yaḥ kapāle raso lipta āsītso 'jo 'bhavadatha yatkapālamāsītsā pṛthivyabhavat*)
+(Śa. Brā. 6-1-1-11)
+When Prajāpati desired to grow in the form of the creation of the world, an egg arose from the waters and Brahma from it; this Brahma is the source of the beginning of the world; the tears *[as supplied: "ಆಶ್ರುವನ್ನೇ"]* that had spread around the egg the gods called "horse" (aśva), and the juice that was smeared on the shell of the egg became the goat (aja, "unborn"); this has been explained earlier with examples.
+
+### Printed p. 278
+*Running head: 278 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಆ. ೨೨ ಸೂ ೧೬೩] (as supplied; "ಆ." where other pages have "ಅ.").*
+
+Moreover,
+अथा जर्षभस्याजिनमास्त्रणाति । प्रजापतिर्ना वेष यदजः (*athā jarṣabhasyājinamāstraṇāti | prajāpatirnā veṣa yadajaḥ*)
+(Ka. Prā. 5-2-1-64 *[as supplied: printed "ಕ. ಪ್ರಾ"]*)
+in sentences like this, identity of Prajāpati and the goat is stated. Thus, because the goat is related to Prajāpati, who is the place of origin of the horse, and because the horse is directly related to the goat, the first meaning suits the word नाभि (*nābhi*). In the same way,
+
+अत्रा पूष्णः प्रथमो भाग एति यज्ञं देवेभ्यः प्रतिनेदयन्नजः (*atrā pūṣṇaḥ prathamo bhāga eti yajñaṃ devebhyaḥ pratinedayannajaḥ*)
+(Ṛ. Saṃ. 1-162 4 *[as supplied: hyphen missing before the last number]*)
+
+अजा अन्यस्य वह्नयो हरी अन्यस्य संधृता । ताभ्यां वृत्राणि जिघ्नते (*ajā anyasya vahnayo harī anyasya saṃdhṛtā | tābhyāṃ vṛtrāṇi jighnate*)
+(Ṛ. Saṃ. 6 57 *[as supplied: no hyphen]*)
+
+in Ṛks like these, since there is the injunction that before the oblation of the horse a goat must be bound as an offering to the god Pūṣan, the second meaning also becomes possible.
+
+शसनं (*śasanaṃ*)—विशसनस्थानं (*viśasanasthānaṃ*): the post (place) in the sacrifice where the animal is slaughtered *[as supplied: printed "ಸ್ತಕವು"]*.
+देवद्रीजा (*devadrījā*) *[as supplied: so printed; the Ṛk has देवद्रीचा (*devadrīcā*)]*—देवान् अंचता देवतापरायणेन श्रद्धायुक्तन (*devān aṃcatā devatāparāyaṇena śraddhāyuktana*): with a mind that is single-pointed, placing faith and devotion in the gods alone, intent on their service, and approaching them alone; this is the meaning. The words देवयंतः (*devayaṃtaḥ*), देवद्रीची (*devadrīcī*) and so on give the same meaning.
+कवयः (*kavayaḥ*)—Two kinds of meaning have been given for this word here. First, quoting the Śruti sentence ये ना अनू चानास्ते कवयः (*ye nā anū cānāste kavayaḥ*) *[as supplied: so printed]*, it is explained as scholars who have studied the Veda together with the Vedāṅgas; secondly, quoting the Nirukta sentence कविः, मनीषी (*kaviḥ, manīṣī*) (Ni. 3-15) *[as supplied: so printed]*, it is explained as "intelligent". The author of the Nirukta has explained the word: मेधावी कविः क्रांतदर्शनो भवति कवतेर्वा (*medhāvī kaviḥ krāṃtadarśano bhavati kavatervā*) (Ni. 12-13): the name is well known either because of the insight that produces inspiration, or because he is a praiser.
+रेभः (*rebhaḥ*)—रेभः, जरिता (*rebhaḥ, jaritā*) (Ni. 3-16): these words are read among the names of praisers.
+
+*Grammatical Derivation (transcribed, not explained):*
+अगात् (*agāt*)—root इण् गतौ (*iṇ gatau*); luṅ in the present sense in the Vedic manner; by इणो गालुणु (*iṇo gāluṇu*) (Pā. Sū. 2-4-45) the substitute गा (*gā*) *[as supplied: the print has "ಗಾವೇಶ"]* for the root; the tiṅanta nighāta accent arises. *(The grammatical notes on this Ṛk continue in the next window.)*
+
 ---
 
-**Progress note:** Done through printed p. 272. Ṛk 9 end; Ṛk 10 (sun's horses) with Special Topics and grammar; Ṛk 11 blocks
+**Progress note:** Done through printed p. 278. Ṛk 11 Sāyaṇa-bhāṣya, Special Topics, grammar; Ṛk 12 (goat and priests) with Special Topics
