@@ -14182,6 +14182,122 @@ From Mādhyamikā Vāk the clouds pour down rain abundantly. By it the creatures
 **Printed English**
 From her the clouds shed abundant rain, and thence (the pople [sic] of) the four quarters live: thence the moisture spreads (to the grain), and the universe exists.
 
+### Printed p. 599
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨.] ಋಗ್ವೇದಸಂಹಿತಾ 599] (as supplied).*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+समुद्राः—वृष्टु दकसमुंदनाधिकरणभूता मेघाः (*samudrāḥ—vṛṣṭu dakasamuṃdanādhikaraṇabhūtā meghāḥ*): the meaning is the clouds that are the support of the flow of rain-water. Showing the etymology of this word, the Nirukta author says,
+समुद्रः कस्मात्समुद्रवंत्यस्मादापः समभिद्रवंत्येनमापः संमोदंतेऽस्मिन् भूतानि समुदको भवति समुनत्तीति वा (*samudraḥ kasmātsamudravaṃtyasmādāpaḥ samabhidravaṃtyenamāpaḥ saṃmodaṃte 'smin bhūtāni samudako bhavati samunattīti vā*) (Ni. 2-10)
+The word samudra is formed in these ways: from the root dru, meaning "to move", together with the two preverbs sam and ud, giving the sense that (the waters) rise up and flow; or from the same root dru together with the preverbs sam and abhi, giving the sense that the waters (of the rivers) run towards it; or from the root mud, meaning "to rejoice", together with the preverb sam, giving the sense that the aquatic creatures rejoice in it; or because it is a treasury for water; or from the root ud, meaning "to wet", together with the preverb sam, giving the sense of drenching.
+Next, showing the difference between the earthly ocean and the samudra that is a synonym of the atmosphere, the Nirukta author speaks of those who explain it without knowing the difference between the two and so leave room for doubt:
+तत्र समुद्र इत्येतत्पार्थिवेन समुद्रेण संदिह्यते (*tatra samudra ityetatpārthivena samudreṇa saṃdihyate*)
+Many, mistaking the samudra that is a synonym of the atmosphere for the earthly ocean, so interpret it; that is not right. Having said this, he cites in this context a story (itihāsa) to show the difference between the samudra that is a synonym of the atmosphere and the earthly one. This story is told on pages 54-55 of this same part.
+अद्भर्याति वरुणः समुद्रैर्युष्मा इच्छंतः शवसो नपातः (*adbharyāti varuṇaḥ samudrairyuṣmā icchaṃtaḥ śavaso napātaḥ*) (Ṛ. Saṃ. 1-167-14, as supplied)
+Here the word समुद्रैः (*samudraiḥ*) is an epithet of अद्विः (*adviḥ*) *[as supplied: so printed]*; the meaning is "by flowing waters". In the ṛk under consideration the meaning is the clouds that are the support of the rain-waters that flow.
+तस्याः समुद्रा अधि वि क्षरंति—वर्षंति मेघाः (*tasyāḥ samudrā adhi vi kṣaraṃti—varṣaṃti meghāḥ*): the Nirukta author explains that the clouds pour down rain (Ni. 11-41).
+
+### Printed p. 600
+*Running head: 600 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+प्रदिशश्चतस्रः—दिगाश्रयाणि भूतानि (*pradiśaścatasraḥ—digāśrayāṇi bhūtāni*) (Ni.): the purport is that the beings who rest on all the quarters live by it.
+अक्षरं-अक्षरमुदकं (*akṣaraṃ-akṣaramudakaṃ*): the word is used as a synonym of water. A special point is to be noted in the use of this word.
+अक्षरं न क्षरति न क्षीयते वाक्षयो भवति वाचोऽक्ष इति ना (*akṣaraṃ na kṣarati na kṣīyate vākṣayo bhavati vāco 'kṣa iti nā*) (printed reference: "సి. 13-12"; *[as supplied: the abbreviation is printed in this form]*)
+Since it is that which does not perish, that which is free of perishing, this word is used of the imperishable Self in ṛks such as (1-164-39). The root kṣar is used in the sense "to move about, to flow". In the ṛk under consideration the word akṣara is an epithet of the flowing water. In the same way,
+त्रिवर्तिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतं । त्रिर्नांद्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतं (*trivartiryātaṃ triranuvrate jane triḥ suprāvye tredheva śikṣataṃ | trirnāṃdyaṃ vahatamaśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvataṃ*) (Ṛ. Saṃ. 1-34-4)
+in this too akṣara means water. The Nirukta author also reads this word among the names of water, अक्षरा, स्रोतः, तृप्तिः (*akṣarā, srotaḥ, tṛptiḥ*) (Ni. 2-24) and so on. The meaning is: that which has a being that does not perish, that which gives life.
+
+*Vyākaraṇa-prakriyā (Grammar; transcribed as printed, not explained):*
+*[garbled label in the supplied text before the grammar label: ವ್ಯಾಕರಣಕ್ರಿಯಾ]*
+क्षरंति (*kṣaraṃti*)—the root क्षर संचलने (*kṣara saṃcalane*); laṭ, third person plural. Because it stands after an atiṅanta (verb-form), the nighāta accent occurs.
+जीवंति (*jīvaṃti*)—जीव प्राणधारणे (*jīva prāṇadhāraṇe*), the root; laṭ, third person plural; the tiṅanta-nighāta accent occurs. ‖ 42 ‖
+
+*[garbled label in the supplied text: ಸಂಹತಾದಾಳಿ]*
+
+#### Ṛk 43
+
+**॥ संहितापाठः ॥**
+
+> श॒क॒मयं॑ धू॒ममा॒राद॑पश्यं विषू॒वता॑ प॒र ए॒नाव॑रेण ।
+> उ॒क्षाणं॒ पृश्नि॑मपचंत वी॒रास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन् ॥
+> ॥ ४३ ॥
+
+> *śakamayaṃ dhūmamārādapaśyaṃ viṣūvatā para enāvareṇa |*
+> *ukṣāṇaṃ pṛśnimapacaṃta vīrāstāni dharmāṇi prathamānyāsan ‖*
+> *‖ 43 ‖*
+
+### Printed p. 601
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨. ] ಋಗ್ವೇದಸಂಹಿತಾ 601] (as supplied).*
+
+*[garbled label in the supplied text: ಪದಹಾರ (Pada-pāṭha)]*
+
+**॥ पदपाठः ॥**
+
+> शकमयं । धूमं । आरात् । अपश्यं । विषुवता । परः । एना । अवरेण ।
+> उक्षाणं । पृश्निं । अपचंत । वीराः । तानि । धर्माणि । प्रथमानि । आसन् ॥ ४३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> शकमयं शकृन्मयं शुष्कगोमयसंभूतं धूममारान्नातिदूर अपश्यं ।
+> दृष्टवानस्मि । दिवा धूमस्य दूरे दृश्यमानत्वात्स एव दर्शनविषयतयोक्तः । विषुवता व्याप्तिमतैनानेनावरेण निकृष्णेन धूमेन परः परस्तात्तत्कारणभूतमग्निमपश्यं ।
+> अहं यजमान इत्यर्थः । किंचोक्षाणं फलस्य सेक्तारं पृश्निं शुक्लवर्णं । प्राश्नुते
+> तेन फलमिति स्वयं प्राश्नुत इति वा पृश्निर्वल्लीरूपः सोमः । तं वीरा विविधेरणकुशला ऋत्विजोऽपचंत । अत्र धात्वर्थानादरेण तिज् प्रत्ययः करोत्यर्थः । स च
+> क्रियासामान्यवचनोऽत्रौचित्यादभिषवेण संपादितवंत इत्यर्थः । तानि तत्साधनानि
+> धर्माण्यनुष्ठानानि प्रथमानि प्रतमानि प्रकृष्टानि फलपर्यवसानीयान्यासन्। संपादितान्यभवन् ! यद्वा । सोम उक्षाभवत् पूर्वं तं देवाः शकृतापचन्यज्ञार्थे
+> तद्भवो धूमो मेघ आसीत् तदुच्यते । तत्परत्वेन वा मंत्रो व्याख्येयो
+> विचक्षणैः ॥
+
+*Gist:* The sacrificer saw the dung-smoke near and, beyond it, the fire; the priests prepared Soma; those rites were the first. Alternatively, an older story of the gods and a cloud.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+आरात् (*ārāt*)—close by; शकमयं धूमं (*śakamayaṃ dhūmaṃ*)—the smoke produced from dried cow-dung; अपश्यं (*apaśyaṃ*)—I have seen; विषुवता (*viṣuvatā*)—pervading; अवरेण (*avareṇa*)—and near; एन (*ena*) *[as supplied: the Pada has एना (*enā*)]*—by this smoke; परः (*paraḥ*)—(I have seen) also the fire, which is the cause of the smoke; उक्षाणं (*ukṣāṇaṃ*)—that which pours out fruit; पृश्निं (*pṛśniṃ*)—and of white form, Soma; वीराः (*vīrāḥ*) *[the dash is missing in the supplied text]*—the priests; अपचंत (*apacaṃta*)—have prepared; तानि (*tāni*)—those; धर्माणि (*dharmāṇi*)—observances and the like, which are the means to it; प्रथमानि (*prathamāni*)—as excellent ones; आसन् (*āsan*)—were accomplished.
+
+**भावार्थ (Bhāvārtha)**
+I have seen close by the smoke produced from dried cow-dung burnt by the sacrificial fire. By this pervading and near smoke I have seen also the fire that is the cause of the smoke. The priests have prepared the Soma, which pours out fruit and is of white form. The observances and the like that are the means to it were accomplished in an excellent manner.
+
+### Printed p. 602
+*Running head: 602 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪.] (as supplied; the second letter after ಮಂ. ೧. reads ಆ.).*
+
+**Printed English**
+I behold near (me) the smoke of burning cow-dung; and by that all-pervading mean (effect), discovered the cause (fire): the priests have dressed the Soma ox, for such are their first duties.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+Sāyaṇa has said that another meaning, besides what is stated above in the Bhāvārtha, may be given for this ṛk.
+सोम उक्षाभवत्पूर्वं तं देवाः शकृतापचन् । यज्ञार्थे तद्भवो धूमो मेघ आसीत् तदुच्यते । तत्परत्वेन वा मंत्रो व्याख्येयोऽयं विचक्षणैः (*soma ukṣābhavatpūrvaṃ taṃ devāḥ śakṛtāpacan | yajñārthe tadbhavo dhūmo megha āsīt taducyate | tatparatvena vā maṃtro vyākhyeyo 'yaṃ vicakṣaṇaiḥ*)
+Formerly the gods cooked Soma, the shedder of fruits, with dung. The smoke that arose from it for the sake of the sacrifice became a cloud. This matter is stated here. The wise may explain this mantra by pointing to that context as well.
+The explanation of the ṛk under consideration follows the meaning of शकमयं धूमं (*śakamayaṃ dhūmaṃ*). Sāyaṇa's meaning of शकृन्मयं शुष्कगोमयसंभूतं धूमं (*śakṛnmayaṃ śuṣkagomayasaṃbhūtaṃ dhūmaṃ*) is the smoke produced from dried cow-dung. The context of the story that he tells also indicates this same meaning. But since the name शकधूम (*śakadhūma*) is used elsewhere both as a proper name and as a significant name, it is necessary to examine the various meanings the word bears in other Śruti passages.
+The scholar Monier-Williams, in his Sanskrit-English Dictionary, gives three meanings of this word and shows the authorities for all of them.
+1. (1) The smoke of burnt or burning cow-dung. [Kannada gloss:] the smoke produced from cow-dung (dried dung-cakes). Atharva-Veda.
+(2) Name of a Nakshatra. [Kannada gloss:] the name of a star. Atharva-Veda. *[the two entries are joined by a brace "}" in the print]*
+(3) A Priest who argues by means of cow-dung. [Kannada gloss:] a Brāhmaṇa who argues, taking cow-dung as his witness. (Kauśika-paribhāṣā-sūtra.)
+
+### Printed p. 603
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨. ] ಋಗ್ವೇದಸಂಹಿತಾ 603] (as supplied).*
+
+In the Bṛhaddevatā, referring to the ṛk under consideration, śaka is explained as cloud.
+मेघे शकस्तस्य धूमः सलिलं वास एव वा । सोम उक्षा भवंतस्य पावकाश्च त्रयो (*meghe śakastasya dhūmaḥ salilaṃ vāsa eva vā | soma ukṣā bhavaṃtasya pāvakāśca trayo*) (Bṛ. De. 4-41)
+The word śaka is used in the sense of cloud. Water is its smoke; or it may be the garment that covers the cloud. Soma is the bull (the shedder). In this way the meanings of the words śaka, dhūma and soma are given. The scholar "Mucdonell" *[sic, as supplied]*, in rendering this sentence of the Bṛhaddevatā, cites in his note the passage of the Meghadūta,
+“ धूमज्योतिस्सलिलमरुतां सन्निपातः क्व मेघः (*dhūmajyotissalilamarutāṃ sannipātaḥ kva meghaḥ*) .... .... .... .... ” (Meghadūta 5)
+and states that in that description too the idea suggested by śakadhūma is expressed. But in the Bṛhaddevatā it is said that the smoke itself is water. In the Atharva-Veda Śakadhūma is described as the king of the stars.
+यद्राजानं शकधूमं नक्षत्राण्यकृण्वत । भद्राहमस्मै प्रायच्छत्ततो राष्ट्रमजायत (*yadrājānaṃ śakadhūmaṃ nakṣatrāṇyakṛṇvata | bhadrāhamasmai prāyacchattato rāṣṭramajāyata*)
+All the stars made Śakadhūma their king, granted him an auspicious day, and said, "This is your sovereignty."
+भद्राहमस्तु नः सायं भद्राहं प्रातरस्तु नः । भद्राहमस्मभ्यं त्वं शकधूम सदा कृणु (*bhadrāhamastu naḥ sāyaṃ bhadrāhaṃ prātarastu naḥ | bhadrāhamasmabhyaṃ tvaṃ śakadhūma sadā kṛṇu*)
+Make our day, at noon, in the evening and in the morning, be accompanied by an auspicious atmosphere for us too.
+यो नो भद्राहमकरस्सायंप्रातरथो दिवा । तस्मै ते नक्षत्रराज शकधूम सदा नमः (*yo no bhadrāhamakarassāyaṃprātaratho divā | tasmai te nakṣatrarāja śakadhūma sadā namaḥ*) (Atharva-Veda 6-128-1 to 3)
+To you, Śakadhūma, king of the stars, who make for all of us an auspicious day in the evening, in the morning and at noon, we shall always bow.
+[There are variant readings in the passages cited here.]
+
+### Printed p. 604
+*Running head: 604 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧ ಅ ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+In examining the matter of Śakadhūma as it is stated in these sentences of the Atharva-Veda, the scholar Bloomfield has discussed the opinions of some other Western scholars and given his own explanation. Stating the opinion of Weber among them:
+" Weber, 'recognising शकधूम (*śakadhūma*), as the word on which the interpretation depends, takes it as equivalent to the शकमयधूम (*śakamayadhūma*) of R. V. I- 164-43, ' the smoke that rises from burning cow-dung ' a well-known fuel and surmises that it may be the first morning fire, kindled while the stars are still shining, and indicating by its rising or falling smoke the weather cf [sic] the breaking day."
+(American journal of Philology. Vol. VII. P. 486)
+According to the view of the scholar Weber (printed ವೀಬರ್), the Śakadhūma stated in the Atharva-Veda and the शकमयधूम (*śakamayadhūma*) stated in the Ṛk-saṃhitā are words of one meaning. What is described here is the smoke produced from dung-cakes rising into the atmosphere in the morning while the stars are still shining. From the manner in which this smoke goes upward, the nature of the weather of the day is known. Therefore Śakadhūma is a means of knowing the weather of each day. Explaining the meaning of the Atharva-Veda mantra 6-128-3 cited above, the scholar Whitney, who has rendered the Atharva-Veda into English, has stated his opinion in this way.
+One may conjecture that it is the Milky-way, which is not unlike a thin line of smoke drawn across the sky, that is the real king of asterisms, and that its imitation by a column of the heavy smoke of burning dung is what was relied on to counteract any evil influences from the asterisms; or the behaviour of such smoke, as rising upward or hanging low, may bave [sic] becn [sic] really a weather-sign.
+(Harvard Oriental Series. Vol. 7. P. 378.)
+The cluster of stars (Milky-way) that resembles in form the smoke produced from cow-dung is here designated Śakadhūma. The evil effects arising from the stars are averted by worshipping it. That is why the prayer भद्राहमस्तु नः सायं (*bhadrāhamastu naḥ sāyaṃ*) is made. Or, as Weber says, the rising and falling of the smoke may be described here. The line of smoke spreading upward in the atmosphere shows the nature of the weather of each day by its straight ascent and by its crooked spreading in accordance with the climate. The meaning is that this Śakadhūma is described in the ṛk under consideration also.
+In the Kauśika-paribhāṣā-sūtra (VIII. 17) the word शकधूम (*śakadhūma*) is used as a synonym for the Brahman priest, who plays the chief part in the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 598. Ṛk 41 Special Topics (Nirukta, Bṛhadāraṇyaka, Chāndogya on Vāk and hṛdayākāśa) and grammar; Ṛk 42 (tasyāḥ samudrā)
+**Progress note:** Done through printed p. 604. Ṛk 42 Special Topics (samudra, akṣara) and grammar; Ṛk 43 (śakamayaṃ dhūmam) with Special Topics on śakadhūma
