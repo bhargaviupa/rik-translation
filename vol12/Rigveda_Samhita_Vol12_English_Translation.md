@@ -4877,6 +4877,118 @@ May my desire be of itself accomplished, such as it has been entertained, that t
 
 मन्म (*manma*)—"mananīya" means "worthy of meditation". Although the literal sense of the word "manma" is "wish of the mind", in the sentences of the Ṛgveda-saṃhitā the use of this word is to denote a thing that shows an excellent longing. The Nirukta authors, quoting this same ṛk, have explained the meaning of this word as above (Ni., the number printed "೬. ೨೨"). In this context Durgācārya, explaining the word, explained मन्म-मननी (*manma-mananī*)यमर्थजातं । (*yamarthajātaṃ |*) *[the word is split over two lines]* as an "ādṛta" thing *[so printed, "ಆದೃತ", with the next sentence "ಅದೃತ"]*. The "adṛta" thing may be the fruit of the sacrifice, praise, or an oblation. In the present ṛk it means a fruit that is venerable and worthy of meditation. In sentences such as अग्निः प्रश्नेन मन्मना (*agniḥ praśnena manmanā*) (ಐ. ಬ್ರಾ. 1. 4, reference as printed with a stop) the superior sense of this word may also be noted. *[A stray signature "(12)" and "Vol. 12]" at the foot of the page is kept in kn.md as italic notes.]*
 
+### Printed p. 178
+
+*Running head: 178 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨.] (as supplied).* (Sūkta 162, Ṛk 7: the Special Topics continue.)
+
+विप्राः ऋषयः (*viprāḥ ṛṣayaḥ*)—two kinds of construction are given for this. First, for "viprāḥ" the separate meaning "intelligent priests" is given, and afterwards, making it an epithet of "ṛṣayaḥ", another meaning is given: "intelligent ones whose eye of knowledge is supernatural".
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses अगात् (*agāt*) (Pā. Sū. 2-4-45 and 2-4-77), अधायि (*adhāyi*), वीतपृष्ठः (*vītapṛṣṭhaḥ*) (Pā. Sū. 6-2-1), मदंति (*madaṃti*) and सुबंधुम् (*subaṃdhum*) (Pā. Sū. 6-2-119), with the accents; it ends with the mark ॥ ೭ ॥. *[The supplied text then has the machine-description line "This image contains no text. It is a decorative graphic design consisting of swirls and floral elements.", kept in kn.md as an italic note: an ornament.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+*[A picture (vol12/html/figures/fig1_line07814.jpg) stood at this place in the supplied text. I looked at it and zoomed in: it shows the Saṃhitā of this Ṛk. Read letter by letter, it agrees with the machine-read text except in the last word, where the picture has "ದೇವೇಷ್ವಸ್ತು" (देवेष्वस्तु (*deveṣvastu*)) and the machine text had "ದೇವೇಷ್ಟಸ್ತು"; kn.md is changed after the picture (the bhāṣya block keeps "ದೇವೇಷ್ಟಸ್ತು" as supplied; the Pada has "ದೇವೇಷು । ಅಸ್ತು"). The Saṃhitā block also had the head of p. 179 inside it; the page mark of p. 179 is supplied.]*
+
+> यद्वा॒जिनो॒ दाम॑ सं॒दान॒मर्व॑तो॒ या शी॑र्ष॒ण्या॑ रश॒ना॑
+> रज्जुरस्य ।
+> यद्वा॑ घास्य॒ प्रभृ॑तमा॒स्ये॒३॒॑३ तृणं॒ सर्वा॒ ता ते॒ अपि॒॑॑
+> देवेष्वस्तु ॥ ८ ॥
+
+> *yadvājino dāma saṃdānamarvato yā śīrṣaṇyā raśanā*
+> *rajjurasya |*
+> *yadvā ghāsya prabhṛtamāsye3 tṛṇaṃ sarvā tā te api*
+> *deveṣvastu ‖ 8 ‖*
+
+### Printed p. 179
+
+*Running head: [ಅ.೨.ಅ. ೩ ವ. ೮. ] ಸುಗ್ವೇದಸಂಹಿತಾ 179 (as supplied: "ಸುಗ್ವೇದ" for "ಋಗ್ವೇದ"; the head stood inside the Saṃhitā block without its page mark).*
+
+**॥ पदपाठः ॥**
+
+> यत् । वाजिनः । दाम । संदानं । अर्वतः । या । शीर्षण्या । रशना । रज्जुः । अस्य ।
+> यत् । वा । घ । अस्य । प्रभृतं । आस्ये । तृणं । सर्वा । ता । ते । अपि । देवेषु ।
+> अस्तु ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಸಾಯಣಭ-ಷ್ಯಂ", inside the Pada block); the standard label is inserted and the garbled word kept in kn.md as an italic note. Hyphenated line breaks in the block are joined. The Pratipadārtha and the Bhāvārtha stood inside the bhāṣya block after the garbled labels "ಪ್ರಸಿಹದಾರ್ಥ" and "ಧನಾರ್ಥ"; the standard labels are inserted, the garbled words kept as italic notes, and the texts moved out of the block.]*
+
+> वाजिनो गमनवतोऽश्वस्य यद्दाम ग्रीवाबद्धा रज्जुः । यच्च संदानं सम्य
+> गवच्छेदकं बंधकं पादबंधनं दामास्ति । या चास्य शीर्षण्या शिरसि बद्धा खलीनरज्जुरस्ति ॥ शिरः शब्दाद्भवे छंदसीति यत् । ये च तद्धिते । सा. ६-१-६१ । इति शीर्षन्भावः।
+> तित्स्वरितः ॥ यद्वा । घास्याश्वस्यास्यॆ मुखे प्रकृतं प्रहृतं प्रक्षिप्तं तृणमस्ति । घ
+> शब्दो हार्थे स च प्रसिद्ध्यर्थः । सर्वा सर्वाणि ता तानि सर्वाण्यपि हे अश्व ते तव
+> संबंधीनि देवेष्टस्तु । संतु । देवेषु मध्यॆ भवंतु । देवत्वं प्राप्नुवंतु वा ॥
+> वचनव्यत्ययः ॥ अत्रोपयुक्तानां सर्वेषां देवत्वं किल अश्वस्य तत्प्राप्तिर्नाशासनीया ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): whatever ropes bind the swift horse (halter, heel-rope, head-rope, girth) and the grass put in its mouth: may all be with you among the gods.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वाजिनः (*vājinaḥ*)—of roaming nature; अस्य अर्वतः (*asya arvataḥ*)—of this horse; यत् (*yat*)—which; दाम (*dāma*)—that which is to be tied to the neck *[printed "ಕತ್ತಿಗೆ"]*; संदानं (*saṃdānaṃ*)—that which is to be tied to the foot; या (*yā*)—which; शीर्षण्या (*śīrṣaṇyā*)—that which is to be tied to the neck *[printed "ಕುತ್ತಿಗೆಗೆ"]*; रशना (*raśanā*)—in the form of a girdle; रज्जुः (*rajjuḥ*)—a rope and the like, a means of binding; (अस्ति (*asti*)—there is); यद्वा घ (*yadvā gha*)—or perhaps; अस्य (*asya*)—of this horse; आस्यॆ (*āsyè*)—in the mouth; प्रभृतं (*prabhṛtaṃ*)—put; यत्ः तृणं (*yatḥ tṛṇaṃ*) *[so printed]*—whatever grass there is; ता सर्वा (*tā sarvā*)—all that also; ते (*te*)—with you; देवेष्टपि (*deveṣṭapi*) *[so printed]*—even when you are among the gods; अस्तु (*astu*)—be.
+
+**भावार्थ (Bhāvārtha)**
+
+Whatever means of binding there are, such as the ropes to be tied to the neck, to the foot and to the neck *[so in the supplied text]* and in the form of a girdle, of this roaming horse, and also whatever grass is put into the mouth of this horse, may all of it together be with this horse among the gods.
+
+### Printed p. 180
+
+*Running head: 180 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
+
+**Printed English translation**
+
+May the halter and the heel-ropes of the fleet courser, and the head-ropes, the girths, and any other (part of the harness); and the grass that has been put into the mouth; may all these be with you, (horse), amongst the gods. *[the line-end hyphenation "head-ropes" is printed over two lines]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The sacrificer who, by offering the horse as an oblation and performing the sacrifice, wishes to obtain wealth, valour and a good state, wishes that a good state and happiness may be obtained also by the horse, the means of his happiness. By the epithets वाजिनः अर्वतः (*vājinaḥ arvataḥ*) the independent movement of the horse and the speed of its movement are indicated, but दाम ; शीर्षणी, रशना (*dāma ; śīrṣaṇī, raśanā*) *[so printed, "ಶೀರ್ಷಣೀ"]* and the like indicate a bound condition. But the purport is that, although the horse made ready for the Aśvamedha and offered to the gods has these worldly bonds, they remain merely as ornaments and lead the horse among the gods. Here it is also prayed that the same happiness that arises from grazing on grass may continue uninterruptedly *[printed "ಅನುಸ್ಯೂತ"]*.
+
+*[The label of the grammar is garbled in the supplied text ("ವ್ಯಾಕರಣ ಕ್ರಿಯಾ"); the standard label is inserted and the garbled words kept in kn.md as an italic note.]*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses संदानम् (*saṃdānam*), शीर्षण्या (*śīrṣaṇyā*) (Pā. Sū. 4-4-110, 6-1-61 and 6-1-185), रशना (*raśanā*) (ಉ- ಸೂ. 233, abbreviation as printed; Pā. Sū. 7-1-1 and 6-1-163), प्रभृतम् (*prabhṛtam*) (Pā. Sū. 6-2-49) and अस्तु (*astu*), with the accents; it ends with the mark ॥ ೮ ॥. *[A stray line "ਃ੦ਃ" in Gurmukhi letters follows; kept in kn.md as an italic note.]*
+
+### Printed p. 181
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೮.] Ṛgveda-saṃhitā 181 (as supplied).*
+
+#### Ṛk 9
+
+*[The label of the Saṃhitā is garbled in the supplied text ("೧ ಸಂಹಕಾರ ॥"), and the Saṃhitā stood as plain lines; the standard label is inserted, the garbled words kept in kn.md as an italic note, and the lines made a block. The last word of the Saṃhitā is "ಸ್ವಸ್ತು" (स्वस्तु (*svastu*)) as supplied; there is no picture for this Ṛk.]*
+
+**॥ संहितापाठः ॥**
+
+> यदश्व॑स्य क्र॒विषो॒ मक्षि॒काश॒ यद्वा॒ स्वरौ॒ स्वधि॑तौ रि॒प्तमस्ति॑ ।
+> यद्धस्त॑योः शमि॒तुर्यन्न॒खेषु॒ सर्वा॒ ता ते॒ अपि॑ दे॒वे॑
+> स्वस्तु ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> यत् । अश्वस्य । क्रविषः । मक्षिका । आश । यत् । वा । स्वरौ । स्वधितौ । रिप्तं । अस्ति ।
+> यत् । हस्तयोः । शमितुः । यत् । नखेषु । सर्वा । ता । ते । अपि । देवेषु।अस्तु
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಬಾಯಣಧ್ವನಿಃ", inside the Pada block); the standard label is inserted and the garbled words kept in kn.md as an italic note. Hyphenated line breaks in the block are joined.]*
+
+> अश्वस्य तदवयवभूतस्य क्रविष आममांसस्य यत् यदंगं मक्षिकाश अभक्षयत् ॥ अश भोजने ॥ यद्वा ॥ कर्मणि षष्ठी ॥ अश्वस्य यन्मांसं भक्षयति ।
+> वाथवा स्वरौ पश्वंजनकाले यद्रिप्तं लिप्तमस्ति । स्वरुणा पशुमनक्तीति श्रुतेः । अथवा
+> स्वधितौ छेदनकाले चावदानकाले यद्रिप्तमस्ति शमितुर्हस्तयोर्लिप्तमस्ति । विशसनकाले यच्च नखेषु लिप्तं । ता सर्वा तानि सर्वाणि हे अश्व ते तव संबंधीनि देवेष्टस्तु । देवेषु संतोषार्थाय भवंतु ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): whatever flesh a fly ate, or stuck to the post, knife, slaughterer's hands and nails: may all be with you among the gods.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अश्वस्य (*aśvasya*)—of this sacrificial horse; क्रविषः (*kraviṣaḥ*)—full of flesh; यत् (*yat*)—which limb; मक्षिका (*makṣikā*)—the fly; आश (*āśa*)—was eating; वा (*vā*)—or; स्वरौ (*svarau*)—on the stake of slaughter; स्वधितौ (*svadhitau*)—on the knife, the means of cutting; (यत्) रिप्तं अस्ति (*(yat) riptaṃ asti*)—whatever part is stuck on; शमितुः (*śamituḥ*)—of the slaughterer *[printed "ಭೇದಕಾರನ"]*; हस्तयोः (*hastayoḥ*)—on the hands; नखेषु (*nakheṣu*)—and on the nails; यत् (*yat*)—whatever smearing there is; (O horse); ते (*te*)—belonging to you; ता सर्वा (*tā sarvā*)—all that; देवेषु अस्तु (*deveṣu astu*)—may it go to the gods.
+
+**भावार्थ (Bhāvārtha)**
+
+O horse, whichever limb of you, the sacrificial horse, full of flesh, a fly ate here, whatever part stuck to the stake of slaughter or to the knife, the means of slaughter *[the supplied text ends here, in the middle of the sentence, after "ಅಂಟಿಕೊಂಡಿದ್ದಿತೋ"; the rest of the Bhāvārtha is in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 177 (PDF 177). Sūkta 162 Ṛk 6 Special Topics end and grammar; Ṛk 7 Saṃhitā (picture) to Special Topics
+**Progress note:** Done through printed p. 181 (PDF 181). Sūkta 162 Ṛk 7 Special Topics end, grammar; Ṛk 8 (picture) complete; Ṛk 9 Saṃhitā to Bhāvārtha start
