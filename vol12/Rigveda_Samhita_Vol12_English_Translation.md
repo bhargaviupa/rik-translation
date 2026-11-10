@@ -3796,6 +3796,69 @@ As said in the Nirukta sentence आदित्यरश्मयोऽप्य
 
 > *he ṛbhavo raśmayaḥ yūyaṃ yadyadā bhuvanā bhūtajātāni saṃmīlya saṃmīlanaṃ kṛtvā jaladharapaṭalairācchādya paryasarpata paritaḥ sarpaṇaṃ kurutha | varṣathetyarthaḥ |*
 
+### Printed p. 134
+
+*Running head: 134 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೧.] (as supplied).* (Ṛk 12: the Sāyaṇa-bhāṣya continues from the previous window.)
+
+**Sāyaṇa-bhāṣya (continued)**
+
+*[Hyphenated line breaks in the block are joined.]*
+
+> तात्या तात् तायमाने वृष्टुदके । यद्वा । तात्या तासु वर्षासु ॥ छांदसस्यप्रत्ययो दकारस्यात्वं च ॥ अथवा पितृविशेषणं । तात्या तत्कालीनौ पितरा जगतः
+> पालकौ सूर्याचंद्रमसौ क्व स्विदासतुः । कुत्र खलु तिष्ठतः ॥ अस्तेर्लिटि व्यत्ययेन
+> भूभावाभावः । यद्वा । असतेर्गत्यर्थस्य लिट्येतद्रूपं ॥ अहोरात्रविभागेन
+> प्रवर्षयथेत्यर्थः । किंचेदृशान्नो युष्मान् यः कोऽपि वृष्टिप्रतिबंधकारी
+> राक्षसादिः करस्कं । बाहुनामैतत् करस्न बाहू इत्युक्तत्वात् अत्र त्वकारांतं ।
+> युष्मदीयं हस्तवाददे गृह्णाति प्रतिरोधं करोति तमशपत । नाशयथ । यश्च
+> प्राब्रवीत् प्रकर्षेण वाचा निरुंधे । तस्मै प्रो प्रैवाब्रवीतन । प्रकर्षेण भर्तृनादिशब्दं कुरुथ । यद्वा । यो नूनं स्तौति तं प्रकर्षेण स्तुतेत्यर्थः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): as rays the Ṛbhus cloud the world and rain; where are the parents then? Curse whoever seizes your arms; roar at him who reviles you.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(ऋभवः (*ṛbhavaḥ*)—O Ṛbhus, in the form of rays) यत् (*yat*)—when; भुवना (*bhuvanā*)—the beings; संमाल्य (*saṃmālya*) *[so printed]*—having covered (with clouds); पर्यसर्तत (*paryasartata*) *[so printed]*—you move about or shed rain, (then); तात्या (*tātyā*)—at the time when the rain is falling; वः (*vaḥ*)—your *[the printed text has an unmatched closing bracket after "ಜಗತ್ತಿನ", "your and the world's"]*; पितरा (*pitarā*)—the parents, the sun and the moon; क्वस्वित् (*kvasvit*)—where indeed; आसतुः (*āsatuḥ*)—are; यः (*yaḥ*)—any enemy whatsoever; वः (*vaḥ*)—your; करस्नं (*karasnaṃ*)—the rays in the form of arms; आददे (*ādade*)—seizes and obstructs, (him); अशपत (*aśapata*)—curse and destroy; यः (*yaḥ*)—whoever; प्र अब्रवीत् (*pra abravīt*)—reviles and disparages; तस्मै (*tasmai*)—to him; प्रो अब्रवीतन (*pro abravītana*)—make a sound that causes fear. [Or यः (*yaḥ*)—whoever; प्र अब्रवीत् (*pra abravīt*)—praises you; तस्मै (*tasmai*)—to him; प्रो अब्रवीतन (*pro abravītana*)—make an encouraging sound.]
+
+**भावार्थ (Bhāvārtha)**
+
+O Ṛbhus, in the form of rays, when you cover the beings with clouds and shed rain, where indeed are, at that time, the sun and the moon, your protectors and the parents of the world? Curse and destroy any enemy who seizes and obstructs your rays in the form of arms. Make a frightening sound at him who disparages you with improper words.
+
+**Printed English translation**
+
+As you glide along enveloping the regions (in clouds); where, then, are the parents (of the world)? curse him who arrests your arm: reply sternly to him who speaks disrespectfully (to you).
+
+### Printed p. 135
+
+*Running head: [ಅ. ೨. ಆ. ೩. ವ. ೬. ] Ṛgveda-saṃhitā 135 (as supplied; "ಆ." printed for "ಅ.").*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+तात्या—तायमाने वृष्टुदके ; यद्वा तासु वर्षासु । (*tātyā—tāyamāne vṛṣṭudake ; yadvā tāsu varṣāsu |*) It is explained as: when the rain-water falls uninterruptedly *[printed "ಅನುಸ್ಕೃತವಾಗಿಯೂ"]* and in streams. Monier Williams, in his Sanskrit-English Dictionary, explains this word as "tātya", relating to the father, gives the meaning "Fatherly", and shows the present ṛk and the ṛk Ṛ. Saṃ. 7-37-6 as examples. But since the word "pitarā" occurs again in this ṛk, it is not proper to take "tātyā" as "relating to the father". The meaning given by Sāyaṇa is the correct one.
+
+Sāyaṇa, in the ṛk
+
+वासयसीव वेधसस्त्वं नः कदा न इंद्र वचसो बुबोधः । (*vāsayasīva vedhasastvaṃ naḥ kadā na iṃdra vacaso bubodhaḥ |*)
+अस्तं तात्या धिया रयिं सुवीरं पृक्षो नो अर्वा न्युहीत वाजी ॥ (*astaṃ tātyā dhiyā rayiṃ suvīraṃ pṛkṣo no arvā nyuhīta vājī ‖*) (ಋ ಸಂ, 7-37-6) *[reference as printed, with a comma]*
+
+explains the word "tātyā" with तनोतेरिदं रूपं संततया (धिया) । (*tanoteridaṃ rūpaṃ saṃtatayā (dhiyā) |*) as the passive use of the root तनु (विस्तारे) (*tanu (vistāre)*), which gives the meaning "extended" *[printed "ವಿಸ್ತ್ರತವಾಗಿರುವುದು"]*; as it is there taken to mean uninterrupted praise, so in the present ṛk too the meaning is "by rain that falls without a break", that is, "at the time of rain". Or, षितृविशेषणं । तात्या तत्कालीनौ (*ṣitṛviśeṣaṇaṃ | tātyā tatkālīnau*) पितरा । (*pitarā |*) *[so printed, "ಷಿತೃ" for "ಪಿತೃ"; the sentence is split over two lines]* "relating to that time", it becomes an epithet of the word "pitarā": thus Sāyaṇa has given this second alternative meaning also.
+
+करस्नं (*karasnaṃ*)—the word "karasna" is included among the names of the arms (Ni. 3-8). The Nirukta authors, having quoted the ṛk
+
+बृबदुक्कं हवामहे सृप्रकरस्नमूतये । साधु कृण्वंतमवसे ॥ (*bṛbadukkaṃ havāmahe sṛprakarasnamūtaye | sādhu kṛṇvaṃtamavase ‖*) (Ṛ. Saṃ. 8-32-10)
+
+have explained the word "karasna" as कर्मणां प्रस्नातारौ । (*karmaṇāṃ prasnātārau |*) *[the supplied text has "ಕರಸ್ಯ ಶಬ್ದಕ್ಕೆ" and "ಪ್ರಸ್ನಾತಾರೌ"]* and have shown that, since the arms are the promoters of works, this name is well known for them. (6-17, as printed without an abbreviation.)
+
+प्र अब्रवीत् (*pra abravīt*)—for this word both meanings, "reviles" and "praises", are given. If the prefix "pra" is added to the root "brū" the meanings are "pronounce loudly", "make known", "proclaim". This same point the scholar Wilson, speaking of the special points of this ṛk, has explained in the words "pra prefixed to brū, may mean, either to speak harshly or kindly; to censure or to praise" *[the supplied text has the Kannada letters "ಪ್ರ" and "ಬ್ರೂ" inside the English sentence]*. Because both meanings are possible, Sāyaṇa also, when he says तस्मै प्रो अब्रवीतन (*tasmai pro abravītana*), has explained that the meaning is: make a sound so that the one who reviles you is afraid, or say words of favour so that the one who praises you is encouraged.
+
+पितरा-जगतः पालकौ । (*pitarā-jagataḥ pālakau |*) the sun and the moon, the protectors of the world.
+
+### Printed p. 136
+
+*Running head: 136 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೧] (as supplied).*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses संमील्य (*saṃmīlya*) (root मील (*mīla*); Pā. Sū. 7-1-37), भुवना (*bhuvanā*) (Pā. Sū. 6-1-70), पर्यसर्पत (*paryasarpata*) (Pā. Sū. 8-1-71), तात्या (*tātyā*), आसतुः (*āsatuḥ*), अशपत (*aśapata*), आददे (*ādade*) (root डुदाञ् (*ḍudāñ*)) and अब्रवीत् (*abravīt*), with the accents; it ends with the mark ॥ ೧೨ ॥. *[The supplied text ends with the stray machine-description line "This image contains no text. It is a decorative graphic design element ...", kept in kn.md as an italic note: an ornament after the grammar.]*
+
 ---
 
-**Progress note:** Done through printed p. 133 (PDF 133). Sūkta 161 Ṛk 11 bhāṣya end, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar; Ṛk 12 Saṃhitā/Pada (picture), bhāṣya start
+**Progress note:** Done through printed p. 136 (PDF 136). Sūkta 161 Ṛk 12 bhāṣya end, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar
