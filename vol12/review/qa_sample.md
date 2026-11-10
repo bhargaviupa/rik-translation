@@ -61,3 +61,26 @@ Reviewer: a different model (Opus), read-only, not told what to expect. Method: 
 
 ## Cause of the dropped dandas (dispatcher's note)
 From p. 197 on, long quotations were written as `⟦first words~~last words⟧` and the script copied the passage up to the last word given; the closing danda after it was not part of the span. Repaired by script over pp. 197–727 (see `review/repair_log.md`); `tools/rv/convert.py` now takes a danda that directly follows the end words into the quotation.
+
+# Sample 2 (doubled, because sample 1 had ERRORs) — 48 further pages, two Opus reviewers, same method
+
+## Sample 2b — pp. 427, 442, 456, 472, 513, 526, 528, 532, 548, 551, 556, 562, 563, 568, 583, 604, 607, 611, 621, 653, 663, 667, 691, 693
+**Totals: 24 pages; 3 ERRORs (p. 653 ×2, p. 663); 28 MINORs; 9 pages fully OK (548, 556, 562, 563, 568, 583, 604, 607, 611).**
+
+- **p. 427** — MINOR: 'पितरः न वेद ("who does not know the protector")': the quoted English gloss is an unmarked addition.
+- **p. 442** — MINOR: "ನಿರ್ಮಿಸಿದರು" → "he fashioned" (plural: "they"). MINOR: "ಅಧಿಲೋಕಪಕ್ಷದ" → "adhilokā side" (should be adhiloka). MINOR: a second danda after the transliteration in three quotations (script artifact, repaired — see repair log); "ಗಾಯತ್ರಂ ನಾ", "ಸ್ವೇನ್ನೈವ" kept without an "as supplied" note.
+- **p. 456** — MINOR: "ಒಂದೊಂದು ಪಾದದ ಸಂಖ್ಯೆಯನ್ನು" → "the number of the pāda in each" (it is the count of each pāda). MINOR: "(ತ್ರೈ. ಸಂ. ೨-೫-೧೦-೩, ೪)" given as Devanagari/IAST "(त्रै. सं. …)", inconsistent; the note's "aksharaprashamsā" is not IAST.
+- **p. 472** — MINOR: "ಎಂಬ ಮುಕ್ಕನ್ನು ದಹರಿಸಿ" → "and cites the Ṛk": misprint silently corrected. MINOR: "(ಋ. ಸಂ. ೬-೭-೫)" kept without a note (the verse is 6.70.5).
+- **p. 513** — MINOR: the bracket note calls "ಸ್ವರ ಬರುತ್ತದೆ" a stray line end; it is the end of the sentence already translated, and the note sets Kannada words in Devanagari/IAST.
+- **p. 526** — MINOR: quotation "…ಧೃತ್ಯಾ ಆಶಿಥಿಲಂ ಭಾವಾಯ .... .... .... ॥" reproduced without the printed ellipses and ॥.
+- **p. 528** — MINOR: same: "ಯಜ್ಞೋ ಗಂಧರ್ವಃ.... …" without the printed abridgement marks. MINOR: inserted "[the commentary says that]" gives the wrong source (the Kannada: what the śruti sentences describe). MINOR: "ಇದು … ಸಂಬಂಧವನ್ನರಿಯತಕ್ಕದ್ದು" → "One should know…": the subject (the faith) is dropped.
+- **p. 532** — MINOR: misprinted Kannada word "ಉದ್ದಿಶ್ರವೇನು" shown as a Devanagari/IAST citation.
+- **p. 551** — MINOR: "ಅವಿದ್ಯೆಯಿಂದಲೂ ಅದರಿಂದ ಉತ್ಪನ್ನವಾದ ಕಾಮ, ರಾಗ, ದ್ವೇಷ … ಕರ್ಮಗಳಿಂದಲೂ": desire, attachment and aversion arise from ignorance, not the actions.
+- **p. 621** — MINOR: "ಔದಂಬರಾಯಣರ" → "Audumbarāyaṇa" silently normalised. MINOR: "ಚತ್ವಾರಿ ಪದಾನಿ" replaced by English "four words" instead of being quoted. MINOR: glosses "cow", "horse", "man" added. MINOR: second dandas after the transliteration in five quotations (script artifact, repaired).
+- **p. 653** — **ERROR**: "' ಅಗ್ನಿಃ ಪಶುರಾಸೀತ್ತಮಾಲಭಂತ ತೇನಾಯಜಂತ ' ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ ।": "इति च ब्राह्मणं" cut out of the quotation and replaced by English. **ERROR**: three unmarked English translations of Sanskrit quotations added in plain parentheses.
+- **p. 663** — **ERROR**: "ಉಭಯಲೋಕಗಳಿಗೂ ಸಹ ತಮ್ಮ ಆವೃತ್ತಿರೂಪದಿಂದ ಪ್ರಾಣದಾಯಕಗಳಾಗಿರುತ್ತವೆ" → "both worlds are life-giving to each other": the rain-clouds and the fires are life-giving to both worlds.
+- **p. 667** — MINOR: added gloss ("source"). MINOR: "ದಿವಃ ಜಿನ್ವಂತ್ಯಗ್ನಯಃ" kept as divaḥ without a note (the Ṛk and p. 663 read ದಿವಂ).
+- **p. 691** — MINOR: gloss predicate attached to the wrong headword ("ಬ್ರಹ್ಮಾಣಿ—ಸಕಲ ಕರ್ಮಗಳೂ । ಮೇ—ನನ್ನನ್ನು ಉದ್ದೇಶಮಾಡಿದವೇ ಆಗಿವೆ"). MINOR: Kannada gloss "ಅಚ್ಚ ಹೋಗಿಸೇರಲು" set in Devanagari/IAST; running head in Devanagari. MINOR (doubtful): Gist "alone".
+- **p. 693** — MINOR: silent normalisations "ಪುಷ್ ಅಭಿಷವೇ" → "root ṣu", "ಇತ್ಯಾದಿನಿರ್ತ್ಯಮ್" → "ityādi-nityam". MINOR: "ಆತಾದೇಶ" → "ātām [as supplied]" (the print has āt). MINOR: "ತಿಜಿಂತನಿಘಾತಸ್ವರ" → "verbal accent" loses nighāta. MINOR: sūtra texts dropped in the grammar summary (allowed, but inconsistent with p. 607).
+
+Reviewer 2b's judgement: numbers, references and Sanskrit quotations are almost everywhere complete and equal to the Kannada, printed oddities usually kept and noted; real faults on pp. 653 and 663; recurring small problems: printed abridgement ellipses dropped (pp. 526, 528), Kannada words shown in Devanagari/IAST as if Sanskrit (pp. 513, 532, 691), a few unnoted silent normalisations (pp. 472, 621, 693).

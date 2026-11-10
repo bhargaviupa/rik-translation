@@ -32,3 +32,4 @@
 - 2026-11-10 QA p. 696: ṭita ātmanepadānām… -> ṭitaātmanepadā— (truncated name no longer completed; IAST by script)
 - 2026-11-10 QA p. 702: somewhat difficult -> added as-supplied note (printed ಕೊಂಚ ಕ್ರಮವೆಂದು)
 - 2026-11-10 QA p. 708: agents reversed and "only" dropped -> Indra received help from the Maruts and forgot it only at the oblation
+- 2026-11-10 QA: 93 quotations on pp. 197-727 had their closing danda already, written after the transliteration ("… (*…*) ॥"); the restoration script above had added a second one inside. The danda after the transliteration is removed, so each of these quotations has its closing danda once (inside, with | or ‖ in the IAST). Found by QA sample 2 (pp. 442, 621).

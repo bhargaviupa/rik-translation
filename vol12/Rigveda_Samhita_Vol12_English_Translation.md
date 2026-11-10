@@ -8542,11 +8542,11 @@ In this way the conjugal love, prior in time, of the two who are the mother and 
 
 धीत्या (*dhītyā*)—यागादिरूपेण कर्मणा (*yāgādirūpeṇa karmaṇā*); that is, by rites in the form of sacrifice etc. The word धीति (*dhīti*) has two meanings, कर्म (*karma*) (rite) and प्रज्ञा (*prajñā*) (insight). [In the Nirukta (Ni. 3-8) this word is also read among the names of the fingers.] The author of the Nirukta has cited two Ṛks in which the two meanings, rite and insight, occur.
 
-सारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवसेम धीतिभिः । (*sārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivasema dhītibhiḥ |*) ।
+सारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवसेम धीतिभिः । (*sārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivasema dhītibhiḥ |*)
 (Ṛ. Saṃ. 6-61-2)
 In this Ṛk धीतिभिः (*dhītibhiḥ*) is explained as कर्मभिः (*karmabhiḥ*), and in
 
-ऋतस्य हि शुरुधः संति पूर्वीर्यतस्य धीतिर्वृजिनानि हंति ॥ (*ṛtasya hi śurudhaḥ saṃti pūrvīryatasya dhītirvṛjināni haṃti ‖*) ॥
+ऋतस्य हि शुरुधः संति पूर्वीर्यतस्य धीतिर्वृजिनानि हंति ॥ (*ṛtasya hi śurudhaḥ saṃti pūrvīryatasya dhītirvṛjināni haṃti ‖*)
 (Ṛ. Saṃ. 4-23-8) *(the sentence continues on the next page)*
 
 ### Printed p. 341
@@ -8555,7 +8555,7 @@ In this Ṛk धीतिभिः (*dhītibhiḥ*) is explained as कर्म
 ...here it is explained as प्रज्ञा (*prajñā*). In some places this word is also used in the sense of praise. In the present Ṛk it means a rite in the form of sacrifice.
 
 गर्भरसा (*garbharasā*)—गर्भोत्पत्ति निमित्तेन रसेन निविधा नितरां विद्या असीत् । (*garbhotpatti nimittena rasena nividhā nitarāṃ vidyā asīt |*) *[as supplied: निविधा (*nividhā*); the bhāṣya has निविद्धा (*nividdhā*)]*. Explaining that she became completely united with the sap that is the means of the origin of the embryo, Sāyaṇa has said:
-गर्भे रसः ओषध्याद्युत्पादनसमर्थमुदकं यस्याः सा तादृशी उदकेन अत्यंतं क्लिन्ना निविद्धा कृषीवलैर्हलमुखेन नितरां विदारिता भवति । (*garbhe rasaḥ oṣadhyādyutpādanasamarthamudakaṃ yasyāḥ sā tādṛśī udakena atyaṃtaṃ klinnā nividdhā kṛṣīvalairhalamukhena nitarāṃ vidāritā bhavati |*) ।
+गर्भे रसः ओषध्याद्युत्पादनसमर्थमुदकं यस्याः सा तादृशी उदकेन अत्यंतं क्लिन्ना निविद्धा कृषीवलैर्हलमुखेन नितरां विदारिता भवति । (*garbhe rasaḥ oṣadhyādyutpādanasamarthamudakaṃ yasyāḥ sā tādṛśī udakena atyaṃtaṃ klinnā nividdhā kṛṣīvalairhalamukhena nitarāṃ vidāritā bhavati |*)
 that is, having held in her womb the water that is the means of the origin of plants, herbs and so on—that is, after the whole earth has been drenched with that water—she is ploughed by the farmers and made ready for procreation in the form of crop-wealth.
 
 उपवाकं (*upavākaṃ*)—this word has been explained in two ways. First, उपेत्य वचनं परस्परं सम्यगभिवृद्धानि सस्यानीति वचनं । (*upetya vacanaṃ parasparaṃ samyagabhivṛddhāni sasyānīti vacanaṃ |*) ("coming near and saying to one another: 'the crops have grown well'"). When kinsmen or friends meet one another, all the people also express their joy over the growth of crops and the increase of fruit-wealth, and in addition speak words of congratulation. This is generally a worldly expression of joy in the form of an upavacana (a "saying-to").
@@ -8565,24 +8565,24 @@ that is, having held in her womb the water that is the means of the origin of pl
 Here the attractive spreading of the rays of Savitṛ is compared to a worldly expression of joy: as a friend, to show his satisfaction at his friend's prosperity, raises his hands and congratulates him, so may he too rise with the spreading of his rays—so it is described. This amounts to stating the nature of the worldly upavāka.
 
 Besides this, there is also the recitation of a mantra, the so-called upavacana, which is part of a rite. That this meaning too is possible here, Sāyaṇa has said:
-हनिर्लक्षणान्नवंतः उपेत्य वचनं प्रैषादिरूपमीयुः । वृष्टौ सत्यां सस्यादिद्वारा यागमनुतिष्ठेयुरित्यर्थः ॥ (*hanirlakṣaṇānnavaṃtaḥ upetya vacanaṃ praiṣādirūpamīyuḥ | vṛṣṭau satyāṃ sasyādidvārā yāgamanutiṣṭheyurityarthaḥ ‖*) ॥
+हनिर्लक्षणान्नवंतः उपेत्य वचनं प्रैषादिरूपमीयुः । वृष्टौ सत्यां सस्यादिद्वारा यागमनुतिष्ठेयुरित्यर्थः ॥ (*hanirlakṣaṇānnavaṃtaḥ upetya vacanaṃ praiṣādirūpamīyuḥ | vṛṣṭau satyāṃ sasyādidvārā yāgamanutiṣṭheyurityarthaḥ ‖*)
 that is, after the fall of the rain the plants and so on grow, and when they approach the time of fruit, obtaining food in the form of oblation and performing the sacrifice, they recited mantras such as the praiṣa. This praiṣa mantra has to be recited by one of the ṛtviks. Which of them it is cannot be stated precisely. Because,
 
-वेषि ह्यध्वरीयतामुपवक्ता जनानां । हव्या च मानुषाणां । (*veṣi hyadhvarīyatāmupavaktā janānāṃ | havyā ca mānuṣāṇāṃ |*) ।
+वेषि ह्यध्वरीयतामुपवक्ता जनानां । हव्या च मानुषाणां । (*veṣi hyadhvarīyatāmupavaktā janānāṃ | havyā ca mānuṣāṇāṃ |*)
 (Ṛ. Saṃ. 4-9-5) *(the discussion continues in the next window)*
 
 ### Printed p. 342
 *Running head: 342 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪]] (as supplied; with a doubled closing bracket).*
 
 [Continuing from the previous page:] In the Ṛk (Ṛ. Saṃ. 4-9-5), in explaining the word उपवक्ता (*upavaktā*), Sāyaṇa has said:
-उपवक्ता, अध्वर्युप्रभृतीनां सर्वेषां कर्मणामनुज्ञार्थं “ मां प्रणय ” इत्यादि रूपस्य वाक्यस्य वक्ता सन् ब्रह्मा चासि ॥ (*upavaktā, adhvaryuprabhṛtīnāṃ sarveṣāṃ karmaṇāmanujñārthaṃ “ māṃ praṇaya ” ityādi rūpasya vākyasya vaktā san brahmā cāsi ‖*) ॥
+उपवक्ता, अध्वर्युप्रभृतीनां सर्वेषां कर्मणामनुज्ञार्थं “ मां प्रणय ” इत्यादि रूपस्य वाक्यस्य वक्ता सन् ब्रह्मा चासि ॥ (*upavaktā, adhvaryuprabhṛtīnāṃ sarveṣāṃ karmaṇāmanujñārthaṃ “ māṃ praṇaya ” ityādi rūpasya vākyasya vaktā san brahmā cāsi ‖*)
 that is, uttering sentences such as “मां प्रणय (*māṃ praṇaya*)” (“lead me forth”), he is Brahmā, who gives permission to the rites of all the ṛtviks beginning with the Adhvaryu. Hence it is understood from this that the one who speaks the upavacana is Brahmā. Or,
 उपवक्ता सर्वेषां कर्मणामनैकल्यार्थमुपद्रष्टा वा सदस्योऽसि । “ स हि सप्तदशः कर्मणामुपद्रष्टा भवति ” ॥ इत्यापस्तंबेनोक्तत्वात् (*upavaktā sarveṣāṃ karmaṇāmanaikalyārthamupadraṣṭā vā sadasyo 'si | “ sa hi saptadaśaḥ karmaṇāmupadraṣṭā bhavati ” ‖ ityāpastaṃbenoktatvāt*) ॥
 that is, the seventeenth member of the assembly, who sees that all the rites are carried out without deficiency and without obstacle, is the upadraṣṭṛ (overseer). Āpastamba has stated his characteristic with “सप्तदशः कर्मणामुपद्रष्टा भवति (*saptadaśaḥ karmaṇāmupadraṣṭā bhavati*)”. Explaining the nature of this upadraṣṭṛ, the Taittirīya Brāhmaṇa says thus:
-ब्राह्मणो दक्षिणत उपास्ते । ब्राह्मणो वै प्रजानामुपद्रष्टा । उपद्रष्टुमत्येव प्रजायते ॥ (*brāhmaṇo dakṣiṇata upāste | brāhmaṇo vai prajānāmupadraṣṭā | upadraṣṭumatyeva prajāyate ‖*) ॥
+ब्राह्मणो दक्षिणत उपास्ते । ब्राह्मणो वै प्रजानामुपद्रष्टा । उपद्रष्टुमत्येव प्रजायते ॥ (*brāhmaṇo dakṣiṇata upāste | brāhmaṇo vai prajānāmupadraṣṭā | upadraṣṭumatyeva prajāyate ‖*)
 (Tai. Brā. 2-2-1-3)
 In explaining the word उपद्रष्टृ (*upadraṣṭṛ*) in this sentence, Sāyaṇa has said उपद्रष्टृ हिताहितस्य प्रजानामुपदेष्टृ । (*upadraṣṭṛ hitāhitasya prajānāmupadeṣṭṛ |*): the member of the assembly who, seeing that there is no deficiency in the rites, tells everyone what is beneficial and what is harmful. In the explanation of the Ṛk cited here (Ṛ. Saṃ. 4-9-5), identity of the upavaktṛ and the upadraṣṭṛ is stated. Again, in what is said in the Taittirīya Brāhmaṇa,
-प्रजापतिरकामयत प्रजाः सृजेयेति । स एतं दशहोतारमपश्यत् ॥ (*prajāpatirakāmayata prajāḥ sṛjeyeti | sa etaṃ daśahotāramapaśyat ‖*) ॥
+प्रजापतिरकामयत प्रजाः सृजेयेति । स एतं दशहोतारमपश्यत् ॥ (*prajāpatirakāmayata prajāḥ sṛjeyeti | sa etaṃ daśahotāramapaśyat ‖*)
 (Tai. Brā. 2-2-1-1)
 Sāyaṇa, in naming the ten hotṛs *[as supplied: दशमोतृगळन्नु (*daśamotṛgaḷannu*)]*, cites this mantra of the Taittirīya Āraṇyaka:
 चित्तिः स्रुक्, चित्तमाज्यं, वाग्वेदिः, आधीतं बर्हिः, केतो अग्निः, विज्ञातमग्निः वाक्प्रतिर्होता, मन उपवक्ता (*cittiḥ sruk, cittamājyaṃ, vāgvediḥ, ādhītaṃ barhiḥ, keto agniḥ, vijñātamagniḥ vākpratirhotā, mana upavaktā*) .... .... .... .... ॥
@@ -8659,17 +8659,17 @@ The mother, (sky), was associated in (sustaining) the burthen of the fulfiller o
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 In the previous Ṛk the Earth was indicated as mother and Āditya, who abides in the atmosphere, as father. Here the atmosphere is called mother. By this it is shown that both the Earth and the atmosphere have a power of a special kind in the work of creating beings. To show that the Earth undertakes not only the work of creation but also the works of sustaining and protecting, the word दक्षिणायाः (*dakṣiṇāyāḥ*), a synonym of Earth, has been used. Sāyaṇa has explained this word as अभिमतपूरणसमर्थायाः पृथिव्याः (*abhimatapūraṇasamarthāyāḥ pṛthivyāḥ*)—of the Earth, which has the capacity to fulfil what is desired. The Earth has obtained all kinds of wealth and, besides, the power of sustaining. For providing what is desired, both these powers are absolutely necessary.
 
-खं वायुज्योतिरापः पृथिवी विश्वस्य धारिणी । (*khaṃ vāyujyotirāpaḥ pṛthivī viśvasya dhāriṇī |*) ।
+खं वायुज्योतिरापः पृथिवी विश्वस्य धारिणी । (*khaṃ vāyujyotirāpaḥ pṛthivī viśvasya dhāriṇī |*)
 (Mu. U. 2-1-3)
 In sentences such as this the Earth is described as the sustainer of the world. Moreover,
 एषां भूतानां पृथिवी रसः (*eṣāṃ bhūtānāṃ pṛthivī rasaḥ*) ; (Chā. U. 1-1-2)
-पृथिवी ना अन्नं । (*pṛthivī nā annaṃ |*) । (Tai. U. 3-9-1) *[as supplied: ना (*nā*)]*
+पृथिवी ना अन्नं । (*pṛthivī nā annaṃ |*) (Tai. U. 3-9-1) *[as supplied: ना (*nā*)]*
 In sentences such as these, as it is said that all the power that is essential for the existence and nourishment of beings is to be obtained from the Earth alone, the Earth, since it has all kinds of power, has the epithet dhāriṇī (sustainer). The author of the Nirukta too, when stating the etymology of the word दक्षिणा (*dakṣiṇā*), shows this very meaning,
 
 ### Printed p. 346
 *Running head: 346 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೮೪] (as supplied; the Sūkta number is printed ೮೪, whereas the other pages have ೧೬೪).*
 
-दक्षिणा दक्षतेः समर्धयति कर्मणो व्यृद्धं समर्धयतीति । (*dakṣiṇā dakṣateḥ samardhayati karmaṇo vyṛddhaṃ samardhayatīti |*) ।
+दक्षिणा दक्षतेः समर्धयति कर्मणो व्यृद्धं समर्धयतीति । (*dakṣiṇā dakṣateḥ samardhayati karmaṇo vyṛddhaṃ samardhayatīti |*)
 (Ni. 1-2)
 [saying that] it is derived from the root दक्स् (*daks*) [as supplied], which gives the meaning of causing complete growth, and he has explained that the meaning “it makes complete what is deficient” is also possible. Since the Earth has all these powers, this epithet shows its power.
 
@@ -8678,7 +8678,7 @@ In sentences such as these, as it is said that all the power that is essential f
 त्रिषु योजनेषु (*triṣu yojaneṣu*)—मेघरश्मिनायुषु संयुक्तेषु सत्सु । (*megharaśmināyuṣu saṃyukteṣu satsu |*) *[as supplied: रश्मिनायुषु (*raśmināyuṣu*); the bhāṣya has वायुषु (*vāyuṣu*)]*. To show that, when the cloud, the sun's ray and the wind were joined together, there was the sound of thunder, it is described: अमीमेत् वर्षणसमये शब्दयति (*amīmet varṣaṇasamaye śabdayati*)—it sounded at the time of the fall of rain.
 
 विश्वरूप्यं अपश्यत् (*viśvarūpyaṃ apaśyat*)—two kinds of meaning are given for this. First, विश्वरूपवतीं गां अनुक्रमेण पश्यति । (*viśvarūpavatīṃ gāṃ anukrameṇa paśyati |*): the water in the form of the calf looks in order at the Earth of many forms; that is, the rain falls in order and reaches the Earth. And second,
-त्रिषु योजनेषु सत्तु वत्सो मेघो वर्षणाय गां भूमिं प्रति अमीमेत् । जनः क्रमेण विश्वरूप्यं सस्यादिभिर्नानारूपवतीं भूमिमपश्यत् पश्यति । (*triṣu yojaneṣu sattu vatso megho varṣaṇāya gāṃ bhūmiṃ prati amīmet | janaḥ krameṇa viśvarūpyaṃ sasyādibhirnānārūpavatīṃ bhūmimapaśyat paśyati |*) ।
+त्रिषु योजनेषु सत्तु वत्सो मेघो वर्षणाय गां भूमिं प्रति अमीमेत् । जनः क्रमेण विश्वरूप्यं सस्यादिभिर्नानारूपवतीं भूमिमपश्यत् पश्यति । (*triṣu yojaneṣu sattu vatso megho varṣaṇāya gāṃ bhūmiṃ prati amīmet | janaḥ krameṇa viśvarūpyaṃ sasyādibhirnānārūpavatīṃ bhūmimapaśyat paśyati |*)
 that is, after the cloud, the wind and the sun's ray had been joined together, the cloud in the form of the calf made the sound of thunder that precedes the fall of rain. Immediately rain falls, and all the people, seeing the earth shining with plants of many kinds and with the varied colours of those plants, rejoice—so it is described in another way too.
 
 On the whole, having stated earlier the original nature of Heaven-and-Earth as the mother and father of all beings, this Ṛk explains the point that they nourish the world that has come into being by providing it with wealth in the form of food. The matter that the union of Heaven and Earth is in one way or another present for the origin, the sustaining and the nourishment of the universe and of everything is stated clearly.
@@ -8753,12 +8753,12 @@ Food is the cause of the state and course of all beings. For food the cause is t
 To show that Āditya, whose self is time, shines as the lord of all the worlds, it is said एकः तस्थौ (*ekaḥ tasthau*). Describing this in the Chāndogya and other works,
 आदित्यो ब्रह्मेत्यादेशः (*ādityo brahmetyādeśaḥ*) (Chā. U. 3-19-1) असावादित्यो ब्रह्मेति (*asāvādityo brahmeti*) (Tai. Ā. 2-1)
 it is taught that Āditya is the Supreme Brahman. Showing the unity of this Āditya with the year, and describing the power of Āditya, who pervades the three worlds beginning with the earth, the Aitareya Āraṇyaka says thus. According to its description Āditya is at the same time the pervader of the world and the one who has occupied the most excellent heaven-world.
-महापुरुष इति यमवोचाम संवत्सर एव प्रध्वंसयन्नन्यानि भूतान्कैक्या भावयन्नन्यानि तस्यैतस्यासावादित्यो रसः ॥ स यश्चायमशरीरः प्रज्ञात्मा यश्चासावादित्य एकमेतदिति विद्यात् । तस्मात्पुरुषं पुरुषं प्रत्यादित्यो भवति । तदप्येतदृषिणोक्तं । चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आ प्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थु षश्चेति ॥ (*mahāpuruṣa iti yamavocāma saṃvatsara eva pradhvaṃsayannanyāni bhūtānkaikyā bhāvayannanyāni tasyaitasyāsāvādityo rasaḥ ‖ sa yaścāyamaśarīraḥ prajñātmā yaścāsāvāditya ekametaditi vidyāt | tasmātpuruṣaṃ puruṣaṃ pratyādityo bhavati | tadapyetadṛṣiṇoktaṃ | citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | ā prā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthu ṣaśceti ‖*) ॥
+महापुरुष इति यमवोचाम संवत्सर एव प्रध्वंसयन्नन्यानि भूतान्कैक्या भावयन्नन्यानि तस्यैतस्यासावादित्यो रसः ॥ स यश्चायमशरीरः प्रज्ञात्मा यश्चासावादित्य एकमेतदिति विद्यात् । तस्मात्पुरुषं पुरुषं प्रत्यादित्यो भवति । तदप्येतदृषिणोक्तं । चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आ प्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थु षश्चेति ॥ (*mahāpuruṣa iti yamavocāma saṃvatsara eva pradhvaṃsayannanyāni bhūtānkaikyā bhāvayannanyāni tasyaitasyāsāvādityo rasaḥ ‖ sa yaścāyamaśarīraḥ prajñātmā yaścāsāvāditya ekametaditi vidyāt | tasmātpuruṣaṃ puruṣaṃ pratyādityo bhavati | tadapyetadṛṣiṇoktaṃ | citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | ā prā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthu ṣaśceti ‖*)
 (Ai. Āraṇyaka 3-2-3)
 The principle which we indicated as the Great Person, that Great Person is the year. The essence of that year is Āditya. The incorporeal Prajñātman and Āditya are to be understood as one principle. This very thing the sage Kutsa has described in the Ṛk Saṃhitā (Ṛ. Saṃ. 1-115-1): “The brilliance, which is the eye of Mitra, Varuṇa and Agni and the face of the gods, has risen and has pervaded the earth, the atmosphere and the heaven-world. This is the self of all the worlds, moving and unmoving.” This same Āditya, “bearing three mothers” तिस्रो मात्मः बिभ्रत् (*tisro mātmaḥ bibhrat*) *[as supplied]*, is described in the Ṛk Saṃhitā in this way:
-दिपो धर्ता भुवनस्य प्रजापतिः पिशंगं द्रापिं प्रति मुंचते कविः । निचक्षणः प्रथयन्नापृणन्नुर्वजीजनत्सविता सुम्ममुक्थम् ॥ (*dipo dhartā bhuvanasya prajāpatiḥ piśaṃgaṃ drāpiṃ prati muṃcate kaviḥ | nicakṣaṇaḥ prathayannāpṛṇannurvajījanatsavitā summamuktham ‖*) ॥ *[as supplied: दिपो (*dipo*)]*
+दिपो धर्ता भुवनस्य प्रजापतिः पिशंगं द्रापिं प्रति मुंचते कविः । निचक्षणः प्रथयन्नापृणन्नुर्वजीजनत्सविता सुम्ममुक्थम् ॥ (*dipo dhartā bhuvanasya prajāpatiḥ piśaṃgaṃ drāpiṃ prati muṃcate kaviḥ | nicakṣaṇaḥ prathayannāpṛṇannurvajījanatsavitā summamuktham ‖*) *[as supplied: दिपो (*dipo*)]*
 (Ṛ. Saṃ. 4-53-2)
-न प्रिमिये सवितुर्दैव्यस्य तद्यथा विश्वं भुवनं धारयिष्यति । यत्पृथिव्या वरिमन्ना स्वंगुरिर्वष्मन्पिवः सुवति सत्यमस्य तत् ॥ (*na primiye saviturdaivyasya tadyathā viśvaṃ bhuvanaṃ dhārayiṣyati | yatpṛthivyā varimannā svaṃgurirvaṣmanpivaḥ suvati satyamasya tat ‖*) ॥
+न प्रिमिये सवितुर्दैव्यस्य तद्यथा विश्वं भुवनं धारयिष्यति । यत्पृथिव्या वरिमन्ना स्वंगुरिर्वष्मन्पिवः सुवति सत्यमस्य तत् ॥ (*na primiye saviturdaivyasya tadyathā viśvaṃ bhuvanaṃ dhārayiṣyati | yatpṛthivyā varimannā svaṃgurirvaṣmanpivaḥ suvati satyamasya tat ‖*)
 (Ṛ. Saṃ. 4-54-4)
 Āditya in the form of Savitṛ is the supporter of the heaven-world and the earth-world. He pours rain on the earth and the atmosphere and gives all kinds of comforts. No one can hinder the work of this Āditya, who is the supporter of “the whole world”—thus his greatness is praised. In the same way, where it is said त्रीन् पित्थन् (अपि) बिभ्रत् (*trīn pitthan (api) bibhrat*) *[as supplied]*, for the word पित्थन् (*pitthan*) *[as supplied]* the explanation is जगतां पालयित्थन् लोकत्रया (*jagatāṃ pālayitthan lokatrayā*) *[as supplied; the quotation continues on the next page]*
 
@@ -8766,17 +8766,17 @@ The principle which we indicated as the Great Person, that Great Person is the y
 *Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫.] Ṛgveda-saṃhitā 351 (as supplied).*
 
 भिमानिनः अग्निवायुसूर्याख्यान् (*bhimāninaḥ agnivāyusūryākhyān*)—that is, (he bears) Agni, the presiding deity of the earth, Vāyu, the presiding deity of the atmosphere, and Sūrya, the presiding deity of the heaven-world.
-त्रिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानो वायुर्वेंद्रो वांतरिक्षस्थानः सूरोद्युस्थानः ॥ (*trisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthāno vāyurveṃdro vāṃtarikṣasthānaḥ sūrodyusthānaḥ ‖*) ॥
+त्रिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानो वायुर्वेंद्रो वांतरिक्षस्थानः सूरोद्युस्थानः ॥ (*trisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthāno vāyurveṃdro vāṃtarikṣasthānaḥ sūrodyusthānaḥ ‖*)
 (Ni. 7-5)
-ब्रह्म वा इदमग्र आसीत् । तद्देवानसृजत । तद्देवान् सृष्टैषु लोकेषु व्यारोहयदस्मिन्नेव लोकेग्निं वायुमंतरिक्षे दिव्येव सूर्यं ॥ (*brahma vā idamagra āsīt | taddevānasṛjata | taddevān sṛṣṭaiṣu lokeṣu vyārohayadasminneva lokegniṃ vāyumaṃtarikṣe divyeva sūryaṃ ‖*) ॥
+ब्रह्म वा इदमग्र आसीत् । तद्देवानसृजत । तद्देवान् सृष्टैषु लोकेषु व्यारोहयदस्मिन्नेव लोकेग्निं वायुमंतरिक्षे दिव्येव सूर्यं ॥ (*brahma vā idamagra āsīt | taddevānasṛjata | taddevān sṛṣṭaiṣu lokeṣu vyārohayadasminneva lokegniṃ vāyumaṃtarikṣe divyeva sūryaṃ ‖*)
 (Śa. Brā. 11-2-3-1)
 As is stated in the Śatapatha Brāhmaṇa that in the beginning Brahman was alone, and afterwards created the gods and established Agni on the earth, Vāyu in the atmosphere and Sūrya in the heaven-world, and as in the statement of the Nirukta, त्रीन् पित्थन् (*trīn pitthan*) is to be explained. The meaning is: bearing all of them, Agni, Vāyu and Sūrya, the protectors of the three worlds, he shines as the sole lord.
 
 नेमव ग्लापयंति (*nemava glāpayaṃti*)—न हि कालः आदित्यो वा अन्येन पराभूयते (*na hi kālaḥ ādityo vā anyena parābhūyate*)—neither time nor Āditya comes under the authority of others. This point,
-न यस्येंद्रो वरुणो न मित्रो व्रतमर्यमा न मिनंति रुद्रः । नारातॆयस्तमिदं स्वस्ति हुवे देवं सवितारं नमोभिः ॥ (*na yasyeṃdro varuṇo na mitro vratamaryamā na minaṃti rudraḥ | nārātèyastamidaṃ svasti huve devaṃ savitāraṃ namobhiḥ ‖*) ॥
+न यस्येंद्रो वरुणो न मित्रो व्रतमर्यमा न मिनंति रुद्रः । नारातॆयस्तमिदं स्वस्ति हुवे देवं सवितारं नमोभिः ॥ (*na yasyeṃdro varuṇo na mitro vratamaryamā na minaṃti rudraḥ | nārātèyastamidaṃ svasti huve devaṃ savitāraṃ namobhiḥ ‖*)
 (Ṛ. Saṃ. 2-38-9)
 Neither Indra, nor Varuṇa, nor Mitra, nor Aryaman *[as supplied: ಅರಮ್ಯ]* can resist this work of Āditya in the form of Savitṛ, which consists of universal regulation. And
-अस्य हि स्वयशस्तरं सवितुः कच्चन प्रियं । न मिनंति स्वराज्यं ॥ (*asya hi svayaśastaraṃ savituḥ kaccana priyaṃ | na minaṃti svarājyaṃ ‖*) ॥
+अस्य हि स्वयशस्तरं सवितुः कच्चन प्रियं । न मिनंति स्वराज्यं ॥ (*asya hi svayaśastaraṃ savituḥ kaccana priyaṃ | na minaṃti svarājyaṃ ‖*)
 (Ṛ. Saṃ. 5-82-2)
 The fame of this Āditya is extraordinary. The sovereignty of this Āditya, who is dear to all, can be harmed by neither asuras nor gods—thus in many places the greatness of this Āditya, the controller of the universe, is described and praised. Or, applying this very thing to time, it can be explained with reference to it too.
 
@@ -8784,10 +8784,10 @@ The fame of this Āditya is extraordinary. The sovereignty of this Āditya, who 
 *Running head: 352 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೦] (as supplied; the Sūkta number is printed ೧೬೦, whereas the other pages have ೧೬೪).*
 
 अमुष्य मंत्रयंते (*amuṣya maṃtrayaṃte*)—आदित्यसंबंधिनीं गर्जितलक्षणां वाचं मंत्रयंते इत्यर्थः । (*ādityasaṃbaṃdhinīṃ garjitalakṣaṇāṃ vācaṃ maṃtrayaṃte ityarthaḥ |*). That is, they perform a recitation of praise, in the form of a proclamation, that glorifies Āditya. This recitation of mantras in the form of a proclamation is described in the Chāndogya in this way:
-अथ यत्तदजायत सोऽसावादित्यस्तं जायमानं घोषा उलूलवोऽनूदतिष्ठन्त्सर्वाणि च भूतानि सर्वे च कामास्तस्मात्तस्योदयं प्रति प्रत्यायनं प्रति घोषा उलूलवोऽनूत्तिष्ठंति सर्वाणि च भूतानि सर्वे च कामाः । स य एतमेवं विद्वानादित्यं ब्रह्मेत्युपास्तेऽभ्याशो ह यदेनं साधवो घोषा आ च गच्छेयुरुप च निम्रेडेरन्निम्रेडेरन् । (*atha yattadajāyata so 'sāvādityastaṃ jāyamānaṃ ghoṣā ulūlavo 'nūdatiṣṭhantsarvāṇi ca bhūtāni sarve ca kāmāstasmāttasyodayaṃ prati pratyāyanaṃ prati ghoṣā ulūlavo 'nūttiṣṭhaṃti sarvāṇi ca bhūtāni sarve ca kāmāḥ | sa ya etamevaṃ vidvānādityaṃ brahmetyupāste 'bhyāśo ha yadenaṃ sādhavo ghoṣā ā ca gaccheyurupa ca nimreḍerannimreḍeran |*) । ಇತಿ ॥
+अथ यत्तदजायत सोऽसावादित्यस्तं जायमानं घोषा उलूलवोऽनूदतिष्ठन्त्सर्वाणि च भूतानि सर्वे च कामास्तस्मात्तस्योदयं प्रति प्रत्यायनं प्रति घोषा उलूलवोऽनूत्तिष्ठंति सर्वाणि च भूतानि सर्वे च कामाः । स य एतमेवं विद्वानादित्यं ब्रह्मेत्युपास्तेऽभ्याशो ह यदेनं साधवो घोषा आ च गच्छेयुरुप च निम्रेडेरन्निम्रेडेरन् । (*atha yattadajāyata so 'sāvādityastaṃ jāyamānaṃ ghoṣā ulūlavo 'nūdatiṣṭhantsarvāṇi ca bhūtāni sarve ca kāmāstasmāttasyodayaṃ prati pratyāyanaṃ prati ghoṣā ulūlavo 'nūttiṣṭhaṃti sarvāṇi ca bhūtāni sarve ca kāmāḥ | sa ya etamevaṃ vidvānādityaṃ brahmetyupāste 'bhyāśo ha yadenaṃ sādhavo ghoṣā ā ca gaccheyurupa ca nimreḍerannimreḍeran |*) ಇತಿ ॥
 (Bhā. U. 3-19-3, 4) *[as supplied: "ಭಾ. ಉ."]*
 Immediately after the manifestation of this Āditya, all beings proclaimed their joy, and all creatures awoke and obtained what they desired. For that reason, at every time of sunrise, a proclamation of this kind invites Āditya. If one, knowing this, worships Āditya as the Supreme Brahman, then for him too this proclamation and its joy will be a continuous cause of joy.
-आदित्य इति होवाच सर्वाणि ह वा इमानि भूतान्यादित्यमुच्चैः संतं गायंति सैषा देवतोद्गीथमन्वायत्ता ॥ (*āditya iti hovāca sarvāṇi ha vā imāni bhūtānyādityamuccaiḥ saṃtaṃ gāyaṃti saiṣā devatodgīthamanvāyattā ‖*) ॥
+आदित्य इति होवाच सर्वाणि ह वा इमानि भूतान्यादित्यमुच्चैः संतं गायंति सैषा देवतोद्गीथमन्वायत्ता ॥ (*āditya iti hovāca sarvāṇi ha vā imāni bhūtānyādityamuccaiḥ saṃtaṃ gāyaṃti saiṣā devatodgīthamanvāyattā ‖*)
 (Chā. U. 3.-11-2) *[as supplied]*
 When Āditya shines in the most elevated region, all beings gather together and praise Āditya in a loud voice. Āditya is the deity connected with the udgītha *[as supplied: उद्दीथ (*uddītha*)]*, and so on; since there results from Āditya लोपकार (*lopakāra*) *[as supplied]*, at the very sight of him all beings recite words of praise that indicate their joy and gratitude. This matter is stated in the present Ṛk by अमुष्य मंत्रयंते (*amuṣya maṃtrayaṃte*).
 
@@ -9432,7 +9432,7 @@ According to the first view the Uraga-Rākṣasas are one group; according to th
 
 In this sentence the authors of the Bṛhaddevatā say that Yāska's view is the first one; but the author of the Nirukta has only stated the view of Aupamanyu and others, and has not stated his own view definitively. Probably he too may have accepted that view.
 
-ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते । (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate |*) ।
+ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते । (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate |*)
 
 (Bṛ. De. 7-10) *[as supplied: printed "ಬೃ ದೇ." without the full stop after the first word]*
 
@@ -9504,7 +9504,7 @@ These rays of the sun, which are of the nature of streams, are the waters, and h
 
 चक्षुः (*cakṣuḥ*)—चक्षुः ख्यातेर्वा चष्टेर्वा । (*cakṣuḥ khyātervā caṣṭervā |*). The author of the Nirukta has given the derivation of this word, saying that it is formed either from the root ख्या (*khyā*), which means knowledge, or from the root चक्षु (*cakṣu*), which means seeing (Ni. 4-3). Showing the basis for that, Sāyaṇa has given the meaning of this word: ज्ञानस्वभावं, सर्वस्य चक्षुःस्थानीयं वा । (*jñānasvabhāvaṃ, sarvasya cakṣuḥsthānīyaṃ vā |*) *[as supplied: the bhāṣya on p. 376 reads khyāna- for jñāna-]*, that is, either the orb of the sun *[as supplied: printed ಸೂರಮಂಡಲ]*, which is of the nature of knowledge, or the orb of Āditya, which is of the form of the eye of the world.
 
-सूर्यो यथा सर्वलोकस्य चक्षुः । (*sūryo yathā sarvalokasya cakṣuḥ |*) ।
+सूर्यो यथा सर्वलोकस्य चक्षुः । (*sūryo yathā sarvalokasya cakṣuḥ |*)
 
 (Kaṭha. 5-11)
 
@@ -10344,7 +10344,7 @@ The other does not eat; being the Lord, of ever pure, awakened and free nature, 
 "On the same tree the person, sunk in it, grieves, deluded by helplessness" is the idea; this he explains with the words एक एव शरीरे पूर्णः पुरुषः (*eka eva śarīre pūrṇaḥ puruṣaḥ*) .... .... .... and so on (ellipsis as printed). Its meaning is as follows.
 On one tree, that is, in the body spoken of above, the person, that is the individual self who is the enjoyer, carrying the burden of ignorance, desire, action, hope of fruit and so on, sunk like a gourd-float in the water of the sea (*alābur iva sāmudre jale nimagnaḥ*—Śaṅkara's commentary), and possessed of the notion that he is the body, obtains experiences such as "I am the doer, I am happy, I am unhappy", in the forms of birth, death and the rest.
 यदा तु जुष्टं नित्यतृप्तमन्यं संसारशोकातीतं परमेश्वरं पश्यति (*yadā tu juṣṭaṃ nityatṛptamanyaṃ saṃsāraśokātītaṃ parameśvaraṃ paśyati*) .... .... ....
-तदा वीतशोको देहाद्यतिरिक्तः (*tadā vītaśoko dehādyatiriktaḥ*) . . .... .... .... अस्य परमेश्वरस्य महिमानं प्राप्नोति । (*asya parameśvarasya mahimānaṃ prāpnoti |*)।
+तदा वीतशोको देहाद्यतिरिक्तः (*tadā vītaśoko dehādyatiriktaḥ*) . . .... .... .... अस्य परमेश्वरस्य महिमानं प्राप्नोति । (*asya parameśvarasya mahimānaṃ prāpnoti |*)
 When he realises the Lord, who is beyond the sorrow of saṃsāra, then, free from sorrow and released from the fetters of the body and the rest, he obtains the very greatness of the Lord. The meaning is that as soon as that conception arises, he obtains the very form of the Lord.
 तस्माद्वस्तुतः एक एव । भेदस्तु मोहकृत इति सिद्धं । (*tasmādvastutaḥ eka eva | bhedastu mohakṛta iti siddhaṃ |*) Therefore the principle that is in truth one appears, because of the veil of delusion, as having difference; this is the established point.
 अनश्नन्नन्यो अभिचाकशीति (*anaśnannanyo abhicākaśīti*)—अन्यः परमात्मा तु आप्तकामत्वेन स्पृहाया अभ वात् अभुंजानः । (*anyaḥ paramātmā tu āptakāmatvena spṛhāyā abha vāt abhuṃjānaḥ |*) Because the Lord is of fulfilled desire, he does not eat but simply goes on looking. *[as supplied: "ಅಭ" and "ವಾತ್" are split by a line-break in the print.]*
@@ -10680,7 +10680,7 @@ He is the Lord of all, he is the all-knower, he is the inner controller. He is t
 
 In this state the Self is neither inwardly knowing, nor outwardly knowing, nor a mass of knowledge, nor knowing *[as supplied: the Kannada reads "ಪ್ರಜ್ಞನೂ, ಅಲ್ಲ" with a stray comma; kept as printed]*. He is beyond transactions, without characteristic, unthinkable, the essence of the conviction of the one Self, peaceful, auspicious, non-dual: such is the Self. This Self-realisation is to be obtained; that is the aim of the one who obtains Self-realisation *[sentence as printed]*. Describing the fruit of this Self-realisation, in the Ṛk under discussion,
 
-तस्येदाहुः पिप्पलं स्वाद्वग्रे (*tasyedāhuḥ pippalaṃ svādvagre*)—तस्य परमात्मनः पिप्पलं पालकं संसारतः उद्धारकं स्वादु आस्वादनीयं अमृतत्वलक्षणं ज्ञानं । (*tasya paramātmanaḥ pippalaṃ pālakaṃ saṃsārataḥ uddhārakaṃ svādu āsvādanīyaṃ amṛtatvalakṣaṇaṃ jñānaṃ |*) । The knowledge that is a deliverer from saṃsāra, that is free of repeated birth, death and so on, the knowledge of the form of immortality, is the fruit of this. It is praised as the best of all other fruits such as heaven, and as endless, and so on.
+तस्येदाहुः पिप्पलं स्वाद्वग्रे (*tasyedāhuḥ pippalaṃ svādvagre*)—तस्य परमात्मनः पिप्पलं पालकं संसारतः उद्धारकं स्वादु आस्वादनीयं अमृतत्वलक्षणं ज्ञानं । (*tasya paramātmanaḥ pippalaṃ pālakaṃ saṃsārataḥ uddhārakaṃ svādu āsvādanīyaṃ amṛtatvalakṣaṇaṃ jñānaṃ |*) The knowledge that is a deliverer from saṃsāra, that is free of repeated birth, death and so on, the knowledge of the form of immortality, is the fruit of this. It is praised as the best of all other fruits such as heaven, and as endless, and so on.
 
 स यो ह वै तत्परमं ब्रह्म वेद ब्रह्मैव भवति नास्याब्रह्मवित्कुले भवति । तरति शोकं तरति पाप्मानं गुहाग्रंथिभ्यो विमुक्तोऽमृतो भवति ॥ (*sa yo ha vai tatparamaṃ brahma veda brahmaiva bhavati nāsyābrahmavitkule bhavati | tarati śokaṃ tarati pāpmānaṃ guhāgraṃthibhyo vimukto 'mṛto bhavati ‖*)
 तदेतत्सत्यं (*tadetatsatyaṃ*).... नमः परमऋषिभ्यः (*namaḥ paramaṛṣibhyaḥ*) ॥
@@ -10698,7 +10698,7 @@ He becomes free from the knot of the heart and becomes immortal. This is true. S
 
 The one who keeps the whole world in his control, who is the inner Self of all beings, and who transforms his one form in many ways, the Supreme Self: for those wise ones who realise him in their own heart, endless happiness is obtained, but for the others it is certainly not obtained. This matter is stated precisely. Calling this very thing non-return,
 
-तमात्मस्थं येनुपश्यंति धीरास्तेषां शांतिः शाश्वती नेतरेषां । (*tamātmasthaṃ yenupaśyaṃti dhīrāsteṣāṃ śāṃtiḥ śāśvatī netareṣāṃ |*) ।
+तमात्मस्थं येनुपश्यंति धीरास्तेषां शांतिः शाश्वती नेतरेषां । (*tamātmasthaṃ yenupaśyaṃti dhīrāsteṣāṃ śāṃtiḥ śāśvatī netareṣāṃ |*)
 (Kaṭha. 2-2-13)
 
 For such wise ones eternal peace of the Self is obtained, but not for the other ignorant ones. This point is stated in the Ṛk under discussion by तन्नोन्नशद्यः पितरं न वेद (*tannonnaśadyaḥ pitaraṃ na veda*)—for one who does not know such a protector, the Self, this fruit is certainly not obtained. तन्नोन्नशत् (*tannonnaśat*)—नशतिर्गतिकर्मा (*naśatirgatikarmā*) । तत्पलं न प्राप्नोति । (*tatpalaṃ na prāpnoti |*) *[as supplied: "ತತ್ಪಲಂ"]* । He does not obtain that fruit. Thus it is shown that one without knowledge of the Self has no experience of this fruit. Stating this very thing in the Muṇḍaka, and explaining that for one without such knowledge of the Supreme Self there is not merely absence of bliss but also the suffering that is birth,
@@ -10706,7 +10706,7 @@ For such wise ones eternal peace of the Self is obtained, but not for the other 
 अविद्यायामंतरे वर्तमानाः स्वयं धीराः पंडितंमन्यमानाः ॥ जंघन्यमानाः परियंति मूढा अंधेनैव नीयमाना यथांधाः ॥ (*avidyāyāmaṃtare vartamānāḥ svayaṃ dhīrāḥ paṃḍitaṃmanyamānāḥ ‖ jaṃghanyamānāḥ pariyaṃti mūḍhā aṃdhenaiva nīyamānā yathāṃdhāḥ ‖*)
 (Mu. U. 1-2-8)
 
-It is shown that the fools without knowledge of the Self, obtaining birth again and again, suffer greatly, and so on. Therefore तस्मादीदृशं परमेश्वरं विदित्वा मुक्तो भूयासमित्यर्थः । (*tasmādīdṛśaṃ parameśvaraṃ viditvā mukto bhūyāsamityarthaḥ |*) । "Therefore, having known such a Supreme Lord, the protector of the world, may I become free": the intention of the Ṛṣi is clear; with this Sāyaṇa has concluded his commentary.
+It is shown that the fools without knowledge of the Self, obtaining birth again and again, suffer greatly, and so on. Therefore तस्मादीदृशं परमेश्वरं विदित्वा मुक्तो भूयासमित्यर्थः । (*tasmādīdṛśaṃ parameśvaraṃ viditvā mukto bhūyāsamityarthaḥ |*) "Therefore, having known such a Supreme Lord, the protector of the world, may I become free": the intention of the Ṛṣi is clear; with this Sāyaṇa has concluded his commentary.
 
 ### Printed p. 437
 *Running head: [ಅ. ೨. ಅ. ೩ ವ. ೧೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 437] (as supplied).*
@@ -10814,12 +10814,12 @@ The station of Gāyatra is established in Gāyatra. The station of Traiṣṭubh
 
 यद्गायत्रे अधि गायत्रमाहितं (*yadgāyatre adhi gāyatramāhitaṃ*)—When it says "on Gāyatra, Gāyatra is placed", the first word gāyatra is explained as the earth, and the second word gāyatra as आग्नेयं पदं (*āgneyaṃ padaṃ*) (the station of Agni). Explaining how the name Gāyatra became well known for the earth, प्राथम्यात् स्तुत्यत्वाच्च गायत्रि भूः (*prāthamyāt stutyatvācca gāyatri bhūḥ*): because it is first of all in creation and because it is most worthy of praise, an identity of Gāyatrī and the earth is stated, as Sāyaṇa explains. Support for this can also be shown from the Śruti passages. For example:
 
-सोऽन्वाह । अग्निं दूतं वृणीमह इति देवाश्च वासुराश्चोभये प्राजा पत्याः पस्पृधिरे तान्त्सपृर्धमानानांयत्र्यंतरा तस्थौ या वै सा गायत्र्यासीदियं वै सा पृथिवीयग्ं हैव तदंतरा तस्थौ ता उभय एव विदां चक्रुः ॥ (*so 'nvāha | agniṃ dūtaṃ vṛṇīmaha iti devāśca vāsurāścobhaye prājā patyāḥ paspṛdhire tāntsapṛrdhamānānāṃyatryaṃtarā tasthau yā vai sā gāyatryāsīdiyaṃ vai sā pṛthivīyagṃ haiva tadaṃtarā tasthau tā ubhaya eva vidāṃ cakruḥ ‖*) ॥
+सोऽन्वाह । अग्निं दूतं वृणीमह इति देवाश्च वासुराश्चोभये प्राजा पत्याः पस्पृधिरे तान्त्सपृर्धमानानांयत्र्यंतरा तस्थौ या वै सा गायत्र्यासीदियं वै सा पृथिवीयग्ं हैव तदंतरा तस्थौ ता उभय एव विदां चक्रुः ॥ (*so 'nvāha | agniṃ dūtaṃ vṛṇīmaha iti devāśca vāsurāścobhaye prājā patyāḥ paspṛdhire tāntsapṛrdhamānānāṃyatryaṃtarā tasthau yā vai sā gāyatryāsīdiyaṃ vai sā pṛthivīyagṃ haiva tadaṃtarā tasthau tā ubhaya eva vidāṃ cakruḥ ‖*)
 (Śat. Brā. 1-4-1-34)
 
 *[Translation of the Kannada rendering:]* While they were contending, Gāyatrī stood between them to mediate. The meaning is that this earth itself, in the form of that Gāyatrī, stood between them. Then they understood that victory belongs to those on whose side the earth in the form of Gāyatrī is, and defeat to the other group: so says the Brāhmaṇa passage. In commenting on it Sāyaṇa explains in his bhāṣya in this way.
 
-योत्स्यमानांस्तान्निवारयितुं गायत्री मध्ये प्रादुर्भूत्वा सेयं पृथिव्येव । मेरोग्रभागे हि अमरावती नाम नगरी तस्यां हि देवाः तथा मेरोरधस्ताद्भागे च यत् इरामुखं नाम नगरं तस्मिन्‌ह्यसुरा निवसंति तयोर्मध्यॆ पृथिवी वर्तत इति ह शब्दद्योतित शास्त्रप्रसिद्धिः । (*yotsyamānāṃstānnivārayituṃ gāyatrī madhye prādurbhūtvā seyaṃ pṛthivyeva | merograbhāge hi amarāvatī nāma nagarī tasyāṃ hi devāḥ tathā meroradhastādbhāge ca yat irāmukhaṃ nāma nagaraṃ tasminhyasurā nivasaṃti tayormadhyè pṛthivī vartata iti ha śabdadyotita śāstraprasiddhiḥ |*) ।
+योत्स्यमानांस्तान्निवारयितुं गायत्री मध्ये प्रादुर्भूत्वा सेयं पृथिव्येव । मेरोग्रभागे हि अमरावती नाम नगरी तस्यां हि देवाः तथा मेरोरधस्ताद्भागे च यत् इरामुखं नाम नगरं तस्मिन्‌ह्यसुरा निवसंति तयोर्मध्यॆ पृथिवी वर्तत इति ह शब्दद्योतित शास्त्रप्रसिद्धिः । (*yotsyamānāṃstānnivārayituṃ gāyatrī madhye prādurbhūtvā seyaṃ pṛthivyeva | merograbhāge hi amarāvatī nāma nagarī tasyāṃ hi devāḥ tathā meroradhastādbhāge ca yat irāmukhaṃ nāma nagaraṃ tasminhyasurā nivasaṃti tayormadhyè pṛthivī vartata iti ha śabdadyotita śāstraprasiddhiḥ |*)
 (Sā. Bhā. 1-4-1-34)
 
 ### Printed p. 441
@@ -10827,13 +10827,13 @@ The station of Gāyatra is established in Gāyatra. The station of Traiṣṭubh
 
 While the gods and the asuras were contending, Gāyatrī became the mediator. This earth is that Gāyatrī. The purport of this is as follows. At the top of Meru there is a city named Amarāvatī. In it the gods *[as supplied: "ವೇವತೆಗಳು" for "ದೇವತೆಗಳು"]* dwell. In the lower part of Meru there is a city named Irāvatī. In it the asuras dwell. That the earth lies between these two cities is indicated by the word ha: such is the well-known tradition of the śāstra; this is Sāyaṇa's opinion. Like this, the identity of Gāyatrī and the earth is stated also in the Chāndogya Upaniṣad.
 
-गायत्री वा इदं सर्वं भूतं यदिदं किंच वाग्वै गायत्री वाग्वा इदं सर्वं भूतं गायति च त्रायते च या वै सा गायत्रीयं नाव सा येयं पृथिव्यस्यां हीदं सर्वं भूतं प्रतिष्ठितमेतामेव नातिशीयते ॥ (*gāyatrī vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiṃca vāgvai gāyatrī vāgvā idaṃ sarvaṃ bhūtaṃ gāyati ca trāyate ca yā vai sā gāyatrīyaṃ nāva sā yeyaṃ pṛthivyasyāṃ hīdaṃ sarvaṃ bhūtaṃ pratiṣṭhitametāmeva nātiśīyate ‖*) ॥
-या वै सा पृथिवीयं नाव सा यदिदमस्मिन्पुरुषे शरीरमस्मिन्हीमे प्राणाः प्रतिष्ठिता एतदेव नातिशीयंते ॥ (*yā vai sā pṛthivīyaṃ nāva sā yadidamasminpuruṣe śarīramasminhīme prāṇāḥ pratiṣṭhitā etadeva nātiśīyaṃte ‖*) ॥
+गायत्री वा इदं सर्वं भूतं यदिदं किंच वाग्वै गायत्री वाग्वा इदं सर्वं भूतं गायति च त्रायते च या वै सा गायत्रीयं नाव सा येयं पृथिव्यस्यां हीदं सर्वं भूतं प्रतिष्ठितमेतामेव नातिशीयते ॥ (*gāyatrī vā idaṃ sarvaṃ bhūtaṃ yadidaṃ kiṃca vāgvai gāyatrī vāgvā idaṃ sarvaṃ bhūtaṃ gāyati ca trāyate ca yā vai sā gāyatrīyaṃ nāva sā yeyaṃ pṛthivyasyāṃ hīdaṃ sarvaṃ bhūtaṃ pratiṣṭhitametāmeva nātiśīyate ‖*)
+या वै सा पृथिवीयं नाव सा यदिदमस्मिन्पुरुषे शरीरमस्मिन्हीमे प्राणाः प्रतिष्ठिता एतदेव नातिशीयंते ॥ (*yā vai sā pṛthivīyaṃ nāva sā yadidamasminpuruṣe śarīramasminhīme prāṇāḥ pratiṣṭhitā etadeva nātiśīyaṃte ‖*)
 (Bhā. U. 3-12-1 to 3) *[as supplied: "ಭಾ. ಉ." although the passage is introduced as from the Chāndogya; kept as printed]*
 
 In this Upaniṣad sentence, which teaches identity, the characteristic stated by Sāyaṇa in the Ṛk under discussion is found. इदं सर्वं भूतं प्राणिजातं यत्किंच स्थावरं जंगमं वा तत्सर्वं गायत्रेव (*idaṃ sarvaṃ bhūtaṃ prāṇijātaṃ yatkiṃca sthāvaraṃ jaṃgamaṃ vā tatsarvaṃ gāyatreva*)—(Śaṃ. Bhā.). All beings, both those of the nature of the immovable and those of the nature of the moving, are forms of this Gāyatrī. Speech is Gāyatrī. The name Gāyatrī became well known because she praises (gāyati) and protects (trāyate) all beings. Moreover, since all beings are established in this earth, this earth is Gāyatrī. Thus it is shown that in many places the name Gāyatrī is well known for the earth. When it is said that the station of Gāyatra (Agni) is established on this Gāyatra, an identity of Agni and Gāyatrī is stated. Explaining how this is so, Sāyaṇa says गायत्रं आग्नेयं पदं आहितं । प्रथमसृष्टत्वात् । गायति त्रायते च इति व्युत्पत्ता च प्रजापतेर्मुखात् गायत्रा सह उत्पन्नत्वात् भक्त्या अग्निरपि गायत्रः । (*gāyatraṃ āgneyaṃ padaṃ āhitaṃ | prathamasṛṣṭatvāt | gāyati trāyate ca iti vyutpattā ca prajāpatermukhāt gāyatrā saha utpannatvāt bhaktyā agnirapi gāyatraḥ |*): as said before, whether because of being of the nature of the two actions, praising and protecting, or because Agni too was manifested together with Gāyatrī from the mouth of Prajāpati, it may be said that gāyatra here is a word that is a synonym of Agni. And to show support for his explanation, from the Taittirīya Saṃhitā,
 
-अष्टाक्षरा गायत्री गायत्रोऽग्निः । (*aṣṭākṣarā gāyatrī gāyatro 'gniḥ |*) ।
+अष्टाक्षरा गायत्री गायत्रोऽग्निः । (*aṣṭākṣarā gāyatrī gāyatro 'gniḥ |*)
 (Tai. Saṃ. 2-2-5-5)
 
 *[as supplied: the text of this window ends here, after the reference; it continues in the next window.]*
@@ -10843,21 +10843,21 @@ In this Upaniṣad sentence, which teaches identity, the characteristic stated b
 
 *[Continuing the Special Topics of Ṛk 23:]* Having cited this sentence, he says that this identity is found in the Śruti sentence as well. Besides, in the Śatapatha Brāhmaṇa also, after showing the relation between Agni and Gāyatrī, it is stated that Gāyatrī, which is of the nature of a metre, is connected with Agni, and that in showing that relation the very word that conveys identity is used. For example—
 
-आग्नेयीरन्वाह । स्वयैवेनमेतद्देवतया समिंधे । गायत्रीरन्वाह । गायत्रं ना अग्नेश्चंदः । स्वेन्नैवैनमेतच्छंदसा समिंधे ॥ (*āgneyīranvāha | svayaivenametaddevatayā samiṃdhe | gāyatrīranvāha | gāyatraṃ nā agneścaṃdaḥ | svennaivainametacchaṃdasā samiṃdhe ‖*) ॥
+आग्नेयीरन्वाह । स्वयैवेनमेतद्देवतया समिंधे । गायत्रीरन्वाह । गायत्रं ना अग्नेश्चंदः । स्वेन्नैवैनमेतच्छंदसा समिंधे ॥ (*āgneyīranvāha | svayaivenametaddevatayā samiṃdhe | gāyatrīranvāha | gāyatraṃ nā agneścaṃdaḥ | svennaivainametacchaṃdasā samiṃdhe ‖*)
 (Śat. Brā. 1-3-5-4) *[as supplied: "ಶ. ಬ್ರಾ."]*
 
 In sentences such as this the relation is explained.
 
 त्रैष्टुभात् त्रैष्टुभं निरतक्षत (*traiṣṭubhāt traiṣṭubhaṃ niratakṣata*)—when it says "from the firmament he fashioned the station of Vāyu", explaining how the name Traiṣṭubha came to the firmament, he has interpreted वृष्टिपर्जन्यविद्युद्रूपत्रिस्तोभयुक्तात् अंतरिक्षात् (*vṛṣṭiparjanyavidyudrūpatristobhayuktāt aṃtarikṣāt*) as: from the firmament joined with the three stobhas, namely rain, Parjanya and lightning.
 
-त्रिष्टुभोपदधाति । त्रैष्टुभो हि वायुः । (*triṣṭubhopadadhāti | traiṣṭubho hi vāyuḥ |*) ।
+त्रिष्टुभोपदधाति । त्रैष्टुभो हि वायुः । (*triṣṭubhopadadhāti | traiṣṭubho hi vāyuḥ |*)
 (Śat. Brā. 8-7-3-12) *[as supplied: "ಶ. ಪ್ರಾ." in the reference]*
 
 Just as in sentences such as this the identity of Triṣṭubh and Vāyu is stated, here too the second word त्रैष्टुभं (*traiṣṭubhaṃ*) means the station of Vāyu. Sāyaṇa has explained it as ऊर्ध्वाधस्तिर्य ग्लक्षण स्तोभत्रयोपेतं वायुं (*ūrdhvādhastirya glakṣaṇa stobhatrayopetaṃ vāyuṃ*).
 
-जगति जगत्पदमाहितं (*jagati jagatpadamāhitaṃ*)—explaining that the station of Āditya is established in the heavenly world, for the first word जगति (*jagati*) he gives सर्वैर्गंतव्ये उद्गततमे वा तृतीयभूते द्युलोके । (*sarvairgaṃtavye udgatatame vā tṛtīyabhūte dyuloke |*) । The meaning is the heavenly world, which all must go to and join, which is the highest, and which is the third of the worlds. Because Āditya is of moving nature he is named Jagat. There is an injunctive sentence that if the knowledge of these three stations exists there is release. This was the meaning on the adhilokā side. Besides this, there is a meaning relating to the sacrifice (adhiyajña). In that meaning the metres to be used in the three savanas are meant.
+जगति जगत्पदमाहितं (*jagati jagatpadamāhitaṃ*)—explaining that the station of Āditya is established in the heavenly world, for the first word जगति (*jagati*) he gives सर्वैर्गंतव्ये उद्गततमे वा तृतीयभूते द्युलोके । (*sarvairgaṃtavye udgatatame vā tṛtīyabhūte dyuloke |*) The meaning is the heavenly world, which all must go to and join, which is the highest, and which is the third of the worlds. Because Āditya is of moving nature he is named Jagat. There is an injunctive sentence that if the knowledge of these three stations exists there is release. This was the meaning on the adhilokā side. Besides this, there is a meaning relating to the sacrifice (adhiyajña). In that meaning the metres to be used in the three savanas are meant.
 
-गायत्रे प्रातःसवने गायत्रं छंदः पदं आहितं । त्रैष्टुभात् माध्यंदिनात् सवनात् त्रैष्टुभं छंदः जगती तृतीयसवने जागतं पदं ॥ (*gāyatre prātaḥsavane gāyatraṃ chaṃdaḥ padaṃ āhitaṃ | traiṣṭubhāt mādhyaṃdināt savanāt traiṣṭubhaṃ chaṃdaḥ jagatī tṛtīyasavane jāgataṃ padaṃ ‖*) ॥
+गायत्रे प्रातःसवने गायत्रं छंदः पदं आहितं । त्रैष्टुभात् माध्यंदिनात् सवनात् त्रैष्टुभं छंदः जगती तृतीयसवने जागतं पदं ॥ (*gāyatre prātaḥsavane gāyatraṃ chaṃdaḥ padaṃ āhitaṃ | traiṣṭubhāt mādhyaṃdināt savanāt traiṣṭubhaṃ chaṃdaḥ jagatī tṛtīyasavane jāgataṃ padaṃ ‖*)
 
 Gāyatra means the morning pressing, Traiṣṭubha means the midday pressing, and Jagat means the third pressing. It is understood that at these times of pressing these metres were fashioned and recited, or that there is an injunction that they must be recited or
 
@@ -10866,7 +10866,7 @@ Gāyatra means the morning pressing, Traiṣṭubha means the midday pressing, a
 
 recited. It is established that the sacrificer who performs the rite in the three savanas, knowing these stations of the metres, obtains immortality. Explaining this very thing in the Taittirīya Saṃhitā,
 
-गायत्रं प्रातःसवनं, त्रैष्टुभं माध्यंदिनर्ं सवनं, जागतं तृतीयसवनं । (*gāyatraṃ prātaḥsavanaṃ, traiṣṭubhaṃ mādhyaṃdinarṃ savanaṃ, jāgataṃ tṛtīyasavanaṃ |*) ।
+गायत्रं प्रातःसवनं, त्रैष्टुभं माध्यंदिनर्ं सवनं, जागतं तृतीयसवनं । (*gāyatraṃ prātaḥsavanaṃ, traiṣṭubhaṃ mādhyaṃdinarṃ savanaṃ, jāgataṃ tṛtīyasavanaṃ |*)
 (Tai. Saṃ. 2-2-9. 5, 6) *[as supplied: "ಮಾಧ್ಯಂದಿನರ್ಂ" is printed in the quotation]*
 
 it is explained in this sentence.
@@ -10949,7 +10949,7 @@ four disrichs : and with the syllable they construct the seven metres.
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 The composition and the nature of arka, sāma, vāka and the seven vāṇīs are described. What is arka? What is the nature of arka? The authors of the Nirukta have stated this in the following way. According to the explanation in the Nirukta,
 
-अर्को देवो भवति यदेनमर्चति । अर्को मंत्रो भवति यदनेनार्चंति । अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना । (*arko devo bhavati yadenamarcati | arko maṃtro bhavati yadanenārcaṃti | arkamannaṃ bhavatyarcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā |*) ।
+अर्को देवो भवति यदेनमर्चति । अर्को मंत्रो भवति यदनेनार्चंति । अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना । (*arko devo bhavati yadenamarcati | arko maṃtro bhavati yadanenārcaṃti | arkamannaṃ bhavatyarcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā |*)
 (Ni. 5-4)
 
 ### Printed p. 446
@@ -10957,19 +10957,19 @@ The composition and the nature of arka, sāma, vāka and the seven vāṇīs are
 
 Because it is the object of worship, arka itself is the deity. Because it is the instrument of worship, arka itself is the mantra. Because it gives vitality to beings, arka itself is food. The tree called arka is a bitter tree *[as supplied: "ದೃಕ್ಷವಿಶೇಷವು" in the Kannada]*: having stated these different meanings, he explained the nature of arka by citing the Ṛk
 
-गायंति त्वा गायत्रिणोऽर्चंत्यर्कमकिणः । ब्रह्माणस्त्वा शतक्रत उद्यंशमिव येमिरे ॥ (*gāyaṃti tvā gāyatriṇo 'rcaṃtyarkamakiṇaḥ | brahmāṇastvā śatakrata udyaṃśamiva yemire ‖*) ॥
+गायंति त्वा गायत्रिणोऽर्चंत्यर्कमकिणः । ब्रह्माणस्त्वा शतक्रत उद्यंशमिव येमिरे ॥ (*gāyaṃti tvā gāyatriṇo 'rcaṃtyarkamakiṇaḥ | brahmāṇastvā śatakrata udyaṃśamiva yemire ‖*)
 (Ṛ. Saṃ. 1-10-1)
 
 The glory of arka is very great, and its greatness is praised in many places.
 
-अथातः शिरः । तद्गायत्रीषु भवत्यग्रं वै छंदसां गायत्र्यग्रमंगानां शिरः । तदर्कवतीषु भवत्यग्निर्वा अर्कः । (*athātaḥ śiraḥ | tadgāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatryagramaṃgānāṃ śiraḥ | tadarkavatīṣu bhavatyagnirvā arkaḥ |*) ।
+अथातः शिरः । तद्गायत्रीषु भवत्यग्रं वै छंदसां गायत्र्यग्रमंगानां शिरः । तदर्कवतीषु भवत्यग्निर्वा अर्कः । (*athātaḥ śiraḥ | tadgāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatryagramaṃgānāṃ śiraḥ | tadarkavatīṣu bhavatyagnirvā arkaḥ |*)
 (ಪ. ಆ. 1-4-1) *[as supplied: the abbreviation "ಪ. ಆ."; the Kannada text below calls the work the Aitareya Āraṇyaka]*
 
 Thus it is praised in the Aitareya Brāhmaṇa *[as supplied: the Kannada says "ಐತರೇಯಬ್ರಾಹ್ಮಣ" here and "ಐತರೇಯಾರಣ್ಯಕ" a few lines below for the same passage]*. According to this explanation, it is also said that the nine Ṛks beginning with the Ṛk इंद्रमिद्दाथिनो बृहदिंद्रमर्कॆभिरर्किणः (*iṃdramiddāthino bṛhadiṃdramarkèbhirarkiṇaḥ*) (Ṛ. Saṃ. 1-7-1) are the arka mantras, that they are the head, that is, the chief mantras of all; that since Gāyatra is the chief principle and these mantras too are in the form of that Gāyatra, the arka mantras have obtained the chief place above all the other mantras.
 
 In this cited sentence of the Aitareya Āraṇyaka the natural relation common to Agni, Gāyatrī and arka is shown. That the identity of Gāyatrī and Agni was stated in the Taittirīya Saṃhitā by "गायत्रोऽग्निः (*gāyatro 'gniḥ*)" was told in the Special Topics of the previous Ṛk. It is on the basis of this very sentence that Sāyaṇa in the previous Ṛk gave the meaning आग्नेयं पदमाहितं (*āgneyaṃ padamāhitaṃ*) for गायत्रमाहितं (*gāyatramāhitaṃ*). Showing the identity of Agni, which is of such Gāyatra form, and arka, there is the Āraṇyaka sentence "अग्निर्वा अर्कः (*agnirvā arkaḥ*)". Stating this same point in the Śatapatha Brāhmaṇa also,
 
-एषोऽग्निरर्को यत्पुरुषः स यो हैतमेवमग्निमर्कं पुरुषमुपास्तेऽयमहमग्निरर्कोऽस्मीति विद्यया हैवास्यैष आत्मन्नग्निरर्कश्चितो भवति ॥ (*eṣo 'gnirarko yatpuruṣaḥ sa yo haitamevamagnimarkaṃ puruṣamupāste 'yamahamagnirarko 'smīti vidyayā haivāsyaiṣa ātmannagnirarkaścito bhavati ‖*) ॥
+एषोऽग्निरर्को यत्पुरुषः स यो हैतमेवमग्निमर्कं पुरुषमुपास्तेऽयमहमग्निरर्कोऽस्मीति विद्यया हैवास्यैष आत्मन्नग्निरर्कश्चितो भवति ॥ (*eṣo 'gnirarko yatpuruṣaḥ sa yo haitamevamagnimarkaṃ puruṣamupāste 'yamahamagnirarko 'smīti vidyayā haivāsyaiṣa ātmannagnirarkaścito bhavati ‖*)
 (Śat. Brā. 10-3-4-5)
 
 in sentences such as this too the identity of Agni and arka is stated. It is explained in the Ṛk under discussion that this arka mantra is fashioned by the Gāyatra metre, which is dear to Agni. It should be understood that, as explained above in the sentences of the Nirukta authors, if arka refers to the deity it means Agni, and if it refers to the mantra it means Gāyatrī.
@@ -10977,7 +10977,7 @@ in sentences such as this too the identity of Agni and arka is stated. It is exp
 ### Printed p. 447
 *Running head: [ಆ. ೨. ಆ. ೩. ವ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 447] (as supplied).*
 
-गायत्रेण अर्कं प्रति मिमीते (*gāyatreṇa arkaṃ prati mimīte*)—when it says this, it is shown that if the preposition प्रति (*prati*) is joined to the verb मिमिते (*mimite*), two kinds of meaning result. First, प्रत्येकं परिच्छिन्नत्ति (*pratyekaṃ paricchinnatti*) *[as supplied: "ಪರಿಚ್ಛಿನ್ನತ್ತಿ"]*, he divides each mantra, that is, it may mean that he composes each mantra separately by the Gāyatra metre. Or the other metres as well are composed on the basis of the Gāyatra metre. How? इतरेषां छंदसा अस्यॆव चतुश्चतुरक्षराधिक्येन तत्तच्छंदोभिः प्रतिमिमिते इत्यर्थः । (*itareṣāṃ chaṃdasā asyèva catuścaturakṣarādhikyena tattacchaṃdobhiḥ pratimimite ityarthaḥ |*) ।
+गायत्रेण अर्कं प्रति मिमीते (*gāyatreṇa arkaṃ prati mimīte*)—when it says this, it is shown that if the preposition प्रति (*prati*) is joined to the verb मिमिते (*mimite*), two kinds of meaning result. First, प्रत्येकं परिच्छिन्नत्ति (*pratyekaṃ paricchinnatti*) *[as supplied: "ಪರಿಚ್ಛಿನ್ನತ್ತಿ"]*, he divides each mantra, that is, it may mean that he composes each mantra separately by the Gāyatra metre. Or the other metres as well are composed on the basis of the Gāyatra metre. How? इतरेषां छंदसा अस्यॆव चतुश्चतुरक्षराधिक्येन तत्तच्छंदोभिः प्रतिमिमिते इत्यर्थः । (*itareṣāṃ chaṃdasā asyèva catuścaturakṣarādhikyena tattacchaṃdobhiḥ pratimimite ityarthaḥ |*)
 If the Gāyatra metre has twenty-four syllables:
 Uṣṇik 24 + 4 (28)
 Anuṣṭup 24 + 4 + 4 ; (32)
@@ -10988,13 +10988,13 @@ Jagatī 24 + 4 + 4 + 4 + 4 + 4 (48) *[as supplied: the Jagatī row is printed wi
 (The metre names are printed उष्णिक् (*uṣṇik*), अनुष्टुप् (*anuṣṭup*), बृहती (*bṛhatī*), पंक्तिः (*paṃktiḥ*), त्रिष्टुप् (*triṣṭup*), जगती (*jagatī*).)
 In this way, with four more syllables each time, the Uṣṇik and the rest are composed on the basis of the Gāyatra: this too may be the meaning. Second, if the word प्रति (*prati*) is in the sense of the word सम् (*sam*), then:
 
-यद्वा प्रतिशब्दः सम् इत्येतस्मिन्नर्थे । छंदोभिर्मंत्रान् संमितं करोतीत्यर्थः । (*yadvā pratiśabdaḥ sam ityetasminnarthe | chaṃdobhirmaṃtrān saṃmitaṃ karotītyarthaḥ |*) ।
+यद्वा प्रतिशब्दः सम् इत्येतस्मिन्नर्थे । छंदोभिर्मंत्रान् संमितं करोतीत्यर्थः । (*yadvā pratiśabdaḥ sam ityetasminnarthe | chaṃdobhirmaṃtrān saṃmitaṃ karotītyarthaḥ |*)
 
 he explains that the meaning is that he first fashions the mantras and afterwards makes them joined with metres. Then,
 
 अर्केण सामः (*arkeṇa sāmaḥ*)—by this arka, of the form of a mantra, he fashions the sāma, that is, the sāma named Gāyatra-rathantara. If arka is created from Gāyatra and sāma from arka, it may also be called the Gāyatra-sāma. Or it may be of three kinds: Gāyatra-sāma, Rathantara-sāma and Bṛhat-sāma. That these three sāmas relate to Agni is stated in the Śatapatha Brāhmaṇa.
 
-वीर्यवत्तरो हिंकृत्य गायति तत्र हि सर्वं कृत्स्नगं साम भवति । गायत्रं पुरस्ताद्गायति । अग्निर्वै गायत्रमग्निमेवास्यैतच्छिरः करोत्यथो शिर एवास्यैतदनस्थिकममृतं करोति । (*vīryavattaro hiṃkṛtya gāyati tatra hi sarvaṃ kṛtsnagaṃ sāma bhavati | gāyatraṃ purastādgāyati | agnirvai gāyatramagnimevāsyaitacchiraḥ karotyatho śira evāsyaitadanasthikamamṛtaṃ karoti |*) ।
+वीर्यवत्तरो हिंकृत्य गायति तत्र हि सर्वं कृत्स्नगं साम भवति । गायत्रं पुरस्ताद्गायति । अग्निर्वै गायत्रमग्निमेवास्यैतच्छिरः करोत्यथो शिर एवास्यैतदनस्थिकममृतं करोति । (*vīryavattaro hiṃkṛtya gāyati tatra hi sarvaṃ kṛtsnagaṃ sāma bhavati | gāyatraṃ purastādgāyati | agnirvai gāyatramagnimevāsyaitacchiraḥ karotyatho śira evāsyaitadanasthikamamṛtaṃ karoti |*)
 (Śat. Brā. 9-1-2-35)
 
 The sacrificer, the performer of the sacrifice, sings the complete sāma. In it the Gāyatra-sāma is sung first. Since the Gāyatra metre itself is Agni, Agni himself becomes of the form of the head for this sacrificer.
@@ -11006,17 +11006,17 @@ The sacrificer, the performer of the sacrifice, sings the complete sāma. In it 
 
 *[Continuing the Special Topics of Ṛk 24:]*
 
-रथंतरं दक्षिणे पक्षे । इयं वै रथंतरमियम वा एषां लोकानाग्ं रसतमोऽस्याग्‌ंहीमे सर्वे रसा रसतमग्‌ंह वै तद्रथंतरमित्याचक्षते परोक्षं परोक्षकामा हि देवा इमामेवास्यैतद्दक्षिणं पक्षं करोत्यथो दक्षिणमेवास्यैतत्पक्षमनस्थिकममृतं करोति ॥ (*rathaṃtaraṃ dakṣiṇe pakṣe | iyaṃ vai rathaṃtaramiyama vā eṣāṃ lokānāgṃ rasatamo 'syāgṃhīme sarve rasā rasatamagṃha vai tadrathaṃtaramityācakṣate parokṣaṃ parokṣakāmā hi devā imāmevāsyaitaddakṣiṇaṃ pakṣaṃ karotyatho dakṣiṇamevāsyaitatpakṣamanasthikamamṛtaṃ karoti ‖*) ॥
+रथंतरं दक्षिणे पक्षे । इयं वै रथंतरमियम वा एषां लोकानाग्ं रसतमोऽस्याग्‌ंहीमे सर्वे रसा रसतमग्‌ंह वै तद्रथंतरमित्याचक्षते परोक्षं परोक्षकामा हि देवा इमामेवास्यैतद्दक्षिणं पक्षं करोत्यथो दक्षिणमेवास्यैतत्पक्षमनस्थिकममृतं करोति ॥ (*rathaṃtaraṃ dakṣiṇe pakṣe | iyaṃ vai rathaṃtaramiyama vā eṣāṃ lokānāgṃ rasatamo 'syāgṃhīme sarve rasā rasatamagṃha vai tadrathaṃtaramityācakṣate parokṣaṃ parokṣakāmā hi devā imāmevāsyaitaddakṣiṇaṃ pakṣaṃ karotyatho dakṣiṇamevāsyaitatpakṣamanasthikamamṛtaṃ karoti ‖*)
 (Śat. Brā. 9-1-2-36) *[as supplied: "ಶ. ಬ್ರಾ"]*
 
 He sings the Rathantara-sāma on the right side. The earth, which is the most sap-filled of all the worlds and the dwelling-place of Agni, is Rathantara; what ought to be called "rasaṃtara" the gods, who love the indirect, call "rathantara". By the singing of the most sap-filled Rathantara the earth is on the right side of the sacrificer, and immortality is obtained by him.
 
-बृहदुत्तरे पक्षे । द्यौर्वै बृहद्दौर्हि बर्हिष्ठा दिवमेवास्यैतदुत्तरं पक्षं करोत्यथो उत्तरमेवास्यैतत्पक्षमनस्थिकममृतं करोति ॥ (*bṛhaduttare pakṣe | dyaurvai bṛhaddaurhi barhiṣṭhā divamevāsyaitaduttaraṃ pakṣaṃ karotyatho uttaramevāsyaitatpakṣamanasthikamamṛtaṃ karoti ‖*) ॥
+बृहदुत्तरे पक्षे । द्यौर्वै बृहद्दौर्हि बर्हिष्ठा दिवमेवास्यैतदुत्तरं पक्षं करोत्यथो उत्तरमेवास्यैतत्पक्षमनस्थिकममृतं करोति ॥ (*bṛhaduttare pakṣe | dyaurvai bṛhaddaurhi barhiṣṭhā divamevāsyaitaduttaraṃ pakṣaṃ karotyatho uttaramevāsyaitatpakṣamanasthikamamṛtaṃ karoti ‖*)
 (Śat. Brā. 9-1-2-27) *[as supplied: the verse number "೨೭" after the preceding "೩೬"; kept as printed]*
 
 He sings the Bṛhat-sāma on the left. The heavenly world, the greatest of all worlds, is on the left side of this Agni, and immortality is obtained by the sacrificer: thus the varieties in the singing of sāmas are stated. Besides, in this same part of the Śatapatha Brāhmaṇa, stating the power of this sāma and the benefit to be obtained from singing it,
 
-अथैनं सामभिः परिगायति । अत्रैष सर्वोऽग्निः संस्कृतस्तस्मिन् देवा एतदमृतग्ं रूपमुत्तममदधुस्तथैवास्मिन्नयमेतदमृतग्ं रूपमुत्तमं दधाति सामानि भवंति प्राणा वै सामान्यमृतमु वै प्राणा अमृतमेवास्मिन्नेतद्रूपमुत्तमं दधाति सर्वतः परिगायति सर्वत एवास्मिन्नेतदमृतग्ंरूपमुत्तमं दधाति । (*athainaṃ sāmabhiḥ parigāyati | atraiṣa sarvo 'gniḥ saṃskṛtastasmin devā etadamṛtagṃ rūpamuttamamadadhustathaivāsminnayametadamṛtagṃ rūpamuttamaṃ dadhāti sāmāni bhavaṃti prāṇā vai sāmānyamṛtamu vai prāṇā amṛtamevāsminnetadrūpamuttamaṃ dadhāti sarvataḥ parigāyati sarvata evāsminnetadamṛtagṃrūpamuttamaṃ dadhāti |*) ।
+अथैनं सामभिः परिगायति । अत्रैष सर्वोऽग्निः संस्कृतस्तस्मिन् देवा एतदमृतग्ं रूपमुत्तममदधुस्तथैवास्मिन्नयमेतदमृतग्ं रूपमुत्तमं दधाति सामानि भवंति प्राणा वै सामान्यमृतमु वै प्राणा अमृतमेवास्मिन्नेतद्रूपमुत्तमं दधाति सर्वतः परिगायति सर्वत एवास्मिन्नेतदमृतग्ंरूपमुत्तमं दधाति । (*athainaṃ sāmabhiḥ parigāyati | atraiṣa sarvo 'gniḥ saṃskṛtastasmin devā etadamṛtagṃ rūpamuttamamadadhustathaivāsminnayametadamṛtagṃ rūpamuttamaṃ dadhāti sāmāni bhavaṃti prāṇā vai sāmānyamṛtamu vai prāṇā amṛtamevāsminnetadrūpamuttamaṃ dadhāti sarvataḥ parigāyati sarvata evāsminnetadamṛtagṃrūpamuttamaṃ dadhāti |*)
 (ಪ. ಬ್ರಾ. 9-1-2-32) *[as supplied: the abbreviation "ಪ. ಬ್ರಾ."; the Kannada text says this is the Śatapatha Brāhmaṇa]*
 
 This singing of sāmas is to be done around Agni. Therefore the ṛtviks, with a mind full of meditation, sing the Rathantara and the other sāmas. By this singing Agni too becomes complete in form. The gods also placed in him immortality of the most excellent form. The sāmas are the principal life-breaths. These principal life-breaths are immortal. Therefore the singing of sāmas produces *[as supplied: the Kannada verb is plural, "ಮಾಡುತ್ತವೆ"]* immortality.
@@ -11028,11 +11028,11 @@ Such a sacred sāma, a giver of immortality, अर्कॆण (*arkèṇa*) *[
 
 as well. On the basis of a Śruti sentence an objection may arise in this context. How? Thus:
 
-एकं साम तृचे क्रियते (*ekaṃ sāma tṛce kriyate*) इति तिसृषु एकं साम विहितं अतः अर्कैः साम इति वक्तव्यं कथमुच्यते अर्केण इति ॥ (*iti tisṛṣu ekaṃ sāma vihitaṃ ataḥ arkaiḥ sāma iti vaktavyaṃ kathamucyate arkeṇa iti ‖*) ॥
+एकं साम तृचे क्रियते (*ekaṃ sāma tṛce kriyate*) इति तिसृषु एकं साम विहितं अतः अर्कैः साम इति वक्तव्यं कथमुच्यते अर्केण इति ॥ (*iti tisṛṣu ekaṃ sāma vihitaṃ ataḥ arkaiḥ sāma iti vaktavyaṃ kathamucyate arkeṇa iti ‖*)
 
 "One sāma is included in three ṛks": so the Śruti sentence says. Therefore it should be said "ārkaiḥ", by the arkas, that the sāma is fashioned; the use of the singular "arkeṇa" (by the arka) *[as supplied: "ಅರ್ಕಣ"]* with "pratimimīte" is not right: this is a just objection. If it is asked what the Śruti authority for this is, in the Aitareya Brāhmaṇa and others the relation between ṛk and sāma is described in this way. An earlier story is also told for it:
 
-ऋक्च वा इदमग्रे साम चास्तां सैव नाम ऋगासीदमो नाम साम सा वा ऋक्सामोपावदन्मिथुनं संभवाव प्रजात्या इति नेत्यब्रवीत्साम् ज्यायान्वा अतो मम महिमेति ते द्वे भूत्वोपावदतां तेन प्रतिचन समवदत तास्तिस्रो भूत्वोपावदंस्तत्तिस्सृभिः समभवद्यत्ति सृभिः समभवत्तस्मात्तिस्सृभिस्तुवंति तिसृभिरुद्गायंति तिसृभिर्हि साम संमितं तस्मादेकस्य बह्वो जाया भवंति नैकस्यै बहवः सह पतयो यद्वै तत्सा चामश्च समभवतां तत्सामाभवत्तत्साम्नः सामत्वं ॥ (*ṛkca vā idamagre sāma cāstāṃ saiva nāma ṛgāsīdamo nāma sāma sā vā ṛksāmopāvadanmithunaṃ saṃbhavāva prajātyā iti netyabravītsām jyāyānvā ato mama mahimeti te dve bhūtvopāvadatāṃ tena praticana samavadata tāstisro bhūtvopāvadaṃstattissṛbhiḥ samabhavadyatti sṛbhiḥ samabhavattasmāttissṛbhistuvaṃti tisṛbhirudgāyaṃti tisṛbhirhi sāma saṃmitaṃ tasmādekasya bahvo jāyā bhavaṃti naikasyai bahavaḥ saha patayo yadvai tatsā cāmaśca samabhavatāṃ tatsāmābhavattatsāmnaḥ sāmatvaṃ ‖*) ॥
+ऋक्च वा इदमग्रे साम चास्तां सैव नाम ऋगासीदमो नाम साम सा वा ऋक्सामोपावदन्मिथुनं संभवाव प्रजात्या इति नेत्यब्रवीत्साम् ज्यायान्वा अतो मम महिमेति ते द्वे भूत्वोपावदतां तेन प्रतिचन समवदत तास्तिस्रो भूत्वोपावदंस्तत्तिस्सृभिः समभवद्यत्ति सृभिः समभवत्तस्मात्तिस्सृभिस्तुवंति तिसृभिरुद्गायंति तिसृभिर्हि साम संमितं तस्मादेकस्य बह्वो जाया भवंति नैकस्यै बहवः सह पतयो यद्वै तत्सा चामश्च समभवतां तत्सामाभवत्तत्साम्नः सामत्वं ॥ (*ṛkca vā idamagre sāma cāstāṃ saiva nāma ṛgāsīdamo nāma sāma sā vā ṛksāmopāvadanmithunaṃ saṃbhavāva prajātyā iti netyabravītsām jyāyānvā ato mama mahimeti te dve bhūtvopāvadatāṃ tena praticana samavadata tāstisro bhūtvopāvadaṃstattissṛbhiḥ samabhavadyatti sṛbhiḥ samabhavattasmāttissṛbhistuvaṃti tisṛbhirudgāyaṃti tisṛbhirhi sāma saṃmitaṃ tasmādekasya bahvo jāyā bhavaṃti naikasyai bahavaḥ saha patayo yadvai tatsā cāmaśca samabhavatāṃ tatsāmābhavattatsāmnaḥ sāmatvaṃ ‖*)
 (Ai. Brā. 3-23)
 
 In the beginning ṛk and sāma were together. The ṛk was in female form and the sāma in male form. Then the ṛk approached the sāma and said, "Let us two establish a conjugal relation and obtain offspring." The sāma replied, "That cannot be; my greatness is greater than yours." Then the ṛk grew twice as large (became two forms) and asked again. Even then the sāma did not agree. When she grew into three and asked the sāma, then the sāma agreed. Because the sāma joined with three ṛks, they praise with three ṛks and sing with three ṛks. Therefore also in the world it is the custom for a man to have many wives; a woman cannot have many husbands. In this way, because ṛk and sāma joined together, the name sāma (sā + ama) became well known.
@@ -11046,11 +11046,11 @@ In this way, since it is proper that one sāma should join with three ṛks, the
 ### Printed p. 450
 *Running head: 450 ಸಾಯುಧಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied: "ಸಾಯುಧ" for "ಸಾಯಣ"; the head was set off by the script).*
 
-यति इत्यतिदेशतः प्राप्तं तिसृषु गानं । अतः एकवचनमविरुद्धं ॥ (*yati ityatideśataḥ prāptaṃ tisṛṣu gānaṃ | ataḥ ekavacanamaviruddhaṃ ‖*) ॥ In fact one sāma is sung on one ṛk. Afterwards it establishes a relation with the other ṛks, that is, it is sung on the other ṛks. Therefore, he has explained, the use here of the singular "arkeṇa" is neither against tradition nor against the śāstra.
+यति इत्यतिदेशतः प्राप्तं तिसृषु गानं । अतः एकवचनमविरुद्धं ॥ (*yati ityatideśataḥ prāptaṃ tisṛṣu gānaṃ | ataḥ ekavacanamaviruddhaṃ ‖*) In fact one sāma is sung on one ṛk. Afterwards it establishes a relation with the other ṛks, that is, it is sung on the other ṛks. Therefore, he has explained, the use here of the singular "arkeṇa" is neither against tradition nor against the śāstra.
 
 In many places the relation between the ṛk, which is of the form of arka, and the sāma is praised as a conjugal relation. In the Śatapatha and other Brāhmaṇas, and in the Chāndogya and other Upaniṣads, the ṛk is indicated as the wife and the sāma as the husband.
 
-तद्यथा पितुः पुत्रमेवं त्रीणि प्रथमान्याहाध कस्मादृक्षामयोः संक्रामति मतीति साम वा ऋचः पतिस्तद्यत्तत्रापि यथा पितुः पुत्रमेवं ब्रूयादृथा पतिग्ं संतं पुत्रं ब्रूयात्तादृक्तस्तस्मादृक्षामयोः संक्रामति तस्मादु त्रिः संतनोतीति पितरं पुत्रं पौत्रं तांस्तत्संतनोति तस्मादु तॆ भ्य एक एव दधाति ॥ (*tadyathā pituḥ putramevaṃ trīṇi prathamānyāhādha kasmādṛkṣāmayoḥ saṃkrāmati matīti sāma vā ṛcaḥ patistadyattatrāpi yathā pituḥ putramevaṃ brūyādṛthā patigṃ saṃtaṃ putraṃ brūyāttādṛktastasmādṛkṣāmayoḥ saṃkrāmati tasmādu triḥ saṃtanotīti pitaraṃ putraṃ pautraṃ tāṃstatsaṃtanoti tasmādu tè bhya eka eva dadhāti ‖*) ॥
+तद्यथा पितुः पुत्रमेवं त्रीणि प्रथमान्याहाध कस्मादृक्षामयोः संक्रामति मतीति साम वा ऋचः पतिस्तद्यत्तत्रापि यथा पितुः पुत्रमेवं ब्रूयादृथा पतिग्ं संतं पुत्रं ब्रूयात्तादृक्तस्तस्मादृक्षामयोः संक्रामति तस्मादु त्रिः संतनोतीति पितरं पुत्रं पौत्रं तांस्तत्संतनोति तस्मादु तॆ भ्य एक एव दधाति ॥ (*tadyathā pituḥ putramevaṃ trīṇi prathamānyāhādha kasmādṛkṣāmayoḥ saṃkrāmati matīti sāma vā ṛcaḥ patistadyattatrāpi yathā pituḥ putramevaṃ brūyādṛthā patigṃ saṃtaṃ putraṃ brūyāttādṛktastasmādṛkṣāmayoḥ saṃkrāmati tasmādu triḥ saṃtanotīti pitaraṃ putraṃ pautraṃ tāṃstatsaṃtanoti tasmādu tè bhya eka eva dadhāti ‖*)
 (ಕ. ಪ್ರಾ. 8-1-5-5) *[as supplied: the abbreviation "ಕ. ಪ್ರಾ."]*
 
 If the question comes, what propriety there is in comparing the relation of father and son with the relation between sāma and ṛk: the sāma is the husband of the ṛk, and likewise it shows the position of the husband. With the three alternatives father, son, grandson, the relation of husband and wife between the sāma and the ṛk, which consists of three, is also stated. In the same way, in the Chāndogya Upaniṣad also, showing the relation between ṛk and sāma, it is described in one way in the adhidaivata view and in another way in the adhyātma view. As in the adhidaivata view—(Chā. U. 1-6-1-8),
@@ -11070,18 +11070,18 @@ the identity of the earth and the rest with the ṛk, and of Agni and the other 
 
 अथाध्यात्मं वागेवक्र्प्राणः साम तदेतदेतस्यामृच्यधूढं साम तस्मादृच्यधूढं साम गीयते । वागेव सा प्राणोऽमस्तत्साम ॥ १ ॥ (*athādhyātmaṃ vāgevakrprāṇaḥ sāma tadetadetasyāmṛcyadhūḍhaṃ sāma tasmādṛcyadhūḍhaṃ sāma gīyate | vāgeva sā prāṇo 'mastatsāma ‖ 1 ‖*)
 चक्षुरेवर्गात्मा साम .... .... .... .... चक्षुरेव सात्मामस्तत्साम ॥ २ ॥ (*cakṣurevargātmā sāma .... .... .... .... cakṣureva sātmāmastatsāma ‖ 2 ‖*)
-शोत्रमेवर्ज्मन्मनः साम .... .... .... .... शोत्रमेव सा मनोऽमस्तत्साम ॥ (*śotramevarjmanmanaḥ sāma .... .... .... .... śotrameva sā mano 'mastatsāma ‖*) ॥ ೩ ॥
+शोत्रमेवर्ज्मन्मनः साम .... .... .... .... शोत्रमेव सा मनोऽमस्तत्साम ॥ (*śotramevarjmanmanaḥ sāma .... .... .... .... śotrameva sā mano 'mastatsāma ‖*) ೩ ॥
 
 In this way speech, the eye, the ear and the rest, as supports of the life-breath, the self, the mind and the rest, show the relation of ṛk and sāma. Speech and the rest are the ṛks (sā); the life-breath and the rest are "ama"; the two together become sāma. This is the explanation of the adhyātma view.
 
 In stating thus the relation of ṛk and sāma, it is described that the three worlds, the earth and the rest, and the deities Agni and the rest who are the lords of these worlds, are in this form; or that ṛk and sāma themselves are in that form; and the all-pervasiveness of ṛk and sāma is described in the adhidaivata form and in the adhyātma form.
 
-स एष ये चैतस्मादर्वांचो लोकास्तेषां चेष्टे मनुष्यकामानां चेति तद्य इमे वीणायां गायंत्येतं ते गायंति तस्मात्ते धनसनयः । (*sa eṣa ye caitasmādarvāṃco lokāsteṣāṃ ceṣṭe manuṣyakāmānāṃ ceti tadya ime vīṇāyāṃ gāyaṃtyetaṃ te gāyaṃti tasmātte dhanasanayaḥ |*) ।
+स एष ये चैतस्मादर्वांचो लोकास्तेषां चेष्टे मनुष्यकामानां चेति तद्य इमे वीणायां गायंत्येतं ते गायंति तस्मात्ते धनसनयः । (*sa eṣa ye caitasmādarvāṃco lokāsteṣāṃ ceṣṭe manuṣyakāmānāṃ ceti tadya ime vīṇāyāṃ gāyaṃtyetaṃ te gāyaṃti tasmātte dhanasanayaḥ |*)
 (Chā. U. 1-7-6)
 
 He is the lord of all the worlds below this (the one within the eye, related to the Self) and of all desires. For those who sing this sāma in the form of lute-singing, all kinds of wealth are obtained. Not only this,
 
-अथ य एतदेवं विद्वान्साम गायत्युभौ स गायति सोऽमुनैव स एष ये चामुष्मात्परांचो लोकास्तांश्चाप्नोति देवकामांश्च ॥ कं ते काममागायानीत्येष ह्येव कामागानस्येष्टे य एवं विद्वान्साम गायति साम गायति ॥ (*atha ya etadevaṃ vidvānsāma gāyatyubhau sa gāyati so 'munaiva sa eṣa ye cāmuṣmātparāṃco lokāstāṃścāpnoti devakāmāṃśca ‖ kaṃ te kāmamāgāyānītyeṣa hyeva kāmāgānasyeṣṭe ya evaṃ vidvānsāma gāyati sāma gāyati ‖*) ॥
+अथ य एतदेवं विद्वान्साम गायत्युभौ स गायति सोऽमुनैव स एष ये चामुष्मात्परांचो लोकास्तांश्चाप्नोति देवकामांश्च ॥ कं ते काममागायानीत्येष ह्येव कामागानस्येष्टे य एवं विद्वान्साम गायति साम गायति ॥ (*atha ya etadevaṃ vidvānsāma gāyatyubhau sa gāyati so 'munaiva sa eṣa ye cāmuṣmātparāṃco lokāstāṃścāpnoti devakāmāṃśca ‖ kaṃ te kāmamāgāyānītyeṣa hyeva kāmāgānasyeṣṭe ya evaṃ vidvānsāma gāyati sāma gāyati ‖*)
 (Chā. U. 1-7-7 to 9)
 
 ### Printed p. 452
@@ -11089,18 +11089,18 @@ He is the lord of all the worlds below this (the one within the eye, related to 
 
 By this singing of sāmas all desires common to gods, men and the rest are obtained. Therefore the udgātṛ may ask, "By this singing of sāma, which desire of yours shall I make accomplished?" For the one who performs this sacred singing of sāma is the lord of all kinds of desires, worldly and heavenly, and is able to obtain them.
 
-स य एतदेवं विद्वान्साधु सामेत्युपास्तेऽभ्याशो ह यदेवं सादवो धर्मा आ च गच्छेयुरुप च नमेयुः । (*sa ya etadevaṃ vidvānsādhu sāmetyupāste 'bhyāśo ha yadevaṃ sādavo dharmā ā ca gaccheyurupa ca nameyuḥ |*) ।
+स य एतदेवं विद्वान्साधु सामेत्युपास्तेऽभ्याशो ह यदेवं सादवो धर्मा आ च गच्छेयुरुप च नमेयुः । (*sa ya etadevaṃ vidvānsādhu sāmetyupāste 'bhyāśo ha yadevaṃ sādavo dharmā ā ca gaccheyurupa ca nameyuḥ |*)
 (ಛ. 38 2-2-4) *[as supplied: the abbreviation and number "ಛ. ೩೮"]*
 
 The great one who knows this truth worships the sāma, knowing it to be sādhu (good). The sādhu-dharmas come always to protect him; and for the protection of his self they remain with him and serve him. In this way the power of sāma is described in many ways. Besides this, पंचविधं सामोपासीत (*paṃcavidhaṃ sāmopāsīta*) and so on: there is a description of the divisions of this sāma and praise of its greatness in many ways, and it is praised in many ways as a direct means to the welfare of the self. As the explanation would be very lengthy, those praising sentences cannot be cited here; its praise can be learnt from the Chāndogya and others.
 
 In the Ṛk under discussion, what Sāyaṇa explained as उक्तलक्षणेन मंत्रेण साम गायत्ररथंतरसंज्ञकं साम प्रतिमिमाते । (*uktalakṣaṇena maṃtreṇa sāma gāyatrarathaṃtarasaṃjñakaṃ sāma pratimimāte |*) *[as supplied: "ಪ್ರತಿಮಿಮಾತೇ"]* has been stated above.
 
-त्रैष्टुभेन वाकं (*traiṣṭubhena vākaṃ*)—"by the Triṣṭup metre he fashioned the vāka": this can be said as the gross meaning. Here the word vāka may mean the collective sentences of the form of dvyṛca and tṛca (couplets and triplets). Or he explains it as वाकं सूक्तं एतावद्भिस्त्रिष्टुब्बिः उपनिबद्धमिदं सूक्तं (*vākaṃ sūktaṃ etāvadbhistriṣṭubbiḥ upanibaddhamidaṃ sūktaṃ*) *[as supplied: "ಏತಾವದ್ಭಿಸ್ತ್ರಿಷ್ಟುಬ್ಬಿಃ"]*, a sūkta composed of Triṣṭups and the rest. Supposing the question, why only Triṣṭup is mentioned when there are other metres too, he has answered thus: अथवा अनादेशे सर्वत्र त्रिष्टुभो ग्रहणात् प्राचुर्याभिप्रायेण इदमुक्तं । (*athavā anādeśe sarvatra triṣṭubho grahaṇāt prācuryābhiprāyeṇa idamuktaṃ |*) । Since in the whole Ṛk-saṃhitā the sūktas composed in the Triṣṭup metre are by far the most numerous, Sāyaṇa explains that it is said taking this one metre as the chief.
+त्रैष्टुभेन वाकं (*traiṣṭubhena vākaṃ*)—"by the Triṣṭup metre he fashioned the vāka": this can be said as the gross meaning. Here the word vāka may mean the collective sentences of the form of dvyṛca and tṛca (couplets and triplets). Or he explains it as वाकं सूक्तं एतावद्भिस्त्रिष्टुब्बिः उपनिबद्धमिदं सूक्तं (*vākaṃ sūktaṃ etāvadbhistriṣṭubbiḥ upanibaddhamidaṃ sūktaṃ*) *[as supplied: "ಏತಾವದ್ಭಿಸ್ತ್ರಿಷ್ಟುಬ್ಬಿಃ"]*, a sūkta composed of Triṣṭups and the rest. Supposing the question, why only Triṣṭup is mentioned when there are other metres too, he has answered thus: अथवा अनादेशे सर्वत्र त्रिष्टुभो ग्रहणात् प्राचुर्याभिप्रायेण इदमुक्तं । (*athavā anādeśe sarvatra triṣṭubho grahaṇāt prācuryābhiprāyeṇa idamuktaṃ |*) Since in the whole Ṛk-saṃhitā the sūktas composed in the Triṣṭup metre are by far the most numerous, Sāyaṇa explains that it is said taking this one metre as the chief.
 
 Not only this, the greatness of the Triṣṭup is very high. Its explanation is stated in the Nirukta in this way.
 
-त्रिष्टुप् स्तोभत्युत्तरपदा । का तु त्रितु स्यात् । तीर्णतमं छंधः। त्रिवृद्वज्रस्तस्य स्तोभतीति वा । यत्तिरस्तोभत्तत्तिष्टुभस्तिष्टुप्तमिति विज्ञायते । (*triṣṭup stobhatyuttarapadā | kā tu tritu syāt | tīrṇatamaṃ chaṃdhaḥ| trivṛdvajrastasya stobhatīti vā | yattirastobhattattiṣṭubhastiṣṭuptamiti vijñāyate |*) ।
+त्रिष्टुप् स्तोभत्युत्तरपदा । का तु त्रितु स्यात् । तीर्णतमं छंधः। त्रिवृद्वज्रस्तस्य स्तोभतीति वा । यत्तिरस्तोभत्तत्तिष्टुभस्तिष्टुप्तमिति विज्ञायते । (*triṣṭup stobhatyuttarapadā | kā tu tritu syāt | tīrṇatamaṃ chaṃdhaḥ| trivṛdvajrastasya stobhatīti vā | yattirastobhattattiṣṭubhastiṣṭuptamiti vijñāyate |*)
 (Ni. 7-12)
 
 ### Printed p. 453
@@ -11108,7 +11108,7 @@ Not only this, the greatness of the Triṣṭup is very high. Its explanation is
 
 It is derived from the root stubh, which has the sense of praise. But what is the meaning of the first member, the word tri? "Most swift": that is, this is the most rapid metre. Or the name may have become well known because it praises the vajra consisting of the trivṛt, or because it praises three times. That it is not merely praising the thunderbolt but is itself of the nature of the vajra, the form and the power of the Triṣṭup are thus praised in the Śatapatha Brāhmaṇa.
 
-एकादशाक्षरा त्रिष्टुब्बजस्रिस्त्रिष्टुब्बीर्यं त्रिष्टुब्बज्रेणैवैतद्वीर्येण यजमानः पुरस्ताद्यज्ञमुखाद्रक्षाग्‌ंसि नाष्टा अपहंति । (*ekādaśākṣarā triṣṭubbajasristriṣṭubbīryaṃ triṣṭubbajreṇaivaitadvīryeṇa yajamānaḥ purastādyajñamukhādrakṣāgṃsi nāṣṭā apahaṃti |*) ।
+एकादशाक्षरा त्रिष्टुब्बजस्रिस्त्रिष्टुब्बीर्यं त्रिष्टुब्बज्रेणैवैतद्वीर्येण यजमानः पुरस्ताद्यज्ञमुखाद्रक्षाग्‌ंसि नाष्टा अपहंति । (*ekādaśākṣarā triṣṭubbajasristriṣṭubbīryaṃ triṣṭubbajreṇaivaitadvīryeṇa yajamānaḥ purastādyajñamukhādrakṣāgṃsi nāṣṭā apahaṃti |*)
 (Śat. Brā. 10-2-3-2) *[as supplied: "ಶ. ಬ್ರಾ."]*
 
 The Triṣṭup, which consists of eleven syllables, is the vajra; that itself is vigour. By this excellent power the sacrificer is able to drive away the asuras and the rest from the face of the sacrifice. Therefore the mantra of the Triṣṭup form is endowed with vigour. Describing this same thing in the Aitareya Brāhmaṇa also,
@@ -11158,7 +11158,7 @@ In all, in the 10 maṇḍalas there are 85 anuvākas and 1017 + 11 = 1028 sūkt
 
 In all, in the 64 adhyāyas there are 2006 vargas and 10417 mantras. According to the reckoning of the Caraṇa-vyūha there are in all 2042 vargas and 10622 mantras; but what the correct basis for this difference is cannot be said. These divisions are described in the Ṛk under discussion by वाकेन वाकं द्विपदा चतुष्पदा (*vākena vākaṃ dvipadā catuṣpadā*).
 
-अक्षरेण मिमते सप्तवाणीः (*akṣareṇa mimate saptavāṇīḥ*)—अक्षरेणैव वागधिष्ठितानि सप्तच्छंदांसि निर्माणं कुर्वंति । (*akṣareṇaiva vāgadhiṣṭhitāni saptacchaṃdāṃsi nirmāṇaṃ kurvaṃti |*) । The meaning is that by the syllable they fashion the seven metres, Gāyatrī and the rest. अष्टाक्षरा गायत्रि (*aṣṭākṣarā gāyatri*) ; एकादशाक्षरा त्रिष्टुप् (*ekādaśākṣarā triṣṭup*) ; द्वादशाक्षरा जगती (*dvādaśākṣarā jagatī*) । The Gāyatrī has eight syllables; the Triṣṭu-
+अक्षरेण मिमते सप्तवाणीः (*akṣareṇa mimate saptavāṇīḥ*)—अक्षरेणैव वागधिष्ठितानि सप्तच्छंदांसि निर्माणं कुर्वंति । (*akṣareṇaiva vāgadhiṣṭhitāni saptacchaṃdāṃsi nirmāṇaṃ kurvaṃti |*) The meaning is that by the syllable they fashion the seven metres, Gāyatrī and the rest. अष्टाक्षरा गायत्रि (*aṣṭākṣarā gāyatri*) ; एकादशाक्षरा त्रिष्टुप् (*ekādaśākṣarā triṣṭup*) ; द्वादशाक्षरा जगती (*dvādaśākṣarā jagatī*) । The Gāyatrī has eight syllables; the Triṣṭu-
 
 *[as supplied: the text of this window ends here, in the middle of the word "ತ್ರಿಷ್ಟು-"; it continues in the next window.]*
 
@@ -14345,7 +14345,7 @@ In general the word उक्ष (*ukṣa*) is used also in the senses of streng
 (Ṛ. Saṃ. 10-122-4)
 In all such ṛks the word उक्ष (*ukṣa*) indicates its power as sprinkling or the capacity of sprinkling. In the ṛk under consideration also, the purport is Soma, which has the capacity of sprinkling, that is, the capacity of supplying desired objects.
 
-पृश्निं (*pṛśniṃ*)—पृश्निः वल्लीरूपः सोमः । (*pṛśniḥ vallīrūpaḥ somaḥ |*) । It is an epithet of Soma. Ordinarily the word पृश्नि (*pṛśni*) is used as a synonym of Āditya. The Nirukta-writers have read this word both among the names of the sky (dyu) and among the names of Āditya (Ni. 1-13). Then, giving the etymology of this word as referring to Āditya, they have explained thus:
+पृश्निं (*pṛśniṃ*)—पृश्निः वल्लीरूपः सोमः । (*pṛśniḥ vallīrūpaḥ somaḥ |*) It is an epithet of Soma. Ordinarily the word पृश्नि (*pṛśni*) is used as a synonym of Āditya. The Nirukta-writers have read this word both among the names of the sky (dyu) and among the names of Āditya (Ni. 1-13). Then, giving the etymology of this word as referring to Āditya, they have explained thus:
 पृश्निरादित्यो भवति । प्राश्नुत एनं वर्ण इति नैरुक्ताः संस्पृष्टा रसान् । संस्पृष्टा भासं ज्योतिषां । संस्पृष्टो भासेति वा । (*pṛśnirādityo bhavati | prāśnuta enaṃ varṇa iti nairuktāḥ saṃspṛṣṭā rasān | saṃspṛṣṭā bhāsaṃ jyotiṣāṃ | saṃspṛṣṭo bhāseti vā |*)
 (Ni. 2-14)
 The view of the ancient Nirukta-writers is that Āditya is called Pṛśni because he is pervaded by radiance. Yāska's explanation is that this epithet describes the nature of Āditya because he unites the flowing saps and gathers together all the radiances of the luminous orbs.
@@ -14561,16 +14561,16 @@ Four are the definite grades of speech : those Brahmana who are wise know them :
 
 **विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
 In the animal offering made for the deity Speech, this ṛk चत्वारि वाक् (*catvāri vāk*) is to be recited as the पुरोनुवाक्यामंत्र (*puronuvākyāmaṃtra*) at the time of pouring out the oblation; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra चत्वारि वाक्परिमिता पदानि यज्ञेन वाचः पदवीयमायन् (*catvāri vākparimitā padāni yajñena vācaḥ padavīyamāyan*) (Ā. 3-8).
-चत्वारि वाक्परिमिता पदानि (*catvāri vākparimitā padāni*) :— कानि कानि चत्वारि इत्यत्र बहवः स्वस्वमतानुरोधेन बहुधा वर्णयंति । (*kāni kāni catvāri ityatra bahavaḥ svasvamatānurodhena bahudhā varṇayaṃti |*) । There are many views on the question which are the four words of speech. Everyone has given the explanation of "four words" according to his own tradition. The Nirukta-writers have stated the list of these views in detail (Ni. 13-9). After asking कतमानि तानि चत्वारि पदानि (*katamāni tāni catvāri padāni*) ? "Which are those four words?", they state the differences of opinion one by one.
+चत्वारि वाक्परिमिता पदानि (*catvāri vākparimitā padāni*) :— कानि कानि चत्वारि इत्यत्र बहवः स्वस्वमतानुरोधेन बहुधा वर्णयंति । (*kāni kāni catvāri ityatra bahavaḥ svasvamatānurodhena bahudhā varṇayaṃti |*) There are many views on the question which are the four words of speech. Everyone has given the explanation of "four words" according to his own tradition. The Nirukta-writers have stated the list of these views in detail (Ni. 13-9). After asking कतमानि तानि चत्वारि पदानि (*katamāni tāni catvāri padāni*) ? "Which are those four words?", they state the differences of opinion one by one.
 
 ### Printed p. 617
 *Running head: [ಅ. ೨. ಅ. .೩ ವ. ೨೨ ] Ṛgveda-saṃhitā 617 (as supplied).*
 
 1. ओंकारो महाव्याहृतयश्चेत्यार्ष० (*oṃkāro mahāvyāhṛtayaścetyārṣa0*) :—
 सर्ववैदिकवाग्जालस्य संग्रहरूपाः भूरादयस्ति'स्रो व्याहृतयः प्रणव एक इति वेदत्रयसारत्वात् .... .... .... सप्रणवासु व्याहृतिषु सर्वा वाक् परिमितेति केचन वेदवादिनो वदंति । (*sarvavaidikavāgjālasya saṃgraharūpāḥ bhūrādayasti 'sro vyāhṛtayaḥ praṇava eka iti vedatrayasāratvāt .... .... .... sapraṇavāsu vyāhṛtiṣu sarvā vāk parimiteti kecana vedavādino vadaṃti |*) *[as supplied: the passage is printed with a row of dots after ವೇದತ್ರಯಸಾರತ್ವಾತ್, and "ತಿ'ಸ್ರೋ" with an apostrophe]*. The triad of vyāhṛtis, Bhūḥ, Bhuvaḥ, Suvaḥ, which is the essence and the compendium of all Vedic speech, together with the Praṇava (Omkāra), make four parts in all. This is the division according to the Vedic view. The vyāhṛtis are the means of the worship of Brahman. They reflect the principle of all the worlds and the principles of all the deities. Moreover, the principle of the Supreme Brahman itself is manifested in these forms. Therefore the Taittirīya-upaniṣad describes the nature of the vyāhṛtis and the order of worship of Brahman consisting of the vyāhṛtis, to show that worship of the vyāhṛtis is a means to knowledge of the Supreme Brahman. In the present context, however, it is stated that the principle called Mahaḥ, which is substituted for the Praṇava as the Nirukta-writers say, is the fourth. But from the descriptions that follow it is understood that this "Mahaḥ" is itself the Brahman-principle and itself the Praṇava, the reflector of Brahman. In the Taittirīya-upaniṣad the order of worship of Brahman in the form of the vyāhṛtis, which gives the fruit called svārājya, is as follows.
-भूर्भुवः सुवरिति वा एतास्तिस्रो व्याहृतयः । तासामुहस्मैतां चतुर्थीं । माहाचमस्यः प्रवेदयते । मह इति । तद्ब्रह्म । स आत्मा । अंगान्यन्या देवताः । (*bhūrbhuvaḥ suvariti vā etāstisro vyāhṛtayaḥ | tāsāmuhasmaitāṃ caturthīṃ | māhācamasyaḥ pravedayate | maha iti | tadbrahma | sa ātmā | aṃgānyanyā devatāḥ |*) ।
-भूरिति वा अयं लोकः । भुव इत्यंतरिक्षं । सुवरित्यसौ लोकः । मह इत्यादित्यः । आदित्येन वाव सर्वॆ लोका महीयंते । (*bhūriti vā ayaṃ lokaḥ | bhuva ityaṃtarikṣaṃ | suvarityasau lokaḥ | maha ityādityaḥ | ādityena vāva sarvè lokā mahīyaṃte |*) ।
-भूरिति वा अग्निः । भुव इति वायुः । सुवरित्यादित्यः । मह इति चंद्रमाः । चंद्रमसा वाव सर्वाणि ज्योतिर्घंषि महीयंते । (*bhūriti vā agniḥ | bhuva iti vāyuḥ | suvarityādityaḥ | maha iti caṃdramāḥ | caṃdramasā vāva sarvāṇi jyotirghaṃṣi mahīyaṃte |*) । भूरिति वा ऋचः । भुव इति सामानि । सुवरिति यजूग्ंषि । मह इति ब्रह्म । ब्रह्मणा वाव सर्वॆवेदा महीयंते । (*bhūriti vā ṛcaḥ | bhuva iti sāmāni | suvariti yajūgṃṣi | maha iti brahma | brahmaṇā vāva sarvèvedā mahīyaṃte |*) । भूरिति वै प्राणः। भुव इत्यपानः । सुवरिति व्यानः । मह इत्यन्नं। अन्नेन वाव सर्वॆ प्राणा महीयंते । (*bhūriti vai prāṇaḥ| bhuva ityapānaḥ | suvariti vyānaḥ | maha ityannaṃ| annena vāva sarvè prāṇā mahīyaṃte |*) । ता ना एताश्चतस्रश्चतुर्धा । चतस्रश्चतस्रो व्याहृतयः । ता यो वेद । स वेद ब्रह्म । सर्वॆऽस्मै देवा बलिमावहंति ॥ (*tā nā etāścatasraścaturdhā | catasraścatasro vyāhṛtayaḥ | tā yo veda | sa veda brahma | sarvè 'smai devā balimāvahaṃti ‖*) ॥
+भूर्भुवः सुवरिति वा एतास्तिस्रो व्याहृतयः । तासामुहस्मैतां चतुर्थीं । माहाचमस्यः प्रवेदयते । मह इति । तद्ब्रह्म । स आत्मा । अंगान्यन्या देवताः । (*bhūrbhuvaḥ suvariti vā etāstisro vyāhṛtayaḥ | tāsāmuhasmaitāṃ caturthīṃ | māhācamasyaḥ pravedayate | maha iti | tadbrahma | sa ātmā | aṃgānyanyā devatāḥ |*)
+भूरिति वा अयं लोकः । भुव इत्यंतरिक्षं । सुवरित्यसौ लोकः । मह इत्यादित्यः । आदित्येन वाव सर्वॆ लोका महीयंते । (*bhūriti vā ayaṃ lokaḥ | bhuva ityaṃtarikṣaṃ | suvarityasau lokaḥ | maha ityādityaḥ | ādityena vāva sarvè lokā mahīyaṃte |*)
+भूरिति वा अग्निः । भुव इति वायुः । सुवरित्यादित्यः । मह इति चंद्रमाः । चंद्रमसा वाव सर्वाणि ज्योतिर्घंषि महीयंते । (*bhūriti vā agniḥ | bhuva iti vāyuḥ | suvarityādityaḥ | maha iti caṃdramāḥ | caṃdramasā vāva sarvāṇi jyotirghaṃṣi mahīyaṃte |*) भूरिति वा ऋचः । भुव इति सामानि । सुवरिति यजूग्ंषि । मह इति ब्रह्म । ब्रह्मणा वाव सर्वॆवेदा महीयंते । (*bhūriti vā ṛcaḥ | bhuva iti sāmāni | suvariti yajūgṃṣi | maha iti brahma | brahmaṇā vāva sarvèvedā mahīyaṃte |*) भूरिति वै प्राणः। भुव इत्यपानः । सुवरिति व्यानः । मह इत्यन्नं। अन्नेन वाव सर्वॆ प्राणा महीयंते । (*bhūriti vai prāṇaḥ| bhuva ityapānaḥ | suvariti vyānaḥ | maha ityannaṃ| annena vāva sarvè prāṇā mahīyaṃte |*) ता ना एताश्चतस्रश्चतुर्धा । चतस्रश्चतस्रो व्याहृतयः । ता यो वेद । स वेद ब्रह्म । सर्वॆऽस्मै देवा बलिमावहंति ॥ (*tā nā etāścatasraścaturdhā | catasraścatasro vyāhṛtayaḥ | tā yo veda | sa veda brahma | sarvè 'smai devā balimāvahaṃti ‖*)
 (Tai. U. 1-5 *[as supplied: ತೈ. ಉ.]*) *[as supplied: spellings such as ಜ್ಯೋತಿರ್ಘಂಷಿ and ಸರ್ವೆ are kept]*
 There are three vyāhṛtis: Bhūḥ, Bhuvaḥ, Suvaḥ. Of them, Māhācamasya came to know the fourth, the great vyāhṛti called Mahaḥ. Mahaḥ is Brahman. It is the Self. The other deities are its limbs. Among these vyāhṛtis, Bhūḥ is this world; Bhuvaḥ is the atmosphere; Suvaḥ is the heaven-world. Mahaḥ is Āditya. Through Āditya alone all the worlds become great. (Here the vyāhṛtis are described as the essence of all the worlds.) *[The passage continues beyond the end of the window.]*
 
@@ -14594,85 +14594,85 @@ In this description the way is told to attain the Īśvara form of Indra *[as su
 *Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨.] Ṛgveda-saṃhitā 619 (as supplied).*
 
 In the Chāndogya-upaniṣad it is said that the Praṇava arose from the vyāhṛtis, that all the worlds arose from the Praṇava, and that the Praṇava itself is all the worlds.
-प्रजापतिर्लोकानभ्यतपत्तेभ्योऽभितप्लेभ्यस्त्रयी विद्या संप्रास्रवत्तामभ्यतपत्तस्या अभितप्ताया एतान्यक्षराणि संप्रास्रवंत भूर्भुवःस्परिति ॥ (*prajāpatirlokānabhyatapattebhyo 'bhitaplebhyastrayī vidyā saṃprāsravattāmabhyatapattasyā abhitaptāyā etānyakṣarāṇi saṃprāsravaṃta bhūrbhuvaḥspariti ‖*) ॥
+प्रजापतिर्लोकानभ्यतपत्तेभ्योऽभितप्लेभ्यस्त्रयी विद्या संप्रास्रवत्तामभ्यतपत्तस्या अभितप्ताया एतान्यक्षराणि संप्रास्रवंत भूर्भुवःस्परिति ॥ (*prajāpatirlokānabhyatapattebhyo 'bhitaplebhyastrayī vidyā saṃprāsravattāmabhyatapattasyā abhitaptāyā etānyakṣarāṇi saṃprāsravaṃta bhūrbhuvaḥspariti ‖*)
 (Chā. U. 2-23-1 *[as supplied: ಛಾ. ಉ.]*)
 Prajāpati caused all the worlds to be heated. From those worlds, made ripe, the Veda of the threefold form arose. When he caused the three Vedas to be heated, from those, ripened, the vyāhṛtis Bhūḥ, Bhuvaḥ, Svaḥ arose.
-तान्यभ्यतपत्तेभ्योऽभितप्तेभ्य ओंकारः संप्रास्रवत्तद्यथा शंकुना सर्वाणि पर्णानि संतृण्णान्वेवमोंकारेण सर्वा वाक्संतृण्णींकार एवेदं सर्वमोंकार एवेदं सर्वं ॥ (*tānyabhyatapattebhyo 'bhitaptebhya oṃkāraḥ saṃprāsravattadyathā śaṃkunā sarvāṇi parṇāni saṃtṛṇṇānvevamoṃkāreṇa sarvā vāksaṃtṛṇṇīṃkāra evedaṃ sarvamoṃkāra evedaṃ sarvaṃ ‖*) ॥
+तान्यभ्यतपत्तेभ्योऽभितप्तेभ्य ओंकारः संप्रास्रवत्तद्यथा शंकुना सर्वाणि पर्णानि संतृण्णान्वेवमोंकारेण सर्वा वाक्संतृण्णींकार एवेदं सर्वमोंकार एवेदं सर्वं ॥ (*tānyabhyatapattebhyo 'bhitaptebhya oṃkāraḥ saṃprāsravattadyathā śaṃkunā sarvāṇi parṇāni saṃtṛṇṇānvevamoṃkāreṇa sarvā vāksaṃtṛṇṇīṃkāra evedaṃ sarvamoṃkāra evedaṃ sarvaṃ ‖*)
 (Chā. U. 2-23-2)
 When the vyāhṛtis were caused to be heated, from them the Praṇava, of the form of Oṃkāra, arose. Just as all leaves are held together on the support of a single peg, so all kinds of speech are held together on the support of this Praṇava. "Oṃ" itself is all the worlds. These vyāhṛtis are the worlds, the earth and the rest, and the deities, Agni and the rest. These are the protectors of the worlds.
-अथ यदवोचं भूः प्रपद्य इति पृथिवीं प्रपद्येंतरिक्षं प्रपद्ये दिवं प्रपद्य इत्येव तदवोचं । (*atha yadavocaṃ bhūḥ prapadya iti pṛthivīṃ prapadyeṃtarikṣaṃ prapadye divaṃ prapadya ityeva tadavocaṃ |*) ।
+अथ यदवोचं भूः प्रपद्य इति पृथिवीं प्रपद्येंतरिक्षं प्रपद्ये दिवं प्रपद्य इत्येव तदवोचं । (*atha yadavocaṃ bhūḥ prapadya iti pṛthivīṃ prapadyeṃtarikṣaṃ prapadye divaṃ prapadya ityeva tadavocaṃ |*)
 "We have obtained the protection of the vyāhṛti Bhūḥ" means that one should say that the protection of the triad of worlds also, earth, atmosphere and heaven, has been obtained.
-अथ यदवोचं भुवः प्रपद्य इत्यग्निं प्रपद्ये वायुं प्रपद्य आदित्यं प्रपद्य इत्येव तदवोचं ॥ (*atha yadavocaṃ bhuvaḥ prapadya ityagniṃ prapadye vāyuṃ prapadya ādityaṃ prapadya ityeva tadavocaṃ ‖*) ॥
+अथ यदवोचं भुवः प्रपद्य इत्यग्निं प्रपद्ये वायुं प्रपद्य आदित्यं प्रपद्य इत्येव तदवोचं ॥ (*atha yadavocaṃ bhuvaḥ prapadya ityagniṃ prapadye vāyuṃ prapadya ādityaṃ prapadya ityeva tadavocaṃ ‖*)
 "We have obtained the protection of the vyāhṛti Bhuvaḥ" means that the protection of all these deities, Agni, Vāyu and Āditya, has been obtained.
-अथ यदवोचं स्वः प्रपद्य इत्यग्वेदं प्रपद्ये यजुर्वेदं प्रपद्ये सामवेदं प्रपद्य इत्येव तदवोचं तदवोचं । (*atha yadavocaṃ svaḥ prapadya ityagvedaṃ prapadye yajurvedaṃ prapadye sāmavedaṃ prapadya ityeva tadavocaṃ tadavocaṃ |*) ।
+अथ यदवोचं स्वः प्रपद्य इत्यग्वेदं प्रपद्ये यजुर्वेदं प्रपद्ये सामवेदं प्रपद्य इत्येव तदवोचं तदवोचं । (*atha yadavocaṃ svaḥ prapadya ityagvedaṃ prapadye yajurvedaṃ prapadye sāmavedaṃ prapadya ityeva tadavocaṃ tadavocaṃ |*)
 "We have obtained the protection of the vyāhṛti Svaḥ" means that the protection of all the śrutis, the Ṛgveda, Yajurveda and Sāmaveda, has been obtained.
 
 ### Printed p. 620
 *Running head: 620 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
 
 Since the greatness of the triad of vyāhṛtis and of the Praṇava is described in this way in many śruti passages, Sāyaṇa has explained: सप्रणवासु व्याहृतिषु सर्वा वाक् परिमितेति केचन वेदवादिनो वदंति (*sapraṇavāsu vyāhṛtiṣu sarvā vāk parimiteti kecana vedavādino vadaṃti*). The Nirukta-writers have stated that this is one among the many explanations possible for चत्वारि पदानि (*catvāri padāni*). Secondly:
-(2) नामाख्याते चोपसर्गनिपाताश्चैति वैयाकरणाः । (*nāmākhyāte copasarganipātāścaiti vaiyākaraṇāḥ |*) । The four classes, नाम (*nāma*), आख्यात (*ākhyāta*), उपसर्ग (*upasarga*) and निपात (*nipāta*), are meant by चत्वारि पदानि (*catvāri padāni*); this is the view of the grammarians. [Patañjali and others have made the division into जातिशब्द (*jātiśabda*), गुणशब्द (*guṇaśabda*), क्रियार शब्द (*kriyāra śabda*) *[as supplied: ಕ್ರಿಯಾರ]* and द्रव्यशब्द (*dravyaśabda*).] By such authority alone all worldly and Vedic usage goes on. These four classes are explained in the Nirukta:
-तद्यान्येतानि चत्वारि पदजातानि नामाख्याते चोपसर्गनिपाताश्च तानीमानि भवंति । तत्रैतन्नामाख्यातयोर्लक्षणं प्रदिशंति भावप्रधानमाख्यातं सत्त्वप्रधानानि नामानि । (*tadyānyetāni catvāri padajātāni nāmākhyāte copasarganipātāśca tānīmāni bhavaṃti | tatraitannāmākhyātayorlakṣaṇaṃ pradiśaṃti bhāvapradhānamākhyātaṃ sattvapradhānāni nāmāni |*) ।
+(2) नामाख्याते चोपसर्गनिपाताश्चैति वैयाकरणाः । (*nāmākhyāte copasarganipātāścaiti vaiyākaraṇāḥ |*) The four classes, नाम (*nāma*), आख्यात (*ākhyāta*), उपसर्ग (*upasarga*) and निपात (*nipāta*), are meant by चत्वारि पदानि (*catvāri padāni*); this is the view of the grammarians. [Patañjali and others have made the division into जातिशब्द (*jātiśabda*), गुणशब्द (*guṇaśabda*), क्रियार शब्द (*kriyāra śabda*) *[as supplied: ಕ್ರಿಯಾರ]* and द्रव्यशब्द (*dravyaśabda*).] By such authority alone all worldly and Vedic usage goes on. These four classes are explained in the Nirukta:
+तद्यान्येतानि चत्वारि पदजातानि नामाख्याते चोपसर्गनिपाताश्च तानीमानि भवंति । तत्रैतन्नामाख्यातयोर्लक्षणं प्रदिशंति भावप्रधानमाख्यातं सत्त्वप्रधानानि नामानि । (*tadyānyetāni catvāri padajātāni nāmākhyāte copasarganipātāśca tānīmāni bhavaṃti | tatraitannāmākhyātayorlakṣaṇaṃ pradiśaṃti bhāvapradhānamākhyātaṃ sattvapradhānāni nāmāni |*)
 (Ni. 1-2 *[as supplied: the abbreviation is printed in Telugu script, for ನಿ.]*)
 Among these four kinds, the Nirukta states their characteristics: that in which becoming (bhāva) is predominant is the ākhyāta, and that in which substance (sattva) is predominant is the nāma. In the Bṛhaddevatā too:
-शब्देनोच्चरितेनेह येन द्रव्यं प्रतीयते । तदक्षरविधौ युक्तं नामेत्याहुर्मनीषिणः ॥ अष्टौ यत्र प्रयुज्यंते नानार्थेषु विभक्तयः । तन्नाम कवयः प्राहुर्भेदे वचनलिंगयोः ॥ (*śabdenoccariteneha yena dravyaṃ pratīyate | tadakṣaravidhau yuktaṃ nāmetyāhurmanīṣiṇaḥ ‖ aṣṭau yatra prayujyaṃte nānārtheṣu vibhaktayaḥ | tannāma kavayaḥ prāhurbhede vacanaliṃgayoḥ ‖*) ॥
+शब्देनोच्चरितेनेह येन द्रव्यं प्रतीयते । तदक्षरविधौ युक्तं नामेत्याहुर्मनीषिणः ॥ अष्टौ यत्र प्रयुज्यंते नानार्थेषु विभक्तयः । तन्नाम कवयः प्राहुर्भेदे वचनलिंगयोः ॥ (*śabdenoccariteneha yena dravyaṃ pratīyate | tadakṣaravidhau yuktaṃ nāmetyāhurmanīṣiṇaḥ ‖ aṣṭau yatra prayujyaṃte nānārtheṣu vibhaktayaḥ | tannāma kavayaḥ prāhurbhede vacanaliṃgayoḥ ‖*)
 (Bṛ. Me. 1-42, 85 *[as supplied: ಬೃ. ಮೇ.]*)
 The word by whose utterance a substance comes into view is called by the learned a "nāma". The characteristic of the "nāma" has been stated thus *[as supplied: the printed words "ನಾಮ ' ವ ಲಕ್ಷಣವು" are garbled]*: that word which has a suffix showing differences of meaning and which shows differences of gender and number is called "nāma" by the poets. Then, stating the nature of the ākhyāta:
-क्रियासु बह्वीष्वभिसंश्रितो यः पूर्वापरीभूत इहैक एव । क्रियाभिनिर्वृत्तिवशेन सिद्ध आख्यातशब्देन तमर्थमाहुः ॥ (*kriyāsu bahvīṣvabhisaṃśrito yaḥ pūrvāparībhūta ihaika eva | kriyābhinirvṛttivaśena siddha ākhyātaśabdena tamarthamāhuḥ ‖*) ॥
+क्रियासु बह्वीष्वभिसंश्रितो यः पूर्वापरीभूत इहैक एव । क्रियाभिनिर्वृत्तिवशेन सिद्ध आख्यातशब्देन तमर्थमाहुः ॥ (*kriyāsu bahvīṣvabhisaṃśrito yaḥ pūrvāparībhūta ihaika eva | kriyābhinirvṛttivaśena siddha ākhyātaśabdena tamarthamāhuḥ ‖*)
 (Bṛ. De. 1-44)
 The characteristic of the ākhyāta is stated: the bhāva which is connected with various actions, which changes from a former state and which indicates the growth of a work, is called ākhyāta. How many divisions of the ākhyāta there are is also explained further on thus.
 
 ### Printed p. 621
 *Running head: [ಅ. ೨. ಅ. ೩. ಪ. ೨೨] Ṛgveda-saṃhitā 621 (as supplied; "ಪ." for ವ. as printed).*
 
-भावप्रधानमाख्यातं षड्विकारा भवंति ते । जन्मास्तित्वं परीणामो वृद्धिर्हानं विनाशनं ॥ एतेषामेव षण्णां तु येऽन्ये भावविकारजाः ॥ (*bhāvapradhānamākhyātaṃ ṣaḍvikārā bhavaṃti te | janmāstitvaṃ parīṇāmo vṛddhirhānaṃ vināśanaṃ ‖ eteṣāmeva ṣaṇṇāṃ tu ye 'nye bhāvavikārajāḥ ‖*) ॥
+भावप्रधानमाख्यातं षड्विकारा भवंति ते । जन्मास्तित्वं परीणामो वृद्धिर्हानं विनाशनं ॥ एतेषामेव षण्णां तु येऽन्ये भावविकारजाः ॥ (*bhāvapradhānamākhyātaṃ ṣaḍvikārā bhavaṃti te | janmāstitvaṃ parīṇāmo vṛddhirhānaṃ vināśanaṃ ‖ eteṣāmeva ṣaṇṇāṃ tu ye 'nye bhāvavikārajāḥ ‖*)
 (Bṛ. De. 2-121, 122)
 In the ākhyāta, in which becoming (Becoming) is predominant, there are six kinds of bhāva: origin, existence, change, growth, decline (decline), and destruction. The other modifications of bhāva too arise from these roots alone. The Nirukta-passage itself is the basis for this division made in the Bṛhaddevatā. In the Nirukta, having first stated that what is predominantly substance is nāma and what is predominantly becoming is ākhyāta, the nature of sattva and bhāva is then explained as the description of sattva and the description of bhāva.
-आद इति सत्त्वानामुपदेशः । गौरश्वः पुरुषो हस्तीति । (*āda iti sattvānāmupadeśaḥ | gauraśvaḥ puruṣo hastīti |*) ।
+आद इति सत्त्वानामुपदेशः । गौरश्वः पुरुषो हस्तीति । (*āda iti sattvānāmupadeśaḥ | gauraśvaḥ puruṣo hastīti |*)
 (Ni. 1-2 *[as supplied: the abbreviation is printed in Telugu script]*)
 Every object indicated by the word "ad" *[as supplied: ಆದ ... ಆದಶ್ಯಬ್ದ]* is sattva: गौः (*gauḥ*) "cow", अश्वः (*aśvaḥ*) "horse", पुरुषः (*puruṣaḥ*) "man" and so on.
-भवतीति भावस्य । आस्ते, शेते, व्रजति, तिष्ठतीति । (*bhavatīti bhāvasya | āste, śete, vrajati, tiṣṭhatīti |*) ।
+भवतीति भावस्य । आस्ते, शेते, व्रजति, तिष्ठतीति । (*bhavatīti bhāvasya | āste, śete, vrajati, tiṣṭhatīti |*)
 (Ni. 1-1 *[as supplied: Telugu-script abbreviation]*)
 "He sits", "he lies down", "he goes", "he stands" and so on: that which makes known works *[as supplied: ಕಾವ್ಯಗಳನ್ನು, "poems", where "actions" is evidently meant]* of the nature of bhāva is bhāva (Becoming). Thus, stating the characteristics of nāma and ākhyāta, the Nirukta mentions also differing views on this division of words:
-इंद्रियनित्यं वचनमौदुंबरायणः । तत्र चतुष्ट्वं नोपपद्यते । (*iṃdriyanityaṃ vacanamauduṃbarāyaṇaḥ | tatra catuṣṭvaṃ nopapadyate |*) ।
+इंद्रियनित्यं वचनमौदुंबरायणः । तत्र चतुष्ट्वं नोपपद्यते । (*iṃdriyanityaṃ vacanamauduṃbarāyaṇaḥ | tatra catuṣṭvaṃ nopapadyate |*)
 (2. 1-2 *[as supplied: so printed, the abbreviation missing]*)
 Since speech has only the eternity of the sense-organ, the four divisions stated above are not right: such is the view of Audumbarāyaṇa. The reason he gives for not agreeing to the division into "four words" is also discussed in sentences beginning युगपदुत्पन्नानां (*yugapadutpannānāṃ*). [That explanation is not given here because it would become very long.] After the nature of sattva has been stated, the explanation of bhāva is shown, and its nature and divisions are stated (Ni. 1-2).
-षड्भावविकारा भवंतीति वार्षायणिर्जायतेऽस्ति विपरिणमते वर्धतेऽपक्षीयते विनश्यतीति । (*ṣaḍbhāvavikārā bhavaṃtīti vārṣāyaṇirjāyate 'sti vipariṇamate vardhate 'pakṣīyate vinaśyatīti |*) ।
+षड्भावविकारा भवंतीति वार्षायणिर्जायतेऽस्ति विपरिणमते वर्धतेऽपक्षीयते विनश्यतीति । (*ṣaḍbhāvavikārā bhavaṃtīti vārṣāyaṇirjāyate 'sti vipariṇamate vardhate 'pakṣīyate vinaśyatīti |*)
 According to the view of Vārṣāyaṇi, bhāvas can be divided into six kinds: birth, existence, change, growth, decay and destruction. Among them,
 
 ### Printed p. 622
 *Running head: 622 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨ ಸೂ. ೧೬೪.] (as supplied).*
 
-(1) जायत इति पूर्वभावस्यादिमाचष्टे, नापरभावमाचष्टे, न प्रतिषेधति । (*jāyata iti pūrvabhāvasyādimācaṣṭe, nāparabhāvamācaṣṭe, na pratiṣedhati |*) ।
+(1) जायत इति पूर्वभावस्यादिमाचष्टे, नापरभावमाचष्टे, न प्रतिषेधति । (*jāyata iti pūrvabhāvasyādimācaṣṭe, nāparabhāvamācaṣṭe, na pratiṣedhati |*)
 The bhāva of the form of origin (Generis [sic]) shows only the beginning of the former bhāva. But it does not state the condition of the later bhāva either in the sense of existence or in the sense of negation.
 1. (2) अस्तीत्युत्पन्नस्य सत्त्वस्यावधारणं (*astītyutpannasya sattvasyāvadhāraṇaṃ*) । *[as supplied: the stray "1." before (೨)]*
 The verb "asti" states the condition of the sattva that has arisen.
-(3) विपरिणमत इत्यप्रच्यवमानस्य तत्त्वाद्विकारं । (*vipariṇamata ityapracyavamānasya tattvādvikāraṃ |*) ।
+(3) विपरिणमत इत्यप्रच्यवमानस्य तत्त्वाद्विकारं । (*vipariṇamata ityapracyavamānasya tattvādvikāraṃ |*)
 The verb "vipariṇamate" indicates only the change of a principle that does not decay.
-(4) वर्धत इति स्वांगाभ्युच्चयं सांयोगिकानां वार्थानां वर्धते विजयेनेति वा वर्धते शरीरेणेति वा । (*vardhata iti svāṃgābhyuccayaṃ sāṃyogikānāṃ vārthānāṃ vardhate vijayeneti vā vardhate śarīreṇeti vā |*) ।
+(4) वर्धत इति स्वांगाभ्युच्चयं सांयोगिकानां वार्थानां वर्धते विजयेनेति वा वर्धते शरीरेणेति वा । (*vardhata iti svāṃgābhyuccayaṃ sāṃyogikānāṃ vārthānāṃ vardhate vijayeneti vā vardhate śarīreṇeti vā |*)
 The verb "vardhate" indicates either the growth of the parts of the body or the growth of the meanings (artha) connected with the respective thing. For example: he grows by victory; or he grows by body, and so on.
-(5) अपक्षीयत इत्येतेनैव व्याख्यातः प्रतिलोमं । (*apakṣīyata ityetenaiva vyākhyātaḥ pratilomaṃ |*) ।
+(5) अपक्षीयत इत्येतेनैव व्याख्यातः प्रतिलोमं । (*apakṣīyata ityetenaiva vyākhyātaḥ pratilomaṃ |*)
 The word "kṣaya" itself indicates the bhāva opposed to growth.
-(6) विनश्यतीत्यपरभावस्यादिमाचष्टे न पूर्वभावमाचष्टे न प्रतिषेधति । (*vinaśyatītyaparabhāvasyādimācaṣṭe na pūrvabhāvamācaṣṭe na pratiṣedhati |*) ।
+(6) विनश्यतीत्यपरभावस्यादिमाचष्टे न पूर्वभावमाचष्टे न प्रतिषेधति । (*vinaśyatītyaparabhāvasyādimācaṣṭe na pūrvabhāvamācaṣṭe na pratiṣedhati |*)
 Destruction indicates the beginning of the later bhāva, but it does not state the condition of the former bhāva either in the form of existence or in the form of negation.
 अतोऽन्ये भावविकारा एतेषामेव विकारा भवंतीति ह स्माह । ते यथावचनमभ्यूहितव्याः (*ato 'nye bhāvavikārā eteṣāmeva vikārā bhavaṃtīti ha smāha | te yathāvacanamabhyūhitavyāḥ*) The other modifications of bhāva also arise from these roots alone. They are to be inferred according to context. Having thus stated the characteristics of nāma and ākhyāta, the Nirukta discusses the nature of the upasarga, which comes next (Ni. 1-2).
-न निर्बद्धा उपसर्गार्थान्निराहुरिति शाकटायनः । नामाख्यातयोस्तु कर्मोपसंयोगद्योतका भवंति । (*na nirbaddhā upasargārthānnirāhuriti śākaṭāyanaḥ | nāmākhyātayostu karmopasaṃyogadyotakā bhavaṃti |*) । It is the view of Śākaṭāyana that an upasarga which is not joined either with a nāma or with an ākhyāta has no meaning, and that upasargas express only the secondary meaning of the nāma and the ākhyāta.
-उच्चावचाः पदार्था भवंतीति गार्ग्यः । तद्य एषु पदार्थः प्राहुरिमे तं नामाख्यातयोरर्थविकरणं । (*uccāvacāḥ padārthā bhavaṃtīti gārgyaḥ | tadya eṣu padārthaḥ prāhurime taṃ nāmākhyātayorarthavikaraṇaṃ |*) । It is the view of Gārgya that upasargas have different meanings and cause the meaning of the nāma and ākhyāta to be changed. For example—
+न निर्बद्धा उपसर्गार्थान्निराहुरिति शाकटायनः । नामाख्यातयोस्तु कर्मोपसंयोगद्योतका भवंति । (*na nirbaddhā upasargārthānnirāhuriti śākaṭāyanaḥ | nāmākhyātayostu karmopasaṃyogadyotakā bhavaṃti |*) It is the view of Śākaṭāyana that an upasarga which is not joined either with a nāma or with an ākhyāta has no meaning, and that upasargas express only the secondary meaning of the nāma and the ākhyāta.
+उच्चावचाः पदार्था भवंतीति गार्ग्यः । तद्य एषु पदार्थः प्राहुरिमे तं नामाख्यातयोरर्थविकरणं । (*uccāvacāḥ padārthā bhavaṃtīti gārgyaḥ | tadya eṣu padārthaḥ prāhurime taṃ nāmākhyātayorarthavikaraṇaṃ |*) It is the view of Gārgya that upasargas have different meanings and cause the meaning of the nāma and ākhyāta to be changed. For example—
 
 ### Printed p. 623
 *Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨೨.] Ṛgveda-saṃhitā 623 (as supplied).*
 
 आ इत्यर्वागर्थे । प्रपरेत्येतस्य प्रातिलोम्यं । अभीत्याभिमुख्यं । (*ā ityarvāgarthe | praparetyetasya prātilomyaṃ | abhītyābhimukhyaṃ |*) and so on: thus the meanings of the upasargas आ (*ā*), प्र (*pra*), पर (*para*) and others are shown (Ni. 1-3). Next:
-आथ निपाताः । उच्चावचेष्वर्थेषु निपतंति । अप्युपमार्थेऽपि कर्मोपसंग्रहार्थेऽपि पदपूरणाः । (*ātha nipātāḥ | uccāvaceṣvartheṣu nipataṃti | apyupamārthe 'pi karmopasaṃgrahārthe 'pi padapūraṇāḥ |*) ।
+आथ निपाताः । उच्चावचेष्वर्थेषु निपतंति । अप्युपमार्थेऽपि कर्मोपसंग्रहार्थेऽपि पदपूरणाः । (*ātha nipātāḥ | uccāvaceṣvartheṣu nipataṃti | apyupamārthe 'pi karmopasaṃgrahārthe 'pi padapūraṇāḥ |*)
 (Ni. 8-4 *[as supplied]*)
 Nipātas have many meanings. Nipātas are used in the sense of comparison, in the sense of conjunction, in the sense of excess, in the sense of negation, and likewise in still other meanings. नेति प्रतिषेधार्थियो भाषायां, नु इत्येषोऽनेककर्मा (*neti pratiṣedhārthiyo bhāṣāyāṃ, nu ityeṣo 'nekakarmā*) ! The nipāta न (*na*) is of negative meaning, and so on; thus the meanings and the uses of nipātas are explained in detail (Ni. 2-4). The Bṛhaddevatā says the same:
-उच्चावचेषु चार्थेषु निसाताः समुदाहृताः । कर्मोपसंग्रहार्थे च क्वचिच्छौपम्यकारणात् ॥ ऊनानां पूरणार्था ना पादानामसरे क्वचित् । मिताक्षरेषु ग्रंथेषु पूरणार्थास्त्वनर्थकाः ॥ (*uccāvaceṣu cārtheṣu nisātāḥ samudāhṛtāḥ | karmopasaṃgrahārthe ca kvacicchaupamyakāraṇāt ‖ ūnānāṃ pūraṇārthā nā pādānāmasare kvacit | mitākṣareṣu graṃtheṣu pūraṇārthāstvanarthakāḥ ‖*) ॥
+उच्चावचेषु चार्थेषु निसाताः समुदाहृताः । कर्मोपसंग्रहार्थे च क्वचिच्छौपम्यकारणात् ॥ ऊनानां पूरणार्था ना पादानामसरे क्वचित् । मिताक्षरेषु ग्रंथेषु पूरणार्थास्त्वनर्थकाः ॥ (*uccāvaceṣu cārtheṣu nisātāḥ samudāhṛtāḥ | karmopasaṃgrahārthe ca kvacicchaupamyakāraṇāt ‖ ūnānāṃ pūraṇārthā nā pādānāmasare kvacit | mitākṣareṣu graṃtheṣu pūraṇārthāstvanarthakāḥ ‖*)
 (Bṛ. De. 2-89 to 92 *[as supplied: "ರಿಂದ,"; the verse is printed "ನಿಸಾತಾಃ"]*)
 It is stated in these and similar sentences. These sentences too indicate the meaning stated above. Thus, for चत्वारि पदानि (*catvāri padāni*) in the ṛk under consideration, the four parts nāma, ākhyāta, upasarga and nipāta are the view of the grammarians and of the Nirukta-writers. In the same way, the Nirukta, giving also the meanings stated by others:
-3) मंत्रः, कल्पो, ब्राह्मणं, चतुर्थी व्यावहारिकीति याज्ञिकाः । (*maṃtraḥ, kalpo, brāhmaṇaṃ, caturthī vyāvahārikīti yājñikāḥ |*) । The three Vedic divisions, mantra, kalpa and brāhmaṇa, together with the fourth, the worldly one, make four parts in all: this is the opinion of the sacrificers (yājñikas).
-4) ऋचो, यजूंषि सामानि चतुर्थी व्यावहारिकीति नैरुक्ताः । (*ṛco, yajūṃṣi sāmāni caturthī vyāvahārikīti nairuktāḥ |*) । The Ṛgveda, the Yajurveda, the Sāman, and the fourth, the worldly one: this is the view of the Nirukta-writers.
+3) मंत्रः, कल्पो, ब्राह्मणं, चतुर्थी व्यावहारिकीति याज्ञिकाः । (*maṃtraḥ, kalpo, brāhmaṇaṃ, caturthī vyāvahārikīti yājñikāḥ |*) The three Vedic divisions, mantra, kalpa and brāhmaṇa, together with the fourth, the worldly one, make four parts in all: this is the opinion of the sacrificers (yājñikas).
+4) ऋचो, यजूंषि सामानि चतुर्थी व्यावहारिकीति नैरुक्ताः । (*ṛco, yajūṃṣi sāmāni caturthī vyāvahārikīti nairuktāḥ |*) The Ṛgveda, the Yajurveda, the Sāman, and the fourth, the worldly one: this is the view of the Nirukta-writers.
 5) सर्पाणां वाग्वयसां कुद्रस्य सरीसृपस्य चतुर्थी व्यावहिरिकीत्येकॆ । (*sarpāṇāṃ vāgvayasāṃ kudrasya sarīsṛpasya caturthī vyāvahirikītyekè |*) *[as supplied: ಕುದ್ರಸ್ಯ and ವ್ಯಾವಹಿರಿಕೀ as printed]* । The threefold speech of serpents, of birds and of worms and insects, together with the worldly speech of men, make four: this is the opinion of some others. In this way the Nirukta-writers have stated the other meanings possible for this sentence (Ni. 13-9).
-गुहा त्रीणि निहिता नेंगयंति तुरीयं वाचो मनुष्या वदंति । (*guhā trīṇi nihitā neṃgayaṃti turīyaṃ vāco manuṣyā vadaṃti |*) । Among these four kinds of speech, three kinds of speech are beyond the reach of our worldly perception; that is *[the passage breaks off here at the end of the window, to be continued]*
+गुहा त्रीणि निहिता नेंगयंति तुरीयं वाचो मनुष्या वदंति । (*guhā trīṇi nihitā neṃgayaṃti turīyaṃ vāco manuṣyā vadaṃti |*) Among these four kinds of speech, three kinds of speech are beyond the reach of our worldly perception; that is *[the passage breaks off here at the end of the window, to be continued]*
 
 ### Printed p. 624
 *Running head: 624 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧ ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
