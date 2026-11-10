@@ -95,6 +95,94 @@ Dīrghatamas, helped by the gods, composed the sūkta beginning with the ṛk �
 
 *Sense (from the Sanskrit; the supplied text gives no Kannada rendering of these lines):* Ucathya and Bṛhaspati were two sons of a seer. Ucathya's wife was Mamatā, of the Bhārgava line. The younger one, Bṛhaspati, approached her for union. At the time of the emission of seed the child in the womb spoke to him: "I am here, first come; the mixing of seed must not be done." Bṛhaspati did not tolerate that prohibition of the seed, and spoke to the child in the womb with words containing "tamas … dīrghatamas" (the line reads "ಸ ವ್ಯಾಜಹಾರ ತ ಗರ್ಭಂ", with ತ as supplied, apparently a misreading). And he became the seer named Dīrghatamas, born of Ucathya. *[Text ends at the bottom of printed p. 4 with this verse; the passage may continue on p. 5.]*
 
+### Printed p. 5
+
+*Running head: [Aṣṭaka 2, Adhyāya 3, Varga 1.) Ṛgveda-saṃhitā, p. 5 (the closing bracket is printed as a parenthesis, as supplied).* (The Bṛhaddevatā passage of the Special Topics, begun on p. 4, continues.)
+
+स जातोऽभ्यतपद्देवानकस्मादंधतां गतः । (*sa jāto 'bhyatapaddevānakasmādaṃdhatāṃ gataḥ |*)
+धदुर्देनास्तु तन्नेत्रे ततोऽनन्नो बभूव सः ॥ (*dhadurdenāstu tannetre tato 'nanno babhūva saḥ ‖*)
+
+(Bṛ. Pe. 4-11 to 15) *[reference as supplied; "ಪೇ" as printed, the earlier reference on p. 4 reads "ಬೃ. ವೇ."]*
+
+There were two brothers, Ucathya and Bṛhaspati. Ucathya had a wife named Mamatā. While she was pregnant, Bṛhaspati, the younger brother of Ucathya, had intercourse with her. At the time of the emission of seed, the child within prayed that the emission of Bṛhaspati's seed should be held back. Angered by this, Bṛhaspati cursed the child in the womb that it should be born blind from birth. Because the child was born with a long darkness, it was named Dīrghatamas. When the seer's son, filled with darkness, performed austerity and won over the gods, they showed favour and made him gain sight. At once he became the seer of some sūktas. Thus (the passage) tells of the composition of the sūktas addressed to Agni and the other deities, and then continues the story that took place in the time of his blindness.
+
+जीर्णं तु दीर्घतमसं खिन्नास्तत्परिचारिणः । (*jīrṇaṃ tu dīrghatamasaṃ khinnāstatparicāriṇaḥ |*)
+दासा बद्ध्वा नदीतोये दृष्टिहीनमवादधुः ॥ (*dāsā baddhvā nadītoye dṛṣṭihīnamavādadhuḥ ‖*)
+तत्रैकस्त्रैतनो नाम शस्त्रेणैनमपाहनत् । (*tatraikastraitano nāma śastreṇainamapāhanat |*)
+शिरश्चांसावुरश्चैव स्वयमेव न्यकृंतत ॥ (*śiraścāṃsāvuraścaiva svayameva nyakṛṃtata ‖*)
+हत्वा दीर्घतमास्तंतु पापेन महता वृतं । (*hatvā dīrghatamāstaṃtu pāpena mahatā vṛtaṃ |*)
+आत्मांगान्यनुदच्चैव तत्रोदोन्मोहितो बृशं ॥ (*ātmāṃgānyanudaccaiva tatrodonmohito bṛśaṃ ‖*)
+अंगदेशसमीपे तु तं नद्यः समुदक्षिपन् । (*aṃgadeśasamīpe tu taṃ nadyaḥ samudakṣipan |*)
+अंगराजगृहे युक्तामुशिजं पुत्रकाम्यया ॥ (*aṃgarājagṛhe yuktāmuśijaṃ putrakāmyayā ‖*)
+राज्ञा च प्रहितां दासीं भक्तां मत्वा महातपाः । (*rājñā ca prahitāṃ dāsīṃ bhaktāṃ matvā mahātapāḥ |*)
+जनयामास चोत्थाय कक्षीवत्प्रमुखानृषीन् ॥ (*janayāmāsa cotthāya kakṣīvatpramukhānṛṣīn ‖*)
+तुष्टाव चैव सूक्ताभ्यां अबोधीत्वश्विनावृषिः । (*tuṣṭāva caiva sūktābhyāṃ abodhītvaśvināvṛṣiḥ |*)
+
+(Bṛhaddevatā 4-21 to 25)
+
+Because Dīrghatamas remained blind for a very long time, his attendants, wearied of attending on him, bound him, worn out as he was, and threw him into the water of a river. Among them, one named Traitana, going to strike him with his sword, split his own head and arms himself. Thus that servant, who underwent the atonement for his own sin, Dīrghatamas killed outright, and, though bewildered by the force of the water, he tried to stretch out his hands and feet. Then the river current pushed him to the border of the neighbouring country of Aṅga and threw him on the bank. *[The sentence runs over the page break: "…pushed him … to the bank".]* The king of Aṅga sent a woman named Uśik, who was with him, to Dīrghatamas, desiring a son.
+
+### Printed p. 6
+
+*Running head: 6 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 158.*
+
+Dīrghatamas, who had come out of the water, was pleased with her service and affection and caused sages such as Kakṣīvān to be born of her. Having told that story, (the Bṛhaddevatā) then tells that he composed sūktas addressed to the Aśvin deities and prayed to those gods in the present ṛks.
+
+By the epithets वसू (*vasū*), रुद्रा (*rudrā*), पुरुमंतू (*purumaṃtū*), वृधंता (*vṛdhaṃtā*), वृषण् (*vṛṣaṇ*) and so on, the seer describes the nature of the Aśvin deities.
+
+वसू (*vasū*)—वासयितार् प्रजानां । वसुना धनेन तद्वंतौ ना । (*vāsayitār prajānāṃ | vasunā dhanena tadvaṃtau nā |*) It is shown that this can be understood in two ways: as those who provide dwelling-places to the devotee people, or as those who possess wealth.
+
+त्रिर्नो रयिं वहतमश्विना युवं त्रिर्देवताता त्रिरुतावतं धियः । (*trirno rayiṃ vahatamaśvinā yuvaṃ trirdevatātā trirutāvataṃ dhiyaḥ |*)
+त्रिः सौभगत्वं त्रिरुत श्रवांसि नस्तिष्ठं वां सूरे दुहिता रुहद्रथं ॥ (*triḥ saubhagatvaṃ triruta śravāṃsi nastiṣṭhaṃ vāṃ sūre duhitā ruhadrathaṃ ‖*)
+
+(Ṛ. Saṃ. 1-34-5)
+
+In such ṛks it is prayed that they should provide all wealth, food and the rest; and it is also suggested that they are the support of every kind of wealth. That they gave shelter to devotees such as Bhujyu, who were without refuge and had fallen into sorrow, and brought them to safe houses and the like, is described in many places (Ṛ. Saṃ. 1-116-3 and others). Therefore whichever meaning is given to this epithet, it fits.
+
+रुद्रा (*rudrā*)—रुत् दुःखं तद्भेतुभूतं पापं वा । तस्य द्रावयितारौ । संग्रामे (*rut duḥkhaṃ tadbhetubhūtaṃ pāpaṃ vā | tasya drāvayitārau | saṃgrāme*) भयंकरं शब्दयंत् वा । (*bhayaṃkaraṃ śabdayaṃt vā |*) *rut* means either sorrow or the sin that is its cause; (the word) is shown to be interpretable in one way as "those who destroy that sorrow or sin", or in another way as "those who make a fearful noise on the field of battle". And, quoting Yāska's sentence रुद्रो रौतीति सतः इति यास्कः । (*rudro rautīti sataḥ iti yāskaḥ |*) (*sic* ಸತಃ, as supplied; "ದಹರಿಸಿ" printed for "ಉದಹರಿಸಿ"), he has also given the derivation of this word. The author of the Nirukta, quoting the Kāṭhaka sentence and the Hāridravika sentence,
+
+यदरुदत्तद्रस्य रुद्रत्वं (इति काठकं) । यवरोदीत्तद्रुद्रस्य रुद्रत्वं (*yadarudattadrasya rudratvaṃ (iti kāṭhakaṃ) | yavarodīttadrudrasya rudratvaṃ*)
+(इति हारिद्रविकं) ॥ (नि. १०-७) (*(iti hāridravikaṃ) ‖ (ni. 10-7)*)
+
+(Ni. 10-7)
+
+has shown that the name Rudra became famous from making sound in a roaring noise. That both qualities, the destroying of sorrow and the making of sound, are present in the Aśvin deities has been shown earlier with examples. *[The printed "ಅಶ್ವಿನೀವೇವತೆಗಳಲ್ಲಿ" is kept as supplied.]* Or,
+
+### Printed p. 7
+
+*Running head: [೨. ೨. ಅ. ೩ ವ. ೧ ] Ṛgveda-saṃhitā, p. 7 (as supplied; "೨. ೨." printed for the Aṣṭaka).*
+
+आ नो रत्नानि बिभ्रतावश्विना गच्छतं युवं । (*ā no ratnāni bibhratāvaśvinā gacchataṃ yuvaṃ |*)
+रुद्रा हिरण्यवर्तनी जुषाणा वाजिनीवसू माध्वी मम श्रुतं हवं ॥ (*rudrā hiraṇyavartanī juṣāṇā vājinīvasū mādhvī mama śrutaṃ havaṃ ‖*)
+
+(Ṛ. Saṃ. 5-75-3)
+
+उत नो रुद्रा चिन्मृळतामश्विना विश्वे देवासो रथस्पतिर्भगः । (*uta no rudrā cinmṛḷatāmaśvinā viśve devāso rathaspatirbhagaḥ |*)
+ऋभुर्वाज ऋभुक्षणः परिज्मा विश्ववेदसः ॥ (*ṛbhurvāja ṛbhukṣaṇaḥ parijmā viśvavedasaḥ ‖*)
+
+(Ṛ. Saṃ. 10-93-7)
+
+In such ṛks Sāyaṇa has interpreted the word रुद्रा (*rudrā*) as "the two sons of Rudra, the Aśvins" (रुद्रपुत्रौ अश्विन् (*rudraputrau aśvin*)). Along with it he has said that it may also mean स्तुत्या वा (*stutyā vā*), that is, "those worthy of praise". And since the word *rudra* is read among the names of praise (Ni. 3-19), he may have given the sense "worthy of praise" here. Therefore in the present ṛk there is room for all these meanings.
+
+पुरुमंतू (*purumaṃtū*)—बहूनां ज्ञातारौ (*bahūnāṃ jñātārau*)—the meaning is: those with many kinds of knowledge. The wisdom of the Aśvin deities is highly praiseworthy. Therefore,
+
+मेधां मे अश्विनावुभावाधत्तां । (*medhāṃ me aśvināvubhāvādhattāṃ |*)
+
+(Trai. U. 4-16-5) *[abbreviation "ತ್ರೈ. ಉ." as supplied, not expanded]*
+
+it is prayed: "May they bestow on me excellent wisdom." Also in the Ṛk-saṃhitā,
+
+आ नूनं यातमश्विना रथेन सूरत्वचा । (*ā nūnaṃ yātamaśvinā rathena sūratvacā |*)
+भुजी हिरण्यपेशसा कवी गंभीरचेतसा ॥ (*bhujī hiraṇyapeśasā kavī gaṃbhīracetasā ‖*)
+
+(Ṛ. Saṃ. 8 8-2) *[reference as supplied]*
+
+in this ṛk the Aśvin deities are praised by the epithet गंभीरचेतसा (*gaṃbhīracetasā*). For this epithet Sāyaṇa has given the meaning प्रशस्तज्ञानौ (*praśastajñānau*), "having excellent knowledge".
+
+रेक्षः (*rekṣaḥ*)—रेक्ष इति धननाम । रिच्यते प्रयतः । (*rekṣa iti dhananāma | ricyate prayataḥ |*) The authors of the Nirukta explain that wealth is called *rekṣaḥ* because, left behind by one who has died, it becomes a means of happiness to those who remain (Ni. 3-2). In the present ṛk Sāyaṇa says that this word may mean wealth or food in the form of oblation. If it is understood as wealth, स्तुतिव्याजेन प्रार्थयते (*stutivyājena prārthayate*), "he prays by means of praise"; and if it is understood as food in the form of oblation, हविर्लक्षणमन्नं (*havirlakṣaṇamannaṃ*) वां दास्यति ददातीति शेषः । (*vāṃ dāsyati dadātīti śeṣaḥ |*) — he explains that the purport is: "he will offer this food to you".
+
+अकवाभिः (*akavābhiḥ*)—अकुत्सितैः (*akutsitaiḥ*) is explained as "not blameworthy, that is, not faulty", ऊतिभिः (*ūtibhiḥ*) "by protections"; the meaning is "worthy of praise". The word कव (*kava*), formed from the root कु (*ku*), which gives the sense of "blameworthy", (means) small, despised, faulty, "thus the purport become…" *[the supplied text breaks off here, at the end of printed p. 7, in the middle of the word "ತಾತ್ಪರವಾಗು"; the sentence continues on p. 8, in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 4 (PDF 4). Sūkta 158 Ṛk 1 (introduction end, Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics start)
+**Progress note:** Done through printed p. 7 (PDF 7). Sūkta 158 Special Topics (Bṛhaddevatā story, epithets vasū, rudrā, purumantū, rekṣaḥ, akavābhiḥ)
