@@ -16,7 +16,9 @@ The user's machine-read markdown, two files merged losslessly (`tools/rv/merge_m
 Set up Nov 10 2026 (merge, pictures, config; `batch.py prep 12` tested). Translation: Vol 15 pipeline (`tools/rv/RUNBOOK.md`); dispatcher prompt `vol12/CONTINUE_PROMPT_HTML.md`.
 
 ## Status
-Set up; not started. The first window is printed pp. 2–4 (p. 2 begins in the middle of the Sūkta 158 introduction).
+In progress (session of Nov 10 2026, stopped by the user after batch 62). **Done through printed p. 196** (63 windows, standing Sonnet agent, one window per message). Sūktas 158–161 complete; Sūkta 162 is at Ṛk 13 (grammar, continues at p. 197). Next window: `python3 tools/rv/batch.py prep 12` (starts at p. 197, mid Ṛk 13 grammar after "ನೀಕ್ಷಣಂ"). 0 `[?]`, 0 doubts. `batch_costs.md` lists windows (token columns "n/a": the harness reported only the agent's cumulative counter).
+Gates verified by the dispatcher after every window (git log, pushed, one progress note, XXX 0, no empty `⟦ (*⟦*)⟧`).
+Tool changes made this session: `refs_fix.py` (hyphen forms of Ṛ. Saṃ.), `html_to_kn.py` (Latin s before hyphen → ಽ), `batch.py commit` (uses highest printed page).
 
 ## Open items
-1. Dispatcher session: translate pp. 2–727 (~240 windows). 2. User: printed p. 1 (title page) if wanted; settle `[?]` readings. 3. After the volume: CLAUDE.md §11 checklist.
+1. Dispatcher session: translate pp. 197–727 (~165 more windows). Pending repairs and decisions are in `review/repair_log.md` (w0002 invented "Sense" paragraph; w0093 letter change; w0113 avagraha from picture marks). Reference abbreviations to confirm with the user: ಕೃ. ಸಂ., ಖ. ಸಂ., ಜ. ಸಂ., ಭಾ. ಉ., ಕರ., ಬೃ. ವೇ./ಪೇ., ಛಾ. ಉ., ಇ. ಬ್ರ. (see `review/page_flags.md`). The accent_report.tsv is rewritten per window; regenerate with the accent pass at the end. Recurring hand-fixes still manual: garbled Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha labels, Pratipadārtha inside the bhāṣya block, hyphen joins, merged page heads. 2. User: printed p. 1 (title page) if wanted; settle `[?]` readings. 3. After the volume: CLAUDE.md §11 checklist.
