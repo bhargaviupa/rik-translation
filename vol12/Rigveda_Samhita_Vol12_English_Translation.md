@@ -9116,6 +9116,155 @@ As in these and other Ṛks the meaning "wise" results, so in the present Ṛk a
 पुरीषिणम् (*purīṣiṇam*)—पुरीषमस्य अस्ति इति पुरीषिणम् (*purīṣamasya asti iti purīṣiṇam*). By अत इनि ठनौ (*ata ini ṭhanau*) (Pā. Sū. 5-2-115) the suffix ini in the possessive sense. By the accent of the suffix it has the final accent. A form ending in the accusative singular.
 विचक्षणम् (*vicakṣaṇam*)—the root चक्षिज् व्यक्तायां वाचि (*cakṣij vyaktāyāṃ vāci*). The i becomes anudātta and gets the designation it. Because it is anudātta-it, by अनुदात्तेतश्च हलादेः (*anudāttetaśca halādeḥ*) (Pā. Sū. 3-2-149) the suffix yuc. By युवोरनाकौ (*yuvoranākau*) (Pā. Sū. 7-1-1) ana is the substitute for it. By चितः (*citaḥ*)- (Pā. Sū. 6-1-163) the final accent comes. In a prādi compound the accent of the kṛdutarapada comes. *(The window ends here, as supplied.)*
 
+### Printed p. 368
+*Running head: 368 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+[Continuing the grammatical note on Ṛk 12 from the previous page, word सप्तचक्रे (*saptacakre*):] सप्तचक्रे (*saptacakre*). षडरे (*ṣaḍare*)—a bahuvrīhi compound. The accent of the first member comes. || 12 ||
+
+#### Ṛk 13
+*[ಸಂಹಿತಾಚಾರ್ಯ]* *(garbled label as supplied; repaired by the script to Saṃhitā-pāṭha)*
+
+**॥ संहितापाठः ॥**
+> पंचा॑रे च॒क्रे प॑रि॒वर्त॑माने॒ तस्मि॒न्ना त॑स्थु॒र्भुव॑नानि॒ विश्वा॑ ।
+> तस्य॒ नाक्ष॑स्तप्यते॒ भूरि॑भारः स॒नादे॒व न शी॑र्यते॒ सना॑भिः ॥१३॥
+
+**॥ पदपाठः ॥**
+> पंच्‌अरे । चक्रे । परिवर्तमाने । तस्मिन् । आ । तस्थुः । भुवनानि । विश्वा ।
+> तस्य । न । अक्षः । तप्यते । भूरिभारः । सनात् । एव । न । शीर्यते । सनाभिः ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+*[ಸಯಣಭಾಷ್ಯಂ]* *(garbled label as supplied; repaired by the script)*
+> पंचारे पंचर्तुरूपैररैर्युक्ते चक्रे संवत्सरात्मके परिवर्तमाने संवत्सरपरिवत्सरादिरूपेण पुनःपुनरावर्तमाने सति तस्मिन्कालचक्रे विश्वा भुवनानि सर्वाणि
+> भूतजातानि वर्तंत इत्यर्थः । किंच तस्य चक्रस्य मध्ये वर्तमानोऽक्षो भूरिभारः
+> सकलभुवनवहनेन प्रभूतभारोऽपि न तप्यते । न पीड्यते । किंच सनादेव सनातन
+> एव सनाभिः समाननाभिकः सर्वदैकरूपनाभिरसौ न शीर्यते । न भिद्यते । यथा
+> लौकिकरथाक्षो भारेण भग्नो भवति अक्षघातेन च नाभिर्विवृता भवति तद्वदत्रापि
+> नास्तित्यर्थः ॥
+
+*Gist:* While the five-spoked wheel of the year turns, all worlds rest in it; its heavily loaded axle is not strained and its nave does not wear out.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+पंचारे (*paṃcāre*)—furnished with five spokes in the form of seasons; चक्रे (*cakre*)—in the wheel in the form of the year; परिवर्तमाने (*parivartamāne*)—which revolves again and again in the forms of the saṃvatsara, parivatsara and so on; तस्मिन् (*tasmin*)—in the wheel of time; विश्वा (*viśvā*)—all; भुवनानि (*bhuvanāni*)—the worlds; आ तस्थुः (*ā tasthuḥ*)—rest; तस्य (*tasya*)—of this wheel, that which is in the middle, भूरिभारः (*bhūribhāraḥ*)—which bears an abundant burden: अक्षः (*akṣaḥ*)—the axle of the chariot; न तप्यते (*na tapyate*)—is not obstructed *[the Kannada word is "ಕುಂಠಿತವಾಗುವುದಿಲ್ಲ", "is not blunted"]*; सनादेव (*sanādeva*)—even though extremely ancient; सनाभिः (*sanābhiḥ*)—its one and only nave (centre); न शीर्यते (*na śīryate*)—is not worn away.
+
+### Printed p. 369
+*Running head: Ṛgveda-saṃhitā 369 [ಆ. ೨. ಅ. ೩. ವ. ೧೬.] (as supplied: "ಆ." at the start).*
+
+**भावार्थ (Bhāvārtha)**
+In the wheel in the form of the year, furnished with five spokes in the form of seasons, in this wheel of time which revolves again and again in the forms of the saṃvatsara, parivatsara and so on, all the worlds rest. The axle of the chariot, which is in the middle of this wheel of time and bears an abundant burden, is not obstructed at all; although extremely ancient, its one and only nave is not worn away.
+
+*[English Trauslation]* *(garbled label as supplied; repaired by the script to "English Translation.")*
+
+**Printed English**
+All beings abide in this five-spoked revolving wheel; the heavily-loaded axle is never heated ; its eternal compact nave is never worn away.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In this Ṛk the nature of the wheel of time, which is without beginning, supports the universe and is free from decay, is described. In the pāda पंचारे चक्रे (*paṃcāre cakre*) परिवर्तमाने (*parivartamāne*) तस्मिन् (*tasmin*) the word पंचारे (*paṃcāre*) is an epithet of the wheel of time, "belonging to the year, furnished with spokes in the form of the five seasons": Sāyaṇa's words are given in the Kannada as "ಪಂಚಯತು ರೂಪೈಃ ಆರೈಃ ಯುಕ್ತೇ" *[as supplied: the print has पंचयतु (*paṃcayatu*), broken across the line, where the sense requires "five seasons"; the words रूपैः आरैः युक्ते (*rūpaiḥ āraiḥ yukte*) follow]*. That the number of the seasons becomes five if the Hemanta and Śiśira seasons are reckoned as one because of the likeness of their qualities, Sāyaṇa explained in the previous Ṛk with the sentence "एतत् हेमंत शिशिरयोः एकत्वाभिप्रायं (*etat hemaṃta śiśirayoḥ ekatvābhiprāyaṃ*)". And that Śaṅkara and others have stated this view was shown earlier by quoting the Praśna Upaniṣad sentence.
+
+Besides, पंचारे चक्रे (*paṃcāre cakre*) may also be explained from a spiritual point of view. Since the whole universe is fivefold (pāṅkta), and since the fivefold universe rests in the beginningless wheel of time, this description may explain that point also. In the Taittirīya Upaniṣad its explanation is given in this manner:
+
+पृथिवी अंतरिक्षं द्यौः दिशः अवांतरदिशाः अग्निः वायुः आदित्यः चंद्रमा नक्षत्राणि आस ओषधयो वनस्पतय आकाश आत्मा इत्यधिभूतं (*pṛthivī aṃtarikṣaṃ dyauḥ diśaḥ avāṃtaradiśāḥ agniḥ vāyuḥ ādityaḥ caṃdramā nakṣatrāṇi āsa oṣadhayo vanaspataya ākāśa ātmā ityadhibhūtaṃ*)
+
+All these are the fivefold group relating to the elements (ādhibhautika): "thus the adhibhūta". अथाध्यात्मं (*athādhyātmaṃ*)—now the spiritual fivefold group will be explained—
+
+| प्राणो (*prāṇo*) | व्यानो (*vyāno*) | अपान (*apāna*) | उदानः (*udānaḥ*) | समानः (*samānaḥ*) |
+|---|---|---|---|---|
+| चक्षुः (*cakṣuḥ*) | श्रोत्रं (*śrotraṃ*) | मनो (*mano*) | नाक् (*nāk*) *[as supplied]* | त्वक् (*tvak*) |
+| चर्म (*carma*) | मांसं (*māṃsaṃ*) | स्नाना (*snānā*) *[as supplied]* | अस्थि (*asthi*) | मज्जा (*majjā*) |
+
+*(The foot of the page carries the signature mark "[24] [Vol. 12" as supplied.)*
+
+### Printed p. 370
+*Running head: 370 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+All these are the vital airs beginning with prāṇa, the fivefold group of the senses beginning with the eye, and the fivefold group of the bodily constituents beginning with skin. एतदधिविधाय ऋषिरवोचत् । पांक्तं वा इदग्ं सर्वं । पांक्तेनैव पांक्तग्स् स्पृणोतीति (*etadadhividhāya ṛṣiravocat | pāṃktaṃ vā idagṃ sarvaṃ | pāṃktenaiva pāṃktags spṛṇotīti*)
+(Tai. U. 1-2 *[as supplied: "ತೈ. ಉ."]*)
+
+The sage has said in the above sentence that all the material and spiritual parts of the universe are thus fivefold. Since it is explained that the activity of the universe is by the union of these two fivefold groups, this fivefold group too, which is of the nature of a wheel, is contained in the wheel of time itself. पंचारे चक्रे (*paṃcāre cakre*) तस्मिन् (*tasmin*) can be explained from this point of view too.
+
+परिवर्तमाने (*parivartamāne*)—संवत्सरपरिवत्सरादिरूपेण पुनः पुनः आवर्तमाने सति (*saṃvatsaraparivatsarādirūpeṇa punaḥ punaḥ āvartamāne sati*). It is an epithet of the wheel of time: "revolving again and again in the forms of the saṃvatsara, parivatsara and so on". There was a custom of calling the wheel of time by five names, संवत्सर, परिवत्सर, इदावत्सर, इद्वत्सर (*saṃvatsara, parivatsara, idāvatsara, idvatsara*) and वत्सर (*vatsara*). Small differences are seen here and there both in these names and in their reckoning. For example, in the Taittirīya Saṃhitā:
+
+यत्ते रुद्र पुरो धनुस्तद्वातो अनु वातु ते तस्मै ते रुद्र संवत्सरेण नमस्करोमि (*yatte rudra puro dhanustadvāto anu vātu te tasmai te rudra saṃvatsareṇa namaskaromi*)
+
+यत्ते रुद्र दक्षिणाधनुः (*yatte rudra dakṣiṇādhanuḥ*) (the following words repeated, as the print shows by ditto marks ",,") परिवत्सरेण (*parivatsareṇa*) (",,");
+यत्ते रुद्रॆ पश्चाद्दनुः (*yatte rudrè paścāddanuḥ*) (the same, ",,") इदावत्सरेण (*idāvatsareṇa*) (",,");
+यत्ते रुद्रोत्तराद्दनुः (*yatte rudrottarāddanuḥ*) (the same, ",,") इदुवत्सरेण (*iduvatsareṇa*) (",,");
+यत्ते रुद्रोपरि धनुः (*yatte rudropari dhanuḥ*) (the same, ",,") वत्सरेण (*vatsareṇa*) (",,").
+
+In these sentences the varieties are saṃvatsara, parivatsara, idāvatsara, iduvatsara and vatsara. The same division is found in the Vājasaneyi Saṃhitā also (Vā. Saṃ. 27-45). But there, in place of इद्वत्सर (*idvatsara*), the Taittirīya Saṃhitā has इदुवत्सर (*iduvatsara*) *[as supplied: this is how the Kannada states the difference]*. The rest are the same. In the Taittirīya Brāhmaṇa:
+
+संवत्सरोऽसि परिवत्सरोऽसि । इदावत्सरोऽसीदुवत्सरोऽसि । इद्वत्सरोऽसि वत्सरोऽसि । तस्य ते वसंतश्शिरः । ग्रीष्मो दक्षिणः पक्षः (*saṃvatsaro 'si parivatsaro 'si | idāvatsaro 'sīduvatsaro 'si | idvatsaro 'si vatsaro 'si | tasya te vasaṃtaśśiraḥ | grīṣmo dakṣiṇaḥ pakṣaḥ*)
+*[as supplied: "ಕೈ. ಬ್ರಾ. 3-10-4-1"; the dotted gaps are in the print]*
+
+There are six varieties: saṃvatsara, parivatsara, idāvatsara, iduvatsara, idvatsara and vatsara. But in this same Taittirīya Brāhmaṇa,
+
+### Printed p. 371
+*Running head: Ṛgveda-saṃhitā 371 [ಅ.೨.ಅ. ೩ ವ. ೧೬. ] (as supplied).*
+
+अग्निर्वाव संवत्सरः । आदित्यः परिवत्सरः (*agnirvāva saṃvatsaraḥ | ādityaḥ parivatsaraḥ*)
+(Tai. Brā. 1-4-10-1 *[as supplied: "ತೈ. ಬ್ರಾ"]*)
+
+here only four varieties are mentioned: saṃvatsara, parivatsara, idāvatsara and anuvatsara. Besides, in another part of the Taittirīya Saṃhitā:
+
+इदुवथ्सराय परिवत्सराय संवथ्सराय कृणुता बृहन्नमः (*iduvathsarāya parivatsarāya saṃvathsarāya kṛṇutā bṛhannamaḥ*)
+(Tai. Saṃ. 5-7-2-4)
+
+only three varieties are mentioned: iduvatsara, parivatsara and saṃvatsara. In all these sentences the two names saṃvatsara and parivatsara are common. It is described that the wheel of time has been revolving like a wheel in these forms from beginningless time.
+
+तस्मिन्नातस्थुर्भुवनानि विश्वा (*tasminnātasthurbhuvanāni viśvā*)—the meaning is that all the worlds rest in this wheel of time. Names such as saṃvatsara and parivatsara are the limbs of this Great Time. This Great Time itself is the support of the world and of all the activities of the world. This very thing is called by many names such as svabhāva (own nature), niyama (law) and Brahman.
+
+किं कारणं, ब्रह्म ? कुतः स्म जाता जीवाम केन क्व च संप्रतिष्ठाः । अधिष्ठिताः केन सुखेतरेषु वर्तामहे ब्रह्मविदो व्यवस्थां (*kiṃ kāraṇaṃ, brahma ? kutaḥ sma jātā jīvāma kena kva ca saṃpratiṣṭhāḥ | adhiṣṭhitāḥ kena sukhetareṣu vartāmahe brahmavido vyavasthāṃ*)
+(Śve. U. 1-1 *[as supplied: "ಶ್ವೇ. ಉ."]*)
+
+What is the original cause of the world? Is it Brahman? Or what is Brahman? What is its nature? From where is our origin? By the support of what do we live? What is the basis of our existence? From where do our pleasures and pains arise? To the question there is this kind of answer:
+
+कालः स्वभावो नियतिर्यदृच्छा भूतानि योनिः पुरुष इति चिंत्या (*kālaḥ svabhāvo niyatiryadṛcchā bhūtāni yoniḥ puruṣa iti ciṃtyā*)
+*[as supplied: "ಶ್ವೇ. ಉ" cut off, and then "ಶ್ರೀ. ಉ. ೧-೨"; read as Sve. U. 1-2, the reference being printed twice, the first broken]*
+
+Some call this great origin of the world Time, some Niyati (fate), some Svabhāva (own nature); in the same way different knowers of the truth call it by some other names. But:
+
+स्वभावमेके कवयो वदंति कालं तथान्ये परिमुह्यमानाः । देवस्यैष महिमा तु लोके येनेदं भ्राम्यते बह्मचक्रं (*svabhāvameke kavayo vadaṃti kālaṃ tathānye parimuhyamānāḥ | devasyaiṣa mahimā tu loke yenedaṃ bhrāmyate bahmacakraṃ*)
+*[as supplied: "ಕ್ವೆಂ. ಉ. ೬-೧", presumably the Śvetāśvatara Upaniṣad; the abbreviation is odd and is reported; the last word is printed बह्मचक्रं (*bahmacakraṃ*)]*
+
+Some poets call this great origin Svabhāva, others call it Time. By this the nature of it is not fully described. He who, having established all the worlds by his power, also causes the Brahma-wheel to revolve
+
+### Printed p. 372
+*Running head: 372 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+is the Supreme Person, Īśvara. It is described that by him the Brahma-wheel, the cause of the world, also is made to revolve. The description of the wheel of time given in the present passage is to be understood as the primal principle described under different names. Whatever sage, by whatever name he may call this primal principle, no other fitting likeness can be given to this primal cause except by comparing it to the wheel of a chariot. Whether it be called Ātman, Brahman or Niyati, the relation it has to the world of activity must be compared to the relation of the wheel of a chariot to its spokes. The method of describing the primal principle by showing that comparison can be seen generally in all the Upaniṣads. For example, in the Bṛhadāraṇyaka Upaniṣad:
+
+स वा अयमात्मा सर्वेषां भूतानामधिपतिः सर्वेषां भूतानां राजा तद्यथा रथनाभौ च रथनेमौ चाराः सर्वे समर्पिता एवमेवास्मिन्नात्मनि सर्वाणि भूतानि सर्वे देवाः सर्वे लोकाः सर्वे प्राणाः सर्व एवात्मनः समर्पिताः (*sa vā ayamātmā sarveṣāṃ bhūtānāmadhipatiḥ sarveṣāṃ bhūtānāṃ rājā tadyathā rathanābhau ca rathanemau cārāḥ sarve samarpitā evamevāsminnātmani sarvāṇi bhūtāni sarve devāḥ sarve lokāḥ sarve prāṇāḥ sarva evātmanaḥ samarpitāḥ*)
+(Bṛ. U. 2-5-15)
+
+This Ātman is the lord of all beings. As all the spokes are contained in the nave and the felly of the chariot wheel and have fixed positions, so all beings are contained in this Ātman and are subject to this Ātman's control. All beings, all deities, all worlds, all vital airs, everything, are offered to the control of this Ātman and depend on it; thus a likeness is stated between this Soul of the world and a chariot wheel. Similarly in the Muṇḍaka Upaniṣad and in the Praśna Upaniṣad also:
+
+अरा इव रथनाभौ संहता यत्र नाड्यः स एषोऽंतश्चरते बहुधा जायमानः (*arā iva rathanābhau saṃhatā yatra nāḍyaḥ sa eṣo 'ṃtaścarate bahudhā jāyamānaḥ*)
+(Mu. 2-2-6 *[as supplied: "ಮು."]*)
+
+आरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितं । यजो यजूग्ंषि सामानि यज्ञः क्षत्रं ब्रह्म च (*ārā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitaṃ | yajo yajūgṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca*)
+(Praśna 2-6 *[as supplied: "ಪ್ರಶ್ನ."]*)
+
+अरा इव रथनाभौ कला यस्मिन्प्रतिष्ठिताः । तं वेद्यं पुरुषं वेद यथा मा वो मृत्युः परिव्यथा इति (*arā iva rathanābhau kalā yasminpratiṣṭhitāḥ | taṃ vedyaṃ puruṣaṃ veda yathā mā vo mṛtyuḥ parivyathā iti*)
+(Praśna 6-6 *[as supplied: "ಪ್ರಶ್ನೆ."]*)
+
+### Printed p. 373
+*Running head: Ṛgveda-saṃhitā 373 [ಅ. ೨. ಅ. ೩. ವ. ೧೬. ] (as supplied).*
+
+Thus the relation of the individual soul to all the parts of the living being, the relation of the vital air to the Ṛk and the rest, and the relation of the Primal Person to all the kalās are compared to the relation of the nave of a chariot to its spokes. Therefore, although in the present Ṛk this great principle is described as the wheel of time, it must be understood to be the primal principle described elsewhere by names such as Brahman and Ātman. For that very reason the description in the second half of this Ṛk describes also its being without beginning and without end. In the same way, in the Śvetāśvatara Upaniṣad this one principle is compared to a wheel, and the various parts of the universe, which are its constituents, to the parts of the wheel:
+
+तमेकनेमिं त्रिवृतं षोडशांतं शतार्धारं विंशतिप्रत्यराभिः । अष्टकैः षड्भर्विश्वरूपैकपाशं त्रिमार्गभेदं द्विनिमित्तैकमोहं (*tamekanemiṃ trivṛtaṃ ṣoḍaśāṃtaṃ śatārdhāraṃ viṃśatipratyarābhiḥ | aṣṭakaiḥ ṣaḍbharviśvarūpaikapāśaṃ trimārgabhedaṃ dvinimittaikamohaṃ*)
+(Śve. U. 1-4)
+
+It is described that this one principle, the Soul of the universe, has a single felly, त्रिवृतवू (*trivṛtavū*) (threefold), sixteen at the end, fifty spokes, twenty counter-spokes, six groups of eight, one noose binding the whole universe, three paths, and one delusion with two causes. The threefold here is the three qualities, sattva, rajas and tamas; the five organs of knowledge, the five organs of action and the mind, together with the five elements, make up the sixteen (16).
+
+एष प्रत्ययसर्गो विपर्ययाशक्तितुष्टि सिद्धाख्यः । गुणवैषम्यविमर्दात् तस्य च भेदास्तु पंचाशत् (*eṣa pratyayasargo viparyayāśaktituṣṭi siddhākhyaḥ | guṇavaiṣamyavimardāt tasya ca bhedāstu paṃcāśat*)
+(Sāṃkhyakārikā 46)
+
+As explained in this verse, "pratyaya-sarga" means ignorance; viparyaya (error), aśakti (incapacity), tuṣṭi (contentment) and siddhi (perfection) with their subdivisions are fifty kinds. These are compared to the fifty spokes, सतार्धारं (*satārdhāraṃ*) (100/2) *[as supplied: सतार्धारं (*satārdhāraṃ*) with the figure "೧೦೦/೨"; the verse above reads शतार्धारं (*śatārdhāraṃ*)]*. Giving the likeness of the counter-spokes, which are like warp and woof to these, the five organs of knowledge and the five organs of action, together with the ten objects corresponding to them, are compared to the twenty counter-spokes. अष्टकैष्षड्भिः (*aṣṭakaiṣṣaḍbhiḥ*) means: the six groups of eight. They are:
+
+1) The five elements, the mind, the intellect and egoism, these eight together make the first group. Similarly,
+
+2) the eight constituents of the body; *(the list continues in the next window; the window ends here as supplied)*
+
 ---
 
-**Progress note:** Done through printed p. 367. Ṛk 12 (year as wheel/Āditya), special topics, grammar
+**Progress note:** Done through printed p. 373. Ṛk 12 end; Ṛk 13 (five-spoked wheel), special topics incl. names of years and Upaniṣad wheel similes
