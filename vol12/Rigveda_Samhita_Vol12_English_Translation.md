@@ -1741,6 +1741,105 @@ Aṣṭaka 2 ‖ Adhyāya 3 ‖ Varga 3 ‖
 > *śobhanajanmavatyau dhiṣaṇe dharṣaṇopete | svavyāpāreṣu pragalpe ityarthaḥ | devī*
 > *dyotamāne | atra yadyapi dhiṣaṇe ityetat dhiṣaṇe rodasī iti tannāmasūktatvāddyāvāpṛthivīnāma tathāpi dyāvāpṛthivī ityasya vidyamānatvādyogikaṃ draṣṭavyaṃ ‖*
 
+### Printed p. 62
+
+*Running head: 62 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 16 (printed "ಸೂ. ೧೬." for 160; the final digit is missing in the supplied text).* (The Sāyaṇa-bhāṣya of Ṛk 1 ended on p. 61.)
+
+*[Gist of the Sāyaṇa-bhāṣya of Ṛk 1 (my own short summary): radiant, pure Sūrya moves between Heaven and Earth, which give happiness, uphold water, are nobly born and skilled in their tasks.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ते हि द्यावापृथिवी (*te hi dyāvāpṛthivī*)—the well-known Heaven and Earth; विश्वशंभुवा (*viśvaśaṃbhuvā*)—givers of happiness to all the worlds; ऋतावरी (*ṛtāvarī*)—those who keep the rule of *ṛta*; रजसः (*rajasaḥ*)—water; धारयत्कवी (*dhārayatkavī*)—having the capacity to hold (it); सुजन्मनी (*sujanmanī*)—of excellent birth; धिषणे (*dhiṣaṇe*)—skilled in their duty; देवी (*devī*)—shining, or of divine nature (they are); अंतः (*aṃtaḥ*)—between these Heaven and Earth; शुचिः (*śuciḥ*)—pure-souled; देवः (*devaḥ*)—shining; सूर्यः (*sūryaḥ*)—the Sun; धर्मणा (*dharmaṇā*)—endowed with works such as holding water and illuminating the world; ईयते (*īyate*)—moves.
+
+**भावार्थ (Bhāvārtha)**
+
+The world-famous Heaven and Earth give happiness to all the worlds, keep the rule of *ṛta*, have the capacity to hold water, are skilled in their duty and are shining. In the interval between these Heaven and Earth, the Sun (printed "ಸೂರನು"), pure-souled and shining, moves, endowed with works such as holding water and illuminating the world.
+
+**Printed English translation**
+
+Those two, the divine Heaven and Earth. are the diffusers of happiness on all, encouragers of truth, able to sustain the water (of the rains), auspicious of birth, and energetic (in action) : in the interval between whom proceeds the pure and divine Sun for (the discharge of his) duties.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रजसः धारयत्कवी (*rajasaḥ dhārayatkavī*)—those who have the power to hold water. Moreover, together with विश्वशंभुवा (*viśvaśaṃbhuvā*), those who, by gifts of water and the like, increase the wealth of food and give happiness to the whole world, the power and the generosity of Heaven and Earth are stated together. It is well known that the cooperation and the relation of Heaven and Earth are the cause both of the holding of the water in the form of rain and of its giving.
+
+स यदि वृष्टिकामः स्यात् । एतेनैवाददीत संजानाथां द्यावापृथिवी इति यदा (*sa yadi vṛṣṭikāmaḥ syāt | etenaivādadīta saṃjānāthāṃ dyāvāpṛthivī iti yadā*)
+वै द्यावापृथिवी संजानाथे अथ वर्षति तस्मादाह संजानाथां द्यावापृथिवी (*vai dyāvāpṛthivī saṃjānāthe atha varṣati tasmādāha saṃjānāthāṃ dyāvāpṛthivī*)
+इति ॥ (*iti ‖*)
+
+(Śa. Brā. 1-8-3-12)
+
+Since rain arises from the union of Heaven and Earth, their harmony and cooperation are prayed for in the Śatapatha Brāhmaṇa.
+
+### Printed p. 63
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೩ ] Ṛgveda-saṃhitā, p. 63 (as supplied).*
+
+पृथिवी पूर्वरूपं द्यौरुत्तररूपं वृष्टिः संधिः पर्जन्यः संधाता । तदुतापि (*pṛthivī pūrvarūpaṃ dyauruttararūpaṃ vṛṣṭiḥ saṃdhiḥ parjanyaḥ saṃdhātā | tadutāpi*)
+तत्रैतद्वलवदनुद्गळ्हन् संदधदहोरात्रे वर्षति द्यावापृथिव्यौ समधाता- (*tatraitadvalavadanudgaḷhan saṃdadhadahorātre varṣati dyāvāpṛthivyau samadhātā-*)
+मित्युताप्र्याहुः ॥ (*mityutāpryāhuḥ ‖*)
+
+(Aitareya Āraṇyaka 3-1-2)
+
+In these Āraṇyaka mantras too it is said, as above, that from the junction of Heaven and Earth there is the falling of water in the form of rain, and that when, by the gathering of waters, rain falls, immediately everyone says that Heaven and Earth have met. And,
+
+असौ हि त्रिष्टुप्तदेने सयुजौ करोति तस्मादिमे संभुंजातेऽनयोरनु (*asau hi triṣṭuptadene sayujau karoti tasmādime saṃbhuṃjāte 'nayoranu*)
+संभोगमिमाः सर्वाः प्रजा अनु संभुंजते ॥ (*saṃbhogamimāḥ sarvāḥ prajā anu saṃbhuṃjate ‖*)
+
+(Śa. Brā. 1-7-2-16)
+
+after oblations and the like have been offered to these Heaven and Earth together, they pour rain, and food becomes available to all beings. [The rain is the food of the earth, and the food, Produced thereby, in its turn furnishes food for the sky in the form of oblations.] *[this bracketed English sentence stands in the Kannada text as supplied]* Thus it describes that they are the cause of the wealth of food that gives happiness to the whole world. They are not only increasers of the wealth of food; they are also *ṛtāvarīs*, who keep the rule in the functioning of the world.
+
+In this context, showing the relation between the course of Sūra, the eye of the world, and the rule of *ṛta* of Heaven and Earth, it is described, शुचिः सूरः अंतः ईयते (*śuciḥ sūraḥ aṃtaḥ īyate*), that the shining Sūra moves between these Heaven and Earth. The revolution of Sūra, in accordance with the rule and between Heaven and Earth, is described in the same way in many places.
+
+अहमपो अपिन्वमुक्षमाणा धारयं दिवं सदन ऋतस्य । (*ahamapo apinvamukṣamāṇā dhārayaṃ divaṃ sadana ṛtasya |*)
+ऋतेन पुत्रो अदितेर्यतावोत त्रिधातु प्रथयद्वि भूम ॥ (*ṛtena putro aditeryatāvota tridhātu prathayadvi bhūma ‖*)
+
+(Ṛ. Saṃ. 4-42-4)
+
+Here Varuṇa has declared that he established the atmosphere in the seat of *ṛta*.
+
+कविर्नृचक्षा अभि सीमचष्ट ऋतस्य येना विघृते मदंती । (*kavirnṛcakṣā abhi sīmacaṣṭa ṛtasya yenā vighṛte madaṃtī |*)
+नाना चक्राते सदनं यथा वेः समानेन क्रतुना संविदाने ॥ (*nānā cakrāte sadanaṃ yathā veḥ samānena kratunā saṃvidāne ‖*)
+
+(Ṛ. Saṃ. 3-54-6)
+
+In this ṛk it is said that Sūrya, moving in the interval between Heaven and Earth, which rejoice in the womb of *ṛta*, looks upon them; and
+
+### Printed p. 64
+
+*Running head: 64 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 160.*
+
+परिक्षिता पितरा पूर्वजावरी ऋतस्य योना क्षयतः समोकसा । (*parikṣitā pitarā pūrvajāvarī ṛtasya yonā kṣayataḥ samokasā |*)
+द्यावापृथिवी वरुणाय सव्रते धृतवत्पयो महिषाय पिन्वतः ॥ (*dyāvāpṛthivī varuṇāya savrate dhṛtavatpayo mahiṣāya pinvataḥ ‖*)
+
+(Ṛ. Saṃ. 10-65-8)
+
+in such ṛks it is also said that the womb of *ṛta* is the common dwelling-place of Heaven and Earth. All the points of these descriptions are indicated in the present ṛk too.
+
+धिषणे (*dhiṣaṇe*)—It is read among the names of Heaven and Earth, स्वधे, पुरंधी (*svadhe, puraṃdhī*) and so on (Ni. 3-21). For this word, धिषणा वाक् धिषेर्दधात्यर्थे । (*dhiṣaṇā vāk dhiṣerdadhātyarthe |*) धीसादिनीति वा । (*dhīsādinīti vā |*) (printed "ನಿ ೮-೩"): it is said that it may be formed from the root धिष् (*dhiṣ*), which gives the sense "to hold"; धीसानिनीति वा (*dhīsāninīti vā*) *[so printed]*: "it extends the intelligence", that is, it explains the meaning clearly: such is the derivation of the authors of the Nirukta.
+
+द्यावापृथिवी गच्छ स्वाहेति । प्रजापतिवै प्रजाः सृष्टा ता द्यावापृथिवीभ्यां (*dyāvāpṛthivī gaccha svāheti | prajāpativai prajāḥ sṛṣṭā tā dyāvāpṛthivībhyāṃ*)
+परगृह्णात्ता इमा द्यानापृथिवीभ्यां परिगृहीताः । (*paragṛhṇāttā imā dyānāpṛthivībhyāṃ parigṛhītāḥ |*)
+
+(ಶ. ಪ್ರಾ. 3-8-4-17) *[the abbreviation "ಶ. ಪ್ರಾ." is printed so, for Śa. Brā.; not expanded]*
+
+Here it is said that Heaven and Earth seized all the beings created by Prajāpati and kept them under their own rule; so the name may be well known as formed from the root धिष् (*dhiṣ*), "to hold", indicating this sense.
+
+रजसः (*rajasaḥ*)—For the word रजस् (*rajas*) the meaning "water" is given here. रजः । (*rajaḥ |*) रजो रजतेर्ज्योती (*rajo rajaterjyotī*) रज उच्यते उदकं रज उच्यते । लोका रजांस्युच्यंते । (*raja ucyate udakaṃ raja ucyate | lokā rajāṃsyucyaṃte |*) (Ni. 4-19): formed from the root रंज् (*raṃj*), which gives the sense "to shine", the word रजस् (*rajas*) means "light", "water" and "worlds". Moreover there is a statement of the Nirukta that it is also a synonym for blood and for the days: असृगहनी रजसी उच्येते (*asṛgahanī rajasī ucyete*). The authors of the Nirukta quote the ṛk
+
+अज्जमुक्थैरहिं गृणीषे बुद्धे नदीनां रजःसु पीदन् । (*ajjamukthairahiṃ gṛṇīṣe buddhe nadīnāṃ rajaḥsu pīdan |*)
+
+(Ṛ. Saṃ. 7-34-16)
+
+and, as there रजस्सु (*rajassu*) is explained as "in the waters", the meaning "water" is given in the present ṛk too. The other meanings of the word रजस् (*rajas*) are given in their respective contexts.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*[The heading is garbled in the supplied text ("ವ್ಯಾಕರಣ, ಕ್ರಿಯಾ"); the standard heading is inserted and the garbled line kept in kn.md as a note.]*
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada begins with विश्वशंभुवा (*viśvaśaṃbhuvā*) (root भू (*bhū*), suffix *kvip*, in a causal sense; the accent of the compound by the sūtra on बहुव्रीह् विश्वं संज्ञायाम् (*bahuvrīh viśvaṃ saṃjñāyām*), Pā. Sū. 6-2 104, as printed); the analysis continues on the next page.
+
 ---
 
-**Progress note:** Done through printed p. 61 (PDF 61). Sūkta 159 Ṛk 5 grammar end; Sūkta 160 introduction, Ṛk 1 Saṃhitā/Pada (from picture) and bhāṣya start
+**Progress note:** Done through printed p. 64 (PDF 64). Sūkta 160 Ṛk 1 Pratipadārtha, Bhāvārtha, English, Special Topics (rajasaḥ dhārayatkavī, dhiṣaṇe, rajasaḥ), grammar start
