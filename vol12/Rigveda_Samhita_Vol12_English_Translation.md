@@ -9753,6 +9753,164 @@ Prajāpati, desiring offspring, by the greatness of his austerity created Nature
 
 By sentences of this kind it is described that the primal principle, manifesting itself both in the female form and in the male form, as described in the present Ṛk, became the cause of the creation and other activities of the world. It must be understood that Prajāpati, Āditya and the year are all different names of one and the same principle. Therefore: संवत्सरो वै प्रजापतिः (*saṃvatsaro vai prajāpatiḥ*) ; मासो वै प्रजापतिः । (*māso vai prajāpatiḥ |*) ; अहोरात्रो वै प्रजापति (*ahorātro vai prajāpati*) ; *(the list is cut by the end of the window as supplied and continues in the next window)*
 
+### Printed p. 393
+*Running head: [ಅ. ೨. ಅ. ೩. ನ. ೧೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 393 (as supplied; the printed "ನ." and "ವ." of the Varga are not made uniform).*
+
+[Continuing the Special Topics of the previous Ṛk.]
+
+Beginning with अन्नं वै प्रजापतिः (*annaṃ vai prajāpatiḥ*) (Praśna 1), Prajāpati, who pervades the world, is described. Describing this principle in the Śvetāśvatara Upaniṣad:
+
+त्वं स्त्री त्वं पुमानसि त्वं कुमार उत ना कुमारी । त्वं जीर्णो दंडेन वंचसि त्वं जातो भवसि विश्वतोमुखः (*tvaṃ strī tvaṃ pumānasi tvaṃ kumāra uta nā kumārī | tvaṃ jīrṇo daṃḍena vaṃcasi tvaṃ jāto bhavasi viśvatomukhaḥ*)
+(Śve. U. 4-3)
+
+"You, whose face is turned to every side, are praised as being of female form and of male form, and likewise as having the form of a boy and a girl."
+
+अक्षण्वान् पश्यत्—ज्ञानदृष्टुपेतः कश्चिन्महान् पश्यति (*akṣaṇvān paśyat—jñānadṛṣṭupetaḥ kaścinmahān paśyati*): only a great soul endowed with the sight of knowledge can see; others cannot. After giving an example for this, the occasion on which Indra and the others who knew this principle, female and male in form, are praised is told in the Kena Upaniṣad in this manner, and this beautiful secret is made known:
+
+अथेंद्रमब्रुवन्मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्रवत्तस्मात्तिरोदधे । सतस्मिन्नेवाकाशेस्त्रियमाजगाम बहुशोभमानामुमाग्ं हैमवतीं तागां होवाच किमेतद्यक्षमिति (*atheṃdramabruvanmaghavannetadvijānīhi kimetadyakṣamiti tatheti tadabhyadravattasmāttirodadhe | satasminnevākāśestriyamājagāma bahuśobhamānāmumāgṃ haimavatīṃ tāgāṃ hovāca kimetadyakṣamiti*)
+(केस. ३-१८, १२ (*kesa. 3-18, 12*)) *[as supplied: the reference abbreviation "ಕೇಸ." and the numbers are kept as printed.]*
+
+The gods all told Indra to find out the nature of this Yakṣa, and Indra went near it. [This occasion, at which Agni and the others did not fully understand its nature, and even the gods were unable to make its secret known, was described earlier among the Special Topics of the 5th Ṛk of the Sūkta now in hand.] Then Indra saw in the atmosphere a female figure, exceedingly charming and radiant. When he asked who this was,
+
+सा ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति (*sā brahmeti hovāca brahmaṇo vā etadvijaye mahīyadhvamiti*)
+(Kena. 4-1)
+
+it was told that this female figure is Brahman, and that the victory of the gods and the rest is through her greatness; and afterwards, praising the greatness of Indra and the others who knew that beautiful Brahman-principle, and telling that it is not possible for other ordinary persons,
+
+तस्माद्वा एते देवा अतितरामिवान्वान्यादग्निर्वायुरिंद्रस्ते ह्येनन्ने दिष्ठं पस्पृशुस्ते ह्येनत्प्रथमो विदांचकार ब्रह्मेति (*tasmādvā ete devā atitarāmivānvānyādagnirvāyuriṃdraste hyenanne diṣṭhaṃ paspṛśuste hyenatprathamo vidāṃcakāra brahmeti*)
+(Praśna. 4-2) *[as supplied: the reference is printed so; it is not changed.]*
+
+### Printed p. 394
+*Running head: 394 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೨೨. ಸೂ. ೧೬೪] (as supplied; "ಆ." as printed).*
+
+Because these gods, approaching this primal principle to learn its nature, knew its greatness before the others, Agni, Indra and Vāyu are superior to the other gods. Even among Agni, Vāyu and Indra, Indra is the greatest because he knew this Brahman-principle. Thus, praising greatly the power of knowing its secret, it is told that this is possible only for those who have supernatural sight of knowledge. One without this knowledge of the Self is merely blind.
+
+अंधं तमः प्रविशंति येऽविद्यामुपासते । ततो भूय इव ते तमो य उ विद्यायां रताः (*aṃdhaṃ tamaḥ praviśaṃti ye 'vidyāmupāsate | tato bhūya iva te tamo ya u vidyāyāṃ ratāḥ*)
+(Bṛ. U. 4-4-10)
+
+Those who cannot know the nature of this Supreme Self and rely only on ignorance enter the cave of darkness;
+
+आनंदा नाम ते लोका अंधेन तमसा वृताः । तांस्ते प्रेत्याभिगच्छंत्यविद्वांसोऽबुधो जनाः (*ānaṃdā nāma te lokā aṃdhena tamasā vṛtāḥ | tāṃste pretyābhigacchaṃtyavidvāṃso 'budho janāḥ*)
+[Bṛ. U. 4-4-11]
+
+For those who have entered this cave of the form of darkness there is no kind of joy whatever. Even after death the same fate is obtained by them. Thus the place that falls to the ignorant who do not know the secret of this universal principle is described. Such persons are described as "blind" in the Ṛk now in hand also. This description is there to show the necessity of the eye of knowledge for knowing this principle, which is of female and male form.
+
+To show that one who knows such a great principle becomes greater than all: यस्ता विजानात्स पितुष्टितासत् (*yastā vijānātsa pituṣṭitāsat*) — it is told that such a knower becomes worthy of greater reverence than the father. The same point, praising it, in the Praśna Upaniṣad:
+
+ते तमर्चयंतस्त्वं हि नः पिता योऽस्माकमविद्यायाः परं पारं तारयसीति । नमः परम ऋषिभ्यो नमः परमयषिभ्यः (*te tamarcayaṃtastvaṃ hi naḥ pitā yo 'smākamavidyāyāḥ paraṃ pāraṃ tārayasīti | namaḥ parama ṛṣibhyo namaḥ paramayaṣibhyaḥ*)
+(Praśna. U. 6-8) *[as supplied: परमयषिभ्यः (*paramayaṣibhyaḥ*) as printed.]*
+
+Then all those who had received instruction from Pippalāda, worshipping him, offer their devotion thus: "You are our father. You have taught us knowledge, taken us across the ocean of ignorance and brought us to the shore of knowledge; therefore you are worthy of worship like a father." Having told this, reverence is paid to the supreme sages who are knowers. The meaning is: only one who is a Ṛṣi is a knower; all knowers are Ṛṣis. The same is told in the Ṛk now in hand by the sentence कविर्यः पुत्रः स इमा चिकेत (*kaviryaḥ putraḥ sa imā ciketa*).
+
+### Printed p. 395
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೧೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 395 (as supplied).*
+
+To show that such a knower is the father even of fathers, that is, is worthy of reverence, Sāyaṇa has given an example from the Tāṇḍaka-brāhmaṇa.
+
+शिशुर्वा अंगिरसो मंत्रकृतां मंत्रकृदासीत् स पित्थन् पुत्रका इत्यामंत्रयत (*śiśurvā aṃgiraso maṃtrakṛtāṃ maṃtrakṛdāsīt sa pitthan putrakā ityāmaṃtrayata*)
+(शां. ब्रा, १३-३-२४ (*śāṃ. brā, 13-3-24*)) *[as supplied: the abbreviation शां. ब्रा (*śāṃ. brā*) and the numbers are kept as printed.]*
+
+The very young Āṅgirasa was a mantra-maker greater than the other mantra-makers. He used to address even the fathers as "sons". Then,
+
+ते देवानपृच्छंत ते देवा अब्रुवन्नेष वाव पिता यो मंत्रकृत् (*te devānapṛcchaṃta te devā abruvanneṣa vāva pitā yo maṃtrakṛt*)
+
+those fathers approached the gods and asked whether this was right; then the gods gave the answer that, since he is a true mantra-maker, he alone is worthy of reverence like a father. This occasion is cited. Explaining this same mantra in the Pariśiṣṭa of the Nirukta:
+
+स्त्रिय एवैताः शब्दस्पर्शरूपरसगंधहारिण्यस्ता अमुं पुंशब्देन निराहारः प्राण इति पश्यन् कष्टान्नविजानात्यंधः कविर्यः पुत्रः स इमा जानाति , यः स इमा जानाति स पितुष्पितासदित्यात्मगतिमाचष्टे (*striya evaitāḥ śabdasparśarūparasagaṃdhahāriṇyastā amuṃ puṃśabdena nirāhāraḥ prāṇa iti paśyan kaṣṭānnavijānātyaṃdhaḥ kaviryaḥ putraḥ sa imā jānāti , yaḥ sa imā jānāti sa pituṣpitāsadityātmagatimācaṣṭe*)
+(Ni. 14-20)
+
+— thus it is explained. Its meaning too is the same as said above.
+
+*Vyākaraṇa-prakriyā (grammatical procedure)*
+
+Grammar (transcribed, not explained):
+
+सतीः (*satīḥ*) — by सुपां सुलुक् (*supāṃ suluk*) (Pā. Sū. 7-1-39) [the sūtra is quoted in the print with a following hyphen], when jas follows, the lengthening by the preceding similar letter comes.
+
+पश्यत् (*paśyat*) — the root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*); the suffix tip in the third person singular of leṭ; by इतश्चलोपः (*itaścalopaḥ*) (Pā. Sū. 3-4-97) the letter i is dropped; by पाघ्राध्मा (*pāghrādhmā*) (Pā. Sū. 7-3-28) the substitute paśya. Because it stands at the beginning of the pāda, the nighāta accent does not come; the root accent remains.
+
+अक्षण्वान् (*akṣaṇvān*) — by अक्षि अस्य अस्ति इति छंदस्यपि दृश्यते (*akṣi asya asti iti chaṃdasyapi dṛśyate*) (Pā. Sū. 7-1-76) the substitute ava, even though no suffix beginning with a vowel follows. When matup follows it, it has the pada-designation, hence loss of n. By अनोनुट् (*anonuṭ*) (Pā. Sū. 8-2-16) the augment nuṭ to matup. By the sūtra अट् कुप्पाज् (*aṭ kuppāj*) the retroflexion of it. By हस्वनुड्भ्यां मतुप् (*hasvanuḍbhyāṃ matup*) (Pā. Sū. 6-1-176) matup becomes udātta.
+
+### Printed p. 396
+*Running head: 396 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೭೬೦] (as supplied: the Sūkta number is printed "೭೬೦" here, although the neighbouring heads have 164; kept as printed).*
+
+Grammar (continued, transcribed, not explained):
+
+चेतत् (*cetat*) — the root चिती संज्ञाने (*citī saṃjñāne*); when tip of the third person singular of leṭ comes, by इतश्च लोपः (*itaśca lopaḥ*) (Pā. Sū. 3-4-97) the loss of its letter i. By the sūtra लेटोऽडाट् (*leṭo 'ḍāṭ*) (Pā. Sū. 3-4-94) the augment aḍ. By बहुलं छंदसि (*bahulaṃ chaṃdasi*) the loss of the vikaraṇa. Guṇa of the short penultimate vowel of the root, caused by the suffix. The tiṅanta nighāta accent comes.
+
+अंधः (*aṃdhaḥ*) — the root अद भक्षणे (*ada bhakṣaṇe*). By अदेर्नुम् धौच (*adernum dhauca*) (U. Sū. 4-645) asun, the augment num, and the substitute of dha. The form becomes अंधः (*aṃdhaḥ*).
+
+चिकेत (*ciketa*) — the root कित ज्ञाने (*kita jñāne*). In the Vedic manner liṭ in the present sense. A form ending as the third person singular. Because it stands after an atiṅanta, the nighāta accent comes.
+
+विजानात् (*vijānāt*) — the root ज्ञा अवबोधने (*jñā avabodhane*). Leṭ, third person singular, tip, loss of i. The augment aḍ to it. The vikaraṇa śnā. By ज्ञाजनोर्जा (*jñājanorjā*) (Pā. Sū. 7-3-79) the substitute jā for the root. By यद्वृत्तान्वित्यम् (*yadvṛttānvityam*) the prohibition of the nighāta accent comes, so the accent of the vikaraṇa remains. By तिजिचोदात्तवति (*tijicodāttavati*) (Pā. Sū. 8-1-71) the anudātta accent comes to the gati (vi).
+
+असत् (*asat*) — the root अस भुवि (*asa bhuvi*). As before, a form ending as leṭ third person singular. ॥ : ६ ॥ (*‖ : 6 ‖*) *[as supplied: the closing mark is printed "॥ : ೬ ॥"; no number is given here.]*
+
+*[Label as supplied: garbled "ಸಾಹಿತ್ಯದಲಿ" before the heading, repaired by the script to Saṃhitā-pāṭha.]*
+
+#### Ṛk 17
+**॥ संहितापाठः ॥**
+> अ॒वः परे॑ण प॒र ए॒नाव॑रेण प॒दा व॒त्सं बिभ्र॑ती॒ गौरुद॑स्थात् ।
+> सा क॒द्रीची॒ कं स्वि॒दर्धं॒ परा॑गा॒त्त्व॑ स्वित्तूते न॒हि यू॒थे॒
+> अंतः ॥ १७ ॥
+*[Label as supplied: garbled "ಚದುರಳಿ", repaired by the script to Pada-pāṭha.]*
+**॥ पदपाठः ॥**
+> अवः । परेण । परः । एना । अवरेण । पदा । वत्सं । बिभ्रती । गौः । उत् । अस्मात् ।
+> सा । कद्रीची । कं । स्वित् । अर्धं । परा । अगात् । क्व । स्वित् । सूते । नहि । यूथे ।
+> अंतरिति ॥ १७ ॥
+
+> *avaḥ | pareṇa | paraḥ | enā | avareṇa | padā | vatsaṃ | bibhratī | gauḥ | ut | asmāt |*
+> *sā | kadrīcī | kaṃ | svit | ardhaṃ | parā | agāt | kva | svit | sūte | nahi | yūthe |*
+> *aṃtariti ‖ 17 ‖*
+
+### Printed p. 397
+*Running head: [ಆ. ೨. ಆ. ೨. ವ. ೧೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 397 (as supplied; "ಆ." and "೨. ೨." as printed).*
+
+*[Label as supplied: garbled "ಶಾಯಣಭಾಷ್ಯಂ", repaired by the script to Sāyaṇa-bhāṣya.]*
+**॥ सायणभाष्यम् ॥**
+> अत्राग्नौ हूयमानाहुतिर्गॊरूपेण स्तूयते । गौर्गोरूपा गमनशीलैषाहुतिसंघेन पोष्यं वत्सं वत्सस्थानीयमग्निमवोऽवस्तादधोदेशे परेण पदा
+> पादद्वयेन स्वावयवेनाकृष्य बिभ्रती धारयंती तथा परः परस्तादुपरिदेश एनानेनावरेण च पदा पादद्वयेनाकृष्य तमेव वत्सं भिभ्रत्युदस्थात् । सूर्यं प्रत्युतिष्ठति । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । मनु. ३-७६ । इति स्मृतेः ।
+> अथैवं कृतवती साहुतिः कद्रीची क्व गतेत्यनिश्चयगमना । आदित्यं प्राप्तवतीत्यर्थः ।
+> किं स्वित् कं फलभाजं पुरुषं प्रत्यर्धमर्धमार्गमागत्य । यद्वा । अर्धमृद्धं ।
+> परागात् । परागच्छति । आगत्य च क्व स्वित्तूते । कुत्र प्रदेशे फलमुत्पादयति । नहीतरगोवदियं यूथेऽंतः सजातीयगोमध्यॆ सूते । साधारण्येन यत्रक्वचिन्न
+> सूते अपि तु कस्मिंश्चिदनुष्टातरि । आतः स महान् को नु खल्विति । यद्वा । आदित्यरश्मीसमूह एव गोरूपेण स्तूयते । गौरुक्तलक्षणा रश्मिरूपा गौर्वत्वं वत्सवद्रक्षणेयं यजमानमुक्तक्रमेण बिभ्रत्युदस्थात् । अथ तथा कृत्वा सा कद्रीच्यदृश्यगमना सती कं स्विदर्धमृद्धमर्धस्थानभाजं ना कं स्वित्पुरुषमादित्यं परागात् ।
+> अप्रतिनिवृत्ता गता । तं नयंत्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः । मुं उ. १-२-५ । इति श्रुतेः । तथा कृत्वा च क्व स्वित्तूते। कस्मिन्निंद्रादिलोके
+> जनयति । न सर्वत्र । शिष्टं समानं ॥
+*Gist:* The offering made in the fire is praised in the form of a cow, which carries Agni as her calf upward to the Sun; where it ends is uncertain, as the Ṛk asks.
+
+*[Label as supplied: garbled "ಪ್ರಸಿಪದಾರ್ಥ", repaired by the script to Pratipadārtha.]*
+**प्रतिपदार्थ (Pratipadārtha)**
+गौ: (*gau:*)—this moving offering; वत्सं (*vatsaṃ*)—Agni who is in the form of the calf; अवः (*avaḥ*)—in her lower region; परेण पदा (*pareṇa padā*)—with her forefeet; बिभ्रती (*bibhratī*)—holding (and likewise); परः (*paraḥ*)—in the upper part; एना अवरेण (*enā avareṇa*)—with these hind feet (holding the same Agni, the calf); उदस्थात् (*udasthāt*)—rises (climbs) towards the Sun; सा (*sā*)—that cow of the form of the offering; कद्रीची (*kadrīcī*)—where did she go?; कं स्वित् (*kaṃ svit*)—towards which man; अर्धं (*ardhaṃ*)—half-way, or for producing prosperity (wealth) for him; परागात् (*parāgāt*)—turned back?; क्व स्वित् (*kva svit*)—in which place; सूते (*sūte*)—does she bring forth fruit? (pour it out); यूथे अंतः (*yūthe aṃtaḥ*)—amidst the herd of her own cattle; न हि (*na hi*)—certainly she does not pour it out.
+
+*[Label as supplied: "॥ ಭವಾರ್ಥ ॥", repaired by the script to Bhāvārtha.]*
+**भावार्थ (Bhāvārtha)**
+This offering in the form of a cow holds Agni, who is in the form of the calf, in her lower region with her forefeet and in the upper part with her hind feet, and rises towards the Sun. Where did that cow of the form of the offering go? Towards which man, for him (the sentence continues on the next page)
+
+### Printed p. 398
+*Running head: 398 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+… did she turn back from half the way, to produce wealth and offspring? In which place does she bring forth fruit? This cannot be told exactly. But certainly she does not pour it out amidst the herd of her own cattle.
+
+**Printed English**
+The cow, holding her calf underneath with her fore-feet, and then above with her hind-feet, has risen up: whither is she gone? to whom has she turned back when half-way? where does she bear young? it is not amidst the herd.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+The offering made in the fire is praised here in the form of a cow. Or आदित्यरश्मिसमूह एव गोरूपेण स्तूयते (*ādityaraśmisamūha eva gorūpeṇa stūyate*) — the mass of the Sun's rays itself is praised in the form of a cow: thus Sāyaṇa has given two kinds of purport.
+
+गौ: (*gau:*) — that this word has the meanings earth, cattle and so on, and the derivation of the word in those meanings, was told before. In the present context it is natural that this word means the sacrificial offering or the Sun's ray. The commentator quotes the Smṛti saying अग्नौ प्रास्ताहुतिस्सम्यगादित्यमुपतिष्ठते (*agnau prāstāhutissamyagādityamupatiṣṭhate*) and says that the offering made in the fire too reaches the Sun alone; so the purport is that it is transformed into the form of rays.
+
+आदित्योऽपि गौरुच्यते । सर्वॆऽपि रश्मयो गाव उच्यंते (*ādityo 'pi gaurucyate | sarvè 'pi raśmayo gāva ucyaṃte*)
+(Ni. 2-6)
+
+To explain the meaning of this word, the author of the Nirukta, having quoted the Ṛk
+
+ता वां वास्तून्युश्चसि गमध्यै यत्र गावो भूरिशृंगा अयासः । अत्राह तदुरुगायस्य वृष्णः परमं पदमव भाति भूरि (*tā vāṃ vāstūnyuścasi gamadhyai yatra gāvo bhūriśṛṃgā ayāsaḥ | atrāha tadurugāyasya vṛṣṇaḥ paramaṃ padamava bhāti bhūri*)
+(Ṛ. Saṃ. 1-154-6)
+
+and shown that rays that have many horns and are tireless (आयास (*āyāsa*) as printed: "ಆಯಾಸವೂ") are described, has told that the word is a synonym for the Sun's rays. *[as supplied: the print has "ಬಹುಶೃಂಗಗಳುಳ್ಳವೂ, ಆಯಾಸವೂ ಆದ"; rendered as printed.]*
+
+The relation between such a ray of the Sun, or the sacrificial offering that becomes identical with a ray of the Sun, and the sacrificer, the performer of the sacrifice, is told here. The ray of the Sun is compared to the cow, and the sacrificer to the calf. On the whole, the relation between the Sun and the sacrificer is also told.
+
 ---
 
-**Progress note:** Done through printed p. 392. pp. 387-392: Rk 15 notes and grammar, Rk 16 (female/male rays), special topics
+**Progress note:** Done through printed p. 398. Vol 12 pp. 393-398: Rk 16 special topics, grammar, Rk 17
