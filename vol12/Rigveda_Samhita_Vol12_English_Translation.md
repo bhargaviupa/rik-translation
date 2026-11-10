@@ -8316,6 +8316,112 @@ One who thinks that only this world seen by our eyes is true and that there is n
 अस्तित्येवोपलब्धव्यस्तत्त्वभावेन चोभयोः । अस्तित्येवोपलब्धस्य तत्त्वभावः प्रसीदति (*astityevopalabdhavyastattvabhāvena cobhayoḥ | astityevopalabdhasya tattvabhāvaḥ prasīdati*)
 (कठ. (*kaṭha.*) 2-3-13)
 
+### Printed p. 330
+*Running head: 330 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨ ಸೂ.೧೬೪] (as supplied).*
+
+[Continuing] ...as set forth in the sentence (just quoted), the Ṛk now under consideration shows the necessity of knowing the existence of that supreme principle and of striving for its direct realisation; so Sāyaṇa has quoted in his bhāṣya the Śruti sentence cited (कर. (*kara.*) 2-6-13) *[as supplied: ಕರ. ೨-೬-೧೩, a different abbreviation from the preceding Kaṭha reference]* and has commented on it.
+
+*Grammar (transcribed, not explained):*
+अचिकित्वान् (*acikitvān*)—root कित ज्ञाने (*kita jñāne*); when liṭ comes, by क्वसुश्च (*kvasuśca*) (Pā. Sū. 3-2-107) the substitute kvasu; taking it as occasion, dvitva etc. of the root; nañ-tatpuruṣa compound; by तत्पुरुषे तुल्यार्थ (*tatpuruṣe tulyārtha*) (Pā. Sū. 6-2-2) the natural accent of the first member, an avyaya, comes. चिकितुषः (*cikituṣaḥ*)—a form ending in the suffix kvasu, as before; when śas follows, by वसोः संप्रसारणम् (*vasoḥ saṃprasāraṇam*) saṃprasāraṇa of the v; pūrvarūpa; by शासिवसिघसीनां च (*śāsivasighasīnāṃ ca*) ṣatva for the s; the accent of vasu comes. विद्मने (*vidmane*)—root विद ज्ञाने (*vida jñāne*); the suffix mani, "sarvadhātusibandhana" *[as supplied: ಸರ್ವಧಾತುಸಿಬಂಧನ]*; when the dative singular follows, by न संयोगाद्वमंतात् (*na saṃyogādvamaṃtāt*) (Pā. Sū. 6-4-137) the loss of a does not come; the initial-udātta accent of the suffix comes. तस्तंभ (*tastaṃbha*)—root स्तंभु स्तंभे (*staṃbhu staṃbhe*); "laṭ" *[as supplied: ಲಟ್]* third person singular, the substitute ṇal; because of liṭ, dvitva of the root; by शर्पोर्वाः खयः (*śarporvāḥ khayaḥ*) (Pā. Sū. 7-4-61, as printed) the letter t remains in the reduplicative; because of the connection with the word yat the accent nighāta does not come; by लिति (*liti*) (Pā. Sū. 6-1-193) the udātta accent comes on the syllable before the suffix. इमा (*imā*)—in the neuter plural, by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-70) loss of "śi". || 6 ||
+*[A stray ornament ":0:" follows in print, as supplied.]*
+
+#### Ṛk 7
+**॥ संहितापाठः ॥**
+> इ॒ह ब्र॑वीतु॒ य ई॑मं॒ग वेदा॒स्य वा॒मस्य॒ निहि॑तं प॒दं वेः ।
+> शी॒र्ष्णर् क्षी॒रं दु॑प्रते॒ गावो॑ अस्य व॒व्रिं वसा॑ना उद॒कं॒॑
+> पदापुः ॥ ७ ॥
+
+> *iha bravītu ya īmaṃga vedāsya vāmasya nihitaṃ padaṃ veḥ |*
+> *śīrṣṇar kṣīraṃ duprate gāvo asya vavriṃ vasānā udakaṃ*
+> *padāpuḥ ‖ 7 ‖*
+
+### Printed p. 331
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫. ] Ṛgveda-saṃhitā 331 (as supplied).*
+
+**॥ पदपाठः ॥**
+> इह । ब्रवीतु । यः । ईं । अंग । वेद । अस्य । वामस्य । निहितं । पदं । वेरिति
+> वेः ।
+> शीर्ष्णः । क्षीरं । दुह्रते । गावः । अस्य । वव्रिं । वसानाः । उदकं । पदा । अपुः ॥७॥
+**॥ सायणभाष्यम् ॥**
+> इहेदानीमीमेतद्वक्ष्यमाणं तत्त्वमंग क्षिप्रमविचारेण ब्रवीतु । कः ।
+> यो वेद सः । कीदृशं तत् । अस्य पुरतो दृश्यमानस्य वामस्य वननीयस्य वेर्गंतुरादित्यस्य सदं सर्वैर्गंतव्यं स्वरूपं निहितं गूढं वर्तते । किंचास्यादित्यस्य शीर्षः
+> शिरोवदुन्नतस्य सर्वेषामुत्कृष्टस्य वा गावः केचन वर्षकालीना रश्मयः क्षीरमुदकं दुह्रते । क्षरंति । वन्रिं । रूपनामैतत् । रूपं वसाना आच्छादयंतोऽतिविस्तरेण तेजसा तपंतः केचनास्य गावो रश्मय उदकं स्वसृष्टं पदा सृष्टेनैव
+> मार्गेणापुः । पिबंति । भूमिं निरुदकां कुर्वंतीत्यर्थः । तस्य स्वरूपं ब्रवीत्वित्यन्वयः ॥
+*Gist:* Let the one who knows quickly declare the hidden, true station of the lovely, moving sun, whose rays shed water and drink it back by the same paths.
+**प्रतिपदार्थ (Pratipadārtha)**
+इह (*iha*)—in the present context; ईं (*īṃ*)—this chief principle; यः (*yaḥ*)—which wise man; वेद (*veda*)—has known (he); अंग (*aṃga*)—quickly; ब्रवीतु (*bravītu*)—let him say; वामस्य (*vāmasya*)—of one who has a charming form; वेः (*veḥ*)—and who is given to moving about; अस्य (*asya*)—of this Āditya; पदं (*padaṃ*)—the station that is of the nature of truth; निहितं (*nihitaṃ*)—is hidden *[as supplied: the dash is lost and the words are run together in print]*; शीर्ष्णः (*śīrṣṇaḥ*)—from his most excellent station; गावः (*gāvaḥ*)—rays; वव्रिं (*vavriṃ*)—his form; वसानाः (*vasānāḥ*)—covering with radiance; क्षीरं (*kṣīraṃ*)—water; दुह्रते (*duhrate*)—shed; अस्य (*asya*)—of this same Āditya (those same rays); उदकं (*udakaṃ*)—the water shed by themselves; पदा (*padā*)—by the very path by which they shed it; आपुः (*āpuḥ*)—they drink up.
+**भावार्थ (Bhāvārtha)**
+Let the wise man who knows this chief principle here explain it quickly. The station, of the nature of truth, of this Āditya, who has a charming form and is given to moving about, remains hidden. From his most excellent station the rays pour out water, covering his form with radiance. The rays of this same Āditya drink up, by the very paths by which they poured it out, the water shed by themselves.
+
+### Printed p. 332
+*Running head: 332 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧ ಅ. ೨೨. ಸೂ ೧೬೪] (as supplied).*
+
+**Printed English**
+Let him who knows this (truth) quickly declare it; the mysterious condition of the beautiful ever-moving (sun): the rays shed (their) milk from his (exalted) head, investing his form with radiance: they have drunk up the water by the paths (by which they were poured forth).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+In the fifth Ṛk of this same hymn, वत्से बष्कयोऽधि सप्त तंतून्वितत्निरे कवय ओतवा उ (*vatse baṣkayo 'dhi sapta taṃtūnvitatnire kavaya otavā u*), the very close connection between sacrificial rites and so on and Āditya is shown. Since the protection of Āditya is absolutely necessary both for the maintenance of the warp and woof of the world-form and for the furtherance of the rites that are the means to it, there is praise of Āditya in the words that the poets worship such an Āditya with the seven threads. In the Ṛk after that, the fact that Āditya is upholding and regulating the six worlds is stated, and in the Ṛk now under consideration, गावः क्षीरं दुह्रते (*gāvaḥ kṣīraṃ duhrate*) and उदकं पदापुः (*udakaṃ padāpuḥ*) *[as supplied: printed "ಶೀರ್ಷ ೯" before ಗಾವಃ, and a semicolon between the two]*: the rays of Āditya, issuing from the excellent station of Āditya, spread water over the whole world from various sides, and the manner in which they again drink that water by the same paths is also described. Thus, in all the mantras one after the other, after it has been stated that Āditya and the rays of Āditya are the means for the maintenance of the world of practical affairs, the principle of the universe, which is beyond such a world, beyond the senses such as the eye, and which shines eternally in the disc of Āditya, is described by sentences such as देवानामेना निहिता पदानि (*devānāmenā nihitā padāni*) (5), अजस्य रूपे किमपि स्विदेकं (*ajasya rūpe kimapi svidekaṃ*), अस्य वामस्य निहितं पदं वेः (*asya vāmasya nihitaṃ padaṃ veḥ*) (7) and so on. In each Ṛk the glory of Āditya, who is within reach of ordinary perception, is described on one side, and on the other the glory of the principle that is beyond this, both together. In the Ṛk now under consideration, first the hidden principle is hinted at by निहितं पदं (*nihitaṃ padaṃ*), and then,
+
+शीर्षः क्षीरं दुह्रते गावो अस्य वप्रा वसाना उदकं पदापुः (*śīrṣaḥ kṣīraṃ duhrate gāvo asya vaprā vasānā udakaṃ padāpuḥ*) *[as supplied: ವಪ್ರಾ where the Saṃhitā has ವವ್ರಿಂ]*
+
+the rays of Āditya, issuing from the excellent station of Āditya, spread water for the whole world in various places and again take it in from the same directions: thus it is shown that Āditya is both the support and the means for the maintenance of the world of practical affairs. Thus, pervading all heaven and earth with his rays, he is the cause of the sacrifice, which is the cause of the maintenance of things, and of the ancillary rites that go with it, both in the form of effect, which changes, and in the form of cause, which is eternal; combining the purport of these three Ṛks, this is described in the Chāndogya and other texts as follows.
+
+### Printed p. 333
+*Running head: [ಅ. ೨. ಅ. ೪ ವ. ೧೫. ] Ṛgveda-saṃhitā 333 (as supplied).*
+
+असा वादित्यो देवमधु तस्य द्यौरेव तिरश्चीनवंशोऽंतरिक्षमपूपो मरीचयः पुत्राः । तस्य ये प्रांचो रश्मयस्ता एवास्य प्राच्यो मधुनाड्यः । ऋच एव मधुकृत ऋग्वेद एव पुष्पं ता अमृता आपस्तावा एता ऋचः । एतमृग्वेदमभ्यतपग्गस्तस्याभितप्तस्य यशस्सेज इंद्रिय वीर्यमन्नाद्यं रसोऽजायत ॥ तद्व्यक्षरत्तदादित्यमभितोऽश्रयत्तद्वा एतद्यदेतदादित्यस्य रोहितं रूपं (*asā vādityo devamadhu tasya dyaureva tiraścīnavaṃśo 'ṃtarikṣamapūpo marīcayaḥ putrāḥ | tasya ye prāṃco raśmayastā evāsya prācyo madhunāḍyaḥ | ṛca eva madhukṛta ṛgveda eva puṣpaṃ tā amṛtā āpastāvā etā ṛcaḥ | etamṛgvedamabhyatapaggastasyābhitaptasya yaśasseja iṃdriya vīryamannādyaṃ raso 'jāyata ‖ tadvyakṣarattadādityamabhito 'śrayattadvā etadyadetadādityasya rohitaṃ rūpaṃ*)
+(छा. उ. (*chā. u.*) 3-1)
+
+This Āditya is the divine honey; the heaven-world is the line of support that bears it, the atmosphere is the nest, and the rays are the sons. The rays that spread towards the eastern quarter are the honey-channels of the eastern quarter. The Ṛks are the bees. The Ṛgveda is the flower; the oblations of ghee and milk offered in the sacrifice are the drops of nectar. After the Ṛk mantras had ripened, fame, lustre, the senses, virility, strength and sap arose from rites such as sacrifice. Afterwards all these, sap and the rest, which are of the nature of fruit, spread facing Āditya and joined him. These are the causes of the beautiful form of the red disc of the rising Āditya.
+
+अथ येऽस्य दक्षिणा रश्मयस्ता एवास्य दक्षिणा मधुनाड्यो यजूग्ंष्येव मधुकृतो यजुर्वेद एव पुष्पं ता अमृता आपः । तानि वा एतानि यजूग्ं ष्येतं यजुर्वेदमभ्यतपग्गस्तस्याभितप्तस्य यशस्सेज इंद्रियं वीर्यमन्नाद्यं रसोऽजायत ॥ तद्व्यक्षरत्तदादित्यमभितोऽश्रयत्तद्वा एतद्यदेतदादित्यस्य शुक्लं रूपं (*atha ye 'sya dakṣiṇā raśmayastā evāsya dakṣiṇā madhunāḍyo yajūgṃṣyeva madhukṛto yajurveda eva puṣpaṃ tā amṛtā āpaḥ | tāni vā etāni yajūgṃ ṣyetaṃ yajurvedamabhyatapaggastasyābhitaptasya yaśasseja iṃdriyaṃ vīryamannādyaṃ raso 'jāyata ‖ tadvyakṣarattadādityamabhito 'śrayattadvā etadyadetadādityasya śuklaṃ rūpaṃ*)
+(भा. उ. (*bhā. u.*) 3-2-) *[as supplied: ಭಾ. ಉ. ೩-೨- with a trailing hyphen]*
+
+The rays that spread towards the southern quarter are the honey-channels of the south. The Yajus mantras are the bees. The Yajurveda is the flower, the ghee and milk offered as sacrificial oblations are the drops of nectar. From this, sap and the rest arose, and again spreading facing Āditya, join Āditya himself. These are the causes of the white form of Āditya.
+
+अथ येऽस्य प्रत्यंचो रश्मयः .... .... .... सामान्येव मधुकृतस्सामवेद एव पुष्पं .... .... .... एतदादित्यस्य कृष्णं रूपं (*atha ye 'sya pratyaṃco raśmayaḥ .... .... .... sāmānyeva madhukṛtassāmaveda eva puṣpaṃ .... .... .... etadādityasya kṛṣṇaṃ rūpaṃ*)
+अथ येऽस्कोदंचो रश्मयः .... .... .... अथर्वांगिरस एव मधुकृत इतिहासपुराणं पुष्पं.... .... .... एतदादित्यस्य परं कृष्णं रूपं (*atha ye 'skodaṃco raśmayaḥ .... .... .... atharvāṃgirasa eva madhukṛta itihāsapurāṇaṃ puṣpaṃ.... .... .... etadādityasya paraṃ kṛṣṇaṃ rūpaṃ*) *[as supplied: ಯೇಽಸ್ಕೋ; the print has four-dot ellipses within both passages]*
+(भा. उ. (*bhā. u.*) 3-4)
+
+### Printed p. 334
+*Running head: 334 Sāyaṇa-bhāṣya-sahitā [ ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೪] (as supplied).*
+
+In the flower in the form of the Sāmaveda, the bees in the form of the Sāmans created the drops of nectar in the form of oblations and joined the sun. That is the cause of the black form of that Āditya. Afterwards, from the flower in the form of Itihāsa and Purāṇa, the bee in the form of Atharva created the drop of nectar in the form of sap and the rest. These joined Āditya. These are the causes of the dark black form of this same Āditya.
+
+ते ना एते रसानां रसा वेदा हि रसास्तेषामेते रसास्तानि वा एतान्यमृतानाममृतानि वेदा ह्यमृतास्तेषामेतान्यमृतानि (*te nā ete rasānāṃ rasā vedā hi rasāsteṣāmete rasāstāni vā etānyamṛtānāmamṛtāni vedā hyamṛtāsteṣāmetānyamṛtāni*)
+(छा. उ. (*chā. u.*) 3-5)
+
+These various colours of Āditya are the essences of the saps. Of which saps are they the essences? The essence of the finest things on the earth is the Vedas; after these have undergone transformation into the form of sacrifice, the colours of the sun that arose as the fruit of its sap are the essence of sacrifices and the rest. This radiance of Āditya, of many colours, kindled by the immortal Vedas and the rest, is like nectar even to all nectar.
+
+यद्यत्पथमममृतं तद्वसव उपजीवंत्यग्निना मुखेन वै देवा अश्नंति न पिबंत्येतदेवामृतं दृष्ट्वा तृप्यंति (*yadyatpathamamamṛtaṃ tadvasava upajīvaṃtyagninā mukhena vai devā aśnaṃti na pibaṃtyetadevāmṛtaṃ dṛṣṭvā tṛpyaṃti*)
+*[Before and after each of the following passages the print has four-dot ellipses, as supplied.]*
+अथ यद्द्वितीयममृतं तद्रुद्रा उपजीवंति .... .... .... .... .... .... .... .... अथ यत्तृतीयममृतं तदादित्या उपजीवंति .... .... ........ .... .... .... .... अथ यच्चतुर्थममृतं तन्मरुत उपजीवंति .... .... .... .... .... .... .... .... अथ यत्पंचमममृतं तत्साध्या उपजीवंति (*atha yaddvitīyamamṛtaṃ tadrudrā upajīvaṃti .... .... .... .... .... .... .... .... atha yattṛtīyamamṛtaṃ tadādityā upajīvaṃti .... .... ........ .... .... .... .... atha yaccaturthamamṛtaṃ tanmaruta upajīvaṃti .... .... .... .... .... .... .... .... atha yatpaṃcamamamṛtaṃ tatsādhyā upajīvaṃti*)
+(भा. उ. (*bhā. u.*) 12-6 to 10) *[as supplied: ಭಾ. ಉ. 12-೬ ರಿಂದ ೧೦, with mixed numerals]*
+
+In these five kinds of forms of Āditya, which are nectarous and sap-natured, dwell the Vasus, the Rudras, the Ādityas, the Maruts and the Sādhyas; they themselves enter these colours, the red and the rest. He who knows the essences of these nectars obtains a place among the Vasus, Rudras and the rest. He too mingles in those colours of Āditya and is born again from those very colours. (त एतदेव रूपमभिसंविशंत्येतस्माद्रूपादुद्यंति (*ta etadeva rūpamabhisaṃviśaṃtyetasmādrūpādudyaṃti*)) Āditya too moves about in these worlds of the Vasus, Rudras, Ādityas and the rest, beholding as he moves the glory of their self-rule.
+
+अथ तत ऊर्ध्वं उदेत्य नैवोदेता नास्तमेतैकल एव मध्ये स्थाता तदेष श्लोकः ॥ न वै तत्र न निम्मोच नोदियाय कदाचन । देवास्तेनाहं सत्येन मा विराधिषि ब्रह्मणेति (*atha tata ūrdhvaṃ udetya naivodetā nāstametaikala eva madhye sthātā tadeṣa ślokaḥ ‖ na vai tatra na nimmoca nodiyāya kadācana | devāstenāhaṃ satyena mā virādhiṣi brahmaṇeti*)
+
+### Printed p. 335
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೧೫.] Ṛgveda-saṃhitā 335 (as supplied).*
+
+न ह वा अस्मा उदेति न निम्मोचति सकृद्दिवा हैवास्मै भवति य एतामेवं ब्रह्मोपनिषदं वेद (*na ha vā asmā udeti na nimmocati sakṛddivā haivāsmai bhavati ya etāmevaṃ brahmopaniṣadaṃ veda*)
+(छा. उ. (*chā. u.*) 3-11 ; 1-3) *[as supplied: with a semicolon]*
+
+Here, for the word अथ (*atha*), Śaṅkarācārya has given the meaning कृत्त्वमुदयास्तमनेन प्राणिनां स्वकर्मफलभोगनिमित्तमनुग्रहं (*kṛttvamudayāstamanena prāṇināṃ svakarmaphalabhoganimittamanugrahaṃ*), that is, having made the movements in the form of rising and setting in the worlds of the Vasus, Rudras and so on, in order to give to all living beings the fruits in accordance with their deeds; and also the meaning "afterwards". Since in the hymn now under consideration also it is described that Āditya carries on the maintenance of the world by his movements of rising and setting, and that in the eternal state he is in the form of the Supreme Self, the Upaniṣadic sentences up to here have described only the world-regulating activity of Āditya. From here onward they describe the Supreme-Self nature of Āditya.
+
+Āditya, having shone in all the worlds of the Vasus, Rudras, Ādityas and the rest, then reaches the world that lies above them, and remains there in an eternal state. In that world Āditya has neither rising nor setting. He is resplendent in the middle and is without a second. In the verse beginning न वै तत्र न निम्लोच (*na vai tatra na nimloca*) *[as supplied: the quotation on p. 334 has ನಿಮ್ಮೋಚ]* the state of this supreme abode of Āditya is described. He who has known this principle described in the Upaniṣadic sentence reaches that world, and for him too there are no risings and settings of the sun. For him it is always eternal day. This very thing:
+
+तस्माद्वा एतं सेतुं तीर्थापि नक्तमहरेवाभिनिष्पद्यते सकृद्विभातो ह्यैवैष ब्रह्मलोकः (*tasmādvā etaṃ setuṃ tīrthāpi naktamaharevābhiniṣpadyate sakṛdvibhāto hyaivaiṣa brahmalokaḥ*)
+(भा. उ. (*bhā. u.*) 8-4-2)
+
+It is described that, after crossing the bridge by which one goes from the impermanent worlds and joins the world of Brahman, one reaches the world of Brahman and, seeing no darkness of any kind, experiences eternal light.
+
+In the same way, the nature of Āditya described in the 5th, 6th and 7th Ṛks of the hymn now under consideration shows both these kinds of nature of Āditya. In the 7th Ṛk the latter half describes the work of world-maintenance of Āditya, and the former half describes his eternal, hidden nature, which is beyond ordinary perception.
+
+ईं (*īṃ*)—ordinarily this word has no meaning. अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti*)
+(Ni. 1-9), that is, the word ईं (*īṃ*) does not have a separate meaning of its own. This word, in many places *(the sentence breaks off at the end of the page and continues in the next window)*
+
 ---
 
-**Progress note:** Done through printed p. 329. Rk 5 special topics (saptatantu, bashkaya), grammar; Rk 6 text, bhashya, pratipadartha; special topics on humility (Balaki, Svetaketu), six rajas
+**Progress note:** Done through printed p. 335. Rk 6 grammar; Rk 7 text, bhashya, pratipadartha; special topics on Aditya (Chandogya madhu-vidya, Brahmaloka), word im
