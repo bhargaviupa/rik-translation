@@ -81,3 +81,4 @@
 | through p. 454 (three windows in one agent: pp. 435-441, 442-447, 448-454) | sonnet | 22 | 213640 | 6.9 |
 | through p. 472 (three windows in one agent: pp. 455-460, 461-466, 467-472) | sonnet | 19 | 186182 | 5.9 |
 | through p. 490 (three windows in one agent: pp. 473-478, 479-484, 485-490) | sonnet | 23 | 225898 | 6.4 |
+| through p. 508 (three windows in one agent: pp. 491-496, 497-502, 503-508) | sonnet | 20 | 217130 | 8.3 |
