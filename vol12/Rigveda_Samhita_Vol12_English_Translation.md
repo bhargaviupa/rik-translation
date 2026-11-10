@@ -2992,6 +2992,82 @@ When Twashtri said—Let us slay those who have profaned the ladle, (designed) f
 
 हनामैना इति त्वष्टा यदब्रवीत् (*hanāmainā iti tvaṣṭā yadabravīt*)—It is said that Tvaṣṭṛ, angered because they, though human, touched the vessel of the gods and, making what was one into four, defiled it, wished to kill them. For this sentence there are contradictory sentences in two places. First,
 
+### Printed p. 105
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೪. ] Ṛgveda-saṃhitā 105 (as supplied).* (The Special Topics of Ṛk 5 continue.)
+
+न निंदिम चमसं यो महाकुलोग्ने ध्रातर्द्रुण इद्भूतिमूदिम ॥ (*na niṃdima camasaṃ yo mahākulogne dhrātardruṇa idbhūtimūdima ‖*) (Ṛ. Saṃ. 1-161-1): in the very first ṛk of this same sūkta the Ṛbhus have announced that they do not make the vessel of the gods defiled. And besides,
+
+ज्येष्ठ आह चमसा द्वा करेति कनीयान् त्रीन्कृणवामेत्याह । (*jyeṣṭha āha camasā dvā kareti kanīyān trīnkṛṇavāmetyāha |*)
+कनिष्ठ आह चतुरस्करेति त्वष्ट ऋभवस्तत्पनयद्वचो वः ॥ (*kaniṣṭha āha caturaskareti tvaṣṭa ṛbhavastatpanayadvaco vaḥ ‖*) (Ṛ. Saṃ. 4-33-5): in this ṛk, when Vāja, the youngest of them, said that this ladle would be made into four parts, their teacher Tvaṣṭṛ agreed to it; and
+
+सत्यमूचुनर एवा हि चक्रुरनु स्वधामृभवो जग्मुरेतां । (*satyamūcunara evā hi cakruranu svadhāmṛbhavo jagmuretāṃ |*)
+विभ्राजमानांश्च मसा अहेवावेनत्त्वष्टा चतुरो ददृश्वान् ॥ (*vibhrājamānāṃśca masā ahevāvenattvaṣṭā caturo dadṛśvān ‖*) (Ṛ. Saṃ. 4-33-6): here it is clear that Tvaṣṭṛ, seeing the brightness of the ladle made into four parts, was exceedingly delighted and accepted that arrangement, yet it is said that he wished to kill the Ṛbhus.
+
+नामान्यन्यानि कृण्वते (*nāmānyanyāni kṛṇvate*)—होत्रध्वरूद्गात्रादीनि कृण्वते । (*hotradhvarūdgātrādīni kṛṇvate |*) Of the three, one took a name as Hotṛ, another as Adhvaryu and another as Udgātṛ, and, hiding their old names, they took part in the sacrificial rites, it is said.
+
+कन्या (*kanyā*)—this word is explained as स्वोत्पादयित्रि माता । (*svotpādayitri mātā |*), the mother who herself gave birth. Whom is meant here is not clear.
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed, not explained):* the Kannada analyses हनाम (*hanāma*) (root हन (*hana*), first person plural of the *loṭ*), अब्रवीत् (*abravīt*) (root ब्रूञ् (*brūñ*)), देवपानम् (*devapānam*) (root पा (*pā*); Pā. Sū. 6-1-166) and, on p. 106, अनिंदिषुः (*aniṃdiṣuḥ*) (Pā. Sū. 3-4-109), कृण्वते (*kṛṇvate*) and स्वरत् (*svarat*) (Pā. Sū. 3-4-97, with a second sūtra whose number is split over two lines in the print), with the accent rules; it ends with the mark ॥ ೫ ॥.
+
+### Printed p. 106
+
+*Running head: 106 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೧.] (as supplied; the opening bracket of the running head is printed after "sahitā").* (The grammar of Ṛk 5 continues here and ends with ॥ ೫ ॥.)
+
+#### Ṛk 6
+
+*[A picture (vol12/html/figures/fig1_line04801.jpg) stood at this place in the supplied text. I looked at it: it shows the label "ಸಂಹಿತಾಪಾಠಃ", the Saṃhitā, the label "ಪದಪಾಠಃ", the Pada and the label of the bhāṣya. The picture and the machine-read text below agree, so kn.md was not changed. The hyphen at the end of the first Saṃhitā line ("ವಿಶ್ವರೂಪಾ-ಮುಪಾಜತ") is joined.]*
+
+**॥ संहितापाठः ॥**
+
+> इंद्रो॒ हरी॑ युयु॒जे अ॒श्विना॒ रथं॒ बृह॒स्पति॑र्वि॒श्वरू॑पा॒मुपा॑जत ।
+> ऋ॒भुर्विभ्वा॒ वाजो॑ दे॒वा अ॑गच्छत॒ स्वप॑सो य॒ज्ञियं॒॑॑
+> भागमैतन ॥ ६ ॥
+
+**॥ पदपाठः ॥**
+
+> इंद्रः । हरी इति । युयुजे । अश्विना । रथं । बृहस्पतिः । विश्वरूपां । उप ।
+> आजत ।
+> ऋभुः । विभ्वा । वाजः । देवान् । अगच्छत । सुअपसः । यज्ञियं । भागं ।
+> ऐतन ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[Hyphenated line breaks in the block are joined; the block runs over to p. 107.]*
+
+> पूर्वं सृष्टानां क्रमेण विनियोगमाह । इंद्रो हरी युयुजे । एतन्नामानावश्चौ रथे योजितवान् । तथाश्विनाश्विनौ रथं योजितवंतौ । तथा
+> बृहस्पतिर्बृहतो मंत्रस्य पालयितैतन्नामको देवो विश्वरूपां नानारूपोपेतां
+
+> *pūrvaṃ sṛṣṭānāṃ krameṇa viniyogamāha | iṃdro harī yuyuje | etannāmānāvaścau rathe yojitavān | tathāśvināśvinau rathaṃ yojitavaṃtau | tathā*
+> *bṛhaspatirbṛhato maṃtrasya pālayitaitannāmako devo viśvarūpāṃ nānārūpopetāṃ*
+
+### Printed p. 107
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೫. ] Ṛgveda-saṃhitā 107 (as supplied).* (The bhāṣya block continues from p. 106.)
+
+> गामुपाजत । उपागमत् । स्वीकृतवानित्यर्थः । यद्यप्यत्र गौरिति विशेषो न श्रुतः
+> तथापि पूर्वं धेनुः कर्त्वेत्युक्तत्वात् पुरस्ताच्च ये धेनुं विश्वजुवं विश्वरूपां।
+> ऋ. ४-३३-८ । इतिवक्षमाणत्वाच्च विश्वरूपा गौरीत्येवाध्यवसीयते । अत एव
+> विश्वरूपामित्यस्याश्च पंक्तिरिति केचन व्याचक्षते तदसत् । युष्मत्संपादितानि रथावीनींद्रादयः स्वभागत्वेनाकल्पयन् । तस्मादृभुर्विभ्वा वाजश्च यूयं देवानिंद्रादीनगच्छत । गत्वाच हे स्वपसः शोभनाश्वरथादिकर्मवंतो यूयं यज्ञियं
+> यज्ञार्हं यज्ञसंबंधिनं भागं सोमरूपं देवत्वं प्राप्नैः सेवनीयमैतन ।
+> प्राप्नुत । कर्मसामर्थ्येन हविर्भुजो भवतेत्यर्थः । इत्येवमृषिराह ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): Indra, the Aśvins and Bṛhaspati took horses, chariot and cow; so the Ṛbhus are told to go to the gods and take the sacrificial portion.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*[The first word is printed "ಯಭುಗಳ" (for ಋಭುಗಳ) and is kept as supplied.]* (By the skill of the Ṛbhus) इंद्रः (*iṃdraḥ*)—Indra; हरी (*harī*)—his horses called Hari; युयुजे (*yuyuje*)—yoked to the chariot; अश्विना (*aśvinā*)—the Aśvin gods; रथं (*rathaṃ*)—(their) chariot (got ready); बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati; विश्वरूपां (*viśvarūpāṃ*)—the cow endowed with many forms; उपाजत (*upājata*)—accepted; (therefore) ऋभुः विभ्वा वाजश्च (*ṛbhuḥ vibhvā vājaśca*)—O Ṛbhu gods, famed by these three names; देवान् (*devān*)—to the gods; अगच्छत (*agacchata*)—go; स्वपसः (*svapasaḥ*)—you who have excellent deeds (of making horses and chariots); यज्ञियं (*yajñiyaṃ*)—connected with the sacrifice; भागं (*bhāgaṃ*)—the portion of the Soma juice; ऐतन (*aitana*)—obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+By the skill of the Ṛbhus, Indra yoked his horses called Hari to his chariot. The Aśvin gods got their chariot ready. Bṛhaspati accepted the cow endowed with many forms. Therefore, O Ṛbhu gods, famed by these three names, go to the gods. You who have the skill of making excellent horses and chariots, obtain the portion of Soma juice that belongs to the sacrifice.
+
+**Printed English translation**
+
+Indra has caparisoned his horses: the Ashwins have harnessed their cars : Brihaspathi has accepted the omniform (cow): therefore, Ribhu, Vibhwa, and Vaja, go to the gods, doers of good deeds, enjoy your sacrificial portion.
+
 ---
 
-**Progress note:** Done through printed p. 104 (PDF 104). Sūkta 161 Ṛk 4 Special Topics end and grammar; Ṛk 5 Saṃhitā/Pada (picture), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics start
+**Progress note:** Done through printed p. 107 (PDF 107). Sūkta 161 Ṛk 5 Special Topics end and grammar; Ṛk 6 Saṃhitā/Pada (picture), bhāṣya, Pratipadārtha, Bhāvārtha, English
