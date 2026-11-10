@@ -2417,6 +2417,80 @@ Therefore, at the Rājasūya and similar sacrifices, even a Brahmin sits at a lo
 
 This power is a *dharma* better than all *dharmas*; apart from it there is no other *dharma*. Because there is such a supernatural power, in the present ṛk, in order to obtain wealth in the form of food and in the form of glory, along with it the power in the form of *kṣatra*, which protects it, *[the supplied text of p. 83 ends here, in the middle of the sentence ("…ಕ್ಷತ್ರರೂಪದ ಶಕ್ತಿ"); it continues on p. 84, in the next window]*
 
+### Printed p. 84
+
+*Running head: 84 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 160.* (The Special Topics of Ṛk 5 continue.)
+
+*[The sentence broken off at the end of p. 83 continues with "…ಶಕ್ತಿ|ಯನ್ನೂ ಪ್ರಾರ್ಥಿಸಿದೆ.": "…is also prayed for."]* It is also stated clearly that, in येन कृष्णी अभि ततनाम (*yena kṛṣṇī abhi tatanāma*) *[so printed, "ಕೃಷ್ಣೀ"]*, even wealth in the form of sons grows only by resorting to this power.
+
+कृष्णी (*kṛṣṇī*) *[so printed for ಕೃಷ್ಟೀ]*—The word has the ordinary meaning "human beings". The authors of the Nirukta,
+
+आ दधिक्राः शवसा पंच कृस्टीः सूर‍्य इव ज्योतिषापस्ततान । (*ā dadhikrāḥ śavasā paṃca kṛsṭīḥ sūrya iva jyotiṣāpastatāna |*)
+
+(Ṛ. Saṃ. 4-38-10)
+
+for the words पंच कृष्टीः (*paṃca kṛṣṭīḥ*) in this ṛk, explained पंच जनान् (*paṃca janān*) (Ni. 10-31), including all classes of human beings. In the present ṛk it is explained as पुत्रादिरूपाः प्रजाः (*putrādirūpāḥ prajāḥ*), "people in the form of sons and others"; the purport is wealth of progeny.
+
+पनाय्कं (*panāykaṃ*) *[printed "ಪನಾಯ್ಕಂ-"]*—स्तुत्यं । (*stutyaṃ |*) It means "worthy of praise". It is an epithet of the word ओजः (*ojaḥ*). The authors of the Nirukta have included पनस्यति (*panasyati*) and पनायते (*panāyate*) among the names of worship (Ni. 3-19), and
+
+रथे तिष्ठन्नयति वाजिनः पुरो यत्रयत्र कामयते सुषारथिः । (*rathe tiṣṭhannayati vājinaḥ puro yatrayatra kāmayate suṣārathiḥ |*)
+अभीशूनां महिमानं पनायत मनः पश्चादनु यच्छंति रश्मयः ॥ (*abhīśūnāṃ mahimānaṃ panāyata manaḥ paścādanu yacchaṃti raśmayaḥ ‖*)
+
+(Ṛ. Saṃ. 6-25-6)
+
+for the word पनायत (*panāyata*) in this ṛk they explain पूजयत (*pūjayata*). In the same way here too the sense of worship is there, and the purport is "worthy of praise". Since it is an epithet of *ojas*, one should understand what the nature of that *ojas* is.
+
+ओजः (*ojaḥ*)—The authors of the Nirukta have included this word among the names of strength (Ni. 3-9) and then, with ओज (*oja*)तेर्वोब्ब तेर्वा (*tervobba tervā*) (Ni. 6-8, the line broken in print), have shown that it is formed either from the root ओज (*oja*), meaning "to be able", or from the root उब्ज् (*ubj*), meaning "to subdue". The ability to acquire power oneself and to subdue other obstacles is indicated by this word.
+
+मंद्र ओजिष्ठ इत्योजस्वत्तत् क्षत्रस्य रूपं । (*maṃdra ojiṣṭha ityojasvattat kṣatrasya rūpaṃ |*)
+
+(Ai. Brā. 8-2)
+
+In such sentences the identity of the power in the form of *kṣatra* and the power in the form of *ojas* is stated. It is described not merely as an external power but as an inner power that conquers the six enemies (*ariṣaḍvarga*).
+
+इन्वतं (*invataṃ*)—इन्वति, नक्षति (*invati, nakṣati*) and others are read among the names of pervasion (Ni. 3-10). Here it means "increase"; it is prayed: "increase our power".
+
+### Printed p. 85
+
+*Running head: [ಅ ೨. ಅ. ೩. ವ. ೩. ] Ṛgveda-saṃhitā, p. 85 (as supplied).*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses गृणाने (*gṛṇāne*) (root ग्य (*gya*) *[so printed]*, used in the sense of praise; *śānac* in the passive sense by the Vedic rule, *śnā*; Pā. Sū. 7-3-80 and 6-1-193), धासथः (*dhāsathaḥ*) (root डुधाञ् (*ḍudhāñ*), *let*; Pā. Sū. 3-4-94 and 3-1-34), कृष्टीः (*kṛṣṭīḥ*) (root कृष (*kṛṣa*), suffix *ktic*, Pā. Sū. 3-3-174; accent Pā. Sū. 6-1-163), ततनाम (*tatanāma*) (root तनु (*tanu*); Pā. Sū. 3-4-99, 3-4-92, 8-1-66 and 3-4-117), विश्वहा (*viśvahā*) (Pā. Sū. 7-1-39) and इन्वतम् (*invatam*) (root इवि (*ivi*)), with the accents; it ends with the mark ॥ ೫ ॥.
+
+*Here the 160th sūkta is ended: "ಇಲ್ಲಿಗೆ ೧೬೦ನೇ ಸೂಕ್ತವು ಮುಗಿದುದು." A line of ornament follows: "————:0:————".*
+
+### Printed p. 86
+
+*Running head: 86 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 161.*
+
+## Sūkta 161 (Maṇḍala 1)
+
+*"ನೂರ ಅರವತ್ತೊಂದನೆಯ ಸೂಕ್ತವು" — "the hundred and sixty-first sūkta".*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; the sense is in the Anuvāda below):
+
+> किमु श्रेष्ठ इति चतुर्दशर्चं पंचमं सूक्तं दैर्घतमसमार्भवं । अंत्या
+> त्रिष्टुप् शिष्टास्त्रिष्टुबंत परिभाषया जगत्यः ! अनुक्रांतं च । किमु श्रेष्ठः षळूनार्भवं त्रिष्टुबंतमिति ॥ व्यूळ्छे दशरात्रे षष्ठेऽहनि वैश्वदेवशस्त्र आर्भवं निविद्वानं
+> द्विप्रतीकॆं । तत्र किमु श्रेष्ठ इत्येतदंत्यवर्जं प्रतीकं । व्यूळ्छेदिति खंडे सूत्रितं।
+> किमु श्रेष्ठ उप नो वाजा इति त्रयोदशार्ध्वं चतस्रश्च । अ. ८-८ । इति ॥
+
+> *kimu śreṣṭha iti caturdaśarcaṃ paṃcamaṃ sūktaṃ dairghatamasamārbhavaṃ | aṃtyā*
+> *triṣṭup śiṣṭāstriṣṭubaṃta paribhāṣayā jagatyaḥ ! anukrāṃtaṃ ca | kimu śreṣṭhaḥ ṣaḷūnārbhavaṃ triṣṭubaṃtamiti ‖ vyūḷche daśarātre ṣaṣṭhe 'hani vaiśvadevaśastra ārbhavaṃ nividvānaṃ*
+> *dvipratīkèṃ | tatra kimu śreṣṭha ityetadaṃtyavarjaṃ pratīkaṃ | vyūḷchediti khaṃḍe sūtritaṃ|*
+> *kimu śreṣṭha upa no vājā iti trayodaśārdhvaṃ catasraśca | a. 8-8 | iti ‖*
+
+**Anuvāda (Kannada).** The sūkta beginning किमु श्रेष्ठ (*kimu śreṣṭha*) is the fifth sūkta in the twenty-second anuvāka. It has fourteen ṛks. The seer of this sūkta is Dīrghatamas, son of Ucathya (printed "ಉಚಥ್ಯ", as supplied). The Ṛbhus are the deity *[printed "ಋಭಗಳೇ"]*. Only the last ṛk of the sūkta is in *triṣṭubh* metre; the other ṛks are in *jagatī* metre *[printed "ಜಗತೀಳಂದಸ್ಸಿನವು"]*. In the Anukramaṇikā it is said: किमु श्रेष्ठ षळूनार्भवं त्रिष्टुबंतमिति (*kimu śreṣṭha ṣaḷūnārbhavaṃ triṣṭubaṃtamiti*). On the sixth day of the sacrifice of ten days called *vyūḍha* (or the sacrifice called *daśarātra*), when the mantras of the Vaiśvadeva-śastra are recited, of the two *pratīkas* (parts) provided for the *nivid-dhāna* mantras related to the deity Ṛbhu, the ṛks other than the last are to be used as the mantras of one *pratīka*, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra in the section व्यूढश्चेत् (*vyūḍhaścet*): किमुश्रेष्ठ (*kimuśreṣṭha*) उपनो वाजा इति त्रयोदशार्भवं चतस्रश्च (*upano vājā iti trayodaśārbhavaṃ catasraśca*) (Ā. 8-8).
+
+**Sūkta—161**
+
+*[Om sign ("॥ ಓಂ ॥") printed above the sūkta number, left out here and in the Kannada-script file as a sign only.]*
+
+Maṇḍala 1 ‖ Anuvāka 22 ‖ Sūkta 161 ‖
+Aṣṭaka 2 ‖ Adhyāya 3 ‖ Varga 4, 5, 6 ‖
+Number of ṛks in the Sūkta: 14 ‖
+Ṛṣi: Dīrghatamas Aucathya · Devatā: the Ṛbhus (ऋभवः (*ṛbhavaḥ*)) · Chandas: Ṛks 1–13 *jagatī*; Ṛk 14 *triṣṭubh*.
+
 ---
 
-**Progress note:** Done through printed p. 83 (PDF 83). Sūkta 160 Ṛk 5 Pratipadārtha end, Bhāvārtha, English, Special Topics (śravaḥ, kṣatra)
+**Progress note:** Done through printed p. 86 (PDF 86). Sūkta 160 Ṛk 5 Special Topics end and grammar (sūkta 160 complete); Sūkta 161 introduction and header
