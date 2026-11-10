@@ -67,3 +67,4 @@
 | through p. 210 | sonnet | 7 | 121997 | 2.2 |
 | through p. 216 | sonnet | 7 | 99630 | 1.4 |
 | through p. 222 | sonnet | 8 | 99827 | 1.6 |
+| through p. 240 (three windows in one agent: pp. 223-228, 229-234, 235-240) | sonnet | 22 | 181723 | 6.1 |
