@@ -1095,6 +1095,95 @@ quoting this ṛk, the authors of the Nirukta show that the word विदथ (*
 
 देवपुत्रे (*devaputre*)—देवाः सर्वे पुत्रस्थानीया ययोस्ते द्यावापृथिव्यौ । (*devāḥ sarve putrasthānīyā yayoste dyāvāpṛthivyau |*) "Heaven and Earth, who have all the deities as sons."
 
+### Printed p. 40
+
+*Running head: 40 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159.* (The Special Topics of Ṛk 1 continue.)
+
+इमौ वै लोकौ सहास्तां तौ व्यैतां नावर्षन्न समतपत्ते पंचजना न सम- (*imau vai lokau sahāstāṃ tau vyaitāṃ nāvarṣanna samatapatte paṃcajanā na sama-*)
+जानत तौ देवाः समनयंस्तौ संयंतावेतं देवविवाहं व्यवहेतां । (*jānata tau devāḥ samanayaṃstau saṃyaṃtāvetaṃ devavivāhaṃ vyavahetāṃ |*)
+
+(Ai. Brā. 4-27)
+
+The conjugal relationship of Heaven and Earth described in this sentence, and the point that these two are the support of the activity of all the worlds, were shown earlier.
+
+य इमे द्यावाप्पथिवी जनित्रि रूपैरपिंशद्भवनानि विश्वा । (*ya ime dyāvāppathivī janitri rūpairapiṃśadbhavanāni viśvā |*)
+तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ॥ (*tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān ‖*)
+
+(Ṛ. Saṃ. 10-110-9)
+
+In this ṛk, for the word जनित्री (*janitrī*) it is said विश्वस्य जनयित्र्य । (*viśvasya janayitrya |*): they are the producers of all beings, gods, men and the rest. And,
+
+देवी देवस्य रोदसी जनित्री बृहस्पतिं वावृधतुर्महित्वा । (*devī devasya rodasī janitrī bṛhaspatiṃ vāvṛdhaturmahitvā |*)
+दक्षाय्याय दक्षता सखायः करद्ब्रह्मणे सुतरा सुगाधा ॥ (*dakṣāyyāya dakṣatā sakhāyaḥ karadbrahmaṇe sutarā sugādhā ‖*)
+
+(Ṛ. Saṃ. 7-97-8)
+
+here it is said that they nourished their own son Bṛhaspati; and
+
+यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान । (*yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā sujanimā jajāna |*)
+पंथामनु प्रविद्वान्पि तृयाणं द्युमदग्ने समिधानो वि भाहि ॥ (*paṃthāmanu pravidvānpi tṛyāṇaṃ dyumadagne samidhāno vi bhāhi ‖*)
+
+(Ṛ. Saṃ. 10-2-7)
+
+here that they are the parents of Agni *[a second reference "(ಖ. ಸಂ. ೧೦-೨-೭)" is printed after it in the supplied text; "ಖ. ಸಂ." is not expanded]*. In some places they are said to be, individually, the producers of Agni and the other deities, and in still others the parents of all the deities. Therefore,
+
+उपहूते द्यावापृथिवी पूर्वजे ऋतावरी देवी देवपुत्रे इति । (*upahūte dyāvāpṛthivī pūrvaje ṛtāvarī devī devaputre iti |*)
+
+(Śa. Brā. 1-8-1-29)
+
+in all such sentences the epithet देवपुत्रे (*devaputre*) is established for Heaven and Earth as there referred to *[printed "ದ್ಯಾವ್ಯಾಸೃಥಿಪಿಗಳಿಗೆ", as supplied]*.
+
+देवेभिः (*devebhiḥ*)—देवो दानाद्वा दीपनाद्वा । (*devo dānādvā dīpanādvā |*) Because it is said that this epithet is "giver" and "illuminator" (Ni. 7-5), and because the sacrificer makes the gods shine by gifts of oblations and the like, the word देव (*deva*) is sometimes explained as "sacrificer"; in the same way in the present ṛk too it is explained as यजमानैः (*yajamānaiḥ*).
+
+सुदंससा (*sudaṃsasā*)—दंस इति कर्मनाम । शोभनकर्मोपेते । (*daṃsa iti karmanāma | śobhanakarmopete |*) "Endowed with excellent rites": it is shown that this is an epithet of Heaven and Earth.
+
+इत्था (*itthā*)—Since it is read among the names of truth, बट् (*baṭ*), श्रत् (*śrat*) and so on (Ni. 3-13), in this ṛk too it is explained as "truly".
+
+### Printed p. 41
+
+*Running head: [ಅ. ೨. ಅ. ೩. ವ. ೨.) Ṛgveda-saṃhitā, p. 41 (the closing bracket is printed as a parenthesis, with tab spacing, as supplied).*
+
+**Grammar (Vyākaraṇa-prakriyā)**
+
+*Note (the Sanskrit grammar is only transcribed):* the Kannada analyses द्यावापृथिवी (*dyāvāpṛthivī*) (the substitution दिवो द्यावा (*divo dyāvā*) Pā. Sū. 6-3-29, the accent by देवताद्वंद्वे च (*devatādvaṃdve ca*) Pā. Sū. 6-2-141, with the Vedic break inside the compound), ऋतावृधा (*ṛtāvṛdhā*) (root वृधु (*vṛdhu*), suffix *kvip*; सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39; Pā. Sū. 6-2-49), स्तुषे (*stuṣe*) (थासः से (*thāsaḥ se*) Pā. Sū. 3-4-80), विदथेषु (*vidatheṣu*), प्रचेतसा (*pracetasā*), देवपुत्रे (*devaputre*), सुवंससा (*suvaṃsasā*) *[so printed for ಸುದಂಸಸಾ; नञ्सुभ्याम् (*nañsubhyām*) Pā. Sū. 6-2-172]* and प्रभूषतः (*prabhūṣataḥ*) (तिजुचोदात्तवति (*tijucodāttavati*) Pā. Sū. 8-1-71), with the accents; it ends with the mark ॥ ೧ ॥. A stray line follows, kept as a note in kn.md: "This image contains no text. It is a decorative graphic design consisting of swirls and floral elements."
+
+### Printed p. 42
+
+*Running head: 42 Sāyaṇa-bhāṣya-sahitā, Maṃ. 1, A. 22, Sū. 159.*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+*[A hyphenated line break inside the Saṃhitā block ("ತದ್ಧವೀ-ನುಭಿಃ", "ವರೀ-ಮಭಿಃ") is joined in kn.md; the words are kept as supplied.]*
+
+> उ॒त म॑न्ये पि॒तुर॒द्रुहो॒ मनो॑ मा॒तुर्मुहि॒ स्वत॑व॒स्तद्धवी॑नुभिः ।
+> सु॒रेत॑सा पि॒तरा॒ भूम॑ चक्रतुरु॒रु प्र॒जाया॑ अ॒मृतं॒ वरी॑मभिः ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+*[The label line is garbled in the supplied text ("ಕಡತ") and sits inside the Saṃhitā block; the standard label is inserted and the garbled line kept in kn.md as a note.]*
+
+> उत । मन्ये । पितुः । अद्रुहः । मनः । मातुः । महि । स्वतवः । तत् । हवीमभिः ।
+> सुरेतसा । पितरा । भूम । चक्रतुः । उरु । प्रजायाः । अमृतं । वरीमभिः ॥२॥
+
+**॥ सायणभाष्यम् ॥**
+
+*[The label is garbled in the supplied text ("ಸ ಹರಣಭಾಷ್ಯಂ") and sits inside the Pada block; moved out and the standard label inserted. Hyphenated line breaks in the block are joined.]*
+
+> उतापि च पितुः पितृस्थानीयायाः पात्रा अद्रुहोऽद्रोग्नुः । न हि कदाचित्पिता स्वपुत्रादये द्रुह्यति । तादृश्याः पृथिव्याः स्वतवः स्वायत्तं बलं स्वयमेवास्मदनुग्रहाय त्वरमाणं आत एव महि महत् तत्तादृशमनुग्रहयुक्तं मनश्चित्तं
+> हवीमभिर्हवनैराह्वानैर्मन्ये । जानामि । प्रसादयामीत्यर्थः । यद्वा । तत्तादृशमुक्तलक्षणं मनो हवीमभिर्हवनैर्महि मन्ये । अतिमहत्पृथ्वं मन्ये । तथा
+> मातुः सर्वस्योत्पादयितुरंतरिक्षस्य द्युलोकस्य । मातांतरिक्षं निर्मियंतेऽस्मिन्भूतानि ॥ नि. २-८ । इति निरुक्तं । यद्वा । पितुर्म्यलोकस्य मातुर्भूम्याः ।
+> दौर्वः पिता पृथिवी माता । ऋ १- ९१-६ । इति श्रुतेः । तत्तादृशमुक्तलक्षणं मनो
+> मन्ये । द्यावापृथिव्योर्मनोऽस्मदाह्वानैः प्रीणयामीत्यर्थः । किंच पितरा माता
+> च पिता च पितरौ द्यावापृथिव्यौ सुरेतसा शोभनसामर्थ्येन प्रजाया यजमानादिरूपाया वरीमभिर्वरिष्यॆ रक्षणविशेषैर्भूम बहुतरमुरु विस्तीर्णममृतममररणभूतमभिलषितं चक्रतुः । कुरुतः ॥
+
+*[Gist of the Sāyaṇa-bhāṣya (my own short summary): by invocations I win the gracious, mighty minds of Earth and Heaven, our parents, who with ample protection give their children the wished-for undying wealth.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत (*uta*)—and; अद्रुहः (*adruhaḥ*)—who never does harm; पितुः (*pituḥ*)—of the Earth, who stands in the place of a father; स्वतवः (*svatavaḥ*)—with strength under her own control; महि (*mahi*)—(therefore) great; तत् (*tat*)—famous, together with grace; मनः (*manaḥ*)—the mind. (Likewise) मातुः (*mātuḥ*)—of the heaven-world, who is in the form of a mother, … *[the supplied text breaks off here in the middle of a word ("ದ್ಯುಲೋಕಾಧಿ"); the Pratipadārtha continues on p. 43, in the next window]*
+
 ---
 
-**Progress note:** Done through printed p. 39 (PDF 39). Sūkta 159 Ṛk 1 Bhāvārtha, English, Special Topics (dyāvāpṛthivī, ṛtāvṛdhā, mahī, vidatha, devaputre)
+**Progress note:** Done through printed p. 42 (PDF 42). Sūkta 159 Ṛk 1 Special Topics end and grammar, Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha start
