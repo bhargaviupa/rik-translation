@@ -40,6 +40,13 @@ Faithful English of the Kannada; every Sanskrit quotation in full as ⟦…⟧ w
 - Sanskrit is quoted in full, never summarised. Nothing is dropped: stray lines stay as italic notes (the script already wrapped the usual ones).
 - Running heads: ಮಂ. Maṇḍala · ಅ. between ಮಂ. and ಸೂ. Anuvāka · ಸೂ. Sūkta · other side ಅ./ಅ./ವ. Aṣṭaka/Adhyāya/Varga.
 
+## What the QA of Vol 12 found (72 pages read against the Kannada: about one real error in four pages) — avoid these
+- **Do not translate a Sanskrit quotation that the Kannada does not translate.** Quote it; render only the Kannada's own explanation. No English gloss in parentheses after a Sanskrit word unless the Kannada gives one.
+- **Never read a misprint as the "obvious" word silently.** Translate what is printed, or give your reading with `*[as supplied: "ಕನ್ನಡ ಪದ"; read here as …]*`. A full stop in the wrong place, a missing headword, a number that does not add up: keep and note.
+- **Only Sanskrit goes inside `⟦ ⟧`.** A Kannada gloss word or a misprinted Kannada word is translated; if it must be shown, it stands in Kannada letters inside an italic note.
+- Quote Sanskrit to its end: the last words, the printed abridgement dots `.... ....` and the closing danda belong to the quotation; a Sanskrit phrase such as `ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ` is quoted, not turned into English.
+- Check who does what before writing a sentence with two actors (who helps whom, whose attribute it is); technical terms exactly (ādyudātta is not anudātta, a sautra root is not "Saura"). The Gist follows Sāyaṇa's Sanskrit, not the Kannada gloss, where they differ (and says so).
+
 ## kn.md (made by script; check it, do not retype it)
 The script has already: standardised and inserted section labels (garbled ones kept as `*[…]*`), joined line-end hyphens, wrapped stray lines, inserted markers for missed running heads, rewritten Devanagari letters as Kannada. TASK.md lists what it did. If something is still wrong (prose inside a `> ` block or the reverse, a label in the wrong place), repair it with `python3 tools/rv/batch.py fix VOL WIN kn "OLD" "NEW"` (exact, unique; letters unchanged) and look at the new block numbers with `batch.py view VOL WIN`.
 `[figure: …jpg]` line (handle it BEFORE the first `done`, which refuses a leftover figure line): look at the picture (Read tool); if it only repeats a Saṃhitā/Pada block that kn.md already has as text, remove the line with `batch.py fix` and say so in an italic note; otherwise write the verse block it holds into kn.md letter by letter in Kannada script, `[?]` for unsettled letters, remove the figure line, and say in an italic note in en.md that the block was read from the picture. Small hook/division marks in a picture's Pada line are not transcribed.
