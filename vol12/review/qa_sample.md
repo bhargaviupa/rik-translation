@@ -84,3 +84,40 @@ From p. 197 on, long quotations were written as `⟦first words~~last words⟧` 
 - **p. 693** — MINOR: silent normalisations "ಪುಷ್ ಅಭಿಷವೇ" → "root ṣu", "ಇತ್ಯಾದಿನಿರ್ತ್ಯಮ್" → "ityādi-nityam". MINOR: "ಆತಾದೇಶ" → "ātām [as supplied]" (the print has āt). MINOR: "ತಿಜಿಂತನಿಘಾತಸ್ವರ" → "verbal accent" loses nighāta. MINOR: sūtra texts dropped in the grammar summary (allowed, but inconsistent with p. 607).
 
 Reviewer 2b's judgement: numbers, references and Sanskrit quotations are almost everywhere complete and equal to the Kannada, printed oddities usually kept and noted; real faults on pp. 653 and 663; recurring small problems: printed abridgement ellipses dropped (pp. 526, 528), Kannada words shown in Devanagari/IAST as if Sanskrit (pp. 513, 532, 691), a few unnoted silent normalisations (pp. 472, 621, 693).
+
+## Sample 2a — pp. 31, 51, 52, 63, 66, 86, 236, 259, 274, 297, 303, 308, 314, 323, 328, 333, 341, 344, 359, 381, 382, 400, 414, 422
+**Totals: 24 pages; 11 ERRORs; 28 MINORs; 5 pages fully OK (236, 303, 314, 344, 381).**
+
+- **p. 31** — MINOR: grammar summary leaves out "ತತ್ಪುರುಷೇ ತುಲ್ಯಾರ್ಥ—(ಪಾ.ಸೂ. ೬-೨ ೨)".
+- **p. 51** — **ERROR**: Gist says "Heaven and Earth … measure the wise rays"; Sāyaṇa: the rays measure Heaven and Earth ("ತೇ … ದ್ಯಾವಾಪೃಥಿವ್ಯೌ … ರಶ್ಮಯೋ ಮಮಿರೇ"). MINOR: "ಪ್ರಭೆಗಳನ್ನು" → "rays" (radiances). MINOR: printed parenthesis "(ತಮ್ಮ ವಿಷಯದಲ್ಲಿ ಪೂರ್ಣವಾದ)" split in two.
+- **p. 52** — **ERROR**: the Sanskrit gloss "ಭಗಿನೀಸ್ಥಾನೀಯಾಸಿ" is not reproduced, only rendered in English. MINOR: "ಪ್ರಸರಿಸುವಂತೆ ಮಾಡುತ್ತವೆ" (cause to spread) → "spread". MINOR: "ರಿಕ್ಕಮಾರೈಕ್ಯಕಾರ", "ದಹರಿಸಿ" kept/translated without an "as supplied" note.
+- **p. 63** — MINOR (doubtful): "ಸೂರನ" → "Sūra" without a note (probably ಸೂರ್ಯ with the sign lost).
+- **p. 66** — MINOR: Pratipadārtha item "(ಅವರಿಬ್ಬರಲ್ಲಿ) । ಪಿತೃಸ್ಥಾನದಲ್ಲಿರುವ ಅಂತರಿಕ್ಷವು" has no headword in print; smoothed without a note.
+- **p. 86** — MINOR: "ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ", "ನಿವಿದ್ವಾನ" silently normalised. MINOR: "ಉಚಥ್ಯ" flagged as an oddity though regular.
+- **p. 259** — **ERROR**: unmarked English translations added to Sanskrit glosses ("आतिशयेन ग्रसिता ग्रसिष्ठः (one who devours most…)", "ओषः पाकः … ओषधयः (…)", root meanings). MINOR: "ಜೀಪ್" silently rendered "ṅīp" while ಲಜ್ is kept "(as supplied)". MINOR: "ಅತಿಜಂತ" → "non-finite verb" (a word that is not a finite verb). MINOR: Ṛk 8 Saṃhitā "भगः॒॑॑" duplicated accent marks (script artefact).
+- **p. 274** — **ERROR**: "ಸ್ವರ್ಗಕ್ಕಾದರೂ ಸಹ ಯಾರನ್ನಾದರೂ ಒಯ್ಯಬಲ್ಲುದು ಭುರ್‌ಧಾತುವು. ಧಾರಣಾರ್ಥಕವೂ…" → "The root bhur can carry anyone even to heaven": the print's misplaced full stop followed; the subject is the bird, "ಭುರ್‌ಧಾತುವು" begins the next sentence; no note.
+- **p. 297** — **ERROR**: "ವಿಶ್ವಾತ್ಮನ ಪತಿತ್ವವನ್ನು ಸ್ತುತಿಸಿರುವುದರಿಂದ" → "Since the Lord of the universal Self is praised" (the lordship of the universal Self). MINOR: "-ಅಭಿಮಾನೀ" attached to Vāyu instead of the subject. MINOR: Bṛ. U. 4-4-22 quotation ends in print with ".... .... .... ।", dropped.
+- **p. 308** — MINOR: Śa. Brā. 2-2-3-9 ends in print with ".... .... .... ॥", not reproduced.
+- **p. 323** — MINOR: line-break join "सप्ततंतू न्वितत्रिरे" (should be one word). MINOR: "ತೋರಿಸುತ್ತಾ" → "he shows" (impersonal in the Kannada). MINOR: "bashkaya" beside "baṣkaya".
+- **p. 328** — MINOR: Kannada word "ಅಹಸ್ಸು" given as Devanagari Sanskrit, "blood" added for rakta. MINOR: "ಕಾರರೂಪದ" silently rendered "effect" (flagged on p. 314).
+- **p. 333** — MINOR: "ವಂಶವೃಕ್ಷ" → "line of support" (the supporting beam/bamboo).
+- **p. 341** — **ERROR**: unmarked English translation added after "उपेत्य वचनं परस्परं सम्यगभिवृद्धानि सस्यानीति वचनं". MINOR: dandas doubled after three quotations (script artefact, repaired); added gloss "(a 'saying-to')".
+- **p. 359** — **ERROR**: "ಅಭ್ಯಸ್ತಾನಾಮಾದಿಃ (ಪಾ. ಸೂ. ೬-೧-೧೮೯) ಎಂಬುದರಿಂದ ಅಮೃದಾತ್ತಸ್ವರ" → "the anudātta accent [misprint for the anudātta accent]": the sūtra gives the initial udātta (ಆದ್ಯುದಾತ್ತ). **ERROR**: "ಸೌತ್ರಧಾತು" → "a Saura root" (a sautra root).
+- **p. 382** — **ERROR**: unmarked English translation "(all the worlds are deposited)" added to "ವಿಶ್ವಾ ಭುವನಾನಿ ಅರ್ಪಿತಾ". MINOR: doubled danda (repaired).
+- **p. 400** — **ERROR**: English translation added after "वत्सस्थानीयमग्निं धारयंती" before the Kannada's own gloss.
+- **p. 414** — **ERROR**: headword "ವೃಕ್ಷಂ—" before the Nirukta quotation omitted. MINOR: "ಸಖಾಯೌ" marked sic though regular. MINOR: words on the Supreme Self dropped without a note ("ಇಲ್ಲಿ ಬೇರೆಯಾಗಿರುವ ಪರಮಾತ್ಮನಿಗೂ…"). MINOR: garbled "ಒ ವೇ ವೃಕ್ಷವನ್ನು" silently read "one and the same tree".
+- **p. 422** — MINOR: "ಪುನ." ("again") left out.
+
+Reviewer 2a's judgement: numbers and references are reliable (none altered, spelled out or "corrected"); Sanskrit quotations complete except one short gloss (p. 52). The main recurring fault is unmarked English translations added to Sanskrit glosses the Kannada does not translate (pp. 259, 341, 382, 400), and a few real meaning errors in technical or attributive points (pp. 51, 274, 297, 359).
+
+# Summary of both samples
+| | pages | ERRORs | MINORs | pages fully OK |
+|---|---|---|---|---|
+| Sample 1 | 24 | 4 | 25 | 4 |
+| Sample 2a | 24 | 11 | 28 | 5 |
+| Sample 2b | 24 | 3 | 28 | 9 |
+| **All** | **72 (about 10 % of the volume)** | **18** | **81** | **18** |
+
+Pages of the old flow (pp. 2–196) in the samples: 10 pages, 2 ERRORs. Pages of the new flow (pp. 197–727): 62 pages, 16 ERRORs. Rate: about one ERROR in four pages in both parts.
+Kinds of ERROR: unmarked English translation added to a Sanskrit quotation the Kannada does not translate (7); meaning/attribution wrong (7); Sanskrit shortened or a headword dropped (4). No number or reference was found wrong.
+All findings of the 72 pages are repaired with logged edits (`review/repair_log.md`). **The other 654 pages have not been read against the Kannada**; at the sampled rate they hold on the order of 150 comparable faults. That needs a second-reader pass over the whole volume, not a larger sample.
