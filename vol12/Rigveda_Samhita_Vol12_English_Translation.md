@@ -1534,8 +1534,6 @@ Many people mistake the atmospheric *samudra* for the earthly one and interpret 
 
 तयोर्विभागस्तत्रेतिहासमाचक्षते । देवापिश्चार्ष्टिषेणः शंतनुश्च कौरन्यौ (*tayorvibhāgastatretihāsamācakṣate | devāpiścārṣṭiṣeṇaḥ śaṃtanuśca kauranyau*)
 भ्रातरा बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे । देवापिस्तपःप्रतिपेदे । ततः शंतनो राज्ये द्वादशवर्षाणि देवो न ववर्ष । तमू- (*bhrātarā babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣecayāṃcakre | devāpistapaḥpratipede | tataḥ śaṃtano rājye dvādaśavarṣāṇi devo na vavarṣa | tamū-*)
-⟦⟧
-
 *[the word "ತಮೂ-" is broken across the page break; the quotation continues on p. 55]*
 
 ### Printed p. 55

@@ -2,6 +2,16 @@
 
 One window = 3 consecutive PDF pages. The dispatcher only dispatches; a Sonnet translator agent does the reading. **Preferred (Vol 15): one standing agent per volume**, one window per `SendMessage` (≈11–27k tokens per batch vs ≈100k for a fresh agent); resend a short rules recap when its token counter drops (context compaction) and recycle it about every 60 windows. A fresh agent per window remains possible (the output files carry the continuity).
 
+## The loop since Nov 10 2026 (this section replaces "Per window", the message template and the manual verification below)
+
+Measured on Vol 12 pp. 2–196: most of the translator's turns went into hand-fixes of `kn.md` (garbled labels, hyphen joins, merged pages) and into running five separate gate commands; most of the dispatcher's turns went into manual `git log`/`grep` checks and a separate log commit. All of that is script work now.
+
+1. Once: start ONE standing Sonnet agent: "Read tools/rv/BRIEF.md. You will get one window per message."
+2. Per window, the dispatcher runs **one command**: `python3 tools/rv/batch.py next N --tokens T --tools K --min M` (T/K/M = what the harness reported for the window just finished; omit on the first call). It audits both volume files and git (one progress note, no XXX, no empty ⟦⟧, equal page marks, equal `[?]`, pushed), appends the cost line (committed with the next window), preps the next window and prints `MESSAGE: …`. Send that message to the agent. If it prints `AUDIT FAIL`, fix that first.
+3. The agent: reads `WIN/TASK.md`, writes `WIN/en.md`, runs `python3 tools/rv/batch.py done N WIN --note "…"` until it prints `VERIFIED`, reports in ≤ 4 lines. `done` = build + check (now including inline segments, XXX, empty segments, stray progress note, leftover figure lines, page markers) + commit + push + audit.
+4. Every ~10 windows: one status line to the user from the `next` output. Recycle the agent about every 60 windows or when it gets slow; a fresh agent only needs BRIEF.md.
+The dispatcher does not re-verify by hand: `next` refuses to prepare a window while the audit fails, so a false "done" cannot go unnoticed.
+
 ## Set-up (once per volume)
 1. `python3 tools/rv/batch.py new N --mandala M --start-page 1 --source "volN/html/FILE1.html@1-100" --source "volN/html/FILE2.md@101-200"` -> `volN/volcfg.json`, folders, empty `Rigveda_Samhita_VolN_English_Translation.md` and `..._Kannada_Text.md` (progress note: Done through printed p. START-1). Each `--source` is a file of the supplied machine-read text with the printed pages (`@FIRST-LAST`) taken from it; add one per file as the user supplies them. Strip embedded base64 images from a markdown file before committing it.
 2. Numeral file: optional (the supplied text's numerals were found correct). If the user supplies one, put it in `volN/numerals/`; it is then used as a cross-check. Set `numerals.file_page` (file page = PDF - delta) and `printed` (printed = PDF - k) in `volcfg.json` only to the extent the numeral file needs PDF numbers (`prep` warns when no rows are found).
