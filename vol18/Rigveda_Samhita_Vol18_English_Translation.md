@@ -19728,6 +19728,301 @@ Use: in the Abhiplava ukthya rites, at the third pressing, among the sūktas rec
 ##### English translation (H. H. Wilson)
 The Kannada Anuvāda within the block states the same: this sūkta is the fifth in the fifth anuvāka, with eleven ṛks; the seer is Vāmadeva; ṛks 10 and 11 are for Indra and Bṛhaspati and the other nine for Bṛhaspati; the tenth ṛk is in Jagatī and the others in Triṣṭubh; the Anukramaṇikā is quoted; the use in the Ukthya of the Abhiplava at the third pressing is explained by the Āśvalāyana Śrautasūtra (Ā. 7-9); and the use of the first two ṛks in the Bṛhaspatisava, at the beginning of the Marutvatīya Niṣkevalya śastra, by Ā. 9-5.
 
+### Printed p. 501
+
+> सूक्त—५०
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५० ॥
+> अष्टक—३ ॥ अध्याय—७ ॥ वर्ग—२६, २७ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
+> ॥ ऋषिः—वामदेवः ॥
+> ॥ देवता—१-९, बृहस्पतिः । १०-११. इंद्राबृहस्पती ॥
+> ॥ छंदः—१-९, ११. त्रिष्टुप् । १०. जगती ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त॒स्तंभ॒ सह॑सा॒ वि ज्यो अंता॒न्बृह॒स्पति॑स्त्रिषध॒स्थो रवे॑ण ।  
+> तं प्र॒त्नास॒ ऋष॑यो॒ दीध्या॑नाः पु॒रो विप्रा॑ दधिरे मं॒द्रजि॑ह्वं ॥ १ ॥
+
+> *yastastaṃbha sahasā vi jyo aṃtānbṛhaspatistriṣadhastho raveṇa |*  
+> *taṃ pratnāsa ṛṣayo dīdhyānāḥ puro viprā dadhire maṃdrajihvaṃ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । तस्तंभ । सहसा । वि । ज्मः । अंतान् । बृहस्पतिः । त्रिसधस्थः । रवेण ।  
+> तं । प्रत्नासः । ऋषयः । दीध्यानाः । पुरः । विप्राः । दधिरे । मंद्रजिह्वं ॥ १ ॥
+
+> *yaḥ | tastaṃbha | sahasā | vi | jmaḥ | aṃtān | bṛhaspatiḥ | trisadhasthaḥ | raveṇa |*  
+> *taṃ | pratnāsaḥ | ṛṣayaḥ | dīdhyānāḥ | puraḥ | viprāḥ | dadhire | maṃdrajihvaṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो बृहस्पतिर्बृहतो देवस्य यज्ञस्य ना पालयिता देवः सहस्माबलेन
+> ज्मः पृथिव्या अंतान् । दश दिश इत्यर्थः । तान्वि तस्तंभ । विविधं स्तंभितवान् ।
+> नियमितवान् । त्रिषधस्थस्त्रिषु स्थानेषु वर्तमानो रवेणैवं तिष्ठतेत्यनेन शब्देन
+> तं देवं प्रत्नासः पुराणा ऋषयोऽतींद्रियद्रष्टारो दीध्याना दीप्यमाना विप्रा
+> मेधाविनो यजमानादयः पुरो दधिरे । पुरस्तात्स्थापितवंतः स्तुत्यादिना ।
+> मंद्रजिह्वं मादनजिह्वं मोदनजिह्वं ॥
+
+##### Gist of the bhāṣya
+
+Bṛhaspati is the protector of the great god, the sacrifice **NOTE**. By his strength (सहसा (*sahasā*) = by force) he has propped up the ends of the earth (ज्मः (*jmaḥ*) = of the earth), that is, the ten directions: वि तस्तंभ (*vi tastaṃbha*) means he has held them firmly, regulated them. त्रिषधस्थः (*triṣadhasthaḥ*) means abiding in three places; he does so with रवेण (*raveṇa*), with the word "stand thus". The ancient seers who perceive what lies beyond the senses (प्रत्नासः (*pratnāsaḥ*), ऋषयः (*ṛṣayaḥ*)), shining (दीध्यानाः (*dīdhyānāḥ*)), the wise (विप्राः (*viprāḥ*): the sacrificer and others), have set that god before them (पुरो दधिरे (*puro dadhire*)) by praise and the like. मंद्रजिह्वं (*maṃdrajihvaṃ*) is "of gladdening tongue", "of delighting tongue".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- सहसा (*sahasā*)—by his strength
+- ज्यः (*jyaḥ*)—of the earth **NOTE**
+- अंतान् (*aṃtān*)—the ends (the ten directions)
+- वि तस्तंभ (*vi tastaṃbha*)—who has regulated and made stand in a special manner (and)
+- रवेण (*raveṇa*)—by his special sound
+- त्रिषधस्थः (*triṣadhasthaḥ*)—has pervaded all three worlds
+- तं (*taṃ*)—that
+- मंद्रजिह्वं (*maṃdrajihvaṃ*)—Bṛhaspati, who has a gladdening tongue
+
+### Printed p. 502
+- प्रत्नासः (*pratnāsaḥ*)—ancient
+- दीध्यानाः (*dīdhyānāḥ*)—shining
+- विप्राः (*viprāḥ*)—wise
+- ऋषयः (*ṛṣayaḥ*)—the seers
+- पुरः (*puraḥ*)—before themselves
+- दधिरे (*dadhire*)—have established (by praises)
+
+##### भावार्थ (Bhāvārtha)
+
+The ancient, shining and wise seers have, by their praises, established before themselves Bṛhaspati, who by his own power has regulated and made stand the ends of the earth, that is, the ten directions; who by his special sound has pervaded all three worlds; and who has a gladdening tongue.
+
+##### English translation (H. H. Wilson)
+The ancient sages, illustrious, intelligent, have placed before (them)
+the pleasing-tongued Brihaspati, who propped up by (his) strength the ends
+of the earth, and who adides with noise in the three regions.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धु॒नेत॑यः सुप्रके॒तं मदं॑तो॒ बृह॑स्पते अ॒भि ये न॑स्तत॒स्रे ।  
+> पृषं॑तं सृ॒प्रमद॑ब्धमू॒र्व० बृह॑स्पते॒ रक्ष॑तादस्य॒ योनिं॑ ॥ २ ॥
+
+> *dhunetayaḥ supraketaṃ madaṃto bṛhaspate abhi ye nastatasre |*  
+> *pṛṣaṃtaṃ sṛpramadabdhamūrva0 bṛhaspate rakṣatādasya yoniṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धुन्यइतयः । सुप्रकेतं । मदंतः । बृहस्पते । अभि । ये । नः । ततस्रे ।  
+> पृषंतं । सृप्रं । अदब्बं । ऊर्वं । बृहस्पते । रक्षतात् । अस्य । योनिं ॥ २ ॥
+
+> *dhunyaitayaḥ | supraketaṃ | madaṃtaḥ | bṛhaspate | abhi | ye | naḥ | tatasre |*  
+> *pṛṣaṃtaṃ | sṛpraṃ | adabbaṃ | ūrvaṃ | bṛhaspate | rakṣatāt | asya | yoniṃ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हृहस्पते धुनेतयः । धुना शत्रूणां कंपयित्रितिर्गतिर्येषां ते ।
+> तादृशाः सुप्रकेतं शोभनप्रज्ञं त्वां मदंतो मादयंतो नोऽस्मत्संबंधिनो
+> य ऋत्विजोऽभि ततस्रे आत्मानमुपक्षिपंति स्तुवंति वा अस्यैषां योनिं कारणं
+> यज्ञं यजमानं ना मां रक्षकात् । रक्ष । योनिर्विशेष्यते । पृषंतं फलानि
+> सिंचंतं सृप्रं सर्पणस्वभावमदब्धमहिंसितमूर्वमुरुं ॥
+
+##### Gist of the bhāṣya
+
+O Bṛhaspati! धुनेतयः (*dhunetayaḥ*): those whose course (*gatiḥ*) shakes enemies. Such officiating priests of ours, delighting you who are of good understanding (सुप्रकेतं (*supraketaṃ*)), अभि ततस्रे (*abhi tatasre*): cast themselves toward you, or praise you. Protect (रक्षतात् (*rakṣatāt*) = रक्ष (*rakṣa*)) the source (योनिं (*yoniṃ*)), the cause, of these: the sacrifice, the sacrificer, me (ना मां (*nā māṃ*)). The *yoniḥ* is qualified: पृषंतं (*pṛṣaṃtaṃ*) is sprinkling fruits; सृप्रं (*sṛpraṃ*) is of a gliding nature; *adabdhaṃ* is unharmed; ऊर्वं (*ūrvaṃ*) is wide.
+
+### Printed p. 503
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- धुनेतयः (*dhunetayaḥ*)—who strike fear into enemies
+- सुप्रकेतं (*supraketaṃ*)—you of excellent understanding
+- मदंतः (*madaṃtaḥ*)—and who gladden (you)
+- ये (*ye*)—which
+- नः (*naḥ*)—for us
+- अभि ततस्रे (*abhi tatasre*)—priests (or sacrificers) who have praised you abundantly: of such priests
+- पृषंतं (*pṛṣaṃtaṃ*)—that which bestows fruit
+- सृप्रं (*sṛpraṃ*)—that which is of an advancing nature
+- अदब्बं (*adabbaṃ*)—that which is unharmed
+- ऊर्वं (*ūrvaṃ*)—and that which is extended
+- अस्य योनिं (*asya yoniṃ*)—this sacrifice
+- रक्षतात् (*rakṣatāt*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati! Protect this sacrifice, which is fruit-bestowing, of a nature that advances without obstacle, unharmed and extended, performed by those priests who strike fear into enemies, who serve you of excellent understanding and bring you delight, and who have praised you abundantly for us.
+
+##### English translation (H. H. Wilson)
+Brihaspathi, protect the fruit-yielding, progressive, uninjured, ample sacrifice of this (your worshipper, at which) they who are the terrifiers, (of foes), the delighters of you who are possessed of great wisdom, glorify (you) in our behalf.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॑स्पते॒ या प॑र॒मा प॑रा॒वदत॒ आ त॑ ऋत॒स्पृशो॒ नि षे॑दुः ।  
+> तुभ्यं॑ खा॒ता अ॑व॒ता अद्रि॑दुग्धा॒ मध्वः॑ शोतंत्य॒भितो॑ विर॒प्यं ॥
+
+> *bṛhaspate yā paramā parāvadata ā ta ṛtaspṛśo ni ṣeduḥ |*  
+> *tubhyaṃ khātā avatā adridugdhā madhvaḥ śotaṃtyabhito virapyaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पते । या । परमा । परावत् । अतः । आ । ते । ऋत्सृशः । नि । सेदुः ।  
+> तुभ्यं । खाताः । अवताः । अद्रिदुग्धाः । मध्वः । श्चोतंति । अभितः । विरप्यं ॥ ३ ॥
+
+> *bṛhaspate | yā | paramā | parāvat | ataḥ | ā | te | ṛtsṛśaḥ | ni | seduḥ |*  
+> *tubhyaṃ | khātāḥ | avatāḥ | adridugdhāḥ | madhvaḥ | ścotaṃti | abhitaḥ | virapyaṃ ‖ 3 ‖*
+
+### Printed p. 504
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहस्पते येत्यादिके द्वे बार्हस्पत्ये पशौ वपापुरोडाशयोरनुवाक्ये ।
+> बृहस्पते या परमा परावदिति द्वे । आ. ३-७ । इति हि सूत्रितं ॥
+> हे बृहस्पते या प्रसिद्धा परमोत्कृष्टा परावदत्यंतं दूरभूता वसतिः
+> स्वर्गाख्यास्ति । यद्वा लिंगव्यत्ययः । परमं स्थानमस्ति । अतोऽस्माद्देशादा । आ
+> इत्यर्वागर्थे । अधस्तात्ते तव संबंधिन ऋतस्पृशो यज्ञं स्पृशंतोऽश्वा नि
+> षेदुः । निषण्णा भवंति । तुभ्यं खाता अवताः । लुप्तोपमैषा । यथा खाताः कूपा
+> अभितः श्चोतंति तद्वदद्रिदुग्धा ग्रावभिरभिषुताः सोमा विरप्यं विशेषेण शब्देन
+> स्तोत्रं यथा भवति तथा मध्वो मधुररसं श्चोतंति । स्रवंति ॥
+
+##### Gist of the bhāṣya
+
+The two Ṛks beginning बृहस्पते या (*bṛhaspate yā*) are the anuvākyās for the vapā and the puroḍāśa in the Bārhaspatya animal sacrifice; it is so laid down in the sūtra बृहस्पते या परमा परावदिति द्वे (*bṛhaspate yā paramā parāvaditi dve*) (Ā. 3-7). O Bṛhaspati! There is that famed, supreme, utterly distant abode called heaven; or, by change of gender, a supreme place. From that region, down here (आ (*ā*) is in the sense "on this side"), your horses that touch the sacrifice (ऋतस्पृशः (*ṛtaspṛśaḥ*)) have sat down. तुभ्यं खाता अवताः (*tubhyaṃ khātā avatāḥ*) is a simile with the word of comparison omitted: as dug wells overflow all round, so the Somas pressed by the stones (अद्रिदुग्धाः (*adridugdhāḥ*)) flow, run, as sweet juice (मध्वः (*madhvaḥ*)), with विरप्यं (*virapyaṃ*), that is, in such a way that there is praise with a special sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- या (*yā*)—which famed
+- परमा (*paramā*)—most excellent
+- परावत् (*parāvat*)—and distant: if there is an abode in the form of heaven
+- अत आ (*ata ā*)—from there, descended
+- ऋतस्पृशः (*ṛtaspṛśaḥ*)—touching the sacrifice
+- ते (*te*)—your horses
+- नि षेदुः (*ni ṣeduḥ*)—have come and sat (at the place of sacrifice)
+- खाताः (*khātāḥ*)—dug
+- अवताः (*avatāḥ*)—like wells
+- तुभ्यं (*tubhyaṃ*)—for you
+- अद्रिदुग्धाः (*adridugdhāḥ*)—pressed and crushed by the pressing stones
+- मध्वः (*madhvaḥ*)—the Soma juices
+- अभितः (*abhitaḥ*)—all around
+- विरप्यं (*virapyaṃ*)—making in many ways a sound of praise
+- श्चोतंति (*ścotaṃti*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati! From that famed, most excellent, distant abode called heaven, your horses, which touch the sacrifice, have descended and sat down at the place of sacrifice. As water gushes like a spring from a newly dug well, so for you the Soma juices, crushed and pressed by the stones, flow all around, making in many ways a sound of praise.
+
+##### English translation (H. H. Wilson)
+Those (steeds), Brihaspati, which had come from that distant
+(region), the best (of all), have sat down in connection with the ceremony,
+and to you the Some juices expressed by the stones flow copiously,
+(accompanied) by the sounds of praise, like deep wells that supply water.
+
+### Printed p. 505
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, beginning बृहस्पते या (*bṛhaspate yā*), and the Ṛk after it are to be used as anuvākyā mantras when the vapā and the puroḍāśa are offered in the animal sacrifice relating to Bṛhaspati; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra बृहस्पते या परमा परावदिति द्वे (*bṛhaspate yā paramā parāvaditi dve*) (Ā. 3-2). **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॒स्पतिः॑ प्रथ॒मं जाय॑मानो म॒हो ज्योति॑षः पर॒मे  ॑
+> व्योमन् ।  
+> स॒प्तास्य॑स्तु विजा॒तो रवे॑ण॒ वि स॒प्तर॑श्मिरधम॒त्तमां॑सि ॥ ४ ॥
+
+> *bṛhaspatiḥ prathamaṃ jāyamāno maho jyotiṣaḥ parame*  
+> *vyoman |*  
+> *saptāsyastu vijāto raveṇa vi saptaraśmiradhamattamāṃsi ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पतिः । प्रथमं । जायमानः । महः । ज्योतिषः । परमे । विओमन् ।  
+> सप्तआस्यः । तुविजातः । रवेण । वि । सप्तरश्मिः । अधमत् । तमांसि ॥ ४ ॥
+
+> *bṛhaspatiḥ | prathamaṃ | jāyamānaḥ | mahaḥ | jyotiṣaḥ | parame | vioman |*  
+> *saptaāsyaḥ | tuvijātaḥ | raveṇa | vi | saptaraśmiḥ | adhamat | tamāṃsi ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं बृहस्पतिर्मंत्राभिमानी देवो महो महतो ज्योतिषो दीप्तस्यादित्यस्य परमे निरतिशये व्योमन् व्योमनि प्रथमं जायमानः प्रादुर्भवन्
+> सप्तास्यः सप्तच्छंदोमयमखस्तुविजातो बहुप्रकारं संभूतो रवेण शब्देन
+> सप्तरश्मिः सर्पणस्वभावतेजोयुक्तस्तमांसि व्यधमत् । धमतिर्गतिकर्मेति निरुक्तं ।
+> ६-२ । विविधं गच्छति । नाशयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Bṛhaspati, the god who presides over the mantra, being born first in the highest, unsurpassed sky (व्योमन् (*vyoman*)) of the great (महः (*mahaḥ*)), shining sun (ज्योतिषः (*jyotiṣaḥ*)), appearing there, is सप्तास्यः (*saptāsyaḥ*), of a mouth made of the seven metres; तुविजातः (*tuvijātaḥ*), born in many ways; with रवेण (*raveṇa*), sound; सप्तरश्मिः (*saptaraśmiḥ*), endowed with a gliding, fiery radiance. He scattered (व्यधमत् (*vyadhamat*)) the darknesses. "धमतिर्गतिकर्मेति निरुक्तं (*dhamatirgatikarmeti niruktaṃ*)" (Ni. 6-2): he moves in different directions, that is, he destroys.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- महः (*mahaḥ*)—of the great
+- ज्योतिषः (*jyotiṣaḥ*)—luminous
+- परमे (*parame*)—in the excellent
+- व्योमन् (*vyoman*)—sky
+- प्रथमं (*prathamaṃ*)—first
+- जायमानः (*jāyamānaḥ*)—having been born
+- सप्तास्यः (*saptāsyaḥ*)—having a mouth in the form of the seven metres
+- तुविजातः (*tuvijātaḥ*)—born in many ways
+- रवेण (*raveṇa*)—mingled with sound
+- सप्तरश्मि (*saptaraśmi*)—endowed with seven rays **NOTE**
+- तमांसि (*tamāṃsi*)—the black darknesses
+- व्यधमत् (*vyadhamat*)—destroyed
+
+### Printed p. 506
+
+##### भावार्थ (Bhāvārtha)
+
+Bṛhaspati, being born first in the excellent sky of the great, luminous sun, being one whose mouth is in the form of the seven metres, born in many ways, mingled with sound and endowed with seven rays, destroyed the black darknesses.
+
+##### English translation (H. H. Wilson)
+Brihaspati, when first being born in the highest heaven of supreme
+light, seven-mouthed, multiform, (comdined) with sound, and seven-rayed,
+has subdued the darkness.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सु॒ष्टुभा॒ स ऋक्व॑ता ग॒णेन॑ व॒लं रु॑रोज फलि॒गं रवे॑ण ।  
+> बृह॒स्पति॑रु॒स्रिया॑ हव्य॒सूदः॒ कनि॑क्रद॒द्वाव॑शती॒रुदा॑जत् ॥ ५॥
+
+> *sa suṣṭubhā sa ṛkvatā gaṇena valaṃ ruroja phaligaṃ raveṇa |*  
+> *bṛhaspatirusriyā havyasūdaḥ kanikradadvāvaśatīrudājat ‖ 5‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सुस्तुभा । सः । ऋक्वता । गणेन । वलं । रुरोज । फलिगं । रवेण ।  
+> बृहस्पतिः । उस्रियाः । हव्यसूदः । कनिक्रदत् । नावशतीः । उत् । आजत् ॥ ५ ॥
+
+> *saḥ | sustubhā | saḥ | ṛkvatā | gaṇena | valaṃ | ruroja | phaligaṃ | raveṇa |*  
+> *bṛhaspatiḥ | usriyāḥ | havyasūdaḥ | kanikradat | nāvaśatīḥ | ut | ājat ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स बृहस्पतिः सुष्टुभा शोभनस्तुतिमतर्क्वता दीप्तिमता गणेनांगिरसां रवेण
+> शब्देन च सह फलिगं ॥ इफला विशरणे ॥ फलिर्भेदः । तेन गच्छतीति फलिगं । वलं
+> वलनामानमसुरं रुरोज। बभंज । द्वितीयः सशब्दः पूरणः । स एव देव उस्रिया
+> भोगानामुत्साविणीर्हव्यसूदः क्षीरादिहविप्रेरिका वावशतीर्वावश्यमाना गा
+> कनिक्रदत् शब्दं कुर्वन्नुदाजत् । उद्घाटयति स्म ॥
+
+##### Gist of the bhāṣya
+
+That Bṛhaspati, together with the company of the Aṅgirases, which has good praise (सुष्टुभा (*suṣṭubhā*)) and is shining (ऋक्वता (*ṛkvatā*)), and together with sound (रवेण (*raveṇa*)), broke (रुरोज (*ruroja*), बभंज (*babhaṃja*)) the asura named Vala, फलिगं (*phaligaṃ*): the root फल (*phala*) is in the sense of splitting; *phaliḥ* is splitting, and one who goes by it is फलिगं (*phaligaṃ*). The second स (*sa*) is for completion. The same god, crying out, drove out the cows (उस्रिया (*usriyā*): yielders of enjoyments; हव्यसूदः (*havyasūdaḥ*): sending forth oblations such as milk; नावशतीः (*nāvaśatīḥ*): lowing), that is, he opened them out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same famed
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- सुष्टुभा (*suṣṭubhā*)—having excellent praises
+- ऋक्वता (*ṛkvatā*)—and shining
+- गणेन (*gaṇena*)—with the company (of the Aṅgirases)
+- रवेण (*raveṇa*)—and with sound, together
+- फलिगं (*phaligaṃ*)—of evil mind
+- वलं (*valaṃ*)—the asura named Vala
+
 ---
 
-**Progress note:** Done through printed p. 500. pp. 494-500 (batch API)
+**Progress note:** Done through printed p. 506. pp. 501-506 (batch API)
