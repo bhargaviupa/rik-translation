@@ -20023,6 +20023,205 @@ That Bṛhaspati, together with the company of the Aṅgirases, which has good p
 - फलिगं (*phaligaṃ*)—of evil mind
 - वलं (*valaṃ*)—the asura named Vala
 
+### Printed p. 507
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुरोज (*ruroja*)—split asunder
+- सः (*saḥ*)—that same Bṛhaspati
+- उस्रियाः (*usriyāḥ*)—the boon-giving
+- हव्यसूदः (*havyasūdaḥ*)—those that yield milk and the like, the means of oblation
+- वावशतीः (*vāvaśatīḥ*)—and that were lowing; the cows
+- कनिक्रदत् (*kanikradat*)—himself making sound
+- उदाजत् (*udājat*)—released them so that they roam freely
+
+##### भावार्थ (Bhāvārtha)
+
+The world-renowned Bṛhaspati, together with the host of the Aṅgirases, who are possessed of excellent praises and are radiant, made sound (reciting mantras) and split asunder the evil-minded asura named Vala. That same Bṛhaspati released the cows, which are boon-giving, which yield milk and the like that are the means of the oblation, and which were lowing; making sound like them, he freed them and made them roam freely.
+
+##### English translation (H. H. Wilson)
+(Aided) by the praised and brilliant troop (of the Angirasas), he destroyed with sound the mischievous Vala : Brisahpati, shouting aloud, set free the boon-bestowing, oblation-supplying cows.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा पि॒त्रे वि॒श्वदे॑वाय॒ वृष्णे॑ य॒ज्ञैर्वि॑धेम॒ नम॑सा ह॒विर्भिः॑ ।  
+> बृह॑स्पते सुप्र॒जा वी॒रवं॑तो व॒यं स्या॑म॒पत॑यो रयी॒णां॥
+
+> *evā pitre viśvadevāya vṛṣṇe yajñairvidhema namasā havirbhiḥ |*  
+> *bṛhaspate suprajā vīravaṃto vayaṃ syāmapatayo rayīṇāṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । पित्रे । विश्वदेवाय । वृष्णे । यज्ञैः । विधेम । नमसा । हविभिः ।  
+> बृहस्पते । सुप्रजाः । वीरवंतः । वयं । स्याम । पतॆयः । रयाणां ॥ ६ ॥
+
+> *eva | pitre | viśvadevāya | vṛṣṇe | yajñaiḥ | vidhema | namasā | havibhiḥ |*  
+> *bṛhaspate | suprajāḥ | vīravaṃtaḥ | vayaṃ | syāma | patèyaḥ | rayāṇāṃ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवा पित्र इति बार्हस्पत्ये पशौ हविषो याज्या । एवा पित्रे विश्वदेवाय
+> वृष्णे विश्वे अद्य मरुतो विश्व ऊती । आ. ३-७ । इति सूत्रितत्वात् ॥ अग्निष्टोमे
+> वैश्वदेवशस्त्र एषैव धाय्या । तथा च सूत्रं । एवा पित्रे विश्वदेवाय वृष्ण आ नो
+> भद्राः क्रतवो यंतु विश्वतः । आ. ५-१८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The verse एवा पित्रे (*evā pitre*) is the yājyā for the oblation in the animal sacrifice sacred to Bṛhaspati, since it is so prescribed in the sūtra एवा पित्रे विश्वदेवाय वृष्णे विश्वे अद्य मरुतो विश्व ऊती (*evā pitre viśvadevāya vṛṣṇe viśve adya maruto viśva ūtī*) (Ā. Sū. 3-7). In the Agniṣṭoma this same verse is the dhāyyā in the Vaiśvadeva śastra; and the sūtra says so: एवा पित्रे विश्वदेवाय वृष्ण आ नो भद्राः क्रतवो यंतु विश्वतः (*evā pitre viśvadevāya vṛṣṇa ā no bhadrāḥ kratavo yaṃtu viśvataḥ*) (Ā. Sū. 5-18).
+
+### Printed p. 508
+
+> पित्रे पालकाय विश्वदेवाय सर्वदेवतारूपाय । देवानां मंत्रप्रतिपाड्यत्वादस्य च मंत्राभिमानित्वाद्वैश्वदेवत्वं । यद्वा । अत्र देवशब्दः स्तुत्यर्थः ।
+> सर्वैः स्तुत्याय वृष्णे वर्षकाय बृहस्पतये देवाय्कॆवैवममुक्तप्रकारेण
+> यज्ञैस्तत्साधनैर्हविर्भिराज्यचर्वादिलक्षणैर्नमसा स्तुत्या च विधेम । परिचरेम ।
+> हे बृहस्पते सुप्रजाः शोभनपुत्रा वीरवंतो वीर्योपेता वयं रयाणां
+> धनानां पतयः स्याम ॥
+
+##### Gist of the bhāṣya
+
+पित्रे (*pitre*) means "to the protector"; विश्वदेवाय (*viśvadevāya*) means "to him who is of the form of all the gods". Since the gods are conveyed by the mantra and he is the presiding deity of the mantra, he is Vaiśvadeva. Or else, the word देव (*deva*) here has the sense of "one to be praised": to Bṛhaspati, who is to be praised by all. वृष्णे (*vṛṣṇe*) means "the rainer". In the manner thus stated, we would serve (विधेम (*vidhema*)) him with sacrifices, that is, their means, with oblations such as ghee and cooked rice, and with praise (नमसा (*namasā*)). "O Bṛhaspati, may we, having good offspring, heroic and endowed with valour, become lords of riches (रयाणां (*rayāṇāṃ*) = of wealth)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पित्रे (*pitre*)—to the protector
+- विश्वदेवाय (*viśvadevāya*)—to the one who is the soul of all the deities
+- वृष्णे (*vṛṣṇe*)—to the showerer of desires; that is, addressing Bṛhaspati
+- एव (*eva*)—in the manner prescribed
+- यज्ञैः (*yajñaiḥ*)—with the means of sacrifice
+- हविर्भिः (*havirbhiḥ*)—with oblations
+- नमसा (*namasā*)—with praise
+- विधेम (*vidhema*)—let us worship
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- वयं (*vayaṃ*)—we
+- सुप्रजाः (*suprajāḥ*)—having excellent sons
+- वीरवंतः (*vīravaṃtaḥ*)—and endowed with valour
+- रयाणां (*rayāṇāṃ*)—of wealth
+- पतयः (*patayaḥ*)—lords
+- स्याम (*syāma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+Addressing Bṛhaspati, the protector of the world, the soul of all the deities, the showerer of desires, let us worship him in the manner prescribed, with oblations that are the means of sacrifice and with praise. O Bṛhaspati, grant that we may have excellent sons, be endowed with valour, and become lords of wealth.
+
+##### English translation (H. H. Wilson)
+Thus may we offer worship with sacrifices, with oblations, with praise, to the paternal, uvuniversal deity, the showerer (of benefits) ; and may we, Brihaspati, become possessed of riches, and be blessed with excellent progeny and valiant descendants.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this verse एवा पित्रे (*evā pitre*) is to be recited as the yājyā mantra when the oblation is offered in the animal sacrifice sacred to Bṛhaspati is expounded by the sūtra of the Āśvalāyana Śrauta-sūtra एवा पित्रे विश्वदेवाय वृष्णे विश्वे अद्य मरुतो विश्व ऊती (*evā pitre viśvadevāya vṛṣṇe viśve adya maruto viśva ūtī*) (Ā. 3-7). And that this same verse is to be recited as the dhāyyā mantra when the Vaiśvadeva śastra is recited in the Agniṣṭoma sacrifice is expounded by the sūtra of the Āśvalāyana Śrauta-sūtra एवा पित्रे विश्वदेवाय वृष्ण आ नो भद्राः क्रतवो यंतु विश्वतः (*evā pitre viśvadevāya vṛṣṇa ā no bhadrāḥ kratavo yaṃtu viśvataḥ*) (Ā. 5-18).
+
+### Printed p. 509
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इद्राजा॒ प्रति॑जन्यानि॒ विश्वा॒ शुष्मे॑ण तस्थाव॒भि वी॒र्ये॑ण ।  
+> बृह॒स्पतिं॒ यः सुभृ॑तं बि॒भर्ति॑ वल्गू॒यति॒ वंद॑ते पूर्व॒भाजं॑॥
+
+> *sa idrājā pratijanyāni viśvā śuṣmeṇa tasthāvabhi vīryeṇa |*  
+> *bṛhaspatiṃ yaḥ subhṛtaṃ bibharti valgūyati vaṃdate pūrvabhājaṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । राजा । प्रतिजन्यानि । विश्वा । शुष्मेण । तस्थौ । अभि । वीर्येण ।  
+> बृहस्पतिं । यः । सुभृतं । बिभर्ति । वल्गुयति । वदंते । पूर्वभाजं ॥ ७ ॥
+
+> *saḥ | it | rājā | pratijanyāni | viśvā | śuṣmeṇa | tasthau | abhi | vīryeṇa |*  
+> *bṛhaspatiṃ | yaḥ | subhṛtaṃ | bibharti | valguyati | vadaṃte | pūrvabhājaṃ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमाद्यक्रयं पुरोहितप्रशंसेति ब्राह्मणं ॥ ऐ. ब्रां. ८-२६ । अथवा
+> सूक्तस्य ऋग्वयवर्जितस्य बार्हस्पत्यत्वादृहस्पतेरेव स्तुतिः । स इत्स एव राजा
+> मूर्धाभिषिक्कोऽन्यो वा राजमानः प्रतिजन्यानि । जन्यं युद्धं प्रति बलानीत्यर्थः।
+> प्रत्यर्थिजनपदानि वा तानि विश्वा सर्वाणि शुष्मेण बलेन वीर्येण शरीरसामर्थ्येन
+> नाभि अभिगम्याक्रम्य तस्मै । तिष्ठति । स इत्युक्तं क इत्याह । यो बृहस्पतिं बृहतां
+> महतां पालयितारं देवमुक्तलक्षणं पुरोहितं वा सुभृतं सुष्टु हविःस्तोत्रादिनान्नाच्छादनादिना वा बिभर्ति भरति । वल्लूयति स्तौति । वंदते नमस्करोति च
+> पूर्वभाजमितरेभ्यः प्रथमसंभक्तारं कृत्वा । एवं यः करोति स एव तस्थाविति ॥
+
+##### Gist of the bhāṣya
+
+The Brāhmaṇa says: इदमाद्यक्रयं पुरोहितप्रशंसेति ब्राह्मणं (*idamādyakrayaṃ purohitapraśaṃseti brāhmaṇaṃ*) (Ai. Brā. 8-26) **NOTE**. Or else, since the sūkta, apart from the verses excepted, is sacred to Bṛhaspati, it is praise of Bṛhaspati alone. स इत् (*sa it*): that very one, a king, one anointed on the head or another who shines as a king, (stands over) प्रतिजन्यानि (*pratijanyāni*): जन्यं (*janyaṃ*) is battle, so the meaning is "forces facing the battle"; or else, the lands of hostile peoples. All of these (विश्वा (*viśvā*)) he overcomes by शुष्मेण (*śuṣmeṇa*), strength, and by वीर्येण (*vīryeṇa*), bodily power, having approached and attacked them; he stands. **NOTE**. "Who is that one?" he says: he who supports well (सुभृतं बिभर्ति (*subhṛtaṃ bibharti*)) Bṛhaspati, the protector of the great, the deity of the stated character, or the purohita, with oblation and praise, with food, clothing and the like; who praises (वल्गूयति (*valgūyati*)) and salutes (वंदते (*vaṃdate*)) him, having made him the first sharer (पूर्वभाजं (*pūrvabhājaṃ*)) before the others. He who does thus alone stands victorious.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the king who
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- पूर्वभाजं (*pūrvabhājaṃ*)—making him receive the oblation before the other deities
+- सुभृतं (*subhṛtaṃ*)—with excellent oblations and the like
+- बिभर्ति (*bibharti*)—supports
+- वल्ग्योति (*valgyoti*)—praises
+- वंदते (*vaṃdate*)—salutes
+- स इत् राजा (*sa it rājā*)—that king alone
+- विश्वा (*viśvā*)—all
+- प्रतिजन्यानि (*pratijanyāni*)—the enemy armies as well
+- शुष्मेण (*śuṣmeṇa*)—by his strength
+- वीर्येण (*vīryeṇa*)—by valour
+- अभि तस्थौ (*abhi tasthau*)—attacks and becomes victorious
+
+##### भावार्थ (Bhāvārtha)
+
+The king who at the times of sacrifice assigns to Bṛhaspati the first place in receiving the oblation, and worships him with excellent oblations and vessels of oblation, with praises and with salutations—that king alone attacks all the enemy armies by his strength and valour and becomes victorious.
+
+### Printed p. 511
+
+##### विशेषविषयगळु (Special Topics)
+
+बृहस्पतिं यः सुभृतं बिभर्तिति बृहस्पतिर्ह वै देवानां पुरोहितस्तमन्वन्ये मनुष्यराज्ञां पुरोहिता बृहस्पतिं यः सुभृतं बिभर्तिति यदाह पुरोहितं यः सुभृतं बिभर्तित्येव तदाह । वल्ग्ययति वंदते पूर्वभाजमित्यपचितिमेवास्मा एतदाह । ई (*bṛhaspatiṃ yaḥ subhṛtaṃ bibhartiti bṛhaspatirha vai devānāṃ purohitastamanvanye manuṣyarājñāṃ purohitā bṛhaspatiṃ yaḥ subhṛtaṃ bibhartiti yadāha purohitaṃ yaḥ subhṛtaṃ bibhartityeva tadāha | valgyayati vaṃdate pūrvabhājamityapacitimevāsmā etadāha | ī*)
+He explains the third pāda of this verse: बृहस्पतिं यः सुभृतं बिभर्ति (*bṛhaspatiṃ yaḥ subhṛtaṃ bibharti*) is the third pāda. This agrees with the statement made earlier, that the king who keeps and nourishes within his house a purohita equal to Bṛhaspati conquers his enemies. Bṛhaspati is the purohita of the gods. Following that Bṛhaspati, human purohitas too stay close to the king. Therefore, when the matter of purohitas is taken up, it is usual to call them by the word Bṛhaspati itself. Now he explains the meaning of the fourth pāda: the king assigns to his purohita the foremost place, that is, excellent position and honour; he worships him and salutes him.
+
+स इत्कोति सुधित ओकसि स्व इति गृहा वा ओकः स्वेष्टेव तद्गृहेषु सुहितो वसति । तस्मा इळा पिन्नते विश्वदानीमित्यन्नं ना इळान्नमेवास्मा एतदूर्जस्वच्छश्वद्भवति। तस्मै विशः स्वयमेवानमंत इति राष्ट्राणि वै विशो राष्ट्राण्यैवैनं तत्त्वयमुपनमंति । यस्मिन्र्यह्मा राजनि पूर्व एतीति पुरोहितमेवैतदाह ॥ (*sa itkoti sudhita okasi sva iti gṛhā vā okaḥ sveṣṭeva tadgṛheṣu suhito vasati | tasmā iḷā pinnate viśvadānīmityannaṃ nā iḷānnamevāsmā etadūrjasvacchaśvadbhavati| tasmai viśaḥ svayamevānamaṃta iti rāṣṭrāṇi vai viśo rāṣṭrāṇyaivainaṃ tattvayamupanamaṃti | yasminryahmā rājani pūrva etīti purohitamevaitadāha ‖*)
+He explains the meaning of the second verse: the purohita, honoured by the king, being well pleased, dwells in his own well-appointed house. The word ओकः (*okaḥ*) means house. To the king who is joined with such a purohita there is abundance of food at all times. Here the word इळा (*iḷā*) means food. ऊर्ज (*ūrja*) means sap. To that king there is always abundance of food and abundance of sap such as milk. Such a king his subjects (without compulsion from others) bow to and honour of their own accord, that is, with joy. The word विट् (*viṭ*) in this pāda means the subjects of the realm, or the whole realm together with its subjects. The king near whom a Brahmin purohita stays and gives him good counsel has the highest place in the country or realm. He is honoured by all.
+
+अप्रतीतो जयति सं धनानीति राष्ट्राणि वै धनानि तान्यप्रतीतो जयति । प्रतिजन्यान्युत या सजन्येति सपत्ना वै द्विषंतो भ्रातृव्या जन्यानि तानप्रतीतो जयति । अवस्यवे यो वरिवः कृणोतीति यदाहावसीयसे योऽवसीयः करोतीत्येव तदाह । ब्रह्मणे राजा तमवंति देवा इति पुरोहितमेवैतदभिवदति । (*apratīto jayati saṃ dhanānīti rāṣṭrāṇi vai dhanāni tānyapratīto jayati | pratijanyānyuta yā sajanyeti sapatnā vai dviṣaṃto bhrātṛvyā janyāni tānapratīto jayati | avasyave yo varivaḥ kṛṇotīti yadāhāvasīyase yo 'vasīyaḥ karotītyeva tadāha | brahmaṇe rājā tamavaṃti devā iti purohitamevaitadabhivadati |*) (Ai. Brā. 40-26)
+
+He explains the meaning of the third verse: the king who has a purohita easily conquers and brings under his control the wealthy realm of his enemies without any resistance. The word अप्रतीतः (*apratītaḥ*) means free from hostile enemies, unobstructed. The word धन (*dhana*) in this pāda means realms. The sense is that he conquers such enemy realms without any resistance. जन्यानि (*janyāni*) means enemies; सजन्या (*sajanyā*) means enemies together with their armies. Such enemies the king easily conquers. He explains the meaning of the latter half: the king who honours his Brahmin purohita, who is without wealth, that is, poor, by giving him wealth and the like, him the gods always protect. Here the word ब्रह्मणे (*brahmaṇe*) indicates the meaning "to the purohita".
+
+In the Aitareya Brāhmaṇa the relation that should exist between purohita and king, the duties of the purohita and similar matters are stated. That very thing is explained here—
+(The need for a king to appoint a purohita—the way to satisfy the Āhavanīya and other fires—the way to escape five kinds of evils)
+
+अथातः पुरोधाया एव । न ह ना अपुरोहितस्य राज्यो देवा अन्नमदंति तस्माद्राजा यक्ष्यमाणो ब्राह्मणं पुरो दधीत देवा मेऽन्न मदन्निति । (*athātaḥ purodhāyā eva | na ha nā apurohitasya rājyo devā annamadaṃti tasmādrājā yakṣyamāṇo brāhmaṇaṃ puro dadhīta devā me 'nna madanniti |*) (Ai. Brā. 40-24)
+
+Now the rules and the course of action of the office of purohita will be explained. If a king, without appointing a purohita, himself performs sacrifices and the like, then in such a sacrifice the gods do not accept that king's oblation (food). Therefore the king should appoint as his purohita one Brahmin who is accomplished in Vedic study, born of a good family and accomplished in observance and conduct. With that purohita's help he should perform sacrifices and the like and satisfy the gods. For in protecting his subjects the king must necessarily perform sacrifices and the like, so that the subjects may live happily, rain may fall in due season, and the kingdom may be free of disease and the like and of calamities such as famine. Since the purohita is necessary for this work, the king should appoint a purohita.
+
+अग्नीन्वा एष स्वर्ग्यान्नाजोद्धरते यत्पुरोहितं । तस्य पुरोहित एवाहवनीयो भवति जाया गार्हपत्यः पुत्रोऽन्वाहार्यपचनः स यत्पुरोहिताय करोत्याहवनीय एव तज्जु होत्यथ यज्जायाय्कॆ करोति गार्हपत्य एव तज्जु होत्यथ यत्पुत्राय करोत्यन्वाहार्यपचन एव तज्जु होति त एनं शांततनवोऽभिहुता अभिप्रीताः स्वर्गं लोकमभिवहंति क्षत्रं च बलं च राष्ट्रं च विशं च । (*agnīnvā eṣa svargyānnājoddharate yatpurohitaṃ | tasya purohita evāhavanīyo bhavati jāyā gārhapatyaḥ putro 'nvāhāryapacanaḥ sa yatpurohitāya karotyāhavanīya eva tajju hotyatha yajjāyāykè karoti gārhapatya eva tajju hotyatha yatputrāya karotyanvāhāryapacana eva tajju hoti ta enaṃ śāṃtatanavo 'bhihutā abhiprītāḥ svargaṃ lokamabhivahaṃti kṣatraṃ ca balaṃ ca rāṣṭraṃ ca viśaṃ ca |*)
+
+### Printed p. 512
+
+##### English translation (H. H. Wilson)
+That prince overcomes by his strength and prowess all hostile people,
+who cherishes liberally Brihaspati, and glorifies and honours him as the
+first sharer (of the offering).
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator says that this verse and the next two verses as well are, as the Brāhmaṇa says, इदमाद्यक्रयं पुरोहितप्रशंसा इति ब्राह्मणं (*idamādyakrayaṃ purohitapraśaṃsā iti brāhmaṇaṃ*) (Ai. Brā. 8-26), a praise of the purohita; or else, बार्हस्पत्यत्वात् बृहस्पतेरेव स्तुतिः (*bārhaspatyatvāt bṛhaspatereva stutiḥ*), that is, in this sūkta, leaving aside the last two verses that have Indra and Bṛhaspati as deities, the remaining nine verses are praise of Bṛhaspati alone. And further—
+बृहस्पतिर्देवानां पुरोहित आसीच्छंडामर्कावसुराणां (*bṛhaspatirdevānāṃ purohita āsīcchaṃḍāmarkāvasurāṇāṃ*) (Tai. Saṃ. 6-4-10-1)
+so it is said in the Taittirīya Saṃhitā. That is, Bṛhaspati is well known as the purohita of the gods, and Śaṇḍāmarka as the purohitas of the asuras. Therefore what a purohita is, what his duty is, what his position and honour are, and like matters are explained here, just as they are stated in the Aitareya Brāhmaṇa—
+
+The position and honour of the purohita
+तदप्येतदृषिणोक्तं-स इद्राजा प्रतिजन्यानि विश्वा तस्थावभि वीर्येणेति सपत्ना वै द्विषंतो भ्रातृव्या जन्यानि तानेव तच्छुष्टेण वीर्येणाधितिष्ठति । (*tadapyetadṛṣiṇoktaṃ-sa idrājā pratijanyāni viśvā tasthāvabhi vīryeṇeti sapatnā vai dviṣaṃto bhrātṛvyā janyāni tāneva tacchuṣṭeṇa vīryeṇādhitiṣṭhati |*) (Ai. Brā. 40-26)
+
+The power and capacity of the purohita and his greatness have been described by the mantra-seer Vāmadeva in the three verses beginning स इद्राजा प्रतिजन्यानि (*sa idrājā pratijanyāni*) (Ṛ. Saṃ. 4-50-7, 8, 9). The first half of the first of those three mantras is स इद्राजा प्रतिजन्यानि विश्वा शुष्मेण तस्थावभि वीर्येण (*sa idrājā pratijanyāni viśvā śuṣmeṇa tasthāvabhi vīryeṇa*). Its meaning is: the king joined with a purohita overcomes all his enemies by his own capacity. Here सपत्ना (*sapatnā*) means hating enemies. They are explained here by the words भ्रातृव्या (*bhrātṛvyā*) and जन्यानि (*janyāni*). Enemies are people who hate him or whom he hates, who do not wish him well, and who do harm or evil. The sense is that the king joined with a purohita defeats such enemies.
+
+### Printed p. 514
+By appointing a purohita the king, as it were, keeps within himself the very fire that provides him heaven. आग्नेयो वै ब्राह्मणः (*āgneyo vai brāhmaṇaḥ*) (Tai. Brā. 2-7-3-1): the Śruti statement itself is that the Brahmin is of the nature of fire. **NOTE** For the king the purohita is in the position of the fire called Āhavanīya; that is, he must be regarded as the Āhavanīya fire. The purohita's wife is the Gārhapatya fire; his son is the Dakṣiṇāgni. Therefore, if the king gives to the purohita, his wife and his son the wealth and the like that they desire, it is as though he had made offering in the three fires, Āhavanīya, Gārhapatya and Dakṣiṇa, and satisfied Agni. Moreover, if the king performs homa and the like through the purohita, the Āhavanīya and other fires mentioned above give up their fierce form and remain gentle towards the king, fulfil all his wishes, and also provide that king with attainment of heaven and other worlds, with valour in the form of mental courage, with bodily strength (prowess), with the country and with the subjects, and protect the king lovingly.
+
+त एवैनमशांततनवोऽनभिहुता अनभिप्रीताः स्वर्गाल्लोकान्नुदंते क्षत्राच्च बलाच्च राष्ट्राच्च विशश्च । (*ta evainamaśāṃtatanavo 'nabhihutā anabhiprītāḥ svargāllokānnudaṃte kṣatrācca balācca rāṣṭrācca viśaśca |*)
+If the king does not appoint a purohita and does not perform sacrifices and the like through him, then the Āhavanīya and other fires become displeased with the king and bring him evil. They cause that king to have none of these: attainment of heaven, courage of mind, strength, prowess, realm, subjects.
+
+अग्निर्वा एष वैश्वानरः पंचमेनिर्यत्पुरोहितस्तस्य वाच्यैवैका मेनिर्भवति पादयोरेका त्वच्येका हृदय एकोपस्थ एका ताभिर्ज्वलंतीभिर्दिप्यमानाभिरुपोदेति राजानं स यदाह क्व भगवोऽवात्सीस्तृणान्यस्मा आहरतेति तेनास्य तां शमयति यास्य वाचि मेनिर्भवत्यथ यदस्मा उदकमानयंति पाद्यं तेनास्य तां शमयति यास्य पादयोर्मेनिर्भवत्यथ यदेनमलं कुर्वंति तेनास्य तां शमयति यास्य त्वचि मेनिर्भवत्यथ यदेनं तर्पयंति तेनास्य तां शमयति यास्य हृदये मेनिर्भवत्यथ यदस्यानारुद्धो वेश्मसु वसति तेनास्य तां शमयति यास्कोपस्थे मेनिर्भवति । स एनं शांततनुरभिहुतोऽभिप्रीतः स्वर्गं लोकमभिवहति क्षत्रं च बलं च राष्ट्रं च विशं च स एवैनमशांततनुरनभिहुतोऽनभिप्रीतः स्वर्गाल्लोकान्नुदते क्षत्राच्च बलाच्च राष्ट्राच्च विशश्च ॥ (*agnirvā eṣa vaiśvānaraḥ paṃcameniryatpurohitastasya vācyaivaikā menirbhavati pādayorekā tvacyekā hṛdaya ekopastha ekā tābhirjvalaṃtībhirdipyamānābhirupodeti rājānaṃ sa yadāha kva bhagavo 'vātsīstṛṇānyasmā āharateti tenāsya tāṃ śamayati yāsya vāci menirbhavatyatha yadasmā udakamānayaṃti pādyaṃ tenāsya tāṃ śamayati yāsya pādayormenirbhavatyatha yadenamalaṃ kurvaṃti tenāsya tāṃ śamayati yāsya tvaci menirbhavatyatha yadenaṃ tarpayaṃti tenāsya tāṃ śamayati yāsya hṛdaye menirbhavatyatha yadasyānāruddho veśmasu vasati tenāsya tāṃ śamayati yāskopasthe menirbhavati | sa enaṃ śāṃtatanurabhihuto 'bhiprītaḥ svargaṃ lokamabhivahati kṣatraṃ ca balaṃ ca rāṣṭraṃ ca viśaṃ ca sa evainamaśāṃtatanuranabhihuto 'nabhiprītaḥ svargāllokānnudate kṣatrācca balācca rāṣṭrācca viśaśca ‖*) (Ai. Brā. 40-24)
+
+The influence of this purohita is described in another way. The word मेनि (*meni*) used here means the disposition to do harm in anger. The meaning is: just as the flames of a fire burn those who touch them. Therefore the purohita is equal to the fire called Vaiśvānara. In him there are five kinds of मेनि (*meni*), that is, five kinds of power and capacity to do harm. They are: speech, the feet, the skin, the heart, the generative organ; these are the places. In these there are powers and capacities to do harm. The way of removing them and making the purohita calm is this: when the purohita comes to the king, the king should receive that purohita with respect and honour him, and speak kindly words: "O purohita, where have you been all this time? From where have you graciously come?"; and then say to the attendants: "O servants, quickly bring an excellent seat of kuśa grass for the purohita to sit on." By saying so, the मेनि (*meni*) (power to do harm) connected with speech in the purohita is removed, and he becomes appeased towards the king and bestows favour. By bringing water for honouring that purohita, that is, for washing his feet, and attending on him, the मेनि (*meni*) in the feet is quieted. If he is attended with garments, perfumes and the like, the मेनि (*meni*) connected with the skin is calmed. By giving that purohita the wealth and the like that he likes, the मेनि (*meni*) in the heart is calmed. When the king says to the purohita: "Sir, this royal house is yours. Here you have complete freedom. Behaving as you please, you may live here happily. No one will cause you any kind of trouble"—and the like courteous words—the मेनि (*meni*) connected with the generative organ is removed. Therefore such attentions must be paid to a purohita who has come to the house. If he is attended in the prescribed manner, Agni or the purohita becomes gentle in nature towards the king and by the homa and the like that the king performs secures for him the desired ends, heaven and the rest. If it is not so, and the purohita who has come to the house is slighted with contempt, then that king obtains neither heaven and the like nor any of the comforts and riches such as vigour, prowess, strength, realm and subjects.
+
+[Agni protects the king who appoints a purohita and performs sacrifices and the like with his help]
+अग्निर्वा एष वैश्वानरः पंचमेनिर्यत्परोहितस्ताभी राजानं परिगृह्य तिष्ठति समुद्र इव भूमिं । (*agnirvā eṣa vaiśvānaraḥ paṃcameniryatparohitastābhī rājānaṃ parigṛhya tiṣṭhati samudra iva bhūmiṃ |*) (Ai. Brā. 40-25)
+
+The Brahmin purohita whom the king appoints, being endowed with five kinds of मेनि (*meni*), that is, having powers of restraint and favour, is of the very nature of the Vaiśvānara fire. But that purohita, not using his powers and capacities for doing harm against the king, being of a calm nature
+
 ---
 
-**Progress note:** Done through printed p. 506. pp. 501-506 (batch API)
+**Progress note:** Done through printed p. 514. pp. 507-514 (batch API)
