@@ -8310,6 +8310,233 @@ from out of our conveyance.
 
 स्पंदने शिंशपायां ओजः धेहि (*spaṃdane śiṃśapāyāṃ ojaḥ dhehi*)—रथस्य गमने सति शिंशपाख्यदारुनिर्मिते रथस्य फलक ओजो धेहि । (*rathasya gamane sati śiṃśapākhyadārunirmite rathasya phalaka ojo dhehi |*) दार्ढ्यं कुरु (*dārḍhyaṃ kuru*). Make the boards of śiṃśapā wood in the chariot stay firm, neither shaking nor breaking, while the chariot goes fast.
 
+### Printed p. 224
+In the same way, the prayer that the axle-tree too (akṣa) should be firm and not let us fall while the chariot is travelling has been explained.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒युम॒स्मान्वन॒स्पति॒र्मा च॒ हा मा च॑ रीरिषत् ।  
+> स्व॒स्त्या गृ॒हेभ्य॒ आव॒सा आ वि॒मोच॑नात् ॥ २० ॥
+
+> *āyumasmānvanaspatirmā ca hā mā ca rīriṣat |*  
+> *svastyā gṛhebhya āvasā ā vimocanāt ‖ 20 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । अस्मान् । वनस्पतिः । मा । च । हाः । मा । च । रिरिषत् ।  
+> स्वस्ति । आ । गृहेभ्यः । आ । अवस्यै । आ । विमोचनात् ॥ २० ॥
+
+> *ayaṃ | asmān | vanaspatiḥ | mā | ca | hāḥ | mā | ca | ririṣat |*  
+> *svasti | ā | gṛhebhyaḥ | ā | avasyai | ā | vimocanāt ‖ 20 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजमान आत्मनः श्रेय आशास्ते । वनस्पतिर्वनस्पतिनिर्मितोऽयं रथो
+> रथारूढानस्मान् मा च हाः । मा त्याक्षीत् । किंच मा रीरिषत् । आस्मान् मा विनाशयतु । किंचा गृहेभ्यः । यावद्गृहान् प्राप्नुयाम तावदस्मभ्यं स्वस्ति भवतु ।
+> तथावसै । पंचम्यर्थे चतुर्थि । यावद्रथवेगावसानं तावत् । आ विमोचनात् ।
+> यावद्रथयोजिताश्वविमोचनं तावत् स्वस्ति भवतु ॥ हाः । ओहाक् त्यागे ; लुजि
+> मंत्रे घसेत्यादिना सिचो लुक् । पुरुषव्यत्ययः । चवायोगे प्रथमेति न
+> निघातः । रीरिषत् । रिष हिंसायामित्यस्य ण्यंतस्य लुजि चजि रूपं । द्वितीयत्वान्निघातः । गृहेभ्यः । ग्रहेर्गेहे क इति कः । पंचम्यपाङ्परिभिरिति पंचमी । अवसै ।
+> षोऽंतकर्मणि । क्विप् । चतुर्थैकवचन आतो लोपाभावश्चांदसः । वृद्धिः । एकादेशस्वरः ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer asks for his own welfare. The lord of the forest (वनस्पतिः (*vanaspatiḥ*)) is this chariot, made of wood: may it not abandon (हाः (*hāḥ*), from the root ओहाक् (*ohāk*), to leave) us who are mounted on it. May it not harm (रीरिषत् (*rīriṣat*)) us, that is, may it not destroy us. Further, until we reach our homes (गृहेभ्यः (*gṛhebhyaḥ*)) let there be well-being for us. Likewise अवसै (*avasai*): the dative stands in the sense of the ablative; "until the end of the chariot's speed". आ विमोचनात् (*ā vimocanāt*): until the unyoking of the horses harnessed to the chariot, let there be well-being.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनस्पतिः (*vanaspatiḥ*)—made of wood
+- अयं (*ayaṃ*)—this chariot
+- अस्मान् (*asmān*)—us
+- मा च हाः (*mā ca hāḥ*)—may it not abandon (not neglect)
+- मा च रीरिषत् (*mā ca rīriṣat*)—may it not harm
+- आ गृहेभ्यः (*ā gṛhebhyaḥ*)—until we reach home
+- स्वस्ति (*svasti*)—may it be well
+- आ अवस्यै (*ā avasyai*)—until the chariot's travelling ends, may it be well with us
+- आ विमोचनात् (*ā vimocanāt*)—until the horse is unyoked from the chariot, may it be well with us
+
+### Printed p. 225
+
+##### भावार्थ (Bhāvārtha)
+
+May this chariot, made of the lord of the forest, not abandon us. May it not harm us. Until we reach home, may it be well with us. Until the chariot's travelling ends, may it be well with us. Until the horse is unyoked from the chariot, may it be well with us.
+
+##### English translation (H. H. Wilson)
+May this lord of the forest never desert us nor do us harm : may we travel prosperously home until the stopping (of the car), until the unharness- ing (of the steeds).
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the chariot is called by the word vanaspati, because the chariot is made of wood (vanaspati = tree). The prayer is stated that such a chariot may bring us good fortune, so that no kind of trouble befalls us on our journey until we reach our home.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॒तिभि॑र्बहु॒लाभि॑नोर् अ॒द्य या॑च्छे॒ष्ठाभि॑र्मघञ्छर  
+> जिन्व ।  
+> यो नो॒ द्वेष्ट्यध॑रः॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो  ॑
+> जहातु ॥ २१ ॥
+
+> *iṃdrotibhirbahulābhinor adya yāccheṣṭhābhirmaghañchara*  
+> *jinva |*  
+> *yo no dveṣṭyadharaḥ saspadīṣṭa yamu dviṣmastamu prāṇo*  
+> *jahātu ‖ 21 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । ऊतिभिः । बहुलाभिः । नः । अद्य । यार्श्रेष्ठाभिः । मघवन् । शूर ।  
+> जिन्व ।  
+> यः । नः । द्वेष्टि । अधरः । सः । पदीष्ट । यं । ऊं इति । द्विस्मः । तं । ऊं इति ।  
+> प्राणः । जहातु ॥ २१ ॥
+
+> *iṃdra | ūtibhiḥ | bahulābhiḥ | naḥ | adya | yārśreṣṭhābhiḥ | maghavan | śūra |*  
+> *jinva |*  
+> *yaḥ | naḥ | dveṣṭi | adharaḥ | saḥ | padīṣṭa | yaṃ | ūṃ iti | dvismaḥ | taṃ | ūṃ iti |*  
+> *prāṇaḥ | jahātu ‖ 21 ‖*
+
+### Printed p. 226
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रोतिभिरित्याद्याश्चतस्रो वसिष्ठद्वेषिण्यः । पुरा खलु विश्वामित्रशिष्यः सुदा
+> नाम राजर्षिरासीत् । स च केनचित्कारणेन वसिष्ठद्वेष्योऽभूत् । विश्वामितस्तु
+> शिष्यस्य रक्षार्थमाभिर्यग्निर्वसिष्ठमशपत् । इमा अभिशापरूपाः । ता ऋचो वसिष्ठा
+> न शृण्वंति ॥
+> परस्य शापं करिष्यन् आदावात्मनो रक्षां कुरुते प्रथमेनार्धर्चेन । हे
+> शूर शौर्यवन्नराभिभवशक्त हे मघवन्दनवन्निंद्र अद्यास्मिन्याले यात् । यातयतिर्वधकर्मा । यातयतीति यात् । सुपां सुलुगिति शपो लुक् । यातः शत्रून्
+> हिंसतो नोऽस्थानूतिभिस्त्वदीयाभी रक्षाभिर्जिन्व । प्रीणय । कीदृशीभिः । बहुलाभिर्बह्वीभिः श्रेष्ठाभिः प्रशस्यतराभिः । अथ शपति । नोऽस्मान्यः शत्रुर्द्वैष्यो द्वैष्ट्यस्मद्विषयामप्रीतिं करोति सोऽधरो निकृष्टः सन् पदीष्ट । पततु । वयं च यमु
+> द्विष्मस्तमु तं द्वेष्यं प्राणो देहमध्यॆ वर्तमानः पंचवृत्तिर्वायुर्जहातु ।
+> परित्यजतु । उशब्दौ पूरकौ ॥
+
+##### Gist of the bhāṣya
+
+This verse and the three following are directed against Vasiṣṭha. Formerly Sudās, a royal seer, was a disciple of Viśvāmitra; for some reason he became hated by Vasiṣṭha. To protect his disciple Viśvāmitra cursed Vasiṣṭha with these verses. These verses are of the nature of imprecations; the Vasiṣṭhas do not listen to these ṛcs.
+Intending to curse another, he first secures his own protection with the first half-verse. O hero, able to overcome enemies, O wealthy (मघवन् (*maghavan*)) Indra, today (यात् (*yāt*); the root यातयति (*yātayati*) has the sense of killing) protect and please us who are slaying enemies, with your many (बहुलाभिः (*bahulābhiḥ*)) and most excellent (श्रेष्ठाभिः (*śreṣṭhābhiḥ*)) protections. Then he curses: the enemy who hates us, making ill-will towards us, let him, being low (अधरः (*adharaḥ*)), fall (पदीष्ट (*padīṣṭa*)). And him whom we hate, let the breath (प्राणः (*prāṇaḥ*)), the five-fold wind abiding within the body, abandon. The two उ (*u*) are expletives.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O mighty one
+- मघवन् (*maghavan*)—O wealthy one
+- इंद्र (*iṃdra*)—O Indra
+- यात् (*yāt*)—us who are confronting enemies
+- बहुलाभिः (*bahulābhiḥ*)—of many kinds
+- श्रेष्ठाभिः (*śreṣṭhābhiḥ*)—excellent
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- जिन्व (*jinva*)—satisfy
+- नः (*naḥ*)—us
+- यः (*yaḥ*)—whichever enemy
+- द्वेष्टि (*dveṣṭi*)—hates
+- सः (*saḥ*)—he
+- अधरः (*adharaḥ*)—being low
+- पदीष्ट (*padīṣṭa*)—may he fall down
+- यमु (*yamu*)—whom
+- द्विष्मः (*dviṣmaḥ*)—we hate
+- तं (*taṃ*)—him
+- प्राणः (*prāṇaḥ*)—the breath
+- जहातु (*jahātu*)—may it abandon
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty and wealthy Indra, satisfy us, who confront enemies, with your many and excellent protections. May the enemy who hates us fall down, brought low. May he whom we hate die.
+
+##### English translation (H. H. Wilson)
+Indra, hero, possessor of wealth, protect us this day against our foes with many and excellent defences : may the vile wretch who hates us fall (before us) ; may the breath of life depart from him whom we hate.
+
+### Printed p. 227
+
+##### विशेषविषयगळु (Special Topics)
+
+This ṛc, beginning इंद्रोतिभिः (*iṃdrotibhiḥ*), and the three following express the hatred of the seer Viśvāmitra toward the seer Vasiṣṭha. Formerly there was a royal seer named Sudās, a disciple of Viśvāmitra. For another reason he earned Vasiṣṭha's hatred and became his enemy. To protect his disciple, Viśvāmitra cursed and reviled Vasiṣṭha with these four ṛcs. Therefore these ṛcs are of the nature of imprecation. The descendants of Vasiṣṭha do not listen to these ṛcs.
+Before cursing another, the seer desires his own protection; in the first half of this ṛc he asks for his own protection from Indra, and in the second half he asks for the subduing of the enemy. Since the meaning of this ṛc is clear, explanation is unnecessary. In the second half it is explained who our enemies are. Indra is prayed that evil may befall both kinds of enemy: those whom we hate and those who hate us. In the Yajurveda and other texts these two kinds of enemy are described, repeatedly, by the sentence योऽस्मान् द्वेष्टि यं च वयं द्विष्मः (*yo 'smān dveṣṭi yaṃ ca vayaṃ dviṣmaḥ*).
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒र॒शुं चि॒द्वि त॑पति शिंब॒लं चि॒द्वि वृ॑श्चति ।  
+> उ॒खा चि॑दिंद्र॒ येषं॑ती॒ प्रय॑स्ता॒ फेन॑मस्यति ॥ २२ ॥
+
+> *paraśuṃ cidvi tapati śiṃbalaṃ cidvi vṛścati |*  
+> *ukhā cidiṃdra yeṣaṃtī prayastā phenamasyati ‖ 22 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परशुं । चित् । वि । तपति । शिंबलं । चित् । वि । वृश्चति ।  
+> उखा । चित् । इंद्र । येषंती । प्रयस्ता । फेनं । अस्यति ॥ २२ ॥
+
+> *paraśuṃ | cit | vi | tapati | śiṃbalaṃ | cit | vi | vṛścati |*  
+> *ukhā | cit | iṃdra | yeṣaṃtī | prayastā | phenaṃ | asyati ‖ 22 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परशुं चित् । चिच्छब्दः उपमार्थः । यथा परशुं कुठारं प्राप्य वृक्षो वि
+> तपति विशिष्टतापयुक्तो भवति । एवं मदीयो द्वेष्टा वितसतु । शिंबलं चित्
+> शल्मलीकुसुमं यथानायासेन वि वृश्चति विच्छिद्यते । एवं स द्वेष्टा विवृश्चति । विच्छिन्नावयवो भवतु । प्रयस्ता प्रहता येषंती स्रवंत्युखा चित् स्थालीव स द्वेष्टा
+> मदीयमंत्रसामर्थ्येन प्रहतः सन् फेनमस्यति । फेनं मुखादुद्दिरतु ॥
+
+##### Gist of the bhāṣya
+
+चित् (*cit*) has the sense of comparison. As a tree, on meeting the axe (परशुं (*paraśuṃ*)), is subjected to a special torment (वि तपति (*vi tapati*)), so may my enemy be tormented. As the Śālmalī flower (शिंबलं (*śiṃbalaṃ*)) is cut off without effort, so may that enemy be cut off, with his limbs severed. As a pot (उखा (*ukhā*)), struck and leaking, so may that enemy, struck by the power of my mantra, throw up foam (फेनं (*phenaṃ*)) from his mouth.
+
+### Printed p. 228
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- परशुं चित् (*paraśuṃ cit*)—as a tree struck by an axe is wounded (so may our enemy too be wounded and tormented)
+- वितपति (*vitapati*)—is tormented
+- शिंबलं चित् (*śiṃbalaṃ cit*)—as the Śālmalī flower
+- वि वृश्चत् (*vi vṛścat*)—falls easily down from its branch (so may my enemy fall effortlessly to the ground)
+- प्रयस्ता (*prayastā*)—cracked
+- येषंती (*yeṣaṃtī*)—leaking
+- उखा चित् (*ukhā cit*)—as a pot lets water leak
+- फेनं अस्यति (*phenaṃ asyati*)—(so may my enemy too) pour foam from his mouth
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as a tree struck by an axe is wounded, so may our enemy too be wounded and tormented. As the Śālmalī flower falls easily from its stalk, so may my enemy fall effortlessly to the ground. As a cracked, leaking pot lets its water out, so may my enemy too pour foam from his mouth.
+
+##### English translation (H. H. Wilson)
+As (the tree) suffers pain from the axe, as the Simal flower is (easily) cut off, as the injured cauldron leaking scatters foam, so may my enemy perish.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛc it is explained through three illustrations how the enemy comes to ruin.
+परशुं चित् वि तपति (*paraśuṃ cit vi tapati*): as a tree, when cut with an axe, feels from the blows an unbearable torment (sorrow), so may one who is our enemy be tormented with sorrow. The word चित् (*cit*) in this ṛc is used in the sense of comparison, that is, "like".
+शिंबलं चित् वि वृश्चति (*śiṃbalaṃ cit vi vṛścati*): as the blossom of the Śālmalī tree drops off effortlessly at a mere breath of wind, so may the limbs of him who hates us, hands and the rest, be cut off and go to pieces.
+इंद्र प्रयस्ता येषंती उखा चित् फेनं अस्यति (*iṃdra prayastā yeṣaṃtī ukhā cit phenaṃ asyati*): O Indra, as a pot, when struck, breaks and the water in it leaks out, so may our enemy, struck down by the power of our mantra, pour foam from his mouth; that is, the meaning is, may he die.
+
+### Printed p. 229
+शिंबलं चित् वि वृश्चति (*śiṃbalaṃ cit vi vṛścati*): as the flower of the Śalmalī tree easily falls off, so may the enemy who hates us fall to the ground. May his limbs be cut off.
+इंद्र प्रयस्ता येषंती उखा चित् फेनं अस्यति (*iṃdra prayastā yeṣaṃtī ukhā cit phenaṃ asyati*): as a broken, cracked pot, struck, leaks, so may our enemy, struck down by the power of our mantra, pour foam from his mouth.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न साय॑कस्य चिकिते जनासो लो॒धं न॑यंति॒ पशु॒ मन्य॑मानाः ।  
+> नावा॑जिनं वा॒जिना॑ हासयंति॒ न ग॑र्द॒भं पु॒रो अश्वा॑न्नयंति ॥ २३ ॥
+
+> *na sāyakasya cikite janāso lodhaṃ nayaṃti paśu manyamānāḥ |*  
+> *nāvājinaṃ vājinā hāsayaṃti na gardabhaṃ puro aśvānnayaṃti ‖ 23 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । सायकस्य । चिकिते । जनासः । लोधं । नयंति । पशु । मन्यमानाः ।  
+> न । अवाजिनं । वाजिना । हासयंति । न । गर्दभं ' पुरः । अश्वात् । नयंति ॥ २३ ॥
+
+> *na | sāyakasya | cikite | janāsaḥ | lodhaṃ | nayaṃti | paśu | manyamānāḥ |*  
+> *na | avājinaṃ | vājinā | hāsayaṃti | na | gardabhaṃ ' puraḥ | aśvāt | nayaṃti ‖ 23 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरा खलु तपसः क्षयो मा प्रापदिति शापान्निवृत्तं मौनिनं विश्वामित्रं
+> वसिष्ठपुरुषा बद्ध्वानीतवंतः । तान्प्रति विश्वामित्रो ब्रूते । हे जनासो जनाः
+> सायकस्यावसानकारिणो विश्वामित्रस्य मंत्रगणसामर्थ्यं न चिकिते ' भविदिर्न ज्ञायते । अत एव लोधं लुब्धं तपसः क्षयो मा भूदिति लोभेन तूष्णीं स्थितमृषिं
+> पशु मन्यमानाः । पशु इति निपातः पशुशब्दसमानार्थः । पशुवन्मन्यमाना एते
+> नयंति । बद्ध्वा स्वकीयं देशं प्रापयंति । एवं स्वसामर्थ्यं प्रदर्श्य विसदृशो
+> वसिष्टो मया सह स्पर्धितुं नार्हतीति धिक्करोति। नावाजिनमिति। अवाजिनं। वाचामिनो वाजिनः सर्वज्ञः । तद्विलक्षणं मूर्खजनं वाजिना वागीशा न हासयंति हास्यास्पदं
+> न कुर्वंति । तेन सह न स्पर्धंत इत्यर्थः । तथा गर्दभं रासभमश्वात्पुरः पुरुस्तान्न
+> नयंति । एवमेव विसदृशो वसिष्टो न मया स्पर्धितुमीष्ट इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Formerly, when Viśvāmitra, silent and withdrawn from cursing lest his austerity be lost, was bound and brought by Vasiṣṭha's men, he addresses them. O people (जनासः (*janāsaḥ*)), the power of the group of mantras of Viśvāmitra, the "finisher" (सायकस्य (*sāyakasya*)), is not known (न चिकिते (*na cikite*)). Therefore they, regarding as a beast (पशु (*paśu*); पशु (*paśu*) is a particle equal in sense to the word पशु (*paśu*)) the greedy (लोधं (*lodhaṃ*)) seer who stayed silent from the greed that his austerity not be lost, lead (नयंति (*nayaṃti*)) him, that is, bind him and bring him to their own place. Thus, displaying his own power, he rebukes: Vasiṣṭha, unlike me, is not fit to compete with me. नावाजिनं (*nāvājinaṃ*): the अवाजिनं (*avājinaṃ*) is a foolish person, unlike the वाजिनः (*vājinaḥ*), the all-knowing master of speech; the masters of speech (वाजिना (*vājinā*)) do not make him a laughing-stock, that is, they do not compete with him. Likewise they do not lead (न नयंति (*na nayaṃti*)) an ass (गर्दभं (*gardabhaṃ*)) in front of a horse. Just so, the unlike Vasiṣṭha is not able to compete with me.
+
 ---
 
-**Progress note:** Done through printed p. 223. pp. 218-223 (batch API)
+**Progress note:** Done through printed p. 229. pp. 224-229 (batch API, retry 1)

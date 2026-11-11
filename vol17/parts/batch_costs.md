@@ -71,3 +71,4 @@
 | w0193 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 29384, out 8870 | $0.149 |
 | w0206 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 26768, out 6182 | $0.116 |
 | w0212 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 26173, out 6611 | $0.119 |
+| w0224 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 22273, out 4926 | $0.095 |
