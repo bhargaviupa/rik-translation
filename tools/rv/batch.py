@@ -284,7 +284,7 @@ def cmd_check(a):
     if PLACEHOLDER.search(en) or PLACEHOLDER.search(enf): fail.append('placeholder XXX left in en.md')
     dv=re.findall('[ऄ-ह][ऀ-ॣ]*',en)
     if dv: fail.append(f'Devanagari typed in en.md ({len(dv)} places, e.g. {dv[0]}): Sanskrit is copied from kn.md in Kannada script inside ⟦ ⟧; the script converts')
-    if re.search(r'⟧\s*\(\*[^)]*\*\)',en): fail.append('hand IAST "(*…*)" after a ⟦ ⟧ segment in en.md: the build adds the IAST itself (Vol 16: 116 doubled pairs)')
+    if re.search(r'⟧\s*\(\*(?!\*)[^)]*(?<!\*)\*\)',en): fail.append('hand IAST "(*…*)" after a ⟦ ⟧ segment in en.md: the build adds the IAST itself (Vol 16: 116 doubled pairs)')
     if re.search(r'\(\*([^)]{2,})\*\) \(\*\1\*\)',enf): fail.append('doubled IAST "(*x*) (*x*)" in en_final.md')
     for sec in re.findall(r'\*\*Pratipadārtha\*\*\n(.*?)(?=\n\*\*|\n#|\Z)',en,re.S):
         if sec.count('—')>=3 and '⟦' not in sec: fail.append('a Pratipadārtha has no ⟦ ⟧ headwords (the Sanskrit words are copied from kn.md inside ⟦ ⟧, not written in Latin letters)'); break
