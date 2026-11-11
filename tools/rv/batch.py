@@ -162,6 +162,7 @@ def cmd_build(a):
     wr(os.path.join(w,'notes.json'),json.dumps(notes,ensure_ascii=False,indent=1))
     sp=os.path.join(w,'section_start.txt'); start=(rd(sp).strip() or None) if os.path.exists(sp) else None
     text,prob=convert.expand(en,kn,plain=tuple(cfg.d.get('no_iast_blocks',[])),start=start)
+    wr(os.path.join(w,'markers_fuzzy.tsv'),''.join(f'{a_}\t{b_}\n' for a_,b_ in convert.FUZZY))      # quotation markers resolved approximately (for a spot check)
     if prob: print('PROBLEMS:'); print('\n'.join(' - '+p for p in prob)); sys.exit(1)
     p=os.path.join(w,'en_final.md'); wr(p,text)
     r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
@@ -198,8 +199,9 @@ def cmd_check(a):
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
-    knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
-    pdfs=[p['pdf'] for p in pg if p.get('pdf')]; res=numerals.check(cfg,pdfs,knr,en) if cfg.numeral_files() else numerals.check(cfg,[],knr,en,rows=[])
+    knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn); knr=re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])','-',knr)   # … and a space for it inside a reference (೧೦-೫ ೪-೧೪)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
+    pdfs=[p['pdf'] for p in pg if p.get('pdf')]; knr=kn+'\n'+knr      # both forms count as twins (the loosened form must never hide a reference that matched as printed)
+    res=numerals.check(cfg,pdfs,knr,en) if cfg.numeral_files() else numerals.check(cfg,[],knr,en,rows=[])
     print(numerals.report(res))
     if res['near']: fail.append(f"{len(res['near'])} numerals differ from the numeral file by 1-2 characters (the file is the reference: correct kn.md, or tell the user)")
     if res['twin_bad']: fail.append(f"English references without Kannada twin: {res['twin_bad']}")
@@ -224,6 +226,9 @@ def cmd_check(a):
     if '[figure' in kn: fail.append('kn.md still has a [figure: …] line: read the picture, write the block into kn.md, remove the line (BRIEF.md)')
     for m in re.findall(r'<!-- printed (\d+)',kn):
         if int(m) not in [p['printed'] for p in pg]: fail.append(f'kn.md has a marker for printed p. {m} that is not in pages.json (append it there and add "### Printed p. {m}" to en.md)')
+    hs=re.findall(r'(?m)^## Sūkta \d+ \(Maṇḍala \d+\)',enf); done_en=rd(cfg.en)
+    for h in sorted(set(hs)):
+        if hs.count(h)>1 or (h in done_en and not os.environ.get('RV_REBUILD')): fail.append(f'the heading "{h}" would stand twice (it is written once, where the sūkta begins)')
     nums=[int(x) for x in re.findall(r'^#### Ṛk (\d+)',enf,re.M)]
     if nums and any(b<a_ and b!=1 for a_,b in zip(nums,nums[1:])): fail.append(f'Ṛk headings out of order: {nums}')
     print('\nFAIL:' if fail else '\nPASS')
@@ -282,6 +287,8 @@ def audit(cfg,expect_clean=True):
     en=rd(cfg.en); kn=rd(cfg.kn); pr=[]; dp,_=position(cfg)
     if en.count('**Progress note:**')!=1: pr.append(f"{en.count('**Progress note:**')} progress notes in the English file (must be 1)")
     if PLACEHOLDER.search(en): pr.append('XXX in the English file')
+    hs=re.findall(r'(?m)^## Sūkta \d+ \(Maṇḍala \d+\)',en); dup=sorted({h for h in hs if hs.count(h)>1})
+    if dup: pr.append('sūkta heading more than once: '+', '.join(dup))
     if re.search(r'⟦\s*⟧|⟦\s*\(\*\s*\*\)\s*⟧',en): pr.append('empty ⟦ ⟧ in the English file')
     if re.search('['+chr(0x0900)+'-'+chr(0x0963)+chr(0x0966)+'-'+chr(0x097F)+']',kn): pr.append('Devanagari in the Kannada file')
     pe=[int(x) for x in re.findall(r'^### Printed p\. (\d+)',en,re.M)]; pk=[int(x) for x in re.findall(r'<!-- printed (\d+)',kn)]

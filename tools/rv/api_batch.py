@@ -121,6 +121,28 @@ def autofix_inline(w, en, kn):
         if not b: return m.group(0)
         log.append((seg, b[1].strip('।॥ '), round(b[0], 2))); return '⟦' + b[1].strip('।॥ ') + '⟧'
     return re.sub(r'⟦([^⟧]+)⟧', rep, en), log
+def wrap_bare_kannada(en):
+    """Kannada-script words the model left outside ⟦ ⟧ (usually a Sanskrit quotation put in plain quotation marks) are put inside ⟦ ⟧,
+    so that the script converts and checks them like every other quotation.  NOTE details and existing segments are left alone."""
+    parts = re.split(r'(⟦[^⟧]*⟧|⟪[^⟫]*⟫|\*\*NOTE\*\*\{[^{}]*\})', en)
+    KR = '[\u0C80-\u0CFF]'
+    for i in range(0, len(parts), 2):
+        parts[i] = re.sub('[“"\']?(' + KR + '[\u0C80-\u0CFF\u200c\u200d ।॥\\-—]*' + KR + '|' + KR + ')[”"\']?', lambda m: '⟦' + m.group(1) + '⟧', parts[i])
+    return ''.join(parts)
+def latin_fallback(en, kn):
+    """Last resort for an inline segment that is not in kn.md even approximately (a word taken out of a sandhi, or from another page): it is
+    given in transliteration only (italic, made by script from the model's letters) and logged, so that no Sanskrit stands in Devanagari in the
+    book that is not in the supplied text, and no paid retry is needed for it."""
+    import convert
+    sys.path.insert(0, os.path.join(ROOT, 'publish', 'tools', 'translit'))
+    from kannada_to_deva import kn2deva
+    from add_iast import deva_to_iast
+    norm = lambda t: re.sub(_SKIP, '', t); nk = norm(convert.kn_flat(kn)) + norm(kn); log = []
+    def rep(m):
+        seg = m.group(1)
+        if '~~' in seg or not re.search('[\u0C80-\u0CFF]', seg) or norm(seg) in nk: return m.group(0)
+        log.append((seg, '(not in the supplied text of this window: given in transliteration only)', '')); return '*' + deva_to_iast(kn2deva(seg)) + '*'
+    return re.sub(r'⟦([^⟧]+)⟧', rep, en), log
 def apply_answer(w, text):
     """write en.md and apply the kn.md repairs; returns a list of problems"""
     prob = []; m = re.search(r'<en>\s*\n?(.*?)\n?\s*</en>', text, re.S)
@@ -144,7 +166,9 @@ def apply_answer(w, text):
         for n in re.findall(r'<!-- printed (\d+)', kn):
             if int(n) not in have: pg.append(dict(printed=int(n), pdf=None, file_page=None, numeral_rows=0)); have.add(int(n))
         json.dump(sorted(pg, key=lambda x: x['printed']), open(pj, 'w'), indent=1)
-    en, fixed = autofix_inline(w, m.group(1).strip() + '\n', kn)
+    en = wrap_bare_kannada(m.group(1).strip() + '\n')
+    en, fixed = autofix_inline(w, en, kn)
+    en, latin = latin_fallback(en, kn); fixed += latin
     open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(en)
     if fixed:
         vol = re.search(r'vol(\d+)', w).group(1); lf = os.path.join(ROOT, f'vol{vol}', 'review', 'inline_readings.tsv'); new = not os.path.exists(lf)

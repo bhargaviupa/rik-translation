@@ -22,24 +22,50 @@ def kn_flat(kn_text):
     """kn.md as one line of text for quotation look-up: block prefixes, page markers and note lines dropped, line breaks -> spaces"""
     ls=[re.sub(r'^> ','',l) for l in kn_text.split('\n') if l.strip() and not l.startswith(('<!--','*[','[figure')) and not re.fullmatch(r'\*[^*]+\*',l.strip())]
     return re.sub(r'\s+',' ',' '.join(ls))
+FUZZY=[]     # markers that were resolved approximately in the last call: (marker, passage found)
+def _near(q,hay,cut=85):
+    """best place of q in hay, tolerant of a few different letters -> (start,end) in hay or None"""
+    try:
+        from rapidfuzz import fuzz
+        al=fuzz.partial_ratio_alignment(q,hay)
+        return (al.dest_start,al.dest_end) if al and al.score>=cut and al.dest_end-al.dest_start>=max(3,len(q)-3) else None
+    except ImportError:
+        import difflib
+        m=difflib.SequenceMatcher(None,q,hay,autojunk=False).find_longest_match(0,len(q),0,len(hay))
+        return (m.b-m.a,m.b-m.a+len(q)) if m.size>=0.7*len(q) and m.b-m.a>=0 else None
 def resolve_markers(en_text,kn_text,prob=None,maxlen=900):
-    """⟦START~~END⟧ -> ⟦the passage of kn.md from START to END⟧.  For long quotations: the translator writes only the first and last words (copied from
-    kn.md) and the script copies the passage.  START must occur exactly once in kn.md, END must follow within `maxlen` characters (Vol 16: home-made
-    expanders matched an earlier START and swallowed pages)."""
-    flat=kn_flat(kn_text); prob=prob if prob is not None else []
-    pos=[i for i,c in enumerate(flat) if c!=' ']; ns=''.join(flat[i] for i in pos)      # spaces are ignored when matching: kn.md often glues words that the translator separates (and the reverse)
+    """⟦START~~END⟧ -> ⟦the passage of kn.md from START to END⟧.  For long quotations: the translator writes only the first and last words and the
+    script copies the passage, with a closing danda or printed dots that follow it.  Matching ignores spaces and dandas.  Since Nov 11 2026 (Vol 17:
+    most first-pass gate failures were markers) the look-up is forgiving but bounded: quotations are taken in the order of the text, so of several
+    places where START occurs the first one after the previous quotation is used; START or END that differ from kn.md by a letter or two are found
+    by nearest match; END must follow START within `maxlen` characters (Vol 16: an unbounded home-made expander swallowed pages).  Every
+    approximate resolution is listed in FUZZY (batch.py writes them to WIN/markers_fuzzy.tsv)."""
+    flat=kn_flat(kn_text); prob=prob if prob is not None else []; del FUZZY[:]
+    pos=[i for i,c in enumerate(flat) if c not in ' ।॥']; ns=''.join(flat[i] for i in pos); cur=[0]
+    clean=lambda x: re.sub(r'[\s।॥]+','',x)
     def rep(m):
-        a,b=[re.sub(r'\s+','',x) for x in m.group(1).split('~~',1)]
+        a,b=[clean(x) for x in m.group(1).split('~~',1)]; b=re.sub(r'[.…]+$','',b); approx=False
         if not a or not b: prob.append('empty START or END in '+m.group(0)[:50]); return m.group(0)
-        n=ns.count(a)
-        if n!=1: prob.append(f'⟦{a}~~…⟧: START occurs {n} times in kn.md (must be exactly once: use more words)'); return m.group(0)
-        i=ns.index(a); j=ns.find(b,i+len(a))
-        if j<0: prob.append(f'⟦{a}~~{b}⟧: END not found after START'); return m.group(0)
-        i0=pos[i]; j1=pos[j+len(b)-1]+1
-        if j1-i0>maxlen: prob.append(f'⟦{a}~~{b}⟧: END is more than {maxlen} characters after START'); return m.group(0)
-        m2=re.match(r'\s*[।॥]',flat[j1:])                 # a danda that closes the quotation belongs to it (Vol 12 QA: closing dandas were dropped)
-        if m2: j1+=m2.end()
-        return '⟦'+flat[i0:j1]+'⟧'
+        starts=[x.start() for x in re.finditer(re.escape(a),ns)]
+        if not starts:
+            nr=_near(a,ns)
+            if nr: starts=[nr[0]]; a=ns[nr[0]:nr[1]]; approx=True
+        if not starts: prob.append(f'⟦{a}~~…⟧: START not found in kn.md'); return m.group(0)
+        starts=[x for x in starts if x>=cur[0]] or starts                # in text order: the first place after the previous quotation
+        for i in starts:
+            span=ns[i+len(a):i+len(a)+maxlen]; j=span.find(b); ln=len(b)
+            if j<0:
+                nr=_near(b,span)
+                if nr: j,ln=nr[0],nr[1]-nr[0]; approx=True
+            if j<0: continue
+            i0=pos[i]; j1=pos[i+len(a)+j+ln-1]+1
+            if j1-i0>maxlen+200: continue
+            m2=re.match(r'[\s.…]*[।॥]?',flat[j1:])              # printed abridgement dots and the danda that closes the quotation belong to it
+            if m2: j1+=m2.end()
+            cur[0]=i+len(a)+j+ln; out=flat[i0:j1].strip()
+            if approx or len(starts)>1: FUZZY.append((m.group(0),out[:120]))
+            return '⟦'+out+'⟧'
+        prob.append(f'⟦{a}~~{b}⟧: END not found within {maxlen} characters after START'); return m.group(0)
     return re.sub(r'⟦([^⟧]*~~[^⟧]*)⟧',rep,en_text)
 SECTION_OF={'ಸಂಹಿತಾಪಾಠಃ':'samhita','ಪದಪಾಠಃ':'pada','ಸಾಯಣಭಾಷ್ಯಂ':'bhashya'}
 def block_sections(kn_text,start=None):

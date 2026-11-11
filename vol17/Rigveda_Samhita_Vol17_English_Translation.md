@@ -6106,7 +6106,6 @@ The sūkta beginning धानावंतं (*dhānāvaṃtaṃ*) has eight �
 This sūkta beginning धानावंतं (*dhānāvaṃtaṃ*) is the fourteenth sūkta in the fourth anuvāka. It has eight ṛks. Viśvāmitra is the seer of this sūkta; Indra is the deity. In the Anukramaṇikā it is said: धानावंतमष्टौ पूर्वार्धं गायत्रं षष्ठी जगती (*dhānāvaṃtamaṣṭau pūrvārdhaṃ gāyatraṃ ṣaṣṭhī jagatī*). The first four ṛks of this sūkta are in the gāyatrī metre; the sixth ṛk, तृतीये धानाः (*tṛtīye dhānāḥ*), is in the jagatī metre; the remaining three ṛks are in triṣṭubh metre. The use of the sūkta follows the meaning of the several ṛks. The first ṛk of this sūkta, धानावंतं (*dhānāvaṃtaṃ*), is to be used as the anuvākyā mantra in the puroḍāśa oblation connected with the morning pressing; this is set forth by the Āśvalāyana Śrauta Sūtra, in the sūtra धानावंतं करंभिणमिति प्रातस्सवनेऽनुवाक्या (*dhānāvaṃtaṃ karaṃbhiṇamiti prātassavane 'nuvākyā*) (Ā. 5-4).
 
 ### Printed p. 156
-## Sūkta 52 (Maṇḍala 3)
 
 > ॥ ओं ॥
 > सूक्त—५२
