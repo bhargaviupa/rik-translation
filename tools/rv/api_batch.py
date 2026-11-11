@@ -7,7 +7,7 @@
         with the API's token counter (free) and prints the cost estimate.  Nothing is sent.
   python3 tools/rv/api_batch.py submit  VOL          sends the planned requests as ONE batch (this spends money); id in work/api_batch.json
   python3 tools/rv/api_batch.py status  VOL          batch state
-  python3 tools/rv/api_batch.py collect VOL [--no-retry | --retries N]   fetches the results: writes each window's en.md (and applies the Kannada-file repairs the model
+  python3 tools/rv/api_batch.py collect VOL [--retries N]   fetches the results: writes each window's en.md (and applies the Kannada-file repairs the model
         asked for), logs real usage and cost per window in volN/parts/batch_costs.md, then runs `batch.py done` window after window IN PAGE ORDER
         and stops at the first window whose gates fail (fix it by hand or with an agent, then `collect` again: finished windows are skipped).
 
@@ -138,6 +138,33 @@ def soften(en, kn, w):
         if h: have.add(l.strip())
         out.append(l)
     en = '\n'.join(out)
+    # translator remarks and old marks that the reader's text must not carry
+    n0 = len(en); en = re.sub(r'(?m)^\*\[[^\]\n]*\]\*[ \t]*\n', '', en); en = re.sub(r'[ \t]*\*\[[^\]\n]*\]\*', '', en)
+    en = re.sub(r'[ \t]*\((?:[^()\n]*?\b(?:as supplied|as printed|so printed)\b[^()\n]*)\)', '', en, flags=re.I)
+    en = re.sub(r'(?mi)^\*?Running head[^\n]*\n', '', en)
+    if len(en) != n0: log.append(('translator remarks removed', f'{n0 - len(en)} characters'))
+    for old, why in ((r'\[\?\]', 'marked [?] by the translator'), (r'\[sic\]', 'marked [sic] by the translator'), (r'(?<![IVXLCDM])XXX(?![IVXLCDM])', 'placeholder left by the translator')):
+        en, k = re.subn(old, '**NOTE**{' + why + '}', en)
+        if k: log.append((why, str(k)))
+    en, k = re.subn(r'\*\*NOTE\*\*(?!\{)', '**NOTE**{no question given by the translator}', en)
+    if k: log.append(('NOTE without a question', str(k)))
+    # Sanskrit blocks: each exactly once, alone on its line; a block the translation did not place is put after the block before it
+    nb = len(convert.kn_blocks(kn)); L = en.split('\n'); seen = set(); out = []
+    for l in L:
+        m = re.search(r'\[\[b(\d+)\]\]', l)
+        if not m: out.append(l); continue
+        n = int(m.group(1)); rest = (l[:m.start()] + l[m.end():]).strip()
+        if n < 1 or n > nb or n in seen: log.append(('block reference dropped (no such block, or placed twice)', m.group(0))); 
+        else: seen.add(n); out.append(f'[[b{n}]]')
+        if rest: out.append(rest)
+    L = out
+    for n in range(1, nb + 1):
+        if n in seen: continue
+        at = next((i for i, l in enumerate(L) if l.strip() == f'[[b{n - 1}]]'), None) if n > 1 else next((i for i, l in enumerate(L) if l.startswith('### Printed p. ')), -1)
+        if at is None: at = len(L) - 1
+        L[at + 1:at + 1] = ['', '**NOTE**{the Sanskrit block that follows was placed here by script: the translation had not placed it}', '', f'[[b{n}]]', '']
+        seen.add(n); log.append(('block placed by script', f'b{n}'))
+    en = '\n'.join(L)
     probs = []; en = convert.resolve_markers(en, kn, probs)
     def unres(m):
         a, b = [x.strip() for x in m.group(1).split('~~', 1)]; log.append(('quotation not located: first and last words only', m.group(0)[:80]))
@@ -256,7 +283,7 @@ def cmd_collect(a):
     def gate(x):
         r = subprocess.run(['python3', 'tools/rv/batch.py', 'done', str(cfg.vol), x['win'], '--dry-run'], capture_output=True, text=True, cwd=ROOT)
         return r.returncode == 0, (r.stdout + r.stderr).strip()
-    rounds = int(a[a.index('--retries') + 1]) if '--retries' in a else 1      # default: ONE half-price retry round, for structural faults only (the scripts settle the rest)
+    rounds = int(a[a.index('--retries') + 1]) if '--retries' in a else 0      # default: NO retry (user, Nov 11 2026): the scripts settle what they can; a window that still fails is repaired by hand or re-sent on purpose with --retries 1
     for rnd in range(1, rounds + 1):                               # windows whose gates fail go back with the gate message, as ONE batch per round
         if '--no-retry' in a: break
         bad = []
