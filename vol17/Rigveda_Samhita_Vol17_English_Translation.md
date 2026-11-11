@@ -32823,6 +32823,363 @@ Indra, as soon as you were born, you took the progeny who were afraid of Vritra 
 
 In the animal sacrifice to Indra as Vṛtra-slayer, "सत्राहणं (*satrāhaṇaṃ*)" is the anuvākyā of the oblation. It is also stated in the sūtra: सत्राहणं दादृषिं तुम्रमिंद्रं सहदानुं पुरुहूत क्षियंतं । आ. ३.८ । इति ॥ (*satrāhaṇaṃ dādṛṣiṃ tumramiṃdraṃ sahadānuṃ puruhūta kṣiyaṃtaṃ | ā. 3.8 | iti ‖*) (Ā. 3.8).
 
+### Printed p. 967
+#### Ṛk 8
+
+> सत्राहणं बहूनां शत्रूणां हंतारं दाधृषिमत्यंतं धर्षकं तुम्रं ।
+> तुमिः प्रेरणकर्मा । शत्रूणां प्रेरकं महां महांतमपारमपरिमाणं । विनाशरहितमित्यर्थः । वृषभं कामानां वर्षितारं सुवज्रं शोभनेन वज्रेणोपेतमिंद्रं । वयं स्तोतारः स्तुमेति शेषः । य इंद्रो वृत्रं वृत्रनामानमसुरं
+> हंता हिंसिता भवति । उतापि च य इंद्रो वाजमन्नं सनिता दाता भवति ।
+> सुराधाः शोभनधनयुक्तो यो मघवेंद्रो मघानि धनानि दाता भवति ।
+> तमिंद्रं स्तुमेति पूर्णेन्वयः ॥ अत्र सर्वत्र तृनंतत्वान्न लोकाव्ययेति षष्ठीप्रतिषेधे सति द्वितीयैव भवति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses सत्राहणं (*satrāhaṇaṃ*) as the slayer of many enemies; दाधृषिं (*dādhṛṣiṃ*) as the extremely bold one, the assailant; तुम्रं (*tumraṃ*) as the impeller of enemies, since the root तुमिः (*tumiḥ*) has the sense of impelling. महां (*mahāṃ*) means great, and अपारं (*apāraṃ*) unmeasured, that is, free from destruction. *kṛṣabhaṃ* is not in the text; वृषभं (*vṛṣabhaṃ*) means the showerer of desires, and सुवज्रं (*suvajraṃ*) Indra endowed with a fine thunderbolt. "We, the praisers, praise" is the word to be supplied. He who is the slayer of Vṛtra, the asura of that name, and he who is the giver of वाजं (*vājaṃ*), food; सुराधाः (*surādhāḥ*) means endowed with fine wealth; and Maghavan Indra is the giver of riches. "We praise that Indra" completes the construction. Throughout, because the words end in the affix tṛn, the genitive is barred and only the accusative occurs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्राहणं (*satrāhaṇaṃ*)—the destroyer of many enemies
+- दाधृषिं (*dādhṛṣiṃ*)—the subduer of enemies
+- तुम्रं (*tumraṃ*)—the harmer of enemies
+- महां (*mahāṃ*)—the great one
+- अपारं (*apāraṃ*)—the one without limit
+- वृषभं (*vṛṣabhaṃ*)—the showerer of desires
+- सुवज्रं (*suvajraṃ*)—the one endowed with the excellent thunderbolt (and)
+- यं (*yaṃ*)—who
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- हंता (*haṃtā*)—has destroyed
+- उत (*uta*)—and
+- (यः (*yaḥ*)—who)
+- वाजं (*vājaṃ*)—to food
+- सनिता (*sanitā*)—is the giver; such a one
+- सुराधाः (*surādhāḥ*)—endowed with excellent wealth
+- (यः (*yaḥ*)) मघवा (*maghavā*)—(which) Indra
+- मघानि (*maghāni*)—riches
+- दाता (*dātā*)—gives; such a one
+- इंद्रं (*iṃdraṃ*)—Indra (we shall praise)
+
+##### भावार्थ (Bhāvārtha)
+
+We shall praise Indra, who has destroyed many enemies, subdues enemies, harms enemies, is without limit, showers desires, is endowed with the excellent thunderbolt, destroys Vṛtra, gives food, and, being endowed with excellent wealth, gives riches.
+
+##### English translation (H. H. Wilson)
+(We praise) the slayer of many foes, the courageous, the discomfiter (of enemies), the great, the unbounded, the showerer (of benefits), the wielder of the bright thunderbolt, him who is the destroyer of Vritra, the bestower of food, the giver of wealth, Maghavan the possessor of riches .
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice offered to Indra the Vṛtra-slayer, when the oblation is offered, this Ṛk beginning सत्राहणं (*satrāhaṇaṃ*) is to be used as the Anuvākyā mantra. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra सत्राहणं दाधृषिं तुम्रमिंद्रं सहदानुं पुरुहूत क्षियंतं (*satrāhaṇaṃ dādhṛṣiṃ tumramiṃdraṃ sahadānuṃ puruhūta kṣiyaṃtaṃ*) (Ā. 3-8).
+
+### Printed p. 968
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं वृत॑श्चातयते समी॒चीर्य आ॒जिषु॑ म॒घवा॑ शृ॒ण्व एकः॑।  
+> अ॒यं वाजं॑ भरति॒ यं स॒नोत्य॒स्य प्रि॒यासः॑ स॒ख्ये स्या॑म ॥९॥
+
+> *ayaṃ vṛtaścātayate samīcīrya ājiṣu maghavā śṛṇva ekaḥ|*  
+> *ayaṃ vājaṃ bharati yaṃ sanotyasya priyāsaḥ sakhye syāma ‖9‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । वृतः । चातयते । संईचीः। यः । आजिषु । मघना । शृण्वे । एकः ।  
+> अयं । वाजं । भरति । यं । सनोति । अस्य । प्रियासः । सख्ये । स्याम ॥ ९ ॥
+
+> *ayaṃ | vṛtaḥ | cātayate | saṃīcīḥ| yaḥ | ājiṣu | maghanā | śṛṇve | ekaḥ |*  
+> *ayaṃ | vājaṃ | bharati | yaṃ | sanoti | asya | priyāsaḥ | sakhye | syāma ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघवा धनवान्य इंद्रआजिषु संग्रामेष्वेको मुख्य एव शृण्वे । श्रूयते।
+> अयमिंद्रः सविाचीः संगता वृतः । वृण्वंत्याच्छादयंति लोकानिति वृतः शत्रुसेनाः । ताश्चातयते । नाशयति । अयमिंद्रो यं वाजं यदन्नं सनोति ।
+> यजमानाय ददाति । तं वाजं भरति । यजमानस्य तवन्नं दातुं बिभर्ति ।
+> स्तोतारो वयमस्यॆवंभूतस्येंद्रस्य सख्ये सखत्वे प्रियासः प्रियाः स्याम ।
+> भवेनु ॥
+
+##### Gist of the bhāṣya
+
+Maghavan, the wealthy Indra, is heard of as the one chief in battles. This Indra destroys the assembled वृतः (*vṛtaḥ*); वृतः (*vṛtaḥ*) are the enemy armies, because they cover (*vṛṇvaṃti*) the worlds. He destroys them. The food that this Indra bestows on the sacrificer, that food he bears, that is, he carries it to give it to the sacrificer. We, the praisers, may we be dear in the friendship of this Indra, such as he is. "May we be" is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—the wealthy
+- यः (*yaḥ*)—which Indra
+- आजिषु (*ājiṣu*)—in battles
+- एकः (*ekaḥ*)—as the one chief leader
+- शृण्वे (*śṛṇve*)—is renowned
+- अयं (*ayaṃ*)—that same Indra
+- समीचीः (*samīcīḥ*)—that are gathered together
+- वृतः (*vṛtaḥ*)—the enemy armies
+- चातयते (*cātayate*)—destroys
+- अयं (*ayaṃ*)—this same Indra
+- यं वाजं (*yaṃ vājaṃ*)—what food
+- सनोति (*sanoti*)—he gives to the sacrificer
+- भरति (*bharati*)—(that) he holds ready to bestow
+- अस्य (*asya*)—of this Indra
+- सख्ये (*sakhye*)—by reason of friendship
+- प्रियासः (*priyāsaḥ*)—dear to him
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra, the wealthy, who is renowned in battles as the one chief leader, destroys the enemy armies that are gathered together. The very food that this Indra gives to the sacrificer, that he holds ready to bestow on him. By reason of the friendship of this Indra, may we be dear to him.
+
+### Printed p. 969
+
+##### English translation (H. H. Wilson)
+This Maghavan, who destroys assembled hosts, is he who is renowned as chief in battles : he brings the food which he bestows (upon the worship- per) : may we be held dear in his friendship.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं शृ॑ण्वे॒ अध॒ जय॑न्नु॒त घ्नन्व॒यमु॒त प्र कृ॑णुते ॒ 
+> यु॒धा गाः ।  
+> य॒दा स॒त्यं कृ॑णु॒ते म॒न्युमिंद्रो॒ विश्वं॑ दृ॒ळं भ॑यत॒  ॑
+> एजदस्मात्॥ १० ॥
+
+> *ayaṃ śṛṇve adha jayannuta ghnanvayamuta pra kṛṇute*  
+> *yudhā gāḥ |*  
+> *yadā satyaṃ kṛṇute manyumiṃdro viśvaṃ dṛḷaṃ bhayata*  
+> *ejadasmāt‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । शृण्वे । अध । जयन् । उत । घ्नन् । अयं । उत । प्र । कृणुते । युधा।  
+> गाः ।  
+> यदा । सत्यं । कृणुते । मन्युं । इंद्रः । विश्वं । दृळं । भयते । एजत् । अस्मात्॥
+
+> *ayaṃ | śṛṇve | adha | jayan | uta | ghnan | ayaṃ | uta | pra | kṛṇute | yudhā|*  
+> *gāḥ |*  
+> *yadā | satyaṃ | kṛṇute | manyuṃ | iṃdraḥ | viśvaṃ | dṛḷaṃ | bhayate | ejat | asmāt‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधापि च अयमिंद्रो जयन् शत्रुन्विजयन् शृण्वे । श्रूयते । सर्वत्र
+> प्रख्यातो भवति । उतापि च घ्नन् शत्रुन्हिंसन् सर्वत्र श्रूयते । उतापि चायमिंद्रो युधा यद्धेन गाः पशून्पृ कृणुते । शत्रुसकाशादाहरति । किंच इंद्रो
+> यदा मन्युं कोपं सत्यमेव कृणुते । द्विषदर्थं करोति । तदानीं दृढं स्थिरं
+> स्थावररूपमेजत्कंपमानं जंगमरूपं च विश्वं समस्तं जगदस्मादिंद्राध्वयते ।
+> बिभेति ॥
+
+##### Gist of the bhāṣya
+
+Moreover this Indra, conquering enemies, is heard of, that is, is famed everywhere; and slaying enemies he is heard of everywhere. This Indra also by battle (युधा (*yudhā*)) takes गाः (*gāḥ*), cattle: he carries them off from the enemy's possession. Further, when Indra makes his anger (मन्युं (*manyuṃ*)) true, that is, acts for the sake of the foe, then the whole world, firm, that is, of stationary form, and एजत् (*ejat*), trembling, that is, of moving form, fears this Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—and
+- अयं (*ayaṃ*)—this Indra
+- जयन् (*jayan*)—in conquering the enemy (as victorious)
+- शृण्वे (*śṛṇve*)—is renowned
+- उत (*uta*)—and
+- घ्नन् (*ghnan*)—he is renowned also as the destroyer of enemies
+- उत (*uta*)—and
+- अयं (*ayaṃ*)—this Indra
+- युधा (*yudhā*)—by battle
+- गाः (*gāḥ*)—cows
+
+### Printed p. 970
+- प्र कृणुते (*pra kṛṇute*)—carries them off from the enemies
+- इंद्रः (*iṃdraḥ*)—Indra
+- यदा (*yadā*)—when
+- मन्युं (*manyuṃ*)—anger
+- सत्यं कृणुते (*satyaṃ kṛṇute*)—he makes manifest in truth (then)
+- दृळं (*dṛḷaṃ*)—that which is immovably firm
+- एजत् (*ejat*)—and that which is of moving nature
+- विश्वं (*viśvaṃ*)—the whole world, consisting of the stationary and the moving
+- अस्मात् (*asmāt*)—from this Indra
+- भयते (*bhayate*)—is seized with fear
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra is renowned at the time of battle as the conqueror of the enemy and the destroyer of enemies. And Indra fights and carries off cattle from the enemies. When this Indra manifests his anger in truth, then the whole world, both what is immovably firm and what is of moving nature, is seized with fear of this Indra.
+
+##### English translation (H. H. Wilson)
+This (Indra), is renowned, whether conquering or slaying (his foes), or whether in conflict he recovers the cattle : when Indra truly entertains anger, all that is stationary or moveable is in fear of him.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समिंद्रो॒ गा अ॑जय॒त्सं हिर॑ण्या॒ सम॑श्वि॒या म॒घवा॒ यो ह॑  ॒
+> पूर्वीः ।  
+> ए॒भिर्नृभि॒र्नृत॑मो अस्य शा॒कै रा॒यो वि॑भ॒क्ता सं॑भ॒रश्च॒ वस्वः॑ ॥
+
+> *samiṃdro gā ajayatsaṃ hiraṇyā samaśviyā maghavā yo ha*  
+> *pūrvīḥ |*  
+> *ebhirnṛbhirnṛtamo asya śākai rāyo vibhaktā saṃbharaśca vasvaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । इंद्रः । गाः । अजयत् । सं । हिरण्या । सं । अश्विया । मघवा । यः । ह ।  
+> पूर्वीः ।  
+> एभिः । नृभिः । नृतमः । अस्य । शाकैः । रायः । विभक्ता । संभरः । च । वस्वः ॥११॥
+
+> *saṃ | iṃdraḥ | gāḥ | ajayat | saṃ | hiraṇyā | saṃ | aśviyā | maghavā | yaḥ | ha |*  
+> *pūrvīḥ |*  
+> *ebhiḥ | nṛbhiḥ | nṛtamaḥ | asya | śākaiḥ | rāyaḥ | vibhaktā | saṃbharaḥ | ca | vasvaḥ ‖11‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो ह यः खलु मघवा धनवानिंद्रोगा असुराणां समजयत् । सम्मक्
+> जितवान् भवति । किंच हिरण्या हिरण्यानि हितरमणीयानि शत्रुसंबंधीनि धनानि समअ. ३. ५. व. २३ ] ऋग्वेदसंहिता 97i
+> यत् । तथा अश्वियाश्वियानि शत्रुसंबंधिनोऽश्वसमूहान् सम्यक् जयति स्म ।
+> तथा पूर्विर्बह्वीः शत्रुसेनाः समजयत् । इंद्रः सर्वान् शत्रून् जित्वा सकलमपि
+> पश्वादिधनमपहृतवानित्यर्थः । शाकैः सामर्थ्य्यन्रृतमो नेतृतमः पश्वादीनामतिशयेन निर्वाहकः स इंद्र एभिन्नृभिर्नेतृभिः स्तोतृभिः स्तुतः सन् अस्य रायः
+> पश्वादिरूपस्य धनस्य विभक्ता स्तोतृभ्यो विभागस्य कर्ता । दाता भवतीत्यर्थः । किंच
+> वस्वो वसुनो धनस्य संभरश्च संभर्ता धारकश्च भवति ॥
+
+##### Gist of the bhāṣya
+
+Maghavan, the wealthy Indra, who has fully conquered the गाः (*gāḥ*), the cattle of the asuras. हिरण्या (*hiraṇyā*) are हिरण्यानि (*hiraṇyāni*), wealth that is beneficial and delightful, belonging to the enemy; these he conquered completely. Likewise अश्विया (*aśviyā*) are अश्विया (*aśviyā*), the enemy's herds of horses; he conquered them completely. Likewise he conquered पूर्वीः (*pūrvīḥ*), the many enemy armies. The sense is that Indra, having conquered all enemies, carried off all their wealth in cattle and the rest. शाकैः (*śākaiḥ*) means by his powers; नृतमः (*nṛtamaḥ*) is the foremost leader, the one who in the highest degree brings about cattle and the rest. That Indra, praised by these leaders, the praisers, is विभक्ता (*vibhaktā*) of this रायः (*rāyaḥ*), the wealth in the form of cattle and the rest, that is, the maker of its division among the praisers: he is the giver. And further he is संभरः (*saṃbharaḥ*) of वस्वः (*vasvaḥ*), the wealth: its bearer and holder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- मघवा (*maghavā*)—wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- गाः (*gāḥ*)—the cows of the asuras
+- सं अजयत् (*saṃ ajayat*)—conquered completely
+- हिरण्या (*hiraṇyā*)—their wealth
+- सं (*saṃ*) (अजयत् (*ajayat*))—seized completely
+- अश्विया (*aśviyā*)—took all their horses completely (and)
+- पूर्विः (*pūrviḥ*)—conquered their boundless armies; that Indra
+- शाकैः (*śākaiḥ*)—endowed with powers
+- नृतमः (*nṛtamaḥ*)—and being the leader
+- एभिः नृभिः (*ebhiḥ nṛbhiḥ*)—(praised) by these human praisers
+- अस्य रायः (*asya rāyaḥ*)—of this wealth
+- विभक्ता (*vibhaktā*)—becomes the divider
+- वस्वः (*vasvaḥ*)—of this same wealth
+- संभरश्च (*saṃbharaśca*)—he becomes also the holder
+
+##### भावार्थ (Bhāvārtha)
+
+The wealthy Indra who has completely conquered all the boundless enemy armies, carried off the cows and horses of the asuras, and completely seized all their wealth, that same Indra, endowed with powers and being the leader, praised by these human praisers, becomes the giver of that wealth to the sacrificers. And he becomes also the holder of the wealth.
+
+##### English translation (H. H. Wilson)
+Indra, the lord of opulence, who has overcome many (enemies) has completely won (their) cattle, (their) gold, (their) horses : chief leader by his energies, praised by these his worshippers, he is the distributor of riches, the bestower of wealth.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किय॑त्स्वि॒ दिंद्रो॒ अध्ये॑ति मा॒तुः किय॑त्पि॒तुर्ज॑नि॒तुर्यो  ॒॑
+> ज॒जान॑ ।
+
+> *kiyatsvi diṃdro adhyeti mātuḥ kiyatpiturjanituryo*  
+> *jajāna |*
+
+### Printed p. 972
+
+> यो अस्य शुष्मं मुहुकैरियर्ति वातो न जूतः स्तनयद्भिरभ्रैः ॥ १२ ॥
+
+> *yo asya śuṣmaṃ muhukairiyarti vāto na jūtaḥ stanayadbhirabhraiḥ ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कियत् । स्वित् । इंद्रः । अधि । एति । मातुः । कियत् । पितुः । जनितुः । यः । जजान।  
+> यः । अस्य । शुष्मं । मुहुकैः । इयर्ति । वातः । न । जूतः । स्तनयत्भिः ।  
+> अभ्रैः ॥ १२ ॥
+
+> *kiyat | svit | iṃdraḥ | adhi | eti | mātuḥ | kiyat | pituḥ | janituḥ | yaḥ | jajāna|*  
+> *yaḥ | asya | śuṣmaṃ | muhukaiḥ | iyarti | vātaḥ | na | jūtaḥ | stanayatbhiḥ |*  
+> *abhraiḥ ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो मातुर्जनन्याः सकाशात्कियत्स्विद्यावद्बलमध्येति । अधिगच्छति ।
+> पितुः सकाशात्कियद्यावद्बलमधिगच्छति । य इंद्रो जनितुर्जयितुर्यस्मात्पजापतेः सकाशादिदं दृश्यमानं जगज्जजान ! अजनयत् । य इंद्रस्तस्मात्पजापतेः
+> सकाशादस्य जगतः शुष्मं यावद्बलं मुहुकैर्मुहुर्मुहुरियर्ति । प्रेरयति ।
+> स्तनयद्धिर्गर्जद्दिरभ्रैर्मेघैर्जूतः प्रेरितो वातो न वायुरिव तथा स इंद्रः
+> स्तोतृभिर्जूतः प्रेरितो हविष्पदानार्थमाहूतो भवति ॥
+
+##### Gist of the bhāṣya
+
+The Indra who derives from his mother, the one who bore him, कियत्स्वित् (*kiyatsvit*), as much strength as there is; and from his father he obtains as much strength as there is. The Indra from whom, as जनितुः (*janituḥ*), the begetter, namely Prajāpati, this visible world was born, that is, was produced: that Indra, from that Prajāpati, sets in motion again and again (मुहुकैः (*muhukaiḥ*)) शुष्मं (*śuṣmaṃ*), the strength, of this world. As the wind (वातो न (*vāto na*)) is driven by thundering (स्तनयद्भिः (*stanayadbhiḥ*)) clouds, so that Indra is impelled by the praisers and, being invoked, comes to bestow the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- जनितुः (*janituḥ*)—with the help of Prajāpati, the begetter of the world
+- जजान (*jajāna*)—created this world
+- यः (*yaḥ*)—which Indra
+- स्तनयद्भिः (*stanayadbhiḥ*)—by thundering
+- अभ्रैः (*abhraiḥ*)—clouds
+- जूतः (*jūtaḥ*)—impelled
+- वातो न (*vāto na*)—like the wind
+- अस्य (*asya*)—of this world
+- शुष्मं (*śuṣmaṃ*)—the strength
+- मुहुकैः (*muhukaiḥ*)—again and again
+- इयर्ति (*iyarti*)—sets in motion; (that) इंद्रः (*iṃdraḥ*)—that same Indra
+- मातुः (*mātuḥ*)—from his mother
+- कियत् स्वित् (*kiyat svit*)—some strength
+- अध्येति (*adhyeti*)—obtains
+- कियत् (*kiyat*)—some strength
+- पितुः (*pituḥ*)—obtains from his father
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who created this world with the help of Prajāpati, the begetter of the world, and who, like the wind driven by thundering clouds, sets in motion the strength of this world again and again, that same Indra obtains some strength from his mother. And he obtains some strength from his father also.
+
+##### English translation (H. H. Wilson)
+Some portion (of his strength) Indra derives from his mother, some- portion from his father : he who, through his progenitor, has begotten (the
+
+### Printed p. 973
+world), and animates its vigour repeatedly, as the wind is driven by thundering clouds.
+
+#### Ṛk
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्षि॒यंतं॑ त्व॒मक्षि॑यंतं कृणो॒तीय॑र्ति रे॒णुं म॒घवा॑  ॒॑
+> समोहं ।  
+> वि॒भं॒ज॒नुर॒शनि॑माइव॒ द्यौरु॒त स्तो॒तारं॑ म॒घवा॒ वसौ॑ धात्॥
+
+> *kṣiyaṃtaṃ tvamakṣiyaṃtaṃ kṛṇotīyarti reṇuṃ maghavā*  
+> *samohaṃ |*  
+> *vibhaṃjanuraśanimāiva dyauruta stotāraṃ maghavā vasau dhāt‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षियंतं । त्वं । अक्षियंतं । कृणोति । इयर्ति । रेणुं । मघवा । संओहं ।  
+> विभंजनुः । अशनिमान्इव । द्यौः । उत । स्तोतारं । मघवा । वसौ । धात् ॥
+
+> *kṣiyaṃtaṃ | tvaṃ | akṣiyaṃtaṃ | kṛṇoti | iyarti | reṇuṃ | maghavā | saṃohaṃ |*  
+> *vibhaṃjanuḥ | aśanimāniva | dyauḥ | uta | stotāraṃ | maghavā | vasau | dhāt ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघवा धनवानिंद्रः क्षियंतं धनराहित्येन क्षीयमाणं त्वमेकं जनमक्षियंतं धनेनाक्षीयमाणं कृणोति । करोति । अकिंचनः कश्चित्पुरुष इंद्रं स्तुत्वा
+> धनसमृद्धोऽभवदित्यर्थः । अशनिमानशनिना युक्तो द्यौरिवांतरिक्षमिन विभंजनुः
+> शत्रूणां विशेषेण भंजको मघवेंद्रः समोहं समूढं रेणुं पापमियर्ति !
+> स्तोतुः सकाशात्पेरयति । उतापि च मघवा धनवानिंद्रः स्तोतारं वसौ धने
+> धात् । अधात् । निदधाति ॥
+
+##### Gist of the bhāṣya
+
+Maghavan, the wealthy Indra, makes क्षियंतं (*kṣiyaṃtaṃ*), one who is declining through want of wealth, त्वं (*tvaṃ*), a single man, अक्षियंतं (*akṣiyaṃtaṃ*), one not declining but possessed of wealth. The sense is that some penniless man, having praised Indra, became rich in wealth. Like द्यौः (*dyauḥ*), the sky, furnished with the thunderbolt (अशनिमान् (*aśanimān*)), Indra Maghavan, विभंजनुः (*vibhaṃjanuḥ*), the special breaker of enemies, drives away रेणुं (*reṇuṃ*), the dust, that is, sin, समोहं (*samohaṃ*), that has been piled together: he sets it in motion away from the praiser. And further Maghavan, the wealthy Indra, places the praiser in वसौ (*vasau*), wealth: धात् (*dhāt*) is "has placed", he establishes.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—(O Indra) you who are wealthy
+- त्वं (*tvaṃ*)—you
+- क्षियंतं (*kṣiyaṃtaṃ*)—the man who is perishing through want of wealth
+- अक्षियंतं (*akṣiyaṃtaṃ*)—so that, not perishing, he becomes prosperous
+- कृणोति (*kṛṇoti*)—you make
+- अशनिमान् (*aśanimān*)—furnished with lightning
+- द्यौः (*dyauḥ*) (इव (*iva*))—like the sky
+- विभंजनुः (*vibhaṃjanuḥ*)—the destroyer of enemies
+- मघवा (*maghavā*)—Indra
+- समोहं (*samohaṃ*)—that has been gathered together
+- रेणुं (*reṇuṃ*)—sin
+- इयर्ति (*iyarti*)—drives away
+- उत (*uta*)—and
+- मघवा (*maghavā*)—the wealthy Indra
+- स्तोतारं (*stotāraṃ*)—the praiser
+- वसौ (*vasau*)—in the midst of wealth
+- धात् (*dhāt*)—places
+
 ---
 
-**Progress note:** Done through printed p. 966. pp. 960-966 (batch API)
+**Progress note:** Done through printed p. 973. pp. 967-973 (batch API)
