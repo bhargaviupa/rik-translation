@@ -43,7 +43,7 @@ def process(lines):
                 block.append(lines[i]); out.append(lines[i]); i += 1
             j = i
             while j < len(lines) and lines[j].strip() == '': j += 1
-            has = j < len(lines) and lines[j].lstrip('> ').startswith('*') and not DEV.search(lines[j])
+            has = j < len(lines) and lines[j].startswith('>') and lines[j].lstrip('> ').startswith('*') and not DEV.search(lines[j])   # an IAST run is a blockquote line; a '**label**' or '*Gist:*' line after the block is not one (bug until Nov 11 2026: such blocks got no IAST)
             if not has:
                 out.append('')
                 for b in block: out.append('> *' + deva_to_iast(b.lstrip('> ').strip()) + '*')

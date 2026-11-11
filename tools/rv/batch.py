@@ -54,6 +54,34 @@ def cmd_new(a):
     if not os.path.exists(en): wr(en,f'# Rigveda Samhita — Volume {vol} (Kannada → English translation)\n\n---\n\n**Progress note:** Done through printed p. {start-1}; nothing translated yet.\n')
     if not os.path.exists(kn): wr(kn,f'# ಋಗ್ವೇದ ಸಂಹಿತಾ — ಸಂಪುಟ {vol} (Kannada text)\n*The Kannada text of the printed pages, made by script from the supplied machine-read text (tools/rv/html_to_kn.py) and checked by the translator; the English file is made from it. `[?]` marks a doubtful reading.*\n\n---\n\n')
     print('created',cp,'\nnext: put the supplied HTML/markdown in',f'vol{vol}/html/','and list it under "source" (file@FIRST-LAST printed pages); set "printed" only if you need PDF numbers (numeral file pages), and the numeral file(s) in',f'vol{vol}/numerals/')
+def subheads(t):
+    """Reader's layout (user, Nov 11 2026): every part of a Ṛk under its own sub-heading, blocks set apart by blank lines, the lines of the verse
+    (Saṃhitā, Pada and their transliteration) kept one under the other.  Done at the end of the build; en.md is written as before."""
+    out=[]; sec=None
+    L=t.split('\n')
+    for i,l in enumerate(L):
+        m=re.fullmatch(r'\*\*([^*]+)\*\*\s*',l)
+        if m and (m.group(1).startswith(('॥','प्रतिपदार्थ','भावार्थ','विशेषविषय','Printed English','Grammar','English translation','Anuvāda','Particulars'))):
+            name=m.group(1).strip(); sec=name
+            name={'॥ संहितापाठः ॥':'॥ संहितापाठः ॥ (Saṃhitā-pāṭha)','॥ पदपाठः ॥':'॥ पदपाठः ॥ (Pada-pāṭha)','॥ सायणभाष्यम् ॥':'॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)',
+                  'विशेषविषयगळु (Viśeṣaviṣayagaḷu)':'विशेषविषयगळु (Special Topics)'}.get(name,name)
+            if out and out[-1].strip(): out.append('')
+            out+=['##### '+name,'']; continue
+        m=re.match(r'\*\(?Gist[.:)]*\*:?\s*(.*)',l)
+        if m:
+            if out and out[-1].strip(): out.append('')
+            out+=['##### Gist of the bhāṣya','']
+            if m.group(1).strip(): out.append(m.group(1).strip())
+            sec='gist'; continue
+        if l.startswith('#'): sec=None if l.startswith(('#### ','## ')) else sec
+        if l.startswith('> '):
+            if out and out[-1].strip() and not out[-1].startswith('>'): out.append('')
+            verse=sec in ('॥ संहितापाठः ॥','॥ पदपाठः ॥'); nxt=L[i+1] if i+1<len(L) else ''
+            out.append(l.rstrip()+('  ' if verse and nxt.startswith('> ') else ''))      # two spaces = line break inside the verse
+            if not nxt.startswith('>') and nxt.strip(): out.append('')
+            continue
+        out.append(l)
+    return re.sub(r'\n{3,}','\n\n','\n'.join(out))
 NOTE_RE=re.compile(r'\*\*NOTE\*\*\{([^{}]*)\}')
 def note_style(cfg): return cfg.d.get('note_style')=='NOTE'
 def split_notes(en):
@@ -138,8 +166,9 @@ def cmd_build(a):
     p=os.path.join(w,'en_final.md'); wr(p,text)
     r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
     t=labels.normalise(rd(p)).replace(convert.NOIAST,'> ')
+    if cfg.d.get('layout')=='subheads': t=subheads(t)
     lab=cfg.d.get('printed_english_label')                 # the heading of the English printed in the edition (volcfg), e.g. 'English translation (H. H. Wilson)'
-    if lab: t=re.sub(r'(?m)^\*\*Printed English( translation)?\*\*\s*$','**'+lab+'**',t)
+    if lab: t=re.sub(r'(?m)^(\*\*|##### )Printed English( translation)?(\*\*)?\s*$',lambda m:('##### '+lab) if m.group(1).startswith('#') else '**'+lab+'**',t)
     wr(p,t)
     r=sh(f'python3 publish/tools/accents/accent_volume.py {cfg.vol} --file "{p}" --write'); print('accents:',[l for l in (r.stdout+r.stderr).split('\n') if l.startswith('Vol') or 'not matched' in l or 'Error' in l or 'Trace' in l])
     rep=os.path.join(ROOT,f'vol{cfg.vol}','review','accent_report.tsv')                     # the accent step rewrites its report every time: keep a cumulative copy (Vol 16 lesson 35)
