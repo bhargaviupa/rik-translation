@@ -5768,6 +5768,272 @@ The eternal companionship and friendship of Indra and the Maruts, the relation o
 स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः । (*sa no marudbhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*)
 (Ya Saṃ. 1-171-5) **NOTE**
 
+### Printed p. 150
+
+…in ṛks such as this there is, for Indra and the Maruts together, a joint invocation and an offering of the oblation.
+
+And in the Bṛhaddevatā as well: मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*) (Bṛ. De. 4-56). This gives an account of the companionship of Indra and the Maruts.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पूर्ये॑ मरुत आ॒पिरे॒षोऽमं॑द॒न्निंद्र॒मनु॒ दाति॑वाराः ।  
+> तेभिः॑ सा॒कं पि॑बतु वृत्रखा॒दः सु॒तं सोमं॑ दा॒शुषः॒ स्वे  ॒॑
+> सधस्थे ॥ ९ ॥
+
+> *apūrye maruta āpireṣo 'maṃdanniṃdramanu dātivārāḥ |*  
+> *tebhiḥ sākaṃ pibatu vṛtrakhādaḥ sutaṃ somaṃ dāśuṣaḥ sve*  
+> *sadhasthe ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्त्तूर्ये । मरुतः । अपिः । एषः । अमंदन् । इंद्रं । अनु । दाशिवाराः ।  
+> तेभिः साकं । पिबतु । वृत्रखादः । सुतं । सोमं । दाशुषः । स्वे । सधस्थे ॥ ९ ॥
+
+> *asttūrye | marutaḥ | apiḥ | eṣaḥ | amaṃdan | iṃdraṃ | anu | dāśivārāḥ |*  
+> *tebhiḥ sākaṃ | pibatu | vṛtrakhādaḥ | sutaṃ | somaṃ | dāśuṣaḥ | sve | sadhasthe ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो य एष इंद्रोऽपूर्येऽपां प्रेरण आपिर्युष्माकं सखा
+> सन् वर्तते दाशिवाराः । वारो वरणेयं बलं धनं वा । दत्तबला दत्तधना वा ते
+> मरुतस्तमिंद्रमन्वमंदन् । अहृष्यन् । वृत्रखादो वृत्रस्य हिंसकः स इंद्रस्तेभिस्मैर्मरुद्धिः साकं दाशुषो हविर्दत्तवतो यजमानस्य स्वे स्वकीये सधस्थे । सह
+> तिष्ठंत्यस्मिन्निति सधस्थं गृहं । तस्मिन् सुतमभिषुतं सोमं पिबतु ॥ अपूर्ये ।
+> तूरी त्वराहिंसयोरित्यस्मादघ्न्यादयश्चेति यत्पत्ययः । यतोऽनाव इत्याद्युदात्तः । समासे कृदुत्तरपदस्वरः । अमंदन् । मदि स्तुत्यादिषु । परस्मैपदी ।
+> पादादित्वादनिघातः । वृत्रखादः । खादृ भक्षणे । कर्मण्यण् । दाशुषः । दाश्व दान
+> इत्यस्य क्वसौ दाश्वान्साह्वान्निढ्वांश्चेति द्विर्वचनाद्यभावः । वसोः संप्रसारणं ।
+> प्रत्ययस्वरः । सधस्थे । सध मादस्थयोशृंदसीति सहस्य सधादेशः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, this Indra who is your friend (āpi) in the apūrya, the sending forth of the waters, was gladdened after by those Maruts who are दाशिवाराः (*dāśivārāḥ*)." Vāra means choice, strength or wealth; so the dāśivārāḥ are those who have given strength or given wealth. The Maruts gladdened that Indra. Vṛtrakhāda is the slayer of Vṛtra. Let that Indra, together with those Maruts, drink the soma pressed in the own abode (sadhastha) of the sacrificer who has given the oblation. A sadhastha is a house, since people stand together (saha tiṣṭhanti) in it. The remainder of the block is grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- एषः (*eṣaḥ*)—this Indra
+- अप्त्यो (*aptyo*)—at the time of pouring rain
+- आपि (*āpi*)—is your friend
+- दातिवाराः (*dātivārāḥ*)—(to him) those Maruts, the providers of strength
+
+### Printed p. 151
+
+- इंद्रं अनु (*iṃdraṃ anu*)—to Indra
+- अमंदन् (*amaṃdan*)—became givers of delight
+- वृत्रखादः (*vṛtrakhādaḥ*)—Indra, the slayer of Vṛtra
+- तेभिः साकं (*tebhiḥ sākaṃ*)—together with those Maruts
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who offers the oblation
+- स्वे सधस्थे (*sve sadhasthe*)—in his own sacrificial house
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—the soma
+- पिबतु (*pibatu*)—let him drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, this Indra is your friend at the time of pouring rain. Those Maruts, the providers of strength to him, became givers of delight to Indra. Let Indra, the slayer of Vṛtra, together with those Maruts, drink the soma pressed in the own sacrificial house of the sacrificer who offers the oblation.
+
+##### English translation (H. H. Wilson)
+Maruts, this is your friend for sending of the waters: they (the Maruts), the givers of strength, have yielded Indra gratification: may the devourer of Vritra drink with them the libation offered by the worshipper in his own abode.
+
+##### विशेषविषयगळु (Special Topics)
+
+The friendly feeling and companionship of Indra and the Maruts were already subtly set out in the preceding ṛk. This ṛk tells that Indra helps the Marut deities even in the pouring of rain. The help rendered to the Maruts is this: Indra strikes with the thunderbolt the demon Vṛtra, who has held back the rain from falling, and so assists the pouring of the rain. The seer prays that Indra come with such Marut deities and drink soma in the sacrificial house of the sacrificer.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं ह्यन्नोज॑सा सु॒तं रा॑धानां पते ।  
+> पिबा॒ त्व१॒ं॑स्य गि॑र्वणः ॥ १० ॥
+
+> *idaṃ hyannojasā sutaṃ rādhānāṃ pate |*  
+> *pibā tvaṃsya girvaṇaḥ ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । हि । अनु । ओजसा । सुतं । राधानां । पते ।  
+> पिब । तु । अस्य । गिर्वणः ॥ १० ॥
+
+> *idaṃ | hi | anu | ojasā | sutaṃ | rādhānāṃ | pate |*  
+> *piba | tu | asya | girvaṇaḥ ‖ 10 ‖*
+
+### Printed p. 152
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राधानां पते धनानां स्वामिन् गिर्वणो गीर्भिः स्तुतिभिर्वननीय हे
+> इंद्र इदमनु अनेनानुक्रमेण । उद्देशानुक्रमेणेत्यर्थः । ओजसा बलेन ग्रावभिः
+> सुतमभिषुतं सोमं तु क्षिप्रं पिब हि ॥
+
+##### Gist of the bhāṣya
+
+"O lord of riches (rādhas), O Indra, who art to be won (vananīya) by songs (gīrbhiḥ), i.e. by praises: इदमनु (*idamanu*) means 'in this sequence', that is, in the sequence of the purpose. With strength (ojas), i.e. with the pressing-stones, drink quickly this soma that has been pressed."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राधानां (*rādhānāṃ*)—of riches
+- पते (*pate*)—O lord
+- गिर्वणः (*girvaṇaḥ*)—O Indra, who art praised with songs
+- इदं अनु (*idaṃ anu*)—in sequence of the purpose
+- ओजसा (*ojasā*)—with the powerful stones
+- सुतं (*sutaṃ*)—crushed and pressed
+- अस्य (*asya*)—this soma
+- तु (*tu*)—quickly
+- पिब हि (*piba hi*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of riches, praised with songs: in the sequence of the purpose, drink quickly this soma pressed with the powerful stones.
+
+##### English translation (H. H. Wilson)
+Lord of riches, entitled to praise, this libation has been effused agreeably to (our) strength : drink of it quickly.
+
+##### विशेषविषयगळु (Special Topics)
+
+गिर्वणः (*girvaṇaḥ*)—गीर्भिर्वननीयः (*gīrbhirvananīyaḥ*). He who is approached with words of praise; that is, when he is invoked with hymns and the like, Indra comes to the sacrificial ground to favour them and drinks the soma. This is the meaning.
+
+ओजसा सुतं (*ojasā sutaṃ*)—बलेन ग्रावभिः अभिषुतं सोमं (*balena grāvabhiḥ abhiṣutaṃ somaṃ*). Since, when the soma plants are crushed with stones to take out the juice, they have to be crushed with the application of force, the expression ओजसा सुतं (*ojasā sutaṃ*) is appropriate.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ अनु॑ स्व॒धामस॑त्सु॒ते नि य॑च्छ त॒न्वं॑ ।  
+> स त्वा॑ ममत्तु सो॒म्यं ॥ ११ ॥
+
+> *yaste anu svadhāmasatsute ni yaccha tanvaṃ |*  
+> *sa tvā mamattu somyaṃ ‖ 11 ‖*
+
+### Printed p. 153
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । अनु । स्वधां । असत् । सुते । नि । यच्छ । तन्नं ।  
+> सः । त्वा । ममत्तु । सोम्यं ॥ ११ ॥
+
+> *yaḥ | te | anu | svadhāṃ | asat | sute | ni | yaccha | tannaṃ |*  
+> *saḥ | tvā | mamattu | somyaṃ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वदर्थं यः सोमः स्वधामन्नमनु अनुसृत्य ग्रावभिरभिषुतोऽसत् सुते तस्मिन् सोमे तन्नं स्वकीयं शरीरं नि यच्छ । प्रेरय । स सोमः
+> सोम्यं सोमार्हं त्वा त्वां ममत्तु । मादयातु ॥ असत् । अस्तेर्लेट्यडागमे
+> रूपं । यद्वत्तयोगादनिघातः । आगमस्यानुदात्तत्वे धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, the soma that, for thee, has been pressed with the stones in accordance with svadhā (food) — in that pressed soma नि यच्छ (*ni yaccha*) thy own body, that is, direct it. Let that soma gladden thee, who art worthy of soma." The rest of the block is grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—for thee
+- यः (*yaḥ*)—the soma which
+- स्वधां अनु (*svadhāṃ anu*)—pressed in accordance with the contest
+- असत् (*asat*)—is ready
+- सुते (*sute*)—in this pressed soma
+- तन्नं (*tannaṃ*)—thy body
+- नि यच्छ (*ni yaccha*)—rouse up
+- सः (*saḥ*)—that same soma
+- सोम्यं (*somyaṃ*)—worthy of the soma-drink
+- त्वा (*tvā*)—thee
+- ममत्तु (*mamattu*)—let it gladden
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the soma that has been pressed for thee in accordance with the contest and made ready: in this pressed, ready soma rouse up thy body. Let that same soma gladden thee, who art worthy of the soma-drink.
+
+##### English translation (H. H. Wilson)
+Invigorate your body with the soma that has been poured out as food for you: may it exhilarate you, delighting in the Soma draught.
+
+##### विशेषविषयगळु (Special Topics)
+
+स्वधां अनु (*svadhāṃ anu*)—The word svadhā is read among the names of food. The meaning is: O Indra, the soma juice that is fit to be consumed, standing in the place of food, as food for thee. Or else it may be understood that after the eating of food and the like, this soma juice has been prepared for drinking.
+
+सुते नि यच्छ तन्वं (*sute ni yaccha tanvaṃ*)—When the soma juice is ready, direct thy body; that is, make thyself ready for drinking soma, or resolve to do so.
+
+### Printed p. 154
+
+The seer prays that this soma juice that we have prepared may gladden thee, who art worthy of the soma-drink.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रते॑ अश्नोतु कु॒क्ष्योः प्रेंद्र॒ ब्रह्म॑णा॒ शिरः॑ ।  
+> प्र बा॒हू शू॑र॒ राध॑से ॥ १२ ॥
+
+> *prate aśnotu kukṣyoḥ preṃdra brahmaṇā śiraḥ |*  
+> *pra bāhū śūra rādhase ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । अश्नोतु । कुक्ष्योः । प्र । इंद्र । ब्रह्मणा । शिरः ।  
+> प्र । बार इति । शूर । राधसे ॥ १२ ॥
+
+> *pra | te | aśnotu | kukṣyoḥ | pra | iṃdra | brahmaṇā | śiraḥ |*  
+> *pra | bāra iti | śūra | rādhase ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स सोमस्ते तव कुक्षोः कुक्षेरुभयोः पार्श्वयोरुभौ पार्श्वा
+> प्राश्नोतु । प्रकर्षण व्याप्नोति । तथा ब्रह्मणा स्तोत्रेण सहितः स सोमः शिरः
+> शरीरं अवयवादिनावयवी लक्ष्यते । त्वच्छरीरं प्राश्नोतु । हे शूर इंद्र राधसे
+> धनाय तव बाहू अपि प्राश्नोतु ॥ अश्नोतु । अशू व्याप्तावित्यस्य लोटि व्यत्ययेन
+> परस्मैपदं । निघातः । कुक्षोः । उदात्तयणो हल्पूर्वादिति विभक्तेरुदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, let that soma pervade thy two sides of the belly (kukṣi), i.e. both flanks. Likewise let that soma, together with the brahman, i.e. the praise-song, pervade thy head (śiras); by the part the whole is indicated, so: let it pervade thy body. O hero Indra, for wealth (rādhas) let it pervade also thy arms." The rest of the block is grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—that same soma
+- ते (*te*)—thy
+- कुक्षोः (*kukṣoḥ*)—in both sides of the belly
+- प्र अश्नोतु (*pra aśnotu*)—let it pervade fully
+- ब्रह्मणा (*brahmaṇā*)—that soma accompanied by praise
+- शिरः (*śiraḥ*)—thy body
+- प्र (*pra*)—let it pervade fully
+- शूर (*śūra*)—O valiant Indra
+- राधसे (*rādhase*)—for the gain of wealth
+- बाहू (*bāhū*)—in thy arms
+- प्र (अश्नोतु) (*pra (aśnotu)*)—let it pervade fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let the soma offered to thee pervade fully both sides of thy belly, thy head, thy arms, and also thy whole body, for the gain of wealth for us.
+
+##### English translation (H. H. Wilson)
+May this libation, Indra, penetrate to your flanks ; may it, (aided) by prayer, reach your head; may it spread, hero, through your arms, (that they may distribute) wealth.
+
+### Printed p. 155
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk the seer expresses the wish: let the soma juice that we have prepared pervade well both parts of Indra's belly and the other parts of his body, especially the head and the arms, and cause him delight; and let Indra, delighted by that soma-drinking, bring us gain of wealth.
+
+## Sūkta 52 (Maṇḍala 3)
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धानावंतमित्यष्टर्चं चतुर्दशं सूक्तं वैश्वामित्रम्यंद्रं । अत्रेयमनुक्रमणिका । धानावंतमष्टौ पूर्वार्धं गायत्रं षष्ठी जगतीति । आदितश्चतुस्रो
+> गायत्र स्तृतीये धाना इति षष्ठी जगती शिष्टास्त्रिष्टुभः ॥ सूक्तविनियोगो लिंगादवगंतव्यः । प्रातःसवनीयपुरोडाशस्यानुवाक्या धानावंतमित्याद्या । सूत्रितं
+> च । धानावंतं करंभिणमिति प्रातःसवनेऽनुवाक्या । आ. ५-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning धानावंतं (*dhānāvaṃtaṃ*) has eight ṛks and is the fourteenth sūkta; its seer is Viśvāmitra and its deity Indra. The Anukramaṇikā here: धानावंतमष्टौ पूर्वार्धं गायत्रं षष्ठी जगती (*dhānāvaṃtamaṣṭau pūrvārdhaṃ gāyatraṃ ṣaṣṭhī jagatī*). Explained: the first four ṛks are gāyatrī; the sixth, तृतीये धानाः (*tṛtīye dhānāḥ*), is jagatī; the remaining ones are triṣṭubh. The use (viniyoga) of the sūkta is to be learnt from the indication (liṅga) of the ṛks. The first ṛk, धानावंतं (*dhānāvaṃtaṃ*), is the anuvākyā of the puroḍāśa of the morning pressing. It is also stated in the sūtra: धानावंतं करंभिणमिति प्रातःसवनेऽनुवाक्या (*dhānāvaṃtaṃ karaṃbhiṇamiti prātaḥsavane 'nuvākyā*) (Ā. 5-4).
+
+##### Anuvāda
+
+This sūkta beginning धानावंतं (*dhānāvaṃtaṃ*) is the fourteenth sūkta in the fourth anuvāka. It has eight ṛks. Viśvāmitra is the seer of this sūkta; Indra is the deity. In the Anukramaṇikā it is said: धानावंतमष्टौ पूर्वार्धं गायत्रं षष्ठी जगती (*dhānāvaṃtamaṣṭau pūrvārdhaṃ gāyatraṃ ṣaṣṭhī jagatī*). The first four ṛks of this sūkta are in the gāyatrī metre; the sixth ṛk, तृतीये धानाः (*tṛtīye dhānāḥ*), is in the jagatī metre; the remaining three ṛks are in triṣṭubh metre. The use of the sūkta follows the meaning of the several ṛks. The first ṛk of this sūkta, धानावंतं (*dhānāvaṃtaṃ*), is to be used as the anuvākyā mantra in the puroḍāśa oblation connected with the morning pressing; this is set forth by the Āśvalāyana Śrauta Sūtra, in the sūtra धानावंतं करंभिणमिति प्रातस्सवनेऽनुवाक्या (*dhānāvaṃtaṃ karaṃbhiṇamiti prātassavane 'nuvākyā*) (Ā. 5-4).
+
 ---
 
-**Progress note:** Done through printed p. 149. pp. 144-149 (batch API, retry 1)
+**Progress note:** Done through printed p. 155. pp. 150-155 (batch API, retry 1)
