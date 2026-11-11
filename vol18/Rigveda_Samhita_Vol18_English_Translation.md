@@ -20222,6 +20222,174 @@ The influence of this purohita is described in another way. The word मेन�
 
 The Brahmin purohita whom the king appoints, being endowed with five kinds of मेनि (*meni*), that is, having powers of restraint and favour, is of the very nature of the Vaiśvānara fire. But that purohita, not using his powers and capacities for doing harm against the king, being of a calm nature
 
+### Printed p. 515
+and protects the king in every way. Just as the earth, surrounded on all sides by the ocean, is secure, so the king together with his purohita is secure, free from trouble caused by enemies and the like.
+
+अयुवमार्यस्य राष्ट्रं भवति नैनं पुरायुषः प्राणो जहात्यजरसं जीवति सर्वमायुरेति न पुनर्म्रियते यस्यैवं विद्वान्ब्राह्मणो राष्ट्रगोपः पुरोहितः । (*ayuvamāryasya rāṣṭraṃ bhavati nainaṃ purāyuṣaḥ prāṇo jahātyajarasaṃ jīvati sarvamāyureti na punarmriyate yasyaivaṃ vidvānbrāhmaṇo rāṣṭragopaḥ purohitaḥ |*)
+
+The kingdom of a king who has obtained such a Brāhmaṇa purohita is always secure. This purohita knows the Veda and the śāstras well and is able to discern and teach right and wrong; and by timely counsel and the like he helps the king in governing the kingdom so that no harm comes to it. No unrest arises in the kingdom. The subjects live happily and the kingdom is free from calamities. In his kingdom the young do not fall under the power of death; that is, until a hundred years are complete no one has the fear of untimely death. The king too, without fear of untimely death, obtains long life and lives free from disease and the like, in comfort, until old age. He lives for the span allotted to him, that is, a hundred years. Since that king receives instruction in the truth from the purohita, after death he attains a good state, and he has no fear of rebirth or of dying again.
+
+क्षत्रेण क्षत्रं जयति बलेन बलमश्नुते यस्यैवं विद्वान् ब्राह्मणो राष्ट्रगोपः पुरोहितः । (*kṣatreṇa kṣatraṃ jayati balena balamaśnute yasyaivaṃ vidvān brāhmaṇo rāṣṭragopaḥ purohitaḥ |*)
+(Ai. Brā. 40-25)
+
+The king, joined to such an excellent purohita, obtains an excellent son and by his valour and prowess subdues the enemy king. He defeats the enemy's army with his own army. In this king's kingdom the subjects, being of one mind, that is, acting in mutual cooperation, remain obedient to the king's command.
+
+[The qualification of the purohita, etc.: three kinds of purohitas; the fitness required for the office; by reciting which mantra and by which rite the king appoints a purohita, etc.]
+
+यो ह वै त्रीन्सुरोहितांस्त्रीन्सुरोधात्कन्वेद स ब्राह्मणः पुरोहितः स वदेत पुरोधाया अग्निर्वाव पुरोहितः पृथिवी पुरोधाता वायुर्वाव पुरोहितोऽन्तरीक्षं पुरोधातादित्यो वाव पुरोहितो द्यौः पुरोधातैष ह वै पुरोहितो य एवं वेद (*yo ha vai trīnsurohitāṃstrīnsurodhātkanveda sa brāhmaṇaḥ purohitaḥ sa vadeta purodhāyā agnirvāva purohitaḥ pṛthivī purodhātā vāyurvāva purohito 'ntarīkṣaṃ purodhātādityo vāva purohito dyauḥ purodhātaiṣa ha vai purohito ya evaṃ veda*)
+(Ai. Brā. 40-27)
+
+### Printed p. 516
+A Brāhmaṇa whom a king appoints for his own good counsel is called purohita. The king who appoints such a purohita is called purodhātā. Thus there are two kinds: the purohita and the one who appoints the purohita. Among the gods there are three purohitas and three purodhātṛs who appoint them. The Brāhmaṇa who knows this meaning alone is fit to be a purohita. To perform the priestly office, that Brāhmaṇa must recite the mantra आग्निर्वाव पुरोहितः पृथिवी पुरोधाता । वायुर्वाव पुरोहितः अंतरिक्षं पुरोधाता । आदित्यो वाव पुरोहितः द्यौः पुरोधाता (*āgnirvāva purohitaḥ pṛthivī purodhātā | vāyurvāva purohitaḥ aṃtarikṣaṃ purodhātā | ādityo vāva purohitaḥ dyauḥ purodhātā*). That is, among the gods Agni is the purohita and the earth the purodhātṛ (the person who appoints the purohita); Vāyu is the purohita and the atmosphere the purodhātṛ; Āditya is the purohita and Dyauḥ (heaven) the purodhātṛ: this is the meaning of the mantra. One who knows this meaning well is qualified to officiate as purohita; a man who does not know it is not fit for the purohita's position.
+
+तस्य राजा मित्रं भवति द्विषंतमपबाधते यस्यैवं विद्वान्ब्राह्मणो राष्ट्रगोपः पुरोहितः । (*tasya rājā mitraṃ bhavati dviṣaṃtamapabādhate yasyaivaṃ vidvānbrāhmaṇo rāṣṭragopaḥ purohitaḥ |*)
+
+The king who has a purohita endowed with the qualities stated above lives in friendship with the kings of other countries. Those kings too wish to obtain friendship and kinship with this king. Likewise the king with his purohita defeats the king who is his enemy. Therefore a Brāhmaṇa purohita who knows everything is necessary for the protection and prosperity of the realm.
+
+क्षत्रीण क्षत्रं जयति बलेन बलमश्नुते यस्यैवं विद्वान्ब्राह्मणो राष्ट्रगोपः पुरोहितस्तस्मै विशः संजानते संमुखा एकमनसो यस्यैवं विद्वान्ब्राह्मणो राष्ट्रगोपः पुरोहितः । (*kṣatrīṇa kṣatraṃ jayati balena balamaśnute yasyaivaṃ vidvānbrāhmaṇo rāṣṭragopaḥ purohitastasmai viśaḥ saṃjānate saṃmukhā ekamanaso yasyaivaṃ vidvānbrāhmaṇo rāṣṭragopaḥ purohitaḥ |*)
+
+The king joined to such a Brāhmaṇa purohita of excellent knowledge obtains a distinguished and mighty son and by his valour and prowess subdues the enemy king. He defeats the enemy's army with his own army. In this king's kingdom the subjects are of one mind, that is, the king and the subjects act in mutual cooperation, obey the king's command and live happily.
+
+[The mantra of choosing the purohita recited by the king, etc.]
+
+भूर्भुवः स्वरोममोऽहमस्मि स त्वं स त्वमस्यमोऽहं द्यौरहं पृथिवी त्वं सामाहमृक्त्वं तावेह संवहावहै । पुराण्यस्मान्महाभयात् । तनूरसि तन्वं मे पाहि । (*bhūrbhuvaḥ svaromamo 'hamasmi sa tvaṃ sa tvamasyamo 'haṃ dyaurahaṃ pṛthivī tvaṃ sāmāhamṛktvaṃ tāveha saṃvahāvahai | purāṇyasmānmahābhayāt | tanūrasi tanvaṃ me pāhi |*)
+
+### Printed p. 517
+This mantra is to be recited when choosing (appointing) the purohita. The words bhūḥ, bhuvaḥ, svaḥ indicate the presiding deities of the worlds earth, atmosphere and heaven; the pranava Oṃ denotes the Supreme Self. The intention is: may all these deities favour me. I, the purohita, am of the nature of the Dyu (heaven) world; you are of the nature of the earth world. And you are of the nature of the earth world; I am of the nature of the heaven world (this sentence is recited twice to stress the point). Likewise I am of the nature of the Sāmaveda, you of the Ṛgveda. Let us both be intent on protecting this rāṣṭra (country) and the villages of this country; that is, let us help each other in carrying on the government. You (the purohita) are my (the king's) body; therefore protect my body from fears and the like concerning this world and the other. This is the mantra recited by the king. After the king has thus addressed the purohita, the purohita recites the mantra consecrating the seat that the king has prepared for him to sit on.
+
+या ओषधीः सोमराज्ञीर्बह्वीः शतविचक्षणाः । तामह्यमस्मिन्नासनेऽच्छिद्रं शर्म यच्छत ॥ (*yā oṣadhīḥ somarājñīrbahvīḥ śatavicakṣaṇāḥ | tāmahyamasminnāsane 'cchidraṃ śarma yacchata ‖*)
+
+Since the seat made for the purohita is constructed of plant materials such as grass, kuśa, darbha and wood, the plant world, that is, herbs and trees, is praised in this mantra. For the herbs used for this seat (grass, darbha and so on) Soma is the deity; all these herbs and trees are subject to the deity Soma. They are plants of many kinds, with many branches. May such herbs, used in making this seat, bring me, the purohita, comfort without any trouble; may they be free from thorns and other hurts and soft, and give comfort. This is the main intention of the mantra. Having uttered the mantra that consecrates the seat in this way, when sitting on the seat he recites the next mantra.
+
+या ओषधीः सोमराज्ञीर्विष्ठिताः पृथिवीमनु । ता मह्यमस्मिन्नासनेऽच्छिद्रं शर्म यच्छत ॥ (*yā oṣadhīḥ somarājñīrviṣṭhitāḥ pṛthivīmanu | tā mahyamasminnāsane 'cchidraṃ śarma yacchata ‖*)
+
+This seat, made of the herbs that are under the authority of King Soma, has been spread on the earth and prepared for sitting. The intention of the mantra: when I sit on this seat, may these herbs give me unbroken comfort.
+
+### Printed p. 518
+अस्मिन्नाष्टे श्रियमावनेशयाम्यतो देवीः प्रतिपश्याम्यापः । (*asminnāṣṭe śriyamāvaneśayāmyato devīḥ pratipaśyāmyāpaḥ |*)
+
+Seeing the water brought and made ready for washing the purohita's feet, the purohita recites this mantra. O deities presiding over water, now I am the purohita of the king of this country. I shall strive constantly that this country may be happy, endowed with wealth, grain and other riches, and for its welfare and prosperity. Therefore I look upon these waters (you, the deities presiding over water) as helpers to me in this work.
+
+दक्षिणं पादमवनेनिजेऽस्मिन्राष्ट्र इंद्रियं दधामि । सव्यं पादमवनेनिजेस्मिन्राष्ट्र इंद्रियं वर्धयामि । पूर्वमन्यमपरमन्यं पादाववनेनिजे । देवा राष्ट्रस्य गुप्ता अभयस्यावरुध्यै । आपः पादावनेजनीर्द्विषंतं निर्दहंतु मे ॥ (*dakṣiṇaṃ pādamavanenije 'sminrāṣṭra iṃdriyaṃ dadhāmi | savyaṃ pādamavanenijesminrāṣṭra iṃdriyaṃ vardhayāmi | pūrvamanyamaparamanyaṃ pādāvavanenije | devā rāṣṭrasya guptā abhayasyāvarudhyai | āpaḥ pādāvanejanīrdviṣaṃtaṃ nirdahaṃtu me ‖*)
+(Ai. Brā. 40-27)
+
+When the purohita washes his feet with water he recites the mantra above. O waters, first I shall wash my right foot. Thereby I shall provide the vigour of the limbs and the wealth of the people and the animals of the country. Then I shall wash the left foot. Thereby I shall increase the sustenance of the limbs of living beings and their wealth. Because I have washed my feet in this way, may the gods be pleased and protect this country from thieves and other troubles. Further, may these waters used for washing my feet utterly destroy my enemies: this is the intention of the mantra.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इत् क्षे॑ति॒ सुधि॑त॒ ओक॑सि॒ स्वे तस्मा॒ इळा॑ पिन्नते विश्व॒दानीं॑ ।  
+> तस्मै॒ विशः॑ स्व॒यमे॒वा न॑मंते॒ यस्मि॑न् ब्र॒ह्मा राज॑नि॒ पूर्व॒  ॑
+> एति ॥ ८ ॥
+
+> *sa it kṣeti sudhita okasi sve tasmā iḷā pinnate viśvadānīṃ |*  
+> *tasmai viśaḥ svayamevā namaṃte yasmin brahmā rājani pūrva*  
+> *eti ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । क्षेति । सुधितः । ओकसि । स्वे । तस्मै । इळा । पिन्वते । विश्वदानीं ।  
+> तस्मै । विशः । स्वयं । एव । नमंते । यस्मिन् । ब्रह्मा । राजनि । पूर्वः । एति ॥ ८ ॥
+
+> *saḥ | it | kṣeti | sudhitaḥ | okasi | sve | tasmai | iḷā | pinvate | viśvadānīṃ |*  
+> *tasmai | viśaḥ | svayaṃ | eva | namaṃte | yasmin | brahmā | rājani | pūrvaḥ | eti ‖ 8 ‖*
+
+### Printed p. 519
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इत्थ एव क्षेति । निवसति । सुधितः सुष्टु तृप्तः सन् स्वे स्वकीय एवौकसि
+> सवने । स एव समृद्धो निर्बाधः सन् सुखेनास्ते । तस्मा इळा भूमिर्विश्वदानीं
+> सर्वकालं पिन्वते । वर्धते फलैः । तस्मै विशः प्रजाः स्वयमेव नमंते । प्रणता
+> भवंति । दंडनमंतरेण स्वयमेव दत्तकरा भवंति । यस्मिन्राजनि ब्रह्मा पूर्वः
+> प्रथमः पूज्यः सन्नेति । गच्छति । वर्तत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That very king dwells (क्षेति (*kṣeti*) means "resides"), well satisfied (सुधितः (*sudhitaḥ*)), in his own abode (ओकसि (*okasi*), house). Prosperous and unhindered, he lives at ease. For him Iḷā, the earth, ever (विश्वदानीं (*viśvadānīṃ*), at all times) swells (पिन्वते (*pinvate*)) with fruits. To him the subjects (विशः (*viśaḥ*)) bow of their own accord: without coercion they themselves become payers of tribute. The king with whom the Brahman (Brāhmaṇa) goes first (पूर्वः (*pūrvaḥ*)), that is, as foremost and honoured, एति (*eti*) means goes, proceeds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् राजनि (*yasmin rājani*)—to which king
+- ब्रह्मा (*brahmā*)—the Brahman (the Brāhmaṇa possessed of brahmic power)
+- पूर्वः (*pūrvaḥ*)—occupying the first place of honour
+- एति (*eti*)—goes and joins
+- स इत् (*sa it*)—that same king
+- सुधितः (*sudhitaḥ*)—having obtained the most excellent satisfaction
+- स्वे ओकसि (*sve okasi*)—in his own dwelling-place
+- क्षेति (*kṣeti*)—lives happily
+- तस्मै (*tasmai*)—for that king
+- इळा (*iḷā*)—the earth
+- विश्वदानीं (*viśvadānīṃ*)—at all times
+- पिन्वते (*pinvate*)—grows with fruits
+- तस्मै (*tasmai*)—to that king
+- विशः (*viśaḥ*)—all the subjects
+- स्वयमेव (*svayameva*)—of their own impulse
+- नमंते (*namaṃte*)—pay homage
+
+##### भावार्थ (Bhāvārtha)
+
+The king to whom the Brahman goes and joins, occupying the first place of honour, becomes most excellently satisfied and lives happily in his own dwelling-place. For that king the earth, always rich in crops and wealth, yields excellent fruit. To that same king all the subjects, moved by their own joy, offer homage.
+
+##### English translation (H. H. Wilson)
+Verily he abides prosperous in his own abode ; for him the earth bears fruit at all seasons ; to him (his) subjects willingly pay homage, the Brahmana first, (duly reverenced), repairs,
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप्र॑तीतो जयति॒ सं धना॑नि॒ प्रति॑जन्यान्यु॒त या सज॑न्या ।  
+> अ॒व॒स्यवे॒ यो वरि॑वः कृ॒णोति॑ ब्र॒ह्मणे॒ राजा॒ तम॑वंति दे॒वाः॥
+
+> *apratīto jayati saṃ dhanāni pratijanyānyuta yā sajanyā |*  
+> *avasyave yo varivaḥ kṛṇoti brahmaṇe rājā tamavaṃti devāḥ‖*
+
+### Printed p. 520
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्रतिइतः । जयति । सं । धनानि । प्रतिजन्यानि । उतॆ । या । सजन्या ।  
+> अहस्यने । यः । वरिवः । कृणोति । ब्रह्मणे । राजा । तं । अवंति । देवाः ॥ ९ ॥
+
+> *apratiitaḥ | jayati | saṃ | dhanāni | pratijanyāni | utè | yā | sajanyā |*  
+> *ahasyane | yaḥ | varivaḥ | kṛṇoti | brahmaṇe | rājā | taṃ | avaṃti | devāḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स एवाप्रतीतोऽन्यैरप्रतिगतः सन् यानि धनानि प्रतिजन्यानि प्रतिस्पर्धिजनसंबंधीनि उतापि च सजन्या जनसंबंधीनि धनानि सं जयति । यो राजावस्यवेऽवसीयसे धनरहिताय रक्षणमिच्छते ब्रह्मणे ब्राह्मणाय वा प्रीणनमिच्छते
+> बृहस्पतये वा वरिवो धनं कृणोति । करोति । ददाति । स उक्तप्रकारेण
+> महान्भवति । तमेव देवा अवंति । रक्षंति ॥
+
+##### Gist of the bhāṣya
+
+That same king, unopposed (अप्रतीतः (*apratītaḥ*)), not met by others, wins together the riches that belong to rival folk (प्रतिजन्यानि (*pratijanyāni*)) and also those belonging to his own people (सजन्या (*sajanyā*)). The king who for one who is destitute (अवस्यवे (*avasyave*), wealthless and desiring protection), for a Brahman (ब्रह्मणे (*brahmaṇe*)) or Brāhmaṇa desiring satisfaction, or for Bṛhaspati, makes (कृणोति (*kṛṇoti*), does, gives) वरिवः (*varivaḥ*), wealth, becomes great in the manner stated. Him alone the gods favour (अवंति (*avaṃti*), protect).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- *yaḥ rājā*—the king who
+- अवस्यवे (*avasyave*)—seeking his protection
+- ब्रह्मणे (*brahmaṇe*)—to the Brāhmaṇa possessed of brahmic power
+- वरिवः (*varivaḥ*)—wealth
+- कृणोति (*kṛṇoti*)—offers (that same king)
+- अप्रतीतः (*apratītaḥ*)—unopposed by enemies
+- प्रतिजन्यानि (*pratijanyāni*)—that which belongs to enemy people
+- उत (*uta*)—and
+- या (*yā*)—that which
+- सजन्या (*sajanyā*)—belongs to his own people
+- धनानि (*dhanāni*)—all riches
+- सं जयति (*saṃ jayati*)—makes his own wealth
+- तं (*taṃ*)—that king
+- देवाः (*devāḥ*)—the gods
+- अवंति (*avaṃti*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+The king who offers wealth to a Brāhmaṇa of brahmic power who seeks his protection, that king, unopposed by enemies, keeps under his own lordship all the wealth, both that belonging to enemy people and that belonging to his own people. All the gods protect that king.
+
+##### English translation (H. H. Wilson)
+Unopposed he is the master of the riches of hostile people, and of his own subjects : the Raja who bestows riches upon the Brahmana seeking his protection, him the gods protect.
+
 ---
 
-**Progress note:** Done through printed p. 514. pp. 507-514 (batch API)
+**Progress note:** Done through printed p. 520. pp. 515-520 (batch API)
