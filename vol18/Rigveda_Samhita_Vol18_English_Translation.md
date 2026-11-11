@@ -9083,6 +9083,359 @@ By what kinds of satisfactions does Indra, ever growing, worthy of worship and a
 ##### English translation (H. H. Wilson)
 By what means may he who is ever augmenting, who is wonderful who is our friend, be present with us, by what most effective rite ?
 
+### Printed p. 253
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कस्त्वा॑ स॒त्यो मदा॑नां॒ मुंहि॑ष्ठो मत्स॒दंध॑सः ।  
+> दृ॒ळ्हा चि॑दा॒रुजे॒ वसु॑ ॥ २ ॥
+
+> *kastvā satyo madānāṃ muṃhiṣṭho matsadaṃdhasaḥ |*  
+> *dṛḷhā cidāruje vasu ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । त्वा । सत्यः । मदानां । मंहिष्ठः । मत्सत् । अंधसः ।  
+> दृळ्हा । चित् । आरुजे । वसु ॥ २ ॥
+
+> *kaḥ | tvā | satyaḥ | madānāṃ | maṃhiṣṭhaḥ | matsat | aṃdhasaḥ |*  
+> *dṛḷhā | cit | āruje | vasu ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंहिष्ठः पूजनीयः सत्यः सत्यभूतो मदानां मादयित्यणां मध्ये को
+> मदकरोऽंधसः सोमस्य रसो दृळ्हा चित् दृढान्यपि वसु वसूनि शत्रूणां धनान्यारुज आ समंताद्भंक्तुं हे इंद्र त्वा त्वां मत्सत् । मादयेत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes मंहिष्ठः (*maṃhiṣṭhaḥ*) as "worthy of honour" and सत्यः (*satyaḥ*) as "of the nature of truth". Among the exhilarating (मदानां (*madānāṃ*)) juices, which one, the intoxicating juice of the Soma (अंधसः (*aṃdhasaḥ*)), could exhilarate you, O Indra, so that you break completely (आरुजे (*āruje*)) the treasures of the enemies, even though they are firmly held (दृळ्हा चित् (*dṛḷhā cit*))? He glosses मत्सत् (*matsat*) as "may it exhilarate".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदानां (*madānāṃ*)—among the juices that cause exhilaration
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—the most worthy of honour
+- सत्यः (*satyaḥ*)—the one that is of the nature of truth
+- कः अंधसः (*kaḥ aṃdhasaḥ*)—which Soma juice
+- दृळ्हा चित् (*dṛḷhā cit*)—even though very firm
+- वसु (*vasu*)—the wealth of the enemies
+- आरुजे (*āruje*)—to destroy completely
+- त्वा (*tvā*)—you
+- मत्सत् (*matsat*)—can it inspirit?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, which Soma juice, the most worthy of honour and of the nature of truth among the juices that cause exhilaration, can inspirit you to destroy completely the wealth of the enemies, even though it is very firmly held?
+
+##### English translation (H. H. Wilson)
+What genuine and most esteemed of the exhilarating juice of the (sacrificial) beverage may inspirit you to demolish the substantial treasures (of the foe).
+
+### Printed p. 254
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी षु णः॒ सखी॑नामवि॒ता ज॑रित्कृ॒णां ।  
+> श॒तं भ॑वास्यू॒तिभिः॑ ॥ ३ ॥
+
+> *abhī ṣu ṇaḥ sakhīnāmavitā jaritkṛṇāṃ |*  
+> *śataṃ bhavāsyūtibhiḥ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । सु । नः । सखीनां । अविता । जरित्यणां ।  
+> शतं । भवासि । ऊतिभिः ॥ ३ ॥
+
+> *abhi | su | naḥ | sakhīnāṃ | avitā | jarityaṇāṃ |*  
+> *śataṃ | bhavāsi | ūtibhiḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं सखीनां समानख्यातीनां जरित्यणां स्तोत्कृणामविता रक्षिता
+> त्वं शतं शतेन बह्वीभिरूतिभी रक्षाभिः सह नोऽस्माकं सु सुष्पृभि भवासि । अभिमुखो भव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the protector of your friends (सखीनां (*sakhīnāṃ*)), those of like renown, the praisers (जरित्यणां (*jarityaṇāṃ*), singers of praise). With a hundred, that is, many, protections (ऊतिभिः (*ūtibhiḥ*)), be favourable (अभिमुखो भव (*abhimukho bhava*)) to us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सखीनां (*sakhīnāṃ*)—to those who are your friends
+- जरित्यणां (*jarityaṇāṃ*)—to the praisers
+- अविता (*avitā*)—you, the protector
+- शतं (*śataṃ*)—of many kinds
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- नः (*naḥ*)—to us
+- सु (*su*)—exceedingly
+- अभि भवासि (*abhi bhavāsi*)—be favourable
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the complete protector of the praisers who are your friends. Since we too praise you, we are your friends. Therefore be favourable to us with many kinds of protections.
+
+##### English translation (H. H. Wilson)
+The protector of us your friends and praisers, be present with a hundred protections.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी न॒ आ व॑वृत्स्व च॒क्रं न वृ॒त्तमर्व॑तः ।  
+> नि॒युद्भि॑श्चर्षणी॒नां ॥ ४ ॥
+
+> *abhī na ā vavṛtsva cakraṃ na vṛttamarvataḥ |*  
+> *niyudbhiścarṣaṇīnāṃ ‖ 4 ‖*
+
+### Printed p. 255
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । नः । आ । ववृत्स्व । चक्रं । न । वृत्तं । अर्वतः ।  
+> नियुत्थभिः । चर्षणीनां ॥ ४ ॥
+
+> *abhi | naḥ | ā | vavṛtsva | cakraṃ | na | vṛttaṃ | arvataḥ |*  
+> *niyutthabhiḥ | carṣaṇīnāṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं वृत्तं चक्रं न वर्तमानं चक्रमिवार्वत उपगंत्वान्नोऽस्मान्
+> चर्षणीनामस्मदीयानां मनुष्याणां नियुद्भिः स्तुतिभिरभ्या ववृत्स्व । अभ्यावर्तस्व ॥
+
+##### Gist of the bhāṣya
+
+O Indra, like a revolving wheel (वृत्तं चक्रं न (*vṛttaṃ cakraṃ na*)), come to us and turn toward us (अभ्यावर्तस्व (*abhyāvartasva*)) with the praises (नियुद्भिः (*niyudbhiḥ*)) of our people, the men (चर्षणीनां (*carṣaṇīnāṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- चर्षणीनां (*carṣaṇīnāṃ*)—of men
+- नियुद्भिः (*niyudbhiḥ*)—by praises (made glad)
+- वृत्तं (*vṛttaṃ*)—revolving
+- चक्रं न (*cakraṃ na*)—like a wheel
+- अर्वतः (*arvataḥ*)—taking refuge in you alone for help
+- नः (*naḥ*)—us
+- अभि (*abhi*)—facing
+- आ ववृत्स्व (*ā vavṛtsva*)—come back
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, made glad by the praises of men, come back, like a revolving wheel, to face us who take refuge in you alone for help.
+
+##### English translation (H. H. Wilson)
+(Induced) by the praises of men, return like a revolving wheel to us, dependent (upon your favour).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒वता॒ हि क्रतू॑ना॒मा हा॑ प॒देव॒ गच्छ॑सि ।  
+> अभ॑क्षि॒ सूर्ये॒ सचा॑ ॥ ५ ॥
+
+> *pravatā hi kratūnāmā hā padeva gacchasi |*  
+> *abhakṣi sūrye sacā ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रवता । हि । क्रतूनां । आ । ह । पदा इव । गच्छसि ।  
+> अभक्षि । सूर्ये । सचा ॥ ५ ॥
+
+> *pravatā | hi | kratūnāṃ | ā | ha | padā iva | gacchasi |*  
+> *abhakṣi | sūrye | sacā ‖ 5 ‖*
+
+### Printed p. 256
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं क्रतूनां कर्मणां यजमानानां संबंधिनः प्रवता प्रवतः
+> प्रवणान्वेशान्पदेव पदानि स्वकीयानि स्थानानीवा गच्छसि हि । आगतो भवसि खलु ।
+> हेति पूरणः । हे इंद्र त्वामहं सूर्ये सूर्येण सचा सहाभक्षि । भजे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you come to the downward, sloping places (प्रवतः प्रवणान्वेशान् (*pravataḥ pravaṇānveśān*)) that belong to the rites (क्रतूनां (*kratūnāṃ*)) of the sacrificers, as if to your own stations (पदेव (*padeva*)). ह (*ha*) is expletive (पूरणः (*pūraṇaḥ*)). He glosses अभक्षि (*abhakṣi*) as "I resort to, I worship": O Indra, I worship you together with the Sun (सूर्ये (*sūrye*) read as सूर्येण (*sūryeṇa*), सचा (*sacā*) "together").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- क्रतूनां (*kratūnāṃ*)—belonging to the sacrificers who perform the rites
+- प्रवता (*pravatā*)—to the regions of the lower part
+- पदेव (*padeva*)—knowing them to be your own independent regions
+- आ गच्छसि हि (*ā gacchasi hi*)—you come, do you not (O Indra)
+- सूर्ये सचा (*sūrye sacā*)—together with the Sun
+- अभक्षि (*abhakṣi*)—I worship you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you certainly come to the lower sacrificial places that belong to the sacrificers who perform the rites, knowing them to be your own regions. At that time we worship you together with the Sun.
+
+##### English translation (H. H. Wilson)
+Come in a downward (direction) to sacred rites, as if to your own station : I glorify you together with the sun.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं यत्त॑ इंद्र म॒न्यवः॒ सं च॒क्राणि॑ दधन्वि॒रे ।  
+> अध॒ त्वे अध॒ सूर्ये॑ ॥ ६ ॥
+
+> *saṃ yatta iṃdra manyavaḥ saṃ cakrāṇi dadhanvire |*  
+> *adha tve adha sūrye ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । यत् । ते । इंद्र । मन्यवः । सं । चक्राणि । दधन्विरे ।  
+> अध । त्वे इति । अध । सूर्ये ॥ ६ ॥
+
+> *saṃ | yat | te | iṃdra | manyavaḥ | saṃ | cakrāṇi | dadhanvire |*  
+> *adha | tve iti | adha | sūrye ‖ 6 ‖*
+
+### Printed p. 257
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदर्थं मन्यवः स्तुतयो यद्यदा सं दधन्विरे । अस्माभिरनुमन्यंते । चक्राणि चंक्रमणानि कर्माणि च सं दधन्विरे अध तदानीं ताः स्तुतयस्तानि
+> कर्माणि च त्वे त्वयि भवंति । अध तदनंतरं सूर्ये च भवंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when the praises (मन्यवः (*manyavaḥ*)) meant for you are offered by us (सं दधन्विरे (*saṃ dadhanvire*), "are approved by us"), and when the rites of going about (चक्राणि चंक्रमणानि कर्माणि (*cakrāṇi caṃkramaṇāni karmāṇi*)) are likewise performed, then those praises and rites are in you (त्वे (*tve*)); after that they are in the Sun as well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—addressed to you
+- मन्यवः (*manyavaḥ*)—the praises
+- यत् (*yat*)—when
+- सं दधन्विरे (*saṃ dadhanvire*)—are recited by us (and)
+- चक्राणि (*cakrāṇi*)—the rites such as sacrifices
+- सं (दधन्विरे) (*saṃ (dadhanvire)*)—are performed
+- अध (*adha*)—immediately thereafter (those praises and rites)
+- ते (*te*)—are offered in you alone
+- अध (*adha*)—afterwards
+- सूर्यॆ (*sūryè*)—are offered in the Sun
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whenever we recite praises addressed to you and perform rites such as sacrifices, those praises and rites are first offered in you and afterwards in the Sun.
+
+##### English translation (H. H. Wilson)
+When your praises, and these sacred rites Indra, are addressed to you, thay first belong to you, and next to Surya.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्मा॒ हि त्वामा॒हुरिन्म॒घवा॑नं शचीपते ।  
+> दाता॑र॒मवि॑दीधयुं ॥ ७ ॥
+
+> *uta smā hi tvāmāhurinmaghavānaṃ śacīpate |*  
+> *dātāramavidīdhayuṃ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । हि । त्वां । आहुः । इत् । मघवानं । शचीपते ।  
+> दाकारं । अविदीधयुं ॥ ७ ॥
+
+> *uta | sma | hi | tvāṃ | āhuḥ | it | maghavānaṃ | śacīpate |*  
+> *dākāraṃ | avidīdhayuṃ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 258
+
+> हे शचीपते कर्मपालकेंद्र उतापि च मघवानं धनवंतं दातारं
+> स्तोतृभ्योऽभीष्टप्रदं त्वा त्वामविदीधयुं । विदीधयुरदीप्यमानः । न विदीधयुरविदीधयुः । तं दीप्यमानमाहुः स्म । प्रवदंति खलु । हीदिति द्वयं
+
+##### Gist of the bhāṣya
+
+O Indra, lord of Śacī (शचीपते (*śacīpate*)), protector of rites, they call you wealthy (मघवानं (*maghavānaṃ*)), a giver (दातारं (*dātāraṃ*)) who grants desired things to the praisers, and अविदीधयुं (*avidīdhayuṃ*). विदीधयुः (*vidīdhayuḥ*) means "not shining"; अविदीधयुं (*avidīdhayuṃ*) is "not not-shining", so they call you shining (*dīpyamānaṃ*). स्म (*sma*) means "indeed"; हि (*hi*) and स्म (*sma*), the pair, are expletives.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- शचीपते (*śacīpate*)—O Indra, protector of rites
+- मघवानं (*maghavānaṃ*)—wealthy
+- त्वां (*tvāṃ*)—you
+- दातारं (*dātāraṃ*)—as a giver
+- अविदीधयुं (*avidīdhayuṃ*)—as shining
+- आहुः स्म (*āhuḥ sma*)—they call, do they not?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of rites, your praisers call you, the wealthy one, a giver and shining; this is certain.
+
+##### English translation (H. H. Wilson)
+Lord of holy acts, they call you Maghvan, the munificent, the respiendent.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्मा॑ स॒द्य इत्परि॑ शशमा॒नाय॑ सुन्व॒ते ।  
+> पु॒रू चि॑न्मंहसे॒ वसु॑ ॥ ८ ॥
+
+> *uta smā sadya itpari śaśamānāya sunvate |*  
+> *purū cinmaṃhase vasu ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । सद्यः । इत् । परि । शशमानाय । सुन्वते ।  
+> पुरु । चित् । मंहसे । वसु ॥ ८ ॥
+
+> *uta | sma | sadyaḥ | it | pari | śaśamānāya | sunvate |*  
+> *puru | cit | maṃhase | vasu ‖ 8 ‖*
+
+### Printed p. 259
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र त्वं सद्य इत्सद्य एव शशमानाय स्तुतिं कुर्वते ।
+> शशमानः शंसमानः । नि. ६-८ । इति यास्केनोक्तत्वात् । सुन्वते सोमाभिषवं
+> कुर्वते यजमानाय पुरु चित्पुरूणि बहून्यपि वसु वसूनि धनानि परि परितो
+> मंहसे स्म । प्रयच्छसि खलु ॥
+
+##### Gist of the bhāṣya
+
+And, O Indra, you give at once (सद्य इत् (*sadya it*)) to the one who praises (शशमानाय (*śaśamānāya*); शशमानः शंसमानः (*śaśamānaḥ śaṃsamānaḥ*), Ni. 6-8, as Yāska says) and to the sacrificer who presses the Soma (सुन्वते (*sunvate*)), abundant wealth on every side (परि (*pari*)). He glosses मंहसे स्म (*maṃhase sma*) as "you give indeed".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- शशमानाय (*śaśamānāya*)—to the one who praises you
+- सुन्वते (*sunvate*)—to the sacrificer who presses Soma for you
+- सद्य इत् (*sadya it*)—as soon as you resolve
+- पुरु चित् (*puru cit*)—abundant
+- वसु (*vasu*)—wealth
+- परि (*pari*)—all around (in many ways)
+- मंहसे स्म (*maṃhase sma*)—you give, do you not?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to the sacrificer who praises you and presses Soma for you, you give wealth of many forms in many ways as soon as you resolve; this is certain.
+
+##### English translation (H. H. Wilson)
+And verily you give promptly abundant wealth to him who praises you and offers you l'bations.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि स्मा॑ ते श॒तं च॒न राधो॒ वरं॑त आ॒मुरः॑ ।  
+> न च्यौ॒त्वानि॑ करिष्य॒तः ॥ ९ ॥
+
+> *nahi smā te śataṃ cana rādho varaṃta āmuraḥ |*  
+> *na cyautvāni kariṣyataḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । स्म । ते । शतं । चन । राधः । वरंते । आमुरः ।  
+> न । ज्ञात्वानि । करिष्यतः ॥ ९ ॥
+
+> *nahi | sma | te | śataṃ | cana | rādhaḥ | varaṃte | āmuraḥ |*  
+> *na | jñātvāni | kariṣyataḥ ‖ 9 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 252. pp. 247-252 (batch API)
+**Progress note:** Done through printed p. 259. pp. 253-259 (batch API)
