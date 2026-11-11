@@ -10712,6 +10712,217 @@ By these two statements, समानः राजा पुरुत्रा �
 
 Agni, or Sūrya, abiding (आक्षित् (*ākṣit*)) in the old, decayed herbs, and likewise following (अनूरुत् (*anūrut*)) the new herbs, acting in accord with their origin, is within the herbs that have just been born (सद्यो जातासु (*sadyo jātāsu*)), that is, newly arisen, young and sprouted. Those herbs are अप्रवीताः (*apravītāḥ*) … (the text of the block breaks off here; the next window continues).
 
+### Printed p. 287
+#### Ṛk 5
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> केनापि पुरुषेणानिषिक्तरेतस्का अनभ्यक्ता वा अंतवर्ततीरग्निना गर्भवत्यो भूत्वा
+> सुवते । फलं पुष्पं चोत्पादयंति । तदिदं देवानामैश्वर्यं ॥ आक्षित् । क्षि निवासगत्योः । क्विप् । अनूरुत् । अनौ रुध कामे । अस्मात् क्विप् । अन्वेषामपि दृश्यत इति
+> दीर्घः । कृत्स्वरः । तरुणीषु । नञ्
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the verse's explanation. Those plants, without having been impregnated by any male, or unanointed, are filled within by Agni and become pregnant. They bear fruit and produce flowers. This is the lordship of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्वासु (*pūrvāsu*)—in the ancient plants
+- आक्षित् (*ākṣit*)—Agni, who had pervaded
+- अपराः (*aparāḥ*)—in the new plants
+- अनूरुत् (*anūrut*)—enters (afterwards)
+- सद्यो जातासु (*sadyo jātāsu*)—in those just produced
+- तरुणीषु (*taruṇīṣu*)—in the plants in the form of shoots
+- अंतः (*aṃtaḥ*)—enters within
+- अप्रवीताः (*apravītāḥ*)—even though there is no contact with a male
+- अंतर्वतीः (*aṃtarvatīḥ*)—those plants that bear a womb (embryo)
+- सुवते (*suvate*)—bear flowers and the like
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who had pervaded the ancient plants, comes to be within the new plants. Those plants, becoming pregnant even without contact with a male, bear flowers and fruits. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+Existing in ancient plants, abiding afterwards in new, he enters into the young (herbs) as soon as they are produced : unimpregnated they become pregnant and bear fruit : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the feminine words पूर्वासु (*pūrvāsu*) अपराः (*aparāḥ*), जातासु (*jātāsu*), तरुणेषु (*taruṇeṣu*), अंतर्वतीः (*aṃtarvatīḥ*) are used, and also the verbal forms अक्षित् (*akṣit*) and अनूरुत् (*anūrut*). In describing the greatness of Agni or Sūrya, who performs actions so that the growth of the world may be continuous, the juxtaposition of the words used here describes, by transfer and in the manner of poetry, the story of a householder, or of a lover, who carries on the life of the world. As a lustful man abandons an aged woman, Agni abandons पूर्वासु आक्षित् जीर्णासु ओषधीषु आवर्तमानः (*pūrvāsu ākṣit jīrṇāsu oṣadhīṣu āvartamānaḥ*), the plants that are very old and withering;
+
+### Printed p. 288
+and अपराः अनुरुत्—नव्याः ओषदीः उत्पत्यानुगुण्येन अनु तिष्ठन् (*aparāḥ anurut—navyāḥ oṣadīḥ utpatyānuguṇyena anu tiṣṭhan*): he follows the tender herbs that are newly growing and radiant, in keeping with their growth. By this too the conduct of a lover is understood.
+जातासु तरुणीषु अंतः—तदानीं उत्कन्नासु पल्लवितासु ओषधीषु अंतः वर्तते (*jātāsu taruṇīṣu aṃtaḥ—tadānīṃ utkannāsu pallavitāsu oṣadhīṣu aṃtaḥ vartate*): he abides within the herbs that have just then been born and are furnished with new sprouts, remaining inside them so that they may grow, and nourishing them. Thus the greatness of Agni is stated: he is the cause of the origin, continuance and dissolution of plants.
+But the herbs, like women in the world, obtain flowers, fruits and the like even without connection with a male; since such a making is the work of the gods, the might of the gods is described as extraordinary.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒युः प॒रस्ता॒दध॒ नु द्वि॑मा॒ताबं॑ध॒नश्च॑रति व॒त्स एकः॑ ।  
+> मि॒त्रस्य॒ ता वरु॑णस्य व्र॒तानि॑ म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥ ६ ॥
+
+> *śayuḥ parastādadha nu dvimātābaṃdhanaścarati vatsa ekaḥ |*  
+> *mitrasya tā varuṇasya vratāni mahaddevānāmasuratvamekaṃ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शयुः । परस्तात् । अध । नु । द्विमाता । अबंधनः । चरति । वत्सः । एकः ।  
+> मित्रस्य । ता । वरुणस्य । व्रतानि । महत् । देवानां । असुरत्वं । एकं ॥ ६ ॥
+
+> *śayuḥ | parastāt | adha | nu | dvimātā | abaṃdhanaḥ | carati | vatsaḥ | ekaḥ |*  
+> *mitrasya | tā | varuṇasya | vratāni | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विमाता । हे द्यावापृथिव्यौ मातरौ यस्य स द्विमाता । यद्वा । ध्वयोर्लोकयोर्निमार्ता सूर्यः परस्तात्पश्चिमायां दिश्यस्तवेलायां।शयुः शयानोऽव्याप्रियमाणो भवति । अध नु अथोदयवेलायामेको द्यावापृथिव्यो 8
+> साधारणस्तयो रसादानाद्वत्सः पुत्रोऽबंधनोऽप्रतिबद्धगतिरनालंबन एकः सन्
+> चरति । नभसि गच्छति । ता तानीमानि मित्रस्य वरुणस्य मित्रावरुणयोर्व्रतानि कर्माणि।
+> शयुः । शीज् स्वप्ने । भृमृशीत्य चरीत्यादिना उप्रत्ययः । द्विमाता । नद्यृतश्चेति
+> प्राप्तस्य कप ऋतश्चंदसीति प्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+द्विमाता (*dvimātā*): he whose two mothers are heaven and earth. Or else, he who is the maker of the two worlds: Sūrya. परस्तात् (*parastāt*): in the western quarter, at the time of setting, he is शयुः (*śayuḥ*), lying down, not active. अध नु (*adha nu*): then, at the time of rising, the one calf, common to heaven and earth, their son because he draws their sap, अबंधनः (*abaṃdhanaḥ*), with unobstructed course and without support, being alone, चरति (*carati*), moves in the sky. ता (*tā*): these are the व्रतानि (*vratāni*), the works, of Mitra and Varuṇa, of Mitra-and-Varuṇa.
+
+### Printed p. 289
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विमाता (*dvimātā*)—Āditya, who has both heaven and earth as mother
+- परस्तात् (*parastāt*)—in the western quarter
+- शयुः (*śayuḥ*)—is laid to rest
+- अध नु (*adha nu*)—afterwards (at the time of rising)
+- एकः (*ekaḥ*)—the one common (to both heaven and earth)
+- वत्सः (*vatsaḥ*)—son (Āditya)
+- अबंधनः (*abaṃdhanaḥ*)—having an unhindered course
+- चरति (*carati*)—moves in the sky
+- ता (*tā*)—all these goings and comings (of Āditya)
+- मित्रस्य (*mitrasya*)—of Mitra (and)
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- व्रतानि (*vratāni*)—are the works
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Āditya, who has both heaven and earth as mother, is laid to rest in the western quarter. Afterwards, at the time of rising, the son (Āditya), common to both heaven and earth, moves in the sky with unhindered course. All these goings and comings of Āditya are the works of Mitra and Varuṇa. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+The child of two mothers sleeps in the west, but (in the morning) the single infant proceeds unobstructed (through the sky) : these are the functions of Mitra and Varuna : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+द्विमाता परस्तात् शयुः (*dvimātā parastāt śayuḥ*)—द्वे द्यावापृथिव्यौ मातरौ यस्य सः (*dve dyāvāpṛthivyau mātarau yasya saḥ*). यदा द्वयोर्लोकयोः निर्माता (*yadā dvayorlokayoḥ nirmātā*). Sūrya has both heaven and earth as mother. Since heaven and earth have granted room to the whole world, they are said to be mothers of Sūrya also. Or else, since Sūrya is the protector of the two worlds, earth and the middle region, he is the maker of the two worlds; thus a second meaning is described. That at the time of setting this Sūrya is without the spreading of his rays is the meaning stated by the words शयुः शयानः (*śayuḥ śayānaḥ*).
+एकः अबंधनः वत्सः चरति (*ekaḥ abaṃdhanaḥ vatsaḥ carati*)—Sāyaṇa has explained this sentence in two ways. First: द्यावापृथिव्योः साधारणः तयोः रसादानात् पुत्रः अप्रतिबद्धगतिः नभसि चरति (*dyāvāpṛthivyoḥ sādhāraṇaḥ tayoḥ rasādānāt putraḥ apratibaddhagatiḥ nabhasi carati*). Since Sūrya draws up the waters in earth and the middle region, he stands in an equal relation to both of them, heaven and earth, and this Sūrya moves in the middle region without any obstruction; thus the meaning is explained. In the second meaning, this Sūrya is अनालंबनः (*anālaṃbanaḥ*), without any support, and moves alone in the middle region (so that he does not fall down); thus it is described.
+
+### Printed p. 290
+That heaven and earth are described as the mother-hood of Sūrya; that at setting Sūrya becomes lustreless, without the spreading of his rays; that, drawing the sap of heaven and earth (as if drinking milk), he has the state of a son; and that he moves in the middle region as if unobstructed and without any support: all these acts are the acts of Mitra and Varuṇa, and the might of these gods is described as full of greatness and pre-eminent.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वि॒मा॒ता होता॑ वि॒दथे॑षु स॒म्राळन्वग्रं॒ चर॑ति॒ क्षेति॑ बु॒ध्नः ।  
+> प्र रण्या॑नि रण्य॒वाचो॑ भरंते म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥
+
+> *dvimātā hotā vidatheṣu samrāḷanvagraṃ carati kṣeti budhnaḥ |*  
+> *pra raṇyāni raṇyavāco bharaṃte mahaddevānāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्विमाता । होता । विदथेषु । सम्‌राट् । अनु । अग्रं । चरति । क्षेति । बुध्नः ।  
+> प्र । रण्यानि । रण्यवाचः । भरंते । महत् । देवानां । असुरत्वं । एकं ॥ ७ ॥
+
+> *dvimātā | hotā | vidatheṣu | samrāṭ | anu | agraṃ | carati | kṣeti | budhnaḥ |*  
+> *pra | raṇyāni | raṇyavācaḥ | bharaṃte | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विमाता द्वयोर्लोकयोर्निर्माता विदथेषु यज्ञेषु होता देवानामाह्वाता सम्राट् यज्ञेषु सम्यग्राजमानोऽग्निरन्नग्रमग्रे दिवि चरति । सूर्यभूतस्तत्र वर्तते । बुध्नः सर्वस्य कर्मणो मूलभूततः सन् क्षेति । भूम् वसति ।
+> यद्वा । अग्रं मुख्यं भागं चरति । भक्षयति । क्षेति । यज्वनां गृहेषु निवसति ।
+> यद्वा । बुद्धः प्रतिष्ठांतेभागी स्विष्टकृद्रूपेण । प्रतिष्ठा वै स्विष्टकृदिति श्रुतेः ।
+> किंच रण्यवाचो रमणीयवाचः स्तोतारो रण्यानि रमणीयानि स्तोत्राणि प्र
+> भरंते । प्रणयंति । कुर्वंति । तदिदं देवानामैश्वर्यं । चरति । चादिलोप इति न
+> निघातः ॥
+
+##### Gist of the bhāṣya
+
+द्विमाता (*dvimātā*): the maker of the two worlds. विदथेषु (*vidatheṣu*): in sacrifices होता (*hotā*), the caller of the gods; सम्राट् (*samrāṭ*): Agni, shining well in the sacrifices, अन्वग्रं चरति (*anvagraṃ carati*), moves first in the sky; being Sūrya, he abides there. बुध्नः (*budhnaḥ*): being the root of all action, क्षेति (*kṣeti*): he dwells on earth. Or else: अग्रं (*agraṃ*) means the principal portion, and चरति (*carati*) means he eats it; क्षेति (*kṣeti*): he dwells in the houses of sacrificers. Or else: बुद्धः (*buddhaḥ*) (read thus) is प्रतिष्ठा (*pratiṣṭhā*), the sharer at the end in the form of Sviṣṭakṛt, from the Śruti प्रतिष्ठा वै स्विष्टकृदिति श्रुतेः (*pratiṣṭhā vai sviṣṭakṛditi śruteḥ*). Moreover, the रण्यवाचः (*raṇyavācaḥ*), reciters of pleasing speech, प्र भरंते (*pra bharaṃte*), compose and offer रण्यानि (*raṇyāni*), pleasing praises. This is the lordship of the gods.
+
+### Printed p. 291
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विमाता (*dvimātā*)—he who has both heaven and earth as mother
+- विदधेषु (*vidadheṣu*)—in sacrifices
+- होता (*hotā*)—the caller of the gods
+- सम्राट् (*samrāṭ*)—and the shining one, Agni
+- अन्वग्रं (*anvagraṃ*)—at the forepart of the middle region
+- चरति (*carati*)—moves (in the form of Sūrya)
+- बुद्धः (*buddhaḥ*)—being the root of all actions
+- क्षेति (*kṣeti*)—dwells on the earth
+- रण्यवाचः (*raṇyavācaḥ*)—reciters with pleasing speech
+- रण्यानि (*raṇyāni*)—pleasing praises
+- प्र भरंतॆ (*pra bharaṃtè*)—make in abundance
+- देवानां (*devānāṃ*)—of the gods
+- असुरत्वं (*asuratvaṃ*)—the might
+- महत् (*mahat*)—is great
+- एकं (*ekaṃ*)—and unequalled
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who has both heaven and earth as mother, who calls the gods at sacrifices, and who is shining, moves at the forepart of the middle region in the form of Sūrya. Being the root of all actions, he dwells on the earth. Reciters with pleasing speech make pleasing praises. The might of the gods is great and unequalled.
+
+##### English translation (H. H. Wilson)
+The child of two mothers, thc invoker of the gods at sacrifices, the universal sovereign, proceeds thenceforward (in the sky) : the root (of all), he abides (in the houses of the pious) : the reciters of pleasant (words) offer him agreeable (praises) : great and unequalled is the might of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+Agni is द्वयोर्लोकयो निर्माता (*dvayorlokayo nirmātā*), the maker of the two worlds, earth and the middle region; therefore he is designated by the word द्विमाता (*dvimātā*). Since he brings the gods to accept the oblation, he is the Hotṛ. Since he shines greatly with radiance in the sacrifices, he is the sovereign. And since he is the root cause of all actions, he is described in this Ṛk as बुद्धः (*buddhaḥ*).
+अन्वग्रं चरति—अग्रे दिवि सूर्यभूतस्तत्र वर्तते (*anvagraṃ carati—agre divi sūryabhūtastatra vartate*): Agni shines in the middle region as Sūrya. Having thus described the identity of Agni with Sūrya, Sāyaṇa describes a second meaning: अग्रं मुख्यं भागं चरति भक्षयति (*agraṃ mukhyaṃ bhāgaṃ carati bhakṣayati*), Agni, the chief cause of all actions, eats the principal portions of the oblation in the sacrifices.
+बुद्धः क्षेति—सर्वस्य कर्मणो मूलभूतस्सन् भूमौ वसति यद्वा यज्वनां गृहेषु निवसति (*buddhaḥ kṣeti—sarvasya karmaṇo mūlabhūtassan bhūmau vasati yadvā yajvanāṃ gṛheṣu nivasati*): Agni, being the root cause of all actions, dwells on the earth
+
+### Printed p. 292
+or else dwells in the houses of those devoted to sacrifice; thus two meanings are explained.
+And बुद्धः प्रतिष्ठा अंते भागी स्विष्टकृद्रूपेण (*buddhaḥ pratiṣṭhā aṃte bhāgī sviṣṭakṛdrūpeṇa*): by the homa called Sviṣṭakṛt, performed in sacrifices, he receives the oblation offered at the end. Therefore Agni is described as the one who establishes stability. For the meaning प्रतिष्ठौ (*pratiṣṭhau*) of the word बुद्ध (*buddha*), the Śruti sentence “प्रतिष्ठौ वै स्विष्टकृत् (*pratiṣṭhau vai sviṣṭakṛt*)” is cited.
+रण्यवाचः रण्यानि प्रभरंते—रमणीयवाचः स्तोत्रारः रमणीयानि स्तोत्राणि प्रकर्षेण कुर्वंति (*raṇyavācaḥ raṇyāni prabharaṃte—ramaṇīyavācaḥ stotrāraḥ ramaṇīyāni stotrāṇi prakarṣeṇa kurvaṃti*). रणौ रमणीयौ सांग्राम्यावा (*raṇau ramaṇīyau sāṃgrāmyāvā*) (Ni. 6-24): the word रण (*raṇa*) has been explained by Yāska, meaning that they recite pleasing praises.
+That Agni exists in identity with Sūrya and is the root cause of all actions, and other such things, are the principal glories of the gods and remain in might; thus it is described.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शूर॑स्येव॒ युध्य॑तो अंत॒मस्य॑ प्रती॒चीनं॑ ददृशे॒ विश्व॑मा॒यत् ।  
+> अं॒तर्म॒तिश्व॑रति नि॒ष्पिधं॒ गोर्म॒हद्दे॒वाना॑मसुर॒त्वमेकं॑ ॥
+
+> *śūrasyeva yudhyato aṃtamasya pratīcīnaṃ dadṛśe viśvamāyat |*  
+> *aṃtarmatiśvarati niṣpidhaṃ gormahaddevānāmasuratvamekaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शूरस्य इव । युध्यतः । अंतमस्य । प्रतीचीनं । ददृशे । विश्वं । आयत् ।  
+> अंतः । मतिः । चरति । निःसिधं । गोः । महत् । देवानां । असुरत्वं । एकं ॥ ८ ॥
+
+> *śūrasya iva | yudhyataḥ | aṃtamasya | pratīcīnaṃ | dadṛśe | viśvaṃ | āyat |*  
+> *aṃtaḥ | matiḥ | carati | niḥsidhaṃ | goḥ | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंतमस्य समीपे वर्तमानस्य दावाग्नेरायदभिमुखमागच्छद्विश्वं भूतजातं प्रतिचीनं पराङ्मुखं ददृशे । दृश्यते । तत्र दृष्टांतः । शूरस्येव । यथा
+> युध्यतो युद्धं कुर्वाणस्य शूरस्य समर्थस्य राज्णोऽभिमुखमागच्छत्परबलं
+> पराङ्मुखं दृश्यते तद्वत् । मतिः सर्वैर्ज्ञायमानः सोऽग्निर्गोरुदकस्य निष्पिधं
+> हिंसिकां दीप्तिमंतश्च रति । अंतर्धारयति ॥ युध्यतः । युध संप्रहारे । दिवादिः ।
+
+##### Gist of the bhāṣya
+
+अंतमस्य (*aṃtamasya*): of the forest fire that stands near; the whole creation coming towards it (आयत् (*āyat*), advancing to meet it) is seen प्रतिचीनं (*praticīnaṃ*), turned away, ददृशे (*dadṛśe*), is seen. The illustration is शूरस्येव (*śūrasyeva*): as the hostile army coming to meet a brave, capable king who is fighting a battle is seen turned away, so here. मतिः (*matiḥ*): that Agni, known by all, holds within himself (Sāyaṇa: अंतर्धारयति (*aṃtardhārayati*)) गोः (*goḥ*), of the cow (that is, of water), the destructive निष्पिधं (*niṣpidhaṃ*) radiance. This is the lordship of the gods (as in the refrain).
+
 ---
 
-**Progress note:** Done through printed p. 286. pp. 281-286 (batch API)
+**Progress note:** Done through printed p. 292. pp. 287-292 (batch API)
