@@ -19803,6 +19803,113 @@ The great seer Jamadagni himself is the eye. He is the divine eye by whose help 
 
 By these sentences it is shown that Jamadagni is of the nature of the imperishable (*akṣara*) Supreme Self.
 
+### Printed p. 658
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः । (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ |*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये तृतीयाष्टके तृतीये मंडले पंचमोऽनुवाकः (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye tṛtīyāṣṭake tṛtīye maṃḍale paṃcamo 'nuvākaḥ*)
+
+The third Maṇḍala is concluded.
+
+ओं तत्रत् (*oṃ tatrat*)
+
+Here the third Maṇḍala of the Ṛgveda Saṃhitā (in the third Aṣṭaka), accompanied by the Bhāṣya of Śrī Sāyaṇa and by a Kannada translation, is concluded.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+May there be good. Auspiciousness.
+
+### Printed p. 659
+
+Śrī 4. Now the fourth Maṇḍala.
+
+The fourth Maṇḍala.
+
+**Introduction**
+
+A brief account of the seer Vāmadeva.
+
+This sūkta was seen by the seer Vāmadeva. We shall describe the seer Vāmadeva briefly at the beginning of this Maṇḍala. This Vāmadeva is the son of the seer Gotama. Of the sūktas of this fourth Maṇḍala, sūktas 1–7 (206 Ṛks in all); in the 18th sūkta, verses 2–3½ and 8–13 (8½ Ṛks in all); sūktas 19–41 (299 Ṛks in all); and 45–58 (107 Ṛks in all)—all these together make a total of 560½ Ṛks, and he is the seer of them.
+
+The Śruti passages praise Vāmadeva in many ways as a great seer who had attained knowledge of Brahman. The Bṛhadāraṇyaka and the other Upaniṣads, the author of the Brahma-sūtras and others, when they examine the nature of the knowledge of Brahman and its means, praise the example of Vāmadeva himself. Such a divine knower is renowned as the seer of the fourth Maṇḍala of the Ṛk Saṃhitā. It is also stated that he is a part of Brahman who shines in the outer space in the form of the Sun and in the heart-space of man in the form of the vital breath. Although all the seers of the Ṛk Saṃhitā are described as particular manifestations of Brahman, the praise concerning Vāmadeva is extraordinary. That this great seer is a manifest person of Brahman in the form of the vital breath is described in the Aitareya Āraṇyaka as follows.
+
+एष इमं लोकमभ्यार्चत्पुरुषरूपेण य एष तपति (*eṣa imaṃ lokamabhyārcatpuruṣarūpeṇa ya eṣa tapati*)
+(I. Ā. 9-20)**NOTE**
+
+The Supreme Brahman who shines in the form of the Sun pervaded the earth in the form of a person. Then all the gods too wished, "May he be dear to us all." Because he whom all the gods wished to be dear to them became known as Vāmadeva, even though he was born from the form of a person, he was not covered by the ignorance natural to a person.
+
+### Printed p. 660
+
+By the three mantras beginning अहं मनुरभवं (*ahaṃ manurabhavaṃ*), Vāmadeva, dwelling in the womb, having attained knowledge of the truth, declared his experience of being everything, showing it in the forms of Manu and the rest. By three mantras of the meaning "I became Manu, the Prajāpati" and so on, Vāmadeva describes how, while still in the womb, he attained omniscience and the experience of himself in the forms of Manu and others.
+
+गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा । शतं मा पुर आयसीररक्षन्नध श्येनो जवसा निरदीयं ॥ (*garbhe nu sannanveṣāmavedamahaṃ devānāṃ janimāni viśvā | śataṃ mā pura āyasīrarakṣannadha śyeno javasā niradīyaṃ ‖*)
+(Ṛ. Saṃ. 4-27-1)
+
+"While still in the womb I knew the manner of origin of all the gods. Hundreds of iron bars bound me. But freed from them, I flew out swiftly like a falcon (śyena)." Quoting this Saṃhitā passage, which he himself spoke, in the Aitareya Āraṇyaka,
+
+गर्भ एवैतच्छयानो वामदेव एवमुवाच । स एवं विद्वानस्माच्छरीरभेदादूर्ध्व उत्क्रम्यामुष्मिन्वर्गे लोके सर्वान्कामानाप्त्वामृतः समभवत्समभवत् ॥ (*garbha evaitacchayāno vāmadeva evamuvāca | sa evaṃ vidvānasmāccharīrabhedādūrdhva utkramyāmuṣminvarge loke sarvānkāmānāptvāmṛtaḥ samabhavatsamabhavat ‖*)
+(I. Ā. 9-5-1)
+
+it is praised thus: Vāmadeva recited this sentence while still in the womb; having known this truth, he broke through the body in the womb, became free, enjoyed all the delights of heaven and became immortal. In अध शैनो जवसा निरदीयं (*adha śaino javasā niradīyaṃ*), for शैनः (*śainaḥ*) Sāyaṇa has stated शैनवत् (*śainavat*), "like the falcon", the word being a mark of comparison. Others say that, since there is here no word that indicates comparison, identity of Vāmadeva with the falcon is stated. If identity is stated in this way, one must examine what the word शैन (*śaina*) means. Moreover, that such a divine knower is said to have suffered the misery of poverty and, as a result, to have done a blameworthy deed is also a cause of doubt.
+
+अवर्त्या शुन आंत्राणि पेचे न देवेषु विविदे मर्डितारं । अपश्यं जायाममहीयमानामधा मे श्येनो मध्वा जभार ॥ (*avartyā śuna āṃtrāṇi pece na deveṣu vivide marḍitāraṃ | apaśyaṃ jāyāmamahīyamānāmadhā me śyeno madhvā jabhāra ‖*)
+(Ṛ. Saṃ. 4-18-13)
+
+"Without means of livelihood I cooked the entrails of a dog. No god who would make me happy appeared to me. I saw my wife too in a wretched state. Then Indra, swift like a falcon, brought me honey." So runs the description. In such circumstances it is a labour to know what the real meaning is. Speaking of himself,
+
+### Printed p. 661
+
+महो रुजामि बंधुता वचोभिस्तन्ना पितुर्गोतमादन्वियाय । (*maho rujāmi baṃdhutā vacobhistannā piturgotamādanviyāya |*)
+(Ṛ. Saṃ. 4-4-11)
+
+"O Agni, praising you with the speech of praise received from my father Gotama, I shall be able, by your grace, to destroy all enemies." In saying this he has declared himself the son of Gotama. This seer composed most excellent sūktas addressed to deities such as Agni and Indra. Stating this very thing, the Bṛhaddevatā says:
+
+सोग्निं तु पंचदशभिरिंद्रं षोडशभिः परैः । यषिस्वामिति तुष्टाव सूक्तैरेति तु गौतमः ॥ (*sogniṃ tu paṃcadaśabhiriṃdraṃ ṣoḍaśabhiḥ paraiḥ | yaṣisvāmiti tuṣṭāva sūktaireti tu gautamaḥ ‖*)
+(Bṛ. De. 4-12)
+
+Vāmadeva, son of Gotama, praised Agni with the fifteen sūktas beginning with the mantra त्वां ह्यग्ने सदमित् (*tvāṃ hyagne sadamit*), and Indra with the sixteen sūktas beginning with the mantra आ सत्यो यातु (*ā satyo yātu*) (Ṛ. Saṃ. 4-16-32). Thus the sūktas are divided according to the order of the deities. And in the mantras beginning स भ्रातरं (*sa bhrātaraṃ*) the circumstances that give room for doubt are also described. That a fight took place between Vāmadeva and Indra, and that although Indra was defeated Vāmadeva praised Indra, is also a strange circumstance from the worldly point of view. This story is described as follows.
+
+अंजसा न जनिष्येऽहं ब्रुवाणं गर्भमेव तु । अन्वशाददितिः पुत्रं इंद्रमात्महितैषिणी । स जातमात्रो युद्धाय ऋषिमेवाजुहाव तु ॥ (*aṃjasā na janiṣye 'haṃ bruvāṇaṃ garbhameva tu | anvaśādaditiḥ putraṃ iṃdramātmahitaiṣiṇī | sa jātamātro yuddhāya ṛṣimevājuhāva tu ‖*)
+(Bṛ. De. 4-130, 131)
+
+As soon as the son in the womb said, "I shall not be born in the natural way," Aditi, intent on her own protection, rebuked her son Indra. That same Indra, as soon as he was born, confronted the seer Vāmadeva as if to fight him.
+
+योधयन्नामदेवस्तं कृत्वात्मनि बलं तथा । दिनानि दश रात्रीश्च विजिग्ये चैनमोजसा ॥ (*yodhayannāmadevastaṃ kṛtvātmani balaṃ tathā | dināni daśa rātrīśca vijigye cainamojasā ‖*)
+(Bṛ. De. 4-132)
+
+Fighting with Indra, who had resolved to do him harm, he made him struggle for ten days, night and day. In the end, by his superior strength, he defeated him completely.
+
+### Printed p. 662
+
+स तं क इममित्य स्यां विक्रीणन्नृषिसंसदि । स्वयं तेनाभितुष्टाव नकिरिंद्रेति गौतमः ॥ (*sa taṃ ka imamitya syāṃ vikrīṇannṛṣisaṃsadi | svayaṃ tenābhituṣṭāva nakiriṃdreti gautamaḥ ‖*)
+(Bṛ. De. 4-133)
+
+Then Vāmadeva, by the Ṛk क इमं (*ka imaṃ*) (Ṛ. Saṃ. 4-24-10), presenting Indra who had come under his control, became in the assembly of seers a seller of Indra, and even at the time of the sale he fixes the terms. (Sāyaṇācārya has described the circumstances of this same occasion, in the form of verses composed by earlier teachers, in the introduction to mantra 4-24-10.) And by the mantras beginning न किरिंद्र त्वदुत्तरः (*na kiriṃdra tvaduttaraḥ*) (Ṛ. Saṃ. 4-30-1) he praised Indra.
+
+किमादुतासीति चास्यां मन्युमर्धे पराणुदत् । अथास्य रूपवीर्याणि धैर्यकार्याणि तान्वृषिः ॥ विविधानि च कर्माणि शशंसादितये तथा । अह मित्यात्मसंस्तावस्त्रचे स्तुतिरिवास्य हि ॥ प्र सु ष विभो नवभिर्यग्निः श्येनस्य संस्तवः । पराभिस्तृति पंचर्चे सोमेनेंद्रः स्तुतः सह ॥ (*kimādutāsīti cāsyāṃ manyumardhe parāṇudat | athāsya rūpavīryāṇi dhairyakāryāṇi tānvṛṣiḥ ‖ vividhāni ca karmāṇi śaśaṃsāditaye tathā | aha mityātmasaṃstāvastrace stutirivāsya hi ‖ pra su ṣa vibho navabhiryagniḥ śyenasya saṃstavaḥ | parābhistṛti paṃcarce someneṃdraḥ stutaḥ saha ‖*)
+(Bṛ. De. 4-134 to 6; printed Bṛ. Ḍe.)
+
+By the mantra किमादुतासि (*kimādutāsi*) (4-20-7) he praised Indra and appeased his anger. Then he praised and extolled Indra's heroic deeds, his firmness and his daring. By the mantras beginning अहं मनुः (*ahaṃ manuḥ*) (4-26-1) he also praised his own greatness and declared it before Aditi. In these praises he seems to have declared identity between himself and Indra. In the mantras beginning प्र सु ष विभ्यः (*pra su ṣa vibhyaḥ*) (4-26-4-7) there is praise of the falcon (Śyena). After that there is again praise of Indra together with Soma. Thus Vāmadeva's skill of composition is praised. In the same way his skill of composition is praised in other places also.
+
+संपातौ भवतो निष्केवल्यमरुत्वतीययोर्निविद्वाने वामदेवो वा इमाल्लोकानपश्यत्तान्संपातैः समपतद्यत्संपातैः समपतत्तत्संपातानां संपा- तत्वं तद्यत्संपातौ प्रथमेऽहनि शंसति स्वर्गस्य लोकस्य समष्टेऽ संपत्तेऽ संगत्यै ॥ (*saṃpātau bhavato niṣkevalyamarutvatīyayornividvāne vāmadevo vā imāllokānapaśyattānsaṃpātaiḥ samapatadyatsaṃpātaiḥ samapatattatsaṃpātānāṃ saṃpā- tatvaṃ tadyatsaṃpātau prathame 'hani śaṃsati svargasya lokasya samaṣṭe ' saṃpatte ' saṃgatyai ‖*)
+(I. Brā. 4-30)**NOTE**
+
+In the Niṣkevalya-śastra and also in the Marutvatīya-śastra, the mantras to be offered are in the form of saṃpātas (they follow upon one another). आ यात्विंद्रोऽवस (*ā yātviṃdro 'vasa*) (Ṛ. Saṃ. 4-21-1) is the sūkta, in the form of a nivid-dhāna, to be offered in the Marutvatīya-śastra. The one that begins with the mantra आ न इंद्रो दूरात् (*ā na iṃdro dūrāt*) (Ṛ. Saṃ. 4-20-1) is the sūkta
+
+### Printed p. 663
+
+to be offered in the Niṣkevalya-śastra in the form of a nivid-dhāna. Both of these bear the name saṃpāta. Formerly the seer Vāmadeva, having surveyed all the worlds beginning with Bhūr and wishing to visit them all, was thinking about the means of reaching them, and finally composed these saṃpāta-sūktas; by their power he flew to all of them in the manner of a bird's flight and reached them. Since it is established that, by their greatness, all who recite them will likewise go and reach the worlds beginning with Bhūr, the name saṃpāta became famous for them. The man who, on the first day of the Niṣkevalya and Marutvatīya śastras, recites these saṃpāta-sūktas with faith obtains all prosperity and attains union with heaven. Thus the power of Vāmadeva's composition is praised. A circumstance in which the seer Viśvāmitra could not bear the greatness of the power of these mantras is also stated as follows:
+
+तान्ना एतान्संपातान्विश्वामित्रः प्रथममपश्यत्तान्विश्वामित्रेण दृष्टान्वामदेपोऽसृजतैवा त्वामिंद्र वज्रिन्नत्र .... .... .... तत्संपातानां संपातत्वं ॥ (*tānnā etānsaṃpātānviśvāmitraḥ prathamamapaśyattānviśvāmitreṇa dṛṣṭānvāmadepo 'sṛjataivā tvāmiṃdra vajrinnatra .... .... .... tatsaṃpātānāṃ saṃpātatvaṃ ‖*)
+(Ai. Brā. 6-18)
+
+The great seer Viśvāmitra, by the grace of God, saw the saṃpāta-sūktas at the very time of creation, and also knew in his mind the power of these mantras among the Vedas. Vāmadeva studied these sūktas seen by Viśvāmitra and published them in the world in his own name. एवा त्वामिंद्र वज्रिन् (*evā tvāmiṃdra vajrin*) (Ṛ. Saṃ. 4-19-1), यन्न इंद्रो जुजुषे (*yanna iṃdro jujuṣe*) (Ṛ. Saṃ. 4-22-1), कथा महामवृधत्कस्य होतुः (*kathā mahāmavṛdhatkasya hotuḥ*) (Ṛ. Saṃ. 4-23-1) are those seen by Viśvāmitra and created by Vāmadeva. Knowing this, Viśvāmitra, wishing to make his own name famous, composed in return for these the saṃpāta-mantras beginning सद्यो ह जातो वृषभः (*sadyo ha jāto vṛṣabhaḥ*) (Ṛ. Saṃ. 3-48-1); this circumstance too is described. Circumstances of this kind also praise Vāmadeva's skill of composition.
+
+The Upaniṣads and other texts praise his divine knowledge, saying that Vāmadeva was a great divine knower, and that everyone who wishes to be freed from the sorrow of saṃsāra and to attain the eternal union with Brahman must know what the nature of the great seer Vāmadeva's knowledge was. In the Aitareya Upaniṣad:
+
+तदुक्तमृषिणा—गर्भे नु सन्नन्वेषां .... .... .... इति । गर्भ ए वैतच्छयानो वामदेव एवमुवाच ॥ (*taduktamṛṣiṇā—garbhe nu sannanveṣāṃ .... .... .... iti | garbha e vaitacchayāno vāmadeva evamuvāca ‖*)
+(I. U. 9.5)**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 657. pp. 652-657 (batch API)
+**Progress note:** Done through printed p. 663. pp. 658-663 (batch API)
