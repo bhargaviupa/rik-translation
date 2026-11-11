@@ -26002,6 +26002,325 @@ Then, radiant in association with the parents, (heaven and earth), he isa wakene
 > *ṛtaṃ voce namasā pṛcchyamānastavāśasā jātavedo*  
 > *yadīdaṃ |*
 
+### Printed p. 819
+
+> त्वमस्य क्षयसि यद्ध विश्वं दिवि यदु द्रविणं यत्‌पृथिव्यां॥
+
+> *tvamasya kṣayasi yaddha viśvaṃ divi yadu draviṇaṃ yatpṛthivyāṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतं । वोचे । नमसा । पृच्छ्यमानः । तव । आशसा । जातवेदः । यदि । इदं ।  
+> त्वं । अस्य । क्षयसि । यत् । ह । विश्वं । दिवि । यत् । ऊं इति । द्रविणं । यत् ।  
+> पृथिव्यां ॥ ११ ॥
+
+> *ṛtaṃ | voce | namasā | pṛcchyamānaḥ | tava | āśasā | jātavedaḥ | yadi | idaṃ |*  
+> *tvaṃ | asya | kṣayasi | yat | ha | viśvaṃ | divi | yat | ūṃ iti | draviṇaṃ | yat |*  
+> *pṛthivyāṃ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं यजमानो नमसा नमस्कारेण सह पृच्छ्यमानोऽनैरनुयुज्यमानः सन् ऋतं वोचे । सत्यं ब्रवीमि । किं तदित्युच्यते । हे जातवेदो जातानां
+> वेदितर्जातप्रज्ञ वाग्ने तवाशसा त्वत्सुत्या साधनेन यदीदं धनं लब्धमस्माभिः
+> स्यात् अस्य धनस्य त्वं क्षयसि । त्वमेवेश्वरो भवसि । तस्य धनस्य यज्ञादिद्वाराग्न्यर्थत्वादिति भावः । अत्यल्पमिदमुक्तं । यद्ध विश्वं यत्पलु कृत्स्नं धनमस्ति
+> तस्यापीशिषे । विश्वमिति सामान्येन यदुक्तं तदेव विशदयति । दिवि द्युलोके
+> यदु द्रविणं यदेव धनं यच्च पृथिव्यां धनं तस्य सर्वस्य त्वमीश्वरो भवसि ।
+> यज्ञार्थं द्रव्यमुत्पन्नमिति स्मरणात् । अग्नि व्यतिरेकेण यज्ञा संभवादिति भावः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: I, the sacrificer, being questioned by others, speak the truth ऋतं वोचे (*ṛtaṃ voce*), together with homage. What that is, is now stated. "O Jātavedas, knower of what is born, O Agni, by your āśas, that is, by the means of your praise, whatever wealth may have been obtained by us, of this wealth you are lord; you alone are its master, because by way of sacrifice and the like that wealth is for Agni." Even this is said to be very little: whatever whole wealth there is, of that too you are master. What was said in general by "viśvam" he now makes clear: whatever wealth is in heaven, and whatever wealth is on earth, of all that you are lord. He grounds this in the tradition that wealth was produced for the sake of sacrifice; without Agni no sacrifice is possible, such is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नमसा (*namasā*)—with homage
+- पृच्छ्यमानः (*pṛcchyamānaḥ*)—I (the sacrificer), who am questioned
+- ऋतं वोचे (*ṛtaṃ voce*)—I declare this answer which is the truth (namely)
+- जातवेदः (*jātavedaḥ*)—O Jātavedas
+- तव आशसा (*tava āśasā*)—obtained by the means of your praise
+- यदि इदं (*yadi idaṃ*)—whatever this wealth is
+- अस्य (*asya*)—of it
+- त्वं (*tvaṃ*)—you
+- क्षयसि (*kṣayasi*)—are lord
+- यत् ह विश्वं (*yat ha viśvaṃ*)—in the whole world
+- दिवि (*divi*)—in the heavenly world
+- यत् उ द्रविणं (*yat u draviṇaṃ*)—whatever wealth there is
+- यत् पृथिव्यां (*yat pṛthivyāṃ*)—whatever wealth there is on the earth (of all that you alone are master)
+
+##### भावार्थ (Bhāvārtha)
+
+I, the sacrificer, who am questioned with homage, declare this answer which is the truth. It is this: O Jātavedas, of this wealth obtained by the means of your praise, and also of all the wealth spread through the heavenly world and the earthly world, you alone are the master.
+
+### Printed p. 820
+
+##### English translation (H. H. Wilson)
+Interrogated with respect, I declare the truth, that this (wealth is acquired), Jatavedas, by the praise of you : you rule over it, (over) all that (it may be), the wealth that is in heaven or on earth.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं नो॑ अ॒स्य द्रवि॑णं॒ कद्ध॒ रत्नं॒ वि नो॑ वोचो जातवेदश्चि कि॒त्वान् ।  
+> गुहाध्व॑नः पर॒मं यन्नो॑ अ॒स्य रेकु॑ प॒दं न नि॑दा॒ना अग॑न्म ॥
+
+> *kiṃ no asya draviṇaṃ kaddha ratnaṃ vi no voco jātavedaści kitvān |*  
+> *guhādhvanaḥ paramaṃ yanno asya reku padaṃ na nidānā aganma ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । नः । अस्य । द्रविणं । कत् । ह । रत्नं । वि । नः । वोचः । जातवेदः । चिकित्वान् ।  
+> गुहा । अध्वनः । परमं । यत् । नः । अस्य । रेकु । पदं । न । निदानाः ।  
+> अगन्म ॥ १२ ॥
+
+> *kiṃ | naḥ | asya | draviṇaṃ | kat | ha | ratnaṃ | vi | naḥ | vocaḥ | jātavedaḥ | cikitvān |*  
+> *guhā | adhvanaḥ | paramaṃ | yat | naḥ | asya | reku | padaṃ | na | nidānāḥ |*  
+> *aganma ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रेण यस्य धनस्याग्निस्वामित्वमुक्तमस्य धनस्य किं द्रविणं किं साधनभूतं नोऽस्मभ्यं दातव्यं धनमस्ति । कद्ध रत्नं किंच रमणीयं हितकरं धनमस्ति ।
+> तद्धनं हे जातवेदो जातधनाग्ने चिकित्वांश्चेतनानावानभिज्ञस्त्वं नोऽस्मभ्यं वि
+> वोचः । विब्रूहि । यद्वा । किं दातव्यं द्रविणमस्ति । अस्य द्रविणराशेः कद्ध रत्नमिति
+> योज्यं । अस्याध्वनो धनप्राप्तिमार्गस्य यद्दुहा गुहायां निहितं गूढं परममुत्कृष्टं प्राप्तव्यमस्ति तदपि नोऽस्मभ्यं विवोचः । वयं रेकु रिक्तं पदं गंतव्यं
+> स्थानं गृहादिकं निदाना अन्नैर्निंद्यमानाः ॥ कर्मणि कर्तृप्रत्ययः ॥ नागन्म । न
+> प्राप्पुमः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: of the wealth over which Agni's lordship was stated in the previous mantra, what is the dravinam, what wealth, as a means, is to be given to us? And what ratna, what pleasing and beneficial wealth, is there? That wealth, O Jātavedas, Agni who knows what is born, you who are cikitvān, endowed with understanding and knowing, declare to us (vi vocaḥ, "explain"). Or else: what dravinam is there to be given? The phrase कद्ध रत्नं (*kaddha ratnaṃ*) is to be connected with "of this heap of wealth". Whatever in this path (adhvan) of the attainment of wealth lies hidden in a cave, is supreme and excellent and is to be reached, that too declare to us. May we not go to an empty (rekku, rikta) place, a house and the like that is to be gone to, being reproached (nidānāḥ) by others; that is नागन्म (*nāganma*), "we do not reach".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—to that wealth (of which Agni is the lord)
+- किं द्रविणं (*kiṃ draviṇaṃ*)—what is the value?
+- नः (*naḥ*)—of this wealth of ours
+- कद्द रत्नं (*kadda ratnaṃ*)—what is the chief use? (in what way is it beneficial?)
+
+### Printed p. 821
+- जातवेदः (*jātavedaḥ*)—O all-knowing Agni
+- चिकित्वान् (*cikitvān*)—you who know everything
+- नः (*naḥ*)—to us
+- वि वोचः (*vi vocaḥ*)—explain clearly
+- अस्य अध्वनः (*asya adhvanaḥ*)—of this path of the attainment of wealth
+- यत् गुहा (*yat guhā*)—what is hidden
+- परमं (*paramaṃ*)—and the most excellent place
+- नः (*naḥ*)—to us (make known)
+- रेकु (*reku*)—empty
+- पदं (*padaṃ*)—place
+- निदानाः (*nidānāḥ*)—reproached (by others)
+- न अगन्म (*na aganma*)—may we not reach it
+
+##### भावार्थ (Bhāvārtha)
+
+What is the value of the wealth of which Agni is the lord? In what way is this wealth beneficial? O all-knowing Agni, you who know everything, explain it clearly to us. Make known to us the hidden and most excellent place on the path of the attainment of wealth, and may we, reproached by others, not reach an empty place.
+
+##### English translation (H. H. Wilson)
+What is the value of this (wealth) to us? what's its advantage? Inform us, Jatavedas, for you know ; (tell us) what is the best (course) for us on this secret path, so that we may follow unreproached the direct road.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> का म॒र्यादा॑ व॒युना॒ कद्ध॑ वा॒ममच्छा॑ गमेम र॒घवो॒  ॑
+> न वाजं।  
+> क॒दा नो॑ दे॒वीर॒मृत॑स्य॒ पत्निः॒ सूरो॒ वर्णे॑न ततनन्नु॒षासः॑॥
+
+> *kā maryādā vayunā kaddha vāmamacchā gamema raghavo*  
+> *na vājaṃ|*  
+> *kadā no devīramṛtasya patniḥ sūro varṇena tatanannuṣāsaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> का । मर्यादा । वयुना । कत् । ह । वामं । अच्छ । गमेम । रघवः । न । वाजं।  
+> कदा । नः । देवीः । अमृतस्य । पत्निः । सूरः । वर्णेन । ततनन् । उषसः ॥ १३ ॥
+
+> *kā | maryādā | vayunā | kat | ha | vāmaṃ | accha | gamema | raghavaḥ | na | vājaṃ|*  
+> *kadā | naḥ | devīḥ | amṛtasya | patniḥ | sūraḥ | varṇena | tatanan | uṣasaḥ ‖ 13 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> का मर्यादा का प्रीत्यादिव्यवस्था का च वयुना प्रज्ञानं पदार्थविषयं
+> कद्ध किं च नामं वननीयं पदार्थजातं । एतत्सर्वमच्छ गमेम । अभिगच्छेम ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: what is the marygādā, what is the arrangement (vyavasthā) of affection and the like; and what is vayunā, knowledge concerning things; and what class of desirable things (vāmam) is there? All this may we approach (acchā gameṃma, "may we go up to").
+
+### Printed p. 822
+
+> तत्र दृष्टांतः । रघवो न वाजं ! शीघ्रगामिनोऽश्वादयः संग्राममिव तद्वत् ।
+> कदा कस्मिन्काले नोऽस्माकं व्यवहाराय देवीर्देव्यो द्योतमाना अमृतस्यामरणधर्मस्यादित्यस्य षत्नीः पत्नीः पालयित्र्यः सूरः प्रसवित्र्य उषासो वर्णेन
+> प्रकाशेन ततनन् । विस्तारयेयुः । एवं सूर्यसंबंधिन उषसः स्तुत्या सर्वात्मनो वैश्वानरस्य स्तुतिरवगंतव्या ॥ तनोतेर्लेटि बहुलं छंदसीति विकरणस्य श्लुः ।
+> द्विर्भावहलादिशेषौ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the illustration is रघवो न वाजं (*raghavo na vājaṃ*): as swift-going horses and the like go to battle. When, at what time, for our dealings, would the shining (devīḥ) dawns, the wives (patnīḥ, "protectresses") of the immortal Āditya, who is of deathless nature, the sūraḥ ("bringers-forth"), spread (tatanan) with varṇa, that is, with radiance? Thus, by this praise of the dawns connected with the sun, the praise of Vaiśvānara, the self of all, is to be understood.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजं (*vājaṃ*)—for battle
+- रघवो न (*raghavo na*)—like swift-going horses
+- अच्छ (*accha*)—towards our desired region
+- गमेम (*gamema*)—(the region) to which we go
+- मर्यादा (*maryādā*)—the limit (of it)
+- का (*kā*)—what is it?
+- वयुना (*vayunā*)—the object that becomes perceptible to our knowledge there
+- कद्द (*kadda*)—what indeed is there?
+- वामं (*vāmaṃ*)—what is its use?
+- कदा (*kadā*)—when
+- नः (*naḥ*)—for our dealings
+- देवीः (*devīḥ*)—the shining
+- अमृतस्य (*amṛtasya*)—of the deathless Āditya
+- पत्नीः (*patnīḥ*)—the wives
+- सूरः (*sūraḥ*)—who bring forth the world
+- उषासः (*uṣāsaḥ*)—the dawn goddesses
+- वर्णेन (*varṇena*)—with their splendours
+- ततनन् (*tatanan*)—will light up the world
+
+##### भावार्थ (Bhāvārtha)
+
+Like swift-going horses that run for battle, we go towards our desired region: what is the limit of that region? What object that becomes perceptible to our knowledge is there, and what is its use? When will the dawn goddesses, shining for our dealings, wives of the deathless Āditya and bringers-forth of the world, light up the world with their splendours?
+
+##### English translation (H. H. Wilson)
+What is the limit, what are the objects, which is the desirable (end) to which we rush like swift (chargers) to the battle? when for us will the divine dawns, the brides of the immortal (sun), overspread (the world) with light.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒नि॒रेण॒ वच॑सा फ॒ल्गॆ॑न प्र॒तीत्ये॑न कृ॒धुना॑तृ॒पासः॑ ।  
+> ( धा॒ ते अ॑ग्ने॒ किमि॒हा व॑दंत्यनायु॒धास॒ आस॑ता सचंतां ॥
+
+> *anireṇa vacasā phalgèna pratītyena kṛdhunātṛpāsaḥ |*  
+> *( dhā te agne kimihā vadaṃtyanāyudhāsa āsatā sacaṃtāṃ ‖*
+
+### Printed p. 823
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनिरेण । वचसा । फल्ग्येन । प्रतीत्येन । कृधुना । अतृपासः ।  
+> अध । ते । अग्ने । किं । इह । वदंति । अनायुधासः । असता सचंतां ॥ १४ ॥
+
+> *anireṇa | vacasā | phalgyena | pratītyena | kṛdhunā | atṛpāsaḥ |*  
+> *adha | te | agne | kiṃ | iha | vadaṃti | anāyudhāsaḥ | asatā sacaṃtāṃ ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनिरेण । इरान्नं । तद्रहितेन फल्गनोक्केन प्रतीत्येन प्रतिगंतव्येन ।
+> आरोह्येणेत्यर्थः । कृधुना ह्रस्वेन । कृद्विति ह्रस्वनाम कृधुको वम्रक इति तन्नामसूक्तत्वात् । एवंविधेन वचसातृपासोऽतृप्ता जनाः । अध अधुनेहास्मिन् लोके
+> हे अग्ने ते त्वां किं वदंति । निर्हविष्केण वचसा न किंचिल्लभ्यत इत्यर्थः। किंत्वनायुधासः। आयुधशब्दः साधनं लक्षयति। हविरादिसाधनरहितास्तेऽसता दुःखेन सचंतां।
+> संगच्छंतां ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: anirena: ira is food; by speech devoid of it; phalguna **NOTE**; pratītyena, "to be approached", that is, "to be climbed" (ārohya); kṛdhunā, "short": kṛdhu is a name for "short", as the lists of its names show (कृधुको वम्रक इति (*kṛdhuko vamraka iti*)). By speech of such kind, unsatisfied (atṛpāsaḥ) people, now (adha) here in this world, O Agni, what do they say to you? By speech without oblation nothing is obtained, that is the sense. But anāyudhāsaḥ: the word āyudha stands for a means; those devoid of means such as oblations, let them meet with asat, that is, with suffering (sacantām, "let them come together").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अनिरेण (*anireṇa*)—devoid of food
+- फल्गेन (*phalgena*)—worthless
+- प्रतीत्येन (*pratītyena*)—devoid of what is defined **NOTE**
+- कृधुना (*kṛdhunā*)—very short
+- वचसा (*vacasā*)—with speech
+- अतृपासः (*atṛpāsaḥ*)—unsatisfied
+- अध (*adha*)—now
+- इह (*iha*)—in this place of sacrifice
+- ते (*te*)—addressing you
+- किं वदंति (*kiṃ vadaṃti*)—what indeed can they say?
+- अनायुधासः (*anāyudhāsaḥ*)—they who are devoid of the means in the form of oblation
+- असता (*asatā*)—with suffering
+- सचंतां (*sacaṃtāṃ*)—let them be joined
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, unsatisfied by speech that is devoid of food, worthless, devoid of what is defined, and very short, what indeed can they now say here in this place of sacrifice, addressing you? Devoid of the means in the form of oblation, let them be filled with suffering.
+
+##### English translation (H. H. Wilson)
+(Men are) not satisfied by unproductive, frivolous, inconclusive, scanty speech; then what, Agni, do they here say to you? devoid of the implements (of worship), let them suffer from distress
+
+### Printed p. 824
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य श्रि॒ये स॑मिधा॒नस्य॒ वृष्णो॒ वसो॒रनी॑कं॒ दम॒ आ रु॑रोच।  
+> रुश॒द्वसा॑नः सु॒दृशी॑करूपः क्षि॒तिर्न रा॒या पु॑रु॒वारो॑ अदौत् ॥
+
+> *asya śriye samidhānasya vṛṣṇo vasoranīkaṃ dama ā ruroca|*  
+> *ruśadvasānaḥ sudṛśīkarūpaḥ kṣitirna rāyā puruvāro adaut ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । श्रिये । संइधानस्य । वृष्णः । वसोः। अनेकं । दमे । आ । रुरोच ।  
+> रुशत् । वसानः । सुदृशीकरूपः । क्षितिः । न । राया । पुरुवारः । अद्यात् ॥ १५ ॥
+
+> *asya | śriye | saṃidhānasya | vṛṣṇaḥ | vasoḥ| anekaṃ | dame | ā | ruroca |*  
+> *ruśat | vasānaḥ | sudṛśīkarūpaḥ | kṣitiḥ | na | rāyā | puruvāraḥ | adyāt ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिधानस्य समिध्यमानस्य ॥ कर्मणि कर्तृप्रत्ययः ॥ वृष्णो वर्षितुः फलस्य
+> वसोऽर्वासयितुरस्याग्नेरनीकं तेजःसंघो दमे यागगृह आ रुरोच । सर्वतो
+> दीप्यते । किमर्थं । श्रिये श्रेयसे यजमानानां । सोऽग्नि रुशत् । वर्णनामैतत् । दीप्तं तेजो वसान आच्छादयन् अत एव सुदृशीकरूपः सुष्टु दर्शनीयरूपः पुरुवारो बहुभिऋत्विग्भिर्यजमानैर्वर्णनीयः सन्नद्यौत् । द्योतते ।
+> किमिव । रायाश्वादिधनेन क्षितिर्न राजादिरिव । क्षितिरिति मनुष्यनाम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: of the one being kindled (samidhānasya, "kindled"), of the vṛṣṇaḥ, the showerer of fruit, of vasoḥ, the one who causes dwellings, of this Agni the anīkam, the mass of radiance, has shone all round (ā ruroca) in the dama, the house of sacrifice. For what purpose? श्रिये (*śriye*), for the welfare of the sacrificers. That Agni is ruśat (this is a name for colour), clothing himself, covering himself, in bright radiance; hence he is sudṛśīkarūpaḥ, of beautiful form; and puruvāraḥ, to be chosen by many priests and sacrificers; he shone (adyaut, "shines"). Like what? Like a kṣiti, a king or the like with rāyā, wealth such as horses. Kṣiti is a name for man.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिधानस्य (*samidhānasya*)—who is kindled by fuel-sticks
+- वृष्णः (*vṛṣṇaḥ*)—who showers desires
+- वसोः (*vasoḥ*)—who provides dwellings
+- अस्य (*asya*)—of this Agni
+- अनेकं (*anekaṃ*)—the mass of radiances **NOTE**
+- दमे (*dame*)—in this house of sacrifice
+- श्रिये (*śriye*)—for the welfare (of the sacrificer)
+- आ रुरोच (*ā ruroca*)—shines all round
+- रुशत् (*ruśat*)—bright radiance
+- वसानः (*vasānaḥ*)—who wears
+- सुदृशीकरूपः (*sudṛśīkarūpaḥ*)—who has a beautiful form
+- पुरुवारः (*puruvāraḥ*)—who is worshipped by many
+- राया (*rāyā*)—who shines with wealth
+- क्षितिर्न (*kṣitirna*)—like a king
+- अद्यात् (*adyāt*)—he shines
+
+##### भावार्थ (Bhāvārtha)
+
+The mass of radiances of Agni, who is kindled by fuel-sticks, who showers desires and provides dwellings, shines all round in this house of sacrifice for the welfare of the sacrificer. Agni, who wears bright radiance, has a beautiful form and is worshipped by many, shines like a king who shines with wealth.
+
+### Printed p. 825
+
+##### English translation (H. H. Wilson)
+For the prosperity of this ( institutor of the rite ), the host (of the flames) of the kindled (Agni), the showerer (of benefits), the giver of dwell-ings, has blazed in the hall (of sacrifice); clothed in radiance, beatiful in semblance, and glorified by many, he shines like a man with opulence.
+
+## Sūkta 6 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्ध्व ऊ षु ण इत्येकादशर्चं षष्ठं सूक्तं वामदेवस्यार्षं त्रैष्टुभमाग्नेयं । ऊर्ध्व ऊ श्वेकादशेत्यनुक्रांतं ॥ प्रातरनुवाकाशिनशस्त्रयोराग्नेये क्रत्ौ त्रैष्टुभे छंदसीदं । सूत्रितं च । ऊर्ध्व ऊ षु णः ससस्य यद्वियुतेति पंच । आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the sixth sūkta, of eleven Ṛks, beginning ऊर्ध्व ऊ षु णः (*ūrdhva ū ṣu ṇaḥ*), has Vāmadeva as seer, Agni as deity and Triṣṭubh as metre. The Anukramaṇī says "ūrdhva ū ekādaśa". Its use is in the Prātaranuvāka and the Āśvina-śastra, in the Āgneya Kratu, for the verses in Triṣṭubh metre. It is stated in the sūtra: ऊर्ध्व ऊ षु णः ससस्य यद्वियुतेति पंच (*ūrdhva ū ṣu ṇaḥ sasasya yadviyuteti paṃca*) (Ā. 4-13).
+
+##### Anuvāda
+
+This sūkta beginning "Ūrdhva ū ṣu ṇaḥ" is the sixth sūkta in the first anuvāka. It has eleven Ṛks. Vāmadeva is the seer of this sūkta; Agni is the deity; the metre is Triṣṭubh. The Anukramaṇī says "Ūrdhva ū" for it. It is explained by the Āśvalāyana-śrauta sūtra (Ā. 4-13) "Ūrdhva ū ṣu ṇaḥ, sasasya yad viyuta, these five": the sūkta is applied, at the time of reciting the Prātaranuvāka and the Āśvina-śastra mantras, for the Ṛks in Triṣṭubh metre among the mantras connected with the Āgneya Kratu.
+
+##### Particulars
+
+- Sūkta: 6
+- Maṇḍala: 4; Anuvāka: 1; Sūkta: 6
+- Aṣṭaka: 3; Adhyāya: 5; Varga: 4, 5
+- Number of Ṛks in the sūkta: 11
+- Ṛṣi: Vāmadeva
+- Devatā: Agni
+- Chandas: Triṣṭubh
+
 ---
 
-**Progress note:** Done through printed p. 818. pp. 813-818 (batch API)
+**Progress note:** Done through printed p. 825. pp. 819-825 (batch API)
