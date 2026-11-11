@@ -27872,6 +27872,242 @@ It is described that Indra burned to ashes the asuras and others who were withou
 Here too आतसः (*ātasaḥ*) is an epithet showing Indra's quality; it means one who causes heat all around. This too is the work of Agni and is an epithet of Indra. In Ṛ. Saṃ. 3-31-10, although प्रश्नॆस्य रेतसः (*praśnèsya retasaḥ*) is a description of Indra, in this context it states the nature of Āditya. That is, one may also say that Indra himself has the quality of Āditya. Therefore one may also say that identity between Āditya, a transformed form of Agni, and Indra is stated. Likewise, just as Indra is said to be one who performs the works done by Agni, who is bright and who burns enemies, so Agni too is often described as one who performs the works assigned to Indra.
 प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचंते । वैश्वानरो दस्युमग्निर्जघन्वा अधूनोत्कृष्टा अव शंबरं भेत् ॥ (*pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacaṃte | vaiśvānaro dasyumagnirjaghanvā adhūnotkṛṣṭā ava śaṃbaraṃ bhet ‖*) (Ṛ. Saṃ. 1-59-6)
 
+### Printed p. 749
+
+in which Agni is described as the slayer of Vṛtra and the splitter of the asura Śambara. Both of these are well-known deeds of Indra. Likewise, in तमु त्वा वृत्रहंतमं........ (*tamu tvā vṛtrahaṃtamaṃ........*) and the like (1-78-4), Agni is described in many places in this way. Moreover, there are also plenty of passages that state outright the identity of Indra and Agni. For example:
+
+अथ यत्रैतत्त्वदीपो भवति । उच्चैर्धूमः परमया जूत्या बल्पलीति तर्हि हैष भवतींद्रः ॥ (*atha yatraitattvadīpo bhavati | uccairdhūmaḥ paramayā jūtyā balpalīti tarhi haiṣa bhavatīṃdraḥ ‖*) (Śa. Brā. 2-3-2-11).
+
+When this same Agni is fully ablaze, pervading with his flames, spreading smoke, and rushing swiftly upward, people praise him as Indra.
+
+स उपहवमिष्ट्वा भक्षयति मधु हुतमिंद्रतमेग्नाविति । (*sa upahavamiṣṭvā bhakṣayati madhu hutamiṃdratamegnāviti |*) (Śa. Brā. 14-2-2-42).
+
+In sentences of this kind Agni is praised as the most excellent Indra. Since the identity of Indra and Agni is thus described in many places, the word अनिंद्राः (*aniṃdrāḥ*), a specific designation of Agni, is appropriate in the present context.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्षेत्रा॑दपश्यं सनु॒तश्चरं॑तं सु॒मद्यू॒थं न पु॒रु शोभ॑मानं ।  
+> न ता अ॑गृभ्र॒न्न ज॑निष्ट॒ हि षः पलि॑क्की॒रिद्यु॑व॒तयो॑ भवंति ॥ ४ ॥
+
+> *kṣetrādapaśyaṃ sanutaścaraṃtaṃ sumadyūthaṃ na puru śobhamānaṃ |*  
+> *na tā agṛbhranna janiṣṭa hi ṣaḥ palikkīridyuvatayo bhavaṃti ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षेत्रात् । अपश्यं । सनुतरिति । चरंतं । सुमत् । यूथं । न । पुरु । शोभमानं ।  
+> न । ताः । अगृभ्रन् । अजनिष्ट । हि । सः । पलिक्किः । इत् । युव तयः । भवंति ॥ ४ ॥
+
+> *kṣetrāt | apaśyaṃ | sanutariti | caraṃtaṃ | sumat | yūthaṃ | na | puru | śobhamānaṃ |*  
+> *na | tāḥ | agṛbhran | ajaniṣṭa | hi | saḥ | palikkiḥ | it | yuva tayaḥ | bhavaṃti ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं वृश इदानीं क्षेत्रात् क्षेत्रे सुनुतः । अंतर्हितनामैतत् । निगूढं
+> चरंतमरण्यां यूथं न गवां समूहमिव सुमत्सयमेव पुरु बहु शोभमा..
+
+##### Gist of the bhāṣya
+
+"I, Vṛśa, now see him from the field, in the field." सनुतः (*sanutaḥ*) is a name meaning "hidden". He moves concealed in the forest, like a herd of cows, of his own accord, shining greatly (the text breaks off at शोभमा.. (*śobhamā..*); the sentence continues on the next page). **NOTE**
+
+### Printed p. 750
+
+> नमपश्यं । पश्यामि । पुरा हरसः पिशाच्याक्रमणकाले ता ज्वाला निर्वीर्या
+> नागृभ्रन् । नागृह्णंत नराः । इदानीं सोऽग्निरजनिष्ट हि । हरसा प्रादुरभूत्खलु । अत
+> एव हेतोः पलिक्कीरित्पलिक्ष्यः पलिता जीर्णा ज्वाला एवेदानीं युवतयो भवंति ॥
+
+##### Gist of the bhāṣya
+
+He completes the verb अपश्यं (*apaśyaṃ*): "I see". Formerly, at the time when Piśācī attacked by force, those flames were powerless and men did not seize them. Now that Agni has been born, he has indeed appeared by force. For that very reason the grey, aged flames now become young.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्षेत्रात् (*kṣetrāt*)—from one region (to another region)
+- सनुतः (*sanutaḥ*)—secretly
+- सुमत् (*sumat*)—of his own accord
+- चरंतं (*caraṃtaṃ*)—moving about
+- यूथं न (*yūthaṃ na*)—like a herd of cattle
+- पुरु (*puru*)—greatly
+- शोभमानं (*śobhamānaṃ*)—shining; (such) Agni
+- अपश्यं (*apaśyaṃ*)—I see
+- ताः (*tāḥ*)—those flames that had grown before
+- न अगृभ्रन् (*na agṛbhran*)—no one could see
+- सः (*saḥ*)—that same Agni
+- अजनिष्ट हि (*ajaniṣṭa hi*)—has been born again
+- पलिक्कीरित् (*palikkīrit*)—those same flames that had reached old age
+- युवतयः (*yuvatayaḥ*)—having attained youth
+- भवंति (*bhavaṃti*)—have become
+
+##### भावार्थ (Bhāvārtha)
+
+I see Agni, who moves of himself from one region to another like a herd of cattle and shines exceedingly. No one could see those flames of his that had grown before. That same Agni has been born again. Those same flames that had reached old age have become young again.
+
+##### English translation (H. H. Wilson)
+I have seen him passing secretly from place (to place) like a herd (of cattle), shining brightly of his own accord : they apprehended not those (flames of his), but he has (again) been born, and they which had become grey-haired are (once more; young.
+
+##### विशेषविषयगळु (Special Topics)
+
+सनुतः (*sanutaḥ*)—This word is read among hidden names such as निण्यं (*niṇyaṃ*) and स्वसः (*svasaḥ*) (Ni. 3-25). It is used in the sense of something secret, ordinarily not coming within the view of others. The word is used especially often in passages praying "drive off the wicked and keep out of sight".
+
+यूयं देवाः प्रमतिर्यायनोजोयूयं द्वेषांसि सनुतर्युयोत (*yūyaṃ devāḥ pramatiryāyanojoyūyaṃ dveṣāṃsi sanutaryuyota*) (Ṛ. Saṃ. 2-29-2)
+
+आरे द्वेषांसि सनुतर्दधामायाम प्रांचो यजमानमच्छ । (*āre dveṣāṃsi sanutardadhāmāyāma prāṃco yajamānamaccha |*) (Ṛ. Saṃ. 5-45-5)
+
+### Printed p. 751
+
+स्वैः ष एवैर्मुमुरत्पोप्यं रयिं सनुतर्धेहि तं ततः (*svaiḥ ṣa evairmumuratpopyaṃ rayiṃ sanutardhehi taṃ tataḥ*) (Ṛ. Saṃ. 8-97-3);
+विदानासो वसवो राध्यस्या राष्ट्चिद्वेषस्सनुतर्युयोत (*vidānāso vasavo rādhyasyā rāṣṭcidveṣassanutaryuyota*) (Ṛ. Saṃ. 10-77-6).
+
+It is a peculiarity that the word is used just in such prayers: "keep the hostile far away". Of these, however, only for the word सनुतः (*sanutaḥ*) in mantra 5-45-5 has Sāyaṇa given a different meaning. Showing it as a word ending in ṛ, सनुतृ (*sanutṛ*), he explains सनुतः द्वेषांसि (*sanutaḥ dveṣāṃsi*) as संभक्त्वान् शत्रून् (*saṃbhaktvān śatrūn*), that is, enemies who desire to share in our wealth. There too, it would not be wrong if he had given the same meaning that he gives elsewhere for सनुतः (*sanutaḥ*) as an indeclinable; but saying संभक्त्वान् (*saṃbhaktvān*) is not inappropriate either.
+
+In the present mantra the hidden movement of Agni is described. The purport is: one who moves in a way that is visible to no one.
+
+सुमत् (*sumat*)—The word सुमत् (*sumat*) means "of oneself" (Ni. 6-22). It is used in the sense of carrying out something oneself, without the prompting of others. The author of the Nirukta explains the sense of this word by citing the mantra उप प्रागात्सुमन्मेधायि (*upa prāgātsumanmedhāyi*) (Ṛ. Saṃ. 1-162-7). In उप प्रागात्सुमत् (*upa prāgātsumat*) the prayer is: may the object I desire come and join me of its own accord. That this word is also used in the senses of auspicious, beautiful and the like has been stated earlier.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> के मे॑ मर्य॒कं वि य॑वंत॒ गोभि॒र्न येषां॑ गो॒पा  ॒॑॑
+> अर॑णश्चि॒दास॑ ।  
+> य ईं॑ जगृ॒भुरव॒ ते सृ॑जं॒त्वाजा॑ति प॒श्व उप॑ नश्चि कि॒त्वान् ॥ ५ ॥
+
+> *ke me maryakaṃ vi yavaṃta gobhirna yeṣāṃ gopā*  
+> *araṇaścidāsa |*  
+> *ya īṃ jagṛbhurava te sṛjaṃtvājāti paśva upa naści kitvān ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> के । मे । मर्यकं । वि । यवंत । गोभिः । न । येषां ! गोपाः । अरणः । चित् ।  
+> आस ।  
+> ये । ईं । जगृभुः । अव । ते । सृजंतु । आ । अजाति । पश्वः । उप । नः । चिकित्वान् ॥
+
+> *ke | me | maryakaṃ | vi | yavaṃta | gobhiḥ | na | yeṣāṃ ! gopāḥ | araṇaḥ | cit |*  
+> *āsa |*  
+> *ye | īṃ | jagṛbhuḥ | ava | te | sṛjaṃtu | ā | ajāti | paśvaḥ | upa | naḥ | cikitvān ‖*
+
+### Printed p. 752
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> के मे मदीयं मर्यकं मर्त्यसंघं राष्ट्रं गोभिः सह वि यवंत ।
+> वियुक्तमकुर्वन् । गा भृत्यांश्च व्ययोजयन् । येषां गोपा अस्माकं
+> गोपयितारणश्चिदभिगंता नास । बभूव । सोऽयमग्निः । ये द्वेषिण ईमेनं
+> जनसंघं राष्ट्रं जगृभुः ! गृह्णंति । तेऽव सृजंतु । नश्यंतु । किंच चिकित्वान्
+> चेतनावानस्मद्विषयज्ञानवानग्निर्नोऽस्माकं पश्वः पशूनुपाजाति । उपागच्छति ॥
+
+##### Gist of the bhāṣya
+
+"Who have separated my मर्यकं (*maryakaṃ*), my host of mortals, my realm, from the cows?" They made it separated; they parted the cows and the servants. Those whose protector, our guardian, an approacher, was not there, namely this Agni. Those enemies who seize this host of people, this realm, let them perish (अव सृजंतु (*ava sṛjaṃtu*) = नश्यंतु (*naśyaṃtu*)). Moreover, Agni, चिकित्वान् (*cikitvān*), the possessor of awareness, who knows our situation, comes to our cattle (पश्वः (*paśvaḥ*) = *paśūn*), approaches them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषां (*yeṣāṃ*)—of whom: my servants and cattle
+- गोपाः (*gopāḥ*)—protector
+- अरणश्चित् (*araṇaścit*)—as one who confronts (the enemies)
+- न आस (*na āsa*)—was not there; such
+- मे (*me*)—belonging to me
+- मर्यकं (*maryakaṃ*)—people (in the form of servants)
+- गोभिः (*gobhiḥ*)—from the cows
+- के (*ke*)—who
+- वि यवंत (*vi yavaṃta*)—have separated
+- ये (*ye*)—which enemies
+- ईं (*īṃ*)—this host of servants
+- जगृभुः (*jagṛbhuḥ*)—have seized
+- ते (*te*)—they
+- अव सृजंतु (*ava sṛjaṃtu*)—let them meet destruction
+- चिकित्वान् (*cikitvān*)—Agni, who knows our distress
+- नः (*naḥ*)—our
+- पश्वः (*paśvaḥ*)—cattle (to protect)
+- उप आजाति (*upa ājāti*)—let him come near
+
+##### भावार्थ (Bhāvārtha)
+
+When Agni, the protector of my servants and cattle and the one who confronts enemies, was not near, who bound my people and separated them from the cows? May the enemies who have bound this host of my servants perish. May Agni, who knows our troubles, come near us to protect our cattle.
+
+##### English translation (H. H. Wilson)
+Who have disunited my people from cattle? Was there not for them an invincible protector ? May they who have seized upon that (people) perish, for he who knows (our wishes) approaches to (protect) the cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+अरण (*araṇa*)—The word अरण (*araṇa*) is formed from the root रण् (*raṇ*) and indicates its negation. The word रण (*raṇa*) is used in the sense of joy and also in the sense of battle.
+
+कृते चिदत्र मरुतो रणंतानवद्यासः शुचयः पावकाः । (*kṛte cidatra maruto raṇaṃtānavadyāsaḥ śucayaḥ pāvakāḥ |*) (Ṛ. Saṃ. 7-57-5)
+
+In mantras of this kind it is a word indicating a sound of joy. In many places it is a synonym of battle. Therefore the word अरण (*araṇa*) indicates the absence of joy. The author of the Nirukta
+
+### Printed p. 753
+
+cites the mantra
+नहि ग्रभायारणः सुशेवोऽन्योदर्यो मनसा मंतवा उ । (*nahi grabhāyāraṇaḥ suśevo 'nyodaryo manasā maṃtavā u |*) (Ṛ. Saṃ. 7-4-8)
+(Ni. 3-2) and states only the context of the use of this word. In the mantra cited by Sāyaṇa, the word means अरममाणः (*aramamāṇaḥ*), one who neither rejoices himself nor gladdens others. The sense is that another's son does not become a source of joy. Or, because it gives this very sense, it can also mean an enemy. The word is used in this sense too. For example:
+
+इम इंद्र भरतस्य पुत्रा अपपित्वं चिकितुर्न प्रपित्वं । हिन्वंत्यश्वमरणं न नित्यं ज्यावाजं परि णयंत्याज् ॥ (*ima iṃdra bharatasya putrā apapitvaṃ cikiturna prapitvaṃ | hinvaṃtyaśvamaraṇaṃ na nityaṃ jyāvājaṃ pari ṇayaṃtyāj ‖*) (Ṛ. Saṃ. 3-53-24)
+
+O Indra, these sons of Bharata desire separation from the Vasiṣṭhas, not unity. In this mantra, whose purport is that they are always ready to fight them like perpetual enemies, the word अरण (*araṇa*) means an enemy. Because he is not a source of joy, there are also contexts in which it is a synonym for a non-giver:
+
+वेशं वा नित्यं वरुणारणं वा यत्सीमागश्च कृमा शिश्रथस्तत् । (*veśaṃ vā nityaṃ varuṇāraṇaṃ vā yatsīmāgaśca kṛmā śiśrathastat |*) (Ṛ. Saṃ. 5-85-7)
+
+Here, for the word अरण (*araṇa*), one meaning, "soundless", and another, "non-giver", are stated as alternatives. Thus, although meanings are given according to context, the root remains the root रण् (*raṇ*), which means joy. The absence of joy is the purport of the word अरण (*araṇa*). In the present Ṛk, the meaning अभिगंता (*abhigaṃtā*) may be taken to imply one who confronts and strikes enemies.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒सां राजा॑नं वस॒तिं जना॑ना॒मरा॑तयो॒ नि द॑धु॒र्मत्ये॑षु ।  
+> ब्रह्मा॒ण्यत्रे॒रव॒ तं सृ॑जंतु निंदि॒तारो॒ निंद्या॑सो भवंतु ॥
+
+> *vasāṃ rājānaṃ vasatiṃ janānāmarātayo ni dadhurmatyeṣu |*  
+> *brahmāṇyatrerava taṃ sṛjaṃtu niṃditāro niṃdyāso bhavaṃtu ‖*  
+> 48
+
+### Printed p. 754
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वसां । राजानं । वसतिं । जनानां । अरातयः । नि । दधुः । मर्त्येषु ।  
+> ब्रह्माणि । अत्रेः । अव । तं । सृजंतु । निंदितारः । निंद्यासः । भवंतु ॥ ६ ॥
+
+> *vasāṃ | rājānaṃ | vasatiṃ | janānāṃ | arātayaḥ | ni | dadhuḥ | martyeṣu |*  
+> *brahmāṇi | atreḥ | ava | taṃ | sṛjaṃtu | niṃditāraḥ | niṃdyāsaḥ | bhavaṃtu ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसां वसतां प्राणिनां राजानं स्वामिनं जनानां प्राणिनां वसतिमावासभूतं त्र्यरुणमुक्तलक्षणमग्निं वारातयो नि दॆधुः । अगोपयन् । मर्त्येषु
+> लोकेषु मध्यॆ । अत्रेरत्रिगोत्रस्य वृशस्य ब्रह्माणि मंत्राः स्तोत्राणि वा तं
+> कुमारमग्निं वाव सृजंतु । अथवात्रेरत्रिगोत्रस्य कुमारं ब्रह्माणि । यद्वा! वृशस्य
+> ब्रह्माण्यत्रेरत्रिगोत्रं ॥ कर्मणि षष्ठी ॥ तं कुमारमव सृजंतु । विसृजंतु ।
+> निंदितारोऽस्मन्निंदका निंद्यासोऽस्माभिरिंद्या भवंतु । अत्रेर्ब्रह्माणीत्येतदुपजीव्य वृशमप्यात्रेयं वदंति । आत्रेयः कुमार इति पक्षे स एव प्राणमयमात्मानमवसृजंत्यित्याशास्त्रे ॥
+
+##### Gist of the bhāṣya
+
+वसां (*vasāṃ*) means of the dwelling beings; "king" is the lord; वसतिं (*vasatiṃ*) is the abode of the people, living beings. This is Agni, of the characteristic described as त्र्यरुण (*tryaruṇa*), or else the enemies नि दधुः (*ni dadhuḥ*), hid him. मर्त्येषु (*martyeṣu*) means among the worlds. अत्रेः (*atreḥ*): the ब्रह्माणि (*brahmāṇi*), the mantras or hymns, of Vṛśa of the Atri lineage, let them set that Kumāra, Agni, free (अव सृजंतु (*ava sṛjaṃtu*)). Or else the prayers are of the Kumāra of the Atri lineage. Or else the prayers of Vṛśa regard the Atri lineage as the object, with the genitive in the sense of the accusative (कर्मणि षष्ठी (*karmaṇi ṣaṣṭhī*)): let them release that Kumāra. निंदितारः (*niṃditāraḥ*) are those who revile us; let them become निंद्यासः (*niṃdyāsaḥ*), reviled by us. Relying on *atrerbrahmāṇi*, they call Vṛśa also Ātreya. On the view that the Kumāra is Ātreya, they release his own vital self (*prāṇamayamātmānaṃ*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसां (*vasāṃ*)—for living beings
+- राजानं (*rājānaṃ*)—the lord
+- जनानां (*janānāṃ*)—for all humans
+- वसतिं (*vasatiṃ*)—the abode; (such) Agni
+- अरातयः (*arātayaḥ*)—the enemies
+- मर्त्येषु (*martyeṣu*)—among the worlds of mortals
+- न दधुः (*na dadhuḥ*)—hid away
+- अत्रेः (*atreḥ*)—of Vṛśa, a descendant of the great seer Atri
+- ब्रह्माणि (*brahmāṇi*)—hymns
+- तं (*taṃ*)—that Agni
+- अव सृजंतु (*ava sṛjaṃtu*)—let them make him come out from hiding
+- निंदितारः (*niṃditāraḥ*)—the enemies who revile us
+- निंद्यासः (*niṃdyāsaḥ*)—being subject to our censure
+- भवंतु (*bhavaṃtu*)—let them be
+
+##### भावार्थ (Bhāvārtha)
+
+The enemies hid Agni, lord of all living beings and abode of all humans, among the worlds of mortals. May the hymns of Vṛśa, a descendant of the great seer Atri, make the hidden Agni come out. May the enemies who revile us become subject to our censure.
+
+##### English translation (H. H. Wilson)
+Enemies have secreted amongst mortals, the king of living beings, the asylum of men : may the prayers of Atri set him free; may those who revile be reviled.
+
 ---
 
-**Progress note:** Done through printed p. 748. pp. 743-748 (batch API)
+**Progress note:** Done through printed p. 754. pp. 749-754 (batch API)
