@@ -31367,6 +31367,298 @@ Indra, who has drunk the Soma of the ṛjīṣa kind and is the lord, obtained i
 ##### English translation (H. H. Wilson)
 Indra, the accepter of the stale Soma, sustains infinite greatness, and has filled both heaven and earth by his magnitude : therefore has the vast-nes of him who has surpassed all the regions, exceeded (the world).
 
+### Printed p. 936
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑नि श॒क्रो नर्या॑णि वि॒द्वान॒पो रि॑रेच॒ सखि॑भि॒र्निका॑मैः ।  
+> अश्मा॑नं चि॒द्ये बि॑भि॒दुर्वचो॑भिर्वृ॒जं गोमं॑तमु॒शिजो॒ वि  ॑
+> ववुः ॥ ६ ॥
+
+> *viśvāni śakro naryāṇi vidvānapo rireca sakhibhirnikāmaiḥ |*  
+> *aśmānaṃ cidye bibhidurvacobhirvṛjaṃ gomaṃtamuśijo vi*  
+> *vavuḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वानि । शक्रः । नर्याणि । विद्वान् । अपः । रिरेच । सखिभिः । निकामैः ।  
+> अश्मानं । चित् । ये । बिभिदुः । वचःभिः । व्रजं । गोमंतं । उशिजः । वि ।  
+> ववुरिति ववुः ॥ ६ ॥
+
+> *viśvāni | śakraḥ | naryāṇi | vidvān | apaḥ | rireca | sakhibhiḥ | nikāmaiḥ |*  
+> *aśmānaṃ | cit | ye | bibhiduḥ | vacaḥbhiḥ | vrajaṃ | gomaṃtaṃ | uśijaḥ | vi |*  
+> *vavuriti vavuḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वानि समस्तानि नर्याणि मनुष्याणां हितानि वृष्टादीनि कार्याणि विद्वान्
+> जानन् शक्रः समर्थ इंद्रो निकामैर्निकामयमानेभ्यः सखिभिर्मित्रभूतेभ्यो
+> मरुद्भ्यः ॥ व्यत्ययेन चतुर्थ्यर्थे तृतीया ॥ अपो वृष्टिलक्षणान्युदकानि रिरेच ।
+> रिक्तीचकार । इंद्रः सस्यादिफलसिद्ध्यर्थं मेघस्थान्युदकानि मरुद्भ्यो दत्तनानित्यर्थः । यद्वा । निकामैर्निकामयमानैः सखिभिर्मरुद्धिः सहितः सन् अपो नभसः
+> सकाशात् । आप इत्यंतरिक्षनामैतत् ॥ अत्र विभक्ति व्यत्ययः ॥ रिरेच । व्यतिरिक्तो
+> बभूव । ये मरुतो वचोभिर्वाग्रूपैर्ध्वनिभिरश्मानं चित् पर्वतमपि मेघं
+> ना । अश्मेति मेघनामैतत् । बिभिदुः । अभैत्तुः । उशिजः कामयमानास्ते मरुतो
+> गोमंतं गोभिरुपेतु व्रजमंगिरसां संबंधि गोस्थानं वि ववुः । आच्छादयामासुः ॥
+
+##### Gist of the bhāṣya
+
+Indra, who is शक्रः (*śakraḥ*) (capable) and knows all things beneficial to men, such as rain and the like (नर्याणि (*naryāṇi*) = "good for men"), रिरेच (*rireca*) ("emptied out", "released") the waters, i.e. the waters of rain, for the Maruts, who are his friends (सखिभिः (*sakhibhiḥ*)) and ardently desire them (निकामैः (*nikāmaiḥ*)). The instrumental is used by exchange of case for the dative. The sense is that Indra gave the waters stored in the cloud to the Maruts so that crops and the like might ripen.
+Or else: accompanied by the Maruts, his friends who ardently desire, Indra released the waters from the sky (*āpaḥ* is a name of the atmosphere; a change of case is assumed here), and so became distinguished (व्यतिरिक्तो बभूव (*vyatirikto babhūva*)).
+The Maruts who split even the अश्मानं (*aśmānaṃ*) (mountain, i.e. the cloud; अश्म (*aśma*) is a name of the cloud) with their वचोभिः (*vacobhiḥ*) (voice-like sounds) are उशिजः (*uśijaḥ*), desirous; they covered (वि ववुः (*vi vavuḥ*)) the व्रजं (*vrajaṃ*), the cow-pen belonging to the Aṅgirases, which is full of cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वानि (*viśvāni*)—all
+- नर्याणि (*naryāṇi*)—acts beneficial to men, such as the sprinkling of rain
+- विद्वान् (*vidvān*)—the knowing
+- शक्रः (*śakraḥ*)—and capable Indra
+- निकामैः (*nikāmaiḥ*)—to those of loving mind
+- सखिभिः (*sakhibhiḥ*)—and friendly Maruts
+- अपः (*apaḥ*)—the waters in the form of rain
+- रिरेच (*rireca*)—he offered
+- ये (*ye*)—which Maruts
+- वचोभिः (*vacobhiḥ*)—with sounds in the form of speech
+- अश्मानं चित् (*aśmānaṃ cit*)—the clouds that are like mountains
+- बिभिदुः (*bibhiduḥ*)—split
+- उशिजः (*uśijaḥ*)—the Maruts who wished to fulfil their duty
+- गोमंतं (*gomaṃtaṃ*)—filled with cows
+- व्रजं (*vrajaṃ*)—the cow-pen
+- वि वव्रुः (*vi vavruḥ*)—caused to open
+
+### Printed p. 937
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who knows all the acts beneficial to men, such as the sprinkling of rain, and is the lord, offered the waters in the form of rain to the Maruts, who are of loving mind and are his friends. The same Maruts split even the clouds that are like mountains with their sounds in the form of speech. The Maruts, wishing to fulfil their duty, caused the cow-pen filled with cows to open for the Aṅgirases.
+
+##### English translation (H. H. Wilson)
+Knowing all things profitable for men, Sakra has, with his willing friends (the Maruts), sent forth the waters, for they, with (loud) shouts, divided the clouds, and, desiring (to fulfil) their office, set open the pasturage of the cows (of the Angirasas).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पो वृ॒त्रं व॑व्रि॒वांसं॒ परा॑ह॒न्प्राव॑त्ते॒ वज्रं॑ पृथि॒वी  ॑
+> सचेताः ।  
+> प्रार्णां॑सि समु॒द्रिया॑ण्यैनोः॒ पति॒र्भव॒ञ्भव॑सा शूरधृष्णो ॥
+
+> *apo vṛtraṃ vavrivāṃsaṃ parāhanprāvatte vajraṃ pṛthivī*  
+> *sacetāḥ |*  
+> *prārṇāṃsi samudriyāṇyainoḥ patirbhavañbhavasā śūradhṛṣṇo ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपः । वृत्रं । वव्रिवांसं । परा । अहन् । प्र । आवत् । ते । वज्रं । पृथिवी ।  
+> सचेताः ।  
+> प्र । अर्णांसि । समुद्रियाणि । ऐनोः । पतिः । भवन् । शवसा । शूर । धृष्णो इति ॥
+
+> *apaḥ | vṛtraṃ | vavrivāṃsaṃ | parā | ahan | pra | āvat | te | vajraṃ | pṛthivī |*  
+> *sacetāḥ |*  
+> *pra | arṇāṃsi | samudriyāṇi | ainoḥ | patiḥ | bhavan | śavasā | śūra | dhṛṣṇo iti ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्रावत् राक्षसादिभ्यः प्रकर्षेण लोकान् पालयितृ ते त्वदीयं
+> वज्रमपो वृष्टिलक्षणान्युदकानि वव्रिवांसमावरकं वृत्रं मेघं पराहन् । प्रकर्षेण प्रेरयति स्म ! पृथिवी भूमिः सचेताश्चेतनावती । त्वया संगता बभूव ।
+
+##### Gist of the bhāṣya
+
+O Indra, you who protect the worlds from Rākṣasas and the like (प्रावत् (*prāvat*)), your thunderbolt struck down (पराहन् (*parāhan*): it drove away vigorously) Vṛtra, the cloud that covers (वव्रिवांसं (*vavrivāṃsaṃ*)) the waters in the form of rain. The earth, सचेताः (*sacetāḥ*) (endowed with consciousness), became united with you.
+
+### Printed p. 938
+
+> धृष्णो धर्षणशील हे शूर विक्रांतेंद्र त्वं शवसा बलेन पतिर्भवन् लोकानां
+> पालकः सन् समुद्रियाणि समुद्रसंबंधीन्यर्णांसि नभसि स्थितान्त्युदकानि प्रैणोः ।
+> प्रेरकोऽभूः ॥
+
+##### Gist of the bhāṣya
+
+O bold (धृष्णो (*dhṛṣṇo*), ever ready to overcome) and heroic Indra, being by your might (शवसा (*śavasā*)) the lord and protector of the worlds, you impelled (प्रैणोः (*praiṇoḥ*), you became the impeller of) the ocean-related waters (समुद्रियाणि (*samudriyāṇi*)), the waters that stand in the sky.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रावत् (*prāvat*)—O Indra, protector from the harm of Rākṣasas and the like
+- ते (*te*)—your
+- वज्रं (*vajraṃ*)—the thunderbolt
+- अपः (*apaḥ*)—the waters of rain
+- वन्रिवांसं (*vanrivāṃsaṃ*)—that hides
+- वृत्रं (*vṛtraṃ*)—the cloud
+- पराहन् (*parāhan*)—splits (thereafter)
+- पृथिवी (*pṛthivī*)—the earth
+- सचेताः (*sacetāḥ*)—endowed with consciousness (joins you)
+- धृष्टो (*dhṛṣṭo*)—O Indra, destroyer of enemies
+- शूर (*śūra*)—and valiant
+- शवसा (*śavasā*)—with your strength
+- पतिः (*patiḥ*)—as protector of the world
+- भवन् (*bhavan*)—being
+- समुद्रियाणि (*samudriyāṇi*)—those connected with the sky
+- अर्णांसि (*arṇāṃsi*)—the waters
+- प्र एनोः (*pra enoḥ*)—impel (them) to pour down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who protect from the harm of Rākṣasas and the like, your thunderbolt splits the cloud that hides the waters of rain. Thereafter the earth, endowed with life, joins you. O Indra, destroyer of enemies and valiant, united with your strength and being the protector of the world, cause the waters belonging to the sky to pour down.
+
+##### English translation (H. H. Wilson)
+Your protecting thunderbolt has slain Vritra, obstructing the (issue of the waters), the conscious earth (co-operating) with (you): valiant hero, preserver (of the regions), send down by your strength the waters of the firmament.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पो यदद्रिं॑ पुरुहूत॒ दर्द॑रा॒विर्भु॑वत्स॒रमा॑ पू॒र्व्य० ते॑।  
+> स नो॑ ने॒ता वाज॒मा द॑र्षि॒ भूरिं॑ गो॒त्रा रु॒जन्नंगि॑रोभिगृणा॒नः ॥ ८ ॥
+
+> *apo yadadriṃ puruhūta dardarāvirbhuvatsaramā pūrvya0 te|*  
+> *sa no netā vājamā darṣi bhūriṃ gotrā rujannaṃgirobhigṛṇānaḥ ‖ 8 ‖*
+
+### Printed p. 939
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपः । यत् । अद्रिं । पुरुहूत । दर्दः । आविः । भुवत् । सरमा । पूर्व्यं । ते ।  
+> सः । नः । नेता । वाजं । आ । दर्षि । भूरिं । गोत्रा । रुजन् । अंगिरःभिः । गृणानः॥
+
+> *apaḥ | yat | adriṃ | puruhūta | dardaḥ | āviḥ | bhuvat | saramā | pūrvyaṃ | te |*  
+> *saḥ | naḥ | netā | vājaṃ | ā | darṣi | bhūriṃ | gotrā | rujan | aṃgiraḥbhiḥ | gṛṇānaḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूतेंद्र यद्यदापः प्रति वृष्टिलक्षणान्युदकानि लक्ष्मीकृत्याद्रिं मेघं दर्दः । विदारितवानसि । सरमा देवशुनी पूर्व्यं पुरा ते तुभ्यं
+> पणिभिरपहृतं गोधनमाविर्भुवत् । प्रकाशयामास । अंगिरोभिर्यषिभिर्गृणानः
+> स्तूयमानः सन् गोत्रा गोत्राण्यभ्राणि रुजन् नोऽस्मान् भूरिं प्रभूतं वाजमन्नं नेता प्रापयिता स त्वमा दर्षि । आदरं कृतवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many (पुरुहूत (*puruhūta*)): when, aiming at the waters in the form of rain, you split the cloud (अद्रिं (*adriṃ*)), Sarama, the divine bitch, in former times (पूर्व्यं (*pūrvyaṃ*)) revealed to you (आविर्भुवत् (*āvirbhuvat*): made manifest) the wealth of cattle carried off by the Paṇis. Being praised by the Aṅgirasa sages, breaking the गोत्रा (*gotrā*) (clouds), you, the leader who brings us abundant food (वाजं (*vājaṃ*)), have shown regard (आ दर्षि (*ā darṣi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, who are invoked by many
+- यत् (*yat*)—when
+- अपः (*apaḥ*)—for the sprinkling of the waters of rain
+- अद्रिं (*adriṃ*)—the cloud
+- दर्दः (*dardaḥ*)—you split (then)
+- सरमा (*saramā*)—Sarama
+- पूर्व्यं (*pūrvyaṃ*)—standing before you
+- ते (*te*)—to you
+- आविर्भुवत् (*āvirbhuvat*)—revealed the cows
+- अंगिरोभिः (*aṃgirobhiḥ*)—by the Aṅgirasa sages
+- गृणानः (*gṛṇānaḥ*)—being praised
+- गोत्रा (*gotrā*)—the clouds
+- रुजन् (*rujan*)—splitting
+- नः (*naḥ*)—us
+- भूरि (*bhūri*)—abundant
+- वाजं (*vājaṃ*)—towards food
+- नेता (*netā*)—who bring
+- सः (*saḥ*)—you
+- आ दर्षि (*ā darṣi*)—have shown regard to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, invoked by many: when you split the cloud so that the waters of rain might be sprinkled, Sarama (the divine bitch) stood before you and revealed the cows to you. Praised by the Aṅgirasa sages, splitting the clouds, and bringing us to abundant food, you have shown us great regard.
+
+##### English translation (H. H. Wilson)
+Invoked of many, when you had divided the cloud for (the escape of) the waters, Sarama appeared before you; and you, the bringer of abundant food, havs shewn us favour, divlding the clouds and glorified by the Angirasas.
+
+### Printed p. 940
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ क॒विं नृ॑मणो गा अ॒भिष्टौ॒ स्व॑र्षाता मघव॒न्नाध॑मानं।  
+> ऊ॒तिभि॒स्तमि॑षणो द्यु॒म्नहू॑तौ॒ नि मा॒यावा॒नब्र॑ह्मा॒ दस्यु॑रर्त ॥ ९ ॥
+
+> *acchā kaviṃ nṛmaṇo gā abhiṣṭau svarṣātā maghavannādhamānaṃ|*  
+> *ūtibhistamiṣaṇo dyumnahūtau ni māyāvānabrahmā dasyurarta ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । कविं । नृमनः । गाः । अभिष्टौ । स्वसाता । मघवन् । नाधमानं ।  
+> ऊतिभिः । तं । इषणः । द्युम्नहूत् । नि । मायावान् । अब्रह्मा । दस्युः । अर्त॥
+
+> *accha | kaviṃ | nṛmanaḥ | gāḥ | abhiṣṭau | svasātā | maghavan | nādhamānaṃ |*  
+> *ūtibhiḥ | taṃ | iṣaṇaḥ | dyumnahūt | ni | māyāvān | abrahmā | dasyuḥ | arta‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्थनवन्निंद्र नृमणः । नृभिर्मनुष्यॆर्मनृत इति नृमणः । त्वं
+> कविं मेधाविनं कुत्समच्छ गाः । अभ्यगाः । किंच स्वर्षाता । स्वर्धनं । तस्य सातौ
+> दाने निमित्तेऽभिष्टौ कवेरभिगमे सति नाधमानं युद्धार्थं त्वां याचमानं
+> कुत्समूतिभिः शत्रुकृतोपद्रवपरिहाररूपै रक्षणैरिषणः । प्रेरितवानसि । मायावान् कपटवानब्रह्मा । ऋत्विग्निः क्रियमाणं सर्वं कर्मजातमनुज्ञारूपेण
+> जानन् ऋत्विग्विशेषो ब्रह्मशब्देनोच्यते । स न विद्यते यस्य सोऽब्रह्मा । वेदोक्तकर्मस्वास्ति क्यरहित इत्यर्थः । दस्युः कुत्सस्य शत्रुर्दुम्नहूतौ द्युम्नं धनं हूतिराह्वानं यस्यां युधि तस्यां न्यर्त । विनष्टो बभूव । इंद्रः कुत्सेनाहूतः सन्
+> तस्य शत्रुं हतवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O wealthy Indra, नृमणः (*nṛmaṇaḥ*) (one thought of, i.e. honoured, by men), you went towards (*accha gāḥ*: अभ्यगाः (*abhyagāḥ*)) the wise (कविं (*kaviṃ*)) Kutsa. Moreover, on the approach of the sage (अभिष्टौ (*abhiṣṭau*)) for the sake of the gift (सातौ (*sātau*)) of heavenly wealth (स्वर्षाता (*svarṣātā*) = स्वर्धनं (*svardhanaṃ*)), you impelled (इषणः (*iṣaṇaḥ*)) Kutsa, who was begging (नाधमानं (*nādhamānaṃ*)) you for the battle, by your ऊतिभिः (*ūtibhiḥ*), protections that ward off the troubles caused by enemies. The Dasyu, Kutsa's enemy, who was मायावान् (*māyāvān*) (deceitful) and अब्रह्मा (*abrahmā*), was destroyed (न्यर्त (*nyarta*)) in the द्युम्नहूतौ (*dyumnahūtau*), the battle in which द्युम्नं (*dyumnaṃ*) (wealth) is the *hūtiḥ* (call). The word ब्रह्म (*brahma*) denotes a special ṛtvij who knows by way of sanction all the rites that are being performed; he who has none is अब्रह्मा (*abrahmā*), that is, one devoid of क्य (*kya*) in the rites enjoined by the Veda. **NOTE** The sense: Indra, called by Kutsa, killed his enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- नृमणः (*nṛmaṇaḥ*)—you, worshipped by men
+- कविं (*kaviṃ*)—of the wise Kutsa
+- अच्छ (*accha*)—towards
+- गाः (*gāḥ*)—you went (for his protection)
+- स्वर्षाता (*svarṣātā*)—to give him wealth
+- अभिष्टौ (*abhiṣṭau*)—when you went to him
+- तं नाधमानं (*taṃ nādhamānaṃ*)—Kutsa, who was begging and calling you (for help in battle)
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- इषणः (*iṣaṇaḥ*)—you urged and impelled
+- मायावान् (*māyāvān*)—the deceitful
+- अब्रह्मा (*abrahmā*)—and devoid of Vedic rites
+- दस्युः (*dasyuḥ*)—enemy (of Kutsa)
+- द्युम्नहूतौ (*dyumnahūtau*)—in the battle that arose for wealth
+- नि अर्त (*ni arta*)—was destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, you, worshipped by men, went towards the wise Kutsa for his protection. When you went to give him wealth, you urged and impelled with protections Kutsa, who had begged and called you to help in battle.
+
+### Printed p. 941
+
+The enemy, deceitful and devoid of Vedic rites, was slain by you while he was fighting with Kutsa for wealth.
+
+##### English translation (H. H. Wilson)
+Maghavan, you are honoured by men ; you have repaired to the presence of the sage for (the sake of) bestowing (upon him) wealth, and when soliciting (you) in his need (for aid): defending (him) with your protection, the guileful, impious Dasyu has been destroyed in the contest for the spoil.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ द॑स्यु॒घ्ना मन॑सा या॒ह्यस्तं॒ भुव॑त्ते॒ कुत्सः॑ स॒ख्ये निका॑मः ।  
+> स्वे योन्‌नौ॒ नि ष॑दतं॒ सरू॑पा॒ वि वां॑ चिकित्ससदृत॒चिद्द॒ नारी॑ ॥
+
+> *ā dasyughnā manasā yāhyastaṃ bhuvatte kutsaḥ sakhye nikāmaḥ |*  
+> *sve yonnau ni ṣadataṃ sarūpā vi vāṃ cikitsasadṛtacidda nārī ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । दस्युघ्ना । मनसा । याहि । अस्तं । भुवत् । ते । कुत्सः । सख्ये । निकामः ।  
+> स्वे । योन्सौ । नि । सदतं । सरूपा । वि । वां । चिकित्सत् । ऋत्यचित् । ह । नारी ॥
+
+> *ā | dasyughnā | manasā | yāhi | astaṃ | bhuvat | te | kutsaḥ | sakhye | nikāmaḥ |*  
+> *sve | yonsau | ni | sadataṃ | sarūpā | vi | vāṃ | cikitsat | ṛtyacit | ha | nārī ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र काचिदाख्यायिका श्रूयते । कथं । रुरुनामकः कश्चिद्राजर्षिः । तस्य
+> पुत्रः कुत्साख्यो राजर्षिरासीत् । स च कदाचिच्छतुभिः सह युयुत्तुः संग्रामे
+> स्वयमशक्तः सन् शत्रूणां हननार्थमिंद्रस्याह्वानं चकार । स चेंद्रः कुत्सस्य
+> गृहमागत्य तस्य शत्रून् जघान । तदनंतरमतिप्रीत्या तयोः सख्यमभवत् । सख्यानंतरमिंद्र एनमपि स्वकीयं गृहं प्रापयामास । तत्र शचींद्रं प्राप्तमागता
+> सती तौ समानरूपौ दृष्ट्वायमिंद्रोऽयं कुत्स इति विवेकाभावेन संशयं
+> चकारेति । अनयाख्यायिकया प्रतीयमानोऽर्थोऽत्र प्रतिपाद्यते । हे इंद्र
+> दस्युघ्ना दस्यूनां शत्रूणां हंत्रा मनसा युक्तस्वमस्तं कुत्सस्य गृहं । अस्तमिति
+> गृहनामैतत् । आ याहि । आगाः ॥ लुजर्थे लोट् ॥ कुत्सश्च ते तव संबंधिनि सख्ये
+> निकामो नितरां कामयमानो भुवत् । अभवत् । ततस्तौ युवां स्वे योन्
+
+##### Gist of the bhāṣya
+
+Here a certain story is heard. There was a royal sage named Ruru; his son was the royal sage called Kutsa. Once, wishing to fight enemies in battle and being unable himself, Kutsa called Indra to slay them. Indra came to Kutsa's house and killed his enemies. After that, from great affection, friendship arose between them. After the friendship Indra took Kutsa too to his own house. There Śacī, coming when Indra had arrived, saw the two of the same form and, unable to distinguish "this is Indra, this is Kutsa", fell into doubt. The meaning understood from this story is set forth here: O Indra, come with a mind that slays the Dasyus (enemies) to Kutsa's house (अस्तं (*astaṃ*) is a name for house); आ याहि (*ā yāhi*) stands for आगाः (*āgāḥ*), the Loṭ being used in the sense of Luṅ. And Kutsa became निकामः (*nikāmaḥ*), intensely desirous, of friendship with you (भुवत् (*bhuvat*) = अभवत् (*abhavat*)). Then the two of you … in your own योन् (*yon*) … (the window ends here, mid-sentence).
+
 ---
 
-**Progress note:** Done through printed p. 935. pp. 930-935 (batch API)
+**Progress note:** Done through printed p. 941. pp. 936-941 (batch API)
