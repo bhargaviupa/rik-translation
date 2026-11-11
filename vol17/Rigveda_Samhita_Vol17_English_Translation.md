@@ -21294,6 +21294,274 @@ May I glorify the present radiant Agni, the invoker (of thc gods), the supporter
 
 In this Ṛk the sacrificer who performs the sacrifice is poor, and so has no power to offer milk, oblation or soma juice. Agni is therefore prayed to be satisfied with praises alone, accompanied by devotion and faith, which the sacrificer has offered.
 
+### Printed p. 700
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑षा॒मदि॑तिर्य॒ज्जिया॑नां॒ विश्वे॑षा॒मति॑थि॒र्मानु॑षाणां ।  
+> अ॒ग्निर्दे॒वाना॒मन॑ आवृणा॒नः सु॑मृळी॒को भ॑वतु जा॒तवे॑दाः॥
+
+> *viśveṣāmaditiryajjiyānāṃ viśveṣāmatithirmānuṣāṇāṃ |*  
+> *agnirdevānāmana āvṛṇānaḥ sumṛḷīko bhavatu jātavedāḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वेषां । अदितिः । यज्ञियानां । विश्वेषां । अतिथिः । मानुषाणां ।  
+> अग्निः । देवानां । अवः । आवृणानः । सुमृळीकः । भवतु । जातवेदाः ॥ २० ॥
+
+> *viśveṣāṃ | aditiḥ | yajñiyānāṃ | viśveṣāṃ | atithiḥ | mānuṣāṇāṃ |*  
+> *agniḥ | devānāṃ | avaḥ | āvṛṇānaḥ | sumṛḷīkaḥ | bhavatu | jātavedāḥ ‖ 20 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्विश्वेषां सर्वॆषां यज्ञियानां यज्ञाहर्णाणां देवानामदितिः
+> अदितिर्देवमाता । तद्वद्देवानां पोषक इत्यर्थः । यद्वा । विश्वेषां देवानामदितिर्भूस्थानीयः आधारभूत इति यावत् । अयं वा अग्निर्वैश्वानर इति श्रुतेः ।
+> तथायमग्निर्विश्वेषां मानुषाणामतिथिरतिथिवत्तूज्यो भवति । देवानां देवनशीलानां स्तोतृणामवोऽन्नं हनिरावृणानः संभजन् जातवेदाः । जातं सर्वं
+> वेत्तीति जातवेदाः । सोऽग्निस्तेषां स्तोतृणां सुमृळीकः सुखकरो भवतु ॥
+> अतिथिः । अत सातत्यगमने । ऋतन्यंजीत्यादिनेथिन्प्रत्ययः । नित्वादाद्युदात्तः ।
+> मानुषाणां । मनोरपत्यानीत्यर्थे मनोर्जातावञ्त्यौ षुक्चेत्यि प्रत्ययः ।
+> इत्त्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+This Agni is the अदितिः (*aditiḥ*) of all the gods who are worthy of sacrifice, who receive the sacrificial offerings. Aditi is the mother of the gods, so the meaning is that he nourishes the gods as she does. Alternatively, he is the Aditi of all the gods in the sense of the earth-like one, that is, their support. Sāyaṇa cites the Śruti अयं वा अग्निर्वैश्वानर इति (*ayaṃ vā agnirvaiśvānara iti*) for this. Likewise this Agni is the guest of all men and is to be honoured like a guest. He receives the food, that is, the oblation, of the gods, here the praisers (stotṛ), who are "of a shining nature". He is Jātavedas, because he knows everything that is born. May he be a bringer of comfort to those praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- विश्वेषां (*viśveṣāṃ*)—of all
+- यज्ञयानां (*yajñayānāṃ*)—of the gods worthy of sacrifice
+- अदितिः (*aditiḥ*)—he is the divine mother (the nourisher)
+- विश्वेषां (*viśveṣāṃ*)—of all
+- मानुषाणां (*mānuṣāṇāṃ*)—of men
+- अतिथिः (*atithiḥ*)—he is the guest
+- देवानां (*devānāṃ*)—of the praisers
+- अवः (*avaḥ*)—the food in the form of the oblation
+- अवृणानः (*avṛṇānaḥ*)—accepting and partaking
+- जातवेदाः (*jātavedāḥ*)—Agni, the all-knowing
+- सुमृळीकः (*sumṛḷīkaḥ*)—as the giver of comfort to them
+- भवतु (*bhavatu*)—may he be
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is the nourisher, like the divine mother, of all the gods who are worthy of sacrifice. He is the guest of all men. May the all-knowing Agni, accepting and partaking of the food in the form of the oblation offered by the praisers, be the giver of comfort to them.
+
+### Printed p. 701
+
+##### English translation (H. H. Wilson)
+May Agni be the Aditi of all those to whom sacrifice is offered ; may he be the guest of all men : receiving the (sacrificial) food of the devout' may he, to whom all is known, be the bestower of felicity.
+
+## Sūkta 2 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मर्त्येष्टिति विंशत्यृचं द्वितीयं सूक्तं वामदेवस्यार्षं त्रैष्टुभमाग्नेयं । यो मर्त्येष्टित्यनुक्रमणिका ॥ अस्य सूक्तस्य प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्त एव विनियोग उक्तः ॥
+> अनुवादवु—यो मर्त्येषु ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि ऎरडनॆय
+> सूक्तवु- इदरल्लि इप्पत्तु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; अग्नियु
+> देवतॆयु ; त्रिष्टुप् छंदस्सु. अनुक्रमणिकॆयल्लि—यो मर्त्येषु ऎंदु मॊदलागि हेळिरु
+> वुदु. प्रातरनुवाक मत्तु आश्विनशस्त्रमंत्रगळिगागि ई सूक्तद विनि योगविरुवुदॆंदु हिंदिन
+> सूक्तद विनियोगक्रव दल्लिये हेळलागिदॆ
+> ॥ ओं ॥
+> सूक्त-२
+> मंडल—४ ॥ अनुवाक—१ ॥ सूक्त—२ ॥
+> अष्टक—३ ॥ अध्याय—४ ॥ वर्ग—१६, १७, १८, १९ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—२० ॥
+> ऋषिः—वामदेवः ॥
+> देवता—अग्निः ॥
+> छंदः—त्रिष्टुप् ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, यो मर्त्येषु (*yo martyeṣu*), has twenty ṛcs. Its seer is Vāmadeva, its deity Agni, its metre Triṣṭubh. The Anukramaṇikā says: यो मर्त्येषु (*yo martyeṣu*). The use of this sūkta in the Prātaranuvāka and in the Āśvinaśastra has already been stated under the preceding sūkta. The block also gives the particulars: Maṇḍala 4, Anuvāka 1, Sūkta 2, Aṣṭaka 3, Adhyāya 4, Vargas 16, 17, 18, 19, twenty ṛcs, seer Vāmadeva, deity Agni, metre Triṣṭubh.
+
+### Printed p. 702
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो मर्त्ये॑ष्व॒मृत॑ ऋ॒तावा॑ दे॒वो दे॒वेष्व॑र॒तिर्नि॒धायि॑ ।  
+> होता॒ यजि॑ष्ठो म॒ह्ना शु॒चध्यै॑ ह॒वैर॒ग्निर्मनु॑ष ईर॒यध्यै॑ ॥ १ ॥
+
+> *yo martyeṣvamṛta ṛtāvā devo deveṣvaratirnidhāyi |*  
+> *hotā yajiṣṭho mahnā śucadhyai havairagnirmanuṣa īrayadhyai ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मर्त्येषु । अमृतः । ऋतवा । देवः । देवेषु । आरतिः । निधायि ।  
+> होता । यजिष्ठः । मह्ना । शुचध्यै । हव्यैः । अग्निः । मनुषः । ईरयध्यै ॥ १ ॥
+
+> *yaḥ | martyeṣu | amṛtaḥ | ṛtavā | devaḥ | deveṣu | āratiḥ | nidhāyi |*  
+> *hotā | yajiṣṭhaḥ | mahnā | śucadhyai | havyaiḥ | agniḥ | manuṣaḥ | īrayadhyai ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमृतो मरणधर्मरहितो योग्निर्मर्त्येषु मनुष्येष्टताना सत्यवान्निधायि निहितः । यद्वा । मर्त्येषु मनुष्यसंबंधिषु वागादींद्रियेषु निहितः ।
+> अग्निर्वाग्भूत्वा मुखं प्राविशदिति श्रुतेः । देवो देवनशीलो योग्निरिंद्रादिषु
+> देवेश्वरतिरभिगंता शत्रूणां । यद्वा । देवलोके गंता । निधायि निहितः । स च
+> होता देवानामाह्वाता यजिष्ठो यश्चतमोग्निर्मह्ना स्वकीयेन महता
+> तेजसा शुचध्यै दीपितुमुत्तरवेद्यां निहितः । किंच हव्यैर्हवनीय्यराज्यपुरोडाशादिभिर्हविर्भिर्हेतुभिर्मनुषो मनुष्यस्य यजमानस्यॆरयध्यै स्वर्ग० प्रति
+> प्रेरणाय निहितः ॥ अरतिः । ऋ गतौ । वहिवस्यर्तिभ्यश्चिदित्यतिप्रत्ययः । चित्वादंतोदात्तः । निधायि । दधातेः कर्मणि लुजु रूपं । परादिश्चंदसीत्युत्तरपदाद्युदात्तत्वं । शुचध्यै । शुच दीप्तौ । तुमर्थे कथ्यै प्रत्ययः । कित्वादगुणः ।
+> प्रत्ययस्वरः । ईरयध्यै । ईरयतेस्तुमर्थे कथ्यै प्रत्ययः । शित्वेन सार्वधातुकत्वाण्णिलोपाभावः ॥
+
+##### Gist of the bhāṣya
+
+Agni, who is immortal, free from the nature of dying, has been placed (निधायि (*nidhāyi*)) among mortals, men, as the one who is true and protects truth. Alternatively, he has been placed in the speech and other organs belonging to men, for the Śruti says अग्निर्वाग्भूत्वा मुखं प्राविशदिति (*agnirvāgbhūtvā mukhaṃ prāviśaditi*). He is divine, of a shining nature, and among gods such as Indra he is अरतिः (*aratiḥ*), the one who goes against enemies; alternatively, one who goes to the world of the gods. He is the Hotṛ, the caller of the gods, and the most worshipful (यजिष्ठः (*yajiṣṭhaḥ*)). By his own great radiance he is placed on the northern altar (uttaravedi) in order to shine. Moreover, by means of oblations (हव्यैः (*havyaiḥ*)), the offerings fit for the fire such as ghee and cakes, he is placed to impel the man, the sacrificer, towards heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृतः (*amṛtaḥ*)—deathless
+- यः (*yaḥ*)—which Agni
+- मर्त्येषु (*martyeṣu*)—among men
+- ऋताना (*ṛtānā*)—as protector of truth **NOTE**
+- निधायि (*nidhāyi*)—who has been placed, and
+- देवः (*devaḥ*)—which Agni, divine in nature
+- देवेषु (*deveṣu*)—among the gods, Indra and others
+- आरतिः (*āratiḥ*)—is established as destroyer of enemies
+- अग्निः (*agniḥ*)—that same Agni
+- होता (*hotā*)—as Hotṛ
+- यजिष्ठः (*yajiṣṭhaḥ*)—as most worshipful
+- मह्ना (*mahnā*)—with his own radiance
+
+### Printed p. 703
+
+- शुचध्यै (*śucadhyai*)—is established on the shining northern altar
+- हव्यैः (*havyaiḥ*)—with the help of the oblations
+- मनुषः (*manuṣaḥ*)—of the sacrificer, the man
+- ईरयध्यै (*īrayadhyai*)—is established also for his elevation
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who is deathless and divine in nature, who is established among men as protector of truth and among the gods, Indra and the others, as destroyer of enemies, that same Agni, in the form of the Hotṛ and as the most worshipful, is established on the shining northern altar together with his radiance. With the help of the oblations he is established also for the elevation of the man, the sacrificer.
+
+##### English translation (H. H. Wilson)
+He who has been placed immortal among the mortals, the observer of truth, a diety triumphant among gods, the invoker of the gods, the most diligent sacrificer, Agni : he has been placed (upon the altar) to lighten (the ceremony) by. his (lustre), and for the elevation of the worshipper, through oblations (in heaven).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह त्वं सू॑नो सहसो नो अ॒द्य जा॒तो जा॒ता उ॒भयां॑  ॒॑
+> अंतरग्ने ।  
+> दू॒त ई॑यसे युयुजा॒न ऋ॑ष्ट ऋजुमु॒ष्कान्वृष॑णः  
+> शु॒क्रांश्च॑ ॥ २ ॥
+
+> *iha tvaṃ sūno sahaso no adya jāto jātā ubhayāṃ*  
+> *aṃtaragne |*  
+> *dūta īyase yuyujāna ṛṣṭa ṛjumuṣkānvṛṣaṇaḥ*  
+> *śukrāṃśca ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ह । त्वं । सूनो इति । सहसः । नः । अद्य । जातः । जातान् । उभयान् । अंतः ।  
+> अग्ने ॥  
+> दूतः । ईयसे । युयुजानः । यष्ट । यजुमुष्कान् । वृषणः । शुक्रान् । च ।
+
+> *ha | tvaṃ | sūno iti | sahasaḥ | naḥ | adya | jātaḥ | jātān | ubhayān | aṃtaḥ |*  
+> *agne ‖*  
+> *dūtaḥ | īyase | yuyujānaḥ | yaṣṭa | yajumuṣkān | vṛṣaṇaḥ | śukrān | ca |*
+
+### Printed p. 704
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनो बलस्य पुत्राग्ने अद्यास्मिन्दिवसे नोऽस्मदीय इह कर्मणि
+> जात आधानपवमानेष्टिभिः संस्कृतस्त्वं जातानुत्पन्नानुभयान्देवमनुष्यानंतस्तेषामुभयेषां मध्यॆ दूतो हवींषि देवान्प्रापयितुमीयसे । गच्छसि । किं
+> कुर्वन् । हे ऋष्व दर्शनीयाग्ने ऋजुमुष्कान् । मुष्कशब्देन मांसलोऽभिधीयते । ऋजवः प्रसाधकाः । ऋजुवश्च ते मुष्काश्चेत्यृजुमुष्काः । तान्वृषणः
+> रेतःसेचनसमर्थान् शुक्रान्दीप्यमानानश्वांश्च युयुजानः स्वरथे योजयन्नीयसे । यद्वा । ऋष्व महन्नग्ने युयुजानो हविर्वहने नियुज्यमानस्त्वं
+> वृषणो हविःसेचनसमर्थान्यजमानान् दीप्तान्देवांश्चेयसे ॥ सूनो सहसः ।
+> परमपि छंदसीति सहसः परांगवद्भावात् द्वयोः सर्वानुदात्तत्वं । ईयसे ।
+> ईज् गत् । दिवादिः । निघातः । युयुजानः । युजॆः वर्तमाने लिट कानचि
+> रूपं । ऋष्व । संहितायामृत्यक इति प्रकृतिभावः । ऋजुमुष्कान् । समासस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength (सहसः सूनो (*sahasaḥ sūno*))! Today, in this our rite, you who have been born, that is, refined by the Ādhāna and the Pavamāneṣṭis, go (ईयसे (*īyase*)) as messenger among both the born, gods and men, to convey the oblations to the gods. What do you do as you go? O Ṛṣva, graceful Agni, you go yoking to your chariot the horses that are ऋजुमुष्कान् (*ṛjumuṣkān*). The word मुष्क (*muṣka*) denotes "fleshy"; ऋजवः (*ṛjavaḥ*) are "adorning"; so ऋजुमुष्कान् (*ṛjumuṣkān*) are those that are both adorning and fleshy. They are वृषणः (*vṛṣaṇaḥ*), able to shed seed, and शुक्रान् (*śukrān*), shining. Alternatively: O great Agni, appointed to carry the oblation, you go to the sacrificers who are able to pour out the oblation and to the shining gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- आद्य (*ādya*)—today
+- नः (*naḥ*)—our
+- इह (*iha*)—in this time of the rite
+- जातः (*jātaḥ*)—well refined
+- त्वं (*tvaṃ*)—you
+- जातान् (*jātān*)—of the born
+- उभयान् (*ubhayān*)—both, gods and men
+- अंतः (*aṃtaḥ*)—in the midst
+- दूतः (*dūtaḥ*)—as messenger of the gods
+- ईयॆसे (*īyèse*)—you are ready (to carry the oblation)
+- ऋष्प (*ṛṣpa*)—O graceful Agni **NOTE**
+- यजुमुष्कान् (*yajumuṣkān*)—those that are robust and adorned **NOTE**
+- वृष्टि (*vṛṣṭi*)—those that are able to shed seed **NOTE**
+- शुक्रान् (*śukrān*)—and shining, your horses
+- युयुजानः (*yuyujānaḥ*)—you are ready to harness to the chariot
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, today, at the time of this our rite, you, well refined, are ready, as messenger of the gods, to carry the oblation even in the midst of all the gods and men who have been born. O graceful Agni, you are ready, having harnessed to the chariot your horses that are robust, adorned, powerful and shining.
+
+##### English translation (H. H. Wilson)
+Agni, son of strength, generated to-day at this our rite, as inter-
+mediate between both (gods and men) you proceed, the invoker (of the
+gods), harnessiug, graceful Agni, your robust, vigorous, and resplendent
+steeds.
+
+### Printed p. 705
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्या॑ वृध॒स्नू रोहि॑ता घृ॒तस्नू॑ ऋ॒तस्य॑ मन्ये॒ मन॑सा॒ जवि॑ष्ठा ।  
+> अं॒तरी॑यसे अरु॒षा यु॑जा॒नो यु॒ष्मांश्च॑ दे॒वान्विश॒ आ च॒  ॑
+> मर्तान् ॥ ३ ॥
+
+> *atyā vṛdhasnū rohitā ghṛtasnū ṛtasya manye manasā javiṣṭhā |*  
+> *aṃtarīyase aruṣā yujāno yuṣmāṃśca devānviśa ā ca*  
+> *martān ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्या । वृधस्नू इति वृध्सनू । रोहिता । घृतस्नू इति घृतस्नू । ऋतस्य । मन्ये ।  
+> मनसा । जविष्ठा ।  
+> अंतः । ईयसे । अरुषा । युजानः । युष्मान् । च । देवान् । विशः । आ । च ।  
+> ।  
+> मर्तान् ॥ ३ ॥
+
+> *atyā | vṛdhasnū iti vṛdhsanū | rohitā | ghṛtasnū iti ghṛtasnū | ṛtasya | manye |*  
+> *manasā | javiṣṭhā |*  
+> *aṃtaḥ | īyase | aruṣā | yujānaḥ | yuṣmān | ca | devān | viśaḥ | ā | ca |*  
+> *|*  
+> *martān ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ऋतस्य सत्यभूतस्य तव संबंधिनौ मनसा मनसोऽपि जविष्ठा वेगवत्तमौ वृधस्नू । वर्धयतीति वृधमन्नं । तत्क्षरंतौ । धृतस्नू । धृतमुदकं
+> तत्स्ववंतौ रोहिता रोहितवर्णावत्पाश्वा मन्ये । स्वामि । अरुषारोचमाना
+> तावश्च युजानो रथे युंजानस्त्वं युष्मान् । देवेश्वगेरंतर्भावाद्यजनीयरूपेण कीर्तनं । युष्मान्यष्टव्यान्देवान् विशः परिचारकान्मर्तान्मनुष्यानंतः ।
+> षष्ठ्यर्थे द्वितीया । तेषां मध्य आ समंतादीयसे । हविः स्वीकर्तुं यजमानान् गच्छसि । तद्धविः प्रदातुं देवान् गच्छसि ॥ मन्ये । मन्यतिरर्चतिकर्मा ।
+> मनसा । सुपां सुलुगिति पंचम्या आकारः । युजानः । युजिर् योगे । युजिबुधिदृशः किच्चेत्यानच् प्रत्ययः । चित्वादंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are true (ऋतस्य (*ṛtasya*)): the two horses belonging to you, swifter than the mind and the swiftest, are वृधस्नू (*vṛdhasnū*). वृध (*vṛdha*) is the food that makes grow; they let it flow. They are धृतस्नू (*dhṛtasnū*): धृत (*dhṛta*) is water, and they possess it. I think of them as रोहिता (*rohitā*), of reddish colour, and horses. **NOTE** You yoke to the chariot those shining (अरुषा (*aruṣā*)) horses. The word युष्मान् (*yuṣmān*) (you, the gods): because the gods are included among the horses, they are mentioned here in a form worthy of worship. **NOTE** युष्मान् (*yuṣmān*) are the gods to be worshipped; विशः (*viśaḥ*) are the attendants, mortal men. The accusative अंतः (*aṃtaḥ*) stands in the sense of the genitive. You go all around (ईयसे (*īyase*)) in the midst of them: you go to the sacrificers to accept the oblation, and to the gods to give them that oblation. मन्ये (*manye*) is a verb meaning "to worship". The remainder of the block is grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—belonging to you, who are true in nature
+- मनसा (*manasā*)—than the speed of the mind
+- जविष्ठा (*javiṣṭhā*)—those that are swift
+- वृधस्नू (*vṛdhasnū*)—those that pour out food
+- घतस्नू (*ghatasnū*)—those that rain water **NOTE**
+- रोहिता (*rohitā*)—of reddish colour
+- अत्या (*atyā*)—the horses
+- मन्ये (*manye*)—I praise
+- अरुषा (*aruṣā*)—those radiant horses
+- युजानः (*yujānaḥ*)—you who have yoked to the chariot
+- युष्मान् (*yuṣmān*)—
+
 ---
 
-**Progress note:** Done through printed p. 699. pp. 694-699 (batch API)
+**Progress note:** Done through printed p. 705. pp. 700-705 (batch API)
