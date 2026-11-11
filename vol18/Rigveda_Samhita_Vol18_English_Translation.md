@@ -23909,6 +23909,267 @@ The Prajāpati of steady mind who generated these Heaven and Earth, and by his s
 ##### English translation (H. H. Wilson)
 Verily he was the doer of a good work in the regions, who generated these two, Heaven and Earth, and firm of purpose, gave an impulse by his deed to the two vast, immoveable, beautiful, unsupported worlds.
 
+### Printed p. 617
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू रोदसी बृहद्भिन्नोर्व वरूथैः पत्नीवद्धिरिषयंती  
+> सजोषाः ।  
+> उ॒रू॒ची विश्वे॑ यज॒ते नि पा॑तं धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥४॥
+
+> *nū rodasī bṛhadbhinnorva varūthaiḥ patnīvaddhiriṣayaṃtī*  
+> *sajoṣāḥ |*  
+> *urūcī viśve yajate ni pātaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । रोदसी इति । बृहत्भिः । नः । वरूथैः । पत्नीवत्भिः । इषयंती इति ।  
+> सजोषाः ।  
+> उरूची इति । विश्वे इति । यजते इति । नि । पातं । धिया । स्याम । रथ्यः । सदाऽसाः ॥
+
+> *nu | rodasī iti | bṛhatbhiḥ | naḥ | varūthaiḥ | patnīvatbhiḥ | iṣayaṃtī iti |*  
+> *sajoṣāḥ |*  
+> *urūcī iti | viśve iti | yajate iti | ni | pātaṃ | dhiyā | syāma | rathyaḥ | sadā 'sāḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रोदसी द्यावापृथिव्यौ नु क्षिप्रं पत्नीवद्भिः पत्नि सहितैर्बृहद्भिमहद्भिर्वरूथैर्गृहैर्धनैन्वर्त् सहेषयंती अस्माकमन्नमिच्छंत्र्यौ सजोषाः परस्परं
+> संगते उरूची उर्वंचने विश्वे व्याप्ते यजते यष्टव्ये सत्यौ नोऽस्मान् नि
+> पातं । नितरां रक्षतं । धियेत्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+O Heaven and Earth (रोदसी (*rodasī*)), quickly (नु (*nu*)) protect us completely. You are with wives, great, with houses and wealth, wishing (इषयंती (*iṣayaṃtī*)) food for us. You are united with each other (सजोषाः (*sajoṣāḥ*)), wide (उरूची (*urūcī*)), all-pervading (विश्वे (*viśve*)), worthy of worship (यजते (*yajate*)) and true. Sāyaṇa says that धिया (*dhiyā*) and the rest have been explained already.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सजोषाः (*sajoṣāḥ*)—those that are together with each other
+- उरुची (*urucī*)—extensive
+- विश्वे (*viśve*)—all-pervading
+- यजते (*yajate*)—worthy of sacrifice
+- रोदसी (*rodasī*)—Heaven and Earth
+- नु (*nu*)—quickly
+- नः (*naḥ*)—to us
+- पत्नि वद्भिः (*patni vadbhiḥ*)—accompanied by wives
+- बृहद्भिः (*bṛhadbhiḥ*)—great
+- वरूथैः (*varūthaiḥ*)—furnished with houses and other wealth
+- इषयंती (*iṣayaṃtī*)—desiring and giving food
+- नि पातं (*ni pātaṃ*)—may (they) protect (us) completely
+- (वयं (*vayaṃ*)—we)
+- धिया (*dhiyā*)—by our good deeds
+- रथ्यः (*rathyaḥ*)—possessing chariots
+- सदासाः (*sadāsāḥ*)—accompanied by servants
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+May Heaven and Earth, who are united with each other, wide, all-pervading and worthy of sacrifice, desiring and giving us food that is accompanied by wives, great and furnished with houses and other wealth, protect us. May we also, as the fruit of our good deeds, have excellent chariots and be accompanied by servants.
+
+### Printed p. 618
+
+##### English translation (H. H. Wilson)
+May Heaven and Earth, vast, universal, adorable, united in satisfaction, and disposed to give us food, protect us with our spacious dwellings, inhabited by our wives, and may we for our (pious) acts be possessed of chariots and slaves.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नां॒ महि॒ द्यवी॑ अ॒भ्युप॑स्तुतिं भरामहे ।  
+> शुची॒ उप॒ प्रश॑स्तये ॥ ५ ॥
+
+> *pra nāṃ mahi dyavī abhyupastutiṃ bharāmahe |*  
+> *śucī upa praśastaye ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वां । महि । द्यवी इति । अभि । उपस्तुतिं । भरामहे ।  
+> शुची इति । उप । प्रशस्तये ॥ ५ ॥
+
+> *pra | vāṃ | mahi | dyavī iti | abhi | upastutiṃ | bharāmahe |*  
+> *śucī iti | upa | praśastaye ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वामित्यादिगायत्रस्तृचो व्यूढे दशरात्रे वैश्वदेवशस्त्रे द्यावापृथिव्यनिविद्दानीयत्वेन प्रक्षेप्यः । तथा च सूत्रितं । प्र वां महि द्यवी इति तृचौ ।
+> आ. ८-११ । इति ॥
+> हे द्यावापृथिव्यौ द्यवी द्योतमाने वां युवाभ्यामुपस्तुतिं स्तोत्रं
+> महि महत्प्रभूतमभि प्र भरामहे । प्रकर्षण संपादयामः । शुची शुद्धे
+> युवां प्रशस्तये प्रशंसितुमुप । उपसर्गश्रुतेरुचितक्रियाध्याहारः । उप गच्छाम
+> इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The gāyatrī triplet beginning प्र वां (*pra vāṃ*) is to be inserted in the Vaiśvadeva śastra of the Vyūḍha Daśarātra as द्यावापृथिव्यनिविद्दानीयत्वेन (*dyāvāpṛthivyanividdānīyatvena*). So it is stated in the sūtra: प्र वां महि द्यवी इति तृचौ (*pra vāṃ mahi dyavī iti tṛcau*) (Ā. 8-11). O Heaven and Earth, shining ones, we offer to you both abundant praise. O pure ones, we go up to you to praise you; the verb उप गच्छाम (*upa gacchāma*) is supplied, since the preverb उप (*upa*) is heard and calls for a suitable verb.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दृवी (*dṛvī*)—O shining Heaven and Earth
+- वां (*vāṃ*)—addressed to you
+- उपस्तुतिं (*upastutiṃ*)—praise
+- महि (*mahi*)—abundantly
+- अभि प्रभरामहे (*abhi prabharāmahe*)—we compose excessively
+- शुची (*śucī*)—you who are pure
+- प्रशस्तये (*praśastaye*)—in order to praise
+- उप (*upa*) (गच्छाम (*gacchāma*))—we approach
+
+### Printed p. 619
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Heaven and Earth, addressed to you we compose abundant and excessive praise; and we approach you, the pure ones, in order to praise you.
+
+##### English translation (H. H. Wilson)
+We offer earnest praise to you both, resplendent (Heaven and Earth); we approach you who are pure, to offer adoration.
+
+##### विशेषविषयगळु (Special Topics)
+
+The next three ṛks in gāyatrī metre, beginning प्र वां (*pra vāṃ*), are to be used for the nivid-position hymn relating to Heaven and Earth at the time of reciting the Vaiśvadeva śastra mantras in the Daśarātra sacrifice called Vyūḍha. This is explained by the Āśvalāyana Śrauta Sūtra, प्रवां महि द्यवी इति तृचौ (*pravāṃ mahi dyavī iti tṛcau*) (Ā. 8-11).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒ने त॒न्वा॑ मि॒थः स्वेन॒ दक्षे॑ण राजथः ।  
+> ऊ॒ह्याथे॑ स॒नादृ॒तं ॥ ६ ॥
+
+> *punāne tanvā mithaḥ svena dakṣeṇa rājathaḥ |*  
+> *ūhyāthe sanādṛtaṃ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनाने इति । तन्वा । मिथः । स्वेन । दक्षेण । राजधः ।  
+> ऊह्याथे इति । सनात् । ऋतं ॥ ६ ॥
+
+> *punāne iti | tanvā | mithaḥ | svena | dakṣeṇa | rājadhaḥ |*  
+> *ūhyāthe iti | sanāt | ṛtaṃ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव्यौ तन्वा स्वकीयया मूर्त्या स्वेन दक्षेण बलेन च मिथः प्रत्येकं
+> पुनाने शोधयंत्यौ यज्ञं यजमानं वा युवां राजथः । यद्वा । तन्वा
+> स्वस्वशरीरैकदेशेन मिथः परस्परं पुनाने शोधयंत्यौ । द्यौः स्वीयेनासारेण
+> भुवं सा च स्वकीयेन कार्श्येन चंद्रमसि स्थितेन दिवमिति विवेकः । सनात्सदाकालमृतं यज्ञमूह्याथे । वहथः ॥
+
+##### Gist of the bhāṣya
+
+O divine pair, you purify each other (*mithaḥ punāne*), each by its own body (तन्वा (*tanvā*)) and by its own power (दक्षेण (*dakṣeṇa*)), and you shine upon the sacrifice or the sacrificer. Or else: each purifies the other by a part of its own body; Heaven purifies Earth by its own rain, and Earth purifies Heaven by its own slenderness, as it stands in the moon; this is the distinction. Always (सनात् (*sanāt*)) you carry (ऊह्याथे (*ūhyāthe*)) the sacrifice (ऋतं (*ṛtaṃ*)).**NOTE**
+
+### Printed p. 620
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Heaven and Earth)
+- तन्वा (*tanvā*)—by your very form
+- स्वेन (*svena*)—your own
+- दक्षेण (*dakṣeṇa*)—by power
+- मिथः (*mithaḥ*)—mutually
+- पुनाने (*punāne*)—as purifiers
+- राजथः (*rājathaḥ*)—you shine
+- सनात् (*sanāt*)—at all times
+- यतं (*yataṃ*)—the sacrifice**NOTE**
+- ऊह्याथे (*ūhyāthe*)—you carry
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, by your own form and by your own power you shine, purifying each other; and at all times you carry the sacrifice.
+
+##### English translation (H. H. Wilson)
+Mutually sanctifying (each other) of your own substance, you shine by your own power, and ever bear away the offering.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒ही मि॒त्रस्य॑ साधथ॒स्तरं॑ती॒ पिप्र॑ती ऋ॒तं ।  
+> परि॑ य॒ज्ञं नि षे॑दथुः ॥ ७ ॥
+
+> *mahī mitrasya sādhathastaraṃtī pipratī ṛtaṃ |*  
+> *pari yajñaṃ ni ṣedathuḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मही इति । मित्रस्य । साधथः । तरंती इति । पिप्रती इति । यतं ।  
+> परि । यज्ञं । नि । सेदथुः ॥ ७ ॥
+
+> *mahī iti | mitrasya | sādhathaḥ | taraṃtī iti | pipratī iti | yataṃ |*  
+> *pari | yajñaṃ | ni | sedathuḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मही महत्यौ द्यावापृथिव्यौ मित्रस्य मित्रभूतस्य स्तोतुरभिमतं साधथः ।
+> ऋतमन्नं तरंती तारयंत्र्य पिप्रती पूरयंत्र्य यज्ञं परि परितो नि षेदथुः ।
+> आश्रयतः ॥
+
+##### Gist of the bhāṣya
+
+The two great ones, Heaven and Earth, accomplish the desire of the worshipper who is their friend (मित्रस्य (*mitrasya*)). Carrying across (तरंती (*taraṃtī*)) food (ऋतं (*ṛtaṃ*)) and filling (पिप्रती (*pipratī*)), you sit down (नि षेदथुः (*ni ṣedathuḥ*)) all around (परि (*pari*)) the sacrifice, that is, you resort to it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मही (*mahī*)—Heaven and Earth, of great nature
+- मित्रस्य (*mitrasya*)—(the desire) of the sacrificer who is a friend to you
+- साधथः (*sādhathaḥ*)—you accomplish
+- ऋतं (*ṛtaṃ*)—food
+- तरंती (*taraṃtī*)—distributing
+
+### Printed p. 621
+- पिप्रती (*pipratī*)—filling (the sacrificer)
+- यज्ञं परि (*yajñaṃ pari*)—around the sacrifice
+- निषेदथुः (*niṣedathuḥ*)—you are seated
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, of great nature, you accomplish the desired objects of the sacrificer, who is a friend to you; and distributing food to him and filling him with food, you are seated around the sacrifice.
+
+##### English translation (H. H. Wilson)
+Mighty (Heaven and Earth), you fulfil the desires of your friend : distributing food and giving sustenance, you have sat down at the sacrifice.
+
+## Sūkta 57 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्षेत्रस्य पतिनेत्यष्टर्चं द्वादशं सूक्तं वामदेवस्यार્ષं । आद्याचतुर्थी..
+> षष्ठीसप्तम्योऽनुष्टुभः पंचमी पुरउष्णिक् । आद्यश्चेत्पुरउष्णिगिति हि तल्लक्षणं ।
+> शिष्टास्ति स्रस्त्रिष्टुभः। आद्यास्ति स्रः क्षेत्रपतिदेवताकाश्चतुर्थी शुनाख्य देवताका पंचम्यष्टम्नौ शुनासीरदेवताके । षष्ठीसप्तमौ सीतादेवताके । तथा चानुक्रमणिका ।
+> क्षेत्रस्याष्टौ तिस्रः क्षैत्रपत्याः शुनाय्कॆका परा पुरउष्णिक् सांत्या च शुनासीराभ्यामुपांत्ये सीतायै ते अनुष्टुभावाद्या च चतुर्थी चेति ॥ क्षेत्रस्य कर्षणेनेन
+> सूक्तेन प्रत्यृचं जुहुयाज्जपेद्वा । तथा च सूत्रितं । क्षेत्रस्य पतिना वयमिति
+> प्रत्यृचं जुहुयाज्जपेद्वा। आ- गृ. २ १०। इति ॥ अप्पोर्यामे होतुरतिरिक्कोक्ष्य
+> आश्विनशस्त्रादूर्ध्वं चत्वाय्तिरिक्कोक्ष्यानि । तत्राद्या परिधानीया । सूत्रितं च ।
+> क्षेत्रस्य पतिना वयमिति परिधानीया । आ. ९-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn क्षेत्रस्य पतिना (*kṣetrasya patinā*), of eight ṛks, is the twelfth hymn; its seer is Vāmadeva. The first, fourth, sixth and seventh ṛks are in anuṣṭubh, the fifth is puraūṣṇik (the definition being आद्यश्चेत्पुरउष्णिगिति (*ādyaścetpurauṣṇigiti*)), and the remaining three are in triṣṭubh. The first three have Kṣetrapati as deity, the fourth has Śuna, the fifth and eighth Śunāsīra, the sixth and seventh Sītā. So the Anukramaṇikā says. With this hymn one is to offer an oblation with each ṛk, or mutter it, at the ploughing of a field; so it is stated in the sūtra क्षेत्रस्य पतिना वयमिति प्रत्यृचं जुहुयाज्जपेद्वा (*kṣetrasya patinā vayamiti pratyṛcaṃ juhuyājjapedvā*) (Ā. Gṛ. 2-10). In the Aptoryāma, among the four atiriktokthya verses of the Hotṛ after the Āśvina śastra, the first ṛk is the concluding verse (परिधानीया (*paridhānīyā*)); so it is stated in the sūtra क्षेत्रस्य पतिना वयमिति परिधानीया (*kṣetrasya patinā vayamiti paridhānīyā*) (Ā. 9-11).
+
+##### Anuvāda
+
+This hymn क्षेत्रस्य पतिना (*kṣetrasya patinā*) is the twelfth hymn in the fifth anuvāka. It has eight ṛks. Its seer is Vāmadeva; its first, fourth, sixth and seventh ṛks are in the anuṣṭubh metre; the fifth ṛk is in the metre called puraūṣṇik. आद्यश्चेत्पुरउष्णिक् (*ādyaścetpurauṣṇik*) is the definition of this metre. That is, the uṣṇik metre has three pādas; if the first two pādas have eight syllables each and the third twelve, it is uṣṇik. If this twelve-syllable pāda is the first pāda, it is called puraūṣṇik; if the twelve-syllable pāda is in the middle, it is called kakubh; thus there are three kinds of uṣṇik metres.**NOTE** The remaining ṛks of this hymn, that is, the 2nd, 3rd and 8th, are in triṣṭubh. The first three ṛks are addressed to Kṣetrapati; the fourth to Śuna; the fifth and eighth to Śunāsīra; the sixth and seventh to Sītā. In the Anukramaṇikā it is said: क्षेत्रस्याष्टौ तिस्रः क्षैत्रपत्याः शुनाय्कॆका परा पुरउष्णिक् सांत्या च शुनासीराभ्यामुपांत्ये सीतायै ते अनुष्टुभावाद्या च चतुर्थी च (*kṣetrasyāṣṭau tisraḥ kṣaitrapatyāḥ śunāykèkā parā purauṣṇik sāṃtyā ca śunāsīrābhyāmupāṃtye sītāyai te anuṣṭubhāvādyā ca caturthī ca*). When the earth is ploughed, each ṛk of this hymn is to be muttered and offered in the fire, as explained by the Āśvalāyana Gṛhya Sūtra, क्षेत्रस्य पतिना वयमिति प्रत्यृचं जुहुयाज्जपेद्वा (*kṣetrasya patinā vayamiti pratyṛcaṃ juhuyājjapedvā*) (Ā. Gṛ. 2-10-4). And in the sacrifice called Aptoryāma, among the four mantras called atiriktokthya which the Hotṛ recites after the recitation of the Āśvina śastra mantras, the first ṛk of this hymn, क्षेत्रस्य पतिना वयं (*kṣetrasya patinā vayaṃ*), is to be recited as the paridhānīyā mantra (the last mantra), as explained by the Āśvalāyana Śrauta Sūtra, क्षेत्रस्य पतिना वयमिति परिधानीया (*kṣetrasya patinā vayamiti paridhānīyā*) (Ā. 9-11).
+
+### Printed p. 622
+
+##### Particulars
+
+Sūkta 57. Maṇḍala 4; Anuvāka 5; Sūkta 57. Aṣṭaka 3; Adhyāya 8; Varga 9. Number of ṛks in the sūkta: 8. Ṛṣi: Vāmadeva. Devatā: 1-3 Kṣetrapati; 4 Śuna; 5, 8 Śunāsīrau; 6, 7 Sītā. Chandas: 1, 4, 6, 7 Anuṣṭubh; 2, 3, 8 Triṣṭubh; 5 Puraūṣṇik.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्षेत्र॑स्य॒ पति॑ना व॒यं हि॒तेने॑व जयामसि ।  
+> गामश्वं॑ पोषयि॒त्वा स नो॑ मृळाती॒दृशे॑ ॥ १ ॥
+
+> *kṣetrasya patinā vayaṃ hiteneva jayāmasi |*  
+> *gāmaśvaṃ poṣayitvā sa no mṛḷātīdṛśe ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षेत्रस्य । पतिना । वयं । हितेन इव । जयामसि ।  
+> गां । अश्वं । पोषयितु । आ । सः । नः । मृळाति । ईदृशे ॥ १ ॥
+
+> *kṣetrasya | patinā | vayaṃ | hitena iva | jayāmasi |*  
+> *gāṃ | aśvaṃ | poṣayitu | ā | saḥ | naḥ | mṛḷāti | īdṛśe ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 616. pp. 611-616 (batch API)
+**Progress note:** Done through printed p. 622. pp. 617-622 (batch API)
