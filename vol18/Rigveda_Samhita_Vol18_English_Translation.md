@@ -11820,6 +11820,294 @@ The sūkta beginning ऋभुर्विभ्वा (*ṛbhurvibhvā*) has el
 
 This sūkta beginning "Ṛbhur vibhvā" is the second sūkta in the fourth anuvāka. It has eleven Ṛks. Vāmadeva is the seer of this sūkta; the Ṛbhus are the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is stated as beginning "Ṛbhur vibhvā". It is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra "Ṛbhur vibhvā stuṣe janam" (8-8), that at the time of reciting the Vaiśvadeva śastra mantras on the fifth day of the daśarātra sacrifice called Vyūḍha, this sūkta too is to be recited as the Ārbhava nivid-hānīya sūkta.
 
+### Printed p. 316
+
+> सूक्त-३४
+> मंडल—४ ॥ अनुवाक—४ ॥ सूक्त—३४ ॥
+> अष्टक—३ ॥ अध्याय—७ ॥ वर्ग— ३, ४ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
+> ऋषिः—वामदेवः ॥
+> देवता—ऋभवः ॥
+> छंदः—त्रिष्टुप् ॥
+> ऋभुर्विभ्वा वाज इंद्रो नो अच्छेमं यज्ञं रत्नधेयोप यात ।
+> इदा हि वो धिषणा देव्यह्ना मधात्पीतं सं मदा अग्मता
+> वः ॥ १ ॥
+
+> *ṛbhurvibhvā vāja iṃdro no acchemaṃ yajñaṃ ratnadheyopa yāta |*
+> *idā hi vo dhiṣaṇā devyahnā madhātpītaṃ saṃ madā agmatā*
+> *vaḥ ‖ 1 ‖*
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋभुः । विभ्वा । वाजः । इंद्रः । नः । अच्छ । इमं । यज्ञं । रत्नधेया ।  
+> उप । यात ।  
+> इदा । हि । वः । धिषणा । देवी । अह्नां । अधात् । प्रीतिं । सं । मदाः ।  
+> अग्मत । वः ॥ १ ॥
+
+> *ṛbhuḥ | vibhvā | vājaḥ | iṃdraḥ | naḥ | accha | imaṃ | yajñaṃ | ratnadheyā |*  
+> *upa | yāta |*  
+> *idā | hi | vaḥ | dhiṣaṇā | devī | ahnāṃ | adhāt | prītiṃ | saṃ | madāḥ |*  
+> *agmata | vaḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋभुर्विभ्वा वाज इंद्रश्चैते देवा नोऽस्मदीयमिमं यज्ञ मच्छाभिमुखं  
+> रत्नधेयास्मभ्यं रत्नधानायोप यात । उपगच्छत । ननु इंद्रः सोमस्वामित्वादागच्छतु कथमेतेषां यज्ञ प्राप्तिरिति चेत् । उच्यते । इदा हीदानीं खलु वो  
+> युष्माकं धिषणा वाक् देवी प्रजापतेः संबंधिन्यह्नां सोमाभिषवसंबंधिनां  
+> पीतिं सोमपानमधात् । स प्रजापतिरब्रवीत्सवितारं तव ना इमेऽंतेवासास्वमेवैभिः संपिबस्व । ऐ. ब्रां. ३-३० । इति ब्राह्मणं । यस्मादेवं तस्मान्मदाक्ष वो  
+> युष्मान् समग्नत । संगताः । यद्वा । वो मदा देवैः संगताः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विदानासो जन्मनो वाजरत्ना उत ऋतुभिर्ऋभवो
+> मादयध्वं ।
+> सं वो मदा अग्गत सं पुरंधिः सुवीरामस्मे रयिमेरयध्वं ॥ २ ॥
+
+> *vidānāso janmano vājaratnā uta ṛtubhirṛbhavo*
+> *mādayadhvaṃ |*
+> *saṃ vo madā aggata saṃ puraṃdhiḥ suvīrāmasme rayimerayadhvaṃ ‖ 2 ‖*
+
+##### Gist of the bhāṣya
+
+Ṛbhu, Vibhvan, Vāja and Indra, these gods, are to come near to our sacrifice, facing it, रत्नधेया (*ratnadheyā*), that is, to bestow jewels on us. Objection: let Indra come, since he is the lord of Soma; how do the others reach the sacrifice? Answer: now, indeed, your धिषणा (*dhiṣaṇā*), the divine Speech belonging to Prajāpati, has established the Soma-drinking connected with the pressing of the days. The Brāhmaṇa says: स प्रजापतिरब्रवीत्सवितारं तव ना इमेऽंतेवासास्वमेवैभिः संपिबस्व । ऐ. (*sa prajāpatirabravītsavitāraṃ tava nā ime 'ṃtevāsāsvamevaibhiḥ saṃpibasva | ai.*) (Ai. Brā. 3-30). Since this is so, the exhilarations (मदाः (*madāḥ*)) have come together (अग्मत (*agmata*)) to you. Or else: the exhilarations have joined you together with the gods.
+
+### Printed p. 317
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुः (*ṛbhuḥ*)—Ṛbhu
+- विभ्वा (*vibhvā*)—Vibhvan
+- वाजः (*vājaḥ*)—Vāja
+- इंद्रः (*iṃdraḥ*)—Indra (all together)
+- नः (*naḥ*)—our
+- इमं यज्ञं अच्छ (*imaṃ yajñaṃ accha*)—facing this sacrifice
+- रत्नधेया (*ratnadheyā*)—to provide us with delightful wealth
+- उप यात (*upa yāta*)—may they come near
+- इदा हि (*idā hi*)—at this third pressing-time
+- देवी धिषणा (*devī dhiṣaṇā*)—Prajāpati's divine speech, which is of the nature of permission
+- वः (*vaḥ*)—to you
+- अह्नां (*ahnāṃ*)—connected with this pressing of the day
+- पीतिं (*pītiṃ*)—the Soma-drinking
+- अधात् (*adhāt*)—provided
+- मदाः (*madāḥ*)—(the resulting) joys
+- वः (*vaḥ*)—you
+- सं आग्रत (*saṃ āgrata*)—joined **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+May Ṛbhu, Vibhvan, Vāja and Indra (all of them together) come near, facing our sacrifice, to provide us with delightful wealth. O Ṛbhus, the divine speech of Prajāpati, which is of the nature of permission, has provided you with the Soma-drinking connected with this third pressing. The joys that result from it have joined you.
+
+##### English translation (H. H. Wilson)
+Ribhu, Vibhwan, Vaja, and Indra, come to this our sacrifice, to distribute precious things, for the divine word has indeed now desired the drinking (of the Soma) on the (appointed hours of the) days; therefore the exhilarating draughts are collected for you.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विदानासः । जन्मनः । वाज्ररत्नाः । उत । ऋतुभिः । ऋभवः । मादयध्वं ।  
+> सं । वः । मदाः । अग्मत । सं । पुरंधिः । सुवीरां । अस्मे इति । रयिं । आ ।  
+> ईरयध्वं ॥ २ ॥
+
+> *vidānāsaḥ | janmanaḥ | vājraratnāḥ | uta | ṛtubhiḥ | ṛbhavaḥ | mādayadhvaṃ |*  
+> *saṃ | vaḥ | madāḥ | agmata | saṃ | puraṃdhiḥ | suvīrāṃ | asme iti | rayiṃ | ā |*  
+> *īrayadhvaṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हे वाजरत्नाः सोमलक्षणेनान्नेन राजमाना ऋभवो यूयं जन्मनो  
+> जननस्य देवत्वलक्षणस्य देवत्वप्राप्तिं विदानासो जानंतः । यद्वा । विदानासः  
+> सोमप्राप्तिं जानंतो जन्मनः पूर्वं मनुष्यजन्मवंतश्च संतः । उतशब्दश्चार्थे ।  
+> ऋतुभिर्देवैः सह मादयध्वं । वो युष्मान्मदाः सोमपानजनिताः समग्मत ।  
+> संगताः । पुरंधिः स्तुतिरपि समग्मत । ते यूयमस्मे अस्माकं सुवीरां शोभनैर्वीरैः पुत्रैरुपेतां रयिमेरयध्वं । प्रेरयत ॥
+
+### Printed p. 318
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं वो यज्ञ ऋभवोऽकारि यमा मनुष्वत्पदिवो
+> दधिद्वे ।
+> प्र वोऽच्छा जुजुषाणासो अस्थुरभूत विश्वे अग्रियोत
+> वाजः ॥ ३ ॥
+
+> *ayaṃ vo yajña ṛbhavo 'kāri yamā manuṣvatpadivo*
+> *dadhidve |*
+> *pra vo 'cchā jujuṣāṇāso asthurabhūta viśve agriyota*
+> *vājaḥ ‖ 3 ‖*
+
+##### Gist of the bhāṣya
+
+O Ṛbhus, वाजरत्नाः (*vājaratnāḥ*), shining with the food that is Soma, you, knowing (विदानासः (*vidānāsaḥ*)) the attainment of godhood, the nature of your birth (जन्मनः (*janmanaḥ*)). Or else: knowing the attainment of Soma, and having formerly been born as men. The word उत (*uta*) has the sense of "and". Rejoice together with the Ṛtus, the gods. May the exhilarations produced by Soma-drinking come together to you, and praise (पुरंधिः (*puraṃdhiḥ*)) too has come together. Being such, send to us (अस्मे (*asme*)) wealth (रयिं (*rayiṃ*)) accompanied by excellent heroic sons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजरत्नाः (*vājaratnāḥ*)—shining with the food that is Soma
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- जन्मनः (*janmanaḥ*)—(you) the attainment of your divine birth
+- विदानासः (*vidānāsaḥ*)—knowing
+- ऋतुभिः (*ṛtubhiḥ*)—with the gods
+- मादयध्वं (*mādayadhvaṃ*)—be gladdened
+- वः (*vaḥ*)—you
+- मदाः (*madāḥ*)—the joys born of Soma-drinking
+- सं अग्मत (*saṃ agmata*)—let them join
+- उत (*uta*)—and
+- पुरंधिः (*puraṃdhiḥ*)—praise too
+- सं (अग्मत) (*saṃ (agmata)*)—let it join (you, such as you are)
+- अस्मे (*asme*)—to us
+- सुवीरां (*suvīrāṃ*)—accompanied by heroic sons
+- रयिं (*rayiṃ*)—wealth
+- एरयध्वं (*erayadhvaṃ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, shining with the food that is Soma, knowing the attainment of your divine birth, you will rejoice with the gods. May the joys born of Soma-drinking join you. May our praise also join you. Provide us with wealth accompanied by heroic sons.
+
+##### English translation (H. H. Wilson)
+Resplendent with (sacrificial) food, prescient of your (celestial) birth, be exhilarated, Ribhus, along with the Ritus: the inebriating draughts are collected for you as well as pious praise: confer upon us riches with excellent posterity.
+
+### Printed p. 319
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं । वः ।॑ य॒ज्ञः । ऋ॑भवः । अकारि॒ । यं । आ । म॑नु॒ष्वत् । प्र॒दिवः ।॑ दधि॒ध्वे।  
+> प्र । वः । अच्छ ।॑ जुजुषा॒णासः ।॑ अस्थुः॒ । अभू॑त॒ । विश्वे॑ । अग्रि॒या । उत । वा॑जाः॥
+
+> *ayaṃ | vaḥ | yajñaḥ | ṛbhavaḥ | akāri | yaṃ | ā | manuṣvat | pradivaḥ | dadhidhve|*  
+> *pra | vaḥ | accha | jujuṣāṇāsaḥ | asthuḥ | abhūta | viśve | agriyā | uta | vājāḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हे ऋभवो वो युष्मदर्थमयं यज्ञोऽकारि । यं यज्ञं मनुष्मन्मनुष्यवत्पदिवः प्रकर्षेण द्योतमानाः संत आ दधिध्वे । धारयत जठरे । तदर्थं  
+> वो युष्मानच्छाभिमुख्येन जुजुषाणासः सेवमानाः सोमाः प्रास्थुः ।  
+> प्रतिष्ठंते । उतापि च धारयित्वा च हे वाजा ऋभवो विश्वे यूयमग्रियाग्राहर्हा  
+> अग्रत्वसंपादिनो ना अभूत । भवथ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभूदु वो विधते रत्न धेयमिदा नरो दाशुषे मर्त्याय ।
+> पिबत वाजा ऋभवो ददे वो महि तृतीयं सवनं
+> मदाय ॥ ४ ॥
+
+> *abhūdu vo vidhate ratna dheyamidā naro dāśuṣe martyāya |*
+> *pibata vājā ṛbhavo dade vo mahi tṛtīyaṃ savanaṃ*
+> *madāya ‖ 4 ‖*
+
+##### Gist of the bhāṣya
+
+O Ṛbhus, this sacrifice has been made for you, which you, shining forth (प्रदिवः (*pradivaḥ*)), take up and hold in your belly like a man (मनुष्वत् (*manuṣvat*)). For that, Somas, enjoying (जुजुषाणासः (*jujuṣāṇāsaḥ*)) and facing you, have been set forth (प्रास्थुः (*prāsthuḥ*), they stand ready). And, O Vājas, Ṛbhus, having so held it, all of you have become worthy of the first cup (अग्रिया (*agriyā*)), obtaining the first place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- प्रदिवः (*pradivaḥ*)—you who are exceedingly resplendent
+- यं (*yaṃ*)—which sacrifice
+- मनुष्टत् (*manuṣṭat*)—like men
+- आ दधिध्वे (*ā dadhidhve*)—you hold (such)
+- अयं यज्ञः (*ayaṃ yajñaḥ*)—this sacrifice
+- वः (*vaḥ*)—for you
+- अकारि (*akāri*)—has been performed
+- जुजुषाणासः (*jujuṣāṇāsaḥ*)—the Soma juices fit to be enjoyed
+- वः अच्छ (*vaḥ accha*)—facing you
+- प्र अस्थुः (*pra asthuḥ*)—have been offered and made ready
+- ऊत (*ūta*)—and
+- वाजाः (*vājāḥ*)—O Ṛbhus
+- विश्वे (*viśve*)—all of you
+- अग्रिया (*agriyā*)—worthy of first worship
+- अभूत (*abhūta*)—you have become
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, this sacrifice, which you, exceedingly resplendent, take up like men, has been performed for you. The Soma juices fit to be enjoyed have been offered and made ready facing you. O Ṛbhus, all of you have become worthy of first worship.
+
+### Printed p. 320
+
+##### English translation (H. H. Wilson)
+This sacrifice, Ribhus, has been instituted for you; you, who are eminently resplendent, have accepted this after the manner of men: before you have the propitiatory (libations) been placed, for Vajas, you are all entitled to precedence.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभूत् । ऊं इति । वः । विधते । रत्नधेयं । इदा । नरः । दाशुषे । मर्त्याय ।  
+> पिब॑त । वाजाः । ऋभवः । द॒दे । वः ।॒ महि॑ । तृ॒तीयं॒ । सव॑नं॒ । मदा॑य ॥ ४ ॥
+
+> *abhūt | ūṃ iti | vaḥ | vidhate | ratnadheyaṃ | idā | naraḥ | dāśuṣe | martyāya |*  
+> *pibata | vājāḥ | ṛbhavaḥ | dade | vaḥ | mahi | tṛtīyaṃ | savanaṃ | madāya ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हे नरो नेतार ऋभवो वो युष्माकमनुग्रहादिदेदानीं तृतीये  
+> सवने रत्नधेयं दातव्यं रत्नं विधते । विधतिः परिचरणकर्मा । स्तुत्या परिचरते  
+> दाशुषे हविर्दत्तवते मर्त्याय यजमानाय मह्यमभूत् । भवतु । तदर्थं हे  
+> वाजा हे ऋभवः । एतद्वयं विभ्वनामकस्याप्युपलक्षणं । इतरापेक्षया प्रत्येकं  
+> बहुवचनं । यूयं पिबत । तदर्थं वो ददे । किं । महि महत्प्रभूतं तृतीयं  
+> सवनं । तत्संबंधिनं सोममित्यर्थः । किमर्थं । मदाय हर्षाय तृप्तये वा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ वाजा यातोप न ऋभुक्षा महो नरो द्रविणसो
+> गृणानाः ।
+> आ वः पीतयोभिपित्वे अह्नामिमा अस्तं नवस्व इव ग्मन् ॥ ५ ॥
+
+> *ā vājā yātopa na ṛbhukṣā maho naro draviṇaso*
+> *gṛṇānāḥ |*
+> *ā vaḥ pītayobhipitve ahnāmimā astaṃ navasva iva gman ‖ 5 ‖*
+
+##### Gist of the bhāṣya
+
+O leaders, Ṛbhus, by your favour now, at the third pressing, let the treasure to be given (रत्नधेयं (*ratnadheyaṃ*)) be for me, the mortal, the sacrificer, who serves you with praise (विधते (*vidhate*); विधतिः (*vidhatiḥ*) is a verb of serving) and has given the oblation (दाशुषे (*dāśuṣe*)). For that, O Vājas, O Ṛbhus (these two are also indicative of Vibhvan; the plural is for each in relation to the others), drink. For that I have given (ददे (*dade*)) to you: what? The great, abundant (महि (*mahi*)) third pressing, that is, the Soma belonging to it. For what purpose? For exhilaration, for joy or satisfaction (मदाय (*madāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O Ṛbhus, the leaders
+- वः (*vaḥ*)—by your favour
+- इदा (*idā*)—at this time of the third pressing
+- विधते (*vidhate*)—to him who offers worship to you
+- दाशुषे (*dāśuṣe*)—and offers oblation
+- मर्त्याय (*martyāya*)—to the sacrificer
+- रत्नधेयं (*ratnadheyaṃ*)—the wealth fit to be given in return for his worship
+
+### Printed p. 321
+- अभूत् (*abhūt*)—let it be given
+- वाजाः ऋभवः (*vājāḥ ṛbhavaḥ*)—O Vājas and Ṛbhus, joined with Vibhvan
+- वः (*vaḥ*)—your
+- मदाय (*madāya*)—for the attainment of joy
+- महि (*mahi*)—abundant
+- तृतीयं सवनं (*tṛtīyaṃ savanaṃ*)—the Soma fit to be offered at the third pressing
+- ददे (*dade*)—has been offered
+- पिबत (*pibata*)—drink it
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, leaders, at this time of the third pressing let the wealth fit to be given in return for his worship be given, by your favour, to the sacrificer who offers you worship and oblation. O Ṛbhus, for the attainment of joy by you three, abundant Soma fit to be offered at the third pressing has been offered. Drink it.
+
+##### English translation (H. H. Wilson)
+Now, leaders (of rites), the treasure that ought to be presented is to be given to the mortal performing (the sacred rite), the offerer (of the libation): drink, Vajas, (drink), Ribhus: I present it to you at the third solemn (diurnal) ceremony for your exhilration.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ । वा॑जाः । या॒त । उप॑ । नः । ऋभुक्षाः । म॒हः । न॑रः ।॒ द्रवि॑णसः । गृणा॒नाः ॥  
+> आ । वः॑ । पी॒तयः । अ॑भिपि॒त्वे । अह्नां॑ । इ॒माः । अस्तं॑ । नव॒स्वः॑ इव । ग्मन् ॥ ५ ॥
+
+> *ā | vājāḥ | yāta | upa | naḥ | ṛbhukṣāḥ | mahaḥ | naraḥ | draviṇasaḥ | gṛṇānāḥ ‖*  
+> *ā | vaḥ | pītayaḥ | abhipitve | ahnāṃ | imāḥ | astaṃ | navasvaḥ iva | gman ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हे वाजा ऋभुक्षा नरो नेतारो यूयं न उपा यात ! किं कुर्वंतः ।  
+> महो महतो द्रविणसो धनस्य ॥ कर्मणि षष्ठौ ॥ महत् द्रविणं गृणानाः ।  
+> 21
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+##### Gist of the bhāṣya
+
+O Vājas, Ṛbhukṣans, leaders, come to us. Doing what? Praising (गृणानाः (*gṛṇānāḥ*)) great (महः (*mahaḥ*)) wealth (द्रविणसः (*draviṇasaḥ*)); the genitive is in the sense of the object, "praising great wealth". The block breaks off here.
+
 ---
 
-**Progress note:** Done through printed p. 315. pp. 310-315 (batch API)
+**Progress note:** Done through printed p. 321. pp. 316-321 (batch API)
