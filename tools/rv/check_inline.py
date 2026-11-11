@@ -5,7 +5,7 @@ Whitespace, hyphens, ZWJ/ZWNJ and '|' are ignored. Prints mismatches; exit 1 if 
 import re, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import convert
-norm = lambda s: re.sub(r'[\s‌‍\-–|>]+', '', s)   # '>' = block prefix of kn.md lines (a span over a line break inside a block matches)
+norm = lambda s: re.sub(r'[\s‌‍\-–|>।]+', '', s)   # '>' = block prefix of kn.md lines (a span over a line break inside a block matches); the single danda is ignored too, so words quoted from a Pada-pāṭha match
 def mismatches(d):
     e, k = os.path.join(d, 'en.md'), os.path.join(d, 'kn.md')
     if not (os.path.exists(e) and os.path.exists(k)): return []

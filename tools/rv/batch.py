@@ -169,7 +169,8 @@ def cmd_check(a):
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
-    pdfs=[p['pdf'] for p in pg if p.get('pdf')]; res=numerals.check(cfg,pdfs,kn,en) if cfg.numeral_files() else numerals.check(cfg,[],kn,en,rows=[])
+    knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
+    pdfs=[p['pdf'] for p in pg if p.get('pdf')]; res=numerals.check(cfg,pdfs,knr,en) if cfg.numeral_files() else numerals.check(cfg,[],knr,en,rows=[])
     print(numerals.report(res))
     if res['near']: fail.append(f"{len(res['near'])} numerals differ from the numeral file by 1-2 characters (the file is the reference: correct kn.md, or tell the user)")
     if res['twin_bad']: fail.append(f"English references without Kannada twin: {res['twin_bad']}")
