@@ -19284,6 +19284,304 @@ O Vāyu, may the horses, swift as the speed of thought, fitted to one another, n
 ##### English translation (H. H. Wilson)
 May the ninety-nine steeds harnessed together, that are as swift as thought, convey you : come, Vayu, with your brilliant car, to drink the Soma juice.
 
+### Printed p. 488
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वायो॑ श॒तं हरी॑णां यु॒वस्व॒ पोष्या॑णां ।  
+> उ॒त वा॑ ते सह॒स्रिणो॒ रथ॒ आ या॑तु॒ पाज॑सा ॥ ५ ॥
+
+> *vāyo śataṃ harīṇāṃ yuvasva poṣyāṇāṃ |*  
+> *uta vā te sahasriṇo ratha ā yātu pājasā ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वायो इति । शतं । हरीणां । युवस्व । पोष्याणां ।  
+> उत । वा । ते । सहस्रिणः । रथः । आ । यातु । पाजसा ॥ ५ ॥
+
+> *vāyo iti | śataṃ | harīṇāṃ | yuvasva | poṣyāṇāṃ |*  
+> *uta | vā | te | sahasriṇaḥ | rathaḥ | ā | yātu | pājasā ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वायो शतमिति पंचमी पूर्वोक्त एव तृचे तृतीया । सूत्रं पूर्वमेवोक्तं ॥
+> हे वायो त्वं पोष्याणां पोषणीयानां हरीणां शतं युवस्व ।
+> योजय रथे । उत वा अथवा ते सहस्रिणः सहस्रसंख्यापूरका अश्वाः । तैर्यक्तो
+> रथः पाजसा बलेना यातु । आगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+The Ṛk वायो शतं (*vāyo śataṃ*) is the third of the triplet already mentioned; the sūtra was stated earlier. O Vāyu, yoke to your chariot a hundred of the horses that are fit to be nourished. Or else your chariot, yoked with horses that make up a thousand, is to come with force (पाजसा (*pājasā*), "with strength").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- पोष्याणां (*poṣyāṇāṃ*)—fit to be nourished
+- हरीषां (*harīṣāṃ*)—of horses **NOTE**
+- शतं (*śataṃ*)—a hundred
+- युजस्व (*yujasva*)—yoke to the chariot **NOTE**
+- उत वा (*uta vā*)—and (or)
+- सहस्रिणः (*sahasriṇaḥ*)—joined with a thousand horses
+- ते (*te*)—your
+- रथः (*rathaḥ*)—chariot
+- पाजसा (*pājasā*)—with its strength
+- आ यातु (*ā yātu*)—may it come
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, yoke to your chariot a hundred horses fit to be nourished (or well-fed). Or else let your chariot, joined with a thousand horses, come with its strength.
+
+##### English translation (H. H. Wilson)
+Harness, Vayu, a hundred plump steeds, or even a thousand, and let your chariot come with rapidity (hither).
+
+### Printed p. 489
+
+##### विशेषविषयगळु (Special Topics)
+
+It is stated in the viniyoga of this sūkta (p. 483) that this Ṛk वायो शतं हरीणां (*vāyo śataṃ harīṇāṃ*) is to be used as the third Ṛk of the triplet mentioned there.
+
+## Sūkta 49 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं नामास्य इति षडृचं चतुर्थं सूक्तं वामदेवस्यार्षं गायत्रमैंद्राबार्हस्पत्यं । अत्रानुक्रमणिका । इदं वां षळ्यॆंद्राबार्हस्पत्यं गायत्रमिति ।
+> सूक्तविनियोगो लैंगिकः ॥
+> अनुवादवु—इदं वामास्ये ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि नाल्कनॆय सूक्तवु.
+> इदरल्लि आरु ऋक्कुगळिरुवुवु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; इंद्र मत्तु बृहस्पतियु
+> देवतॆगळु ; गायत्रीभंदस्सु. अनुक्रमणिकॆयल्लि इदं वां षळ्ळैंद्राबार्हस्पत्यं गायत्रं
+> ऎंदु हेळिरुवुदु. सूक्तविनियोगवु लैंगिकवु.
+> सूक्त—४९
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—८९ ॥
+> अष्टक—३ ॥ अध्याय—७ ॥ वर्ग—२५ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—६ ॥
+> ऋषिः—वामदेवः ।
+> देवता—इंद्राबृहस्पती ॥
+> छंदः—गायत्री ॥
+
+##### Gist of the bhāṣya
+
+The sūkta इदं वां (*idaṃ vāṃ*), of six Ṛks, is the fourth sūkta; its seer is Vāmadeva, its metre Gāyatrī, its deities Indra and Bṛhaspati. The Anukramaṇikā says: इदं वां षळ्यॆंद्राबार्हस्पत्यं गायत्रमिति (*idaṃ vāṃ ṣaḷyèṃdrābārhaspatyaṃ gāyatramiti*). The use of the sūkta is लैंगिकः (*laiṃgikaḥ*). The Kannada adds: it is the fourth sūkta in the fifth anuvāka; Sūkta 49, Maṇḍala 4, Anuvāka 5, Sūkta 89, Aṣṭaka 3, Adhyāya 7, Varga 25, six Ṛks.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं वा॑मा॒स्ये॑ ह॒विः प्रि॒यमिं॑द्राबृहस्पती ।  
+> उ॒कथं मद॑श्च शस्यते ॥ १ ॥
+
+> *idaṃ vāmāsye haviḥ priyamiṃdrābṛhaspatī |*  
+> *ukathaṃ madaśca śasyate ‖ 1 ‖*
+
+### Printed p. 490
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । वां । आस्ये । हविः । प्रियं । इंद्रा बृहस्पती इति ।  
+> उक्कं । मदः ! च । शस्यते ॥ १ ॥
+
+> *idaṃ | vāṃ | āsye | haviḥ | priyaṃ | iṃdrā bṛhaspatī iti |*  
+> *ukkaṃ | madaḥ ! ca | śasyate ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राबृहस्पती वामास्य इदं प्रियं हविः सोमरूपं प्रक्षिपामीति शेषः।
+> उक्तं शस्त्रं च मदो मदजनकं शस्यते ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Bṛhaspati, "I offer this dear oblation, in the form of Soma, into your mouths" (the words to be supplied). The recited hymn (उक्तं शस्त्रं (*uktaṃ śastraṃ*)) and the exhilarating drink are also offered.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राबृहस्पती (*iṃdrābṛhaspatī*)—O Indra and Bṛhaspati
+- वां (*vāṃ*)—your
+- अस्यॆ (*asyè*)—in the mouth
+- इदं (*idaṃ*)—this, prepared here
+- प्रियं (*priyaṃ*)—pleasing
+- हविः (*haviḥ*)—oblation in the form of Soma (I offer)
+- मदः (*madaḥ*)—gladdening
+- उक्तं च (*uktaṃ ca*)—and the śastra mantra also
+- शस्यते (*śasyate*)—is recited and offered
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Bṛhaspati, I offer in your mouths this oblation in the form of Soma, prepared here and very dear to you. And I recite the gladdening śastra mantra and offer it to you.
+
+##### English translation (H. H. Wilson)
+(I present) the agreeable oblation to your mouths, Indra and Brihaspati, and the hymn and the exhilarating beverage are offered.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं वां॒ परि॑ षिच्यते॒ सोम॑ इंद्राबृहस्पती ।  
+> चारु॒र्मदा॑य पी॒तये॑ ॥ २ ॥
+
+> *ayaṃ vāṃ pari ṣicyate soma iṃdrābṛhaspatī |*  
+> *cārurmadāya pītaye ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । वां । परि । सिच्यते । सोमः । इंद्राबृहस्पती इति ।  
+> चारुः । मदाय । पीतये ॥ २ ॥
+
+> *ayaṃ | vāṃ | pari | sicyate | somaḥ | iṃdrābṛhaspatī iti |*  
+> *cāruḥ | madāya | pītaye ‖ 2 ‖*
+
+### Printed p. 491
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राबृहस्पती वामास्ये चारुः शोभनोऽयं सोमः परि षिच्यते ।
+> परितो दीयते । मदाय हर्षाय पीतये पानाय च ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Bṛhaspati, in your mouths this beautiful Soma is poured all around, for your exhilaration and for drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राबृहस्पती (*iṃdrābṛhaspatī*)—O Indra and Bṛhaspati
+- वां (*vāṃ*)—your (in the mouth)
+- चारु (*cāru*)—beneficial
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma juice
+- पीतये (*pītaye*)—for your drinking
+- मदाय (*madāya*)—for your gladness
+- परि षिच्यते (*pari ṣicyate*)—is offered all around
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Bṛhaspati, in your mouths this beneficial Soma is offered all around, for your drinking and thereby for your gaining delight.
+
+##### English translation (H. H. Wilson)
+The delicious Soma is effused, Indra and Brihaspati, for you, for (your) drinking and exhilaration.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॑ इंद्राबृहस्पती गृ॒हमिंद्र॑श्च गच्छतं ।  
+> सो॒म॒पा सोम॑पीतये ॥ ३ ॥
+
+> *ā na iṃdrābṛhaspatī gṛhamiṃdraśca gacchataṃ |*  
+> *somapā somapītaye ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । इंद्राबृहस्पती इति । गृहं । इंद्रः । च । गच्छतं ।  
+> सोमस्या । सोमपीतये ॥ ३ ॥
+
+> *ā | naḥ | iṃdrābṛhaspatī iti | gṛhaṃ | iṃdraḥ | ca | gacchataṃ |*  
+> *somasyā | somapītaye ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऐंद्राबार्हस्पत्यायामिष्टौ प्रधानस्या न इंद्रेति तृतीयानुवाक्योत्तरा
+> याज्या । सूत्रितं च । आ न इंद्राबृहस्पती अस्मे इंद्राबृहस्पती । आ. २-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Aindrābārhaspatya iṣṭi, in the principal offering, आ न इंद्र (*ā na iṃdra*) is the puronuvākyā and the one following is the yājyā; this is stated in the sūtra आ न इंद्राबृहस्पती अस्मे इंद्राबृहस्पती । आ. २-११ । (*ā na iṃdrābṛhaspatī asme iṃdrābṛhaspatī | ā. 2-11 |*) (Ā. 2-11). **NOTE**
+
+### Printed p. 492
+
+> हे इंद्राबृहस्पती । अथ विविच्योच्यते । हे बृहस्पते त्वं चेंद्रश्च सोमपा
+> सोमपौ युवां सोमपीतये सोमपानाय नो गृहमस्मद्यागसंबंध्या
+> गच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Bṛhaspati — now it is stated separately: O Bṛhaspati, you and Indra, both Soma-drinkers, come to our house, connected with our sacrifice, to drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राबृहस्पती (*iṃdrābṛhaspatī*)—O Indra and Bṛhaspati
+- इंद्रश्च (*iṃdraśca*)—(O Bṛhaspati, you) and Indra
+- सोमपा (*somapā*)—as drinkers of Soma
+- सोमपीतये (*somapītaye*)—for drinking Soma
+- नः (*naḥ*)—our
+- गृहं (*gṛhaṃ*)—to the house
+- आ गच्छतं (*ā gacchataṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Bṛhaspati, you two, drinkers of Soma, come to our house to drink the Soma.
+
+##### English translation (H. H. Wilson)
+Indra and Brihaspati, come to our dwelling, drinkers of Soma, to drink the Soma juice.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the iṣṭi called Aindrābārhaspatya, offered to Indra and Bṛhaspati, at the principal homa this Ṛk आ न इंद्रा (*ā na iṃdrā*) is to be used as the puronuvākyā mantra and the next Ṛk अस्मे इंद्राबृहस्पती (*asme iṃdrābṛhaspatī*) as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra आ न इंद्राबृहस्पती अस्मे इंद्राबृहस्पती (*ā na iṃdrābṛhaspatī asme iṃdrābṛhaspatī*) (Ā. 2-11).
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे इं॑द्राबृहस्पती र॒यिं ध॑त्तं शत॒ग्विनं॑ ।  
+> अश्वा॑वंतं सह॒स्रिणं॑ ॥ ४ ॥
+
+> *asme iṃdrābṛhaspatī rayiṃ dhattaṃ śatagvinaṃ |*  
+> *aśvāvaṃtaṃ sahasriṇaṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । इंद्राबृहस्पती इति । रयिं । धत्तं । शतग्विनं ।  
+> अश्ववंतं । सहस्रिणं ॥ ४ ॥
+
+> *asme iti | iṃdrābṛhaspatī iti | rayiṃ | dhattaṃ | śatagvinaṃ |*  
+> *aśvavaṃtaṃ | sahasriṇaṃ ‖ 4 ‖*
+
+### Printed p. 493
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्या विनियोगः पूर्वमंत्रेण सहोक्तः । हे इंद्राबृहस्पती अस्मे अस्मभ्यं
+> रयिं धनं धत्तं । कीदृशं रयिं । शतग्विनं शतसंख्याकाभिर्गोभिर्युक्तमश्वावंतमश्ववंतं सहस्रिणं सहस्रसंख्यायुक्तं ॥
+
+##### Gist of the bhāṣya
+
+The use of this Ṛk was stated together with the previous mantra. O Indra and Bṛhaspati, give us wealth. Of what kind? शतग्विनं (*śatagvinaṃ*): joined with a hundred cattle; अश्वावंतं (*aśvāvaṃtaṃ*) = अश्ववंतं (*aśvavaṃtaṃ*): having horses; सहस्रिणं (*sahasriṇaṃ*): joined with the number a thousand.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राबृहस्पती (*iṃdrābṛhaspatī*)—O Indra and Bṛhaspati
+- शतग्विनं (*śatagvinaṃ*)—accompanied by a hundred cows
+- सहस्रिणं (*sahasriṇaṃ*)—numbering a thousand
+- अश्ववंतं (*aśvavaṃtaṃ*)—accompanied by horses
+- रयिं (*rayiṃ*)—wealth
+- अस्मे (*asme*)—to us
+- दत्तं (*dattaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Bṛhaspati, give us wealth that is accompanied by a hundred cows and by a thousand horses.
+
+##### English translation (H. H. Wilson)
+Grant to us, Indra and Brihaspati, riches comprising a hundred (cattle), a thousand horses.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॒बृह॒स्पती॑ व॒यं सु॒ते गी॒र्भिर्ह॑वामहे ।  
+> अ॒स्य सोम॑स्य पी॒तये॑ ॥ ५ ॥
+
+> *iṃdrābṛhaspatī vayaṃ sute gīrbhirhavāmahe |*  
+> *asya somasya pītaye ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राबृहस्पती इति । वयं । सुते । गीःभिः । हवामहे ।  
+> अस्य । सोमस्य । पीतये ॥ ५ ॥
+
+> *iṃdrābṛhaspatī iti | vayaṃ | sute | gīḥbhiḥ | havāmahe |*  
+> *asya | somasya | pītaye ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुते सोमेऽभिषुते गीर्भिः स्तुतिभिः । शिष्टं गतं ॥
+
+##### Gist of the bhāṣya
+
+सुते (*sute*): when the Soma has been pressed; गीर्भिः (*gīrbhiḥ*): with praises. The rest has been explained.
+
 ---
 
-**Progress note:** Done through printed p. 487. pp. 482-487 (batch API)
+**Progress note:** Done through printed p. 493. pp. 488-493 (batch API)
