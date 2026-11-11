@@ -12397,6 +12397,170 @@ Here Hemanta is common to both. There is no separate division called the Śiśir
 त्रिनाभि चक्रमजरमनर्वं यत्रेमा विश्वा भुवनाधि तस्थुः । (*trinābhi cakramajaramanarvaṃ yatremā viśvā bhuvanādhi tasthuḥ |*)
 (Ṛ. Saṃ. 1-164-2)
 
+### Printed p. 343
+In the phrase त्रिनाभि चक्रं (*trinābhi cakraṃ*) the word *trinābhi* ("three-naved") points to the parts of the year. Explaining this passage, the Nirukta-writers say:
+
+संवत्सरप्रधान उत्तरोर्धर्चस्त्रिनाभिचक्रं त्रैशितुः संवत्सरो ग्रीष्मो वर्षा हेमंत इति ॥ (*saṃvatsarapradhāna uttarordharcastrinābhicakraṃ traiśituḥ saṃvatsaro grīṣmo varṣā hemaṃta iti ‖*) (Ni. 4-26).
+
+This year consists of three naves. The naves are the Grīṣma (summer) season, the Varṣā (rainy) season and the Hemanta (winter) season. This year, made of three seasons, is described as त्रिनाभिचक्रं (*trinābhicakraṃ*). The meaning is that Āditya (the sun) turns by repetition the wheel of the year, which has these parts, which like a wheel goes round again and again, and which is ageless and without a rival (*anarva*). Supporting this very meaning, the Śatapatha Brāhmaṇa says:
+
+तिस्रो रात्रिर्व्रतं चरति (*tisro rātrirvrataṃ carati*) त्रयो वा ऋतवः संवत्सरस्य .... .... (*trayo vā ṛtavaḥ saṃvatsarasya .... ....*) (Śa. Brā. 14-1-1-28).
+
+This rule is that there are to be three nights. Since the year has three seasons, the rule must follow this number. This year is Āditya. In such places only the number three is stated, yet in the Ṛksaṃhitā the names themselves are expressly stated:
+
+यत्पुरुषेण हविषा देवा यज्ञमतन्वत । वसंतो अस्यासीदाज्यं ग्रीष्म इध्मश्वरद्भविः ॥ (*yatpuruṣeṇa haviṣā devā yajñamatanvata | vasaṃto asyāsīdājyaṃ grīṣma idhmaśvaradbhaviḥ ‖*) (Ṛ. Saṃ. 10-90-6).
+
+This sacrifice, which has the form of the Puruṣa, reflects the principle of the year. For it, spring is the ghee, summer the fuel, and autumn the oblation: thus the names of three seasons are given. But in the sentence पंचपादं पितरं द्वादशाकृतिं (*paṃcapādaṃ pitaraṃ dvādaśākṛtiṃ*) (1-164-12), "five-footed" means five seasons. एतत् हेमंतशिशिरयोः एकत्राभिप्रायं (*etat hemaṃtaśiśirayoḥ ekatrābhiprāyaṃ*) **NOTE**. There is no separate Śiśira; Hemanta and Śiśira together make one. Hence the number five is in order. In contrast, in sentences such as साकंजानां सप्तथमाहुरेकजं (*sākaṃjānāṃ saptathamāhurekajaṃ*) (1-164-15) seven seasons are indicated; here the Śiśira season has a place of its own. Moreover: चैत्रादीनां द्वादशानां मासानां द्वयमेलनेन वसंताद्याः षडृतवो भवंति । अधिकमासेन एकः उत्पद्यते सप्तमर्तुः । (*caitrādīnāṃ dvādaśānāṃ māsānāṃ dvayamelanena vasaṃtādyāḥ ṣaḍṛtavo bhavaṃti | adhikamāsena ekaḥ utpadyate saptamartuḥ |*). Caitra and Vaiśākha together make one season; thus one season for each pair of months, and another season for the intercalary month. So there are six for twelve months, and a seventh season for the thirteenth month; this too is so. To call Hemanta and Śiśira together by the single name Hemanta-Śiśira is customary in the Taittirīya Saṃhitā and similar works.
+
+### Printed p. 344
+वसंतमृतूनां प्रीणामि स मा प्रीतः प्रीणातु ग्रीष्ममृतूनां प्रीणामि स मा प्रीतः प्रीणातु । वर्षाऋतूनां प्रीणामि ता मा प्रीताः प्रीणंतु । शरदमृतूनां प्रीणामि सा मा प्रीता प्रिणातु । हेमंतशिशिरावृतूनां प्रीणामि तौ मा प्रित्वा प्रीणीतां ॥ (*vasaṃtamṛtūnāṃ prīṇāmi sa mā prītaḥ prīṇātu grīṣmamṛtūnāṃ prīṇāmi sa mā prītaḥ prīṇātu | varṣāṛtūnāṃ prīṇāmi tā mā prītāḥ prīṇaṃtu | śaradamṛtūnāṃ prīṇāmi sā mā prītā priṇātu | hemaṃtaśiśirāvṛtūnāṃ prīṇāmi tau mā pritvā prīṇītāṃ ‖*) (Śai. Saṃ. 1-6-2). **NOTE**
+
+I satisfy the spring season; may it, satisfied, gladden me. I satisfy the summer season; may it, satisfied, satisfy me. I nourish the rainy season; may it, nourished, gladden me. I satisfy the autumn season; may it, satisfied, satisfy me. I satisfy the Hemanta-Śiśira seasons; may they, satisfied, satisfy me. Thus the number of the seasons is stated, and it is expressly given as five. Supporting this, पंचोपदधाति । पंच वा ऋतवः (*paṃcopadadhāti | paṃca vā ṛtavaḥ*): here a definite count of five is made. Likewise, in sentences such as ग्रीष्मो हेमंत उत नो वसंतश्वरद्वर्षास्सुवितं नो अस्तु (*grīṣmo hemaṃta uta no vasaṃtaśvaradvarṣāssuvitaṃ no astu*), five seasons without Śiśira are stated in many places. This number agrees with the number in the Ṛksaṃhitā sentence पंचारे चक्रे (*paṃcāre cakre*).
+
+In the Taittirīya Brāhmaṇa, when the nature of Āditya is described, the seasons are given as his limbs in this way:
+
+संवत्थरोऽसि परिवत्थरोऽसि । इदावत्सरोऽसि दुवत्सरोऽसि । इद्वत्सरोऽसि वत्सरोऽसि तस्य ते वसंतश्शिरः । ग्रीष्मो दक्षिणः पक्षः । वर्षाः पुच्छं । शरदुत्तरः पक्षः । हेमंतो मध्यं । (*saṃvattharo 'si parivattharo 'si | idāvatsaro 'si duvatsaro 'si | idvatsaro 'si vatsaro 'si tasya te vasaṃtaśśiraḥ | grīṣmo dakṣiṇaḥ pakṣaḥ | varṣāḥ pucchaṃ | śaraduttaraḥ pakṣaḥ | hemaṃto madhyaṃ |*) (Tai. Brā. 3-10-4-1).
+
+For this Āditya the Grīṣma season is the right wing, the rainy season the tail, the autumn season the left wing, Hemanta the middle, and spring, the foremost of all, the head: so the description is both material and spiritual. Here too Śiśira is included within Hemanta.
+
+But in the Śatapatha Brāhmaṇa there is a difference of another kind. Here the description of the form of the sacrificial Self is made up of limbs that are seasons. Instead of joining the Hemanta and Śiśira seasons as elsewhere, it joins the rainy season and autumn together as वर्षाशरदावृतू (*varṣāśaradāvṛtū*). There are also places where Hemanta and Śiśira are divided and the names of six seasons are stated together: षड्भिः पचति । षड्वा ऋतवः । ऋतुभिरेवैनां पचति (*ṣaḍbhiḥ pacati | ṣaḍvā ṛtavaḥ | ṛtubhirevaināṃ pacati*) (Tai. Saṃ. 5-1-7-2) and similar passages state "six" plainly.
+
+### Printed p. 346
+When the division is made into six in this way, the description of the present Ṛk is that the first three seasons show one power of the year and the other three another power. Among them, Grīṣma, Varṣā and Hemanta are described as *tripājasya*, and Vasanta, Śarad and Hemanta as *tryudhā*. It was thus said that in these seasons brightness and strength, these two qualities, belong first to the group of three, while the bestowing of wealth and wholesome things belongs to the second group of three. But the power of the seasons is reckoned in one way in one place and in another way elsewhere. For example, the Śatapatha Brāhmaṇa says that the Prayāja sacrifice, the root of all victory, is the essence of the principle of the seasons. In the Prayāja sacrifice the five, Samidh, Tanūnapāt, Iḍa, Barhi and Svāhā, are the chief principles. These five exert their influence on the five seasons in order, and in accordance with that influence the five seasons become fruitful to the sacrificer. This is described in the present Ṛk by *retodhāḥ*.
+
+ऋतवो ह वै प्रयाजाः । तस्मात्पंच भवंति पंच हृतवः । देवाश्च वा असुराश्च । उभये प्राजापत्याः पस्प धिर एतस्मिन् यज्ञे प्रजापत् पितरि संवत्सरेऽस्माकमयं भविष्यत्यस्माकमयं भविष्यतीति । (*ṛtavo ha vai prayājāḥ | tasmātpaṃca bhavaṃti paṃca hṛtavaḥ | devāśca vā asurāśca | ubhaye prājāpatyāḥ paspa dhira etasmin yajñe prajāpat pitari saṃvatsare 'smākamayaṃ bhaviṣyatyasmākamayaṃ bhaviṣyatīti |*) (Śa. Brā. 1-5-3-1, 2).
+
+The year is the principle of Prajāpati. The gods and the asuras, both born of Prajāpati, fell into doubt about their father Prajāpati, who is the year, and quarrelled. The gods insisted that it belonged to them, the asuras that it belonged to them.
+
+ततो देवाः । अर्चंतः श्राम्यंतश्चेरुस्त एतान् प्रयाजान् ददृशुस्त्यैरयजंत तैर्यतून् संवत्सरं प्राजयन्नृतुभ्यः संवत्सरात्सपत्नान् .... .... .... तस्मात्संवत्सरात्सपत्नानंतरेति ॥ (*tato devāḥ | arcaṃtaḥ śrāmyaṃtaścerusta etān prayājān dadṛśustyairayajaṃta tairyatūn saṃvatsaraṃ prājayannṛtubhyaḥ saṃvatsarātsapatnān .... .... .... tasmātsaṃvatsarātsapatnānaṃtareti ‖*) (Śa. Brā. 1-5-3-3).
+
+Then the gods, worshipping and practising austerity, propitiated the deity presiding over the year. They saw the Prayāja and with its help made their worship. Then they won over the seasons and the year.
+
+स आश्राव्याह । समिधो यजेति तद्वसंतग्ं समिंधे । स वसंतः समिद्धोऽन्यानृतून् समिंध ऋतवः समिद्धाः प्रजाश्च प्रजनयंत्योषधीश्च पचंति । (*sa āśrāvyāha | samidho yajeti tadvasaṃtagṃ samiṃdhe | sa vasaṃtaḥ samiddho 'nyānṛtūn samiṃdha ṛtavaḥ samiddhāḥ prajāśca prajanayaṃtyoṣadhīśca pacaṃti |*) (Śa. Brā. 1-5-3-8).
+
+Then the Adhvaryu says to the Hotṛ, "Recite the yājyā mantra to the fuel-sticks." Then spring is kindled. The kindled spring brings forth the other seasons too. All the other seasons, kindled, cause the birth of creatures and make the plants bear fruit.
+
+स वै समिधो यजति । वसंतो वै समिद्वसंतमेव तद्देवा अवृंजत वसंतात्सपत्नानंतरायन् .... .... .... वसंतात्सपत्नानंतरेति । (*sa vai samidho yajati | vasaṃto vai samidvasaṃtameva taddevā avṛṃjata vasaṃtātsapatnānaṃtarāyan .... .... .... vasaṃtātsapatnānaṃtareti |*) (Śa. Brā. 1-5-3-9). **NOTE**
+
+Then he recites the yājyā mantra to the fuel-sticks. The presiding deity of this fuel is spring itself. On this occasion the gods won over spring and destroyed the enemies of spring. Therefore spring is a bringer of victory.
+
+अथ तनूनपातं यजति । ग्रीष्मो वै तनूनपात् ग्रीष्मो ह्यासां प्रजानां तनूस्तपति ग्रीष्ठमेव तद्देवा अवृंजत ग्रीष्मात्सपत्नानंतरायन् ॥ (*atha tanūnapātaṃ yajati | grīṣmo vai tanūnapāt grīṣmo hyāsāṃ prajānāṃ tanūstapati grīṣṭhameva taddevā avṛṃjata grīṣmātsapatnānaṃtarāyan ‖*) (Śa. Brā. 1-5-3-10).
+
+Then he recites the yājyā to the deity Tanūnapāt. The gods won over Grīṣma, which burns enemies, by this mantra and by worship, and made it so that the fruit of Grīṣma did not reach their enemies.
+
+अथेडो यजति । वर्षा वा इड इति हि वर्षा इडो यदिदं क्षुद्रग्ंसरीसृपं ग्रीष्महेमंताभ्यां नित्यक्तं भवति तद्वर्षा ईडितमिवान्नमिच्छमानं चरति....॥ (*atheḍo yajati | varṣā vā iḍa iti hi varṣā iḍo yadidaṃ kṣudragṃsarīsṛpaṃ grīṣmahemaṃtābhyāṃ nityaktaṃ bhavati tadvarṣā īḍitamivānnamicchamānaṃ carati....‖*) (Śa. Brā. 1-5-3-11).
+
+Then, at the time of reciting the yājyā to Iḍa, the gods won over the rainy season. Creatures troubled in the summer and in the Hemanta season regain vitality again in this season, and they announce rain.
+
+In the same way, when the mantra is recited to Barhi, they won over the deity presiding over autumn. All the plants that were struck down in Grīṣma and Hemanta regain vitality in this season. When the recitation is made to the deity Svāhā, they made present to themselves Hemanta, the end of the year. They made it so that the final benefit of the year did not fall to the asuras. These seasons, which accomplished the desired aims of the gods, grant desired aims to man also. This very point is stated in the Taittirīya Saṃhitā in sentences such as "he recites to the fuel-sticks; he wins spring among the seasons":
+
+समिधो यजति वसंतमेवर्तूनामवरुंधे तनूनपातं यजति ग्रीष्ममेवावरुंध इडो यजति वर्षा एवावरुंधे बर्हिर्यजति शरदमेवावरुंधे (*samidho yajati vasaṃtamevartūnāmavaruṃdhe tanūnapātaṃ yajati grīṣmamevāvaruṃdha iḍo yajati varṣā evāvaruṃdhe barhiryajati śaradamevāvaruṃdhe*)
+
+### Printed p. 347
+स्वाहाकारं यजति हेमंतमेवावरुंधे तस्मात्साहाकृता हेमन् पशवोऽव सीदंति समिधो यजत्युषस एव देवतानामवरुंधे तनूनपातं यजति यज्ञमेवावरुंधे इडो यजति पशूनेवावरुंधे बर्हिर्यजति प्रजामेवावरुंध समानयत उपभृतस्तेजो वा आज्यं प्रजा बर्हिः प्रजास्वेव तेजो दधाति स्वाहाकारं यजति वाचमेवावरुंदे ॥ (*svāhākāraṃ yajati hemaṃtamevāvaruṃdhe tasmātsāhākṛtā heman paśavo 'va sīdaṃti samidho yajatyuṣasa eva devatānāmavaruṃdhe tanūnapātaṃ yajati yajñamevāvaruṃdhe iḍo yajati paśūnevāvaruṃdhe barhiryajati prajāmevāvaruṃdha samānayata upabhṛtastejo vā ājyaṃ prajā barhiḥ prajāsveva tejo dadhāti svāhākāraṃ yajati vācamevāvaruṃde ‖*) (Tai. Saṃ. 2-6-1-1, 2). **NOTE**
+
+Besides this, the seasons have natural powers that also indicate the duties of the castes and stages of life.
+
+ब्रह्मैव वसंतः । क्षत्रं ग्रीष्मो विडेव वर्षास्तस्माद्ब्राह्मणो वसंत आदधीत ब्रह्म हि वसंतस्तस्मात् क्षत्रियो ग्रीष्म आदधीत क्षत्रग्ं हि ग्रीष्मस्त स्माद्वैश्यो वर्षास्वादधीत विड्डि वर्षाः (*brahmaiva vasaṃtaḥ | kṣatraṃ grīṣmo viḍeva varṣāstasmādbrāhmaṇo vasaṃta ādadhīta brahma hi vasaṃtastasmāt kṣatriyo grīṣma ādadhīta kṣatragṃ hi grīṣmasta smādvaiśyo varṣāsvādadhīta viḍḍi varṣāḥ*) (Śa. Brā. 2-1-3-5).
+
+Spring is of the nature of Brahman. Therefore a Brāhmaṇa should establish the fire in spring. Grīṣma is of the nature of the Kṣatra; therefore a Kṣatriya should do so in the Grīṣma season; and since the rainy season is of the nature of the Vaiśya, a Vaiśya should perform it in the rainy season.
+
+वसंता ब्राह्मणोऽग्निमादधीत । वसंतो वैब्राह्मणस्यर्तुः । स्व एवैनमृतावाधाय । ब्रह्मवर्चसी भवति । मुखं ना एतदृतूनां । यद्वसंतः । यो वसंताग्निमाधत्ते । मुख्य एव भवति । ग्रीष्मो वै राजन्यस्यर्तुः । स्व एवैनमृतावाधाय । इंद्रियावी भवति । शरदि वैश्य आदधीत । शरद्वै वैश्यस्यर्तुः । स्व एवैनमृतावाधाय । पशुमान् भवति । (*vasaṃtā brāhmaṇo 'gnimādadhīta | vasaṃto vaibrāhmaṇasyartuḥ | sva evainamṛtāvādhāya | brahmavarcasī bhavati | mukhaṃ nā etadṛtūnāṃ | yadvasaṃtaḥ | yo vasaṃtāgnimādhatte | mukhya eva bhavati | grīṣmo vai rājanyasyartuḥ | sva evainamṛtāvādhāya | iṃdriyāvī bhavati | śaradi vaiśya ādadhīta | śaradvai vaiśyasyartuḥ | sva evainamṛtāvādhāya | paśumān bhavati |*) (Tai. Brā. 1-1-2-6, 7).
+
+A Brāhmaṇa should perform the sacrifice in the spring season. For spring is the Brāhmaṇa's own season. If he sacrifices in his own season, he becomes endowed with Brahmanical splendour. This spring season is the first (or the chief) of all the seasons; therefore one who sacrifices in the chief season of all becomes esteemed and honoured among men. A Kṣatriya should sacrifice in the Grīṣma season, for Grīṣma is the Kṣatriya's own season. A Kṣatriya who sacrifices in his own season becomes mighty. A Vaiśya should sacrifice in the autumn season, for autumn is the Vaiśya's own season. A Vaiśya who sacrifices in his own season becomes possessed of wealth such as cattle. Thus the rule of seasons laid down for Brāhmaṇas, Kṣatriyas and Vaiśyas is stated here. This description of nature accords with the description in the present Ṛk, *traināka*, "having three qualities".
+
+### Printed p. 348
+Moreover, the description of threefold natures by epithets such as *tryudhā*, *tripājasyaḥ* and *tryanīkaḥ* may be said to show that the seasons, the limbs of the year, represent the three worlds.
+
+संवत्सर एषोऽग्निरिम उ लोकाः संवत्सरः तस्य यदूर्ध्वं पृथिव्या अर्वाचीनमंतरिक्षात्तदस्यैषा द्वितीया चितिस्तद्वस्य ग्रीष्म ऋतुः ॥ (*saṃvatsara eṣo 'gnirima u lokāḥ saṃvatsaraḥ tasya yadūrdhvaṃ pṛthivyā arvācīnamaṃtarikṣāttadasyaiṣā dvitīyā citistadvasya grīṣma ṛtuḥ ‖*) (Śa. Brā. 8-2-1-7).
+
+This year reflects the three worlds as well. Its limbs, the seasons, are the representatives of the respective worlds. The world that is above the earth and below the atmosphere has the form of the Grīṣma season. (Spring is included in it; the sense is that the first pair of seasons reflects the first world.)
+
+संवत्सर एषोग्निरिम उ लोकाः संवत्सरस्तस्यांतरिक्षमेव मध्यमा चितिरंतरिक्षमस्य वर्षा शरदावृतू तद्यदेता अत्रोपदधाति । (*saṃvatsara eṣognirima u lokāḥ saṃvatsarastasyāṃtarikṣameva madhyamā citiraṃtarikṣamasya varṣā śaradāvṛtū tadyadetā atropadadhāti |*) (Śa. Brā. 8-3-2-7).
+
+The principle of these three worlds is contained in the year itself. The second fire-layer reflects the atmosphere, the middle of these worlds. The rainy season and autumn, the middle limbs of the year, are both representatives of this atmosphere; that is, they have that nature.
+
+यदूर्ध्वमंतरिक्षात् अर्वाचीनं दिवः तदस्यैषा चतुर्थी चितिस्तद्वस्य हेमंत ऋतुः ॥ (*yadūrdhvamaṃtarikṣāt arvācīnaṃ divaḥ tadasyaiṣā caturthī citistadvasya hemaṃta ṛtuḥ ‖*) (Śa. Brā. 8-4-2-15).
+
+The representative of the world that lies above the atmosphere and at the side of the heavenly world is the Hemanta season. In this way the limbs of the year reflect the limbs of the three worlds. Since the one principle of Agni pervades the three worlds also in the forms of Vāyu and Āditya, this Agni is the all-pervading Lord.
+
+प्रजापतिरेषोग्निः संवत्सर उ प्रजापतिस्तस्य यदूर्ध्वं .... .... (*prajāpatireṣogniḥ saṃvatsara u prajāpatistasya yadūrdhvaṃ .... ....*) (Śa. Brā. 8-4-2-16).
+
+This Agni is Prajāpati, the all-pervading one, the cause of the creation of the universe. This Prajāpati is the three worlds. These worlds are the all-pervading year. The seasons, the limbs of this year, reflect also the limbs of Prajāpati. Thus they declare the greatness of the principle of the year, which has three qualities (*traināka*).
+
+### Printed p. 349
+ऋषभो वा एष ऋतूनां यत्संवत्सरः ... .... ऋषभ एष यज्ञानां । (*ṛṣabho vā eṣa ṛtūnāṃ yatsaṃvatsaraḥ ... .... ṛṣabha eṣa yajñānāṃ |*) (Śa. Brā. 13-1-2-2).
+
+As the Aśvamedha, which gives the most excellent fruit, is the best of all sacrifices, so the year is the bull among the seasons. This description shows the purport of the epithet *vṛṣabhaḥ* in the present Ṛk.
+
+*Retodhāḥ*: this epithet may refer to Āditya or to the year. It was stated earlier that the rays of Āditya are described by the word *retas*. *Retas* means either the seed that produces the world, or the water that is the cause of the origin and protection of beings. And when explaining the sentence आपो वै सर्वॆ देवा सर्वाणि भूतानि (*āpo vai sarvè devā sarvāṇi bhūtāni*) (Śa. Brā. 10-5-4-14), Sāyaṇa said: अर्चिषो ह्यापसूरकिरणानामेव वृष्टिकर्तकृत्वात् कार‍्यकारणयोरभेदेन अर्चिवा आप इत्युक्तं । (*arciṣo hyāpasūrakiraṇānāmeva vṛṣṭikartakṛtvāt kāryakāraṇayorabhedena arcivā āpa ityuktaṃ |*). Since he says that, because the sun's rays are the cause of the streams of water, the rays are described figuratively as streams, the word *retas* here too can be given that meaning. Moreover, when explaining the sentence षळिद्यमा ऋषयो देवजा इति (*ṣaḷidyamā ṛṣayo devajā iti*) (Ṛ. Saṃ. 1-164-15), he said षड्रश्मयः षण्णां ऋतूनां प्रवर्तकाः (*ṣaḍraśmayaḥ ṣaṇṇāṃ ṛtūnāṃ pravartakāḥ*): the six rays of Āditya are the causes of the six seasons. Just as the rays of Āditya are described as *retodhāḥ*, in the same way in the present Ṛk the limbs of the year are described as *retodhāḥ*.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भीक॑ आसां पद॒वीर॑बोध्यादि॒त्याना॑मह्वे॒ चारु॒ नाम॑ ।  
+> आप॑श्चिदस्मा अरमंत दे॒वीः पृथ॒ग्वजं॑तीः॒ परि॑ षीमवृंजन् ॥ ४ ॥
+
+> *abhīka āsāṃ padavīrabodhyādityānāmahve cāru nāma |*  
+> *āpaścidasmā aramaṃta devīḥ pṛthagvajaṃtīḥ pari ṣīmavṛṃjan ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभीके । आसां । पदवीः । अबोधि । आदित्यानां । अह्वे । चारु । नाम ।  
+> आपः । चित् । अस्मै । अरमंत । देवीः । पृथक् । व्रजंतीः । परि । सीं । अव्वंजन् ॥
+
+> *abhīke | āsāṃ | padavīḥ | abodhi | ādityānāṃ | ahve | cāru | nāma |*  
+> *āpaḥ | cit | asmai | aramaṃta | devīḥ | pṛthak | vrajaṃtīḥ | pari | sīṃ | avvaṃjan ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संवत्सर आसामोषधीनामभीके समीपे पदवीः । पदानि तत्तद्वनविशिष्टपुष्पफलादीनि वेति प्रजनयतीति पदवीः सन् अबोधि । बुध्यते । सावधानो वर्तते ।
+
+##### Gist of the bhāṣya
+
+The year (संवत्सर (*saṃvatsara*)) is "awake" (अबोधि (*abodhi*)), that is, it is attentive, near these plants (*āsāmoṣadhīnāṃ*), as पदवीः (*padavīḥ*). He explains पदानि (*padāni*) as the flowers, fruits and the like special to this or that forest, and the year produces them. **NOTE**
+
+### Printed p. 350
+
+> तथादित्यानां । आदित्या मासाः संख्यासाम्यात् । यद्वा । आदित्यसंक्रमणनिमित्तत्वादादित्या मासाः । मेषादिस्थे सवितरि यो यो मासः प्रपूर्यते चांद्रश्चैत्राद्यः
+> स ज्ञेय इति स्मृतेः । तेषां चैत्रादीनां मासानां चारु नाम मधुश्च माधवश्चेत्यादि नामधेयमहे । आह्वयामि । उच्चारयामीत्यर्थः । किंच देवीर्द्योतनशीलाः पृथगितस्ततो व्रजंतीर्गच्छंत्य अपश्चित् आपोऽप्यस्मै संवत्सरायारमंत ।
+> संवत्सरसंबंधिमासचतुष्टये वृष्टिद्वारा रमंते । ता आपः सीमेनं संवत्सरं
+> पर्यवृंजन् । अष्टसु मासेषु परिवर्जयंति ॥ पदवीः । वी गत्यादिषु । क्विप् ।
+> अबोधि । बुध अवगमन इत्यस्य लुजि दीपजनबुधपूरितायिप्यायिभ्योऽन्यतरस्यामिति कर्तरि चिणो लुक् । निघातः । आदित्यानां । आदित्यसंबंधिन इत्यर्थे दित्यदित्यादित्यपत्युत्तरपदाण्ण्य इति ण्यः । अतोलोपयलोपौ । प्रत्ययस्वरः । अह्वे । ह्वयतेर्लुजि सिच आत्मनेपदेष्टन्यतरस्यामित्यजादेशः । गुणः । निघातः । अवृंजन् ।
+> वृजी वर्जन इत स्य लजः श्वमि रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+Likewise आदित्यानां (*ādityānāṃ*): the Ādityas are the months, from the equality of number (twelve). Or else: the months are Ādityas because they are caused by the sun's passage (from sign to sign). He cites the smṛti: when the sun stands in Meṣa and the other signs, the lunar month beginning with Caitra that is then filled out is to be known by that sign. Of those months, Caitra and the others, "I call" (अह्वे (*ahve*)), that is, I utter, the beautiful names, Madhu, Mādhava and so on. Further, the shining (देवीः (*devīḥ*)) waters (अपश्चित् (*apaścit*) = *āpo 'pi*), going hither and thither, delight (अरमंत (*aramaṃta*)) in this year: in the four months belonging to the year they take delight through rain. Those waters avoid (पर्यवृंजन् (*paryavṛṃjan*)) this year (सीं (*sīṃ*) = *enaṃ*) in eight months. The rest of the block gives grammar, which is left out here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संवत्सरः (*saṃvatsaraḥ*)—the year
+- आसां (*āsāṃ*)—of these plants
+- अभीके (*abhīke*)—which are near
+- पदवीः (*padavīḥ*)—the paths (the fruits, flowers and so on of the respective plants)
+- अबोधि (*abodhi*)—knows
+- आदित्यानां (*ādityānāṃ*)—of the twelve months beginning with Caitra
+- चारु (*cāru*)—beautiful
+- नाम (*nāma*)—names
+- अह्वे (*ahve*)—I utter and recite
+- देवीः (*devīḥ*)—shining
+- पृथक् (*pṛthak*)—in separate forms
+- व्रजंतीः (*vrajaṃtīḥ*)—flowing
+- अपश्चित् (*apaścit*)—waters
+- अस्मै (*asmai*)—in the rain-time of this year
+- अरमंत (*aramaṃta*)—rest
+- सीं (*sīṃ*)—this same year
+- परि अवृंजन् (*pari avṛṃjan*)—(in the remaining seasons) abandon
+
+##### भावार्थ (Bhāvārtha)
+
+The year knows the nature of the flowers, fruits and the like that belong to each plant according to the season. I utter and recite the beautiful names of the twelve months beginning with Caitra. The shining waters, flowing in separate forms, rest in the rain-time of this year; they abandon this same year in the remaining seasons.
+
+##### English translation (H. H. Wilson)
+(The year) is awake, the path in the vicinity of those (plants) : I call upon the beautiful name of the Adityas; the divine waters wandering severally (now) give it delight, and (now) depart from it.
+
 ---
 
-**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
+**Progress note:** Done through printed p. 350. pp. 343-350 (batch API)
