@@ -26446,6 +26446,143 @@ He knows the boundary regions of the atmosphere, the order of origin of gods, me
 
 Because he is of divine nature, he knows the secrets of men's rites, understands all the praises recited to him, and is gracious to them. (8-39-6; 8-43-23; 9-2-5; 5-12-1; 5-15-1; 7-2-3; 7-6-1).
 
+### Printed p. 704
+
+The direct relation that Agni holds with his devotees.
+
+Worshippers of Agni obtain every kind of prosperity and wealth, and they live long. They become renowned for fame and shine forth (राया द्युम्नेन श्रवसा विभाति (*rāyā dyumnena śravasā vibhāti*)). (6-2-4, 5; 6-5-5; 6-10-3; 6-13-4; 6-15-11; 7-11-2; 8-19-5, 6; 8-44-15; 8-73-9).
+
+The sacrificer who, together with horses and chariots laden with gold and other riches, honours Agni, who has come as a guest, and who knows all these things to be Agni's favour, has Agni as his friend, and Agni removes all his misfortunes. (4-4-10)
+
+To the man who toils day and night to gather the samidh and other requisites of the sacrifice and strives to worship Agni, Agni supplies every protection. (4-26)
+
+The sacrificer who nourishes and increases Agni with oblation-food and the like is watched over and protected by Agni with his thousand eyes. (1-79-5 **NOTE**) **NOTE**
+
+To the devotee who honours Agni with worship in the form of service, Agni grants a good son, and that son brings fame to his father. (5-25-5)
+
+The man who is protected and urged on by Agni obtains abundant food in battle, and for him there is no defeat at all. (1-27-7; Sā. Ve. 2-765) **NOTE**
+
+For the sacrificer who sacrifices to Agni and worships him there is no harassment by enemies. However strong such an enemy may be, and whatever power of illusion he may possess, he is unable to fight this sacrificer and defeat him. (8-23-15)
+
+Agni gives the sacrificer not only bodily strength but also the strength of life; he grants the sacrificer immortality. (1-31-7; 7-7-7; 7 4-6) **NOTE**
+
+All the gods together made Agni the centre of immortality (अमृतस्य नाभिः (*amṛtasya nābhiḥ*)). Because of these special qualities his devotees seek him with contented hearts. (8-43-31)
+
+Agni is prayed to burn the body of the dead completely and to conduct the soul of the dead to the world of the righteous. (10-16-4)
+
+### Printed p. 705
+
+In the mantra 10-16-4 cited here there is one doubtful point. In this mantra
+
+अजो भागस्तपसा तं तपस्व तं ते शोचिस्तपतु तं ते अर्चिः । (*ajo bhāgastapasā taṃ tapasva taṃ te śocistapatu taṃ te arciḥ |*)
+यास्ते शिवास्तन्वो जातवेदस्ताभिर्वहैनं सुकृतासु लोकं । (*yāste śivāstanvo jātavedastābhirvahainaṃ sukṛtāsu lokaṃ |*)
+
+Sāyaṇa has explained the word अज (*aja*) as the unborn, person-form, that is, the ātman. The prayer is explained as: "Purify this ātman completely and conduct it to the world of the righteous."
+
+In the opinion of some scholars the word अज (*aja*) is taken to mean the goat, the sacrificial animal. The goat offered for the oblation belongs to Agni; the prayer is "burn that goat so that it is fully cooked and take its ātman to the world of the righteous." In this explanation, it is stated, they have exercised their own judgement, and they have supported their meaning by citing the Āśvalāyana Gṛhya Sūtra (4-2-4; 4-3-20) and the Kātyāyana Śrauta Sūtra (25-7-34).
+
+But if the present mantra is examined together with the other mantras of the same sūkta, the word अज (*aja*) cannot be said to mean the sacrificial animal here. In the preceding 1st and 2nd mantras Agni is prayed to perform, while the body of the dead man is being burned, whatever rite is to be performed during the burning of his body. In the third mantra it is wished that all the parts of the body, composed of the five elements, go and join their respective original elements (सूरं चक्षुर्गच्छतु वातमात्मा (*sūraṃ cakṣurgacchatu vātamātmā*) …). That is, in the fourth mantra cited here the wish is that the unborn ātman of the dead man reach the world of the righteous. Therefore to take the word अज (*aja*) here as "sacrificial animal" would hardly be proper. This same situation will be explained still more fully later, when the matter of Yama is examined.
+
+As a boat carries travellers safely over the sea, this Agni carries his worshippers across misfortunes. (3-20-4; 5-4-9; 7-12-2)
+
+As the branches of trees spread in all directions, so the favours of Agni spread to all sacrificers. (6-13-1)
+
+As there are watered places in a desert, so he is a benefactor to those who have fallen into difficulty. (10-4-1)
+
+All the wealth of the world is gathered in Agni himself. (10-6-6)
+
+### Printed p. 706
+
+Whatever treasures there are in heaven and earth, in the atmosphere, and in all the worlds, Agni keeps them all gathered in himself, and he himself is the lord of all those treasures. (7-6-2; 10-9-3)
+
+Since Agni thus has all ownership and lordship, everyone at all times praises and prays to this same Agni for every kind of wealth, for food, for protection from misfortunes, and for the averting of conditions such as poverty and childlessness. (1-12-8, 9; 1-36-12; 1-58-9-9; 2-4-8; 2-7-2, 3; 2-9-5; 3-1-21; 3-13-7; 3-16-5; 4-2-20; 4-3-14; 4-11-6; 5-3-11; 6-1-12; 6-4-8; 6-5-7; 6-6-7; 6-1, 5, 13, 19). **NOTE**
+
+As a result of such prayers this Agni comes to protect the sacrificer with hundreds of unborn-less (? ) walls. (6-48-8; 7-3-9) **NOTE**
+
+Together with such walls he himself is like a protecting fortress. (7-15-14)
+
+As he burns dry bushes, so he burns up the sacrificer's enemies without remainder in a moment. (4-4-4)
+
+As a tree is burnt by the stroke of lightning, so he destroys the wicked. (6-8-5)
+
+Because he has such extraordinary power, he is invoked like a leader in the field of battle. (8-43-21; 8-73-8)
+
+Whatever offence the sacrificer may have committed through the ignorance natural to men, Agni forgives it; Agni is prayed to grant that he may be free of offence in regard to Aditi. (7-93-2)
+
+Since Varuṇa shows anger toward offenders, and since such anger brings evil to man, Agni is entreated to bring it about that Varuṇa is not angry with the sacrificer. (4-1-4)
+
+In some other places the sacrificer, out of his natural courtesy, addresses Agni thus:
+
+"O Agni, if I had your power and you were in my place, I would bow to your excessive devotion and fulfil all your wishes (the sense being: in the same way, pleased with my excess of devotion, now fulfil my wishes)." (8-44-23)
+
+### Printed p. 707
+
+"If I were immortal and you mortal, I would never give you occasion to suffer the misery of poverty. It is my whole intention that my devotees should never, at any time, suffer poverty or any other kind of grief." (8-19-25)
+
+In some places, where some famous seer has kindled Agni for a sacrifice, Agni is known in those contexts by the name of that same seer. For example in 8-92-2 Agni is designated दैवोदासोऽग्निः (*daivodāso 'gniḥ*); that is, he who has been invoked and worshipped by the seer named Divodāsa.
+
+In 8-19-32 there is सम्राजं त्रासदस्यवं (*samrājaṃ trāsadasyavaṃ*). Trasadasyu is a royal seer; the meaning is Agni who has been kindled, invoked and worshipped by him. In 10-69-1, in अग्नेर्वध्रश्वस्य (*agnervadhraśvasya*) too, the meaning is to be stated in the same way. (An example also is that in 1-1 -11 Indra is described by the epithet कौशिक (*kauśika*).) **NOTE**
+
+Because Agni stands in direct relation with the other deities, in some contexts identity of those deities with Agni is shown. Unity is shown with male deities — Indra, Viṣṇu, Varuṇa, Mitra, अश्वम (*aśvama*), Aṃśa, Tvaṣṭṛ, Rudra, Pūṣan, Savitṛ, Bhaga and the like — and with female deities — Aditi, Hotrā, Bhāratī, Iḷā, Sarasvatī and the like. **NOTE**
+
+त्वमग्न इंद्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः । (*tvamagna iṃdro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ |*) (Ṛ. Saṃ. 2-1-3)
+
+त्वमग्ने राजा वरुणो धृतव्रतस्त्वं मित्रो भवसि दस्म ईड्यः । (*tvamagne rājā varuṇo dhṛtavratastvaṃ mitro bhavasi dasma īḍyaḥ |*) (Ṛ. Saṃ. 2-1-4)
+
+त्वमग्ने आदितिर्देव दाशुषे त्वं होत्रा भारती वर्धसे गिरा । (*tvamagne āditirdeva dāśuṣe tvaṃ hotrā bhāratī vardhase girā |*)
+त्वमिळा शतहिमासि दक्षसे त्वं वृत्रहा वसुपते सरस्वती ॥ (*tvamiḷā śatahimāsi dakṣase tvaṃ vṛtrahā vasupate sarasvatī ‖*) (Ṛ. Saṃ. 2-1-11)
+
+In these and similar ways Agni is described. Moreover he is praised in त्वे विश्वे सहसस्पुत्र देवाः (*tve viśve sahasasputra devāḥ*): "O Agni, son of strength, in you all the gods are contained; all the others are only your manifestations and attributes." (5-3-1). (This matter is explained among the special topics in the mantra 1-164-46, इंद्रं मित्रं वरुणं (*iṃdraṃ mitraṃ varuṇaṃ*).) Likewise he is praised in the Atharvaveda:
+
+स वरुणः सायमग्निर्भवति स मित्रो भवति प्रातरुद्यन् । (*sa varuṇaḥ sāyamagnirbhavati sa mitro bhavati prātarudyan |*)
+स सविता भूत्वा अंतरिक्षेण याति स इंद्रो भूत्वा तपति मध्यतो दिवं ॥ (*sa savitā bhūtvā aṃtarikṣeṇa yāti sa iṃdro bhūtvā tapati madhyato divaṃ ‖*) (Atha. Saṃ. 1-3-1) **NOTE**
+
+### Printed p. 708
+
+In the evening Agni takes the form of Varuṇa; in the morning he rises in the form of Mitra; in the form of Savitṛ he travels in the heavenly world; in the form of Indra he shines in the middle of the atmosphere.
+
+This same Agni stands encompassing all the gods, as the felloe of a wheel encompasses the spokes. (5-13-6; 3-5-4; 5-3-1; 7-12-3; 10-8-5).
+
+In many sūktas Agni is described as the companion of Indra. (1-108; 1-109; 3-12; 6-59 to 60; 7-93; 7-94; 8-38; 8-40).
+
+These two deities are described as having the same mother and the same father, as twins of the same parents. (6-59-2). They are described as वज्रिणा (*vajriṇā*), bearers of the thunderbolt, as वृत्रहणा (*vṛtrahaṇā*), slayers of the demon Vṛtra, and as destroyers of enemy cities. (3-12-4, 6; 6-59-3; 9.60-3; 7-93-1, 4; 8-38-2). **NOTE**
+
+Both Indra and Agni are called together to come in company and drink Soma. (7-93-6; 8-38-4, 7 to 9)
+
+In one place they are both described by an epithet common to the two, अश्विना (*aśvinā*), "possessing horses". (1-109-4)
+
+There are also some contexts in which the slaying of Vṛtra and the destruction of enemy cities — acts famed as Indra's special deeds — are praised as Agni's extraordinary deeds. (1-59-6; 1-78-4; 6-16-14, 39, 48; 7-5-3; 7-6-2; 8-63-4).
+
+He is praised as having driven the dark-formed Dasyu from the house and provided surpassing light for the Ārya sacrificer. (7-5-6; 1-59 2; 10-69-6). **NOTE**
+
+Agni is the cause of the prosperity of all sacrificers belonging to the Ārya line. (8-92-1)
+
+For the souls to be raised up, the Paṇis must be destroyed; therefore Agni destroys all the non-Vedic Paṇis. (:-6-3) **NOTE**
+
+Though such deeds are famed as Indra's extraordinary deeds, it is praised that sometimes Agni also performed such deeds and helped the Ārya sacrificer. Likewise in the mantra 8-38-1 these two deities, Indra and Agni, are together designated यज्ञस्य ऋत्विजा (*yajñasya ṛtvijā*), "the ṛtvijs of the sacrifice". Being a ṛtvij is a special quality of Agni; by that same quality and deed Indra too is described.
+
+### Printed p. 709
+
+In 1-93 Agni is worshipped together with Soma. Thus the description of Agni's special qualities — both those that are his own and those he shows as the indwelling controller (antaryāmin) of all the other deities, in company with them — is praised in the Ṛk Saṃhitā.
+
+The first sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आत्रेये पंचमे मंडले षडनुवाकाः । तत्र प्रथमेऽनुवाके चतुर्दश
+> सूक्तानि । तत्राबोध्यग्निरिति द्वादशर्चं प्रथमं सूक्तं । अत्रेयमनुक्रमणिका ।
+> अबोधि द्वादश बुधगविष्ठिराविति । पंचमे मंडलेऽनुक्तगोत्रमात्रेयं
+> विद्यादिति परिभाषितत्वादात्रेयौ बुधगविष्ठिरावृषी । अनादेशपरिभाषया त्रिष्टुप् ।
+> मंडलादिपरिभाषयाग्निर्देवता ॥ प्रातरनुवाक आग्नेये क्रत् त्रैष्टुभे छंदस्याश्विनशस्त्रे चैतदादिचत्वारि सूक्तानि । तथा च सूत्रितं । अबोध्यग्निः समिधेति चत्वारि ।
+> आ. ४-१३ । इति ॥ अध्यायोत्सर्जनोपाकरणयोर्धामंते विश्वमिति दृचत्वेन
+> विनियोग उक्तः ॥
+
+##### Gist of the bhāṣya
+
+In the fifth maṇḍala, the Ātreya one, there are six anuvākas. In its first anuvāka there are fourteen sūktas, and the first of these, अबोध्यग्निः (*abodhyagniḥ*), has twelve verses. The Anukramaṇikā says: अबोधि द्वादश बुधगविष्ठिराविति (*abodhi dvādaśa budhagaviṣṭhirāviti*). By the rule that in the fifth maṇḍala a seer whose gotra is not stated is to be known as Ātreya, the seers Budha and Gaviṣṭhira are Ātreyas. By the rule for an unspecified metre the metre is Triṣṭubh; by the rule for the beginning of a maṇḍala the deity is Agni. In the Prātaranuvāka, for the Triṣṭubh verses of the Āgneya kratu and in the Āśvinaśastra, four sūktas beginning with this one are used; so it is stated in the sūtra अबोध्यग्निः समिधेति चत्वारि (*abodhyagniḥ samidheti catvāri*) (Ā. 4-13). In the Adhyāyotsarjana and Upākaraṇa rites the use is stated as a pair of verses (dṛcatva) with धामंते विश्वं (*dhāmaṃte viśvaṃ*).
+
+Anuvāda: The fifth maṇḍala, seen by the seer Atri, has six anuvākas. In the first anuvāka there are fourteen sūktas, and of them this sūkta beginning अबोध्यग्निः (*abodhyagniḥ*) is the first. It has twelve ṛks. In the Anukramaṇikā it is said: अबोधि द्वादश बुधगविष्ठिराविति (*abodhi dvādaśa budhagaviṣṭhirāviti*) (printed बुधगविषि रौ (*budhagaviṣi rau*)). Because it is laid down that in the fifth maṇḍala seers whose gotra and other particulars are not stated are to be reckoned as born in the Ātreya gotra, the seers of this sūkta, Budha and Gaviṣṭhira, must also be said to be seers born in the Atri gotra. As is usual for the opening sūkta of a maṇḍala, Agni is the deity of this sūkta too; the metre is Triṣṭubh. At the time of reciting the Prātaranuvāka mantras, the use of this sūkta and the next three sūktas is for the Triṣṭubh ṛks connected with the Āgneya kratu and for the Āśvinaśastra mantras; this is explained by the Āśvalāyana Śrauta Sūtra, अबोध्यग्निः समिधेति चत्वारि (*abodhyagniḥ samidheti catvāri*) (Ā. 4-23). **NOTE** In the Adhyāyotsarjana and Upākaraṇa pradhāna-homas, the last ṛk of the preceding maṇḍala, धामंते विश्वं (*dhāmaṃte viśvaṃ*), and the first ṛk of this maṇḍala, अबोध्यग्निः (*abodhyagniḥ*), are to be used for the principal oblations; this has been stated already in the use of the preceding ṛk.
+
 ---
 
-**Progress note:** Done through printed p. 703. pp. 697-703 (batch API)
+**Progress note:** Done through printed p. 709. pp. 704-709 (batch API)
