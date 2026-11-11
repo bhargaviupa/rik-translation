@@ -17110,6 +17110,167 @@ Vṛṣā is Āditya, who impels through rain. At the root (budhne) of ṛta, th
 ##### English translation (H. H. Wilson)
 The showerer (of rain, the sun), urging on the dawn, at the root of the truthful (day has) pervaded the vast heaven and earth; the mighty Ushas, the golden light, as it were, of Mitra and Varuna, diffuses her lustre in different directions.
 
+### Printed p. 524
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋतस्य बुद्धे (*ṛtasya buddhe*) — अह्नः मूले (*ahnaḥ mūle*): "at the root of the day, which is of the nature of truth" is the meaning. Earlier, when the path of Ushas was described, it was explained in that context what the path of ṛta is. The budhna of such a ṛta, which is of the nature of truth, must be understood to mean its root.
+In the Ṛksaṃhitā the word budhna is commonly explained as root, support and so on. In some places it is also used as a synonym of the atmosphere (antarikṣa). But even when it is used in the sense of the atmosphere, the explanation of the Nirukta authors is that the atmosphere is called budhna because it holds and keeps the waters, that is, because it is the support of the water: सहबद्धा अस्मिन्, धृता आपः (*sahabaddhā asmin, dhṛtā āpaḥ*) (Ni. 10-44).
+इंद्राय गिरो अनिशितसर्गा अपः प्रेरयं सगरस्य बुध्नात् ॥ (*iṃdrāya giro aniśitasargā apaḥ prerayaṃ sagarasya budhnāt ‖*) (Ṛ. Saṃ. 10-89-4)
+Here सगरस्य बुध्नात् (*sagarasya budhnāt*) has been explained as: that which is the support of the atmosphere itself, the deep root-region of the atmosphere. The same meaning can be taken in the present ṛk also.
+माया (*māyā*) — The special meanings of this word have been given earlier in this same part. Since Ushas belongs to Mitra, Varuṇa and the others, in the present context she may be called a form of radiance that is indicative of their power.
+The sixty-second sūkta.
+
+## Sūkta 62 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमा उ वामित्यष्टादशर्चं नवमं सूक्तं । अत्रेयमनुक्रमणिका । इमा
+> उ द्वन्नैंद्रावरुणबार्हस्पत्यपौष्णसावित्रसौम्यमैत्रावरुणास्त्वचा अंत्यो जमदग्न्यार्षो वा चतुर्थाद्या गायत्र्य इति । कृत्सस्य विश्वामित्र ऋषिरंत्यस्य तृचस्य
+> जमदग्निर्वा । अद्यास्ति स्रस्त्रिष्टुभः शिष्टाः पंचदश गायत्र्यः । प्रथमस्येंद्रावरुणा
+> देवता द्वितीयस्य बृहस्पतिस्तृतीयस्य पूषा चतुर्थस्य सविता पंचमस्य सोमः
+> षष्ठस्य मित्रावरुणा ॥ अभिप्लविकेषूक्ष्येषु शृतीयसवने स्तोमवृद्धौ सत्यां
+> स्वस्वशस्त्रे होत्रका अंत्यसूक्तमवशेष्य स्तोमाभिशंसनार्थं तृचादिसंख्या ऋच
+> आवपेयुः । तत्र मैत्रावरुणस्यावापार्थमाद्यस्तृचः । सूत्रितं च । इमा उ नां
+> भ्रमयो मन्यमाना इति तिस्त्रः । आ. ७-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इमा उ वां (*imā u vāṃ*) has eighteen ṛks and is the ninth sūkta. Of it the Anukramaṇikā says: इमा उ द्वन्नैंद्रावरुणबार्हस्पत्यपौष्णसावित्रसौम्यमैत्रावरुणास्त्वचा अंत्यो जमदग्न्यार्षो वा चतुर्थाद्या गायत्र्य इति (*imā u dvannaiṃdrāvaruṇabārhaspatyapauṣṇasāvitrasaumyamaitrāvaruṇāstvacā aṃtyo jamadagnyārṣo vā caturthādyā gāyatrya iti*). For the whole sūkta Viśvāmitra is the seer; for the last tṛca the seer is Jamadagni, or else (Viśvāmitra). The first ones are triṣṭubh and the remaining fifteen are gāyatrī.**NOTE** The deities: of the first tṛca Indra and Varuṇa, of the second Bṛhaspati, of the third Pūṣan, of the fourth Savitṛ, of the fifth Soma, of the sixth Mitra and Varuṇa.
+Use: in the abhiplava ukthya rites, at the third pressing, when the stoma is to be increased, the hotṛ-priests, each at his own śastra, leave out the last sūkta and insert tṛcas and the like, of the required number of ṛks, to announce the stomas. Of these, for the insertion of the Maitrāvaruṇa, the first tṛca is used. It is also laid down in the sūtra: इमा उ नां भ्रमयो मन्यमाना इति तिस्त्रः (*imā u nāṃ bhramayo manyamānā iti tistraḥ*) (Ā. 7-9).
+
+### Printed p. 525
+
+##### Anuvāda
+
+This sūkta इमा उ वां (*imā u vāṃ*) is the ninth sūkta in the fifth anuvāka. It has eighteen ṛks. In the Anukramaṇikā it is stated: इमा उ द्वोन्यैंद्रावरुणबार्हस्पत्यपौष्टसावित्रसौम्यमैत्रावरुणास्त्रृचा अंत्यो जमदग्नार्षो वा चतुर्थाद्या गायत्र्यः (*imā u dvonyaiṃdrāvaruṇabārhaspatyapauṣṭasāvitrasaumyamaitrāvaruṇāstrṛcā aṃtyo jamadagnārṣo vā caturthādyā gāyatryaḥ*). For this whole sūkta Viśvāmitra is the seer; for the last three ṛks Viśvāmitra or Jamadagni is the seer. The first three ṛks of this sūkta are in the triṣṭubh metre; the remaining fifteen ṛks are in the gāyatrī metre. For the first tṛca, that is, the three ṛks (ṛks 1–3), Indra and Varuṇa are the deities; for the second tṛca (ṛks 4–6) Bṛhaspati, for the third tṛca (7–9) Pūṣan, for the fourth tṛca (10–12) Savitṛ, for the fifth tṛca (13–15) Soma, for the sixth tṛca (16–18) Mitra and Varuṇa are the deities. In the third pressing connected with the ukthya of the abhiplava sacrifice, when the priests of the hotṛ group recite their respective śastra-mantras, the related tṛcas of this last sūkta are to be recited for the insertion ṛks (āvapana) that are recited for the increase of the stoma; and the priest called Maitrāvaruṇa is to recite the first three ṛks for the insertion mantras (āvāpa). This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra इमा उ वां भ्रमयो मन्यमाना इति तिस्रः (*imā u vāṃ bhramayo manyamānā iti tisraḥ*) (Ā. 7-9).
+Sūkta 62.
+Maṇḍala 3; Anuvāka 5; Sūkta 62.
+Aṣṭaka 3; Adhyāya 4; Varga 9, 10, 11.
+Number of ṛks in the sūkta: 18.
+Ṛṣi: 1–15 Viśvāmitra; 16–18 Viśvāmitra or Jamadagni.
+Devatā: 1–3 Indra and Varuṇa; 4–6 Bṛhaspati (dual); 7–9 Pūṣan; 10–12 Savitṛ; 13–15 Soma; 16–18 Mitra and Varuṇa.
+Chandas: 1–3 triṣṭubh; 4–18 gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा उ॑ वां भ्र॒मयो॒ मन्य॑माना यु॒वाव॑ते॒ न तुज्या॑  
+> अभूवन् ।
+
+> *imā u vāṃ bhramayo manyamānā yuvāvate na tujyā*  
+> *abhūvan |*
+
+### Printed p. 526
+
+> क्वंत्यदिंद्रावरुणा यशो वां येन स्मा सिनं भरथः  
+> सखिभ्यः ॥ १ ॥
+
+> *kvaṃtyadiṃdrāvaruṇā yaśo vāṃ yena smā sinaṃ bharathaḥ*  
+> *sakhibhyaḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ऊं इति । नां । भ्रमयः । मन्यमानाः । युवावते । न । तुज्याः ।  
+> अभूवन् ।  
+> क्व । त्यत् । इंद्रावरुणा । यशः । नां । येन । स्म । सिनं । भरथः । सखिभ्यः ॥ १ ॥
+
+> *imāḥ | ūṃ iti | nāṃ | bhramayaḥ | manyamānāḥ | yuvāvate | na | tujyāḥ |*  
+> *abhūvan |*  
+> *kva | tyat | iṃdrāvaruṇā | yaśaḥ | nāṃ | yena | sma | sinaṃ | bharathaḥ | sakhibhyaḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ नां युवयोः संबंधिन्यो मन्यमाना बलिभिः शत्रुभिरभिमन्यमाना आत एव भ्रमयो भ्रमणशीला इमाः प्रजाः । उः पूरणः । युवावते । तृतीयार्थे चतुर्थि । यौवनवता बलिना शत्रुणा तुज्या हिंस्या नाभूवन् ।
+> न भवंतु । अपि च नां युवयोस्तत्तादृशं यशः क्व कुत्रास्ते । येन यशसा
+> सखिभ्योऽस्मभ्यं सिन्नमन्नं भरथः स्म प्रदातुं संपादयथः । तत्कास्त इत्यन्वयः ।
+> यद्वा । हे इंद्रावरुणौ नां युवयोः संबंधिन्य इमा अस्माभिः क्रियमाणा
+> भ्रमयो युवां प्राप्तुं भ्रमणशीला मन्यमानाः । मन्यतिरर्चतिकर्मा । युवामर्चंत्यस्ताः स्तुतयो युवावते युवाभ्यां सदृशायान्यस्मै देवाय न तुज्याः ।
+> तुजतिर्दानकर्मार्थः । प्रदेया मा भूवन् । शिष्टं समानं ॥ भ्रमयः । भ्रमु
+> अनवस्थाने । भ्रमेः संप्रसारणं चेतीस्त्ययः संप्रसारणं च । व्यत्ययेनांतोदात्तत्वं । युवावते । युष्मदस्मद्भां छंदसि सादृश्य उपसंख्यानमिति
+> वतुप् । अविभक्तावपि युवादेशश्चांदसः । तुज्याः । तुज हिंसादाननिकेतनेषु ।
+> अफ्न्यादयश्चति यत् । यतोऽनाव इत्याद्युदात्तत्वं । सिनं । पिञ् बंधने ।
+> इण्णॆ इङ्जुष्यविभ्यो नगिति नक् । व्यत्ययेनाद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, these subjects (prajāḥ) of yours are मन्यमाना (*manyamānā*), that is, are opposed by mighty enemies, and for that very reason are भ्रमयो (*bhramayo*), given to wandering. The word उः (*uḥ*) is a filler. युवावते (*yuvāvate*) has the dative in the sense of the instrumental: by an enemy who is young and mighty may they not become तुज्या (*tujyā*), to be harmed. And where is that fame of yours by which you provide food (सिन्नमन्नं (*sinnamannaṃ*)) to us, your friends, so as to give it? Thus the construction.
+Or else: O Indra and Varuṇa, these (praises) of yours, made by us, are भ्रमयो (*bhramayo*), wandering in order to reach you, मन्यमानाः (*manyamānāḥ*); the verb मन्यति (*manyati*) has the sense of worshipping. These praises that worship you are न तुज्याः (*na tujyāḥ*) for another god like you; तुजति (*tujati*) has the sense of giving: let them not be given. The rest is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- नां (*nāṃ*)—those belonging to you
+- मन्यमानाः (*manyamānāḥ*)—those opposed by enemies
+- भृमयः (*bhṛmayaḥ*)—(therefore) those who wander about bewildered
+- इमाः (*imāḥ*)—these people
+- युवावते (*yuvāvate*)—by a youthful enemy
+- तुज्याः (*tujyāḥ*)—harmed
+- न अभूवन् (*na abhūvan*)—let them not become
+- येन (*yena*)—by which fame
+- सखिभ्यः (*sakhibhyaḥ*)—to us, your friends
+- सिनं (*sinaṃ*)—food
+- भरथः स्म (*bharathaḥ sma*)—you procure and give (such)
+- नां (*nāṃ*)—your
+- त्यत् यशः (*tyat yaśaḥ*)—that same renown
+- क्व (*kva*)—where?
+
+### Printed p. 527
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, may these people, who belong to you, who are opposed by enemies and for that very reason wander about bewildered, not be harmed by a youthful enemy. Where is that renown of yours by which you procure food for us, your friends?
+
+##### English translation (H. H. Wilson)
+Indra and Varuna, may these people who are relying upon you, and wandering about (in alarm), sustain no injury from a youthful (adversary); for where is that reputation (you enjoy) on account that you bestow sustenance on your friends.
+
+##### विशेषविषयगळु (Special Topics)
+
+Two kinds of meaning have been given for this mantra. In the first half, according to the first construction: इमाः वां भ्रमयः तुज्याः न अभूवन् (*imāḥ vāṃ bhramayaḥ tujyāḥ na abhūvan*). There is the prayer that those who belong to you and who wander about harmed by enemies may, by your grace, from now on not be harmed by enemies. The two words मन्यमानाः (*manyamānāḥ*) and भ्रमयः (*bhramayaḥ*) are both adjectives of इमाः (*imāḥ*). मन्यमानाः (*manyamānāḥ*) means those who are confronted by enemies, and भ्रमयः (*bhramayaḥ*) means those who wander about bewildered. Although the word युवावते (*yuvāvate*) ends in the dative case, the instrumental sense must be stated for it: यौवनवता बलिना शतु णा (*yauvanavatā balinā śatu ṇā*), "by an enemy who is young and strong"; the purport is that they should not be न तुज्याः (*na tujyāḥ*), harmed. According to the second construction: युवयोः संबधिन्यः इमाः अस्माभिः क्रियमाणाः भ्रमयः युवां प्राप्तंभ्रमणशीलाः मन्यमानाः अर्चंत्यस्ताः स्तुतयो युवावते युवाभ्यां सदृशायान्यस्मैदेवाय न तुज्याः न प्रदेयाः । (*yuvayoḥ saṃbadhinyaḥ imāḥ asmābhiḥ kriyamāṇāḥ bhramayaḥ yuvāṃ prāptaṃbhramaṇaśīlāḥ manyamānāḥ arcaṃtyastāḥ stutayo yuvāvate yuvābhyāṃ sadṛśāyānyasmaidevāya na tujyāḥ na pradeyāḥ |*). The prayer becomes: may these rites and praises performed by us not go to any other gods like you, but to you alone. According to this, the two words इमाः (*imāḥ*) and भृमयः (*bhṛmayaḥ*) are adjectives of मन्यमानाः (*manyamānāḥ*); the meaning is the praises and other rites that eagerly strive to reach you. तुज्याः (*tujyāḥ*) has the sense of giving. न तुज्याः न प्रदेयाः (*na tujyāḥ na pradeyāḥ*) is the purport.
+
+### Printed p. 528
+भ्रमयः (*bhramayaḥ*) — भ्रमणशीलाः (*bhramaṇaśīlāḥ*). Generally this word is an adjective of a thing that has the action of moving about, or is a synonym for a thing showing such action. For example:
+धारावरा मरुतो धृष्णोऽजसो मृगा न भीमास्तविषीभिरर्चिनः । अग्नयो न शुशुचाना ऋजीषिणो भृमिं धमंतो अप गा अवृण्वत ॥ (*dhārāvarā maruto dhṛṣṇo 'jaso mṛgā na bhīmāstaviṣībhirarcinaḥ | agnayo na śuśucānā ṛjīṣiṇo bhṛmiṃ dhamaṃto apa gā avṛṇvata ‖*) (Ṛ. Saṃ. 2-34-1)
+There भ्राम्यंतं मेघं (*bhrāmyaṃtaṃ meghaṃ*) has been given as the meaning: the moving cloud. The Maruts, who make trees and the like all move, who are terrible and brilliant, made the wandering clouds move with still greater speed for the sake of water; here the speed of the motion too is indicated. In explaining the purport of this word in the same context, the scholar Max Müller has given his opinion in this way:
+भृमि (*bhṛmi*) Seems to me a name of the cloud, driven about by the wind. The Taithiriyas read भृमिं (*bhṛmiṃ*) and Sayana explains it by मेघं धमंतश्चालयंतः (*meghaṃ dhamaṃtaścālayaṃtaḥ*). In most passages, no doubt, भृमि (*bhṛmi*) means quick, fresh and is opposed to रध्र (*radhra*), (4-32-2 ; 7-56-20) In I. 31-17, as applied to अग्नि (*agni*) it may mean quick. But in our passage, that meaning is impossible, and I prefer the tradional meaning of the cloud. Sayana's explanation according to which भृमि (*bhṛmi*) is a musical instrument, may rest on some traditional authority. [Sacred Books of the East. Vol. 32. P. 288]
+In this mantra (2-31 4)**NOTE** भ्रमि (*bhrami*) must be understood to mean a cloud, and moreover a cloud scattered by the Maruts. Sāyaṇa too has indicated this same opinion. In many contexts it also indicates speed of motion, or the sense "new" may also be proper. For example,
+इमे रद्रं चिन्मरुतो जनंति चिद्यथा वसवो जुषंत ॥ (*ime radraṃ cinmaruto janaṃti cidyathā vasavo juṣaṃta ‖*) (Ṛ. Saṃ. 7-56-20)
+Here the word भृमि (*bhṛmi*) indicates a meaning opposed to the meaning of the word रध्र (*radhra*). रध्र (*radhra*) means a prosperous man, and भृमि (*bhṛmi*) a man in the opposite condition. That is, the रध्र (*radhra*) is well settled; the poor man must wander about. Since constant wandering is an assured activity, the poor man with such a quality is indeed denoted by the word भृमि (*bhṛmi*). In some places Sāyaṇa
+
+### Printed p. 529
+has explained this word as a special musical instrument, an aid to song; it is also a synonym for horses and the like that have swift motion. In this and similar ways the scholar Max-Müller has given his opinion. Even when two meanings are taken for the word भृमि (*bhṛmi*) in the present ṛk, a devout man or a praise (stuti)**NOTE**, motion shows itself to be the chief quality. If it is taken as a man, he is one driven away by the enemy and wandering about bewildered; if it is taken as praise, it is something wandering eagerly in order to go swiftly and reach the deity.
+मन्यमानाः (*manyamānāḥ*) — The Nirukta authors have read the word मन्यते (*manyate*) both among the names of the sense of radiance (Ni. 2-6) and among the names of the sense of worshipping (Ni. 3-14). In the present context, if it is taken as praise, it means either a radiant praise or a praise worthy of worship. According to the first construction, अभिमन्यमानाः (*abhimanyamānāḥ*) means those who are struck and driven away by enemies.
+सिनं (*sinaṃ*) — The word sina is read among the names of food (Ni. 2-7). As is said in places such as सुमंगलं सिनवदस्तु सातं (*sumaṃgalaṃ sinavadastu sātaṃ*) (Ṛ. Saṃ. 10-102-11), here too the meaning is food. In some contexts it can also mean reward. But in the four or five contexts in the Ṛksaṃhitā, this word is used in the sense of food.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमु॑ नां पुरु॒तमो॑ रयी॒यञ्छ॑श्वत्त॒ममव॑से जोहवीति ।  
+> स॒जोषा॑विंद्रावरुणा म॒रुद्भि॑र्दि॒वा पृ॑थि॒व्या शृ॑णुतं॒ हवं॑  
+> मे ॥ २ ॥
+
+> *ayamu nāṃ purutamo rayīyañchaśvattamamavase johavīti |*  
+> *sajoṣāviṃdrāvaruṇā marudbhirdivā pṛthivyā śṛṇutaṃ havaṃ*  
+> *me ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ऊं इति । नां । पुरुतमः । रयियन् । शश्वत्तमं । अवसे । जोहवीति ।  
+> सजोषौ । इंद्रावरुणा । मरुत्भिः । दिवा । पृथिव्या । शृणुतं । हवं । मे ॥ २ ॥
+
+> *ayaṃ | ūṃ iti | nāṃ | purutamaḥ | rayiyan | śaśvattamaṃ | avase | johavīti |*  
+> *sajoṣau | iṃdrāvaruṇā | marutbhiḥ | divā | pṛthivyā | śṛṇutaṃ | havaṃ | me ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ रयीयन् रयिमात्मन इच्छन्नयमु पुरुतमो वैदिककर्मप्रवृत्ततयातिशयेन पुरुर्महान्यजमानोऽवसे रक्षणायान्नाय वा वां युवां
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, this sacrificer, रयीयन् (*rayīyan*), desiring wealth for himself, is पुरुतमः (*purutamaḥ*), exceedingly great (puru) through being engaged in Vedic rites, for protection or for food, (the text breaks off here, in the middle of the sentence).
+
 ---
 
-**Progress note:** Done through printed p. 523. pp. 518-523 (batch API)
+**Progress note:** Done through printed p. 529. pp. 524-529 (batch API)
