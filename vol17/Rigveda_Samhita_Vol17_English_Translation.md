@@ -29780,6 +29780,303 @@ Let not us, Agni, who are your friends, ever suffer harm from any great or compr
 > *evo iti | su | asmat | muṃcata | vi | aṃhaḥ | pra | tāri | agne | prataraṃ | naḥ |*  
 > *āyuḥ ‖ 6 ‖*
 
+### Printed p. 899
+
+> यजत्रा यजनीयाः पूजार्हा हे वसवो निवासयितारोऽग्नयो
+> यूयं यथा ह यथैव त्यत्यां तां पदि पादे सितां बद्धां गौर्यं चित् गौरीं
+> गामप्यमुंचत । त्यक्तवंतो भूयास्त । एवो एवमेवास्मदस्मत्तोऽहः पापं
+> सु अत्यंतं वि मुंचत । विमुक्तं कुरुत । बहुवचनं पूजार्थं । हे अग्ने त्वया
+> प्रतरं प्रवृद्धं नोऽस्मदीयमायुः प्र तारि । प्रवृद्धं क्रियता ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Vasus: "O यजत्रा (*yajatrā*), worthy of worship, O Vasus, Agnis who give dwelling." He says: "Just as you released even the cow Gaurī that was bound by the foot, so release sin from us completely." The plural (बहुवचनं (*bahuvacanaṃ*)) is for honour. Then, addressing Agni: "By you let our life be made प्रतरं (*prataraṃ*), that is, increased (प्रवृद्धं (*pravṛddhaṃ*)); let it be made to grow."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्राः (*yajatrāḥ*)—O you who are worthy of worship
+- वसवः (*vasavaḥ*)—Agnis who give dwelling
+- यथा ह (*yathā ha*)—in what manner
+- त्यत् (*tyat*)—that famous one
+- पदि (*padi*)—at the foot
+- सितां (*sitāṃ*)—bound
+- गौर्यं चित् (*gauryaṃ cit*)—the cow also
+- अमुंचत (*amuṃcata*)—you caused to be freed
+- एवो (*evo*)—in the same manner
+- अस्मत् (*asmat*)—from us
+- अ०हः (*a0haḥ*)—sin
+- सु (*su*)—completely
+- वि मुंचत (*vi muṃcata*)—release and destroy
+- अग्ने (*agne*)—O Agni
+- प्रतरं (*prataraṃ*)—most dear **NOTE**
+- नः (*naḥ*)—our
+- आयुः (*āyuḥ*)—life
+- प्र तारि (*pra tāri*)—graciously grant that it grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agnis, worthy of worship and givers of dwelling, in the manner in which you caused even the famous cow, bound at the foot, to be freed, in the same manner release sin from us also and destroy it completely. By your favour may our dear life attain increase.
+
+##### English translation (H. H. Wilson)
+Adorable Vasus, in like manner as you have liberated the cow bound by the foot, so set us free entirely from sin; and may our existence, be prolonged.
+
+## Sūkta 13 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रत्यग्निरिति पंचर्चं तृतीयं सूक्तं नामदेवस्यार्षं त्रैष्टुभमाग्नेयं
+> तत्तन्मंत्रवर्णाभिधेयोषःप्रभृतिदैवतं वा । तथा चानुक्रांतं । प्रत्यग्निः पंच
+> लिंगोक्तदैवतं त्वेक इति ॥ लैंगिको विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्रत्यग्निः (*pratyagniḥ*) of five verses is the third sūkta. Its seer is Vāmadeva, its metre Triṣṭubh, and its deity Agni; or else its deities are those denoted by the words of the respective mantras, beginning with Uṣas. So the Anukramaṇī says: प्रत्यग्निः पंच लिंगोक्तदैवतं त्वेक इति (*pratyagniḥ paṃca liṃgoktadaivataṃ tveka iti*) **NOTE**. The application is by the indicatory mark (लैंगिको विनियोगः (*laiṃgiko viniyogaḥ*)).
+
+### Printed p. 900
+
+##### Anuvāda
+
+This sūkta beginning "Pratyagniḥ" is the third sūkta in the second anuvāka. It has five ṛks. Its seer is Vāmadeva; its deity is Agni; its metre is Triṣṭup. In this sūkta, along with the Agni praised in the respective ṛks, Savitṛ and the others are the deities of the respective ṛks. The Anukramaṇī says: "Pratyagniḥ pañca liṅgoktadaivataṃ taike." The application is by indicatory mark.
+
+Sūkta—13
+Maṇḍala—4; Anuvāka—2; Sūkta—13
+Aṣṭaka—3; Adhyāya—5; Varga—13
+Number of ṛks in the sūkta—5
+Ṛṣi—Vāmadeva
+Devatā—Agni
+Chandas—Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्यद्विभाती॒नां सु॒मना॑ रत्न॒धेयं॑ ।  
+> या॒तम॑श्विना सु॒कृतो॑ दुरो॒णमुत्सूर्यो॒ ज्योति॑षा दे॒व  ॑
+> एति ॥ १ ॥
+
+> *pratyagniruṣasāmagramakhyadvibhātīnāṃ sumanā ratnadheyaṃ |*  
+> *yātamaśvinā sukṛto duroṇamutsūryo jyotiṣā deva*  
+> *eti ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । अग्निः । उषसां । अग्रं । अख्यत् । विभातीनां । सुमनाः । रत्नधेयं ।  
+> यातं । अश्विना । सुकृतः । दुरोणं । उत् । सूर्यः । ज्योतिषा । देवः । एति ॥
+
+> *prati | agniḥ | uṣasāṃ | agraṃ | akhyat | vibhātīnāṃ | sumanāḥ | ratnadheyaṃ |*  
+> *yātaṃ | aśvinā | sukṛtaḥ | duroṇaṃ | ut | sūryaḥ | jyotiṣā | devaḥ | eti ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुमनाः शोभनमनस्कोग्निर्विभातीनां व्युच्छंतीनामुषसामुषोदेवतानां रत्नधेयं रत्नधानं । धनप्रकाशकमित्यर्थः । अग्रं प्रति पूर्वकालं लक्षीकृ-
+
+##### Gist of the bhāṣya
+
+सुमनाः (*sumanāḥ*) is Agni of good mind. विभातीनां (*vibhātīnāṃ*) means of the dawns (Uṣas deities) that are shining forth. रत्नधेयं (*ratnadheyaṃ*) is "the bearer of wealth", that is, it reveals wealth. Taking as his aim the front part (अग्रं प्रति (*agraṃ prati*)) at the earlier time, he अख्यत् (*akhyat*): he becomes fully grown. (The sentence continues on the next page.)
+
+### Printed p. 901
+
+> त्याख्यत् । प्रवृद्दो भवति । हे अश्विनास्विन् युवां सुकृतो यजमानस्य दुरोणं
+> गृहं । दुरोण इति गृहनाम दुरोणे दुर्या इति गृहनामसु पाठात् । यातं ।
+> गच्छतं । सूर्य ऋत्विगादीनां प्रेरको देवो ज्योतिषा स्वेन तेजसोदेति ।
+> उषःकाले प्रादुर्भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, go (यातं (*yātaṃ*)) to the house (दुरोणं (*duroṇaṃ*)) of the sacrificer who does good deeds." दुरोण (*duroṇa*) is a name for "house", because it is read among the names of house: दुरोणे दुर्या इति गृहनामसु पाठात् (*duroṇe duryā iti gṛhanāmasu pāṭhāt*). Sūrya, the god who impels the priests and others, rises with his own splendour; that is, he appears at the time of dawn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुमनाः (*sumanāḥ*)—of excellent mind
+- अग्निः (*agniḥ*)—Agni
+- विभातीनां (*vibhātīnāṃ*)—of those that shine widely
+- उषसां (*uṣasāṃ*)—of the dawn goddesses
+- रत्नधेयं (*ratnadheyaṃ*)—that which reveals wealth
+- अग्रं प्रति (*agraṃ prati*)—with regard to the front part, which is full of radiance
+- अख्यत् (*akhyat*)—has shone, fully grown
+- अश्विना (*aśvinā*)—O Aśvin deities
+- सुकृतः (*sukṛtaḥ*)—of the sacrificer who does good deeds
+- दुरोणु (*duroṇu*)—the house
+- यातं (*yātaṃ*)—come and join
+- देवः (*devaḥ*)—the one who is of divine nature
+- सूर्यः (*sūryaḥ*)—Sūrya, the impeller of priests and others
+- ज्योतिषा (*jyotiṣā*)—with his own radiance
+- उदेति (*udeti*)—has appeared
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, of excellent mind, has shone, grown, having regard to the front part of the widely radiant dawn goddesses, which reveals wealth and is full of radiance. O Aśvin deities, come to the house of the sacrificer who does good deeds. Sūrya, who is of divine nature and the impeller of priests and others, has appeared with his own radiance.
+
+##### English translation (H. H. Wilson)
+Favourably-minded, Agni has manifested (his might) in regard to the wealth-bestowing procession of the resplendent dawns : proceed, Ashwins, to the dwelling of the pious (worshipper) : the divine sun rises with splendour.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वं भा॒नुं स॑वि॒ता दे॒वो अ॑श्रेद्ध्र॒प्सं दवि॑ध्वद्गवि॒षो  ॑
+> न सत्या ।  
+> अनु॑ व्र॒तं वरु॑णो यंति मि॒त्रो यत्सूर्यं॑ दि॒व्या॑रो॒हयं॑ति ॥ २ ॥
+
+> *ūrdhvaṃ bhānuṃ savitā devo aśreddhrapsaṃ davidhvadgaviṣo*  
+> *na satyā |*  
+> *anu vrataṃ varuṇo yaṃti mitro yatsūryaṃ divyārohayaṃti ‖ 2 ‖*
+
+### Printed p. 902
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वं । भानुं । सविता । देवः । अश्रेत् । द्रप्सं । दविध्वत् । गोऽइषः । न ।  
+> सत्वा ।  
+> अनु । व्रतं । वरुणः । यंति । मित्रः । यत् । सूर्यं । दिवि । आरोहयंति ॥२॥
+
+> *ūrdhvaṃ | bhānuṃ | savitā | devaḥ | aśret | drapsaṃ | davidhvat | go 'iṣaḥ | na |*  
+> *satvā |*  
+> *anu | vrataṃ | varuṇaḥ | yaṃti | mitraḥ | yat | sūryaṃ | divi | ārohayaṃti ‖2‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता प्रेरको देव ऊर्ध्वमुन्मुखं भानुमश्रेत् । आश्रयति । यद्यदा
+> रश्मयः सूर्यं दिवि द्युलोक आरोहयंति । आरोहणं कारयंति । तदा
+> वरुणो रात्र्यभिमानी देवो मित्रोऽहरभिमान्यन्ने देवाश्च व्रतं तत्संबंधि
+> कर्मानु यंति । अनुगच्छंति । अनुगमने दृष्टांत उच्यते । द्रप्पं पार्थिवं रजो
+> दविध्वद्दुन्वन् । विकिरन्नित्यर्थः । गविषो गा इच्छन् सत्वा न वृषभ इव तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Savitṛ, the impelling god, takes refuge in (obtains) the upward-facing light (भानुं (*bhānuṃ*)). When (यत् (*yat*)) the rays make Sūrya ascend in the sky, in heaven, then Varuṇa, the deity presiding over night, Mitra, the deity presiding over day, and the other gods follow the व्रतं (*vrataṃ*), the work connected with it (their own duty). An illustration of the following is given: like a bull that is desirous of cows, shaking and scattering the earthly dust (द्रप्पं (*drappaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the one of divine nature
+- सविता (*savitā*)—Savitṛ
+- ऊर्ध्वं (*ūrdhvaṃ*)—facing upward
+- भानुं (*bhānuṃ*)—the light (his own radiance)
+- अश्रेत् (*aśret*)—takes refuge in (obtains)
+- यत् (*yat*)—when
+- सूर‍्यं (*sūryaṃ*)—Sūrya
+- दिवि (*divi*)—in heaven
+- आरोहयंति (*ārohayaṃti*)—(the rays) make him climb (then)
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra also (the other deities too)
+- द्रप्सं (*drapsaṃ*)—the earthly dust
+- दधिध्वत् (*dadhidhvat*)—stirring up and scattering all around
+- गविषः (*gaviṣaḥ*)—desiring to join the cow
+- सत्वा न (*satvā na*)—like a bull (in eagerness)
+- व्रतं (*vrataṃ*)—their respective duties
+- अनु यंति (*anu yaṃti*)—follow and observe
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Savitṛ, rising facing upward, obtains his own radiance. When the rays make Sūrya climb in the sky, that is, when Sūrya, endowed with rays, ascends the sky, then Varuṇa, Mitra and the other deities also, eagerly, like a bull seeking a cow, stirring up the dust on the ground and scattering it all around and following the cow alone, follow and observe their own duties and functions.
+
+##### English translation (H. H. Wilson)
+The divine Savitri diffuses his light on high, dispersing the dew, and like a vigorous (bull) ardent for the cow : then Varuna, and Mitra, and other (divinities), hasten to (fulfil) their offices when they elevate the sun in the sky.
+
+### Printed p. 903
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं सी॒मकृ॑ण्व॒नम॑से वि॒पृचे॑ ध्रु॒वक्षे॑मा॒ अन॑वस्यंतो॒  ॑
+> अर्थं ।  
+> तं सूर्यं॑ ह॒रितः॑ स॒प्त य॒ह्वीः स्पशं॒ विश्व॑स्य॒ जग॑तो वहंति॥
+
+> *yaṃ sīmakṛṇvanamase vipṛce dhruvakṣemā anavasyaṃto*  
+> *arthaṃ |*  
+> *taṃ sūryaṃ haritaḥ sapta yahvīḥ spaśaṃ viśvasya jagato vahaṃti‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । सीं । अकृण्वन् । तमसे । विपृचे । ध्रुवक्षेमाः । अनवस्यंतः । अर्थं ।  
+> तं । सूर्यं । हरितः । सप्त । यह्वीः । स्पशं । विश्वस्य । जगतः । वहंति ॥ ३ ॥
+
+> *yaṃ | sīṃ | akṛṇvan | tamase | vipṛce | dhruvakṣemāḥ | anavasyaṃtaḥ | arthaṃ |*  
+> *taṃ | sūryaṃ | haritaḥ | sapta | yahvīḥ | spaśaṃ | viśvasya | jagataḥ | vahaṃti ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ध्रुवक्षेमाः स्थिरनिवासाः सृष्टिकर्तारो देवाः सीं सर्वतस्तमसे तमसो
+> विपृचे पृथक्करणायार्थं जगल्लक्षणं कार्यमनवस्यंतोऽविमुंचंतः कुर्वंत एव
+> यं सूर्यमकृण्वन् । असृजन्नित्यर्थः । यह्वीर्महत्यः सप्त सप्तसंख्याका हरितोऽश्वा विश्वस्य समस्तस्य जगतः प्राणिसमूहस्य स्वशं प्रेरकत्वेन ज्ञातारं तं
+> सूर्यं वहंति । धारयंति ॥
+
+##### Gist of the bhāṣya
+
+The ध्रुवक्षेमाः (*dhruvakṣemāḥ*) are the gods of firm abode, the creators. All around (सीं (*sīṃ*)), for separating (विपृचे (*vipṛce*)) from darkness (तमसे (*tamase*)), never leaving off (अनवस्यंतः (*anavasyaṃtaḥ*)) but continually doing the work (अर्थं (*arthaṃ*)) that has the form of the world, they made (अकृण्वन् (*akṛṇvan*)), that is, created, Sūrya. Seven great (यह्वीः (*yahvīḥ*)) horses (हरितः (*haritaḥ*)) carry that Sūrya, known (स्पशं (*spaśaṃ*)) as the impeller of the whole world, of the entire multitude of beings; वहंति (*vahaṃti*) means they bear him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ध्रुवक्षेमाः (*dhruvakṣemāḥ*)—gods of firm abode
+- सीं (*sīṃ*)—all around
+- तमसे (*tamase*)—of darkness
+- विपृचे (*vipṛce*)—for separation
+- अर्थं (*arthaṃ*)—the work that has the form of the world
+- अनवस्यंतः (*anavasyaṃtaḥ*)—doing without cease
+- यं (*yaṃ*)—whom
+- अकृण्वन् (*akṛṇvan*)—they created
+- तं (*taṃ*)—such a one
+- विश्वस्य (*viśvasya*)—of the whole
+- जगतः (*jagataḥ*)—of the entire multitude of beings
+- स्पशं (*spaśaṃ*)—the one known as the impeller
+- सूर्यं (*sūryaṃ*)—Sūrya
+- यह्वीः (*yahvīḥ*)—possessing greatness
+- सप्त (*sapta*)—seven in number
+- हरितः (*haritaḥ*)—horses
+- वहंति (*vahaṃti*)—bear
+
+##### भावार्थ (Bhāvārtha)
+
+The gods of firm abode, continually doing the work that has the form of the world in order to destroy darkness, created Sūrya, who is known as the impeller of the entire multitude of beings; the great seven horses bear that Sūrya.
+
+### Printed p. 904
+
+##### English translation (H. H. Wilson)
+Seven great coursers convey that sun, whom the (deities), occupants of enduring mansions, and not heedless (of their offices), have formed for the driving away of darkness, (and who is) the animator of the whole world.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वहि॑ष्ठेभिर्वि॒हर॑न्यासि॒ तंतु॑मव॒व्यय॒न्नसि॑तं देव॒ वस्म॑ ।  
+> दवि॑ध्वतो र॒श्मयः॒ सूर्य॑स्य॒ चर्मे॒वावा॑धु॒स्तमो॑  ॒१॒॑
+> अप्स्वगन्तः ॥ ४ ॥
+
+> *vahiṣṭhebhirviharanyāsi taṃtumavavyayannasitaṃ deva vasma |*  
+> *davidhvato raśmayaḥ sūryasya carmevāvādhustamo*  
+> *apsvagantaḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वहिष्ठेभिः । विहरन् । यासि । तंतुं । अवव्ययन् । असितं । देव । वस्म ।  
+> दविध्वतः । रश्मयः । सूर्यस्य । चर्मइव । अव । अधुः । तमः । अप्सु ।  
+> अंतरिति ॥ ४ ॥
+
+> *vahiṣṭhebhiḥ | viharan | yāsi | taṃtuṃ | avavyayan | asitaṃ | deva | vasma |*  
+> *davidhvataḥ | raśmayaḥ | sūryasya | carmaiva | ava | adhuḥ | tamaḥ | apsu |*  
+> *aṃtariti ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान सूर्य त्वं जगन्निर्वाहात्मकस्य रसस्यादानार्थ० तंतुं
+> रश्मिसमूहं विहरन्विस्तारयन् असितं कृष्णवर्णं वस्म नक्तंचराणां निवासभूतां
+> रात्रिमवव्ययन् अवाचीनं यथा भवति तथा संवृण्वन् । तिरस्कुर्वन्नित्यर्थः । वहिष्ठेभिर्वोढुमत्यंतं शक्त्यैरश्वैर्यासि । गमनमार्गं गच्छसि । अस्यामृचि पूर्वार्धे सूर्यस्य प्रत्यक्षमर्थ० प्रतिपाद्योत्तरार्धे परोक्षनुर्थ० प्रतिपादयितुमाह।
+> दविध्वतो धुनानाः सूयर्स्य संबंधिनो रश्मयः किरणा अप्स्वंतरिक्षे । आस
+> इत्यंतरिक्षनाम आकाशमापः पृथिवीति तन्नामसु पाठात् । अंतर्मध्यॆ चर्मेव
+> चर्मवत्स्थितं तमोऽंधकारमवाधुः । अवाचीनमदधुः । तिरस्कुर्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O god, shining Sūrya, you spread (विहरन् (*viharan*)) the तंतुं (*taṃtuṃ*), the mass of rays, in order to take the sap that sustains the world. Shutting out downward the black-coloured वस्म (*vasma*), the night that is the dwelling of the night-wanderers, that is, putting it down, you travel with the very strong bearers (वहिष्ठेभिः (*vahiṣṭhebhiḥ*)), the horses; you go on your path of travel." In this ṛk, having stated in the first half the visible matter concerning Sūrya, in the second half he speaks to state the invisible matter: the shaking rays belonging to Sūrya, अप्सु (*apsu*), in the atmosphere (आस इत्यंतरिक्षनाम आकाशमापः पृथिवीति तन्नामसु पाठात् (*āsa ityaṃtarikṣanāma ākāśamāpaḥ pṛthivīti tannāmasu pāṭhāt*): "āpas" is a name of the atmosphere, because it is read among its names), in the middle, cast down (*avādhuḥ*) the darkness that stands like a skin (चर्मेव (*carmeva*)); they put it down, they set it aside.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining Sūrya
+- तंतुं (*taṃtuṃ*)—(your) mass of rays
+- विहरन् (*viharan*)—spreading (for taking the sap)
+- असितं (*asitaṃ*)—black-coloured
+- वस्म (*vasma*)—and the dwelling of the rākṣasas **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 898. pp. 893-898 (batch API)
+**Progress note:** Done through printed p. 904. pp. 899-904 (batch API)
