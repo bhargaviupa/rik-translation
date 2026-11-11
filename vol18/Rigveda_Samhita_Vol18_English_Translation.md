@@ -25710,6 +25710,220 @@ This Ṛk धामंते (*dhāmaṃte*) and the Ṛk अबोध्यग�
 य आभृतस्तमश्याम मधुमंतं ते ऊर्मि० (*ya ābhṛtastamaśyāma madhumaṃtaṃ te ūrmi0*)—तस्मिन् धामनि यः ऊर्मिर्घृतरूप उदकरूपो वा रसः स्थापितः त्वदीयं तं रसं माधुर्योपेतं व्याप्पु याम । (*tasmin dhāmani yaḥ ūrmirghṛtarūpa udakarūpo vā rasaḥ sthāpitaḥ tvadīyaṃ taṃ rasaṃ mādhuryopetaṃ vyāppu yāma |*). O Agni, may we obtain that sweet essence (ghee or water), of the nature of ghee or of the nature of water, which is established in your mass of radiance pervading all places. Here it is stated that the essence is of two kinds, of the nature of ghee or of water. The essence that is established in (joins) the terrestrial fire or the sacrificial fire is to be understood as ghee; the essence that is established in the lightning fire, as water.
 The concluding verses of the Fourth Maṇḍala: इत्थं श्रीबुक्कभूपालसाम्राज्यैकधुरंधरः । विद्यातीर्थगुरोर्दृष्टा प्राप्तसार्वज्ञ्यवैभवः ॥ श्रीमत्सायणमंत्रिशः सकलागमतत्त्ववित् । दाशतय्यां माधवीये वेदार्थस्य प्रकाशने ॥ चतुर्थं मंडलं सम्यक् वामदेवेन वीक्षितं । अष्टोत्तरैस्तु पंचाशत्तूकैः पंच शतैरपि ॥ एकोनया नवत्या च युक्तैर्मंत्रैश्च संमितं । व्याकार्षित्सुखबोधार्थं पश्यतैतद्विमत्सराः ॥ (*itthaṃ śrībukkabhūpālasāmrājyaikadhuraṃdharaḥ | vidyātīrthagurordṛṣṭā prāptasārvajñyavaibhavaḥ ‖ śrīmatsāyaṇamaṃtriśaḥ sakalāgamatattvavit | dāśatayyāṃ mādhavīye vedārthasya prakāśane ‖ caturthaṃ maṃḍalaṃ samyak vāmadevena vīkṣitaṃ | aṣṭottaraistu paṃcāśattūkaiḥ paṃca śatairapi ‖ ekonayā navatyā ca yuktairmaṃtraiśca saṃmitaṃ | vyākārṣitsukhabodhārthaṃ paśyataitadvimatsarāḥ ‖*) ॥ इति चतुर्थं मंडलं समाप्तं ॥ (*‖ iti caturthaṃ maṃḍalaṃ samāptaṃ ‖*)
 
+### Printed p. 667
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+Thus ends the Fourth Maṇḍala, in the Ṛksaṃhitā-bhāṣya, in the Vedārthaprakāśa of the school of Mādhava, composed by Sāyaṇācārya, bearer of the burden of the empire of the glorious Vīra Bukka, the king, the supreme lord, the promoter of the Vedic path. ओं शत्स्य (*oṃ śatsya*)
+
+Here ends the fourth maṇḍala of the Ṛgveda-saṃhitā, together with the bhāṣya of Śrī Sāyaṇa and the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत्। तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet| tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळं (*maṃgaḷaṃ*)
+
+ओं (*oṃ*) श्रीः (*śrīḥ*) श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya.
+
+Now the Fifth Maṇḍala. The Fifth Maṇḍala.
+
+## Introduction (Piṭhike)
+
+**Introduction to the seer Atri, the seer of the maṇḍala.**
+
+Although Atri is named as the seer of the Fifth Maṇḍala of the Ṛgveda, other seers too are the seers of the sūktas of this maṇḍala. It cannot be said that all of these belong to the family of Atri. Sāyaṇa has said: पंचमंडलेनुक्तगोत्रमात्रेयं विद्यादिति परिभाषितत्वादात्रेयौ बुधगविष्ठिरावृषी (*paṃcamaṃḍalenuktagotramātreyaṃ vidyāditi paribhāṣitatvādātreyau budhagaviṣṭhirāvṛṣī*). According to this rule, where some seers who are seers of sūktas in the Fifth Maṇḍala are not stated to belong to any particular gotra, they must be regarded as born in the gotra of Atri. From this point of view he says that the two seers Budha and Gaviṣṭhira, the seers of the first sūkta of this maṇḍala, must also be understood to be of the Atreya family. Therefore all the seers of this maṇḍala
+
+### Printed p. 670
+
+must be connected in one way or another with the family of the seer Atri. Besides, many of the seers of this maṇḍala are also seers of many sūktas of other maṇḍalas. This matter will become clear by examining the list below. The seer Atri, or Atri Bhauma, who is the seer of the maṇḍala and the chief seer, is the seer of the 131 mantras stated below.
+
+| Name of seer | Maṇḍala | Sūkta | Number of ṛks in the sūkta | Total mantras |
+|---|---|---|---|---|
+| Atri or Atri Bhauma | 5 | 27 | 6 | 6 |
+| „ | „ | 37 | 5 | 5 |
+| „ | „ | 38 | 9 | 9 |
+| „ | „ | 39 | 5 | 5 |
+| „ | „ | 40 | 5 | 5 |
+| „ | „ | 41 | 20 | 20 |
+| „ | „ | 42 | 18 | 18 |
+| „ | „ | 43 | 17 | 17 |
+| „ | „ | 36 | 5 | 5 |
+| „ | „ | 37 | 5 | 5 |
+| „ | „ | 83 | 10 | 10 |
+| „ | „ | 84 | 3 | 3 |
+| „ | „ | 85 | 8 | 8 |
+| „ | „ | 86 | 6 | 6 |
+| „ | 9 | 67 | 32 | 3 (10-12) |
+| „ | „ | 86 | 48 | 5 (41-45) |
+| „ | 10 | 137 | 7 | 1 (4) |
+| Total | 3 | 17 | — | 131 |
+
+Details of the other seers in the Fifth Maṇḍala (apart from Atri), and the sūktas and ṛks seen by them—
+
+| No. | Name of seer | Maṇḍala | Sūkta | Total number of ṛks |
+|---|---|---|---|---|
+| 1 | Budha (Ātreya) | 5 | 1 | 12 |
+| 2 | Gaviṣṭhira (Ātreya) | „ | „ | „ (total 12) |
+| 3 | Kumāra (Ātreya) | 5 | 2 | 12 |
+| 4 | Vṛśa (Jāna) | „ | „ | „ (total 12) |
+| 5 | Vasuśruta (Ātreya) | 5 | 3 | 12 |
+| | | „ | 4 | 11 |
+| | | „ | 5 | 11 |
+
+### Printed p. 671
+
+| No. | Name of seer | Maṇḍala | Sūkta | Total number of ṛks |
+|---|---|---|---|---|
+| 6 | Vasuśruta (Ātreya) | „ | 6 | 10 (total 44) |
+| | Iṣa (Ātreya) | 5 | 7 | 10 |
+| 7 | Gaya (Ātreya) | „ | 8 | 2 (17) |
+| | „ | „ | 10 | 2 (14) |
+| | Sutambhara (Ātreya) | 5 | 11 | 6 |
+| 8 | „ | „ | 12 | 6 |
+| | „ | „ | 13 | 6 |
+| | „ | „ | 14 | 6 (24) |
+| 9 | Dharuṇa (Āṅgirasa) | 5 | 15 | 5 |
+| 10 | Pūru (Ātreya) | 5 | 16 | 5 |
+| | „ | „ | 17 | 5 (10) |
+| 11 | Dvita Mṛktavāhā (Ātreya) | 5 | 18 | 5 |
+| 12 | Vavri (Ātreya) | 5 | 19 | 5 |
+| 13 | Prayasvantaḥ (Ātreyāḥ) | 5 | 20 | 4 |
+| 14 | Sasa (Ātreya) | 5 | 21 | 4 |
+| 15 | Viśvasāmā (Ātreya) | 5 | 22 | 4 |
+| 16 | Dyumna Vicarṣaṇi (Ātreya) | 5 | 23 | 4 |
+| 17 | Bandhu (Gaupāyana) | 5 | 24 | 4 |
+| 18 | Śrutabandhu „ | 10 | 57 | 6 |
+| 19 | Viprabandhu „ | 10 | 58 | 12 |
+| | „ | 10 | 59 | 10 |
+| | „ | 10 | 60 | 12 (44) |
+| 20 | Subandhu (Gaupāyana or Laupāyana) | 5 | 24 | 4 |
+| 21 | Vasūyava (Ātreyāḥ) | 5 | 25 | 9 |
+| 22 | Trairuṇa Traivṛṣṇa (Bhārata, king) | 5 | 27 | 6 |
+| | | 9 | 110 | 12 (18) |
+| 23 | Trasadasyu Paurukutsa (Bhārata, king) | 5 | 27 | 6 |
+| | | 4 | 42 | 10 |
+| | | 9 | 110 | 12 (28) |
+| 24 | Aśvamedha (Bhārata, king) | 5 | 27 | 6 |
+| 25 | Viśvavārā (Ātreyī) | 5 | 28 | 6 |
+| 26 | Gaurivīti (Śāktya) | 5 | 29 | 15 |
+| | | 9 | 108 | 2 |
+| | | 10 | 33 | 11 |
+
+### Printed p. 672
+
+| No. | Name of seer | Maṇḍala | Sūkta | Total number of ṛks |
+|---|---|---|---|---|
+| | Gaurivīti (Śāktya) | 10 | 74 | 6 (34) |
+| 27 | Babhru (Ātreya) | 5 | 30 | 15 |
+| 28 | Avasyu (Ātreya) | 5 | 31 | 13 |
+| | „ | 75 | 9 | (22) |
+| 29 | Gātu (Ātreya) | 5 | 32 | 12 |
+| 30 | Saṃvaraṇa (Prājāpatya) | 5 | 33 | 10 |
+| | „ | 34 | 9 | (19) |
+| 31 | Prabhūvasu (Āṅgirasa) | 5 | 35 | 8 |
+| | „ | 36 | 6 | |
+| | | 9 | 35 | 6 |
+| | „ | 36 | 6 | (26) |
+| 32 | Avatsāra (Kāśyapa) | 5 | 44 | 15 |
+| | | 9 | 33 | 4 |
+| | „ | 54 | 4 | |
+| | „ | 55 | 4 | |
+| | „ | 56 | 4 | |
+| | „ | 57 | 4 | |
+| | „ | 58 | 4 | |
+| | „ | 59 | 4 | |
+| | „ | 60 | 4 (47) | |
+| 33 | Sadāpṛṇa (Atreya) | 5 | 44 | 1 ( ? ) |
+| | „ | 45 | 11 | (12) |
+| 34 | Pratikṣatra (Ātreya) | 5 | 46 | 8 |
+| 35 | Pratiratha (Ātreya) | 5 | 47 | 7 |
+| 36 | Pratibhānu (Ātreya) | 5 | 48 | 5 |
+| 37 | Pratiprabha (Ātreya) | 5 | 49 | 5 |
+| 38 | Svasti (Ātreya) | 5 | 50 | 5 |
+| | „ | 51 | 15 | (20) |
+| 39 | Śyāvāśva (Ātreya) | 5 | 52 | 17 |
+| | „ | 53 | 16 | |
+| | „ | 54 | 15 | |
+| | „ | 55 | 10 | |
+| | „ | 56 | 9 | |
+| | „ | 57 | 8 | |
+| | „ | 58 | 8 | |
+| | „ | 59 | 8 | |
+
+### Printed p. 673
+
+| No. | Name of seer | Maṇḍala | Sūkta | Total number of ṛks |
+|---|---|---|---|---|
+| | Śyāvāśva (Ātreya) | „ | 60 | 8 |
+| | „ | | 61 | 19 |
+| | „ | | 81 | 5 |
+| | „ | | 82 | 9 |
+| | | 8 | 35 | 24 |
+| | „ | | 36 | 7 |
+| | „ | | 37 | 7 |
+| | „ | | 38 | 10 |
+| | | 9 | 32 | 6 (186) |
+| 40 | Śrutavit (Ātreya) | 5 | 44 | 1 |
+| 41 | Arcanānā (Ātreya) | „ | 62 | 9 (9) |
+| | „ | | 63 | 7 |
+| | „ | | 64 | 7 |
+| 42 | Rātahavya (Ātreya) | 5 | 65 | 6 |
+| 43 | Yajata (Ātreya) | „ | 66 | 6 (12) |
+| | „ | | 67 | 5 |
+| | „ | | 68 | 5 (10) |
+| 44 | Urucakri (Ātreya) | 5 | 69 | 4 |
+| 45 | Bāhuvṛktya (Ātreya) | „ | 70 | 4 (8) |
+| | „ | | 71 | 3 |
+| | „ | | 72 | 3 (6) |
+| 46 | Paura (Ātreya) | 5 | 73 | 10 |
+| 47 | Saptavadhri (Ātreya) | 5 | 78 | 9 |
+| 48 | Satyaśravā (Ātreya) | 5 | 79 | 10 |
+| | „ | | 82 | 6 (16) |
+| 49 | Evayāmarut (Ātreya) | 5 | 87 | 9 |
+
+Including the seer Atri, the seer of the maṇḍala, there are 50 seers in this maṇḍala. In this maṇḍala there are 6 anuvākas, 87 sūktas and in all 727 ṛks.
+
+### Printed p. 675
+
+**Introduction to the seer Atri, the seer of the maṇḍala**
+
+स इदं सर्वं पाप्मनोऽत्रायत यदिदं किंच स यदिदं सर्वं पाप्मनोऽत्रायत यदिदं किंच तस्मादत्रयः (*sa idaṃ sarvaṃ pāpmano 'trāyata yadidaṃ kiṃca sa yadidaṃ sarvaṃ pāpmano 'trāyata yadidaṃ kiṃca tasmādatrayaḥ*) (Ai. Ā. 2-2-1)
+
+As described in the Aitareya-Āraṇyaka, the Śatarcins who are the seers of the sūktas of the Ṛksaṃhitā, Gṛtsamada and the other seers, are all well known as particular manifestations of the principle of Prāṇa in the form of Āditya. Among them Atri became famous by this name because he protects a person from all sins; such is the etymology of the word Atri and the praise of this great seer. But in this etymology and praise there is room for doubt whether Atri is a particular spiritual principle or a person in human form. In the present context, however, we can conclude that Atri is one of the seven seers famous in the world, and that the authorship of the Fifth Maṇḍala of the Ṛksaṃhitā belongs to him and to the seers born in his line. In the present context we may examine what the greatness of the Atri who is known as a historical great seer is, and what the peculiarity of his supernatural power is, and thereafter learn where and in what ways the divine form of Atri, which reflects the spiritual principle, is described. In many places it is said that Atri is a son of Prajāpati. The statements of the Bṛhaddevatā describe the manner of his origin thus.
+
+त्रिसांवत्सरिकं सत्त्रं प्रजाकामः प्रजापतिः । आहरत्सहितः साध्यैर्विश्वेदेवैः सहेति च (*trisāṃvatsarikaṃ sattraṃ prajākāmaḥ prajāpatiḥ | āharatsahitaḥ sādhyairviśvedevaiḥ saheti ca*)
+
+Prajāpati desired to have offspring. For that he performed a sattra sacrifice to be carried out over three years. It is well known that during this sacrifice he had the Sādhyas and the Viśvedevas as his helpers.
+
+तत्र वाग्दीक्षणीयायामाजगाम शरीरिणे । तां दृष्ट्वा युगपत्तत्र कस्याथ वरुणस्य च ॥ (*tatra vāgdīkṣaṇīyāyāmājagāma śarīriṇe | tāṃ dṛṣṭvā yugapattatra kasyātha varuṇasya ca ‖*)
+
+Vāgdevī, taking a human body, came to this Dakṣa sacrifice which Prajāpati was performing together with the Viśvedevas and the Sādhyas. As soon as they saw her divine beauty, Prajāpati and Varuṇa became disturbed in mind, and their desire became intense.
+
+शुक्रं चस्यंद तद्वायुरग्नौ प्रास्यदृच्छया । ततोर्चिभ्यो भृगुर्जज्ञे अंगारेष्वंगिरा ऋषिः ॥ प्रजापतिगू वरुणनिगू कामविकारवुंटादुदरिंद अवर रेतस्सु स्खलितवागि पतितवायितु. वायुवु अदन्नु हिडिदु तन्न इष्टबंदंतॆ अग्नियल्लि चदुरिसिदनु. आग आ रेतस्सु अग्नियल्लि प्रवेशिसि दॊडनॆये, अग्नि ज्वालॆयिंद भृगुवू, अंगारदिंद (कॆंडदिंद) अंगिराऋषिग (*śukraṃ casyaṃda tadvāyuragnau prāsyadṛcchayā | tatorcibhyo bhṛgurjajñe aṃgāreṣvaṃgirā ṛṣiḥ ‖ prajāpatigū varuṇanigū kāmavikāravuṃṭādudariṃda avara retassu skhalitavāgi patitavāyitu. vāyuvu adannu hiḍidu tanna iṣṭabaṃdaṃtè agniyalli cadurisidanu. āga ā retassu agniyalli praveśisi dòḍanèye, agni jvālèyiṃda bhṛguvū, aṃgāradiṃda (kèṃḍadiṃda) aṃgirāṛṣiga*)
+
+Because desire arose in Prajāpati and Varuṇa, their semen was discharged and fell. Vāyu took it and scattered it into the fire as he pleased. As soon as that semen entered the fire, Bhṛgu was born from the flame of the fire, and the seer Aṅgirā from the ember (aṅgāra).
+
+प्रजापतिं सुतौ दृष्ट्वा दृष्ट्वा वागभ्यभाषत । आभ्यामृषिस्तृतीयोऽपि भवेदत्रैव मे सुतः ॥ (*prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgabhyabhāṣata | ābhyāmṛṣistṛtīyo 'pi bhavedatraiva me sutaḥ ‖*)
+
+When Bhṛgu and Aṅgiras were born from the semen cast into the fire, Vāgdevī looked at them. Prajāpati looked at Vāgdevī. Then Vāgdevī addressed Prajāpati, saying that she had a wish to have a third son beyond these two sons, Bhṛgu and Varuṇa, and asked that Prajāpati fulfil it.
+
+प्रजापतिस्तथेत्युक्तः प्रत्यभाषत भारतीं । ऋषिरत्रिस्ततो जज्ञे सूर्यानलसमद्युतिः ॥ (*prajāpatistathetyuktaḥ pratyabhāṣata bhāratīṃ | ṛṣiratristato jajñe sūryānalasamadyutiḥ ‖*) (Bṛ. De. 5, 92-101)
+
+When Prajāpati was thus asked by Vāgdevī for a third son, he agreed that it might be so. Then, through his effort, the seer Atri was born. Because this great seer Atri was endowed with divine qualities, his splendour was equal to the radiance of the sun and of fire. Thus the manner of Atri's origin and his greatness are told. This account follows what is described in Vedic passages. For example, the same matter is described in the Śatapatha-Brāhmaṇa, but with a slight difference in the account.
+
+तद्भैतद्देवाः । रेतश्चर्मन्वा यस्मिन्वा बभ्रुस्तद्धस्म पृच्छंत्यत्रेव त्यादिति ततोऽत्रिः संबभूव तस्मादप्यात्रेय्या योषितैनस्येतस्यै हि योषायै वाचो देवताया एते संभूताः ॥ (*tadbhaitaddevāḥ | retaścarmanvā yasminvā babhrustaddhasma pṛcchaṃtyatreva tyāditi tato 'triḥ saṃbabhūva tasmādapyātreyyā yoṣitainasyetasyai hi yoṣāyai vāco devatāyā ete saṃbhūtāḥ ‖*) (Śa. Brā. 1-4-5-13)
+
+When a dispute arose between Speech and Mind about the particular merit of each, Prajāpati gave his decision in favour of Mind. In this story, which says that Speech was displeased, it cannot be said that affection arose between Speech and Prajāpati. The origin of Bhṛgu and Aṅgiras from that semen is not mentioned in that context. Even so, it states only that Atri is a son of Prajāpati; it is also suggested that he is a son of Vāgdevī. The etymology of the word Atri is also stated. Only this becomes clear, that he was born of divine splendour. The greatness of this divine splendour is also praised in many places. For example—
+
+आत्रेयाय हिरण्यं ददाति यत्र वा अदः प्रातरनुवाकमन्वाहुस्तद्ध स्मैतत्पुरा शंग्‌संतृत्रिर्ना ऋषीणाग्ं होतासाथैतत्सदोऽसुरतमसमभिपुपुवे त ऋषयोऽत्रिमब्रुवन्नेहि प्रत्यज'दं तमोऽपजहेति (*ātreyāya hiraṇyaṃ dadāti yatra vā adaḥ prātaranuvākamanvāhustaddha smaitatpurā śaṃgsaṃtṛtrirnā ṛṣīṇāgṃ hotāsāthaitatsado 'suratamasamabhipupuve ta ṛṣayo 'trimabruvannehi pratyaja 'daṃ tamo 'pajaheti*)
+
 ---
 
-**Progress note:** Done through printed p. 666. pp. 661-666 (batch API)
+**Progress note:** Done through printed p. 675. pp. 667-675 (batch API)
