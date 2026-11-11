@@ -6774,6 +6774,250 @@ It has been explained before that there are three pressings: the morning pressin
 
 Since the Gāyatrī metre had eight syllables, it was, as it were, complete and became able to carry out the proceedings of the morning pressing. But since the Triṣṭubh metre had lost one syllable and had only three, it had no capacity to carry out the proceedings of the midday pressing. Seeing the Triṣṭubh metre thus incapable, Gāyatrī said: "O Triṣṭubh, since you have no power to carry out the work, I shall come to your help in the proceedings of the midday pressing. But in return for that help I too must have a share in the midday pressing. If you agree to that, I shall help you." Hearing this, the Triṣṭubh metre agreed, saying "So be it", and said: "O Gāyatrī, I now have only three syllables. If your eight syllables are added to them I shall have eleven syllables, and so I shall have the power to carry out the work." Accordingly Gāyatrī joined her eight syllables to the three syllables of the Triṣṭubh metre. By this the Triṣṭubh metre too became able to carry out the work in the midday pressing. Triṣṭubh agreed, saying "So be it", to Gāyatrī's asking for a share in the midday pressing. What, then, is Gāyatrī's share in the midday pressing? In the closing part of the Marutvatīya ... **NOTE**, in the tṛca (a tṛca is 3 ṛks) beginning आ त्वा रथं यथोतये (*ā tvā rathaṃ yathotaye*) (Ṛ. Saṃ. 8-68-1) and in the following tṛca विश्वासरस्य वस्पतिः (*viśvāsarasya vaspatiḥ*) (Ṛ. Saṃ. 8-68-4), two ṛks each are in the Gāyatrī metre. That is, in the tṛca beginning आ त्वा रथं यथोतये (*ā tvā rathaṃ yathotaye*), तुविशुष्क तुविक्रतो (*tuviśuṣka tuvikrato*) and यस्य ते महिना (*yasya te mahinā*) … (the sentence is cut off here; the next window continues it).
 
+### Printed p. 198
+
+##### विशेषविषयगळु (Special Topics)
+
+…and the two Ṛks beginning with महः (*mahaḥ*) (Ṛ. Saṃ. 6-68-2, 3rd Ṛks) **NOTE**. In the second tṛca, विश्वानरस्य वस्पतिः (*viśvānarasya vaspatiḥ*), there are the two Ṛks अभिष्टये सदावृधं (*abhiṣṭaye sadāvṛdhaṃ*) and परोमात्रमृचेषं (*paromātramṛceṣaṃ*) (Ṛ. Saṃ. 8-68-5 and 6, the 5th and 6th Ṛks). Together these make four Gāyatrī-metre mantras in the pratipat-tṛcas. Pratipat-tṛca means the Ṛks recited at the beginning. Then in the anucara, the tṛca recited at the end, its first Ṛk, the mantra इदं वसो सुतमंधः (*idaṃ vaso sutamaṃdhaḥ*), is also in Gāyatrī metre. Therefore the 4 Gāyatrī Ṛks of the pratipat-tṛcas and the 1 Gāyatrī Ṛk of the anucara-tṛca, in all 5 Gāyatrī Ṛks, are in the midday pressing. These 5 Ṛks are what is specified as the portion due to the Gāyatrī in the midday pressing.
+
+नाशक्कोज्जगत्येकाक्षरा तृतीयसवनमुद्यंतुं तां गायत्र्यब्रवीदायान्यपि मेत्रास्त्विति सा तथेत्यब्रवीज्जगती तां वै मैतैरेकादशभिरक्षरैरुपसंधेहीति तथेति तामुपसमदधादेतद्वै तद्गायत्र्यै तृतीयसवने यद्वैश्वदेवस्योत्तरे प्रतिपदो यश्वानुचरः सा द्वादशाक्षरा भूत्वा तृतीयसवनमुदयच्छत् ॥ (*nāśakkojjagatyekākṣarā tṛtīyasavanamudyaṃtuṃ tāṃ gāyatryabravīdāyānyapi metrāstviti sā tathetyabravījjagatī tāṃ vai maitairekādaśabhirakṣarairupasaṃdhehīti tatheti tāmupasamadadhādetadvai tadgāyatryai tṛtīyasavane yadvaiśvadevasyottare pratipado yaśvānucaraḥ sā dvādaśākṣarā bhūtvā tṛtīyasavanamudayacchat ‖*)
+
+The Jagatī metre too had lost three syllables and was left with one syllable. Therefore it too became unable to carry out the proceedings of the third pressing. Even then the Gāyatrī addressed the Jagatī: "O Jagatī, I shall help you in the proceedings of the third pressing; but I must have a share in it." The Jagatī agreed and said, "Do so." That is, the eight syllables of the Gāyatrī and the three of the Triṣṭup together became eleven syllables and were able to carry out the work at the midday pressing. Those eleven syllables, joining the one syllable of the Jagatī, now became twelve syllables and were able to carry out the proceedings of the third pressing. How? At the end of the Vaiśvadeva śastra mantras recited at the time of the third pressing, the Ṛks recited for the pratipat-tṛcas and the Ṛks recited as anucara are also mantras in Gāyatrī metre. Thus these mantras, twelve syllables in all, became Jagatī-metred and were able to accomplish the work of the third pressing. This is the meaning.
+
+ततो ना अष्टाक्षरा गायत्र्यभवदेकादशाक्षरा त्रिष्टुब्द्वादशाक्षरा जगती । सर्वॆश्चंदोभिः समावद्वीर्यैः समावज्जा मिभी राध्योति य एवं वेद । एकं वै सत्तत्रेधाभवत्तस्मादाहुर्दातव्यमेवं विदुष इत्येकं हि सत्तत्रेधाभवत् ॥ (*tato nā aṣṭākṣarā gāyatryabhavadekādaśākṣarā triṣṭubdvādaśākṣarā jagatī | sarvèścaṃdobhiḥ samāvadvīryaiḥ samāvajjā mibhī rādhyoti ya evaṃ veda | ekaṃ vai sattatredhābhavattasmādāhurdātavyamevaṃ viduṣa ityekaṃ hi sattatredhābhavat ‖*) (Ai. Brā. 13-28).
+
+### Printed p. 199
+Therefore the Gāyatrī metre came to have eight syllables, the Triṣṭup eleven, and the Jagatī twelve. These three metres obtained a rank, status and excellence equal to all the other metres. The man who knows this obtains excellence and an honoured position. The form of the Gāyatrī was formerly of four syllables only; afterwards it acquired four more syllables and also entered the Triṣṭup and Jagatī metres (that is, it mingled its eight syllables with the syllables of the Triṣṭup and Jagatī metres); so its form, that is its greatness, became threefold. Therefore the wise, who know the secret of dharma, say that gold and the like should be given as a gift to the man who knows this greatness of the Gāyatrī.
+
+The Somāharaṇa narrative (the Saupar̥ṇa narrative) is concluded.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒जि॒प्य ई॒मिंद्रा॑वतो॒ न भु॒ज्युं श्ये॒नो ज॑भार बृह॒तो ॒ 
+> अधि ष्टोः ।  
+> अं॒तः प॑तत्पत॒त्र्य॑स्य प॒र्णमध॒ याम॑नि॒ प्रसि॑तस्य॒ तद्वेः ॥ ४ ॥
+
+> *ṛjipya īmiṃdrāvato na bhujyuṃ śyeno jabhāra bṛhato*  
+> *adhi ṣṭoḥ |*  
+> *aṃtaḥ patatpatatryasya parṇamadha yāmani prasitasya tadveḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋजिप्यः । ईं । इंद्रवतः । न । भुज्युं । श्येनः । जभार । बृहतः । अधि । स्नोः ।  
+> अंतरिति । पतत् । पतत्रि । अस्य । पर्णं । अध । यामनि । प्रसितस्य । तत् । वेरिति वेः॥
+
+> *ṛjipyaḥ | īṃ | iṃdravataḥ | na | bhujyuṃ | śyenaḥ | jabhāra | bṛhataḥ | adhi | snoḥ |*  
+> *aṃtariti | patat | patatri | asya | parṇaṃ | adha | yāmani | prasitasya | tat | veriti veḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋजिप्य ऋजुगामी श्येन इंद्रवत इंद्रो रक्षको यस्य तस्माद्बृहतो
+> महतोऽधि उपरि स्नोः स्थिताद्दुलोकादीमेनं सोमं जभार । आजहार । तत्र
+> दृष्टांतः । इंद्रवतः । इंद्रः समर्थः । तद्वतो देशाद्भुज्यं न भुज्युनामकं
+> राजानं यथाश्विनावाजह्रतुस्तद्वत् । अध तदानीं यामनि युद्धे प्रसितस्य
+> कृशानोरस्त्रैर्बद्धस्य वेर्गंतुरस्य श्येनस्यांतर्मध्यॆ स्थितं पतत्रि पतनशीलं
+> तत्पर्णं पतत् । अपतत् ॥
+
+##### Gist of the bhāṣya
+
+The ऋजिप्य (*ṛjipya*), the straight-going hawk (श्येन (*śyena*)), brought this Soma from the great heaven above, from the world of heaven that lies on high, that has Indra as its protector (इंद्रवतः (*iṃdravataḥ*)). An illustration is given: "from the region possessed of Indra", that is, Indra being the capable one, from the region of that capable one, as the two Aśvins brought the king named Bhujyu, so did he bring it. Then, in the battle (यामनि (*yāmani*)), as the hawk was bound by the arrows of Kṛśānu, a falling feather that was within it, in its middle, fell. **NOTE**
+
+### Printed p. 200
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजिप्यः (*ṛjipyaḥ*)—flying straight
+- शैनः (*śainaḥ*)—the hawk
+- इंद्रवतः (*iṃdravataḥ*)—that which is protected by Indra
+- बृहतः (*bṛhataḥ*)—that which is great
+- अधि स्नोः (*adhi snoḥ*)—from the atmosphere, that which lies in a very lofty region
+- ईं (*īṃ*)—this Soma
+- भुज्युं न (*bhujyuṃ na*)—as (the Aśvins) carried Bhujyu
+- जभार (*jabhāra*)—carried and brought
+- अध (*adha*)—at that time, the occurring
+- यामनि (*yāmani*)—in the battle
+- प्रसितस्य (*prasitasya*)—of that struck by a weapon
+- अस्य वेः (*asya veḥ*)—of this hawk-bird
+- अंतः (*aṃtaḥ*)—that which is in the middle part
+- पतत्रि (*patatri*)—that which is liable to fall
+- तत् पर्णं (*tat parṇaṃ*)—a feather
+- पतत् (*patat*)—fell down
+
+##### भावार्थ (Bhāvārtha)
+
+As the Aśvins carried Bhujyu, so this straight-flying hawk too carried the Soma from the atmosphere, which is protected by Indra, great, and situated in a very lofty region. But in the battle that arose at that time, a falling feather from the middle of this bird, struck by a weapon, dropped down.
+
+##### English translation (H. H. Wilson)
+The straight-flying hawk carried off the Soma from above the vast heaven, as (the Ashwins carried off) Bhujyu from the region of Indra, and a falling feather from the middle of the bird dropped from him wounded in the conflict.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ श्वे॒तं क॒लशं॒ गोभि॑र॒क्तमा॑पिप्या॒नं म॒घवा॑ शु॒क्रमंधः॑ ।  
+> अ॒ध्व॒र्युभिः॒ प्रय॑तं॒ मध्यो॒ अग्र॒मिंद्रो॒ मदा॑य॒ प्रति॑  
+> ध॒त्पिब॑ध्यै॒ शूरो॒ मदा॑य॒ प्रति॑ ध॒त्पिब॑ध्यै ॥ ॥ ५
+
+> *adha śvetaṃ kalaśaṃ gobhiraktamāpipyānaṃ maghavā śukramaṃdhaḥ |*  
+> *adhvaryubhiḥ prayataṃ madhyo agramiṃdro madāya prati*  
+> *dhatpibadhyai śūro madāya prati dhatpibadhyai ‖ ‖ 5*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । श्वेतं । कलशं । गोभिः । अक्तं । आपिप्यानं । मघवा । शुक्रं । अंधः ।  
+> अध्वर्युभिः । प्रयतं । मध्वः । अग्रं । इंद्रः । मदाय । प्रति । धत् । पिबध्यै ।  
+> शूरः । मदाय । प्रति । धत् । पिबध्यै ॥ ५ ॥
+
+> *adha | śvetaṃ | kalaśaṃ | gobhiḥ | aktaṃ | āpipyānaṃ | maghavā | śukraṃ | aṃdhaḥ |*  
+> *adhvaryubhiḥ | prayataṃ | madhvaḥ | agraṃ | iṃdraḥ | madāya | prati | dhat | pibadhyai |*  
+> *śūraḥ | madāya | prati | dhat | pibadhyai ‖ 5 ‖*
+
+### Printed p. 201
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाधुना शूरो विक्रांतो मघवा धनवानिंद्रः श्वेतं शुभ्रं कलशं
+> कलशे पात्रे स्थितं गोभिर्गव्येन पयसाक्तं सिक्तमापिप्यानमाप्याययंतं शुक्रं
+> सारोपेतमध्वर्युभिः प्रयतं दत्तमंधः सोमलक्षणमन्नं मध्यो मधुरस्य
+> सोमरसस्याग्रमग्रे मदायॆ मदार्थं पिबध्यै पातुं प्रति धत् । प्रतिदधातु ।
+> पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+Now, the hero (शूरः (*śūraḥ*)), the valiant Maghavan, the wealthy Indra, is to accept the white, bright (श्वेतं (*śvetaṃ*)) food (अंधः (*aṃdhaḥ*)), which has the nature of Soma, that stands in the vessel (कलशं (*kalaśaṃ*)), sprinkled with milk of the cow (गोभिः (*gobhiḥ*)), swelling (आपिप्यानं (*āpipyānaṃ*)), full of essence, given by the Adhvaryus: the top (अग्रं (*agraṃ*)) of the sweet Soma juice, for exhilaration, to drink (पिबध्यै (*pibadhyai*)). प्रति धत् (*prati dhat*) means "let him accept". The repetition is for the sake of respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—now
+- शूरः (*śūraḥ*)—the valiant one
+- मघवा (*maghavā*)—the wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- श्वेतं (*śvetaṃ*)—that which is pure white
+- कलशं (*kalaśaṃ*)—that which is in the pitcher-vessel
+- गोभिः (*gobhiḥ*)—with milk
+- अक्तं (*aktaṃ*)—that which is mixed
+- आपिप्यानं (*āpipyānaṃ*)—that which gives satisfaction
+- शुक्रं (*śukraṃ*)—that which is the essence
+- अध्वर्युभिः (*adhvaryubhiḥ*)—by the Adhvaryus
+- प्रयतं (*prayataṃ*)—that which is offered
+- अंधः (*aṃdhaḥ*)—the food in the form of Soma
+- मदाय (*madāya*)—for the gaining of delight
+- पिबध्यै (*pibadhyai*)—to drink
+- प्रति धत् (*prati dhat*)—let him accept
+- मध्वः (*madhvaḥ*)—of the sweet Soma juice
+- अग्रं (*agraṃ*)—the upper part
+- प्रति धत् (*prati dhat*)—let him accept
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the valiant and wealthy, accept the Soma juice, which is pure white, placed in the pitcher-vessel, mixed with milk **NOTE**, satisfying, essential, offered by the Adhvaryus, to drink for his own delight. May he drink the upper part of the sweet Soma juice.
+
+##### English translation (H. H. Wilson)
+Now may Maghavan accept the pure nutritious (sacrificial) food in a white pitcher, mixed with milk and curds, offered by the priests; the upper part of the sweet (beverage) to drink for his exhilaration : may the hero accept (it) to drink for (his) exhilaration.
+
+## Sūkta 28 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वा युजेति पंचर्चं सप्तमं सूक्तं वामदेवस्यार्षं त्रैष्टुभमिंद्रासोमदेवताकं । अनुक्रांतं च । त्वा युजैंद्रासोममिति । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta त्वा युजा (*tvā yujā*) has five Ṛks and is the seventh sūkta. Its seer is Vāmadeva; its metre is Triṣṭubh; its deities are Indra and Soma. The Anukramaṇī also says: त्वा युजैंद्रासोमं (*tvā yujaiṃdrāsomaṃ*). The application (viniyoga) is by indication (लैंगिकः (*laiṃgikaḥ*)).
+
+### Printed p. 202
+Anuvāda: This sūkta beginning त्वा युजा (*tvā yujā*) is the seventh sūkta in the third anuvāka. It has five Ṛks. The seer of this sūkta is Vāmadeva; the deities are Indra and Soma; the metre is Triṣṭup. In the Anukramaṇī it is said: त्वा युजैंद्रासोमं (*tvā yujaiṃdrāsomaṃ*). The application is by indication.
+
+- Maṇḍala 4; Anuvāka 3; Sūkta 28
+- Aṣṭaka 3; Adhyāya 6; Varga 17
+- Number of Ṛks in the sūkta: 5
+- Ṛṣi: Vāmadeva
+- Devatā: Indra and Soma
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वा यु॒जा तव॒ तत्सो॑म स॒ख्य इंद्रो॑ अ॒पो मन॑वे स॒स्रुत॑स्यः ।  
+> अह॒न्न हि॒मरि॑णात्स॒प्त सिंधू॒नपा॑वृणो॒दपि॑हितेव॒ खानि॑ ॥ १ ॥
+
+> *tvā yujā tava tatsoma sakhya iṃdro apo manave sasrutasyaḥ |*  
+> *ahanna himariṇātsapta siṃdhūnapāvṛṇodapihiteva khāni ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वा । युजा । तव । तत् । सोम । सख्ये । इंद्रः । अपः । मनवे । सस्रुतः । करिति।  
+> कः ।  
+> अहन् । अहिं । अरिणात् । सप्त । सिंधून् । अप । अवृणोत् । अपिहिताइव । खानि ॥
+
+> *tvā | yujā | tava | tat | soma | sakhye | iṃdraḥ | apaḥ | manave | sasrutaḥ | kariti|*  
+> *kaḥ |*  
+> *ahan | ahiṃ | ariṇāt | sapta | siṃdhūn | apa | avṛṇot | apihitāiva | khāni ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तव त्वदीये तत्तस्मिन् सख्ये सखित्वे सति त्वा त्वया युजा
+> सहायेनेंद्रः सस्रुतः सरणशीला अपो वृष्टिलक्षणान्युदकानि मनवे मनुष्येभ्यः
+> कः । अकरोत् । किंच अहिं वृत्रमसुरमहन् । हतवान् । सप्त सर्पणशीलाः
+> सिंधूनपोऽरिणात् । प्रैरयत् । आपिहितेवापिहितानीव वृत्रेण तिरोहितानि च ।
+> अत्रेवशब्दश्चार्थे । खानि स्रोतसां द्वाराण्यपावृणोत् । उद्घाटितवान् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, in that friendship that is yours, with you (त्वा (*tvā*)) as his helper (युजा (*yujā*)), Indra made (कः (*kaḥ*), "he did") the flowing waters (अपः (*apaḥ*)), the waters in the form of rain, for Manu, that is, for men. Moreover he slew Ahi, the asura Vṛtra; he sent forth the seven flowing rivers; and he opened the outlets (खानि (*khāni*)) of the streams, which were as if covered and hidden by Vṛtra. Here the word इव (*iva*) is in the sense of "and".
+
+### Printed p. 203
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- तव (*tava*)—your
+- तत् सख्ये (*tat sakhye*)—since that friendship is with Indra
+- त्वा (*tvā*)—with you
+- युजा (*yujā*)—joined (with your help)
+- इंद्रः (*iṃdraḥ*)—Indra
+- सस्रुतः (*sasrutaḥ*)—fit to flow
+- अपः (*apaḥ*)—the waters
+- मनवे (*manave*)—for the good of mankind
+- कः (*kaḥ*)—made flow
+- अहिं (*ahiṃ*)—Vṛtrāsura
+- अहन् (*ahan*)—slew
+- सप्त सिंधून् (*sapta siṃdhūn*)—the seven rivers
+- अरिणात् (*ariṇāt*)—impelled to flow
+- अपिहितेव (*apihiteva*)—although shut up (by Vṛtra)
+- खानि (*khāni*)—the gates (channels) of the rivers that flow in streams
+- अपावृणोत् (*apāvṛṇot*)—opened (made the waters flow)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, because of your friendship with Indra, Indra, joined with you, with your help, made the waters fit for flowing to flow for the good of mankind. Having slain the asura Vṛtra, he opened the doors of the flow, even though Vṛtra had closed them, and made the seven great rivers flow.
+
+##### English translation (H. H. Wilson)
+Through that friendship, Soma, which has united you with your (friend) Indra, he has made the waters flow for man; he has slain Ahi; he has sent forth the seven rivers, and has opened the shut-up sources (of the stream).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वा यु॒जा नि खि॑द॒त्तूर्य॒स्येंद्र॑श्च॒क्रं सह॑सा स॒द्य इं॑दो ।  
+> अधि॒ ष्टुना॑ बृह॒ता वर्त॑मानं म॒हो द्रु॒हो अप॑ वि॒श्वायु॑  
+> धायि ॥ २ ॥
+
+> *tvā yujā ni khidattūryasyeṃdraścakraṃ sahasā sadya iṃdo |*  
+> *adhi ṣṭunā bṛhatā vartamānaṃ maho druho apa viśvāyu*  
+> *dhāyi ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वा । युजा । नि । खिदत् । सूर्यस्य । इंद्रः । चक्रं । सहसा । सद्यः । इंदो इति ।  
+> अधि । स्नुना । बृहता । वर्तमानं । महः । द्रुहः । अप । विश्वआयु । धायि ॥ २ ॥
+
+> *tvā | yujā | ni | khidat | sūryasya | iṃdraḥ | cakraṃ | sahasā | sadyaḥ | iṃdo iti |*  
+> *adhi | snunā | bṛhatā | vartamānaṃ | mahaḥ | druhaḥ | apa | viśvaāyu | dhāyi ‖ 2 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 197. pp. 192-197 (batch API)
+**Progress note:** Done through printed p. 203. pp. 198-203 (batch API)
