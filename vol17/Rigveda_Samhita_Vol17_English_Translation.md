@@ -22094,6 +22094,278 @@ As a groom of horses separates the lovely and the unbearable parts on a horse's 
 ##### English translation (H. H. Wilson)
 May the wise Agni, discriminate between virtue and vice, between (virtuous and wicked) men, as a (groom distinguishes between (the strong ard weak backs (of horses) : enrich us with wealth accompanied by virtuous offspring : be bountiful to the liberal giver : shun him who gives not.
 
+### Printed p. 718
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒विं श॑शासुः क॒वयोद॑ब्धा निधा॒रयं॑तो॒ दुर्या॑स्वा॒योः।  
+> अत॒स्त्वं दृश्या॑ अग्नि ए॒तान्नप्॒भिः प॑श्ये॒रद्भु॑ता अ॒र्य एवैः॑ ॥
+
+> *kaviṃ śaśāsuḥ kavayodabdhā nidhārayaṃto duryāsvāyoḥ|*  
+> *atastvaṃ dṛśyā agni etānnapbhiḥ paśyeradbhutā arya evaiḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कविं । शशासुः । कवयः । अदब्धा । निर्धारयंतः । दुर्यासु । आयोः ।  
+> अतः । त्वं । दृश्यान् । अग्ने । एतान् । पट्भिः । पश्येः । अद्भुतान् । आर्यः ।  
+> एवैः ॥ १२ ॥
+
+> *kaviṃ | śaśāsuḥ | kavayaḥ | adabdhā | nirdhārayaṃtaḥ | duryāsu | āyoḥ |*  
+> *ataḥ | tvaṃ | dṛśyān | agne | etān | paṭbhiḥ | paśyeḥ | adbhutān | āryaḥ |*  
+> *evaiḥ ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने आयोर्मनुष्यस्य दुर्यासु गृहेष्टदब्धाः केनाप्यतिरस्कृता निधारयंतो निवसंतः कवयः क्रांतदृशो देवाः कविं मेधाविनं त्वां शशासुः ;
+> होता भवेति शशंसुः । अतः कारणादर्यो यज्ञस्य स्वामी त्वं दृश्यान्दर्शनीयानद्भुतानाश्चर्यरूपोपेतानिंद्रादीनेतान्नेवानेवैर्गमनशीलैः पद्भिः पादैः स्वतेजोभिः पश्येः । जानीयाः ॥ दृश्यान् । दृशिर् प्रेक्षणे । ऋदुपधाच्चाकृपिचृतेः ।
+> पा. ३-१-११० । इति कर्मणि क्यप् । कित्वादगुणः । पित्वादनुदात्तत्वे धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni! The sages (कवयः (*kavayaḥ*)), the gods of far-reaching vision, who dwell undespised, unslighted by anyone, in the houses of Āyu, that is, of man, have urged you, the wise one (कविं (*kaviṃ*)), to be the Hotṛ." For this reason you, the lord of the sacrifice (आर्यः (*āryaḥ*)), with your swift-moving feet, that is, with your own splendours, behold and know these visible, wondrous gods, Indra and the others, who are endowed with marvellous forms. (The rest is grammar: दृश्यान् (*dṛśyān*) is formed from the root दृशिर् (*dṛśir*) in the sense of seeing.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- आयोः (*āyoḥ*)—of man
+- दुरासु (*durāsu*)—in the houses
+- अदब्धाः (*adabdhāḥ*)—free from contempt
+- निधारयंत (*nidhārayaṃta*)—dwelling
+- कवयः (*kavayaḥ*)—the sages, of far-reaching vision
+- कविं (*kaviṃ*)—you, the wise one
+- शशासुः (*śaśāsuḥ*)—praised (saying "you must be the Hotṛ")
+- अतः (*ataḥ*)—therefore
+- आर्यः (*āryaḥ*)—the lord
+- त्वं (*tvaṃ*)—you
+- दृश्यान् (*dṛśyān*)—those of attractive form
+- अद्भुतान् (*adbhutān*)—those of marvellous form
+- एतान् (*etān*)—these gods, Indra and the others
+- एवैः (*evaiḥ*)—moving
+- पद्भिः (*padbhiḥ*)—with your splendours
+- पश्येः (*paśyeḥ*)—you behold and know
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sages of far-reaching vision, who dwell undespised in the house of the sacrificer, have praised you, the wise one, saying "you must be the Hotṛ." Therefore you, the lord, behold and know, with your moving splendours, these gods, Indra and the others, who have attractive and marvellous forms.
+
+### Printed p. 719
+
+##### English translation (H. H. Wilson)
+The unreviled sages abiding in the dwellings of man have glorified the sage (Agni); therefore, lord of sacrifice, you may proceed with swift-moving feet to behold the admirable and marvellous deities.
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने वा॒घते॑ सु॒प्रणी॑तिः सु॒तसो॑माय विध॒ते य॑विष्ठ ।  
+> रत्नं॑ भर शशमा॒नाय॑ घृष्टे पृ॒थु श्चं॒द्रमव॑से चर्षणि॒प्राः॥
+
+> *tvamagne vāghate supraṇītiḥ sutasomāya vidhate yaviṣṭha |*  
+> *ratnaṃ bhara śaśamānāya ghṛṣṭe pṛthu ścaṃdramavase carṣaṇiprāḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । वाघते । सुप्रनीतिः । सुतसोमाय । विधते । यविष्ठ ।  
+> रत्नं । भर । शशमानाय । फृष्टे । पृथु । चंद्रं । अवसे । चर्षणिप्राः ॥ १३ ॥
+
+> *tvaṃ | agne | vāghate | supranītiḥ | sutasomāya | vidhate | yaviṣṭha |*  
+> *ratnaṃ | bhara | śaśamānāya | phṛṣṭe | pṛthu | caṃdraṃ | avase | carṣaṇiprāḥ ‖ 13 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ युवतम फृष्टे दीप्तियुक्त । यद्वा । परेषां घर्षणशील हे
+> अग्ने चर्षणिप्रा अपेक्षितप्रदानेन मनुष्याणां कामपूरकः सुप्रणीति: सुसूत्तरवेद्यां प्रणयनीयस्त्वं सुतसोमाय विधते तव परिचरणं कुर्वते शशमानाय
+> त्वां स्तुवते वाघते यज्ञनिर्वाहकाय यजमानाय पृथु प्रभूतं चंद्रमाह्लादकारि रत्नमुत्तमं धनमवसे रक्षणाय भर । आहर । प्रयच्छेत्यर्थः ॥ सुप्रणीति: ।
+> णीञ् प्रापणे । कर्मणि क्तिन् । तादौ च निति कृतीत्यनंतरप्रशब्दस्योदात्तत्वं ।
+> पृथु श्चंद्रमित्यत्र संहितायां ह्रस्वाच्चंद्रोत्तरपदे मंत्र इति सुडागमः ।
+> श्चुत्वेन शकारः ॥
+
+##### Gist of the bhāṣya
+
+O Yaviṣṭha, youngest, O फृष्टे (*phṛṣṭe*), endowed with radiance; or else, O one who crushes others; O Agni, you who fulfil men's wishes by granting what they desire (चर्षणिप्राः (*carṣaṇiprāḥ*)), and who are to be well led forward (सुप्रणीतिः (*supraṇītiḥ*)) on the northern altar: bring (भर (*bhara*), that is, give) excellent, abundant, delight-giving wealth, for his protection, to the sacrificer who accomplishes the sacrifice, who has pressed Soma for you, who attends upon you, who praises you. (The rest is grammar: सुप्रणीति: (*supraṇīti:*) from the root णीञ् (*ṇīñ*) in the sense of leading; the accent; the augment *suṭ* in पृथु । चंद्रं (*pṛthu | caṃdraṃ*) in the Saṃhitā; the श्चुत्व (*ścutva*) change to the sibilant.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—O extremely young one
+- फृष्टे (*phṛṣṭe*)—O destroyer of enemies
+- अग्ने (*agne*)—O Agni
+
+### Printed p. 720
+- चर्षणिप्राः (*carṣaṇiprāḥ*)—you who grant what is desired
+- सुप्रणीतिः (*supraṇītiḥ*)—who are established on the northern altar by the excellent rite
+- त्वं (*tvaṃ*)—you
+- सुतसोमाय (*sutasomāya*)—to him who has pressed Soma for you
+- विधते (*vidhate*)—to him who serves you
+- शशमानाय (*śaśamānāya*)—to him who praises you
+- वाघते (*vāghate*)—to the sacrificer, who accomplishes the sacrifice
+- पृथु (*pṛthu*)—abundant
+- चंद्रं (*caṃdraṃ*)—delight-giving
+- रत्नं (*ratnaṃ*)—excellent wealth
+- अवसे (*avase*)—for his protection
+- भर (*bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, extremely young and destroyer of enemies, you who grant what is desired and are established on the northern altar by the excellent rite: provide, for the protection of the sacrificer, who presses Soma and offers it to you, who praises and serves you and accomplishes the sacrifice, abundant, delight-giving and excellent wealth.
+
+##### English translation (H. H. Wilson)
+Resplendent Agni, youngest of the gods, the satisfier of (the desires of) men, who are easily to be conducted (to the altar), bestow joy-yielding and abundant wealth for his preservation upon the worshipper who praises and worships you and offers you libations.
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑ ह॒ यद्व॒यम॑ग्ने त्वा॒या प॒द्भिर्हस्ते॑भिश्चकृ॒मा त॒नूभिः॑।  
+> रथं॒ न क्रंतो॒ अप॑सा भु॒रिजो॑र्ऋ॒तं ये॑मुः सु॒ध्य॑  ॒
+> आशुषाणाः ॥ १४ ॥
+
+> *adhā ha yadvayamagne tvāyā padbhirhastebhiścakṛmā tanūbhiḥ|*  
+> *rathaṃ na kraṃto apasā bhurijorṛtaṃ yemuḥ sudhya*  
+> *āśuṣāṇāḥ ‖ 14 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । ह । यत् । वयं । अग्ने । त्वाया । पट्भिः । हस्तेभिः । चक्रम । तनूभिः ।  
+> रथं । न । क्रंतः । अपसा । भुरिजोः । ऋतं । येमुः । सुध्यः । आशुषाणाः ॥१४॥
+
+> *adha | ha | yat | vayaṃ | agne | tvāyā | paṭbhiḥ | hastebhiḥ | cakrama | tanūbhiḥ |*  
+> *rathaṃ | na | kraṃtaḥ | apasā | bhurijoḥ | ṛtaṃ | yemuḥ | sudhyaḥ | āśuṣāṇāḥ ‖14‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अध ह अथ खलु वयं त्वाया त्वत्कामनया पद्भिः पादैर्हस्तेभिर्हस्तेस्तनूभिरन्यैश्चावयवैश्चक्रम यत् यस्मात्कारणात्कर्मसिद्ध्यर्थं त्वामुपपादयामस्तस्मात्तुध्यः सुकर्माण आशुषाणाः कर्माणि व्याप्प्नुवंतस्तेंगिरस ऋतं
+
+##### Gist of the bhāṣya
+
+O Agni, अध ह (*adha ha*) means "now indeed": we have laboured with desire for you (त्वाया (*tvāyā*)), with feet, hands, bodies and other limbs. Because for the success of the rite we thus prepare you, therefore the good workers (सुध्यः (*sudhyaḥ*)), the Aṅgirases, who pervade the rites (आशुषाणाः (*āśuṣāṇāḥ*)), …the true one (ऋतं (*ṛtaṃ*)) (the sentence continues on the next page).
+
+### Printed p. 721
+
+> सत्यभूतं त्वां भुरिजोः । बिभृतः कर्मकरणसामर्थ्यं पदार्थान्वेति भुरिजौ
+> बाहू । तयोरपसा मंथनाख्येन कर्मणा येमुः । उद्यच्छंति । तत्र दृष्टांतः ।
+> रथं न । यथा क्रंतः कारवः शिल्पिनः क्रामंतोऽध्वगा वा हस्तयोर्यथा रथमुद्यच्छंति तद्वत् । यद्वा । भुरिजोः । देवान्मनुष्यांश्च बिभृत इति भुरिजौ द्यावापृथिव्यौ । तयोर्मध्येऽपसा परिचरणकर्मणा सत्यभूतं तमग्निं येमुः । उद्यच्छंति ॥ अध । संहितायां निपातस्य चेति दीर्घः ! क्रंतः । करोतेः शतरि बहुलं
+> छंदसीति विकरणस्य लुक् । प्रत्ययस्वरः । भुरिजोः । डुभृञ् धारणपोषणयोः ।
+> भृञ उच्च । उ. २-७१ । इतीजिप्रत्ययः । धातोरुकारो रपरः । प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing:) …you who are true (सत्यभूतं (*satyabhūtaṃ*)). भुरिजोः (*bhurijoḥ*): the two arms, which bear the capacity to perform work; with the work called churning performed by these two, they lift up (येमुः (*yemuḥ*), "raise") Agni. The example: रथं न (*rathaṃ na*), as craftsmen (क्रंतः (*kraṃtaḥ*)) or travellers lift a chariot with their hands. Or else: भुरिजोः (*bhurijoḥ*) are heaven and earth, which bear gods and men; between these two, by the work of service, they raise Agni, who is true. (The rest is grammar: the lengthening in अध (*adha*) in the Saṃhitā; क्रंतः (*kraṃtaḥ*) from the root करोतेः (*karoteḥ*) with the participial affix; भुरिजोः (*bhurijoḥ*) from डुभृञ् (*ḍubhṛñ*) with the affix *iji*, Uṇ. Sū. 2-71.) **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अध ह (*adha ha*)—afterwards
+- वयं (*vayaṃ*)—we
+- त्वाया (*tvāyā*)—desiring your favour
+- पद्भिः (*padbhiḥ*)—with feet
+- हस्तेभिः (*hastebhiḥ*)—with hands
+- तनूभिः (*tanūbhiḥ*)—with other excellent limbs
+- यत् (*yat*)—for which favour
+- चक्रम (*cakrama*)—we prepare ourselves for your service (then)
+- क्रंतः (*kraṃtaḥ*)—craftsmen
+- रथं न (*rathaṃ na*)—as they refine and build a chariot
+- सुध्यः (*sudhyaḥ*)—good performers of rites
+- आशुषाणाः (*āśuṣāṇāḥ*)—the Aṅgirases, intent on the rites
+- ऋतं (*ṛtaṃ*)—you, who are of the nature of truth
+- भुरिजोः (*bhurijoḥ*)—of their arms
+- अपसा (*apasā*)—by laborious work
+- येमुः (*yemuḥ*)—they make ready
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when we, desiring your favour, prepare ourselves for your service with our hands, our feet and our other excellent limbs, the Aṅgirases, good performers of rites and intent on the rites, perfect your worship by the labour of their arms, as craftsmen refine and build a chariot.
+
+##### English translation (H. H. Wilson)
+Therefore, Agni, when we labour for you with hands and feet, and all our members, the pious performers of rites, (the Angirasas), exercise their arms in the work (of attrition), as wheelwrights fabricate a car.
+
+### Printed p. 722
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑ मा॒तुरु॒षसः॑ स॒प्त विप्रा॒ जाये॑महि प्रथ॒मा वे॒धसो॒  
+> न्यन्।  
+> दि॒वस्पु॒त्रा अंगि॑रसो भवे॒माद्रिं॑ रुजेम ध॒निनं॑ शु॒चंतः॑ ॥
+
+> *adhā māturuṣasaḥ sapta viprā jāyemahi prathamā vedhaso*  
+> *nyan|*  
+> *divasputrā aṃgiraso bhavemādriṃ rujema dhaninaṃ śucaṃtaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । मातुः । उषसः । सप्त । विप्राः । जायेमहि । प्रथमाः । वेधसः । नृन् ।  
+> दिवः । पुत्राः । अंगिरसः । भवेम । अद्रिं । रुजेम । धनिनं । शुचंतः ॥ १५ ॥
+
+> *adha | mātuḥ | uṣasaḥ | sapta | viprāḥ | jāyemahi | prathamāḥ | vedhasaḥ | nṛn |*  
+> *divaḥ | putrāḥ | aṃgirasaḥ | bhavema | adriṃ | rujema | dhaninaṃ | śucaṃtaḥ ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वामदेवोऽनैः षड्भिरंगिरोभिः सह ब्रूते । अधापि च मातुरुषसः सकाशात्सप्त सप्तसंख्याका विप्राः प्राज्ञा वयं स्मः । प्रथमाः श्रेष्ठा वयं वेधसोऽग्नेः परिचारकान्नान् वेधसो विधातन् रश्मिन् ना जायेमहि। वयं जनयामः।
+> दिवो द्योतमानस्यादित्यस्य पुत्रा वयमंगिरसो भवेम । भूतिमंतः स्याम ।
+> शुचंतो दीप्यमाना वयं धनिनमुदकवंतमद्रिं मेघं रुजेम । वर्षार्थं
+> भिंद्याम । यद्वा । धनिनं पणिनामकासुरापहृतगोधनयुक्तमद्रिं पर्वतं
+> रुजेम । अंगिरसामादित्यपुत्रत्वमेवमाम्नायते । तस्य यद्रेतसः प्रथममुददीप्यत तदसावादित्योऽभवदित्युपक्रम्य येऽंगारा आसंस्थेऽंगिरसोऽभवन् । ऐ.
+> ब्रा- ३-३४ । इति ॥ जायेमहि । जनी प्रादुर्भावे । लिजु ज्ञाजनोर्जॆति जादेशः ।
+> वेधसः । डुधाण् धारणपोषणयोरित्यस्माद्विधाइतो वेध च । उ- ४-२२४ । इत्यसिप्रत्ययः । धातोर्वॆध इत्यादेशः । दिवस्सुत्रा इत्यत्र संहितायां षष्याः पतिपुत्रेति
+> विसर्जनीयस्य सत्वं । रुजेम । रुजो भंगे । अदादिः । लिजु रूपं ॥
+
+##### Gist of the bhāṣya
+
+Vāmadeva speaks together with six other Aṅgirases. "And now, from the mother Uṣas we are seven wise ones (विप्राः (*viprāḥ*)); we are the first, the best. We generate the …, the attendants of Agni, the rays." **NOTE**. "May we, sons of the shining Āditya (heaven), be Aṅgirases, that is, prosperous. Shining, may we split the watery (धनिनं (*dhaninaṃ*)) mountain (अद्रिं (*adriṃ*)), the cloud, for the sake of rain." Or else: may we split the mountain that holds the cattle-wealth carried off by the asura named Paṇi. The sonship of the Aṅgirases to Āditya is thus handed down: beginning "that which first blazed up of his seed became that Āditya," it says that the embers became the Aṅgirases: तस्य यद्रेतसः प्रथममुददीप्यत तदसावादित्योऽभवदित्युपक्रम्य येऽंगारा आसंस्थेऽंगिरसोऽभवन् । ऐ. (*tasya yadretasaḥ prathamamudadīpyata tadasāvādityo 'bhavadityupakramya ye 'ṃgārā āsaṃsthe 'ṃgiraso 'bhavan | ai.*) (Ai. Brā. 3-34). (The rest is grammar: जायेमहि (*jāyemahi*) from जनी (*janī*) with *liṅ* and the substitute जा (*jā*); वेधसः (*vedhasaḥ*) with the affix *asi*, Uṇ. Sū. 4-224; the visarga becoming स (*sa*) in दिवस्पुत्रा (*divasputrā*); रुजेम (*rujema*) from रुजो (*rujo*) in the sense of breaking.)
+
+### Printed p. 723
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमाः (*prathamāḥ*)—the best
+- सप्त (*sapta*)—seven in number (seven persons)
+- विप्राः (*viprāḥ*)—the wise ones; we
+- मातुः (*mātuḥ*)—of the mother of the world
+- उषसः (*uṣasaḥ*)—from Uṣas
+- वेधसः (*vedhasaḥ*)—of Agni
+- नृन् (*nṛn*)—the rays
+- जायेमहि (*jāyemahi*)—we bring forth
+- दिवः (*divaḥ*)—of the shining Āditya
+- पुत्राः (*putrāḥ*)—sons
+- वयं (*vayaṃ*)—we, who are famed as Aṅgirases
+- भवेम (*bhavema*)—may we become possessed of prosperity
+- शुचंतः (*śucaṃtaḥ*)—we, shining
+- धनिनं (*dhaninaṃ*)—watery
+- अद्रिं (*adriṃ*)—the cloud
+- रुजेम (*rujema*)—let us split (or let us release the mountain that holds cattle-wealth)
+
+##### भावार्थ (Bhāvārtha)
+
+We, the best, seven in number and wise, bring forth the rays of Agni from Uṣas, the mother of the world. May we, who are sons of the shining Āditya and famed as Aṅgirases, be possessed of prosperity. Shining, may we split the mountain that holds cattle-wealth and obtain the cattle.
+
+##### English translation (H. H. Wilson)
+May we seven priests first in order engender from the maternal dawn the worshippers of the creator (Agni); may we Angirasas be the sons of heaven, and, radiant, divide the wealth-containing mauntain.
+
+##### विशेषविषयगळु (Special Topics)
+
+अंगिरसः (*aṃgirasaḥ*)—आदित्यस्य पुत्राः अंगिरसः (*ādityasya putrāḥ aṃgirasaḥ*). On the origin of the Aṅgirases see Ṛ. Saṃ. Part 3, p. 520, and Part 10, p. 269; and see also the special topics of the 15th ṛk of the third sūkta.
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आधा॒ यथा॑ नः पि॒तरः॒ परा॑सः प्र॒त्नासो॑ अग्न ऋ॒तमा॑शुषा॒णाः।  
+> शुचीद॑य॒न्दीधि॑तिमुक्त॒शासः॒ क्षामा॑ भिं॒दंतो॑ अरु॒णीरप॑  
+> व्रन् ॥ १६ ॥
+
+> *ādhā yathā naḥ pitaraḥ parāsaḥ pratnāso agna ṛtamāśuṣāṇāḥ|*  
+> *śucīdayandīdhitimuktaśāsaḥ kṣāmā bhiṃdaṃto aruṇīrapa*  
+> *vran ‖ 16 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । यथा । नः । पितरः । परासः । प्रत्नासः । अग्ने । ऋतं । आशुषाणाः ।  
+> शुचि । इत् । अयन् । दीधितिं । उक्तशसः । क्षाम । भिंदंतः । अरुणीः । अप ।  
+> व्रन् ॥ १६ ॥
+
+> *adha | yathā | naḥ | pitaraḥ | parāsaḥ | pratnāsaḥ | agne | ṛtaṃ | āśuṣāṇāḥ |*  
+> *śuci | it | ayan | dīdhitiṃ | uktaśasaḥ | kṣāma | bhiṃdaṃtaḥ | aruṇīḥ | apa |*  
+> *vran ‖ 16 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 717. pp. 712-717 (batch API)
+**Progress note:** Done through printed p. 723. pp. 718-723 (batch API)
