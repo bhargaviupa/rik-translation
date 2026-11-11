@@ -9,3 +9,4 @@
 - w0445 (pp. 445–450): two `[figure: …]` lines (fig2_line02966, fig2_line03030: pictures of Saṃhitā/Pada blocks and of the Sūkta 44 head lines that kn.md already has, compared by eye) removed from kn.md by `batch.py fix`; no letter changed.
 - w0560: the model left out `### Printed p. 560` at the start of the window (the page begins inside a Ṛk); heading put in en.md by `batch.py fix`.
 - w0579 (pp. 579–584): one `[figure: …]` line (fig2_line08317: picture of the Saṃhitā and Pada blocks that kn.md already has, compared by eye) removed from kn.md by `batch.py fix`; no letter changed.
+- Vol 18 p. 625 (w0623, Kannada file): a `*ಸಂಹಿತಾಪಾಠಃ*` label that the converter had put before a quotation (Nirukta commentary on 4-57-2 inside the Special Topics; the supplied text has no label) removed; the English file already treats the block as a quotation. No letter of the text changed.
