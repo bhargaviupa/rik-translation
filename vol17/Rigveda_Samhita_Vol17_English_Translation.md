@@ -3869,6 +3869,234 @@ The name of Śambara is usually joined with the asuras Śuṣṇa, Pipru and Var
 
 "O Indra, मरुत्वंतं (*marutvaṃtaṃ*)", accompanied by the Maruts; वृषभं (*vṛṣabhaṃ*), the rainer of waters by splitting the cloud; ववृधानं (*vavṛdhānaṃ*), growing through zeal in works such as the slaying of Vṛtra; akavāri, one who has many enemies**NOTE**; "or else" — the block breaks off here and the next window continues it.
 
+### Printed p. 101
+
+> अकुत्सि तारिं । तथा च मंत्रः । स्वरिरमत्तो ववक्षे रणाय । ऋग्वे. १-६१-९ । इति ।
+> दिव्यं दिवि स्वर्गलोके वर्तमानं शासं हितोपदेशाहितपरिहाराभ्यां शासितारं
+> विश्वासाहं विश्वस्य प्रतिपक्षस्य सर्वस्याभिभवितारमुग्रं शत्रुषूद्रूर्णं सहोदां
+> युद्धसहकारिणां मरुतां बलप्रदं तं तादृशसामर्थ्यपेतमिंद्रं नूतनाय
+> नवतरायावसे रक्षणायेह कर्मणि हुवेम । त्वामाह्वयेम ॥ नूतनाय ।
+> नवतरायावतसे रक्षणायेह कर्मणि हुवेम । त्वामाह्वयेम ॥ नूतनाय ।
+> नवशब्दस्य नू इत्यादेशः । त्वप्तनखःश्च प्रत्यया वक्तव्या इति तनप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+The block opens by completing the explanation of अकवारिं (*akavāriṃ*) begun on the previous page.**NOTE** A mantra is cited in support: स्वरिरमत्तो ववक्षे रणाय (*svariramatto vavakṣe raṇāya*) (Ṛgve. 1-61-9).**NOTE** Then he glosses the remaining words. दिव्यं (*divyaṃ*): dwelling in heaven. शासं (*śāsaṃ*): the ruler who governs by beneficial instruction and by warding off harm. विश्वासाहं (*viśvāsāhaṃ*): the overcomer of every adversary. उग्रं (*ugraṃ*): formidable against enemies. सहोदां (*sahodāṃ*): the giver of strength to the Maruts, his allies in battle. Indra, so endowed, we call to this rite for new, that is, fresher protection (नूतनाय (*nūtanāya*), अवसे (*avase*), हुवेम (*huvema*): "we invoke you"). The rest of the block is grammar on नूतनाय (*nūtanāya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वंतं (*marutvaṃtaṃ*)—one accompanied by the Maruts
+- वृषभं (*vṛṣabhaṃ*)—one who sends down rain
+- ववृधानं (*vavṛdhānaṃ*)—one who grows (with zeal)
+- अकवारिं (*akavāriṃ*)—one who has abundant enemies
+- दिव्यं (*divyaṃ*)—one who dwells in the world of the gods
+- शासं (*śāsaṃ*)—the instructor
+- विश्वासाहं (*viśvāsāhaṃ*)—one who defeats all enemies
+- उग्रं (*ugraṃ*)—the terrible one
+- सहोदां (*sahodāṃ*)—the giver of strength to the Maruts, his companions
+- तं इंद्रं (*taṃ iṃdraṃ*)—that Indra
+- नूतनाय (*nūtanāya*)—new
+- अवसे (*avase*)—for protection
+- इह (*iha*)—in this sacrificial rite
+- हुवेम (*huvema*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is accompanied by the Maruts, sends down rain, grows with zeal, has abundant enemies, dwells in the world of the gods, is the instructor, defeats all enemies, is terrible, and gives strength to his companions the Maruts: him we call with prayer in this sacrificial rite for fresh protection.
+
+##### English translation (H. H. Wilson)
+We inovke to this sacrifice for present protection Indra, the chief of the Maruts, the showerer (of benefits) ; augmenting (in glory), overcoming many foes, divine regulator (of good and ill), the subduer of all (enemies), the fierce the bestower of strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+Akavārim: this word has been explained as "one with abundant enemies". The word kava is formed from the root ku, which gives the sense "contemptible"; kava therefore means what is small, despised, blameworthy. From this root both forms, kava and kavāri, are formed.
+
+### Printed p. 102
+
+The word kuvāri**NOTE** in general means a man who is extremely selfish, miserly, performs no sacrifice and leads a contemptible life. In the present ṛk, where akavārim stands, the word kava means a small, despised person, and the compound is kava-ari: a petty enemy. One who is not a kavāri is an akavāri, that is, an enemy of great power; or an abundant number may also be indicated by it. It is an epithet showing Indra's greatness: one who can face such enemies.
+
+## Sūkta 48 (Maṇḍala 3)
+
+> सद्यो हेति पंचर्चं दशमं सूक्तं वैश्वामित्रं त्रैष्टुभमैंद्रं । सद्यो
+> हेत्यनुक्रमणिका । अग्निष्टोमे माध्यंदिनसवने मैत्रावरुणशस्त्रे सद्यो ह जात
+> इत्येतत्तूक्तं । सूत्रितं च । सद्योह जात एवा त्वामिंद्र । आ. ५. १६ । इति ॥
+> चातुर्विंशिकेऽप्यहनि मैत्रावरुणशस्त्रेऽहरहः शस्यसंज्ञमेतत्तूक्तं॥ सूत्रितं च ।
+> सद्यो ह जात इत्यहरहःशस्यं मैत्रावरुणः । आ. ७ ४ । इति ॥ अहर्गणे द्वितीयादिष्वहःसु माध्यंदिनसवनेऽस्मिन् शस्त्र एतत्तूक्तं । अहरहः शस्यानीति होत्रका
+> द्वितीयादिष्टेव । आ. ७. १ । इति सूत्रितं ॥ साद्यस्क्र एकाहे मरुत्वतीये शस्त्रे
+> सद्यो ह जात इत्याद्या सूक्तमुखीया । सूत्रितं च । सद्यो ह जातो वृषभः
+> कनीनस्त्वं सद्यो अपिबो जात इंद्र । आ. ९. ५ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the tenth sūkta of the fourth anuvāka, सद्यो ह (*sadyo ha*), of five ṛks; the seer is Viśvāmitra, the deity Indra, the metre Triṣṭubh. The Anukramaṇikā begins सद्यो ह (*sadyo ha*). Uses: in the Agniṣṭoma, at the midday pressing, this sūkta (सद्यो ह जात (*sadyo ha jāta*)) belongs to the Maitrāvaruṇa śastra, and the sūtra says सद्यो ह जात एवा त्वामिंद्र (*sadyo ha jāta evā tvāmiṃdra*) (Ā. Sū. 5.16).**NOTE** On the Cāturviṃśika day, in the Maitrāvaruṇa śastra, this sūkta is the one called ahar-ahaḥ-śasya; the sūtra says सद्यो ह जात इत्यहरहःशस्यं मैत्रावरुणः (*sadyo ha jāta ityaharahaḥśasyaṃ maitrāvaruṇaḥ*) (Ā. Sū. 7.4). In an ahargaṇa, from the second day onward, at the midday pressing, it is used in this śastra; the sūtra: अहरहः शस्यानीति होत्रका द्वितीयादिष्टेव (*aharahaḥ śasyānīti hotrakā dvitīyādiṣṭeva*) (Ā. Sū. 7.1). In the one-day sādyaskra rite, in the Marutvatīya śastra, its first ṛk सद्यो ह जात (*sadyo ha jāta*) is the sūktamukhīya (opening verse); the sūtra: सद्यो ह जातो वृषभः कनीनस्त्वं सद्यो अपिबो जात इंद्र । (*sadyo ha jāto vṛṣabhaḥ kanīnastvaṃ sadyo apibo jāta iṃdra |*) (Ā. Sū. 9.5).
+
+Anuvāda (Kannada): This sūkta सद्यो ह (*sadyo ha*) is the tenth sūkta in the fourth anuvāka and has five ṛks. Its seer is Viśvāmitra, deity Indra, metre Triṣṭubh. It is stated in the Anukramaṇikā as beginning with सद्यो ह (*sadyo ha*). Its use for the Maitrāvaruṇa śastra mantras at the midday pressing of the Agniṣṭoma sacrifice is set out by the Āśvalāyana Śrauta Sūtra सद्यो ह जात एवा त्वामिंद्र (*sadyo ha jāta evā tvāmiṃdra*) (Ā. 5-6). Its use for the recitation called ahar-ahaḥ-śastra, when the Maitrāvaruṇa śastra mantras are recited on the twenty-fourth (Cāturviṃśaka) day, is set out by the Āśvalāyana Śrauta Sūtra सद्यो ह जात इत्यहरहः शस्यं मैत्रावरुणः (*sadyo ha jāta ityaharahaḥ śasyaṃ maitrāvaruṇaḥ*) (Ā. 7-4). Its use for reciting the śastra mantras at the midday pressing, from the second day onward of the sacrifice called ahargaṇa, is set out by the sūtra अहरहः शस्यानीति होत्रका द्वितीयादिष्टेव (*aharahaḥ śasyānīti hotrakā dvitīyādiṣṭeva*)
+
+### Printed p. 103
+
+(Ā. 7-1). Its use for the first ṛk of this sūkta, in reciting the Marutvatīya śastra mantras in the one-day sacrifice called sādyaskra, is set out by the sūtra सद्यो ह जातो वृषभ, कनीनस्त्वं सद्यो अपिबो जात इंद्र (*sadyo ha jāto vṛṣabha, kanīnastvaṃ sadyo apibo jāta iṃdra*) (Ā. 9-5).
+
+Om.
+Sūkta 48.
+Maṇḍala 3; Anuvāka 4; Sūkta 48.
+Aṣṭaka 3; Adhyāya 3; Varga 12.
+Number of ṛks in the sūkta: 5.
+Ṛṣi: Viśvāmitra.
+Devatā: Indra.
+Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒द्यो ह॑ जा॒तो वृ॑ष॒भः क॒नीनः॒ प्रभ॑र्तुमाव॒दंध॑सः सु॒तस्य॑ ।  
+> सा॒धोः पि॑ब प्रतिका॒मं यथा॑ ते॒ रसा॑शिरः प्रथ॒मं  ॒॑
+> सोम्यस्य ॥ १ ॥
+
+> *sadyo ha jāto vṛṣabhaḥ kanīnaḥ prabhartumāvadaṃdhasaḥ sutasya |*  
+> *sādhoḥ piba pratikāmaṃ yathā te rasāśiraḥ prathamaṃ*  
+> *somyasya ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सद्यः । ह । जातः । वृषभः । कनीनः। प्रभर्तुं । आवत् । अंधसः । सुतस्य ।  
+> साधोः । पिब । प्रतिकामं । यथा । ते । रसआशिरः । प.थमं । सोम्यस्य ॥ १ ॥
+
+> *sadyaḥ | ha | jātaḥ | vṛṣabhaḥ | kanīnaḥ| prabhartuṃ | āvat | aṃdhasaḥ | sutasya |*  
+> *sādhoḥ | piba | pratikāmaṃ | yathā | te | rasaāśiraḥ | pa.thamaṃ | somyasya ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषभो वृष्टिद्वारापां वर्षिता सद्यस्तदानीमेव जात उत्पन्नः कनीनः
+> कमनीय इंद्रः सुतस्याभिषुतस्यांधसो हविर्लक्षणस्यान्नस्य सोमस्य प्रभर्तुं
+
+##### Gist of the bhāṣya
+
+वृषभः (*vṛṣabhaḥ*): he who rains down through the clouds' bursting; सद्यः (*sadyaḥ*): at that very moment; जातः (*jātaḥ*): born; कनीनः (*kanīnaḥ*): the desirable Indra. सुतस्य (*sutasya*): of the pressed अंधसः (*aṃdhasaḥ*), the food in the form of oblation, Soma; प्रभर्तुं (*prabhartuṃ*) (the block breaks off here and continues on the next page).
+
+### Printed p. 104
+
+> प्रकर्षण भर्तारं संग्रहीतारं यजमानमावत् । रक्षतु । ह प्रसिद्धौ । किंच तादृशस्त्वं प्रतिकामं कामे कामे सोमपानेच्छायां सत्यां ते तव यथा कामस्य
+> पूर्तिर्भवति तथा साधो रसात्मना संसिद्धं रसाशिरो गॊपयोमिश्रणोपेतं
+> सोम्यस्य सोममयं रसं प्रथमं सर्वेभ्यो देवेभ्यः पुरस्तात्पिब ॥ प्रतिकामं ।
+> कामं कामं प्रति । वीप्सायामव्ययाभावः । समासस्वरः । यथा । अपादांतत्वादेव
+> लित्स्वरः । रसाशिरः । आज्‌पूर्वात् श्रीणातेः क्विप्यपस्पृधेथामित्यादिनाशिर् इत्यादेशः।
+> बहुप्रीहौ पूर्वपदप्रकृतिस्वरः । सोम्यस्य । सोमशब्दान्मयडर्थे मये चेति
+> यप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+प्रभर्तुं (*prabhartuṃ*): the bearer, the gatherer in abundance, the sacrificer; may Indra protect him (आवत् (*āvat*)). ह (*ha*) (both) are well-known particles. Further, O Indra, being such, whenever the desire to drink Soma arises (प्रतिकामं (*pratikāmaṃ*)), as your desire may be fulfilled, drink first, before all the gods, the Soma juice (सोम्यस्य (*somyasya*), made of Soma), perfected as juice (साधोः (*sādhoḥ*)) and रसाशिरः (*rasāśiraḥ*), that is, mixed with cow's milk. The rest is grammar on प्रतिकामं (*pratikāmaṃ*), यथा (*yathā*), रसाशिरः (*rasāśiraḥ*) and सोम्यस्य (*somyasya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभः (*vṛṣabhaḥ*)—the sender-down of rain
+- सद्यो ह जातः (*sadyo ha jātaḥ*)—as soon as born
+- कनीनः (*kanīnaḥ*)—Indra, who has an attractive form
+- सुतस्य (*sutasya*)—pressed
+- अंधसः (*aṃdhasaḥ*)—the food in the form of Soma
+- प्रभर्तुं (*prabhartuṃ*)—the sacrificer who holds it in abundance
+- आवत् (*āvat*)—may he protect (O Indra)
+- प्रतिकामं (*pratikāmaṃ*)—whenever you have the wish
+- ते (*te*)—to you
+- यथा (*yathā*)—so as to be satisfied
+- साधोः (*sādhoḥ*)—juicy
+- रसाशिरः (*rasāśiraḥ*)—mixed with milk
+- सोम्यस्य (*somyasya*)—Soma juice
+- प्रथमं (*prathamaṃ*)—before all the gods
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the sender-down of rain, who is of a charming form as soon as he is born, protect the sacrificer who devoutly holds the pressed Soma. O Indra, whenever you wish, drink, so as to be satisfied, the juicy, milk-mixed Soma juice before all the gods.
+
+##### English translation (H. H. Wilson)
+May the showerer (of rain), who, as soon as born, is the object of affection, protect the offerer of the effused libation: drink at will, Indra, before (the other gods), of the pure Soma juice mixed with milk.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रतिकामं यथा ते (*pratikāmaṃ yathā te*)—कामे कामे सोमपानेच्छायां सत्यां ते तव यथा कामस्य पूर्तिर्भवति तथा (पिब) (*kāme kāme somapānecchāyāṃ satyāṃ te tava yathā kāmasya pūrtirbhavati tathā (piba)*). O Indra, whenever the wish to drink Soma arises in you, that is, whenever you like, drink Soma juice as much as will satisfy you: so the seer prays.
+
+### Printed p. 105
+
+रसाशिरः (*rasāśiraḥ*)—rasa here means liquid milk. The meaning is Soma juice mixed with such milk, or gavāśira.
+
+प्रथमं सोम्यस्य (*prathamaṃ somyasya*)—सोममयं रसं प्रथमं सर्वेभ्यो देवेभ्यः पुरस्तात्पिब (*somamayaṃ rasaṃ prathamaṃ sarvebhyo devebhyaḥ purastātpiba*). The meaning: drink the Soma, strained and prepared as juice, before the other gods drink it, that is, you first of all.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यज्ञाय॑था॒स्तदह॑रस्य॒ कामें॒ 5 शोः पी॒यूष॑मपिबो  
+> गिरि॒ष्ठां ।  
+> तं ते॑ मा॒ता परि॒ योषा॒ जनि॑त्री म॒हः पि॒तुर्दम॒ आसिं॑च॒दग्रे॑ ॥ २ ॥
+
+> *yajñāyathāstadaharasya kāmeṃ 5 śoḥ pīyūṣamapibo*  
+> *giriṣṭhāṃ |*  
+> *taṃ te mātā pari yoṣā janitrī mahaḥ piturdama āsiṃcadagre ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । जायथाः । तत् । अनः । अस्य । कामे । अंशोः । पीयूषं । अपिबः ।  
+> गिरिष्ठां ।  
+> तं । ते । माता । परि । योषा । जनित्री । महः । पितुः । दमे । आ । असिंचत् ।  
+> अग्रे ॥ २ ॥
+
+> *yat | jāyathāḥ | tat | anaḥ | asya | kāme | aṃśoḥ | pīyūṣaṃ | apibaḥ |*  
+> *giriṣṭhāṃ |*  
+> *taṃ | te | mātā | pari | yoṣā | janitrī | mahaḥ | pituḥ | dame | ā | asiṃcat |*  
+> *agre ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यद्यस्मिन्नहनि जायथा अजायथाः तदहस्तस्मिन्नेवाहन्यस्य
+> सोमस्य कामे पिसासायां सत्यां गिरिष्ठां गिरिस्थां पर्वतोस्कोच्चस्थाने वर्तमानमंशोः सोमलताखंडविशिष्टस्य ऋजीषस्य पीयूषमभिनवं रसमपिबः । पीतवानसि । उत्पत्तिक्षण एव सोमपाने कारणं दर्शयति । ते तव जनित्री माता योषा
+> युवतिरदितिर्महो महतः पितुर्जनकस्य कश्यपस्य दमे सूतिकागृहेऽग्रे स्तन्यदानात् प्राक् तं तादृषं सोमं पर्यासिंचत् । तवास्यॆ परितोऽक्षारयत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, on the day on which you were born, on that very day, when the desire for this Soma arose, you drank the nectar, the fresh juice, of the अंशोः (*aṃśoḥ*), which is distinguished by pieces of the Soma plant, of the ṛjīṣa, गिरिष्ठां (*giriṣṭhāṃ*) (गिरिस्थां (*giristhāṃ*)), standing on the high place of a mountain.**NOTE** He shows the reason for drinking Soma at the very moment of birth: your mother (जनित्री (*janitrī*)), the young woman (योषा (*yoṣā*)) Aditi, in the lying-in chamber of your great father, your begetter Kaśyapa (महः पितुः दमे (*mahaḥ pituḥ dame*)), before giving the breast (अग्रे (*agre*)), poured that Soma around you (पर्यासिंचत् (*paryāsiṃcat*)), that is, made it flow all around your mouth.
+
+### Printed p. 106
+
+> जायथाः । जनी प्रादुर्भाव इत्यस्य लजि बहुलं छंदसीत्यडभावः । यद्वृत्तयोगादनिघातः । जनित्री । जनिता मंत्र इति निपातनाण्णेर्लोपः ॥
+
+##### Gist of the bhāṣya
+
+The block contains only grammatical notes, on जायथाः (*jāyathāḥ*) and जनित्री (*janitrī*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यत् (*yat*)—when
+- जायथाः (*jāyathāḥ*)—you were born
+- तदहः (*tadahaḥ*)—that very day
+- अस्य (*asya*)—of this Soma juice
+- कामे (*kāme*)—when the desire to drink arose
+- गिरिष्ठां (*giriṣṭhāṃ*)—that was at the high place of the mountain
+- अंशोः (*aṃśoḥ*)—of the piece of Soma plant
+- पीयूषं (*pīyūṣaṃ*)—the juice
+- आपिबः (*āpibaḥ*)—you drank
+- ते (*te*)—your
+- जनित्री (*janitrī*)—mother
+- योषा (*yoṣā*)—and young woman, Aditi
+- महः (*mahaḥ*)—great-souled
+- पितुः (*pituḥ*)—your father, Kaśyapa's
+- दमे (*dame*)—in the lying-in chamber
+- अग्रे (*agre*)—before (giving you) the breast
+- तं (*taṃ*)—that Soma
+- परि आसिंचत् (*pari āsiṃcat*)—she made you drink fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as soon as you were born, when the desire to drink Soma juice arose, you drank the juice of the piece of Soma plant that was at the high place of the mountain. Your mother, the young Aditi, in the lying-in chamber of the great-souled Kaśyapa, your begetter, made you drink that Soma fully before giving you the breast.
+
+##### English translation (H. H. Wilson)
+On the day on which you were born, you drank at will the mountain-abiding nectar of this Soma plant. for your youthful parent mother (Aditi), in the dwelling of your great sire (Kashyapa), gave it to you before she gave the breast.
+
+##### विशेषविषयगळु (Special Topics)
+
+The first half of this ṛk explains that Indra felt the wish to drink Soma on the very day he was born and drank that nectar-like Soma juice. The second half describes how Indra's mother, a young woman, in her husband's house, as soon as Indra was born, made him drink Soma juice before nursing him at the breast. This indicates that Indra's desire to drink Soma has been great from the beginning. Here, although there is no statement of who Indra's mother is or who his father is, the commentator says that the mother of Indra is Aditi, the mother of the gods, and the father is Kaśyapa. Although this explanation agrees with the descriptions given in the Purāṇas and similar works, it cannot be said to accord with Vedic literature. For the position and status of Indra stated in the Purāṇas and similar works, and the position and status of Indra stated in the Ṛgveda
+
 ---
 
-**Progress note:** Done through printed p. 100. pp. 95-100 (batch API, retry 1)
+**Progress note:** Done through printed p. 106. pp. 101-106 (batch API)
