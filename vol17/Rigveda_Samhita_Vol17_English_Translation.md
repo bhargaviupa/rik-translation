@@ -6275,6 +6275,229 @@ for great are your deeds.
 प्रातःसावे (*prātaḥsāve*): सूयतेऽत्र सोम इति सावः । तस्मिन् प्रातस्सवने । (*sūyate 'tra soma iti sāvaḥ | tasmin prātassavane |*) Because in this rite the Soma juice is pressed out and prepared, it is called सावः (*sāvaḥ*) or pressing. This rite performed in the morning is called the morning pressing, that performed at midday the midday pressing, and that performed in the evening the third pressing. According to the Śruti sentence त्रीणि वाव सवनानि (*trīṇi vāva savanāni*), there are only these three pressings. Here only the morning pressing is indicated. In Ṛks 1–4 of this sūkta the morning pressing is the subject, in Ṛk 5 the midday pressing, and in Ṛk 6 the third pressing.
 इंद्र क्रतुः हि ते बृहत् (*iṃdra kratuḥ hi te bṛhat*): Since Indra has performed many deeds of valour, such as the slaying of Vṛtra, he is praised here thus: O Indra, your deed of valour is very great, that is, extraordinary.
 
+### Printed p. 162
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> माध्यं॑दिनस्य॒ सव॑नस्य धा॒नाः पु॑रो॒ळाश॑मिंद्र कृष्णे॒ह चारुं॑।  
+> प्र यत्सो॒ता ज॑रि॒ता तूर्ण॑र्थो वृषा॒यमा॑ण॒ उप॑  
+> गी॒र्भिरीट्टे॑ ॥ ५ ॥
+
+> *mādhyaṃdinasya savanasya dhānāḥ puroḷāśamiṃdra kṛṣṇeha cāruṃ|*  
+> *pra yatsotā jaritā tūrṇartho vṛṣāyamāṇa upa*  
+> *gīrbhirīṭṭe ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माध्यंदिनस्य । सवनस्य । धानाः । पुरोळाशं । इंद्र । कृष्ण । इह । चारुं ।  
+> प्र । यत् । स्तोता । जरिता । तूर्णीर्थः । वृषयमाणः । उप । गीःभिः ईट्टे॥
+
+> *mādhyaṃdinasya | savanasya | dhānāḥ | puroḷāśaṃ | iṃdra | kṛṣṇa | iha | cāruṃ |*  
+> *pra | yat | stotā | jaritā | tūrṇīrthaḥ | vṛṣayamāṇaḥ | upa | gīḥbhiḥ īṭṭe‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> माध्यंदिनसवने सवनीयपुरोडाशस्य माध्यंदिनस्य सवनस्य धाना इत्यनुवाक्य । सूत्रितं च । माध्यंदिनस्य सवनस्य धाना इति माध्यंदिने । आ. ५-४ । इति ॥
+> हे इंद्र माध्यंदिनस्य मध्यंदिने भवस्य सवनस्य संबंधिनीर्धाना बृष्टयवान् चारुं कमनीयं पुरोडाशं चेह कर्मण्यागत्य कृष्ण । भक्षणेन संस्कुरु ।
+> यद्यदा जरिता भवत्परिचरणं कुर्वाणस्पूर्णर्थस्त्वां स्तोतुमितस्ततस्त्वरितगमनः
+> अत एव वृषायमाणो वृषेवाचरन् स्तोता गीर्भिः स्तुतिलक्षणाभिर्वाग्निरुप समीपे
+> प्रेट्टे प्रकर्षेण स्तौति । तदा पुरोडाशादिहवींषि भक्षयेति भावः ॥ माध्यंदिनस्य ।
+> मध्यंदिनशब्दात्तत्र भवार्थ उत्सादित्वादञ् । ञ्त्वा दाम्युदात्तः । चारुं। चर गतिभक्षणयोः । दृसनिजनिचरिचटिरहिभ्यो ञ्णिणि ञुण् । णित्वादुपधावृद्धिः । ञ्त्वादाद्युदात्तः । तूर्णार्थः । तूर्तिः । ञ्त्वरा संभ्रम इत्याद्वहिश्रीत्यादिना निप्रत्ययो निच्च । अर्थः । ऋ गतौ । उषिकुषिगार्तिभ्यस्थन्निति धन् । बहुव्रीह पूर्वपदस्वरः । वृषायमाणः । वृषेवाचरतीत्यर्थे कर्तुः क्यज् सलोपश्चति क्यज् । अकृत्सार्वधातुकयोर्दिीर्घः । ञ्त्वादनुदात्तजित इत्यात्मनेपदं । लट् । शानच् ।
+> तस्य लसार्वधातुकस्वरे धातुस्वरः । ईट्टे ! ईड स्तुतावित्यस्य लट रूपं । यद्योगादनिघातः ।'
+
+##### Gist of the bhāṣya
+
+Viniyoga: the anuvākyā verse माध्यंदिनस्य सवनस्य धानाः (*mādhyaṃdinasya savanasya dhānāḥ*) is for the savanīya cake (puroḍāśa) at the midday pressing. It is prescribed in the sūtra माध्यंदिनस्य सवनस्य धाना इति माध्यंदिने (*mādhyaṃdinasya savanasya dhānā iti mādhyaṃdine*) (Ā. 5-4).
+
+"O Indra, come to this rite and make fit by eating the roasted barley belonging to the midday pressing, that is, the pressing that takes place at midday, and the lovely, desirable cake. When the worshipper (jaritā), who serves you, hurries here and there to praise you, and therefore acts like a bull (vṛṣāyamāṇa), approaches you with hymns of praise and praises you intensely, then eat the cakes and other oblations." This is the sense.
+
+The rest of the block is grammatical and is not summarised here (the derivations of māddhyandina, cāru, tūrṇārthaḥ, vṛṣāyamāṇaḥ and īṭṭe). He explains तूर्णर्थः (*tūrṇarthaḥ*) with तूर्तिः (*tūrtiḥ*) and इत्वरा संभ्रम (*itvarā saṃbhrama*), and says that ईट्टे (*īṭṭe*) is the present of the root ईड (*īḍa*), "to praise".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- जरिता (*jaritā*)—the praiser
+- तूर्णर्थ (*tūrṇartha*)—one who hurries about in eagerness to praise you
+- वृषायमाणः (*vṛṣāyamāṇaḥ*)—one who is swift like a bull
+### Printed p. 163
+(and intent on his duty)
+- स्तोता (*stotā*)—the praiser
+- गीर्भिः (*gīrbhiḥ*)—with words in the form of praise
+- उप (*upa*)—(you) approaching
+- प्र ईट्टे (*pra īṭṭe*)—praises intensely (then)
+- माध्यंदिनस्य सवनस्य (*mādhyaṃdinasya savanasya*)—offered at the time of the midday pressing
+- धानाः (*dhānāḥ*)—the barley grains
+- चारुं (*cāruṃ*)—satisfying
+- पुरोडाशं (*puroḍāśaṃ*)—the cake
+- इह (*iha*)—in this sacrificial rite
+- कृष्ण (*kṛṣṇa*)—(by your eating) make fit
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the praiser, who hurries about like a bull in eager haste to praise you, approaches you with words in the form of praise and praises you intensely, then eat the barley grains offered at that midday pressing and the satisfying cake in this sacrificial rite, and make them fit.
+
+##### English translation (H. H. Wilson)
+Partake, Indra, of the barley and the delicious cakes and butter of
+the mid-day sacrifice, when by your zealous worshipper, hastening to adore
+you, and eager as a bull, is present, and celebrates (you) with hymns.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Āśvalāyana Śrauta Sūtra explains, in the sūtra माध्यंदिनस्य सवनस्य धाना इति माध्यंदिने (*mādhyaṃdinasya savanasya dhānā iti mādhyaṃdine*), that this Ṛk, माध्यंदिनस्य सवनस्य धाना (*mādhyaṃdinasya savanasya dhānā*), is to be recited as the puronuvākyā mantra in the cake-offering belonging to the midday pressing. (Ā. 5-4)
+
+स्तोता जरिता (*stotā jaritā*)—Although these two words both indicate one meaning, "one who praises", the commentator explains a difference in meaning: for the word stotā he takes "one who praises with words in the form of praise", and for the word jaritā, भवत्परिचरणं कुर्वाणः (*bhavatparicaraṇaṃ kurvāṇaḥ*), "one who does service (śuśrūṣā) to you".
+
+तूर्णर्थः (*tūrṇarthaḥ*)—त्वां स्तोतुमितस्ततस्वरितॆगमनः (*tvāṃ stotumitastatasvaritègamanaḥ*). The word tūrṇi, formed from the word इत्वरा संभ्रमे (*itvarā saṃbhrame*), means "running about in eagerness". Here it means the ṛtvij, or the praiser, who runs about eagerly here and there in order to praise Indra.
+
+वृषायमाणः (*vṛṣāyamāṇaḥ*)—This word is an adjective of the word stotā. It describes the praiser who hurries about like a bull: as a bull moves swiftly of its own will, so the ṛtvij runs about eagerly; this is the comparison with the bull. While a sacrifice is performed, the praisers and the ṛtvij priests help one another and run about eagerly, heedless of any toil, in order to work with devotion
+### Printed p. 164
+at their own duties. To indicate this, the seer has used the words tūrṇarthaḥ and vṛṣāyamāṇaḥ and has made his intention plain.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तृ॒तीये॑ धा॒नाः सव॑ने पुरुष्टुत पुरो॒ळाश॒माहु॑तं मामहस्व नः ।  
+> ऋ॒भु॒मंतं॒ वाज॑वंतं त्वा कवे॒ प्रय॑स्वंत॒ उप॑ शिक्षेम  ॒॑
+> धीतिभिः ॥ ६ ॥
+
+> *tṛtīye dhānāḥ savane puruṣṭuta puroḷāśamāhutaṃ māmahasva naḥ |*  
+> *ṛbhumaṃtaṃ vājavaṃtaṃ tvā kave prayasvaṃta upa śikṣema*  
+> *dhītibhiḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तृतीये । धानाः । सवने । पुरुस्तुत । पुरोळाशं । आहुतम् । ममहस्व । नः ।  
+> यभुमंतं । वाजवंतं । त्वा । कवे । प्रयस्वंतः । उप । शिक्षेम । धीतिभिः ॥ ६ ॥
+
+> *tṛtīye | dhānāḥ | savane | purustuta | puroḷāśaṃ | āhutam | mamahasva | naḥ |*  
+> *yabhumaṃtaṃ | vājavaṃtaṃ | tvā | kave | prayasvaṃtaḥ | upa | śikṣema | dhītibhiḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयसवने सवनीयपुरोडाशस्य तृतीये धाना इत्यनुवाक्य । सूत्रितं
+> च । तृतीये धानाः सवने पुरुष्टुतेति तृतीयसवने । आ. ५-४ । इति ॥
+> हे पुरुष्टुत पुरुभिर्बहुभिः स्तोतृभिः स्तुत हे इंद्र तृतीये सवने नोऽस्मदीयान्थाना हुतान् भृष्टयवानाहुतं पुरोडाशं च मामहस्व । भक्षणेन
+> महय । संभावय । हे कवे इंद्र प्रयस्वंतः संभृतहविष्का वयमृभुमंतं ।
+> ऋभवो ये केचन देवास्तद्वंतं । वाजवंतं । वाजो नाम सुधन्वनः पुत्रस्तद्वंतं त्वां धीतिभिः स्तुतिभिरुप शिक्षेम । समीपे परिचरेम ॥ आहुतं: । जुहोतेः
+> कर्मणि क्तः । गतिरनंतर इति गतेः स्वरः । मामहस्व । मह पूजायामित्यस्य यज्लुगंतस्य लोट व्यत्ययेनात्मनेपदं । शपो लुगभावश्चांदसः । शिक्षेम । शिक्षतेराशीर्लिजि लिज्याशिष्यज्ञ त्यज् प्रत्ययः। निघातः । धीतिभिः । हिष्ठवत्सरतिशत्थांतानामित्यंतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Viniyoga: the anuvākyā तृतीये धानाः (*tṛtīye dhānāḥ*) is for the savanīya cake at the third pressing. It is prescribed in the sūtra तृतीये धानाः सवने पुरुष्टुतेति तृतीयसवने (*tṛtīye dhānāḥ savane puruṣṭuteti tṛtīyasavane*) (Ā. 5-4).
+
+"O Indra, praised (purustuta) by many praisers, at the third pressing honour (māmahasva) our roasted barley, that is, the parched grains, and the cake that has been offered; honour them by eating, show them regard. O sage (kavi) Indra, we, who have gathered the oblations (prayasvantaḥ), serve you, who are accompanied by the Ṛbhus (ṛbhumantam), that is, by whatever gods are Ṛbhus, and by Vāja (vājavantam), the son of Sudhanvan, with our hymns (dhītibhiḥ), that is, praises; we attend upon you near." The remainder of the block is grammar (āhutam, māmahasva, śikṣema, dhītibhiḥ).
+### Printed p. 165
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—O Indra, who are praised by many
+- तृतीये सवने (*tṛtīye savane*)—at the time of the third pressing
+- नः (*naḥ*)—offered by us
+- धानाः (*dhānāḥ*)—the barley grains
+- आहुतं (*āhutaṃ*)—offered in the form of an oblation
+- पुरोळाशं (*puroḷāśaṃ*)—the cake
+- मामहस्व (*māmahasva*)—eat and be satisfied
+- कवे (*kave*)—O Indra, of far-reaching wisdom
+- प्रयस्वंतः (*prayasvaṃtaḥ*)—we who have prepared the oblation
+- ऋभुमंतं (*ṛbhumaṃtaṃ*)—you who are joined with Ṛbhu
+- वाजवंतं (*vājavaṃtaṃ*)—and joined with Vāja
+- त्वा (*tvā*)—you
+- धीतिभिः (*dhītibhiḥ*)—with praises
+- उप शिक्षॆम (*upa śikṣèma*)—we approach and serve
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by many, at the time of the third pressing eat the barley grains offered by us and the cake offered as an oblation, and be satisfied. O Indra, of far-reaching wisdom, we who have prepared the oblation approach you, who are joined with Ṛbhu and with Vāja, by means of praises, and serve you.
+
+##### English translation (H. H. Wilson)
+Indra, you are praised of many, accept readily from our friend of barley, and cakes, and butter, offered at the third (or evening) sacrifice : laden with sacrificial viands, we approach with praises to you, sage Indra, who are accompanied by the Ribhus and by Vaja.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Āśvalāyana Śrauta Sūtra explains, in the sūtra तृतीये धानाः सवने पुरुष्टुतेति तृतीयसवने (*tṛtīye dhānāḥ savane puruṣṭuteti tṛtīyasavane*), that the Ṛk तृतीये धानाः (*tṛtīye dhānāḥ*) is to be used as the puronuvākyā mantra in the cake-offering belonging to the third pressing. (Ā. 5-4)
+
+प्रयस्वंतः (*prayasvaṃtaḥ*)—संभृतहविष्काः (*saṃbhṛtahaviṣkāḥ*). The word prayas is read among the names of food (Ni. 3-9). Prayasvantaḥ means: "we who stand with the oblation in the form of food, prepared for offering to you, Indra, held in our hands."
+
+ऋभुमंतं वाजवंतं (*ṛbhumaṃtaṃ vājavaṃtaṃ*)—In this Ṛk Indra is described as one who is with Vibhu **NOTE** and with one called Vāja. An explanation is necessary as to who the Ṛbhu and Vāja are.
+
+It is said in many places in the Ṛgveda that the Ṛbhus were men in former times and attained divinity by their excellent conduct and the performance of good rites. In former times
+### Printed p. 166
+the seer Aṅgiras had a son named Nītimañjari. The seer Sudhanvā, born in his line, had three sons, Ṛbhu, Vibhu and Vāja. It is believed that through good works, such as performing good rites, helping the gods and making sacrificial vessels and other implements, they obtained the birth of gods, or became gods. It is the custom to call these three sons of Sudhanvā, Ṛbhu and the others, together "the Ṛbhus"; all three sons are called by the name of the eldest. Since they were pupils of Tvaṣṭṛ **NOTE**, they are also called the craftsmen of the gods. It is said here and there that they made for Indra and the other gods the implements they needed, that is, a chariot for Indra and the camasa vessel for Agni. There are descriptions here and there that they have wonderful power and are able to do any work. In Ṛ. Saṃ. sūkta 1-20 an account is given of some of the works they did. Since they have the same power and capacity as the gods, the seers regard them as belonging to the company of the gods and describe them and their deeds in many ways. A detailed account of the Ṛbhus is given in Ṛ. Saṃ. Part 5, pp. 658-662; the derivation of the form of the word Ṛbhu, Part 5-156 and 8-687; the description of how the Ṛbhus received the hospitality of Āditya and became worthy of drinking soma in the sacrifice, Part 8-666; the matter of the Ṛbhus making the camasa and other sacrificial vessels, Part 8-671; the matter of the Ṛbhus protecting the calf that had no mother, Part 8-693; Indra's companionship with the Ṛbhus, Part 8-699; and an account of the Ṛbhus' artistic skill, Part 8-704. All of this is explained in detail on those pages.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒ष॒ण्वते॑ ते चक्रमा करं॒भं हरि॑वते॒ हर्य॑श्वाय धा॒नाः ।  
+> अ॒पू॒पम॑द्धि॒ सग॑णो म॒रुद्भिः॒ सोमं॑ पिब वृत्र॒हा शू॑र  ॒
+> विद्वान् ॥ ७ ॥
+
+> *pūṣaṇvate te cakramā karaṃbhaṃ harivate haryaśvāya dhānāḥ |*  
+> *apūpamaddhi sagaṇo marudbhiḥ somaṃ piba vṛtrahā śūra*  
+> *vidvān ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषण्वते । ते । चक्रम । करंभं । हरिऽवते । हरिऽअश्वाय । धानाः ।  
+> अपूपं । अद्धि । सगणः । मरुत्भिः । सोमं । पिब । वृत्रहा । शूर । विद्वान् ॥७॥
+
+> *pūṣaṇvate | te | cakrama | karaṃbhaṃ | hari 'vate | hari 'aśvāya | dhānāḥ |*  
+> *apūpaṃ | addhi | sagaṇaḥ | marutbhiḥ | somaṃ | piba | vṛtrahā | śūra | vidvān ‖7‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पूषण्वते । पूषा नाम कश्चिद्देवोदंतकः । तद्वते ते तुभ्यं
+> करंभं दधिमिश्रं सक्तुं चक्रम । भक्षणार्थं कुर्मः । तथा च श्रुतिः । पूषा प्रसिष्ट-
+
+##### Gist of the bhāṣya
+
+"O Indra, you are Pūṣaṇvat. Pūṣan is a certain toothless god; to you, who are with him, we have made karambha, barley meal mixed with curds, for eating." A śruti confirms this: Pūṣan's share is a pounded one, for he is toothless (Tai. Saṃ. 2-6-8).
+### Printed p. 167
+
+> भागोऽदंतको हि । तै सं, २-६-८ । इति । हरिवते । हरिनामकावश्वा । तद्वते
+> पर्यश्चाय हरितवर्णाश्वयुक्तायेंद्राय तुभ्यं धाना भक्षणार्थं कुर्मः । तथा
+> च मंत्रवर्णः । ग्रसेतामश्वा वि मुचेह शोणा दिवेदिवे सदृशीरद्दि धानाः । ऋग्वे.
+> ३-३५ ३ । इति । मरुद्भिः सगणस्त्वमपूपं पुरोडाशमद्दि । भक्षय । हे शूर असहायॆ
+> हे इंद्र वृत्रहा वृत्रस्य हंता विद्वान् सर्वं जानानस्त्वं सोमं पिब ॥ पूषण्वते ।
+> पूषशब्दस्य मतुप् । अनो नुडिति नुडागमः । रषाभ्यामिति णत्वं । चक्रम । करोतेश्चांदसे वर्तमाने लिटि क्रादित्वादिदभावः । निघातः । हरिवते । छंदसीर इति मतुपो
+> वत्वं ॥
+
+##### Gist of the bhāṣya
+
+"Harivat: having horses called Hari; to you, Indra, who are Haryaśva, joined with horses of tawny colour, we have made roasted barley for eating." The mantra text says so too: ग्रसेतामश्वा वि मुचेह शोणा दिवेदिवे सदृशीरद्दि धानाः । (*grasetāmaśvā vi muceha śoṇā divedive sadṛśīraddi dhānāḥ |*) (Ṛgve. 3-35 3 **NOTE**). "You, accompanied by the Maruts, eat the apūpa, the cake. O hero, that is, unaided, O Indra, slayer of Vṛtra, knowing all, drink the soma." The rest of the block is grammar (pūṣaṇvate, cakrama, harivate).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पूषण्वते (*pūṣaṇvate*)—you who are joined with Pūṣan
+- हरिवते (*harivate*)—you who have horses named Hari
+- हरश्वाय (*haraśvāya*)—you who have horses of tawny colour
+- ते (*te*)—for you
+- धानाः (*dhānāḥ*)—the barley grains
+- करंभं (*karaṃbhaṃ*)—the cake mixed with curds
+- चक्रम (*cakrama*)—we have prepared
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts
+- सगणः (*sagaṇaḥ*)—you who are in company
+- अपूपं (*apūpaṃ*)—the cake
+- अद्दि (*addi*)—eat
+- शूर (*śūra*)—you who are valiant
+- वृत्रहा (*vṛtrahā*)—slayer of Vṛtra
+- विद्वान् (*vidvān*)—omniscient
+- सोमं (*somaṃ*)—the soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for you, who are joined with Pūṣan, who have horses named Hari, who have horses of tawny colour, we have prepared the barley grains and the cake mixed with curds. You, who are in company with the Maruts, eat the cake. You, who are valiant, the slayer of Vṛtra, omniscient, drink the soma.
+
+##### English translation (H. H. Wilson)
+We have prepared the parched grain and curds for you, associated with Pushan ; the fried barley for you, lord of the tawny horses, associated with your steeds : attended by the troop of Maruts, eat the cakes; hero, you are wise, the slayer of Vritra, drink the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+पूषण्वते (*pūṣaṇvate*)—पूषानाम कश्चिद्देवोऽदंतकः । तद्वते (*pūṣānāma kaściddevo 'daṃtakaḥ | tadvate*). Pūṣan is a certain toothless god; the commentator explains it here as "to Indra, who is with him". Pūṣan is an important deity in the Ṛgveda; there are eight sūktas in his praise in the Ṛgveda. Besides this, in Ṛ. Saṃ. sūkta 6-57 with Indra, and in Ṛ. Saṃ. sūkta 2-40
+
 ---
 
-**Progress note:** Done through printed p. 161. pp. 156-161 (batch API, retry 2)
+**Progress note:** Done through printed p. 167. pp. 162-167 (batch API)
