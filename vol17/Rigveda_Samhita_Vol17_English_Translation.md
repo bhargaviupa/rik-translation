@@ -14214,6 +14214,132 @@ the manner of coming to the sacrifice in a splendid chariot, following Uṣas as
 
 Even if ऋत (*ṛta*) is taken as "truth", it means that which has an eternal state. The sun and the other planets all move regularly, eternal and radiant, and (the text breaks off at the end of the window).
 
+### Printed p. 418
+The path of the sun and the other planets, which move regularly and well, is permanent and radiant; it is established usage in the Ṛgveda to call this course ṛta. What the path of ṛta is, as described in the words वर्वर्ति चक्रं परि द्यामृतस्य (*varvarti cakraṃ pari dyāmṛtasya*) (Ṛ. Saṃ. 1-164-11), has been explained in full earlier. This same path of ṛta is described in passages such as
+अग्निर्गांधर्वीं पथ्यामृतस्याग्नेर्गव्यूतिर्घृत आ निषत्ता (*agnirgāṃdharvīṃ pathyāmṛtasyāgnergavyūtirghṛta ā niṣattā*) (Ṛ. Saṃ. 10-80-6)
+as the lofty and spacious path of the Gandharva. It has likewise been explained that the path of the Ādityas and others is described by epithets such as ऋतस्य योना (*ṛtasya yonā*) and ऋतस्य पदे (*ṛtasya pade*). In the present verse the sense of ऋतेन (*ṛtena*) is that the Aśvins' excellent horses bring them along this permanent and radiant Gandharva path.
+
+मेधाः (*medhāḥ*)—the word मेध (*medha*) means sacrifice. In some places it also means the oblation fit for the sacrifice. At मेधं जुषंत वह्नयः (*medhaṃ juṣaṃta vahnayaḥ*) (1-3-9) Sāyaṇa explains: मेध्यते देवैः सह, संगम्यते इति मेधं हविः (*medhyate devaiḥ saha, saṃgamyate iti medhaṃ haviḥ*) — since the oblation joins and becomes one with the gods, the word मेध (*medha*) applies to it. Or, if मेध (*medha*) is taken to mean wisdom, the act of a wise man is also मेध (*medha*). Some hold that because worship of the gods and the like is the act of the wise, the sacrifice has the name मेध (*medha*). This sense too is not without support:
+यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति (*yadeva vidyayā karoti śraddhayopaniṣadā tadeva vīryavattaraṃ bhavati*) (Bhā. U. 1-1-10)
+The Chāndogya and others say that the rite performed with knowledge and with faith is the one that becomes vigorous; since the need of knowledge at the time of performing rites is thus stated, the word मेध (*medha*) may be so applicable. But in giving this sense, the etymology मेध्यते देवैः सह (*medhyate devaiḥ saha*) must still be applied to the sacrifice.
+इतः प्रदानादि देवा उपजीवंति (*itaḥ pradānādi devā upajīvaṃti*) (Śa. Brā. 1-2-4-5)
+The offering made from here reaches the gods, and they live because they are thereby satisfied; this shows the relation of cause and effect between the gods' existence and the sacrifice. So this etymology also fits. Or तन्नेध्यमभूत् (*tannedhyamabhūt*) (Śa. Brā. 10-6-5-7): "it became pure"; because it became pure, the word मेध (*medha*) applies — the etymology can be given thus too.
+
+पितरेव ऊर्ध्वा भवंति (*pitareva ūrdhvā bhavaṃti*)—there is a special point in the description that the sacrifice goes to face the Aśvins and receives them, as children go to meet a father. Of the
+
+### Printed p. 419
+other gods, all take part in the sacrifice, whereas the Aśvins alone have no share in it; this is known to all. The Vedic sentence अन्यत्रैवाश्विभ्यां (*anyatraivāśvibhyāṃ*) (Śa. Brā. 14-1-1-1), that Indra and the other gods took part, excluding the Aśvins, states this exactly. Yet how is a father–son relation possible? There is a story that explains the circumstance showing the close connection between the Aśvins and the sacrifice.
+तावेदद्यज्ञस्य शिरः प्रत्यधत्तां तददस्तद्विवाकीर्त्यानां ब्राह्मणे व्याख्यानये यथा तद्यज्ञस्य शिरः प्रतिदधतुः तस्मात् .... ....॥ (*tāvedadyajñasya śiraḥ pratyadhattāṃ tadadastadvivākīrtyānāṃ brāhmaṇe vyākhyānaye yathā tadyajñasya śiraḥ pratidadhatuḥ tasmāt .... ....‖*) (Śa. Brā. 4-1-5-15)
+In this story the Aśvins repaired the headless sacrifice so that the sacrificial work was completed; it is also said that the story is told in the Brāhmaṇa called Divākīrtya (Śa. Brā. 14-1-1-9). The same matter is recited in the Aitareya Brāhmaṇa as well (Ai. Brā. 4-9). Thus, when the sacrifice lacked its principal part, they set it right and made the sacrifice indebted to them; as if to show gratitude for this, the sacrifice receives the Aśvins — so the present mantra describes.
+
+पणिं मनीषां (*paṇiṃ manīṣāṃ*)—here पणि (*paṇi*) is taken to mean unbelievers who have no faith in the sacrifice. मनीषा (*manīṣā*) means understanding. The prayer is: may we not have such an unbelieving mind, or if we have it, destroy it and make a believing mind arise in the performance of the sacrifice.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒युग्भि॒रश्वैः॑ सु॒वृता॒ रथे॑न॒ दस्रा॑वि॒मं शृ॑णुतं॒ श्लोक॒मद्रेः॑ ।  
+> किमं॒ग वां॒ प्रत्यव॑र्तिं॒ गमि॑ष्ठा॒हुर्विप्रा॑सो अश्विना  ॒
+> पुराजाः ॥ ३ ॥
+
+> *suyugbhiraśvaiḥ suvṛtā rathena dasrāvimaṃ śṛṇutaṃ ślokamadreḥ |*  
+> *kimaṃga vāṃ pratyavartiṃ gamiṣṭhāhurviprāso aśvinā*  
+> *purājāḥ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुयुक्षभिः । अश्वैः । सुवृता । रथेन । दसौ । इमं । शृणुतं । श्लोकं । अद्रेः ।  
+> किं । अंग । वां । प्रति । अवर्तिं । गमिष्ठा । आहुः । विप्रासः । अश्विना । पुराजाः ॥३॥
+
+> *suyukṣabhiḥ | aśvaiḥ | suvṛtā | rathena | dasau | imaṃ | śṛṇutaṃ | ślokaṃ | adreḥ |*  
+> *kiṃ | aṃga | vāṃ | prati | avartiṃ | gamiṣṭhā | āhuḥ | viprāsaḥ | aśvinā | purājāḥ ‖3‖*
+
+### Printed p. 420
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ सुयुग्भिः सुष्टु योजितैरश्वैः सुवृता । पुनःपुनरावर्तत इति
+> वृच्चक्रं । शोभनचक्रोपेतेन रथेनागत्य दसौ शत्रूणामुपक्षपयितारौ युवामद्रॆः । आद्रियते सर्वैरित्यद्रिः स्तोता । तस्येमं श्लोकं स्तोत्रं शृणुतं । अंग
+> हे अश्विनौ विप्रासो मेधाविनः पुराजाः पुरातना ऋषयो वां युवामवर्ति
+> मस्माकं वृत्तिहानिं प्रति गमिष्ठा अतिशयेन गंताराविति किमाहुः किं कथयंतीति ।
+> न कथयंतीत्यर्थः । प्रथमाष्टकेष्टमेध्याये सुवृता रथेनेत्यादि गतं ॥
+> गमिष्ठा । गंतृशब्दादिष्टनि रूपं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, with well-yoked horses (सुयुग्भिः (*suyugbhiḥ*)) and a car (सुवृता (*suvṛtā*): वृत् (*vṛt*) is the wheel, which turns again and again — a car with fine wheels), come, दसौ (*dasau*), destroyers of enemies, and hear this praise (श्लोकं (*ślokaṃ*) = स्तोत्रं (*stotraṃ*)) of the worshipper अद्रेः (*adreḥ*) — one who is honoured (आद्रियते (*ādriyate*)) by all is अद्रि (*adri*), the praiser. अंग (*aṃga*): O Aśvins, do the wise, ancient seers (विप्रासो (*viprāso*) पुराजाः (*purājāḥ*)) not say of you that you are most ready to go (गमिष्ठा (*gamiṣṭhā*)) to our अवर्तिं (*avartiṃ*), loss of livelihood? That is, they do say it. "सुवृता रथेन (*suvṛtā rathena*)" and the rest has been treated in the first Aṣṭaka, eighth Adhyāya. गमिष्ठा (*gamiṣṭhā*) is the iṣṭhan form from the word गंतृ (*gaṃtṛ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुयुग्भिः (*suyugbhiḥ*)—well yoked to the car
+- अश्वैः (*aśvaiḥ*)—joined with horses
+- सुवृता (*suvṛtā*)—having excellent wheels
+- रथेन (*rathena*)—coming in the car
+- दसौ (*dasau*)—you, destroyers of enemies
+- अद्रेः (*adreḥ*)—of the praiser
+- इमं श्लोकं (*imaṃ ślokaṃ*)—this praise
+- शृणुतं (*śṛṇutaṃ*)—hear
+- अंग (*aṃga*)—O Aśvins
+- विप्रासः (*viprāsaḥ*)—wise
+- पुराजाः (*purājāḥ*)—ancient seers
+- वां (*vāṃ*)—you
+- अवर्तिं प्रति (*avartiṃ prati*)—towards those afflicted by sorrow
+- गमिष्ठा (*gamiṣṭhā*)—as those who go
+- किं आहुः (*kiṃ āhuḥ*)—have they not said?
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, coming in a car with excellent wheels, drawn by horses yoked in the best manner, you who destroy enemies, hear this praise of the worshipper. O Aśvins, have the wise and ancient seers not said of you that you go towards those afflicted by sorrow?
+
+##### English translation (H. H. Wilson)
+Dasras, with well-yoked horses and well-constructed car, hear this praise of the worshipper, for have not the ancient sages declared you, Ashwins, to be most ready to come to the aid of the destitute ?
+
+##### विशेषविषयगळु (Special Topics)
+
+दस्रा—दसु-उपक्षयेः-शत्रुणां उपक्षपयितारौ । यद्वा । देववैद्यतेन रोगाणां उपक्षपयितारौ । (*dasrā—dasu-upakṣayeḥ-śatruṇāṃ upakṣapayitārau | yadvā | devavaidyatena rogāṇāṃ upakṣapayitārau |*) It means destroyers of enemies, or, being divine physicians, destroyers of diseases. दस्रा (*dasrā*) may also mean दर्शनीयौ (*darśanīyau*), those of beautiful form. In the present verse the commentator takes it as destroyers of enemies. Of the Aśvins, sons of Saraṇyū, one is named Dasra and the other Nāsatya, yet it is customary to speak of both together as दस्रा (*dasrā*).
+
+### Printed p. 421
+अद्रेः (*adreḥ*)—the word अद्रि (*adri*) is used in the senses of the soma-pressing stone, mountain and so on, and its special senses have been given earlier. Here it is taken to mean the praiser. आद्रियते सर्वैरित्यद्रि (*ādriyate sarvairityadri*): because he is honoured by all, the praiser is designated by the epithet अद्रि (*adri*); this is understood from Sāyaṇa's explanation.
+सुवृता (*suvṛtā*)—पुनःपुनरावर्तत इति वृत् चक्रं (*punaḥpunarāvartata iti vṛt cakraṃ*): since the wheel turns repeatedly, the word वृत् (*vṛt*) is used for it. The qualified word सुवृता (*suvṛtā*) shows an excellent wheel. The epithets त्रिवंधुरः (*trivaṃdhuraḥ*) and त्रिचक्रः (*tricakraḥ*) of the Aśvins' car and their distinction have been given earlier.
+श्लोकं (*ślokaṃ*)—स्तुतिं (*stutiṃ*): here it is explained as praise. In the Saṃhitā the meaning of this word has to be stated according to context. Where the word is used in Brāhmaṇa sentences, the sense given is, as is current here, a metrically bound composition. But in the Ṛgveda there is no rule that it must be taken as such a composition. For instance:
+यदद्रयः पर्वताः साकमाशवः श्लोकं घोषं भरथेंद्राय सोमिनः॥ (*yadadrayaḥ parvatāḥ sākamāśavaḥ ślokaṃ ghoṣaṃ bharatheṃdrāya sominaḥ‖*) (Ṛ. Saṃ. 10-94-1)
+In this verse the nature of the sound made by the stones at the time of soma-pressing is described. Here the word घोष (*ghoṣa*) has the epithet श्लोक (*śloka*): श्लोकं श्रोतव्यं घोषं (*ślokaṃ śrotavyaṃ ghoṣaṃ*) — an audible sound, that is, a sound pleasing to hear. Similarly,
+युजे नां ब्रह्म पूर्व्यं नमोभिर्वि श्लोक एतु पथ्येव सूरेः । (*yuje nāṃ brahma pūrvyaṃ namobhirvi śloka etu pathyeva sūreḥ |*) (Ṛ. Saṃ. 10-13-1)
+here the carts that hold the oblation are described; the prayer is that their श्लोक (*śloka*), their sound, go to the gods from all sides and satisfy them. Thus, though in some places the word is used in the sense of sound, in many contexts the sense of praise is well established. On this basis the English commentators have taken the word as "noise" even in the Śatapatha and elsewhere. For example:
+श्लोकाय स्वाहेति वीर्यं वै श्लोको विरेणैवैनं....। (*ślokāya svāheti vīryaṃ vai śloko vireṇaivainaṃ....|*) (Śa. Brā. 5-3-5-9)
+They render it: "To the noise, hail. " noise means vigour ; with vigour he thus sprinkles him. According to this explanation श्लोक (*śloka*) means vigorous sound. But in explaining the sense of Brāhmaṇa sentences, Sāyaṇa and others have given it as a composition in verse-quarters (पाद (*pāda*)).
+
+### Printed p. 422
+For example, in the Aitareya Brāhmaṇa, at तदप्येषश्लोकोऽभिगीतः (*tadapyeṣaśloko 'bhigītaḥ*) — "on this matter this śloka is recited" — Sāyaṇa explains श्लोकः पादबद्धः मंत्रः (*ślokaḥ pādabaddhaḥ maṃtraḥ*), a mantra bound in verse-quarters. This śloka stands bound in quarters in the form मरुतः परिवेष्टारः मरुतस्यावसन् गृहे (*marutaḥ pariveṣṭāraḥ marutasyāvasan gṛhe*) and so on. But though the Aitareya Brāhmaṇa has the quarter-bound order, the same sentence in the Śatapatha (Śa. Brā. 13-5-4-6) is not subject to this rule. This rule can be seen in the Upaniṣads and the like.
+यजुर्वेदः सामवेदोऽथर्वांगिरस इतिहासः पुराणं विद्या उपनिषदः श्लोकाः (*yajurvedaḥ sāmavedo 'tharvāṃgirasa itihāsaḥ purāṇaṃ vidyā upaniṣadaḥ ślokāḥ*) (Bṛ. U. 2-4-10)
+Here the श्लोक (*śloka*) is said to be distinct from the four Vedas, the Upaniṣads, Itihāsa and Purāṇa. श्लोका ब्राह्मणप्रभवा मंत्राः तदेते श्लोकाः (*ślokā brāhmaṇaprabhavā maṃtrāḥ tadete ślokāḥ*)—Śaṅkarācārya explains in his commentary that श्लोक (*śloka*) means the mantras cited in the Brāhmaṇas. Examples can be seen in many places.
+स्वप्नेन शारीरमभिप्रहत्यासुप्तः सुप्तानभिचाकशीति । शुक्रमादाय पुनरैति स्थानं हिरण्मयः पुरुष एकहंसः ॥ (*svapnena śārīramabhiprahatyāsuptaḥ suptānabhicākaśīti | śukramādāya punaraiti sthānaṃ hiraṇmayaḥ puruṣa ekahaṃsaḥ ‖*)
+These and the like are specimens of श्लोक (*śloka*) in the Chāndogya and other Upaniṣads. Further, the Taittirīya Upaniṣad uses this word in two senses.
+इदं पुच्छं प्रतिष्ठा । तदप्येष श्लोको भवति (*idaṃ pucchaṃ pratiṣṭhā | tadapyeṣa śloko bhavati*) (Tai. U. 2-1)
+Here श्लोक (*śloka*) means a mantra. Having first stated the greatness of some principle, another mantra is cited to support it; in such a context it is the practice in the Upaniṣads and the like to say तदप्येष श्लोको भवति (*tadapyeṣa śloko bhavati*). Besides,
+अहमन्न महमन्न महमन्नं । अहमन्नादोs २ हमन्नादोs २ हमन्नादः । अहग् श्लोकतृदहग् श्लोककृदहग् श्लोककृत् ॥ (*ahamanna mahamanna mahamannaṃ | ahamannādos 2 hamannādos 2 hamannādaḥ | ahag ślokatṛdahag ślokakṛdahag ślokakṛt ‖*) (Tai. U. 3-10)
+"I am food; I am the eater of food; I am the combination of food and eater of food" — here श्लोक (*śloka*) is taken to mean combination. श्लोको नाम अन्नान्नादयोः संघातः (*śloko nāma annānnādayoḥ saṃghātaḥ*): Śaṅkarācārya explains that श्लोक (*śloka*) means the combined form of food and the eater of food. The sense current here is also derived from this same root. श्लोक (*śloka*)
+
+### Printed p. 423
+is derived from the root श्लोक् (*ślok*), meaning combination (संघाते (*saṃghāte*)). To string pleasing words together in metre means to bring words together according to rule, in the way of the grammarians. Śaṅkarācārya gives this same meaning for the word in the cited Upaniṣad sentence. It is the context in which the Self describes its own Brahman nature: "the aggregate of food and the eater of food is also I."
+Since such usages exist, in the present verse श्लोक (*śloka*) is taken as praise. It may be a combination of mantras praising the gods, or, as Sāyaṇa says in explaining the Aitareya Brāhmaṇa sentence, a praise bound in quarters, of the nature of a mantra and a combination of words.
+अंग (*aṃga*) is an address to the Aśvins; it may mean "those with attractive limbs". Epithets such as युवाना (*yuvānā*), वल्गू (*valgū*), मधुवर्णा (*madhuvarṇā*), शुभस्पती (*śubhaspatī*) describe the attractive limbs of the Aśvins.
+पुराजाः नां आहुः (*purājāḥ nāṃ āhuḥ*)**NOTE**—the sentence "the ancient seers have said that you go towards those afflicted by sorrow" points to occasions when many seers in the past praised the Aśvins' generosity and power. It is well known that Kutsa Āṅgirasa and others praised them, describing how the Aśvins protected sufferers such as Rebha and Vandana, in sentences like याभी रेभं निवृतं सितं (*yābhī rebhaṃ nivṛtaṃ sitaṃ*). The same point is stated here.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ म॑न्येथा॒मा ग॑तं॒ कच्चि॒देवै॒र्विश्वे॒ जना॑सो अ॒श्विना॑ हवंते।  
+> इ॒मा हि वां॒ गोऋ॑जीका॒ मधू॑नि॒ प्र मि॒त्रासो॒ न द॒दुरु॒स्रो अग्रे॑ ॥ ४ ॥
+
+> *ā manyethāmā gataṃ kaccidevairviśve janāso aśvinā havaṃte|*  
+> *imā hi vāṃ goṛjīkā madhūni pra mitrāso na dadurusro agre ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मन्येथां । आ । गतं । कत् । चित् । एवैः । विश्वे । जनासः । अश्विना । हवंते ।  
+> इमा । हि । वां । गोऋजीका । मधूनि । प्र । मित्रासः । न । ददुः । उस्रः । अग्रे ॥
+
+> *ā | manyethāṃ | ā | gataṃ | kat | cit | evaiḥ | viśve | janāsaḥ | aśvinā | havaṃte |*  
+> *imā | hi | vāṃ | goṛjīkā | madhūni | pra | mitrāsaḥ | na | daduḥ | usraḥ | agre ‖*
+
 ---
 
-**Progress note:** Done through printed p. 417. pp. 412-417 (batch API)
+**Progress note:** Done through printed p. 423. pp. 418-423 (batch API)
