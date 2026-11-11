@@ -20292,6 +20292,263 @@ Meaning: O Agni, knowing the means of accomplishing all human aims, remove from 
 - अस्मत् (*asmat*)—from us
 - प्र मुमुग्नि (*pra mumugni*)—release and destroy
 
+### Printed p. 676
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are all-knowing, turn away from us the wrath of Varuṇa, who is the divine being. You who are most worthy of worship, the bearer of the oblation, and resplendent, release us from all sins and destroy them.
+
+##### English translation (H. H. Wilson)
+May you, Agni, who are wise, avert from us the wrath of the divine Varuna : you are the most frequent sacrificer, the most diligent bearer (of oblations), the most resplendent, liberate us from all animosities.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं नो॑ अग्नेऽव॒मो भ॑वो॒ती नेदि॑ष्ठो अ॒स्या उ॒षसो॒  ॑
+> वृष्टौ ।  
+> अव॑ यक्ष्व नो॒ वरु॑णं॒ ररा॑णो वी॒हि मृ॑ळी॒कं सु॒हवो॑  
+> न विधि ॥ ५ ॥
+
+> *sa tvaṃ no agne 'vamo bhavotī nediṣṭho asyā uṣaso*  
+> *vṛṣṭau |*  
+> *ava yakṣva no varuṇaṃ rarāṇo vīhi mṛḷīkaṃ suhavo*  
+> *na vidhi ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । नः । अग्ने । अवमः । भव । ऊती । नेदिष्ठः । अस्याः । उषसः । विउष्टौ ।  
+> अव । यक्ष्व । नः । वरुणं । रराणः । वीहि । मृळीकं । सुहवः । नः । विधि ॥ ५ ॥
+
+> *saḥ | tvaṃ | naḥ | agne | avamaḥ | bhava | ūtī | nediṣṭhaḥ | asyāḥ | uṣasaḥ | viuṣṭau |*  
+> *ava | yakṣva | naḥ | varuṇaṃ | rarāṇaḥ | vīhi | mṛḷīkaṃ | suhavaḥ | naḥ | vidhi ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स तादृशस्त्वमूती ऊत्या रक्षणेन नोऽस्माकमवमोऽर्वाचीनः
+> प्रत्यासन्नः सन् अस्या उषसो व्युष्टौ व्युच्छने प्रातःकालेऽग्निहोत्रादिकर्मसिद्ध्यर्थं नेदिष्टो भव । अतिशयेनास्मदंतिकस्थो भव । यद्वा । ऊत्या गमनेनास्माकमवमो रक्षको भव । किंच नोऽस्माकु वरुणं वरुणकृतं जलोदरादिरोगं
+> आवारकं पापं वा अव यक्ष्व । अवयज । विनाशयेत्यर्थः । रराणोऽस्मदत्ते
+> हविषि रममाणः । यद्वा । यजमानेभ्योऽत्यंतमीप्सितफलप्रदस्त्वं मृळीकं
+
+##### Gist of the bhāṣya
+
+"O Agni, you, such as you are, by ऊत्या (*ūtyā*) (protection) become अवमः (*avamaḥ*) for us, that is, near and close at hand; at the dawning (व्युष्टौ (*vyuṣṭau*), the breaking) of this dawn, in the morning, for the accomplishment of rites such as the Agnihotra, be नेदिष्ठः (*nediṣṭhaḥ*), that is, be exceedingly close to us." Or else: "by coming (गमनेन (*gamanena*)) be our protector." Further: "वरुणं (*varuṇaṃ*) — the disease caused by Varuṇa, such as dropsy, or the sin that covers us — अव यक्ष्व (*ava yakṣva*), that is, अवयज (*avayaja*), destroy it." रराणः (*rarāṇaḥ*) means delighting in the oblation given by us. Or else: "you who bestow on the sacrificers the fruit they most desire, मृळीकं (*mṛḷīkaṃ*) …" (the sentence continues on the next page).
+
+### Printed p. 677
+
+> सुखकरमिदं हविर्वीहि । भक्षय । किंच नोऽस्माकं सुहवः शोभनाह्वानोपेत
+> ऐधि । भव ॥ नेदिष्टः । अंतिकशब्दा दिष्ठन्यंतिकवाढयोर्नॆदसाधाविति नेद इत्यादेशः।
+> नित्त्वादाद्युदात्तः । रराणः । रमतेः कानचि मकारलोपश्चांदसः । यद्वा । रातेर्यज् लुकि व्यत्ययेन कानच् । अभ्यस्तानामादिः । एधि । अस्तेर्लोटि ध्वसोरेद्धावभ्यासलोपश्चेति ऐ इत्यादेशः । तस्यासिद्धत्वाद्दु झल्भो हेर्धिः । निघातः ॥
+
+##### Gist of the bhāṣya
+
+"… this pleasing (*sukhakaraṃ*) oblation, वीहि (*vīhi*), that is, eat. Further, be सुहवः (*suhavaḥ*), one who has a good invocation, for us: ऐधि (*aidhi*), that is, be." The rest of the block gives the grammar of नेदिष्टः (*nediṣṭaḥ*), रराणः (*rarāṇaḥ*) and एधि (*edhi*), which is given in the Grammar section.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सः त्वं (*saḥ tvaṃ*)—you, so famed
+- नः (*naḥ*)—to us
+- ऊती (*ūtī*)—with your protection
+- अवमः (*avamaḥ*)—being by our side
+- अस्याः उषसः (*asyāḥ uṣasaḥ*)—of this dawn
+- व्युष्टौ (*vyuṣṭau*)—at the time of its manifestation
+- नेदिष्टः भव (*nediṣṭaḥ bhava*)—grant us your presence
+- नः (*naḥ*)—from us
+- वरुणं (*varuṇaṃ*)—the diseases caused by Varuṇa
+- अव यक्ष्वा (*ava yakṣvā*)—destroy
+- रराणः (*rarāṇaḥ*)—enjoying the oblations
+- मृळीकं (*mṛḷīkaṃ*)—this pleasing oblation
+- वीहि (*vīhi*)—eat
+- नः (*naḥ*)—for us
+- सुहवः (*suhavaḥ*)—having an excellent invocation
+- एधि (*edhi*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you, so famed, be by our side with your protection and grant us your presence at the time of this dawn's manifestation. Destroy the diseases caused by Varuṇa, away from us. Delight in eating this pleasing oblation. Be one who has an excellent invocation for us.
+
+##### English translation (H. H. Wilson)
+Agni, our preserver, be most nigh to us with your protection at the breaking of this dawn : deprecate Varuna for us, and, propitiated (by our praise). feed upon the grateful (oblation), and be to us of auspicious invocation.
+
+##### विशेषविषयगळु (Special Topics)
+
+नः वरुणं अवयुक्ष—अस्माकं वरुणाकृतं जलोदरादिरोगान् अवरकं पापं वा विनाशयेत्यर्थः । (*naḥ varuṇaṃ avayukṣa—asmākaṃ varuṇākṛtaṃ jalodarādirogān avarakaṃ pāpaṃ vā vināśayetyarthaḥ |*) Here "connected with Varuṇa" means: destroy the great diseases such as dropsy that may arise from the anger of the god Varuṇa, or the many kinds of sin that envelop us; thus Agni is prayed to. Here jalodara (dropsy) is a kind of great disease in which the body fills with water and swells. Because it is connected with water, and because Varuṇa is famed as lord of the waters, it is believed that this kind of disease comes through Varuṇa's pressure. Or again, the fear of water, that is, death by drowning, may likewise come from Varuṇa (continued on the next page).
+
+### Printed p. 678
+
+Such fears are to be removed and the sins destroyed: so the prayer is made.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य श्रेष्ठा॑ सु॒भग॑स्य सं॒दृग्दे॒वस्य॑ चि॒त्रत॑मा॒ मर्त्ये॑षु ।  
+> शुचि॑ घृ॒तं न त॒प्तमघ्न्या॑याः स्पा॒र्हा दे॒वस्य॑ मं॒हने॑व  ॒
+> धेनोः ॥ ६ ॥
+
+> *asya śreṣṭhā subhagasya saṃdṛgdevasya citratamā martyeṣu |*  
+> *śuci ghṛtaṃ na taptamaghnyāyāḥ spārhā devasya maṃhaneva*  
+> *dhenoḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । श्रेष्ठा । सुभगस्य । संदृक् । देवस्य । चित्रतमा । मर्त्येषु ।  
+> शुचि । धृतं । नृ । तप्तं । अघ्न्यायाः । स्पार्हा । देवस्य । मंहनाइव । धेनोः ॥
+
+> *asya | śreṣṭhā | subhagasya | saṃdṛk | devasya | citratamā | martyeṣu |*  
+> *śuci | dhṛtaṃ | nṛ | taptaṃ | aghnyāyāḥ | spārhā | devasya | maṃhanāiva | dhenoḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुभगस्य सुधनस्य सुष्टु भजनीयस्याग्नेर्देवस्य श्रेष्ठातिशयेन प्रशस्या
+> संदृक् संदृष्टिर्मर्त्येषु चित्रतमातिशयेन चायनीया पूजनिया भवति । स्मार्हा
+> सर्वैः स्पृहणीया भवति । तत्र दृष्टांतः । यथा देवस्य क्षीरं कामयमानस्य
+> पुरुषस्याघ्न्याया गोः शुचि तेजोयुक्तं घृतं क्षरणयुक्तं सप्तं क्षीरं
+> स्पृहणीयं भवति । तत्रैव दृष्टांतांतरं । यथा गां भिक्षमाणस्य मर्त्यस्य धेनोर्दोग्धा र्य गोर्मंहनेव । मंहतिर्दानकर्मा । दानं यथा प्रियकरं भवति
+> तद्वत् ॥ सुभगस्य । आद्युदात्तं द्व्यच्छंदसीत्युत्तरपदाद्युदात्तत्वं । स्मार्हा । कर्षात्वतो घञतोंत उदात्तः । देवस्य । दीव्यतीति देवः । दीव्यतेः कांत्यर्थस्य
+> पचाद्यचि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Of the god Agni, सुभगस्य (*subhagasya*) — of good wealth, one who is to be well resorted to — the संदृक् (*saṃdṛk*) (sight, glance) is श्रेष्ठा (*śreṣṭhā*), exceedingly praiseworthy; among mortals it is चित्रतमा (*citratamā*), most to be honoured and worshipped, and it is स्पार्हा (*spārhā*), to be desired by all. An illustration follows. As, for a man who desires milk, the शुचि (*śuci*) (bright, full of splendour) घृतं (*ghṛtaṃ*), the heated (सप्तं (*saptaṃ*)) milk of the अघ्न्या (*aghnyā*) cow that flows forth, is desirable; **NOTE** so too the sight is desired. There is a second illustration: as, for a mortal begging for a cow, the मंहना (*maṃhanā*) of a milch cow — मंहति (*maṃhati*) is a root meaning giving — **NOTE** that is, as a gift is pleasing, so is it. The rest gives accent and derivation of सुभगस्य (*subhagasya*), स्मार्हा (*smārhā*) and देवस्य (*devasya*) (Grammar section).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—for a man who desires milk
+- अघ्न्यायाः (*aghnyāyāḥ*)—of the cow
+- शुचि (*śuci*)—bright
+- धृतं (*dhṛtaṃ*)—well prepared
+- तप्तं न (*taptaṃ na*)—as the milk is beneficial (and)
+- धेनोः (*dhenoḥ*)—of the milch cow
+- मंहनेव (*maṃhaneva*)—as the gift is beneficial
+- सुभगस्य (*subhagasya*)—of one who is worshipful **NOTE**
+- अस्य देवस्य (*asya devasya*)—of this Agni, the divine being
+- श्रेष्ठा (*śreṣṭhā*)—praiseworthy
+- संदृक् (*saṃdṛk*)—the sight
+- मर्त्येषु (*martyeṣu*)—among men
+- चित्रतमा (*citratamā*)—worthy of worship
+- स्पार्हा (*spārhā*)—respected
+
+### Printed p. 679
+
+##### भावार्थ (Bhāvārtha)
+
+As, for a man who desires milk, the bright and well prepared milk of the cow is beneficial, and as the gift of a milch cow is beneficial, so the praiseworthy sight of Agni, who is worshipful and the divine being, is worthy of worship among men and respected. **NOTE**
+
+##### English translation (H. H. Wilson)
+The glance of this auspicious deity, directed towards men, is most excellent, most wonderful, acceptable (to all), as the pure warm butter (from the milk) of the cow (is acceptable) to the deity ; as the gift of a milch-cow (is to a man).
+
+##### विशेषविषयगळु (Special Topics)
+
+देवस्य अस्य अग्नेः ता परमा सत्या त्रिः जनिमानि स्पार्हा संति (*devasya asya agneḥ tā paramā satyā triḥ janimāni spārhā saṃti*) — It is said here that the three famed and true births, or forms of origin, of this Agni, the divine or resplendent one, are most attractive. The commentator cites the Ṛks
+त्रीणि जाना परि भूषंत्यस्य समुद्र एकं दिव्येकमप्पु । (*trīṇi jānā pari bhūṣaṃtyasya samudra ekaṃ divyekamappu |*) (Ṛ. Saṃ. 1-95-3)
+दिवस्परि प्रथमं जज्ञे अग्निरस्मद्वितीयं परि जावेदाः । (ऋ. सं. १०-४५-१) ऎंब ऋक्कुगळन्नु दाहरिसि अग्निय मूरुविधवाद स्वरूपगळन्नु विवरिसिद्दारॆ. ऎंदरॆ अग्निगॆ मूरु रूपगळिवॆ. समुद्रदल्लि बाडबानलरूपदिंदलू अंतरिक्षदल्लि वैद्युताग्निरूपदिंदलू (मिंचिनरूप) स्वर्गदल्लि आदित्यरूपदिंदलू अग्नियु इरुवनॆंदु ई ऋक्कुगळल्लियू हेळिदॆ. इदल्लदॆ अग्निगॆ पवमान, वनस्पति, शुचि ऎंब मूरु विधरूपगळु, पवमान, शुचि, पावक ऎंदू अथवा अग्नि, वैश्वानर, जातवेदाः (*divaspari prathamaṃ jajñe agnirasmadvitīyaṃ pari jāvedāḥ | (ṛ. saṃ. 10-45-1) èṃba ṛkkugaḷannu dāharisi agniya mūruvidhavāda svarūpagaḷannu vivarisiddārè. èṃdarè agnigè mūru rūpagaḷivè. samudradalli bāḍabānalarūpadiṃdalū aṃtarikṣadalli vaidyutāgnirūpadiṃdalū (miṃcinarūpa) svargadalli ādityarūpadiṃdalū agniyu iruvanèṃdu ī ṛkkugaḷalliyū heḷidè. idalladè agnigè pavamāna, vanaspati, śuci èṃba mūru vidharūpagaḷu, pavamāna, śuci, pāvaka èṃdū athavā agni, vaiśvānara, jātavedāḥ*) (Ṛ. Saṃ. 10-45-1)
+and explains the threefold forms of Agni. That is, Agni has three forms: these Ṛks too say that Agni exists in the sea as the submarine fire, in the atmosphere as lightning fire (the form of lightning), and in heaven as the sun. Besides this, it is well known that Agni has three forms called Pavamāna, Vanaspati and Śuci; or three forms called Pavamāna, Śuci and Pāvaka; or Agni, Vaiśvānara and Jātavedas. For a detailed explanation of this subject see Ṛ. Saṃ. Part 8, pp. 17-19.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिर॑स्य॒ ता प॑र॒मा सं॑ति स॒त्या स्वा॒हर्ण दे॒वस्य॒ जनि॑मान्य॒ग्नेः ।
+
+> *trirasya tā paramā saṃti satyā svāharṇa devasya janimānyagneḥ |*
+
+### Printed p. 680
+
+> अनंते अंतः परिवीत आगाच्छुचिः शुक्रो अयोरो रोरुचानः ॥ ७ ॥
+
+> *anaṃte aṃtaḥ parivīta āgācchuciḥ śukro ayoro rorucānaḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । अस्य । ता । परमा । संति । सत्या । स्वार्हा । देवस्य । जनिमानि । अग्नेः ।  
+> अनंते । अंतरिति । परिऽवीतः । आ । अगात् । शुचिः । शुक्रः । अर्यः । रोरुचानः ॥७॥
+
+> *triḥ | asya | tā | paramā | saṃti | satyā | svārhā | devasya | janimāni | agneḥ |*  
+> *anaṃte | aṃtariti | pari 'vītaḥ | ā | agāt | śuciḥ | śukraḥ | aryaḥ | rorucānaḥ ‖7‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नेरग्न्यभिमानिनोऽस्य देवस्य त्रिस्त्रीण्यग्निवायुसूर्यात्मना त्रीणि ता तानि
+> प्रसिद्धानि परमोत्तमानि सत्या यथार्थभूतानि जनिमानि जन्मानि स्वाहर्णा सर्वैः स्पृहणीयानि संति । यद्वा । अग्नेरेव त्रीणि जन्मानि दिवस्परि प्रथमं जज्ञे अग्निः । ऋग्वे.
+> १०-४५-१ । इति त्रीणि जाना परि भूषंत्यस्य । ऋग्वे. १-९५-३ । इत्येवमादिषु मंत्रेषु
+> प्रसिद्धानि । अनंतेऽपर्यंते नभस्यंतर्मध्यॆ स्वतेजसा परिवीतः परिवेष्टितः शुचिः
+> सर्वस्य शोधकः शुक्रो दीप्तियुक्तोऽत एव रोरुचानो भृशं दीप्यमानोऽर्यः
+> स्वामिा तादृशो देव आगात् । अस्मदीयं यज्ञं प्रत्यागच्छतु ॥ सत्या । शेश्बंदसि
+> बहुलमिति शेर्लुक् । परिवीतः । व्येञ् संवरणे । कर्मणि क्तः । यजादित्वात्संप्रसारणं । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं । अर्यः । ऋ गतौ । अर्यः स्वामिवैश्ययोरिति यत्पत्ययांतो निपातितः । स्वामिन्यंतोदात्तत्वं वक्तव्यमित्यंतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Of this divine Agni, who presides over fire, the three — as fire, wind and sun — the famed, supreme, true (that is, real) births (जनिमानि (*janimāni*), जन्मानि (*janmāni*)) are desirable to all. Or else: Agni's own three births are famed in mantras such as दिवस्परि प्रथमं जज्ञे अग्निः (*divaspari prathamaṃ jajñe agniḥ*) (Ṛ. Saṃ. 10-45-1) and त्रीणि जाना परि भूषंत्यस्य (*trīṇi jānā pari bhūṣaṃtyasya*) (Ṛ. Saṃ. 1-95-3). In the endless sky, in the middle, enveloped (परिवीतः (*parivītaḥ*)) by his own radiance, शुचिः (*śuciḥ*) (the purifier of all), शुक्रः (*śukraḥ*) (full of brightness), and therefore रोरुचानः (*rorucānaḥ*) (shining intensely), the अर्यः (*aryaḥ*) (lord), such a god, आगात् (*āgāt*): may he come to our sacrifice. The rest gives the grammar of सत्या (*satyā*), परिवीतः (*parivītaḥ*) and अर्यः (*aryaḥ*) (Grammar section).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the divine being
+- अस्य अग्नेः (*asya agneḥ*)—of this Agni
+- ता (*tā*)—famed
+- परमा (*paramā*)—supreme
+- सत्या (*satyā*)—true in nature
+- त्रिः जनिमानि (*triḥ janimāni*)—the three forms of origin also
+- स्पार्हा संति (*spārhā saṃti*)—are most attractive
+- अनंते (*anaṃte*)—of the boundless atmosphere
+- अंतः (*aṃtaḥ*)—in the middle
+- परिवीतः (*parivītaḥ*)—enveloped by his own radiance
+- शुचिः (*śuciḥ*)—the purifier
+- शुक्रः (*śukraḥ*)—endowed with brightness
+- रोरुचानः (*rorucānaḥ*)—shining intensely
+- अर‍्यः (*aryaḥ*)—the lord, Agni
+- आगात् (*āgāt*)—may he come graciously to our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+The famed, supreme and true three forms of origin (as fire, wind and sun) of this Agni, the divine being, are also most attractive. In the middle of the unfathomable
+
+### Printed p. 681
+
+atmosphere, enveloped by his own radiance, the purifier, endowed with brightness, shining intensely, the lord, Agni — may he come graciously to our sacrifice.
+
+##### English translation (H. H. Wilson)
+These are the supreme, true, and desirable births of this divine Agni, invested (with radiance) in the unbounded (firmament): pure, bright, radiant lord (of all), may he come (to our) sacrifice.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स दू॒तो विश्वेद॒भि व॑ष्टि॒ सद्मा॒ होता॒ हिर॑ण्यरथो॒ रंसु॑जिह्वः ।  
+> रो॒हित्स्य अ॑श्वः वपु॒ष्यो॑ वि॒भावा॒ सदा॑ र॒ण्वः पि॑तु॒मती॑व सं॒सत् ॥
+
+> *sa dūto viśvedabhi vaṣṭi sadmā hotā hiraṇyaratho raṃsujihvaḥ |*  
+> *rohitsya aśvaḥ vapuṣyo vibhāvā sadā raṇvaḥ pitumatīva saṃsat ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । दूतः । विश्वा । इत् । अभि । वष्टि । सद्म । होता । हिरण्यरथः । रंसुजिह्वः ।  
+> रोहित्स्य अश्वः । वपुष्यः । विभावा । सदा । रण्वः । पितुमतीइव । संसत् ॥ ८ ॥
+
+> *saḥ | dūtaḥ | viśvā | it | abhi | vaṣṭi | sadma | hotā | hiraṇyarathaḥ | raṃsujihvaḥ |*  
+> *rohitsya aśvaḥ | vapuṣyaḥ | vibhāvā | sadā | raṇvaḥ | pitumatīiva | saṃsat ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां दूतो होता देवानामाह्वाता हिरण्यरथः सुवर्णमयरथोपेतो रंसुजिह्वॊ रमणीयशोभनज्वालोपेतः स तादृशोग्निर्विश्वेत् सर्वाण्वेव सद्म देवयजनस्थानान्यभि वष्टि । कामयते । पुनश्च कीदृशः । रोहिदश्वः ।
+> रोहितवर्णा अश्वा यस्य स तथोक्तः । वपुष्यो वपुषि रूपे साधुर्विभावा कांतियुक्तोऽत एव सदा रणो रमणीयो भवति । तत्र दृष्टांतः । पितुमतीव संसत् ।
+> यथान्नादिवत्समृद्धं गृहं रमणीयं तद्वत् ॥ रंसुजिह्वः । रमतेरन्येभ्योऽपि
+> दृश्यंत इति विच् । बहुव्रिह पूर्वपदस्वरः । वपुष्यः । तत्र साधुरिति यत् । तित्स्वरितः।
+> विभावा । छंदसीवनिपाविति वनिप् ॥
+
+##### Gist of the bhāṣya
+
+Agni is the messenger of the gods, the होता (*hotā*) (the caller of the gods), हिरण्यरथः (*hiraṇyarathaḥ*) (possessed of a golden chariot), रंसुजिह्वः (*raṃsujihvaḥ*) (possessed of lovely, beautiful flames). Such an Agni विश्वेत् (*viśvet*), all the सद्म (*sadma*) (the places of the gods' sacrifice), अभि वष्टि (*abhi vaṣṭi*), desires. And of what kind is he further? रोहिदश्वः (*rohidaśvaḥ*): he whose horses are red. वपुष्यः (*vapuṣyaḥ*): excellent in form; विभावा (*vibhāvā*): full of radiance, and therefore he is always रण्वः (*raṇvaḥ*), delightful. The illustration: पितुमतीव संसत् (*pitumatīva saṃsat*) — as a house abundant in food and the like is delightful, so is he. The rest gives the grammar of रंसुजिह्वः (*raṃsujihvaḥ*), वपुष्यः (*vapuṣyaḥ*) and विभावा (*vibhāvā*) (Grammar section).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दूतः (*dūtaḥ*)—the messenger of the gods
+- होता (*hotā*)—the one who calls the gods
+- हिरण्यरथः (*hiraṇyarathaḥ*)—one who has a golden chariot
+- रंसुजिह्वः (*raṃsujihvaḥ*)—one who has lovely flames
+- सः (*saḥ*)—the famed
+
 ---
 
-**Progress note:** Done through printed p. 675. pp. 670-675 (batch API)
+**Progress note:** Done through printed p. 681. pp. 676-681 (batch API)
