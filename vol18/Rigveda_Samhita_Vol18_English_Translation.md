@@ -28724,6 +28724,222 @@ with milk and butter, when you make husband and wife of one mind.
 
 In the principal homa of the wedding, when the ājya oblation is offered in Agni, this ṛk त्वमर्यमा (*tvamaryamā*) is to be used as the mantra of the fourth oblation, according to the Āśvalāyana Gṛhyasūtra
 
+### Printed p. 773
+The viniyoga is explained by the Āśvalāyana Gṛhya Sūtra rule (Ā. Gṛ. 1-4-7) that in the marriage rite the fourth oblation-mantra is the Ṛk *tvamaryamā bhavasi yatkanīnāṃ*.
+**NOTE**
+
+Yat tvaṃ kanīnām aryamā bhavasi: O Agni, when you enter into relation with maidens, you become Aryaman. That is, the relation with maidens here means that when the principal oblation is made in the marriage, the marriage fire is famed by the name Aryaman. On this point there is also a passage of another śruti: "The maiden worships the god Agni, famed by the name Aryaman, at the time of marriage." Therefore the marriage fire, connected with the maiden, is called Aryaman. That is what is stated here.
+
+Svadhāvan guhyaṃ nāma bibharṣi: you bear the secret name Vaiśvānara, since you receive from the sacrificers the food in the form of oblation and carry it to the deities for whom it is intended. Vaiśvānara means one who is a friend to all. The intention, signified by the word Vaiśvānara-Agni, is that because you are needed by all men beginning with the sacrificers who perform the sacrifice, and by the gods who receive the oblation through you, you are a friend to all, that is, to gods, men and everyone.
+
+Yat dampatī samanasā kṛṇoṣi sudhitaṃ mitraṃ na gobhiḥ añjanti: O Agni, because in the marriage rite you make bride and bridegroom of one mind, that is, mutually affectionate, people treat you with honour, as they behave toward a friend, honouring and worshipping you with milk and other substances. Here "gobhiḥ" means products of the cow, milk and the like; the word "go" itself is used to denote the milk obtained from the cow.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ श्रि॒ये म॒रुतो॑ मर्जयंत॒ रुद्र॒ यत्ते॒ जनि॑म॒ चारु॑चि॒त्रं ।  
+> प॒दं यद्विष्णो॑रुप॒मं नि॒धायि॒ तेन॑ पासि॒ गुह्यं॒ नाम॒  ॑
+> गोनां ॥ ३ ॥
+
+> *tava śriye maruto marjayaṃta rudra yatte janima cārucitraṃ |*  
+> *padaṃ yadviṣṇorupamaṃ nidhāyi tena pāsi guhyaṃ nāma*  
+> *gonāṃ ‖ 3 ‖*
+
+### Printed p. 774
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । श्रिये । मरुतः । मर्जयंत । रुद्र । यत् । ते । जनिम । चारु । चित्रं ।  
+> पदं । यत् । विष्णोः । उपमं । निधायि । तेन । पासि । गुह्यं । नाम । गोनां॥
+
+> *tava | śriye | marutaḥ | marjayaṃta | rudra | yat | te | janima | cāru | citraṃ |*  
+> *padaṃ | yat | viṣṇoḥ | upamaṃ | nidhāyi | tena | pāsi | guhyaṃ | nāma | gonāṃ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयाग्नेर्माध्यमिकी मूर्तिरुच्यते । हे अग्ने तव श्रिये श्रयणाय
+> मरुतोऽपोऽंतरिक्ष्या मर्जयंत । मार्जयंति । हे रुद्र वृष्टा रुद्रवद्वर्धितरग्ने ते तव यज्जनिम।जन्म वैद्युतलक्षणं चारु चरणीयं चित्रं चायनीयं - च
+> तत्कथमिति चेदुच्यते । विष्णोर्व्यापनशीलस्य देवस्कोपमं गुह्यमगम्यं यत्पदं
+> निधायि! अनेनांतरिक्षमुक्तं । उपमेयमिव विष्णोर्मध्यमं पदं तस्मानांतरिक्षं
+> पश्यंतीति ब्राह्मणं । तेन गोनामुदकानां गुह्यं नाम नामानि पासि । रक्षसि ॥
+
+##### Gist of the bhāṣya
+
+By this verse the middle (atmospheric) form of Agni is described. O Agni, for your श्रिये (*śriye*), your resort, the Maruts purify the atmospheric waters. O Rudra, Agni grown like Rudra by the rain: your birth, of the nature of lightning, is lovely (चारु (*cāru*), to be moved about in) and wonderful (चित्रं (*citraṃ*), to be gazed at). How so? He answers: the secret, inaccessible, highest-comparable step of Vishnu, the all-pervading god, has been placed. By this the atmosphere is meant. A Brāhmaṇa says: "As if it were the object of comparison, the middle step of Vishnu; therefore they see the atmosphere." By that you protect the secret names of the waters (गोनां (*gonāṃ*) = of the waters).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your
+- श्रिये (*śriye*)—for the shining of glory
+- मरुतः (*marutaḥ*)—the Maruts
+- मर्जयंत (*marjayaṃta*)—purify (the atmosphere)
+- रुद्र (*rudra*)—O Agni, who are like Rudra
+- ते (*te*)—your
+- जनिम (*janima*)—birth in lightning form
+- यत् (*yat*)—which is
+- चारु (*cāru*)—charming
+- चित्रं (*citraṃ*)—wonderful
+- विष्णोः (*viṣṇoḥ*)—of Vishnu
+- यत् (*yat*)—which
+- उपमं पदं (*upamaṃ padaṃ*)—middle step
+- निधायि (*nidhāyi*)—has been placed
+- तेन (*tena*)—by that
+- गोनां (*gonāṃ*)—of the waters
+- गुह्यं नाम (*guhyaṃ nāma*)—secret names
+- पासि (*pāsi*)—you protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for the shining of your glory the Maruts purify the atmosphere. O Agni, who are like Rudra, your birth in the form of lightning is charming and wonderful. Because of the placing of Vishnu's middle step, you cherish the secret names of the waters.
+
+##### English translation (H. H. Wilson)
+For your glory the Maruts sweep (the firmament), when your birth, Rudra, is beautiful and wounderful : the middle step of Vishnu has been placed, so you cherish the mysterious name of the waters.
+
+### Printed p. 775
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this Ṛk is somewhat difficult. Here the lightning-fire (Vaidyuta Agni), a deity of the middle region, is praised.
+
+(हे अग्ने) तव श्रिये मरुतः मर्जयंत—तव श्रयणाय मरुतः अंतरिक्ष्याः मार्जयंति (*(he agne) tava śriye marutaḥ marjayaṃta—tava śrayaṇāya marutaḥ aṃtarikṣyāḥ mārjayaṃti*). O Agni, to make your glory shine, the Maruts purify the atmosphere. The appearance of lightning in the atmosphere happens only at the time of rain. At that time the wind (a swiftly blowing wind is called Marut) blows violently. Then, during the rain or just before it, the lightning-fire becomes visible. Since the wind blows strongly before the lightning-fire appears, it is described here in a different manner: the wind blows in the atmosphere and purifies it, in order to make the glory of the lightning-fire known to all. It is natural to clean the road when a king is about to arrive; that is, the road-cleaning takes place before the king comes. In the same way, before the appearance of the lightning-fire the wind blows swiftly and purifies the atmosphere, the path of Agni's movement; so it is described.
+
+रुद्र ते जनिम यत् चारु चित्रं विष्णोः यत् पदं उपमं पदं निधायि (*rudra te janima yat cāru citraṃ viṣṇoḥ yat padaṃ upamaṃ padaṃ nidhāyi*)—here Agni is addressed by the word Rudra. Sāyaṇa's explanation is रुद्रवद्वर्धितः (*rudravadvardhitaḥ*), "grown like Rudra". It is said here that your appearance in the atmosphere, O Agni, is as astonishing as Vishnu's stride. Since it is well known that Vishnu's three strides are in the three places, earth, atmosphere and heaven, here Vishnu's second stride in the atmosphere is indicated. "Astonishing" means: the lightning or lightning-fire that appears suddenly in the atmosphere without warning is as astonishing as Vishnu's second stride in the atmosphere; thus the comparison with Vishnu's stride is made.
+
+तेन गोनां गुह्यं नाम पासि-तेन उदकानां नामानि रक्षसि (*tena gonāṃ guhyaṃ nāma pāsi-tena udakānāṃ nāmāni rakṣasi*). O Agni, by this astonishing action of yours you protect the names of the waters (the rain-waters); that is, you make manifest the glory of the secret waters; this is the intention. The correct meaning of this last sentence is not clear.
+
+### Printed p. 776
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ श्रि॒या सु॒दृशो॑ देव दे॒वाः पु॒रू दधा॑ना अ॒मृतं॑ सपंत  
+> होता॑रम॒ग्निं मनु॑षो॒ नि षे॑दुर्दश॒स्यंत॑ उ॒तिजः॒ शंस॑मा॒योः ॥ ४ ॥
+
+> *tava śriyā sudṛśo deva devāḥ purū dadhānā amṛtaṃ sapaṃta*  
+> *hotāramagniṃ manuṣo ni ṣedurdaśasyaṃta utijaḥ śaṃsamāyoḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । श्रिया । सुदृशः । देव । देवाः । पुरु । दधानाः । अमृतं । सपंत ।  
+> होतारं । अग्निं । मनुषः । नि । सेदुः । दशस्यंतः । उशिजः । शंसं । आयोः ॥ ४ ॥
+
+> *tava | śriyā | sudṛśaḥ | deva | devāḥ | puru | dadhānāḥ | amṛtaṃ | sapaṃta |*  
+> *hotāraṃ | agniṃ | manuṣaḥ | ni | seduḥ | daśasyaṃtaḥ | uśijaḥ | śaṃsaṃ | āyoḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाग्ने सुदृशस्तव श्रिया समृद्ध्या देवा इंद्रादयः पुर्वत्यधिकं
+> दधानास्त्वयि प्रीतिं धारयंतोऽमृतं सपंत । स्पृशंति । होतारं होमनिष्पादकमग्निं मनुषो मनुष्या नि षेदुः । परिचरंत्यृत्विजः । किं कुर्वंतः ।
+> दशस्यंतो हविर्वितरंतः शंसं फलमुशिजः कामयमानस्या योर्मनुष्यस्य
+> यजमानस्यार्थ० ॥
+
+##### Gist of the bhāṣya
+
+O divine Agni, by your श्रिया (*śriyā*) (prosperity) the gods, Indra and the rest, of fair appearance, bearing (पुरु (*puru*), more abundantly) affection for you, touch (सपंत (*sapaṃta*)) the immortal drink. Men, the priests, sit around (नि षेदुः (*ni ṣeduḥ*), attend) Agni the Hotṛ, the accomplisher of the offering. What are they doing? Giving the oblation, for the sake of the man (आयोः (*āyoḥ*)), the sacrificer, who desires the reward (शंसं (*śaṃsaṃ*) = fruit).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining Agni
+- तव (*tava*)—your
+- श्रिया (*śriyā*)—by the wealth of splendour
+- सुदृशः (*sudṛśaḥ*)—having a lovely form
+- देवाः (*devāḥ*)—the gods, Indra and others
+- पुरु (*puru*)—abundantly
+- दधानाः (*dadhānāḥ*)—bearing affection
+- अमृतं (*amṛtaṃ*)—the immortal drink
+- सपंत (*sapaṃta*)—partake of
+- शंसं (*śaṃsaṃ*)—the fruit of the sacrifice
+- उशिजः (*uśijaḥ*)—desiring
+- आयोः (*āyoḥ*)—for the sacrificer, a man
+- दशस्यंतः (*daśasyaṃtaḥ*)—offering oblations
+- मनुषः (*manuṣaḥ*)—priests and others
+- होतारं (*hotāraṃ*)—the accomplisher of the offering
+- अग्निं (*agniṃ*)—Agni
+- निषेदुः (*niṣeduḥ*)—attend and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Agni, the gods, Indra and others, who have obtained a lovely form through the wealth of your splendour, bearing great affection for you, partake of the immortal drink. For the sacrificer, a man who desires the fruit of the sacrifice, the priests, givers of oblations, attend and worship Agni, the accomplisher of the offering.
+
+### Printed p. 777
+
+##### English translation (H. H. Wilson)
+Divine (Agni), the gods (made) comely by your glory, and bearing (the) great (affection), sip the ambrosia : men adore Agni, the conveyer of the burnt-offering. presenting, oblations on behalf of the institutor of the rite, desirous of (its) reward.
+
+##### विशेषविषयगळु (Special Topics)
+
+Because Agni by his greatness carries the oblations and the like offered by the sacrificers to the gods, those gods, pleased with Agni and with the sacrificers, gladly partake of the immortal drink, in the form of Soma, offered in the sacrifice. And the priests, who offer the oblation on behalf of the sacrificer, attend and worship Agni, the accomplisher of the offering. This is the main intention.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त्वद्धोता॒ पूर्वो॑ अग्ने॒ यजी॑या॒न्न काव्यैः॑ प॒रो अ॑स्ति  
+> स्वधावः ।  
+> वि॒शश्च॒ यस्या॒ अति॑थि॒र्भवा॑सि॒ स य॒ज्ञेन॑ वनवद्देव॒ मर्ता॑न् ॥५॥
+
+> *na tvaddhotā pūrvo agne yajīyānna kāvyaiḥ paro asti*  
+> *svadhāvaḥ |*  
+> *viśaśca yasyā atithirbhavāsi sa yajñena vanavaddeva martān ‖5‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । त्वत् । होता । पूर्वः । अग्ने । यजीयान् । न । काव्यैः । परः । अस्ति ।  
+> स्वधावः ।  
+> विशः । च । यस्याः । अतिथिः । भवासि । सः । यज्ञेन । वनवत् । देव । मर्तान् ॥ ५ ॥
+
+> *na | tvat | hotā | pūrvaḥ | agne | yajīyān | na | kāvyaiḥ | paraḥ | asti |*  
+> *svadhāvaḥ |*  
+> *viśaḥ | ca | yasyāḥ | atithiḥ | bhavāsi | saḥ | yajñena | vanavat | deva | martān ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वत्त्वत्तोऽन्यो नास्ति होता पूर्वः पूरकः पुराणो वा यजीयान्यष्टा वा । काव्यैः-स्तोत्रैः स्तुत्यः परः परस्तात्परस्मिन्नपि काले नास्ति । हे देव
+> हे स्वधावोऽन्नवन् यस्या विशः प्रजाया ऋत्विग्रूपाया अतिथिर्भवासि । अतिथिवत्पूज्यो भवसि । स यज्ञेन मर्तानस्मद्वैष्टवान् वनवत् । वृश्चति । हिनस्ति । यद्वा।
+> मर्तान्परिचारकान्वनवत् । संभजेत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, there is no other Hotṛ than you, whether earlier (पूर्वः (*pūrvaḥ*), or "fulfiller", or ancient) or more of a sacrificer (यजीयान् (*yajīyān*), यष्टा (*yaṣṭā*)). Nor is there, परः (*paraḥ*), anyone later, even in a later time, to be praised with hymns (काव्यैः (*kāvyaiḥ*)). O god, O स्वधावः (*svadhāvaḥ*) (possessor of food), the people (विशः (*viśaḥ*)), the priestly folk, of whom you become the guest, that is, are worshipful like a guest—that man वनवत् (*vanavat*) with the sacrifice cuts down, destroys, the mortals who are hostile to us. Or else: वनवत् (*vanavat*) means he would favour (संभजेत् (*saṃbhajet*)) the mortals, his attendants.
+
+### Printed p. 778
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वत् (*tvat*)—apart from you
+- पूर्वः (*pūrvaḥ*)—earlier than you
+- होता (*hotā*)—accomplisher of the offering
+- न अस्ति (*na asti*)—there is none
+- काव्यैः (*kāvyaiḥ*)—praised by hymns
+- यजीयान् (*yajīyān*)—the performer of sacrifice
+- परः (*paraḥ*)—anyone other than you
+- न (*na*)—not
+- देव (*deva*)—O Agni, of divine nature
+- स्वधावः (*svadhāvaḥ*)—possessing food
+- यस्या विशः (*yasyā viśaḥ*)—for which people, priests and others
+- अतिथिः (*atithiḥ*)—as guest
+- भवसि (*bhavasi*)—you become
+- सः (*saḥ*)—such a man
+- यज्ञेन (*yajñena*)—with the help of the sacrifice
+- मर्तान् (*martān*)—his enemies in human form
+- वनवत् (*vanavat*)—destroys
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, neither an excellent Hotṛ nor a sacrificer praised by hymns exists before you, apart from you. In future too there can be none who surpasses you. O Agni of divine nature, the man for whom you, possessing food, become a guest among priests and other people destroys, with the help of the sacrifice, his enemies in human form.
+**NOTE**
+
+##### English translation (H. H. Wilson)
+There is no more venerable offerer of oblations, Agni, than you, nor (one) prior to you; neither, giver of food, is any one subsequent (to be more glorified by hymns): the man of whom you are the guest destroys hostile men by sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+O Agni, among sacrificers who perform the sacrificial rite, or among priests, there is none better than you in knowledge of the respective rites and in their performance. You alone know everything. Moreover, being honoured like a guest by priests and others, you give them food and the like and destroy their enemies as a forest fire destroys a forest; or, in order to show favour to the priests and others who attend you, you go to them; this is the intention.
+
 ---
 
-**Progress note:** Done through printed p. 772. pp. 767-772 (batch API)
+**Progress note:** Done through printed p. 778. pp. 773-778 (batch API)
