@@ -22596,6 +22596,259 @@ The meaning of this Ṛk is not clear. The commentator's explanation too is not 
 
 "O Agni, we have done (अकर्म (*akarma*), "we do") service to you; by that work we have become (अभूम (*abhūma*)) of good works (स्वपसः (*svapasaḥ*)). The shining dawns (विभातीः (*vibhātīḥ*)), as they break forth, cover or bear (अवस्रन् (*avasran*)) the light (ऋतं (*ṛtaṃ*), "brightness"), that is, they hold it. In the same way those dawns bear Agni, who is complete (अनूनं (*anūnaṃ*)), in many ways (पुरुधा (*purudhā*)), and who gives excellent delight (सुश्चंद्रं (*suścaṃdraṃ*)), or else is of good gold." Further, serving (मर्मृजतः (*marmṛjataḥ*)) the lovely (चारु (*cāru*)), charming eye, the lustre (चक्षुः (*cakṣuḥ*)), of you, the shining god (देवस्य (*devasya*)), we have become of good works. The construction is with the preceding words.
 
+### Printed p. 730
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) विभातीः (*vibhātīḥ*)—shining
+- उषसः (*uṣasaḥ*)—of the dawn
+- ऋतं (*ṛtaṃ*)—the lustre
+- अवस्रन् (*avasran*)—spread out (and)
+- अनूनं (*anūnaṃ*)—that which is full and complete, without deficiency
+- पुरुधा (*purudhā*)—in many ways
+- सुश्चंद्रं (*suścaṃdraṃ*)—and that which gives delight
+- अग्निं (*agniṃ*)—the lustre of Agni (it bears)
+- देवस्य (*devasya*)—of you, the shining one
+- चारु (*cāru*)—beautiful
+- चक्षुः (*cakṣuḥ*)—the lustre
+- मर्मृजतः (*marmṛjataḥ*)—serving
+- ते (*te*)—your worship
+- अकर्म (*akarma*)—we perform (and therefore)
+- स्वपसः (*svapasaḥ*)—as possessors of excellent work
+- अभूम (*abhūma*)—we become
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the lustre of the shining dawn spreads everywhere, and it bears the lustre of Agni, which is full and delights in many ways. Serving your beautiful, shining lustre, we perform your worship; and therefore we become possessors of excellent work.
+
+##### English translation (H. H. Wilson)
+We have worshipped you (Agni), and have thereby become the performers of a good work, adoring the full and variously delighting Agni, the beautiful lustre of the radiant divinity, when the brilliant dawns have arrayed (themselves) in light.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता ते॑ अग्न उ॒चथा॑नि वे॒धोऽवो॑चाम क॒वये॒ ता जु॑षस्व ।  
+> उच्चो॑चस्व कृणु॒हि वस्य॑सो नो म॒हो रा॒यः पु॑रुवार॒  ॑
+> प्र यंधि ॥ २० ॥
+
+> *etā te agna ucathāni vedho 'vocāma kavaye tā juṣasva |*  
+> *uccocasva kṛṇuhi vasyaso no maho rāyaḥ puruvāra*  
+> *pra yaṃdhi ‖ 20 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एता । ते। अग्ने। उचथानि । वेधः । अवोचाम । कवये । ता । जुषस्व ।  
+> उत् । शोचस्व । कृणुहि । वस्यसः । नः।महः । रायः । पुरुरुवार । प्र । यंधि ॥२०॥
+
+> *etā | te| agne| ucathāni | vedhaḥ | avocāma | kavaye | tā | juṣasva |*  
+> *ut | śocasva | kṛṇuhi | vasyasaḥ | naḥ|mahaḥ | rāyaḥ | pururuvāra | pra | yaṃdhi ‖20‖*
+
+### Printed p. 731
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेधो विधातर्हे अग्ने कवये मेधाविने ते तुभ्यमेतैतान्युचथान्युक्थानि
+> शस्त्राण्यवोचाम । त्वं ता तानि जुषस्व । सेवस्व । किंच त्वमुच्छोचस्व । उद्दीप्यस्व ।
+> नोऽस्मान्वस्यसोऽतिशयेन धनयुक्तान् कृणुहि । कुरु । तदेवोच्यते । पुरुवार
+> पुरुभिर्बहुभिर्वर्णीय महो रायो महद्धनं प्र यंधि । अस्मभ्यं प्रयच्छ ॥
+> अवोचाम । वच परिभाषणे । लुजि क्लेरजादेशः । पादादित्वादनिघातः । कृणुहि ।
+> कृवि हिंसाकरणयोरित्यस्य लोटि रूपं । तिज उत्तरत्वादनिघातः । वस्यसः । वसुमच्छब्दादीयसुनि विन्मतोर्लुगिति मतुपो लुकि टिलोपे च कृत ईकारलोपश्रांदसः । यंधि । यमेर्लोटि बहुलं छंदसीति विकरणस्य लुक् । वा छंदसीति
+> हेर्विकल्पेन पित्त्वादजुतश्चति धिरादेशः ॥
+
+##### Gist of the bhāṣya
+
+O creator (vedhas), O Agni, to you the wise (kavi) we have recited these praises (ukthas, i.e. śastras). Accept them, take pleasure in them. Moreover blaze up; make us exceedingly rich in wealth. That is what is said: O Purūvāra, you who are to be chosen by many, bestow on us great wealth (mahaḥ rāyaḥ, "ample wealth"). The remainder of the block is grammar: the forms avocāma, kṛṇuhi, vasyasaḥ, yandhi.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधः (*vedhaḥ*)—O creator
+- अग्ने (*agne*)—Agni
+- कवये (*kavaye*)—the wise one
+- ते (*te*)—addressing you
+- एता उक्तानि (*etā uktāni*)—these śastra-mantras
+- अवोचाम (*avocāma*)—we recite
+- ता (*tā*)—them
+- जुषस्व (*juṣasva*)—accept
+- उच्चोचस्व (*uccocasva*)—shine excellently
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as possessors of wealth
+- कृणुहि (*kṛṇuhi*)—make
+- पुरुवार (*puruvāra*)—O Agni, desired by many
+- महः (*mahaḥ*)—abundant
+- रायः (*rāyaḥ*)—wealth
+- प्र यंधि (*pra yaṃdhi*)—give to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the creator, we recite these śastra-mantras addressed to you, the wise one. Accept them. Shine excellently. Make us possessors of wealth. O Agni, desired by many, give us abundant wealth.
+
+##### English translation (H. H. Wilson)
+Creator, Agni, we have repeated these your praises to you who are all-wise ; do you accept them : blaze aloft ; make us opulent: you are worshipped by many ; bestow upon us ample wealth.
+
+### Printed p. 732
+## Sūkta 3 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ वो राजानमिति षोडशर्चं तृतीयं सूक्तं वामदेवस्यार्षं त्रैष्टुभमाग्नेयं । आ वः षोळशेत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोग
+> उक्तः ॥
+> अनुवादवु—आ वो राजानं ऎंब ई सूक्तवु मॊदलनॆय अनुवाकदल्लि मूरनॆय
+> सूक्तवु. इदरल्लि हदिनारु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; अग्नियु
+> देवतॆयु ; त्रिष्टुप् छंदस्सु. अनुक्रमणिकॆयल्लि आ वः षोळश ऎंदु हेळिरुवुदु. प्रातर
+> नुवाक मत्तु अश्विनशस्त्रमंत्रपठनक्कागि ई सूक्तद विनियोगविरुवुदॆंदु हिंदॆये हेळलागिदॆ.
+> ॥ ओं ॥
+> सूक्त—३
+> मंडल—४ ॥ अनुवाक—१ ॥ सूक्त—३ ॥
+> अष्टक—३ ॥ अध्याय—४ ॥ वर्ग—२०, २१, २२ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—१६ ॥
+> ऋषिः—वामदेवः ॥
+> देवता—अग्निः ॥
+> छंदः—त्रिष्टुप् ॥
+
+##### Gist of the bhāṣya
+
+The third sūkta, आ वो राजानं (*ā vo rājānaṃ*), has sixteen ṛks; its seer is Vāmadeva, its deity Agni, its metre Triṣṭubh; the Anukramaṇī says आ वः षोळश (*ā vaḥ ṣoḷaśa*). Its use (viniyoga) in the Prātaranuvāka and in the Aśvina-śastra has been stated before. The Kannada Anuvāda adds that this is the third sūkta of the first anuvāka. The particulars given: Maṇḍala 4; Anuvāka 1; Sūkta 3; Aṣṭaka 3; Adhyāya 4; Vargas 20, 21, 22; number of ṛks in the sūkta 16; Ṛṣi Vāmadeva; Devatā Agni; Chandas Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वो॒ राजा॑नमध्व॒रस्य॑ रु॒द्रं होता॑रं सत्य॒यजं॒  ॑
+> रोद॑स्योः ।  
+> अ॒ग्निं पु॒रा त॑नयि॒त्नोर॒चित्ता॒द्धिर॑ण्यरूप॒मव॑से कृणुध्वं ॥१॥
+
+> *ā vo rājānamadhvarasya rudraṃ hotāraṃ satyayajaṃ*  
+> *rodasyoḥ |*  
+> *agniṃ purā tanayitnoracittāddhiraṇyarūpamavase kṛṇudhvaṃ ‖1‖*
+
+### Printed p. 733
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वः । राजानं । अध्वरस्य । रुद्रं । होतारं । सत्ययजं । रोदस्कोः ।  
+> अग्निं । पुरा । तनयित्नोः । अचित्तात् । हिरण्यरूपं । अवसे । कृणुध्वं ॥ १ ॥
+
+> *ā | vaḥ | rājānaṃ | adhvarasya | rudraṃ | hotāraṃ | satyayajaṃ | rodaskoḥ |*  
+> *agniṃ | purā | tanayitnoḥ | acittāt | hiraṇyarūpaṃ | avase | kṛṇudhvaṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विग्यजमाना अध्वरस्य यज्ञस्य राजानमधिपतिं होतारं देवानामाह्वातारं रुद्रं रोरूयमाणं द्रवंतं शत्रून्रोदयंतं वा । यद्वा ।
+> एषा ना अग्नेस्तनूर्यद्रुद्र इति रुद्रात्मकं रोदस्योर्द्यानापृथिव्योः सत्ययजं
+> सत्यस्यान्नस्य दातारं । यद्वा । सत्ययजं सत्येन हविषा देवान्यजंतं । यद्वा ।
+> रोदस्योर्वाप्य वर्तमानं हिरण्यरूपं सुवर्णप्रभं । एवंविधमग्निं वो
+> युष्माकमवसे रक्षणाय तनयित्नोः । तनयित्नुरशनिः स ह्याकस्मिकः । तत्सदृशादचित्तात् । न विद्यते चित्तं यस्मिन् तदचित्तं । चित्तोपलक्षितसर्वेंद्रियोपसंहारो
+> मरणमिति यावत् । तस्मान्मरणात्पुरा प्रागेवा कृणुध्वं । यूयं समंताद्दपिर्भिरग्निं भजध्वं ॥ रुद्रं । रोदयते रोदेर्णिलुक्च ! उ. २-२२ । इति रक्षत्ययः । तनयित्नोः । तनिः शब्दार्थः । चुरादिरदंतः । स्तनिशुधिपुषिगमिमनिभ्यो
+> णेरित्तुच् । उ. ३-२९ । इतीत्नुच् प्रत्ययः । चित्स्वरेणांतोदात्तः । सुपा सहैकादेश एकादेशस्वरः । कृणुध्वं । कृवि हिंसाकरणयोः । लोटि रूपं ॥
+
+##### Gist of the bhāṣya
+
+O priests and sacrificers, make Agni yours for protection: the king (lord) of the sacrifice (adhvara), the invoker (hotṛ) of the gods, Rudra — "the roaring one", or "the one who runs", or "the one who makes enemies weep". Alternatively, with the text एषा ना अग्नेस्तनूर्यद्रुद्र (*eṣā nā agnestanūryadrudra*), he is of Rudra's nature. He is the satyayaj of the two worlds (rodasī, heaven and earth): the giver of true food (satya); or the one who sacrifices to the gods with true oblation. Or again, abiding in the two worlds, he is golden-formed, of golden radiance. Such an Agni you should serve, for your protection, before (purā) the unthinking (acitta) one like the thunderbolt (tanayitnu). Tanayitnu is the lightning-bolt, which is sudden; like it is acitta, "that in which there is no thought" — the withdrawal of all the senses marked by thought, that is, death. Before that death, he says, honour Agni on all sides with oblations. The rest of the block is grammar (rudra, tanayitnoḥ, kṛṇudhvam, with Uṇ. Sū. 2-22 and 3-29).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests and sacrificers) अध्वरस्य (*adhvarasya*)—of the sacrifice
+- राजानं (*rājānaṃ*)—the lord
+- होतारं (*hotāraṃ*)—the caller of the gods
+- रुद्रं (*rudraṃ*)—the terrible to enemies
+- रोदस्कोः (*rodaskoḥ*)—to both heaven and earth
+- सत्ययजं (*satyayajaṃ*)—the giver of true food
+- हिरण्यरूपं (*hiraṇyarūpaṃ*)—possessing a golden radiance
+- अग्निं (*agniṃ*)—Agni
+- वः (*vaḥ*)—your
+- अवसे (*avase*)—for protection
+- तनयित्नोः (*tanayitnoḥ*)—sudden like lightning
+- अचित्तात् (*acittāt*)—than death
+- पुरा (*purā*)—before
+- आ कृणुध्वं (*ā kṛṇudhvaṃ*)—worship and serve
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, for your protection, before a death as sudden as lightning, worship and serve Agni, the lord of the sacrifice, the caller of the gods, the terrible to enemies, the giver of true food to both heaven and earth, he who has a golden radiance.
+
+### Printed p. 734
+
+##### English translation (H. H. Wilson)
+Secure Agni, the king of sacrifice, the afflicter (of foes), the invoker (of the gods), the distributor of food through heaven and earth, the golden-formed, for your protection, before (surprised by) sudden death.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं योनि॑श्चकृ॒मा यं व॒यं ते॑ जा॒येव॒ पत्य॑ उश॒ती  ॒॑
+> सुवासाः ।  
+> अ॒र्वा॒ची॒नः परि॑वीतो॒ नि षी॑दे॒मा उ॑ ते स्वपाक प्रती॒चीः ॥
+
+> *ayaṃ yoniścakṛmā yaṃ vayaṃ te jāyeva patya uśatī*  
+> *suvāsāḥ |*  
+> *arvācīnaḥ parivīto ni ṣīdemā u te svapāka pratīcīḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । योनिः । चक्रम । यं । वयं । ते । जायाइव । पत्ये । उशती । सुवासाः।  
+> अर्वाचीनः । परिवीतः । नि । सीद । इमाः । ऊं इति । ते । सुअपाक । प्रतीचीः ॥
+
+> *ayaṃ | yoniḥ | cakrama | yaṃ | vayaṃ | te | jāyāiva | patye | uśatī | suvāsāḥ|*  
+> *arvācīnaḥ | parivītaḥ | ni | sīda | imāḥ | ūṃ iti | te | suapāka | pratīcīḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते त्वदर्थं यमुत्तरवेदिलक्षणं प्रदेशं वयं चक्रम । कुर्मः ।
+> अयं योनिस्तव स्थानं भवति । तत्र दृष्टांतः । जायेव । यथा पत्य उशती पतिं
+> कामयमाना सुवासाः शोभनवस्रोपेता जाया स्वात्मसमीपे तस्य स्थानं
+> करोति तद्वत् । हे स्वपाक स्वपस्क सुकर्मन्नग्ने त्वं परिवीतो यष्टव्यदेवैस्तेजोभिर्वा परिवीतोऽर्वाचीनोऽस्मदभिमुखः सन् नि षीद । उत्तरवेद्यामुपविश ।
+> तत्र स्थितस्य ते तवेमा ज्वालाः स्तुतयो वा प्रतीचीस्त्वदभिमुखाः प्रवर्तंते ॥
+> चक्रम । करॊतेर्लिटि रूपं । वाक्यभेदान्निघाताभावः । अर्वाचीनः । विभाषांचेरदिगिति खः । परिवीतः । वैञ् संवरणे । कर्मणि निष्ठा । यजादित्वात्संप्रसारणं ।
+> गतिरनंतर इति गतेः स्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the place (the uttaravedi) that we have made for you is your seat (yoni). The illustration: as a wife who longs for her husband (patye uśatī), well clothed, makes a place for him near herself, so too. O Svapāka, of good work, Agni, surrounded (parivīta) by the gods to be worshipped or by lustres, and turned towards us (arvācīna), sit down on the uttaravedi. While you are seated there, these flames, or these praises, move towards you (pratīcīḥ). The rest is grammar (cakrama, arvācīnaḥ, parivītaḥ).
+
+### Printed p. 735
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) पत्ये उशती (*patye uśatī*)—one who longs for the nearness of her husband
+- सुवासाः (*suvāsāḥ*)—adorned with excellent garments and the like
+- जाया इव (*jāyā iva*)—as a wife makes a place for her husband near herself
+- ते (*te*)—for you
+- यं (*yaṃ*)—which uttaravedi
+- वयं (*vayaṃ*)—we
+- चक्रम (*cakrama*)—have constructed
+- अयं योनीः (*ayaṃ yonīḥ*)—that is a sacred seat for you
+- स्वपाक (*svapāka*)—O Agni of excellent work
+- परिवीतः (*parivītaḥ*)—surrounded by lustres
+- अर्वाचीनः (*arvācīnaḥ*)—turned towards us
+- निषिद (*niṣida*)—sit down
+- ते (*te*)—addressed to you
+- इमाः (*imāḥ*)—these praises
+- प्रतीचीः (*pratīcīḥ*)—are recited facing you
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as a wife who longs for the nearness of her husband and is adorned with excellent garments and the like makes a place for her husband near herself, so the uttaravedi that we have built for you is a sacred seat for you. O Agni of excellent work, sit down, surrounded by lustres and turned towards us. These praises addressed to you are recited facing you.
+
+##### English translation (H. H. Wilson)
+This is the altar which we have decorated for you, as a wife attached to her husband puts on elegant garments (to gratify him) : maturer of good works, sit down in our presence invested (with radiance), while your flames incline towards you.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒शृ॒ण्व॒ते अदृ॑पिताय॒ मन्म॑ नृ॒चक्ष॑से सुमृळी॒काय॑ वेधः ।  
+> दे॒वाय॑ श॒स्तिम॒मृता॑य शंस॒ ग्रावे॑व॒ सोता॑ मधु॒षुद्यमी॒ळे ॥ ३ ॥
+
+> *āśṛṇvate adṛpitāya manma nṛcakṣase sumṛḷīkāya vedhaḥ |*  
+> *devāya śastimamṛtāya śaṃsa grāveva sotā madhuṣudyamīḷe ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आशृण्वते । अदृपिताय । मन्म । नृचक्षसे । सुमृळीकाय । वेधः ।
+
+> *āśṛṇvate | adṛpitāya | manma | nṛcakṣase | sumṛḷīkāya | vedhaḥ |*
+
 ---
 
-**Progress note:** Done through printed p. 729. pp. 724-729 (batch API)
+**Progress note:** Done through printed p. 735. pp. 730-735 (batch API)
