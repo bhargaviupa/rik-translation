@@ -9454,6 +9454,278 @@ The golden-handed, soft-tongued Savitri is descending from heaven (to be present
 हिरण्यपाणिः सविता— दानार्थं हिरण्यं पाणौ यस्य (*hiraṇyapāṇiḥ savitā— dānārthaṃ hiraṇyaṃ pāṇau yasya*). Sāyaṇa explains the meaning as: the god Savitṛ holds gold in his hand for giving; and he gives another meaning for this phrase: यद्वा देवकर्तृकयागे सवितुः ऋत्विगूतस्य हस्ते प्राशित्रं भक्षणार्थमध्वर्यवो ददुः । तत्पाशित्रं तस्य हस्तौ चिच्छेद । ततो अध्वर्यवो हिरण्ययौ हस्तौ कृत्वा संदधुः । ततोऽयं हिरण्यपाणिः (*yadvā devakartṛkayāge savituḥ ṛtvigūtasya haste prāśitraṃ bhakṣaṇārthamadhvaryavo daduḥ | tatpāśitraṃ tasya hastau ciccheda | tato adhvaryavo hiraṇyayau hastau kṛtvā saṃdadhuḥ | tato 'yaṃ hiraṇyapāṇiḥ*). And so the Kauṣītaka: “सवित्रे प्राशित्रं प्रतिजह्रुः तत्तस्य पाणी प्रचिच्छेद तस्मै हिरण्ययौ प्रतिदधुः तस्मात् हिरण्यपाणिः (*savitre prāśitraṃ pratijahruḥ tattasya pāṇī praciccheda tasmai hiraṇyayau pratidadhuḥ tasmāt hiraṇyapāṇiḥ*)”. When the gods performed a sacrifice, they offered the oblation into the hand of the god Savitṛ. It cut off his hand. Then the Adhvaryus made a hand of gold and joined it; from this the name Hiraṇyapāṇi became famous: thus the second meaning is explained. It is expressed as a wish that this god come to the sacrificial hall of the sacrificer performing the sacrifice. Yāska has explained the meaning of the word हिरण्य (*hiraṇya*) and of the word पाणि (*pāṇi*): हिरण्यं कस्मात् ध्रियत आयम्यमानमिति ना क्रियते जनाज्जनं (*hiraṇyaṃ kasmāt dhriyata āyamyamānamiti nā kriyate janājjanaṃ*) (Ni. 2-10). पाणिः पणायतेः पूजाकर्मणः (*pāṇiḥ paṇāyateḥ pūjākarmaṇaḥ*) (Ni. 2-26). **NOTE**
 श्लोकं आश्रेः— श्लोक्यते अनेनेति श्लोकः स्तोत्रं (*ślokaṃ āśreḥ— ślokyate aneneti ślokaḥ stotraṃ*). It is described that the god Savitṛ, having come to the sacrificial hall, may hear the praise recited by the Ṛtvijs.
 
+### Printed p. 254
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒कृत्सु॑पा॒णिः स्ववां॑ ऋ॒तावा॑ दे॒वस्त्वष्टाव॑से॒ तानि॑ नो धात्।  
+> पू॒ष॒ण्वंत॑ ऋभवो मादयध्वमू॒र्ध्वग्रा॑णोणो अध्व॒रम॑तष्ट ॥ १२ ॥
+
+> *sukṛtsupāṇiḥ svavāṃ ṛtāvā devastvaṣṭāvase tāni no dhāt|*  
+> *pūṣaṇvaṃta ṛbhavo mādayadhvamūrdhvagrāṇoṇo adhvaramataṣṭa ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुकृत् । सुपाणिः । स्ववान् । ऋतवा । देवः । त्वष्टा । अवसे । तानि । नः । धात् ।  
+> पूषण्वंतः । ऋभवः । मादयध्वं । ऊर्ध्वग्रावानः । अध्वरं । अतष्ट ॥ १२ ॥
+
+> *sukṛt | supāṇiḥ | svavān | ṛtavā | devaḥ | tvaṣṭā | avase | tāni | naḥ | dhāt |*  
+> *pūṣaṇvaṃtaḥ | ṛbhavaḥ | mādayadhvaṃ | ūrdhvagrāvānaḥ | adhvaraṃ | ataṣṭa ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुकृत्सुष्टु जगतः कर्ता सुपाणिः कल्याणपाणिः स्ववान् धनवानृतावा सत्यसंकल्पस्वष्टा देवस्तानि यान्यस्माकमपेक्षितान्यवसे रक्षणाय नोऽस्मभ्यं धात् ।
+> ददातु । ऋभवः । उरु भांतीत्यृभवः । हे ऋभवः पूषण्वंतः पूष्णा सहिता
+> यूयं मादयध्वं । अस्मान् धनप्रदानेन हृष्टान् कुरुत । ऊर्ध्वग्रावाणः
+> सोमाभिषवार्थमुद्यतग्रावाणः संत ऋत्विज इममस्मदीयमध्वरमतष्ट।अकुर्वन्॥
+> अतष्ट । तक्ष त्वक्षू तनूकरणे । ऊदित्वादत्रेडभावः । झलो झलीति सिलोपः ।
+> स्कोः संयोगाद्योरिति ककारलोपः । बहुवचनस्यैकवचनं छांदसं ॥
+
+##### Gist of the bhāṣya
+
+सुकृत् (*sukṛt*) is the good maker of the world; सुपाणिः (*supāṇiḥ*) is the one with auspicious hands; स्ववान् (*svavān*) is the wealthy one; ऋतावा (*ṛtāvā*) is the one whose resolve is true. May the god Tvaṣṭṛ, such as this, grant us for our protection those things we desire. ऋभवः (*ṛbhavaḥ*): those who shine widely (uru bhāntī) are the Ṛbhus. O Ṛbhus, you who are accompanied by Pūṣan, gladden us, make us glad by giving wealth. ऊर्ध्वग्रावाणः (*ūrdhvagrāvāṇaḥ*): the priests, holding the pressing stones raised for pressing the Soma, have performed this sacrifice of ours. अतष्ट (*ataṣṭa*) means "they performed".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुकृत् (*sukṛt*)—the excellent performer of rites
+- सुपाणिः (*supāṇiḥ*)—one with excellent hands
+- स्ववान् (*svavān*)—the wealthy one
+- ऋतावा (*ṛtāvā*)—one of true resolve
+- त्वष्टा देवः (*tvaṣṭā devaḥ*)—Tvaṣṭṛ, who is divine in nature
+- तानि (*tāni*)—those things that are desired by us
+- अवसे (*avase*)—for our protection
+- नः (*naḥ*)—to us
+- धात् (*dhāt*)—may he give
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- पूषण्वंतः (*pūṣaṇvaṃtaḥ*)—you who are united with the god Pūṣan
+- मादयध्वं (*mādayadhvaṃ*)—gladden us
+- ऊर्ध्वग्रावाणः (*ūrdhvagrāvāṇaḥ*)—priests who hold up the stones (to press the Soma juice)
+- अध्वरं (*adhvaraṃ*)—(our) sacrifice
+- अतष्ट (*ataṣṭa*)—have accomplished
+
+##### भावार्थ (Bhāvārtha)
+
+May Tvaṣṭṛ, the excellent performer of rites, the one with excellent hands, the wealthy one, the one of true resolve, divine in nature, give us for our protection the things we desire. O
+### Printed p. 255
+Ṛbhus, you who are united with the god Pūṣan, gladden us. The priests, holding up the stones to crush and press out the Soma juices, have accomplished our sacrifice.
+
+##### English translation (H. H. Wilson)
+May the divine Twashtri, the able artificer, the dextrous-handed, the possessor of wealth, the observer of truth, bestow upon us those things (which are necessary) for our preservation : Ribhus, associated with Pushan, make us joyful, as they (the priests), with uplifted stones, prepare the sacred libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+त्वष्टा देवः (*tvaṣṭā devaḥ*)—The god called Tvaṣṭṛ is the one who has fashioned the world beautifully and is skilled with his hands. Since this god is of true resolve and is wealthy, the yajamāna's wish is set forth openly: may he fulfil our desires for the protection of us, the yajamānas.
+ऊर्ध्वग्रावाणः (*ūrdhvagrāvāṇaḥ*)—सोमाभिषवार्थमुद्यतग्रावाणः (*somābhiṣavārthamudyatagrāvāṇaḥ*). The priests hold stones raised in their hands in order to press the Soma juice. The prayer is described thus: the sacrifices having been completed, may the god called Pūṣan come with the Ṛbhus to the sacrificial hall, be satisfied by the offering of the oblations, and bestow wealth on the yajamānas.
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्युद्र॑था म॒रुत॑ ऋष्टि॒मंतो॑ दि॒वो मर्या॑ ऋ॒तजा॑ता  ॒॑
+> अयासः ।  
+> सर॑स्वती शृणवन्य॒ज्ञॆया॑सो॒ धाता॑ र॒यिं स॒हवी॑रं तुरासः ॥
+
+> *vidyudrathā maruta ṛṣṭimaṃto divo maryā ṛtajātā*  
+> *ayāsaḥ |*  
+> *sarasvatī śṛṇavanyajñèyāso dhātā rayiṃ sahavīraṃ turāsaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्युत्ठरथाः । मरुतः । ऋष्टिमंतः । दिवः । मर्याः । ऋतजाताः । अयासः ।  
+> सरस्वती । शृणवन् । यज्ञियासः । धात । रयिं । सहवीरं । तुरासः ॥ १३ ॥
+
+> *vidyutṭharathāḥ | marutaḥ | ṛṣṭimaṃtaḥ | divaḥ | maryāḥ | ṛtajātāḥ | ayāsaḥ |*  
+> *sarasvatī | śṛṇavan | yajñiyāsaḥ | dhāta | rayiṃ | sahavīraṃ | turāsaḥ ‖ 13 ‖*
+
+### Printed p. 256
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विद्युद्रथा विद्योतमानरथोपेता ऋष्टिमंतो दीप्तिमंतः। ऋष्टिरायुधविशेषः । तद्वंतो वा दिवो द्योतमाना मर्याः शत्रूणां मारयितार ऋतजाता
+> उदकाद्यज्ञाद्वा प्रादुर्भूताः । यद्वा । ऋतमुदकं जातं येभ्यस्ते ऋतजाताः।
+> अयासः सततगमनशीला यज्जियासो यज्ञार्हा मरुतः सरस्वती । गद्यपद्यरूपेण
+> प्रसरणमस्या अस्तीति सरस्वती । वाग्देवता च । एते सर्वॆ देवा मदीयमिमं
+> स्तोमं शृणवन् । शृण्वंतु । तुरासोऽस्माकं फलप्रदाने त्वरणयुक्ता हे मरुतः
+> सहवीरं पुत्रसहितं रयिं धनंधात। अस्मभ्यं धत्त ॥ धात । दधातेर्लोटि बहुलं
+> छंदसीति शवोलुक् । तप्तनप्तनथनाश्चेति तबादेशः पादादित्पादनिघातः । तपः
+> पित्त्वादनुदात्तत्वे धातुस्वरः । तुरासः । तुर त्वरणे । इगुपधलक्षणः कः । आमंत्रितत्वान्निघातः ॥
+
+##### Gist of the bhāṣya
+
+विद्युद्रथा (*vidyudrathā*): the Maruts are furnished with shining chariots. ऋष्टिमंतः (*ṛṣṭimaṃtaḥ*): radiant; or ऋष्टि (*ṛṣṭi*) is a particular weapon and they possess it. दिवः (*divaḥ*): shining. मर्याः (*maryāḥ*): those who cause enemies to die. ऋतजाता (*ṛtajātā*): born from water or from sacrifice; or else, those from whom water (ṛtam) was born are ऋतजाताः (*ṛtajātāḥ*). अयासः (*ayāsaḥ*): those whose nature is constant movement. Yajjiyāsaḥ: the Maruts, worthy of sacrifice. सरस्वती (*sarasvatī*): she who has a flowing forth (prasaraṇa) in the forms of prose and verse; she is also the deity of speech. May all these gods hear this my praise (शृणवन् (*śṛṇavan*) = शृण्वंतु (*śṛṇvaṃtu*)). तुरासः (*turāsaḥ*): O Maruts, eager to grant us the fruit, give us wealth together with sons (सहवीरं (*sahavīraṃ*)); धात (*dhāta*) means "bestow on us".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्युद्रथाः (*vidyudrathāḥ*)—those whose chariot is lightning (or those whose chariot shines like lightning)
+- ऋष्टिमंतः (*ṛṣṭimaṃtaḥ*)—those who have brilliant weapons
+- दिवः (*divaḥ*)—the resplendent ones
+- मर्याः (*maryāḥ*)—destroyers of enemies
+- ऋतजाताः (*ṛtajātāḥ*)—those born from water
+- आयासः (*āyāsaḥ*)—those of constant motion
+- यज्ञियासः (*yajñiyāsaḥ*)—those worthy of sacrifice
+- मरुतः (*marutaḥ*)—the Marut deities
+- सरस्वती (*sarasvatī*)—(and) the goddess of speech as well
+- शृणवन् (*śṛṇavan*)—let (them) hear (our praises)
+- तुरासः (*turāsaḥ*)—O Maruts, eager (to give us the fruit)
+- सहवीरं (*sahavīraṃ*)—together with heroic sons
+- रयिं (*rayiṃ*)—wealth
+- धातं (*dhātaṃ*)—give us
+
+##### भावार्थ (Bhāvārtha)
+
+May the Marut deities, whose chariots shine like lightning, who have brilliant weapons, who are resplendent, destroyers of enemies, born from water, of constant motion, worthy of sacrifice, and the goddess of speech as well, hear our praises. O Marut deities, eager to give us the fruit, give us wealth together with heroic sons.
+
+##### English translation (H. H. Wilson)
+May the Maruts, whose cars are the lightning, who are armed with spears, resplendent, destroyers of foes, from whom the waters proceed, (who are) unresting and adorable, and may Saraswati hear (my prayer); and may you (Maruts), speedy in your liberality, bestow (upon us) riches and good offspring.
+### Printed p. 257
+
+##### विशेषविषयगळु (Special Topics)
+
+मरुतः (*marutaḥ*)—The Marut deities travel in a shining chariot. ऋष्टिमंतः (*ṛṣṭimaṃtaḥ*): they shine with radiance, or they hold the weapon called ऋष्टि (*ṛṣṭi*). ऋतजाताः (*ṛtajātāḥ*): born from water, or born from sacrifice, or the causes of the production of water. अयासः (*ayāsaḥ*): these Maruts are of a nature always to move about. The yajamānas' desired prayer is set forth: may they, together with the goddess of speech, who exists as the spreading forth of speech in prose and verse, hear the praises recited by the priests at our sacrifices; and since these Maruts are quick in granting the yajamānas' wishes, may they bestow sons and wealth on the yajamāna.
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विष्णुं॒ स्तोमा॑सः पुरुद॒स्मम॒र्का भग॑स्येव का॒रिणो॒ याम॑नि  
+> ग्मन् ।  
+> उ॒रु॒क्र॒मः क॑कु॒हो यस्य॑ पू॒र्विर्न म॑र्धंति युव॒तयो॒  ॑
+> जनित्रीः ॥ १४ ॥
+
+> *viṣṇuṃ stomāsaḥ purudasmamarkā bhagasyeva kāriṇo yāmani*  
+> *gman |*  
+> *urukramaḥ kakuho yasya pūrvirna mardhaṃti yuvatayo*  
+> *janitrīḥ ‖ 14 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विष्णुं । स्तोमासः । पुरुदस्मं । अर्काः । भगस्य इव ! कारिणः । यामनि । ग्मन् ।  
+> उरुक्रमः । ककुहः । यस्य । पूर्वी न मर्धंति । युवतयः । जनित्री ॥ १४ ॥
+
+> *viṣṇuṃ | stomāsaḥ | purudasmaṃ | arkāḥ | bhagasya iva ! kāriṇaḥ | yāmani | gman |*  
+> *urukramaḥ | kakuhaḥ | yasya | pūrvī na mardhaṃti | yuvatayaḥ | janitrī ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तोमासः । स्तूयंत विभिरिति स्तोमाः स्तोत्राणि । आर्का अर्चनीयानि
+> शस्त्राणि च भगस्येव धनस्य कारणः कर्तृणीव स्थितानि तानि यामनि संततं प्रतायमानेऽस्मिन्यज्ञॆ पुरुदस्मं बहुकर्माणं । यद्वा । बहून् दस्यत्युपक्षपयतीति
+> पुरुदस्मः । तं विष्णुं देवं ग्मन् । गच्छंतु । पूर्विर्बहो जनित्रीः सर्वस्य जनयित्र्यो युवतयः परस्परमसंकीर्णाः ककुहः । कं स्कुभंति विस्तारयंतीति
+> ककुभो दिशः । यद्वा । ककुबुच्छयार्थः उच्छ्रता इव हि दिशो वृक्षाग्रेषूपलभ्यमानास्तिष्ठंति । एता दिशो विष्णोराज्ञां न मर्धंति । न हिंसंति । स विष्णु-
+> Vol. 17
+
+##### Gist of the bhāṣya
+
+स्तोमासः (*stomāsaḥ*): that by which one is praised are stomas, hymns of praise. आर्का (*ārkā*): adorable praises and śastras. Standing as if they were makers (कारिणः (*kāriṇaḥ*)) of भग (*bhaga*), wealth, let them go (ग्मन् (*gman*) = गच्छंतु (*gacchaṃtu*)) to the god Viṣṇu, पुरुदस्मं (*purudasmaṃ*) "of many works", in this sacrifice that is continuously extended (यामनि (*yāmani*)). Or else, he destroys (दस्यति (*dasyati*)) many, hence पुरुदस्मः (*purudasmaḥ*). पूर्वीः (*pūrvīḥ*): many; जनित्रीः (*janitrīḥ*): the producers of all; युवतयः (*yuvatayaḥ*): mutually unmixed; ककुहः (*kakuhaḥ*): the directions, for they spread out the sky. Or else kakubh has the sense of height: the directions stand as if raised up, seen at the tops of trees. These directions do not violate (न मर्धंति (*na mardhaṃti*) = न हिंसंति (*na hiṃsaṃti*)) the command of Viṣṇu. That Viṣṇu is
+### Printed p. 258
+उरुक्रमः (*urukramaḥ*): उरु (*uru*) is great, क्रम (*krama*) the stride of his feet, he whose stride is great. In the Trivikrama incarnation he stood having pervaded the entire world with one single foot.
+
+> रुरुक्रमः । उरुर्महान् क्रमः पादविक्षेपो यस्य सः । त्रिविक्रमावतार एकेनैव
+> पादेन सर्वं जगदाक्रम्यातिष्ठत ॥ ग्मन् । गमेर्लुजि मंत्रे घसेत्यादिना चेर्लुक्
+> ककुभः । पृषोदरादित्वाद्रूपस्वरसिद्धिः ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोमासः (*stomāsaḥ*)—our hymns of praise
+- आर्काः (*ārkāḥ*)—the śastra-mantras worthy of worship
+- भगस्येव कारिणिः (*bhagasyeva kāriṇiḥ*)—being the causes of our prosperity
+- यामनि (*yāmani*)—in our sacrifice
+- पुरुदंसं (*purudaṃsaṃ*)—the doer of many works
+- विष्णुं (*viṣṇuṃ*)—Viṣṇu
+- ग्मन् (*gman*)—let them reach
+- पूर्वीः (*pūrvīḥ*)—the many
+- जनित्रीः (*janitrīḥ*)—the cause of the world's origin
+- युवतयः (*yuvatayaḥ*)—those that are separate
+- ककुहः (*kakuhaḥ*)—the directions
+- यस्य (*yasya*)—of which Viṣṇu (the command)
+- न मर्धंति (*na mardhaṃti*)—they do not transgress (that Viṣṇu)
+- उरुक्रमः (*urukramaḥ*)—has a wide stride
+
+##### भावार्थ (Bhāvārtha)
+
+May our hymns of praise and the śastra-mantras worthy of worship, being the causes of our prosperity, reach in our sacrifice Viṣṇu, the doer of many works. That Viṣṇu, whose command the directions, many in number, the cause of the world's origin, each separate, do not transgress, has a wide stride.
+
+##### English translation (H. H. Wilson)
+May (our) praises and prayers, the causes of good fortune, attain at this sacrifice Vishnu, the object of many rites : he, the wide-stepping ; whose commands the many-blending regions of space, the generators (of all beings), do not disobey.
+
+##### विशेषविषयगळु (Special Topics)
+
+अर्काः (*arkāḥ*)—अर्चनीयानि शस्त्राणि च (*arcanīyāni śastrāṇi ca*). The Nirukta-author has stated the meaning of the word अर्क (*arka*) in four ways: mantra, deity, tree, food (Ni. 5-4). Here Sāyaṇa has said that the word is used in the sense of a mantra that praises the greatness of a deity.
+पुरुदस्मं (*purudasmaṃ*)—बहुकर्माणं (*bahukarmāṇaṃ*); यद्वा बहून् दस्यति उपक्षपयति (*yadvā bahūn dasyati upakṣapayati*). For this word two meanings are explained: one who does many works, or one who destroys many enemies.
+स्तोमासः अर्काः पुरुदस्मं ग्मन् (*stomāsaḥ arkāḥ purudasmaṃ gman*)—स्तोत्राणि शस्त्राणि च बहुकर्माणं तं देवं विष्णुं गच्छंतु (*stotrāṇi śastrāṇi ca bahukarmāṇaṃ taṃ devaṃ viṣṇuṃ gacchaṃtu*). It is explained that the hymns recited by the priests, which are the means of obtaining wealth, and the śastra-mantras, are also for winning the favour of Viṣṇu, who performs many works and
+### Printed p. 259
+destroys many wicked ones.
+ककुहः (*kakuhaḥ*)—"They expand the sky", that is, the directions make manifest the extent of the sky. Also: यद्वा ककुबुच्छयार्थः (*yadvā kakubucchayārthaḥ*), उच्च्रिता इव दिशः वृक्षाग्रेषूपलभ्यमानाः तिष्ठंति (*uccritā iva diśaḥ vṛkṣāgreṣūpalabhyamānāḥ tiṣṭhaṃti*): since the directions are lofty, as if connected with the tops of trees, the directions are high regions. Thus the meaning of the word kakup is set out.
+पूर्वीः जनित्रीः ककुहः युवतयः विष्णोराज्ञां न मर्धंति (*pūrvīḥ janitrīḥ kakuhaḥ yuvatayaḥ viṣṇorājñāṃ na mardhaṃti*)—It is described that even these directions, many in number, producing everything, each separate, do not transgress the command of Viṣṇu, who is full of greatness. This Viṣṇu is उरुक्रमः (*urukramaḥ*)—उरुः महान् पादविक्षेपः यस्य सः (*uruḥ mahān pādavikṣepaḥ yasya saḥ*): one with a great placing of the feet. It is described that by a single placing of his foot he has pervaded the whole earth, and so the greatness of Viṣṇu is described as unsurpassed.
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॒ विश्वै॑र्वी॒र्य्यै॒३॒ः॑ पत्य॑मान उ॒भे आ प॑प्रौ॒ रोद॑सी  ॒
+> महित्वा ।  
+> पु॒रं॒द॒रो वृ॑त्र॒हा धृ॒ष्णुषे॑णः सं॒गृभ्या॑ न॒ आ भ॑रा॒ भूरि॑ प॒श्वः॥
+
+> *iṃdro viśvairvīryyaiḥ patyamāna ubhe ā paprau rodasī*  
+> *mahitvā |*  
+> *puraṃdaro vṛtrahā dhṛṣṇuṣeṇaḥ saṃgṛbhyā na ā bharā bhūri paśvaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । विश्वैः । वीर्य्यैः । पत्यमानः । उभे इति । आ । पप्रौ । रोदसी इति ।  
+> महित्वा ।  
+> पुरम्दरः । वृत्रहा । धृष्णुसेनः । समगृभ्य । नः । आ । भर । भूरि । पश्वः ॥१५॥
+
+> *iṃdraḥ | viśvaiḥ | vīryyaiḥ | patyamānaḥ | ubhe iti | ā | paprau | rodasī iti |*  
+> *mahitvā |*  
+> *puramdaraḥ | vṛtrahā | dhṛṣṇusenaḥ | samagṛbhya | naḥ | ā | bhara | bhūri | paśvaḥ ‖15‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वैः सर्वीर्वैः सामर्थ्यैः पत्यमानः प्राप्यमाणः स इंद्र उभे रोदसी
+> द्यावाप्पथिव्यौ महित्वा स्वकीयेन महिम्ना पप्रौ । पूरयामास । शेषः प्रत्यक्षकृतः ।
+
+##### Gist of the bhāṣya
+
+That Indra, who is attained (पत्यमानः (*patyamānaḥ*) = प्राप्यमाणः (*prāpyamāṇaḥ*)) by all powers (विश्वैः वीर्यैः (*viśvaiḥ vīryaiḥ*)), filled (पप्रौ (*paprau*) = पूरयामास (*pūrayāmāsa*)) both रोदसी (*rodasī*), heaven and earth, with his own greatness (महित्वा (*mahitvā*)). The rest is in the second person, as if before the eyes.
+### Printed p. 260
+
+> पुरंदरः शत्रुपुरां दारयिता वृत्रहा वृत्रस्य हंता धृष्णुषेणः पराभिभवनशीलसेनोपेतः स त्वं पश्वः पशून् संगृभ्य संगृह्य नोऽस्मभ्यं भूरि प्रभूतं यथा भवति
+> तथा भर । देहि । यद्वा । पश्वः पशोर्भूरि बहुत्वं बहून् पशूंश्च यच्छेति ॥
+> पुरंदरः । दृ विदारण इत्यस्य पुरशब्द उपपदे पूःसर्वयोर्दारिसहोरिति खच्प्रत्ययः । वाचंयमपुरंदरौ चेति निपातनात्पूर्वपदस्यामागमः । चित्तादंतोदात्तः। धृष्णुषेणः । पूर्वपदादिति संहितायां षत्वं । यदा षत्वं तदा रषाभ्यामिति
+> णत्वं । संगृभ्य । ग्रहेल्यपि स्थानिवद्भावात्संप्रसारणं । हृग्रहोर्भश्चंदसीति भत्वं ।
+> लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । पश्वः । पशुशब्दात् शसः जसादिषु छंदसि वावचनमिति सवर्णदीर्घाभावः ॥
+
+##### Gist of the bhāṣya
+
+पुरंदरः (*puraṃdaraḥ*): the breaker of enemy cities; वृत्रहा (*vṛtrahā*): the slayer of Vṛtra; धृष्णुषेणः (*dhṛṣṇuṣeṇaḥ*): possessed of an army whose nature is to overpower others. You, such as this, having gathered (संगृभ्य (*saṃgṛbhya*) = संगृह्य (*saṃgṛhya*)) the cattle (पश्वः (*paśvaḥ*) = पशून् (*paśūn*)), bring (भर (*bhara*) = देहि (*dehi*)) them to us abundantly (भूरि (*bhūri*) = प्रभूतं (*prabhūtaṃ*)). Or else, भूरि (*bhūri*) means plurality: give many cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वैः (*viśvaiḥ*)—all
+- वीर्यैः (*vīryaiḥ*)—by powers
+- पत्यमानः (*patyamānaḥ*)—united
+- इंद्रः (*iṃdraḥ*)—Indra
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- महित्वा (*mahitvā*)—by his greatness
+- आ पप्रौ (*ā paprau*)—has filled (O Indra)
+- पुरंदरः (*puraṃdaraḥ*)—the destroyer of enemy cities
+- वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra
+- धृष्णुषेणः (*dhṛṣṇuṣeṇaḥ*)—you who have an army that destroys enemies
+- पश्वः (*paśvaḥ*)—cattle
+- संगृह्य (*saṃgṛhya*)—having gathered
+- नः (*naḥ*)—to us
+- भूरि (*bhūri*)—so as to be abundant
+- आ भर (*ā bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, united with all powers, has filled both heaven and earth with his greatness. O Indra, you, the destroyer of enemy cities, the slayer of Vṛtra, who have an army that destroys enemies, gather cattle in abundance and give them to us.
+
+##### English translation (H. H. Wilson)
+Indra, invested with all energies, has filled both heaven and earth with his greatness : you are the destroyer of cities, the slayer of Vritra, the leader of a conquering host, collect cattle and bestow them abundantly upon us.
+
+##### विशेषविषयगळु (Special Topics)
+
+इंद्रः विश्वैः वीर्यैः पत्यमानः (*iṃdraḥ viśvaiḥ vīryaiḥ patyamānaḥ*)—सर्वैः सामर्थ्य्यैः प्राप्यमाणः इंद्रः (*sarvaiḥ sāmarthyyaiḥ prāpyamāṇaḥ iṃdraḥ*). The meaning of the word इंद्र (*iṃdra*) is explained in various ways by Yāska (Ni. 10-8). It is described that Indra, being full of manifold and complete power, has filled heaven and earth with his greatness.
+
 ---
 
-**Progress note:** Done through printed p. 253. pp. 248-253 (batch API, retry 1)
+**Progress note:** Done through printed p. 260. pp. 254-260 (batch API, retry 1)
