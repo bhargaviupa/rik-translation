@@ -20889,6 +20889,253 @@ Navagva, Daśagva—नवभिर्मासैर्गच्छंतीत
 
 The term Navagva is applied to a man generally an Angiras, in the highest degree (Angirastama) who appears as a mystic race of olden times coupled with, and conceived probably as related to the Angir-
 
+### Printed p. 535
+
+… (the passage continues from the previous page) … Dasagvas. This word is used in many Ṛks of the Ṛgveda; we give a few examples.
+
+येना नवग्वो दध्यज्जपोर्णुते येन विप्रास आपिरे । (*yenā navagvo dadhyajjaporṇute yena viprāsa āpire |*) (Ṛ. Saṃ. 9-10-84)
+
+नवग्वो नु दशग्वो अंगिरस्तमः सचा देवेषु मंहते । (*navagvo nu daśagvo aṃgirastamaḥ sacā deveṣu maṃhate |*) (Ṛ. Saṃ. 10-62-6)
+
+सखा ह यत्र सखिभिर्ननवगैरभिज्ञा सत्वभिर्गा अनुग्मन् । (*sakhā ha yatra sakhibhirnanavagairabhijñā satvabhirgā anugman |*) (Ṛ. Saṃ. 3-39-5)
+
+अंगिरसो नः पितरो नवग्वा अथर्वाणो भृगवः सोम्यासः ॥ (*aṃgiraso naḥ pitaro navagvā atharvāṇo bhṛgavaḥ somyāsaḥ ‖*) (Ṛ. Saṃ. 10-14-6)
+
+स सुष्टुभा स स्तुभा सप्त विप्रैः स्वरेणाद्रिं स्वर्यो ३ नवगैः । सरण्युभिः फलगमिंद्र शक्र वलं रवेण दरयो दशगैः ॥ (*sa suṣṭubhā sa stubhā sapta vipraiḥ svareṇādriṃ svaryo 3 navagaiḥ | saraṇyubhiḥ phalagamiṃdra śakra valaṃ raveṇa darayo daśagaiḥ ‖*) (Ṛ. Saṃ. 1-62-4)
+
+The use of these words occurs in many other Ṛks of the Ṛgveda and in mantras of the Atharvaveda such as Saṃ. 19-1-56 and 18-3-20. Among them, in the second example, it is noteworthy that the foremost one of the Aṅgirasa line of ṛṣis, who has obtained the famous name Navagva and Daśagva, is honoured even by the gods.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं हि दे॑वीऋत॒युग्नि॒रश्वैः॑ परिप्रया॒थ भुव॑नानि  ॒
+> सद्यः ।  
+> प्र॒बो॒धयं॑तीरुषसः स॒संतं॑द्वि॒पाच्चतु॑ष्पाच्च॒रथा॑य जी॒वं॥
+
+> *yūyaṃ hi devīṛtayugniraśvaiḥ pariprayātha bhuvanāni*  
+> *sadyaḥ |*  
+> *prabodhayaṃtīruṣasaḥ sasaṃtaṃdvipāccatuṣpāccarathāya jīvaṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । हि । देवीः । ऋतयुक्भिः । अश्वैः । परिप्रयाथ । भुवनानि । सद्यः ।  
+> प्रबोधयंतीः । उषसः । ससंतं । द्विपात् । चतुर्पात् । चरथाय । जीवं ॥ ५ ॥
+
+> *yūyaṃ | hi | devīḥ | ṛtayukbhiḥ | aśvaiḥ | pariprayātha | bhuvanāni | sadyaḥ |*  
+> *prabodhayaṃtīḥ | uṣasaḥ | sasaṃtaṃ | dvipāt | caturpāt | carathāya | jīvaṃ ‖ 5 ‖*
+
+### Printed p. 536
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवीर्द्योतमाना उषसो यूयं हि खलु ऋतयुग्भिर्यज्ञगामिभिरश्वैर्भुवनानि सद्यः परिप्रयाथ । परितः प्रकृष्टं गच्छथ । किं कुर्वत्यः ।
+> ससंतं स्वपंतं द्विपाच्चतुष्पान्मनुष्यगवादिलक्षणं जीवं चरथाय चरणाय
+> गमनादिव्यवहाराय प्रबोधयंतीः प्रबोधयंत्यः सत्यः परिप्रयाथ ॥
+
+##### Gist of the bhāṣya
+
+O shining Dawns, you quickly travel round all the worlds with horses that go to the sacrifice (ऋतयुग्भिः (*ṛtayugbhiḥ*) explained as "going to the sacrifice"); परिप्रयाथ (*pariprayātha*) means "you go forth all around, excellently". What are you doing? You travel awakening the sleeping living being, whether biped or quadruped, that is, men, cattle and so on, so that it may go about, that is, take up its activities such as moving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवीः (*devīḥ*)—shining
+- उषसः (*uṣasaḥ*)—O Dawns
+- यूयं हि (*yūyaṃ hi*)—you
+- ससंतं (*sasaṃtaṃ*)—sleeping
+- द्विपात् (*dvipāt*)—two-footed
+- चतुष्पात् (*catuṣpāt*)—four-footed
+- जीवं (*jīvaṃ*)—living beings
+- चरथाय (*carathāya*)—for their activities such as going
+- प्रबोधयंतीः (*prabodhayaṃtīḥ*)—awakening
+- ऋतयुग्भिः (*ṛtayugbhiḥ*)—going to the sacrifice
+- अश्वैः (*aśvaiḥ*)—with horses
+- भुवनानि (*bhuvanāni*)—all the worlds
+- सद्यः (*sadyaḥ*)—quickly
+- परिप्रयाथ (*pariprayātha*)—travel round
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Dawns, awakening the sleeping living beings, both two-footed and four-footed, for their activities such as going about, travel quickly round all the worlds with horses that go to the sacrifice.
+
+##### English translation (H. H. Wilson)
+Divine Dawns, with horses that frequent sacrifices you quickly travel round the regions (of space) : awake the sleeping being, weather biped or quadruped, to pursue (his functions).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व॑ स्विदासां कत॒मा पु॑रा॒णी यया॑ वि॒धाना॑ विद॒धुर्ऋ॑भू॒णां।  
+> शुभं॒ यच्चु॒भ्रा उ॒षस॒श्वरं॑ति॒ न वि ज्ञा॑यंते स॒दृशी॑रजु॒र्याः ॥ ६ ॥
+
+> *kva svidāsāṃ katamā purāṇī yayā vidhānā vidadhurṛbhūṇāṃ|*  
+> *śubhaṃ yaccubhrā uṣasaśvaraṃti na vi jñāyaṃte sadṛśīrajuryāḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । स्वित् । आसां । कतमा । पुराणी । यया । विधाना । विदधुः । ऋभूणां ।  
+> शुभं । यत् । शुभ्राः । उषसः । चरंति । न । वि । ज्ञायंते । सृदृशीः । आजुर्याः ॥
+
+> *kva | svit | āsāṃ | katamā | purāṇī | yayā | vidhānā | vidadhuḥ | ṛbhūṇāṃ |*  
+> *śubhaṃ | yat | śubhrāḥ | uṣasaḥ | caraṃti | na | vi | jñāyaṃte | sṛdṛśīḥ | ājuryāḥ ‖*
+
+### Printed p. 537
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आसामुषसां मध्ये क्व स्विदभूदद्य कतमा पुराणी पुरातनी । यया
+> ऋभूणां संबंधीनि विधाना चमसादिनिर्माणानि विदधुः । अकुर्वन्मृभवः ।
+> यद्याश्चोषसः शुभ्रा दीप्ताः शुभं चरंति । शोभां दीप्तिं कुर्वंति । ता अजुर्या
+> अशीर्णा नित्यनूतना न वि ज्ञायंते । यतः सदृशीः सदृश्यः सर्वेष्टपि दिवसेष्टेकरूपा अतोऽद्यतन्य एता एताः पुराण्य इति न ज्ञायंते उषासादृश्यं सदृशीरद्य
+> सदृशीरिदु श्वः ! ऋग्वे. १-१२३-८ । इत्यत्र प्रतिपादितं ॥
+
+##### Gist of the bhāṣya
+
+Among these Dawns, where today is the ancient one, which one is she, by whom the Ṛbhus accomplished their works, the making of the cups and so on? And those Dawns that are bright, shining, move beautifully, that is, produce splendour and light: being undecaying, never worn, always new, they are not distinguished, since being alike, of one form on all days, one cannot tell "these of today are those ancient ones". This has been set forth at उषासादृश्यं सदृशीरद्य सदृशीरिदु श्वः (*uṣāsādṛśyaṃ sadṛśīradya sadṛśīridu śvaḥ*) (Ṛgve. 1-123-8).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यया (*yayā*)—with the help of which ancient Dawn
+- ऋभूणां (*ṛbhūṇāṃ*)—of the Ṛbhus
+- विधाना (*vidhānā*)—works of making the cups and so on
+- विदधुः (*vidadhuḥ*)—were accomplished (such a one)
+- पुराणी (*purāṇī*)—ancient Dawn
+- आसां (*āsāṃ*)—among these countless Dawns
+- कतमा (*katamā*)—who?
+- क्वस्त्वित् (*kvastvit*)—where is her place?
+- यत् (*yat*)—which
+- उषसः (*uṣasaḥ*)—Dawns
+- शुभ्राः (*śubhrāḥ*)—shining
+- शुभं (*śubhaṃ*)—auspicious
+- चरंति (*caraṃti*)—move (they who)
+- अजुर्याः (*ajuryāḥ*)—free from decay
+- सदृशीः (*sadṛśīḥ*)—because they are of one form
+- न वि ज्ञायंते (*na vi jñāyaṃte*)—cannot be known by individual distinction
+
+##### भावार्थ (Bhāvārtha)
+
+Among these countless Dawns, who is that ancient Dawn with whose help the Ṛbhus' works of making the cups and so on were accomplished? Where is her place? The Dawns that move shining and auspicious cannot be known by individual distinction, because they are free from decay and have one and the same form.
+
+##### English translation (H. H. Wilson)
+Where is that ancient one of those (Dawns), through whom the works of the Ribhus were accomplished? for as the bright Dawns happily proceed, they are not distinguished, being alike and undecaying.
+
+##### विशेषविषयगळु (Special Topics)
+
+सदृशीरद्य सदृशीरिदु श्व (*sadṛśīradya sadṛśīridu śva*)—अस्मिन्नहनि परस्परं सदृश्यः । परस्मिन्नहन्यपि परस्परं सदृश्य एव । अद्यतन्वोऽपि श्वस्तनीभिः सदृश्यः श्वस्तिन्यश्च अद्यतनीभिः । एवमहरंतरेण (*asminnahani parasparaṃ sadṛśyaḥ | parasminnahanyapi parasparaṃ sadṛśya eva | adyatanvo 'pi śvastanībhiḥ sadṛśyaḥ śvastinyaśca adyatanībhiḥ | evamaharaṃtareṇa*)
+
+### Printed p. 538
+
+सादृश्यं (*sādṛśyaṃ*). Here the likeness of the days to one another is described. Today's day is equal to tomorrow's day; tomorrow's day is equal to today's. Yesterday's day is equal to today's, and tomorrow's to today's: thus mutual likeness is explained here. The meaning is that, taking as the cause the common quality of light produced by the particular course of the sun, likeness can be spoken of even for other days. Sāyaṇa has explained the likeness that exists in this way.
+
+The time from when the stars are no longer seen until the sun rises, a period of twenty-one to twenty-six ghaṭikās, is what people call the time of dawn, which arrives in the last part of the night. Every day the sun goes round Meru in the manner of circumambulation, covering five thousand and fifty-nine yojanas. Before the sun rises (before the sun reaches the region where it rises, such as the city of Laṅkā) the Dawn has come thirty yojanas ahead of him. Because of this, the sun's rising appears to take place thirty yojanas ahead of the region where the sun is. This state of things occurs in all regions.
+
+In the same way the Dawn too rises in the region thirty yojanas ahead of the region where she herself is. It should be understood that the rising of the Dawn appears in one and the same way to all who are in all regions, Laṅkā and the others. This being so, just as the light of the Dawn is seen in one region, so at the same time in all other regions too the same equal light of the Dawn is seen by everyone. Hence, because people reckon the days as separate, beginning from the time of dawn, and because the regions are separate, one and the same Dawn is taken to be separate ones, and here the plurality of the Dawns and their mutual likeness are explained.
+
+When there is no wish to speak of particular regions, the Dawn rises purely by her own nature, and since in the Dawn there is a surpassing purity that makes all things pure, nothing more needs to be explained about the purity of the Dawn.
+
+### Printed p. 539
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता घा॒ ता भ॒द्रा उ॒षसः॑ पु॒रासु॑रभि॒ष्टिद्यु॑म्ना ऋ॒तजा॑तसत्याः ।  
+> यास्वी॑जा॒नः श॑शमा॒न उ॒क्षैः स्तु॒वञ्छंस॒न्द्रवि॑णं स॒द्य आप॑ ॥
+
+> *tā ghā tā bhadrā uṣasaḥ purāsurabhiṣṭidyumnā ṛtajātasatyāḥ |*  
+> *yāsvījānaḥ śaśamāna ukṣaiḥ stuvañchaṃsandraviṇaṃ sadya āpa ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । घ । ताः । भद्राः । उषसः । पुरा । आसुः । अभिष्टिद्युम्नाः । ऋतजातसत्याः ।  
+> यासु । ईजानः । शशमानः । उक्षैः । स्तुवन् । शंसन् । द्रविणं । सद्यः । अप ॥ ७ ॥
+
+> *tāḥ | gha | tāḥ | bhadrāḥ | uṣasaḥ | purā | āsuḥ | abhiṣṭidyumnāḥ | ṛtajātasatyāḥ |*  
+> *yāsu | ījānaḥ | śaśamānaḥ | ukṣaiḥ | stuvan | śaṃsan | draviṇaṃ | sadyaḥ | apa ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता घ । घेति प्रसिद्धौ । ताः खलूपकारिण्यस्ता भद्राः कल्याण्यः स्तुत्या वा
+> उषसः पुरा पूर्वमासुः । अभवन् । अभिष्टिद्युम्नाः अभिगमनमात्रेण द्युम्नं
+> धनं यासां ताः । ऋतजातसत्याः । ऋतार्थं यज्ञार्थं जाताश्च ताः सत्याः सत्यफलाश्च तादृश्यः । यासूषस्वीजानो यागं कुर्वाण उक्षैः शस्त्रैः शशमानः
+> शंसमानः सुवन् सामभिः स्तोत्रं निष्पादयन् शंसन् शस्त्राणि कुर्वन् द्रविणं
+> धनं सद्य आप । प्राप्नोति । ता भद्रा इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+घ (*gha*) is a well-known particle (as is ता (*tā*)). Those Dawns, helpful, auspicious or praiseworthy, existed in former times. अभिष्टिद्युम्नाः (*abhiṣṭidyumnāḥ*): those whose wealth (द्युम्नं (*dyumnaṃ*), riches) comes by their mere approach. ऋतजातसत्याः (*ṛtajātasatyāḥ*): born for the ṛta, that is, for the sacrifice, and true, with true fruit. Such Dawns are those in which the sacrificer, performing the sacrifice, शशमानः (*śaśamānaḥ*), praising with उक्षैः (*ukṣaiḥ*), that is, with śastras, स्तुवन् (*stuvan*), completing the stotra with sāmans, शंसन् (*śaṃsan*), composing śastras, quickly obtains wealth (द्रविणं (*draviṇaṃ*)). The connection is "those auspicious ones".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ईजानः (*ījānaḥ*)—the sacrificer
+- यासु (*yāsu*)—in which Dawns
+- उक्षैः (*ukṣaiḥ*)—with śastra mantras
+- शशमानः (*śaśamānaḥ*)—praising
+- स्तुवन् (*stuvan*)—obtaining praise
+- शंसन् (*śaṃsan*)—composing hymns
+- द्रविणं (*draviṇaṃ*)—wealth
+- सद्यः (*sadyaḥ*)—at once
+- आप (*āpa*)—obtains
+- ता घ (*tā gha*)—those very Dawns (are helpful)
+- ताः भद्राः (*tāḥ bhadrāḥ*)—they themselves are auspicious
+- पुरा (*purā*)—in former times
+- अभिष्टिद्युम्नाः (*abhiṣṭidyumnāḥ*)—endowed with wealth at the very time of their coming
+- यतजातसत्याः (*yatajātasatyāḥ*)—born for the sacrifice and having true fruit
+- आसन् (*āsan*)—were
+
+##### भावार्थ (Bhāvārtha)
+
+The Dawns which the sacrificer praises with śastra mantras, for whom he obtains praise and composes śastra mantras, and from whom he at once obtains wealth: those Dawns are the benefactors of the world. They are auspicious in nature and bring auspiciousness. From the beginning, at the very time of their coming, they were endowed with wealth, born for the sacrifice, and have true fruit.
+
+### Printed p. 540
+
+##### English translation (H. H. Wilson)
+Verily those auspicious Dawns have been of old, rich with desired blessings, truthful (bestowers) of the results of sacrifice ; at which the sacrificer, adoring with (silent) praise, glorifying (with hymns), has quickly obtained wealth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता आ च॑रंति सम॒ना पु॒रस्ता॑त्समा॒नतः॑ सम॒ना प॑प्रथा॒नाः ।  
+> ऋ॒तस्य॑ दे॒वीः सद॑सो बुधा॒ना गवां॒ न सर्गा॑ उ॒षसो॑  
+> जरंते ॥ ८ ॥
+
+> *tā ā caraṃti samanā purastātsamānataḥ samanā paprathānāḥ |*  
+> *ṛtasya devīḥ sadaso budhānā gavāṃ na sargā uṣaso*  
+> *jaraṃte ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । आ । चरंति । समना । पुरस्तात् । समानतः । समना । पप्रथानाः ।  
+> ऋतस्य । देवीः । सदसः । बुधानाः । गवां । न । सर्गाः । उषसः । जरंते ॥ ८ ॥
+
+> *tāḥ | ā | caraṃti | samanā | purastāt | samānataḥ | samanā | paprathānāḥ |*  
+> *ṛtasya | devīḥ | sadasaḥ | budhānāḥ | gavāṃ | na | sargāḥ | uṣasaḥ | jaraṃte ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता उषस आ सर्वतश्चरंति । समना सर्वतः समानाः पुरस्तात्पूर्वस्यां दिशि
+> समानतः समानाद्देशादंतरिक्षात्समना सर्वतः पप्रथानाः प्रथमाना ऋतस्य यज्ञस्य
+> सदसः सदः । तत्रत्यर्वृत्विग्नविरादिकमित्यर्थः । बुधाना बोधयंत्यः ॥ अंतर्भावितण्यर्थोऽयं ॥ एवं महानुभावा उषसो जरंते । स्तूयंते । गवां सर्गा न
+> उदकानां सृष्टय इव । गवां सर्गा न रश्मयः । ऋग्वे. ४-५२-५ । इति हि श्रुतं ।
+> ता यथा सर्वत्र प्रसंगादुपकारत्वाच्च स्तूयंते तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Those Dawns move about on all sides. समना (*samanā*): alike on all sides; पुरस्तात् (*purastāt*): in the eastern quarter; समानतः (*samānataḥ*): from the common region, the atmosphere; पप्रथानाः (*paprathānāḥ*): spreading everywhere; ऋतस्य (*ṛtasya*): of the sacrifice; सदसः (*sadasaḥ*): of the sacrificial hall, meaning the ṛtvijs, the new-born and so on there; बुधाना (*budhānā*): awakening (the sense is causative, contained within). Thus the Dawns of great power are praised (जरंते (*jaraṃte*)). गवां सर्गा न (*gavāṃ sargā na*): like the streams of waters; and it is heard "गवां सर्गा न रश्मयः (*gavāṃ sargā na raśmayaḥ*)" (Ṛgve. 4-52-5).**NOTE** As those are praised everywhere because of their relevance and their helpfulness, so are these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समानतः (*samānataḥ*)—in the common region called the atmosphere
+- पुरस्तात् (*purastāt*)—in the eastern quarter
+- समना (*samanā*)—in one and the same way
+- पप्रथानाः (*paprathānāḥ*)—famed
+- समना (*samanā*)—having one and the same form
+- ताः (*tāḥ*)—those Dawns
+- आ चरंति (*ā caraṃti*)—spread everywhere
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- सदसः (*sadasaḥ*)—
+
 ---
 
-**Progress note:** Done through printed p. 533. pp. 528-533 (batch API)
+**Progress note:** Done through printed p. 540. pp. 535-540 (batch API)
