@@ -12831,6 +12831,194 @@ Since in this Ṛk the word भारतः (*bhārataḥ*) is an epithet of Agn
 
 In explaining this sentence of the Taittirīya Brāhmaṇa it is said: इडा,सरस्वती, भारतीत्येवंरूपास्तिस्रोऽष्टमप्रयाजदेव्यस्तद्रूपमग्निं दैव्यो होता यजतु । (*iḍā,sarasvatī, bhāratītyevaṃrūpāstisro 'ṣṭamaprayājadevyastadrūpamagniṃ daivyo hotā yajatu |*). Iḷā, Sarasvatī and Bhāratī, these three are the deities of the eighth prayāja mantra, goddesses that reflect Agni.
 
+### Printed p. 363
+This Agni, the lord of the whole sacrifice, who has all three of these forms, is the Āditya described in the present Ṛk.
+
+एतद्भूतेषु लोकेषु अग्निभूतं स्थितं त्रिधा । ऋषयो गीर्भिरर्चंति व्यंजितं नामभिस्त्रिभिः ॥ (*etadbhūteṣu lokeṣu agnibhūtaṃ sthitaṃ tridhā | ṛṣayo gīrbhirarcaṃti vyaṃjitaṃ nāmabhistribhiḥ ‖*) (Bṛ. De. 1-64)
+
+This Agni is present in all beings and in all worlds, and he abides in the form of fire. He became manifest in a different form in each of the three worlds, and he is praised under the names Agni, Vāyu and Āditya. The three powers who are special manifestations of such an Agni (Iḍā, Sarasvatī and Bhāratī) are asked to come at the three times of pressing (savana) and see that the sacrifice is completed in all its parts.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिरा दि॒वः स॑वित॒र्वार्या॑णि दि॒वेदि॑व॒ आ सु॑व॒ त्रिर्नो॒ अह्नः॑ ।  
+> त्रि॒धातु॑ रा॒य आ सु॑वा॒ वसू॑नि॒ भग॑ त्रातर्थिषणे सा॒तये॑  
+> धाः ॥ ६ ॥
+
+> *trirā divaḥ savitarvāryāṇi divediva ā suva trirno ahnaḥ |*  
+> *tridhātu rāya ā suvā vasūni bhaga trātarthiṣaṇe sātaye*  
+> *dhāḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । आ । दिवः । सवितः । वार्याणि । दिवेऽदिवे । आ । सुव । त्रिः । नः । अह्नः ।  
+> त्रिधातु । रायः । आ । सुव । वसूनि । भग । त्रातः । धिषणे । सातये । धाः ॥ ६ ॥
+
+> *triḥ | ā | divaḥ | savitaḥ | vāryāṇi | dive 'dive | ā | suva | triḥ | naḥ | ahnaḥ |*  
+> *tridhātu | rāyaḥ | ā | suva | vasūni | bhaga | trātaḥ | dhiṣaṇe | sātaye | dhāḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सवितः सर्वस्य प्रेरक हे आदित्य दिवो द्युलोकादागत्य त्वं वार्याणि सर्वैः
+> संभजनीयानि धनानि दिने दिने प्रतिदिनं त्रिरा सुव । त्रिवारमस्मभ्यं प्रेरय । प्रयच्छेत्यर्थः । तदेवोच्यते । भग सर्वैर्भजनीय त्रातरस्माकं रक्षक हे आदित्य त्रिधातु
+> त्रिधातूनि पशुकनकरत्नभेदेन त्रिप्रकाराणि वसूनि धनानि रायः । रांति क्षीरादीनीति
+> रायो गोधनानि । तानि च नोऽस्मभ्यमह्नः संबंधिषु त्रिस्त्रिषु सवनेष्वा सुव ।
+> प्रयच्छ । धिषणे माध्यमिके हे वाक् सातये धनलाभाय धाः । आस्मान् कुरु ॥
+> त्रिः । द्वित्रिचतुर्भ्यः सुच् । पा ५-४-१८ । इति सुच् । चित्स्वरः । सुव । शू प्रेरणे ।
+> तुदादिः । लोटि रूपं । त्रिधातु । डुधाण् धारणपोषणयोरित्यस्मात्सितनिगमिमसीत्यादिना तुन्प्रत्ययः । धिषणे । आमंत्रितत्वान्निघातः ॥
+
+##### Gist of the bhāṣya
+
+"Savitṛ" is the impeller of all. Sāyaṇa addresses him as Āditya: "O Āditya, coming from the heavenly world, bestow on us every day, three times, the desirable (vāryāṇi) riches that all may enjoy." Ā suva means "impel, give." He then says what is asked. "Bhaga" is the one whom all revere, and "trātṛ" is our protector, so both address Āditya. "Tridhātu" means riches (vasūni) of three kinds: cattle, gold and jewels. "Rāyaḥ" means cattle-wealth, so called because it gives (rānti) milk and so on. These riches are to be given to us at each of the three pressings belonging to the day. "Dhiṣaṇe" is the middle (mādhyamikā) Vāk; "sātaye" means for the gain of wealth, and "dhāḥ" means "make us (so)."
+
+### Printed p. 364
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O Āditya, impeller of the world
+- दिवः (*divaḥ*)—coming from the heavenly world
+- वार्याणि (*vāryāṇi*)—riches desired by all
+- दिवेदिवे (*divedive*)—every day
+- त्रिः (*triḥ*)—at the three times
+- आ सुव (*ā suva*)—supply
+- भग (*bhaga*)—O Āditya, in the form of Bhaga, revered by all
+- त्रातः (*trātaḥ*)—protector
+- त्रिधातु (*tridhātu*)—in the forms of cattle, gold and jewels
+- वसूनि (*vasūni*)—riches
+- रायः (*rāyaḥ*)—wealth in the form of cattle
+- नः (*naḥ*)—to us
+- अह्नः (*ahnaḥ*)—of each day
+- त्रिः (*triḥ*)—at the time of the three pressings
+- आ सुव (*ā suva*)—supply
+- धिषणे (*dhiṣaṇe*)—O middle Vāk
+- सातये (*sātaye*)—for the gain of our wealth
+- धाः (*dhāḥ*)—show favour
+
+##### भावार्थ (Bhāvārtha)
+
+O Āditya, impeller of the world, come from the heavenly world and supply, every day at the three times, the riches that all desire. O Āditya, in the form of Bhaga, revered and protector of all, supply to us at the three pressings of each day riches in the form of cattle, gold and jewels, and wealth in the form of cattle. O goddess Vāk of the middle region, show favour so that we may gain wealth.
+
+##### English translation (H. H. Wilson)
+Savitri, desended fron heaven, bestow upon us blessings thrice every day: Bhaga, saviour, grant us thrice a day riches of three elements: Dhishana enable us to acquire (wealth).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this mantra a prayer for the wealth desired is addressed to three deities: Savitṛ, Bhaga and Dhiṣaṇā. The sense is that these three preside over the three kinds of wealth and bestow it. From Āditya the "tridhātu" is asked for.
+
+The word "tridhātu" has been explained as wealth in the form of cattle, gold and jewels. The word is used in many places with different meanings. Where it is used for the principles (tattva) in the form of earth, water and fire, or for the qualities (guṇa) in the form of sattva, rajas and tamas, this has been explained in detail in Ṛgveda Saṃhitā Part 11, pp. 583-586.
+
+"Dhiṣaṇe": this word is read among the names of heaven and earth, along with "svadhe" and "purandhī" (Ni. 3-21). धिषणा वाक् धिषेर्दधात्यर्थे धीसादिनीति वा (*dhiṣaṇā vāk dhiṣerdadhātyarthe dhīsādinīti vā*) (Ni. 8-3). It is said that the word may be derived from the root धिष् (*dhiṣ*), which gives the sense "holds." Or, "dhīsādinī iti vā": it extends the intellect, that is, it makes the meaning clear. This is
+
+### Printed p. 365
+the view of the Nirukta authors. In some places Sāyaṇa has explained it as Vāk in the form of mantra, and in others as the middle Vāk. In some places, such as मा च्येद्म रश्मी .... .... धिषणाया उपस्थे (*mā cyedma raśmī .... .... dhiṣaṇāyā upasthe*) (Ṛ. Saṃ. 1-109-3), it means the bag that holds the Soma juice, as was explained earlier.
+
+The word is used in all three numbers, and in some contexts its meaning has to be decided from the number and from the context.
+
+When it is in the singular, it means Vāk, praise in the form of speech, or the bag that holds Soma juice. In places such as वैश्वानराय धिषणां (*vaiśvānarāya dhiṣaṇāṃ*) (Ṛ. Saṃ. 3-2-1) it can easily be said to mean praise.
+
+When the dual "dhiṣaṇe" is used, it generally means heaven and earth. It is formed from the root धिष् (*dhiṣ*), meaning "hold firmly," and it is a synonym for heaven and earth, which hold all the worlds. प्रजापतिर्वै प्रजाः सृष्ट्वा ता द्यावापृथिवीभ्यां पर्यागृह्णात् (*prajāpatirvai prajāḥ sṛṣṭvā tā dyāvāpṛthivībhyāṃ paryāgṛhṇāt*) (Śa. Brā. 3-8-4-17). It may be said that heaven and earth keep under their control and bear all the worlds created by Prajāpati, and are therefore known as "dhiṣaṇe."
+
+But where the plural is used in some places, it is not easy to state the meaning of the word.
+
+इरावतीर्वरुण धेनवो वां मधुमद्वां सिंधवो मित्र दुह्रे । त्रयस्तस्फुर्वृषभासस्ति सृणाः धिषणानां रेतोधा वि द्युमंतः ॥ (*irāvatīrvaruṇa dhenavo vāṃ madhumadvāṃ siṃdhavo mitra duhre | trayastasphurvṛṣabhāsasti sṛṇāḥ dhiṣaṇānāṃ retodhā vi dyumaṃtaḥ ‖*) (Ṛ. Saṃ. 5-69-2)
+
+Here heaven and earth, together with the atmosphere within them, are included, so Sāyaṇa has explained "dhiṣaṇānām" as "of earth, atmosphere and heaven." But in this place that meaning is not directly indicated by the word. He first explains "dhiṣaṇānām" as "sthānānām" (of the places), and then, asked what the places are, explains them as the three worlds. This meaning was given earlier in the explanation of the word "dhiṣṇya." Besides this, in some other places where the plural is used, even Sāyaṇa shows a little difficulty. For example:
+
+The passage beginning धिषणास्ता देवीः (*dhiṣaṇāstā devīḥ*) (Śa. Brā. 6-5-4-5) **NOTE**
+
+### Printed p. 366
+These Dhiṣaṇās are dear to all the gods. They are made to blaze at the seat (sadhastha) of the earth. These Dhiṣaṇās, ancient, of divine form and dear to all the gods, are manifestations of the goddess Vāk. It is with the help of speech that everything is kindled and illumined. Where such a description is given, a hidden, essential meaning is present.
+
+The word "dhiṣaṇe" is in the dual, and it can also be a vocative. In the present mantra, "he mādhyamike vāk" (O middle Vāk) addresses the goddess Vāk.
+
+"Sātaye": it is formed from the root सन् (*san*), which gives the sense "obtain." Words such as वाजसातिः (*vājasātiḥ*) and वाजसातये (*vājasātaye*) are well known. Here the prayer is to show favour so that wealth may be obtained.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिरा दि॒वः स॑वि॒ता सो॑षवीति॒ राजा॑ना मि॒त्रावरु॑णा सुपा॒णी ।  
+> आप॑श्चि दस्य॒ रोद॑सी चिदु॒र्वी रत्नं॑ भिक्षंत सवि॒तुः स॒वाय॑॥ ७ ॥
+
+> *trirā divaḥ savitā soṣavīti rājānā mitrāvaruṇā supāṇī |*  
+> *āpaści dasya rodasī cidurvī ratnaṃ bhikṣaṃta savituḥ savāya‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः। आ। दिवः । सविता । सोषवीति । राजाना । मित्रावरुणा । सुपाणी इति सुपाणी ।  
+> आपः । चित् । अस्य । रोदसी इति । चित् । उर्वी इति । रत्नं । भिक्षंत । सवितुः। सवाय॥
+
+> *triḥ| ā| divaḥ | savitā | soṣavīti | rājānā | mitrāvaruṇā | supāṇī iti supāṇī |*  
+> *āpaḥ | cit | asya | rodasī iti | cit | urvī iti | ratnaṃ | bhikṣaṃta | savituḥ| savāya‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता देवो दिवो दिवसस्य त्रिस्त्रिषु कालेष्टा सोषवीति । अस्मभ्यं धनान्यासुवतु । प्रेरयतु । किंच राजाना राजानौ सुपाणी कल्याणपाणी मित्रावरुणावापः।
+> आप्पोति सर्वं जगदित्याप अंतरिक्षं । नित्यबहुवचनांतत्वादृहुवचनं । चिदपि च
+> उर्वि विस्तीर्णे रोदसी द्यावापृथिव्यावेता देवताः सवितुः प्रेरकस्यास्य देवस्य
+> सवाय सवेन प्रेरणेन रत्नमपेक्षितमर्थं भिक्षंत । याचंते ॥ सोसवीति । पू
+> प्रेरण इत्यस्य यज्लुकि लटि रूपं । मित्रावरुणा । देवताद्वंद्वे चेत्युभयपदप्रकृतिस्वरत्वं । भिक्षंत । भिक्ष याज्ञायामित्यस्य लजि रूपं । सवाय । जवसव् च ।
+> पा. ३-३-५६-४ । इत्यजंतत्वेन निपातनादंतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+The god Savitṛ, three times (triḥ) each day (divaḥ), "soṣavīti": let him impel wealth to us. Further, the two kings, Mitra and Varuṇa, with fair hands (सुपाणी (*supāṇī*), "of auspicious hands"), the "āpaḥ," and the two broad ones, heaven and earth (रोदसी (*rodasī*)), these deities ask for what they want, "ratna," through the impelling (सवाय (*savāya*)) of this impelling god Savitṛ. "Āpaḥ" is the atmosphere, because it pervades (āpnoti) the whole world. It is a word that is always plural, hence the plural. "Cit" means "also." "Bhikṣanta" means "they ask."
+
+### Printed p. 367
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—the god Savitṛ
+- दिवः (*divaḥ*)—of the day
+- त्रिः (*triḥ*)—at the three times
+- आ सोषवीति (*ā soṣavīti*)—may he supply wealth to us
+- राजाना (*rājānā*)—the two lords of the world
+- सुपाणी (*supāṇī*)—possessing excellent hands
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- आपः चित् (*āpaḥ cit*)—the atmosphere too
+- उर्वि (*urvi*)—broad
+- रोदसी (*rodasī*)—heaven and earth
+- सवितुः (*savituḥ*)—of the impeller
+- अस्य (*asya*)—of this god
+- सवाय (*savāya*)—by the impelling
+- रत्नं (*ratnaṃ*)—wealth
+- भिक्षंत (*bhikṣaṃta*)—they ask
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Savitṛ supply us with wealth at the three times of the day. Mitra and Varuṇa, lords of the world and possessing excellent hands, the atmosphere, and the broad heaven and earth also ask for the wealth they desire from this impeller, Āditya.
+
+##### English translation (H. H. Wilson)
+May Savitri bestow upon us wealth at the (three periods) of the day, for the well-handed Mitra and Varuna, the waters, the vast heaven and earth, solicit precious things from the liberality of Savitri.
+
+##### विशेषविषयगळु (Special Topics)
+
+The present mantra praises Savitṛ: heaven and earth, Mitra and Varuṇa, and the other deities, known by epithets such as ऋतवाना (*ṛtavānā*), ऋतावृधः (*ṛtāvṛdhaḥ*) and राजाना (*rājānā*), look for Savitṛ's favour and perform their duties only by his impulsion. "उतेशिषे प्रसवस्य त्वमेक इत् (*uteśiṣe prasavasya tvameka it*)": you alone are the source and lord of the whole universe. Describing his position in this way, the mantra shows Savitṛ's greatness. What Savitṛ's place is in the sovereignty of the gods will be explained in the introduction to Ṛ. Saṃ. sūkta 3-62.
+
+Mitra and Varuṇa have two epithets, राजाना (*rājānā*) and सुपाणी (*supāṇī*). These epithets show the nature of Mitra and Varuṇa. The nature of Mitra and Varuṇa is described in mantras such as ययोर्धाम धर्मणा रोचते बृहद्ययो रुभे रोदसी नाधसी वृत् (*yayordhāma dharmaṇā rocate bṛhadyayo rubhe rodasī nādhasī vṛt*) (Ṛ. Saṃ. 10-65-5). They pervade the universe and shine of themselves, and they make the whole universe shine by their own light.
+
+आपः (*āpaḥ*): आप्रोति सर्वं जगत् इत्यापः अंतरिक्षं (*āproti sarvaṃ jagat ityāpaḥ aṃtarikṣaṃ*). Because it pervades the whole world, the atmosphere has the name "āpaḥ." The Nirukta authors also include this word among the names of the atmosphere.
+
+### Printed p. 368
+In some places "āpaḥ" means the water in the atmosphere, but the intended sense is understood to be the atmosphere that is its support. In some places the question "what is āpaḥ?" appears in the Śruti text itself.
+
+प्रजां धर्मेण दाधारैवमेते मनः पितरं परिचरंत्यापश्च वरुणश्च ० यावदन्वापो यावदनु वरुणस्तावानस्यलोको भवति नास्य तावल्लोको जीर्यते यावदेतेषां न जीर्यतेऽपां च वरुणस्य च य एवमेताः मनसो विभूतिं वेद । (*prajāṃ dharmeṇa dādhāraivamete manaḥ pitaraṃ paricaraṃtyāpaśca varuṇaśca 0 yāvadanvāpo yāvadanu varuṇastāvānasyaloko bhavati nāsya tāvalloko jīryate yāvadeteṣāṃ na jīryate 'pāṃ ca varuṇasya ca ya evametāḥ manaso vibhūtiṃ veda |*) (I. Ā. 2-1-7) **NOTE**
+
+Prajāpati, described as the Supreme Person, created Varuṇa and Apaḥ (water) by his mental resolve alone. Water serves as a help to good works, Varuṇa watches over the order of creatures, and Prajāpati makes this resolve fruitful; so they attend on him. Since this is the description, there is room for the doubt as to what the principle "āpaḥ" is. Therefore:
+
+आसा ३ इत्याप इति तदिदमाप एवेदं वै मूलमदस्तूलमयं पितैते पुत्रा यत्र ह क्व च पुत्रस्य तत्पितुः । (*āsā 3 ityāpa iti tadidamāpa evedaṃ vai mūlamadastūlamayaṃ pitaite putrā yatra ha kva ca putrasya tatpituḥ |*) (I. Ā. 2-1-8) **NOTE**
+
+What is āpaḥ? What, in truth, is the nature of this principle? Its greatness is as follows: everything in the universe is pervaded by this water; it is the root cause of the creation of the universe, and the rest is its effect. The Person who is the support of this water-principle is the father. Since this is the description, it is understood that "āpaḥ" is not merely the atmosphere, but has a wider extent than the atmosphere. The etymology given in the Śatapatha Brāhmaṇa also supports this view.
+
+सेदग्ं सर्वमाप्नोत्यदिदं किं च यदाप्नोत्तस्मादापः ॥ (*sedagṃ sarvamāpnotyadidaṃ kiṃ ca yadāpnottasmādāpaḥ ‖*) (Śa. Patra 6-1-19) **NOTE**
+
+The etymology is that what has the power to pervade everything is known by the name "āpaḥ." But what does it pervade? In some places it is said to pervade the whole universe, moving and unmoving, and not merely one fixed world such as the atmosphere. It is also taught that it is the Supreme Brahman principle.
+
+स योऽपो ब्रह्मेत्युपास्त आप्नोति सर्वान्यामान् ॥ (*sa yo 'po brahmetyupāsta āpnoti sarvānyāmān ‖*) (Chā. U. 7-10-2)
+
+It says that one who worships water as Brahman obtains all the aims of human life. But here it does not mean water as the complete Brahman. Water and fire are all parts of Brahman. Even so,
+
 ---
 
-**Progress note:** Done through printed p. 362. pp. 357-362 (batch API)
+**Progress note:** Done through printed p. 368. pp. 363-368 (batch API)
