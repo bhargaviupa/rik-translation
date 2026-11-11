@@ -949,6 +949,227 @@ blind, he distinguished the serpent; and when he came forth the joints that had 
 एवा महो असुर वक्षथाय वम्रकः पद्भिरुप सर्पदिंद्रं । (*evā maho asura vakṣathāya vamrakaḥ padbhirupa sarpadiṃdraṃ |*) (Ṛ. Saṃ. 10-99-12)
 आददानः अंधः अहिं वि अख्यत् (*ādadānaḥ aṃdhaḥ ahiṃ vi akhyat*) — The son of Agru, though being bitten by the ants in the ant-hill, was unable to escape from there and come out, for he could not see; he was blind. Yet after Indra brought him out of the ant-hill, he came to see and know the snake that was in the ant-hill. That there is a snake in an ant-hill is known to all. The main purport is that Indra saved him from such a place of danger. All this is Indra's greatness.
 
+### Printed p. 25
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॒ पूर्वा॑णि॒ कर॑णानि विप्रावि॒द्वा आ॑ह वि॒दुषे॒ करां॑सि ।  
+> यथा॑यथा॒ वृष्ण्या॑नि॒ स्वगू॒र्तापां॑सि राज॒न्नर्यावि॑वेषीः॥१०॥
+
+> *pra te pūrvāṇi karaṇāni viprāvidvā āha viduṣe karāṃsi |*  
+> *yathāyathā vṛṣṇyāni svagūrtāpāṃsi rājannaryāviveṣīḥ‖10‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । पूर्वाणि । करणानि । विप्र । आऽविद्वान् । आह । विदुषे । करांसि ।  
+> यथायथा । वृष्ण्यानि । स्वगूर्ता । अपांसि । राजन् । नर्या । अविवेषीः ॥ १० ॥
+
+> *pra | te | pūrvāṇi | karaṇāni | vipra | ā 'vidvān | āha | viduṣe | karāṃsi |*  
+> *yathāyathā | vṛṣṇyāni | svagūrtā | apāṃsi | rājan | naryā | aviveṣīḥ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन्राजमानेंद्र वृष्ण्यानि वर्षणयोग्यानि स्वगूर्ता स्वगूर्तानि
+> स्वयमुद्दीर्णानि नर्यान् नर्याणि मनुष्यहितान्यपांसि त्वत्संबंधीनि कर्माणि यथायथाविवेषीर्व्याप्नोः । अकार्षीरिति यावत् । तथातथा हे विप्र प्राज्ञेंद्र विदुषे
+> विदुषः सर्वं जानतस्ते त्वत्संबंधीनि पूर्वाणि पुरातनानि करणानि कर्माण्याविद्वान्
+> आ समंताज्ञानन् वामदेवः करांसि त्वदीयानि कर्माणि प्र प्रकर्षणाह । ब्रवीति ॥
+
+##### Gist of the bhāṣya
+
+O shining king Indra, whatever deeds of yours you have performed, deeds that are fit to bring rain, self-impelled, and beneficial to men, in just those ways, O wise Indra, Vāmadeva, who knows fully your ancient deeds, you who know all, proclaims (आह (*āha*), "speaks") your deeds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O shining Indra
+- वृष्णानि (*vṛṣṇāni*)—those that cause rain
+- स्वगूर्ता (*svagūrtā*)—self-manifested
+- नर्या (*naryā*)—beneficial to men
+- अपांसि (*apāṃsi*)—your deeds
+- यथायथा (*yathāyathā*)—in whatever ways
+- अविवेषीः (*aviveṣīḥ*)—you have accomplished (in the same ways)
+- विप्र (*vipra*)—O wise Indra
+- विदुषे (*viduṣe*)—all-knowing
+- ते (*te*)—your
+- पूर्वाणि (*pūrvāṇi*)—ancient
+- करणानि (*karaṇāni*)—deeds
+- आविद्वान् (*āvidvān*)—Vāmadeva, who knows fully
+- करांसि (*karāṃsi*)—your deeds
+- प्र आह (*pra āha*)—praises fully
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Indra, in whatever ways you have accomplished your deeds, which cause rain, are self-manifested and are beneficial to men, in the same ways Vāmadeva, who fully knows your ancient deeds, you who are all-knowing, praises your deeds fully.
+
+### Printed p. 26
+
+##### English translation (H. H. Wilson)
+The sage, (Vamadeva), knowing, royal Indra, ancient deeds of you who are all-wise, has proclaimed the actions, such as you have performed them, generative of rain, self-evolved, and beneficial to man.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Vāmadeva says that he knows the many valiant deeds Indra performed in the past for the good of the world, such as the slaying of Vṛtra and the obtaining of rain-water, and that he praises them with devotion.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ष्टु॒त इं॑द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑३ न पी॑पेः ।  
+> अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥ ११ ॥
+
+> *nū ṣṭuta iṃdra nū gṛṇāna iṣaṃ jaritre nadyo3 na pīpeḥ |*  
+> *akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । स्तुतः । इंद्र । नु । गृणानः । इषं । जरित्रे । नद्यः । न । पीपेरिति पीपेः ।  
+> अकारि । ते । हरिऽवः । ब्रह्म । नव्यं । धिया । स्याम । रथ्यः । सदाऽसाः ॥ ११
+
+> *nu | stutaḥ | iṃdra | nu | gṛṇānaḥ | iṣaṃ | jaritre | nadyaḥ | na | pīperiti pīpeḥ |*  
+> *akāri | te | hari 'vaḥ | brahma | navyaṃ | dhiyā | syāma | rathyaḥ | sadā 'sāḥ ‖ 11*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नु क्षिप्रं स्तुतः पूर्वैर्यषिभिः संस्तुतो नु क्षिप्रं गृणानोऽस्माभिः
+> स्तूयमानस्वमिषमन्नं जरित्रे स्तोत्रे मह्यं नद्यो नाद्भिनदीरिव पीपेः ।
+> प्यायय । प्रवृद्धं कुरु । हे हरिवो हरिसंज्ञ काश्वोपेतेंद्र ते तुभ्यं नव्यं
+> नवतरं ब्रह्म स्तोत्रमकारि । अस्माभिः क्रियते । रथ्यो रथवंतो वयं धिया
+> प्रज्ञारूपया स्तुत्या सदासास्त्वां सर्वदा भजमानास्तदर्थं हवीरूपस्यान्नस्य
+> दातारो ना स्याम । भूयास्मै ॥
+
+##### Gist of the bhāṣya
+
+O Indra, praised quickly by the former seers and being praised quickly by us, fill up food for me, the praiser, as one fills rivers with water; make it grow abundant. O lord of the horses called Hari, a newer hymn is made for you by us. Possessing chariots, may we, with praise in the form of insight, always serving you, be givers of food in the form of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—exceedingly
+- स्तुतः (*stutaḥ*)—praised by the former seers
+- नु (*nu*)—with the same devotion
+- गृणानः (*gṛṇānaḥ*)—being one to be praised by us also
+- नद्यः न (*nadyaḥ na*)—as rivers are filled with water
+
+### Printed p. 27
+- जरित्रे (*jaritre*)—to me, the praiser
+- इषं (*iṣaṃ*)—food
+- पीपेः (*pīpeḥ*)—filling up
+- हरिवः (*harivaḥ*)—O Indra, possessor of the horses called Hari
+- ते (*te*)—addressed to you
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—the hymn
+- आकारि (*ākāri*)—is made
+- रथ्यः (*rathyaḥ*)—we who possess chariots
+- धिया (*dhiyā*)—by praise made with insight
+- सदासाः (*sadāsāḥ*)—worshipping you and offering oblations
+- स्याम (*syāma*)—grant that we may become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who were exceedingly praised by the former seers and are to be praised by us too with the same devotion, fill up food for me, the praiser, as rivers are filled with water. O Indra, possessor of the horses called Hari, a new hymn is made addressed to you. May we, possessing chariots, worship you with praise made with insight and be offerers of oblations.
+
+##### English translation (H. H. Wilson)
+Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you: may we, possessed of choriots, be ever diligent in your praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk occurs as the last Ṛk not only in this sūkta but also in sūktas 20–24.
+इंद्र नु स्तुतः नु गृणानः नद्यः न जरित्रे इषं पिपेः (*iṃdra nu stutaḥ nu gṛṇānaḥ nadyaḥ na jaritre iṣaṃ pipeḥ*)—O Indra, you were praised formerly by many seers; now you are praised by us. As rain-water fills the rivers so that they flow full, fill up food (food and other provisions) for us who praise you; that is, give it as much as we wish.
+नु (*nu*)—नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे (*nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe*) (Ni. 1-4). The particle नु (*nu*) has many meanings. In इदं' नु करिष्यति (*idaṃ ' nu kariṣyati*) the word नु (*nu*) has the causal sense "therefore". In कथं नु करिष्यति (*kathaṃ nu kariṣyati*) it has the interrogative sense "how". Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is also used to indicate a comparison. For example—
+
+### Printed p. 28
+अक्षो न चक्र्योः शूर बृहन्प्र ते मह्ना रिरिचे रोदस्योः । वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः ॥ (*akṣo na cakryoḥ śūra bṛhanpra te mahnā ririce rodasyoḥ | vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ ‖*) (Ṛ. Saṃ. 6-24-3)
+The authors of the Nirukta quote this Ṛk (Ni. 1-4) and explain: वृक्षस्य नु ते । वृक्षस्येव ते (*vṛkṣasya nu te | vṛkṣasyeva te*), "like a tree" or "like the branches of a tree"; thus they state that the word नु (*nu*) is said here in the sense of comparison. Similarly—
+नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् (*nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat*) (Ṛ. Saṃ. 7-100-11)
+In Ṛks such as this, नु (*nu*) means क्षिप्रं (*kṣipraṃ*), "quickly, promptly"; and in
+नू इंद्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्वा वावृधस्व । (*nū iṃdra śūra stavamāna ūtī brahmajūtastanvā vāvṛdhasva |*) (Ṛ. Saṃ. 7-19-11)
+and similar Ṛks, नु (*nu*) means "today, now, at once"; the Nirukta authors explain this with examples. In the present Ṛk the meaning is क्षिप्रं (*kṣipraṃ*), quickly, swiftly.
+जरित्रे (*jaritre*)—The word जरितृ (*jaritṛ*) is read among the names of praisers (Ni. 3-19), and since there is also the explanation जरिता गरिता (*jaritā garitā*) (Ni. 1-7), जरित्रे (*jaritre*) here means "to me, who praise".
+न (*na*)—The Nirukta authors state two kinds of meaning for the word न (*na*)—
+नेति प्रतिषेधार्थीयो भाषायां । उभयमन्वध्यायं । नेंद्रं देवममंसत इति प्रतिषेधार्थीयः पुरस्तादुपचारस्तस्य यत्प्रतिषेधति । दुर्मदासो न सुरायां इत्युपमार्थीयः । उपरिष्टादुपचारस्तस्य येनोपमिमीते ॥ (*neti pratiṣedhārthīyo bhāṣāyāṃ | ubhayamanvadhyāyaṃ | neṃdraṃ devamamaṃsata iti pratiṣedhārthīyaḥ purastādupacārastasya yatpratiṣedhati | durmadāso na surāyāṃ ityupamārthīyaḥ | upariṣṭādupacārastasya yenopamimīte ‖*) (Ni. 1-4)
+That is, in the language of common usage, i.e. in modern Sanskrit, which is not the Vedic language, the word न (*na*) is used in the sense of negation ("not, no"). This is known to all. But in the Vedas the word न (*na*) is used both in the sense of negation and in the sense of comparison. How? In the sentence नेंद्रं देवममंसत (*neṃdraṃ devamamaṃsata*) the word न (*na*) is used in the sense of negation. Negation (प्रतिषेध (*pratiṣedha*)) means not praising a person directly or to his face. In the sentence "Indra is not to be regarded as radiant", the word "not" (the meaning of न (*na*)) indicates a sense contrary to the figurative statement concerning Indra. This is called the negative sense. In the sentence दुर्मदासो न सुरायां (*durmadāso na surāyāṃ*) the word न (*na*) indicates comparison (likeness). The sense of the sentence is "arrogant like people who have drunk liquor".
+
+### Printed p. 29
+Here, comparison is stating the good or bad qualities of one person by likening them to the good or bad qualities of another. Those who have drunk liquor lose their wits and behave in a low way out of arrogance; "arrogant like those people" is the comparison. In the Vedas such meanings are indicated by the word न (*na*) and also by the word इव (*iva*). This use of न (*na*) in the sense of comparison occurs only in the Vedas, not in the language in current use; there only the word इव (*iva*) is used instead.
+In this Ṛk, which is the concluding Ṛk of the sūkta, it is stated that the seer Vāmadeva offers the newly composed hymn to the deity and prays for the deity's favour.
+## Sūkta 20 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ न इंद्र इत्येकादशर्चं दशमं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैंद्रं ।
+> आ न इत्यनुक्रमणिका ॥ पृष्ठाभिप्लवषडहयोः प्रथमेऽहनि निष्केवल्य एतन्निविद्धा
+> नीयं । सूत्रितं च । आ न इंद्र इति निष्केवल्यं । आ. ७-५ । इति ॥ महाव्रतेऽप्येतत्संपातसूक्तं । तथैव पंचमारण्यके सूत्रितं च । आ न इंद्रो दूरादा न
+> आसादिति संपातः । ऐ. आ. ५-२-२ । इति ॥
+> अनुवादवु—आ न इंद्र ऎंब ई सूक्तवु ऎरडनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु.
+> इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; इंद्रनु देवतॆयु;
+> त्रिष्टुप् छंदस्सु. अनुक्रमणिकॆयल्लि आ नः ऎंदु मॊदलागि हेळिरुवुदु. पृष्ठ मत्तु अभिप्लव
+> षडहवॆंब यागगळ मॊदलनॆय दिवसदल्लि निष्केवल्यशस्त्रमंत्रगळन्नु पठिसुवाग ई सूक्तवन्नु
+> निविन्मंत्रगळिगागि उपयोगिसबेकॆंदु आश्वलायनशौतसूत्रद—आ न इंद्र इति निष्केवल्यं
+> ऎंब सूत्रदिंद (आ. ७-५) विवृतवागिरुवुदु. महाव्रतदल्लियू कूड संपातसूक्तपठनक्कागि
+> ई सूक्तद विनियोगविरुवुदॆंदु ऐतरेय आरण्यकद पंचमारण्यकदल्लि आ न इंद्रो दूरादा
+> न आसादिति संपातः ऎंब वाक्यदिंद विवृतवागिरुवुदु. (ऐ. आ. ५-२-२).
+
+##### Gist of the bhāṣya
+
+The sūkta आ न इंद्र (*ā na iṃdra*), of eleven Ṛks, is the tenth sūkta; its seer is Vāmadeva, its deity Indra, its metre Triṣṭubh; the Anukramaṇikā begins आ नः (*ā naḥ*). On the first day of the Pṛṣṭha and Abhiplava Ṣaḍahas it is used in the Niṣkevalya recitation for the nivid; the sūtra cited is आ न इंद्र इति निष्केवल्यं । आ. ७-५ (*ā na iṃdra iti niṣkevalyaṃ | ā. 7-5*) (Ā. 7-5). In the Mahāvrata too it is the Sampāta sūkta; the Fifth Āraṇyaka states: आ न इंद्रो दूरादा न आसादिति संपातः । ऐ. आ. ५-२-२ (*ā na iṃdro dūrādā na āsāditi saṃpātaḥ | ai. ā. 5-2-2*) (Ai. Ā. 5-2-2).
+**Anuvāda**: This sūkta आ न इंद्र (*ā na iṃdra*) is the tenth sūkta in the second anuvāka. It has eleven Ṛks. Vāmadeva is its seer, Indra its deity, Triṣṭubh its metre. The Anukramaṇikā begins with आ नः (*ā naḥ*). When the Niṣkevalya-śastra mantras are recited on the first day of the Pṛṣṭha and Abhiplava Ṣaḍaha sacrifices, this sūkta is to be used for the nivid mantras, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra आ न इंद्र इति निष्केवल्यं (*ā na iṃdra iti niṣkevalyaṃ*) (Ā. 7-5). Its use in the Mahāvrata too, for reciting the Sampāta sūkta, is explained in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence आ न इंद्रो दूरादा न आसादिति संपातः (*ā na iṃdro dūrādā na āsāditi saṃpātaḥ*) (Ai. Ā. 5-2-2).
+
+### Printed p. 30
+**Sūkta particulars**
+
+> सूक्त-२०
+> मंडल—४ ॥ अनुवाक—२ ॥ सूक्त—२० ॥
+> अष्टक—३ ॥ अध्याय—६ ॥ वर्ग—३, ४ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
+> ऋषिः—वामदेवः ॥
+> देवता—इंद्रः ॥
+> छंदः—त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॒ इंद्रो॑ दू॒रादा न॑ आ॒साद॑भिष्टि॒कृदव॑से यासदु॒ग्रः ।  
+> ओजि॑ष्ठेभिर्नृ॒पति॒र्वज्र॑बाहुः सं॒गे स॒मत्सु॑ तु॒र्वणिः॑ पृत॒न्यून्॥  
+> ॥ पवपात्र ॥  
+> आ । नः । इंद्रः । दूरात् । आ । नः । आसात् । अभिष्टिकृत् । अवसे । यासत् । उग्रः।  
+> ओजि॑ष्ठेभिः । नृ॒पतिः॒ । वज्र॑बाहुः । सं॒गे । स॒मत्सु॑ । तु॒र्वणीः॑ । सृत॒न्यून् ॥ १ ॥
+
+> *ā na iṃdro dūrādā na āsādabhiṣṭikṛdavase yāsadugraḥ |*  
+> *ojiṣṭhebhirnṛpatirvajrabāhuḥ saṃge samatsu turvaṇiḥ pṛtanyūn‖*  
+> *‖ pavapātra ‖*  
+> *ā | naḥ | iṃdraḥ | dūrāt | ā | naḥ | āsāt | abhiṣṭikṛt | avase | yāsat | ugraḥ|*  
+> *ojiṣṭhebhiḥ | nṛpatiḥ | vajrabāhuḥ | saṃge | samatsu | turvaṇīḥ | sṛtanyūn ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिष्टिकृद्यजमानसंबंधिनामभीष्टानां कर्तोग्रस्तेजस्वींद्रो नोऽस्माकमवसे रक्षणाय दूरादा यासत् । आयातु । आगच्छतु । अपि च आसादासन्नादंतिकाच्च
+> नोऽस्माकमवसे रक्षणाया यासत् । आयातु । कीदृशः । समत्तु संग्रामेषु संगे
+> शत्रुभिः संयोगे सति पृतन्यून् शत्रून् तुर्वणिर्हिंसन् वज्रबाहुर्वज्रहस्तो
+> नृपतिर्वृष्टिद्वारा नृणां मनुष्याणां पालक ओजिष्ठेभिरतिशयेन तेजस्विभिर्मरुद्भिर्युक्त इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+May Indra, the doer of what the sacrificer desires, fierce (radiant), come from afar for our protection; and may he come also from near, for our protection. What sort is he? In battles, when there is an engagement with enemies, he is the destroyer of the foes, thunderbolt-armed (holding the thunderbolt in his hand), the protector of men through rain, and accompanied by the exceedingly vigorous Maruts (this last is to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभिष्टि कृत् (*abhiṣṭi kṛt*)—fulfiller of the sacrificers' desired aims
+- उग्रः (*ugraḥ*)—radiant
+- समत्सु (*samatsu*)—in battles
+- संगे (*saṃge*)—while fighting with enemies
+- पृतन्यून् (*pṛtanyūn*)—enemies
+- तुर्वणिः (*turvaṇiḥ*)—the one who destroys
+- वज्रबाहुः (*vajrabāhuḥ*)—the one whose arm holds the thunderbolt weapon
+- नृपतिः (*nṛpatiḥ*)—protector of men
+- इंद्रः (*iṃdraḥ*)—Indra
+- ओजिष्ठेभिः (*ojiṣṭhebhiḥ*)—together with the Maruts of surpassing vigour
+- नः (*naḥ*)—our
+- अवसे (*avase*)—for protection
+- दूरात् (*dūrāt*)—from afar
+- आ यासत् (*ā yāsat*)—may he come
+- आसात् (*āsāt*)—from near too
+- आ (यासत्) (*ā (yāsat)*)—may he come
+
 ---
 
-**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
+**Progress note:** Done through printed p. 30. pp. 25-30 (batch API)
