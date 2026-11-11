@@ -24803,6 +24803,292 @@ When she said, "I desired to choose Soma. But he desires Śraddhā. He has rejec
 
 आस्यार्धं वव्राज । ताग्ंहोदीक्ष्योवाच । उप मावर्तस्वेति । तग्ंहोवाच । भोगं तु म आ चक्ष्व । एतन्म आचक्ष्व । यत्ते पाणाविति । तस्या उ ह त्रीन्‌वेदान्द्रददौ । तस्मादु ह स्त्रियो भोगमैव हारयंते ॥ (*āsyārdhaṃ vavrāja | tāgṃhodīkṣyovāca | upa māvartasveti | tagṃhovāca | bhogaṃ tu ma ā cakṣva | etanma ācakṣva | yatte pāṇāviti | tasyā u ha trīnvedāndradadau | tasmādu ha striyo bhogamaiva hārayaṃte ‖*) (Tai. Brā. 2-3-10-3)
 
+### Printed p. 641
+Sītā, adorned with ornaments that have the power to bring her husband under her sway, stopped midway as she came. By the power of this means of subjugation Soma did not reject her as before. Eagerly he looked at her and said she should not stop halfway but come near. Then she was pleased and told him what she desired. Soma was satisfied and gave over to her the three Vedas that he had. Such is the means that women should use to gain what they desire. In this way the nature of Sītā is described. This Sītā, who stands in direct relation to the earth, is praised throughout the Vedic texts.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॒ सीतां॒ नि गृ॑ह्णातु॒ तां पू॒षानु॑ यच्छतु ।  
+> सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समां॑ ॥ ७ ॥
+
+> *iṃdraḥ sītāṃ ni gṛhṇātu tāṃ pūṣānu yacchatu |*  
+> *sā naḥ payasvatī duhāmuttarāmuttarāṃ samāṃ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । सीतां । नि । गृह्ञातु । तां । पूषा । अनु । यच्छतु ।  
+> सा । नः । पयस्वती । दुहां । उत्तरांऽउत्तरां । समां ॥ ७ ॥
+
+> *iṃdraḥ | sītāṃ | ni | gṛhñātu | tāṃ | pūṣā | anu | yacchatu |*  
+> *sā | naḥ | payasvatī | duhāṃ | uttarāṃ 'uttarāṃ | samāṃ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो देवः सीतां सीताधारकाष्ठां नि गृह्णातु । तां सीतां पूषा
+> देवोऽनु यच्छतु । नियमयत् । सा द्यौः पयस्वत्युदकवती दुहां । दुह्यात् ।
+> कदेति तदुच्यते । उत्तरामुत्तरां समामुत्तरमुत्तरं संवत्सरं ॥
+
+##### Gist of the bhāṣya
+
+Let the god Indra take hold of Sītā, the wooden implement that bears the furrow. Let the god Pūṣan guide (regulate) that Sītā. Let that heaven (द्यौः (*dyauḥ*)), rich in water, yield (दुहां (*duhāṃ*) = may she milk out). When? That is stated: उत्तरामुत्तरां समां (*uttarāmuttarāṃ samāṃ*), every following year.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—the god Indra
+- सीतां (*sītāṃ*)—Sītā (the implement for ploughing)
+- नि गृह्ञातु (*ni gṛhñātu*)—let him hold
+- तां (*tāṃ*)—that same Sītā
+- पूषा (*pūṣā*)—the god Pūṣan
+- अनु यच्छतु (*anu yacchatu*)—let him guide
+- सा (*sā*)—that goddess
+- पयस्वती (*payasvatī*)—endowed with water
+- उत्तरामुत्तरां समां (*uttarāmuttarāṃ samāṃ*)—every year as well
+- नः (*naḥ*)—for us
+- दुहां (*duhāṃ*)—let her yield rain
+
+##### भावार्थ (Bhāvārtha)
+
+Let Indra take hold of Sītā. Let Pūṣan guide that same Sītā. Let that goddess, endowed with water, yield rain for us every year.
+
+##### English translation (H. H. Wilson)
+May Indra take hold of Sita : may Pushan guide her ; may she, well stored with water, yield it as milk, year after year.
+
+### Printed p. 642
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नं नः॒ फाला॒ वि कृ॑षंतु॒ भूमिं॑ शु॒नं की॒नाशा॑ अ॒भि यं॑तु  ॒
+> वाहैः ।  
+> शु॒नं प॒र्जन्यो॒ मधु॑ना॒ पयो॑भिः॒ शुना॑सीरा शु॒नम॒स्मासु॑  
+> धत्तं ॥ ८ ॥
+
+> *śunaṃ naḥ phālā vi kṛṣaṃtu bhūmiṃ śunaṃ kīnāśā abhi yaṃtu*  
+> *vāhaiḥ |*  
+> *śunaṃ parjanyo madhunā payobhiḥ śunāsīrā śunamasmāsu*  
+> *dhattaṃ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । नः । फालाः । वि । कृषंतु । भूमिं । शुनं । कीनाशाः । अभि । यंतु । वाहैः ।  
+> शुनं । पर्जन्यः । मधुना । पयःऽभिः । शुनासीरा । शुनं । अस्मासु । धत्तं ॥ ८ ॥
+
+> *śunaṃ | naḥ | phālāḥ | vi | kṛṣaṃtu | bhūmiṃ | śunaṃ | kīnāśāḥ | abhi | yaṃtu | vāhaiḥ |*  
+> *śunaṃ | parjanyaḥ | madhunā | payaḥ 'bhiḥ | śunāsīrā | śunaṃ | asmāsu | dhattaṃ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्या अष्टम्या विनियोगः शुनासीराविमामित्यत्रोक्तः ॥
+> नो भूमिं फाला भूमिविदारककाष्ठाः शुनं वि कृषंतु । शुनं यथा भवति
+> तथा। कीनाशा बलीवर्दरक्षका वाहैर्बलीवर्दैरभि यंतु । अभिगच्छंतु । शुनं यथा
+> भवति तथा । पर्जन्यो मधुना मधुरैः पयोभिरुदकैः सिंचतु । हे शुनासीरा
+> इंद्रवायू वाय्वादित्यौ वा शुनं सुखमस्मासु धत्तं । धारयतं ॥
+
+##### Gist of the bhāṣya
+
+The use (viniyoga) of this eighth verse has been stated at *śunāsīrāvimāṃ* (in the verse beginning so). May the ploughshares, the wooden implements that split the earth, plough our land happily, that is, so that it be happy. May the ox-keepers (कीनाशा (*kīnāśā*)) go to their work with the oxen (वाहैः (*vāhaiḥ*)), again happily. May Parjanya sprinkle with sweet waters. O Śunāsīra, Indra and Vāyu, or Vāyu and Āditya, bestow happiness (शुनं (*śunaṃ*)) on us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- भूमिं (*bhūmiṃ*)—field
+- फालाः (*phālāḥ*)—ploughs and other implements for ploughing
+- शुनं (*śunaṃ*)—happily
+- वि कृषंतु (*vi kṛṣaṃtu*)—let them plough
+- कीनाशाः (*kīnāśāḥ*)—farmers
+- वाहैः (*vāhaiḥ*)—with bulls
+- शुनं (*śunaṃ*)—happily
+- अभि यंतु (*abhi yaṃtu*)—let them go to their tasks
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- शुनं (*śunaṃ*)—so as to bring happiness
+- मधुना (*madhunā*)—sweet
+- पयोभिः (*payobhiḥ*)—with waters (let him rain)
+- शुनासीरा (*śunāsīrā*)—O Śunāsīra deities
+- अस्मासु (*asmāsu*)—in us
+- शुनं (*śunaṃ*)—happiness
+- धत्तं (*dhattaṃ*)—provide
+
+### Printed p. 643
+
+##### भावार्थ (Bhāvārtha)
+
+Let the plough and the other implements of tilling plough happily. Let the farmers go happily to their tasks with their bulls. Let Parjanya rain with sweet waters so as to bring happiness. O Śunāsīra deities, bring us happiness.
+
+##### English translation (H. H. Wilson)
+May the ploughshares break up our land happily ; may the ploughman go happily with the oxen ; may Parjanya (water the earth) with sweet showers happily : grant Shuna and Shira, prosperity to us.
+
+##### विशेषविषयगळु (Special Topics)
+
+The use (viniyoga) of this Ṛk has been stated in the Special Topics of the fourth Ṛk of this sūkta.
+
+## Sūkta 58 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रादूर्मिरित्येकादशर्चं त्रयोदशं सूक्तं । अंत्या जगती शिष्टास्त्रिष्टुभः । अग्निसूर्याब्बोघृतानामन्यतमो देवता । वामदेव ऋषिः । अत्रानुक्रमणिका । समुद्रादूर्मिरेकादशाग्नियं जगत्त्यंतं सौर्यं वापं वा गव्यं वा
+> घृतस्तुतिर्वेति ॥ विषुवतीदं सूक्तमाज्यं । तथा च सूत्रं । समुद्रादूर्मिरित्याज्यं
+> त्यं सुमेषं । आ. ८-६ । इति ॥ व्यूढे दशरात्रे सप्तमेऽहनीदमेव सूक्तमाज्यं ।
+> सूत्रितं च । अथ छंदोमाः समुद्रादूर्मिरित्याज्यं । आ. ८-९ । इति ॥
+> अनुवादवु—समुद्रादूर्मिः ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि हदिमूरनॆय
+> सूक्तवु. इदरल्लि हदिमूरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; अग्निः सूर्य;
+> आपः गौः धृत मॊदलादवरु देवतॆगळु ; सूक्तद कॊनॆय ऋक्कु जगतीछंदस्कवु ; उळिद
+> ऋक्कुगळु त्रिष्टुप् छंदस्कवु. अनुक्रमणिकॆयल्लि—समुद्रादूर्मिरेकादशाग्नेयं जगत्त्यंतं
+> सौर्यं वापं वा गव्यं वा धृतस्तुतिर्वा ऎंदु हेळिरुवुदु. ई सूक्तवन्नु आज्य
+> शस्त्रमंत्रगळल्लि विषुवति ऎंब सूक्तवन्नागि पठिसबेकॆंदु आश्वलायनश्रौतसूत्रद—समुद्रादूर्मिरित्याज्यं त्यं सुमेषं ऎंब सूत्रदिंदलू (आ. ८-६) व्यूळ्हवॆंब दशरात्रयागदल्लि
+> एळनॆय दिवस ई सूक्तवन्नु आज्यशस्त्रमंत्रगळिगागि पठिसबेकॆंदु आश्वलायनश्रौतसूत्रद—अथ
+> छंदोमाःसमुद्रादूर्मिरित्याज्यं ऎंब सूत्रदिंदलू (आ. ८-९) विवृतवागिरुवुदु.
+> सायणभाष्यसहिता [ मं. ४. आ. ५. सू. ५८.
+> सूक्त—खिल
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५८ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—१०, ११ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
+> ॥ ऋषिः—वामदेवः ॥
+> ॥ देवता—अग्निः सूर्यो वापो वा गावो वा धृतं वा ॥
+> ॥ छंदः—१-१०, त्रिष्टुप् । ११. जगती ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning समुद्रादूर्मिः (*samudrādūrmiḥ*) has eleven Ṛks (the Kannada says thirteen Ṛks) **NOTE**. It is the thirteenth sūkta in the fifth anuvāka. The last verse is in Jagatī, the rest in Triṣṭubh. The deity is any one of Agni, Sūrya, the waters, the cows (their product) and ghee. The seer is Vāmadeva. The Anukramaṇikā says: समुद्रादूर्मिरेकादशाग्नियं जगत्त्यंतं सौर्यं वापं वा गव्यं वा घृतस्तुतिर्वेति (*samudrādūrmirekādaśāgniyaṃ jagattyaṃtaṃ sauryaṃ vāpaṃ vā gavyaṃ vā ghṛtastutirveti*): the eleven verses are addressed to Agni, ending in a Jagatī, or to Sūrya, or to the waters, or to the cows' product, or are a praise of ghee. This sūkta is the ājya-śastra in the Viṣuvat (day), and the sūtra says: समुद्रादूर्मिरित्याज्यं त्यं सुमेषं (*samudrādūrmirityājyaṃ tyaṃ sumeṣaṃ*) (Ā. 8-6). In the Vyūḍha Daśarātra, on the seventh day, this very sūkta is the ājya (-śastra); it is written: अथ छंदोमाः समुद्रादूर्मिरित्याज्यं (*atha chaṃdomāḥ samudrādūrmirityājyaṃ*) (Ā. 8-9). The Kannada anuvāda repeats this and adds that the use is described in the Āśvalāyana Śrauta Sūtra. The particulars: Maṇḍala 4, Anuvāka 5, Sūkta 58, Aṣṭaka 3, Adhyāya 8, Vargas 10 and 11; Ṛks in the sūkta 11; seer Vāmadeva; deity Agni, or Sūrya, or the waters, or the cows, or ghee; metre: verses 1–10 Triṣṭubh, verse 11 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रादू॒र्मिर्मधु॑मा॒ उदा॑र॒दुपां॒शुना॒ सम॑मृत॒त्वमा॑नट् ।  
+> घृ॒तस्य॒ नाम॒ गुह्यं॒ यदस्ति॑ जि॒ह्वा दे॒वाना॑म॒मृत॑स्य॒ नाभिः॑॥१॥
+
+> *samudrādūrmirmadhumā udāradupāṃśunā samamṛtatvamānaṭ |*  
+> *ghṛtasya nāma guhyaṃ yadasti jihvā devānāmamṛtasya nābhiḥ‖1‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रात् । ऊर्मिः । मधुमान् । उत् । आरत् । उप । अंशुना । सं । अमृतत्वं । आनट् ।  
+> घृतस्य । नाम । गुह्यं । यत् । अस्ति । जिह्वा । देवानां । अमृतस्य । नाभिः ॥ १ ॥
+
+> *samudrāt | ūrmiḥ | madhumān | ut | ārat | upa | aṃśunā | saṃ | amṛtatvaṃ | ānaṭ |*  
+> *ghṛtasya | nāma | guhyaṃ | yat | asti | jihvā | devānāṃ | amṛtasya | nābhiḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संमोदंतेऽस्मिन्यजमाना इति ना समुद्रोग्निः पार्थिवः अथवा समुद्भवंत्यापोऽस्मादिति व्युत्पत्ता वैद्युतोऽग्निः । तस्मादूर्मिरूर्मिवदुपर्युपर्युद्भूतो मधुमान्माधुर्योपेतफलसमूह उदारत् ' उद्दच्छति ' अथवा वैद्युतादूर्मुत्पादको रस उदारत् । उद्यूतः । अथवा समुद्रात्समुद्धवणसाधनादादित्यादूर्मि रस उदकलक्षण उदारत् । आदित्याज्जायते वृष्टिरिति श्रुतेः । यद्वा ।
+> समुद्रादुक्तव्युत्पत्तेरंतरिक्षादूर्मिरुदकमुदारत् । अथवा समुद्रादुक्तलक्षणाद्गवामूधसः सकाशादूर्मिरुज्वलः क्षीररसः । एतद्कृतपक्षेऽपि समानं । यद्यपि
+> धृतं क्षीराज्ञायते तथापि तस्योधस उत्पत्तेरेवमुपचर्यते । शिष्टं वाक्यमग्न्यादिपंचसु पक्षेष्टपि समानं । अंशुना दीप्त्यांशेन नामृतत्वं मोक्षमुपसमानट् । उपेति पूरणः । प्राप्नोति नरः । धृतस्य दीप्तस्य क्षीरद्रव्यरूपस्य वा
+> गुह्यं नाम गोपनीयं नमनसाधनं यदस्ति तद्ब्रवीमि । तद्देवानां जिह्वास्वादकजिह्वास्थानीयं भवति । तदेवामृतस्य नाभिर्बंधकं भवति । तदुभयं धृतस्य
+> नामेत्यर्थः । एवं सर्वमंत्रेषु तत्तत्पक्षानुसारेण योज्यं ॥
+
+##### Gist of the bhāṣya
+
+ना समुद्रोग्निः पार्थिवः (*nā samudrogniḥ pārthivaḥ*): sacrificers rejoice together in him; thus the "samudra" is the terrestrial Agni. Or, by the derivation that waters arise from it, it is the lightning fire. From it the wave (ऊर्मिः (*ūrmiḥ*)), like a wave, one after another, a sweet (मधुमान् (*madhumān*)) mass of fruits, rose up (उदारत् (*udārat*)). Or, from the lightning-fire the juice that produces the waves rose up. Or, from the "samudra" that is the means of drawing up the sea, namely the sun, the wave, a juice of the nature of water, rose up; for the śruti says: *ādityājjāyate vṛṣṭiḥ* (rain is born from the sun). Or else, by the derivation just given, from "samudra", the firmament, the wave, the water, rose up. Or, from "samudra" in the sense given, the udder of cows, the bright wave, the milk-juice. In the view that it is ghee, it is the same: although ghee is born from milk, it is so described because it arises from the udder. The remaining sentence is the same in all five views (Agni and the rest). By the ray (अंशुना (*aṃśunā*)), the radiant part, man attains (आनट् (*ānaṭ*)) immortality, liberation (उप (*upa*) is a filler). The secret (to be kept) name of the radiant ghee, or of ghee that is a milk substance, which is the means of bowing: I declare it. It becomes the tongue of the gods, the tongue that tastes; it is likewise the navel, the binding, of immortality. Both are the name of ghee. So in all the mantras it is to be construed according to the respective view.
+
+### Printed p. 645
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रात् (*samudrāt*)—from the aerial fire
+- ऊर्मिः (*ūrmiḥ*)—like waves, one after another
+- मधुमान् (*madhumān*)—masses of fruits endowed with sweetness
+- उदारत् (*udārat*)—arise
+- अंशुना (*aṃśunā*)—by the ray of the sun
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death
+- समानट् (*samānaṭ*)—(man) obtains
+- धृतस्य (*dhṛtasya*)—for the radiant principle of ghee
+- गुह्यं (*guhyaṃ*)—secret
+- यत् नाम (*yat nāma*)—the name which
+- अस्ति (*asti*)—there is (that)
+- देवानां (*devānāṃ*)—of the gods
+- जिह्वा (*jihvā*)—also in the form of the tongue
+- अमृतस्य (*amṛtasya*)—of ambrosia
+- नाभिः (*nābhiḥ*)—is also in the form of the navel
+
+##### भावार्थ (Bhāvārtha)
+
+From the aerial fire, masses of fruits (waters) endowed with sweetness arise like waves, one after another. By the ray of the sun man obtains freedom from death. The secret name that the radiant principle of ghee has is both the tongue of the gods and the navel of ambrosia.
+
+##### English translation (H. H. Wilson)
+The sweet water swells up from the firmament: by the (solar) ray (man) obtains immortality : that which is the secret name of clarified butter is the tongue of the gods, the nevel of ambrosia.
+
+##### विशेषविषयगळु (Special Topics)
+
+(1) समुद्रात् ऊर्मिः मधुमान् उदारत् (*samudrāt ūrmiḥ madhumān udārat*)—संमोदंतेऽस्मिन्यजमाना इति ना समुद्रोग्निः पार्थिवः (*saṃmodaṃte 'sminyajamānā iti nā samudrogniḥ pārthivaḥ*). In the matter of this sacrificial fire, the sacrificers who perform the sacrifice rejoice; hence "samudra" means the terrestrial fire.
+(2) अथवा समुद्रवंत्यापोऽस्मादिति व्युत्पत्ता वैद्युतोऽग्नि (*athavā samudravaṃtyāpo 'smāditi vyutpattā vaidyuto 'gni*). "Samudra" means the firmament (Ni. 2-10). Since from this fire (lightning) in the firmament the waters pour down as rain, "samudra" also means the lightning-fire. From such a lightning-fire (like waves, one upon another) masses of fruits endowed with sweetness, or waters, arise. In the case of the terrestrial fire the meaning is that desired fruits come to the sacrificer who performs the sacrifice like waves, that is, one after another; in the case of the lightning-fire the sense is that the sweet rain-waters pour down wave upon wave, that is, in streams.
+(3) अथवा समुद्रात् समुद्रवणसाधनात् आदित्यादूर्मा रस उदकलक्षण उदारत् । आदित्याज्जायते वृष्टिरिति श्रुतेः । (*athavā samudrāt samudravaṇasādhanāt ādityādūrmā rasa udakalakṣaṇa udārat | ādityājjāyate vṛṣṭiriti śruteḥ |*). Or also the sun, whose nature is to attract or drink up the juice, is called "samudra". Here juice may be water or any substance that is in liquid form. Because the sun draws up water from reservoirs by his rays, he is called "samudra". From such a sun rain in the form of water came to be.
+
+### Printed p. 646
+(4) यद्वा समुद्रादुक्तव्युत्पत्तेः अंतरिक्षादूर्मिरुदकमुदारत् (*yadvā samudrāduktavyutpatteḥ aṃtarikṣādūrmirudakamudārat*). Since the word "samudra" has the name "firmament", the meaning can also be given that water poured down (as rain).
+(5) अथवा समुद्रादुक्तलक्षणात् गवामूधसः सकाशात् ऊर्मिरुज्वलः क्षीररसः । (*athavā samudrāduktalakṣaṇāt gavāmūdhasaḥ sakāśāt ūrmirujvalaḥ kṣīrarasaḥ |*). By the explanation of the word "samudra", "from samudra" can also mean from the udder of the cow. It can also be understood that the bright, that is, excellent milk-juice issues from the cow's udder. And since ghee is produced from milk, it can be said that ghee too is produced from the cow's udder. The main point is that the deities praised in this sūkta may be any one of these five: Agni, Sūrya, the waters, the cows (their product) and ghee. That is, the contents of this sūkta may be applied and interpreted in favour of any of these five deities. Therefore the five kinds of meaning have been set out above. Since the following sentences or Ṛks have a common meaning that suits all of them, it is enough to explain only the main meaning.
+On the first sentence of this Ṛk Yāska has given an explanation:
+समुद्रादूर्मिर्मधुमा उदारत् । इत्यादित्यमुक्तं मन्यंते । समुद्राद्धेषोऽद्ध्य उदेति च ब्राह्मणं ॥ (*samudrādūrmirmadhumā udārat | ityādityamuktaṃ manyaṃte | samudrāddheṣo 'ddhya udeti ca brāhmaṇaṃ ‖*)
+(Ni. 7-18)
+Some hold that the word "samudra" in this Ṛk beginning समुद्रादूर्मिः (*samudrādūrmiḥ*) means the sun. To support this they cite the Brāhmaṇa sentence that the sun rises (goes up) from the eastern sea. Besides, if it is to be interpreted as a synonym of Agni, there is a Brāhmaṇa sentence on that point also:
+अथापि ब्राह्मणं भवति । अग्निः सर्वा देवता इति । तस्योत्तरा भूयसे निर्वचनाय । इंद्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद्विप्रा बहुधा वदंत्यग्निं यमं मातरिश्वानमाहुः ॥ (*athāpi brāhmaṇaṃ bhavati | agniḥ sarvā devatā iti | tasyottarā bhūyase nirvacanāya | iṃdraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān | ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ ‖*)
+(Ṛ. Saṃ. 1-864-46) **NOTE**
+
+### Printed p. 647
+इममेवाग्निं महांतमात्मानमेकमात्मानं बहुधा मेधाविनो वदंतींद्रं मित्रं वरुणमग्निं दिव्यं च गुरुत्मंतं दिव्यो दिविजो गुरुत्मान् गरणवान् गुर्वात्मा महात्मेति वा । यस्तु सूक्तं भजते यस्मै हविर्निरुप्यतेयमेव सोऽग्निः । निपातमेवैते उत्तरे ज्योतिषी एतेन नामधेयेन भजेते (*imamevāgniṃ mahāṃtamātmānamekamātmānaṃ bahudhā medhāvino vadaṃtīṃdraṃ mitraṃ varuṇamagniṃ divyaṃ ca gurutmaṃtaṃ divyo divijo gurutmān garaṇavān gurvātmā mahātmeti vā | yastu sūktaṃ bhajate yasmai havirnirupyateyameva so 'gniḥ | nipātamevaite uttare jyotiṣī etena nāmadheyena bhajete*)
+(Ni. 7-18)
+The meaning of the above śruti sentence is that Agni is present in the form of all the deities. In the Ṛk beginning इंद्रं मित्रं (*iṃdraṃ mitraṃ*) the meaning is that wise men call Agni by the names of the deities Indra, Mitra, Varuṇa, Suparṇa, Garutmat, Yama and Mātariśvan. But one should not think here that Agni himself is these deities, that these deities themselves are Agni, that there is no difference between any of them, or that identity between Agni and these deities is stated. अग्निः सर्वाः देवताः (*agniḥ sarvāḥ devatāḥ*) means that the qualities found in all the deities are also found in Agni. Therefore this sentence is used in the sense that Agni is of the nature of all the deities. Agni has a distinction that the other deities do not have. The sūkta in which Agni is praised is addressed to Agni. That is, Agni is not only praised with words of praise; the oblation is also offered into Agni. Therefore the one who accomplishes the offering is Agni. This distinguishing quality is not in the other deities. Besides, it is customary to say that Agni exists in heaven in the form of the sun, in the firmament in the form of the lightning-fire, and on earth in the form of the terrestrial fire. The sun in heaven and the lightning-fire in the firmament are called Agni in name only. The explanation of the meaning is that the terrestrial fire is the true Agni, that is, it is to be understood as the principal (real) nature of Agni.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं नाम॒ प्र ब्र॑वामा घृ॒तस्या॒स्मिन्य॒ज्ञे धा॑रयामा॒  ॑
+> नमोभिः ।  
+> उप॑ ब्र॒ह्मा शृ॑णवच्छ॒स्यमा॑नं॒ चतुः॑शृंगोऽवमीद्गौ॒र ए॒तत् ॥
+
+> *vayaṃ nāma pra bravāmā ghṛtasyāsminyajñe dhārayāmā*  
+> *namobhiḥ |*  
+> *upa brahmā śṛṇavacchasyamānaṃ catuḥśṛṃgo 'vamīdgaura etat ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । नाम । प्र । ब्रवाम । धृतस्य । अस्मिन् । यज्ञे । धारयाम । नमःभिः ।  
+> उप । ब्रह्मा । शृणवत् । शस्यमानं । चतुःशृंगः । अवमीत् । गौरः । एतत् ॥ २ ॥
+
+> *vayaṃ | nāma | pra | bravāma | dhṛtasya | asmin | yajñe | dhārayāma | namaḥbhiḥ |*  
+> *upa | brahmā | śṛṇavat | śasyamānaṃ | catuḥśṛṃgaḥ | avamīt | gauraḥ | etat ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं यजमाना धृतस्य नाम प्र ब्रवाम । स्तुमः । अस्मिन्यज्ञे नमोभिर्नमस्कारैर्हविर्भिर्वा धारयाम च । ब्रह्मा परिवृढो देवः शस्यमानं स्तूयमानमिदमुप शृणुवत् । शृणुयात् । चतुःशृंगः । चत्वारि शृंगाणि देवचतुष्टयरूपाणि
+> यस्य सः । आदित्याग्निपक्ष एवं । इतरेष्वपि यास्कोक्तव्युत्पत्त्या शृंगशब्दो
+> व्याख्येयः । गौरोऽरुणवर्णस्तादृशो देव एतत्कर्म जगद्वावमीत् । उद्दिरति ।
+> निर्वहतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We, the sacrificers, declare (praise) the name of ghee. At this sacrifice we also offer (hold out) it with homages (नमोभिः (*namobhiḥ*)), or with oblations. Brahmā, the overseer (परिवृढो (*parivṛḍho*)) god, let him listen to this that is being recited, being praised. चतुःशृंगः (*catuḥśṛṃgaḥ*): he who has four horns in the form of four gods; this in the view of the sun and Agni. In the other views too the word "horn" is to be explained by the derivation stated by Yāska. गौरः (*gauraḥ*): the red-hued, such a god, अवमीत् (*avamīt*), brings forth, that is, carries through, this rite or this world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we, the sacrificers
+- धृतस्य (*dhṛtasya*)—of ghee
+- नाम (*nāma*)—the name
+- प्रब्रवाम (*prabravāma*)—we praise
+- अस्मिन् यज्ञे (*asmin yajñe*)—at this sacrifice
+- नमोभिः (*namobhiḥ*)—with homages
+- धारयाम (*dhārayāma*)—we offer it
+- चतुःशृंगः (*catuḥśṛṃgaḥ*)—possessing four horns (knowing the four Vedas)
+- ब्रह्मा (*brahmā*)—the god Brahmā
+- शस्यमानं (*śasyamānaṃ*)—this hymn that is being recited
+- उप शृणवत् (*upa śṛṇavat*)—let him listen attentively
+- गौरः (*gauraḥ*)—the god of red hue
+- एतत् (*etat*)—this rite
+- अवमीत् (*avamīt*)—carries through
+
+##### भावार्थ (Bhāvārtha)
+
+We, the performers of the sacrifice, praise the sacred name of ghee, and we offer it at this sacrifice with homages. Let Brahmā, who has four horns (who knows the four Vedas), listen attentively to this praise that is being recited. The god of red hue carries through this rite.
+
+##### English translation (H. H. Wilson)
+We celebrate the name of Ghrita at this sacrifice, we offer it with adoration : may the four-horned Brahma listen to its being glorified : the fair-complexined deity perfects this rite.
+
+##### विशेषविषयगळु (Special Topics)
+
+चतुःशृंगः ब्रह्मा (*catuḥśṛṃgaḥ brahmā*)—here "four horns" means the four Vedas. "Brahmā" means the ṛtvij (priest). The meaning is the priest called Brahmā, who knows the four Vedas well. In the sacrifice the mantra
+
 ---
 
-**Progress note:** Done through printed p. 640. pp. 635-640 (batch API)
+**Progress note:** Done through printed p. 647. pp. 641-647 (batch API)
