@@ -208,3 +208,17 @@
 | w0755 pp. 755-760 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 21787 + cache write 0 + cache read 5183, out 8982 | $0.067 |
 | w0761 pp. 761-767 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 21775 + cache write 0 + cache read 5183, out 7839 | $0.061 |
 | w0768 pp. 768-773 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 17918 + cache write 0 + cache read 5183, out 7746 | $0.057 |
+| w0530 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 30166, out 8573 | $0.080 |
+| w0561 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 28150, out 7383 | $0.066 |
+| w0567 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 32769, out 6906 | $0.068 |
+| w0574 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 27153, out 5180 | $0.054 |
+| w0580 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 30370, out 9026 | $0.076 |
+| w0622 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 29459, out 6863 | $0.064 |
+| w0628 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 29807, out 7778 | $0.069 |
+| w0640 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 27965, out 7891 | $0.068 |
+| w0652 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 23692, out 6509 | $0.057 |
+| w0658 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 22972, out 5321 | $0.050 |
+| w0664 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 24721, out 7547 | $0.063 |
+| w0694 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 22402, out 6123 | $0.054 |
+| w0748 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 29217, out 8053 | $0.070 |
+| w0761 retry 1 (gate failure) | claude-sonnet-5-5 batch API | 1 request | in 28238, out 6178 | $0.060 |
