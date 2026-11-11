@@ -1886,6 +1886,119 @@ If the hotṛ wishes that the yajamāna who performs the sacrifice should lose h
 The Yak (Ṛk) and Sāman mantras in the Niṣkevalya śastra mantras
 The close relation of the Ṛks and the Sāman — why the officiating priests who sing the Sāman recite three Ṛks (a tṛca) and sing — the five kinds of divisions of these Ṛk and Sāman mantras — both kinds are in the Virāj metre — the five divisions of the Niṣkevalya śastra.
 
+### Printed p. 55
+
+Now, the Ṛk mantras and the Sāma mantras are related to one another, and in the sacrifice they are mutually supporting. But formerly it was not so; they were separate. That is, the Ṛk mantras were metrical Ṛk verses made up of syllables and words; the Sāma mantra was a separate mantra in the form of a melody (a form suited to singing). The two had no connection with each other and stood apart. An episode is told in order to make clear this union of the two kinds of mantra, Ṛk and Sāma (their coming together to serve the sacrifice), which lies hidden within the word "sāma". The word "sāma" is formed by the joining of two distinct words, "sā" + "āma". Of these two, "sā" was the Ṛk, the mantra of the Ṛgveda; "āma" was the Sāma mantra of the Sāmaveda. So the Ṛk, desiring to unite with the Sāma and become one with it (the word "ṛk" is feminine), went to the Sāma mantra and said: "Let us both enter into the state of a couple, that is, of husband and wife. By this union the begetting of offspring will be helped." Hearing this, the Sāma said: "The greatness of my Sāma mantra is more than the greatness of the Ṛk mantra. In worldly dealings it is the custom that disputation (dealing) and marriage and the like take place only between equals. So, since my greatness is now greater than yours, it is not possible to form a bond with you." So saying, it rejected the Ṛk's request. Then the Ṛk, wishing to become equal to the greatness of the Sāma, changed itself, one Ṛk, into two Ṛks. Then these two Ṛks went to the Sāma and made the same request as before. Even then the Sāma did not agree and rejected the words of the two Ṛks. So again those two Ṛks changed into three Ṛks, came to the Sāma and made the request as before. Then the Sāma, regarding those three Ṛks as equal to itself, accepted their request and united with them. Because the Sāma thus united with three Ṛks, those who sing the Sāma praise in the sacrifice by singing in threes, that is, with hymns containing three Ṛks. This is explained here by the sentence तिसृभिः स्तुवंति तिसृभिरुद्धायंति (*tisṛbhiḥ stuvaṃti tisṛbhiruddhāyaṃti*). The meaning is that the officiating priests who sing the Sāma, the Udgātṛ and others, perform their duty of Sāma-singing as described above by singing three Ṛks and so praising. Therefore in the Veda (in another śākhā) it is said: एकं साम तृचे क्रियते स्तोत्रियं (*ekaṃ sāma tṛce kriyate stotriyaṃ*), that is, in a single Sāma mantra there is a hymn containing three Ṛks. And although the work called Chandas-sāma says that the Sāma mantra arises in a single Ṛk (that is, there is only one Ṛk in the Sāma), yet in the later part of that work it is said that at the time of application, that is, at the time of singing the Sāma mantra, it must be sung with three Ṛks. Of those three Ṛks, the first
+
+### Printed p. 56
+
+is called the yoni (or original place) for the priest. It is said that, following the singing of the first Ṛk, which is the yoni, one must conjecture and sing the singing of the second and third Ṛks; and in another śākhā too it is said: यद्योन्यां तदुत्तरयोगायति (*yadyonyāṃ taduttarayogāyati*). Therefore the priests of the Udgātṛ group perform their singing rite by singing three Ṛks. In this episode, as said before, since three Ṛks are equal to one Sāma mantra, that is, since three Ṛks together make one Sāma, the greatness of the Sāma is threefold the greatness of the Ṛk. In worldly dealings too, one man has many wives; one woman does not have many husbands. In the same way the Ṛk stands in the place of the woman and the Sāma in the place of the man. Therefore it is fitting that three Ṛks in the woman's place join the Sāma mantra in the man's place (in the wife's relation). The opposite practice is nowhere seen. In sum: the word "sā", which indicates the Ṛk, that is, the syllables, words and so on of the Ṛk, and the word "āma", which indicates the Sāma mantra, together make the word "sāma". The main idea is that in this Sāma mantra both kinds of mantra, Ṛk and Sāma, are united. The man who knows this becomes worthy of worship.
+
+यो वै भवति यः श्रेष्ठतामश्नुते स सामन् भवत्यसामन्य इति हि निंदंति । (*yo vai bhavati yaḥ śreṣṭhatāmaśnute sa sāman bhavatyasāmanya iti hi niṃdaṃti |*)
+
+In worldly dealings too, the man who attains wealth or acquires fame for learning is called "sāman", that is, they say he behaves toward others with an equal regard for all, as toward himself. Otherwise, if he shows partiality in dealing with others, they condemn him as "asāmanya". In the same way here also, since the Sāma mantra, which is of the nature of song, is one, they say that it has pre-eminence.
+
+ते वै पंचान्यद्भूत्वा पंचान्यद्भूत्वा कल्पेतामाहावश्च हिंकारश्च प्रस्तावश्च प्रथमा च यगुद्दीफश्च मध्यमा च प्रतिहारश्चोत्तमा च निधनं च वषट्कारश्च । (*te vai paṃcānyadbhūtvā paṃcānyadbhūtvā kalpetāmāhāvaśca hiṃkāraśca prastāvaśca prathamā ca yaguddīphaśca madhyamā ca pratihāraścottamā ca nidhanaṃ ca vaṣaṭkāraśca |*)
+
+For the convenience of sacrificial rites, five kinds of divisions have been devised in both kinds of mantra, Ṛk and Sāma. That is, in the śastra mantras belonging to the Ṛgveda there are five members: (1) the āhāva; (2–4) the stotriya tṛca, that is, three Ṛks, the first Ṛk, the middle Ṛk and the last Ṛk; (5) the vaṣaṭkāra recited at the end of the yājyā mantra. These five belong to the śastra mantras and to the Ṛgveda. In the Sāma mantra there are five divisions or members: (1) the hiṅkāra "hiṃ"; (2) prastāva; (3) uddītha; (4) pratihāra; (5) nidhana. These five are members of the Sāma, which is of the nature of a hymn of praise. Their explanation is as follows.
+
+### Printed p. 57
+
+1. The five members of the śastra mantras:
+   1. The āhāva: the mantra "śoṃ 3 sāvoṃ 3" recited at the beginning of the mantra.
+   2. The first Ṛk of the three Ṛks called the tṛca.
+   3. The second Ṛk of the same.
+   4. The third Ṛk of the same.
+   5. The vaṣaṭkāra, "vauṣaṭ", added and recited at the end of the yājyā mantra.
+
+These five are the śastra mantras containing Ṛgveda mantras. They are recited by the priests of the Hotṛ group.
+
+2. In the same way, the five members of the Sāma mantra:
+   1. The hiṅkāra, "hiṃ". The priest called the Udgātṛ recites it at the beginning of the Sāma-singing.
+   2. The prastāva. The priest called the Prastotṛ sings it.
+   3. The uddītha. The priest called the Udgātṛ sings it.
+   4. The pratihāra. The priest called the Pratihartṛ sings it.
+   5. The nidhana. At the end of the Sāma-singing all the priests of the Udgātṛ group together sing it.
+
+As indicated above, a correspondence is seen between the five members of the śastra mantra and the five members of the Sāma mantra. Because of this correspondence the niṣkevalya śastra is said to be excellent. In the Taittirīya Saṃhitā the five divisions of members of the Sāma mantra and their presiding deities are stated:
+
+वायुर्हिंकर्ताग्निः प्रस्तोता प्रजापतिः साम बृहस्पतिरुद्गाता विश्वे देवा उपगातारो मरुतः प्रतिहर्तार इंद्रो निधनं ते देवाः । (*vāyurhiṃkartāgniḥ prastotā prajāpatiḥ sāma bṛhaspatirudgātā viśve devā upagātāro marutaḥ pratihartāra iṃdro nidhanaṃ te devāḥ |*) (Tai. Saṃ. 3-3-2-1)
+
+That is, of the members of the Sāma-singing, the presiding deities are: Vāyu for the hiṅkāra, Prajāpati for the prastāva, Bṛhaspati for the uddītha (there is the special point here that the Viśve Devāḥ are the upagātṛs), the Marut deities for the pratihāra, and Indra for the nidhana. Here "Viśve Devāḥ" means all the gods. Upagāna means all singing together. At the end of the singing, the first hiṅkāra and the last
+
+### Printed p. 58
+
+nidhana are sung together by all the gods. Therefore the statement विश्वे देवा उपगातारः (*viśve devā upagātāraḥ*) is made here. It is said here that for the whole Sāma mantra made of these five kinds of members, Prajāpati, the begetter of all the gods, is the presiding deity.
+
+ते यत्पंचान्यद्भूत्वा पंचान्यद्भूत्वा कल्पेतां तस्मादाहुः पांक्तो यज्ञः पांक्ताः पशवः । (*te yatpaṃcānyadbhūtvā paṃcānyadbhūtvā kalpetāṃ tasmādāhuḥ pāṃkto yajñaḥ pāṃktāḥ paśavaḥ |*)
+
+The fivefold division of the Sāma and the śastra mantras is described in another way. Because the Sāma mantra and the śastra mantra each have five divisions of members as said above, and because the Sāma and śastra mantras hold a very important place in the sacrifice, the sacrifice too came to have five divisions of members. Hence, just as the Paṅkti metre has five pādas, the sacrifice also contains five divisions. So they say "the sacrifice is of the Paṅkti kind"; and since animals too have five members, four feet and one mouth, they state a likeness of the sacrifice to animals in respect of the five members.
+
+यदु विराजं दशिनीमभिसमपद्येतां तस्मादाहुर्विराजि यज्ञो दशिन्यां प्रतिष्ठित इति । (*yadu virājaṃ daśinīmabhisamapadyetāṃ tasmādāhurvirāji yajño daśinyāṃ pratiṣṭhita iti |*)
+
+Another illustration is given concerning the sacrifice. The pāda of the Virāṭ metre has ten syllables (that it has just ten syllables is not right; there is a difference). The five members of the Sāma mantra and the five members of the śastra mantra together make ten members. These ten members are like the ten syllables of the Virāṭ metre. Since there are ten divisions in both, they say that just as the Virāṭ metre shines with its ten syllables, so the sacrifice shines with the ten members of the Sāma and śastra mantras.
+
+आत्मा वै स्तोत्रियः प्रजानुरूपः पत्नि धाय्या पशवः प्रगाथो गृहाः सूक्तं । स वा अस्मिंश्च लोकेऽमुष्मिंश्च प्रजया च पशुभिश्च गृहेषु वसति य एवं वेद । (*ātmā vai stotriyaḥ prajānurūpaḥ patni dhāyyā paśavaḥ pragātho gṛhāḥ sūktaṃ | sa vā asmiṃśca loke 'muṣmiṃśca prajayā ca paśubhiśca gṛheṣu vasati ya evaṃ veda |*) (Ai. Brā. 12-23)
+
+Just as the Sāma mantra and the śastra mantra have five divisions each, so the niṣkevalya śastra also has five divisions: stotriya, anurūpa, dhāyyā, pragātha and the nivid-containing sūkta. Of these, the tṛca (three Ṛks) sung by the Sāma-singers at the beginning of the niṣkevalya śastra mantras is called stotriya, or the stotriya tṛca. Following this stotriya tṛca, another tṛca like it is sung. This tṛca, sung the second time, is called anurūpa. The mantra inserted in the middle of the śastra mantras is called dhāyyā. The chief Sāma mantra such as the Rathantara
+
+### Printed p. 59
+
+is called pragātha. The sūkta that describes the qualities of the deities is called the nivit sūkta. For these five mantras different positions are assigned here and they are described by the illustration of a householder. Thus: the stotriya is the self in the householder's body; the anurūpa is the son; the dhāyyā mantra is the wife; the pragātha is the animal (the cow); the nivid-containing sūkta is the house.
+
+Here are explained the mantras recited in the five divisions of the niṣkevalya śastra: (1) stotriya, (2) anurūpa, (3) dhāyyā, (4) pragātha, (5) the nivid-containing sūkta.
+
+1. (1) The stotriya mantras:
+
+अभि त्वा शूर नोनुमोऽदुग्धा इव धेनवः । ईशानमस्य जगतः स्वर्दृशमीशानमिंद्र तस्थुषः ॥ (*abhi tvā śūra nonumo 'dugdhā iva dhenavaḥ | īśānamasya jagataḥ svardṛśamīśānamiṃdra tasthuṣaḥ ‖*)
+(Ṛ. Saṃ. 7-32-22; Sāma. 233, 680; Atharva. 20-121-1; Vāja. Saṃ. 27-35; Tai. Saṃ. 2-4-14-2)**NOTE**
+
+न त्वावा अन्नो दिव्यो न पार्थिवो न जातो न जनिष्यते । अश्वायंतो मघवन्निंद्र वाजिनो गव्यंतस्त्वा हवामहे ॥ (*na tvāvā anno divyo na pārthivo na jāto na janiṣyate | aśvāyaṃto maghavanniṃdra vājino gavyaṃtastvā havāmahe ‖*)
+(Ṛ. Saṃ. 7-32-23; Sāma. 681; Atharva. 20-121-2; Vāja. Saṃ. 27-36)
+
+The Hotṛ and the Sāma-singers make these two Ṛks into three Ṛks and recite them. This is the stotriya mantra recited at the beginning. It is also called the Rathantara Sāma. How these two Ṛks are sung as three Ṛks and in five divisions we explain here:
+
+First Ṛk:
+(1) Prastāva: हुं । अभि त्वा शूरनोनुमो वा ॥ (*huṃ | abhi tvā śūranonumo vā ‖*)
+(2) Udgītha: ओमादुग्ना इव धेनव ईशानमस्य जगतः सुवा ईशां ॥ (*omādugnā iva dhenava īśānamasya jagataḥ suvā īśāṃ ‖*)
+(3) Pratihāra: आ ईशानमा इंद्रा ॥ (*ā īśānamā iṃdrā ‖*)
+(4) Upadrava: सुस्थुषा ओवा हा उवा ॥ (*susthuṣā ovā hā uvā ‖*)
+(5) Nidhana: अस् ॥ (*as ‖*)
+
+### Printed p. 60
+
+Second Ṛk:
+(1) Prastāva: इशो वा । (*iśo vā |*)
+(2) Udgītha: ओनामिंद्र सुस्थ षोनत्वावा अन्नो दिवियो न पार्थिवाः । (*onāmiṃdra sustha ṣonatvāvā anno diviyo na pārthivāḥ |*)
+(3) Pratihāra: न जातो नाजा । (*na jāto nājā |*)
+(4) Upadrava: नाइष्याता ओवा हा उवा । (*nāiṣyātā ovā hā uvā |*)
+(5) Nidhana: अस् ॥ (*as ‖*)
+
+Third Ṛk:
+(1) Prastāva: नजोवा । (*najovā |*)
+(2) Uddītha: ओतोन जनिष्यते आश्वायंतो मघवन्निंद्रवाजिनाः । (*otona janiṣyate āśvāyaṃto maghavanniṃdravājināḥ |*)
+(3) Pratihāra: गव्यंतस्त्वाहा । (*gavyaṃtastvāhā |*)
+(4) Upadrava: वामाहा ओवा हा उवा । (*vāmāhā ovā hā uvā |*)
+(5) Nidhana: अस् ॥ (*as ‖*)
+
+2. (2) Anurūpa. In this too there are only two Ṛks. They recite it as three Ṛks. This anurūpa mantra also must begin with the very words "abhitvā" with which the stotriya mantra begins:
+
+अभि त्वा पूर्वपीतय इंद्र स्तोमेभिरायवः । समीचीनास ऋभवः समस्वरन् रुद्रा गृणंत पूर्व्यं ॥ (*abhi tvā pūrvapītaya iṃdra stomebhirāyavaḥ | samīcīnāsa ṛbhavaḥ samasvaran rudrā gṛṇaṃta pūrvyaṃ ‖*)
+(Ṛ. Saṃ. 8-3-7; Sāma. 256, 1573; Atharva. 20-99-1)
+
+अस्यॆदिंद्रो वावृधे वृष्ण्यं शवो मदे सुतस्य विष्णवि । अद्या तमस्य महिमानमायवोऽनु ष्टुवंति पूर्वथा ॥ (*asyèdiṃdro vāvṛdhe vṛṣṇyaṃ śavo made sutasya viṣṇavi | adyā tamasya mahimānamāyavo 'nu ṣṭuvaṃti pūrvathā ‖*)
+(Ṛ. Saṃ. 8-3-8; Sāma. 1574; Atharva. 20-99-2; Vāja. Saṃ. 33-97)
+
+(3) The dhāyyā mantra:
+
+यद्वावान पुरुतमं पुराषाळा वृत्रहेंद्रो नामान्यप्राः । अचेति प्रासहस्पतिस्तुविष्मान् यदीमुश्मसि कर्तवे करत्तत् ॥ (*yadvāvāna purutamaṃ purāṣāḷā vṛtraheṃdro nāmānyaprāḥ | aceti prāsahaspatistuviṣmān yadīmuśmasi kartave karattat ‖*)
+(Ṛ. Saṃ. 10-74 6)**NOTE**
+
+(4) Pragātha or Sāma-pragātha:
+
+पिबा सुतस्य रसिनो मत्सा न इंद्र गोमतः । आपिर्नो बोधि सधमाद्यो वृधे ३ ऽस्मा अवंतु ते धियः ॥ (*pibā sutasya rasino matsā na iṃdra gomataḥ | āpirno bodhi sadhamādyo vṛdhe 3 'smā avaṃtu te dhiyaḥ ‖*)
+(Ṛ. Saṃ. 8-3-1; Sāma. 239, 1421)
+
 ---
 
-**Progress note:** Done through printed p. 54. pp. 49-54 (batch API)
+**Progress note:** Done through printed p. 60. pp. 55-60 (batch API)
