@@ -19910,6 +19910,165 @@ The Upaniṣads and other texts praise his divine knowledge, saying that Vāmade
 तदुक्तमृषिणा—गर्भे नु सन्नन्वेषां .... .... .... इति । गर्भ ए वैतच्छयानो वामदेव एवमुवाच ॥ (*taduktamṛṣiṇā—garbhe nu sannanveṣāṃ .... .... .... iti | garbha e vaitacchayāno vāmadeva evamuvāca ‖*)
 (I. U. 9.5)**NOTE**
 
+### Printed p. 664
+
+The text continues the account of Vāmadeva's divine knowledge. In all three states that bind a man, beginning with birth, a man falls into the ocean of saṃsāra and wanders in it. The Vāmadeva Ṛṣi has declared that such a man is freed from the bondage of saṃsāra the moment he knows the nature of the Self. While still in his mother's womb, he says, "I have come to know all the births of the deities, of Vāk, Agni and the rest. The limbs of the body were bonds to me, like iron bars. As a hawk breaks the net and flies off with the speed of the wind, so I too, the moment I was without bonds, flew out with the strength gained from knowledge of the Self." Vāmadeva spoke this utterance while still in the womb.
+
+स एवं विद्वानस्माच्छरीरभेदादूर्ध्व उत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान् कामानाप्त्वामृतः समभवत्समभवत् ॥ (*sa evaṃ vidvānasmāccharīrabhedādūrdhva utkramyāmuṣmin svarge loke sarvān kāmānāptvāmṛtaḥ samabhavatsamabhavat ‖*) (I. U. 2-6) **NOTE**
+
+The moment Vāmadeva had knowledge of the Self, the body was split. That is, the chain of bodies, imagined through ignorance, hard like things of iron and an extremely firm bondage, joined to hundreds of series of misfortunes such as birth and death, all the fetters in the form of nescience were destroyed as soon as he tasted the nectar of knowledge of the Supreme Self. Then, having the nature of the Supreme Self and having attained the state of being the Self of all, he became immortal.
+
+ब्रह्मविद्यासाधनकृतसर्वात्मभावफलावाप्तिं नामदेवाद्याचार्यपरंपरया श्रुत्या अवद्योत्यमानां ब्रह्मवित्परिषदि अत्यंतप्रसिद्धां उपलभमाना मुमुक्षवः अधुनातनाः ब्रह्मजिज्ञासवः अनित्यात् साध्यसाधनलक्षणात् संसारात् आजीवभावाद्व्याविवृत्सवो विचारयंतोऽन्योन्यं पृच्छंति ।.... यदेतद्हृदयं मनश्चैतत् ॥ (*brahmavidyāsādhanakṛtasarvātmabhāvaphalāvāptiṃ nāmadevādyācāryaparaṃparayā śrutyā avadyotyamānāṃ brahmavitpariṣadi atyaṃtaprasiddhāṃ upalabhamānā mumukṣavaḥ adhunātanāḥ brahmajijñāsavaḥ anityāt sādhyasādhanalakṣaṇāt saṃsārāt ājīvabhāvādvyāvivṛtsavo vicārayaṃto 'nyonyaṃ pṛcchaṃti |.... yadetadhṛdayaṃ manaścaitat ‖*) (Ai. U. Śa. Bhā. 3-1) **NOTE**
+
+That the fruit called the state of being the Self of all is obtained by the means that is the knowledge of Brahman has been made clear by the tradition of teachers beginning with Vāmadeva and by the Śruti passages composed by them. Those who wish to be freed from impermanent saṃsāra, and those who desire to know Brahman, are questioning one another on this matter: "Who is the Self? How is it to be worshipped?" and so on. The divine knowledge of Vāmadeva is praised because even for such questions the utterances of seers like Vāmadeva are the authority. The meaning is that when the divine knowledge "I am Brahman" arises, as Vāmadeva knew it, people are freed from saṃsāra just as Vāmadeva was.
+
+### Printed p. 665
+
+ब्रह्म वा इदमग्र आसीत्तदात्मानमेवावेत् । अहं ब्रह्मास्मीति । तस्मात्तत्सर्वमभवत्तद्यो यो देवानां प्रत्यबुध्यत स एव तदभवत्तथर्षिणां तथा मनुष्याणां तद्भैतत्पश्यन्नृषिर्वामदेवः प्रतिपेदेऽहं मनुरभवं सूर्यश्चेति । तदिदमप्येतर्हि य एवं वेदाहं ब्रह्मास्मीति स इदं सर्वं भवति॥ (*brahma vā idamagra āsīttadātmānamevāvet | ahaṃ brahmāsmīti | tasmāttatsarvamabhavattadyo yo devānāṃ pratyabudhyata sa eva tadabhavattatharṣiṇāṃ tathā manuṣyāṇāṃ tadbhaitatpaśyannṛṣirvāmadevaḥ pratipede 'haṃ manurabhavaṃ sūryaśceti | tadidamapyetarhi ya evaṃ vedāhaṃ brahmāsmīti sa idaṃ sarvaṃ bhavati‖*) (Bṛ. U. 1-4-10)
+
+At first, before creation, only Brahman existed. It gained the knowledge of the Self, "I am Brahman." Therefore it attained the state of being the Self of all and became all-pervading. Among the deities too, whoever gained this knowledge attained this same state. The seers and men too gained perfection by this means in the form of knowledge. Vāmadeva also, having gained this same knowledge of Brahman, declared his state of being the Self of all: "I was Manu, I was Sūrya." Thus the nature of the knowledge of Brahman is taught: all who gain the knowledge "I am Brahman" attain perfection in the form of being the Self of all.
+
+Vāmadeva's utterance "I was Manu" is quoted in the Vedānta Sūtra, and there it has given occasion for a statement of meaning in the inquiry into the nature of the knowledge of Brahman.
+
+शास्त्रदृष्टि तपदेशो नामदेववत् (*śāstradṛṣṭi tapadeśo nāmadevavat*) (Bra. Sū. 1-1-31)
+
+In the passage of the Chāndogya Upaniṣad अनेन जीवेनात्मनानुप्रविश्य नामरूपे व्याकरवाणीति (*anena jīvenātmanānupraviśya nāmarūpe vyākaravāṇīti*) (Chā. U. 6-3-2), "entering all places in the form of the living self, he becomes modified by the respective names and forms." The relation of identity between Brahman and the deity that holds there is understood in the same way from Vāmadeva's utterances such as "I was Manu." But here it has also given room to the debate between dualism and non-dualism, whether the individual nature of the living self is one with the principle of Brahman or distinct from it. This question is not now in hand. The main point is that the divine knowledge of Vāmadeva is praised in all the Śruti passages, and all the Śrutis, the Brāhmaṇas and the rest, somewhere or other quote and discuss the utterance of this great seer.
+
+### Printed p. 666
+
+## Sūkta 1 (Maṇḍala 4)
+
+The first sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वामदेव्ये चतुर्थे मंडले पंचानुवाकाः । तत्र प्रथमेऽनुवाके दश
+> सूक्तानि । तेषु त्वां ह्यग्ने सदमिदिति विंशत्यृचं प्रथमं सूक्तं । अत्रेयमनुक्रमणिका । त्वां ह्यग्ने विंशतिरष्ट्यतिजगतीधृतय आद्या उपाद्याश्चतस्रो
+> वारुण्यश्च वेति । मंडलद्रष्टा वामदेवऋषिः । प्रथमा चतुःषष्ट्यक्षराष्टिर्द्वितीया
+> द्विपंचाशदक्षरातिजगती तृतीया द्विसप्तत्यक्षरा धृतिश्चतुर्थाद्या अनादेशपरिभाषया
+> सप्तदश त्रिष्टुभः । कृत्सस्य सूक्तस्य मंडलादिष्टाग्नेयमिति परिभाषयाग्निर्देवता
+> द्वितीयाद्याश्चतस्रो वरुणदेवत्या वा ॥ सूक्तविनियोगो लैंगिकः ॥ आद्याध्यायो
+> पाकरणे मंडलादिहोमे विनियुक्ता ॥
+> अनुवादवु—वामदेवऋषिदृष्टवाद ई नाल्कनॆय मंडलदल्लि ऐदु अनुवाकगळिरुववु
+> अवुगळल्लि मॊदलनॆय अनुवाकदल्लि हत्तु सूक्तगळिरुववु. आ हत्तु सूक्तगळल्लि त्वां ह्यग्ने
+> सदमित् ऎंब ई सूक्तवु मॊदलनॆयदु. इदरल्लि इप्पत्तु ऋक्कुगळिरुववु. अनुक्रमणिकॆयल्लि—
+> त्वां ह्यग्ने विंशतिरष्टृतिजगतीधृतय आद्या उपाद्याश्चतस्रो वारुण्यश्च ना ऎंदु
+> हेळिरुवुदु. ई सूक्तक्कॆ मंडलद्रष्टृवाद वामदेवने ऋषियु ; ई सूक्तदल्लि अरवत्तुनाल्कु
+> अक्षरगळुळ्ळ मॊदलनॆय ऋक्कु अष्टि ऎंब छंदस्सिनदु ; ऐवत्तॆरडु अक्षरगळुळ्ळ ऎरडनॆय ऋक्कु
+> अतिजगतीछंदस्कवु ; ऎप्पत्तॆरडु अक्षरगळुळ्ळ मूरनॆय ऋक्कु धृति ऎंब छंदस्सिनदु ; नाल्कनॆय
+> ऋक्किनिंद सूक्तद कॊनॆयवरॆगिन हदिनेळु ऋक्कुगळू त्रिष्टुप् छंदस्कवु. मंडलादिष्टाग्नेयं—मंडलद प्रारंभद सूक्तवु अग्नि देवताकवागिरुवुदु ऎंब परिभाषॆगनुसारवागि
+> ई मॊदलनॆय पूर्ता सूक्तक्कॆ अग्नियु देवतॆयु ; ऎरडनॆय ऋक्किनिंद नाल्कु ऋक्कुगळिगॆ
+> (२-५ ऋक्कुगळिगॆ) अग्नि अथवा वरुणनु देवतॆयु. सूक्तविनियोगवु लैंगिकवु. ई सूक्तद
+> मॊदलनॆय ऋक्कन्नु अध्यायोत्सर्जन उपाकर्महोमगळल्लि मंडलहोमक्कागि विनियोगि
+> सुव रूढि इरुवुदु.
+
+##### Gist of the bhāṣya
+
+In the fourth maṇḍala, called Vāmadevya, there are five anuvākas. In the first anuvāka there are ten sūktas. Among them the first is the sūkta of twenty ṛks beginning त्वां ह्यग्ने सदमित् (*tvāṃ hyagne sadamit*). He cites the Anukramaṇikā: the twenty ṛks beginning त्वां ह्यग्ने (*tvāṃ hyagne*) are in the metres aṣṭi, atijagatī and dhṛti, and the Vāruṇī ṛks are mentioned there. **NOTE**. The seer is Vāmadeva, the seer of the maṇḍala. The first ṛk has sixty-four syllables and is aṣṭi; the second has fifty-two syllables and is atijagatī; the third has seventy-two syllables and is dhṛti. By the rule of unspecified cases, the seventeen from the fourth are triṣṭubh. The deity of the whole sūkta is Agni, by the rule that the first sūkta of a maṇḍala is Āgneya; or else the second and the following four ṛks have Varuṇa as deity. The use of the sūkta is that stated in the Liṅga (laiṅgika). The first ṛk is employed in the Maṇḍala-ādi homa in connection with the Adhyāya-upākaraṇa. **NOTE**
+
+Anuvāda (Kannada, within the same block): In this fourth maṇḍala, seen by the Vāmadeva Ṛṣi, there are five anuvākas. In the first anuvāka there are ten sūktas. Of these ten, this sūkta beginning त्वां ह्यग्ने सदमित् (*tvāṃ hyagne sadamit*) is the first. It has twenty ṛks. In the Anukramaṇikā it is stated: त्वां ह्यग्ने विंशतिरष्टृतिजगतीधृतय आद्या उपाद्याश्चतस्रो वारुण्यश्च ना (*tvāṃ hyagne viṃśatiraṣṭṛtijagatīdhṛtaya ādyā upādyāścatasro vāruṇyaśca nā*). The seer of this sūkta is Vāmadeva, the seer of the maṇḍala. In this sūkta the first ṛk, of sixty-four syllables, is in the metre called aṣṭi; the second, of fifty-two syllables, is in atijagatī; the third, of seventy-two syllables, is in the metre called dhṛti; and the seventeen ṛks from the fourth to the end of the sūkta are in triṣṭubh. According to the rule मंडलादिष्टाग्नेयं (*maṃḍalādiṣṭāgneyaṃ*), that the opening sūkta of a maṇḍala has Agni as deity, Agni is the deity of this whole first sūkta; for the four ṛks from the second (ṛks 2-5) the deity is Agni or Varuṇa. The use of the sūkta is that stated in the Liṅga. It is the custom to employ the first ṛk of this sūkta for the Maṇḍala-homa in the Adhyāyotsarjana and Upākarma homas.
+
+### Printed p. 667
+
+> ॥ ओं ॥
+> सूक्त-१
+> मंडल—४ ॥ अनुवाक—१ ॥ सूक्त—१ ॥
+> अष्टक—३ ॥ अध्याय—४ ॥ वर्ग—१२, १३, १४, १५ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—२० ॥
+> ऋषिः—वामदेवः ॥
+> देवता—१, ६-२० अग्निः । २-५. अग्निरग्निर्वा वरुणश्च ॥
+> छंदः—१. अष्टिः । २. अतिजगती । ३. धृतिः । ४-२०.
+> त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां ह्यग्ने सदमित्समन्यवो देवासो देवमरतिं नैरिर  
+> इति क्रत्वा नैरिरे ।  
+> अमर्त्यं यजत मर्त्येष्वा देमादेवं जनतप्रचेतसं  
+> विश्वमादेवं जनत प्रचेतसं ॥ १ ॥
+
+> *tvāṃ hyagne sadamitsamanyavo devāso devamaratiṃ nairira*  
+> *iti kratvā nairire |*  
+> *amartyaṃ yajata martyeṣvā demādevaṃ janatapracetasaṃ*  
+> *viśvamādevaṃ janata pracetasaṃ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । हि । अग्ने । सदं । इत् । समन्यवः । देवासः । देवं । अरतिं । निएरिरे ।  
+> इति । क्रत्वा । निएरिरे ।  
+> अमर्त्यं । यजत । मर्त्येषु । आ । देवं । आदेवं । जनत । प्रचेतसं । विश्वं ।  
+> आदेवं । जनत । प्रचेतसं ॥ १ ॥
+
+> *tvāṃ | hi | agne | sadaṃ | it | samanyavaḥ | devāsaḥ | devaṃ | aratiṃ | nierire |*  
+> *iti | kratvā | nierire |*  
+> *amartyaṃ | yajata | martyeṣu | ā | devaṃ | ādevaṃ | janata | pracetasaṃ | viśvaṃ |*  
+> *ādevaṃ | janata | pracetasaṃ ‖ 1 ‖*
+
+### Printed p. 668
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नामदेवः स्तौति । हे अग्ने समन्यवः । मन्युः स्पर्धा । तया सह वर्तमानाः । स्वसमानैः स्पर्धामाना इत्यर्थः । देवासो देवनशीला इंद्रादयो
+> देवा देवं द्योतमानमरतिं शीघ्रं गंतारं त्वां सदमित्सदैव नैरिरे हि। स्पर्धानिमित्ते युद्धे प्रेरयंति खुलु । इतिशब्दो हेत्वर्थः । यस्माद्देवास्तां
+> युद्दार्थं नितरां प्रेरयंति तस्माद्यजमानाः क्रत्वा स्तुतिलक्षेन कर्मणा नैरिरे ।
+> यज्ञकर्मणि देवान्हविः प्रापयितुं देवानाह्वातुं च त्वां नितरां प्रेरयंति
+> खलु । यजत यजनीय हे अग्ने अमर्त्यं मरणधर्मरहितमा सर्वतो देवं
+> द्योतमानं प्रचेतसं । प्रकृष्टं कर्मविषयं चेतो ज्ञानं यस्य तादृशं त्वां
+> मर्त्येषु यागं कुर्वाणेषु मनुष्यॆष्वादेवनागंतारं जनत । देवा हविःश्रपणार्थमजनयन् । तथा प्रचेतसं कर्माभिज्ञमादेवं तत्तद्यज्ञॆष्टागंतारं त्वां
+> विश्वं जनत । युगपन्नानादेशवर्तिषु यज्ञेषु यौगपद्येन हविरानयनार्थं
+> व्याप्तं देवा अकुर्वन् ॥ नैरिरे । ईर गतौ । लिट मंत्रत्वादान्नु भवति । सहेति
+> योगविभागात्समासः । हियोगादनिघातः । क्रत्वा । जसादिषु छंदसि वावचनमिति
+> नादेशाभावः । यणादेशः ॥
+
+##### Gist of the bhāṣya
+
+Vāmadeva praises. O Agni, the gods are समन्यवः (*samanyavaḥ*): manyu is rivalry, so "existing together with it", that is, rivalling their own equals. The gods, the Indras and others who are of shining nature, ever (सदमित् (*sadamit*), "always") urge you, who are shining and swift-going (अरतिं (*aratiṃ*)), into battle that arises from rivalry. The word इति (*iti*) has the sense of cause: because the gods urge you strongly for battle, therefore the sacrificers also urge you strongly, by क्रत्वा (*kratvā*), the act of praise, in the sacrificial rite, to convey the oblation to the gods and to call the gods. O adorable Agni, you who are immortal, free from the nature of death, shining on every side, प्रचेतसं (*pracetasaṃ*), one whose mind or knowledge concerning rites is excellent: the gods generated you as one who comes to men who perform sacrifice (मर्त्येषु (*martyeṣu*)), आदेवं (*ādevaṃ*), to cook the oblation. Likewise, knowing the rites and coming to this and that sacrifice, the gods made you विश्वं (*viśvaṃ*), pervading, so as to bring the oblation at one and the same time to sacrifices taking place in different regions.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- समन्यवः (*samanyavaḥ*)—rivalling one another
+- देवासः (*devāsaḥ*)—the gods
+- देवं (*devaṃ*)—shining
+- अरतिं (*aratiṃ*)—swift-moving
+- त्वां (*tvāṃ*)—you
+- सदमित् (*sadamit*)—always
+- नैरिरे हि (*nairire hi*)—urge (to battle), do they not? (for that very reason the sacrificers also)
+- क्रत्वा (*kratvā*)—by the act in the form of praise
+- नैरिरे (*nairire*)—urge (you, in order to call the gods)
+- यजत (*yajata*)—Agni, worthy of sacrifice
+- अमर्त्यं (*amartyaṃ*)—deathless
+- आ (*ā*)—everywhere
+- देवं (*devaṃ*)—shining
+- प्रचेतसं (*pracetasaṃ*)—possessed of excellent knowledge, you
+- मर्त्येषु (*martyeṣu*)—among men who perform sacrifice
+- आदेवं (*ādevaṃ*)—as one who always comes
+- जनत (*janata*)—(the gods) have known
+- प्रचेतसं (*pracetasaṃ*)—possessed of knowledge of rites
+- आदेवं (*ādevaṃ*)—one who comes for each sacrifice, you
+- विश्वं जनत (*viśvaṃ janata*)—made you pervade the world and take part in all sacrifices
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the gods, rivalling one another, always urge you, who are shining and swift-moving, to battle. For that same reason the sacrificers too, by the act in the form of praise, urge you for the calling of the gods. O Agni, worthy of sacrifice, the gods have known you, deathless, shining everywhere and possessed of excellent knowledge, as dwelling among men who perform sacrifice. You, who have knowledge concerning rites and who come for each sacrifice, those gods made all-pervading, so as to take part in all sacrifices.
+
+### Printed p. 669
+
+##### English translation (H. H. Wilson)
+Since the emuolus gods ever excite you, Agni, who is a deity swift of motion, (to contest), therefore do (your worshippers) urge you by their devotions (to bring the deities to their sacrifices) : adorable Agni, they (the deities), have generated you, immortal, divine, all-wise, as the present divinity among men : they have generated you as the all-wise deity. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+The first ṛk of this sūkta is in the metre called aṣṭi. The second ṛk is in atijagatī and the third in the metre called dhṛti. The peculiarity of these ṛks is that one or two words at the end of the first half and of the second half of the ṛk (of the last half, where a ṛk has three halves) are recited twice. That is, they are not recited twice in one place; one or two words stand between them. For example, in नैरिर इति क्रत्वा नैरिरे (*nairira iti kratvā nairire*) the word नैरिरे (*nairire*) is recited twice, and between these words stand the words इति क्रत्वा (*iti kratvā*). It is the same in प्रचेतसं विश्वमादेवं जनत प्रचेतसं (*pracetasaṃ viśvamādevaṃ janata pracetasaṃ*). Such rhyme is used with the purpose that it be pleasant to the ear when recited. The Bhāṣyakāra, however, in some places explains a separate meaning for the words recited twice. This kind of metre and rhyme is found especially in the sūktas seen by the seer Paruchchhepa, son of Divodāsa, that is, in sūktas 127-139 of the first maṇḍala.
+
+समन्यवः—मन्युः स्पर्धा । तया सह वर्तमानाः । स्वसमानैः स्पर्धमाना इत्यर्थः । (*samanyavaḥ—manyuḥ spardhā | tayā saha vartamānāḥ | svasamānaiḥ spardhamānā ityarthaḥ |*) Although the word manyu has the meanings of anger and wrath, here the Bhāṣyakāra explains it as spardhā (contest) and gives the meaning "those who rival one another among themselves." This word is an adjective of the word देवासः (*devāsaḥ*).
+
+अरतिं—शीघ्रं गंतारं । (*aratiṃ—śīghraṃ gaṃtāraṃ |*) For this word, formed from the root य गतौ (*ya gatau*), the meaning "one who has swift movement" is given.
+
+इति (*iti*)—The word इति (*iti*) is used here in the sense of cause (the sense "therefore").
+
 ---
 
-**Progress note:** Done through printed p. 663. pp. 658-663 (batch API)
+**Progress note:** Done through printed p. 669. pp. 664-669 (batch API)
