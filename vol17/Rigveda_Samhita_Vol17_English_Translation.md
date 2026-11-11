@@ -8060,6 +8060,256 @@ According to the first opinion the serpents and Rākṣasas form one group; acco
 
 In this verse the author of the Bṛhaddevatā says that Yāska's view is the first. But in the Nirukta only the views of others are stated; Yāska has not given his own view precisely. Probably he may have accepted that one.
 
+### Printed p. 218
+
+(The Special Topics of the preceding Ṛk continue.)
+
+ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते । (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate |*) (Bṛ. De. 7-20)
+It is the view of Śākapūṇi that the four priests beginning with the Hotṛ, together with the sacrificer, make up the group of five.
+
+चक्षुःश्रोत्रं मनो वाक् च प्राणश्चेत्यात्मवादिनः । (*cakṣuḥśrotraṃ mano vāk ca prāṇaścetyātmavādinaḥ |*)
+गंधर्वाप्सरसो देवा मनुष्याः पितरस्तथा ॥ (*gaṃdharvāpsaraso devā manuṣyāḥ pitarastathā ‖*)
+सर्पाश्च ब्राह्मणे चैव श्रूयंते हैतरेयके ॥ (*sarpāśca brāhmaṇe caiva śrūyaṃte haitareyake ‖*) (Bṛ. De. 7-21, 22)
+According to the spiritualists, the five peoples are the eye, the ear, the mind, speech and the breath. The Aitareya Brāhmaṇa explains them as the Gandharvas and so on (Ai. Brā. 3-31-5). The Bṛhaddevatā, in explaining that Agni gave the gods the answer "let such five peoples also enjoy the oblation", likewise records these differences of opinion.
+
+पक्ष्या (*pakṣyā*)—पक्षे भवा । (*pakṣe bhavā |*) Because he carries out the divisions of the year such as month and fortnight, the Sun is called "pakṣī". Here the instrumental case of पक्ष्या (*pakṣyā*) is said to have the sense of the genitive.
+
+पलस्तिजमदग्नयः (*palastijamadagnayaḥ*)—पलस्तयः पलितदीर्घायुषो जमदग्नयो मुनयः । (*palastayaḥ palitadīrghāyuṣo jamadagnayo munayaḥ |*) The meaning is: the sages Jamadagni, long-lived, that is, aged men who have lived for a very long time. We explained the derivation of the word Jamadagni in the Special Topics of the previous Ṛk.
+
+The sage Jamadagni is one of the seven sages. The hymns seen by Jamadagni in the Ṛgveda are Ṛ. Saṃ. 3-62-16 to 18 and 10-137-6, four Ṛks in all. The hymns seen by Jamadagni Bhārgava, that is, Jamadagni the son of Bhṛgu: Ṛ. Saṃ. 8-101 (16 Ṛks), 9-62 (30 Ṛks), 9-65 (30 Ṛks), 9-67 (3 Ṛks, verses 16–18); in all 79 Ṛks. Besides, a hymn seen by the two sages Jamadagni and Viśvāmitra together stands in the tenth Maṇḍala, Ṛ. Saṃ. 10-167 (4 Ṛks); in its last verse (Ṛ. Saṃ. 10-167-4) the names of Viśvāmitra and Jamadagni are mentioned together. Further, Jamadagni's name is mentioned in Ṛ. Saṃ. 7-79-3; 9-97-51; Atharvaveda 2-32-3; 4-29-3; 5-28-7; 6-137-1; 18-3-15, 16; Tai. Saṃ. 2-2-12-4; 3-1-7-3; 3-52; 5-2-10-5; 4-11-3; Mai. Saṃ. 2-7-19; 4-2-9; Kāṭhaka Saṃhitā 16-19; 20-9; Vā. Saṃ. 3-62; 13-56; Pañcaviṃśa Brāhmaṇa 9-4-14; 13-5-15; 21-10-5 to 7; 22-7-2; Ai. Brā. 7-16; Śa. Brā. 13-2-2-14; Tai. Ā. 1-9-7; Bṛ. U. 2-2-4;
+
+### Printed p. 219
+
+Jaiminīya Upaniṣad Brāhmaṇa 3-3-11; 4-3-1, and other places. In all these places Jamadagni is regarded as a friend of Viśvāmitra. Only in one place in the Taittirīya Saṃhitā is he indicated as an opponent of Vasiṣṭha.
+
+The distinction of this Jamadagni is that he is famed as having played the part of chief priest in a special sacrifice called Caturātra, performed over four days. This is stated in the Taittirīya Saṃhitā beginning पुष्टिकामश्च तूरात्रॆणायजत (*puṣṭikāmaśca tūrātrèṇāyajata*)**NOTE** and in the Pañcaviṃśa Brāhmaṇa**NOTE** (21-10-5 to 7). In the Atharvaveda (Atharvaveda 2-32-3; 6-137-1) Jamadagni is mentioned along with the sages Atri, Kaṇva, Asita and Vītahavya. As told in the story of Śunaśśepa in the Aitareya Brāhmaṇa (Ai. Brā. 7-16), in Śunaśśepa's sacrifice Jamadagni played the part of the priest called Adhvaryu.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्थि॒रौ गावौ॑ भवतां वी॒ळुरक्षो॒ मेषा वि व॑र्हि॒ मा यु॒गं  ॑
+> वि शारि ।  
+> इंद्रः॑ पात॒ल्ये॑ ददतां॒ शरी॑तो॒ररि॑ष्टनेमे अ॒भि नः॑ सचस्व ॥१७॥
+
+> *sthirau gāvau bhavatāṃ vīḷurakṣo meṣā vi varhi mā yugaṃ*  
+> *vi śāri |*  
+> *iṃdraḥ pātalye dadatāṃ śarītorariṣṭaneme abhi naḥ sacasva ‖17‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्थिरौ । गावौ । भवतां । वीळुः । अक्षः । मा । ईषा । वि । वर्हि । मा । युगं वि शारि ।  
+> इंद्रः । पातल्येऽति । ददतां । शरीतोः । अरिष्टनेमे । अभि । नः । सचस्व ॥ १७ ॥
+
+> *sthirau | gāvau | bhavatāṃ | vīḷuḥ | akṣaḥ | mā | īṣā | vi | varhi | mā | yugaṃ vi śāri |*  
+> *iṃdraḥ | pātalye 'ti | dadatāṃ | śarītoḥ | ariṣṭaneme | abhi | naḥ | sacasva ‖ 17 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> राज्ञः सुदासो यज्ञेऽवभृथं कृत्वा यज्ञशालातो निर्गंतुमिच्छन् रथेऽश्वादिकं युंजानो विश्वामित्रो रथांगानि स्तौति । गावौ । गच्छत इति गावावश्च ।
+> स्थिरौ भवतां । अक्षश्च वीळुर्दृढो भवतु । ईषा दंडश्च मा वि वर्हि । वृद्यो मा
+> भवतु । युगं च मा वि शारि । विशीर्णं मा भवतु । इंद्रः पातल्ये पतनशीले
+> कीलके शरीतोर्विशरणात्पाक् ददतां । धारयतु । हे अरिष्टनेमे अहिंसितप्रधिविशिष्ट हे रथ नोऽस्मानभि अभिमुख्येन सचस्व । संगतो भव ॥ वि वर्हि । वृहि
+> वृद्धौ । विपूर्वो वृहिर्विनाशे वर्तते । आस्मात्कर्मकर्तरि लुजि चिन् भावकर्म-
+
+##### Gist of the bhāṣya
+
+At King Sudās's sacrifice Viśvāmitra, having performed the concluding bath (avabhṛtha) and wishing to leave the sacrificial hall, yokes the horses and the rest to the chariot and praises the parts of the chariot. गावौ (*gāvau*) are the two that go (gacchataḥ); may the two be steady. May the axle be firm and strong. May the pole (īṣā) not be वृद्यो (*vṛdyo*) [sic as in the block]; may the yoke not split, not be shattered. May Indra hold the peg (pātalya), which is prone to fall, before it breaks. O chariot with unharmed felly (ariṣṭanemi), be joined with us, facing us. The rest of the block begins the derivation of वि वर्हि (*vi varhi*) from the root वृहि (*vṛhi*) (to grow), meaning destruction when preceded by वि (*vi*) (grammatical).
+
+### Printed p. 220
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षोरिति चिण् । चिणो लुगिति तप्रत्ययस्य लुक् । निघातः । युगं । युगशब्द उंभादिषु रथाद्युपकरणेऽर्थे घइंतत्वेन निपातनादगुणत्वं । तत्र पाठादंतोदात्तत्वं ।
+> शारि । शृ हिंसायामित्यस्य लुजि रूपं । अरिष्टनेमे । पादादित्वात् षाष्ठिकमाद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+The block contains only grammatical notes (on वि वर्हि (*vi varhi*), युगं (*yugaṃ*), शारि (*śāri*), अरिष्टनेमे (*ariṣṭaneme*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावः (*gāvaḥ*)—the horses
+- स्थिरौ (*sthirau*)—steady
+- भवतां (*bhavatāṃ*)—let them be
+- अक्षः (*akṣaḥ*)—the axle
+- वीळुः (*vīḷuḥ*)—let it be firm
+- ईषा (*īṣā*)—the pole in the middle of the chariot
+- मा वि वर्हि (*mā vi varhi*)—let it not be destroyed
+- युगं च (*yugaṃ ca*)—the yoke also
+- मा वि शारि (*mā vi śāri*)—let it not split
+- इंद्रः (*iṃdraḥ*)—Indra
+- पातल्ये (*pātalye*)—the pegs of the chariot
+- शरीतोः (*śarītoḥ*)—before they split
+- ददतां (*dadatāṃ*)—let him hold
+- अरिष्टनेमे (*ariṣṭaneme*)—O chariot with unharmed felly
+- नः (*naḥ*)—us
+- अभि (*abhi*)—all around
+- सचस्व (*sacasva*)—keep joined
+
+##### भावार्थ (Bhāvārtha)
+
+Let the horses of our chariot be steady. Let its axle be firm. Let the pole in the middle of the chariot not be destroyed, and the yoke not split. Before the pegs of the chariot split, let Indra hold them. O chariot with unharmed felly, keep joined with us.
+
+##### English translation (H. H. Wilson)
+May the horses be steady, the axle be strong, the pole be not defective:
+the yoke not be rotten; may Indra preserve the two yoke-pins from decay .**NOTE**
+car with the uninjured fellies, be ready for us.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the close of King Sudās's sacrifice Viśvāmitra takes the avabhṛtha bath, prepares to leave the sacrificial hall, yokes horses to the chariot, and praises the chariot's parts, that is, wheel, felly, yoke and so on.
+
+गावौ स्थिरौ भवतां (*gāvau sthirau bhavatāṃ*)—गवावश् (*gavāvaś*). Here the horses are addressed by the word "go" (cow). Hence गावौ (*gāvau*) means the two horses yoked to the chariot. The wish is expressed that they be steady, free from fear.
+
+वीळु अक्ष (*vīḷu akṣa*)—the axle of the chariot, that is, the axle-beam between the two wheels. May it be firm, so that it does not break under the weight on a journey.
+
+ईषा मा वि वर्हि (*īṣā mā vi varhi*)—दंडश्च व्यृद्वो मा भवतु । (*daṃḍaśca vyṛdvo mā bhavatu |*) The pole in the middle of the chariot, that is, the long beam fitted with its fastening, is not to be spoilt.
+
+### Printed p. 221
+
+मा युगं वि शारि (*mā yugaṃ vi śāri*)—विशीर्णं मा भवतु । (*viśīrṇaṃ mā bhavatu |*) Let the yoke not split apart.
+
+इंद्रः पातल्ये शरीतो ददतां (*iṃdraḥ pātalye śarīto dadatāṃ*)—पतनशीले कीलके विशरणात् प्राक् इंद्रः धारयतु । (*patanaśīle kīlake viśaraṇāt prāk iṃdraḥ dhārayatu |*) If the pegs are likely to break and fall, may Indra, before they break and fall, hold them firmly so that they do not fall.
+
+अरिष्टनेमे नः अभि सचस्व (*ariṣṭaneme naḥ abhi sacasva*)—अहिंसितप्रधिविशिष्ट हे रथ अस्मानाभिमुख्येन संगतो भव । (*ahiṃsitapradhiviśiṣṭa he ratha asmānābhimukhyena saṃgato bhava |*) O chariot with wheels that harm no one, make ready to depart and come and stand in front of us.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बलं॑ धेहि त॒नूषु॑ नो॒ बल॑मिंद्रान॒ळुत्सु॑ नः ।  
+> बलं॑ तो॒काय॒ तन॑याय जी॒वसे॒ त्वं हि ब॑ल॒दा असि॑ ॥ १८ ॥
+
+> *balaṃ dhehi tanūṣu no balamiṃdrānaḷutsu naḥ |*  
+> *balaṃ tokāya tanayāya jīvase tvaṃ hi baladā asi ‖ 18 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बलं । धेहि । तनूषु । नः । बलं । इंद्र । अनळुत्सु । नः ।  
+> बलं । तोकाय । तनयाय । जीवसे । त्वं । हि । बलदाः । असि ॥ १८ ॥
+
+> *balaṃ | dhehi | tanūṣu | naḥ | balaṃ | iṃdra | anaḷutsu | naḥ |*  
+> *balaṃ | tokāya | tanayāya | jīvase | tvaṃ | hi | baladāḥ | asi ‖ 18 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्माकं तनूषु शरीरेषु बलं धेहि । नोऽस्मत्संबंधिरथवाहेष्टनळुत्सु बलं धेहि । तोकाय पुत्राय तनयाय पौत्राय च जीवसे चिरं
+> जीवनाय बलमायुर्विधेहि । एतादृशं दातृत्वं कुत इत्यत आह। त्वं बलदाः। बलं
+> ददातीति बलदाः । असि हि । सर्वेषु लोकेषु प्रसिद्धोऽसि खलु ॥ अनळुत्तु । वह
+> प्रापणे । अनसि वहेः क्विबनसो दश्चेति क्विप् । अनसः सकारस्य दत्वं । वहेय्यजादित्वात्संप्रसारणं । वसुस्रंसुध्वंस्वनडुहां द इति हकारस्य दत्वं । कृदुत्तरस्वरः ।
+> असि । हियोगादनिघातः । सिपः पित्त्वादनुदात्तत्वे धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, place strength in our bodies; place strength in the animals that draw our chariot (अनळुत्सु (*anaḷutsu*)); for our son and grandson, for long life, bestow strength and long life. Whence such giving? He says: you are बलदाः (*baladāḥ*), giver of strength; for you are renowned thus in all the worlds. The remainder explains अनळुत्सु (*anaḷutsu*) from the root वह (*vaha*) and the accents of असि (*asi*) (grammatical).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—our
+- तनूषु (*tanūṣu*)—in the bodies
+- बलं (*balaṃ*)—strength
+- धेहि (*dhehi*)—give
+- नः (*naḥ*)—our
+- अनळुत्सु (*anaḷutsu*)—to the vehicles (the horses); बलं (*balaṃ*)—give strength
+
+### Printed p. 222
+
+- तोकाय (*tokāya*)—to the son
+- तनयाय (*tanayāya*)—to the grandson
+- जीवसे (*jīvase*)—for a long life
+- बलं (*balaṃ*)—give strength
+- त्वं (*tvaṃ*)—you
+- बलदाः असि हि (*baladāḥ asi hi*)—it is well known that you are the giver of strength
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, fill our bodies with strength. Give strength to our vehicles. Make strength for our sons and grandsons, that they may be long-lived. It is well known that you are the giver of strength to all.
+
+##### English translation (H. H. Wilson)
+Give strength, Indra, to our bodies; give strength to our vehicles; (give) strength to our sons and grandsons; that they may live (long); for you are the giver of strength,
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is prayed that Indra, being mighty, give strength on the journey to us, to the sons, grandsons and others who are with us, and to our vehicles, horses and the rest, and protect them from accidents and the like.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि व्य॑यस्व खदि॒रस्य॒ सार॒मोजो॑ धेहि स्पंद॒ने शिं॒शपा॑यां।  
+> अक्ष॑ वीळो पीळित वी॒ळय॑स्व॒ मा यामा॑द॒स्मादव॑ जीहिपो  
+> नः ॥
+
+> *abhi vyayasva khadirasya sāramojo dhehi spaṃdane śiṃśapāyāṃ|*  
+> *akṣa vīḷo pīḷita vīḷayasva mā yāmādasmādava jīhipo*  
+> *naḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । व्ययस्व । खदिरस्य । सारं । ओजः । धेहि । स्पंदने । शिंशपायां ।  
+> अक्ष । वीळो इति । वीळित । वीळयस्व । मा । यामात् । अस्मात् । अव । जीहिपः ।  
+> नः ॥ १९ ॥
+
+> *abhi | vyayasva | khadirasya | sāraṃ | ojaḥ | dhehi | spaṃdane | śiṃśapāyāṃ |*  
+> *akṣa | vīḷo iti | vīḷita | vīḷayasva | mā | yāmāt | asmāt | ava | jīhipaḥ |*  
+> *naḥ ‖ 19 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र खदिरस्य सारं । सारेण हि आणिः क्रियते । तं खदिरस्य सारभूतमाणिमभि व्ययस्व । अभितस्तत्तत्सा नेषु दार्ढार्थं निधेहि । स्पंदने रथस्य गमने सति
+> शिंतपायां शिंशपाख्यदारुनिर्मिते रथस्य फलक ओजो धेहि । दार्ढ्यं कुरु । हे
+
+##### Gist of the bhāṣya
+
+O Indra, खदिरस्य सारं (*khadirasya sāraṃ*): the linchpin (āṇi) is made of heartwood; fix that linchpin of khadira heartwood all about, in the several places, for firmness. When the chariot is in motion (spandana), give strength to the board (phalaka) of the chariot made of the wood called śiṃśapā; make it firm. O
+
+### Printed p. 223
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वीळो दृढ वीळितास्माभिर्दृढीकृत हे अक्ष वीळयस्व । त्वं दृढो भव । यद्वास्मान्
+> दृढीकुरु । यामाद्धच्छतोस्माद्रथान्नोऽस्मान् माव जीहिपः । मा पीपतः ॥
+> खदिरस्य । अजिरशितिरेत्यादिना किरच् प्रत्ययांतत्वेन निपातनादंतोदात्तः । वीळित ।
+> वीळयतेर्ण्यंतस्य निष्ठायामिडागमः । निष्ठायां सेटि! पा. ६-४-५२। इति णेर्लुक् ।
+> वीळियस्व । आमंत्रितस्याविद्यमानत्वेन पादादित्वादनिघातः । यामात् । या प्रापण
+> इत्यस्मादर्तिस्तु सुहुसृ इत्यादिना मन्प्रत्ययः । नित्त्वादाद्युदात्तः । जीहिपः । ओहाक्
+> त्यागे । ण्यंतस्य लुजि चङि रूपं । अकारस्येकारश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+(continuing) O firm axle, made firm by us, make yourself firm; or else make us firm. From this chariot as it goes, do not let us fall (मा पीपतः (*mā pīpataḥ*)). The rest is grammatical (खदिरस्य (*khadirasya*), वीळित (*vīḷita*), वीळियस्व (*vīḷiyasva*), यामात् (*yāmāt*), जीहिपः (*jīhipaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- खदिरस्य (*khadirasya*)—of the khadira tree
+- सारं (*sāraṃ*)—the linchpin made of its heartwood
+- अभि व्ययस्य (*abhi vyayasya*)—fix so that it be firm
+- स्पंदने (*spaṃdane*)—while the chariot goes
+- शिंशपायां (*śiṃśapāyāṃ*)—to the boards made of śiṃśapā wood
+- ओजः (*ojaḥ*)—strength
+- धेहि (*dhehi*)—give
+- वीळः (*vīḷaḥ*)—firm
+- अक्ष (*akṣa*)—O axle
+- वीळितः (*vīḷitaḥ*)—since fixed firmly by us
+- वीळयस्प (*vīḷayaspa*)—be firm yourself
+- यामात् (*yāmāt*)—when we are going in the chariot
+- नः (*naḥ*)—us
+- मा अव जीहिपः (*mā ava jīhipaḥ*)—do not make us fall down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, fix the linchpin, made of the heartwood of the khadira tree, so that it is firm. While the chariot is going, give strength to the boards made of śiṃśapā wood. O firm axle, since you have been fixed firmly by us, be firm yourself. When we are going in the chariot, do not make us fall down.
+
+##### English translation (H. H. Wilson)
+Fix firmly the substance of the Khayar (axle), give solidity to the shishu
+(floor) of the car : strong axle, strongly fixed by us, be strong ; cast us not
+from out of our conveyance.
+
+##### विशेषविषयगळु (Special Topics)
+
+इंद्र खदिरस्य सारं अभि व्ययस्व (*iṃdra khadirasya sāraṃ abhi vyayasva*)—खदिरस्य सारभूतमाणिं अभितस्तत्तत्स्थानेषु दार्ढार्थ्यर्थं निधेहि । (*khadirasya sārabhūtamāṇiṃ abhitastattatsthāneṣu dārḍhārthyarthaṃ nidhehi |*) The ends of the axle fitted into the holes at the middle of the wheels are called linchpins (āṇi). If the wheel comes off from this linchpin, the chariot falls apart. Therefore the prayer is: with the ends of the axle-beam, made strong of khadira wood, make the chariot wheels stand firm so that they do not slip off.
+
+स्पंदने शिंशपायां ओजः धेहि (*spaṃdane śiṃśapāyāṃ ojaḥ dhehi*)—रथस्य गमने सति शिंशपाख्यदारुनिर्मिते रथस्य फलक ओजो धेहि । (*rathasya gamane sati śiṃśapākhyadārunirmite rathasya phalaka ojo dhehi |*) दार्ढ्यं कुरु (*dārḍhyaṃ kuru*). Make the boards of śiṃśapā wood in the chariot stay firm, neither shaking nor breaking, while the chariot goes fast.
+
 ---
 
-**Progress note:** Done through printed p. 217. pp. 212-217 (batch API, retry 1)
+**Progress note:** Done through printed p. 223. pp. 218-223 (batch API)
