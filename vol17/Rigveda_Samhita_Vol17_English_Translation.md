@@ -565,6 +565,258 @@ the word भूत्वी (*bhūtvī*) is used instead of भूत्वा (
 
 सोमस्य (*somasya*)—सोमं (*somaṃ*). Here the genitive case is used in place of the accusative. Therefore the word सोमस्य (*somasya*) must be given the accusative sense, "Soma, the Soma juice". Or सोमस्य (*somasya*) may be explained as "a small portion of the prepared Soma juice". This meaning is the more suitable. Such usages are a peculiarity of the Ṛgveda literature.
 
+### Printed p. 20
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वा॒वतो॑ न॒ आ ग॑हि परा॒वत॑श्च वृत्रहन् ।  
+> इ॒मा जु॑षस्व नो॒ गिरः॑ ॥ ८ ॥
+
+> *arvāvato na ā gahi parāvataśca vṛtrahan |*  
+> *imā juṣasva no giraḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वावतः । नः । आ । गहि । परावतः । च । वृत्रहन् ।  
+> इमाः। जुषस्व । नः । गिरः ॥ ८ ॥
+
+> *arvāvataḥ | naḥ | ā | gahi | parāvataḥ | ca | vṛtrahan |*  
+> *imāḥ| juṣasva | naḥ | giraḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन्निंद्र अर्वावतोऽर्वाचीनात्समीपाद्देशात्परावतोऽतिदूराद्देशाद्वा नोऽस्मानभिलक्ष्या गहि । आगच्छ । आगत्य च नोऽस्मदीया इमाः स्तुतिलक्षणा
+> गिरो वाचो जुषस्व । सेवस्व ॥ परावतः । उपसर्गाच्छंदसि धात्वर्थ इति वतिः ।
+> प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, slayer of Vṛtra, come towards us, whether from a near place (अर्वावतः (*arvāvataḥ*), "from this side") or from a very distant place (परावतः (*parāvataḥ*)). Having come, accept (जुषस्व (*juṣasva*), "serve") these praise-words (गिरः (*giraḥ*), "speech") of ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Indra, slayer of Vṛtra
+- अर्वावतः (*arvāvataḥ*)—whether from a near place
+- परावतः (*parāvataḥ*)—or from a distant place
+- नः (*naḥ*)—towards us
+- आ गहि (*ā gahi*)—be gracious to come
+- नः (*naḥ*)—our
+- इमाः गिरः (*imāḥ giraḥ*)—these words in the form of praise
+- जुषस्व (*juṣasva*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, whether from near or from a distant place, be gracious to come towards us. Accept these words of ours, which take the form of praise.
+
+##### English translation (H. H. Wilson)
+Slayer of Vritra, whether from nighl or from afar, come to us, accept these our praises.
+
+##### विशेषविषयगळु (Special Topics)
+
+Arvāvataḥ, Parāvataḥ—The word arvāk or arvāke is read among the names of nearness (Ni. 3-9), and the word parāvataḥ among the names of distance (Ni. 3-20). The meaning of this Ṛk is easy. Indra, the destroyer of Vṛtra, whether he is near or far, that is, wherever he may be, is prayed to come towards us (to our vicinity) and hear the praises we offer.
+
+### Printed p. 21
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदं॑त॒रा प॑रा॒वत॑नुर्वा॒वतं॑ च हू॒यसे॑ ।  
+> इंद्रे॒ह तत॒ आ ग॑हि ॥ ९ ॥
+
+> *yadaṃtarā parāvatanurvāvataṃ ca hūyase |*  
+> *iṃdreha tata ā gahi ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अंतरा । परावतं । अर्वावतं । च । हूयसे ।  
+> इंद्र । इह । ततः । आ । गहि ॥ ९ ॥
+
+> *yat | aṃtarā | parāvataṃ | arvāvataṃ | ca | hūyase |*  
+> *iṃdra | iha | tataḥ | ā | gahi ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यस्मिन्नरावतमतिविप्रकृष्टस्य देशस्यार्वावतं संनिकृष्टस्य देशस्य
+> चांतरा तयोर्मध्यदेशे हूयसे सम्यगिज्यसे ततस्तस्माद्देशादिहास्मिन्यज्ञ आ गहि ।
+> सोमपानार्थवागच्छ ॥ परावतं अर्नावतं । अंतरांतरेण युक्ते । पा. २-३-४ ।
+> इति द्वितीया । ततः । पंचम्यास्तसिल् । लित्त्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you are invoked (हूयसे (*hūyase*), "properly worshipped") from the very distant region (परावतं (*parāvataṃ*)), from the near region (अर्वावतं (*arvāvataṃ*)), or from the middle region between the two (अंतरा (*aṃtarā*)), then from that region come here, to this sacrifice, to drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—from whichever
+- परावतं (*parāvataṃ*)—from a very distant region
+- अर्वावतं (*arvāvataṃ*)—or from a very near region
+- च (*ca*)—and also
+- अंतरा (*aṃtarā*)—from the middle region between these
+- हूयसे (*hūyase*)—when you are called
+- ततः (*tataḥ*)—from that region
+- इह (*iha*)—to this sacrifice
+- आ गहि (*ā gahi*)—be gracious to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whether you are called from a very distant region, from a very near region, or from the middle region between these, from that region be gracious to come to this sacrifice.
+
+##### English translation (H. H. Wilson)
+Whether you are called from nigh or from afar, or from mid space, come hither, Indra, from thence.
+
+##### विशेषविषयगळु (Special Topics)
+
+What was said in the previous Ṛk is said again here. Wherever Indra may be, even in the region lying between the far and the near, he is prayed to come to us when we call.
+
+### Printed p. 22
+## Sūkta 41 (Maṇḍala 3)
+Anuvāda: This Sūkta beginning आ तू न इंद्र (*ā tū na iṃdra*) is the third Sūkta in the fourth Anuvāka. It has nine Ṛks. Viśvāmitra is the seer of this Sūkta, Indra the deity, Gāyatrī the metre. In the Anukramaṇikā it is listed as beginning आ तू न (*ā tū na*). In the second Paryāya of the sacrifice called Atirātra, this Sūkta and the next are applied (viniyoga) to the Śastra mantras to be recited by the priest called Brāhmaṇācchaṃsin; this is set out by the Āśvalāyana Śrauta Sūtra, in the sūtra आ तू न इंद्र मद्रगिति सूक्ते (*ā tū na iṃdra madragiti sūkte*) (Ā. Sū. 6-4).
+
+Sūkta 41; Maṇḍala 3; Anuvāka 4; Sūkta 41. Aṣṭaka 3; Adhyāya 3; Vargas 3, 4. Number of Ṛks in the Sūkta: 9. Seer: Viśvāmitra. Deity: Indra. Metre: Gāyatrī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तू न॑ इंद्र म॒द्र॑ग्घुवा॒नः सोम॑पीतये ।  
+> हरि॑भ्यां याह्यद्रिवः ॥ १ ॥
+
+> *ā tū na iṃdra madragghuvānaḥ somapītaye |*  
+> *haribhyāṃ yāhyadrivaḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अ । तु । नः । इंद्र । मद्रक् । हुवानः । सोमपीतये ।  
+> हरिभ्यां । याहि । अद्रिवः ॥ १ ॥
+
+> *a | tu | naḥ | iṃdra | madrak | huvānaḥ | somapītaye |*  
+> *haribhyāṃ | yāhi | adrivaḥ ‖ 1 ‖*
+
+### Printed p. 23
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो हे वज्रन् हे इंद्र हुवानो होतृभिराहूयमानस्त्वं
+> मद्रक् मदभिमुक्ति सन् नोऽस्मदीये यज्ञे सोमपीतये सोमपानार्थं
+> हरिभ्यामशिभ्यां सह तु क्षिप्रिमा याहि ॥ तु । ऋचि तनुघत्यादिना संहितायां
+> दीर्घः । मद्रक् । मामंचतीति ऋत्विगधृगित्यादिना क्विन् । प्रत्ययोत्तरपदयोश्चेत्यस्मच्छब्दस्यैकवचने मपर्यंतस्य मादेशः । विश्वगेवयोश्च टेरदृंचतौ
+> वप्रत्यय इति टेरदि इत्यादेशः । अद्रिसध्योरंतोदात्तत्वनिपातनं कृत्स्वरनिवृत्यर्थमिति वचनादद्रा देशोऽंतोदात्तः । यणादेशे कृत उदात्तस्वरितयोर्यण इति
+> यणः स्वरितत्वं । क्विन्प्रत्ययस्य कुरिति कुत्वं । सोमपीतये ! दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं । आद्रिवः । मतुवसोरिति रुत्वं । आमंत्रितत्वान्निघातः ॥
+
+##### Gist of the bhāṣya
+
+O Adrivat, O wielder of the thunderbolt, O Indra: being called by the Hotṛs, and turning towards me (मद्रक् (*madrak*), "facing me"), come quickly, together with your two horses (हरिभ्यां (*haribhyāṃ*)), to our sacrifice to drink the Soma. [Sāyaṇa then gives the grammar of तु (*tu*), मद्रक् (*madrak*), अद्रिवः (*adrivaḥ*), सोमपीतये (*somapītaye*) and the accent; omitted here.]
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—holder of the thunderbolt weapon
+- इंद्र (*iṃdra*)—O Indra
+- हुवानः (*huvānaḥ*)—you who are called (by the Hotṛs)
+- मद्रक् (*madrak*)—turned towards me
+- नः (*naḥ*)—in this sacrifice performed by us
+- सोमपीतये (*somapītaye*)—in order to drink the Soma juice
+- हरिभ्यां (*haribhyāṃ*)—with your two horses
+- तु (*tu*)—quickly
+- आ याहि (*ā yāhi*)—be gracious to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt weapon, you who are prayed to and called by the Hotṛs, turned towards me, come quickly with your two horses to this sacrifice performed by us, in order to drink the Soma juice.
+
+##### English translation (H. H. Wilson)
+Indra, wielder of the thunderbolt, come to me with your horses, when invoked to drink the Soma at our (sacrifice).
+
+##### विशेषविषयगळु (Special Topics)
+
+Adrivaḥ—the meaning is वज्रिन् (*vajrin*), that is, O Indra, who bear the thunderbolt weapon. Yāska, explaining the meaning of the mantra
+यदिंद्र चित्र मेहनास्ति त्वादातमद्रिवः । राधस्तन्नो विदद्वस उभयां स्त्या भर ॥ (*yadiṃdra citra mehanāsti tvādātamadrivaḥ | rādhastanno vidadvasa ubhayāṃ styā bhara ‖*)
+(Ṛ. Saṃ. 5-39-1), says of the word adrivaḥ:
+अद्रिवान् । अद्रिरादृणात्येतेन । अपि वात्ते: स्यात् । ते सोमाद इति ह विज्ञायते ॥ (*adrivān | adrirādṛṇātyetena | api vātte: syāt | te somāda iti ha vijñāyate ‖*) (Ni. 4-4)
+
+### Printed p. 24
+He thus gives the etymology. That is: because it splits everything, being very hard like a mountain rock, adri means the thunderbolt weapon; or else the word adri may be derived from the root अन भक्षणे (*ana bhakṣaṇe*) ("to eat"). In this context, as a hard stone "eats" other things, that is, destroys them or crushes them to powder, so the thunderbolt is a weapon of hard nature like such a stone. On this point the example is ते सोमाद इति ह विज्ञायते (*te somāda iti ha vijñāyate*); the idea is that as the stones used for crushing Soma plants grind the Soma plants and make the juice flow out, so the thunderbolt, of hard nature, destroys enemies. One who holds such a thunderbolt in his hand is called adrivān. Since the thunderbolt is Indra's weapon, adrivān means Indra. The word adrivaḥ is the vocative singular. The word adri is also read among the names of the cloud (Ni. 3-21).
+
+Haribhyām—Indra's horses are called Harī. Indra has two horses. Since haribhyām is said here, Indra is prayed to come seated in the chariot to which the two horses are yoked. Yāska, describing the vehicles of various deities, says:
+हरी इंद्रस्य । रोहितोऽग्ने । हरित आदित्यस्य । रासभावश्विनेः । अजा पूष्णः । पृषत्यो मरुतां । अरुण्यो गाव उषसः । श्यावा सवितुः । विश्वरूपा बृहस्पतेः । नियुतो नायोः । (*harī iṃdrasya | rohito 'gne | harita ādityasya | rāsabhāvaśvineḥ | ajā pūṣṇaḥ | pṛṣatyo marutāṃ | aruṇyo gāva uṣasaḥ | śyāvā savituḥ | viśvarūpā bṛhaspateḥ | niyuto nāyoḥ |*)
+(Ni. 3 2-28)**NOTE**
+and thus states that Indra's vehicle is the two horses called Harī.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्तो होता॑ न ऋ॒त्विय॑स्तिस्थि॒रे ब॒र्हिरा॑नु॒षक् ।  
+> अयु॑ज्रन्प्रा॒तरद्र॑यः ॥ २ ॥
+
+> *satto hotā na ṛtviyastisthire barhirānuṣak |*  
+> *ayujranprātaradrayaḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्तः । होता । नः । यत्त्वियः । तिस्तिरे । बर्हिः । आनुषक् ।  
+> अयुज्रन् । प्रातः । अद्रयः ॥ २ ॥
+
+> *sattaḥ | hotā | naḥ | yattviyaḥ | tistire | barhiḥ | ānuṣak |*  
+> *ayujran | prātaḥ | adrayaḥ ‖ 2 ‖*
+
+### Printed p. 25
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मदीये यज्ञॆ होता ऋत्विक् तवाह्वानार्थमृत्वियः प्राप्तकालः सन् सत्तो निषण्णो वर्तते । तथा बर्हिरानुषक् अनुसक्तं परस्परसंबद्धं
+> यथा भवति तथा तिस्तिरे । हविष्वासन्नेषु स्तीर्णमभूत् । तथा प्रातः प्रातःसवने
+> सोमाभिषवार्थमद्रयो ग्रावाणोऽयुज्रन् । परस्परं संगता अभूवन् । तस्मात्सोमपानार्थं त्वमागच्छेति भावः ॥ सत्तः । षद्ल विशरणादिष्ठित्यस्माद्यर्थाकर्मकश्लिषेत्यादिना । पा. ३-४-७२ । कर्तरि क्तः । सर्वविधीनां छंदसि विकल्पितत्वादत्र
+> निष्ठातकारस्य नत्वाभावः । ऋत्वियः । ऋतुशब्दाच्छंदसि घसिति घस्पृत्ययः । घस्येयादेशः । सितीति पदसंज्ञायामोर्गुण इति भसंज्ञाधीनो गुणो न भवति ।
+> यणादेशः । प्रत्ययस्वरः । तिस्तिरे । स्त्रञ् अच्छादन इत्यस्य कर्मणि लट्युत
+> इद्दा तोरितीत्वं । द्विर्वचने शर्पूर्वाः खय इति तकारस्य शेषः । लिटस्तझयोरेशिरेजिति तप्रत्ययस्यॆशित्यादेशः । पादारित्पादनिघातः । प्रत्ययस्वरः । आनुषक् । षन्ज
+> संगे । क्विप् । अनिदितामिति नलोपः । आजन्वोरुपसर्गयोः प्राक्षयोगः । गतिसमासः । कृदुत्तरपदस्वरः । आयुज्रन् । युजिर् योग इत्यस्य लुजः ब्बीरिरितो
+> वेत्यजादेशः । बहुलं छंदसीति रुडागमः । पादादित्वादनिघातः । अडागमस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in our sacrifice the Hotṛ priest, having reached the proper time (ऋत्वियः (*ṛtviyaḥ*)) for your invocation, sits ready (सत्तः (*sattaḥ*)). The sacred grass (बर्हिः (*barhiḥ*)) has been spread (तिस्तिरे (*tistire*)) joined together (आनुषक् (*ānuṣak*)), one piece close to the next, on the seats of the oblations. And at the morning pressing the stones (अद्रयः (*adrayaḥ*)) for pressing the Soma have been brought together (अयुज्रन् (*ayujran*)), meeting one another. Therefore come to drink the Soma; such is the sense. [The rest of the block is grammar of सत्तः (*sattaḥ*), ऋत्वियः (*ṛtviyaḥ*), तिस्तिरे (*tistire*), आनुषक् (*ānuṣak*), आयुज्रन् (*āyujran*) and accents; omitted here.]
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) नः (*naḥ*)—in this sacrifice of ours
+- होता (*hotā*)—the Hotṛ
+- ऋत्वियः (*ṛtviyaḥ*)—at the right time of your invocation (at the right time of calling you to the sacrifice)
+- सत्तः (*sattaḥ*)—is seated
+- बर्हिः (*barhiḥ*)—the darbha grass
+- आनुषक् (*ānuṣak*)—as if joined to one another
+- तिस्तिरे (*tistire*)—has been spread on the altar (in the respective places)
+- अद्रयः (*adrayaḥ*)—the stones for pressing the Soma
+- आयुज्रन् (*āyujran*)—have been placed together
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in our sacrifice the Hotṛ has come and sat down at the right time, when he prays to you and calls you. The seats of darbha grass have been spread all around the altar. The stones for pressing the Soma juice have been placed together.
+
+##### English translation (H. H. Wilson)
+The invoking priest is seated at the proper season; the sacred grass woven together has been spread; the stones are placed in contact for the morning (libation).
+
+##### विशेषविषयगळु (Special Topics)
+
+Naḥ hotā ṛtviyaḥ sattaḥ—here naḥ may be given the meaning "our", or else, supplying the word यज्ञे (*yajñe*), the meaning
+
+### Printed p. 26
+"in our sacrifice" may be stated. For the word ṛtviyaḥ the commentator explains प्राप्तकालः सन् (*prāptakālaḥ san*), "having come at the right time". That is: the sacrifice begins in the morning; the Prātaḥsavana as well, that is, the rite of pressing the Soma juice, takes place in the morning itself. Therefore the priest called Hotṛ, who invokes the gods in the sacrifice, has come and sits on the sacrificial ground at the proper time, not late, that is, in the morning itself, in order to do his duty; such is the idea.
+
+Tistire barhiḥ ānuṣak—[Sāyaṇa:] परस्परसंबद्धं यथा भवति तथा बर्हिःष्वासन्नेषु स्त्रीण मभूत् (*parasparasaṃbaddhaṃ yathā bhavati tathā barhiḥṣvāsanneṣu strīṇa mabhūt*) ("spread on the seats of the oblations in such a way that the blades are joined to one another"). In this sacrifice the darbha grass called barhiḥ, cut evenly, has been spread joined together, so that the gods may come to the sacrificial ground and sit; that is, the darbhas are not spread far apart. They are joined to one another, laid layer upon layer, one layer over another, spread so that the seat is soft. Three layers are thus spread one over the other and the seat is prepared to be soft. This is called barhiḥ. For the word ānuṣak Yāska says: आनुषगिति नामानुपूर्वस्यानुषक्तं भवति (*ānuṣagiti nāmānupūrvasyānuṣaktaṃ bhavati*); and the Nigama also is स्त्रणंति बर्हिरानुषक् (*straṇaṃti barhirānuṣak*) (Ṛ. Saṃ. 8-45-1), (Ni. 6-14). Ānuṣak means mutually, or without a gap, joined one to another; the idea is "not sparse, pressed close". To show that this word is used when darbha is spread pressed close together, Yāska cites the Ṛk स्तृणंति बर्हिरानुषक् (*stṛṇaṃti barhirānuṣak*).
+
+Adrayaḥ ayujran—ग्रावाणः परस्परं संगता अभूवन् (*grāvāṇaḥ parasparaṃ saṃgatā abhūvan*) ("the stones have come together with one another"): the stones for pressing the Soma juice have been placed one beside another; such is the idea.
+
+Now everything is ready in the sacrifice we perform. The priest called Hotṛ has come at the right time to invoke the gods, has sat in his place and is ready. The darbhas have been spread close together, and a soft seat is ready for the gods to come to the sacrificial ground and sit. The stones for crushing the Soma plants and pressing the juice have been placed close by. Since everything is thus ready, O Indra, he is prayed to come quickly to our sacrificial ground to drink the Soma.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा ब्रह्म॑ ब्रह्मवाहः क्रि॒यंत॒ आ ब॒र्हिः सी॑द ।  
+> वी॒हि शू॑र पुरो॒ळाशं॑ ॥ ३ ॥
+
+> *imā brahma brahmavāhaḥ kriyaṃta ā barhiḥ sīda |*  
+> *vīhi śūra puroḷāśaṃ ‖ 3 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 19. pilot by the batch API; rebuilt with sub-headings
+**Progress note:** Done through printed p. 26. pilot by the batch API; rebuilt with sub-headings
