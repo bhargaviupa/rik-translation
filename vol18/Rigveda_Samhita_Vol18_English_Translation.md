@@ -5282,6 +5282,207 @@ What is said in the present Ṛks (especially in the tenth Ṛk) follows this pr
 > *kaḥ | imaṃ | daśabhiḥ | mama | iṃdraṃ | krīṇāti | dhenubhiḥ ‖*  
 > *yadā | vṛtrāṇi | jaṃghanat | atha | enaṃ | me | punaḥ | dadat ‖ 10 ‖*
 
+### Printed p. 150
+
+> मम मदीयमिमं स्वभूतमिंद्रं धेनुभिः प्रीणयित्रीभिर्दशभिर्दशसंख्याकाभिः स्तुतिभिः कः क्रीणाति । क्रयं करोति । तदानीं हे क्रेतारो युष्माकं मध्य
+> एवमपि समयः क्रियते । यदायमिंद्रो वृत्राणि त्वदीयान् शत्रुन् जंघनत्
+> हन्यात् अथानंतरमेवैनमिंद्रं मे मह्यं पुनर्ददत् । पुनर्दद्यात् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: who buys this Indra, who is "mine" (my own), with ten milch cows, that is, with ten gratifying hymns of praise? Who makes this purchase? Then the buyers are told that a compact is made among them: when this Indra shall slay your foes (वृत्राणि (*vṛtrāṇi*), "your enemies"), immediately thereafter let him give Indra back to me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मम इमं (*mama imaṃ*)—the one whom (by praise and the like) I have made my own
+- इंद्रं (*iṃdraṃ*)—Indra
+- धेनुभिः (*dhenubhiḥ*)—with those that are gratifying
+- दशभिः (*daśabhiḥ*)—with hymns of praise, ten in number
+- कः (*kaḥ*)—which devotee
+- क्रीणाति (*krīṇāti*)—buys (for help). (With such a worshipper I make the following compact, namely:)
+- यदा (*yadā*)—when
+- वृत्राणि (*vṛtrāṇi*)—the enemies (of the worshipper who has bought Indra for a time)
+- जंघनत् (*jaṃghanat*)—he destroys
+- अथ (*atha*)—immediately after that
+- एनं (*enaṃ*)—this Indra
+- मे (*me*)—to me alone
+- पुनर्ददत् (*punardadat*)—he must be sent back again
+
+##### भावार्थ (Bhāvārtha)
+
+With the devotee who buys, for help, this Indra whom I have made my own by praise and the like, with gratifying hymns ten in number, I make the following compact: "O devotee of Indra, this Indra is mine. You have bought him only for a time. As soon as he has destroyed your enemies, you must send him back to me." That is the compact.
+
+##### English translation (H. H. Wilson)
+Who buys this, my Indra, with ten milch cows? when he shall have slain (your) foes, then let (the purchaser) give him again to me.
+
+##### विशेषविषयगळु (Special Topics)
+
+Since the 9th and 10th Ṛks are related to each other, the special points suited to both Ṛks together were explained under the 9th Ṛk itself. No separate explanation is needed for this Ṛk.
+
+### Printed p. 151
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ष्टु॒त इं॑द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑३ न पी॑पेः ।  
+> अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥ ११ ॥
+
+> *nū ṣṭuta iṃdra nū gṛṇāna iṣaṃ jaritre nadyo3 na pīpeḥ |*  
+> *akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । स्तुतः । इंद्र । नु । गृणानः । इषं । जरित्रे । नद्यः । न । पीपेरिति पीपेः ।  
+> अकारि । ते । हरिवः । ब्रह्म । नव्यं । धिया । स्याम । रथ्यः । सदासाः ॥ ११ ॥
+
+> *nu | stutaḥ | iṃdra | nu | gṛṇānaḥ | iṣaṃ | jaritre | nadyaḥ | na | pīperiti pīpeḥ |*  
+> *akāri | te | harivaḥ | brahma | navyaṃ | dhiyā | syāma | rathyaḥ | sadāsāḥ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नु क्षिप्रं स्तुतः पूर्वैर्यषिभिः संस्तुतो नु क्षिप्रं गृणानोऽस्माभिः
+> स्तूयमानस्त्वमिषमन्नं जरित्रे स्तोत्रे मह्यं नद्यो नाद्भिनदीरिव पीपेः ।
+> प्यायय ! प्रवृद्धं कुरु ! हे हरिवो हरिसंज्ञ काश्वोपेतेंद्र ते तुभ्यं नव्यं
+> नवतरं ब्रह्म स्तोत्रमकारि ! अस्माभिः क्रियते ! रथ्यो रथवंतो वयं धिया
+> प्रज्ञारूपया स्तुत्या सदासास्त्वां सर्वदा भजमानास्त्वदर्थं हवीरूपस्यान्नस्य
+> दातारो वा स्याम ! भूयास्मै ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who were quickly (नु (*nu*) = quickly) praised by the earlier seers and are now quickly praised by us: fill up food for me, the worshipper (जरित्रे (*jaritre*) = the praiser), as rivers are filled with water; make it abundant. O lord of the horses called Hari, a newer hymn (ब्रह्म (*brahma*) = stotra) has been made for you by us. May we, possessed of chariots, with praise in the form of insight (धिया (*dhiyā*)), always serving you, become givers of oblation-food for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—exceedingly
+- स्तुतः (*stutaḥ*)—you who were praised by the earlier seers
+- नु (*nu*)—with the same devotion
+- गृणानः (*gṛṇānaḥ*)—and who are to be praised by us also
+- नद्यः न (*nadyaḥ na*)—as rivers are filled with waters
+- जरित्रे (*jaritre*)—to me, the praiser
+- इषं (*iṣaṃ*)—food
+- पीपेः (*pīpeḥ*)—fill up and give
+- हरिवः (*harivaḥ*)—O Indra, possessor of the horses named Hari
+- ते (*te*)—directed to you
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—hymn
+- आकारि (*ākāri*)—is made
+- रथ्यः (*rathyaḥ*)—we, who possess chariots
+- धिया (*dhiyā*)—by praise offered with understanding
+- सदासाः (*sadāsāḥ*)—worshipping you and offering oblations
+- स्याम (*syāma*)—grant that we may become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who were exceedingly praised by the earlier seers and are to be praised by us also with the same devotion, fill up food for me, your praiser, as rivers are filled with water. O Indra, lord of the horses called Hari, a new hymn is made directed to you.
+### Printed p. 152
+May we, who possess chariots, worship you with praise offered with understanding and become offerers of oblations.
+
+##### English translation (H. H. Wilson)
+Glorified (in the past), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): lord of horses, a new hymn has been made for you : may we, possessed of chariots, be ever diligent in your praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk is recited not only in this sūkta but also as the last Ṛk in the sūktas 20–24.
+
+इंद्र नु स्तुतः नु गृणानः नद्यः न जरित्रे इषं पीपेः (*iṃdra nu stutaḥ nu gṛṇānaḥ nadyaḥ na jaritre iṣaṃ pīpeḥ*)—O Indra, you were praised in the past by many seers. Now you are praised by us. As rain-water fills the rivers and makes them flow full, fill up food (food and other sustenance) for us who praise you; that is, give it as much as we wish.
+
+नु (*nu*)—नु इत्येषोऽनेककर्मा । इदं नु करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे (*nu ityeṣo 'nekakarmā | idaṃ nu kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe*) (Ni. 1-4). The particle नु (*nu*) has many meanings. When one says इदं नु करिष्यति (*idaṃ nu kariṣyati*), the word नु (*nu*) has the causal sense "therefore". When one says कथं नु करिष्यति (*kathaṃ nu kariṣyati*), the word नु (*nu*) has the interrogative sense "how". Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is also used to indicate comparison. For example:
+
+अक्षो न चक्र्योः शूर बृहन्प्र ते मह्ना रिरिचे रोदस्योः । वृक्षस्य नु ते पुरुहूत वया व्यू ३ तयो रुरुहुरिंद्र पूर्विः ॥ (*akṣo na cakryoḥ śūra bṛhanpra te mahnā ririce rodasyoḥ | vṛkṣasya nu te puruhūta vayā vyū 3 tayo ruruhuriṃdra pūrviḥ ‖*) (Ṛ. Saṃ. 6-24-3)
+
+The author of the Nirukta quotes this Ṛk (Ni. 1-4) and says that वृक्षस्य नु ते । वृक्षस्येव ते (*vṛkṣasya nu te | vṛkṣasyeva te*), giving the word नु (*nu*) the sense of comparison: like a tree, or like the branches of a tree. Similarly:
+
+नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् । (*nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat |*) (Ṛ. Saṃ. 7-100-11)
+
+In Ṛks such as this, the word नु (*nu*) has the sense "quickly, promptly"; and in
+
+नू इंद्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्ना नावृधस्व । (*nū iṃdra śūra stavamāna ūtī brahmajūtastannā nāvṛdhasva |*) (Ṛ. Saṃ. 7-19-11)
+### Printed p. 153
+and similar Ṛks, the authors of the Nirukta have explained with examples that नु (*nu*) means "today, now, at once". In the present Ṛk the sense is "quickly, swiftly".
+
+जरित्रे (*jaritre*)—the word जरितृ (*jaritṛ*) is read among the names of praisers (Ni. 3-19), and since there is also the explanation जरिता गरिता (*jaritā garitā*) (Ni. 1-7), जरित्रे (*jaritre*) here means "to me who praise".
+
+न (*na*)—for the word न (*na*) the authors of the Nirukta have given two kinds of meaning:
+
+नेति प्रतिषेधार्थीयो भाषायां । उभयमन्वाधाय्यं । नेंद्रं देवममंसत इति प्रतिषेधार्थीयः पुरस्तादुपचारस्तस्य यत्पतिषेधति । दुर्मदासो न सुरायां इत्युपमार्थीयः । उपरिष्टादुपचारस्तस्य येनोपमिमीते ॥ (*neti pratiṣedhārthīyo bhāṣāyāṃ | ubhayamanvādhāyyaṃ | neṃdraṃ devamamaṃsata iti pratiṣedhārthīyaḥ purastādupacārastasya yatpatiṣedhati | durmadāso na surāyāṃ ityupamārthīyaḥ | upariṣṭādupacārastasya yenopamimīte ‖*) (Ni. 1-4)
+
+That is, in the language of common usage, the modern Sanskrit that is not the Vedic language, the word न (*na*) is used in the sense of negation ("not", "no"). This is known to everyone. But in the Vedas the word न (*na*) is used both in the sense of negation and in the sense of comparison. How? The word न (*na*) in the sentence नेंद्रं देवममंसत (*neṃdraṃ devamamaṃsata*) is used in the sense of negation. Negation (प्रतिषेध (*pratiṣedha*)) means not praising a person directly or to his face. In the sentence "Indra is not recognised as one endowed with radiance", the word "not" (the meaning of न (*na*)) indicates a sense opposed to the figurative statement concerning Indra. This is called the sense of negation. In the sentence दुर्मदासो न सुरायां (*durmadāso na surāyāṃ*) the word न (*na*) indicates comparison (resemblance). The meaning of this sentence is: arrogant like people who have drunk liquor. Here the sense of comparison is to state the good and bad qualities of one person by likening them to those of another. Those who have drunk liquor become senseless and behave in a base way out of arrogance. To be arrogant like those people is the sense of comparison.
+
+Meanings of this kind are indicated in the Vedas by the word न (*na*) and also by the word इव (*iva*). The use of the word न (*na*) in this sense of comparison occurs only in the Vedas, not in the language in use; there only the word इव (*iva*) is used instead.
+
+In this Ṛk, which forms the conclusion of the sūkta, it is stated that the seer Vāmadeva, offering a newly composed hymn to the deity, prays for the deity's grace.
+
+### Printed p. 154
+## Sūkta 25 (Maṇḍala 4)
+Introduction (Anuvāda): को अद्येत्यष्टर्चं चतुर्थं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैंद्रं । तथा चानुक्रांतं । को आद्याष्टाविति ॥ दशरात्रे चतुर्थेऽहनि माध्यंदिने सवने स्तोमवृद्धौ मैत्रावरुणशस्त्र आरंभणीयाया उपरिष्टादिदं सूक्तमावपनीयं च । सूत्रितं च । स्तोमे वर्धमाने को अद्य नर्यः । आ. ७-१२ । इति (*ko adyetyaṣṭarcaṃ caturthaṃ sūktaṃ vāmadevasyārṣaṃ traiṣṭubhamaiṃdraṃ | tathā cānukrāṃtaṃ | ko ādyāṣṭāviti ‖ daśarātre caturthe 'hani mādhyaṃdine savane stomavṛddhau maitrāvaruṇaśastra āraṃbhaṇīyāyā upariṣṭādidaṃ sūktamāvapanīyaṃ ca | sūtritaṃ ca | stome vardhamāne ko adya naryaḥ | ā. 7-12 | iti*)
+
+This sūkta beginning को अद्य (*ko adya*) is the fourth sūkta in the third anuvāka. It has eight Ṛks. Its seer is Vāmadeva; its deity is Indra; its metre is Triṣṭubh. In the Anukramaṇikā it is stated: *ko ādyāṣṭau*. On the fourth day of the Daśarātra, a sacrifice performed over ten days, at the midday pressing, when the stoma is increased, this sūkta is to be recited as an āvāpa-sūkta after the opening verse of the Maitrāvaruṇa-śastra; this is stated in Āśvalāyana's Śrauta-sūtra by the sūtra स्तोमे वर्धमाने को अद्य नर्यः (*stome vardhamāne ko adya naryaḥ*) (Ā. 7-12).
+
+Maṇḍala 4; Anuvāka 3; Sūkta 25; Aṣṭaka 3; Adhyāya 6; Vargas 13, 14. Number of Ṛks in the sūkta: 8. Seer: Vāmadeva. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को अद्य नर्यो देवकाम उशन्निंद्रस्य सख्यं जुजोष ।  
+> को वा महेवसे पायाय समिद्धे अग्नौ सुतसोम  
+> ईट्टे ॥ १ ॥
+
+> *ko adya naryo devakāma uśanniṃdrasya sakhyaṃ jujoṣa |*  
+> *ko vā mahevase pāyāya samiddhe agnau sutasoma*  
+> *īṭṭe ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । अद्य । नर्यः । देवकामः । उशन् । इंद्रस्य । सख्यं । जुजोष ।  
+> कः । वा । महे । अवसे । पायाय । संइद्दे । अग्नौ । सुतसोमः । ईट्वे ॥ १ ॥
+
+> *kaḥ | adya | naryaḥ | devakāmaḥ | uśan | iṃdrasya | sakhyaṃ | jujoṣa |*  
+> *kaḥ | vā | mahe | avase | pāyāya | saṃidde | agnau | sutasomaḥ | īṭve ‖ 1 ‖*
+
+### Printed p. 155
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्दिवसे नर्यो मनुष्यहितो देवकामो देवानिच्छन् उशन्
+> कामयमानः को यजमान इंद्रस्य सख्यं सखित्वं जुजोष । सेवते । किंच
+> सुतसोमोऽभिषुतसोमः को वा यजमानोऽग्नौ समिद्धे प्रज्वलिते सति महे
+> महते प्रवृद्धाय पार्याय पारमर्हतेऽवसे तर्पणायेट्टे । इंद्रं स्तोति ॥
+
+##### Gist of the bhāṣya
+
+Today, on this day, which sacrificer, beneficial to men (नर्यः (*naryaḥ*)), desiring the gods (देवकामः (*devakāmaḥ*)), wishing for them (उशन् (*uśan*) = desiring), has enjoyed (जुजोष (*jujoṣa*) = served) the friendship of Indra? And further, which sacrificer, having pressed the soma, when the fire is kindled, praises Indra (ईट्टे (*īṭṭe*)) for great, abundant protection, for satisfaction (तर्पण (*tarpaṇa*)), protection that is able to take one across to the far shore?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—today
+- नर्यः (*naryaḥ*)—beneficial to men
+- देवकामः (*devakāmaḥ*)—one who desires the help of the gods
+- कः (*kaḥ*)—which sacrificer
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सख्यं (*sakhyaṃ*)—the friendship
+- उशन् (*uśan*)—desiring
+- जुजोष (*jujoṣa*)—serves?
+- सुतसोमः (*sutasomaḥ*)—who has pressed the soma juice
+- को वा (*ko vā*)—which sacrificer indeed
+- अग्नौ समिद्दे (*agnau samidde*)—when the fire is kindled (for the sacrifice)
+- महे (*mahe*)—great
+- पार्याय (*pāryāya*)—and boundless
+- अवसे (*avase*)—for protection
+- ईट्वे (*īṭve*)—praises Indra?
+
+##### भावार्थ (Bhāvārtha)
+
+Which sacrificer, beneficial to men and desiring the help of the gods, serves Indra today, seeking his friendship? Which sacrificer, having pressed the soma juice, when the fire is kindled for the sacrifice, praises Indra for great and boundless protection?
+
+##### English translation (H. H. Wilson)
+What friend of man, or worshipper of the gods, deserving the friendship of Indra, has to-day enjoyed (it)? or what offerer of the libation on the kindled fire praises him (sufficientlty) for his great and unbounded protection?
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Vāmadeva praises Indra. All sacrificers who perform sacrifices desire Indra's friendship and favour, and Indra is able to go at one and the same time to the many sacrifices that are being performed. So he asks: which sacrificer has now invited Indra to come to his sacrificial ground? Which sacrificer desires Indra's friendship? Which sacrificer, for Indra's satisfaction, having prepared the soma juice
+
 ---
 
-**Progress note:** Done through printed p. 149. pp. 144-149 (batch API)
+**Progress note:** Done through printed p. 155. pp. 150-155 (batch API)
