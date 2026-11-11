@@ -32,7 +32,7 @@ suktas = [e for e in ev if e[0] == 'sukta']; riks = [e for e in ev if e[0] == 'r
 # Kannada anchors
 sl = []
 for i, l in enumerate(kn):
-    m = re.match(rf'^(?:[॥।]\s*)?ಮಂಡಲ\s*[-—–]\s*([೦-೯]+).*ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)', l.strip())
+    m = re.match(rf'^(?:[॥।]\s*)?(?:ಮಂಡಲ|ಸುಂಡಲ)\s*[-—–]\s*([೦-೯]+).*ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)', l.strip())
     if m:
         if sl and sl[-1][1] is None and sl[-1][2] == edig(m.group(2)):                                      # the title line 'ಸೂಕ್ತ—N' above is the same sūkta
             if i - sl[-1][0] > 3: sl[-1] = (i, edig(m.group(1)), edig(m.group(2)))                          # far above (Vol 15): the heading goes before this line, as before
