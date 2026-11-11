@@ -8213,6 +8213,238 @@ Then her shattered waggon reposed (on the bank) of the Vipash (river), and she d
 - मायया (*māyayā*)—by the power of your wisdom
 - परि ष्ठाः (*pari ṣṭhāḥ*)—you have caused it to spread all around and flow
 
+### Printed p. 229
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your power of insight you have made the Sindhu river, which was in full flow but had been held back by the asuras, spread out and flow all around over the earth.
+
+##### English translation (H. H. Wilson)
+You have spread abroad upon the earth, by your contrivance, the swollen Sindhu when arrested (on its course).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त शुष्ण॑स्य धृष्णु॒या प्र मृ॑क्षो अ॒भि वेद॑नं ।  
+> पुरो॒ यद॑स्य संपि॒णक् ॥ १३ ॥
+
+> *uta śuṣṇasya dhṛṣṇuyā pra mṛkṣo abhi vedanaṃ |*  
+> *puro yadasya saṃpiṇak ‖ 13 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । शुष्णस्य । धृष्ट्न्यया । प्र । मृक्षः । अभि । वेदनं ।  
+> पुरः । यत् । अस्य । संपिणक् ॥ १३ ॥
+
+> *uta | śuṣṇasya | dhṛṣṭnyayā | pra | mṛkṣaḥ | abhi | vedanaṃ |*  
+> *puraḥ | yat | asya | saṃpiṇak ‖ 13 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र धृष्णया धृष्णुः धर्षकस्यं शुष्णस्य शुष्णनाम्मोऽसुरस्य
+> संबंधि वेदनं वित्तमभि अभितः सर्वतः प्र मृक्षः । प्रकर्षेणाबाधथाः । यद्यदास्य
+> शुष्णस्य पुरः पुराणि नगराणि संपिणक् । संपिष्टवानसि । तदा प्र मृक्ष इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+"And, O Indra, you, the bold one (dhṛṣṇu, the assailant), crushed on every side the wealth of Śuṣṇa, the asura of that name; that is, you harassed him exceedingly. When you ground down the cities, the strongholds, of this Śuṣṇa, then you crushed his wealth": this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and (O Indra)
+- धृष्णुया (*dhṛṣṇuyā*)—you, the assailant of enemies
+- यत् (*yat*)—when
+- अस्य (*asya*)—of this Śuṣṇa
+- पुरः (*puraḥ*)—the towns
+- सं पिणक् (*saṃ piṇak*)—you utterly destroyed (then)
+- शुष्कस्य (*śuṣkasya*)—of the asura called Śuṣṇa**NOTE**
+- वेदनं (*vedanaṃ*)—the wealth
+- अभि (*abhi*)—completely
+- प्र मृक्षः (*pra mṛkṣaḥ*)—you have destroyed (carried off)
+
+### Printed p. 230
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the assailant of enemies, when you utterly destroyed the cities of the asura named Śuṣṇa, then you also utterly destroyed that asura's wealth (you carried it off).
+
+##### English translation (H. H. Wilson)
+By valour you have carried off the wealth of Shushna, when you had demolished his cities.
+
+##### विशेषविषयगळु (Special Topics)
+
+Śuṣṇa—His name occurs about 40 times. He is the chief enemy of Kutsa. For the sake of this Kutsa, or together with Kutsa, Indra uproots Śuṣṇa (4-16-12, 5-29-9, etc.). He has horns (1-33-12). He has eggs (6-40-10, 11).**NOTE** That is, young ones born of eggs (compare 10-12-11); from this Śuṣṇa too may be called a serpent. He hisses (śvasanaḥ, 1-54-5). Six times the epithet aśuṣa (swallowing) of Agni is used of him. He has strong forts (1-51-11) or a fort (4-30-13); these are moving forts (8-1-28). Indra destroys Śuṣṇa's forts and releases the waters (1-51-11). Striking Śuṣṇa, he wins the ocean (Vāla. 3-8), or, uprooting Śuṣṇa's race, he gains the heavenly waters (svarvatīḥ, 8-40-10). Four times Śuṣṇa has the epithet "Kuyava" (maker of bad grain). The word Kuyava itself seems to be used twice, probably in place of Śuṣṇa (1-103-8, 1-104-3). The result of the battle between Indra and Śuṣṇa is not only the release of waters; it may also be the winning of the cows or of the sun (8-85-17). While fighting with Indra, Śuṣṇa moves about in darkness. He calls himself the son of snow (hima) and a dānava (5-32-4). Śuṣṇa is a dānava who keeps the amṛta within himself (Kāṭhaka). From the passages cited above Śuṣṇa may be said to be a cause of drought. The root śuṣ, the origin of the word Śuṣṇa, means to hiss or to dry up. This supports the view that he is a cause of drought.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त दा॒सं कौ॑लित॒रं बृ॑ह॒तः पर्व॑ता॒दधि॑ ।  
+> ।  
+> अवा॑हन्निंद्र॒ शंब॑रं ॥ १४ ॥
+
+> *uta dāsaṃ kaulitaraṃ bṛhataḥ parvatādadhi |*  
+> *|*  
+> *avāhanniṃdra śaṃbaraṃ ‖ 14 ‖*
+
+### Printed p. 231
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । दासं । कौलितरं । बृहतः । पर्वतात् । अधि ।  
+> अव । अहन् । इंद्र । शंबरं ॥ १४ ॥
+
+> *uta | dāsaṃ | kaulitaraṃ | bṛhataḥ | parvatāt | adhi |*  
+> *ava | ahan | iṃdra | śaṃbaraṃ ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र त्वं दासमुपक्षपयितारं कौलितरं कुलितरनान्नोऽपत्यं
+> शंबरमसुरं बृहतो महतः पर्वतादद्रेरध्युपरि अव अवाचीनं कृत्वाहन् ।
+> हतवानसि ॥
+
+##### Gist of the bhāṣya
+
+"And, O Indra, you struck down the dāsa, the destroyer (upakṣapayitṛ), Śambara the asura, son of Kulitara, from the huge, great mountain, making him head downward."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- दासं (*dāsaṃ*)—the destroyer
+- कौलितरं (*kaulitaraṃ*)—the son of Kulitara
+- शंबरं (*śaṃbaraṃ*)—Śambara the asura
+- बृहतः (*bṛhataḥ*)—great (very lofty)
+- पर्वतात् अधि (*parvatāt adhi*)—from the top of the mountain
+- अव (*ava*)—making him head downward and hurling him
+- आहन् (*āhan*)—you have killed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have killed the destroyer Śambara the asura, son of Kulitara, by turning him head downward and hurling him down from the top of the very lofty mountain.
+
+##### English translation (H. H. Wilson)
+You have slain the slave Shambara, the son of Kulitara, hurling him from off the huge mountain.
+
+##### विशेषविषयगळु (Special Topics)
+
+Śambara—This name occurs about twenty times. Śambara is mentioned along with other demons, most often with Śuṣṇa, Pipru (1-101-2, 1-103-8, 2-19-6, 6-18-8) and Varcin. When fighting against Ahi and Śambara the Maruts helped Indra (3-47-4); when he split Śambara, Indra made the very sky shake (1-54-4). Having sought out Śambara, who lived on a mountain (2-12-11), he hurled him down from the mountain (1-130-7, 6-26-5). Indra hurled the dāsa Śambara, son of Kulitara, from the great mountain (4-30-14 **NOTE**). Considering himself a minor deity, he struck Śambara and cast him from the high place (7-18-20).
+
+### Printed p. 232
+
+Ninety (1-130-7), generally ninety-nine (2-19-6, etc.) or a hundred (2-14-6, etc.) strongholds are under his rule. Once this word, in a neuter ending, means "Śambara's forts"; Bṛhaspati split them and entered the mountain region that was full of treasures (2-24-2). For Atithigva (1-51-6), generally for Divodāsa (2-19-6, etc.), and now and then for both (1-130-7, 4-26-3), Indra destroys Śambara. Some are of the opinion that Śambara and Divodāsa may both be names of one man.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त दा॒सस्य॑ व॒र्चिनः॑ स॒हस्रा॑णि श॒ताव॑धीः ।  
+> अधि॒ पंच॑ प्र॒धेरि॑व ॥ १५ ॥
+
+> *uta dāsasya varcinaḥ sahasrāṇi śatāvadhīḥ |*  
+> *adhi paṃca pradheriva ‖ 15 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । दासस्य । वर्चिनः । सहस्राणि । शता । अवधीः ।  
+> अधि । पंच । प्रधीन् इव ॥ १५ ॥
+
+> *uta | dāsasya | varcinaḥ | sahasrāṇi | śatā | avadhīḥ |*  
+> *adhi | paṃca | pradhīn iva ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र त्वं प्रधीनिव चक्रस्य परितः स्थितान् शंकूनिव हिंसकान्पंच
+> शता पंचशतानि पंचशतसंख्याकान् सहस्राणि सहस्रसंख्याकान्नासस्य लोकानामुपक्षपयितुर्वर्चिनो वर्चिनामकस्यासुरस्य संबंधिनोऽनुचरान्पुरुषानध्यधिकमवधीः । हतवानसि ॥
+
+##### Gist of the bhāṣya
+
+"And, O Indra, you slew thousands and five hundreds of the followers of Varcin, the asura of that name, the dāsa who destroys the worlds (lokānām upakṣapayitṛ), men who are destroyers, standing round him like the pegs (praddhi, fellies) set about a wheel; you slew them completely."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—(O Indra)
+- प्रधीनिव (*pradhīniva*)—standing round their leader as the felly encircles the wheel
+- पंच शता (*paṃca śatā*)—five hundred in number
+- सहस्राणि (*sahasrāṇi*)—thousands in number
+- दासस्य (*dāsasya*)—of the destroyer of the world
+- वर्चिनः (*varcinaḥ*)—of the asura named Varcin, the followers
+- अधि (*adhi*)—completely
+- अवधीः (*avadhīḥ*)—you have killed
+
+### Printed p. 233
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have completely killed the followers, numbering five hundred and thousands, of the asura named Varcin, the thorn of the world, who stand round their leader as the rim of a wheel encircles the wheel.
+
+##### English translation (H. H. Wilson)
+You have slain the five hundreds and thousands (of the followers) of the slave Varchin, (surrounding) him like the fellies (round the spokes of a wheel).
+
+##### विशेषविषयगळु (Special Topics)
+
+Varcin—This Varcin is an asura who is an enemy of Indra; in some places he is also called Vyaṃsa. His name is also mentioned here and there together with the asura Śambara. He is referred to in Ṛks such as Ṛ. Saṃ. 2-19-6; 4-47-21; 7-99-5; 6-47-21.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्यं पु॒त्रम॒ग्रुवः॒ परा॑वृक्तं श॒तक्र॑तुः ।  
+> उ॒क्थेष्विंद्र॒ आभ॑जत् ॥ १६ ॥
+
+> *uta tyaṃ putramagruvaḥ parāvṛktaṃ śatakratuḥ |*  
+> *uktheṣviṃdra ābhajat ‖ 16 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्यं । पुत्रं । अग्रुवः । परावृक्तं । शतक्रतुः ।  
+> उक्षेषु । इंद्रः । आ । अभजत् ॥ -६ ॥
+
+> *uta | tyaṃ | putraṃ | agruvaḥ | parāvṛktaṃ | śatakratuḥ |*  
+> *ukṣeṣu | iṃdraḥ | ā | abhajat ‖ -6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च शतक्रतुः शतकर्मेंद्रस्यं तं प्रसिद्धमग्रुव एतनाम्न्याः पुत्रं
+> परावृक्तमेतन्नामकमुक्थेषु स्तोत्रेष्वाभजत् । भागिनं कृतवान् । आयमर्थो
+> वम्रीभिः पुत्रमग्रुवः । ऋग्वे. ४-१९-९ । इतस्यामृचि प्रतिपादित इति ॥
+
+##### Gist of the bhāṣya
+
+"And Śatakratu, Indra of a hundred acts, made that well-known Parāvṛkta, the son of Agru (so named), a sharer in the uktha hymns, the stotras." Sāyaṇa adds that this matter has been set forth in the Ṛk वम्रीभिः पुत्रमग्रुवः (*vamrībhiḥ putramagruvaḥ*), Ṛgve. 4-19-9.**NOTE**
+
+### Printed p. 234
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- शतक्रतुः (*śatakratuḥ*)—the performer of many acts
+- इंद्रः (*iṃdraḥ*)—Indra
+- त्यं (*tyaṃ*)—the well-known one
+- आग्रुवः (*āgruvaḥ*)—of the woman named Agrū
+- पुत्रं (*putraṃ*)—the son
+- परावृक्तं (*parāvṛktaṃ*)—Parāvṛja
+- उक्षेषु (*ukṣeṣu*)—in the hymns addressed to himself
+- आभजत् (*ābhajat*)—made a sharer
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the performer of many acts, made the well-known Parāvṛja, son of the woman named Agrū, a sharer in the hymns addressed to himself.
+
+##### English translation (H. H. Wilson)
+You, Indra, are Shatakratu; you have made Paravrij, the son of Aggru, participant in sacred hymns.
+
+##### विशेषविषयगळु (Special Topics)
+
+The purport of this mantra is that Indra made Parāvṛkta a sharer in praise. The mantra tells that Parāvṛkta was the son of Agrū. "वम्राभिः पुत्रमग्रुवः, इत्यस्यां ऋचि आयमर्थः प्रतिपादितः (*vamrābhiḥ putramagruvaḥ, ityasyāṃ ṛci āyamarthaḥ pratipāditaḥ*)": the commentator has said that this meaning is set forth in Ṛ. Saṃ. 4-19-9. The purport of that mantra is: "The body of the son of Agrū was being eaten away by ants called vamrā. Indra brought him out of their anthill. Indra restored all his limbs that the ants had eaten and loosened." But the name of Agrū's son is not stated there. In the present mantra it is said that Parāvṛkta is the son of Agrū. But whether this denotes the name of a person, whether it is a proper name, or whether the word has another meaning, is doubtful. What अग्रुवःपुत्रं (*agruvaḥputraṃ*) may mean in the present context must be determined.
+The word अग्रुवः (*agruvaḥ*) is used in nine contexts in the Ṛksaṃhitā. In only two of them Sāyaṇa has said that the word is a proper name. In all the other places the meaning of the word is given in different contexts as follows.
+- Ṛ. Saṃ. 1-140-8. तमग्रुवः केशिनीः (*tamagruvaḥ keśinīḥ*)—flames that are like fingers.
+- Ṛ. Saṃ. 1-191-14. सप्त स्वसारो आग्रुवः (*sapta svasāro āgruvaḥ*)—सुरगंगाद्याः सप्त नद्यः (*suragaṃgādyāḥ sapta nadyaḥ*)
+- Ṛ. Saṃ. 3-29-13. दश स्वसारो आग्रुवः (*daśa svasāro āgruvaḥ*)—दशांगुलयः (*daśāṃgulayaḥ*)
+- Ṛ. Saṃ. 4-19-7. प्राग्रुवो नभन्वः (*prāgruvo nabhanvaḥ*)—अग्रगामिनीः नदीः (*agragāminīḥ nadīḥ*)
+
 ---
 
-**Progress note:** Done through printed p. 228. pp. 223-228 (batch API)
+**Progress note:** Done through printed p. 234. pp. 229-234 (batch API)
