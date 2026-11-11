@@ -25,7 +25,9 @@ You translate one window (about 6 printed pages) of the Kannada Ṛgveda edition
 [[b3]]
 *Gist:* ≤ 25 words of what Sāyaṇa says (from his Sanskrit; the grammatical tail is not explained).
 **Pratipadārtha**
-⟦ಮಾತರಿಶ್ವಾ⟧—the wind; ⟦ಏನಂ⟧—this (Agni); …
+- ⟦ಮಾತರಿಶ್ವಾ⟧—the wind
+- ⟦ಏನಂ⟧—this (Agni)
+- …                              ← one word per line, as a list, in the order printed
 **Bhāvārtha**
 English of the Kannada paragraph.
 **Printed English**
