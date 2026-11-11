@@ -14140,6 +14140,184 @@ The deity of this sūkta and of the next two sūktas is Dadhikrā. The commentat
 and for it:
 आतनोति दधिक्राः शवसा बलेनापः सूर्य इव ज्योतिषा पंच मनुष्यजातानि सहस्रसाः शतसा वाजी वेजनवानर्वेरणवान् संपृणक्तु नो मधुनोदकेन वचनानीमानीति ॥ (*ātanoti dadhikrāḥ śavasā balenāpaḥ sūrya iva jyotiṣā paṃca manuṣyajātāni sahasrasāḥ śatasā vājī vejanavānarveraṇavān saṃpṛṇaktu no madhunodakena vacanānīmānīti ‖*) (Ni. 10-31)
 
+### Printed p. 365
+
+Thus he has given the etymology. That is: just as the Sun, with his radiance, spreads out the waters and diffuses them everywhere, so the god Dadhikrā, by his power, has spread out and diffused the five kinds of creatures, gods, men and the rest, in their several regions. The chief import of this Ṛk is: may this god, who is a giver in thousands of ways and in hundreds of forms, who is swift and who has the form of a horse, grant sweet fruits in return for this our laudatory speech. For the word दधिक्राः (*dadhikrāḥ*) the derivation is दधत् क्रामति (*dadhat krāmati*): because it bears a rider on itself and moves about, the horse is named Dadhikrā.
+
+Apart from the horses that draw the chariots of the gods, certain horses are singled out individually. Among such distinguished horses the chief one is Dadhikrā. In four sūktas, that is Ṛ. Saṃ. 4-38, 39, 40 and 7-44, he is mentioned twelve times as Dadhikrā and ten times as Dadhikrāvan. In the other Vedas he is hardly mentioned at all. That Dadhikrā is the name of a horse is attested by the fact that the Nirukta includes it among the names of the horse (Ni. 1-14). He is very swift (4-38-2, 9; 4-39-1); he is the foremost horse in the line of many chariots (7-44-4); he destroys chariots; and he runs with the speed of the wind (4-38-3). All people praise his speed (4-38-9, 3). He rushes even at the bends of the roads (4-40-4). He also has wings; he is like a bird, and his wings are compared to the wings of a bird or of a falcon (4-40-2, 3). He is compared to a falcon swooping down from above, and is even called a falcon (4-38-5, 2). In 4-40-5 this horse is described by epithets that apply to Agni: the swan that dwells in the light, the Vasu in the atmosphere, the Hotṛ seated on the altar, the guest seated at ease in the house.
+
+Dadhikra too is a hero; he strikes the Dasyus and is victorious (4-38-1, 2, 3, 7). When he fights against thousands of men the enemies fear him; he plunders in battles; in battles the various tribes cry out to him (4-38-8, 5, 4). Wearing a garland and raising dust, he sheds it from his brows (4-38-6, 7). He belongs to all the tribes; by his power he has encompassed the five tribes, as the Sun encompasses the waters with his radiance (4-38-2, 10, 4). Mitra and Varuṇa gave this victorious horse to the Pūrus (4-39-2; compare 4-38-1, 2); for the favour of man they gave the horse called Dadhikrā.
+
+When the fire is kindled at dawn, the horse Dadhikrāvan is praised (7-41-6). Together with the goddess Uṣas he is invoked (4-39-1; 4-40-1). Uṣas is prayed to become, like Dadhikrāvan,
+
+### Printed p. 366
+
+turned towards the sacrifice (7-41-6). He is regularly praised together with Uṣas, as often together with Agni, and a few times together with the Aśvins, Sūrya and other deities (3-20-1, 5; 7-94-1 to 4; 10-101-1); but the first invocation is to Dadhikrāvan himself (7-44-1).
+
+From the etymology of the word nothing is learned about the nature and characteristics of this horse. The latter part of the word (क्रा (*krā*)) may mean "scattering"; that is, he may be the one who scatters दधि (*dadhi*), the frost seen at sunrise. Some are of the opinion that Dadhikra is the disc of the rising Sun. Dadhikra's special connection is with the goddess Uṣas; the Sun too is often called a horse or a bird, and in places he is said to have the nature of a warrior. On these grounds also it may be said that Dadhikra is the solar disc. Some are of the opinion that Dadhikra is a particular form of Agni; Sāyaṇa too has approved this. Still others say that it is not a deity at all, but an excellent horse.
+
+The two names Dadhyañc and Dadhikra have some similarity, and since Dadhyañc also had a horse's head, the two may be similar in nature as well.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतो हि वामिति दशर्चं षष्ठं सूक्तं । वामदेव ऋषिः । त्रिष्टुप् छंदः ।
+> दधिक्रा देवता । आद्या द्यावापृथिव्या । अत्रानुक्रमणिका । उतो हि दश दाधिक्रं हि
+> द्यावापृथिव्याद्येति । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning उतो हि वां (*uto hi vāṃ*), is the sixth sūkta (of the anuvāka) and has ten Ṛks. Its seer is Vāmadeva, its metre Triṣṭubh, its deity Dadhikrā; the first Ṛk is addressed to Dyāvāpṛthivī. Sāyaṇa cites the Anukramaṇikā for this, and says that the application (viniyoga) is by indication (लैंगिकः (*laiṃgikaḥ*)).
+
+Anuvāda: this sūkta उतो हि वां (*uto hi vāṃ*) is the sixth sūkta in the fourth anuvāka. It has ten Ṛks. Its seer is Vāmadeva, its deity Dadhikrā, its metre Triṣṭubh. The first Ṛk has Dyāvāpṛthivī as its deity. In the Anukramaṇikā it is said: "उतो हि (*uto hi*) … ten; Dādhikra; Dyāvāpṛthivī for the first." The application is by indication.
+
+Particulars: Maṇḍala 4; Anuvāka 4; Sūkta 38; Aṣṭaka 3; Adhyāya 7; Vargas 11, 12; number of Ṛks in the sūkta: 10. Seer: Vāmadeva. Deity: 1. Dyāvāpṛthivyau; 2–10. Dadhikrāḥ. Metre: Triṣṭubh. **NOTE**
+
+### Printed p. 367
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो हि वां॑ दा॒त्रा संति॒ पूर्वा॒ या पू॒रुभ्य॑स्त्र॒सद॑स्युर्नितो॒शे ।  
+> क्षे॒त्रा॒सां द॑दथुरुर्वरा॒सां घ॒नं दस्यु॑भ्यो अ॒भिभू॑तिमु॒ग्रं॥
+
+> *uto hi vāṃ dātrā saṃti pūrvā yā pūrubhyastrasadasyurnitośe |*  
+> *kṣetrāsāṃ dadathururvarāsāṃ ghanaṃ dasyubhyo abhibhūtimugraṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । हि । वां । दात्रा । संति । पूर्वा । या । पूरुभ्यः । त्रसदस्युः । नितोशे ।  
+> क्षेत्रसां । ददथुः । उर्वरासां । घनं । दस्युभ्यः । अभिभूतिं । उग्रं ॥ १ ॥
+
+> *uto iti | hi | vāṃ | dātrā | saṃti | pūrvā | yā | pūrubhyaḥ | trasadasyuḥ | nitośe |*  
+> *kṣetrasāṃ | dadathuḥ | urvarāsāṃ | ghanaṃ | dasyubhyaḥ | abhibhūtiṃ | ugraṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतो इति पूरणः । आस्त्या द्यावापृथिव्यत्वादत्र तद्वाचकशब्दाभावेऽपि ते एव
+> संबोद्धव्ये । हे द्यावापृथिव्यौ वां युवाभ्यां सकाशाद्दात्रा दानकर्त्रा पौरुकुत्सेन त्रसदस्युना लब्धानि पूर्वा पूर्वाणि पुरातनानि पूरकाणि ना धनानि संति । या
+> यानि धनानि पूरुभ्योऽर्थिभ्यो मनुष्येभ्यस्रसदसूराजा नितोशे । न्यतोशत ।
+> दत्तवान् । क्षेत्रसां । क्षेत्राणि सर्वा भूमिाः सनोतीति क्षेत्रसा अश्वः । तं ददथुः ।
+> तथोर्वरासां । उर्वरा सर्वसस्याढ्या भूः । तां सनोतीत्युर्वरासाः पुत्रः । तं
+> ददथुः । घनं हननार्हमायुधं दस्युभ्यो दस्यूनां वधार्थं च ददथुः । कीदृशमायुधं । अभिभूतिमभिभवितारमुग्रमुण्णर्णबलं । यद्वा । उत्तरार्धमेकं
+> वाक्यं । दातव्यानि धनान्युक्तलक्षणं पुत्रं च ददथुः । दत्तवत्यौ स्थः । तानि मह्यमपि
+> ददाथामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+उतो (*uto*) is a filler (pūraṇa). Although no word for them occurs here, the deities addressed are Dyāvāpṛthivī, since the first Ṛk is addressed to them. O Heaven and Earth, from you the ancient, fulfilling riches have been obtained by the liberal giver Trasadasyu, son of Purukutsa. The riches that king Trasadasyu gave to the petitioning men (पूरुभ्यः (*pūrubhyaḥ*)): नितोशे (*nitośe*) means "he gave". क्षेत्रसां (*kṣetrasāṃ*): he who wins all fields is क्षेत्रसा (*kṣetrasā*), a horse; you two gave him. Likewise उर्वरासां (*urvarāsāṃ*): उर्वरा (*urvarā*) is the earth rich in all crops; he who wins her is उर्वरासां (*urvarāsāṃ*), a son; you two gave him. You two also gave a घनं (*ghanaṃ*), a weapon fit for killing, for the slaying of the Dasyus. What kind of weapon? One that overcomes (अभिभूतिं (*abhibhūtiṃ*)) and is fierce, of mighty strength. Or else: the latter half is a single sentence: you have given the riches that are to be given and the son of the aforesaid kind; you are givers; the meaning is, give those to me also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—by your favour
+- दात्रा (*dātrā*)—obtained by the liberal Trasadasyu
+- पूर्वा (*pūrvā*)—riches of many kinds
+- संति (*saṃti*)—there are
+- या (*yā*)—which, those same riches
+- पूरुभ्यः (*pūrubhyaḥ*)—to many petitioners
+- त्रसदस्युः (*trasadasyuḥ*)—the king named Trasadasyu
+- नितोशे (*nitośe*)—gave (and you to him)
+- क्षेत्रसां (*kṣetrasāṃ*)—a horse
+- उर्वरासां (*urvarāsāṃ*)—a son
+- अभिभूतिं (*abhibhūtiṃ*)—one that subdues the foe
+- उग्रं (*ugraṃ*)—of terrible strength
+- घनं (*ghanaṃ*)—a weapon, an instrument of slaying
+- दस्युभ्यः (*dasyubhyaḥ*)—for the destruction of the Dasyus
+- ददथुः (*dadathuḥ*)—you have given
+
+### Printed p. 368
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, by your favour the liberal king Trasadasyu obtained riches of many kinds, and he gave all of them away to many petitioners. You gave him a horse, a son, and, for the destruction of the Dasyus, a weapon that subdues the foe, is of terrible strength and is an instrument of slaying. (Grant all those to us also.)
+
+##### English translation (H. H. Wilson)
+Trasadasyu has bestowed upon many the ancient (gifts) which were obtained by the liberal (prince) through your (favour, Heaven and Earth you two have given a horse, a son, a weapon (for the destruction) of the Dasyus, fierce and foe-subduing.
+
+##### विशेषविषयगळु (Special Topics)
+
+Trasadasyu: that Trasadasyu was the son of Purukutsa, the king of the people called Pūrus, is stated in this Ṛk of the Ṛgveda and also in the Ṛk **NOTE**
+
+प्र पौरुकुत्सिं त्रसदस्युमावः क्षेत्रसाता वृत्रहत्येषु पूरुं । (*pra paurukutsiṃ trasadasyumāvaḥ kṣetrasātā vṛtrahatyeṣu pūruṃ |*)
+(Ṛ. Saṃ. 7-19-3)
+
+In the above example it is suggested that Indra protected him. Besides this, Indra's helping him is suggested in the Ṛks E. Saṃ. 1-63-7; 8-36-2; 8-37-7; 8-49-10 **NOTE**, and that the Aśvins protected and saved him is stated in the Ṛks Ṛ. Saṃ. 1-112 7. 8; 8-27 **NOTE**. And:
+
+अस्माकमत्र पितरस्त आसन्तप्त ऋषयो दौर्गहे बध्यमाने (*asmākamatra pitarasta āsantapta ṛṣayo daurgahe badhyamāne*) ।
+त आयजंत त्रसदस्युमस्या इंद्रं न वृत्रतुरमर्धदेवं । (*ta āyajaṃta trasadasyumasyā iṃdraṃ na vṛtraturamardhadevaṃ |*) ।
+पुरुकुत्सानी रु वामदाशद्व्येभिरिंद्रावरुणा नमोभिः । (*purukutsānī ru vāmadāśadvyebhiriṃdrāvaruṇā namobhiḥ |*) ।
+अथा राजानं त्रसदस्युमस्या वृत्रहणं ददथुरर्धदेवं ॥ (*athā rājānaṃ trasadasyumasyā vṛtrahaṇaṃ dadathurardhadevaṃ ‖*) ॥
+(3. 7. 4 42-8. 9) **NOTE**
+
+In these Ṛks it is said that, Purukutsa having been imprisoned, the renowned seven (seers) in this kingless country became protectors. **NOTE** When Purukutsa was imprisoned, those same seers, by the favour of Indra and Varuṇa, caused to be born to Purukutsa's wife Purukutsānī Trasadasyu, equal to Indra, a slayer of foes, endowed with the presence of the gods. O Indra and Varuṇa,
+
+### Printed p. 369
+
+did not Purukutsa's wife please and propitiate you both with oblations and praises? As the fruit of that you granted her a son named Trasadasyu, a destroyer of foes, one who dwells in the presence of the gods and is fit to be a lord: so Vāmadeva, the seer of this Maṇḍala, himself has said. In the above example this Trasadasyu and his father Purukutsa are said to be descendants of Girikṣit and Durgaha. Hence the order of their line is Durgaha, Girikṣit, Purukutsa, Trasadasyu. That Tṛkṣi was in the line of Trasadasyu is stated in the Ṛk
+
+येभिस्तृषिं वृषणा त्रासदस्यवं महे क्षत्राय जिन्नथः (*yebhistṛṣiṃ vṛṣaṇā trāsadasyavaṃ mahe kṣatrāya jinnathaḥ*) ।
+(Ṛ. Saṃ. 8-22-7)
+
+and that he belonged to the Pūru line is said in the Ṛk
+
+यद्वा तृक्षा मघवन् द्रुह्यावा जने यत्पूरौ कच्च वृष्णं । (*yadvā tṛkṣā maghavan druhyāvā jane yatpūrau kacca vṛṣṇaṃ |*) ।
+(Ṛ. Saṃ. 6-46-8)
+
+Some scholars have expressed their opinion, from the matters contained in Ṛks beginning thus, that Purukutsa, the father of Trasadasyu, and the king Sudāsa were contemporaries, that they were enemies and that wars took place between them from time to time:
+
+त्वं ह त्यदिंद्र सप्त युध्यन् पुरो वज्रिन् पुरुकुत्साय दर्दः । बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥ (*tvaṃ ha tyadiṃdra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhirna yatsudāse vṛthā vargaṃho rājanvarivaḥ pūrave kaḥ ‖*) ॥
+(Ṛ. Saṃ. 1-63-7)
+
+भिनत्पुरो नवतिमिंद्र पूरवे दिवोदासाय महि दाशुषे नृतो वज्रेण दाशुषे नृतो । (*bhinatpuro navatimiṃdra pūrave divodāsāya mahi dāśuṣe nṛto vajreṇa dāśuṣe nṛto |*) ।
+(Ṛ. Saṃ. 1-130. 7)
+
+It has been said above that Trasadasyu was the king of the people called Pūru. That these Pūrus had settled in the regions on the banks of the river Sarasvatī is known from the descriptions in the 95th and 96th sūktas of the seventh Maṇḍala. It may be conjectured that the Pūrus and the Kurus in course of time united, because, as said in the Ṛk
+
+कुरुश्रवणमावृणि राजानं त्रासदस्यवं । मंहिष्ठं वाघतामृषिः । (*kuruśravaṇamāvṛṇi rājānaṃ trāsadasyavaṃ | maṃhiṣṭhaṃ vāghatāmṛṣiḥ |*) ।
+(Ṛ. Saṃ. 10-33-4)
+
+it becomes evident that Kuruśravaṇa, son of Mitrātithi, a king of the Kuru line, was a descendant of Trasadasyu.
+
+### Printed p. 370
+
+This Trasadasyu, son of Purukutsa, and Para Āṭṭāra, Nītihavya Śrāyasa, Kakṣīvān and Auśija are said to have become famous by performing sacrifices and the like, and to have obtained thousands of sons; descriptions are found in Tai. Saṃ. 5-6-3-3; the Pañcaviṃśa Brāhmaṇa 15-16; the Kāṭhaka Saṃhitā 12-3, and other places.
+
+This king Trasadasyu, Purukutsa's son, is also renowned as a seer. He is the seer of 28 Ṛks in all: the 42nd sūkta in the fourth Maṇḍala of the Ṛ. Saṃ. (10 Ṛks), the 27th sūkta of the fifth Maṇḍala (6 Ṛks) and the 110th sūkta of the ninth Maṇḍala (12 Ṛks).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त वा॒जिनं॑ पुरुनि॒ष्पिध्वा॑नं दधि॒क्रामु॑ ददथुर्वि॒श्वकृ॑ष्टिं ।  
+> ऋ॒जि॒प्यं श्ये॒नं पु॑षि॒तप्पु॑मा॒शुं च॒र्कृत्य॑म॒र्यो नृ॒पतिं॒ न  ॑
+> शूरं ॥ २ ॥
+
+> *uta vājinaṃ puruniṣpidhvānaṃ dadhikrāmu dadathurviśvakṛṣṭiṃ |*  
+> *ṛjipyaṃ śyenaṃ puṣitappumāśuṃ carkṛtyamaryo nṛpatiṃ na*  
+> *śūraṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । वाजिनं । पुरुनिःसिध्वानं । दधिक्रां । ऊं इति । ददथुः । विश्वकृष्णिं ।  
+> यजिप्यं । श्येनं । प्रुषितप्सुं । आशुं । चर्कृत्यं । अर्यः । नृपतिं । न । शूरं ॥
+
+> *uta | vājinaṃ | puruniḥsidhvānaṃ | dadhikrāṃ | ūṃ iti | dadathuḥ | viśvakṛṣṇiṃ |*  
+> *yajipyaṃ | śyenaṃ | pruṣitapsuṃ | āśuṃ | carkṛtyaṃ | aryaḥ | nṛpatiṃ | na | śūraṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च वाजिनं गमनवंतं । अश्वरूपं वा देवं आग्नेरश्वरूपस्यैव
+> दधिक्राख्यत्वात् । अग्नेस्तद्रूपत्वं ब्राह्मणे समाम्नातं । तानग्निरश्वो भूत्वाभ्यद्रवदिति । पुरुनिष्पिध्वानं पुरूणां बहूनां शत्रूणां निष्टेद्धारं दधिक्रां । दधदन्यं
+> धारयन् क्रामतीति दधिक्राः । तमेतन्नामकं देवं । उः पूरणः । विश्वकृष्णिं ।
+> विश्वाः कृष्टयो रक्षणीयाः सेवका वा मनुष्या यस्य तं । ऋजिप्यं । ऋज्वाप्नोति
+> गच्छतीत्यृजिप्यः । तं शैनं शंसनीयगमनं पुषितप्पुं दीप्तरूपमाशुं व्याप्तं
+> शीघ्रगमनं वार्योऽरेश्चर्कृत्यं कर्तनशीलं शूरं नृपतिं न राजानमिव स्थितं
+> देवं द्यावापृथिव्यौ ददथुः । धारयतः ॥
+
+##### Gist of the bhāṣya
+
+उत (*uta*) means "and also". वाजिनं (*vājinaṃ*) is "going", or the god in the form of a horse, since Agni in horse form alone is called Dadhikrā; that Agni has that form is recorded in a Brāhmaṇa: तानग्निरश्वो भूत्वाभ्यद्रवदिति (*tānagniraśvo bhūtvābhyadravaditi*). पुरुनिष्पिध्वानं (*puruniṣpidhvānaṃ*) is the driver away of many enemies. दधिक्रां (*dadhikrāṃ*): one who goes bearing another is Dadhikrā; the god of that name. ऊ (*ū*) is a filler. विश्वकृष्टिं (*viśvakṛṣṭiṃ*): he whose people, all to be protected, or servants, are all. ऋजिप्यं (*ṛjipyaṃ*): one who reaches straight, goes. श्येनं (*śyenaṃ*): of praiseworthy gait. प्रुषितप्सुं (*pruṣitapsuṃ*): of shining form. आशुं (*āśuṃ*): pervading, swift-going. *aryaḥ carkṛtyaṃ*: given to cutting down the enemy. नृपतिं न शूरं (*nṛpatiṃ na śūraṃ*): standing like a heroic king, the god; Dyāvāpṛthivī you two hold (ददथुः (*dadathuḥ*) means "you two hold").
+
 ---
 
-**Progress note:** Done through printed p. 364. pp. 358-364 (batch API)
+**Progress note:** Done through printed p. 370. pp. 365-370 (batch API)
