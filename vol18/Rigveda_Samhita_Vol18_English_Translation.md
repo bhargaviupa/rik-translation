@@ -1595,6 +1595,240 @@ Of whom there is no opposer by (reason of) his birth, nor any destroyer of the w
 तविषीवः उग्र पुरुहूत उद्ववृषाणः रायः अस्मभ्यं दद्धि (*taviṣīvaḥ ugra puruhūta udvavṛṣāṇaḥ rāyaḥ asmabhyaṃ daddhi*)—O Indra, you are of great strength and resplendent, and many invoke you for sacrifice. You are the showerer (giver) of desired objects to the people who praise you; such as you, provide us, who are praising you, with riches such as wealth in cattle: thus Indra is prayed to.
 The words राधः (*rādhaḥ*), मघं (*maghaṃ*), रायः (*rāyaḥ*) are read among the names of wealth (Ni. 3-9). The word तविषी (*taviṣī*) is read among the names of strength (Ni. 3-8).
 
+### Printed p. 43
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईक्षे॑ रा॒यः क्षय॑स्य चर्षणी॒नामु॒त व्र॒जम॑पव॒र्तासि॒ गोनां॑।  
+> शि॒क्षा॒न॒रः स॑मि॒थेषु॑ प्र॒हावा॒न्वस्वो॑ रा॒शिम॑भिने॒तासि॒ भूरिं॑ ॥८॥
+
+> *īkṣe rāyaḥ kṣayasya carṣaṇīnāmuta vrajamapavartāsi gonāṃ|*  
+> *śikṣānaraḥ samitheṣu prahāvānvasvo rāśimabhinetāsi bhūriṃ ‖8‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईक्षे । रायः । क्षयस्य । चर्षणीनां । उत । व्रजं । अपवर्ता । असि । गोनां ।  
+> शिक्षानरः । संइथेषु । प्रहावान् । वस्वः । राशिं । अभिनेता । असि । भूरिं ॥ ८ ॥
+
+> *īkṣe | rāyaḥ | kṣayasya | carṣaṇīnāṃ | uta | vrajaṃ | apavartā | asi | gonāṃ |*  
+> *śikṣānaraḥ | saṃitheṣu | prahāvān | vasvaḥ | rāśiṃ | abhinetā | asi | bhūriṃ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं चर्षणीनां प्रजानां रायो धनस्य क्षयस्य गृहस्य चेक्षे ।
+> ईक्षसे । उतापि च गोनां गवां व्रजं समूहमपवर्तापवारकोऽसि । निरोधकेभ्योऽसुरेभ्यो गवां मोचयिता भवसीत्यर्थः । किंच हे इंद्र शिक्षानरः शिक्षया
+> नेता प्रज्ञानां शासकः समिथेषु युद्धेषु प्रहावान् प्रहरणवांस्त्वं भूरिं
+> प्रभूतं वस्वो धनस्य राशिं समूहमभिनेतासि । प्रापयिता च भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the ruler of the wealth and of the house of the people (चर्षणीनां (*carṣaṇīnāṃ*), the subjects): ईक्षे (*īkṣe*) means "you rule". Further, you are the one who opens (अपवर्ता (*apavartā*)) the herd (व्रजं (*vrajaṃ*)) of cows (गोनां (*gonāṃ*)). That is, you become the releaser of the cows from the Asuras who confine them. Moreover, O Indra, you are शिक्षानरः (*śikṣānaraḥ*), the leader by instruction, the ruler of men. In battles (समिथेषु (*samitheṣu*)) you are the one who strikes (प्रहावान् (*prahāvān*)). You are the one who brings (अभिनेता (*abhinetā*)), that is, causes to reach us, an abundant (भूरिं (*bhūriṃ*)) heap of wealth (वस्वः (*vasvaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चर्षणीनां (*carṣaṇīnāṃ*)—of the people
+- रायः (*rāyaḥ*)—of the wealth
+- क्षयस्य (*kṣayasya*)—of the house
+- ईक्षे (*īkṣe*)—(you yourself) are the lord
+- उत (*uta*)—and
+- गोनां (*gonāṃ*)—of the cows
+- व्रजं (*vrajaṃ*)—the herd
+- अपवर्ता (*apavartā*)—the protector (from the Asuras)
+- असि (*asi*)—you are (and)
+- शिक्षानरः (*śikṣānaraḥ*)—the instructor
+- समिथेषु (*samitheṣu*)—in battles
+- प्रहावान् (*prahāvān*)—you, the smiter of enemies
+- भूरिं (*bhūriṃ*)—abundant
+- वस्वः (*vasvaḥ*)—of wealth
+- राशिं (*rāśiṃ*)—the heap
+- अभि ीता असि (*abhi ītā asi*)—you are the one who supplies **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you yourself are the lord over the wealth and the houses of the people who worship you. You are also the protector of the cows that were held back by the Asuras. You are the instructor of men and the smiter of enemies in battles, and you are the one who supplies an abundant heap of wealth.
+
+### Printed p. 44
+
+##### English translation (H. H. Wilson)
+You rule over the riches and the dwellings of men; you are the rescuer of the herd of cattle; you are the giver of instruction, the smiter in battles, and the distributor of great heaps of riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+चर्षणीनां रायः क्षयस्य ईक्षे (*carṣaṇīnāṃ rāyaḥ kṣayasya īkṣe*)—O Indra, you are the lord of the wealth and of the dwelling places of the people. The meaning is that you yourself provide the wealth and the dwellings that men need. The word चर्षणि (*carṣaṇi*) is read among the names of wealth (Ni. 3-7); the word रायः (*rāyaḥ*) among the names of wealth (Ni. 3-9); and the word क्षय (*kṣaya*) in the sense of dwelling (Ni. 8-18).
+
+गोनां व्रजं अपवर्ता असि (*gonāṃ vrajaṃ apavartā asi*)—गवां समूहं अपवारकोऽसि । निरोधकेभ्योऽसुरेभ्यो गवां मोचयिता भवसीत्यर्थः । (*gavāṃ samūhaṃ apavārako 'si | nirodhakebhyo 'surebhyo gavāṃ mocayitā bhavasītyarthaḥ |*) The meaning is that you freed the cows that the Asuras called Paṇis had carried off, brought them back from them, and protected them.
+
+शिक्षानरः समिथेषु प्रहावान् भूरिं वस्वः राशिं अभिनेता असि (*śikṣānaraḥ samitheṣu prahāvān bhūriṃ vasvaḥ rāśiṃ abhinetā asi*)—You, who are the guide and instructor of men and the one who strikes and drives off enemies in battles, bring and supply an abundant heap of wealth to the people who serve you.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कया॒ तच्छृ॑ण्वे॒ शच्या॒ शचि॑ष्टो॒ यया॑ कृ॒णोति॒ मुहु॒ का  ॒॑
+> चिद्दृष्टः ।  
+> पु॒रु दा॒शुषे॒ विज॑यिष्ठो॒ अंहोऽथा॑ दधात्रि॒ द्रवि॑णं जरि॒त्रे॥
+
+> *kayā tacchṛṇve śacyā śaciṣṭo yayā kṛṇoti muhu kā*  
+> *ciddṛṣṭaḥ |*  
+> *puru dāśuṣe vijayiṣṭho aṃho 'thā dadhātri draviṇaṃ jaritre‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कया । तत् । शृण्वे । शच्या । शचिष्ठः । यया । कृणोति । मुहु । का । चित् । ऋष्वः ।  
+> पुरु । दाशुषे । विचयिष्ठः । अंहः । अथ । दधाति । द्रविणं । जरित्रे ॥ ९ ॥
+
+> *kayā | tat | śṛṇve | śacyā | śaciṣṭhaḥ | yayā | kṛṇoti | muhu | kā | cit | ṛṣvaḥ |*  
+> *puru | dāśuṣe | vicayiṣṭhaḥ | aṃhaḥ | atha | dadhāti | draviṇaṃ | jaritre ‖ 9 ‖*
+
+### Printed p. 45
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शचिष्टोऽतिशयेन प्राज्ञः । तदिति लिंगव्यत्ययः । तत् स इंद्रः कया शच्या
+> कया प्रज्ञया । शचीति प्रज्ञानामैतत् । शृण्वे । श्रूयते । ऋषो महानिंद्रो
+> मुहु मुहुर्यया प्रज्ञया का चित् कानिचित्कर्माणि कृणोति । करोति ।
+> स इंद्रो दाशुषे हविर्दत्तवते यजमानाय पुरु भूयिष्ठमंहः पापं
+> विचयिष्टोऽतिशयेन नाशको भवति । अथापि च जरित्रे स्तोत्रे द्रविणं पश्वादिधनं
+> दधाति । ददाति ॥
+
+##### Gist of the bhāṣya
+
+शचिष्टो (*śaciṣṭo*) means exceedingly wise. तत् (*tat*) is a change of gender. That Indra, by what शच्या (*śacyā*), that is, by what wisdom, is he heard of (शृण्वे (*śṛṇve*), "is heard")? शची (*śacī*) is among the names of wisdom. The great (ऋष्वः (*ṛṣvaḥ*)) Indra repeatedly (मुहु (*muhu*)) performs some deeds (का चित् (*kā cit*)) by the wisdom by which he does them (कृणोति (*kṛṇoti*)). That Indra becomes, for the sacrificer who has given the oblation (दाशुषे (*dāśuṣe*)), the exceeding destroyer of sin (अंहः (*aṃhaḥ*)), however abundant (पुरु (*puru*)). And further he gives (दधाति (*dadhāti*)) to the praiser (जरित्रे (*jaritre*)) wealth (द्रविणं (*draviṇaṃ*)) such as cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचिष्ठः (*śaciṣṭhaḥ*)—the exceedingly wise
+- तत् (*tat*)—that same Indra
+- कया शच्या (*kayā śacyā*)—with what wisdom
+- शृण्वे (*śṛṇve*)—is he renowned
+- ऋष्ट्वः (*ṛṣṭvaḥ*)—the great Indra **NOTE**
+- मुहुः (*muhuḥ*)—again and again
+- यया (*yayā*)—by what wisdom
+- का चित् (*kā cit*)—many great deeds
+- कृणोति (*kṛṇoti*)—does (that same Indra)
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblation
+- पुरु (*puru*)—even though abundant
+- अंहः (*aṃhaḥ*)—sin
+- विजयिष्ठः (*vijayiṣṭhaḥ*)—becomes the one who destroys completely
+- अथ (*atha*)—and
+- जरित्रे (*jaritre*)—to the praiser
+- द्रविणं (*draviṇaṃ*)—wealth such as cattle
+- दधाति (*dadhāti*)—gives
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is exceedingly wise, is renowned for some great quality. What is the nature of such wisdom? By what kind of wisdom is he able to perform great deeds again and again? Precisely because he is so wise, Indra destroys completely the sin of the sacrificer who offers the oblation, even if that sin is exceedingly great. And he also gives wealth such as cattle to the praiser.
+
+##### English translation (H. H. Wilson)
+By what wisdom is he who is most wise renowed? by that where-
+with the mighty Indra repeatedly does (great things): he is the especial
+effacer of the manifold sin of the worshipper, and bestows wealth upon his
+adorer.
+
+##### विशेषविषयगळु (Special Topics)
+
+शचिष्ठः तत् कया शच्या शृण्वे (*śaciṣṭhaḥ tat kayā śacyā śṛṇve*)—By what wisdom is Indra, who is exceedingly wise, heard of? The word शची (*śacī*) is read among the names of speech (Ni. 2-13), among the names of action (Ni. 3-2), and among the names of wisdom (Ni. 3-13). Here it is used in the sense of wisdom. By what wisdom, or by what daring action (the word शची (*śacī*) also means action), has Indra, who is exceedingly wise, gained renown?
+
+### Printed p. 46
+In this sentence the word तत् (*tat*), by a change of gender, indicates the masculine sense सः (*saḥ*).
+
+ऋष्टः मुहु यया काचित् कृणोति (*ṛṣṭaḥ muhu yayā kācit kṛṇoti*)—By what wisdom or power is that same great Indra able to perform daring feats or great deeds? In this way, and others like it, the seer Vāmadeva describes the qualities of Indra by way of question and answer.
+
+दाशुषे पुरु अंहः विजयिष्टः (*dāśuṣe puru aṃhaḥ vijayiṣṭaḥ*)—Though the sins of the sacrificer who offers the oblation are many, this Indra destroys them completely and protects him. For the word अंहः (*aṃhaḥ*) Yāska gives the etymology अंहतिरश्नोत्यंहतिश्चांहश्चांहुश्च हंतेर्निरूढोपधात् विपरीतात् (*aṃhatiraśnotyaṃhatiścāṃhaścāṃhuśca haṃternirūḍhopadhāt viparītāt*) (Ni. 4-25). That is, the words अंहति (*aṃhati*), अंहः (*aṃhaḥ*), अंहुः (*aṃhuḥ*) are derived from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*), meaning "to injure, to kill", with a reversal of letters (that is, the final letter becomes the first). The evil deeds or sins that a man has done pervade him and follow him, and so they are called अंहः (*aṃhaḥ*), "sin"; or, since this (sin) injures the one who has done evil, it is called अंहः (*aṃhaḥ*). Such is the explanation of the meaning.
+
+जरित्रे द्रविणं दधाति (*jaritre draviṇaṃ dadhāti*)—He gives wealth to the sacrificer who praises. The word द्रविण (*draviṇa*) is read among the names of wealth (Ni. 3-9), and the word जरिता (*jaritā*) among the names of praisers (Ni. 3-19).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ मर्धी॒रा भ॑रा द॒द्धि तन्नः॒ प्र दा॒शुषे॒ दात॑वे॒ भूरि॒  ॑
+> यत्ते ।  
+> नव्ये॑ दे॒ष्टे श॒स्ते अ॒स्मिन्त॑ उ॒क्ते प्र ब्र॑वाम व॒यमिं॑द्र  ॒॑
+> स्तुवंतः ॥ १० ॥
+
+> *mā no mardhīrā bharā daddhi tannaḥ pra dāśuṣe dātave bhūri*  
+> *yatte |*  
+> *navye deṣṭe śaste asminta ukte pra bravāma vayamiṃdra*  
+> *stuvaṃtaḥ ‖ 10 ‖*
+
+### Printed p. 47
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । मर्धीः । आ । भर । दद्धि । तत् । नः । प्र । दाशुषे । दातवे । भूरि ।  
+> यत् । ते ।  
+> नव्ये । देष्टे । शस्ते । अस्मिन् । ते । उक्ते । प्र । ब्रवाम । वयं । इंद्र ।  
+> स्तुवंतः ॥ १० ॥
+
+> *mā | naḥ | mardhīḥ | ā | bhara | daddhi | tat | naḥ | pra | dāśuṣe | dātave | bhūri |*  
+> *yat | te |*  
+> *navye | deṣṭe | śaste | asmin | te | ukte | pra | bravāma | vayaṃ | iṃdra |*  
+> *stuvaṃtaḥ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नोऽस्मान्मा मर्धीः । मा हिंसीः । किंतु त्वमा भर । पोषको
+> भव । हे इंद्र ते त्वदीयं भूरि बह्वपि यद्धनं दाशुषे हविर्दत्तवते यजमानाय दातवे दातुं । प्र भवतीति शेषः । नोऽस्मभ्यं तद्वनमाहृत्य दद्धि । देहि ।
+> हे इंद्र त्वां स्तुवंतो वयमस्मिन्नुक्षेऽस्मिन्निक्केवल्याख्यशस्त्रे ते त्वदर्थं
+> नव्ये नूतने शस्त्रे प्रशस्ते देष्टे दातव्ये हविषि निमित्तभूते सति प्र ब्रवाम ।
+> प्रकर्षेण त्वां वदाम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, do not harm us (मा मर्धीः (*mā mardhīḥ*), "do not injure"); rather, bear (आ भर (*ā bhara*)) us, that is, be our nourisher. O Indra, whatever abundant wealth of yours is able (the verb "is able", प्र भवतीति (*pra bhavatīti*), is to be supplied) to be given (दातवे (*dātave*)) to the sacrificer (दाशुषे (*dāśuṣe*)) who has given the oblation, bring that wealth and give (दद्धि (*daddhi*)) it to us. O Indra, we who praise you, at this उक्थ (*uktha*), this śastra called Niṣkevalya, while the oblation to be given (देष्टे (*deṣṭe*)), a new (नव्ये (*navye*)) and excellent (शस्ते (*śaste*)) one, is the occasion on your account, speak forth (प्र ब्रवाम (*pra bravāma*)): we address you with exceeding praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—us
+- मा मर्धीः (*mā mardhīḥ*)—do not harm
+- आ भर (*ā bhara*)—be our nourisher
+- ते (*te*)—your
+- भूरि (*bhūri*)—abundant
+- यत् (*yat*)—which wealth
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- दातवे (*dātave*)—to give
+- प्र (भवति) (*pra (bhavati)*)—is fully available
+- तत् (*tat*)—that wealth
+- नः (*naḥ*)—to us
+- दद्धि (*daddhi*)—give
+- इंद्र (*iṃdra*)—O Indra
+- स्तुवंतः (*stuvaṃtaḥ*)—praising you
+- वयं (*vayaṃ*)—we
+- अस्मिन् उक्थे (*asmin ukthe*)—in this śastra called Niṣkevalya
+- ते (*te*)—directed to you
+- नव्ये (*navye*)—new
+- शस्ते (*śaste*)—excellent
+- देष्टे (*deṣṭe*)—being presented to you; by reason of offering the oblation
+- प्र ब्रवाम (*pra bravāma*)—we praise exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, do not harm us; be our nourisher. Whatever abundant wealth of yours is fully available to give to the sacrificer who offers the oblation, give that wealth to us. O Indra, we who praise you, in this śastra called Niṣkevalya, on account of offering the oblation that is directed to you, new, excellent and presented to you, praise you exceedingly.
+
+### Printed p. 48
+
+##### English translation (H. H. Wilson)
+Harra us not, but cherish us, Indra : bestow upon us that abundant wealth which it is yours to give to the donor (of the oblation) : praising you, we celebrate you at this sacred rite, which is new and excellent, and (at which the oblation) is proper to be presented.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Vāmadeva and his people praise and pray to Indra. They pray to Indra not to harm them but, as their nourisher, to give abundant wealth; and further they pray that in the Niṣkevalya śastra mantras that they have now newly composed they will praise Indra greatly and offer the oblation.
+
+In this Ṛk the matter of praising Indra with the Niṣkevalya śastra mantras is stated. It is said in the Aitareya Brāhmaṇa that the Niṣkevalya śastra is very pleasing to Indra. In many places in the Ṛgveda the Bhāṣyakāra has taken up the matter of the Niṣkevalya śastra mantras and explained their meaning. Therefore we have set out the nature, the earlier history and the explanation of these Niṣkevalya śastra mantras as they are in the Aitareya Brāhmaṇa.
+
+Explanation of the Niṣkevalya śastra mantras
+
+(Indra desires the position (rank) of Prajāpati — the reason Prajāpati came to have the name क (*ka*) ("Ka") — Indra's share of the oblation in the sacrifice)
+
+There is a narrative on this matter:
+
+इंद्रो वै वृत्रं हत्वा सर्वा विजितीर्विजित्याब्रवीत्प्रजापतिमहमेतदसानि यत्त्वमहं महानसानीति स प्रजापतिरब्रवीदथ कोऽहमिति यद्वैवैतदवोच इत्यब्रवीत्ततो वै को नाम प्रजापतिरभवत्को वै नाम प्रजापतिर्यन्महानिंद्रोऽभवत्तन्महेंद्रस्य महेंद्रत्वं । (*iṃdro vai vṛtraṃ hatvā sarvā vijitīrvijityābravītprajāpatimahametadasāni yattvamahaṃ mahānasānīti sa prajāpatirabravīdatha ko 'hamiti yadvaivaitadavoca ityabravīttato vai ko nāma prajāpatirabhavatko vai nāma prajāpatiryanmahāniṃdro 'bhavattanmaheṃdrasya maheṃdratvaṃ |*) (Ai. Brā. 12-21)
+
+In former times, after Indra had slain Vṛtra, he conquered all the regions of the earth and said to Prajāpati: "O Prajāpati, you have now gained a great position and are worshipful. From now on I want your great rank." To that Prajāpati asked: "If you take my rank, then who (कः (*kaḥ*)) am I? What is my station?" To that Indra—"O **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 42. pp. 37-42 (batch API)
+**Progress note:** Done through printed p. 48. pp. 43-48 (batch API)
