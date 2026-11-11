@@ -23662,6 +23662,253 @@ There are also explanations in many places that these same Heaven and Earth were
 
 "Hiraṇyagarbha caused the heavenly world and the Earth to come into being." (10-1-9)
 
+### Printed p. 611
+“Though themselves lords of the world, Heaven and Earth received their form and variety from Tvaṣṭṛ.” (10-110-9)
+
+“From the head of the Supreme Person Heaven came into being, and from his feet the Earth.” (10-90-14)
+
+“Mitra and Savitṛ are the supporters of this Heaven and Earth.” (3-59-1; 4-53-2; 10-149-1)
+
+“This Heaven and Earth are in the keeping of Varuṇa, Indra, Soma and Hiraṇyagarbha.” (6-70-1; 7-86-1; 8-42-1; 9-72-2; 10-121-5)
+
+These and many other passages tell of the order in which Heaven and Earth came to be, and of their subordination to Indra and the other deities.
+
+3. Some conceptions concerning the origin of Heaven and Earth:
+
+In many places the seer of a sūkta expresses his wonder when describing the origin and nature of Heaven and Earth.
+
+“Which of these two, Heaven and Earth, was the earlier? Which came into being afterwards? What was the order of their origin? O seers, which of you knows this?”—so it is asked (1-185-1).
+
+One may note the statement of the Śatapatha Brāhmaṇa, इयं पृथ्वी भूतस्य प्रथमजा (*iyaṃ pṛthvī bhūtasya prathamajā*): among all things that have come into being, this Earth was the first to arise (Śa. Brā. 14-1-2-10).
+
+In one place it is said, “The waters know the original abode of Heaven and Earth” (7-34-2); in another setting a different seer asks: “Day and night and the dawns, subject to rising and setting, are subject to birth and destruction; of the limbs of what forest and of what tree were these Heaven and Earth fashioned, which are of imperishable and stable nature?” (10-31-7).
+
+### Printed p. 612
+The same question is recited again in Ṛk 10-81-4. In answer to it, the 2nd and 3rd verses of the same sūkta, that is, of sūkta 10-81, say as follows.
+
+“That Viśvakarman made these Heaven and Earth is true. But on what ground, and relying on what support, did Viśvakarman, who sees all, fashion this Earth and cause the heaven to spread?”
+
+“This god, who has an eye able to look upon the whole universe, who faces every way, whose arms stretch over the whole universe, and who is the protector of the universe, alone, when he fashions this Heaven and Earth, beats and spreads out his arms and his wings.” The answer to this same question in the Taittirīya Brāhmaṇa is as follows.
+
+ब्रह्म वनं ब्रह्म स वृक्ष आसीत्.... (*brahma vanaṃ brahma sa vṛkṣa āsīt....*) What was the chief means for fashioning these Heaven and Earth? Brahman itself was that forest, Brahman itself was that tree; from these the making of Heaven and Earth took place (Tai. Brā. 2-8-9-6).
+
+In sūkta Ṛ. Saṃ. 10-72 the order of origin of Heaven and Earth is described in another way. That will be explained in a later part. But in Ṛk 10-129-1, describing the nature of the creation of the universe, it is said as follows.
+
+“At the beginning of creation there was neither being nor non-being. There was neither atmosphere nor heaven, nothing at all.” Explaining this same idea in the Taittirīya Brāhmaṇa also: इदं वै अग्रे नैव किंचनासीत् । न द्यौरासीत् । न पृथिवी !..........स्यां इति (*idaṃ vai agre naiva kiṃcanāsīt | na dyaurāsīt | na pṛthivī !..........syāṃ iti*)—in the beginning there was neither heaven nor earth, nor was there atmosphere. Non-existence alone pervaded, and it wished, “May I become in the form of being”; so it is said (Tai. Brā. 2-2-9-1).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मही द्यावापृथिवी इति सप्तर्चमेकादशं सूक्तं वामदेवस्यार्षं
+> द्यावापृथिव्यं । पूर्वत्र त्रिगायत्र्यंतं त्वित्युक्तत्वात्पंचम्याद्यास्तिस्रो गायत्र्यः
+> शिष्टास्त्रिष्टुभः । मही सप्त द्यावापृथिवीयमित्यनुक्रमणिका ॥ व्यूढे दशरात्रे
+> पंचमेऽहनि वैश्वदेवशस्त्र आदितश्चतुर्यचं द्याव्यापृथिव्यनिविद्वानीयं । तथा च
+> सूत्रितं । मही द्यावापृथिवी इति चतस्र ऋभुर्विभ्वा । आ. ८-८ । इति ॥
+> अनुवादवु—मही द्यावापृथिवी ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि हन्नॊंदनॆय
+> सूक्तवु. इदरल्लि एळु ऋक्कुगळिरुवुवु. ई सूक्तक्कॆ वामदेवनु ऋषियु; द्यावापृथिविगळु
+> देवतॆयु. हिंदॆ त्रिगायत्र्यंतं तु ऎंदु हेळिरुवुदरिंद ई सूक्तद ऐदने ऋक्किनिंद
+> मूरु ऋक्कुगळु गायत्रीछंदस्कवु. उळिद ऋक्कुगळु त्रिष्टुप् छंदस्कवु. अनुक्रमणिकॆयल्लि—
+> मही सप्त द्यावापृथिवीयं ऎंदु हेळिरुवुदु. व्यूळ्वॆंब दशरात्रयागदल्लि ऐदनॆय
+> दिवस वैश्वदेवशस्त्रमंत्र पठनमाडुवाग ई सूक्तद मॊदलनॆय नाल्कु ऋक्कुगळु द्यावापृथिवी
+> संबंधवाद निविद्धानीयसूक्तक्कागि विनियोगविरुवुदॆंदु आश्वलायन श्रौतसूत्रद—मही
+> द्यावापृथिवी इति चतस्र ऋभुर्निभ्वा ऎंब सूत्रदिंद (आ. ८-८) विवृतवागिरुवुदु.
+
+##### Gist of the bhāṣya
+
+The sūkta beginning मही द्यावापृथिवी (*mahī dyāvāpṛthivī*) is the eleventh sūkta, of seven ṛcs; its seer is Vāmadeva and its deity Dyāvāpṛthivī (Heaven and Earth). Since it was said earlier त्रिगायत्र्यंतं तु (*trigāyatryaṃtaṃ tu*) (“but ending in three Gāyatrīs”), the three ṛcs from the fifth onward are Gāyatrī and the remaining ones Triṣṭubh. The Anukramaṇikā says: मही सप्त द्यावापृथिवीयं (*mahī sapta dyāvāpṛthivīyaṃ*). Use: in the vyūḍha Daśarātra, on the fifth day, in the Vaiśvadeva-śastra, the first four ṛcs of this sūkta serve as the Dyāvāpṛthivī nivid-dhānīya hymn; so the sūtra says that “the four ṛcs मही द्यावापृथिवी (*mahī dyāvāpṛthivī*)” are so used (Ā. Sū. 8-8). The Kannada Anuvāda repeats these particulars: the sūkta is the 11th in the 5th Anuvāka, with 7 ṛcs.
+
+> सूक्त—५६
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५६ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—८ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—७ ॥
+> ॥ ऋषिः—नामदेवः ॥
+> ॥ देवता—द्यावापृथिव्यौ ॥
+> ॥ छंदः—१-४, त्रिष्टुप् । ५-७, गायत्री ॥
+
+**NOTE**
+**NOTE**
+
+### Printed p. 613
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒ही द्यावा॑पृथि॒वी इ॒ह ज्येष्ठे॑ रु॒चा भ॑वतां शु॒चय॑द्भिर॒र्कैः।  
+> यत्सीं॒ वरि॑ष्ठे बृह॒ती वि॑मि॒न्वन्नु॒वद्धो॒क्षा प॑प्रथा॒नेभि॒रेवैः॑ ॥
+
+> *mahī dyāvāpṛthivī iha jyeṣṭhe rucā bhavatāṃ śucayadbhirarkaiḥ|*  
+> *yatsīṃ variṣṭhe bṛhatī viminvannuvaddhokṣā paprathānebhirevaiḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मही इति । द्यावापृथिवी इति । इह । ज्येष्टे इति । रुचा । भवतां । शुचयत्भिः ।  
+> अर्कैः ।  
+> यत् । सीं । वरिष्टे इति । बृहती इति । विमिन्वन् । रुवत् । ह । उक्षा । पप्रथानेभिः।  
+> एवैः ॥ १ ॥
+
+> *mahī iti | dyāvāpṛthivī iti | iha | jyeṣṭe iti | rucā | bhavatāṃ | śucayatbhiḥ |*  
+> *arkaiḥ |*  
+> *yat | sīṃ | variṣṭe iti | bṛhatī iti | viminvan | ruvat | ha | ukṣā | paprathānebhiḥ|*  
+> *evaiḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इह यज्ञे मही महत्यौ ज्येष्ठे प्रशस्यॆ द्यावापृथिवी द्यावापृथिव्यौ
+> रुचा दीप्त्या युक्ते शुचयद्भिर्दिर्पयद्भिरर्कैर्मंत्रैः सोमादिहविर्भिर्वा
+> युक्ते भवतां । यत् यस्मात् सीं सर्वतो वरिष्ठे उरुतरे बृहती महत्यौ
+> द्यावापृथिव्यौ विमिन्वन् परिछिंदन् स्थापयन् उक्षा सेक्ता पर्जन्यः पप्रथानेभिः
+> प्रथमानैरेनैर्गमनशीलैर्मरुद्धिर्मेघैर्वा सह रुवत् । रौति । शब्दं करोति ।
+> हेति पूरणः । तस्माद्रुचा भवतामिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+In this sacrifice may Heaven and Earth, the great (मही (*mahī*)) and most praiseworthy (ज्येष्ठे (*jyeṣṭhe*)), be endowed with brilliance (रुचा (*rucā*) = radiance) and with shining hymns (अर्कैः (*arkaiḥ*) = mantras), or with oblations such as soma. The reason: since Parjanya the showerer (उक्षा (*ukṣā*) = the sprinkler), establishing and delimiting (विमिन्वन् (*viminvan*)) the most extensive (वरिष्ठे (*variṣṭhe*)), mighty (बृहती (*bṛhatī*)) Heaven and Earth on every side (सीं (*sīṃ*)), roars (रुवत् (*ruvat*) = makes sound) together with the spreading (पप्रथानेभिः (*paprathānebhiḥ*)) and fast-going (एवैः (*evaiḥ*)) Maruts, or with the clouds. ह (*ha*) is an expletive. Therefore the connection is: let them be present with brilliance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- सीं (*sīṃ*)—everywhere
+- वरिष्ठे (*variṣṭhe*)—the extensive
+- बृहती (*bṛhatī*)—and great Heaven and Earth
+- विमिन्वन् (*viminvan*)—separating and establishing
+- उक्षा (*ukṣā*)—Parjanya, the showerer of rain
+
+### Printed p. 614
+- पप्रथानेभिः (*paprathānebhiḥ*)—renowned
+- एवैः (*evaiḥ*)—together with the Maruts (or with the clouds)
+- रुवत् (*ruvat*)—makes sound (therefore)
+- मही (*mahī*)—of great nature
+- ज्येष्ठे (*jyeṣṭhe*)—and praiseworthy
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- रुचा (*rucā*)—possessed of radiance
+- शुचयद्भिः (*śucayadbhiḥ*)—shining
+- अर्कैः (*arkaiḥ*)—praised with hymns
+- इह (*iha*)—in this sacrifice
+- भवतां (*bhavatāṃ*)—let them be seated
+
+##### भावार्थ (Bhāvārtha)
+
+With the benevolent intent with which Parjanya, the showerer of rain, separating and establishing Heaven and Earth, which are everywhere extensive and great, roars together with the renowned Maruts and with the clouds (for the sake of rain)—for that very reason may Heaven and Earth, of great nature and praiseworthy, be seated in this sacrifice, radiant and praised with shining hymns.
+
+##### English translation (H. H. Wilson)
+Vast and most excellent Heaven and Earth, be present with splendour at this (sacrifice, attracted) by sanctifying hymns; since that the showerer sounds everywhere with (his) heralds, the rapid (winds), passing through the two spacious and mighty (regions).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वी दे॒वेभि॑र्यज॒ते यज॑त्रै॒रमि॑नती तस्थतुरु॒क्षमा॑णे ।  
+> ऋ॒ताव॑री अ॒द्रुहा॑ दे॒वपु॑त्रे य॒ज्ञस्य॑ ने॒त्री शु॒चय॑द्भिर॒र्कैः ॥
+
+> *devī devebhiryajate yajatrairaminatī tasthaturukṣamāṇe |*  
+> *ṛtāvarī adruhā devaputre yajñasya netrī śucayadbhirarkaiḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवी इति । देवेभिः । यजते इति । यजत्रैः । अमिनती इति । तस्थतुः । उक्षमाणे  
+> इति ।  
+> ऋतवरी इत्यृतवरी । अद्रुहा । देवपुत्रे इति देवपुत्रे । यज्ञस्य । नेत्री  
+> इति । शुचयत्भिः । अर्कैः ॥ २ ॥
+
+> *devī iti | devebhiḥ | yajate iti | yajatraiḥ | aminatī iti | tasthatuḥ | ukṣamāṇe*  
+> *iti |*  
+> *ṛtavarī ityṛtavarī | adruhā | devaputre iti devaputre | yajñasya | netrī*  
+> *iti | śucayatbhiḥ | arkaiḥ ‖ 2 ‖*
+
+### Printed p. 615
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवी देव्यौ यजते यष्टव्ये अमिनती प्रजा अहिंसत्यावुक्षमाणे सिंचत्यावृतावरी ऋतवत्यावद्रुहाद्रोग्भौ द्रोहमकुर्वत्यौ देवपुत्रे देवोत्पादिक्यौ
+> यज्ञस्य नेत्री निर्वाहयित्र्यौ द्यावास्पृथिव्यौ देवेभिर्देवैर्यजत्रैर्यष्टव्यैः
+> सहिते शुचयद्भिः शोचयद्भिरर्कैर्मंत्रैर्हविर्भिर्वा युक्ते तस्थतुः । तिष्ठतः ।
+> स्यातामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The two divine (देवी (*devī*)) ones, Heaven and Earth, worthy of worship (यजते (*yajate*)), not harming (अमिनती (*aminatī*)) creatures, sprinkling (उक्षमाणे (*ukṣamāṇe*)), possessed of truth (ऋतावरी (*ṛtāvarī*)), not doing injury (अद्रुहा (*adruhā*)), mothers of gods (देवपुत्रे (*devaputre*) = producers of the gods), the carriers-through (नेत्री (*netrī*)) of the sacrifice, being accompanied by the gods (देवेभिः (*devebhiḥ*)) worthy of worship (यजत्रैः (*yajatraiḥ*)) and endowed with shining (शुचयद्भिः (*śucayadbhiḥ*)) hymns (अर्कैः (*arkaiḥ*)) or oblations—तस्थतुः (*tasthatuḥ*) means तिष्ठतः (*tiṣṭhataḥ*): that is, let them be.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवी (*devī*)—of divine nature
+- यजते (*yajate*)—worthy of sacrifice
+- अमिनती (*aminatī*)—not harming (being full of compassion)
+- उक्षमाणे (*ukṣamāṇe*)—who pour down desired objects
+- ऋतावरी (*ṛtāvarī*)—of true nature
+- अद्रुहा (*adruhā*)—without thought of injury
+- देवपुत्रे (*devaputre*)—who have the gods as sons
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- नेत्री (*netrī*)—and the carriers-through, Heaven and Earth
+- यजत्रैः (*yajatraiḥ*)—worthy of sacrifice
+- देवेभिः (*devebhiḥ*)—together with the gods
+- शुचयद्भिः (*śucayadbhiḥ*)—shining
+- आर्कैः (*ārkaiḥ*)—praised with hymns
+- तस्थतुः (*tasthatuḥ*)—let them be in this sacrificial place
+
+##### भावार्थ (Bhāvārtha)
+
+May Heaven and Earth—of divine nature, worthy of sacrifice, compassionate toward the creatures of the world and harming none, pouring down desired objects, of true nature, without thought of injury, having the gods as their sons, carrying through the sacrifice—be in this sacrificial place, accompanied by the gods worthy of sacrifice and praised with shining hymns.
+
+##### English translation (H. H. Wilson)
+May the divine, adorable, benevolent, fertilizing, truthful, unoppressive Heaven and Earth, the leaders of sacrifice, whose sons are the gods, be present with the adorable gods, (attracted) by sanctifying hymns.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इत्स्वपा॒ भुव॑नेष्वास॒ य इ॒मे द्यावा॑पृथि॒वी ज॒जान॑ ।  
+> उ॒र्वी ग॑भी॒रे रज॑सी सु॒मेके॑ अवं॒शे धीरः॒ शच्या॒ समै॑रत् ॥३॥
+
+> *sa itsvapā bhuvaneṣvāsa ya ime dyāvāpṛthivī jajāna |*  
+> *urvī gabhīre rajasī sumeke avaṃśe dhīraḥ śacyā samairat ‖3‖*
+
+### Printed p. 616
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । सुअपाः । भुवनेषु । आस । यः । इमे इति । द्यावापृथिवी इति ।  
+> जजान ।  
+> उर्वी इति । गभीरे इति । रजसी इति । सुमेके इति सुमेके । अवंशे । धीरः ।  
+> शच्या । सं । ऐरत् ॥ ३ ॥
+
+> *saḥ | it | suapāḥ | bhuvaneṣu | āsa | yaḥ | ime iti | dyāvāpṛthivī iti |*  
+> *jajāna |*  
+> *urvī iti | gabhīre iti | rajasī iti | sumeke iti sumeke | avaṃśe | dhīraḥ |*  
+> *śacyā | saṃ | airat ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इत्थ एव स्वपाः शोभनकर्मा सन् भुवनेष्वास । आस्ते । य इमे द्यावापृथिवी द्यावापृथिव्यौ जजान उत्पादितवान् । यश्च प्रजापतिरुर्वी उर्व्यौ विस्तीर्णे
+> गभीरे अविचले सुमेके शोभनरूपे अवंशे उत्पत्तिरहिते अनाधारे वांतरिक्षे
+> धीरो धीमान् शच्या कुशलकर्मणा समैरत् । सम्यक् प्रेरितवान् । स एव स्वपा इति ॥
+
+##### Gist of the bhāṣya
+
+He alone, being स्वपाः (*svapāḥ*) (one of good works), is present in the worlds—he who generated these two, Heaven and Earth; and the same Prajāpati, wise (धीरः (*dhīraḥ*) = intelligent), by his skilful action (शच्या (*śacyā*)) rightly impelled (समैरत् (*samairat*)) the two vast (उर्वी (*urvī*)), deep and unmoving (गभीरे (*gabhīre*)), beautiful (सुमेके (*sumeke*)), अवंशे (*avaṃśe*)—which are without origin, or else in the unsupported atmosphere. “He alone is स्वपाः (*svapāḥ*).” **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धीरः (*dhīraḥ*)—of steady mind
+- यः (*yaḥ*)—which Prajāpati
+- इमे द्यावापृथिवी (*ime dyāvāpṛthivī*)—these Heaven and Earth
+- जजान (*jajāna*)—generated (and)
+- उर्वि (*urvi*)—the extensive
+- गभीरे (*gabhīre*)—unfathomable
+- सुमेके (*sumeke*)—of beautiful form
+- अवंशे (*avaṃśe*)—and unsupported, those same Heaven and Earth
+- शच्या (*śacyā*)—by his skilful action
+- सम्मैरत् (*sammairat*)—impelled (for their individual functions)
+- स इत् (*sa it*)—that same Prajāpati
+- स्वपाः (*svapāḥ*)—being one of excellent work
+- भुवनेषु (*bhuvaneṣu*)—in the worlds
+- आस (*āsa*)—is well established
+
+##### भावार्थ (Bhāvārtha)
+
+The Prajāpati of steady mind who generated these Heaven and Earth, and by his skilful action impelled those same Heaven and Earth—extensive, unfathomable, of beautiful form, unsupported—for their individual functions: that same Prajāpati, being one of excellent work, is well established in the world.
+
+##### English translation (H. H. Wilson)
+Verily he was the doer of a good work in the regions, who generated these two, Heaven and Earth, and firm of purpose, gave an impulse by his deed to the two vast, immoveable, beautiful, unsupported worlds.
+
 ---
 
-**Progress note:** Done through printed p. 610. pp. 605-610 (batch API)
+**Progress note:** Done through printed p. 616. pp. 611-616 (batch API)
