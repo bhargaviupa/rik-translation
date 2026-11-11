@@ -13606,6 +13606,78 @@ The plants that desire for the showerer (Indra) the power (of sending rain) appr
 
 For this Ṛk Sāyaṇa has shown that two kinds of meaning are possible. For जामयः (*jāmayaḥ*) he first gives the meaning plants and trees. If this meaning is right, वृष्णे (*vṛṣṇe*) is a word equivalent to Indra. धेनवः (*dhenavaḥ*) too must be an epithet of the plants. Or else जामयः (*jāmayaḥ*)
 
+### Printed p. 394
+
+##### विशेषविषयगळु (Special Topics)
+
+If jāmayaḥ is taken to mean the sun's rays, then vṛṣṇe must be a synonym of Āditya (the sun), and dhenavaḥ too must be an epithet of the sun's rays. Both kinds of purport are appropriate, yet there is more room for the second, the one concerning Āditya. First:
+
+jāmayaḥ—जमंति वर्षाकाले प्रादुर्भवंतीति जामयः ओषधयः । (*jamaṃti varṣākāle prādurbhavaṃtīti jāmayaḥ oṣadhayaḥ |*) Because plants spring up in the rainy season, they are called jāmis. The word is formed from the root jam in the sense of motion. The Nirukta-writers have given two explanations of it: जामिरन्ने 5- स्यां जनयंति जामपत्यं । जमतीर्वा स्याद्दतिकर्मणो निर्गमनप्राया भवति (*jāmiranne 5- syāṃ janayaṃti jāmapatyaṃ | jamatīrvā syāddatikarmaṇo nirgamanaprāyā bhavati*) (Ni. 3-9) One derivation: it is formed from the root jan, "to be born", the thought being that another man causes children to be born in her; jāmi is then she who goes to her husband's house. The other: it is formed from the root jam, "to move", and gives the same sense. In the rainy season the sprouts move, that is, appear. Thus one derivation lets us state a purport in which jāmayaḥ is a synonym for plants. By the other derivation the word means kinsfolk. In many contexts it is used in this sense. But "kinsfolk" may be a sister, a wife, a mother, a friend, or any male belonging to a person's side. For example:
+
+अंबयो यंत्यध्वभिर्जामयो अध्वरीयतां । पृंचतीर्मधुना पयः । (*aṃbayo yaṃtyadhvabhirjāmayo adhvarīyatāṃ | pṛṃcatīrmadhunā payaḥ |*) (Ṛ. Saṃ. 1-23-16)
+The waters, like mothers, flow beneficially as mothers do.
+
+आ घा ता गच्छानुत्तरा युगानि यत्र जामयः कृणवन्नजामि ॥ (*ā ghā tā gacchānuttarā yugāni yatra jāmayaḥ kṛṇavannajāmi ‖*) (Ṛ. Saṃ. 10-12-13)
+The jāmi chooses one who is not a jāmi; that is, a sister chooses one who is not a brother.
+
+ते मायिनो ममिरे सुप्रचेतनो जामी सयोनी मिथुना समोकसा ॥ (*te māyino mamire supracetano jāmī sayonī mithunā samokasā ‖*) (Ṛ. Saṃ. 1-129-4)
+Heaven and earth, being jāmis, held the ray under control; here heaven and earth mean "sisters". In the same sense jāmayaḥ means svasāraḥ, the fingers. To denote the mutual relation of the fingers, which serve the sacrifice and help one another, in "हिन्वंति स्वसारो जामयः (*hinvaṃti svasāro jāmayaḥ*)
+
+### Printed p. 395
+पतिं (*patiṃ*)" (9-65-1) jāmayaḥ is used in the sense of "wives" of Soma.
+"जहि शूर शत्रून् जामिमजामिं मघवन् अमित्रान् (*jahi śūra śatrūn jāmimajāmiṃ maghavan amitrān*)" (6-44-17): "Kill the enemy, whether kinsman or non-kinsman". In this mantra the word is used in a broad sense, without showing a definite kinship. Since the sense must be stated according to context, what relationship is meant here between Indra and the plants? Husband and wife? Father and daughter? Or helper and helped? The question is natural. All these relationships can be shown in this context. It is well known that the creation and growth of plants come through rain, and that rain is possible only by Indra's favour; so the relation of helper belongs to Indra. The essence of the plants is the rain-water, and the essence of the rain-water is the plant:
+आपो ह ना ओषधिनाग्ं सारः .... .... ओषधय उ अपाग्ंरसः । (*āpo ha nā oṣadhināgṃ sāraḥ .... .... oṣadhaya u apāgṃrasaḥ |*) (Śa. Brā. 3-6-1-7)
+Since the inner essence of water and the sap of the plants are one, Indra, the cause of the standing of the rain-water, is also the cause of the nourishing of the plants' sap. And by killing Vṛtra, the common enemy of both, he became helper to the growth of both.
+
+अथ दर्भस्तंभ मुपदधाति । एतद्वै देवा ओषधीरुपादधत तथैवैतद्यजमान ओषधीरुपधत्ते । जायत एष .... .... आपश्च हैता ओषधयश्च या वै वृत्राद्बीभत्समाना आपः ... .... तेनौषधय उभयेन्नैवैनमेतदन्नेन प्रीणाति ॥ (*atha darbhastaṃbha mupadadhāti | etadvai devā oṣadhīrupādadhata tathaivaitadyajamāna oṣadhīrupadhatte | jāyata eṣa .... .... āpaśca haitā oṣadhayaśca yā vai vṛtrādbībhatsamānā āpaḥ ... .... tenauṣadhaya ubhayennaivainametadannena prīṇāti ‖*) (Śa. Brā. 7-2-3 to 1-3)
+The sacrificer's setting up of the darbha is a reflection of the gods' setting up of the plants and the rest. This darbha is the representative of the food the sacrificer desires. The essence of both water and plants, the causes of the sap of food, is contained in this darbha. The water, frightened of Vṛtra, appeared on the dry earth as darbha and as bushes; hence the essence of water and of plants is contained in it. By slaying Vṛtra, enemy of both, Indra became their helper. Therefore the plants became jāmis to him, that is, kinsfolk: one purport can be stated thus.
+युष्मा इंद्रोऽवृणीत वृत्रतूर्य इति (*yuṣmā iṃdro 'vṛṇīta vṛtratūrya iti*) (Śa. Brā. 1-1-3-8): Indra won victory with the help of the waters when fighting Vṛtra. All such descriptions show the jāmi-relationship between Indra, the waters, and the plants, their essence.
+
+### Printed p. 396
+Since the power of pouring rain and the power of producing plants are contained in Indra, the epithet vṛṣṇe is fitting for him. "यश्चंदसामृषभो विश्वरूपः .... .... समेंद्रो मेधया स्पृणोतु (*yaścaṃdasāmṛṣabho viśvarūpaḥ .... .... sameṃdro medhayā spṛṇotu*)" (Tai. U. 1-4): this Indra, by his power of lordship, has the universe as his form, and is described as ṛṣabha (vṛṣabha) and so on. Since the whole universe comes about from Indra, who has such a supreme nature, he is as a womb to the plants and to their flowers and fruits. Thus the sense referring to Indra is natural.
+
+If jāmayaḥ is taken as the sun's rays and vṛṣṇe as an epithet of the sun, how is it consistent? Sāyaṇa: यद्वा जामयः । जमंति सर्वत्र प्रसरंतीति जामयः सूरदीप्तयः । वृष्णेऽपां वर्षकाय । स्वरशिभिर्भौमान् रसानादाय पुनर्वर्षतीति वर्षकः सूरः (*yadvā jāmayaḥ | jamaṃti sarvatra prasaraṃtīti jāmayaḥ sūradīptayaḥ | vṛṣṇe 'pāṃ varṣakāya | svaraśibhirbhaumān rasānādāya punarvarṣatīti varṣakaḥ sūraḥ*). The word jāmi, from the root jam in the sense of motion, means "spreading everywhere"; here the sun's rays, spreading to all regions, are meant. Because the sun draws up water with his rays and again pours rain on the earth, he is marked by the epithet vṛṣṇe. Even if jāmi is taken as "kinsman", there is no room to ask what kinship holds between the sun and his rays; the relation of part and whole is what the word jāmi conveys here.
+
+If jāmi is taken as the sun's rays, their nature of spreading through the universe is shown. Earlier, in explaining Ṛk 1-156-2, on the words "वर्षिष्ठमुप गाव आगुः (*varṣiṣṭhamupa gāva āguḥ*)", the form of the rays' spreading through the universe was described with examples from the Śruti. Here these same rays bear the epithet dhenavaḥ. What nature does it show? The word dhenu conveys satisfying and helping: धेनुर्धयतीर्वा, धिनोतीर्वा, धयतेऽसौ वत्सेनेति । तर्पयत्यसौ पयसा। (*dhenurdhayatīrvā, dhinotīrvā, dhayate 'sau vatseneti | tarpayatyasau payasā|*) (Ni. 11-42) The chief sense, "satisfies by giving milk", shows the chief mark of the dhenu. Not only the cow: in the Ṛk-Saṃhitā, in many contexts that bring satisfaction, there is a dhenu-metaphor, as the cow satisfies her calf with her milk. For example, in mantras such as उपह्वये सुदघां धेनु (*upahvaye sudaghāṃ dhenu*) there is a description of the cloud-cow that gives the world satisfaction through rain (1-164-26). The one who milks this cloud-cow is Āditya; hence he is vṛṣan. Wherever the sun's rays or the radiant Dawn are described, the quality of the dhenu is present. Though it is a matter of common experience that Dawn and the sun's rays give joy to the world,
+
+### Printed p. 397
+in the eyes of the Ṛṣis, the authors of the Ṛk-Saṃhitā, the principle called dhenu holds a venerable place; hence such descriptions are very many. If only a few examples are examined, the fitness of this metaphor becomes clear.
+
+अबोध्यग्निः समिधा जनानां प्रति धेनुमिवायतीमुषासं । यह्वा इव प्र वयामुज्जि हानाः प्र भानवः सिस्रते नाकमच्छ ॥ (*abodhyagniḥ samidhā janānāṃ prati dhenumivāyatīmuṣāsaṃ | yahvā iva pra vayāmujji hānāḥ pra bhānavaḥ sisrate nākamaccha ‖*) (Ṛ. Saṃ. 5-1-1)
+Dawn, who gladdens the whole world, appears in the sky and comes like a cow rich in milk. The flames of Agni, like calves, or like birds flying up to settle on a branch, spread upward from Agni and run towards Dawn: a wonderful description.
+
+एता धियं कृणवामा सखायोप या माता ऋणुत व्रजं गोः । (*etā dhiyaṃ kṛṇavāmā sakhāyopa yā mātā ṛṇuta vrajaṃ goḥ |*) (Ṛ. Saṃ. 5-45-6)
+In such places Dawn is shown as mother-like to the sun's rays.
+
+आ धेनवो धुनयंतामशिश्वीः सबर्दुघाः शशया अप्रदुग्धाः । नव्यानव्या युवतयो भवंतीर्महद्देवानामसुरत्वमेकं ॥ (*ā dhenavo dhunayaṃtāmaśiśvīḥ sabardughāḥ śaśayā apradugdhāḥ | navyānavyā yuvatayo bhavaṃtīrmahaddevānāmasuratvamekaṃ ‖*) (Ṛ. Saṃ. 3-55-16)
+The cow-clouds, dear to the world, though without calves, come towards the earth and pour the nectar of rain. Whether the cloud or the sun's rays are described, since they cause the rain that brings satisfaction, there is the dhenu-metaphor. Where these metaphors occur the particular purport is also noteworthy: the same idea is not repeated everywhere, and the constant variety of idea adorns the description of each setting.
+
+त्रिरस्मै सप्त धेनवो दुदुहे सत्यामाशिरं पूर्व्य व्योमनि । चत्वार्न्या भुवनानि निर्णिजे चारूणि चक्रे यदृतैरवर्धत ॥ (*trirasmai sapta dhenavo duduhe satyāmāśiraṃ pūrvya vyomani | catvārnyā bhuvanāni nirṇije cārūṇi cakre yadṛtairavardhata ‖*) (Ṛ. Saṃ. 9-70-1)
+In such places the dhenu-metaphor gives a very profound meaning. Since such contexts are many, the charm of such metaphors is explained in each. Here dhenavaḥ, as a synonym of jāmayaḥ, indicates the principle of the sun's rays: that they bring joy to the world.
+
+### Printed p. 398
+jānate garbham asmin—If the sense refers to Indra, the purport is that the womb contains the flowers and fruits of the plants. If it refers to Āditya, a wider purport must be stated. Since all the gods, Indra, Agni and the rest, are united in Āditya, or are particular manifestations of him, whatever powers of the womb each of these gods has individually are all contained in Āditya. When the lightning-fire or the sun is described, the sense of the word garbha is common. Or it would not be wrong to say that Agni, Sūrya, Viṣṇu, Āditya, garbha are words denoting identity. As "womb of the waters" is a synonym for Agni, so it is for Āditya; one may also say that the world is contained in their womb. A few examples may be examined of how, when Viṣṇu, Agni, and Āditya are praised, they are called by synonyms of garbha. In some places Agni is said to lie in the womb of all things; elsewhere the whole world is said to lie in Agni's womb. Of Agni:
+
+बह्वे नां गर्भो अपसामुपस्थान्महान्नविर्निश्वरति स्वधावान् । (*bahve nāṃ garbho apasāmupasthānmahānnavirniśvarati svadhāvān |*) (Ṛ. Saṃ. 1-95-3)
+गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्च रथां । (*garbho yo apāṃ garbho vanānāṃ garbhaśca sthātāṃ garbhaśca rathāṃ |*) (Ṛ. Saṃ. 1-70-2)
+These show that Agni lies in all things as a womb, and that his nature cannot be known by ordinary effort. Moreover, this Agni, like a son in the waters of the cloud in the form of lightning, afterwards receives the sacrificial offering and causes the rain-waters, his mothers, to be born. Hidden in the lightning-form among the cloud-waters, he comes out from the middle of the sea as the submarine fire. This same Agni is the womb of the waters, the womb of plants; or the waters and plants are his womb: so it is described. Of Viṣṇu:
+
+तमु स्तोतारः पूर्व्यं यथा विद ऋतस्य गर्भं जनुषा पिपर्तन । (*tamu stotāraḥ pūrvyaṃ yathā vida ṛtasya garbhaṃ januṣā pipartana |*) (Ṛ. Saṃ. 1-156-3)
+Viṣṇu is eternal, perfect, the womb of the sacrifice, born as the sacrifice; or the womb of the water. This epithet is given because water is the origin of creation and Viṣṇu in the form of Hiraṇyagarbha is its support. Of Āditya:
+
+उत्तानयोश्च व्वो३र्योनिरंतरत्रा पिता दुहितुर्गर्भमाधत् । (*uttānayośca vvo3ryoniraṃtaratrā pitā duhiturgarbhamādhat |*) (Ṛ. Saṃ. 7-16 = 13**NOTE**
+
+### Printed p. 399
+In the middle of these heaven and earth, which are stretched upward and serve for enjoyment like cups, in the atmosphere, the place of the maker of all beings, Āditya holds in his womb the water, the womb of his daughter, the earth.
+
+दिव्यं सुपर्णं नायसं बृहंतमपां गर्भं दर्शतमोषधीनां । (*divyaṃ suparṇaṃ nāyasaṃ bṛhaṃtamapāṃ garbhaṃ darśatamoṣadhīnāṃ |*) (Ṛ. Saṃ. 1-164-52)
+Āditya dwells in heaven, has an excellent means of descent, is a mover, is the womb of the waters and of the plants. Thus these deities are denoted by words for garbha. Moreover, in many contexts it is explained that the names Agni, Viṣṇu, Āditya are words for different forms of one principle and do not denote different deities. The description of Agni as "अपां गर्भः (*apāṃ garbhaḥ*)", "आसुर गर्भः (*āsura garbhaḥ*)" (Ṛ. Saṃ. 3-29-11) applies also to Āditya. As Āditya is called the womb of heaven and earth, so Agni is called "रोदस्योः गर्भं (*rodasyoḥ garbhaṃ*)" (Ṛ. Saṃ. 10-1-2). In Ṛk 1-164-52 cited above, that same Agni is designated "दिव्यं सुपर्णं (*divyaṃ suparṇaṃ*)", a description showing a solar nature. Therefore, if garbham in the present Ṛk is taken to refer to Āditya, the purport is that the jāmi-rays knew Āditya, who bore in his own womb the whole universe in the form of Hiraṇyagarbha, that is, they knew his pervasion of the universe. To show his pervasion, one may say that he lies in the womb of the universe, or that he has hidden the whole universe in his own womb. Sāyaṇa states the purport referring to Āditya thus: अब्रूपगर्भाधानसामर्थ्यं वहंति (*abrūpagarbhādhānasāmarthyaṃ vahaṃti*).
+
+mahaḥ vapūṃṣi bibhratam—they know the womb-form that bears bodies of many forms. If jāmayaḥ is taken as plants, the forms are the many kinds: rice, barley, nīvāra and so on. If taken as the sun's rays: काळी कराळी च मनोजवा च सुलोहिता या च सुधूम्रवर्णा । स्पुलिंगिनी विश्वरुची च देवी लेलायमाना इति सप्तजिह्वाः (*kāḷī karāḷī ca manojavā ca sulohitā yā ca sudhūmravarṇā | spuliṃginī viśvarucī ca devī lelāyamānā iti saptajihvāḥ*) (Mu. U. 1-2-4**NOTE**). As the flames of fire in the form of the Supreme Brahman are described in such sentences, so the many forms of the sun's rays are to be understood.
+
+अमी ये सप्त रश्मयस्तत्रा मे नाभिरातता । (*amī ye sapta raśmayastatrā me nābhirātatā |*) (Ṛ. Saṃ. 1-105-9)
+The many forms of the sun's rays described in such Ṛks were explained earlier.
+
 ---
 
-**Progress note:** Done through printed p. 393. pp. 388-393 (batch API)
+**Progress note:** Done through printed p. 399. pp. 394-399 (batch API)
