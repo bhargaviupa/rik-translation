@@ -26268,6 +26268,184 @@ Thus Agni, born of man, kindled by man and nourished by man, becomes the sacrifi
 
 The epithets beginning with द्विजन्मा (*dvijanmā*) have been explained above. In the same way the epithet भूरिजन्मा (*bhūrijanmā*) also praises the greatness-filled birth of Agni. In sentences such as 1-95-2 and 10-5-1 this epithet describes the manner of Agni's birth. In places such as "दश युवतयः इमं गर्भं जनयंत (*daśa yuvatayaḥ imaṃ garbhaṃ janayaṃta*)", दश युवतयः (*daśa yuvatayaḥ*) means the ten fingers. In 3-29-3 Agni is called the son of Iḷā. (Here any meaning may be given to the word Iḷā.) Various lineages are famous, such as Manu, Aṅgirasvān, Bhṛgu, Atharvan and Dadhīci, who first produced Agni for the sacrifice and caused him to blaze. Only some of them may be taken as examples.
 
+### Printed p. 697
+
+"O Agni, for the benefit of mankind Manu first caused you to blaze and brought forth your form, the radiance." (1-36-19)
+
+"As Manu, in his excess of devotion, drew Agni to the sacrifice, so may we also draw Agni." (7-2-3)
+
+"O Āditya, you for whom Manu, the divine one, first kindled Agni and offered the first oblation: grant us protection." (10-63-7)
+
+"O Agni, the flame of yours that Manu, together with Sumitra, kindled in former times is the very flame that shines now." (10-69-3)
+
+"O Agni, as Bhṛgu, Manu and Aṅgiras formerly prayed to you and caused you to blaze, so now too we pray to you and ask that you shine in our sacrificial hall." (8-43-13)
+
+"O Agni, Atharvan caused you to appear forth from the lotus leaf." (6-16-13)
+
+"O Agni, Dadhīci, the son of Atharvan, caused you to blaze." (6-16-14)
+
+"Agni, born of Atharvan, knows the secret of all the śāstras. Moreover, he is the messenger of Vivasvant." (10-21-5)
+
+"O Agni, the Bhṛgus have established you among mankind." (1-58-6)
+
+"Like an animal that has lost its way, the Bhṛgus, not seeing Agni, sought him with devotion endowed with special insight and with worship and the like, and at last found Agni, who had gone within the waters." (10-46-2)
+
+"It is famed that Kāvya Uśanas established Agni, who is worthy of sacrifice, among mankind in the form of the priest." (8-23-16)
+
+Thus there are also many contexts that express great wonder as soon as Agni is born from the kindling sticks (araṇi). For example:
+
+"O Agni, as soon as you, the life-giving one, were born from the juiceless, dry, lifeless araṇis, the sacrificers worshipped you with devotion." (1-68-2)
+
+### Printed p. 698
+
+Praise of this kind occurs in many Ṛks, 3-23-2, 3; 7-1-1; 10-49-15; 10-7-5 and others. Together with this wonder, the excess of love shown towards a newly born child is also expressed.
+
+"This Agni has been born from the araṇis like a child just born." (5-9-3)
+
+He is not only the son of the araṇis but the son of all the trees (सूनुं वनस्पतीनां (*sūnuṃ vanaspatīnāṃ*) — 8-23-25). That this child-formed Agni performs supernatural and marvellous deeds is the most astonishing and praiseworthy thing.
+
+"As soon as this child is born, by his supernatural power he tries to swallow his own parents. This extraordinary power is beyond the grasp of the human sacrificer; that is, man cannot measure the power of Agni." (10-79-4)
+
+"As soon as Agni is born, he is swift like a snake wriggling away, and escapes without falling into man's grasp." (10-15-1)
+
+"But the sacrificers offer ghee and the like into his mouth (āsya) and nourish him with it." (3-21-1)
+
+"O Agni, you are the divine Hotṛ; accept these oblations of ghee offered by us." (3-21-1, 2, 3) (5-14-6; 8-39-3; 8-43-10, 22; 10-69-1; 10-118-4; A. Ve. 1-7-2).**NOTE**
+
+In Ṛ. Saṃ. 3-26-7 Agni declares: ghee is my eye (धृतं मे चक्षुः (*dhṛtaṃ me cakṣuḥ*)).
+
+**Epithets describing the natural qualities of Agni.**
+
+There are many epithets describing the special qualities of Agni. Most of them, however, describe Agni's physical qualities.
+
+सर्पिरासुतिः (*sarpirāsutiḥ*); घृतान्नः (*ghṛtānnaḥ*): he who has ghee as his food. (2-7-6; 7-3-1; 10-69-2)
+
+घृतनिर्णिक् (*ghṛtanirṇik*): he whose very form is ghee. (3-17-1; 3-27-5; 10-122-2)
+
+घृतकेशः (*ghṛtakeśaḥ*): he who has ghee as his hair. (7-49-2)
+
+धृतपृष्ठः (*dhṛtapṛṣṭhaḥ*): he who has ghee as his back. (5-4-3; 5-37-1; 7-2-4; 10-122-4)
+
+धृतप्रतीकः (*dhṛtapratīkaḥ*): he who gleams with ghee. (3-1-18; 5-11-1; 10-2.-7)**NOTE**
+
+### Printed p. 699
+
+धृतयोनिः (*dhṛtayoniḥ*): he who has ghee as his place of origin. (5-8-6; 2-3-11)
+
+द्वन्नः (*dvannaḥ*): he who has as food the logs in the form of fuel sticks. (2-7-6)**NOTE**
+
+धूमकेतु (*dhūmaketu*): he whose sign, the one that makes him known, is smoke. (1-27-11; 1-44-3; 1-94-10; 5-11-3; 8-43-4; 8-44-10; 10-4-5; 10-12-2)
+
+Agni sends his pillar-like line of smoke up to the atmosphere. (मेतेव धूमं स्तभायदुप द्यां (*meteva dhūmaṃ stabhāyadupa dyāṃ*)) (4-6-2; 7-2-1; 7-3-3; 7-16-3).
+
+Agni's smoke is trembling. No one can seize his flame and bring it under his control. (अगृभीतशोचिषं (*agṛbhītaśociṣaṃ*)) (8-23-1)
+
+Like a bull that rules over all the cattle, Agni, urged on by the wind, rushes through all the forests and displays his power. (1-58-4, 5; 1-65-8)
+
+Agni is the destroyer of darkness (तमोहा (*tamohā*)) and has the power to see even in the pitch darkness of night. (1-140-1; 1-94-7)
+
+The earth and the atmospheric regions, wholly enveloped in pitch darkness, came into light and heat as soon as Agni shone. At once the gods, heaven and earth, the waters and the plants gained his friendship and obtained the joy that results from it. (10-88-2)
+
+Epithets such as चित्रभानुः (*citrabhānuḥ*) and चित्रशोचिः (*citraśociḥ*) show the nature of Agni's varied radiance and the greatness of his flame. His flames have an extraordinary brilliance. (1-27-6; 2-10-2; 5-26-2; 6-10-3; 7-9-3; 7.12-1; 8-19-2)
+
+The same quality is shown plainly by many epithets: ऊर्ध्वशोचिः (*ūrdhvaśociḥ*) — he whose radiance has an upward face; शुक्रशोचिः (*śukraśociḥ*) — he who has a bright flame; पावकशोचिः (*pāvakaśociḥ*) — he who has a pure radiance, and others. (6-5-2; 7-15-10; 8-23-20; 8.43-31; 1-140; 5 2-3)**NOTE**
+
+The flames of radiant Agni are compared to widely spread hair of the head. (शोचिष्ठेशः (*śociṣṭheśaḥ*)) (1-45-6; 3;14-1; 3-17-1; 3-27-4: 5-8-2; 5-41-10) Because those flames shine with a golden hue, they are described in many ways as made of gold and as having the radiance of gold. (हिरण्यरूपं जनिता जजान (*hiraṇyarūpaṃ janitā jajāna*)) (3-2-13: 9-3-1; 10-20-9; 5-7-7).
+
+Agni's flames are his weapons. The descriptions of these flame-formed weapons are also of many kinds. Agni bears sharp weapons. (तिग्महेतिः (*tigmahetiḥ*); तिग्मभृष्टिः (*tigmabhṛṣṭiḥ*)) (4-4-4; 4-5-3.)
+
+### Printed p. 700
+
+He who has sharp teeth (तिग्मजंभः (*tigmajaṃbhaḥ*)); he who has burning teeth (तपुर्जंभः (*tapurjaṃbhaḥ*)); he who has shining teeth; he who has golden teeth. He has teeth of iron together with burning jaws. (1-79-7; 1-143-5; 4-5-4; 4-15-5: 8-19-22: 1-58-5; 8-23-4; . 5-7-7: 5-2-3: 10-87-2; 7-49-13; 10-79-1).
+
+Along with such descriptions, the mention of qualities such as that he is footless and headless (आपाद् (*āpād*), अशीर्षा (*aśīrṣā*)) shows a distinctive feature. (4-1-11) Yet on the contrary, elsewhere he is said to have a burning head. (तपुमूर्छा (*tapumūrchā*)) (7-3-1)
+
+Agni has three heads and seven rays (त्रिमूर्धानं सप्तरश्मिं (*trimūrdhānaṃ saptaraśmiṃ*)). He has four eyes (चतुरक्षः (*caturakṣaḥ*)); he has a thousand eyes (सहस्राक्षः (*sahasrākṣaḥ*)); he has a thousand horns (सहस्रशृंगः (*sahasraśṛṃgaḥ*)). (1-146-1; 2-5-2: 1-31-13: 1-39-12; 5-1-8).
+
+Agni is by nature golden and radiant. But his path of movement is black, and his chariot wheel too is black. (2-4-6: 6-10-4; 7-8-2; 8-23-19).
+
+He overruns all the forest, burns everything, and with his flame-formed tongue makes everything black. He is also famed as the devourer of all (विश्वाद् (*viśvād*)). (1-143-5; 5-41-10; 6-60-10; 10-79-2; 8-44-26)
+
+Urged by the wind, he spreads through all the forest and surges forward; he cuts and burns the grass and the like, which are the hairs of the earth, and, as a barber cuts the beard and makes it smooth (10-142-4), makes everything smooth. (रोमा पृथिव्याः (*romā pṛthivyāḥ*)) (1-65-4-)
+
+As a mighty army, once let loose, spreads fear among enemy folk by its roar, so Agni by his mighty power is a cause of fear to all (1-66 8; 1-143-5; 10-142-4).
+
+His flames roar like the waves of the sea, and he bellows like thunder. (1-44-12; 7-3-6; 10-45-4). He rushes forward making noise like a storm and roaring like a lion. (नानदन् न सिंहः (*nānadan na siṃhaḥ*)) (3-2-11).
+
+### Printed p. 701
+
+When Agni sets out, having yoked to his chariot golden-hued horses urged by the wind, he bellows like a bull. Rushing forward with his flames and spreading through the whole forest, he burns the grass and all the rest. At that time the sparks spread everywhere with a crackling sound. At the noise of these sparks all the birds in that forest are frightened. (1-94-10)
+
+Like a storm rushing forward with noise and like thunder that roars, Agni possesses a power that is irresistible and all-pervading. (1-143-5)
+
+Taking on many different forms, he shines like the sun. (7-3-6)
+
+His radiance is attractive and shining like the rays of the sun and the beams of Uṣas. (10-91-4)
+
+Moreover, he travels in a chariot of lightning. (3-14-1)
+
+His chariot is radiant, golden and attractive. (1-140-1: 1-141-12; 3-5-3; 5-1-11; 10-1-5; 4-1-8; 3-3-9; 4-2-4)
+
+The horses that draw his chariot are more attractive still. They are ghee-backed, urged by the wind (वातजूताः (*vātajūtāḥ*)), golden-hued (रोहिताः (*rohitāḥ*)), endowed with power of action (जीराश्वाः (*jīrāśvāḥ*)), assuming many forms (विश्वरूपाः (*viśvarūpāḥ*)), and yoked to the chariot by a mere resolve of the mind (मनोयुजः (*manoyujaḥ*)). Besides, they are described by many other epithets also. (1-14-6; 1-45-2; 1-94-10; 1-141-12; 2-4-2; 2-10-2; 4-1-8; 4-2-2, 4; 4-6-9; 6-16-43; 7-16-2; 8-43-16; 10-7-4; 10-70-2)
+
+Horses of such extraordinary form and power Agni yokes to his chariot to bring the gods to the sacrifice. (1-14-12; 3-6-6; 8-64-1).
+
+**The divine deeds of Agni.**
+
+Agni's deeds are praised as most worthy of reverence and full of power. This Agni, powerful like Indra, is praised as the lord of all the dwellers in the divine world. (सम्राजो असुरस्य (*samrājo asurasya*)) (7-6-1)
+
+In some of the contexts cited above he is described as born of heaven and earth; yet elsewhere it is stated that Agni is the cause of heaven and earth spreading out widely, and that it is by his power that they stand firm. It is further explained that he is also the cause of their creation, and that he holds and protects them with mantras that are true in nature.
+
+### Printed p. 702
+
+(3-6-5; 7-5-4; 6-8-3; 1-96-4; 7-5-6; 1-67-3).
+
+Agni's flames have set heaven and earth apart, each separate. The power of Agni is the cause of the standing of the masses of radiance in the atmosphere and of the protection of the terrestrial regions. (6-8-3; 6-7-2; 6-5-2).
+
+From Agni Mitra was born. Agni is the cause of the sun, whose orb of radiance does not wane, rising to the atmosphere. He created all beings: what moves on the earth, what flies in the atmosphere, what lives in the water, the moving and the unmoving. 10-8-4; 10-156-4; 10-28-4).**NOTE**
+
+[It is necessary to say a little by way of explanation of this last passage (10-88-4):
+
+स पतत्रीत्वरं स्था जगद्यच्छात्रमग्निरकृणोज्जातवेदाः । (*sa patatrītvaraṃ sthā jagadyacchātramagnirakṛṇojjātavedāḥ |*) (10-88-4).
+
+The author of the Nirukta has cited this passage. (Ni. 5-3). Durgācārya, explaining this context, says that the sense is that Agni, at the time of dissolution, causes all the beings mentioned here to merge into himself. The following mantras of the same sūkta also support this explanation.
+
+तस्मिन्नग्नौ सूक्तवाकेन देवा हविर्विश्व आजुहवुस्तनूपाः । (*tasminnagnau sūktavākena devā havirviśva ājuhavustanūpāḥ |*) (10-88-2)
+
+In the following mantra it is said that all the gods too offered the oblation into Agni with praise-words such as 'idaṃ dyāvāpṛthivī'. What the nature of that oblation was, the next mantra tells.
+
+यं देवासोऽजनयंताग्निं यस्मिन्ना जुहवुर्भुवनानि विश्वा । सो अर्चिषा पृथिवीं द्यामुतेमामृजूयमानो अतपन्महित्वा ॥ (*yaṃ devāso 'janayaṃtāgniṃ yasminnā juhavurbhuvanāni viśvā | so arciṣā pṛthivīṃ dyāmutemāmṛjūyamāno atapanmahitvā ‖*) (10-88-9)
+
+It is explained that the Agni whom the gods produced, and into whom they offered the whole universe as oblation, scorched by his divine radiance all heaven and earth and all the beings contained in them, through his greatness.
+
+Therefore these mantras are the basis of the explanation given by Durgācārya. But the author of the Nirukta alone explains अग्निरकृणोत् (*agnirakṛṇot*) (10-88-4) as अग्निरकरोजा तवेदाः (*agnirakarojā tavedāḥ*).]
+
+### Printed p. 703
+
+Agni is the cause of the whole atmosphere possessing masses of radiance in the form of stars. (1-68-5)
+
+This same Agni is the head and, as it were, the peak of the atmosphere, and the navel of the earth. (1-59-2; 6-7-1; 8-44-16; 10-88-5).
+
+He stands upward-faced like a pillar, and his greatness surpasses the greatness of heaven and earth altogether. (4-5-1; 1-59-5; 3-3-10)
+
+All men are alarmed on seeing the great deeds of this Agni. His laws and his constructions cannot be transgressed by anyone. (2-8-3; 2-9-1; Vā. Saṃ. 11-36; 6-7-5; 8-44-25; 8-92-3).
+
+Heaven and earth, and all beings of the past and the future, obey the command of this Agni. (7-5-4; A. Ve. 4-23-7)**NOTE**
+
+For the gods this Agni won in battle all wealth and all regions and gave them, and he protected them all from calamity. (सहस्रजित् (*sahasrajit*) 1-188-1). (1-59-5; 7-13-2)
+
+When this Agni hides himself in darkness, all the gods are frightened and offer worship to him. (6-9-7)
+
+Varuṇa, Mitra, the Maruts and three thousand three hundred and thirty-nine gods offer worship to him. (3-9-9; 3-1 -4; 10-69-9)
+
+By the power of this Agni, Varuṇa, Mitra and Aramā and others attain victory. (1-141-9)
+
+He is able to behold the whole world and to know its secret. (3-55-10; 10-187-4)
+
+He knows the boundary regions of the atmosphere, the order of origin of gods, men and the rest, and the laws of the gods. (1-70-1, 3; 3-4-11; 6-15-13)
+
+Because he is of divine nature, he knows the secrets of men's rites, understands all the praises recited to him, and is gracious to them. (8-39-6; 8-43-23; 9-2-5; 5-12-1; 5-15-1; 7-2-3; 7-6-1).
+
 ---
 
-**Progress note:** Done through printed p. 696. pp. 691-696 (batch API)
+**Progress note:** Done through printed p. 703. pp. 697-703 (batch API)
