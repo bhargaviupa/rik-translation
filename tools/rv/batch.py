@@ -82,6 +82,63 @@ def subheads(t):
             continue
         out.append(l)
     return re.sub(r'\n{3,}','\n\n','\n'.join(out))
+def rk_headings(t):
+    """Every Saṃhitā block stands under its own `#### Ṛk N` heading (lesson 53: in Vol 17 the model left 61 of 441 out, wrote some after the
+    Saṃhitā label, some without or with the wrong number, and repeated some on the next page).  Returns (text, list of what was changed).
+    N: the verse number the Saṃhitā or the Pada block ends with; a heading that disagrees with it is changed only when the block's number
+    continues the sequence (so a misprinted number in the block does not spoil a right heading); no number in the blocks -> the number after the
+    one before in the same sūkta; a heading repeated inside a Ṛk gets ' (continued)'."""
+    t=re.sub(r'(?m)^#{1,6} *(Ṛk\b)',r'#### \1',t)                      # a Ṛk heading written at another level
+    L=t.split('\n'); D=str.maketrans('०१२३४५६७८९','0123456789'); ch=[]
+    SAM='##### ॥ संहितापाठः ॥'; isrk=lambda l:l.startswith('#### Ṛk') and '(contin' not in l
+    i=0
+    while i<len(L):                                   # heading written after the Saṃhitā label: put it before
+        if L[i].startswith(SAM):
+            k=i+1
+            while k<len(L) and not L[k].strip(): k+=1
+            if k<len(L) and isrk(L[k]): L[i],L[k]=L[k],L[i]; ch.append(('order',L[i]))
+        i+=1
+    def num(i):
+        b=[]; k=i+1
+        while k<len(L) and (not L[k].strip() or L[k].startswith('> ')):
+            if L[k].startswith('> *'): break
+            if L[k].startswith('> '): b.append(L[k])
+            k+=1
+        m=re.search(r'॥\s*([०-९]+)\s*॥?\s*$',re.sub('[॒॑]','',b[-1] if b else '')); return int(m.group(1).translate(D)) if m else None
+    sams=[i for i,l in enumerate(L) if l.startswith(SAM)]; ins={}; prev=None; own=set()
+    for x,i in enumerate(sams):
+        end=sams[x+1] if x+1<len(sams) else len(L); n=num(i)
+        for k in range(i+1,end):
+            if L[k].startswith('## ') or isrk(L[k]): break
+            if L[k].startswith('##### ॥ पदपाठः ॥'): n=n or num(k); break
+        h=None; k=i-1
+        while k>=0 and not L[k].startswith(('##### ','## ','####')): k-=1
+        if k>=0 and isrk(L[k]): h=k
+        k=i-1
+        while k>=0 and not L[k].startswith('## '):
+            if L[k].startswith(SAM): break
+            k-=1
+        if k<0 or L[k].startswith('## '): prev=None                     # first Ṛk of a sūkta (or of the text)
+        if k>=0 and L[k].startswith('## Sūkta') and n is None: n=1
+        if h is None:
+            n=n or (prev+1 if prev else None); ins[i]='#### Ṛk'+(f' {n}' if n else ''); ch.append(('added',n))
+        else:
+            own.add(h); m=re.search(r'\d+',L[h]); hn=int(m.group()) if m else None
+            if hn is None: n=n or (prev+1 if prev else None)
+            elif n is None or (n!=hn and not (prev and n==prev+1)): n=hn
+            if n!=hn: ch.append(('number',f'{L[h]} -> {n}')); L[h]=f'#### Ṛk {n}'
+        prev=n
+    out=[]; cur=None
+    for i,l in enumerate(L):
+        if l.startswith('## '): cur=None
+        if i in ins: out+=[ins[i],'']; m=re.search(r'\d+',ins[i]); cur=int(m.group()) if m else None
+        elif isrk(l):
+            m=re.search(r'\d+',l); n=int(m.group()) if m else None
+            if i in own: cur=n
+            elif n is not None and n==cur: l=l.rstrip()+' (continued)'; ch.append(('continued',n))
+            if len(out)>=2 and isrk(out[-2]) and not out[-1].strip() and (out[-2]==l or not re.search(r'\d',l)): ch.append(('double',l)); continue
+        out.append(l)
+    return '\n'.join(out),ch
 NOTE_RE=re.compile(r'\*\*NOTE\*\*\{([^{}]*)\}')
 def note_style(cfg): return cfg.d.get('note_style')=='NOTE'
 def split_notes(en):
@@ -157,6 +214,14 @@ Page headings needed in en.md: {', '.join(f'### Printed p. {p}' for p,_ in pages
 def cmd_build(a):
     cfg=rvlib.Cfg(a[0]); w=a[1]; kn=rd(os.path.join(w,'kn.md')); en=rd(os.path.join(w,'en.md'))
     if re.search(r'^> \*',en,re.M): sys.exit("FAIL: IAST typed by hand in en.md ('> *' lines): IAST is added by script")
+    if cfg.d.get('layout')=='subheads' and not os.environ.get('RV_REBUILD'):      # a sūkta heading the volume already has (written where Sāyaṇa's introduction began, in an earlier window) is not written again
+        have=set(re.findall(r'(?m)^## Sūkta \d+ \(Maṇḍala \d+\)',rd(cfg.en))); keep=[]
+        for l in en.split('\n'):
+            h=l.strip() if re.fullmatch(r'## Sūkta \d+ \(Maṇḍala \d+\)\s*',l) else None
+            if h and h in have: print('heading dropped (the volume has it already):',h); continue
+            if h: have.add(h)
+            keep.append(l)
+        en='\n'.join(keep); wr(os.path.join(w,'en.md'),en)
     notes=[]
     if note_style(cfg): en,notes=split_notes(en)
     wr(os.path.join(w,'notes.json'),json.dumps(notes,ensure_ascii=False,indent=1))
@@ -167,7 +232,7 @@ def cmd_build(a):
     p=os.path.join(w,'en_final.md'); wr(p,text)
     r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
     t=labels.normalise(rd(p)).replace(convert.NOIAST,'> ')
-    if cfg.d.get('layout')=='subheads': t=subheads(t)
+    if cfg.d.get('layout')=='subheads': t,_=rk_headings(subheads(t))
     lab=cfg.d.get('printed_english_label')                 # the heading of the English printed in the edition (volcfg), e.g. 'English translation (H. H. Wilson)'
     if lab: t=re.sub(r'(?m)^(\*\*|##### )Printed English( translation)?(\*\*)?\s*$',lambda m:('##### '+lab) if m.group(1).startswith('#') else '**'+lab+'**',t)
     wr(p,t)
@@ -303,6 +368,13 @@ def audit(cfg,expect_clean=True):
     if note_style(cfg):
         nf=os.path.join(ROOT,f'vol{cfg.vol}','review','notes.tsv'); rows=max(0,len([l for l in rd(nf).split('\n') if l.strip()])-1) if os.path.exists(nf) else 0
         if en.count('**NOTE**')!=rows: pr.append(f"{en.count('**NOTE**')} **NOTE** marks in the English file but {rows} rows in review/notes.tsv")
+    if cfg.d.get('layout')=='subheads':
+        miss=len(rk_headings(en)[1])
+        a_,b_=kn.count('*ಸಂಹಿತಾಪಾಠಃ*'),len(re.findall(r'(?m)^##### ॥ संहितापाठः ॥',en))
+        if a_!=b_: pr.append(f'{a_} Saṃhitā labels in the Kannada file but {b_} Saṃhitā sub-headings in the English file (a verse placed without its labels?)')
+        odd=[h for h in re.findall(r'(?m)^## .*',en) if not h.startswith(('## Sūkta','## Maṇḍala','## Preface'))]
+        if odd: pr.append('chapter-level heading that is neither a sūkta, a maṇḍala nor the preface: '+'; '.join(odd[:4]))
+        if miss: pr.append(f'{miss} Ṛk headings missing, misplaced, unnumbered or repeated (python3 tools/rv/batch.py rkheads {cfg.vol})')
     st=sh('git status -sb').stdout.split('\n'); dirty=[l for l in st[1:] if l.strip() and f'vol{cfg.vol}/' in l and '/work/' not in l]
     if expect_clean and dirty: pr.append('uncommitted changes: '+'; '.join(dirty[:4]))
     if 'ahead' in st[0]: pr.append('commits not pushed: '+st[0])
@@ -310,6 +382,17 @@ def audit(cfg,expect_clean=True):
 def cmd_audit(a):
     cfg=rvlib.Cfg(a[0]); pr,f=audit(cfg); print(f"Vol {cfg.vol}: done through printed p. {f['page']} ({f['pages']} page headings, {f['doubts']} [?]); HEAD {f['head']}")
     print('AUDIT FAIL:\n - '+'\n - '.join(pr) if pr else 'AUDIT PASS'); sys.exit(1 if pr else 0)
+def cmd_rkheads(a):
+    """repair of the volume file: Ṛk headings left out, misplaced, unnumbered or repeated by the translator (logged in review/repair_log.md)"""
+    cfg=rvlib.Cfg(a[0]); t,ch=rk_headings(rd(cfg.en))
+    if not ch: print('nothing to change'); return
+    import collections; c=collections.Counter(k for k,_ in ch)
+    for k,v in ch:
+        if k!='added': print(k,v)
+    print('added:',[v for k,v in ch if k=='added'])
+    if '--dry-run' in a: return
+    wr(cfg.en,t); open(os.path.join(ROOT,f'vol{cfg.vol}','review','repair_log.md'),'a',encoding='utf8').write(f"- Ṛk headings (`batch.py rkheads`): {c['added']} put in where a Saṃhitā block stood without `#### Ṛk N` (number from the verse number at the end of the Saṃhitā or Pada block, else by sequence); {c['order']} moved before the Saṃhitā label; {c['number']} given or corrected a number: {'; '.join(v for k,v in ch if k=='number')}; {c['continued']} repeated headings marked '(continued)'. No other text changed.\n")
+    print(dict(c))
 def cmd_view(a): print(numbered(rd(os.path.join(a[1],'kn.md')))[0])
 def cmd_done(a):
     """build + check (+ inline and placeholder gates) + commit + push + self-verification: the translator's single command"""
@@ -345,7 +428,7 @@ def cmd_next(a):
     rel=os.path.relpath(w,ROOT)
     print(f"audit PASS | done through p. {f['page']} | {f['doubts']} [?] | next window {rel} (pp. {pages[0][0]}-{pages[-1][0]}, {len(notes)} script notes)")
     print(f'MESSAGE: Window {rel}: read {rel}/TASK.md, write {rel}/en.md, run `python3 tools/rv/batch.py done {cfg.vol} {rel} --note "…"` until it prints VERIFIED; report in <= 4 lines (last line of `done`, hand-fixes, doubts).')
-CMDS=dict(new=cmd_new,prep=cmd_prep,build=cmd_build,check=cmd_check,zoomlist=cmd_zoomlist,fix=cmd_fix,commit=cmd_commit,done=cmd_done,next=cmd_next,audit=cmd_audit,view=cmd_view)
+CMDS=dict(new=cmd_new,prep=cmd_prep,build=cmd_build,check=cmd_check,zoomlist=cmd_zoomlist,fix=cmd_fix,commit=cmd_commit,done=cmd_done,next=cmd_next,audit=cmd_audit,view=cmd_view,rkheads=cmd_rkheads)
 if __name__=='__main__':
     if len(sys.argv)<3 or sys.argv[1] not in CMDS: sys.exit(__doc__)
     CMDS[sys.argv[1]](sys.argv[2:])

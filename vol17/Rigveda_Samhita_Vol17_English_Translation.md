@@ -889,7 +889,7 @@ Now everything is ready in the sacrifice we perform. The priest called Hotṛ ha
 > *vīhi śūra puroḷāśaṃ ‖ 3 ‖*
 
 ### Printed p. 27
-#### Ṛk 3
+#### Ṛk 3 (continued)
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
@@ -1388,7 +1388,7 @@ Come, Indra, to this our effused Soma juice mixed with milk and curds, with your
 > *kuvit | nu | asya | tṛpnavaḥ ‖ 2 ‖*
 
 ### Printed p. 39
-#### Ṛk 2
+#### Ṛk 2 (continued)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -1685,7 +1685,7 @@ In this Ṛk the final letters of the words विद्म (*vidma*) and अध
 O Indra, come to the place of sacrifice and drink this Soma of ours, which is गवाशिरं (*gavāśiraṃ*), mixed with milk products, and यवाशिरं (*yavāśiraṃ*), mixed with barley, pressed out with the stones. **NOTE**
 
 ### Printed p. 45
-#### Ṛk 7
+#### Ṛk 7 (continued)
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -1938,7 +1938,7 @@ Descend to us riding in your car, for verily yours is this ancient libation ; un
 > *juṣāṇāḥ ‖ 2 ‖*
 
 ### Printed p. 51
-#### Ṛk 2
+#### Ṛk 2 (continued)
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
@@ -2749,7 +2749,7 @@ When the greatness of Indra, the cause of the world's prosperity, is described, 
 > *āpāvṛṇoddharibhiradribhiḥ sutamudgā haribhirājata ‖ 5 ‖*
 
 ### Printed p. 70
-#### Ṛk 5
+#### Ṛk 5 (continued)
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
@@ -3689,7 +3689,7 @@ Indra, attended by the Maruts, the showerer (of benefits), drink the Soma offere
 The verse सजोषा इंद्र (*sajoṣā iṃdra*) is the yājyā of the Marutvatīya graha. The sūtra says: सजोषा इंद्र सगणो मरुद्भिरिति भक्षयित्वैतत्पात्रं (*sajoṣā iṃdra sagaṇo marudbhiriti bhakṣayitvaitatpātraṃ*) (Ā. 5-14). "O mighty hero (शूर (*śūra*)) Indra, you who are united (सजोषाः (*sajoṣāḥ*)) with the gods the Maruts, accompanied by your troop (सगणः (*sagaṇaḥ*)) by the Maruts alone, the slayer of Vṛtra, knowing (विद्वान् (*vidvān*)) the subject of the rites—drink the Soma. Then for us …" (the block breaks off here; the next window continues).
 
 ### Printed p. 95
-#### Ṛk 2
+#### Ṛk 2 (continued)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -4886,7 +4886,7 @@ The twelfth sūkta, इंद्रः स्वाहा (*iṃdraḥ svāhā*)
 May this Indra drink this soma offered with स्वाहा (*svāhā*) (the svāhā-call). The Indra whose soma this is, having come to the sacrifice, is तुम्रः (*tumraḥ*), the destroyer of those who obstruct the rite; वृषभः (*vṛṣabhaḥ*), the one who showers the desired fruit on the sacrificers; मरुत्वान् (*marutvān*), accompanied by the Maruts; उरुव्यचाः (*uruvyacāḥ*), of wide extent. Let him fill himself fully with these foods given by us, the oblations beginning with soma. Then let him fulfil on all sides the desire of this Indra's body, whose object is flowers and the like, the oblation given by us.
 
 ### Printed p. 126
-#### Ṛk 1
+#### Ṛk 1 (continued)
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -5383,6 +5383,8 @@ the destroyer of cities, the swift (in combat), the prompt (dispenser) of waters
 
 स्वर्विदं (*svarvidaṃ*)—स्वर्गस्य लंभकं (*svargasya laṃbhakaṃ*). One who obtains heaven, that is, one who goes to heaven, or dwells in heaven, or secures heaven for people.
 
+#### Ṛk 3
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > आ॒क॒रे वसो॑र्जरि॒ता प॑नस्यतेऽने॒हसः॒ स्तुभ॒ इंद्रो॑ दुवस्यति ॥  
@@ -5451,6 +5453,8 @@ Indra, the enfeebler (of adversaries), is praised as a mine of wealth; he is pro
 अनेहसः स्तुभ इंद्रो दुवस्यति (*anehasaḥ stubha iṃdro duvasyati*)—अपापाः स्तुतीः परिचरति । शासां फलं प्रयच्छन् पूजयतीत्यर्थः (*apāpāḥ stutīḥ paricarati | śāsāṃ phalaṃ prayacchan pūjayatītyarthaḥ*). People praise Indra with sinless praises; the sense is that Indra gives such people the fruit and honours them.
 
 विवस्वतः सदने आ हि पिप्रिये (*vivasvataḥ sadane ā hi pipriye*) विशेषेणाग्निहोत्रार्थं वसतो हविष्मतो वा यजमानस्य गृहे सोमपानादिनात्यंतं प्रीतो भवति खलु (*viśeṣeṇāgnihotrārthaṃ vasato haviṣmato vā yajamānasya gṛhe somapānādinātyaṃtaṃ prīto bhavati khalu*). It is described here that in the house of sacrificers who dwell performing good rites such as the Agnihotra and stand ready to offer oblations, Indra is happy, drinking Soma.
+
+#### Ṛk 4
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -5527,6 +5531,8 @@ The priests glorify you, heroic leader of men, with praises and with prayers : I
 पुरुमायः (*purumāyaḥ*)—वृत्रहननादिबहुकर्मा (*vṛtrahananādibahukarmā*). Because in the work of destroying enemies Indra displays many kinds of māyā (devices, stratagems) and daring, he is described as Purumāyaḥ, one who has done many daring deeds.
 
 नमः अस्य प्रदिवः एकः ईशे (*namaḥ asya pradivaḥ ekaḥ īśe*)—पुरातनः असहायः स इंद्रो हविर्लक्षणस्यान्नस्य ईष्टे । यद्वा अस्य सर्वस्य जगत ईष्टे । तस्मा इंद्राय नमः (*purātanaḥ asahāyaḥ sa iṃdro havirlakṣaṇasyānnasya īṣṭe | yadvā asya sarvasya jagata īṣṭe | tasmā iṃdrāya namaḥ*). The commentator's explanation is that this sentence admits two meanings. If nama is taken to mean food (Ni. 3-9), then Indra, ancient and heroic without helper, is lord of the food in the form of oblation, that is, the oblation must be offered to Indra. If nama is taken to mean homage, then Indra is lord of this whole world, and homage is due to such an Indra.
+
+#### Ṛk 5
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -6572,6 +6578,8 @@ We have prepared the parched grain and curds for you, associated with Pushan ; t
 …in the hymn he is praised together with Soma. His chief functions are to show the way to those who have lost it, to recover lost things, and to bring strayed cattle safely home. There are descriptions such as: "Scatter the enemies; may our path lead us to the things we desire" (Ṛ. Saṃ. 6-53-4); "Make the road good, and may the road reach a place of good pasture" (Ṛ. Saṃ. 1-42-7); "May he remove the troubles that may arise on the way and make the path auspicious" (Ṛ. Saṃ. 6-54-9; 10-59-7); "He is the protector of every path" (6-49-8). Therefore everyone setting out on a journey should worship Pūṣan, the builder of roads, reciting Ṛ. Saṃ. Sūkta 6-53, and all who have lost their way should take refuge in Pūṣan alone; this is stated in the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. Sū. 3-6-8, 9) and in the Sāṃkhyāyana Śrauta Sūtra (Sāṃ. Śrau. Sū. 3-4-9).
 For a detailed account of the deity Pūṣan see Ṛ. Saṃ. Part 5, pp. 547-550.
 
+#### Ṛk 8
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > प्रति॑ धा॒ना भ॑रत॒ तूय॑मस्मै पुरो॒ळाशं॑ वी॒रत॑माय नृ॒णां।  
@@ -7559,6 +7567,8 @@ This very matter is indicated in the present ṛk.
 
 ### Printed p. 198
 
+#### Ṛk 10
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > हं॒सा इ॑व कृणुथ॒ श्लोक॒मदि॑भि॒र्मदं॑तो गी॒र्भिर॑ध्व॒रे सु॒ते  ॑
@@ -7615,7 +7625,7 @@ Sāyaṇa addresses the Kuśikas: "O विप्रा (*viprā*), wise ones; O
 - वि पिबध्वं (*vi pibadhvaṃ*)—drink the juice
 
 ### Printed p. 199
-#### Ṛk 10
+#### Ṛk 10 (continued)
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -7838,6 +7848,8 @@ The Vishwamitras have addressd the prayer to Indra, the wielder of the thunderbo
 ### Printed p. 206
 अरासत (*arāsata*)—स्तोत्रमकुर्वन् (*stotramakurvan*). The word अरासत (*arāsata*) is formed from the root रासृ (*rāsṛ*) (रासृ शब्दे (*rāsṛ śabde*)), meaning "to make a sound". It means "they made a sound", that is, they recited praise.
 
+#### Ṛk 14
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > किं ते॑ कृण्वंति॒ कीक॑टेषु॒ गावो॒ नाशिरं॑ दु॒ह्रे न त॑पंति  ॒
@@ -7946,6 +7958,8 @@ That is: the word Kīkaṭa is the name of the country where the non-Ārya earli
 
 ### Printed p. 211
 —such an unbeliever. Or प्रमगंद (*pramagaṃda*) may mean पंडकः (*paṃḍakaḥ*), पंडगः (*paṃḍagaḥ*) or प्रार्दक (*prārdaka*). पंडक (*paṃḍaka*) or पंडग (*paṃḍaga*) is a eunuch, one who is helpless like women. प्रार्दक (*prārdaka*) is one who behaves like women in dealings and the like, effeminate, shameless. Indra is prayed to bring the wealth of such persons also to us. And those born of upper-class parents among śūdra and other low castes are called low-branch people; since they are fallen and excluded from sacrifices and rites, their wealth is of no use for good rites. Therefore नैचाशाखं धनं (*naicāśākhaṃ dhanaṃ*): prayer is made that the wealth among such low-class people be brought to us. Here, since the root रध्यति (*radhyati*) has the sense "bring into one's power", the words मघवन् रंधय (*maghavan raṃdhaya*) in this Ṛk mean: O Indra, make (the wealth of the people mentioned above) come into our power.
+
+#### Ṛk 15
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -8154,6 +8168,8 @@ Jaiminīya Upaniṣad Brāhmaṇa 3-3-11; 4-3-1, and other places. In all these 
 
 The distinction of this Jamadagni is that he is famed as having played the part of chief priest in a special sacrifice called Caturātra, performed over four days. This is stated in the Taittirīya Saṃhitā beginning पुष्टिकामश्च तूरात्रॆणायजत (*puṣṭikāmaśca tūrātrèṇāyajata*)**NOTE** and in the Pañcaviṃśa Brāhmaṇa**NOTE** (21-10-5 to 7). In the Atharvaveda (Atharvaveda 2-32-3; 6-137-1) Jamadagni is mentioned along with the sages Atri, Kaṇva, Asita and Vītahavya. As told in the story of Śunaśśepa in the Aitareya Brāhmaṇa (Ai. Brā. 7-16), in Śunaśśepa's sacrifice Jamadagni played the part of the priest called Adhvaryu.
 
+#### Ṛk 17
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > स्थि॒रौ गावौ॑ भवतां वी॒ळुरक्षो॒ मेषा वि व॑र्हि॒ मा यु॒गं  ॑
@@ -8241,6 +8257,8 @@ At the close of King Sudās's sacrifice Viśvāmitra takes the avabhṛtha bath,
 इंद्रः पातल्ये शरीतो ददतां (*iṃdraḥ pātalye śarīto dadatāṃ*)—पतनशीले कीलके विशरणात् प्राक् इंद्रः धारयतु । (*patanaśīle kīlake viśaraṇāt prāk iṃdraḥ dhārayatu |*) If the pegs are likely to break and fall, may Indra, before they break and fall, hold them firmly so that they do not fall.
 
 अरिष्टनेमे नः अभि सचस्व (*ariṣṭaneme naḥ abhi sacasva*)—अहिंसितप्रधिविशिष्ट हे रथ अस्मानाभिमुख्येन संगतो भव । (*ahiṃsitapradhiviśiṣṭa he ratha asmānābhimukhyena saṃgato bhava |*) O chariot with wheels that harm no one, make ready to depart and come and stand in front of us.
+
+#### Ṛk 18
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -8383,6 +8401,8 @@ from out of our conveyance.
 ### Printed p. 224
 In the same way, the prayer that the axle-tree too (akṣa) should be firm and not let us fall while the chariot is travelling has been explained.
 
+#### Ṛk 20
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > आ॒युम॒स्मान्वन॒स्पति॒र्मा च॒ हा मा च॑ रीरिषत् ।  
@@ -8437,6 +8457,8 @@ May this lord of the forest never desert us nor do us harm : may we travel prosp
 ##### विशेषविषयगळु (Special Topics)
 
 Here the chariot is called by the word vanaspati, because the chariot is made of wood (vanaspati = tree). The prayer is stated that such a chariot may bring us good fortune, so that no kind of trouble befalls us on our journey until we reach our home.
+
+#### Ṛk 21
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -8517,6 +8539,8 @@ Indra, hero, possessor of wealth, protect us this day against our foes with many
 This ṛc, beginning इंद्रोतिभिः (*iṃdrotibhiḥ*), and the three following express the hatred of the seer Viśvāmitra toward the seer Vasiṣṭha. Formerly there was a royal seer named Sudās, a disciple of Viśvāmitra. For another reason he earned Vasiṣṭha's hatred and became his enemy. To protect his disciple, Viśvāmitra cursed and reviled Vasiṣṭha with these four ṛcs. Therefore these ṛcs are of the nature of imprecation. The descendants of Vasiṣṭha do not listen to these ṛcs.
 Before cursing another, the seer desires his own protection; in the first half of this ṛc he asks for his own protection from Indra, and in the second half he asks for the subduing of the enemy. Since the meaning of this ṛc is clear, explanation is unnecessary. In the second half it is explained who our enemies are. Indra is prayed that evil may befall both kinds of enemy: those whom we hate and those who hate us. In the Yajurveda and other texts these two kinds of enemy are described, repeatedly, by the sentence योऽस्मान् द्वेष्टि यं च वयं द्विष्मः (*yo 'smān dveṣṭi yaṃ ca vayaṃ dviṣmaḥ*).
 
+#### Ṛk 22
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > प॒र॒शुं चि॒द्वि त॑पति शिंब॒लं चि॒द्वि वृ॑श्चति ।  
@@ -8575,6 +8599,8 @@ In this ṛc it is explained through three illustrations how the enemy comes to 
 ### Printed p. 229
 शिंबलं चित् वि वृश्चति (*śiṃbalaṃ cit vi vṛścati*): as the flower of the Śalmalī tree easily falls off, so may the enemy who hates us fall to the ground. May his limbs be cut off.
 इंद्र प्रयस्ता येषंती उखा चित् फेनं अस्यति (*iṃdra prayastā yeṣaṃtī ukhā cit phenaṃ asyati*): as a broken, cracked pot, struck, leaks, so may our enemy, struck down by the power of our mantra, pour foam from his mouth.
+
+#### Ṛk 23
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -8820,6 +8846,8 @@ The meaning of the word ईड्याय (*īḍyāya*) is explained in a way 
 
 दम्येभिः—परेषां दमनकुशलैः । गृहे विद्यमानैर्वा । (*damyebhiḥ—pareṣāṃ damanakuśalaiḥ | gṛhe vidyamānairvā |*) The word दम (*dama*) is read (Ni. 4-4) among the names of the house. Here the word is used as an adjective of a word that denotes brilliance (tejas). Two meanings are therefore explained: the brilliances of Agni are capable of subduing enemies, or they shine on the altar of the sacrificial hall.
 
+#### Ṛk 2
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > महि महे दिवे अर्चा पृथिव्यै कामो म इच्छज्जरति  
@@ -8887,6 +8915,8 @@ Knowing their greatness, offer worship to the vast heaven and to the earth : my 
 सपर्यवः देवाः सचा मादयंते— पूजाकामाः देवाः स्तोतारो वा सह माद्यंति खलु । (*saparyavaḥ devāḥ sacā mādayaṃte— pūjākāmāḥ devāḥ stotāro vā saha mādyaṃti khalu |*) In this Ṛk the greatness of heaven and earth is described. The word अयुः (*ayuḥ*) is listed (Ni. 3-8) among the names of man. For the word सपर्यवः (*saparyavaḥ*) Sāyaṇa gives two meanings: those who perform worship, and those who receive worship. The ṛtvijs of the sacrificer who performs the sacrifice are glad to recite hymns for the sacrificer, who is eager to obtain his various wishes. The gods too are glad to hear these hymns. Therefore the seer's injunction is described here: let the ṛtvijs, who know well the greatness of heaven and earth, who are worthy of worship, praise them. By this it is also said that the greatness of heaven and earth, who fulfil the sacrificer's wish, is unsurpassed.
 
 ### Printed p. 238
+
+#### Ṛk 3
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -8963,6 +8993,8 @@ In the second sentence the word सुविताय (*suvitāya*) is used in t
 The word प्रयस् (*prayas*) is listed (Ni. 3-9) among the names of food. The sacrificer's wish is stated: that he will satisfy heaven and earth with food in the form of oblation, and, bowing to Agni and worshipping heaven and earth, will pray in order to obtain excellent wealth.
 
 ### Printed p. 240
+
+#### Ṛk 4
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -10074,7 +10106,7 @@ For the word अनपत्यानि (*anapatyāni*): अपत्यान�
 May Agni, who is produced for the sacrifice in many regions and is the messenger of the gods, proclaim us everywhere as sinless. May the earth, the world of heaven, and the water-dei
 
 ### Printed p. 268
-#### Ṛk 19
+#### Ṛk 19 (continued)
 **Bhāvārtha** *(continued)*
 …and the vast firmament together with the stars, the sun and the deity of the waters, shall also hear our praise.
 
@@ -10712,7 +10744,7 @@ By these two statements, समानः राजा पुरुत्रा �
 Agni, or Sūrya, abiding (आक्षित् (*ākṣit*)) in the old, decayed herbs, and likewise following (अनूरुत् (*anūrut*)) the new herbs, acting in accord with their origin, is within the herbs that have just been born (सद्यो जातासु (*sadyo jātāsu*)), that is, newly arisen, young and sprouted. Those herbs are अप्रवीताः (*apravītāḥ*) … (the text of the block breaks off here; the next window continues).
 
 ### Printed p. 287
-#### Ṛk 5
+#### Ṛk 5 (continued)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -11691,15 +11723,26 @@ It is described that Indra is endowed with excellent horses, and that the gods t
 
 ### Printed p. 313
 
-> देवत्वष्टा सविता विश्वरूपः पुपोष प्रजाः पुरुधा जजान।
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> देवत्वष्टा सविता विश्वरूपः पुपोष प्रजाः पुरुधा जजान।  
 > इमा च विश्वा भुवनान्यस्य महद्देवानामसुरत्वमेकं ॥१९॥
-> देव । त्वष्टा । सविता । विश्वरूपः । पुपोष । प्रजाः । पुरुधा । जजान ।
+
+> *devatvaṣṭā savitā viśvarūpaḥ pupoṣa prajāḥ purudhā jajāna|*  
+> *imā ca viśvā bhuvanānyasya mahaddevānāmasuratvamekaṃ ‖19‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देव । त्वष्टा । सविता । विश्वरूपः । पुपोष । प्रजाः । पुरुधा । जजान ।  
 > इमा । च । विश्वा । भुवनानि । अस्य । महत् । देवानां । असुरत्वं । एकं ॥ १९ ॥
 
-> *devatvaṣṭā savitā viśvarūpaḥ pupoṣa prajāḥ purudhā jajāna|*
-> *imā ca viśvā bhuvanānyasya mahaddevānāmasuratvamekaṃ ‖19‖*
-> *deva | tvaṣṭā | savitā | viśvarūpaḥ | pupoṣa | prajāḥ | purudhā | jajāna |*
+> *deva | tvaṣṭā | savitā | viśvarūpaḥ | pupoṣa | prajāḥ | purudhā | jajāna |*  
 > *imā | ca | viśvā | bhuvanāni | asya | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 19 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
 > त्वाष्टे पशौ हविषोऽनुवाक्या देवस्त त्वष्टेतेषा । सूत्रितं च । देवस्त त्वष्टा
 > सविता विश्वरूपो देव त्वष्टर्यद्ध चारुत्वमानट् । आ. ३-८ । इति ॥
 > सवितांतर्यामितया सर्वस्य प्रेरको विश्वरूपो नानाविधरूपस्त्वष्टा
@@ -11745,17 +11788,28 @@ Yāska gives the etymology of this Ṛk as follows: देवस्त्वष�
 ### Printed p. 315
 In Sāyaṇa's explanation, विश्वा भुवनानि (*viśvā bhuvanāni*) is given the meaning सर्वाणि भूतजातानि (*sarvāṇi bhūtajātāni*)—the totality of creatures of many kinds. In the Nirukta commentators' explanation, सर्वाणि भूतानि उदकानि (*sarvāṇi bhūtāni udakāni*)—he makes all creatures and the waters, nourishes and increases them; thus a difference can be seen. A difference is also seen in the explanation of the meaning of the word asuratva.
 
-> मही समैरच्चम्वा समीची उभे ते अस्य वसुना नृष्टे ।
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मही समैरच्चम्वा समीची उभे ते अस्य वसुना नृष्टे ।  
 > शृण्वे वीरो विंदमानो वसूनि महद्देवानामसुरत्वमेकं ॥ २० ॥
-> मही इति । सम् । ऐरत् । चम्या । समीची इति सम्ईची । उभे इति । ते इति ।
-> अस्य । वसुना । नृष्टे इति निऋष्टे ।
+
+> *mahī samairaccamvā samīcī ubhe te asya vasunā nṛṣṭe |*  
+> *śṛṇve vīro viṃdamāno vasūni mahaddevānāmasuratvamekaṃ ‖ 20 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मही इति । सम् । ऐरत् । चम्या । समीची इति सम्ईची । उभे इति । ते इति ।  
+> अस्य । वसुना । नृष्टे इति निऋष्टे ।  
 > शृण्वे । वीरः । विंदमानः । वसूनि । महत् । देवानां । असुरत्वं । एकं ॥ २० ॥
 
-> *mahī samairaccamvā samīcī ubhe te asya vasunā nṛṣṭe |*
-> *śṛṇve vīro viṃdamāno vasūni mahaddevānāmasuratvamekaṃ ‖ 20 ‖*
-> *mahī iti | sam | airat | camyā | samīcī iti samīcī | ubhe iti | te iti |*
-> *asya | vasunā | nṛṣṭe iti niṛṣṭe |*
+> *mahī iti | sam | airat | camyā | samīcī iti samīcī | ubhe iti | te iti |*  
+> *asya | vasunā | nṛṣṭe iti niṛṣṭe |*  
 > *śṛṇve | vīraḥ | viṃdamānaḥ | vasūni | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 20 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
 > मही महत्वा समीचि परस्परं संगते चम्वा चमंत्यदंत्यनयोर्देवमनुष्या इति चम्वौ । यद्वा चम्येते आद्येते भूतजातैरिति चम्वौ द्यावापृथिव्यौ ।
 > समैरत् । इंद्रः प्रजापश्वादिभिः सम्यगयोजयत् । ते उभे द्यावापृथिव्यावस्येंद्रस्य वसुना तेजसा धनेन वा नृष्टे निकरां व्याप्ते भवतः।वीरः समर्थः स इंद्रो
 > वसूनि शत्रूनभिभूय तदीयानि धनानि विंदमानो लभमानः सन् श्वण्वे । सर्वैः
@@ -11805,13 +11859,24 @@ He has filled the two vast receptacles (heaven and earth) united (with creatures
 ### Printed p. 317
 वीरः वसूनि विंदमानः शृण्वे (*vīraḥ vasūni viṃdamānaḥ śṛṇve*)—समर्थः सः इंद्रः शत्रूनभिभूय तदीयानि धनानि लभमानस्सर् (*samarthaḥ saḥ iṃdraḥ śatrūnabhibhūya tadīyāni dhanāni labhamānassar*) सर्वैः श्रूयते (*sarvaiḥ śrūyate*)**NOTE**—having explained that the heroic Indra subdues his enemies and seizes their wealth, he describes that this matter is stated in the Ṛk तवेदिदमभितश्चेकिते वसु (*tavedidamabhitaścekite vasu*) (Ṛ. Saṃ. 1-53-3).
 
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
 > इमां च नः पृथिवीं विश्वधायाउप क्षेति हितमित्रो न राजा।
-> इमां । च । नः । पृथिवीं । विश्वधायाः । उप । क्षेति । हितमित्रः ! न ! राजा ।
-> पुरःसदः । शर्मसदः । न । वीराः । महत् । देवानां । असुरत्वं । एकं ॥ २१ ॥
 
 > *imāṃ ca naḥ pṛthivīṃ viśvadhāyāupa kṣeti hitamitro na rājā|*
-> *imāṃ | ca | naḥ | pṛthivīṃ | viśvadhāyāḥ | upa | kṣeti | hitamitraḥ ! na ! rājā |*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । च । नः । पृथिवीं । विश्वधायाः । उप । क्षेति । हितमित्रः ! न ! राजा ।  
+> पुरःसदः । शर्मसदः । न । वीराः । महत् । देवानां । असुरत्वं । एकं ॥ २१ ॥
+
+> *imāṃ | ca | naḥ | pṛthivīṃ | viśvadhāyāḥ | upa | kṣeti | hitamitraḥ ! na ! rājā |*  
 > *puraḥsadaḥ | śarmasadaḥ | na | vīrāḥ | mahat | devānāṃ | asuratvaṃ | ekaṃ ‖ 21 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
 > विश्वधाया विश्वस्य धाता सर्वान्नो ना नोऽस्माकं राजेंद्र इमां पृथिवीमंतरिक्षं चोप तयोः समीपे क्षेति । निवसति । तत्र दृष्टांतः । हितमित्रो न । यथा
 > कस्यचित् हितोपदेष्टा सुहृत्समीपे निवसति तद्वत् । वीराः समर्था युद्धसहाया
 > मरुतः पुरःसदो युद्धार्थं पुरतो निश्चयेन गंतार इंद्रस्य शर्मसदः । न
@@ -12074,6 +12139,8 @@ The light of the stars at night and the light of the sun by day are Varuṇa's v
 नहि त्वा शूर देवा न मर्तासो दित्संतं । भीमं न गां वारयंते ॥ (*nahi tvā śūra devā na martāso ditsaṃtaṃ | bhīmaṃ na gāṃ vārayaṃte ‖*) (Ṛ. Saṃ. 8-8-3)
 
 Neither gods nor humans can hinder the great, generous works of Indra. All Indra's works are in the form of vrata; therefore the purport is that they are firm and protect the world.
+
+#### Ṛk 2
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -13188,7 +13255,7 @@ Of the three kinds of heavenly worlds, two belong to Savitṛ and one to Yama. J
 
 ### Printed p. 376
 
-## Special Topics (continued)
+**Special Topics** *(continued)*
 
 …rest upon the world of Savitṛ alone. In Mādhava's commentary on the Ṛgveda, and in Sāyaṇa's commentary as well, these three worlds are explained as earth, atmosphere and heaven; of these, earth and heaven belong to Savitṛ, and the atmosphere is the world of Yama. Veṅkaṭamādhava, however, has explained that all three are varieties of the heavenly world, and that Agni and Savitṛ are the presiding deities of them. Skandasvāmin holds that either of these two opinions may be accepted.
 
@@ -13234,8 +13301,6 @@ Therefore, प्रजापतिर्वा इदमग्र आसीत�
 
 ## Sūkta 57 (Maṇḍala 3)
 
-#### Ṛk 1
-
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > प्र मे विविक्वानिति षडृचं चतुर्थं सूक्तं । विश्वामित्र ऋषिः । तिष्टप् छंदः ।
@@ -13256,6 +13321,8 @@ Therefore, प्रजापतिर्वा इदमग्र आसीत�
 ##### Gist of the bhāṣya
 
 The sūkta beginning प्र मे विविक्वान् (*pra me vivikvān*) is the fourth sūkta (of the fifth anuvāka), of six Ṛks. The seer is Viśvāmitra, the deity the Viśvedevas, the metre Triṣṭubh. The Anukramaṇikā says प्र मे षळिति (*pra me ṣaḷiti*). The application (viniyoga) of the sūkta is by indication (liṅga). The Kannada gives: Maṇḍala 3, Anuvāka 5, Sūkta 57; Aṣṭaka 3, Adhyāya 4, Varga 2; number of Ṛks in the sūkta 6.
+
+#### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -14234,6 +14301,8 @@ In this story the Aśvins repaired the headless sacrifice so that the sacrificia
 
 पणिं मनीषां (*paṇiṃ manīṣāṃ*)—here पणि (*paṇi*) is taken to mean unbelievers who have no faith in the sacrifice. मनीषा (*manīṣā*) means understanding. The prayer is: may we not have such an unbelieving mind, or if we have it, destroy it and make a believing mind arise in the performance of the sacrifice.
 
+#### Ṛk 3
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > सु॒युग्भि॒रश्वैः॑ सु॒वृता॒ रथे॑न॒ दस्रा॑वि॒मं शृ॑णुतं॒ श्लोक॒मद्रेः॑ ।  
@@ -14323,6 +14392,8 @@ is derived from the root श्लोक् (*ślok*), meaning combination (स�
 Since such usages exist, in the present verse श्लोक (*śloka*) is taken as praise. It may be a combination of mantras praising the gods, or, as Sāyaṇa says in explaining the Aitareya Brāhmaṇa sentence, a praise bound in quarters, of the nature of a mantra and a combination of words.
 अंग (*aṃga*) is an address to the Aśvins; it may mean "those with attractive limbs". Epithets such as युवाना (*yuvānā*), वल्गू (*valgū*), मधुवर्णा (*madhuvarṇā*), शुभस्पती (*śubhaspatī*) describe the attractive limbs of the Aśvins.
 पुराजाः नां आहुः (*purājāḥ nāṃ āhuḥ*)**NOTE**—the sentence "the ancient seers have said that you go towards those afflicted by sorrow" points to occasions when many seers in the past praised the Aśvins' generosity and power. It is well known that Kutsa Āṅgirasa and others praised them, describing how the Aśvins protected sufferers such as Rebha and Vandana, in sentences like याभी रेभं निवृतं सितं (*yābhī rebhaṃ nivṛtaṃ sitaṃ*). The same point is stated here.
+
+#### Ṛk 4
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -14701,7 +14772,7 @@ Ashwins, endowed with power, ever young, in whom is no untruth, unwearied, munif
 > *rathaḥ | ha | vāṃ | ṛtajāḥ | adrijūtaḥ | pari | dyāvāpṛthivī iti | yāti | sadyaḥ ‖8‖*
 
 ### Printed p. 436
-#### Ṛk 8
+#### Ṛk 8 (continued)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -15115,6 +15186,8 @@ Here the sense of giving is stated for शिक्ष (*śikṣa*): "O Indra, p
 अंहः (*aṃhaḥ*)—अंहतिश्चांहश्चांहुश्च हंतेः । (*aṃhatiścāṃhaścāṃhuśca haṃteḥ |*) (Ni. 4-25). Although the word अंहस् (*aṃhas*) is derived from the root हन् (*han*), meaning "to injure", the sense in commonest use for this word is "sin", the source of injury; in the present Ṛk too the meaning is sin.
 
 तोतः (*totaḥ*)—त्वया ऊतः । (*tvayā ūtaḥ |*) "One protected by you": it refers to Āditya. The purport is that for one protected by Āditya, wealth of food, protection from enemies in the form of poverty and the like, and release from sin are all assured.
+
+#### Ṛk 3
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -15669,6 +15742,8 @@ The word *kṣitayaḥ* is read among the twenty-five names for man, *manuṣyā
 In sum, some say the five kinds of people are Gandharvas, fathers, gods, Asuras and Rākṣasas. The view of Upamanyu and others is that the five kinds are the people of the four varṇas beginning with the Brāhmaṇa, together with the hunter class called Niṣāda (Sāyaṇa has endorsed this). The Nairuktas say that Niṣādas are those who kill animals, or that they are so called because sin is full in them. It may also be that there were five main tribes at that time, and the poet may have said *pañca janāḥ* with this in mind. At all events it is clear that there was a difference of opinion on this matter even in the time of Yāska, the author of the Nirukta.
 
 ### Printed p. 475
+
+#### Ṛk 9
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -16664,6 +16739,8 @@ Sāyaṇa here explains the word *dhī* as praise, and states one purport as "ha
 ### Printed p. 512
 Whether one says she has abundant intelligence, or has ritual action, or has praise, or is a giver of wealth, or is capable of bringing forth because she is the giver of food to the world and the giver of vitality, any sense one states fits.
 
+#### Ṛk 2
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > उषो॑ दे॒व्यम॑र्त्या॒ वि भा॑हि चं॒द्रर॑था सू॒न्यता॑ ई॒रयं॑ती ।  
@@ -16730,6 +16807,8 @@ Sāyaṇa explains *candrarathaṃ*, an epithet of Vaiśvānara Agni, as आह�
 manner of speech-activity. Since, after the rising of Ushas, the speech-activity of all animals, birds and the rest begins, the meaning is that Ushas herself is the producer of all of it. Kutsa and Vasiṣṭha have used this epithet abundantly. In
 एषा गेत्री राधसः सूनृतानामुषा उच्छंती रिभ्यते वसिष्ठैः । (*eṣā getrī rādhasaḥ sūnṛtānāmuṣā ucchaṃtī ribhyate vasiṣṭhaiḥ |*) (Ṛ. Saṃ. 7-76-7)
 and a few similar places only, Sāyaṇa explains *sūnṛtānām* as "leader of praises". In the present Ṛk it reads *sūnṛtāḥ īrayantī*; the meaning is either "uttering pleasant words" or "impelling".
+
+#### Ṛk 3
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -16805,6 +16884,8 @@ The idea suggested by words such as *navyasi*, *cakram iva ā vavṛtsva* is exp
 "*Viśvā bhuvanāni pratīcī*": the form of Ushas described in the present Ṛk as having pervaded and shone over all the worlds is that same first form of Ushas, as it was at the time of creation. There is no difference in it. "Those same Ushases are present every day": the very form of that Ushas continues even now, uninterruptedly and infinitely (Bhaṭṭa Bhāskara). Though she takes five forms, beginning with spring, the basic principle is one. It is unbroken. Though it recurs like a wheel, it follows one path of Ṛta.
 आदर्शि गातुरुरवे वरीयसी पंथा ऋतस्य समयंस्त रश्मिभिश्च क्षुर्भगस्य रश्मिभिः। (*ādarśi gātururave varīyasī paṃthā ṛtasya samayaṃsta raśmibhiśca kṣurbhagasya raśmibhiḥ|*) (Ṛ. Saṃ. 1-136-2)
 In this description, that for the sun of wide extent the still wider path of Ṛta was marked out with the help of his rays, the broad path of Ṛta in the sky that is indicated is the eternal course of Ushas.
+
+#### Ṛk 4
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -19219,7 +19300,7 @@ Whoever wins such grace, to him the Supreme Self unveils His own body: thus the 
 - धियः—ध्यॆ चिंतायां धातु. ध्यायतेः संप्रसारणंच (वा. २-५१) ऎंबुदरिंद क्विप् प्रत्यय. अदरॊडनॆ धातुविन यकारक्कॆ संप्रसारण. पूर्वरूप. हलः ऎंबुदरिंद दीर्घ. धी शब्द. धातुस्वर बरुत्तदॆ. द्वितीयाबहुवचनदल्लि शस्‌प्रत्यय. अचिश्रुधातु—ऎंबुदरिंद धातुविन इकारक्कॆ इयजादेश. प्रत्ययसकारक्कॆ रुत्व. विसर्ग.
 - प्रचोदयात्— प्र उपसर्ग. चुद प्रेरणे. धातु. लेट् प्रथमपुरुष एकवचनदल्लि तिप् प्रत्यय. इकारलोप. लेटोडाटौ ऎंबुदरिंद आडागम. चुरादियल्लि पठितवादुदरिंद धातुविगॆ स्वार्थदल्लि णिच्. अदक्कॆ गुण, अयादेश. यः ऎंबुदर संबंधविरुवुदरिंद यद्वृत्तान्नित्यं ऎंबुदरिंद निघातस्वर निषेध बरुत्तदॆ. आगमा अनुदात्ताः ऎंबुदरिंद आडागम अनुदात्तवागुवुदरिंद णिच् प्रत्ययस्वरदिंद दकारोत्तराकारवु उदात्तवागुत्तदॆ. तिजि चोदात्तवति ऎंबुदरिंद उदात्तविशिष्टतिजंतपरवादुदरिंद गतिगॆ (प्र) अनुदात्तस्वर बरुत्तदॆ.
 
-## Ṛk 11
+#### Ṛk 11
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -19278,7 +19359,7 @@ Desirous of food, we solicit with praise, of the divine Savitri, the gift of aff
 ### Printed p. 639
 By whatever power he sports in the world through playful resolve and action, and by whatever greatness he shines radiant in the heavenly world, for that reason Savitṛ is denoted by the word "deva": thus the importance of the epithet is explained.
 
-## Ṛk 12
+#### Ṛk 12
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -19338,6 +19419,8 @@ That example of नमोव्यक्ति (*namovyakti*) is taken only to s
 ### Printed p. 641
 अग्निः न स्ववृक्तिभिर्होतारु त्वा वृणीमहे (*agniḥ na svavṛktibhirhotāru tvā vṛṇīmahe*) (Ṛ. Saṃ. 10-1-1)
 Here, in the word स्वव्यक्ति (*svavyakti*), the word स्व (*sva*) is explained as स्वयंकृताभिः (*svayaṃkṛtābhiḥ*)—made by oneself—and व्यक्तिभिः (*vyaktibhiḥ*) as दोषवर्जिताभिः (*doṣavarjitābhiḥ*)—separated from faults. The purport is "(we choose you) with hymns made by oneself and free of faults, hence excellent"; so in the present case too, सुवृक्तिभिः (*suvṛktibhiḥ*) may be explained as "with hymns that are excellent and, being free of faults, superior".
+
+#### Ṛk 13
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -19651,6 +19734,8 @@ In passages such as प्र बाहवा सिसृतं जीवसे
 
 In all these contexts the word *ghṛta* means water. Just as the meaning "water" is given for the word *ghṛta* in passages such as तृतीयो भ्राता धृतपृष्ठः (*tṛtīyo bhrātā dhṛtapṛṣṭhaḥ*) (1-164-1), here too it must be taken as water. In the Nirukta also the word *ghṛta* is read among the names of water (Ni. 2-24). The prayer to Mitra and Varuṇa is: as you cause abundance of grass for our cows, make the region where they graze fertile with water.
 
+#### Ṛk 17
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > उ॒रु॒शंसा॑ नमो॒वृधा॑ म॒ह्ना दक्ष॑स्य राजथः ।  
@@ -19710,6 +19795,8 @@ Performers of pure rites, glorified by many, exalted by adoration, (celebrated) 
 
 ### Printed p. 654
 In passages like this Mitra and Varuṇa are described as protectors of strength. Moreover, it was explained earlier that the combined power of the two words *kratu* and *dakṣa* shows all the powers of Mitra and Varuṇa. For that very reason they are praised with epithets such as *śucivratā* and *uruśaṃsā*.
+
+#### Ṛk 18
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -20146,6 +20233,8 @@ Aditi is said to have eight sons: Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bh
 
 ### Printed p. 672
 
+#### Ṛk 3
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > सखे॒ सखा॑यम॒भ्या न॑वृत्स्वा॒शुं न च॒क्रं रथ्ये॑व॒ रंह्या॒स्मभ्यं॑ ॒ ॑
@@ -20237,6 +20326,8 @@ its goal : you receive, Agni, the gratifying (oblation) together with Varuna , a
 The commentator has explained the component meaning of the words toka and tuj in this Ṛk:
 Tokāya: तुज्यते पीड्यतेऽनेन माता गर्भवासेनेति तोकं पुत्रः तस्मै । (*tujyate pīḍyate 'nena mātā garbhavāseneti tokaṃ putraḥ tasmai |*) The root tuj means "to harm". Of the word toka derived from it, the meaning is that since a son harms the mother both while in the womb and at the time of birth, the son is called toka.
 Tuje: गच्छत्यनेनानृण्यं पितेति तुक् पौत्रः । तस्मै । (*gacchatyanenānṛṇyaṃ piteti tuk pautraḥ | tasmai |*) Tuk means the grandson. Through him, that is, through his birth, the father clears his debt, that is, becomes anṛṇa (free of debt). In the Tai. Saṃhitā it is said: जायमानो वै ब्राह्मणस्त्रिभिर्यणवा जायते ब्रह्मचर्येण ऋषिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्य एष वा अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी (*jāyamāno vai brāhmaṇastribhiryaṇavā jāyate brahmacaryeṇa ṛṣibhyo yajñena devebhyaḥ prajayā pitṛbhya eṣa vā anṛṇo yaḥ putrī yajvā brahmacārivāsī*) **NOTE**. That is, a Brāhmaṇa is born with three kinds of debts: the debt to the seers, to the gods and to the fathers. They are repaid thus: by living in the teacher's house under the rule of brahmacarya and studying the Veda, the debt to the seers is repaid. By performing sacrifices as a householder and pleasing the gods, the debt to the gods is repaid. By begetting offspring in his lawful wife after marriage, the debt to the fathers is repaid. Therefore a Brāhmaṇa who repays these three debts in the manner stated is called anṛṇa. By offspring such as sons and grandsons, one of the debts mentioned is repaid. Hence the commentator explains here that son and grandson make their father anṛṇa, free of debt.
+
+#### Ṛk 4
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -20560,6 +20651,8 @@ Agni, the messenger of the gods, who calls the gods to the sacrifice, who has a 
 ##### English translation (H. H. Wilson)
 The messenger, the invoker (of the gods), riding in a golden chariot with a tongue of flame, he frequents all the chambers (of sacrifice); drawn by red horses, embodied, resplendent, always agreeable, as a dwelling well supplied with food.
 
+#### Ṛk 9
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > स चे॑तय॒न्मनु॑षो य॒ज्ञबं॑धुः॒ प्र तं म॒ह्या र॑श॒नया॑  
@@ -20628,6 +20721,8 @@ Agni, the kinsman of the sacrifice, comes to know the devotion of men engaged in
 ##### English translation (H. H. Wilson)
 Associated with sacrifice, and knowing those men (who are engaged in good works), they lead him with the strong cord (of praise): he the divine Agni, fulfilling (all desires), abides in the dwelling of this mortal, and obtains fellowship in his wealth.
 
+#### Ṛk 10
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > स तू नो॑ अ॒ग्निर्न॑यतु प्रजा॒नन्नच्छा॒ रत्नं॑ दे॒वभ॑क्तं॒ यद॑स्य।  
@@ -20695,6 +20790,8 @@ May that wise Agni conduct us to that wealth which is desired by the devout; he 
 ##### विशेषविषयगळु (Special Topics)
 
 यस्य द्यौः पिता जनिता (*yasya dyauḥ pitā janitā*)—Here it is said that heaven is father and protector of Agni: अग्ने दिवः सूनुरसि प्रचेतास्तना पृथिव्या उत विश्ववेदाः (*agne divaḥ sūnurasi pracetāstanā pṛthivyā uta viśvavedāḥ*) (Ṛ. Saṃ. 3-25-1). "O Agni, you are known as all-knowing, one who knows everything; you are the son of heaven (or of the deity presiding over heaven) and of the earth": thus the seer Viśvāmitra praised Agni. Moreover, in many places it is said that heaven and earth are the parents of all the other gods, Agni and the rest.
+
+#### Ṛk 11
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -20766,6 +20863,8 @@ He is first engendered in the habitations (of the sacrificers); then upon his st
 ##### विशेषविषयगळु (Special Topics)
 
 अपात् अशीर्षा अंता गुहमानः वृषभस्य नीळे आयोयुवानः (*apāt aśīrṣā aṃtā guhamānaḥ vṛṣabhasya nīḷe āyoyuvānaḥ*)—Here it is said that this Agni, without feet and head, or keeping them hidden so that no one sees them, is united in the form of smoke in the circle of the rain-making cloud. What is in the circle of the cloud is the lightning fire (vaidyutāgni, the flash). Only its radiance is visible to all; the other parts of the fire (that is, the feet and heads) are seen by no one. Moreover, even the fire on the earth cannot be divided into parts such as feet and head. Since clouds exist in the form of water vapour, the Agni united in them is likewise present in the form of smoke: such is the meaning.
+
+#### Ṛk 12
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -21297,6 +21396,8 @@ May I glorify the present radiant Agni, the invoker (of thc gods), the supporter
 In this Ṛk the sacrificer who performs the sacrifice is poor, and so has no power to offer milk, oblation or soma juice. Agni is therefore prayed to be satisfied with praises alone, accompanied by devotion and faith, which the sacrificer has offered.
 
 ### Printed p. 700
+
+#### Ṛk 20
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -22905,6 +23006,8 @@ Repeat, oh priest, the praise, the prayer, to the attentive, the affable Agni, t
 
 Sotā grāveva: here the sweet sound of the stone, which crushes the Soma-creepers and presses out the juice, is compared to the sound of praising Agni. On this matter, the commentator points out here that there is a whole sūkta (Ṛ. Saṃ. 10-94), प्रैते वदंतु प्र वयं वदाम ग्रावभ्यः (*praite vadaṃtu pra vayaṃ vadāma grāvabhyaḥ*), for praising the stones called grāvāṇaḥ that press out the Soma juice.
 
+#### Ṛk 4
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > त्वं चि॑न्तः॒ शम्या॑ अग्ने अ॒स्या ऋ॒तस्य॑ बोध्यतचित्स्वा॒धीः ॥  
@@ -22962,6 +23065,8 @@ O Agni, you are the deity of this our rite. O Agni, knower of truth, you, the ex
 
 ##### English translation (H. H. Wilson)
 You, Agni, preside over this our rite : do you, who are cognizant of truth, and the author of good works, recognize this our adoration, whenever these exhilarating prayers (are addressed) to you, whenever friendly relations with you are (established) in our dwelling.
+
+#### Ṛk 5
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -23033,6 +23138,8 @@ O Agni, why do you make our sin known to Varuṇa and reproach us? What sin of o
 ##### English translation (H. H. Wilson)
 Why, Agni, do you reproach us (for our sin) to Varuna, why to the heaven ? what is our offence ? why repeat it to the bountiful Mitra, to earth, to Aryaman, or to Bhaga ?
 
+#### Ṛk 6
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > कद्धिषा ्य॑सु वृधसा॒नो अ॑ग्ने॒ कद्वाता॑य॒ प्रत॑वसे शुभं॒ये ।  
@@ -23095,6 +23202,8 @@ O Agni, you who grow in the sacrificial places, why do you make my sin known to 
 Why repeat it when exalted in holy ceremonies ? why tell it to the mightv, benevolent, circumambient, truthful wind (Vayu) ? why, Agni, to earth, why to man-destroying Rudra ?
 
 ### Printed p. 741
+
+#### Ṛk 7
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -23425,7 +23534,7 @@ By the sacrifice, the Angirasas, rending the mountain asunder, have thrown it op
 
 ### Printed p. 748
 
-#### Ṛk 12
+#### Ṛk 12 (continued)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -24625,7 +24734,7 @@ Invoker (of the gods), youngest (of the deities) ; possessed of excellent wisdom
 > *te pāyavaḥ sadhyaṃco niṣadyāgne tava naḥ sāṃtvamūra ‖12‖*
 
 ### Printed p. 780
-#### Ṛk 12
+#### Ṛk 12 (continued)
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
@@ -26634,6 +26743,8 @@ Agni, the accomplisher of the offering, the gladdener, sweet of speech, possesso
 ##### English translation (H. H. Wilson)
 Agni, the sacrificer, the exhilarator, the sweet-spoken, the object of sacrifice, moving measuredly, circumambulates ( the victim ) of his own (accord); the bright (rays) of him (fed) with (sacrificial) food, spread around; all the regions are alarmed when he blazes.
 
+#### Ṛk 6
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > भ॒द्रा ते॑ अग्ने स्वनीक सं॒दृगो॒रस्य॑ स॒तो विषु॑णस्य॒ चारुः॑ ।  
@@ -26698,6 +26809,8 @@ O Agni of auspicious flame, by whose greatness the night cannot cover your radia
 ##### English translation (H. H. Wilson)
 Bright-shining Agni, beautiful and auspicious is the semblance of you, who are terrible and wide-spreading, for (the nights) hide not your splendour with darkness, nor do the malignant (spirits) inflict any injury on your person.
 
+#### Ṛk 7
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > न यस्य॒ सातु॒र्जनि॑तो॒रवा॑रि॒ न मा॒तरा॑पि॒तरा॒ नू चि॑दि॒ष्टौ ।  
@@ -26759,6 +26872,8 @@ Of whom, progenitor (of mankind), the benevolence is never checked ; whose paren
 
 ### Printed p. 835
 
+#### Ṛk 8
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > द्विर्यं पंच॒ जीज॑नंत्सं॒वसा॑नाः॒ स्वसा॑रो अ॒ग्निं मानु॑षीषु  ॒
@@ -26816,6 +26931,8 @@ Agni, whom the twice five sisters dwelling amongst men, the descen-
 dants of Manu, have engendered, like females, (awaking) him at dawn,
 feeding on oblations, brilliant, of goodly aspect, and sharp as an axe.
 
+#### Ṛk 9
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > तव॒ त्ये अ॑ग्ने ह॒रितो॑ घृत॒स्ना रोहि॑तास ऋ॒ज्जंचः॒ स्वंचः॑ ।  
@@ -26870,6 +26987,8 @@ O Agni, your well-known horses, pouring out foam, golden, of straight gait, movi
 
 ##### English translation (H. H. Wilson)
 Your horses, Agni, breathing foam, red-coloured, straight-going, well-paced, bright-shining, vigorous, well-membered, and of graceful form, are summoned to the worship of the gods.
+
+#### Ṛk 10
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -28357,6 +28476,8 @@ O Agni, do you not desire also the oblations of the sacrificers, who wish to per
 ##### English translation (H. H. Wilson)
 You, who are the director (of the ceremonial), accept the oblations of devoutly-worshipping men the descendants of Manu.
 
+#### Ṛk 6
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > वेषीद्व॑स्य दू॒त्यं१॒॑ १ यस्य॒ जुजो॑षो अध्व॒रं ।  
@@ -28405,6 +28526,8 @@ O Agni, for the sacrificer, a mortal, whose sacrificial oblation you desire to c
 ##### English translation (H. H. Wilson)
 You are willing (to fulfil) the office of messenger for the mortal whose oblations at the sacrifice you are pleased to convey.
 
+#### Ṛk 7
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > अ॒स्माकं॑ जोष्यध्व॒रम॒स्माकं॑ य॒ज्ञमं॑गिरः ।  
@@ -28452,6 +28575,8 @@ O Agni, enjoy our sacrifice. Enjoy our oblation, the means of the sacrifice. Hea
 
 ##### English translation (H. H. Wilson)
 Be pleased by our sacrifice; (be pleased) Angiras, by our offering : hear our invocation.
+
+#### Ṛk 8
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -28566,6 +28691,8 @@ This sūkta, अग्ने तमद्य (*agne tamadya*), is the tenth sūk
 > देवता—अग्निः ॥
 > छंदः—१-३, पदपंक्ति: । ४, ६, ७, उष्णिक् पदपंक्तिर्वा ।
 > ५. महापदपंक्ति: । ८. उष्णिक् ॥
+
+#### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -30530,6 +30657,8 @@ This sūkta beginning अग्निर्होता (*agnirhotā*) is the fi
 > अश्विनौ ॥
 > छंदः—गायत्री ॥
 
+#### Ṛk 1
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > अ॒ग्निर्होता॑ नो अध्व॒रे वा॒जी सन्परि॑णीयते ॥  
@@ -30849,7 +30978,7 @@ They diligently worship him daily who is like a horse (to convey oblations), who
 > *accha | na | hūtaḥ | ut | araṃ ‖ 7 ‖*
 
 ### Printed p. 924
-#### Ṛk 7
+#### Ṛk 7 (continued)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -31135,7 +31264,7 @@ May the truthful Maghavan, the accepter of the spiritless Soma, come to us ; may
 Ṛjīṣī: ऋजीषी—ऋजीषशब्देन निष्पिष्टो विगतसारः सोमोऽभिधीयते । तद्वान् इंद्रः ॥ (*ṛjīṣī—ṛjīṣaśabdena niṣpiṣṭo vigatasāraḥ somo 'bhidhīyate | tadvān iṃdraḥ ‖*) Ṛjīṣa means the husks of the Soma plant left over after the juice has been taken by crushing with stones; it is like the husk remaining after the juice of sugar-cane is taken. In the sacrifice there are rites in which juice is taken from the Soma plants and prepared at the three times: morning, midday and evening, called the morning pressing, the midday pressing and the third pressing. In the morning and midday pressings freshly brought Soma plants are crushed and the juice taken. In the third pressing, that is in the evening, fresh Soma plants are not used. The husks left after pressing in the morning and midday are soaked in water and pressed well once more, and with the little juice that comes, three kinds of āśira materials, milk, curds and flour, are mixed and drunk. In the present Ṛk, because Soma mixed with āśira materials is offered to Indra at the time of the third pressing, and because that Soma juice is pressed out from Soma plants already drained, called ṛjīṣa, Indra is described by the word ṛjīṣī.
 
 ### Printed p. 931
-## Ṛk 2
+#### Ṛk 2
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -31192,7 +31321,7 @@ O valiant Indra, today at this midday pressing, to satisfy you, as a horse is le
 ##### English translation (H. H. Wilson)
 Hero, Indra, set us free to-day to give you exhilaration at this sacrifice, as (they let loose a horse) at the end of the road: may the worshipper, like Ushanas, repeat an acceptable prayer to you, the knower (of all things), the destroyer of the Asuras.
 
-## Ṛk 3
+#### Ṛk 3
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -31251,7 +31380,7 @@ Indra, who accomplishes the duties to be performed, as a sage knows a hidden sec
 ##### English translation (H. H. Wilson)
 Like a sage (knowing) what is hidden, and fulfilling sacred rites, so the showerer (of benefits), quaffing copiously the effused (libation), exults (in the draught), and this generates the seven efficient (rays) from heaven, which, being glorified, have made (manifest) the objects of (human) perception by day,
 
-## Ṛk 4
+#### Ṛk 4
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -31312,7 +31441,7 @@ When heaven, of vast form and of the nature of radiance, is known as brightly il
 ##### English translation (H. H. Wilson)
 When the vast luminous heaven manifested by the rays (of light) is displayed, then are (the deities) resplendent according to (their heavenly) abode : the chief of leaders, (Indra), in his approach has scattered the thick glooms so that men may see.
 
-## Ṛk 5
+#### Ṛk 5
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -31699,9 +31828,9 @@ Concerning the matter spoken of in this Ṛk, the commentator has told a story (
 ### Printed p. 943
 The Kannada gives the story thus: In former times there was a royal sage named Ruru. He had a son named Kutsa. Once he had to fight with enemies. Because the enemies were very strong, he could not face and conquer them alone; he sought Indra's help and invited him. Then Indra came to Kutsa's house and destroyed his enemies. Thereby friendship arose between Kutsa and Indra. Afterwards Indra took Kutsa to his own house. At the door of the house Śacī, Indra's wife, came to welcome Indra, and seeing two men of the same form as Indra, did not know how to tell which was Indra and which was Kutsa, and voiced her doubt. This very matter is indicated in this Ṛk.
 
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
 #### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > यासि॒ कुत्से॑न स॒रथ॑मव॒स्युस्तो॒दो वात॑स्य॒ हर्यो॒रीशा॑नः ।
 > ऋ॒ज्रा वाजं॒ न गध्यं॒ युयू॑षन्न॒विर्यदह॒न्पार्या॑य॒॑
@@ -31763,9 +31892,9 @@ O Indra, desiring to protect Kutsa, you, the tormentor of enemies and lord of ho
 ##### English translation (H. H. Wilson)
 You went with Kutsa, in the same chariot, determined to defend him ; (you who are) the tormentor (of foes), the lord of horses (of the speed) of the wind : on the same day wherein, yoking (to the car) the straight-going steeds, as if to receive food, the sage (Kutsa) has been enabled to cross over (the sea) of calamity.
 
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+#### Ṛk 12
 
-#### Ṛk
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > कुत्सा॑य॒ शुष्ण॑म॒शुषं॒ नि ब॑र्हिः प्रपि॒त्वे अह्नः॒ कुय॑वं॒॑
 > सहस्रा ।
@@ -31829,9 +31958,9 @@ For Kutsa, you have slain the unhappy Shushna, and, in the forepart of the day, 
 
 The matter spoken of in this Ṛk and in the next Ṛk is also explained in Ṛ. Saṃ. 1-103-8. The matter of Śuṣka and Pipu we have explained in Ṛ. Saṃ. Part 10, pages 550, 551 and other places.
 
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+#### Ṛk 13
 
-#### Ṛk
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > त्वं पिप्रुं॒ मृग॑यं शूशु॒वांस॑मृ॒जिश्व॑ने वैदथि॒नाय॑ रंधीः।
 > पं॒चा॒शत्कृ॒ष्णा नि व॑पः स॒हस्रात्कं॒ न पुरो॑ जरि॒मा वि द॑र्दः ॥
@@ -31885,9 +32014,9 @@ O Indra, you made subject to yourself the asura Pipu and the grown-great asura M
 ##### English translation (H. H. Wilson)
 You have subjugated Pipru and the mighty Mrigaya for the sake of Rijishwan, the son of Vidathin; you have slain the fifty thousand Krishnas; and, as old age (destroys) life, you hast demolished the cities (of Shambara).
 
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
 #### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > सूर॑ उपा॒के त॒न्वं१॒॑१ दधा॑नो॒ वि यत्ते॒ चेत्य॒मृत॑स्य॒ वर्षः॑ ।
 > मृ॒गो न ह॒स्ती तवि॑षीमुषा॒णः सिं॒हो न भी॒म आयु॑धानि॒॑
@@ -31946,6 +32075,8 @@ O Indra, before the sun, the impeller of all, all other lights grow dim. But whe
 ##### English translation (H. H. Wilson)
 While having (your) person in the proximity of the sun, your form becomes redolent of ambrosia, and you are like the cervine elephant, consum-ing the strength (of the strong), and are like a terrible lion when wielding your weapons.
 
+#### Ṛk 15
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > इंद्रं॒ कामा॑ वसू॒यंतो॑ अग्म॒न्‌स्व॑र्मीळ्हे॒ न सव॑ने  ॒
@@ -32003,6 +32134,8 @@ Relying (upon Indra) for protection, and desirous of riches, (pious men) repair 
 
 ### Printed p. 950
 
+#### Ṛk 16
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > तमिद्व॒ इंद्रं॑ सु॒हनं॑ हुवेनु॒ यस्त्या च॒कार॒ नर्या॑ पु॒रूणि॑।  
@@ -32056,6 +32189,8 @@ O sacrificers, the Indra who did deeds beneficial to men, very famous and of man
 
 ##### English translation (H. H. Wilson)
 Let us invoke that gracious Indra who has made so many things good for man; who, bestowing enviable opulence, quickly brings acceptable food to a worshipper like me.
+
+#### Ṛk 17
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -32113,6 +32248,8 @@ O valiant Indra, lord, in whatever battle arisen among us men, if your sharp thu
 ##### English translation (H. H. Wilson)
 Hero, Indra, when in any conflict of men the sharp thunderbolt falls in the midst (of them), and when, lord, there is a terrible battle, then the defender of our persons is made known.
 
+#### Ṛk 18
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > भुवो॑ऽवि॒ता वा॒मदे॑वस्य धी॒नां भुवः॒ सखा॑वृ॒को वाज॑सात्  
@@ -32167,6 +32304,8 @@ O Indra, be the protector of the acts of me, Vāmadeva. Harmless as you are, be 
 
 ##### English translation (H. H. Wilson)
 Be the protector of the pious acts of Vamadeva; be in battle an unfailing friend: we come to you, eminent in wisdom; may you bc ever benignant to your praiser.
+
+#### Ṛk 19
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -32230,6 +32369,8 @@ O wealthy Indra, in every battle, together with these followers, sons, grandsons
 ##### English translation (H. H. Wilson)
 In every battle, Maghavan, may we, along with those men who trust in you and offer rich gifts, like those who are resplendent with riches, triumphing over their foes, glorify you many nights and years.
 
+#### Ṛk 20
+
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > ए॒वेदिंद्रा॑य वृष॒भाय॒ वृष्णे॒ ब्रह्मा॑कर्म॒ भृग॑वो॒ न रथं॑।  
@@ -32288,6 +32429,8 @@ So that Indra may at once not abandon the truth that is with us, and with the pr
 Therefore we offer to the vigorous Indra, the showerer ( of benefits ), holy adoration, that he may never withdraw his friendly (actions) from us, and that he may be our powerful protector, the defender of (our) persons, as the Bhrigus (fabricate) a car (for use).
 
 ### Printed p. 956
+
+#### Ṛk 21
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -32824,7 +32967,7 @@ Indra, as soon as you were born, you took the progeny who were afraid of Vritra 
 In the animal sacrifice to Indra as Vṛtra-slayer, "सत्राहणं (*satrāhaṇaṃ*)" is the anuvākyā of the oblation. It is also stated in the sūtra: सत्राहणं दादृषिं तुम्रमिंद्रं सहदानुं पुरुहूत क्षियंतं । आ. ३.८ । इति ॥ (*satrāhaṇaṃ dādṛṣiṃ tumramiṃdraṃ sahadānuṃ puruhūta kṣiyaṃtaṃ | ā. 3.8 | iti ‖*) (Ā. 3.8).
 
 ### Printed p. 967
-#### Ṛk 8
+#### Ṛk 8 (continued)
 
 > सत्राहणं बहूनां शत्रूणां हंतारं दाधृषिमत्यंतं धर्षकं तुम्रं ।
 > तुमिः प्रेरणकर्मा । शत्रूणां प्रेरकं महां महांतमपारमपरिमाणं । विनाशरहितमित्यर्थः । वृषभं कामानां वर्षितारं सुवज्रं शोभनेन वज्रेणोपेतमिंद्रं । वयं स्तोतारः स्तुमेति शेषः । य इंद्रो वृत्रं वृत्रनामानमसुरं
@@ -33127,7 +33270,7 @@ Some portion (of his strength) Indra derives from his mother, some- portion from
 ### Printed p. 973
 world), and animates its vigour repeatedly, as the wind is driven by thundering clouds.
 
-#### Ṛk
+#### Ṛk 13
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -33993,7 +34136,7 @@ Aditi bore Indra for a thousand (that is, many) months (मासः (*māsaḥ*
 
 ### Printed p. 995
 
-#### Ṛk 5
+#### Ṛk 4 (continued)
 
 > स्येंद्रस्य प्रतिमानं न ह्यस्ति । न विद्यते खलु । नु इति पादपूरणार्थः । उतापि च
 > ये देवादयो जनित्वा जनयितव्या जनयिष्यमाणास्तेषु मध्येऽसेंद्रस्य प्रतिमानं नास्ति ॥
@@ -34027,6 +34170,8 @@ Whatever deeds are done by Indra, whom his mother carried in the womb for thousa
 
 ##### English translation (H. H. Wilson)
 Aditi speaks.—What irregular act has he committed whom (I, his mother,) bore for a thousand months and for many years? there is no analogy between him and those who have been or will be born.
+
+#### Ṛk 5
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 

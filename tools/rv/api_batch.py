@@ -168,7 +168,7 @@ def soften(en, kn, w):
     probs = []; en = convert.resolve_markers(en, kn, probs)
     def unres(m):
         a, b = [x.strip() for x in m.group(1).split('~~', 1)]; log.append(('quotation not located: first and last words only', m.group(0)[:80]))
-        return f'⟦{a}⟧ … ⟦{b}⟧ **NOTE**{{long quotation not located in the supplied text of these pages: only its first and last words are given}}'
+        return (f'⟦{a}⟧ … ⟦{b}⟧' if a and b else f'⟦{a or b}⟧ …') + ' **NOTE**{long quotation not located in the supplied text of these pages: only its first and last words are given}'
     en = re.sub(r'⟦([^⟧]*~~[^⟧]*)⟧', unres, en)
     knr = re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])', '-', kn); knr = kn + '\n' + re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])', '-', knr)
     kset = set(numerals.refs_kn(knr)) | set(numerals.refs_en(knr)); groups = [k.split('-') for k in kset]
