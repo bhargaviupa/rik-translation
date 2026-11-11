@@ -52,6 +52,25 @@ def add_missing_headings(md, specs):
         out.append(line)
     return '\n'.join(out), len(done)
 
+_C = '\u0915-\u0939\u0958-\u095F'
+AKSHARA = re.compile('(?:[' + _C + ']\u093C?\u094D)*(?:[' + _C + ']\u093C?|[\u0904-\u0914\u0960\u0961\u093D\u0966-\u096F])[\u093E-\u094C\u0962\u0963]?[\u0900-\u0903]?[\u0951\u0952\u1CD0-\u1CFF\uA8E0-\uA8FF]*|\\S')
+
+def mark_samhita(body):
+    """The verse (Saṃhitā) in the traditional look: larger type and a little space after every syllable, so each accent mark sits clearly on its
+    own letter (user decision, Nov 11 2026).  Only the HTML/PDF is changed: the first blockquote after a Saṃhitā label gets class "samhita", its
+    lines are kept one under the other, and every akṣara is wrapped in <span class="ak"> (a conjunct stays whole).  Styling: style_volbook.css."""
+    n = [0]
+    def syl(text):
+        return ' '.join(''.join(f'<span class="ak">{a}</span>' for a in AKSHARA.findall(w)) for w in text.split(' '))
+    def rep(m):
+        n[0] += 1
+        inner = re.sub(r'(?<!>)\n(?!<)', '<br />\n', m.group(2).strip('\n'))                 # soft line breaks of the verse become real ones
+        parts = re.split(r'(<[^>]+>)', inner)
+        inner = ''.join(p if p.startswith('<') or not re.search('[\u0900-\u097F]', p) else '\n'.join(syl(x) for x in p.split('\n')) for p in parts)
+        return f'{m.group(1)}<blockquote class="samhita">\n{inner}\n</blockquote>'
+    body = re.sub(r'(संहितापाठः[^<]*(?:</strong></p>|</h[1-6]>)\s*)<blockquote>(.*?)</blockquote>', rep, body, flags=re.S)
+    return body, n[0]
+
 def pandoc_html(md):
     r = subprocess.run(['pandoc', '-f', 'markdown-yaml_metadata_block-smart+pipe_tables', '-t', 'html5', '--wrap=none'],
                        input=md, capture_output=True, text=True, check=True)
@@ -320,6 +339,7 @@ def build_eng(cfg, html_only):
     md, nconv = convert_inline(md)
     print(f'[eng] headings added: {added}; Kannada-script quotations converted: {nconv}; ⟦ left: {md.count("⟦")}')
     body = pandoc_html(md)
+    body, nv = mark_samhita(body); print(f'[eng] verses set in the spaced Saṃhitā style: {nv}')
     toc, st = [], {'n': 0}
     def head(m):
         tag, inner = m.group(1), m.group(2)

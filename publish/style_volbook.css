@@ -66,3 +66,8 @@ span.fn { float: footnote; }
 /* footnote numbering restarts in each front-matter section and at the first body page */
 .board, .preface, .econtents, .abbr { counter-reset: footnote; }
 h3.pg#p1 { counter-reset: footnote; }
+
+/* the verse (Saṃhitā) in the traditional look: larger type, a little space after every syllable so each accent mark stands clear (Nov 11 2026) */
+blockquote.samhita { font-size: 13pt; word-spacing: .7em; line-height: 2.1; border-left: 0; padding-left: 0; margin: .5em 0 .6em 1em; page-break-inside: avoid; }
+blockquote.samhita p { margin: 0; }
+blockquote.samhita .ak { display: inline-block; margin-right: .16em; }
