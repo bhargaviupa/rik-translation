@@ -20599,6 +20599,296 @@ Sūnṛtā, sūnṛtāvatī, sūnṛtāvarī—प्रियसत्यरू
 
 Although these words are ordinarily used with reference to the goddess Uṣas, in some contexts they are also applied to other deities.
 
+### Printed p. 528
+
+Yāska has given the following etymological explanation of the Ṛk quoted above:
+
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् । चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्य । एवं रात्रुषसे योनिमरिचत् स्थानं । स्त्रीयोनिरभियुत एनां गर्भः ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgamat | citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasya | evaṃ rātruṣase yonimaricat sthānaṃ | strīyonirabhiyuta enāṃ garbhaḥ ‖*) (Ni. 9-19)
+
+According to the statement रात्रेरपरः काल उष इत्युच्यते (*rātreraparaḥ kāla uṣa ityucyate*), the last part of the night, that is, the time before sunrise, is called the time of Uṣas (dawn). The radiance of this dawn-time, that is, its light, is superior to all other lights. In the world the sun, the moon and the stars are luminous. Of these, the light of the sun is very fierce. The light of the stars illumines only the stars and does not illumine other things; that is, other objects cannot be seen by the light of the stars. The light of the moon is cool, but since it is not very bright, objects are not seen clearly. But the light of the dawn-time is neither fierce like the light of the sun, nor cool like the radiance of the moon, nor indistinct. It has the power to illumine every object very well. For that very reason the radiance of the dawn-time is said here to be most excellent, surpassing the radiance of the sun, moon, stars and the rest. Moreover, the light of the dawn-time spreads over all regions at one and the same time and is very pleasing to the mind. The rising of such a dawn-time has now come. This is the translation of the first half of this Ṛk.
+
+In the world, night comes after the sun has set. After the night has passed there is the dawn-time, and after the dawn-time sunrise. Since they come one after another in this order, one is said to be the cause of the origin of the next. Thus, since night arises after the sun has set, the sun is the cause of the origin of night, that is, night comes into being from the sun. In the same way the dawn-time comes into being from the night, and the sun's rising comes from the dawn-time. This very idea is expressed in this Ṛk: as night was born from the sun, so the dawn-time came forth from the night.
+
+- प्रकेतः (*praketaḥ*)—from कित ज्ञाने (*kita jñāne*); अंधकारावृतस्य सर्वस्य पदार्थस्य प्रज्ञापकः (*aṃdhakārāvṛtasya sarvasya padārthasya prajñāpakaḥ*): that which, by its light, makes visible the things not seen because of darkness.
+- विभ्वा (*vibhvā*)—विभुर्व्याप्तः (*vibhurvyāptaḥ*): pervading, covering.
+- सवाय (*savāya*)—उत्पत्तये (*utpattaye*): for being born; for rising.
+- योनिः (*yoniḥ*)—place of origin; that which is the cause.
+
+### Printed p. 529
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथाष्टमं व्याख्यातुमारभते । इदमु त्यदित्येकादशर्चं षष्ठं सूक्तं
+> वामदेवस्यार्षं त्रैष्टुभमुषोदेवताकं । इदमुषस्यं त्वित्यनुक्रांतं ॥
+> प्रातरनुवाक उषस्यॆ क्रता त्रैष्टुभे छंदस्याश्विनशस्त्र इदं सूक्तं । सूत्रितं च ।
+> उषो वाजेनेदमु त्यत् । आ. ४-१४ । इति ॥
+> अनुवादवु—ईग मूरनॆय अष्टकद ऎंटनॆय अध्यायद व्याख्यानवन्नु प्रारंभिसुवॆवु.
+> इदमु त्यत् ऎंब ई सूक्तवु नाल्कनॆय मंडलद ऐदनॆय अनुवाकदल्लि आरनॆय सूक्तवु.
+> इदरल्लि हन्नॊंदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; उषस्सु देवतॆयु ;
+> त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि इदमुषस्यं तु ऎंदु हेळिरुवुदु. प्रातरनुवाकमंत्र
+> पठनकालदल्लि उषस्यक्रतुसंबंधवाद त्रिष्टुप्‌छंदस्सिन मंत्रगळिगागियू आश्विनशस्त्रमंत्र पठन
+> क्कागियू ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायनशौतसूत्रद—उषो वाजेनेदमु
+> त्यत् ऎंब सूत्रदिंद (आ. ४-१४) विवृतवागिरुवुदु.
+> सूक्त—५१
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५१ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—१, २ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—११ ॥
+> ऋषिः—नामदेवः ॥
+> देवता—उषाः ।
+> छंदः—त्रिष्टुप् ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa begins the commentary on the eighth (adhyāya). The sūkta इदमु त्यत् (*idamu tyat*), of eleven Ṛks, is the sixth sūkta; its seer is Vāmadeva, its deity Uṣas, its metre Triṣṭubh. The Anukramaṇī says इदमुषस्यं तु (*idamuṣasyaṃ tu*). It is used at the Prātaranuvāka, for the Triṣṭubh verses of the Uṣasya kratu, and in the Āśvina-śastra, and it is prescribed in the sūtra उषो वाजेनेदमु त्यत् (*uṣo vājenedamu tyat*) (Ā. 4-14). Particulars: Maṇḍala 4, Anuvāka 5, Sūkta 51; Aṣṭaka 3, Adhyāya 8, Vargas 1, 2; number of Ṛks in the sūkta 11; Ṛṣi: Nāmadeva **NOTE**; Devatā: Uṣas; Chandas: Triṣṭubh.
+
+##### Anuvāda
+
+Now we begin the exposition of the eighth adhyāya of the third aṣṭaka. This sūkta beginning इदमु त्यत् (*idamu tyat*) is the sixth sūkta in the fifth anuvāka of the fourth maṇḍala. It has eleven Ṛks. Its seer is Vāmadeva; the deity is Uṣas; the metre is Triṣṭubh. In the Anukramaṇī it is described as इदमुषस्यं तु (*idamuṣasyaṃ tu*). This sūkta is applied, at the time of reciting the Prātaranuvāka mantras, to the Triṣṭubh mantras connected with the Uṣasya kratu and to the recitation of the Āśvina-śastra mantras, as is set out in the Āśvalāyana-śrauta-sūtra, in the sūtra उषो वाजेनेदमु त्यत् (*uṣo vājenedamu tyat*) (Ā. 4-14).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दमु॒ त्यत्पु॑रु॒तमं॑ पु॒रस्ता॒ज्योति॒स्तम॑सो व॒युना॑वदस्थात् ।  
+> नू॒नं दि॒वो दु॑हि॒तरो॑ विभा॒तीर्गा॒तुं कृ॑णवन्नु॒षसो॒  ॑
+> जनाय ॥ १ ॥
+
+> *idamu tyatpurutamaṃ purastājyotistamaso vayunāvadasthāt |*  
+> *nūnaṃ divo duhitaro vibhātīrgātuṃ kṛṇavannuṣaso*  
+> *janāya ‖ 1 ‖*
+
+### Printed p. 530
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । ऊं इति । त्यत् । पुरुतमं । पुरस्तात् । ज्योतिः । तमसः । वयुनवत् ।  
+> अस्थात् ।  
+> नूनं । दिवः । दुहितरः । विभातीः । गातुं । कृणवन् । उषसः । जनाय ॥ १ ॥
+
+> *idaṃ | ūṃ iti | tyat | purutamaṃ | purastāt | jyotiḥ | tamasaḥ | vayunavat |*  
+> *asthāt |*  
+> *nūnaṃ | divaḥ | duhitaraḥ | vibhātīḥ | gātuṃ | kṛṇavan | uṣasaḥ | janāya ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमु पुरतो दृश्यमानमिदं त्यत्तदस्माभिः स्तुत्यं सर्वप्रसिद्धं पुरुतममत्यंतप्रभूतं ज्योतिस्तेजो वयुनावत् । वेतेः कांतिकर्मण इदं ॥ प्रकृष्टकांतिमत् । अथवा वयुनमिति प्रज्ञानाम । प्रज्ञोपेतं । सर्वस्य प्रज्ञापकमित्यर्थः ।
+> कीदृक् तेजः । पुरस्तात् पूर्वस्यां दिशि तमसोऽंधकारादस्थात् । उदतिष्ठत् ।
+> एवं सति नूनं सत्यं दिव आदित्यस्य दुहितरो दुहितृस्थानीया विभातीर्विभानं
+> कुर्वतीरुषसो जनाय यजमानानां गातुं गमनं गमनादिव्यापारसामर्थ्यं
+> कृणवन् । अकुर्वन् ॥
+
+##### Gist of the bhāṣya
+
+इदमु (*idamu*): this light seen before us, त्यत् (*tyat*): that, to be praised by us, known to all, पुरुतमं (*purutamaṃ*): exceedingly abundant, the radiance ज्योतिः (*jyotiḥ*) is वयुनावत् (*vayunāvat*). The root *veti* has the sense of shining: so, possessed of excellent brilliance. Or else *vayunaṃ* is a name for knowledge: endowed with knowledge, that is, making everything known. What kind of radiance? In the east, पुरस्तात् (*purastāt*), out of the darkness it has stood up (अस्थात् (*asthāt*): उदतिष्ठत् (*udatiṣṭhat*)). This being so, truly (नूनं (*nūnaṃ*): सत्यं (*satyaṃ*)) the Dawns, दुहितरः (*duhitaraḥ*) of दिवः (*divaḥ*), that is, of the sun, standing in the place of daughters, shining forth, make for the sacrificers गातुं (*gātuṃ*), that is, going and the capacity for acts such as going; कृणवन् (*kṛṇavan*) means अकुर्वन् (*akurvan*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरस्तात् (*purastāt*)—in the eastern direction
+- तमसः (*tamasaḥ*)—from the midst of darkness
+- अस्थात् (*asthāt*)—that which has risen
+- इदमु (*idamu*)—that which is seen ahead
+- त्यत् (*tyat*)—that which is famed in the world
+- पुरुतमं (*purutamaṃ*)—exceedingly abundant
+- ज्योतिः (*jyotiḥ*)—(Uṣas's) radiance
+- वयुनावत् (*vayunāvat*)—(for the whole world) is the giver of vitality
+- नूनं (*nūnaṃ*)—certainly
+- दिवः (*divaḥ*)—of Āditya
+- दुहितरः (*duhitaraḥ*)—those who are in the form of daughters
+- विभातीः (*vibhātīḥ*)—radiant
+- उषसः (*uṣasaḥ*)—the Dawns
+- जनाय (*janāya*)—of the sacrificers
+- गंतुं (*gaṃtuṃ*)—the capacity for acts such as going
+- कृणवन् (*kṛṇavan*)—they produce
+
+##### भावार्थ (Bhāvārtha)
+
+The radiance of Uṣas, which has risen in the east out of the midst of darkness, which is seen ahead, famed in the world, exceedingly well known, is the giver of vitality to the whole world. May the Dawns, who are like daughters of Āditya and are radiant, surely bring about for the sacrificers the capacity for going and other activities.
+
+##### English translation (H. H. Wilson)
+This widely-spread and sense-bestowing light has sprung up in the ast from out of the darkness. verily the brilliant Dawns, the daughters of heaven, are giving to man (the faculty to act).
+
+### Printed p. 531
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्थु॑रु चि॒त्रा उ॒षसः॑ पु॒रस्ता॑न्मि॒ताइ॑व॒ स्वर॑वोऽध्व॒रेषु॑ ।  
+> व्यू॑ व्र॒जस्य॒ तम॑सो॒ द्वारॊ॒च्छंती॑रव्र॒ञ्चच॑यः पाव॒काः ॥२॥
+
+> *asthuru citrā uṣasaḥ purastānmitāiva svaravo 'dhvareṣu |*  
+> *vyū vrajasya tamaso dvāròcchaṃtīravrañcacayaḥ pāvakāḥ ‖2‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्थुः । ऊं इतिः । चित्राः । उषसः । पुरस्तात् । मिताः इव । स्वरवः । अध्वरेषु ।  
+> वि । ऊं इति । व्रजस्य । तमसः । द्वारा । उच्छंतीः । अव्रन् । शुचयः । पावकाः ॥ २ ॥
+
+> *asthuḥ | ūṃ itiḥ | citrāḥ | uṣasaḥ | purastāt | mitāḥ iva | svaravaḥ | adhvareṣu |*  
+> *vi | ūṃ iti | vrajasya | tamasaḥ | dvārā | ucchaṃtīḥ | avran | śucayaḥ | pāvakāḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चित्राश्चायनीया उषसः पुरस्तात्पूर्वस्यां दिश्यस्थुः । तिष्ठंति । व्याप्ता
+> इत्यर्थः । तत्र दृष्टांतः । अध्वरेषु मिताः खाताः स्वरवो यूपा इव । ते यथा
+> वेद्याः पुरतो भासंते तद्वत् । यद्यपि स्वरुशब्दो यूपच्छेदपतितप्रथमशकलवाची
+> यः प्रथमः शकलः परापतेत्स स्वरुः कार्य इत्युक्तत्वात् तथाप्यत्र मितशब्दश्रवणाच्चषालवंतः स्वरवः । ऋग्वे. ३-८-१० । इत्यादौ तथा दर्शनाच्चात्र यूपवचनः । ता
+> व्रजस्य वारकस्य तमसो द्वारा द्वाराणि व्युच्छंतीः शुचयो दीप्ताः पावकाः
+> शोधिका अव्रन् । व्यवृण्वन् ॥
+
+##### Gist of the bhāṣya
+
+The bright (*cāyanīyāḥ*) Dawns stand in the east, that is, they are spread over it. An illustration: like the स्वरवः (*svaravaḥ*), the sacrificial posts that are planted (मिताः (*mitāḥ*): खाताः (*khātāḥ*)) at sacrifices; as those shine in front of the altar, so do the Dawns. Although the word स्वरु (*svaru*) denotes the first chip fallen from the cutting of a post, since it is said यः प्रथमः शकलः परापतेत्स स्वरुः कार्य इत्युक्तत्वात् (*yaḥ prathamaḥ śakalaḥ parāpatetsa svaruḥ kārya ityuktatvāt*), yet here, because the word मित (*mita*) is heard, and because it is seen so in ऋग्वे. ३-८-१० (*ṛgve. 3-8-10*) **NOTE** and the like, it means the posts. Those Dawns, opening the gates of the darkness that obstructs (व्रजस्य (*vrajasya*): वारकस्य (*vārakasya*)), shining (शुचयः (*śucayaḥ*): दीप्ताः (*dīptāḥ*)) and purifying (पावकाः (*pāvakāḥ*): शोधिका (*śodhikā*)), have uncovered (अव्रन् (*avran*): व्यवृण्वन् (*vyavṛṇvan*)) it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरेषु (*adhvareṣu*)—in the sacrificial halls
+- मिताः (*mitāḥ*)—planted
+- स्वरव इव (*svarava iva*)—like sacrificial posts
+- चित्राः (*citrāḥ*)—having attractive limbs
+- उषसः (*uṣasaḥ*)—the Dawns
+- पुरस्तात् (*purastāt*)—in the eastern direction
+- अस्तुः (*astuḥ*)—have risen and spread
+- व्रजस्य (*vrajasya*)—having the nature of covering everything
+- तमसः (*tamasaḥ*)—of darkness
+- द्वारा (*dvārā*)—the doors
+- व्युच्छंतीः (*vyucchaṃtīḥ*)—opening
+- शुचयः (*śucayaḥ*)—shining
+- पावकाः (*pāvakāḥ*)—purifying
+- अव्रन् (*avran*)—have become manifest
+
+##### भावार्थ (Bhāvārtha)
+
+Like the sacrificial posts planted in the sacrificial halls, the Dawns, with attractive limbs, have risen in the east and spread. Opening the doors of the darkness whose nature is to cover everything, they have become manifest, shining and purifying.
+
+### Printed p. 532
+
+##### English translation (H. H. Wilson)
+The many-limbed Dawns rise up in the east, like the pillars planted at sacrifices (round the alter) ; radiant and purifying, they are manifested, opening the gates of the obstructing gloom.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒च्छंती॑र॒द्य चि॑तयंत भो॒जाना॑धो॒देया॑यो॒षसो॑  ॒॑
+> म॒घोनीः॑ ।
+
+> *ucchaṃtīradya citayaṃta bhojānādhodeyāyoṣaso*  
+> *maghonīḥ |*
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उच्छंतीः । अद्य । चितयंत । भोजान् । राधःदेयाय । उषसः । मघोनीः ।  
+> अचित्रे । अंतरिति । पणयः । ससंतु । अबुध्यमानाः । तमसः । विमध्ये ॥ ३ ॥
+
+> *ucchaṃtīḥ | adya | citayaṃta | bhojān | rādhaḥdeyāya | uṣasaḥ | maghonīḥ |*  
+> *acitre | aṃtariti | paṇayaḥ | sasaṃtu | abudhyamānāḥ | tamasaḥ | vimadhye ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्निन उच्छंतीस्तमो विवासयंत्यो मघोनीर्धनवत्य उषसो
+> भोजान् भोजयित्कृन्यजमानान् तेषां राधोदेयाय सोमादिधनदानाय
+> चितयंत । प्रज्ञापयंति । अचित्रेचायनीये तमसो विमध्ये । अत्यंतगाढांधकार इत्यर्थः । तत्र पणयो वणिज इवादातारोऽबुध्यमानाः ससंतु । स्वपंतु ॥
+
+##### Gist of the bhāṣya
+
+Today, at this sacrifice, the wealthy (मघोनीः (*maghonīḥ*): *dhanavatyaḥ*) Dawns, dispelling the darkness, awaken (चितयंत (*citayaṃta*): प्रज्ञापयंति (*prajñāpayaṃti*)) the भोजान् (*bhojān*), the sacrificers who feed (the gods), for राधोदेयाय (*rādhodeyāya*), that is, for giving wealth such as Soma. In the darkness that is अचित्रे (*acitre*) (not to be regarded), विमध्ये (*vimadhye*), that is, in very thick darkness, let the पणयः (*paṇayaḥ*), the non-givers who are like traders, ससंतु (*sasaṃtu*), that is, sleep, unawakened.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आद्य (*ādya*)—on this day of the sacrifice
+- उच्छंतीः (*ucchaṃtīḥ*)—those who destroy the black darkness
+- मघोनीः (*maghonīḥ*)—wealthy
+- उषसः (*uṣasaḥ*)—the Dawns
+- भोजान् (*bhojān*)—the sacrificers who offer food to the gods
+- राधोदेयाय (*rādhodeyāya*)—for offering wealth such as Soma
+- चितयंत (*citayaṃta*)—awaken
+- पणयः (*paṇayaḥ*)—the greedy, without knowledge of duty
+- अचित्रे (*acitre*)—abhorrent
+- तमसः (*tamasaḥ*)—of black darkness
+- विमध्यॆ (*vimadhyè*)—in the middle
+- अबुध्यमानाः (*abudhyamānāḥ*)—being bereft of consciousness
+- ससंतु (*sasaṃtu*)—let them lie sleeping in sloth
+
+### Printed p. 533
+
+##### भावार्थ (Bhāvārtha)
+
+The Dawns, who destroy the black darkness and are wealthy, awaken on this day of the sacrifice the sacrificers who offer food to the gods, so that they may offer Soma and other wealth. May the greedy, without knowledge of duty, lie sleeping in sloth, bereft of consciousness, in the middle of the abhorrent black darkness.
+
+##### English translation (H. H. Wilson)
+The gloom-dispelling, affluent Dawns animate the pious worshippers to offer (sacrificial) treasure : may the churlish (traffickers) sleep on unawakened, in the unlovely depth of darkness.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒वित्स दे॑वीः स॒नयो॒ नवो॑ वा॒ यामो॑ बभू॒यादु॑षसो  ॒
+> वो अद्य ।  
+> येना॒ नव॑ग्वे॒ अंगि॑रे॒ दश॑ग्वे स॒प्तास्ये॑ रेवती रे॒वदू॒ष ॥ ४ ॥
+
+> *kuvitsa devīḥ sanayo navo vā yāmo babhūyāduṣaso*  
+> *vo adya |*  
+> *yenā navagve aṃgire daśagve saptāsye revatī revadūṣa ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । सः । देवीः । सनयः । नवः । वा । यामः । बभूयात् । उषसः । वः । अद्य ।  
+> येन । नवग्वे । अंगिरे । दशग्वे । सप्तआस्ये । रेवतीः । रेवत् । ऊष ॥ ४ ॥
+
+> *kuvit | saḥ | devīḥ | sanayaḥ | navaḥ | vā | yāmaḥ | babhūyāt | uṣasaḥ | vaḥ | adya |*  
+> *yena | navagve | aṃgire | daśagve | saptaāsye | revatīḥ | revat | ūṣa ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवीर्द्योतमाना उषसो वो युष्मान् सनयः पुराणो नवो वा
+> यामो गमनसाधनः स रथोऽद्यास्मिन्यागदिने कुविद्बहुवारं बभूयात् । भवेत् ।
+> गच्छेदित्यर्थः । येन रथेन हे रेवतीर्धनवत्यो यूयं नवग्वे दशग्वे सप्तास्ये
+> सप्तच्छंदोयुक्तमुखेऽंगिरेऽंगिरोगणे । तौ द्वौ तत्र येऽप्यंगिरसस्तेषां
+> गणे । तथान्यत्र नवग्वो नु दशग्वो अंगिरस्तमः । ऋग्वे. १०-६२-६ । इति ।
+> रेवद्धनवद्यथा भवति तथोष । विभातं कृतवत्यः ॥ वसेव्युच्चनकर्मणो लिण्मध्यमबहुवचनस्येदं रूपं ॥
+
+##### Gist of the bhāṣya
+
+O divine, shining Dawns, may your यामः (*yāmaḥ*) (गमनसाधनः (*gamanasādhanaḥ*), the means of going), the chariot, whether सनयः (*sanayaḥ*) (old, *purāṇaḥ*) or new, come, that is, go, कुवित् (*kuvit*) (many times) today, on this day of the sacrifice. That chariot by which you, O wealthy Dawns (रेवतीः (*revatīḥ*): *dhanavatyaḥ*), among the नवग्वे (*navagve*), the दशग्वे (*daśagve*), the सप्तास्ये (*saptāsye*) (those whose mouths are joined with the seven metres), in the अंगिरे (*aṃgire*), the troop of the Aṅgirases: these two (Navagvas and Daśagvas) are among those who are Aṅgirases, in their troop. So elsewhere: नवग्वो नु दशग्वो अंगिरस्तमः (*navagvo nu daśagvo aṃgirastamaḥ*) (ऋग्वे. १०-६२-६ (*ṛgve. 10-62-6*) **NOTE**). रेवत् (*revat*) is "as it may be wealthy"; ऊष (*ūṣa*) means "you have made radiance"; this is the form of the root वसे (*vase*) in the sense of dawning, liṭ, second person plural.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवी (*devī*)—of shining nature
+- उषा (*uṣā*)—O Dawns
+- योत (*yota*)—by which, having come
+- रेवति (*revati*)—you who are wealthy
+- तवग्ने (*tavagne*)—famed under the name Navagva
+- देव्गॆ (*devgè*)—famed under the name Daśagva
+- सॆत्ताग्ने (*sèttāgne*)—those with mouths in the form of the seven metres
+- अंगिरे (*aṃgire*)—in the troop of the Aṅgirases
+- रीवत् (*rīvat*)—so as to be possessed of wealth
+- ऊष (*ūṣa*)—you make radiance
+- सॆतॆयु (*sètèyu*)—be it ancient
+- तवो वा (*tavo vā*)—or new
+- यादु (*yādu*)—which is a means of going
+- से (*se*)—that chariot
+- अद्यॆ (*adyè*)—on this day of the sacrifice
+- कुवित् (*kuvit*)—many times
+- प (*pa*)—bringing you here
+- बभूयात् (*babhūyāt*)—may come to you
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Dawns, by whatever chariot you, who are wealthy, come and shine, so as to be rich in wealth, in the troop of the Aṅgirases, who are famed under the name Navagva, famed under the name Daśagva, and have mouths in the form of the seven metres: may such a chariot, to bring you here on this day of the sacrifice, whether ancient or new, come to you many times. **NOTE**
+
+##### English translation (H. H. Wilson)
+Divine Dawns, may your chariot, whether old or new, be frequent at this day's (worship), wherewith affluent Dawns, possessing riches, (you shine) upon the seven-mouthed (troop of the) Angirasas, the observers of the nine or ten days' rite.
+
+##### विशेषविषयगळु (Special Topics)
+
+Navagva, Daśagva—नवभिर्मासैर्गच्छंतीति नवग्वा । दशभिर्मासैर्गच्छंतीति दशग्वाः । अंगिरसां सत्रमासीनानां मध्ये ये नवभिर्मासैरवाप्तफला उत्तितास्तेषां नवग्वा इति संज्ञा । दशभिर्मासैर्दशग्वा इति च ॥ (*navabhirmāsairgacchaṃtīti navagvā | daśabhirmāsairgacchaṃtīti daśagvāḥ | aṃgirasāṃ satramāsīnānāṃ madhye ye navabhirmāsairavāptaphalā uttitāsteṣāṃ navagvā iti saṃjñā | daśabhirmāsairdaśagvā iti ca ‖*). Among the Aṅgirases who sat at a sattra, those who rose having attained the fruit in nine months have the name Navagva, and those who did so in ten months are Daśagvas. In the family of the sage Aṅgiras, some, in the year-long sattra sacrifice, obtained success through performing the sacrifice in nine months only. It is the custom to call them अंगिरस्तमा नवग्वाः (*aṃgirastamā navagvāḥ*), the foremost among the descendants of the sage Aṅgiras, who attained their desired success in just nine months, and to call those descendants of the sage Aṅgiras who attained their desired success in ten months दशग्वाः (*daśagvāḥ*). In this matter the Western scholars, when explaining the meaning of this word, say:
+
+The term Navagva is applied to a man generally an Angiras, in the highest degree (Angirastama) who appears as a mystic race of olden times coupled with, and conceived probably as related to the Angir-
+
 ---
 
-**Progress note:** Done through printed p. 527. pp. 521-527 (batch API)
+**Progress note:** Done through printed p. 533. pp. 528-533 (batch API)
