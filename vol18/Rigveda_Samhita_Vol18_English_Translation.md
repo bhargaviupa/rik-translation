@@ -7018,6 +7018,343 @@ Through that friendship, Soma, which has united you with your (friend) Indra, he
 > *tvā | yujā | ni | khidat | sūryasya | iṃdraḥ | cakraṃ | sahasā | sadyaḥ | iṃdo iti |*  
 > *adhi | snunā | bṛhatā | vartamānaṃ | mahaḥ | druhaḥ | apa | viśvaāyu | dhāyi ‖ 2 ‖*
 
+### Printed p. 204
+
+> हे इंदो सोम इंद्रः सद्यः सपदि त्वा त्वया युजा सहायेन सूर्यस्य
+> प्रेरकस्य सवितुः संबंधिनः पूर्वं द्विचक्रस्य रथस्यैकं चक्रं सहसाभिभावुकेन बलेन
+> नि खिदत् । आच्चिनत् । कीदृशं । अधि उपरि स्नुना स्थितेन बृहता महतांतरिक्षेण
+> वर्तमानं । किंच महो महतः प्रभूतस्य द्रुहो द्रोग्धुः सूर्यस्य संबंधि
+> विश्वायु सर्वतो गंतृ चक्रमप धायि । इंद्रेणापाहारि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa construes the verse as follows. "O Indu, O Soma, Indra, at once (सद्यः (*sadyaḥ*) = immediately), with you as his ally (युजा (*yujā*) = सहायेन (*sahāyena*)), cut off with force (सहसा (*sahasā*) = with overpowering strength) one wheel of the two-wheeled chariot belonging to Sūrya, the Impeller, that is, Savitṛ." Of what kind was the wheel? It was situated above (अधि (*adhi*) = above), on the vast (बृहता (*bṛhatā*) = great) firmament that stands there (स्नुना (*snunā*) = स्थितेन (*sthitena*)). Further, the all-going wheel (विश्वायु (*viśvāyu*) = going everywhere) belonging to the great, mighty (महः (*mahaḥ*)) harmer (द्रुहः (*druhaḥ*)), Sūrya, "was taken away" (अप धायि (*apa dhāyi*) = इंद्रेणापाहारि (*iṃdreṇāpāhāri*), was carried off by Indra).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- इंद्रः (*iṃdraḥ*)—Indra
+- सद्यः (*sadyaḥ*)—at once
+- त्वा (*tvā*)—your
+- युजा (*yujā*)—with the help
+- सूर्यस्य (*sūryasya*)—of Sūrya
+- अधि स्नु ना (*adhi snu nā*)—situated in a very elevated region
+- बृहता (*bṛhatā*)—and of great extent, in the firmament
+- वर्तमानं (*vartamānaṃ*)—that is
+- चक्रं (*cakraṃ*)—the wheel of the sun's chariot
+- सहसा (*sahasā*)—by force
+- नि खिदत् (*ni khidat*)—tore away
+- महः (*mahaḥ*)—great
+- द्रुहः (*druhaḥ*)—belonging to Sūrya, and
+- विश्वायु (*viśvāyu*)—moving everywhere, that wheel
+- अप धायि (*apa dhāyi*)—was carried off
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, with your help alone Indra tore away by force the wheel of Sūrya's chariot, which stands in the very elevated and vast firmament. That wheel, belonging to Sūrya and moving everywhere, was carried off.
+
+##### English translation (H. H. Wilson)
+With you, Soma, for his ally, Indra has quickly taken off by force
+the wheel of the chariot of the sun, abiding above with the vast and
+stationary (firmament): the everywhere-going wheel (of the car) of the
+great oppressor has been taken away.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk says that Indra, with the help of the deity Soma, forcibly carried off the wheel of Sūrya's chariot that stood in the firmament. In the Ṛk
+यत्रोत बाधितेभ्यश्चक्रं कुत्साय युध्यते । मुषाय इंद्र सूर्यं ॥ (*yatrota bādhitebhyaścakraṃ kutsāya yudhyate | muṣāya iṃdra sūryaṃ ‖*)
+(Ṛ. Saṃ. 4-30-4)
+
+### Printed p. 205
+it is said that Indra, with the aim of helping the royal sage Kutsa, who was fighting the Asuras and was being harmed by them, carried off the wheel of Sūrya's chariot and so helped Kutsa in the battle. There is a story about how Indra used the wheel of Sūrya's chariot and conquered the enemy:
+केचन असुराः इंद्रस्य वज्रायुधेन अस्माकं वधो मा भूदिति ब्रह्मणा वरं लब्धा इंद्रमगणय्य उद्वृत्ताः स्थिताः । तान् हंतुमिंद्रः सूर्यरथस्य चक्रं आदाय अवधीत् । (*kecana asurāḥ iṃdrasya vajrāyudhena asmākaṃ vadho mā bhūditi brahmaṇā varaṃ labdhā iṃdramagaṇayya udvṛttāḥ sthitāḥ | tān haṃtumiṃdraḥ sūryarathasya cakraṃ ādāya avadhīt |*)
+Some Asuras had obtained a boon from Brahmā that Indra's thunderbolt should not bring them the fear of death. They disregarded Indra and went on behaving wickedly. Then Indra made the wheel of Sūrya's chariot itself his weapon and destroyed them all. This is the tradition, and it is what this Ṛk describes.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अह॒न्नि ०द्रो॒ अद॑हद॒ग्निरिं॑दो पु॒रा दस्यू॑न्म॒ध्यंदि॑नाद॒भीके॑ ।  
+> दु॒गेर् दु॑रो॒णे क्रत्वा॒ न या॒तां पु॒रू स॒हस्रा॒ शर्वा॒ नि  ॑
+> बर्हित् ॥ ३ ॥
+
+> *ahanni 0dro adahadagniriṃdo purā dasyūnmadhyaṃdinādabhīke |*  
+> *duger duroṇe kratvā na yātāṃ purū sahasrā śarvā ni*  
+> *barhit ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहन् । इंद्रः । अदहत् । अग्निः । इंदो इति । पुरा । दस्यून् । मध्यंदिनात् ।  
+> अभीके ।  
+> दुःगे । दुरोणे । क्रत्वा । न । यातां । पुरु । सहस्रा । शर्वा । नि । बर्हीत् ॥ ३ ॥
+
+> *ahan | iṃdraḥ | adahat | agniḥ | iṃdo iti | purā | dasyūn | madhyaṃdināt |*  
+> *abhīke |*  
+> *duḥge | duroṇe | kratvā | na | yātāṃ | puru | sahasrā | śarvā | ni | barhīt ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अभीके संग्रामे दस्यून् शत्रुनिंद्रोऽहन् । अवधीत् ।
+> अग्निः कांश्चिच्छत्रूनदहत् । ददाह । कीदृशाविंद्राग्नी । मध्यंदिनान्मध्याह्नात्पुरा
+> पुरस्तात्पूर्वाण्ही तव पानाल्लब्धबलाविति शेषः । यातां गच्छतामसुराणां पुरु
+> पुरूणि बहूनि सर्वा सर्वाणि निरवशेषाणि सहस्रा सहस्राण्यपरिमितानि नि बर्हित् ।
+
+##### Gist of the bhāṣya
+
+"O Indu, O Soma, in the battle (अभीके (*abhīke*) = संग्रामे (*saṃgrāme*)) Indra slew the Dasyus, the enemies. Agni burned some of the enemies." Of what kind are Indra and Agni? They are those who before (पुरा (*purā*) = पुरस्तात् (*purastāt*)) midday (मध्यंदिनात् (*madhyaṃdināt*) = मध्याह्नात् (*madhyāhnāt*)) had obtained strength from drinking you. Sāyaṇa takes this last clause as to be supplied (शेषः (*śeṣaḥ*)). Of the Asuras who go about (यातां (*yātāṃ*) = *gacchatāṃ*) the many (पुरु (*puru*) = पुरूणि (*purūṇi*), बहूनि (*bahūni*)), all (सर्वा (*sarvā*) = सर्वाणि (*sarvāṇi*), without remainder) thousands (सहस्रा (*sahasrā*) = सहस्रा (*sahasrā*), countless) नि बर्हित् (*ni barhit*)—
+
+### Printed p. 206
+
+> व्यबर्हित् । इंद्रोऽवधीत् । तत्र दृष्टांतः । दुरोणे दुरवने रक्षितुमशक्ये
+> दुर्गे दुरमगाहे देशे क्रत्वा न कर्मणा स्वकीयं कार्यमुद्दिश्य गच्छतः पथिकान्यथा धनलोलुपश्चोरो हंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+नि बर्हित् (*ni barhit*) is व्यबर्हित् (*vyabarhit*): Indra slew them. Here is an illustration. In a दुरोणे (*duroṇe*), that is, a place hard to guard (दुरवने (*duravane*)), an impassable (दुरमगाहे (*duramagāhe*)) difficult place, क्रत्वा न (*kratvā na*) means "by action": as a thief greedy for wealth kills travellers who are going about their own business, so Indra slew them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- मध्यंदिनात् (*madhyaṃdināt*)—before midday time
+- पुरा (*purā*)—earlier (having drunk you)
+- इंद्रः (*iṃdraḥ*)—Indra
+- अभीके (*abhīke*)—in battle
+- दस्यून् (*dasyūn*)—the enemies
+- अहन् (*ahan*)—killed
+- अग्निः (*agniḥ*)—Agni also (in the same way)
+- अदहत् (*adahat*)—burned and destroyed
+- दुरोणे (*duroṇe*)—in a place that cannot be guarded, and
+- दुर्गॆ (*durgè*)—from which escape is impossible, a fastness
+- क्रत्वा न (*kratvā na*)—as robbers strike and harm travellers who are going about their own business
+- यातां (*yātāṃ*)—of the Asuras who go about
+- पुरु सहस्रा (*puru sahasrā*)—the enemies numbering many thousands
+- शर्वा (*śarvā*)—without remainder
+- नि बर्हित् (*ni barhit*)—Indra destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, Indra, who had drunk you before midday, killed the enemies in battle. Agni too, with your help alone, destroyed all the enemies. As robbers strike and harm travellers going about their own business in a dense fastness that cannot be guarded and from which one cannot escape, so Indra destroyed without remainder the thousands of Asuras who went about there.
+
+##### English translation (H. H. Wilson)
+Indra has slain the Dasyus, Soma, in battle: Agni has consumed
+them before the noon: he (Indra) has destroyed the whole of many
+thousands, as (robbers are the destroyers of those) going upon (their own)
+business, in a difficult and dangerous (place).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑स्मात्सीमध॒मा इं॑द्र॒ दस्यू॒न्विशो॒ दासी॑रकृणोरप्रश॒स्ताः ।  
+> अबा॑धेथा॒ममृ॑णतं॒ नि शत्रु॒नविं॑देथा॒मप॑चितिं॒ वध॑त्रैः ॥४॥
+
+> *viśvasmātsīmadhamā iṃdra dasyūnviśo dāsīrakṛṇorapraśastāḥ |*  
+> *abādhethāmamṛṇataṃ ni śatrunaviṃdethāmapacitiṃ vadhatraiḥ ‖4‖*
+
+### Printed p. 207
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वस्मात् । सीं । अधमान् । इंद्र । दस्यून् । विशः । दासीः । अकृणोः । अप्रशस्त्राः ।  
+> अबाधेथां । अमृणतं । नि । शत्रून् । अविंदेथां । अपचितिं । वधत्रैः ॥ ४ ॥
+
+> *viśvasmāt | sīṃ | adhamān | iṃdra | dasyūn | viśaḥ | dāsīḥ | akṛṇoḥ | apraśastrāḥ |*  
+> *abādhethāṃ | amṛṇataṃ | ni | śatrūn | aviṃdethāṃ | apacitiṃ | vadhatraiḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं । सीमेनान्द स्यून्विश्वस्मात्सर्वस्माद्गुणादधमान् हीनानकृणोः ।
+> अकरोः। किंच दासीः कर्महीना विशो मानुषीः प्रजा अप्रशस्ता गर्हिता अकृणोः।
+> हे इंद्रासोम्ौ युवां शत्रूनबाधेथां । न्यमृणतं । नितरां हिंसितवंतौ। अपि च
+> वधत्रैस्तेषां शत्रूणां प्रहारैरपचितिं पूजां जनेभ्योऽविंदेथां । अलभेथां ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you made (अकृणोः (*akṛṇoḥ*) = अकरोः (*akaroḥ*)) these (सीं (*sīṃ*) = *enān*) Dasyus lowly (अधमान् (*adhamān*) = *hīnān*) in respect of every (विश्वस्मात् (*viśvasmāt*) = *sarvasmāt*) good quality. Further, you made the servile (दासीः (*dāsīḥ*) = कर्महीना (*karmahīnā*), lacking rites) human peoples (विशः (*viśaḥ*) = मानुषीः प्रजा (*mānuṣīḥ prajā*)) अप्रशस्ताः (*apraśastāḥ*), that is, despised (गर्हिता (*garhitā*))." Then Sāyaṇa turns to the dual: "O Indra and Soma, you two repelled (अबाधेथां (*abādhethāṃ*)) the enemies; न्यमृणतं (*nyamṛṇataṃ*) means that you struck them down utterly. And by the blows (वधत्रैः (*vadhatraiḥ*)) of those enemies you obtained (अविंदेथां (*aviṃdethāṃ*) = अलभेथां (*alabhethāṃ*)) honour (अपचितिं (*apacitiṃ*) = पूजां (*pūjāṃ*)) from the people."
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सीं दस्यून् (*sīṃ dasyūn*)—these enemies (Dasyus)
+- विश्वस्मात् (*viśvasmāt*)—from all good qualities
+- अधमान् (*adhamān*)—as fallen
+- अकृणोः (*akṛṇoḥ*)—you made
+- दासीः (*dāsīḥ*)—devoid of rites
+- विशः (*viśaḥ*)—human peoples
+- अप्रशस्ताः (*apraśastāḥ*)—you made them fit for blame (O Indra and Soma)
+- शत्रून् (*śatrūn*)—the enemies
+- अबाधेथाः (*abādhethāḥ*)—harm
+- नि अमृणतं (*ni amṛṇataṃ*)—destroy completely
+- वधत्त्रैः (*vadhattraiḥ*)—through the destruction of the enemies (of the people who are benefited)
+- अपचितिं (*apacitiṃ*)—the worship offered in gratitude
+- अविंदेथां (*aviṃdethāṃ*)—receive
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you made these Dasyus fall from all good qualities. You made the human peoples who lacked rites fit for blame. O Indra and Soma, harm the enemies completely and destroy them. Accept the grateful worship of the people who have been benefited by the destruction of the enemies.
+
+##### English translation (H. H. Wilson)
+Indra, you have made these Dasyus devoid of all (good qualities);
+you have made the servile races abject : may you, (Soma and Indra), repel
+(and) destroy (your) enemies: accept (our) homage for their destruction.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा स॒त्यं म॑घवाना यु॒वं तदिंद्र॑श्च सोमो॒र्वमश्वं॒  
+> गोः ।  
+> आद॑र्द्यत॒मसि॑हिता॒न्यश्ना॑ रिरि॒चथुः॒ क्वाश्चि॑त्ततृदा॒ना ॥ ५ ॥
+
+> *evā satyaṃ maghavānā yuvaṃ tadiṃdraśca somorvamaśvaṃ*  
+> *goḥ |*  
+> *ādardyatamasihitānyaśnā riricathuḥ kvāścittatṛdānā ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । सत्यं । मघवाना । युवं । तत् । इंद्रः । चॆ । सोम । ऊर्वं । अश्वं ।  
+> गोः ।  
+> आ । अदर्दृतं । अपिहितानि । अश्ना । रिरिचथुः । क्षाः । चित् । ततृदाना ॥ ५ ॥
+
+> *eva | satyaṃ | maghavānā | yuvaṃ | tat | iṃdraḥ | cè | soma | ūrvaṃ | aśvaṃ |*  
+> *goḥ |*  
+> *ā | adardṛtaṃ | apihitāni | aśnā | riricathuḥ | kṣāḥ | cit | tatṛdānā ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं चेंद्रश्चेति युवामुभावूर्वं महांतमश्वमश्वसमूहं
+> गोर्गनां समूहं चादर्दृतं । आदरयतं । अपिहितानि पणिभिराच्छादितानि गवां
+> वृंदानि क्षाश्चित् पणीनां भूमिश्चाश्नाशनपरेण बलेन रिरिचथुः । रेचितवंतौ । हे
+> मघवानौ धनवंताविंद्रासोमौ ततृदाना शत्रोणां हिंसकौ युवं युवामेवैवमुक्तप्रकारेण यत्कृतवंतौ तत्सर्वं सत्यमेव ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, you and Indra, both of you, tore open (आदर्दृतं (*ādardṛtaṃ*) = आदरयतं (*ādarayataṃ*)) the great (ऊर्वं (*ūrvaṃ*) = *mahāṃtaṃ*) herd of horses and the herd of cows (गोः (*goḥ*) = *gavāṃ samūhaṃ*). The herds of cows that had been covered (अपिहितानि (*apihitāni*) = पणिभिराच्छादितानि (*paṇibhirācchāditāni*), concealed by the Paṇis) and the land (क्षाः (*kṣāḥ*)) of the Paṇis you cleared (रिरिचथुः (*riricathuḥ*) = रेचितवंतौ (*recitavaṃtau*)) with the force (अश्ना (*aśnā*) = *aśanapareṇa balena*) that you brought to bear. O wealthy (मघवानौ (*maghavānau*) = *dhanavaṃtau*) Indra and Soma, destroyers (ततृदाना (*tatṛdānā*) = हिंसकौ (*hiṃsakau*)) of enemies, all that you two have done in the manner stated is indeed true (सत्यं (*satyaṃ*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवाना (*maghavānā*)—wealthy
+- ततृदाना (*tatṛdānā*)—destroyers of enemies
+- सोम इंद्रश्च (*soma iṃdraśca*)—O Soma and Indra
+- युवं (*yuvaṃ*)—you both
+- अपिहितानि (*apihitāni*)—hidden away by the Paṇis, and
+- ऊर्वं (*ūrvaṃ*)—great
+- अश्वं (*aśvaṃ*)—the herds of horses
+- गोः (*goḥ*)—the herds of cows
+- आदर्दृतं (*ādardṛtaṃ*)—that you released and distributed
+- क्षाश्च (*kṣāśca*)—and also the lands of the Paṇis
+- अश्ना (*aśnā*)—by your strength
+- रिरिचथुः (*riricathuḥ*)—that you freed and brought under your control
+- एव तत् (*eva tat*)—all this
+- सत्यं (*satyaṃ*)—is indeed true
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma and Indra, wealthy and destroyers of enemies, it is true that you both released and distributed the great herds of horses and the herds of cows hidden away by the Paṇis, and that you freed the lands of the Paṇis by your strength and brought them under your control. There is no exaggeration in this.
+
+### Printed p. 209
+
+##### English translation (H. H. Wilson)
+Possessors of wealth, destroyers of foes, Indra and Soma, it is indeed true that you have distributed great numbers of horses, and of the cattle which has been concealed, and the land which you had recovered by your strength.
+
+## Sūkta 29 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ नः स्तुत इति पंचर्चमष्टमं सूक्तं वामदेवस्यार્ષं त्रैष्टुभमैंद्रं ।
+> आ नः स्तुत इत्यनुक्रमणिका । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ नः स्तुत (*ā naḥ stuta*), of five Ṛks, is the eighth sūkta. Its seer is Vāmadeva, its deity is Indra, and its metre is Triṣṭubh. The Anukramaṇikā says आ नः स्तुत (*ā naḥ stuta*). The viniyoga (ritual use) is लैंगिकः (*laiṃgikaḥ*), that is, by indication.
+
+##### Anuvāda
+
+This sūkta, beginning आ नः स्तुतः (*ā naḥ stutaḥ*), is the eighth sūkta in the third Anuvāka. It has five Ṛks. Its seer is Vāmadeva; its deity is Indra; its metre is Triṣṭubh. In the Anukramaṇikā it is said to begin with आ नः स्तुतः (*ā naḥ stutaḥ*). The viniyoga is by indication.
+
+##### Particulars
+
+- Sūkta: 29
+- Maṇḍala: 4; Anuvāka: 3; Sūkta: 29
+- Aṣṭaka: 3; Adhyāya: 6; Varga: 18
+- Number of Ṛks in the sūkta: 5
+- Seer: Vāmadeva
+- Deity: Indra
+- Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ स्तु॒त उप॒ वाजे॑भिरू॒ती इंद्र॑ या॒हि हरि॑भिर्मंदसा॒नः ।  
+> ति॒रश्चि॑द॒र्यः सव॑ना पु॒रुण्यां॑गू॒षेभि॑ग्र्णा॒नः स॒त्यरा॑धाः ॥ १ ॥
+
+> *ā naḥ stuta upa vājebhirūtī iṃdra yāhi haribhirmaṃdasānaḥ |*  
+> *tiraścidaryaḥ savanā puruṇyāṃgūṣebhigrṇānaḥ satyarādhāḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । स्तुतः । उप । वाजेभिः । ऊती । इंद्र । याहि । हरिभिः । मंदसानः ।  
+> तिरः । चित् । अर्यः । सवना । पुरूणि । आंगूषेभिः । गृणानः । सत्यराधाः ॥ १ ॥
+
+> *ā | naḥ | stutaḥ | upa | vājebhiḥ | ūtī | iṃdra | yāhi | haribhiḥ | maṃdasānaḥ |*  
+> *tiraḥ | cit | aryaḥ | savanā | purūṇi | āṃgūṣebhiḥ | gṛṇānaḥ | satyarādhāḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 210
+
+> हे इंद्र स्तुतस्त्वं वाजेभिर्वाजैरन्नैः सह तिरश्चित् प्राप्तानि । तिरः सत इति
+> प्राप्तस्य । नि. ३-२० । इति यास्कः । पुरूणि पूर्णानि सवना सवनानि नोऽस्मदीयान्यज्ञानुप प्रत्यूती ऊत्यै नोऽस्माकं रक्षणार्थं हरिभिरश्चैरा याहि । आगच्छ ।
+> कीदृशः । मंदसानो मोदमानोऽर्यः स्वाम्यांगूषेभिः स्तोत्रैर्गृणानः
+> स्तूयमानः सत्यराधाः सत्यधनः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, praised, you come (आ याहि (*ā yāhi*) = आगच्छ (*āgaccha*)) with your horses (हरिभिः (*haribhiḥ*) = *aśvaiḥ*) for our protection (ऊती (*ūtī*) = ऊत्यै (*ūtyai*)), to our sacrifices (सवना (*savanā*) = सवनानि (*savanāni*); नः (*naḥ*) = *asmadīyān yajñān*)." Those sacrifices are described with वाजेभिः (*vājebhiḥ*) (*annaiḥ saha*, together with food) and तिरश्चित् (*tiraścit*) (प्राप्तानि (*prāptāni*), arrived), on which Sāyaṇa quotes तिरः सत इति प्राप्तस्य (*tiraḥ sata iti prāptasya*) (Ni. 3-20), "so says Yāska". पुरूणि (*purūṇi*) is पूर्णानि (*pūrṇāni*). Of what kind is Indra? He is मंदसानः (*maṃdasānaḥ*), that is, rejoicing (*modamānaḥ*); अर्यः (*aryaḥ*), the lord (*svāmī*); गृणानः (*gṛṇānaḥ*), one who is praised (स्तूयमानः (*stūyamānaḥ*)) with आंगूषेभिः (*āṃgūṣebhiḥ*), hymns of praise; and सत्यराधाः (*satyarādhāḥ*), one whose wealth is true (सत्यधनः (*satyadhanaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मंदसानः (*maṃdasānaḥ*)—you who are delighted
+- अर्यः (*aryaḥ*)—the lord
+- आंगूषेभिः (*āṃgūṣebhiḥ*)—with hymns of praise
+- गृणानः (*gṛṇānaḥ*)—who are praised
+- सत्यराधाः (*satyarādhāḥ*)—who have wealth of the nature of truth
+- स्तुतः (*stutaḥ*)—and praised by the praisers, you
+- वाजेभिः (*vājebhiḥ*)—with food
+- तिरश्चित् (*tiraścit*)—that have arrived
+- पुरूणि (*purūṇi*)—and are numerous
+- नः (*naḥ*)—our
+- सवना उप (*savanā upa*)—towards the sacrifices
+- ऊती (*ūtī*)—for our protection
+- हरिभिः (*haribhiḥ*)—with horses
+- आ याहि (*ā yāhi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, delighted by drinking Soma, lord of all, praised with hymns, possessor of wealth of the nature of truth, praised by the praisers, be pleased to come with your horses, for our protection, to our numerous sacrifices that have arrived with their food.
+
+##### English translation (H. H. Wilson)
+Honoured with accepted (sacrificial) viands, come, Indra, exulting,
+with your steeds, to our many rites for our protection; you who are the
+lord, glorified by hymns, whose wealth is truth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ हि स्मा॒ याति॒ नर्य॑श्चिकि॒त्वान्नू॒यमा॑नः सो॒तृभि॒रुप॑  ॒
+> यज्ञं ।  
+> स्वश्वो॒ यो अभी॑रु॒र्मन्य॑मानः सुष्वा॒णेभि॒र्मद॑ति॒ सं ह॑  ॒
+> वीरैः ॥ २ ॥
+
+> *ā hi smā yāti naryaścikitvānnūyamānaḥ sotṛbhirupa*  
+> *yajñaṃ |*  
+> *svaśvo yo abhīrurmanyamānaḥ suṣvāṇebhirmadati saṃ ha*  
+> *vīraiḥ ‖ 2 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 203. pp. 198-203 (batch API)
+**Progress note:** Done through printed p. 210. pp. 204-210 (batch API)
