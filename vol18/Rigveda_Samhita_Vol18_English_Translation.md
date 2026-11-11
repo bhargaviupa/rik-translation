@@ -22729,6 +22729,287 @@ O Savitṛ, to us, who every day, at the times of the three savanas, press for y
 ##### English translation (H. H. Wilson)
 May Indra, heaven and earth, Sindhu with the waters, and Aditi with the Adityas, bestow happiness upon us, who, offering libations, Savitri, pour out the auspicious Soma, day by day, thrice a day.
 
+### Printed p. 579
+## Sūkta 55 (Maṇḍala 4)
+
+> को वस्त्रातेति दशर्चं दशमं सूक्तं नामदेवस्यार्षं विश्वदेवदेवताकं ।
+> अष्टम्याद्यास्तिस्रो गायत्र्यः शिष्टा अनादेशपरिभाषया त्रिष्टुभः । तथा चानुक्र
+> म्यते । को वो दश वैश्वदेवं त्रिगायत्र्यंतं त्विति । विनियोगो लैंगिकः ॥
+> अनुवादवु—को वस्त्रात्ता ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु
+> इदरल्लि हत्तु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु; विश्वेदेवतॆगळु देवतॆयु;
+> ई सूक्तद ८, ९, १० नॆय ऋक्कुगळु गायत्रीछंदस्कवु. उळिद ऋक्कुगळु त्रिष्टुप्‌छंदस्कवु.
+> अनुक्रमणिकॆयल्लि—को वा दश वैश्वदेवं त्रिगायत्र्यंत्रं तु ऎंदु हेळिरुवुदु.
+> विनियोगवु लैंगिकवु.
+> सूक्त—५५
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५५ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—६, ७ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—१० ॥
+> ॥ ऋषिः—वामदेवः ॥
+> ॥ देवता—विश्वदेवाः ॥
+> ॥ छंदः—१-७, त्रिष्टुप् । ८-१०. गायत्री ॥
+
+##### Gist of the bhāṣya
+
+The sūkta को वस्त्राता (*ko vastrātā*) is of ten Ṛks, the tenth sūkta of the fifth anuvāka. Its seer is Vāmadeva and its deity the Viśvedevas. The first three verses counted from the eighth (8–10) are Gāyatrī; the rest are Triṣṭubh by the rule of non-specification. The Anukramaṇī says: को वो दश वैश्वदेवं त्रिगायत्र्यंतं त्विति (*ko vo daśa vaiśvadevaṃ trigāyatryaṃtaṃ tviti*). The use in ritual is by indication (laiṅgika). The Kannada adds the particulars: Sūkta 55; Maṇḍala 4, Anuvāka 5; Aṣṭaka 3, Adhyāya 8, Vargas 6, 7; ten Ṛks; seer Vāmadeva; deity Viśvedevas; metre: 1–7 Triṣṭubh, 8–10 Gāyatrī. **NOTE**
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को व॑स्त्रा॒ता व॑सवः॒ को व॑रू॒ता द्यावा॑भूमिा अदिते॒ त्रासी॑थां नः ।  
+> सही॑यसो वरुण मित्र॒ मर्ता॒त्क्यो वो॑ऽध्व॒रे वरि॑वो धाति  
+> देवाः ॥ १ ॥
+
+> *ko vastrātā vasavaḥ ko varūtā dyāvābhūmiā adite trāsīthāṃ naḥ |*  
+> *sahīyaso varuṇa mitra martātkyo vo 'dhvare varivo dhāti*  
+> *devāḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । वः । त्राता । वसवः । कः । वरूता । द्यावाभूमिा इति । अदिते । त्रासीथां । नः ।  
+> सहीयसः । वरुण । मित्र । मर्तात् । कः । वः । अध्वरे । वरिवः । धाति । देवाः ॥ १ ॥
+
+> *kaḥ | vaḥ | trātā | vasavaḥ | kaḥ | varūtā | dyāvābhūmiā iti | adite | trāsīthāṃ | naḥ |*  
+> *sahīyasaḥ | varuṇa | mitra | martāt | kaḥ | vaḥ | adhvare | varivaḥ | dhāti | devāḥ ‖ 1 ‖*
+
+### Printed p. 580
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसवः सर्वस्य वासयितारो देवा वो युष्मान् कस्त्रातास्ति । यतो
+> यूयं वसवोऽत इत्यभिप्रायः । कश्च वरूता संभक्तास्ति । यद्वा । वो युष्माकं
+> मध्यॆ कस्त्राता रक्षको देवः कश्च वरूता वारयिता दुःखानां वरणीयो वा
+> भवति । हे द्यानाभूमी नोऽस्मान् त्रासीथां । रक्षतं । हे अदिते अखंडनीये ।
+> एतदपि द्यानाभूम्योर्विशेषणं । संख्याव्यत्ययः । यदिदं पृथग्देवतामंत्रणं
+> स्यात् तर्हि निघातो न स्यात् । आमंत्रितं पूर्वमविद्यमानवदिति पूर्वस्याविद्यमानवत्वेनास्यैव पादादित्वात् । आदिते मित्र वरुणोत मृळ । ऋग्वे. २-२७-१४ ।
+> इति आदित्या रुद्रा वसवः सुदानवः । ऋग्वे. १०-६६-१२ । इतिवत् । तस्यैव विशेषणत्वे
+> समानाधिकरण इति सामानाधिकरण्यात् अग्ने पावक रोचिषा । ऋग्वे. ५-२६-१ ।
+> इतिवत् । अस्य निघातः सिद्ध्यति । तस्मात् द्यानाभूमी इत्येतस्य विशेषणं । हे वरुण
+> हे मित्र युवां सहीयसो मर्तादभिभवितुर्मनुष्यात् नस्रासीथां । हे देवा
+> वो युष्माकमध्वरे यागे को वरिवो धनं धाति । ददाति । यद्वा । वो युष्माकं
+> मध्यॆ को वरिवो धाति । धारयति ॥
+
+##### Gist of the bhāṣya
+
+"O Vasus, makers of all to dwell, who among you is the protector? For you are Vasus (this is the intent). And who is the one who वरूता (*varūtā*) (fully devoted)?" Or: who among you, the god who protects, and who is the warder-off of sorrows, or the one to be chosen? "O heaven and earth, protect us. O Aditi, the unbroken one" — this too is an epithet of heaven and earth, with a change of number. If this were a separate address to a deity, there would be no nighāta accent, since a vocative is as if non-existent when it follows; but since the former is treated as non-existent, this one is the beginning of the pāda. As in आदिते मित्र वरुणोत मृळ (*ādite mitra varuṇota mṛḷa*) (Ṛ. Saṃ. 2-27-14) and आदित्या रुद्रा वसवः सुदानवः (*ādityā rudrā vasavaḥ sudānavaḥ*) (Ṛ. Saṃ. 10-66-12). Taken as its epithet, by agreement in case, as in अग्ने पावक रोचिषा (*agne pāvaka rociṣā*) (Ṛ. Saṃ. 5-26-1), its accent is established; hence it is an epithet of "heaven and earth". "O Varuṇa, O Mitra, protect us from the overpowering mortal, the man. O gods, who gives wealth at your sacrifice?" Or: who among you upholds wealth?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—O Vasus
+- वः (*vaḥ*)—among you
+- कः (*kaḥ*)—who
+- त्राता (*trātā*)—is the protector
+- कः (*kaḥ*)—who
+- वरूता (*varūtā*)—the averter of sorrow
+- अदिते (*adite*)—unbroken
+- द्यावाभूमिा (*dyāvābhūmiā*)—O heaven and earth
+- नः (*naḥ*)—us
+- त्रासीथां (*trāsīthāṃ*)—protect
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- सहीयसः (*sahīyasaḥ*)—who comes against (us)
+- मर्तात् (*martāt*)—from the man (the enemy), protect
+- देवाः (*devāḥ*)—O gods
+- अध्वरे (*adhvare*)—at the sacrifice
+- वः (*vaḥ*)—among you
+- कः (*kaḥ*)—which god
+- वरिवः (*varivaḥ*)—wealth
+- धाति (*dhāti*)—gives
+
+##### भावार्थ (Bhāvārtha)
+
+O Vasus, who among you is our protector? Who is the averter of sorrow? O unbroken heaven and earth, protect us. O Varuṇa, O Mitra, protect us from the human enemy who comes against us. O gods, at the time of the sacrifice, who among you will give us wealth?
+
+##### English translation (H. H. Wilson)
+Which of you, Vasus, is a defender? which is a protector? heaven and earth and Aditi preserve us : defend us, Mitra and Varuna, from the strong man : who is it, gods, that offers you wealth at the sacrifice ?
+
+### Printed p. 581
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रये धामा॑नि पू॒र्वाण्यर्चा॒न्वि यदु॒च्छान्वि॑यो॒तारो॒  ॑
+> अमूराः ।  
+> वि॒धा॒तारो॒ वि ते द॑धु॒रज॑स्रा ऋ॒तधी॑तयो रुरुचंत द॒स्माः॥
+
+> *praye dhāmāni pūrvāṇyarcānvi yaducchānviyotāro*  
+> *amūrāḥ |*  
+> *vidhātāro vi te dadhurajasrā ṛtadhītayo rurucaṃta dasmāḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । धामानि । पूर्व्याणि । अर्चान् । वि । यत् । उच्छान् । वियोतारः । अमूराः ।  
+> विधातारः । वि । ते । दधुः । अजस्राः । ऋतधीतयः । रुरुचंत । दस्माः ॥ २ ॥
+
+> *pra | ye | dhāmāni | pūrvyāṇi | arcān | vi | yat | ucchān | viyotāraḥ | amūrāḥ |*  
+> *vidhātāraḥ | vi | te | dadhuḥ | ajasrāḥ | ṛtadhītayaḥ | rurucaṃta | dasmāḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये देवाः पूर्व्याणि पुरातनानि धामानि स्थानानि वा प्रार्थान् । अर्चंति ।
+> प्रयच्छंति स्तोतृभ्यः । यत् ये च वियोतारो दुःखानाममिश्रयितारोमूरा
+> अमूढा व्युच्छान् । व्युच्छंति । तमो विवासयंति देवाः । ते विधातारः फलानां
+> कर्तारोऽजस्रा नित्या वि दधुः । कुर्वंत्यभिमतं । किंच ऋतधीतयः सत्यकर्माणो
+> दस्मा दर्शनीयास्ते रुरुचंत । रोचंते ॥
+
+##### Gist of the bhāṣya
+
+The gods who अर्चन् (*arcan*) (give) ancient places or abodes to the singers; and those who, as separators from sorrows and unperplexed (अमूराः (*amūrāḥ*) = unbewildered), dispel the darkness — those gods, makers of fruits, eternal, bring about what is desired. Moreover, true in their works and fair to behold, they shine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which gods
+- पूर्व्याणि (*pūrvyāṇi*)—ancient
+- धामानि (*dhāmāni*)—(happiness-giving) places
+- प्र अर्चन् (*pra arcan*)—give (to the sacrificers)
+- यत् (*yat*)—who
+- वियोतारः (*viyotāraḥ*)—being free from sorrow
+- अमूराः (*amūrāḥ*)—being free from folly
+- व्युच्छान् (*vyucchān*)—destroy darkness (they)
+- अजस्राः (*ajasrāḥ*)—eternal
+- विधातारः (*vidhātāraḥ*)—as makers of fruit
+- वि दधुः (*vi dadhuḥ*)—may they give (the desired fruits)
+- ते (*te*)—those gods
+- ऋतधीतयः (*ṛtadhītayaḥ*)—being of true works
+- दस्माः (*dasmāḥ*)—being of attractive form
+- रुरुचंत (*rurucaṃta*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+May the gods who give the sacrificers ancient, happiness-giving places, and who, free from sorrow and from folly, destroy darkness, being eternal makers of fruit grant the desired fruits.
+
+### Printed p. 582
+They, being of true works and of attractive form, shine.
+
+##### English translation (H. H. Wilson)
+The (deities) who bestow ancient :places (of enjoyment on their worshippers), and (with minds) unperplexed, are the separators of light (from darkness); they, the eternal distributors (of rewards), grant (what is desired), and shine of pleasing aspect, the true (recompensers) of pious acts.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र प॒स्ता॒३॒॑ ३ मदि॑तिं॒ सिंधु॑म॒र्कैः स्व॒स्तिमा॑ळे स॒ख्याय॑ दे॒वीं ।  
+> उ॒भे यथा॑ नो॒ अह॑नी नि॒पात॑ उ॒षासा॒नक्ता॑ करता॒मद॑ब्बे ॥
+
+> *pra pastā 3 maditiṃ siṃdhumarkaiḥ svastimāḷe sakhyāya devīṃ |*  
+> *ubhe yathā no ahanī nipāta uṣāsānaktā karatāmadabbe ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । पस्त्यां । अदितिं । सिंधुं । अर्कैः । स्वस्तिं । ईळे । सख्याय । देवीं ।  
+> उभे इति । यथा । नः । अहनी इति । निपातः । उषसानक्ता । करतां । अदब्बे इति ॥
+
+> *pra | pastyāṃ | aditiṃ | siṃdhuṃ | arkaiḥ | svastiṃ | īḷe | sakhyāya | devīṃ |*  
+> *ubhe iti | yathā | naḥ | ahanī iti | nipātaḥ | uṣasānaktā | karatāṃ | adabbe iti ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पस्त्यां सर्वैर्गंतव्यामदितिमदीनां देवमातरं तां देवीं सिंधुं स्यंदनशीलां नद्यभिमानिदेवीं स्वस्तिं सुखनिवासामेतन्नामिकां देवीं सख्यायानुकूल्यायार्कैर्मंत्रैरीळे । स्तौमि । उभे अहनी द्यावापृथिव्यौ यथा नोऽस्मान्नि पातः
+> नितरां पातः तथा स्तौमि । उषासानक्ता होरात्राभिमानिदेवते अदब्धे आदंभनीये
+> करतां ! कुरुतां । अभिमतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Aditi, to be approached by all, mother of the gods; the goddess Sindhu, the flowing one, deity of the river; and Svasti, the goddess of that name who dwells in happiness — these I praise with hymns for their friendship, their favour. I praise the two days (heaven and earth) so that they protect us fully. May Uṣas and Naktā, the deities of day and night, unassailable, bring about what is desired (the object is to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पस्त्यां (*pastyāṃ*)—the venerable
+- अदितिं (*aditiṃ*)—Aditi
+- सिंधुं (*siṃdhuṃ*)—the deity of the river
+- देवीं (*devīṃ*)—the divine one
+- स्वस्तिं (*svastiṃ*)—the goddess Svasti, giver of happiness
+- सख्याय (*sakhyāya*)—for their friendship
+- अर्कैः (*arkaiḥ*)—with hymns
+- ईळे (*īḷe*)—I praise
+- उभे अहनी (*ubhe ahanī*)—both, heaven and earth
+
+### Printed p. 583
+- यथा (*yathā*)—in what manner
+- नः (*naḥ*)—us
+- निपातः (*nipātaḥ*)—protect fully (in that manner I praise)
+- अदच्छे (*adacche*)—the indestructible **NOTE**
+- उषासानक्ता (*uṣāsānaktā*)—the deities of day and night
+- करतां (*karatāṃ*)—may they bring about (the fulfilment of our wishes)
+
+##### भावार्थ (Bhāvārtha)
+
+I praise exceedingly with hymns, for their friendship, the venerable Aditi, the goddess of the river, and the divine Svasti, giver of happiness. In whatever manner heaven and earth protect us, in that manner I praise them. May the indestructible deities of day and night bring about the fulfilment of our wishes.
+
+##### English translation (H. H. Wilson)
+I adore thc venerated Aditi, the Sindhu and the divine Swasti for their friendship: (I praise you) both, Day and Night, that you may protect us unimpeded ; night and morning do (what we desire).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य॑र्य॒मा वरु॑णश्चेति॒ पंथा॑मि॒षस्पतिः॑ सुवि॒तं गा॒तुम॒ग्निः ।  
+> इंद्रा॑विष्णू नृ॒वदु॒ षु स्तवा॑ना॒ शर्म॑ नो यंत॒मम॑व॒द्वरू॑थं ॥ ४ ॥
+
+> *vyaryamā varuṇaśceti paṃthāmiṣaspatiḥ suvitaṃ gātumagniḥ |*  
+> *iṃdrāviṣṇū nṛvadu ṣu stavānā śarma no yaṃtamamavadvarūthaṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अर्यमा । वरुणः । चेति । पंथां । इषः । पतिः । सुवितं । गातुं । अग्निः ।  
+> इंद्राविष्णू इति । नृवत् । ऊं इति । सु । स्तवाना । शर्म । नः । यंतं । अमृतम् ।  
+> वरूथं ॥ ४ ॥
+
+> *vi | aryamā | varuṇaḥ | ceti | paṃthāṃ | iṣaḥ | patiḥ | suvitaṃ | gātuṃ | agniḥ |*  
+> *iṃdrāviṣṇū iti | nṛvat | ūṃ iti | su | stavānā | śarma | naḥ | yaṃtaṃ | amṛtam |*  
+> *varūthaṃ ‖ 4 ‖*
+
+### Printed p. 584
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्यमा देवोऽस्माकं पंथां यज्ञा दिमार्गं वि चेति । ज्ञापयति । तथा
+> वरुणो वि चेति । इषोऽन्नस्य हविर्लक्षणस्य पतिः पालकोऽग्निः सुवितं सुखकरं
+> गातुं गमनं मार्गं वा स्वर्गादेर्वि चेति । इंद्राविष्णू सु सुष्टु स्तवाना
+> स्तूयमानौ नृवन्मनुष्यवन्मनुष्योपेतं वरूथं वरणीयममवद्बलोपेतं
+> शर्म गृहं सुखं वा नोऽस्माकं यंतं । यच्छतं ॥
+
+##### Gist of the bhāṣya
+
+Aryaman makes known to us the path, the way of sacrifice and the like; so does Varuṇa. Agni, lord and guardian of the food that is the oblation, makes known the pleasant way or path to heaven and the like. Indra and Viṣṇu, well praised, grant us happiness or a house, desirable, provided with men and with strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरमा (*aramā*)—Aryaman **NOTE**
+- वरणः (*varaṇaḥ*)—Varuṇa **NOTE**
+- पंथां (*paṃthāṃ*)—the excellent path
+- वि चेति (*vi ceti*)—make known
+- इषः (*iṣaḥ*)—of food
+- पतिः (*patiḥ*)—the guardian
+- अग्निः (*agniḥ*)—Agni
+- सुवितं (*suvitaṃ*)—happiness-giving
+- गातुं (*gātuṃ*)—the path (he makes known)
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—Indra and Viṣṇu
+- सु (*su*)—excellently
+- स्तवाना (*stavānā*)—being praised
+- नृवत् (*nṛvat*)—accompanied by sons and the like
+- वरूथं (*varūthaṃ*)—desirable
+- अमवत् (*amavat*)—powerful
+- शर्म (*śarma*)—happiness
+- नः (*naḥ*)—to us
+- यंतं (*yaṃtaṃ*)—may they give
+
+##### भावार्थ (Bhāvārtha)
+
+Aryaman and Varuṇa make known to us the excellent path of rites. Agni, guardian of food, makes known the path that brings happiness. May Indra and Viṣṇu, well praised, bring us happiness accompanied by sons and the like, desirable and powerful.
+
+##### English translation (H. H. Wilson)
+Aryaman and Varuna, instruct us in the path (of worship) : Agni the lord of food, points out the way to happiness : Indra and Vishnu, being glorified, bestow upon us desirable prosperity comprehending descendants and strength.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ पर्व॑तस्य म॒रुता॒मवां॑सि दे॒वस्य॑ त्रा॒तुर॑वि॒ भग॑स्य ।  
+> पात्पति॒र्जन्या॒दंह॑सो नो मि॒त्रो मि॒त्रिया॑दु॒त न॑ उरुष्येत् ॥ ५ ॥
+
+> *ā parvatasya marutāmavāṃsi devasya trāturavi bhagasya |*  
+> *pātpatirjanyādaṃhaso no mitro mitriyāduta na uruṣyet ‖ 5 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 578. pp. 573-578 (batch API)
+**Progress note:** Done through printed p. 584. pp. 579-584 (batch API)
