@@ -62,6 +62,9 @@ def params(w, model, effort):
 def cmd_plan(a):
     cfg = rvlib.Cfg(a[0]); opt = lambda k, d: a[a.index(k) + 1] if k in a else d
     k = int(opt('--windows', 5)); model = opt('--model', 'claude-sonnet-5-5'); effort = opt('--effort', 'medium')
+    old = load_state(cfg)
+    if old.get('batch_id') and not all(x.get('done') for x in old.get('windows', [])): sys.exit('the previous batch is not finished: run collect (and repair the window it stopped at) before planning more')
+    if old.get('batch_id'): os.rename(state_file(cfg), state_file(cfg).replace('.json', f"_{old['windows'][0]['first']:04d}.json"))
     pr, f = batch.audit(cfg, expect_clean=False)
     if pr: sys.exit('audit fails, fix first: ' + '; '.join(pr))
     after = f['page']; wins = []; cl = client(); tot = 0
@@ -82,7 +85,7 @@ def cmd_submit(a):
     from anthropic.types.messages.batch_create_params import Request
     cfg = rvlib.Cfg(a[0]); st = load_state(cfg)
     if not st.get('windows'): sys.exit('run plan first')
-    if st.get('batch_id'): sys.exit(f"a batch is already recorded ({st['batch_id']}): collect it, or delete work/api_batch.json")
+    if st.get('batch_id'): sys.exit(f"a batch is already recorded ({st['batch_id']}): collect it first (plan writes a new state once every window of it is done)")
     reqs = [Request(custom_id=os.path.basename(x['win']), params=MessageCreateParamsNonStreaming(**params(os.path.join(ROOT, x['win']), st['model'], st['effort']))) for x in st['windows']]
     b = client().messages.batches.create(requests=reqs); st['batch_id'] = b.id; save_state(cfg, st)
     print('submitted', b.id, b.processing_status, len(reqs), 'requests')
@@ -95,7 +98,11 @@ def apply_answer(w, text):
     """write en.md and apply the kn.md repairs; returns a list of problems"""
     prob = []; m = re.search(r'<en>\s*\n?(.*?)\n?\s*</en>', text, re.S)
     if not m: return ['no <en> … </en> in the answer']
-    kp = os.path.join(w, 'kn.md'); kn = open(kp, encoding='utf8').read()
+    kp = os.path.join(w, 'kn.md'); pj0 = os.path.join(w, 'pages.json')
+    for f in (kp, pj0):                                   # the first answer is applied to the prepared files; a retry starts from them again
+        if not os.path.exists(f + '.orig'): open(f + '.orig', 'w', encoding='utf8').write(open(f, encoding='utf8').read())
+        else: open(f, 'w', encoding='utf8').write(open(f + '.orig', encoding='utf8').read())
+    kn = open(kp, encoding='utf8').read()
     f = re.search(r'<kn_fix>\s*(.*?)\s*</kn_fix>', text, re.S)
     if f and f.group(1).strip() not in ('', '[]'):
         try: fixes = json.loads(f.group(1))
@@ -112,6 +119,21 @@ def apply_answer(w, text):
         json.dump(sorted(pg, key=lambda x: x['printed']), open(pj, 'w'), indent=1)
     open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(m.group(1).strip() + '\n')
     return prob
+RETRY = """The automatic checks rejected your answer for this window. Their message:
+
+{gate}
+
+Send the COMPLETE corrected answer again in the same format (<en> … </en> and, if needed, <kn_fix> … </kn_fix>; your fixes are applied to the kn.md shown in the task, not to an already fixed copy). Change only what the message requires and keep everything else word for word. Never change what the print says to satisfy a check: an inline ⟦ ⟧ segment must be copied letter for letter from kn.md (if you cannot find the exact words there, write the word in Latin letters instead); a reference is written as kn.md prints it."""
+def retry_window(cl, st, x, gate):
+    """one direct (not batch) request: the task, the rejected answer and the gate message; returns (text, usd)"""
+    w = os.path.join(ROOT, x['win']); p = params(w, st['model'], st['effort'])
+    p['messages'] += [{'role': 'assistant', 'content': open(os.path.join(w, 'answer.txt'), encoding='utf8').read()},
+                      {'role': 'user', 'content': RETRY.format(gate=gate[-2500:])}]
+    with cl.messages.stream(**p) as stream: msg = stream.get_final_message()
+    u = msg.usage; pi, po = PRICES.get(st['model'], (0, 0))
+    usd = ((u.input_tokens + (getattr(u, 'cache_creation_input_tokens', 0) or 0) * 1.25 + (getattr(u, 'cache_read_input_tokens', 0) or 0) * 0.1) * pi + u.output_tokens * po) / 1e6
+    text = ''.join(b.text for b in msg.content if b.type == 'text')
+    return (text if msg.stop_reason == 'end_turn' else ''), usd, u
 def cmd_collect(a):
     cfg = rvlib.Cfg(a[0]); st = load_state(cfg); cl = client()
     if cl.messages.batches.retrieve(st['batch_id']).processing_status != 'ended': sys.exit('batch not ended yet: run status')
@@ -138,9 +160,20 @@ def cmd_collect(a):
         if not x.get('collected') or (x.get('problem') and 'kn_fix adds' not in x['problem']): print(f"STOP at {x['win']}: {x.get('problem') or 'not collected'}"); break
         r = subprocess.run(['python3', 'tools/rv/batch.py', 'done', str(cfg.vol), x['win'], '--note', f"pp. {x['first']}-{x['last']} (batch API)"], capture_output=True, text=True, cwd=ROOT)
         out = (r.stdout + r.stderr).strip(); print(x['win'], '->', out.split('\n')[-1][:200])
-        if r.returncode: open(os.path.join(ROOT, x['win'], 'gate_failure.txt'), 'w', encoding='utf8').write(out); print(f"STOP at {x['win']}: gates failed (see {x['win']}/gate_failure.txt); repair en.md / kn.md there, run batch.py done, then collect again"); break
+        tries = 0
+        while r.returncode and tries < 2 and '--no-retry' not in a:                 # send the window back with the gate message (direct request, full price, small)
+            tries += 1; open(os.path.join(ROOT, x['win'], f'gate_failure_{tries}.txt'), 'w', encoding='utf8').write(out)
+            text, usd, u = retry_window(cl, st, x, out)
+            open(cost, 'a', encoding='utf8').write(f"| {os.path.basename(x['win'])} retry {tries} (gate failure) | {st['model']} direct | 1 request | in {u.input_tokens}, out {u.output_tokens} | ${usd:.3f} |\n")
+            x['retries'] = tries; x['usd'] = round(x.get('usd', 0) + usd, 4)
+            if not text: print(x['win'], 'retry', tries, 'gave no usable answer'); continue
+            open(os.path.join(ROOT, x['win'], 'answer.txt'), 'w', encoding='utf8').write(text); pr = apply_answer(os.path.join(ROOT, x['win']), text)
+            r = subprocess.run(['python3', 'tools/rv/batch.py', 'done', str(cfg.vol), x['win'], '--note', f"pp. {x['first']}-{x['last']} (batch API, retry {tries})"], capture_output=True, text=True, cwd=ROOT)
+            out = (r.stdout + r.stderr).strip(); print(x['win'], f'retry {tries} ->', out.split('\n')[-1][:160])
+        if r.returncode: open(os.path.join(ROOT, x['win'], 'gate_failure.txt'), 'w', encoding='utf8').write(out); print(f"STOP at {x['win']}: gates failed after {tries} retries (see {x['win']}/gate_failure.txt); repair en.md / kn.md there, run batch.py done, then collect again"); save_state(cfg, st); break
         x['done'] = True; save_state(cfg, st)
     save_state(cfg, st)
+    print('windows done:', sum(1 for x in st['windows'] if x.get('done')), 'of', len(st['windows']), '| cost of this batch incl. retries: $%.2f' % sum(x.get('usd', 0) for x in st['windows']))
 CMDS = dict(plan=cmd_plan, submit=cmd_submit, status=cmd_status, collect=cmd_collect)
 if __name__ == '__main__':
     if len(sys.argv) < 3 or sys.argv[1] not in CMDS: sys.exit(__doc__)
