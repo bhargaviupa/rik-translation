@@ -6319,6 +6319,198 @@ May this bird, Maruts, be pre-eniment over (other) hawks, since with a wheelless
 
 When the bird, the hawk, frightening the guardians of the Soma, fetched Soma from that heaven, then it was released ("asarji"), joined, moving along the broad path, the atmospheric way, endowed with speed like that of the mind. With the sweet food of Soma, belonging to Soma, it went swiftly. And here, in this world, the hawk, the Suparṇa, gained fame ("śravas") on account of the carrying off of the Soma.
 
+### Printed p. 180
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदि (*yadi*)—when
+- विः (*viḥ*)—the hawk-bird
+- आतः (*ātaḥ*)—from the heavenly world
+- वेविजानः (*vevijānaḥ*)—frightening (the guardians of the Soma)
+- भरत् (*bharat*)—carried off (the Soma); (then)
+- उरुणा (*uruṇā*)—by the wide
+- पथा (*pathā*)—path of the firmament
+- मनोजवा (*manojavā*)—with the speed of thought
+- असर्जि (*asarji*)—united (with exceeding speed)
+- सोम्येन (*somyena*)—made of Soma
+- मधुना (*madhunā*)—with food (or: with the sweet Soma)
+- तूयं (*tūyaṃ*)—swiftly
+- ययौ (*yayau*)—came flying
+- उत (*uta*)—and
+- अत्र (*atra*)—in this world
+- श्येनः (*śyenaḥ*)—the hawk
+- श्रवः (*śravaḥ*)—fame on that account
+- विविदे (*vivide*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+When the hawk frightened the guardians of the Soma and carried off the Soma from the heavenly world, it flew back, joined with that same sweet Soma, along the wide path of the firmament, with the speed of thought, with exceeding speed. For that very reason the hawk obtained exceeding fame in this world.
+
+##### English translation (H. H. Wilson)
+when the bird, intimidating (its guardians), carried off from hence (the Soma) it was at large: (flying) swift as thought along the vast path of the firmament), it went rapidly with the sweet Soma plant, and the hawks thence acquired celebrity in this world.
+
+##### विशेषविषयगळु (Special Topics)
+
+There is an earlier story concerning this matter. Formerly the Soma was in the world of the gods. The gods thought that it must be brought to the earth, and when they considered who was able to bring it, it was determined that the metres Gāyatrī and the others were capable of bringing the Soma.
+
+जगत्युदपतच्चतुर्दशाक्षरा सती साऽप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमियेताग्ं सा पशुभिश्च दीक्षया जागच्छत्तस्माज्जगती छंदसां पशव्यतना तस्मात्पशुमंतं दीक्षोपनमति त्रिष्टुगुदपतत्रयोदशाक्षरा सती साऽप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमीयेताग्ं सा दक्षिणाभिश्च तपसा जागच्छत्तस्मात्रिष्टुभो लोके माध्यंदिने सवने दक्षिणा नीयंत एतत्खलु वाव तप इत्याहुर्यः स्वं ददातीति गायत्र्युदपतच्चतुरक्षरा सत्यजया ज्योतिषा तमस्या अजाभ्यरुंधत तदजाया अजत्वग्ं सा सोमं चाहरच्चत्कारि चाक्षराणि साष्टाक्षरा समपद्यत ब्रह्मवादिनो वदंति कस्मात्सत्याद्गायश्री (*jagatyudapataccaturdaśākṣarā satī sā 'prāpya nyavartata tasyai dve akṣare amiyetāgṃ sā paśubhiśca dīkṣayā jāgacchattasmājjagatī chaṃdasāṃ paśavyatanā tasmātpaśumaṃtaṃ dīkṣopanamati triṣṭugudapatatrayodaśākṣarā satī sā 'prāpya nyavartata tasyai dve akṣare amīyetāgṃ sā dakṣiṇābhiśca tapasā jāgacchattasmātriṣṭubho loke mādhyaṃdine savane dakṣiṇā nīyaṃta etatkhalu vāva tapa ityāhuryaḥ svaṃ dadātīti gāyatryudapataccaturakṣarā satyajayā jyotiṣā tamasyā ajābhyaruṃdhata tadajāyā ajatvagṃ sā somaṃ cāharaccatkāri cākṣarāṇi sāṣṭākṣarā samapadyata brahmavādino vadaṃti kasmātsatyādgāyaśrī*)
+
+### Printed p. 181
+कनिष्ठा छंदसाग्ं सती यज्ञमुखं परीयायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पर्यैत्तस्मात्तेजस्विनीतमा पद्भ्यां द्वे सवने समगृह्णान्मुखेनैकं यन्मुखेन समगृह्णात्तदधयत्तस्माद्वे सवने शुक्रवती प्रातःसवनं च माध्यदिनं च तस्मात्तृतीयसवनमृजेषमभिषुण्वंति धीतिमिव हि मन्यंते आशिरमवनयति सशुक्रत्वायाथो संभरत्येवैनत् । (*kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ parīyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ paryaittasmāttejasvinītamā padbhyāṃ dve savane samagṛhṇānmukhenaikaṃ yanmukhena samagṛhṇāttadadhayattasmādve savane śukravatī prātaḥsavanaṃ ca mādhyadinaṃ ca tasmāttṛtīyasavanamṛjeṣamabhiṣuṇvaṃti dhītimiva hi manyaṃte āśiramavanayati saśukratvāyātho saṃbharatyevainat |*) (Tai. Saṃ. 6-1-6-2, 3, 4, 5)
+
+Then first the metre Jagatī set out, saying "I shall bring the Soma", and leapt up into the firmament. At that time each pāda of the Jagatī metre had fourteen syllables. But unable to bring the Soma, it grew weary and came back exhausted. Then it lost two of the fourteen syllables. But on its return it brought along with it the sacrificial animals that were there and the order of dīkṣā (the rite of undertaking consecration in the sacrifice). Therefore in the world the Jagatī metre became famed as rich in animals; and dīkṣā follows the sacrificer who is endowed with wealth of animals. Next the Triṣṭubh metre set out, saying "I shall bring the Soma", and leapt into the firmament. Then each pāda of Triṣṭubh had thirteen syllables. Triṣṭubh too, unable to bring the Soma, grew weary and limp, lost two of its thirteen syllables and returned. On returning it brought with it the sacrificial fee and austerity (tapas). Therefore, when a sacrifice is performed, the fees are given (to the priests) at the midday pressing. The giving away of what one possesses is said to be tapas. Next the Gāyatrī metre set out, saying "I shall bring the Soma", and flew up into the firmament in the form of a hawk. Then each pāda of Gāyatrī had four syllables. When setting out Gāyatrī took with her, for help, a shining she-goat. That goat helped Gāyatrī as she brought the Soma; hence the goat became known by the name ajā. Then Gāyatrī brought back the Soma that was in heaven and also the four syllables that Jagatī and Triṣṭubh had lost. With the four syllables she brought back added, Gāyatrī came to have eight syllables. (Jagatī came to have twelve syllables and Triṣṭubh eleven.) As the Brahmavādins say, a doubt arises here: although the Gāyatrī metre is much smaller than all the other metres, how did it obtain primacy in the sacrifice? The answer: this Gāyatrī brought the Soma; therefore Gāyatrī has come to have primacy in sacrificial rites, and it also shines with great brilliance. When this Gāyatrī brought the Soma from heaven, she took the form of a hawk, and with her two feet (of the three pādas of eight syllables of Gāyatrī, two are called the feet and the third the mouth)
+
+### Printed p. 182
+she seized the two pressings called the morning pressing and the midday pressing, and with the mouth (the beak) she brought the third, the third pressing, holding it in her bite. The morning and midday pressings, held in the feet, remained unchanged just as they were; therefore at those two pressings the Soma stalks are crushed and the bright, pure juice is pressed out. But since it is thought that, in bringing the third pressing in its beak, she bit the Soma stalk to some extent, pressed out the juice and drank it, at the time of the third pressing new Soma stalks are not used; the juice is pressed out once at the morning and midday pressings, and the remaining husk-like (ṛjīṣa) crushed stalks are used to press out well, a second time, the juice that is left over. Since the juice thus extracted is not abundant, āśira substances (milk, curds, flour) are added to it to make it fit for drinking.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒जी॒पी श्ये॒नो दद॑मानो अं॒शुं प॑रा॒वतः॑ शकु॒नो ॒ ॑
+> मंद्रं मदं ।  
+> सोमं॑ भरद्दादृहा॒णो दे॒वावा॑न्दि॒वो अ॒मुष्मा॒दुत्त॑रादा॒दाय॑ ॥ ६ ॥
+
+> *ṛjīpī śyeno dadamāno aṃśuṃ parāvataḥ śakuno*  
+> *maṃdraṃ madaṃ |*  
+> *somaṃ bharaddādṛhāṇo devāvāndivo amuṣmāduttarādādāya ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋजीपी । श्येनः । ददमानः । अंशुं । परावतः । शकुनः । मंद्रं । मदं +  
+> सोमं । भरत् । ददृहाणः । देववान् । दिवः । अमुष्मात् । उत्तरात् ।  
+> आदाय ॥ ६ ॥
+
+> *ṛjīpī | śyenaḥ | dadamānaḥ | aṃśuṃ | parāvataḥ | śakunaḥ | maṃdraṃ | madaṃ +*  
+> *somaṃ | bharat | dadṛhāṇaḥ | devavān | divaḥ | amuṣmāt | uttarāt |*  
+> *ādāya ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋजीप्यजुगामिा परावतो दूरादंशुं सोमं ददमानो धारयन्
+> श्येनः शंसनीयगमनो देववान्देवैः सहितः शकुनः पक्षी मंद्रं मदनीयं स्तुत्यं
+
+### Printed p. 183
+
+> मदं मदकरं सोममुत्तरादुद्दततरादमुष्माद्दिवो द्युलोकादादाय स्वीकृत्य
+> ददृहाणो दृढीभवन् भरत् । अहरत् ॥
+
+##### Gist of the bhāṣya
+
+The hawk (ṛjīpī), flying straight, from afar (parāvataḥ) holding (dadamānaḥ) the Soma (aṃśu); the hawk (śyena), of praiseworthy gait, accompanied by the gods (devavān), the bird (śakuna), took from that higher, distant heaven (the world of Dyu) the delightful, exhilarating, praiseworthy Soma, and, growing firm in resolve (dadṛhāṇaḥ), carried it off.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीपी (*ṛjīpī*)—flying straight
+- श्येनः (*śyenaḥ*)—of praiseworthy flight
+- शकुनः (*śakunaḥ*)—(that same) bird
+- परावतः (*parāvataḥ*)—from an exceedingly distant region
+- अंशुं (*aṃśuṃ*)—the Soma plant
+- ददमानः (*dadamānaḥ*)—came bearing
+- देववान् (*devavān*)—united with the gods
+- मदं (*madaṃ*)—causing joy
+- मंद्रं (*maṃdraṃ*)—praiseworthy
+- सोमं (*somaṃ*)—the Soma
+- उत्तरात् (*uttarāt*)—from an exceedingly lofty region
+- अमुष्मात् (*amuṣmāt*)—lying in a distant place
+- दिवः (*divaḥ*)—from the heavenly world
+- आदाय (*ādāya*)—having taken
+- ददृहाणः (*dadṛhāṇaḥ*)—with firm resolve
+- भरत् (*bharat*)—carried off
+
+##### भावार्थ (Bhāvārtha)
+
+That same hawk, which flies straight without crooked course and whose flight is praiseworthy, came bearing the Soma plant from an exceedingly distant region. It took the praiseworthy, joy-giving Soma from the exceedingly lofty region, the heavenly world, and carried it off with firm resolve.
+
+##### English translation (H. H. Wilson)
+The straight-flying hawk, conveying the Soma plant from afar; the bird, attended by the gods, brought, resolute of purpose, the adorable exhilarating Soma, having taken it from that lofty heaven.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दाय॑ श्वे॒नो अ॑भर॒त्सोमं॑ स॒हस्रं॑ स॒ना अ॒युतं॑ च सा॒कं ।  
+> अत्रा॒ पुरं॑धिरजहा॒दरा॑ती॒र्मदे॒ सोम॑स्य मू॒रा अमू॑रः ॥
+
+> *ādāya śveno abharatsomaṃ sahasraṃ sanā ayutaṃ ca sākaṃ |*  
+> *atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदाय । श्येनः । आभरत् । सोमं । सहस्रं । सवान् । अयुतं । च । साकं ।  
+> अत्र । पुरंधिः । अजहात् । अरातीः । मदे । सोमस्य । मूराः । अमूरः ॥ ७ ॥
+
+> *ādāya | śyenaḥ | ābharat | somaṃ | sahasraṃ | savān | ayutaṃ | ca | sākaṃ |*  
+> *atra | puraṃdhiḥ | ajahāt | arātīḥ | made | somasya | mūrāḥ | amūraḥ ‖ 7 ‖*
+
+### Printed p. 184
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्येनः शंसनीयगमनः पक्षी सवान् सवानां यज्ञानां सहस्रं सहस्रसंख्याकमयुतं चायुतसंख्याकं । अपरिमितसंख्याकमित्यर्थः । साकं सह सोमं
+> सोमलक्षणमन्नमादायादानं कृत्वाभरत् । अहरत् । आजहार । अत्रास्मिन् सोम
+> आहृते सति पुरंधिः पुरंधीर्बहुकर्मामूरोमूढः प्राज्ञ इंद्रः सोमस्य
+> संबंधिनि मदे हर्षे सति मूरा मूढा अरातीः शत्रूनजहात् । अत्यजत् ।
+> जघानेत्यर्थः ॥ अत्रारातिशब्दः स्त्रीलिंगः ॥
+
+##### Gist of the bhāṣya
+
+The hawk (śyena), the bird of praiseworthy gait, took (ādāya) the Soma, the food of Soma nature, together (sākam) with a thousand and ten thousand sacrifices (savān) — that is, with a countless number — and carried it off (abharat, ajahāra). When the Soma had been thus brought, the doer of many deeds (purandhi), the unbewildered (amūra), wise Indra, in the exhilaration connected with the Soma, struck down (ajahāt, atyajat, jaghāna) the bewildered (mūrāḥ) foes (arātīḥ). Here the word arāti is feminine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शैनः (*śainaḥ*)—the hawk
+- साकं (*sākaṃ*)—with itself
+- सोमं (*somaṃ*)—the Soma
+- सहस्रं (*sahasraṃ*)—numbering a thousand
+- आयुतं (*āyutaṃ*)—of countless number
+- सवान् (*savān*)—with reference to the sacrifices
+- आदाय (*ādāya*)—having taken
+- अभरत् (*abharat*)—carried off (or: carried off the Soma together with countless sacrifices)
+- अत्र (*atra*)—immediately on this carrying off of the Soma
+- पुरंधिः (*puraṃdhiḥ*)—the performer of many acts
+- अमूरः (*amūraḥ*)—wise (steady of mind) Indra
+- सोमस्य (*somasya*)—arising from the drinking of Soma
+- मदे (*made*)—in the exhilaration
+- मूराः (*mūrāḥ*)—of unsteady mind
+- अरातीः (*arātīḥ*)—the foes
+- अजहात् (*ajahāt*)—destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+The hawk came, carrying off the Soma for the sake of sacrifices, a thousand in number and of countless number. Immediately on this carrying off of the Soma, Indra, the performer of many acts, wise and steady of mind, in the exhilaration arising from drinking Soma, destroyed the foes, who were bewildered and unsteady of mind.
+
+##### English translation (H. H. Wilson)
+Having taken it, the hawk brought the Soma with him to a thousand and ten thousand sacrifices, and this being provided, the performer of many (great) deeds, the unbewildered (Indra) destroyed, in the exhilaration of the Soma, (his) bewildered foes.
+
+### Printed p. 185
+## Sūkta 27 (Maṇḍala 4)
+The twenty-seventh sūkta.
+
+Sāyaṇa's introduction: The sixth sūkta, "garbhe nu", of five ṛcs, has Vāmadeva as seer and is in Triṣṭubh; the last verse is Śakvarī of fifty-six syllables. The deity is Śyena. Since it was said in the preceding sūkta "or the eight", Indra is the deity of the last verse. So the Anukramaṇī: "garbhe nu five, the last Śakvarī". This sūkta is for the Niṣkevalya recitation in the Śyena rite. The sūtra has been cited before.
+
+Anuvāda: The sūkta beginning garbhe nu is the sixth sūkta in the third anuvāka. It has five ṛcs. Vāmadeva is its seer; the metre is Triṣṭubh; the last ṛc is in Śakvarī metre, with fifty-six syllables. The bird called Śyena is the deity of this sūkta; or Indra too may be the deity. In the Anukramaṇī it is said: "garbhe nu five, the last Śakvarī." The use of this sūkta is for reciting the mantras of the Niṣkevalya recitation in the iṣṭi called Śyena; this was stated in the viniyoga of the preceding sūkta.
+
+Sūkta 27. Maṇḍala 4; Anuvāka 3; Sūkta 27. Aṣṭaka 3; Adhyāya 6; Varga 16. Number of ṛcs in the sūkta: 5. Seer: Vāmadeva. Deity: 1-4 Śyena; 5 Śyena or Indra. Metre: 1-4 Triṣṭubh; 5 Śakvarī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गर्भे॒ नु सन्नन्वे॑षामवेदम॒हं दे॒वानां॒ जनि॑मानि॒ विश्वा॑ ।  
+> श॒तं मा॒ पुर॒ आय॑सीररक्ष॒न्नध॑ श्ये॒नो ज॒वसा॒ निर॑दीयं ॥ १ ॥
+
+> *garbhe nu sannanveṣāmavedamahaṃ devānāṃ janimāni viśvā |*  
+> *śataṃ mā pura āyasīrarakṣannadha śyeno javasā niradīyaṃ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गर्भे । नु । सन् । अनु । एषां । अवेदं । अहं । देवानां । जनिमानि । विश्वा ।  
+> शतं । मा । पुरः । आयसीः । अरक्षन् । अध । श्येनः । जवसा । निः । अदीयं ॥ १ ॥
+
+> *garbhe | nu | san | anu | eṣāṃ | avedaṃ | ahaṃ | devānāṃ | janimāni | viśvā |*  
+> *śataṃ | mā | puraḥ | āyasīḥ | arakṣan | adha | śyenaḥ | javasā | niḥ | adīyaṃ ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 179. pp. 174-179 (batch API)
+**Progress note:** Done through printed p. 185. pp. 180-185 (batch API)
