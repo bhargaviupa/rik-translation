@@ -21479,6 +21479,310 @@ Like a beautiful mare, the radiant mother of the rays of light, the object of sa
 > *uta | sakhā | asi | aśvinoḥ | uta | mātā | gavāṃ | asi |*  
 > *uta | upaḥ | vasvaḥ | īśiṣe ‖ 3 ‖*
 
+### Printed p. 548
+#### Ṛk 3 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि चाश्विनोः सखासि । उतापि च गवां रश्मीनां मातासि । उतापि च हे
+> उषो वस्वो धनस्येशिषे । ईश्वरा भवसि ॥
+
+##### Gist of the bhāṣya
+
+"You are also the friend of the Aśvins; you are also the mother of the cows, that is, of the rays; and you, O Uṣas, are the mistress of wealth (वस्वः (*vasvaḥ*))." Sāyaṇa glosses ईशिषे (*īśiṣe*) as "you are the sovereign".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- अश्विनोः (*aśvinoḥ*)—to the Aśvin deities
+- सखा (*sakhā*)—being a friend
+- असि (*asi*)—you are
+- उत (*uta*)—and
+- गवां (*gavāṃ*)—to the rays
+- माता (*mātā*)—as mother
+- असि (*asi*)—you are
+- उत (*uta*)—and
+- वस्वः (*vasvaḥ*)—of wealth
+- ईशिषे (*īśiṣe*)—you are the mistress
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, you are a friend to the Aśvin deities. You are the mother of the rays and the mistress of wealth.
+
+##### English translation (H. H. Wilson)
+You are the friend of the Aswins : you are the mother of the rays of light : you, Ushas, rule over riches.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या॒व॒यद्द्वे॑षसं त्वा चिकि॒त्वित्सू॑नृतावरि ।  
+> प्रति॒स्तोमै॑रभुत्स्महि ॥ ४ ॥
+
+> *yāvayaddveṣasaṃ tvā cikitvitsūnṛtāvari |*  
+> *pratistomairabhutsmahi ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यवयत्द्वेषसं । त्वा । चिकित्वित् । सूनृतावरि ।  
+> प्रति । स्तोमैः । अभुत्स्महि ॥ ४ ॥
+
+> *yavayatdveṣasaṃ | tvā | cikitvit | sūnṛtāvari |*  
+> *prati | stomaiḥ | abhutsmahi ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यावयद्वेषसं । यवयंशो वियुज्यमाना द्वेषांसि द्वेष्टारो
+> यस्यास्तादृशी । पृथक्क्रियंते द्वेषांस्यनयेति वा । रात्रौ हननायोद्युक्का
+> द्वेषिण उषःकाले हि पलायंते । तादृशीं चिकित्वित् ज्ञापयंतीं त्वा त्वां
+
+##### Gist of the bhāṣya
+
+यावयद्वेषसं (*yāvayadveṣasaṃ*): she is one from whom the haters (द्वेषांसि (*dveṣāṃsi*) = द्वेष्टारो (*dveṣṭāro*)) are separated; or else, one by whom hatreds are put apart. Haters who are bent on killing at night flee at the time of dawn. You, being such, making this known (चिकित्वित् (*cikitvit*)), … (the sentence continues on the next page).
+
+### Printed p. 549
+
+> सूनृतावरि । सूनृतेति वाङ्नाम । तद्वति देवि स्तोमैः स्तुतिभिः प्रत्यभुत्स्महि ।
+> प्रतिबोधयामः । स्तुम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+… O goddess endowed with सूनृता (*sūnṛtā*) (सूनृता (*sūnṛtā*) is a name for speech), we awaken you with stomas, that is, with praises; the meaning is "we praise you".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूनृतावरि (*sūnṛtāvari*)—O Uṣas of truthful speech
+- यावयद्वेषसं (*yāvayadveṣasaṃ*)—you who drive away the hating enemies
+- चिकित्वित् (*cikitvit*)—and who make the whole world aware
+- त्वा (*tvā*)—you
+- स्तोमैः (*stomaiḥ*)—with praises
+- प्रति अभुत्स्महि (*prati abhutsmahi*)—we awaken
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas of truthful speech, when enemies come to harm us in the darkness of night, you appear and strike and drive them away, and you make the whole world aware. Praising you thus, we awaken you so that you turn your attention to us, your praisers.
+
+##### English translation (H. H. Wilson)
+With praises we awaken you, you are endowed with truth ; you, the baffler of animosities, the restorer of consciousness.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ भ॒द्रा अ॑दृक्षत॒ गवां॒ सर्गा॒ न र॒श्मयः॑ ।  
+> ओषा अ॑प्रा उ॒रु ज्रयः॑ ॥ ५ ॥
+
+> *prati bhadrā adṛkṣata gavāṃ sargā na raśmayaḥ |*  
+> *oṣā aprā uru jrayaḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । भद्राः । अदृक्षत । गवां । सर्गाः । न । रश्मयः ।  
+> आ । उषाः । अप्राः । उरु । ज्रयः ॥ ५ ॥
+
+> *prati | bhadrāḥ | adṛkṣata | gavāṃ | sargāḥ | na | raśmayaḥ |*  
+> *ā | uṣāḥ | aprāḥ | uru | jrayaḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्राः स्तुत्या रश्मयः प्रत्यदृक्षत । प्रतिदृश्यंते । गवामुदकानां सर्गा न
+> वर्षधारा इवेयमुषा उरु ज्रयो महत्तेज आप्राः । आपूरयत् ॥
+
+##### Gist of the bhāṣya
+
+The auspicious, praiseworthy rays are seen. Like streams of rain, like the discharges (सर्गाः (*sargāḥ*)) of the waters (गवां (*gavāṃ*) = *udakānāṃ*), this Uṣas has filled (आप्राः (*āprāḥ*) = आपूरयत् (*āpūrayat*)) the vast ज्रयः (*jrayaḥ*), great radiance.
+
+### Printed p. 550
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भद्राः (*bhadrāḥ*)—auspicious
+- रश्मयः (*raśmayaḥ*)—rays
+- गवां (*gavāṃ*)—of waters
+- सर्गा न (*sargā na*)—like streams
+- प्रति अदृक्षत (*prati adṛkṣata*)—become visible to all
+- उषाः (*uṣāḥ*)—goddess Uṣas
+- उरु (*uru*)—abundant
+- ज्रयः (*jrayaḥ*)—radiance
+- आ अप्राः (*ā aprāḥ*)—has made spread and pervade
+
+##### भावार्थ (Bhāvārtha)
+
+The auspicious rays become visible to all, like streams of water. Goddess Uṣas has made her abundant radiance spread and pervade the whole world.
+
+##### English translation (H. H. Wilson)
+The auspicious rays are visible like showers of rain, the dawn has filled (the world) with ample light.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒प॒पुषी॑ विभावरि॒ व्या॑व॒ज्योति॑षा॒ तमः॑ ।  
+> उषो॒ अनु॑ स्व॒धाम॑व ॥ ६ ॥
+
+> *āpapuṣī vibhāvari vyāvajyotiṣā tamaḥ |*  
+> *uṣo anu svadhāmava ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपप्रुषी । विभावरि । वि । अवः । ज्योतिषा । तमः ।  
+> उषः । अनु । स्वधां । अव ॥ ६ ॥
+
+> *āpapruṣī | vibhāvari | vi | avaḥ | jyotiṣā | tamaḥ |*  
+> *uṣaḥ | anu | svadhāṃ | ava ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विभावरि विभावत्युषस्त्वमापपुष्पापूरयंती तेजसा जगत् ज्योतिषा
+> तेजसा तमोऽंधकारं व्यावः । व्यावृणोः । किंच अनु पश्चात् स्वधां हविर्लक्षणमन्नमव । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O radiant (विभावरि (*vibhāvari*)) Uṣas, you, filling the world with brightness (आपपुषी (*āpapuṣī*) = *āpūrayaṃtī*), uncover (व्यावः (*vyāvaḥ*) = व्यावृणोः (*vyāvṛṇoḥ*)) the darkness with light (ज्योतिषा (*jyotiṣā*) = तेजसा (*tejasā*)). Further, afterwards protect (अव (*ava*) = रक्ष (*rakṣa*)) the स्वधा (*svadhā*), the food in the form of oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विभावरि (*vibhāvari*)—radiant
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- आपपुषी (*āpapuṣī*)—pervading the whole world with your radiance
+- ज्योतिषा (*jyotiṣā*)—with that same radiance
+- तमः (*tamaḥ*)—darkness
+- व्यावः (*vyāvaḥ*)—you have driven away
+- अनु (*anu*)—thereafter
+- स्वधां (*svadhāṃ*)—the food in the form of oblation
+- अव (*ava*)—protect
+
+### Printed p. 551
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Uṣas, pervading the whole world with your radiance, you have driven away the darkness with that same radiance. Thereafter protect the food in the form of oblation.
+
+##### English translation (H. H. Wilson)
+Brilliant Ushas, filling (the world with light), you disperse the darkness with radiance : thereafter protect the oblation.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ द्यां त॑नोषि र॒श्मिभि॒रांतरि॑क्षमु॒रु प्रि॒यं ॥  
+> उषः॑ शु॒क्रेण॑ शो॒चिषा॑ ॥ ७ ॥
+
+> *ā dyāṃ tanoṣi raśmibhirāṃtarikṣamuru priyaṃ ‖*  
+> *uṣaḥ śukreṇa śociṣā ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । द्यां । तनोषि । रश्मिभिः । आ । अंतरिक्षं । उरु । प्रियं ।  
+> उषः । शुक्रेण । शोचिषा ॥ ७ ॥
+
+> *ā | dyāṃ | tanoṣi | raśmibhiḥ | ā | aṃtarikṣaṃ | uru | priyaṃ |*  
+> *uṣaḥ | śukreṇa | śociṣā ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ द्यां तनोषीत्येषा देवानां हविःषूषसोऽनुवाक्या । सूत्रितं च । आ
+> द्यां तनोषि रश्मिभिरावहंती पोष्या वार्याणि । आ. ६-१४ । इति ॥
+> हे उषो रश्मिभिद्यार्णं दिवमा तनोषि । उरु विस्तीर्णं प्रियमंतरिक्षं
+> रश्मिभिरा तनोषि । शुक्रेण दीप्तेन शोचिषा प्रकाशेन युक्ता सत्येवं करोषि ॥
+
+##### Gist of the bhāṣya
+
+This verse आ द्यां तनोषि (*ā dyāṃ tanoṣi*) is the *anuvākyā* to Uṣas in the oblations for the gods. It is prescribed by the sūtra आ द्यां तनोषि रश्मिभिरावहंती पोष्या वार्याणि । आ. ६-१४ । इति॥ (*ā dyāṃ tanoṣi raśmibhirāvahaṃtī poṣyā vāryāṇi | ā. 6-14 | iti‖*) (Ā. Sū. 6-14). O Uṣas, with your rays you spread out the heaven; with your rays you also spread out the vast, dear atmosphere. Being endowed with bright (शुक्रेण (*śukreṇa*) = दीप्तेन (*dīptena*)) light (शोचिषा (*śociṣā*) = प्रकाशेन (*prakāśena*)), you do thus.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- रश्मिभिः (*raśmibhiḥ*)—with your rays
+- द्यां (*dyāṃ*)—the world of heaven
+- आ तनोषि (*ā tanoṣi*)—you have made it spread out
+- उरु (*uru*)—vast
+- प्रियं (*priyaṃ*)—dear
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere
+- शुक्रेण (*śukreṇa*)—radiant
+- शोचिषा (*śociṣā*)—with your brightness
+- आ (तनोषि) (*ā (tanoṣi)*)—you pervade
+
+### Printed p. 552
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, with your rays you pervade the world of heaven, making it spread out. You pervade the vast and dear atmosphere with your radiant brightness.
+
+##### English translation (H. H. Wilson)
+You overspread, Ushas, the heaven with rays, as well as the vast and beloved firmament with pure lustre.
+
+##### विशेषविषयगळु (Special Topics)
+
+This ṛk आ द्यां तनोषि (*ā dyāṃ tanoṣi*) is to be recited as the puronuvākyā mantra to the deity Uṣas in the oblation-offering made for the gods; this is set out by the Āśvalāyana Śrauta Sūtra, in the sūtra आ द्यां तनोषि रश्मिभिरःवहंती पोष्या वार्याणि (*ā dyāṃ tanoṣi raśmibhiraḥvahaṃtī poṣyā vāryāṇi*) (Ā. 6-14). **NOTE**
+The fifty-third sūkta.
+
+## Sūkta 53 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तद्देवस्येति सप्तर्चमष्टमं सूक्तं वामदेवस्यारर्षं जागतं सावित्रं । तथा
+> चानुक्रम्यते । तद्देवस्य सावित्रं तु जागतमिति ॥ अभिप्लविके तृतीयेऽहनि वैश्वदेवशस्त्रे सावित्रनिविद्धानमिदं । तथा च सूत्रितं । तद्देवस्य धृतेन द्यावापृथिवी इति
+> तिस्रः । आ. ७-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, तद्देवस्य (*taddevasya*), of seven ṛks (*saptarcaṃ*), has Vāmadeva as seer, is in the Jagatī metre and is addressed to Savitṛ; so the Anukramaṇī says: तद्देवस्य सावित्रं तु जागतमिति॥ (*taddevasya sāvitraṃ tu jāgatamiti‖*). On the third day of the Abhiplava it is the Savitṛ nivid-insertion in the Vaiśvadeva śastra. So it is prescribed in the sūtra तद्देवस्य धृतेन द्यावापृथिवी इति तिस्रः । आ. ७-७ । इति॥ (*taddevasya dhṛtena dyāvāpṛthivī iti tisraḥ | ā. 7-7 | iti‖*) (Ā. Sū. 7-7).
+
+Anuvāda: This sūkta beginning तद्देवस्य (*taddevasya*) is the eighth sūkta in the fifth anuvāka. It has eight ṛks. **NOTE** The seer of this sūkta is Vāmadeva; the deity is Savitṛ; the metre is Jagatī; the Anukramaṇī says तद्देवस्य सावित्रं तु जागतं (*taddevasya sāvitraṃ tu jāgataṃ*). In the sacrifice called Abhiplava, when the Vaiśvadeva śastra mantras are recited on the third day, this sūkta is applied for the nivid-sūkta of the deity Savitṛ; this is set out in the Āśvalāyana Śrauta Sūtra, in the sūtra तद्देवस्य धृतेन द्यावापृथिवी इति शिस्त्रः (*taddevasya dhṛtena dyāvāpṛthivī iti śistraḥ*) (Ā. 7-7). **NOTE**
+
+### Printed p. 553
+
+> सूक्त-५३
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५३ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—४ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—७ ॥
+> ॥ ऋषिः—वामदेवः ॥
+> ॥ देवता—सविता ॥
+> ॥ छंदः—जगती ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्दे॒वस्य॑ सवि॒तुर्वार्यं॑ म॒हद्वृ॑णी॒महे॒ असु॑रस्य॒ प्रचे॑तसः ।  
+> छ॒र्दिर्येन॑ दा॒शुषे॒ यच्छ॑ति॒ त्मना॒ तन्नो॑ म॒हा उद॑यान्दे॒वो अ॒क्तुभिः॑ ॥ १ ॥
+
+> *taddevasya saviturvāryaṃ mahadvṛṇīmahe asurasya pracetasaḥ |*  
+> *chardiryena dāśuṣe yacchati tmanā tanno mahā udayāndevo aktubhiḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । देवस्य । सवितुः । वार्यं । महत् । वृणीमहे । असुरस्य । प्रचेतसः ।  
+> छर्दिः । येन । दाशुषे । यच्छति । त्मना । तत् । नः । महान् । उत् । अयान् ।  
+> देवः । अक्तुभिः ॥ १ ॥
+
+> *tat | devasya | savituḥ | vāryaṃ | mahat | vṛṇīmahe | asurasya | pracetasaḥ |*  
+> *chardiḥ | yena | dāśuṣe | yacchati | tmanā | tat | naḥ | mahān | ut | ayān |*  
+> *devaḥ | aktubhiḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सवितुः प्रेरकस्य देवस्य वार्यं वरणीयं महत्पूज्यं तद्धनं वृणीमहे ।
+> प्रार्थयामः । असुरस्य । असुर्बलं । तद्वतः प्रचेतसः प्रकृष्टमतेः । देवस्यॆति
+> संबंधः । येन धनेन युक्तः सन् छर्दिः। गृहनामैतत् । गृहोपलक्षितं धनजातं
+> दाशुषे हनिर्दत्तवते यजमानाय त्मनात्मनैव यच्छति तच्छर्दिर्महान्देवः
+> सविताक्तुभी रात्रिभिः । एतदह्नामप्युपलक्षणं । सर्वैर्दिवसैः सर्वेषु दिवसेसु
+> नोऽस्माकमुदयान् । उद्यच्छतु । करोत्वित्यर्थः । यद्वा । छर्दिरिति तेजोनाम ।
+> तत्तेज उद्यच्छत्विति ॥
+
+##### Gist of the bhāṣya
+
+We choose, that is, we pray for, that great, venerable, desirable (वार्यं (*vāryaṃ*) = वरणीयं (*varaṇīyaṃ*)) wealth of the god Savitṛ, the impeller. असुरस्य (*asurasya*): *asuḥ* is strength; he possesses it. प्रचेतसः (*pracetasaḥ*): of excellent mind. The connection is with देवस्य (*devasya*). Endowed with which wealth he gives of himself (त्मना (*tmanā*)) to the sacrificer (दाशुषे (*dāśuṣe*)) who has given an oblation the छर्दिः (*chardiḥ*) — this is a name for "house", and means the wealth marked by a house — may that छर्दिः (*chardiḥ*), the great god Savitṛ, उदयान् (*udayān*) (उद्यच्छतु (*udyacchatu*), "bestow", "make for us") अक्तुभिः (*aktubhiḥ*), with the nights; this indicates the days also: on all days, for us. Or else छर्दिः (*chardiḥ*) is a name for radiance: may he bestow that radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—with which wealth, fully
+- दाशुषे (*dāśuṣe*)—to the sacrificer who gives oblations
+- त्मना (*tmanā*)—of his own pleasure
+- छर्दिः (*chardiḥ*)—riches such as the house
+- यच्छति (*yacchati*)—(Savitṛ)
+
 ---
 
-**Progress note:** Done through printed p. 547. pp. 541-547 (batch API)
+**Progress note:** Done through printed p. 553. pp. 548-553 (batch API)
