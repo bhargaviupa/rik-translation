@@ -1613,6 +1613,259 @@ In this Ṛk the final letters of the words विद्म (*vidma*) and अध
 
 O Indra, come to the place of sacrifice and drink this Soma of ours, which is गवाशिरं (*gavāśiraṃ*), mixed with milk products, and यवाशिरं (*yavāśiraṃ*), mixed with barley, pressed out with the stones. **NOTE**
 
+### Printed p. 45
+#### Ṛk 7
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- गवाशिरं (*gavāśiraṃ*)—that which is mixed with milk products
+- यवाशिरं (*yavāśiraṃ*)—that which is well prepared with barley grain
+- वृषभिः (*vṛṣabhiḥ*)—by the pressing stones
+- सुतं (*sutaṃ*)—and pressed
+- नः (*naḥ*)—our
+- इमं (*imaṃ*)—for this Soma-drinking
+- आगत्य (*āgatya*)—having come here
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come here and drink this Soma of ours, which is mixed with milk products, mixed with barley grain, and pressed by the pressing stones.
+
+##### English translation (H. H. Wilson)
+Having come (to our rite) drink, Indra, this our (libation), effused by the stones, and mixed with milk and curds and with barley.
+
+##### विशेषविषयगळु (Special Topics)
+
+वृषभीः सुतं (*vṛṣabhīḥ sutaṃ*) means ग्रावभिः अभिषुतं (*grāvabhiḥ abhiṣutaṃ*): the Soma juice taken out by crushing the Soma plants with stones. We have already explained the meaning of the words गवाशिरं (*gavāśiraṃ*) and यवाशिरं (*yavāśiraṃ*) in the special topics of the first Ṛk of this sūkta.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्येदिं॑द्र॒ स्व ओ॒क्ये॒३॒॑सोमं॑ चोदामि पी॒तये॑ ।  
+> ए॒ष रा॑रंतु ते हृ॒दि ॥ ८ ॥
+
+> *tubhyediṃdra sva okyesomaṃ codāmi pītaye |*  
+> *eṣa rāraṃtu te hṛdi ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुभ्य । इत् ! इंद्र । स्वे । ओक्ये । सोमं । चोदामि । पीतये ।  
+> एषः । ररंतु । ते । हृदि ॥ ८ ॥
+
+> *śubhya | it ! iṃdra | sve | okye | somaṃ | codāmi | pītaye |*  
+> *eṣaḥ | raraṃtu | te | hṛdi ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तुभ्येत्तुभ्यमेव पीतये पानार्थं स्वे स्वकीय ओक्ये स्थाने जठरेऽभिषुतमिमं सोमं चोदामि । प्रेरयामि । एष पीतः सोमस्ते तव हृदि
+> हृदये ररंतु । अत्यर्थं रमतां ॥ तुभ्य । युष्मच्छब्दस्य चतुर्थ्येकवचने तुभ्यमह्याविति तुभ्यादेशः । सुपां सुलुगिति सुपो लुक् । जयि चेत्याद्युदात्तः । ओक्ये ।
+
+##### Gist of the bhāṣya
+
+"O Indra, for you alone, for drinking, in your own abode, in the belly, I urge this pressed Soma." So Sāyaṇa glosses: चोदामि (*codāmi*) is "I impel". "May this Soma, once drunk, delight exceedingly in your heart" is his gloss of ररंतु (*raraṃtu*). The rest of the block, which begins with the word तुभ्य (*tubhya*), is grammatical.
+
+### Printed p. 46
+
+> वस्वादित्वात्स्वार्थिको यत्प त्ययः । तित्स्वरितः । चोदामि । चुद प्रेरणे । ण्यंतस्य
+> लटि रूपं । बहुलमन्यत्रापीति णेर्लुक् । निघातः । रारंतु । रमु क्रीडायामित्यस्य
+> यज् लुकि लोटि सर्वविधीनां छंदसि विकल्पितत्वादत्राभ्यासस्य नुमभावः। संहितायामान्येषामपीत्यभ्यासस्य दीर्घः । निघातः । हृदि । हृदयशब्दस्य पद्दन्नोमास्मृदित्यादिना हृदादेशः । ऊडिदमिति विभक्तेरुदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+This part of the block contains only grammatical analysis of the words ओक्ये (*okye*), चोदामि (*codāmi*), रारंतु (*rāraṃtu*) and हृदि (*hṛdi*) (affixes, elisions, accent); the Grammar section is not given here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तुभ्येत् (*tubhyet*)—with you alone in view
+- पीतये (*pītaye*)—for your drinking
+- स्वे (*sve*)—your own
+- ओक्ये (*okye*)—in the place that is the belly
+- सोमं (*somaṃ*)—this Soma
+- चोदामि (*codāmi*)—I offer
+- एषः (*eṣaḥ*)—this Soma
+- ते (*te*)—your
+- हृदि (*hṛdi*)—in the heart
+- ररंतु (*raraṃtu*)—let it cause delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with you alone in view, for your drinking, I offer this Soma in your own place, the belly. May this Soma cause delight in your heart.
+
+##### English translation (H. H. Wilson)
+I offer to you, Indra, this Soma juice for your drinking, to be taken into its proper receptacle ; may it delight your heart.
+
+##### विशेषविषयगळु (Special Topics)
+
+तुभ्य (*tubhya*) is तुभ्यं (*tubhyaṃ*); here the anusvāra has been dropped for the convenience of the metre. तुभ्य (*tubhya*) + इत् (*it*) = तुभ्येत् (*tubhyet*) means "for you alone".
+स्वे ओक्ये (*sve okye*): Yāska has given the etymological explanation ओक इति निवासनामोच्यते (*oka iti nivāsanāmocyate*), that is, that ओक (*oka*) is a name for a dwelling-place. Here स्वे ओक्ये (*sve okye*) means "in one's own dwelling-place", or "in one's own belly".
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां सु॒तस्य॑ पी॒तये॑ प्र॒त्नमिं॑द्र हवामहे ।  
+> कु॒शि॒कासो॑ अव॒स्यवः॑ ॥ ९ ॥
+
+> *tvāṃ sutasya pītaye pratnamiṃdra havāmahe |*  
+> *kuśikāso avasyavaḥ ‖ 9 ‖*
+
+### Printed p. 47
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । सुतस्य । पीतये । प्रत्नं । इंद्र । हनामहे ।  
+> कुतिकासः । अवस्यवः ॥ ९ ॥
+
+> *tvāṃ | sutasya | pītaye | pratnaṃ | iṃdra | hanāmahe |*  
+> *kutikāsaḥ | avasyavaḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अवस्यवस्त्वत्तो रक्षणमिच्छंतः कुशिकासः कुशिकगोत्रोत्पन्ना वयं
+> सुतस्य ग्रावभिरभिषुतस्य सोमस्य पीतये पानार्थं प्रश्नं पुरातनं त्वां हवामहे ।
+> स्तुतिलक्षणाभिर्गिर्भिराह्वयामः ॥ पीतये । स्थागापापचो भाव इति क्विन् । हिष्ठवत्सरतिशत्थांतानां । फि. १-७ । इत्यंतोदात्तत्वं । हवामहे । स्वयत्वेर्लटि बहुलं
+> छंदसीति संप्रसारणे रूपं । अवस्यवः । अव इच्छंतीत्यर्थे सुपः क्यच् । क्याछंदसीत्युप्रत्ययः । कुशिकासो अवस्यव इत्यत्र संहितायामव्यादवद्यादित्यादिना । पा.
+> ६ १-११६ । एजिः प्रकृतिभावः
+
+##### Gist of the bhāṣya
+
+"O Indra, we, born in the Kuśika lineage and desiring protection from you, invoke you, the ancient one, for the drinking of the Soma pressed with the stones; we call you with speech in the form of praise." कुशिकासः (*kuśikāsaḥ*) is explained as "born in the Kuśika gotra", अवस्यवः (*avasyavaḥ*) as "desiring protection", प्रत्नं (*pratnaṃ*) as "ancient", हवामहे (*havāmahe*) as "we call". The rest is grammatical.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अवस्यवः (*avasyavaḥ*)—we who desire to obtain your protection
+- कुशिकासः (*kuśikāsaḥ*)—and who are born in the Kuśika line
+- सुतस्य (*sutasya*)—of this pressed Soma juice
+- पीतये (*pītaye*)—for the drinking
+- प्रत्नं (*pratnaṃ*)—ancient
+- त्वां (*tvāṃ*)—you
+- हवामहे (*havāmahe*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who desire to obtain your protection and are born in the Kuśika line call you, the ancient one, with prayer, for the drinking of this pressed Soma juice.
+
+##### English translation (H. H. Wilson)
+Descendants of Kusha, desirous of protection, we invoke you, Indra, who are of old, to drink of the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रत्नं पुरातनं (*pratnaṃ purātanaṃ*). Since the word प्रत्न (*pratna*) is read among the names of "ancient", "ancient" means "existing from beginningless time".
+कुशिकासः (*kuśikāsaḥ*)—कुशिकगोत्रोत्पन्ना वयं (*kuśikagotrotpannā vayaṃ*): "we, born in the Kuśika gotra", says the seer Viśvāmitra. On the meaning of the word Kuśika Yāska says: कुशिकस्य सूनुः कुशिको राजा बभूव । क्रोशतेः शब्दकर्मणः । क्रंशतीर्वा स्यात्प्रकाशयति कर्मणः साधुविक्षोशयतार्थानामिति वा ॥ (*kuśikasya sūnuḥ kuśiko rājā babhūva | krośateḥ śabdakarmaṇaḥ | kraṃśatīrvā syātprakāśayati karmaṇaḥ sādhuvikṣośayatārthānāmiti vā ‖*) (Ni. 9-25)
+
+### Printed p. 48
+Thus he has given the etymological explanation. Kuśika was a king. His descendants are called Kuśikāḥ or Kuśikāsaḥ. The reason why this name came to this king is as follows: the word Kuśika is formed from the root क्रंशति (*kraṃśati*) and gives the sense "making sound". Making sound means uttering words and praising. Therefore the word Kuśikāḥ can also mean people such as priests who praise and recite mantras; or the word Kuśika can be explained as one who makes manifest, that is, who protects, sacrificial rites or the dharmas; or as one who gives artha, that is, wealth and the like, to good people. This is the opinion of the Nirukta authors. In the present Ṛk the word कुशिकासः (*kuśikāsaḥ*) means the seers such as Viśvāmitra, born in the Kuśika gotra.
+
+## Sūkta 43 (Maṇḍala 3)
+
+> आ याह्यर्वाज्यात्यष्टर्चं पंचमं सूक्तं वैश्वामित्रं त्रैष्टुभम्यंद्रं ।
+> आ याह्यष्टावित्यनुक्रमणिका ॥ दशरात्रे चतुर्थेऽहनि स्तोमवृद्दौ माध्यंदिने
+> सवनेऽच्छावाकशस्त्रे स्तोमाभिशंसनार्थमिदं सूक्तं। सूत्रितः च। आ याह्यर्वाज्यात्यष्टर्चान्यावपेरन् । आ ७. १२. । इति ॥ > महाव्रतेऽप्यावपनीयं ॥
+
+> *ā yāhyarvājyātyaṣṭarcaṃ paṃcamaṃ sūktaṃ vaiśvāmitraṃ traiṣṭubhamyaṃdraṃ |*
+> *ā yāhyaṣṭāvityanukramaṇikā ‖ daśarātre caturthe 'hani stomavṛddau mādhyaṃdine*
+> *savane 'cchāvākaśastre stomābhiśaṃsanārthamidaṃ sūktaṃ| sūtritaḥ ca| ā yāhyarvājyātyaṣṭarcānyāvaperan | ā 7. 12. | iti ‖ > mahāvrate 'pyāvapanīyaṃ ‖*
+
+##### Gist of the bhāṣya
+
+The fifth sūkta, of eight Ṛks, beginning आ याह्यर्वाज् (*ā yāhyarvāj*), is by Viśvāmitra, addressed to Indra, in the Triṣṭubh metre; the Anukramaṇikā says आ याह्यष्टावित्यनुक्रमणिका (*ā yāhyaṣṭāvityanukramaṇikā*). In the Daśarātra, on the fourth day, at the midday pressing, this sūkta is used in the Acchāvāka's śastra for the praise of the stomas, for increase of the stoma. It is also stated in the sūtra आ याह्यर्वाज्यात्यष्टर्चान्यावपेरन् (*ā yāhyarvājyātyaṣṭarcānyāvaperan*) (Ā. 7-12). It is also an insertion hymn in the Mahāvrata.
+
+##### Anuvāda
+
+The sūkta beginning आ याह्यर्वाज् (*ā yāhyarvāj*) is the fifth sūkta in the fourth anuvāka. It has eight Ṛks. The seer of this sūkta is Viśvāmitra; the deity is Indra; the metre is Triṣṭubh. In the Anukramaṇikā it is introduced with the words आ याह्यष्टौ (*ā yāhyaṣṭau*). In the sacrifice called Daśarātra, on the fourth day, at the midday pressing, for the increase of the stoma, this sūkta is applied (viniyoga) to the śastra mantras that serve the praise of the stoma, to be recited by the priest called Acchāvāka; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra आ याह्यर्वाजित्यष्टर्चान्यावपेरन् (*ā yāhyarvājityaṣṭarcānyāvaperan*) (Ā. 7-12). It is also applied in the sacrifice called Mahāvrata.
+
+Sūkta—43
+Maṇḍala 3; Anuvāka 4; Sūkta 43.
+Aṣṭaka 3; Adhyāya 3; Varga 7.
+Number of Ṛks in the sūkta—8.
+Seer: Viśvāmitra.
+Deity: Indra.
+Metre: Triṣṭubh.
+
+### Printed p. 49
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑ह्य॒र्वाजुप॑ वंधुरे॒ष्ठास्तवेदनु॑ प्र॒दिवः॑ सोम॒पेयं॑।  
+> प्रि॒या सखा॑या॒ वि मु॒चोप॑ ब॒र्हिस्ता मि॒मे ह॑व्य॒वाहो॑  
+> हवंते ॥ १ ॥
+
+> *ā yāhyarvājupa vaṃdhureṣṭhāstavedanu pradivaḥ somapeyaṃ|*  
+> *priyā sakhāyā vi mucopa barhistā mime havyavāho*  
+> *havaṃte ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । अर्वाज् । उप । वंधुरेऽस्थाः । तव । इत् । अनु । प्रदिवः । सोमपेयं ।  
+> प्रिया । सखाया । वि । मुच । उप । बर्हिः । त्वां । इमं । हव्यवाहः । हवंते ॥
+
+> *ā | yāhi | arvāj | upa | vaṃdhure 'sthāḥ | tava | it | anu | pradivaḥ | somapeyaṃ |*  
+> *priyā | sakhāyā | vi | muca | upa | barhiḥ | tvāṃ | imaṃ | havyavāhaḥ | havaṃte ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वंधुरेष्ठाः । वंधुरशब्देनेषाद्वयसंबंधस्थानमभिधीयते ।
+> तेन तद्विशिष्टो रथो लक्ष्यते । तस्मिन् रथे तिष्ठन् त्वमर्वाजिस्मदभिमुखः सन् आ
+> अभिलक्ष्योप याहि । समीप आगच्छ । प्रदिवः प्रश्नॆं पूर्वक्रमगतं तवेत्तवैव संबंधि
+> सोमपेयं सोमपानं त्वमनु उद्दिश्य प्रिया तव प्रियतम् सखाया समानख्यानावश्च बर्हिरुप बर्हिषः समीपॆ: वि मुच । विमुंच । हव्यवाहः । हव्यं
+> वहंतीति हव्यवाहः । इमे ऋत्विजस्तां हवंते । सोमपानार्थमाह्वयंति । तस्मादागच्छेति भावः ॥ वंधुरेष्ठाः । तिष्ठतेर्विच् । तत्पुरुषे कृति बहुलमिति सप्तम्या
+> अलुक् । प्रदिवः । सकारांतमव्ययं । सोमपेयं । पा पान इत्यस्य भावेऽचो
+> यदिति यत्पत्ययः । ईद्यतीतीत्वं । अर्धधातुकलक्षणो गुणः। यतोऽनाव इत्याद्युदात्तत्वं । समासे कृदुत्तरपदस्वरः । मुच । मंचतेर्लोट्यागमानुशासनसानित्यत्वान्नुमभावः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you who sit in the vandhura! The word vandhura denotes the place where the two shafts join; by it the chariot characterised by it is meant. Standing in that chariot, facing us, come near. Having in view, for your own Soma-drinking that is ancient, belonging to you alone from the earlier course, release your dear, companionable horses near the sacred grass. These oblation-carriers, the priests, call you for the drinking of Soma; therefore come: this is the sense." हव्यवाहः (*havyavāhaḥ*) is explained as "those who carry the oblation". The remainder gives the grammar of वंधुरेष्ठाः (*vaṃdhureṣṭhāḥ*), प्रदिवः (*pradivaḥ*), सोमपेयं (*somapeyaṃ*) and मुच (*muca*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) वंधुरेष्माः (*vaṃdhureṣmāḥ*)—seated in a chariot with an excellent seat
+- अर्वाज् (*arvāj*)—and facing us
+- आ उप याहि (*ā upa yāhi*)—be pleased to come near us
+- प्रदिवः (*pradivaḥ*)—offered from former times
+- तवेत् (*tavet*)—and intended for you alone
+- सोमपेयं अनु (*somapeyaṃ anu*)—for the Soma-drinking
+- प्रिया (*priyā*)—those dear to you
+- सखाया (*sakhāyā*)—and that are together
+- (the horses) बर्हिः उप (*barhiḥ upa*)—near the sacred-grass seats
+- वि मुंच (*vi muṃca*)—unharness and make stand
+- हव्यवाहः (*havyavāhaḥ*)—holding the oblation
+- इमे (*ime*)—these priests
+- त्वां (*tvāṃ*)—you
+- हवंते (*havaṃte*)—call
+
+### Printed p. 50
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, seated in a chariot with an excellent seat and facing us, be pleased to come near us. For the Soma-drinking that was offered before all else and is intended for you alone, unharness your dear and companionable horses near the sacred-grass seats and make them stand. These priests, who hold the oblation, call you.
+
+##### English translation (H. H. Wilson)
+Descend to us riding in your car, for verily yours is this ancient libation ; unharness your beloved and friendly (horses) near to the sacred grass, for these offerers of the oblation present it to you.
+
+##### विशेषविषयगळु (Special Topics)
+
+वंधुरेष्ठाः (*vaṃdhureṣṭhāḥ*)—The word वंधुर (*vaṃdhura*) is used as a synonym for the seat of a chariot. But since Sāyaṇa explains it as ईषाद्वयसंबंधस्थान (*īṣādvayasaṃbaṃdhasthāna*), here it can be taken to mean a chariot with a seat made by joining two shafts. Earlier, this word has been used in many places in describing the famous chariot of deities such as the Aśvins; it was explained earlier in places such as अधि वां स्थाम वंधुरे (*adhi vāṃ sthāma vaṃdhure*) (Ṛ. Saṃ. 1-139-4). In places such as रथो यो वां त्रिवंधुरः (*ratho yo vāṃ trivaṃdhuraḥ*) (Ṛ. Saṃ. 8-22-5) too, it means a chariot with three shafts. In the present place it must mean an excellent seat. "One seated in a chariot with an excellent seat" is an epithet of Indra.
+प्रदिवः (*pradivaḥ*)—प्रत्नं (*pratnaṃ*), प्रदिवः (*pradivaḥ*) (Ni. 3-19) are read among the names of "ancient". The Nirukta author quotes the Ṛk मरुत्वाइंद्र वृषभो (*marutvāiṃdra vṛṣabho*) and there explains this word as पूर्वेष्टपृहस्सु (*pūrveṣṭapṛhassu*). This means "just like the former days". The sense is that, just as the oblation has been offered from very ancient times, so it is offered even now.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑हि पू॒र्विरिति॑ चर्ष॒णीरा आ॒र्य आ॒शिष॒ उप॑ नो॒  
+> हरि॑भ्यां ।  
+> इ॒मा हि त्वा॑ म॒तयः॒ स्तोम॑तष्टा॒ इंद्र॒ हवं॑ते स॒ख्यं  ॒॑
+> जुषाणाः ॥ २ ॥
+
+> *ā yāhi pūrviriti carṣaṇīrā ārya āśiṣa upa no*  
+> *haribhyāṃ |*  
+> *imā hi tvā matayaḥ stomataṣṭā iṃdra havaṃte sakhyaṃ*  
+> *juṣāṇāḥ ‖ 2 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 44. pp. 39-44 (batch API)
+**Progress note:** Done through printed p. 50. pp. 45-50 (batch API, retry 1)

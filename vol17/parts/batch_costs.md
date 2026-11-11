@@ -44,3 +44,4 @@
 | w0268 pp. 268-273 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 15787 + cache write 0 + cache read 5183, out 9677 | $0.065 |
 | w0274 pp. 274-280 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 22347 + cache write 0 + cache read 5183, out 17418 | $0.110 |
 | w0033 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 20324, out 5227 | $0.106 |
+| w0045 retry 1 (gate failure) | claude-sonnet-5-5 direct | 1 request | in 23092, out 7016 | $0.117 |
