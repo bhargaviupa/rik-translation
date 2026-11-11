@@ -14892,6 +14892,296 @@ Let us quickly praise that same swift-going god Dadhikrā. And let us scatter fo
 - दुरितानि (*duritāni*)—sins
 - अति पर्षन् (*ati parṣan*)—may they destroy
 
+### Printed p. 383
+*Bhāvārtha (continued from the previous window)*
+
+##### भावार्थ (Bhāvārtha)
+
+Let us quickly praise that swift-moving god Dadhikrā. And from the heavenly world to the earth, let us spread food in the form of grass for this god, who has the form of a horse. May the Dawns, dispellers of darkness, protect for me the excellent fruits, and destroy all sins.
+
+##### English translation (H. H. Wilson)
+Verily we praise that swift Dadhikra and scatter (provender before him) from heaven and earth: may the gloom-dispelling dawns preserve for me (all good things), and bear me beyond all evils.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒ह श्च॑र्क॒र्म्यर्व॑तः क्रतु॒प्रा द॑धि॒क्राव्णः॑ पुरु॒वार॑स्य॒ वृष्णः॑ ।  
+> यं पू॒रुभ्यो॑ दीदि॒वांसं॒ नाग्निं द॒दथु॑र्मित्रावरुणा॒  ॑
+> ततुरिं ॥ २ ॥
+
+> *maha ścarkarmyarvataḥ kratuprā dadhikrāvṇaḥ puruvārasya vṛṣṇaḥ |*  
+> *yaṃ pūrubhyo dīdivāṃsaṃ nāgniṃ dadathurmitrāvaruṇā*  
+> *taturiṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । चर्कर्मि । अर्वतः । क्रतुप्राः । दधिक्राव्णः । पुरुवारस्य । वृष्णः ।  
+> यं । पूरुभ्यः । दीदिवांसं । न । अग्निं । ददथुः । मित्रावरुणा । ततुरिं ॥ २ ॥
+
+> *mahaḥ | carkarmi | arvataḥ | kratuprāḥ | dadhikrāvṇaḥ | puruvārasya | vṛṣṇaḥ |*  
+> *yaṃ | pūrubhyaḥ | dīdivāṃsaṃ | na | agniṃ | dadathuḥ | mitrāvaruṇā | taturiṃ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्रतुप्राः कर्मणां पूरकोऽहं महो महतोऽर्वतोऽरणवतः पुरुवारस्य बहुभिर्वर्णीयस्य वृष्णो वर्षकस्य दधिक्राव्णः स्तुतिं चर्कर्मि । अत्यर्थं
+> करोमि । हे मित्रावरुणा मित्रावरुणौ युवां ततुरिं तारकं यं दीदिवांसं
+> नाग्निं दीप्यमानमग्निमिव स्थितं पूरुभ्यो मनुष्येभ्यस्तेषामुपकाराय ददथुः ।
+> धारयथः ॥
+
+##### Gist of the bhāṣya
+
+"I, the fulfiller of rites (क्रतुप्राः (*kratuprāḥ*)), perform the praise of great (महः (*mahaḥ*)) Dadhikrāvan: the swift one (अर्वतः (*arvataḥ*), explained as 'possessing speed'), the one to be chosen by many (पुरुवारस्य (*puruvārasya*)), the showerer (वृष्णः (*vṛṣṇaḥ*))." चर्कर्मि (*carkarmi*) means "I do it exceedingly". "O Mitra and Varuṇa, you two have given (ददथुः (*dadathuḥ*), 'you hold') for the benefit of men (पूरुभ्यः (*pūrubhyaḥ*)) this saving one (ततुरिं (*taturiṃ*)), who stands shining like fire."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- ततुरिं (*taturiṃ*)—the protector
+- अग्निं न (*agniṃ na*)—like Agni
+- दीदिवांसं (*dīdivāṃsaṃ*)—the resplendent
+- यं (*yaṃ*)—which deity Dadhikrā
+- पूरुभ्यः (*pūrubhyaḥ*)—for the benefit of many men (continued on the next page)
+
+### Printed p. 384
+- ददथुः (*dadathuḥ*)—you have provided; such a one
+- महधः (*mahadhaḥ*)—the great
+- अर्वतः (*arvataḥ*)—of moving nature
+- पुरुवारस्य (*puruvārasya*)—desired by many
+- वृष्टिः (*vṛṣṭiḥ*)—the showerer of desires
+- दधिक्राव्णः (*dadhikrāvṇaḥ*)—of the deity Dadhikrā, the praise
+- क्रतुप्राः (*kratuprāḥ*)—I, the protector of rites
+- चर्कर्मि (*carkarmi*)—perform
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the god Dadhikrā, the protector, resplendent like Agni, whom you have provided for the benefit of many men—I, the protector of rites, perform the praise of that great, swift-moving god Dadhikrā, desired by many and the showerer of desires.
+
+##### English translation (H. H. Wilson)
+Fulfiller of religious rites, I reiterate the praise of the great Dadhikra, the liberal, many-honoured showerer (of benifits,) whom Mitra and Varuna gave for the good of many, the transporter (beyond calamity), as brilliant as Agni.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अश्व॑स्य दधि॒क्राव्णो॒ अका॑री॒त्समि॑द्दे अ॒ग्ना उ॒षसो॒  ॑
+> वृष्टौ ।  
+> अना॑गसं॒ तमदि॑तिः कृणोतु॒ स मि॒त्रेण॒ वरु॑णेना स॒जोषाः॑ ॥
+
+> *yo aśvasya dadhikrāvṇo akārītsamidde agnā uṣaso*  
+> *vṛṣṭau |*  
+> *anāgasaṃ tamaditiḥ kṛṇotu sa mitreṇa varuṇenā sajoṣāḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अश्वस्य । दधिक्राव्णः । अकारीत् । संइद्दे । अग्नौ । उषसः । विउष्टौ ।  
+> अनागसं । तं । अदितिः । कृणोतु । सः । मित्रेण । वरुणेन । सजोषाः ॥ ३ ॥
+
+> *yaḥ | aśvasya | dadhikrāvṇaḥ | akārīt | saṃidde | agnau | uṣasaḥ | viuṣṭau |*  
+> *anāgasaṃ | taṃ | aditiḥ | kṛṇotu | saḥ | mitreṇa | varuṇena | sajoṣāḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानोऽश्वस्याश्वरूपस्य व्याप्तस्य वा दधिक्राव्णः स्तुतिमुषसो
+> वृष्टौ प्रभाते सत्यग्नौ समिद्धे सत्यकारीत् । अकार्षित् । मित्रेण वरुणेन
+> चाहोरात्राभिमानिदेवाभ्यां सजोषाः समानप्रीतिरदितिरखंडनीयो दधिक्रास्तं
+> यजमानमनागसं कृणोतु । करोतु ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who, at the dawn's brightening (व्युष्टौ (*vyuṣṭau*)), when the fire is kindled, has performed the praise of Dadhikrāvan, the horse-formed or all-pervading, that sacrificer—may Aditi, the unbreakable Dadhikrā, in common delight (सजोषाः (*sajoṣāḥ*)) with Mitra and Varuṇa, the deities presiding over day and night, make free from sin.
+
+### Printed p. 385
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which sacrificer
+- अश्वस्य (*aśvasya*)—of the pervading and horse-formed
+- दधिक्राव्णः (*dadhikrāvṇaḥ*)—of the deity Dadhikrā, the praise
+- उषसः व्युष्टौ (*uṣasaḥ vyuṣṭau*)—at the time of the dawn's rising
+- अग्नौ समिद्धे (*agnau samiddhe*)—when the fire is kindled
+- आकारीत् (*ākārīt*)—performs; (such a one)
+- तं (*taṃ*)—that sacrificer
+- मित्रेण (*mitreṇa*)—with Mitra
+- वरुणेन (*varuṇena*)—with Varuṇa
+- सजोषाः (*sajoṣāḥ*)—of equal affection
+- अदितिः (*aditiḥ*)—the indivisible god Dadhikrā
+- अनागसं (*anāgasaṃ*)—sinless
+- कृणोतु (*kṛṇotu*)—may he make
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who performs the praise of the pervading, horse-formed deity Dadhikrā at the time of the Dawn's appearance, when the fire has blazed up—may the god Dadhikrā, of equal affection with Mitra and Varuṇa and indivisible, make that sacrificer free from sin.
+
+##### English translation (H. H. Wilson)
+May Aditi, consenting with Mitra and Varuna, render him free from sin who has performed the worship of the steed Dadhikra, when the fire has been kindled at the opening of the dawn.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒धि॒क्राव्न॑ इ॒ष ऊ॒र्जो म॒हो यदम॑न्महि म॒रुतां॒ नाम॑  ॒
+> भद्रं ।  
+> स्व॒स्तये॒ वरु॑णं मि॒त्रम॒ग्निं हवा॑मह॒ इंद्रं॒ वज्र॑बाहुं ॥
+
+> *dadhikrāvna iṣa ūrjo maho yadamanmahi marutāṃ nāma*  
+> *bhadraṃ |*  
+> *svastaye varuṇaṃ mitramagniṃ havāmaha iṃdraṃ vajrabāhuṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधिक्राव्नः । इषः । ऊर्जः । महः । यत् । अमन्महि । मरुतां । नाम । भद्रं ।  
+> स्वस्तये । वरुणं । मित्रं । अग्निं । हवामहे । इंद्रं । वज्रबाहुं ॥ ४ ॥
+
+> *dadhikrāvnaḥ | iṣaḥ | ūrjaḥ | mahaḥ | yat | amanmahi | marutāṃ | nāma | bhadraṃ |*  
+> *svastaye | varuṇaṃ | mitraṃ | agniṃ | havāmahe | iṃdraṃ | vajrabāhuṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 386
+
+> इषोऽन्नसाधकस्योर्जो बलसाधकस्य महो महतो दधिक्राव्यो देवस्य
+> मरुतां स्तोतृणां स्वभूतं भद्रं कल्याणं नाम नामरूपमस्ति यत्तदमन्महि ।
+> स्तुमः । किंचात्र निपातभाजो वरुणादींश्च स्वस्तये क्षेमाय हवामहे ॥
+
+##### Gist of the bhāṣya
+
+There is a name (नाम (*nāma*)) of the great god Dadhikrāvan—he who brings about food (इषः (*iṣaḥ*)) and brings about strength (ऊर्जः (*ūrjaḥ*))—a name that is auspicious (भद्रं (*bhadraṃ*), "beneficial") and belongs to the Maruts, that is, the praisers. That we praise (अमन्महि (*amanmahi*)). And further, here we also call Varuṇa and the others, who share in the particle, for our welfare (स्वस्तये (*svastaye*), "for well-being").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इषः (*iṣaḥ*)—the accomplisher of food
+- ऊर्जः (*ūrjaḥ*)—the accomplisher of strength
+- महः (*mahaḥ*)—the great
+- दधिक्राव्णः (*dadhikrāvṇaḥ*)—of the deity Dadhikrā
+- मरुतां (*marutāṃ*)—for the praisers
+- भद्रं (*bhadraṃ*)—auspicious
+- नाम (*nāma*)—names and forms
+- यत् (*yat*)—whichever there are (those)
+- अमन्महि (*amanmahi*)—let us praise
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- मित्रं (*mitraṃ*)—Mitra
+- अग्निं (*agniṃ*)—Agni
+- वज्रबाहुं (*vajrabāhuṃ*)—the thunderbolt-armed
+- इंद्रं (*iṃdraṃ*)—Indra
+- स्वस्तये (*svastaye*)—for our welfare
+- हवामहे (*havāmahe*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+Let us praise whatever auspicious names and forms there are of the praisers' god Dadhikrā, the accomplisher of food, the accomplisher of strength, the great one. And we also pray to and call upon Varuṇa, Mitra, Agni and Indra, the thunderbolt-armed, for our welfare.
+
+##### English translation (H. H. Wilson)
+Whilst we glorify the name of the great Dadhikra, the means of sustenance and of strength, the prosperity of those who praise (him), let us invoke (also) for our welfare Varuna, Mitra, Agni, and Indra, the bearer of the thunderbolt.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑मि॒वेदु॒भये॒ वि ह्व॑यंत उ॒दीरा॑णा य॒ज्ञमु॑पप्र॒यंतः॑ ।  
+> द॒धि॒क्रामु॒ सूद॑नं॒ मर्त्या॑य द॒दथु॑र्मित्रावरुणा नो॒  ॑
+> अश्वं ॥ ५ ॥
+
+> *iṃdramivedubhaye vi hvayaṃta udīrāṇā yajñamupaprayaṃtaḥ |*  
+> *dadhikrāmu sūdanaṃ martyāya dadathurmitrāvaruṇā no*  
+> *aśvaṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रऽइव । इत् । उभये । वि । ह्वयंते । उत्ईराणः । यज्ञं । उपप्रयंतः।  
+> दधिक्रां । ऊं इति । सूदनं । मर्त्याय । ददथुः । मित्रावरुणा । नः । अश्वं ॥ ५ ॥
+
+> *iṃdra 'iva | it | ubhaye | vi | hvayaṃte | utīrāṇaḥ | yajñaṃ | upaprayaṃtaḥ|*  
+> *dadhikrāṃ | ūṃ iti | sūdanaṃ | martyāya | dadathuḥ | mitrāvaruṇā | naḥ | aśvaṃ ‖ 5 ‖*
+
+### Printed p. 387
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रमिवैनं दधिक्रामुदीराणा युद्धायोद्योग्यं कुर्वंतो यज्ञमुपप्रयंतो यज्ञमुपक्रम्य प्रवर्तमानाश्चोभये वि ह्वयंते । आह्वयंति ।
+> यं मर्त्याय मर्त्यस्य सूदनं प्रेरकमश्वमश्वरूपं दधिक्रां देवं हे मित्रावरुणा नोऽस्माकमर्थाय ददथुः । धारयथः । तं विह्वयंते । उभय इत्यत्र
+> स्तोतृशंसितृभेदेन वोभयविधत्वमवगंतव्यं ॥
+
+##### Gist of the bhāṣya
+
+Both groups call upon this Dadhikrā as they would Indra: those who are setting out (उदीराणा (*udīrāṇā*)) and making themselves ready for battle, and those who are proceeding (उपप्रयंतः (*upaprayaṃtaḥ*)) after beginning the sacrifice. This Dadhikrā, the horse-formed god, the impeller (सूदनं (*sūdanaṃ*)) of mortal man, O Mitra and Varuṇa, you have given (ददथुः (*dadathuḥ*), "you hold") for our sake; him they call. As for उभये (*ubhaye*) ("both"), the twofold division is to be understood as the difference between praisers (स्तोतृ (*stotṛ*)) and reciters (शंसितृ (*śaṃsitṛ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- मर्त्याय (*martyāya*)—for man
+- सूदनं (*sūdanaṃ*)—the impeller
+- अश्वं (*aśvaṃ*)—the horse-formed
+- दधिक्रां (*dadhikrāṃ*)—(which) god Dadhikrā
+- नः (*naḥ*)—for our welfare
+- ददथुः (*dadathuḥ*)—you have held (or: provided for us); such a god Dadhikrā
+- उदीराणाः (*udīrāṇāḥ*)—those who are setting out for battle (and likewise)
+- यज्ञं (*yajñaṃ*)—for carrying out the sacrifice
+- उप प्रयंतः (*upa prayaṃtaḥ*)—those who are striving
+- उभये (*ubhaye*)—both these groups, who have these two endeavours
+- इंद्रं इव (*iṃdraṃ iva*)—as they would Indra
+- वि ह्वयंते (*vi hvayaṃte*)—they invoke
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, that god Dadhikrā, the impeller of man, horse-formed, whom you have held for our welfare—him those who are setting out for battle and those who are striving to carry out the sacrifice, both these groups, invoke as they would Indra.
+
+##### English translation (H. H. Wilson)
+Those who are preparing for battle, those who are proceeding to sacrifice, both invoke (Dadhikra) as if (he was) Indra : Mitra and Varuna have given to us the horse Dadhikra as an encourager to man.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒धि॒क्राव्णो॑ अकारिषं जि॒ष्णोरश्व॑स्य वा॒जिनः॑ ।  
+> सु॒र॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूं॑षि तारिषत् ॥ ६ ॥
+
+> *dadhikrāvṇo akāriṣaṃ jiṣṇoraśvasya vājinaḥ |*  
+> *surabhi no mukhā karatpra ṇa āyūṃṣi tāriṣat ‖ 6 ‖*
+
+### Printed p. 388
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधिक्राष्णः । अकारिषं । जिष्णोः । अश्वस्य । वाजिनः ।  
+> सुरभि । नः । मुखा । करत् । प्र । नः । आयूंषि । तारिषत् ॥ ६ ॥
+
+> *dadhikrāṣṇaḥ | akāriṣaṃ | jiṣṇoḥ | aśvasya | vājinaḥ |*  
+> *surabhi | naḥ | mukhā | karat | pra | naḥ | āyūṃṣi | tāriṣat ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दधिक्राव्णो आकारिसमिति षष्ठी पवित्रेष्ट्या अनुवाक्या । सूत्रितं च । दधिक्राव्णो
+> अकारिसमा दधिक्राः शवसा पंच कृष्णीः । आ. २-१२ । इति ॥ दधिद्रप्सभक्षणेऽप्येषा ।
+> दधिक्राव्णो अकारिसमित्याग्नीध्रीये दधिद्रप्सान् भक्षयंति । अ. ६-१२ । इति सूत्रितत्वात् ॥
+> दधिक्राव्णो देवस्य स्तुतिमकारिषं । करवाणि । जिष्णोर्जयशीलस्याश्वस्य
+> व्यापकस्य वाजिनो वेगवतः । स देवो नोऽस्माकं मुखा मुखानि चक्षुरादींद्रियाणि सुरभि सुरभीणि करत् । करोतु । नोऽस्मभ्यमायूंषि प्रतारिषत् । प्रवर्धयतु । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥
+
+##### Gist of the bhāṣya
+
+The sixth verse, दधिक्राव्णो अकारिषं (*dadhikrāvṇo akāriṣaṃ*), is the anuvākyā of the Pavitreṣṭi. It is laid down in the sūtra: दधिक्राव्णो अकारिसमा दधिक्राः शवसा पंच कृष्णीः (*dadhikrāvṇo akārisamā dadhikrāḥ śavasā paṃca kṛṣṇīḥ*) (Ā. 2-12). It is also used at the drinking of the curd-drops (दधिद्रप्स (*dadhidrapsa*)), since this is so prescribed in the sūtra: दधिक्राव्णो अकारिसमित्याग्नीध्रीये दधिद्रप्सान् भक्षयंति (*dadhikrāvṇo akārisamityāgnīdhrīye dadhidrapsān bhakṣayaṃti*) (A. 6-12) **NOTE**. "I have made (अकारिषं (*akāriṣaṃ*)) praise of the god Dadhikrāvan, the victorious (जिष्णोः (*jiṣṇoḥ*)), the horse (अश्वस्य (*aśvasya*), "pervading"), the swift (वाजिनः (*vājinaḥ*), "possessing speed"). May that god make fragrant our mouths (मुखा (*mukhā*)), that is, the sense-organs beginning with the eye, and may he lengthen (प्रतारिषत् (*pratāriṣat*), "increase") our lives (आयूंषि (*āyūṃṣi*)); the root तिर (*tira*) with प्र (*pra*) has the sense of increasing."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जिष्णोः (*jiṣṇoḥ*)—the victorious
+- अश्वस्य (*aśvasya*)—the pervading
+- वाजिनः (*vājinaḥ*)—the swift
+- दधिक्राव्णः (*dadhikrāvṇaḥ*)—of the deity Dadhikrā, the praise
+- अकारिषं (*akāriṣaṃ*)—I have made; (that god)
+- नः (*naḥ*)—our
+- मुखा (*mukhā*)—mouths (the sense-organs beginning with the eye)
+- सुरभि (*surabhi*)—so as to be fragrant
+- करत् (*karat*)—may he make
+- नः (*naḥ*)—our
+- आयूंषि (*āyūṃṣi*)—lives
+- प्र कारिषत् (*pra kāriṣat*)—may he cause to increase
+
+##### भावार्थ (Bhāvārtha)
+
+I have made the praise of the god Dadhikrā, victorious, all-pervading and swift. May that god make our mouths fragrant. May he cause our lives to increase.
+
+##### English translation (H. H. Wilson)
+I have celebrated the praise of Dadhikra, the rapid and victorious steed : may he make our mouths fragrant, may he prolong our lives.
+
 ---
 
-**Progress note:** Done through printed p. 382. pp. 377-382 (batch API)
+**Progress note:** Done through printed p. 388. pp. 383-388 (batch API)
