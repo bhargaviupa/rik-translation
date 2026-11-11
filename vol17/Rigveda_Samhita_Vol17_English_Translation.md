@@ -19644,6 +19644,165 @@ In the morning pressing of the Agniṣṭoma sacrifice, when the priest called M
 
 गव्यूतिं (*gavyūtiṃ*)—For this word, गवां मार्गं गोनिवासस्थानं (*gavāṃ mārgaṃ gonivāsasthānaṃ*): the meaning is the path on which cows move, or the dwelling place of cows. In गावो न गव्यूतीः (*gāvo na gavyūtīḥ*) (1-25-16), where
 
+### Printed p. 652
+the word *gavyūti* is explained as *goṣṭha*, that is, a cattle-shed. Any cattle-shed filled with grass dear to the cow, any pasture, or any path filled with grass, can all be denoted by the word *gavyūti*.
+
+In passages such as प्र बाहवा सिसृतं जीवसे न आ नो गव्यूतिमुक्षतं धृतेन । (*pra bāhavā sisṛtaṃ jīvase na ā no gavyūtimukṣataṃ dhṛtena |*) (Ṛ. Saṃ. 7-62-5) and आ नो मित्रावरुणा हव्यजुष्टिं धृतैर्गव्यूतिमुक्षतमिळाभिः ॥ (*ā no mitrāvaruṇā havyajuṣṭiṃ dhṛtairgavyūtimukṣatamiḷābhiḥ ‖*) (Ṛ. Saṃ. 7-65-4), just as in the present Ṛk, Mitra and Varuṇa are addressed with one and the same prayer: *ghṛtaiḥ gavyūtiṃ ukṣatām*. Sāyaṇa has explained *gavyūti* as the path along which cows go, that is, the land of the cows' passage.
+
+In all these contexts the word *ghṛta* means water. Just as the meaning "water" is given for the word *ghṛta* in passages such as तृतीयो भ्राता धृतपृष्ठः (*tṛtīyo bhrātā dhṛtapṛṣṭhaḥ*) (1-164-1), here too it must be taken as water. In the Nirukta also the word *ghṛta* is read among the names of water (Ni. 2-24). The prayer to Mitra and Varuṇa is: as you cause abundance of grass for our cows, make the region where they graze fertile with water.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रु॒शंसा॑ नमो॒वृधा॑ म॒ह्ना दक्ष॑स्य राजथः ।  
+> द्राघि॑ष्ठाभिः शुचिव्रता ॥ १७ ॥
+
+> *uruśaṃsā namovṛdhā mahnā dakṣasya rājathaḥ |*  
+> *drāghiṣṭhābhiḥ śucivratā ‖ 17 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुशंसा । नमःवृधा । मह्ना । दक्षस्य । राजथः ।  
+> द्राघिष्ठाभिः । शुचिव्रता ॥ १७ ॥
+
+> *uruśaṃsā | namaḥvṛdhā | mahnā | dakṣasya | rājathaḥ |*  
+> *drāghiṣṭhābhiḥ | śucivratā ‖ 17 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुचिव्रता परिशुद्धकर्माणौ हे मित्रावरुणावुरुशंसा उरुभिर्बहुभिः शंसनीयौ । यद्वा । उरु महच्छंसः शस्त्रं ययोस्तौ । नमोवृधा नमसा हविर्लक्षणे-
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, whose rites are pure (*śucivratā*), you are *uruśaṃsā*: to be praised by many (*uru*, "many"). Or else: you are those who have a great (*uru*) *śaṃsa*, that is, a *śastra* (recitation). You are *namovṛdhā*: growing by *namas*, which is the offering as food, or by the *stotra*. (The block breaks off here; Sāyaṇa's sentence goes on in the next block.)
+
+### Printed p. 653
+
+> नान्नेन स्तोत्रेण वा वर्धमानौ द्राघिष्ठाभिरत्यंतं दीर्घस्तुतिलक्षणाभिर्वाग्निर्युक्तौ युवां दक्षस्य । दक्षं धनं बलं वा । तस्य महत्वेन राजथः । ईशाथे ॥
+> उरुशंसा । शन्नु स्तुता । कर्मणि घञ् । कृत्स्वरः । द्राघिष्ठाभिः । दीर्घशब्दादिष्ठनि
+> प्रियस्थिरेत्यादिना द्राघीत्यादेशः । नित्त्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing:) you are *namovṛdhā*, growing by food or by praise. You are joined with exceedingly long praises (*drāghiṣṭhābhiḥ*, from *dīrgha*). *Dakṣa* is wealth or strength; by the greatness of that you rule (*rājathaḥ*), that is, you exercise lordship.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitra and Varuṇa) शुचिव्रता (*śucivratā*)—those whose rites are pure
+- उरुशंसा (*uruśaṃsā*)—praised by many
+- नमोवृधा (*namovṛdhā*)—those who grow by the oblation
+- द्राघिष्ठाभिः (*drāghiṣṭhābhiḥ*)—you who are endowed with long praise
+- दक्षस्य (*dakṣasya*)—of strength and wealth
+- मह्ना (*mahnā*)—by the abundance
+- राजथः (*rājathaḥ*)—you shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you whose rites are pure, who are praised by many, who grow by the oblation, and who are endowed with long praise, you shine through the abundance of your strength and wealth.
+
+##### English translation (H. H. Wilson)
+Performers of pure rites, glorified by many, exalted by adoration, (celebrated) by prolonged praises, you reign by the greatness of (your) strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+नमोवृधा— नमसा हविर्लक्षणेन अन्नेन स्तोत्रेण वा वर्धमानौ । (*namovṛdhā— namasā havirlakṣaṇena annena stotreṇa vā vardhamānau |*) The word *namas* has two meanings, food and praise. Hence it means either those who grow by food or those who grow by praise.
+
+दक्षस्य महत्वेन राजथः । (*dakṣasya mahatvena rājathaḥ |*) The word *dakṣa* can be given the two meanings wealth or strength. Or else the name *Dakṣa*, the father of Mitra and Varuṇa, may be what is intended. The meaning is that they shine through the greatness of wealth, or the greatness of strength, or the greatness of Dakṣa their father. If *dakṣa* is taken as strength or wealth, then Mitra and Varuṇa themselves become the fathers of *dakṣa*, as in धारयंत देवाः सुदक्षा दक्षपितरा । असुराय प्रमहसा ॥ (*dhārayaṃta devāḥ sudakṣā dakṣapitarā | asurāya pramahasā ‖*) (Ṛ. Saṃ. 7-66-2). **NOTE**
+
+### Printed p. 654
+In passages like this Mitra and Varuṇa are described as protectors of strength. Moreover, it was explained earlier that the combined power of the two words *kratu* and *dakṣa* shows all the powers of Mitra and Varuṇa. For that very reason they are praised with epithets such as *śucivratā* and *uruśaṃsā*.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गृ॒णा॒ना ज॒मद॑ग्निना॒ योना॑वृ॒तस्य॑ सीदतं ।  
+> पा॒तं सोम॑मृतावृधा ॥ १८ ॥
+
+> *gṛṇānā jamadagninā yonāvṛtasya sīdataṃ |*  
+> *pātaṃ somamṛtāvṛdhā ‖ 18 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गृहाना । जमत् अग्निना । योन् । यतस्य । सीदतं ।  
+> पातं । सोमं । ऋत्यवृधा ॥ १८ ॥
+
+> *gṛhānā | jamat agninā | yon | yatasya | sīdataṃ |*  
+> *pātaṃ | somaṃ | ṛtyavṛdhā ‖ 18 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मैत्रावरुणस्य ग्रहस्य याज्या गृणाना जमदग्निनेत्येषा । सूत्रितं च । होता
+> यक्षन्मित्रावरुणा गृणाना जमदग्निना । आ. ५-५ । इति ॥ अध्यायोपाकरणे मंडलाद्यंतहोमे गृणाना जमदग्निनेत्येषा । आ. गृ. ३-५ ॥
+> हे मित्रावरुणौ जमदग्निनैतन्नामकेन महर्षिणा गृणाना स्तूयमानौ
+> यद्वा । जमदग्निना प्रज्वलिताग्नि ना विश्वामित्रेण स्तूयमानौ युवामृतस्य यज्ञस्य
+> योन् देवयजनाख्यॆ देशे सीदतं । उपविशतं । ऋतावृधा ऋतस्य कर्मफलस्य
+> वर्धयितारौ युवां सोमं पातं । पिबतं ॥ गृणाना । गृ शब्दे । व्यत्ययेन
+> कर्मणि शानच् । चित्वादंतोदात्तः । सीदतं । सदेर्लोटि प्राघ्रेत्यादिना सीदादेशः । पातं । पा पाने । बहुलं छंदसीति शपो लुक् ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk, गृणाना जमदग्निना (*gṛṇānā jamadagninā*), is the yājyā of the Maitrāvaruṇa graha. It is prescribed in the sūtra: होता यक्षन्मित्रावरुणा गृणाना जमदग्निना (*hotā yakṣanmitrāvaruṇā gṛṇānā jamadagninā*) (Ā. 5-5). At the *adhyāyopākaraṇa*, in the homa at the end of a maṇḍala, this Ṛk is also used (Ā. Gṛ. 3-5). **NOTE**
+
+O Mitra and Varuṇa, you who are praised (*gṛṇānā*) by the great seer named Jamadagni. Or else: *jamadagni* is "he by whom fire is kindled", that is, Viśvāmitra, by whom you are praised. Sit (*sīdatam*), take your seat, in the place of the *yajña* (*ṛta*), the region called the place of divine worship (*devayajana*). You who augment (*ṛtāvṛdhā*) the *ṛta*, that is, the fruit of the rite, drink (*pātam*) the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitra and Varuṇa) जमदग्निना (*jamadagninā*)—by the seer Jamadagni
+- गृणाना (*gṛṇānā*)—you who are praised
+- यतस्य (*yatasya*)—of the sacrifice
+- योन् (*yon*)—in the place of the altar
+- सीदतं (*sīdataṃ*)—sit down
+- यतावृधा (*yatāvṛdhā*)—you who augment the sacrifice
+- सोमं (*somaṃ*)—the Soma
+- पातं (*pātaṃ*)—drink
+
+### Printed p. 655
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, praised by Jamadagni, sit on this sacrificial altar, and as augmenters of the sacrifice drink the Soma.
+
+##### English translation (H. H. Wilson)
+Glorified by Jamadagni, sit down in the place of sacrifice (the altar); drink, augmenters (of the reward) of sacrifice, the Soma libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk गृणाना जमदग्निना (*gṛṇānā jamadagninā*) is to be recited as the yājyā mantra of the Maitrāvaruṇa graha is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, होता यक्षन्मित्रावरुणा गृणाना जमदग्निना (*hotā yakṣanmitrāvaruṇā gṛṇānā jamadagninā*) (Ā. 5-5). And that, at the *adhyāyopākaraṇa*, the Ṛk गृणाना जमदग्निना (*gṛṇānā jamadagninā*) is to be recited as a homa mantra at the end of the maṇḍala is explained by the sūtra of the Āśvalāyana Gṛhya Sūtra गृणाना जमदग्निना (*gṛṇānā jamadagninā*) (Ā. Gṛ. 3-5-6).
+
+एतन्नामकेन महर्षिणा स्तूयमानौ । यद्वा । जमदग्निना प्रज्वलिताग्निना विश्वामित्रेण स्तूयमानौ । (*etannāmakena maharṣiṇā stūyamānau | yadvā | jamadagninā prajvalitāgninā viśvāmitreṇa stūyamānau |*) One meaning is: Mitra and Varuṇa praised by the great seer named Jamadagni. Or, if the word *jamadagni* is taken as "kindled fire", it means Viśvāmitra, who kindled the fire for the sacrifice; the other meaning is then Mitra and Varuṇa praised by such a Viśvāmitra. Thus Sāyaṇa has given two kinds of explanation. To say that the seer is named Jamadagni is the proper course.
+
+The great seer Jamadagni was an intimate friend of Viśvāmitra. In the Ṛgveda, these hymns are famed as composed by Jamadagni: 3-62-16 to 18; 8-101; 9-62; 9-65; 9-67-16 to 18; 10-110; 10-137-6; 10-167. He is the son of Bhṛgu, and so is known as Jamadagni Bhārgava. In many places he states his own praise openly with the words गृणानो जमदग्निना (*gṛṇāno jamadagninā*) (Ṛ. Saṃ. 9-62-24; 9-65-25, etc.).
+
+In प्रसूतो भक्षमकरं चरावपि स्तोमं चेमं प्रथमः सूरिरुन्मृजे । सुते सातेन यद्यागमं नां प्रति विश्वामित्रजमदग्नी दमे ॥ (*prasūto bhakṣamakaraṃ carāvapi stomaṃ cemaṃ prathamaḥ sūrirunmṛje | sute sātena yadyāgamaṃ nāṃ prati viśvāmitrajamadagnī dame ‖*) (Ṛ. Saṃ. 10-167-4), Indra addresses Viśvāmitra and Jamadagni together and shows his favour. This companionship is described in many places. That the two were able to contend with Vasiṣṭha is also well known in the Saṃhitās and other works.
+
+### Printed p. 656
+विश्वामित्रजमदग्नी वसिष्ठेनास्पर्धेताग्ं स एतज्जव दग्निर्विहव्यमपश्यत्तेन वै स वसिष्ठस्येंद्रियं वीर्यमवृंक्त ॥ (*viśvāmitrajamadagnī vasiṣṭhenāspardhetāgṃ sa etajjava dagnirvihavyamapaśyattena vai sa vasiṣṭhasyeṃdriyaṃ vīryamavṛṃkta ‖*) (Tai. Saṃ. 3-1-7-3). While Viśvāmitra and Jamadagni were both contending with Vasiṣṭha, Jamadagni received the vision of the Vihavya hymn, which begins with the mantra ममाग्ने वर्चो विहवेष्टस्तु वयं तैंधानास्तन्वं पुषेम (*mamāgne varco vihaveṣṭastu vayaṃ taiṃdhānāstanvaṃ puṣema*) (Ṛ. Saṃ. 10-128). With its help he took all of Vasiṣṭha's power for himself; this is told in story form in the Taittirīya Saṃhitā. In the Bṛhaddevatā another historical occasion of the same kind is stated thus:
+
+सुदासश्च महायज्ञे शक्तिना गाथिसूनवे । निगृहीतं बलाच्चेतः सोऽवसीदद्विचेतनः । तस्मै ब्राह्मीं तु सौरीं वा नाम्ना वाचं ससर्परीं । सूर्यक्षयादिहाहृत्य वदुस्ते जमदग यः । कुशिकानां ततः सा नागमुतिं तामपाहनत् ॥ (*sudāsaśca mahāyajñe śaktinā gāthisūnave | nigṛhītaṃ balāccetaḥ so 'vasīdadvicetanaḥ | tasmai brāhmīṃ tu saurīṃ vā nāmnā vācaṃ sasarparīṃ | sūryakṣayādihāhṛtya vaduste jamadaga yaḥ | kuśikānāṃ tataḥ sā nāgamutiṃ tāmapāhanat ‖*) (Bṛ. De. 4-112 to 114).
+
+At the great sacrifice of Sudās, the son of Gādhi (Viśvāmitra), struck by Śakti, the son of Vasiṣṭha, fainted and fell to the ground bereft of consciousness. Then Jamadagni provided the help of the speech named Sasarparī, the daughter of the Sun (or of Brahmā). That goddess of speech removed the faint of the son of Kuśika and made consciousness return to him. This occasion is indicated in the Ṛgveda in Ṛks such as
+
+ससर्परीरमतिं बाधमाना बृहन्दि माय जमदग्नि दत्ता । आ सूरस्य दुहिता ततान श्रवो देवेष्वमृतमजुर्यं ॥ ( (*sasarparīramatiṃ bādhamānā bṛhandi māya jamadagni dattā | ā sūrasya duhitā tatāna śravo deveṣvamṛtamajuryaṃ ‖ (*) (Ṛ. Saṃ. 3 53-5). **NOTE**
+
+Its special meaning was explained earlier.
+
+Even when relating such stories, the word *jamadagni* is sometimes explained also from the spiritual point of view. In such contexts it is said that Jamadagni was a son of Prajāpati and that, looking at the truth of the world with his divine vision, he made a knowledge-like light for the world. For example:
+
+प्रजापतिर्विराजमपश्यत्तया भूतं च भव्यं चासृजत तामृषिभ्यस्तिरोदधात्तां जमदग्निस्तपदापश्यत्तया वै स पृश्नीन्मानसृजत । (*prajāpatirvirājamapaśyattayā bhūtaṃ ca bhavyaṃ cāsṛjata tāmṛṣibhyastirodadhāttāṃ jamadagnistapadāpaśyattayā vai sa pṛśnīnmānasṛjata |*) (Tai. Saṃ. 3-3-5-2).
+
+### Printed p. 657
+Prajāpati received the vision of the Virāj; with its help he created what has been and what is to be. But he made both of them lie outside the range of the seers' perception. Then Jamadagni, by the greatness of his austerity, obtained the vision of them and created from them many kinds of objects of desire; so his power of divine vision is described. In the same way the Upaniṣads tell us that Jamadagni is a part that mirrors the spiritual truth:
+
+इमावेव गोतमभारद्वाजौ, अयमेव गोतमः, अयं भारद्वाजः । इमावेव विश्वामित्रजमदग्नी, अयमेव विश्वामित्रः, अयं जमदग्निः । (*imāveva gotamabhāradvājau, ayameva gotamaḥ, ayaṃ bhāradvājaḥ | imāveva viśvāmitrajamadagnī, ayameva viśvāmitraḥ, ayaṃ jamadagniḥ |*) (Bṛ. U. 2-2-4).
+
+This is stated in the Bṛhadāraṇyaka when the truth of the body is explained. Of these, Gotama and Bharadvāja expound the principle of the ear; Viśvāmitra and Jamadagni expound the principle of the eye. Viśvāmitra is said to be the right eye and Jamadagni the left eye. But here the meaning is not merely the physical eye; it is to be understood as the eye of knowledge. How? In the sentence प्रजापतिर्वै जमदग्निः, सोऽश्वमेधः । (*prajāpatirvai jamadagniḥ, so 'śvamedhaḥ |*) (Śa. Brā. 13-2-2-14), Jamadagni is designated as Prajāpati himself, and the special quality of such a Jamadagni is this:
+
+जमदग्नि र्यषिरिति । चक्षुर्वै जमदग्नि र्यषिर्यदेनेन जगत्पश्यत्यथो मनुते तस्माच्चक्षुर्जमदग्नि र्यषिः प्रजापतिगृहीतया त्वयेति प्रजापतिसृष्टया त्वयेत्येतच्चक्षुर्गृह्णामि ॥ (*jamadagni ryaṣiriti | cakṣurvai jamadagni ryaṣiryadenena jagatpaśyatyatho manute tasmāccakṣurjamadagni ryaṣiḥ prajāpatigṛhītayā tvayeti prajāpatisṛṣṭayā tvayetyetaccakṣurgṛhṇāmi ‖*) (Śa. Brā. 8-1-2-3).
+
+The great seer Jamadagni himself is the eye. He is the divine eye by whose help the whole world gains the power of sight and the power of consciousness. "O Jamadagni, created by Prajāpati, by your divine favour may the power of sight come to all my progeny": thus Jamadagni is prayed to for the divine knowledge by which the spiritual truth is known. The Taittirīya Āraṇyaka states the same import:
+
+यदक्षरं भूतकृतं । विश्वेदेवा उपासते । महर्षिमस्य गोप्तारं । जमदग्निमकुर्वत । जमदग्निराप्यायते । छंदोभिश्च तुरुत्तरैः । राजस्थोमस्य तृप्ता सः ॥ (*yadakṣaraṃ bhūtakṛtaṃ | viśvedevā upāsate | maharṣimasya goptāraṃ | jamadagnimakurvata | jamadagnirāpyāyate | chaṃdobhiśca turuttaraiḥ | rājasthomasya tṛptā saḥ ‖*) (Trai. Ā. 1-9-7). **NOTE**
+
+By these sentences it is shown that Jamadagni is of the nature of the imperishable (*akṣara*) Supreme Self.
+
 ---
 
-**Progress note:** Done through printed p. 651. pp. 646-651 (batch API)
+**Progress note:** Done through printed p. 657. pp. 652-657 (batch API)
