@@ -25285,6 +25285,157 @@ Yāska explains: mūrdhā, that on which the head is placed; he becomes the head
 
 The terrestrial fire is praised in many contexts as containing the distinguishing qualities of other special deities such as Sūrya. In this matter the author of the Nirukta has given two Ṛks as examples: for all living creatures Agni is absolutely necessary for life. Without Agni (the heat in the body, which is called Vaiśvānara-Agni) it is impossible to live. Such an Agni (the Agni in the form of Sūrya) shines at night as lord of the world that contains all creatures. In the morning the same Agni rises in the form of Sūrya. The gods can know the unique power and capacity of such an Agni, that is, how, being Sūrya by day and Agni by night, he carries out his duty.
 
+### Printed p. 800
+Here Agni is said to be the lord of the night. To convey the meaning "lord", the word मूर्धा (*mūrdhā*) is used in this ṛk. This word comes to mean "lord" in the following way: among the various limbs of the body the head (mūrdhā, śiras) is the chief, as the saying सर्वस्य गात्रस्य शिरः प्रधानं (*sarvasya gātrasya śiraḥ pradhānaṃ*) shows. Therefore the use of the word mūrdhā here conveys the meaning "lord". The meaning is that Agni is the lord of all beings during the night. In the night, when there is no heat of the sun, Agni himself provides the beings with heat and light and discharges the sun's function. In the morning this same Agni rises as the sun and protects beings. The sages and others who perform sacrifice are able to know this power and capacity of the deities. The intention is that Agni has the power to move swiftly in all regions in order to do this work. That this ṛk says that Agni performs the sun's function is praise of Agni's uncommon quality; it does not mean that Agni is the Āditya. Or else it should be understood that this ṛk indicates that Agni possesses the powers and capacities of the other deities.
+
+The following ṛk is for a fuller explanation of it.
+
+स्तोमेन हि दिवि देवासो अग्निमजीजनञ्क्तिभी रोदसिप्रां । तनू अकृण्वन्त्रेधा भुवे कं स ओषधीः पचति विश्वरूपाः ॥ (*stomena hi divi devāso agnimajījanañktibhī rodasiprāṃ | tanū akṛṇvantredhā bhuve kaṃ sa oṣadhīḥ pacati viśvarūpāḥ ‖*) (Ṛ. Saṃ. 10-88-10)
+
+स्तोमेन हि यं दिवि देवा अग्निमजनयञ्क्तिभिः कर्मभिद्यावापृथिव्योः पूरणं तमकुर्वंस्त्रेधाभावाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः यदस्य दिवि तृतीयं तदसावादित्य इति हि ब्राह्मणं तदंगीकृत्य स्तौति. (*stomena hi yaṃ divi devā agnimajanayañktibhiḥ karmabhidyāvāpṛthivyoḥ pūraṇaṃ tamakurvaṃstredhābhāvāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ yadasya divi tṛtīyaṃ tadasāvāditya iti hi brāhmaṇaṃ tadaṃgīkṛtya stauti.*) (Ni. 7-28).
+
+The gods, by praise, brought Agni into being in heaven. That Agni, by his powers and capacities, filled and illumined heaven and earth. Again, those gods made that Agni three-formed. That Agni ripens all the plants (the herbs), that is, makes them grow and prosper.
+
+The Agni whom the gods brought into being and established in heaven by the stoma (praise) pervaded heaven and earth by his powers and capacities. That is, the teacher Śākapūṇi says that the gods produced Agni in order that he might dwell in the three places: earth, atmosphere and heaven. In this matter there is also a Brāhmaṇa sentence यदस्य दिवि तृतीयं (*yadasya divi tṛtīyaṃ*) …
+
+### Printed p. 801
+… तदसावादित्यः (*tadasāvādityaḥ*): the third form of Agni which shines in heaven is that very Āditya who is visible to our eyes. Accepting this view, the seer praises Agni in the next ṛk.
+
+अथैनमेतयादित्यीकृत्य स्तौति (*athainametayādityīkṛtya stauti*).
+यदेदेनमदधुर्यज्जियासो दिवि देवाः सूर्यमादितेयं । यदा चरिष्णू मिथुनावभूतामादित प्रापश्यन् भुवनानि विश्वा ॥ (*yadedenamadadhuryajjiyāso divi devāḥ sūryamāditeyaṃ | yadā cariṣṇū mithunāvabhūtāmādita prāpaśyan bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 10-88-11).
+
+यदैनमदधुर्यज्जियाः सर्वे दिवि देवाः सूर्यमादितेयमदितेः पुत्रं यदा चरिष्णू मिथुनौ प्रादुरभूतां सर्वदा सहचारिणावुषाश्चादित्यश्च । म (*yadainamadadhuryajjiyāḥ sarve divi devāḥ sūryamāditeyamaditeḥ putraṃ yadā cariṣṇū mithunau prādurabhūtāṃ sarvadā sahacāriṇāvuṣāścādityaśca | ma*).
+मिथुनौ कस्मान्मिनोतिः श्रयतिकर्मा, थु इति नामकरणस्थकारो वा नयतिः परो, वनिर्वा, समाश्रितावन्योन्यं नयतो, वनुतो वा, मनुष्यमिथुनावप्यैतस्मादेव, मेधंतावन्योन्यं वनुत इति वा. (*mithunau kasmānminotiḥ śrayatikarmā, thu iti nāmakaraṇasthakāro vā nayatiḥ paro, vanirvā, samāśritāvanyonyaṃ nayato, vanuto vā, manuṣyamithunāvapyaitasmādeva, medhaṃtāvanyonyaṃ vanuta iti vā.*).
+(2. 72-9) **NOTE**
+
+Accepting the view that this Agni is the Āditya, the seer praises with this ṛk. When the gods, worthy of sacrifice, established in heaven the sun, the son of Aditi, and when this pair of deities (Uṣas and Āditya) were created and began to move together, then they saw all the beings of the world.
+
+When the gods, worthy of sacrifice, that is, praised in sacrifices and the like, established the Āditya (the sun), the son of Aditi, in heaven, and when the two who are mithunabhūta, that is, always together (the two, Uṣas and Āditya) came into being, from then on these two deities, Uṣas and Āditya, move always together and became able to see all the beings in the world.
+
+Here the derivation of the word mithuna is given. The word mithuna is formed from the root minoti, which has the sense of "resorting to". That is: the root mi in the word mithuna has the meaning "resort to"; thu, or the letter tha, is the affix; the last letter na is from the root nayati (नयतिः परः (*nayatiḥ paraḥ*)), and indicates the meaning "leads" or "carries" another. So the word mithuna means two that resort to each other mutually and remain together. समाश्रित् अन्योन्यं प्रति आत्मानं नयतः कालं वा समाश्रितौ भवतः परस्परं संभक्तौ (*samāśrit anyonyaṃ prati ātmānaṃ nayataḥ kālaṃ vā samāśritau bhavataḥ parasparaṃ saṃbhaktau*) **NOTE**. That is, the word mithunau means two who resort to each other mutually, or, in respect of time, that after one time another comes
+
+### Printed p. 802
+(night, day and so on) is the meaning it conveys. In the case of human beings too, the word mithuna means two persons who resort to each other, or who pass their time together in mutual affection.
+
+अथैनमेतयाग्नीकृत्य स्तौति (*athainametayāgnīkṛtya stauti*).
+यत्रा वदेते अवरः परश्च यज्ञन्योः कतरो नौ वि वेद । अ शेकुरित्सधमादं सखायो नक्षंत यज्ञं क इदं वि वोचत् ॥ (*yatrā vadete avaraḥ paraśca yajñanyoḥ kataro nau vi veda | a śekuritsadhamādaṃ sakhāyo nakṣaṃta yajñaṃ ka idaṃ vi vocat ‖*) (Ṛ. Saṃ. 10-88-17).
+
+यत्र विवदेते दौन्यौ होतारावयं चाग्निरसौ च मध्यमः कतरो नौ यज्ञे भूयो वेदेत्याशक्नुवंति सत्सहमदनं समानख्याना ऋत्विजस्तेषां यज्ञं समश्नुवानानां को न इदं विपक्ष्यतीति ॥ (*yatra vivadete daunyau hotārāvayaṃ cāgnirasau ca madhyamaḥ kataro nau yajñe bhūyo vedetyāśaknuvaṃti satsahamadanaṃ samānakhyānā ṛtvijasteṣāṃ yajñaṃ samaśnuvānānāṃ ko na idaṃ vipakṣyatīti ‖*) (Ni. 7-30).
+
+Taking this Vaiśvānara Agni to be the earthly Agni, the seer praises with this ṛk. Of the lower and the upper Agnis who know the matter of sacrifice, which knows more? Who is able to decide this question? The ṛtvijs and others who take equal shares in the sacrifice are able to decide it.
+
+दैन्य होतारौ (*dainya hotārau*) means the hotṛs of divine nature: the Agni named Hotṛ who invites the gods to the sacrifice. Since the word hotārau is in the dual, the two deities are the earthly (the sacrificial Agni) established on earth, and the Vāyu or lightning-Agni in the middle region. Since both are only other forms of Agni, they are addressed with the dual word hotārau. अवरः परश्च (*avaraḥ paraśca*) means "the lower and the upper". "Lower" is to be understood as the earthly Agni in the place of earth, and परः (*paraḥ*) as the Agni (lightning) in the middle region. Which of these two has the greater knowledge? Among the ṛtvijs who, taking equal shares, that is, the chief roles, in sacrificial rites, know the matter of sacrifice well, which ṛtvij is able to decide this question?
+
+The following ṛk is for a fuller explanation of it.
+
+यावन्मात्रमुषसो न प्रतीकं सुपर्णो,३वसते मातरिश्वः । तावद्धधात्युप यज्ञमायान्ब्राह्मणो होतुरवरो निषीदन् ॥ (*yāvanmātramuṣaso na pratīkaṃ suparṇo,3vasate mātariśvaḥ | tāvaddhadhātyupa yajñamāyānbrāhmaṇo hoturavaro niṣīdan ‖*) (Ṛ. Saṃ. 10-88)
+
+यावन्मात्रमुषसः प्रत्यक्तं भवति प्रतिदर्शनमिति वास्तुपमानस्य संप्रत्यर्थे प्रयोग इहेव निधेहीति यथा सुपर्ण्यः सुपतना एता रात्रयो (*yāvanmātramuṣasaḥ pratyaktaṃ bhavati pratidarśanamiti vāstupamānasya saṃpratyarthe prayoga iheva nidhehīti yathā suparṇyaḥ supatanā etā rātrayo*)
+
+### Printed p. 803
+वसते मातरिश्वन् ज्योतिर्वर्णस्य तावदुपदधाति यज्ञमागच्छन् ब्राह्मणो होतास्याग्नेर्होतुरवरो निषीदन् ॥ (*vasate mātariśvan jyotirvarṇasya tāvadupadadhāti yajñamāgacchan brāhmaṇo hotāsyāgnerhoturavaro niṣīdan ‖*) (Ni. 7-31)
+
+Another ṛk is given as an example in this matter. In the previous ṛk Agni and Vāyu are praised; in this ṛk Agni alone is praised. Mātariśvan (Vāyu) asked a man: can the brāhmaṇa, the human hotṛ taking part in the sacrifice, hold, that is, know, the knowledge of Agni, the hotṛ of the gods (the understanding in the performance of sacrifice)? The man replied to this as follows. O Mātariśvan, for as long as (for how long) the birds of fine wings hold the dawn, for so long the brāhmaṇa, the human hotṛ, seated on the sacrificial altar near the sacrificial fire, in a place lower than Agni, holds it (that is, by Agni's grace knows it to a small extent).
+
+The word न (*na*) in this ṛk does not have the sense of comparison; it has the sense of "now" (samprati). Just as the word iha means "here", yet the sentence इहैव निधेहि (*ihaiva nidhehi*) means "put it now", so it should be understood. Therefore the phrase यावनात्रमुषसो न प्रतीकं (*yāvanātramuṣaso na pratīkaṃ*) **NOTE** means: for as long as, that is, for how long (only a short time) the dawn-time at the end of the night spreads, for just so long. The sentence सुपर्ण्यः सुपतना एता रात्रयो वसते मातरिश्वन (*suparṇyaḥ supatanā etā rātrayo vasate mātariśvana*) means: O Mātariśvan, the birds of fine wings, flying, hold the dawn-time. That is, "birds" here means the nights. The word suparṇyaḥ which indicates this, meaning "of various wings", conveys the sense of the various (fine) colours of the dawn-time. Therefore suparṇyaḥ means that when Uṣas rises at the end of the night, that Uṣas has various or beautiful colours. The extent of this dawn-time is very small. Since sunrise follows very quickly after the dawn-time, the dawn-time is very small in extent: the intention is, only for a very short time. The human hotṛ is inferior to Agni, the divine hotṛ; therefore the brāhmaṇa, the human hotṛ, seated in a place lower than Agni installed on the sacrificial altar, performs the hotṛ's work only for a very short time, by the grace of Agni, who is of special wisdom: this is the main intention. By this the smallness of man and the greatness of Agni become evident. Since this ṛk says that the brāhmaṇa, the human hotṛ, seated on the sacrificial altar, performs the hotṛ's work praising Agni, the divine hotṛ, it is clearly evident that here Vaiśvānara Agni means the earthly Agni who is praised, and not the Āditya.
+
+### Printed p. 804
+होतृजपस्त्वनग्निर्वैश्वानरीयो भवति देव सवितरेतु त्वा वृणतेऽग्निं होत्राय सह पित्रा वैश्वानरेणेतीममेवाग्निं सवितारमाह सर्वस्य प्रसवितारं मध्यमं वोत्तमं वा पितरं । यस्तु सूक्तं भजते यस्मै हविर्निरुप्यतेयमेव सॊग्निर्वैश्वानरः । निसातमेवैते उत्तरे ज्योतिषी एतेन नामधेयेन भजेते भजेते ॥ (*hotṛjapastvanagnirvaiśvānarīyo bhavati deva savitaretu tvā vṛṇate 'gniṃ hotrāya saha pitrā vaiśvānareṇetīmamevāgniṃ savitāramāha sarvasya prasavitāraṃ madhyamaṃ vottamaṃ vā pitaraṃ | yastu sūktaṃ bhajate yasmai havirnirupyateyameva sògnirvaiśvānaraḥ | nisātamevaite uttare jyotiṣī etena nāmadheyena bhajete bhajete ‖*)
+(Ni. 7-31).
+
+The japa-mantras and the like recited by the hotṛ in the sacrifice praise Vaiśvānara by addressing him. The mantra-japa (is that of) Agni: देवसवितरेतं त्वा वृणतेऽग्निं होत्राय सह पित्रा वैश्वानरेण (*devasavitaretaṃ tvā vṛṇate 'gniṃ hotrāya saha pitrā vaiśvānareṇa*) **NOTE**. An explanation of the sentence "O shining god Savitṛ, the hotṛ has chosen you, that is, Agni, along with your father Vaiśvānara, for the praise" is necessary. Here the seer calls Agni himself Savitṛ. Here Savitṛ (the word savitṛ) means the producer of all things (or beings); the word is used here in this sense. He addresses as father either Vāyu, who belongs to the middle region, or the Āditya, who belongs to the highest (heavenly) place.
+
+The god who is praised in the sūkta, and the god for whom (with whom in view) the oblation is offered, that Vaiśvānara is this earthly Agni.
+
+As stated in sentences such as सूर्यो वैश्वानरः । अग्निर्वैश्वानरः । (*sūryo vaiśvānaraḥ | agnirvaiśvānaraḥ |*), the light of lightning-form in the middle region and the light of Āditya-form in heaven, both these lights, are spoken of by the one name Vaiśvānara. That is, the earthly Agni, spoken of by the word Vaiśvānara, shines in three forms: in heaven as Āditya, in the atmosphere as lightning, on earth as the earthly Agni: this is the main intention.
+
+This is the … sūkta. **NOTE**
+
+> चतुर्थे मंडले प्रथमेऽनुवाके दश सूक्तानि । वैश्वानरायेति पंचदशर्चं पंचमं सूक्तं नामदेवस्यार्षं त्रैष्टुभं वैश्वानराग्नि देवताकं । अत्रानुक्रमणिका । वैश्वानराय वैश्वानरीयमिति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+In the fourth Maṇḍala, in the first anuvāka, there are ten sūktas. The fifth, beginning वैश्वानराय (*vaiśvānarāya*), has fifteen ṛks; its seer is नामदेवस्य (*nāmadevasya*) **NOTE**; the metre is Triṣṭubh; the deity is Vaiśvānara Agni. The Anukramaṇikā says वैश्वानराय वैश्वानरीयमिति (*vaiśvānarāya vaiśvānarīyamiti*). The use in ritual (viniyoga) is laiṅgika, that is, by the indication of the text itself.
+
+### Printed p. 805
+
+##### Anuvāda
+
+In the first anuvāka of the fourth maṇḍala there are ten sūktas. Of them this sūkta beginning "Vaiśvānarāya" is the fifth. It has fifteen ṛks. Vāmadeva is the seer of this sūkta; Vaiśvānara Agni is the deity; Triṣṭubh is the metre. The Anukramaṇikā says: "vaiśvānarāya vaiśvānarāyam" **NOTE**. The use in ritual is laiṅgika.
+
+Sūkta 5
+
+Maṇḍala 4. Anuvāka 1. Sūkta 5. Aṣṭaka 3. Adhyāya 5. Vargas 1, 2, 3. Number of ṛks in the sūkta: 15. Seer: Vāmadeva. Deity: Vaiśvānara. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वै॒श्वा॒न॒राय॑ मी॒ळ्हुषे॑ स॒जोषाः॑ क॒था दा॑शेमा॒ग्नये॑  ॒
+> बृ॒हद्भाः ।  
+> अनू॑नेन बृह॒ता व॒क्षथे॒नोप॑ स्तभायदुप॒मिन्न रोधः॑ ॥१॥
+
+> *vaiśvānarāya mīḷhuṣe sajoṣāḥ kathā dāśemāgnaye*  
+> *bṛhadbhāḥ |*  
+> *anūnena bṛhatā vakṣathenopa stabhāyadupaminna rodhaḥ ‖1‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वैश्वानराय । मीळ्हुषे । सजोषाः । कथा । दाशेम । अग्नये । बृहत् । भाः ।  
+> अनूनेन । बृहता । वक्षथेन । उप । स्तभायत् । उपमित् । न । रोधः ॥ १ ॥
+
+> *vaiśvānarāya | mīḷhuṣe | sajoṣāḥ | kathā | dāśema | agnaye | bṛhat | bhāḥ |*  
+> *anūnena | bṛhatā | vakṣathena | upa | stabhāyat | upamit | na | rodhaḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सजोषाः सजोषसः समानप्रीतियुक्ता वयमृत्विग्यजमाना वैश्वानराय
+> विश्वानरसंबंधिन एतन्नामकाय विळ्हुषेभिमतवृष्टादिसेक्रे बृहद्बृहते महते
+> भा भासमानायाग्नये देवाय कथा कथं केन प्रकारेण दाशेम दद्याम। साम-
+
+##### Gist of the bhāṣya
+
+सजोषाः (*sajoṣāḥ*): we, ṛtvijs and sacrificers, united in equal affection. वैश्वानराय (*vaiśvānarāya*): for the god of this name, who belongs to all men. मीळ्हुषे (*mīḷhuṣe*): to the sprinkler of desired things such as rain. बृहत् (*bṛhat*): great; भाः (*bhāḥ*): shining; to the god Agni, who is great and shining. कथा (*kathā*): how, in what manner, shall we give (दाशेम (*dāśema*))? By implication it is understood that the thing given is an oblation.
+
+### Printed p. 806
+
+> र्थाद्धविरिति गम्यते । अथवा बृहद्भा इत्युत्तरत्र योज्यं । कथा दाशेमेत्युक्तं ।
+> किं तत्राधिक्यमिति तदुच्यते । योग्निर्बृहन्महान्भा भासमानश्च सन् अनूनेनाविकलेन संपूर्णेन अत एव बृहता प्रभूतेन वक्षथेन वोढव्येन स्वशरीरेणोप
+> स्तभायत् । उपस्तभ्याति । सामर्थ्याद्दामिति शेषः । द्युलोकं प्राप्नोतीत्यर्थः ।
+> तत्र दृष्टांतः । उपमिन्न रोधः । उप समीपे मीयते क्षिप्यत इत्युपमित् स्थूणा।
+> सा यथा तृणाच्छादनादिनिरोधकं वंशादिकमुपस्तभ्याति तद्वत् । यद्वा । वक्षथेनोक्तलक्षणेन फलादिवाहकेन स्तोत्रेण सह द्युलोकमुपस्तभायत् । स्तभायत्।
+> स्तन्भुः सौत्रो धातुः । लजु छंदसि शायजपीति व्यत्ययेनाहावपि शायजादेशः ।
+> बहुलं छंदसीत्यडागमाभावः । किमिव । उपमिन्न रोधः । उप समीपे मीयत
+> इत्युपमिदुदकं । कूलमिव ॥
+
+##### Gist of the bhāṣya
+
+Or else बृहद्भाः (*bṛhadbhāḥ*) is to be joined with what follows. "How shall we give" has been said; what is the excellence in it? That is stated. The Agni who, being great and shining, with an unimpaired, complete, therefore abundant, "to-be-carried" (वक्षथेन (*vakṣathena*)) body of his own, props up (उपस्तभायत् (*upastabhāyat*); he props up) the heaven, "the heaven" being supplied from the sense; that is, he reaches the heavenly world. An illustration: उपमिन्न रोधः (*upaminna rodhaḥ*). उपमित् (*upamit*) is a post, which is placed (मीयते (*mīyate*)) near (उप (*upa*)); as it supports the bamboo or the like that holds the thatch, so he. Or else: with the praise, of the nature stated, that carries the fruits and so on (वक्षथेन (*vakṣathena*)), he props up the heaven. स्तभायत् (*stabhāyat*): the root stambh is a sautra root. Another alternative: उपमिन्न रोधः (*upaminna rodhaḥ*): उपमित् (*upamit*), "that which is measured near", is water; he is like a bank (कूलमिव (*kūlamiva*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैश्वानराय (*vaiśvānarāya*)—to him who is famed by the name Vaiśvānara
+- मीळ्हुषे (*mīḷhuṣe*)—who bestows desired things
+- बृहत् (*bṛhat*)—of vast form
+- भाः (*bhāḥ*)—shining
+- अग्नये (*agnaye*)—to Agni
+- सजोषाः (*sajoṣāḥ*)—we, ṛtvijs and others
+- कथा (*kathā*)—in what manner indeed
+- दाशेम (*dāśema*)—shall we offer the oblation
+- अनूनेन (*anūnena*)—complete, without deficiency
+- बृहता (*bṛhatā*)—of vast form
+- वक्षथेन (*vakṣathena*)—with his body
+- रोधः (*rodhaḥ*)—the atmosphere
+- उपमिन्न (*upaminna*)—as a pillar holds up a beam and keeps it standing
+- उपस्तभायत् (*upastabhāyat*)—he has lifted and holds up
+
+##### भावार्थ (Bhāvārtha)
+
+In what manner shall we, ṛtvijs and sacrificers, gathered together, offer the oblation to Agni, who is famed by the name Vaiśvānara, bestower of desired things, of vast form and shining? That same Vaiśvānara Agni, with his complete, vast body, has lifted and holds up the atmosphere, as a pillar holds up a beam.
+
+##### English translation (H. H. Wilson)
+How may we present rejoicing ( fit offerings ) to Agni, the showerer (of benefits) ; to Vaishwanara, he, who, bright with great lustre, sustains the heaven, with his entire vast and insupportable ( bulk ), as a pillar (sustains a roof).
+
 ---
 
-**Progress note:** Done through printed p. 799. pp. 794-799 (batch API)
+**Progress note:** Done through printed p. 806. pp. 800-806 (batch API)
