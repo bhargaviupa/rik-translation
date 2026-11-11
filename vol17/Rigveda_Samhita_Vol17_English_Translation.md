@@ -22849,6 +22849,303 @@ This is the altar which we have decorated for you, as a wife attached to her hus
 
 > *āśṛṇvate | adṛpitāya | manma | nṛcakṣase | sumṛḷīkāya | vedhaḥ |*
 
+### Printed p. 736
+
+> देवाय । शस्तिं । अमृताय । शंस । ग्रावाइव । सोता । मधुसुत् । यं ।
+> ईळे । ३ ॥
+
+> *devāya | śastiṃ | amṛtāya | śaṃsa | grāvāiva | sotā | madhusut | yaṃ |*
+> *īḷe | 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेधः स्तोत्राणां कर्तर्हे स्तोतराशृण्वते स्तोत्राकर्णनपरायादृपितायादृप्तायाप्रमत्ताय नृचक्षसे वृणां द्रष्टे सुमृळीकाय सुसुखायामृताय मरणधर्मरहिताय देवाय तस्मा अग्नये मन्म स्तोत्रं शस्तिं शस्त्रं च
+> शंस । मधुषुन्मदकरस्य सोमस्य सोता । तत्र दृष्टांतः । ग्रावेव । यथा ग्रावा
+> सोमस्य सोता तद्वत् । सोमाभिषवं कुर्वाणो यजमानो यमग्निमीळे ।
+> स्तौति । तस्मै शंसेति समन्वयः । यद्वा । मधुषुत्सोमसुद्यजमानोंग्निमीळे ।
+> स्तौति । तत्र दृष्टांतः । यथा ग्रावा सोमस्य सोता शब्दं करोति । प्रैते वदंतु
+> प्र वयं वदाम ग्रावभ्यः । ऋग्वे. १०-९४-१ । इत्यत्र ग्रावां कर्तृत्वं श्रुतमिति ॥
+> आशृण्वते । शतुरनुम इति विभक्तेरुदात्तत्वं । ईळे । ईड स्तुता । लट लोपस्त
+> आत्मनेपदेश्विति तलोपः । यद्वा । लिटि तशब्दस्यॆशादेशे कृते रूपं ॥
+
+##### Gist of the bhāṣya
+
+"Vedhaḥ" means O composer of hymns. Recite (शंस (*śaṃsa*)) the praise (मन्म (*manma*)) and the śastra (शस्तिं (*śastiṃ*)) to that god Agni. He is attentive to hymns (आशृण्वते (*āśṛṇvate*)), unproud and unheedless (अदृपिताय (*adṛpitāya*)), the beholder of men (नृचक्षसे (*nṛcakṣase*)), very gracious (सुमृळीकाय (*sumṛḷīkāya*)), and immortal, free from the nature of death. The sacrificer who presses the Soma (मधुषुत् (*madhuṣut*), presser of the intoxicating Soma) praises this Agni. The comparison is "like the stone": as the pressing-stone presses the Soma, so he does. The construction is: recite to him whom he praises. Or else: the Soma-presser, the sacrificer, praises Agni. The comparison is then that the pressing-stone makes a sound as it presses the Soma. Here the stones are heard as agents in प्रैते वदंतु प्र वयं वदाम ग्रावभ्यः (*praite vadaṃtu pra vayaṃ vadāma grāvabhyaḥ*) (Ṛgve. 10-94-1) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधः (*vedhaḥ*)—O praiser
+- सोता (*sotā*)—that presses the Soma
+- ग्रावेव (*grāveva*)—like stones, making a sound
+- मधुषुत् (*madhuṣut*)—the sacrificer who presses the sweet Soma
+- यं (*yaṃ*)—which Agni
+- ईळे (*īḷe*)—he praises; such (Agni)
+- आशृण्वते (*āśṛṇvate*)—who listens attentively to the praise
+- अदृपिताय (*adṛpitāya*)—the unheedless one
+- नृचक्षसे (*nṛcakṣase*)—who looks upon men
+- सुमृळीकाय (*sumṛḷīkāya*)—the giver of happiness
+- अमृताय (*amṛtāya*)—free from the nature of death
+- देवाय (*devāya*)—and of divine nature; addressing that Agni
+- मन्म (*manma*)—the praise
+- शस्तिं (*śastiṃ*)—the śastra mantra
+- शंस (*śaṃsa*)—recite
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, recite the praise and the śastra mantra to that Agni whom the sacrificer, pressing the sweet Soma and making a sound like the stones that press it, praises: Agni who listens attentively to the praise, who is unheedless, who looks upon men, who gives happiness, who is free from the nature of death, and who is of divine nature.
+
+##### English translation (H. H. Wilson)
+Repeat, oh priest, the praise, the prayer, to the attentive, the affable Agni, the beholder of man, the giver of felicity, the divine, the immortal ; to him whom the effuser of the libation, like the (bruising) stone, adores aloud.
+
+### Printed p. 737
+
+##### विशेषविषयगळु (Special Topics)
+
+Sotā grāveva: here the sweet sound of the stone, which crushes the Soma-creepers and presses out the juice, is compared to the sound of praising Agni. On this matter, the commentator points out here that there is a whole sūkta (Ṛ. Saṃ. 10-94), प्रैते वदंतु प्र वयं वदाम ग्रावभ्यः (*praite vadaṃtu pra vayaṃ vadāma grāvabhyaḥ*), for praising the stones called grāvāṇaḥ that press out the Soma juice.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं चि॑न्तः॒ शम्या॑ अग्ने अ॒स्या ऋ॒तस्य॑ बोध्यतचित्स्वा॒धीः ॥  
+> क॒दा त॑ उ॒क्था स॑ध॒माद्या॑नि क॒दा भ॑वंति स॒ख्या गृ॒हे ते॑ ॥ ४ ॥
+
+> *tvaṃ cintaḥ śamyā agne asyā ṛtasya bodhyatacitsvādhīḥ ‖*  
+> *kadā ta ukthā sadhamādyāni kadā bhavaṃti sakhyā gṛhe te ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । चित् । नः । शम्यै । अग्ने । अस्याः । ऋतस्य । बोधि । ऋतचित् । सुआधीः ।  
+> कवा । ते । उक्था । सधर्माद्यानि । कदा ! भवंति । सख्या ! गृहे । ते ॥ ४ ॥
+
+> *tvaṃ | cit | naḥ | śamyai | agne | asyāḥ | ṛtasya | bodhi | ṛtacit | suādhīḥ |*  
+> *kavā | te | ukthā | sadharmādyāni | kadā ! bhavaṃti | sakhyā ! gṛhe | te ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं चित्त्वमेव शम्यै । शमीशब्दः कर्मनाम । अस्याः शम्यै
+> नोऽस्मत्संबंधिनोऽस्य कर्मणो देवता भवसि । हे ऋतचित् सत्यज्ञ हे अग्ने
+> स्वाधीः सुकर्मा सुध्यानो वा त्वमृतस्य बोधि । अस्मदीयं स्तोत्रं बुध्यस्व ।
+> ते तव सधमाद्यानि सहमदनिमित्तान्युक्का शस्त्राणि कदा कस्मिन्काले भवंति । भविष्यंति ।
+> तथास्मदीये गृहे ते त्वया सह सख्या सख्यानि कदा भविष्यंति ॥ सधमाद्यानि । मादयतेर्ण्यंतस्याचो यदिति यत् । सध मादस्थयोरिति सहस्य सधादेशः । भवंति ।
+> विभाषा कदाकर्होर्व्यः । पा- ३-३-५ । इति भविष्यदर्थे लट् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you alone are the deity of this our rite; "śamī" is a word for rite (karma), and "śamyai" means of this rite of ours. O Ṛtacit, knower of truth, O Agni, you who do good works or have good thoughts (स्वाधीः (*svādhīḥ*)), know our praise (बोधि (*bodhi*): understand our hymn). When will the śastras that serve for rejoicing together (सधमाद्यानि (*sadhamādyāni*)) with you be recited (भवंति (*bhavaṃti*), "will be")? And when will friendships with you come to be in our house?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं चित् (*tvaṃ cit*)—you alone
+- नः (*naḥ*)—our
+- अस्याः शम्यै (*asyāḥ śamyai*)—the deity connected with this rite
+- ऋतचित् (*ṛtacit*)—Agni, knower of truth
+- स्वाधीः (*svādhīḥ*)—you, the excellent doer of the rite
+- ते (*te*)—for you
+- सधमाद्यानि (*sadhamādyāni*)—that give delight
+- उक्ता (*uktā*)—the śastra mantras
+
+### Printed p. 738
+- कना (*kanā*)—when
+- भवंति (*bhavaṃti*)—are made
+- गृहे (*gṛhe*)—in our sacrificial house
+- ते (*te*)—with you
+- सख्या (*sakhyā*)—friendship
+- कदा (*kadā*)—when it comes about, then
+- ऋतस्य (*ṛtasya*)—our praise
+- बोधि (*bodhi*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are the deity of this our rite. O Agni, knower of truth, you, the excellent doer of the rite: when the delight-giving śastras are made for you, when friendship with you comes about in our sacrificial house, then know our praise.
+
+##### English translation (H. H. Wilson)
+You, Agni, preside over this our rite : do you, who are cognizant of truth, and the author of good works, recognize this our adoration, whenever these exhilarating prayers (are addressed) to you, whenever friendly relations with you are (established) in our dwelling.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था ह॒ तद्वरु॑णाय॒ त्वम॑ग्ने क॒था दि॒वे ग॑र्हसे॒ कन्न॒ आगः॑ ।  
+> क॒था मि॒त्राय॑ मी॒ळुषे॑ पृथि॒व्यै ब्रवः॒ कद॑र्य॒म्ले  ॑
+> कद्भगाय ॥ ५ ॥
+
+> *kathā ha tadvaruṇāya tvamagne kathā dive garhase kanna āgaḥ |*  
+> *kathā mitrāya mīḷuṣe pṛthivyai bravaḥ kadaryamle*  
+> *kadbhagāya ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । ह । तत् । वरुणाय । त्वं । अग्ने । कथा । दिवे । गर्हसे । कत् । नः । आगः ।  
+> कथा । मित्राय । मीळ्हुषे । पृथिव्यै । ब्रवः । कत् । अर्यम्ने । कत् । भगाय ॥
+
+> *kathā | ha | tat | varuṇāya | tvaṃ | agne | kathā | dive | garhase | kat | naḥ | āgaḥ |*  
+> *kathā | mitrāya | mīḷhuṣe | pṛthivyai | bravaḥ | kat | aryamne | kat | bhagāya ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं तदस्मदीयं पापं वरुणाय कथा गर्हसे । केन हेतुना
+> गर्हापूर्वमावेदयेः । हेति पूरणः । दिवे द्युलोकाय द्योतमानाय
+> सूर्याय ना कथा कथं तत्पापमावेदयेः । नोऽस्माकमागस्तत्पापं कत्किमस्ति ।
+
+##### Gist of the bhāṣya
+
+O Agni, why do you reproach that sin of ours to Varuṇa? For what reason would you make it known after reproaching? "Ha" is a filler. To Heaven (the heavenly world, or the shining Sūrya) why would you make known that sin? What (कत् (*kat*)) sin of ours is there? The meaning is that there is none, because of our service to you.
+
+### Printed p. 739
+
+> त्वत्परिचरणान्नास्तीत्यर्थः । तथा मीळ्हुषेभिमतफलसेक्रे मित्राय पृथिव्यै च कथा
+> ब्रवः । कथनागो ब्रूयाः । अर्यण्णे देवाय भगाय्कॆतन्नामकाय च देवाय कत्कथं ब्रूयाः ॥ कथा । किंशब्दात्था हेतौ च छंदसीति थाप्रत्ययः । प्राग्दिशो
+> विभक्तिरिति विभक्ति संज्ञायां किमः कः । पा. ७-२-१०३ । इति कादेशः । मीळ्हुषे । मिह
+> सेचने । क्वसौ दाश्वान् साह्वान् मीढ्वांश्चेति निपातितः । ब्रवः । ब्रूञ् व्यक्तायां
+> वाचि । लेटि लेटोऽडाटावित्यडागमः । पादादित्वादनिघातः । आगमस्यानुदात्तत्वा
+> द्धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Likewise, why would you speak to Mitra, the showerer of desired fruit, and to Earth? Why would you speak of the offence? To the god Aryaman, and to the god named Bhaga, why would you speak?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- तत् (*tat*)—our sin
+- वरुणाय (*varuṇāya*)—to Varuṇa
+- कथा (*kathā*)—why
+- गर्हसे (*garhase*)—do you make it known and reproach us
+- दिवे (*dive*)—to the heavenly world
+- कथा (*kathā*)—why would you make it known
+- नः (*naḥ*)—our
+- आगः (*āgaḥ*)—sin
+- कत् (*kat*)—what could it be
+- मीळ्हुषे (*mīḷhuṣe*)—the granter of desired ends
+- मित्राय (*mitrāya*)—to Mitra
+- पृथिव्यै च (*pṛthivyai ca*)—and to Earth
+- कथा (*kathā*)—why
+- ब्रवः (*bravaḥ*)—do you say
+- अरम्ये (*aramye*)—to Aryaman
+- भगाय (*bhagāya*)—to Bhaga
+- कत् (*kat*)—why would you make it known
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, why do you make our sin known to Varuṇa and reproach us? What sin of ours could there be? Why would you make it known to Heaven, to Mitra the granter of desired ends, to Earth, to Aryaman and to Bhaga?
+
+##### English translation (H. H. Wilson)
+Why, Agni, do you reproach us (for our sin) to Varuna, why to the heaven ? what is our offence ? why repeat it to the bountiful Mitra, to earth, to Aryaman, or to Bhaga ?
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कद्धिषा ्य॑सु वृधसा॒नो अ॑ग्ने॒ कद्वाता॑य॒ प्रत॑वसे शुभं॒ये ।  
+> परि॑ज्मने॒ नास॑त्याय॒ क्षे ब्रवः॒ कद॑ग्ने रु॒द्राय॑ नृ॒घ्ने ॥ ६ ॥
+
+> *kaddhiṣā yasu vṛdhasāno agne kadvātāya pratavase śubhaṃye |*  
+> *parijmane nāsatyāya kṣe bravaḥ kadagne rudrāya nṛghne ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । धिष्ण्यासु । वृधसानः । अग्ने । कत् । वाताय । प्रतवसे । शुभंऽये ।
+
+> *kat | dhiṣṇyāsu | vṛdhasānaḥ | agne | kat | vātāya | pratavase | śubhaṃ 'ye |*
+
+### Printed p. 740
+
+> परिज्मने । नासत्याय । क्षे । ब्रवः । कत् । अग्ने । रुद्राय । नृघ्ने ॥ ६ ॥
+
+> *parijmane | nāsatyāya | kṣe | bravaḥ | kat | agne | rudrāya | nṛghne ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने धिष्णा स्वाग्नीध्रीयादिधिष्टेषु वृधसानो घृताद्याहुतिभिर्वर्धमानस्त्वं कत्कथं ब्रूयाः । प्रतवसे प्रकृष्टबलाय शुभंये शुभस्य प्रापयित्रे
+> परिज्मने परितो गंत्रे नासत्याय सत्यस्य नेत्रे । यद्वा । न विद्यतेऽसत्यं यस्य
+> तस्मै वाताय वायवे । यद्वा । नासत्यायेति वचनव्यत्ययः । नासत्याभ्यामश्विभ्यां । क्षे । क्षेति पृथिवीमाह । क्षियंति निवसंत्यस्यां प्राणिन इति । तस्यै क्षे पृथिव्यै
+> च कत्कथं ब्रूयाः । हे अग्ने नृष्टे नृणां पापकृतां हंत्री रुद्राय देवाय
+> कत्कथमागो ब्रुवः । ब्रूयाः ॥ वृधसानः । वृधु वर्धने । असानजित्यनुवृत्तावृंजिवृधिमंदिसहिभ्यः किदित्यसानच्प्रत्ययः । कित्वादगुणः । चित्वादंतोदात्तः शुभंये । या प्रापणे । विच् । तत्पुरुषे कृति बहुलमिति द्वितीयाया अप्यलुक् ।
+> कृत्स्वरः । क्षे । क्षि निवासगत्योः । अन्वेभ्योऽपि दृश्यत इत्यधिकरणे डः । ततष्टाप् ।
+> चतुर्थेकवचन आतो धातोरित्यत्रात इति योगविभागादाकारलोपः । नृष्टे । हन
+> हिंसागत्योः । बहुलं छंदसीति क्वप् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who grow in the dhiṣṇyas, the hearths such as the Āgnīdhrīya, with oblations of ghee and the like, why (कत् (*kat*)) would you speak? To Pratavas, of exceeding strength; to Śubhaṃyu, the bringer of good; to Parijman, who goes about everywhere; to Nāsatya, the leader of truth. Or else: the one in whom there is no untruth, namely Vāta, the Wind. Or else "nāsatyāya" is a change of number, meaning the two Nāsatyas, the Aśvins. "Kṣe": क्षेति पृथिवीमाह (*kṣeti pṛthivīmāha*); beings dwell (क्षियंति (*kṣiyaṃti*)) in it. To that Kṣā, Earth, why would you speak? O Agni, to the god Rudra, the destroyer of men who commit sin (नृष्टे (*nṛṣṭe*)), why would you tell of the offence? **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- धिष्ण्यासु (*dhiṣṇyāsu*)—in the sacrificial places
+- वृधसानः (*vṛdhasānaḥ*)—you who grow
+- प्रतवसे (*pratavase*)—who has excellent strength
+- शुभंये (*śubhaṃye*)—the bringer of good
+- परिज्मने (*parijmane*)—who moves everywhere
+- नासत्याय (*nāsatyāya*)—who is of the nature of truth
+- वातायु (*vātāyu*)—to the Wind
+- कत् (*kat*)—how would you make my sin known?
+- क्षे (*kṣe*)—to Earth
+- कत् (*kat*)—why (how) do you tell it
+- अग्ने (*agne*)—O Agni
+- नृष्टे (*nṛṣṭe*)—who destroys sinful men
+- रुद्राय (*rudrāya*)—to the god Rudra
+- कत् (*kat*)—why
+- ब्रव (*brava*)—do you tell
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who grow in the sacrificial places, why do you make my sin known to the Wind, who has excellent strength, brings good, moves everywhere and is of the nature of truth, to Earth, and to the god Rudra who destroys sinful men?
+
+##### English translation (H. H. Wilson)
+Why repeat it when exalted in holy ceremonies ? why tell it to the mightv, benevolent, circumambient, truthful wind (Vayu) ? why, Agni, to earth, why to man-destroying Rudra ?
+
+### Printed p. 741
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था म॒हे पु॑ष्टिंभ॒राय॑ पू॒ष्टे कद्रु॒द्राय॒ सुम॑खाय  ॒
+> हविर्दे ।  
+> कद्विष्ण॑व उरुगा॒याय॒ रेतो॒ ब्रवः॒ कद॑ग्ने॒ शर॑वे बृह॒त्यै ॥
+
+> *kathā mahe puṣṭiṃbharāya pūṣṭe kadrudrāya sumakhāya*  
+> *havirde |*  
+> *kadviṣṇava urugāyāya reto bravaḥ kadagne śarave bṛhatyai ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । महे । पुष्टिंभराय । पूष्णे । कत् । रुद्राय । सुमखाय । हविःदे ।  
+> कत् । विष्णवे । उरुग्गायाय । रेतः । ब्रवः । कत् । अग्ने । शरवे । बृहत्यै ॥ ७ ॥
+
+> *kathā | mahe | puṣṭiṃbharāya | pūṣṇe | kat | rudrāya | sumakhāya | haviḥde |*  
+> *kat | viṣṇave | uruggāyāya | retaḥ | bravaḥ | kat | agne | śarave | bṛhatyai ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने महे महते पुष्टिंभराय पुष्टिधारकाय पूष्ण एतन्नामकाय
+> देवाय कथा केन हेतुना पापं ब्रवीथाः । सुमखाय सुपूजनीयाय सुयज्ञाय वा हविर्देऽग्निरूपेण देवानां हविर्दात्रे । यद्वा । स्विष्टकृत्वाद्ध विषो
+> दात्रे । रुद्राय कत्कथं ब्रूयाः । तथोरुगायायोरुभिर्बहुभिर्गायमानाय
+> यद्वा । प्रभूतकीर्तये विष्णवे रेतः क्षयहेतु पापं कत्कथं वदेः । शरवे ।
+> शृणाति पक्वा ओषधीरिति शरुः शरत्संवत्सरः । यद्वा । हिंसिका निर्ऋतिः । बृहत्यै
+> महत्यै शरदे निर्ऋत्यै ना कत्कथं पापं ब्रवः । ब्रूयाः ॥ पुष्टिंभराय डुभृञ्
+> धारणपोषणयोः । संज्ञायां भृत्यवृजीत्यादिना खच् । अरुर्द्विषदजंतस्य
+> मुमिति पूर्वपदस्य मुमागमः। चित्तादंतोदात्तः । समासे कृत्स्वरः । हविर्दे ॥
+> अनुदात्तस्य च यत्रोदात्तलोप इति सुप उदात्तत्वं । शरवे । शृ हिंसायां ।
+> शास्वस्निहित्यसीत्यादिना उप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, to great Pūṣan, the bearer of nourishment (पुष्टिंभराय (*puṣṭiṃbharāya*)), a god of that name, for what reason would you speak of the sin? To Rudra, well worthy of worship or of good sacrifice (सुमखाय (*sumakhāya*)), the giver of oblations (हविर्दे (*havirde*)) to the gods in the form of Agni; or else, as Sviṣṭakṛt, the giver of the oblation: why would you speak? Likewise to Viṣṇu, उरुगायाय (*urugāyāya*), sung by many, or of abundant fame: why would you speak of the sin that causes loss of semen (रेतः (*retaḥ*))? "Śaru": that which crushes the ripened herbs, the autumn, the year; or else the violent Nirṛti. To great Śarad or Nirṛti, why would you tell the sin?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- महे (*mahe*)—of great nature
+- पुष्टिंभराय (*puṣṭiṃbharāya*)—the nourisher of the world
+- पूष्टे (*pūṣṭe*)—to the god Pūṣan
+- कथा (*kathā*)—for what reason (would you make known my sin)
+- सुमखाय (*sumakhāya*)—who is worthy of excellent worship
+- हविर्दे (*havirde*)—who offers the oblation in the form of Agni
+- रुद्राय (*rudrāya*)—to Rudra
+- कत् (*kat*)—why do you speak
+- शरवे (*śarave*)—to the presiding deity of the year
+- बृहत्यै (*bṛhatyai*)—and to Nirṛti
+- कत् (*kat*)—how
+- ब्रवः (*bravaḥ*)—do you speak
+- उरुगायाय (*urugāyāya*)—in many ways
+
 ---
 
-**Progress note:** Done through printed p. 735. pp. 730-735 (batch API)
+**Progress note:** Done through printed p. 741. pp. 736-741 (batch API)
