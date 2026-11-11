@@ -18002,6 +18002,259 @@ Chandas—1-6 Jagatī; 7 Triṣṭubh
 > *pṛkṣāso asminmithunā adhi trayo dṛtisturīyo madhuno*  
 > *vi raṣyate ‖ 1 ‖*
 
+### Printed p. 458
+#### Ṛk 1 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । भानुः । उत् । इयर्ति । युज्यते । रथः । परिज्मा । दिवः । अस्य ।  
+> सानवि ।  
+> पृक्षासः । अस्मिन् । मिथुनाः । अधि । त्रयः । दृतिः । तुरीयः । मधुनः । वि । रष्यते ॥१॥
+
+> *eṣaḥ | syaḥ | bhānuḥ | ut | iyarti | yujyate | rathaḥ | parijmā | divaḥ | asya |*  
+> *sānavi |*  
+> *pṛkṣāsaḥ | asmin | mithunāḥ | adhi | trayaḥ | dṛtiḥ | turīyaḥ | madhunaḥ | vi | raṣyate ‖1‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष पुरतो दृश्यमानः स्य स भानुर्दिप्तिमानादित्य उदियर्ति । ऊर्ध्वं
+> गच्छति । पुरुस्ताद्रथश्च युवयोः संबंधी परिज्मा परितो गंतास्य दिवो द्योतमानस्यादित्यस्य सानवि सान् समुच्च्रितप्रदेश उदियर्तिति वा रष्यत इति वा
+> संबंधनीयं । अस्मिन्प्रथेऽधि उपरिभागे मिथुना मिथुनीभूतास्त्रयस्त्रिविधाः
+> पृक्षासोऽन्नानि । त्रेधा विहितं चान्नं । इदमन्नमशनं पानं खादश्चेति हि श्रुतं ।
+> त्रिष्टपि पदार्थेषु मिथुनशब्दस्मैत्तिरीयेषु दृश्यते । माता पिता पुत्रस्तदेव
+> तन्निथुनमिति । दृतिस्तुरीयः । रसद्रव्याधारः पदार्थश्चर्ममयो दृतिरित्युच्यते ।
+> मधुनः सोमरसस्य संबंधी मधुपूर्णश्चतुर्थो वि रष्यते । विविधं राजते ॥
+
+##### Gist of the bhāṣya
+
+This (sun) seen in front, the radiant Āditya, rises up, going upward. Your chariot, which goes about on all sides, is joined at the summit (सानवि (*sānavi*), a raised place) of this shining Āditya; "rises" or "shines" is to be connected with this. Above it are three kinds of food, joined as pairs; food is indeed known to be threefold, as eating, drinking and chewing. In all three the word मिथुन (*mithuna*) is seen in the Taittirīya texts: माता पिता पुत्रस्तदेव तन्निथुनमिति (*mātā pitā putrastadeva tannithunamiti*). The fourth is the दृति (*dṛti*): the leather vessel that holds liquid is called दृति (*dṛti*). It is full of honey, the Soma juice, and shines variously.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः (*eṣaḥ*)—the one shining in front
+- स्यः (*syaḥ*)—the famous
+- भानुः (*bhānuḥ*)—Āditya
+- उदियर्ति (*udiyarti*)—has risen and comes up (O Aśvins)
+- रथः (*rathaḥ*)—your chariot
+- परिज्मा (*parijmā*)—being of a nature to move all around
+- अस्य दिवः (*asya divaḥ*)—of this powerful Āditya
+- सानवि (*sānavi*)—in the very lofty summit region
+- युज्यते (*yujyate*)—is joined (with the sun's disc)
+- अस्मिन् (*asmin*)—in this chariot
+- अधि (*adhi*)—in the upper part
+- मिथुनाः (*mithunāḥ*)—joined together
+- त्रयः (*trayaḥ*)—of three kinds
+- पृक्षासः (*pṛkṣāsaḥ*)—there are foods
+- मधुनः (*madhunaḥ*)—filled with Soma juice
+- दृतिः (*dṛtiḥ*)—the leather vessel
+- तुरीयः (*turīyaḥ*)—as the fourth
+- विरप्यते (*virapyate*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+The famous Āditya, shining in front, has risen and comes up. O Aśvins, your chariot, of a nature to move all around, joins (with the sun's disc) at the very lofty summit region of this powerful Āditya. In the upper part of this chariot are foods of three kinds, joined together. The leather vessel filled with Soma juice shines as the fourth.
+
+### Printed p. 459
+
+##### English translation (H. H. Wilson)
+The sun rises: your chariot, (Ashwins), traversing (the regions), is associated with the divine (orb) on the summit (of the eastern mountain): in it are the three analogous kinds of foud, and the leather vessel of the sweet Soma juice appears as the fourth.
+
+##### विशेषविषयगळु (Special Topics)
+
+मिथुनाः त्रयः पृक्षासः (*mithunāḥ trayaḥ pṛkṣāsaḥ*)—मिथुनीभूताः त्रिविधाः अन्नानि । त्रेधा विहितं चान्नं । इद मन्नमशनं पानं खादश्च इति हि श्रुतं । (*mithunībhūtāḥ trividhāḥ annāni | tredhā vihitaṃ cānnaṃ | ida mannamaśanaṃ pānaṃ khādaśca iti hi śrutaṃ |*) Here an explanation of three kinds of food is given. They are: food, drink and खाद (*khāda*) (things that are chewed and eaten); the use of the word मिथुन (*mithuna*) indicates that all these are joined together. Although the word मिथुन (*mithuna*) means the mutual union of two things, it is said that here it applies also to the union of three things, and in this matter the Taittirīya Brāhmaṇa passage is cited:
+त्रिवृद्बर्हिर्भवति । माता पिता पुत्रः । तदेव तन्निथुनं । उल्पं गर्भो जरायु । तदेव तन्निथुनं । त्रेधा बर्हिस्सन्नद्धं भवति । (*trivṛdbarhirbhavati | mātā pitā putraḥ | tadeva tannithunaṃ | ulpaṃ garbho jarāyu | tadeva tannithunaṃ | tredhā barhissannaddhaṃ bhavati |*) (Tai. Brā. 1-7-3-1)
+In this example: just as mother, father and son, the three, cooperate without disagreement and come together, so at the sacrificial altar, when seats are prepared for the gods to come and sit, it is the custom, to make the seats soft, to spread darbha grass cut evenly in three layers, one upon another. To explain that these three layers together form one seat, the relation of mother, father and son is given as an illustration. The commentator explains the variety of the three kinds of food in the present Ṛk by this same illustration.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्वां॑ पृ॒क्षासो॒ मधु॑मंत ईरते॒ रथा॒ अश्वा॑स उ॒षसो॒  ॑
+> व्युष्टिषु ।  
+> अ॒पू॒र्णु॒वंत॒स्तम॒ आ परी॑वृतं॒ स्व१॒॑र्ण शु॒क्रं त॒न्वंत॒ आरजः॑॥
+
+> *udvāṃ pṛkṣāso madhumaṃta īrate rathā aśvāsa uṣaso*  
+> *vyuṣṭiṣu |*  
+> *apūrṇuvaṃtastama ā parīvṛtaṃ svarṇa śukraṃ tanvaṃta ārajaḥ‖*
+
+### Printed p. 460
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । वां । पृक्षासः । मधुमंतः । ईरते । रथाः । अश्वासः । उषसः । विउष्टिषु ।  
+> अपऊर्णुवंतः । तमः । आ । परिवृतं । स्वः । न । शुक्रं । तन्वंतः । आ । रजः ॥ २ ॥
+
+> *ut | vāṃ | pṛkṣāsaḥ | madhumaṃtaḥ | īrate | rathāḥ | aśvāsaḥ | uṣasaḥ | viuṣṭiṣu |*  
+> *apaūrṇuvaṃtaḥ | tamaḥ | ā | parivṛtaṃ | svaḥ | na | śukraṃ | tanvaṃtaḥ | ā | rajaḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृक्षासः पृक्षास्त्रिविधान्नवंतो मधुमंतः सोमरसोपेता अश्वासोऽश्वयुक्ता नां युवयो रथाः । यद्वा । मधुमंतः पृक्षा रथा अश्वासोऽश्वा
+> उषसो व्युष्टिषु व्युच्छनेषु सत्सदीरते । उन्मुखं गच्छंति । किं कुर्वंतः ।
+> परीवृतं परितो व्याप्तं तम आ सर्वतोऽपूर्णुवंतोऽपाकुर्वंतः स्वर्न आदित्य
+> इव शुक्रं दीप्तं रजस्तेजश्च तन्नंतः । आकारश्चार्थे । यद्वा । रजोऽंतरिक्षं शुक्रं
+> दीप्तं तन्नंतः ॥
+
+##### Gist of the bhāṣya
+
+Your chariots, पृक्षासः (*pṛkṣāsaḥ*) (provided with the threefold food), मधुमंतः (*madhumaṃtaḥ*) (with Soma juice) and अश्वासः (*aśvāsaḥ*) (yoked with horses), ... Or else: the chariots, with honey and food, and the horses, at the dawnings of Ushas, go upward (उदीरते (*udīrate*), move upward). Doing what? Driving off on every side the darkness that has spread all around, like the sun (स्वः न (*svaḥ na*)), and spreading bright, shining radiance. The particle आ (*ā*) has the sense of "and". Or else रजः (*rajaḥ*) is the atmosphere, spread out shining.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृक्षासः (*pṛkṣāsaḥ*)—provided with food
+- मधुमंतः (*madhumaṃtaḥ*)—full of Soma juice
+- अश्वासः (*aśvāsaḥ*)—yoked with horses
+- नां रथाः (*nāṃ rathāḥ*)—your chariots
+- स्वः न (*svaḥ na*)—like the sun
+- परीवृतं (*parīvṛtaṃ*)—enveloping all around
+- तमः (*tamaḥ*)—the thick darkness
+- आ (*ā*)—all around
+- अपोर्णुवंतः (*aporṇuvaṃtaḥ*)—destroying
+- शुक्रं (*śukraṃ*)—bright
+- रजः (*rajaḥ*)—radiance
+- आ तन्नंतः (*ā tannaṃtaḥ*)—spreading all around
+- उषसः (*uṣasaḥ*)—of the dawns
+- व्युष्टिषु (*vyuṣṭiṣu*)—at the times of appearing
+- उदीरते (*udīrate*)—move upward
+
+##### भावार्थ (Bhāvārtha)
+
+Your chariots, provided with food, full of Soma juice and yoked with horses, like the sun, destroying the darkness all around and making bright radiance spread everywhere, move upward at the times of the dawns' appearing.
+
+##### English translation (H. H. Wilson)
+Your food-bearing, Soma-laden, well-horsed chariots, appear at the opening of the dawn, scattering the surrounding darkness like the sun, and spreading bright radiance over the firmament.
+
+### Printed p. 461
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मध्वः॑ पिबतं मधु॒पेभि॑रा॒सभि॑रु॒त प्रि॒यं मधु॑ने युंजाथां॒ रथं॑ ।  
+> आ व॑र्त॒निं मधु॑ना जिन्नथस्प॒थो दृतिं॑ वहेथे॒ मधु॑मंतमश्विना ॥ ३ ॥
+
+> *madhvaḥ pibataṃ madhupebhirāsabhiruta priyaṃ madhune yuṃjāthāṃ rathaṃ |*  
+> *ā vartaniṃ madhunā jinnathaspatho dṛtiṃ vahethe madhumaṃtamaśvinā ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मध्वः । पिबतं । मधुपेभिः । आसभिः । उत । प्रियं । मधुने । युंजाथां । रथं ।  
+> आ । वर्तनिं । मधुना । जिन्वथः । पथः । दृतिं । वहेथे इति । मधुमंतं । अश्विना ॥
+
+> *madhvaḥ | pibataṃ | madhupebhiḥ | āsabhiḥ | uta | priyaṃ | madhune | yuṃjāthāṃ | rathaṃ |*  
+> *ā | vartaniṃ | madhunā | jinvathaḥ | pathaḥ | dṛtiṃ | vahethe iti | madhumaṃtaṃ | aśvinā ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मध्वो मधुरं सोमरसं मधुपेभिः सोमपानार्हैरासभिरास्यैः पिबतं ।
+> उतापि च प्रियं रथं मधुने मधुलाभाय युंजाथां । अश्वैर्युक्तं कुरुतं ।
+> वर्तनिं यजमानगृहमा गच्छतमिति शेषः । षथो गमनमार्गान्मधुना जिन्वथः ।
+> प्रीणयतं । यद्वैकं वाक्यं । पथो वर्तनिमाकाशं जिन्वथः । दृतिं मधुमंतं
+> हे अश्विना वहेथे । धारयथः ॥
+
+##### Gist of the bhāṣya
+
+Drink the sweet Soma juice with mouths (आसभिः (*āsabhiḥ*)) fit for drinking honey. Further, yoke your dear chariot for honey, for the obtaining of honey. "Come to the sacrificer's house" is to be supplied for वर्तनिं (*vartaniṃ*). Gratify the paths of going with honey. Or as one sentence: you gladden the path, the sky. O Aśvins, you bear (that is, hold) the दृति (*dṛti*) full of honey.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- मधुपेभिः (*madhupebhiḥ*)—fit for drinking honey
+- आसभिः (*āsabhiḥ*)—with mouths
+- मध्वः (*madhvaḥ*)—the sweet Soma juice
+- पिबतं (*pibataṃ*)—drink
+- उत (*uta*)—and
+- प्रियं (*priyaṃ*)—agreeable
+- रथं (*rathaṃ*)—chariot
+- मधुने (*madhune*)—for drinking Soma
+- युंजाथां (*yuṃjāthāṃ*)—yoke
+- वर्तनिं (*vartaniṃ*)—to the sacrificer's house
+- आ (गच्छतं) (*ā (gacchataṃ)*)—graciously come
+- पथः (*pathaḥ*)—your path of going
+- मधुना (*madhunā*)—with Soma juice
+- जिन्वथः (*jinvathaḥ*)—make pleasing
+- मधुमंतं (*madhumaṃtaṃ*)—full of Soma juice
+- दृतिं (*dṛtiṃ*)—the leather vessel
+- वहेथे (*vahethe*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, drink the sweet Soma juice with mouths fit for drinking honey. And yoke the agreeable chariot for the drinking of Soma.
+
+### Printed p. 462
+Come to the sacrificer's house. Make your path of going pleasing with Soma juice. Bring the leather vessel filled with Soma juice.
+
+##### English translation (H. H. Wilson)
+Drink of the Soma juice with mouths (fit for) imbibing the beverage : harness your beloved chariot for the Soma juice: (come to the dwelling) of the sacrificer : enliven the path with the Soma: bring, Ashwins, the leather vessels filled with the Soma juice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हं॒सासो॒ ये वां॒ मधु॑मंतो अ॒सिधो॒ हिर॑ण्यपर्णा  
+> उ॒हुव॑ उष॒र्बुधः॑ ।  
+> उ॒द॒पुतो॑ मं॒दिनो॑ मंदिनि॒स्पृशो॒ मध्यो॒ न मक्षः॒  
+> सव॑नानि गच्छथः ॥ ४ ॥
+
+> *haṃsāso ye vāṃ madhumaṃto asidho hiraṇyaparṇā*  
+> *uhuva uṣarbudhaḥ |*  
+> *udaputo maṃdino maṃdinispṛśo madhyo na makṣaḥ*  
+> *savanāni gacchathaḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हंसासः । ये । वां । मधुमंतः । अस्त्रिधः । हिरण्यपर्णाः । उहुवः । उषःबुधः ।  
+> उदपुतः । मंदिनः । मंदिनिस्पृषः । मध्वः । न । मक्षः । सवनानि । गच्छथः ॥ ४ ॥
+
+> *haṃsāsaḥ | ye | vāṃ | madhumaṃtaḥ | astridhaḥ | hiraṇyaparṇāḥ | uhuvaḥ | uṣaḥbudhaḥ |*  
+> *udaputaḥ | maṃdinaḥ | maṃdinispṛṣaḥ | madhvaḥ | na | makṣaḥ | savanāni | gacchathaḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हंसासोऽध्वनि शीघ्रं गंतारो मधुमंतो माधुर्योपेता अस्पिधोऽद्रोग्धारो हिरण्यपर्णा हितरमणीयपर्णा उहुवो वोढार उषर्बुध उषसि
+> बुध्यमाना उदपुत उदकस्य प्लावयितारो मंदिनो हर्षयितारो मंदििनिस्पृशो मुंदिनं सोमं स्पृशंतः । इत्थं लक्षणा अश्वा ये संति तैरश्वैर्मध्वो न
+> मध्विव मक्षो मक्षिकाः सवनान्यस्मदीयानि गच्छथः ॥
+
+##### Gist of the bhāṣya
+
+हंसासः (*haṃsāsaḥ*): going swiftly on the road; मधुमंतः (*madhumaṃtaḥ*): endowed with sweetness; *aspidhaḥ* [so printed]: not injuring; हिरण्यपर्णाः (*hiraṇyaparṇāḥ*): with golden, charming wings; उहुवः (*uhuvaḥ*): bearers; उषर्बुधः (*uṣarbudhaḥ*): waking at dawn; उदपुतः (*udaputaḥ*): makers of water to flow; मंदिनः (*maṃdinaḥ*): gladdeners; मंदिनिस्पृशो (*maṃdinispṛśo*): touching the gladdening Soma. With the horses that have these characteristics, you go to our libations (सवनानि (*savanāni*)) like flies to honey (मध्विव मक्षो (*madhviva makṣo*)).
+
+### Printed p. 463
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विना (*he aśvinā*)—O Aśvins
+- हंसासः (*haṃsāsaḥ*)—moving swiftly
+- मधुमंतः (*madhumaṃtaḥ*)—endowed with the quality of sweetness
+- आस्त्रिधः (*āstridhaḥ*)—not opposing
+- हिरण्यपर्णाः (*hiraṇyaparṇāḥ*)—having wings made of gold
+- उहुवः (*uhuvaḥ*)—able to bear burdens
+- उषर्बुधः (*uṣarbudhaḥ*)—waking at dawn time
+- उदपुतः (*udaputaḥ*)—spreading water
+- मुंदिनः (*muṃdinaḥ*)—giving joy
+- मुंदिनस्पृशः (*muṃdinaspṛśaḥ*)—stimulated by the touch of the joy-giving Soma
+- वां ये (*vāṃ ye*)—(with) whichever horses of yours there are
+- मक्षः (*makṣaḥ*)—bees
+- मध्यो न (*madhyo na*)—as they choose honey, come and fill themselves
+- सवनानि (*savanāni*)—to our sacrifices
+- गच्छथः (*gacchathaḥ*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, with whichever horses of yours are swift-moving, endowed with sweetness, not opposing, golden-winged, able to bear burdens, waking at dawn, spreading water, joy-giving, and stimulated by the touch of the joy-giving Soma, come with them lovingly to our sacrificial houses, as bees come to a place where there is honey and fill themselves.
+
+##### English translation (H. H. Wilson)
+Come to sacrifices as flies to honey, (with those horses) that are swift of speed, gentle, unrefractory, goldenwinged, bearers (of burthens) wakers at dawn, dispensers of water, exulting and sipping the Soma juice.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒ध्व॒रासो॒ मधु॑मंतो अ॒ग्नय॑ उ॒स्रा ज॑रंते॒ प्रति॒ वस्तो॑र॒श्विना॑ ।  
+> यन्नि॒क्तह॑स्तस्त॒रणि॑र्विचक्ष॒णः सोमं॑ सु॒षाव॒ मधु॑मंत॒मद्रि॑भिः ॥ ५ ॥
+
+> *svadhvarāso madhumaṃto agnaya usrā jaraṃte prati vastoraśvinā |*  
+> *yanniktahastastaraṇirvicakṣaṇaḥ somaṃ suṣāva madhumaṃtamadribhiḥ ‖ 5 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 457. pp. 451-457 (batch API)
+**Progress note:** Done through printed p. 463. pp. 458-463 (batch API)
