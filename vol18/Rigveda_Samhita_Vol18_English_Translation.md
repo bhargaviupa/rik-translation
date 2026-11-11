@@ -22258,6 +22258,193 @@ In explaining this root-meaning, the source of the word Savitṛ, Sāyaṇa has 
 
 "Savitṛ, endowed with divine power, has stretched out his golden arms to give vitality to the world. May we too obtain a share of this divine power. O Savitṛ, send us the things we desire today and tomorrow, in continuous succession, every day." (6-71-1, 2) **NOTE**
 
+### Printed p. 567
+
+"O Savitṛ, rise up as the one who provides food fit for men. Of this very great one, of endless power, Savitṛ, the goddess Aditi, Varuṇa, Mitra and Aryaman, gathered together, offer worship with praises." (7-38-2, 4)
+
+"The wealth that the wealthy Savitṛ shall provide for us today, let us share out today." (7-40-1)
+
+"The god Savitṛ comes pervading the whole atmosphere, drawn by horses, holding in his hand many things fit for men in order to give them away, and bringing light to the whole world." (7-45-1)
+
+"Just as I praise and pray for the life-impelling power of Savitṛ and the generosity of Bhaga, so I praise and pray for Agni, who is covered by the ocean of the atmosphere." (8-91-6)
+
+"O Savitṛ, you are endowed with all wealth. Send us today a small portion of your wealth, the best and the most desired." (10-35-7)
+
+"May Savitṛ provide us with every kind of prosperity." (10-36-14)
+
+"May Savitṛ destroy my sloth." (10-100-8)
+
+"Savitṛ, covered by the sun's rays and endowed with golden-hued hair, rises in the eastern quarter with his splendours, following along. The nourisher and protector of the world moves about surveying all the worlds." (10-139-1)
+
+(The same description is elaborated in mantras such as Atha. Saṃ. 5-24-1; 7-14-1, 3; 7-15-1 and others.)
+
+In the mantras quoted above, the use of the root सु (*su*) gives the sense that fits each context. Some of the usages in the examples above may be examined:
+
+- 1-110-2 आसुवत् (*āsuvat*)—he bestowed.
+- 2-38-1 सवाय (*savāya*)—to impel; to urge on.
+- 3-33-6 तस्य प्रसवे (*tasya prasave*)—by his permission; in accordance with his resolve.
+- 3-56-6 आसुवः (*āsuvaḥ*)—provide.
+- 4-53-3 सवीमनि (*savīmani*)—for the life-giving permission.
+- 4-54-3 सुवतात् (*suvatāt*)—cause them to be transformed.
+
+### Printed p. 568
+
+- 5-82-3 सावीः (*sāvīḥ*)—provide.
+- 5-82-4 सावीः (*sāvīḥ*)—provide.
+- 5-82-4 परासुव (*parāsuva*)—drive far away.
+- 5-82-7 सत्यसव (*satyasava*)—the power or permission that is of the nature of truth.
+- 8-91-6 सवं यथा (*savaṃ yathā*)—like the impulsion.
+- 10-100-5 अप साविषत् (*apa sāviṣat*)—may he destroy.
+
+In this way a single root is employed in different contexts that show the various powers of Savitṛ.
+
+Just as words formed from this root सू (*sū*) are used as epithets of Savitṛ, they are also epithets of Sūrya, and they make known his individual influences. In the mantras 7-63-2 and 7-63-4 the epithets प्रसविता (*prasavitā*) and प्रसूतः (*prasūtaḥ*) occur, and in 10-37-4 the word अपसुव (*apasuva*), which denotes an act of Sūrya.
+
+In 3-20-12 हरस्वप्रसूतः (*harasvaprasūtaḥ*) is used with reference to Indra; in 2-28-9 परासुव (*parāsuva*) with reference to Varuṇa; and likewise in mantras such as 7-66-4 परासुव (*parāsuva*) with reference to Mitra, Aryaman, Bhaga and others.
+
+In 7-77-1 प्रसुवंती (*prasuvaṃtī*) is an epithet of Uṣas; it means one who gives life-energy suited to the activity of all creatures. Likewise, in the mantra 8-18-1 the word सवीमनि (*savīmani*) is used to indicate the sense of the gracious help of Āditya.
+
+3. Scriptural statements that show both the identity of Savitṛ and Sūrya and their difference—
+
+In some contexts it is clearly described that Savitṛ is a deity different from Sūrya. In 1-35-9 there is a description of Savitṛ going near Sūrya. In this example the two appear to be different deities. But Sāyaṇa explains this point in that context as follows:
+
+यद्यपि सवितृसूर्ययोरेकदेवतात्वं तथापि मूर्तिभेदेन गंतृगतव्यभावः (*yadyapi savitṛsūryayorekadevatātvaṃ tathāpi mūrtibhedena gaṃtṛgatavyabhāvaḥ*)
+
+Although Sūrya and Savitṛ are one deity, these two forms are two different embodied forms of the original deity. In this explanation of Sāyaṇa the unity of Sūrya and Savitṛ, which is at the same time a difference, is set out
+
+### Printed p. 569
+
+clearly. In 1-123-3 Savitṛ is asked to report to Sūrya the sinlessness of the sacrificers. In the mantra 5-81-4 the matter of his uniting with the rays of Sūrya is told. For the sentence of this mantra सूर्यस्य रश्मिभिः समुच्यसि (*sūryasya raśmibhiḥ samucyasi*) Sāyaṇa has given this explanation: उदयात् पूर्वभावी सविता उदयास्तमयवर्ति सूर इति (*udayāt pūrvabhāvī savitā udayāstamayavarti sūra iti*). The purport of this explanation is that one and the same deity is called by the name Savitṛ before sunrise, and Sūrya from sunrise until sunset. Yāska too has explained this matter in the same way:
+
+तस्य कालो यदा द्यौरपहततमस्का आकीर्णरश्मिर्भवति (*tasya kālo yadā dyaurapahatatamaskā ākīrṇaraśmirbhavati*) (Ni. 12-12)
+
+The time when all the darkness of the atmosphere is destroyed and the whole atmosphere is pervaded with radiance is the time of the manifestation of this Savitṛ. Therefore the worldly activities and rites too must be carried on up to the last part of the day. In 7-66-4 Savitṛ, together with Mitra, the deity of the day, and with Aryaman and Bhaga, is prayed to grant energy to the sacrificer after sunrise. In 10-139-1 he is designated with the epithet "Sūrya-raśmi" (meaning one whose body is covered by the rays of Sūrya).
+
+In 7-35-8 and 7-35-10 the two are mentioned separately. In the same way in 10-181-3 too, in धातुद्युतानात्सवितुश्च विष्णोरासूर्यादभरन् (*dhātudyutānātsavituśca viṣṇorāsūryādabharan*), a distinction of deities is shown as Sūrya and Savitṛ. Or, if the last part of this mantra is examined, it is also possible, from one point of view, to say that it indicates the unity of the four deities Dhātṛ, Savitṛ, Viṣṇu and Sūrya. In 1-157-1 other deities are mentioned together with Sūrya and Savitṛ:
+
+"Agni has come into being from the earth. Sūrya rises. The great Uṣas has appeared with her radiance. The Aśvin deities yoke horses to their chariot. May Savitṛ give energy to all the creatures of the world, so that they may perform their appointed work." In this mantra, which has this purport, the difference between Sūrya and Savitṛ is clear.
+
+In some other contexts it is understood that both indicate one and the same deity. For example, 4-14-2 and 10-158-1, 2, 3; in the mantra वि सुपर्णो अंतरिक्ष्याण्यख्यत् (*vi suparṇo aṃtarikṣyāṇyakhyat*) (1-35-7) the word Sūrya shows the well-known acts of Savitṛ. That is, it is made known that the acts of Sūrya are the acts of Savitṛ. This same point is clearly understood in contexts such as 1-124-1 and 7-63-1 to 4.
+
+### Printed p. 570
+
+In Ṛ. Saṃ. 5-81-4 and 5, with उत मित्रो भवसि (*uta mitro bhavasi*) and उत पूषा भवसि (*uta pūṣā bhavasi*), the identity of Savitṛ with Mitra and Pūṣan is told; or else it may be understood to mean that he is the one who brings the acts of those deities to completion. In mantras such as 5-82-1, 3 and 7-38-1, 6 the word भग (*bhaga*) is an epithet of Savitṛ. In such contexts the word भग (*bhaga*) may be taken to mean "the worshipful one"; or else it may show the identity of Savitṛ and Bhaga. Apart from these contexts, in other contexts, that is, in mantras such as 3-54-11, 12; 6-49-14; 6-50-11, 3; 8-18-3; 8-91-6; 12-139-1 **NOTE**, a strict difference between Savitṛ and the other deities is shown.
+
+It is not a rule that wherever the word Savitṛ is used it is the designation of an individual deity. In 2-30-1 it is an epithet of Indra. In the mantras 3-55-19 and 10-10-5 (देवस्वष्टा सविता विश्वरूपः (*devasvaṣṭā savitā viśvarūpaḥ*)), just as the epithet विश्वरूपः (*viśvarūpaḥ*) occurs, so the word Savitṛ too indicates the special qualities of Tvaṣṭṛ. In such contexts it is more fitting to say that he is one who has the capacity to generate the world than to say that the word gives the sense "giver of life-energy to the world".
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभूद्देव इति षडृचं नवमं सूक्तं वामदेवस्यार्षं सावित्रं । अंत्या
+> त्रिष्टुप् शिष्टास्त्रिष्टुबंतपरिभाषया जगत्यः । तथा चानुक्रमणिका । अभूद्देवः षट्
+> त्रिष्टुबंतमिति ॥ अग्निष्टोमे वैश्वदेवशस्त्रे सावित्रनिविद्वानमिदं । तथा च सूत्रं ।
+> अभूद्देव एकया च दशभिश्च स्वभूते। आ. ५-१८ । इति ॥ आद्या सावित्रग्रहस्यानुवाक्या।
+> तथा च सूत्रं । सावित्रेण ग्रहेण चरंत्यभूद्देवः सविता वंद्यो नु नः ।
+> आ. ५-१८ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning अभूद्देवः (*abhūddevaḥ*), is the ninth sūkta (of the fifth anuvāka), of six ṛks. Its ṛṣi is Vāmadeva and its deity Savitṛ. The last verse is a Triṣṭubh; the rest are Jagatī by the rule that what is not stated is Jagatī up to the Triṣṭubh-ending verse. So the Anukramaṇikā says (six verses beginning अभूद्देवः (*abhūddevaḥ*), ending with a Triṣṭubh). Use: in the Agniṣṭoma, in the Vaiśvadeva śastra, this sūkta serves for the nivid-insertion addressed to Savitṛ. The sūtra says: "अभूद्देव (*abhūddeva*) with one verse and with ten, in स्वभूते (*svabhūte*)" (Ā. 5-18). The first verse is the anuvākyā of the Sāvitra graha; the sūtra says: "They proceed with the Sāvitra graha: अभूद्देवः सविता वंद्यो नु न (*abhūddevaḥ savitā vaṃdyo nu na*)" (Ā. 5-18).
+
+##### Anuvāda
+
+This sūkta, "Abhūd devaḥ", is the ninth sūkta in the fifth anuvāka. It has six ṛks. The ṛṣi of this sūkta is Vāmadeva; the deity is Savitṛ; the last ṛk of the sūkta is in the Triṣṭubh metre; the remaining ṛks are in the Jagatī metre. In the Anukramaṇikā it is said: "Abhūd devaḥ: six, ending with a Triṣṭubh." In the Agniṣṭoma sacrifice, when the Vaiśvadeva-śastra mantras are recited, this sūkta is used for the nivid-insertion sūkta relating to the deity Savitṛ; this is explained by the sūtra of the Āśvalāyana-Śrautasūtra, "Abhūd deva ekayā ca daśabhiś ca svabhūte" (5-18). And the first ṛk of this sūkta is to be recited as the anuvākyā mantra of the Savitṛ-graha oblation; this is explained by the sūtra of the Āśvalāyana-Śrautasūtra, "Sāvitreṇa graheṇa carantyabhūd devaḥ savitā vandyo nu naḥ" (Ā. 5-18).
+
+### Printed p. 571
+
+> सूक्त—५४
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५४ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—५ ॥
+> सूक्तदल्लिरुव ऋक्कंख्यॆ—६ ॥
+> ऋषिः—वामदेवः ॥
+> देवता—सविता ॥
+> छंदः—१-५. जगती । ६ त्रिष्टुप् ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभू॑द्दे॒वः स॑वि॒ता वंद्यो॒ नु न॑ इ॒दानी॒मह्न॑ उप॒वाच्यो॒  ॑
+> नृभिः ।  
+> वि यो रत्ना॒ भज॑ति मान॒वेभ्यः॒ श्रेष्ठं॑ नो॒ अत्र॒ द्रवि॑णं॒ ॒ ॑
+> यथा दधत् ॥ १ ॥
+
+> *abhūddevaḥ savitā vaṃdyo nu na idānīmahna upavācyo*  
+> *nṛbhiḥ |*  
+> *vi yo ratnā bhajati mānavebhyaḥ śreṣṭhaṃ no atra draviṇaṃ*  
+> *yathā dadhat ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभूत् । देवः । सविता । वंद्यः । नु । नः । इदानीं । अह्नः । उपवाच्यः । नृभिः ॥  
+> वि । यः । रत्ना । भजति । मानवेभ्यः । श्रेष्ठं । नः । अत्र । द्रविणं । यथा । दधत् ॥ १ ॥
+
+> *abhūt | devaḥ | savitā | vaṃdyaḥ | nu | naḥ | idānīṃ | ahnaḥ | upavācyaḥ | nṛbhiḥ ‖*  
+> *vi | yaḥ | ratnā | bhajati | mānavebhyaḥ | śreṣṭhaṃ | naḥ | atra | draviṇaṃ | yathā | dadhat ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स सविता देवोऽभूत् । प्रादुरासीत् । अतो नु क्षिप्रमेव नोऽस्माकं
+> वंद्यो वंदनीयो भवति । इदानीं यागकालेऽह्नस्तृतीयसवने नृभिरस्मदीयैर्होतृभिरुपवाच्यः स्तुत्यो भवति । यो देवो मानवेभ्यो मनोरपत्येभ्यो
+> यजमानेभ्यस्तेषामर्थाय रत्ना रमणीयानि धनानि वि भजति स देवः श्रेष्ठं
+> प्रशस्यं द्रविणं गवादिलक्षणं धनं नोऽस्मभ्यमत्रास्मिन्कर्मणि यथा दधत् । दद्यादित्यर्थः । तथा वंद्य उपवाच्यश्चा भूदिति ॥
+
+##### Gist of the bhāṣya
+
+That god Savitṛ has come into being, that is, has appeared. Therefore he quickly becomes worthy of our worship. Now, at the time of the sacrifice, in the third pressing of the day, he is to be praised by our priests. The god who apportions delightful riches to the Mānavas, the descendants of Manu, that is, the sacrificers, for their sake: may that god bestow on us, in this rite, excellent, praiseworthy wealth consisting of cows and the like. The meaning is "may he give". Thus he has become worthy of worship and of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the divine
+- सविता (*savitā*)—god Savitṛ
+- अभूत् (*abhūt*)—has become visible
+- नु (*nu*)—very soon
+- नः (*naḥ*)—to us
+- वंद्यः (*vaṃdyaḥ*)—becomes worthy of worship
+- इदानीं (*idānīṃ*)—at this time of the sacrifice
+
+### Printed p. 572
+
+- अह्नः (*ahnaḥ*)—at the time of the third pressing
+- नृभिः (*nṛbhiḥ*)—by us, who are men
+- उपवाच्यः (*upavācyaḥ*)—becomes worthy of praise
+- यः (*yaḥ*)—which god Savitṛ
+- मानवेभ्यः (*mānavebhyaḥ*)—to the sacrificers, who are related to Manu
+- रत्ना (*ratnā*)—delightful riches
+- वि भजति (*vi bhajati*)—divides and distributes
+- नः (*naḥ*)—to us
+- अत्र (*atra*)—in this sacrificial rite
+- श्रेष्ठं (*śreṣṭhaṃ*)—excellent
+- द्रविणं (*draviṇaṃ*)—wealth
+- यथा (*yathā*)—in what manner
+- दधत् (*dadhat*)—is able to give (may he favour us in that manner)
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Savitṛ has risen. He becomes visible to us. He is worthy of our worship. At the time of the third pressing of this sacrifice he is to be praised by all of us, who are men. May that god Savitṛ, who divides and distributes delightful riches to the sacrificers, who are related to Manu, favour us so that he gives us excellent wealth in this sacrificial rite.
+
+##### English translation (H. H. Wilson)
+The divine Savitri has been manifested : he is at once to be glorified by us : he is to be praised by the priests at the present (rite), and at the close (of the day), in order that he who appotions precious things to the descendants of Manu may bestow upon us, on this occasion, most excellent wealth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वेभ्यो॒ हि प्र॑थ॒मं य॒ज्ञिये॑भ्योऽमृत॒त्वं सु॒वसि॑  ॒॒॑
+> भागमुत्तमं ।  
+> आदिद्दा॒ मानं॑ सवित॒र्प्यू॑र्णुषेनूची॒ना जी॑वि॒ता मानु॑षेभ्यः॥
+
+> *devebhyo hi prathamaṃ yajñiyebhyo 'mṛtatvaṃ suvasi*  
+> *bhāgamuttamaṃ |*  
+> *ādiddā mānaṃ savitarpyūrṇuṣenūcīnā jīvitā mānuṣebhyaḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवेभ्यः । हि । प्रथमं । यज्जियेभ्यः । अमृतत्वं । सुवसि । भागं । उत्तमं ।  
+> आत् । इत् । दामानं । सवितः । वि । ऊर्णुषे अनूचीना । जीविता । मानुषेभ्य ॥२॥
+
+> *devebhyaḥ | hi | prathamaṃ | yajjiyebhyaḥ | amṛtatvaṃ | suvasi | bhāgaṃ | uttamaṃ |*  
+> *āt | it | dāmānaṃ | savitaḥ | vi | ūrṇuṣe anūcīnā | jīvitā | mānuṣebhya ‖2‖*
+
 ---
 
-**Progress note:** Done through printed p. 566. pp. 560-566 (batch API)
+**Progress note:** Done through printed p. 572. pp. 567-572 (batch API)
