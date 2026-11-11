@@ -14898,6 +14898,211 @@ This sūkta, "Mitro janān", is the sixth sūkta in the fifth anuvāka. It conta
 
 ब्रुवाणः (*bruvāṇaḥ*) means being praised, or making sound; this is Mitra. Mitra is so called because he is widely known (मायते (*māyate*), from प्रकर्षेण (*prakarṣeṇa*)) by all, or because he protects all by granting rain; Mitra is the sun. He यातयति (*yātayati*) the people, the farmers and others: he makes them strive in tilling and other works. Likewise Mitra alone sustains (दाधार (*dādhāra*)) both earth and heaven, these two worlds, by producing food and sacrifices through rain. That being so, Mitra with an unwinking, gracious gaze (अनिमिषा (*animiṣā*)) looks all around (अभि चष्टे (*abhi caṣṭe*)) on the कृष्टीः (*kṛṣṭīḥ*), men engaged in work. Knowing all this, O priests, offer (जुहोत (*juhota*)) to that god Mitra the oblation fit for offering, such as the puroḍāśa, accompanied by ghee (धृतवत् (*dhṛtavat*)), with the spreading of ghee beneath and the pouring of it over.
 
+### Printed p. 442
+
+> जुहुत । प्रयच्छतेत्यर्थः । उक्तार्थं यास्को ब्रवीति । मित्रो जनान्यातयति
+> ब्रुवाणः शब्दं कुर्वन् । मित्र एव धारयति प्रथिवीं च दिवं च । मित्रः कृष्टीरनिमिषन्नभिपश्यतीति । कृष्टय इति मनुष्यनाम कर्मवंतो भवंति विकृष्टदेहा वा ।
+> मित्राय हव्यं धृतवज्जुहोतेति व्याख्यातं । जुहोतिर्दानकर्मा । नि. १०-२२ ।
+> इति ॥ यातयति । यती प्रयत्न इत्यस्य ण्यंतस्य लटि रूपं । दाधार । तुजादीनामित्यभ्यासस्य दीर्घः । जुहोत । जुहोतेर्लोटि प्रत्ययस्य तबादेशः । गुणः ।
+> निघातः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the gloss of the word जुहोत (*juhota*): it means "give". He then cites Yāska for the sense already stated. "Mitra urges men on, speaking, that is, making a sound. Mitra alone sustains the earth and the heaven. Mitra looks upon the कृष्टीः (*kṛṣṭīḥ*) without closing his eyes." Yāska adds that कृष्टयः (*kṛṣṭayaḥ*) is a name for men, who are active, or whose bodies are extended. "मित्राय हव्यं धृतवज्जुहोत (*mitrāya havyaṃ dhṛtavajjuhota*)" is already explained; जुहोति (*juhoti*) is a verb of giving (Ni. 10-22).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रुवाणः (*bruvāṇaḥ*)—the one who is praised
+- मित्रः (*mitraḥ*)—the Sun, in the form of Mitra
+- जनान् (*janān*)—the people
+- यातयति (*yātayati*)—impels them each to their own works
+- मित्रः (*mitraḥ*)—that same Mitra
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—the heaven too
+- दाधार (*dādhāra*)—has upheld
+- मित्रः (*mitraḥ*)—that same Mitra
+- अनिमिषा (*animiṣā*)—with a favouring gaze
+- कृष्टीः (*kṛṣṭīḥ*)—all people
+- अभि चष्टे (*abhi caṣṭe*)—looks around upon (O priests)
+- धृतवत् (*dhṛtavat*)—endowed with ghee
+- हव्यं (*havyaṃ*)—the oblation
+- मित्राय (*mitrāya*)—addressed to that Mitra
+- जुहोत (*juhota*)—offer in the form of an oblation
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra, who is praised by the singers, impels the people to their own works. That same Mitra has upheld the earth and the heaven. That same Mitra looks around upon all people with a favouring gaze. O priests, offer the oblation, endowed with ghee, as an oblation addressed to that Mitra.
+
+##### English translation (H. H. Wilson)
+Mitra, when praised, animates men to exertion : Indra sustains both
+the earth and heaven : Mitra looks upon men with unclosing eyes : offer to
+Mitra the oblations of clarified butter.**NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+The author of the Nirukta too has explained the purport of this mantra: मित्रः जनान् आयातयति प्रब्रुवाणः । शब्दं कुर्वन् । मित्र एव धारयति पृथिवीं च दिवं च । मित्रः कृष्टी अनिमिषन् अभिविपश्यति इति । कृष्टयः इति मनुष्यनाम । कर्मवंतः भवंति । विकृष्टदेहा वा .... .... ॥ (*mitraḥ janān āyātayati prabruvāṇaḥ | śabdaṃ kurvan | mitra eva dhārayati pṛthivīṃ ca divaṃ ca | mitraḥ kṛṣṭī animiṣan abhivipaśyati iti | kṛṣṭayaḥ iti manuṣyanāma | karmavaṃtaḥ bhavaṃti | vikṛṣṭadehā vā .... .... ‖*) (Ni. 10-22)
+
+### Printed p. 443
+Mitra, making an exhorting sound, leads the people along the good path. Mitra alone upholds and protects both heaven and earth. Without touching a limit he surveys all the people completely. Here the word कृष्ण (*kṛṣṇa*)**NOTE** is a synonym for human beings. Because the body is always engaged in action and is extended, this is a word used as an epithet.
+
+Sāyaṇa's view is that the word Mitra is a synonym of the Sun. He has shown the meaning of the parts of the word, saying that the word Mitra is formed by the union of the two roots मि (*mi*) and त्रा (*trā*): प्रकर्षेण सर्वैर्मीयते ज्ञायते तथा सर्वान् वृष्टिप्रदानेन त्रायत इति ना मित्रः सूर्यः । (*prakarṣeṇa sarvairmīyate jñāyate tathā sarvān vṛṣṭipradānena trāyata iti nā mitraḥ sūryaḥ |*). He is fully known by all, and he protects all. Because he has these two qualities, the Sun is what the word Mitra denotes.
+
+Since the three actions specified in this mantra also belong to the Sun, the eye of the world, the sense referring to the Sun is proper. They are: impelling men to their respective works; upholding heaven and earth together; and viewing everything completely in the form of his own radiance. These are the three functions.
+
+अवत इत्येष हीदग्ं सर्वमवति (*avata ityeṣa hīdagṃ sarvamavati*) (Śa. Brā. 8-7-3-13). "This Sun alone makes the whole world animate" and so on: the power of the Sun thus described is indicated here by the word यातयति (*yātayati*). Moreover, praises such as सविता सर्वस्य प्रसविता (*savitā sarvasya prasavitā*) are well known. And:
+
+आदित्यास्ता पृष्ठे सादयामीति । इयं ना अदितिरस्यामेवैनमेतत्पतिष्ठायां प्रतिष्ठापयत्यंतरिक्षस्य धर्त्रिं विष्टंभनीं दिशामधिपत्नीं भुवनानामित्यंतरिक्षस्य ह्येष धर्ता विष्टंभनो दिशामधिपतिर्भुवनानामूर्मिर्दप्रोऽपामसीतिरसः .... .... ॥ (*ādityāstā pṛṣṭhe sādayāmīti | iyaṃ nā aditirasyāmevainametatpatiṣṭhāyāṃ pratiṣṭhāpayatyaṃtarikṣasya dhartriṃ viṣṭaṃbhanīṃ diśāmadhipatnīṃ bhuvanānāmityaṃtarikṣasya hyeṣa dhartā viṣṭaṃbhano diśāmadhipatirbhuvanānāmūrmirdapro 'pāmasītirasaḥ .... .... ‖*) (Śa. Brā. 8-2-1-10)
+
+In sentences of this kind all the qualities of the Sun mentioned above are stated together. This Āditya, the son of Aditi who supports all, is the light of the universe. He is the upholder of all the worlds beginning with the atmosphere, the lord of the universe, Prajāpati, the eye of the world; thus all the qualities are described.
+
+कृष्टीः (*kṛṣṭīḥ*)—for the word कृष्टि (*kṛṣṭi*) he has given the meaning कर्मवतः मनुष्यान् (*karmavataḥ manuṣyān*), "men engaged in action". Since it is described that Mitra, in the form of the Sun, has upheld both heaven and earth, one would not be wrong in saying that the word कृष्टि (*kṛṣṭi*) means all beings, including the gods.
+
+### Printed p. 444
+यस्येक्ष्वाकुरुप व्रते रेवान्मराय्येधते दिवीव पंच कृष्टयः । (*yasyekṣvākurupa vrate revānmarāyyedhate divīva paṃca kṛṣṭayaḥ |*) (Ṛ. Saṃ. 10-60-9)
+
+In passages of this kind a likeness is stated between the five कृष्टि (*kṛṣṭi*) of the earth and the five कृष्टि (*kṛṣṭi*) of the heavenly world. Moreover, when it is told who the five कृष्टि (*kṛṣṭi*) are, it is said: मनुष्याः पितरो देवा गंधर्वोरगराक्षसाः (*manuṣyāḥ pitaro devā gaṃdharvoragarākṣasāḥ*) (Bṛ. De. Ni. 68); the five groups, gods, men and the rest, together are the five कृष्टि (*kṛṣṭi*). Therefore there can be no fault in stating the above meaning here.
+
+अभिचष्टे (*abhicaṣṭe*)—when the root चक्ष (*cakṣa*) is joined with the prefix अभि (*abhi*), it has the sense "look around", and also the sense "shine so as to be seen all around by all". The author of the Nirukta has given for the word चक्षसे (*cakṣase*) the purport दर्शनाय (*darśanāya*) (Ni. 9-27), "for seeing", and for the word अभिचष्टे (*abhicaṣṭe*) the purport अभिपश्यति (*abhipaśyati*) (Ni. 10-22), सर्वतः पश्यति (*sarvataḥ paśyati*), "sees well all around". The above sense is found in examples such as महे रणाय चक्षसे (*mahe raṇāya cakṣase*) (10-9-1). And:
+
+महत्ते विष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुं । (*mahatte viṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yaduṃ |*) (Ṛ. Saṃ. 8-4-7)
+
+Here the word अभिचक्ष्य (*abhicakṣya*) means प्रकाश्य (*prakāśya*), that is, to make oneself manifest and visible so that others can see fully. In the present Ṛk it may be said that Āditya, who has upheld heaven and earth together, possesses two kinds of power: the power of illuminating the whole world and the power of being the eye of the world are found in him alone.
+
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आप्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥ (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | āprā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthuṣaśca ‖*) (Ṛ. Saṃ. 1-15-1)
+
+In mantras of this kind all the qualities mentioned in the present Ṛk are described together. This same mantra is recited in the Taittirīya Saṃhitā with a slight variation. The text there is:
+
+मित्रो जनान्यातयति प्रजानन्मित्रो दाधार वृद्धिवीमुत द्यां । मित्रः कृष्टीरनिमिषाभिचष्टे सत्याय हव्यं धृतवद्विधेम ॥ (*mitro janānyātayati prajānanmitro dādhāra vṛddhivīmuta dyāṃ | mitraḥ kṛṣṭīranimiṣābhicaṣṭe satyāya havyaṃ dhṛtavadvidhema ‖*) (Tai. Saṃ. 3-4-11-5)
+
+In place of ब्रुवाणः (*bruvāṇaḥ*) of the present Ṛk, the Taittirīya Saṃhitā has प्रजानन् (*prajānan*), and in the second half, in place of मित्राय (*mitrāya*) it has सत्याय (*satyāya*). Since the cited mantra has प्रजानन् (*prajānan*) in the first half, for the word अभिचष्टे (*abhicaṣṭe*) the meaning प्रकाशयति (*prakāśayati*),
+
+### Printed p. 445
+"makes everything shine", fits. And it is natural that, in सत्याय हव्यं (*satyāya havyaṃ*), the word सत्य (*satya*) is a synonym of the word मित्र (*mitra*). In the sacrifice called Devasū, the injunction that the offering be made to Mitra, whose nature is truth, shows this non-difference: देवसुवां हविष्णु मित्रस्य सत्यस्य (*devasuvāṃ haviṣṇu mitrasya satyasya*) and so on. This subject will be explained in the Special Topics of the next Ṛk.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्यस्त॑ आदित्य॒ शिक्ष॑ति व्र॒तेन॑ ।  
+> न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मंहो॑ अश्नो॒त्यंति॑तो॒ न  ॒
+> दूरात् ॥ २ ॥
+
+> *pra sa mitra marto astu prayasvānyasta āditya śikṣati vratena |*  
+> *na hanyate na jīyate tvoto nainamaṃho aśnotyaṃtito na*  
+> *dūrāt ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सः । मित्र । मर्तः । अस्तु । प्रयस्वान् । यः । ते । आदित्य । शिक्षति । व्रतेन ।  
+> न । हन्यते । न । जीयते । त्वाऊतः । न । एनं । अ०हः । अश्नोति । अंतितः । न ।  
+> दूरात् ॥ २ ।
+
+> *pra | saḥ | mitra | martaḥ | astu | prayasvān | yaḥ | te | āditya | śikṣati | vratena |*  
+> *na | hanyate | na | jīyate | tvāūtaḥ | na | enaṃ | a0haḥ | aśnoti | aṃtitaḥ | na |*  
+> *dūrāt ‖ 2 |*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवसुवां हविषु मित्रस्य सत्यस्य प्र स मित्रॆति याज्या । एष्यव प्रातर्होमस्य कालात्ययनिमित्ते मृत्रे चरौ याज्या । सूत्रितं च । प्र स मित्र मर्तो अस्तु
+> प्रयस्वांस्तां नष्टवान्महिमाय पृच्छते । आ. ४-११ । इति ॥ तत इष्टिर्मित्रः
+> सूर्योऽभि यो महिना दिवं प्र स मित्र मर्तो अस्तु प्रयस्वानिति संस्थितायां ।
+> आ. ३-१२ । इति च ॥
+> हे आदित्य व्रतेन यज्ञेन युक्तो यो मनुष्यस्ते तुभ्यं शिक्षति हनिर्लक्षणमन्नं ददाति हे मित्र स मर्तो मनुष्यः प्रयस्वानन्नवान् प्रास्तु । प्रभवतु ।
+> तोतस्त्वया रक्षितः स मनुष्यः केनापि न हन्यते न बाध्यते । न जीयते ! नाभिभूयते च। एनं तुभ्यं हविर्दत्तवंतं पुरुषमंहः पापमंतितः समीपान्नाश्नोति।
+> न प्राप्नोति । दूरादपि न प्राप्नोति ॥ शिक्षतिर्दानकर्मा । व्यत्ययेन परस्मैपदं
+> यद्वृत्तयोगादनिघातः । जीयते । जयतेः कर्मणि यक्यकृत्सार्वधातुकयोरिति
+> दीर्घः । त्वोतः । तृतीया कर्मणीति पूर्वपदस्वरः । अश्नोति । अशू व्याप्तौ ।
+> स्वादिः । व्यत्ययेन परस्मैपदं ॥
+
+##### Gist of the bhāṣya
+
+Viniyoga: in the offerings of the देवसुवां हविषु (*devasuvāṃ haviṣu*) to Mitra, the true, "प्र स मित्र (*pra sa mitra*)" is the yājyā. It is likewise the yājyā in the caru offered to Mitra when the time of the morning homa has been exceeded. This is laid down in the sūtra (Ā. 4-11), "प्र स मित्र मर्तो अस्तु प्रयस्वांस्तां नष्टवान्महिमाय पृच्छते (*pra sa mitra marto astu prayasvāṃstāṃ naṣṭavānmahimāya pṛcchate*)", and in the sūtra (Ā. 3-12), "then the iṣṭi to Mitra: सूर्योऽभि यो महिना दिवं (*sūryo 'bhi yo mahinā divaṃ*), प्र स मित्र मर्तो अस्तु प्रयस्वान् (*pra sa mitra marto astu prayasvān*), when the rite is completed".
+
+Meaning: O Āditya, the man who, bound to the rite, gives you the food that is the oblation, O Mitra, let that mortal be rich in food and prosper. Protected by you, that man is neither slain nor hindered by anyone, and he is not overcome. Sin does not reach this man who has given you the oblation, whether from near or from afar. शिक्षति (*śikṣati*) is a verb of giving; the parasmaipada is by interchange.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्य (*āditya*)—O Āditya
+- व्रतेन (*vratena*)—joined to the sacrifice
+- यः (*yaḥ*)—the man who
+- ते (*te*)—to you
+- शिक्षति (*śikṣati*)—offers the food in the form of the oblation
+- मित्र (*mitra*)—O Mitra
+- स मर्तः (*sa martaḥ*)—that man
+- प्रयस्वान् (*prayasvān*)—possessed of food
+- प्र अस्तु (*pra astu*)—let him be
+- त्वोतः (*tvotaḥ*)—the man protected by you
+- न हन्यते (*na hanyate*)—is not injured by anyone
+- न जीयते (*na jīyate*)—is not conquered by anyone
+- एनं (*enaṃ*)—such a sacrificer
+- अंहः (*aṃhaḥ*)—sin
+- अंतितः (*aṃtitaḥ*)—even near
+- न अश्नोति (*na aśnoti*)—does not reach
+- दूरात् न (*dūrāt na*)—nor is it far off
+
+### Printed p. 446
+
+##### भावार्थ (Bhāvārtha)
+
+O Āditya, the man bound to the sacrifice who offers you food in the form of the oblation, O Mitra, let that man become rich in food. The man protected by you is not injured by anyone and is not conquered by anyone. Sins do not come near such a sacrificer, nor are they far off.
+
+##### English translation (H. H. Wilson)
+May that mortal enjoy abundance, Mitra, who presents you, Aditya, (with offerings) at the sacred rite ; protected by you he is not harmed ; he is not overcome by any one ; sin reaches him not, either from afar or nigh.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the offering of the oblations called देवसुव (*devasuva*), and at the morning offering when its time has been exceeded, and also when a caru is offered to Mitra, this Ṛk प्र स मित्र (*pra sa mitra*) is to be used as the yājyā mantra. This is stated in the Āśvalāyana Śrauta Sūtra by the sūtra प्र स मित्र मर्तो अस्तु प्रयस्वांस्तां नष्टवान्महिमाय पृच्छते (*pra sa mitra marto astu prayasvāṃstāṃ naṣṭavānmahimāya pṛcchate*) (Ā. 4-11) and by the sūtra तत इष्टिर्मित्रः सूर्योऽभि यो महिना दिवं प्र स मित्र मर्तो अस्तु प्रयस्वानिति संस्थितायां (*tata iṣṭirmitraḥ sūryo 'bhi yo mahinā divaṃ pra sa mitra marto astu prayasvāniti saṃsthitāyāṃ*) (Ā. 3-12).
+
+The chief purport of the mantra is that one who worships Āditya, whose nature is Mitra, becomes wholly free of sin and becomes victorious. There is an injunction that this mantra be recited and the offering made at the time of offering oblations to the Devasūs, when the offering is addressed to Mitra, whose nature is truth. One may first learn what the Devasū sacrifice is, and then learn the explanation of the mantra.
+
+### Printed p. 447
+देवसुवः (*devasuvaḥ*): this is the name by which the group of gods who give vitality to the whole world is called. The number of these gods is eight. At the time of the abhiṣecanīya rite, a part of the Rājasūya, the prescribed oblation is to be offered to these eight gods. Its order is as follows.
+
+1. सवित्रे सत्यप्रसवाय । द्वादशकपालं वाष्टाकपालं वा पुरोडाशं निर्वपति प्लाशुकानां व्रीहीणां सविता वै देवानां प्रसविता सवितृप्रसूतः सूया इत्यथ यत्‌ प्लाशुकानां व्रीहीणां क्षिप्रे मा प्रसुवानिति ॥ (*savitre satyaprasavāya | dvādaśakapālaṃ vāṣṭākapālaṃ vā puroḍāśaṃ nirvapati plāśukānāṃ vrīhīṇāṃ savitā vai devānāṃ prasavitā savitṛprasūtaḥ sūyā ityatha yat plāśukānāṃ vrīhīṇāṃ kṣipre mā prasuvāniti ‖*) (Śa. Brā. 5-3-3-2)
+
+The grain called प्लाशुक (*plāśuka*) gives vitality; it is to give rain quickly. With it an oblation consisting of eight potsherds or of twelve potsherds is to be prepared and offered to Savitṛ, the impeller of the gods and impeller of truth. By thus offering, the king who is ready for the consecration gains confidence of acquiring vigour in his duty.
+
+2. अधाग्नये गृहपतये । अष्टाकपालं पुरोडाशं निर्वपत्याशूनां श्रीर्वै गार्हपत्यं यावतो-यावत ईष्टे तदेनमग्निरेव गृहपतिर्गार्हपत्यमभिपरिणयत्यथ यदाशूनां क्षिप्रे मा परिणयानिति ॥ (*adhāgnaye gṛhapataye | aṣṭākapālaṃ puroḍāśaṃ nirvapatyāśūnāṃ śrīrvai gārhapatyaṃ yāvato-yāvata īṣṭe tadenamagnireva gṛhapatirgārhapatyamabhipariṇayatyatha yadāśūnāṃ kṣipre mā pariṇayāniti ‖*)
+
+The grain called आशु (*āśu*) is quick to bear fruit. From this grain a puroḍāśa of eight potsherds is to be prepared and offered to Agni, the lord of the house. The position of lord of the house is endowed with wealth. The king who obtains lordship of the house through the grace of such an Agni becomes endowed with wealth. And by offering a puroḍāśa made of आशु (*āśu*) grain, he too, like it, gains quick prosperity.
+
+3. अथ सोमाय वनस्पतॆये । श्यामाकं चरुं निर्वपति तदेनग्ं सोम एव वनस्पतिरोषदिभ्यः सुवत्यथ यच्छ्यामाको भवत्येते वै सोमसौषधीनां प्रत्यक्षतमां यच्छ्यामाकास्तस्नाच्छ्यामाको भवति ॥ (*atha somāya vanaspatèye | śyāmākaṃ caruṃ nirvapati tadenagṃ soma eva vanaspatiroṣadibhyaḥ suvatyatha yacchyāmāko bhavatyete vai somasauṣadhīnāṃ pratyakṣatamāṃ yacchyāmākāstasnācchyāmāko bhavati ‖*)
+
+King Soma is lord of the plants. Among plants, this श्यामाक (*śyāmāka*) is the dearest to Soma. If a puroḍāśa is prepared from श्यामाक (*śyāmāka*) and offered to Soma, the cause of peace and nourishment, the king who is being consecrated obtains peace and nourishment.
+
+4. अथ बृहस्पतये वाचे । नैवारं चरुं निर्वपति तदेनं बृहस्पतिरेव वाचे सुवत्यथ यन्नॆवारो भवति ब्रह्म वै बृहस्पतिरेते वै ब्रह्मणा सच्यंते यन्नीवारास्तस्नान्नीवारो भवति ॥ (*atha bṛhaspataye vāce | naivāraṃ caruṃ nirvapati tadenaṃ bṛhaspatireva vāce suvatyatha yannèvāro bhavati brahma vai bṛhaspatirete vai brahmaṇā sacyaṃte yannīvārāstasnānnīvāro bhavati ‖*)
+
+### Printed p. 448
+Bṛhaspati is lord of speech, which is dear to brahman. The नीवार (*nīvāra*) grain is nourished by brahman. Therefore, by preparing a puroḍāśa from this नीवार (*nīvāra*) grain and offering it to Bṛhaspati, the king obtains the grace of Bṛhaspati, lord of speech, and increases his own power of speech.
+
+1. अथेंद्राय ज्येष्ठाय । हायनानां चरुं निर्वपति तदेनमिंद्र एव ज्येष्ठो ज्येष्ठमभिपरिणयत्यथ यद्धायनानां भवत्यतिष्ठा वा एता ओषधयो यद्वायना अतिष्टो वा इंद्रस्तस्माद्दायनानां भवति ॥ (*atheṃdrāya jyeṣṭhāya | hāyanānāṃ caruṃ nirvapati tadenamiṃdra eva jyeṣṭho jyeṣṭhamabhipariṇayatyatha yaddhāyanānāṃ bhavatyatiṣṭhā vā etā oṣadhayo yadvāyanā atiṣṭo vā iṃdrastasmāddāyanānāṃ bhavati ‖*)**NOTE**
+
+Among the gods Indra alone is the eldest and the lord. Among plants हायन (*hāyana*) is the eldest. Therefore a caru is to be prepared from हायन (*hāyana*) grain and offered to Indra. Through the grace of this Indra the king, surpassing the foremost position, becomes fit to be lord of all.
+
+6) अथ रुद्राय पशुपतये । रौद्रं गावीधुकं चरुं निर्वपति तदेनग्ं रुद, एव पशुपतिः पशुभ्यः सुवत्यथ यद्दावीधुको भवति वास्तवो वा विष देवो वास्तव्या गावीधुकास्त्स्माद्गावीधुको भवति ॥ (*atha rudrāya paśupataye | raudraṃ gāvīdhukaṃ caruṃ nirvapati tadenagṃ ruda, eva paśupatiḥ paśubhyaḥ suvatyatha yaddāvīdhuko bhavati vāstavo vā viṣa devo vāstavyā gāvīdhukāstsmādgāvīdhuko bhavati ‖*)
+
+Rudra is lord of animals. गावीधुक (*gāvīdhuka*) grain belongs to Rudra. In the sacrifice the वास्तव्य (*vāstavya*) portion is due to Rudra. गवेधुक (*gavedhuka*)**NOTE** too must belong to this वास्तव्य (*vāstavya*) group. Therefore, by offering a caru of गवेधुक (*gavedhuka*) grain to Rudra, lord of animals, there is no doubt that the king obtains wealth of cattle.
+
+7) अथ मित्राय सत्याय ! नांबानां चरुं निर्वपति तदेनं मित्र एव सत्यो ब्रह्मणे सुवत्यथ यन्नांबानां भवति (*atha mitrāya satyāya ! nāṃbānāṃ caruṃ nirvapati tadenaṃ mitra eva satyo brahmaṇe suvatyatha yannāṃbānāṃ bhavati*)
+
+Although the नांब (*nāṃba*) seed belongs to Varuṇa, the नांब (*nāṃba*) plant belongs to Mitra. Therefore, if a caru is prepared from नांब (*nāṃba*) seed and offered to Mitra, whose nature is truth and who is the impeller of truth, the king gains Mitra's favour and obtains brahmanical splendour.
+
+8) अथ वरुणाय धर्मपतॆये । वारुणं यवमयं चरुं निर्वपति तदेनं वरुण एव धर्मपतिर्धर्मस्य पतिं करोति परमता वै सा यो धर्मस्य पतिरसद्यो हि परमतां गच्छति तग्ंहि धर्म उपयंति तस्माद्वरुणाय धर्मपतये (*atha varuṇāya dharmapatèye | vāruṇaṃ yavamayaṃ caruṃ nirvapati tadenaṃ varuṇa eva dharmapatirdharmasya patiṃ karoti paramatā vai sā yo dharmasya patirasadyo hi paramatāṃ gacchati tagṃhi dharma upayaṃti tasmādvaruṇāya dharmapataye*) (Śa. Brā. 5-3-3-9)**NOTE**
+
+To be lord of dharma and president of dharma is the highest office of a king. For him to obtain this office the favour of Varuṇa, the protector of all dharma in the universe, is absolutely necessary. Therefore a caru is to be prepared from barley, which is dear to him, and offered to him. Through Varuṇa's favour the king obtains the most praiseworthy office of president of dharma.
+
+### Printed p. 449
+Thus all eight gods are worshipped, each according to his position, in the rite called Devasū, a part of the Rājasūya. Among them Mitra, whose nature is truth, is one. For his satisfaction the present mantra is recited. The same Devasū sacrifice is stated in the Taittirīya Saṃhitā also, with slight variation. Differences appear only in a few small points; there is no difference in the explanation of the principal points.
+
+अग्नये गृहपतये पुरोडाशमष्टाकपालं निर्वपति कृष्णानां व्रीहीणाग्० सोमाय वनस्पतये श्यामाकं चरुग्० सवित्रे सत्यप्रसवाय पुरोडाशं द्वादशकपालमाशूनां व्रीहीणाग्० रुद्राय पशुपतये गावीधुकं चरुं बृहस्पतये वाचस्पतये नैवारं चरुमिंद्राय ज्येष्ठाय पुरोडाशमेकादशकपालं महाव्रीहीणां मित्राय सत्यायाम्यानां चरुं वरुणाय धर्मपतये यवमयं चरुग्० सविता त्वा प्रसवानाग्० सुवतां ॥ (*agnaye gṛhapataye puroḍāśamaṣṭākapālaṃ nirvapati kṛṣṇānāṃ vrīhīṇāg0 somāya vanaspataye śyāmākaṃ carug0 savitre satyaprasavāya puroḍāśaṃ dvādaśakapālamāśūnāṃ vrīhīṇāg0 rudrāya paśupataye gāvīdhukaṃ caruṃ bṛhaspataye vācaspataye naivāraṃ carumiṃdrāya jyeṣṭhāya puroḍāśamekādaśakapālaṃ mahāvrīhīṇāṃ mitrāya satyāyāmyānāṃ caruṃ varuṇāya dharmapataye yavamayaṃ carug0 savitā tvā prasavānāg0 suvatāṃ ‖*) (Tai. Saṃ. 18-10)
+
+In these mantras the order of the oblations to be offered to the Devasuvas is explained. The number and names of the gods are just as stated in the Śatapatha Brāhmaṇa. But there is a slightly different account of the grains used for the oblations. For Savitṛ, the impeller of truth, the Śatapatha prescribes the grain called प्लाशुक (*plāśuka*); for Agni, lord of the house, the आशु (*āśu*) grain; for Indra, the eldest, the हायन (*hāyana*) grain. The Taittirīya Saṃhitā specifies the आशु (*āśu*) grain for Savitṛ, black rice for Agni, and large rice for Indra. Although the number of gods is the same, the Śatapatha describes these eight gods in one order. In place of the Śatapatha's बृहस्पतये वाचे (*bṛhaspataye vāce*), the Taittirīya Saṃhitā has बृहस्पतये वाचस्पतये (*bṛhaspataye vācaspataye*).
+
+Thus Mitra, described in the Devasū sacrifice as truth in nature, is praised in this mantra. The man who worships and adores this god is declared to become victorious, possessed of food and free from sin. The same Āditya-principle that was praised as Mitra in the previous mantra is praised in the present one also. This same mantra is recited in the Taittirīya Brāhmaṇa also (Tai. Brā. 1-7-4-1). There Sāyaṇa and Bhaṭṭabhāskara have given the explanation of the present Ṛk.
+
+यः ते शिक्षति सः प्रयस्वान् अस्तु (*yaḥ te śikṣati saḥ prayasvān astu*)—Sāyaṇa explains in the Ṛksaṃhitā-bhāṣya that the prayer is: "may he who offers you oblations and the like be rich in food." He has shown that the word शिक्षति (*śikṣati*) has the meaning ददाति (*dadāti*), "gives". Bhaṭṭabhāskara, on the Taittirīya Saṃhitā
+
 ---
 
-**Progress note:** Done through printed p. 441. pp. 436-441 (batch API)
+**Progress note:** Done through printed p. 449. pp. 442-449 (batch API)
