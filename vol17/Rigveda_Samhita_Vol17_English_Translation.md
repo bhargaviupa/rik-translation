@@ -23421,6 +23421,264 @@ By the sacrifice, the Angirasas, rending the mountain asunder, have thrown it op
 > *ṛtena | devīḥ | amṛtāḥ | amṛktāḥ | arṇaḥ 'bhiḥ | āpaḥ | madhumat 'bhiḥ | agne ‖*  
 > *vājī | na | sargeṣu | prastubhānaḥ | pra | sadaṃ | it | sravitave | dadhanyuḥ ‖ 12 ‖*
 
+### Printed p. 748
+
+#### Ṛk 12
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अमृता अमरणहेतव अमृक्ता रक्षःप्रभृतिभिरबाधिता मधुमद्भिर्माधुर्योपेतैरर्णोभिरुदकैर्युक्ता देवीर्देव्यो नद्य ऋतेन सत्येन
+> यज्ञेन वा हेतुनाप आप्तव्याः सत्यः सदमित्सदैव स्रवितवे स्रवणाय प्र दधन्युः ।
+> प्रगच्छंति । तत्र दृष्टांतः । वाजी न । यथा सर्गेषु प्रेरणेषु प्रस्तुभानः प्रोत्साह्यमानोऽश्वः प्रगच्छति तद्वत् ॥ अपः । अप्ल व्याप्तौ । आप्नोतेः क्विप् ह्रस्वश्चेति
+> कर्मणि क्विप् । अप्तन्नित्यादिना जसि दीर्घः । प्रस्तुभानः । स्तोभतिरर्चतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the divine rivers (देवीः (*devīḥ*)) are immortal, that is, causes of non-dying, and unobstructed, that is, not hindered by Rākṣasas and the like. They are joined with sweet waters, waters endowed with sweetness. By ऋतेन (*ṛtena*), "by truth" or "by the sacrifice", as the cause, they are to be reached, and so they always flow on. स्रवितवे (*sravitave*) means "for flowing"; प्र दधन्युः (*pra dadhanyuḥ*) means "they go forth". The illustration is वाजी न (*vājī na*): as a horse, urged on in its courses (सर्गेषु (*sargeṣu*)), is encouraged and goes forth, so do the rivers. Sāyaṇa then gives grammar on अपः (*apaḥ*) (root अप्ल (*apla*), "to pervade") and on प्रस्तुभानः (*prastubhānaḥ*) (स्तोभति (*stobhati*) is a root meaning "to praise").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अमृताः (*amṛtāḥ*)—the deathless ones
+- अमृक्ताः (*amṛktāḥ*)—the unharmed ones
+- मधुमद्भिः (*madhumadbhiḥ*)—endowed with sweetness
+- ऊर्णोभिः (*ūrṇobhiḥ*)—full of waters
+- देवीः (*devīḥ*)—the rivers, divine in nature
+- ऋतेन (*ṛtena*)—with the help of the sacrifice
+- आपः (*āpaḥ*)—having obtained power
+- सदमित् (*sadamit*)—always
+- स्रवितवे (*sravitave*)—to flow
+- सर्गेषु (*sargeṣu*)—when urged on
+- प्रस्तुभानः (*prastubhānaḥ*)—having received encouragement
+- वाजी न (*vājī na*)—as a horse moves swiftly
+- प्र दधन्युः (*pra dadhanyuḥ*)—they move on
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the rivers, deathless, unharmed, full of sweet waters and divine in nature, gain power through the help of the sacrifice and always flow swiftly, like a horse that has been urged on.
+
+##### English translation (H. H. Wilson)
+By sacrifice, Agni, the divine rivers, immortal, unobstructed, continue perpetually to flow with sweet waters, like a horse that is being urged in his speed.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा कस्य॑ य॒क्षं सद॒मिदु॒रो गा॒ मा वे॒शस्य॑ प्रमिन॒तो  
+> मापेः ।  
+> मा भ्रातु॑रग्ने॒ अनृ॑जोर्ऋ॒णं वे॒र्मा सख्यु॒द्रक्षं॑ रि॒पोर्भु॑जेम ॥ १३ ॥
+
+> *mā kasya yakṣaṃ sadamiduro gā mā veśasya praminato*  
+> *māpeḥ |*  
+> *mā bhrāturagne anṛjorṛṇaṃ vermā sakhyudrakṣaṃ riporbhujema ‖ 13 ‖*
+
+### Printed p. 750
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । कस्य । यक्षं । सदं । इत् । हुरः । गाः । मा । वेशस्य । प्रमिनतः । मा । आपेः ।  
+> मा । भ्रातुः । अग्ने । अनृजोः । ऋणं । वेः । मा । सख्युः । दक्षं । रिपोः । भुजेम ॥
+
+> *mā | kasya | yakṣaṃ | sadaṃ | it | huraḥ | gāḥ | mā | veśasya | praminataḥ | mā | āpeḥ |*  
+> *mā | bhrātuḥ | agne | anṛjoḥ | ṛṇaṃ | veḥ | mā | sakhyuḥ | dakṣaṃ | ripoḥ | bhujema ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हुरोऽस्माकं हिंसकस्य कस्य कस्यचिदपि जंतोर्यक्षं यज्ञं सदमित्सदैव मा गाः । कदाचिदपि मा गच्छ । प्रमिनतो हिंसकस्य वेशस्य प्रातिवेश्यस्य
+> यज्ञं मा गाः । तथापेर्मद्व्यतिरिक्तस्य बंधोर्यज्ञं मा गच्छ । तथानृजोः
+> कुटिलचित्तस्य भ्रातुर्ऋणवद्देयं हविर्मा वेः । मा कामयेथाः । तथा वयमपि
+> सख्युर्मित्रस्य रिपोः शत्रोर्दक्षं भोगसमर्थं धनं मा भुजेम । मा भुंजीमहि । किंतु त्वया दत्तं धनं भुंजीमहि ॥ हुरः । हृ प्रसह्यकरणे । क्विप् । बहुलं
+> छंदसीत्युत्वं । सावेकाच इति विभक्तेरुदात्तत्वं । भुजेम । भुज पालनाभ्यवहारयोः । आशीर्लिजु व्यत्ययेन परस्मैपदं । लिज्याशिष्यज्जत्यज् प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, never go (मा गाः (*mā gāḥ*)) to the sacrifice (यक्षं (*yakṣaṃ*)) of any creature whatever that is हुरः (*huraḥ*), a harmer of us. Do not go to the sacrifice of a harmful neighbour (वेशस्य (*veśasya*), a प्रातिवेश्य (*prātiveśya*)). Likewise do not go to the sacrifice of a kinsman (आपेः (*āpeḥ*)) other than myself. Do not desire (मा वेः (*mā veḥ*)) the oblation due like a debt from a crooked-minded brother (अनृजोः (*anṛjoḥ*)). So too may we not enjoy (मा भुजेम (*mā bhujema*)) the wealth, able to be enjoyed (दक्षं (*dakṣaṃ*)), of a friend's enemy; rather may we enjoy the wealth given by you. The rest of the block is grammar on हुरः (*huraḥ*) and भुजेम (*bhujema*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- हुरः (*huraḥ*)—who is a harmer of us
+- कस्य (*kasya*)—of whichever sacrificer
+- यक्षं (*yakṣaṃ*)—to the sacrifice
+- सदमित् (*sadamit*)—ever
+- मा गाः (*mā gāḥ*)—do not go
+- प्रमिनतः (*praminataḥ*)—who is harmful
+- वेशस्य (*veśasya*)—of the sacrificer next door
+- मा (*mā*)—do not go to his sacrifice either
+- आपेः (*āpeḥ*)—even if a relative of mine, if he is hostile
+- मा (*mā*)—do not go to him either
+- अनृजोः (*anṛjoḥ*)—who is deceitful
+- भ्रातुः (*bhrātuḥ*)—of him, though my brother
+- ऋणं (*ṛṇaṃ*)—the oblation
+- मा वेः (*mā veḥ*)—do not desire
+- सख्युः (*sakhyuḥ*)—to my friend
+- रिपोः (*ripoḥ*)—of him who is an enemy
+- दक्षं (*dakṣaṃ*)—the wealth of enjoyment
+- मा भुजेम (*mā bhujema*)—may we not enjoy it
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, never go to the sacrifice of a sacrificer who is a harmer of us. Even if he is our next-door neighbour, if he is harmful and deceitful, do not go there either. Even if he is our brother, do not covet his oblation. We do not want the wealth of enjoyment of one who is an enemy to my friend.
+
+##### English translation (H. H. Wilson)
+Go not ever, Agni, to the sacrifice of any one who injures us ; nor to that of a malevolent neighbour; nor to that of an (unnatural) relation ; accept not the due (oblation) from an insincere brother ; let us not derive enjoyment from the enemy of a friend.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रक्षा॑ हो अग्ने॒ तव॒ रक्ष॑णेभी रारक्षा॒णः सु॑मुख प्रीणा॒नः ।  
+> प्रति॑ ष्टुर॒ वि रु॑ज वी॒ड्वंहो॑ ज॒हि रक्षो॒ महि॑ चिद्वावृधा॒नं ॥
+
+> *rakṣā ho agne tava rakṣaṇebhī rārakṣāṇaḥ sumukha prīṇānaḥ |*  
+> *prati ṣṭura vi ruja vīḍvaṃho jahi rakṣo mahi cidvāvṛdhānaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रक्ष । नः । अग्ने । तव । रक्षणेभिः । ररक्षणाणः । सुमुख । प्रीणानः ।  
+> प्रति । स्फुर । वि । रुज । वीळु । अंहः । जहि । रक्षः । महि । चित् । ववृधानं ॥ १४ ॥
+
+> *rakṣa | naḥ | agne | tava | rakṣaṇebhiḥ | rarakṣaṇāṇaḥ | sumukha | prīṇānaḥ |*  
+> *prati | sphura | vi | ruja | vīḷu | aṃhaḥ | jahi | rakṣaḥ | mahi | cit | vavṛdhānaṃ ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुमख सुयज्ञ सुधनेति वा हे अग्ने ररक्षणाऽभ्यशमस्माकं रक्षिता
+> प्रीणानो हविर्भिः प्रीतस्त्वं तव रक्षणेभिस्त्वदीयैरवनैनोर्नोऽस्मान्रक्ष । पालय ।
+> प्रति स्फुर । अस्मान्प्रतिदीप्यस्व । वीळु दृढमंहः पापं वि रुज । विशेषेण नाशय ।
+> किंच महि चिन्महदपि वावृधानं वर्धमानं वृद्धं वा बाधकं रक्षो जहि ॥ णः ।
+> नश्च धातुस्थोरुषुभ्य इति संहितायां णत्वं । ररक्षणाः । रक्षेर्यज्लुकि चानशि
+> रूपं ! जहि । हन हिंसागत्योः । लोटि हंतेर्ज इति जादेशः । आभाच्छास्त्रीयस्यासिद्धत्वादतो हेरिति लुक् न भवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, सुमख (*sumakha*) ("of good sacrifice"; or "of good wealth", with the alternative readings सुयज्ञ (*suyajña*) and सुधन (*sudhana*)), you are ररक्षणाः (*rarakṣaṇāḥ*), our protector, and प्रीणानः (*prīṇānaḥ*), pleased with the oblations. With your protections protect and guard us. प्रति स्फुर (*prati sphura*): shine towards us. अंहः (*aṃhaḥ*) is sin; वीळु (*vīḷu*) means "firm"; वि रुज (*vi ruja*): destroy it specially. Further, slay (जहि (*jahi*)) the Rākṣasa who obstructs us, even though he is great and growing or grown strong (वावृधानं (*vāvṛdhānaṃ*)). The rest is grammar on णः (*ṇaḥ*), ररक्षणाः (*rarakṣaṇāḥ*) and जहि (*jahi*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुमख (*sumakha*)—you who have a good sacrifice
+- अग्ने (*agne*)—O Agni
+- ररक्षणाः (*rarakṣaṇāḥ*)—as our protector
+- प्रीणानः (*prīṇānaḥ*)—as one pleased with oblations
+- तव (*tava*)—your
+- रक्षणेभिः (*rakṣaṇebhiḥ*)—with protections
+- नः (*naḥ*)—us
+- रक्ष (*rakṣa*)—protect
+- प्रति स्फुर (*prati sphura*)—shine on our behalf
+- वीळु (*vīḷu*)—firmly rooted
+- अंहः (*aṃhaḥ*)—sin
+- वि रुज (*vi ruja*)—destroy
+- वावृधानः (*vāvṛdhānaḥ*)—who harms excessively
+- रक्षः (*rakṣaḥ*)—the enemy
+- महि जत् (*mahi jat*)—even when powerful **NOTE**
+- जहि (*jahi*)—destroy
+
+### Printed p. 751
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of good sacrifice, being our protector and pleased with the oblations, preserve us with your protections. Shine on our behalf. Destroy our sin, firmly planted. Crush the enemy who harms us, even though he is powerful.
+
+##### English translation (H. H. Wilson)
+Agni, worthily worshipped, conservator, conciliated (by our offerings), protect us with your protections : enlighten us ; entirely extirpate our sin ; overcome the great and exulting Rakshasas.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒भिर्भ॑व सु॒मना॑ अग्ने अ॒र्कैरि॒मान्तस्य॒॑ मन्म॑भिः शूर॒  ॑
+> वाजान् ।  
+> उ॒त ब्रह्मा॑ण्यंगिरो जुषस्व॒ सं ते॑ श॒स्तिर्दे॒ववा॑ता जरेत ॥१५॥
+
+> *ebhirbhava sumanā agne arkairimāntasya manmabhiḥ śūra*  
+> *vājān |*  
+> *uta brahmāṇyaṃgiro juṣasva saṃ te śastirdevavātā jareta ‖15‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एभिः । भव । सुमनाः । अग्ने । अर्कैः । इमान् । स्पृश । मन्मभिः । शूर । वाजान् ।  
+> उत । ब्रह्माणि । अंगिरः । जुषस्व । सम् । ते । शस्तिः । देववाता । जरेत ॥ १५ ॥
+
+> *ebhiḥ | bhava | sumanāḥ | agne | arkaiḥ | imān | spṛśa | manmabhiḥ | śūra | vājān |*  
+> *uta | brahmāṇi | aṃgiraḥ | juṣasva | sam | te | śastiḥ | devavātā | jareta ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने एभिर्मधीयैरर्कॆरर्चनीयैः शस्त्रैः सुमनाः शोभनमनस्को
+> भव । हे शूर इमानस्मदीयान्विर्लक्षणान्वाजान्मन्मभिः स्तोत्रैः सह स्पृश । प्रतिगृहाण । उतापि च अंगिरः । अंगति हवींषि प्राप्नोतीत्यंगिरा अग्निः । यद्वा ।
+> येऽंगारा आसंस्तेऽंगिरसोऽभवन् । ऐ. ब्रा. ३-३४ । इति ब्राह्मणं । तेषामंगिरसां कारणत्वादग्नेरंगिरस्त्वं । तत्कारणत्वे च मंत्रः । ये अंगिरसः सूनवस्ते अग्नेः
+> परि जज्जिरे । ऋग्वे. १८-६२-५ । इति । तादृश हे अग्ने ब्रह्माणि मंत्रान् जुषस्व ।
+> सेवस्व । देववाता । देवार्थं गता देवान् स्तोतुं प्राप्तेत्यर्थः । तादृशी शक्तिः
+
+##### Gist of the bhāṣya
+
+O Agni, be well-minded, of good mind, through these (एभिः (*ebhiḥ*)) hymns of praise (अर्कैः (*arkaiḥ*), "to be worshipped with"), belonging to us. O hero, receive these (इमान् (*imān*)) food-offerings (वाजान् (*vājān*)) of ours together with our praises (मन्मभिः (*manmabhiḥ*)): स्पृश (*spṛśa*) means "accept". And, O अंगिरः (*aṃgiraḥ*): Agni is अंगिराः (*aṃgirāḥ*) because he अंगति (*aṃgati*), that is, reaches the oblations. Or else, there is the Brāhmaṇa: येऽंगारा आसंस्तेऽंगिरसोऽभवन् (*ye 'ṃgārā āsaṃste 'ṃgiraso 'bhavan*) (Ai. Brā. 3-34) **NOTE**. Because those Aṅgirases are the cause, Agni is called Aṅgiras. For his being their cause there is the mantra ये अंगिरसः सूनवस्ते अग्नेः परि जज्जिरे । (*ye aṃgirasaḥ sūnavaste agneḥ pari jajjire |*) (Ṛgve. 18-62-5) **NOTE**. Such as you are, O Agni, accept (जुषस्व (*juṣasva*)) our mantras (ब्रह्माणि (*brahmāṇi*)), that is, attend to them. देववाता (*devavātā*) means gone for the sake of the gods, come to praise the gods. Such a power, the शस्तिः (*śastiḥ*) ("praise"), shall make you grow (सं जरेत (*saṃ jareta*): let it increase you).
+
+### Printed p. 752
+
+> शंसनं ते त्वां सं जरेत । संवर्धयतु ॥ स्पृश । स्पृश संस्पर्शने । तुदादिः ।
+> देवनाता । वा गतिगंधनयोः । गत्यर्थाकर्मकेति कर्तरि क्तः । देवः । पचाद्यजंतः । क्ले चेति चतुर्थ्यंतस्य पदस्य प्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+The block continues with grammar on स्पृश (*spṛśa*) (root स्पृश (*spṛśa*), "to touch", of the tud class) and on देवनाता (*devanātā*) (root वा (*vā*) "to go, to move"; the suffix kta in the active sense; देवः (*devaḥ*) ends in ac of the pac class; the accent of the dative-ending word is the natural one).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- एभिः अर्कैः (*ebhiḥ arkaiḥ*)—with these revered śastra-mantras
+- सुमनाः (*sumanāḥ*)—having an auspicious mind
+- भव (*bhava*)—be
+- शूर (*śūra*)—O mighty one
+- इमान् वाजान् (*imān vājān*)—these foods in the form of oblations
+- मन्मभिः (*manmabhiḥ*)—with our praises
+- स्पृश (*spṛśa*)—accept
+- उत (*uta*)—and
+- अंगिरः (*aṃgiraḥ*)—O Agni
+- ब्रह्माणि (*brahmāṇi*)—the mantras
+- जुषस्व (*juṣasva*)—attend to
+- देवताता (*devatātā*)—addressed to the gods **NOTE**
+- शस्तिः (*śastiḥ*)—praise
+- ते (*te*)—you **NOTE**
+- सं जरेत (*saṃ jareta*)—let it make grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be of auspicious mind through these revered śastra-mantras. O mighty one, accept these foods in the form of oblations together with our praises. And, O Agni who are in the form of Aṅgiras, attend to these mantras of ours. May this praise, addressed to the gods, make you grow.
+
+##### English translation (H. H. Wilson)
+Be propitiated, Agni, by these hymns ; accept, hero, these (sacrificial) viands (presented) with praises ; be pleased, Angiras, by our prayers; may the adoration addressed to the gods exalt you.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this hymn, and in many other Ṛks of the Ṛgveda, the word अंगिरः (*aṃgiraḥ*) is used to address Agni. An explanation of this is needed. येऽङ्गारा आसंस्तेऽङ्गरसोऽभवन् (*ye 'ṅgārā āsaṃste 'ṅgaraso 'bhavan*) (Ai. Brā. 3-34): "the embers (coals) connected with Agni received the name Aṅgirases." So it is said in the Aitareya Brāhmaṇa, in the story of Prajāpati's meditation on his daughter. Long ago Prajāpati (Brahmā) contemplated in his mind his own daughter (Uṣas, or the sky) with a bad intention (lust). The gods came to know it and thought of preventing this evil deed. But the gods had no power to punish Prajāpati and restrain him from it. So all the gods gathered together, united their several dreadful forms, brought forth a god named Rudra, and told him to punish Prajāpati. Knowing this, Prajāpati became afraid, took the form of a deer and leapt into the sky. . . .
+
+### Printed p. 753
+
+Prajāpati, in the form of the constellation called Mṛga, can be seen even now. Then Rudra appeared in the form of the constellation Ārdrā and shot an arrow at Prajāpati. Then Prajāpati had an emission of seed. The Maruts scattered that seed in various directions and burnt it. From it (from that seed) first Āditya was born, and afterwards Bhṛgu Vāruṇi. From the remaining embers (coals) the Aṅgirases came into being. So it is said.
+
+In the Purāṇas and elsewhere the sage Aṅgirā is said to be one of the mind-born sons of Brahmā. In the Vedas this Aṅgiras is a very important sage and the original ancestor of many famous sages. The matter is found in the Vana Parva of the Mahābhārata, in the dialogue of Mārkaṇḍeya and Yudhiṣṭhira. For some reason Agni abandoned his duty and went off to the forest in disguise. Then the sage Aṅgirā, in Agni's place, did Agni's work, carrying the shares of oblation to the gods in the sacrifice. He also prayed to Agni to return and perform his duty. Because he performed Agni's duties, this sage Aṅgirā became known as Agni's son, and the descendants of this sage became known as Aṅgirases.
+
+There are some more such stories in the Purāṇas. Besides these, in the Ṛgveda Saṃhitā itself: ते अंगिरसः सूनवस्ते अग्नेः परिजज्जिरे । (*te aṃgirasaḥ sūnavaste agneḥ parijajjire |*) (Ṛ. Saṃ. 10-62-5), that is, it is clearly said that the sages called Aṅgirases are sons of Agni. It is not known why the commentator did not quote this Ṛk.
+
+It is evident from some Ṛks of the Ṛgveda that this sage Aṅgirā was of very ancient time and that many sages of the Ṛgveda here and there call him the original ancestor of their line.
+
+मनुष्पदग्ने अंगिरस्वदंगिरो ययातिवत्सदने पूर्ववच्चुचे ॥ (*manuṣpadagne aṃgirasvadaṃgiro yayātivatsadane pūrvavaccuce ‖*) (Ṛ. Saṃ. 1-31-17)
+
+अंगिरस्वन्नहिव्रत प्रस्कण्वस्य श्रुधी हवं (*aṃgirasvannahivrata praskaṇvasya śrudhī havaṃ*) (Ṛ. Saṃ. 1-45-3)
+
+दध्यज् ह मे जनुषं पूर्वो अंगिराः प्रियमेधः कण्वो अत्रिर्मनुर्वि दुस्ते मे पूर्वे मनुर्विदुः ॥ (*dadhyaj ha me januṣaṃ pūrvo aṃgirāḥ priyamedhaḥ kaṇvo atrirmanurvi duste me pūrve manurviduḥ ‖*) (Ṛ. Saṃ. 1-139-9)
+
+### Printed p. 754
+
+These Ṛks show that the sage Aṅgirā was the forefather of many sages. Among the descendants of this sage Aṅgirā, Atharvan was the chief. He had three sons, Bṛhaspati, Gotama and Vṛṣaṇa. Vṛṣaṇa was a son born to this Atharvan by his wife named Pathyā. His affairs are indicated in many places in the Veda. Vṛṣaṇa's son was Sudhanvan Āṅgirasa, and this Sudhanvan had three sons, Ṛbhu, Vibhvan and Vāja. These three are spoken of in the Veda as the Ṛbhus. They are said to be pupils of Tvaṣṭā Prajāpati. In the line of this sage Aṅgirā there were three sages named Bṛhaspati. The Ṛbhus mentioned above and Bṛhaspati are regarded as gods, and there are many Ṛks of the Ṛgveda in the form of praises of them. History records that the first of these three Bṛhaspatis killed a Dasyu king named Paṇi and brought back the cows that he had carried off, and that he fought and defeated, with his ten thousand followers, another Dasyu chief named Dāsa who was ruling on the bank of the river Aṃśumatī. The sage Bharadvāja, son of another Bṛhaspati, was the priest of Divodāsa, who slew the demon Śambara. In short, the line of the sage Aṅgirā is very great, and many famous men belonged to it. In many places in the Ṛgveda, that is, in many places where the word Agni would have to be used, the use of the word Aṅgiras is frequent.
+
+The story set out in the Aitareya Brāhmaṇa (Ai. Brā. 13-23, 24) is given here exactly as it is told there:
+
+प्रजाप्रतिर्नै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्कन्ये तामृश्यो भूत्वा रोहितं भूतामभ्यैत्तं देवा अपश्यन्नकृतं वै प्रजापतिः करोतीति ते तम्मैच्छन्य एनमारिष्यत्येतमन्योन्यस्मिन्नाविंदंस्तेषां या एन घोरतमास्तन्व आसंस्ता एकधा समभरंस्ताः संभृता एष देवोऽभवत्तदस्यैतद्भूतवन्नाम भवति वै स योऽस्यैतदेवं नाम वेद ॥ (*prajāpratirnai svāṃ duhitaramabhyadhyāyaddivamityanya āhuruṣasamitkanye tāmṛśyo bhūtvā rohitaṃ bhūtāmabhyaittaṃ devā apaśyannakṛtaṃ vai prajāpatiḥ karotīti te tammaicchanya enamāriṣyatyetamanyonyasminnāviṃdaṃsteṣāṃ yā ena ghoratamāstanva āsaṃstā ekadhā samabharaṃstāḥ saṃbhṛtā eṣa devo 'bhavattadasyaitadbhūtavannāma bhavati vai sa yo 'syaitadevaṃ nāma veda ‖*) (Ai. Brā. 13-33) **NOTE**
+
+Long ago, at one time, Prajāpati saw his own daughter and was infatuated, as one is infatuated with a wife. He kept thinking of her form in his mind. As to who that daughter of Prajāpati was, there is a difference of opinion even among the great sages. Some say she was the deity of the sky-world, others that she was the deity Uṣas. Be that as it may. Then Prajāpati took the form of a kind of deer (animal) called Ṛśya. His daughter took the form of a red deer called Rohita. (Here the commentator explains the words रोहितं प्राप्ता (*rohitaṃ prāptā*) as "she became fit for conception".) Prajāpati approached his daughter, who was in the form of Rohita, . . .
+
 ---
 
-**Progress note:** Done through printed p. 747. pp. 742-747 (batch API)
+**Progress note:** Done through printed p. 754. pp. 748-754 (batch API)
