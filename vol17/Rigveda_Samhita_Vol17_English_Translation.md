@@ -16461,6 +16461,191 @@ Indra, the praised of many associated with Ribhu, and with Vaja, exult with Shac
 
 शच्या—इंद्राण्या कर्मणा वा । (*śacyā—iṃdrāṇyā karmaṇā vā |*) It is explained as "with Indrāṇī or with action". In the Nighaṇṭu the word शची (*śacī*) is read among the names of speech (Ni. 1-11), among the names of actions (Ni. 2-1) and among the names of intelligence (3-9). In general it is used mostly in the sense of action. The meaning "wife of Indra" for the word शची (*śacī*) is not supported in the Ṛgveda—
 
+### Printed p. 505
+
+*(continuation of the Special Topics of Ṛk 6)*
+
+##### विशेषविषयगळु (Special Topics)
+
+In passages such as तुभ्यं श्चोतंत्यध्रिगो शचीव स्तोकासो अग्ने (*tubhyaṃ ścotaṃtyadhrigo śacīva stokāso agne*) (Ai. Brā. 2-12), the word शचीवः (*śacīvaḥ*) is explained as "possessed of power" (śaktimān). Addressing Agni, "O powerful Agni", the word शची (*śacī*) is taken to mean power. In the present Ṛk, whichever of the meanings power, action or intelligence is given, it is suitable. Since Indra is the doer of deeds such as the slaying of Vṛtra, since he has obtained manifold powers, and since he is endowed with intelligence, any of these meanings can be given to this word, which is an epithet of Indra.
+
+स्वसराणि (*svasarāṇi*)—the word स्वर (*svara*) is read among the names for "worthy" (Ni. 1-9) and among the names for "house" (Ni. 3-4). In Ṛks such as आ हंसासो न स्वसराणि गंतन मधोर्मदाय मरुतः समन्यवः । (*ā haṃsāso na svasarāṇi gaṃtana madhormadāya marutaḥ samanyavaḥ |*) (Ṛ. Saṃ. 2-34-5) it is explained as "house". In the present Ṛk it means "days".
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ ऋ॒भुभि॑र्वा॒जिभि॑र्वा॒जय॑न्नि॒ह स्तोमं॑ जरि॒तुरुप॑  ॒॑
+> याहि यज्ञियं ।  
+> श॒तं केते॑भिरिषि॒रेभि॑रा॒यवे॑ स॒हस्र॑णीथो अध्व॒रस्य॒ होम॑नि ॥
+
+> *iṃdra ṛbhubhirvājibhirvājayanniha stomaṃ jariturupa*  
+> *yāhi yajñiyaṃ |*  
+> *śataṃ ketebhiriṣirebhirāyave sahasraṇītho adhvarasya homani ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । ऋभुभिः । वाजिभिः । वाजयन् । इह । स्तोमं । जरितुः । उप । याहि ।  
+> यज्ञियं ।  
+> शतं । केतेभिः । इषिरेभिः । आयवे । सहस्रणीथः । अध्वरस्य । होमनि ॥ ७ ॥
+
+> *iṃdra | ṛbhubhiḥ | vājibhiḥ | vājayan | iha | stomaṃ | jarituḥ | upa | yāhi |*  
+> *yajñiyaṃ |*  
+> *śataṃ | ketebhiḥ | iṣirebhiḥ | āyave | sahasraṇīthaḥ | adhvarasya | homani ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वाजिभिर्वाजयुक्तैर्य्यभुभिः सहितस्त्वं वाजयन् स्तोतुर्वाजमन्नं कुर्वाण इह यज्ञे यज्ञियं यज्ञार्हं जरितु: स्तोमं स्तोत्रमुप
+
+##### Gist of the bhāṣya
+
+O Indra, accompanied by the Ribhus, who are possessed of food (वाज (*vāja*)), making food for the singer, come here to this sacrifice, to the praise (stoma) of the singer, which is worthy of the sacrifice. (The sentence continues on the next page.)
+
+### Printed p. 506
+
+> याहि । आगच्छ । पुनः किंविशिष्टः । केतेभिः । केत्यते ज्ञायते सर्वमेभिरिति केताः
+> प्राज्ञा मरुतः । तैः शतं शतसंख्याकैरिषिरेभिरिषिरैर्गमनकुशलैरश्वैः सहित आयवे
+> मनुष्याय यजमानाय सहस्रनीथो बहुप्रकारनयनोपेतोऽध्वरस्य । न विद्यते
+> द्वरो हिंसा यस्य तादृशस्य सोमस्य होमनि होम आगच्छेति शेषः ॥ वाजयन् ।
+> वाजं करोतीति णिच् । णाविष्ठवदितीष्टवद्भावात्तुरिष्ठेमेयःस्थिति टिलोपः ।
+> केतेभिः । कित ज्ञाने । घञ् । इंताद्वाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+"Come." And how is he accompanied? केतेभिः (*ketebhiḥ*): those by whom everything is known (केत्यते ज्ञायते (*ketyate jñāyate*)) are केताः (*ketāḥ*), the wise Maruts. With them, and with a hundred swift horses skilled in going (इषिरेभिः (*iṣirebhiḥ*)), Indra, "leader of a thousand" (सहस्रनीथः (*sahasranīthaḥ*)), that is, bringing many kinds of guidance, is to come for the man, the sacrificer (आयवे (*āyave*)), to the oblation of the Soma that is अध्वर (*adhvara*), to which no harm (dvara) belongs. "Come" is the word to be supplied. Then follow the derivations of वाजयन् (*vājayan*) and केतेभिः (*ketebhiḥ*) (grammar not given here).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वाजिभिः (*vājibhiḥ*)—endowed with food
+- ऋभुभिः (*ṛbhubhiḥ*)—together with the Ribhus
+- वाजयन् (*vājayan*)—producing the food needed by the praiser
+- इह (*iha*)—in this sacrifice
+- जरितुः (*jarituḥ*)—of the praiser
+- यज्जियं (*yajjiyaṃ*)—worthy of sacrifice
+- स्तोमं (*stomaṃ*)—towards the praise
+- उप याहि (*upa yāhi*)—become one who comes
+- केतेभिः (*ketebhiḥ*)—with the wise Maruts
+- शतं इषिरेभिः (*śataṃ iṣirebhiḥ*)—and with a hundred horses, being joined with them
+- आयती (*āyatī*)—for man (the sacrificer) **NOTE**
+- सहस्रनीथः (*sahasranīthaḥ*)—taking food of many kinds
+- अध्वरस्य (*adhvarasya*)—of the Soma free of harm
+- होमनि (*homani*)—be present at the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, together with the Ribhus who are possessed of fire **NOTE**, producing the food needed by the praiser, come in this sacrifice towards the praiser's praise, which is worthy of sacrifice. Joined with the wise Maruts and with a hundred horses, taking food of many kinds for the sacrificer, the man, be present at the oblation of the harmless Soma.
+
+##### English translation (H. H. Wilson)
+Indra, with the food-bestowing Ribhus rewarding (worship) with food, come hither to (receive) the reverential praise of the adorer, with a hundred quick-going steeds, the indications (of the Maruts): come to the burnt offering of the sacrifice, yielding a thousand blessings to the sacrificer.
+
+##### विशेषविषयगळु (Special Topics)
+
+The present mantra tells of the relation between Indra and the Ribhus and of their nature as givers of food. On the relation of Indra and the Ribhus, on the doubt that arose concerning the oblation offered to them, and on what the Ārbhava-pavamāna is, details are given in the description of the third pressing (tṛtīya-savana) in Ṛ. Saṃ., Part 15.
+
+### Printed p. 507
+
+वाजयन् (*vājayan*)—स्तोतुः अन्नं कुर्वाणः (*stotuḥ annaṃ kurvāṇaḥ*), that is, procuring and giving food to the praiser. The word वाजिभिः (*vājibhiḥ*) too is explained as "endowed with food" (said of the Ribhus). वाजयतीत्यर्चतिकर्मा (*vājayatītyarcatikarmā*) (Ni. 3-19): in some contexts वाजयति (*vājayati*) must mean "one who worships". Moreover the word वाज (*vāja*) is read among the names for food (Ni. 3-9), among the names for battle and among the names for strength. It is also used in the sense of praise. In मां नरः स्वश्वा वाजयंतो मां वृताः समरणे हवंते । (*māṃ naraḥ svaśvā vājayaṃto māṃ vṛtāḥ samaraṇe havaṃte |*) (Ṛ. Saṃ. 4-42-5) the word वाजयंतः (*vājayaṃtaḥ*) is an epithet of नरः (*naraḥ*) and अश्वाः (*aśvāḥ*); it is explained as men and horses desiring battle. In passages such as स मातरा विचरन्वाजयन्नपः प्र मेधिरः स्वधया पिन्वते पदं । (*sa mātarā vicaranvājayannapaḥ pra medhiraḥ svadhayā pinvate padaṃ |*) (Ṛ. Saṃ. 9-68-4) it also means "impelling". But the word वाज (*vāja*) is mostly used in the senses of food and strength. In the present Ṛk it is explained as "producing food".
+
+That when Indra joins the Ribhus the abundance of वाज (*vāja*) becomes greater is well known from the Śruti. That the Ribhus are makers of fire is also described in many places. A fixed association of food with them is stated. For example, in विदानासो जन्मनो वाजरत्ना उत ऋतुभिर्यभवो मादयःध्वं । (*vidānāso janmano vājaratnā uta ṛtubhiryabhavo mādayaḥdhvaṃ |*) (Ṛ. Saṃ. 4-34-2) the word वाजरत्नाः (*vājaratnāḥ*) is explained अन्नेन राजमानाः (*annena rājamānāḥ*), "the Ribhus shining with food", showing that the Ribhus are constantly endowed with food. The same point is made in the present Ṛk, and food is asked of them and of their friend Indra.
+
+केतेभिः (*ketebhiḥ*)—केत्यते ज्ञायते सर्वमेभिरिति केताः प्राज्ञाः मरुतः (*ketyate jñāyate sarvamebhiriti ketāḥ prājñāḥ marutaḥ*). Because everything is known through them, the Maruts, having such a quality, are called केताः (*ketāḥ*). The meaning is: joined with such Maruts.
+
+### Printed p. 508
+
+## Sūkta 61 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषो वाजेनेति सप्तर्चमष्टमं सूक्तं वैश्वामित्रमुषोदेवताकं । तथा
+> चानुक्रांतं । उष उषस्यमिति ॥ प्रातरनुवाक उषस्यॆ क्रतावाश्विनशस्त्रे च त्रैष्टुभे
+> छंदस्येतस्य सूक्तस्य विनियोगः । सूत्रितं च । उषो वाजेनेदमु त्यत । आ. ४-१४ ।
+> इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta उषो वाजेन (*uṣo vājena*) has seven Ṛks; it is the eighth sūkta (of the anuvāka) of Viśvāmitra, with Uṣas as deity. So the Anukramaṇī: उष उषस्यमिति (*uṣa uṣasyamiti*). Its use: in the Prātaranuvāka, in the Uṣasya kratu and in the Āśvina-śastra, for the Ṛks in the Triṣṭubh metre. It is stated in the sūtra उषो वाजेनेदमु त्यत (*uṣo vājenedamu tyata*) (Ā. 4-14).
+
+Anuvāda: This sūkta उषो वाजेन (*uṣo vājena*) is the eighth sūkta in the fifth anuvāka. It has seven Ṛks. Its seer is Viśvāmitra; the deity is Uṣas; the metre is Triṣṭubh. In the Anukramaṇī it is said उष उषस्यं (*uṣa uṣasyaṃ*). At the time of reciting the Prātaranuvāka mantras, this sūkta is applied to the Triṣṭubh Ṛks of the Āśvina-śastra mantras connected with the Uṣasya kratu, as explained by the Āśvalāyana-śrauta-sūtra, in the sūtra उषो वाजेनेदमु तृत (*uṣo vājenedamu tṛta*) **NOTE** (Ā. 4-14).
+
+Sūkta 61. Maṇḍala 3. Anuvāka 5. Sūkta 61. Aṣṭaka 3. Adhyāya 4. Varga 8. Number of Ṛks in the sūkta: 7. Seer: Viśvāmitra. Deity: Uṣas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उषो॒ वाजे॑न वाजिनि॒ प्रचे॑ताः॒ स्तोमं॑ जुषस्व गृण॒तो  ॑
+> मघोनि ।
+
+> *uṣo vājena vājini pracetāḥ stomaṃ juṣasva gṛṇato*  
+> *maghoni |*
+
+### Printed p. 509
+
+> पुराणी देवि युवतिः पुरंधिरनु व्रतं चरसि विश्ववारे ॥ १ ॥
+
+> *purāṇī devi yuvatiḥ puraṃdhiranu vrataṃ carasi viśvavāre ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषः । वाजेन । वाजिनि । प्रचेताः । स्तोमं । जुषस्व । गृणतः । मघोनि ।  
+> पुराणी । देवि । युवतिः । पुरंठधिः । अनु । व्रतं । चरसि । विश्ववारे ॥ १ ॥
+
+> *uṣaḥ | vājena | vājini | pracetāḥ | stomaṃ | juṣasva | gṛṇataḥ | maghoni |*  
+> *purāṇī | devi | yuvatiḥ | puraṃṭhadhiḥ | anu | vrataṃ | carasi | viśvavāre ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजेन वाजिन्यन्नेनान्नवति । तथा च मंत्रः । सं वाजैर्वाजिनीवति । ऋग्वे.
+> १-४८-१६ । इति । मघोनि धनवति हे उषः प्रचेताः प्रकृष्टज्ञानवती सती गृणतः
+> तव स्तोत्रं कुर्वतः स्तोतुः स्तोमं स्तोत्रं जुषस्व । सेवस्व । यद्वा ।
+> वाजेन हनिर्लक्षणेनान्नेन सह स्तोमं जुषस्विति संबंधः । विश्ववारे विश्वैः
+> सर्वैर्वर्णनीये हे उषो देवि पुराणी पुरातनी युवतिरित्युपमा तद्वच्छोभमाना । सुसंकाशा मात्सम्यष्टेव योषा । ऋग्वे १-१२३-११ । इतिवत् । पुरंधिः ।
+> पुरु बहु धीः स्तोत्रलक्षणं कर्म यस्याः सा । बहुस्तोत्रवती । पुरंधिर्बहुधीरिति यास्कः । पुरंधिः शोभमाना ना । एवंविधगुणोपेता त्वमनु व्रतं यज्ञकर्माभिलक्ष्य चरसि। यष्टव्यतया वर्तसे ॥ मघोनि । मघशब्दान्मतुबर्थे छंदसीवनिपाविति वनिप् । स्त्रियामृन्नेभ्यो जीप् । श्वयुवमघोनामतद्धित इति संप्रसारणे कृते गुणः । संबुद्धावंबार्थनद्योर्ह्रस्वः । निघातः । पुराणी । पुराणशब्दः
+> पुराणप्रोक्तेष्टित्यंतोदात्तत्वेन निपातितः । टिड्डाणइंति जीप् । अनुदात्तस्य च
+> यत्रोदात्तलोप इत्यंतोदात्तत्वं । पुरंधिः । पृषोदरादित्वादुकारस्यामादेश
+> ईकारस्य ह्रस्वश्च । आद्युदात्तप्रकरणे दिवोदासादीनां छंदस्युपसंख्यानमित्याद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+वाजेन (*vājena*) means "with food"; वाजिनी (*vājinī*) means "possessing food". So the mantra सं वाजैर्वाजिनीवति (*saṃ vājairvājinīvati*) (Ṛgve. 1-48-16). मघोनि (*maghoni*): O wealthy Uṣas, being प्रचेताः (*pracetāḥ*), one of excellent knowledge, enjoy (जुषस्व (*juṣasva*), "serve") the praise of the praiser who praises you. Or else: enjoy the praise together with the food that has the oblation as its mark (havir-lakṣaṇa). विश्ववारे (*viśvavāre*): O Uṣas, to be extolled by all; पुराणी (*purāṇī*), ancient; युवतिः (*yuvatiḥ*) is a simile: shining like a young woman, as in सुसंकाशा मात्सम्यष्टेव योषा । (*susaṃkāśā mātsamyaṣṭeva yoṣā |*) (Ṛgve. 1-123-11) **NOTE**. पुरंधिः (*puraṃdhiḥ*): she whose work, consisting of praise, is much (पुरु बहु धीः (*puru bahu dhīḥ*)), one with many praises; Yāska: पुरंधिर्बहुधीरिति (*puraṃdhirbahudhīriti*). Possessed of such qualities, you go about (चरसि (*carasi*)) in regard to the rite (व्रतं (*vrataṃ*)), the sacrificial action, that is, you are present as one to be worshipped. The remainder gives derivations and accent rules (not rendered here).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजेन वाजिनि (*vājena vājini*)—endowed with abundance of food
+- मघोनि (*maghoni*)—and wealthy
+- उषः (*uṣaḥ*)—O Uṣas
+- प्रचेताः (*pracetāḥ*)—having excellent intelligence
+- गृणतः (*gṛṇataḥ*)—of him who praises you
+- स्तोमं (*stomaṃ*)—the praise
+- जुषस्व (*juṣasva*)—accept
+- विश्ववारे (*viśvavāre*)—honoured by all
+- देवि (*devi*)—of divine nature
+- पुराणी (*purāṇī*)—ancient
+- युवतिः (*yuvatiḥ*)—ever young
+- पुरंधिः (*puraṃdhiḥ*)—you who are worthy of many praises
+- अनुव्रतं (*anuvrataṃ*)—showing favour to the sacrificial rite
+- चरसि (*carasi*)—you act
+
+### Printed p. 510
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, possessed of abundance of food and wealthy, you who have excellent intelligence, accept the praise of the praiser who praises you. Honoured by all, of divine nature, ancient, ever young, worthy of many praises, you go about showing favour to the sacrificial rite.
+
+##### English translation (H. H. Wilson)
+Affluent Ushas, giver of sustenance, possessed of intelligence, be propitiated by the praise of him who lauds you, (and worships) with (sacrificial) food : divine Ushas, adored by all, you (though) ancient are (still) young ; the object of manifold worship, you are present at the recurring (morning) rite.
+
+##### विशेषविषयगळु (Special Topics)
+
+All the Ṛks that praise Uṣas have the form of supreme poetry. Epithets such as पुराणी (*purāṇī*) and युवतिः (*yuvatiḥ*), which ordinarily show opposite qualities, describe those same qualities in Uṣas at one and the same time. Among all such epithets, the epithet पुरंधि (*puraṃdhi*) shows the all-pervading qualities of Uṣas.
+
+पुरंधिर्बहुधीस्तत्कः पुरंधिर्भगः पुरस्तात्तस्यान्वादेश इत्येकं। इंद्र इत्यपरं स बहुकर्मतः पुरां च दारयितृतमः । वरुण इत्यपरं तं प्रज्ञया स्तौति ॥ (*puraṃdhirbahudhīstatkaḥ puraṃdhirbhagaḥ purastāttasyānvādeśa ityekaṃ| iṃdra ityaparaṃ sa bahukarmataḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparaṃ taṃ prajñayā stauti ‖*) (Ni. 6-13).
+
+This explanation the Nirukta-kāra gave when citing the Ṛk भगं नासत्या पुरंधिं (*bhagaṃ nāsatyā puraṃdhiṃ*) (Ṛ. Saṃ. 7-39-4). The Nirukta-kāra explains this word as "one possessed of abundant understanding (धी (*dhī*))". That is, other examples too show that the word is used when conveying the senses of abundance, fullness, prosperity and the like. In the Nirukta again the Ṛk
+आदाय श्वेनो अभरत्सोमं सहस्रं सवा अयुतं च साकं । अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः । (*ādāya śveno abharatsomaṃ sahasraṃ savā ayutaṃ ca sākaṃ | atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ |*) (Ṛ. Saṃ. 5-26 7) **NOTE**
+is cited (Ni. 11-2). For this word Sāyaṇa says बहुकर्म (*bahukarma*), the abundance of action, and Durgācārya in the Nirukta says बहु नः धनस्य दाता (*bahu naḥ dhanasya dātā*), one who gives wealth in great abundance. Again the Nirukta-kāra … (the window ends here; the sentence continues in the next).
+
 ---
 
-**Progress note:** Done through printed p. 504. pp. 499-504 (batch API)
+**Progress note:** Done through printed p. 510. pp. 505-510 (batch API)
