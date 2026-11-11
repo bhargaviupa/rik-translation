@@ -16095,6 +16095,361 @@ May Indra and Varuna, the overthrowers (of foes), be around us with (their) prot
 > *yuvāmiddhyavase pūrvyāya pari prabhūtī gaviṣaḥ svāpī |*  
 > *vṛṇīmahe sakhyāya priyāya śūrā maṃhiṣṭhā pitareva śaṃbhū‖*
 
+### Printed p. 414
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । इत् । हि । अवसे । पूर्व्याय । परि । प्रभूती इति प्रभूती । गोऽइषः ।  
+> स्वापी इति सुआपी ।  
+> वृणीमहे । सख्याय । प्रियाय । शूरा । मंहिष्ठा । पितराइव । शंभू इति  
+> शंभू ॥ ७ ॥
+
+> *yuvāṃ | it | hi | avase | pūrvyāya | pari | prabhūtī iti prabhūtī | go 'iṣaḥ |*  
+> *svāpī iti suāpī |*  
+> *vṛṇīmahe | sakhyāya | priyāya | śūrā | maṃhiṣṭhā | pitarāiva | śaṃbhū iti*  
+> *śaṃbhū ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ गविषो गा इच्छंतो वयं युवामित् । हीति पादपूरणः । युवामेव पूर्व्याय पुरातनाय युवाभ्यां कृतायावसे रक्षणाय ।
+> वृणीमह इति संबंधः । प्रभूती प्रभवंतौ स्वापी शोभनबंधुभूतौ । आपिरिति
+> बंधुः । यद्वा। सुष्टु व्यापनशीलौ शूरा विक्रांतौ मंहिष्ठातिशयेन पूज्यौ
+> युवां सख्याय समानख्यानाय् प्रियाय च परि वृणीमहे । परितः प्रार्थयामहे । शंभू सुखस्य भावयितारौ पितरेव पितरौ पुत्राय तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, we who desire cows (गविषः (*gaviṣaḥ*)) choose you alone (युवामित् (*yuvāmit*); हि (*hi*) merely fills out the pāda) for ancient protection (पूर्व्याय (*pūrvyāya*) = ancient) that has been wrought by you; the verb वृणीमहे (*vṛṇīmahe*) is to be construed with this. प्रभूती (*prabhūtī*) means "mighty"; स्वापी (*svāpī*) means "being good kinsmen", आपि (*āpi*) being "kinsman".
+
+Or else: you who are well-pervading, heroic (शूरा (*śūrā*) = valiant) and most worthy of worship (मंहिष्ठा (*maṃhiṣṭhā*)), we choose all round for friendship (सख्याय (*sakhyāya*), i.e. equal renown) and for affection; that is, we pray on every side. शंभू (*śaṃbhū*) means "producers of happiness", as parents are to a son.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रा वरुणौ (*iṃdrā varuṇau*)—O Indra and Varuṇa
+- गविषः (*gaviṣaḥ*)—desiring cattle
+- पूर्व्याय (*pūrvyāya*)—ancient
+- अवसे (*avase*)—for protection
+- युवामित् (*yuvāmit*)—you alone
+- वृणीमहे (*vṛṇīmahe*)—we pray
+- पितरेव (*pitareva*)—like father and mother
+- शंभू (*śaṃbhū*)—givers of happiness
+- प्रभूती (*prabhūtī*)—possessed of power
+- स्वापी (*svāpī*)—excellent kinsmen
+- शूरा (*śūrā*)—valiant ones
+- मंहिष्ठा (*maṃhiṣṭhā*)—worshipful; you who are such, you alone
+- सख्याय (*sakhyāya*)—for friendship
+- प्रियाय च (*priyāya ca*)—and also for our welfare
+- परि (वृणीमहे) (*pari (vṛṇīmahe)*)—standing all around, we pray
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, desiring cattle, for ancient protection, for friendship with you, and also for the guarding of our welfare, we stand around you and pray to you alone, who are givers of happiness like father and mother, powerful, excellent kinsmen, valiant and worshipful.
+
+##### English translation (H. H. Wilson)
+Desirous of (possessing) cattle, we have recourse to you. Indra and Varuna, for full protection, you are powerful and kind as (kinsmen); we have recourse to you, adorable heroes, for (your) friendship and affection, (to you who are), like parents, givers of happiness.
+
+### Printed p. 415
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वां॒ धियोऽव॑से वाज॒यंती॑रा॒जिं न ज॑ग्मुर्युव॒यूः  ॑
+> सुदानू ।  
+> त्रि॒ये न गाव॒ उप॒ सोम॑मस्थु॒रिंद्रं॒ गिरो॒ वरु॑णं मे  ॒
+> मनीषाः ॥ ८ ॥
+
+> *tā vāṃ dhiyo 'vase vājayaṃtīrājiṃ na jagmuryuvayūḥ*  
+> *sudānū |*  
+> *triye na gāva upa somamasthuriṃdraṃ giro varuṇaṃ me*  
+> *manīṣāḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । वां । धियः । अवसे । वाजयंतीः । आजिं । न । जग्मुः । युवयूः ।  
+> सुदानू इति सुदानू ।  
+> त्रिये । न । गावः । उप । सोमं । अस्थुः । इंद्रं । गिरः । वरुणं । मे । मनीषाः ॥
+
+> *tāḥ | vāṃ | dhiyaḥ | avase | vājayaṃtīḥ | ājiṃ | na | jagmuḥ | yuvayūḥ |*  
+> *sudānū iti sudānū |*  
+> *triye | na | gāvaḥ | upa | somaṃ | asthuḥ | iṃdraṃ | giraḥ | varuṇaṃ | me | manīṣāḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुदानू शोभनफलदातारौ हे देवौ नां युवां वाजयंती रत्नमिच्छंत्यो धियः स्तुतयो जग्मुः। गच्छंति । युवयूर्युवां कामयमानाः पदातय
+> अवसे रक्षणाय आजिं न संग्राममिव । किंच श्रिये दध्यादिश्रयणाय गावः सोमं
+> न सोममिवेंद्रं वरुणं च मे मदीया मनीषा मनस ईश्वरा गिरः स्तुतय
+> उपास्थुः । तिष्ठंति । प्रीणयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, you who are givers of good fruit (सुदानू (*sudānū*)), those praises (धियः (*dhiyaḥ*)) of mine, desiring wealth (वाजयंती (*vājayaṃtī*) = रत्नमिच्छंत्यो (*ratnamicchaṃtyo*)), go to you.**NOTE**. युवयूः (*yuvayūḥ*) means those who desire you; as foot-soldiers go to battle (आजिं (*ājiṃ*)) for protection, so the praises go. Further: as cows (गावः (*gāvaḥ*)) go to Soma for श्रिये (*śriye*), that is, for mingling with curds and the like,**NOTE** so my praises (मनीषा (*manīṣā*) = मनस ईश्वरा (*manasa īśvarā*), "lords of the mind") stand by Indra and Varuṇa; that is, they please them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानू (*sudānū*)—O Indra and Varuṇa, excellent givers
+- ताः धियः (*tāḥ dhiyaḥ*)—my praises
+- वाजयंतीः (*vājayaṃtīḥ*)—longing for food
+- वां (*vāṃ*)—you alone
+- जग्मुः (*jagmuḥ*)—approach
+- आजिं न (*ājiṃ na*)—as foot-soldiers long for battle
+- अवसे (*avase*)—for protection
+- युवयूः (*yuvayūḥ*)—those who long for you
+- गावः (*gāvaḥ*)—cows
+- श्रिये (*śriye*)—for their own benefit
+- सोमं न (*somaṃ na*)—as they approach Soma
+- मे (*me*)—my
+- मनीषाः (*manīṣāḥ*)—which are of the form of resolves of the mind
+- गिरः (*giraḥ*)—praises
+- इंद्रं वरुणं (*iṃdraṃ varuṇaṃ*)—Indra and Varuṇa
+- उप अस्थुः (*upa asthuḥ*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, excellent givers, my praises, longing for food, approach you alone. They long for you for protection as foot-soldiers long for battle, and as cows approach Soma for their
+
+### Printed p. 416
+benefit, my praises, which are of the form of resolves of my mind, approach Indra and Varuṇa.
+
+##### English translation (H. H. Wilson)
+Liberal givers, those (our) praises soliciting (abundant) food have proceeded to you for (your) protection : longing for you as (soldiers long) for battle, and as cattle approach the Soma for (its) advantage, so my heartfelt hymns (approach) Indra and Varuna.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा इंद्रं॒ वरु॑णं मे मनी॒षा अग्म॒न्नुप॒ द्रवि॑णमि॒च्छमा॑नाः ।  
+> उपे॑मस्थुर्जो॒ष्टार॑ इव॒ वस्वो॑ र॒घ्वीरि॑व॒ श्रव॑सो॒ भिक्ष॑माणाः ॥
+
+> *imā iṃdraṃ varuṇaṃ me manīṣā agmannupa draviṇamicchamānāḥ |*  
+> *upemasthurjoṣṭāra iva vasvo raghvīriva śravaso bhikṣamāṇāḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । इंद्रं । वरुणं । मे । मनीषाः । अग्मन् । उप । द्रविणं । इच्छमानाः ।  
+> उप । ईं । अस्तुः । जोष्टारःइव । वस्वः । रघ्वीःइव । श्रवसः । भिक्षमाणाः ॥ ९ ॥
+
+> *imāḥ | iṃdraṃ | varuṇaṃ | me | manīṣāḥ | agman | upa | draviṇaṃ | icchamānāḥ |*  
+> *upa | īṃ | astuḥ | joṣṭāraḥiva | vasvaḥ | raghvīḥiva | śravasaḥ | bhikṣamāṇāḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रं वरुणं च मे मम मनीषाः स्तुतयो द्रविणमिच्छमानाः सत्य
+> उपाग्मन् । उपगच्छंति । जोष्वारः सेवका वस्वो धनस्य लाभाय धनिकं स्वामिनमिव । रघ्वीरिव लघ्व्य इव शीघ्रगामिन्य इव श्रवसोऽन्न स्यान्नं भिक्षमाणा एनमिंद्रं
+> वरुणं चोपास्थुः । उपतिष्ठंते ॥
+
+##### Gist of the bhāṣya
+
+My praises (मनीषाः (*manīṣāḥ*)), desiring wealth (द्रविणं (*draviṇaṃ*)), approach Indra and Varuṇa (उपाग्मन् (*upāgman*) = उपगच्छंति (*upagacchaṃti*)), as servants (जोष्टारः (*joṣṭāraḥ*) = सेवका (*sevakā*))**NOTE** approach a wealthy master for the gain of wealth (वस्वः (*vasvaḥ*)). Like रघ्वीः (*raghvīḥ*), that is, like light (लघ्व्य (*laghvya*)) or swift-going women, begging for श्रवसः (*śravasaḥ*), that is, for food,**NOTE** they stand by this Indra and Varuṇa; they wait upon them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- इमा मनीषाः (*imā manīṣāḥ*)—these praises
+- द्रविणं (*draviṇaṃ*)—wealth
+- इच्छमानाः (*icchamānāḥ*)—being desirous of
+- इंद्रं वरुणं (*iṃdraṃ varuṇaṃ*)—Indra and Varuṇa
+- उप अग्मन् (*upa agman*)—approach
+- वस्वः (*vasvaḥ*)—for wealth
+- जोष्टार इव (*joṣṭāra iva*)—as servants who attend a rich man for the sake of wealth
+
+### Printed p. 417
+- श्रवसः (*śravasaḥ*)—food
+- भिक्षमाणाः (*bhikṣamāṇāḥ*)—begging
+- रघ्वी इव (*raghvī iva*)—like humble women
+- ईं उप अस्तुः (*īṃ upa astuḥ*)—my praises approach Indra and Varuṇa
+
+##### भावार्थ (Bhāvārtha)
+
+Like servants who attend rich men for the sake of wealth, and like humble women begging for food, these praises of mine, longing for wealth, approach Indra and Varuṇa.
+
+##### English translation (H. H. Wilson)
+These my earnest praises approach Indra and Varuna, desirous to obtain wealth. as dependants attend (upon an opulent man) for the sake of riches, like humble (females) begging for food.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्व॑स्य॒ त्मना॒ रथ्य॑स्य पु॒ष्टेर्नित्य॑स्य रा॒यः पत॑यः स्याम ।  
+> ता च॑क्रा॒णा ऊ॒तिभि॒र्नव्य॑सीभिरस्म॒त्रा रायो॑ नि॒युतः॑ सचंतां॥
+
+> *aśvasya tmanā rathyasya puṣṭernityasya rāyaḥ patayaḥ syāma |*  
+> *tā cakrāṇā ūtibhirnavyasībhirasmatrā rāyo niyutaḥ sacaṃtāṃ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वस्य । त्मना । रथ्यस्य । पुष्पेः । नित्यस्य । रायः । पतयः । स्याम ।  
+> ता । चक्राणौ । ऊतिभिः । नव्यसीभिः । अस्मत्रा । रायः । नियुतः । सचंतां ॥ १०॥
+
+> *aśvasya | tmanā | rathyasya | puṣpeḥ | nityasya | rāyaḥ | patayaḥ | syāma |*  
+> *tā | cakrāṇau | ūtibhiḥ | navyasībhiḥ | asmatrā | rāyaḥ | niyutaḥ | sacaṃtāṃ ‖ 10‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्वस्याश्वसमूहस्य रथ्यस्य रथरूपस्य रथार्हस्य वा पुष्टेः पोषस्य नित्यस्याविचलितस्य रायो धनस्य त्मनात्मना स्वयमेवाप्रयत्नेन पतयः स्याम । ता तौ
+> देवौ चक्राणा चंक्रममाण् गंतारौ । भवतमिति शेषः । नव्यसीभिर्नूतनाभिरूतिभी
+> रक्षाभिरस्मत्रास्मासु नियुतोऽश्वा रायो धनानि च सचंतां । सेवंतां ॥
+
+##### Gist of the bhāṣya
+
+May we be lords (पतयः (*patayaḥ*)), of ourselves (त्मना (*tmanā*) = त्मना (*tmanā*), i.e. by ourselves, without effort), of wealth (रायः (*rāyaḥ*)) that is constant and unshaken (नित्यस्य (*nityasya*)), of nourishment (पुष्टेः (*puṣṭeḥ*)), of a herd of horses (अश्वस्य (*aśvasya*)), and of what is of the form of chariots or fit for chariots (रथ्यस्य (*rathyasya*)). May those two gods, चक्राणा (*cakrāṇā*), "going about" (*bhavataṃ*, "be", is to be supplied), with new protections (नव्यसीभिः (*navyasībhiḥ*) = new, ऊतिभिः (*ūtibhiḥ*) = रक्षाभिः (*rakṣābhiḥ*)), bring to us (अस्मत्रा (*asmatrā*) = *asmāsu*) the नियुतः (*niyutaḥ*) (horses) and wealths, and let them wait on us (सचंतां (*sacaṃtāṃ*) = सेवंतां (*sevaṃtāṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वस्य (*aśvasya*)—of that which has a herd of horses
+- रथ्यस्य (*rathyasya*)—of that which comprises chariots
+- पुष्टेः (*puṣṭeḥ*)—of that which nourishes
+- नित्यस्य (*nityasya*)—of that which is eternal
+- रायः (*rāyaḥ*)—to that wealth
+
+### Printed p. 418
+- त्मना (*tmanā*)—without dependence on others, we ourselves independently
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may we be
+- ता (*tā*)—those Indra and Varuṇa
+- नव्यसीभिः (*navyasībhiḥ*)—new
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- चक्राणा (*cakrāṇā*)—moving about
+- नियुतः (*niyutaḥ*)—their horses
+- रायः (*rāyaḥ*)—and wealths
+- अस्मत्रा (*asmatrā*)—towards us
+- सचंतां (*sacaṃtāṃ*)—let them turn
+
+##### भावार्थ (Bhāvārtha)
+
+May we become lords, independently and without dependence on others, of wealth that comprises herds of horses and chariots and that nourishes. May Indra and Varuṇa, moving about with new protections, turn their horses and their wealths towards us.
+
+##### English translation (H. H. Wilson)
+May we of our own (right) be masters of permanent riches, comprising horses, chariots, and nourishment : may those two, traversing (the regions), direct their Niyut steeds towards us, associating (them) with riches and with recent protections.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ बृहंता बृह॒तीभि॑रू॒ती इंद्र॑ या॒तं व॑रुण॒ वाज॑सात् ।  
+> यद्दि॒द्यवः॒ पृत॑नासु प्र॒क्रीळा॒न्तस्य॑ वां स्याम सनि॒तार॑ आ॒जेः ॥
+
+> *ā no bṛhaṃtā bṛhatībhirūtī iṃdra yātaṃ varuṇa vājasāt |*  
+> *yaddidyavaḥ pṛtanāsu prakrīḷāntasya vāṃ syāma sanitāra ājeḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । बृहंता । बृहतीभिः । ऊती । इंद्र । यातं । वरुण । वाजसात् ।  
+> यत् । दिद्यवः । पृतनासु । प्रक्रीळान् । तस्य । वां । स्याम । सनितारः । आजेः ॥११॥
+
+> *ā | naḥ | bṛhaṃtā | bṛhatībhiḥ | ūtī | iṃdra | yātaṃ | varuṇa | vājasāt |*  
+> *yat | didyavaḥ | pṛtanāsu | prakrīḷān | tasya | vāṃ | syāma | sanitāraḥ | ājeḥ ‖11‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बृहंता महांतौ हे इंद्र हे वरुण बृहतीभिर्महतीभिरूती ऊतिभी
+> रक्षाभिः सहा यातं । आगच्छतं । वाजसात् संग्रामेऽन्नलाभनिमित्तभूते ना
+> यद्यस्मिन्नाज् संग्रामे पृतनासु सेनासु दिद्यवः । आयुधनामैतत् । आयुधानि
+> शत्रुसंबंधीनि प्रक्रीळान् । प्रक्रीडंते । तस्य तादृशस्याजेः सनितारः संभक्तारः
+> स्याम । भवेम । नां युवयोरनुग्रहात् ॥
+
+##### Gist of the bhāṣya
+
+O great ones (बृहंता (*bṛhaṃtā*) = महांतौ (*mahāṃtau*)), O Indra, O Varuṇa, come (यातं (*yātaṃ*) = आगच्छतं (*āgacchataṃ*)) to us with great protections (बृहतीभिः (*bṛhatībhiḥ*), ऊती (*ūtī*)), in the battle (वाजसात् (*vājasāt*)) that is the occasion for gaining food. In which conflict (*ājau*), among the armies (पृतनासु (*pṛtanāsu*)), the दिद्यवः (*didyavaḥ*) (this is a name for weapons), that is, the weapons of the enemies, प्रक्रीळान् (*prakrīḷān*), "play forth": of such a conflict may we become the winners (सनितारः (*sanitāraḥ*) = संभक्तारः (*saṃbhaktāraḥ*), sharers), by your favour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहंता (*bṛhaṃtā*)—great-souled
+- इंद्र, वरुण, (*iṃdra, varuṇa,*)—O Indra and Varuṇa
+- बृहतीभिः (*bṛhatībhiḥ*)—great
+- ऊती (*ūtī*)—with protections
+- नः (*naḥ*)—to us
+- आ यातं (*ā yātaṃ*)—deign to come
+- वाजसात् (*vājasāt*)—going on for the sake of food
+- यत् (*yat*)—in which battle
+- पृतनासु (*pṛtanāsu*)—amidst the (enemy) armies
+- दिद्यवः (*didyavaḥ*)—your weapons
+- प्रक्रीळान् (*prakrīḷān*)—move as if at play
+- तस्य आजेः (*tasya ājeḥ*)—to such a battle
+- वां (*vāṃ*)—by your favour
+- सनितारः (*sanitāraḥ*)—like victorious lords
+- स्याम (*syāma*)—may we become
+
+### Printed p. 419
+
+##### भावार्थ (Bhāvārtha)
+
+O great-souled Indra and Varuṇa, deign to come to us with great protections. In the battle fought for food, in which your weapons move as if at play amidst the enemy armies, may we, by your favour, become like victorious lords in that battle.
+
+##### English translation (H. H. Wilson)
+Mighty Indra and Varuna, come to us in battle with (your) powerful protections, and where the bright (weapons) play amidst the (hostile) hosts, may we be triumphant in that conflict (through) your (favour).
+
+## Sūkta 42 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मम द्वितेति दशर्चं दशमं सूक्तं । पुरुकुत्सस्य पुत्रस्रसदस्यू राजर्षिः ।
+> आद्यासु षट्स्वात्मनः स्तुत्यत्पादात्मा देवता । अवशिष्टानां चतसृणामिंद्रावरुणौ
+> देवता । त्रिष्टुप् छंदः । अत्रानुक्रमणिका । मम द्विता दश त्रिसदस्युः पौरुकुत्सः
+> षळाद्या आत्मस्तव इति । उक्तो विनियोगः पूर्वसूक्ते ॥
+
+##### Gist of the bhāṣya
+
+The sūkta मम द्वितेति (*mama dviteti*) has ten ṛks and is the tenth sūkta. Its seer is the royal sage Trasadasyu, son of Purukutsa. In the first six ṛks, since they praise himself, the deity is the Self (आत्मा (*ātmā*)); for the remaining four the deities are Indra and Varuṇa. The metre is Triṣṭubh. On this he cites the Anukramaṇikā: मम द्विता दश त्रिसदस्युः पौरुकुत्सः षळाद्या आत्मस्तव इति । (*mama dvitā daśa trisadasyuḥ paurukutsaḥ ṣaḷādyā ātmastava iti |*). The viniyoga has been stated at the previous sūkta.
+
+##### Anuvāda
+
+This sūkta, "mama dvitā", is the tenth sūkta in the fourth anuvāka. It has ten ṛks. Its seer is the king (royal sage) named Trasadasyu, son of Purukutsa. Since the first six ṛks of this sūkta contain praise of himself, the deity of these ṛks is the Self; for the remaining four ṛks the deities are Indra and Varuṇa; the metre is Triṣṭubh. In the Anukramaṇikā it is said: "mama dvitā daśa trasadasyuḥ paurukutsaḥ ṣaḷādyā ātmastavaḥ". The viniyoga has been stated in the viniyoga of the preceding sūkta.
+
+### Printed p. 420
+
+##### Particulars
+
+- Sūkta—42
+- Maṇḍala—4; Anuvāka—4; Sūkta—42
+- Aṣṭaka—3; Adhyāya—7; Varga—17, 18
+- Number of ṛks in the sūkta—10
+- Seer—Trasadasyu Paurukutsa
+- Deity—1-6. Ātmā; 7-10. Indra and Varuṇa
+- Metre—Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मम॑ द्वि॒ता रा॒ष्ट्रं क्ष॒त्रिय॑स्य वि॒श्वायो॒र्विश्वे॑ अ॒मृता॒ यथा॑  
+> नः ।  
+> क्रतुं॑ सचंते॒ वरु॑णस्य दे॒वा राजा॑मि कृ॒ष्टेरु॑प॒मस्य॑  ॒
+> वव्रेः ॥ १ ॥
+
+> *mama dvitā rāṣṭraṃ kṣatriyasya viśvāyorviśve amṛtā yathā*  
+> *naḥ |*  
+> *kratuṃ sacaṃte varuṇasya devā rājāmi kṛṣṭerupamasya*  
+> *vavreḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मम । द्विता । राष्ट्रं । क्षत्रियस्य । विश्वआयोः । विश्वे । अमृताः । यथा । नः ।  
+> क्रतुं । सचंते । वरुणस्य । देवाः । राजामि । कृष्टेः । उपमस्य । वव्रेः ॥ १ ॥
+
+> *mama | dvitā | rāṣṭraṃ | kṣatriyasya | viśvaāyoḥ | viśve | amṛtāḥ | yathā | naḥ |*  
+> *kratuṃ | sacaṃte | varuṇasya | devāḥ | rājāmi | kṛṣṭeḥ | upamasya | vavreḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्षत्रियस्य क्षत्रियजात्युत्पन्नस्य विश्वायोः कृत्स्नमनुष्याधीशस्य । ममेत्यात्मनो निर्दॆशः । द्विता क्षितिस्वर्गभेदेन द्वित्वासन्नं राष्ट्रं । मम त्रसदस्योर्विश्वे
+> सर्वॆऽमृता देवा यथा नोऽस्माकं भवंति तथा राष्ट्रं प्रजाश्चेत्यर्थः। वरुणस्य
+> वारकस्य वरुणात्मनो वा कृष्टेर्मनुष्यस्य तद्वतो ना उपमस्य । अंतिकनामैतत् ।
+> सर्वेषामंतिकतमस्य वव्रेः । रूपनामैतत् । रूपवतो मम क्रतुं कर्म सचंते।
+> सेवंते देवाः सर्वॆऽपि । अहं च राजामि । राजतिरैश्वर्यकर्मा । सर्वेश्वरो
+> भवामि । यद्वा । उपमस्य वव्रेः कृष्टे राजामीति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+"Of me", मम (*mama*), is the speaker's reference to himself: of me, Trasadasyu, a kṣatriya, born of the kṣatriya caste, विश्वायोः (*viśvāyoḥ*), lord of all men. द्विता (*dvitā*): the kingdom (राष्ट्रं (*rāṣṭraṃ*)) is close to being twofold by the division into earth and heaven.**NOTE** As all the immortal gods are ours, so the kingdom and the subjects are, is the meaning. वरुणस्य (*varuṇasya*): of the restrainer, or of one whose self is Varuṇa; कृष्टेः (*kṛṣṭeḥ*): of the man, of him who has these. उपमस्य (*upamasya*) is a word for "near": of the one nearest of all. वव्रेः (*vavreḥ*) is a word for "form": of me who have form, all the gods attend (सचंते (*sacaṃte*) = सेवंते (*sevaṃte*)) my क्रतुं (*kratuṃ*), my rite. And I rule (राजामि (*rājāmi*); राजति (*rājati*) is a verb of lordship): I become lord of all. Or else, the construction is उपमस्य वव्रेः कृष्टे राजामीति (*upamasya vavreḥ kṛṣṭe rājāmīti*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- विश्वे (*viśve*)—all
+- अमृताः (*amṛtāḥ*)—the gods
+- नः (*naḥ*)—as they are related to us
+- क्षत्रियस्य (*kṣatriyasya*)—of one born in a kṣatriya family
+- विश्वायोः (*viśvāyoḥ*)—
+
 ---
 
-**Progress note:** Done through printed p. 413. pp. 407-413 (batch API)
+**Progress note:** Done through printed p. 420. pp. 414-420 (batch API)
