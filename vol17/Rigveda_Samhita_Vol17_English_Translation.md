@@ -24059,6 +24059,296 @@ your swift and errant flames descend (on every side) ; fierce-shining with vigou
 
 O Agni, of swift motion, spread your rays that harm the enemies. Unharmed by anyone, protect us, your people, from all sinners, whether far or near. Let no one fall upon us who belong to you and harm us.
 
+### Printed p. 768
+
+##### English translation (H. H. Wilson)
+You, who are most rapid, direct your (flames) against opposing (rays), and, unresisted, become the protector of this your people against the calumiator who is remote or who is nigh : let no malevolent (foe) prevail against us (who are) your worshippers.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॑ग्ने तिष्ठ॒ प्रत्या त॑नुष्ट॒ नृ१॒॑मित्रां॑ ओषतात्तिग्महेते ।  
+> यो नो॒ आरा॑तिं समिधान च॒क्रे नी॒चा तं ध॑क्ष्यत॒सं न  ॑
+> शुष्कं ॥ ४ ॥
+
+> *udagne tiṣṭha pratyā tanuṣṭa nṛmitrāṃ oṣatāttigmahete |*  
+> *yo no ārātiṃ samidhāna cakre nīcā taṃ dhakṣyatasaṃ na*  
+> *śuṣkaṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । अग्ने । तिष्ठ । प्रति । आ । तनुष्ट । नि । अमित्रान् । ओषतात् । तिग्महेते ।  
+> यः । नः । अरातिं । सम्ऽइधान । चक्रे । नीचा । तम् । धक्षि । अतसं । न । शुष्कं ॥
+
+> *ut | agne | tiṣṭha | prati | ā | tanuṣṭa | ni | amitrān | oṣatāt | tigmahete |*  
+> *yaḥ | naḥ | arātiṃ | sam 'idhāna | cakre | nīcā | tam | dhakṣi | atasaṃ | na | śuṣkaṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तिग्महेते । तिग्मास्तीक्ष्णा हॆ तयो ज्वाला यस्य स तथोक्तः । तादृश हे अग्ने
+> उत्तिष्ठ । रक्षोहननार्थमुद्यतो भव । शत्रून्प्रत्या तनुष्ट । ज्वालासंघं विस्तारय । तैस्तेजःसंघैरमित्रान् शत्रून्नोषतात् । नितरां दह । हे समिधान समिद्भिर्दिष्यमानाग्ने यः पुमान् नोऽस्माकमरातिं । भावप्रधाननिर्देशः । अरातित्वं ।
+> शात्रवं चक्रे । कुरुते । अरातिमदानं वा कुरुते । तं पुमांसं नीचा न्यग्भूतं
+> धक्षि । दह । तत्र दृष्टांतः . अतसं न। यथा शुष्कमनाद्र्रमतसं काष्ठं दहसि तद्वत्॥
+> ओषतात् । उष दाहे । लोटि हेस्तहोरिति तातजादेशः । धक्षि । दहेर्लोटि
+> बहुलं छंदसीति शपो लुक् । हो ढ इति ढत्वं । भष्भावः । षडोः कः सीति कत्वं ।
+> निघातः ॥
+
+##### Gist of the bhāṣya
+
+Tigmahete: one whose flames (*hètayaḥ*) are sharp. Such an Agni is told to rise, that is, to be ready to slay the Rākṣasas, and to spread the mass of his flames against the enemies. With those masses of fire he is to burn the foes (अमित्रान् (*amitrān*)) completely. "O Samidhāna" means Agni kindled with fuel-sticks. Whatever man makes arāti (enmity) towards us — arāti is stated as an abstract notion, meaning enmity (शात्रवं (*śātravaṃ*)) — or, as the text has it, produces arāti-intoxication (अरातिमदानं (*arātimadānaṃ*)), him Agni is to burn, cast down, as one burns a dry, moistureless piece of timber (अतसं (*atasaṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तिग्महेते (*tigmahete*)—having sharp flames
+- अग्ने (*agne*)—O Agni
+- उत्तिष्ठ (*uttiṣṭha*)—rise, for the slaying of foes
+- पत्या (*patyā*)—your mass of flames **NOTE**
+- आ तनुष्प (*ā tanuṣpa*)—spread out
+- अमित्रान् (*amitrān*)—the enemies
+
+### Printed p. 769
+- नि ओषतात् (*ni oṣatāt*)—burn completely
+- समिधान (*samidhāna*)—O Agni, who blaze up with fuel-sticks
+- यः (*yaḥ*)—whatever man
+- नः (*naḥ*)—our
+- आरातिं (*ārātiṃ*)—enmity
+- चक्रे (*cakre*)—fosters
+- तं (*taṃ*)—him
+- नीचा (*nīcā*)—thrusting down
+- शुक्रं (*śukraṃ*)—dry **NOTE**
+- आतसं न (*ātasaṃ na*)—as one burns timber
+- धक्षि (*dhakṣi*)—burn
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of sharp flames, make yourself ready for slaying the foes. Spread out the mass of your flames. Burn the enemies completely. O Agni, who blaze up with fuel-sticks, burn the man who fosters enmity towards us.
+
+##### English translation (H. H. Wilson)
+Sharp-weaponed Agni, rise up ; spread wide (your flames)against (the Rakshasas) ; entirely consume the foes ; blazing Agni,burn down him who acts as an enemy towards us like a piece of dry timber.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वो भ॑व॒ प्रति॑ वि॒ध्याध्य॒स्मदा॒विष्कृ॑णुष्ट॒ दैव्या॑न्यग्ने ।  
+> अव॑ स्थि॒रा त॑नुहि यातु॒जूनां॑ जा॒मिमजा॑मिं॒ प्र मृ॑णीहि॒  ॑
+> शत्रून् ॥ ५ ॥
+
+> *ūrdhvo bhava prati vidhyādhyasmadāviṣkṛṇuṣṭa daivyānyagne |*  
+> *ava sthirā tanuhi yātujūnāṃ jāmimajāmiṃ pra mṛṇīhi*  
+> *śatrūn ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वः । भव । प्रति । विध्य । अधि । अस्मत् । आविः । कृणुष्ट । दैव्यानि । अग्ने ।  
+> अव । स्थिरा । तनुहि । यातुजूनां । जामिं । अजामिं । प्र । मृणीहि । शत्रून् ॥
+
+> *ūrdhvaḥ | bhava | prati | vidhya | adhi | asmat | āviḥ | kṛṇuṣṭa | daivyāni | agne |*  
+> *ava | sthirā | tanuhi | yātujūnāṃ | jāmiṃ | ajāmiṃ | pra | mṛṇīhi | śatrūn ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ऊर्ध्वो भव । रक्षोहननार्थमुद्युक्तो भव । अस्मदस्मत्तोऽधि
+> अधिकानाक्षसान् प्रति विध्य । प्रत्येकं ताडय । दैव्यानि तेजांसि चाविष्कृणुष्ट ।
+> अविष्कुरु । एतत्रयं विधाय यातुजूनां यातयितुं प्राणिनः क्लेशयितुं ये
+> जनं कुर्वंति तेषां यातुधानानां स्थिरा दृढानि धनूंष्यव तनुहि । अवगतज्यानि
+
+##### Gist of the bhāṣya
+
+O Agni, be upright, that is, be ready for slaying the Rākṣasas. Pierce each one separately of the Rākṣasas who are more numerous than we are (*asmadadhi*). Make manifest your divine energies. Having done these three things, unstring the strong bows of the Yātujūs, those Yātudhānas who work to torment living beings; make them bowstring-less.
+
+### Printed p. 770
+
+> कुरु । किंच जामिमजामिं बंधुमबंधुं शत्रून् मृणीहि । प्रजहि । यद्वा ।
+> जामिं यः पूर्वं प्रहृतस्तं । अजामिं पूर्वमप्रहृतं । एवंभूतान् शत्रून्
+> जहि । प्रहृतोऽयमित्यपेक्षां मा कृथाः ॥ आविष्कृणुष्टेत्यत्र संहितायामिदुदुपधस्य चाप्रत्ययस्येति षत्वं । तनुहि । तनोतेर्लोट्युतश्च प्रत्ययाच्छंदसि वावचनमिति हेर्लुगभावः । यातुजूनां । जु गत् । क्विब्बचीत्यादिना क्विप् । दीर्घः । आमि
+> छांदसो नुम् । मृणीहि । मृज् प्राणत्यागे । अंतर्भावितण्यर्थस्य लोटि बहुलं
+> छंदसीति विकरणस्य श्ना । निघातः ॥
+
+##### Gist of the bhāṣya
+
+Further, destroy the enemies, whether kindred or non-kindred (जामिमजामिं (*jāmimajāmiṃ*)). Or else: jāmi is one who has been struck before, ajāmi one not struck before; slay enemies of both sorts, and do not hesitate with the thought "this one has already been struck."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ऊर्ध्वो भव (*ūrdhvo bhava*)—rise up and stand, for victory over the foes
+- अस्मत् (*asmat*)—than we
+- अधि (*adhi*)—the foes who are greater in number
+- प्रति विध्य (*prati vidhya*)—beat down one by one
+- दैव्यानि (*daivyāni*)—your divine energies
+- आविष्कृणुष्ट्वा (*āviṣkṛṇuṣṭvā*)—make manifest
+- यातुजूनां (*yātujūnāṃ*)—of the Rākṣasas
+- स्थिरा (*sthirā*)—the strong bows
+- अव तनुहि (*ava tanuhi*)—make them without bowstring (jyā)
+- जामिं (*jāmiṃ*)—be he a kinsman
+- अजामिं (*ajāmiṃ*)—or not a kinsman
+- शत्रून् (*śatrūn*)—those who wish us harm
+- मृणीहि (*mṛṇīhi*)—conquer and subdue
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be ready for victory over the foes. Destroy one by one the foes who are more numerous than we. Make your divine energies manifest. Tear off the strings of the strong bows of the Rākṣasas. Whether they are our kinsmen or not, conquer and subdue those who wish us harm.
+
+##### English translation (H. H. Wilson)
+Rise up, Agni chastise those who overpower us ; manifest your divine energies; slacken the strong (bow strings) of the malignant kings ; destroy those (who are hostile), whether kindred or unallied.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स ते॑ जानाति सुम॒तिं य॑विष्ठ॒य ईव॑ते॒ ब्रह्म॑णे गा॒तुमैर॑त् ।  
+> विश्वा॑न्यस्मै सु॒दिना॑नि रा॒यो द्यु॒म्नान्व॒यो वि दुरो॑ अ॒भि  ॑
+> द्यात् ॥ ६ ॥
+
+> *sa te jānāti sumatiṃ yaviṣṭhaya īvate brahmaṇe gātumairat |*  
+> *viśvānyasmai sudināni rāyo dyumnānvayo vi duro abhi*  
+> *dyāt ‖ 6 ‖*
+
+### Printed p. 771
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ते । जानाति । सुमतिं । यविष्ठ । यः । ईवते । ब्रह्मणे । गातुं । ऐरत् ।  
+> विश्वानि । अस्मै । सुदिनानि । रायः । द्युम्नानि । अर्यः । वि । दुरः । अभि । द्यौत् ॥
+
+> *saḥ | te | jānāti | sumatiṃ | yaviṣṭha | yaḥ | īvate | brahmaṇe | gātuṃ | airat |*  
+> *viśvāni | asmai | sudināni | rāyaḥ | dyumnāni | aryaḥ | vi | duraḥ | abhi | dyaut ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यविष्ठ युवतम । यद्वा । देवानां हवींषि मिश्रयित्यृतम हे अग्ने यः
+> पुमानीवते गमनवते कल्याणहेतुभूतागमनाय ब्रह्मणे परिवृढाय तुभ्यं
+> गातुं । गीयत उच्चार्यत इति गातुः स्तोत्रं । तदैरत् । प्रेरयति । स पुमान्
+> ते तव सुमतिं कल्याणकरीमनुग्रहात्मिकां बुद्धिं जानाति । लभत इत्यर्थः । अस्मै
+> स्तोत्रं कृतवते यजमानाय तदर्थ० विश्वानि सुदिनानि शोभनानि दिनानि रायो
+> धनानि द्युम्नानि द्युतिमंति रत्नकनकादीनि दुरो गृहानभि अभिलक्ष्यार्यो यज्ञानां स्वामी त्वं वि द्यौत् । विशेषेण द्योतस्व । केचिदत्र वाक्यभेदमंगीकुर्वते ।
+> स्तोत्रं कृतवते यजमानाय विश्वानि सुदिनान्यभ्युदयकारीणि भवंति । रायः ।
+> रांति क्षीरादीनीति रायो गोधनानि । द्युम्नानि द्योतमानानि कनकादीनि चास्मे
+> भवंति। अर्यः कर्मणामनुष्ठाता स यजमानो दुरो गृहानभिवि द्यौत् । विशेषेण द्योतते ॥ ईवते । ई गत् । क्विप् । तदस्यास्तीति मतुप् । छंदसीर इति
+> मतुपो वत्वं । ऐरत् । ईर गत् । यद्वृत्तयोगादनिघातः । अर्यः । ऋ गत् ।
+> अर्यः स्वामिवैश्ययोरिति यत्पत्ययांतो निपातितः । स्वामिन्यंतोदात्तत्वं ।
+> द्यौत् । द्युत दीप्तौ । छांदसे लुजु द्युद्भो लुजीति परस्पॆपदं । बहुलु
+> छंदसीत्यडभावः ॥
+
+##### Gist of the bhāṣya
+
+Yaviṣṭha: youngest; or else, the best mixer of the oblations of the gods. O Agni, the man who sends forth a hymn (गातुं (*gātuṃ*), that which is sung or uttered, a stotra) to you, who are ईवते (*īvate*), one who goes and comes for the sake of bringing welfare, and ब्रह्मणे (*brahmaṇe*), great — that man obtains (जानाति (*jānāti*), "gains") your sumati, your favourable and gracious mind. For this yajamāna who has made the praise, you, as arya, lord of the sacrifices, shine forth specially, looking towards his houses (दुरः (*duraḥ*)), upon all fair days, riches (रायः (*rāyaḥ*)) and brilliant treasures (द्युम्नानि (*dyumnāni*)) such as jewels and gold. Some accept here a division of the sentence: for the yajamāna who has made the praise all fair days become prosperous; rāyaḥ are cattle-wealth, so called because they give milk and the like; shining things such as gold become his; and arya, the performer of the rites, that yajamāna, shines specially in his houses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—O youthful Agni
+- यः (*yaḥ*)—the man who
+- ईवते (*īvate*)—to you, who come to the sacrifice
+- ब्रह्मणे (*brahmaṇe*)—and are Brahman in essence, addressing you
+- गातु (*gātu*)—the hymn
+- ऐरत् (*airat*)—recites
+- सः (*saḥ*)—he
+- ते (*te*)—your
+- सुमतिं (*sumatiṃ*)—gracious mind
+- जानाति (*jānāti*)—obtains
+- अस्मै (*asmai*)—for such a yajamāna
+- विश्वानि (*viśvāni*)—all
+- सुदिनानि (*sudināni*)—pleasant days
+- रायः (*rāyaḥ*)—riches
+- द्युम्नानि (*dyumnāni*)—treasures such as jewels
+- दुरः अभि (*duraḥ abhi*)—in his house
+- अरः (*araḥ*)—you, the lord
+- विद्यौत् (*vidyaut*)—cause to shine
+
+### Printed p. 772
+
+##### भावार्थ (Bhāvārtha)
+
+O youthful Agni, the man who recites a hymn addressed to you, who come to the sacrifice and are Brahman in essence, obtains your gracious mind. For such a yajamāna, you, the lord, are to make all wealth, gold and other riches shine in his house.
+
+##### English translation (H. H. Wilson)
+He experiences your good favour, youngest (of the gods), who offers praise to you, a Brahman, coming quickly (to bestow felicity) ; to him are all prosperous days and wealth (of cattle) and treasures ; you, as the lord of sacrifice, shine upon his dewelling.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सेद॑ग्ने अस्तु सु॒भगः॑ सु॒दानु॒र्यस्त्वा॒ नित्ये॑न ह॒विषा॒ य  ॒
+> उक्षैः ।  
+> पिप्री॑षति॒ स्व आयु॑षि दुरो॒णे विश्वेद॑स्मै सु॒दिना॒ सास॑दि॒ष्टिः ॥७॥
+
+> *sedagne astu subhagaḥ sudānuryastvā nityena haviṣā ya*  
+> *ukṣaiḥ |*  
+> *piprīṣati sva āyuṣi duroṇe viśvedasmai sudinā sāsadiṣṭiḥ ‖7‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । अग्ने । अस्तु । सुभगः । सुदानुः । यः । त्वा । नित्येन । हविषा । यः ।  
+> उक्षैः ।  
+> पिप्रीषति । स्वे । आयुषि । दुरोणे । विश्वा । इत् । अस्मै । सुदिना । सा । असत् ।  
+> इष्टिः ॥ ७ ॥
+
+> *saḥ | it | agne | astu | subhagaḥ | sudānuḥ | yaḥ | tvā | nityena | haviṣā | yaḥ |*  
+> *ukṣaiḥ |*  
+> *piprīṣati | sve | āyuṣi | duroṇe | viśvā | it | asmai | sudinā | sā | asat |*  
+> *iṣṭiḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यः पुमान् नित्येन यावज्जीवं संकल्पितेनाग्निहोत्रादिसाधनभूतेन हविषा त्वा त्वां पिप्रीषिति । प्रीणयितुमिच्छति । यश्चोक्ष्यैः शस्त्रैः प्रीण
+> यितुमिच्छति सेत् स एव पुमान् सुभगः शोभनधनः सौभाग्यवान्वा सुदानुः-
+
+##### Gist of the bhāṣya
+
+O Agni, the man who with a constant (नित्येन (*nityena*)) oblation, one resolved upon for as long as he lives and serving as the means of the Agnihotra and the like, wishes to please you, and who wishes to please you with ukthya hymns (उक्षैः (*ukṣaiḥ*), read as śastras) — that very man is to be subhaga, possessed of good wealth or of good fortune, and sudānu, possessed of good giving.
+
+### Printed p. 773
+
+> शोभनदानोपेतश्चास्तु किंच दुरोणे दुरवने कृच्छ्रलभ्ये स्वे स्वकीय आयुषि
+> शतवर्षाख्ये जीवने तिष्ठतु । अस्मै यजमानाय विश्वा सर्वाणि सुदिना शोभनानि
+> दिनानि भवंतु । अस्य सेष्टिः स यज्ञोऽसत् । फलसाधनसमर्थो भवतु ॥ पिप्रीषति ।
+> प्रीञ् तर्पणे । धातोः कर्मण इति सन् । असत् । अस्तेर्लेट्यडागमः । इष्टिः ।
+> मंत्रे वृषेत्यादिना क्तिन्नुदात्तः ॥
+
+##### Gist of the bhāṣya
+
+Moreover, in his own life, called duroṇa because hard to obtain, that is, in a life of a hundred years, let him abide. For this yajamāna may all days be fair. His iṣṭi, that sacrifice, is to be asat, that is, capable of yielding its fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the man who
+- नित्येन (*nityena*)—with the eternal
+- हविषा (*haviṣā*)—oblation
+- त्वा (*tvā*)—you
+- पिप्रीषति (*piprīṣati*)—wishes to satisfy
+- यः (*yaḥ*)—who
+- उक्षैः (*ukṣaiḥ*)—gladdens with śastra-mantras
+- सः इत् (*saḥ it*)—that man himself
+- सुभगः (*subhagaḥ*)—possessed of excellent wealth
+- सुदानुः (*sudānuḥ*)—an excellent giver
+- अस्तु (*astu*)—let him be
+- दुरोणे (*duroṇe*)—arduous
+- स्वे (*sve*)—his own
+- आयुषि (*āyuṣi*)—let him gain a life of a hundred years
+- अस्मै (*asmai*)—for this yajamāna
+- विश्वा (*viśvā*)—all
+- सुदिना (*sudinā*)—let the days also be auspicious
+- सा इष्टिः (*sā iṣṭiḥ*)—his sacrifice
+- असत् (*asat*)—let it give good fruit
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the man who wishes to satisfy you for ever with oblation, and who always gladdens you with śastra-mantras — may that same man be possessed of excellent wealth and be an excellent giver, and may he gain his arduous life of a hundred years. May all days be auspicious for this yajamāna. May his sacrifice yield good fruit.
+
+##### English translation (H. H. Wilson)
+May the liberal man ever be prosperous who propitiates you with constant oblations and praises : may all the days in his arduous life be pros- perous, and may this (his) sacrifice be productive of reward).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्चा॑मि ते सुम॒तिं घोष्य॒र्वाक्सं ते॑ वा॒वाता॑ जरतामि॒यं गीः ।
+
+> *arcāmi te sumatiṃ ghoṣyarvāksaṃ te vāvātā jaratāmiyaṃ gīḥ |*
+
 ---
 
-**Progress note:** Done through printed p. 767. pp. 761-767 (batch API)
+**Progress note:** Done through printed p. 773. pp. 768-773 (batch API)
