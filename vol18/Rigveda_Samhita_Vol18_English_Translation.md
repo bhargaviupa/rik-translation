@@ -460,6 +460,86 @@ Likewise, the gods all together impelled Indra to destroy the exceedingly powerf
 
 O Indra, you [slew] the one *atṛpnuvaṃtaṃ*, not satisfied in enjoyments; वियतं (*viyataṃ*), with loosened limbs; अबुध्यं (*abudhyaṃ*), hard to understand; अबुध्यमानं (*abudhyamānaṃ*), knowing nothing at all; सुषुपाणं (*suṣupāṇaṃ*), asleep; सप्त (*sapta*) seven, having the nature of creeping … (the block breaks off here; the next window continues).
 
+### Printed p. 7
+
+> प्रवतोऽपः प्रत्याशयानमावृत्य तिष्ठंतमहिं वृत्रमपर्वन् अपर्वणि पौर्णमास्यां वज्रेण वि रिणाः । व्यरिणाः । विशेषेण हतवानसि । पौर्णमास्यां वृत्रवधस्त्वष्टा
+> हतपुत्र इत्यनुवाके घ्नंति वा एनं पौर्णमास आमावास्यायां प्याययंतीति
+> तैत्तरीयेऽप्युक्तः । तै. सं. २-५-२-५ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes up the remaining words of the verse. The waters flow downward (प्रवतः (*pravataḥ*)), and Ahi, that is Vṛtra, lay across them, enclosing them. Indra, he says, "slew" (व्यरिणाः (*vyariṇāḥ*), "you killed in a special way") this Vṛtra with the thunderbolt अपर्वन् (*aparvan*), "on a day that is not a joint (parvan)", that is, on the full-moon day. He says that the slaying of Vṛtra on the full moon is also stated in the Taittirīya: in the anuvāka beginning "Tvaṣṭṛ, whose son had been slain" and containing the words घ्नंति वा एनं पौर्णमास आमावास्यायां प्याययंतीति (*ghnaṃti vā enaṃ paurṇamāsa āmāvāsyāyāṃ pyāyayaṃtīti*) (Tai. Saṃ. 2-5-2-5).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अतृप्नुवंतं (*atṛpnuvaṃtaṃ*)—one who is never satisfied with enjoyments
+- वियतं (*viyataṃ*)—one whose limbs are slack
+- अबुध्यं (*abudhyaṃ*)—one whose nature cannot be understood
+- अबुध्यमानं (*abudhyamānaṃ*)—one who has no knowledge whatever
+- सुषुपाणं (*suṣupāṇaṃ*)—one who lay sluggish in a sleeping state
+- सप्त (*sapta*)—of a flowing nature
+- प्रवतः प्रति (*pravataḥ prati*)—facing the waters
+- आशयानं (*āśayānaṃ*)—one who lay enclosing them all around
+- अहिं (*ahiṃ*)—Vṛtrāsura
+- अपर्वन् (*aparvan*)—on the full-moon day and the like
+- वज्रेण (*vajreṇa*)—with the thunderbolt weapon
+- वि रिणाः (*vi riṇāḥ*)—you have split and killed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, Vṛtrāsura was never satisfied with enjoyments, his limbs were slack, he was so deceitful that his very nature could not be understood, he had no knowledge whatever, he lay sluggish in a sleeping state, and he lay enclosing the flowing waters all around, facing them. On the full-moon day you have split and killed him with the thunderbolt.
+
+##### English translation (H. H. Wilson)
+On the day of full moon you have slain with the thunderbolt the
+insatiable, unnerved, ignorant, un-apprehending, slumbering Ahi, ob-
+structing the gliding-down-ward-flowing (streams).
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk describes the evil nature of Vṛtrāsura. However many enjoyments Vṛtra may enjoy, he is never satisfied; his limbs are not firm; his nature is unknown to anyone; he has no good understanding. It is his nature always to lie obstructing the waters. This Ṛk describes how Indra killed Vṛtra, a being of such base nature, with the thunderbolt on the day of the full moon. On this matter the Bhāṣyakāra has quoted a passage of the Taittirīya Saṃhitā and shown that the fact of Indra's having slain Vṛtra on the full-moon day is stated in it. Indra's slaying of Vṛtra
+
+### Printed p. 8
+
+has been praised by all the Ṛṣis, so it is necessary to give here a detailed account of that slaying of Vṛtra. We therefore set out here the mantra portion of the Yajurveda which gives that account, together with its meaning:
+त्वष्टा हतपुत्रो वींद्रग्ं सोममाहरत्तस्मिन्निंद्र उपहवमैच्छत तं नोपाह्वयत पुत्रं मेऽवधीरिति स यज्ञवेशसं कृत्वा प्रासहा सोममपिबत्तस्य यदत्यशिष्यत तत्त्वष्टाहवनीयमुप प्रावर्तयत्साहेंद्रशत्रुर्वर्धस्वीति यदवर्तयत्तद्वृत्तस्य वृत्रत्वं यदब्रवीत्साहेंद्रशत्रुर्वर्धस्वीति तस्मादस्येंद्रः शत्रुरभवत्स संभवन्नग्नीषोमावभि समभवत्स इषुमात्रमिषुमात्रं विश्वज्जवर्धत स इमान् लोकानवृणोद्यदिमान् लोकानवृणोत्तद्वृत्तस्य वृत्रत्वं तस्मादिंद्रोऽबिभेश् ॥ (*tvaṣṭā hataputro vīṃdragṃ somamāharattasminniṃdra upahavamaicchata taṃ nopāhvayata putraṃ me 'vadhīriti sa yajñaveśasaṃ kṛtvā prāsahā somamapibattasya yadatyaśiṣyata tattvaṣṭāhavanīyamupa prāvartayatsāheṃdraśatrurvardhasvīti yadavartayattadvṛttasya vṛtratvaṃ yadabravītsāheṃdraśatrurvardhasvīti tasmādasyeṃdraḥ śatrurabhavatsa saṃbhavannagnīṣomāvabhi samabhavatsa iṣumātramiṣumātraṃ viśvajjavardhata sa imān lokānavṛṇodyadimān lokānavṛṇottadvṛttasya vṛtratvaṃ tasmādiṃdro 'bibheś ‖*) (Kṛ. Saṃ. 2-5-2-1)**NOTE**
+In this anuvāka the account of Indra's slaying of Vṛtra is given. There is another story that forms the background of this narrative. Although we have explained it earlier, it is necessary to explain it here again briefly, as a preface to the account that follows. Formerly Tvaṣṭṛ Prajāpati had a son named Viśvarūpa. He was the priest of the gods. But since he was born of an Asura woman, he had a special partiality for the Asuras. Indra feared that this Viśvarūpa, though he was the priest of the gods, being partial to the Asuras, might watch for an opportunity, help the Asuras, and plot so that the gods should have no kingdom at all. So Indra killed him by another device. This is what is said here by the sentence त्वष्टा हतपुत्रः वींद्रग्० सोममाहरत् (*tvaṣṭā hataputraḥ vīṃdrag0 somamāharat*). In anger that Indra had killed his son, Tvaṣṭṛ, when he performed a sacrifice, did not invite Indra to it but performed it leaving him out. He did not give him Soma to drink either. Enraged at this, Indra came to his sacrifice, obstructed it, and moreover drank by force the Soma juice that had been prepared for the sacrifice. Seeing this, Tvaṣṭṛ thought that he must take fitting revenge on Indra; he poured the Soma juice that Indra had left over into the Āhavanīya fire and, praying to Agni with स्वाहेंद्रशत्रुर्वर्धस्व (*svāheṃdraśatrurvardhasva*)—"may a son be born who will conquer Indra and be Indra's enemy"—offered the remainder of the Soma in the fire. While he made the offering, there was an error of accent in the mantra, and so, instead of a son who would conquer Indra, there came a son who would be conquered by Indra. This son was Vṛtra. Such was the manner of his origin. That an error of accent when reciting mantras in a sacrifice and the like brings harm to the sacrificer, is stated by
+
+### Printed p. 9
+
+दुष्टः शब्दः स्वरतो वर्णतो वा मिथ्याप्रयुक्तो न तमर्थमाह । स वाग्वज्रो यजमानं हिनस्ति यथेंद्र शत्रुः स्वरतोऽपराधत् ॥ (*duṣṭaḥ śabdaḥ svarato varṇato vā mithyāprayukto na tamarthamāha | sa vāgvajro yajamānaṃ hinasti yatheṃdra śatruḥ svarato 'parādhat ‖*) (Pāṇīya-śilpa)**NOTE**
+The great sage Pāṇini has taken this very mantra as his example. Thus, because of the error of accent in the mantra, there was born to Tvaṣṭṛ, instead of a son who would subdue Indra as he wished, a son who would be slain by Indra. Even so, that Vṛtra grew in the fire by the oblation offered to Agni and the Soma deities. Growing every day by the measure of a bow, he became of huge form and pervaded all these worlds everywhere. Because he had the nature of pervading all regions in this way, he was named Vṛtra. The word Vṛtra is formed from the root वृञ् वरणे (*vṛñ varaṇe*), meaning "to cover, to enclose, to pervade", and indicates the meaningful name "one who pervades everything". Seeing Vṛtra grow in this way, Indra was afraid.
+स प्रजापतिमुसाधावञ्छतुर्मेऽजनीति तस्मै वज्रग्ं सिक्ता प्रायच्छदेतेन जहीति तेनाभ्यायत । (*sa prajāpatimusādhāvañchaturme 'janīti tasmai vajragṃ siktā prāyacchadetena jahīti tenābhyāyata |*)
+Then Indra went to Prajāpati and prayed: "O Brahmā, an enemy has been born to me. How shall I slay him?" Prajāpati comforted Indra, telling him not to fear, made his thunderbolt sharp, and gave it to him, saying, "Slay your enemy with this weapon." Indra took it and came to Vṛtra.
+तावब्रूतामग्नीषोमौ मा प्रहारावमंतः स्व इति मम वै युवग्स् स्थ इत्य ब्रवीन्मामभ्येतमिति तौ भागधेयमैच्छेतां ताभ्यामेतमग्नीषोमीयमेकादशकपालं पूर्णमासे प्रायच्छत्तावब्रूतामभि संदष्टौ वै स्वो न शक्नुव ऐतुमिति स इंद्र आत्मनः शीतरूरावजनयत्तच्छीतरूरयोर्जन्मय एवग्ं शीतरूरयोर्जन्म वेद नैनग्ं शीतरूरौ हतस्ताभ्यामेनमभ्यनयत्तस्माज्जंजभ्यमानादग्नीषोमौ निरक्रामतां ॥ (*tāvabrūtāmagnīṣomau mā prahārāvamaṃtaḥ sva iti mama vai yuvags stha itya bravīnmāmabhyetamiti tau bhāgadheyamaicchetāṃ tābhyāmetamagnīṣomīyamekādaśakapālaṃ pūrṇamāse prāyacchattāvabrūtāmabhi saṃdaṣṭau vai svo na śaknuva aitumiti sa iṃdra ātmanaḥ śītarūrāvajanayattacchītarūrayorjanmaya evagṃ śītarūrayorjanma veda nainagṃ śītarūrau hatastābhyāmenamabhyanayattasmājjaṃjabhyamānādagnīṣomau nirakrāmatāṃ ‖*)
+Then, when Indra was ready to strike Vṛtra with his weapon, Agni and Soma stopped him, saying, "Do not strike." "O Indra, do not strike Vṛtra now. We, the deities Agni and Soma, dwell in Vṛtra's mouth." Indra said, "O Agni and Soma, you are ours, are you not? So leave Vṛtra's body and come to me. Afterwards I shall slay Vṛtra." Hearing this, the deities Agni and Soma said, "O Indra, if we do as you say, what favour will you do us? If you will provide a share for us also in the sacrifice, we shall do as you say." Indra agreed to this and provided for them
+
+### Printed p. 10
+
+a portion of the oblation in the Pūrṇamāsa sacrifice, the puroḍāśa oblation called Ekādaśakapāla. Then, although the deities Agni and Soma had obtained the boon they wanted, they said to Indra: "O Indra, we cannot now come out of Vṛtra's mouth. We are caught between Vṛtra's teeth and held tight. Unless he opens his mouth we cannot come out." Then Indra thought of a device for this. From his own body he created cold fever and the great heat that arises from it. This was the first time that cold fever afflicted people in the world. The man who knows this manner of origin of cold fever is not troubled by this cold fever. Then Indra took the cold fever he had created, led it to Vṛtrāsura, and made it enter his body. Vṛtrāsura, shivering with cold and exhausted by the heat of the fever, opened his mouth wide to sigh in his weariness. At once the deities Agni and Soma came out of his mouth.
+प्राणापानौ ना एनं तदजहितां प्राणो वै दक्षोपानः क्रतुस्तस्माज्जंजभ्यमानो ब्रूयान्मयि दक्षक्रकू इति प्राणापानावेवात्मन्धत्ते सर्वमायुरेति । (*prāṇāpānau nā enaṃ tadajahitāṃ prāṇo vai dakṣopānaḥ kratustasmājjaṃjabhyamāno brūyānmayi dakṣakrakū iti prāṇāpānāvevātmandhatte sarvamāyureti |*)
+Then the breaths called prāṇa and apāna left that Vṛtra; that is, they departed from his body. The word prāṇa here has the meaning "dakṣa" and the word apāna has the meaning "kratu". Dakṣa means skill in work, intelligence; kratu means the bodily strength and capacity that works. Both of these left that Vṛtra who had his mouth open. Therefore, while performing a sacrificial rite, if one makes a movement of the body or yawns and opens the mouth, one must then utter the mantra मयि दक्षक्रतू (*mayi dakṣakratū*). If one does so, the prāṇa and apāna do not leave the sacrificer but stay firm, and long life also results.
+स देवता वृत्रान्निर्हूय वार्त्र्घ्नग्ं हविः पूर्णमासे निरवपद् घ्नंति वा एनं पूर्णमास आमावास्यायां प्याययंति तस्माद्वार्त्र्घ्नी पूर्णमासेऽनूच्येते वृधन्यत्ती अमावास्यायां । (*sa devatā vṛtrānnirhūya vārtrghnagṃ haviḥ pūrṇamāse niravapad ghnaṃti vā enaṃ pūrṇamāsa āmāvāsyāyāṃ pyāyayaṃti tasmādvārtrghnī pūrṇamāse 'nūcyete vṛdhanyattī amāvāsyāyāṃ |*)
+Then Indra called out from Vṛtrāsura's mouth all the deities, Agni, Soma and the others, and prepared on the full-moon day the offering consisting of the ājya portions and the oblation substance, which is the means of slaying Vṛtra. It is known to everyone, even in worldly experience, that the enemy called darkness, which covers everything everywhere, is destroyed by the bright moonlight of the full moon. But
+
+### Printed p. 11
+
+on the new-moon day there is no light of the moon, so at that time the enemy called darkness (Vṛtra) spreads everywhere and grows. Therefore, for the slaying of Vṛtra, on the full-moon day, before the oblations called the Agni-Soma ājya portions, the following Ṛks are to be recited as puroʼnuvākyā mantras:
+अग्निर्वृत्राणि जंघनद्द्रविणस्युर्विपन्यया । समिद्धः शुक्र आहुतः । (*agnirvṛtrāṇi jaṃghanaddraviṇasyurvipanyayā | samiddhaḥ śukra āhutaḥ |*) (Ṛ. Saṃ. 6-16-34)
+त्वं सोमासि सत्पतिस्त्वं राजोत वृत्रहा । त्वं भद्रो असि क्रतुः ॥ (*tvaṃ somāsi satpatistvaṃ rājota vṛtrahā | tvaṃ bhadro asi kratuḥ ‖*) (Ṛ. Saṃ. 1-91-5)
+Because in both these Ṛks there are words that denote the slaying of Vṛtra, these Ṛks are called Vārtraghnī Ṛks. For it was on the full-moon day that Vṛtra was slain. Therefore it is fitting on that day to recite the Ṛks that relate to the slaying of Vṛtra and to perform the homa. On the new-moon day darkness has increased; that is, Vṛtra, who pervades everything with darkness, grows. Therefore on that day the following Ṛks, containing words formed from the root वृधि-वृद्धौ (*vṛdhi-vṛddhau*), which denotes growth, are to be recited:
+अग्निः प्रश्नेन मन्मना शुंभमानस्तन्वं १ स्वां । कविर्विप्रेण वावृधे ॥ (*agniḥ praśnena manmanā śuṃbhamānastanvaṃ 1 svāṃ | kavirvipreṇa vāvṛdhe ‖*) (Ṛ. Saṃ. 8-44-12)
+सोम गीर्भिष्ट्वा वयं वर्धयामो वचोविदः । सुमृळीको न आ विश ॥ (*soma gīrbhiṣṭvā vayaṃ vardhayāmo vacovidaḥ | sumṛḷīko na ā viśa ‖*) (Ṛ. Saṃ. 1-91-11)
+These Ṛks, which contain words denoting growth, are called Vṛdhanvatī Ṛks. They are to be recited on the new-moon day, when darkness has grown.
+तत्सर्गस्थाप्य वार्त्रघ्नग्ं हनिर्वज्रमादाय पुनरभ्यायत ते अब्रूतां द्यावापृथिवी मा प्रहारावयोर्वै श्रित इति ते अब्रूतां वरं वृणावहै नक्षत्रविहिताहमसानीत्यसावब्रवीच्चित्रविहिताहमितीयं तस्मान्नक्षत्रविहितासौ चित्रविहितेयं य एवं द्यावापृथिव्योर्वरं वेदैनं वरो गच्छति स आभ्यामेव प्रसूत इंद्रो वृत्रमहन् । (*tatsargasthāpya vārtraghnagṃ hanirvajramādāya punarabhyāyata te abrūtāṃ dyāvāpṛthivī mā prahārāvayorvai śrita iti te abrūtāṃ varaṃ vṛṇāvahai nakṣatravihitāhamasānītyasāvabravīccitravihitāhamitīyaṃ tasmānnakṣatravihitāsau citravihiteyaṃ ya evaṃ dyāvāpṛthivyorvaraṃ vedainaṃ varo gacchati sa ābhyāmeva prasūta iṃdro vṛtramahan |*)
+Then Indra completely performed the ājya portion and the oblations that are the means of slaying Vṛtra, and, as before, took the thunderbolt in his hand and rushed forward to face Vṛtra, with the intention of killing him.
+
+### Printed p. 12
+
+Then Dyāvāpṛthivī (earth and the intermediate region) stopped Indra and said: "O Indra, do not kill this Vṛtra. He pervades the whole region from the earth up to heaven. He rests on us, and we cannot give him up." When Indra did not agree, Dyāvāpṛthivī again said to Indra: "O Indra, if we are to give room for the slaying of Vṛtra, you must grant the boons we ask." Indra said, "Let it be so." Then the sky (dyauḥ) asked as a boon that it should be adorned with stars. The earth asked as a boon that it should be furnished with many kinds of wonderful things, such as men, animals, trees, mountains, rivers and oceans. Indra granted the boons accordingly. The man who knows this manner in which Dyāvāpṛthivī obtained their boons obtains what he desires and is happy. Then Indra, having obtained the consent of Dyāvāpṛthivī, struck Vṛtra with the thunderbolt and killed him.
+ते देवा वृत्रग्ं हत्वाग्नीषोमावब्रुवन् हव्यं नो वहतमिति तावब्रूतामपतेजसौ वै त्र्यौ वृत्रे नै त्ययोस्तेज इति तेऽब्रुवन् क इदमच्छैतीति गौरित्यब्रुवन्गौर्वाव सर्वस्य मित्रमिति साब्रवीद्वरं वृणै मय्येव सतोभयेन भुनजाध्वा इति तद्गौराहरत्तस्माद्दवि सतोभयेन भुजंत एतद्वा अग्नेस्तेजो यद्धृतमेतत्सोमस्य यत्पयो य एवमग्नीषोमयोस्तेजो वेद तेजस्वीव भवति । (*te devā vṛtragṃ hatvāgnīṣomāvabruvan havyaṃ no vahatamiti tāvabrūtāmapatejasau vai tryau vṛtre nai tyayosteja iti te 'bruvan ka idamacchaitīti gaurityabruvangaurvāva sarvasya mitramiti sābravīdvaraṃ vṛṇai mayyeva satobhayena bhunajādhvā iti tadgaurāharattasmāddavi satobhayena bhujaṃta etadvā agnestejo yaddhṛtametatsomasya yatpayo ya evamagnīṣomayostejo veda tejasvīva bhavati |*)
+After the slaying of Vṛtra, all the gods who were near Indra said to Agni and Soma: "O deities Agni and Soma, you have now come back from Vṛtra's mouth. From now on, carry the oblations offered in sacrifices and the like and present them to us." Agni and Soma said to the gods: "O gods, we were for a long time in Vṛtra's body, and through his biting and the like we have become deprived of brilliance; that is, our strength has dwindled. All our strength, or brilliance, has remained in Vṛtra." Then the gods consulted among themselves how to bring back the brilliance that Agni and Soma had left in Vṛtra's body, and decided to send the cow and have the brilliance in Vṛtra brought, since the cow harms no one and behaves with friendliness towards all. Then they called the cow and told it to bring the brilliance that was in Vṛtra. It said: "So be it; but the brilliance I bring must always remain in me in the form of milk and ghee. People must obtain them from me and use them for their meals and the like. If you grant this boon, I shall bring it." The gods said "So be it" and granted the boon accordingly. Having obtained the boon, the cow brought that brilliance. As the result of this granting of a boon, even now the people of the world obtain from cows, from time to time, nourishing food such as milk and ghee, and
+
 ---
 
-**Progress note:** Done through printed p. 6. pp. 1-6 (batch API)
+**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
