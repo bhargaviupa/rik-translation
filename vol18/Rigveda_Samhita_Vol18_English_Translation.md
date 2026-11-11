@@ -12108,6 +12108,285 @@ Now, leaders (of rites), the treasure that ought to be presented is to be given 
 
 O Vājas, Ṛbhukṣans, leaders, come to us. Doing what? Praising (गृणानाः (*gṛṇānāḥ*)) great (महः (*mahaḥ*)) wealth (द्रविणसः (*draviṇasaḥ*)); the genitive is in the sense of the object, "praising great wealth". The block breaks off here.
 
+### Printed p. 322
+
+> स्तुवंतः । किंच अह्नामभिपित्वेऽभिपतने समाप्तौ । तृतीये सवन इत्यर्थः ।
+> वो युष्मानिमाः पीतयः पानान्या ग्मन् । आगच्छंति । तत्र दृष्टांतः । अस्तं ।
+> गृहनामैतत् । गृहं नवस्वो नवप्रसवा गाव इव ॥
+
+##### Gist of the bhāṣya
+
+Continuing the verse: the Ṛbhus are addressed as leaders (नरो (*naro*)), who are to come near us praising great wealth. Further, अह्नामभिपित्वे (*ahnāmabhipitve*) means at the close of the day, that is, at the third pressing. These draughts of Soma come to you. The illustration: अस्तं (*astaṃ*) is a word for house; as cows that have newly calved hasten to the house, so the draughts come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजाः ऋभुक्षाः (*vājāḥ ṛbhukṣāḥ*)—those renowned by the names Ṛbhu, Vibhvan and Vāja
+- नरः (*naraḥ*)—the Ṛbhus, who are leaders
+- महः (*mahaḥ*)—great
+- द्रविणसः (*draviṇasaḥ*)—wealth
+- गृणानाः (*gṛṇānāḥ*)—praising
+- नः उप (*naḥ upa*)—to our vicinity
+- आ यात (*ā yāta*)—be pleased to come
+- अह्ना (*ahnā*)—of the day
+- अभिपित्वे (*abhipitve*)—in this third pressing, the time of completion
+- नवस्वः (*navasvaḥ*)—a cow that has newly calved
+- अस्तं इव (*astaṃ iva*)—as she hurries to the house where her calf is
+- इमाः पीतयः (*imāḥ pītayaḥ*)—these Soma juices fit for drinking
+- वः (*vaḥ*)—toward you
+- आ.ग्मन् (*ā.gman*)—come to meet you
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, renowned by the names Ṛbhu, Vibhvan and Vāja, and leaders, come to our vicinity praising great wealth. As a cow that has newly calved hurries to the house where her calf is, so at this third pressing, the time of the day's completion, these Soma juices fit for drinking come to meet you.
+
+##### English translation (H. H. Wilson)
+Vajas, Ribhukshans, leaders (of rites), come to us eulogizing exceeding wealth : these draughts (of Soma) proceed to you at the decline of day, like newly-delivered cows to their stalls.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॑पातः शवसो यात॒नोपे॒मं य॒ज्ञं नम॑सा हू॒यमा॑नाः ।  
+> स॒जोष॑सः सूरयो॒ यस्य॑ च॒ स्थ मध्वः॑ पात रत्न॒धा इंद्र॑वंतः ॥ ६ ॥
+
+> *ā napātaḥ śavaso yātanopemaṃ yajñaṃ namasā hūyamānāḥ |*  
+> *sajoṣasaḥ sūrayo yasya ca stha madhvaḥ pāta ratnadhā iṃdravaṃtaḥ ‖ 6 ‖*
+
+### Printed p. 323
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नपातः । शवसः । यातन । उप । इमं । यज्ञं । नमसा । हूयमानाः ।  
+> सजोषसः । सूरयः । यस्य । च । स्थ । मध्वः । पात । रत्नधाः । इंद्रवंतः ॥
+
+> *ā | napātaḥ | śavasaḥ | yātana | upa | imaṃ | yajñaṃ | namasā | hūyamānāḥ |*  
+> *sajoṣasaḥ | sūrayaḥ | yasya | ca | stha | madhvaḥ | pāta | ratnadhāḥ | iṃdravaṃtaḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शवसो नपातो बलस्य न पातयितारस्तस्य पुत्रा वा । बलवंत इत्यर्थः ।
+> यूयं नमसा स्तोत्रेण हूयमाना आकारिताः संत इमं यज्ञमुपा यातन ।
+> उपागच्छत । कीदृशा यूयं । सजोषस इंद्रेण सह प्रीताः सूरयो मेधाविनः ।
+> इंद्रस्य चैषां च कः प्रसंग इत्युच्यते । यस्य च स्थ । चेति प्रसिद्धौ । यस्येंद्रस्य
+> संबंधिनो यूयं भवथ तदुचिताश्च निर्माणादित्यभिप्रायः । यस्मादेवं तस्मादिंद्रवंतः प्रीतेनेंद्रेण तद्वंतो रत्नधा रमणीयधनानां दातारो यूयं
+> मध्वो मधुरं सोमं पात । पिबत ॥
+
+##### Gist of the bhāṣya
+
+O sons of strength (शवसो नपातो (*śavaso napāto*)): either those who do not let strength fall, or its sons; that is, the mighty. Invoked with praise (नमसा (*namasā*)), come to this sacrifice. What are you like? सजोषस (*sajoṣasa*): pleased together with Indra; सूरयः (*sūrayaḥ*): the wise. What connection is there between Indra and them? It is said: यस्य च स्थ (*yasya ca stha*), where च (*ca*) is in the sense of "well known". You are related to Indra, and fitted to him by your making (of things); this is the intention. Since this is so, you are इंद्रवंतः (*iṃdravaṃtaḥ*), having Indra who is pleased, and रत्नधा (*ratnadhā*), givers of delightful wealth; drink the sweet Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- यस्य च स्थ (*yasya ca stha*)—to whom, to which Indra, you are related
+- सजोषसः (*sajoṣasaḥ*)—delighted together with that Indra
+- सूरयः (*sūrayaḥ*)—the wise
+- शवसः नपातः (*śavasaḥ napātaḥ*)—sons of strength (or endowed with strength), you
+- नमसा (*namasā*)—with praise
+- हूयमानाः (*hūyamānāḥ*)—being invoked
+- इमं यज्ञं (*imaṃ yajñaṃ*)—to this our sacrifice
+- उप आ यातन (*upa ā yātana*)—be pleased to come
+- इंद्रवंतः (*iṃdravaṃtaḥ*)—you who are united with Indra
+- रत्नधाः (*ratnadhāḥ*)—you, givers of delightful wealth
+- मध्वः (*madhvaḥ*)—the sweet Soma juice
+- पात (*pāta*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, you are related to Indra; delighted together with such an Indra, wise, and sons of strength, invoked with praise, be pleased to come to this our sacrifice. United with Indra, givers of delightful wealth, drink the sweet Soma juice.
+
+##### English translation (H. H. Wilson)
+Sons of strength, come to this sacrifice, invoked with veneration: givers of precious things, associated with Indra, with whom you are intelligent, participate in being gratified (by the libation), drink of the sweet Soma juice.
+
+### Printed p. 324
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒जोषा॑ इंद्र॒ वरु॑णेन॒ सोमं॑ स॒जोषाः॑ पाहि गिर्वणो  ॒॑
+> मरुत्भिः ।  
+> अ॒ग्रे॒पाभि॑र्यतु॒पाभिः॑ स॒जोषा॒ ग्नास्पत्नी॑भी रत्न॒धाभिः॑  ॒॑
+> सजोषाः ॥ ७ ॥
+
+> *sajoṣā iṃdra varuṇena somaṃ sajoṣāḥ pāhi girvaṇo*  
+> *marutbhiḥ |*  
+> *agrepābhiryatupābhiḥ sajoṣā gnāspatnībhī ratnadhābhiḥ*  
+> *sajoṣāḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सजोषाः । इंद्र । वरुणेन । सोमं । सजोषाः । पाहि । गिर्वणः ।  
+> मरुत्भिः ।  
+> अग्रेपाभिः । ऋतुपाभिः । सजोषाः । ग्नाःपत्नीभिः । रत्नधाभिः । सजोषाः॥
+
+> *sajoṣāḥ | iṃdra | varuṇena | somaṃ | sajoṣāḥ | pāhi | girvaṇaḥ |*  
+> *marutbhiḥ |*  
+> *agrepābhiḥ | ṛtupābhiḥ | sajoṣāḥ | gnāḥpatnībhiḥ | ratnadhābhiḥ | sajoṣāḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं वरुणेन रात्र्यभिमानिदेवेन सजोषाः समानप्रीतिः सन् सोमं
+> पाहि । पिब । हे गिर्वणो गीर्भिर्वननीय संभजनीयेंद्र त्वं मरुद्भिः सजोषाः
+> संगतः सन् सोमं पाहि । पिब । किंच अग्रेपाभिः प्रथमपातृभिर्यतुपाभिर्यतुयाजदेवैश्च ग्नाःपत्निभिः । स्त्रीणां पालयित्यो देव्यो ग्नाःपत्नः । ताभिः । मेना
+> ग्ना इति स्त्रीणामिति निरुक्तं । ३-२१ । रत्नधाभी रमणीयधनदातृभिर्यभुभिः सह
+> पिब । यद्वा । एतत् ग्नाःपत्निभिरित्यस्य विशेषणं । ताभिर्वा सजोषाः सोमं पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, drink Soma, being of one accord (सजोषाः (*sajoṣāḥ*)) with Varuṇa, the deity presiding over night. O गिर्वणो (*girvaṇo*), to be served and loved with songs, drink Soma united with the Maruts. Further, drink with the अग्रेपाभिः (*agrepābhiḥ*), the first drinkers, and with the यतुपाभिः (*yatupābhiḥ*), the deities of the Ṛtu-sacrifice, and with the ग्नाःपत्निभिः (*gnāḥpatnibhiḥ*), the goddesses who protect women; for the word ग्नाः (*gnāḥ*) meaning women he cites the Nirukta (Ni. 3-21). Drink also with the रत्नधाभी (*ratnadhābhī*), the givers of delightful wealth, the Ṛbhus. Or else: this last is an epithet of ग्नाःपत्निभिः (*gnāḥpatnibhiḥ*); drink Soma in accord with them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वरुणेन (*varuṇena*)—with Varuṇa
+- सजोषाः (*sajoṣāḥ*)—united, having equal affection
+- सोमं (*somaṃ*)—Soma
+- पाहि (*pāhi*)—drink
+- गिर्वणः (*girvaṇaḥ*)—O Indra, worthy of praise
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts
+- सजोषाः (*sajoṣāḥ*)—united in affection
+- पाहि (*pāhi*)—drink Soma
+- अग्रेपाभिः (*agrepābhiḥ*)—with those fit to drink before all
+- ऋतुपाभिः (*ṛtupābhiḥ*)—with the deities of the Ṛtu-sacrifice
+- रत्नधाभिः (*ratnadhābhiḥ*)—with the givers of delightful wealth
+- ग्नाः पत्निभिः (*gnāḥ patnibhiḥ*)—with the wives of the gods, protectresses of women
+- सजोषाः (*sajoṣāḥ*)—united in affection (drink Soma)
+
+### Printed p. 325
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, united with Varuṇa in equal affection, drink Soma. O Indra, worthy of praise, united in affection with the Maruts, drink Soma. United in affection with the deities of the Ṛtu-sacrifice, who are fit to drink before all, and with the divine wives, givers of delightful wealth and protectresses of women, drink Soma.
+
+##### English translation (H. H. Wilson)
+Sympathizing in satisfaction with Varuna, drink, Indra, the Soma juice; drink it, you who are entitled to praise, sympathizing with the Maruts: drink, sympathizing with the first drinkers, with the drinkers (at the sacrifices) of the Ritus; sympathizing with the protectresses of the wives (of the gods), the giver of wealth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒जोष॑स आदि॒त्यैर्मा॑दयध्वं स॒जोष॑स ऋभवः॒ पर्व॑तेभिः ।  
+> स॒जोष॑सो॒ दैव्ये॑ना सवि॒त्रा स॒जोष॑सः॒ सिंधु॑भी रत्न॒धेभिः॑ ॥८॥
+
+> *sajoṣasa ādityairmādayadhvaṃ sajoṣasa ṛbhavaḥ parvatebhiḥ |*  
+> *sajoṣaso daivyenā savitrā sajoṣasaḥ siṃdhubhī ratnadhebhiḥ ‖8‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सजोषसः । आदित्यैः । मादयध्वं । सजोषसः । ऋभवः । पव-तेभिः ।  
+> सजोषसः । दैव्येन । सवित्रा । सजोषसः । सिंधुभिः । रत्नधेभिः ॥ ८ ॥
+
+> *sajoṣasaḥ | ādityaiḥ | mādayadhvaṃ | sajoṣasaḥ | ṛbhavaḥ | pava-tebhiḥ |*  
+> *sajoṣasaḥ | daivyena | savitrā | sajoṣasaḥ | siṃdhubhiḥ | ratnadhebhiḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभव आदित्यैः सजोषसः संगता यूयं माधयध्वं । तथा पर्वतेभिः
+> पर्ववद्भिः पर्वण्यर्च्यमानैर्देवविशेषैः सजोषसो मादयध्वं । तथा च दैव्येन
+> देवेभ्यो हितेन सवित्रा सजोषसो रत्नधेभी रत्ना नां दातृभिः सिंधुभिः स्यंदनस्वभावैनर्नद्यभिमानिदेवैश्च सजोषसो मादयध्वं ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhus, united with the Ādityas, be exhilarated. So also be exhilarated united with the पर्वतेभिः (*parvatebhiḥ*), that is, special deities who possess the "joint" (parva) and are worshipped at the parvans. And likewise united with Savitṛ, the divine one, beneficial to the gods, and with the सिंधुभिः (*siṃdhubhiḥ*), the deities presiding over rivers, whose nature is to flow, givers of jewels (रत्नधेभी (*ratnadhebhī*)), be exhilarated.
+
+### Printed p. 326
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- आदित्यैः (*ādityaiḥ*)—with the Ādityas
+- सजोषसः (*sajoṣasaḥ*)—united in affection
+- मादयध्वं (*mādayadhvaṃ*)—be exhilarated
+- पर्वतेभिः (*parvatebhiḥ*)—with the deities named Parvata (or deities worshipped at the parvans)
+- सजोषसः (*sajoṣasaḥ*)—united in affection (being gladdened)
+- दैव्येन (*daivyena*)—beneficial to all the gods
+- सवित्रा (*savitrā*)—with Savitṛ
+- सजोषसः (*sajoṣasaḥ*)—being united
+- रत्नधेभिः (*ratnadhebhiḥ*)—with the givers of delightful wealth
+- सिंधुभिः (*siṃdhubhiḥ*)—with the deities presiding over rivers
+- सजोषसः (*sajoṣasaḥ*)—united in affection (be exhilarated)
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, united with the Ādityas, obtain the joy of the Soma drink. United with the deities named Parvata, obtain the joy. United in affection with Savitṛ, beneficial to all the gods, and with the deities presiding over rivers, givers of delightful wealth, obtain the joy of the Soma drink.
+
+##### English translation (H. H. Wilson)
+Ribhus, be exhilarated, sympathizing with the Adityas, sympathizing with the Parvatas, sympathizing with the divine Savitri, sympathizing with the wealthbestowing (deities of the) rivers.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये अ॒श्विना॒ ये पि॒तरा॒ य ऊ॒ती धे॒नुं त॑त॒क्षुर्ऋ॒भवो॒  ॑
+> ये अश्वा॑ ।  
+> ये अंस॑त्रा॒ य ऋध॒ग्रोद॑सी॒ ये विभ्वो॒ नरः॑ स्वप॒त्यानि॑  ॒
+> चक्रुः ॥ ९ ॥
+
+> *ye aśvinā ye pitarā ya ūtī dhenuṃ tatakṣurṛbhavo*  
+> *ye aśvā |*  
+> *ye aṃsatrā ya ṛdhagrodasī ye vibhvo naraḥ svapatyāni*  
+> *cakruḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । अश्विना । ये । पितरा । ये । ऊती । धेनुं । ततक्षुः । ऋभवः । ये । अश्वा ।  
+> ये । अंसत्रा । ये । यधक् । रोदसी इति । ये । विभ्वः । नरः । सुअपत्यानि ।  
+> चक्रुः ॥ ९ ॥
+
+> *ye | aśvinā | ye | pitarā | ye | ūtī | dhenuṃ | tatakṣuḥ | ṛbhavaḥ | ye | aśvā |*  
+> *ye | aṃsatrā | ye | yadhak | rodasī iti | ye | vibhvaḥ | naraḥ | suapatyāni |*  
+> *cakruḥ ‖ 9 ‖*
+
+### Printed p. 327
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य ऋभवोऽश्विनाश्विनावूती ऊत्या क्रियया रथनिर्माणरूपयाप्लीणयन् ।
+> ये च पितरा पितरौ ततक्षुः तक्षणेन समपादयन् जीर्णौ संतावूती ऊत्या
+> युवानौ चक्रुः । ये च धेनुं ततक्षुः मृतायाः पुनर्नवीकरणेन । ये चाश्वाश्
+> ततक्षुः। निश्चर्मणो गामरिणीत धीतिभिर्या जरंता युवशा ताकृणोतनेत्यद्युक्तं।
+> ऋग्वे. १-१६१-७ । ये चांसत्रांसत्राणि कवचानि देवेभ्यश्चक्रुः । ये च रोदसी
+> द्यावापृथिव्यावृधक् पृथक्षक्रुः । एवमुक्तप्रकारेण ये विभ्वो व्याप्ता ऋभवो
+> नरो नेतारः स्वपत्यानि स्वपतनसाधनानि तत्पापि साधनानि वा कर्माणि चक्रुः ।
+> तेऽग्रेपा इत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Ṛbhus who gratified the two Aśvins by the act (ऊत्या (*ūtyā*)) of building a chariot; who made their two parents, being old, young again by their fashioning; who fashioned the cow, by renewing her when dead; who fashioned the horses. For this he cites a Ṛk, Ṛ. Saṃ. 1-161-7, of which the printed text is damaged. Who made armour (अंसत्रा (*aṃsatrā*)) for the gods; who separated the two worlds, heaven and earth. Thus the Ṛbhus, pervading (विभ्वो (*vibhvo*)) and leaders (नरो (*naro*)), performed deeds that are the means of स्वपत्यानि (*svapatyāni*), of attaining a good flight, or the means of reaching it **NOTE**. The construction is completed in the next verse: they are the अग्रेपा (*agrepā*), first drinkers.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which
+- ऋभवः (*ṛbhavaḥ*)—Ṛbhus
+- अश्विना (*aśvinā*)—the Aśvin deities
+- ऊती (*ūtī*)—who satisfied by their acts such as chariot-building
+- ये (*ye*)—who
+- पितरा (*pitarā*)—their aged parents
+- ततक्षुः (*tatakṣuḥ*)—did the act of making them young
+- चक्रुः (*cakruḥ*)—did
+- ये (*ye*)—who
+- धेनुं (*dhenuṃ*)—revived the dead cow
+- ये (*ye*)—who
+- अश्वा (*aśvā*)—fashioned (Indra's) horses
+- ये (*ye*)—who
+- अंसत्रा (*aṃsatrā*)—made armour (for the gods)
+- ये (*ye*)—who
+- रोदसी (*rodasī*)—heaven and earth
+- ऋधक् (*ṛdhak*)—made to be separate
+- ये (*ye*)—who
+- विभ्वः (*vibhvaḥ*)—all-pervading
+- नरः (*naraḥ*)—leaders
+- स्व पत्यानि (*sva patyāni*)—performed excellent deeds that bring success (such Ṛbhus)
+- अग्रे पाः (*agre pāḥ*)—let them drink Soma before all
+
+##### भावार्थ (Bhāvārtha)
+
+The Ṛbhus who satisfied the Aśvins by acts such as chariot-building, who made their aged parents young, who revived the dead cow, who fashioned Indra's horses, who made armour for the gods, who made heaven and earth separate, who, all-pervading and leaders, performed deeds that accomplish excellent success: let such Ṛbhus drink Soma before all.
+
+##### English translation (H. H. Wilson)
+Ribhus, who by your assistance (gratified) the Ashwins, who renovated your) parents, who (restored) the cow, who fabricated the
+
 ---
 
-**Progress note:** Done through printed p. 321. pp. 316-321 (batch API)
+**Progress note:** Done through printed p. 327. pp. 322-327 (batch API)
