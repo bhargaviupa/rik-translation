@@ -2426,6 +2426,257 @@ The Anuvāda adds the particulars: Maṇḍala 3, Anuvāka 4, Sūkta 44; Aṣṭ
 > *ayaṃ te astu haryataḥ soma ā haribhiḥ sutaḥ |*  
 > *juṣāṇa iṃdra haribhirna ā gahyā tiṣṭha haritaṃ rathaṃ ‖ 1 ‖*
 
+### Printed p. 64
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ते । अस्तु । हर्यतः । सोमः । आ । हरिभिः । सुतः ।  
+> जुषाणः । इंद्र । हरिभिः । नः । आ । गहि । आ । तिष्ठ । हरितं । रथं ॥ १ ॥
+
+> *ayaṃ | te | astu | haryataḥ | somaḥ | ā | haribhiḥ | sutaḥ |*  
+> *juṣāṇaḥ | iṃdra | haribhiḥ | naḥ | ā | gahi | ā | tiṣṭha | haritaṃ | rathaṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हरिभिः । हरंति सोमरसानेभिरिति हरयो ग्रावाणः । तैरा सुतः
+> सर्वतोऽभिषुतो हर्यतः कमनीयो जषाणः प्रीतिविषयोऽयं सोमस्ते
+> तुभ्यमस्तु । त्वं हरिभिरश्वैर्युक्तं हरितं हरिद्वर्णं रथमा तिष्ठ । अधितिष्य । ततो
+> नोऽस्मानभिलक्ष्या गहि । आगच्छ ॥ हर्यतः । हर्य गतिकांतोरित्यस्मादृमृदृशीत्यादिनातच् प्रत्ययः । चित्वादंतोदात्तः । हरितं । हृञ् हरणे । दृश्याभ्यामितन् ।
+> उ. ३-९३ । इतीतन्न प्रत्ययः ! नित्वादाद्युदात्तः । रथं । रमु क्रीडायां । हनिकुषिनीत्यादिना क्फन्न प्रत्ययः । कित्वादनुनासिकलोपः । नित्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the harayaḥ are the pressing-stones, so called because they carry off (हरंति (*haraṃti*)) the Soma juice. This Soma, pressed all round by them, desirable and an object of delight, is for you. Mount the green-hued chariot yoked with tawny horses (हरिभिः (*haribhiḥ*)), and then come towards us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- हरिभिः (*haribhiḥ*)—by the pressing-stones
+- आ सुतः (*ā sutaḥ*)—fully pressed
+- हर्यतः (*haryataḥ*)—attractive
+- जुषाणः (*juṣāṇaḥ*)—dear, an object of delight
+- आयं सोमः (*āyaṃ somaḥ*)—this Soma juice
+- ते (*te*)—directed to you
+- अस्तु (*astu*)—is ready
+- हरिभिः (*haribhiḥ*)—joined with horses
+- हरितं (*haritaṃ*)—of green colour
+- रथं (*rathaṃ*)—in the chariot
+- आ तिष्ठ (*ā tiṣṭha*)—mount and sit
+- नः (*naḥ*)—towards us
+- आ गहि (*ā gahi*)—be gracious to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma juice, fully pressed by the pressing-stones, attractive and dear, is ready for you. Mount and sit in the green-coloured chariot yoked with horses, and be gracious to come towards us.
+
+##### English translation (H. H. Wilson)
+May this desirable and gratifying Soma expressed by the stones, be,
+Indra, for you : ascend the verdant chariot, and with your tawny (steeds)
+come to us.
+
+### Printed p. 65
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒र्यन्नु॒षस॑मर्चयः॒ सूर्यं॑ ह॒र्यन्न॑रोचयः ।  
+> वि॒द्वांश्चि॑कि॒त्वान्ह॑र्यश्व वर्धस॒ इंद्र॒ विश्वा॑ अ॒भि श्रियः॑ ॥ २ ॥
+
+> *haryannuṣasamarcayaḥ sūryaṃ haryannarocayaḥ |*  
+> *vidvāṃścikitvānharyaśva vardhasa iṃdra viśvā abhi śriyaḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हर्यन् । उषसं । अर्चयः । सूर्यं । हर्यन् । आरोचयः ।  
+> विद्वान् । चिकित्वान् । हरिअश्व । वर्धसे । इंद्र । विश्वाः । अभि । श्रियः ॥ २ ॥
+
+> *haryan | uṣasaṃ | arcayaḥ | sūryaṃ | haryan | ārocayaḥ |*  
+> *vidvān | cikitvān | hariaśva | vardhase | iṃdra | viśvāḥ | abhi | śriyaḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हर्यन् सोमं कामयमानस्त्वमुषसमुषःकालमर्चयः ।
+> पूजयसि । तथा हर्यन्नुदिते सूर्यॆ सोमं कामयमानस्त्वं सूर्यमरोचयः । दीपयसि । हे हर्यश्वेंद्र विद्यानेतत्सर्वं जानानश्चि कित्वानस्मदभिलषितफलविषयज्ञानवांस्तं विश्वाः सर्वाः श्रियो नः संपदोऽभि वर्धसे । अभिमतफलप्रदानेनाभितो वर्धयसि ॥ चिकित्वान् । कित ज्ञान इत्यस्य क्वसौ रूपं । प्रत्ययस्वरः ।
+> वर्धसे । वृधु वर्धन इत्य स्यांतर्भावितण्यर्थस्य लटि रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, desiring (हर्यन् (*haryan*)) Soma, you honour the Dawn, the time of dawn. Likewise, desiring Soma when the sun has risen, you make the sun shine. O Indra, lord of tawny horses, knowing all this and aware of the fruit we desire, you increase all our prosperity on every side by granting the desired fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra, you
+- हर्यन् (*haryan*)—desiring the drinking of Soma
+- उषसं (*uṣasaṃ*)—the time of dawn
+- अर्चयः (*arcayaḥ*)—you honour
+- हर्यन् (*haryan*)—desiring the Soma (offered after sunrise)
+- सूरं (*sūraṃ*)—the sun
+- अरोचयः (*arocayaḥ*)—you make shine
+- हरश्व (*haraśva*)—O Indra, possessing horses named Hari
+- विद्वान् (*vidvān*)—knowing everything
+- चिकित्वान् (*cikitvān*)—knowing our desired ends
+- विश्वाः श्रियः (*viśvāḥ śriyaḥ*)—all riches
+- अभि वर्धसे (*abhi vardhase*)—you cause to increase among us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, desiring the drinking of the Soma offered before sunrise, you honour the time of dawn. Then, desiring the Soma offered afterwards, you make the sun shine. O Indra, possessor of the horses named Hari, being all-knowing and knowing our desired ends, you cause all riches to increase among us.
+
+##### English translation (H. H. Wilson)
+Desiring (the Soma), you honour the dawn ; desiring the Soma,
+you have lighted up the sun ; knowing and discriminating (all our wishes),
+lord of the tawny steeds, you augment upon us all (sorts of) prosperity.
+
+### Printed p. 66
+
+##### विशेषविषयगळु (Special Topics)
+
+As the words of the Supreme Person say, उत्तीदेयुरिमे लोकाः न कुर्यां कर्म चेदहं (*uttīdeyurime lokāḥ na kuryāṃ karma cedahaṃ*)**NOTE**—"if I did not perform action, all the worlds would perish"—so, if Indra, the lord of the universe, were not constantly engaged in action useful for the conduct of the world, the ruin of the world would be certain. He is the cause of the appearance of Dawn and of the rising of the sun. As described in स्वराजः, महतः, ते (*svarājaḥ, mahataḥ, te*) (Ṛ. Saṃ. 3-46-1), he alone is lord of the whole universe and holds sovereign rank. Even so, because the performance of sacrifice nourishes the world and is the cause of the growth of prosperity of the whole world, of gods, men and others, it is said that Indra honoured Dawn and the Sun, the primary causes of that sacrifice. The purport of the present Ṛk is that, though himself the lord, he worshipped his own creation, which nourishes the world.
+
+The two epithets विद्वान् (*vidvān*) and चिकित्वान् (*cikitvān*) are also noteworthy here. Indra is all-knowing and knows the intention of the sacrificer. Therefore, being the cause of the appearance of Dawn so as to suit the mutual dealings of gods and men, he worshipped that Dawn of great form. In this sūkta, from beginning to end, a spiritual principle lies hidden. The epithet हरस्व (*harasva*) and descriptions such as सूर‍्यं अरोचयः (*sūryaṃ arocayaḥ*) and उषसं अर्चयः (*uṣasaṃ arcayaḥ*) indicate this hidden meaning. Although an explanation of these is quite necessary, there is no room here for a detailed one, because of limits of space. It will be explained later as occasion arises.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यामिंद्रो॒ हरि॑धायसं पृथि॒वीं हरि॑वर्पसं ।  
+> अधा॑रयुद्ध॒रितो॒र्भूरि॒ भोज॑नं॒ ययो॑रं॒तर्हरि॒श्चर॑त् ॥३॥
+
+> *dyāmiṃdro haridhāyasaṃ pṛthivīṃ harivarpasaṃ |*  
+> *adhārayuddharitorbhūri bhojanaṃ yayoraṃtarhariścarat ‖3‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्यां । इंद्रः । हरिधायसं । सृथिवीं । हरिवर्पसं ।  
+> अधारयत् । हरितोः । भूरि । भोजनं । ययोः । अंतः । हरिः । चरत् ॥ ३ ॥
+
+> *dyāṃ | iṃdraḥ | haridhāyasaṃ | sṛthivīṃ | harivarpasaṃ |*  
+> *adhārayat | haritoḥ | bhūri | bhojanaṃ | yayoḥ | aṃtaḥ | hariḥ | carat ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽयमिंद्रो हरिधायसं । हरितो हरितवर्णा धायसो धारका
+> रत्नयो यस्याः सा । तां द्यामधारयत् । तथा हरिवर्पसनोषधीभिर्हरितवर्णां
+
+##### Gist of the bhāṣya
+
+This Indra upheld the heaven that is हरिधायसं (*haridhāyasaṃ*): the green-hued supporters (dhāyasaḥ) of which are रत्नयो (*ratnayo*)**NOTE**. Likewise he upheld the earth, हरिवर्पसं (*harivarpasaṃ*), green with plants.
+
+### Printed p. 67
+
+> पृथिवीमधारयत् । हरितोर्हरिद्दर्णयोर्ययोर्द्यावापृथिव्योर्मध्यॆ स्वकीययोरश्वयोर्भूरि प्रभूतं भोजनं । भुज्यत इति भोजनं यवसादि । लभ्यते ।
+> ययोश्च व्यावापृथिव्योरः तर्मध्यॆ हरिरिंद्रश्चरत् । चरति । ते द्यावापृथिव्यानिंद्रोऽधारयदित्यर्थ: ॥ हरिधायसं । डुधाण् धारणपोषणयोरित्यस्माद्वहिहाथाञ्छंदसीत्यसुन् । णुदित्यनुवृत्तेरातो युक् । बहुव्रीहौ पूर्वपदस्वरः ।
+> पृथिवीं । प्रथेः शिवन् संप्रसारणं चेति पिवन्त्ययः । षिद्गौरादिभ्यश्चति जीष् ।
+> प्रत्ययस्वरेणांतोदात्तः । हरिवर्पसं । वृज् संभक्तौ । वृजशीङ्ब्यां रूपस्वांगयोरित्यसुन्त्ययः। पुगागमश्च । संभज्यते तदिति वर्पो रूपं। बहुव्रीहौ पूर्वपदस्वरः । हरितोः । हृञ् हरण इत्यस्मात् हृस्यरुहि युषिभ्य इतिः । उ. १-९९ ।
+> इतीतिप्रत्ययः । प्रत्ययस्वरः । भोजनं । भुज पालनाभ्यवहारयोरित्यस्मात्कृत्यल्युटो बहुलमिति कर्मणि ल्युट् । लित्स्वरः । अंतः । स्वरादिष्टंतोदात्तत्वेन पठितत्पादंतोदात्त, । चरत् । चरतिर्गत्यर्थः । लेटि रूपं । यद्वृत्तयोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Between the two, heaven and earth, of green hue, his own two horses have abundant भोजनं (*bhojanaṃ*) (food), such as fodder, which is obtained; and between those same heaven and earth Hari, Indra, moves. The meaning is that Indra upheld those two, heaven and earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ययोः (*yayoḥ*)—of which heaven and earth
+- अंतः (*aṃtaḥ*)—throughout the middle
+- हरिः (*hariḥ*)—Indra
+- हरितोः (*haritoḥ*)—to his horses of green-tawny hue
+- भूरि (*bhūri*)—abundant
+- भोजनं (*bhojanaṃ*)—food such as fodder
+- (he has) made; and ययोः अंतः (*yayoḥ aṃtaḥ*)—throughout the middle of which heaven and earth
+- चरत् (*carat*)—he travels, such
+- हरिधायसं (*haridhāyasaṃ*)—endowed with golden rays
+- द्यां (*dyāṃ*)—the world of heaven
+- हरिवर्पसं (*harivarpasaṃ*)—adorned with crops and emeralds
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- आधारयत् (*ādhārayat*)—has lifted and held up (established)
+
+##### भावार्थ (Bhāvārtha)
+
+He has lifted and held up the heaven endowed with golden rays and the earth adorned with crops and emeralds: the heaven and earth between which Indra has abundantly provided fodder and other food for his horses of green-tawny hue, and throughout the middle of which he travels. (He has created them.)
+
+##### English translation (H. H. Wilson)
+Indra has upheld the yellow-rayed heaven , the verdant tinted earth ; there is abundant pasture (for his steeds) in the two azure spheres of heaven and earth, between which Hari travels.
+
+##### विशेषविषयगळु (Special Topics)
+
+The greatness of Indra is described by saying that he is the cause of the mutual growth of prosperity of heaven and earth. The description हरिधायसं द्यां हरिवर्पसं पृथिवीं (*haridhāyasaṃ dyāṃ harivarpasaṃ pṛthivīṃ*) is poetic
+
+### Printed p. 68
+and describes a principle of beauty; it is not merely a description of material wealth. The sky with its golden rays and the earth full of crops and emeralds, describing the beauty of the universe, make known the greatness of Indra, the primary cause of that beauty. Indra is the cause of the origin, the maintenance and the growth of heaven and earth.
+
+Although हरिधायसं (*haridhāyasaṃ*) means "endowed with golden rays", wherever the words धायसे (*dhāyase*) and धायसा (*dhāyasā*) occur (Ṛ. Saṃ. 7-95-1) the explanation is "supporting". The rays of the Sun support the universe. So the purport is "the rays of the Sun, which support the universe", and the meaning is the world of heaven endowed with such rays. Here the word हरि (*hari*) means golden. In the epithet हरिवर्पसं (*harivarpasaṃ*) the word हरि (*hari*) means emerald, and वर्पस् (*varpas*) means a radiant form. The earth has the epithet हरिवर्पसं (*harivarpasaṃ*) because it is endowed with world-attracting crops and emeralds. Indra has established heaven and earth, which are such nourishers of the world and endowed with world-attracting radiance.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒ज्ञा॒नो हरि॑तो॒ वृषा॒ विश्व॒मा भा॑ति रोच॒नं ।  
+> हर्य॑श्वो॒ हरि॑तं धत्त॒ आयु॑ध॒मा वज्रं॑ बा॒ह्वोर्हरिं॑॥ ४ ॥
+
+> *jajñāno harito vṛṣā viśvamā bhāti rocanaṃ |*  
+> *haryaśvo haritaṃ dhatta āyudhamā vajraṃ bāhvorhariṃ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जज्ञानः । हरितः । वृषा । विश्वं । आ । भाति । रोचनं ।  
+> हरिऽश्वः । हरितं । धत्ते । आयुधं । आ । वज्रं । बाह्वोः । हरिं ॥ ४ ॥
+
+> *jajñānaḥ | haritaḥ | vṛṣā | viśvaṃ | ā | bhāti | rocanaṃ |*  
+> *hari 'śvaḥ | haritaṃ | dhatte | āyudhaṃ | ā | vajraṃ | bāhvoḥ | hariṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां वर्षको हरितो हरिद्वर्णोपेतो जज्ञानो जात इंद्रो
+> विश्वं सर्वं रोचनं दीप्यमानं लोकमा भाति । सर्वतः प्रकाशयति । तथा हर्यश्व
+> इंद्रो हरितं हरिद्वर्णोपेतमायुधं धत्ते । बाह्वोर्धत्ते । तथा हरिं शत्रूणां
+> प्राणहारकं वज्रं बाह्वोराधत्ते ॥ जज्ञानः । जनी प्रादुर्भाव इत्यस्य लिटः कानच् ।
+> गमहनेत्यादिनोपधालोपः । चित्वादंतोदात्तः । भाति । भा दीप्ता वित्यस्यांतर्भावितण्यर्थस्य लटि रूपं । रोचनं । रुच दीप्तावित्यस्मादनुदात्तेतश्च हलादेरिति
+> युच् । चित्वादंतोदात्तः । बाह्वोः । उदात्तयणो हल्पूर्नादिति विभक्तेरुदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Indra, the showerer of desires, of green-tawny hue, being born, illumines on every side the whole shining world. Likewise Indra, lord of tawny horses, holds in his arms the weapon of tawny hue; and he holds in his arms the thunderbolt, हरिं (*hariṃ*), the taker of the lives of enemies.
+
+### Printed p. 69
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—showerer of desires
+- हरितः (*haritaḥ*)—of golden form; Indra
+- बज्ञानः (*bajñānaḥ*)—as soon as born
+- विश्वं (*viśvaṃ*)—the entire
+- रोचनं (*rocanaṃ*)—attractive world
+- अ भाति (*a bhāti*)—he causes to shine
+- हरश्वः (*haraśvaḥ*)—Indra, possessing horses named Hari
+- हरितं (*haritaṃ*)—golden
+- आयुधं (*āyudhaṃ*)—weapon
+- धत्ते (*dhatte*)—holds
+- हरिं (*hariṃ*)—that takes away (the lives of enemies)
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- बाह्वोः (*bāhvoḥ*)—in his arms
+- (अधत्ते) (*(adhatte)*)—holds
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the showerer of desires, of golden form, causes the entire attractive world to shine as soon as he is born. Indra, possessor of the horses named Hari, holds a golden weapon. He holds in his arms the thunderbolt that takes away the lives of enemies.
+
+##### English translation (H. H. Wilson)
+The azure-coloured showerer (of benefits), illumes, as soon as born, the whole luminous region ; the lord of the tawny steeds holds in his hands the yellow weapon, the destroying thunderbolt.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the greatness of Indra, the cause of the world's prosperity, is described, descriptions such as आयुधं धत्ते (*āyudhaṃ dhatte*) come along with it. Indra is a protector, and likewise a destroyer (of enemies). In the description that he makes the world attractive and radiant (विश्वं रोचनं आ भाति (*viśvaṃ rocanaṃ ā bhāti*)) and also lifts and holds a destructive weapon, the two forms of Indra are understood. The descriptions of Indra's thunderbolt, Viṣṇu's discus and Īśvara's trident are all of this kind. They are a harmony of protection and chastisement for the world, a harmony of truth and beauty. In their description a hidden spiritual principle is indicated. This principle of harmony will be discussed later, when the great nature of Indra's thunderbolt is explained.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ ह॒र्यंत॒मर्जु॑नं॒ वज्रं॑ शु॒क्रैर॒भीवृ॑तं ।  
+> आपा॑वृणो॒द्धरि॑भि॒रद्रि॑भिः सु॒तमुद्गा हरि॑भिराजत ॥ ५ ॥
+
+> *iṃdro haryaṃtamarjunaṃ vajraṃ śukrairabhīvṛtaṃ |*  
+> *āpāvṛṇoddharibhiradribhiḥ sutamudgā haribhirājata ‖ 5 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 62. pp. 57-62 (batch API, retry 1)
+**Progress note:** Done through printed p. 69. pp. 64-69 (batch API, retry 1)
