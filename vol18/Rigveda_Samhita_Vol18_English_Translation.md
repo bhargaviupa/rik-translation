@@ -21783,6 +21783,289 @@ We choose, that is, we pray for, that great, venerable, desirable (वार्�
 - छर्दिः (*chardiḥ*)—riches such as the house
 - यच्छति (*yacchati*)—(Savitṛ)
 
+### Printed p. 554
+- *yacchati*—gives; such (wealth)
+- असुरस्य (*asurasya*)—of the mighty one
+- प्रचेतसः (*pracetasaḥ*)—of him who has excellent knowledge
+- देवस्य (*devasya*)—of the resplendent
+- सवितुः (*savituḥ*)—of Savitṛ
+- वार्यं (*vāryaṃ*)—desired (by all)
+- महत् (*mahat*)—venerable
+- तत् (*tat*)—that famous
+- वृणीमहे (*vṛṇīmahe*)—we desire and pray for (that very wealth)
+- तत् छर्दिः (*tat chardiḥ*)—those same radiant riches
+- महान् (*mahān*)—the venerable
+- देवः (*devaḥ*)—Savitṛ, the divine being
+- अक्तुभिः (*aktubhiḥ*)—in all days and nights
+- नः (*naḥ*)—for us
+- उदयान् (*udayān*)—may he bring about
+
+##### भावार्थ (Bhāvārtha)
+
+Savitṛ, who is mighty, of excellent knowledge and resplendent, is filled with a certain wealth, and out of his own pleasure gives the offerer of the oblation, the sacrificer, riches such as a dwelling. We too pray, desiring that very wealth, which is desired by all, venerable and famous. May Savitṛ, the venerable divine being, bring about for us those same radiant riches in all days and nights.
+
+##### English translation (H. H. Wilson)
+We solicit of the divine, powerful, and inteligent Savitri that desirable and ample (wealth), along with which he grants a dwelling to the offerer of the oblation of his own accord : may the great deity us such every day.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो ध॒र्ता भुव॑नस्य प्र॒जाप॑तिः पि॒शंगं॑ द्रा॒पिं प्रति॑ मुंचते  ॒
+> कविः ।  
+> वि॒च॒क्ष॒णः प्र॒थय॑न्ना पृ॒णन्नु॒ र्वजी॑जनत्सवि॒ता सु॒म्ममु॒क्थं ॥॑
+
+> *divo dhartā bhuvanasya prajāpatiḥ piśaṃgaṃ drāpiṃ prati muṃcate*  
+> *kaviḥ |*  
+> *vicakṣaṇaḥ prathayannā pṛṇannu rvajījanatsavitā summamukthaṃ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । धर्ता । भुवनस्य । प्रजापतिः । पिशंगं । द्रापिं । प्रति । मुंचते । कविः ।  
+> विचक्षणः । प्रथयन् । आपृणन् । उरु । अजीजनत् । सविता । सुम्नं । उक्ष्यं २:
+
+> *divaḥ | dhartā | bhuvanasya | prajāpatiḥ | piśaṃgaṃ | drāpiṃ | prati | muṃcate | kaviḥ |*  
+> *vicakṣaṇaḥ | prathayan | āpṛṇan | uru | ajījanat | savitā | sumnaṃ | ukṣyaṃ 2:*
+
+### Printed p. 555
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्य धर्ता धारकः । न केवलं दिव एव अपि तु भुवनस्य कृत्स्नस्यापि लोकस्य धर्ता प्रजापतिः प्रजानां प्रकाशवृष्ट्यादिना पालयिता कविः प्राज्ञो
+> देवः पिशंगं द्रापिं हिरण्मयं कवचं प्रति मुंचते । आच्छादयति प्रत्युदयं ।
+> विचक्षणो विविधं द्रष्टा स एव देवः प्रथयन् प्रख्यापयन् तेज आप्पणन्नापूरयन्
+> परित उरु प्रभूतं सुम्मं सुखमुक्थं स्तुत्यमजीजनत् । उत्पादयति ॥
+
+##### Gist of the bhāṣya
+
+दिवः (*divaḥ*) is the supporter of the heaven-world. Not of heaven alone: he is the supporter of the whole world (भुवनस्य (*bhuvanasya*)). He is Prajāpati, the protector of creatures by light, rain and the like; the wise (कविः (*kaviḥ*)) god puts on (प्रति मुंचते (*prati muṃcate*)) a golden armour (द्रापिं (*drāpiṃ*)), that is, he covers himself with it at each rising. Vicakṣaṇa means the manifold seer. That same god, spreading abroad (making known) and filling his radiance all around, begets (अजीजनत् (*ajījanat*)) abundant (उरु (*uru*)) happiness (सुम्नं (*sumnaṃ*)) that is praiseworthy (उक्ष्यं (*ukṣyaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the heaven-world
+- भुवनस्य (*bhuvanasya*)—of all born beings
+- धर्ता (*dhartā*)—the supporter
+- कविः (*kaviḥ*)—the wise
+- प्रजापतिः (*prajāpatiḥ*)—Prajāpati
+- पिशंगं (*piśaṃgaṃ*)—golden-hued
+- द्रापिं (*drāpiṃ*)—armour
+- प्रति मुंचते (*prati muṃcate*)—has put on
+- विचक्षणः (*vicakṣaṇaḥ*)—who looks with many views
+- सविता (*savitā*)—Savitṛ
+- प्रथयन् (*prathayan*)—displaying his radiance
+- आपृणन् (*āpṛṇan*)—making it pervade everywhere
+- उरु (*uru*)—abundant
+- उक्ष्यं (*ukṣyaṃ*)—praiseworthy
+- सुम्मं (*summaṃ*)—happiness
+- अजीजनत् (*ajījanat*)—brings about
+
+##### भावार्थ (Bhāvārtha)
+
+Prajāpati (Savitṛ), the supporter of the heaven-world and of all born beings, the wise one, has put on a golden armour. That Savitṛ, who looks with many views, displays his radiance and makes it pervade everywhere, and at the same time brings about abundant and praiseworthy happiness.
+
+##### English translation (H. H. Wilson)
+The supporter of heaven, the protector of the world, the wise (Savitri) puts on his golden armour : discriminator (of object), filling (the world with light), Savitri has engendered great and laudable felicity.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आप्रा॒ रजां॑सि दि॒व्यानि॒ पार्थि॑वा॒ श्लोकं॑ दे॒वः कृ॑णुते॒ स्वाय॒  ॑
+> धर्मणे ।  
+> प्र बा॒हू अ॑स्राक्सवि॒ता सवी॑मनि निवे॒शय॑न्न्रसु॒वन्न॒ क्तुभि॒र्जग॑त्॥
+
+> *āprā rajāṃsi divyāni pārthivā ślokaṃ devaḥ kṛṇute svāya*  
+> *dharmaṇe |*  
+> *pra bāhū asrāksavitā savīmani niveśayannrasuvanna ktubhirjagat‖*
+
+### Printed p. 556
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अप्राः । रजांसि । दिव्यानि । पार्थिवा । श्लोकं । देवः । कृणुते । स्वाय । धर्मणे ।  
+> प्र । बाहू इति । अस्त्राक् । सविता । सवीमनि । निवेशयन् । प्रसुवन् । अक्तुभिः ।  
+> जगत् ॥ ३ ॥
+
+> *ā | aprāḥ | rajāṃsi | divyāni | pārthivā | ślokaṃ | devaḥ | kṛṇute | svāya | dharmaṇe |*  
+> *pra | bāhū iti | astrāk | savitā | savīmani | niveśayan | prasuvan | aktubhiḥ |*  
+> *jagat ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं देवः सविता दिव्यानि द्युसंबंधीनि पार्थिना पार्थिवानि रजांसि
+> लोकान् । तिस्रः खलु द्यावः पृथिव्यश्च । तिस्रो भूमीर्धारयन् त्रीरुत द्यून् ।
+> ऋग्वे. २-२७-८ । इति हि श्रुतं । आप्राः । अपूरयति स्वाभिर्भाभिर्देवः । स्वाय
+> धर्मणे स्वकीयाय धारणाय श्लोकं प्रशस्तिं कृणुते । करोति । सविता सवीमनि
+> प्रसनेऽनुज्ञायां निमित्तायां बाहू स्वीयौ प्रास्राक् । प्रसृजति । प्रसारयतीत्यर्थः । किं कुर्वन् । अक्तुभिः कांतिभिर्जगन्निवेशयन् स्वस्वकार्यॆ स्थापयन्
+> प्रसुवन् प्रेरयन् । अथवा अक्तुभिरिति रात्रिनाम । तदुपलक्षितैः सर्वैर्वासरैः
+> सर्वॆष्टपि दिनेऽवं करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This god Savitṛ fills the divine (heaven-related) and earthly worlds (रजांसि (*rajāṃsi*) = worlds). There are indeed three heavens and three earths: तिस्रो भूमीर्धारयन् त्रीरुत द्यून् (*tisro bhūmīrdhārayan trīruta dyūn*) (Ṛgve. 2-27-8)**NOTE** — so it is heard in the Veda. आप्राः (*āprāḥ*): the god fills them with his own lights. For his own (स्वाय (*svāya*)) support (धर्मणे (*dharmaṇe*)) he makes (कृणुते (*kṛṇute*)) praise (श्लोकं (*ślokaṃ*)). Savitṛ, at the occasion of impulsion or permission (सवीमनि (*savīmani*)), stretches out (प्रास्राक् (*prāsrāk*)) his own two arms (बाहू (*bāhū*)), that is, extends them. Doing what? By his radiances (अक्तुभिः (*aktubhiḥ*)) he establishes the world (जगत् (*jagat*)) each in its own work and impels it. Or else अक्तुभिः (*aktubhiḥ*) is a name for night; through all days marked by it, on all days he does so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—Savitṛ, the divine being
+- दिव्यानि (*divyāni*)—those related to heaven
+- पार्थिवा (*pārthivā*)—those related to the earth
+- रजांसि (*rajāṃsi*)—the worlds
+- आप्राः (*āprāḥ*)—has pervaded with his radiance
+- स्वाय (*svāya*)—belonging to himself
+- धर्मणे (*dharmaṇe*)—for the encouragement of the activity of upholding the world and so on
+- श्लोकं (*ślokaṃ*)—praise
+- कृणुते (*kṛṇute*)—makes
+- सविता (*savitā*)—the god Savitṛ
+- अक्तुभिः (*aktubhiḥ*)—by his radiances
+- जगत् (*jagat*)—the world
+- निवेशयन् (*niveśayan*)—establishing in the respective appointed works
+- प्रसुवन् (*prasuvan*)—impelling by the gift of vitality
+- सवीमनि (*savīmani*)—for the work of creation
+- बाहू (*bāhū*)—his arms
+- प्र अस्राक् (*pra asrāk*)—spreads out
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Savitṛ has pervaded with his radiance the worlds that belong to heaven and those that belong to the earth. He makes praise for the encouragement of his own activity of upholding the world and so on. The god Savitṛ, establishing the world by his radiances in its respective appointed works and impelling it by the gift of vitality, spreads out his arms for the work of creation.
+
+### Printed p. 557
+
+##### English translation (H. H. Wilson)
+The divine (Savitri) fills (with radiance) the celestial and terrestrial regions, and boasts of his own function : Savitri puts forth his arms for (the work of) production, regulating the world, and animating it with light.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदा॑भ्यो॒ भुव॑नानि प्र॒चाक॑शद्व्र॒तानि॑ दे॒वः स॑वि॒ताभि र॑क्षते !  
+> प्रास्रा॑ग्बा॒हू भुव॑नस्य प्र॒जाभ्यो॑ धृ॒तव्र॑तो म॒हो अज्म॑स्य  
+> राजति ॥ ४ ॥
+
+> *adābhyo bhuvanāni pracākaśadvratāni devaḥ savitābhi rakṣate !*  
+> *prāsrāgbāhū bhuvanasya prajābhyo dhṛtavrato maho ajmasya*  
+> *rājati ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदाभ्यः । भुवनानि । प्रचाकशत् । व्रतानि । देवः । सविता । अभि । रक्षते ।  
+> प्र । अस्त्राक् । बाहू इति । भुवनस्य । प्रजाभ्यः । धृतव्रतः । महः । अज्मस्य । राजति॥
+
+> *ādābhyaḥ | bhuvanāni | pracākaśat | vratāni | devaḥ | savitā | abhi | rakṣate |*  
+> *pra | astrāk | bāhū iti | bhuvanasya | prajābhyaḥ | dhṛtavrataḥ | mahaḥ | ajmasya | rājati‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता देवोऽदाभ्योऽन्यैरहिंसितः सन् भुवनानि प्रचाकशत् दीपयन्
+> व्रतानि कर्माणि प्राणिनामभि रक्षते । भुवनस्य लोकस्य प्रजाभ्यस्तत्रत्याभ्यो बाहू
+> स्वीयौ प्रास्त्राक् । प्रसारयति । स्वस्वकर्मणेऽनुजानातीत्यर्थः । सर्वव्यापाराणां
+> सूर्याधीनत्वात् । सविता वै प्रसवानामीशे । ऐ. ब्रा. १-१६ । इति हि श्रुतिः ।
+> धृतव्रतो धृतकर्मा स तथा कुर्वन् महो महतोऽज्मस्य जगतो राजति ।
+> ईश्वरो भवति ॥
+
+##### Gist of the bhāṣya
+
+The god Savitṛ, unharmed by others (अदाभ्यो (*adābhyo*)), illuminating (प्रचाकशत् (*pracākaśat*)) the worlds, protects (अभि रक्षते (*abhi rakṣate*)) the rites (व्रतानि (*vratāni*)) of living beings. For the creatures (प्रजाभ्यः (*prajābhyaḥ*)) of the world he stretches out his own two arms; the meaning is that he permits each to its own work, since all activities depend on the Sun. For the Veda says: सविता वै प्रसवानामीशे (*savitā vai prasavānāmīśe*) (Ai. Brā. 1-16). Dhṛtavrata: one who upholds the works; doing thus, he rules (राजति (*rājati*)), that is, is lord of the great (महः (*mahaḥ*)) world (अज्मस्य (*ajmasya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता देवः (*savitā devaḥ*)—the god Savitṛ
+- आदाभ्यः (*ādābhyaḥ*)—beyond the harm of enemies
+- भुवनानि (*bhuvanāni*)—all the worlds
+- प्रचाकशत् (*pracākaśat*)—making them shine
+- व्रतानि (*vratāni*)—rites such as sacrifices
+- अभिरक्षते (*abhirakṣate*)—protects
+- भुवनस्य (*bhuvanasya*)—of the world
+- प्रजाभ्यः (*prajābhyaḥ*)—for the sake of nurturing the people
+- बाहू (*bāhū*)—his arms
+- प्रास्तात् (*prāstāt*)—extends
+- धृतव्रतः (*dhṛtavrataḥ*)—one who has taken up the vows (of protecting the world and so on)
+- महः (*mahaḥ*)—great
+- अज्मस्य (*ajmasya*)—of the world
+- राजति (*rājati*)—is the lord
+
+### Printed p. 558
+
+##### भावार्थ (Bhāvārtha)
+
+The god Savitṛ, not falling under the harm of enemies, makes all the worlds shine and protects rites such as sacrifices. He extends his arms for the nurturing of the people of the world. Having taken up the vows of protecting the world and so on, he is the lord of the great world.
+
+##### English translation (H. H. Wilson)
+The divine Savitri unrestrained, illumining the regions, protects the righteous acts (of men); he extends his arms for (the direction of) the people of the earth : observer of obligations, he rules over the wide world.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिरं॒तरि॑क्षं सवि॒ता म॑हित्व॒ना त्री रजां॑सि परि॒भूस्त्रीणि॑ रोच॒ना ।  
+> ति॒स्रो दिवः॑ पृथि॒वीस्ति॒स्र इ॑न्वति त्रि॒भिर्वृ॒तैर॒भि नो॑ रक्षति॒ त्मना॑ ॥
+
+> *triraṃtarikṣaṃ savitā mahitvanā trī rajāṃsi paribhūstrīṇi rocanā |*  
+> *tisro divaḥ pṛthivīstisra invati tribhirvṛtairabhi no rakṣati tmanā ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । अंतरिक्षं । सविता । महित्वना । त्री । रजांसि । परिभूः । त्रीणि । रोचना ।  
+> तिस्रः । दिवः । पृथिवीः । तिस्रः । इन्वति । त्रिभिः । व्रतैः । अभि । नः । रक्षति । त्मना ॥ ५ ॥
+
+> *triḥ | aṃtarikṣaṃ | savitā | mahitvanā | trī | rajāṃsi | paribhūḥ | trīṇi | rocanā |*  
+> *tisraḥ | divaḥ | pṛthivīḥ | tisraḥ | invati | tribhiḥ | vrataiḥ | abhi | naḥ | rakṣati | tmanā ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सविता त्रिस्त्रिभेदमंतरिक्षं । अंतरा क्षांतं भवति जगदित्यंतरिक्षं
+> परिभूः परिभविता सन् महित्वना महित्वेनेन्वति । व्याप्पोति । वायुविद्युद्वरुणाख्यास्त्रयो लोका अंतरिक्षभेदाः स वायुलोकं स वरुणलोकमित्यादिश्रुतेः ।
+> कौ. उ. १-३ । श्री रजांसि रंजनात्मकानि त्रीणि क्षित्यंतरिक्षद्युलक्षणान् त्रीन्
+> लोकानिन्वति । पूर्वमंतरिक्षस्यॆवावांतरभेद उक्त इह तु सामान्याका रेणेत्यपुनरुक्तिः । त्रीणि रोचना रोचनानि रोचमानानग्निवाय्वादित्यानुक्तस्थानत्रयस्वामित्वेनेन्वति । पूर्वमंतरिक्षस्यॆवावांतरभेद उक्तः । अथ द्युपृथिव्योरवांतर-
+
+##### Gist of the bhāṣya
+
+This Savitṛ, being the overcomer (परिभूः (*paribhūḥ*)), pervades (इन्वति (*invati*)) by his greatness (महित्वना (*mahitvanā*)) the threefold antarikṣa; antarikṣa is so called because the world is bounded in between (*aṃtarā kṣāṃtaṃ bhavati jagat*). The three kinds of antarikṣa are the worlds called Vāyu, Vidyut and Varuṇa, according to the śruti beginning *sa vāyulokaṃ sa varuṇalokaṃ* (Kau. U. 1-3)**NOTE**. श्री रजांसि (*śrī rajāṃsi*) (the printed text): the three delightful worlds, characterised as earth, antarikṣa and heaven; he pervades them. Earlier only a subdivision of antarikṣa was stated; here the statement is in general form, so there is no repetition. त्रीणि रोचना (*trīṇi rocanā*): the three shining ones, Agni, Vāyu and Āditya; he pervades them as lord of the three places**NOTE**. Earlier only a subdivision of antarikṣa was stated; now the subdivisions of heaven and earth are stated (continues).
+
+### Printed p. 559
+
+> भेद उच्यते । तिस्रो दिव इंद्रप्रजापतिसत्याख्यान् त्रीन् लोकानिन्वति । तथा तिस्रः
+> पृथिवीरिन्वति । क्षित्यवांतरभेदान् लोकानिन्वति । एवं सर्वत्र व्याप्त्वा देवस्त्रिभिर्वृतैः
+> कर्मभिरुष्णवर्षहिमाख्यॆर्नोऽस्मान् त्मनात्मनैव स्वीयानुग्रहबुद्ध्यैवाभि रक्षति ।
+> अभिरक्षतु । परिपालयतु ॥
+
+##### Gist of the bhāṣya
+
+तिस्रो दिवः (*tisro divaḥ*): he pervades the three worlds named Indra, Prajāpati and Satya. Likewise he pervades the three earths, that is, the worlds that are subdivisions of earth. Thus, having pervaded everywhere, the god protects us by his three vratas, actions named heat, rain and snow, of his own accord (त्मना (*tmanā*)), out of his own gracious intention. अभि रक्षति (*abhi rakṣati*) stands for "let him protect"; let him guard us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—the god Savitṛ
+- त्रिः (*triḥ*)—of three kinds
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the antarikṣa (or the world)
+- परिभूः (*paribhūḥ*)—keeping it under his control
+- महित्वना (*mahitvanā*)—by his majesty
+- इन्वति (*invati*)—pervades
+- श्री रजांसि (*śrī rajāṃsi*)—the three worlds
+- त्रीणि रोचना (*trīṇi rocanā*)—the three radiant principles called Agni, Vāyu and Āditya
+- तिस्रः दिवः (*tisraḥ divaḥ*)—the three divine worlds called Indra, Prajāpati and Satya
+- तिस्रः पृथिवीः (*tisraḥ pṛthivīḥ*)—the earth, which is in three parts; he has pervaded (this all-pervading god)
+- त्रिभिर्वृतैः (*tribhirvṛtaiḥ*)—by his three kinds of extraordinary actions
+- नः (*naḥ*)—us
+- त्मना (*tmanā*)—of his own pleasure
+- अभि रक्षति (*abhi rakṣati*)—may he protect completely
+
+##### भावार्थ (Bhāvārtha)
+
+Savitṛ, keeping the threefold antarikṣa under his control, pervades it by his majesty. He has pervaded the three worlds, the three radiant principles Agni, Vāyu and Āditya, the three divine worlds Indra, Prajāpati and Satya, and the earth in its three kinds. May this all-pervading god protect us by his three kinds of extraordinary actions, of his own impulse and his own pleasure.
+
+##### English translation (H. H. Wilson)
+Savitri, encompassing them by his magnitude, pervades the three (divisons of the) firmament, the three worlds. the three brilliant spheres, the three heavens, the threefold earth : may he, by his three functions, of his own (pleasure) protect us.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हत्सु॑म्नः प्रसवी॒ता नि॒वेश॑नो॒ जग॑तः स्था॒तुरु॒भय॑स्य॒ यो  ॒
+> वशी ।
+
+> *bṛhatsumnaḥ prasavītā niveśano jagataḥ sthāturubhayasya yo*  
+> *vaśī |*
+
 ---
 
-**Progress note:** Done through printed p. 553. pp. 548-553 (batch API)
+**Progress note:** Done through printed p. 559. pp. 554-559 (batch API)
