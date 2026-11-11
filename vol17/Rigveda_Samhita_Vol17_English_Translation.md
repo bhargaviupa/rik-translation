@@ -27161,6 +27161,329 @@ In the recitation of the prātaranuvāka and of the Āśvina śastra mantras, th
 > *ṛtāvānaṃ vicetasaṃ paśyaṃto dyāmiva stṛbhiḥ |*  
 > *viśveṣāmadhvarāṇāṃ haskartāraṃ damedame ‖ 3 ‖*
 
+### Printed p. 844
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतसानं । विचेतसं । पश्यंतः । द्यांइव । स्तुभिः ।  
+> विश्वेषां । अध्वराणां । हस्कर्तारं । दमेदमे ॥ ३ ॥
+
+> *ṛtasānaṃ | vicetasaṃ | paśyaṃtaḥ | dyāṃiva | stubhiḥ |*  
+> *viśveṣāṃ | adhvarāṇāṃ | haskartāraṃ | damedame ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतानानममायिनं विचेतसं विशिष्टज्ञानं स्तृभिर्नक्षत्रैः परिवृतं द्यामिव।
+> विस्फुलिंगैः समेतं विश्वेषां सर्वॆषामध्वराणां यज्ञानां हस्कर्तारं प्रभासकं
+> वृद्धेः कर्तारं वाग्निं पश्यंत ऋत्विगादयो दमे दमे सर्वस्मिन्यज्ञगृहे जगृभिर
+> इति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The truthful one (ऋतावानं (*ṛtāvānaṃ*)), free from deceit, of distinguished knowledge, is encircled by stars (स्तृभिः (*stṛbhiḥ*)) as the sky is, that is, he is accompanied by sparks.**NOTE** The priests and others behold this Agni, the "perfecter" of all sacrifices (हस्कर्तारं (*haskartāraṃ*)), that is, the illuminator, the one who brings about increase. In every sacrificial house (दमे दमे (*dame dame*)) they "have borne" him (जगृभिर (*jagṛbhira*)). This is connected with the preceding verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावानं (*ṛtāvānaṃ*)—the truthful one
+- विचेतसं (*vicetasaṃ*)—the one of distinguished intelligence
+- स्तृभिः (*stṛbhiḥ*)—with stars
+- द्यामिव (*dyāmiva*)—like the sky
+- विश्वेषां (*viśveṣāṃ*)—of all
+- आध्वराणां (*ādhvarāṇāṃ*)—of the sacrifices
+- हस्कर्तारं (*haskartāraṃ*)—the one who brings about illumination, that is, Agni
+- पश्यंतः (*paśyaṃtaḥ*)—beholding
+- दमे दमे (*dame dame*)—in every sacrificial house (the priests and others bear him)
+
+##### भावार्थ (Bhāvārtha)
+
+Beholding Agni, who is truthful, of distinguished intelligence, and who brings illumination to all sacrifices as the sky is adorned with stars, the priests and others bear him in every sacrificial house.
+
+##### English translation (H. H. Wilson)
+Contemplating you in every dwelling, truthful, intelligent, (brilliant with sparks) like the sky with stars, the perfecter of all sacrifices.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒शुं दू॒तं वि॒वस्व॑तो॒ विश्वा॒ यश्च॑र्ष॒णीर॒भि ।  
+> आ ज॑भ्रुः के॒तुमा॒यवो॒ भृग॑वाणं वि॒शेवि॑शे ॥ ४ ॥
+
+> *āśuṃ dūtaṃ vivasvato viśvā yaścarṣaṇīrabhi |*  
+> *ā jabhruḥ ketumāyavo bhṛgavāṇaṃ viśeviśe ‖ 4 ‖*
+
+### Printed p. 845
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आशुं । दूतं । विवस्वतः । विश्वाः । यः । चर्षणीः । अभि ।  
+> आ । जभ्रुः । केतुं । आयवः । भृगवाणं । विशेऽविशे ॥ ४ ॥
+
+> *āśuṃ | dūtaṃ | vivasvataḥ | viśvāḥ | yaḥ | carṣaṇīḥ | abhi |*  
+> *ā | jabhruḥ | ketuṃ | āyavaḥ | bhṛgavāṇaṃ | viśe 'viśe ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योग्निर्विश्वाश्चर्षणीः सर्वाः प्रजा अभि भवति आयवो मनुष्याः । आयव
+> इति मनुष्यनाम आयवो यदव इति मनुष्यनामसु नाठात् । आशुं क्षिप्रगामिनं
+> विवस्वतो मनुष्यस्य यजमानस्य दूतं । विवस्वत इति मनुष्यनामेदं । केतुं
+> प्रज्ञापकं भृगवाणं भृगुवदाचरंतं । दीप्यमानमित्यर्थः ॥ सर्वप्रातिपदिकेभ्यः
+> क्विब्वक्तव्य इति क्विप् । तदंताल्लटो व्यत्ययेन शानच् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे प्राप्ते वृषादेराकृतिगणत्वादाद्युदात्तत्वं ॥ तमग्निं विशे विशे
+> सर्वस्यॆ प्रजाया आ जभ्रुः । आजह्रुः ॥ हृग्रहोर्भ इति भत्वं ॥
+
+##### Gist of the bhāṣya
+
+The Agni who prevails over all peoples (विश्वाश्चर्षणीः (*viśvāścarṣaṇīḥ*)), all subjects—the आयवः (*āyavaḥ*) are men; आयवो यदव इति मनुष्यनामसु नाठात् (*āyavo yadava iti manuṣyanāmasu nāṭhāt*) (read among the names of men)—that Agni, the swift-going (आशुं (*āśuṃ*)), is the messenger (दूतं (*dūtaṃ*)) of Vivasvat, that is, of man, the sacrificer; विवस्वत इति मनुष्यनामेदं (*vivasvata iti manuṣyanāmedaṃ*). He is the "banner" (केतुं (*ketuṃ*)), the one who makes things known, and भृगवाणं (*bhṛgavāṇaṃ*), one who behaves like Bhṛgu, that is, shining. That Agni, for every people (विशे विशे (*viśe viśe*)), they have brought (आ जभ्रुः (*ā jabhruḥ*) = आजह्रुः (*ājahruḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—that very Agni who
+- विश्वाः (*viśvāḥ*)—all
+- चर्षणीः (*carṣaṇīḥ*)—peoples
+- अभि (*abhi*)—is lord over (such a one)
+- आशुं (*āśuṃ*)—the swift-going one
+- विवस्वतः (*vivasvataḥ*)—of the sacrificer
+- दूतं (*dūtaṃ*)—the messenger (who calls the gods)
+- केतुं (*ketuṃ*)—the giver of knowledge
+- भृगवाणं (*bhṛgavāṇaṃ*)—the resplendent one; that Agni
+- विशेविशे (*viśeviśe*)—in every sacrificial house
+- आयवः (*āyavaḥ*)—men, the sacrificers
+- आ जभ्रुः (*ā jabhruḥ*)—have brought
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is the lord of all peoples. That Agni, who is swift-going, the messenger who calls the gods for the sacrificer, the giver of knowledge, the resplendent one, men the sacrificers have brought to every sacrificial house.
+
+##### English translation (H. H. Wilson)
+Men have brought, for the sake of all people, the swift messenger of the worshipper (to the gods), who (rules) over all mankind, the manifester, the resplendent.
+
+### Printed p. 846
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमीं॒ होता॑रमानु॒षक् चि॑कि॒त्वांसं॒ न षे॑दिरे ।  
+> र॒ण्वं पा॑व॒कशो॑चिषं॒ यजि॑ष्ठं स॒प्त धाम॑भिः ॥ ५ ॥
+
+> *tamīṃ hotāramānuṣak cikitvāṃsaṃ na ṣedire |*  
+> *raṇvaṃ pāvakaśociṣaṃ yajiṣṭhaṃ sapta dhāmabhiḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ईं । होतारं । आनुषक् । चिकित्वांसं । नि। सेदिरे ।  
+> रण्वं । पावकशोचिषं । यजिष्ठं । सप्त । धामभिः ॥ ५ ॥
+
+> *taṃ | īṃ | hotāraṃ | ānuṣak | cikitvāṃsaṃ | ni| sedire |*  
+> *raṇvaṃ | pāvakaśociṣaṃ | yajiṣṭhaṃ | sapta | dhāmabhiḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋत्विगादयो मनुष्या आनुषक् आनुपूर्व्येण होतारं देवानामाह्वातारं चिकित्वांसं जानंतं ॥ कित ज्ञाने । लिटः क्वसुः । द्विर्भावहलादिशेषचुत्वदीर्घाः । प्रत्ययस्वरः ॥ तमीं तमिममग्निं नि षेदिरे । निषादयंति स्म । कीदृशं ।
+> रण्वं रमणीयं पावकशोचिषं शोधकदीप्तिं यजिष्टं यष्टृतमं सप्त सप्तभिर्धामभिस्तेजोभिर्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+The priests and others, men, have seated (नि षेदिरे (*ni ṣedire*), निषादयंति स्म (*niṣādayaṃti sma*)) that very Agni in due order (आनुषक् (*ānuṣak*), आनुपूर्व्येण (*ānupūrvyeṇa*)). He is the invoker (होतारं (*hotāraṃ*)) of the gods, the one who knows (चिकित्वांसं (*cikitvāṃsaṃ*), from the root कित ज्ञाने (*kita jñāne*)). Of what kind? Delightful (रण्वं (*raṇvaṃ*)), of purifying radiance (पावकशोचिषं (*pāvakaśociṣaṃ*)), the best sacrificer (यजिष्टं (*yajiṣṭaṃ*), यष्टृतमं (*yaṣṭṛtamaṃ*)), endowed with seven (सप्त (*sapta*)) abodes, that is, with seven lustres (धामभिः (*dhāmabhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होतारं (*hotāraṃ*)—the one who invokes the gods (to the sacrifice)
+- चिकित्वांसं (*cikitvāṃsaṃ*)—the wise one
+- रण्वं (*raṇvaṃ*)—the one of delightful form
+- पावकशोचिसं (*pāvakaśocisaṃ*)—the one of purifying radiance
+- यजिष्ठं (*yajiṣṭhaṃ*)—the most worshipful (the frequent sacrificer)
+- सप्त धामभिः (*sapta dhāmabhiḥ*)—endowed with seven lustres
+- तमीं (*tamīṃ*)—that same Agni
+- आनुषक् (*ānuṣak*)—following the order of his place
+- नि षेदिरे (*ni ṣedire*)—(the priests) establish
+
+##### भावार्थ (Bhāvārtha)
+
+That same Agni, who invokes the gods to the sacrifice, who is wise, of delightful form, of purifying radiance, most worshipful, endowed with seven lustres, the priests establish following the order of his place.
+
+##### English translation (H. H. Wilson)
+They (the worshippers) have seated him in his due order, the invoker (of the gods) the intelligent, the agreeable, the purifyingly-radiant, the performer of frequent sacrifice, (brilliant) with seven flames.
+
+### Printed p. 847
+
+##### विशेषविषयगळु (Special Topics)
+
+सप्त धामभिः (*sapta dhāmabhiḥ*)—Agni has seven flames known as Kālī, Karālī and so on. The meaning is: with such flames.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं शश्व॑तीषु मा॒तृषु॒ वन॒ आ वी॒तमश्रि॑तं ।  
+> चि॒त्रं संतं॒ गुहा॑ हि॒तं सु॒वेदं॑ कूचिद॒र्थिनं॑ ॥ ६ ॥
+
+> *taṃ śaśvatīṣu mātṛṣu vana ā vītamaśritaṃ |*  
+> *citraṃ saṃtaṃ guhā hitaṃ suvedaṃ kūcidarthinaṃ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । शश्वतीषु । मातृषु । वने । आ! वीतं। अश्रितं ।  
+> चित्रं । संतं । गुहा । हितं । सुवेदं । कूचित् अर्थिनं ॥ ६ ॥
+
+> *taṃ | śaśvatīṣu | mātṛṣu | vane | ā! vītaṃ| aśritaṃ |*  
+> *citraṃ | saṃtaṃ | guhā | hitaṃ | suvedaṃ | kūcit arthinaṃ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शश्वतीषु बह्वीषु मातृष्टप्पु । तार्क सस्यादिनिर्मातृकत्वान्मातर इत्युच्यंते ।
+> वन आ वृक्षसमूहे च । आकारश्चार्थे । संतं विद्यमानं वीतं कांतमश्रितं प्राणिभिर्वाहभयादसेवितं । दुरासदमित्यर्थः । चित्रं चायनीयं गुहा गुहायां
+> हितं निहितं सुवेदं सुविज्ञानं सुधनं वा कूचिदर्थिनं क्वापि हविष्यर्थिनं समिदाज्यपुरोडाशादि हविः स्वीकुर्वंतं ॥ क्वेत्यत्र वकारस्य छंदसे संप्रसारणे परपूर्वत्वे च हल इति दीर्घत्वं ॥ एवंभूतमग्निं निषेदिग इति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+शश्वतीषु (*śaśvatīṣu*) means many; in the many mothers (मातृषु (*mātṛṣu*)), the waters—they are called mothers because they produce plants and the like. And in the forest (वने (*vane*)), in the groups of trees; the आ (*ā*) has the sense of "and". Agni is existing (संतं (*saṃtaṃ*)), desirable (वीतं (*vītaṃ*)), not resorted to (अश्रितं (*aśritaṃ*)) by creatures through fear of burning, that is, hard to approach.**NOTE** He is wonderful (चित्रं (*citraṃ*), चायनीयं (*cāyanīyaṃ*)), placed in a cave (गुहा हितं (*guhā hitaṃ*)), easily known (सुवेदं (*suvedaṃ*)) or of good wealth, desiring (अर्थिनं (*arthinaṃ*)) an oblation anywhere (कूचित् (*kūcit*)), accepting oblations such as kindling-sticks, ghee and cake. Such an Agni "they have seated"—this is connected with the preceding verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शश्वतीषु (*śaśvatīṣu*)—of many kinds
+- मातृषु (*mātṛṣu*)—in the waters that have the form of mothers
+- वने आ (*vane ā*)—and in groups of trees
+- संतं (*saṃtaṃ*)—the one who is hidden
+- वीतं (*vītaṃ*)—the attractive one
+- अश्रितं (*aśritaṃ*)—one served (by all) (or one who cannot be approached)
+- चित्रं (*citraṃ*)—the one of charming form
+- गुहा (*guhā*)—in a cave
+- हितं (*hitaṃ*)—placed
+- सुवेदं (*suvedaṃ*)—the one of excellent wealth
+- कूचिदर्थिनं (*kūcidarthinaṃ*)—the one who accepts oblations, that is, Agni (the priests and others have established)
+
+### Printed p. 848
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is hidden in the waters that stand in the place of mothers and in trees, who is attractive, served by all, of charming form, placed in a cave, of excellent wealth, who accepts oblations, the priests and others have established.
+
+##### English translation (H. H. Wilson)
+Him, abiding in the maternal (water) and in the woods, loved, yet unapproached, wonderful, hidden in a cave, endowed with knowledge, seeking (oblations) from any quarter.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒सस्य॒ यद्वियु॑ता॒ सस्मि॒न्नूध॑न्नृ॒तस्य॒ धाम॑न्र॒णयं॑त दे॒वाः ।  
+> म॒हा अ॒ग्निर्नम॑सा रा॒तह॑व्यो॒ वेर॑ध्व॒राय॒ सद॒मिदृ॒तावा॑ ॥
+
+> *sasasya yadviyutā sasminnūdhannṛtasya dhāmanraṇayaṃta devāḥ |*  
+> *mahā agnirnamasā rātahavyo veradhvarāya sadamidṛtāvā ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ससस्य । यत् । वियुता । सस्मिन् । ऊधन् । ऋतस्य । धामन् । रणयंत । देवाः ।  
+> महान् । अग्निः । नमसा । रातहव्यः । वेः । अध्वराय । सदं । इत् । ऋतवा ॥७॥
+
+> *sasasya | yat | viyutā | sasmin | ūdhan | ṛtasya | dhāman | raṇayaṃta | devāḥ |*  
+> *mahān | agniḥ | namasā | rātahavyaḥ | veḥ | adhvarāya | sadaṃ | it | ṛtavā ‖7‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातरनुवाकाश्विनशस्त्रयोस्त्रैष्टुभे छंदसि ससस्य यद्वियुतेत्याद्याः पंचर्चः । सूत्रितं च । ससस्य यद्वियुतेति पंच । आ. ४-१३ । इति ॥
+> यद्यमग्निं देवाः स्तोतारः ससस्य स्वप्नस्य वियुता वियुते वियोगे ।
+> उषसीत्यर्थः। ऋतस्योदकस्य धामन् धामनि स्थाने सस्मिन् सर्वस्मिन्नूधन्नूधनि यज्ञे
+> रणयंत । रमयंति । स्तोत्रैरिति शेषः । महान्प्रभूतो नमसा नमस्कारेण
+> रातहव्यो दत्तहविष्क ऋतावा सत्यवान् सोऽग्निः सदमित्सदैनाध्वरायाध्वरं यजमानैः कृतं यज्ञं ॥ सुपां सुपो भवंतीति व्यक्तव्यं । म. ७-१-३९ । इति वचनादत्र द्वितीयार्थे चतुर्थि ॥ वेः । वेत्ति । जानाति । यद्वा । देवा इंद्रादयः
+
+##### Gist of the bhāṣya
+
+In the Prātaranuvāka and in the Āśvina-śastra, in the triṣṭubh metre, the five Ṛks beginning ससस्य यद्वियुता (*sasasya yadviyutā*) are used; and it is stated in the sūtra: ससस्य यद्वियुतेति पंच (*sasasya yadviyuteti paṃca*) (Ā. Sū. 4-13).
+The Agni whom the gods, that is, the praisers, delight (रणयंत (*raṇayaṃta*), रमयंति (*ramayaṃti*), the words "with hymns" to be supplied) at the separation (वियुता (*viyutā*)) from sleep (ससस्य (*sasasya*)), that is, at dawn; in the place (धामन् (*dhāman*)) of water (ऋतस्य (*ṛtasya*)), in every sacrifice (सस्मिन्नूधन् (*sasminnūdhan*)). That Agni is great, to whom oblations are given with homage (नमसा (*namasā*)), truthful (ऋतावा (*ṛtāvā*)); for the sacrifice (अध्वराय (*adhvarāya*)), the sacrifice performed by the sacrificers, he always (सदमित् (*sadamit*)) वेः (*veḥ*), that is, "knows" (वेत्ति (*vetti*), जानाति (*jānāti*)). The fourth-case ending here stands in the sense of the second, by the statement quoted.
+Or else: the gods, Indra and others—
+
+### Printed p. 849
+
+> ससस्य ऋत्विग्भिः सेव्यस्य यद्यस्याग्निर्वियुता विशिष्टे सस्मिन् भजनीय ऋतस्य सत्यस्य
+> धामन् धामनि योनावूधन्नूधनि यज्ञे रणयंत । रमयंते । महान्प्रभूतो नमसा हविषा रातहव्यो दत्तहविष्क ऋताना सत्यवान् सोऽग्निरध्वराय
+> यज्ञार्थं सदमित्यदैव वेः । गंता भवति । अध्वराय यज्ञं वेः कामयते वा ॥
+
+##### Gist of the bhāṣya
+
+(Continuing the alternative:) the gods delight, in the sacrifice served by the priests, in the worshipful (भजनीय (*bhajanīya*)) place of truth (ऋतस्य सत्यस्य (*ṛtasya satyasya*)), the womb (*yonau*).**NOTE** The great Agni, to whom the oblation is given with homage, i.e. with the oblation, who is truthful, for the sake of the sacrifice, always becomes वेः (*veḥ*), a goer; or he desires the sacrifice (अध्वराय यज्ञं वेः कामयते वा (*adhvarāya yajñaṃ veḥ kāmayate vā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—which Agni
+- देवाः (*devāḥ*)—the praisers
+- ससस्य (*sasasya*)—of sleep (the state of slumber)
+- वियुता (*viyutā*)—at the time of its ending (at dawn)
+- ऋतस्य (*ṛtasya*)—of water
+- धामन् (*dhāman*)—near
+- सस्मिन् ऊधन् (*sasmin ūdhan*)—at the time of every sacrifice
+- रणयंत (*raṇayaṃta*)—they worship (such a one)
+- महान् (*mahān*)—the one of mighty form
+- नमसा (*namasā*)—with praise
+- रातहव्यः (*rātahavyaḥ*)—the one to whom the oblation is offered
+- ऋतावा (*ṛtāvā*)—the truthful one
+- अग्निः (*agniḥ*)—Agni
+- सदमित् (*sadamit*)—always
+- अध्वरस्य (*adhvarasya*)—the sacrifice
+- वेः (*veḥ*)—knows
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni whom the praisers worship at dawn, near the water, at the time of every sacrifice, that Agni, of mighty form, truthful, to whom the oblation is offered with praise, always knows the sacrifice.
+
+##### English translation (H. H. Wilson)
+Whom, when they desist from slumber, the devout propitiate in the abode of water at every sacrifice : the mighty Agni, to whom oblations are to be offered with reverence, who, truthful always, accepts the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+The use of the five Ṛks of this sūkta beginning ससस्य यद्वियुता (*sasasya yadviyutā*) is, for the triṣṭubh Ṛks, at the time of the Prātaranuvāka and of the recitation of the Āśvina-śastra mantras, as it is explained by the sūtra of the Āśvalāyana-śrauta-sūtra ससस्य यद्वियुतेति पंच (*sasasya yadviyuteti paṃca*) (Ā. 8-13).**NOTE**
+Sāyaṇa has explained this Ṛk in another way also: Indra and the other gods delight in the sacrifice that is performed by the priests and in which Agni is the principal figure. In that sacrifice the very great Agni always comes to the sacrificial ground in order to accept the oblation given by the sacrificer, and he also desires the sacrifice.
+
+### Printed p. 850
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेर॑ध्व॒रस्य॑ दू॒त्या॑नि वि॒द्वानु॒भे अं॒ता रोद॑सी संचिकि॒त्वान् ।  
+> दू॒त ई॑यसे प्र॒दिव॑ उरा॒णो वि॒दुष्ट॑रो दि॒व आ॒राध॑नानि ॥
+
+> *veradhvarasya dūtyāni vidvānubhe aṃtā rodasī saṃcikitvān |*  
+> *dūta īyase pradiva urāṇo viduṣṭaro diva ārādhanāni ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेः । अध्वरस्य । दूत्यानि । विद्वान् । उभे इति । अंतरिति । रोदसी इति । संचिकित्वान् ।  
+> दूतः । ईयसे । प्रदिवः । उराणः । विदुःतरः । दिवः । आरोधननानि ॥ ८ ॥
+
+> *veḥ | adhvarasya | dūtyāni | vidvān | ubhe iti | aṃtariti | rodasī iti | saṃcikitvān |*  
+> *dūtaḥ | īyase | pradivaḥ | urāṇaḥ | viduḥtaraḥ | divaḥ | ārodhananāni ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विद्वान् सर्वं जानानस्त्वमध्वरस्य यज्ञस्य संबंधीनि दूत्यानि
+> दूतकर्माणि वेः । वेत्सि कामयसे वा । यद्वा । वेरिति यज्ञविशेषणं । वेर्यजमानस्याभीष्टफलजनकस्याध्वरस्य यागस्य संबंधीनि दूत्यानि दूतकर्माणि विद्वान्
+> जानन् उभे रोदसी उभयो रोदस्कोर्द्यानापृथिव्योरंतर्मध्यॆ स्थितमंतरिक्षं संचिकित्वान् सम्यक् जानन् प्रदिवः पुराणः । पुराणानामेदं प्रश्नं प्रदिव
+> इति पुराणनामसु पाठात् । उराणोल्पमपि हविरुरु बहुकुर्वाणः । उराण
+> उरु कुर्वाण इति यास्केनोक्तत्वात् । विदुष्टरो विद्वत्तरो देवानां दूतस्त्वं
+> दिवः स्वर्गस्यारोधनान्यारोहणानि । आरोहणार्हाणि स्थानानीत्यर्थः । देवानां
+> हवींष्यर्पयितुमीयसे । गच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you, knowing (विद्वान् (*vidvān*)) everything, वेः (*veḥ*)—you know (वेत्सि (*vetsi*)) or desire (कामयसे (*kāmayase*)) the messenger-offices (दूत्यानि (*dūtyāni*), दूतकर्माणि (*dūtakarmāṇi*)) connected with the sacrifice (अध्वरस्य (*adhvarasya*)). Or else: वेः (*veḥ*) is an epithet of the sacrifice, the sacrifice of the sacrificer, that produces the desired fruit; knowing the messenger-offices connected with that rite, and fully knowing (संचिकित्वान् (*saṃcikitvān*)) both रोदसी (*rodasī*), heaven and earth, and the atmosphere standing between them (अंतः (*aṃtaḥ*)). प्रदिवः (*pradivaḥ*) is "ancient"—पुराणानामेदं प्रश्नं प्रदिव इति पुराणनामसु पाठात् (*purāṇānāmedaṃ praśnaṃ pradiva iti purāṇanāmasu pāṭhāt*), as it is read among the names of the ancient. उराणः (*urāṇaḥ*) is one who makes much even of a small oblation, since Yāska has said उराण उरु कुर्वाण इति (*urāṇa uru kurvāṇa iti*). विदुष्टरः (*viduṣṭaraḥ*) is more knowing. You, the messenger of the gods, go (ईयसे (*īyase*), गच्छसि (*gacchasi*)) to offer the oblations to the gods, to the ascents (आरोधनानि (*ārodhanāni*), *ārohaṇāni*) of heaven (दिवः (*divaḥ*)), that is, the places fit for ascending.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्वान् (*vidvān*)—(O Agni) the all-knowing one
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- दूत्यानि (*dūtyāni*)—the messenger-offices
+- वेः (*veḥ*)—knowing them
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- अंतः (*aṃtaḥ*)—and the atmosphere that lies between them
+- संचिकित्वान् (*saṃcikitvān*)—having fully known
+- प्रदिवः (*pradivaḥ*)—being ancient
+- उराणः (*urāṇaḥ*)—knowing (even a small oblation) as abundant
+- विदुष्टरः (*viduṣṭaraḥ*)—of greater knowledge
+- दूतः (*dūtaḥ*)—you who are the messenger of the gods
+- दिवः (*divaḥ*)—of the world of the gods
+- आरोधनानि (*ārodhanāni*)—the places of ascent
+- ईयसे (*īyase*)—you climb and travel
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the all-knowing, who knows the messenger-offices connected with the sacrifice, who has fully known heaven and earth and the atmosphere that lies between them, who, being most ancient, a little
+
 ---
 
-**Progress note:** Done through printed p. 843. pp. 838-843 (batch API)
+**Progress note:** Done through printed p. 850. pp. 844-850 (batch API)
