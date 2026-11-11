@@ -17761,6 +17761,147 @@ Since a leather bag filled with curds (an intoxicating liquid) is tied to his ch
 > *śāṃ | juṣasva | giraṃ | mama | vājayaṃtīṃ | ava | dhiyaṃ |*  
 > *vadhūyuḥiva | yoṣaṇāṃ ‖ 8 ‖*
 
+### Printed p. 549
+
+> हे पूषन् स्तोत्रं कुर्वाणस्य मम तां तादृशीं गिरं स्तुतिलक्षणां वाचं
+> जुषस्व । सेवस्व । स्तुत्या प्रीतस्त्वं वाजयंतीं वाजमन्नमिच्छंतीं हर्षकारिणीं
+> धियमिमां स्तुतिं प्रत्यव । अभिगच्छ । तत्र दृष्टांतः । वधूयुरिव । यथा वधूयुः
+> स्त्रीकामो योषणां स्त्रीयं प्रत्यागच्छति तद्वत् ॥ वाजयंतीं । वाजशब्दादिच्छतीत्यर्थे क्यच् । तदंताच्छतरि जीपि रूपं । जीपोऽनुदात्तत्वे प्रत्ययस्वरः । अव ।
+> अव रक्षणादिश्वित्यस्य लोटि रूपं ॥
+
+##### Gist of the bhāṣya
+
+"O Pūṣan, accept (जुषस्व (*juṣasva*), "serve") that speech of mine, of me who am praising, a speech whose nature is praise. Pleased by the praise, come towards this hymn (धियं (*dhiyaṃ*)), which seeks food (वाज (*vāja*), "food") and gives delight." The illustration is वधूयुरिव (*vadhūyuriva*): as a वधूयुः (*vadhūyuḥ*), one desirous of a woman, goes towards a woman (योषणां (*yoṣaṇāṃ*)), so Pūṣan is to come towards the praise. वाजयंतीं (*vājayaṃtīṃ*) is formed from the word वाज (*vāja*) in the sense "desires", and अव (*ava*) is the imperative of the root अव (*ava*) meaning "protect" and so on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- Hey (Pūṣa-deva)
+- मम (*mama*)—of me, who am the praiser
+- अव (*ava*) is given last; see below
+- तां गिरं (*tāṃ giraṃ*)—this speech, which has the form of praise
+- जुषस्व (*juṣasva*)—accept
+- वाजयंतीं (*vājayaṃtīṃ*)—that which procures food
+- धियं (*dhiyaṃ*)—this praise
+- योषणां (*yoṣaṇāṃ*)—towards a woman
+- वधूयुरिव (*vadhūyuriva*)—as one desirous of a woman comes
+- अव (*ava*)—come to meet
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, accept this speech of mine, the praiser, which has the form of praise. As a man desirous of a woman comes towards a woman, so come towards this delight-giving praise, which procures food.
+
+##### English translation (H. H. Wilson)
+Be pleased by this my praise, and incline to this food-supplicating
+laudation as an uxorious (husband) to his wife.
+
+##### विशेषविषयगळु (Special Topics)
+
+The two words गिरं (*giraṃ*) and धियं (*dhiyaṃ*) are synonyms for "praise" here. स्तुतयो गिरः गृणातेः (*stutayo giraḥ gṛṇāteḥ*) (Ni. 1-11): the Nirukta-writers have shown the etymology that the word गिर् (*gir*) is derived from the root गृ (*gṛ*), which means "to make a sound". To support this, they explain it by showing the example of the word गिरः (*giraḥ*), in the sense of praise, in the Ṛk तमिद्वर्थंतु नो गिरः सदावृधं (*tamidvarthaṃtu no giraḥ sadāvṛdhaṃ*) (Ṛ. Saṃ. 8-13-18). **NOTE**
+
+धियं (*dhiyaṃ*)—this word is read among the names of works (karma). **NOTE** Indeed, quoting the Ṛk महो अर्णः सरस्वती प्रचेतयति केतुना । धियो विश्वा विराजति ॥ (*maho arṇaḥ sarasvatī pracetayati ketunā | dhiyo viśvā virājati ‖*) (Ṛ. Saṃ. 1-3-12), the Nirukta-writers explain सर्वाणि प्रज्ञानानि (*sarvāṇi prajñānāni*), that is, "all our meditations (dhyāna), full of understanding"; and since praise too is meditative and rich in understanding,
+
+### Printed p. 550
+it too is denoted by the word धी (*dhī*). In some contexts the praisers, who are devoted to meditation, are also denoted by the word धी (*dhī*). In the present place धियं (*dhiyaṃ*) means "praise".
+
+The relation between Pūṣan and the praise that has the form of धी (*dhī*) is compared with the relation between a young woman and a young man. As a well-adorned, refined and beautiful woman attracts an excellent man, so a refined praise attracts Pūṣan; this simile-description is poetic. It is not rare in the Ṛk-Saṃhitā that the love between Agni and the other gods and the oblation, between the praises and the gods, and between Indra and Soma, is likened to the bond of love between newly youthful lovers.
+
+शये वव्रिश्चरति जिह्वयादन्रेरिह्यते युवतिं विश्वतिः सन् । (*śaye vavriścarati jihvayādanrerihyate yuvatiṃ viśvatiḥ san |*) (Ṛ. Saṃ. 10-4-4): Agni, the lord of the house and its people, embraces with his mouth of flame the young woman in the form of the oblation; or else he embraces the young woman in the form of the earth.
+
+अयं योनिश्च कृमा यं वयं ते जायेव पत्य उशती सुवासाः । (*ayaṃ yoniśca kṛmā yaṃ vayaṃ te jāyeva patya uśatī suvāsāḥ |*) (Ṛ. Saṃ. 4-3-2): O Agni, as a wife is adorned with excellent garments and ornaments and is thereby satisfied, for her husband's pleasure, so for your coming we prepare this place of sacrifice, the northern altar, well refined and make it attractive to you. In the same way the attractive relation between praise and the deity is described here as well. In places such as उक्ते वायुस्य रण्यसि (*ukte vāyusya raṇyasi*) (8-12-18) and यस्मिन्नु कानि रण्यंति विश्वानि च श्रवस्या (*yasminnu kāni raṇyaṃti viśvāni ca śravasyā*) (8-16-2), Indra and the others taking delight joined with the praises, and the praises taking delight joined with Indra and the other gods, are described in an attractive manner. Situations in which this delight and satisfaction are likened to the joy and satisfaction arising from the attractive union of newly youthful lovers are very plentiful, as in those cited above. In the present Ṛk too, explaining the same point, the praise is likened to a beautiful woman and Pūṣan to a young man so desirous of a woman. That is, the purport is that the praiser's praise is adorned and refined in such a way as to attract Pūṣan.
+
+### Printed p. 551
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ संच॒ पश्य॑ति ।  
+> स नः प्रूषाविता भुवत् ॥ ९ ॥
+
+> *yo viśvābhi vipaśyati bhuvanā saṃca paśyati |*  
+> *sa naḥ prūṣāvitā bhuvat ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । विश्वा । अभि । विपश्यति । भुवना । सं । च । पश्यति ।  
+> सः । नः । पूषा । अविता । भुवत् ॥ ९ ॥
+
+> *yaḥ | viśvā | abhi | vipaśyati | bhuvanā | saṃ | ca | paśyati |*  
+> *saḥ | naḥ | pūṣā | avitā | bhuvat ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः पूषा विश्वा भुवना सर्वाल्लोकानभि अभिमुख्येन विपश्यति विशेषेण
+> पश्यति । किंच तानि सं पश्यति तत्तद्वस्तुयाथात्म्यं सम्यक् जानाति । स तादृशः पूषा
+> देवो नोऽस्माकमविता रक्षको भुवत् । भवतु ॥ विपश्यति । यद्वृत्तयोगादनिघातः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः । तिजि चोदात्तवतीति गतेर्निघातः ।
+> पश्यति । अत्र सकर्मकत्वात्परस्मैपदं । पूर्ववदनिघातः । भवत् । भवतेर्लॆट्ट्यडागमः । भूसुवोस्तिजीति गुणप्रतिषेध उवजादेशः । निघातः ॥
+
+##### Gist of the bhāṣya
+
+The Pūṣan who looks upon (अभि विपश्यति (*abhi vipaśyati*)) all the worlds, all the regions, directly and in particular; and moreover (सं पश्यति (*saṃ paśyati*)) sees them thoroughly, that is, knows rightly the true nature of each thing: may that Pūṣan, the god, be our protector (अविता (*avitā*), "guardian"); भुवत् (*bhuvat*) means "may he be".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Pūṣa-deva
+- विश्वा (*viśvā*)—all
+- भुवना (*bhuvanā*)—worlds
+- अभि विपश्यति (*abhi vipaśyati*)—looks upon and sees (and)
+- सं पश्यति (*saṃ paśyati*)—is able to know subtly the true nature of every thing
+- सः (*saḥ*)—such
+- पूषा (*pūṣā*)—Pūṣa-deva
+- नः (*naḥ*)—to us
+- अविता (*avitā*)—as protector
+- भुवत् (*bhuvat*)—may he be
+
+##### भावार्थ (Bhāvārtha)
+
+May that Pūṣa-deva, who looks upon and sees all the worlds and who knows subtly the real nature of every thing, be our protector.
+
+##### English translation (H. H. Wilson)
+May that Pushan, who looks upon all the worlds, who thoroughly contemplates them, be our protector.
+
+##### विशेषविषयगळु (Special Topics)
+
+The very quality of seeing the whole universe, which is described as the intrinsic quality of Savitṛ and of Āditya, is described in the present Ṛk too. By the sentence विश्वा भुवना अभि विपत्यति (*viśvā bhuvanā abhi vipatyati*) **NOTE** the quality of Āditya, the eye of the world, is in effect stated; that is, it was said earlier that the epithet आफृणिः (*āphṛṇiḥ*) specifically shows the Āditya-nature in Pūṣan. By this very radiance Pūṣan has the power of looking at the whole universe.
+
+### Printed p. 552
+प्रपथे पथामजनिष्ट पूषा प्रपथे दिवः प्रपथे पृथिव्याः । उभे अभि प्रियतमे सदस्ये आ च परा च चरति प्रजानन् ॥ (*prapathe pathāmajaniṣṭa pūṣā prapathe divaḥ prapathe pṛthivyāḥ | ubhe abhi priyatame sadasye ā ca parā ca carati prajānan ‖*) (Ṛ. Saṃ. 10-17-6). The description that Pūṣan moves everywhere, watching over and protecting the paths of all the worlds, namely the path that goes to the atmosphere, the excellent path that leads to the world of heaven, and the excellent path of the earth, is itself the path of Āditya's travel through the universe. When it is said that he looks upon all such worlds, there is a repetition: अभि विपश्यति (*abhi vipaśyati*); संपश्यति (*saṃpaśyati*). For सं पश्यति (*saṃ paśyati*), तत्तद्वस्तुयाथात्मं सम्यग् जानाति (*tattadvastuyāthātmaṃ samyag jānāti*) means: he knows fully the subtle nature of those several things. Such power of right seeing is not possible for anyone but the Self of the universe; it is not to be perceived by ordinary sight. Even a knower of the truth who wishes for that power of right seeing asks only for Pūṣan's grace. Thus:
+
+हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखं । तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये । पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् । समूह तेजो यत्ते रूपं कल्याणतमं तत्ते पश्यामि ॥ (*hiraṇmayena pātreṇa satyasyāpihitaṃ mukhaṃ | tattvaṃ pūṣannapāvṛṇu satyadharmāya dṛṣṭaye | pūṣannekarṣe yama sūrya prājāpatya vyūha raśmīn | samūha tejo yatte rūpaṃ kalyāṇatamaṃ tatte paśyāmi ‖*) (Bṛ. U. 5-15-1,2). Brahman, whose nature is truth, is covered by the disc whose form is light. O Pūṣan, I too, who am devoted to the truth (satya-dharma), ask you to remove this covering so that I may see it. O Pūṣan, you alone are the sage of the nature of truth! The Āditya, the eye of the world, is Prājāpatya. With the help of all your radiance, gather together all the truths. Grant the power to know all the truths. In this way Pūṣan, who is thus prayed to, is indeed the deity who sets forth the Āditya-principle. The seeing power of Savitṛ of such Āditya-form is shown by the sentences अभि विपश्यति (*abhi vipaśyati*), संपश्यति (*saṃpaśyati*). The prayer of the next mantra is to obtain the power of knowing the divine form of this greatly eminent Savitṛ.
+
+### Printed p. 553
+**Introduction to the Gāyatrī great mantra**
+
+The name Gāyatrī is well known for the tenth Ṛk of this sūkta, तत्सवितुर्वरेण्यं (*tatsaviturvareṇyaṃ*). This Ṛk is read in all three Vedas: in the Ṛgveda at 3-62-10; in the Sāmaveda at 1462; in the Vājasaneyi-Saṃhitā (Śukla Yajurveda) at 3-35; 22-9; 30-2; 36-3; in the Taittirīya-Saṃhitā (Kṛṣṇa Yajurveda) at 1-5-6-4; 4-1-11-1; and in the Taittirīya-Āraṇyaka at 1-11-2. In these places this Gāyatrī mantra is read. Further, except for the Yajurveda, which is largely prose, the other three Vedas, the Ṛgveda, Sāmaveda and Atharvaṇa, all begin with Ṛks in the Gāyatrī metre. **NOTE**
+
+Although in general this is the name of a metre with three pādas of eight syllables each, it has become customary to call this very Ṛk "the Gāyatrī" among all the mantras of this metre. Since the word गायत्रि (*gāyatri*) is derived from the root गै (*gai*) (to sing), the word means a Ṛk suited for singing. Therefore the greater part of the Sāmaveda, which is recited in the form of song, consists of Ṛks of the Gāyatrī metre taken from the Ṛgveda. As said in Ṛ. Saṃ. 1-10-1, the sentence गायंति त्वा गायत्रिणः (*gāyaṃti tvā gāyatriṇaḥ*) means: O Indra, the officiating priests, such as the Udgātṛ, who sing with mantras of the Gāyatrī metre, praise you with Sāma mantras and sing.
+
+As the Ṛgveda has the first (chief) place among the Vedas, the Gāyatrī metre has the first place among the metres. And as the Brāhmaṇa has the foremost place among the three classes, Brāhmaṇa, Kṣatriya and Vaiśya, so the Gāyatrī has the foremost place among the metres. Therefore in the Taittirīya Brāhmaṇa of the Yajurveda:
+
+गायत्रीभिर्ब्राह्मणस्यादध्यात् । गायत्रछंदा वै ब्राह्मणः । स्वस्य छंदसः प्रत्ययनस्त्वाय । (*gāyatrībhirbrāhmaṇasyādadhyāt | gāyatrachaṃdā vai brāhmaṇaḥ | svasya chaṃdasaḥ pratyayanastvāya |*)
+त्रिष्टुग्भी राजन्यस्य । त्रिष्टुप्छंदा वै राजन्यः । स्वस्य छंदसः प्रत्ययनस्त्वाय । (*triṣṭugbhī rājanyasya | triṣṭupchaṃdā vai rājanyaḥ | svasya chaṃdasaḥ pratyayanastvāya |*)
+जगतीभिर्वैश्यस्य । जगतीछंदा वै वैश्यः । स्वस्य छंदसः प्रत्ययनस्त्वाय । (*jagatībhirvaiśyasya | jagatīchaṃdā vai vaiśyaḥ | svasya chaṃdasaḥ pratyayanastvāya |*)
+(Tai. Brā. 1-1-9-6, 7)
+
+So it is said. That is, in the ādhāna rite (ādhāna means newly establishing the sacrificial fire) and in the other sacrificial rites the Brāhmaṇa should perform the proceedings with mantras of the Gāyatrī metre alone. For it is said that the Gāyatrī metre is the Brāhmaṇa's own metre; and
+
+### Printed p. 554
+likewise the Kṣatriya (the king) should perform the proceedings at sacrifices and the like with mantras of his own metre, the Triṣṭubh, and the Vaiśya with mantras of his own metre, the Jagatī. Not only this, but in the chief acts performed in sacrifices the rite is to be performed first with mantras of the Gāyatrī metre. Thus:
+
+गायत्रीरन्वाह गायत्रं वै प्रातस्सवनं (*gāyatrīranvāha gāyatraṃ vai prātassavanaṃ*) (Ai. Brā. 28-9)
+त्रैष्टुभं वै माध्यंदिनं सवनं (*traiṣṭubhaṃ vai mādhyaṃdinaṃ savanaṃ*) (Ai. Brā. 28-10)
+जागतं वै तृतीयसवनं (*jāgataṃ vai tṛtīyasavanaṃ*) (Ai. Brā. 28-15)
+
+So it is said in the Aitareya Brāhmaṇa. That is, the chief ritual parts of the sacrifice are the three savanas: the morning pressing, the midday pressing and the third pressing. Savana is the particular rite of crushing the soma plants with stones and squeezing out the juice. It must be done with mantras and as prescribed. Therefore in the morning-pressing rite performed in the morning, the act called abhiṣavaṇa, squeezing out this soma juice, is performed with mantras of the Gāyatrī metre; in the midday pressing with mantras of the Triṣṭubh metre, and in the third pressing with mantras of the Jagatī metre. Therefore, among the chief acts to be performed in a sacrifice, the mantras of the Gāyatrī metre have the pre-eminence. And if we examine the relation between deities and metres, it is said that the Gāyatrī metre is dear to Agni, the Triṣṭubh to Indra, and the Jagatī to the Viśve-devāḥ.
+
+Since it is said अष्टाक्षरा गायत्री । गायत्री ब्रह्मवर्चसं (*aṣṭākṣarā gāyatrī | gāyatrī brahmavarcasaṃ*) (Śai. Brā. 2-3-3-9) **NOTE** and so on, if the Brāhmaṇa performs rites with mantras of the Gāyatrī metre he becomes endowed with Brahmanical lustre. If the king (Kṣatriya) does so with mantras of the Triṣṭubh metre, he obtains vigour, strength and fame. If the Vaiśya does so with mantras of the Jagatī metre, he obtains wealth of cattle, riches, prosperity and the like. This is said in many places in the Yajurveda.
+
+Further, for all the 114 sūktas in the ninth maṇḍala of the Ṛgveda, Soma, called Pavamāna Soma, is the deity. But the first 67 sūktas of this maṇḍala are in the Gāyatrī metre. All these were seen by various seers. Known as the Pavamāna sūktas, they have received great pre-eminence from the time of the Vedas. Their importance and glory are described there itself:
+
+यः पावमानीरध्येति .... .... .... सर्वं स पूतमश्नाति । (*yaḥ pāvamānīradhyeti .... .... .... sarvaṃ sa pūtamaśnāti |*)
+पावमानीयो अध्येति .... .... .... । (*pāvamānīyo adhyeti .... .... .... |*)
+तस्मै सरस्वती दुहे क्षीरं सर्पिर्मधूदकं । (*tasmai sarasvatī duhe kṣīraṃ sarpirmadhūdakaṃ |*)
+(Ṛ. Saṃ. 9-67-31, 32)
+
 ---
 
-**Progress note:** Done through printed p. 548. pp. 543-548 (batch API)
+**Progress note:** Done through printed p. 554. pp. 549-554 (batch API)
