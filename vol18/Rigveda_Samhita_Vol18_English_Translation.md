@@ -25495,6 +25495,221 @@ The streams of ghee turn toward and bend down to this Agni, as like-minded women
 
 As wives, auspicious in form, smiling-faced and of corresponding mind, embrace their husbands, so the streams of ghee join Agni as if embracing him. Making Agni blaze, they pervade him. Agni, who is Jātavedas, serving those streams, accepts them.
 
+### Printed p. 661
+
+##### English translation (H. H. Wilson)
+The streams of Ghi incline to Agni as devoted wives, auspicious and smiling, to a husband : they feed (the flame) like fuel, and Jatavedas, propitiated, accepts them.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an explanation of this Ṛk:
+अभिनमंत समनस इव योषाः । समनं समननाद्वा संमाननाद्वा । कल्याण्यः स्मयमानासो अग्निमित्यौपमिकं । धृतस्य धारा उदकस्य धाराः समिधो नसंत । नसतिराप्नोतिकर्मा वा नमतिकर्मा वा । ता जुषाणो हर्यति जातवेदाः । हर्यतिः प्रेप्पाकर्मा विहयतीति ॥ (*abhinamaṃta samanasa iva yoṣāḥ | samanaṃ samananādvā saṃmānanādvā | kalyāṇyaḥ smayamānāso agnimityaupamikaṃ | dhṛtasya dhārā udakasya dhārāḥ samidho nasaṃta | nasatirāpnotikarmā vā namatikarmā vā | tā juṣāṇo haryati jātavedāḥ | haryatiḥ preppākarmā vihayatīti ‖*) (Ni. 7-12).
+If one man has many wives, all of them show an equal mind (affection) toward their one husband. The word समनं (*samanaṃ*) means "those of one kind of mind". For it is understood that all of them, living in one place, breathe (by inhalation and exhalation) the air of that one place; or else that all of them think in one way (about their one husband). That is, it means: as many women whose minds are fixed on one man behave, so (the streams behave). कल्याण्यः (*kalyāṇyaḥ*) means endowed with beauty and youth and possessed of good qualities; स्मयमानासः (*smayamānāsaḥ*) means those who wear a gentle smile. Here a simile is indicated in regard to Agni. As the many wives of one man are of one mind toward their husband, and, endowed with beauty and youth, of good qualities and smiling (with a faint smile), approach their lord and husband in humility, so the streams of water in the atmosphere descend and approach the lightning fire (or the धृत (*dhṛta*), that is the streams of ājya, at the time of the homa approach the terrestrial fire or sacrificial fire). And they become one with that Agni. The root नसति (*nasati*) has the sense of reaching or bending. Agni (the lightning fire of the middle region, or the terrestrial fire), served by these streams of water or of ghee, obtains delight (satisfaction). The root हर्यति (*haryati*) means to desire to obtain again and again. The sense is that Agni longs for the streams of ghee again and again.
+
+### Printed p. 662
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒न्या॑ इव वह॒तुमेत॒वा उ॑ अं॒ज्यं॑जा॒ना अ॒भि चा॑कशीमि ।  
+> यत्र॒ सोमः॑ सू॒यते॒ यत्र॑ य॒ज्ञो घृ॒तस्य॒ धारा॑ अ॒भि  ॑
+> तत्पवंते ॥ ९ ॥
+
+> *kanyā iva vahatumetavā u aṃjyaṃjānā abhi cākaśīmi |*  
+> *yatra somaḥ sūyate yatra yajño ghṛtasya dhārā abhi*  
+> *tatpavaṃte ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कन्याः इव । वहतुं । एतवै । ऊं इति । अंजि । अंजानाः । अभि । चाकशीमि ।  
+> यत्र । सोमः । सूयते । यत्र । यज्ञः । धृतस्य । धाराः । अभि । तत् । पवंते ॥
+
+> *kanyāḥ iva | vahatuṃ | etavai | ūṃ iti | aṃji | aṃjānāḥ | abhi | cākaśīmi |*  
+> *yatra | somaḥ | sūyate | yatra | yajñaḥ | dhṛtasya | dhārāḥ | abhi | tat | pavaṃte ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कन्या इवानूढा बालिका इव । ता यथा वहतुमुद्वाहं प्राप्तमेतवा उ
+> एतुं पतिं गंतुमंज्यंजकमाभरणं तेजो वांजाना व्यंजयंत्यः । एवंकुर्वत्यः
+> कन्या इव स्वभर्तृभूतमाध्वरं वैद्युतं नाग्निमादित्यं ना वहतुमेतुमंजि व्यंजकं
+> तदीयं रूपमंजाना व्यंजयंतीर्घृतस्य धारा अभि चाकशीमि । अभिपश्यामि ।
+> फृतेनोदकेन च भौमस्य वैद्युतस्य चाग्नेः प्रज्वलनं प्रसिद्धं । किंच ता धाराः
+> सोमः सूयते यत्र यत्र चेतरो यज्ञ स्वायते तत्तं यज्ञ मभिलक्ष्य पवंते ।
+> गच्छंति खलु ॥
+
+##### Gist of the bhāṣya
+
+कन्या इव (*kanyā iva*) means like unmarried girls. As they, when the time of marriage (वहतुं (*vahatuṃ*)) has come, go to their husband, making themselves manifest (अंजानाः (*aṃjānāḥ*)) by ornament, the anointing substance, or by lustre, so, acting thus like maidens, the streams of ghee manifest the form of the lightning fire, the Āditya or the other, which is their own lord, as they go to him; "I look upon (अभि चाकशीमि (*abhi cākaśīmi*)) those streams of ghee." It is well known that the earthly fire and the lightning fire are kindled by ghee and by water. Moreover, those streams, wherever Soma is pressed and wherever any other sacrifice is performed, flow toward that sacrifice. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वहतुं (*vahatuṃ*)—for the purpose of marriage
+- एतवै (*etavai*)—to set out
+- अंजि (*aṃji*)—with unguent and ornaments
+- अंजानाः (*aṃjānāḥ*)—adorned
+- कन्या इव (*kanyā iva*)—attractive like maidens
+- घृतस्य धाराः (*ghṛtasya dhārāḥ*)—the streams of ghee
+- यत्र (*yatra*)—where
+- सोमः (*somaḥ*)—Soma
+- सूयते (*sūyate*)—is pressed
+- यत्र (*yatra*)—where
+- यज्ञः (*yajñaḥ*)—the sacrifice
+- तत् (*tat*)—that sacrificial fire
+- अभि पवंते (*abhi pavaṃte*)—go and join
+- अभि चाकशीमि (*abhi cākaśīmi*)—I meditate on (such streams)
+
+##### भावार्थ (Bhāvārtha)
+
+The streams of ghee, attractive like maidens adorned with unguent and ornaments to set out for marriage, go and join the sacrificial fire, wherever Soma is pressed and wherever the sacrifice is performed. I meditate on such streams.
+
+### Printed p. 663
+
+##### English translation (H. H. Wilson)
+I contemplate these streams of Ghi as they flow from where the soma
+is effused, where the sacrifice (is solemnized), as maidens decorating
+themselves with unguents to go to the bridegroom.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑र्षत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त ।  
+> इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत्पवंते॥
+
+> *abhyarṣata suṣṭutiṃ gavyamājimasmāsu bhadrā draviṇāni dhatta |*  
+> *imaṃ yajñaṃ nayata devatā no ghṛtasya dhārā madhumatpavaṃte‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अर्षत । सुस्तुतिं । गव्यं । आजिं । अस्मासु । भद्रा । द्रविणानि । धत्त ।  
+> इमं । यज्ञं । नयत । देवता । नः । घृतस्य । धाराः । मधुमत् । पवंते ॥ १०॥
+
+> *abhi | arṣata | sustutiṃ | gavyaṃ | ājiṃ | asmāsu | bhadrā | draviṇāni | dhatta |*  
+> *imaṃ | yajñaṃ | nayata | devatā | naḥ | ghṛtasya | dhārāḥ | madhumat | pavaṃte ‖ 10‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीया ऋत्विजो गव्यं गोसमूहरूपं गोसंबंधिनं वाजिं
+> संघातमभ्यर्षत । अभिगच्छत । अभिगमयत ना सुष्टुतिं शोभनां स्तुतिं । अत्र
+> गोशब्देनोदकानि गावो वोच्यंते । तत्संघातोऽभिप्रेतः । अस्मासु यजमानेषु
+> भद्रा स्तुत्यानि द्रविणानि धत्त । धारयत । स्तुत्या खलु फलं लप्स्यते । किंच नोऽस्मदीयमिमं यज्ञं देवता अत्र यष्टव्यान्देवान्नयत । प्रापयत । घृतस्य धारा
+> मधुमद्यथा तथा पवंते । गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+"O my priests, drive toward (अभ्यर्षत (*abhyarṣata*), that is, go to; or cause to go) the fair praise (सुष्टुतिं (*suṣṭutiṃ*)) which is the herd of cows, or concerned with cows (गव्यं आजिं (*gavyaṃ ājiṃ*), an assemblage)." Here by the word गो (*go*) the waters are meant as cows; their assemblage is intended. "Place (धत्त (*dhatta*), that is, bring) in us, the sacrificers, good and praiseworthy riches (भद्रा द्रविणानि (*bhadrā draviṇāni*)); for by praise the fruit will be obtained. And lead this our sacrifice to the gods who are to be worshipped here. The streams of ghee flow sweetly."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै ऋत्विक्कुगळे (*èlai ṛtvikkugaḷe*))—O priests
+- गव्यं (*gavyaṃ*)—of cows
+- आजिं (*ājiṃ*)—(the cause) of the herd
+- सुष्टुतिं (*suṣṭutiṃ*)—the excellent praise
+- अभ्यर्षत (*abhyarṣata*)—recite
+- अस्मासु (*asmāsu*)—in us
+- भद्रा (*bhadrā*)—praiseworthy
+- द्रविणानि (*draviṇāni*)—riches
+- धत्त (*dhatta*)—bring and provide
+- नः (*naḥ*)—our
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice
+- देवता (*devatā*)—to the venerable gods
+- नयत (*nayata*)—lead
+- घृतस्य (*ghṛtasya*)—of ghee
+- धाराः (*dhārāḥ*)—the currents
+- मधुमत् (*madhumat*)—sweetly
+- पवंते (*pavaṃte*)—enter (Agni)
+
+### Printed p. 664
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, recite for us the praise that is the cause of a herd of cows. Bring us praiseworthy riches. Lead this our sacrifice to the venerable gods. The currents of ghee enter Agni sweetly.
+
+##### English translation (H. H. Wilson)
+(Priests) address the pious praise, (the source) of herds of cattle :
+bestow upon us auspicious riches: convey this our sacrifice to the gods,
+(whereat) the streams of Ghi with sweetness descend.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धामं॑ते॒ विश्वं॒ भुव॑न॒मधि॑ श्रि॒तमं॒तः स॑मु॒द्रे हृ॒द्य१॒ं॑स्तरायु॑षि ।  
+> अ॒पामनी॑के समि॒थे य आभृ॑त॒स्तम॑श्याम॒ मधु॑मंतं त  ॒
+> ऊर्मिं ॥ ११ ॥
+
+> *dhāmaṃte viśvaṃ bhuvanamadhi śritamaṃtaḥ samudre hṛdyaṃstarāyuṣi |*  
+> *apāmanīke samithe ya ābhṛtastamaśyāma madhumaṃtaṃ ta*  
+> *ūrmiṃ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धामन् । ते । विश्वं । भुवनं । अधि । श्रितं । अंतरिति । समुद्रे । हृदि । अंतः । आयुषि ।  
+> अपां । अनीके । संइथे । यः । आभृतः । तं । अश्याम । मधुमंतं, ते ।  
+> ऊर्मिं ॥ ११ ॥
+
+> *dhāman | te | viśvaṃ | bhuvanaṃ | adhi | śritaṃ | aṃtariti | samudre | hṛdi | aṃtaḥ | āyuṣi |*  
+> *apāṃ | anīke | saṃithe | yaḥ | ābhṛtaḥ | taṃ | aśyāma | madhumaṃtaṃ, te |*  
+> *ūrmiṃ ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धामंत इत्येषोत्तरसूक्तस्याद्या चाध्यायोत्सर्जनोपाकरणयोर्विनियुक्ते । धामन्ते विश्वमिति प्रतीकमुक्ता तदंते द्वृचाः । आ. गृ. ३-५ । इति
+> सूत्रितत्वात् ॥
+> ते त्वदीये धामन्थामनि तेजःस्थाने विश्वं भुवनमधि श्रितं । अंतः समुद्रे
+> वडवाग्नित्वेन हृद्यंतः सर्वप्राणिनां हृदये वैश्वानरत्वेनायुष्यन्ने सर्वप्राण्याहारत्वेन । यद्वा । आयुषीत्येतद्विशेषणं । जठराग्निना खल्वायुर्धार्यते ।
+
+##### Gist of the bhāṣya
+
+This Ṛk धामंते (*dhāmaṃte*) and the first Ṛk of the next sūkta are applied in the adhyāyotsarjana and the upākaraṇa rites, since it is laid down in the sūtra धामन्ते विश्वमिति प्रतीकमुक्ता तदंते द्वृचाः (*dhāmante viśvamiti pratīkamuktā tadaṃte dvṛcāḥ*) (Ā. Gṛ. 3-5). "In your (ते (*te*)) abode (धामन् (*dhāman*)), the place of radiance, the whole world rests. In the ocean (समुद्रे (*samudre*)) as the submarine fire; within the heart (हृदि अंतः (*hṛdi aṃtaḥ*)) of all living beings as Vaiśvānara; in life (आयुषि (*āyuṣi*)), that is in food, as what is eaten by all beings." Or else: आयुषि (*āyuṣi*) is a qualifier of this (the heart): for life is sustained by the digestive fire. "In the assemblage of the waters (अपामनीके (*apāmanīke*)) as the lightning fire; in battle (समिथे (*samithe*)) in the form of the fire of valour." The (धाम (*dhāma*)) thus present in all places: the wave (*ūrmiḥ*), the essence in the form of ghee or of water, which has been established (आभृतः (*ābhṛtaḥ*)) in that abode of yours — that sweet essence, endowed with sweetness, may we attain (अश्याम (*aśyāma*)). **NOTE**
+
+### Printed p. 665
+
+> अपामनीक उदकसंस्थाये वैद्युताग्नित्वेन समिथे संग्रामे च शौर्याग्निरूपेण।
+> एवं सर्वेषु स्थानेषु वर्तमानं धाम । तस्मिन्थामनि य ऊर्मिर्घृतरूप
+> उदकरूपो वा रस आभृतः स्थापितः ते त्वदीयं तं रसं मधुमंतं माधुर्योपेतमश्याम । व्याप्नुयाम ॥
+
+##### Gist of the bhāṣya
+
+(Continuing the same bhāṣya.) In the assemblage of the waters it is present as the lightning fire; in battle as the fire of valour. Thus the abode is present in all places. In that abode the wave (*ūrmiḥ*), the essence in the form of ghee or of water, has been established; that essence of yours, endowed with sweetness, may we attain, that is, pervade.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै अग्निये (*èlai agniye*))—O Agni
+- अंतः समुद्रे (*aṃtaḥ samudre*)—even though you are in the midst of the ocean in the form of the submarine fire
+- हृद्यंतः (*hṛdyaṃtaḥ*)—even though in the depth of the heart in the form of Vaiśvānara
+- आयुषि (*āyuṣi*)—even though in the form of food you are like life to all
+- अपामनीके (*apāmanīke*)—even though in the water in the form of the lightning fire
+- समिधे (*samidhe*)—even though on the field of battle in the form of the fire of valour
+- ते (*te*)—your
+- धामन् (*dhāman*)—in the place that is of the nature of radiance
+- विश्वं भुवनं (*viśvaṃ bhuvanaṃ*)—the whole world
+- आधि श्रितं (*ādhi śritaṃ*)—finds refuge
+- ते (*te*)—your
+- यः (*yaḥ*)—which essence, in the form of ghee
+- आभृतः (*ābhṛtaḥ*)—is established in you
+- तं (*taṃ*)—such
+- मधुमंतं (*madhumaṃtaṃ*)—and sweet
+- ऊर्मि० (*ūrmi0*)—essence
+- अश्याम (*aśyāma*)—may we also attain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whether you are in the midst of the ocean in the form of the submarine fire, in the depth of the heart in the form of Vaiśvānara, in the form of food, in the form of the digestive fire for all, or in the water in the form of the lightning fire, the whole world finds refuge in your place that is of the nature of radiance. May we also attain that sweet essence of yours, in the form of ghee, which is established in you.
+
+##### English translation (H. H. Wilson)
+The whole world, (Agni), finds an asylum in your effulgence, whether it be in the ocean, in the heart (of man), in the life (of living beings), in the assemblage of the waters, or in warfare: may we attain that sweet-flavoured wave which is established in your (essence).
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk धामंते (*dhāmaṃte*) and the Ṛk अबोध्यग्निः (*abodhyagniḥ*), the first Ṛk of the next sūkta, are to be recited and offered as homa when the first and last Ṛks of each maṇḍala are used as the principal oblation in the adhyāyotsarjana and upākaraṇa homas; this is explained by the Āśvalāyana-gṛhya-sūtra, in the sūtra धामंते इति प्रतीकमुक्ता तदंते द्वृचाः (*dhāmaṃte iti pratīkamuktā tadaṃte dvṛcāḥ*) (Ā. Gṛ. 3-5-7).
+ते धामन् विश्वं भुवनं अधि श्रितं (*te dhāman viśvaṃ bhuvanaṃ adhi śritaṃ*)—त्वदीये धामनि तेजःस्थाने विश्वं भुवन अधि श्रितं (*tvadīye dhāmani tejaḥsthāne viśvaṃ bhuvana adhi śritaṃ*). O Agni, in your own place, characterised by radiance, the whole world, that is all the worlds, is established. That is, the sense is that you pervade the entire world with your unique radiance.
+
+### Printed p. 666
+समुद्रे हृदि अंतः आयुषि (*samudre hṛdi aṃtaḥ āyuṣi*)—It has been said in the previous sentence that Agni pervades the entire world. How that is so, is explained here in detail. समुद्रे वडवा ग्नित्वेन । हृद्यंतः सर्वप्राणिनां हृदये वैश्वानरत्वेन । आयुषि अन्ने सर्वप्राण्याहारत्वेन यद्वा आयुषीत्येतत् हृद्विशेषणं जठराग्निना खल्वायुः धार्यते । अपा मनीके उदकसंस्कृत्याये वैद्युताग्नित्वेन । समिधे संग्रामे शौर्याग्नित्वरूपेण । (*samudre vaḍavā gnitvena | hṛdyaṃtaḥ sarvaprāṇināṃ hṛdaye vaiśvānaratvena | āyuṣi anne sarvaprāṇyāhāratvena yadvā āyuṣītyetat hṛdviśeṣaṇaṃ jaṭharāgninā khalvāyuḥ dhāryate | apā manīke udakasaṃskṛtyāye vaidyutāgnitvena | samidhe saṃgrāme śauryāgnitvarūpeṇa |*). This Agni pervades various regions in various forms. He is in the ocean in the form of the submarine fire; he is in the heart of living beings in the form of the Vaiśvānara fire. Or else, he is in the belly of living beings, digesting their food and so on, in the form of the digestive fire, and is the cause of the increase of life of living beings. And he is in the assemblage of waters (in the clouds) in the form of the lightning fire (lightning); in battles and the like he is in the form of the fire of valour. Thus in all places Agni pervades everything with his various radiance; that is the sense.
+य आभृतस्तमश्याम मधुमंतं ते ऊर्मि० (*ya ābhṛtastamaśyāma madhumaṃtaṃ te ūrmi0*)—तस्मिन् धामनि यः ऊर्मिर्घृतरूप उदकरूपो वा रसः स्थापितः त्वदीयं तं रसं माधुर्योपेतं व्याप्पु याम । (*tasmin dhāmani yaḥ ūrmirghṛtarūpa udakarūpo vā rasaḥ sthāpitaḥ tvadīyaṃ taṃ rasaṃ mādhuryopetaṃ vyāppu yāma |*). O Agni, may we obtain that sweet essence (ghee or water), of the nature of ghee or of the nature of water, which is established in your mass of radiance pervading all places. Here it is stated that the essence is of two kinds, of the nature of ghee or of water. The essence that is established in (joins) the terrestrial fire or the sacrificial fire is to be understood as ghee; the essence that is established in the lightning fire, as water.
+The concluding verses of the Fourth Maṇḍala: इत्थं श्रीबुक्कभूपालसाम्राज्यैकधुरंधरः । विद्यातीर्थगुरोर्दृष्टा प्राप्तसार्वज्ञ्यवैभवः ॥ श्रीमत्सायणमंत्रिशः सकलागमतत्त्ववित् । दाशतय्यां माधवीये वेदार्थस्य प्रकाशने ॥ चतुर्थं मंडलं सम्यक् वामदेवेन वीक्षितं । अष्टोत्तरैस्तु पंचाशत्तूकैः पंच शतैरपि ॥ एकोनया नवत्या च युक्तैर्मंत्रैश्च संमितं । व्याकार्षित्सुखबोधार्थं पश्यतैतद्विमत्सराः ॥ (*itthaṃ śrībukkabhūpālasāmrājyaikadhuraṃdharaḥ | vidyātīrthagurordṛṣṭā prāptasārvajñyavaibhavaḥ ‖ śrīmatsāyaṇamaṃtriśaḥ sakalāgamatattvavit | dāśatayyāṃ mādhavīye vedārthasya prakāśane ‖ caturthaṃ maṃḍalaṃ samyak vāmadevena vīkṣitaṃ | aṣṭottaraistu paṃcāśattūkaiḥ paṃca śatairapi ‖ ekonayā navatyā ca yuktairmaṃtraiśca saṃmitaṃ | vyākārṣitsukhabodhārthaṃ paśyataitadvimatsarāḥ ‖*) ॥ इति चतुर्थं मंडलं समाप्तं ॥ (*‖ iti caturthaṃ maṃḍalaṃ samāptaṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 660. pp. 655-660 (batch API)
+**Progress note:** Done through printed p. 666. pp. 661-666 (batch API)
