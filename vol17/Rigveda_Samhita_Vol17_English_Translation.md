@@ -1316,6 +1316,303 @@ Come, Indra, to this our effused Soma juice mixed with milk and curds, with your
 > *taṃ | iṃdra | madaṃ | ā | gahi | barhiḥsthāṃ | grāvabhiḥ | sutaṃ |*  
 > *kuvit | nu | asya | tṛpnavaḥ ‖ 2 ‖*
 
+### Printed p. 39
+#### Ṛk 2
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ग्रावभिः सुतमभिषुतं बर्हिष्ठां बर्हिषि स्थितं मदं । मद्यतेऽनेनेति मदः सोमः । तमिमं सोममा गहि । आगच्छ । कुवित्प्रभूतं यथा भवति
+> तथास्य सोमस्य पाने नु क्षिप्रं तृप्नवः । तृप्तो भव ॥ मदं । मदी हर्षे ।
+> मदोनुपसर्ग इत्यप्पत्ययः । तस्य पित्वादनुदात्तत्वे धातुस्वरः । बर्हिष्ठां ।
+> ष्ठा गतिनिवृत्तौ । क्विप् । संहितायां पूर्वपदसकारस्यादेशप्रत्यययोरिति षत्वं ।
+> ष्टुत्वं । कृदुत्तरपदस्वरः । तृप्नवः । तृप प्रीणन इत्यस्य लेट्यडागमः । कुविद्योगादनिघातः । कुभ्नादिषु नृनमन तृप्नोतीति पठितं । तथापि सर्वविधीनां छंदसि विकल्पितत्पादत्र णत्वप्रतिषेधो न भवति । प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this Soma, pressed out with the pressing stones and lying on the sacred grass, is the exhilarating (मदं (*madaṃ*)) drink; Soma is called मदः (*madaḥ*) because by it one is gladdened. Sāyaṇa asks Indra to come to this Soma. कुवित् (*kuvit*) means "abundantly": as there is abundance, may Indra quickly (नु (*nu*)) become satisfied in drinking this Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ग्रावभिः (*grāvabhiḥ*)—by the pressing stones
+- सुतं (*sutaṃ*)—pressed out
+- बर्हिष्ठां (*barhiṣṭhāṃ*)—placed upon the darbha seats
+- मदं (*madaṃ*)—and gladdening
+- तं (*taṃ*)—this
+- Soma juice: toward it
+- आ गहि (*ā gahi*)—be pleased to come
+- कुवित् (*kuvit*)—abundant
+- अस्य (*asya*)—by drinking this juice
+- नु (*nu*)—quickly
+- तृष्णवः (*tṛṣṇavaḥ*)—attain satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be pleased to come toward this Soma juice, pressed by the pressing stones, placed upon the darbha seats and gladdening. Quickly attain satisfaction by drinking this abundant juice.
+
+##### English translation (H. H. Wilson)
+Come, Indra, to the exhilarating (Soma) expressed by the stones, and placed upon the sacred grass : drink of it to satiety, for there is plenty.
+
+##### विशेषविषयगळु (Special Topics)
+
+बर्हिष्ठां ग्रावभिः सुतं (*barhiṣṭhāṃ grāvabhiḥ sutaṃ*)—The Soma juice, crushed, pressed and filtered with stones, is placed upon the spread darbha grass called barhis. Indra is prayed to come to drink it.
+नु (*nu*)—Although the particle नु (*nu*) has many meanings, the commentator here takes the meaning क्षिप्रं (*kṣipraṃ*), "quickly", and explains accordingly.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑मि॒त्था गिरो॒ ममाच्छा॑गुरिषि॒ता इ॒तः ।  
+> आ॒वृते॒ सोम॑पीतये ॥ ३ ॥
+
+> *iṃdramitthā giro mamācchāguriṣitā itaḥ |*  
+> *āvṛte somapītaye ‖ 3 ‖*
+
+### Printed p. 40
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । इत्था । गिरः । मम । अच्छ । अगुः । इषिताः । इतः ।  
+> आवृते । सोमपीतये ॥ ३ ॥
+
+> *iṃdraṃ | itthā | giraḥ | mama | accha | aguḥ | iṣitāḥ | itaḥ |*  
+> *āvṛte | somapītaye ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इषितास्त्यदर्थं प्रेरिता इत्येत्थमनेन प्रकारेणोच्यमाना मम
+> गिरः स्तुतिलक्षणा वाच इंद्रं त्वामितोऽस्माद्देवयजनदेशादच्छागुः । अभिमुख्येन
+> गच्छंतु । किमर्थं । सोमपीतये सोमपानार्थमावृते त्वामावर्तयितुं ॥
+> इत्था । इदंशब्दात्था हेत् च छंदसीति व्यत्ययेन थाप्रत्ययः । इदम एतेत् रथोरितीदित्यादेशः । प्रत्ययस्वरः । अच्छ । अच्छ गत्यर्थवदेष्टिति गतिसंज्ञा । अगुः । इण्
+> गतावित्यस्य लुङि रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, my praises, which are impelled (इषिताः (*iṣitāḥ*)) toward you and are thus recited, are to go from this place of the sacrifice toward you, Indra, face to face. For what purpose? For drinking Soma, आवृते (*āvṛte*), that is, to bring you here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- इषुताः (*iṣutāḥ*)—impelled toward you
+- इत्था (*itthā*)—recited in this manner
+- मम (*mama*)—my
+- गिरः (*giraḥ*)—words in the form of praise
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- आवृते (*āvṛte*)—to bring you here
+- इंद्रं (*iṃdraṃ*)—you, who are Indra
+- आच्छागुः (*ācchāguḥ*)—let them set out toward
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may my words of praise, impelled toward you and recited in this manner, set out toward you, who are Indra, in order to bring you here for the drinking of Soma.
+
+##### English translation (H. H. Wilson)
+May my praises, addressed from hence and in this manner, attain
+Iudra, to bring him hither to drink the Soma juice
+
+##### विशेषविषयगळु (Special Topics)
+
+अच्छ (*accha*)—आभिमुख्येन (*ābhimukhyena*), "facing toward". Yāska, giving the derivation of the word अच्छ (*accha*), says अच्छाभेराप्तुमिति शाकपूणिः (*acchābherāptumiti śākapūṇiḥ*) (Ni. 5-28): it is the view of Śākapūṇi that the word अच्छ (*accha*) means "facing, coming to meet".
+
+### Printed p. 41
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॒ सोम॑स्य सी॒तये॒ स्तोमै॑रि॒ह ह॑वामहे ।  
+> उ॒क्थेभिः॑ कु॒विदा॒गम॑त् ॥ ४ ॥
+
+> *iṃdraṃ somasya sītaye stomairiha havāmahe |*  
+> *ukthebhiḥ kuvidāgamat ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । सोमस्य । पीतये । स्तोमैः । इह । हवामहे ।  
+> उक्केभिः । कुवित् । आगमत् ॥ ४ ॥
+
+> *iṃdraṃ | somasya | pītaye | stomaiḥ | iha | havāmahe |*  
+> *ukkebhiḥ | kuvit | āgamat ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमैस्त्रिवृत्पंचदशादिस्तोमसाध्यः सोत्रैरुक्षेभिरुक्षे शस्त्रैश्चेह
+> कर्मणि सोमस्य पीतये सोमपानार्थमिंद्रं हवामहे । वयमाह्वयामः ।
+> कविद्भुवारमाहूतः स इंद्र आगमत् । यज्ञं प्रत्यागच्छतु ॥ आगमत् । गमेर्लेट्यडागमः । आगमा अनुदात्ता इत्यटोऽनुदात्तत्वाद्धा तुस्वरः । तिजि चोदात्तवतीति
+> गतेर्निघातः । कुविद्योगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+With stotras accomplished by the trivṛt, pañcadaśa and other stomas, with ukthas, and with śastras, we invoke Indra in this rite to drink Soma. **NOTE** Invoked repeatedly (कुवित् (*kuvit*)), may that Indra come, that is, approach the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोमैः (*stomaiḥ*)—with praises in the form of stomas
+- उक्षेभिः (*ukṣebhiḥ*)—with śastras in the form of ukthas **NOTE**
+- इह (*iha*)—in this sacrifice
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for drinking
+- इंद्रं (*iṃdraṃ*)—Indra
+- हवामहे (*havāmahe*)—we invoke
+- कुपित् (*kupit*)—Indra, invoked many times **NOTE**
+- आगमत् (*āgamat*)—may he come to this place of sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+With praises in the form of stomas and with śastra-mantras in the form of ukthas **NOTE** we invoke Indra in this sacrifice to drink the Soma juice. May Indra, who is invoked many times, come to this place of sacrifice.
+
+##### English translation (H. H. Wilson)
+We invoke Indra to this rite with prayers to drink the Soma juice;
+may he, repeatedly invoked, come hither
+
+##### विशेषविषयगळु (Special Topics)
+
+कुवित् (*kuvit*)—Since the word कुवित् (*kuvit*) is read among the twelve words for "much", such as उरु (*uru*) and तुवि (*tuvi*) (Ni. 3-13), it means "many times, abundantly".
+
+### Printed p. 42
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ सोमाः॑ सु॒ता इ॒मे तान्द॑धिष्व शतक्रतो ।  
+> ज॒ठरे॑ वाजिनीवसो ॥ ५ ॥
+
+> *iṃdra somāḥ sutā ime tāndadhiṣva śatakrato |*  
+> *jaṭhare vājinīvaso ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । सोमाः । सुताः । इमे । तान् । दधिष्व । शतक्रतो इति शतक्रतो ।  
+> जठरे । वाजिनीवसो इति वाजिनीवसो ॥ ५ ॥
+
+> *iṃdra | somāḥ | sutāḥ | ime | tān | dadhiṣva | śatakrato iti śatakrato |*  
+> *jaṭhare | vājinīvaso iti vājinīvaso ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो इंद्र इमे सोमाः सुताः । ग्रावभिस्त्वदर्थमभिषुताः । हे
+> वाजिनीवसो अन्नधन । यद्वा । वाजोऽन्नमासु फलत्वेनास्तीति वाजिन्यः क्रियाः ।
+> तासां वासक हे इंद्र तान्सोमरसान् जठरे दधिष्ट । धारय ॥ वाजिनीवसो ।
+> वाजशब्दान्मत्वर्थेऽत इनिरनावितीनिप्रत्ययः । ऋन्नेभ्यो जीबिति जीप् । तासां
+> वसो । संबुद्धौ चेति गुणः । आमंत्रितत्वादाष्टमिकमनुदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Indra of a hundred acts, these Soma juices are pressed; they have been pressed out with the stones for you. O वाजिनीवसो (*vājinīvaso*), one whose wealth is food. Or else: वाज (*vāja*) is food, and वाजिन्यः (*vājinyaḥ*) are the rites which have food as their fruit; Indra is the dweller (वासक (*vāsaka*)) in them. O Indra, hold those Soma juices in your belly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O doer of many deeds of valour
+- इंद्र (*iṃdra*)—O Indra
+- इमे सोमाः (*ime somāḥ*)—these Soma juices
+- सुताः (*sutāḥ*)—are pressed
+- वाजिनीवसो (*vājinīvaso*)—O Indra, whose wealth is food
+- तान् (*tān*)—these Soma juices
+- जठरे (*jaṭhare*)—in the belly
+- दधिष्व (*dadhiṣva*)—hold
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many deeds of valour, these Soma juices have been pressed and are ready. O Indra, whose wealth is food, hold these Soma juices in your belly.
+
+##### English translation (H. H. Wilson)
+Indra, these Soma juices are poured out : take them, Shatakratu, into your stomach ; you who are rich in (abundant) food
+
+##### विशेषविषयगळु (Special Topics)
+
+शतक्रतो (*śatakrato*)—शत (*śata*) means hundreds, many; क्रतु (*kratu*) means act. The word means: O Indra, who have performed many deeds of valour.
+
+### Printed p. 43
+अन्नवे धन (*annave dhana*)… वाजिनीवसो (*vājinīvaso*)—One whose wealth is food, that is, one who has abundant food. Or else, वाज (*vāja*) means food, and वाजिनी (*vājinī*) means rites such as sacrifices that have food as their fruit. Because he dwells in such rites, that is, because he is praised in such sacrifices, Indra is named वाजिनीवसु (*vājinīvasu*). Thus the commentator explains two meanings.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्मा हि त्वा॑ धनंज॒यं वाजे॑षु दधृ॒षं क॑वे ।  
+> अथा॑ ते सु॒न्नुमी॑महे ॥ ६ ॥
+
+> *vidmā hi tvā dhanaṃjayaṃ vājeṣu dadhṛṣaṃ kave |*  
+> *athā te sunnumīmahe ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्म । हि । त्वा । धनंजयं । वाजेषु ' दधृषं । कवे ।  
+> अध । ते । सुम्मं । ईमहे ॥ ६ ॥
+
+> *vidma | hi | tvā | dhanaṃjayaṃ | vājeṣu ' dadhṛṣaṃ | kave |*  
+> *adha | te | summaṃ | īmahe ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतदर्शिन्निंद्र वाजेषु युद्धेषु दधृषं शत्रूणामभिभवितारं
+> आत एव धनंजयं । धनं जयतीति धनंजयः । तादृशं त्वा त्वां विद्म हि । जानीमः
+> खलु । अधानंतरं ते तव सुम्मं धनमीमहे । याचामहे ॥ विद्म । विदेर्लटि
+> विदो लटो वेति मसो मादेशः । पादादित्पादनिघातः । धनंजयं । जि जय इत्यस्माद्धन उपपदे संज्ञायां भृत्यवृजिधारिसहितपिदम इति खच् प्रत्ययः । अरुर्द्विपदजंतस्य मुमिति पूर्वपदस्य मुमागमः । चित्तादंतोदात्तः । दधृषं । इद्धृषा
+> प्रागल्ब इत्यस्य यज् लुक्यभ्यासस्य रीगभावश्चांदसः । तदंतात्पचाद्यचि यजोऽचि
+> चेति यजो लुक् । लघूपधगुणे प्राप्ते न धातुलोप इति तस्य प्रतिषेधः ।
+> चित्तादंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O far-seeing (कवे (*kave*)) Indra, in battles (वाजेषु (*vājeṣu*)) you overcome enemies, and therefore you are धनंजयं (*dhanaṃjayaṃ*), "winner of wealth", one who wins wealth. We know you to be such. Thereafter we ask, beg, for सुम्मं (*summaṃ*), your wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O far-seeing Indra
+- वाजेषु (*vājeṣu*)—in battles
+- त्वा (*tvā*)—you
+- दधृषं (*dadhṛṣaṃ*)—as the destroyer of enemies
+- धनंजयं (*dhanaṃjayaṃ*)—and as the gatherer of the enemies' wealth
+- विद्म हि (*vidma hi*)—we indeed know
+- अध (*adha*)—therefore
+- ते (*te*)—your (from you)
+- सुम्नं (*sumnaṃ*)—wealth (happiness) **NOTE**
+- ईमहे (*īmahe*)—we pray for
+
+### Printed p. 44
+
+##### भावार्थ (Bhāvārtha)
+
+O far-seeing Indra, in battles we know you indeed as the destroyer of enemies and the gatherer of the enemies' wealth. Therefore we pray for your wealth.
+
+##### English translation (H. H. Wilson)
+Far-seeing Indra, we know you to be victorious and winner of wealth
+in battles: therefore we ask of you riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the final letters of the words विद्म (*vidma*) and अध (*adha*) are long in the Saṃhitā-pāṭha for the convenience of the metre.
+वाजेषु दधृषं (*vājeṣu dadhṛṣaṃ*)—The word वाजः (*vājaḥ*) is read among the names of food (Ni. 3-9) and also among the names of battle (Ni. 3-9). Here the commentator takes the meaning battle or war, and explains: one who overcomes enemies in battles.
+धनंजयं (*dhanaṃjayaṃ*)—Indra, who defeats enemies in battles and wins their wealth.
+सुम्मं (*summaṃ*)—Since the word सुम्मं (*summaṃ*) is read among the names of happiness (Ni. 3-13), it means happiness.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मिं॑द्र॒ गवा॑शिरं॒ यवा॑शिरं च नः पिब ।  
+> आ॒गत्या॒ वृष॑भिः सु॒तं ॥ ७ ॥
+
+> *imiṃdra gavāśiraṃ yavāśiraṃ ca naḥ piba |*  
+> *āgatyā vṛṣabhiḥ sutaṃ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । इंद्र । गोऽआशिरं । यवऽआशिरं । च । नः । पिब ।  
+> आगत्य । वृषभिः । सुतं ॥ ७ ॥
+
+> *imaṃ | iṃdra | go 'āśiraṃ | yava 'āśiraṃ | ca | naḥ | piba |*  
+> *āgatya | vṛṣabhiḥ | sutaṃ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र गवाशिरं गव्यमिश्रणोपेतं सोमं तथा यवाशिरं यवमिश्रणोपेतं वृषभिग्रावभिः सुतमभिषुतं नोऽस्मदीयमिमं सोमं देवयजनमागत्य
+> पिब ॥ गवाशिरं यवाशिरमित्यत्र आज् पूर्वस्य श्रीणातेः क्विप्यपस्पृधेथा मान्यचुरित्यादिनाशिरित्यादेशः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come to the place of sacrifice and drink this Soma of ours, which is गवाशिरं (*gavāśiraṃ*), mixed with milk products, and यवाशिरं (*yavāśiraṃ*), mixed with barley, pressed out with the stones. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 38. pp. 33-38 (batch API, retry 1)
+**Progress note:** Done through printed p. 44. pp. 39-44 (batch API)
