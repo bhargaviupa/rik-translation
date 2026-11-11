@@ -8445,6 +8445,132 @@ The word अग्रुवः (*agruvaḥ*) is used in nine contexts in the Ṛ
 - Ṛ. Saṃ. 3-29-13. दश स्वसारो आग्रुवः (*daśa svasāro āgruvaḥ*)—दशांगुलयः (*daśāṃgulayaḥ*)
 - Ṛ. Saṃ. 4-19-7. प्राग्रुवो नभन्वः (*prāgruvo nabhanvaḥ*)—अग्रगामिनीः नदीः (*agragāminīḥ nadīḥ*)
 
+### Printed p. 235
+The remaining entries of the list of occurrences of the word Agruvaḥ continue, with Sāyaṇa's glosses:
+
+- Ṛ. Saṃ. 4-19-9. वम्राभिः पुत्रमग्रुवः (*vamrābhiḥ putramagruvaḥ*)—अग्रू नाम काचित् । तस्याः पुत्रं (*agrū nāma kācit | tasyāḥ putraṃ*)
+- Ṛ. Saṃ. 4-30-16. पुत्रमग्रुवः परावृक्तं (*putramagruvaḥ parāvṛktaṃ*)—एतन्नाम्न्याः पुत्रं (*etannāmnyāḥ putraṃ*)
+- Ṛ. Saṃ. 7-2-5. समग्रुवो न समनेषु (*samagruvo na samaneṣu*)—नद्यः (*nadyaḥ*)
+- Ṛ. Saṃ. 9-1-8. तमीं हिन्वंत्यग्रुवः (*tamīṃ hinvaṃtyagruvaḥ*)—अंगुलयः (*aṃgulayaḥ*)
+- Ṛ. Saṃ. 9-66-9. मृजंति त्वा समग्रुवः (*mṛjaṃti tvā samagruvaḥ*)—अंगुलयः (*aṃgulayaḥ*)
+
+Thus, except in these two occurrences, 4-19-9 and 4-30-16, in all the other places the explanation given is that the name Āgruvaḥ arises from the "forward-going" nature. This nature belongs both to the fingers and to rivers. Since they go ahead and are intent on the work of offering the oblation in sacrificial acts, the fingers become "forward-goers"; since they flow ahead in your region, the rivers too become so. This is the explanation Sāyaṇa gives in the respective contexts. Besides, in वेत्यगुर्जनिवान् (*vetyagurjanivān*) the word āgru is an epithet of the Sun; but the explanation of that word is not relevant now.
+
+Apart from Sāyaṇa's own sentences in the two places mentioned, neither the Saṃhitās nor the Brāhmaṇas etc. contain any account or mention of a person named Agrū. So, in the sentence अग्रुवः पुत्रं परावृक्तं (*agruvaḥ putraṃ parāvṛktaṃ*), whether some meaning other than "the son of a woman named Agrū" is possible may be examined on the basis of Vedic texts. In this context one must explain what the words agruvaḥ and parāvṛktam, and the word vamrī of Ṛ. Saṃ. 4-19-9 quoted by Sāyaṇa, may signify.
+
+The root vṛj combined with the prefix parā means to abandon, push away, or send back. For example:
+
+स ईं वृषा न फेनमस्यदाजौ स्मदा परैदप दभ्रचेताः । सरत्पदा न दक्षिणा परावृज् न ता नु मे पृशन्यो जगृभ्रे ॥ (*sa īṃ vṛṣā na phenamasyadājau smadā paraidapa dabhracetāḥ | saratpadā na dakṣiṇā parāvṛj na tā nu me pṛśanyo jagṛbhre ‖*)
+(Ṛ. Saṃ. 10-61-8)
+
+Here Nābhānediṣṭha's statement is that, having abandoned (or returned) the cows given as sacrificial fee, he did not set a step forward. As the word parāvṛj is understood there as "one who sends away", one must examine whether the same is possible in the present mantra. In other places too where the word parāvṛj is used, this meaning is natural. For example—
+
+### Printed p. 236
+याभिः शुचीर्भिर्वृषणा परावृजं प्रांधं श्रोणं चक्षस एतवे कृथः ॥ (*yābhiḥ śucīrbhirvṛṣaṇā parāvṛjaṃ prāṃdhaṃ śroṇaṃ cakṣasa etave kṛthaḥ ‖*)
+(Ṛ. Saṃ. 1-112-8)
+
+Here the Aśvins are described as making the sage Parāvṛj, who was lame, walk straight. In the particular matter of this ṛk, after explaining Sāyaṇa's meaning of the word parāvṛj, it was shown that Skandasvāmin's explanation differs from Sāyaṇa's. Since that explanation is needed now, both explanations are examined closely.
+
+परावृजं—वृजी वर्जने ! परावृणक्ति तपसा पापं विनाशयतीति परावृक् (*parāvṛjaṃ—vṛjī varjane ! parāvṛṇakti tapasā pāpaṃ vināśayatīti parāvṛk*)
+
+Sāyaṇa states that this sage is called Parāvṛj because he removes sin by the greatness of his austerity. Skandasvāmin, however, explains parāvarjitam as "one who has been abandoned"; he does not say it is a proper name. The English commentators follow this same meaning. For example, the book Vedic Index prepared by Macdonell and Keith explains the word thus:
+
+"Paravraj is a term found in four passages of the Reg-Veda, (1-112-8; 2-13-12: 2-5-7; 10-61-8), in all of which, it refers to a person in a forlorn Condition, while one of them also speaks of him as going south. Sayana's View that the Word is a proper name is most unlikely, while Grassman's explanation of it as cripple is still less probable Roth's interpratation of it as " exile " seems clearly right in the passage."
+
+The word parāvṛj is used in the four passages mentioned above. It is not right to say, as Sāyaṇa does, that it is a proper name in all of them. One may call him an abandoned man, but to call him a person named Parāvṛj may be wrong. Hence the view is that it would not be wrong to say that in all those contexts the meaning "abandonment" or "abandoning of one's place" is natural. Other Vedic sentences also support this meaning; the contexts cited in the sentences above make it clear. One may confidently say that the meaning given in the available Skandasvāmin bhāṣya is also the one stated further on. Had the help of that bhāṣya been available for the later portions, a clear sense could have been given to many doubtful contexts. Therefore, if parāvṛj is given the meaning "abandoned", one must examine what the sense of the present mantra is, and one must understand what it means that this Parāvṛkta is the son of Agrū. To understand this, two contexts that relate Indra and Parāvṛkta must be examined: first, the beheading of Makha (the sacrifice); second, the parāvṛktatva (concealment) of Agni.
+
+### Printed p. 237
+Of these, the context of the beheading of Makha shows that Indra himself, in the form of the vamrīs, freed this Parāvṛkta from the harm of the vamrīs. And the head of Makha that Indra cut off became solar; it is indicated that Indra himself brings that same Sun back and makes him a sharer in the sacrifice. Both points are thus indicated.
+
+त्वं मखस्य दोधतः शिरोऽव त्वचो भरः । अगच्छ सोमिनो गृहं ॥ (*tvaṃ makhasya dodhataḥ śiro 'va tvaco bharaḥ | agaccha somino gṛhaṃ ‖*)
+(Ṛ. Saṃ. 10-171-2)
+
+"O Indra, you separated from its skin the head of the sacrifice, which was frightened of the gods and fled away from them, and brought it": thus the beheading of Makha, and Indra's bringing that same head back, are indicated. This head of Makha is the Sun; that Sun Indra brought back and made a sharer in the sacrifice.
+
+त्वं त्यमिंद्र सूर्यं पश्चा संतं पुरस्कृधि । देवानां चित्तिरो वशं ॥ (*tvaṃ tyamiṃdra sūryaṃ paścā saṃtaṃ puraskṛdhi | devānāṃ cittiro vaśaṃ ‖*)
+(Ṛ. Saṃ. 10-171-4)
+
+"O Indra, bring the Sun, who has gone into hiding even from the gods and is known to no one, and make him worthy of our worship": in this prayer, the point that Indra alone is able to bring back the Sun who has become parāvṛtta (hidden) is stated. But how is it that the head of the Makha beheaded above became parāvṛtta in the form of the Sun (or the Sun in the form of Agni)? And how is this Parāvṛtta the son of Āgru? These are the chief points to be understood.
+
+The context of the beheading of Makha indicated above is described in the Pañcaviṃśa Brāhmaṇa (7-5-6), the Taittirīya Āraṇyaka (5-1-1-5), the Śatapatha Brāhmaṇa (14-1-2-17) and other places. Its details were given earlier (Ṛgvedasaṃhitā Part 12, pp. 486-489), and in the same context the well-known and revered procedure named Pravargya and Gharma was explained. The head of that Viṣṇu, who is of the nature of Soma and Makha, which was cut off and became known as Pravargya, is none other than Āditya.
+
+संवत्सर विष य एष तपत्येष उ प्रवग्र्यः (*saṃvatsara viṣa ya eṣa tapatyeṣa u pravagryaḥ*)
+(Śa. Brā. 14-1-2-14)
+
+### Printed p. 238
+The Sūra (Sun) shining in the atmosphere is the Pravargya. This Sūra, in the form of Pravargya, is the one who became parāvṛkta. The Aśvins recovered this parāvṛkta Pravargya in solar form. That matter is told in Ṛ. Saṃ. 1-112-8 by the sentence याभिः शचीभिवृषणा परावृजं (*yābhiḥ śacībhivṛṣaṇā parāvṛjaṃ*): the Aśvins brought Parāvṛj back and made him worthy of worship. How this Pravargya in solar form became parāvṛkta, and how the Aśvins recovered it, was also explained earlier (Ṛgvedasaṃhitā, Part 12, pp. 486-487). As described in the Aitareya Brāhmaṇa beginning यज्ञो वै देवेभ्य उदक्रामत् (*yajño vai devebhya udakrāmat*) (Ai. Brā. 1-18), just as the parāvṛttatva of Pravarga, the head of the sacrifice, was not beneficial to the gods, so too the parāvṛttatva of Agni was not beneficial to them. Then the gods sent Indra as messenger to entreat the vanished Agni. Indra brought back Agni, the son of Agrū, and made him again a sharer in the sacrifice: this may be the matter described in the present ṛk too.
+
+अग्नेस्त्रयो ज्यायाग्ंसो भ्रातर आसन्ते देवेभ्यो हव्यं वहंतः प्रामियंत सोऽग्निरबिभेदित्थं वाव स्य आर्तिमारिष्यतीति स निलायत सोऽपः प्राविशत् । (*agnestrayo jyāyāgṃso bhrātara āsante devebhyo havyaṃ vahaṃtaḥ prāmiyaṃta so 'gnirabibheditthaṃ vāva sya ārtimāriṣyatīti sa nilāyata so 'paḥ prāviśat |*)
+(Tai. Saṃ. 2-6-1)
+
+Agni's three brothers, while carrying the oblation to the gods, became exhausted and perished. Agni, fearing that the same state might come to him, hid in the water and vanished. That is Agni's parāvṛktatva; when he was to return and take part in the sacrifice, the gods entreated him with the hymn महत्तदुल्बं स्थविरं (*mahattadulbaṃ sthaviraṃ*) (Ṛ. Saṃ. 10-51).
+
+How this Agni is the son of Āgru: since he is born of water, he became famous by the name Apāṃnapāt. आप एवेदमग्र आसुः (*āpa evedamagra āsuḥ*) (Bṛ. U. 5-5-1): since water was foremost before all principles, it is natural for water to be named Āgrū. Or else, it is well known in the Ṛksaṃhitā that rivers are named Āgrū because of their natural tendency to flow forward (Ṛ. Saṃ. 4-19-7 etc.). That Agni is the son of such an Āgru, and that Agni himself is also called Agri, was likewise stated earlier (Śa. Brā. 6-1-1-11).
+
+Thus parāvṛttatva may arise either by disappearing into another place, or, as explained above, by the chief limbs (the chief principle) disappearing through beheading and the like. Usages such as शीर्षा परा वर्क् (*śīrṣā parā vark*) (Ṛ. Saṃ. 10-8-9) support this meaning. The word is also used in the senses "rejected" and "abandoned". An abandoned
+
+### Printed p. 239
+person being made worthy of honour again by Indra is described in many places. For example—
+
+अरमयः सरपसस्तराय कं तुर्वीतये च वय्याय च स्रुतिं । नीचा संतमुदनयः परावृजं प्रांधं श्रोणं श्रवयन्तास्युक्थः ॥ (*aramayaḥ sarapasastarāya kaṃ turvītaye ca vayyāya ca srutiṃ | nīcā saṃtamudanayaḥ parāvṛjaṃ prāṃdhaṃ śroṇaṃ śravayantāsyukthaḥ ‖*)
+(Ṛ. Saṃ. 2-13-12)
+
+Here it is said that Parāvṛj, blind and lame (śoṇa), received help from Indra. The question is: who is he? Sāyaṇa calls him a sage named Parāvṛj. It was stated above that there is no reason for this to be a proper name. But here the natural questions are: what is the meaning of the word parāvṛj, and of the words andha and śoṇa? In this context it is well known that all those whom the Aśvins are said to have protected, Parāvṛj, Vaśa and others, were also protected by Indra. Just as in 1-112-8 the Aśvins protected Parāvṛj, in 1-112-10 they are said to have protected one named Vaśa. That same Vaśa is also protected by Indra. In मदंतींद्रगोपाः ॥ .... .........प्रतीची वशमश्वं (*madaṃtīṃdragopāḥ ‖ .... .........pratīcī vaśamaśvaṃ*) (Ṛ. Saṃ. 8-46-32, 33) the word vaśa denotes the Sun; in 1-112-10 too it can be understood so. But if the Āditya indicated by the word vaśa is the one denoted by the word parāvṛj, how can he be blind and lame? Epithets such as तमसा अपगूळ्भम् (*tamasā apagūḷbham*) and गुहा हितं (*guhā hitaṃ*) indicate the Āditya's blindness. Likewise the epithet अपाद् (*apād*) describes the nature of the deities Soma, Sūra and Agni. These three deities are of Makha nature; Makha is Viṣṇu. Therefore Soma, Agni, Sūra and Viṣṇu have all, in one way or another, become parāvṛkta. Indra made efforts on many occasions to make them sharers in the sacrifice. For example—
+
+निधीयमानमपगूळ्मप्पु प्र मे देवानां व्रतसा उवाच । इंद्रो विद्वा अनु हि त्वा चचक्ष तेनाहमग्ने अनुशिष्ट आगां ॥ (*nidhīyamānamapagūḷmappu pra me devānāṃ vratasā uvāca | iṃdro vidvā anu hi tvā cacakṣa tenāhamagne anuśiṣṭa āgāṃ ‖*)
+(Ṛ. Saṃ. 10-32-6)
+
+In ṛks of this kind the above point is indicated. In this mantra and in some of the mantras mentioned above, Agni, who turned away, fled and hid himself, may be what is meant. He may be the son of Āgrū: either the son of water, which goes forward, or the son of the fingers, which are intent on rites. Or this parāvṛtta one may be the Sun. This can be conjectured on the basis of the Vedic sentences quoted, but to state precisely "it is thus" is not easy.
+
+### Printed p. 240
+Saṃhitā-pāṭha
+
+> उत त्या तुर्वशायदू अस्ना तारा शचीपतिः ।
+> इंद्रो विद्वा अपारयत् ॥ १७ ॥
+
+> *uta tyā turvaśāyadū asnā tārā śacīpatiḥ |*
+> *iṃdro vidvā apārayat ‖ 17 ‖*
+
+Pada-pāṭha
+
+> उत । त्या । तुर्वशायदू इति । अस्नातारा । शचीषपतिः ।
+> इंद्रः । विद्वान् अपारयत् ॥ १७ ॥
+
+> *uta | tyā | turvaśāyadū iti | asnātārā | śacīṣapatiḥ |*
+> *iṃdraḥ | vidvān apārayat ‖ 17 ‖*
+
+Sāyaṇa-bhāṣya
+
+> उतापि च अस्नातारास्तारौ ययातिशापादनभिषिक्तौ त्या तौ प्रसिद्धौ
+> तुर्वशायदू तुर्वशनामानं यदुनामकं च राजानौ शचीपतिः कर्मणां पालकः॥
+> यद्वा । शचींद्रस्य भार्या । तस्याः पतिर्भर्ता विद्वान् सकलमपि जानन्निंद्रोऽपारयत् । अभिषेकार्हावकरोत् ॥
+
+##### Gist of the bhāṣya
+
+"Utāpi ca": the two, Turvaśa and Yadu, famous kings, are "asnātārau", that is, not inaugurated (anointed) because of Yayāti's curse. "Śacīpati" is the protector of rites; or else Śacī is Indra's wife, and her husband (lord), Indra, knowing everything, "apārayat", made them fit for inauguration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अस्नातारा (*asnātārā*)—those deprived of royal inauguration (through Yayāti's curse)
+- त्या (*tyā*)—famous
+- तुर्वशायदू (*turvaśāyadū*)—the kings named Turvaśa and Yadu
+- शचीपतिः (*śacīpatiḥ*)—the protector of rites
+- विद्वान् (*vidvān*)—the one who knows everything
+- इंद्रः (*iṃdraḥ*)—Indra
+- अपारयत् (*apārayat*)—made them fit for inauguration
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the protector of rites and knower of everything, made the famous kings named Turvaśa and Yadu, who were unfit for inauguration because of Yayāti's curse, fit for inauguration.
+
+##### English translation (H. H. Wilson)
+The lord of acts, the wise Indra, has borne across (their difficulties), Turvasas and Yadu, when denied inauguration.
+
+##### विशेषविषयगळु (Special Topics)
+
+तुर्वशायदू—यदु इत्यादीनि पंचमनुष्यनामानि (*turvaśāyadū—yadu ityādīni paṃcamanuṣyanāmāni*)। Yadu, Turvaśa, Druhyu, Anu and Pūru are the five human names. Among them, those of the group called Yadu always
+
 ---
 
-**Progress note:** Done through printed p. 234. pp. 229-234 (batch API)
+**Progress note:** Done through printed p. 240. pp. 235-240 (batch API)
