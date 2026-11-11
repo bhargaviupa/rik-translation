@@ -13186,6 +13186,158 @@ Here it is said that the rays of Varuṇa pervaded not only the three earths but
 
 Of the three kinds of heavenly worlds, two belong to Savitṛ and one to Yama. Just as all the parts of a chariot rest on the linchpin and are joined depending on it, all the deathless worlds on this (the text breaks off here and the next window continues it).
 
+### Printed p. 376
+
+## Special Topics (continued)
+
+…rest upon the world of Savitṛ alone. In Mādhava's commentary on the Ṛgveda, and in Sāyaṇa's commentary as well, these three worlds are explained as earth, atmosphere and heaven; of these, earth and heaven belong to Savitṛ, and the atmosphere is the world of Yama. Veṅkaṭamādhava, however, has explained that all three are varieties of the heavenly world, and that Agni and Savitṛ are the presiding deities of them. Skandasvāmin holds that either of these two opinions may be accepted.
+
+There is a doubt also about the true meaning of तद्विष्णोः परमं पदं (*tadviṣṇoḥ paramaṃ padaṃ*), तुरीयं धाम (*turīyaṃ dhāma*) and the like. Yāska regards Viṣṇu as a deity of the heavenly region. But if the explanation in the Ṛksaṃhitā is examined, it appears that this heavenly region lies beyond the three worlds. In तिस्रो द्यावः (*tisro dyāvaḥ*), one is the seat of Soma and the Ṛbhus; the second is the world of Sūra; the third is the world of Āditya. That is the highest step of Viṣṇu.
+
+In the present verse, even when त्रिः उत्तमा रोचना (*triḥ uttamā rocanā*) is taken as "three highest places", there is room for doubt. But since वीराः त्रयः (*vīrāḥ trayaḥ*) has been explained as Agni, Vāyu and Āditya, on that basis one has to say: earth, atmosphere and heaven.
+
+दूणशा (*dūṇaśā*) may be explained as "that which is without destruction"; or it may also be explained as "that which cannot be obtained easily".
+
+असुरस्य (*asurasya*)—अस्यति क्षिपति सर्वमित्यसुरः । कालात्मा संवत्सरः । (*asyati kṣipati sarvamityasuraḥ | kālātmā saṃvatsaraḥ |*) Here only one aspect of the year is indicated: the year in the form of Time, which holds everything under its control. As the year is the cause of creation and growth, so it is the cause of decay. As explained before, here too Prajāpati, the presiding deity of the year, may be what is meant.
+
+प्रजापतिर्लोकानभ्यतपत्तेषां तप्यमानानां रसान्प्रावृहदग्निं पृथिव्या वायुमंतरिक्षादादित्यं दिवः ॥ (*prajāpatirlokānabhyatapatteṣāṃ tapyamānānāṃ rasānprāvṛhadagniṃ pṛthivyā vāyumaṃtarikṣādādityaṃ divaḥ ‖*) (Bhā. U. 4-17-1)**NOTE**
+
+Prajāpati meditated on the essence of the three worlds, drew out their sap and spread it forth. From the earth he caused Agni to shine, from the atmosphere Vāyu, from heaven Āditya. Since it is thus described that from the three worlds spoken of in the present Ṛk as रोचना त्रिः (*rocanā triḥ*) he caused three excellent deities to shine, here also असुरस्य (*asurasya*) may be said to mean Prajāpati in the form of the year.
+
+The word asura denotes a special power; this power may be nourishing or it may be destroying. Although the special meanings of this word were given earlier, in the present context one must determine its import and examine its etymology closely, in order to know of which principle, and of what forms of power, this word shows.
+
+### Printed p. 377
+
+Its etymology must be understood in detail.
+
+असुरा असुरताः स्थानेष्वस्ताः स्थानेभ्य इति वा । अपि वा असुरिति प्राणनाम अस्तः शरीरे भवति तेन तद्वंतः ॥ (*asurā asuratāḥ sthāneṣvastāḥ sthānebhya iti vā | api vā asuriti prāṇanāma astaḥ śarīre bhavati tena tadvaṃtaḥ ‖*) (Ni. 3-8)
+
+The rākṣasas are well known by the name asura because they are always satisfied with evil deeds. Or they may be asuras because they were cast out and thrust aside by the gods. Or the word asu may be a synonym of breath. Or there is the division that the gods are suras, because they were created by su, that is, by right conduct (sad-dharma), and the rākṣasas are a-suras, created by wrong conduct (a-su). For the present this explanation is irrelevant. The mantras of the preceding sūkta show what quality is indicated by the use of the word asura in the present context. महद्देवानामसुरत्वमेकं (*mahaddevānāmasuratvamekaṃ*) is the last pāda of every mantra of the preceding sūkta. In these places also, as in the etymology given in the present Ṛk, अस्यति क्षिपति सर्वानित्यसुरः प्रबलः । तस्य भावः असुरत्वं प्राबल्यं । महदैश्वर्यं । (*asyati kṣipati sarvānityasuraḥ prabalaḥ | tasya bhāvaḥ asuratvaṃ prābalyaṃ | mahadaiśvaryaṃ |*) is the explanation; the meaning is "lordship possessed of the power to subdue enemies". Therefore, when the asura-hood of individual gods has so much power, it need not be said that the asura-hood of Prajāpati, who is the lord of all the gods, is that which governs the universe. Because of this power of governing the universe, Prajāpati, or the Lord in the form of Time, is the one denoted by the word asura. In this governing of the universe, besides the work of mere accomplishing, the power that gives life to the whole universe is also manifested. Describing this power, there is in Ṛks such as
+
+वि सुपर्णो अंतरिक्षाण्यख्यद्धभीरवेपाः असुरः सुनीथः (*vi suparṇo aṃtarikṣāṇyakhyaddhabhīravepāḥ asuraḥ sunīthaḥ*) (Ṛ. Saṃ. 1-35-7)
+
+a description of the god who gives life to the universe. Since it is praised in the Brāhmaṇas and elsewhere that सर्वॆषां भूतानां प्राणानादायोदेति (*sarvèṣāṃ bhūtānāṃ prāṇānādāyodeti*) (Tai. Ā. 1-14-1)—Āditya is the giver of life to all beings—it is understood from the quoted mantra that the word asura here is an epithet of Āditya, who has that same power. Moreover, in places such as जनानां यो असुरो विधर्ता (*janānāṃ yo asuro vidhartā*) (7-56-24) the word is also explained as "possessed of wisdom". Thus a quality joined with various powers is described by the word asura. Since all powers—the power of creation, the power of destruction, the power of governing the universe and so on—are centred in Prajāpati in the form of Time, in the present context Prajāpati, the father of the whole universe including gods and men, may be the one denoted by the word asura. Since Prajāpati, Time and the year are synonyms in many contexts, whichever of them is used, there is no difference in the principle.
+
+### Printed p. 378
+
+एष वै मृत्युरत्यंवत्सरः । एष हि मर्त्यानामहोरात्राभ्यामायुः क्षिणोत्यथ म्रियंते तस्मादेष एव मृत्युः स यो हैतं मृत्युग्ं संवत्सरं वेद .... .... तस्मादेष एवांतकः स यो हैतमंतकं मृत्युग्ं संवत्सरं वेद न हास्यैष.... .... । ते देवाः एतस्मादंतकान्मै त्र्योः संवत्सरात्पजापतेर्बिभियां चक्रुः ॥ (*eṣa vai mṛtyuratyaṃvatsaraḥ | eṣa hi martyānāmahorātrābhyāmāyuḥ kṣiṇotyatha mriyaṃte tasmādeṣa eva mṛtyuḥ sa yo haitaṃ mṛtyugṃ saṃvatsaraṃ veda .... .... tasmādeṣa evāṃtakaḥ sa yo haitamaṃtakaṃ mṛtyugṃ saṃvatsaraṃ veda na hāsyaiṣa.... .... | te devāḥ etasmādaṃtakānmai tryoḥ saṃvatsarātpajāpaterbibhiyāṃ cakruḥ ‖*) (Śa. Brā. 1C-4-3-1-3)**NOTE**
+
+The great principle which, having attained asura-hood, holds the universe under its control by that power, and which Sāyaṇa has explained as अस्यति क्षिपति सर्वं (*asyati kṣipati sarvaṃ*)—कालात्मा संवत्सरः (*kālātmā saṃvatsaraḥ*), that great principle of the year is Prajāpati. As it is the source of the creation of the universe, so it is the source of its destruction. This year is Death. For human and other beings it makes life wear away (pass away) in the form of days and nights. It causes death to all. Therefore this year, in the form of Time, is the ender of all. It is described that even the gods, knowing the nature of this Prajāpati in the form of the year as the ender, became afraid.
+
+Therefore, प्रजापतिर्वा इदमग्र आसीत् । स इमांस्त्रीन् लोकानभितताप । तेभ्यस्तप्तेभ्यस्त्रिणि ज्योतीग्‌ष्यजायंताग्निर्योऽयं पवते सूरः ॥ (*prajāpatirvā idamagra āsīt | sa imāṃstrīn lokānabhitatāpa | tebhyastaptebhyastriṇi jyotīgṣyajāyaṃtāgniryo 'yaṃ pavate sūraḥ ‖*) (Śa. Brā. 11-5 8-2)**NOTE** — The Prajāpati who is described thus: from Prajāpati, who existed before the creation of the universe, the three worlds beginning with earth were created, and from them the three luminous forms Agni, Vāyu and Āditya were created; who is described as the year that creates, and as Time, which though destroying is in the form of the year, and as the ender—the three sons of that Prajāpati, Agni, Vāyu and Āditya, in the form of three lights, are described in the present Ṛk as त्रयः वीराः (*trayaḥ vīrāḥ*).
+
+ऋतावानः (*ṛtāvānaḥ*)—those who maintain the truth of the three worlds. Agni maintains the rules of sacrifice and the like on earth and so keeps truth in being. In the same way Vāyu, in the form of the life-breath of the universe, maintains the truth of the atmosphere, the giving of rain and so on. Āditya, being lord of these two worlds, maintains the truth of all the worlds; therefore the epithet ऋतावानः (*ṛtāvānaḥ*) applies to all together.
+
+दूळभासः (*dūḷabhāsaḥ*)—दुःदभासः (*duḥdabhāsaḥ*): a radiance that no one has the power to restrain. By this epithet is described the nature of the radiances of Āditya, which are unlike others, supernatural, unobstructed and all-pervading.
+
+### Printed p. 379
+
+## Sūkta 57 (Maṇḍala 3)
+
+#### Ṛk 1
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र मे विविक्वानिति षडृचं चतुर्थं सूक्तं । विश्वामित्र ऋषिः । तिष्टप् छंदः ।
+> विश्वे देवा देवता । अत्रानुक्रमणिका । प्र मे षळिति । सूक्तविनियोगो लैंगिकः ॥
+> अनुवादवु—प्र मे विविक्वान् ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि नाल्कनॆय
+> सूक्तवु. इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ विश्वामित्रनु ऋषियु ; विश्वेदेवतॆगळु
+> देवतॆयु ; त्रिष्टुप् छंदस्सु. अनुक्रमणिकॆयल्लि—प्र मे षट् ऎंदु हेळिरुवुदु. सूक्तद
+> विनियोगवु लैंगिकवु.
+> ॥ ओं ॥
+> सूक्त—५७
+> मंडल—३ ॥ अनुवाक—५ ॥ सूक्त—५७ ॥
+> अष्टक—३ ॥ अध्याय—४ ॥ वर्ग—२ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—६ ॥
+> ऋषिः—विश्वामित्रः ॥
+> देवता—विश्वे देवाः ॥
+> छंदः—त्रिष्टुप् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र मे विविक्वान् (*pra me vivikvān*) is the fourth sūkta (of the fifth anuvāka), of six Ṛks. The seer is Viśvāmitra, the deity the Viśvedevas, the metre Triṣṭubh. The Anukramaṇikā says प्र मे षळिति (*pra me ṣaḷiti*). The application (viniyoga) of the sūkta is by indication (liṅga). The Kannada gives: Maṇḍala 3, Anuvāka 5, Sūkta 57; Aṣṭaka 3, Adhyāya 4, Varga 2; number of Ṛks in the sūkta 6.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मे॑ विवि॒क्त्वा अ॑विदन्मनी॒षां धे॒नुं चरं॑तीं॒ प्रयु॑ता॒मगो॑पां ।  
+> स॒द्यश्चि॒द्या दु॑दु॒हे भूरि॑ धा॒सेरिंद्र॒स्तद॒ग्निः प॑नि॒तारो॑ अस्याः ॥
+
+> *pra me viviktvā avidanmanīṣāṃ dhenuṃ caraṃtīṃ prayutāmagopāṃ |*  
+> *sadyaścidyā duduhe bhūri dhāseriṃdrastadagniḥ panitāro asyāḥ ‖*
+
+### Printed p. 380
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मे । विविक्षान् । अविदत् । मनीषां । धेनुं । चरंतीं । प्रयुतां ।  
+> अगोपां ।  
+> सद्यः । चित् । आ । दुदुहे । भूरि । धासेः । इंद्रः । तत् । अग्निः । पनितारः । अ स्याः ॥
+
+> *pra | me | vivikṣān | avidat | manīṣāṃ | dhenuṃ | caraṃtīṃ | prayutāṃ |*  
+> *agopāṃ |*  
+> *sadyaḥ | cit | ā | duduhe | bhūri | dhāseḥ | iṃdraḥ | tat | agniḥ | panitāraḥ | a syāḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विविक्वान्वेकवानिंद्रोग्निर्वा मे मम मनीषां देवताविषयां स्तुतिं
+> प्राविदत् । प्रकर्षण जानातु । तत्र दृष्टांतः । चरंतीं यवस इतस्ततो गच्छंतीं
+> प्रयुतां पृथग्भूतामेकाकिनीमगोपां गोप्तृरहितां यथाकामं चरंतीं
+> धेनुं नवसूतिकां गामिव देवतानां प्रीणयित्रीं स्तुतिमविददित्यन्वयः । या
+> स्तुतिरूपा धेनुः सद्यश्चित्तदानीमेव धासेः । धारयति प्राणान् धीयते दीयतेर्थिभ्य इति वा धासिरन्नं । कर्मणि षष्ठी । भूरि बह्वन्नमपेक्षितं फलं दुदुहे दुग्धे
+> इंद्रोग्निरन्ये च देवा अस्याः स्तुतिरूपाया धेनोस्तत्तस्यान्नभूतस्य पयसः
+> पनितारः स्तोतारो भवंति । यद्वा । इंद्राग्नी स्तोतारो वयं चास्या धेनोस्तत्पयः प्राप्नुमः ॥ विविक्वान् ! विचिर् पृथग्भाव इत्यस्य क्वसौ रूपं । अविदत् । विद
+> ज्ञान इत्यस्य लजि बहुलं छंदसीति शः । दुदुहे । दुह प्रपूरण इत्यस्य लिटि रूपं ।
+> यद्वृत्तयोगादनिघातः । प्रत्ययस्वरः । पनितारः । पन स्तुतावित्यस्य तृचि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Vivikvān, that is Indra or Agni, मे (*me*) "my" मनीषां (*manīṣāṃ*) praise directed to the deities, let him know well (प्राविदत् (*prāvidat*)). The illustration: as one knows a cow that is चरंतीं (*caraṃtīṃ*) wandering hither and thither for fodder, प्रयुतां (*prayutāṃ*) separated, alone, अगोपां (*agopāṃ*) without a herdsman, roaming at will, a धेनुं (*dhenuṃ*) newly calved cow—so (let him know) the praise that gratifies the gods; this is the construction. The praise in the form of a cow that सद्यश्चित् (*sadyaścit*) at that very moment milks abundant धासेः (*dhāseḥ*): dhāsi is food, either because it sustains the life-breaths or because it is given to those who seek it; the genitive is in the sense of the object. भूरि (*bhūri*) abundant food, the desired fruit, it milks. Indra, Agni and the other gods are पनितारः (*panitāraḥ*), praisers, of the milk, that is of the food-like milk, of this cow in the form of praise. Or else: Indra and Agni are the praisers, and we obtain that milk of this cow. (The remainder of the block gives the grammar of vivikvān, avidat, duduhe and panitāraḥ.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—which cow in the form of praise
+- सद्यश्चित् (*sadyaścit*)—immediately
+- धासेः (*dhāseḥ*)—food
+- भूरि (*bhūri*)—abundantly
+- दुदुहे (*duduhe*)—milks (such a one)
+- मे (*me*)—my
+- मनीषां (*manīṣāṃ*)—the cow in the form of praise
+- विविक्वान् (*vivikvān*)—Indra the discerning
+- चरंतीं (*caraṃtīṃ*)—running while eating grass
+- प्रयुतां (*prayutāṃ*)—solitary
+- अगोपां (*agopāṃ*)—roaming freely without a cowherd
+- धेनुं (*dhenuṃ*)—as one knows a cow
+- प्र अविदत् (*pra avidat*)—may he know
+- इंद्रः (*iṃdraḥ*)—Indra
+- अग्निः (*agniḥ*)—Agni (and the other gods also)
+- अस्याः (*asyāḥ*)—of this cow in the form of praise
+- पनितारः (*panitāraḥ*)—are the praisers
+
+##### भावार्थ (Bhāvārtha)
+
+As one knows a cow that runs about for grass and roams alone at will without a cowherd, let the discerning Indra know my praise, which is like a cow and which yields abundant food. Indra, Agni and the other deities also are praisers of this cow in the form of praise.
+
+### Printed p. 381
+
+##### English translation (H. H. Wilson)
+May the discriminating Indra apprehend my glorification (of the gods), which is (free) as a milch cow, grazing alone, without a cowherd, one who is readily milked, yielding abundant nourishment, and of whom Agni and Indra (and we), are the commenders.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this mantra praise is compared to a cow, and the quality common to the two is shown. Just as the protection of a cow that yields milk in plenty and satisfies its owner is necessary, so the same protection is necessary in the matter of praise; thus praise is extolled. The epithets used here to extol praise should be examined, and afterwards the power and the fruitfulness of praise should be considered.
+
+In the present verse it is prayed that Indra and the others may know the cow in the form of praise. The word मनीषा (*manīṣā*) is used as a synonym of praise. This manīṣā is described as the giver of food. The word धासि (*dhāsi*) means food. There is a little distinctiveness in the use of this word.
+
+धासेः (*dhāseḥ*)—this word is read among the names of food, धासिः इरा (*dhāsiḥ irā*) and so on (Ni. 2-7). It is derived from the root थेट् (*theṭ*) meaning "to drink"**NOTE**, and gives the meaning of food in the form of oblation. Or it may also mean "that which sustains life"; the import is "that which makes one stand firm". To understand its import in detail, some examples should be examined.
+
+कविं केतुं धासिं भानुमद्रेर्हिन्वंति शं राज्यं रोदस्योः । (*kaviṃ ketuṃ dhāsiṃ bhānumadrerhinvaṃti śaṃ rājyaṃ rodasyoḥ |*) (Ṛ. Saṃ. 7-6-2)
+
+Here the word is an epithet of Vaiśvānara Agni. The epithet धासिं (*dhāsiṃ*) is in the sense of one who lifts up and protects the praiser. Sāyaṇa has given the import: धासिं (*dhāsiṃ*)—धर्तारं (*dhartāraṃ*).
+
+प्राक्तुभ्य इंद्रः प्र वृधो अहभ्यः प्रांतरिक्षात्प्र समुद्रस्य धासेः । प्र वातस्य प्रथसः प्र ज्यो अंतात्प्र सिंधुभ्यो रिरिचे प्र क्षितिभ्यः ॥ (*prāktubhya iṃdraḥ pra vṛdho ahabhyaḥ prāṃtarikṣātpra samudrasya dhāseḥ | pra vātasya prathasaḥ pra jyo aṃtātpra siṃdhubhyo ririce pra kṣitibhyaḥ ‖*) (Ṛ. Saṃ. 10-89-11)
+
+Here this epithet is used to describe the growth of Indra. Indra is described as grown beyond heaven and earth. And since he is said to be grown beyond even the place that holds the sea, the greatness of Indra is understood. The word dhāsi means "that which holds". The place that holds the sea is utterly firm; the import is that Indra has grown beyond even that. In this manner the word is used in the sense of "holder".
+
 ---
 
-**Progress note:** Done through printed p. 375. pp. 369-375 (batch API)
+**Progress note:** Done through printed p. 381. pp. 376-381 (batch API)
