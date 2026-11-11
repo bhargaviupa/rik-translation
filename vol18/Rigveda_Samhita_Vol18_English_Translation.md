@@ -3325,6 +3325,260 @@ Here it is said that Indra by his strength made heaven and earth tremble. Likewi
 
 विश्वा (*viśvā*) means all रोधांसि (*rodhāṃsi*). By the word रोधः (*rodhaḥ*) elevated places are meant, that is, mountains. पूर्वीः (*pūrvīḥ*) means many. प्रवतः (*pravataḥ*) are low places, that is, oceans. The explanation of द्यौः (*dyauḥ*) begins at the end of the block, which breaks off here.
 
+### Printed p. 101
+#### Ṛk 4
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> लोकश्च क्षाः पृथिवी च जनिमन्निंद्रस्य जन्मनि सत्यृष्णान्महतोऽस्मादिंद्राद्रेजत ।
+> अरेजंत । अकंपंत । किंच शुष्मी बलवानिंद्रो गोर्गंतुः सूर्यस्य मातरा
+> मातरौ मातापितृभूतौ द्यावापृथिव्यौ च । आ इति चार्थे । आ भरति । आ समंताद्बिभर्ति । नृवन्मनुष्या इव वाता इंद्रेण प्रेरिता वायवश्च परिज्मन्नंतरिक्षे नोनुवंत ।
+> शब्दायंते ॥
+
+##### Gist of the bhāṣya
+
+The sky-world (द्यौः (*dyauḥ*)) and the earth (क्षाः (*kṣāḥ*)) trembled (अरेजंत (*arejaṃta*), अकंपंत (*akaṃpaṃta*)) before this great Indra at his birth. Further, the mighty Indra sustains आ भरति (*ā bharati*) (that is, bears on every side) the two "mothers" of the moving sun, namely heaven and earth, who stand as mother and father. आ (*ā*) is here in the sense of "and". The winds, impelled by Indra, roar in the atmosphere (परिज्मन् (*parijman*)) like men (नृवत् (*nṛvat*)). नोनुवंत (*nonuvaṃta*) means "they make sound".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वा (*viśvā*)—all
+- रोधांसि (*rodhāṃsi*)—the high places (mountains)
+- पूर्वीः (*pūrvīḥ*)—the many
+- प्रवतः (*pravataḥ*)—the low places (oceans)
+- द्यौः (*dyauḥ*)—the heaven-world
+- क्षाः (*kṣāḥ*)—the earth
+- जनिमन् (*janiman*)—as soon as (Indra) was born
+- ऋष्वात् (*ṛṣvāt*)—from Indra, of wondrous form
+- रेजत (*rejata*)—(in fear) trembled
+- शुष्मी (*śuṣmī*)—Indra, the powerful
+- गोः (*goḥ*)—of the sun, whose nature is to move
+- मातरा (*mātarā*)—the heaven and earth, who are as mother and father
+- आ भरति (*ā bharati*)—has fully borne (has taken on their protection)
+- वाताः (*vātāḥ*)—the winds impelled by Indra
+- नृवत् (*nṛvat*)—like men
+- परिज्मन् (*parijman*)—all around the atmosphere
+- नोनुवंत (*nonuvaṃta*)—make sound
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Indra was born, seeing his wondrous form, all the mountains, the many low-lying regions (the oceans), and heaven and earth as well, trembled in fear. The powerful Indra has taken up the burden of protecting heaven and earth, the mother and father of the moving sun. The winds, impelled by Indra, make sound all around the atmosphere like men.
+
+##### English translation (H. H. Wilson)
+All the high places, and the many low places, the heaven and the earth, trembled (through fear) of the mighty (Indra) at his birth : the strong (Indra) cherishes the parents of the moveng (sun), and winds, like men, make a noise in their peregrination.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk too describes Indra's wondrous power. The matter stated in this Ṛk, that as soon as Indra was born heaven and earth, the mountains and the oceans trembled in fear, is described with slight variations in many Ṛks:
+
+### Printed p. 102
+In the Ṛk अस्येदु भिया गिरयश्च दृळ्हा द्यावा च भूमा जनुषस्तुजेते । (*asyedu bhiyā girayaśca dṛḷhā dyāvā ca bhūmā januṣastujete |*) (Ṛ. Saṃ. 1-61-14) it is said that as soon as Indra was born, the firm mountains, and the heavenly world and the earth, trembled in fear of him.
+
+तव त्विषो जनिमन् रेजत द्यौ रेजद्भूमिर्भियसा स्वस्य मन्योः । (*tava tviṣo janiman rejata dyau rejadbhūmirbhiyasā svasya manyoḥ |*) (Ṛ. Saṃ. 4-17-2): as soon as Indra was born, heaven and earth trembled with fear of his anger.
+
+In the Ṛk अतश्चिदिंद्रादभयंत देवा विश्वा आपो अजयद्दासपत्नीः (*ataścidiṃdrādabhayaṃta devā viśvā āpo ajayaddāsapatnīḥ*) (Ṛ. Saṃ. 5-30-5) there is the description that the gods too, seeing Indra, were greatly afraid.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता तू त॑ इंद्र मह॒तो म॒हानि॒ विश्वे॒ष्टित्सव॑नेषु प्र॒वाच्या॑ ।  
+> यच्चू॑र धृष्टो धृष॒ता द॑धृ॒ष्टानहिं॒ वज्रे॑ण॒ शव॒सावि॑वेषीः ॥
+
+> *tā tū ta iṃdra mahato mahāni viśveṣṭitsavaneṣu pravācyā |*  
+> *yaccūra dhṛṣṭo dhṛṣatā dadhṛṣṭānahiṃ vajreṇa śavasāviveṣīḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । तु । ते । इंद्र । महतः । महानि । विश्वेषु । इत् । सवनेषु । प्रवाच्या ।  
+> यत् । शूर । धृष्णो इति । धृषता । दधृष्टान् । अहिं । वज्रेण । शवसा । अविवेषीः ॥
+
+> *tā | tu | te | iṃdra | mahataḥ | mahāni | viśveṣu | it | savaneṣu | pravācyā |*  
+> *yat | śūra | dhṛṣṇo iti | dhṛṣatā | dadhṛṣṭān | ahiṃ | vajreṇa | śavasā | aviveṣīḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महतः प्रभूतस्य ते त्वदीयानि ता तानि कर्माणि तु क्षिप्रं महानि
+> महांति भवंति। विश्वेष्टित्सर्वॆष्टेव सवनेषु प्रातःसवनादिकर्मसु त्वदीयानि कर्माणि
+> प्रवाच्या प्रवाच्यानि स्तोतृभिः प्रकर्षेण वक्तुं योग्यानि स्तुत्यानीति यत् । हे
+> धृष्टो प्रगल्भ हे शूर विक्रांतेंद्र दधृष्टान्पालकत्वेन लोकान्धारयन् शवसा
+> बलेन युक्तस्त्वं धृषता धर्षकेण वज्रेणाहिं वृत्रमसुरमविवेषीः अवधीरिति
+> यत्। एतदादीनि कर्माणि महांतीति पूर्वेण संबंधः। अत्राविवेषीरिति वधकर्मा॥
+
+##### Gist of the bhāṣya
+
+O Indra, to you who are mighty, those deeds of yours quickly become great. At all the savanas, the rites beginning with the morning pressing, your deeds are fit to be proclaimed, to be praised with fervour by the praisers (प्रवाच्या (*pravācyā*) = प्रवाच्यानि (*pravācyāni*)). The reason is this: O bold one, O hero, valiant Indra, you, sustaining the worlds as their protector (दधृष्टान् (*dadhṛṣṭān*)), endowed with strength (शवसा (*śavasā*)), slew (अविवेषीः (*aviveṣīḥ*) = *avadhīḥ*) Ahi, the demon Vṛtra, with the resistless thunderbolt. Deeds such as this are great: so the connection with the first half. Here अविवेषीः (*aviveṣīḥ*) is a root meaning "to kill".
+
+### Printed p. 103
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृष्टो (*dhṛṣṭo*)—O one who overcomes enemies
+- शूर (*śūra*)—and valiant
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—by whose greatness of yours
+- दधृष्टान् (*dadhṛṣṭān*)—sustaining and protecting the worlds
+- शवसा (*śavasā*)—endowed with strength
+- धृषता (*dhṛṣatā*)—enemy-destroying
+- वज्रेण (*vajreṇa*)—with the thunderbolt weapon
+- अहिं (*ahiṃ*)—Vṛtra the demon
+- अविवेषीः (*aviveṣīḥ*)—you slew (by the power of that same greatness)
+- महतः (*mahataḥ*)—possessed of abundant qualities
+- ते (*te*)—your
+- ता (*tā*)—those very great deeds
+- तु (*tu*)—quickly
+- महानि (*mahāni*)—(like you) attain greatness
+- विश्वेष्टित् (*viśveṣṭit*)—in all
+- सवनेषु (*savaneṣu*)—at the times of the savanas
+- प्रवाच्या (*pravācyā*)—are praised exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who overcome enemies and are valiant: by that greatness of yours with which, sustaining and protecting the worlds and endowed with strength, you slew the demon Vṛtra with the enemy-destroying thunderbolt, by the power of that same greatness those very great deeds of yours, rich in abundant qualities, quickly attain greatness like yours. And at all the times of the savanas they are praised exceedingly.
+
+##### English translation (H. H. Wilson)
+Of you, Indra, who are mighty, great are the deeds, and to be proclaimed at all sacrifices, inasmuch as, high-minded hero, you, sustaining (the world), have by your strength slain Ahi with the resistless thunderbolt.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk says that Indra's great deeds, such as sustaining and protecting the worlds and destroying Vṛtra with the thunderbolt, are praised at the times of the savanas. On the matter of Indra's strength and power:
+
+नही न्वस्य प्रतिमानमस्त्यंतर्जातेषूत ये जनित्वाः (*nahī nvasya pratimānamastyaṃtarjāteṣūta ye janitvāḥ*) (Ṛ. Saṃ. 4-18-4): among those born before and those now living, there is no one equal to Indra.
+
+न त्वावा अन्नो दिव्यो न पार्थिवो न जातो न जनिष्यते । (*na tvāvā anno divyo na pārthivo na jāto na janiṣyate |*) (Ṛ. Saṃ. 7-32-23):
+
+### Printed p. 104
+None equal to Indra, whether in heaven or on earth, has been born before, nor will be born hereafter.
+
+सत्यमित्तन्न त्वावा अन्नो आस्तींद्र देवो न मर्त्यो ज्यायान् । (*satyamittanna tvāvā anno āstīṃdra devo na martyo jyāyān |*) (Ṛ. Saṃ. 6-30-4): O Indra, there is simply no other god equal to you. Among men or among gods there is no one equal to you or stronger than you. This is true.
+
+The Kannada text that follows this passage (गांधीजियवर (*gāṃdhījiyavara*), (श्रीगळ (*śrīgaḷa*)) …सुखदासरागि (*sukhadāsarāgi*),") is unintelligible and is not translated. **NOTE**
+
+न ते पूर्वे मघवन्नापरासो न वीर्यं १ नूतनः कश्च नाप । (*na te pūrve maghavannāparāso na vīryaṃ 1 nūtanaḥ kaśca nāpa |*) (Ṛ. Saṃ. 5-42-6): O Indra, none who lived before, who will be born hereafter, or who live now is as bold as you. In many such places there are descriptions that none is equal to Indra.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता तू ते॑ स॒त्या तु॑विनृम्म॒ विश्वा॒ प्र धे॒नवः॑ सिस्रते॒ वृष्ण॒ ऊध्नः॑।  
+> अधा॑ ह॒ त्वद्व॑षमणो भिया॒नाः प्र सिंध॑वो॒ जव॑सा चक्रमंत ॥ ६ ॥
+
+> *tā tū te satyā tuvinṛmma viśvā pra dhenavaḥ sisrate vṛṣṇa ūdhnaḥ|*  
+> *adhā ha tvadvaṣamaṇo bhiyānāḥ pra siṃdhavo javasā cakramaṃta ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । तु । ते । सत्या । तुविन्नृम्म । विश्वा । प्र । धेनवः । सिस्रते । वृष्णः । ऊध्नः ।  
+> अध । ह । त्वत् । वृषमनः । भियानाः । प्र । सिंधवः । जवसा । चक्रमंत ॥ ६ ॥
+
+> *tā | tu | te | satyā | tuvinnṛmma | viśvā | pra | dhenavaḥ | sisrate | vṛṣṇaḥ | ūdhnaḥ |*  
+> *adha | ha | tvat | vṛṣamanaḥ | bhiyānāḥ | pra | siṃdhavaḥ | javasā | cakramaṃta ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुविनृम्माधिकबलेंद्र ते त्वदीयानि विश्वा विश्वानि ता तानि कर्माणि तु
+> क्षिप्रं सत्या सत्यानि भवंति । हे इंद्र वृष्णः कामानां वर्षितुस्त्वत्तो भयाद्वेनवो
+> गाव ऊध्नः स्वकीयादापीनात्प्र सिस्रते । प्रकर्षण क्षीरं करंति । अधापि च हे
+> वृषमनः कामानां वर्षणपरमनस्केंद्र सिंधवो नद्यस्त्वत्तो भियाना बिभ्यत्यः
+> सत्यो जवसा वेगेन प्र चक्रमंत ह । प्रकर्षण गच्छंति खलु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, of surpassing strength (तुविनृम्म (*tuvinṛmma*)), all those deeds of yours quickly become true. O Indra, the showerer of desires, through fear of you the cows (धेनवः (*dhenavaḥ*)) from their own udders pour forth milk copiously (प्र सिस्रते (*pra sisrate*)). And further, O Indra, whose mind is bent on showering desires, the rivers (सिंधवः (*siṃdhavaḥ*)), fearing you, go forth swiftly (जवसा (*javasā*)) and rush onward (प्र चक्रमंत ह (*pra cakramaṃta ha*)).
+
+### Printed p. 105
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविनृम्म (*tuvinṛmma*)—O Indra of exceedingly great strength
+- ते (*te*)—your
+- विश्वा (*viśvā*)—all
+- ता (*tā*)—those famous deeds
+- तु (*tu*)—quickly
+- सत्या (*satyā*)—come to be true
+- वृष्णः (*vṛṣṇaḥ*)—through fear of you, the showerer of desires
+- धेनवः (*dhenavaḥ*)—the cows
+- ऊद्घ्नः (*ūdghnaḥ*)—from their udders
+- प्र सिप्रते (*pra siprate*)—yield milk
+- अध (*adha*)—and
+- वृषमनः (*vṛṣamanaḥ*)—O Indra, whose mind pours out desired boons
+- सिंधवः (*siṃdhavaḥ*)—the rivers
+- त्वत् (*tvat*)—from you
+- भियानाः (*bhiyānāḥ*)—having feared
+- जवसा (*javasā*)—with speed
+- प्र चक्रमंत ह (*pra cakramaṃta ha*)—flow exceedingly, do they not?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of exceedingly great strength, all your famous deeds quickly come to be true. Through fear of you, the showerer of desires, the cows yield milk from their udders. And, O Indra, whose mind pours out desired boons, the rivers too, fearing you, flow exceedingly and become beneficial to the world.
+
+##### English translation (H. H. Wilson)
+Most powerful Indra, all these, your exploits, are verily true; through fear of you), the showerer (of benefits), the cows shed (milk) from their udders: then, benevolent-minded (Indra), the rivers, fearing you, flow with rapidity.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is described here that the cows yield milk from their udders through fear of Indra, and that the rivers flow through fear of Indra. Releasing the waters from the clouds so that they flow over the earth in streams is among the chief of Indra's exploits. This matter is set out in Ṛks such as Ṛ. Saṃ. 1-57-6; 10-89-7; 5-32-1, 2.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्राह॑ ते हरिव॒स्ता उ॑ दे॒वीरवो॑भिरिंद्र स्तवंत॒ स्वसा॑रः ।  
+> यत्सी॒मनु॒ प्र मु॒चो ब॑द्धधा॒ना दी॒र्घामनु॒ प्रसि॑तिं स्यंद॒यध्यै॑ ॥ ७ ॥
+
+> *atrāha te harivastā u devīravobhiriṃdra stavaṃta svasāraḥ |*  
+> *yatsīmanu pra muco baddhadhānā dīrghāmanu prasitiṃ syaṃdayadhyai ‖ 7 ‖*
+
+### Printed p. 106
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत् । अह । ते । हरिर्वः । ताः । ऊं इति । देवीः । अवःभिः । इंद्र । स्ववंत ।  
+> स्वसारः ।  
+> यत् । सीं । अनु । प्र । मुचः । बद्धधानाः । दीर्घां । अनु । प्रसितिं । स्यंदयध्यै ॥ ७ ॥
+
+> *at | aha | te | harirvaḥ | tāḥ | ūṃ iti | devīḥ | avaḥbhiḥ | iṃdra | svavaṃta |*  
+> *svasāraḥ |*  
+> *yat | sīṃ | anu | pra | mucaḥ | baddhadhānāḥ | dīrghāṃ | anu | prasitiṃ | syaṃdayadhyai ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यद्यदा बद्धधाना वृत्रेण बध्यमानाः सीमनु एना नदीरुद्दिश्य
+> दीर्घामत्यधिकां प्रसितिं बंधनमनु स्यंदयध्यै यथाकामं स्यंदितुं प्र मुचः ।
+> प्रकर्षणामोचयः । हे हरिवो हरिवन्निंद्र अत्राहात्रैव मोचनवेलायां ता
+> उ ताः प्रसिद्धा एव देवीर्देव्यो द्योतमानाः स्वसारो नद्यः । अत्र स्वसृशब्दो
+> नदीवाची । अवोभिस्त्वत्कृतै रक्षणैस्ते त्वां स्तवंत । स्तावयंति । नदीपूरणादिभिः
+> कर्मभिर्जना इंद्रं स्तुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you, in the case of these rivers (सीमनु (*sīmanu*) = एना (*enā*)), bound (बद्धधाना (*baddhadhānā*)) by Vṛtra, released them to flow at will from their very long (दीर्घां (*dīrghāṃ*)) bondage (प्रसितिं (*prasitiṃ*)), then, O Indra, lord of bay horses (हरिवः (*harivaḥ*)), at that very time of release those same famous shining sisters (स्वसारः (*svasāraḥ*), the rivers; here the word स्वसृ (*svasṛ*) denotes rivers) praise you (स्तवंत (*stavaṃta*) = स्तावयंति (*stāvayaṃti*)) by the protections wrought by you (अवोभिः (*avobhiḥ*)). The meaning is that people praise Indra by such acts as the filling of the rivers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O one yoked with horses named Hari
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- बद्धधानाः (*baddhadhānāḥ*)—bound by Vṛtra
+- सीं अनु (*sīṃ anu*)—these rivers, which had been bound
+- दीर्घां (*dīrghāṃ*)—long
+- प्रसितिं (*prasitiṃ*)—the bondage
+- *anu syaṃdayadhyai*—so as to make it favourable for them to flow freely
+- प्र मुचः (*pra mucaḥ*)—you released
+- अत्रा ह (*atrā ha*)—at that very time of release
+- ता उ (*tā u*)—those famous
+- देवीः (*devīḥ*)—shining
+- स्वसारः (*svasāraḥ*)—rivers
+- अवोभिः (*avobhiḥ*)—by the power of your protections
+- ते (*te*)—you
+- स्तवंत (*stavaṃta*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of the horses named Hari: when you released the long bondage that had bound the rivers held by Vṛtra, and made it possible for those rivers to flow freely, immediately those famous and shining rivers praise you through the power of your protections.
+
+##### English translation (H. H. Wilson)
+Then, Indra, lord of horses, the divine sister (rivers) praise(you) for your protection when you set them free to flow, after having been impeded (by Vritra) through a long confinement.
+
 ---
 
-**Progress note:** Done through printed p. 100. pp. 95-100 (batch API)
+**Progress note:** Done through printed p. 106. pp. 101-106 (batch API)
