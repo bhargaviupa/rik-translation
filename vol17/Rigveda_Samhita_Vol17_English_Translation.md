@@ -29473,6 +29473,313 @@ The second sūkta, of six Ṛks, beginning यस्त्वामग्न (*y
 
 O Agni, the sacrificer who, ladle in hand, kindles you, makes you blazing; who on every day offers you the oblation-food three times, at the three libations; O Jātavedas, knower of all that is born—
 
+### Printed p. 893
+
+> तव तोषकेण क्रत्वेंधनादिहेतुना कर्मणा प्रसक्षत् प्रसहमानं त्वदीयं तेजश्चिकित्वान् जानन् स यजमानो द्युम्नैर्धनैर्यशोभिर्वा सु अत्यंतमभ्यस्तु ।
+> शत्रूनभिभवतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes his gloss. Through क्रत्वा (*kratvā*) he means the act that pleases Agni, the act that is the cause of kindling and the like. The worshipper who knows प्रसक्षत् (*prasakṣat*), Agni's overpowering splendour, is to prevail greatly (सु अत्यंतं (*su atyaṃtaṃ*)) with wealth or with fame. In other words, he is to overcome his enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni of born (perfect) wisdom
+- अग्ने (*agne*)—O Agni
+- यतस्रुक् (*yatasruk*)—holding up the ladle
+- यः (*yaḥ*)—the sacrificer who
+- त्वा (*tvā*)—you
+- इनधते (*inadhate*)—makes you radiant
+- सस्मिन्नहन् (*sasminnahan*)—on all days
+- ते (*te*)—addressed to you
+- त्रिः (*triḥ*)—at the three times of the pressings
+- अन्नं (*annaṃ*)—food in the form of the oblation
+- कृणवत् (*kṛṇavat*)—offers
+- सः (*saḥ*)—that sacrificer
+- तव (*tava*)—your
+- क्रत्वा (*kratvā*)—by acts that please you
+- प्रसक्षत् (*prasakṣat*)—your unobstructed splendour
+- चिकित्वान् (*cikitvān*)—having known
+- द्युम्नैः (*dyumnaiḥ*)—with riches and with fame as well
+- सु (*su*)—exceedingly
+- अभ्यस्तु (*abhyastu*)—may he defeat his enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of born wisdom: the sacrificer who, holding up the ladle, makes you shine, and who on all days, addressing you, offers food in the form of the oblation at the three times of the pressings — let that sacrificer, knowing your unobstructed splendour through acts that please you, overcome his enemies exceedingly, with riches and with fame.
+
+##### English translation (H. H. Wilson)
+May he who with uplifted ladle kindles you, and thrice every day presents to you the (sacrificial) food, knowing your glory, Jatavedas, to be invigorated by the act, surpass (all others) in riches.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इद्धं यस्ते जभरच्छश्रमाणो मदो अग्ने अनेकमा  
+> सपर्यन् ।  
+> स इ॑धा॒नः प्रति॑ दो॒षामु॒षासं॒ पुष्य॑न्व॒यिं स॑चते॒ घन्न॒मित्रा॑न् ॥ २ ॥
+
+> *iddhaṃ yaste jabharacchaśramāṇo mado agne anekamā*  
+> *saparyan |*  
+> *sa idhānaḥ prati doṣāmuṣāsaṃ puṣyanvayiṃ sacate ghannamitrān ‖ 2 ‖*
+
+### Printed p. 894
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इध्मं । यः । ते । जभरत् । शश्रमाणः । महः । अग्ने । अनेकं । आ । सपर्यन् ।  
+> सः । इधानः । प्रति । दोषां । उषसं । पुष्यन् । रयिं । सचते । घ्नन् । अमित्रान्॥
+
+> *idhmaṃ | yaḥ | te | jabharat | śaśramāṇaḥ | mahaḥ | agne | anekaṃ | ā | saparyan |*  
+> *saḥ | idhānaḥ | prati | doṣāṃ | uṣasaṃ | puṣyan | rayiṃ | sacate | ghnan | amitrān‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यो यजमानस्ते तुभ्यमिध्वं होमसाधनं समिज्ञातं जभरत् ।
+> आहरेत् ॥ हृञ् हरणे । लिजर्थे लेट् । तस्य तिप इतश्च लोप इतीकारलोपः ।
+> बहुलं छंदसीति शपः श्लुः । द्विर्वचनादिकार्यं । लेटोऽडाटावित्यडागमः । हृग्रहोर्भ इति भत्वं ॥ शश्रमाण इध्माद्याहरणे श्राम्यन्महो महतस्तवानीकं । आकारश्चार्थे । तेजश्च सपर्यन्परिचरन् यो यजमानो दोषां प्रति रात्रिं लक्ष्मीकृत्योषसं प्रत्युषःकालं च लक्ष्मीकृत्य । कालद्वयेऽपीत्यर्थः । इधान इंधानस्त्वां
+> दीप्तियुक्तं करोति पुष्यन् प्रजाभिः पशुभिश्च पुष्टः सन् स यजमानोऽमित्रान्
+> शत्रून् घ्नस्सिंसन्रयिं धनं सचते । सेवते । सर्वदा पश्वादिधनसमृद्धो भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the sacrificer who brings you इध्मं (*idhmaṃ*), the fuel, that is, the means of the oblation, known as the samidh. जभरत् (*jabharat*) means "would bring"; the root is हृञ् (*hṛñ*) in the sense of carrying. शश्रमाणः (*śaśramāṇaḥ*) is one who toils in fetching the fuel and the rest. महः (*mahaḥ*) is "of the great you", your *anīkaṃ*, and आ (*ā*) has the sense of "and"; the sacrificer serves (सपर्यन् (*saparyan*)) your splendour as well. Taking the night (दोषां प्रति (*doṣāṃ prati*)) and the dawn-time (उषसं (*uṣasaṃ*)) as his marks, that is, at both times, he kindles you (इधानः (*idhānaḥ*)) and makes you blazing. Nourished (पुष्यन् (*puṣyan*)) with offspring and cattle, that sacrificer, wishing to destroy his enemies, obtains wealth (रयिं सचते (*rayiṃ sacate*)); सचते (*sacate*) means "enjoys". The sense is that he is always rich in cattle and other wealth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the sacrificer who
+- ते (*te*)—addressed to you
+- इध्मं (*idhmaṃ*)—the samidh sticks, parts of the oblation
+- जभरत् (*jabharat*)—lays on
+- शश्रमाणः (*śaśramāṇaḥ*)—taking toil at the time of fetching the fuel
+- महः (*mahaḥ*)—of you, of great nature
+- आ अनेकं (*ā anekaṃ*)—the splendour
+- सपर्यन् (*saparyan*)—worshipping
+- दोषां प्रति (*doṣāṃ prati*)—at night
+- उषसं (*uṣasaṃ*)—at dawn
+- इधानः (*idhānaḥ*)—who makes you blaze
+- सः (*saḥ*)—that sacrificer
+- पुष्यन् (*puṣyan*)—attaining increase of offspring
+- अमित्रान् (*amitrān*)—enemies
+- घ्नन् (*ghnan*)—destroying
+- रयिं (*rayiṃ*)—wealth of cattle and the like
+- सचते (*sacate*)—enjoys
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer who, addressing you, brings the samidh sticks that are parts of the oblation, taking toil at the time of fetching the fuel, worships your splendour of great nature, and makes you blaze at night and at dawn — that sacrificer attains increase of offspring, destroys his enemies, and obtains wealth of cattle and the like.
+
+##### English translation (H. H. Wilson)
+He who, labouring diligently, brings you fuel, honouring Agni, your great glory ; he who kindles you in the evening and at dawn ; he, prosperous and destroying his enemies, acquires riches.
+
+### Printed p. 895
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निरी॑शे बृह॒तः क्ष॒त्रिय॑स्या॒ग्निर्वाज॑स्य पर॒मस्य॑ रा॒यः ।  
+> दधा॑ति॒ रत्नं॑ विध॒ते यवि॑ष्टो॒ व्या॑नु॒षज्मर्त्या॑य स्व॒धावा॑न्॥
+
+> *agnirīśe bṛhataḥ kṣatriyasyāgnirvājasya paramasya rāyaḥ |*  
+> *dadhāti ratnaṃ vidhate yaviṣṭo vyānuṣajmartyāya svadhāvān‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । ईशे । बृहतः । क्षत्रियस्य । अग्निः । वाजस्य । परमस्य । रायः ।  
+> दधाति । रत्नं । विधते । यविष्ठः । वि । आनुषक् । मर्त्याय । स्वधाऽवान् ॥ ३ ॥
+
+> *agniḥ | īśe | bṛhataḥ | kṣatriyasya | agniḥ | vājasya | paramasya | rāyaḥ |*  
+> *dadhāti | ratnaṃ | vidhate | yaviṣṭhaḥ | vi | ānuṣak | martyāya | svadhā 'vān ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उखासंभरणीयेष्टावग्नेः क्षत्रभृतोऽनुवाक्या । तथा च सूत्रितं । अग्निरीशे बृहतः क्षत्रियस्यार्चामि ते सुमतिं घोषर्वाक् । आ. ४-१ । इति ॥
+> अग्निर्बृहतो महतः क्षत्रियस्य बलस्येशे । ईश्वरो भवति ॥ वर्तमानार्थे
+> लिट् ॥ किंच अग्निः परमस्योत्कृष्टस्य वाजस्यान्नस्य रायः पश्वादेर्धनस्य चेशे ।
+> यविष्टो युवतमः स्वधावानन्नवान् तेजस्वी वाग्निर्विधते । परिचरते । विधतिः
+> परिचरणकर्मति यास्कः । मर्त्याय मनुष्याय यजमानाय रत्नं रमणीयं
+> धनमानुषक् अनुषक्तं वि दधाति । करोति ॥
+
+##### Gist of the bhāṣya
+
+The verse is the anuvākyā for Agni Kṣatrabhṛt in the Ukhāsaṃbharaṇīya offering. So it is laid down in the sūtra: अग्निरीशे बृहतः क्षत्रियस्यार्चामि ते सुमतिं घोषर्वाक् (*agnirīśe bṛhataḥ kṣatriyasyārcāmi te sumatiṃ ghoṣarvāk*) (Ā. 4-1). Agni is lord (ईशे (*īśe*), "is master"; a perfect in the sense of the present) of great (बृहतः (*bṛhataḥ*)) strength (क्षत्रियस्य (*kṣatriyasya*)). Further, Agni is lord of the highest food (वाजस्य (*vājasya*)) and of wealth (रायः (*rāyaḥ*)) such as cattle. यविष्टो (*yaviṣṭo*) is the youngest; स्वधावान् (*svadhāvān*) is possessed of food, or full of splendour. Agni विधते (*vidhate*), serves; Yāska says विधतिः (*vidhatiḥ*) is a word for the act of service. To the mortal, the man, the sacrificer, he वि दधाति (*vi dadhāti*), provides precious (रत्नं (*ratnaṃ*), delightful) wealth, आनुषक् (*ānuṣak*), in continuous succession.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- बृहतः (*bṛhataḥ*)—of very great
+- क्षत्रियस्य (*kṣatriyasya*)—strength
+- ईशे (*īśe*)—is the lord
+- अग्निः (*agniḥ*)—that same great Agni
+- परमस्य (*paramasya*)—of the most excellent
+- वाजस्य (*vājasya*)—food
+- रायः (*rāyaḥ*)—and of wealth of cattle and the like, is the lord
+- यविष्ठः (*yaviṣṭhaḥ*)—the very young
+- स्वधावान् (*svadhāvān*)—and splendid Agni
+- विधते (*vidhate*)—serves (the sacrificer)
+- मर्त्याय (*martyāya*)—to the human sacrificer
+- रत्नं (*ratnaṃ*)—delightful wealth
+- आनुषक् (*ānuṣak*)—according to each man's act
+- वि दधाति (*vi dadhāti*)—provides
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is lord of great power. That same great Agni is lord of the most excellent food and of wealth of cattle and the like. Agni, very young and splendid, serves the sacrificer. To the human sacrificer he provides delightful wealth according to each man's act.
+
+### Printed p. 896
+
+##### English translation (H. H. Wilson)
+Agni is the possessor of great strength, of excellent food, of riches, the youngest ( of the gods ) : abounding in sustenance, he gives to the mortal who worships him precious (wealth) according to (his devotion)
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ukhāsaṃbharaṇa offering, when a Kṣatriya makes the oblation addressed to Agni, this Ṛk, अग्निरीशे बृहतः (*agnirīśe bṛhataḥ*), is to be recited as the puronuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra अग्निशरीरे बृहतः क्षत्रियस्यार्चामि ते सुमतिं घोष्यर्वाक् (*agniśarīre bṛhataḥ kṣatriyasyārcāmi te sumatiṃ ghoṣyarvāk*) (Ā. 4-1). **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्चि॒द्धि ते॑ पुरुष॒त्रा य॑वि॒ष्ठा चि॑त्तिभिश्चक्र॒मा कच्चि॒दागः॑ ।  
+> कृ॒धी स्व१॒॑गस्मै अदि॑ते॒रना॑गा॒न्वैेनां॑सि शिश्रथो॒ विश्व॑गग्ने ॥ ४ ॥
+
+> *yacciddhi te puruṣatrā yaviṣṭhā cittibhiścakramā kaccidāgaḥ |*  
+> *kṛdhī svagasmai aditeranāgānvaienāṃsi śiśratho viśvagagne ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । चित् । हि । ते । पुरुषत्रा । यविष्ठ । अचित्तिभिः । चक्रम । कत् । चित् । आगः।  
+> कृधि । सु । अस्मान् । आदितेः । अनागान् । वि । एनांसि । शिश्रथः । विस्वक् । अग्ने ॥ ४ ॥
+
+> *yat | cit | hi | te | puruṣatrā | yaviṣṭha | acittibhiḥ | cakrama | kat | cit | āgaḥ|*  
+> *kṛdhi | su | asmān | āditeḥ | anāgān | vi | enāṃsi | śiśrathaḥ | visvak | agne ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ युवतमाग्ने यच्चिद्धि यद्यपि खलु ते त्वदीयेषु पुरुषत्रा
+> परिचारकेषु पुरुषेष्वचित्तिभिरज्ञानैः कच्चिदागः किंचिदपि पापं वयं चक्रम तथापि
+> हे अग्ने अस्मानदितेर्भूमेरनागाननागसः पापरहितान् सु अत्यंतं कृधि । कुरु ।
+> हे अग्ने विश्वक् सर्वतो विद्यमानानेनांस्यस्माभिः कृतानि पापानि वि शिश्रथः ।
+> विश्लथय । शिथिली कुरु ॥
+
+##### Gist of the bhāṣya
+
+O youngest Agni, even if we have committed some offence, through ignorances (अचित्तिभिः (*acittibhiḥ*)), against the men who are your servants (पुरुषत्रा (*puruṣatrā*)), nevertheless make us अनागान् (*anāgān*), free of fault and sin, of Aditi, the earth; make us so exceedingly (सु (*su*)). And loosen, slacken, weaken (वि शिश्रथः (*vi śiśrathaḥ*)) the offences (एनांसि (*enāṃsi*)), the sins we have committed, which are present everywhere (विश्वक् (*viśvak*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—O very young
+- अग्ने (*agne*)—Agni
+- यच्चिद्धि (*yacciddhi*)—for some reason (by accident)
+- ते (*te*)—in your matter
+- पुरुषत्रा (*puruṣatrā*)—common to man
+- अचित्तिभिः (*acittibhiḥ*)—through ignorances
+- कच्चिदागः (*kaccidāgaḥ*)—any sin
+- चक्रम (*cakrama*)—if we have done
+- अस्मान् (*asmān*)—us
+
+### Printed p. 897
+- अदितेः (*aditeḥ*)—earthly
+- अनागान् (*anāgān*)—sinless
+- सु (*su*)—exceedingly
+- कृधि (*kṛdhi*)—make
+- विष्वक् (*viṣvak*)—all-pervading
+- एनांसि (*enāṃsi*)—sins
+- वि शिश्रथः (*vi śiśrathaḥ*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O very young Agni, if in your matter we have by accident, through ignorances natural to man, committed any sin, make us free of that earthly sin. Destroy those all-pervading sins of ours.
+
+##### English translation (H. H. Wilson)
+If, youngest (of the gods), with the inconsiderateness common to men, we have ever committed any offence against you, make us free from the defects of earth ; efface entirely, Agni, our offences.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हश्चि॑दग्न॒ एन॑सो अ॒भीक॑ ऊ॒र्वाद्दे॒वाना॑मु॒त मर्त्या॑नां।  
+> मा ते॒ सखा॑यः॒ सद॒मिद्रि॑षाम॒ यच्छा॑ तो॒काय॒ तन॑याय॒  
+> शं योः ॥ ५ ॥
+
+> *mahaścidagna enaso abhīka ūrvāddevānāmuta martyānāṃ|*  
+> *mā te sakhāyaḥ sadamidriṣāma yacchā tokāya tanayāya*  
+> *śaṃ yoḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । चित् । अग्ने । एनसः । अभीके । ऊर्वात् । देवानां । उत । मर्त्यानां ।  
+> मा । ते । सखायः । सदं । इत् । रिषाम । यच्छ । तोकाय । तनयाय । शं ।  
+> योः ॥ ५ ॥
+
+> *mahaḥ | cit | agne | enasaḥ | abhīke | ūrvāt | devānāṃ | uta | martyānāṃ |*  
+> *mā | te | sakhāyaḥ | sadaṃ | it | riṣāma | yaccha | tokāya | tanayāya | śaṃ |*  
+> *yoḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने देवानामिंद्रादीनामुत अपि च मर्त्यानां मनुष्याणामभिकेऽंतिके । अभीक इत्यंतिकनामैतत् । अस्माभिर्यत्पापं कृतं महश्चिन्महतोऽपूर्वाद्विस्त्रतादस्मादेनसः पापात्ते त्वदीयाः सखायो मित्रभूताः स्तोतारो वयं
+> सदमित्सर्वदैव मा रिषाम । मा हिंसिता भूम । हे अग्ने त्वं तोकाय पुत्राय
+> तनयाय पौत्राय शं पापरूपोपद्रवाणां शांतिं योः सुकृतोत्पादितं सुखं
+> च यच्छ । देहि ॥
+> Vol 17.
+
+##### Gist of the bhāṣya
+
+O Agni, near (अभीके (*abhīke*), "near"; अभीक इत्यंतिकनामैतत् (*abhīka ityaṃtikanāmaitat*)) the gods, Indra and the rest, and also the mortals, men — whatever sin we have committed — may we, your friends, your praisers, never be harmed (मा रिषाम (*mā riṣāma*)) by (महश्चित् (*mahaścit*)) this great, unprecedented, extensive offence (एनसः (*enasaḥ*)). O Agni, give (यच्छ (*yaccha*)) to our son (तोकाय (*tokāya*)) and grandson (तनयाय (*tanayāya*)) शं (*śaṃ*), the quieting of the troubles that take the form of sin, and योः (*yoḥ*), happiness produced by good deeds.
+
+### Printed p. 898
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- देवानां (*devānāṃ*)—in the matter of the gods
+- उत (*uta*)—and
+- मर्त्यानां (*martyānāṃ*)—of men
+- अभीके (*abhīke*)—near
+- ते (*te*)—your
+- सखायः (*sakhāyaḥ*)—we, who are your friends
+- महश्चित् (*mahaścit*)—from the very great
+- ऊर्वात् (*ūrvāt*)—and extensive
+- एनसः (*enasaḥ*)—fruit arising from sin
+- सदमित् (*sadamit*)—always
+- मा रिषाम (*mā riṣāma*)—may we not be harmed
+- अग्ने (*agne*)—O Agni
+- तोकाय (*tokāya*)—to our sons
+- तनयाय (*tanayāya*)—and grandsons
+- शं (*śaṃ*)—sin-free peace
+- योः (*yoḥ*)—and happiness
+- यच्छ (*yaccha*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, grant that we, your friends, when through ignorance we have committed sin, may receive no kind of harm from the gods or from men. Even if our sin is very great, let its fruit not harm us. O Agni, give to our sons and grandsons also sin-free peace and happiness.
+
+##### English translation (H. H. Wilson)
+Let not us, Agni, who are your friends, ever suffer harm from any great or comprehensive offence against either gods or men: bestow forgiveness upon our sons and grandsons, the reward of what has been well done.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ ह॒ त्यद्व॑सवो गौ॒र्यं॑ चित्प॒दि षि॒ताममुं॑चता  
+> यजत्राः ।  
+> ए॒वो ष्व१॒॑गस्मन्मुं॑चता॒ व्यंहः॒ प्र ता॑र्यग्ने प्रत॒रं न॒ आयुः॑॥
+
+> *yathā ha tyadvasavo gauryaṃ citpadi ṣitāmamuṃcatā*  
+> *yajatrāḥ |*  
+> *evo ṣvagasmanmuṃcatā vyaṃhaḥ pra tāryagne prataraṃ na āyuḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । ह । त्यत् । वसवः । गौर्यं । चित् । पदि । सितां । अमुंचत । यजत्राः ।  
+> एवो इति । सु । अस्मत् । मुंचत । वि । अंहः । प्र । तारि । अग्ने । प्रतरं । नः ।  
+> आयुः ॥ ६ ॥
+
+> *yathā | ha | tyat | vasavaḥ | gauryaṃ | cit | padi | sitāṃ | amuṃcata | yajatrāḥ |*  
+> *evo iti | su | asmat | muṃcata | vi | aṃhaḥ | pra | tāri | agne | prataraṃ | naḥ |*  
+> *āyuḥ ‖ 6 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 892. pp. 887-892 (batch API)
+**Progress note:** Done through printed p. 898. pp. 893-898 (batch API)
