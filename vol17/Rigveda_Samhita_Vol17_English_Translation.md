@@ -25712,6 +25712,296 @@ O purifying Agni, as one unable to bear a heavy burden lets it fall, so the rite
 - इदं (*idaṃ*)—well-known
 - बृहत् (*bṛhat*)—abundant
 
+### Printed p. 813
+#### Ṛk 6 (continuing)
+*Pratipadārtha (continued)*
+- *bṛhat*—vast (continued from the previous page)
+- मन्म (*manma*)—worthy of worship
+- धृषता (*dhṛṣatā*)—that overpowers enemies
+- पयसा (*payasā*)—together with food
+- गभीरं (*gabhīraṃ*)—very deep
+- यह्वं (*yahvaṃ*)—great
+- पृष्टं (*pṛṣṭaṃ*)—pleasant to the touch
+- सप्तधातु (*saptadhātu*)—consisting of seven elements
+- दधाध (*dadhādha*)—become the giver
+
+##### भावार्थ (Bhāvārtha)
+
+O purifying Agni, to me, who am like a feeble and weak man bearing an exceedingly heavy load, and who do not abandon the rite directed to you, give that well-known, abundant, worshipful wealth, which comes together with food that overpowers enemies, which is very deep, great, pleasant to the touch, and consisting of the seven elements.
+
+##### English translation (H. H. Wilson)
+Purifier, Agni, bestow on me, not neglecting your worship, this acceptable and vast (wealth), like a hevy load on a feeble (bearer), together with invigorating food; (wealth), secure, abundant, tangible, and consisting of the seven elements.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिन्वे॒३॒॑ऽव स॑म॒ना स॑मा॒नम॒भि क्रत्वा॑ पुन॒ती धी॒तिर॑श्याः ।  
+> स॒सस्य॒ चर्म॒न्नधि॒ चारु॒ पृश्ने॒रग्रे॑ रु॒ष आरु॑पितं॒ जबा॑रु ॥ ७ ॥
+
+> *taminve 'va samanā samānamabhi kratvā punatī dhītiraśyāḥ |*  
+> *sasasya carmannadhi cāru pṛśneragre ruṣa ārupitaṃ jabāru ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । नु । एव । समना । समानं । अभि । क्रत्वा । पुनती । धीतिः । अश्याः ।  
+> ससस्य । चर्मन् । अधि । चारु । पृश्नेः । अग्रे । रुपः । अरुपितं । जबारु ॥ ७ ॥
+
+> *taṃ | it | nu | eva | samanā | samānaṃ | abhi | kratvā | punatī | dhītiḥ | aśyāḥ |*  
+> *sasasya | carman | adhi | cāru | pṛśneḥ | agre | rupaḥ | arupitaṃ | jabāru ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निविद्युदादित्यास्त्रयोऽपि मतभेदेन वैश्वानरशब्दाभिधेया इति । नि. ७-२३ ।
+> यस्केनोक्तत्वादत्रादित्यात्मना वैश्वानरः स्तूयते । तमित्तमेव वैश्वानरं द्युस्थानं
+> समानं सर्वॆषामेकरूपं समना सदृशी तद्योग्या पुनत्यस्मान् शोधयित्रि
+> धीतिर्मतिरस्मदीया स्तुतिः क्रत्वा तदुचीतेन कर्मणा नेव क्षिप्रमेवाश्याः अभिप्राप्नुयात् । भजेदित्यर्थः अश्नोतेर्लिजि बहुलं छंदसीति विकरणस्य लुक् । व्यत्य-
+
+##### Gist of the bhāṣya
+
+Agni, lightning and the Sun are all, according to differing views, denoted by the word Vaiśvānara, as Yāska says (Ni. 7-23); so here Vaiśvānara is praised in the form of the Sun. "That very Vaiśvānara", dwelling in heaven, is समानं (*samānaṃ*), of one form for all. समना (*samanā*) is "similar", fit for him; पुनती (*punatī*) is purifying us; धीतिः (*dhītiḥ*) is our thought, our praise. With क्रत्वा (*kratvā*), the rite suited to it, may it quickly reach him, that is, serve him. (The remainder of the block, on the verb form and its irregularities, is grammar and continues on the next page.)
+
+### Printed p. 814
+
+> येन परस्मैपदं मध्यमपुरुषत्वं च ॥ पूर्वत्र तच्छब्दश्रुतेर्यच्छब्दोऽध्याहार्यः । यस्य द्युस्थानस्य वैश्वानरस्य जबारु जवमानरोहि जरमाणरोहि वा
+> चारु दीप्तं मंडलं । जबारु जरमाणरोहीति वा जवमानरोहीति वेति यास्कः ।
+> नि. ६.१७ । अग्रे पुरस्तात्पूर्वस्यां दिशि रूपः । आरोपयति स्वात्मनि सस्यादीनि रुबिति
+> भूमिरुच्यते । तस्याः सकाशात्ससस्य । लुप्तोपममेतत् । स्वपत इव निश्चलस्य पृश्नेः ।
+> द्युनामैतत् स्वः पृश्निरिति द्युलोकादित्ययोः साधारणनामसु पाठात् । ज्योतिरादिभिः स्पृश्यमानस्य द्युलोकस्याधि उपरि चर्मन् चर्मणे चरणाय ॥ चरेराणादिको मनिन् । सुपां सुलुगिति चतुर्था लुक् ॥ आरुपितमारोपितं देवैः ।
+> तमश्या इति पूर्वत्रान्वयः !
+
+##### Gist of the bhāṣya
+
+Since the word "tat" is heard in the earlier part, "yat" must be supplied: the one whose जबारु (*jabāru*), "swiftly rising" or "rising in old age", is the shining orb. Yāska: जबारु जरमाणरोहीति वा जवमानरोहीति (*jabāru jaramāṇarohīti vā javamānarohīti*) (Ni. 6-17). अग्रे (*agre*) means in front, in the eastern direction. रुपः (*rupaḥ*) is the earth, so called because it carries crops and the like; it is "from" the earth. The comparison is elided: "like one asleep", the motionless पृश्नेः (*pṛśneḥ*). This is a name of heaven, since "svaḥ" and "pṛśni" are read among the names common to heaven and the sun. Above the heaven touched by the lights, चर्मन् (*carman*) means "for moving". आरुपितं (*ārupitaṃ*) is "set up" by the gods. "Tam aśyāḥ" connects with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Vaiśvānara
+- जबारु (*jabāru*)—swiftly rising
+- चारु (*cāru*)—brilliant, the orb
+- अग्रे (*agre*)—being in front of the sacrificial fire
+- ससस्य (*sasasya*)—motionless
+- पृश्नेः (*pṛśneḥ*)—of heaven
+- अधि (*adhi*)—in the upper part
+- चर्मन् (*carman*)—to move
+- रुपः (*rupaḥ*)—from the earth
+- आरुपितं (*ārupitaṃ*)—raised up (placed in heaven)
+- तमित् (*tamit*)—that very Vaiśvānara
+- समानं (*samānaṃ*)—since he is the same to gods, humans and others
+- समना (*samanā*)—fit to be offered to him
+- पुनती (*punatī*)—purifying all
+- धीतिः (*dhītiḥ*)—(our) praise
+- क्रत्वा (*kratvā*)—joined with the fitting rite
+- स्नव (*snava*)—quickly
+- अश्याः (*aśyāḥ*)—may it pervade
+
+##### भावार्थ (Bhāvārtha)
+
+The swiftly rising, brilliant orb of that Vaiśvānara was raised up from the earth, stationed in front of the sacrificial fire, to move in the motionless heaven. That same Vaiśvānara, being the same to gods, humans and all, may our praise, fit to be offered to him and purifying all, joined with the rite suited to it, quickly pervade.
+
+##### English translation (H. H. Wilson)
+May our (self)-purifying praise, suited to his glory, and accompanied by worship, quickly attain to that omniform (Vaishwanara) whose swift-ascending brilliant (orb) is stationed on the east of the earth, to mount, like the sun, above the immoveable heaven.
+
+### Printed p. 815
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒वाच्यं॒ वच॑सः॒ किं मे॑ अ॒स्य गुहा॑ हि॒तमुप॑ नि॒णिग्व॑दंति ।  
+> यदु॒स्रिया॑णा॒मप॒ वारि॑व॒ व्रन्पाति॑ प्रि॒यं रु॒पो अग्रं॑ प॒दं  
+> वेः ॥ ८ ॥
+
+> *pravācyaṃ vacasaḥ kiṃ me asya guhā hitamupa niṇigvadaṃti |*  
+> *yadusriyāṇāmapa vāriva vranpāti priyaṃ rupo agraṃ padaṃ*  
+> *veḥ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रवाच्यं । वचसः । किं । मे । अस्य । गुहा । हितं । उप । निणिक् । वदंति ।  
+> यत् । उस्रियाणां । अप । वाः इव । व्रन् । पाति । प्रियं । रुपः । अग्रं । पदं ।  
+> वेरितिवेः ॥ ८ ॥
+
+> *pravācyaṃ | vacasaḥ | kiṃ | me | asya | guhā | hitaṃ | upa | niṇik | vadaṃti |*  
+> *yat | usriyāṇāṃ | apa | vāḥ iva | vran | pāti | priyaṃ | rupaḥ | agraṃ | padaṃ |*  
+> *veritiveḥ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मदीयास्यास्य वक्ष्यमाणस्य वचसो वाक्यस्य किं प्रवाच्यमस्ति । तथ्यमेवोच्यत इत्यर्थः । किं तद्वच इत्युच्यते । उस्रियाणां । गोनामैतत् । क्षीराद्युत्सावीणीनां गवां संबंधि यत्कीरं वारिवोदकमिन तद्यथा सेकेनाविष्कुर्वंति
+> तथाप व्रन् । अपवृण्वंति । दोग्धारो निणिक् । नितरां नेनेक्ति शोधयतीति निणिक्
+> क्षीरमुच्यते । तादृक् क्षीरमनेन वैश्वानरेण गुहा गुहायामुप हितमुपनिहितं
+> वदंति वेत्तारः । किंचायं वेर्वाप्ताया रुपो भूम्याः प्रियं सर्वेषामाधारत्वेन प्रियभूतमग्रं श्रेष्ठं पदं स्थानं पाति । रक्षति ॥
+
+##### Gist of the bhāṣya
+
+"What is there to be said (प्रवाच्यं (*pravācyaṃ*)) of this word of mine that is to be spoken?" That is, only the truth is spoken. What is that word? उस्रियाणां (*usriyāṇāṃ*) is a name for cows. The milk of the cows that yield milk and so on, as people draw water, so they uncover it by milking (अप व्रन् (*apa vran*)). निणिक् (*niṇik*) is milk, since it cleanses thoroughly. The knowers say that such milk is placed in the cave (गुहा (*guhā*)) by this Vaiśvānara. Further, he protects the dear, foremost place of the earth, which is pervaded (वेः (*veḥ*)), dear as the support of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उस्रियाणां (*usriyāṇāṃ*)—of the cows
+- यत् (*yat*)—which milk (the milkers)
+- वारिव (*vāriva*)—like water
+- अप व्रन् (*apa vran*)—obtained
+- निणिक् (*niṇik*)—that same milk
+- गुहा (*guhā*)—in a cave
+- उप हितं (*upa hitaṃ*)—as placed
+- वदंति (*vadaṃti*)—the wise say (and that the same milk)
+- वेः (*veḥ*)—of the pervading
+- रुपः (*rupaḥ*)—to the earth
+- प्रियं (*priyaṃ*)—dear
+- अग्रं (*agraṃ*)—excellent
+- पदं (*padaṃ*)—place
+- पाति (*pāti*)—protects (so they say)
+- मे (*me*)—my
+- अस्य वचसः (*asya vacasaḥ*)—in this word that tells the truth
+- किं प्रवाच्यं (*kiṃ pravācyaṃ*)—what fault is there?
+
+##### भावार्थ (Bhāvārtha)
+
+The knowers say that the milk of the cows, which the milkers obtained like water, Vaiśvānara has placed in a cave, and that this same milk protects the dear and excellent place of the all-pervading earth.
+
+### Printed p. 816
+(The Bhāvārtha continues:) What fault is there in this word of mine, which conveys that truth?
+
+##### English translation (H. H. Wilson)
+What objection (can be offered) to this my assertion, that they affirm that the milk of the cows, which (the milkers) obtain like water, is placed in concealment ( by Vaishwanara ), and cherishes the excellent and valued expanse of the wide earth.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दमु॒ त्यन्महि॑ म॒हामनी॑कं॒ यदु॒स्रिया॒ सच॑त पू॒र्व्य० गौः।  
+> ऋ॒तस्य॑ प॒दे अधि॒ दीद्या॑नं॒ गुहा॑ रघु॒ष्यद्र॑घु॒यद्वि॑वेद ॥ ९ ॥
+
+> *idamu tyanmahi mahāmanīkaṃ yadusriyā sacata pūrvya0 gauḥ|*  
+> *ṛtasya pade adhi dīdyānaṃ guhā raghuṣyadraghuyadviveda ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । ऊं इति । त्यत् । महि । महां । अनेकं । यत् । उस्रिया । सचत । पूर्व्यं ।  
+> गौः ।  
+> ऋतस्य । पदे । अधि । दीद्यानं । गुहा । रघुऽस्यत् । रघुऽयत् । विवेद । ९ ॥
+
+> *idaṃ | ūṃ iti | tyat | mahi | mahāṃ | anekaṃ | yat | usriyā | sacata | pūrvyaṃ |*  
+> *gauḥ |*  
+> *ṛtasya | pade | adhi | dīdyānaṃ | guhā | raghu 'syat | raghu 'yat | viveda | 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमु इदमेव त्यत्पसिद्धं महि महत्तूज्यं महां महतां देवानामनीकं समूहरूपं सूर्यमंडलं वैश्वानर एवेति शेषः । पूर्व्यं पूर्वकालीनं पूरकं वा यन्मंडलमुस्रिया क्षीराद्युत्साविणी गौरग्निहोत्राद्यर्थं
+> सचत । सेवते । ऋतस्योदकस्य पदे स्थानेंतरिक्षेऽध्यधिकं । यद्वा । अधीति सप्तम्यर्थानुवादः । दीद्यानं द्योतमानं गुहा गुहायां रघुष्यत् शीघ्रं स्यंदमानं
+> रघुयत् शीघ्रं गच्छत्सूर्यमंडलं विवेद । वैश्वानरमेवेति ज्ञातवानस्मि ॥
+
+##### Gist of the bhāṣya
+
+इदमु (*idamu*): this very, that well-known great, worshipful *anīkaṃ* of the great gods, of the form of a multitude, the solar orb, is Vaiśvānara himself (so the sense is completed). पूर्व्यं (*pūrvyaṃ*) is "belonging to former times" or "fulfilling". The orb which the milk-yielding cow (उस्रिया (*usriyā*)) serves for the agnihotra and the like. ऋतस्य पदे (*ṛtasya pade*): in the place of water, the atmosphere; अधि (*adhi*) is "exceedingly"; or else अधि (*adhi*) restates the sense of the locative. दीद्यानं (*dīdyānaṃ*) is shining; गुहा (*guhā*) in a cave; रघुष्यत् (*raghuṣyat*) flowing swiftly; रघुयत् (*raghuyat*) moving swiftly: that solar orb "I have known" (विवेद (*viveda*)) to be Vaiśvānara himself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्व्यं (*pūrvyaṃ*)—ancient
+- यत् (*yat*)—which solar orb
+- उस्रिया (*usriyā*)—milk-yielding
+- गौः (*gauḥ*)—cows
+- सचित (*sacita*)—serve, and
+- ऋतस्य (*ṛtasya*)—of water
+
+### Printed p. 817
+- पदे (*pade*)—in the place, the atmosphere
+- अधि (*adhi*)—exceedingly
+- दीद्यानं (*dīdyānaṃ*)—shining
+- गुहा (*guhā*)—hidden in a cave
+- रघुष्यत् (*raghuṣyat*)—spreading swiftly
+- रघुयत् (*raghuyat*)—moving quickly, the solar orb
+- विवेद (*viveda*)—I have known (which is it?)
+- तृत् (*tṛt*)—the well-known
+- महि (*mahi*)—great
+- महां अनेकं (*mahāṃ anekaṃ*)—the solar orb, of the form of a multitude of the great gods
+- इदमु (*idamu*)—this Vaiśvānara fire
+
+##### भावार्थ (Bhāvārtha)
+
+I have known the ancient solar orb which the milk-yielding cows serve, which shines exceedingly in the atmosphere, the place of water, hidden in a cave, spreading swiftly and moving fast. Which is it? That well-known, great solar orb, of the form of a multitude of the great gods, is this Vaiśvānara fire.
+
+##### English translation (H. H. Wilson)
+I recognize this adorable assemblage of the great (deities), which from of old the milk-shedding cow affects, shining above the region of the water, (the firmament), in secret ; swift-gliding, swift-moving.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ द्युता॒नः पि॒त्रोः सचा॒साम॑नुत॒ गुह्यं॒ चारु॒ पृश्नेः॑ ।  
+> मा॒तुष्प॒दे प॑र॒मे अंति॒ षद्योर्वृष्णः॑ शो॒चिषः॒ प्रय॑तस्य  ॒
+> जिह्वा ॥ १० ॥
+
+> *adha dyutānaḥ pitroḥ sacāsāmanuta guhyaṃ cāru pṛśneḥ |*  
+> *mātuṣpade parame aṃti ṣadyorvṛṣṇaḥ śociṣaḥ prayatasya*  
+> *jihvā ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । द्युतानः । पित्रोः । सचा । आसा । अमनुत । गुह्यं । चारु । पृश्नेः ।  
+> मातुः । पदे । परमे । अंति । सत् । गोः । वृष्णः । शोचिषः । प्रयतस्य । जिह्वा॥
+
+> *adha | dyutānaḥ | pitroḥ | sacā | āsā | amanuta | guhyaṃ | cāru | pṛśneḥ |*  
+> *mātuḥ | pade | parame | aṃti | sat | goḥ | vṛṣṇaḥ | śociṣaḥ | prayatasya | jihvā‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध अथ द्युतानो दीप्यमानः पित्रोर्द्यावापृथिव्योः सचा सह मध्ये
+> व्याप्तः सन् पृश्नेर्गॊः संबंधि चारु रमणीयं गुह्यमूधसि निगूढं पय आसा
+> [52] Vol, 17.
+> [52] Vol, 17.
+
+##### Gist of the bhāṣya
+
+अध (*adha*) is "then". Shining, pervading together (सचा (*sacā*)) the middle between the two parents, heaven and earth, he, being so, desired (अमनुत (*amanuta*): awoke, to drink) with his own mouth (आसा (*āsā*)) the lovely milk of the cow (पृश्नेः (*pṛśneḥ*)) hidden in the udder. (The block breaks off here; it continues on the next page.)
+
+### Printed p. 818
+
+> स्वकीयेनास्येनामनुत । पानायाबुध्यत । उक्तमेवार्थं विवृणोति । मातुः
+> क्षीरादिनिर्मात्रा गोः परमे पद उत्कृष्टे स्थान ऊधोलक्षणेऽंति सत् समीपे
+> विद्यमानं क्षीरं वृष्णः फलानां वर्षितुः शोचिषो दीप्तस्य प्रयतस्याहवनीयादिरूपेण नियतस्य वैश्वानरस्य जिह्वा पातुमिच्छतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing.) He is awakened to drink. He then explains the same sense: of the mother (मातुः (*mātuḥ*)), the cow that makes milk and the like, in her excellent place (परमे पदे (*parame pade*)), the udder, the milk existing close by (अंति सत् (*aṃti sat*)): the tongue of Vaiśvānara, the showerer (वृष्णः (*vṛṣṇaḥ*)) of fruits, the radiant (शोचिषः (*śociṣaḥ*)), the one regulated (प्रयतस्य (*prayatasya*)) in the forms of āhavanīya and the like, desires to drink — this is what is understood to complete the sentence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—afterwards
+- द्युतानः (*dyutānaḥ*)—shining
+- पित्रोः सचा (*pitroḥ sacā*)—Vaiśvānara, who is joined with heaven and earth
+- पृश्नेः (*pṛśneḥ*)—of the cow
+- चारु (*cāru*)—lovely
+- गुह्यं (*guhyaṃ*)—hidden in the udder, the milk
+- आसा (*āsā*)—with his mouth
+- अमनुत (*amanuta*)—desired to drink
+- मातुः (*mātuḥ*)—of the milk-giving
+- गोः (*goḥ*)—cow
+- परमे पदे (*parame pade*)—in the excellent udder
+- अंति सत् (*aṃti sat*)—the milk that remains hidden
+- वृष्णः (*vṛṣṇaḥ*)—of the one who showers desires
+- शोचिषः (*śociṣaḥ*)—shining
+- प्रयतस्य (*prayatasya*)—regulated in the forms of āhavanīya and the like, of Vaiśvānara
+- जिह्वा (*jihvā*)—the tongue (desires to drink)
+
+##### भावार्थ (Bhāvārtha)
+
+Vaiśvānara, shining and joined with heaven and earth, desired to drink with his mouth the cow's lovely milk hidden in the udder. The tongue of Vaiśvānara fire, the showerer of desires, shining, regulated in the forms of āhavanīya and the like, desires to drink the milk that remains hidden in the excellent udder of the milk-giving cow.
+
+##### English translation (H. H. Wilson)
+Then, radiant in association with the parents, (heaven and earth), he isa wakened (to drink) the agreeable secretion of the cow, and the tongue of the assiduous (performer of holy rites), the resplendent showerer of benefits,) approaching the excellent station of the maternal (cow ), seeks to drink the milk.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तं वो॑चे॒ नम॑सा पृ॒च्छ्यमा॑न॒स्तवा॒शसा॑ जातवेदो॒  ॒
+> यदीदं ।
+
+> *ṛtaṃ voce namasā pṛcchyamānastavāśasā jātavedo*  
+> *yadīdaṃ |*
+
 ---
 
-**Progress note:** Done through printed p. 812. pp. 807-812 (batch API)
+**Progress note:** Done through printed p. 818. pp. 813-818 (batch API)
