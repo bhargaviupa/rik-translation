@@ -6,7 +6,7 @@
 The English file has `## Maṇḍala M`, `## Sūkta N (Maṇḍala M)` and `#### Ṛk N`; the Kannada file has only page marks and section labels.
 Alignment (checked, never guessed):
   * Ṛk N heading  -> placed before the i-th `*ಸಂಹಿತಾಪಾಠಃ*` label (the i-th Ṛk heading of the English file that is not a '(continued)' heading);
-  * Sūkta heading -> placed before the printed line `ಮಂಡಲ—M ॥ ಅನುವಾಕ—A ॥ ಸೂಕ್ತ—N ॥` (the Pīṭhike of the sūkta, if any, is printed above it);
+  * Sūkta heading -> placed before the printed line `ಮಂಡಲ—M ॥ ಅನುವಾಕ—A ॥ ಸೂಕ್ತ—N ॥` (the Pīṭhike of the sūkta, if any, is printed above it), or before the title line `ಸೂಕ್ತ—N` where the text has that (Vol 17);
   * `## ಮಂಡಲ M` -> before the first sūkta of a new Maṇḍala.
 The counts are compared with the English file first (a mismatch writes nothing). A sūkta number in the Kannada line that disagrees with the English order is a WARN (printed/OCR slip in the supplied text): the heading follows the English order and the warning goes to the repair log.
 Without --write: report only. With --write: file rewritten (nothing else changes), a line is added to volN/review/repair_log.md."""
@@ -33,13 +33,21 @@ suktas = [e for e in ev if e[0] == 'sukta']; riks = [e for e in ev if e[0] == 'r
 sl = []
 for i, l in enumerate(kn):
     m = re.match(rf'^(?:[॥।]\s*)?ಮಂಡಲ\s*[-—–]\s*([೦-೯]+).*ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)', l.strip())
-    if m: sl.append((i, edig(m.group(1)), edig(m.group(2))))
+    if m:
+        if sl and sl[-1][1] is None and sl[-1][2] == edig(m.group(2)):                                      # the title line 'ಸೂಕ್ತ—N' above is the same sūkta
+            if i - sl[-1][0] > 3: sl[-1] = (i, edig(m.group(1)), edig(m.group(2)))                          # far above (Vol 15): the heading goes before this line, as before
+            continue
+        sl.append((i, edig(m.group(1)), edig(m.group(2)))); continue
+    m = re.match(r'^(?:>\s*)?ಸೂಕ್ತ\s*[-—–]\s*([೦-೯]+)\s*$', l.strip())          # Vol 17: most sūktas have only this title line
+    if m: sl.append((i, None, edig(m.group(1))))
+full = [x for x in sl if x[1] is not None]
+if len(full) == len(suktas): sl = full                 # every sūkta has its full line (Vols 15, 16): the title lines are not needed
 labs = [i for i, l in enumerate(kn) if l.strip() == '*ಸಂಹಿತಾಪಾಠಃ*']
 prob = []; warn = []
 if len(sl) != len(suktas): prob.append(f'sūkta lines: Kannada {len(sl)} vs English {len(suktas)}')
 else:
     for (i, m, s), e in zip(sl, suktas):
-        if (s, m) != (e[1], e[2]): warn.append(f'Kannada line {i+1} reads Maṇḍala {m} Sūkta {s} (as supplied); the English file has Sūkta {e[1]} (Maṇḍala {e[2]}) at this position: heading follows the English order')
+        if (s, m if m is not None else e[2]) != (e[1], e[2]): warn.append(f'Kannada line {i+1} reads Sūkta {s} (as supplied); the English file has Sūkta {e[1]} (Maṇḍala {e[2]}) at this position: heading follows the English order')
 if len(labs) != len(riks): prob.append(f'Saṃhitā labels: Kannada {len(labs)} vs English Ṛk headings {len(riks)}')
 print(f'English: {len(suktas)} sūktas, {len(riks)} Ṛk headings; Kannada: {len(sl)} sūkta lines, {len(labs)} Saṃhitā labels')
 for p in prob: print('PROBLEM', p)

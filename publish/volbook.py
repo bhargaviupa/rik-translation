@@ -78,6 +78,7 @@ def pandoc_html(md):
 
 # ---------------------------------------------------------------- front matter
 def fm(cfg):
+    if not cfg.get('assets') or not (ROOT / cfg['assets'] / 'frontmatter.json').exists(): return {}     # no front-matter scans yet (Vol 17): typeset pages only
     d = json.loads((ROOT / cfg['assets'] / 'frontmatter.json').read_text(encoding='utf8'))
     rel = pathlib.Path(cfg['assets']).relative_to('publish')
     return {p['role']: f'../{rel}/{p["file"]}' for p in d['pages']}
@@ -274,9 +275,10 @@ def front(cfg, lang, fmi, toc_blocks):
            '<i style="font-size:9.5pt">prepared with the assistance of Claude, an AI model by Anthropic</i>')
     credit = ('<p><b>© 2026 Bhargavi Upadhya.</b> The English translation, together with its notes, footnotes and apparatus, is the copyright of Bhargavi Upadhya. All rights reserved.</p>' if eng else
               f'<p><b>© 2026 Bhargavi Upadhya.</b> This Kannada text is a transcription of the {cfg["year"]} edition made from the supplied machine-read text; its apparatus is the copyright of Bhargavi Upadhya. All rights reserved.</p>')
-    r = cfg['front']
-    parts = [f'<section class="cover"><img src="{fmi[r["cover"]]}" alt="Cover, Volume {v}"><div class="cap">{cap}</div></section>']
-    if eng:
+    r = cfg.get('front', {}); has = lambda role: r.get(role) in fmi
+    notes = cfg.get('note_style') == 'NOTE'
+    parts = [f'<section class="cover"><img src="{fmi[r["cover"]]}" alt="Cover, Volume {v}"><div class="cap">{cap}</div></section>'] if has('cover') else []
+    if eng or not has('title'):
         parts.append(f'''<section class="titlepage">
   <div class="inv dev">॥ श्री महागणाधिपतये नमः ॥</div>
   <h1>Ṛgveda-saṃhitā</h1>
@@ -291,19 +293,20 @@ def front(cfg, lang, fmi, toc_blocks):
     else:
         parts.append(scan(fmi[r['title']], 'scan', 'Title page'))
     parts.append(f'''<section class="copyright">{credit}
-<p>This text is based on the Kannada edition of the <i>Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya</i>, edited and translated by Asthāna Mahāvidvān H. P. Venkata Rao and printed at Śrī Śāradā Press, Mysore, {cfg["year"]}, published by the gracious permission of His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore. The cover, portrait and permission page are reproduced from the scanned front matter of that edition; the board of scholars, the preface, the contents and the list of abbreviations are translated.</p>
-<p>Remarks on the state of the supplied text (garbled words, printed variants, stray lines) are given as numbered footnotes at the foot of the page. Numbers and readings are given as supplied; doubtful places are marked [?].</p>
+<p>This text is based on the Kannada edition of the <i>Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya</i>, edited and translated by Asthāna Mahāvidvān H. P. Venkata Rao and printed at {cfg.get("press", "Śrī Śāradā Press, Mysore")}, {cfg["year"]}, published by the gracious permission of His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore. The cover, portrait and permission page are reproduced from the scanned front matter of that edition; the board of scholars, the preface, the contents and the list of abbreviations are translated.</p>
+<p>{"Numbers and readings are given as supplied. A place that still needs the editor's decision or a second look is marked <b>NOTE</b> in the text; the questions are listed separately. This is a review copy: the translation has not yet been read against the Kannada by a second reader." if notes else "Remarks on the state of the supplied text (garbled words, printed variants, stray lines) are given as numbered footnotes at the foot of the page. Numbers and readings are given as supplied; doubtful places are marked [?]."}</p>
 <p><i>[Publisher, ISBN, edition and printing details — to be supplied. Permissions status of the {cfg["year"]} original and of the portraits — to be confirmed before publication.]</i></p></section>''')
-    parts.append(f'<section class="scan"><h2 class="stitle">Patron of the First Edition</h2><img src="{fmi[r["portrait"]]}" alt="Maharaja of Mysore">'
-                 '<p class="cap2">His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore</p></section>')
-    parts.append(scan(fmi[r['permission']], 'scan small', 'Permission page'))
+    if has('portrait'):
+        parts.append(f'<section class="scan"><h2 class="stitle">Patron of the First Edition</h2><img src="{fmi[r["portrait"]]}" alt="Maharaja of Mysore">'
+                     '<p class="cap2">His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore</p></section>')
+    if has('permission'): parts.append(scan(fmi[r['permission']], 'scan small', 'Permission page'))
     fe = load_front_en(cfg) if eng else None
     if fe:                                              # English PDF: the board page and the preface are translated, typeset pages
         parts.append(board_en(fe)); parts.append(preface_en(fe))
-    else:
+    elif has('board'):
         parts.append(f'<section class="scan"><img src="{fmi[r["board"]]}" alt="Board of scholars"><p class="cap2">{cfg["board_caption"]}</p></section>')
         for i, role in enumerate(r.get('preface', [])):
-            if not eng: parts.append(scan(fmi[role], 'scan', f'Preface page {i + 1}'))
+            if not eng and role in fmi: parts.append(scan(fmi[role], 'scan', f'Preface page {i + 1}'))
     parts.append('''<section class="portrait"><h2>Guru &amp; President of the Board of Scholars</h2>
  <img class="pic" src="../assets/guruji.jpg" alt="Guruji">
  <p class="cap2">Śrī Jagadguru Nāgaliṅga-parivrājakācārya-pīṭhādhyakṣa<br>Śilpasiddhānti Śivayogi Śrī Siddhaliṅga Svāmigaḷavaru,<br>President of the Veda-vimarśana Vidvan-maṇḍali</p></section>
@@ -329,8 +332,8 @@ def write(doc, name, html_only):
         print(f'wrote out/{name}.pdf')
 
 def abbreviations(cfg):
-    role = cfg['front'].get('abbreviations')
-    return scan(fm(cfg)[role], 'scan', 'List of abbreviations') + '\n' if role else ''
+    role = cfg.get('front', {}).get('abbreviations')
+    return scan(fm(cfg)[role], 'scan', 'List of abbreviations') + '\n' if role and role in fm(cfg) else ''
 
 def build_eng(cfg, html_only):
     md = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
@@ -368,7 +371,7 @@ def build_eng(cfg, html_only):
         idx = ''
     else:
         idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
-        ch, blocks = contents_html(cfg); ab = abbreviations(cfg)
+        ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
     write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only)
 
 def kannada_front_matter_fallback(cfg):
@@ -400,7 +403,7 @@ def build_kan(cfg, html_only):
         idx = '<section class="toc"><h2>ಸೂಕ್ತಸೂಚಿ</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
-    ch, blocks = contents_html(cfg)
+    ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])
     write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only)
 
 def main():
