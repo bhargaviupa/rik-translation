@@ -31477,6 +31477,301 @@ they kindle, and living beings generate.
 
 When we win and enjoy foods (iṣaḥ, "we share them"), and when Agni partakes of the oblations of us men, then, by the strength, the power, of the shining food (dyumna), I take the ray (raśmi) that grasps the water (ṛta, "water"). Agni takes. **NOTE**
 
+### Printed p. 833
+#### Ṛk 3 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> फलजनकं तेजः स्वीकृतवानित्यर्थः । यद्वा । ऋतस्य यज्ञस्य रश्मिं रश्मिवद्ग्राहकं
+> स्तवमा ददे । स्वीकरोति ॥
+
+##### Gist of the bhāṣya
+
+The sentence continues: "he has taken up the fruit-producing radiance," that is the meaning. Or else: he takes up the praise, which like a ray grasps the rite (ऋतस्य यज्ञस्य (*ṛtasya yajñasya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- इषः (*iṣaḥ*)—the foods in the form of oblations
+- सं वनामहे (*saṃ vanāmahe*)—we offer; and (when)
+- मानुषाणां (*mānuṣāṇāṃ*)—of us the sacrificers
+- हव्या (*havyā*)—the oblations
+- सं (सेवते) (*saṃ (sevate)*)—(Agni) accepts
+- उत (*uta*)—then
+- द्युम्नस्य (*dyumnasya*)—of the brilliant food
+- शवसा (*śavasā*)—by the strength
+- ऋतस्य (*ṛtasya*)—of the water-grasping
+- रश्मिं (*raśmiṃ*)—the rays
+- आ ददे (*ā dade*)—lifts up and holds
+
+##### भावार्थ (Bhāvārtha)
+
+When we offer the foods in the form of oblations, and when Agni accepts the oblations of us the sacrificers, then by the strength of the brilliant food Agni lifts up and holds the water-grasping rays (that is, he shines).
+
+##### English translation (H. H. Wilson)
+When we present to him (sacrificial) food, when (he accepts) the oblations of men, then by the power of the brilliant (viands), he assumes the radiance of the rite.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स स्मा॑ कृणोति के॒तुना नक्तं॑ चिद्दू॒र आ स॒ते ।  
+> पा॒व॒को यद्वन॒स्पती॒न्द्र स्मा॑ मि॒नात्य॒जरः॑ ॥ ४ ॥
+
+> *sa smā kṛṇoti ketunā naktaṃ ciddūra ā sate |*  
+> *pāvako yadvanaspatīndra smā minātyajaraḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । स्म । कृणोति । केतुं । आ । नक्तं । चित् । दूरे । आ । सते ।  
+> पावकः । यत् । वनस्पतीन् । प्र । स्म । मिनाति । अजरः ॥ ४ ॥
+
+> *saḥ | sma | kṛṇoti | ketuṃ | ā | naktaṃ | cit | dūre | ā | sate |*  
+> *pāvakaḥ | yat | vanaspatīn | pra | sma | mināti | ajaraḥ ‖ 4 ‖*
+
+### Printed p. 834
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सस्म स खल्वग्निः कृणोति । करोति । केतुं प्रज्ञानमा सर्वतः । कस्येत्युच्यते ।
+> चिदप्यर्थे । नक्तं चिद्रात्रावपि दूर आ सते । आ इति चार्थे । दूरेऽपि वर्तमानाय
+> मनुष्याय । कदा । यद्यदा पावकोऽयमग्निरजरोऽजीर्णोऽनभिभाव्यः सन्
+> वनस्पतीनेधांसि प्र स्म मिनाति । प्रकर्षेण दहति । स्मृति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+That Agni makes a sign, a perception, on every side. For whom? It is said: even by night, for a man who is far off (आ (*ā*) here has the sense of "and"). When? When this Agni, the purifier, undecaying and unovercome, burns the trees, the fuel, thoroughly. स्म (*sma*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पावकः (*pāvakaḥ*)—Agni the purifier
+- अजरः (*ajaraḥ*)—free from decay
+- वनस्पतीन् (*vanaspatīn*)—the forest trees
+- प्र स्ममिनाति (*pra smamināti*)—burns completely (then)
+- स स्म (*sa sma*)—that same Agni
+- नक्तं चित् (*naktaṃ cit*)—even at night
+- दूरे आ सते (*dūre ā sate*)—even to a man who is far away
+- आ (*ā*)—all around
+- केतुं (*ketuṃ*)—awareness
+- कृणोति (*kṛṇoti*)—produces
+
+##### भावार्थ (Bhāvārtha)
+
+When Agni, the purifier and undecaying, burns the forest trees completely, then that same Agni, even at night, produces (clear) awareness all around even for a man far away.
+
+##### English translation (H. H. Wilson)
+Verily he gives a signal by night to one who is far off, when he, the purifier, the undecaying, consumes the forest lords.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ स्म॒ यस्य॒ वेष॑णे॒ स्वेदं॑ प॒थिषु॒ जुह्व॑ति ।  
+> अ॒भीमह॒ स्वजे॑न्यं॒ भूमा॑ पृ॒ष्ठेव॑ रुरुहुः ॥ ५ ॥
+
+> *ava sma yasya veṣaṇe svedaṃ pathiṣu juhvati |*  
+> *abhīmaha svajenyaṃ bhūmā pṛṣṭheva ruruhuḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । स्म । यस्य । वेषणे । स्वेदं । पथिषु । जुह्वति ।  
+> अभि । ईं । अह । स्वजेन्यं । भूम । पृष्टा इव । रुरुहुः ॥ ५ ॥
+
+> *ava | sma | yasya | veṣaṇe | svedaṃ | pathiṣu | juhvati |*  
+> *abhi | īṃ | aha | svajenyaṃ | bhūma | pṛṣṭā iva | ruruhuḥ ‖ 5 ‖*
+
+### Printed p. 835
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्याग्निर्वेषणे परिचर्यायां पथिषु होममार्गेषु रश्मिषु स्वेदं
+> स्रवदाज्यमनाधोमुखं जुह्वत्यध्वर्यवः तदानीमीमेनमग्निमभि रुरुहुरह ।
+> अभ्यारोहंत्येवाज्यधाराः । अह इति विनिग्रहार्थीयः । स्वजेन्यं स्वोत्पन्नं भूम ।
+> बहु भवतीति भूमापत्यं । तत्पृष्ठेव पितुः पृष्ठदेशानिव । पुत्रा यथा पितुरंकमारोहंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+At whose service, in the paths of the offering, that is the flames, the adhvaryus pour the dripping ghee with its flow not turned downward, then the streams of ghee mount that Agni (अह (*aha*) is a particle of emphasis). स्वजेन्यं (*svajenyaṃ*) means self-born; भूम (*bhūma*) is "offspring", what becomes many. They mount as if on the back of a father: as sons climb onto a father's lap, so do they.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Agni
+- वेषणे (*veṣaṇe*)—at the time of worship
+- पथिषु (*pathiṣu*)—in the flames of the sacrificial fire
+- स्वेदं (*svedaṃ*)—the flowing stream of ghee
+- अव (*ava*)—downward
+- जुह्वति (*juhvati*)—(the adhvaryus and others) offer
+- ईं (*īṃ*)—that same Agni
+- स्वजेन्यं (*svajenyaṃ*)—those born from himself
+- भूम (*bhūma*)—the numerous sons
+- पृष्ठेव (*pṛṣṭheva*)—as they climb and sit on a father's lap
+- अह (*aha*)—certainly
+- अभि रुरुहुः (*abhi ruruhuḥ*)—take refuge in and stay
+
+##### भावार्थ (Bhāvārtha)
+
+At the worship of the Agni into whose flames the adhvaryus and others pour the flowing ghee, the streams of ghee settle upon that same Agni, like numerous sons, born of himself, climbing onto a father's lap.
+
+##### English translation (H. H. Wilson)
+At whose worship (the priests) pour the dripping (butter) upon the the flames, and (the drops) mount upon the fire as if they were its own numerous offspring, as (boys ride) upon the back (of a father).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं मर्त्यः॑ पुरु॒स्पृहं॑ वि॒दद्विश्व॑स्य॒ धाय॑से ।  
+> प्र स्वाद॑नं पितू॒नामस्त॑तातिं चिदा॒यवे॑ ॥ ६ ॥
+
+> *yaṃ martyaḥ puruspṛhaṃ vidadviśvasya dhāyase |*  
+> *pra svādanaṃ pitūnāmastatātiṃ cidāyave ‖ 6 ‖*
+
+### Printed p. 836
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । मर्त्यः । पुरुस्पृहं । विदत् । विश्वस्य । धायसे ।  
+> प्र । स्वादनं । पितूनां । अस्ततातिं । चित् । आयने ॥ ६ ॥
+
+> *yaṃ | martyaḥ | puruspṛhaṃ | vidat | viśvasya | dhāyase |*  
+> *pra | svādanaṃ | pitūnāṃ | astatātiṃ | cit | āyane ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमग्निं पुरुस्पृहं बहुभिः स्पृहणीयं विदत् । वेत्ति । मर्त्यो यजमानो विश्वस्य धायसे सर्वस्य व्याप्त्यर्थं . पितूनामन्नानां प्र स्वादनं प्रकर्षेण
+> स्वादूकर्तारमस्ततातिमस्ते गृहे निवासकर्तारमायवेऽन्नार्थं यजमानार्थं वा॥
+
+##### Gist of the bhāṣya
+
+The mortal, the sacrificer, knows Agni as desired by many, for the sustaining of all (विश्वस्य धायसे (*viśvasya dhāyase*): for the pervading of everything), as the one who makes the foods exceedingly tasty, and as the maker of a dwelling in the house, for the sake of food or for the sacrificer (आयवे (*āyave*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुस्पृहं (*puruspṛhaṃ*)—desired by many
+- यं (*yaṃ*)—which Agni
+- मर्त्यः (*martyaḥ*)—the human sacrificer
+- विश्वस्य (*viśvasya*)—of the whole world
+- धायसे (*dhāyase*)—as the supporter
+- पितूनां (*pitūnāṃ*)—for the foods
+- प्रस्वादनं (*prasvādanaṃ*)—as the giver of taste
+- आयवे (*āyave*)—to the human sacrificer
+- अस्ततातिं (*astatātiṃ*)—as the giver of a dwelling
+- विदत् (*vidat*)—knows (the streams of ghee take refuge in that Agni)
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who is desired by many, whom the human sacrificer knows as the supporter of the whole world, the giver of taste to foods and the giver of a dwelling to the human sacrificer, that Agni the streams of ghee enter.
+
+##### English translation (H. H. Wilson)
+Him whom the desired of many, the (devout) man recognizes as the sustainer of all, the flavourer of food, the provider of dwellings for men.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि ष्मा॒ धन्वाक्षि॑तं॒ दाता॒ न दात्या प॒शुः ।  
+> हिरि॑श्मश्रुः॒ शुचि॑दन्नृ॒भुरनि॑भृष्टतविषिः ॥ ७ ॥
+
+> *sa hi ṣmā dhanvākṣitaṃ dātā na dātyā paśuḥ |*  
+> *hiriśmaśruḥ śucidannṛbhuranibhṛṣṭataviṣiḥ ‖ 7 ‖*
+
+### Printed p. 837
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । स्म । धन्व । आक्षितं । दाता । न । दाति । आ । पशुः ।  
+> हिरिश्मश्रुः । शुचिदन् । ऋभुः । अनिभृष्टतविषिः ॥ ७ ॥
+
+> *saḥ | hi | sma | dhanva | ākṣitaṃ | dātā | na | dāti | ā | paśuḥ |*  
+> *hiriśmaśruḥ | śucidan | ṛbhuḥ | anibhṛṣṭataviṣiḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि ष्म स खल्वग्निर्धन्व निरुदकप्रदेशमाक्षितं तृणकाष्ठादिभिराक्षिप्तमा दाति ।
+> सर्वतः खंडयति। दहतीत्यर्थः । दाता तृणादिखंडयिता पशुर्न सशुरिव। पशुर्यथा
+> तृणजातं क्रमेण भक्षयति तद्वत् । हिरिश्मश्रुर्हिरण्यश्मश्रुः शुचिदन् दीप्तदंत
+> ऋभुरुरु भवन् । महानित्यर्थः । अनिभृष्टतविषिरपीडितबलः ॥
+
+##### Gist of the bhāṣya
+
+That Agni cuts all round the waterless ground (धन्व (*dhanva*)) strewn with grass, wood and the like; "cuts" means burns. He is the cutter of grass and so on, like an animal (पशुः (*paśuḥ*)), as an animal eats grass bit by bit. He is golden-bearded, bright-toothed, ऋभुः (*ṛbhuḥ*), that is vast and great, and of unoppressed strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिरिश्मश्रुः (*hiriśmaśruḥ*)—having flames like golden hair
+- शुचिदन् (*śucidan*)—radiant
+- ऋभुः (*ṛbhuḥ*)—the great one
+- अनिभृष्टतविषिः (*anibhṛṣṭataviṣiḥ*)—of unobstructed power
+- स हि स्म (*sa hi sma*)—that same Agni
+- दाता (*dātā*)—cutting (eating) grass and so on
+- पशुः न (*paśuḥ na*)—like an animal
+- आक्षितं (*ākṣitaṃ*)—covered with wood and the like
+- धन्व (*dhanva*)—the waterless forest
+- आ दाति (*ā dāti*)—pervades fully and burns
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, with flames like golden hair, radiant, great, of unobstructed power, pervades fully and burns that waterless forest covered with wood and the like, like an animal cutting grass.
+
+##### English translation (H. H. Wilson)
+He crops the dry ground strewn (with grass and wood), like an animal grazing; he with a golden beard, wilh a shining teeth, vast, and of irresistible strength.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुचिः॑ ष्म॒ यस्मा॑ अत्रि॒वत्प्र स्वधि॑तीव॒ रीय॑ते ।  
+> सु॒षूर॑सूत मा॒ता क्रा॒णा यदा॑न॒शे भगं॑ ॥ ८ ॥
+
+> *śuciḥ ṣma yasmā atrivatpra svadhitīva rīyate |*  
+> *suṣūrasūta mātā krāṇā yadānaśe bhagaṃ ‖ 8 ‖*
+
+### Printed p. 838
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुचिः । स्म । यस्मै । अतिवत् । प्र । स्वधितिः इव । रीयते ।  
+> सुसूः । असूत । माता । क्राणा । यत् । आनशे । भगं ॥ ८ ॥
+
+> *śuciḥ | sma | yasmai | ativat | pra | svadhitiḥ iva | rīyate |*  
+> *susūḥ | asūta | mātā | krāṇā | yat | ānaśe | bhagaṃ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः शुचिः ष्म दीप्तः खलु । यस्मा अग्नयेऽत्रिवदत्रिरिव यजमानो
+> हविर्दातुं प्र रीयते । प्रगच्छति । यद्वा! स्मृति पूरणः । शुचियस्यै ॥ प्रथमार्थे
+> चतुर्थि ॥ दीप्त्यो योऽत्रिवत् । अत्ति तृणमित्यत्रिः पशुः । स इव । स यथा तृणानि
+> खादमानो गच्छति तद्वद्द हतीत्यर्थः । स्वधितिरिव परशुरिव छिंदन् । सुषूः सुप्रसवा
+> मातारणिरसूत क्राणा कुर्वाणं जगदुपकारकं । यद्यस्मात् य इति वा ।
+> योऽग्निर्भगमन्नमानशे । अश्नुते ॥
+
+##### Gist of the bhāṣya
+
+This Agni is bright, shining indeed. To that Agni the sacrificer goes forth, like Atri, to give the oblation. Or else (यद्वा (*yadvā*)) स्म (*sma*) is a filler and शुचिः (*śuciḥ*) is in the dative (शुचियस्यै (*śuciyasyai*)) in the sense of the nominative. He who is bright is अत्रिवत् (*atrivat*): *atriḥ* is an animal that eats grass; like it, as it goes eating grass, so he burns. स्वधितिरिव (*svadhitiriva*): like an axe, cutting. The mother, the fire-stick (*araṇiḥ*), bearing a good offspring, brought forth him who acts as benefactor of the world. यत् (*yat*) is "because", or यः (*yaḥ*): the Agni who obtains food as his share (भगं (*bhagaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मै (*yasmai*)—toward which Agni
+- अत्रिवत् (*atrivat*)—the sacrificer imitating Atri
+- प्र रीयते (*pra rīyate*)—approaches (to offer the oblation); (that Agni)
+- स्वधितीव (*svadhitīva*)—like the edge of a sharp axe
+- शुचिः स्म (*śuciḥ sma*)—is indeed brilliant
+- यत् (*yat*)—because
+- भगं (*bhagaṃ*)—the food in the form of oblation
+- आनशे (*ānaśe*)—(Agni) eats; (therefore)
+- स्वसूः (*svasūḥ*)—bearing an excellent son
+- माता (*mātā*)—the mother, the fire-stick
+- क्राणा (*krāṇā*)—as benefactor of the world
+- असूत (*asūta*)—brought forth (Agni)
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni toward whom the sacrificer, imitating Atri, approaches to offer the oblation is brilliant like the edge of a sharp axe. Because Agni eats the food in the form of oblation, therefore the mother, the fire-stick, who bears an excellent son, brought forth Agni as the benefactor of the world.
+
+##### English translation (H. H. Wilson)
+Bright as an axe is he to whom the (worshipper), like Atri, proceeds (to offer worship) : he whom his prolific mother has brought forth, bestow- ing (a benefactor on the world). when (Agni) obtains (sacrificial) food.
+
 ---
 
-**Progress note:** Done through printed p. 832. pp. 827-832 (batch API)
+**Progress note:** Done through printed p. 838. pp. 833-838 (batch API)
