@@ -17622,6 +17622,145 @@ Bṛhaspati, becoming Śukra, created for the gods the light of knowledge and fo
 
 Bṛhaspati is the bull (the showerer of desired fruits) of the चर्षणीनां (*carṣaṇīnāṃ*), the men; विश्वरूपं (*viśvarūpaṃ*) means "of all-pervading form". Or else, he is "accompanied by a cow-vehicle named Viśvarūpā". The mantra text says so: बृहस्पतिर्विश्वरूपामुपाजत (*bṛhaspatirviśvarūpāmupājata*) (Ṛg. 1-161-6). अदाभ्यं (*adābhyaṃ*) means "not to be slighted by anyone"; वरेण्यं (*vareṇyaṃ*) means "to be served by all". "I ask Bṛhaspati for the desired fruit": the construction links with the earlier verse. The remaining discussion concerns the accent of विश्वरूपं (*viśvarūpaṃ*) (in a bahuvrīhi, initial-member final-udātta; or, in the alternative, with the affix ac after the arśa-ādi group) and the formation of अदाभ्यं (*adābhyaṃ*) with the affix ṇyat.
 
+### Printed p. 543
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चर्षणीनां (*carṣaṇīnāṃ*)—to men
+- वृषभं (*vṛṣabhaṃ*)—the giver of desired things
+- विश्वरूपं (*viśvarūpaṃ*)—the one of many forms
+- अदाभ्यं (*adābhyaṃ*)—the one who is rejected by no one
+- वरेण्यं (*vareṇyaṃ*)—the one worthy of the worship of all
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati (I beseech)
+
+##### भावार्थ (Bhāvārtha)
+
+I beseech Bṛhaspati, who gives desired things to men, who has many forms, who is rejected by no one, and who is worthy of the worship of all.
+
+##### English translation (H. H. Wilson)
+The showerer (of benefits) on men, the omniform, the irreproachable, the excellent Brihaspati.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa has given two kinds of meaning for the epithet विश्वरूपं (*viśvarūpaṃ*). First, व्याप्तरूपं (*vyāptarūpaṃ*): one whose form pervades all regions. Second, यद्वा निश्वरूपानाम गोवाहनोपेतं (*yadvā niśvarūpānāma govāhanopetaṃ*): one who has as his vehicle the cow named Viśvarūpa. Both kinds of explanation describe the nature of Bṛhaspati.
+
+Earlier it was explained, in एष उ एव बृहस्पतिः (*eṣa u eva bṛhaspatiḥ*) and वाग्वै बृहस्पतिः (*vāgvai bṛhaspatiḥ*), that Speech, which is all-pervading, is Bṛhaspati; that the Udgītha, which has many forms such as Aṅgirasa and Ayāsya and is all-pervading, is Bṛhaspati; and that Agni, who pervades the universe through names and forms such as Vaiśvānara, is Bṛhaspati. That showed Bṛhaspati's all-pervasiveness. Here the propriety of this epithet must be examined through the explanation विश्वरूपानामगोवाहनोपेतं (*viśvarūpānāmagovāhanopetaṃ*).
+
+अरुण्यो गाव उषसां । श्यावा सवितुः । विश्वरूपा बृहस्पतेः ॥ (*aruṇyo gāva uṣasāṃ | śyāvā savituḥ | viśvarūpā bṛhaspateḥ ‖*) (Ni. 2-28). Just as the horses called Harī are well known for Indra, the ruddy cows for Uṣas, the goats for Pūṣan, and likewise vehicles suited to the other deities, so for Bṛhaspati the cow called Viśvarūpā is well known as the vehicle. Sāyaṇa too cites the passage बृहस्पतेर्विश्वरूपामुपाजत (*bṛhaspaterviśvarūpāmupājata*) (Ṛ. Saṃ. 1-161-6) and says that, as Viśvarūpā there means the cow of that name, so here too the sense is "one who has the cow named Viśvarūpa". However, while explaining Ṛk 1-161-6 he also raises the doubt why the word विश्वरूपां (*viśvarūpāṃ*) should be taken as meaning a cow, and gives the answer.
+
+### Printed p. 544
+धेनुं सबर्दुघां चक्रुरमृतं सबरुच्यते । बृहस्पतेरथाश्विभ्यां रथं दिव्यं त्रिवंधुरं ॥ (*dhenuṃ sabardughāṃ cakruramṛtaṃ sabarucyate | bṛhaspaterathāśvibhyāṃ rathaṃ divyaṃ trivaṃdhuraṃ ‖*) (Bṛ. De. 3-85, 86). This says that the Ṛbhus made for Bṛhaspati a cow that yields nectar. The name Viśvarūpā is not mentioned. Some hold that this cow is the goddess of Speech, that the varieties of Speech, which has many natures, are what has all forms, and that Speech, which has the nature of the supreme Brahman, is the nectar. Scriptural statements can be shown in support of this purport as well.
+
+. यद्यप्यत्र गौरिति विशेषो न श्रुतः तथापि पूर्वं धेनुं कर्त्वा इत्युत्तत्वात् परस्ताच्च ये धेनुं विश्वजुवं विश्वरूपां इति वक्ष्यमाणत्वाच्च विश्वरूपा गौः इत्येवाध्यवसीयते ॥ (*. yadyapyatra gauriti viśeṣo na śrutaḥ tathāpi pūrvaṃ dhenuṃ kartvā ityuttatvāt parastācca ye dhenuṃ viśvajuvaṃ viśvarūpāṃ iti vakṣyamāṇatvācca viśvarūpā gauḥ ityevādhyavasīyate ‖*). In the present verse there is no qualified noun "cow". Still, because the making of a cow was mentioned before (1-161-3), and because later too the creation of a cow is stated with विश्वरूपां (*viśvarūpāṃ*), the sense here too must be "cow". So Sāyaṇa explains Ṛk 1-161-6.
+
+Moreover:
+रथं ये चक्रुः सुवृतं नरेष्ठां ये धेनुं विश्वजुवं विश्वरूपां । त आ तक्षन्त्वृभवो रयिं नः स्ववसः स्वपसः सुहस्ताः ॥ (*rathaṃ ye cakruḥ suvṛtaṃ nareṣṭhāṃ ye dhenuṃ viśvajuvaṃ viśvarūpāṃ | ta ā takṣantvṛbhavo rayiṃ naḥ svavasaḥ svapasaḥ suhastāḥ ‖*) (Ṛ. Saṃ. 9-33-8).
+Here it is clear that the Ṛbhus created for Bṛhaspati the cow called Viśvarūpā. The same point is made in the present verse, and Bṛhaspati's nature is described by the epithet विश्वरूपं (*viśvarūpaṃ*).
+
+वरेण्यं (*vareṇyaṃ*)—संभजनीयं (*saṃbhajanīyaṃ*): Bṛhaspati, who is worthy of worship; Bṛhaspati is worthy of worship for all the gods and for men.
+ब्रह्म हि बृहस्पतिर्ब्रह्म हि ब्राह्मणाः (*brahma hi bṛhaspatirbrahma hi brāhmaṇāḥ*) (Śa. Brā. 5-1-5-6).
+ब्रह्म वै बृहस्पतिर्ब्रह्मणैवैनं तद्भिषज्यति (*brahma vai bṛhaspatirbrahmaṇaivainaṃ tadbhiṣajyati*) (Ai. Brā. 4-19).
+In such passages Bṛhaspati's worthiness of worship is praised. Here the favour of Bṛhaspati, who has such greatness, is prayed for.
+
+### Printed p. 545
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं ते॑ पूषन्नाघृणे सुष्टु॒तिर्दे॑व॒ नव्य॑सी ।  
+> अ॒स्माभि॒स्तुभ्यं॑ शस्यते ॥ ७ ॥
+
+> *iyaṃ te pūṣannāghṛṇe suṣṭutirdeva navyasī |*  
+> *asmābhistubhyaṃ śasyate ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । ते । पूषन् । आफृणे । सुस्तुतिः । देव । नव्यसी ।  
+> अस्माभिः । तुभ्यं । शस्यते ॥ ७ ॥
+
+> *iyaṃ | te | pūṣan | āphṛṇe | sustutiḥ | deva | navyasī |*  
+> *asmābhiḥ | tubhyaṃ | śasyate ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आघ्रणे आगतदीप्तिमन् हे पूषन् देव नव्यसी नवतरेयं सुष्टुतिः शोभ
+> नस्तुतिरूपा वाक् ते त्वत्संबंधिनी भवति । सैषा स्तुतिरस्माभिः स्तोतृभिस्तुभ्यं
+> त्वदर्थं शस्यते । तां जुषस्वेत्युत्तरेणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Āghṛṇi (one whose radiance has arrived), O Pūṣan, O god: this newer, fresh laudation, a speech of praise that is beautiful, is yours, related to you. This praise is uttered by us, the praisers, for you, for your sake. The construction is with the following verse: "Enjoy it."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आघृणे (*āghṛṇe*)—O shining one
+- पूषन् देव (*pūṣan deva*)—O god Pūṣan
+- नव्यसी (*navyasī*)—new
+- इयं सुष्टुतिः (*iyaṃ suṣṭutiḥ*)—and excellent, this praise
+- ते (*te*)—to be offered to you
+- अस्माभिः (*asmābhiḥ*)—by us, the praisers
+- तुभ्यं (*tubhyaṃ*)—addressed to you
+- शस्यते (*śasyate*)—is praised
+
+##### भावार्थ (Bhāvārtha)
+
+O shining god Pūṣan, this praise, new and excellent, is to be offered to you. It has been composed by us, the praisers, in your honour.
+
+##### English translation (H. H. Wilson)
+Divine, resplendent, Pushan, this, your most recent laudation, is uttered by us to you.
+
+##### विशेषविषयगळु (Special Topics)
+
+पूषन् (*pūṣan*)—पूषा यद्रश्मिपोषं पुष्यति तत् पूषा भवति (*pūṣā yadraśmipoṣaṃ puṣyati tat pūṣā bhavati*) (Ni. 12-16). The author of the Nirukta has shown this derivation of the word: since he nourishes the world, attaining an abundance of rays, he is named Pūṣā. To show that this definition is fitting, the Nirukta-writer has cited as authority a passage of the Ṛk Saṃhitā.
+
+### Printed p. 546
+शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि । विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥ (*śukraṃ te anyadyajataṃ te anyadviṣurūpe ahanī dyaurivāsi | viśvā hi māyā avasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*) (Ṛ. Saṃ. 6-58-1).
+O Pūṣan, you possess a variety of radiance. Day and night are all the effect of your radiance. All your actions filled with wisdom also point to the power of the Sun. You are one who possesses exceedingly great radiance. Thus a Ṛk describing Pūṣan's quality is cited, showing that radiance is his special quality.
+
+पुष्यन् क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः । तेनैनमस्तौत्पोषेति भरद्वाजस्तु पंचभिः ॥ (*puṣyan kṣitiṃ poṣayati praṇudan raśmibhistamaḥ | tenainamastautpoṣeti bharadvājastu paṃcabhiḥ ‖*) (Bṛ. De. 2-63).
+He is called Pūṣā because, destroying darkness with his mass of radiance, he nourishes the earth so that it attains fullness. The seer Bharadvāja praised Pūṣan with hymns addressed to this god, in five sūktas. The authors of the Bṛhaddevatā state that in that context all of Pūṣan's good qualities are described.
+
+इयं वै पूषा पूषेयं हीवं सर्वं पुष्यति यदिदं किंच । (*iyaṃ vai pūṣā pūṣeyaṃ hīvaṃ sarvaṃ puṣyati yadidaṃ kiṃca |*) (Śa. Brā. 14-4-2-25).
+In the Śatapatha Brāhmaṇa his nature is described thus: he is called Pūṣan because he nourishes all things. There is room for discussion on whether Pūṣan is only one of the twelve Ādityas or an independent deity distinct from them.
+
+यास्ते पूषन्नावो अंतः समुद्रे हिरण्ययिरंतरिक्षे चरंति । ताभिर्यासि दूत्यां सूर्यस्य कामेन कृत श्रव इच्छमानः ॥ (*yāste pūṣannāvo aṃtaḥ samudre hiraṇyayiraṃtarikṣe caraṃti | tābhiryāsi dūtyāṃ sūryasya kāmena kṛta śrava icchamānaḥ ‖*) (Ṛ. Saṃ. 6-58-3).
+O Pūṣan, the beneficial, ray-formed boat of yours that sails in the ocean of the atmosphere: together with that ray-formed boat you act as the Sun's messenger. From such passages it is shown that points of difference between the Sun and Pūṣan appear. In Sūkta 8-29 of the Ṛ. Saṃ., where the nature of the Viśvedevas is described, no solar quality is specified in the description of Pūṣan. So it is argued that, contrary to the traditional view, Pūṣan is not an Āditya deity; he is a deity of "herdsman" nature who has obtained a distinct character of his own.
+
+### Printed p. 547
+The main part of the hymns to the deity Pūṣan is in the sixth Maṇḍala of the Ṛk Saṃhitā. As stated in the Bṛhaddevatā, it appears that the seers of the Bhāradvāja line took Pūṣan as their chief deity. Some call this portion the Pūṣa-saṃhitā. Besides, in other parts of the Saṃhitā too Pūṣan is praised, together with other deities such as Indra and Soma. Descriptions such as Kaparda, Paśusādhanī, Aṣṭrā, Karambhād and Ajāśva give a definite picture of Pūṣan. Along with the ordinary qualities that other deities also have, a special aspect of Pūṣan seems to be prominent in the sixth Maṇḍala. It is stated plainly that he is the deity who protects herds, that by the grace of this deity the cattle-wealth of worshippers should increase, and that he is the protector of cattle that have lost their way.
+
+पूषा गा अन्वेतु नः पूषा रक्षत्वर्वतः । पूषा वाजं सनोतु नः ॥ (*pūṣā gā anvetu naḥ pūṣā rakṣatvarvataḥ | pūṣā vājaṃ sanotu naḥ ‖*) (Ṛ. Saṃ. 6-54-5).
+मार्किर्नेशन्माकीं रिषन्माकीं सं शारि केवटे । अथारिष्टाभिरा गहि । (*mārkirneśanmākīṃ riṣanmākīṃ saṃ śāri kevaṭe | athāriṣṭābhirā gahi |*) (Ṛ. Saṃ. 6-54-7).
+Thus, praying in many ways, they pray that their cattle-wealth be increased.
+
+From the above examples, though Pūṣan may be called an independent deity, it is not possible to say that he is distinct from the twelve Ādityas; and to say so would be wrong. For, although epithets such as protector of cattle show Pūṣan's distinctness, he is described as a deity who is a mass of radiance, just as the deities Sūrya, Aryaman, Bhaga and others are described. Yāska counts Pūṣan as one of the twelve Ādityas. The scholar Bloomfield too, following Yāska's view, maintains, on the basis of the epithet आफृणि (*āphṛṇi*) in Ṛks such as Ṛ. Saṃ. 6-48.16; 6-53-6; 6-55-1, that Pūṣan is an Āditya deity who makes light shine.**NOTE** Some oppose this view. They argue that the word आफृणि (*āphṛṇi*), used also in the present Ṛk, can describe the quality of any radiant deity; that this epithet may be used of any deity full of radiance; that there is no rule that it must be an Āditya; that, for example (Ṛ. Saṃ. 8-60-20), in some places the epithet applies to Agni; and that by this one epithet alone Pūṣan cannot be determined to be an Āditya deity. Yāska, the authors of the Bṛhaddevatā and others of the Vedic tradition maintain that आफृणि (*āphṛṇi*) is a special quality showing Pūṣan's distinctness alone. When Yāska gives the definition of this word in the Nirukta, he explains it as आफृणिराहृतहृणिः (*āphṛṇirāhṛtahṛṇiḥ*),
+
+### Printed p. 548
+and indicating the word in the Ṛk
+एहि वां विमुचो नपादाघृणे सं सचावहै । रथीर्यतस्य नो भव । (*ehi vāṃ vimuco napādāghṛṇe saṃ sacāvahai | rathīryatasya no bhava |*) (Ṛ. Saṃ. 6-55-1),
+he states his view. But in आगतहृणिः (*āgatahṛṇiḥ*) he has not given a precise meaning for the word हृणि (*hṛṇi*). The word हृणि (*hṛṇi*) is read among the words for brightness (Ni. 2-28) and also among the names of anger (Ni. 4-9). Therefore Durgācārya, commenting on this word, says: अफृणिशब्दो दीप्तिवाचकः । दीप्तिकर्मसु च पठित एवायं हृणिः इति (*aphṛṇiśabdo dīptivācakaḥ | dīptikarmasu ca paṭhita evāyaṃ hṛṇiḥ iti*). Since the word हृणि (*hṛṇi*) is read among words denoting brightness, one meaning is "shining"; and क्रोधोऽपि हृणिरुच्यते (*krodho 'pi hṛṇirucyate*): since the word हृणि (*hṛṇi*) also means anger, another is "let us serve that Pūṣan whose anger may be directed upon us". Thus he shows that two kinds of explanation are possible. The authors of the Bṛhaddevatā explain this epithet in yet another way.
+
+तृचो विश्वेषां देवानां पूष्ण आघृणये तृचः । आसक्तो हि घृणिस्तस्य दध्नः पूर्णो दृती रथे ॥ आघृणिस्तत्सुतः पूषा कीरिभी रिभ्यते ततः ॥ (*tṛco viśveṣāṃ devānāṃ pūṣṇa āghṛṇaye tṛcaḥ | āsakto hi ghṛṇistasya dadhnaḥ pūrṇo dṛtī rathe ‖ āghṛṇistatsutaḥ pūṣā kīribhī ribhyate tataḥ ‖*) (Bṛ. De. 3-95, 96).
+Since a leather bag filled with curds (an intoxicating liquid) is tied to his chariot, he has the name आफृणि (*āphṛṇi*); and for that very reason the poets who praise him praise Pūṣan as आफृणि (*āphṛṇi*). Generally Sāyaṇa, in all places where this word occurs, explains it as आगतदीप्ते पूषन् (*āgatadīpte pūṣan*). This word (आफृणि (*āphṛṇi*)) is an epithet of Agni only at 8-60-20. In all other places it is an epithet of Pūṣan and states his distinctness.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तां जु॑षस्व॒ गिरं॒ मम॑ वाज॒यंती॑मवा॒ धियं॑ ।  
+> व॒धू॒युरि॑व॒ योष॑णां ॥ ८ ॥
+
+> *tāṃ juṣasva giraṃ mama vājayaṃtīmavā dhiyaṃ |*  
+> *vadhūyuriva yoṣaṇāṃ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शां । जुषस्व । गिरं । मम । वाजयंतीं । अव । धियं ।  
+> वधूयुःइव । योषणां ॥ ८ ॥
+
+> *śāṃ | juṣasva | giraṃ | mama | vājayaṃtīṃ | ava | dhiyaṃ |*  
+> *vadhūyuḥiva | yoṣaṇāṃ ‖ 8 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 542. pp. 537-542 (batch API)
+**Progress note:** Done through printed p. 548. pp. 543-548 (batch API)
