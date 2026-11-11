@@ -31772,6 +31772,282 @@ The Agni toward whom the sacrificer, imitating Atri, approaches to offer the obl
 ##### English translation (H. H. Wilson)
 Bright as an axe is he to whom the (worshipper), like Atri, proceeds (to offer worship) : he whom his prolific mother has brought forth, bestow- ing (a benefactor on the world). when (Agni) obtains (sacrificial) food.
 
+### Printed p. 839
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यस्ते॑ सर्पिरासु॒तेऽग्ने॒ शमस्ति॒ धाय॑से ।  
+> ऐषु॑ द्यु॒न्नुमु॒त श्रव॒ आ चि॒त्तं मर्त्ये॑षु धाः ॥ ९ ॥
+
+> *ā yaste sarpirāsute 'gne śamasti dhāyase |*  
+> *aiṣu dyunnumuta śrava ā cittaṃ martyeṣu dhāḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । ते । सर्पिः आसुते । अग्ने । शं । अस्ति । धायसे ।  
+> आ । एषु । द्युम्नं । उत । श्रवः । आ । चित्तं । मर्त्येषु । धाः ॥ ९ ॥
+
+> *ā | yaḥ | te | sarpiḥ āsute | agne | śaṃ | asti | dhāyase |*  
+> *ā | eṣu | dyumnaṃ | uta | śravaḥ | ā | cittaṃ | martyeṣu | dhāḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सर्पिरासुते धृताख्यान्नाग्ने यस्त्वमा सर्वतो भवसि तादृशाय धायसे
+> सर्वस्य धात्रे ते तुभ्यं शमस्ति । सुखमस्ति । स्तुतेः सकाशात् । तथा चेत् विषु
+> मर्त्येषु स्तोतृस्वात्रेयेषु द्युम्नं यश आ धाः । आधेहि । उतापि च श्रवोऽन्नमा धाः । चित्तं त्वदीयामनुग्रहबुद्धिमप्या धाः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, सर्पिरासुते (*sarpirāsute*) (Agni named as the ghee, one to whom ghee is offered), you who are present on every side: to such a one, धायसे (*dhāyase*), the sustainer of all, there is well-being (शमस्ति (*śamasti*), "there is happiness") coming from our praise. Therefore bestow on these mortals, the Ātreya praisers, glory (द्युम्नं (*dyumnaṃ*), fame). Bestow also food (श्रवः (*śravaḥ*) is food), and bestow too your own mind of favour (चित्तं (*cittaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—you who
+- आ (*ā*)—pervade everywhere (such a one)
+- सर्पिरासुते (*sarpirāsute*)—the receiver of the oblation
+- धायसे (*dhāyase*)—the sustainer of the world
+- ते (*te*)—to you
+- शं (*śaṃ*)—(from our praise) happiness
+- अस्ति (*asti*)—there is (therefore)
+- एषु मर्त्येषु (*eṣu martyeṣu*)—among these worshippers in human form
+- द्युम्नं (*dyumnaṃ*)—wealth
+- आ धाः (*ā dhāḥ*)—bring and place
+- उत (*uta*)—and
+- श्रवः (*śravaḥ*)—food
+- आ (*ā*) (धाः (*dhāḥ*))—bring and supply
+- चित्तं (*cittaṃ*)—(a devout) mind (supply)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who pervade everywhere, receiver of the oblation and sustainer of the world: our praise brings you pleasure. Therefore bring and supply wealth and food to these worshippers who are in human form, and cause them to have a devout mind.
+
+##### English translation (H. H. Wilson)
+To you, Agni, the accepter of the oblation, the upholder (of all), there is pleasure (from our praise): bestow upon these your worshippers wealth, and food, and a heart (grateful for your favour.)
+
+### Printed p. 840
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इति॑ चिन्म॒न्युम॒ध्रिज॒स्त्वादा॑त॒मा प॒शुं द॑दे ।  
+> आद॑ग्ने॒ अपृ॑ण॒तोऽत्रिः॑ सासह्या॒द्दस्यू॑नि॒षः सा॑सह्या॒न्नान्॥१०॥
+
+> *iti cinmanyumadhrijastvādātamā paśuṃ dade |*  
+> *ādagne apṛṇato 'triḥ sāsahyāddasyūniṣaḥ sāsahyānnān‖10‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इति । चित् । मन्युं । अध्रिजः । त्वादातं । आ । पशुं । ददे ।  
+> आत् । अग्ने । अपृणतः । अत्रिः । ससह्यात् । दस्यून् । इषः । ससह्यात् । नृन् ॥१०॥
+
+> *iti | cit | manyuṃ | adhrijaḥ | tvādātaṃ | ā | paśuṃ | dade |*  
+> *āt | agne | apṛṇataḥ | atriḥ | sasahyāt | dasyūn | iṣaḥ | sasahyāt | nṛn ‖10‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इति चित् इत्थं कृतप्रकारेण मन्युं मननसाधनं स्तोत्रमद्रिजः । अधृतमनैरग्नि व्यतिरिक्तैरधृष्यं वा जनयिता ऋषिस्तादातं त्वया दातव्यं पशुमा ददे ।
+> आदत्ते । आददीत वा । आदनंतरमेवाग्नेरपृणतोऽददतो दस्युनत्रिस्तद्योत्र
+> इषः सासह्यात् । भृशमभिभवेत् । इष एष्टन्नान् विरोधिनः सासह्यात् ।
+
+##### Gist of the bhāṣya
+
+इति चित् (*iti cit*): in the manner just done. मन्युं (*manyuṃ*) is the means of thought, that is, the praise. अध्रिजः (*adhrijaḥ*) is the ṛṣi who produces it, either one whose mind is not held by anything other than Agni, or one unassailable. He takes (आ ददे (*ā dade*); or may he take) the animal that is to be given by you (त्वादातं (*tvādātaṃ*)). Immediately after that, O Agni, Atri would overcome those dasyus who do not give (अपृणतः (*apṛṇataḥ*)), those who do not offer. The words that follow are इषः सासह्यात् (*iṣaḥ sāsahyāt*), "may he overcome them utterly" (भृशमभिभवेत् (*bhṛśamabhibhavet*)); and इष एष्टन्नान् विरोधिनः सासह्यात् (*iṣa eṣṭannān virodhinaḥ sāsahyāt*), "may he overcome the opposing …". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इति चित् (*iti cit*)—in this very manner
+- मन्युं (*manyuṃ*)—the meditative praise (the one who offers it)
+- अध्रिजः (*adhrijaḥ*)—the ṛṣi who composes praise that is not to be carried off (by other gods) and is addressed solely to Agni
+- त्वादातं (*tvādātaṃ*)—to be given by you
+- पशुं (*paśuṃ*)—the animal
+- आ ददे (*ā dade*)—may he receive
+- आत् (*āt*)—immediately after that
+- अग्ने (*agne*)—O Agni
+- अपृणतः (*apṛṇataḥ*)—who do not offer oblations
+- दस्यून् (*dasyūn*)—the dasyus
+- आत्रिः (*ātriḥ*)—born in the line of Atri
+- इषः (*iṣaḥ*)—the ṛṣi Iṣa
+- सासह्यात् (*sāsahyāt*)—may he utterly defeat
+- नृन् (*nṛn*)—hostile men
+- सासह्यात् (*sāsahyāt*)—may he utterly defeat
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the manner stated above, may the ṛṣi, who composes praise that is not carried off by other gods but is addressed to Agni alone, and who offers meditative praise, receive the animal that is to be given by you. Immediately after, may the ṛṣi Iṣa, born in the line of Atri, utterly defeat the dasyus who offer no oblation and the hostile men.
+
+### Printed p. 841
+
+##### English translation (H. H. Wilson)
+May the sage who is in this manner the offerer of exclusive praise (Agni, to you), accept the cattle which are to be given to you; and there- upon may Atri overcome irreligious Dasyus ; may Isha (hostile) men.
+
+## Sūkta 8 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वामग्न इति सप्तर्चमष्टमं सूक्तमात्रेयस्येषस्यार्षं जागतमाग्नेयं ।
+> त्वामग्ने सप्त जागतमित्यनुक्रमणिका ॥ प्रातरनुवाक आग्नेये क्रत्वा जागते
+> छंदस्याश्विनशस्त्रे चेदं सूक्तं । तथा च सूत्रं । जनस्य गोपास्तामग्न ऋतायवः ।
+> आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, त्वामग्न इति (*tvāmagna iti*), of seven ṛks, has as its seer Iṣa of the Atri line, as its deity Agni, and as its metre Jagatī; the Anukramaṇikā says *tvāmagne sapta jāgatam*. It is used in the Prātaranuvāka, in the Jagatī-metre ṛks belonging to the Āgneya kratu, and in the Āśvina-śastra. The sūtra says so: जनस्य गोपास्तामग्न ऋतायवः (*janasya gopāstāmagna ṛtāyavaḥ*) (Ā. 4-13).
+
+##### Anuvāda
+
+This sūkta, त्वामग्ने (*tvāmagne*), is the eighth sūkta in the first anuvāka. It has seven ṛks. Its seer is Iṣa, born in the line of Atri; its deity is Agni; its metre is Jagatī. In the Anukramaṇikā it is stated: त्वामग्ने सप्त जागतं (*tvāmagne sapta jāgataṃ*). The use of this sūkta is for the Jagatī-metre ṛks connected with the Āgneya kratu at the time of reciting the Prātaranuvāka mantras, and for the Āśvina-śastra mantras; this is set out by the Āśvalāyana Śrauta Sūtra, in the sūtra जनस्य गोपास्त्वामग्न ऋतायवः (*janasya gopāstvāmagna ṛtāyavaḥ*) (Ā. 4-13).
+
+Sūkta 8. Maṇḍala 5; Anuvāka 1; Sūkta 8. Aṣṭaka 3; Adhyāya 8; Varga 26. Number of ṛks in the sūkta: 7. Ṛṣi: Iṣa Ātreya. Devatā: Agni. Chandas: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्न ऋता॒यवः॒ समी॑धिरे प्र॒त्नं प्र॒त्नास॑ ऊ॒तये॑ सहस्कृत ।  
+> पु॒रु॒श्चं॒द्रं य॑ज॒तं वि॒श्वधा॑यसं॒ दमू॑नसं गृ॒हप॑तिं॒  ॑
+> वृरेण्यं॥ १ ॥
+
+> *tvāmagna ṛtāyavaḥ samīdhire pratnaṃ pratnāsa ūtaye sahaskṛta |*  
+> *puruścaṃdraṃ yajataṃ viśvadhāyasaṃ damūnasaṃ gṛhapatiṃ*  
+> *vṛreṇyaṃ‖ 1 ‖*
+
+### Printed p. 842
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । ऋत्ययवः । सं । ईधिरे । प्रत्नं । प्रत्नासः । ऊतये । सहःकृत ।  
+> पुरुचंद्रं । यजतं । विश्वधायसं । दमूनसं । गृहपतिं । वरेण्यं ॥ १ ॥
+
+> *tvāṃ | agne | ṛtyayavaḥ | saṃ | īdhire | pratnaṃ | pratnāsaḥ | ūtaye | sahaḥkṛta |*  
+> *purucaṃdraṃ | yajataṃ | viśvadhāyasaṃ | damūnasaṃ | gṛhapatiṃ | vareṇyaṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहस्कृत बलस्य कर्तरग्ने प्रश्नॆं पुरातनं त्वां प्रत्नासः पुरातना ऋतायवो यज्ञकामा ऋषय ऊतये स्वरक्षणाय समाधिरे । सम्यग्दीपितवंतः ।
+> कीदृशं त्वां । पुरुश्चंद्रं बहुधनमतिशयेनाह्लादकं वा यजतं यष्टव्यं
+> विश्वधायसं बह्वन्नं दमूनसं दानमनसं गृहपतिं यजमानगृहस्य पालकं
+> वरेण्यं वरणीयं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, maker of strength (सहस्कृत (*sahaskṛta*)), the ancient ṛṣis, desirous of sacrifice (ऋतायवः (*ṛtāyavaḥ*)), have kindled you, the ancient one, for their own protection (ऊतये (*ūtaye*)); that is, they have kindled you well. What sort of you? पुरुश्चंद्रं (*puruścaṃdraṃ*): of much wealth, or highly gladdening; यजतं (*yajataṃ*): to be worshipped; विश्वधायसं (*viśvadhāyasaṃ*): having much food; दमूनसं (*damūnasaṃ*): of a giving mind; गृहपतिं (*gṛhapatiṃ*): protector of the sacrificer's house; वरेण्यं (*vareṇyaṃ*): to be chosen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्कृत (*sahaskṛta*)—you whose action manifests strength
+- अग्ने (*agne*)—O Agni
+- पुरुश्चंद्रं (*puruścaṃdraṃ*)—gladdener of many
+- यजतं (*yajataṃ*)—worthy of sacrifice
+- विश्वधायसं (*viśvadhāyasaṃ*)—having many kinds of food (or, sustaining everything)
+- दमूनसं (*damūnasaṃ*)—of a giving mind
+- गृहपतिं (*gṛhapatiṃ*)—protector of the sacrificial house
+- वरेण्यं (*vareṇyaṃ*)—honoured
+- प्रत्नं (*pratnaṃ*)—ancient
+- त्वां (*tvāṃ*)—you
+- प्रश्नासः (*praśnāsaḥ*)—the ancient ones
+- ऋतायवः (*ṛtāyavaḥ*)—the ṛṣis who desire sacrifice
+- ऊतये (*ūtaye*)—for protection
+- समीधिरे (*samīdhire*)—have kindled
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whose action manifests strength: you, the gladdener of many, worthy of sacrifice, possessed of much food, of a giving mind, protector of the sacrificial house, honoured and ancient, have been kindled for their protection by the ancient ṛṣis who desire sacrifice.
+
+##### English translation (H. H. Wilson)
+Manifester of strength, Agni, ancient worshippers have kindled you of old for their preservation: you, the delighter of many, the adorable, the all-sustaining, the lowly-minded, the lord of the house, the excellent.
+
+### Printed p. 843
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने॒ अति॑थिं पू॒र्व्यं विशः॑ शो॒चिष्के॑शं गृ॒हप॑तिं॒ नि षे॑दिरे ।  
+> बृ॒हत्के॑तुं पुरु॒रूपं॑ धन॒स्पृतं॑ सु॒शर्मा॑णं॒ स्वव॑सं जर॒द्विषं॑ ॥ २ ॥
+
+> *tvāmagne atithiṃ pūrvyaṃ viśaḥ śociṣkeśaṃ gṛhapatiṃ ni ṣedire |*  
+> *bṛhatketuṃ pururūpaṃ dhanaspṛtaṃ suśarmāṇaṃ svavasaṃ jaradviṣaṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । अतिथिं । पूर्व्यं । विशः । शोचिःकेशं । गृहपतिं । नि । सेदिरे ।  
+> बृहत्केतुं । पुरुरूपं । धनस्पृतं । सुशर्माणं । सुअवसं । जरत्विषं ॥२॥
+
+> *tvāṃ | agne | atithiṃ | pūrvyaṃ | viśaḥ | śociḥkeśaṃ | gṛhapatiṃ | ni | sedire |*  
+> *bṛhatketuṃ | pururūpaṃ | dhanaspṛtaṃ | suśarmāṇaṃ | suavasaṃ | jaratviṣaṃ ‖2‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां विशो यजमाना गृहपतिं गृहस्वामिनं नि षेदिरे । गार्हपत्यरूपेण स्थापितवंत इत्यर्थः ॥ कीदृशं त्वां । अतिथिमतिथिवत्तूज्यं पूर्व्यं पुरातनं
+> शोचिष्केशं दीप्तज्वालं बृहत्केतुं प्रभूतप्रज्ञानं पुरुरूपमाहवनीयादिरूपेण
+> बहुरूपं धनस्पृतं धनानां स्पर्तारं सुशर्माणं शोभनसुखं स्ववसं सुरक्षणं
+> जरद्विषं जरतां वृक्षाणां व्यापकं जीर्णोदकं वा ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the people (विशः (*viśaḥ*)), the sacrificers, have seated you (नि षेदिरे (*ni ṣedire*)) as the lord of the house (गृहपतिं (*gṛhapatiṃ*)); that is, they have established you in the form of the Gārhapatya fire. What sort of you? अतिथिं (*atithiṃ*): to be honoured like a guest; पूर्व्यं (*pūrvyaṃ*): ancient; शोचिष्केशं (*śociṣkeśaṃ*): having blazing flames; बृहत्केतुं (*bṛhatketuṃ*): of abundant knowledge; पुरुरूपं (*pururūpaṃ*): of many forms, in the form of the Āhavanīya and the others; धनस्पृतं (*dhanaspṛtaṃ*): the one who स्पर्तारं (*spartāraṃ*) (carries across) riches; सुशर्माणं (*suśarmāṇaṃ*): of excellent happiness; स्ववसं (*svavasaṃ*): a good protector; जरद्विषं (*jaradviṣaṃ*): pervading old trees, or having old water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अतिथिं (*atithiṃ*)—worthy of honour like a guest
+- पूर्व्यं (*pūrvyaṃ*)—ancient
+- शोचिष्केशं (*śociṣkeśaṃ*)—with shining flame
+- बृहत्केतुं (*bṛhatketuṃ*)—with a widespread banner
+- पुरुरूपं (*pururūpaṃ*)—of many forms such as the Āhavanīya
+- धनस्पृतं (*dhanaspṛtaṃ*)—distributor of wealth
+- सुशर्माणं (*suśarmāṇaṃ*)—excellent giver of happiness
+- स्ववसं (*svavasaṃ*)—excellent protector
+- जरद्विषं (*jaradviṣaṃ*)—pervading all the old trees
+- त्वां (*tvāṃ*)—you
+- विशः (*viśaḥ*)—the sacrificers
+- गृहपतिं (*gṛhapatiṃ*)—as protector of the sacrificial house
+- निषेदिरे (*niṣedire*)—have established
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, honoured like a guest, ancient, of shining flame, of many forms such as the Āhavanīya, distributor of wealth, excellent giver of happiness, excellent protector, pervading and burning all the old (dry) trees: the sacrificers have established you as protector of the sacrificial house.
+
+### Printed p. 844
+
+##### English translation (H. H. Wilson)
+Men have established you. (Agni), their ancient guest, as the lord of the house ; (you), the blazing-haired, the vast bannered, the multiform the dispenser of wealth, the bestower of happiness. the kind protector, the destroyer of decaying (trees).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने॒ मानु॑षीरीळते॒ विशो॑ होत्रा॒विदं॒ विवि॑चिं रत्न॒धात॑मं ।  
+> गुहा॒ संतं॑ सुभग वि॒श्वद॑र्शतं तुविष्व॒णसं॑ सु॒यजं॑ धृत॒त्रियं॑ ॥ ३ ॥
+
+> *tvāmagne mānuṣīrīḷate viśo hotrāvidaṃ viviciṃ ratnadhātamaṃ |*  
+> *guhā saṃtaṃ subhaga viśvadarśataṃ tuviṣvaṇasaṃ suyajaṃ dhṛtatriyaṃ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । मानुषीः । ईळते । विशः । होत्राविदं । विविचिं । रत्नधातमं ।  
+> गुहा । संतं । सुभग । विश्वदर्शतं । तुविस्वनसं । सुयजं । धृतत्रियं ॥ ३ ॥
+
+> *tvāṃ | agne | mānuṣīḥ | īḷate | viśaḥ | hotrāvidaṃ | viviciṃ | ratnadhātamaṃ |*  
+> *guhā | saṃtaṃ | subhaga | viśvadarśataṃ | tuvisvanasaṃ | suyajaṃ | dhṛtatriyaṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नीनां परस्परं संसर्गे विविचयेग्नये काचिदिष्टिः । तत्र त्वामग्ने
+> मानुषीरिति याज्या । सूत्रितं च । त्वामग्नेमानुषीरीळते विशोग्न आयाहि
+> वीतये । आ. ३-१३ । इति ॥
+> हे अग्ने सुभग शोभनधन त्वां मानुषीर्विशो मानुषसंबंधिन्यः सर्वाः
+> प्रजा ईळते । स्तुवंति । कीदृशं त्वां । होत्राविदं होमानां सप्तहोत्रकाणां
+> वा वेत्तारं विविचिं विवेचकं सदसतोः रत्नधातमं रमणीयानां धनानां
+> दातृतमं गुहा गुहायामरण्यां हृदयेषु वा संतं सर्वदा वर्तमानं
+> विश्वदर्शतं सर्वैर्द्रष्टव्यं तुविष्टणसं प्रभूतध्वनिं सुयजं सुष्टु यष्टारं
+> धृतश्रियं धृतं श्रयंतं ॥
+
+##### Gist of the bhāṣya
+
+When fires have come into contact with one another, there is an iṣṭi for Agni Vivici; in it *tvāmagne mānuṣīḥ* is the yājyā. The sūtra says: त्वामग्नेमानुषीरीळते विशोग्न आयाहि वीतये (*tvāmagnemānuṣīrīḷate viśogna āyāhi vītaye*) (Ā. 3-13). O Agni, सुभग (*subhaga*) (of fair wealth), all the human people (मानुषीर्विशो (*mānuṣīrviśo*)) praise you. What sort of you? होत्राविदं (*hotrāvidaṃ*): knower of the offerings, or of those with seven hotṛs; विविचिं (*viviciṃ*): discriminator of the existent and the non-existent; रत्नधातमं (*ratnadhātamaṃ*): the greatest giver of delightful riches; गुहा संतं (*guhā saṃtaṃ*): being always in the cave, the forest, or in hearts; विश्वदर्शतं (*viśvadarśataṃ*): to be seen by all; तुविष्टणसं (*tuviṣṭaṇasaṃ*): of abundant sound; सुयजं (*suyajaṃ*): a good sacrificer; धृतश्रियं (*dhṛtaśriyaṃ*): धृतं श्रयंतं (*dhṛtaṃ śrayaṃtaṃ*) (the text ends here in this window).
+
 ---
 
-**Progress note:** Done through printed p. 838. pp. 833-838 (batch API)
+**Progress note:** Done through printed p. 844. pp. 839-844 (batch API)
