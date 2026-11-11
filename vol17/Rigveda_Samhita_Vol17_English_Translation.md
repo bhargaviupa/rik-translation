@@ -7146,6 +7146,219 @@ These (sacrificers) are the Bhojas, of whom the diversified Angirasas (are the p
 Concerning the king Sudāsa, the commentator, in explaining Ṛ. Saṃ. 1-112-9, has told an earlier story:
 अत्रापीतिहासमाचक्षते । सुदासनामा पैजवनो राजा यस्य विश्वामित्रः पुरोहितो बभूव । स यष्टु कामः सारवत्प्रभूतं धनमश्विन् ययाचे। तस्मै रथेनानीयाश्विस्सौ ददुतुरिति ॥ (*atrāpītihāsamācakṣate | sudāsanāmā paijavano rājā yasya viśvāmitraḥ purohito babhūva | sa yaṣṭu kāmaḥ sāravatprabhūtaṃ dhanamaśvin yayāce| tasmai rathenānīyāśvissau daduturiti ‖*)
 
+### Printed p. 187
+
+That is: Viśvāmitra was the priest of the king's son named Sudāsa, the son of Pijavana. That king wished to perform a sacrifice with Viśvāmitra's help, and for that he prayed to the Aśvin deities to provide abundant wealth. They brought wealth filling their chariot and furnished it to him. This is the story. The seer Praskaṇva states it in the Ṛk
+सुदासे दस्रा वसु बिभ्रता रथे पृक्षो वहतमश्विना । (*sudāse dasrā vasu bibhratā rathe pṛkṣo vahatamaśvinā |*) (Ṛ. Saṃ. 1-47-6).
+The Nirukta author also speaks of him briefly: विश्वामित्रऋषिः सुदासः पैजवनस्य पुरोहितो बभूव । पैजवनः पिजवनस्य पुत्रः (*viśvāmitraṛṣiḥ sudāsaḥ paijavanasya purohito babhūva | paijavanaḥ pijavanasya putraḥ*) (Ni. 2-24). That is, from this Nirukta sentence we learn that Viśvāmitra was the priest of Sudāsa, the son of Pijavana, and that Sudāsa got help from him. From this derivation it can be said that Divodāsa was Sudāsa's grandfather.
+
+From the Ṛks
+अर्णांसि चित्पप्रधाना सुदास इंद्रो गाध्यान्यकृणोत्सुपारा । (*arṇāṃsi citpapradhānā sudāsa iṃdro gādhyānyakṛṇotsupārā |*) (Ṛ. Saṃ. 7-18-5)
+and
+कर्ता सुदासे अह वा उ लोकं दाता वसु मुहुरा दाशुषे भूत् । (*kartā sudāse aha vā u lokaṃ dātā vasu muhurā dāśuṣe bhūt |*) (Ṛ. Saṃ. 7-20-2)
+and the like, we learn that with the help of Indra and the other deities Sudāsa defeated ten kings and flourished.
+
+In the Ṛk
+महा ऋषिर्देवजा देवजातोऽस्तभ्ना त्सिंधुमर्णव नृचक्षाः । विश्वामित्रो यदवहत्सुदासमप्रियायत कुशिकेभिरिंद्रः ॥ (*mahā ṛṣirdevajā devajāto 'stabhnā tsiṃdhumarṇava nṛcakṣāḥ | viśvāmitro yadavahatsudāsamapriyāyata kuśikebhiriṃdraḥ ‖*) (Ṛ. Saṃ. 3-53-9)
+Sudāsa's military expedition, together with his priest Viśvāmitra, on the banks of the rivers Vipāś and Śutudri is described.
+
+In the Ṛk
+त्वं धृष्णो धृषता वीतहव्यं प्रावो विश्वाभिरूतिभिः सुदासं । प्र पौरुकुत्सिं त्रसदस्युमावः क्षेत्रसाता वृत्रहत्येषु पूरुं ॥ (*tvaṃ dhṛṣṇo dhṛṣatā vītahavyaṃ prāvo viśvābhirūtibhiḥ sudāsaṃ | pra paurukutsiṃ trasadasyumāvaḥ kṣetrasātā vṛtrahatyeṣu pūruṃ ‖*) (Ṛ. Saṃ. 7-19-3)
+the name of Sudāsa is mentioned along with Trasadasyu, the son of Purukutsa. Both are praised as worthy of the protection of Indra and the others, and therefore as having received the protections of the deities.
+
+In the Aitareya Brāhmaṇa:
+प्रोवाच वसिष्ठः सुदासे पैजवनाय ते ह ते सर्व एव महज्जग्मुः । (*provāca vasiṣṭhaḥ sudāse paijavanāya te ha te sarva eva mahajjagmuḥ |*) (Ai. Brā. 35-8)
+
+### Printed p. 188
+
+From this sentence we learn that Vasiṣṭha was Sudāsa's priest, that Sudāsa was honoured even by Vasiṣṭha, the greatest of the seers, and that he attained high rank.
+
+At the Aśvamedha sacrifice performed by that Sudāsa, Viśvāmitra was the chief priest; Medhātithi and others, the Aṅgiras seers and still other seers were officiants. The Marut deities, sons of Rudra, were also there. It is explained here that all of them bestowed abundant wealth, food and long life on the seer Viśvāmitra.
+
+दिवः पुत्रासः असुरस्य वीराः—देवेभ्योऽपि बलवतो रुद्रस्य पुत्रा वीरा बलवंतो मरुतः । (*divaḥ putrāsaḥ asurasya vīrāḥ—devebhyo 'pi balavato rudrasya putrā vīrā balavaṃto marutaḥ |*). Here, explaining the words *divaḥ* and *asurasya* as "of Rudra, who is stronger than even the gods", he says that the Maruts are the sons of Rudra. That the Maruts are Rudra's sons is well known from the Śruti.
+
+As the Ṛk
+रुद्रो यद्वो मरुतो रुक्मवक्षसो वृषाजनि पृश्न्याः शुक्र ऊधनि । (*rudro yadvo maruto rukmavakṣaso vṛṣājani pṛśnyāḥ śukra ūdhani |*) (Ṛ. Saṃ. 2-34-2)
+says, there is a well-known story that the Maruts were born in Pṛśni as sons of Rudra; therefore this epithet is used most often whenever they are addressed. In explaining this Ṛk Sāyaṇācārya tells yet another story:
+पृश्निर्नानावर्णा इयं भूमिः पुरा गोरूपधरासीत् । तस्यां महेशो वृषो भूत्वा मरुत उत्पादयामासेत्याचक्षते । (*pṛśnirnānāvarṇā iyaṃ bhūmiḥ purā gorūpadharāsīt | tasyāṃ maheśo vṛṣo bhūtvā maruta utpādayāmāsetyācakṣate |*).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नानावर्णवुळ्ळ पृथ्वियु हिंदॆ गोरूपवन्नु धरिसिद्दाग महेशनु ऎत्तिन रूपदिंद मरुत्तु
+> गळन्नु उत्पन्नमाडिदनु ऎंब कथॆयिदॆ ऎंदु सायणरु रुद्रन मत्तु मरुत्तुगळ पितापुत्र
+> संबंधवन्नु तिळिसिद्दारॆ. मत्तु, मेलिन २-३४-२ ने ऋक्किनल्लि हेळिरुव कथॆयु तैत्तिरीय
+> संहितॆयल्लियू उक्तवागिरुवुदरिंद अल्लिन वाक्यवन्नू उदहरिसिद्दारॆ.
+> पृश्नियै वै पयसो मरुतो जाताः ।
+> (तै. सं. २-२-११-४)
+> आदुदरिंदले अनेक कडॆगळल्लि मरुत्तुगळिगॆ रुद्रपुत्ररॆंदे संबोधनॆयिदॆ. उदाहरणॆगॆ—
+> प्र ये शुंभंते जनयो न सप्तयो यामनु द्रस्य सूनवः सुदंससः ।
+> (ऋ. सं. १-८५-१)
+> इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनः ।
+> रास्वा च नो अमृत मर्तभोजनं त्मने तोकाय तनयाय मृळ ॥
+> (ऋ. सं. १-११४-६)
+
+##### Gist of the bhāṣya
+
+In the Kannada text of this block, Sāyaṇa is said to state, as the story, that when the many-coloured earth had once taken the form of a cow, Maheśa became a bull and begot the Maruts in her; thus he shows the father–son relation of Rudra and the Maruts. Since the story told in Ṛk 2-34-2 is also found in the Taittirīya Saṃhitā, the sentence there is cited: पृश्नियै वै पयसो मरुतो जाताः (*pṛśniyai vai payaso maruto jātāḥ*) (Tai. Saṃ. 2-2-11-4). Hence in many places the Maruts are addressed as sons of Rudra. As an example, the Ṛk प्र ये शुंभंते जनयो न सप्तयो यामनु द्रस्य सूनवः सुदंससः । (*pra ye śuṃbhaṃte janayo na saptayo yāmanu drasya sūnavaḥ sudaṃsasaḥ |*) (Ṛ. Saṃ. 1-85-1) and the Ṛk इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनः । रास्वा च नो अमृत मर्तभोजनं त्मने तोकाय तनयाय मृळ ॥ (*idaṃ pitre marutāmucyate vacaḥ svādoḥ svādīyo rudrāya vardhanaḥ | rāsvā ca no amṛta martabhojanaṃ tmane tokāya tanayāya mṛḷa ‖*) (Ṛ. Saṃ. 1-114-6) are cited.
+**NOTE**
+
+### Printed p. 189
+
+> ऎंब ऋक्कुगळल्लियू हीगॆये, १-१६८-९ ; २-३३-१ ; मुंताद अनेक कडॆगळल्लियू मरुत्तु
+> गळिगॆ रुद्रपुत्ररॆंब विशेषणविदॆ. मेलॆ उदहरिसिरुव १-११४-६ ने ऋक्कन्नु विवरिसुवाग
+> सायणरु इन्नॊंदु कथॆयन्नु हेळिद्दारॆ.
+> रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिंद्रोऽसुरान्
+> जिगाय । तदानीं दितिरसुरमाता इंद्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे । इमं वृत्तांतमवगच्छन्निंद्रो
+> वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं
+> सप्तधा बिभेद । पुनरप्येकैकं सप्तखंडमकरोत् । ते सर्वे गर्भैकदेशायोनेनिर्गत्य अरुदन् । एतस्मिन्नसवरे लीलार्थं गच्छंतौ पार्वतीपरमेश्वरौ इमान् ददृशतुः । महेशं प्रति पार्वती एवमवोचत् ।
+> इमे मांसखंडा यथा प्रत्येकं पुत्राः संपद्यतामेवं त्वया
+> कार्यं मयि चेत्प्रीतिरस्तीति । स च महेश्वरस्तान् समानरूपान्
+> समानवयसः समानालंकारान् पुत्रान् कृत्वा गौरै प्रददौ तवेमे
+> पुत्राः संत्विति । अतः सर्वेषु मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा
+> इति स्तूयंते । रौद्रेषु च मरुतां पिता रुद्र इति ।
+
+##### Gist of the bhāṣya
+
+In these Ṛks, and likewise in 1-168-9, 2-33-1 and many other places, the Maruts have the epithet "sons of Rudra". In explaining Ṛk 1-114-6 cited above, Sāyaṇa tells another story. Sāyaṇa's Sanskrit: Rudra's and the Maruts' fatherhood is told thus. Once long ago Indra conquered the Asuras. Then Diti, the mother of the Asuras, desiring a son able to kill Indra, obtained by austerity a conception from her husband. Learning this, Indra, vajra in hand, became subtle in form, entered her womb and split that embryo into seven; again he made each of them into seven pieces. All of them came out through a part of the womb and wept. At that time Pārvatī and Parameśvara, going about in play, saw them. Pārvatī said to Maheśa that if he loved her, he should so act that these pieces of flesh become sons, one each. And Maheśvara, making them sons of the same form, the same age and the same ornaments, gave them to Gaurī: "Let these be your sons." Therefore in all Marut-hymns the Maruts are praised as sons of Rudra, and in the Rudra-hymns Rudra is the father of the Maruts.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वदल्लि ऒंदुसल इंद्रनु असुररन्नु जयिसिदनु. आग असुर मातॆयाद दितियु इंद्र
+> नन्नु कॊल्ललु समर्थनाद ऒब्ब पुत्रनन्नु पडॆयबेकॆंब आसॆयिंद तपस्सन्नाचरिसि तन्न पतिय
+> अनुग्रहदिंद गर्भवन्नु हॊंदिदळु. इंद्रनु ई समाचारवन्नु तिळिदु वज्रायुधवन्नु हिडिदु
+> कॊंडु सूक्ष्मरूपवागि बंदु अवळ हॊट्टॆयन्नु प्रवेशिसि आ गर्भवन्नु एळु भागगळागि सीळिदनु
+> पुनः एळेळु तुंडुगळन्नागि माडिदनु. आग अवॆल्लवू हॊरक्कॆ बंदु अळुत्तिद्दुवु. आग लीलार्थवागि
+> पार्वती परमेश्वररिब्बरू संचरिसुत्तिद्दाग इवन्नु नोडि, पार्वतियु मरुकगॊंडु महेश्वर
+> नन्नु कुरितु अवॆल्लवन्नू मक्कळन्नागि परिवर्तिबेकॆंदु बेडिदळु. आग ईश्वरनु अवॆल्लवन्नु ऒंदे
+> रूपवुळ्ळवरन्नागियू, ऒंदे वयस्सुळ्ळवरन्नागियू, ऒंदे अलंकारवुळ्ळवरन्नागियू माडि
+> पुत्ररूपराद अवरन्नु इवु निन्न पुत्ररागिरलि ऎंदु गौरिगॆ कॊट्टनु. आदुदरिंद मरुत्तूक्त
+> गळल्लॆल्ला मरुत्तुगळिगॆ रुद्रपुत्ररॆंदू, रुद्रसूक्तगळल्लि रुद्रनिगॆ मरुत्तुगळ पितृवॆंदू
+> हेळुव क्रमविदॆयॆंदु सायणरु ई कथॆयन्नु हेळिरुत्तारॆ.
+> सहस्रसावे—सहस्रं सूयते चेति सहस्रसावोऽश्वमेधः । ई यागदल्लि
+> सोमाभिषवकर्मवु अनेकसल (सहस्रशब्दक्कॆ अनेकवॆंबर्थ) नडॆयुवुदरिंद (अथवा अनेक पशु
+> गळिरुवुदरिंद) सहस्रसाववॆंदरॆ अश्वमेधयागवॆंदु भाष्यकाररु अर्थविवरणॆमाडिद्दारॆ.
+
+##### Gist of the bhāṣya
+
+(Kannada account of the story.) Once in the past Indra conquered the Asuras. Then Diti, mother of the Asuras, desiring a son able to kill Indra, practised austerity and by her husband's favour conceived. Indra, learning this, took up the thunderbolt, came in subtle form, entered her belly and split the embryo into seven parts, then again into seven pieces each. Then all of them came out and wept. As Pārvatī and Parameśvara were wandering in sport, they saw them; Pārvatī, moved to pity, begged Maheśvara to turn them all into children. Īśvara made them all of one form, one age and one ornament, and gave those who had become sons to Gaurī, saying, "Let these be your sons." Hence it is the practice in the Marut-hymns to call the Maruts sons of Rudra, and in the Rudra-hymns to call Rudra the father of the Maruts; Sāyaṇa tells this story for that reason.
+सहस्रसावे—सहस्रं सूयते चेति सहस्रसावोऽश्वमेधः (*sahasrasāve—sahasraṃ sūyate ceti sahasrasāvo 'śvamedhaḥ*). Since in this sacrifice the Soma-pressing rite is performed many times (the word *sahasra* meaning "many"), or because there are many animals, the commentator explains *sahasrasāva* as the Aśvamedha sacrifice.
+
+### Printed p. 190
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रू॒पंरू॑पं म॒घवा॑ बोभवीति मा॒याः कृ॑ष्णा॒नस्त॒न्वं१॒॑१परि॒  
+> स्वां ।  
+> त्रिर्यद्दि॒वः परि॑ मुहू॒र्तमागा॒त्स्वैर्मंत्रै॒रनृ॑तुपा  ॒॑
+> ऋतावा ॥ ८ ॥
+
+> *rūpaṃrūpaṃ maghavā bobhavīti māyāḥ kṛṣṇānastanvaṃ1pari*  
+> *svāṃ |*  
+> *triryaddivaḥ pari muhūrtamāgātsvairmaṃtrairanṛtupā*  
+> *ṛtāvā ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रूपंरूपं । मघवा । बोभवीति । मायाः । कृष्णानः । तन्वं । परि । स्वां ।  
+> त्रिः । यत् । दिवः । परि । मुहूर्तं । आ । अगात् । स्वैः । मंत्रैः । अनृतुपाः  
+> ऋतावा ॥ ८ ॥
+
+> *rūpaṃrūpaṃ | maghavā | bobhavīti | māyāḥ | kṛṣṇānaḥ | tanvaṃ | pari | svāṃ |*  
+> *triḥ | yat | divaḥ | pari | muhūrtaṃ | ā | agāt | svaiḥ | maṃtraiḥ | anṛtupāḥ*  
+> *ṛtāvā ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघना धनवानिंद्रो रूपंदूपं यद्यद्रूपं कामयते तत्तद्रूपं
+> बोभवीति । भृशं प्राप्नोति तत्तद्रूपात्मको भवति । तत्र कारणमुच्यते । माया
+> अनेकरूपग्रहणसामर्थ्योपेताः कृष्णानः कुर्वाणः स्वां तन्नं स्वकीयां तनूं
+> परि । पंचम्यर्थे । स्वस्माच्छरीरान्नानाविधानि शरीराणि निर्मिमिते । यद्वा । स्वां
+> तनूं नानाविधरूपोपेतां करोति । तथा च मंत्रवर्णः । इंद्रो मायाभिः
+> पुरुरूपः । ऋग्वे. ६-४७-१८ । इति । यद्यस्मात्स्वैर्मंत्रैः स्वकीयैः स्तुतिलक्षणैर्वाकैराहूतोऽनृतपाः । न केवलमृतुष्टेव पिबति किंत्वनृतुष्पपि। बहुशः सोमं
+> पिबन्नित्यर्थः । ऋतावा सत्यवान् तादृश इंद्रो दिवः स्वर्गलोकात्परि मुहूर्तमेकस्मिन्नेव मुहूर्ते नानादेशवर्तिषु यज्ञेषु तत्रापि त्रिः त्रिषु सवनेष्वागात् ।
+> आगच्छति ॥ बोभवीति । भवतेर्यज् लुकि तिपि यजो वेतीडागमः । निघातः । अगात्!
+> इणो लुजि रूपं । यद्वृत्तयोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Maghavan, the wealthy Indra, बोभवीति (*bobhavīti*) — repeatedly attains, becomes of that very form — whatever form he wishes. The reason is given: *māyāḥ*, powers endowed with the capacity of assuming many forms; *kṛṣṇānaḥ*, making (them); *svāṃ tanvam*, his own body; *pari* is in the sense of the ablative: from his own body he fashions bodies of many kinds. Or else: he makes his own body possessed of many kinds of forms. And so the mantra text says: "Indra is of many forms through his māyās" (Ṛg. 6-47-18). *Yat*: since, called by his own mantras, namely words of the nature of praise, he is *anṛtupāḥ*: he drinks not only in the proper season but also out of season; the meaning is that he drinks Soma many times. *Ṛtāvā*: truthful. Such an Indra comes from heaven, in one and the same moment, to the sacrifices in different places, and there too three times, to the three pressings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—Indra, the wealthy one
+- रूपंरूपं (*rūpaṃrūpaṃ*)—forms of many kinds
+- बोभनीति (*bobhanīti*)—appears assuming them
+- मायाः (*māyāḥ*)—making (them) into powers of many kinds
+- कृष्णानः (*kṛṣṇānaḥ*)—doing
+- स्वां तन्नं (*svāṃ tannaṃ*)—his own body
+- परि (*pari*)—different from the original form
+- यत् (*yat*)—by which same power
+- स्वैः मंत्रैः (*svaiḥ maṃtraiḥ*)—by the mantras that praise him
+- अनृतुपाः (*anṛtupāḥ*)—drinks Soma even when it is not the proper season
+- ऋतावा (*ṛtāvā*)—Indra, the truthful
+- दिवः (*divaḥ*)—from the world of heaven
+- महूर्तं (*mahūrtaṃ*)—in one single moment
+- परि (*pari*)—taking place in various countries
+- त्रिः (*triḥ*)—at the time of the three pressings
+- आगात् (*āgāt*)—comes
+
+### Printed p. 191
+
+##### भावार्थ (Bhāvārtha)
+
+The wealthy Indra appears assuming forms of many kinds. Making them powers of many kinds, he makes his own body one of many forms, different from its original form. By that same power, called by the mantras that praise him, he drinks Soma even when it is not the proper season. The truthful Indra comes from the world of heaven in a single moment, to the sacrifices taking place in various countries, and at the time of the three pressings.
+
+##### English translation (H. H. Wilson)
+Maghavan becomes repeatedly (manifest) in various forms, practis-
+ing delusions with respect to his own peculiar person; and invoked by his
+appropriate prayers, he comes in a moment from heaven to the three (daily
+rites), and, although observant of seasons, is the drinker (of the Soma)
+irrespective of season.
+
+##### विशेषविषयगळु (Special Topics)
+
+रूपंरूपं मघवा बोभवीति—धनवानिंद्रो यद्यद्रूपं कामयते तत्तद्रूपं प्राप्नोति, तत्तद्रूपात्मको भवति । (*rūpaṃrūpaṃ maghavā bobhavīti—dhanavāniṃdro yadyadrūpaṃ kāmayate tattadrūpaṃ prāpnoti, tattadrūpātmako bhavati |*). Indra, endowed with all lordship, takes on whatever forms he wishes whenever he wishes; that is, he becomes of that very form. On this point: some Asuras learned that Indra was sitting in the sacrificial enclosure of the seer Gṛtsamada, and lay in wait to kill him as soon as he came out. Indra learned of this plot, and when leaving the sacrificial ground he took on the form of the seer Gṛtsamada and went out. The Asuras, thinking that it was Gṛtsamada going, did not harm Indra. Afterwards the Asuras learned the fact. We have narrated this story in the introduction to this Maṇḍala.
+
+मायाः कृष्णानः तन्वं परि स्वां-स्वस्माच्छरीरात् नानाविधानि शरीराणि निर्मिमाते । यद्वा स्वां तनूं नानाविधरूपोपेतां करोति । (*māyāḥ kṛṣṇānaḥ tanvaṃ pari svāṃ-svasmāccharīrāt nānāvidhāni śarīrāṇi nirmimāte | yadvā svāṃ tanūṃ nānāvidharūpopetāṃ karoti |*). Besides, Indra can fashion from his own body forms and bodies of many kinds, or can make his own body one possessed of many kinds of forms. On this point:
+
+### Printed p. 192
+
+रूपंरूपं प्रतिरूपो बभूव तदस्य रूपं प्रतिचक्षणाय । इंद्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥ (*rūpaṃrūpaṃ pratirūpo babhūva tadasya rūpaṃ praticakṣaṇāya | iṃdro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*) (Ṛ. Saṃ. 6-47-18)
+This Ṛk the commentator has given as an example. Its main sense is that Indra is able to assume forms of many kinds by his powers of illusion. As follows:
+यत् स्वैः मंत्रैः अनृतुपाः ऋतावा दिवः मुहूर्तं परि त्रिः आगात्— सत्यवान् इंद्र स्वर्गलोकात्सरि एकस्मिन्नेन मुहूर्ते नानादेशवर्शिषु यज्ञेषु तत्रापि त्रिषु सवनकालेषु आगच्छति । (*yat svaiḥ maṃtraiḥ anṛtupāḥ ṛtāvā divaḥ muhūrtaṃ pari triḥ āgāt— satyavān iṃdra svargalokātsari ekasminnena muhūrte nānādeśavarśiṣu yajñeṣu tatrāpi triṣu savanakāleṣu āgacchati |*). In the many sacrifices performed by many sacrificers in various countries, and at the three pressing-times of each of those sacrifices, as soon as he is called by the mantras they recite, Indra at one and the same time comes from heaven in an instant and drinks the Soma. The sense is that in this way, to go to many sacrifices at one time, Indra goes taking on many forms.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हां ऋषि॑र्देव॒जा दे॒वजू॒तोऽस्त॑भ्ना॒त्सिंधु॑मर्ण॒वं  ॒॑
+> नृ॒चक्षाः॑ ।  
+> वि॒श्वामि॑त्रो॒ यदव॑हत्सु॒दास॒मप्रि॑यायत कुशि॒केभि॒रिंद्रः॑  
+> ॥ ९ ॥
+
+> *mahāṃ ṛṣirdevajā devajūto 'stabhnātsiṃdhumarṇavaṃ*  
+> *nṛcakṣāḥ |*  
+> *viśvāmitro yadavahatsudāsamapriyāyata kuśikebhiriṃdraḥ*  
+> *‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महान् । ऋषिः । देवजाः। देवजूतः । अस्तभ्नात् । सिंधुं । अर्णवं । नृचक्षाः।  
+> विश्वामित्रः । यत् । अवहत् । सुदासं। अप्रियायत । कुशिकेभिः । इंद्रः ॥ ९ ॥
+
+> *mahān | ṛṣiḥ | devajāḥ| devajūtaḥ | astabhnāt | siṃdhuṃ | arṇavaṃ | nṛcakṣāḥ|*  
+> *viśvāmitraḥ | yat | avahat | sudāsaṃ| apriyāyata | kuśikebhiḥ | iṃdraḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महान् तपसातिशयितसामर्थ्यवानृषिरतींद्रियार्थद्रष्टा देवजा द्योतमानानां तेजसां जनयिता देवजूतस्तैस्तेजोभिराकृष्टो नृचक्षा नृणां कर्मनेत्यणामध्वयार्वादीनामुपद्रष्टा स विश्वामितोर्णवमुदकवंतं सिंधुं विपाट्-
+
+##### Gist of the bhāṣya
+
+*Mahān*: great, possessed of surpassing power through austerity; *ṛṣi*: seer of things beyond the senses. *Devajāḥ*: the begetter of shining brilliances. *Devajūtaḥ*: drawn by those brilliances. *Nṛcakṣāḥ*: the overseer of the rites of men, that is, of the adhvaryus and others. That Viśvāmitra, the water-full river (sindhu), Vipāś — here the text breaks off at the end of the window.
+
 ---
 
-**Progress note:** Done through printed p. 186. pp. 181-186 (batch API, retry 1)
+**Progress note:** Done through printed p. 192. pp. 187-192 (batch API, retry 1)
