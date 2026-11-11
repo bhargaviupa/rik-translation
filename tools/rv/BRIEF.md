@@ -35,12 +35,19 @@ The English printed in the book, exactly as supplied.
 **Special Topics**
 Faithful English of the Kannada; every Sanskrit quotation in full as ⟦…⟧ with its printed reference (Ni. 2-13).
 **Grammar**
-2–4 lines naming the words and the sūtras as printed (Pā. Sū. 6-1-163).
+- ⟪ಸಿಂಹಮಿವ — ಹಿಸಿ ಹಿಂಸಾಯಾಂ ಧಾತುಃ । ಇದಿತ್ತ್ವಾನ್ನುಮಾಗಮಃ । ಅಚ್ ಪ್ರತ್ಯಯಃ । …⟫
+- ⟪next word — …⟫                 ← the grammar page rendered in SANSKRIT, one word per line (see below)
 ```
 - One `### Printed p. N` heading per printed page, nothing else about the page. A section that continues from the previous window simply continues (its block first); no "[Continuing …]" line.
 - `[[bN]]` alone on a line, every block exactly once, where it belongs. A Saṃhitā or Pada is always a block, never copied inline.
 - Inline Sanskrit: copy the Kannada-script words from kn.md inside `⟦ ⟧`. **Never type Devanagari or IAST** — scripts make them (and the accents). Long quotation (more than about 8 words): write only its first and last words, `⟦first two words~~last two words⟧`; the script copies the passage from kn.md, with its closing danda (spaces do not matter; the first words must occur only once in kn.md — the same passage often stands in the bhāṣya and again in the commentary, then take more words; take the end words from one unbroken stretch without a danda). Only text of this window's kn.md, and only Sanskrit, goes inside `⟦ ⟧`: a Kannada gloss word is translated, a grammar term you derive yourself (śānac, num, aṭ) is written in Latin letters.
 - Do not write a Progress note. Do not repeat anything shown under "Context". A sentence that started on the previous page: read the context lines and complete it; a sentence cut at the end of the window: translate what is there (the next window continues it).
+
+## The grammar section is given in Sanskrit, not English (user decision, Nov 11 2026)
+- Render the Kannada grammar page (ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ) **completely** as plain śāstric Sanskrit: one list line per word treated, the headword first, then the derivation in short sentences ending in `।`. Write it in **Kannada script inside `⟪ ⟫`**; the script turns it into Devanagari (no transliteration, no English).
+- Every root, affix, augment, gaṇa name, technical term, sūtra text and reference (`(ಪಾ. ಸೂ. ೬-೧-೧೮೯)`, digits as printed) is **copied from kn.md letter for letter**; only the Kannada connecting words and verbs (ಎಂಬುದರಿಂದ, ಬರುತ್ತದೆ, ಆಗುತ್ತದೆ …) become Sanskrit (…इति, …भवति, ablative of cause). Add nothing, drop nothing, do not improve the grammar; a step you cannot follow gets `**NOTE**{…}` after its line (outside the `⟪ ⟫`).
+- No English and no `⟦ ⟧` inside the Grammar section.
+- The bhāṣya block is printed in Devanagari only (no transliteration: the script does that); your *Gist* line stays.
 
 ## Rules that are never bent
 - The supplied text is the base. **Never correct a letter or number from memory or from another edition.** What you cannot settle gets `**NOTE**{…}`.

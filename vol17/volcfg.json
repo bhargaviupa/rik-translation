@@ -22,5 +22,9 @@
   3,
   4
  ],
- "note_style": "NOTE"
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit"
 }

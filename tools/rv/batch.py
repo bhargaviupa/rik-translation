@@ -88,7 +88,7 @@ def cmd_prep(a,quiet=False,after=None):
     kn,sec=html_to_kn.kn_pages(specs,[p for p,_ in pages],None,mandalas(cfg))        # section/verse at the window start: found by the script itself (no state file)
     notes=list(html_to_kn.LOG); extra=list(html_to_kn.EXTRA)
     pages=sorted(set(pages)|{(p,None) for p in extra},key=lambda x:x[0])
-    wr(os.path.join(w,'kn.md'),kn); wr(os.path.join(w,'section_end.txt'),sec or '')
+    wr(os.path.join(w,'kn.md'),kn); wr(os.path.join(w,'section_end.txt'),sec or ''); wr(os.path.join(w,'section_start.txt'),html_to_kn.START[0] or '')
     rows=numerals.load(cfg) if cfg.numeral_files() else []; info=[]; nrows=[]
     for pr,g in pages:
         rs=numerals.rows_for(cfg,rows,g) if g and rows else []
@@ -132,11 +132,12 @@ def cmd_build(a):
     notes=[]
     if note_style(cfg): en,notes=split_notes(en)
     wr(os.path.join(w,'notes.json'),json.dumps(notes,ensure_ascii=False,indent=1))
-    text,prob=convert.expand(en,kn)
+    sp=os.path.join(w,'section_start.txt'); start=(rd(sp).strip() or None) if os.path.exists(sp) else None
+    text,prob=convert.expand(en,kn,plain=tuple(cfg.d.get('no_iast_blocks',[])),start=start)
     if prob: print('PROBLEMS:'); print('\n'.join(' - '+p for p in prob)); sys.exit(1)
     p=os.path.join(w,'en_final.md'); wr(p,text)
     r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
-    wr(p,labels.normalise(rd(p)))
+    wr(p,labels.normalise(rd(p)).replace(convert.NOIAST,'> '))
     r=sh(f'python3 publish/tools/accents/accent_volume.py {cfg.vol} --file "{p}" --write'); print('accents:',[l for l in (r.stdout+r.stderr).split('\n') if l.startswith('Vol') or 'not matched' in l or 'Error' in l or 'Trace' in l])
     rep=os.path.join(ROOT,f'vol{cfg.vol}','review','accent_report.tsv')                     # the accent step rewrites its report every time: keep a cumulative copy (Vol 16 lesson 35)
     if os.path.exists(rep):
@@ -162,7 +163,7 @@ def cmd_check(a):
                         (r'(?i)as supplied|as printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
             if re.search(pat,en): fail.append(msg)
         kk=re.findall('[ಀ-೿]+',enf)
-        if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{…}')
+        if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     pdfs=[p['pdf'] for p in pg if p.get('pdf')]; res=numerals.check(cfg,pdfs,kn,en) if cfg.numeral_files() else numerals.check(cfg,[],kn,en,rows=[])
@@ -171,6 +172,8 @@ def cmd_check(a):
     if res['twin_bad']: fail.append(f"English references without Kannada twin: {res['twin_bad']}")
     if res['missing']: fail.append(f"{len(res['missing'])} numeral-file rows have no counterpart in the Kannada text")
     if re.search(r'\[\[b\d+\]\]',enf): fail.append('unresolved [[bN]] in en_final.md')
+    if '⟪' in enf or '⟫' in enf: fail.append('unbalanced ⟪ ⟫ in en.md')
+    if cfg.d.get('grammar')=='sanskrit' and re.search(r'\*\*Grammar\*\*',en) and '⟪' not in en: fail.append('the Grammar section is written in Sanskrit inside ⟪ ⟫ (Kannada script), one word per line: see BRIEF.md')
     if re.search('['+chr(0x0900)+'-'+chr(0x0963)+chr(0x0966)+'-'+chr(0x097F)+']',convert.kn_final(kn)): fail.append('Devanagari in kn.md (the Kannada file is Kannada script only; danda marks are allowed)')
     bad=check_inline.mismatches(w)
     if bad: fail.append(f'{len(bad)} inline ⟦…⟧ segment(s) are not in kn.md (copy them from kn.md, never retype): '+' | '.join(x[:40] for x in bad[:6]))

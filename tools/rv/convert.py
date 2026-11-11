@@ -41,9 +41,23 @@ def resolve_markers(en_text,kn_text,prob=None,maxlen=900):
         if m2: j1+=m2.end()
         return '⟦'+flat[i0:j1]+'⟧'
     return re.sub(r'⟦([^⟧]*~~[^⟧]*)⟧',rep,en_text)
-def expand(en_text,kn_text):
+SECTION_OF={'ಸಂಹಿತಾಪಾಠಃ':'samhita','ಪದಪಾಠಃ':'pada','ಸಾಯಣಭಾಷ್ಯಂ':'bhashya'}
+def block_sections(kn_text,start=None):
+    """section of every '> ' block of kn.md, in order ('samhita', 'pada', 'bhashya' or None); `start` = section in which the window begins"""
+    out=[];sec=start;inb=False
+    for l in kn_text.split('\n'):
+        m=re.fullmatch(r'\*([^*\[\]]+)\*',l.strip())
+        if m: sec=SECTION_OF.get(m.group(1).strip())
+        isb=l.startswith('> ') and not l.startswith('> *')
+        if isb and not inb: out.append(sec)
+        inb=isb
+    return out
+NOIAST='§NOIAST§ '
+def expand(en_text,kn_text,plain=(),start=None):
     """returns (text, problems)"""
-    blocks=kn_blocks(kn_text); used=set(); prob=[]; out=[]
+    blocks=kn_blocks(kn_text); used=set(); prob=[]; out=[]; secs=block_sections(kn_text,start)
+    # ⟪…⟫ = Sanskrit written by the translator in Kannada script (the grammar sections from Vol 17 on): converted to Devanagari, no IAST, not matched against kn.md
+    en_text=re.sub(r'⟪([^⟫]*)⟫',lambda m:kn2deva(re.sub(r'\s*\n\s*',' ',m.group(1)).strip()),en_text)
     en_text=resolve_markers(en_text,kn_text,prob)
     # a quotation may be broken over several lines in en.md: join it first (add_iast.py and the line-wise conversion below work on single lines)
     en_text=re.sub(r'⟦([^⟧]*)⟧',lambda m:'⟦'+re.sub(r'\s*\n\s*',' ',m.group(1)).strip()+'⟧',en_text)
@@ -53,7 +67,7 @@ def expand(en_text,kn_text):
             n=int(m.group(1))
             if not 1<=n<=len(blocks): prob.append(f'[[b{n}]] does not exist (kn.md has {len(blocks)} blocks)'); out.append(l); continue
             if n in used: prob.append(f'[[b{n}]] used twice')
-            used.add(n); out+=['> '+kn2deva(x) for x in blocks[n-1]]
+            used.add(n); pre=NOIAST if (n-1<len(secs) and secs[n-1] in plain) else '> '; out+=[pre+kn2deva(x) for x in blocks[n-1]]   # a block listed in `plain` gets no IAST layer
         else:
             if re.search(r'\[\[b\d+\]\]',l): prob.append('[[bN]] must stand alone on its line: '+l[:60])
             out.append(re.sub(r'⟦([^⟧]*)⟧',lambda m:'⟦'+kn2deva(m.group(1))+'⟧' if KNC.search(m.group(1)) else m.group(0),l))

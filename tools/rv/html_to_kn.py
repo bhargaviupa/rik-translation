@@ -39,6 +39,7 @@ NEXT={None:ORDER,'samhita':['pada'],'pada':['bhashya'],'bhashya':['pratipada'],'
       'english':['special','grammar','samhita'],'special':['grammar','samhita'],'grammar':['samhita']}
 DECO=r'[॥।|#*\s:.,;\-–—_~=°೦-೯0-9\[\]()]+'
 ENDNUM=re.compile(r'॥\s*[೦-೯0-9]{1,3}\s*(॥|।।)?\s*$')
+START=[None]
 EXTRA=[]        # printed pages found inside another page (missed running heads) in the last kn_pages call
 LOG=[]          # what the structure pass did (shown to the translator by batch.py prep)
 def _core(l): return re.sub('^'+DECO+'|'+DECO+'$','',l)
@@ -167,6 +168,7 @@ def kn_pages(specs,pages,section=None,mandalas=None,warm=12):
     H={}; P=html_pages.load_many(specs,H); md=[]; st={'ref':ref_index(mandalas) if mandalas else None,'known':set(P)}
     before=[p for p in sorted(P) if p<min(pages)][-warm:] if pages else []
     for p in before: _,section=kn_page(p,H.get(p,''),P[p],section if p!=before[0] else None,st)
+    START[:]=[section]                    # the section in which the first page of the window begins (a block there may continue a bhāṣya)
     del LOG[:]; st['extra']=[]
     for p in pages:
         if p not in P: md.append(f'<!-- printed {p}: NOT IN THE SUPPLIED TEXT -->\n'); continue
