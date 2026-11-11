@@ -7,7 +7,7 @@ From the 1949–52 Kannada edition of the Ṛgveda-saṃhitā (Sāyaṇa's bhā�
 
 ## Rules that are never bent
 1. **Sanskrit in three layers** (Devanagari + IAST + English) on every citation; made by script. The translator **never types Devanagari or IAST**: blocks are placed with `[[bN]]`, inline Sanskrit is copied from `kn.md` inside `⟦ ⟧`.
-2. **The supplied text is the base. Never correct a letter or number from memory.** Unsettled → `[?]` in both files (+ `review/doubts.tsv`); printed oddities are kept and noted (`[sic]`, "as supplied"); no number where the print has none.
+2. **The supplied text is the base. Never correct a letter or number from memory or from another edition.** From Vol 17 on (user decision, Nov 11 2026; `"note_style": "NOTE"` in `volcfg.json`): **the English text carries no translator remarks** — no running heads, no "as supplied", no `[?]`, no `[sic]`, no bracketed comments; every place that needs the editor's decision or a second look is marked `**NOTE**` in the text and its question is listed in `volN/review/notes.tsv` (the translator writes `**NOTE**{question}`; the script moves the braces' content to the list). Vols 12–16 keep the older remarks until the user asks for a conversion. No number where the print has none.
 3. **Output files are append-only**, exactly one trailing `**Progress note:** Done through printed p. N`; only `tools/rv/batch.py` writes them. Repairs of earlier text are separate edits logged in `volN/review/repair_log.md`.
 4. **Honest reports**: say what was verified and how; never report a commit not seen in `git log`.
 5. **Git**: branch `claude/volN` (or the session's branch); commit and push every window; never force-push; no pull requests or merges into `main` unless asked.

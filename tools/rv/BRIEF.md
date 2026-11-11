@@ -1,16 +1,21 @@
 # Translator brief (one page; read once — `TASK.md` of each window carries everything else)
 
-You translate one window (about 3 printed pages) of the Kannada Ṛgveda edition into English. **One read, one write, one command:**
+You translate one window (about 6 printed pages) of the Kannada Ṛgveda edition into English for a book that people will read. **One read, one write, one command:**
 
 1. Read `WIN/TASK.md` (the script's notes, the end of what is already translated, and `kn.md` with its Sanskrit blocks numbered `«bN»`).
 2. Write `WIN/en.md` in one go.
-3. Run `python3 tools/rv/batch.py done VOL WIN --note "what the window covers"`. It builds, runs every gate, commits, pushes and verifies. If it prints FAIL, fix what it lists and run it again; when it prints `VERIFIED`, report in ≤ 4 lines (its last line, hand-fixes you made, doubts). Never touch git or the volume files yourself.
+3. Run `python3 tools/rv/batch.py done VOL WIN --note "what the window covers"`. It builds, runs every gate, commits, pushes and verifies. If it prints FAIL, fix what it lists and run it again; when it prints `VERIFIED`, report in ≤ 4 lines. Never touch git or the volume files yourself.
+
+## The English text carries no remarks of yours — only the mark `**NOTE**` (user decision, Nov 11 2026)
+- **Never write into en.md:** running heads, "as supplied" / "as printed" remarks, `[?]`, `[sic]`, italic bracketed comments `*[…]*`, comments on garbled labels, stray lines, page numbers, ornaments or the state of the text. The Kannada file keeps all of that; the reader of the English must not see it.
+- **Where something needs the editor's decision or a second look, write `**NOTE**{…}` right after the place**, with the question inside the braces: the Kannada words concerned (in Kannada letters) and what is doubtful. The script leaves only `**NOTE**` in the text and puts the braces' content into a list for the editor. Use it for: a reading you could not settle; a misprint whose intended word you had to guess (translate your best reading, then NOTE); a number or reference that does not fit (keep the printed number, then NOTE); text that seems to be missing or broken off; a printed-English misprint that changes the sense; an abbreviation you cannot expand; a place where the Kannada gloss and Sāyaṇa's Sanskrit disagree.
+- Do **not** NOTE what needs no decision: an obvious spelling slip of the machine reader that leaves the sense certain, a garbled label, a stray line. Translate the sense and move on.
+- A NOTE is short and factual: `**NOTE**{ಭಾಗ printed; "share"? read here as ಛಾಗ "he-goat"}`. No apology, no explanation of method.
 
 ## en.md
 ```
 ### Printed p. 197
-*Running head: 197 Sāyaṇa-bhāṣya-sahitā [ಮಂ. ೧. ಅ. ೨೨. ಸೂ. ೧೬೨] (as supplied).*
-## Sūkta 163 (Maṇḍala 1)            ← only where a sūkta begins (introduction block [[bN]], English Anuvāda, particulars)
+## Sūkta 163 (Maṇḍala 1)            ← only where kn.md shows a sūkta beginning (introduction block [[bN]], English Anuvāda, particulars); number from kn.md
 #### Ṛk 5                            ← where a Ṛk begins
 **Saṃhitā-pāṭha**
 [[b1]]
@@ -18,36 +23,34 @@ You translate one window (about 3 printed pages) of the Kannada Ṛgveda edition
 [[b2]]
 **Sāyaṇa-bhāṣya**
 [[b3]]
-*Gist:* ≤ 25 words; the grammatical tail is not explained.
+*Gist:* ≤ 25 words of what Sāyaṇa says (from his Sanskrit; the grammatical tail is not explained).
 **Pratipadārtha**
 ⟦ಮಾತರಿಶ್ವಾ⟧—the wind; ⟦ಏನಂ⟧—this (Agni); …
 **Bhāvārtha**
 English of the Kannada paragraph.
 **Printed English**
-The English printed in the book, exactly as supplied (misprints marked [sic]).
+The English printed in the book, exactly as supplied.
 **Special Topics**
 Faithful English of the Kannada; every Sanskrit quotation in full as ⟦…⟧ with its printed reference (Ni. 2-13).
-*Grammar (transcribed, not explained):* 2–4 lines naming the words and the sūtras as printed (Pā. Sū. 6-1-163).
+**Grammar**
+2–4 lines naming the words and the sūtras as printed (Pā. Sū. 6-1-163).
 ```
-- `[[bN]]` alone on a line, every block exactly once, in the place where it belongs. A block that continues from the previous window goes first, under `[Continuing …]`.
-- Inline Sanskrit: copy the Kannada-script words from kn.md inside `⟦ ⟧`. **Long quotation (more than about 8 words): write only its first and last words, `⟦first two words~~last two words⟧`; the script copies the passage from kn.md** (spaces do not matter; the first words must occur only once in kn.md — the same passage often stands in the bhāṣya and again in the commentary, then take more words; do not write your own expander script). Never add `(*iast*)` after a segment. Only text that stands in kn.md goes inside `⟦ ⟧`: grammar terms you derive yourself (suffix and augment names such as śānac, num, aṭ) are written in plain Latin letters, never as a segment. **Never type Devanagari or IAST** — scripts make them (and the accents).
-- Do not write a Progress note. Do not repeat or rewrite anything shown under "Context".
-- A sentence that started on the previous page: read the context lines and complete it; a sentence cut at the end of the window: translate what is there and say it continues.
+- One `### Printed p. N` heading per printed page, nothing else about the page. A section that continues from the previous window simply continues (its block first); no "[Continuing …]" line.
+- `[[bN]]` alone on a line, every block exactly once, where it belongs. A Saṃhitā or Pada is always a block, never copied inline.
+- Inline Sanskrit: copy the Kannada-script words from kn.md inside `⟦ ⟧`. **Never type Devanagari or IAST** — scripts make them (and the accents). Long quotation (more than about 8 words): write only its first and last words, `⟦first two words~~last two words⟧`; the script copies the passage from kn.md, with its closing danda (spaces do not matter; the first words must occur only once in kn.md — the same passage often stands in the bhāṣya and again in the commentary, then take more words; take the end words from one unbroken stretch without a danda). Only text of this window's kn.md, and only Sanskrit, goes inside `⟦ ⟧`: a Kannada gloss word is translated, a grammar term you derive yourself (śānac, num, aṭ) is written in Latin letters.
+- Do not write a Progress note. Do not repeat anything shown under "Context". A sentence that started on the previous page: read the context lines and complete it; a sentence cut at the end of the window: translate what is there (the next window continues it).
 
 ## Rules that are never bent
-- The supplied text is the base. **Never correct a letter or number from memory.** Odd word, misprint, wrong number → keep it and add a short italic note `*[as supplied: …]*`. A place that cannot be settled → `[?]` in kn.md **and** en.md, then `done … --max-doubts K`.
-- Where the print gives no number, write none. References as in kn.md, in Latin digits. Reference abbreviations already corrected by script: write `Ni.`, `Ṛ. Saṃ.`, `Ai. Brā.`; any other odd abbreviation: keep as supplied and list it in your report.
-- Sanskrit is quoted in full, never summarised. Nothing is dropped: stray lines stay as italic notes (the script already wrapped the usual ones).
-- Running heads: ಮಂ. Maṇḍala · ಅ. between ಮಂ. and ಸೂ. Anuvāka · ಸೂ. Sūkta · other side ಅ./ಅ./ವ. Aṣṭaka/Adhyāya/Varga.
-
-## What the QA of Vol 12 found (72 pages read against the Kannada: about one real error in four pages) — avoid these
-- **Do not translate a Sanskrit quotation that the Kannada does not translate.** Quote it; render only the Kannada's own explanation. No English gloss in parentheses after a Sanskrit word unless the Kannada gives one.
-- **Never read a misprint as the "obvious" word silently.** Translate what is printed, or give your reading with `*[as supplied: "ಕನ್ನಡ ಪದ"; read here as …]*`. A full stop in the wrong place, a missing headword, a number that does not add up: keep and note.
-- **Only Sanskrit goes inside `⟦ ⟧`.** A Kannada gloss word or a misprinted Kannada word is translated; if it must be shown, it stands in Kannada letters inside an italic note.
-- Quote Sanskrit to its end: the last words, the printed abridgement dots `.... ....` and the closing danda belong to the quotation; a Sanskrit phrase such as `ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ` is quoted, not turned into English.
-- Check who does what before writing a sentence with two actors (who helps whom, whose attribute it is); technical terms exactly (ādyudātta is not anudātta, a sautra root is not "Saura"). The Gist follows Sāyaṇa's Sanskrit, not the Kannada gloss, where they differ (and says so).
+- The supplied text is the base. **Never correct a letter or number from memory or from another edition.** What you cannot settle gets `**NOTE**{…}`.
+- Where the print gives no number, write none. References as in kn.md, in Latin digits. Reference abbreviations already corrected by script: write `Ni.`, `Ṛ. Saṃ.`, `Ai. Brā.`.
+- Sanskrit is quoted in full, never summarised: the last words, printed abridgement dots `.... ....` and the closing danda belong to the quotation; a Sanskrit phrase such as `ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ` is quoted, not turned into English.
+- **Do not translate a Sanskrit quotation that the Kannada does not translate**; render only the Kannada's own explanation. No English gloss in parentheses after a Sanskrit word unless the Kannada gives one.
+- Check who does what before writing a sentence with two actors (who helps whom, whose attribute it is); technical terms exactly (ādyudātta is not anudātta, a sautra root is not "Saura"). The Gist follows Sāyaṇa's Sanskrit where it and the Kannada gloss differ (and that place gets a NOTE).
+- Never change what the print says to pass a gate: keep it and report the gate message.
 
 ## kn.md (made by script; check it, do not retype it)
-The script has already: standardised and inserted section labels (garbled ones kept as `*[…]*`), joined line-end hyphens, wrapped stray lines, inserted markers for missed running heads, rewritten Devanagari letters as Kannada. TASK.md lists what it did. If something is still wrong (prose inside a `> ` block or the reverse, a label in the wrong place), repair it with `python3 tools/rv/batch.py fix VOL WIN kn "OLD" "NEW"` (exact, unique; letters unchanged) and look at the new block numbers with `batch.py view VOL WIN`.
-`[figure: …jpg]` line (handle it BEFORE the first `done`, which refuses a leftover figure line): look at the picture (Read tool); if it only repeats a Saṃhitā/Pada block that kn.md already has as text, remove the line with `batch.py fix` and say so in an italic note; otherwise write the verse block it holds into kn.md letter by letter in Kannada script, `[?]` for unsettled letters, remove the figure line, and say in an italic note in en.md that the block was read from the picture. Small hook/division marks in a picture's Pada line are not transcribed.
+The script has already standardised and inserted section labels, joined line-end hyphens, wrapped stray lines, inserted markers for missed running heads and rewritten Devanagari letters as Kannada; TASK.md lists what it did. **Check the structure before writing:** every Saṃhitā, Pada and bhāṣya is a `> ` block under its standard label; Kannada prose (Pratipadārtha, Bhāvārtha, Special Topics, grammar) is not inside a block; a page that the script could not mark gets `<!-- printed N -->` + its head line. Repair with `python3 tools/rv/batch.py fix VOL WIN kn "OLD" "NEW"` (exact, unique; letters unchanged) and look at the new block numbers with `batch.py view VOL WIN`.
+`[figure: …jpg]` line (handle it before the first `done`): look at the picture; if it only repeats a verse block that kn.md already has as text, remove the line with a fix; otherwise write the verse it holds into kn.md letter by letter in Kannada script and remove the line; a letter you cannot read gets a NOTE in en.md. Small hook or division marks in a picture's Pada line are not transcribed.
 If you made the same hand-fix a third time, say "recurring: …" in the report: it becomes a script change.
+
+*(Vols 12–16 were made under the older convention with "as supplied" remarks, `[?]` and `[sic]`; do not imitate their style.)*

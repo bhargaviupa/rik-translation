@@ -12,7 +12,7 @@ Maṇḍala 3 Sūktas 40–62 (to the end of Maṇḍala 3) and the beginning of
 `vol17/Rigveda_Samhita_Vol17_English_Translation.md` and `…_Kannada_Text.md` (empty; progress note "Done through printed p. 1"). Cost log `vol17/parts/batch_costs.md`.
 
 ## How it was made
-Planned as the **pilot of the Batch API flow** (user decision, Nov 11 2026; API key `RIK_API_KEY`, budget $66): `python3 tools/rv/api_batch.py plan 17 --windows 5` (free: prepares windows, counts tokens, prints the estimate) → `submit 17` (spends money) → `status 17` → `collect 17` (writes each window's `en.md`, logs real cost, runs the gates and commits in page order). Model `claude-sonnet-5-5`, 6-page windows. Nothing has been sent yet.
+Planned as the **pilot of the Batch API flow** (user decision, Nov 11 2026; API key `RIK_API_KEY`, budget $66): `python3 tools/rv/api_batch.py plan 17 --windows 5` (free: prepares windows, counts tokens, prints the estimate) → `submit 17` (spends money) → `status 17` → `collect 17` (writes each window's `en.md`, logs real cost, runs the gates and commits in page order). Model `claude-sonnet-5-5`, 6-page windows. Nothing has been sent yet. **Conventions decided by the user on Nov 11 2026 for this volume:** Sonnet only; no translator remarks in the English text, one mark `**NOTE**` for every place that needs a decision or a second look, with the question in `review/notes.tsv` (`[?]` and `[sic]` are no longer used; `"note_style": "NOTE"` in `volcfg.json`).
 
 ## Status
 Text prepared, windows planned (Nov 11 2026); **nothing sent to the API, nothing translated: waiting for the user's "start"**. Free plan of the first 5 windows (pp. 1–32): 107k input tokens, about 3,460 per page.

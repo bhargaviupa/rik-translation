@@ -54,6 +54,19 @@ def cmd_new(a):
     if not os.path.exists(en): wr(en,f'# Rigveda Samhita — Volume {vol} (Kannada → English translation)\n\n---\n\n**Progress note:** Done through printed p. {start-1}; nothing translated yet.\n')
     if not os.path.exists(kn): wr(kn,f'# ಋಗ್ವೇದ ಸಂಹಿತಾ — ಸಂಪುಟ {vol} (Kannada text)\n*The Kannada text of the printed pages, made by script from the supplied machine-read text (tools/rv/html_to_kn.py) and checked by the translator; the English file is made from it. `[?]` marks a doubtful reading.*\n\n---\n\n')
     print('created',cp,'\nnext: put the supplied HTML/markdown in',f'vol{vol}/html/','and list it under "source" (file@FIRST-LAST printed pages); set "printed" only if you need PDF numbers (numeral file pages), and the numeral file(s) in',f'vol{vol}/numerals/')
+NOTE_RE=re.compile(r'\*\*NOTE\*\*\{([^{}]*)\}')
+def note_style(cfg): return cfg.d.get('note_style')=='NOTE'
+def split_notes(en):
+    """'**NOTE**{detail}' in en.md -> ('**NOTE**' in the text, [(printed page, detail, words before it)]).  The reader's text carries only the mark;
+    the detail goes to volN/review/notes.tsv (user decision, Nov 11 2026: no translator remarks in the English text)."""
+    notes=[]; page=[None]; out=[]
+    for l in en.split('\n'):
+        m=re.match(r'### Printed p\. (\d+)',l)
+        if m: page[0]=int(m.group(1))
+        def r(mm):
+            notes.append((page[0],re.sub(r'\s+',' ',mm.group(1)).strip(),re.sub(r'\s+',' ',NOTE_RE.sub('',l[:mm.start()]))[-60:])); return '**NOTE**'
+        out.append(NOTE_RE.sub(r,l))
+    return '\n'.join(out),notes
 PLACEHOLDER=re.compile(r'(?<![IVXLCDM])XXX(?![IVXLCDM])')   # the placeholder, not a printed roman numeral such as 'Vol. XXXII' (Vol 12 p. 536: a translator rewrote the numeral to pass)
 def numbered(kn):
     """kn.md with «bN» before the first line of every Sanskrit block (the numbers [[bN]] refers to)"""
@@ -116,6 +129,9 @@ Page headings needed in en.md: {', '.join(f'### Printed p. {p}' for p,_ in pages
 def cmd_build(a):
     cfg=rvlib.Cfg(a[0]); w=a[1]; kn=rd(os.path.join(w,'kn.md')); en=rd(os.path.join(w,'en.md'))
     if re.search(r'^> \*',en,re.M): sys.exit("FAIL: IAST typed by hand in en.md ('> *' lines): IAST is added by script")
+    notes=[]
+    if note_style(cfg): en,notes=split_notes(en)
+    wr(os.path.join(w,'notes.json'),json.dumps(notes,ensure_ascii=False,indent=1))
     text,prob=convert.expand(en,kn)
     if prob: print('PROBLEMS:'); print('\n'.join(' - '+p for p in prob)); sys.exit(1)
     p=os.path.join(w,'en_final.md'); wr(p,text)
@@ -138,6 +154,13 @@ def cmd_check(a):
     for p in pg:
         if not re.search(rf"<!-- printed {p['printed']}[ :]",kn) and not (p.get('pdf') and re.search(rf"<!-- PDF {p['pdf']} ·",kn)): fail.append(f"kn.md has no page marker for printed p. {p['printed']}")
         if not re.search(rf"### Printed p\. {p['printed']}\b",en): fail.append(f"en.md has no heading '### Printed p. {p['printed']}'")
+    if note_style(cfg):
+        raw=en; en=split_notes(en)[0]
+        if raw.count('**NOTE**')!=len(NOTE_RE.findall(raw)): fail.append('a **NOTE** without its {detail}: write **NOTE**{what is doubtful, with the Kannada words}')
+        for pat,msg in ((r'\[\?\]|\[sic\]','[?] / [sic] are not used any more: mark the place **NOTE**{detail}'),
+                        (r'(?m)^\*\[|\*\[[^\]]*\]\*','translator remarks in italic brackets *[…]* are not written into the English text: drop them, or use **NOTE**{detail} where a decision is needed'),
+                        (r'(?i)as supplied|as printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
+            if re.search(pat,en): fail.append(msg)
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     pdfs=[p['pdf'] for p in pg if p.get('pdf')]; res=numerals.check(cfg,pdfs,kn,en) if cfg.numeral_files() else numerals.check(cfg,[],kn,en,rows=[])
@@ -199,6 +222,13 @@ def cmd_commit(a):
     sec=rd(os.path.join(w,'section_end.txt')).strip() if os.path.exists(os.path.join(w,'section_end.txt')) else ''
     os.makedirs(cfg.work,exist_ok=True); wr(state_path(cfg),json.dumps({'section':sec or None,'printed':last['printed']}))
     rng=f"printed pp. {pg[0]['printed']}-{last['printed']}"
+    nj=os.path.join(w,'notes.json')
+    if note_style(cfg) and os.path.exists(nj):
+        nt=json.load(open(nj,encoding='utf8')); nf=os.path.join(ROOT,f'vol{cfg.vol}','review','notes.tsv'); os.makedirs(os.path.dirname(nf),exist_ok=True)
+        new=not os.path.exists(nf)
+        with open(nf,'a',encoding='utf8') as f:
+            if new: f.write('window\tprinted page\tquestion (what needs a decision or a second look)\twords before the mark in the English text\tdecision\n')
+            for pgn,det,ctx in nt: f.write(f"{os.path.basename(w.rstrip('/'))}\t{pgn}\t{det}\t{ctx}\t\n")
     dl=[(rng,'kn',i,t) for i,t in doubts(rd(os.path.join(w,'kn.md')))]+[(rng,'en',i,t) for i,t in doubts(enf)]
     if dl:
         os.makedirs(os.path.join(ROOT,f'vol{cfg.vol}','review'),exist_ok=True)
@@ -221,6 +251,9 @@ def audit(cfg,expect_clean=True):
     if pe and max(pe)!=dp: pr.append(f'progress note says p. {dp} but the last page heading is p. {max(pe)}')
     q=lambda t:t.count('[?]')-t.count('`[?]`')
     if q(en)!=q(kn): pr.append(f"[?] counts differ: English {q(en)}, Kannada {q(kn)}")
+    if note_style(cfg):
+        nf=os.path.join(ROOT,f'vol{cfg.vol}','review','notes.tsv'); rows=max(0,len([l for l in rd(nf).split('\n') if l.strip()])-1) if os.path.exists(nf) else 0
+        if en.count('**NOTE**')!=rows: pr.append(f"{en.count('**NOTE**')} **NOTE** marks in the English file but {rows} rows in review/notes.tsv")
     st=sh('git status -sb').stdout.split('\n'); dirty=[l for l in st[1:] if l.strip() and f'vol{cfg.vol}/' in l and '/work/' not in l]
     if expect_clean and dirty: pr.append('uncommitted changes: '+'; '.join(dirty[:4]))
     if 'ahead' in st[0]: pr.append('commits not pushed: '+st[0])
