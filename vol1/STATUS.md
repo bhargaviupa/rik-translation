@@ -10,7 +10,7 @@ Scans in `vol1/scans/` (old scans; extra scans `Rig_Vol1(1).pdf`, `(2).pdf` were
 
 ## Re-check against the supplied text (started Nov 11 2026)
 Inputs in `vol1/html/` (user, Nov 11 2026): `rig_1_1.md` (250 source pages: front matter + printed pp. 1–224; **one line `<!-- body -->` inserted before "ಪೂರ್ವಪೀಠಿಕೆ 1"** so the splitter ignores the series-list lines in the front matter), `rig_1_2.html` (349 source pages, pp. 225–573), `rig_1_3.md` (pp. 575–720; last two heads read 718, 720). The three files are of two kinds (md, html) so they are not merged into one file; `tools/rv/prose_kn.py` reads them as page specs (`html_pages.load_many`). Splitter fixes (`tools/rv/html_pages.py`): HTML even-page heads of 8–12 characters were not recognised; Vol 1 head words added to the md splitter; optional `<!-- body -->` marker.
-Kannada from the supplied text: `kannada/Rigveda_Samhita_Vol1_Kannada_Text_html.md` (`tools/rv/prose_kn.py`). The old `Rigveda_Samhita_Vol1_Kannada_Text.md` covers only PDF 8–71 (printed i–iii, 1–45): 64 pages, 193 `[?]`.
+Kannada from the supplied text: `kannada/Rigveda_Samhita_Vol1_Kannada_Text.md` (`tools/rv/prose_kn.py`: prose pages 1–605; `html_to_kn.py` Ṛk pass from p. 606). It replaces the scan-read pilot file (printed i–iii, 1–45; deleted Nov 11 2026 at the user's request; no Kannada-vs-Kannada comparison is needed). `kannada/…_Kannada_Review.md` (the pilot's list) is still there.
 
 ## Outputs
 `vol1/Rigveda_Samhita_Vol1_English_Translation.md` (closed) plus `Rigveda_Samhita_Vol1_Gaps_English_Translation.md` (printed pp. 95–167, 191–205, 261–283 and 288–295, translated later and inserted by `publish/vol1_clean.py`); Kannada text in `vol1/kannada/`; docx/pdf in the folder.
