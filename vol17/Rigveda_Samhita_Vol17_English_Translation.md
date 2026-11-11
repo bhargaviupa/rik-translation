@@ -6034,6 +6034,247 @@ The sūkta beginning धानावंतं (*dhānāvaṃtaṃ*) has eight �
 
 This sūkta beginning धानावंतं (*dhānāvaṃtaṃ*) is the fourteenth sūkta in the fourth anuvāka. It has eight ṛks. Viśvāmitra is the seer of this sūkta; Indra is the deity. In the Anukramaṇikā it is said: धानावंतमष्टौ पूर्वार्धं गायत्रं षष्ठी जगती (*dhānāvaṃtamaṣṭau pūrvārdhaṃ gāyatraṃ ṣaṣṭhī jagatī*). The first four ṛks of this sūkta are in the gāyatrī metre; the sixth ṛk, तृतीये धानाः (*tṛtīye dhānāḥ*), is in the jagatī metre; the remaining three ṛks are in triṣṭubh metre. The use of the sūkta follows the meaning of the several ṛks. The first ṛk of this sūkta, धानावंतं (*dhānāvaṃtaṃ*), is to be used as the anuvākyā mantra in the puroḍāśa oblation connected with the morning pressing; this is set forth by the Āśvalāyana Śrauta Sūtra, in the sūtra धानावंतं करंभिणमिति प्रातस्सवनेऽनुवाक्या (*dhānāvaṃtaṃ karaṃbhiṇamiti prātassavane 'nuvākyā*) (Ā. 5-4).
 
+### Printed p. 156
+## Sūkta 52 (Maṇḍala 3)
+
+> ॥ ओं ॥
+> सूक्त—५२
+> मंडल—३ ॥ अनुवाक—४ ॥ सूक्त—५२ ॥
+> अष्टक—३ ॥ अध्याय—३ ॥ वर्ग—१७, १८ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—८ ॥
+> । ऋषिः—विश्वामित्रः ।
+> । देवता—इंद्रः ।
+> । छंदः—१-४. गायत्रि । ५, ६, ८ त्रिष्टुप् । ६ जगती ॥
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धा॒ना॑नंतं करं॒भिण॑मपू॒पवं॑तमु॒क्थिन॑म् ।  
+> इंद्र॑ प्रा॒तर्जु॑षस्व नः ॥ १ ॥
+
+> *dhānānaṃtaṃ karaṃbhiṇamapūpavaṃtamukthinam |*  
+> *iṃdra prātarjuṣasva naḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धानावंतं । करंभिणं । अपूपवंतं । उक्किनं ।  
+> इंद्र । प्रातः । जुषस्व । नः ॥ १ ॥
+
+> *dhānāvaṃtaṃ | karaṃbhiṇaṃ | apūpavaṃtaṃ | ukkinaṃ |*  
+> *iṃdra | prātaḥ | juṣasva | naḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र धानावंतं । धाना भृष्टयवाः । तद्वंतं करंभिणं । करंभो दधिमिश्राः सक्तवः । तद्वंतमपूपवंतं सवनीयपुराडाशोपेतमुक्थिनं शस्त्रिणं नोऽस्मदीयमिमं सोमं प्रातः प्रातःसवने जुषस्व । सेवस्व ॥ प्रातः । स्वरादिष्टंतोदात्तत्वेन पठितश्वादंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the verse addresses you as धानावंतं (*dhānāvaṃtaṃ*). धाना (*dhānā*) are parched barley grains, and the word means "having these". करंभिणं (*karaṃbhiṇaṃ*) means having करंभ (*karaṃbha*), which is barley meal mixed with curds. अपूपवंतं (*apūpavaṃtaṃ*) means accompanied by the purodāśa cakes of the pressing. ukthin means accompanied by the recited śastra. Sāyaṇa takes all four words as qualifying "this Soma of ours" (नः (*naḥ*)). The prayer is: accept (जुषस्व (*juṣasva*)), that is, enjoy, this Soma in the morning pressing (प्रातः (*prātaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- धानावंतं (*dhānāvaṃtaṃ*)—that which is mixed with barley grain
+- करंभिणं (*karaṃbhiṇaṃ*)—that which is mixed with curds
+- अपूपवंतं (*apūpavaṃtaṃ*)—that which is accompanied by purodāśa and the like
+- उक्किनं (*ukkinaṃ*)—that which is sanctified by the śastra-mantra
+- नः (*naḥ*)—this Soma of ours
+- प्रातः (*prātaḥ*)—at the time of the morning pressing
+- जुषस्व (*juṣasva*)—accept
+
+### Printed p. 157
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, accept, at the time of the morning pressing, this Soma of ours, which is mixed with barley grain, mixed with curds, accompanied by purodāśa and the like, and sanctified by the śastra-mantra.
+
+##### English translation (H. H. Wilson)
+Accept, Indra, at our morning sacrifice, this libation, combined with fresh barley, with parched grain and curds, and with cakes, and sanctified by holy prayer.
+
+##### विशेषविषयगळु (Special Topics)
+
+धानापंतं (*dhānāpaṃtaṃ*): the Soma juice prepared by mixing in barley flour from which husk and chaff have been removed and which has been made clean. The Soma juice is not merely filtered and drunk as it is. To make it tasty, the āśira substances (milk, curds and barley flour) are mixed into it. Soma juice mixed with milk is called gavāśira, Soma juice mixed with curds is called dadhyāśira, and Soma juice mixed with barley flour is called yavāśira. We have explained this matter at length earlier. Here the word धानावंतं (*dhānāvaṃtaṃ*) denotes the Soma juice mixed with the flour called yavāśira.
+करंभिणं (*karaṃbhiṇaṃ*): करंभो दधिमिश्राः सक्तवः । तद्वंतं । (*karaṃbho dadhimiśrāḥ saktavaḥ | tadvaṃtaṃ |*) It is Soma juice mixed with curds and flour. It is also called dadhyāśira.
+अपूपवंतं (*apūpavaṃtaṃ*): पुरोडाशोपेतं । (*puroḍāśopetaṃ |*) Barley flour is kneaded, baked on an earthen griddle as one makes a flat bread, and then offered in the fire. This is called purodāśa. Here the word अपूपवंतं (*apūpavaṃtaṃ*) denotes the oblation called purodāśa.
+उक्किनं (*ukkinaṃ*): the meaning is "sanctified by recitation of the śastra-mantra and the like". It is the custom to purify the substances of the offering, before offering them, by reciting mantras and by sprinkling water and so on. Here the offering sanctified by mantras is described by the qualifying word उक्किनं (*ukkinaṃ*).
+इंद्र प्रातः जुषस्व नः (*iṃdra prātaḥ juṣasva naḥ*): O Indra, the yavāśira, dadhyāśira, purodāśa and so on that we offer are ready, sanctified by mantras. Indra is prayed to accept them at this time of the morning pressing.
+
+### Printed p. 158
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रो॒ळाशं॑ पच॒त्यं॑ जु॒षस्वें॒द्रा गु॑रस्व च ।  
+> तुभ्यं॑ ह॒व्यानि॑ सिस्रते ॥ २ ॥
+
+> *puroḷāśaṃ pacatyaṃ juṣasveṃdrā gurasva ca |*  
+> *tubhyaṃ havyāni sisrate ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरोळाशं । पचत्यं । जुषस्व । इंद्र । आ । गुरस्व । च ।  
+> तुभ्यं । हव्यानि । सिस्रते ॥ २ ॥
+
+> *puroḷāśaṃ | pacatyaṃ | juṣasva | iṃdra | ā | gurasva | ca |*  
+> *tubhyaṃ | havyāni | sisrate ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पचत्यं पचने साधुं पुरोडाशं । पुरो दाशंत एनमिति
+> पुरोडाशो हविः । जुषस्व । किंच आ गुरस्व । पुरोडाशभक्षणार्थमुद्यमं कुरु ।
+> हव्यानि हवनयोग्यानि पुरोडाशादीनि हवींषि तुभ्यं त्वदर्थं सिस्त्रते । अहवनीयं
+> गच्छंति । तानि सेवस्वेति भावः ॥ पचत्यं । पचतशब्दात्तत्र साधुरिति यत्पत्ययांतस्य
+> पदस्य द्वच्त्वाभावादत्र यतोऽनाव इत्यस्य प्राप्तिर्नास्ति । तित्सरितः । गुरस्व ! गुरी
+> उद्यमने । शविकरणी । निघातः । सिस्त्रते । सृ गतौ । छंदसि जुहोत्यादिः । व्यत्ययेनात्मनेपदं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, accept the purodāśa that is पचत्यं (*pacatyaṃ*), good (fit) for cooking. Purodāśa is an oblation, explained as "they offer it first" (पुरो (*puro*) …). Further, आ गुरस्व (*ā gurasva*): make an effort to eat the purodāśa. The oblations (हव्यानि (*havyāni*)), the purodāśa and other offerings fit for offering, flow (सिस्त्रते (*sistrate*)) for you, that is, go to the āhavanīya fire for your sake. The sense is: enjoy them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पचत्यं (*pacatyaṃ*)—that which is cooked
+- पुरोडाशं (*puroḍāśaṃ*)—the oblation in the form of purodāśa
+- जुषस्व (*juṣasva*)—accept
+- आ गुरस्व (*ā gurasva*)—strive for it
+- हव्यानि (*havyāni*)—all the oblations
+- तुभ्यं (*tubhyaṃ*)—intended for you alone
+- stream and flow (accept them)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, accept the oblation in the form of cooked purodāśa. Strive for it. All the oblations flow to you alone. Accept them.
+
+##### English translation (H. H. Wilson)
+Accept, Indra, the prepared cakes and butter; eat them eagerly :
+the oblations flow for you.
+
+### Printed p. 159
+
+##### विशेषविषयगळु (Special Topics)
+
+पुरोळाशं पचत्यं (*puroḷāśaṃ pacatyaṃ*): पचने साधुं पुरोडाशं । पुरो दाशंत एनमिति पुरोडाशो हविः । (*pacane sādhuṃ puroḍāśaṃ | puro dāśaṃta enamiti puroḍāśo haviḥ |*) The etymological meaning of the word purodāśa is explained as follows: when oblations are offered to the gods, the oblation that is given before everything else is called purodāśa. The idea is that this purodāśa is well cooked and fit to be eaten.
+तुभ्यं हव्यानि सिस्रते (*tubhyaṃ havyāni sisrate*): हवनयोग्यानि पुरोडाशादीनि हवींष त्वदर्थं आहवनीयं गच्छंति । (*havanayogyāni puroḍāśādīni havīṃṣa tvadarthaṃ āhavanīyaṃ gacchaṃti |*) Oblations such as purodāśa, which are fit to be offered, have been prepared and placed for you, Indra, near the āhavanīya fire. Indra is prayed to accept them.
+Why must the purodāśa and other oblations be placed near the āhavanīya fire? Could they not be offered to Indra directly? The answer given: Indra is not a deity present before the eyes. Moreover, the established method of offering oblations to the gods is solely by offering them with mantras in the consecrated fire. Therefore the oblations are prepared and placed near the āhavanīya fire so as to be offered in that fire in that manner.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रो॒ळाशं॑ च नो॒ घसो॑ जो॒षया॑से॒ गिर॑श्च नः ।  
+> वधूयुरिन योषणां ॥ ३ ॥
+
+> *puroḷāśaṃ ca no ghaso joṣayāse giraśca naḥ |*  
+> *vadhūyurina yoṣaṇāṃ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरोळाशं । च । नः । घसः । जोषयासे । गिरः । च । नः ।  
+> वधूयुःकशव । योषणां ॥ ३ ॥
+
+> *puroḷāśaṃ | ca | naḥ | ghasaḥ | joṣayāse | giraḥ | ca | naḥ |*  
+> *vadhūyuḥkaśava | yoṣaṇāṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इ द्र नोऽस्मत्संबंधिनं पुरोडाशं घसः । भक्षय च । नोऽस्मदीयाः
+> स्तुतिलक्षणा गिरो जोषयासे । सेवस्व च । तत्र दृष्टांतः । वधूयुरिव योषणां।
+> यथा वधूयुः स्त्रीकामो योषणां भजनीयां युवतिं सेवते तद्वत् ॥ घसः ।
+> घस्ल, अदन इत्यस्य लेट्यडागमे रूपं । चवायोगे प्रथमेति न निघातः । चोष-
+
+##### Gist of the bhāṣya
+
+O Indra, eat (घसः (*ghasaḥ*)) our purodāśa, and accept (जोषयासे (*joṣayāse*)) our words of praise. The example is वधूयुरिव योषणां (*vadhūyuriva yoṣaṇāṃ*): as one desirous of a woman (वधूयुः (*vadhūyuḥ*)) enjoys a young woman (योषणां (*yoṣaṇāṃ*)) worthy of being enjoyed, so you accept. The rest of the block, which begins at घसः (*ghasaḥ*) and breaks off at the page end, is grammatical.
+
+### Printed p. 160
+
+> यासे । जुषी प्रीतिसेवनयोरित्यस्य ण्यंतस्य लेट्याडागमे रूपं । आगमस्यानुदात्तत्वे णिच् स्वरः । पादादित्वादनिघातः । वधूयुरिव । सुप आत्मनः क्यच् । क्याच्छंदसीत्युप्रत्ययः । प्रत्ययस्वरः । योषणां । युष भजन इति सौत्रो धातुः । कृत्यल्युटो बहुलमिति ल्युट् । लित्स्वरः ॥
+
+##### Gist of the bhāṣya
+
+This block continues the grammatical derivations of the preceding block (the forms जोषयासे (*joṣayāse*), वधूयुरिव (*vadhūyuriva*), योषणां (*yoṣaṇāṃ*)). It adds nothing to the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our (O Indra)
+- पुरोडाशं (*puroḍāśaṃ*)—the purodāśa
+- घसः (*ghasaḥ*)—eat
+- नः (*naḥ*)—our
+- गिरः च (*giraḥ ca*)—the speech in the form of praise
+- योषणां (*yoṣaṇāṃ*)—a beautiful woman
+- वधूयः इव (*vadhūyaḥ iva*)—as a man desirous of a woman enjoys
+- जोषयासे (*joṣayāse*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, eat our purodāśa. As a man desirous of a woman enjoys a beautiful woman, accept our speech in the form of praise.
+
+##### English translation (H. H. Wilson)
+Eat, Indra, our (offered) cakes and butter : derive enjoyment from
+our praises, as a lover from his mistress.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this verse, in praying to Indra, the prayer is that he should eat the oblation called purodāśa with relish and listen to our praises. The seer has given an example for this. A young man attached to a woman, that is, to a newly married young bride, is eager to join her. In the same way, let Indra listen to our praise with the greatest relish and eat the oblations that we offer. This is the comparison stated here.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रो॒ळाशं॑ सनश्रुत प्रातः सा॒वे जु॑षस्व नः ।  
+> इंद्र॒ क्रतु॒र्हि ते॑ बृ॒हन् ॥ ४ ॥
+
+> *puroḷāśaṃ sanaśruta prātaḥ sāve juṣasva naḥ |*  
+> *iṃdra kraturhi te bṛhan ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरोळाशं । सनश्रुत । प्रातःसावे । जुषस्व । नः ।
+
+> *puroḷāśaṃ | sanaśruta | prātaḥsāve | juṣasva | naḥ |*
+
+**NOTE**
+
+### Printed p. 161
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सनश्रुत पुराणतया प्रसिद्ध हे इंद्र नोऽस्मत्संबंधिनमिमं पुरोडाशं
+> प्रातःसावे । सूयतेऽत्र सोम इति सावः । तस्मिन् प्रातःसवने जषस्व । यतस्ते प
+> तव क्रतुः कर्म बृहन् महद्धि ॥ प्रातःसावे । षुञ् अभिषवे । कर्मणि घञ् ।
+> प्रादिसमासः । थाथादिस्वरेणांतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Sanaśruta, O Indra, famed as ancient, accept this purodāśa of ours in the प्रातःसावे (*prātaḥsāve*), that is, in the morning pressing. सावः (*sāvaḥ*) is explained as "that in which Soma is pressed". The reason given is that your क्रतुः (*kratuḥ*), your work, is great (बृहन् महद्धि (*bṛhan mahaddhi*)). The remainder of the block is grammatical.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सनश्रुत (*sanaśruta*)—famed as ancient
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—given by us
+- पुरोडाशं (*puroḍāśaṃ*)—the purodāśa
+- प्रातःसावे (*prātaḥsāve*)—in the morning pressing
+- जुषस्व (*juṣasva*)—accept
+- ते (*te*)—your
+- क्रतुः (*kratuḥ*)—work
+- बृहन् हि (*bṛhan hi*)—is it not of great nature?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, famed as ancient, accept at the time of the morning pressing the purodāśa given by us. Your work is renowned as being of great nature.
+
+##### English translation (H. H. Wilson)
+Indra, renowned of old, accept our cakes and butter, offered at dawn;
+for great are your deeds.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रातःसावे (*prātaḥsāve*): सूयतेऽत्र सोम इति सावः । तस्मिन् प्रातस्सवने । (*sūyate 'tra soma iti sāvaḥ | tasmin prātassavane |*) Because in this rite the Soma juice is pressed out and prepared, it is called सावः (*sāvaḥ*) or pressing. This rite performed in the morning is called the morning pressing, that performed at midday the midday pressing, and that performed in the evening the third pressing. According to the Śruti sentence त्रीणि वाव सवनानि (*trīṇi vāva savanāni*), there are only these three pressings. Here only the morning pressing is indicated. In Ṛks 1–4 of this sūkta the morning pressing is the subject, in Ṛk 5 the midday pressing, and in Ṛk 6 the third pressing.
+इंद्र क्रतुः हि ते बृहत् (*iṃdra kratuḥ hi te bṛhat*): Since Indra has performed many deeds of valour, such as the slaying of Vṛtra, he is praised here thus: O Indra, your deed of valour is very great, that is, extraordinary.
+
 ---
 
-**Progress note:** Done through printed p. 155. pp. 150-155 (batch API, retry 1)
+**Progress note:** Done through printed p. 161. pp. 156-161 (batch API, retry 2)
