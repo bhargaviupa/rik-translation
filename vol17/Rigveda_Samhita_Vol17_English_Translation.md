@@ -10003,6 +10003,248 @@ For the word अनपत्यानि (*anapatyāni*): अपत्यान�
 
 May Agni, who is produced for the sacrifice in many regions and is the messenger of the gods, proclaim us everywhere as sinless. May the earth, the world of heaven, and the water-dei
 
+### Printed p. 268
+#### Ṛk 19
+**Bhāvārtha** *(continued)*
+…and the vast firmament together with the stars, the sun and the deity of the waters, shall also hear our praise.
+
+##### English translation (H. H. Wilson)
+May the messenger of the gods, engendered in many places, everywhere proclaim us void of offence : may earth and heaven, the waters, the sun, and the vast firmament, with the constellations, here us.
+
+##### विशेषविषयगळु (Special Topics)
+
+पुरुध प्रसूतः (*purudha prasūtaḥ*)—पुरुषु बहुषु देशेषु अग्निहोत्रार्थं विहितः (*puruṣu bahuṣu deśeṣu agnihotrārthaṃ vihitaḥ*) । Or else: पुरुभिर्यजमानैः प्रसूतः यष्टव्यदेवाह्वानार्थं प्रेरितः । (*purubhiryajamānaiḥ prasūtaḥ yaṣṭavyadevāhvānārthaṃ preritaḥ |*) । Agni is praised as one who is placed by the sacrificers in many places for the performance of the Agnihotra; or as one who is sent forth by many sacrificers in the sacrifices in order to bring the gods. And in accordance with the statement of the Taittirīya Saṃhitā अग्निर्देवानां दूत आसीत् (*agnirdevānāṃ dūta āsīt*) (Tai. Saṃ.) he is also spoken of as देवानां दूतः (*devānāṃ dūtaḥ*), the messenger who brings the gods.
+
+नः अनगान् सर्वताता वोचतु (*naḥ anagān sarvatātā vocatu*)—कर्मकर्तृसाधनवैगुण्येन सापराधानस्मान् अनागसः सर्वत्र ब्रवीतु । (*karmakartṛsādhanavaiguṇyena sāparādhānasmān anāgasaḥ sarvatra bravītu |*) । When we, the sacrificers, perform the sacrifices, we become guilty of offence through deficiency in the rite, in the doers and in the materials needed for the work; Agni is therefore prayed to release us from our deficiency.
+
+पृथिवी, दौः, आपः, सूर्यः, अंतरिक्षं च नः शृणोतु (*pṛthivī, dauḥ, āpaḥ, sūryaḥ, aṃtarikṣaṃ ca naḥ śṛṇotu*)—The earth, the heaven, the deity of the waters, the sun and the firmament filled with stars: may these also hear the praises recited by the sacrificers. Thus the wish is expressed.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शृ॒ण्वंतु॑ नो॒ वृष॑णः॒ पर्व॑तासो ध्रु॒वक्षे॑मास॒ इळ॑या॒  ॑
+> मदंतः ।  
+> आ॒दि॒त्यैनो॒ आदि॑तिः शृणोतु॒ यच्छं॑तु नो म॒रुतः॒ शर्म॑  ॒
+> भद्रं ॥ २० ॥
+
+> *śṛṇvaṃtu no vṛṣaṇaḥ parvatāso dhruvakṣemāsa iḷayā*  
+> *madaṃtaḥ |*  
+> *ādityaino āditiḥ śṛṇotu yacchaṃtu no marutaḥ śarma*  
+> *bhadraṃ ‖ 20 ‖*
+
+### Printed p. 269
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शृण्वंतु । नः । वृषणः । पर्वतासः । ध्रुवक्षेमासः । इळॆया । मदंतः ।  
+> आदित्यैः । नः । अदितिः । शृणोतु । यच्छंतु । नः । मरुतः । शर्म । भद्रं ॥ २० ॥
+
+> *śṛṇvaṃtu | naḥ | vṛṣaṇaḥ | parvatāsaḥ | dhruvakṣemāsaḥ | iḷèyā | madaṃtaḥ |*  
+> *ādityaiḥ | naḥ | aditiḥ | śṛṇotu | yacchaṃtu | naḥ | marutaḥ | śarma | bhadraṃ ‖ 20 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषणोऽभिमतफलसेचका मरुतः पर्वतासः । पृणंति पूरयंत्यर्थिनां
+> कामानिति पर्वता गाव्राभिमानिनो देवाः ध्रुवक्षेमासो निश्चलस्थाना इळया
+> हविर्लक्षणेनान्नेन मदंतो माद्यंतः संतो नोऽस्मदीयां स्तुतिं शृण्वंतु ।
+> किंच आदित्यैरपत्यभूतैरादित्यैरुपेतादितिर्नोऽस्मदीयां स्तुतिं शृणोतु । मरुतश्च
+> नोऽस्मभ्यं भद्रं कल्याणकरं शर्म सुखं यच्छंतु । ददतु ॥ आदित्यैः । अदितेरपत्यानीत्यर्थे दित्यदितीति ण्यः । प्रत्ययस्वरेणांतोदात्तः । सुपा सहैकादेशे कृत
+> एकादेश उदात्तः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are the "showerers", who sprinkle the fruit that is desired; they are the पर्वतासः (*parvatāsaḥ*): "they fill (पृणंति (*pṛṇaṃti*)) the wishes of those who seek", hence पर्वताः (*parvatāḥ*), the deities presiding over the pressing-stones. ध्रुवक्षेमासः (*dhruvakṣemāsaḥ*) means those whose abode is unmoving. Gladdened by the food (इळया (*iḷayā*)) in the form of the oblation, may they hear our praise. Further, may Aditi, accompanied by the Ādityas who are her offspring, hear our praise; and may the Maruts grant us auspicious, beneficent comfort (शर्म (*śarma*)), that is, happiness. यच्छंतु (*yacchaṃtu*) means "let them give".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणः (*vṛṣaṇaḥ*)—the Maruts, bestowers of what is desired
+- पर्वतासः (*parvatāsaḥ*)—the deities presiding over the mountains, too
+- ध्रुवक्षेमासः (*dhruvakṣemāsaḥ*)—having an unmoving abode
+- इळया (*iḷayā*)—with the food in the form of the oblation
+- मदंत (*madaṃta*)—rejoicing
+- नः (*naḥ*)—our praise
+- शृण्वंतु (*śṛṇvaṃtu*)—let them hear
+- आदित्यैः (*ādityaiḥ*)—together with the Ādityas, her sons
+- अदितिः (*aditiḥ*)—Aditi
+- नः (*naḥ*)—our praise
+- शृणोतु (*śṛṇotu*)—let her hear
+- मरुतः (*marutaḥ*)—the Maruts
+- नः (*naḥ*)—to us
+- भद्रं (*bhadraṃ*)—auspicious
+- शर्म (*śarma*)—happiness
+- यच्चंतु (*yaccaṃtu*)—let them give
+
+##### भावार्थ (Bhāvārtha)
+
+May the Maruts, bestowers of what is desired, and the deities presiding over the mountains also, having an unmoving abode and rejoicing in the food that takes the form of the oblation, hear our praise. May Aditi, together with the Ādityas who are her sons, hear our praise. May the Maruts give us auspicious happiness.
+
+##### English translation (H. H. Wilson)
+May the (divine) showerers (of benefits), the deities of the mountains, and those abiding in flxed habitations, propitiated by the sacrificial food, hear us : may Aditi, with the Adityas, hear us : may the Maruts grant us auspicious felicity.
+
+### Printed p. 270
+
+##### विशेषविषयगळु (Special Topics)
+
+पर्वतासः (*parvatāsaḥ*)—पृणंति पूरयति अर्थिनां कार्मा इति पर्वताः ग्रावाभिमानिनो देवाः । (*pṛṇaṃti pūrayati arthināṃ kārmā iti parvatāḥ grāvābhimānino devāḥ |*) । Because they fulfil the wishes of those who take refuge in them, the deities presiding over the stones are designated by the word पर्वत (*parvata*). The prayer is described thus: these deities, the Marut deities who grant the sacrificers' desires, and the goddess Aditi together with her sons the Ādityas, satisfied by the offering of the sacrificers' oblations, shall hear the praises recited by the sacrificers.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सदा॑ सु॒गः पि॑तु॒मां अ॑स्तु॒ पंथा॒ मध्वा॑ देवा॒ ओष॑धीः॒ सं  ॑
+> पिपृक्त ।  
+> भगो॑ मे अग्ने स॒ख्ये न मृ॑ध्या॒ उद्रा॒यो अ॑श्यां॒ सद॑नं  ॒
+> पुरुक्षोः ॥ २१ ॥
+
+> *sadā sugaḥ pitumāṃ astu paṃthā madhvā devā oṣadhīḥ saṃ*  
+> *pipṛkta |*  
+> *bhago me agne sakhye na mṛdhyā udrāyo aśyāṃ sadanaṃ*  
+> *purukṣoḥ ‖ 21 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सदा । सुगः । पित्रुमान् । अस्तु । पंथाः । मध्वा । देवाः । ओषधीः । सं । पिपृक्त  
+> भगः । मे । अग्ने । सख्ये । न । मृध्याः । उत् । रायः । अश्यां । सदनं । पुरुषोः॥
+
+> *sadā | sugaḥ | pitrumān | astu | paṃthāḥ | madhvā | devāḥ | oṣadhīḥ | saṃ | pipṛkta*  
+> *bhagaḥ | me | agne | sakhye | na | mṛdhyāḥ | ut | rāyaḥ | aśyāṃ | sadanaṃ | puruṣoḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवत्स्यन्यजमानः सदा सुग इत्यृचं जपन् गच्छेत् । सूत्रितं च । सदा सुगः
+> पितुमा अस्तु पंथा इति पंथानमवरुह्य । आ. २-५ । इति ॥
+> हे अग्ने अस्माकं पंथा मार्गः सदा सर्वदा सुगः सुखेन गंतुं शक्यः पितुमानन्नवांश्चास्तु । हे देवा मध्वा माधुर्येर्पेतेनोंदकेनौषधीः सं पिपृक्त ।
+> संपर्चयत । सेचयतेत्सर्थः । हे अग्ने त्वया सख्यॆ संजाते सति मे मम भगो
+> धनं न मृध्याः । न विनश्यतु । किंच रायो धनस्य पुरुक्षोर्बह्वन्नस्य च सदनं स्थानमुदश्यां । प्राप्नुयां ॥ सदा । स्वरादिष्वाद्युदात्तत्वेन पाठादाद्युदात्तः । पिपृक्त ।
+> पृची संपर्के । लोटि बहुलं छंदसीति शपः श्लुः । बहुलं छंदसीत्यभ्यासस्यॆत्वं ।
+> मृध्याः । मृधिर्हिंसार्थः । लिजि तिजां तिजो भवंतीति तिपः सिप् ॥
+
+##### Gist of the bhāṣya
+
+A sacrificer about to set out should go reciting the ṛc सदा सुगः (*sadā sugaḥ*). It is also given in the sūtra: सदा सुगः पितुमा अस्तु पंथा इति पंथानमवरुह्य (*sadā sugaḥ pitumā astu paṃthā iti paṃthānamavaruhya*) (Ā. Sū. 2-5). "O Agni, may our path be always easy to travel and rich in food. O gods, with water endowed with sweetness, saturate (सं पिपृक्त (*saṃ pipṛkta*), "bring together", that is, "make them wet") the plants. O Agni, now that friendship with you has arisen, may my fortune (भगः (*bhagaḥ*), wealth) not be destroyed. And may I attain (Sanskrit udaśyām) the abode of wealth (रायः (*rāyaḥ*)) and of much food (पुरुक्षोः (*purukṣoḥ*))."
+
+### Printed p. 271
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) पंथाः (*paṃthāḥ*)—our path
+- सदा (*sadā*)—always
+- सुगः (*sugaḥ*)—fit to be travelled with ease
+- पितुमान् (*pitumān*)—furnished with food
+- अस्तु (*astu*)—let it be
+- देवाः (*devāḥ*)—O gods
+- मध्वा (*madhvā*)—with water endowed with sweetness
+- ओषधीः (*oṣadhīḥ*)—the plants
+- सं पिपृक्त (*saṃ pipṛkta*)—serve (make the plants thrive with the sweet juice) **NOTE**
+- अग्ने (*agne*)—O Agni
+- सख्यॆ (*sakhyè*)—when your friendship exists
+- मे (*me*)—my
+- भगः (*bhagaḥ*)—wealth
+- न मृध्याः (*na mṛdhyāḥ*)—let it not be destroyed
+- रायः (*rāyaḥ*)—of wealth (and)
+- पुरुक्षोः (*purukṣoḥ*)—of abundant food
+- सदनं (*sadanaṃ*)—the abode
+- उत् आश्ल्यां (*ut āślyāṃ*)—may I obtain **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may our path always be fit to be travelled with ease and furnished with food. O gods, fill the plants with sweet juice. O Agni, while your friendship is with me, may my wealth not be destroyed; and may the abode of abundant wealth and food be obtained by me.
+
+##### English translation (H. H. Wilson)
+May our path ever be easy of going, and provided with food : sprinkle, gods, the plants with sweet water : (safe) in your friendship, Agni, may my fortune never be impaired, but may I occupy a dwelling (abounding) with riches and ample food.
+
+##### विशेषविषयगळु (Special Topics)
+
+That the sacrificer who performs a sacrifice should go reciting this ṛc सदा सुगः (*sadā sugaḥ*) when he travels, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra सदा सुगः पितुमा अस्तु पंथा इति पंथानमवरुह्य (*sadā sugaḥ pitumā astu paṃthā iti paṃthānamavaruhya*) (Ā. 2-5).
+
+पितुर्मा (*piturmā*)—अन्नर्मा (*annarmā*) **NOTE**. The word पितु (*pitu*) is stated among the names of food (Ni. 3-9). The sacrificers pray to Agni that their path be pleasant and provided with food. The wish of the sacrificers is described thus: may the gods make the herbs grow with sweet waters, and may Agni bring about for the sacrificers increase, so that there is no deficiency of wealth and of abundant food.
+
+### Printed p. 272
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वद॑स्व ह॒व्या समिषो॑ दिदीह्यस्म॒द्र्य१॒॑ग्सं मि॑मीहि॒ श्रवां॑सि ।  
+> विश्वां॑ अग्ने पृ॒त्सु ताञ्जे॑षि॒ शत्रू॒नहा॒ विश्वा॑ सु॒मना॑ दीदिही  
+> नः ॥ २२ ॥
+
+> *svadasva havyā samiṣo didīhyasmadryagsaṃ mimīhi śravāṃsi |*  
+> *viśvāṃ agne pṛtsu tāñjeṣi śatrūnahā viśvā sumanā dīdihī*  
+> *naḥ ‖ 22 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वदस्व । हव्या । सं । इषः । दिदीहि । अस्मद्र्यक् । सं। मिमीहि । श्रवांसि ।  
+> विश्वान् । अग्ने । पृत्सु । तान् । जेषि । शत्रून् । अहा । विश्वा । सुमनाः । दीदिहि।  
+> नः ॥ २२ ॥
+
+> *svadasva | havyā | saṃ | iṣaḥ | didīhi | asmadryak | saṃ| mimīhi | śravāṃsi |*  
+> *viśvān | agne | pṛtsu | tān | jeṣi | śatrūn | ahā | viśvā | sumanāḥ | dīdihi|*  
+> *naḥ ‖ 22 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पशौ पुरोडाशस्विस्थकृतः स्वदस्व हव्येति याज्या । सूत्रितं च । स्वदस्व हव्या
+> समिषो दिदीहीति पुरोडाशस्विस्थकृतः । आ. ३-५ । इति ॥
+> हे अग्ने हव्या हवनयोग्यानि हवींषि स्वदस्व । स्वादय । अस्माकमिषोऽन्नानि
+> सं दिदीहि । सम्यक् प्रकाशय । दीपितानि तानि श्रवांस्यन्नान्यस्मद्रगस्मदभिमुखानि सं
+> मिमीहि ' समानय । कुर्वित्यर्थः । ततः पृत्सु संग्रामेषु तान्बाधकान्विश्वान्य
+> शत्रून् जेषि । जय । अथ सुमनाः शोभनमनस्कः सन् नोऽस्माकं विश्वाहा सर्वा
+> ण्यहानि दीदिहि । अग्निहोत्रादिकर्मयोग्यानि प्रकाशय ॥ स्वदस्व । स्वद आस्वादने ।
+> लोटि रूपं । थासो लसार्वधातुकस्वरे धातुस्वरः । दिदीहि । दिवु क्रीडादावित्यस्य
+> लोटि बहुलं छंदसीति विकरणस्य श्लुः । परत्वात् हलि चेति दीर्घत्वे कृते पश्चाद्वलि
+> लोपः । निघातः । अस्मद्रक् । अस्मानंचतीत्यंचतेः क्विप् । विश्वद्गेवयोश्च टेरिति
+> यणः स्वरितत्वं । मिमीहि । माज् माने शब्दे च। जुहोत्यादिः । तस्य लोटि व्यत्ययेन परस्मैपदं । निघातः । सुमनाः ! सोर्मनसीत्युत्तरपदाद्युदात्तत्वं ।
+> दीदिहि । दिवेर्यज्‌लुकि लोटि तुजादित्पादभ्यासस्य दीर्घः । वलि लोपः ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice, for the puroḍāśa-sviṣṭakṛt, स्वदस्व हव्या (*svadasva havyā*) is the yājyā. It is also given in the sūtra: स्वदस्व हव्या समिषो दिदीहीति पुरोडाशस्विस्थकृतः (*svadasva havyā samiṣo didīhīti puroḍāśasvisthakṛtaḥ*) (Ā. 3-5). "O Agni, make the oblations fit for offering pleasing to the taste (स्वदस्व (*svadasva*), "make them taste sweet"). Cause our foods (इषः (*iṣaḥ*)) to shine forth well. When they have been made to shine, bring those foods (श्रवांसि (*śravāṃsi*)) together, facing us; make them so. Then conquer in the battles all those hostile enemies. And, being well-disposed, make shine for us all days, that is, make them fit for rites such as the Agnihotra."
+
+### Printed p. 273
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- हव्या (*havyā*)—the oblations fit for the sacrifice
+- खादस्व (*khādasva*)—eat **NOTE**
+- इषः (*iṣaḥ*)—food
+- सं दिदीहि (*saṃ didīhi*)—furnish (to us) completely
+- श्रवांसि (*śravāṃsi*)—foods
+- अस्मद्रक् (*asmadrak*)—so as to face us
+- सं मिमीहि (*saṃ mimīhi*)—bring and set down
+- पृत्सु (*pṛtsu*)—in battles
+- विश्वान् (*viśvān*)—all
+- शत्रुन् (*śatrun*)—enemies (those)
+- जेषि (*jeṣi*)—conquer
+- सुमनाः (*sumanāḥ*)—having a favourable mind
+- नः (*naḥ*)—for us
+- विश्वा अहा (*viśvā ahā*)—all days
+- दीदिहि (*dīdihi*)—make shine so as to be fit for the Agnihotra
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, eat the oblations fit for the sacrifice. Furnish us complete food. Bring and set the foods facing us. In battles conquer all the enemies. With a favourable mind, make all days shine for us so as to be fit for the Agnihotra.
+
+##### English translation (H. H. Wilson)
+Taste (Agni) the oblations; make manifest (for us) abundant food : measure out the viands before us : you overcome all those (who are) our enemies in conflict : favorably inclined towards us lighten up all our (cere- monies) day by day.
+
+##### विशेषविषयगळु (Special Topics)
+
+That in the animal sacrifice, when the puroḍāśa-sviṣṭakṛt offering is made, this ṛc सदस्य हव्या (*sadasya havyā*) **NOTE** is to be recited as the yājyā mantra, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra सदस्व हव्या समिषो दिदीहीति पुरोडाशस्विस्थकृतः (*sadasva havyā samiṣo didīhīti puroḍāśasvisthakṛtaḥ*) (Ā. 3-5). The wishes prayed for are these: may Agni taste the oblations offered by the sacrificers; grant food to the sacrificers; provide bright foods easily; conquer the sacrificers' enemies; be gracious towards the sacrificers; and grant that rites such as the Agnihotra be accomplished without obstacle.
+
+## Sūkta 55 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषसः पूर्वा इति द्वाविंशत्यृचं द्वितीयं सूक्तं त्रैष्टुभं । उषस इत्यनुक्रमणिका । प्रजापतेरार्षं वैश्वदेवं प्रजापतिर्हि वैश्वदेवं हेति पूर्वसूक्ते
+> हशब्दप्रयोगात् । सूक्तविनियोगो लैंगिकः । अत्राद्योषस्या ततः परं नवर्चोS-
+
+##### Gist of the bhāṣya
+
+The hymn beginning उषसः पूर्वा (*uṣasaḥ pūrvā*), of twenty-two ṛcs, is the second sūkta (of this group), in the Triṣṭubh metre. Its deity is Uṣas, according to the Anukramaṇikā. Its seer is Prajāpati, and it is addressed to the Viśvedevas, since the word ह (*ha*) is used in the preceding sūkta (प्रजापतिर्हि वैश्वदेवं हेति (*prajāpatirhi vaiśvadevaṃ heti*)). The sūkta's ritual use is indicated by the text itself (लैंगिकः (*laiṃgikaḥ*)). Here the first … **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 267. pp. 261-267 (batch API, retry 1)
+**Progress note:** Done through printed p. 273. pp. 268-273 (batch API, retry 1)
