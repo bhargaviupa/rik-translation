@@ -1050,6 +1050,272 @@ Be exhilarated bodily (by drinking) of the libation which we offer for the sake 
 अंधसः (*aṃdhasaḥ*)—The word *andhas* is read among the names of food (Ni. 3-9). As we said before, the word *andhas* is used here to denote Soma juice.
 स्तोतारं निदे न करः (*stotāraṃ nide na karaḥ*)—त्वं स्तोतारं मां निंदायै विषयभूतं मा कार्षिः । (*tvaṃ stotāraṃ māṃ niṃdāyai viṣayabhūtaṃ mā kārṣiḥ |*) O Indra, do not let me, who am praising you, become an object of blame. That is, let no one reproach me.
 
+### Printed p. 33
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमिं॑द्र त्वा॒यवो॑ ह॒विष्मं॑तो जरामहे ।  
+> उ॒त त्वम॑स्म॒युवर्॑सो ॥ ७ ॥
+
+> *vayamiṃdra tvāyavo haviṣmaṃto jarāmahe |*  
+> *uta tvamasmayuvarso ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । इंद्र । त्वायवः । हविष्मंतः । जरामहे ।  
+> उत । त्वं । अस्मयुः । वसो इति । ७ ॥
+
+> *vayaṃ | iṃdra | tvāyavaḥ | haviṣmaṃtaḥ | jarāmahe |*  
+> *uta | tvaṃ | asmayuḥ | vaso iti | 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वायवो यज्ञार्थं त्वामात्मन इच्छंतस्त्वत्कामाः संतो हनिष्मंतः संभृतहविष्का वयं जरामहे । त्वां स्तुमः । हे वसो सर्वस्य वासक इंद्र
+> उत त्वमप्यस्मयुरस्मदीयहविः स्वीकरणार्थमस्मानात्मन इच्छन् भव ॥ त्वायवः ।
+> त्वामिच्छंतीत्यर्थे सुपः आत्मनः क्यच् । प्रत्ययोत्तरपदयोश्चति मपर्यंतस्य
+> त्वादेशः । क्याच्छंदसीत्युप्रत्ययः । त्वदृव इति प्राप्तौ युष्मदस्मदोरनादेश इत्यविभक्तावपि हलादौ व्यत्ययेनात्वं । प्रत्ययस्वरः । हनिष्मंतः । तसौ मत्वर्थ इति
+> भसंज्ञायां सकारस्य रुत्वाभावः । स्वरविधौ व्यंजनमविद्यमानवदिति परिभाषानाश्रयणान्मतुप उदात्तताभावः । इसिप्रत्ययस्वरः । जरामहे । जरतिः स्तुतिकर्मेति
+> यास्कः । अस्मयुः : अस्मानिच्छतीत्यर्थे सुपः क्यच् । तस्मादुप्रत्ययः । पूर्वपदांतलोपश्चांदसः । प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we desire you for the sake of the sacrifice, longing for you, and with our oblations gathered together we praise you (जरामहे (*jarāmahe*); Sāyaṇa glosses it "we praise you"). O Vasu, you who give dwelling to all, be desirous of us as well, wishing for us so that you may accept our oblation. Sāyaṇa explains त्वायवः (*tvāyavaḥ*) as "those who desire you", and अस्मयुः (*asmayuḥ*) as "one who desires us". He cites Yāska: जरतिः स्तुतिकर्मेति यास्कः (*jaratiḥ stutikarmeti yāskaḥ*) (jarati is a verb of praising).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वायवः (*tvāyavaḥ*)—we who with faith desire your favour
+- हविष्मंतः (*haviṣmaṃtaḥ*)—who possess oblations
+- वयं (*vayaṃ*)—we
+- जरामहे (*jarāmahe*)—praise you
+- वसो (*vaso*)—O Indra, giver of dwelling to all
+- उत त्वं (*uta tvaṃ*)—you also
+- अस्मयुः (*asmayuḥ*)—be desirous of accepting our oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who with faith desire your favour and who possess oblations praise you. O Indra, giver of dwelling to all, you too be desirous of accepting our oblation.
+
+### Printed p. 34
+
+##### English translation (H. H. Wilson)
+Devoted, Indra, to you, and offering oblations, we glorify you, giver of dwellings: be favourably disposed to us.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this Ṛk is easy. There are no difficult words and no obscurity of meaning. O Indra, in order to win your favour we have prepared oblations to offer you and are praising you. The main idea is: "You, giver of dwelling to all, come near us and accept the oblation."
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मारे अ॒स्मद्वि मु॑मुचो॒ हरि॑प्रिया॒र्वाज् या॑हि ।  
+> इंद्र स्वधावो मत्तैव ॥ ८ ॥
+
+> *māre asmadvi mumuco haripriyārvāj yāhi |*  
+> *iṃdra svadhāvo mattaiva ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । आरे । अस्मत् । वि । मुमुचः । हरिप्रियॆ । अर्वाण् । याहि ।  
+> इंद्र । स्वध्वावः । मत्स्य । इह ॥ ८ ॥
+
+> *mā | āre | asmat | vi | mumucaḥ | haripriyè | arvāṇ | yāhi |*  
+> *iṃdra | svadhvāvaḥ | matsya | iha ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिप्रिय हरी अश्वा प्रियौ यस्य तादृश हे इंद्र अस्मदस्मत्त आरे दूरे
+> रथे योजतावश्वा मा वि मुमुचः । मा विमोचय । ताभ्यामुपेत एनार्वाज्
+> अस्मदाभिमुख्येन याहि । आगच्छ । हे स्वधावः सोमलक्षणान्नवन्निंद्र इहास्मिन्देवयजने मत्स्य । सोमं पीत्वा हृष्टो भव ॥ आस्मत् । अस्मच्छब्दस्य पंचमीबहुवचनस्य पंचम्या अत् । पा. ७-१-३१ । इत्यदादेशः । मुमुचः । मुच्चै मोक्षण
+> इत्यस्य ण्यंतस्य छांदसे लुजि चजि रूपं । अभ्यासस्य दीर्घाभावश्चांदसः । न
+> माज्योग इत्यडभावः । निघातः । हरिप्रिय । आमंत्रितस्य पादादित्वात्पाष्ठिकमाद्युदात्तत्वं । मत्स्य । मदि स्तुत्यादिश्वित्यस्य लोटि बहुलं छंदसीति विकरणस्य लुक् ।
+> अमंत्रितस्याविद्यमानत्वेन पादादित्वादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, "whose two horses (hari) are dear" (हरिप्रिय (*haripriya*)), do not unyoke the two horses yoked to the chariot while you are far from us (मा वि मुमुचः (*mā vi mumucaḥ*): "do not release"). Provided with them, come (याहि (*yāhi*): "arrive") facing us (अर्वाण् (*arvāṇ*)). O Indra, स्वधावः (*svadhāvaḥ*), possessor of food in the form of Soma, rejoice (मत्स्य (*matsya*)) here, in this place of worship of the gods: having drunk Soma, be gladdened.
+### Printed p. 35
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिप्रिय (*haripriya*)—O Indra, lover of horses
+- अस्मत् (*asmat*)—from our place of sacrifice
+- आरे (*āre*)—far away
+- मा वि मुमुचः (*mā vi mumucaḥ*)—do not unyoke the horses from the chariot and let them go
+- अर्वाज् (*arvāj*)—facing us (with them)
+- याहि (*yāhi*)—graciously come
+- स्वधावः (*svadhāvaḥ*)—possessor of food in the form of Soma
+- इंद्र (*iṃdra*)—O Indra
+- इह (*iha*)—in this place of sacrifice
+- मत्स्य (*matsya*)—be satisfied by drinking Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lover of horses, do not unyoke your horses from the chariot while far from our place of sacrifice. Come graciously with them, facing us. O Indra, possessor of food in the form of Soma, be satisfied in this place of sacrifice by drinking Soma.
+
+##### English translation (H. H. Wilson)
+Lover of horses, Indra, loosen not your steeds while far from us, but come (with them) to our presence : enjoyer of the offering, be exhilarated at this sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+हरिप्रिय (*haripriya*)—Hari means the two horses of Indra. Because Indra is fond of them, Indra is here addressed by the word hari-priya.
+अस्मत् मा आरे वि मुमुचः (*asmat mā āre vi mumucaḥ*)—O Indra, do not unyoke your horses from the chariot far from us. That is, keep your horses yoked to the chariot until you reach our neighbourhood. Seated in the chariot, unyoke the horses after you have come near us. Do not stop the journey midway by unyoking the horses before then. So Indra is entreated.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वाञ्चं॑ त्वा सु॒खे रथे॒ वह॑तामिंद्र के॒शिना॑ ।  
+> घृ॒तस्नू॑ ब॒र्हिरा॒सदे॑ ॥ ९ ॥
+
+> *arvāñcaṃ tvā sukhe rathe vahatāmiṃdra keśinā |*  
+> *ghṛtasnū barhirāsade ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वाञ्छं । त्वा । सुखे । रथे । वहतां । इंद्र । केशिना ।  
+> घृतस्नू इति घृतस्नू । बर्हिः । आसदे ॥ ९ ॥
+
+> *arvāñchaṃ | tvā | sukhe | rathe | vahatāṃ | iṃdra | keśinā |*  
+> *ghṛtasnū iti ghṛtasnū | barhiḥ | āsade ‖ 9 ‖*
+
+### Printed p. 36
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र घृतस्नू श्रमजनितजलप्रस्रवणयुक्तौ केशिना केशिनौ स्कंधप्रदेशे
+> लंबमानकेशयुक्तौ हरी आसद आसदनीयं बर्हिरभिलक्ष्य सुखे सुखकरे रथेऽर्वांच मस्तदभिमुखं त्वा त्वां वहतां ॥ अर्वांचं । अंचतेः क्विन्युगिदचामिति
+> नुम् । वहतां । वहेर्लोटि रूपं । तसो लसार्वधातुकस्वरे कृते धातुस्वरः ।
+> आसदे । सदेः कृत्यार्थे केन्प्रत्ययः । नित्सरः । कृदुत्तरपदप्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, let your two horses, घृतस्नू (*ghṛtasnū*), which have a flow of water produced by exertion, and केशिना (*keśinā*), which have hair hanging down on the shoulder region, bring you (वहतां (*vahatāṃ*)) facing us (अर्वांचं (*arvāṃcaṃ*)), in the comfortable chariot, toward the grass-seat (बर्हिः (*barhiḥ*)) on which one is to sit (आसदे (*āsade*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- धृतस्नू (*dhṛtasnū*)—your horses with bodies shining like ghee (or covered with sweat) **NOTE**
+- केशिना (*keśinā*)—with attractive hair on the neck
+- आसदे (*āsade*)—fit for sitting
+- बर्हिः (*barhiḥ*)—toward the seat of darbha grass
+- सुखे (*sukhe*)—comfortable
+- रथे (*rathe*)—in the chariot
+- अर्वांचं (*arvāṃcaṃ*)—facing us
+- त्वा (*tvā*)—you
+- वहतां (*vahatāṃ*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let your horses, with bodies shining like ghee (or covered with sweat) and with attractive hair on the neck, bring you facing us in the comfortable chariot toward the darbha-grass seat fit for sitting.
+
+##### English translation (H. H. Wilson)
+May your long-maned and sleek-coated steeds bring you down in your easy chariot to sit upon the sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+धृतस्नू (*dhṛtasnū*)—श्रमजनितजलप्रस्रवणयुक्तौ (*śramajanitajalaprasravaṇayuktau*). Since the word dhṛta is read among the names of water (Ni. 2-24), dhṛta means water, the water of exertion, that is, sweat. Because horses run fast over a long distance, their bodies are soaked with sweat. In the same way here, because Indra's horses have brought Indra from far away to our place of sacrifice, their bodies are drenched with sweat. That condition is described here by the word धृतस्नू (*dhṛtasnū*). **NOTE**
+केशिना (*keśinā*)—केशिनौ । स्कंधप्रदेशे लंबमानकेशयुक्तौ हरी । (*keśinau | skaṃdhapradeśe laṃbamānakeśayuktau harī |*) It is natural for horses to have long hair on the neck. In the same way, Indra's horses are described here as having long hair on the neck.
+
+### Printed p. 37
+## Sūkta 42 (Maṇḍala 3)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उप नः सुतमिति नवर्चं चतुर्थं सूक्तं वैश्वामित्रं गायत्रमैंद्रं । उप
+> न इत्यनुक्रमणिका । पूर्वसूक्तेन सहोक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The fourth sūkta, of nine Ṛks, beginning उप नः सुतं (*upa naḥ sutaṃ*), has Viśvāmitra as seer, is in the Gāyatrī metre and is addressed to Indra. The Anukramaṇikā (index) begins it with उप न (*upa na*). Its viniyoga (ritual use) is the one stated together with the previous sūkta.
+
+##### Anuvāda
+
+This sūkta beginning उप नः सुतं (*upa naḥ sutaṃ*) is the fourth sūkta in the fourth anuvāka. It has nine Ṛks. Its seer is Viśvāmitra, its deity Indra, its metre Gāyatrī. The Anukramaṇikā begins it with उप नः (*upa naḥ*). Its viniyoga was stated at the beginning of the previous sūkta.
+Sūkta—42
+Maṇḍala—3 · Anuvāka—4 · Sūkta—42
+Aṣṭaka—3 · Adhyāya—3 · Varga—5, 6
+Number of Ṛks in the sūkta—9
+Ṛṣi—Viśvāmitra
+Devatā—Indra
+Chandas—Gāyatrī
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ नः सु॒तमा ग॑हि॒ सोम॑मिंद्र॒ गवा॑शिरं ।  
+> हरि॑भ्यां॒ यस्ते॑ अस्म॒युः ॥ १ ॥
+
+> *upa naḥ sutamā gahi somamiṃdra gavāśiraṃ |*  
+> *haribhyāṃ yaste asmayuḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । नः । सुतं । आ । गहि । सोमं । इंद्र । गोऽआशिरं ।  
+> हरिभ्यां । यः । ते । अस्मयुः ॥ १ ॥
+
+> *upa | naḥ | sutaṃ | ā | gahi | somaṃ | iṃdra | go 'āśiraṃ |*  
+> *haribhyāṃ | yaḥ | te | asmayuḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मदीयं सुतमभिषुतं गवाशिरं पयसा मिश्रितं सोमं प्रति
+> उपा गहि । समीप आगच्छ । यतो हरिभ्यामश्वाभ्यां युक्तस्तव रथोऽस्मयुरस्मा-
+
+##### Gist of the bhāṣya
+
+O Indra, come near to our pressed (सुतं (*sutaṃ*)) Soma, mixed with milk (गवाशिरं (*gavāśiraṃ*)), since your chariot, yoked with two horses, is desirous of us (अस्मयुः (*asmayuḥ*), "wishing us").
+
+### Printed p. 38
+
+> स्कामयमानो वर्तते ॥ गवाशिरं । आज् पूर्वस्य श्रीणातेः क्विप्यपस्पृधेथामान्यचुरित्यादिनाशिरित्यादेशः । बहुव्रीहौ पूर्वपदस्वरः ॥
+
+##### Gist of the bhāṣya
+
+The remainder of the block gives only the derivation of गवाशिरं (*gavāśiraṃ*), with the substitution āśir for the root śrīṇāti after ā-√ac, and its accent; this belongs to grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—by us
+- सुतं (*sutaṃ*)—pressed
+- गवाशिरं (*gavāśiraṃ*)—mixed with milk
+- सोमं (*somaṃ*)—toward the Soma juice
+- उप आ गहि (*upa ā gahi*)—graciously come near
+- हरिभ्यां (*haribhyāṃ*)—joined with horses
+- ते (*te*)—your
+- यः (*yaḥ*)—the chariot that there is
+- आस्मयुः (*āsmayuḥ*)—is favourable toward us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come near toward the Soma juice pressed by us and mixed with milk. Your chariot, joined with horses, is favourable toward us.
+
+##### English translation (H. H. Wilson)
+Come, Indra, to this our effused Soma juice mixed with milk and curds, with your horses (yoked to your car), which is favourably disposed to us.
+
+##### विशेषविषयगळु (Special Topics)
+
+सुतं आ गहि (*sutaṃ ā gahi*)—toward the Soma juice that we have prepared; that is, the idea is "come near us to drink Soma."
+गवाशिरं (*gavāśiraṃ*)—पयसा मिश्रितं सोमं । (*payasā miśritaṃ somaṃ |*) It is the custom to mix milk, curds and wheat flour into the Soma juice to make it tasty. Soma juice mixed with milk is called gavāśira, Soma juice mixed with curds is called dadhyāśira, and Soma juice mixed with flour is called yavāśira. For these āśira substances, see what we have written in Ṛ. Saṃ. Part 2, page 172.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिं॑द्र॒ मद॒मा ग॑हि बर्हि॒ष्ठां ग्राव॑भिः सु॒तं ।  
+> कुविन्नस्य तृप्नवः ॥ २ ॥
+
+> *tamiṃdra madamā gahi barhiṣṭhāṃ grāvabhiḥ sutaṃ |*  
+> *kuvinnasya tṛpnavaḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इंद्र । मदं । आ । गहि । बर्हिःस्थां । ग्रावभिः । सुतं ।  
+> कुवित् । नु । अस्य । तृप्नवः ॥ २ ॥
+
+> *taṃ | iṃdra | madaṃ | ā | gahi | barhiḥsthāṃ | grāvabhiḥ | sutaṃ |*  
+> *kuvit | nu | asya | tṛpnavaḥ ‖ 2 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 32. pilot by the batch API; rebuilt with sub-headings
+**Progress note:** Done through printed p. 38. pp. 33-38 (batch API, retry 1)
