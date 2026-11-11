@@ -4784,6 +4784,337 @@ That Indra, in वृत्रहत्ये (*vṛtrahatye*), that is, when th
 
 The valiant Indra is called for help in battle, which destroys enemies. He is exceedingly worthy of worship. Indra, thus worthy of worship, when praised by the sacrificers, becomes a giver of real (satyātmaka)
 
+### Printed p. 137
+**Bhāvārtha** (continued)
+…he becomes the giver of wealth. That same wealthy Indra gives wealth in full to the sacrificer, a mortal, who praises him and presses Soma for the offering.
+
+##### English translation (H. H. Wilson)
+He, Indra, is to be invoked for the destruction of Vritra : he, the deservedly praised. is to be worshipped : the real donor of wealth, he, Maghavan, gives wealth, (acquired) in battle, to the mortal who offers him prayer and libations.
+
+##### विशेषविषयगळु (Special Topics)
+
+Since Indra's favour is necessary for victory in battle and the like, we call upon Indra at that time for the gain of victory. By praising Indra we please him, and he gives us wealth and other things. The idea suggested here is that Indra gives wealth and the like, and so gladdens the sacrificers who offer praise and who press the Soma juice and offer it to Indra.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिन्नरो॒ वि ह्व॑यंते समी॒के रि॑रि॒क्वांस॑स्त॒न्वः॑ कृण्वत॒ त्रां ।  
+> मि॒थो यत्या॒गमु॒भया॑सो॒ अग्म॒न्नर॑स्तो॒कस्य॒ तन॑यस्य  ॒
+> सात् ॥ ३ ॥
+
+> *taminnaro vi hvayaṃte samīke ririkvāṃsastanvaḥ kṛṇvata trāṃ |*  
+> *mitho yatyāgamubhayāso agmannarastokasya tanayasya*  
+> *sāt ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । नरः । वि । ह्वयंते । संईके । रिरिक्वांसः । तन्नः । कृण्वत । त्रां ।  
+> मिथः । यत् । त्यागं । उभयासः । अग्मन् । नरः । तोकस्य । तनयस्य । सातौ ॥ ३ ॥
+
+> *taṃ | it | naraḥ | vi | hvayaṃte | saṃīke | ririkvāṃsaḥ | tannaḥ | kṛṇvata | trāṃ |*  
+> *mithaḥ | yat | tyāgaṃ | ubhayāsaḥ | agman | naraḥ | tokasya | tanayasya | sātau ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरो नेतारो मनुष्याः समीके युद्धे तमित्तमेवेंद्रं वि ह्वयंते ।
+> विविधमाह्वानं कुर्वते । तन्नः स्वकीयानि शरीराणि रिरिकांसस्तपसा रेचयंतो
+> 138
+> यजमानास्तमेवेंद्रं त्रां त्रातारं कृण्वत । कृण्वते । कुर्वते । यद्यदा मिथः
+> परस्परं संगता उभयास उभये यजमानाः स्तोतारश्च त्यागं त्यागकर्तारं
+> दातारमिंद्रमग्मन् उपगच्छंति तदा नर उभयविधा मनुष्यास्तोकस्य पुत्रस्य
+> तनयस्य पौत्रस्य च सात्लाभे निमित्तभूते सति तमेवेंद्रं त्रातारं कुर्वंतीति
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The men (the leaders, human beings) call upon that very Indra in various ways in the battle (समीके (*samīke*) = in battle). The sacrificers, रिरिक्वांसः (*ririkvāṃsaḥ*), who make their own bodies lean (empty them) by austerity, make that same Indra their protector (त्रां (*trāṃ*) = protector; कृण्वत (*kṛṇvata*) = कृण्वते (*kṛṇvate*), they make). When both parties, the sacrificers and the praisers, come together and approach Indra, the renouncer (त्यागं (*tyāgaṃ*) = the giver), then both kinds of men make that same Indra their protector, there being occasion for obtaining (सात् (*sāt*) = gain) a son (तोकस्य (*tokasya*)) and a grandson (तनयस्य (*tanayasya*)). This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—men
+- सविाकॆ (*saviākè*)—in battle
+- तमित् (*tamit*)—that same Indra (Indra alone)
+- वि ह्वयंते (*vi hvayaṃte*)—call upon in various ways, praising
+- तन्नः (*tannaḥ*)—their bodies
+- रिरिक्वांसः (*ririkvāṃsaḥ*)—the sacrificers who make themselves lean through austerity
+- त्रां (*trāṃ*)—(Indra alone) as their protector
+- कृण्वते (*kṛṇvate*)—makes (for themselves) **NOTE**
+- यत् (*yat*)—when
+- उभयासः (*ubhayāsaḥ*)—the sacrificers and the praisers
+- मिथः (*mithaḥ*)—gathering together
+- त्यागं (*tyāgaṃ*)—Indra, the giver
+- अग्मन् (*agman*)—approach, then
+- नरः (*naraḥ*)—both groups
+- तोकस्य (*tokasya*)—of what takes the form of a son
+- तनयस्य (*tanayasya*)—and of what takes the form of a grandson, the wealth
+- सात् (*sāt*)—for the sake of obtaining (they choose Indra)
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers, being men, call upon Indra alone in battle for help, praising him in various ways. The sacrificers who worship Indra after making their bodies lean by austerity make him alone their protector. When the sacrificers and the praisers gather together and approach the bountiful Indra, there is no doubt that both groups obtain wealth in the form of sons and grandsons.
+
+##### English translation (H. H. Wilson)
+Men verily call upon him in battle : the (devout) inflictors of auste- rity upon their persons constitute him their preserver : when both (the worshipper and the priest) approach together the bountiful Indra, men (succeed) in (obtaining) the gift of sons and grandsons.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्र॒तू॒यंति॑ क्षि॒तयो॒ योग॑ उग्राशुषा॒णासो॑ मि॒थो  ॑
+> अर्णसात् ।
+
+> *kratūyaṃti kṣitayo yoga ugrāśuṣāṇāso mitho*  
+> *arṇasāt |*
+
+### Printed p. 139
+
+> सं यद्विशोऽववृत्रंत युध्मा आदिन्नेम इंद्रयंते  
+> अभीकेः ॥ ४ ॥
+
+> *saṃ yadviśo 'vavṛtraṃta yudhmā ādinnema iṃdrayaṃte*  
+> *abhīkeḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रतुयंति । क्षितयः । योगे । उग्र । आशुषाणासः । मिथः । अर्णसात् ।  
+> सं । यत् । विशः । अववृत्रंत । युध्माः । आत् । इत् । नेमे । इंद्रयंते ।  
+> अभीके ॥ ४ ॥
+
+> *kratuyaṃti | kṣitayaḥ | yoge | ugra | āśuṣāṇāsaḥ | mithaḥ | arṇasāt |*  
+> *saṃ | yat | viśaḥ | avavṛtraṃta | yudhmāḥ | āt | it | neme | iṃdrayaṃte |*  
+> *abhīke ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रोद्गूर्णबलेंद्र आशुषाणासो व्याप्नुवंतः क्षितयो मनुष्याः ।
+> क्षितय इति मनुष्यनामैतत् । अर्णसात् सस्यादिफलसिद्ध्यर्थमुदकलाभे निमित्ते सति
+> मिथः परस्परं योगे संबंधे सति क्रतूयंति । क्रतूनि कर्माणीच्छंति । यद्यदा
+> युध्मा योधयित्यो विशः प्रजा अभीके युद्धे । अभीक इति संग्रामनामैतत् ।
+> समववृत्रंत संवर्तंते परस्परं संगच्छंते आदित् तदानीमेव नेमे केचन
+> भाग्यवंतो योधका इंद्रयंते । युद्ध इंद्रमिच्छंति ॥
+
+##### Gist of the bhāṣya
+
+O fierce Indra, of upraised strength! Men, क्षितयः (*kṣitayaḥ*) (क्षितय इति मनुष्यनामैतत् (*kṣitaya iti manuṣyanāmaitat*)), pervading (आशुषाणासः (*āśuṣāṇāsaḥ*)), when there is occasion to obtain water for the perfecting of the fruit of crops and the like (अर्णसात् (*arṇasāt*)), and there is mutual connection (योगे (*yoge*)), desire rites (क्रतूयंति (*kratūyaṃti*) = they desire क्रतूनि (*kratūni*), rites). When the combative peoples, the warriors, assemble in battle (अभीक इति संग्रामनामैतत् (*abhīka iti saṃgrāmanāmaitat*)), meeting one another (समववृत्रंत (*samavavṛtraṃta*)), then at that very moment some fortunate fighters desire Indra in the battle (इंद्रयंते (*iṃdrayaṃte*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—O Indra, possessed of manifested might
+- आशुषाणासः (*āśuṣāṇāsaḥ*)—eager for rain
+- क्षितयः (*kṣitayaḥ*)—men
+- अर्णसात् (*arṇasāt*)—for the sake of rain
+- मिथः (*mithaḥ*)—together
+- योगे (*yoge*)—joining
+- ऋतूयंति (*ṛtūyaṃti*)—wish to perform rites **NOTE**
+- यत् (*yat*)—when
+- युध्माः (*yudhmāḥ*)—desirous of battle
+- विशः (*viśaḥ*)—the people
+- अभीके (*abhīke*)—in battle
+- सं अववृत्रंत (*saṃ avavṛtraṃta*)—gather together
+- आदित् (*ādit*)—then
+- नेमे (*neme*)—only some men of merit
+- इंद्रयंते (*iṃdrayaṃte*)—desire you, the lord, for help
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of manifested and terrible might: men eager for rain join together for the sake of rain and wish to perform rites. When people desirous of battle gather together for fighting, then only some meritorious ones desire you, the lord, and call upon you for help.
+
+### Printed p. 140
+
+##### English translation (H. H. Wilson)
+Powerful Indra, men variously dispersed, come mutually together to celebrate sacred rites for the sake of obtaining rain: when men who are combatants assemble in battle, there are some of them who rely upon Indra.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदिद्द॒ नेम॑ इंद्रि॒यं य॑जंत॒ आदित्प॒क्तिः पु॑रो॒ळापं॑ रिरिच्यात् ।  
+> आदित्सोमो॒ वि प॑पृच्या॒दसु॑ष्पी॒नादिज्जु॑ जोष वृष॒भं यज॑ध्यै ॥
+
+> *ādidda nema iṃdriyaṃ yajaṃta āditpaktiḥ puroḷāpaṃ riricyāt |*  
+> *āditsomo vi papṛcyādasuṣpīnādijju joṣa vṛṣabhaṃ yajadhyai ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । इत् । ह । नेमे । इंद्रियं । यजंते । आत् । इत् । पक्तिः । पुरोळाशं ।  
+> रिरिच्यात् ।  
+> आत् । इत् । सोमः । वि । पपृच्यात् । असुस्वीन् । आत् । इत् । जुजोष । वृषभं ।  
+> यजध्यै ॥ ५ ॥
+
+> *āt | it | ha | neme | iṃdriyaṃ | yajaṃte | āt | it | paktiḥ | puroḷāśaṃ |*  
+> *riricyāt |*  
+> *āt | it | somaḥ | vi | papṛcyāt | asusvīn | āt | it | jujoṣa | vṛṣabhaṃ |*  
+> *yajadhyai ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्तदानीमेव युद्धकाले नेमेऽन्ये योधा इंद्रियं बलवंतमिंद्रं
+> यजंते ह । पूजयंति खलु । कश्चिदादिदनंतरमेव पुरोळाशं पिष्टरूपं हविः
+> पक्तिः पचन् रिरिच्यात् । इंद्राय दद्यात् । आदिदनंतरमेव सोमोऽभिषुतसोमो
+> यजमानोऽसुष्वीननभिषुतसोमान्यजर्मानान्वि पपृच्यात् । धनैः पृथक्कुर्यात् ।
+> आदिदनंतरमेव कश्चिद्वृषभं कामानां वर्षितारमिंद्रं यजध्यै यष्टुं जुजोष।
+> सेवते ॥
+
+##### Gist of the bhāṣya
+
+Then, at that very time of battle, other warriors (नेमे (*neme*) = others) worship (यजंते ह (*yajaṃte ha*) = they indeed honour) the mighty Indra (इंद्रियं (*iṃdriyaṃ*)). Immediately after, someone, cooking (पक्तिः (*paktiḥ*) = cooking) the purodāśa, an oblation in the form of a cake of ground meal, would offer (रिरिच्यात् (*riricyāt*)) it to Indra. Immediately after, the sacrificer who has pressed Soma would separate by gifts of wealth (पपृच्यात् (*papṛcyāt*)) those sacrificers who have not pressed Soma (असुष्वीन् (*asuṣvīn*)). Immediately after, someone is eager (जुजोष (*jujoṣa*) = serves) to worship (यजध्यै (*yajadhyai*)) the bull (वृषभं (*vṛṣabhaṃ*)), Indra the showerer of desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित् (*ādit*)—as soon as the battle has come
+- नेमे (*neme*)—some warriors
+- इंद्रियं (*iṃdriyaṃ*)—the mighty Indra
+- यजंते ह (*yajaṃte ha*)—worship
+- आदित् (*ādit*)—immediately thereupon
+- पुरोळाशं (*puroḷāśaṃ*)—the oblation in the form of purodāśa
+- पक्तिः (*paktiḥ*)—cooking
+- रिरिच्यात् (*riricyāt*)—they offer to Indra
+### Printed p. 141
+- आदित् (*ādit*)—immediately
+- सोमः (*somaḥ*)—the sacrificer who has pressed the Soma
+- असुष्वीन् (*asuṣvīn*)—(not being a sacrificer, hence) men who do not press Soma
+- पपृच्यात् (*papṛcyāt*)—he separates from himself
+- आदित् (*ādit*)—at once
+- वृषभं (*vṛṣabhaṃ*)—addressing Indra, the showerer of desires
+- यजध्यै (*yajadhyai*)—to perform the sacrifice
+- जुजोष (*jujoṣa*)—desires
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the battle has come, some warriors worship the mighty Indra. Immediately thereupon they cook the oblation in the form of purodāśa and offer it to Indra. Immediately the sacrificer who has pressed Soma for the sacrifice separates himself from the man who is not a sacrificer (and hence has not pressed Soma). At once he desires to perform sacrifice to Indra, the showerer of desires.
+
+##### English translation (H. H. Wilson)
+Thereupon some verily worship the powerful (Indra); thereupon one man prepares the buttered cake that he may offer it to (Indra); thereupon the offerer of the Soma he distinguishes from him who presents no libation ; thereupon some one rejoices to worship the showerer (of benefits).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒णोत्य॑स्मै॒ वरि॑वो॒ य इ॒त्थेंद्रा॑य॒ सोम॑मुश॒ते सु॒नोति॑ ।  
+> स॒ध्री॒चीने॑न॒ मन॒सावि॑वेनं॒ तमित्सखा॑यं कृणुते स॒मत्सु॑ ॥
+
+> *kṛṇotyasmai varivo ya ittheṃdrāya somamuśate sunoti |*  
+> *sadhrīcīnena manasāvivenaṃ tamitsakhāyaṃ kṛṇute samatsu ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृणोति । अस्मै । वरिवः । यः । इत्था । इंद्राय । सोमं । उशते । सुनोति ।  
+> सध्रीचीनेन । मनसा । अविवेनं । तं । इत् । सखायं । कृणुते । समत्सु ॥ ६ ॥
+
+> *kṛṇoti | asmai | varivaḥ | yaḥ | itthā | iṃdrāya | somaṃ | uśate | sunoti |*  
+> *sadhrīcīnena | manasā | avivenaṃ | taṃ | it | sakhāyaṃ | kṛṇute | samatsu ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानः सोममुशते कामयमानायेत्थामुत्र स्वर्गलोके
+> स्थितायेंद्राय सुनोति अभिषवं करोति इंद्रोऽप्यस्मै यजमानाय वरिवो
+
+##### Gist of the bhāṣya
+
+The sacrificer who presses Soma, that is, performs the pressing, for Indra, who desires it (उशते (*uśate*) = desiring) and who is thus (इत्था (*itthā*)) established yonder in the world of heaven: Indra too makes for that sacrificer wealth (वरिवः (*varivaḥ*))…
+
+### Printed p. 142
+
+> धनं कृणोति । करोति । सध्रीचीनेन संगतेन मनसा प्रवणेन चित्तेनाविवेनं ।
+> वेनतिः कांतिकर्मा । विवेनो विगतेच्छः । तदन्योऽविवेनः । आत्मानं कामयमानं
+> तमित्तमेव सुन्वंतं यजमानं सखायं मित्रं समत्सु संग्रामेष्विंद्रः कृणुते ।
+> करोति ॥
+
+##### Gist of the bhāṣya
+
+…(कृणोति (*kṛṇoti*) = he makes). With a concordant (सध्रीचीनेन (*sadhrīcīnena*) = joined) mind, one inclined (to him), अविवेनं (*avivenaṃ*): वेनतिः कांतिकर्मा (*venatiḥ kāṃtikarmā*); विवेनो विगतेच्छः (*viveno vigatecchaḥ*), one whose desire is gone; the other than that is अविवेनं (*avivenaṃ*). That very sacrificer, who presses Soma, desiring himself (Indra), Indra makes (कृणुते (*kṛṇute*)) his friend (सखायं (*sakhāyaṃ*)) in the battles (समत्सु (*samatsu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- सोमं (*somaṃ*)—Soma
+- उशते (*uśate*)—for him who desires
+- इंद्राय (*iṃdrāya*)—addressing Indra
+- सुनोति (*sunoti*)—presses the Soma
+- अस्मै (*asmai*)—for such a sacrificer
+- इत्था (*itthā*)—even though (Indra) is in heaven
+- वरिवः (*varivaḥ*)—wealth
+- कृणोति (*kṛṇoti*)—provides
+- सध्रीचीनेन (*sadhrīcīnena*)—with a mind united to himself in the form of yoga
+- मनसा (*manasā*)—with mind
+- अविवेनं (*avivenaṃ*)—one who has meditated on himself and desired him
+- तमित् (*tamit*)—that sacrificer alone
+- सखायं (*sakhāyaṃ*)—as a friend
+- समत्तु (*samattu*)—in battles **NOTE**
+- कृणुते (*kṛṇute*)—makes for himself
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer on earth who presses Soma for offering to Indra, who desires Soma: to such a sacrificer Indra, though he is in heaven, provides wealth from there itself. Indra makes in battles his friend that sacrificer who, with a mind united to him in the form of yoga, has meditated on him alone and desired his help.
+
+##### English translation (H. H. Wilson)
+Indra bestows wealth upon him who offers a libation to him, desiring it, though in another sphere; and with an humble mind, makes him who is devoted to him his friend in combats.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इंद्रा॑य सु॒नव॒त्सोम॑म॒द्य पचा॑त्प॒क्तीरु॒त भृ॒ज्जाति॑  ॒
+> धानाः ।  
+> प्रति॑ मना॒योरु॒चथा॑नि॒ हर्य॒न्तस्मि॑न्दध॒द्वृष॑णं॒ शुष्म॒मिंद्रः॑ ॥
+
+> *ya iṃdrāya sunavatsomamadya pacātpaktīruta bhṛjjāti*  
+> *dhānāḥ |*  
+> *prati manāyorucathāni haryantasmindadhadvṛṣaṇaṃ śuṣmamiṃdraḥ ‖*
+
+### Printed p. 143
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इंद्राय । सुनवत् । सोमं । अद्य । पचात् । पक्तिः । उत । भृज्जाति । धानाः।  
+> प्रति । मनायोः । उचथानि । हर्यन् । तस्मिन् । दधत् । वृषणं । शुष्मं । इंद्रः ॥७॥
+
+> *yaḥ | iṃdrāya | sunavat | somaṃ | adya | pacāt | paktiḥ | uta | bhṛjjāti | dhānāḥ|*  
+> *prati | manāyoḥ | ucathāni | haryan | tasmin | dadhat | vṛṣaṇaṃ | śuṣmaṃ | iṃdraḥ ‖7‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्दिवसे यो यजमान इंद्राय परमैश्वर्ययुक्ताय देवाय
+> सोमं सोमलक्षणमन्नं सुनवत् सुनुयात् अभिषवं कुर्यात् । तथा यः
+> पक्तीः पक्तव्यांश्च पुरोडाशादीन्पचात् पचेत् पचनं कुर्यात् । उतापि च यो
+> धाना भर्जनयोग्यान्यवान् । अत्र बृष्टयववाची धानाशब्दस्तद्योग्यं यवमात्रं
+> लक्षयति । भृज्जाति भृज्जेत् भर्जनं कुर्यात् । इंद्रो मनायोः स्तुतिमिच्छतो
+> यजमानस्योचथानि स्तोत्राणि प्रति हर्यन् प्रतिकामयमानः सन् तस्मिन्यजमाने
+> वृषणं कामानां वर्षणसमर्थं शुष्मं बलं दधत् । धारयति ॥
+
+##### Gist of the bhāṣya
+
+Today, on this day, the sacrificer who would press (सुनवत् (*sunavat*) = would perform the pressing of) Soma, the food characterised as Soma, for Indra, the god endowed with supreme lordship; and who would cook (पचात् (*pacāt*)) the cooked things (पक्तीः (*paktīḥ*)), the purodāśas and other things to be cooked; and also who would parch (भृज्जाति (*bhṛjjāti*)) the grains (धानाः (*dhānāḥ*)), barley fit for parching — here the word धाना (*dhānā*), denoting parched barley, indicates barley only, that which is fit for it. Indra, desiring (हर्यन् (*haryan*) = desiring in return) the praises (उचथानि (*ucathāni*) = hymns) of the sacrificer who longs for praise (मनायोः (*manāyoḥ*)), bestows (दधत् (*dadhat*) = holds) upon that sacrificer bull-like strength (शुष्मं (*śuṣmaṃ*)), capable of showering desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—today
+- यः (*yaḥ*)—the sacrificer who
+- इंद्राय (*iṃdrāya*)—addressing Indra
+- सोमं (*somaṃ*)—Soma
+- सुनवत् (*sunavat*)—would press
+- पक्तिः (*paktiḥ*)—the purodāśas and the like fit for cooking
+- पचात् (*pacāt*)—would cook
+- उत (*uta*)—and
+- धानाः (*dhānāḥ*)—grains such as barley
+- भृज्जाति (*bhṛjjāti*)—would parch, making them fit for eating (such a one)
+- मनायोः (*manāyoḥ*)—of the sacrificer who is a praiser
+- उचथानि (*ucathāni*)—the hymns
+- इंद्रः (*iṃdraḥ*)—Indra
+- प्रति हर्यन् (*prati haryan*)—desiring and accepting
+- तस्मिन् (*tasmin*)—in that sacrificer
+- वृषणं (*vṛṣaṇaṃ*)—showering desires
+- शुष्मं (*śuṣmaṃ*)—strength
+- दधत् (*dadhat*)—brings about
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who praises Indra, and who today, addressing Indra, presses Soma, cooks the purodāśas and other things fit for cooking, parches barley and other grains to make them fit for eating, and offers them to Indra with praise of him: Indra, desiring and accepting the hymns of such a sacrificer, brings about in him strength that showers desires.
+
+##### English translation (H. H. Wilson)
+Indra accepting graciously the praises of his devoted (worshipper), who to-day pours out the libation to him, who toasts the buttered cakes
+
 ---
 
-**Progress note:** Done through printed p. 136. pp. 131-136 (batch API)
+**Progress note:** Done through printed p. 143. pp. 137-143 (batch API)
