@@ -12561,6 +12561,163 @@ The year knows the nature of the flowers, fruits and the like that belong to eac
 ##### English translation (H. H. Wilson)
 (The year) is awake, the path in the vicinity of those (plants) : I call upon the beautiful name of the Adityas; the divine waters wandering severally (now) give it delight, and (now) depart from it.
 
+### Printed p. 351
+
+##### विशेषविषयगळु (Special Topics)
+
+The nature of the year, the seat of prosperity, is described in this Ṛk also. The members of the year, the causes of abundance of food, and its divisions beginning with the seasons, are praised.
+
+Abhīke—The word अभीक (*abhīka*) is read among the names of battle and also among the names of "near" (Ni. 2-17; 3-29). प्रसित्त्ये (*prasittye*) and अभीके (*abhīke*) are two synonymous words. The word अभीक (*abhīka*) is formed from the root अंच (*aṃca*), meaning "to go", joined with the prefix अभि (*abhi*). The use of this word in the Ṛk
+
+ज्योतिरद्यदन्ने अकृणोदु लोकं प्रावन्मनुं दस्यवे करभीकं । (*jyotiradyadanne akṛṇodu lokaṃ prāvanmanuṃ dasyave karabhīkaṃ |*) (Ṛ. Saṃ. 9-92-5)
+
+makes the situation clear. The radiance of King Soma is described here. This radiance protects the good and punishes the wicked. The text says that it protected Manu and confronted the Dasyu. To say "confronted", it says that अभीकं (*abhīkaṃ*) became inclined to go towards the enemy; that is, it tried to confront and punish the enemy. Likewise in
+
+यो दभ्रेभिर्हव्यो यश्च भूरिभिर्यो अभिके वरिवोविन्नृषाह्ये । (*yo dabhrebhirhavyo yaśca bhūribhiryo abhike varivovinnṛṣāhye |*) (Ṛ. Saṃ. 10-38-4)
+
+and similar places the meaning is likewise "battle". The sense is that Indra is invoked at times of battle just as at times of sacrifice. In some places the word also means a secluded place. For example, in
+
+ज्योतिर्वृणीत तमसो विजानन्नारे स्याम दुरितादभीके । (*jyotirvṛṇīta tamaso vijānannāre syāma duritādabhīke |*) (Ṛ. Saṃ. 3-39-7)
+
+दुरितादभीके (*duritādabhīke*) means "in a secluded region free of sin". In the present Ṛk, अभीके पदवीः (*abhīke padavīḥ*) means an object that surrounds and is near.
+
+The bhāṣya states that the word अदित्यानां (*adityānāṃ*) is a synonym for the members of the year. Sāyaṇa explains as follows how the word Āditya is used for a month. First, संख्या साम्यात् आदित्याः मासाः । (*saṃkhyā sāmyāt ādityāḥ māsāḥ |*) The number of months is twelve and the number of Ādityas is twelve; therefore the word Āditya is meant to denote the twelve months. Or, secondly, because of the connection with the sun's transit, each month is called by the usage "Āditya". Such transits, beginning with Meṣa, are twelve. Therefore the meaning here is that Āditya is the month.
+
+### Printed p. 352
+
+##### विशेषविषयगळु (Special Topics)
+
+Cāru nāma—Because the number of the months follows the number of the Ādityas, the word आदित्यानां (*ādityānāṃ*), which expresses identity, is used. To show that the names of these months are very attractive and satisfying, they are described as चारु नाम (*cāru nāma*). Madhu, Mādhava, Śukra, Śuci, Nabha, Nabhasya, Iṣa, Ūrja, Saha, Sahasya, Tapa and Tapasya are the names of the twelve months. These are called the twelve months beginning with Caitra. To understand how the epithet चारु नाम (*cāru nāma*) fits these names, one must know the description of their nature.
+
+उपयाम गृहीतोऽसि मधवे त्वेत्येवाध्वर्युर्गृह्णात्युपयामगृहीतोऽसि माधवाय त्वेति प्रतिप्रस्थातैतावेव वासंतिकौ स यद्वसंत ओषधयो जायंते वनस्पतयः पच्यंते तेनो हैतौ मधुश्च माधवश्च । (*upayāma gṛhīto 'si madhave tvetyevādhvaryurgṛhṇātyupayāmagṛhīto 'si mādhavāya tveti pratiprasthātaitāveva vāsaṃtikau sa yadvasaṃta oṣadhayo jāyaṃte vanaspatayaḥ pacyaṃte teno haitau madhuśca mādhavaśca |*) (Śa. Brā. 4-3-1-14)
+
+Of the seasonal cups, the Adhvaryu takes one and the Pratiprasthātṛ the other. The Adhvaryu recites "I offer this to Madhu", and the Pratiprasthātṛ "I offer this to Mādhava" (Vā. Saṃ. 7-30). Madhu and Mādhava are both months of the spring season. In this season the plants and the rest become laden with fruit and flowers, and the trees bear ripe fruit. Because trees and the rest thus have sweetness, the two names Madhu and Mādhava are well known for the two months that are members of this season.
+
+उपयाम गृहीतोऽसि । शुक्राय तैत्येवाध्वर्युर्गृह्णात्युपयामगृहीतोऽसि शुचये त्वेति प्रतिप्रस्थातैतानेव गैष्मौ स यदेतयोर्बलिष्ठं तपति तेनो हैत् शुक्रश्च शुचिश्च ॥ (*upayāma gṛhīto 'si | śukrāya taityevādhvaryurgṛhṇātyupayāmagṛhīto 'si śucaye tveti pratiprasthātaitāneva gaiṣmau sa yadetayorbaliṣṭhaṃ tapati teno hait śukraśca śuciśca ‖*) (Ka Brā. 4-3-1-15)**NOTE**
+
+The Adhvaryu takes the third cup and the Pratiprasthātṛ the fourth. The Adhvaryu recites "I offer this to Śukra", and the Pratiprasthātṛ "I offer this to Śuci". Śukra and Śuci are both members of the summer season. Because there is intense heat at that time, they have these names. Śukra means bright, and Śuci means radiant.
+
+उपयामगृहीतोऽसि नभसे तैत्येवाध्वर्युर्गृह्ण्यात्युपयामगृहीतोऽसि नभस्याय तैति प्रतिप्रस्थातैतावेव वार्षिकावमुतो वै दिवो वर्षति तेनो हैत् नभश्च नभस्यश्च ॥ (*upayāmagṛhīto 'si nabhase taityevādhvaryurgṛhṇyātyupayāmagṛhīto 'si nabhasyāya taiti pratiprasthātaitāveva vārṣikāvamuto vai divo varṣati teno hait nabhaśca nabhasyaśca ‖*) (Śa. Brā. 4-3-196)**NOTE**
+
+### Printed p. 353
+
+##### विशेषविषयगळु (Special Topics)
+
+Then the offering is made to Nabha and Nabhasya. Both are months connected with the rainy season. Because rain falls from the sky, the names Nabha and Nabhasya are well known for these two.
+
+इषे त्वेत्येवाध्वर्युर्गह्नाति .... .... ऊर्जेत्वेति प्रतिप्रस्थातैतावेव शरदौ स यच्छरद्यूर्ग्रस ओषधयः पच्यंते तेनो हैतानिषश्चोर्जश्च ॥ (*iṣe tvetyevādhvaryurgahnāti .... .... ūrjetveti pratiprasthātaitāveva śaradau sa yaccharadyūrgrasa oṣadhayaḥ pacyaṃte teno haitāniṣaścorjaśca ‖*) (Śa. Brā. 4-3-1-17)
+
+Again the offering is made to Iṣa and Ūrja. Iṣa means sap, and Ūrja means food. Both are members of the autumn season. In this autumn the plants and the rest become full of sap and there is abundance of food, so the names Iṣa and Ūrja are well known.
+
+उपयामगृहीतोऽसि सहसे तैत्येवाध्वर्युर्गृष्णाति उपयामगृहीतोऽसि सहस्याय त्वेति प्रतिप्रस्थातैतावेव हैमंतिकौ स यद्धेमंत इमाः प्रजाः सहसेव स्वं वशमुपनयते तेनो हैतौ सहश्च सहस्यश्च ॥ (*upayāmagṛhīto 'si sahase taityevādhvaryurgṛṣṇāti upayāmagṛhīto 'si sahasyāya tveti pratiprasthātaitāveva haimaṃtikau sa yaddhemaṃta imāḥ prajāḥ sahaseva svaṃ vaśamupanayate teno haitau sahaśca sahasyaśca ‖*) (Śa. Brā. 4-3-1-18)
+
+The offering is made to Sahas and Sahasya. Both are members of the winter (Hemanta) season. Hemanta draws all beings under its control by force. Sahas means strength or radiance. Therefore its members are named Saha and Sahasya.
+
+तपसे त्वेत्येवाध्वर्युर्गृष्णाति उपयाम गृहीतोऽसि तपस्याय त्वेति प्रतिप्रस्थातैतावेव शैशिरा स यदेतयोर्बलिष्ठं श्यायति तेनो हैत् तपश्च तपस्यश्च ॥ (*tapase tvetyevādhvaryurgṛṣṇāti upayāma gṛhīto 'si tapasyāya tveti pratiprasthātaitāveva śaiśirā sa yadetayorbaliṣṭhaṃ śyāyati teno hait tapaśca tapasyaśca ‖*) (Śa. Brā. 4-3-1-19)
+
+The two months Tapa and Tapasya are likewise members of the cool season (Śiśira). At this time the body shrinks with cold and wastes away, so these names are well known for the months of this season. In this way the nature of the twelve months has been described. In the same manner it is explained in the Taittirīya Saṃhitā also, beginning "मधुश्च माधवश्च (*madhuśca mādhavaśca*)" (Tai. Saṃ. 4-4-1-1).
+
+The year, which thus contains five seasons and twelve months, is described as "पंच पादं पितरं द्वादशाकृतिं (*paṃca pādaṃ pitaraṃ dvādaśākṛtiṃ*)" (Ṛ. Saṃ. 1-164-12). Describing the same point, the Śatapatha says:
+
+तस्य सप्तदश सामिधेन्यः । सप्तदशो वै संवत्सरो द्वादशमासाः पंचर्तवः संवत्सरः प्रजापतिः ॥ (*tasya saptadaśa sāmidhenyaḥ | saptadaśo vai saṃvatsaro dvādaśamāsāḥ paṃcartavaḥ saṃvatsaraḥ prajāpatiḥ ‖*) (Śa. Brā. 6-2-2-8)
+
+### Printed p. 354
+
+##### विशेषविषयगळु (Special Topics)
+
+Prajāpati, consisting of twelve months and five seasons, is the year-self with seventeen members. Thus the text shows the relation between Prajāpati and the seventeen sāmidhenī mantras, which are a part of the sacrifice.
+
+आसां आदित्यानां पदवीः अबोधि (*āsāṃ ādityānāṃ padavīḥ abodhi*)—Since it is said that the year, which has these twelve months and consists of the seasons, has known the nature and power of the several months, one must ask what the "path" of the several months is, and what their natures are. When the names of the months, Madhu, Mādhava, Śukra, Śuci and the rest, were given, their nature was described along with them, as stated above. The paths of the months must now be examined.
+
+द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य । आ पुत्रा अग्ने मिथुनासो अत्र सप्त शतानि विंशतिश्च तस्थुः ॥ (*dvādaśāraṃ nahi tajjarāya varvarti cakraṃ pari dyāmṛtasya | ā putrā agne mithunāso atra sapta śatāni viṃśatiśca tasthuḥ ‖*) (Ṛ. Saṃ. 1-164-11)
+
+द्वादश प्रधयश्चक्रमेकं त्रीणि नभ्यानि क उ तच्चिकेत । तस्मिन्त्साकं त्रिशता न शंकवोऽर्पिताः षष्टिर्न चलाचलासः । (*dvādaśa pradhayaścakramekaṃ trīṇi nabhyāni ka u tacciketa | tasmintsākaṃ triśatā na śaṃkavo 'rpitāḥ ṣaṣṭirna calācalāsaḥ |*) (Ṛ. Saṃ. 1-164-48)
+
+In these Ṛks, in the present sūkta, and in the two mantras above, the description is clear. The members belong to the Āditya, or to the year which has the form of Āditya. The wheel which is the year has twelve felloes and three hubs. According to one reckoning, three hundred and sixty members that revolve on this wheel are fixed together like pegs. Here the three hundred and sixty members indicate the number of days. According to another reckoning the number is seven hundred and twenty; these indicate day and night both. All these are the sons of the Āditya, or of the year that has the form of Āditya. The same reckoning is stated in the Aitareya Brāhmaṇa also, in the description of the Caturviṃśa stoma. Only in the Śrautasūtra belonging to the Sāma branch are some differing reckonings found:
+
+(1) 324 days to the year: 12 months of 27 days.
+(2) 351 days: 12 months of 27 days and again 27 days.
+(3) 354 days: 6 months of 30 days and 6 months of 29 days.
+
+The reason for the differences in reckoning, the difference between the solar and the lunar measure, and the matter of the solstices will be explained in detail later when occasion arises.
+
+The sense is that, having such members, the year knows the path of nature, with its fruits, flowers and the like, clearly nourished according to each season.
+
+### Printed p. 355
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्री ष॒दस्था॑ सिंधव॒स्त्रिः क॑वी॒नामु॒त त्रि॑मा॒ता वि॒दथे॑षु  ॒
+> सम्राट् ।  
+> ऋ॒ताव॑री॒र्योष॑णास्ति॒स्रो अप्या॒स्तिरा दि॒वो वि॒दथे॒ पत्य॑मानाः ॥ ५ ॥
+
+> *śrī ṣadasthā siṃdhavastriḥ kavīnāmuta trimātā vidatheṣu*  
+> *samrāṭ |*  
+> *ṛtāvarīryoṣaṇāstisro apyāstirā divo vidathe patyamānāḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रि । सधस्था । सिंधवः । त्रिः । कवीनां । उत । त्रिमाता । विदथेषु । सम्‌राट् ।  
+> ऋत्यवरीः । योषणाः । तिस्रः । अप्याः । त्रिः । अ । दिवः । विदथे । पत्यमानाः ॥ ५ ॥
+
+> *tri | sadhasthā | siṃdhavaḥ | triḥ | kavīnāṃ | uta | trimātā | vidatheṣu | samrāṭ |*  
+> *ṛtyavarīḥ | yoṣaṇāḥ | tisraḥ | apyāḥ | triḥ | a | divaḥ | vidathe | patyamānāḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रजापतिः स्वविज्ञानं सिंधूनां निवेदयति । हे सिंधव आपः सर्वसाक्षिण्यो
+> यूयं । त्री षधस्था त्रयो लोकाः । ते च प्रत्येकं त्रिर्भवंति ! तथा त्रयो वा
+> इमे त्रिवृतो लोका इति श्रुतिः । न द्याव इंद्रमोजसा नांतरिक्षाणि वज्रीणं न
+> विव्यचंत भूमयः । ऋग्वे. ८-६-१५ । इति प्रत्येकं बहुवचनश्रवणात् । बहुवचनं
+> च कपिंजलन्यायेन त्रित्वे पर्यवसितं । ते च लोकाः कवीनां देवानां निवासस्थानानि भवंति । उतापि च त्रिमाता त्रयाणाममीषां लोकानां निर्माता संवत्सरः
+> सूर्यो वा विदथेषु यज्ञेषु सम्राट् यजनीयतया सम्यग्दीप्यमानो वर्तते।
+> तथा ऋतावरीरुदकवत्योऽप्या नभस्या आप्तव्या ना तिस्रो योषणास्त्रि संख्याका इलासरस्वतीभारतीत्येवंरूपाः परस्परमिश्रणोपेता देवता विदथे यज्ञॆ दिवो दिवसस्य
+> तिस्त्रिषु सवनेष्वा पत्यमाना आगच्छंत्यो भवंति ॥ सधस्था । पूर्वपदादिति संहितायां
+> षत्वं । योषणाः । युष इति सौत्रो धातुः । ल्युटि रूपं । लित्स्वरः । तिस्रः ।
+> तिसृभ्यो जस इत्याद्यु दात्तत्वं । अप्याः । अप् इत्यंतरिक्षनाम । तत्र भवाः । भवे
+> छंदसीति यत् । यतोऽनाव इत्याद्यु दात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Prajāpati declares his own knowledge to the rivers. "O rivers, waters, witnesses of all, you are त्री षधस्था (*trī ṣadhasthā*), the three worlds; and each of them is threefold." The Śruti says, "These three worlds are threefold." This is because the plural is heard for each of them, as in "न द्याव इंद्रमोजसा नांतरिक्षाणि वज्रीणं न विव्यचंत भूमयः (*na dyāva iṃdramojasā nāṃtarikṣāṇi vajrīṇaṃ na vivyacaṃta bhūmayaḥ*)" (Ṛg. 8-6-15); and the plural, by the kapiñjala rule, ends in the number three. Those worlds are the dwelling-places of the कवीनां (*kavīnāṃ*), the gods. Further, त्रिमाता (*trimātā*), the maker of these three worlds, the year or the sun, shines forth at the sacrifices (विदथेषु (*vidatheṣu*)) as सम्राट् (*samrāṭ*), fully resplendent as the one to be worshipped. Likewise the ऋतावरीः (*ṛtāvarīḥ*), those possessing water, the अप्याः (*apyāḥ*) ... नभस्या आप्तव्या ना (*nabhasyā āptavyā nā*)**NOTE**, the three women, three in number, of the forms Iḷā, Sarasvatī and Bhāratī, deities endowed with mutual mixing, come at the sacrifice during the three pressings of the day (दिवो दिवसस्य तिस्त्रिषु सवनेष्वा (*divo divasasya tistriṣu savaneṣvā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधवः (*siṃdhavaḥ*)—O waters in the form of streams
+- कवीनां (*kavīnāṃ*)—for the gods
+- त्रि षधस्था (*tri ṣadhasthā*)—the three worlds, which are dwelling-places
+- त्रिः (*triḥ*)—are also of three forms
+- उत (*uta*)—and
+- त्रिमाता (*trimātā*)—the year (or the sun), who knows the measure of these three worlds**NOTE**
+- विदथेषु (*vidatheṣu*)—at the sacrifices
+- सम्राट् (*samrāṭ*)—has adorned the position of sovereign
+- ऋतावरीः (*ṛtāvarīḥ*)—those filled with water
+
+### Printed p. 356
+- अप्याः (*apyāḥ*)—having the form of rain
+- तिस्रः योषणाः (*tisraḥ yoṣaṇāḥ*)—the three women also
+- विदथे (*vidathe*)—at the sacrifice
+- दिवः त्रिः (*divaḥ triḥ*)—at the three pressing-times of the day
+- आ पत्यमानाः (*ā patyamānāḥ*)—come down
+
+##### भावार्थ (Bhāvārtha)
+
+O waters in the form of streams, the three worlds, the dwelling-places of the gods, are also of three forms. And the year, or the sun, who knows the measure of these three worlds, has adorned the position of sovereign at the sacrifices. The three women, filled with water and having the form of rain, also come down every day at the three pressing-times of the sacrifice.
+
+##### English translation (H. H. Wilson)
+Rivers, the dwelling-places of the intelligent gods are thrice three; the measurer of the three (worlds) is the sovereign at sacrifices : three female (divinities) of the waters charged with the rains descend from heaven at the thrice (repeated) solemnity.
+
+##### विशेषविषयगळु (Special Topics)
+
+A very profound meaning lies in this mantra. Seen superficially, three different ideas seem to illumine three separate points: first, the all-pervading lordship of the gods; second, the greatness of the year; third, the coming of the women at the three pressing-times. But on closer view these ideas are connected with one another and finally end in the exposition of a single principle.
+
+Before understanding what it means that the three worlds are dwelling-places for the gods and that these three worlds are threefold (trivṛt), that is, have three forms, one must note what is distinctive in the use of the word कवि (*kavi*) as a synonym for the word देव (*deva*).
+
+कवीनां (*kavīnāṃ*)—If कवीनां (*kavīnāṃ*) is taken to mean देवानां (*devānāṃ*), one and the same entity must be indicated by both words. The context must be one in which both words denote the same form and nature. One must therefore examine what the word देवानां (*devānāṃ*) indicates. When the etymologies of the names of gods such as Indra and Agni are given, the nature of the gods is also stated.
+
+स योऽयं मध्ये प्राणः । एष एवेंद्रस्तानेष प्राणान्मध्यत इंद्रियेणैंद यदैन्थ तस्मादिंद इंधो ह वै तमिंद्र इत्याचक्षते परोक्षं परोक्षकामा हि देवास्त्रइद्धाः सत्त नाना पुरुषानसृजंत । (*sa yo 'yaṃ madhye prāṇaḥ | eṣa eveṃdrastāneṣa prāṇānmadhyata iṃdriyeṇaiṃda yadaintha tasmādiṃda iṃdho ha vai tamiṃdra ityācakṣate parokṣaṃ parokṣakāmā hi devāstraiddhāḥ satta nānā puruṣānasṛjaṃta |*) (Śa. Brā. 6-1-1-2)
+
 ---
 
-**Progress note:** Done through printed p. 350. pp. 343-350 (batch API)
+**Progress note:** Done through printed p. 356. pp. 351-356 (batch API)
