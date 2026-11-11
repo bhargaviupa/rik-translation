@@ -11242,6 +11242,307 @@ When the Ribhus, by honouring their parents with renovated (youth), and by other
 > *te vājo vibhvā ṛbhuriṃdravaṃto madhupsaraso no 'vaṃtu*  
 > *yajñaṃ ‖ 3 ‖*
 
+### Printed p. 304
+#### Ṛk 3 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनः । ये । चक्रुः । पितरा । युवाना । सना । यूपा इव । जरणा । शयाना ।  
+> ते । वाजः । विभ्वा । ऋभुः । इंद्रवंतः । मधुप्सरसः । नः । अवंतु ।  
+> यज्ञं ॥ ३ ॥
+
+> *punaḥ | ye | cakruḥ | pitarā | yuvānā | sanā | yūpā iva | jaraṇā | śayānā |*  
+> *te | vājaḥ | vibhvā | ṛbhuḥ | iṃdravaṃtaḥ | madhupsarasaḥ | naḥ | avaṃtu |*  
+> *yajñaṃ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य ऋभवः पितरा मातापितरौ यूपेव भिन्नस्थाणू इव जरणा जीर्णौ
+> शयाना शयानौ पुनः सना सदा युवाना युवानौ चक्रुः । नित्यतरुणावकुर्वन् ।
+> ते वाजो विभ्वा ऋभुश्च एतन्नामकास्त्रयः सुधन्वन आंगिरसस्य पुत्रा ऋभव इंद्रवंतोऽनुग्राहकेणेंद्रेण तद्वंतो मधुप्सरसो मधुरस्य सोमरसस्य भक्षयितारो मनोहररूपा ना नोऽस्मदीयं यज्ञमवंतु । रक्षंतु गच्छंतु वा ॥
+
+##### Gist of the bhāṣya
+
+The Ṛbhus made their parents, who were old, lying like broken posts, young again for ever. Sāyaṇa glosses पितरा (*pitarā*) as mother and father, यूपेव (*yūpeva*) as "like broken posts", जरणा (*jaraṇā*) as worn out, शयाना (*śayānā*) as lying down, सना (*sanā*) as always, and युवाना (*yuvānā*) as the two young ones. The Ṛbhus made them ever young. Those three, named Vāja, Vibhvan and Ṛbhu, are the sons of Sudhanvan Āṅgirasa. They are इंद्रवंतः (*iṃdravaṃtaḥ*), that is, accompanied by Indra, who favours them. They are मधुप्सरसः (*madhupsarasaḥ*), drinkers of the sweet Soma juice, and beautiful in form. May they protect our sacrifice, or may they come to it (the verb अवंतु (*avaṃtu*) is glossed रक्षंतु गच्छंतु वा (*rakṣaṃtu gacchaṃtu vā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Ṛbhus
+- यूपेव (*yūpeva*)—like cut-off stumps of trees
+- जरणा (*jaraṇā*)—with slackened limbs
+- शयाना (*śayānā*)—lying in one place
+- पितरा (*pitarā*)—their parents
+- पुनः (*punaḥ*)—again
+- सना (*sanā*)—for ever
+- युवा ना (*yuvā nā*)—so as to be young
+- चक्रुः (*cakruḥ*)—made
+- ते (*te*)—such
+- वाजः, विभ्वा, ऋभुः (*vājaḥ, vibhvā, ṛbhuḥ*)—the three Ṛbhus named Vāja, Vibhvan and Ṛbhu
+- इंद्रवंतः (*iṃdravaṃtaḥ*)—together with Indra
+- मधुप्सरसः (*madhupsarasaḥ*)—as drinkers of the sweet Soma juice
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—sacrifice
+- अवंतु (*avaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+The Ṛbhus made their parents, who lay in one place like cut-off stumps of trees with slackened limbs, young again for ever. May those same three Ṛbhus, Vāja, Vibhu and Ṛbhu, together with Indra and drinking the sweet Soma juice, protect our sacrifice.
+
+##### English translation (H. H. Wilson)
+May they who rendered their decrepid and dropsy parents, when, like two dry posts, again perpetually young, Vaja, Vibhwan, and Ribhu associated with Indra, drinkers of the Soma juice, protect our sacrifice.
+
+### Printed p. 305
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्सं॒वत्स॑मृ॒भवो॒ गामर॑क्ष॒न्यत्सं॒वत्स॑मृ॒भवो॒ मा अपिं॑शन् ।  
+> यत्सं॒वत्स॒मभ॑र॒न्भासो॑ अस्त्या॒स्ताभिः॒ शमी॑भिरमृत॒त्वमा॑शुः ॥४॥
+
+> *yatsaṃvatsamṛbhavo gāmarakṣanyatsaṃvatsamṛbhavo mā apiṃśan |*  
+> *yatsaṃvatsamabharanbhāso astyāstābhiḥ śamībhiramṛtatvamāśuḥ ‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । संवत्सं । ऋभवः । गां । अरक्षन् । यत् । संवत्सं । ऋभवः । माः ।  
+> अपिंशन् ।  
+> यत् । संवत्सं । आभरन् । भासः । अस्त्याः । ताभिः । शमीभिः । अमृतत्वं ।  
+> आशुः ॥ ४ ॥
+
+> *yat | saṃvatsaṃ | ṛbhavaḥ | gāṃ | arakṣan | yat | saṃvatsaṃ | ṛbhavaḥ | māḥ |*  
+> *apiṃśan |*  
+> *yat | saṃvatsaṃ | ābharan | bhāsaḥ | astyāḥ | tābhiḥ | śamībhiḥ | amṛtatvaṃ |*  
+> *āśuḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संवत्सं । संवसंति भूतान्यस्मिन्निति संवत्सः संवत्सरः । संवत्सरपर्यंतमृभवो गां मृतामरक्षन्नपालयन् । स्वसामर्थ्यादिति यत् यदेतत्कर्मास्ति । तथा
+> संवत्सं संवत्सरमृभवो मास्तस्या एव गोर्मांसमपिंशन् अवयवानकुर्वन्निति
+> यत् । किंच संवत्सं संवत्सरपर्यंतमस्या भासोऽभरन् दीप्तीरवयवशोभा
+> अकुर्वन्निति यत् ताभिः शमीभिर्मृताया गोर्नवीकरणविषय्यैः कर्मभिरमृतत्वमाशुः । देवत्वं प्राप्ताः । धेनुः कर्त्वेति देवत्वप्राप्तिसाधनत्वेन देवैः प्रतिश्रुतत्वात् । यद्वा । अत्र संवत्समित्येतद्वत्सेन सहेति व्याख्येयं ॥
+
+##### Gist of the bhāṣya
+
+संवत्सं (*saṃvatsaṃ*) is the year, because beings dwell in it. For a whole year the Ṛbhus kept the dead cow, that is, they protected her, by their own power; that is the deed referred to by यत् (*yat*). Likewise for a year the Ṛbhus fashioned the flesh of that same cow and made her limbs (अपिंशन् (*apiṃśan*)). Further, for a year they bore her radiance (भासः (*bhāsaḥ*)), that is, they made her limbs shine with beauty. By those शमीभिः (*śamībhiḥ*), the deeds directed to renewing the dead cow, they attained immortality, that is, godhood. For the gods had promised that the cow-making would be the means of reaching godhood. Or else संवत्सं (*saṃvatsaṃ*) here is to be explained as "together with the calf".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus
+- संवत्सं (*saṃvatsaṃ*)—for a year
+- गां (*gāṃ*)—the dead cow
+- अरक्षन् (*arakṣan*)—made her live; the deed so described
+- यत् (*yat*)—whatever deed there is
+- संवत्सं (*saṃvatsaṃ*)—for a year
+- ऋभवः (*ṛbhavaḥ*)—those same Ṛbhus
+- माः (*māḥ*)—that cow's flesh
+- अपिंशन् (*apiṃśan*)—filled her limbs so that she was plump; the deed so described
+- यत् (*yat*)—whatever deed there is
+- संवत्सं (*saṃvatsaṃ*)—for a year
+- आस्याः (*āsyāḥ*)—of this cow
+- भासः (*bhāsaḥ*)—the radiant beauty
+- आभरन् (*ābharan*)—protected; the deed so described
+- यत् (*yat*)—whatever deed there is
+- ताभिः (*tābhiḥ*)—by such
+- शमीभिः (*śamībhiḥ*)—all extraordinary deeds
+- अमृतत्वं (*amṛtatvaṃ*)—godhood
+- आशुः (*āśuḥ*)—they attained
+
+### Printed p. 306
+
+##### भावार्थ (Bhāvārtha)
+
+For a year the Ṛbhus gave life to the dead cow and made her live. They filled her limbs with flesh and kept her plump for a year. For a year they protected her radiant beauty. By the power of these and whatever other extraordinary deeds of theirs there are, they obtained godhood. (The word वत्स (*vatsa*) may also be taken to mean a calf.)
+
+##### English translation (H. H. Wilson)
+Inasmuch as for a year the Ribhus preserved the (dead) cow, inasmuch as for a year they invested it with flesh, inasmuch as for a year they continued its beauty, they obtaied by their (these) acts immortality.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज्ये॒ष्ठ आ॑ह चम॒सा द्वा क॒रेति॒ कनी॑या॒न्त्रीन् कृ॑णवा॒मेत्या॑ह।  
+> क॒नि॒ष्ठ आ॑ह च॒तुर॑स्क॒रेति॒ त्वष्ट॑ ऋभव॒स्तत्प॑नय॒द्वचो॑ वः ॥ ५ ॥
+
+> *jyeṣṭha āha camasā dvā kareti kanīyāntrīn kṛṇavāmetyāha|*  
+> *kaniṣṭha āha caturaskareti tvaṣṭa ṛbhavastatpanayadvaco vaḥ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ज्येष्ठः । आह । चमसा । द्वा । कर । इति । कनीयान् । त्रीन् । कृणवाम । इति  
+> आह ।  
+> कनिष्ठः । आह । चतुरः । कर । इति । त्वष्टा । ऋभवः । तत् । पनयत् । वचः ।  
+> वः ॥ ५ ॥
+
+> *jyeṣṭhaḥ | āha | camasā | dvā | kara | iti | kanīyān | trīn | kṛṇavāma | iti*  
+> *āha |*  
+> *kaniṣṭhaḥ | āha | caturaḥ | kara | iti | tvaṣṭā | ṛbhavaḥ | tat | panayat | vacaḥ |*  
+> *vaḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकं चमसं चतुरस्कृणोतन । ऋग्वे १-१६१-२ । इति यदा देवदूतोऽग्निर्यभूनाह देवत्वप्राप्त्युक्थेन तदा तेषु मध्यॆ देवत्वप्राप्त्युत्क एको ज्येष्ठ
+> ऋभुरितरावाह । किमिति । उच्यते । चमसा द्वा करेति । एकमेव संतं द्वौ कृणवामेति । कनीयान् तदनंतरो विभ्वा त्रीन् कृणवाम करवामेत्याह । तदवरः कनिष्ठो
+
+##### Gist of the bhāṣya
+
+Sāyaṇa cites एकं चमसं चतुरस्कृणोतन (*ekaṃ camasaṃ caturaskṛṇotana*) (Ṛ. Saṃ. 1-161-2). When Agni, the messenger of the gods, spoke thus to the Ṛbhus about their attaining godhood, then one of them, the eldest Ṛbhu, who was eager for godhood, spoke to the others. He said चमसा द्वा कर (*camasā dvā kara*), "let us make two of the one ladle". The younger one, next after him, Vibhvan, said कृणवाम (*kṛṇavāma*), "let us make three". Then the youngest, Vāja, said **NOTE**
+**Printed p. 307 continues below.**
+
+### Printed p. 307
+
+> वाजश्चतुरः कर चतुर्था करवामेत्याह । तदेव चतुष्करणरूपं हे ऋभवस्त्वष्टा
+> युष्मद्गुरुः वो वचः युष्मद्वचनं पनयत् । अस्तौत् । अंगीचकारेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The youngest, Vāja, said चतुरः कर (*caturaḥ kara*), "let us make four". That very fourfold making, O Ṛbhus, Tvaṣṭṛ, your teacher, approved as your word (वो वचः (*vo vacaḥ*)). पनयत् (*panayat*) means अस्तौत् (*astaut*), that is, he accepted it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ज्येष्ठः (*jyeṣṭhaḥ*)—the eldest of the three
+- चमसा (*camasā*)—the ladle
+- द्वा कर इति (*dvā kara iti*)—"let us make two"
+- आह (*āha*)—said
+- कनीयान् (*kanīyān*)—younger than he (the second)
+- त्रीन् (*trīn*)—in three parts
+- कृणनाम (*kṛṇanāma*)—let us make
+- इत्याह (*ityāha*)—so he said
+- कनिष्ठः (*kaniṣṭhaḥ*)—the youngest of all
+- चतुरः (*caturaḥ*)—in four parts
+- कर इत्याह (*kara ityāha*)—said, "let us make"
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ **NOTE**
+- वः (*vaḥ*)—your
+- तत् वचः (*tat vacaḥ*)—these words, which seek skilfulness
+- पनयत् (*panayat*)—has praised
+
+##### भावार्थ (Bhāvārtha)
+
+The eldest of the three Ṛbhus said, "Let us make the one ladle into two." The second said, "Let us make it three." The youngest said, "Let us make it four." O Ṛbhus, Tvaṣṭṛ has praised these words of yours, which show the skill of you all.
+
+##### English translation (H. H. Wilson)
+The eldest said, let us make two ladles; the youngest said, let us make three : O Rubhus, Twashtri, has applauded your proposal.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यमू॑चु॒र्नर॑ ए॒वा हि च॒क्रुरनु॑ स्व॒धामृ॒भवो॑ जग्मुरे॒तां।  
+> वि॒भ्राज॑मानांश्चम॒सा अहे॒वावे॑न॒त्त्वष्टा॑ च॒तुरो॑ ददृ॒श्वान्॥
+
+> *satyamūcurnara evā hi cakruranu svadhāmṛbhavo jagmuretāṃ|*  
+> *vibhrājamānāṃścamasā ahevāvenattvaṣṭā caturo dadṛśvān‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यं । ऊचुः । नरः । एव । हि । चक्रुः । अनु । स्वधां । ऋभवः । जग्मुः ।  
+> एतां ।  
+> विभ्राजमानान् । चमसान् । अहाइव । अवेनत् । त्वष्टा । चतुरः । ददृश्वान् ॥
+
+> *satyaṃ | ūcuḥ | naraḥ | eva | hi | cakruḥ | anu | svadhāṃ | ṛbhavaḥ | jagmuḥ |*  
+> *etāṃ |*  
+> *vibhrājamānān | camasān | ahāiva | avenat | tvaṣṭā | caturaḥ | dadṛśvān ‖*
+
+### Printed p. 308
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरो मनुष्यरूपा ऋभवः सत्यमूचुः । सत्यमेवाब्रुवन् । हि यस्मादेत
+> एवैवं चक्रुः । चतुरोऽकुर्वन् । यथोक्तं तथैव कृतत्वादित्यभिप्रायः । अनु
+> चतुर्धाकरणानंतरमेतां तृतीयसवनगतां स्वधां सोमाख्यममृतमृभवो
+> जग्मुः । एकं चमसं चतुरस्कृणोतन साकं देव्यर्यज्ञियासो भविष्यथेति श्रुतत्वात् । अथ त्वष्टा देवो विभ्राजमानानहेवाहानीव दीप्यमानांश्चमसांश्चतुरो
+> ददृश्वान्दृष्टवान् सन्नवेनत् । आकामयत । अंगीचकारेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The नरः (*naraḥ*), the Ṛbhus in human form, spoke the truth. हि (*hi*) means "because": they did make four ladles, for they did just as they had said. अनु (*anu*) means after the fourfold making. The Ṛbhus obtained that स्वधां (*svadhāṃ*), the immortal called Soma, belonging to the third pressing. For it was heard in the text एकं चमसं चतुरस्कृणोतन साकं देव्यर्यज्ञियासो भविष्यथ (*ekaṃ camasaṃ caturaskṛṇotana sākaṃ devyaryajñiyāso bhaviṣyatha*). Then the god Tvaṣṭṛ saw the four ladles shining like days (अहेव (*aheva*)) and अवेनत् (*avenat*), that is, he desired and approved them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—the Ṛbhus in human form
+- सत्यं (*satyaṃ*)—true speech
+- ऊचुः (*ūcuḥ*)—spoke
+- हि (*hi*)—by what power of action
+- एव (*eva*)—as said above
+- चक्रुः (*cakruḥ*)—they made the ladle, which was at hand, into four parts
+- अनु (*anu*)—immediately after that
+- एतां (*etāṃ*)—belonging to the third pressing
+- स्वधां (*svadhāṃ*)—the immortal form of Soma
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus
+- जग्मुः (*jagmuḥ*)—obtained
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- अहेव (*aheva*)—like day
+- विभ्राजमानान् (*vibhrājamānān*)—shining
+- चतुरः चमसान् (*caturaḥ camasān*)—the four vessels
+- ददृश्वान् (*dadṛśvān*)—looking at
+- अवेनत् (*avenat*)—showed his satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+The Ṛbhus, in human form, spoke only the truth. By the power of action with which they made the single ladle into four parts as said above, immediately after that they obtained the स्वधा (*svadhā*) of the third pressing. Tvaṣṭṛ, looking at the four vessels shining like day, showed his satisfaction.
+
+##### English translation (H. H. Wilson)
+The men, (the Ribhus), spoke the truth, for such (ladles) they made and therupon the Ribhus partook of that libation : Twashtri, beholding the four ladles, brilliant as day, was content.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वाद॑श॒ द्यून्यदगो॑ह्यस्याति॒थ्ये रण॑न्मृ॒भवः॑ स॒संतः॑ ।  
+> सु॒क्षेत्रा॑कृण्व॒न्नन॑यंत॒ सिंधू॒न्मन्वाति॑ष्ठ॒न्नोष॑धीर्नि॒म्नुमापः॑ ॥ ७ ॥
+
+> *dvādaśa dyūnyadagohyasyātithye raṇanmṛbhavaḥ sasaṃtaḥ |*  
+> *sukṣetrākṛṇvannanayaṃta siṃdhūnmanvātiṣṭhannoṣadhīrnimnumāpaḥ ‖ 7 ‖*
+
+### Printed p. 309
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वादश । द्यून् । यत् । अगोह्यस्य । आतिथ्ये । रणन् । ऋभवः । ससंतः ।  
+> सुक्षेत्रा । अकृण्वन् । अनयंत । सिंधून् । धन्व । आ । अतिष्ठन् । ओषधीः ।  
+> निम्मं । आपः ॥ ७ ॥
+
+> *dvādaśa | dyūn | yat | agohyasya | ātithye | raṇan | ṛbhavaḥ | sasaṃtaḥ |*  
+> *sukṣetrā | akṛṇvan | anayaṃta | siṃdhūn | dhanva | ā | atiṣṭhan | oṣadhīḥ |*  
+> *nimmaṃ | āpaḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्र रश्मय एव ऋभव इत्युक्तत्वात्तद्रूपेण स्तूयंते । यद्यदा द्वादश
+> द्यून्दिवसान् । आद्र्रादिद्दादशवृष्टिनक्षत्राणीत्यर्थः । अगोह्यस्यागोप्यस्यादित्यस्य
+> गृह आतिथ्ये । अकस्मादागतोऽतिथिः । तदुचितं सत्काररूपं कर्मातिथ्यं । तदर्थं
+> ससंतः स्वपंतः सुखेन निवसंत ऋभवो रणन् रमंते । अगोह्यस्य यदसस्तना
+> गृहे । ऋग्वे. १-१६१ ११ । इत्युक्तं । तदानीं सुक्षेत्राकृण्वन् । अकृष्णानि शून्यानि
+> क्षेत्राणि वृष्टा सस्यादिसमृद्धान्यकुर्वन् । सिंधून्न दीरनयंत । प्रैरयन् । तस्मिन्
+> काल ओषधीरोषधयो धन्व निरुदकस्थानमाश्रित्यातिष्ठन् । निम्मं नीचस्थानमापोऽतिष्ठन् । उदत्वस्मा अकृणोतना तृणं निवत्स्वप इत्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+Since it has been said that the Ṛbhus are rays, they are praised here in that form. यत् (*yat*) means "when": for twelve days, that is, the twelve rain-bringing asterisms beginning with Ārdrā. अगोह्यस्य (*agohyasya*) means of the Āditya, who is not hidden, in whose house there is आतिथ्ये (*ātithye*), hospitality. A guest is one who comes unexpectedly, and the fitting deed of honour for him is hospitality. For that the Ṛbhus ससंतः (*sasaṃtaḥ*), sleeping, dwelling happily, रणन् (*raṇan*), took their delight. As is said, अगोह्यस्य यदसस्तना गृहे (*agohyasya yadasastanā gṛhe*) (Ṛ. Saṃ. 1-161-11 **NOTE**). At that time they made unploughed, barren fields rich in rain and crops. They led the rivers, that is, set them flowing. At that time the plants stood on the waterless desert ground, and the waters stood in the low places. This is said: उदत्वस्मा अकृणोतना तृणं निवत्स्वप (*udatvasmā akṛṇotanā tṛṇaṃ nivatsvapa*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus
+- यत् (*yat*)—when
+- द्यादश द्यून् (*dyādaśa dyūn*)—twelve days
+- अगोह्यस्य (*agohyasya*)—of the Āditya, who shone unhidden
+- आतिथ्ये (*ātithye*)—in the hospitality, which is a form of honour
+- ससंतः (*sasaṃtaḥ*)—living happily
+- रणन् (*raṇan*)—were content (then)
+- सुक्षेत्रा (*sukṣetrā*)—(barren) land into fertile land
+- अकृण्वन् (*akṛṇvan*)—made
+- सिंधून् (*siṃdhūn*)—the rivers
+- अनयंत (*anayaṃta*)—made them flow
+- ओषधीः (*oṣadhīḥ*)—the plants
+- धन्व (*dhanva*)—even in the waterless desert
+- आतिष्ठन् (*ātiṣṭhan*)—made them grow and stand
+- निम्मं (*nimmaṃ*)—in the low-lying places
+- आपः (*āpaḥ*)—made the waters rest
+
+##### भावार्थ (Bhāvārtha)
+
+While the Ṛbhus lived happily for twelve days in the hospitality, a form of honour, of the Āditya who shone unhidden, and were content, they made barren land fertile. They made the rivers flow. They made plants grow and stand even in the waterless desert. They made the waters rest in the low-lying places.
+
 ---
 
-**Progress note:** Done through printed p. 303. pp. 297-303 (batch API)
+**Progress note:** Done through printed p. 309. pp. 304-309 (batch API)
