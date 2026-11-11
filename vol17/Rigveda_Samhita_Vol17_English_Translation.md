@@ -28607,6 +28607,317 @@ O Agni, today, on this day, we, the priests and others, make you prosper with pr
 - स्तोमैः (*stomaiḥ*)—by groups of praisers
 - ऋध्याम (*ṛdhyāma*)—we make you prosper
 
+### Printed p. 875
+
+#### Ṛk 1 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are like a horse in carrying our oblations, who are like a benefactor, auspicious, dearest to the heart and renowned, we cause you to grow strong with the groups of praises that carry our wishes to Indra and the other gods.
+
+##### English translation (H. H. Wilson)
+We celebrate you to day, Agni, who are like a horse (in conveying our burdens) with your praises, conveying (our wishes to the gods), and (who are) like a benefactor, propitious and affectionate.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ ह्य॑ग्ने॒ क्रतो॑र्भ॒द्रस्य॒ दक्ष॑स्य सा॒धोः ।  
+> र॒थीर्यु॒तस्य॑ बृह॒तो ब॒भूथ॑ ॥ २ ॥
+
+> *adhā hyagne kratorbhadrasya dakṣasya sādhoḥ |*  
+> *rathīryutasya bṛhato babhūtha ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । हि । अग्ने । क्रतोः । भद्रस्य । दक्षस्य । साधोः ।  
+> रथीः । यतस्य । बृहतः । बभूथ ॥ २ ॥
+
+> *adha | hi | agne | kratoḥ | bhadrasya | dakṣasya | sādhoḥ |*  
+> *rathīḥ | yatasya | bṛhataḥ | babhūtha ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पौनराधेयिक्यामिष्टौ प्रधानस्याधा ह्यग्न इत्येषानुवाक्या । एभिनो आर्कैरिति तस्यां स्विष्टकृतोऽनुवाक्या । अभिष्टे अद्येति प्रधानस्य याज्या । सूत्रितं च ।
+> अधा ह्यग्ने क्रतोर्भद्रस्याभिष्ठे अद्य गीर्भिर्गृणंत एभिनो आर्कैः । आ. २-८ ।
+> इति ॥
+> अधा हि इदानीमेव हे अग्ने त्वं क्रतोरस्मदीयस्य यागस्य रथीर्नेता
+> बभूथ । भवसि ॥ छंदसि लुङ्ङिङ्ङट इति भवतेर्वर्तमानेऽर्थे लिटि सिपस्थल् । आर्धधातुकस्येड्वलादेरितीडागमे प्राप्ते बभूथाततंथेति निपातनादिडभावः ॥ कीदृशस्य
+> यागस्य । भद्रस्य भजनीयस्य दक्षस्य प्रवृद्धस्य साधोरभीष्टफलानां साधकस्य ऋतस्य
+> सत्यभूतस्य बृहतो महतः ॥
+
+##### Gist of the bhāṣya
+
+In the Paunarādheyikī iṣṭi, this verse अधा ह्यग्न (*adhā hyagna*) is the anuvākyā of the principal offering. In the same iṣṭi एभिनो आर्कैः (*ebhino ārkaiḥ*) is the anuvākyā of the Sviṣṭakṛt offering, and अभिष्टे अद्य (*abhiṣṭe adya*) is the yājyā of the principal offering. This is stated in the sūtra (Ā. 2-8) that lists the three verses together.
+Meaning: "Now, at this very moment, O Agni, you have become (बभूथ (*babhūtha*), "you are") the leader (रथीः (*rathīḥ*)) of our sacrifice (क्रतोः (*kratoḥ*))." Of what kind of sacrifice? It is भद्रस्य (*bhadrasya*), worthy to be resorted to; दक्षस्य (*dakṣasya*), grown strong; साधोः (*sādhoḥ*), accomplishing the desired fruits; ऋतस्य (*ṛtasya*), true; बृहतः (*bṛhataḥ*), great. (The rest is the derivation of बभूथ (*babhūtha*): perfect for the present sense, with the augment omitted by irregular formation.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अधा हि (*adhā hi*)—at this very moment
+- भद्रस्य (*bhadrasya*)—of the auspicious
+- दक्षस्य (*dakṣasya*)—of the grown strong
+- साधोः (*sādhoḥ*)—of the one that accomplishes our desired ends
+- बृहतः (*bṛhataḥ*)—of the great
+- ऋतस्य (*ṛtasya*)—of the true
+- क्रतोः (*kratoḥ*)—of the sacrifice
+- रथीः (*rathīḥ*)—as leader
+- बभूथ (*babhūtha*)—be one who has become (the leader)
+
+### Printed p. 876
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, at this very moment be the leader of the sacrifice performed by us, which is auspicious, grown strong, accomplishing our desired ends, great and true.
+
+##### English translation (H. H. Wilson)
+Be now the conveyer, Agni, of our auspicious, powerful, efficacious, truthful, and great sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the principal homa of the Punarādheyeṣṭi, this verse beginning अधा ह्यग्ने (*adhā hyagne*) is to be used as the puroranuvākyā mantra. In the same iṣṭi the verse एभिर्नो अर्कैः (*ebhirno arkaiḥ*) (the third verse) is to be used as the anuvākyā mantra in the Sviṣṭakṛt homa, and अभिष्टे अद्य (*abhiṣṭe adya*) (the fourth verse) as the yājyā mantra. This is set out in the sūtra of the Āśvalāyana Śrautasūtra (2-8): अधा ह्यग्ने क्रतोर्भद्रस्याभिष्टे अद्य गीर्भिर्गृणंत एभिर्नो अर्कैः (*adhā hyagne kratorbhadrasyābhiṣṭe adya gīrbhirgṛṇaṃta ebhirno arkaiḥ*).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒भिनो॑ अ॒र्कैर्भवा॑ नो अ॒र्वाज् स्व१॒॑र्ण ज्योतिः॑ ।  
+> अग्ने॒ विश्वे॑भिः सु॒मना॒ अनी॑कैः ॥ ३ ॥
+
+> *ebhino arkairbhavā no arvāj svarṇa jyotiḥ |*  
+> *agne viśvebhiḥ sumanā anīkaiḥ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एभिः । नः । अर्कैः । भव । नः । अर्वाज् । स्वः । न । ज्योतिः ।  
+> अग्ने । विश्वेभिः । सुमनाः । अनीकैः ॥ ३ ॥
+
+> *ebhiḥ | naḥ | arkaiḥ | bhava | naḥ | arvāj | svaḥ | na | jyotiḥ |*  
+> *agne | viśvebhiḥ | sumanāḥ | anīkaiḥ ‖ 3 ‖*
+
+### Printed p. 877
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ज्योतिर्ज्योतिष्मान् स्वर्ण सूर्य इव तथा विश्वेभिर्विश्वैः समस्मैरनीकैस्तेजोभिः सुमनाः शोभनमनस्कस्त्वं नोऽस्मदीयैरेभिरेतैरर्कैरर्चनीयैः स्तोत्रैर्नोऽस्माकमर्वाजभिमुखो भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are ज्योतिः (*jyotiḥ*), full of light, like the sun (स्वः (*svaḥ*)), and who are सुमनाः (*sumanāḥ*), of good mind, together with all (विश्वेभिः (*viśvebhiḥ*)) your splendours (अनीकैः (*anīkaiḥ*)): be turned towards us (अर्वाज् (*arvāj*), "facing") with these (एभिः (*ebhiḥ*)) our hymns of praise (अर्कैः (*arkaiḥ*), "to be worshipped with").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- स्वः न (*svaḥ na*)—like the sun
+- ज्योतिः (*jyotiḥ*)—you who are of the nature of light
+- नः (*naḥ*)—our
+- एभिः अर्कैः (*ebhiḥ arkaiḥ*)—by these praises, which are the means of worship
+- सुमनाः (*sumanāḥ*)—having a good mind
+- विश्वेभिः (*viśvebhiḥ*)—with all
+- अनैकैः (*anaikaiḥ*)—splendours, joined also
+- नः (*naḥ*)—to us
+- अर्वाज् (*arvāj*)—facing us
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are of the nature of light like the sun, with a good mind through these praises of ours, which are the means of worship, and joined with all your splendours, be turned towards us.
+
+##### English translation (H. H. Wilson)
+Agni, who like the sun are light, propitiated by these our hymns, come to our presence with all your hosts (of radiance).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒भिष्टे॑ अ॒द्य गी॒र्भिग्र्॒णंतोऽग्ने॒ दाशे॑म ।  
+> प्र ते॑ दि॒वो न स्त॑नयंति॒ शुष्माः॑ ॥ ४ ॥
+
+> *ābhiṣṭe adya gīrbhigrṇaṃto 'gne dāśema |*  
+> *pra te divo na stanayaṃti śuṣmāḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिः । ते । अद्य । गीःऽभिः । गृणंतः । अग्ने । दाशेम ।  
+> प्र । ते । दिवः । न । स्तनयंति । शुष्माः ॥ ४ ॥
+
+> *abhiḥ | te | adya | gīḥ 'bhiḥ | gṛṇaṃtaḥ | agne | dāśema |*  
+> *pra | te | divaḥ | na | stanayaṃti | śuṣmāḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्दिवसे हे अग्ने अभिर्गिर्भिः स्तुतिरूपाभिर्वाग्भिर्गृणंतस्तां
+> स्तुवंतो वयमृत्विगादयस्ते तुभ्यं दाशेम । हवींषि दद्याम । दिवो न
+
+##### Gist of the bhāṣya
+
+Today, O Agni, we, the priests and others, praising you with words in the form of praise (गीर्भिः (*gīrbhiḥ*)), would give (दाशेम (*dāśema*)) you oblations. (The explanation of the simile दिवो न (*divo na*) continues on the next page.)
+
+### Printed p. 878
+
+> सूर्यस्य रश्मय इव ते त्वदीयाः शुष्माः शोधका ज्वालाः प्र स्तनयंति । प्रकर्षण शब्दायंते । यद्वा । दिवो न मेघा इव त्वदीया ज्वालाः शब्दायंते ॥
+
+##### Gist of the bhāṣya
+
+दिवो न (*divo na*): like the rays of the sun, your शुष्माः (*śuṣmāḥ*), your purifying flames, roar (प्र स्तनयंति (*pra stanayaṃti*)) mightily. Or else: like the clouds of the sky, your flames make a sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अद्य (*adya*)—today
+- आभिः गीर्भिः (*ābhiḥ gīrbhiḥ*)—with these words that are in the form of praise
+- गृणंतः (*gṛṇaṃtaḥ*)—praising you
+- ते (*te*)—addressing you
+- दाशेम (*dāśema*)—we offer the oblation
+- दिवो न (*divo na*)—bright like the rays of the sun
+- ते (*te*)—your
+- शुष्माः (*śuṣmāḥ*)—purifying flames
+- प्र स्तनयंति (*pra stanayaṃti*)—make a very great sound
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, praising you today with words in the form of praise, we offer oblations addressed to you. Your flames, which are bright like the rays of the sun and are purifying, make a very great sound.
+
+##### English translation (H. H. Wilson)
+Glorifying you, Agni, to-day, with these our praises, may we offer you (oblations) : your (flames), bright as those of the sun, roar aloud.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ स्वादि॒ष्टाग्ने॒ संदृ॑ष्टिरि॒दा चि॒दह्न॑ इ॒दा चि॑द॒क्कोः ।  
+> त्रि॒ये रु॒क्मो न रो॑चत उपा॒के ॥ ५ ॥
+
+> *tava svādiṣṭāgne saṃdṛṣṭiridā cidahna idā cidakkoḥ |*  
+> *triye rukmo na rocata upāke ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । स्वादिष्टा । अग्ने । संदृष्टिः । इदा ! चित् । अह्नः । इदा । चित् । अक्टोः ।  
+> श्रिये । रुक्मः । न । रोचते । उपाके ॥ ५ ॥
+
+> *tava | svādiṣṭā | agne | saṃdṛṣṭiḥ | idā ! cit | ahnaḥ | idā | cit | akṭoḥ |*  
+> *śriye | rukmaḥ | na | rocate | upāke ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स्वादिष्टा स्वादुतमा प्रियतमा तव त्वदीया संदृष्टिर्दीप्तिरह्न
+> इदा चित् दिवसस्येदानीं चाक्तोरिदा चित् । अक्तुरिति रात्रिनाम शवर्यक्तुरूर्म्येति रात्रिनामसु पाठात् । रात्रेरिदानीं च । अहोरात्र इत्यर्थः ॥ अन्नू
+> व्यक्तिम्रक्षणकांतिगतिष्वित्यस्माद्धातोः किच्चेत्यौणादिकसूत्रेण तुप्रत्ययः तस्य किद्व-
+
+##### Gist of the bhāṣya
+
+O Agni, your संदृष्टिः (*saṃdṛṣṭiḥ*), your radiance, is स्वादिष्टा (*svādiṣṭā*), sweetest, dearest, at every time of the day (*ahna idā cit*) and at every time of the night (चाक्तोरिदा चित् (*cāktoridā cit*)). *aktuḥ* is a name for night, since it is read among the names of night (*śavarī aktuḥ ūrmyā* …); the meaning is "day and night". (He then gives the derivation of अक्तु (*aktu*) from the root *aṃj* with the Uṇādi affix tu.)
+
+### Printed p. 879
+
+> द्भावश्च । तितुत्रेतीट् प्रतिषेधः । अनिदितामित्यु पधानकारलोपः । चोः कुरिति कुत्वं॥
+> रुक्मो नालंकार इव श्रिये पदार्थमाश्रयितुमुपाकेंतिके । उपाक इत्यंतिक
+> नाम आक उपाक इति तन्नामसु पाठात् । रोचते । राजते ॥
+
+##### Gist of the bhāṣya
+
+Like an ornament (रुक्मः (*rukmaḥ*)), it shines (रोचते (*rocate*), "is resplendent") उपाके (*upāke*), near, to lend beauty (श्रिये (*śriye*)) to things. उपाक (*upāka*) is a name for "near", since it is read among those names (आक उपाक (*āka upāka*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- स्वादिष्टा (*svādiṣṭā*)—dearest
+- तव (*tava*)—your
+- संदृष्टिः (*saṃdṛṣṭiḥ*)—radiance
+- अह्नः इदा चित् (*ahnaḥ idā cit*)—at every time of the day
+- अक्तोः इदा चित् (*aktoḥ idā cit*)—at every time of the night
+- रुक्मो न (*rukmo na*)—like an ornament of gold
+- उपाके (*upāke*)—close by
+- श्रिये (*śriye*)—to adorn all things
+- रोचते (*rocate*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your radiance shines close by, at every time of the day and at every time of the night, like an ornament of gold, to adorn all things.
+
+##### English translation (H. H. Wilson)
+Your lovely radiance, Agni, whether by day or by night, shines upon (all objects) like an ornament (to give them) beauty.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒तं न पू॒तं त॒नूर॑रे॒पाः शुचि॒ हिर॑ण्यं ।  
+> तत्ते॑ रु॒क्मो न रो॑चत स्वधावः ॥ ६ ॥
+
+> *ghṛtaṃ na pūtaṃ tanūrarepāḥ śuci hiraṇyaṃ |*  
+> *tatte rukmo na rocata svadhāvaḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतं । न । पूतं । तनूः । अरेपाः । शुचि । हिरण्यं ।  
+> तत् । ते । रुक्मः । न । रोचत । स्वधावः ॥ ६ ॥
+
+> *ghṛtaṃ | na | pūtaṃ | tanūḥ | arepāḥ | śuci | hiraṇyaṃ |*  
+> *tat | te | rukmaḥ | na | rocata | svadhāvaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्वधावः । स्वधाशब्दोन्नवाची । अन्नवन्नग्ने पूतं शोधितं घृतं नाज्यमिव तनूस्त्वदीया मूर्तिररेपाः वापरहिता भवति । शुचि शुद्धं हिरण्यं हितरमणीयं ते त्वदीयं तत्पसिद्धं तेजो रुक्मो न भूषणमिव रोचत । रोचते ।
+> भासते ॥
+
+##### Gist of the bhāṣya
+
+O स्वधावः (*svadhāvaḥ*): the word स्वधा (*svadhā*) denotes food; so, O Agni, possessor of food. Your तनूः (*tanūḥ*), your form, is अरेपाः (*arepāḥ*), free from fault (or stain), like घृतं न पूतं (*ghṛtaṃ na pūtaṃ*), purified clarified butter. That well-known radiance of yours, pure (शुचि (*śuci*)) and हिरण्यं (*hiraṇyaṃ*) (beneficial and delightful), shines (रोचत (*rocata*), "is resplendent") like an ornament (रुक्मः (*rukmaḥ*)).
+
+### Printed p. 880
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधावः (*svadhāvaḥ*)—O Agni, possessor and giver of food
+- पूतं (*pūtaṃ*)—purified
+- धृतं न (*dhṛtaṃ na*)—like clarified butter
+- तनूः (*tanūḥ*)—your form, which is of the nature of radiance
+- अरेपाः (*arepāḥ*)—is free from sin
+- शुचि (*śuci*)—pure
+- हिरण्यं (*hiraṇyaṃ*)—beneficial and delightful
+- ते (*te*)—your
+- तत् (*tat*)—well-known radiance
+- रुक्मो न (*rukmo na*)—like an ornament of gold
+- रोचते (*rocate*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, possessor and giver of food, your form, which is of the nature of radiance and is like purified clarified butter, is free from sin. Your well-known radiance, pure, beneficial and delightful, shines like an ornament of gold.
+
+##### English translation (H. H. Wilson)
+Giver of sustenance, (Agni), your favour is free from fault, like clarified butter : your pure and golden lustre shines like an ornament.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒तं चि॒द्दि ष्मा॒ सने॑मि॒ द्वेषोग्न॑ इ॒नोषि॒ मर्ता॑त् ।  
+> इ॒त्था यज॑मानादृतावः ॥ ७ ॥
+
+> *kṛtaṃ ciddi ṣmā sanemi dveṣogna inoṣi martāt |*  
+> *itthā yajamānādṛtāvaḥ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृतं । चित् । हि । स्म । सनेमि । द्वेषः । अग्ने । इनोषि । मर्तात् ।  
+> इत्था । यजमानात् । ऋत्यवः ॥ ७ ॥
+
+> *kṛtaṃ | cit | hi | sma | sanemi | dveṣaḥ | agne | inoṣi | martāt |*  
+> *itthā | yajamānāt | ṛtyavaḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋतावः सत्यवन्नग्ने कृतं चित् यजमानेन कृतमपि सनेमि चिरंतनं ।
+> सनेमाति पुराणनाम सनेमि पूर्वमिति पुराणनामसु पाठात् । द्वेषः पापं
+> मर्तान्मनुष्याद्यजमानादित्था सत्यं । इत्थेति सत्यनामैतत् अद्धेत्थेति तनामस्नु
+> पाठात् । इनोषि हि स्म । प्रेरयस्येव खलु नाशयसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O ऋतावः (*ṛtāvaḥ*), truthful Agni: कृतं चित् (*kṛtaṃ cit*), even what has been done by the sacrificer, सनेमि (*sanemi*), of long standing; सनेमि (*sanemi*) is a name for "ancient", since it is read among the names of what is ancient (*sanemi pūrvam*). द्वेषः (*dveṣaḥ*), sin, from the mortal, the human sacrificer, इत्था (*itthā*), truly; इत्था (*itthā*) is a name for "truth", since it is read among the names of truth (*addha itthā*). इनोषि हि स्म (*inoṣi hi sma*): you indeed drive it away, that is, you destroy it.
+
 ---
 
-**Progress note:** Done through printed p. 874. pp. 869-874 (batch API)
+**Progress note:** Done through printed p. 880. pp. 875-880 (batch API)
