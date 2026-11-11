@@ -137,7 +137,10 @@ def cmd_build(a):
     if prob: print('PROBLEMS:'); print('\n'.join(' - '+p for p in prob)); sys.exit(1)
     p=os.path.join(w,'en_final.md'); wr(p,text)
     r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
-    wr(p,labels.normalise(rd(p)).replace(convert.NOIAST,'> '))
+    t=labels.normalise(rd(p)).replace(convert.NOIAST,'> ')
+    lab=cfg.d.get('printed_english_label')                 # the heading of the English printed in the edition (volcfg), e.g. 'English translation (H. H. Wilson)'
+    if lab: t=re.sub(r'(?m)^\*\*Printed English( translation)?\*\*\s*$','**'+lab+'**',t)
+    wr(p,t)
     r=sh(f'python3 publish/tools/accents/accent_volume.py {cfg.vol} --file "{p}" --write'); print('accents:',[l for l in (r.stdout+r.stderr).split('\n') if l.startswith('Vol') or 'not matched' in l or 'Error' in l or 'Trace' in l])
     rep=os.path.join(ROOT,f'vol{cfg.vol}','review','accent_report.tsv')                     # the accent step rewrites its report every time: keep a cumulative copy (Vol 16 lesson 35)
     if os.path.exists(rep):

@@ -18,6 +18,7 @@ Planned as the **pilot of the Batch API flow** (user decision, Nov 11 2026; API 
 Text prepared, windows planned (Nov 11 2026); **nothing sent to the API, nothing translated: waiting for the user's "start"**. Free plan of the first 5 windows (pp. 1–32): 107k input tokens, about 3,460 per page.
 
 ## Open items
+0. **To confirm before printing:** the English printed under each verse is headed "English translation (H. H. Wilson)" (`printed_english_label` in `volcfg.json`; one line to change). The edition does not name the translator (Vol 1's plan of the work says only that the main sense is given briefly under "English Translation"); the attribution rests on the edition quoting Wilson's notes on the English and treating Max Müller as a separate opinion, on the style, and on the user's judgement (Nov 11 2026). Not yet compared word for word with Wilson's published text (the site was not reachable from the session).
 1. User: say "start" for the pilot; later the front-matter scan PDF for the print build.
 2. Dispatcher: confirm scope and Maṇḍala from the text; run the pilot (5 windows), report measured cost per page and gate results before sending more; QA sample of the pilot pages against the Kannada.
 

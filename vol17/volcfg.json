@@ -26,5 +26,6 @@
  "no_iast_blocks": [
   "bhashya"
  ],
- "grammar": "sanskrit"
+ "grammar": "sanskrit",
+ "printed_english_label": "English translation (H. H. Wilson)"
 }
