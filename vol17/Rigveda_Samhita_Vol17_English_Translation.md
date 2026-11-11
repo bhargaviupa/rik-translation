@@ -14340,6 +14340,164 @@ Since such usages exist, in the present verse श्लोक (*śloka*) is take
 > *ā | manyethāṃ | ā | gataṃ | kat | cit | evaiḥ | viśve | janāsaḥ | aśvinā | havaṃte |*  
 > *imā | hi | vāṃ | goṛjīkā | madhūni | pra | mitrāsaḥ | na | daduḥ | usraḥ | agre ‖*
 
+### Printed p. 424
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्वचिदिति प्रश्नॆ । हे अश्विनौ आ मन्येथां । इमां मदीयां स्तुतिं जानीतं ।
+> किंच एवैर्गमनसाधनैरश्वैरा गतं । यज्ञं प्रत्यागच्छतं । विश्वे सर्वॆ जनासः
+> स्तोतारोऽश्विनाश्विन् वां युवां हवंते । स्तुतिलक्षणाभिर्वाग्निराह्वयंति । किंच
+> गोऋजीका गवां पयसा मिश्रणोपेतानि मधूनि मदकराणि सोमरसरूपाणीमेमानि हवींषि युवाभ्यां प्र ददुः । अध्वर्यादयः प्रयच्छंति । तत्र दृष्टांतः ।
+> मित्रासो न । यथा मित्राणि मित्रेभ्योऽपेक्षितं ददति तद्वत् । उस्रः । वसति नभसीत्युस्रः सूरः । अग्र उषसोऽग्र उदेति । तस्मादागच्छतमिति भावः ॥ ददुः । दाण्
+> दान इत्यस्य लिट्युसि रूपं । हियोगादनिघातः । उस्रः । वस निवासे । स्थायितंबीत्यादिना रक् । कित्वात्संप्रसारणं । शासिवसिघसीनां चेति षत्वाभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes कच्चित् (*kaccit*) as marking a question. "O Aśvins, आ मन्येथां (*ā manyethāṃ*): know this praise of mine." He adds: "come also with एवैः (*evaiḥ*), that is, with horses, the means of travel; come to the sacrifice." विश्वे जनासः (*viśve janāsaḥ*) are all the singers, who call you, Aśvins, with praises. Further, गोऋजीका (*goṛjīkā*) means "mixed with the milk of cows." मधूनि (*madhūni*) means "intoxicating," that is, these oblations in the form of Soma juice. The Adhvaryu and the others offer (प्र ददुः (*pra daduḥ*)) them to you. The simile is मित्रासो न (*mitrāso na*): as friends give their friends what they need. उस्रः (*usraḥ*) is the sun, who dwells in the sky. He rises ahead of the dawn. The sense is therefore: "come."
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कच्चित् आ मन्येथाः (*kaccit ā manyethāḥ*)—if you regard our praise as good
+- एवैः (*evaiḥ*)—with horses, the means of travel
+- आ गतं (*ā gataṃ*)—come to our sacrifice
+- विश्वे जनासः (*viśve janāsaḥ*)—all the singers too
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—you
+- हवंते (*havaṃte*)—call, praying
+- गोऋजीका (*goṛjīkā*)—mixed with milk
+- मधूनि (*madhūni*)—sweet, in the form of Soma juice
+- इमा (*imā*)—these oblations
+- मित्रासो न (*mitrāso na*)—as one gives lovingly to friends
+- प्र ददुः (*pra daduḥ*)—offer to you
+- उस्रः (*usraḥ*)—the sun
+- अग्रे (*agre*)—has risen in front
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, if you regard our praise as good, come to our sacrifice with horses, the means of travel. All the singers too call you with prayer. They offer to you these oblations, mixed with milk and sweet, in the form of Soma juice, as one gives lovingly to friends. The sun has risen in front. Therefore be gracious to this sacrifice.
+
+##### English translation (H. H. Wilson)
+If you regard (my prayer), come with your quick steeds : all men, Ashwins, invoke you : to you they offer the sweet (Soma) juice mixed with milk, as friends (give gifts to friends) : the sun is in advance, (therefore come to the rite).
+
+### Printed p. 425
+
+##### विशेषविषयगळु (Special Topics)
+
+एवैः (*evaiḥ*)—गमनसाधनैः (*gamanasādhanaiḥ*): "with horses that help in moving about." Ordinarily this epithet denotes the Maruts, the companions of Indra. Words such as एवासः (*evāsaḥ*) and एवयामरुत् (*evayāmarut*) describe the Maruts. But in a few places it is used as an epithet of horses, the means of travel. Moreover, in
+सनाद्दिवं परि भूमा विरूपे पुनर्भुवा युवती स्वेभिरेवैः । (*sanāddivaṃ pari bhūmā virūpe punarbhuvā yuvatī svebhirevaiḥ |*) (Ṛ. Saṃ. 1-62-8),
+in the description that Night and Dawn move alternately by their own attractive, revolving comings and goings, the word means simply "going." Where the word is an epithet of the Maruts, its special sense has been explained earlier.
+
+उस्रः (*usraḥ*)—वसति नभसीत्युस्रः सूर्यः (*vasati nabhasītyusraḥ sūryaḥ*): it is explained that the sun is named Usra because he dwells in the sky. In general it is hard to give a definite meaning for the words उस्रः (*usraḥ*), उस्रा (*usrā*), उस्रिया (*usriyā*) and उस्रिक (*usrika*); one must state it according to each context. In
+द्रन्नो वन्वन् क्रत्वा नार्वोस्रः पितेव जारयायि यज्ञैः । (*dranno vanvan kratvā nārvosraḥ piteva jārayāyi yajñaiḥ |*) (Ṛ. Saṃ. 6-12-4)
+the word usra is used as a synonym of "bull." Usra can also mean a sun-ray. The words उस्रा (*usrā*) and उस्प्रिया (*uspriyā*) also occur as synonyms of "milk."
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒रः पु॒रू चि॑दश्विना॒ रजां॑स्यांगू॒षो वां॑ मघवाना॒  ॑
+> जनेषु ।  
+> एह या॑तं प॒थिभि॑र्देव॒यानै॒र्दस्रा॑वि॒मे वां॑ नि॒धयो॒  ॑
+> मधूनां ॥ ५ ॥
+
+> *tiraḥ purū cidaśvinā rajāṃsyāṃgūṣo vāṃ maghavānā*  
+> *janeṣu |*  
+> *eha yātaṃ pathibhirdevayānairdasrāvime vāṃ nidhayo*  
+> *madhūnāṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिरः । पुरु । चित् । अश्विना । रजांसि । आंगूषः । वां । मघवाना । जनेषु ।
+
+> *tiraḥ | puru | cit | aśvinā | rajāṃsi | āṃgūṣaḥ | vāṃ | maghavānā | janeṣu |*
+
+### Printed p. 426
+
+> आ । इह । यातं । पथिभिः । देवयानैः । दसौ । इमे । वां । निधयः ।  
+> मधूनां ॥ ५ ॥
+
+> *ā | iha | yātaṃ | pathibhiḥ | devayānaiḥ | dasau | ime | vāṃ | nidhayaḥ |*  
+> *madhūnāṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आश्विनौ पुरू चिद्भहून्यपि रजांसि स्थानानि तिरः स्वतेजसा तिरस्कुर्वंत् वां
+> युवामिह कर्मणि देवयानैः पथिभिर्मार्गैरा यातं । मघवाना धनवंत् हे
+> आश्विनौ जनेषु स्तोतृषु वां युवयोरांगूष आ समंताद्दोषणीयं स्तोत्रं
+> वर्तते । दसौ शत्रूणामुपक्षपयितारौ हे आश्विनौ वां युवयोर्मधूनां मदकराणां सोमानामिमे निधयः । निधीयतेऽत्र सोम इति निधयः पात्रविशेषाः ।
+> संति । तस्मादागच्छतमिति भावः ॥ अंगूषः । अज्वार्वाद्युषेः कर्मणि घञ् । आघुष्यत इत्याघोषः । घो इत्यस्य पृषोदरादित्वादू इत्यादेशः । आजोऽनुनासिकश्चंदसीत्यनच्यप्यनुनासिकश्कांदसः । यद्वा । आगिर्गत्यर्थः । आस्मादंगूष इति सूत्रेणोषच् प्रत्ययांतो निपातितः । अंगति गच्छति देवानित्यंगूषः स्तोत्रं । अंगूष
+> एवांगूषः । प्रज्ञादित्वात्स्वार्थिकोऽण् । प्रत्यॆयस्वरः । एह यातमित्यर्धर्चोगतः॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, eclipsing (तिरः (*tiraḥ*)) by your own splendour many (पुरू चित् (*purū cit*)) realms, that is, places, come here to this rite by the paths (पथिभिः (*pathibhiḥ*)) on which the gods travel. O opulent ones (मघवाना (*maghavānā*)), among the people, that is, among the singers, there is a praise (आंगूषः (*āṃgūṣaḥ*)) of you, to be recited all round. O Dasras, removers of enemies, these निधयः (*nidhayaḥ*) of yours are filled with intoxicating Soma." The निधयः (*nidhayaḥ*) are special vessels, so called because the Soma is deposited in them. Hence the sense: "come." Sāyaṇa derives अंगूषः (*aṃgūṣaḥ*) in two ways. By the second, the praise is so called because it goes (अंगति (*aṃgati*)) to the gods. He closes by saying that the half-verse एह यातं (*eha yātaṃ*) is complete.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरू चित् (*purū cit*)—many
+- रजांसि (*rajāṃsi*)—worlds
+- तिरः (*tiraḥ*)—you who pervade with your splendour
+- इह (*iha*)—to be in this rite
+- देवयानैः (*devayānaiḥ*)—on which the gods travel
+- पथिभिः (*pathibhiḥ*)—by paths
+- आ यातं (*ā yātaṃ*)—come
+- मॆघवाना (*mèghavānā*)—O wealthy Aśvin deities
+- जनेषु (*janeṣu*)—among the singers
+- वां (*vāṃ*)—on your behalf
+- अंगूषः (*aṃgūṣaḥ*)—the singer (is abundant)
+- दसौ (*dasau*)—O Aśvin deities, destroyers of enemies
+- वां (*vāṃ*)—meant for you
+- मधूनां (*madhūnāṃ*)—filled with Soma
+- इमे निधयः (*ime nidhayaḥ*)—these vessels are ready
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who pervade even many worlds with your splendour, come by the paths on which the gods travel, to take part in this rite. O wealthy Aśvins, among the singers the praise on your behalf is abundant. O Aśvins, destroyers of enemies, these vessels, meant for you and filled with Soma, are ready.
+
+##### English translation (H. H. Wilson)
+Eclipsing (by your splendour) many regions, Ashwins, (come hither); loud praise awaits you opulent (Ashwins) amongst men : come to this rite by the paths traversed by. the gods: here, Dasras, are ample stores of the exhilarating juices
+
+### Printed p. 427
+
+##### विशेषविषयगळु (Special Topics)
+
+The pervasive power of the Aśvins' splendour and the nature of the path on which they travel are described in this Ṛk. The nature of that path is described by देवयानैः पथिभिः (*devayānaiḥ pathibhiḥ*).
+
+देवयानैः पथिभिः (*devayānaiḥ pathibhiḥ*)—The natures of the two paths, devayāna and pitṛyāna, were briefly explained earlier (Ṛgveda Saṃhitā, Part 12, pp. 563-564). But since the two courses of the individual soul, bound to its actions, were there indicated only briefly and as the context required, some points not explained there are given here. The path by which gods travel from heaven to earth and from earth to heaven has been called devayāna from the time of the Vedic Saṃhitās. In the Brāhmaṇas and other Śruti and Smṛti texts, and in the works of the ancient and later poets who illumined secular literature, this word has a technical meaning. In the beginning, however, its real nature was not described so precisely, and only a gross picture was suggested by the technical word itself. In some Smṛti and other works this word is a synonym for the chariot, the vehicle of the gods. But this meaning is very secondary and does not show the established sense. That devayāna and pitṛyāna are, from the spiritual point of view, the higher and the lower path is a matter that can be learned exactly from the Upaniṣads and the like. It also suggests the belief that the soul which travels by devayāna to the excellent world of the Ādityas receives the full help of the gods. By descriptions such as परं मृत्यो अनु परे हि पंथां (*paraṃ mṛtyo anu pare hi paṃthāṃ*) (Ṛ. Saṃ. 10-18-1), it is said to be a path free from death.
+
+In the Ṛk Saṃhitā this path is described as connected with Agni, who creates the relation between gods and men. It is an established matter that he carries the sacrificial oblation to the gods and offers it, and also brings the gods themselves to the place of sacrifice and honours them. But for these tasks there is a definite path, and it is known to Agni alone.
+अस्मे वत्सं परि षंतं न विंदन्निच्छंतो विश्वे अमृता अमूराः । श्रमयुवः पदव्यो धियंधास्तस्थुः पदे परमे चार्वग्नेः । (*asme vatsaṃ pari ṣaṃtaṃ na viṃdannicchaṃto viśve amṛtā amūrāḥ | śramayuvaḥ padavyo dhiyaṃdhāstasthuḥ pade parame cārvagneḥ |*)
+(Ṛ. Saṃ. 1-2-2)
+"O Agni, you know the path on which the gods travel, and you are their messenger. To carry their oblation, the gods and the others, desiring your help, knew the highest place in which you are and the path to your world; yet they did not see you alone, and they stood in your world."
+
+### Printed p. 428
+
+In the beginning, the path on which Agni, carrying the oblation, travels became known in the end as the path on which the sacrificer, the performer of the sacrifice, also travels.
+स एष देवयानो वा पितृयाणो वा पंथाः । तदुभयतोऽग्निशिखे समोषंत्यौ तिष्ठतः प्रति तमोषतो यः प्रत्युष्योऽत्युतग्ं सृजेते योऽतिसृज्यः शांतिरापस्तदेतमवैतत्पंथानग्ं शमयति ॥ (*sa eṣa devayāno vā pitṛyāṇo vā paṃthāḥ | tadubhayato 'gniśikhe samoṣaṃtyau tiṣṭhataḥ prati tamoṣato yaḥ pratyuṣyo 'tyutagṃ sṛjete yo 'tisṛjyaḥ śāṃtirāpastadetamavaitatpaṃthānagṃ śamayati ‖*)
+(Śa. Brā. 1-9-3-2)
+The path that carries either to the world of the gods or to the world of the fathers is one. On both sides of this common path two flames burn steadily. They do not harm the doer of good but make room for his passage; the doer of evil they burn. Therefore
+यत्रासते सुकृतो यत्र ते ययुस्तत्र त्वा देवःस विता दधातु (*yatrāsate sukṛto yatra te yayustatra tvā devaḥsa vitā dadhātu*) (Ṛ. Saṃ. 18-17-4).
+**NOTE**
+Since Savitṛ is the god who leads the doers of good on the good path, he is prayed to lead the sacrificers, the doers of good, on that same pure path, free from dust and free from death.
+
+Thus one description is that a single path leads to both the world of the gods and the world of the fathers, and that the easy way on it accords with each person's actions. Another kind is the description in which the two paths are given separately: one the path of the doers of good, the other the path of those without that. But there is one main point to be noticed here: in the Ṛk Saṃhitā passage सुकृतो यत्र ते (*sukṛto yatra te*) good action is praised. What is that good action? Is it only the performance of sacrifice, or is there something else? The answer is: if a man is without knowledge and merely a performer of sacrifice, he has no entry to devayāna; the man of knowledge has entry. But the rule that he must also be a performer of sacrifice is not clearly stated. Then who has the right to enter devayāna? For now, the question of that right and its answer are not relevant to us. Who is such a person, and what the nature of his action should be, will be explained later as the context permits. In the present context only the description of the path is relevant. So one must understand what is the nature of the path on which the gods travel or which the doer of good follows, and what is the nature of the path on which the one without it travels. One must also understand whether the devayāna on which the Aśvins are to travel in this Ṛk is described in the Upaniṣads and the like just as it is in the Ṛk Saṃhitā and the like.
+
+Earlier, when explaining the path of Ṛta, the nature of the paths well known in the Ṛk Saṃhitā, the path of the Ādityas, the path of the Gandharvas and the path of the gods, was explained with examples. That is described as an eternal
+
+### Printed p. 429
+
+and steady path. Although some points show that the account of the path in the Upaniṣads and the like differs from it in many ways, it can be said that the reality described in both settings is the same. This path of the gods is described thus in the Chāndogya Upaniṣad:
+ये चेमेऽरण्ये श्रद्धा तप इत्युपासते तेऽर्चिषमभिसंभवंत्यर्चिषाहरह्न आपूर‍्यमाणपक्षमापूर‍्यमाणपक्षाद्यान्नडुदजेति मासांस्तान् । मासेभ्यः संवत्सरं संवत्सरादादित्यमादित्याच्चंद्रमसं चंद्रमसो विद्युतं तत्पुरुषोऽमानवः स एनान्ब्रह्म गमयत्येष देवयानः पंथा इति ॥ (*ye ceme 'raṇye śraddhā tapa ityupāsate te 'rciṣamabhisaṃbhavaṃtyarciṣāharahna āpūryamāṇapakṣamāpūryamāṇapakṣādyānnaḍudajeti māsāṃstān | māsebhyaḥ saṃvatsaraṃ saṃvatsarādādityamādityāccaṃdramasaṃ caṃdramaso vidyutaṃ tatpuruṣo 'mānavaḥ sa enānbrahma gamayatyeṣa devayānaḥ paṃthā iti ‖*)
+(Bhā. U. 5-10-1, 2)
+**NOTE**
+Those who, knowing the fire-knowledge, practise austerity joined with faith enter the flame. (This is the sun's ray in the form of fire, in the flame of the funeral pyre.) From this flame, which is of the nature of light, they enter the day; from the day, the bright fortnight; from the bright fortnight, the uttarāyaṇa, the northern course of the sun; from there, the year; from the year, the world of the Ādityas; from there, the moon-world, other than it; from there, the world of lightning. This is devayāna.
+अथ य इमे ग्राम इष्टापूर्ते दत्तमित्युपासते ते धूममभिसंभवंति धूमाद्रात्रिं रात्रेरपरपक्षमपरपक्षाद्यान्नड्डक्षिणैतिमासांस्तान्नैते संवत्सरमभिप्राप्रुवंति मासेभ्यः पितृलोकं पितृलोकादाकाशं .... .... तं देवा भक्षयंति । (*atha ya ime grāma iṣṭāpūrte dattamityupāsate te dhūmamabhisaṃbhavaṃti dhūmādrātriṃ rātreraparapakṣamaparapakṣādyānnaḍḍakṣiṇaitimāsāṃstānnaite saṃvatsaramabhiprāpruvaṃti māsebhyaḥ pitṛlokaṃ pitṛlokādākāśaṃ .... .... taṃ devā bhakṣayaṃti |*)
+(Bhā. U. 5-10-3, 4)
+Those who live in villages and, placing faith in sacrificial action done for desire, perform the action, enter the smoke. From the smoke they enter the night, full of darkness; from the night, the dark fortnight; from the dark fortnight, the dakṣiṇāyana; from the dakṣiṇāyana, the year; from there, the world of the fathers; from there, the sky; and through it, the world of the Moon (Soma). Since Soma is food for the gods, they eat it. The same description, slightly varied, is given in the same way in the Bṛhadāraṇyaka Upaniṣad also (6-2-15). In the account of pitṛyāna the sky is not included. Moreover,
+अणुः पंथा विततः पुराणो मां स्पषोऽनुवित्तो मय्येव । तेन धीरा अपियंति ब्रह्मविदः स्वर्ग० लोकमित ऊर्ध्वं विमुक्ताः ॥ (*aṇuḥ paṃthā vitataḥ purāṇo māṃ spaṣo 'nuvitto mayyeva | tena dhīrā apiyaṃti brahmavidaḥ svarga0 lokamita ūrdhvaṃ vimuktāḥ ‖*)
+(Bṛ. U. 4-4-8)
+
 ---
 
-**Progress note:** Done through printed p. 423. pp. 418-423 (batch API)
+**Progress note:** Done through printed p. 429. pp. 424-429 (batch API)
