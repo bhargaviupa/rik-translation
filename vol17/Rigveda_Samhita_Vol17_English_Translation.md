@@ -23146,6 +23146,281 @@ O Agni, to great Pūṣan, the bearer of nourishment (पुष्टिंभ�
 - ब्रवः (*bravaḥ*)—do you speak
 - उरुगायाय (*urugāyāya*)—in many ways
 
+### Printed p. 742
+Why should my sin, the cause of decay, be told to Pūṣan, who is of great nature and nourishes the world? Why to Rudra, who is worthy of excellent worship and offers the oblation to the gods in the form of fire? Why to the presiding deity of the year, to Nirṛti, and to Viṣṇu, who is praised in many ways?
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, why must my sin, the cause of decay, be told to Pūṣan, who is of great nature and the nourisher of the world; to Rudra, who is worthy of excellent worship and offers the oblation to the gods in the form of fire; to the presiding deity of the year; to Nirṛti; and to Viṣṇu, who is much praised?
+
+##### English translation (H. H. Wilson)
+Why to the great and nutriment-conveying Pushan ? why to Rudra, the object of worship, the giver of the oblation (to the gods) ? Why to the many-hymned Vishnu ? Why tell our sin to the extensive year ?
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था शर्धा॑य म॒रुता॑मृ॒ताय॑ क॒था सू॒रे बृ॑ह॒ते पृ॒च्छ्यमा॑नः ।  
+> प्रति॑ ब्र॒वोदि॑तये तु॒राय॒ साधा॑ दि॒वो जा॑तवेदश्चि कि॒त्वान् ॥
+
+> *kathā śardhāya marutāmṛtāya kathā sūre bṛhate pṛcchyamānaḥ |*  
+> *prati bravoditaye turāya sādhā divo jātavedaści kitvān ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । शर्धाय । मरुतां । ऋताय । कथा । सूरे । बृहते । पृच्छ्यमानः ।  
+> प्रति । ब्रवः । अदितये । तुराय । साध । दिवः । जातवेदः । चिकित्वान् ॥ ८ ॥
+
+> *kathā | śardhāya | marutāṃ | ṛtāya | kathā | sūre | bṛhate | pṛcchyamānaḥ |*  
+> *prati | bravaḥ | aditaye | turāya | sādha | divaḥ | jātavedaḥ | cikitvān ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ऋताय गंत्रे सत्यभूताय ना मरुतां शर्धाय बलभूताय
+> गणाय कथा केन हेतुना मदीयमागः प्रतिब्रूयाः । तेन पृच्छमानः सन्
+> तस्मै बृहते महते सूरे सूराय कथा कथं वदेः । तथादितये देव्य तुराय
+> त्वरितगमनाय वायवे । अदितयेऽदीनाय तुराय ना । प्रति ब्रवः । मदीय-
+
+##### Gist of the bhāṣya
+
+O Agni, to the true, moving company of the Maruts, who are strength itself, by what cause would you declare my sin in reply? Being asked by them, how would you speak to that great Sūra? Likewise to Aditi, and to the swift-going Vāyu; "aditaye" is also taken as "to the unimpoverished, swift one". How would you reply with my sin? Since it is so, O Jātavedas ... (continued on the next page).
+
+### Printed p. 743
+
+> मागः कथं प्रतिब्रूयाः । यस्मादेवं तस्मात् हे जातवेदोग्ने चिकित्वान्
+> तत्सर्वं जानानस्त्वं दिवो दीप्तान्देवान् साध । साधय । गच्छ । यद्वा । दिवो
+> द्युलोकस्य यज्ञवहनलक्षणं कार्यं साध । कुरु ॥ सूरे । सर्वविधीनां छंदसि
+> विकल्पितत्वात् जतीर्यत्वाभावः । अतो गुण इति पररूपत्वं । पृच्छमानः । पृच्छ
+> ज्ञिप्पायां । कर्मणि यक् । ग्रहिज्यादिना संप्रसारणं । शानचो लसार्वधातुकानुदात्तत्वे यक्स्वरः । साध । राध साध संसिद्धौ । अंतर्भावितण्यर्थस्य लोटि व्यत्ययेन शप् ॥
+
+##### Gist of the bhāṣya
+
+Since it is so, O Jātavedas Agni, knowing all that, you, the knowing one, bring about (go to) the shining gods; or else accomplish the task of heaven, the carrying of the sacrifice. Grammatical remarks follow on "sūre", "pṛcchamānaḥ" and "sādha"; they are omitted here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋताय (*ṛtāya*)—true in nature
+- मरुतां (*marutāṃ*)—of the Maruts
+- शर्धाय (*śardhāya*)—to the company
+- कथा (*kathā*)—for what reason (shall you tell my sin)
+- पृच्छ्यमानः (*pṛcchyamānaḥ*)—even if you are asked
+- बृहते (*bṛhate*)—of great nature
+- सूरे (*sūre*)—to Sūra
+- कथा (*kathā*)—how will you tell
+- अदितये (*aditaye*)—to the goddess Aditi
+- तुराय (*turāya*)—to the swift-going Vāyu
+- प्रति ब्रवः (*prati bravaḥ*)—how do you speak
+- जातवेदः (*jātavedaḥ*)—O Agni, of born wisdom
+- चिकित्वान् (*cikitvān*)—you, having known all
+- दिवः (*divaḥ*)—to the shining gods
+- साध (*sādha*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for what reason will you tell my sin to the company of the true Maruts? Even if you are asked, how will you tell it to the sun of great nature? How will you tell it to the goddess Aditi and to the swift-going Vāyu? O Agni of born wisdom, knowing everything, go and join the shining gods.
+
+##### English translation (H. H. Wilson)
+Why tell it to the veracious company of the Maruts? why, even when asked, to the mighty sun? Why repeat it to Aditi, or to the swift wind? Fulfil, all-knowing Jatavedas, (the worship) of heaven.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तेन॑ ऋ॒तं निय॑तमीळ॒ आ गोरा॒मा सचा॒ मधु॑मत्प॒क्वम॑ग्ने ।  
+> कृ॒ष्णा स॒ती रुश॑ता धा॒सिनै॒षा जाम॑र्येण॒ पय॑सा पीपाय ॥
+
+> *ṛtena ṛtaṃ niyatamīḷa ā gorāmā sacā madhumatpakvamagne |*  
+> *kṛṣṇā satī ruśatā dhāsinaiṣā jāmaryeṇa payasā pīpāya ‖*
+
+### Printed p. 744
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतेन । ऋतं । नियुतं । ईळे । आ । गोः । आमा । सचा । मधुमत् । पक्वं ।  
+> अग्ने ।  
+> कृष्णा । सतिः । रुशता । धासिना । एषा । जामर्येण । पयसा । पीपाय ॥ ९ ॥
+
+> *ṛtena | ṛtaṃ | niyutaṃ | īḷe | ā | goḥ | āmā | sacā | madhumat | pakvaṃ |*  
+> *agne |*  
+> *kṛṣṇā | satiḥ | ruśatā | dhāsinā | eṣā | jāmaryeṇa | payasā | pīpāya ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ऋतेन सत्यभूतेन यज्ञेन नियतमनुस्युतमृतमुदकं गोर्धेनोः पय एळे । आयाचे । सांनाय्यादिहविरर्थं गव्यं पयस्त्वां याच
+> इत्यभिप्रायः । आमापक्वा सा गौर्मधुमन्माधुर्योपेतं पक्वं पयः सचा सह
+> धारयति । कृष्णा कृष्णवर्णा सत्येषा गौ रुशता श्वेतेन धासिना प्राणिनां धारकेण
+> जामर्येण । जायंत इति जाः प्रजाः । ता जा अमर्येणामरणनिमित्तेन तेन
+> पयसा पीषाय । प्रजाः स्न्याययति । तवैष महिमा यद्रसान्परिणामयन्नेवं
+> करोषि ॥ पीषाय । स्न्यायतेर्लिटि लिड्यजटोश्चति पीभावः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, by the sacrifice that is truth, I ask for the water that is bound up with it, and for the milk of the cow; the intention is "for the oblations such as sāṃnāyya I ask you for cow's milk". That cow, though unripe, holds sweet, ripe milk with her. Though black, this cow, with white milk that sustains living beings, "jāmarya": "jāḥ" are the offspring, those born; with that milk, the cause of their deathlessness, she makes the offspring swell. "This is your greatness, that you do so, transforming the juices."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ऋतेन (*ṛtena*)—by the sacrifice that is truth
+- नियतं (*niyataṃ*)—bound up with
+- ऋतं (*ṛtaṃ*)—water
+- गोः (*goḥ*)—the milk of the cow
+- आ ईळे (*ā īḷe*)—I ask for
+- आमा (*āmā*)—(the cow) even in the unripe state
+- मधुमत् (*madhumat*)—sweet
+- पक्वं (*pakvaṃ*)—ripe, of milk
+- सचा (*sacā*)—holds within herself
+- कृष्णा सती (*kṛṣṇā satī*)—being black
+- एषा (*eṣā*)—this cow
+- रुशता (*ruśatā*)—white
+- धासिना (*dhāsinā*)—sustaining living beings
+- जामरैण (*jāmaraiṇa*)—causing deathlessness to the offspring
+- पयसा (*payasā*)—with milk
+- पीपाय (*pīpāya*)—satisfies the offspring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, by the sacrifice that is truth I ask for the water bound up with it and for the milk of the cow. Even though not in the ripe state, this cow holds within herself sweet, ripe milk. This black cow satisfies the offspring with white milk that sustains living beings and causes deathlessness.
+
+### Printed p. 745
+
+##### English translation (H. H. Wilson)
+I solicit, Agni, the milk of the cow, essential for the sacrifice yet immature, (she possesses) the sweet and ripe (fluid); black though she be, yet with her white nutritious milk she maintains mankind in existence.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तेन॒ हि ष्मा॑ वृष॒भश्चि॑द॒क्तः पुमा॑ अ॒ग्निः पय॑सा पृ॒ष्ठ्ये॑न ।  
+> अस्पं॑दमानो आचरद्वयो॒धा वृषा॑ शु॒क्रं दु॑दुहे॒  ॒॑
+> पृश्निरूधः ॥ १० ॥
+
+> *ṛtena hi ṣmā vṛṣabhaścidaktaḥ pumā agniḥ payasā pṛṣṭhyena |*  
+> *aspaṃdamāno ācaradvayodhā vṛṣā śukraṃ duduhe*  
+> *pṛśnirūdhaḥ ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतेन । हि । स्मृ । वृषभः । चित् । अक्तः । पुमान् । अग्निः । पयसा । पृष्ट्येन ।  
+> अस्पंदमानः । अचरत् । वयधाः । वृषा । शुक्रं । दुदुहे । पृश्निः । ऊधः ॥१०॥
+
+> *ṛtena | hi | smṛ | vṛṣabhaḥ | cit | aktaḥ | pumān | agniḥ | payasā | pṛṣṭyena |*  
+> *aspaṃdamānaḥ | acarat | vayadhāḥ | vṛṣā | śukraṃ | duduhe | pṛśniḥ | ūdhaḥ ‖10‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषभोऽभिमतफलवर्षकः पुमान् श्रेष्ठः सोऽग्निऋतेन सत्यभूतेन
+> पृष्येन धारकेण पयसाक्तः सिक्तो भवति । हि ष्मचित् त्रयः पूरणाः । वयोधा
+> अन्नदः सोऽग्निरस्पंदमान एकत्रावस्थितः सन् एवाचरत् । सर्वत्र तेजसा चरति ।
+> तथा वृषापां वर्षकः पृश्निः सूर्यः शुक्रं पय ऊधोऽंतरिक्षं मेघं वा
+> दुदुहे । दोग्धि ॥ अक्तः । अन्नू व्यक्तिम्रक्षणगतिषु । कर्मणि निष्ठा । दुदुहे ।
+> द्विकर्मकोयं धातुः । ऊधः । अकथितं चेति कर्मसंज्ञा ॥
+
+##### Gist of the bhāṣya
+
+The "vṛṣabha", the showerer of desired fruit, the male, the best, that Agni is sprinkled with the true, sustaining milk; "hi ṣma cit" are three fillers. The giver of food (vayodhāḥ), that Agni, though standing still in one place, moves everywhere with his radiance. Likewise the showerer of waters, Pṛśni, the sun, milks the white milk, the udder, the atmosphere or cloud.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभः (*vṛṣabhaḥ*)—the giver of desired things
+- पुमान् (*pumān*)—the best
+- अग्निः (*agniḥ*)—Agni
+- ऋतेन (*ṛtena*)—true
+- पृष्ठेन (*pṛṣṭhena*)—nourishing
+- पयसा (*payasā*)—with milk
+- अक्तः (*aktaḥ*)—is sprinkled
+- वयोधाः (*vayodhāḥ*)—Agni, the giver of food
+- अस्पंदमानः (*aspaṃdamānaḥ*)—though motionless and steady
+- अचरत् (*acarat*)—pervades everywhere with his radiance
+- वृषा (*vṛṣā*)—the shedder of water
+- पृश्निः (*pṛśniḥ*)—the sun
+- शुक्रं (*śukraṃ*)—watery
+- ऊधः (*ūdhaḥ*)—the atmosphere (cloud)
+- दुदुहे (*duduhe*)—milks
+
+### Printed p. 746
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the giver of desired things and the best, is sprinkled with true, nourishing milk. Agni, the giver of food, though motionless and steady, pervades everywhere with his radiance. The sun, who pours down water, milks the atmosphere filled with water.
+
+##### English translation (H. H. Wilson)
+The male Agni, the showerer (of benefits) has been sprinkled by the genuine sustaining milk : the giver of food proceeds unswerving (from his course), and the sun, the shedder of rain, has milked the white (fluid) of the udder (of the firmament).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तेनाद्रिं॒ व्य॑सन्‌भि॒दंतः॒ समंगि॑रसो नवंत॒ गोभिः॑ ।  
+> शु॒नं नरः॒ परि॑ षदन्नु॒षास॑मा॒विः स्व॑रभवज्जा॒ते अ॒ग्नौ ॥ ११ ॥
+
+> *ṛtenādriṃ vyasanbhidaṃtaḥ samaṃgiraso navaṃta gobhiḥ |*  
+> *śunaṃ naraḥ pari ṣadannuṣāsamāviḥ svarabhavajjāte agnau ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतेन । अद्रिं । वि । असन् । भिदंतः । सम् । अंगिरसः । नवंत । गोभिः ।  
+> शुनं । नरः । परि । सदन् । उषसं । आविः । स्वः । अभवत् । जाते । अग्नौ ॥ ११ ॥
+
+> *ṛtena | adriṃ | vi | asan | bhidaṃtaḥ | sam | aṃgirasaḥ | navaṃta | gobhiḥ |*  
+> *śunaṃ | naraḥ | pari | sadan | uṣasaṃ | āviḥ | svaḥ | abhavat | jāte | agnau ‖ 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगिरसो मेधातिथिप्रभृतय ऋतेन यज्ञेन हेतुना गवां निरोधकमद्रिं
+> पर्वतं भिदंतो विदारयंतः संतो व्यसन् । व्यक्षिपन् । ततस्ते गोभिः सं नवंत ।
+> समगच्छंत । नरः कर्मणां नेतारस्ते शुनं सुखेनोषसं परि सदन् । परितः
+> प्राप्नु वन् । ततः स्वः सूर्योऽप्याविरभवत् । सर्वमेतदग्नौ त्वयि जाते मंथनेन
+> निष्पादिते सत्यभूदिति ॥ असन् । अस्यतेर्लुजु च्लेरस्यतिवक्तीत्यादिनाजादेशः । अनित्यमागमशासनमिति थुगभावः ॥
+
+##### Gist of the bhāṣya
+
+The Aṅgirases, Medhātithi and others, by the sacrifice as cause, splitting the mountain that obstructed the cows, threw it open ("vyasan": they cast apart). Then they came together with the cows. The leaders of rites, they happily surrounded (reached on all sides) the dawn. Then Svaḥ, the sun, also became manifest. All this came about when you, Agni, were born, produced by churning.
+
+### Printed p. 747
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्नौ (*agnau*)—you, in the form of Agni
+- जाते (*jāte*)—as soon as you were born
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgirases
+- ऋतेन (*ṛtena*)—with the help of the sacrifice
+- अद्रिं (*adriṃ*)—the mountain that had hidden the cows
+- भिदंत (*bhidaṃta*)—splitting
+- व्यसन् (*vyasan*)—released and made a way
+- गोभिः (*gobhiḥ*)—with the cows
+- सं नवंत (*saṃ navaṃta*)—returned
+- नरः (*naraḥ*)—they, the performers of rites
+- शुनं (*śunaṃ*)—happily
+- उषसं (*uṣasaṃ*)—the dawn
+- परि सदन् (*pari sadan*)—obtained all around
+- स्वः (*svaḥ*)—the sun also
+- आविः अभवत् (*āviḥ abhavat*)—became manifest
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as soon as you, in the form of Agni, were born, the Aṅgirases, with the help of the sacrifice, split the mountains that had hidden the cows, released them and made a way. And they returned with their cows. The performers of rites obtained the dawn all around. The sun also became manifest. All this is your greatness, as Agni **NOTE**
+
+##### English translation (H. H. Wilson)
+By the sacrifice, the Angirasas, rending the mountain asunder, have thrown it open, and returned with the cows ; the leaders ( of holy rites ) have arrived happily at the dawn, and the sun was manifest as Agni was engendered.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तेन॑ दे॒वीर॒मृता॒ अमृ॑क्ता॒ अर्णो॑भि॒रापो॒ मधु॑मद्भिरग्ने ।  
+> वा॒जी न सर्गे॑षु प्रस्तुभा॒नः प्र सद॒मित्स्रवि॑तवे दधन्युः ॥
+
+> *ṛtena devīramṛtā amṛktā arṇobhirāpo madhumadbhiragne |*  
+> *vājī na sargeṣu prastubhānaḥ pra sadamitsravitave dadhanyuḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतेन । देवीः । अमृताः । अमृक्ताः । अर्णःऽभिः । आपः । मधुमत्ऽभिः । अग्ने ॥  
+> वाजी । न । सर्गेषु । प्रस्तुभानः । प्र । सदं । इत् । स्रवितवे । दधन्युः ॥ १२ ॥
+
+> *ṛtena | devīḥ | amṛtāḥ | amṛktāḥ | arṇaḥ 'bhiḥ | āpaḥ | madhumat 'bhiḥ | agne ‖*  
+> *vājī | na | sargeṣu | prastubhānaḥ | pra | sadaṃ | it | sravitave | dadhanyuḥ ‖ 12 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 741. pp. 736-741 (batch API)
+**Progress note:** Done through printed p. 747. pp. 742-747 (batch API)
