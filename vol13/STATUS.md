@@ -19,7 +19,7 @@ New, empty: `vol13/Rigveda_Samhita_Vol13_English_Translation.md` and `…_Kannad
 Scaffold only. Nothing translated, nothing sent to the API. Next: `vol13/CONTINUE_PROMPT_HTML.md` in a new session, after the user uploads the text.
 
 ## Open items
-1. User: upload the Vol 13 text; say how much of the API budget is left (Vol 17 cost $20.14; Vol 18 is running on the same budget; Vol 13 is estimated at $7–8 at the send-once rate).
+1. User: upload the Vol 13 text. **API budget: the user reported about $38 left on Nov 11 2026** (of $66; Vol 17 cost $20.14, the rest went to Vol 18 so far). Vol 13 is estimated at $7–8 at the send-once rate; Vol 18 runs on the same budget in another session, so ask the user for the current figure before the first submit.
 2. `review/user_readings_part1.tsv` (38 readings the user gave for the old file) and the numbers of the old translation are compared with the new text at the end (prompt, "After the last page").
 3. Old review material in `vol13/review/` and the scripts in `vol13/tools/` belong to the scan workflow; kept, not used.
 
