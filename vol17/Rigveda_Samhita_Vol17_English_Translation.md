@@ -4097,6 +4097,257 @@ On the day on which you were born, you drank at will the mountain-abiding nectar
 
 The first half of this ṛk explains that Indra felt the wish to drink Soma on the very day he was born and drank that nectar-like Soma juice. The second half describes how Indra's mother, a young woman, in her husband's house, as soon as Indra was born, made him drink Soma juice before nursing him at the breast. This indicates that Indra's desire to drink Soma has been great from the beginning. Here, although there is no statement of who Indra's mother is or who his father is, the commentator says that the mother of Indra is Aditi, the mother of the gods, and the father is Kaśyapa. Although this explanation agrees with the descriptions given in the Purāṇas and similar works, it cannot be said to accord with Vedic literature. For the position and status of Indra stated in the Purāṇas and similar works, and the position and status of Indra stated in the Ṛgveda
 
+### Printed p. 107
+
+*(continuing the Special Topics of the preceding Ṛk)*
+
+##### विशेषविषयगळु (Special Topics)
+
+…the status and rank of Indra in the Purāṇas and the like also differ greatly from those stated for Indra in the Ṛgveda. In the Purāṇas and the like Indra's rank is not of the highest. It says that there are deities above him, that Indra is an ordinary deity, and that he is lord of heaven alone. In the Vedas, however, Indra's position is said to be one of sovereignty: Indra alone is the best among all the deities. It was he who created earth and the atmosphere. In many places it is said that heaven and earth, the sun and moon, all other living beings and the whole creation are obedient to Indra's command, that Indra alone is the sole lord of the whole universe, and that he is the best of all the deities. Therefore there is room to say that the Indra of the Ṛgveda is the very principle of the Supreme Brahman stated in the Vedānta texts. In the Ṛgveda there are not as many hymns addressed to any other deity as to Indra. About 250 hymns, and some portions of hymns, praise Indra. Indra is also praised together with certain other deities. Taken all together, about 300 hymns are in his honour, which means about a quarter of the Ṛgveda. Indra's greatness and his deeds of daring are described more especially than those of all the other deities.
+
+Moreover, it is said both in the Ṛgveda Saṃhitā and in the Yajurveda that Indra is a son of Aditi, the mother of the gods:
+
+अष्टौ पुत्रासो अदितेर्ये जातास्तन्वंस्परि । (*aṣṭau putrāso aditerye jātāstanvaṃspari |*)
+(Ṛ. Saṃ. 10-72-8)
+
+अष्टौ पुत्रासो अदितेः । ये जातास्तन्वःपरि । देवाउप प्रैत्सप्तभिः । परामार्तांडमास्यत् । सप्तभिः पुत्रैरदितिः । उप प्रैत्तूर्व्यं युगं । प्रजायै मृत्युवे तत् । परामार्तांडमाभरदिति । ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंशुश्च भगश्च । इंद्रश्च विवस्वाग् श्चेत्येते ॥ (*aṣṭau putrāso aditeḥ | ye jātāstanvaḥpari | devāupa praitsaptabhiḥ | parāmārtāṃḍamāsyat | saptabhiḥ putrairaditiḥ | upa praittūrvyaṃ yugaṃ | prajāyai mṛtyuve tat | parāmārtāṃḍamābharaditi | tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃśuśca bhagaśca | iṃdraśca vivasvāg ścetyete ‖*)
+(Tai. Ā. 1-13-2, 3)
+
+As stated here, Aditi has eight children, and their names are given as Mitra, Varuṇa, Dhātā, Āryamā, Aṃśu, Bhaga, Indra and Vivasvān. Since it is clearly stated that Indra is one of these eight, there is no doubt whatever that Aditi, the mother of the gods, is Indra's mother. As for his father being Kaśyapa, that is only a statement of the Purāṇas; there is no support for it in the Ṛgveda.
+
+गिरिस्थां अंशोः पीयूषं (*giristhāṃ aṃśoḥ pīyūṣaṃ*)—here the use of the word गिरिस्थां (*giristhāṃ*) indicates Soma plants grown on mountains. Although the Soma plant also grows on plains and on river banks, the one grown on mountains is famed as the best. Moreover, the higher it grows the better it is, and it is famed as having more juice and being more pleasant to the taste. Among the mountains where the Soma plant grows, the mountain named Mūjavat is famed, and is mentioned in many places in the Ṛgveda.
+
+### Printed p. 108
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒प॒स्थाय॑ मा॒तर॒मन्न॑मैट्ट ति॒ग्मम॑पश्यद॒भि सोम॒मूधः॑ ।  
+> प्र॒या॒वय॑न्नचर॒द्गत्सो॑ अ॒न्यान्म॒हानि॑ चक्रे पुरु॒धप्र॑तीकः ॥ ३ ॥
+
+> *upasthāya mātaramannamaiṭṭa tigmamapaśyadabhi somamūdhaḥ |*  
+> *prayāvayannacaradgatso anyānmahāni cakre purudhapratīkaḥ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपस्थाय । मातरं । अन्नं । ऐट्ट । तिग्मं । अपश्यत् । अभि । सोमं । ऊधः ।  
+> प्रयवयन् । अचरत् । गृत्सः । अन्यान् । महानि । चक्रे । पुरुध्रप्रतीकः ॥ ३ ॥
+
+> *upasthāya | mātaraṃ | annaṃ | aiṭṭa | tigmaṃ | apaśyat | abhi | somaṃ | ūdhaḥ |*  
+> *prayavayan | acarat | gṛtsaḥ | anyān | mahāni | cakre | purudhrapratīkaḥ ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो मातरमुपस्थाय प्रार्थयित्वान्नमैट्ट । तामन्नमयाचत ।
+> ईळिरध्येषणाकर्मति यास्कः । ततस्तस्या ऊध ऊधसि क्षीररूपेण स्थितं तिग्मं दीप्तं
+> सोममभ्य पश्यत् । सर्वतोऽदर्शत् । गृत्सः । अभिकांक्ष्यते सर्वैर्देवैः शत्रुहननार्थमिति गृत्स इंद्रः । अन्यान्सपत्नान्वयवयन् स्वस्वस्थानात्पकर्षणोच्चालयन्नचरत् । सर्वत्र चरति । किंच पुरुधप्रतीकस्तेजोयोगाद्बहुधा विक्षिप्तांगो
+> महानि महांति वृत्रहननादीनि कर्माणि चक्रे ॥ उपस्थाय । तिष्ठतेर्लपि घुमास्थेतीत्वे प्राप्ने न ल्यपीति प्रतिषेधः । लित्स्वरः । ऐट्ट । ईळिर्याच्छार्थः । तस्माल्लजि
+> रूपं । आडजादीनामित्याडागमः । ष्टुत्वं । निघातः । तिग्मं । तिज निशाने । अस्माद्युजिरुचितिजां कुश्चति मक्प्रत्ययः कवर्गादेशश्च । प्रयवयन् । यु मिश्रणामिश्रणयोरित्यस्यण्यंतस्य शतरि रूपं । लित्स्वरः । गृत्सः । गृधु अभिकांक्षायां ।
+> गृधिपण्योर्दका चेति सप्रत्ययो दकारश्चांतादेशः । वृषादित्वादाद्युदात्तः ।
+> पुरुधप्रतीकः । पुरुशब्द इह संख्यावाची । संख्याया विधार्थे धेति धाप्रत्ययः ।
+> ह्रस्वश्छांदसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Indra, approaching his mother, asked her for food (ऐट्ट (*aiṭṭa*)): he begged her for food. Yāska says that ईळि (*īḷi*) denotes the act of requesting. Then, in her udder, he saw all around the bright (तिग्मं (*tigmaṃ*)) Soma standing there in the form of milk. गृत्सः (*gṛtsaḥ*) is Indra, because he is desired by all the gods for the slaying of enemies. Driving the others, his rivals, away, dislodging them from their several places, he moved about everywhere. Further, being पुरुधप्रतीकः (*purudhapratīkaḥ*), with his limbs spread out in many ways through union with radiance, he performed great deeds such as the slaying of Vṛtra. (The rest of the block is grammatical.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- मातरं (*mātaraṃ*)—his mother
+- उपस्थाय (*upasthāya*)—having approached
+- अन्नं (*annaṃ*)—food
+- ऐट्ट (*aiṭṭa*)—he begged
+- ऊधः (*ūdhaḥ*)—that which is in her breast in the form of milk
+- तिग्मं (*tigmaṃ*)—bright
+- सोमं (*somaṃ*)—Soma
+- अभि अपश्यत् (*abhi apaśyat*)—he looked at fully
+- गृत्सः (*gṛtsaḥ*)—Indra, who is desired by the gods
+- अन्यान् (*anyān*)—enemies
+- प्रयवयन् (*prayavayan*)—driving them out of their several places
+- अचरत् (*acarat*)—moves about everywhere
+- पुरुधप्रतीकः (*purudhapratīkaḥ*)—spread everywhere in his form of radiance
+- महानि (*mahāni*)—very great deeds
+- चक्रे (*cakre*)—he performed
+
+### Printed p. 109
+
+##### भावार्थ (Bhāvārtha)
+
+Indra approached his mother and begged her for food. He looked fully at the bright Soma that was in her breast in the form of milk. Indra, who is desired by the gods, moves about everywhere driving the enemies out of their several places. Spread everywhere in his form of radiance, he performed very great deeds.
+
+##### English translation (H. H. Wilson)
+Approaching his mother he asked for food, and beheld the acrid Soma upon her bosom : eager he proceeds, dislodging the adversaries (of the gods) ; and, putting forth manifold (energy), he performed great (deeds).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described that Indra begged his mother for अन्न (*anna*) (food), and saw that the milk in her breast was in the form of Soma.
+
+ऐट्ट (*aiṭṭa*)—ईळिर्याच्चार्थः । (*īḷiryāccārthaḥ |*) ईळिरध्येषणाकर्मेति यास्कः । (*īḷiradhyeṣaṇākarmeti yāskaḥ |*) The meaning is: he desired, he begged.
+
+गृत्सः (*gṛtsaḥ*)—For the word गृत्सः (*gṛtsaḥ*), formed from the root गृधु अभिकांक्षायां (*gṛdhu abhikāṃkṣāyāṃ*), the commentator gives the etymological sense: अभिकांक्ष्यते सर्वैर्देवैः शत्रुहननार्थमिति गृत्स इंद्रः । (*abhikāṃkṣyate sarvairdevaiḥ śatruhananārthamiti gṛtsa iṃdraḥ |*) That is, since all the deities desire Indra for the work of destroying enemies, Indra is called Gṛtsa.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ग्रस्तु॑रा॒षाळ॒भिभू॑त्योजा यथाव॒शं त॒न्वं॑ चक्र ए॒षः ।  
+> त्वष्टा॑र॒मिंद्रो॑ ज॒नुषा॑भि॒भूया॒मुष्या॒ सोम॑मसिबच्च॒मूषु॑ ॥ ४ ॥
+
+> *ugrasturāṣāḷabhibhūtyojā yathāvaśaṃ tanvaṃ cakra eṣaḥ |*  
+> *tvaṣṭāramiṃdro januṣābhibhūyāmuṣyā somamasibaccamūṣu ‖ 4 ‖*
+
+### Printed p. 110
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उग्रः । तुराषाट् । अभिभूतिओजाः । यथावशं । तन्वं । चक्रे । विषः ।  
+> त्वष्टारं । इंद्रः । जनुषा । अभिभूय । आमुष्य । सोमं । अपिबत् । चमूषु ॥
+
+> *ugraḥ | turāṣāṭ | abhibhūtiojāḥ | yathāvaśaṃ | tanvaṃ | cakre | viṣaḥ |*  
+> *tvaṣṭāraṃ | iṃdraḥ | januṣā | abhibhūya | āmuṣya | somaṃ | apibat | camūṣu ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य एष इंद्र उग्रः शत्रोणां भयंकरस्तुराषाट् त्वरया शत्रोणामभिभविता
+> अत एवाभिभूत्योजाः शत्रोणामभिभवनपराक्रमोपेतः सन् तन्वमात्मीयं शरीरं
+> यथावशं यथाकामं नानाधिरूपोपेतं चक्रे । तथा च मंत्रवर्णः । रूपंरूपं मघना बोभवीति । ऋग्वे. ३-५३-८ । इति स इंद्रो जनुषा जन्मना सामर्थ्येन त्वष्टारं त्वष्टृनामकमसुरमभिभूय चमूषु चमसेषु स्थितमामुष्य
+> चोरयित्वा सोममपिबत् । त्वष्टा हतपुत्रो वींद्रमित्यादि प्रासहा सोममपिबत्। तै. सं. २-४-१२। इति तैत्तिरीयकं॥ तुराषाट् । इत्वरा संभ्रमे । क्विप् । ज्वरत्वरेत्यादिना ऊट् । सहेश्छंदसि सह इति ण्णिः । कर्तृकरणे कृता बहुलमिति समासः ।
+> तत्पुरुषे कृति बहुलमिति तृतीयाया अलुक् । सहेः साडः स इति षत्वं । कृदुत्तरपदस्वरः । यथावशं । वशं काममनतिक्रम्येत्यव्ययीभावसमासः । समासस्वरः ।
+> आमुष्य । मुष स्तेये । ल्यप् । चमूषु । चमु अदने । कृषिचमितनिधनिसर्जिखर्जिभ्य ऊरित्यूप्रत्ययः । प्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this Indra is उग्रः (*ugraḥ*), terrible to enemies; तुराषाट् (*turāṣāṭ*), one who overcomes enemies with speed; hence अभिभूत्योजाः (*abhibhūtyojāḥ*), endowed with the might to overpower enemies. Being so, he made (चक्रे (*cakre*)) his own body यथावशं (*yathāvaśaṃ*), according to his wish, endowed with many kinds of forms. So too there is a mantra text: रूपंरूपं मघना बोभवीति (*rūpaṃrūpaṃ maghanā bobhavīti*) (Ṛgveda 3-53-8). That Indra, जनुषा (*januṣā*), by birth, that is, by his native power, overcame the Asura named Tvaṣṭṛ, stole the Soma lying in the ladles (चमूषु (*camūṣu*), that is, in the cups), and drank it. The Taittirīya text says: त्वष्टा हतपुत्रो वींद्रमित्यादि प्रासहा सोममपिबत्। (*tvaṣṭā hataputro vīṃdramityādi prāsahā somamapibat|*) (Tai. Saṃ. 2-4-12). (The rest of the block is grammatical.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः (*eṣaḥ*)—this Indra
+- उग्रः (*ugraḥ*)—being terrible
+- तुराषाट् (*turāṣāṭ*)—one who defeats enemies
+- अभिभूत्योजाः (*abhibhūtyojāḥ*)—possessing the brilliance that conquers enemies
+- तन्नं (*tannaṃ*)—his body
+- यथावशं (*yathāvaśaṃ*)—as he pleased
+- चक्रे (*cakre*)—he changed
+- इंद्रः (*iṃdraḥ*)—that same Indra
+- जनुषा (*januṣā*)—by his natural power
+- त्वष्टारं (*tvaṣṭāraṃ*)—the Asura named Tvaṣṭṛ
+- अभिभूय (*abhibhūya*)—having defeated
+- चमूषु (*camūṣu*)—that was in the ladle-vessel
+- सोमं (*somaṃ*)—the Soma
+- आमुष्य (*āmuṣya*)—having carried off
+- अपिबत् (*apibat*)—drank
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra, being terrible, a defeater of enemies, and possessed of the brilliance that conquers enemies, changed his body as he pleased. That same Indra, by his natural power, defeated the Asura named Tvaṣṭṛ, carried off the Soma that was in the ladle-vessel, and drank it.
+
+### Printed p. 111
+
+##### English translation (H. H. Wilson)
+Fierce, rapid in assault, of overpowering strength, he made his form obedient to his will; having overcome Twashtri by his innate (vigour), and carried off the Soma juice, he drank it (deposited) in the ladles.
+
+##### विशेषविषयगळु (Special Topics)
+
+तुराषाट् (*turāṣāṭ*)—त्वरया शत्रूणामभिभवता । (*tvarayā śatrūṇāmabhibhavatā |*) Because he defeats enemies very quickly, Indra has the name तुराषाट् (*turāṣāṭ*).
+
+अभिभूत्योजाः (*abhibhūtyojāḥ*)—शत्रुणामभिभवनपराक्रमोपेतः । (*śatruṇāmabhibhavanaparākramopetaḥ |*) The meaning is that Indra is endowed with the greatest prowess for defeating enemies. That is why the epithet उग्रः (*ugraḥ*), "terrible to enemies", is stated here.
+
+यथावशं तन्नं चक्रे एषः (*yathāvaśaṃ tannaṃ cakre eṣaḥ*)—तन्नमात्मीयं शरीरं यथाकामं नानाविधरूपोपेतं चक्रे । (*tannamātmīyaṃ śarīraṃ yathākāmaṃ nānāvidharūpopetaṃ cakre |*) Since Indra is capable of taking on, in order to defeat enemies, the various forms that he likes, it is said here that at the time of destroying enemies he assumes whatever form (shape) he pleases. On this matter:
+
+रूपंरूपं मघवा बोभवीति मायाः कृण्वानस्तन्वं परि स्वां । (*rūpaṃrūpaṃ maghavā bobhavīti māyāḥ kṛṇvānastanvaṃ pari svāṃ |*)
+रूपंरूपं प्रतिरूपो बभूव तदस्य रूपं प्रतिचक्षणाय । इंद्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥ (*rūpaṃrūpaṃ pratirūpo babhūva tadasya rūpaṃ praticakṣaṇāya | iṃdro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*)
+(Ṛ. Saṃ. 6-47-18)
+
+In Ṛks such as these it is said that, in order to conquer the Asuras who are masters of illusion, Indra assumes whatever forms he needs.
+
+Regarding Indra overcoming Tvaṣṭṛ, carrying off the Soma in the ladles and drinking it: स इंद्रो जन्मना सामर्थ्येन त्वष्टनामकमसुरमभिभूय अस्य चमसपात्रेषु स्थितं सोमं चोरयित्वापिबत् । (*sa iṃdro janmanā sāmarthyena tvaṣṭanāmakamasuramabhibhūya asya camasapātreṣu sthitaṃ somaṃ corayitvāpibat |*) That Indra, by his own power, defeated the Asura named Tvaṣṭṛ, stole the Soma that Tvaṣṭṛ had placed in the ladle-vessels so that he might drink it, and drank it himself. Here Tvaṣṭṛ is described as an Asura. But this Tvaṣṭṛ is one of the Prajāpatis and the architect of the gods, and there are plenty of Ṛks in the Ṛgveda praising him. However, his son named Viśvarūpa, though priest to the gods, favoured the Asuras; therefore his father Tvaṣṭṛ too is called an Asura here. On this matter the commentator has given an itihāsa from the Taittirīya Saṃhitā as an example—
+
+### Printed p. 112
+
+त्वष्टा हतपुत्रो वींद्रग्ं सोममाहरत्तस्मिन्निंद्र उपहवमैच्छत तन्नोपाह्वयत पुत्रं मेऽवधीरिति स यज्ञवेशसं तृत्वा प्रासहा सोममपिबत्तस्य यदत्यशिष्यत तत्त्वष्टाहवनीयमुप प्रावर्तयत्स्वाहेंद्रशत्रुर्वर्धस्वेति । (*tvaṣṭā hataputro vīṃdragṃ somamāharattasminniṃdra upahavamaicchata tannopāhvayata putraṃ me 'vadhīriti sa yajñaveśasaṃ tṛtvā prāsahā somamapibattasya yadatyaśiṣyata tattvaṣṭāhavanīyamupa prāvartayatsvāheṃdraśatrurvardhasveti |*)
+(Tai. Saṃ. 2-4-12-1)
+
+The Prajāpati Tvaṣṭṛ had a son named Viśvarūpa. Indra killed him for a certain reason. Enraged at this, Tvaṣṭṛ wished for a son who would kill Indra, and began to perform a sacrifice. But in that sacrifice, out of anger at Indra, that is, out of anger that he had killed his son, he did not invite Indra to the sacrifice and did not give him the Soma-drink. Indra, enraged at this, created an obstacle to his sacrifice and forcibly drank the Soma juice that was there. Unable to bear this, Tvaṣṭṛ poured the remainder of the Soma that Indra had left after drinking into the Āhavanīya fire and wished for a son who would kill Indra; and so on. The commentator has explained the meaning thus: what is stated here is the very matter of Indra's forcibly drinking the Soma.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नं हु॑वेनु म॒घवा॑न॒मिंद्र॑म॒स्मिन्फरे॒ नृत॑मं॒ वाज॑सात् ।  
+> शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राण॑ सं॒जितं॒  ॑
+> धनानां ॥ ५ ॥
+
+> *śunaṃ huvenu maghavānamiṃdramasminphare nṛtamaṃ vājasāt |*  
+> *śṛṇvaṃtamugramūtaye samattu ghnaṃtaṃ vṛtrāṇa saṃjitaṃ*  
+> *dhanānāṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । हुवेम । मघवानं । इंद्रं । आस्मिन् । भरे । नृतमं । वाजसात् ।  
+> शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+> *śunaṃ | huvema | maghavānaṃ | iṃdraṃ | āsmin | bhare | nṛtamaṃ | vājasāt |*  
+> *śṛṇvaṃtaṃ | ugraṃ | ūtaye | samatsu | ghnaṃtaṃ | vṛtrāṇi | saṃjitaṃ | dhanānāṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वाजसात् । वाजस्यान्नस्य सातिर्लाभो यस्मिन् सोऽयं वाजसातिः।
+> अस्मिन्भरे । बिभ्रति जयलक्ष्मीमनेन योद्धार इति भरः संग्रामः । तस्मिन् संग्रामे
+> शुनं शूनमुत्साहेन प्रवृद्धं । यद्वा शुनमिति सुखनाम । सुखकरं शुघवानं
+> धनवंतं अत एवेंद्रं निरतिशयैश्वर्यसंपन्नं नृतमं सर्वस्य जगतोऽतिशयेन
+> नेतारं त्वां हुवेम । कुशिका वयं यज्ञार्थमाह्वयेम । तथा शृण्वंतमस्माभिः
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: "O Indra, वाजसात् (*vājasāt*): that in which there is साति (*sāti*), gain, of वाज (*vāja*), food, is वाजसाति (*vājasāti*). भरे (*bhare*): since warriors bear (बिभ्रति (*bibhrati*)) the fortune of victory by it, भर (*bhara*) is battle. In this battle we call you, शुनं (*śunaṃ*), swollen, grown strong through zeal. Or else शुनं (*śunaṃ*) is a name for happiness: one who gives happiness. You are मघवानं (*maghavānaṃ*), possessed of wealth, hence Indra, endowed with unsurpassed lordship, and नृतमं (*nṛtamaṃ*), in the highest degree the leader of the whole world. We, the Kuśikas, would call you for the sacrifice. Likewise, hearing the praise made by us…" (the sentence continues on the next page).
+
+### Printed p. 113
+
+> क्रियमाणां स्तुतिं शृण्वंतमुग्रं शत्रूणां भयंकरं समत्तु संग्रामेषु वृत्राणि
+> वृत्रोपलक्षितानि सर्वाणि रक्षांसि घ्नंतं हिंसंतं धनानां शत्रुसंबंधिनां संजितं
+> सम्यग्वेतारं त्वामूतये रक्षणाय वयमाह्वयेम ॥ शुनं । टुओश्वि गतिवृद्ध्योरित्यस्य निष्ठायां यस्य विभाषेतीट् प्रतिषेधः । यजादित्वात्संप्रसारणं । दीर्घाभावश्चांदसः । प्रत्ययस्वरः । हुवेम । ह्ययतेर्बहुलं छंदसीति संप्रसारणे कृते
+> शपो लुकि कृते च लिङ् रूपं । निघातः । भरे । भृञ् भरणे । घः । वृषादित्वादाद्युदात्तः । वाजसात् । षणु दाने । भावे क्तिन् । जनसनेत्यादिनानुनासिकस्यात्वं ।
+> बहुव्रीहौ पूर्वपवस्वरः । समत्तु । अद भक्षणे । संपूर्वात् क्विप् । संभक्षयंति
+> योद्धणामायूंषीति समदः संग्रामाः । कृदुत्तरपदस्वरः । घ्नंतं । हन हिंसागत्योरित्यस्य शतरि गमहनेत्यादिनोपधालोपः । हो हंतेरिति घत्वं । संजितं ।
+> जि जये । क्विप् ॥
+
+##### Gist of the bhāṣya
+
+(The sentence continues:) …"fierce, terrible to enemies; समत्तु (*samattu*), in battles, slaying (घ्नंतं (*ghnaṃtaṃ*)) all the demons that are marked by Vṛtra; and a thorough conqueror (संजितं (*saṃjitaṃ*)) of the wealth (धनानां (*dhanānāṃ*)) that belongs to enemies: we call you, for protection (ऊतये (*ūtaye*))." (The remainder of the block is grammatical. It also explains समत्सु (*samatsu*) as follows: they thoroughly devour the lives of warriors, therefore समदः (*samadaḥ*) are battles.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वाजसात् (*vājasāt*)—which proceeds for the sake of food
+- भरे (*bhare*)—in battle
+- शुनं (*śunaṃ*)—one who increases through zeal, or one who produces happiness
+- मघवानं (*maghavānaṃ*)—wealthy
+- इंद्रं (*iṃdraṃ*)—endowed with unsurpassed wealth
+- नृतमं (*nṛtamaṃ*)—the leader: you
+- हुवेम (*huvema*)—we call, praying
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—one who listens to (our praises)
+- उग्रं (*ugraṃ*)—terrible to enemies
+- समत्तु (*samattu*)—in battles
+- वृत्राणि (*vṛtrāṇi*)—the Asuras beginning with Vṛtra
+- घ्नंतं (*ghnaṃtaṃ*)—one who strikes and destroys
+- धनानां (*dhanānāṃ*)—the wealth (of enemies)
+- संचितं (*saṃcitaṃ*)—you who gather it and give it (to us) **NOTE**
+- ऊतये (*ūtaye*)—for protection
+- (हुवेम (*huvema*)—we call, praying)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the battle that proceeds for the sake of food, you who give happiness, are wealthy, endowed with unsurpassed wealth, are the leader, listen to our praises, are terrible to enemies, strike and destroy in battles the Asuras beginning with Vṛtra, and gather and give us the wealth of the enemies: we call you, praying, for protection.
+
+##### English translation (H. H. Wilson)
+We invoke for our protection the opulent Indra, distinguished in this combat, the leader in the food-bestowing (strife), hearing (our praises), terrible in battles, the destroyer of foes, the conqueror of wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+The special topics of this Ṛk have already been explained earlier.
+
 ---
 
-**Progress note:** Done through printed p. 106. pp. 101-106 (batch API)
+**Progress note:** Done through printed p. 113. pp. 107-113 (batch API, retry 1)
