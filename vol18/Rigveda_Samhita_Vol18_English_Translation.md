@@ -32048,6 +32048,290 @@ Men have established you. (Agni), their ancient guest, as the lord of the house 
 
 When fires have come into contact with one another, there is an iṣṭi for Agni Vivici; in it *tvāmagne mānuṣīḥ* is the yājyā. The sūtra says: त्वामग्नेमानुषीरीळते विशोग्न आयाहि वीतये (*tvāmagnemānuṣīrīḷate viśogna āyāhi vītaye*) (Ā. 3-13). O Agni, सुभग (*subhaga*) (of fair wealth), all the human people (मानुषीर्विशो (*mānuṣīrviśo*)) praise you. What sort of you? होत्राविदं (*hotrāvidaṃ*): knower of the offerings, or of those with seven hotṛs; विविचिं (*viviciṃ*): discriminator of the existent and the non-existent; रत्नधातमं (*ratnadhātamaṃ*): the greatest giver of delightful riches; गुहा संतं (*guhā saṃtaṃ*): being always in the cave, the forest, or in hearts; विश्वदर्शतं (*viśvadarśataṃ*): to be seen by all; तुविष्टणसं (*tuviṣṭaṇasaṃ*): of abundant sound; सुयजं (*suyajaṃ*): a good sacrificer; धृतश्रियं (*dhṛtaśriyaṃ*): धृतं श्रयंतं (*dhṛtaṃ śrayaṃtaṃ*) (the text ends here in this window).
 
+### Printed p. 845
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुभग (*subhaga*)—O possessor of excellent wealth
+- अग्ने (*agne*)—O Agni
+- होत्राविदं (*hotrāvidaṃ*)—the one who knows the nature of the offered oblations
+- विविचिं (*viviciṃ*)—the one who has discriminating knowledge of what is and is not
+- रत्नधातमं (*ratnadhātamaṃ*)—the giver of delightful wealth
+- गुहा संतं (*guhā saṃtaṃ*)—the one who dwells in the cave in the form of the araṇi (or in the cave in the form of the heart)
+- विश्वदर्शतं (*viśvadarśataṃ*)—the one visible to all
+- तुविष्टणसं (*tuviṣṭaṇasaṃ*)—the one with abundant sound
+- सुयजं (*suyajaṃ*)—the one who sacrifices exceedingly well
+- घृतश्रियं (*ghṛtaśriyaṃ*)—the one who rests on ghee
+- त्वां (*tvāṃ*)—you
+- मानुषीः विशः (*mānuṣīḥ viśaḥ*)—all the human-form people
+- ईळते (*īḷate*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, possessor of excellent wealth, all the human-form people praise you, who know the nature of the oblations offered, who have discriminating knowledge of what is and is not, who are the giver of delightful wealth, who dwell in the cave in the form of the araṇi (or the heart), who are visible to all, who have abundant sound, who sacrifice exceedingly well, and who rest on ghee.
+
+##### English translation (H. H. Wilson)
+Human beings glorify you, Agni, the appreciator of burnt-offerings
+the discriminator (of truth), the most liberal giver of precious (things),
+abiding (awhile), auspicious one, in secret, (at other times) visible to all ;
+loud sounding, offering worship, thriving upon clarified butter.
+
+##### विशेषविषयगळु (Special Topics)
+
+If, in a sacrifice, one fire comes into contact with another fire, an iṣṭi must be performed addressed to the fire called Vivici. In that iṣṭi this Ṛk, त्वामग्ने मानुषीः (*tvāmagne mānuṣīḥ*), is to be recited as the yājyā mantra. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra त्वामग्ने मानुषीरीळते विशोऽग्न आयाहि वीतये (*tvāmagne mānuṣīrīḷate viśo 'gna āyāhi vītaye*) (Ā. 3-13).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने धर्ण॒सिं वि॒श्वधा॑ व॒यं गी॒र्भिर्गृ॒णंतो॒ नम॒सोप॑  
+> सेदिमु ।  
+> स नो॑ जुषस्व समिधा॒नो अं॑गिरो दे॒वो मर्त॑स्य य॒शसा॑  ॒॑
+> सुदीतिभिः ॥ ४ ॥
+
+> *tvāmagne dharṇasiṃ viśvadhā vayaṃ gīrbhirgṛṇaṃto namasopa*  
+> *sedimu |*  
+> *sa no juṣasva samidhāno aṃgiro devo martasya yaśasā*  
+> *sudītibhiḥ ‖ 4 ‖*
+
+### Printed p. 846
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । धर्णसिं । विश्वधा । वयं । गीःभिः । गृणंतः । नमसा । उप । सेदिम ।  
+> सः । नः । जुषस्व । संइधानः । अंगिरः । देवः । मर्तस्य । यशसा । सुदीतिभिः ॥ ४ ॥
+
+> *tvāṃ | agne | dharṇasiṃ | viśvadhā | vayaṃ | gīḥbhiḥ | gṛṇaṃtaḥ | namasā | upa | sedima |*  
+> *saḥ | naḥ | juṣasva | saṃidhānaḥ | aṃgiraḥ | devaḥ | martasya | yaśasā | sudītibhiḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने धर्णसिं सर्वस्य धारकं त्वां वयमात्रेया वा विश्वधा बहुप्रकारेण
+> गीर्भिर्गृणंतः स्तुवंतो नमसा नमस्कारेणोप सेदिम । उपसन्ना भवेम । स त्वं
+> नोऽस्मान् जुषस्व । सेवस्व धनादिभिः । समिधानः सम्यग्दीपो दीप्यमानोऽस्माभिर्हे अंगिरः सर्वत्र गंतरंगिरसः पुत्र पा देवो दीप्यमानस्त्वं मर्तस्य यजमानस्य
+> यशसा सुदीतिभिर्ज्वालाभिः सह जुषस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who support everything: we, the Ātreyas, praising you in many ways with hymns, approach you with homage. Do you favour us, serve us with wealth and the like. Being well kindled by us, O Aṅgiras (the one who goes everywhere; the son of Aṅgiras) **NOTE**, being the shining god, favour us together with the bright flames of the mortal, the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- धर्णसिं (*dharṇasiṃ*)—the supporter of all
+- त्वां (*tvāṃ*)—you
+- वयं (*vayaṃ*)—we
+- विश्वधा (*viśvadhā*)—in many ways
+- गीर्भिः (*gīrbhiḥ*)—with hymns
+- गृणंतः (*gṛṇaṃtaḥ*)—praising
+- नमसा (*namasā*)—and with homage
+- उप सेदिम (*upa sedima*)—we approach
+- समिधानः (*samidhānaḥ*)—the one well kindled
+- अंगिरः (*aṃgiraḥ*)—the son of Aṅgiras
+- देवः (*devaḥ*)—the one whose nature is divine
+- सः (*saḥ*)—you
+- मर्तस्य (*martasya*)—of the man (the sacrificer)
+- यशसा (*yaśasā*)—shining
+- सुदीतिभिः (*sudītibhiḥ*)—with the flames
+- नः (*naḥ*)—us
+- जुषस्व (*juṣasva*)—favour
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we approach you, the supporter of all, praising you in many ways with hymns and with homage. You who are well kindled, the son of Aṅgiras, of divine nature, favour us together with the sacrificer's shining flames.
+
+##### English translation (H. H. Wilson)
+We approch you, all-sustaining Agni, adoring you in many ways with hymns and with prostrations: do you. Angiras, when kindled, be propitious to us : may the divine (Agni be pleased) by the (sacrificial) food (offered by the) worshipper, and by the bright flames (of his sacrifice)
+
+### Printed p. 847
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने पुरु॒रूपो॑ वि॒शेवि॑शे॒ वयो॑ दधासि प्र॒त्नथा॑ पुरुष्टुत ।  
+> पु॒रुण्यन्ना॒ सह॑सा॒ वि रा॑जसि॒ त्वषिः॒ सा ते॑ तित्विषा॒णस्य॒ नाधृषे॑ ॥
+
+> *tvamagne pururūpo viśeviśe vayo dadhāsi pratnathā puruṣṭuta |*  
+> *puruṇyannā sahasā vi rājasi tvaṣiḥ sā te titviṣāṇasya nādhṛṣe ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । पुरुरूपः । विशेऽविशे । वयः । दधासि । पुत्था । पुरुस्तुत ।  
+> पुरूणि । अन्ना । सहसा । वि । राजसि । त्विषिः । सा । ते । तित्विषाणस्य । न । आधृषे ॥ ५ ॥
+
+> *tvaṃ | agne | pururūpaḥ | viśe 'viśe | vayaḥ | dadhāsi | putthā | purustuta |*  
+> *purūṇi | annā | sahasā | vi | rājasi | tviṣiḥ | sā | te | titviṣāṇasya | na | ādhṛṣe ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं पुरुरूपः सन् विशे विशे सर्वस्मै यजमानाय प्रत्नथा पुराण
+> इव वयोऽन्नं दधासि । धारयसि । हे पुरुष्टुत बहुभिः स्तुत्य पुरूणि बहून्यन्नान्नानि चरुपुरोडाशादीनि सहसा बलेन वि राजसि । ईश्वरो भवसि स्वीकर्तुं । तित्विषाणस्य दीप्तस्य ते तव सा प्रसिद्धा त्वषिर्दिप्तिर्नाधृषे । अन्वैरधृष्या भवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being of many forms, you hold food for every sacrificer, as of old. O you who are praised by many, you rule by your strength over many foods, the caru, puroḍāśa and the like; you are lord to receive them. Of you who are blazing, that well-known splendour is not to be overcome; it is unassailable by others. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—O one praised by many
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- पुरुरूपः (*pururūpaḥ*)—being of many forms
+- विशे विशे (*viśe viśe*)—for all sacrificers
+- प्रत्नथा (*pratnathā*)—ancient
+- वयः (*vayaḥ*)—food
+- दधासि (*dadhāsi*)—you hold
+- सहसा (*sahasā*)—by your strength
+- पुरूणि अन्ना (*purūṇi annā*)—over many kinds of food
+- वि राजसि (*vi rājasi*)—you are lord
+- तित्विषाणस्य (*titviṣāṇasya*)—of the one who is shining
+- ते (*te*)—your
+- सा (*sā*)—that well-known
+- त्रिषिः (*triṣiḥ*)—splendour
+- नाधृषे (*nādhṛṣe*)—is not resisted by anyone
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, praised by many, being of many forms you hold ancient food for all sacrificers. By your strength you are lord over foods of many kinds. Your well-known splendour, as you shine, is resisted by no one.
+
+##### English translation (H. H. Wilson)
+Agni, the praised of many, you who are multiform, give of old to every mortal; you reign with strength over the various (sacrificial) viands; the splendour of you when blazing brightly is not rivalled (by any).
+
+### Printed p. 848
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने समिधा॒नं य॑विष्ठ्य दे॒वा दू॒तं च॑क्रिरे हव्य॒वाह॑नं।  
+> उ॒रु॒ज्रय॑सं घृ॒तयो॑नि॒माहु॑तं त्वे॒षं चक्षु॑र्दधिरे चोद॒यन्म॑ति ॥ ६ ॥
+
+> *tvāmagne samidhānaṃ yaviṣṭhya devā dūtaṃ cakrire havyavāhanaṃ|*  
+> *urujrayasaṃ ghṛtayonimāhutaṃ tveṣaṃ cakṣurdadhire codayanmati ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । संइधानं । यविष्ठ्य । देवाः । दूतं । चक्रिरे । हव्यवाहनं ।  
+> उरुज्रयसं । घृतयोनिं । आहुतं । त्वेषं । चक्षुः । दधिरे । चोदयत्मति॥
+
+> *tvāṃ | agne | saṃidhānaṃ | yaviṣṭhya | devāḥ | dūtaṃ | cakrire | havyavāhanaṃ |*  
+> *urujrayasaṃ | ghṛtayoniṃ | āhutaṃ | tveṣaṃ | cakṣuḥ | dadhire | codayatmati‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्य युवतमाग्ने समिधानं सम्यगिध्यमानं त्वां हव्यवाहनं
+> हविषां वोढारं दूतं चक्रिरे । कृतवंतो देवाः । त्रयाणामग्नीनां मध्ये
+> हव्यवाहनः खलु पूर्वं देवैर्हनिर्वहनाय दूतः कृतः । हव्यवाहनो देवानां।
+> तै. सं. २-५-८-६ । इति हि श्रुतिः । किंच उरुज्रयसं प्रभूतवेगं धृतयोनिं ।
+> धृतं योनिः कारणं यस्य तं । आहुतं त्वां चोदयन्मति । चोदयंती
+> मतिर्यस्य तच्चोदयन्मति । त्वेषं दीप्तं चक्षुरुक्तलक्षणं सर्वप्रकाशकं चक्षुःस्थानीयं कृत्वा दधिरे देवा मनुष्याश्च । मत्ता हि चक्षुश्चोद्यते ॥
+
+##### Gist of the bhāṣya
+
+O youngest Agni, the gods have made you, who are being well kindled, the bearer of oblations, their messenger. Among the three fires, it was the Havyavāhana that the gods first made messenger to carry the oblation. The śruti says: हव्यवाहनो देवानां (*havyavāhano devānāṃ*) (Tai. Saṃ. 2-5-8-6). Further: you of abundant speed, ghṛtayoni, that is, one whose source (yoni) is ghee; you who are invoked; "codayanmati" means the one whose intellect urges. The gods and men have taken the bright eye, which has the stated characteristic and illuminates all, making you stand in the place of the eye. For the eye is impelled by the mind. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्य (*yaviṣya*)—O extremely young one
+- अग्ने (*agne*)—O Agni
+- समिधानं (*samidhānaṃ*)—the one kindled
+- त्वां (*tvāṃ*)—you
+- देवाः (*devāḥ*)—the gods
+- हव्यवाहनं (*havyavāhanaṃ*)—the bearer of oblation
+- दूतं (*dūtaṃ*)—as messenger
+- चक्रिरे (*cakrire*)—have made
+- उरुज्रयसं (*urujrayasaṃ*)—the one of abundant speed
+- घृतयोनिं (*ghṛtayoniṃ*)—the one who has ghee as womb
+- आहुतं (*āhutaṃ*)—the one to whom oblation is offered, you
+- त्वेषं (*tveṣaṃ*)—the shining
+- चेदयन्मति (*cedayanmati*)—the one impelled by knowledge
+- चक्षुः (*cakṣuḥ*)—in the form of the (universal) eye
+- दधिरे (*dadhire*)—have held
+
+##### भावार्थ (Bhāvārtha)
+
+O extremely young Agni, the gods have made you, who are kindled and called to the sacrifice, their messenger who carries the oblation. You who are of abundant speed, who have ghee as womb, to whom the oblation is offered, they have held as the shining universal eye, impelled by knowledge.
+
+### Printed p. 849
+
+##### English translation (H. H. Wilson)
+Agni, youngest (of the deities), the gods have made you, when kindled, their messenger, the bearer of oblations; you, who are rapid in movement, and of whom butter is the source, they have made, when invoked, the brilliant eye (of the universe), instigated by the understanding.
+
+##### विशेषविषयगळु (Special Topics)
+
+देवा दूतं चक्रिरे हव्यवाहं (*devā dūtaṃ cakrire havyavāhaṃ*)—the meaning is that the gods made Agni, the carrier of the oblation, their messenger. On this point the commentator has quoted a passage of the Taittirīya Saṃhitā:
+त्रयो वा अग्नयो हव्यवाहनो देवानां कव्यवाहनः पितृणाग्ं सहरक्षा असुराणां त एतह्यारग्‌ंसंते मां वरिष्यते मां वृणीध्वग्ं हव्यवाहनमित्याह ॥ (*trayo vā agnayo havyavāhano devānāṃ kavyavāhanaḥ pitṛṇāgṃ saharakṣā asurāṇāṃ ta etahyāragṃsaṃte māṃ variṣyate māṃ vṛṇīdhvagṃ havyavāhanamityāha ‖*) (Tai. Saṃ. 2-5-8-6)
+There are three kinds of fire. The first is the fire that carries the oblation to the gods; its name is Havyavāhana. The second is named Kavyavāhana; this fire carries the kavya to the Pitṛs. The third fire, being the protector in sacrificial acts and the like so that no harm comes from the Asuras, is named Saharakṣa. Among these three fires, the gods made the fire called Havyavāhana their messenger, to carry the oblation to them; so Agni himself says in this passage.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने प्र॒दिव॒ आहु॑तं घृ॒तैः सु॑म्ना॒यवः॑ सुष॒मिधा॒ समी॑धिरे ।  
+> स वा॑नृधा॒न ओष॑धीभिरुक्षि॒तो॒३॒॑ ३भि ज्रयां॑सि॒ पार्थि॑वा॒ वि  ॑
+> तिष्ठसे ॥ ७ ॥
+
+> *tvāmagne pradiva āhutaṃ ghṛtaiḥ sumnāyavaḥ suṣamidhā samīdhire |*  
+> *sa vānṛdhāna oṣadhībhirukṣito 3bhi jrayāṃsi pārthivā vi*  
+> *tiṣṭhase ‖ 7 ‖*
+
+### Printed p. 850
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वां । अग्ने । प्रदिवः । आहुतं । धृतैः । सुम्नयवः । सुसमिधा । सं । ईधिरे ।  
+> सः । ववृधानः । ओषधीभिः । उक्षितः । अभि । ज्रयांसि । पार्थिवा । वि । तिष्ठसे ॥ ७ ॥
+
+> *śvāṃ | agne | pradivaḥ | āhutaṃ | dhṛtaiḥ | sumnayavaḥ | susamidhā | saṃ | īdhire |*  
+> *saḥ | vavṛdhānaḥ | oṣadhībhiḥ | ukṣitaḥ | abhi | jrayāṃsi | pārthivā | vi | tiṣṭhase ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने घृतैराहुतं त्वां प्रदिवः पुरातनाः सुम्नायवः सुखमिच्छंतो
+> यजमानाः सुषमिधा शोभनेनेध्मेन समाधिरे । सम्यक् दीपितवंतः । स त्वं
+> वावृधानो वर्धमान ओषधीभिरुक्षितः सिक्तो ब्रयांस्यन्नानि पार्थिवा पार्थिवान्वृक्षान् । यद्वा । पार्थिवेति ज्रयोविशेषणं । पार्थिवानि चरुपुरोडाशादिकान्यभि वि
+> शिष्ठसे । अभिव्यज्य वर्तसे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are offered with ghee: the ancient sacrificers, desiring happiness (sumnāyu), have kindled you well with good fuel. You, so increasing and sprinkled with herbs, stand over (abhi vi tiṣṭhase) the foods (jrayāṃsi), the earthly ones, that is, the earthly trees. Or else: "pārthiva" is an epithet of jraya, and you stand over the earthly things, the caru, puroḍāśa and the like, that is, you abide manifesting yourself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- धृतैः (*dhṛtaiḥ*)—with ghee
+- आहुतं (*āhutaṃ*)—offered
+- त्वां (*tvāṃ*)—you
+- प्रदिवः (*pradivaḥ*)—ancient
+- सुम्नायवः (*sumnāyavaḥ*)—and desirous of happiness, the sacrificers
+- सुषमिधा (*suṣamidhā*)—with excellent fuel
+- समाधिरे (*samādhire*)—have fully kindled
+- सः (*saḥ*)—such you
+- ओषधीभिः (*oṣadhībhiḥ*)—with herbs
+- उक्षितः (*ukṣitaḥ*)—sprinkled
+- वावृधानः (*vāvṛdhānaḥ*)—and having grown
+- पार्थिवा (*pārthivā*)—that are on earth
+- ज्रयांसि (*jrayāṃsi*)—over all foods
+- अभि वि तिष्ठसे (*abhi vi tiṣṭhase*)—you stand as lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the ancient sacrificers, desirous of happiness, have kindled you, to whom ghee is offered, with excellent fuel. Thus you, increased by food in the form of herbs, are lord over all foods that are on earth.
+
+##### English translation (H. H. Wilson)
+The ancient seekers after happiness have kindled you, Agni, when invoked, (and fed you) with abundant fuel; and you(thereby) increasing, and supplied with shrubs, are dominant over all terrestrial viands.
+
+### Printed p. 851
+
+May Maheśvara, the Vidyātīrtha, dispelling the darkness of the heart by the light of the meaning of the Veda, bestow the four human aims.
+
+Thus ends the eighth adhyāya of the third aṣṭaka in the Ṛksaṃhitā-bhāṣya, the Mādhavīya Vedārtha-prakāśa, composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious king Vīra Bukka, supreme lord of kings and promoter of the Vedic path. Om, tat sat.
+
+Here ends the eighth adhyāya in the third aṣṭaka of the Ṛgveda Saṃhitā, with the commentary of Śrī Sāyaṇa and a Kannada translation.
+
+Whatever is lost of syllable or word, or is deficient in measure, let all that be forgiven, O God, Lord of Speech; salutation to you. May there be auspiciousness. Maṅgaḷaṃ.
+
 ---
 
-**Progress note:** Done through printed p. 844. pp. 839-844 (batch API)
+**Progress note:** Done through printed p. 851. pp. 845-851 (batch API)
