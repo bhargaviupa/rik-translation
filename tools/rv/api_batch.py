@@ -29,7 +29,7 @@ Answer with exactly this and nothing else:
 <kn_fix>
 [{"old": "exact text that occurs once in kn.md", "new": "replacement"}]
 </kn_fix>
-Give <kn_fix> only when the structure of kn.md is wrong (a verse standing as plain lines must become a `> ` block under its standard label; Kannada prose must not be inside a block; a wrong or garbled label; a missed running head needs `<!-- printed N -->` + the head line). Letters and digits are never changed in a fix. Block numbers [[bN]] in your <en> must be those of kn.md AFTER your fixes are applied (blocks counted from 1 in order of appearance). If a picture is attached, it is the `[figure: …]` of kn.md: if it only repeats a verse block that kn.md already has, remove the figure line with a fix and say so in an italic note; otherwise write its verse into kn.md with a fix, letter by letter in Kannada script.
+Give <kn_fix> only when the structure of kn.md is wrong (a verse standing as plain lines must become a `> ` block under its standard label; Kannada prose must not be inside a block; a wrong or garbled label; a missed running head needs `<!-- printed N -->` + the head line). Letters and digits are never changed in a fix. A page that prints no number of its own, or whose head the script missed, gets its marker by a fix; write its `### Printed p. N` heading in <en>. Block numbers [[bN]] in your <en> must be those of kn.md AFTER your fixes are applied (blocks counted from 1 in order of appearance). If a picture is attached, it is the `[figure: …]` of kn.md: if it only repeats a verse block that kn.md already has, remove the figure line with a fix and say so in an italic note; otherwise write its verse into kn.md with a fix, letter by letter in Kannada script.
 
 The translator brief follows.
 
@@ -106,6 +106,10 @@ def apply_answer(w, text):
             if not set(strip(x['new'])) - set(strip(x['old'])) <= set('ಸಂಹಿತಾಪಾಠಃಪದಸಾಯಣಭಾಷ್ಯಂಪ್ರತಿಪದಾರ್ಥಭಾವಾರ್ಥವಿಶೇಷವಿಷಯಗಳುವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾEnglish Translation.'): prob.append(f"kn_fix adds letters that are not a label: {x['new'][:50]} (applied; check it)")
             kn = kn.replace(x['old'], x['new']); open(os.path.join(w, 'fixes.tsv'), 'a', encoding='utf8').write(f"kn\t{x['old']}\t{x['new']}\n")
         open(kp, 'w', encoding='utf8').write(kn)
+        pj = os.path.join(w, 'pages.json'); pg = json.load(open(pj)); have = {x['printed'] for x in pg}      # a page marker added by a fix joins the window's page list
+        for n in re.findall(r'<!-- printed (\d+)', kn):
+            if int(n) not in have: pg.append(dict(printed=int(n), pdf=None, file_page=None, numeral_rows=0)); have.add(int(n))
+        json.dump(sorted(pg, key=lambda x: x['printed']), open(pj, 'w'), indent=1)
     open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(m.group(1).strip() + '\n')
     return prob
 def cmd_collect(a):

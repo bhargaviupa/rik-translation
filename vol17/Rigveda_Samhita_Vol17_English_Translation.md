@@ -2,4 +2,4 @@
 
 ---
 
-**Progress note:** Done through printed p. 1; nothing translated yet.
+**Progress note:** Done through printed p. 0; nothing translated yet.

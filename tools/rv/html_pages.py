@@ -43,7 +43,9 @@ def pages_md(path,heads=None):
     for ln,l in enumerate(lines):
         h=l.strip()
         if l.startswith('![') or 'base64,' in l or not h or len(h)>=110: continue
-        if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ')):
+        m0=re.fullmatch(r'<!-- page (\d+) -->',h)          # explicit marker put into the supplied file for a page that prints no running head (e.g. p. 1 of a volume); recorded in volN/STATUS.md
+        if m0: H.append([ln,int(m0.group(1)),'']); continue
+        if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಭಾಷ್ಯಸಹಿತಾ','ಗ್ವೇದಸಂಹಿತಾ')):
             n=_head_number(h)
             if n is not None: H.append([ln,n,h])
     off=[n-i for i,(ln,n,h) in enumerate(H)]; del ANOMALIES[:]; fixed=[]

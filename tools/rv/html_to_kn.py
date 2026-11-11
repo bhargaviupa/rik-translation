@@ -52,6 +52,7 @@ def label_of(l):
 def fuzzy_label(l,section):
     """garbled label? -> key or None.  Only a short standalone line qualifies; the label expected next needs less resemblance than any other."""
     c=_core(l)
+    if 'ಸಹಿತಾ' in c: return None            # a title line ('ಸಾಯಣಭಾಷ್ಯ ಸಹಿತಾ'), not the bhāṣya label (Vol 17 p. 1)
     if not c or len(c)>20 or len(c.split())>3 or not re.search(KN,c) or ENDNUM.search(l) or l.rstrip().endswith('.') and not l.rstrip().endswith('ಃ.'): return None
     best=None
     for k in ORDER:
