@@ -13480,6 +13480,132 @@ Agni, the earth, the wind, the atmosphere, the sun, the sky, the moon, the stars
 
 Prajāpati united with Speech by mental meditation. Then eight *drapsas* issued forth. They became the eight Vasus. He placed them on the earth. For that reason they are the deities residing on the earth; the Rudras were established in the atmosphere, and the Ādityas in the heavenly world. Since the Vasus are described as the presiding deities of the earth, what is the meaning of the many places where the Vasus are described as dwelling in the atmosphere, as in हग्ंसश्युचिषद्वसुरंतरिक्षसत् (*hagṃsaśyuciṣadvasuraṃtarikṣasat*)? This will be examined further on.
 
+### Printed p. 388
+By the mantra अग्निश्च पृथिवी च (*agniśca pṛthivī ca*) it is stated that Agni is one of the Vasus. In some other places the Vasus are said to receive an oblation together with Agni at the morning pressing. So there is room for the questions whether Agni and the Vasus are identical or different deities, and likewise whether Indra and the Vasus are identical or different deities. Even though they are described together with different deities, it becomes clear that the luminous nature of the Vasus is described in the same way everywhere. In the statement that the Vasus, Rudras and Ādityas are the deities of the earth, the atmosphere and the heavenly world there are many hidden meanings. For the present, leaving that explanation aside, we may look in a general way at what the Vasus are in the present context.
+
+Prayers such as इंद्रं नो अग्ने वसुभिः सजोषाः (*iṃdraṃ no agne vasubhiḥ sajoṣāḥ*) (Ṛ. Saṃ. 7-10-4) show the relation between the Vasus and Agni. The Chāndogya Upaniṣad describes this same thing: तद्यत्पथमममृतं तद्वसव उपजीवंत्यग्निना मुखेन न वै देवा अश्नंति न पिबंत्येतदेवामृतं दृष्ट्वा तृप्यंति । त एतदेव रूपमभिसंविशंत्येतस्माद्रूपादुद्यंति । स य एतदेवममृतं वेद वसूनामेवैको भूत्वाग्निनैव मुखेनैतदेवामृतं दृष्ट्वा तृप्यंति स एतदेव रूपमभि संवि शत्येतस्माद्रूपादुदेति । स यावदादित्यः पुरस्तादुदेता पश्चादस्तमेता वसूनामेव तावदाधिपत्यं स्वाराज्यं पर्येता ॥ (*tadyatpathamamamṛtaṃ tadvasava upajīvaṃtyagninā mukhena na vai devā aśnaṃti na pibaṃtyetadevāmṛtaṃ dṛṣṭvā tṛpyaṃti | ta etadeva rūpamabhisaṃviśaṃtyetasmādrūpādudyaṃti | sa ya etadevamamṛtaṃ veda vasūnāmevaiko bhūtvāgninaiva mukhenaitadevāmṛtaṃ dṛṣṭvā tṛpyaṃti sa etadeva rūpamabhi saṃvi śatyetasmādrūpādudeti | sa yāvadādityaḥ purastādudetā paścādastametā vasūnāmeva tāvadādhipatyaṃ svārājyaṃ paryetā ‖*) (Bhā U. 3-6) **NOTE**
+
+The Vasus, with Agni as their mouth, drink the first nectar, which is of the form of the Ṛg-veda. That is: the gods neither eat nor drink; the meaning is that they are satisfied merely by seeing the nectar with the eye. The Vasus, satisfied by this same nectar, enter the red form of the Āditya (the sun) and issue forth from there. The meaning is that the nectar itself, transformed into the form of the Vasus, enters the Āditya. One who knows this principle also enters this same form of the Āditya and issues forth from there as radiance. For as long as the Āditya rises in the east and sets in the west, for so long this knower of the principle enjoys the lordship, the sovereignty and the self-rule of the Vasus; thus the greatness of the Vasus is described. From the statement that they issue forth again from the Āditya, it is said that the Āditya's rays spreading toward the earth and the Vasus are identical. These rays of the Āditya are the cause of the influence of the seasons, and they are the cause of food and the like suited to each season; so the Vasus who exist in the form of these rays are the cause of this food. For this very reason they are praised for the sake of food.
+
+### Printed p. 389
+तां वो देवाः सुमतिमूर्जयंतीमिषमश्याम वसवः शसा गोः । सा न सुदानुर्मृळयंती देवी प्रति द्रवंती सुविताय गम्याः ॥ (*tāṃ vo devāḥ sumatimūrjayaṃtīmiṣamaśyāma vasavaḥ śasā goḥ | sā na sudānurmṛḷayaṃtī devī prati dravaṃtī suvitāya gamyāḥ ‖*) (Ṛ. Saṃ. 5-4) (Ṛ. Saṃ. 5-41-18) **NOTE**
+
+"O divine Vasus, grant us to obtain, with the help of the sun's rays, the food that is a means for meditating with a pure mind and that increases strength. May that food produce every kind of happiness for us": the above view is indicated in this prayer. Moreover, when the course of the Āditya in the atmosphere is described, the point is made that the nature of the Vasus also helps the Āditya's revolution. For example—
+
+यमेन दत्तं त्रित एनमायुनगिंद्र एणं प्रथमो अध्यतिष्ठत् । गंधर्वो अस्य रशनामगृभ्यात्सूरादश्वं वसवो निरतष्ट ॥ (*yamena dattaṃ trita enamāyunagiṃdra eṇaṃ prathamo adhyatiṣṭhat | gaṃdharvo asya raśanāmagṛbhyātsūrādaśvaṃ vasavo nirataṣṭa ‖*) (Ṛ. Saṃ. 9-163-2) **NOTE**
+
+"This horse given by Yama was yoked to the chariot by Vāyu, who moves in the three places beginning with the earth. Indra, the foremost, mounted this horse. King Soma took the reins of this horse. The Vasus (the sun's rays) obtained this horse from the Āditya." Here Sāyaṇa has shown two kinds of meaning for वसवः (*vasavaḥ*): first the sun's rays, and second, as वसुशब्देनोक्ता (*vasuśabdenoktā*) ... यमादयः (*yamādayaḥ*) (Yama and the others, spoken of by the word "Vasu") **NOTE**. It is understood that these Vasus are not only occupants of the earth-place, as said above, but occupants of the places of the three worlds. The etymology of the Nirukta-kāra also supports this.
+
+वसवो यद्विवसते सर्वमग्निर्वसुभिर्वासन इति समाख्या तस्मात्पृथिवीस्थानाः । इंद्रो वसुभिर्वासन इति समाख्या तस्मान्मध्यस्थासाः । वसव आदित्यरश्मयो विवासनात्तस्याद्दुस्थानाः ॥ (*vasavo yadvivasate sarvamagnirvasubhirvāsana iti samākhyā tasmātpṛthivīsthānāḥ | iṃdro vasubhirvāsana iti samākhyā tasmānmadhyasthāsāḥ | vasava ādityaraśmayo vivāsanāttasyāddusthānāḥ ‖*) (Ni. 12-41)
+
+Agni pervades everything, covering it like a garment; therefore he is called Vāsana. This indicates the earth-place. Because Indra also has this property of pervasion, he too is called Vāsana; hence he is a deity of the middle place, the atmosphere. The radiant rays of the Āditya are likewise all-pervading, so they too are called Vasus; hence they may be deities of the heavenly place. After explaining thus, he cites the Taittirīya Saṃhitā sentence विश्वस्मै धत्त वसवो वसूनि (*viśvasmai dhatta vasavo vasūni*) (Tai. Saṃ. 1-4-44-2) and shows the extended meaning of the word "vasu". In the Ṛk 1-163-2 cited above, the Vasus help the Āditya, who is in the heavenly world;
+
+### Printed p. 390
+and since the Ṛk-saṃhitā itself also describes them as helping the atmospheric Maruts and the terrestrial Agni, it is understood that they pervade all three worlds.
+
+ज्मया अत्र वसवो रंत देवा उरावंतरिक्षे मर्जयंत शुभ्राः । आर्वाक्पथ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो नो अस्य ॥ (*jmayā atra vasavo raṃta devā urāvaṃtarikṣe marjayaṃta śubhrāḥ | ārvākpatha urujrayaḥ kṛṇudhvaṃ śrotā dūtasya jagmuṣo no asya ‖*) (Ṛ. Saṃ. 7-39-3)
+
+"May the deities called Vasus delight here in this sacrifice together with the terrestrial Agni, and may they also serve the Maruts who are in the wide atmosphere. O Maruts of abundant motion, and O Vasus their friends, join together, come facing us and follow us": so they are praised. Therefore it cannot be said that they are merely terrestrial deities. As the radiance of the Āditya in the heavenly world, they increase their power with the atmospheric Maruts, and then cause the form of the terrestrial Agni to shine more.
+
+त्वे असुर्यं १ वसवो न्यृण्वन्कतुं हि ते मित्रमहो जुषंत । त्वं दस्योरोकसो अग्न आज उरु ज्योतिर्जनयन्नाराय ॥ (*tve asuryaṃ 1 vasavo nyṛṇvankatuṃ hi te mitramaho juṣaṃta | tvaṃ dasyorokaso agna āja uru jyotirjanayannārāya ‖*) (Ṛ. Saṃ. 7-5-6)
+
+"O Agni, worthy of worship by all friends, the deities called Vasus have increased radiance in you and made your strength greater. They have also served the rite dear to you. With the brilliance increased by their help, be a benefactor of the sacrificers and destroy the enemies."
+
+क्रतुं ह्यस्य वसवो जुषंताथा देवा दधिरे हव्यवाहं (*kratuṃ hyasya vasavo juṣaṃtāthā devā dadhire havyavāhaṃ*) (Ṛ. Saṃ. 7-11.-) **NOTE**
+
+"The deities accepted and honoured as Havyavāha the Agni, lord of the whole sacrifice, whom the Vasus serve, so helped": thus companionship with Agni is described. It is also made known that their influence is the cause of Agni's strength.
+
+In the Upaniṣad sentence cited above, they are called the eight Vasus and their number is stated. In the Śabdakalpadruma their names are given as Dhara, Dhruva, Soma, Viṣṇu, Anila, Anala and Prabhāsa. Pointing to the same, the Viṣṇu Purāṇa gives eight names: Āpa, Dhruva, Soma, Dhava, Anila, Anala or Pāvaka, Pratyūṣa (Uṣas) and Prabhāsa. It is also said that all of these are various forms of the world-pervading radiance.
+
+### Printed p. 391
+Just as, because it pervades the physical worlds, the particular influence of the Āditya and the rest bears the name "Vasu", so too, when a spiritual principle is taught, the principle of life-breath (prāṇa), which pervades the whole body, bears the name "Vasu".
+
+पुरुषो वाव यज्ञस्तस्य यानि चतुर्विंशति वर्षाणि तत्पातःसवनं । चतुर्विंशत्यक्षरा गायत्री गायत्रं प्रातःसवनं तदस्य वसवोऽन्वायत्ताः प्राणा वाव वसवः एते हीदग्ं सर्वं वासयंति ॥ (*puruṣo vāva yajñastasya yāni caturviṃśati varṣāṇi tatpātaḥsavanaṃ | caturviṃśatyakṣarā gāyatrī gāyatraṃ prātaḥsavanaṃ tadasya vasavo 'nvāyattāḥ prāṇā vāva vasavaḥ ete hīdagṃ sarvaṃ vāsayaṃti ‖*) (Chā. U. 3-16-1)
+
+The Puruṣa himself is of the form of the sacrifice. His first twenty-four years are the morning pressing. By a mantra in the Gāyatrī metre the oblation of the morning pressing is offered. Because it pervades all the limbs, lodged within his body so that the Puruṣa can dwell, prāṇa is well known by the name "Vasu". Therefore the particular principles that pervade the three worlds, beginning with the earth, of the infinite physical universe, both within the body of the Puruṣa and beyond the body, are those that bear the name "Vasu".
+
+सुहस्ता (*suhastā*)—कल्याणपाणी नासत्यौ मित्रावरुणौ वा (*kalyāṇapāṇī nāsatyau mitrāvaruṇau vā*). Sāyaṇa has given two meanings: the Aśvins, having auspicious-acting hands, or else Mitra and Varuṇa. Having attractive hands is an ornament of Mitra and Varuṇa just as it is of the Aśvins.
+
+अथ बाहू उद्गृष्णाति । हिरण्यरूपा उषसो विरोक उभाविंद्रो उदिथः सूर्यश्च । आरोहतं वरुण मित्र गर्तं ततश्चक्षाथामदितिं दितिं चेति बाहू वै मित्रावरुणौ ॥ (*atha bāhū udgṛṣṇāti | hiraṇyarūpā uṣaso viroka ubhāviṃdro udithaḥ sūryaśca | ārohataṃ varuṇa mitra gartaṃ tataścakṣāthāmaditiṃ ditiṃ ceti bāhū vai mitrāvaruṇau ‖*) (Śa. Brā. 5-4-1-15)
+
+At the time of the consecration the king raises both arms, recites the mantra हिरण्य रूपा (*hiraṇya rūpā*) and prays to Mitra and Varuṇa: "O Mitra and Varuṇa, of form attractive like gold, mount as the Āditya mounts his chariot; and look upon Diti and Aditi." It is described that in praying so, those very arms are in the form of Mitra and Varuṇa. It can also be understood that in many contexts excellent hands reflect Mitra and Varuṇa. Moreover, mantras such as अश्विनोर्भाहुब्यां पूष्टो हस्ताभ्यां (*aśvinorbhāhubyāṃ pūṣṭo hastābhyāṃ*) praise the distinction of the arms of the Aśvins. Since this epithet can thus fit both, either meaning may be given here.
+
+### Printed p. 392
+शशयं (*śaśayaṃ*)—Formed from the root शी (*śī*), this word is used to describe a thing that lies asleep. The meaning is that they called the sleeping cloud for the sake of rain.
+
+रणयंत (*raṇayaṃta*)—रमयंति, शब्दयंत्येव (*ramayaṃti, śabdayaṃtyeva*). The word is used in the senses "rejoice" and "make sound". On the basis of the original meaning "delightful", the word raṇa is also a synonym of battle. Words such as रराणता (*rarāṇatā*) and रणंत (*raṇaṃta*) are used both in describing a sound expressing joy, "victory is assured", while fighting, and when Sāmans such as the Rathantara are chanted at the time of the sacrifice.
+
+सुम्मं (*summaṃ*)—The word summa is read among the words for happiness (Ni. 3-6). In some places of the Ṛk-saṃhitā it is also used in the sense of favour. But use in the sense of happiness is the more frequent.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या जा॒मयो॒ वृष्ण॑ इ॒च्छंति॑ श॒क्तिं न॑म॒स्यंती॑र्जानते॒ गर्भ॑मस्मिन् ।  
+> अच्छा॑ पु॒त्रं धे॒नवो॑ वावशा॒ना म॒हश्व॑रंति॒ बिभ्र॑तं॒ वपूं॑षि॥
+
+> *yā jāmayo vṛṣṇa icchaṃti śaktiṃ namasyaṃtīrjānate garbhamasmin |*  
+> *acchā putraṃ dhenavo vāvaśānā mahaśvaraṃti bibhrataṃ vapūṃṣi‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । जामयः । वृष्णे । इच्छंति । शक्तिं । नमस्यंतीः । जानते । गर्भं । अस्मिन् ।  
+> अच्छ । पुत्रं । धेनवः । वावशानाः । महः । चरंति । बिभ्रतं । वपूंषि ॥ ३ ॥
+
+> *yāḥ | jāmayaḥ | vṛṣṇe | icchaṃti | śaktiṃ | namasyaṃtīḥ | jānate | garbhaṃ | asmin |*  
+> *accha | putraṃ | dhenavaḥ | vāvaśānāḥ | mahaḥ | caraṃti | bibhrataṃ | vapūṃṣi ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या जामयः । जमंति वर्षाकाले प्रादुर्भवंतीति जामय ओषधयः ।
+> वृष्णेऽपां वर्षकायेंद्राय शक्तिं सेचनसावर्थमिच्छंति । नमस्यंतीः प्रह्नेभूतास्ता ओषधयोऽस्मिन्निंद्रे गर्भं वृष्टिद्वारा पुष्पफलादिलक्षणगर्भादानादिसामर्थ्यं जानते । जानंति । वावशानाः फलं कामयमाना धेनवः सर्वस्य प्रीणयित्र्य ओषधयो महो महांति नानाप्रकाराणि वपूंषि रूपाणि बिभ्रतं व्रीहियवनीवारादिफललक्षणं पुत्रं तनयमच्छाभिमुखेन चरंति । प्राप्नुवंति । लोके
+
+##### Gist of the bhāṣya
+
+या जामयः (*yā jāmayaḥ*): the jāmayaḥ are the plants, because they spring up (जमंति (*jamaṃti*)) in the rainy season. They desire power (śakti), the capacity of pouring out, for the showerer (वृष्णे (*vṛṣṇe*)), Indra, who sends down the waters. नमस्यंतीः (*namasyaṃtīḥ*): those plants, bowed down, know in this Indra the capacity of impregnation through rain, the embryo in the form of flowers, fruits and the like (जानते (*jānate*) = they know). वावशानाः (*vāvaśānāḥ*): desiring fruit; धेनवः (*dhenavaḥ*): the plants, which gratify everyone; महः (*mahaḥ*): great, of many kinds; वपूंषि (*vapūṃṣi*): forms. They go facing, that is, reach, the son (पुत्रं (*putraṃ*)) who bears (बिभ्रतं (*bibhrataṃ*)) these forms, namely the fruit in the form of rice, barley, wild rice and the like. (The sentence continues on the next page.)
+
+### Printed p. 393
+
+> हि हंभारवं कुर्वाणा धेनवो वत्समभिलक्ष्य गच्छंति । तद्वत् । यद्वा । जामयः ।
+> जमंति सर्वत्र प्रसरंतीति जामयः सूर्यदीप्तयः । वृष्णेऽपां वर्षकाय ।
+> स्वरश्मिभिर्भौमान्रसानादाय पुनर्वर्षतीति वर्षकः सूर्यः । आदित्याज्जायते वृष्टिरिति
+> स्मृतेश्व । तस्मै वर्षणशक्तिमिच्छंति । ता दीप्तयोऽस्मिन्नादित्ये गर्भमब्रूपगर्भाधानसःमर्थ्यं जानंति ॥ जामयः । जमतेर्गतिकर्मणो जनिघसिभ्यामिण्णिति विधीयमानो बहुलवचनादस्मादपि भवति । नमस्यंतीः । नवः8रब्दान्नमोवरिवश्चित्रजः क्यजिति
+> क्यच् । तदंताच्छतरि रूपं । प्रत्ययस्वरः । जानते । ज्ञा अवबोधन इत्यस्य लट
+> रूपं । अच्च । निपातस्य चेति संहितायां दीर्घः ॥
+
+##### Gist of the bhāṣya
+
+As in the world cows, lowing, go toward the calf, so here. Or else: जामयः (*jāmayaḥ*) are the sun's rays, since they spread (जमंति (*jamaṃti*)) everywhere. वृष्णे (*vṛṣṇe*): for the rain-maker; the sun is the rain-maker, because with his rays he takes up the earthly juices and rains again; and the smṛti says "from the Āditya rain is born". They desire the power of raining for him. Those rays know in this Āditya the capacity of impregnation, the embryo in the form of water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या जामय (*yā jāmaya*)—the plants
+- वृष्णे (*vṛṣṇe*)—to Indra, the maker of rain
+- शक्तिं (*śaktiṃ*)—the capacity of pouring out
+- इच्छति (*icchati*)—wish for
+- नमस्यंतीः (*namasyaṃtīḥ*)—the plants that have attained humility
+- अस्मिन् (*asmin*)—in this Indra
+- गर्भं (*garbhaṃ*)—the capacity to produce the embryo in the form of flowers and the like
+- जानते (*jānate*)—have known
+- वावशानाः (*vāvaśānāḥ*)—those that desire fruits
+- धेनवः (*dhenavaḥ*)—the plants, gratifiers of the world
+- महः (*mahaḥ*)—of many kinds
+- वपूंषि (*vapūṃṣi*)—forms such as grain
+- बिभ्रतं (*bibhrataṃ*)—possessing
+- पुत्रं (*putraṃ*)—the fruits in the form of sons
+- चरंति (*caraṃti*)—obtain
+
+##### भावार्थ (Bhāvārtha)
+
+All the plants desire from Indra, the maker of creation **NOTE**, the capacity of pouring out. These plants, having attained humility, have known that Indra has the capacity of producing the embryo in the form of flowers and the like. The plants, which desire fruits and gratify the world, obtain the fruits in the form of sons, which possess many kinds of forms such as grain.
+
+##### English translation (H. H. Wilson)
+The plants that desire for the showerer (Indra) the power (of sending rain) appreciate, when manifest, the embryo (blossom) deposited in him : the cows desirous of reward come to the presence of the calf, invested with many forms
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Sāyaṇa has shown that two kinds of meaning are possible. For जामयः (*jāmayaḥ*) he first gives the meaning plants and trees. If this meaning is right, वृष्णे (*vṛṣṇe*) is a word equivalent to Indra. धेनवः (*dhenavaḥ*) too must be an epithet of the plants. Or else जामयः (*jāmayaḥ*)
+
 ---
 
-**Progress note:** Done through printed p. 387. pp. 382-387 (batch API)
+**Progress note:** Done through printed p. 393. pp. 388-393 (batch API)
