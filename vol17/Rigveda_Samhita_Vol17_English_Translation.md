@@ -22366,6 +22366,236 @@ May we seven priests first in order engender from the maternal dawn the worshipp
 > *śuci | it | ayan | dīdhitiṃ | uktaśasaḥ | kṣāma | bhiṃdaṃtaḥ | aruṇīḥ | apa |*  
 > *vran ‖ 16 ‖*
 
+### Printed p. 724
+
+> हे अग्ने अधापि च परासः श्रेष्ठाः प्रत्नासः पुराणा ऋतं सत्यभूतं यज्ञं
+> यथा यथावदाशुषाणा अश्नुवाना नोऽस्माकं पितरोंगिरसः शुचि दीप्तं स्थानमयन । अगच्छन् । तथा दीधितिं तेजश्चागच्छन् । किंच उक्तशास उक्तानां शस्त्राणां शंसितारः क्षाम क्षयकारणं तमः पापं ना भिंदंतो विनाशयंतोऽंगिरसोरुणीररुणवर्णाः पणिभिरपहृता गा उषसो ना अप व्रन् । अपावृण्वन् ।
+> प्रकाशितवंत इत्यर्थः ॥ अयन् । इण् गत् । लजूणो यण्णिति यण् । व्यत्ययेनाडागमः । दीधितिं । दीधिज् दीप्ति देवनयोरित्यस्मात् क्तिनि ह्रस्वश्कांदसः । नित्तादाद्युदात्तः । उक्तशासः । उक्तशब्द उपपदे शन्नु स्तुतावित्यस्मान्मंत्रे श्वेतवहोक्षशस्सुरोडाशो ण्णिन्निति ण्णिन् नकारलोपश्च निपातनादेव । पदकाले ह्रस्वश्कांदसः ।
+> अरुणीः । गौरादिजीषंतः । एकादेशस्वरः । व्रन् । वृणोतेर्लुङ् मंत्रे घसेत्यादिना चेर्लुक् । निघातः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa construes the verse as follows. "O Agni, and further, our fathers the Aṅgirases, who are excellent (परासः (*parāsaḥ*)) and ancient (प्रत्नासः (*pratnāsaḥ*)), having duly (यथा (*yathā*)) attained (आशुषाणाः (*āśuṣāṇāḥ*)) the true sacrifice (ऋतं (*ṛtaṃ*)), went to the bright place (शुचि (*śuci*), "shining"). In the same way they came to radiance (दीधितिं (*dīdhitiṃ*), "lustre"). Moreover, being reciters of the recited śastras (उक्तशासः (*uktaśāsaḥ*)), and splitting the darkness (क्षाम (*kṣāma*), "the cause of decay"), that is sin, the Aṅgirases uncovered the ruddy (अरुणीः (*aruṇīḥ*), "red-coloured") cows carried off by the Paṇis, and the dawns (गा उषसो ना (*gā uṣaso nā*))." अप व्रन् (*apa vran*) means "they opened", that is, they made them manifest.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni!
+- अध (*adha*)—and
+- परासः (*parāsaḥ*)—excellent
+- प्रत्नासः (*pratnāsaḥ*)—ancient
+- नः (*naḥ*)—our
+- पितरः (*pitaraḥ*)—fathers, the Aṅgirases
+- ऋतं (*ṛtaṃ*)—the sacrifice, which is true
+- यथा (*yathā*)—as prescribed
+- आशुषाणाः (*āśuṣāṇāḥ*)—having accomplished
+- शुचि (*śuci*)—the shining place
+- अयन् (*ayan*)—reached
+- दीधितिं (*dīdhitiṃ*)—also obtained lustre
+- उक्तशासनः (*uktaśāsanaḥ*)—reciting the śastra-mantras**NOTE**
+- क्षाम (*kṣāma*)—the darkness
+- भिंदंतः (*bhiṃdaṃtaḥ*)—splitting
+- अरुणीः (*aruṇīḥ*)—the golden-hued cows
+- अप व्रन् (*apa vran*)—made them shine (made them visible)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, our fathers the Aṅgirases, excellent and ancient, duly performed the true sacrifice and reached the shining place. They themselves also became full of brilliance. Reciting the śastra-mantras and splitting the darkness, they made the golden-hued cows shine forth (become visible).
+
+##### English translation (H. H. Wilson)
+Thus, Agni, our excellent and ancient forefathers, celebrators of holy sacrifice, proceeded to (the region of) pure light, and, reciting prayers and dispersing gloom, they made manifest the purple (cows).
+
+### Printed p. 725
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒कर्मा॑णः सु॒रुचो॑ देव॒यंतोऽयो॒ न दे॒वा जनि॑मा॒  ॑
+> धमंतः ।  
+> शु॒चंतो॑ अ॒ग्निं व॑वृ॒धंत॒ इंद्र॑मू॒र्वं गव्यं॑ परि॒षदं॑तो  
+> अग्मन् ॥ १७ ॥
+
+> *sukarmāṇaḥ suruco devayaṃto 'yo na devā janimā*  
+> *dhamaṃtaḥ |*  
+> *śucaṃto agniṃ vavṛdhaṃta iṃdramūrvaṃ gavyaṃ pariṣadaṃto*  
+> *agman ‖ 17 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुकर्माणः । सुरुचः । देवयंतः । अयः । न । देवाः । जनिम । धमंतः ।  
+> शुचंतः । अग्निं । ववृधंतः । इंद्रं । ऊर्वं । गव्यं । परिषदंतः । अग्मन् ॥ १७ ॥
+
+> *sukarmāṇaḥ | surucaḥ | devayaṃtaḥ | ayaḥ | na | devāḥ | janima | dhamaṃtaḥ |*  
+> *śucaṃtaḥ | agniṃ | vavṛdhaṃtaḥ | iṃdraṃ | ūrvaṃ | gavyaṃ | pariṣadaṃtaḥ | agman ‖ 17 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आग्रयण आग्नेंद्रस्य हविषः सुकर्माण इति याज्या । सूत्रितं च । सुकर्माणः सुरुचो देवयंतो विश्वे देवास आ गत । आ. २-९ । इति ॥
+> सुकर्माणः सुष्पनुष्ठितयागादिकर्माणः सुरुचः शोभनदीप्तयो देवयंतो देवान् कामयमाना देवा देवनशीलाः स्तोतारो जनिम स्वकीयं
+> मानुषं जन्म धमंतो यागादिलक्षणेन कर्मणा निर्मलीकुर्वंतः । तत्र दृष्टांतः।
+> अयो न । यथा कर्मारा अयो भस्त्रेण धमंति तद्वत् । तादृशा अग्निं शुचंतो
+> हविर्भिर्दिर्पयंत इंद्रं ववृधंतः सोमेन स्तुत्या वा वधयंतोंगिरसः
+> परिषदंतः परितः सीदंतः संत ऊर्वं महांतं गव्यं गोसंघमग्मन् । प्राप्पुवन् ॥ सुकर्माणः । सोर्मनसीत्युत्तरपदाद्युदात्तत्वं । धमंतः । ध्मा शब्दाग्निसंयोगयोः । शतरि पाघ्रादिना धमादेशः शपः पित्त्वादनुदात्तत्वे शतुर्लसार्वधातुकस्वरः । ववृधंतः । वृधु वर्धने । व्यत्ययेन परस्मैपदं । शतरि शपः श्लुः ।
+> गव्यं । गवां समूह इत्यर्थे खलगोरथादिति यः । अगम् । गमर्लुजि ज्लेर्लुकि
+> रूपं ॥
+
+##### Gist of the bhāṣya
+
+In the Āgrayaṇa, for the oblation of Agni and Indra, सुकर्माणः (*sukarmāṇaḥ*) is the yājyā verse. It is also stated in the sūtra: सुकर्माणः सुरुचो देवयंतो विश्वे देवास आ गत (*sukarmāṇaḥ suruco devayaṃto viśve devāsa ā gata*) (Ā. Sū. 2-9).
+
+The Aṅgirases are "of good works" (सुकर्माणः (*sukarmāṇaḥ*)): their sacrifices and other rites are well performed. They are "of good lustre" (सुरुचः (*surucaḥ*)): their splendour is beautiful. They are देवयंतः (*devayaṃtaḥ*), desiring the gods. They are देवाः (*devāḥ*), the praisers, who are "of a shining nature". They purify (धमंतः (*dhamaṃtaḥ*)) their own human birth (जनिम (*janima*)) by rites such as the sacrifice. The illustration is अयो न (*ayo na*): as smiths blow iron with the bellows, so do they. Such as they are, making Agni shine (शुचंतः (*śucaṃtaḥ*)) with oblations, and increasing Indra (ववृधंतः (*vavṛdhaṃtaḥ*)) with soma or with praise, sitting around (परिषदंतः (*pariṣadaṃtaḥ*), "sitting on all sides"), they reached (अग्मन् (*agman*)) the great (ऊर्वं (*ūrvaṃ*)) herd of cows (गव्यं (*gavyaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुकर्माणि (*sukarmāṇi*)—those who perform excellent works
+- सुरुचः (*surucaḥ*)—of excellent radiance
+- देवयंतः (*devayaṃtaḥ*)—desiring godhood
+- देवाः (*devāḥ*)—the Aṅgirases, of divine nature
+
+### Printed p. 726
+
+- अयो न (*ayo na*)—as a smith refines iron in his furnace
+- जनिम (*janima*)—their human birth
+- धमंतः (*dhamaṃtaḥ*)—made it refined by rites such as the sacrifice (and)
+- अग्निं (*agniṃ*)—Agni
+- शुचंतः (*śucaṃtaḥ*)—making shine
+- इंद्रं (*iṃdraṃ*)—Indra
+- ववृधंतः (*vavṛdhaṃtaḥ*)—making him grow strong by praises
+- परिषदंतः (*pariṣadaṃtaḥ*)—searching on all sides
+- ऊर्वं (*ūrvaṃ*)—great
+- गव्यं (*gavyaṃ*)—wealth of cattle
+- अग्मन् (*agman*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, excellent performers of rites, of splendid radiance, desiring godhood and divine in nature, refined their human birth by rites such as the sacrifice, as a smith refines iron in his furnace. And making Agni shine, making Indra grow strong by praises, and searching on all sides, they obtained great wealth of cattle.
+
+##### English translation (H. H. Wilson)
+Performers of good works, brilliant and devout, the praises of the gods have freed their birth from impurity, as (a smith heats) iron : exciting Agni, elevating Indra, and wandering about (in search), they have gone to the vast (hidden) herd of cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Āgrayaṇa-iṣṭi, in the oblation-offering made to the deities Agni and Indra, this Ṛk सुकर्माणः (*sukarmāṇaḥ*) is to be recited as the yājyā mantra. This is set out by the Āśvalāyana-śrautasūtra, in the sūtra सुकर्माइः सुरुचो देवयंतो विश्वे देवास आ गत (*sukarmāiḥ suruco devayaṃto viśve devāsa ā gata*) (Ā. Sū. 2-9).
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यू॒थेव॑ क्षु॒मति॑ प॒श्वो अ॑ख्यद्दे॒वानां॒ यज्जनि॒मांत्यु॑ग्र।  
+> मर्ता॑नां चिदु॒र्वशी॑रकृप्रन्वृ॒धे चि॑द॒र्य उप॑रस्या॒योः ॥
+
+> *ā yūtheva kṣumati paśvo akhyaddevānāṃ yajjanimāṃtyugra|*  
+> *martānāṃ cidurvaśīrakṛpranvṛdhe cidarya uparasyāyoḥ ‖*
+
+### Printed p. 727
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यूथाइव । क्षुमति । पश्वः । अख्यत् । देवानां । यत् । जनिम । अंति ।  
+> उग्र ।  
+> मर्तानां । चित् । उर्वशीः । अकृप्रन् । वृधे । चित् । अर्यः । उपरस्य । आयोः ॥
+
+> *ā | yūthāiva | kṣumati | paśvaḥ | akhyat | devānāṃ | yat | janima | aṃti |*  
+> *ugra |*  
+> *martānāṃ | cit | urvaśīḥ | akṛpran | vṛdhe | cit | aryaḥ | uparasya | āyoḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उग्र तेजस्विन्ने अग्ने देवानामंगिरसां संबंधि यज्जनिम यं गोसंघमंति पर्वतस्य समीप आख्यत् । आ समंतादिंद्रोऽपश्यत् । तत्र दृष्टांतः ।
+> यूथेव । यथा पश्वः पशूनां गवां यूथानि क्षुमत्यन्नवत्याढ्यगृहे वर्तमानानि
+> पश्यंति जनास्तद्वत् । यद्वा । हे अग्ने तव परिचारकोऽंगिरोगणो देवानामिंद्रादीनां यज्ञनिम योऽयं जनोऽंति मदंतिके पश्वः पणिभिरपहृतान्वशूनाख्यत् । समंतात्पश्यति । तत्र दृष्टांतः । यथा क्षुमति शब्दं कुर्वाणे गवां
+> यूथा यूथे पशून्त्यंति तद्वत् । मर्तानां चिन्मनुष्याणामुर्वशीरूरुभ्यामश्नुवानाः । उर्वभ्यश्नुत ऊरुभ्यामश्नुत इति यास्कः । नि. ५-१६। प्रजा अकृप्रन् ।
+> ताभिरानीताभिर्गोभिः कृप्ता: समर्था अभवन् । चिदपि च अर्यः स्वामी लब्धगोधन उपरस्कोप्तस्य निषिक्तस्यापत्यस्य वृधे वर्धनाय समर्थो भवति । तथायोर्मनुष्यस्य भृत्यादेश पोषणे समर्थो भवति ॥ यूथेव । शसः सप्तम्या ना
+> डादेशः । क्षुमति । क्षुदित्यन्ननाम । यद्वा । टुक्षु शब्दे । भावे क्विप् । छांदसस्तकारलोपः । तदस्यास्तीति मतुप् । हस्रनुड्भ्यां मतुबिति मतुप उदात्तत्वं ।
+> अख्यत् । ख्या प्रकथने । लुजु चेरस्यतिवक्तिख्यातिभ्योऽज्जात्यजादेशः। आतो लोपः।
+> जनिम । जनी प्रादुर्भावे । हृजनिभ्यामिमनिन्नि तीमनिन्नत्ययः । नित्त्वादाम्युदात्तः । अकृप्रन् । कृपू सामर्थ्ये । लजु बहुलं छंदसीति विकरणस्य लुक् । रुडागमः ॥
+
+##### Gist of the bhāṣya
+
+"O fierce (उग्र (*ugra*)), radiant Agni, the herd of cows belonging to the gods, the Aṅgirases, which (यत् जनिम (*yat janima*)) near (अंति (*aṃti*)) the mountain Indra beheld (आ अख्यत् (*ā akhyat*)) on all sides." The illustration is यूथेव (*yūtheva*): as people see herds of cattle, of cows, living in the house of a rich man who has plenty of food (क्षुमति (*kṣumati*)).
+
+Or else: "O Agni, your attendant band of Aṅgirases sees all around the cattle of the gods, Indra and the others, carried off by the Paṇis, which this person is near me (अंति (*aṃti*))." The illustration: as, when the herd of cows is making a noise, people see the cattle in the herd.
+
+मर्तानां चित् (*martānāṃ cit*): of mortals, men; उर्वशीः (*urvaśīḥ*) are those who pervade with the thighs. Sāyaṇa quotes Yāska: उर्वभ्यश्नुत ऊरुभ्यामश्नुत इति यास्कः (*urvabhyaśnuta ūrubhyāmaśnuta iti yāskaḥ*) (Ni. 5-16).**NOTE** The progeny (प्रजा (*prajā*)) became able (अकृप्रन् (*akṛpran*)), that is, competent, through the cows brought by them. Moreover the master (अर्यः (*aryaḥ*)) who has obtained the wealth of cattle becomes able for the growth (वृधे (*vṛdhe*)) of the offspring sown (उपरस्य (*uparasya*)), and in the same way he is able for the nourishing of men, dependents and so on (आयोः (*āyoḥ*)).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—O radiant Agni
+- देवानां (*devānāṃ*)—belonging to the Aṅgirā seers
+- यत् जनिम (*yat janima*)—which herd of cows
+- अंति (*aṃti*)—near the mountain
+- यूथेव पश्वः (*yūtheva paśvaḥ*)—as people see a herd of cattle
+- क्षुमति (*kṣumati*)—in a house provided with wealth of food
+- आ अख्यत् (*ā akhyat*)—Indra saw all around. [Or else] 
+- हे उग्र (*he ugra*)—O Agni!
+- अंगिरोगणः (*aṃgirogaṇaḥ*)—the company of Aṅgirā seers who serve you
+- देवानां (*devānāṃ*)—belonging to the gods, Indra and the others
+- पश्वः (*paśvaḥ*)—carried off by the asuras called Paṇis
+- क्षुमति (*kṣumati*)—lowing
+- यूथेव (*yūtheva*)—like a herd of cows
+
+### Printed p. 728
+
+- यज्ञनिम (*yajñanima*)—as people see it, near
+- अंति (*aṃti*)—near
+- आ अख्यत् (*ā akhyat*)—Indra saw all around
+- मर्तानां चित् (*martānāṃ cit*)—belonging to men
+- उर्वशीः (*urvaśīḥ*)—the cows
+- अकृपन् (*akṛpan*)—became able to obtain
+- चित् (*cit*)—and
+- अर्यः (*aryaḥ*)—the master, the householder who has obtained cows
+- उपरस्य (*uparasya*)—excellent works
+- वृधे (*vṛdhe*)—becomes able to increase
+- आयोः (*āyoḥ*)—(and) becomes able also to nourish men, that is, dependents and the like
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Agni, as one sees the cows in the cattle-shed of a house abounding in food, so Indra saw all around the cows of the Aṅgirā seers carried off by the Paṇis. Or else: as people see well-nourished cattle in a house provided with wealth of food, so Indra saw the cows of the Aṅgirā seers carried off by the Paṇis. The master of the house who has obtained the herd of cows performs excellent works and becomes able to nourish his dependents, sons, grandsons and the rest.
+
+##### English translation (H. H. Wilson)
+Fierce (Agni), when (Indra) proclaimed the near presence of the herd of the cows of the divine (Angirasas) as a herd of cattle in a well-stored stall, the progeny of mortals were thereby enabled (to perform pious acts) and the master of the family rendered competent to (provide for) the increase of posterity and (the support of) dependents
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this Ṛk is not clear. The commentator's explanation too is not lucid, and the seer's intention cannot be known. The commentator has explained the word जनिम (*janima*) as a herd of cows and the word उर्वशीः (*urvaśīḥ*) as progeny; yet it has not been possible to fit a definite meaning to this Ṛk. The scholar Wilson has explained it thus:
+
+आ यूथेव क्षुमति पश्वः अख्यत् (*ā yūtheva kṣumati paśvaḥ akhyat*) देवानां यत् जनिम अंति (*devānāṃ yat janima aṃti*)—The expression literally means, like a herd in food-possessing animals; he had said of the gods that which birth is nigh ; Sayana interprets जनिम (*janima*) as गोसंघं (*gosaṃghaṃ*) and makes out the rest as above, or he proposes an alternative, not more intelligible; the second half of the stanza is equally obscure as the first. मर्तानां चित् उर्वशीः अकृप्रन् (*martānāṃ cit urvaśīḥ akṛpran*) वृधे चित् अर्यः उपरस्य आयोः (*vṛdhe cit aryaḥ uparasya āyoḥ*), उर्वशीः (*urvaśīḥ*) is rendered by Sayana प्रजा (*prajā*) progeny, as if it was the nominative instead of being the accusative plural ; and if so, there is no nominative to अकृप्रन् (*akṛpran*) were made able ; the word is remarkable, and is made more so by Sayana's reference to Yaska निरुक्त (*nirukta*). 5-1 where the word means, as usual अप्सराः (*apsarāḥ*) and the etymology is ऊरुभ्यामश्नुते (*ūrubhyāmaśnute*) who pervades or proceeds from the thigh. conformably to the Pauranik legend of her birth from the thigh of Narayana. See also the विक्रमोर्वशीय (*vikramorvaśīya*) of काळिदास (*kāḷidāsa*) which shows the legend to be of some antiquity.
+
+### Printed p. 729
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अक॑र्म ते॒ स्वप॑सो अभूम ऋ॒तम॑वस्रन्नु॒षसो॑ विभा॒तीः ।  
+> अनू॑नम॒ग्निं पु॑रु॒धा सु॑श्चं॒द्रं दे॒वस्य॒ मर्मृ॑जत॒श्चारु॒  ॑
+> चक्षुः ॥ १९ ॥
+
+> *akarma te svapaso abhūma ṛtamavasrannuṣaso vibhātīḥ |*  
+> *anūnamagniṃ purudhā suścaṃdraṃ devasya marmṛjataścāru*  
+> *cakṣuḥ ‖ 19 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अकर्म । ते । सुअपसः । अभूम । ऋतं । अवस्रन् । उषसः । विभातीः ।  
+> अनूनं । अग्निं । पुरुधा । सुचंद्रं । देवस्य । मर्मृजतः । चारु । चक्षुः ॥ १९ ॥
+
+> *akarma | te | suapasaḥ | abhūma | ṛtaṃ | avasran | uṣasaḥ | vibhātīḥ |*  
+> *anūnaṃ | agniṃ | purudhā | sucaṃdraṃ | devasya | marmṛjataḥ | cāru | cakṣuḥ ‖ 19 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तव परिचरणमकर्म । कुर्मः । तेन कर्मणा स्वपसः शोभनकर्माणोऽभूम । विभातीर्वुच्छंत्य उषस ऋतं तेजोऽवस्रन् । आच्छादयंति ।
+> धारयंतीत्यर्थः । तथा ता उषसोऽनूनं संपूर्णं पुरुधा बहुधा सुश्चंद्रं
+> सुष्ठाह्लादकारिणं यद्वा सुहिरण्यमग्निं धारयंति । किंच देवस्य द्योतमानस्य
+> तव चारु मनोहरं चक्षुस्तेजो मर्मृजतः परिचरंतो वयं स्वपसोऽभूमेति पूर्वेणान्वयः ॥ अकर्म । करोतेर्लजु बहुलु छंधसीति विकरणस्य लुक् ।
+> मर्मुजतः । मृजूष् शुद्धौ । यज्लुकि रुग्रिकौ च लुकीत्यभ्यासस्य रुगागमः ।
+> शतरि नाभ्यस्ताच्छतुरिति नुमभावः । अभ्यस्तस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, we have done (अकर्म (*akarma*), "we do") service to you; by that work we have become (अभूम (*abhūma*)) of good works (स्वपसः (*svapasaḥ*)). The shining dawns (विभातीः (*vibhātīḥ*)), as they break forth, cover or bear (अवस्रन् (*avasran*)) the light (ऋतं (*ṛtaṃ*), "brightness"), that is, they hold it. In the same way those dawns bear Agni, who is complete (अनूनं (*anūnaṃ*)), in many ways (पुरुधा (*purudhā*)), and who gives excellent delight (सुश्चंद्रं (*suścaṃdraṃ*)), or else is of good gold." Further, serving (मर्मृजतः (*marmṛjataḥ*)) the lovely (चारु (*cāru*)), charming eye, the lustre (चक्षुः (*cakṣuḥ*)), of you, the shining god (देवस्य (*devasya*)), we have become of good works. The construction is with the preceding words.
+
 ---
 
-**Progress note:** Done through printed p. 723. pp. 718-723 (batch API)
+**Progress note:** Done through printed p. 729. pp. 724-729 (batch API)
