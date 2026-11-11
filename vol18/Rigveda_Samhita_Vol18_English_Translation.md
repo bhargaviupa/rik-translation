@@ -20390,6 +20390,215 @@ The king who offers wealth to a Brāhmaṇa of brahmic power who seeks his prote
 ##### English translation (H. H. Wilson)
 Unopposed he is the master of the riches of hostile people, and of his own subjects : the Raja who bestows riches upon the Brahmana seeking his protection, him the gods protect.
 
+### Printed p. 521
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑श्च॒ सोमं॑ पिबतं बृहस्पते॒ऽस्मिन्॒ज्ञे मं॑दसा॒ना वृ॑षण्वसू ।  
+> आ वां॑ विशं॒त्विंद॑वः स्वा॒भुवो॒ऽस्मे र॒यिं सर्व॑वीरं॒ नि  ॑
+> यच्छतं ॥ १० ॥
+
+> *iṃdraśca somaṃ pibataṃ bṛhaspate 'sminjñe maṃdasānā vṛṣaṇvasū |*  
+> *ā vāṃ viśaṃtviṃdavaḥ svābhuvo 'sme rayiṃ sarvavīraṃ ni*  
+> *yacchataṃ ‖ 10 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । च । सोमं । पिबतं । बृहस्पते । अस्मिन् । यज्ञे । मंदसाना । वृषण्वसू  
+> इति वृषण्वसू ।  
+> आ । वां । विशंतु । इंदवः । सुअभुवः । अस्मे इति । रयिं । सर्ववीरं । नि ।  
+> यच्छतं ॥ १० ॥
+
+> *iṃdraḥ | ca | somaṃ | pibataṃ | bṛhaspate | asmin | yajñe | maṃdasānā | vṛṣaṇvasū*  
+> *iti vṛṣaṇvasū |*  
+> *ā | vāṃ | viśaṃtu | iṃdavaḥ | suabhuvaḥ | asme iti | rayiṃ | sarvavīraṃ | ni |*  
+> *yacchataṃ ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रश्च सोममिति दशमी तृतीयसवने ब्राह्मणाच्छंसिनः प्रस्थितयाज्या ।
+> सूत्रितं च । इंद्रश्च सोमं पिबतं बृहस्पत आ वो वहंतु सप्तयो रघुष्यदः ।
+> आ. ५-५ । इति ॥
+> हे बृहस्पते त्वमिंद्रश्च सोमं पिबतं । कीदृशौ युवां । अस्मिन्यज्ञे
+> मंदसाना हृष्यंतौ वृषण्वसू वर्षितृधनौ । यजमानेभ्यो दीयमानधनावित्यर्थः।
+> वां युवां स्वाभुवः सुष्टु सर्वतो भवंतः । कृत्स्नशरीरव्यापनसमर्था इत्यर्थः ।
+> तादृशा इंदवः सोमा विशंतु । युवयोः शरीरं प्रविशंतु । अस्मे अस्मभ्यं
+> रयिं धनं सर्ववीरं सर्वपुत्राद्युपेतं नि यच्छतं । दत्तं ॥
+
+##### Gist of the bhāṣya
+
+The tenth verse, इंद्रश्च सोमं (*iṃdraśca somaṃ*), is the prasthita-yājyā of the Brāhmaṇācchaṃsin at the third pressing. It is stated in the sūtra: इंद्रश्च सोमं पिबतं बृहस्पत आ वो वहंतु सप्तयो रघुष्यदः (*iṃdraśca somaṃ pibataṃ bṛhaspata ā vo vahaṃtu saptayo raghuṣyadaḥ*) (Ā. 5-5).
+
+O Bṛhaspati, you and Indra drink the Soma. What kind are you? Rejoicing (mandasānā) in this sacrifice, and vṛṣaṇvasū, "showerers of wealth", that is, giving wealth to the sacrificers. May the Soma drops (indavaḥ) enter you; they are svābhuvaḥ, "well-being on all sides", that is, able to pervade the whole body. May they enter your bodies. Grant (niyacchatam) to us wealth (rayi) endowed with all heroes, that is, with sons and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- त्वं (*tvaṃ*)—you (also)
+- इंद्रश्च (*iṃdraśca*)—and Indra
+- मंदसाना (*maṃdasānā*)—being delighted
+- वृषण्वसू (*vṛṣaṇvasū*)—and granting what is desired
+- अस्मिन् यज्ञे (*asmin yajñe*)—in this sacrifice
+- सोमं (*somaṃ*)—the Soma juice
+- पिबतं (*pibataṃ*)—drink
+- स्वाभुवः (*svābhuvaḥ*)—having the power of spreading everywhere
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- वां (*vāṃ*)—your bodies
+- आ वितंतु (*ā vitaṃtu*)—may they enter **NOTE**
+
+### Printed p. 522
+
+- अस्मे (*asme*)—to us
+- सर्ववीरं (*sarvavīraṃ*)—together with all heroic sons and the rest
+- रयिं (*rayiṃ*)—wealth
+- नि यच्छतं (*ni yacchataṃ*)—provide and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, you and Indra together, delighted and granting what is desired, drink the Soma juice in this sacrifice. May the Soma juices, which have the power to spread everywhere, enter your bodies completely. Provide us with wealth together with all heroic sons and the rest.
+
+##### English translation (H. H. Wilson)
+Brihaspati, you and Indra, both exulting and showering riches, drink the Soma at this sacrifice : may the all-pervading drops enter you : bestow upon us riches comprising all male descendants.
+
+##### विशेषविषयगळु (Special Topics)
+
+This tenth verse, इंद्रश्च सोमं (*iṃdraśca somaṃ*), is to be used at the time of the third pressing by the priest called Brāhmaṇācchaṃsin as the prasthita-yājyā mantra. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra इंद्रश्च सोमं पिबतं बृहस्पते आ वो वहंतु सप्तयो रघुष्यदः (*iṃdraśca somaṃ pibataṃ bṛhaspate ā vo vahaṃtu saptayo raghuṣyadaḥ*) (Ā. 5-5).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॑स्पत इंद्र॒ वर्ध॑तं नः॒ सचा॒ सा वां॑ सुम॒तिर्भू॑त्व॒स्मे ।  
+> अ॒वि॒ष्टं धियो॑ जिगृ॒तं पुरं॑धीर्जज॒स्तम॒र्यो व॒नुषा॒म  ॑
+> रातीः ॥ ११ ॥
+
+> *bṛhaspata iṃdra vardhataṃ naḥ sacā sā vāṃ sumatirbhūtvasme |*  
+> *aviṣṭaṃ dhiyo jigṛtaṃ puraṃdhīrjajastamaryo vanuṣāma*  
+> *rātīḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पते । इंद्र । वर्धतं । नः । सचा । सा । वां । सुमतिः । भूतु । अस्मे इति ।  
+> अविष्टं । धियः । जिगृतं । पुरंऽधीः । जजस्तं । अर्यः । वनुषां । आरातीः ॥ ११ ॥
+
+> *bṛhaspate | iṃdra | vardhataṃ | naḥ | sacā | sā | vāṃ | sumatiḥ | bhūtu | asme iti |*  
+> *aviṣṭaṃ | dhiyaḥ | jigṛtaṃ | puraṃ 'dhīḥ | jajastaṃ | aryaḥ | vanuṣāṃ | ārātīḥ ‖ 11 ‖*
+
+### Printed p. 523
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बृहस्पते हे इंद्र युवां नोऽस्मान्वर्धतं । वर्धयतं । प्रवृद्दान्कुरुतं । सा सुमतिर्युवयोरनुग्रहबुद्धिरस्मे अस्मासु सचा सह भूतु ।
+> भवतु । धियः कर्माण्यविष्टं । रक्षतं । पारं नयतं । पुरंधीः पुरं शरीरं
+> धीयते स्थाप्यते याभिर्मतिभिस्ताः स्तुतीर्जिगृतं । प्रबुध्यतं । वनुषां
+> संभक्त्यणामस्माकमर्यो गंत्रीररातीः । शत्रूनित्यर्थः । जजस्तं । युध्यतं ।
+> क्षपयतमित्यर्थः ॥ च्छंदस्यरातिशब्दः स्त्रीलिंगः ॥ एवं स्तुतिं निगमय्याभीष्टं
+
+##### Gist of the bhāṣya
+
+O Bṛhaspati, O Indra, make us grow (vardhatam), that is, make us prosperous. May that favourable disposition (sumati) of you two, your graciousness, be together with us. Protect our rites (dhiyaḥ), that is, carry them to their end. Puraṃdhīḥ: the body (puram) is placed (dhīyate) by the thoughts (matayaḥ) through which it is established, so these are praises; be awake to them, that is, take notice. Of us who are givers (vanuṣām), who are given to devotion, drive off the foes (arātīḥ) who attack, that is, fight and destroy them. In the Veda the word arāti is feminine. Having thus concluded the praise, he prayed for what is desired.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—us
+- वर्धतं (*vardhataṃ*)—make prosperous
+- वः सा सुमतिः (*vaḥ sā sumatiḥ*)—that well-known gracious disposition of yours
+- अस्मे (*asme*)—in us
+- सचा भूतु (*sacā bhūtu*)—may it be attached
+- धियः (*dhiyaḥ*)—our rites
+- अविष्टं (*aviṣṭaṃ*)—protect
+- पुरंधीः (*puraṃdhīḥ*)—our praises
+- जिगृतं (*jigṛtaṃ*)—know well (and applaud)
+- वनुषां (*vanuṣāṃ*)—upon us, the givers of oblations
+- आर्यः (*āryaḥ*)—who attack
+- अरातीः (*arātīḥ*)—the foes
+- जजस्तं (*jajastaṃ*)—confront and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati and O Indra, make us prosperous. May your well-known gracious disposition be attached to us. Protect our rites. Know our praises well and applaud them. Confront and destroy the foes who attack us, the givers of oblations.
+
+##### English translation (H. H. Wilson)
+Brihaspati, Indra, elevate us: may the favourable disposition of you both be combined for us : protect our rites: be awake to our laudations, confound the arrogant (foes) of us who are the donors (of oblations).
+
+##### विशेषविषयगळु (Special Topics)
+
+Sumatiḥ: good disposition. The meaning is: may there be in you, Indra and Bṛhaspati, the good disposition to show favour to us, the sacrificers who perform the sacrifice or offer praise.
+
+### Printed p. 524
+
+Puraṃdhīḥ: पुरं शरीरं धीयते स्थाप्यते याभिर्मतिभिस्ताः स्तुतीः (*puraṃ śarīraṃ dhīyate sthāpyate yābhirmatibhistāḥ stutīḥ*). It means the hymn or utterance with which we praise the gods, impelled by the understanding that dwells in our body and stirs us. Or else puraṃdhīḥ is "of much understanding" (bahudhīḥ): a praise composed with much (excellent) understanding.
+
+Arātīḥ: in chandas, that is, in Vedic mantras, and especially in Ṛgveda mantras, the word arāti, though ordinarily masculine, is customarily used in the feminine. That is, here the form arātīḥ (accusative plural) is used instead of arātīn.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+श्रीमत्सायणमंत्रिशो दाशतय्यास्तृतीयके । अष्टके सप्तमाध्यायं व्याकार्षिदतिपेशलं ॥ (*śrīmatsāyaṇamaṃtriśo dāśatayyāstṛtīyake | aṣṭake saptamādhyāyaṃ vyākārṣidatipeśalaṃ ‖*)
+
+Thus ends, in the Mādhavīya Vedārthaprakāśa, the Ṛksaṃhitā-bhāṣya composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious Vīra Bukka, king of kings, promoter of the Vedic path of the Supreme Lord, the seventh adhyāya of the third aṣṭaka. ओं तत्त्वत् (*oṃ tattvat*).
+
+Here ends the seventh adhyāya in the third aṣṭaka of the Ṛgveda Saṃhitā, with the Bhāṣya of Śrī Sāyaṇa and with the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यता देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatā deva vāgīśvara namo 'stute ‖*) शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळं (*maṃgaḷaṃ*)
+
+ओं (*oṃ*) श्रीः (*śrīḥ*) श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं समामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ samāmi gajānanaṃ ‖*)
+
+ं ॥ यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*ṃ ‖ yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+## Sūkta 51 (Maṇḍala 4)
+With the Bhāṣya of Sāyaṇa. Ṛgveda Saṃhitā. Eighth adhyāya of the third aṣṭaka. Sūktas 51–58 of the fourth maṇḍala and sūktas 1–8 of the fifth maṇḍala. The fifty-first sūkta.
+
+**Preface**
+The deity of this sūkta and of the next is Uṣas alone. Concerning the goddess Uṣas the sage Yāska has said: उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥ (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ ‖*) (Ni. 2-19). That is, examining such questions as who the goddess Uṣas is, what her nature is, and why she has this name, he says उषः कस्मात् । उच्छतीति सत्याः । उच्छे विवासे । विवासयति हीयं तमांसि तस्मादुच्छतीत्ये- वमस्या एतस्मिन्कर्मणि सत्याः कर्तरि कारके उषा इत्येतदभिधानं भवति । का पुनरियमुषा इति । रात्रेरपरःकालः स उषा इत्युच्यते ॥ (*uṣaḥ kasmāt | ucchatīti satyāḥ | ucche vivāse | vivāsayati hīyaṃ tamāṃsi tasmāducchatītye- vamasyā etasminkarmaṇi satyāḥ kartari kārake uṣā ityetadabhidhānaṃ bhavati | kā punariyamuṣā iti | rātreraparaḥkālaḥ sa uṣā ityucyate ‖*)
+
+### Printed p. 526
+
+That is, he explains that the word is derived from the root उच्छ्वे-विवासे (*ucchve-vivāse*), which means "to drive out". What is driven out is darkness. Because she drives out the darkness and spreads light, this goddess is called Uṣas. As for that time, it is the last part of the night. The time after the night has ended and before the sun rises, when there is no darkness and it is light, is called the time of Uṣas; so he has explained the meaning.
+
+Since the time of Uṣas comes after the night has passed, it is customary to say that Uṣas is born of the night. To support this Yāska has quoted the verse
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवाय एवा रात्रुषसे योनिमारैक् ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātruṣase yonimāraik ‖*) (Ṛ. Saṃ. 1-113-1).
+Following the same order, since the sun rises after the time of Uṣas, to support the statement that the sun is produced from Uṣas Yāska has quoted the verse
+रुशद्वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः । समानबंधू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥ (*ruśadvatsā ruśatī śvetyāgādāraigu kṛṣṇā sadanānyasyāḥ | samānabaṃdhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖*) (Ṛ. Saṃ. 1-113-2)
+(Ni. 2-20).
+
+The seers have described the nature of this goddess Uṣas in many ways, and in keeping with the descriptions have used various epithets. Of these, sixteen principal words apply to the goddess Uṣas. Yāska has given them thus (Ni. 2-19).
+
+Vibhāvarī—विशेषप्रभावयुक्ता । विशिष्टप्रकाशयुक्ता (*viśeṣaprabhāvayuktā | viśiṣṭaprakāśayuktā*); very resplendent—Resplendent. This word occurs in Ṛ. Saṃ. 1-30-21; 1-48-1; 1-48-10; 1-92-14; 4-52-6; 5-79-4; 5-79-10; 8-47-14.
+
+Sūnarī—सुष्टु नेत्री (*suṣṭu netrī*); beautiful—Beautiful. This word occurs in Ṛ. Saṃ. 1-48-10; 1-48-5; 1-48-8; 4-52-1; 7-81-1.
+
+Bhāsvatī—तेजस्वती । विशिष्टप्रकाशनयुक्ता (*tejasvatī | viśiṣṭaprakāśanayuktā*); shining—Shining. This word occurs in Ṛ. Saṃ. 1-92-7; 1-113-4.
+
+### Printed p. 527
+
+Odatī—उंदी क्लेदने । उनत्ति सर्वं नीहारेणेत्योदती (*uṃdī kledane | unatti sarvaṃ nīhāreṇetyodatī*); flowing, gushing, spreading, wetting everything with mist—flowing, gushing &c. This word occurs only in Ṛ. Saṃ. 1-46-6; 8-69-2.
+
+Citramaghā—विचित्रधना । विविधरश्माख्यधना वा (*vicitradhanā | vividharaśmākhyadhanā vā*); possessing various or brilliant riches—possessed of brilliant riches. This word occurs in Ṛ. Saṃ. 7-75-5; 7-77-3; 8-58-3.
+
+Arjunī—शुभ्रवर्णा (*śubhravarṇā*); white—the white. This word occurs in Ṛ. Saṃ. 1-49-3; 5-84-2.
+
+Vājinī, or Vājinīvatī—वाजोऽन्नमस्या अस्तीति । बह्वन्ना (*vājo 'nnamasyā astīti | bahvannā*); endowed with food, or bringing food—the bringer of food. These words occur in Ṛ. Saṃ. 3-6-1; 3-60-1; 6-61-6, and in Ṛ. Saṃ. 1-3-10; 6-62-4; 7-75-5; 7-96-3; 10-75-8; 1-48-6; 1-48-16; 1-92-13; 1-92-15; 2-41-18; 4-55-9; 6-61-3; 8-24-28.
+
+Summāvarī—सुम्ममिति सुखनाम । तद्वती (*summamiti sukhanāma | tadvatī*); producing delight—the giver of joy. This word occurs only in Ṛ. Saṃ. 1-113-12.
+
+Āhanā, dyotanā—कृत्स्नं जगद्योतनशीला (*kṛtsnaṃ jagadyotanaśīlā*); shining—Bright. These words occur only in Ṛ. Saṃ. 1-123-4 and Ṛ. Saṃ. 1-123-4. **NOTE**
+
+Śvetyā—*śvetavarṇoṣā | śvetā varṇe*; of white colour—the fair-coloured. This word occurs in Ṛ. Saṃ. 1-113-2; 10-75-6.
+
+Aruṣī—आरोचमाना । रक्तवर्णा वा (*ārocamānā | raktavarṇā vā*); of red colour, of a slightly reddish hue—the ruddy. This word occurs in Ṛ. Saṃ. 3-55-11; 4-52-2; 8-68-8 and other verses.
+
+Sūnṛtā, sūnṛtāvatī, sūnṛtāvarī—प्रियसत्यरूपा । प्रियसत्यात्मिका वाक् तादृश्या वाचा युक्ता (*priyasatyarūpā | priyasatyātmikā vāk tādṛśyā vācā yuktā*); uttering pleasant and beneficial words—the utterer of pleasent or sacred voices. These words occur in Ṛ. Saṃ. 1-8-8; 1-31-5; 1-43-3 and other verses, and in Ṛ. Saṃ. 1-92-14; 1-22-3; 7-81-6; and Ṛ. Saṃ. 4-52-4.
+
+Although these words are ordinarily used with reference to the goddess Uṣas, in some contexts they are also applied to other deities.
+
 ---
 
-**Progress note:** Done through printed p. 520. pp. 515-520 (batch API)
+**Progress note:** Done through printed p. 527. pp. 521-527 (batch API)
