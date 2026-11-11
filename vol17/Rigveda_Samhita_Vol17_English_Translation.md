@@ -30559,6 +30559,295 @@ This sūkta beginning अग्निर्होता (*agnirhotā*) is the fi
 Agni is the Hotṛ, the caller of the gods, or the accomplisher of the homa, in our sacrifice (अध्वरे (*adhvare*) = यागे (*yāge*)). वाजी (*vājī*) has its simile dropped (लुप्तोपमाकं (*luptopamākaṃ*)): like a swift-going horse that bears a load, so, being the carrier of the oblation to the gods, he is led round (परि णेयते (*pari ṇeyate*)), that is, conducted on every side. So also says a Brāhmaṇa: वाजी सन्सरि णेयत इति वाजिनमिव ह्येनं संतं परिणयंति । (*vājī sansari ṇeyata iti vājinamiva hyenaṃ saṃtaṃ pariṇayaṃti |*) (Ai. Brā. 2-5). **NOTE**
 What kind of Agni is he? Among the shining gods, Indra and the others, he is the shining god, यज्जियः (*yajjiyaḥ*), worthy of sacrifice.
 
+### Printed p. 918
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—the accomplisher of the oblation
+- देवेषु (*deveṣu*)—among the gods, Indra and the others
+- देवः (*devaḥ*)—the shining one
+- यज्ञियः (*yajñiyaḥ*)—the one worthy of sacrifice
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—our
+- अध्वरे (*adhvare*)—in the sacrifice
+- वाजी सन् (*vājī san*)—being the bearer of the oblation like a swift-going horse
+- परिणीयते (*pariṇīyate*)—is led around
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the accomplisher of the oblation, shining among the gods Indra and the others, and worthy of sacrifice, is led around in our sacrifice as the bearer of the oblation to the gods, like a swift-going horse.
+
+##### English translation (H. H. Wilson)
+Agni, the invoker (of the gods), like a horse (that bears a burden), is brought to our sacrifice; a deity adorable amongst deities.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ त्रिवि॒ष्ट्य॑ध्व॒रं यात्य॒ग्नी र॒थीरि॑व ।  
+> आ दे॒वेषु॒ प्रयो॒ दध॑त् ॥ २ ॥
+
+> *pari triviṣṭyadhvaraṃ yātyagnī rathīriva |*  
+> *ā deveṣu prayo dadhat ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । त्रिविष्टि । अध्वरं । याति । अग्निः । रथीः इव ।  
+> आ । देवेषु । प्रयः । दधत् ॥ २ ॥
+
+> *pari | triviṣṭi | adhvaraṃ | yāti | agniḥ | rathīḥ iva |*  
+> *ā | deveṣu | prayaḥ | dadhat ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवेषु द्योतमानेष्ट्विंद्रादिषु । प्रय इत्यन्ननामेदं । प्रयो यजमानैर्दत्तं हवीरूपमन्नमा दधत् आ समंताद्धारयन्नग्निरंगनादिगुणविशिष्टोऽग्निस्त्रिविष्टि त्रिवारं । सवनत्रयेऽपीत्यर्थः । परि परितः समंतादध्वरं यजमानैः
+> कृतं यागं याति । गच्छति । परिगमने दृष्टांतः । रथीरिव । रथवान्पुरुषो यथा
+> शीघ्रं याति तद्वत् । तथा च ब्राह्मणं । परि त्रिनिष्ट्यध्वरं यात्यग्नी रथीरिवेत्येष हि
+> रथीरिवाध्वरं पर्योति । ऐ. ब्रा. २-५ इति ॥
+
+##### Gist of the bhāṣya
+
+Among the gods, the shining Indra and the rest, Agni, endowed with qualities such as that of going forward, holds fully the food, the oblation given by the sacrificers; त्रिविष्टि (*triviṣṭi*) means "thrice", that is, at all three pressings. He goes all around the sacrifice performed by the sacrificers, as a man with a chariot goes swiftly; this is the illustration of his going around. The Brāhmaṇa says the same: परि त्रिनिष्ट्यध्वरं यात्यग्नी रथीरिवेत्येष हि रथीरिवाध्वरं पर्योति (*pari triniṣṭyadhvaraṃ yātyagnī rathīrivetyeṣa hi rathīrivādhvaraṃ paryoti*) (Ai. Brā. 2-5).**NOTE**
+
+### Printed p. 919
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेषु (*deveṣu*)—among (for) the gods Indra and the others
+- प्रयः (*prayaḥ*)—oblations
+- आ दधत् (*ā dadhat*)—bearing fully
+- अग्निः (*agniḥ*)—Agni
+- त्रिविष्टि (*triviṣṭi*)—at all three times of the sacrifice
+- परि (*pari*)—around
+- अध्वरं (*adhvaraṃ*)—the sacrifice
+- रथीः इव (*rathīḥ iva*)—as a charioteer comes swiftly
+- याति (*yāti*)—approaches
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who bears the oblations for the gods Indra and the others, comes swiftly at all three times of the sacrifice, like a charioteer coming swiftly, and is ready in the sacrifice.
+
+##### English translation (H. H. Wilson)
+Agni, thrice (a day), comes to our sacrifice like a charioteer, bearing the sacrificial food to the gods.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ वाज॑पतिः क॒विर॒ग्निर्ह॒व्यान्य॑क्रमीत् ।  
+> दध॒द्रत्ना॑नि दा॒शुषे॑ ॥ ३ ॥
+
+> *pari vājapatiḥ kaviragnirhavyānyakramīt |*  
+> *dadhadratnāni dāśuṣe ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । वाजपतिः । कविः । अग्निः । हव्यानि । अक्रमीत्. ।  
+> दधत् । रत्नानि । दाशुषे ॥ ३ ॥
+
+> *pari | vājapatiḥ | kaviḥ | agniḥ | havyāni | akramīt. |*  
+> *dadhat | ratnāni | dāśuṣe ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजपतिर्वाजानामन्नानां पतिः पालकः । परि वाजपतिः कविरित्येष हि वाजानां पतिः । ऐ. ब्रा. २-५ । इति ब्राह्मणं । कविः क्रांतदर्शि मेधावी ना दाशुषे
+> हविर्दत्तवते यजमानाय रत्नानि रमणीयानि धनानि दधत् प्रयच्छन्नग्निर्हव्यानि
+> हवींषि पर्यक्रमीत् । परितः क्रामति । व्याप्नोति ॥
+
+##### Gist of the bhāṣya
+
+वाजपतिः (*vājapatiḥ*) is the lord and protector of वाज (*vāja*), foods. The Brāhmaṇa says: परि वाजपतिः कविरित्येष हि वाजानां पतिः (*pari vājapatiḥ kavirityeṣa hi vājānāṃ patiḥ*) (Ai. Brā. 2-5). कविः (*kaviḥ*) is the far-seeing, the wise. Agni, giving delightful riches to the sacrificer who has given the oblation, has gone around the oblations; पर्यक्रमीत् (*paryakramīt*) means he strides around, he pervades.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजपतिः (*vājapatiḥ*)—the protector of foods
+- कविः (*kaviḥ*)—the far-seeing
+- दाशुषे (*dāśuṣe*)—to the one who offers the oblation
+- रत्नानि (*ratnāni*)—delightful riches
+- दधत् (*dadhat*)—the giver
+- अग्निः (*agniḥ*)—Agni
+- हव्यानि (*havyāni*)—the oblations
+- परि अक्रमीत् (*pari akramīt*)—has surrounded, pervaded and stands
+
+### Printed p. 920
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the lord and protector of foods, the wise, the giver of delightful riches to the sacrificer who offers the oblation, stands surrounding and pervading the oblations.
+
+##### English translation (H. H. Wilson)
+The sage, Agni, the lord of food, has encompassed the oblation, giving precious things to the donor.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं यः सृंज॑ये पु॒रो दै॑ववा॒ते स॑मि॒ध्यते॑ ।  
+> द्यु॒मा अ॑मित्र॒दंभ॑नः ॥ ४ ॥
+
+> *ayaṃ yaḥ sṛṃjaye puro daivavāte samidhyate |*  
+> *dyumā amitradaṃbhanaḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । यः । सृंजये । पुरः । दैववाते । संइध्यते ।  
+> द्युमान् । अमित्र्यदंभनः ॥ ४ ॥
+
+> *ayaṃ | yaḥ | sṛṃjaye | puraḥ | daivavāte | saṃidhyate |*  
+> *dyumān | amitryadaṃbhanaḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः प्रसिद्धोऽयं प्रत्यक्षेणोपलभ्यमानोऽग्निर्दैववाते देववातस्य
+> पुत्रे सृंजये । सृंजयो नाम कश्चित्सोमयाची । तस्मिन्निमित्तभूते सति तद्यागार्थमित्यर्थः । सृंजयस्य यष्टत्वं तैत्तिरीया आमनंति । वासिष्ठो ह सात्यहव्यो देवभागं पप्रच्छ यत्सृंजयान्बहुयाजिनोऽयीयजः । तै. स. ६-६-२-२।
+> इति । पुरः पूर्वस्यां दिशि स्थितायामुत्तरवेद्यां समिध्यते । सम्यग्गीप्यते । अमित्रदंभनः शत्रूणां हिंसकः सोऽग्निर्द्युमान् दीप्तिमान् भवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+This well-known Agni, perceived before our eyes, is kindled for Sṛñjaya, son of Devavāta; Sṛñjaya was a Soma-sacrificer, and Agni is kindled because of him, for his sacrifice. The Taittirīyas record Sṛñjaya's sacrificing: वासिष्ठो ह सात्यहव्यो देवभागं पप्रच्छ यत्सृंजयान्बहुयाजिनोऽयीयजः (*vāsiṣṭho ha sātyahavyo devabhāgaṃ papraccha yatsṛṃjayānbahuyājino 'yīyajaḥ*) (Tai. Saṃ. 6-6-2-2). पुरः (*puraḥ*): on the northern altar situated in the eastern direction he is well kindled. He, the destroyer of foes, becomes द्युमान् (*dyumān*), radiant; "becomes" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the well-known
+- अयं (*ayaṃ*)—the visible Agni
+- दैववाते (*daivavāte*)—of the son of Devavāta
+- सृंजये (*sṛṃjaye*)—for the sacrifice of one named Sṛñjaya, as he appeared visibly before
+- पुरः (*puraḥ*)—on the northern altar in front
+- समिध्यते (*samidhyate*)—is kindled
+- अमित्रदंभनः (*amitradaṃbhanaḥ*)—that same destroyer of foes
+- द्युमान् (*dyumān*)—shines, endowed with brilliance
+
+### Printed p. 921
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known, visible Agni is kindled on the northern altar in front, as he appeared visibly before for the sacrifice of Sṛñjaya, son of Devavāta; and that same destroyer of foes shines, endowed with brilliance.
+
+##### English translation (H. H. Wilson)
+Radiant in this Agni, the subduer of foes, who is kindled on the (altar) of the east as (he was kindled) for Srinjaya, the son of Devavata.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sṛñjaye: the commentator says that Sṛñjaya was a Soma-sacrificer, the son of Devavāta, and that Agni blazed well in the sacrifice he performed. The name of this Sṛñjaya is mentioned in this Ṛk and also in the Ṛk
+स सृंजयाय तुर्वशं परादाद्व्रजीवतो दैववाताय शिक्षन् । (*sa sṛṃjayāya turvaśaṃ parādādvrajīvato daivavātāya śikṣan |*)
+(Ṛ. Saṃ. 6-27-7).
+Here it is said that Indra subjected the king Turvaśa to the king Sṛñjaya, son of Devavāta. Sṛñjaya is to be understood as king of the people of that name (the Sṛñjayas). The defeat of these Sṛñjayas in battle is mentioned in the Yajurveda:
+वासिष्ठो ह सात्यहव्यो देवभागं पप्रच्छ यत्संजयान्बहुयाजिनोयीयजो यज्ञे यज्ञं प्रत्यतिष्ठिपा यज्ञपताविति सहोवाच यज्ञपताविति सत्याद्वै संजयाः पराबभूवुरिति होवाच ॥ (*vāsiṣṭho ha sātyahavyo devabhāgaṃ papraccha yatsaṃjayānbahuyājinoyīyajo yajñe yajñaṃ pratyatiṣṭhipā yajñapatāviti sahovāca yajñapatāviti satyādvai saṃjayāḥ parābabhūvuriti hovāca ‖*)
+(Śai. Saṃ. 6-6-2-2, 3)**NOTE**
+The matter of these Sṛñjayas will be explained in the sixth Maṇḍala. See also the account of Somaka, a king of this same line, given in the 7th Ṛk of this same sūkta.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्य॑ घा वी॒र ईव॑तो॒ऽग्नेरी॑शीत॒ मर्त्यः॑ ।  
+> ति॒ग्म जं॑भस्य मी॒ळ्हुषः॑ ॥ ५ ॥
+
+> *asya ghā vīra īvato 'gnerīśīta martyaḥ |*  
+> *tigma jaṃbhasya mīḷhuṣaḥ ‖ 5 ‖*
+
+### Printed p. 922
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । घ । वीरः । ईवतः । अग्नेः । ईशीत । मर्त्यः ।  
+> तिग्मृजंभस्य । मीळ्हुषः ॥ ५ ॥
+
+> *asya | gha | vīraḥ | īvataḥ | agneḥ | īśīta | martyaḥ |*  
+> *tigmṛjaṃbhasya | mīḷhuṣaḥ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वीरः स्तुता विक्रांतो मर्त्यो मरणधर्मा यजमानस्तिग्मजंभस्य तीक्ष्णतेजसो माळ्हुषोऽभिलषितफलानां सेक्तुरीवतो गमनवतोऽस्याग्नेरीशीत ।
+> ईश्वरो भवेत् । घेति पादपूरणः । एतेन यजमान आत्माभीष्टफलं कारयितुं
+> समर्थो भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The वीरः (*vīraḥ*), the praising, valiant mortal, that is the sacrificer subject to death, may become master of this Agni, who is तिग्मजंभस्य (*tigmajaṃbhasya*) of sharp splendour, मीळ्हुषः (*mīḷhuṣaḥ*) the sprinkler (showerer) of the fruits desired, and ईवतः (*īvataḥ*) endowed with movement. ईशीत (*īśīta*) means "may be master". घ (*gha*) is a mere verse-filler. By this the sacrificer becomes able to bring about the fruit he desires.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरः (*vīraḥ*)—one who has power in praise
+- मर्त्यः (*martyaḥ*)—the human sacrificer
+- तिग्मजंभस्य (*tigmajaṃbhasya*)—of him who has sharp splendour
+- मीळ्हुषः (*mīḷhuṣaḥ*)—the giver of the desired fruit
+- ईवतः (*īvataḥ*)—of him whose nature is movement
+- अस्य अग्नेः (*asya agneḥ*)—of this same Agni
+- ईशीत (*īśīta*)—may be master
+
+##### भावार्थ (Bhāvārtha)
+
+May the human sacrificer, who has extraordinary power in praise, be master of this same Agni, who has sharp splendour, gives the desired fruit and is of the nature of movement.
+
+##### English translation (H. H. Wilson)
+May the mortal who is strenuous (in worship) acquire authority over this Agni, the sharp-rayed, the showerer (of benefits).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तनुर्वं॑तं॒ न सा॑न॒सिम॑रु॒षं न दि॒वः शिशुं॑ ।  
+> म॒र्मृ॒ज्यंते॑ दि॒नेदि॑ने ॥ ६ ॥
+
+> *tanurvaṃtaṃ na sānasimaruṣaṃ na divaḥ śiśuṃ |*  
+> *marmṛjyaṃte dinedine ‖ 6 ‖*
+
+### Printed p. 923
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अर्वंतं । न । सानसिं । अरुषं । न । दिवः । शिशुं ।  
+> मर्मृज्यंते । दिवेदिवे ॥ ६ ॥
+
+> *taṃ | arvaṃtaṃ | na | sānasiṃ | aruṣaṃ | na | divaḥ | śiśuṃ |*  
+> *marmṛjyaṃte | divedive ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजमाना अर्वंतं न शीघ्रगामिनमश्वमिव सानसिं संभजनीयं दिवः शिशुं
+> न द्युलोकस्य पुत्रभूतं सूर्यमिवारुषमारोचमानं तमग्निं दिवे दिवे प्रतिदिनं मर्मृज्यंते । भृशं परिचरणं कुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers daily, every day, worship intensely that Agni, who is like a swift-going horse, सानसिं (*sānasiṃ*) worthy of being served, and अरुषं (*aruṣaṃ*) shining, like the sun, the son of the heavenly world. मर्मृज्यंते (*marmṛjyaṃte*) means they attend on him greatly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्वंतं न (*arvaṃtaṃ na*)—who is like a swift-going horse
+- सानसिं (*sānasiṃ*)—the venerable
+- दिवः (*divaḥ*)—of the firmament
+- शिशुं न (*śiśuṃ na*)—like the son, the sun
+- अरुषं (*aruṣaṃ*)—of attractive colour
+- तं (*taṃ*)—that Agni
+- दिवे दिवे (*dive dive*)—every day
+- मर्मृज्यंते (*marmṛjyaṃte*)—(the priests and others) attend on greatly
+
+##### भावार्थ (Bhāvārtha)
+
+The priests and others daily attend greatly on Agni, who is like a swift-going horse, venerable, and of attractive colour like the sun, the son of the firmament.
+
+##### English translation (H. H. Wilson)
+They diligently worship him daily who is like a horse (to convey oblations), who is liberal and resplendent as the son of heaven, (the sun).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बोध॒द्यन्मा॒ हरि॑भ्यां कुमा॒रः सा॑हदे॒व्यः ।  
+> आच्चा न हूत उदरं ॥ ७ ॥
+
+> *bodhadyanmā haribhyāṃ kumāraḥ sāhadevyaḥ |*  
+> *āccā na hūta udaraṃ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बोधत् । यत् । मा । हरिभ्यां । कुमारः । साहदेव्यः ।  
+> अच्छ । न । हूतः । उत् । अरं ॥ ७ ॥
+
+> *bodhat | yat | mā | haribhyāṃ | kumāraḥ | sāhadevyaḥ |*  
+> *accha | na | hūtaḥ | ut | araṃ ‖ 7 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 917. pp. 911-917 (batch API)
+**Progress note:** Done through printed p. 923. pp. 918-923 (batch API)
