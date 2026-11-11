@@ -13804,6 +13804,342 @@ O Ṛbhus, at this time of the sacrifice may these Soma juices, the means of the
 ##### English translation (H. H. Wilson)
 May these sacrifices be (acceptable) to you in heart and mind : may to-day the sufficient (juices) mixed with butter flow to you : the full libations are prepared for you : may they, when drank, animate you for glorious deeds.
 
+### Printed p. 358
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यु॒दा॒यं दे॒वहि॑तं॒ यथा॑ वः॒ स्तोमो॑ वाजा ऋभुक्षणो ॒ ॑
+> ददे वः ।  
+> जु॒ह्वे म॑नु॒ष्पदुप॑रासु वि॒क्षु यु॒ष्टे सचा॑ बृ॒हद्दि॑वेषु॒  ॑
+> सोमं ॥ ३ ॥
+
+> *tyudāyaṃ devahitaṃ yathā vaḥ stomo vājā ṛbhukṣaṇo*  
+> *dade vaḥ |*  
+> *juhve manuṣpaduparāsu vikṣu yuṣṭe sacā bṛhaddiveṣu*  
+> *somaṃ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिउदयं । देवहितं । यथा । वः । स्तोमः । वाजाः । ऋभुक्षणः । ददे । वः ।  
+> जुह्वे । मनुष्वत् । उपरासु । विक्षु । युष्टे इति । सचा । बृहत् ऽदिवेषु । सोमं॥
+
+> *triudayaṃ | devahitaṃ | yathā | vaḥ | stomaḥ | vājāḥ | ṛbhukṣaṇaḥ | dade | vaḥ |*  
+> *juhve | manuṣvat | uparāsu | vikṣu | yuṣṭe iti | sacā | bṛhat 'diveṣu | somaṃ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्युदायं त्र्युदयं सवनत्रयगमनोपेतं देवहितं सोमाख्यमन्नं
+> देवेभ्यो हितं देवैर्वा विहितं । तृतीयसवनस्थमित्यर्थः । तद्यथा वो युष्मान्नदे । धारयति । हे वाजा हे ऋभुक्षण ऋभवो यथा स्तोमः स्तोत्रं वो
+> ददे । धारयति । उपरासु । उप देवयजनसमीपे रमंत इत्युपराः । तासु विक्षु
+> प्रजासु बृहद्दिवेषु प्रभूतदीप्तिषु देवेषु मध्यॆ मनुष्वत् मनुरिव युष्टे
+> युष्मदर्थं सचा सहानेकग्रहेषु प्रस्थितं जुह्वे । जुहोमि सोमं ॥
+
+##### Gist of the bhāṣya
+
+"This त्र्युदायं (*tryudāyaṃ*)", that is, the Soma food that goes with the three pressings, is beneficial to the gods or is ordained by the gods; the sense is that it belongs to the third pressing. As that Soma supports you, so too a hymn of praise supports you, O Vājas, O Ṛbhukṣans, that is, Ṛbhus. उपरासु (*uparāsu*) means those who take delight near the place of divine sacrifice (ⁿupa-rāḥ). Among those people (विक्षु (*vikṣu*)) and among the exceedingly radiant gods, like Manu, I offer Soma for you, together with the offering that has been set out for the many cups.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजाः (*vājāḥ*)—O Vājas
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O Ṛbhus
+- त्र्युदायं (*tryudāyaṃ*)—offered at the third pressing
+- देवहितं (*devahitaṃ*)—beneficial to the gods (at this time), the Soma
+- यथा (*yathā*)—in what manner
+- वः (*vaḥ*)—you
+- ददे (*dade*)—makes you strong and supports you (and in what manner)
+- स्तोमः (*stomaḥ*)—the hymn of praise offered at this time supports you (in that manner)
+- उपरासु (*uparāsu*)—those who take delight near the place of divine sacrifice
+- विक्षु (*vikṣu*)—among the people
+- बृहद्दिवेषु (*bṛhaddiveṣu*)—among the exceedingly shining gods
+- मनुष्यत् (*manuṣyat*)—like Manu
+- युष्टे (*yuṣṭe*)—with you in view
+- सोमं (*somaṃ*)—Soma
+- जुह्वे (*juhve*)—I offer
+
+### Printed p. 359
+
+##### भावार्थ (Bhāvārtha)
+
+O Vājas, O Ṛbhus: in the manner in which the Soma, offered at the third pressing and beneficial to the gods at this time, makes you strong and is your support, and in the manner in which the hymn offered at this time is a source of zeal for you, in that manner, among the gods and men who take delight near the place of divine sacrifice, I offer Soma to you, with you in view, like Manu.
+
+##### English translation (H. H. Wilson)
+As the offering suited to the gods at the third (daily) sacrifice supports you, Vajas, Ribhukshans; as the praise (then recited supports you): therefore, like Manu, I offer you the Soma juice, along with the very radiant (deities) among the people assembled at the solemnity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पीवो॑अश्वाः शु॒चद्र॑था॒ हि भू॒तायः॑शिप्रा वाजिनः सुनि॒ष्काः ।  
+> इंद्र॑स्य सूनो शवसो नपा॒तोऽनु॑ वश्चेत्यग्रि॒यं मदा॑य॥
+
+> *pīvoaśvāḥ śucadrathā hi bhūtāyaḥśiprā vājinaḥ suniṣkāḥ |*  
+> *iṃdrasya sūno śavaso napāto 'nu vaścetyagriyaṃ madāya‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पीवः अश्वाः । शुचत् रथाः । हि । भूत । आयः शिप्राः । वाजिनः । सुनिष्काः ।  
+> इंद्रस्य । सूनो इति । शवसः । नसातः । अनु । वः । चेति । अग्रियं । मदाय ॥ ४ ॥
+
+> *pīvaḥ aśvāḥ | śucat rathāḥ | hi | bhūta | āyaḥ śiprāḥ | vājinaḥ | suniṣkāḥ |*  
+> *iṃdrasya | sūno iti | śavasaḥ | nasātaḥ | anu | vaḥ | ceti | agriyaṃ | madāya ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिन ऋभवः पीवोअश्वाः । पीवानोऽश्वा येषां ते तादृशाः । तथा
+> शुचद्रथा दीप्तरथा अयःशिप्राः । शिप्रे हनू नासिके वा । अयोवत्सारभूतशिप्राः
+> सुनिष्काः शोभनधनाश्च भूत । भवत । हे इंद्रस्य सूनो सूनवः पुत्रवद्रक्षणीया
+> हे शवसो नपाशो बलस्य पुत्रा बलिनो वो युष्मभ्यं मदायानु चेति ।
+> अन्वज्ञायि । देवेष्वग्रियमग्रे भवं तृतीयसवनं ॥
+
+##### Gist of the bhāṣya
+
+O Vājins, O Ṛbhus, be पीवोअश्वाः (*pīvoaśvāḥ*), those whose horses are stout; likewise शुचद्रथा (*śucadrathā*), those with shining chariots; अयःशिप्राः (*ayaḥśiprāḥ*), where शिप्रे (*śipre*) means the two jaws or the nose, that is, those whose शिप्र (*śipra*) are as of iron; and सुनिष्काः (*suniṣkāḥ*), those with fair wealth. भूत (*bhūta*) means "be". O sons of Indra, to be protected like sons, O grandsons of strength (शवसो नपातः (*śavaso napātaḥ*)), sons of might, mighty ones: for your exhilaration this foremost thing among the gods, the third pressing, has been ordained (अन्वज्ञायि (*anvajñāyi*)).
+
+### Printed p. 360
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनः (*vājinaḥ*)—O Ṛbhus (you)
+- पीवोअश्वाः (*pīvoaśvāḥ*)—those borne by stout horses
+- शुचद्रथाः (*śucadrathāḥ*)—those who stand in shining chariots
+- आयःशिप्राः (*āyaḥśiprāḥ*)—those whose jaw-region is made of steel
+- सुनिष्काः (*suniṣkāḥ*)—those with excellent wealth
+- भूत (*bhūta*)—you are
+- इंद्रस्य सूनो (*iṃdrasya sūno*)—those like sons to Indra
+- शवसो नपातः (*śavaso napātaḥ*)—O Ṛbhus, sons of strength
+- वः (*vaḥ*)—your
+- मदाय (*madāya*)—for delight
+- अग्रियं (*agriyaṃ*)—this third pressing
+- अनु चेति (*anu ceti*)—has been resolved upon
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus (Vājins), you are borne by stout horses, stand in shining chariots, have jaw-regions made of steel, and have excellent wealth. O Ṛbhus, who are like sons to Indra and sons of strength, this third pressing has been resolved upon for your delight.
+
+##### English translation (H. H. Wilson)
+Vajins, you are borne by stout horses mounted on a brilliant car, have jaws of iron, and are possessed of treasures: sons of Indra, grandsons of rtrength, this last sacrifice is for your exhilaration.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒भुमृ॑भुक्षणो र॒यिं वाजे॑ वा॒जिन्त॑मं॒ युजं॑ ।  
+> इंद्र॑स्वंतं हवामहे सदा॒सात॑मम॒श्विनं॑ ॥ ५ ॥
+
+> *ṛbhumṛbhukṣaṇo rayiṃ vāje vājintamaṃ yujaṃ |*  
+> *iṃdrasvaṃtaṃ havāmahe sadāsātamamaśvinaṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋभुं । ऋभुक्षणः । रयिं । वाजे । वाजिन्तमं । युजं ।  
+> इंद्रस्वंतं । हवामहे । सदासातमं । अश्विनं ॥ ५ ॥
+
+> *ṛbhuṃ | ṛbhukṣaṇaḥ | rayiṃ | vāje | vājintamaṃ | yujaṃ |*  
+> *iṃdrasvaṃtaṃ | havāmahe | sadāsātamaṃ | aśvinaṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभुक्षण ऋभव ऋभुमुरुभासमानं रयिं धनरूपं । तद्देतुभूतत्वात् ताच्छब्द्यं । वाजे संग्रामे वाजिन्तममत्यंतबलवंतं युजं परस्परयोगोपेतमिंद्रस्वंतमिंद्रवंतमिंद्रियवंतं सदासातमं सर्वदा दातृतममश्विनमश्ववंतं भवतां गणं हवामहे । आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhukṣans, Ṛbhus: ऋभुं (*ṛbhuṃ*) means shining; रयिं (*rayiṃ*) is wealth, and since it is the cause of that, the word is used in the sense of "that" (tācchabdya). In वाजे (*vāje*), that is, in battle, the वाजिन्तमं (*vājintamaṃ*) is exceedingly strong; युजं (*yujaṃ*) is joined together mutually; इंद्रस्वंतं (*iṃdrasvaṃtaṃ*) is possessed of Indra, that is, of the senses; सदासातमं (*sadāsātamaṃ*) is the most constant giver; अश्विनं (*aśvinaṃ*) is possessed of horses. Your company so characterised we call (हवामहे (*havāmahe*)), I invoke.
+
+### Printed p. 361
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O Ṛbhus
+- ऋभुं (*ṛbhuṃ*)—exceedingly shining
+- रयिं (*rayiṃ*)—whose nature is wealth
+- वाजे (*vāje*)—in battle
+- वाजिंतमं (*vājiṃtamaṃ*)—exceedingly mighty
+- युजं (*yujaṃ*)—joined together
+- इंद्रस्वंतं (*iṃdrasvaṃtaṃ*)—connected with the senses
+- सदासातमं (*sadāsātamaṃ*)—of a nature to give always
+- अश्विनं (*aśvinaṃ*)—possessed of horses, your company
+- हवामहे (*havāmahe*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, your company, exceedingly shining, of the nature of wealth, exceedingly mighty in battle, joined together, connected with the senses, of a nature to give always, and possessed of horses: we pray and call it.
+
+##### English translation (H. H. Wilson)
+We invoke you, Ribhukshans, for splendid wealth, mutually co-
+operating, most invorating in war, affecting the senses, ever munificent,
+and comprehendir g horses.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सेद्य॑भवो॒ यमव॑थ यू॒यमिंद्र॑श्च॒ मर्त्यं॑ ।  
+> स धी॒भिर॑स्तु॒ सनि॑ता मे॒धसा॑ता॒ सो अर्व॑ता ॥ ६ ॥
+
+> *sedyabhavo yamavatha yūyamiṃdraśca martyaṃ |*  
+> *sa dhībhirastu sanitā medhasātā so arvatā ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । ऋभवः । यं । अवथ । यूयं । इंद्रः। च । मर्त्य९० ।  
+> सः । धीभिः । अस्तु । सनिता । मेध्वसाता । सः । अर्वता ॥ ६ ॥
+
+> *saḥ | it | ṛbhavaḥ | yaṃ | avatha | yūyaṃ | iṃdraḥ| ca | martya90 |*  
+> *saḥ | dhībhiḥ | astu | sanitā | medhvasātā | saḥ | arvatā ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवो यूयमिंद्रश्च यं मर्त्यमवथ । रक्षथ । सेत्स एवास्तु।भवतु।
+> नान्यः श्रेष्ठो भवत्वित्यर्थः । स एव धीभिः कर्मभिः सनिता संभक्ता भवतु । मेधसाता
+> मेधसातौ यज्ञे स एवार्वतारणवताश्वेन युक्तो भवतु ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhus, the mortal whom you and Indra protect, let him alone be (foremost); the sense is, let no other be better. Let him alone, by his acts (धीभिः (*dhībhiḥ*)), be a sharer (सनिता (*sanitā*)), a bestower. At the sacrifice (मेधसाता (*medhasātā*)) let him alone be furnished with a swift horse (अर्वता (*arvatā*)).
+
+### Printed p. 362
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- यूयं (*yūyaṃ*)—you
+- इंद्रश्च (*iṃdraśca*)—and Indra, joined together
+- यं मर्त्यं (*yaṃ martyaṃ*)—whichever man
+- अवथ (*avatha*)—you protect
+- सेत् (*set*)—that same man
+- अस्तु (*astu*)—let him be foremost
+- सः (*saḥ*)—he
+- धीभिः (*dhībhiḥ*)—joined with excellent acts
+- सनिता (*sanitā*)—let him be a liberal giver
+- मेधसाता (*medhasātā*)—at the sacrifice
+- सः (*saḥ*)—he
+- अर्वता (*arvatā*)—let him be possessed of an excellent horse
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, the man whom you, joined with Indra, protect, let that man be foremost. Let him, joined with excellent acts, be a liberal giver. At the sacrifice let him be possessed of an excellent horse.
+
+##### English translation (H. H. Wilson)
+May the man whom you, Ribhus and Indra, favour, be ever liberal
+by his acts, and possessed of a horse at the sacrifice.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि नो॑ वाजा ऋभुक्षणः प॒थश्चि॑तन॒ यष्ट॑वे ।  
+> अ॒स्मभ्यं॑ सूरयः स्तु॒ता विश्वा॒ आशा॑स्तरी॒षणि॑ ॥ ७ ॥
+
+> *vi no vājā ṛbhukṣaṇaḥ pathaścitana yaṣṭave |*  
+> *asmabhyaṃ sūrayaḥ stutā viśvā āśāstarīṣaṇi ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । नः । वाजाः । ऋभुक्षणः । पथः । चितन । यष्टवे ।  
+> अस्मभ्यं । सूरयः । स्तुताः । विश्वाः । आशाः । तरीषणि ॥ ७ ॥
+
+> *vi | naḥ | vājāḥ | ṛbhukṣaṇaḥ | pathaḥ | citana | yaṣṭave |*  
+> *asmabhyaṃ | sūrayaḥ | stutāḥ | viśvāḥ | āśāḥ | tarīṣaṇi ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजा हे ऋभुक्षण ऋभवो नोऽस्माकं पथो मार्गान् यष्टवे
+> यष्टुं यज्ञमार्गान्वि चितन । विचेतयत । प्रज्ञापयतेत्यर्थः । अस्मभ्यं हे
+> सूरयो मेधाविनो यूयं स्तुताः संतो विश्वा आशाः सर्वा दिशस्तरीषणि
+> तरीतुं सामर्थ्यं । वितरतेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Vājas, O Ṛbhukṣans, Ṛbhus: for us, to sacrifice (यष्टवे (*yaṣṭave*)), make known (वि चितन (*vi citana*)), cause us to perceive, the paths, the ways of sacrifice. O सूरयः (*sūrayaḥ*), wise ones, being praised, give us the ability to cross (तरीषणि (*tarīṣaṇi*)) all the quarters (विश्वा आशाः (*viśvā āśāḥ*)); "give" (वितरत (*vitarata*)) is the word to be supplied.
+
+### Printed p. 363
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजाः (*vājāḥ*)—O Vājas
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O Ṛbhus
+- नः (*naḥ*)—to us
+- यष्टवे (*yaṣṭave*)—for performing sacrifice
+- पथः (*pathaḥ*)—to follow the excellent paths
+- वि चितन (*vi citana*)—instruct
+- सूरयः (*sūrayaḥ*)—you who are wise
+- स्तुताः (*stutāḥ*)—praised by us
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- विश्वा आशाः (*viśvā āśāḥ*)—all the quarters
+- तरीषणि (*tarīṣaṇi*)—to cross (produce the ability)
+
+##### भावार्थ (Bhāvārtha)
+
+O Vājas, O Ṛbhus, show us the excellent paths for performing sacrifice. You who are wise, produce in us the ability to cross all the quarters.
+
+##### English translation (H. H. Wilson)
+Vajas, Ribhukshans, direct us in the way to sacrifice; for you, who are intelligent, being glorified (by us), are able to traverse all the quarters (of space).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं नो॑ वाजा ऋभुक्षण॒ इंद्र॒ नास॑त्या र॒यिं ।  
+> समश्वं॑ चर्ष॒णिभ्य॒ आ पु॒रु श॑स्त्र म॒घत्त॑ये ॥ ८ ॥
+
+> *taṃ no vājā ṛbhukṣaṇa iṃdra nāsatyā rayiṃ |*  
+> *samaśvaṃ carṣaṇibhya ā puru śastra maghattaye ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । नः । वाजाः । ऋभुक्षणः । इंद्र । नासत्या । रयिं ।  
+> सं । अश्वं । चर्षणिभ्यः । आ । पुरु । शस्त्र । मघत्तये ॥ ८ ॥
+
+> *taṃ | naḥ | vājāḥ | ṛbhukṣaṇaḥ | iṃdra | nāsatyā | rayiṃ |*  
+> *saṃ | aśvaṃ | carṣaṇibhyaḥ | ā | puru | śastra | maghattaye ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहृत्याभिमतमाशास्त्रे । हे वाजा हे ऋभुक्षण ऋभवो
+> हे इंद्र हे नासत्याश्विन् ते यूयं नोऽस्मभ्यं चर्षणिभ्यो मनुष्येभ्यः
+> स्तोतृभ्यस्तं पुरु प्रभूतं रयिं धनमश्वं च पुरु प्रभूतं मघत्तये धनदानाय
+> समा शस्त्र । सम्यगाशासनं कुरुत ॥
+
+##### Gist of the bhāṣya
+
+Concluding the praise with this verse, he asks for what is desired. O Vājas, O Ṛbhukṣans, Ṛbhus, O Indra, O Nāsatyas, Aśvins: you, to us, to men (चर्षणिभ्यः (*carṣaṇibhyaḥ*)), to the praisers, ample wealth and ample horses, for the giving of wealth (मघत्तये (*maghattaye*)), grant them rightly, make the proper command (समा शस्त्र (*samā śastra*)).
+
+### Printed p. 364
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजाः (*vājāḥ*)—O Vājas
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O Ṛbhus
+- इंद्र (*iṃdra*)—O Indra
+- नासत्या (*nāsatyā*)—O Aśvin gods
+- चर्षणिभ्यः (*carṣaṇibhyaḥ*)—in human form
+- नः (*naḥ*)—to us who are praisers
+- तं (*taṃ*)—the well-known
+- पुरु (*puru*)—and abundant
+- रयिं (*rayiṃ*)—wealth
+- अश्वं (*aśvaṃ*)—and horse
+- मघत्तये (*maghattaye*)—for the increase of prosperity
+- सं आशस्त (*saṃ āśasta*)—command
+
+##### भावार्थ (Bhāvārtha)
+
+O Vājas, O Ṛbhus, O Indra, O Aśvin gods: command (give) to us, who are men and praisers, the well-known and abundant wealth and horse, for the increase of our prosperity.
+
+##### English translation (H. H. Wilson)
+Vajas, Ribhukshans, Indra, Nasatyas, command that ample wealth
+with horses be sent to men for their enrichment-
+
+## Sūkta 38 (Maṇḍala 4)
+
+##### विशेषविषयगळु (Special Topics)
+
+The deity of this sūkta and of the next two sūktas is Dadhikrā. The commentator Sāyaṇa has explained this word as a particular form of Agni existing in the form of a horse. Yāska too says that this deity has the form of a horse, and accordingly gives a derivation for the word, citing the last Ṛk of the sūkta:
+आ दधिक्राः शवसा पंच कृष्टीः सूर्य इव ज्योतिषापस्ततान । सहस्रसाः शतसा वाज्यर्वा पृणक्तु मध्वा समिमा वचांसि ॥ (*ā dadhikrāḥ śavasā paṃca kṛṣṭīḥ sūrya iva jyotiṣāpastatāna | sahasrasāḥ śatasā vājyarvā pṛṇaktu madhvā samimā vacāṃsi ‖*) (Ṛ. Saṃ. 4-38-10)
+and for it:
+आतनोति दधिक्राः शवसा बलेनापः सूर्य इव ज्योतिषा पंच मनुष्यजातानि सहस्रसाः शतसा वाजी वेजनवानर्वेरणवान् संपृणक्तु नो मधुनोदकेन वचनानीमानीति ॥ (*ātanoti dadhikrāḥ śavasā balenāpaḥ sūrya iva jyotiṣā paṃca manuṣyajātāni sahasrasāḥ śatasā vājī vejanavānarveraṇavān saṃpṛṇaktu no madhunodakena vacanānīmānīti ‖*) (Ni. 10-31)
+
 ---
 
-**Progress note:** Done through printed p. 357. pp. 352-357 (batch API)
+**Progress note:** Done through printed p. 364. pp. 358-364 (batch API)
