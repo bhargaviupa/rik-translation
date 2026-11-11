@@ -21136,6 +21136,349 @@ Those Dawns move about on all sides. समना (*samanā*): alike on all side
 - ऋतस्य (*ṛtasya*)—of the sacrifice
 - सदसः (*sadasaḥ*)—
 
+### Printed p. 541
+
+- …the assembly, that is, the ṛtvijs and others
+- बुधानाः (*budhānāḥ*)—awakening them, each for the performance of his own rite
+- देवीः (*devīḥ*)—the Dawns who are divine in nature
+- उषसः (*uṣasaḥ*)—the Dawns
+- सर्गाः (*sargāḥ*)—the causes of the creation of water
+- गवां न (*gavāṃ na*)—like rays
+- जरंते (*jaraṃte*)—are praised
+
+##### भावार्थ (Bhāvārtha)
+
+The Dawns, renowned, of one and the same kind of form, spread everywhere from the east, in the common region called the atmosphere. Awakening the assembly of the sacrifice, that is, the ṛtvijs and the rest, each for the performance of his own rite, the Dawns, divine in nature, are praised like the rays that are the causes of the creation of water.
+
+##### English translation (H. H. Wilson)
+They spread around of similar form, (coming) from the east, (coming) from the same region alike renowned : the divine Dawns, arousing the assembly of the sacrifice, are glorified llke the (rays) creative of the waters.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता इन्ने॒३॒॑ ३ व स॑म॒ना स॑मा॒नीरमी॑तवर्णा उ॒षस॑श्चरंति ।  
+> गूहं॑ती॒रभ्व॒मसि॑तं॒ रुश॑द्भिः शु॒क्रास्त॒नूभिः॒ शुच॑यो रुचा॒नाः॥
+
+> *tā inne 3 va samanā samānīramītavarṇā uṣasaścaraṃti |*  
+> *gūhaṃtīrabhvamasitaṃ ruśadbhiḥ śukrāstanūbhiḥ śucayo rucānāḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । इत् । नु । एव । समना । समानीः । अमीतवर्णाः । उषसः । चरंति ।  
+> गूहंतीः । अभ्वं । असितं । रुशत्भिः । शुक्राः । तनूभिः । शुचयः । रुचानाः ॥ ९ ॥
+
+> *tāḥ | it | nu | eva | samanā | samānīḥ | amītavarṇāḥ | uṣasaḥ | caraṃti |*  
+> *gūhaṃtīḥ | abhvaṃ | asitaṃ | ruśatbhiḥ | śukrāḥ | tanūbhiḥ | śucayaḥ | rucānāḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता एवोषसः । इदिति पूरणः । नु अद्य समना समानाः । एकधेत्यर्थः ।
+> समानीरेकरूपा अमितवर्णा अहिंसितवर्णा अपरिमितवर्णा वा उषसश्चरंति
+> सर्वतः । किं कुर्वत्यः । अभ्वं । महन्नामृतत् । अतिमहदसितं कृष्णं रूपं
+> गूहंतीर्गोपयंत्यो रुशद्भी रोचमानैस्तनूभिः स्वशरीरैः शुक्रा दीप्ताः
+> शुचयः शुद्धा रुचाना रोचमाना रोचयंत्यो ना ॥
+
+##### Gist of the bhāṣya
+
+Those very Dawns (इत् (*it*) is only a filler; नु (*nu*) means "now") are समना (*samanā*), alike, that is, of one kind. They are समानीः (*samānīḥ*), of one form, and अमितवर्णाः (*amitavarṇāḥ*), of unharmed colour or of immeasurable colour. The Dawns move about everywhere. What are they doing? अभ्वं (*abhvaṃ*) is a name for "great": they conceal (गूहंतीः (*gūhaṃtīḥ*)) the very great black form, the dark one (असितं (*asitaṃ*)), with their shining bodies (रुशद्भिः (*ruśadbhiḥ*), तनूभिः (*tanūbhiḥ*)), their own bodies, being शुक्राः (*śukrāḥ*), bright, शुचयः (*śucayaḥ*), pure, and रुचानाः (*rucānāḥ*), shining or making shine. **NOTE**
+
+### Printed p. 542
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता एव उषसः (*tā eva uṣasaḥ*)—those same renowned Dawns
+- नु (*nu*)—now
+- समना (*samanā*)—of one kind
+- समानीः (*samānīḥ*)—of one form
+- अमितवर्णाः (*amitavarṇāḥ*)—of immeasurable colour
+- रुशद्भिः (*ruśadbhiḥ*)—shining
+- तनूभिः (*tanūbhiḥ*)—with their bodies
+- शुक्राः (*śukrāḥ*)—bright
+- शुचयः (*śucayaḥ*)—pure
+- रुचानाः (*rucānāḥ*)—attractive; being so
+- अभ्वं (*abhvaṃ*)—great
+- असितं (*asitaṃ*)—the pitch darkness
+- गूहंतीः (*gūhaṃtīḥ*)—concealing
+- चरंति (*caraṃti*)—move about all around
+
+##### भावार्थ (Bhāvārtha)
+
+The same renowned Dawns, of one kind, of one form, of immeasurable colour, bright with their bodies that are pleasing to the eye, pure and attractive, move about all around, concealing the great pitch darkness.
+
+##### English translation (H. H. Wilson)
+Those Dawns proceed verily all alike, of similar form, of infinate hues, pure, bright, illumining, concealing by their radiant persons the very great gloom.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒यिं दि॑वो दुहितरो विभा॒तीः प्र॒जावं॑तं यच्छता॒स्मासु॑  
+> देवीः ।  
+> स्यो॒नादा वः॑ प्रति॒बुध्य॑मानाः सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
+
+> *rayiṃ divo duhitaro vibhātīḥ prajāvaṃtaṃ yacchatāsmāsu*  
+> *devīḥ |*  
+> *syonādā vaḥ pratibudhyamānāḥ suvīryasya patayaḥ syāma ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रयिं । दिवः । दुहितरः । विभातीः । प्रजावंतं । यच्छत । अस्मासु । देवीः ।  
+> स्योनात् । आ । वः । प्रतिबुध्यमानाः । सुवीर्यस्य । पतयः । स्याम ॥ १० ॥
+
+> *rayiṃ | divaḥ | duhitaraḥ | vibhātīḥ | prajāvaṃtaṃ | yacchata | asmāsu | devīḥ |*  
+> *syonāt | ā | vaḥ | pratibudhyamānāḥ | suvīryasya | patayaḥ | syāma ‖ 10 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दिवो दुहितरो द्योतमानस्यादित्यस्य दुहितृस्थानीया विभातीर्विभात्यो
+> विशेषेण भानं कुर्वत्योऽस्मासु प्रजावंतं रयिं पुत्राद्युपेतं धनं यच्छत ।
+
+##### Gist of the bhāṣya
+
+"O daughters of heaven": the Dawns stand in the place of daughters to the shining Āditya. "O विभातीः (*vibhātīḥ*)", you who shine forth in a special way, bestow (यच्छत (*yacchata*)) on us प्रजावंतं रयिं (*prajāvaṃtaṃ rayiṃ*), wealth endowed with sons and the like.
+
+### Printed p. 543
+
+> दत्त । हे देवीर्देव्यः स्योनात्सुखान्निमित्तभूताद्वो युष्मान् प्रतिबुद्ध्यमानाः
+> प्रतिबोधयॆंतो वयं सुवीर्यस्य पतयः स्याम । पुत्रादिसहितस्य धनस्य पालका
+> भवेम ॥
+
+##### Gist of the bhāṣya
+
+दत्त (*datta*) ("give"). "O goddesses, on account of comfort, awakening you, we would be सुवीर्यस्य पतयः (*suvīryasya patayaḥ*)", that is, we would be guardians of wealth together with sons and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the shining Āditya
+- दुहितरः (*duhitaraḥ*)—O Dawns who are as daughters
+- विभातीः (*vibhātīḥ*)—who shine forth in a special manner
+- अस्मासु (*asmāsu*)—in us
+- प्रजावंतं (*prajāvaṃtaṃ*)—filled with sons and the like
+- रयिं (*rayiṃ*)—wealth
+- यच्छत (*yacchata*)—provide
+- देवीः (*devīḥ*)—O Dawns, divine in nature
+- स्योनात् (*syonāt*)—for the sake of comfort
+- वः (*vaḥ*)—you
+- प्रतिबुध्यमानाः (*pratibudhyamānāḥ*)—we who awaken
+- सुवीर्यस्य (*suvīryasya*)—of the wealth of sons and the like, endowed with strength
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+O Dawns, who are as daughters to the shining Āditya and shine forth in a special manner, provide us with wealth filled with good sons and the like. O Dawns, divine in nature, may we, who awaken you for the sake of comfort, become lords of wealth of sons and the like, endowed with strength.
+
+##### English translation (H. H. Wilson)
+Divine, resplendent daughters of heaven, bestow upon us wealth, comprehending progeny : awaking you for our benifit, may we be the lords of excellent descendants.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वो॑ दिवो दुहितरो विभा॒तीरुप॑ ब्रुव उषसो य॒ज्ञके॑तुः ।  
+> व॒यं स्या॑म य॒शसो॒ जने॑षु॒ तद्दौश्च॑ ध॒त्तां पृ॑थि॒वी च॑  ॒
+> देवी ॥ ११ ॥
+
+> *tadvo divo duhitaro vibhātīrupa bruva uṣaso yajñaketuḥ |*  
+> *vayaṃ syāma yaśaso janeṣu taddauśca dhattāṃ pṛthivī ca*  
+> *devī ‖ 11 ‖*
+
+### Printed p. 544
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शत् । वः । दिवः । दुहितरः । विभातीः । उप । ब्रुवे । उषसः । यज्ञकेतुः ।  
+> वयं । स्याम । यशसः । जनेषु । तत् । द्यौः । च । धत्तां । पृथिवी । च । देवी ॥११॥
+
+> *śat | vaḥ | divaḥ | duhitaraḥ | vibhātīḥ | upa | bruve | uṣasaḥ | yajñaketuḥ |*  
+> *vayaṃ | syāma | yaśasaḥ | janeṣu | tat | dyauḥ | ca | dhattāṃ | pṛthivī | ca | devī ‖11‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तद्वॊ दिव इति व्यष्टायां जपेत् ॥
+> हे दिवो दुहितरो हे उषसो विभातीर्वो युस्मान् तदुत्तरार्धप्रथमपादेन वक्ष्यमाणं फलं यज्ञकेतुः । यज्ञ एव केतुः प्रज्ञापको यस्य
+> तादृशोऽहमुप ब्रुवे । उपेत्य ब्रवीमि । अथ बहुवदुच्यते । वयं स्तुवंतो
+> जनेष्टस्मत्समानेषु मध्यॆ यशस्सः कीर्तॆरन्नस्य वा स्वामिनः स्याम । तद्यशो द्यौः
+> पृथिवी च देवी धत्तां धारयतां ॥
+
+##### Gist of the bhāṣya
+
+Use: तद्वॊ दिव इति व्यष्टायां जपेत् (*tadvò diva iti vyaṣṭāyāṃ japet*) ("this verse should be muttered at the dawning"; no sūtra reference is given). "O daughters of heaven, O Dawns who shine forth, to you I, whose sign is the sacrifice itself, that is, who am made known by the sacrifice, उप ब्रुवे (*upa bruve*), approach and speak", about the fruit to be stated by the first pāda of the latter half. Then the plural is used: "praising, we, among people like ourselves, would be lords of यशसः (*yaśasaḥ*), fame or food. May heaven and the divine earth धत्तां (*dhattāṃ*), hold that fame." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of Āditya, who belongs to the heavenly world
+- दुहितरः (*duhitaraḥ*)—O daughters
+- उषसः (*uṣasaḥ*)—O Dawns
+- यज्ञकेतुः (*yajñaketuḥ*)—I, who have the sacrifice itself as my sign
+- विभातीः (*vibhātīḥ*)—shining
+- वः (*vaḥ*)—you
+- तत् (*tat*)—concerning our desired object
+- उप ब्रुवे (*upa bruve*)—I approach you, pray and ask
+- वयं (*vayaṃ*)—we, the praisers
+- जनेषु (*janeṣu*)—among people like ourselves
+- यशसः (*yaśasaḥ*)—as lords of fame or of food
+- स्याम (*syāma*)—may we become
+- तत् (*tat*)—that food of ours
+- द्यौः (*dyauḥ*)—the heavenly world
+- देवी (*devī*)—divine in nature
+- पृथिवी च (*pṛthivī ca*)—and the earth also
+- धत्तां (*dhattāṃ*)—may hold
+
+##### भावार्थ (Bhāvārtha)
+
+O Dawns, daughters of Āditya who belongs to the heavenly world, I, who have the sacrifice itself as my sign, approach you who are shining, and pray and ask you concerning our desired object. May we, the praisers, become lords of all the wealth of food among people like ourselves. May the heavenly world, and the earth, divine in nature, also hold that wealth of food of ours.
+
+##### English translation (H. H. Wilson)
+Daughters of heaven, resplendent Dawns, I address you (as) the announcer of the sacrifice : may we be (the possessors) of celebrity amongst men, and may heaven and the divine earth perpetuate (it).
+
+### Printed p. 545
+
+## Sūkta 52 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रति ष्येति सप्तर्चं सप्तमं सूक्तं गायत्रमुषोदेवताकं । प्रति ष्या सप्त
+> गायत्रमित्यनुक्रमणिका ॥ प्रातरनुवाक उषस्यॆ क्रत् गौ गायत्रे छंदस्याश्विनशस्त्रे
+> चेदं शस्यं । अथोषस्यः प्रति ष्या सूनरी । आ. ४-१४ । इति हि सूत्रितं ॥
+> अनुवादवु—प्रति ष्या ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि एळनॆय सूक्तवु. इदरल्लि
+> एळु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवनु ऋषियु ; उषस्सु देवतॆयु ; गायत्री छंदस्सु.
+> अनुक्रमणिकॆयल्लि—प्रति ष्या सप्त गायत्रं ऎंदु हेळिरुवुदु. प्रातरनुवाकमंत्रपठन
+> कालदल्लि उषस्यक्रतुसंबंधवाद गायत्री छंदस्सिन ऋक्कुगळिगागियू अश्विनशस्त्रमंत्रगळिगागियू
+> ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायन श्रौतसूत्रद—आथोषस्यः प्रति ष्या सूनरी
+> ऎंब सूत्रदिंद (आ. ४-१४) विवृतवागिरुवुदु.
+> सूक्त—५२
+> मंडल—४ ॥ अनुवाक—५ ॥ सूक्त—५२ ॥
+> अष्टक—३ ॥ अध्याय—८ ॥ वर्ग—३ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—७ ॥
+> ॥ ऋषिः—वामदेवः ॥
+> ॥ देवता—उषाः ॥
+> ॥ छंदः—गायत्री ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रति ष्या (*prati ṣyā*) has seven ṛks and is the seventh sūkta (of the fifth anuvāka); its metre is Gāyatra and its deity Uṣas. The Anukramaṇikā says: प्रति ष्या सप्त गायत्रं (*prati ṣyā sapta gāyatraṃ*). At the Prātaranuvāka, for the Uṣasya kratu, this sūkta is used for the ṛks in Gāyatrī metre and in the Aśvina-śastra; this is stated in the sūtra अथोषस्यः प्रति ष्या सूनरी (*athoṣasyaḥ prati ṣyā sūnarī*) (Ā. 4-14). **NOTE**
+Particulars as given: Sūkta 52; Maṇḍala 4; Anuvāka 5; Aṣṭaka 3; Adhyāya 8; Varga 3; number of ṛks in the sūkta, 7; seer Vāmadeva; deity Uṣas; metre Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॒ ष्या सू॒नरी॒ जनी॑ व्यु॒च्छंती॒ परि॒ स्वसुः॑ ।  
+> दि॒वो अ॑दर्शि दुहि॒ता ॥ १ ॥
+
+> *prati ṣyā sūnarī janī vyucchaṃtī pari svasuḥ |*  
+> *divo adarśi duhitā ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । स्या । सूनरी । जनी । विउच्छंती । परि । स्वसुः ।  
+> दिवः । आदर्शि । दुहिता ॥ १ ॥
+
+> *prati | syā | sūnarī | janī | viucchaṃtī | pari | svasuḥ |*  
+> *divaḥ | ādarśi | duhitā ‖ 1 ‖*
+
+### Printed p. 546
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्या सा संस्तूयमाना सूनरी सुष्टु प्राणिनां नेत्री जनी जनयित्रि फलानां
+> स्वसुः सस्वस्थानीयाया रात्रेः परि उपरिभागे रात्रिपर्यवसानकाले व्युच्छंती
+> तमो विवासयंती । स्वसा स्वस्रे ज्यायस्यै । ऋग्वे. १-१२४-८ । इत्युक्तं । दिवो
+> द्योतमानस्यादित्यस्य दुहितोषाः पत्यदर्शि । प्रतिदृश्यते सर्वैः ॥
+
+##### Gist of the bhāṣya
+
+स्या (*syā*) is "she", the Dawn who is praised. सूनरी (*sūnarī*): the good leader of living beings. जनी (*janī*): the producer of fruits. परि (*pari*) means "at the upper part" of स्वसुः (*svasuḥ*), the sister, that is, the night: at the closing time of the night, व्युच्छंती (*vyucchaṃtī*), dispelling the darkness. He quotes स्वसा स्वस्रे ज्यायस्यै (*svasā svasre jyāyasyai*) (Ṛg. 1-124-8) as saying so. The daughter of the shining Āditya, Uṣas, is आदर्शि (*ādarśi*), seen by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the shining Āditya
+- दुहिता (*duhitā*)—who is as a daughter
+- स्या (*syā*)—who is praiseworthy
+- सूनरी (*sūnarī*)—the excellent leader of living beings
+- जनी (*janī*)—the producer of fruits; the Dawn-goddess
+- स्वसुः (*svasuḥ*)—of her sister the night
+- परि (*pari*)—at the last part
+- व्युच्छंती (*vyucchaṃtī*)—destroying the darkness
+- प्रति आदर्शि (*prati ādarśi*)—is seen by all
+
+##### भावार्थ (Bhāvārtha)
+
+The Dawn-goddess, who is as a daughter of the shining Āditya, praiseworthy, the excellent leader of living beings and the producer of fruits, becomes visible to all at the last part of the night, her sister, destroying the darkness.
+
+##### English translation (H. H. Wilson)
+The daughter of heaven has been seen ; the kind conductress (of men), the parent (of benefits), shedding radiance upon (the departure of her) sister night.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वे॑व चि॒त्रारु॑षी मा॒ता गवा॑मृ॒ताव॑री ।  
+> सखा॑भूद॒श्विनो॑रु॒षाः ॥ २ ॥
+
+> *aśveva citrāruṣī mātā gavāmṛtāvarī |*  
+> *sakhābhūdaśvinoruṣāḥ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वा इव । चित्रा । अरुषी । माता । गवां । ऋतवरी ।  
+> सखा । अभूत् । अश्विनोः । उषाः ॥ २ ॥
+
+> *aśvā iva | citrā | aruṣī | mātā | gavāṃ | ṛtavarī |*  
+> *sakhā | abhūt | aśvinoḥ | uṣāḥ ‖ 2 ‖*
+
+### Printed p. 547
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्वेव चित्रा चायनीयारुषी आरोचमाना गवां रश्मीनां माता निर्मात्री
+> यतावरी यज्ञवत्युषा अश्विनोः सखा समानख्याना सह स्तूयमानाभूत् । भवति ।
+> अश्विनोरुषसा सह स्तूयमानत्वात्सखित्वं परस्परं ॥
+
+##### Gist of the bhāṣya
+
+Like a mare, चित्रा (*citrā*) (**NOTE**), अरुषी (*aruṣī*), shining; *gavāṃ mātā*, the mother, the maker, of the rays; यतावरी (*yatāvarī*), possessing a sacrifice (**NOTE**); Uṣas has become (अभूत् (*abhūt*), "is") अश्विनोः सखा (*aśvinoḥ sakhā*), the friend of the Aśvins, of equal renown, being praised together with them. Because the Aśvins are praised together with Uṣas, there is friendship between them mutually.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वेव (*aśveva*)—like a good thoroughbred horse
+- चित्रा (*citrā*)—attractive
+- अरुषी (*aruṣī*)—golden-hued
+- गवां (*gavāṃ*)—of the rays
+- माता (*mātā*)—the maker (mother)
+- ऋतावरी (*ṛtāvarī*)—possessing a sacrifice
+- उषाः (*uṣāḥ*)—the Dawn-goddess
+- अश्विनोः (*aśvinoḥ*)—to the Aśvin deities
+- सखा (*sakhā*)—having equal worship
+- अभूत् (*abhūt*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+The Dawn-goddess, attractive like a good thoroughbred horse, golden-hued, the mother of the rays, possessing a sacrifice, becomes one having equal worship with the Aśvin deities; that is, in the sacrifice she takes a share together with them.
+
+##### English translation (H. H. Wilson)
+Like a beautiful mare, the radiant mother of the rays of light, the object of sacrifice, (she) is friend of the Aswins.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त सखा॑स्य॒श्विनो॑रु॒त मा॒ता गवा॑मसि ।  
+> उ॒तोषो॒ वस्य॑ ईशिषे ॥ ३ ॥
+
+> *uta sakhāsyaśvinoruta mātā gavāmasi |*  
+> *utoṣo vasya īśiṣe ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । सखा । असि । अश्विनोः । उत । माता । गवां । असि ।  
+> उत । उपः । वस्वः । ईशिषे ॥ ३ ॥
+
+> *uta | sakhā | asi | aśvinoḥ | uta | mātā | gavāṃ | asi |*  
+> *uta | upaḥ | vasvaḥ | īśiṣe ‖ 3 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 540. pp. 535-540 (batch API)
+**Progress note:** Done through printed p. 547. pp. 541-547 (batch API)
