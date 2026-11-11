@@ -18745,6 +18745,97 @@ Here it is said that the sage Atri, by four kinds of mantras, destroyed four kin
 
 चमूषच्छ्येनः शकुनो विभृत्वा गोविंदुर्द्रप्स आयुधानि बिभ्रत् । अपामूर्मिं सचमानः समुद्रं तुरीयं धाम महिषो विवक्ति ॥ (*camūṣacchyenaḥ śakuno vibhṛtvā goviṃdurdrapsa āyudhāni bibhrat | apāmūrmiṃ sacamānaḥ samudraṃ turīyaṃ dhāma mahiṣo vivakti ‖*) (Ṛ. Saṃ. 9-96-19)
 
+### Printed p. 604
+In this mantra there is praise of the world of the Moon. The sense of the mantra is that Soma, who frequents the atmosphere, shone as he resorted to the world of the Moon, which lies even beyond the world of the Sun. This same lunar world is described differently in the Upaniṣads. To show that in the present context it is a supernatural, divine world, Sāyaṇa has explained it as सूरलोकस्योपरि वर्तमाने (*sūralokasyopari vartamāne*). Here too the word तुरीय (*turīya*) points to the divine abode of the Moon and so expresses a special meaning. Thus the word तुरीय (*turīya*) is used in the Ṛksaṃhitā also to denote the supernatural highest reality.
+
+When it is said that this fourth part is beyond the other three parts of the universe, it must not be understood as different from them. The sense is that one single reality pervades the natural universe and is also transcendent to it. How is that? स भूमिं विश्वतो वृत्वात्यतिष्ठद्दशांगुलं (*sa bhūmiṃ viśvato vṛtvātyatiṣṭhaddaśāṃgulaṃ*) (Ṛ. Saṃ. 10-90-1): the one Supreme Person-principle, pervading the universe, stood beyond it by the measure of ten fingers. What "ten fingers" means here will be explained later according to context.
+
+18. The Supreme Person's pervasion of the universe and his transcendence of it.
+
+रूपंरूपं प्रतिरूपो बभूव तदस्य रूपं प्रतिचक्षणाय । इंद्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥ (*rūpaṃrūpaṃ pratirūpo babhūva tadasya rūpaṃ praticakṣaṇāya | iṃdro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*)
+(Ṛ. Saṃ. 6-47-18)
+
+In this mantra the pervasion of the universe is clearly stated. It is a well-known mantra, cited in the Upaniṣads and elsewhere. It is addressed to Indra and describes Indra's great glory. The sense is that Indra himself, assuming the forms of many deities such as Agni, Viṣṇu and Rudra, and the forms of all the natural principles in the universe, pervades the universe as one divine principle in the form of the universe. Sāyaṇa takes this mantra as one that teaches a spiritual principle and has explained it as being the description of the nature of the Supreme Brahman. Here "Indra" means the Supreme Self. That Supreme Self, all-pervading like space and of the nature of eternal bliss, being one, enters all the bodies in the universe according to their respective limiting conditions and attains the variety and division called individual selves. He explains that the Supreme Self, to whom pervasion of the universe and a form transcending the universe belong as equal attributes, is described in this way.
+
+अग्निर्यथैको भुवनं प्रविष्टो रूपंरूपं प्रतिरूपो बभूव । (*agniryathaiko bhuvanaṃ praviṣṭo rūpaṃrūpaṃ pratirūpo babhūva |*)
+(९ठ ५-९ (*9ṭha 5-9*))**NOTE**
+
+In Upaniṣadic mantras of this kind also the pervasion of the universe is described as stated above. वृक्ष इव स्तब्धो दिव तिष्ठत्येकस्तेनेदं पूर्णं पुरुषेण-सर्वं (*vṛkṣa iva stabdho diva tiṣṭhatyekastenedaṃ pūrṇaṃ puruṣeṇa-sarvaṃ*)**NOTE**: the whole universe is pervaded by the Supreme Person, who, going beyond the limit of the universe and being transcendent to it, stands
+
+### Printed p. 605
+immovable, established like a tree. This attribute of pervasion was also described when the nature of the Gāyatrī was described; it was stated above by citing the sentence एतावानस्य महिमातोज्यायांश्च पूरुषः (*etāvānasya mahimātojyāyāṃśca pūruṣaḥ*). The same point is described in the Chāndogya by the sentences cited below.
+
+19. The similarity of outer space and heart-space.
+
+यद्वै तद्ब्रह्मेतिदं नाव तद्योऽयं बहिर्धा पुरुषादाकाशो यो वै स बहिर्धा पुरुषादाकाशः ॥ आयं नाव स योऽयमंतः पुरुष आकाशो यो वै सोऽंतःपुरुष आकाशः अयं नाव स योऽयमंतर्हृदय आकाशस्तदेतत्पूर्णमप्रवृत्तिपूर्णामप्रवर्तिनीं श्रियं लभते य एवं वेद ॥ (*yadvai tadbrahmetidaṃ nāva tadyo 'yaṃ bahirdhā puruṣādākāśo yo vai sa bahirdhā puruṣādākāśaḥ ‖ āyaṃ nāva sa yo 'yamaṃtaḥ puruṣa ākāśo yo vai so 'ṃtaḥpuruṣa ākāśaḥ ayaṃ nāva sa yo 'yamaṃtarhṛdaya ākāśastadetatpūrṇamapravṛttipūrṇāmapravartinīṃ śriyaṃ labhate ya evaṃ veda ‖*)
+(Chā. U. 3-12-7 to 9)
+
+This Supreme Brahman, praised in the form of the Gāyatrī and having four quarters, is itself the space that pervades the outer world. This very principle of space, pervading the outer world of the person, is also the person's inner principle. This Brahman-principle called Gāyatrī, in the heart-space, is all-pervading and immovable. One who knows this principle obtains the wealth of knowledge, all-pervading, eternal and steady, and happiness. The nature of this Supreme principle in the lotus of the heart is to be worshipped through meditation.
+
+दह्रं विपापं वरमेऽत्मभूतं यत्पुंडरीकं पुरमध्यसग्‌स्थं । तत्रापि दह्रं गगनं विशोकस्तस्मिन्यदंतस्तदुपासितव्यं ॥ (*dahraṃ vipāpaṃ varame 'tmabhūtaṃ yatpuṃḍarīkaṃ puramadhyasagsthaṃ | tatrāpi dahraṃ gaganaṃ viśokastasminyadaṃtastadupāsitavyaṃ ‖*)
+(Tai. U. U. 4-12-3)**NOTE**
+
+The Brahman-principle described in this mantra is described by the Chāndogya sentence अंतर्हृदयाकाशः (*aṃtarhṛdayākāśaḥ*). Since the Gāyatrī too is described in this way by epithets that establish Brahman, the following matters must be examined. What is meant here by heart-space? What is the lotus of the heart? If the principle of space, which is the support of the Gāyatrī that is both within the lotus of the heart and, at that very time, pervades the whole outer universe—earth, atmosphere and the rest—is the Supreme Brahman, what relation is shown between this principle of space and the Vyāhṛtis beginning with भूः (*bhūḥ*), which are limbs of the Gāyatrī? What is the relation between the Praṇava, which has the Vyāhṛtis as its members, and the Brahman that is of the nature of the Gāyatrī? In what way does the Praṇava become the chief means to the realisation of Brahman? Is the Gāyatrī itself of the nature of the Praṇava? and so on.
+
+### Printed p. 606
+Sentences such as अंतर्बहिश्च तत्सर्वं व्याप्य नारायणः स्थितः (*aṃtarbahiśca tatsarvaṃ vyāpya nārāyaṇaḥ sthitaḥ*) teach that the outer principle that pervades all the worlds is the same as the principle within the heart of the person. This one principle is denoted by other names such as Brahman, space and Gāyatrī. In the present context, this pervasion of the inside and the outside is stated exactly also when the three forms Brahman, space and Gāyatrī are described, and it is also made plain that all three are other names of one principle.
+
+एषा गायत्र्यध्यात्मं प्रतिष्ठिता सा हैषा गयांस्तत्रे प्राणा वै गयास्तत्पाणांस्तत्रे तद्यद्गयांस्तत्रे तस्माद्गायत्री नाम स यामेवामूं सावित्रिमन्वाहैवैष सा स यस्मा अन्वाह तस्य प्राणांस्त्रायते ॥ (*eṣā gāyatryadhyātmaṃ pratiṣṭhitā sā haiṣā gayāṃstatre prāṇā vai gayāstatpāṇāṃstatre tadyadgayāṃstatre tasmādgāyatrī nāma sa yāmevāmūṃ sāvitrimanvāhaivaiṣa sā sa yasmā anvāha tasya prāṇāṃstrāyate ‖*)
+(Bṛ. U. 5-14-4)
+
+As explained in the sentences cited above, the Gāyatrī-principle that is described by epithets such as परोरजाः (*parorajāḥ*) and that pervades the universe is the very one that, in its spiritual form, lies within the heart; thus the pervasion of the Gāyatrī both within and without is taught. In the same way, describing the nature of space:
+
+यावान् ना अयमाकाशस्तानानेषोऽंतर्हृदय आकाश उभे अस्मिन् द्यावापृथिवी अंतरेव समाहिते उभावग्निश्च वायुश्च सूराचंद्रमसावुभौ विद्युन्नक्षत्राणि यच्चास्केहास्ति यच्च नास्ति सर्वं तदस्मिन् समाहितमिति ॥ (*yāvān nā ayamākāśastānāneṣo 'ṃtarhṛdaya ākāśa ubhe asmin dyāvāpṛthivī aṃtareva samāhite ubhāvagniśca vāyuśca sūrācaṃdramasāvubhau vidyunnakṣatrāṇi yaccāskehāsti yacca nāsti sarvaṃ tadasmin samāhitamiti ‖*)
+(Bhā. U. 8-1-3)**NOTE**
+
+In this Brahman-city, the body, there is a subtle house in the form of a lotus. That is the heart-space. It is the dwelling-place of Brahman. One must search for it and see the Brahman-principle there: यदिदमस्मिन् ब्रह्मपुरे दहरं पुंडरीकं वेश्य दहरोऽस्मिन्नंतराकाशस्तस्मिन्यदंतस्तदन्वेष्टव्यं तद्वाव विजिज्ञासितव्यमिति (*yadidamasmin brahmapure daharaṃ puṃḍarīkaṃ veśya daharo 'sminnaṃtarākāśastasminyadaṃtastadanveṣṭavyaṃ tadvāva vijijñāsitavyamiti*) (Chā. U. 8-1-1). The nature of this subtle inner space, which contains the Brahman-principle that is greater than the cosmic egg, is this: as widely as the outer space spreads, so widely does this heart-space spread. In it both heaven and earth are spread; moreover, wind and fire, moon and sun, lightning and stars, whatever is contained within the body and whatever is not—all is contained in this small space. This heart-space is extremely subtle and free from sin. It is the best dwelling-place. In the form of a lotus, in the middle of the city that is the body, in this subtle heart there is a space still subtler, and the Brahman-principle that is contained in that space is to be worshipped: thus the heart-space is described.
+
+### Printed p. 607
+20. The Gāyatrī in the form of speech, and the space that is the source of name-and-form usage.
+
+वाग्वै गायत्री । (*vāgvai gāyatrī |*) वाग्वा इदं सर्वं भूतं गायति त्रायते च । (*vāgvā idaṃ sarvaṃ bhūtaṃ gāyati trāyate ca |*) Because the existence of the whole world is revealed only by speech, and because the protection and maintenance of the whole world belongs to speech, speech itself pervades the whole world and is identical with it. It was stated above that this goddess of speech is called by the name Gāyatrī. In many places it is stated that there is a relation of support and supported between the heart-space explained here and speech, which is of the nature of the Word-Brahman and is denoted by the name Gāyatrī, and therefore also that the two are one. Stating the same relation in the Chāndogya also, it says that space is the support of speech, which is the source of all worldly usage.
+
+आकाशो वै नाम नामरूपयोर्निर्वहिता ते यदंतरा तद्ब्रह्म तदमृतं स आत्मा । (*ākāśo vai nāma nāmarūpayornirvahitā te yadaṃtarā tadbrahma tadamṛtaṃ sa ātmā |*)
+(Chā. U. 8-14-1)
+
+Space itself is the cause of the individual division called name and form. He who is within it is the Supreme Brahman, the Supreme Self. Śrī Śaṅkarācārya quoted this sentence in the section on the Daharādhikaraṇa in his Brahmasūtra-bhāṣya and declared the identity of the Supreme Brahman with this small space.
+
+प्रसिद्धेश्व—इतश्च परमेश्वर एव दहरोऽस्मिन्नंतराकाश इत्युच्यते । (*prasiddheśva—itaśca parameśvara eva daharo 'sminnaṃtarākāśa ityucyate |*)**NOTE** यत्कारणमाकाशशब्दः परमेश्वरे प्रसिद्धः । (*yatkāraṇamākāśaśabdaḥ parameśvare prasiddhaḥ |*) आकाशो वै नाम.... ....स आत्मा सर्वाणि ह वा इमानि भूतान्याकाशादेव समुत्पद्यंते ( (*ākāśo vai nāma.... ....sa ātmā sarvāṇi ha vā imāni bhūtānyākāśādeva samutpadyaṃte (*) इत्यादि प्रयोगदर्शनात् ॥ (*ityādi prayogadarśanāt ‖*)
+(Brahmasūtra-bhāṣya 1-3-17)
+
+This inner heart-space is well known by the name Supreme Lord. Because space is the cause of the division of name and form, which are the outer manifestations of the Supreme Brahman, and because there are Śruti sentences such as "all these beings arise from space alone" which declare the identity of space with Brahman, the small space is well known in some places as the dwelling-place of Brahman and in others as of the very form of Brahman.
+
+सा इयं शब्दब्रह्मात्मिका वाक् उत्कृष्टे हृदयाकाशे मूलाधारे सहस्राक्षरा अनेकाकारेण व्याप्ता भवति ॥ (*sā iyaṃ śabdabrahmātmikā vāk utkṛṣṭe hṛdayākāśe mūlādhāre sahasrākṣarā anekākāreṇa vyāptā bhavati ‖*)
+(Śaṃ. Bhā.)**NOTE**
+
+### Printed p. 608
+This speech, of the form of the Word-Brahman, abiding in the Mūlādhāra, which is excellent and of the form of the heart-space, takes immeasurable shapes and pervades the universe. In such descriptions the identity of the Word-Brahman, called Gāyatrī, with the Brahman that is of the nature of space is stated. The Brahman described in this way is itself of the form of light. What the nature of this light called Brahman is, is described in the Upaniṣads as follows.
+
+21. The light-form of the Supreme Principle.
+
+अथ य एषोऽंतरे हृत्पुष्कर एवाश्रितोऽन्नमत्ति स एषोऽग्निर्दिवि श्रितः सौरः कालाख्योऽदृश्यः सर्वभूतान्यन्नमत्तीति । (*atha ya eṣo 'ṃtare hṛtpuṣkara evāśrito 'nnamatti sa eṣo 'gnirdivi śritaḥ sauraḥ kālākhyo 'dṛśyaḥ sarvabhūtānyannamattīti |*) कः पुष्करः किंमयो वेति। (*kaḥ puṣkaraḥ kiṃmayo veti|*) इदं नाव तत्पुष्करं योऽयमाकाशोऽस्यॆमाश्चतस्रो दिशश्चतस्र उपदिशो दलसंस्था आसं । (*idaṃ nāva tatpuṣkaraṃ yo 'yamākāśo 'syèmāścatasro diśaścatasra upadiśo dalasaṃsthā āsaṃ |*) अर्वाग्विचरत एतौ प्राणादित्या एता उपासीतोमित्येतदक्षरेण व्याहृतिभिः सावित्रा चेति ॥ (*arvāgvicarata etau prāṇādityā etā upāsītomityetadakṣareṇa vyāhṛtibhiḥ sāvitrā ceti ‖*)
+(Maitrupaniṣat 6-2)**NOTE**
+
+The Person who, abiding in the lotus of the heart, eats food, is the divine light, all-devouring, of the nature of Time, and of the form of the Sun. What is this lotus of the heart? What is its nature? The all-pervading space itself is this lotus of the heart. The four main directions and the four intermediate directions are the petals of this lotus of the form of space. The Self abiding in the lotus and the Sun abiding in space face each other. It is taught that this principle is to be contemplated by the Vyāhṛtis भूः (*bhūḥ*), भुवः (*bhuvaḥ*), स्वः (*svaḥ*), by the syllable Praṇava in the form of ओं (*oṃ*), and by the recitation of the Gāyatrī in the form of the Sāvitrī, तत्सवितुर्वरेण्यं भर्गॊ देवस्य धीमहि (*tatsaviturvareṇyaṃ bhargò devasya dhīmahi*).
+
+The division भूः (*bhūḥ*), भुवः (*bhuvaḥ*), स्वः (*svaḥ*) describes the nature of Brahman, who is of the form of light, and equally the nature of the Praṇava and the Gāyatrī. It is said from the worldly point of view that Brahman is the end to be attained and the Praṇava and Gāyatrī are the means, and from the ordinary standpoint of the division into the object of worship and the means of worship. But the Śruti teaches that in the ultimate sense this end and means are to be understood as one. It must be chiefly noticed that the principle of the form of light can be known only by a means that is itself of the form of light. And this means is of the form of meditation. Therefore it must be examined, as is at present necessary: what is the light-nature of the Supreme Principle, the end; what is the light-nature of the Gāyatrī and the Praṇava, the means; what is the nature of the meditation that knows the Supreme Light; and, तत्त्ववितुः (*tattvavituḥ*)**NOTE**
+
+### Printed p. 609
+whether it can be said that in this one great mantra alone these three forms, end, means and meditation, are indicated.
+
+स त्रेधात्मानं व्याकुरुतादित्यं तृतीयं वायुं तृतीयं स एष प्राणस्त्रेधा विहितः । (*sa tredhātmānaṃ vyākurutādityaṃ tṛtīyaṃ vāyuṃ tṛtīyaṃ sa eṣa prāṇastredhā vihitaḥ |*) तस्य प्राची दिक्किरोऽसौ चासौ चेर्मौ । (*tasya prācī dikkiro 'sau cāsau cermau |*) तस्य प्राची दिक्किरोऽसौ चेर्मौ । (*tasya prācī dikkiro 'sau cermau |*) आधास्य प्रतीची दिक्षुच्छमसौ चासौ च सक्थ्या दक्षिणा चोदीची च पार्श्वे द्यौः पृष्ठमंतरिक्षमुदरमियमुरः (*ādhāsya pratīcī dikṣucchamasau cāsau ca sakthyā dakṣiṇā codīcī ca pārśve dyauḥ pṛṣṭhamaṃtarikṣamudaramiyamuraḥ*) स एषोऽप्सु प्रतिष्ठितो यत्र क्व चैति तदेव प्रतितिष्ठत्येवं विद्वान् । (*sa eṣo 'psu pratiṣṭhito yatra kva caiti tadeva pratitiṣṭhatyevaṃ vidvān |*)
+(Bṛ. U. 1-2-3)
+
+This Supreme Brahman, described as the sacrificial horse, took three forms: one became known in the form of earthly fire, another in the form of the Sun, and the third in the form of the wind. It must be said that Prāṇa, whose nature is spiritual, itself has these three states. These three worlds, which contain the lights beginning with Agni, are like the limbs of the horse. The eastern quarter is its head, its forelegs and its flanks. The west is its hind feet and its two hind flanks. The bones on the two sides are the forms of south and north. The back is the heavenly world; the belly is the atmosphere; the chest is the earth. It is established in the waters. One who knows this principle is also firmly established. These three divisions were explained and stated before. In the special subjects of Ṛks such as त्रयः केशिनः ऋतुथा वि चक्षते (*trayaḥ keśinaḥ ṛtuthā vi cakṣate*) (Ṛ. Saṃ. 164-44)**NOTE**, the three divisions of the Supreme Light described above are also described. The Supreme Light, which contains these three kinds of light or is itself of their form, is the Supreme Brahman. The golden Person within the Sun is that light itself, which in the Ṛksaṃhitā is described thus:
+
+केश्यंग्निं केशी विषं केशी बिभर्ति रोदसी । केशी विश्वं स्वर्दृशे केशीदं ज्योतिरुच्यते ॥ (*keśyaṃgniṃ keśī viṣaṃ keśī bibharti rodasī | keśī viśvaṃ svardṛśe keśīdaṃ jyotirucyate ‖*)
+(Ṛ. Saṃ. 10-136-1)
+
+Keśin, that is, the Sun, radiant and of the nature of rays, bears fire and water. He bears heaven and earth. The whole universe beholds his form made of radiance. The lord of the universe, of such a light-form, has the name Keśin: thus it is described.
+
+यज्योतिरमृतं ब्रह्म यद्योगात्समुपाश्नुते । तज्ज्ञानमभितुष्टाव सूक्तेनाथ बृहस्पतिः ॥ (*yajyotiramṛtaṃ brahma yadyogātsamupāśnute | tajjñānamabhituṣṭāva sūktenātha bṛhaspatiḥ ‖*)
+(Bṛ. De. 7-109)
+
 ---
 
-**Progress note:** Done through printed p. 603. pp. 598-603 (batch API)
+**Progress note:** Done through printed p. 609. pp. 604-609 (batch API)
