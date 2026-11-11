@@ -1170,6 +1170,234 @@ May Indra, the doer of what the sacrificer desires, fierce (radiant), come from 
 - आसात् (*āsāt*)—from near too
 - आ (यासत्) (*ā (yāsat)*)—may he come
 
+### Printed p. 31
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the fulfiller of the sacrificers' wishes, the radiant one, who destroys his enemies when he fights them in battles, who holds the thunderbolt in his arm, and who is the protector of men, together with the Maruts of surpassing vigour, must surely come for our protection, whether he be far away or near.
+
+##### English translation (H. H. Wilson)
+May the illustrious Indra, the granter of desires, come to us, whether from afar or nigh, for our protection : he who is the lord of men, armed with the thunderbolt, overcoming his foes in conflict and in combats, (attended) by the most illustrious (Maruts).
+
+##### विशेषविषयगळु (Special Topics)
+
+The words समत्सु (*samatsu*) and पृतना (*pṛtanā*) are read among the names of battle (Ni. 3-6). In this Ṛk the commentator explains the word पृतन्यून् (*pṛtanyūn*), in the sense of those eager for battle, as शत्रून् (*śatrūn*), "enemies".
+आसात् (*āsāt*)—Since the word आसात् (*āsāt*) is read among the names of nearness (Ni. 3-9), आसात् (*āsāt*) means "nearby".
+तुर्वणिः (*turvaṇiḥ*)—For the word तुर्वणि (*turvaṇi*) in this Ṛk the commentator explains हिंसन् (*hiṃsan*), "one who harms the enemies". But Yāska, for this word, gives the etymology and an example:
+तुर्वणिस्तूर्णवनिः । स तुर्वणिर्महा अरेणुपौंस्ये इत्यपि निगमो भवति । (*turvaṇistūrṇavaniḥ | sa turvaṇirmahā areṇupauṃsye ityapi nigamo bhavati |*) (Ni. 6-14)
+That is, तुर्वणः (*turvaṇaḥ*) means: तूर्णं हि यः संभजते स तूर्णवनिता सन् तूर्णवनिरित्युक्तः । (*tūrṇaṃ hi yaḥ saṃbhajate sa tūrṇavanitā san tūrṇavanirityuktaḥ |*) He explains the word as Indra, who comes quickly to those who praise him.
+ओजिष्ठेभिः (*ojiṣṭhebhiḥ*)—अतिशयेन तेजस्विभिः मरुद्भिर्युक्त इति शेषः । (*atiśayena tejasvibhiḥ marudbhiryukta iti śeṣaḥ |*) Although the word ओजिष्ठेभिः (*ojiṣṭhebhiḥ*) means only "the radiant, the valorous", the commentator, to fit the context, explains it as मरुद्भिः (*marudbhiḥ*), "with the Marut deities".
+
+### Printed p. 32
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॒ इंद्रो॒ हरि॑भिर्या॒त्वच्छा॑र्वाची॒नोऽव॑से॒ राध॑से च ।  
+> तिष्ठा॑ति व॒ज्रे म॒घवा॑ विर॒ष्यीमं य॒ज्ञमनु॑ नो॒ वाज॑सात् ॥
+
+> *ā na iṃdro haribhiryātvacchārvācīno 'vase rādhase ca |*  
+> *tiṣṭhāti vajre maghavā viraṣyīmaṃ yajñamanu no vājasāt ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । इंद्रः । हरिभिः । यातु । अच्छ । अर्वाचीनः । अवसे । राधसे । च ।  
+> तिष्ठाति । वज्रे । मघवा । विरप्सी । इमं । यज्ञं । अनु । नः । वाजसात् ॥ २ ॥
+
+> *ā | naḥ | iṃdraḥ | haribhiḥ | yātu | accha | arvācīnaḥ | avase | rādhase | ca |*  
+> *tiṣṭhāti | vajre | maghavā | virapsī | imaṃ | yajñaṃ | anu | naḥ | vājasāt ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्वाचीनोऽस्मदभिमुख इंद्रोऽवसेऽस्मदीयाय रक्षणाय राधसे च
+> धनाय च नोऽच्छास्मानभि लक्ष्मीकृत्य हरिभिरश्वैः सहा यातु । आगच्छतु । किंच वज्री
+> वज्रवान्मघवा धनवान्विरष्यी महान् । विरष्यीति महन्नामसु पाठात् । अस्मदीयस्य
+> कर्मणो द्वेष्टृभिरसुरादिभिः सह नोऽस्माकं वाजसातौ युद्धे प्राप्ते सतीममस्मदीयं यज्ञमनूद्दिश्य तिष्ठाति । तिष्ठतु ॥
+
+##### Gist of the bhāṣya
+
+Indra, facing us, is asked to come with his horses (हरिभिः (*haribhiḥ*)) for our protection and for wealth (राधसे (*rādhase*)). Sāyaṇa glosses अर्वाचीनः (*arvācīnaḥ*) as turned towards us, अच्छ (*accha*) as looking towards us, हरिभिः (*haribhiḥ*) as horses. Further, Indra is वज्री (*vajrī*) (possessing the thunderbolt), मघवा (*maghavā*) (wealthy) and विरष्यी (*viraṣyī*) (great), the last because the word is read among the names of the great. When battle (वाजसातौ (*vājasātau*)) comes upon us, with the enemies of our rite such as the Asuras, let him take his stand (तिष्ठाति (*tiṣṭhāti*) = तिष्ठतु (*tiṣṭhatu*)) with regard to this our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्वाचीनः (*arvācīnaḥ*)—looking upon us with a mind of favour
+- इंद्रः (*iṃdraḥ*)—Indra
+- अवसे (*avase*)—for our protection
+- राधसे च (*rādhase ca*)—and for the gain of our wealth
+- नः अच्छ (*naḥ accha*)—turned towards us
+- हरिभिः (*haribhiḥ*)—with horses
+- आ यातु (*ā yātu*)—let him come
+- वज्री (*vajrī*)—the wielder of the thunderbolt
+- मघवा (*maghavā*)—the wealthy
+- विरष्टी (*viraṣṭī*)—the one of great nature, Indra
+- नः (*naḥ*)—to us (and to our enemies)
+- वाजसातौ (*vājasātau*)—at the time when battle has arisen
+- इमं यज्ञं अनु (*imaṃ yajñaṃ anu*)—with regard to this sacrifice
+- तिष्ठाति (*tiṣṭhāti*)—let him come and sit
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who even from the atmosphere looks upon us with a mind of favour, let him come to us with his horses, turned towards us, for our protection and for gain of wealth. Indra, the wielder of the thunderbolt, the wealthy, the one of great nature, when battle arises between us and our enemies, let him come and sit down at this sacrifice.
+
+##### English translation (H. H. Wilson)
+May Indra, looking down upon us, come with his steeds to our presence for our protection and enrichment: may the mighty thunderer,
+
+### Printed p. 33
+
+##### English translation (H. H. Wilson)
+the possessor of wealth, (aiding us) in battle, be present at this our sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+विरष्यी (*viraṣyī*)—Since the word विरष्यी (*viraṣyī*) is read among the names of the great (Ni. 3-13), it means one of great nature, of great glory. Durgācārya, the commentator on the Nirukta, in explaining the Ṛk महा अमंत्रो वृजने विरष्यी (*mahā amaṃtro vṛjane viraṣyī*) (Ṛ. Saṃ. 3-36-4), says विरष्यी विरावणशीलः । (*viraṣyī virāvaṇaśīlaḥ |*) and takes it of Indra as one who roars very loudly in battles and the like.
+वाजसात् (*vājasāt*)—Since the word वाजसात् (*vājasāt*) is read among the names of battle (Ni. 3-9), it means "in battle". The word has another sense also: since the word वाजः (*vājaḥ*) is read among the names of food, वाजसाति (*vājasāti*) may mean the obtaining of food. Yāska gives the explanation: वाजसातये अन्नसंसननाय, अन्नसंभजनाय (*vājasātaye annasaṃsananāya, annasaṃbhajanāya*) (Ni. 12-46).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं य॒ज्ञं त्वम॒स्माक॑मिंद्र पु॒रो दध॑त्सनिष्यसि॒ क्रतुं॑ नः ।  
+> श्व॒घ्नीव॑ वज्रिन्तस्॒यनये॒ धना॑नां॒ त्वया॑ व॒यम॒र्य आ॒जिं  ॑
+> जयेम ॥ ३ ॥
+
+> *imaṃ yajñaṃ tvamasmākamiṃdra puro dadhatsaniṣyasi kratuṃ naḥ |*  
+> *śvaghnīva vajrintasyanaye dhanānāṃ tvayā vayamarya ājiṃ*  
+> *jayema ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । यज्ञं । त्वं । अस्माकं । इंद्र । पुरः । दधत् । सनिष्यसि । क्रतुं । नः ।  
+> श्वघ्नीऽइव । वज्रिन् । सनये । धनानां । त्वया । वयं । अर्यः । आजिं । जयेम ॥
+
+> *imaṃ | yajñaṃ | tvaṃ | asmākaṃ | iṃdra | puraḥ | dadhat | saniṣyasi | kratuṃ | naḥ |*  
+> *śvaghnī 'iva | vajrin | sanaye | dhanānāṃ | tvayā | vayaṃ | aryaḥ | ājiṃ | jayema ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नोऽस्मान्पुरो दधत् पुरस्कृतान् कुर्वन् अस्माकं क्रतुं
+> क्रियमाणमिमं यज्ञं सनिष्यसि । संभजिष्यसि । अपि च श्वघ्नीव मृगयुर्मुग्नानिव
+> हे वज्रैन् वज्रवन्निंद्र त्वयार्योऽरयः स्तोतारो वयं धनानां पश्वादिधनानां
+> सनये लाभायाजिं शत्रुसंबंधिनं संग्रामं जयेम । संजीयास्मै ॥
+> 3
+
+##### Gist of the bhāṣya
+
+O Indra, setting us in front (पुरो दधत् (*puro dadhat*), making us foremost), you will take part in (सनिष्यसि (*saniṣyasi*) = संभजिष्यसि (*saṃbhajiṣyasi*)) this sacrifice (क्रतुं (*kratuṃ*)) being performed by us. And, O wielder of the thunderbolt, like a huntsman (श्वघ्नी (*śvaghnī*), one who hunts) killing game, may we, your praisers (अर्यः (*aryaḥ*) = अर्यः (*aryaḥ*), stotṛs), through you win the battle (आजिं (*ājiṃ*)) against the enemy, for the gain (सनये (*sanaye*)) of riches (धनानां (*dhanānāṃ*)) such as cattle.
+
+### Printed p. 34
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- पुरो दधत् (*puro dadhat*)—placing in front of you
+- अस्माकं (*asmākaṃ*)—by us
+- क्रतुं (*kratuṃ*)—being performed
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice
+- सनिष्यसि (*saniṣyasi*)—partake of
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt
+- त्वया (*tvayā*)—with your help
+- आर्यः (*āryaḥ*)—who are praisers
+- वयं (*vayaṃ*)—we
+- धनानां (*dhanānāṃ*)—of riches such as cattle
+- सनये (*sanaye*)—for the gain
+- आजिं (*ājiṃ*)—the battle
+- श्वघ्नव (*śvaghnava*)—as a huntsman kills beasts
+- जयेम (*jayema*)—may we conquer (killing our enemies)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, placing us in front of you, partake of this sacrifice performed by us. O Indra, bearer of the thunderbolt, may we, the praisers, with your help destroy all our enemies as a huntsman kills beasts, win the battle and obtain the wealth we need, cattle and the rest.
+
+##### English translation (H. H. Wilson)
+You, Indra, placing us before you, shall receive this sacrifice, our holy offering: and as the huntsman (kills his game), may we, your wor-shippers, holder of the thunderbolt, for the acquirement of riches through you, be victorious in battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Vāmadeva prays to Indra that he take the foremost place in the sacrifice and carry it out, and that in the battles we fight for gaining wealth we may kill our enemies as a huntsman kills beasts and become victorious.
+The word क्रतु (*kratu*) is read among the names of work (Ni. 3-1), and the word आजि (*āji*) among the names of battle (Ni. 3-9).
+आर्यः (*āryaḥ*)—The word अर्य (*arya*) is read among the names of the lord (Ni. 3-11); it means master, owner. In the present Ṛk, taking it as formed from the root ऋ गतौ (*ṛ gatau*), the commentator gives for आर्यः (*āryaḥ*) the sense आरयः स्तोतारः (*ārayaḥ stotāraḥ*), "praisers".
+श्वघ्नव (*śvaghnava*)—This word may be explained in three ways: a cheating gambler, a hunter, or a hunter's wife. First, according to the explanation of the Nirukta-author—
+
+### Printed p. 35
+श्वघ्नी कितवो भवति स्वं हंति स्वं पुनराश्रितं भवति । कृतं न श्वघ्नी वि चिनोति देवने । कितवः किं तवास्तीति शब्दानुकृतिः । कृतवान्वाशीर्नामकः । (*śvaghnī kitavo bhavati svaṃ haṃti svaṃ punarāśritaṃ bhavati | kṛtaṃ na śvaghnī vi cinoti devane | kitavaḥ kiṃ tavāstīti śabdānukṛtiḥ | kṛtavānvāśīrnāmakaḥ |*) (Ni. 5-22)
+Having explained that a श्वघ्नी (*śvaghnī*) is a gambler, who destroys himself and becomes dependent on others, he cites the Ṛk of the Ṛksaṃhitā
+कृतं न श्वघ्नी वि चिनोति देवने संवर्गं यन्मघवा सूर्यं जयत् । (*kṛtaṃ na śvaghnī vi cinoti devane saṃvargaṃ yanmaghavā sūryaṃ jayat |*)
+(Ṛ. Saṃ. 10-43-5).
+According to this explanation the word here would mean a gambler. Skandasvāmin explains श्वभिर्हंतीति श्वघ्निर्लुब्धक इहोच्यते (*śvabhirhaṃtīti śvaghnirlubdhaka ihocyate*) as a hunter who kills animals by means of dogs; and Sāyaṇa, शुना मृगान् हतवान् श्वहा । तस्य स्त्री श्वघ्नी (*śunā mṛgān hatavān śvahā | tasya strī śvaghnī*), as the wife of the hunter who kills game by means of dogs. In the Ṛksaṃhitā the word श्वघ्नी (*śvaghnī*) is used, besides the present Ṛk, in the Ṛks Ṛ. Saṃ. 1-92-10; 2-12-4; 10-42-9; 10-43-5; 8-45-38. In the present Ṛk it is explained as a hunter.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒शन्नु॒षु णः॑ सु॒मना॑ उपा॒के सोम॑स्य॒ नु सुषु॑तस्य  
+> स्वधावः ।  
+> पा इं॑द्र॒ प्रति॑भृतस्य॒ मध्वः॒ समंध॑सा ममदः पृ॒ष्ट्ये॑न ॥४॥
+
+> *uśannuṣu ṇaḥ sumanā upāke somasya nu suṣutasya*  
+> *svadhāvaḥ |*  
+> *pā iṃdra pratibhṛtasya madhvaḥ samaṃdhasā mamadaḥ pṛṣṭyena ‖4‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उशन् । ऊं इति । सु । नः । सुमनाः । उपाके । सोमस्य । नु । सुसुतस्य ।  
+> स्वधावः ।  
+> पाः । इंद्र । प्रतिभृतस्य । मध्वः । सं । अंधसा । ममदः । पृष्ट्येन ॥ ४ ॥
+
+> *uśan | ūṃ iti | su | naḥ | sumanāḥ | upāke | somasya | nu | susutasya |*  
+> *svadhāvaḥ |*  
+> *pāḥ | iṃdra | pratibhṛtasya | madhvaḥ | saṃ | aṃdhasā | mamadaḥ | pṛṣṭyena ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निष्टोमे माध्यंदिनसवने मैत्रावरुणस्योशन्नु षु ण इति शस्त्रयाज्या ।
+> सूत्रितं च । उशन्नु षु ण॥ सुमना उपाक इति याज्या । आ. ५-१६ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Agniṣṭoma, at the midday pressing, उशन्नु षु णः (*uśannu ṣu ṇaḥ*) is the śastra-yājyā of the Maitrāvaruṇa priest. It is also enjoined by the sūtra: उशन्नु षु ण॥ सुमना उपाक इति याज्या । आ. ५-१६ । (*uśannu ṣu ṇa‖ sumanā upāka iti yājyā | ā. 5-16 |*) (Ā. Sū. 5-16).
+
+### Printed p. 36
+
+> हे स्वधावोऽन्नवन्निंद्र सुमनाः शोभनमनस्कस्त्वमुपाके समीपे नोऽस्मानुशन्नु सु अत्यंतं कामयमानः सन् सुषुतस्य सुष्त्वभिषुतं प्रतिभृतस्य
+> संभृतं मध्यो मादकं सोमस्य सोमं नु क्षिप्रमेव पाः । पिब । पृष्येन ।
+> पृष्यशब्देन माध्यंदिनसवन उद्गातृभिरुद्गीयमानं स्तोत्रमुच्यते । तत्संबंधिनांधसा पीतेन सोमेन सं ममदः । प्रहृष्टो भव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, rich in food (स्वधावः (*svadhāvaḥ*)), well-minded (सुमनाः (*sumanāḥ*)), near us (उपाके (*upāke*) = near), eagerly desiring us, drink quickly (नु (*nu*)) the Soma that is well pressed, collected and exhilarating. By पृष्येन (*pṛṣyena*) is meant the hymn (stotra) chanted by the Udgātṛs at the midday pressing; be delighted (सं ममदः (*saṃ mamadaḥ*) = become exhilarated) with the Soma drunk in connection with it (अंधसा (*aṃdhasā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधावः (*svadhāvaḥ*)—O one possessed of food
+- इंद्र (*iṃdra*)—Indra
+- सुमनाः (*sumanāḥ*)—you, whose mind is auspicious
+- उपाके (*upāke*)—near us
+- नः (*naḥ*)—us
+- सु उशन् (*su uśan*)—greatly desiring (our company)
+- सुषुतष्य (*suṣutaṣya*)—of what is excellently pressed
+- प्रतिभृतस्य (*pratibhṛtasya*)—and collected
+- मध्वः (*madhvaḥ*)—and exhilarating
+- सोमस्य (*somasya*)—the Soma
+- नु (*nu*)—quickly
+- पाः (*pāḥ*)—drink
+- पृष्टेन (*pṛṣṭena*)—with the hymn of the midday pressing
+- अंधसा (*aṃdhasā*)—with the Soma (drunk)
+- सं ममदः (*saṃ mamadaḥ*)—be satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, rich in food, you whose mind is auspicious, greatly desiring our company, sit near us, and quickly drink the Soma that is pressed in the best manner, respectfully collected, and exhilarating. Be satisfied with the Soma drunk together with the hymn chanted by the Udgātṛs at the midday pressing.
+
+##### English translation (H. H. Wilson)
+Indra, the giver of food, be near to us, favourably disposed ; and, anxious for our (good), drink of the effused, prepared, exhilarating Soma, and be pleased by the (sacrificial) food (offered) with the noon-day hymn.
+
+##### विशेषविषयगळु (Special Topics)
+
+The word स्वधा (*svadhā*) is read among the names of food (Ni. 3-9), the word उपाके (*upāke*) among the names of nearness (Ni. 3-9), and the word अंधः (*aṃdhaḥ*) among the names of food (Ni. 3-9).
+पृष्ठेन (*pṛṣṭhena*)—Here the word पृष्ठ (*pṛṣṭha*) is explained as the hymn sung by the priest called Udgātṛ at the time of the midday pressing. The meaning of the Ṛk is clear.
+
 ---
 
-**Progress note:** Done through printed p. 30. pp. 25-30 (batch API)
+**Progress note:** Done through printed p. 36. pp. 31-36 (batch API)
