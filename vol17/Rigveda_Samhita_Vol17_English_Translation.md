@@ -21832,6 +21832,268 @@ You are the munificent recompenser of that man who, sweating (with toil), brings
 - ध्रुवः अस्तु (*dhruvaḥ astu*)—let him be a firm believer
 - दास्वान् (*dāsvān*)—let him be a generous giver
 
+### Printed p. 712
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer who offers cooked food such as the purodāśa to you, who desire food in the form of oblation, who sets you up on the uttaravedi and offers the beneficial Soma, and who kindles you, divine in nature, in the sacrificial house: may the son of such a man be a firm believer and a generous giver.
+
+##### English translation (H. H. Wilson)
+May a son, firm in (devotion) and liberal (in offerings), be born to him who presents (srcrificial) food to you when needing food, who gives you constantly the exhilarating (Soma juice), who welcomes you as a guest, and devoutly kindles you in his mansion.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त्वा॑ दो॒षा य उ॒षसि॑ प्र॒शंसा॑त्प्रि॒यं वा॑ त्वा कृ॒णव॑ते  ॒॑
+> ह॒विष्मा॑न् ।  
+> अश्वो॒ न स्वे दम॒ आ हे॒म्यावा॒न्तमंह॑सः पीपरो दा॒श्वांसं॑ ॥ ८ ॥
+
+> *yastvā doṣā ya uṣasi praśaṃsātpriyaṃ vā tvā kṛṇavate*  
+> *haviṣmān |*  
+> *aśvo na sve dama ā hemyāvāntamaṃhasaḥ pīparo dāśvāṃsaṃ ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । त्वा । दोषा । यः । उषसि । प्रशंसात् । प्रियं । वा । त्वा । कृणवते ।  
+> हविष्मान् ॥  
+> अश्वः । न । स्वे । दमे । आ । हेम्यावान् । तं । अंहसः । पीपरः । दाश्वांसं ॥ ८ ॥
+
+> *yaḥ | tvā | doṣā | yaḥ | uṣasi | praśaṃsāt | priyaṃ | vā | tvā | kṛṇavate |*  
+> *haviṣmān ‖*  
+> *aśvaḥ | na | sve | dame | ā | hemyāvān | taṃ | aṃhasaḥ | pīparaḥ | dāśvāṃsaṃ ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यः पुमान् दोषा दोषायां रात् त्वां प्रशंसात् संस्तुयात् ।
+> यश्चोषसि प्रातःकाले त्वां प्रशंसेत् । हविष्मान् संभृतहविष्को यो वा यज-
+
+##### Gist of the bhāṣya
+
+"O Agni, whatever man praises you by night (दोषा (*doṣā*), with the locative ending ā), and whoever praises you at dawn; or the sacrificer who, provided with oblations, having gathered his offering…" The sentence continues on the next page.
+
+### Printed p. 713
+
+> मानस्त्वा त्वां प्रियं हविर्भिः प्रीतं कृणवते । कुर्यात् । आ अथ दाश्वांसं हविर्दत्तवंतं तं तादृशं यजमानं स्वे दमे स्वकीये गृहे हेम्यावान् सुवर्णनिर्मितकक्ष्यावानश्च न अश्व इव संचरंस्तमंहसः पापरूपाद्दारिद्रात्पीपरः ।
+> पारं नय । तस्यॆ यजमानाय बहु धनं प्रयच्छेत्यर्थः ॥ दोषा । सप्तम्या
+> आकारः । प्रशंसात् । शन्नु स्तुता । लेट्याडागमे रूपं । कृणवते । कृवि हिंसाकरणयोरित्यस्य लेटि धन्विकृण्वरच्चेत्युप्रत्ययः । लेटोऽडाटावित्यडागमः । यद्वृत्तयोगादनिघातः । प्रत्ययस्वरः । हेम्यावान् । हेमार्हति । छंदसि चेति यः ।
+> पीपरः । प्प पालनपूरणयोरित्यस्य ण्यंतस्य लुजु चजु रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+"…makes you dear, pleased with oblations. And then, that sacrificer who has given the oblation (दाश्वांसं (*dāśvāṃsaṃ*)), in his own house, like a horse wearing a girth made of gold moving about, carry him across (पीपरः (*pīparaḥ*) = take him to the far shore) from sin in the form of poverty; that is, give that sacrificer abundant wealth." Sāyaṇa adds that दोषा (*doṣā*) has the ending ā for the locative; प्रशंसात् (*praśaṃsāt*) is from the root for praise, a Leṭ form with the augment; कृणवते (*kṛṇavate*) is from the root kṛvi (harming, doing); हेम्यावान् (*hemyāvān*) means "deserving gold"; पीपरः (*pīparaḥ*) is an aorist-type form of the causative of pṝ ("protect, fill").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यः (*yaḥ*)—which sacrificer
+- दोषा (*doṣā*)—at night
+- त्वा (*tvā*)—you
+- प्रशंसात् (*praśaṃsāt*)—praises
+- यः (*yaḥ*)—who
+- उषसि (*uṣasi*)—praises also at dawn
+- हविष्मान् वा (*haviṣmān vā*)—or which sacrificer, provided with oblation
+- त्वा (*tvā*)—you
+- प्रियं (*priyaṃ*)—as one pleased with oblations
+- कृणवते (*kṛṇavate*)—makes
+- दाश्वांसं (*dāśvāṃsaṃ*)—who offers the oblation
+- तं (*taṃ*)—such a sacrificer
+- स्वे दमे (*sve dame*)—in his house
+- हेम्यावान् (*hemyāvān*)—adorned with golden ornaments
+- अश्वो न (*aśvo na*)—moving about like a horse
+- अंहसः (*aṃhasaḥ*)—from the poverty that is sin
+- पीपरः (*pīparaḥ*)—bring to an end
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer who praises you both at evening and at dawn and offers oblation: in the house of such a sacrificer, moving about like a horse adorned with gold, carry him across from poverty in the form of sin.
+
+##### English translation (H. H. Wilson)
+Preserve from sin the liberal sacrificer who glorifies you morning and evening, and, presenting oblations, does what is acceptable to you in his own abode, like a horse with golden caparisons
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्तुभ्य॑मग्ने अ॒मृता॑य॒ दाश॒द्दु व॒स्त्वे कृ॒णव॑ते य॒तसु॑क् ।
+
+> *yastubhyamagne amṛtāya dāśaddu vastve kṛṇavate yatasuk |*
+
+### Printed p. 714
+
+> न स राया शशमानो वि योषन्नैनमंहः परि वरदघायोः ॥ ९ ॥
+
+> *na sa rāyā śaśamāno vi yoṣannainamaṃhaḥ pari varadaghāyoḥ ‖ 9 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । तुभ्यं । अग्ने । अमृताय । दाशत् । दुवः । त्वे इति । कृणमते । यतऽसुक् ।  
+> नः । सः । राया । शशमानः । वि । योषत् । न । एनं । अंहः । परि । वरत् । अघयोः ॥ ९ ॥
+
+> *yaḥ | tubhyaṃ | agne | amṛtāya | dāśat | duvaḥ | tve iti | kṛṇamate | yata 'suk |*  
+> *naḥ | saḥ | rāyā | śaśamānaḥ | vi | yoṣat | na | enaṃ | aṃhaḥ | pari | varat | aghayoḥ ‖ 9 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यो यजमानोऽमृताय मरणधर्मरहिताय तुभ्यं दाशत्
+> हवींषि प्रयच्छेत् । यतस्रुक् संयतस्रुक् यश्च यजमानस्त्वै त्वयि दुवः परिचर्यां कृणवते करोति शशमानः स्तोत्रं कुर्वाणः स यजमानो राया धनेन
+> न वि योषत् । न पृथग्नवेत् । सदा धनयुक्तो भवेदित्यर्थः । अघायोः पापमिच्छतो हिंसकस्य संबंध्यंह आहननं पापमेनं यजमानं न परि वरत् । न
+> परिवृणुयात् । न स्पृशेदित्यर्थः ॥ दाशत् । दाश्य दाने । लेट्यडागमे रूपं । त्वे ।
+> सुपां सुलुगिति सप्तम्याः शे इत्यादेशः । कृणवते । यद्वृत्तयोगादनिघातः ।
+> योषत् । यु मिश्रणे । लेटि सिब्बहुलमिति सिप् । अडागमः । निघातः । वरत्,
+> वृञ् वरणे । लेटि रूपं ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, the sacrificer who gives oblations to you, who are immortal, free from the nature of death; and the sacrificer who, holding up the ladle (यतस्रुक् (*yatasruk*)), performs service to you (त्वे (*tve*) = in you), reciting praise (शशमानः (*śaśamānaḥ*)): may that sacrificer not be separated from wealth (राया (*rāyā*)); that is, he should always be possessed of wealth. The अंहः (*aṃhaḥ*), the sin that strikes, belonging to the malevolent (अघायोः (*aghāyoḥ*)), the harmful one who wishes evil, should not encompass (परि वरत् (*pari varat*)) this sacrificer; that is, should not touch him." Sāyaṇa adds notes on forms: दाशत् (*dāśat*) (root dāś, giving), a Leṭ form with the augment; त्वे (*tve*) (locative replaced by śe); योषत् (*yoṣat*) (root yu, mixing); वरत् (*varat*) (root vṛñ, choosing or covering), a Leṭ form.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—which sacrificer
+- अमृताय (*amṛtāya*)—to the deathless
+- तुभ्यं (*tubhyaṃ*)—to you
+- दाशत् (*dāśat*)—offers oblation
+- यतस्रुक् (*yatasruk*)—holding up the oblation vessel
+- त्वे (*tve*)—to you
+- शशमानः (*śaśamānaḥ*)—reciting praise
+- दुवः (*duvaḥ*)—service in the form of worship
+- कृणवते (*kṛṇavate*)—does
+- सः (*saḥ*)—such a sacrificer
+- राया (*rāyā*)—by wealth
+- न वि योषत् (*na vi yoṣat*)—let him not be separated
+- अघायोः (*aghāyoḥ*)—of the sinful one
+- अंहः (*aṃhaḥ*)—the sin in the form of harm
+- एनं (*enaṃ*)—this sacrificer
+- न परि वरत् (*na pari varat*)—let it not surround
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer who offers oblation to you, who are deathless, and who, lifting the oblation vessel, renders you service in the form of praise: for such a sacrificer let there be no poverty of wealth. Let no kind of harm from an enemy surround him.
+
+### Printed p. 715
+
+##### English translation (H. H. Wilson)
+Let not him who makes offerings to you, Agni, who are immortal, who with uplifted ladle pours out oblations repeating your praise, ever want riches, and let not the wickedness of a malevolent (foe) circumvent him
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ त्वम॑ग्ने अध्व॒रं जुजो॑षो दे॒वो मर्त॑स्य॒ सुधि॑तं॒  ॑
+> रराणः ।  
+> प्री॒तेद॑स॒द्धोत्रा॒ सा य॑वि॒ष्ठासा॑म॒ यस्य॑ विध॒तो वृ॒धासः॑ ॥
+
+> *yasya tvamagne adhvaraṃ jujoṣo devo martasya sudhitaṃ*  
+> *rarāṇaḥ |*  
+> *prītedasaddhotrā sā yaviṣṭhāsāma yasya vidhato vṛdhāsaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । त्वं । अग्ने । आध्वरं । जुजोषः । देवः । मर्तस्य । सुधितं । रराणः ।  
+> प्रीता । इत् । आसत् । होत्रा । सा । यविष्ठ । असाम । यस्य । विधतः । वृधासः ॥१०॥
+
+> *yasya | tvaṃ | agne | ādhvaraṃ | jujoṣaḥ | devaḥ | martasya | sudhitaṃ | rarāṇaḥ |*  
+> *prītā | it | āsat | hotrā | sā | yaviṣṭha | asāma | yasya | vidhataḥ | vṛdhāsaḥ ‖10‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने रराणो रममाणो देवो दीप्यमानस्त्वं यस्य मर्तस्य मनुष्यस्य संबंधि सुधितं त्वदर्थं सुष्टु निहितमध्वरमनुपहतं हनिर्लक्षणमन्नं
+> जुजोषः सेवेथा हे यविष्ठ युवतम सा होत्रा स होता यजमानः प्रीतेदसत् । प्रीत एव भवेत् । असाम तस्य यजमानस्य संबंधिनो भवेम यस्य विधतोऽग्निपरिचर्यां कुर्वतो यजमानस्य होत्रादयो वृधासो यज्ञस्य वर्धयितारो भवंति ॥ जुजोषः । जुषी प्रीतिसेवनयोरित्यस्य बहुलं छंदसीति श्लुः ।
+> अडागमः । अभ्यस्तस्वरः । सुधितं । दधातेर्निष्ठायां सुधितवसुधितेति निपातनात्
+> ध्यादेशः । गतिरनंतर इति गतेः स्वरः । असाम ! आस्तेर्लोट्याडुत्तमस्य पिच्चेत्याडागमः । उत्तमस्य पिद्वद्भावादनुदात्तत्वे धातुस्वरः । विधतः । विध विधाने । तुदादिः।
+> शतुरनुम इति विभक्तेरुदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, delighting (रराणः (*rarāṇaḥ*)), shining (देवः (*devaḥ*)), you who enjoy (जुजोषः (*jujoṣaḥ*)) the well-placed (सुधितं (*sudhitaṃ*)), unharmed (अध्वरं (*adhvaraṃ*)) food in the form of oblation, properly set down for you, of the mortal, the man to whom it belongs: O youngest (यविष्ठ (*yaviṣṭha*)), that sacrificer (सा होत्रा (*sā hotrā*) = that hotṛ, the sacrificer) becomes pleased indeed. May we be (असाम (*asāma*)) connected with that sacrificer for whom, as he performs the service of Agni, the hotṛ and the others become promoters (वृधासः (*vṛdhāsaḥ*)) of the sacrifice." Sāyaṇa adds notes on forms: जुजोषः (*jujoṣaḥ*) (root juṣ, pleasure, service); सुधितं (*sudhitaṃ*) (root dhā, with the substitution dhi); असाम (*asāma*) (root as, Loṭ, with the augment); विधतः (*vidhataḥ*) (root vidh, of the tudādi class), with accent on the ending.
+
+### Printed p. 716
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- रराणः (*rarāṇaḥ*)—delighting
+- देवः (*devaḥ*)—shining
+- त्वं (*tvaṃ*)—you
+- यस्य मर्तस्य (*yasya martasya*)—of which man
+- सुधितं (*sudhitaṃ*)—offered according to rule
+- अध्वरं (*adhvaraṃ*)—the food in the form of oblation
+- जुजोषः (*jujoṣaḥ*)—do you enjoy
+- सा होत्रा (*sā hotrā*)—that sacrificer
+- प्रीतेदसत् (*prītedasat*)—becomes pleased
+- यविष्ठ (*yaviṣṭha*)—O Agni, the young
+- यस्य विधतः (*yasya vidhataḥ*)—to the sacrifices and the like of which sacrificer
+- वृधासः (*vṛdhāsaḥ*)—(the hotṛ and the others) are promoters of growth
+- असाम (*asāma*)—may we increase the connection (with that sacrificer)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who shine, delighting: the man whose oblation-food, offered according to rule, you enjoy, that sacrificer becomes pleased. O youthful Agni, may we increase the connection with that sacrificer to whose sacrifices the hotṛ and the others are promoters of growth.
+
+##### English translation (H. H. Wilson)
+May that prayer be agreeable to you, Agni, who are a gracious deity, (which is uttered) by the man with whose well-conducted sacrifice you are well pleased, youngest (of the gods), of whose (rites) when worshipping you may we be the promoters.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चित्ति॒मचि॑त्तिं चिनव॒द्वि वि॒द्वान् पृ॒ष्ठेव॑ वी॒ता वृ॑जि॒ना च॒  ॑
+> मर्तान् ।  
+> रा॒ये च॑ नः स्वप॒त्याय॑ देव॒ दितिं॑ च॒ रास्वादि॑तिमुरुष्य ॥११॥
+
+> *cittimacittiṃ cinavadvi vidvān pṛṣṭheva vītā vṛjinā ca*  
+> *martān |*  
+> *rāye ca naḥ svapatyāya deva ditiṃ ca rāsvāditimuruṣya ‖11‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चित्तिं । अचित्तिं । चिनवत् । वि । विद्वान् । पृष्ठा इव । वीता । वृजिना । च । मर्तान् ।  
+> राये । च । नः । सुअपत्याय । देव । दितिं । च । रास्व । अदितिं । उरुष्य ॥ ११ ॥
+
+> *cittiṃ | acittiṃ | cinavat | vi | vidvān | pṛṣṭhā iva | vītā | vṛjinā | ca | martān |*  
+> *rāye | ca | naḥ | suapatyāya | deva | ditiṃ | ca | rāsva | aditiṃ | uruṣya ‖ 11 ‖*
+
+### Printed p. 717
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विद्वान् प्राणिन ० पुण्यपापरूपाणि कर्माणि जानानः सोऽग्निश्चित्तिं ज्ञातव्यं
+> पुण्यमचित्तिमनुपादेयत्वेनाचेतनीयं पापं । यद्वा । चित्तिं ज्ञानमचित्तिमज्ञानं वि चिनवत् । विचिनोतु । पृथक्करोतु । तत्र दृष्टांतः । पृष्टेव । यथाश्वपालोऽश्वानां वीता कांतानि वृजिना दुर्वहाणि च पृष्ठा पृष्ठानि ज्ञेयोपादेयत्वेन पृथक्करोति तद्वत् । किंच मर्तान्पुण्य कृतोऽपुण्यकृतश्च मनुष्यान् पृथक्करोतु । हे देवाग्ने स्वपत्याय शोभनपुत्रोपेताय राये धनाय नोऽस्मान्
+> कुरु । दितिं दातारं च रास्व । देहि । अदितिं । पंचम्यर्थे द्वितीया । अदातुः
+> सकाशादुरुष्य । रक्ष ॥ चित्तिं । चिती संज्ञाने । स्त्रियां क्तिन् । नित्याद्युदात्तः ।
+> चिनवत् । चिनोतेर्लॆट्यडागमः । दितिं । दाण् दाने । कर्तरि क्तिन् । रास्व । रा
+> दाने । लोटि व्यत्ययेनात्मनेपदं । चवायोगे प्रथमेति न निघातः ॥
+
+##### Gist of the bhāṣya
+
+"The knowing (विद्वान् (*vidvān*)) Agni, who knows the deeds of beings, in the form of merit and sin, should discern (चित्तिं (*cittiṃ*)) the merit that is to be known, and (अचित्तिं (*acittiṃ*)) the sin that is not to be thought of, being unfit to be taken up. Or else: चित्तिं (*cittiṃ*) is knowledge and अचित्तिं (*acittiṃ*) ignorance; let him separate them (वि चिनवत् (*vi cinavat*)). The example: पृष्ठेव (*pṛṣṭheva*); as a groom of horses separates the backs (पृष्ठा (*pṛṣṭhā*)) of horses into the lovely (वीता (*vītā*)) and the hard to bear (वृजिना (*vṛjinā*)), as to what is to be known and taken up, so he. Moreover, let him separate mortals, those who do merit and those who do not. O divine Agni, make us (नः (*naḥ*)) possessed of wealth (राये (*rāye*)) with good offspring (स्वपत्याय (*svapatyāya*)). Give (रास्व (*rāsva*)) the giver (दितिं (*ditiṃ*)). अदितिं (*aditiṃ*) has the accusative in the sense of the ablative: protect (उरुष्य (*uruṣya*)) us from the one who does not give." Sāyaṇa adds notes on forms: चित्तिं (*cittiṃ*) (root cit, to perceive; suffix ktin); चिनवत् (*cinavat*) (root ci, Leṭ with the augment); दितिं (*ditiṃ*) (root dā, giving; ktin in the agent sense); रास्व (*rāsva*) (root rā, giving; ātmanepada by vyatyaya).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीता (*vītā*)—the lovely parts (of the horse's back)
+- वृजिना (*vṛjinā*)—and the unbearable parts
+- पृषेव (*pṛṣeva*)—as a groom separates them
+- विद्वान् (*vidvān*)—Agni, the all-knowing
+- चित्तिं (*cittiṃ*)—merit
+- अचित्तिं (*acittiṃ*)—and sin
+- वि चिनवत् (*vi cinavat*)—let him separate
+- मर्तान् (*martān*)—among men too, let him separate those who do merit from the sinful
+- देव (*deva*)—O Agni
+- स्वपत्याय (*svapatyāya*)—with excellent sons
+- राये (*rāye*)—grant us to become sharers in wealth
+- नः (*naḥ*)—us
+- दितिं (*ditiṃ*)—the giver
+- रास्व (*rāsva*)—give
+- अदितिं (*aditiṃ*)—from the non-giver
+- उरुष्य (*uruṣya*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+As a groom of horses separates the lovely and the unbearable parts on a horse's back, so may Agni, the all-knowing, separate merit and sin. Among men too, may he separate those who do merit from the sinful. O Agni, make us sharers in wealth along with excellent sons. Give us an excellent giver, and protect us from the non-giver.
+
+##### English translation (H. H. Wilson)
+May the wise Agni, discriminate between virtue and vice, between (virtuous and wicked) men, as a (groom distinguishes between (the strong ard weak backs (of horses) : enrich us with wealth accompanied by virtuous offspring : be bountiful to the liberal giver : shun him who gives not.
+
 ---
 
-**Progress note:** Done through printed p. 711. pp. 706-711 (batch API)
+**Progress note:** Done through printed p. 717. pp. 712-717 (batch API)
