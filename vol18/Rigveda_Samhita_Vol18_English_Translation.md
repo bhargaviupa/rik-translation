@@ -28108,6 +28108,118 @@ The enemies hid Agni, lord of all living beings and abode of all humans, among t
 ##### English translation (H. H. Wilson)
 Enemies have secreted amongst mortals, the king of living beings, the asylum of men : may the prayers of Atri set him free; may those who revile be reviled.
 
+### Printed p. 755
+
+##### विशेषविषयगळु (Special Topics)
+
+As explained earlier, the situation at hand is that Vṛśa's praise made the hidden Agni visible to the sacrificer. This is the situation in which Vṛśa prays to Agni.
+अत्रेः ब्रह्माणि अव सृजंतु (*atreḥ brahmāṇi ava sṛjaṃtu*)—may the hymns of Vṛśa, born in the Atri lineage, make the hidden Agni come out; this is the prayer.
+Brahmāṇi—the word brahma is read among the names of food and among the names of wealth (Ni. 3-9). It is derived from the root bṛh, meaning "to grow"; the sense is a rite that causes growth, or food.
+तस्मिन् बह्माणि पूर्वथेंद्र उक्ता समग्मतार्चन्ननु स्वराज्यं । (*tasmin bahmāṇi pūrvatheṃdra uktā samagmatārcannanu svarājyaṃ |*) (Ṛ. Saṃ. 1-80-16)
+In Ṛks such as this it is explained as food in the form of oblation. This is the meaning in Sāyaṇa's bhāṣya. The Nirukta-writers quote this same sentence and, with तस्मिन् ब्रह्माणि कर्माणि (*tasmin brahmāṇi karmāṇi*), explain the word brahma as "rite". Besides this, the sense "praise" is also well known.
+प्राणद्ब्रह्मापि सुप्रीतः सुताय तदथर्वणः । स चौभवदृषिस्तेन ब्रह्मणा दीप्तिमत्तरः ॥ (*prāṇadbrahmāpi suprītaḥ sutāya tadatharvaṇaḥ | sa caubhavadṛṣistena brahmaṇā dīptimattaraḥ ‖*) (Bṛ. De. 3-18)
+Here the situation is described in which Indra taught Atharvan a mantra in the form of praise. The sage Dadhīci received that brahma (the mantra in the form of praise) and became exceedingly radiant; thus the sense of the word brahma as "mantra" is stated. In the present mantra too, the meaning is taken as praise or mantra. How the many senses of this word — food, rite, mantra, the supreme Brahman and so on — are possible, and in which situations each usage occurs, will be shown elsewhere.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुन॑श्चि॒च्छेपं॒ निदि॑तं स॒हस्रा॒द्योपा॑दमुंचो॒ अश॑मिष्ट॒ हि षः ।  
+> ए॒वास्मद॑ग्ने॒ वि मु॑मुग्नि॒ पाशा॒न्नोत॑श्चि कित्व इ॒ह तू नि॒षद्य॑ ॥
+
+> *śunaścicchepaṃ niditaṃ sahasrādyopādamuṃco aśamiṣṭa hi ṣaḥ |*  
+> *evāsmadagne vi mumugni pāśānnotaści kitva iha tū niṣadya ‖*
+
+### Printed p. 756
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनःशेपं । चित् । निदितं । सहस्रात् । यूपात् । अमुंचः । आशमिष्ट । हि । सः ॥  
+> एव । अस्मत् । अग्ने । वि । मुमुग्नि । पाशान् । होतरिति । चिकित्वः । इह । तु ।  
+> निसद्य ॥ ७ ॥
+
+> *śunaḥśepaṃ | cit | niditaṃ | sahasrāt | yūpāt | amuṃcaḥ | āśamiṣṭa | hi | saḥ ‖*  
+> *eva | asmat | agne | vi | mumugni | pāśān | hotariti | cikitvaḥ | iha | tu |*  
+> *nisadya ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंजःसव अहवनीयोपस्थाने शुनश्चिच्छेपमित्येषा । अग्निमाहवनीयमुपस्थापयांचकार शुनश्चिच्छेपं निदितं सहस्रात् । ऐ. ब्रां. ७-१७ । इति ब्राह्मणं ॥
+> हे अग्ने निदितं नितरां बद्धं शुनःशेपमृषिं सहस्रादनेकरूपाद्योपादमुंचॆः । अमोचयः । चिदिति पूरणः । शुनःशेपमिति पदस्य मध्ये पदांतरस्य
+> संहितायां व्यत्ययेनावस्थितिः । स ऋषिरशमिष्ट हि । शांतवान् खलु । यद्वा । स हि
+> यस्मादशमिष्ट । स्तुतिकर्मैतत् । तस्तावीत् । तस्मादमुंच इति संबंधः ।
+> एवैवमस्मदस्मत्तः पाशान्नि मुमुग्नि । विमोचय । हे होतर्हे चिकित्सश्चेतनवान्नाग्ने
+> इह तु वेद्यां निषद्यावस्थाय ॥
+
+##### Gist of the bhāṣya
+
+At the añjaḥsava, in the worship of the Āhavanīya fire, the Ṛk शुनश्चिच्छेपं (*śunaścicchepaṃ*) is used. The Brāhmaṇa says that he (Śunaḥśepa) approached the Āhavanīya Agni with शुनश्चिच्छेपं निदितं सहस्रात् (*śunaścicchepaṃ niditaṃ sahasrāt*) (Ai. Brā. 7-17). "O Agni, you released the seer Śunaḥśepa, tightly bound, from a thousand — manifold — stakes (yūpa)." Cit is a filler. The placing of another word in the middle of the word Śunaḥśepa in the Saṃhitā is by transposition. "That seer was indeed calmed." Or else: because he praised (praising is the meaning of अशमिष्ट (*aśamiṣṭa*)), therefore you released him; this is the connection. "So release the bonds from us. O Hotṛ, O wise Agni, having sat down here on the altar (do so)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै अग्निये (*èlai agniye*))—O Agni
+- निदितं (*niditaṃ*)—the fully bound
+- शुनःशेफं (*śunaḥśephaṃ*)—the seer named Śunaḥśepa
+- सहस्रात् (*sahasrāt*)—from thousands
+- यूपात् (*yūpāt*)—from bonds
+- आमुंचः (*āmuṃcaḥ*)—you have released
+- सः (*saḥ*)—that seer
+- अशमिष्ट (*aśamiṣṭa*)—remained calm of mind
+- होतः (*hotaḥ*)—accomplisher of the oblation
+- चिकित्स्यः (*cikitsyaḥ*)—the wise one
+- अग्ने (*agne*)—O Agni
+- इह तु (*iha tu*)—right here on this sacrificial altar
+- निषद्य (*niṣadya*)—having sat down
+- एव (*eva*)—just as you freed Śunaḥśepa
+- अस्मत् (*asmat*)—from us
+- पाशान् (*pāśān*)—the nooses
+- वि मुमुग्नि (*vi mumugni*)—release
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you freed the seer Śunaḥśepa, fully bound to thousands of posts, from all his bonds. In the same way, O Agni, accomplisher of the oblation and wise one, sitting right here on this sacrificial altar, free us from all our nooses.
+
+##### English translation (H. H. Wilson)
+You have liberated fettered Shunahshepa from a thousand stakes, for he was patient in endurance: so, Agni, free us from our bonds, having sat down here (at our sacrifice), intelligent offerer of oblations.
+
+### Printed p. 757
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the seer prays to Agni to free him from nooses in the form of sin or of sorrow. In this prayer there is a comparison with Śunaḥśepa: the praise is that, as Agni protected Śunaḥśepa and freed him from the noose, he should free the seer too. The same story of Śunaḥśepa, as told in the Aitareya Brāhmaṇa, has been given at length in the Special Topics of Ṛ. Saṃ. sūkta 1-27 (Ṛgveda Saṃhitā, part 3). It says that he prayed in turn to deities such as Agni, Savitṛ, Varuṇa and Indra, and by the grace of all of them, above all of Indra, had his noose loosed. This story of Śunaḥśepa is a principal episode from the viewpoint of modern critics, and in many respects it is open to criticism. Earlier, only the sequence of the story was given, and the inner meaning of the narrative was not examined. It is proper now to examine what the principle of the Śunaḥśepa narrative is; after that the fitness of this comparison in the present mantra can be understood.
+Among the well-known narratives of Vedic literature, none has the importance and fame of the Śunaḥśepa narrative. For that reason it is quoted and recited again and again both in Vedic works such as the Brāhmaṇas and in worldly works such as the Purāṇas.
+This narrative is recited in full in the Aitareya Brāhmaṇa (7-3). The story told there is that Śunaḥśepa was accepted as the sacrificial victim in place of Rohita, son of Hariścandra, and that by Viśvāmitra's favour Śunaḥśepa praised Varuṇa and the others and was freed from the noose. On the basis of this story, some modern scholars have suggested that human sacrifice was practised in the Vedic age. But the Śruti texts do not give that view such firm support. If the setting of the story is examined, the situation is as follows.
+After all the preliminary rites forming the limbs of the sacrifice were completed, at the time in the principal sacrifice when the victim was to be tied and slaughtered, no one agreed to bind Śunaḥśepa to the sacrificial post. Then Ajīgarta himself (the father) agreed to help in this act. Moreover, he consented even to cut down his own son like an animal. Then Śunaḥśepa, trembling that he would be cut like a beast, cried out to the gods. In order he prayed to Prajāpati, Agni, Savitṛ, Varuṇa, Indra, the Aśvins and Uṣas, and sought their help. As the mantras praising Uṣas were recited one by one, all his bonds were fully loosened
+
+### Printed p. 758
+and he was freed (Hariścandra's disease was destroyed). Then Śunaḥśepa was asked to join the officiating priests. Knowing the procedure of the añjaḥsava, he performed the pressing rite accordingly.
+Afterwards he refused to accept Ajīgarta as his father and obtained sonship to Viśvāmitra. This is the story told in the Aitareya Brāhmaṇa. But it cannot be said that the Ṛksaṃhitā wholly supports this full story. The narrative is nowhere recited in full in the Ṛksaṃhitā. Even so, the setting is indicated in many places. It is well known that the pressing rite in the form of the añjaḥsava was first seen by Śunaḥśepa himself. In this the Ṛksaṃhitā texts are the principal praise-verses, all recited by Śunaḥśepa. If one first knows which they are, the inner principle of the narrative is then easily understood. The order of the mantras recited by Śunaḥśepa at the time of the añjaḥsava rite is as follows:—
+1. कस्य नूनं कतमस्यामृतानां (*kasya nūnaṃ katamasyāmṛtānāṃ*) (1-24-1): prayer to Prajāpati.
+2. अग्नेर्वयं प्रथमस्यामृतानां (*agnervayaṃ prathamasyāmṛtānāṃ*) (1-24-2): praise of Agni.
+3. अभि त्वा देव सवितः (*abhi tvā deva savitaḥ*) (1-24-3 to 5): praise of Savitṛ.
+4. न हि ते क्षत्रं न सहो न मन्युं (*na hi te kṣatraṃ na saho na manyuṃ*) (1-24-6 to 15) and 1-25-1 to 21: these 31 mantras are praise of Varuṇa.
+5. वसिष्वा हि मियेध्य (*vasiṣvā hi miyedhya*) (1-26-) and 1-27-1 to 12: these 22 mantras are again praises of Agni.
+6. नमो महद्भो (*namo mahadbho*) (1-27-13): prayer to the Viśvedevas.
+7. यच्चिद्धि सत्य सोमपा (*yacciddhi satya somapā*) (1-29-1; 1-30-1 to 15): these mantras are in praise of Indra.
+Pleased with these mantras, Indra gives Śunaḥśepa a golden chariot. Then Śunaḥśepa recites mantras such as शश्वदिंद्र (*śaśvadiṃdra*) (1-30-6) and accepts it. Then he prays to and praises the Aśvins and Uṣas. Thereupon he is fully freed from bondage.
+(Scholars such as Keith hold that these mantras have no connection with the story told in the Brāhmaṇa; Journal of the Royal Asiatic Society 1911, p. 988. This point has to be examined and settled on the basis of Śruti texts.)
+
+### Printed p. 759
+The same Aitareya Brāhmaṇa story is told in the Śāṅkhāyana Śrautasūtra (15-17-2), though with variant readings. The Bṛhaddevatā describes the same setting thus:
+सूयमानः शश्वदिति प्रीतस्तु मनसा दद् । शुनःशेफाय दिव्यं तु रथं सर्वं हिरण्मयं ॥ (*sūyamānaḥ śaśvaditi prītastu manasā dad | śunaḥśephāya divyaṃ tu rathaṃ sarvaṃ hiraṇmayaṃ ‖*) (Bṛ. De. 3-103)
+Indra, pleased by the praises beginning शश्वत् (*śaśvat*) (1-3-16), satisfied in his own mind, gave to Śunaḥśepa a divine, wholly golden chariot.**NOTE**
+कस्य पंचोनाजीगर्तिः शुनःशेफः स कृत्रिमो वैश्वामित्रो देवरातः । (*kasya paṃconājīgartiḥ śunaḥśephaḥ sa kṛtrimo vaiśvāmitro devarātaḥ |*) (Sarvānukramaṇī.)
+The Sarvānukramaṇī says that Śunaḥśepa, who was Ajīgarta's son, afterwards became the son of Viśvāmitra.**NOTE**
+The same story is recited in the Itihāsas and Purāṇas with some difference. In the Rāmāyaṇa Śunaḥśepa is said to be the son of Ṛcīka; instead of Hariścandra there is the emperor Ambarīṣa. In the Mahābhārata Śunaḥśepa is a son of Ṛcīka, but there is no Ambarīṣa; Hariścandra is the king. In the Purāṇas the setting is described in two ways: the Bhāgavata and the Devībhāgavata follow the Aitareya Brāhmaṇa story, and the Vedāntara (?) follows the Rāmāyaṇa story.**NOTE**
+Thus three lines are seen in this narrative: 1. Aitareya Brāhmaṇa, 2. Rāmāyaṇa, 3. Mahābhārata; in them the main part of the story is one, with slight differences in the account.
+In the present case the point to be understood is whether the mention of Śunaḥśepa in the Ṛksaṃhitā, and the mantras composed and recited by him, fully underlie the narrative given in the Aitareya Brāhmaṇa, or whether some main episodes told in the Aitareya Brāhmaṇa were imagined later. Then it must be examined whether this narrative supports the view that human sacrifice was practised in the Vedic age.
+In the Aitareya Brāhmaṇa three points chiefly deserve notice: 1. The agreement between Hariścandra and Varuṇa, as a result of which Hariścandra got a son named Rohita. 2. The episode of Ajīgarta and Śunaḥśepa. 3. The dialogue between Viśvāmitra and his sons, and Viśvāmitra's accepting Śunaḥśepa as his son.
+
+### Printed p. 760
+Hariścandra, Rohita, Ajīgarta and, in this setting, Viśvāmitra's entry — none of these is described in the Ṛksaṃhitā. For that reason English scholars such as Roth hold that the Ṛksaṃhitā is not the basis of this full story, and that the 100 mantras mentioned above were incorporated, as fitting that occasion, into the story imagined in the Brāhmaṇa in support of it. According to their view, the seer Śunaḥśepa, caught in some calamity, prayed to deities such as Varuṇa, obtained their favour and was freed from bondage (Ṛ. Saṃ. 1-24-12; 1-24-13; 5-2-7). This is the basis in the Ṛksaṃhitā. The Brāhmaṇas and the rest developed this into the Hariścandra story, extending it until Śunaḥśepa is made a sacrificial victim, is then freed with Viśvāmitra's help and obtains sonship to him; this is the view of that opinion. The Ṛksaṃhitā has only the description of bondage; or, if it is said that because the word यूपात् (*yūpāt*) is used in the present mantra (5-2-7) a sacrificial victim must be understood — there is the qualifier सहस्रात् (*sahasrāt*).**NOTE**
+Therefore some hold that the word yūpa here should not be taken in its direct sense of a post to which the sacrificial animal is tied, but that the figurative yūpa-form may be taken to mean "bondage", and then the sense of a human victim does not arise. Sāyaṇa explains सहस्रात् (*sahasrāt*) as "of a thousand forms". A post for tying an animal is not of a thousand forms. Therefore, some hold, the figurative sense should be given: he was freed from bonds of many kinds.
+Even if it be said that yūpa gives the meaning "sacrificial post", it cannot be said from this one example alone that human sacrifice was current like the other sacrifices. Śunaḥśepa's binding was merely accidental; as a result of the agreement between Varuṇa and Hariścandra it ends in this binding. And the very events of this episode show a protest against human sacrifice. To cut down an animal bound to the sacrificial post, the help of the officiating priests is necessary. None of the priests belonging to that sacrificial place agrees to help in this base act. The shamitṛ appointed for that work also holds back. Only the father, base and greedy, comes forward for this work. It is also made clear by this that this is not the act of an Ārya but of a non-Ārya. The notion that all Brāhmaṇas are Āryas is not in the Ṛksaṃhitā either; and, as shown earlier in many places in the Ṛksaṃhitā texts, all those without Vedic rites are described together as non-Āryas. The name of Śunaḥśepa's father and the names of his brothers confirm this. Ajīgarta means one who has nothing to swallow, that is, extremely poor. Names such as Śunaḥpuccha also show his baseness. But mere poverty is not non-Āryahood; his other dealings also show his baseness. And when the shamitṛs appointed to cut the sacrificial victim do not agree to this act, this base father to this act
+
 ---
 
-**Progress note:** Done through printed p. 754. pp. 749-754 (batch API)
+**Progress note:** Done through printed p. 760. pp. 755-760 (batch API)
