@@ -7544,6 +7544,227 @@ Sāyaṇa addresses the Kuśikas: "O विप्रा (*viprā*), wise ones; O
 - मधु (*madhu*)—sweet
 - वि पिबध्वं (*vi pibadhvaṃ*)—drink the juice
 
+### Printed p. 199
+#### Ṛk 10
+
+##### भावार्थ (Bhāvārtha)
+
+O wise ones, seers of what lies beyond the senses, you who have the human priests as your eyes, you of the Kuśika lineage, great sages! When Soma has been pressed with the pressing-stones at the sacrifice, delight the gods with words in the form of praise. As swans make a pleasing sound, so you too recite the praise that takes the form of a śastra. Together with the gods, drink the juice that is of the nature of Soma and full of sweetness.
+
+##### English translation (H. H. Wilson)
+Sages and saints, overlookers of the leaders (of sacred rites), Kushikas, when the Soma is expressed with stones at the sacrifice, then exhilarating (the gods) with praise, sing the holy strain (aloud) like (screaming) swans, and, together with the gods, drink the sweet juice of the Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+विप्राः—मेधाविनः (*viprāḥ—medhāvinaḥ*). The word vipra is read among the names for "wise" (Ni. 3-19). It means an intelligent, discerning person. The Nirukta commentators explain: विविधानर्थानस्य प्राप्तुं धातीति विप्राः (*vividhānarthānasya prāptuṃ dhātīti viprāḥ*).
+
+श्लोकं (*ślokaṃ*)—श्लोक्यते शस्यतेऽनेनेति श्लोकः शस्त्रं (*ślokyate śasyate 'neneti ślokaḥ śastraṃ*). Because it is well recited, śloka means the recitation of a mantra. Here the meaning stated is the recitation of śastra mantras.
+
+हंसा इव—यथा हंसाः सम्यक् शब्दं कुर्वंति तद्वत् (*haṃsā iva—yathā haṃsāḥ samyak śabdaṃ kurvaṃti tadvat*). As swans make a sweet, tinkling sound, so you priests should recite the śastra mantras with a sweet voice. Thus the example of swans is given.
+
+Kuśikā: Yāska, giving the explanation of the word Kuśika, says:
+कुशिकस्य सूनुः कुशिको राजा बभूव । क्रोशतेः शब्द कर्मणः । क्रंशतेर्वा स्यात् प्रकाशयतिकर्मणः साधुविक्रोशयितार्थानामिति वा ॥ (*kuśikasya sūnuḥ kuśiko rājā babhūva | krośateḥ śabda karmaṇaḥ | kraṃśatervā syāt prakāśayatikarmaṇaḥ sādhuvikrośayitārthānāmiti vā ‖*) (Ni. 9-25).
+That is: there was a king named Kuśika. He had a son, whose name too was Kuśika. How this name came to him: because he was always saying that one should do only what is good, the name Kuśika came to him, formed from the root krośati, meaning "to sound". Or, because he made good deeds and dharmas manifest, the word Kuśika, formed from the root kraṃśati, meaning "to make manifest", became this king's name;
+
+### Printed p. 200
+or, because he gave gifts to good and virtuous people, he got the name Kuśika. Thus the derivation of the word Kuśika is given.
+
+The king named Kuśika is traditionally held to be the original ancestor of the people known as Kuśikas. Viśvāmitra too belongs to this Kuśika line. The name of these Kuśikas is prominent especially in the third maṇḍala of the Ṛgveda: the name Kuśikāḥ is read in the Ṛks Ṛ. Saṃ. 3-26-1; 3-29-15; 3-30-20; 3-33-5; 3-42-9; 3-50-4; 3-53-9, 10. **NOTE** Their name is also indicated in the Śunaḥśepa story in the Aitareya Brāhmaṇa (Ai. Brā. 7-18; Sāṅkhyāyana Śrauta Sūtra 15-27) and in the Sāṅkhyāyana Śrauta Sūtra. These Kuśikas belonged to a family of priests; they are renowned chiefly as priests of the kings born in the Bharata clan. There are many proofs that they always praised Indra above all and took refuge in him. (Therefore in the Ṛk Ṛ. Saṃ. 1-10-11 Indra, who favours the Kuśikas, is called by the name Kauśika.) On this matter the commentator cites the account given in the Anukramaṇikā:
+कुशिकसौषीरथिरिंद्रतुल्यं पुत्रमिच्छन् ब्रह्मचर्यं चचार । तस्येंद्र एव (*kuśikasauṣīrathiriṃdratulyaṃ putramicchan brahmacaryaṃ cacāra | tasyeṃdra eva*) (Pu. Anu. 3-1). **NOTE**
+
+Skandasvāmin says on this matter:
+अत्र चेतिहासमाचक्षते । इषीरथपुत्रः कुशिको नामराजा पुत्रमिंद्रतुल्यं कामयमानो ब्रह्मचर्यं चचार । तस्य गाधी नामेंद्र एव स्वयं पुत्रो जात इति ॥ (*atra cetihāsamācakṣate | iṣīrathaputraḥ kuśiko nāmarājā putramiṃdratulyaṃ kāmayamāno brahmacaryaṃ cacāra | tasya gādhī nāmeṃdra eva svayaṃ putro jāta iti ‖*).
+
+Veṅkaṭamādhava says:
+पुत्रमिंद्रसममिच्छन् कुशिको ब्रह्मचर्यं चचार । तस्येंद्रः स्वयमेव पुत्रोऽभत् । सास्य कौशिकता ॥ (*putramiṃdrasamamicchan kuśiko brahmacaryaṃ cacāra | tasyeṃdraḥ svayameva putro 'bhat | sāsya kauśikatā ‖*).
+
+The main sense is this: formerly a king named Iṣīratha had a son named Kuśika. Desiring a son equal to Indra, he practised brahmacarya. Then Indra himself was born as his son under the name Gādhi. The seer Viśvāmitra is the son of King Gādhi and the seer of the third maṇḍala. Therefore the Kuśikas have a close relation with Viśvāmitra, and there is a reason why the Kuśikas worship Indra in particular.
+
+### Printed p. 201
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॒ प्रेत॑ कुशिकाश्च॒तय॑ध्व॒मश्वं॑ रा॒ये प्र मुं॑चता  ॒॑
+> सुदासः ।  
+> राजा॑ वृ॒त्रं जं॑घन॒त्पागपा॒गुद॒गथा॑ यजाते॒ वर॒ आ  ॒॑
+> पृथिव्याः ॥ ११ ॥
+
+> *upa preta kuśikāścatayadhvamaśvaṃ rāye pra muṃcatā*  
+> *sudāsaḥ |*  
+> *rājā vṛtraṃ jaṃghanatpāgapāgudagathā yajāte vara ā*  
+> *pṛthivyāḥ ‖ 11 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । प्र । इत । कुशिकाः । चेतयध्वं । अश्वं । राये । प्र । मुंचत । सुदासः ।  
+> राजा । वृत्रं । जंघनत् । प्रात् । अपाक् । उदक् । अथ । यजाते । वरे । आ ।  
+> पृथिव्याः । ११ ॥
+
+> *upa | pra | ita | kuśikāḥ | cetayadhvaṃ | aśvaṃ | rāye | pra | muṃcata | sudāsaḥ |*  
+> *rājā | vṛtraṃ | jaṃghanat | prāt | apāk | udak | atha | yajāte | vare | ā |*  
+> *pṛthivyāḥ | 11 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कुशिकाः कुशिकगोत्रोत्पन्ना हे पुत्रा उप प्रेत । अश्वस्य समीपे प्रकर्षण गच्छत । तत्र गत्वा चेतयध्वं । सावधाना भवत । यद्वा । आश्वरक्षिणः सावधानान् कुरुत । सुदासः पैजवनस्य राज्योऽश्वं राये तस्य दिग्विजयेन धनलाभाय
+> प्र मुंचत । राजा देवानां स्वामींद्रो वृत्रं कर्मविघ्नकारिणमसुरं प्रागपागुदक् पूर्वपश्चिमोत्तरेषु देशेषु जंघनत् । भृशं हतवान् । तस्मादश्वं विमुंचतेति भावः । आधानंतरं पृथिव्या वर उत्तमे देवयजनदेशे यजाते । स राजा
+> यजीत ॥ चेतयध्वं । चिती संज्ञान इत्यस्य ण्यंतस्य लोटि रूपं । आमंत्रितस्याविद्यमानवत्तेन तिजि उत्तरत्वान्न निघातः । जंघनत् । हन हिंसागत्योरित्यस्य यज्लुकि नुगतोऽनुनासिकांतस्येत्यभ्यासस्य नुगागमः । तदंताल्लेट्यडागमः । प्राक् ।
+> अंचतेः क्विनि रूपं । अनिगंतोऽंचतावप्रत्यय इति गतेः स्वरः । यजाते । यजतेर्लॆट्प्याडागमः । निघातः । वरे । वृञ् वरण इत्यस्मात् ग्रहवृदृनिश्चिगमश्चेत्यप्पत्ययः । तस्य पित्त्वादनुदात्तत्वे धातुस्वरः ॥
+
+##### Gist of the bhāṣya
+
+"O Kuśikas, sons born in the Kuśika lineage, go forward to the horse", that is, approach the horse. Having gone there, "attend", that is, be watchful. Or else: make the horse-guards watchful. "Release the horse of Sudās Paijavana, the king, for wealth", that is, for gaining wealth by his conquest of the quarters. "The king", Indra, lord of the gods, has struck Vṛtra, the demon who obstructs rites, in the eastern, western and northern regions, that is, has smitten him heavily. Therefore release the horse: this is the sense. Afterwards "in the best of the earth", in the excellent place for the sacrifice to the gods, "he shall sacrifice": that king should sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कुशिकाः (*kuśikāḥ*)—O sages born in the Kuśika line
+- उप प्रेत (*upa preta*)—approach (the horse) and walk
+- चेतयध्वं (*cetayadhvaṃ*)—be watchful; or make the horse-guards watchful
+- राजा (*rājā*)—Indra, lord of all the gods
+- वृत्रं (*vṛtraṃ*)—the demon Vṛtra (who causes obstacles to the sacrificial rite)
+
+### Printed p. 202
+- प्राक् (*prāk*)—in the east
+- अपाक् (*apāk*)—in the west
+- उदक् (*udak*)—in the north
+- जंघनत् (*jaṃghanat*)—has destroyed (therefore)
+- सुदासः (*sudāsaḥ*)—of the king named Sudās
+- अश्वं (*aśvaṃ*)—the horse
+- राये (*rāye*)—for the gaining of wealth
+- प्र मुंचत (*pra muṃcata*)—loosen and release
+- अथ (*atha*)—afterwards
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- वरे (*vare*)—in an excellent region
+- यजाते (*yajāte*)—perform the sacrifice (fearlessly)
+
+##### भावार्थ (Bhāvārtha)
+
+O sages of the Kuśika line, go to the horse and make the horse-guards watchful. Indra, lord of all the gods, has destroyed the demon Vṛtra, who obstructs the sacrificial rite, in all directions beginning with the east. Therefore, without the least fear, release the horse of King Sudās for the gaining of wealth. Afterwards perform the sacrifice fearlessly in an excellent region of the earth.
+
+##### English translation (H. H. Wilson)
+Approach, Kushikas, the steed of Sudas ; animate (him), and let him loose to (win) riches (for the raja); for the king (of the gods) has slain Vritra in the East, in the West, in the North, therefore let (Sudas) worship him in the best (regions) of the earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk describes how King Sudās performed the Aśvamedha sacrifice with the help of Viśvāmitra.
+
+कुशिकाः उप प्र इत चेतयद्वं (*kuśikāḥ upa pra ita cetayadvaṃ*)—कुशिकगोत्रोत्पन्ना पुत्रा अश्वस्य समीपे गच्छत। गत्वा च सावधाना भवत। अश्वरक्षिणः सावधानान् कुरुतः (*kuśikagotrotpannā putrā aśvasya samīpe gacchata| gatvā ca sāvadhānā bhavata| aśvarakṣiṇaḥ sāvadhānān kurutaḥ*). The seer Viśvāmitra addresses his sons and kinsmen born in the Kuśika line, speaking thus: O sons and others of the Kuśika line, hear what I say. In this Aśvamedha sacrifice that King Sudās is performing, go near the sacrificial horse, remain there attentively, and help to guard it.
+
+सुदासः अश्वं राये प्र मुंचत (*sudāsaḥ aśvaṃ rāye pra muṃcata*)—In the sacrifice (or the expedition of conquest) of Sudās, undertaken for the gain of wealth, release the sacrificial horse to wander. **NOTE** Here an explanation of "release the sacrificial horse to wander" is necessary. The sacrifice called Aśvamedha is one that only kings of the kṣatriya class perform. Much wealth is needed to perform this sacrifice. Therefore the king who sacrifices takes the initiation for the sacrifice, honours the sacrificial horse with the prescribed worship and the rest,
+
+### Printed p. 203
+and lets it wander freely for a period of one year. Following the horse, the king's men set out with an army, conquer the kings of whatever countries the horse goes to, collect tribute from them, and after one year return and join their own country. Until then the king keeps to observances such as brahmacarya, and after the horse has come back he performs the sacrifice: this is the custom. This very matter is indicated here by the sentence "release the horse for wealth", that is, release the horse for earning wealth. It is also a description of the conquest of the quarters undertaken for the gaining of wealth by the king named Sudās, son of Pijavana. **NOTE** The meaning of the latter half of this Ṛk is clear.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इ॒मे रोद॑सी उ॒भे अ॒हमिंद्र॒मतु॑ष्टवं ।  
+> वि॒श्वामि॑त्रस्य रक्षति॒ ब्रह्म॒दं भार॑तं॒ जनं॑ ॥ १२ ॥
+
+> *ya ime rodasī ubhe ahamiṃdramatuṣṭavaṃ |*  
+> *viśvāmitrasya rakṣati brahmadaṃ bhārataṃ janaṃ ‖ 12 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इमे इति । रोदसी इति । उभे इति । अहं । इंद्रं । अतुस्तवं ।  
+> विश्वामित्रस्य । रक्षति । ब्रह्म । इदं । भारतं । जनं ॥ १२ ॥
+
+> *yaḥ | ime iti | rodasī iti | ubhe iti | ahaṃ | iṃdraṃ | atustavaṃ |*  
+> *viśvāmitrasya | rakṣati | brahma | idaṃ | bhārataṃ | janaṃ ‖ 12 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कुशिकाः कुशिकपुत्रा योऽहं विश्वामित्र उभे इमे रोदसी द्यावापृथिव्याविंद्रमतुष्टवं स्तावयामि । द्यावापृथिवीभ्यामिंद्रस्य स्तोत्रं मया कारितमित्यर्थः । यद्वा । उभयो रोदस्कोरंतरवस्थितमिंद्रं स्तौमि । स्तोत्रं कुर्वाणस्य विश्वामित्रस्य ममेदमिंद्रविषयं ब्रह्म स्तोत्रं भारतं भरतकुलं जनं रक्षति ।
+> पालयति ॥ अतुष्टवं । ष्टुञ् स्तुत् । ण्यंतस्य लुजं चजं रूपं । यद्वृत्तयोगादनिघातः । भारतं । भरतशब्द उत्सादिः । इांत्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Kuśikas, sons of Kuśika: I, Viśvāmitra, "have praised Indra" through "these two, heaven and earth", that is, I have caused praise: the praise of Indra has been made by me through heaven and earth. Or else: I praise Indra, who stands between the two worlds. This hymn of mine, of Viśvāmitra who is offering praise, concerning Indra, protects, guards, the people of the Bharata family.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः अहं (*yaḥ ahaṃ*)—I, who am renowned as Viśvāmitra
+- उभे इमे रोदसी (*ubhe ime rodasī*)—pervading between these two, heaven and earth
+- इंद्रं (*iṃdraṃ*)—Indra
+- अतुष्टवं (*atuṣṭavaṃ*)—I praise
+- विश्वामित्रस्य (*viśvāmitrasya*)—of me, such a praiser
+- इदं ब्रह्म (*idaṃ brahma*)—this praise concerning Indra
+- भारतं जनं (*bhārataṃ janaṃ*)—all the people of the Bharata family
+- रक्षति (*rakṣati*)—protects
+
+### Printed p. 204
+
+##### भावार्थ (Bhāvārtha)
+
+I, who am renowned as Viśvāmitra, praise Indra, who pervades between these two, heaven and earth. This praise of Indra, by me who offer such praise, protects all the people of the Bharata family.
+
+##### English translation (H. H. Wilson)
+I have made Indra glorified by these two, heaven and earth, and this prayer of Vishwamitra protects the race of Bharata.
+
+##### विशेषविषयगळु (Special Topics)
+
+भारतं जनं (*bhārataṃ janaṃ*)—The people called Bharata were a very important people in the Ṛgveda period. From many Ṛks it is known that Viśvāmitra too was born in this people. In the Ṛks Ṛ. Saṃ. 3-33-11 and 12, when the seer Viśvāmitra praises the rivers Pipāṭ and Śutudrī, **NOTE** in the Ṛks
+यदंग त्वा भरताः संतरेयुर्गव्यन्ग्राम इषित इंद्रजूतः । (*yadaṃga tvā bharatāḥ saṃtareyurgavyangrāma iṣita iṃdrajūtaḥ |*) (Ṛ. Saṃ. 3.33-1) **NOTE**
+अतारिषुर्भरता गव्यवः समभक्त विप्रः सुमतिं नदीनां । (*atāriṣurbharatā gavyavaḥ samabhakta vipraḥ sumatiṃ nadīnāṃ |*) (Ṛ. Saṃ. 3-33-12)
+he prays that the rivers should lessen their water so that his own people, the Bharata people, may be able to cross those rivers. Just as the seer Viśvāmitra is related to the Bharata people, the name of the seer Vasiṣṭha **NOTE** is also seen mentioned here and there along with theirs. The original ancestor of this Bharata people was Bharata himself. It is said in other Vedas too that he was a very renowned king:
+महते क्षत्राय महत अभसत्याय महते जानराज्यैषवो भरता राजा । (*mahate kṣatrāya mahata abhasatyāya mahate jānarājyaiṣavo bharatā rājā |*) (Tai. Saṃ. 1-8-10-2)
+as is said in the Taittirīya Saṃhitā. This Bharata's name is also indicated in the Śunaḥśepa story in the Aitareya Brāhmaṇa. The matter of this Bharata and the Bharata people will be explained in detail later.
+
+### Printed p. 205
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒श्वामि॑त्राअरासत॒ ब्रह्मेंद्रा॑य व॒ज्रणे॑ ।  
+> कर॒दिन्नः॑ सु॒राध॑सः ॥ १३ ॥
+
+> *viśvāmitrāarāsata brahmeṃdrāya vajraṇe |*  
+> *karadinnaḥ surādhasaḥ ‖ 13 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वामित्राः । अरासत । ब्रह्म । इंद्राय । वज्रिणे ।  
+> करत् । इत् । नः । सुराधसः ॥ १३ ॥
+
+> *viśvāmitrāḥ | arāsata | brahma | iṃdrāya | vajriṇe |*  
+> *karat | it | naḥ | surādhasaḥ ‖ 13 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वामित्रा वज्रिणे वज्रहस्तायेंद्राय ब्रह्म स्तोत्रमरासत । अकुर्वन् ।
+> स्तुतः स इंद्रो नोऽस्मान् सुराधसः शोभनधनोपेतान् करदित् । करोत्वेव ॥
+> अरासत । रास्प शब्द इत्यस्य लजि बहुलं छंदसीति शपो लुक् । निघातः । करत् ।
+> करोतेर्लुजि चेः कृमृद्यरुहिभ्यश्चंदसीत्यजादेशः । सुराधसः । आद्युदात्तं
+> द्व्यंचदसीत्युत्तरपदाद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+The Viśvāmitras made a hymn (brahma, praise) for Indra, the vajra-holder, the one who has the thunderbolt in his hand. Being praised, may that Indra make us "possessed of fair wealth", that is, endowed with good riches: करदित् (*karadit*), let him indeed do it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वामित्राः (*viśvāmitrāḥ*)—the kinsmen of Viśvāmitra
+- वज्रिणे (*vajriṇe*)—who holds the thunderbolt weapon
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- ब्रह्म (*brahma*)—the praise
+- अरासत (*arāsata*)—have composed (Indra, thus praised)
+- नः (*naḥ*)—us
+- सुराधसः (*surādhasaḥ*)—as possessors of excellent wealth
+- करदित् (*karadit*)—let him certainly make
+
+##### भावार्थ (Bhāvārtha)
+
+The kinsmen of Viśvāmitra have composed praise addressed to Indra, who holds the thunderbolt weapon. May Indra, thus praised, make us possessors of excellent wealth.
+
+##### English translation (H. H. Wilson)
+The Vishwamitras have addressd the prayer to Indra, the wielder of the thunderbolt ; may he therefore render us very opulent.
+
+##### विशेषविषयगळु (Special Topics)
+
+विश्वामित्राः (*viśvāmitrāḥ*)—Here the plural form Viśvāmitrāḥ is used to indicate Viśvāmitra and his sons, other relatives, those born in the Kuśika line, and others.
+
 ---
 
-**Progress note:** Done through printed p. 198. pp. 193-198 (batch API, retry 1)
+**Progress note:** Done through printed p. 205. pp. 199-205 (batch API)
