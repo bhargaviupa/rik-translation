@@ -6691,6 +6691,237 @@ Indra and Parvata, bring hither, in a spacious car, delightful viands (generativ
 That is, Indra is the well-known deity; Parvata is the deity Parjanya, presiding over rain, who fills the earth with rain and the like. Bhaṭṭa Bhāskara says that the word parvata also means year (पर्वतःसंवत्सरः (*parvataḥsaṃvatsaraḥ*)). Whatever meaning is given to parvata, it is clear that here the word is a synonym for a deity to be worshipped. The word is also used as a synonym of enemy: since parvata is listed among the names of clouds (Ni. 2-21), in many places it is said that Indra caused rain by splitting the parvata; therefore an inquiry into the use of this word is proper.
 The word parvata is used most in hymns to Indra and the Maruts. Its common meaning is mountain, but it is customary as a synonym of cloud. The Nirukta says: पर्ववान् पर्वतः । पर्व पुनः पृणातेः प्रीणातीर्वा मेघोऽपि गिरिरेतस्मादेव ! (*parvavān parvataḥ | parva punaḥ pṛṇāteḥ prīṇātīrvā megho 'pi giriretasmādeva !*) (Ni. 1-20). Showing that the word parva derives either from the root pṛ "to fill" or from the root prī "to worship, to satisfy", it explains parvata as mountain or cloud. The etymology gives the sense of filling a barren region, or of satisfying beings (with rain and the like). One must notice which parvata is the obstructing one and which the beneficial one.
 
+### Printed p. 174
+In general, Indra's fight with the Asuras and with the mountains may be called a fight between darkness and light.
+In the Ṛk वि चिद्वृतस्य दोधतो वज्रेण शतपर्वणा । शिरो बिभेद वृष्टिना ॥ (*vi cidvṛtasya dodhato vajreṇa śataparvaṇā | śiro bibheda vṛṣṭinā ‖*) (Ṛ. Saṃ. 8-6-6), the sense is that with the thunderbolt whose joints (parvas) are a hundred in number and are of the nature of rays, he destroyed the Asura who is of the nature of darkness and who is a coverer. From such examples it can be said that, just as words like Vṛtra show the embodied form of the darkness that covers the world, so the word *parvata* also denotes darkness in the form of a mountain. Moreover, if one simply gives the ordinary meaning "hill" or "cloud", it does not yield the full sense that suits the contexts. For four kinds of achievement are described: releasing the cows and the waters that had been hidden away by the slaying of the *parvata*, and causing Uṣas and Sūrya to become manifest. Therefore, if the word *parvata* is explained only as "cloud", it does not suit the contexts.
+In the Ṛk आदर्दरुत्समसृजो वि खानि त्वमर्णवान्बद्बधाना अरम्णाः । महांतमिंद्र पर्वतं वि यद्वः सृजो वि धारा अव दानवं हन् । (*ādardarutsamasṛjo vi khāni tvamarṇavānbadbadhānā aramṇāḥ | mahāṃtamiṃdra parvataṃ vi yadvaḥ sṛjo vi dhārā ava dānavaṃ han |*) (Ṛ. Saṃ. 5-32-1), and in the Brāhmaṇa sentence शिशुं नदीनां हरिमद्रिबुध्नमिति गिरिर्वा अद्रिर्गिरिबुध्ना ॥ (*śiśuṃ nadīnāṃ harimadribudhnamiti girirvā adrirgiribudhnā ‖*) (Śa. Brā. 7-5-2-18), it is understood that the words *parvata* and *megha* have an exalted, supernatural meaning. This is described as a mass of darkness in the form of a mountain, situated in the heavenly world, which hides the waters and the cow. Having split this darkness, Indra and the Maruts cause the water and the light to spread.
+In Ṛks such as अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष । (*ahannahiṃ parvate śiśriyāṇaṃ tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa |*) (Ṛ. Saṃ. 1-32-2) it is said that Indra, who destroys Asuras such as Ahi, Śañjara **NOTE** and Vṛtra, who hide in this mass of darkness in the form of a mountain and obstruct the flowing water, is worthy of praise. In the same way, in many places the word *parvata* is described as a synonym of the enemy or as the enemies' refuge. Therefore in Ṛks such as आरंस्त पर्वतश्चित्सरिष्यन् (*āraṃsta parvataścitsariṣyan*) (Ṛ. Saṃ. 2-11-7) and शुष्माचिदस्य पर्वता भयंते (*śuṣmācidasya parvatā bhayaṃte*) (Ṛ. Saṃ. 2-12-13), it is said that as soon as Indra, who is of the nature of light, appeared, the masses of darkness in the form of mountains trembled with fear, and that Indra hid them away in the nether world—
+
+### Printed p. 175
+Contrary to these descriptions, in many places it is also said that the *parvata* is the thunderbolt, which is of the nature of light, and Parjanya, the presiding deity of rain, water and the like.
+In Ṛks such as प्राक्तादपाक्तादधरादुदक्तादभि जहि रक्षसः पर्वतेन (*prāktādapāktādadharādudaktādabhi jahi rakṣasaḥ parvatena*) (Ṛ. Saṃ. 7-104-19) and अस्मे रुद्रा मेहना पर्वतासो वृत्रहत्ये भरहूता सजोषाः । (*asme rudrā mehanā parvatāso vṛtrahatye bharahūtā sajoṣāḥ |*) (Ṛ. Saṃ. 8-63-12), the mountains are instruments that help Indra in the work of destroying enemies.
+In Ṛks such as प्र पूषणं विष्णुमग्निं पुरंधिं सवितारमोषधीः पर्वतांश्च । (*pra pūṣaṇaṃ viṣṇumagniṃ puraṃdhiṃ savitāramoṣadhīḥ parvatāṃśca |*) (Ṛ. Saṃ. 6-21-9) and शं नः पर्वता ध्रुवयो भवंतु शं नः सिंधवः शमु सन्त्वापः । (*śaṃ naḥ parvatā dhruvayo bhavaṃtu śaṃ naḥ siṃdhavaḥ śamu santvāpaḥ |*) (Ṛ. Saṃ. 7-25-8), the *parvata* is invoked together with deities such as Mitra, Varuṇa and Pūṣan.
+In the places युवं तमिंद्रापर्वता पुरोयधा यो नः पृतन्यादप तंतमुद्धतं वज्रेण तंतमुद्धतं । (*yuvaṃ tamiṃdrāparvatā puroyadhā yo naḥ pṛtanyādapa taṃtamuddhataṃ vajreṇa taṃtamuddhataṃ |*) (Ṛ. Saṃ. 1-132-6) and इंद्रापर्वता बृहता रथेन वामीरिष आ वहतं सुवीराः । (*iṃdrāparvatā bṛhatā rathena vāmīriṣa ā vahataṃ suvīrāḥ |*) (Ṛ. Saṃ. 3-53-1), and in the present Ṛk as well, Indra and the *parvata* are invoked and praised together. Sāyaṇa has said that here *parvata* means Parjanya. Here the *parvata* is a deity to be worshipped **NOTE**
+वामीः सुवीराः इषः (*vāmīḥ suvīrāḥ iṣaḥ*)—the word *iṣa* is read among the names of food (Ni. 3-9). Here the words *vāmīḥ* and *suvīrāḥ* are qualifiers of the word *iṣaḥ*. The meaning is: bring food together with sons who are to be obtained and who are heroes; that is, "bring the heroic sons and the food that may come to us through your grace."
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तिष्ठा॒ सु कं॑ मघव॒न्मा परा॑ गाः॒ सोम॑स्य॒ नु त्वा॒ सुषु॑तस्य  
+> यक्षि ।  
+> पि॒तुर्न पु॒त्रः सिच॒मा र॑भे त॒ इंद्र॒ स्वादि॑ष्टया गि॒रा श॑चीवः ॥
+
+> *tiṣṭhā su kaṃ maghavanmā parā gāḥ somasya nu tvā suṣutasya*  
+> *yakṣi |*  
+> *piturna putraḥ sicamā rabhe ta iṃdra svādiṣṭayā girā śacīvaḥ ‖*
+
+### Printed p. 176
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिष्ठ । सु । कं । मघवन् । मा । परा । गाः । सोमस्य । नु । त्वा । सुसुतस्य ।  
+> यक्षि ।  
+> पितुः । नः । पुत्रः । सिचं । आ । रभे । ते । इंद्र । स्वादिष्टया । गिरा । शचीवः ॥ २ ॥
+
+> *tiṣṭha | su | kaṃ | maghavan | mā | parā | gāḥ | somasya | nu | tvā | susutasya |*  
+> *yakṣi |*  
+> *pituḥ | naḥ | putraḥ | sicaṃ | ā | rabhe | te | iṃdra | svādiṣṭayā | girā | śacīvaḥ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहर्गणेष्वंत्यवर्जितेष्वहःसु हारियोजनस्य तिष्ठा सु कमित्यनुवाक्य ।
+> सूत्रितं च। तिष्ठा सु कं मघवन्मा परा गा आयं यज्ञो देवया अयं मियेधः
+> । आ. ६-११ । इति ॥
+> हे मघवन्मनवन्निंद्र कं सुखेनास्मिन्यज्ञे सु तिष्ठ । सुष्टु कंचित्कालमत
+> तिष्ठ । मा परा गाः । अस्मदीयाद्यज्ञाना गच्छ ॥ तत्र कारणमाह । सुषुतस्य सुष्ठभिषुतेन सोमस्य सोमेन नु क्षिप्रं त्वां यक्षि । यजे । हे शचीवः शक्तिमन्निंद्र
+> ते तव सिचं वस्त्रप्रांतं स्वादिष्टया स्वादुतरया स्तुतिलक्षणया गिरा आ रभे । अलभे!
+> गृह्णामीत्यर्थः । तत्र दृष्टांतः । पितुर्न । यथा पुत्रो मधुरया वाचा पितुर्जनकस्य चेलांचलं गृह्णाति तद्वत् ॥ सु कमिति निपातद्वयं । प्रथमस्य निपाता आद्युदात्ता इत्याद्युदात्तत्वं । द्वितीयस्य चादयोऽनुदात्ता इत्यनुदात्तत्वं । सोमस्य
+> यक्षि । यज देवपूजासंगतिकरणदानेषु । स्वरितञ्चित इत्यात्मनेपदं । तस्य ल:जि
+> सिचेकाच इतीट् प्रतिषेधः । व्रश्चादिना षत्वं । षढोः कः सीति कत्वं । सिचः सकारस्य
+> षत्वं । निघातः । रभे । डुलभष् प्राप्तौ । लट्युत्तम इट रूपं । रलयोरभेदः ।
+> निघातः । स्वादिष्टया । स्वादुशब्दादिष्ठनि रूपं । नित्त्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+The anuvākya "tiṣṭhā su kam" is employed in the Hāriyojana rite on the days of the ahargaṇas other than the last. It is also given in the sūtra (Ā. 6-11), which quotes the verse together with the formula beginning "ayaṃ yajño devayā". "O Maghavan, Indra, the wealthy one, stay happily (*kam*) in this sacrifice; stay well here for some time; do not go away from our sacrifice." He gives the reason: "I worship you quickly with the well-pressed Soma." "O Śacīvan, mighty Indra, I take hold of the hem (*sica*) of your garment, the edge of your cloth, with a sweeter (*svādiṣṭha*) speech in the form of praise." The example is "as a father's...": as a son with sweet speech takes hold of the hem of the cloth of his father, the begetter, so (I take hold of yours). The rest is grammar: *su* and *kam* are two particles, the first accented on the first syllable and the second unaccented; the derivations of *yakṣi*, *rabhe* and *svādiṣṭayā* follow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—Indra, the wealthy one
+- कं (*kaṃ*)—happily
+- सु तिष्ठ (*su tiṣṭha*)—stay in this very sacrificial place
+- मा पर्यागाः (*mā paryāgāḥ*)—do not go elsewhere from this place (because)
+- सुषुतस्य (*suṣutasya*)—well pressed
+- सोमस्य (*somasya*)—with Soma
+- नु (*nu*)—quickly
+- त्वा (*tvā*)—you
+- यक्षि (*yakṣi*)—I worship
+- शचीवः (*śacīvaḥ*)—mighty
+- इंद्र (*iṃdra*)—Indra
+- पुत्रः (*putraḥ*)—a son
+- पितुः न (*pituḥ na*)—as (a son), taking hold of the hem of his father's garment, speaks to him (with sweet speech)
+- ते (*te*)—your
+- सिचं (*sicaṃ*)—the hem of the garment
+- स्वादिष्टया (*svādiṣṭayā*)—most heart-pleasing
+- गिरा (*girā*)—with speech in the form of praise
+- आ रभे (*ā rabhe*)—I keep hold
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, stay happily in this very sacrificial place. I shall worship you quickly with well-pressed Soma; therefore do not leave this place and go elsewhere.
+
+### Printed p. 177
+O mighty Indra, as a son holds the hem of his father's garment while speaking sweetly, so I too hold the hem of your garment with most heart-pleasing speech, and I praise you.
+
+##### English translation (H. H. Wilson)
+Tarry awhile contentedly, Maghavan, (at our rite): go not away ; for I offer to you (the libation) of the copiously-effused Soma : powerful Indra. I lay hold of the skirts (of your robe) with sweet flavoured commen- dations, as a son (clings to the garment) of a father.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day before the last day of the sacrifice called Ahargaṇa, in the rite called Hāriyojana, this Ṛk "tiṣṭhā su kam" is to be recited as the puro'nuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तिष्ठा सु कं मघवन्ना परा गा अयं यज्ञो देवया वयं मियेधः (*tiṣṭhā su kaṃ maghavannā parā gā ayaṃ yajño devayā vayaṃ miyedhaḥ*) (Ā. Sū. 6-11).
+शचिवः इंद्र पितुः न पुत्रः स्वादिष्टया गिरा ते ३ चं आ रभे (*śacivaḥ iṃdra pituḥ na putraḥ svādiṣṭayā girā te 3 caṃ ā rabhe*) **NOTE**—हे शक्तिमन्निंद्र तव वस्त्रप्रांतं यथा जनकस्य चेलांचलं पुत्रो मधुरया वाचा गृह्णाति तद्वत् स्वादुतरया स्तुतिलक्षणया गिरा तव वस्त्रप्रांतं आलभे । (*he śaktimanniṃdra tava vastraprāṃtaṃ yathā janakasya celāṃcalaṃ putro madhurayā vācā gṛhṇāti tadvat svādutarayā stutilakṣaṇayā girā tava vastraprāṃtaṃ ālabhe |*). Here the word *śacī* is read among the names of speech (Ni. 2-23), among the names of action (Ni. 3-1) and among the names of wisdom (Ni. 3-13). Here the commentator explains it as "strength" and interprets it as "Indra who has power". In the sentence quoted above, the seer describes with an illustration: "O Indra, as a son, when speaking with affection and respect to his father, keeps hold of the end of the garment his father wears, so I too, holding the end of your garment, will speak loving, sweet words."
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शंसा॑वाध्वयो॒ प्रति॑ मे गृणी॒हींद्रा॑य॒ वाहः॑ कृणवाव॒  ॑
+> जुष्टं ।  
+> एदं ब॒र्हियर्ज॑मानस्य सी॒दाथा॑ च भूदु॒क्थमिंद्रा॑य  ॒
+> शस्तं ॥ ३ ॥
+
+> *śaṃsāvādhvayo prati me gṛṇīhīṃdrāya vāhaḥ kṛṇavāva*  
+> *juṣṭaṃ |*  
+> *edaṃ barhiyarjamānasya sīdāthā ca bhūdukthamiṃdrāya*  
+> *śastaṃ ‖ 3 ‖*
+
+### Printed p. 178
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शंसाव । अध्वयो इति । प्रति । मे । गृणीहि । इंद्राय । वाहः । कृणवाव । जुष्टं  
+> आ । इदं । बर्हिः । यजमानस्य । सीद । अथ । च । भूत् । उक्तं । इंद्राय । शस्तं ॥
+
+> *śaṃsāva | adhvayo iti | prati | me | gṛṇīhi | iṃdrāya | vāhaḥ | kṛṇavāva | juṣṭaṃ*  
+> *ā | idaṃ | barhiḥ | yajamānasya | sīda | atha | ca | bhūt | uktaṃ | iṃdrāya | śastaṃ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शंसिष्यन् होताध्वर्युं ब्रूते । हे अध्वर्यो आवां शंसाव । होतस्त्वमेव शंससि । कथमहं शंसानि । आत आह । प्रति मे गृणीहीति । त्वं मे प्रतिगृणीहि ।
+> ओथामोदैवेत्यादिको होतुरुत्साहजननः प्रतिगरः । आ. ७-११ । तं दत्स्व । तथेंद्राय जुष्टं प्रीतियुक्तं वाहः स्तोत्रं कृणवाव । त्वं यजमानस्येदं बर्हिरस्मिन्बर्हिष्या सीद । उपनिश । अथ चानंतरमिंद्रायेंद्रार्थमावाभ्यां क्रियमाणमुक्थं शस्त्रं शस्तं प्रशस्तं भूत् । भवतु ॥ शंसाव । शन्नु स्तुतावित्यस्य लोट्युत्तमद्विवचने रूपं । आडुत्तमस्यॆत्याडागमः। उत्तमस्य पिद्वद्भावादनुदात्तत्वे धातुस्वरः
+> मे । अनुप्रतिगृणश्च । पा. १-४-४१ । इति संप्रदानसंज्ञा । जुष्टं । नित्यं मंत्र
+> इत्याद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+The hotā, about to recite, says to the adhvaryu: "O adhvaryu, let us two recite." The adhvaryu says: "Hotā, you alone recite; how shall I recite?" Thereupon the hotā says "prati me gṛṇīhi": "You respond to me." The pratigara that begins with "oṭhāmodaiva" and encourages the hotā is quoted from the sūtra (Ā. 7-11): "give it." Likewise, "let us two make a pleasing (*juṣṭa*), loving *vāhaḥ*, that is, a praise-hymn, for Indra. Sit on this sacred grass of the yajamāna; settle down here. And after that let the uktha, the śastra performed by us two for Indra, be *śasta*, that is, excellent." The remainder is grammar (the derivation of *śaṃsāva*, the designation *sampradāna* for *me* by Pā. 1-4-41, and the accent of *juṣṭam*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यो (*adhvaryo*)—O adhvaryu
+- शंसाव (*śaṃsāva*)—let us two praise (Indra)
+- प्रति मे गृणीहि (*prati me gṛṇīhi*)—you concur with me
+- इंद्राय (*iṃdrāya*)—addressing Indra
+- जुष्टं (*juṣṭaṃ*)—affectionate
+- वाहः (*vāhaḥ*)—a hymn of praise
+- कृणवाव (*kṛṇavāva*)—let us two compose
+- यजमानस्य (*yajamānasya*)—of the yajamāna
+- इदं बर्हिः (*idaṃ barhiḥ*)—on this seat of darbha grass
+- आ सीद (*ā sīda*)—sit down
+- अथ च (*atha ca*)—and after that
+- इंद्राय (*iṃdrāya*)—made for Indra
+- उक्तं (*uktaṃ*)—the recitation of the śastra mantras
+- शस्त्रं भूत् (*śastraṃ bhūt*)—may it be excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryu, let us two praise Indra. You concur with me. Let us compose an affectionate hymn of praise addressed to Indra. Sit on this darbha seat of the yajamāna. After that, may the recitation of the śastra mantras made for Indra be excellent.
+
+##### English translation (H. H. Wilson)
+Adhwaryu, let us two offer praise : do you concur with me : let us address pleasing praise to Indra : sit down, Indra, on the sacred grass (prepared by) the institutor of the rite : and may our commendations be most acceptable to Indra.
+
+### Printed p. 179
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the hotā addresses the priest called adhvaryu, and the seer describes him as saying: "Let us two, sitting on the darbha seat in this sacrifice performed by the yajamāna, praise Indra with excellent śastra mantras."
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जा॒येदस्तं॑ मघव॒न्तेदु॒ योनि॒स्तदित्वा॑ यु॒क्ता हर॑यो  
+> वहंतु ।  
+> य॒दा क॒दा च॑ सु॒नवा॑म॒ सोम॑म॒ग्निष्ट्वा॑ दू॒तो ध॑न्वा॒तृच्छ॑ ॥
+
+> *jāyedastaṃ maghavantedu yonistaditvā yuktā harayo*  
+> *vahaṃtu |*  
+> *yadā kadā ca sunavāma somamagniṣṭvā dūto dhanvātṛccha ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जाया । इत् । अस्तं । मघवन् । सा । इत् । ऊं इति । योनिः । तत् । इत् । त्वा ।  
+> युक्ताः । हरयः । वहंतु ।  
+> यदा । कदा । च । सुनवाम । सोमं । अग्निः । त्वा । दूतः । धन्वाति । अच्छ ॥ ४ ॥
+
+> *jāyā | it | astaṃ | maghavan | sā | it | ūṃ iti | yoniḥ | tat | it | tvā |*  
+> *yuktāḥ | harayaḥ | vahaṃtu |*  
+> *yadā | kadā | ca | sunavāma | somaṃ | agniḥ | tvā | dūtaḥ | dhanvāti | accha ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्दनवन्निंद्र अस्तं । अस्यंते क्षिप्यंते पदार्था अत्रेत्यस्तं गृहं ।
+> जायेज्जाय्तैव गृहं भवति । न गृहं गृहमित्याहुर्गृहिणी गृहमुच्यत इति
+> स्मृतेः । तथा सेत् सा जायैव योनिः पुरुषस्य मिश्रणस्थानं । उ प्रसिद्ध्यर्थः ।
+> तस्मात्तदित् तत्र गृह एव युक्ता रथे योजिता हरयोऽश्वास्त्वा त्वां वहंतु ।
+> वयं तु यदा कदा च त्वदर्थं सोमं सुनवाम अभिषुतं करवाम तदास्माभिः
+> प्रहितो दूतोऽग्निस्ता त्वामच्छाभिमुख्येन धन्वाति । गच्छेत् ॥ अस्तं। असु क्षेपणे ।
+> असिहसिमृग्रिण्वामित्यादिना तन्नत्ययः। नित्वादाद्युदात्तः । सुनवाम । षुञ् अभिषव
+> इत्यस्य लोटि रूपं । यद्वृत्तयोगादनिघातः । त्वा । युष्मत्तत्ततक्षुःस्वंतःपादमिति
+> संहितायां षत्वं । धन्वाति । धवि गत्यर्थः । लेट्याडागमे रूपं । निघातः ॥
+
+##### Gist of the bhāṣya
+
+"O Maghavan, wealthy Indra: *astam* is the house, because things are thrown (*asyante*) and placed there. Only the wife (*jāyā*) is the house," as the smṛti says: न गृहं गृहमित्याहुर्गृहिणी गृहमुच्यत (*na gṛhaṃ gṛhamityāhurgṛhiṇī gṛhamucyata*). Likewise, "she, indeed, is the *yoni* of a man, his place of mixing (*miśraṇasthāna*)"; *u* has the sense of "well known". "Therefore, in that very house, let the bay horses (*harayaḥ*) yoked to the chariot carry you. And whenever we press Soma for you, then Agni, the messenger sent by us, goes (*dhanvāti*) toward you, facing you." The remainder is grammar (the derivations of *astam*, *sunavāma*, *tvā* and *dhanvāti*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- जायेत् (*jāyet*)—the wife herself
+- अस्तं (*astaṃ*)—is the house (for a man)
+- सेत् (*set*)—she herself
+- योनिः (*yoniḥ*)—the place of origin (with him)
+- तदित् (*tadit*)—that very (sacrifice)
+
+### Printed p. 180
+- गृहक्कॆ (*gṛhakkè*)—to the house
+- युक्ताः (*yuktāḥ*)—yoked (to your) chariot
+- हरयः (*harayaḥ*)—horses
+- त्वा (*tvā*)—you
+- वहंतु (*vahaṃtu*)—let them bring
+- यदा कदा च (*yadā kadā ca*)—in whatever circumstances
+- सोमं (*somaṃ*)—Soma
+- सुनवाम (*sunavāma*)—we prepare (for you), (at those times)
+- दूतः (*dūtaḥ*)—the divine messenger
+- अग्निः (*agniḥ*)—Agni
+- त्वा (*tvā*)—to you
+- अच्छ (*accha*)—facing
+- धन्वति (*dhanvati*)—let him come
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, for a man the wife is the house. She herself is the place of origin. To that very sacrificial house, which for you is as a wife, let the horses yoked to your chariot bring you. Whenever we prepare Soma for you, at all those times let Agni, the divine messenger, come facing you.
+
+##### English translation (H. H. Wilson)
+A man's wife, Maghavan, is his dwelling ; verily she is his place of birth : thither let your horses, harnessed (to your car), convey you : we pre- pare the soma juice at the fit season : may Agni come as our messenger before you.
+
+##### विशेषविषयगळु (Special Topics)
+
+अस्तं (*astaṃ*)—अस्यंते क्षिप्यंते पदार्था अत्रेत्यस्तं गृहं । पदार्थगळु याव स्थळगळल्लि इडल्पडुत्तवॆयो आ स्थळक्कॆ गृहवु ऎंदरॆ अस्तं ऎंब शब्दक्कॆ मनॆयॆंदु भाष्यकाररु अर्थविवरणॆ माडिद्दारॆ. जाया इत्—जायैव गृहं (*asyaṃte kṣipyaṃte padārthā atretyastaṃ gṛhaṃ | padārthagaḷu yāva sthaḷagaḷalli iḍalpaḍuttavèyo ā sthaḷakkè gṛhavu èṃdarè astaṃ èṃba śabdakkè manèyèṃdu bhāṣyakāraru arthavivaraṇè māḍiddārè. jāyā it—jāyaiva gṛhaṃ*) is not used here; I give the sense only: the commentator has explained the word *astam* as "house": the place where things are put is called a house (*gṛha*).
+जाया इत् (*jāyā it*)—जायैव गृहं भवति (*jāyaiva gṛhaṃ bhavati*). *Jāyā* means the wife or the housewife. Explaining the word *gṛha* to mean that for a man his own wife, or the place where his wife is, is regarded as the house, he gives in support of it the smṛti sentence न गृहं गृहमित्याहुर्गृहिणी गृहमुच्यते (*na gṛhaṃ gṛhamityāhurgṛhiṇī gṛhamucyate*) as an example. *Gṛha* does not mean a house or building built for dwelling. For a householder his own wife, or the place where the wife is, is called the *gṛha*. The sense of this sentence is that a house without a wife is not called a house. Therefore it is indicated that the role of the wife in the householder's home is of the greatest importance.
+सा इत् योनिः उ (*sā it yoniḥ u*)—सा जायेव पुरुषस्य योनिः मिश्रणस्थानं (*sā jāyeva puruṣasya yoniḥ miśraṇasthānaṃ*). That wife is for the man the place of origin of pleasure and pain; "this is well known" means that a man obtains happiness only from his wife, and that in many circumstances, while carrying out household duties and so on, sorrow also arises. It is for this reason that the commentator has explained the word *yoni* as *miśraṇasthāna*, "a place together with happiness and sorrow". The sense is that this matter is well known, that is, known to everyone.
+
 ---
 
-**Progress note:** Done through printed p. 173. pp. 168-173 (batch API, retry 1)
+**Progress note:** Done through printed p. 180. pp. 174-180 (batch API, retry 1)
