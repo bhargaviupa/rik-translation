@@ -51,6 +51,9 @@ Sūkta—7. Maṇḍala—3. Anuvāka—1. Sūkta—7. Aṣṭaka—3. Adhyāya�
 > प्र य आ॒रुः शि॑तपृ॒ष्ठस्य॑ धा॒सेरा मा॒तरा॑ विविशुः स॒प्त वाणीः॑ ।
 > प॒रि॒क्षिता॑ पि॒तरा॒ सं च॑रेते॒ प्र स॑स्र्राते दी॒र्घमायुः॑ प्र॒यक्षे॑ ॥
 
+> *pra ya āruḥ śitapṛṣṭhasya dhāserā mātarā viviśuḥ sapta vāṇīḥ |*
+> *parikṣitā pitarā saṃ carete pra sasrrāte dīrghamāyuḥ prayakṣe ‖*
+
 **॥ पदपाठः ॥**
 
 > प्र । ये । आरुः । शित्तिपृष्ठस्य । धासेः । आ । मातरा । विवितुः । सप्त । वाणीः ।
@@ -387,6 +390,9 @@ Grammar page concluded, noted briefly: वर्तनिम् (*vartanim*) (ro
 > आ सी॑मरोहत्तु॒यमा॒ भवं॑तीः॒ पति॑श्विकि॒त्वा न्र॑यि॒विद्र॑यी॒णां ।
 > प्र नील॑पृष्ठो अत॒सस्य॑ धा॒सेस्ता अ॑वासयत्पुरु॒धप्र॑तीकः ॥ ३ ॥
 
+> *ā sīmarohattuyamā bhavaṃtīḥ patiśvikitvā nrayividrayīṇāṃ |*
+> *pra nīlapṛṣṭho atasasya dhāsestā avāsayatpurudhapratīkaḥ ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > आ । सीं । अरोहत् । सुयमाः : भवंतीः । पति: चिकित्सान् । रयिऽवित् ।
@@ -490,10 +496,17 @@ Grammar page concluded, noted briefly: अतसस्य (*atasasya*) (root *at
 > वहंति ।
 > व्यंगे॑भिर्दिद्युता॒नः स॒धस्थ॒ एका॑मिव॒ रोद॑सी॒ आ वि॑वेश - ॥ ४ ॥
 
+> *mahi tvāṣṭramūrjayaṃtīrajuryaṃ stabhūyamānaṃ vahato*
+> *vahaṃti |*
+> *vyaṃgebhirdidyutānaḥ sadhastha ekāmiva rodasī ā viveśa - ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > महि । त्वाष्टं । ऊर्जयंतीः । अजुर्यं । स्तभुयमानं । वहतः । वहंति ।
 > वि । अंगेभिः । दिद्युतानः । सधस्थे । एकांइव । रोदसी इति । आ । विवेश ॥ ४ ॥
+
+> *mahi | tvāṣṭaṃ | ūrjayaṃtīḥ | ajuryaṃ | stabhuyamānaṃ | vahataḥ | vahaṃti |*
+> *vi | aṃgebhiḥ | didyutānaḥ | sadhasthe | ekāṃiva | rodasī iti | ā | viveśa ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -586,10 +599,17 @@ Grammar page continued, noted briefly: स्तभूयमानम् (*stabh
 > दि॒वो॒रुच॑ सु॒रुचो॒ रोच॑माना॒ इळा॒ येषां॒ गण्या॒ माहि॑ना॒
 > गीः ॥ ५ ॥
 
+> *jānaṃti vṛṣṇo aruṣasya śevamuta bradhansya śāsane raṇaṃti |*
+> *divoruca suruco rocamānā iḷā yeṣāṃ gaṇyā māhinā*
+> *gīḥ ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > जानंति । वृष्णः । अरुषस्य । शेवं । उत । ब्रधन्स्य । शासने । रणंति ।
 > दिवरुचः । सुरुचः । रोचमानाः । इळा । येषां । गण्या । माहिना । गीः ॥५ ॥
+
+> *jānaṃti | vṛṣṇaḥ | aruṣasya | śevaṃ | uta | bradhansya | śāsane | raṇaṃti |*
+> *divarucaḥ | surucaḥ | rocamānāḥ | iḷā | yeṣāṃ | gaṇyā | māhinā | gīḥ ‖5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -688,6 +708,10 @@ Grammar page continued, noted briefly: रणंति (*raṇaṃti*) (root *ra
 > उ॒तो पि॒तभ्यां॑ प्र॒विदानु॒ घोषं॑ म॒हो म॒हद्भा॑मनयंत॒
 > शूषं ।
 > उ॒क्षा ह॒ यत्र॒ परि॒ धान॑म॒क्तोरनु॒ स्वं धाम॑ जरि॒तुर्व॒वक्ष॑ ॥ ६ ॥
+
+> *uto pitabhyāṃ pravidānu ghoṣaṃ maho mahadbhāmanayaṃta*
+> *śūṣaṃ |*
+> *ukṣā ha yatra pari dhānamaktoranu svaṃ dhāma jariturvavakṣa ‖ 6 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -795,12 +819,21 @@ Grammar page continued, noted briefly: प्रत्यय इत्ताद�
 > प्रांचो॑ मदंत्यु॒क्षणो॑ अजु॒र्या दे॒वा दे॒वाना॒मनु॒ हि व्र॒ता
 > गुः ॥ ७ ॥
 
+> *adhvaryubhiḥ paṃcabhiḥ sapta viprāḥ priyaṃ rakṣaṃte nihitaṃ padaṃ veḥ|*
+> *prāṃco madaṃtyukṣaṇo ajuryā devā devānāmanu hi vratā*
+> *guḥ ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > अध्वर्युभिः । पंचभिः । सप्त । विप्राः । प्रियं । रक्षंते । निहितं । पदं । वे-
 > रिति वेः ।
 > प्रांचः । मदंति । उक्षणः । अजुर्याः । देवाः । देवानां । अनु । हि । व्रता ।
 > गुरिति गुः ॥ ७ ॥
+
+> *adhvaryubhiḥ | paṃcabhiḥ | sapta | viprāḥ | priyaṃ | rakṣaṃte | nihitaṃ | padaṃ | ve-*
+> *riti veḥ |*
+> *prāṃcaḥ | madaṃti | ukṣaṇaḥ | ajuryāḥ | devāḥ | devānāṃ | anu | hi | vratā |*
+> *guriti guḥ ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -881,6 +914,11 @@ Grammar page continued, noted briefly: the guṇa of the root's *i* gives the st
 > दंति ।
 > ऋ॒तं शंसं॑त ऋ॒तमित्त आ॑हु॒रनु॑ व्र॒तं व्र॑त॒पा दीध्या॑नाः
 > ॥ ८ ॥
+
+> *devyā hotārā prathamā nṛṃje sapta pṛkṣāsaḥ svadhayā ma-*
+> *daṃti |*
+> *ṛtaṃ śaṃsaṃta ṛtamitta āhuranu vrataṃ vratapā dīdhyānāḥ*
+> *‖ 8 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -977,6 +1015,10 @@ Grammar page continued, noted briefly: दी ध्यानाः (*dī dhyān
 > वृषयंते महे अत्याय पूर्विः वृष्णे चित्राय रश्मयः । सुयामाः ।
 > देव । होतः । मंद्र-तरः चरित्वान् महः । देवान् । रोदसी इति । आ । इह ।
 > वक्षि ॥ ९ ॥
+
+> *vṛṣayaṃte mahe atyāya pūrviḥ vṛṣṇe citrāya raśmayaḥ | suyāmāḥ |*
+> *deva | hotaḥ | maṃdra-taraḥ caritvān mahaḥ | devān | rodasī iti | ā | iha |*
+> *vakṣi ‖ 9 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -1104,6 +1146,10 @@ The grammar note of Ṛk 9 ends at the top of the page (ढ→क, ष-substitut
 > पृ॒क्षप्र॑यजो द्रविणः सु॒वाचः॑ सुके॒तव॑ उ॒षसो॑ रे॒वदू॑षुः ।
 > उ॒तो चि॑दग्ने महि॒ना पृ॑थि॒व्याः कृ॒तं चि॒देनः॒ सं म॒हे द॑शस्य ॥
 > ॥ १० ॥
+
+> *pṛkṣaprayajo draviṇaḥ suvācaḥ suketava uṣaso revadūṣuḥ |*
+> *uto cidagne mahinā pṛthivyāḥ kṛtaṃ cidenaḥ saṃ mahe daśasya ‖*
+> *‖ 10 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -1257,6 +1303,9 @@ The grammar note of दशस्य (*daśasya*) ends at the top of the page (th
 
 > इळा॑मग्ने पुरु॒दंसं॑ स॒निं गोः श॑श्वत्त॒मं हव॑मानाय साध ।
 > स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ॥ ११ ॥
+
+> *iḷāmagne purudaṃsaṃ saniṃ goḥ śaśvattamaṃ havamānāya sādha |*
+> *syānnaḥ sūnustanayo vijāvāgne sā te sumatirbhūtvasme ‖ 11 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -2055,11 +2104,19 @@ explains with the sūtra उच्छयस्व वनस्पते सम�
 > यदू॒र्ध्वस्तिष्ठा॒ द्रवि॑णे॒ह ध॑त्ता॒द्यद्वा॒ क्षयो॑ मा॒तुर॒स्या उ॒-॑
 > पस्थे ॥ १ ॥
 
+> *aṃjaṃti tvā madhvare devayaṃto vanaspate madhunā daivyena |*
+> *yadūrdhvastiṣṭhā draviṇeha dhattādyadvā kṣayo māturasyā u-*
+> *pasthe ‖ 1 ‖*
+
 **॥ पदपाठः ॥**
 
 > अंजंति । त्वां । अध्वरे । देवयंतः । वनस्पते । मधुना । दैव्येन ।
 > यत् । ऊर्ध्वः । तिष्ठाः । द्रविणा । इह । धत्तात् । यत् । वा । क्षयः । मातुः ।
 > अस्याः । उपस्थे ॥ १ ॥
+
+> *aṃjaṃti | tvāṃ | adhvare | devayaṃtaḥ | vanaspate | madhunā | daivyena |*
+> *yat | ūrdhvaḥ | tiṣṭhāḥ | draviṇā | iha | dhattāt | yat | vā | kṣayaḥ | mātuḥ |*
+> *asyāḥ | upasthe ‖ 1 ‖*
 
 *[The page ends with the Pada of Ṛk 1; the commentary on this Ṛk continues on the next page.]*
 
@@ -2247,6 +2304,9 @@ The grammar of मातु: (*mātu:*) ends at the top of the page (utva and ra
 > संइद्धस्य । श्रयमाणः । पुरस्तात् । ब्रह्म । वन्वानः । अजरं । सुवीरं ।
 > अरे । अस्मत् । अमतिं । बाधमानः । उत् । श्रयस्व । महते । सौभगाय ॥ २ ॥
 
+> *saṃiddhasya | śrayamāṇaḥ | purastāt | brahma | vanvānaḥ | ajaraṃ | suvīraṃ |*
+> *are | asmat | amatiṃ | bādhamānaḥ | ut | śrayasva | mahate | saubhagāya ‖ 2 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 Gist: O yūpa, standing in the east of the kindled Āhavanīya fire and granting undecaying food with good offspring, keeping the enemy (hunger) far off, rise up for great prosperity. The Aitareya Brāhmaṇa (Ai. Brā. 2-2, as printed) is quoted for this.
@@ -2352,10 +2412,16 @@ Grammar notes (pp. 83–85), noted briefly. On p. 83: समिद्धस्�
 > उच्छ्र॑यस्व वनस्पते॒ वर्ष्म॑न्पृथि॒व्या अधि॑ ।
 > सुमि॑ती मी॒यमा॑नो॒ वर्चो॑ धा य॒ज्ञवा॑हसे ॥ ३ ॥
 
+> *ucchrayasva vanaspate varṣmanpṛthivyā adhi |*
+> *sumitī mīyamāno varco dhā yajñavāhase ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > उत् । श्रयस्व । वनस्पते । वर्षन् । पृथिव्याः । अधि ।
 > सुमिती । मीयमानः । वर्चः । धाः यज्ञवाहसे ॥ ३ ॥
+
+> *ut | śrayasva | vanaspate | varṣan | pṛthivyāḥ | adhi |*
+> *sumitī | mīyamānaḥ | varcaḥ | dhāḥ yajñavāhase ‖ 3 ‖*
 
 **Sāyaṇa-bhāṣya** (begun on this page; the sense is quoted from the Brāhmaṇa)
 
@@ -2449,6 +2515,10 @@ Grammar notes, noted briefly. वनस्पते (*vanaspate*): being listed 
 > युवा॑ सु॒वासाः॒ परि॑पीत॒ आगा॒त्स उ॒ श्रेया॑न्भवति॒ जाय॑मानः
 > तं धीरा॑सः क॒वय॒ उन्न॑यंति स्वा॒ध्यो॒३॒॑ मन॑सा देव॒यंतः॑
 > ॥ ४ ॥
+
+> *yuvā suvāsāḥ paripīta āgātsa u śreyānbhavati jāyamānaḥ*
+> *taṃ dhīrāsaḥ kavaya unnayaṃti svādhyo3 manasā devayaṃtaḥ*
+> *‖ 4 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -2570,6 +2640,11 @@ Grammar notes, noted briefly. युवा (*yuvā*): root यु मिश्�
 > मानः ।
 > पु॒नंति॒ धीरा॑ अ॒पसो॑ मनी॒षा दे॑व॒या विप्र॒ उदि॑यर्ति॒॑
 > वाचं ॥ ५ ॥
+
+> *jāto jāyate sudinatve ahnāṃ samarya ā vidathe vardha-*
+> *mānaḥ |*
+> *punaṃti dhīrā apaso manīṣā devayā vipra udiyarti*
+> *vācaṃ ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -2698,10 +2773,18 @@ Grammar notes, noted briefly. जायते (*jāyate*): root जनी प्
 > ते दे॒वासः॒ स्वर॑वस्तस्थि॒वांसः॑ प्र॒जाव॑द॒स्मे दि॑धिषंतु॒ रत्नं॑ ॥
 > ॥ ६ ॥
 
+> *yānno naro devayaṃto nimimyurvanaspate svadhitirvā*
+> *tatakṣa |*
+> *te devāsaḥ svaravastasthivāṃsaḥ prajāvadasme didhiṣaṃtu ratnaṃ ‖*
+> *‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > यान् । वः । नं: । देवयंतः । निमिम्युः । वनस्पते । स्वधितिः । वा । ततक्ष ।
 > ते । देवासः । स्वरवः । तस्थिवांसः । प्रजावत् । अस्मे इति । दिधिषंतु । रत्नं ॥ ६ ॥
+
+> *yān | vaḥ | naṃ: | devayaṃtaḥ | nimimyuḥ | vanaspate | svadhitiḥ | vā | tatakṣa |*
+> *te | devāsaḥ | svaravaḥ | tasthivāṃsaḥ | prajāvat | asme iti | didhiṣaṃtu | ratnaṃ ‖ 6 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -2800,10 +2883,16 @@ Grammar page continued (Ṛk 6), noted briefly: प्रजावत् (*praj�
 > ये वृ॒क्षासो॒ अधि॒ क्षमि॒ निमि॑तासो य॒तस्रु॑चः ।
 > ते नो॑ व्यंतु॒ वार्यं॑ देव॒त्रा क्षे॑त्र॒साध॑सः ॥ ७ ॥
 
+> *ye vṛkṣāso adhi kṣami nimitāso yatasrucaḥ |*
+> *te no vyaṃtu vāryaṃ devatrā kṣetrasādhasaḥ ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > ये । वृक्षासः । अधि । क्षमि । निमितासः । यतस्रुचः ।
 > ते । नः । व्यंतु । वार्यं । देवत्रा । क्षेत्रसाधनः ॥ ७ ॥
+
+> *ye | vṛkṣāsaḥ | adhi | kṣami | nimitāsaḥ | yatasrucaḥ |*
+> *te | naḥ | vyaṃtu | vāryaṃ | devatrā | kṣetrasādhanaḥ ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -2896,10 +2985,17 @@ Grammar page continued (Ṛk 7), noted briefly. निमितासः (*nimit
 > स॒जोष॑सो य॒ज्ञम॑वंतु दे॒वा ऊ॒र्ध्वं कृ॑ण्वंत्वध्व॒रस्य॒॑
 > केतुं ॥ ८ ॥
 
+> *ādityā rudrā vasavaḥ sunīthā dyāvākṣāmā pṛthivī aṃtarikṣaṃ|*
+> *sajoṣaso yajñamavaṃtu devā ūrdhvaṃ kṛṇvaṃtvadhvarasya*
+> *ketuṃ ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > आदित्याः । रुद्राः । वसवः । सुनीथाः । द्यावाक्षमा । पृथिवी । अंतरिक्षं ।
 > सजोषसः । यज्ञं । अवंतु । देवा: । ऊर्ध्वं । कृण्वंतु । अध्वरस्य । केतुं ॥
+
+> *ādityāḥ | rudrāḥ | vasavaḥ | sunīthāḥ | dyāvākṣamā | pṛthivī | aṃtarikṣaṃ |*
+> *sajoṣasaḥ | yajñaṃ | avaṃtu | devā: | ūrdhvaṃ | kṛṇvaṃtu | adhvarasya | ketuṃ ‖*
 
 *(page break)*
 
@@ -3100,6 +3196,10 @@ Grammar page, noted briefly. आदित्याः (*ādityāḥ*): the male 
 > हंसाः ऽइव । श्रेणशः । यतानाः । शुक्रा । वसानाः । स्वरवः । नः । आ । अगुः ।
 > उत्‌नीयमानाः । कविभिः । पुरस्तात् । देवाः । देवानां । आपि । यंति । पाथः ॥
 > ॥ ౮ ॥
+
+> *haṃsāḥ 'iva | śreṇaśaḥ | yatānāḥ | śukrā | vasānāḥ | svaravaḥ | naḥ | ā | aguḥ |*
+> *utnīyamānāḥ | kavibhiḥ | purastāt | devāḥ | devānāṃ | āpi | yaṃti | pāthaḥ ‖*
+> *‖ ౮ ‖*
 
 *[The Pada block ends with the Ṛk number printed in a different numeral form (a Telugu-style 8) from the Saṃhitā's 9; both as supplied.]*
 
@@ -3316,10 +3416,17 @@ Grammar page, noted briefly. शृंगाणि (*śṛṃgāṇi*): root श
 > यं त्वाम॒यं स्वधि॑ति॒स्तेज॑मानः प्रणि॒नाय॑ मह॒ते सौभ॑-
 > गाय ॥ ११ ॥
 
+> *vanaspate śatavalvo vi roha sahasravalyā vi vayaṃ ruhema ‖*
+> *yaṃ tvāmayaṃ svadhitistejamānaḥ praṇināya mahate saubha-*
+> *gāya ‖ 11 ‖*
+
 **॥ पदपाठः ॥**
 
 > वनस्पते । शतवल्यः । वि । रोह । सहस्रवल्याः । वि । वयं । रुहेम ।
 > यं । त्वां । आयं । स्वधितिः । तेजमानः । प्रनिनाय । महते । सौभगाय ॥ ११ ॥
+
+> *vanaspate | śatavalyaḥ | vi | roha | sahasravalyāḥ | vi | vayaṃ | ruhema |*
+> *yaṃ | tvāṃ | āyaṃ | svadhitiḥ | tejamānaḥ | pranināya | mahate | saubhagāya ‖ 11 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -3420,10 +3527,16 @@ is described with the explanation निशितधारः परशुः �
 > सखा॑यस्त्वा ववृमहे दे॒वं मर्ता॑स ऊ॒तये॑ ।
 > अ॒पां नपा॑तं सु॒भगं॑ सु॒दीदि॑तिं सु॒प्रतू॑र्तिमने॒हसं॑ ॥ १ ॥
 
+> *sakhāyastvā vavṛmahe devaṃ martāsa ūtaye |*
+> *apāṃ napātaṃ subhagaṃ sudīditiṃ supratūrtimanehasaṃ ‖ 1 ‖*
+
 **॥ पदपाठः ॥**
 
 > सखायः । त्वा । ववृमहे । देवं । मर्तासः । ऊतये ।
 > अपां । नपातं । सुभगं । सुदीदितिं । सुप्रतूर्तिं । अनेहसं ॥ १ ॥
+
+> *sakhāyaḥ | tvā | vavṛmahe | devaṃ | martāsaḥ | ūtaye |*
+> *apāṃ | napātaṃ | subhagaṃ | sudīditiṃ | supratūrtiṃ | anehasaṃ ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -3530,6 +3643,9 @@ Grammar page, noted briefly. सखायः (*sakhāyaḥ*): root ख्या 
 > कायमानः । वना । त्वं । यत् । मात्यः । अजगन् । अपः ।
 > न । तत् । ते । अग्ने प्रमृषे । निवर्तनं । यत् । दूरे । सन् । इह । अभवः ॥
 
+> *kāyamānaḥ | vanā | tvaṃ | yat | mātyaḥ | ajagan | apaḥ |*
+> *na | tat | te | agne pramṛṣe | nivartanaṃ | yat | dūre | san | iha | abhavaḥ ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे अग्ने वना काननानि कायमानः कामयमानस्त्वं यद्यस्मात्कारणात्तानि
@@ -3613,10 +3729,16 @@ Grammar page, noted briefly. कायमानः (*kāyamānaḥ*): root क�
 > अति॑ तृ॒ष्टं व॑वक्षि॒थाथै॒व सु॒मना॑ असि ।
 > प्रप्रा॒न्ये यंति॒ पर्य॒न्य आ॑सते॒ येषां॑ स॒ख्ये असि॑ श्रि॒तः ॥
 
+> *ati tṛṣṭaṃ vavakṣithāthaiva sumanā asi |*
+> *praprānye yaṃti paryanya āsate yeṣāṃ sakhye asi śritaḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > अति । तृष्टं । ववक्षिथ । अथ । एव । सुमनाः । असि ।
 > द्रप्र । अन्वे । यंति । परि । अन्वे । आसते । येषां । सख्ये । आसि । श्रितः ॥ ३ ॥
+
+> *ati | tṛṣṭaṃ | vavakṣitha | atha | eva | sumanāḥ | asi |*
+> *drapra | anve | yaṃti | pari | anve | āsate | yeṣāṃ | sakhye | āsi | śritaḥ ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -3697,10 +3819,16 @@ Grammar page, noted briefly. ववक्षथ (*vavakṣatha*) [sic, as suppli
 > ई॒यि॒वांस॒मति॒ स्रिधः॒ शश्व॑ती॒रति॑ स॒श्चतः॑ ।
 > अन्वी॑मविंदन्निचि॒रासो॑ अ॒द्रुहो॒प्सु सिं॒हमि॑व त्रि॒तं ॥४॥
 
+> *īyivāṃsamati sridhaḥ śaśvatīrati saścataḥ |*
+> *anvīmaviṃdannicirāso adruhopsu siṃhamiva tritaṃ ‖4‖*
+
 **॥ पदपाठः ॥**
 
 > ईयिवांसं । अति । स्रिधः । तत्वतीः । अति । सच्चतः ।
 > अनु । ईं । अविंदन् । निचिरासः । अद्रुहः । अप्सु । सिंहंइव । श्रितं ॥
+
+> *īyivāṃsaṃ | ati | sridhaḥ | tatvatīḥ | ati | saccataḥ |*
+> *anu | īṃ | aviṃdan | nicirāsaḥ | adruhaḥ | apsu | siṃhaṃiva | śritaṃ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -3793,10 +3921,16 @@ Grammar page, noted briefly.
 > स॒स्य॒वांस॑मिव॒ त्मना॒ग्निमि॒थ्या ति॒रोहि॑तं ।
 > ऐनं॑ नयन्मात॒रिश्वा॑ परा॒वतो॑ दे॒वेभ्यो॑ मथि॒तं परि॑ ॥५॥
 
+> *sasyavāṃsamiva tmanāgnimithyā tirohitaṃ |*
+> *ainaṃ nayanmātariśvā parāvato devebhyo mathitaṃ pari ‖5‖*
+
 **॥ पदपाठः ॥**
 
 > सस्यवांसंइव । त्मना । अग्निं । इत्था । तिरःऽहितं ।
 > आ । एनं । नयत् । मातरिश्वा । परावतः । देवेभ्यः । मथितं । परि ॥ ५ ॥
+
+> *sasyavāṃsaṃiva | tmanā | agniṃ | itthā | tiraḥ 'hitaṃ |*
+> *ā | enaṃ | nayat | mātariśvā | parāvataḥ | devebhyaḥ | mathitaṃ | pari ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -3891,10 +4025,16 @@ Here परावतः प्रेरितवतः परागताद्�
 > तं त्वा॒ मर्ता॑ अगृभ्य त दे॒वेभ्यो॑ हव्यवाहन ।
 > विश्वा॒न्यद्य॒ज्ञा अ॑भि॒पासि॑ मानुष॒ तव॒ क्रत्वा॑ यविष्य ॥ ६ ॥
 
+> *taṃ tvā martā agṛbhya ta devebhyo havyavāhana |*
+> *viśvānyadyajñā abhipāsi mānuṣa tava kratvā yaviṣya ‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > तं । त्वा । मर्ताः । अग्नृभ्यत । देवेभ्यः । हव्यवाहन ।
 > विश्वान् । यत् । यज्ञान् । अभिपासि । मानुष । तव । क्रत्वा । यविष्य ॥ ६ ॥
+
+> *taṃ | tvā | martāḥ | agnṛbhyata | devebhyaḥ | havyavāhana |*
+> *viśvān | yat | yajñān | abhipāsi | mānuṣa | tava | kratvā | yaviṣya ‖ 6 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -4007,6 +4147,9 @@ In the Ṛk ये सुक्रतवः शुचयो धियंधा: 
 > तत् । भद्रं । तव । दंसना । पाकाय । चित् । छदयति ।
 > श्वां । यत् । अग्ने । पशवः । संआसते । संइद्धं । अपितर्वरे ॥ ७ ॥
 
+> *tat | bhadraṃ | tava | daṃsanā | pākāya | cit | chadayati |*
+> *śvāṃ | yat | agne | paśavaḥ | saṃāsate | saṃiddhaṃ | apitarvare ‖ 7 ‖*
+
 *[The window ends here, at the end of printed p. 138, with the Saṃhitā and Pada of Ṛk 7; the bhāṣya follows on p. 139.]*
 
 ### Printed p. 139
@@ -4095,6 +4238,9 @@ Because the affix has an n, the initial-udātta accent comes by इत्या�
 
 > आ जु॑होता स्वध्व॒रं शी॒रं पा॑व॒कशो॑चिषं ।
 > आ॒शुं दू॒तम॑जि॒रं प्र॒त्नमीड्यं॑ श्रु॒ष्टी दे॒वं स॑पर्यत ॥
+
+> *ā juhotā svadhvaraṃ śīraṃ pāvakaśociṣaṃ |*
+> *āśuṃ dūtamajiraṃ pratnamīḍyaṃ śruṣṭī devaṃ saparyata ‖*
 
 **॥ पदपाठः ॥**
 
@@ -4210,6 +4356,9 @@ Grammar page continued, noted briefly: सपर्यत (*saparyata*) (root �
 
 > त्रीणि॑ श॒ता त्री स॒हस्रा॑ण्य॒ग्निं त्रिं॒शच्च॑ दे॒वा नव॑ चासपर्यन् ।
 > औक्ष॑न्नृ॒तैरस्त्र॑णन्ब॒र्हिर॑स्मा॒ आदिद्दोता॑रं॒ न्य॑सादयंत ॥ ९ ॥
+
+> *trīṇi śatā trī sahasrāṇyagniṃ triṃśacca devā nava cāsaparyan |*
+> *aukṣannṛtairastraṇanbarhirasmā ādiddotāraṃ nyasādayaṃta ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -4419,6 +4568,9 @@ here there is no distinction at all between great and small among the gods; ther
 > त्वाम॑ग्ने मनी॒षिणः॑ स॒म्राजं॑ चर्षणी॒नां
 > दे॒वं मर्ता॑स इंधत्ते॒ सम॑ध्व॒रे ॥ १ ॥
 
+> *tvāmagne manīṣiṇaḥ samrājaṃ carṣaṇīnāṃ*
+> *devaṃ martāsa iṃdhatte samadhvare ‖ 1 ‖*
+
 *[The window ends here, after the Saṃhitā of Ṛk 1; the Pada begins on the next page.]*
 
 ### Printed p. 152
@@ -4491,10 +4643,16 @@ You, the king of men ; Agni, the divine : prudent mortals kindle you at the sacr
 > त्वां य॒ज्ञेष्टृ॒त्वज॒मग्ने॒ होता॑रमीळते ।
 > गो॒पा ऋ॒तस्य॑ दीदिहि॒ स्वे दमे॑ ॥ २ ॥
 
+> *tvāṃ yajñeṣṭṛtvajamagne hotāramīḷate |*
+> *gopā ṛtasya dīdihi sve dame ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > त्वां । यज्ञेषु । ऋत्विजं । अग्ने । होतारं । ईळते ।
 > गोपाः । ऋतस्य । दीदिहि : स्वे । दमे ॥ २ ॥
+
+> *tvāṃ | yajñeṣu | ṛtvijaṃ | agne | hotāraṃ | īḷate |*
+> *gopāḥ | ṛtasya | dīdihi : sve | dame ‖ 2 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -4648,6 +4806,9 @@ Because Agni knows all that has been produced in the world (in creation), he is 
 > सः । केतुः । अध्वराणां । अग्निः । देवेभिः । आ । गमत् ।
 > अंजानः । सप्त । होतृभिः । हविष्मते ॥ ४ ॥
 
+> *saḥ | ketuḥ | adhvarāṇāṃ | agniḥ | devebhiḥ | ā | gamat |*
+> *aṃjānaḥ | sapta | hotṛbhiḥ | haviṣmate ‖ 4 ‖*
+
 **Sāyaṇa-bhāṣya** *(continued on the next page)*
 
 > अध्वराणां यज्ञानां केतुः प्रज्ञाशकः सोऽग्निः सप्त सप्तभिर्होतृभिर्वष-
@@ -4724,10 +4885,16 @@ Here, for the word सप्तहोतृ (*saptahotṛ*), the meaning is expl
 > प्र होत्रे॑ पू॒र्व्यं वचो॒ऽग्नये॑ भरता बृ॒हत् ।
 > वि॒पां ज्योतीं॑षि॒ बिभ्र॑ते॒ न वे॒धसे॑ ॥ ५ ॥
 
+> *pra hotre pūrvyaṃ vaco 'gnaye bharatā bṛhat |*
+> *vipāṃ jyotīṃṣi bibhrate na vedhase ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > प्र । होत्रे । पूर्व्यं । वचः । अग्नये । भरत । बृहत् ।
 > विपां । ज्योतींषि। बिभ्रते । न । वेधसे ॥ ५ ॥
+
+> *pra | hotre | pūrvyaṃ | vacaḥ | agnaye | bharata | bṛhat |*
+> *vipāṃ | jyotīṃṣi| bibhrate | na | vedhase ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -4791,6 +4958,9 @@ Offer to the ministering Agni as if to the Creator (of the world), the great pra
 
 > अ॒ग्निं व॑र्धंतु नो॒ गिरो॒ यतो॒ जाय॑त उ॒क्तः॑ ।
 > म॒हे वाजा॑य॒ द्रवि॑णाय दर्श॒तः ॥ ६ ॥
+
+> *agniṃ vardhaṃtu no giro yato jāyata uktaḥ |*
+> *mahe vājāya draviṇāya darśataḥ ‖ 6 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -4869,6 +5039,9 @@ May our hymns exalt Agni, so that he may be born more worthy of praise, and may 
 > अग्ने॒ यजि॑ष्ठो अध्व॒रे दे॒वान्दे॑वय॒ते य॑ज ।
 > होता॑ सुं॒द्रो वि रा॑ज॒स्यति॒ स्रधः॑ ॥ ७ ॥
 
+> *agne yajiṣṭho adhvare devāndevayate yaja |*
+> *hotā suṃdro vi rājasyati sradhaḥ ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 *[As supplied, the Saṃhitā reads ಸುಂದ್ರೋ and ರಾಜಸ್ಯತಿ and the Pada reads ದೇವ್ಯಯತೇ, ಮಂದ್ರಃ, ರಾಜಸಿ and ಸ್ರಿಧಃ, while the Saṃhitā has ಸ್ರಧಃ; the bhāṣya reads ಮಂದ್ರೋ, ರಾಜಸಿ and ಸ್ರಿಧಃ. All kept as supplied.]*
@@ -4946,10 +5119,16 @@ Here "mandrā" is explained as madanā, the one that produces joy (mada). Sāya�
 > स नः॑ पावक दीदिहि द्यु॒मद॒स्मे सु॒वीर्यं॑ ।
 > भवा॑ स्तो॒तृभ्यो॒ अंत॑मः स्व॒स्तये॑ ॥ ८ ॥
 
+> *sa naḥ pāvaka dīdihi dyumadasme suvīryaṃ |*
+> *bhavā stotṛbhyo aṃtamaḥ svastaye ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > सः । नः । पावक । दीदिहि । द्युमत् । अस्मे इति । सुवीर्यं ।
 > भव । स्तोतृभ्यः । अंतमः । स्वस्तये ॥ ८ ॥
+
+> *saḥ | naḥ | pāvaka | dīdihi | dyumat | asme iti | suvīryaṃ |*
+> *bhava | stotṛbhyaḥ | aṃtamaḥ | svastaye ‖ 8 ‖*
 
 *[After the Pada the supplied text has a stray line "22" (a page signature), kept as a separate italic line in the Kannada text.]*
 
@@ -5046,6 +5225,9 @@ Do you, our purifier, light up for us a brilliant progeny : be ever nigh to you 
 
 > तं त्वा॒ विप्रा॑ विप॒न्यवो॑ जागृ॒वांसः॒ समिं॑धते ।
 > ह॒व्य॒वाह॒मम॑र्त्यं सहो॒वृधं॑ ॥ ९ ॥
+
+> *taṃ tvā viprā vipanyavo jāgṛvāṃsaḥ samiṃdhate |*
+> *havyavāhamamartyaṃ sahovṛdhaṃ ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -5176,6 +5358,9 @@ The wise, intelligent, and vigilant (worshippers) kindle you such as you (have b
 > अ॒ग्निर्होता॑ पु॒रोहि॑तोऽध्व॒रस्य॒ विच॑र्षणिः ।
 > स वे॑द य॒ज्ञ मा॑नु॒षक् ॥ १ ॥
 
+> *agnirhotā purohito 'dhvarasya vicarṣaṇiḥ |*
+> *sa veda yajña mānuṣak ‖ 1 ‖*
+
 **॥ पदपाठः ॥**
 
 *[The label of the Pada is garbled in the supplied text (printed "ಪವಹಾರಕ"); the Pada block follows in the standard place.]*
@@ -5245,6 +5430,9 @@ Agni, the invoker of the gods, the niinister [sic] (of the gods), the supervisor
 
 > स ह॑व्य॒वाळम॑र्त्य उ॒तिग्धो॒तश्चनो॑हितः ।
 > अ॒ग्निर्धि॒या समृ॑ण्वति ॥ २ ॥
+
+> *sa havyavāḷamartya utigdhotaścanohitaḥ |*
+> *agnirdhiyā samṛṇvati ‖ 2 ‖*
 
 *[In the supplied text the Saṃhitā line reads "ಉತಿಗ್ಧೋತಶ್ಚನೋಹಿತಃ", where the Pada and the bhāṣya give ಉಶಿಕ್ ದೂತಃ ಚನೋಹಿತಃ; kept as supplied.]*
 
@@ -5408,6 +5596,9 @@ Agni, the ancient banner of sacrifice, knows (all things) through understanding 
 > अ॒ग्निं सू॒नुं सन॑श्रुतं॒ सह॑सो जा॒तवे॑दसं ।
 > वह्निं॑ दे॒वा अ॑कृण्वत ॥ ४ ॥
 
+> *agniṃ sūnuṃ sanaśrutaṃ sahaso jātavedasaṃ |*
+> *vahniṃ devā akṛṇvata ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्निं । सूनुं ! सन्यश्रुतं । सहसः । जातवेदसं ।
@@ -5468,6 +5659,9 @@ Because Agni arises from the churning in the two *araṇis* (fire-sticks), he is
 
 > अदा॑भ्यः पुरए॒ता वि॒शाम॒ग्निर्मानु॑षीणां ।
 > तूर्णी॒ रथः॒ सदा॒ नवः॑ ॥ ५ ॥
+
+> *adābhyaḥ puraetā viśāmagnirmānuṣīṇāṃ |*
+> *tūrṇī rathaḥ sadā navaḥ ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -5557,10 +5751,16 @@ Here, for the word विशेविशे (*viśeviśe*) they have explained t
 > सा॒ह्वान्विश्वा॑ अभि॒युजः॒ क्रतु॑र्दे॒वाना॒ममृ॑क्तः ।
 > अ॒ग्निस्तु॒विश्र॑वस्तमः ॥ ६ ॥
 
+> *sāhvānviśvā abhiyujaḥ kraturdevānāmamṛktaḥ |*
+> *agnistuviśravastamaḥ ‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > सह्वान् । विश्वाः । अभियुजः । क्रतुः । देवानां । अमृक्तः ।
 > अग्नि: । तुविश्रवःतमः ॥ ६ ॥
+
+> *sahvān | viśvāḥ | abhiyujaḥ | kratuḥ | devānāṃ | amṛktaḥ |*
+> *agni: | tuviśravaḥtamaḥ ‖ 6 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -5631,10 +5831,16 @@ Agni, the most liberal contributor of food, is able to resist all assailants unh
 > अ॒भि प्रयां॑सि॒ वाह॑सा दा॒श्वा अ॑श्नोति॒ मर्त्यः॑ ।
 > क्षयं॑ पाव॒कशो॑चिषः ॥ ७ ॥
 
+> *abhi prayāṃsi vāhasā dāśvā aśnoti martyaḥ |*
+> *kṣayaṃ pāvakaśociṣaḥ ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > अभि । प्रयांसि । वाहसा । दाश्वान् । अश्नोति । मर्त्यः ।
 > क्षयं । पावकशोजिषः ॥ ७ ॥
+
+> *abhi | prayāṃsi | vāhasā | dāśvān | aśnoti | martyaḥ |*
+> *kṣayaṃ | pāvakaśojiṣaḥ ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -5702,6 +5908,9 @@ From Agni, of purifying radiance the mortal presenter (of offerings) obtains by 
 
 > परि॒ विश्वा॑नि॒ सुधि॑ता॒ग्नेर॑श्याम॒ मन्म॑भिः ।
 > विप्रा॑सो जा॒तवे॑दसः ॥ ८ ॥
+
+> *pari viśvāni sudhitāgneraśyāma manmabhiḥ |*
+> *viprāso jātavedasaḥ ‖ 8 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -5789,10 +5998,16 @@ In the second meaning, where the word जातवेदसः (*jātavedasaḥ*
 > अग्ने॒ विश्वा॑नि॒ वार्या॒ वाजे॑षु सनिषामहे ।
 > त्वे दे॒वास॒ एरि॑रे ॥ ९ ॥
 
+> *agne viśvāni vāryā vājeṣu saniṣāmahe |*
+> *tve devāsa erire ‖ 9 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । विश्वानि । वार्या । वाजेषु । सनिषामहे ।
 > श्वे इति । देवासः । आ । ईरिरे ॥ ९ ॥
+
+> *agne | viśvāni | vāryā | vājeṣu | saniṣāmahe |*
+> *śve iti | devāsaḥ | ā | īrire ‖ 9 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -5920,6 +6135,9 @@ May we obtain, Agni, all precious things (as booty) in battles, since the gods c
 > इंद्राग्नी इति । आ । गतं । सुतं । गीभिः । नॆभः । वरेण्यं ।
 > अस्य । पातं । धिया । इषिका ॥ १ ॥
 
+> *iṃdrāgnī iti | ā | gataṃ | sutaṃ | gībhiḥ | nèbhaḥ | vareṇyaṃ |*
+> *asya | pātaṃ | dhiyā | iṣikā ‖ 1 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > इंद्रश्चाग्निश्चेंद्राग्नी हे इंद्राग्नी देवौ सुतमभिषवादिसंस्कारैः संस्कृत-
@@ -6031,6 +6249,9 @@ Grammar notes of Ṛk 1, continued from p. 202:
 > इंद्राग्नी इति । जरितुः । सचा । यज्ञः । जिगाति । चेतनः ।
 > अया । पातं । इमं । सुतं ॥ २ ॥
 
+> *iṃdrāgnī iti | jarituḥ | sacā | yajñaḥ | jigāti | cetanaḥ |*
+> *ayā | pātaṃ | imaṃ | sutaṃ ‖ 2 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे इंद्राग्नी जरितुः स्तोतुः सचा स्वर्गादिलक्षणफलप्राप्तौ सहायभूतो
@@ -6117,6 +6338,9 @@ Continuation of the Special Topics of Ṛk 2 (the passage broke off at the end o
 
 > इंद्रं । अग्निं । कविछदा । यज्ञस्य । जूत्या । वृणे ।
 > ता । सोमस्य । इह । तृंपतां ॥ ३ ॥
+
+> *iṃdraṃ | agniṃ | kavichadā | yajñasya | jūtyā | vṛṇe |*
+> *tā | somasya | iha | tṛṃpatāṃ ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -6405,6 +6629,9 @@ Grammar page, continued (Ṛk 4):
 > प्र । वां । अर्चंति । उक्किनः । नीथ्यविदः । जरितारः ।
 > इंद्राग्नी इति । इषः । आ । वृणे ॥ ५ ॥
 
+> *pra | vāṃ | arcaṃti | ukkinaḥ | nīthyavidaḥ | jaritāraḥ |*
+> *iṃdrāgnī iti | iṣaḥ | ā | vṛṇe ‖ 5 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे इंद्राग्नी उक्तिनः । उक्कं शस्त्रं । तद्वंतः शस्त्रिणो हॊत्रादयो वां
@@ -6489,10 +6716,16 @@ Grammar page, continued (Ṛk 5):
 > इंद्रा॑ग्नी नव॒तिं पुरो॑ दा॒सप॑त्नीरधूनुतं ।
 > सा॒कमेके॑न॒ कर्म॑णा ॥ ६ ॥
 
+> *iṃdrāgnī navatiṃ puro dāsapatnīradhūnutaṃ |*
+> *sākamekena karmaṇā ‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्राग्नी इति । नवतिं । पुरः । दासपत्नीः । अधूनुतं ।
 > साकं । एकेन । कर्मणा ॥ ६ ॥
+
+> *iṃdrāgnī iti | navatiṃ | puraḥ | dāsapatnīḥ | adhūnutaṃ |*
+> *sākaṃ | ekena | karmaṇā ‖ 6 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -6571,6 +6804,9 @@ Special Topics, continued: On the historical view, when war is being waged, the 
 
 > इंद्रा॑ग्नी॒ अप॑स॒स्पर्युप॒ प्र यं॑ति धी॒तयः॑ ।
 > ऋ॒तस्य॑ प॒थ्या॒३॒॑ अनु॑ ॥ ७ ॥
+
+> *iṃdrāgnī apasasparyupa pra yaṃti dhītayaḥ |*
+> *ṛtasya pathyā3 anu ‖ 7 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -6874,6 +7110,9 @@ By the sentence वां वीर्यं तत् प्र चेति (*
 
 > प्र । वः । देवाय । अग्नये । बर्हिष्ठं । अर्च । अस्मै ।
 > गमत् । देवेभिः । आ ' सः । नः । यजिष्ठः । बर्हिः । आ । सदत् ॥ १ ॥
+
+> *pra | vaḥ | devāya | agnaye | barhiṣṭhaṃ | arca | asmai |*
+> *gamat | devebhiḥ | ā ' saḥ | naḥ | yajiṣṭhaḥ | barhiḥ | ā | sadat ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -7180,6 +7419,9 @@ He, the sage, is the director of those (who sacrifice), he is (the regulator) of
 > स नः॒ शर्मा॑णि वी॒तये॒ऽग्निर्य॑च्छतु॒ शंत॑मा ।
 > यतो॑ नः प्रु॒ष्णव॒द्वसु॑ दि॒वि क्षि॒तिभ्यो॑ अ॒प्सा ॥ ४ ॥
 
+> *sa naḥ śarmāṇi vītaye 'gniryacchatu śaṃtamā |*
+> *yato naḥ pruṣṇavadvasu divi kṣitibhyo apsā ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > सः । नः । शर्माणि । नीतये । अग्निः । यच्छतु । शंतमा ।
@@ -7280,6 +7522,9 @@ has explained the meaning of the word वीति (*vīti*) as वीतये 
 
 > दी॒दि॒नांस॒मपू॑र्व्यं॒ वस्वी॑भिरस्य धी॒तिभिः॑ ।
 > ऋक्वा॑णो अ॒ग्निमिं॑धते॒ होता॑रं वि॒श्वतिं॑ वि॒शां ॥ ५ ॥
+
+> *dīdināṃsamapūrvyaṃ vasvībhirasya dhītibhiḥ |*
+> *ṛkvāṇo agnimiṃdhate hotāraṃ viśvatiṃ viśāṃ ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -7383,6 +7628,9 @@ Grammar notes (noted briefly):
 
 > उ॒त नो॒ ब्रह्म॑न्नविष उ॒क्तेषु॑ देव॒हूत॑मः ।
 > शं नः॑ शोचा म॒रुद्वृ॒धोऽग्ने॑ सहस्र॒सात॑मः ॥ ६ ॥
+
+> *uta no brahmannaviṣa ukteṣu devahūtamaḥ |*
+> *śaṃ naḥ śocā marudvṛdho 'gne sahasrasātamaḥ ‖ 6 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -7505,6 +7753,9 @@ Grammar notes (noted briefly; the sūtra numbers are as printed):
 > नू नो॑ रास्व स॒हस्र॑वत्तो॒कव॑त्पुष्टि॒मद्वसु॑ ।
 > द्यु॒मद॑ग्ने सु॒वीर्यं॒ वर्षि॑ष्ठ॒मनु॑पक्षितं ॥ ७ ॥
 
+> *nū no rāsva sahasravattokavatpuṣṭimadvasu |*
+> *dyumadagne suvīryaṃ varṣiṣṭhamanupakṣitaṃ ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > नु । नः । रास्व । सहस्रवत् । तोकवत् । पुष्टिमत् । वसु ।
@@ -7620,10 +7871,16 @@ On नू नः (*nū naḥ*): by the sūtra quoted (Pā. Sū. 6-3-133) the wor
 > आ होता॑ मं॒द्रो वि॒दथा॑न्यस्थात्स॒त्यो यज्वा॑ क॒वित॑मः॒ स वे॒धाः ।
 > वि॒द्युद्र॑थः॒ सह॑सस्पु॒त्रो अ॒ग्निः शो॒चिष्के॑शः पृथि॒व्यां पाजो॑ अश्रेत्
 
+> *ā hotā maṃdro vidathānyasthātsatyo yajvā kavitamaḥ sa vedhāḥ |*
+> *vidyudrathaḥ sahasasputro agniḥ śociṣkeśaḥ pṛthivyāṃ pājo aśret*
+
 **॥ पदपाठः ॥**
 
 > आ । होता । मंद्रः । विदथानि । अस्थात् । सत्यः । यज्वा । कवीतमः । सः । वेधाः ।
 > विद्युत्ठरथः । सहसः । पुत्रः । अग्निः । शोचिःकेशः । पृथिव्यां । पाजः । अश्वेत् ॥१॥
+
+> *ā | hotā | maṃdraḥ | vidathāni | asthāt | satyaḥ | yajvā | kavītamaḥ | saḥ | vedhāḥ |*
+> *vidyutṭharathaḥ | sahasaḥ | putraḥ | agniḥ | śociḥkeśaḥ | pṛthivyāṃ | pājaḥ | aśvet ‖1‖*
 
 *(A stray line "32", a signature number, follows the Pada in the print.)*
 
@@ -8056,6 +8313,9 @@ Grammar notes (noted briefly; the sūtra numbers are as printed):
 > अया॑मि ते॒ नम॑उक्तिं जुषस्व॒ ऋता॑व॒स्तुभ्यं॒ चेत॑ते सहस्वः ।
 > वि॒द्वा आ व॑क्षि वि॒दुषो॒ नि ष॑त्सि॒ मध्य॒ आ ब॒र्हिरू॒तये॑ यजत्र ॥ २ ॥
 
+> *ayāmi te namauktiṃ juṣasva ṛtāvastubhyaṃ cetate sahasvaḥ |*
+> *vidvā ā vakṣi viduṣo ni ṣatsi madhya ā barhirūtaye yajatra ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > अयामि । ते । नमःउक्तिं । जुषस्व । ऋतवः । तुभ्यं । चेतते । सहस्वः ।
@@ -8150,10 +8410,16 @@ Grammar notes on Ṛk 2 (noted briefly; sūtra numbers as printed):
 > द्रव॑तां त उ॒षसा॑ वा॒जयं॑ती॒ अग्ने॒ वात॑स्य प॒थ्या॑भि॒रच्छ॑ ।
 > यत्सी॑मं॒जंति॑ पू॒र्व्यं ह॒विर्भि॒रा वं॒धुरे॑व तस्थतुर्दुरो॒णे ॥ ३ ॥
 
+> *dravatāṃ ta uṣasā vājayaṃtī agne vātasya pathyābhiraccha |*
+> *yatsīmaṃjaṃti pūrvyaṃ havirbhirā vaṃdhureva tasthaturduroṇe ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > द्रवतां । ते । उषसा । वाजयंती इति । अग्ने । वातस्य । पथ्याभिः । अच्छ ।
 > यत् । सीं । अंजंति । पूर्व्यं । हविःभिः । आ । वंधुराइव । तस्थतुः । दुरोणे ॥
+
+> *dravatāṃ | te | uṣasā | vājayaṃtī iti | agne | vātasya | pathyābhiḥ | accha |*
+> *yat | sīṃ | aṃjaṃti | pūrvyaṃ | haviḥbhiḥ | ā | vaṃdhurāiva | tasthatuḥ | duroṇe ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -8320,6 +8586,9 @@ in such places प्रेरयन् (*prerayan*) ("impelling"). Thus used in
 > मि॒त्रश्च॒ तुभ्यं॒ वरु॑णः सह॒स्वोऽग्ने॒ विश्वे॑ म॒रुतः॑ सु॒म्मम॑र्चन् ।
 > यच्छो॒चिषा॑ सहसस्पुत्र॒ तिष्ठा॑ अ॒भि क्षि॒तीः प्र॒थय॒न्त्सूर्यो॒ न्यून् ॥
 
+> *mitraśca tubhyaṃ varuṇaḥ sahasvo 'gne viśve marutaḥ summamarcan |*
+> *yacchociṣā sahasasputra tiṣṭhā abhi kṣitīḥ prathayantsūryo nyūn ‖*
+
 **॥ पदपाठः ॥**
 
 > मित्रः । च । तुभ्यं । वरुणः । सहस्रः । अग्ने । विश्वे । मरुतः । सुम्नं । अर्चन् ।
@@ -8447,6 +8716,9 @@ The note on तिष्ठाः (*tiṣṭhāḥ*) continues from p. 279: loss
 > व॒यं ते॑ अ॒द्य र॑रि॒मा हि काम॑मुत्ता॒नह॑स्ता॒ नम॑सोप॒सद्य॑ ।
 > यजि॑ष्ठेन॒ मन॑सा यक्षि दे॒वानस्रे॑धता॒ मन्म॑ना॒ विप्रो॑ अग्ने ॥ ५ ॥
 
+> *vayaṃ te adya rarimā hi kāmamuttānahastā namasopasadya |*
+> *yajiṣṭhena manasā yakṣi devānasredhatā manmanā vipro agne ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 *[Pada compared with Saṃhitā, as supplied: Pada ररिम (*rarima*) against Saṃhitā ररिमा (*rarimā*); Pada यजिष्टेन (*yajiṣṭena*) against Saṃhitā यजिष्ठेन (*yajiṣṭhena*). Kept as supplied.]*
@@ -8555,6 +8827,9 @@ Grammar notes continued. उत्तानहस्ताः (*uttānahastāḥ
 > त्वद्धि पु॑त्र सहसो॒ वि पू॒र्वीर्दे॒वस्य॒ यंत्यू॒तयो॒ वि वाजाः॑ ।
 > त्वं दे॑हि सह॒स्रिणं॑ र॒यिं नो॑ऽद्रो॒घेण॒ वच॑सा स॒त्यम॑ग्ने ॥
 
+> *tvaddhi putra sahaso vi pūrvīrdevasya yaṃtyūtayo vi vājāḥ |*
+> *tvaṃ dehi sahasriṇaṃ rayiṃ no 'drogheṇa vacasā satyamagne ‖*
+
 **॥ पदपाठः ॥**
 
 > त्वत् । हि । पुत्र । सहसः । वि । पूर्विः । देवस्य । यंति । ऊतयः । वि । वाजाः ।
@@ -8659,6 +8934,9 @@ in many such Ṛks this quality of Agni is mentioned and described.
 
 > तुभ्यं॑ दक्ष कविक्रतो॒ यानी॒मा देव॒ मर्ता॑सो अध्व॒रे अक॑र्म ।
 > त्वं विश्व॑स्य सु॒रथ॑स्य बोधि॒ सर्वं॒ तद॑ग्ने अमृत स्वदे॒ह ॥ ७ ॥
+
+> *tubhyaṃ dakṣa kavikrato yānīmā deva martāso adhvare akarma |*
+> *tvaṃ viśvasya surathasya bodhi sarvaṃ tadagne amṛta svadeha ‖ 7 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -8926,10 +9204,16 @@ For the word अमृत (*amṛta*): addressing Agni as one who has no mortali
 > वि पाज॑सा पृ॒थुना॒ शोशु॑चानो॒ बाध॑स्व द्वि॒षो र॒क्षसो॒ अमी॑वाः ।
 > सु॒शर्म॑णो बृह॒तः शर्म॑णि स्याम॒ग्नेर॒हं सु॒हव॑स्य॒ प्रणी॑तौ ॥ १ ॥
 
+> *vi pājasā pṛthunā śośucāno bādhasva dviṣo rakṣaso amīvāḥ |*
+> *suśarmaṇo bṛhataḥ śarmaṇi syāmagnerahaṃ suhavasya praṇītau ‖ 1 ‖*
+
 **॥ पदपाठः ॥**
 
 > वि । पाजसा । पृथुना । शोशुचानः । बाधस्व । द्विषः । रक्षसः । अमीवाः ।
 > सुशर्मणः । बृहतः । शर्मणि । स्यां । अग्नेः । अहं । सुहवस्य । प्रनीत् ॥ १ ॥
+
+> *vi | pājasā | pṛthunā | śośucānaḥ | bādhasva | dviṣaḥ | rakṣasaḥ | amīvāḥ |*
+> *suśarmaṇaḥ | bṛhataḥ | śarmaṇi | syāṃ | agneḥ | ahaṃ | suhavasya | pranīt ‖ 1 ‖*
 
 *[In the Pada the supplied text has ಪ್ರನೀತ್ at the end (for the Saṃhitā word ಪ್ರಣೀತೌ), with ನ for ಣ and without the final diphthong, and ಸ್ಯಾಂ for the Saṃhitā ಸ್ಯಾಮ್; as supplied.]*
 
@@ -9024,6 +9308,9 @@ and the explanation given there by Durgācārya is: अमीवा इत्य
 
 > त्वं नो॑ अ॒स्या उ॒षसो॒ व्य॑ष्टौ॒ त्वं सूर॒ उदि॑ते बोधि गो॒पाः ।
 > जन्मे॑व॒ नित्यं॒ तन॑यं जुषस्व॒ स्तोमं॑ मे अग्ने त॒न्वा॑ सुजात ॥ २ ॥
+
+> *tvaṃ no asyā uṣaso vyaṣṭau tvaṃ sūra udite bodhi gopāḥ |*
+> *janmeva nityaṃ tanayaṃ juṣasva stomaṃ me agne tanvā sujāta ‖ 2 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -9209,10 +9496,16 @@ by this sentence, describing the greatness of the उद्दीथ (*uddītha*
 > त्वं नृ॒चक्षा॑ वृष॒भानु॑ पू॒र्विः कृ॒ष्णास्व॑ग्ने अरु॒षो वि भा॑हि ।
 > वसो॒ नेषि॑ च॒ पर्षि॒ चात्यंहः॑ कृ॒धी नो॑ रा॒य उ॒शिजो॑ यविष्ठ ॥
 
+> *tvaṃ nṛcakṣā vṛṣabhānu pūrviḥ kṛṣṇāsvagne aruṣo vi bhāhi |*
+> *vaso neṣi ca parṣi cātyaṃhaḥ kṛdhī no rāya uśijo yaviṣṭha ‖*
+
 **॥ पदपाठः ॥**
 
 > त्वं । नृचक्षाः । वृषभ । अनु । पूर्विः । कृष्णासु । अग्ने । अरुषः । वि । भाहि ।
 > वसो इति । नेषि । च । पर्षि । च । अति । अंहः । कृधि । नः । राये । उशिजः । यविष्ठ
+
+> *tvaṃ | nṛcakṣāḥ | vṛṣabha | anu | pūrviḥ | kṛṣṇāsu | agne | aruṣaḥ | vi | bhāhi |*
+> *vaso iti | neṣi | ca | parṣi | ca | ati | aṃhaḥ | kṛdhi | naḥ | rāye | uśijaḥ | yaviṣṭha*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -9453,6 +9746,9 @@ The author of the Nirukta *(printed "ರುಕ್ತಕಾರರು", as supplie
 > अषा॑ह्नो अग्ने वृष॒भो दि॑दीहि॒ पुरो॒ विश्वाः॒ सौभ॑गा संजिगी॒वान् ।
 > य॒ज्ञस्य॑ ने॒ता प्र॑थ॒मस्य॑ पा॒योर्जात॑वेदो बृह॒तः सु॑प्रणीते ॥४॥
 
+> *aṣāhno agne vṛṣabho didīhi puro viśvāḥ saubhagā saṃjigīvān |*
+> *yajñasya netā prathamasya pāyorjātavedo bṛhataḥ supraṇīte ‖4‖*
+
 *(A stray printed "40" stands after the Saṃhitā block, as supplied; probably a stray number.)*
 
 ### Printed p. 314
@@ -9613,6 +9909,10 @@ the suffix अभच् (*abhac*). Because kit-ness is extended to it, guṇa do
 > अच्छिद्रा । शर्म । जरितरिति । पुरूणि । देवान् । अच्छ । दीद्यानः । सुमेधाः ।
 > रथः । न । सस्निः । अभि । वक्षि । वाजं । अग्ने । त्वं । रोदसी इति । नः । सुमेके इति
 > सुमेके ॥ ५ ॥
+
+> *acchidrā | śarma | jaritariti | purūṇi | devān | accha | dīdyānaḥ | sumedhāḥ |*
+> *rathaḥ | na | sasniḥ | abhi | vakṣi | vājaṃ | agne | tvaṃ | rodasī iti | naḥ | sumeke iti*
+> *sumeke ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -9815,6 +10115,9 @@ and make known that the word जिन्नति (*jinnati*) *(so printed)* th
 > इळा॑मग्ने पुरु॒दंसं॑ स॒निं गोः श॑श्वत्त॒मं हव॑मानाय साध ।
 > स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ॥ ७ ॥
 
+> *iḷāmagne purudaṃsaṃ saniṃ goḥ śaśvattamaṃ havamānāya sādha |*
+> *syānnaḥ sūnustanayo vijāvāgne sā te sumatirbhūtvasme ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 *[The printed label of the Pada block is garbled in the supplied text as सदपारकि (*sadapāraki*) ("sadapāraki"); the standard label is given above and the garbled line is kept in kn.md as an italic line.]*
@@ -9883,6 +10186,9 @@ Grant AGNI, to the offerer of the oblation, earth the giver of cattle the means 
 
 > अ॒यम॒ग्निः सु॒वीर्य॒स्येशे॑ म॒हः सौभ॑गस्य ।
 > रा॒य ई॑शे स्वप॒त्यस्य॒ गोम॑त॒ ईशे॑ वृत्र॒हथा॑नां ॥ १ ॥
+
+> *ayamagniḥ suvīryasyeśe mahaḥ saubhagasya |*
+> *rāya īśe svapatyasya gomata īśe vṛtrahathānāṃ ‖ 1 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -10302,6 +10608,9 @@ For the reduplicating syllable the substitute ca; since the suffix is marked k, 
 > मा नो॑ अ॒ग्नेऽम॑तये॒ मावीर॑ताय्यै रीरधः ।
 > मागोता॑य्यै सहसस्पुत्र॒ मा नि॒देऽप॒ द्वेषां॒स्या कृ॑धि ॥ ५ ॥
 
+> *mā no agne 'mataye māvīratāyyai rīradhaḥ |*
+> *māgotāyyai sahasasputra mā nide 'pa dveṣāṃsyā kṛdhi ‖ 5 ‖*
+
 *[Note on the picture: the letters ಕೃ of the last word could be ಕ್ರು as it looks in the picture, and are written ಕೃ as read; the accent strokes printed in the picture are not reproduced.]*
 
 **पदपाठः**
@@ -10403,6 +10712,9 @@ On द्वेषांसि अप आ कृधि—कर्मापर�
 
 > श॒ग्गि वाज॑स्य सुभग प्र॒जाव॒तोऽग्ने॑ बृह॒तो अ॑ध्व॒रे ।
 > सं रा॒या भूय॑सा सृज मयो॒भुना॒ तुवि॑द्युन्नु॒ यश॑स्वता ॥ ६ ॥
+
+> *śaggi vājasya subhaga prajāvato 'gne bṛhato adhvare |*
+> *saṃ rāyā bhūyasā sṛja mayobhunā tuvidyunnu yaśasvatā ‖ 6 ‖*
 
 *[Two readings in the Saṃhitā block disagree with the Pada and the bhāṣya of the same Ṛk and are kept as supplied: ಶಗ್ಗಿ [?] (Pada and bhāṣya: ಶಗ್ನಿ) and ತುವಿದ್ಯುನ್ನು [?] (Pada and bhāṣya: ತುವಿದ್ಯುಮ್ನ). The accent script could not match these two lines to the reference text (accent report rows DIFF), and the accent marks in the last word are therefore unreliable.]*
 
@@ -10525,10 +10837,16 @@ By झुशि (*jhuśi*) the substitute g comes for the k of the root *(printe
 > स॒मि॒ध्यमा॑नः प्रथ॒मानु॒ धर्मा॒ सम॒क्तुभि॑रज्यते वि॒श्ववा॑रः ।
 > शो॒चिष्के॑शो घृ॒तनि॑र्णिक्षाव॒कः सु॑य॒ज्ञो अ॒ग्निर्य॒जथा॑य दे॒वान्
 
+> *samidhyamānaḥ prathamānu dharmā samaktubhirajyate viśvavāraḥ |*
+> *śociṣkeśo ghṛtanirṇikṣāvakaḥ suyajño agniryajathāya devān*
+
 **॥ पदपाठः ॥**
 
 > संइध्यमानः । प्रथमा । अनु । धर्म । सं । अक्तुभिः । अज्यते । विश्ववारः ।
 > शोचिःकेशः । घृतनिर्निक् । पावकः । सुयज्ञः । अग्निः । यजथाय । देवान् ॥१॥
+
+> *saṃidhyamānaḥ | prathamā | anu | dharma | saṃ | aktubhiḥ | ajyate | viśvavāraḥ |*
+> *śociḥkeśaḥ | ghṛtanirnik | pāvakaḥ | suyajñaḥ | agniḥ | yajathāya | devān ‖1‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -10639,10 +10957,16 @@ Because the sacrifice performed, or to be performed, for Agni is excellent and b
 > यथाय॑जो हो॒त्रम॑ग्ने पृथि॒व्या यथा॑ दि॒वो जा॑तवेदश्चिक्ति॒त्वान् ।
 > ए॒वानेन॑ ह॒विषा॑ यक्षि दे॒वान्म॑नु॒ष्वद्य॒ज्ञं प्रति॑रे॒मम॒द्य ॥ २ ॥
 
+> *yathāyajo hotramagne pṛthivyā yathā divo jātavedaściktitvān |*
+> *evānena haviṣā yakṣi devānmanuṣvadyajñaṃ pratiremamadya ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > यथा । अयजः । होत्रं । अग्ने । पृथिव्याः । यथा । दिवः । जातवेदः । चिकित्वान् ।
 > एव । अनेन । हविषा । यक्षि । देवान् । मनुष्वत् । यज्ञं । प्र । शिर । इमं । अद्य ॥
+
+> *yathā | ayajaḥ | hotraṃ | agne | pṛthivyāḥ | yathā | divaḥ | jātavedaḥ | cikitvān |*
+> *eva | anena | haviṣā | yakṣi | devān | manuṣvat | yajñaṃ | pra | śira | imaṃ | adya ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -10753,10 +11077,16 @@ On यज्ञं (*yajñaṃ*): this word is explained by Yāska, with a showi
 > त्रीण्यायूं॑षि॒ तव॑ जातवेदस्त्रि॒स्र आ॒जानी॑रु॒षस॑स्ते अग्ने ।
 > ताभि॑र्दे॒वाना॒मवो॑ यक्षि वि॒द्वानथा॑ भव॒ यज॑मानाय॒शंयोः ॥
 
+> *trīṇyāyūṃṣi tava jātavedastrisra ājānīruṣasaste agne |*
+> *tābhirdevānāmavo yakṣi vidvānathā bhava yajamānāyaśaṃyoḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > त्रीणि । आयूंषि । तव । जातवेदः । तिस्रः । आजानीः । उषसः । ते । अग्ने ।
 > ताभिः । देवानां । अवः । यक्षि । विद्वान् । अथ । भव । यजमानाय । शं । योः ॥
+
+> *trīṇi | āyūṃṣi | tava | jātavedaḥ | tisraḥ | ājānīḥ | uṣasaḥ | te | agne |*
+> *tābhiḥ | devānāṃ | avaḥ | yakṣi | vidvān | atha | bhava | yajamānāya | śaṃ | yoḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -10846,12 +11176,18 @@ Durgācārya has explained that by the word शंयोः (*śaṃyoḥ*) the 
 > अ॒ग्निं सु॑दी॒तिं सु॒दृशं॑ गृ॒णंतो॑ नम॒स्याम॒स्वेद्यं॑ जातवेदः ।
 > त्वां दू॒तम॑र॒तिं ह॑व्य॒वाहं॑ दे॒वा अ॑कृण्वन्न॒मृत॑स्य॒ नाभिं॑ ॥ ४ ॥
 
+> *agniṃ sudītiṃ sudṛśaṃ gṛṇaṃto namasyāmasvedyaṃ jātavedaḥ |*
+> *tvāṃ dūtamaratiṃ havyavāhaṃ devā akṛṇvannamṛtasya nābhiṃ ‖ 4 ‖*
+
 *(Printed label: ಪಡೆಪಾಟಃ, as supplied.)*
 
 **॥ पदपाठः ॥**
 
 > अग्निं । सुदीतिं । सुदृशं । गृणंतः । नमस्यामः । त्वा । ईड्यं । जातवेदः ।
 > त्वां । दूतं । अरतिं । हव्यवाहं । देवाः । अकृण्वन् । अमृतस्य । नाभिं ॥ ४ ॥
+
+> *agniṃ | sudītiṃ | sudṛśaṃ | gṛṇaṃtaḥ | namasyāmaḥ | tvā | īḍyaṃ | jātavedaḥ |*
+> *tvāṃ | dūtaṃ | aratiṃ | havyavāhaṃ | devāḥ | akṛṇvan | amṛtasya | nābhiṃ ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -10977,6 +11313,10 @@ has made a doer-of-work messenger; therefore the sense is made clear that the sa
 > यः । त्वत् । होता । पूर्वः । अग्ने । यजीयान् । द्विता । च । सत्ता । स्वधया ।
 > च । शंभुः ।
 > तस्य । अनु । धर्म । प्र । यज । चिकित्वः । अथ । नः । धाः । अध्वरं । देववीत् ॥ ५ ॥
+
+> *yaḥ | tvat | hotā | pūrvaḥ | agne | yajīyān | dvitā | ca | sattā | svadhayā |*
+> *ca | śaṃbhuḥ |*
+> *tasya | anu | dharma | pra | yaja | cikitvaḥ | atha | naḥ | dhāḥ | adhvaraṃ | devavīt ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -11116,6 +11456,9 @@ The explanation of the second half of this mantra is the same in Sāyaṇa and Y
 > भव । नः । अग्ने । सुमनाः । उपइत् । सखा इव । सख्ये । पितरा इव । साधुः ।
 > पुरुऽद्रुहः । हि । क्षितयः । जनानां । प्रति । प्रतीचीः । दहतात् । अरातीः ॥ १ ॥
 
+> *bhava | naḥ | agne | sumanāḥ | upait | sakhā iva | sakhye | pitarā iva | sādhuḥ |*
+> *puru 'druhaḥ | hi | kṣitayaḥ | janānāṃ | prati | pratīcīḥ | dahatāt | arātīḥ ‖ 1 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे अग्ने त्वमुपेतावस्माभिः क्रियमाणस्य प्रवर्ग्याख्यकर्मण आभिमुख्येना-
@@ -11211,10 +11554,16 @@ Be favourably disposed, AGNI, on approaching us (at this rite); be the fulfiller
 > तपो॒ ष्व॑ग्ने॒ अंत॑रा अ॒मित्रा॒ तपा॒ शंस॒मर॑रुषः॒ पर॑स्य ।
 > तपो॑ वसो चिकित्सा॒नो अ॒चित्ता॒न्वि ते॑ तिष्ठंताम॒जरा॑ आ॒यासः॑ ॥ २ ॥
 
+> *tapo ṣvagne aṃtarā amitrā tapā śaṃsamararuṣaḥ parasya |*
+> *tapo vaso cikitsāno acittānvi te tiṣṭhaṃtāmajarā āyāsaḥ ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > तपो इति । सु । अग्ने । अंतरान् । अमित्रान् । तप । शंसं । अररुषः । परस्य ।
 > तपो इति । वसो इति । चिकितानः । अचित्तान् । वि । ते । तिष्ठंतां । अजराः । अयासः॥
+
+> *tapo iti | su | agne | aṃtarān | amitrān | tapa | śaṃsaṃ | araruṣaḥ | parasya |*
+> *tapo iti | vaso iti | cikitānaḥ | acittān | vi | te | tiṣṭhaṃtāṃ | ajarāḥ | ayāsaḥ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -11301,12 +11650,18 @@ For the word वसो (*vaso*) the meaning "one who keeps everything as if prot
 > इ॒द्धेना॑ग्न इ॒च्छमा॑नो घृ॒तेन॑ जु॒होमि॑ ह॒व्यं तर॑से॒ बला॑य ।
 > याव॒दीशे॒ ब्रह्म॑णा॒ वंद॑मान इ॒मां धियं॑ शत॒सेया॑य दे॒वीं ॥
 
+> *iddhenāgna icchamāno ghṛtena juhomi havyaṃ tarase balāya |*
+> *yāvadīśe brahmaṇā vaṃdamāna imāṃ dhiyaṃ śataseyāya devīṃ ‖*
+
 *[The supplied Saṃhitā text of Ṛk 3 carries no Ṛk number after its closing double danda (as supplied).]*
 
 **॥ पदपाठः ॥**
 
 > इध्मेन । अग्ने । इच्छमानः । घृतेन । जुहोमि । हव्यं । तरसे । बलाय ।
 > यावत् । ईशे । ब्रह्मणा । वंदमानः । इमां । धियं । शतसेऽयाय । देवीं ॥
+
+> *idhmena | agne | icchamānaḥ | ghṛtena | juhomi | havyaṃ | tarase | balāya |*
+> *yāvat | īśe | brahmaṇā | vaṃdamānaḥ | imāṃ | dhiyaṃ | śatase 'yāya | devīṃ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -11438,6 +11793,9 @@ In this Ṛk the meaning of ब्रह्माणि (*brahmāṇi*) is state
 
 > उत् । शोचिषा । सहसः । पुत्र । स्तुतः । बृहत् । वयः । शशमानेषु । धेहि ।
 > रेवत् । अग्ने । विश्वामित्रेषु । शं । योः । मर्मृज्म । ते । तन्वं । भूरि । कृत्वः ॥
+
+> *ut | śociṣā | sahasaḥ | putra | stutaḥ | bṛhat | vayaḥ | śaśamāneṣu | dhehi |*
+> *revat | agne | viśvāmitreṣu | śaṃ | yoḥ | marmṛjma | te | tanvaṃ | bhūri | kṛtvaḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -11580,6 +11938,9 @@ In this Ṛk also the meaning बहूनि (*bahūni*) ("many") is explained 
 > कृ॒धि रत्नं॑ सुसनित॒र्धना॑नां॒ स घेद॑ग्ने भवसि॒ यत्समि॑द्दः ।
 > स्तो॒तुर्दु॑रो॒णे सु॒भग॑स्य रे॒वत्सृ॒प्रा क॒रस्ना॑ दधिषे॒ वपूं॑षि ॥ ५ ॥
 
+> *kṛdhi ratnaṃ susanitardhanānāṃ sa ghedagne bhavasi yatsamiddaḥ |*
+> *stoturduroṇe subhagasya revatsṛprā karasnā dadhiṣe vapūṃṣi ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > कृधि । रत्नं । सुसनितः । धनानां । सः । घ । इत् । अग्ने । भवसि । यत् । संइद्धः ।
@@ -11711,6 +12072,9 @@ Yāska reads the word करस्नौ (*karasnau*) among the names of the arm
 > अग्निं । होतारं । प्र । वृणे । मियेधे । गृत्सं । कविं । विश्वविदं । अमूरं ।
 > सः । नः । यक्षत् । देवताता । यजीयान् । राये । वाजाय । वनते । मघानि ॥
 
+> *agniṃ | hotāraṃ | pra | vṛṇe | miyedhe | gṛtsaṃ | kaviṃ | viśvavidaṃ | amūraṃ |*
+> *saḥ | naḥ | yakṣat | devatātā | yajīyān | rāye | vājāya | vanate | maghāni ‖*
+
 *(The window ends here, after the Pada-pāṭha of Ṛk 1 of Sūkta 19; the Sāyaṇa-bhāṣya of the Ṛk follows on the next page.)*
 
 ### Printed p. 383
@@ -11805,10 +12169,16 @@ Here, for the word देवताता (*devatātā*), the meaning यज्�
 > प्र ते॑ अग्ने ह॒विष्म॑तीमिय॒र्म्यच्छा॑ सुद्यु॒म्नां रा॒तिनीं॑ घृ॒ताचीं॑ ।
 > प्र॒द॒क्षि॒णिद्दे॒वता॑तिमुरा॒णः सं रा॒तिभि॒र्वसु॑भिर्य॒ज्ञम॑श्रेत् ॥ २ ॥
 
+> *pra te agne haviṣmatīmiyarmyacchā sudyumnāṃ rātinīṃ ghṛtācīṃ |*
+> *pradakṣiṇiddevatātimurāṇaḥ saṃ rātibhirvasubhiryajñamaśret ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > प्र । ते । अग्ने । हविष्मतीं । इयर्मि । अच्छ । सुद्युम्नां । रातिनीं । घृताचीं ।
 > प्रदक्षिणित् । देवतातिं । उराणः । सं । रातिभिः । वसुभिः । यज्ञं । अश्रेत् ॥
+
+> *pra | te | agne | haviṣmatīṃ | iyarmi | accha | sudyumnāṃ | rātinīṃ | ghṛtācīṃ |*
+> *pradakṣiṇit | devatātiṃ | urāṇaḥ | saṃ | rātibhiḥ | vasubhiḥ | yajñaṃ | aśret ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -11903,10 +12273,16 @@ In this cited Ṛk, अल्पमपि हुतं हविः देवत
 > स तेजी॑यसा॒ मन॑सा॒ त्वोत॑ उ॒त शि॑क्ष स्वप॒त्यस्य॑ शि॒क्षोः ।
 > अग्ने॑ रा॒यो नृत॑मस्य॒ प्रभू॑ता भू॒याम॑ ते सुष्टु॒तय॑श्च॒ वस्वः॑ ॥
 
+> *sa tejīyasā manasā tvota uta śikṣa svapatyasya śikṣoḥ |*
+> *agne rāyo nṛtamasya prabhūtā bhūyāma te suṣṭutayaśca vasvaḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > सः । तेजीयसा । मनसा । त्वाऊतः । उत । शिक्ष । सुअपत्यस्य । शिक्षोः ।
 > अग्ने । रायः । नृतमस्य । प्रभूता । भूयाम । ते । सुस्तुतयः । च । वस्वः ॥
+
+> *saḥ | tejīyasā | manasā | tvāūtaḥ | uta | śikṣa | suapatyasya | śikṣoḥ |*
+> *agne | rāyaḥ | nṛtamasya | prabhūtā | bhūyāma | te | sustutayaḥ | ca | vasvaḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -11986,6 +12362,9 @@ He who is protected, Agni, by you, becomes endowed with a most luminous mind : b
 > भूरी॑णि॒ हि त्वे द॑धि॒रे अनी॒काग्ने॑ दे॒वस्य॒ यज्य॑वो॒ जना॑सः ।
 > स आ व॑ह दे॒वता॑तिं यविष्ठ॒ शर्धो॒ यद॒द्य दि॒व्यं यजा॑सि ॥ ४ ॥
 
+> *bhūrīṇi hi tve dadhire anīkāgne devasya yajyavo janāsaḥ |*
+> *sa ā vaha devatātiṃ yaviṣṭha śardho yadadya divyaṃ yajāsi ‖ 4 ‖*
+
 *[Printed after the Saṃhitā of this Ṛk, as a stray line: "50"; kept as supplied. The Ṛk number 4 is printed in the Saṃhitā.]*
 
 *50*
@@ -11998,6 +12377,9 @@ He who is protected, Agni, by you, becomes endowed with a most luminous mind : b
 
 > भूरीणि । हि । त्वे इति । दधिरे । अनीका । अग्ने । देवस्य । यज्यवः । जनासः ।
 > सः । आ । वह । देवतातिं । यविष्ठ । शर्धः । यत् । आद्य । दिव्यं । यजासि ॥ ४ ॥
+
+> *bhūrīṇi | hi | tve iti | dadhire | anīkā | agne | devasya | yajyavaḥ | janāsaḥ |*
+> *saḥ | ā | vaha | devatātiṃ | yaviṣṭha | śardhaḥ | yat | ādya | divyaṃ | yajāsi ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -12066,6 +12448,9 @@ In this Ṛk the meaning दिविज (*divija*) is given for the word दि
 
 > यत्त्वा॒ होता॑रम॒नज॑न्मि॒येधे॑ निषा॒दयं॑तो य॒जथा॑य दे॒वाः
 > स त्वं नो॑ अग्नेऽवि॒तेह बो॒ध्यधि॒ श्रवां॑सि धेहि नस्त॒नूषु॑ ॥ ५ ॥
+
+> *yattvā hotāramanajanmiyedhe niṣādayaṃto yajathāya devāḥ*
+> *sa tvaṃ no agne 'viteha bodhyadhi śravāṃsi dhehi nastanūṣu ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -12199,6 +12584,9 @@ and the remaining Ṛks have Agni as deity. The viniyoga of this sūkta too has 
 > अग्निं । उषसं । अश्विना । दधिक्रां । विउष्टिषु । हवते । वह्निः । उक्तैः ।
 > सुज्योतिषः । नः । शृण्वंतु । देवाः । सजोषसः । अध्वरं । वावशानाः ॥ १ ॥
 
+> *agniṃ | uṣasaṃ | aśvinā | dadhikrāṃ | viuṣṭiṣu | havate | vahniḥ | uktaiḥ |*
+> *sujyotiṣaḥ | naḥ | śṛṇvaṃtu | devāḥ | sajoṣasaḥ | adhvaraṃ | vāvaśānāḥ ‖ 1 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > गाथी ब्रूते । वह्निर्हविषां प्रापयिताग्निर्व्युष्टिषूषसां व्युच्छनेष्वग्निं
@@ -12310,6 +12698,9 @@ and explained that the god Dadhikrā is reckoned among the deities of the middle
 > अग्ने । त्री । ते । वाजिना । त्री । सधस्था । तिस्रः । ते । जिह्वाः । ऋतजात । पूर्विः ।
 > तिस्रः । ऊं इति । ते । तन्नः । देववाताः । ताभिः । नः । पाहि । गिरः । अप्रयुच्छन् ॥
 
+> *agne | trī | te | vājinā | trī | sadhasthā | tisraḥ | te | jihvāḥ | ṛtajāta | pūrviḥ |*
+> *tisraḥ | ūṃ iti | te | tannaḥ | devavātāḥ | tābhiḥ | naḥ | pāhi | giraḥ | aprayucchan ‖*
+
 *[The Pada-pāṭha carries no Ṛk number at the end in the supplied text; none is written.]*
 
 **॥ सायणभाष्यम् ॥**
@@ -12392,6 +12783,9 @@ Pervading the sacrifices of the form of Ekāha, Ahīna and Satra, or the three w
 > अग्ने॒ भूरी॑णि॒ तव॑ जातवेदो॒ देव॑ स्वधावो॒ऽमृत॑स्य॒ नाम॑ ।
 > याश्च॑ मा॒या मा॒यिनां॑ विश्वमिन्त्व॒ त्वे पू॒र्विः सर॑द॒धुः पृ॑ष्टबंधो
 
+> *agne bhūrīṇi tava jātavedo deva svadhāvo 'mṛtasya nāma |*
+> *yāśca māyā māyināṃ viśvamintva tve pūrviḥ saradadhuḥ pṛṣṭabaṃdho*
+
 *[The Ṛk number is not printed after the Saṃhitā in the supplied text (only after the Pada, as ೩), and no danda closes the Saṃhitā; none is written. The Saṃhitā has ವಿಶ್ವಮಿನ್ತ್ವ, ಪೂರ್ವಿಃ ಸರದಧುಃ and ಪೃಷ್ಟಬಂಧೋ, while the Pada has ವಿಶ್ವಂಇನ್ವ, ಪೂರ್ವೀಃ ಸಂಸದಧುಃ and ಸ್ಪಷ್ಟ- / ಬಂಧೋ ಇತಿ ಪೃಷ್ಟಬಂಧೋ, and the bhāṣya has ವಿಶ್ವಮಿನ್ವ and ಸಂದಧುಃ; all as supplied.]*
 
 **॥ पदपाठः ॥**
@@ -12399,6 +12793,10 @@ Pervading the sacrifices of the form of Ekāha, Ahīna and Satra, or the three w
 > अग्ने । भूरीणि । तव । जातवेदः । देव । स्वधावः । अमृतस्य । नाम ।
 > याः । च । मायाः । मायिनां । विश्वंइन्व । त्वे इति । पूर्वीः । संसदधुः । स्पष्ट-
 > बंधो इति पृष्टबंधो ॥ ३ ॥
+
+> *agne | bhūrīṇi | tava | jātavedaḥ | deva | svadhāvaḥ | amṛtasya | nāma |*
+> *yāḥ | ca | māyāḥ | māyināṃ | viśvaṃinva | tve iti | pūrvīḥ | saṃsadadhuḥ | spaṣṭa-*
+> *baṃdho iti pṛṣṭabaṃdho ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -12484,6 +12882,9 @@ Durgācārya has explained the meaning of the word विश्वमिन्�
 
 > अ॒ग्निर्ने॒ता भग॑ इव क्षिती॒नां दैवी॑नां दे॒व ऋ॑तु॒पा ऋ॒तावा॑ ।
 > स वृ॑त्र॒हा स॒नयो॑ वि॒श्ववे॑दाः॒ पर्ष॒द्विश्वाति॑ दुरि॒ता गृ॒णंतं॑ ॥ ४ ॥
+
+> *agnirnetā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtāvā |*
+> *sa vṛtrahā sanayo viśvavedāḥ parṣadviśvāti duritā gṛṇaṃtaṃ ‖ 4 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -12591,6 +12992,9 @@ Explaining the word वृत्र (*vṛtra*) as the cloud, the meaning is giv
 
 > दधिक्रां । अग्निं । उषसं । च । देवीं । बृहस्पतिं । सवितारं । च । देवं ।
 > अश्विना । मित्रावरुणा । भगं । च । वसून् । रुद्रान् । आदित्यान् । इह । हुवे ॥ ५ ॥
+
+> *dadhikrāṃ | agniṃ | uṣasaṃ | ca | devīṃ | bṛhaspatiṃ | savitāraṃ | ca | devaṃ |*
+> *aśvinā | mitrāvaruṇā | bhagaṃ | ca | vasūn | rudrān | ādityān | iha | huve ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -12792,6 +13196,9 @@ Heaven too is called Āditya, because it has the qualities of drinking up the wa
 > इमं । नः । यज्ञं । अमृतेषु । धेहि । इमा । हव्या । जातवेदः । जुषस्व ।
 > स्तोकानां । अग्ने । मेदसः । घृतस्य । होतरिति । प्र । अशान । प्रथमः । निसद्य ॥
 
+> *imaṃ | naḥ | yajñaṃ | amṛteṣu | dhehi | imā | havyā | jātavedaḥ | juṣasva |*
+> *stokānāṃ | agne | medasaḥ | ghṛtasya | hotariti | pra | aśāna | prathamaḥ | nisadya ‖*
+
 *[The Pada carries no Ṛk number at the end in the supplied text; none is written.]*
 
 **॥ सायणभाष्यम् ॥**
@@ -12989,10 +13396,16 @@ Here, he has described, the word वार्य (*vārya*) is used in the sense
 > तुभ्यं॑ स्तो॒का घृ॑त॒श्चुतोऽग्ने॒ विप्रा॑य संत्य ।
 > ऋषिः॒ श्रेष्ठः॒ समि॑ध्यसे य॒ज्ञस्य॑ प्रावि॒ता भ॑व ॥ ३ ॥
 
+> *tubhyaṃ stokā ghṛtaścuto 'gne viprāya saṃtya |*
+> *ṛṣiḥ śreṣṭhaḥ samidhyase yajñasya prāvitā bhava ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > तुभ्यं । स्तोकाः । घृतश्चुतः । अग्ने । विप्राय । संत्य ।
 > ऋषिः । श्रेष्ठः । सं । इध्यसे । यज्ञस्य । प्रअविता । भव ॥ ३ ॥
+
+> *tubhyaṃ | stokāḥ | ghṛtaścutaḥ | agne | viprāya | saṃtya |*
+> *ṛṣiḥ | śreṣṭhaḥ | saṃ | idhyase | yajñasya | praavitā | bhava ‖ 3 ‖*
 
 *[The Pada has ಪ್ರಅವಿತಾ where the Saṃhitā has ಪ್ರಾವಿತಾ, and the bhāṣya has ಧೃತಶ್ಚುತಃ where the Saṃhitā has ಘೃತಶ್ಚುತಃ; as supplied.]*
 
@@ -13063,6 +13476,9 @@ Having described that this word is used as an epithet of the word Agni, and addr
 
 > तुभ्यं॑ श्चोतंत्यध्रिगो शचीवः स्तो॒कासो॑ अग्ने॒ मेद॑सो घृ॒तस्य॑॥
 > क॒वि॒श॒स्तो बृ॑ह॒ता भा॒नुनागा॑ ह॒व्या जु॑षस्व मेधिर ॥ ४ ॥
+
+> *tubhyaṃ ścotaṃtyadhrigo śacīvaḥ stokāso agne medaso ghṛtasya‖*
+> *kaviśasto bṛhatā bhānunāgā havyā juṣasva medhira ‖ 4 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -13175,6 +13591,9 @@ Further, Yāska says अग्निरप्यध्रिगुरुच्�
 
 > ओजिष्ठं । ते । मध्यतः । मेदः । उत्भृतं । प्र । ते । वयं । ददामहे ।
 > श्चोतंति । ते । वसोऽइति । स्तोकाः । अधि । त्वचि । प्रति । तान् । देवशः । विहि ॥ ५ ॥
+
+> *ojiṣṭhaṃ | te | madhyataḥ | medaḥ | utbhṛtaṃ | pra | te | vayaṃ | dadāmahe |*
+> *ścotaṃti | te | vaso 'iti | stokāḥ | adhi | tvaci | prati | tān | devaśaḥ | vihi ‖ 5 ‖*
 
 *[The Saṃhitā has ಉದ್ಭೃತಂ where the Pada has ಉತ್ಭೃತಂ, and ವಸೋ where the Pada has ವಸೋಽಇತಿ; as supplied.]*
 
@@ -13292,6 +13711,9 @@ We present to you the densest marrow that has been extracted for you from the in
 > अयं । सः । अग्निः । यस्मिन् । सोमं । इंद्रः । सुतं । दधे । जठरे । वावशानः ।
 > सहस्रिणं । वाजं । अत्यं । न । सप्तिं । सर्सवान् । सन् । स्तूयसे । जातवेदः ॥ १ ॥
 
+> *ayaṃ | saḥ | agniḥ | yasmin | somaṃ | iṃdraḥ | sutaṃ | dadhe | jaṭhare | vāvaśānaḥ |*
+> *sahasriṇaṃ | vājaṃ | atyaṃ | na | saptiṃ | sarsavān | san | stūyase | jātavedaḥ ‖ 1 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > गाथी ब्रूते । आयमुत्तरवेद्यामाहुत्यधिकरणभूतावहनीयरूपतया दृश्यमा-
@@ -13384,6 +13806,9 @@ In this Ṛk it is explained that the horse is born of the gods and is endowed w
 
 > अग्ने॒ यत्ते॑ दि॒वि वर्चः॑ पृथि॒व्यां यदोष॑धीष्व॒प्स्वा य॑जत्र ।
 > येनां॒तरि॑क्षमु॒र्वा॑त॒तंथ॑ त्वे॒षः स भा॒नुर॑र्ण॒वो नृ॒चक्षाः॑ ॥ २ ॥
+
+> *agne yatte divi varcaḥ pṛthivyāṃ yadoṣadhīṣvapsvā yajatra |*
+> *yenāṃtarikṣamurvātataṃtha tveṣaḥ sa bhānurarṇavo nṛcakṣāḥ ‖ 2 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -13508,6 +13933,9 @@ Here the presence of Agni's radiance in the heaven, the earth, the herbs, the tr
 > अग्ने॑ दि॒वो अर्ण॒मच्छा॑ जिगा॒स्यच्छा॑ दे॒वा ऊ॑चिषे॒ धिष्ट्ाण्या॒ ये ।
 > या रो॑च॒ने प॒रस्ता॒त्सूर्य॑स्य॒ याश्चा॒वस्ता॑दुप॒तिष्ठं॑त॒ आपः॑ ॥ ३ ॥
 
+> *agne divo arṇamacchā jigāsyacchā devā ūciṣe dhiṣṭāṇyā ye |*
+> *yā rocane parastātsūryasya yāścāvastādupatiṣṭhaṃta āpaḥ ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । दिवः । अर्णं । अच्छ । जिगासि । अच्छ । देवान् । ऊचिषे । धिष्ट्याः । ये ।
@@ -13614,6 +14042,9 @@ Durgācārya, taking the root धिष (*dhiṣa*) together with the root द�
 > पु॒री॒ष्या॑सो अ॒ग्नयः॑ प्राव॒णेभिः॑ स॒जोष॑सः ।
 > जु॒षंतां॑ य॒ज्ञम॒द्रुहो॑ऽनमी॒वा इषो॑ म॒हीः ॥ ४ ॥
 
+> *purīṣyāso agnayaḥ prāvaṇebhiḥ sajoṣasaḥ |*
+> *juṣaṃtāṃ yajñamadruho 'namīvā iṣo mahīḥ ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > पुरीष्यासः । अग्नयः । प्रवणेभिः । सजोषसः ।
@@ -13709,11 +14140,18 @@ as: the fires (सिकतासंमिश्राः अग्नयः (*s
 > इळा॑मग्ने पुरु॒दंसं॑ स॒निं गोः श॑श्वत्त॒मं हव॑मानाय साध ।
 > स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मै ॥ ५ ॥
 
+> *iḷāmagne purudaṃsaṃ saniṃ goḥ śaśvattamaṃ havamānāya sādha |*
+> *syānnaḥ sūnustanayo vijāvāgne sā te sumatirbhūtvasmai ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > इळां । अग्ने । पुरुदंसं । सनिं । गोः । शश्वत्तमं । हवमानाय । साध ।
 > स्यात् । नः । सूनुः । तनयः । विजावा । अग्ने । सा । ते । सुमतिः । भूतु । अस्मे
 > इति ॥ ५ ॥
+
+> *iḷāṃ | agne | purudaṃsaṃ | saniṃ | goḥ | śaśvattamaṃ | havamānāya | sādha |*
+> *syāt | naḥ | sūnuḥ | tanayaḥ | vijāvā | agne | sā | te | sumatiḥ | bhūtu | asme*
+> *iti ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -13827,6 +14265,9 @@ In this Ṛk the meaning "son" is given for the word सूनो (*sūno*), and
 
 > निर्म॑थितः॒ सुधि॑त॒ आ स॒धस्थे॒ युवा॑ क॒विर॑ध्व॒रस्य॑ प्रणे॒ता ।
 > जूर्य॑त्स्व॒ग्निर॒जरो॒ वने॒ष्वत्रा॑ दधे अ॒मृतं॑ जा॒तवे॑दाः ॥ १ ॥
+
+> *nirmathitaḥ sudhita ā sadhasthe yuvā kaviradhvarasya praṇetā |*
+> *jūryatsvagnirajaro vaneṣvatrā dadhe amṛtaṃ jātavedāḥ ‖ 1 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -13942,6 +14383,10 @@ Churned (by the friction of the sticks), duly placed in the sacrificial chamber,
 > अग्ने । वि । पश्य । बृहता । अभि । राया । इषां । नः । नेता । भवतात् । अनु ।
 > द्यून् ॥ २ ॥
 
+> *amaṃthiṣṭāṃ | bhāratā | revat | agniṃ | devaśravāḥ | devavātaḥ | sudakṣaṃ |*
+> *agne | vi | paśya | bṛhatā | abhi | rāyā | iṣāṃ | naḥ | netā | bhavatāt | anu |*
+> *dyūn ‖ 2 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे अग्ने भारता भारतौ भरतस्य पुत्रौ देवश्रवा देववातश्चेत्युभौ सुदक्षं
@@ -14037,10 +14482,16 @@ The two sons of Bharata, Devashravas and Devavata, have churned the very powerfu
 > दश॒ क्षिपः॑ पू॒र्व्यं सी॑मजीजन॒न्तु जा॑तं मा॒तृषु॑ प्रि॒यं ।
 > अ॒ग्निं स्तु॑हि दैववा॒तं दे॑वश्रवो॒ यो जना॑ना॒मस॑द्व॒ती ॥ ३ ॥
 
+> *daśa kṣipaḥ pūrvyaṃ sīmajījanantu jātaṃ mātṛṣu priyaṃ |*
+> *agniṃ stuhi daivavātaṃ devaśravo yo janānāmasadvatī ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > दश । क्षिपः । पूर्व्यं । सीं । अजीजनन् । सुजातं । मातृषु । प्रियं ।
 > अग्निं । स्तुहि । दैववातं । देवश्रवः । यः । जनानां । असत् । वशी ॥ ३ ॥
+
+> *daśa | kṣipaḥ | pūrvyaṃ | sīṃ | ajījanan | sujātaṃ | mātṛṣu | priyaṃ |*
+> *agniṃ | stuhi | daivavātaṃ | devaśravaḥ | yaḥ | janānāṃ | asat | vaśī ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -14119,10 +14570,16 @@ By the sentence मातृषु सुजातं प्रियं दै�
 > नि त्वा॑ दधे॒ वर॒ आ पृ॑थि॒व्या इळा॑यास्प॒दे सु॑दिन॒त्वे अह्नां॑ ।
 > दृ॒षद्व॑त्यां॒ मानु॑ष आस॒यायां॒ सर॑स्वत्यां रे॒वद॑ग्ने दिदीहि ॥ ४ ॥
 
+> *ni tvā dadhe vara ā pṛthivyā iḷāyāspade sudinatve ahnāṃ |*
+> *dṛṣadvatyāṃ mānuṣa āsayāyāṃ sarasvatyāṃ revadagne didīhi ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > नि । त्वा । दधे । वरे । आ । पृथिव्याः । इळायाः । पदे । सुदिनत्वे । अह्नां ।
 > दृषत्त्वत्यां । मानुषे ' आपयायां । सरस्वत्यां । रेवत् । अग्ने । दिदीहि ॥ ४ ॥
+
+> *ni | tvā | dadhe | vare | ā | pṛthivyāḥ | iḷāyāḥ | pade | sudinatve | ahnāṃ |*
+> *dṛṣattvatyāṃ | mānuṣe ' āpayāyāṃ | sarasvatyāṃ | revat | agne | didīhi ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -14221,11 +14678,18 @@ Sāyaṇa has explained that the words आपया (*āpayā*) and सरस्
 > इळा॑मग्ने पुरु॒दंसं॑ स॒निं गोः श॑श्वत्त॒मं हव॑मानाय साध ।
 > स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ॥ ५ ॥
 
+> *iḷāmagne purudaṃsaṃ saniṃ goḥ śaśvattamaṃ havamānāya sādha |*
+> *syānnaḥ sūnustanayo vijāvāgne sā te sumatirbhūtvasme ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > इळां । अग्ने । पुरुदंसं । सनिं । गोः । शश्वत्तमं । हवमानाय । साध ।
 > स्यात् । नः । सूनुः । तनयः । विजावा । अग्ने । सा । ते । सुमतिः । भूतु । अस्मे
 > इति ॥ ५ ॥
+
+> *iḷāṃ | agne | purudaṃsaṃ | saniṃ | goḥ | śaśvattamaṃ | havamānāya | sādha |*
+> *syāt | naḥ | sūnuḥ | tanayaḥ | vijāvā | agne | sā | te | sumatiḥ | bhūtu | asme*
+> *iti ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -14342,10 +14806,16 @@ Grant, Agni, to the offerer of the oblation earth the giver of cattle, the means
 > अग्ने॒ सह॑स्व॒ पृत॑ना अ॒भिमा॑ती॒रपा॑स्य ।
 > दु॒ष्टर॒स्तर॒न्नरा॑ती॒र्वर्चो॑ धा य॒ज्ञवा॑हसे ॥ १ ॥
 
+> *agne sahasva pṛtanā abhimātīrapāsya |*
+> *duṣṭarastarannarātīrvarco dhā yajñavāhase ‖ 1 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । सहस्व । पृतनाः । अभिमातीः । अप । अस्य ।
 > दुस्तरः । तरन् । अरातीः । वर्चः । धाः । यज्ञवाहसे ॥ १ ॥
+
+> *agne | sahasva | pṛtanāḥ | abhimātīḥ | apa | asya |*
+> *dustaraḥ | taran | arātīḥ | varcaḥ | dhāḥ | yajñavāhase ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -14424,10 +14894,16 @@ Sāyaṇa, having said that the word ಆರಾತಿ [so printed, as supplied] m
 > अग्न॑ इ॒ळा समि॑ध्यसे वी॒तिहो॑त्रो॒ अम॑र्त्यः ।
 > जु॒षस्व॒ सू नो॑ अध्व॒रं ॥ २ ॥
 
+> *agna iḷā samidhyase vītihotro amartyaḥ |*
+> *juṣasva sū no adhvaraṃ ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । इळा । सं । इध्रसे । वीतिहोत्रः । अमर्त्यः ।
 > जुषस्वः । सु , नः । अध्वरं ॥ २ ॥
+
+> *agne | iḷā | saṃ | idhrase | vītihotraḥ | amartyaḥ |*
+> *juṣasvaḥ | su , naḥ | adhvaraṃ ‖ 2 ‖*
 
 *[Printed oddities in the Ṛk 2 text as supplied: the Saṃhitā begins ಅಗ್ನ ಇಳಾ where the Pada has ಅಗ್ನೇ; the Pada has ಇಧ್ರಸೇ where the Saṃhitā has ಸಮಿಧ್ಯಸೇ; and the Pada has ಜುಷಸ್ವಃ and ಸು , ನಃ with a visarga and a spaced comma.]*
 
@@ -14488,10 +14964,16 @@ Agni, (who art) immortal and who art gratified byoblations [sic], thou. art kind
 > अग्ने॑ द्यु॒म्नेन॑ जागृवे॒ सह॑सः सूनवाहुत ।
 > एदं ब॒र्हिः स॑दो॒ मम॑ ॥ ३ ॥
 
+> *agne dyumnena jāgṛve sahasaḥ sūnavāhuta |*
+> *edaṃ barhiḥ sado mama ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । द्युम्नेन । जाग्रवे । सहसः । सूनो इति । आहुत ।
 > आ । इदं । बर्हिः । सदः । मम ॥ ३ ॥
+
+> *agne | dyumnena | jāgrave | sahasaḥ | sūno iti | āhuta |*
+> *ā | idaṃ | barhiḥ | sadaḥ | mama ‖ 3 ‖*
 
 *[Printed oddity: the Pada has ಜಾಗ್ರವೇ where the Saṃhitā and the bhāṣya have ಜಾಗೃವೇ; as supplied.]*
 
@@ -14593,6 +15075,9 @@ In the present Ṛk, addressing Agni by this word, the sacrificer's wish is desc
 > अग्ने । विश्वेभिः । अग्निभिः । देवेभिः । महय । गिरः ।
 > यज्ञेषु । ये । ऊं इति । चायवः ॥ ४ ॥
 
+> *agne | viśvebhiḥ | agnibhiḥ | devebhiḥ | mahaya | giraḥ |*
+> *yajñeṣu | ye | ūṃ iti | cāyavaḥ ‖ 4 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे आग्ने देवेभिर्द्योतमानैर्विश्वेभिः सर्वैरग्निभिर्यष्टव्यतया स्थितैरग्निभिः
@@ -14655,10 +15140,16 @@ Agni, with all the divine fires, respect the praises of those who in (their) sac
 > अग्ने॒ दा दा॒शुषे॑ र॒यिं वी॒रवं॑तं॒ परी॑णसं ।
 > शि॒शी॒हि नः॑ सूनु॒मतः॑ ॥ ५ ॥
 
+> *agne dā dāśuṣe rayiṃ vīravaṃtaṃ parīṇasaṃ |*
+> *śiśīhi naḥ sūnumataḥ ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । दाः । दाशुषे । रयिं । वीरवंतं । परीणसं ।
 > शिशीहि । नः । सूनुमतः H ५ ॥
+
+> *agne | dāḥ | dāśuṣe | rayiṃ | vīravaṃtaṃ | parīṇasaṃ |*
+> *śiśīhi | naḥ | sūnumataḥ H 5 ‖*
 
 *[Printed oddity: the Pada line ends with the Latin letter H in place of the first sign of the closing double bar before the Ṛk number; as supplied.]*
 
@@ -14761,6 +15252,9 @@ Make us prosperous, possessed of offspring.
 > अग्ने । दिवः । सूनुः । असि । प्रचेताः । तना । पृथिव्याः । उत । विश्ववेदाः ।
 > यधक् । देवान् । इह । यज । चिकित्वः ॥ १ ॥
 
+> *agne | divaḥ | sūnuḥ | asi | pracetāḥ | tanā | pṛthivyāḥ | uta | viśvavedāḥ |*
+> *yadhak | devān | iha | yaja | cikitvaḥ ‖ 1 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > विश्वामित्रः स्तौति । हे अग्ने विश्ववेदाः सर्वविषयज्ञानवान् प्रचेताः
@@ -14824,6 +15318,9 @@ Agni you are omniscient, and the discriminator (of acts), you are the son of hea
 > अग्निः । सनोति । वीर्याणि । विद्वान् । सनोति । वाजं । अमृताय । भूषन् ।
 > सः । नः । देवान् । आ । इह । वह । पुरुक्षो इति पुरुक्षो ॥ २ ॥
 
+> *agniḥ | sanoti | vīryāṇi | vidvān | sanoti | vājaṃ | amṛtāya | bhūṣan |*
+> *saḥ | naḥ | devān | ā | iha | vaha | purukṣo iti purukṣo ‖ 2 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > विद्वान् कर्माभिज्ञो योऽग्निर्वीर्याणि पशुपुत्रादिसंपद्रूपाणि साम-
@@ -14883,11 +15380,18 @@ The wise Agni bestows faculties (securing prosperity and descendants) ; adorning
 > अ॒ग्निर्द्यावा॑पृथि॒वी वि॒श्वज॑न्ये॒ आ भा॑ति दे॒वी अ॒मृते॒ अमू॑रः ।
 > क्षय॒न्वाजैः॑ पुरुश्चं॒द्रो नमो॑भिः ॥ ३ ॥
 
+> *agnirdyāvāpṛthivī viśvajanye ā bhāti devī amṛte amūraḥ |*
+> *kṣayanvājaiḥ puruścaṃdro namobhiḥ ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्निः । द्यावापृथिवी इति । विश्वजन्ये इति विश्वजन्ये । आ । भाति । देवी इति । अमृते
 > इति । अमूरः ।
 > क्षयन् । वाजैः । पुरुचंद्रः । नमःभिः ॥ ३ ॥
+
+> *agniḥ | dyāvāpṛthivī iti | viśvajanye iti viśvajanye | ā | bhāti | devī iti | amṛte*
+> *iti | amūraḥ |*
+> *kṣayan | vājaiḥ | purucaṃdraḥ | namaḥbhiḥ ‖ 3 ‖*
 
 *[The page, and with it the window, ends with the Pada-pāṭha of Ṛk 3.]*
 
@@ -14972,6 +15476,9 @@ in the Ṛk मूरा अमूर न वयं चिकित्वो म
 
 > अग्ने । इंद्रः । च । दाशुषः । दुरोणे । सुतवतः । यज्ञं । इह । उप ! यातु ।
 > अमर्धंता । सोमपेयाय । देवा ॥ ४ ॥
+
+> *agne | iṃdraḥ | ca | dāśuṣaḥ | duroṇe | sutavataḥ | yajñaṃ | iha | upa ! yātu |*
+> *amardhaṃtā | somapeyāya | devā ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -15150,6 +15657,9 @@ That the Ṛk अग्निरस्मि (*agnirasmi*) (the seventh Ṛk) is
 
 > वै॒श्वा॒न॒रं मन॑सा॒ग्निं नि॒चाय्या॑ ह॒विष्मं॑तो अनुष॒त्यं स्व॒र्विदं॑ ।
 > सु॒दानुं॑ दे॒वं र॑थि॒रं व॑सू॒यवो॑ गी॒र्भी र॒ण्वं कु॑ति॒कासो॑ हवामहे ॥ १ ॥
+
+> *vaiśvānaraṃ manasāgniṃ nicāyyā haviṣmaṃto anuṣatyaṃ svarvidaṃ |*
+> *sudānuṃ devaṃ rathiraṃ vasūyavo gīrbhī raṇvaṃ kutikāso havāmahe ‖ 1 ‖*
 
 *[The label of the next section is printed garbled, "ಪವಪಾಠಿ", in the supplied text; kept here, and the standard label of the Pada-pāṭha is used.]*
 
@@ -15442,6 +15952,9 @@ Sāyaṇa here shows the compound-resolution विश्वानर एव व
 > तं शु॒भ्रम॒ग्निमव॑से हवामहे वैश्वान॒रं मा॑त॒रिश्वा॑नमु॒क्थ्यं॑ ।
 > बृह॒स्पतिं॒ मनु॑षो दे॒वता॑तये॒ विप्रं॒ श्रोता॑र॒मति॑थिं रघु॒ष्यदं॑ ॥
 
+> *taṃ śubhramagnimavase havāmahe vaiśvānaraṃ mātariśvānamukthyaṃ |*
+> *bṛhaspatiṃ manuṣo devatātaye vipraṃ śrotāramatithiṃ raghuṣyadaṃ ‖*
+
 **॥ पदपाठः ॥**
 
 > तं । शुभ्रं । अग्निं । अवसे । हवामहे । वैश्वानरं । मातरिश्वानं । उक्ष्यं ।
@@ -15548,10 +16061,16 @@ This Vaiśvānara Agni shines with radiance; shines in the atmosphere in the for
 > अश्वो॒ न क्रंद॒ञ्नि॑भिः॒ समि॑ध्यते वैश्वान॒रः कु॑शि॒केभि॑युर्यु॒गेयु॑गे ।
 > स नो॑ अ॒ग्निः सु॒वीर्यं॒ स्वश्वं॒ दधा॑तु॒ रत्न॑म॒मृते॑षु॒ जागृ॑पि ॥
 
+> *aśvo na kraṃdañnibhiḥ samidhyate vaiśvānaraḥ kuśikebhiyuryugeyuge |*
+> *sa no agniḥ suvīryaṃ svaśvaṃ dadhātu ratnamamṛteṣu jāgṛpi ‖*
+
 **॥ पदपाठः ॥**
 
 > अश्वः । न । क्रंदन् । जनिभिः । सं : इध्यते वैश्वानरः । कुशिकेभिः । युगेयुगे
 > सः । नः । अग्निः । सुवीर्यं । सुअश्वं दधातु ; रत्नं । अमृतेषु । जागृवि ॥
+
+> *aśvaḥ | na | kraṃdan | janibhiḥ | saṃ : idhyate vaiśvānaraḥ | kuśikebhiḥ | yugeyuge*
+> *saḥ | naḥ | agniḥ | suvīryaṃ | suaśvaṃ dadhātu ; ratnaṃ | amṛteṣu | jāgṛvi ‖*
 
 *[Differences in the supplied text, kept as supplied: the Saṃhitā has the joined forms ಕ್ರಂದಞ್ನಿಭಿಃ and ಕುಶಿಕೇಭಿಯುರ್ಯುಗೇಯುಗೇ, where the Pada has separate words, and ends with ಜಾಗೃಪಿ. A stray word stands between the two blocks: ಹಸಿವು. The Pada joins the compound in ಸುಅಶ್ವಂ, has stray punctuation marks (a colon after one word, a semicolon after another), and ends with ಜಾಗೃವಿ. The Ṛk number is printed at the end of neither block.]*
 
@@ -15631,10 +16150,16 @@ The word ratna: रमंतेऽस्मिन्निति रत्नं
 > प्र यं॑तु॒ वाजा॒स्तवि॑षीभिर॒ग्नयः॑ शु॒भे संमि॑श्लाः॒ पृष॑तीरयुक्षत ।
 > बृ॒ह॒दुक्षो॑ म॒रुतो॑ वि॒श्ववे॑दसः॒ प्र वे॑पयंति॒ पर्व॑ता॒ अदा॑भ्याः ॥
 
+> *pra yaṃtu vājāstaviṣībhiragnayaḥ śubhe saṃmiślāḥ pṛṣatīrayukṣata |*
+> *bṛhadukṣo maruto viśvavedasaḥ pra vepayaṃti parvatā adābhyāḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > प्र । यंतु । वाजाः । तविषीभिः । अग्नयः । शुभे । संमिश्लाः । पृषतीः । अयुक्षत ।
 > बृहत्ऽउक्षः । मरुतः । विश्ववेदसः । प्र । वेपयंति । पर्वतान् । अदाभ्याः ॥ ४ ॥
+
+> *pra | yaṃtu | vājāḥ | taviṣībhiḥ | agnayaḥ | śubhe | saṃmiślāḥ | pṛṣatīḥ | ayukṣata |*
+> *bṛhat 'ukṣaḥ | marutaḥ | viśvavedasaḥ | pra | vepayaṃti | parvatān | adābhyāḥ ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -15823,10 +16348,16 @@ The fire-beautified, all-agitating Maruts : we seek their fierce radiance for pr
 > व्रातं॑ व्रातं ग॒णंग॑णं सुश॒स्तिभि॑र॒ग्नेर्भामं॑ म॒रुता॒मोज॑ ईमहे।
 > पृष॑दश्वासो अनव॒भ्ररा॑धसो॒ गंता॑रो य॒ज्ञं वि॒दथे॑षु॒ धीराः॑ ॥
 
+> *vrātaṃ vrātaṃ gaṇaṃgaṇaṃ suśastibhiragnerbhāmaṃ marutāmoja īmahe|*
+> *pṛṣadaśvāso anavabhrarādhaso gaṃtāro yajñaṃ vidatheṣu dhīrāḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > व्रातंव्रातं । गणंऽगणं । सुशस्तिभिः । अग्नेः । भामं । मरुतां । ओजः । ईमहे ।
 > पृषत्ऽअश्वासः । अनवभ्रऽराधसः । गंतारः । यज्ञं । विदथेषु । धीराः ॥ ६ ॥
+
+> *vrātaṃvrātaṃ | gaṇaṃ 'gaṇaṃ | suśastibhiḥ | agneḥ | bhāmaṃ | marutāṃ | ojaḥ | īmahe |*
+> *pṛṣat 'aśvāsaḥ | anavabhra 'rādhasaḥ | gaṃtāraḥ | yajñaṃ | vidatheṣu | dhīrāḥ ‖ 6 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -15911,10 +16442,16 @@ The sacrificers born in the Kuśika gotra, व्रातंव्रातं,
 > अ॒ग्निर॑स्मि॒ जन्म॑ना जा॒तवे॑दा घृ॒तं मे॒ चक्षु॑र॒मृतं॑ म आ॒सन् ।
 > अ॒र्कस्त्रि॒धातू॒ रज॑सो वि॒मानोज॑स्रो घ॒र्मो ह॒विर॑स्मि॒ नाम॑ ॥ ६ ॥
 
+> *agnirasmi janmanā jātavedā ghṛtaṃ me cakṣuramṛtaṃ ma āsan |*
+> *arkastridhātū rajaso vimānojasro gharmo havirasmi nāma ‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्निः । अस्मि । जन्मना । जातवेदाः । घृतं । मे । चक्षुः । अमृतं । मे । आसन् ।
 > अर्कः । त्रिधातुः । रजसः । विमानः । अजस्रः । घर्मः । हविः । अस्मि । नाम ॥ ७ ॥
+
+> *agniḥ | asmi | janmanā | jātavedāḥ | ghṛtaṃ | me | cakṣuḥ | amṛtaṃ | me | āsan |*
+> *arkaḥ | tridhātuḥ | rajasaḥ | vimānaḥ | ajasraḥ | gharmaḥ | haviḥ | asmi | nāma ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -16073,6 +16610,9 @@ In the matter of making known the nature of the Self, Agni has stated his own ex
 > त्रि॒भिः प॒वित्रै॒रपु॑पो॒द्ध्य१॒॑र्कं हृ॒दा म॒तिं ज्योति॒रनु॑ प्रजा॒नन् ।
 > वर्षि॑ष्ठं॒ रत्न॑मकृत स्व॒धाभि॒रादिद्द्यावा॑पृथि॒वी पर्य॑पश्यत् ॥ ८ ॥
 
+> *tribhiḥ pavitrairapupoddhya1rkaṃ hṛdā matiṃ jyotiranu prajānan |*
+> *varṣiṣṭhaṃ ratnamakṛta svadhābhirādiddyāvāpṛthivī paryapaśyat ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 *[The label of the Pada-pāṭha is printed twice, the first time followed by nothing; as supplied.]*
@@ -16184,6 +16724,9 @@ Here the word हृदा (*hṛdā*) is given the meaning inner organ. The par
 
 > श॒तधा॑र॒मुत्स॒मक्षी॑यमाणं विप॒श्चितं॑ पि॒तरं॒ वक्त्वा॑नां ।
 > मे॒ळिं मदं॑तं पि॒त्रोरु॒पस्थे॒ तं रो॑दसी पिपृतं सत्य॒वाचं॑ ॥ ९ ॥
+
+> *śatadhāramutsamakṣīyamāṇaṃ vipaścitaṃ pitaraṃ vaktvānāṃ |*
+> *meḷiṃ madaṃtaṃ pitrorupasthe taṃ rodasī pipṛtaṃ satyavācaṃ ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -16378,6 +16921,9 @@ In the third इल्लियल्लि (*illiyalli*) [so printed] of the sa
 > प्र । वः । वाजाः । अभिद्यवः । हविष्मंतः । घृताच्या ।
 > देवान् । जिगाति । सुम्नयुः ॥ १ ॥
 
+> *pra | vaḥ | vājāḥ | abhidyavaḥ | haviṣmaṃtaḥ | ghṛtācyā |*
+> *devān | jigāti | sumnayuḥ ‖ 1 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे ऋतवो वाजाः । वजंति गच्छंतीति वाजा मासाः । अभिद्यवः । अभितो
@@ -16455,10 +17001,16 @@ The months, the half months, (the gods) who are the receivers of oblations, with
 > ईळे॑ अ॒ग्निं वि॑प॒श्चितं॑ गि॒रा य॒ज्ञस्य॒ साध॑नं ।
 > श्रु॒ष्टी॒वानं॑ धि॒तावा॑नं ॥ २ ॥
 
+> *īḷe agniṃ vipaścitaṃ girā yajñasya sādhanaṃ |*
+> *śruṣṭīvānaṃ dhitāvānaṃ ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > ईळे । अग्निं । विपःचितं । गिरा । यज्ञस्य । साधनं ।
 > श्रुष्टीऽवानं । धितऽवानं ॥ २ ॥
+
+> *īḷe | agniṃ | vipaḥcitaṃ | girā | yajñasya | sādhanaṃ |*
+> *śruṣṭī 'vānaṃ | dhita 'vānaṃ ‖ 2 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -16514,10 +17066,16 @@ The seer Viśvāmitra, the seer of the mantra, praises with words in the form of
 > अग्ने॑ श॒केम॑ ते व॒यं यमं॑ दे॒वस्य॑ वा॒जिनः॑ ।
 > अति॒ द्वेषां॑सि तरेम ॥ ३ ॥
 
+> *agne śakema te vayaṃ yamaṃ devasya vājinaḥ |*
+> *ati dveṣāṃsi tarema ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । शकेम । ते । वयं । यमं । देवस्य । वाजिनः ।
 > अति । द्वेषांसि । तरेम ॥ ३ ॥
+
+> *agne | śakema | te | vayaṃ | yamaṃ | devasya | vājinaḥ |*
+> *ati | dveṣāṃsi | tarema ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -16577,12 +17135,18 @@ The great power of the sacrificers, who are able to make Agni, who is shining an
 > स॒मि॒ध्यमा॑नो अध्व॒रे॒३॒॑ ग्निः पा॑व॒क ईड्यः॑ ।
 > शो॒चिष्के॑श॒स्तमी॑महे ॥ ४ ॥
 
+> *samidhyamāno adhvare3 gniḥ pāvaka īḍyaḥ |*
+> *śociṣkeśastamīmahe ‖ 4 ‖*
+
 *[Note: the supplied Saṃhitā line has the pluta figure 3 as a separate sign before the word beginning the next syllable group; the accent script has added the accented pluta of the reference text, so the figure appears twice in the line above (once accented, once plain). Left as built; see the accent report.]*
 
 **॥ पदपाठः ॥**
 
 > संइध्यमानः । अध्वरे । अग्निः । पावकः । ईड्यः ।
 > शोचिःकेशः । तं । ईमहे ॥४॥
+
+> *saṃidhyamānaḥ | adhvare | agniḥ | pāvakaḥ | īḍyaḥ |*
+> *śociḥkeśaḥ | taṃ | īmahe ‖4‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -16627,10 +17191,16 @@ and पावकः (*pāvakaḥ*) as the producer of purification; thus describ
 > पृ॒थु॒पाजा॒ अम॑त्यो घृ॒तनि॑र्णि॒क्स्वा॑हुतः ।
 > अ॒ग्निर्य॒ज्ञस्य॑ हव्य॒वाट् ॥ ५ ॥
 
+> *pṛthupājā amatyo ghṛtanirṇiksvāhutaḥ |*
+> *agniryajñasya havyavāṭ ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > पृथुपाजाः । अमर्त्यः । घृतनिर्निक् । सुआहुतः ।
 > अग्निः । यज्ञस्य । हव्यवाट् ॥५॥
+
+> *pṛthupājāḥ | amartyaḥ | ghṛtanirnik | suāhutaḥ |*
+> *agniḥ | yajñasya | havyavāṭ ‖5‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -16693,10 +17263,16 @@ Agni, who has power in the form of exceeding radiance, who purifies the substanc
 > तं स॒बाधो॑ य॒तस्रु॑च इ॒त्था धि॒या य॒ज्ञवं॑तः ।
 > आ च॑क्रुर॒ग्निमू॒तये॑ ॥ ६ ॥
 
+> *taṃ sabādho yatasruca itthā dhiyā yajñavaṃtaḥ |*
+> *ā cakruragnimūtaye ‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > तं । सबाधः । यत्स्रुचः । इत्था । धिया । यज्ञवंतः ।
 > आ । चक्रुः । अग्निं । ऊतये ॥६॥
+
+> *taṃ | sabādhaḥ | yatsrucaḥ | itthā | dhiyā | yajñavaṃtaḥ |*
+> *ā | cakruḥ | agniṃ | ūtaye ‖6‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -16750,10 +17326,16 @@ The exorcisers (of the demons), lifting up their ladles, and offering sacrifice,
 > होता॑ दे॒वो अम॑र्त्यः पु॒रस्ता॑ देति मा॒यया॑ ।
 > वि॒दथा॑नि प्रचो॒दय॑न् ॥ ७ ॥
 
+> *hotā devo amartyaḥ purastā deti māyayā |*
+> *vidathāni pracodayan ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > होता । देवः । अमत्यर्‍यः । पुरस्तात् । एति । मायया ।
 > विदथानि । प्रचोदयन् ॥ ७ ॥
+
+> *hotā | devaḥ | amatyaryaḥ | purastāt | eti | māyayā |*
+> *vidathāni | pracodayan ‖ 7 ‖*
 
 *[The Pada line of the supplied text prints the word for "immortal" with a stray ligature mark after the first syllable; kept as supplied.]*
 
@@ -16808,10 +17390,16 @@ Agni, who is the hotṛ performing the homa, who is without the nature of death,
 > वा॒जी वाजे॑षु धीयतेऽध्व॒रेषु॒ प्र णे॑यते ।
 > विप्रो॑ य॒ज्ञस्य॒ साध॑नः ॥ ८ ॥
 
+> *vājī vājeṣu dhīyate 'dhvareṣu pra ṇeyate |*
+> *vipro yajñasya sādhanaḥ ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > वाजी । वाजेषु । धीयते । अध्वरेषु । प्र । नीयते ।
 > विप्रः । यज्ञस्य । साधनः ॥ ८ ॥
+
+> *vājī | vājeṣu | dhīyate | adhvareṣu | pra | nīyate |*
+> *vipraḥ | yajñasya | sādhanaḥ ‖ 8 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -16878,6 +17466,9 @@ The mighty Agni is placed ( foremost by the gods ) in battle ; he is brought for
 > धिया । चक्रे । वरेण्यः । भूतानां । गर्भं । आ । दधे ।
 > दक्षस्य । पितरं । तना ॥ ९ ॥
 
+> *dhiyā | cakre | vareṇyaḥ | bhūtānāṃ | garbhaṃ | ā | dadhe |*
+> *dakṣasya | pitaraṃ | tanā ‖ 9 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > योऽग्निर्धियाधानपवमानेष्टिरूपेण कर्मणा चक्र आहवनीयरूपतया कृ
@@ -16936,10 +17527,16 @@ and describe the contradiction that is seen about the birth of Dakṣa and Aditi
 > नि त्वा॑ दधे॒ वरे॑ण्यं॒ दक्ष॑स्ये॒ळा स॑हस्कृत ।
 > अग्ने॑ सुदी॒तिमु॒शिजं॑ ॥ १० ॥
 
+> *ni tvā dadhe vareṇyaṃ dakṣasyeḷā sahaskṛta |*
+> *agne sudītimuśijaṃ ‖ 10 ‖*
+
 **॥ पदपाठः ॥**
 
 > नि । त्वा । दधे । वरेण्यं । दक्षस्य । इळा । सहःकृत ।
 > अग्ने । सुदीतिं । उशिजं ॥ १० ॥
+
+> *ni | tvā | dadhe | vareṇyaṃ | dakṣasya | iḷā | sahaḥkṛta |*
+> *agne | sudītiṃ | uśijaṃ ‖ 10 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -16998,6 +17595,9 @@ Agni, strength-engendered, Ila ( the daughter ) of Daksha has sustained you, the
 > अ॒ग्निं यं॒तुर॑म॒पु र॑मृ॒तस्य॒ योगे॑ व॒नुषः॑ ।
 > विप्रा॒ वाजैः॒ समिं॑धते ॥ ११ ॥
 
+> *agniṃ yaṃturamapu ramṛtasya yoge vanuṣaḥ |*
+> *viprā vājaiḥ samiṃdhate ‖ 11 ‖*
+
 *[In the Saṃhitā block the supplied text has a stray space inside the second word and the conjunct of the Pada block is missing there; as supplied.]*
 
 *[Before the Pada block of Ṛk 11 the supplied text has a garbled label line, a corrupted form of the word for Pada-pāṭha. It is kept as supplied in the Kannada file and the standard label is used here.]*
@@ -17006,6 +17606,9 @@ Agni, strength-engendered, Ila ( the daughter ) of Daksha has sustained you, the
 
 > अग्निं । यंतुरं । अप्तुरं । ऋतस्य । योगे । वनुषः ।
 > विप्राः । वाजैः । सं । इंधते ॥ ११ ॥
+
+> *agniṃ | yaṃturaṃ | apturaṃ | ṛtasya | yoge | vanuṣaḥ |*
+> *viprāḥ | vājaiḥ | saṃ | iṃdhate ‖ 11 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -17065,10 +17668,16 @@ The wise ( priests ) performers ( of the ceremony ) kindle with oblations for th
 > ऊ॒र्जो नपा॑तमध्व॒रे दी॑दि॒वांस॒मुप॒ द्यवि॑ ।
 > अ॒ग्निमी॑ळे क॒विक्र॑तुं ॥ १२ ॥
 
+> *ūrjo napātamadhvare dīdivāṃsamupa dyavi |*
+> *agnimīḷe kavikratuṃ ‖ 12 ‖*
+
 **॥ पदपाठः ॥**
 
 > ऊर्जः । नपातं । अध्वरे । दीदिवांसं । उप । द्यवि ।
 > अग्निं । ईळे । कविक्रतुं ॥ १२ ॥
+
+> *ūrjaḥ | napātaṃ | adhvare | dīdivāṃsaṃ | upa | dyavi |*
+> *agniṃ | īḷe | kavikratuṃ ‖ 12 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -17136,6 +17745,9 @@ It is explained that the seer of the mantra, the sage Viśvāmitra (and the ṛt
 > ईळेन्यः । नमस्यः । तिरः । तमांसि । दर्शतः ।
 > सं । अग्निः । इध्यते । वृषा ॥ १३ ॥
 
+> *īḷenyaḥ | namasyaḥ | tiraḥ | tamāṃsi | darśataḥ |*
+> *saṃ | agniḥ | idhyate | vṛṣā ‖ 13 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > ईळेन्यः स्तोतृभिरीड्योऽत एव नमस्यः सर्वैर्नमस्कार्यस्तमांसि तिरो
@@ -17200,6 +17812,9 @@ Agni, who is to be worshipped with praise and with prostration, the dispeller of
 
 > वृषो इति । अग्निः । सं । इध्यते । अश्वः । न । देववाहनः ।
 > तं । हविष्मंतः । ईळते ॥ १४ ॥
+
+> *vṛṣo iti | agniḥ | saṃ | idhyate | aśvaḥ | na | devavāhanaḥ |*
+> *taṃ | haviṣmaṃtaḥ | īḷate ‖ 14 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -17267,6 +17882,9 @@ used together with it, has explained the particle उ (*u*) by assigning to it t
 
 > वृषणं । त्वा । वयं । वृषन् । वृषणः । सं । इधीमहि ।
 > अग्ने । दीद्यतं । बृहत् ॥ १५ ॥
+
+> *vṛṣaṇaṃ | tvā | vayaṃ | vṛṣan | vṛṣaṇaḥ | saṃ | idhīmahi |*
+> *agne | dīdyataṃ | bṛhat ‖ 15 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -17391,6 +18009,9 @@ In the Mādhyandina-savana also, in the sviṣṭakṛd-rite of the savanīya-pu
 > अग्ने । जुषस्व । नः । हविः । पुरोळाशं । जातवेदः ।
 > प्रातःसावे । धियावसो इति धियावसो ॥ १ ॥
 
+> *agne | juṣasva | naḥ | haviḥ | puroḷāśaṃ | jātavedaḥ |*
+> *prātaḥsāve | dhiyāvaso iti dhiyāvaso ‖ 1 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > विश्वामित्रः स्तौति । जातवेदः जातप्रज्ञ धियावसो । धिया स्तोत्रेण वसु
@@ -17450,6 +18071,9 @@ Agni, by whom all is known, you reward pious acts with wealth; accept our cakes 
 
 > पु॒रो॒ळा अ॑ग्ने पच॒तस्तुभ्यं॑ वा घा॒ परि॑ष्कृतः ।
 > तं जु॑षस्व यविष्ठ्य ॥ २ ॥
+
+> *puroḷā agne pacatastubhyaṃ vā ghā pariṣkṛtaḥ |*
+> *taṃ juṣasva yaviṣṭhya ‖ 2 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -17540,10 +18164,16 @@ The cakes and butter are dressed, Agni, and verily prepared for you; accept them
 > अग्ने॑ वी॒हि पु॑रो॒ळाश॒माहु॑तं ति॒रोअ॑ह्न्यं ।
 > सह॑सः सू॒नुर॑स्यध्व॒रे हि॒तः ॥ ३ ॥
 
+> *agne vīhi puroḷāśamāhutaṃ tiroahnyaṃ |*
+> *sahasaḥ sūnurasyadhvare hitaḥ ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । वीहि । पुरोळाशं । आहुतं । तिरःअह्न्यं ।
 > सहसः । सूनुः । असि । अध्वरे । हितः ॥ ३ ॥
+
+> *agne | vīhi | puroḷāśaṃ | āhutaṃ | tiraḥahnyaṃ |*
+> *sahasaḥ | sūnuḥ | asi | adhvare | hitaḥ ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -17610,10 +18240,16 @@ Eat, Agni, the cakes and butter offered as the day disappears : you, son of stre
 > माध्यं॑दिने॒ सव॑ने जातवेदः पुरो॒ळाश॑मि॒ह क॑वे जुषस्व ।
 > अग्ने॑ य॒ह्वस्य॒ तव॑ भाग॒धेयं॒ न प्र मि॑नंति वि॒दथे॑षु॒ धीराः॑ ॥
 
+> *mādhyaṃdine savane jātavedaḥ puroḷāśamiha kave juṣasva |*
+> *agne yahvasya tava bhāgadheyaṃ na pra minaṃti vidatheṣu dhīrāḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > माध्यंदिने । सवने । जातवेदः । पुरोळाशं । इह । कवे । जुषस्व ।
 > अग्ने । यह्वस्य । तव । भागधेयं । न । प्र । मिनंति । विदथेषु । धीराः ॥ ४ ॥
+
+> *mādhyaṃdine | savane | jātavedaḥ | puroḷāśaṃ | iha | kave | juṣasva |*
+> *agne | yahvasya | tava | bhāgadheyaṃ | na | pra | minaṃti | vidatheṣu | dhīrāḥ ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -17697,10 +18333,16 @@ Wise Jatavedas, accept the cakes and butter offered in this sacrifice at the mid
 > अग्ने॑ तृ॒तीये॒ सव॑ने॒ हि कानि॑षः पुरो॒ळाशं॑ सहसः सून॒वाहु॑तं ।
 > अथा॑ दे॒वेष्व॑ध्व॒रं वि॑प॒न्यया॒ धा रत्न॑वंतम॒मृते॑षु॒ जागृ॑विं ॥ ५॥
 
+> *agne tṛtīye savane hi kāniṣaḥ puroḷāśaṃ sahasaḥ sūnavāhutaṃ |*
+> *athā deveṣvadhvaraṃ vipanyayā dhā ratnavaṃtamamṛteṣu jāgṛviṃ ‖ 5‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । त्तृतीये । सवने । हि । कानिषः । पुरोळाशं । सहसः । सूनो इति । आहुतं।
 > अथ । देवेषु । अध्वरं । विपन्यया । धाः । रत्नवंतं । अमृतेषु । जागृविं ॥ ५ ॥
+
+> *agne | ttṛtīye | savane | hi | kāniṣaḥ | puroḷāśaṃ | sahasaḥ | sūno iti | āhutaṃ|*
+> *atha | deveṣu | adhvaraṃ | vipanyayā | dhāḥ | ratnavaṃtaṃ | amṛteṣu | jāgṛviṃ ‖ 5 ‖*
 
 *[In the Pada-pāṭha the word for "third" is printed with a doubled initial consonant (the second word of the line); as supplied.]*
 
@@ -17796,10 +18438,16 @@ Explaining that Agni, because he is born of force, is designated by the words �
 > अग्ने॑ वृधा॒न आहु॑तिं पुरो॒ळाशं॑ जातवेदः ।
 > जु॒षस्व॑ ति॒रोअ॑ह्न्यं ॥ ६ ॥
 
+> *agne vṛdhāna āhutiṃ puroḷāśaṃ jātavedaḥ |*
+> *juṣasva tiroahnyaṃ ‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > अग्ने । वृधानः । आहुतिं । पुरोळाशं । जातवेदः ।
 > जुषस्व । तिरः अह्न्यं ॥ ६ ॥
+
+> *agne | vṛdhānaḥ | āhutiṃ | puroḷāśaṃ | jātavedaḥ |*
+> *juṣasva | tiraḥ ahnyaṃ ‖ 6 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -17991,6 +18639,9 @@ For the word विश्यत्नी (*viśyatnī*) the meaning is explained
 > अरण्योः । निहितः । जातवेदाः । गर्भः इव । सुधितः । गर्भिणीषु ।
 > दिवेऽदिवे । ईड्यः । जागृवत्ऽभिः । हविष्मत्ऽभिः । मनुष्येभिः । अग्निः ॥ २ ॥
 
+> *araṇyoḥ | nihitaḥ | jātavedāḥ | garbhaḥ iva | sudhitaḥ | garbhiṇīṣu |*
+> *dive 'dive | īḍyaḥ | jāgṛvat 'bhiḥ | haviṣmat 'bhiḥ | manuṣyebhiḥ | agniḥ ‖ 2 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > जातवेदाः सर्वविषयज्ञानवानयमग्निररण्योर्निहितः । देवैर्यज्ञार्थं
@@ -18058,6 +18709,9 @@ Jatavedas has been deposited in the two sticks as the embryo is depesited [sic] 
 
 > उ॒त्ता॒नाया॒मन॑ भरा चिकि॒त्त्वान्त्स॒द्यः प्रवी॑ता॒ वृष॑णं जजान ।
 > अ॒रु॒षस्तू॑पो॒ रुश॑दस्य॒ पाज॒ इळा॑यास्पु॒त्रो व॒युने॑जनिष्ट ॥ ३ ॥
+
+> *uttānāyāmana bharā cikittvāntsadyaḥ pravītā vṛṣaṇaṃ jajāna |*
+> *aruṣastūpo ruśadasya pāja iḷāyāsputro vayunejaniṣṭa ‖ 3 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -18157,10 +18811,16 @@ they explain that in वयुनवच्चकार (*vayunavaccakāra*) the 
 > इळा॑यास्ता प॒दे व॒यं नाभा॑ पृथि॒व्या अधि॑ ।
 > जात॑वेदो॒ नि धी॑म॒ह्यग्ने॑ ह॒व्याय॒ वोळ्ह॑वे ॥ ४ ॥
 
+> *iḷāyāstā pade vayaṃ nābhā pṛthivyā adhi |*
+> *jātavedo ni dhīmahyagne havyāya voḷhave ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > इळायाः । त्वा । पदे । वयं । नाभा । पृथिव्याः । अधि ।
 > जातवेदः । नि । धीमहि । अग्ने । हव्याय । वोळ्हवे ॥ ४ ॥
+
+> *iḷāyāḥ | tvā | pade | vayaṃ | nābhā | pṛthivyāḥ | adhi |*
+> *jātavedaḥ | ni | dhīmahi | agne | havyāya | voḷhave ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -18247,10 +18907,16 @@ Agni you are Jatavedas, we place you upon the earth in the centre, in the place 
 > मंथ॑ता नरः क॒विमद्व॑यंतं॒ प्रचे॑तसम॒मृतं॑ सु॒प्रती॑कं ।
 > य॒ज्ञस्य॑ के॒तुं प्र॑थ॒मं पु॒रस्ता॑द॒ग्निं न॑रो जनयता सु॒शेवं॑ ॥
 
+> *maṃthatā naraḥ kavimadvayaṃtaṃ pracetasamamṛtaṃ supratīkaṃ |*
+> *yajñasya ketuṃ prathamaṃ purastādagniṃ naro janayatā suśevaṃ ‖*
+
 **॥ पदपाठः ॥**
 
 > मंथत । नरः । कविं । अद्वयंतं । प्रचेतसं । अमृतं । सुप्रतीकं ।
 > यज्ञस्य । केतुं । प्रथमं । पुरस्तात् । अग्निं । नरः । जनयत । सुशेवं ॥ ५ ॥
+
+> *maṃthata | naraḥ | kaviṃ | advayaṃtaṃ | pracetasaṃ | amṛtaṃ | supratīkaṃ |*
+> *yajñasya | ketuṃ | prathamaṃ | purastāt | agniṃ | naraḥ | janayata | suśevaṃ ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -18472,6 +19138,9 @@ When they rub ( the sticks ) with their arms the radiant Agni bursts forth from 
 > जा॒तो अ॒ग्नी रो॑चते॒ चेकि॑तानो वा॒जी विप्रः॑ कविश॒स्तः सु॒दानुः॑ ।
 > यं दे॒वास॒ ईड्यं॑ विश्व॒विदं॑ हव्य॒वाह॒मद॑धुरध्व॒रेषु॑ ॥ ७ ॥
 
+> *jāto agnī rocate cekitāno vājī vipraḥ kaviśastaḥ sudānuḥ |*
+> *yaṃ devāsa īḍyaṃ viśvavidaṃ havyavāhamadadhuradhvareṣu ‖ 7 ‖*
+
 *[Printed oddity: the Ṛk number after the Saṃhitā is printed as 7, but after the Pada it is printed as 3; both kept as supplied.]*
 
 ### Printed p. 597
@@ -18564,6 +19233,9 @@ Sāyaṇa explains that, because Agni bestows the fruit of rites abundantly, he 
 > सीद॑ होतः॒ स्व उ॑ लो॒के चि॑कि॒त्वान्तास्दा॒दया॑ य॒ज्ञं सु॑कृ॒तस्य॒ योन् ॑।
 > दे॒वा॒वीर्दे॒वान्ह॒ विषा॑ यजा॒स्यग्ने॑ बृ॒हद्यज॑माने॒ वयो॑ धाः ॥ ८ ॥
 
+> *sīda hotaḥ sva u loke cikitvāntāsdādayā yajñaṃ sukṛtasya yon |*
+> *devāvīrdevānha viṣā yajāsyagne bṛhadyajamāne vayo dhāḥ ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > सीद । होतरिति । स्वे । ऊं इति । लोके । चिकित्वान् । सादय । यज्ञं । सुकृतस्य ।
@@ -18650,10 +19322,16 @@ Offerer of oblations, sit down in your own sphere, for you are cognizant ( of ho
 > कृ॒णोत॑ धू॒मं वृष॑णं सखा॒योऽस्रे॑धंत इतन॒ वाज॒मच्छ॑ ।
 > अ॒यम॒ग्निः पृ॑तना॒षाट् सु॒वीरो॒ येन॑ दे॒वासो॒ अस॑हंत॒ दस्यू॑न्॥
 
+> *kṛṇota dhūmaṃ vṛṣaṇaṃ sakhāyo 'sredhaṃta itana vājamaccha |*
+> *ayamagniḥ pṛtanāṣāṭ suvīro yena devāso asahaṃta dasyūn‖*
+
 **॥ पदपाठः ॥**
 
 > कृणोत । धूमं । वृषणं । सखायः । अस्रेधंतः । इतन । वाजं । अच्छ ।
 > अयं । अग्निः । पृतनाषाट् । सुवीरः । येन । देवासः । असहंत । दस्यून् ॥ ९ ॥
+
+> *kṛṇota | dhūmaṃ | vṛṣaṇaṃ | sakhāyaḥ | asredhaṃtaḥ | itana | vājaṃ | accha |*
+> *ayaṃ | agniḥ | pṛtanāṣāṭ | suvīraḥ | yena | devāsaḥ | asahaṃta | dasyūn ‖ 9 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -18753,6 +19431,9 @@ The sacrificer has addressed the adhvaryu and the other priests by the word स�
 > अयं । ते । योनिः । ऋत्वियः । यतः । जातः । अरोचथाः ।
 > तं । जानन् । अग्ने । आ । सीद । अथ । नः । वर्धय । गिरः ॥ १० ॥
 
+> *ayaṃ | te | yoniḥ | ṛtviyaḥ | yataḥ | jātaḥ | arocathāḥ |*
+> *taṃ | jānan | agne | ā | sīda | atha | naḥ | vardhaya | giraḥ ‖ 10 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे अग्ने ऋत्वियो वसंताद्यतौ भवोऽयमंगुल्या निर्दिश्यमानः पालाशा-
@@ -18831,12 +19512,18 @@ This in every season, Agni, is your place, whence, as soon as generated, you hav
 > तनू॒नपा॑दुच्यते॒ गर्भ॑ आसु॒रो नरा॒शंसो॑ भवति॒ यद्वि॒जाय॑ते ।
 > मा॒त॒रिश्वा॒ यदमि॑मीात मा॒तरि॒ वात॑स्य॒ सर्गो॑ अभव॒त्सरी॑मणि ॥ ११ ॥
 
+> *tanūnapāducyate garbha āsuro narāśaṃso bhavati yadvijāyate |*
+> *mātariśvā yadamimīāta mātari vātasya sargo abhavatsarīmaṇi ‖ 11 ‖*
+
 *[In the second line of the Saṃhitā the verb of the first half is printed with an extra vowel sign, unlike the Pada and the bhāṣya; kept as supplied and left to the accent report.]*
 
 **॥ पदपाठः ॥**
 
 > तनू ३ ऽनपात् । उच्यते । गर्भः । आसुरः । नराशंसः । भवति । यत् । विजायते ।
 > मातरिश्वा । यत् । अमिमीत । मातरि । वातस्य । सर्गः । अभवत् । सरीमणि ॥ ११ ॥
+
+> *tanū 3 'napāt | ucyate | garbhaḥ | āsuraḥ | narāśaṃsaḥ | bhavati | yat | vijāyate |*
+> *mātariśvā | yat | amimīta | mātari | vātasya | sargaḥ | abhavat | sarīmaṇi ‖ 11 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -18951,10 +19638,16 @@ Yāska: मातरि अंतरिक्षे श्वसिति मा
 > सु॒नि॒र्मथा॒ निर्म॑थितः सुनि॒धा निहि॑तः क॒विः ।
 > अग्ने॑ स्वध्व॒रा कृ॑णु दे॒वान्दे॑वय॒ते य॑ज ॥ १२ ॥
 
+> *sunirmathā nirmathitaḥ sunidhā nihitaḥ kaviḥ |*
+> *agne svadhvarā kṛṇu devāndevayate yaja ‖ 12 ‖*
+
 **॥ पदपाठः ॥**
 
 > सुनिःमथा । निःमथितः । सुनिधा । निहितः । कविः ।
 > अग्ने । सुअध्वरा । कृणु । देवान् । देवयते । यज ॥ १२ ॥
+
+> *suniḥmathā | niḥmathitaḥ | sunidhā | nihitaḥ | kaviḥ |*
+> *agne | suadhvarā | kṛṇu | devān | devayate | yaja ‖ 12 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -19026,6 +19719,9 @@ Agni, you are pronounced by reverential attrition, and deposited with reverentia
 
 > अजी॑जनन्न॒मृतं॒ मर्त्या॑सोऽस्रे॒माणं॑ त॒रणिं॑ वी॒ळुजं॑भं ।
 > दश॒ स्वसा॑रो अ॒ग्रुवः॑ सुमि॒चीः पुमां॑सं जा॒तम॒भि सं र॑भंते ॥
+
+> *ajījanannamṛtaṃ martyāso 'sremāṇaṃ taraṇiṃ vīḷujaṃbhaṃ |*
+> *daśa svasāro agruvaḥ sumicīḥ pumāṃsaṃ jātamabhi saṃ rabhaṃte ‖*
 
 *[The Saṃhitā lines of this Ṛk carry no Ṛk number in the supplied text; the Pada-pāṭha carries it.]*
 
@@ -19138,6 +19834,9 @@ Mortals have begotten the immortals, the undecaying (Agni), the devourer of obla
 
 > प्र स॒प्तहो॑ता सन॒काद॑रोचत मा॒तुरु॒पस्थे॒ यदशो॑च॒दूध॑नि ।
 > न नि मि॑षति सु॒रणो॑ दि॒वेदि॑वे॒ यदसु॑रस्य ज॒ठरा॒दजा॑यत ॥ १४ ॥
+
+> *pra saptahotā sanakādarocata māturupasthe yadaśocadūdhani |*
+> *na ni miṣati suraṇo divedive yadasurasya jaṭharādajāyata ‖ 14 ‖*
 
 *[The label of the Pada is garbled in the supplied text (printed "ಪವಹಾರಃ"); the Pada block follows in the standard place.]*
 
@@ -19263,6 +19962,9 @@ Agni, who has seven ministering priests, shines eternally : when he has blazed u
 > अमित्रयुधः । मरुतांइव । प्रयाः । प्रथमजाः। ब्रह्मणः। विश्वं । इत् । विदुः।
 > द्युम्नवत् । ब्रह्म । कुशिकासः । आ । ईरिरे । एकएकः। दमे । अग्निं । सं । ईधिरे ॥
 
+> *amitrayudhaḥ | marutāṃiva | prayāḥ | prathamajāḥ| brahmaṇaḥ| viśvaṃ | it | viduḥ|*
+> *dyumnavat | brahma | kuśikāsaḥ | ā | īrire | ekaekaḥ| dame | agniṃ | saṃ | īdhire ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > अमित्रायुधोऽमित्रैः कर्मविघ्न कारिभिरसुरैः सह योद्धारः । यद्वा अमि-
@@ -19352,6 +20054,9 @@ In this Ṛk the greatness of the ṛṣis born in the Kuśika gotra is stated, 
 > यद॒द्य त्वा॑ प्रय॒ति य॒ज्ञे अ॒स्मिन्नोत॑श्चिकि॒त्वोवृ॑णीमही॒ह ।
 > ध्रु॒वम॑या ध्रु॒वमु॒ताश॑मिष्ठाः प्रजा॒नन्वि॒द्वा उप॑ याहि॒ सोमं॑॥
 
+> *yadadya tvā prayati yajñe asminnotaścikitvovṛṇīmahīha |*
+> *dhruvamayā dhruvamutāśamiṣṭhāḥ prajānanvidvā upa yāhi somaṃ‖*
+
 *[The Saṃhitā block of this Ṛk ends with a single danda sign and without the Ṛk number; the number stands only at the end of the Pada block; as supplied.]*
 
 **॥ पदपाठः ॥**
@@ -19359,6 +20064,10 @@ In this Ṛk the greatness of the ṛṣis born in the Kuśika gotra is stated, 
 > यत् । अद्य । त्वा । प्रयति । यज्ञे । अस्मिन् । होतरिति । चिकित्वः । अवृणीमहि । इह ।
 > ध्रुवं । अयाः । ध्रुवं । उत । अशमिष्ठाः । प्रजानन् । विद्वान् । उप । याहि ।
 > सोमं ॥ १६ ॥
+
+> *yat | adya | tvā | prayati | yajñe | asmin | hotariti | cikitvaḥ | avṛṇīmahi | iha |*
+> *dhruvaṃ | ayāḥ | dhruvaṃ | uta | aśamiṣṭhāḥ | prajānan | vidvān | upa | yāhi |*
+> *somaṃ ‖ 16 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -21731,10 +22440,16 @@ In the Śunāsīra sacrifice, in the homa offered to the deity named Indra-Śuna
 > इ॒च्छंति॑ त्वा सो॒म्यासः॒ सखा॑यः सु॒न्वंति॒ सोमं॒ दध॑ति॒ प्रयां॑सि ।
 > तिति॑क्षंते अ॒भिश॑स्तिं॒ जना॑ना॒मिंद्र॒ त्वदा कश्च॒न हि प्र॑के॒तः ॥ १ ॥
 
+> *icchaṃti tvā somyāsaḥ sakhāyaḥ sunvaṃti somaṃ dadhati prayāṃsi |*
+> *titikṣaṃte abhiśastiṃ janānāmiṃdra tvadā kaścana hi praketaḥ ‖ 1 ‖*
+
 **॥ पदपाठः ॥**
 
 > इच्छंति । त्वा । सोम्यासः । सखायः । सुन्वंति । सोमं । दधति । प्रयांसि ।
 > तितिक्षंते । अभिशस्तिं । जनानां । इंद्र । त्वत् । आ । कः । चन । हि । प्रकेतः ॥ १ ॥
+
+> *icchaṃti | tvā | somyāsaḥ | sakhāyaḥ | sunvaṃti | somaṃ | dadhati | prayāṃsi |*
+> *titikṣaṃte | abhiśastiṃ | janānāṃ | iṃdra | tvat | ā | kaḥ | cana | hi | praketaḥ ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -21785,10 +22500,16 @@ The bearers of the libations desire you; your friends pour forth the Soma juice 
 > न ते॑ दू॒रे प॑र॒मा चि॒द्रजां॒स्या तु प्र या॑हि हरिवो॒ हरि॑भ्यां ।
 > स्थि॒राय॒ वृष्णे॒ सव॑ना कृ॒तेमा यु॒क्ता ग्रावा॑णः समिधा॒ने अ॒ग्नौ ॥२॥
 
+> *na te dūre paramā cidrajāṃsyā tu pra yāhi harivo haribhyāṃ |*
+> *sthirāya vṛṣṇe savanā kṛtemā yuktā grāvāṇaḥ samidhāne agnau ‖2‖*
+
 **॥ पदपाठः ॥**
 
 > न । ते । दूरे । परमा । चित् । रजांसि । आ । तु । प्र । याहि । हरिऽवः । हरिभ्यां ।
 > स्थिराय । वृष्णे । सवना । कृता । इमा । युक्ताः । ग्रावाणः । संइधाने । अग्नौ ॥ २ ॥
+
+> *na | te | dūre | paramā | cit | rajāṃsi | ā | tu | pra | yāhi | hari 'vaḥ | haribhyāṃ |*
+> *sthirāya | vṛṣṇe | savanā | kṛtā | imā | yuktāḥ | grāvāṇaḥ | saṃidhāne | agnau ‖ 2 ‖*
 
 *[The supplied text of this window ends here, with the Pada-pāṭha of Ṛk 2; the Sāyaṇa-bhāṣya of this Ṛk follows in the next window.]*
 
@@ -21853,10 +22574,16 @@ Master of tawny steeds, the remotest regions are not remote for you then come qu
 > इंद्रः॑ सु॒शिप्रो॑ म॒घवा॒ तरु॑त्रो म॒हाव्रा॑तस्तुविकू॒र्मिर्ऋघा॑वान् ।
 > यदु॒ग्रो धा बा॑धि॒तो मर्त्ये॑षु॒ क्व१॒ं॑त्या ते॑ वृषभ वी॒र्या॑णि ॥३॥
 
+> *iṃdraḥ suśipro maghavā tarutro mahāvrātastuvikūrmirṛghāvān |*
+> *yadugro dhā bādhito martyeṣu kva1ṃtyā te vṛṣabha vīryāṇi ‖3‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्रः । सुशिप्रः । मघवा । तरुत्रः । महाव्रातः । तुविकूर्मिः । ऋघावान् ।
 > यत् । उग्रः । धाः । बाधितः । मर्त्येषु । क्व । त्या । ते । वृषभ । वीर्याणि ॥ ३ ॥
+
+> *iṃdraḥ | suśipraḥ | maghavā | tarutraḥ | mahāvrātaḥ | tuvikūrmiḥ | ṛghāvān |*
+> *yat | ugraḥ | dhāḥ | bādhitaḥ | martyeṣu | kva | tyā | te | vṛṣabha | vīryāṇi ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -21924,6 +22651,9 @@ O Indra, showerer of desires, you who are possessed of all lordship, have an exc
 
 > त्वं हि ष्ठा॑ च्या॒वय॒न्नच्यु॑ता॒नेको॑ वृ॒त्रा चर॑सि॒ जिघ्न॑मानः ।
 > तव॒ द्यावा॑पृथि॒वी पर्व॑ता॒सोऽनु॑ व्र॒ताय॒ निमि॑तेव तस्थुः ॥ ४ ॥
+
+> *tvaṃ hi ṣṭhā cyāvayannacyutāneko vṛtrā carasi jighnamānaḥ |*
+> *tava dyāvāpṛthivī parvatāso 'nu vratāya nimiteva tasthuḥ ‖ 4 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -22009,6 +22739,10 @@ O Indra, you alone, without anyone's help, go about casting the firmly establish
 > इमे इति , चित् , इंद्र रोवसी इति । अपारे इति । यत् संग्मभ्याः । मघवन् ।
 > काशिः इत् । ते ॥ ५ ॥
 
+> *uta | ābhaye , puruhūta śravaḥbhiḥ | ekaḥ ' vṛḷpaṃ | avavaḥ | pṛtrahā | san |*
+> *ime iti , cit , iṃdra rovasī iti | apāre iti | yat saṃgmabhyāḥ | maghavan |*
+> *kāśiḥ it | te ‖ 5 ‖*
+
 *[The label of the bhāṣya is garbled in the supplied text (the line reads ಕಾಯಣಭಾಸ್ಕರ); kept as supplied, the standard label inserted.]*
 
 **॥ सायणभाष्यम् ॥**
@@ -22071,6 +22805,9 @@ O Indra, called by many for help, you who are endowed with heroic deeds *[the pr
 
 > प्र सू त॑ इंद्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न् ।
 > ज॒हि प्र॑ती॒चो अ॑नू॒चः परा॑चो॒ विश्वं॑ स॒त्यं कृ॑णुहि वि॒ष्टम॑स्तु ॥६॥
+
+> *pra sū ta iṃdra pravatā haribhyāṃ pra te vajraḥ pramṛṇannetu śatrūn |*
+> *jahi pratīco anūcaḥ parāco viśvaṃ satyaṃ kṛṇuhi viṣṭamastu ‖6‖*
 
 **॥ पदपाठः ॥**
 
@@ -22141,10 +22878,16 @@ Let (your car),Indra, drawn by your horses (rush) downwards (upon the Asuras); l
 > यस्मै॒ धायु॒रद॑धा॒ मर्त्या॒याभ॑क्तं चिद्भजते गे॒ह्यं१॒॑ सः ।
 > भ॒द्रा त॑ इंद्र सुम॒तिर्घृ॒ताची॑ स॒हस्र॑दाना पुरुहूत रा॒तिः ॥ ७ ॥
 
+> *yasmai dhāyuradadhā martyāyābhaktaṃ cidbhajate gehyaṃ1 saḥ |*
+> *bhadrā ta iṃdra sumatirghṛtācī sahasradānā puruhūta rātiḥ ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > यस्मै । धायुः । अदधाः । मर्त्याय । अभक्तं । चित् । भजते । गेह्यं । सः ।
 > भद्रा । ते । इंद्र । सुमतिः । घृताची । सहस्रदाना । पुरुहूत । रातिः ॥ ७ ॥
+
+> *yasmai | dhāyuḥ | adadhāḥ | martyāya | abhaktaṃ | cit | bhajate | gehyaṃ | saḥ |*
+> *bhadrā | te | iṃdra | sumatiḥ | ghṛtācī | sahasradānā | puruhūta | rātiḥ ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -22214,6 +22957,9 @@ The man to whom you grant, lord of power, (your good will), enjoys unprecedented
 
 > स॒हदा॑नुं पुरुहूत क्षि॒यंत॑मह॒स्तमिं॑द्र॒ संपि॑ण॒क्कुणा॑रुं ।
 > अ॒भि वृ॒त्रं वर्ध॑मानं॒ पिया॑रुम॒पाद॑मिंद्र त॒वसा॑ जघंथ ॥ ८ ॥
+
+> *sahadānuṃ puruhūta kṣiyaṃtamahastamiṃdra saṃpiṇakkuṇāruṃ |*
+> *abhi vṛtraṃ vardhamānaṃ piyārumapādamiṃdra tavasā jaghaṃtha ‖ 8 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -22304,6 +23050,9 @@ Indra, you are invoked by many, grind to dust the reviling malevolent Vritra opp
 > नि सा॑म॒नामि॑षि॒रामिं॑द्र॒ भूमिं॑ म॒हीम॑पा॒रां सद॑ने ससत्थ ।
 > अस्त॑भ्ना॒द्यां वृ॑ष॒भो अं॒तरि॑क्ष॒मर्ष॒न्वाप॒स्त्वये॒ह प्रसू॑ताः॥ ९ ॥
 
+> *ni sāmanāmiṣirāmiṃdra bhūmiṃ mahīmapārāṃ sadane sasattha |*
+> *astabhnādyāṃ vṛṣabho aṃtarikṣamarṣanvāpastvayeha prasūtāḥ‖ 9 ‖*
+
 **॥ पदपाठः ॥**
 
 *[The label line in the supplied text is garbled, ಹವಸಾತಿ, and the standard Pada-pāṭha label has been inserted in its place. The Pada-pāṭha has no Ṛk number at its end; as supplied.]*
@@ -22379,6 +23128,9 @@ You have fixed tranquil in its position the vast unbounded and wandering earth :
 
 > अ॒ला॒तृ॒णो व॒ल इं॑द्र व्र॒जो गोः पु॒रा हंतो॒र्भय॑मानो॒ व्या॑र ।
 > सु॒गान्प॒थो अ॑कृणोन्नि॒रजे॒ गाः प्राव॒न्वाणीः॑ पुरुहू॒तं ध॑नुंतीः ॥
+
+> *alātṛṇo vala iṃdra vrajo goḥ purā haṃtorbhayamāno vyāra |*
+> *sugānpatho akṛṇonniraje gāḥ prāvanvāṇīḥ puruhūtaṃ dhanuṃtīḥ ‖*
 
 **॥ पदपाठः ॥**
 
@@ -22476,6 +23228,9 @@ The heavy cloud, the receptacle of the water, dreadiug [sic] (you) its destroyer
 > एको॒ द्वे वसु॑मती समी॒ची इंद्र॒ आ प॑प्रौ पृथि॒वीमु॒त द्यां ।
 > उ॒तांतरि॑क्षाद॒भि नः॑ समी॒क इ॒षो र॒थीः स॒युजः॑ शूर॒ वाजा॑न् ॥११॥
 
+> *eko dve vasumatī samīcī iṃdra ā paprau pṛthivīmuta dyāṃ |*
+> *utāṃtarikṣādabhi naḥ samīka iṣo rathīḥ sayujaḥ śūra vājān ‖11‖*
+
 **॥ पदपाठः ॥**
 
 > एकः । द्वे इति । वसुमती इति वसुमती । समीची इति संईची । इंद्रः । आ ।
@@ -22542,6 +23297,9 @@ Indra alone has filled the two, both earth and heaven mutually combined, and abo
 
 > दिशः॒ सूर्यो॒ न मि॑नाति॒ प्रदि॑ष्टा दि॒वेवि॑वे॒ हर्य॑श्वप्रसूताः ।
 > सं यदान॒ळध्व॑न॒ आदिदश्वै॑र्वि॒मोच॑नं कृणुते॒ तत्त्व॑स्य ॥ १२ ॥
+
+> *diśaḥ sūryo na mināti pradiṣṭā divevive haryaśvaprasūtāḥ |*
+> *saṃ yadānaḷadhvana ādidaśvairvimocanaṃ kṛṇute tattvasya ‖ 12 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -22614,6 +23372,9 @@ Surya harms not the quarters (of the horizon), set open daily (for his journey),
 > दिदृ॑क्षंत उ॒षसो॒ याम॑न्न॒क्तोर्वि॒वस्व॑त्या॒ महि॑ चि॒त्रमनी॑कं ।
 > विश्वे॑ जानंति महि॒ना यदागा॒दिंद्र॑स्य॒ कर्म॒ सुकृ॑ता पु॒रूणि॑ ॥ १३ ॥
 
+> *didṛkṣaṃta uṣaso yāmannaktorvivasvatyā mahi citramanīkaṃ |*
+> *viśve jānaṃti mahinā yadāgādiṃdrasya karma sukṛtā purūṇi ‖ 13 ‖*
+
 **॥ पदपाठः ॥**
 
 > विदृक्षंते । उषसः । यामन् । अक्टोः । विवस्वत्याः । महि । चित्रं । अनेकं ।
@@ -22683,6 +23444,9 @@ All men are anxious to behold the great and variegated host (of the solar rays) 
 > महि॒ ज्योति॒र्निहि॑तं व॒क्षणा॑स्वा॒मा प॒क्वं च॑रति॒ बिभ्र॑ती॒ गौः ।
 > विश्वं॒ स्वाद्म॒ संभृ॑तमु॒स्रिया॑यां॒ यत्सी॒मिंद्रो॒ अद॑धा॒द्भोज॑नाय ।
 
+> *mahi jyotirnihitaṃ vakṣaṇāsvāmā pakvaṃ carati bibhratī gauḥ |*
+> *viśvaṃ svādma saṃbhṛtamusriyāyāṃ yatsīmiṃdro adadhādbhojanāya |*
+
 **॥ पदपाठः ॥**
 
 > महि । ज्योतिः । निहितं । वक्षणासु । आमा । पक्वं । चरति । बिभ्रती । गौः ।
@@ -22745,6 +23509,9 @@ A great light has been shed upon the rivers : the cow yet immature grazes, charg
 
 > इंद्र॒ दृह्य॑ यामको॒शा अ॑भूवन्य॒ज्ञाय॑ शिक्ष गृण॒ते सखि॑भ्यः ।
 > दु॒र्मा॒यवो॑ दु॒रेवा॒ मर्त्या॑सो निषं॒गिणो॑ रि॒पपो॒ हंत्वा॑सः ॥
+
+> *iṃdra dṛhya yāmakośā abhūvanyajñāya śikṣa gṛṇate sakhibhyaḥ |*
+> *durmāyavo durevā martyāso niṣaṃgiṇo ripapo haṃtvāsaḥ ‖*
 
 **॥ पदपाठः ॥**
 
@@ -22813,6 +23580,9 @@ Indra, be firm, for there are obstructors of (your) path : secure to the worship
 > सं घोषः॑ शृण्वेव॒मैर॒मित्रै॑र्ज॒ही न्ये॑ष्व॒शनिं॒ तपि॑ष्ठां ।
 > वृ॒श्चेम॒धस्ता॒द्वि रु॑जा॒ सह॑स्व ज॒हि रक्षो॑ मघवन्॒नंधय॑स्व ॥ १६ ॥
 
+> *saṃ ghoṣaḥ śṛṇvevamairamitrairjahī nyeṣvaśaniṃ tapiṣṭhāṃ |*
+> *vṛścemadhastādvi rujā sahasva jahi rakṣo maghavannaṃdhayasva ‖ 16 ‖*
+
 **॥ पदपाठः ॥**
 
 > सं । घोषः । शृण्वे । अवमैः । अमित्रैः । जहि । नि । एषु । अशनिं । तपिष्ठां ।
@@ -22873,6 +23643,8 @@ The sound (of your bolt) has deen [sic] heard by the approaching foes: hurl upon
 
 > उद्वृ॑ह॒ रक्षः॑ स॒हमू॑लमिंद्र वृ॒श्चा मध्यं॒ प्रत्यग्रं॑ शृणीहि ।
 
+> *udvṛha rakṣaḥ sahamūlamiṃdra vṛścā madhyaṃ pratyagraṃ śṛṇīhi |*
+
 *[The text of this window ends with the first line of the Saṃhitā of this Ṛk.]*
 
 ### Printed p. 708
@@ -22889,6 +23661,9 @@ The sound (of your bolt) has deen [sic] heard by the approaching foes: hurl upon
 
 > उत् । वृह । रक्षः । सहमूलं । इंद्र । वृश्च । मध्यं । प्रति । अग्रं । शृणीहि ।
 > आ । कीवतः । सललूकं । चकर्थ । ब्रह्मद्विषे । तपुषिं । हेतिं । आस्य ॥ १७ ॥
+
+> *ut | vṛha | rakṣaḥ | sahamūlaṃ | iṃdra | vṛśca | madhyaṃ | prati | agraṃ | śṛṇīhi |*
+> *ā | kīvataḥ | salalūkaṃ | cakartha | brahmadviṣe | tapuṣiṃ | hetiṃ | āsya ‖ 17 ‖*
 
 *[Variant as supplied: the last word of the Pada line has a different first vowel from the Saṃhitā and the Pratipadārtha.]*
 
@@ -22957,11 +23732,18 @@ Pluck up the *Rakshasas*, Indra, by the root ; cut asunder the middle, blight th
 > स्व॒स्तये॑ वा॒जिभि॑श्च प्रणेतः॒ सं यन्म॒हीरिष॑ आ॒सत्स॑ पू॒र्विः ।
 > रा॒यो वं॒तारो॑ बृह॒तः स्या॑मा॒स्मे अ॑स्तु॒ भग॑ इंद्र प्र॒जावा॑न् ॥
 
+> *svastaye vājibhiśca praṇetaḥ saṃ yanmahīriṣa āsatsa pūrviḥ |*
+> *rāyo vaṃtāro bṛhataḥ syāmāsme astu bhaga iṃdra prajāvān ‖*
+
 **॥ पदपाठः ॥**
 
 > स्वस्तये । वाजिभिः । च । प्रनेतरिति प्रनेतः । सं । यत् । महीः । इषः । आसत्स ।
 > पूर्विः ।
 > रायः । वंतारः । बृहतः । स्याम । आस्मे इति । अस्तु । भगः । इंद्र । प्रजावान् ॥
+
+> *svastaye | vājibhiḥ | ca | pranetariti pranetaḥ | saṃ | yat | mahīḥ | iṣaḥ | āsatsa |*
+> *pūrviḥ |*
+> *rāyaḥ | vaṃtāraḥ | bṛhataḥ | syāma | āsme iti | astu | bhagaḥ | iṃdra | prajāvān ‖*
 
 *[Variants as supplied: the Saṃhitā and Pada lines end the verb for "you sit" with a different vowel from the Pratipadārtha and bhāṣya, and spell the word for "in us" with a different first vowel from the bhāṣya and Pratipadārtha.]*
 
@@ -23012,10 +23794,16 @@ Regulator (of the world, provide us) with horses for our welfare, and when you a
 > आ नो॑ भर॒ भग॑मिंद्र द्यु॒मंतं॒ नि ते॑ दे॒ष्णस्य॑ धीमहि प्ररे॒के ।
 > ऊ॒र्व इ॑व पप्रथे॒ कामो॑ अ॒स्मे तमा पृ॑ण वसुपते॒ वसू॑नां ॥१९॥
 
+> *ā no bhara bhagamiṃdra dyumaṃtaṃ ni te deṣṇasya dhīmahi prareke |*
+> *ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnāṃ ‖19‖*
+
 **॥ पदपाठः ॥**
 
 > आ । नः । भर । भगं । इंद्र । द्युमंतं । नि । ते । देष्णस्य । धीमहि । प्ररेके ।
 > ऊर्वःइव । पप्रथे । कामः अस्मे इति । तं । आ । पृण । वसुपते । वसूनां ॥ १९ ॥
+
+> *ā | naḥ | bhara | bhagaṃ | iṃdra | dyumaṃtaṃ | ni | te | deṣṇasya | dhīmahi | prareke |*
+> *ūrvaḥiva | paprathe | kāmaḥ asme iti | taṃ | ā | pṛṇa | vasupate | vasūnāṃ ‖ 19 ‖*
 
 *[In the Pada text two pairs of words in the second line are run together without the separating mark, as supplied.]*
 
@@ -23091,6 +23879,9 @@ Bring to us, Indra, splendid affluence : we rely on the bounty of you who are fo
 > इमं । कामं । मंदय । गोभिः । अश्वैः । चंद्रवता । राधसा । पप्रथः । च ।
 > स्वःयवः । मतिभिः । तुभ्यं । विप्राः । इंद्राय । वाहः । कुशिकासः । अक्रन् ॥ २० ॥
 
+> *imaṃ | kāmaṃ | maṃdaya | gobhiḥ | aśvaiḥ | caṃdravatā | rādhasā | paprathaḥ | ca |*
+> *svaḥyavaḥ | matibhiḥ | tubhyaṃ | viprāḥ | iṃdrāya | vāhaḥ | kuśikāsaḥ | akran ‖ 20 ‖*
+
 *[Variants as supplied: the Saṃhitā spells the word for "make glad" and the word for "of the Kuśikas" differently from the Pada, and the Saṃhitā and Pada differ in the word for "desiring heaven".]*
 
 **॥ सायणभाष्यम् ॥**
@@ -23147,12 +23938,19 @@ Gratify this our desire (of wealth) with cows, with horses, with shining treasur
 > वाजाः ।
 > दि॒वक्षा॑ असि वृषभ स॒त्यशु॑ष्मो॒ऽस्मभ्यं॒ सु म॑घवन्नोधि गो॒दाः ॥२१॥
 
+> *ā no gotrā dardṛhi gopate gāḥ samasmabhyaṃ sanayo yaṃtu*
+> *vājāḥ |*
+> *divakṣā asi vṛṣabha satyaśuṣmo 'smabhyaṃ su maghavannodhi godāḥ ‖21‖*
+
 *[The label line between the Saṃhitā and the Pada-pāṭha is garbled in the supplied text (a short run-on word that is not the label) and the Pada lines follow in the same block; the garbled line is kept in the Kannada file as an italic line and the standard label has been inserted (see the repair log).]*
 
 **॥ पदपाठः ॥**
 
 > आ । नः । गोत्रा । दर्दृहि । गोऽपते । गाः । सं । अस्मभ्यं । सनयः। यंतु। वाजाः।
 > दिवक्षाः । असि । वृषभ । सत्यशुष्मः । अस्मभ्यं । सु । मघवन् । बोधि । गोऽदाः ॥
+
+> *ā | naḥ | gotrā | dardṛhi | go 'pate | gāḥ | saṃ | asmabhyaṃ | sanayaḥ| yaṃtu| vājāḥ|*
+> *divakṣāḥ | asi | vṛṣabha | satyaśuṣmaḥ | asmabhyaṃ | su | maghavan | bodhi | go 'dāḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -23211,10 +24009,16 @@ Indra, lord of cattle, (divide the clouds and send us) rain, whence nutritious f
 > शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सातौ ।
 > शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्सु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नां ॥
 
+> *śunaṃ huvema maghavānamiṃdramasminbhare nṛtamaṃ vājasātau |*
+> *śṛṇvaṃtamugramūtaye samatsu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ dhanānāṃ ‖*
+
 **॥ पदपाठः ॥**
 
 > शुनं । हुवेम । मघवानं । इंद्रं । अस्मिन् । भरे । नृतमं । वाजसात् ।
 > शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+> *śunaṃ | huvema | maghavānaṃ | iṃdraṃ | asmin | bhare | nṛtamaṃ | vājasāt |*
+> *śṛṇvaṃtaṃ | ugraṃ | ūtaye | samatsu | ghnaṃtaṃ | vṛtrāṇi | saṃjitaṃ | dhanānāṃ ‖*
 
 *[The last word of the first line differs between the two: the Saṃhitā has the longer ending, the Pada the plain consonant; as supplied.]*
 
@@ -23325,6 +24129,9 @@ Further, on the first day of the sacrifices called Pṛṣṭhaśi *[so printed]
 > शास॒द्वह्नि॑र्दुहि॒तुर्न॒प्तं॑ गाद्वि॒द्वा ऋ॒तस्य॒ दीधि॑तिं सप॒र्यन् ।
 > पि॒ता यत्र॑ दुहि॒तुः सेक॑मृं॒जन्तं श॒ग्म्ये॑न॒ मन॑सा दध॒न्वे ॥ १ ॥
 
+> *śāsadvahnirduhiturnaptaṃ gādvidvā ṛtasya dīdhitiṃ saparyan |*
+> *pitā yatra duhituḥ sekamṛṃjantaṃ śagmyena manasā dadhanve ‖ 1 ‖*
+
 *[In the Saṃhitā the word for "anointing" is followed by a run-on word that ends in a syllable different from the Pada, where the separate word ಸಂ stands; as supplied.]*
 
 ### Printed p. 717
@@ -23335,6 +24142,9 @@ Further, on the first day of the sacrifices called Pṛṣṭhaśi *[so printed]
 
 > शासत् । वह्निः । दुहितुः ' नप्त्यं । गात् ! विद्वान् । ऋतस्य । दीधितिं । सपर्यन् ।
 > पिता । यत्र । दुहितुः । सेकं । ऋंजन् । सं । शग्मैन । मनसा । दधन्वे ॥ १ ॥
+
+> *śāsat | vahniḥ | duhituḥ ' naptyaṃ | gāt ! vidvān | ṛtasya | dīdhitiṃ | saparyan |*
+> *pitā | yatra | duhituḥ | sekaṃ | ṛṃjan | saṃ | śagmaina | manasā | dadhanve ‖ 1 ‖*
 
 *[In the Pada the line has stray marks: a quotation mark after the word for "of the daughter" and an exclamation mark after the word for "went"; the word for "with the pleasant (mind)" is spelled with a different vowel from the Saṃhitā; as supplied.]*
 
@@ -23507,6 +24317,9 @@ Still others argue that there are also circumstances in which a son has to be ab
 > न । जामये । तान्वः । रिक्कं । अरैक् । चकार । गर्भं । सनितुः । निधानं ।
 > यदि । मातरः । जनयंत । वह्निं । अन्यः । कर्ता । सुकृतोः । अन्यः । यंधन् ॥२ ॥
 
+> *na | jāmaye | tānvaḥ | rikkaṃ | araik | cakāra | garbhaṃ | sanituḥ | nidhānaṃ |*
+> *yadi | mātaraḥ | janayaṃta | vahniṃ | anyaḥ | kartā | sukṛtoḥ | anyaḥ | yaṃdhan ‖2 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > अभ्रातृकाया दुहितुः पुत्रिकाकरणात् सा रिक्षभागित्युक्तं । भ्रातृमत्यास्तस्या
@@ -23597,6 +24410,9 @@ The son born of the body does not give the wealth inherited from the father to h
 > अग्निः । जज्ञे । जुह्वा । रेजमानः । महः । पुत्रान् । अरुषस्य । प्रयक्षे ।
 > महान् । गर्भः । महि । आ । जातं । एषां । मही । प्रवृत् । हरिऽअश्वस्य । यज्ञैः ॥
 
+> *agniḥ | jajñe | juhvā | rejamānaḥ | mahaḥ | putrān | aruṣasya | prayakṣe |*
+> *mahān | garbhaḥ | mahi | ā | jātaṃ | eṣāṃ | mahī | pravṛt | hari 'aśvasya | yajñaiḥ ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे इंद्र अरुषस्यारोचमानस्य तव प्रयक्षे यज्ञार्थं जुह्वा ज्वालाभी
@@ -23652,10 +24468,16 @@ For the worship of the resplendent (Indra), Agni, glowing with flame, has begott
 > अ॒भि जैत्री॑रसचंत स्पृधा॒नं महि॒ ज्योति॒स्तम॑सो॒ निर॑जानन् ।
 > तं जा॑न॒तीः प्रत्युदा॑यन्नु॒षासः॒ पति॒र्गवा॑मभव॒देक॒ इंद्रः॑ ॥ ४ ॥
 
+> *abhi jaitrīrasacaṃta spṛdhānaṃ mahi jyotistamaso nirajānan |*
+> *taṃ jānatīḥ pratyudāyannuṣāsaḥ patirgavāmabhavadeka iṃdraḥ ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > अभि । जैत्रीः । असचंत । स्पृधानं । महि । ज्योतिः । तमसः । निः । अजानन् ।
 > तं । जानतीः । प्रति । उत् । आयन् । उषसः । पतिः । गवां । अभवत् । एकः । इंद्रः॥
+
+> *abhi | jaitrīḥ | asacaṃta | spṛdhānaṃ | mahi | jyotiḥ | tamasaḥ | niḥ | ajānan |*
+> *taṃ | jānatīḥ | prati | ut | āyan | uṣasaḥ | patiḥ | gavāṃ | abhavat | ekaḥ | iṃdraḥ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -23710,12 +24532,18 @@ The victorious (Maruts) associatedd [sic] (with Indra when contending with Vritr
 > वी॒ळौ स॒तीर॒भि धीरा॑ अत्यन्दन्प्रा॒चाहि॑न्व॒न्मन॑सा स॒प्त विप्राः॑ ।
 > विश्वा॑मविन्दन्प॒थ्या॑मृ॒तस्य॑ प्रजा॒नन्नित्ता नम॒सा वि॑वेश ॥ ५ ॥
 
+> *vīḷau satīrabhi dhīrā atyandanprācāhinvanmanasā sapta viprāḥ |*
+> *viśvāmavindanpathyāmṛtasya prajānannittā namasā viveśa ‖ 5 ‖*
+
 *[Variants as supplied: the Saṃhitā has ವೀಳೌ and ಅತ್ಯನ್ದನ್ (spelled with the separate consonant n) where the Pada has ವೀಳ್ and ಅತೃನ್ವನ್; the Pratipadārtha on page 726 has a third form of the same word.]*
 
 **॥ पदपाठः ॥**
 
 > वीळ् । सतीः । अभि । धीराः । अतृन्वन् । प्राचा । अहिन्वन् । मनसा । सप्त । विप्राः ।
 > विश्वां । अविंदन् । पथ्यां । ऋतस्य । प्रजानन् । इत् । ता । नमसा । आ । विवेश ॥ ५ ॥
+
+> *vīḷ | satīḥ | abhi | dhīrāḥ | atṛnvan | prācā | ahinvan | manasā | sapta | viprāḥ |*
+> *viśvāṃ | aviṃdan | pathyāṃ | ṛtasya | prajānan | it | tā | namasā | ā | viveśa ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -23795,6 +24623,9 @@ The seven intelligent sages (the Angirasas) having ascertained that (the cows) w
 > विदत् । यदि । सरमा । रुग्णं । अद्रेः । महि । पाथः । पूर्व्यं । सध्रक् । करिति कः ।
 > अग्रं । नयत् । सुपदी । अक्षराणां । अच्छ । रवं । प्रथमा । जानती । गात् ॥ ६ ॥
 
+> *vidat | yadi | saramā | rugṇaṃ | adreḥ | mahi | pāthaḥ | pūrvyaṃ | sadhrak | kariti kaḥ |*
+> *agraṃ | nayat | supadī | akṣarāṇāṃ | accha | ravaṃ | prathamā | jānatī | gāt ‖ 6 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > यदि यदा सरमेंद्रेण गवान्वेषणार्थं प्रेषिता सरमा नाम देवशुन्यद्रे
@@ -23864,12 +24695,18 @@ When Sarama discovered the broken (entrance) of the mountain, then Indra made gr
 > अग॑च्छदु॒ विप्र॑तमः सखी॒यन्नसू॑दयत्सु॒कृते॒ गर्भ॒मद्रिः॑ ।
 > स॒सान॒ मर्यो॒ युव॑भिर्मख॒स्यन्नथा॑भव॒दंगि॑राः स॒द्यो अर्च॑न् ॥७॥
 
+> *agacchadu vipratamaḥ sakhīyannasūdayatsukṛte garbhamadriḥ |*
+> *sasāna maryo yuvabhirmakhasyannathābhavadaṃgirāḥ sadyo arcan ‖7‖*
+
 *[Variants as supplied: the Saṃhitā runs ಸಖೀಯನ್ನಸೂದಯತ್ and ಮಖಸ್ಯನ್ನಥಾಭವದಂಗಿರಾಃ; the Pada has ಸಖಿಯಾನ್ where the bhāṣya has ಸಖೀಯನ್.]*
 
 **॥ पदपाठः ॥**
 
 > अगच्छत् । ऊं इति । विप्रतमः । सखियान् । असूदयत् । सुकृते । गर्भं । अद्रिः।
 > ससान । मर्यः । युवभिः । मखस्यन् । अथ । अभवत् । अंगिराः । सद्यः । अर्चन् ॥
+
+> *agacchat | ūṃ iti | vipratamaḥ | sakhiyān | asūdayat | sukṛte | garbhaṃ | adriḥ|*
+> *sasāna | maryaḥ | yuvabhiḥ | makhasyan | atha | abhavat | aṃgirāḥ | sadyaḥ | arcan ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -23933,6 +24770,9 @@ The most sage (Indra), desirous of the friendship of the (Angirasas), went to th
 
 > स॒तःस॑तः प्रति॒मानं॑ पुरो॒भूर्विश्वा॑ वेद॒ जनि॑मा॒ हंति॒ शुष्णं॑ ।
 > प्र णो॑ दि॒वः प॑द॒वीर्ग॒व्युरर्च॒न्तसखा॒ सखी॑रमुंच॒न्निर॑व॒द्यात् ॥ ८ ॥
+
+> *sataḥsataḥ pratimānaṃ purobhūrviśvā veda janimā haṃti śuṣṇaṃ |*
+> *pra ṇo divaḥ padavīrgavyurarcantasakhā sakhīramuṃcanniravadyāt ‖ 8 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -24017,6 +24857,9 @@ May he who is the type of all that is excellent, the anticipator (of his foes), 
 > नि ग॑व्य॒ता मन॑सा सेदुर॒र्कैः कृ॑ण्वा॒नासो॑ अमृत॒त्वाय॑ गा॒तुं ।
 > इ॒दं चि॒न्नु सद॑नं॒ भूर्ये॑षां॒ येन॒ मासा॒ असि॑षासन्नृ॒तेन॑ ॥ ९ ॥
 
+> *ni gavyatā manasā sedurarkaiḥ kṛṇvānāso amṛtatvāya gātuṃ |*
+> *idaṃ cinnu sadanaṃ bhūryeṣāṃ yena māsā asiṣāsannṛtena ‖ 9 ‖*
+
 **॥ पदपाठः ॥**
 
 > नि । गव्यता । मनसा । सेदुः । अर्कैः । कृण्वानासः । अमृतत्वाय । गातुं ।
@@ -24085,6 +24928,10 @@ The Angirasas, with minds intent on their cattle, (sat down to worship Indra) wi
 > ऎ । रोदसी इति । आतपत् । घोषः । एषां । जाते । निःस्थां । अवधुः । गोषु ।
 > वीरान् ॥ १० ॥
 
+> *saṃpaśyamānāḥ | amadan | abhi | svaṃ | payaḥ | pratnasya | retasaḥ | dughānāḥ |*
+> *è | rodasī iti | ātapat | ghoṣaḥ | eṣāṃ | jāte | niḥsthāṃ | avadhuḥ | goṣu |*
+> *vīrān ‖ 10 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > स्वं स्वकीयं गोधनमभि अभिलक्ष्य संपश्यमाना मदीया एता गाव इत्यात्मीयतया जानानास्तेऽंगिरसः प्रत्नस्य पुरा जातस्य रेतसस्तदुपलक्षितस्य पुत्रस्य धारणार्थं पयो दुघानास्ता गाः पयो महंतः संतोऽमदन् । अह्यष्यन् । एषामंगिरसां घोषो हर्षादुत्पन्नो महाध्वनिः स्तुतिजातो ना रोदसी द्यापृथिव्य व्यतपत् । ते व्याप्यातपिष्ट । ततस्तेऽंगिरसो जात आत्मीयतया संप
@@ -24136,11 +24983,18 @@ Contemplating their own (cattle) giving milk to their former progeny (the Angira
 > स जा॒तेभि॑र्वृत्र॒हा सेदु॑ ह॒व्यैरुदु॒स्रिया॑ असृज॒दिंद्रो॑ अ॒र्कैः ।
 > उ॒रू॒च्य॑स्मै घृ॒तव॒द्भरं॑ती॒ मधु॒ स्वाद्म॑ दुदुहे॒ जेन्या॒ गौः ॥ ११ ॥
 
+> *sa jātebhirvṛtrahā sedu havyairudusriyā asṛjadiṃdro arkaiḥ |*
+> *urūcyasmai ghṛtavadbharaṃtī madhu svādma duduhe jenyā gauḥ ‖ 11 ‖*
+
 **॥ पदपाठः ॥**
 
 > सः । जातेभिः । वृत्रहा । सः । इत् । ऊं इति । हव्यैः । उत् । उस्रियाः । असृजत् ।
 > इंद्रः । अर्कैः ।
 > उरूची । अस्मै । घृतवत् । भरंती। मधु । स्वाद्म । दुदुहे । जेन्या गौः ॥ १२ ॥
+
+> *saḥ | jātebhiḥ | vṛtrahā | saḥ | it | ūṃ iti | havyaiḥ | ut | usriyāḥ | asṛjat |*
+> *iṃdraḥ | arkaiḥ |*
+> *urūcī | asmai | ghṛtavat | bharaṃtī| madhu | svādma | duduhe | jenyā gauḥ ‖ 12 ‖*
 
 *[Printed oddity: the Saṃhitā of this Ṛk ends with the number 11, but the Pada ends with the number 12 (the Pada of the next Ṛk also ends with 12); kept as supplied.]*
 
@@ -24199,10 +25053,16 @@ Indra, the slayer of Vritra, let loose the milch cows, assisted by the Maruts, b
 > पि॒त्रे चि॑च्चक्रुः॒ सद॑नं॒ सम॑स्मै॒ महि॒ त्विषी॑मत्सु॒कृतो॒ वि हि ख्यन्
 > वि॒ष्क॒भ्यंतः॒ स्कंभ॑नेना॒ जनि॑त्रि॒ आसी॑ना ऊ॒र्ध्व० र॑भ॒सं वि मि॑न्वन् ॥
 
+> *pitre ciccakruḥ sadanaṃ samasmai mahi tviṣīmatsukṛto vi hi khyan*
+> *viṣkabhyaṃtaḥ skaṃbhanenā janitri āsīnā ūrdhva0 rabhasaṃ vi minvan ‖*
+
 **॥ पदपाठः ॥**
 
 > पित्रे चित् । चक्रुः । सदनं । सं । अस्मै । महि । त्वषिऽमत् । सुकृतः । वि । हि । ख्यन् ।
 > विस्कभ्यंतः । स्कंभनेन । जनित्रि इति । आसीनाः । ऊर्ध्व० । रभसं । वि । मिन्वन् ॥ १२ ॥
+
+> *pitre cit | cakruḥ | sadanaṃ | saṃ | asmai | mahi | tvaṣi 'mat | sukṛtaḥ | vi | hi | khyan |*
+> *viskabhyaṃtaḥ | skaṃbhanena | janitri iti | āsīnāḥ | ūrdhva0 | rabhasaṃ | vi | minvan ‖ 12 ‖*
 
 *[The supplied text prints no Ṛk number after this Saṃhitā; none is written. Variants as supplied: the Saṃhitā reads ವಿಷ್ಕಭ್ಯಂತಃ and the Pada ವಿಸ್ಕಭ್ಯಂತಃ; the Pada has ತ್ವಷಿಽಮತ್ where the Saṃhitā has a different spelling of the word for "lustrous".]*
 
@@ -24259,12 +25119,18 @@ They (the Angirasas) performing pious acts made for their protector a spacious a
 > म॒ही यदि॑ धि॒षणा॑ ति॒श्नथे॒ धात्स॑द्यो॒वृधं॑ वि॒भ्वं१॒॑ रोद॑स्योः ।
 > गिरो॒ यस्मि॑न्ननव॒द्याः स॑मी॒चीर्विश्वा॒ इंद्रा॑य॒ तवि॑षी॒रनु॑त्ताः ॥१३॥
 
+> *mahī yadi dhiṣaṇā tiśnathe dhātsadyovṛdhaṃ vibhvaṃ1 rodasyoḥ |*
+> *giro yasminnanavadyāḥ samīcīrviśvā iṃdrāya taviṣīranuttāḥ ‖13‖*
+
 *[The supplied text prints the Saṃhitā and Pada of this Ṛk in one block; the Pada label is garbled (ಪದಹಾರಃ, kept as a note in the Kannada file), and the standard Pada label is inserted. The Saṃhitā reads ತಿಶ್ನಥೇ where the Pada and the bhāṣya have ಶಿಶ್ನಥೇ; a digit stands after the word ವಿಭ್ವಂ in the Saṃhitā (as supplied). In the Pada, colons stand in place of the visarga in several words (as supplied).]*
 
 **॥ पदपाठः ॥**
 
 > मही । यदि । धिषणा । शिश्नथे । धात् । सद्यःऽवृधं । विभ्वं । रोदस्योः ।
 > गिरः । यस्मिन् । अनवद्या: । संईचीः । विश्वा: । इंद्राय । तविषी: । अनुत्ता: ॥ १३ ॥
+
+> *mahī | yadi | dhiṣaṇā | śiśnathe | dhāt | sadyaḥ 'vṛdhaṃ | vibhvaṃ | rodasyoḥ |*
+> *giraḥ | yasmin | anavadyā: | saṃīcīḥ | viśvā: | iṃdrāya | taviṣī: | anuttā: ‖ 13 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -24313,6 +25179,9 @@ Inasmuch as our devout praise has appointed a thriving ruler for the regulation 
 
 > मह्या ते॑ स॒ख्यं व॑श्मि श॒क्तीरा वृ॑त्र॒घ्ने नि॒युतो॑ यंति पू॒र्विः ।
 > महि॑ स्तो॒त्रमव॒ आग॑न्म सू॒रेर॒स्माकं॒ सु म॑घवन्नोधि गो॒पाः ॥
+
+> *mahyā te sakhyaṃ vaśmi śaktīrā vṛtraghne niyuto yaṃti pūrviḥ |*
+> *mahi stotramava āganma sūrerasmākaṃ su maghavannodhi gopāḥ ‖*
 
 **॥ पदपाठः ॥**
 
@@ -24377,10 +25246,16 @@ I wish. Indra, for your friendship, and (the exercise of) your powers : many hor
 > महि॒ क्षेत्रं॑ पु॒रु श्वं॒द्रं वि॑वि॒द्वानादित्सखि॑भ्यश्व॒रथं॒ समै॑रत् ।
 > इंद्रो॒ नृभि॑रजन॒द्दीद्या॑नः सा॒कं सूर्य॑मु॒षसं॑ गा॒तुम॒ग्निं ॥ १५ ॥
 
+> *mahi kṣetraṃ puru śvaṃdraṃ vividvānāditsakhibhyaśvarathaṃ samairat |*
+> *iṃdro nṛbhirajanaddīdyānaḥ sākaṃ sūryamuṣasaṃ gātumagniṃ ‖ 15 ‖*
+
 **॥ पदपाठः ॥**
 
 > महि । क्षेत्रं । पुरु । चंद्रं । विविद्वान् । आत् । इत् । सखिभ्यः । चरथं । सं । ऐरत्
 > इंद्रः । नृभिः । अजनत् । दीद्यानः । साकं । सूर्यं । उषसं । गातुं । अग्निं ॥१५॥
+
+> *mahi | kṣetraṃ | puru | caṃdraṃ | vividvān | āt | it | sakhibhyaḥ | carathaṃ | saṃ | airat*
+> *iṃdraḥ | nṛbhiḥ | ajanat | dīdyānaḥ | sākaṃ | sūryaṃ | uṣasaṃ | gātuṃ | agniṃ ‖15‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -24433,10 +25308,16 @@ Wide fields, vast treasure, (spacious) pastures, has the much-knowing (Indra) be
 > अ॒पश्चि॑दे॒ष वि॒भो॒३॒॑ दमू॑नाः॒ प्र स॒ध्रीची॑रसृजद्वि॒श्वश्चं॑द्राः ।
 > मध्वः॑ पुना॒नाः क॒विभिः॑ प॒वित्र्यद्युर्भि॑र्हिन्वंत्य॒क्तुभि॒र्धनु॑त्रीः ॥ १६ ॥
 
+> *apaścideṣa vibho3 damūnāḥ pra sadhrīcīrasṛjadviśvaścaṃdrāḥ |*
+> *madhvaḥ punānāḥ kavibhiḥ pavitryadyurbhirhinvaṃtyaktubhirdhanutrīḥ ‖ 16 ‖*
+
 **॥ पदपाठः ॥**
 
 > अपः । चित् । एषः । विभ्वः । दमूनाः । प्र । सध्रीचीः । असृजत् । विश्वचंद्राः ।
 > मध्वः । पुनानाः । कविभिः । पवित्रैः । द्युभिः । हिन्वंति । अक्तुभिः । धनुत्रेः ॥ १६ ॥
+
+> *apaḥ | cit | eṣaḥ | vibhvaḥ | damūnāḥ | pra | sadhrīcīḥ | asṛjat | viśvacaṃdrāḥ |*
+> *madhvaḥ | punānāḥ | kavibhiḥ | pavitraiḥ | dyubhiḥ | hinvaṃti | aktubhiḥ | dhanutreḥ ‖ 16 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -24489,10 +25370,16 @@ This lowly-minded Indra has created the widespread, commingled all-delighting wa
 > अनु॑ कृ॒ष्णे वसु॑धिती जिहाते उ॒भे सूर्य॑स्य मं॒हना॒ यज॑त्रे ।
 > परि॒ यत्ते॑ महि॒मानं॑ वृ॒जध्यै॒ सखा॑य इंद्र॒ काम्या॑ ऋजि॒प्याः ॥
 
+> *anu kṛṣṇe vasudhitī jihāte ubhe sūryasya maṃhanā yajatre |*
+> *pari yatte mahimānaṃ vṛjadhyai sakhāya iṃdra kāmyā ṛjipyāḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > अनु । कृष्णे इति । वसुधिती इति वसुधिती । जिहाते इति । उभे इति । सूर्यस्य । मंहना । यजत्रे इति ।
 > हरि । यत् । ते । महिमानं । वृजध्यै । सखायः । इंद्र । काम्याः । यजिप्याः ॥१७॥
+
+> *anu | kṛṣṇe iti | vasudhitī iti vasudhitī | jihāte iti | ubhe iti | sūryasya | maṃhanā | yajatre iti |*
+> *hari | yat | te | mahimānaṃ | vṛjadhyai | sakhāyaḥ | iṃdra | kāmyāḥ | yajipyāḥ ‖17‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -24544,6 +25431,9 @@ The two adorable (alternations of) day and night, upholding (all things) by the 
 
 > पति॑र्भव वृत्रहन्सू॒नृता॑नां गि॒रां वि॒श्वायु॑र्वृष॒भो व॑यो॒धाः ।
 > आ नो॑ गहि स॒ख्येभिः॑ शि॒वेभि॑र्म॒हान्म॒हीभि॑रू॒तिभिः॑ सर॒ण्यन् ॥ १८ ॥
+
+> *patirbhava vṛtrahansūnṛtānāṃ girāṃ viśvāyurvṛṣabho vayodhāḥ |*
+> *ā no gahi sakhyebhiḥ śivebhirmahānmahībhirūtibhiḥ saraṇyan ‖ 18 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -24611,6 +25501,10 @@ Slayer of Vritra, do you, who art long lived, the showerer, (of benefits), the g
 > द्रुहः । वि । याहि । बहुलाः । अदेवीः । स्व१ रिति स्वः । च । नः । मघवन् । सातयॆ
 > धाः ॥ १९ ॥
 
+> *taṃ | aṃgirasvat | namasā | saparyan | navyaṃ | kṛṇomi | sanyase | purājāṃ |*
+> *druhaḥ | vi | yāhi | bahulāḥ | adevīḥ | sva1 riti svaḥ | ca | naḥ | maghavan | sātayè*
+> *dhāḥ ‖ 19 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे इंद्र अंगिरस्वत् अंगिरस इव नमसा स्तोत्रेण सपर्यन् पूजयन्
@@ -24664,10 +25558,16 @@ Worshiping him with reverence, like an Angiras, I make the aneient [sic] (Indra)
 > मिहः॑ पाव॒काः प्रत॑ता अभूवन्त्व॒स्ति नः॑ पिपृहि पा॒रमा॑सां ।
 > इंद्र॒ त्वं र॑थि॒रः पा॑हि नो रि॒षो म॒क्षूम॑क्षू कृणुहि गो॒जितो॑ नः ॥
 
+> *mihaḥ pāvakāḥ pratatā abhūvantvasti naḥ pipṛhi pāramāsāṃ |*
+> *iṃdra tvaṃ rathiraḥ pāhi no riṣo makṣūmakṣū kṛṇuhi gojito naḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > मिहः । पावकाः । प्रतताः । अभूवन् । स्वस्ति । नः । पिपृहि । पारं । आसां ।
 > इंद्र । त्वं । रथिरः । पाहि । नः । रिषः । मक्षुमक्षु । कृणुहि । गोऽजितः । नः ॥ २० ॥
+
+> *mihaḥ | pāvakāḥ | pratatāḥ | abhūvan | svasti | naḥ | pipṛhi | pāraṃ | āsāṃ |*
+> *iṃdra | tvaṃ | rathiraḥ | pāhi | naḥ | riṣaḥ | makṣumakṣu | kṛṇuhi | go 'jitaḥ | naḥ ‖ 20 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -24716,11 +25616,18 @@ The purifying waters have been spread abroad : fill their beds for our welfare :
 > अदे॑दिष्ट वृत्र॒हा गोप॑ति॒र्गा अं॒तः कृ॒ष्णा अ॑रु॒पैर्धाम॑भिर्गात् ।
 > प्र सू॒नृता॑ दि॒शमा॑न ऋ॒तेन॒ दुर॑श्च॒ विश्वा॑ अवृणो॒दप॒ स्वाः ॥ २१ ॥
 
+> *adediṣṭa vṛtrahā gopatirgā aṃtaḥ kṛṣṇā arupairdhāmabhirgāt |*
+> *pra sūnṛtā diśamāna ṛtena duraśca viśvā avṛṇodapa svāḥ ‖ 21 ‖*
+
 **॥ पदपाठः ॥**
 
 > अदेदिष्ट । वृत्रहा । गोऽपतिः । गाः । अंतरिति । कृष्णान् । अरुपैः । धामभिः ।
 > गात् ।
 > प्र । सूनृताः । दिशमानः । ऋतेन । दुरः । च । विश्वाः । अवृणोत् । अप । स्वाः ॥
+
+> *adediṣṭa | vṛtrahā | go 'patiḥ | gāḥ | aṃtariti | kṛṣṇān | arupaiḥ | dhāmabhiḥ |*
+> *gāt |*
+> *pra | sūnṛtāḥ | diśamānaḥ | ṛtena | duraḥ | ca | viśvāḥ | avṛṇot | apa | svāḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -24770,6 +25677,9 @@ Indra, the slayer of Vritra, the lord of herds, has discovered the cattle, and b
 
 > शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्फरे॒ नृत॑मं॒ वाज॑सात् ।
 > शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नां ॥
+
+> *śunaṃ huvema maghavānamiṃdramasminphare nṛtamaṃ vājasāt |*
+> *śṛṇvaṃtamugramūtaye samattu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ dhanānāṃ ‖*
 
 **॥ पदपाठः ॥**
 
@@ -24844,10 +25754,16 @@ We invoke for our protection the opulent Indra, distinguished in this cambat [si
 > इंद्र॒ सोमं॑ सोमपते॒ पिबे॒मं माध्यं॑दिनं॒ सव॑नं॒ चारु॒ यत्ते॑ ।
 > प्र॒पुथ्या॒ शिप्रे॑ मघवन्नृजीषिन्वि॒मुच्या॒ हरी॑ इ॒ह मा॑दयस्व ॥ १ ॥
 
+> *iṃdra somaṃ somapate pibemaṃ mādhyaṃdinaṃ savanaṃ cāru yatte |*
+> *praputhyā śipre maghavannṛjīṣinvimucyā harī iha mādayasva ‖ 1 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्र । सोमं । सोमपते । पिब । इमं । माध्यंदिनं । सवनं । चारु यत् ते ।
 > प्रपुथ्य । शिप्रे इति । मघवन् । ऋजीषिन् । विमुच्य । हरी इति । इह । मादयस्य ॥ १ ॥
+
+> *iṃdra | somaṃ | somapate | piba | imaṃ | mādhyaṃdinaṃ | savanaṃ | cāru yat te |*
+> *praputhya | śipre iti | maghavan | ṛjīṣin | vimucya | harī iti | iha | mādayasya ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -24918,6 +25834,9 @@ Indra, lord of the Soma, drink this Soma juice which is grateful to you at noon-
 > गोऽआशिरं । मंथिनं । इंद्र । शुक्रं । पिब । सोमं । ररिम । ते । मदाय ।
 > ब्रह्मकृता । मारुतेन । गणेन । सजोषाः । रुद्रॆः । त्वपत् । आ । वृषस्व ॥ २ ॥
 
+> *go 'āśiraṃ | maṃthinaṃ | iṃdra | śukraṃ | piba | somaṃ | rarima | te | madāya |*
+> *brahmakṛtā | mārutena | gaṇena | sajoṣāḥ | rudrèḥ | tvapat | ā | vṛṣasva ‖ 2 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे इंद्र गवाशिरं गव्यस्य पयस आशीर्मिश्रणं यस्मिन् तं सोमं । अपि च
@@ -24973,10 +25892,16 @@ Indra, drink the Soma juice mixed with milk, with butter-milk, or fresh : we off
 > ये ते॒ शुष्मं॒ ये तवि॑षी॒मव॑र्ध॒न्नर्चं॑त इंद्र म॒रुत॑स्त॒ ओजः॑ ।
 > माध्यं॑दिने॒ सव॑ने वज्रहस्त॒ पिबा॑ रु॒द्रेभिः॒ सग॑णः सुशिप्र ॥ ३ ॥
 
+> *ye te śuṣmaṃ ye taviṣīmavardhannarcaṃta iṃdra marutasta ojaḥ |*
+> *mādhyaṃdine savane vajrahasta pibā rudrebhiḥ sagaṇaḥ suśipra ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > ये । ते । शुष्मं । ये । तविषीं । अवर्धन् । अर्चंतः । इंद्र । मरुतः । ते। ओजः।
 > माध्यंदिने । सवने । वज्रहस्त । पिब । रुद्रेभिः । सगणः । सुशिप्र ॥ ३ ॥
+
+> *ye | te | śuṣmaṃ | ye | taviṣīṃ | avardhan | arcaṃtaḥ | iṃdra | marutaḥ | te| ojaḥ|*
+> *mādhyaṃdine | savane | vajrahasta | piba | rudrebhiḥ | sagaṇaḥ | suśipra ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -25025,10 +25950,16 @@ O Indra, the Maruts who are in the form of your enemy-destroying brilliance, who
 > त इन्न॑स्य॒ मधु॑मद्विविप्र॒ इंद्र॑स्य॒ शर्धो॑ म॒रुतो॒ य आस॑न् ।
 > येभि॑वृ॒त्रस्ये॑षि॒तो वि॒वेदा॑म॒र्मणो॒ मन॑मानस॒ मर्म॑ ॥ २ ॥
 
+> *ta innasya madhumadvivipra iṃdrasya śardho maruto ya āsan |*
+> *yebhivṛtrasyeṣito vivedāmarmaṇo manamānasa marma ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > ते । इत् । नु । अस्य । मधुमत् । विविप्रे । इंद्रस्य । शर्धः । मरुतः । ये । आसन् ।
 > येभिः । वृत्रस्य । इषितः । विवेद । अमर्मणः । मन्यमानस्य । मर्म ॥ ४ ॥
+
+> *te | it | nu | asya | madhumat | vivipre | iṃdrasya | śardhaḥ | marutaḥ | ye | āsan |*
+> *yebhiḥ | vṛtrasya | iṣitaḥ | viveda | amarmaṇaḥ | manyamānasya | marma ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -25079,10 +26010,16 @@ Those were the Maruts who were the strength of Indra, and gently encouraged him 
 > म॒नु॒ष्वदिं॑द्र॒ सव॑नं जुषा॒णः पिबा॒ सोमं॒ शश्व॑ते वी॒र्या॑य ।
 > स आ व॑वृत्स्व हर्यश्व य॒ज्ञैः स॑र॒ण्युभि॑र॒पो अर्णा॑ सिसर्षि ॥ ५ ॥
 
+> *manuṣvadiṃdra savanaṃ juṣāṇaḥ pibā somaṃ śaśvate vīryāya |*
+> *sa ā vavṛtsva haryaśva yajñaiḥ saraṇyubhirapo arṇā sisarṣi ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > मनुष्वत् । इंद्र । सवनं । जुषाणः । पिब । सोमं । शश्वते । वीर्याय ।
 > सः । आ । ववृत्स्व । हरिऽश्व । यज्ञैः । सरण्युभिः । अपः । अर्णा । सिसर्षि ॥ ५ ॥
+
+> *manuṣvat | iṃdra | savanaṃ | juṣāṇaḥ | piba | somaṃ | śaśvate | vīryāya |*
+> *saḥ | ā | vavṛtsva | hari 'śva | yajñaiḥ | saraṇyubhiḥ | apaḥ | arṇā | sisarṣi ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -25138,6 +26075,9 @@ Phased [sic] with the sacrifice as if it was that of Manu, drink, Indra, the Som
 
 > त्वम॒पो यद्ध॑ वृ॒त्रं ज॑घ॒न्वा अत्या॑ इव॒ प्रासृ॑जः॒ सर्त॒वाजौ ।
 > शया॑नमिंद्र॒ चर॑ता व॒धेन॑ वन्वि॒वांसं॒ परि॑ दे॒वीरदे॑वं ॥ ६ ॥
+
+> *tvamapo yaddha vṛtraṃ jaghanvā atyā iva prāsṛjaḥ sartavājau |*
+> *śayānamiṃdra caratā vadhena vanvivāṃsaṃ pari devīradevaṃ ‖ 6 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -25198,11 +26138,18 @@ Inasmuch as you have slain with active strife the slumbering, darkling, water-in
 > यजा॑म॒ इन्नम॑सा वृ॒द्धमिंद्रं॑ बृ॒हंत॑मृ॒ष्टम॒जरं॒ युवा॑नं ।
 > यस्य॑ प्रि॒ये म॒मतु॑र्य॒ज्ञिय॑स्य॒ न रोद॑सी महि॒मानं॑ म॒माते॑ ॥
 
+> *yajāma innamasā vṛddhamiṃdraṃ bṛhaṃtamṛṣṭamajaraṃ yuvānaṃ |*
+> *yasya priye mamaturyajñiyasya na rodasī mahimānaṃ mamāte ‖*
+
 **॥ पदपाठः ॥**
 
 > यजामः । इत् । नमसा । वृद्धं । इंद्रं । बृहंतं । यष्टं । अजरं । युवानं ।
 > यस्य । प्रिये इति । ममतुः । यज्ञियस्य । न । रोदसी इति । महिमानं । ममाते
 > इति ॥ ७ ॥
+
+> *yajāmaḥ | it | namasā | vṛddhaṃ | iṃdraṃ | bṛhaṃtaṃ | yaṣṭaṃ | ajaraṃ | yuvānaṃ |*
+> *yasya | priye iti | mamatuḥ | yajñiyasya | na | rodasī iti | mahimānaṃ | mamāte*
+> *iti ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -25257,10 +26204,16 @@ Therefore we sacrifice with reverence to the vast and mighty Indra, who is adora
 > इंद्र॑स्य॒ कर्म॒ सुकृ॑ता पु॒रूणि॑ व्र॒तानि॑ दे॒वा न मि॑नंति॒ विश्वे॑ ।
 > दा॒धार॒ यः पृ॑थि॒वीं द्यामु॒तेमां ज॒जान॒ सूर्य॑मु॒षसं॑ सु॒दंसाः॑ ॥ ८ ॥
 
+> *iṃdrasya karma sukṛtā purūṇi vratāni devā na minaṃti viśve |*
+> *dādhāra yaḥ pṛthivīṃ dyāmutemāṃ jajāna sūryamuṣasaṃ sudaṃsāḥ ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्रस्य । कर्म । सुकृता । पुरूणि । व्रतानि । देवाः । न । मिनंति । विश्वे ।
 > दाधार । यः । पृथिवीं । द्यां । उत । इमां । जजान । सूर्यं । उषसं । सुदंसाः ॥ ८ ॥
+
+> *iṃdrasya | karma | sukṛtā | purūṇi | vratāni | devāḥ | na | minaṃti | viśve |*
+> *dādhāra | yaḥ | pṛthivīṃ | dyāṃ | uta | imāṃ | jajāna | sūryaṃ | uṣasaṃ | sudaṃsāḥ ‖ 8 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -25333,6 +26286,9 @@ All the gods cannot detract from the many glorious exploits, and pious works of 
 > अद्रोघ । सत्यं । तव । तत् । महित्वं । सद्यः । यत् । जातः । अपिबः । ह । सोमं।
 > न । द्यावः । इंद्र । तवसः । ते । ओजः । न । अहा । न । मासाः । शरदः । वरंत ॥ ९ ॥
 
+> *adrogha | satyaṃ | tava | tat | mahitvaṃ | sadyaḥ | yat | jātaḥ | apibaḥ | ha | somaṃ|*
+> *na | dyāvaḥ | iṃdra | tavasaḥ | te | ojaḥ | na | ahā | na | māsāḥ | śaradaḥ | varaṃta ‖ 9 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > अद्रोघ द्रोहवर्जित हे इंद्र तव तन्महित्वं तादृशं माहात्म्यं सत्यं
@@ -25383,6 +26339,9 @@ Doer of no wrong, such was your true greatness, that as soon as born, you have q
 
 > त्वं स॒द्यो अ॑पिबो जा॒त इं॑द्र॒ मदा॑य॒ सोमं॑ पर॒मे व्यो॑मन् ।
 > यद्ध॒ द्यावा॑पृथि॒वी आवि॑वेशी॒रथा॑भवः पू॒र्व्यः का॒रुधा॑याः ॥ १० ॥
+
+> *tvaṃ sadyo apibo jāta iṃdra madāya somaṃ parame vyoman |*
+> *yaddha dyāvāpṛthivī āviveśīrathābhavaḥ pūrvyaḥ kārudhāyāḥ ‖ 10 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -25462,6 +26421,10 @@ In the one-day sacrifice called सद्यस्क्रि (*sadyaskri*), at
 > न । ते । महित्वं । अनु । भूत् । अथ । द्यौः । यत् । अन्यया । स्फिग्या । क्षां ।
 > अवस्थाः ॥ ११ ॥
 
+> *ahan | ahiṃ pariśayānaṃ | arṇaḥ ojāyamānaṃ | tuvijāta | tavān |*
+> *na | te | mahitvaṃ | anu | bhūt | atha | dyauḥ | yat | anyayā | sphigyā | kṣāṃ |*
+> *avasthāḥ ‖ 11 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > तुविजात बहूनि जातानि पृथिव्यादीनि यस्मात्सोऽयं तुविजातः । हे तुविजात
@@ -25524,6 +26487,8 @@ Indra, from whom many are born; you who are vigorous have slain Ahi, enveloping 
 
 > य॒ज्ञो हित॑ इंद्र॒ वर्ध॑नो॒ भूदु॒त प्रि॒यः सु॒तसो॑मो मि॒येधः॑ ।
 
+> *yajño hita iṃdra vardhano bhūduta priyaḥ sutasomo miyedhaḥ |*
+
 *[The Saṃhitā of Ṛk 12 begins at the end of p. 764: the first line only is printed on this page; the second line, the Pada and the rest follow on the next page. The supplied text has no Ṛk number here yet.]*
 
 ### Printed p. 765
@@ -25540,6 +26505,9 @@ Indra, from whom many are born; you who are vigorous have slain Ahi, enveloping 
 
 > यज्ञः । हि । ते । इंद्र । वर्धनः । भूत् । उत । प्रियः । सुतसोमः । मियेधः ।
 > यज्ञेन । यज्ञं । अव । यज्ञियः । सन् । यज्ञः । ते । वज्रं । अहिहत्ये । आवत् ॥
+
+> *yajñaḥ | hi | te | iṃdra | vardhanaḥ | bhūt | uta | priyaḥ | sutasomaḥ | miyedhaḥ |*
+> *yajñena | yajñaṃ | ava | yajñiyaḥ | san | yajñaḥ | te | vajraṃ | ahihatye | āvat ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -25668,6 +26636,9 @@ The worshipper, by his conservatory sacrifice, has made Indra present : may I br
 > विवेष । यत् । मा । धिषणा । जजान । स्तवै । पुरा । पार्यात् . इंद्रं । आह्नः ।
 > अंहसः । यत्र । पीपरत् । यथा । नः । नावाऽइव । यांतं । उभये । हवंते ॥
 
+> *viveṣa | yat | mā | dhiṣaṇā | jajāna | stavai | purā | pāryāt . iṃdraṃ | āhnaḥ |*
+> *aṃhasaḥ | yatra | pīparat | yathā | naḥ | nāvā 'iva | yāṃtaṃ | ubhaye | havaṃte ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > यद्यदा धिषणेंद्रं स्तवानीति मदीया बुद्धिर्मा० विवेष व्याप्नोत् तदाहं
@@ -25736,6 +26707,9 @@ When the thought of glorifying Indra entered my mind, then I gave birth (to his 
 
 > आसपूर्णः । अस्य । कलशः । स्वाहा । सेक्ताऽइव । कोशं । सिसिजे । पिबध्यै ।
 > सं । ऊं इति । प्रियाः । आ । अववृत्रन् । मदाय । प्रदक्षिणित् । अभि । सोमासः । इंद्रं ॥ १५ ॥
+
+> *āsapūrṇaḥ | asya | kalaśaḥ | svāhā | sektā 'iva | kośaṃ | sisije | pibadhyai |*
+> *saṃ | ūṃ iti | priyāḥ | ā | avavṛtran | madāya | pradakṣiṇit | abhi | somāsaḥ | iṃdraṃ ‖ 15 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -26094,6 +27068,10 @@ Such matters give scope for critical examination of historical subjects. If the 
 > हासमाने इति ।
 > गावाऽइव । शुभ्रे इति । मातरा । रिहाणे इति । विपाट् । शुतुद्री । पयसा । जवेते इति ॥ १ ॥
 
+> *pra | parvatānāṃ | uśatī iti | upasthāt | aśve ivetyaśve 'iva | visite iti visite |*
+> *hāsamāne iti |*
+> *gāvā 'iva | śubhre iti | mātarā | rihāṇe iti | vipāṭ | śutudrī | payasā | javete iti ‖ 1 ‖*
+
 *[The Pada of Ṛk 1 is printed here in full. Printed oddities kept: the word for "released" is printed with a dental sibilant and is repeated after the word for "thus", where the Saṃhitā and the bhāṣya have the retroflex sibilant; the Pada of the word for "like cows" shows an avagraha after the long vowel; as supplied. A word broken at a line end is joined (logged).]*
 
 **॥ सायणभाष्यम् ॥**
@@ -26142,12 +27120,20 @@ Rushing from the flanks of the mountains, eager (to reach the sea) like two mare
 > इंद्रे॑षिते प्रस॒वं भिक्ष॑माणे॒ अच्छा॑ समु॒द्रं र॒थ्ये॑व याथः ।
 > स॒मा॒रा॒णे ऊ॒र्मिभिः॒ पिन्न॑माने अ॒न्या वा॑म॒न्यामप्ये॑ति शुभ्रे ॥ २ ॥
 
+> *iṃdreṣite prasavaṃ bhikṣamāṇe acchā samudraṃ rathyeva yāthaḥ |*
+> *samārāṇe ūrmibhiḥ pinnamāne anyā vāmanyāmapyeti śubhre ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्रेषिते इतींद्रऽइषिते । प्रसवं । भिक्षमाणे इति । अच्छ । समुद्रं । रथ्याऽइव ।
 > याथः ।
 > समराणे इति संआराणे । ऊर्मिऽभिः । पिन्वमाने इति । अन्या । वां । अन्यां । अपि ।
 > एति । शुभ्रे इति ॥ २ ॥
+
+> *iṃdreṣite itīṃdra 'iṣite | prasavaṃ | bhikṣamāṇe iti | accha | samudraṃ | rathyā 'iva |*
+> *yāthaḥ |*
+> *samarāṇe iti saṃārāṇe | ūrmi 'bhiḥ | pinvamāne iti | anyā | vāṃ | anyāṃ | api |*
+> *eti | śubhre iti ‖ 2 ‖*
 
 *[Printed oddities kept: in the Saṃhitā the word for "swelling" is printed with a different consonant (the nasal) from the one in the Pada and the bhāṣya; the Pada resolves the word for "flowing together" with a short vowel where the Saṃhitā has a long one; as supplied. The Saṃhitā lines and the Pada of Ṛk 2 stood in one block in the supplied text; the Pada is separated under its label (logged). The Sāyaṇa-bhāṣya of this Ṛk follows after the page break.]*
 
@@ -26197,11 +27183,18 @@ Impelled by Indra, soliciting (his commands), you go to the ocean like chariotee
 > अच्छा॒ सिंधुं॑ मा॒तृत॑मामयासं॒ विपा॑शमु॒र्वीं सु॒भगा॑मगन्म ।
 > व॒त्समि॑व मा॒तरा॑ संरिहा॒णे स॑मा॒नं योनि॒मनु॑ सं॒चरं॑ती ॥ ३ ॥
 
+> *acchā siṃdhuṃ mātṛtamāmayāsaṃ vipāśamurvīṃ subhagāmaganma |*
+> *vatsamiva mātarā saṃrihāṇe samānaṃ yonimanu saṃcaraṃtī ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > अच्छ । सिंधुं । मातृतमां । आयासं । विपाशं । उर्वीं । सुभगां । अगन्म ।
 > वत्संइव । मातरा । संरिहाणे इति संरिहाणे । समानं । योनिं । अनु । संचरंती
 > इति संचरंती ॥ ३ ॥
+
+> *accha | siṃdhuṃ | mātṛtamāṃ | āyāsaṃ | vipāśaṃ | urvīṃ | subhagāṃ | aganma |*
+> *vatsaṃiva | mātarā | saṃrihāṇe iti saṃrihāṇe | samānaṃ | yoniṃ | anu | saṃcaraṃtī*
+> *iti saṃcaraṃtī ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -26243,10 +27236,16 @@ I repaired to the most maternal river ; I went to the wide auspicious Vipash, fl
 > ए॒ना व॒यं पय॑सा॒ पिन्न॑माना॒ अनु॒ योनिं॑ दे॒वकृ॑तं॒ चरं॑तीः ।
 > न वर्त॑वे प्रस॒वः सर्ग॑तक्तः क्रि॒युर्विप्रो॑ न॒द्यो॑ जोहवीति ॥ ४ ॥
 
+> *enā vayaṃ payasā pinnamānā anu yoniṃ devakṛtaṃ caraṃtīḥ |*
+> *na vartave prasavaḥ sargataktaḥ kriyurvipro nadyo johavīti ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > एना । वयं । पयसा । पिन्वमानाः । अनु । योनिं । देवकृतं । चरंतीः ।
 > न । वर्तवे । प्रसवः । सर्गतक्तः । किंयुः । विप्रः । नद्यः । जोहवीति ॥ ४ ॥
+
+> *enā | vayaṃ | payasā | pinvamānāḥ | anu | yoniṃ | devakṛtaṃ | caraṃtīḥ |*
+> *na | vartave | prasavaḥ | sargataktaḥ | kiṃyuḥ | vipraḥ | nadyaḥ | johavīti ‖ 4 ‖*
 
 *[Printed oddities kept: the Saṃhitā has the word for "swelling" with the nasal where the Pada and the bhāṣya have the other consonant; the Saṃhitā has ಕ್ರಿಯುರ್ವಿಪ್ರೋ where the Pada has the separate words ಕಿಂಯುಃ and the word for "sage"; as supplied. The Saṃhitā lines of Ṛk 4 stood in one block with the Pada and with a stray line ಹಡಸಾತಃ between them; the stray line is kept here as an italic note in the Kannada file, and the Pada is separated under its label (logged).]*
 
@@ -26287,10 +27286,16 @@ We two, named Vipāṭ and Śutudri, giving full satisfaction to the whole world
 > रम॑ध्वं मे॒ वच॑से सो॒म्याय॒ ऋता॑वरी॒रुप॑ मुहू॒र्तमेवैः॑ ।
 > प्र सिंधु॒मच्छा॑ बृह॒ती म॑नी॒षाव॒स्युर॑ह्वे कुशि॒कस्य॑ सू॒नुः ॥ ५ ॥
 
+> *ramadhvaṃ me vacase somyāya ṛtāvarīrupa muhūrtamevaiḥ |*
+> *pra siṃdhumacchā bṛhatī manīṣāvasyurahve kuśikasya sūnuḥ ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > रमध्वं । मे । वचसे । सोम्याय । ऋतवरीः । उप । मुहूर्तं । एवैः ।
 > प्र । सिंधुं । अच्छ । बृहती । मनीषा। अवस्युः । अह्वे । कुशिकस्य । सूनुः ॥ ५ ॥
+
+> *ramadhvaṃ | me | vacase | somyāya | ṛtavarīḥ | upa | muhūrtaṃ | evaiḥ |*
+> *pra | siṃdhuṃ | accha | bṛhatī | manīṣā| avasyuḥ | ahve | kuśikasya | sūnuḥ ‖ 5 ‖*
 
 *[Printed oddities kept: the Pada has the word for "possessing water" with a short vowel where the Saṃhitā has a long one, and the word for "toward" without the long final vowel of the Saṃhitā; the danda after the word for "insight" has no space before it; as supplied.]*
 
@@ -26346,10 +27351,16 @@ O rivers full of water, for the sake of my prayer, who have set out to bring Som
 > इंद्रो॑ अ॒स्मा अ॑रद॒द्वज्र॑बाहु॒रपा॑हन्‌वृ॒त्रं प॑रि॒धिं न॒दीनां॑ ।
 > दे॒वो॑ऽनयत्सवि॒ता सु॑पा॒णिस्तस्य॑ व॒यं प्र॑स॒वे या॑म उ॒र्वीः ॥ ६ ॥
 
+> *iṃdro asmā aradadvajrabāhurapāhanvṛtraṃ paridhiṃ nadīnāṃ |*
+> *devo 'nayatsavitā supāṇistasya vayaṃ prasave yāma urvīḥ ‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्रः । अस्मान् । अरदत् । वज्रबाहुः । अप । अहन् । वृत्रं । परिधिं । नदीनां ।
 > देवः । अनयत् । सविता । सुपाणिः । तस्य । वयं । प्रसवे । यामः । उर्वीः ॥
+
+> *iṃdraḥ | asmān | aradat | vajrabāhuḥ | apa | ahan | vṛtraṃ | paridhiṃ | nadīnāṃ |*
+> *devaḥ | anayat | savitā | supāṇiḥ | tasya | vayaṃ | prasave | yāmaḥ | urvīḥ ‖*
 
 *[The Pada ends with the danda but without the Ṛk number, as supplied.]*
 
@@ -26407,10 +27418,16 @@ O Viśvāmitra, Indra, holding the thunderbolt in his hand, destroyed the demon 
 > प्र॒वाच्यं॑ शश्व॒धा वी॒र्यं१॒॑ तदिंद्र॑स्य॒ कर्म॒ यदहिं॑ विवृ॒श्चत् ।
 > वि वज्रे॑ण परि॒षदो॑ जघा॒नाय॒न्नापोऽय॑नमि॒च्छमा॑नाः ॥ ७ ॥
 
+> *pravācyaṃ śaśvadhā vīryaṃ1 tadiṃdrasya karma yadahiṃ vivṛścat |*
+> *vi vajreṇa pariṣado jaghānāyannāpo 'yanamicchamānāḥ ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > प्रवाच्यं । शश्वधा । वीर्यं । तत् । इंद्रस्य । कर्म । यत् । अहिं । विवृश्चत् ।
 > वि । वज्रेण । परिससदः । जघान । आयन् । आपः । अयनं । इच्छमानाः ॥ ७ ॥
+
+> *pravācyaṃ | śaśvadhā | vīryaṃ | tat | iṃdrasya | karma | yat | ahiṃ | vivṛścat |*
+> *vi | vajreṇa | parisasadaḥ | jaghāna | āyan | āpaḥ | ayanaṃ | icchamānāḥ ‖ 7 ‖*
 
 *[Printed oddities kept: the Saṃhitā has a numeral after the word for "heroism" (a note number; the note itself is not in the supplied text of this window); the Pada has a different word (ಪರಿಸಸದಃ) where the Saṃhitā has ಪರಿಷದೋ; as supplied. The window ends with the Pada of Ṛk 7; the bhāṣya follows in the next window.]*
 
@@ -26456,6 +27473,9 @@ The deed of Indra, that he killed the demon in the form of the cloud so that the
 > ए॒तद्वचो॑ जरित॒र्मापि॑ मृष्टा॒ आ यत्ते॒ घोषा॒नुत्त॑रा यु॒गानि॑ ।
 > उ॒क्षेषु॑ कारो॒ प्रति॑ नो जुषस्व॒ मा नो॒ नि कः॑ पुरुष॒त्रा नम॑स्ते ॥
 
+> *etadvaco jaritarmāpi mṛṣṭā ā yatte ghoṣānuttarā yugāni |*
+> *ukṣeṣu kāro prati no juṣasva mā no ni kaḥ puruṣatrā namaste ‖*
+
 *[The Saṃhitā ends with the danda but without the Ṛk number, as supplied (the number stands at the end of the Pada).]*
 
 *[Printed oddity kept: a garbled line stood between the Saṃhitā and the Pada, in the place of the Pada label (the first word of that line looks like the Kannada letters ಹಡಪಾಟೆ); it is kept in the Kannada text as an italic line and the standard Pada label is inserted. The Saṃhitā and the Pada were in one block (logged).]*
@@ -26466,6 +27486,11 @@ The deed of Indra, that he killed the demon in the form of the cloud so that the
 > युगानि ।
 > उक्षेषु । कारो इति । प्रति । नः । जुषस्व । मा । नः । नि । करिति कः । पुरुषत्रा ।
 > नमः । ते ॥ ८ ॥
+
+> *etat | vacaḥ | jaritaḥ | mā | api | mṛṣṭāḥ | ā | yat | te ' ghoṣān | ut 'tarā |*
+> *yugāni |*
+> *ukṣeṣu | kāro iti | prati | naḥ | juṣasva | mā | naḥ | ni | kariti kaḥ | puruṣatrā |*
+> *namaḥ | te ‖ 8 ‖*
 
 *[Printed oddities kept: a stray apostrophe stands after the word for "to you" in the Pada; the Pada has the avagraha sign inside the word for "later" (ಉತ್ಽತರಾ), where the Saṃhitā has none; the Pada form for "doer" is followed by ಇತಿ, and the form near the end of the Pada, "ಕರಿತಿ ಕಃ", is printed in this way; all as supplied.]*
 
@@ -26512,12 +27537,18 @@ O Viśvāmitra, the praiser, whatever words of praise of yours praise us, those 
 > ओ षु स्व॑सारः का॒रवे॑ शृणोत य॒यौ वो॑ दू॒रादन॑सा॒ रथे॑न ।
 > नि शू न॑मध्वं॒ भव॑ता सुपा॒रा अ॑धोअ॒क्षाः सिं॑धवः स्त्रो॒त्याभिः॑ ॥
 
+> *o ṣu svasāraḥ kārave śṛṇota yayau vo dūrādanasā rathena |*
+> *ni śū namadhvaṃ bhavatā supārā adhoakṣāḥ siṃdhavaḥ strotyābhiḥ ‖*
+
 *[The Saṃhitā ends with the danda but without the Ṛk number, as supplied.]*
 
 **॥ पदपाठः ॥**
 
 > ओ इति । सु । स्वसारः । कारवे । शृणोत । ययौ । वः । दूरात् । अनसा । रथेन ।
 > नि । सु । नमध्वं । भवत । सुपाराः । अधःऽअक्षाः । सिंधवः । स्त्रोत्याभिः ॥ ९ ॥
+
+> *o iti | su | svasāraḥ | kārave | śṛṇota | yayau | vaḥ | dūrāt | anasā | rathena |*
+> *ni | su | namadhvaṃ | bhavata | supārāḥ | adhaḥ 'akṣāḥ | siṃdhavaḥ | strotyābhiḥ ‖ 9 ‖*
 
 *[The Pada ends with the Ṛk number. Printed oddity kept: the Saṃhitā has ಭವತಾ where the Pada has ಭವತ; as supplied.]*
 
@@ -26574,6 +27605,9 @@ O sister rivers, listen well and attentively to the prayer of me, the praiser. I
 > आ ते॑ कारो शृणवामा॒ वचां॑सि य॒याथ॑ दू॒रादन॑सा॒ रथे॑न ।
 > नि ते॑ नंस्यॆ पीप्या॒नेव॒ योषा॒ मर्या॑येव क॒न्या॑ शश्व॒चै ते॑ ॥ १० ॥
 
+> *ā te kāro śṛṇavāmā vacāṃsi yayātha dūrādanasā rathena |*
+> *ni te naṃsyè pīpyāneva yoṣā maryāyeva kanyā śaśvacai te ‖ 10 ‖*
+
 *[The Saṃhitā ends with the danda and the Ṛk number, as supplied. Printed oddities kept: a short Kannada vowel sign e stands in the word for "I shall bow" (ನಂಸ್ಯೆ), which converts to the short Devanagari e inside Sanskrit, as supplied.]*
 
 ### Printed p. 792
@@ -26586,6 +27620,9 @@ O sister rivers, listen well and attentively to the prayer of me, the praiser. I
 
 > आ । ते । कारो इति । शृणवाम । वचांसि । ययाथ । दूरात् । अनसा । रथेन ।
 > नि । ते । नंस्यॆ । पीप्यानाइव । योषा । मर्यायइव । कन्या । शश्वचै । त इति ते॥
+
+> *ā | te | kāro iti | śṛṇavāma | vacāṃsi | yayātha | dūrāt | anasā | rathena |*
+> *ni | te | naṃsyè | pīpyānāiva | yoṣā | maryāyaiva | kanyā | śaśvacai | ta iti te‖*
 
 *[The Pada ends with a danda but without the Ṛk number, as supplied. Printed oddities kept: the Saṃhitā has ಶೃಣವಾಮಾ with a long final vowel where the Pada has the short one, and the Pada has the forms ಪೀಪ್ಯಾನಾಇವ and ಮರ್ಯಾಯಇವ (the word "iva" joined to the preceding word) where the Saṃhitā has ಪೀಪ್ಯಾನೇವ and ಮರ್ಯಾಯೇವ; the Pada also ends with the form ತ ಇತಿ ತೇ; all as supplied.]*
 
@@ -26658,12 +27695,18 @@ The rivers speak to Viśvāmitra thus: O Viśvāmitra, who praise us *[the suppl
 > यदं॒ग त्वा॑ भर॒ताः सं॒तरे॑युर्ग॒व्यन्‌ग्राम॑ इषि॒त इंद्र॑जूतः ।
 > अर्षा॒दह॑ प्रस॒वः सर्ग॑तक्त॒ आ वो॑ वृणे सुम॒तिं य॒ज्ञिया॑नां ॥ ११॥
 
+> *yadaṃga tvā bharatāḥ saṃtareyurgavyangrāma iṣita iṃdrajūtaḥ |*
+> *arṣādaha prasavaḥ sargatakta ā vo vṛṇe sumatiṃ yajñiyānāṃ ‖ 11‖*
+
 *[The Saṃhitā ends with the danda and the Ṛk number printed without a space before the second danda, as supplied. The word ಗವ್ಯನ್‌ಗ್ರಾಮ carries a joiner character inside it; the word ಸರ್ಗತಕ್ತ is printed without the visarga and with another consonant than the Pada's ಸರ್ಗಶಕ್ತಃ; as supplied.]*
 
 **॥ पदपाठः ॥**
 
 > यत् । अंग । त्वा । भरताः । संतरेयुः । गव्यन् । ग्रामः । इषितः । इंद्रजूतः ।
 > अर्षात् । अह । प्रसवः । सर्गशक्तः । आ । वः । वृणे । सुमतिं । यज्ञियानां ॥
+
+> *yat | aṃga | tvā | bharatāḥ | saṃtareyuḥ | gavyan | grāmaḥ | iṣitaḥ | iṃdrajūtaḥ |*
+> *arṣāt | aha | prasavaḥ | sargaśaktaḥ | ā | vaḥ | vṛṇe | sumatiṃ | yajñiyānāṃ ‖*
 
 *[The Pada ends with a danda and no Ṛk number, as supplied. After the Pada the supplied text has a stray line with the number 100 (kept in the Kannada file as an italic line). The window ends here; the Sāyaṇa-bhāṣya of Ṛk 11 is in the next window.]*
 
@@ -26731,6 +27774,9 @@ O rivers, by that same favour of yours by which you have made an opening for me 
 
 > अता॑रिषुर्भर॒ता ग॒व्यवः॒ समभ॑क्त॒ विप्रः॑ सुम॒तिं न॒दीनां॑ ।
 > प्र पि॑न्वध्वमि॒षयं॑तीः सु॒राधा॒ आ व॒क्षणाः॑ पृ॒णध्वं॑ या॒त शीभं॑ ॥
+
+> *atāriṣurbharatā gavyavaḥ samabhakta vipraḥ sumatiṃ nadīnāṃ |*
+> *pra pinvadhvamiṣayaṃtīḥ surādhā ā vakṣaṇāḥ pṛṇadhvaṃ yāta śībhaṃ ‖*
 
 *[The Saṃhitā ends with the danda sign and no Ṛk number, as supplied.]*
 
@@ -26804,6 +27850,9 @@ The Bharatas seeking cattle passed over : the sage enjoyed the favour of the riv
 
 > उत् । वः । ऊर्मिः । शम्याः । हंतु । आपः । योक्राणि । मुंचत ।
 > मा । अदुःकृतौ । विएनसा । अघ्न्य । शूनं । आ । अरतां ॥ १३ ॥
+
+> *ut | vaḥ | ūrmiḥ | śamyāḥ | haṃtu | āpaḥ | yokrāṇi | muṃcata |*
+> *mā | aduḥkṛtau | vienasā | aghnya | śūnaṃ | ā | aratāṃ ‖ 13 ‖*
 
 *[The Pada ends with the danda sign and the Ṛk number, as supplied.]*
 
@@ -27012,6 +28061,9 @@ The word दयमान (*dayamāna*) is formed from the root दयति (*da
 > म॒खस्य॑ ते तवि॒षस्य॒ प्र जू॒तिमिय॑र्मि॒ वाच॑म॒मृता॑य॒ भूष॑न् ।
 > इंद्र॑ क्षिती॒नाम॑सि॒ मानु॑षीणां वि॒शां दैवी॑नामु॒त पू॑र्व॒यावा॑ ॥
 
+> *makhasya te taviṣasya pra jūtimiyarmi vācamamṛtāya bhūṣan |*
+> *iṃdra kṣitīnāmasi mānuṣīṇāṃ viśāṃ daivīnāmuta pūrvayāvā ‖*
+
 *[The Saṃhitā of this Ṛk is printed without the Ṛk number at its end; as supplied.]*
 
 **॥ पदपाठः ॥**
@@ -27077,6 +28129,9 @@ Decorating you, I address sincere prayers to you who are adorable and mighty, fo
 
 > इंद्रः । वृत्रं । अवृणोत् । शर्धनीतिः । प्र । मायिनां । अमिनात् । वर्पनीतिः ।
 > अहन् । विअंसं । उशधक् । वनेषु । आविः । धेनाः । अकृणोत् । राम्याणां ॥ ३ ॥
+
+> *iṃdraḥ | vṛtraṃ | avṛṇot | śardhanītiḥ | pra | māyināṃ | amināt | varpanītiḥ |*
+> *ahan | viaṃsaṃ | uśadhak | vaneṣu | āviḥ | dhenāḥ | akṛṇot | rāmyāṇāṃ ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -27149,6 +28204,9 @@ Indra, of glorious deeds, destroyed Vritra : resistless in combat, he has overco
 > इंद्रः॑ स्व॒र्षा ज॒नय॒न्नहा॑नि जि॒गायो॒शिग्निः॒ पृत॑ना अभि॒ष्टिः ।
 > प्रारो॑चय॒न्मन॑वे के॒तुमह्ना॒विं॑द॒ज्योति॑र्बृह॒ते रणा॑य ॥ ४ ॥
 
+> *iṃdraḥ svarṣā janayannahāni jigāyośigniḥ pṛtanā abhiṣṭiḥ |*
+> *prārocayanmanave ketumahnāviṃdajyotirbṛhate raṇāya ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्रः । स्वः साः । जनयन् । अहानि । जिगाय । उशिक्भिः । पृतनाः । अभिष्टिः ।
@@ -27207,6 +28265,9 @@ Indra, the giver of Swarga, generating the days, has subdued victorious with the
 
 > इंद्र॒स्तुजो॑ ब॒र्हणा॒ आ वि॑वेश नृ॒वद्दधा॑नो॒ नर्या॑ पु॒रूणि॑ ।
 > अचे॑तय॒द्धिय॑ इ॒मा ज॑रि॒त्रे प्रेमं वर्ण॑मतिरच्चु॒क्रमा॑सां ॥ ५ ॥
+
+> *iṃdrastujo barhaṇā ā viveśa nṛvaddadhāno naryā purūṇi |*
+> *acetayaddhiya imā jaritre premaṃ varṇamatiraccukramāsāṃ ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -27267,6 +28328,8 @@ Indra entered the confiding hostile (hosts) like a man distributing many (gifts)
 **॥ संहितापाठः ॥**
 
 > म॒हो म॒हानि॑ पनयंत्य॒स्येंद्र॑स्य॒ कर्म॒ सुकृ॑ता पु॒रूणि॑ ।
+
+> *maho mahāni panayaṃtyasyeṃdrasya karma sukṛtā purūṇi |*
 
 *[Only the first line of the Saṃhitā is supplied. In place of its second line, which would carry the Ṛk number, the supplied text has two lines in Tamil script; they are kept as italic lines in the Kannada file, not translated, and the first of them is the end of the Saṃhitā block as the text stands. The supplied text prints no number for this Ṛk; it is headed 6 here only by the sequence of the preceding Ṛks. The window ends here; the rest of this Ṛk follows in the next window.]*
 
@@ -27347,6 +28410,9 @@ They celebrate many great and glorious exploits of this mighty Indra : he crushe
 > यु॒धेंद्रो॑ म॒ह्ना वरि॑वश्चकार दे॒वेभ्यः॒ सत्प॑तिश्चर्षणि॒प्राः ।
 > वि॒वस्व॑तः॒ सद॑ने अस्य॒ तानि॒ विप्रा॑ उ॒क्तेभिः॑ क॒वयो॑ गृणंति ॥ ७ ॥
 
+> *yudheṃdro mahnā varivaścakāra devebhyaḥ satpatiścarṣaṇiprāḥ |*
+> *vivasvataḥ sadane asya tāni viprā uktebhiḥ kavayo gṛṇaṃti ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > युधाः । इंद्रः । मह्ना । वरिवः । चकार । देवेभ्यः । सत्पतिः । चर्षणिप्राः ।
@@ -27408,6 +28474,9 @@ Lord of the virtuous, fulfiller of the wishes of men, he gave to the gods the we
 > स॒त्रा॒साहं॒ वरे॑ण्यं सहो॒दां स॑स॒वांसं॒ स्व॑र॒पश्च॑ दे॒वीः ।
 > स॒सान॒ यः पृ॑थि॒वीं द्यामु॒तेमामिंद्रं॑ मदं॒त्यनु॒ धीर॑णासः ॥ ८ ॥
 
+> *satrāsāhaṃ vareṇyaṃ sahodāṃ sasavāṃsaṃ svarapaśca devīḥ |*
+> *sasāna yaḥ pṛthivīṃ dyāmutemāmiṃdraṃ madaṃtyanu dhīraṇāsaḥ ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > सत्रासहं । वरेण्यं । सहःदां । ससवांसं । स्वः । अपः । च । देवीः ।
@@ -27462,10 +28531,16 @@ Devout worshippers propitiate Indra, the victorious, the excellent, the bestower
 > स॒सानात्या॑ उ॒त सूर्यं॑ ससा॒नेंद्रः॑ ससान पुरु॒भोज॑सं॒ गां ।
 > हि॒र॒ण्यय॑मु॒त भोगं॑ ससान ह॒त्वी दस्यू॒न् प्रार्यं॒ वर्ण॑मावत् ॥
 
+> *sasānātyā uta sūryaṃ sasāneṃdraḥ sasāna purubhojasaṃ gāṃ |*
+> *hiraṇyayamuta bhogaṃ sasāna hatvī dasyūn prāryaṃ varṇamāvat ‖*
+
 **॥ पदपाठः ॥**
 
 > ससान । अत्यान् । उत । सूर्यं । ससान । इंद्रः । ससान । पुरुभोजसं । गां ।
 > हिरण्ययं । उत । भोगं । ससान । हत्वी । दस्यून् । प्र । आर्यं । वर्णं । आवत् ॥
+
+> *sasāna | atyān | uta | sūryaṃ | sasāna | iṃdraḥ | sasāna | purubhojasaṃ | gāṃ |*
+> *hiraṇyayaṃ | uta | bhogaṃ | sasāna | hatvī | dasyūn | pra | āryaṃ | varṇaṃ | āvat ‖*
 
 *[Neither the Saṃhitā block nor the Pada block of this Ṛk carries a Ṛk number; both end with a single double bar; as supplied.]*
 
@@ -27515,6 +28590,9 @@ He gave horses, he gave also the sun, and Indra gave also the many-nourishing co
 
 > इंद्र॒ ओष॑धीरसनो॒दहा॑नि॒ वन॒स्पती॑रसनोदं॒तरि॑क्षं ।
 > बि॒भेद॑ व॒लं नु॑नु॒दे विवा॒चोऽथा॑भवद्दमि॒ताभिक्र॑तूनां ॥ १० ॥
+
+> *iṃdra oṣadhīrasanodahāni vanaspatīrasanodaṃtarikṣaṃ |*
+> *bibheda valaṃ nunude vivāco 'thābhavaddamitābhikratūnāṃ ‖ 10 ‖*
 
 *[The Saṃhitā of this Ṛk is split by the page break: its first line closes page 811 and its second line opens page 812. The two lines are joined into one block (logged) and the heading and running head of page 812 follow below it.]*
 
@@ -27580,6 +28658,9 @@ Indra bestowed plants and days, he gave trees and the firmament, he divided the 
 
 > शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सात् ।
 > शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नां ॥
+
+> *śunaṃ huvema maghavānamiṃdramasminbhare nṛtamaṃ vājasāt |*
+> *śṛṇvaṃtamugramūtaye samattu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ dhanānāṃ ‖*
 
 **॥ पदपाठः ॥**
 
@@ -27676,6 +28757,9 @@ We invoke for our protection the opulent Indra, distinguished in this combat, th
 > तिष्ठा॒ हरी॒ रथ॒ आ यु॒ज्यमा॑ना या॒हि वा॒युर्न नि॒युतो॑ नो॒ अच्छ॑ ।
 > पिबा॒स्यंधो॑ अ॒भिसृ॑ष्टो अ॒स्मे इंद्र॒ स्वाहा॑ ररि॒मा ते॒ मदा॑य ॥
 
+> *tiṣṭhā harī ratha ā yujyamānā yāhi vāyurna niyuto no accha |*
+> *pibāsyaṃdho abhisṛṣṭo asme iṃdra svāhā rarimā te madāya ‖*
+
 **॥ पदपाठः ॥**
 
 > तिष्ठ । हरी इति । रथे । आ । युज्यमाना । याहि । वायुः । न । नियुतः । न । अच्छ ।
@@ -27755,12 +28839,18 @@ Stay, Indra, having yoked the horses to the car, as Vayu stops when he has put u
 > उपा॑जि॒रा पु॑रुहू॒ताय॒ सप्ति॒ हरी॒ रथ॑स्य धू॒र्स्वा यु॑नज्मि ।
 > द्र॒वद्यथा॒ संभृ॑तं वि॒श्वत॑श्चि॒दुपे॒मं य॒ज्ञमा व॑हात॒ इंद्रं॑ ॥ २ ॥
 
+> *upājirā puruhūtāya sapti harī rathasya dhūrsvā yunajmi |*
+> *dravadyathā saṃbhṛtaṃ viśvataścidupemaṃ yajñamā vahāta iṃdraṃ ‖ 2 ‖*
+
 *[The Pada label of this Ṛk is garbled in the supplied text (ಹಡಸಾಃ); the line is kept as an italic line in the Kannada file and the standard label is inserted. In the supplied text the Pada stood in the same quoted block as the Saṃhitā (split, logged).]*
 
 **॥ पदपाठः ॥**
 
 > उप । अजिरा । पुरुऽहूताय । सप्ति इति । हरी इति । रथस्य । धूऽसु । आ । युनज्मि ।
 > द्रवत् । यथा । संभृतं । विश्वतः । चित् । उप । इमं । यज्ञं । आ । वहातः । इंद्रं
+
+> *upa | ajirā | puru 'hūtāya | sapti iti | harī iti | rathasya | dhū 'su | ā | yunajmi |*
+> *dravat | yathā | saṃbhṛtaṃ | viśvataḥ | cit | upa | imaṃ | yajñaṃ | ā | vahātaḥ | iṃdraṃ*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -27817,10 +28907,16 @@ I harness for you, who are invoked by many. [sic] the swift gliding horses to th
 > उपो॑ नयस्व॒ वृष॑णा तपु॒ष्पोतेम॑व॒ त्वं वृ॑षभ स्वधावः ।
 > ग्रसे॑ता॒मश्वा॒ वि मु॑चे॒ह शोणा॑ दि॒वेदि॑वे स॒दृशी॑रद्धि धा॒नाः ॥ ३ ॥
 
+> *upo nayasva vṛṣaṇā tapuṣpotemava tvaṃ vṛṣabha svadhāvaḥ |*
+> *grasetāmaśvā vi muceha śoṇā divedive sadṛśīraddhi dhānāḥ ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > उपो इति । नयस्व । वृषणा । तपुःपा । उत । ईं । अव । त्वं । वृषभ । स्वधावः ॥
 > ग्रसेशां । अश्वा । वि । मुच । इह । शोणा । दिवेऽदिवे । सऽदृशीः । अद्धि । धानाः ॥
+
+> *upo iti | nayasva | vṛṣaṇā | tapuḥpā | uta | īṃ | ava | tvaṃ | vṛṣabha | svadhāvaḥ ‖*
+> *graseśāṃ | aśvā | vi | muca | iha | śoṇā | dive 'dive | sa 'dṛśīḥ | addhi | dhānāḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -27889,11 +28985,18 @@ Showerer (of benefits), giver of food, guide hither your vigorous horses, defend
 > ब्रह्म॑णा ते ब्रह्म॒युजा॑ युनज्मि॒ हरी॒ सखा॑या सध॒माद॑ आ॒शू ।
 > स्थि॒रं रथं॑ सु॒खमिं॑द्राधि॒तिष्ठ॑न्स ज्ञा॒नन्वि॒द्वा उप॑ याहि॒ सोमं॑ ॥
 
+> *brahmaṇā te brahmayujā yunajmi harī sakhāyā sadhamāda āśū |*
+> *sthiraṃ rathaṃ sukhamiṃdrādhitiṣṭhansa jñānanvidvā upa yāhi somaṃ ‖*
+
 **॥ पदपाठः ॥**
 
 > ब्रह्मणा । ते । ब्रह्मयुजा । युनज्मि । हरी इति । सखाया । सध्ममादे । आशू इति ।
 > स्थिरं । रथं । सुखं । इंद्र । अधिष्ठिन् । प्रजानन् । विद्वान् । उप । याहि ।
 > सोमं ॥ ४ ॥
+
+> *brahmaṇā | te | brahmayujā | yunajmi | harī iti | sakhāyā | sadhmamāde | āśū iti |*
+> *sthiraṃ | rathaṃ | sukhaṃ | iṃdra | adhiṣṭhin | prajānan | vidvān | upa | yāhi |*
+> *somaṃ ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -27968,6 +29071,9 @@ On the twenty-fourth day of the sacrifice, called Chāturviṃśika, in the midd
 > मा । ते । हरी इति । वृषणा । वीतपृष्ठा । नि । रीरमन् । यजमानासः । अन्ये ।
 > अतिआयाहि । शश्वतः । वयं । ते । अरं । सुतेभिः । कृणवाम । सोमैः ॥ ५ ॥
 
+> *mā | te | harī iti | vṛṣaṇā | vītapṛṣṭhā | ni | rīraman | yajamānāsaḥ | anye |*
+> *atiāyāhi | śaśvataḥ | vayaṃ | te | araṃ | sutebhiḥ | kṛṇavāma | somaiḥ ‖ 5 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > हे इंद्र वृषणा कामानां सेचकौ वीतपृष्ठा कमनीयपृष्ठभागौ ते तव हरी
@@ -28015,11 +29121,18 @@ Let not other sacrifices [sic] attract your vigorous and smooth-backed steeds : 
 > तवा॒यं सोम॒स्त्वमेह्य॒र्वाज् श॑श्वत्त॒मं सु॒मना॑ अ॒स्य पा॑हि ।
 > अ॒स्मिन्य॒ज्ञे ब॒र्हिष्यान् नि॒षद्या॑ दधि॒ष्टेमं ज॒ठर॒ इंदु॑मिंद्र ॥ ६ ॥
 
+> *tavāyaṃ somastvamehyarvāj śaśvattamaṃ sumanā asya pāhi |*
+> *asminyajñe barhiṣyān niṣadyā dadhiṣṭemaṃ jaṭhara iṃdumiṃdra ‖ 6 ‖*
+
 **॥ पदपाठः ॥**
 
 > तव । अयं । सोमः । त्वं । आ । इहि । अर्वाज् । शश्वत्तमं । सुमनाः । अस्य ।
 > पाहि ।
 > अस्मिन् । यज्ञे । बर्हिषि । आ । निसद्य । दधिष्ट । इमं । जठरे । इंदुं । इंद्र ॥ ६ ॥
+
+> *tava | ayaṃ | somaḥ | tvaṃ | ā | ihi | arvāj | śaśvattamaṃ | sumanāḥ | asya |*
+> *pāhi |*
+> *asmin | yajñe | barhiṣi | ā | nisadya | dadhiṣṭa | imaṃ | jaṭhare | iṃduṃ | iṃdra ‖ 6 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -28074,10 +29187,16 @@ This Ṛk beginning तवायं सोमः (*tavāyaṃ somaḥ*) is to be
 > स्वी॒र्णं ते॑ ब॒र्हिः सु॒त इं॑द्र॒ सोमः॑ कृ॒ता धा॒ना अत्त॑वे ते॒ हरि॑भ्यां ।
 > तदो॑कसे पुरु॒शाका॑य॒ वृष्णे॑ म॒रुत्व॑ते॒ तुभ्यं॑ रा॒ता ह॒वींषि॑ ॥ ७ ॥
 
+> *svīrṇaṃ te barhiḥ suta iṃdra somaḥ kṛtā dhānā attave te haribhyāṃ |*
+> *tadokase puruśākāya vṛṣṇe marutvate tubhyaṃ rātā havīṃṣi ‖ 7 ‖*
+
 **॥ पदपाठः ॥**
 
 > स्त्रीर्णं । ते । बर्हिः । सुतः । इंद्र । सोमः । कृताः । धानाः । अत्तवे । ते । हरिभ्यां ।
 > तत्ऽओकसे । पुरुशाकाय । वृष्णे । मरुत्वते । तुभ्यं । राता । हवींषि ॥ ७ ॥
+
+> *strīrṇaṃ | te | barhiḥ | sutaḥ | iṃdra | somaḥ | kṛtāḥ | dhānāḥ | attave | te | haribhyāṃ |*
+> *tat 'okase | puruśākāya | vṛṣṇe | marutvate | tubhyaṃ | rātā | havīṃṣi ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -28132,6 +29251,9 @@ The sacred grass is strewn for you ; the Soma juice, Indra, is poured forth , th
 > इ॒मं नरः॒ पर्व॑ता॒स्तुभ्य॒मापः॒ समिं॑द्र॒गोभि॒र्मधु॑मंतमक्रन् ।
 > तस्या॒गत्या॑ सु॒मना॑ ऋष्व पाहि प्रजा॒नन्वि॒द्वान्‌प॒थ्या॒३॒॑ अनु॒ स्वाः ॥ ८ ॥
 
+> *imaṃ naraḥ parvatāstubhyamāpaḥ samiṃdragobhirmadhumaṃtamakran |*
+> *tasyāgatyā sumanā ṛṣva pāhi prajānanvidvānpathyā3 anu svāḥ ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > इमं । नरः । पर्वताः । तुभ्यं । आपः । सं । इंद्र । गोभिः । मधुमंतं । अक्रन् ।
@@ -28183,6 +29305,9 @@ The leaders (of the ceremony) have prepared for you, Indra, this (libation), swe
 > या आभ॑जो म॒रुत॑ इंद्र॒ सोमे॒ ये त्वामव॑र्ध॒न्न भ॑वनग्ग॒णस्ते॑ ।
 > तेभि॑रे॒तं स॒जोषा॑ वावशा॒नो॒३॒॑ ग्नेः पि॑ब जि॒ह्वया॒ सोम॑मिंद्र ॥
 
+> *yā ābhajo maruta iṃdra some ye tvāmavardhanna bhavanaggaṇaste |*
+> *tebhiretaṃ sajoṣā vāvaśāno3 gneḥ piba jihvayā somamiṃdra ‖*
+
 *[Stray line after the Saṃhitā block: the figure 104, kept as supplied.]*
 
 ### Printed p. 826
@@ -28194,6 +29319,10 @@ The leaders (of the ceremony) have prepared for you, Indra, this (libation), swe
 > यान् । आ । अभजः । मरुतः । इंद्र । सोमे । ये । त्वां । अवर्धन् । अभवन् ।
 > गणः । ते ।
 > तेभिः । एतं । सजोषाः । वावशानः । अग्नेः । पिब । जिह्वया । सोमं । इंद्र ॥ ९ ॥
+
+> *yān | ā | abhajaḥ | marutaḥ | iṃdra | some | ye | tvāṃ | avardhan | abhavan |*
+> *gaṇaḥ | te |*
+> *tebhiḥ | etaṃ | sajoṣāḥ | vāvaśānaḥ | agneḥ | piba | jihvayā | somaṃ | iṃdra ‖ 9 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -28245,11 +29374,19 @@ drink, desirous (of the beverage) the Soma juice, along with them, with the tong
 > अ॒ध्व॒र्योर्वा॒ प्रय॑तं शक्र॒ हस्ता॒द्दोतु॑र्वा य॒ज्ञं ह॒विषो॑
 > जुषस्व ॥ १० ॥
 
+> *iṃdra piba svadhayā citsutasyāgnervā pāhi jihvayā yajatra |*
+> *adhvaryorvā prayataṃ śakra hastāddoturvā yajñaṃ haviṣo*
+> *juṣasva ‖ 10 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्र ॥ पिब । स्वधया । चित् । सुतस्य । अग्नेः । वा । पाहि । जिह्वया । यजत्र ।
 > अध्वर्योः । वा । प्रयतं । शक्र । हस्तात् । होतुः । वा । यज्ञं । हविषः ।
 > जुषस्व ॥ १० ॥
+
+> *iṃdra ‖ piba | svadhayā | cit | sutasya | agneḥ | vā | pāhi | jihvayā | yajatra |*
+> *adhvaryoḥ | vā | prayataṃ | śakra | hastāt | hotuḥ | vā | yajñaṃ | haviṣaḥ |*
+> *juṣasva ‖ 10 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -28300,10 +29437,16 @@ Adorable Indra, drink of the effused libation, either by your own effort, or thr
 > शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सातौ ।
 > शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्सु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नां ।
 
+> *śunaṃ huvema maghavānamiṃdramasminbhare nṛtamaṃ vājasātau |*
+> *śṛṇvaṃtamugramūtaye samatsu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ dhanānāṃ |*
+
 **॥ पदपाठः ॥**
 
 > शुनं । हुवेम । मघवानं । इंद्रं । अस्मिन् । भरे । नृतमं । वाजसात् ।
 > शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+> *śunaṃ | huvema | maghavānaṃ | iṃdraṃ | asmin | bhare | nṛtamaṃ | vājasāt |*
+> *śṛṇvaṃtaṃ | ugraṃ | ūtaye | samatsu | ghnaṃtaṃ | vṛtrāṇi | saṃjitaṃ | dhanānāṃ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -28392,6 +29535,9 @@ We invoke for our protection the opulent Indra, distinguished in this combat, th
 > इ॒मामू॒ षु प्रभृ॑तिं सा॒तये॑ धाः॒ शश्व॑च्छश्वदू॒तिभि॒र्याद॑मानः ।
 > सु॒तेसु॑ते नावृधे॒ वर्ध॑नेभि॒र्यः कर्म॑भिर्म॒हद्भिः॒ सुश्रु॑तो॒भूत् ॥
 
+> *imāmū ṣu prabhṛtiṃ sātaye dhāḥ śaśvacchaśvadūtibhiryādamānaḥ |*
+> *sutesute nāvṛdhe vardhanebhiryaḥ karmabhirmahadbhiḥ suśrutobhūt ‖*
+
 **॥ पदपाठः ॥**
 
 > इमां। ऊं इति । सु । प्रभृतिं । सातये । धाः ! शश्वत्शश्वत् । ऊतिभिः । यादमानः ।
@@ -28458,10 +29604,16 @@ for you are one who grows with augmenting energies, through reiterated libations
 > इंद्रा॑य॒ सोमाः॑ प्र॒दिवो॒ विदा॑ना ऋ॒भुर्येभि॒वृष॑पर्वा॒ विहा॑याः ।
 > प्र॒य॒म्यमा॑ना॒न्प्रति॒ षू गृ॑भा॒येंद्र॒ पिब॒ वृष॑धूतस्य॒ वृष्णः॑ ॥ २ ॥
 
+> *iṃdrāya somāḥ pradivo vidānā ṛbhuryebhivṛṣaparvā vihāyāḥ |*
+> *prayamyamānānprati ṣū gṛbhāyeṃdra piba vṛṣadhūtasya vṛṣṇaḥ ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्राय । सोमाः । प्रदिवः । विदानाः । ऋभुः । येभिः । वृषपर्वा । विहायाः ।
 > प्रयम्यमानान् । प्रति । सु । गृभाय । इंद्र । पिब । वृषधूतस्य । वृष्णः ॥ २ ॥
+
+> *iṃdrāya | somāḥ | pradivaḥ | vidānāḥ | ṛbhuḥ | yebhiḥ | vṛṣaparvā | vihāyāḥ |*
+> *prayamyamānān | prati | su | gṛbhāya | iṃdra | piba | vṛṣadhūtasya | vṛṣṇaḥ ‖ 2 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -28516,10 +29668,16 @@ At the midday pressing the priest called Acchāvāka must recite this Ṛk, begi
 > पिबा॒ वर्ध॑स्व॒ तव॑ घा सु॒तास॒ इंद्र॒ सोमा॑सः प्रथ॒मा उ॒तेमे ।
 > यथापि॑बः पू॒र्व्या इं॑द्र॒ सोमा॑ ए॒वा पा॑हि॒ पन्यो॑ अ॒द्या नवी॑यान् ॥ ३ ॥
 
+> *pibā vardhasva tava ghā sutāsa iṃdra somāsaḥ prathamā uteme |*
+> *yathāpibaḥ pūrvyā iṃdra somā evā pāhi panyo adyā navīyān ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > पिब । वर्धस्व । तव । घ । सुतासः । इंद्र । सोमासः । प्रथमाः । उत । इमे ।
 > यथा । अपिबः । पूर्व्यान् । इंद्र । सोमान् । एव । पाहि । पन्यः । अद्य । नवीयान् ॥ ३ ॥
+
+> *piba | vardhasva | tava | gha | sutāsaḥ | iṃdra | somāsaḥ | prathamāḥ | uta | ime |*
+> *yathā | apibaḥ | pūrvyān | iṃdra | somān | eva | pāhi | panyaḥ | adya | navīyān ‖ 3 ‖*
 
 *[Line-end hyphens in the Saṃhitā and Pada are joined (logged). After the Pada a stray line with the number 105 stands inside the block in the supplied text; it is moved out of the block and kept as an italic line in the Kannada file (logged).]*
 
@@ -28579,12 +29737,18 @@ At the midday pressing the priest called Acchāvāka must recite this Ṛk, begi
 > म॒हा अम॑त्रो वृ॒जने॑ विर॒प्यु१॒॑ ग्रं शवः॑ पत्यते धृ॒ष्ट्वोऽजः॑ ।
 > नाह॑ विव्याच पृथि॒वी च॒नैनं॒ यत्सोमा॑सो॒ हर्य॑श्व॒ममं॑दन् ॥
 
+> *mahā amatro vṛjane virapyu1 graṃ śavaḥ patyate dhṛṣṭvo 'jaḥ |*
+> *nāha vivyāca pṛthivī canainaṃ yatsomāso haryaśvamamaṃdan ‖*
+
 *[The Saṃhitā block has no closing number. Inside the first line a Kannada numeral for one stands between two parts of a word: ವಿರಪ್ಯು ೧ ಗ್ರಂ; as supplied. The accent script may double it (see the report).]*
 
 **॥ पदपाठः ॥**
 
 > महान् । अमत्रः । वृजने । विरप्यी उग्रं । शवः । पत ते । धृष्णु । ओजः ।
 > न । आह । विव्याच प्रथिवी । चन । एनं ' यत् । सोमासः । हरिआश्वं । आमंदन् ॥
+
+> *mahān | amatraḥ | vṛjane | virapyī ugraṃ | śavaḥ | pata te | dhṛṣṇu | ojaḥ |*
+> *na | āha | vivyāca prathivī | cana | enaṃ ' yat | somāsaḥ | hariāśvaṃ | āmaṃdan ‖*
 
 *[Printed oddities kept: the Pada has ವಿರಪ್ಯೀ ಉಗ್ರಂ, ಪತ ತೇ (a space inside the word), ವಿವ್ಯಾಚ ಪ್ರಥಿವೀ and a stray apostrophe after ಏನಂ '; as supplied. After the Pada, in the supplied block, a garbled label line stands: ಸಾಹೂಣಭಾಷ್ಯಂ ೩; it is moved out of the block, kept as an italic line in the Kannada file and replaced by the standard label (logged).]*
 
@@ -28637,12 +29801,18 @@ The great Indra, the victorious in battle, the defier of foes : his fierce stren
 > म॒हा उ॒ग्रो ना॑वृधे वी॒र्या॑य स॒माच॑क्रे वृष॒भः काव्ये॑न ।
 > इंद्रो॒ भगो॑ वाज॒दा अ॑स्य॒ गावः॒ प्र जा॑यंते॒ दक्षि॑णा अस्य पू॒र्वीः
 
+> *mahā ugro nāvṛdhe vīryāya samācakre vṛṣabhaḥ kāvyena |*
+> *iṃdro bhago vājadā asya gāvaḥ pra jāyaṃte dakṣiṇā asya pūrvīḥ*
+
 *[The second line of the Saṃhitā block has no closing double danda in the supplied text; as supplied.]*
 
 **॥ पदपाठः ॥**
 
 > महान् । उग्रः । ववृधे । वीर्याय । संआचक्रे । वृषभः । काव्येन ।
 > इंद्रः । भगः । वाजदाः । अस्य । गावः । प्र । जायंते । दक्षिणाः । अस्य । पूर्वीः ॥
+
+> *mahān | ugraḥ | vavṛdhe | vīryāya | saṃācakre | vṛṣabhaḥ | kāvyena |*
+> *iṃdraḥ | bhagaḥ | vājadāḥ | asya | gāvaḥ | pra | jāyaṃte | dakṣiṇāḥ | asya | pūrvīḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -28695,11 +29865,18 @@ The mighty, fierce, auspicious Indra, the showerer (of benefits), augments (in p
 > प्र यत्सिंध॑वः प्रस॒नं यथाय॒न्नापः॑ समु॒द्रं र॒थ्ये॑व जग्मुः ।
 > अत॑श्चि॒दिंद्रः॒ सद॑सो॒ वरी॑या॒न्यदीं॒ सोमः॑ पृ॒णति॑ दु॒ग्धो अं॒शुः ॥
 
+> *pra yatsiṃdhavaḥ prasanaṃ yathāyannāpaḥ samudraṃ rathyeva jagmuḥ |*
+> *ataścidiṃdraḥ sadaso varīyānyadīṃ somaḥ pṛṇati dugdho aṃśuḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > प्र । यत् । सिंधवः । प्रसवं । यथा । आयन् । आपः । समुद्रं । रथ्या इव । जग्मुः
 > अतः । चित् । इंद्रः । सदसः । वरीयान् । यत् । ईं । सोमः । पृणति । दुग्धः ।
 > अंशुः ॥ ६ ॥
+
+> *pra | yat | siṃdhavaḥ | prasavaṃ | yathā | āyan | āpaḥ | samudraṃ | rathyā iva | jagmuḥ*
+> *ataḥ | cit | iṃdraḥ | sadasaḥ | varīyān | yat | īṃ | somaḥ | pṛṇati | dugdhaḥ |*
+> *aṃśuḥ ‖ 6 ‖*
 
 *[In the Pada block the word ಜಗ್ಮುಃ at the end of the first line has no danda after it; as supplied.]*
 
@@ -28750,6 +29927,9 @@ As the rivers pursue their course, the waters rush to the ocean, like the driver
 > स॒मु॒द्रेण॒ सिंध॑वो॒ याद॑माना॒ इंद्रा॑य॒ सोमं॒ सुषु॑तं॒ भरं॑तः ॥
 > अं॒शुं दु॑हंति द॒स्तिनो॑ भ॒रित्रै॒र्मध्वः॑ पुनंति॒ धार॑या प॒वित्रैः॑॥७॥
 
+> *samudreṇa siṃdhavo yādamānā iṃdrāya somaṃ suṣutaṃ bharaṃtaḥ ‖*
+> *aṃśuṃ duhaṃti dastino bharitrairmadhvaḥ punaṃti dhārayā pavitraiḥ‖7‖*
+
 *[The first line of the Saṃhitā ends with a double danda in the supplied text, and the closing number of the second line is attached to the last word without a space; as supplied.]*
 
 *[After the Saṃhitā a stray line of the supplied text stands: ಹಡಸಾಟ. It is kept as an italic line in the Kannada file; the Pada label is missing and the standard label is inserted (logged).]*
@@ -28758,6 +29938,9 @@ As the rivers pursue their course, the waters rush to the ocean, like the driver
 
 > समुद्रेण । सिंधवः । यादमानाः । इंद्राय । सोमं । सुसुतं । भरंतः ।
 > अंशुं । दुहंति । हस्तिनः । भरित्रैः । मध्वः । पुनंति । धारया । पवित्रैः ॥ ७ ॥
+
+> *samudreṇa | siṃdhavaḥ | yādamānāḥ | iṃdrāya | somaṃ | susutaṃ | bharaṃtaḥ |*
+> *aṃśuṃ | duhaṃti | hastinaḥ | bharitraiḥ | madhvaḥ | punaṃti | dhārayā | pavitraiḥ ‖ 7 ‖*
 
 *[Printed oddities kept: the Saṃhitā has ದಸ್ತಿನೋ and the Pada has ಹಸ್ತಿನಃ; the Saṃhitā has ಸುಷುತಂ and the Pada has ಸುಸುತಂ; as supplied.]*
 
@@ -28808,10 +29991,16 @@ As the rivers are solicitour [sic] (to mix) with the ocean, so (are the priests)
 > ह्र॒दाइ॑व कु॒क्षयः॑ सोम॒धानाः॒ समिं॑ विव्याच॒ सव॑ना पु॒रूणि॑ ।
 > अन्ना॒ यदिंद्रः॑ प्रथ॒मा व्याश॑ वृ॒त्रं ज॑घ॒न्वा अ॑वृणीत॒ सोमं॑ ॥ ८ ॥
 
+> *hradāiva kukṣayaḥ somadhānāḥ samiṃ vivyāca savanā purūṇi |*
+> *annā yadiṃdraḥ prathamā vyāśa vṛtraṃ jaghanvā avṛṇīta somaṃ ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > प्रदाःऽइव । कुक्षयः । सोमऽधानाः । सं । ईमिति । विव्याच । सवना । पुरूणि ।
 > अन्ना । यत् । इंद्रः । प्रथमा । वि । आश । वृत्रं । जघन्वान् । अवृणीत । सोमं ॥
+
+> *pradāḥ 'iva | kukṣayaḥ | soma 'dhānāḥ | saṃ | īmiti | vivyāca | savanā | purūṇi |*
+> *annā | yat | iṃdraḥ | prathamā | vi | āśa | vṛtraṃ | jaghanvān | avṛṇīta | somaṃ ‖*
 
 *[Printed oddities kept: the Saṃhitā has ಹ್ರದಾ and the Pada ಪ್ರದಾಃಽಇವ; the Pada has ಸೋಮಽಧಾನಾಃ; as supplied.]*
 
@@ -28856,10 +30045,16 @@ The stomaeh [sic] of Indra (is) as capacious (a receptacle) of Soma, as a ake [s
 > आ तू भ॑र॒ माकि॑रे॒तत्परि॑ ष्ठाद्वि॒द्मा हि त्वा॒ वसु॑पतिं॒ वसू॑नां ।
 > इंद्र॒ यत्ते॒ माहि॑नं॒ दत्र॒मस्त्य॒स्मभ्यं॒ तद्ध॑र्यश्व॒ प्र यं॑धि ॥ ९ ॥
 
+> *ā tū bhara mākiretatpari ṣṭhādvidmā hi tvā vasupatiṃ vasūnāṃ |*
+> *iṃdra yatte māhinaṃ datramastyasmabhyaṃ taddharyaśva pra yaṃdhi ‖ 9 ‖*
+
 **॥ पदपाठः ॥**
 
 > आ । तु । भर । माकिः । एतत् । परि । स्थात् । विद्म । हि । त्वा । वसुपतिं । वसूनां ।
 > इंद्र । यत् । ते । माहिनं । दत्रं । अस्ति । अस्मभ्यं । तत् । हरिअश्व । प्र । यंधि ॥
+
+> *ā | tu | bhara | mākiḥ | etat | pari | sthāt | vidma | hi | tvā | vasupatiṃ | vasūnāṃ |*
+> *iṃdra | yat | te | māhinaṃ | datraṃ | asti | asmabhyaṃ | tat | hariaśva | pra | yaṃdhi ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -28984,10 +30179,16 @@ At the Jātakarma, for the touching of the shoulder (अंसाभिमर्
 > शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सात् ।
 > शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नां ।
 
+> *śunaṃ huvema maghavānamiṃdramasminbhare nṛtamaṃ vājasāt |*
+> *śṛṇvaṃtamugramūtaye samattu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ dhanānāṃ |*
+
 **॥ पदपाठः ॥**
 
 > शुनं । हुवेम । मघ्नवानं । इंद्रं । अस्मिन् । भरे । नृतमं । वाजसात् ।
 > शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+> *śunaṃ | huvema | maghnavānaṃ | iṃdraṃ | asmin | bhare | nṛtamaṃ | vājasāt |*
+> *śṛṇvaṃtaṃ | ugraṃ | ūtaye | samatsu | ghnaṃtaṃ | vṛtrāṇi | saṃjitaṃ | dhanānāṃ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29070,10 +30271,16 @@ We invoke for our protection the opulent Indra, distinguished in this combat, th
 > वार्त्र॑हत्याय॒ शव॑से पृतना॒षाह्या॑य च ।
 > इंद्र॒ त्वा व॑र्तयामसि ॥ १ ॥
 
+> *vārtrahatyāya śavase pṛtanāṣāhyāya ca |*
+> *iṃdra tvā vartayāmasi ‖ 1 ‖*
+
 **॥ पदपाठः ॥**
 
 > वार्त्रहत्याय । शवसे । पृतनासह्याय । च ।
 > इंद्र । त्वा । आ । वर्तयामसि ॥ १ ॥
+
+> *vārtrahatyāya | śavase | pṛtanāsahyāya | ca |*
+> *iṃdra | tvā | ā | vartayāmasi ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29118,10 +30325,16 @@ We excite you, Indra, to exert the strength that destroys Vritra, and overpowers
 > अ॒र्वा॒चीनं॒ सुते॒ मन॑ उ॒त चक्षुः॑ शतक्रतो ।
 > इंद्र॑ कृ॒ण्वंतु॑ वा॒घतः॑ ॥ २ ॥
 
+> *arvācīnaṃ sute mana uta cakṣuḥ śatakrato |*
+> *iṃdra kṛṇvaṃtu vāghataḥ ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > अर्वाचीनं । सु । ते । मनः । उत । चक्षुः । शतक्रतो इति शतक्रतो ॥
 > इंद्र । कृण्वंतु । वाघतः ॥ २ ॥
+
+> *arvācīnaṃ | su | te | manaḥ | uta | cakṣuḥ | śatakrato iti śatakrato ‖*
+> *iṃdra | kṛṇvaṃtu | vāghataḥ ‖ 2 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29166,10 +30379,16 @@ May (your) praisers, Indra, who are worshipped in a hundred rites, direct your m
 > नामा॑नि ते शतक्रतो॒ विश्वा॑भिर्गि॒र्भिरी॑महे ।
 > इंद्रा॑भिमाति॒षाह्ये॑ ॥ ३ ॥
 
+> *nāmāni te śatakrato viśvābhirgirbhirīmahe |*
+> *iṃdrābhimātiṣāhye ‖ 3 ‖*
+
 **॥ पदपाठः ॥**
 
 > नामानि । ते । शतक्रतो इति शतक्रतो । विश्वाभिः । गीभिः । ईमहे ।
 > इंद्र । अभिमातिसह्ये ॥ ३ ॥
+
+> *nāmāni | te | śatakrato iti śatakrato | viśvābhiḥ | gībhiḥ | īmahe |*
+> *iṃdra | abhimātisahye ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29212,10 +30431,16 @@ We recite, Indra, who are worshipped in a hundred rites, (your many) names in al
 > पु॒रु॒ष्टु॒तस्य॒ धाम॑भिः श॒तेन॑ महयामसि ।
 > इंद्र॑स्य चर्षणी॒धृतः॑ ॥ ४ ॥
 
+> *puruṣṭutasya dhāmabhiḥ śatena mahayāmasi |*
+> *iṃdrasya carṣaṇīdhṛtaḥ ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > पुरुऽस्तुतस्य । धामभिः । शतेन । महयामसि ।
 > इंद्रस्य । चर्षणिधृतः ॥ ४ ॥
+
+> *puru 'stutasya | dhāmabhiḥ | śatena | mahayāmasi |*
+> *iṃdrasya | carṣaṇidhṛtaḥ ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29256,10 +30481,16 @@ We repeat the praise of the many-lauded Indra the supporter of man, invested wit
 > इंद्रं॑ वृ॒त्राय॒ हंत॑वे पुरुहू॒तमुप॑ ब्रुवे ।
 > भरे॑षु॒ वाज॑सातये ॥ ५ ॥
 
+> *iṃdraṃ vṛtrāya haṃtave puruhūtamupa bruve |*
+> *bhareṣu vājasātaye ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > इंद्रं । वृत्राय । हंतवे । पुरुऽहूतं । उप । ब्रुवे ॥
 > भरेषु । वाजऽसातये ॥ ५ ॥
+
+> *iṃdraṃ | vṛtrāya | haṃtave | puru 'hūtaṃ | upa | bruve ‖*
+> *bhareṣu | vāja 'sātaye ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29310,6 +30541,9 @@ I invoke you, Indra, who are invoked of many for the slaying of Vritra, and the 
 > वाजेषु । ससहिः । भव । त्वां । ईमहे । शतक्रतो इति शतक्रतो ।
 > इंद्र । वृत्राय । हंतवे ॥ ६ ॥
 
+> *vājeṣu | sasahiḥ | bhava | tvāṃ | īmahe | śatakrato iti śatakrato |*
+> *iṃdra | vṛtrāya | haṃtave ‖ 6 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > शत्रक्रतो हे इंद्र वाजेषु संग्रामेषु सासहिः शत्रूणामभिभविता भव ।
@@ -29342,6 +30576,9 @@ Be victorious, Indra, in battle : we solicit you, object of many rites, to destr
 
 > द्यु॒म्नेषु॑ पृत॒नाज्ये॑ पृत्सु॒तूर्षु॒ श्रवः॑सु च ।
 > इंद्र॒ साक्ष्या॒भिमा॑तिषु ॥ ७ ॥
+
+> *dyumneṣu pṛtanājye pṛtsutūrṣu śravaḥsu ca |*
+> *iṃdra sākṣyābhimātiṣu ‖ 7 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -29396,10 +30633,16 @@ Overcome Indra, those who are adverse to us in riches, in battle, in hostile hos
 > शु॒ष्मिंत॑मं न ऊ॒तये॑ द्यु॒म्मिनं॑ पाहि॒ जागृ॑विं ।
 > इंद्र॒ सोमं॑ शतक्रतो ॥ ८ ॥
 
+> *śuṣmiṃtamaṃ na ūtaye dyumminaṃ pāhi jāgṛviṃ |*
+> *iṃdra somaṃ śatakrato ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > तुष्मिन्तमं । नः । ऊतये । द्युम्मिनं । पाहि । जागृविं ॥
 > इंद्र । सोमं । शतक्रतो इति शतक्रतो ॥ ८ ॥
+
+> *tuṣmintamaṃ | naḥ | ūtaye | dyumminaṃ | pāhi | jāgṛviṃ ‖*
+> *iṃdra | somaṃ | śatakrato iti śatakrato ‖ 8 ‖*
 
 *[The window ends here, at the Pada-pāṭha of Ṛk 8; the Sāyaṇa-bhāṣya of Ṛk 8 follows.]*
 
@@ -29468,6 +30711,9 @@ On the day of the sacrifice called Cāturviṃśaka, at the midday pressing, the
 > इंद्रियाणि । शतक्रतो इति शतक्रतो । या । ते । जनेषु । पंचसु ।
 > इंद्र । तानि । ते । आ । वृणे ॥ ९ ॥
 
+> *iṃdriyāṇi | śatakrato iti śatakrato | yā | te | janeṣu | paṃcasu |*
+> *iṃdra | tāni | te | ā | vṛṇe ‖ 9 ‖*
+
 **॥ सायणभाष्यम् ॥**
 
 > शतक्रतो हे इंद्र ते तव संबंधिषु पंचसु जनेषु गंधर्वाः पितरो देना असुरा रक्षांसीत्येषु या यानींद्रियाणि रूपग्रहणादिसामर्थ्यानि स्थितानि ते
@@ -29516,6 +30762,9 @@ Indra, object of many rites, I regard the organs of sense that exist in the five
 
 > अगन् । इंद्र । श्रवः । बृहत् । द्युम्नं । दधिष्व । दुस्तरं ।
 > उत् । ते । शुष्मं । तिरामसि ॥ १० ॥
+
+> *agan | iṃdra | śravaḥ | bṛhat | dyumnaṃ | dadhiṣva | dustaraṃ |*
+> *ut | te | śuṣmaṃ | tirāmasi ‖ 10 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29567,6 +30816,9 @@ May the abundant (sacrificial) food (we offer) reach you, Indra; grant us wealth
 
 > अर्वाऽवतः । नः । आ । गहि । अथो इति । शक्र । परावतः ।
 > ऊं इति । लोकः । यः । ते । अद्रिऽवः । इंद्र । इह । ततः । आ । गहि ॥ ११ ॥
+
+> *arvā 'vataḥ | naḥ | ā | gahi | atho iti | śakra | parāvataḥ |*
+> *ūṃ iti | lokaḥ | yaḥ | te | adri 'vaḥ | iṃdra | iha | tataḥ | ā | gahi ‖ 11 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29642,6 +30894,9 @@ Come to us Sakra, whether from afar or nigh; whatever, Indra, wielder of the thu
 > अ॒भि तप्पे॑व दीधया मनी॒षामत्यो॒ न वा॒जी सु॒धुरो॒ जिहा॑नः ।
 > अ॒भि प्रि॒याणि॒ मर्मृ॑श॒त्परा॑णि क॒वीरि॑च्छामि सं॒दृशे॑ सुमे॒धाः ॥ १ ॥
 
+> *abhi tappeva dīdhayā manīṣāmatyo na vājī sudhuro jihānaḥ |*
+> *abhi priyāṇi marmṛśatparāṇi kavīricchāmi saṃdṛśe sumedhāḥ ‖ 1 ‖*
+
 *[A stray line 108 follows the Saṃhitā at the foot of the page; kept as supplied.]*
 
 ### Printed p. 858
@@ -29652,6 +30907,9 @@ Come to us Sakra, whether from afar or nigh; whatever, Indra, wielder of the thu
 
 > अभि । तष्पाइव । दीधय । मनीषां । अत्यः । न । वाजी । सुधुरः । जिहानः ।
 > अभि । प्रियाणि । मर्मृशत् । पराणि । कवीन् । इच्छामि । संदृशे । सुमेधाः ॥ १ ॥
+
+> *abhi | taṣpāiva | dīdhaya | manīṣāṃ | atyaḥ | na | vājī | sudhuraḥ | jihānaḥ |*
+> *abhi | priyāṇi | marmṛśat | parāṇi | kavīn | icchāmi | saṃdṛśe | sumedhāḥ ‖ 1 ‖*
 
 *[Printed oddity kept: the Pada has ತಷ್ಪಾಇವ where the Saṃhitā has ತಪ್ಪೇವ; the Saṃhitā has the long final vowel in ದೀಧಯಾ, the Pada and the bhāṣya the short one; as supplied.]*
 
@@ -29710,6 +30968,9 @@ Repeat (to Indra) pious praise, as a carpenter (planes the wood), and engaging (
 > इ॒नोत पृ॑च्छ॒ जनि॑मा कवी॒नां म॑नो॒धृतः॑ सु॒कृत॑स्तक्षत॒ द्यां ।
 > इ॒मा उ॑ ते प्र॒ण्यो॒३॒॑ वर्ध॑माना॒ मनो॑वाता॒ अध॒ नु धर्म॑णि गन् ॥ २ ॥
 
+> *inota pṛccha janimā kavīnāṃ manodhṛtaḥ sukṛtastakṣata dyāṃ |*
+> *imā u te praṇyo3 vardhamānā manovātā adha nu dharmaṇi gan ‖ 2 ‖*
+
 *[Printed oddities kept: the Saṃhitā has a separate numeral after the word ಪ್ರಣ್ಯೋ, the numeral being the Kannada three (the pluta sign); the last two Saṃhitā lines of the supplied text are joined into one line (logged).]*
 
 *[Printed oddities kept: the Saṃhitā has a separate numeral after the word ಪ್ರಣ್ಯೋ (the Kannada numeral three, the pluta sign); the Pada has ಪ್ರನ್ಯಃ and ಗ್ಮನ್, where the Saṃhitā has the forms shown in the Saṃhitā block, and the Pada ends without the number of the Ṛk. The two last Saṃhitā lines of the supplied text are joined into one line (logged).]*
@@ -29720,6 +30981,9 @@ Repeat (to Indra) pious praise, as a carpenter (planes the wood), and engaging (
 
 > इना । उत । पृच्छ । जनिम । कवीनां । मनःऽधृतः । सुकृतः । तक्षत । द्यां ।
 > इमाः। ऊं इति । ते । प्रन्यः । वर्धमानाः । मनःऽवाताः । अध । नु । धर्मणि । ग्मन् ॥
+
+> *inā | uta | pṛccha | janima | kavīnāṃ | manaḥ 'dhṛtaḥ | sukṛtaḥ | takṣata | dyāṃ |*
+> *imāḥ| ūṃ iti | te | pranyaḥ | vardhamānāḥ | manaḥ 'vātāḥ | adha | nu | dharmaṇi | gman ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29839,6 +31103,9 @@ Comprehending hidden (mysteries) here on earth, they have, through their power, 
 > आ॒तिष्ठं॑तं॒ परि॒ विश्वे॑ अभूष॒ञ्छयो॒ वसा॑नश्चरति॒ स्वरो॑चिः ।
 > म॒हत्तद्वष्ट्णो॒ असु॑रस्य॒ नामा वि॒श्वरू॑पो अ॒मृता॑नि तस्थौ ॥ ४ ॥
 
+> *ātiṣṭhaṃtaṃ pari viśve abhūṣañchayo vasānaścarati svarociḥ |*
+> *mahattadvaṣṭṇo asurasya nāmā viśvarūpo amṛtāni tasthau ‖ 4 ‖*
+
 **॥ पदपाठः ॥**
 
 > आतिष्ठंतं । परि । विश्वे । अभूषन् । श्रियः । वसानः । चरति । स्वरोचिः ।
@@ -29912,10 +31179,16 @@ They all ornamented (Indra) standing (in his car); and, clothed in beauty, he pr
 > असू॑त॒ पूर्वो॑ वृष॒भो ज्याया॑नि॒मा अ॑स्य शु॒रुधः॑ संति पू॒र्वीः ।
 > दिवो॑ नपाता वि॒दथ॑स्य धी॒भिः क्ष॒त्रं रा॑जाना प्र॒दिवो॑ दधाथे ॥ ५ ॥
 
+> *asūta pūrvo vṛṣabho jyāyānimā asya śurudhaḥ saṃti pūrvīḥ |*
+> *divo napātā vidathasya dhībhiḥ kṣatraṃ rājānā pradivo dadhāthe ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > असूत । पूर्वः । वृषभः । ज्यायान् । इमाः । अस्य । शुरुधः । संति । पूर्वीः ।
 > दिवः । नपाता । विदथस्य । धीभिः । क्षत्रं । राजाना । प्रदिवः । दधाथे इति ॥ ५ ॥
+
+> *asūta | pūrvaḥ | vṛṣabhaḥ | jyāyān | imāḥ | asya | śurudhaḥ | saṃti | pūrvīḥ |*
+> *divaḥ | napātā | vidathasya | dhībhiḥ | kṣatraṃ | rājānā | pradivaḥ | dadhāthe iti ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -29978,6 +31251,9 @@ The showerer (of benefits), the preceder and elder (of the gods), generated (the
 
 > श्रीणि । राजाना । विदथे । पुरूणि । परि । विश्वानि । भूषथः । सदांसि ।
 > अपश्यं । अत्र । मनसा । जगन्वान् । व्रते । गंधर्वान् । आपि । वायुकेशान् ॥ ६ ॥
+
+> *śrīṇi | rājānā | vidathe | purūṇi | pari | viśvāni | bhūṣathaḥ | sadāṃsi |*
+> *apaśyaṃ | atra | manasā | jaganvān | vrate | gaṃdharvān | āpi | vāyukeśān ‖ 6 ‖*
 
 *[Printed oddities kept: the Saṃhitā of this Ṛk carries a zero-width joiner sign between ಜಗನ್ವಾನ್ and ವ್ರತೇ (the conversion keeps it); the Pada has ಶ್ರೀಣಿ and ಆಪಿ where the Saṃhitā has ತ್ರೀಣಿ and ಅಪಿ; as supplied.]*
 
@@ -30042,12 +31318,18 @@ to the rite, for I have beheld in my mind, at this solemnity, the Gandharvas wit
 > तदिन्न॑स्य वृष॒भस्य॑ धे॒नोरा नाम॑भिर्ममिरे॒ सक्म्यं॒ गोः ।
 > अ॒न्यद॑न्यदसु॒र्य०१॒॑ वसा॑ना॒ नि मा॒यिनो॑ ममिरे रू॒पम॑स्मिन् ॥ ७ ॥
 
+> *tadinnasya vṛṣabhasya dhenorā nāmabhirmamire sakmyaṃ goḥ |*
+> *anyadanyadasurya01 vasānā ni māyino mamire rūpamasmin ‖ 7 ‖*
+
 *[Printed oddity kept: in the second line of the Saṃhitā the word for "of the Asuras" carries a Kannada zero used as anusvāra and then a figure for one (an accent sign); as supplied.]*
 
 **॥ पदपाठः ॥**
 
 > तत् । इत् । नु । अस्य । वृषभस्य । धेनोः । आ । नामभिः । ममिरे । सक्म्यं । गोः ।
 > अन्यत्ऽअन्यत् । असुर्यं । वसानाः । नि । मायिनः । ममिरे । रूपं । अस्मिन् ॥ ७ ॥
+
+> *tat | it | nu | asya | vṛṣabhasya | dhenoḥ | ā | nāmabhiḥ | mamire | sakmyaṃ | goḥ |*
+> *anyat 'anyat | asuryaṃ | vasānāḥ | ni | māyinaḥ | mamire | rūpaṃ | asmin ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30094,10 +31376,16 @@ Those who, for (the sake of) the showerer (of benefits), milk the agreeable (pro
 > तदिन्न॑स्य सवि॒र्तुर्नकि॑र्मे हिर॒ण्यया॑म॒मतिं॒ यामशि॑श्रेत् ।
 > आ सु॑ष्टु॒ती रोद॑सी विश्वमि॒न्वे अपी॑व॒ योषा॒ जनि॑मानि वव्रे ॥ ८ ॥
 
+> *tadinnasya savirturnakirme hiraṇyayāmamatiṃ yāmaśiśret |*
+> *ā suṣṭutī rodasī viśvaminve apīva yoṣā janimāni vavre ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > तत् । इत् । नु । अस्य । सवितुः । नकिः । मे । हिरण्ययीं । अमतिं । यां । अशिश्रेत् ।
 > अ । सुस्तुती । रोदसी इति । विश्वमिन्वे इति । विश्वंइन्वे । अपइव । योषा । जनिमानि । वव्रे ॥ ८ ॥
+
+> *tat | it | nu | asya | savituḥ | nakiḥ | me | hiraṇyayīṃ | amatiṃ | yāṃ | aśiśret |*
+> *a | sustutī | rodasī iti | viśvaminve iti | viśvaṃinve | apaiva | yoṣā | janimāni | vavre ‖ 8 ‖*
 
 *[Printed oddities kept in the Pada: it has ಸುಸ್ತುತೀ where the Saṃhitā has a spelling of the word that differs from the Saṃhitā, and a short vowel at the place of the long one in the particle before it; as supplied.]*
 
@@ -30158,6 +31446,9 @@ No one (distinguishes) my golden lustre from that of this Savitri, in which (lus
 > यु॒वं प्र॒त्नस्य॑ सादथो म॒हो यद्दैवी॑ स्व॒स्तिः परि॑ णः स्यातं ।
 > गो॒पाजि॑ह्वस्य त॒स्थुषो॒ विरू॑पा॒ विश्वे॑ पश्यंति मा॒यिनः॑ कृ॒तानि॑ ॥ ९ ॥
 
+> *yuvaṃ pratnasya sādatho maho yaddaivī svastiḥ pari ṇaḥ syātaṃ |*
+> *gopājihvasya tasthuṣo virūpā viśve paśyaṃti māyinaḥ kṛtāni ‖ 9 ‖*
+
 *[Printed oddity kept: the Saṃhitā has ಸಾದಥೋ where the Pada, the bhāṣya and the Pratipadārtha have forms with the aspirate (ಸಾಧಥಃ); as supplied.]*
 
 *[A garbled line, ಹಡಸಾತಿ, stands where the label of the Pada should be; it is kept as supplied (in kn.md as an italic note) and the standard label is inserted; the line stood inside the quoted Saṃhitā block, and the Pada block that followed is split off (logged).]*
@@ -30166,6 +31457,9 @@ No one (distinguishes) my golden lustre from that of this Savitri, in which (lus
 
 > युवं । प्रत्नस्य । साधथः । महः । यत् । दैवी । स्वस्तिः । परि । नः । स्यातं ।
 > गोपाजिह्वस्य । तस्थुषः । विरूपा । विश्वे । पश्यंति । मायिनः । कृतानि ॥ ९ ॥
+
+> *yuvaṃ | pratnasya | sādhathaḥ | mahaḥ | yat | daivī | svastiḥ | pari | naḥ | syātaṃ |*
+> *gopājihvasya | tasthuṣaḥ | virūpā | viśve | paśyaṃti | māyinaḥ | kṛtāni ‖ 9 ‖*
 
 *[A garbled line, ಸಾಮಣಧಾಸ್ಯಂ, stands where the label of the Sāyaṇa-bhāṣya should be; it is kept as supplied (in kn.md as an italic note) and the standard label is inserted; the line stood inside the quoted Pada block, and the bhāṣya block is split off (logged).]*
 
@@ -30226,10 +31520,16 @@ You two secure the great felicity of the ancient (worshipper), that which is hap
 > शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सात् ।
 > शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नां ।
 
+> *śunaṃ huvema maghavānamiṃdramasminbhare nṛtamaṃ vājasāt |*
+> *śṛṇvaṃtamugramūtaye samattu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ dhanānāṃ |*
+
 **॥ पदपाठः ॥**
 
 > शुनं । हुवेम । मघवानं । इंद्रं । अस्मिन् । भरे । नृतमं । वाजसात् ।
 > शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+> *śunaṃ | huvema | maghavānaṃ | iṃdraṃ | asmin | bhare | nṛtamaṃ | vājasāt |*
+> *śṛṇvaṃtaṃ | ugraṃ | ūtaye | samatsu | ghnaṃtaṃ | vṛtrāṇi | saṃjitaṃ | dhanānāṃ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30305,12 +31605,18 @@ We invoke for our protection the opulent Indra, distinguished in this combat, th
 > इंद्रं॑ म॒तिर्हृ॒द आ व॒च्यमा॒नाच्छा॒ पतिं॒ स्तोम॑तष्टा जिगाति ।
 > या जागृ॑विर्वि॒दथे॑ श॒स्यमा॒नेंद्र॒ यत्ते॒ चाय॑ते वि॒द्दि तस्य॑ ॥ १ ॥
 
+> *iṃdraṃ matirhṛda ā vacyamānācchā patiṃ stomataṣṭā jigāti |*
+> *yā jāgṛvirvidathe śasyamāneṃdra yatte cāyate viddi tasya ‖ 1 ‖*
+
 *[A garbled line, ಹಡಪಾರು, stands where the label of the Pada should be; it is kept as supplied (in kn.md as an italic note) and the standard label is inserted; the Pada block stood in the quoted block of the Saṃhitā (logged).]*
 
 **॥ पदपाठः ॥**
 
 > इंद्रं । मतिः । हृदः । आ । वच्यमाना । अच्छ । पतिं । स्तोमतष्टा । जिगाति ।
 > या । जागृविः । विदथे । शस्यमाना । इंद्र । यत् । ते । जायते । वृद्धि । तस्य ॥ १ ॥
+
+> *iṃdraṃ | matiḥ | hṛdaḥ | ā | vacyamānā | accha | patiṃ | stomataṣṭā | jigāti |*
+> *yā | jāgṛviḥ | vidathe | śasyamānā | iṃdra | yat | te | jāyate | vṛddhi | tasya ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30369,10 +31675,16 @@ The praise that is prompted by the heart, and is uttered by the reciters of sacr
 > दि॒वश्चि॒दा पू॒र्व्या जाय॑माना॒ वि जागृ॑निर्वि॒दथे॑ श॒स्यमा॑ना ।
 > भ॒द्रा वस्त्रा॒ण्यर्जु॑ना॒ वसा॑ना॒ सेयम॒स्मे स॑न॒जा पित्र्या॒ धीः ॥ २ ॥
 
+> *divaścidā pūrvyā jāyamānā vi jāgṛnirvidathe śasyamānā |*
+> *bhadrā vastrāṇyarjunā vasānā seyamasme sanajā pitryā dhīḥ ‖ 2 ‖*
+
 **॥ पदपाठः ॥**
 
 > दिवः । चित् । आ । पूर्व्या । जायमाना । वि जागृवि: । विदथे । शस्यमाना ।
 > भद्रा । वस्त्राणि । अर्जुना । वसाना । सा । इयं । अस्मे इति । सनजा । पित्रा । धीः ॥
+
+> *divaḥ | cit | ā | pūrvyā | jāyamānā | vi jāgṛvi: | vidathe | śasyamānā |*
+> *bhadrā | vastrāṇi | arjunā | vasānā | sā | iyaṃ | asme iti | sanajā | pitrā | dhīḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30422,6 +31734,9 @@ That praise which is begotten before (the dawn) of day is the awakener of Indra,
 
 > य॒मा चि॒दत्र॑ यम॒सूर॑सूत जि॒ह्वाया॒ अग्नं॒ पत॒दा ह्यस्था॑त् ।
 > वपूं॑षि जा॒ता मि॑थु॒ना स॑चेते तमो॒हना॒ तपु॑षो बु॒ध्न एता॑ ॥ ३ ॥
+
+> *yamā cidatra yamasūrasūta jihvāyā agnaṃ patadā hyasthāt |*
+> *vapūṃṣi jātā mithunā sacete tamohanā tapuṣo budhna etā ‖ 3 ‖*
 
 *[The label of the Pada is printed twice in the supplied text; the first copy is kept in kn.md as an italic note and one label is used (logged).]*
 
@@ -30494,10 +31809,16 @@ The parent of twins (the dawn), has brought forth the twin ( Aswins ) on this oc
 > नकि॑रेषां निंदि॒ता मर्त्ये॑षु॒ ये अ॒स्माकं॑ पि॒तरो॒ गोषु॑ यो॒धाः।
 > इंद्र॑ एषां दृंहि॒ता माहि॑नावा॒नुद्यो॒त्राणि॑ सस्यजे दं॒सना॑वान् ॥
 
+> *nakireṣāṃ niṃditā martyeṣu ye asmākaṃ pitaro goṣu yodhāḥ|*
+> *iṃdra eṣāṃ dṛṃhitā māhināvānudyotrāṇi sasyaje daṃsanāvān ‖*
+
 **॥ पदपाठः ॥**
 
 > नकिः । एषां । निंदिता । मर्त्येषु । ये । अस्माकं । पितरः । गोषु । योधाः ।
 > इंद्रः । एषां । द्वंहिता । माहिनऽवान् । उत् । गोत्राणि । सस्तृजे । दंसनाऽवान् ॥
+
+> *nakiḥ | eṣāṃ | niṃditā | martyeṣu | ye | asmākaṃ | pitaraḥ | goṣu | yodhāḥ |*
+> *iṃdraḥ | eṣāṃ | dvaṃhitā | māhina 'vān | ut | gotrāṇi | sastṛje | daṃsanā 'vān ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30556,10 +31877,16 @@ There are no revilers amongst men of those who were our progenitors and combatan
 > सखा॑ ह॒ यत्र॒ सखि॑भि॒र्नव॑ग्वैरिभि॒ज्ञ्वा सत्व॑भि॒र्गा अ॑नु॒ग्मन् ।
 > स॒त्यं तदिंद्रो॑ द॒शभि॒र्दश॑ग्वैः॒ सूर्यं॑ विवेद॒ तम॑सि क्षि॒यंतं॑ ॥ ५ ॥
 
+> *sakhā ha yatra sakhibhirnavagvairibhijñvā satvabhirgā anugman |*
+> *satyaṃ tadiṃdro daśabhirdaśagvaiḥ sūryaṃ viveda tamasi kṣiyaṃtaṃ ‖ 5 ‖*
+
 **॥ पदपाठः ॥**
 
 > सखा । ह । यत्र । सखिभिः । नवग्वैः । अभिज्ञु । आ । सत्यभिः । गाः । अनुग्मन् ।
 > सत्यं । तत् । इंद्रः । दशभिः । दशग्वैः । सूर्यं । विवेद । तमसि । क्षियंतं ॥ ५ ॥
+
+> *sakhā | ha | yatra | sakhibhiḥ | navagvaiḥ | abhijñu | ā | satyabhiḥ | gāḥ | anugman |*
+> *satyaṃ | tat | iṃdraḥ | daśabhiḥ | daśagvaiḥ | sūryaṃ | viveda | tamasi | kṣiyaṃtaṃ ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30630,6 +31957,9 @@ A friend, accompanied by the faithful friends who had celebrated the nine months
 > इंद्रः । मधु । संभृतं । उस्रियायां । पत्वत् । विवेद । शफवत् । नमे । गोः ।
 > गुहा । हितं । गुह्यं । गूळ्वं । अप्सु । हस्ते । वधे । दक्षिणे । दक्षिणवान् ॥ ६ ॥
 
+> *iṃdraḥ | madhu | saṃbhṛtaṃ | usriyāyāṃ | patvat | viveda | śaphavat | name | goḥ |*
+> *guhā | hitaṃ | guhyaṃ | gūḷvaṃ | apsu | haste | vadhe | dakṣiṇe | dakṣiṇavān ‖ 6 ‖*
+
 *[The Pada has ದಕ್ಷಿಣವಾನ್ where the Saṃhitā has ದಕ್ಷಿಣಾವಾನ್; as supplied.]*
 
 **॥ सायणभाष्यम् ॥**
@@ -30691,10 +32021,16 @@ Indra discovered the sweet milk secreted in the milch-cow, and thereupon, brough
 > ज्योति॑र्वृणीत॒ तम॑सो विजा॒नन्ना॒रे स्या॑म दुरि॒ताद॒भीके॑ ।
 > इ॒मा गिरः॑ सोमपाः सोमवृद्ध जु॒षस्वें॑द्र पुरु॒तम॑स्य का॒रोः ॥
 
+> *jyotirvṛṇīta tamaso vijānannāre syāma duritādabhīke |*
+> *imā giraḥ somapāḥ somavṛddha juṣasveṃdra purutamasya kāroḥ ‖*
+
 **॥ पदपाठः ॥**
 
 > ज्योतिः । वृणीत । तमसः । विजानन् । आरे । स्याम । दुःइतात् । अभीके ।
 > इमाः । गिरः । सोमपाः । सोमवृद्ध । जुषस्व । इंद्र । पुरुतमस्य । कारोः ॥
+
+> *jyotiḥ | vṛṇīta | tamasaḥ | vijānan | āre | syāma | duḥitāt | abhīke |*
+> *imāḥ | giraḥ | somapāḥ | somavṛddha | juṣasva | iṃdra | purutamasya | kāroḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30749,10 +32085,16 @@ The discriminating (Indra)has seperated [sic] the light from the darkness; may w
 > ज्योति॑र्य॒ज्ञाय॒ रोद॑सी॒ अनु॑ ष्यादा॒रे स्या॑म दुरि॒तस्य॒ भूरेः॑ ।
 > भूरि॑ चि॒द्दि तु॑ज॒तो मर्त्य॑स्य सुपा॒रासो॑ वसवो ब॒र्हणा॑वत् ॥ ८ ॥
 
+> *jyotiryajñāya rodasī anu ṣyādāre syāma duritasya bhūreḥ |*
+> *bhūri ciddi tujato martyasya supārāso vasavo barhaṇāvat ‖ 8 ‖*
+
 **॥ पदपाठः ॥**
 
 > ज्योतिः । यज्ञाय । रोदसी इति । अनु । स्यात् । आरे । स्याम । दुःइतस्य । भूरेः ।
 > भूरि । चित् । हि । तुजतः । मर्त्यस्य । सुपारासः । वसवः । बर्हणावत् ॥
+
+> *jyotiḥ | yajñāya | rodasī iti | anu | syāt | āre | syāma | duḥitasya | bhūreḥ |*
+> *bhūri | cit | hi | tujataḥ | martyasya | supārāsaḥ | vasavaḥ | barhaṇāvat ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30802,6 +32144,9 @@ May light be spred [sic] throughout heaven and earth for (the promotion of the) 
 
 > शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सात् ।
 > शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्सु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नां ।
+
+> *śunaṃ huvema maghavānamiṃdramasminbhare nṛtamaṃ vājasāt |*
+> *śṛṇvaṃtamugramūtaye samatsu ghnaṃtaṃ vṛtrāṇi saṃjitaṃ dhanānāṃ |*
 
 *[The Saṃhitā of this Ṛk ends the window; it carries no Ṛk number and ends with a single bar after the second line; the Pada and the rest follow on printed page 883. The Ṛk number 9 follows from the sequence.]*
 
