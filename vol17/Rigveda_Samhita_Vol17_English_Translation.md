@@ -30353,6 +30353,212 @@ Uṣas, who is rich in wealth, of golden colour, endowed with splendour, of grea
 ##### English translation (H. H. Wilson)
 The great and intelligent dawn, variegated with (many-coloured) rays of purple tint, bringing opulence, has come with (her) lustre. the divine Ushas, arousing (the sleepers) proceeds with her well-harnessed car (to distribute) felicity.
 
+### Printed p. 911
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ वहि॑ष्टा इ॒ह ते व॑हंतु॒ रथा॒ अश्वा॑स उ॒षसो॒ व्यु॑ष्टौ ।  
+> इ॒मे हि वां॑ मधु॒पेया॑य॒ सोमा॑ अ॒स्मिन्य॒ज्ञे वृ॑षणा  
+> मादयेथां ॥ ४ ॥
+
+> *ā vāṃ vahiṣṭā iha te vahaṃtu rathā aśvāsa uṣaso vyuṣṭau |*  
+> *ime hi vāṃ madhupeyāya somā asminyajñe vṛṣaṇā*  
+> *mādayethāṃ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । वहिष्ठाः । इह । ते । वहंतु । रथाः । अश्वासः । उषसः । विउष्टौ ।  
+> इमे । हि । वां । मधुपेयाय । सोमाः । अस्मिन् । यज्ञे । वृषणा । मादयेथां
+
+> *ā | vāṃ | vahiṣṭhāḥ | iha | te | vahaṃtu | rathāḥ | aśvāsaḥ | uṣasaḥ | viuṣṭau |*  
+> *ime | hi | vāṃ | madhupeyāya | somāḥ | asmin | yajñe | vṛṣaṇā | mādayethāṃ*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाविह यज्ञे वहिष्ठा वोढृतमास्ते प्रसिद्धा रथा रंहणा गंतारोऽश्वासोऽश्वा नां युवामुषस उषोदेवताया व्युष्टौ व्युच्छनकाल आ वहंतु ।
+> समंतान्नयंतु । हि यस्मात्कारणात् हे वृषणा वृषण् कामानां वर्षितार् हे
+> अश्विनाविमे सोमा नां युवां मधुपेयाय मधोः सोमस्य पानायास्मिन्यज्ञे मादयेथां । हर्षयेथां ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, here in this sacrifice, those well-known chariot-horses of yours, the best of carriers (वहिष्ठा (*vahiṣṭhā*) = *voḍhṛtamāḥ*) and swift goers (रथा (*rathā*) = *raṃhaṇā gaṃtāraḥ*), are to bring you at the time of the dawning (व्युष्टौ (*vyuṣṭau*) = व्युच्छनकाल (*vyucchanakāla*)) of the deity Uṣas; that is, to lead you here from every side. For (हि (*hi*)) these Soma juices are for your drinking of the honey, the Soma. O showerers (वृषणा (*vṛṣaṇā*) = showerers of desires), delight yourselves in this sacrifice, that is, rejoice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणा (*vṛṣaṇā*)—Aśvin deities, showerers of desires
+- इह (*iha*)—to this sacrifice
+- वहिष्ठाः (*vahiṣṭhāḥ*)—those that bring you in the highest degree
+- ते (*te*)—well-known
+- रथाः (*rathāḥ*)—swift-going
+- अश्वासः (*aśvāsaḥ*)—horses
+- वां (*vāṃ*)—you
+- उषसः (*uṣasaḥ*)—of Uṣas
+- पुष्टौ (*puṣṭau*)—at the time of rising
+- आ वहंतु (*ā vahaṃtu*)—may they bring
+- इमे सोमाः (*ime somāḥ*)—these Soma juices
+- वां (*vāṃ*)—you
+- मधुपेयाय (*madhupeyāya*)—for drinking the honey
+- अस्मिन् यज्ञे (*asmin yajñe*)—in this sacrifice
+- मादयेथां (*mādayethāṃ*)—may they gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, showerers of desires, may the well-known and swift horses, which bear you and bring you to this sacrifice, bring you at the rising of the dawn. May these Soma juices gladden you in this sacrifice, for your drinking of the honey.
+
+### Printed p. 912
+
+##### English translation (H. H. Wilson)
+May those robust and active horses bring you, (Ashwins) hither at the breaking of the dawn, and may these Soma juices prepared, showerers (of benefits), for your drinking, exhilarate you at this (our sacrifice).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अना॑यतो॒ अनि॑बद्धः क॒थायं न्य॑ज्जुत्ता॒नोऽव॑ पद्यते॒ न ।  
+> कया॑ याति स्व॒धया॒ को द॑दर्श दि॒वः स्कं॒भः समृ॑तः पाति॒  ॑
+> नाकं ॥ ५ ॥
+
+> *anāyato anibaddhaḥ kathāyaṃ nyajjuttāno 'va padyate na |*  
+> *kayā yāti svadhayā ko dadarśa divaḥ skaṃbhaḥ samṛtaḥ pāti*  
+> *nākaṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनायतः । अनिबद्धः । कथा । अयं । न्यज् । उत्तानः । अव । पद्यते । न ।  
+> कया । याति । स्वधया । कः । ददर्श । दिवः । स्कंभः ! संऋतः । पाति । नाकं ॥ ५ ॥
+
+> *anāyataḥ | anibaddhaḥ | kathā | ayaṃ | nyaj | uttānaḥ | ava | padyate | na |*  
+> *kayā | yāti | svadhayā | kaḥ | dadarśa | divaḥ | skaṃbhaḥ ! saṃṛtaḥ | pāti | nākaṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयतशब्दो दूरवाची । तद्विपरितोऽनायत आसीनः सन्नयं प्रत्यक्षेणोपलभ्यमानो मंडलाभिमानी सूर्यो निबद्धः । केनापि बद्दो न क्रियते । अपि
+> चायं सूरो नृज्जुर्वाङ्मुखः सन् केनचित्कथा कथं नाव पद्यते । न हिंस्यते ।
+> किंचायमुत्तान ऊर्ध्वमुखत्वेन तिष्ठन् कया स्वधया केन बलेन याति । गच्छति ।
+> स्वधाशब्दोऽन्नवाच्यत्र तत्कार्यं बलं लक्षयति । अपि च दिवो द्युलोकस्य स्कंभः
+> स्तंभः समृतो नाकेन समवेतः सूर्यो नाकं स्वर्गं पाति । पालयति । को
+> ददर्श । तत्त्वतः कः पश्यति । न कोऽपि जानातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The word आयत (*āyata*) means "far"; its opposite अनायत (*anāyata*) is "near": the Sun, the deity of the orb, seen directly as he sits, is अनिबद्धः (*anibaddhaḥ*), bound by no one. Moreover, though this Sun moves with his face turned downward (न्यज् (*nyaj*) = *arvāṅmukhaḥ*), how is he not harmed (नाव पद्यते (*nāva padyate*) = न हिंस्यते (*na hiṃsyate*)) by anyone? Further, standing with his face upward (उत्तानः (*uttānaḥ*)), by what स्वधा (*svadhā*), by what strength, does he go? Here the word स्वधा (*svadhā*) means food and indicates the strength that is its result. And again, the Sun, the pillar (स्कंभः (*skaṃbhaḥ*) = स्तंभः (*staṃbhaḥ*)) of the heavenly world, united with heaven (नाकेन समवेतः (*nākena samavetaḥ*)), protects (पाति (*pāti*) = पालयति (*pālayati*)) heaven (नाकं (*nākaṃ*) = स्वर्गं (*svargaṃ*)). Who has truly seen this? The meaning is that no one knows it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनायतः (*anāyataḥ*)—one who moves near
+- अयं (*ayaṃ*)—and this Sun, of the form of a disc
+- अनिबद्धः (*anibaddhaḥ*)—has a course that is stopped by no one
+- न्यज् (*nyaj*)—even though he moves with face turned downward
+- कथा (*kathā*)—how indeed!
+- न अव पद्यते (*na ava padyate*)—he is harmed by no one
+
+### Printed p. 913
+
+- उत्तानः (*uttānaḥ*)—being with face turned upward
+- कया स्वधया (*kayā svadhayā*)—with what strength
+- याति (*yāti*)—he moves
+- दिवः (*divaḥ*)—of the heavenly world
+- स्कंभः (*skaṃbhaḥ*)—pillar-like
+- समृतः (*samṛtaḥ*)—abiding in the atmosphere
+- नाकं (*nākaṃ*)—heaven
+- पाति (*pāti*)—protects: this matter
+- को ददर्श (*ko dadarśa*)—who indeed can truly see it?
+
+##### भावार्थ (Bhāvārtha)
+
+The Sun, who moves near and is of the form of a disc, has a course that no one stops. That, though he moves with face turned downward, he is harmed by no one is a wonder. And who indeed knows the secret of the strength with which he moves, facing upward, and how, as the pillar-like support of the heavenly world and abiding in the atmosphere, he protects heaven?
+
+##### English translation (H. H. Wilson)
+This sun, not far removed and unobstructed, whether looking downwards or upwards, is harmed by no one: what is the power by which he travels ? who has (truly)beheld him who, as the collective pillar of heaven. sustains the sky.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sūkta 15. Introduction. An account of the rite called Paryagnikaraṇa.
+
+In the first three Ṛks of this sūkta a part of a rite performed in a sacrifice called Paryagnikaraṇa is described. Paryagnikaraṇa is a rite to be performed in order that the substances offered in the fire (the animal, the cooked rice, the oblation, the ghee and so on) become pure and fit to be accepted by the gods in the sacrifice. When an animal is to be offered, it is first tied to the sacrificial post on the sacrificial altar. After it has been consecrated with ghee and the like, the priest called Āgnīdhra takes a burning brand from the Āhavanīya fire and carries it three times round the animal, clockwise. This rite is done not only in the sacrifice but also in the domestic rites, that is, in the homas performed in houses at marriages and the like; there, to purify the oblation substances such as cooked rice and ghee that are to be offered, fire is kindled with pieces of darbha grass, carried round the oblation substance three times, and then put into the fire.
+
+Here the offering is purified by carrying the fire round it. This is still done in all rites. In the Aśvamedha sacrifice there is a slight difference in this matter: instead of bringing the fire round the animal, the animal itself is made to circumambulate the fire. As the Ṛk एषः भागः पुरो अश्वेन वाजिना पूष्टो भागो नीयते विश्वदेव्यः ॥ (*eṣaḥ bhāgaḥ puro aśvena vājinā pūṣṭo bhāgo nīyate viśvadevyaḥ ‖*) (Ṛ. Saṃ. 1-162-3) says, in the Aśvamedha the horse and the he-goat are the animals; of these the he-goat is led round the fire in front, and behind it the horse. For the first three Ṛks of this sūkta, which explain this Paryagnikaraṇa procedure, the meaning explained in the Aitareya Brāhmaṇa is given here:
+पर्यग्नये क्रियामाणायानुब्रूहीत्याहाध्वर्युः (*paryagnaye kriyāmāṇāyānubrūhītyāhādhvaryuḥ*) (Ai. Brā. 6-5).
+
+When the rite called Paryagnikaraṇa is performed in the sacrifice, the priest called Āgnīdhra takes a burning brand from the Āhavanīya fire and, reciting the Ṛk परिवाजपतिः (*parivājapatiḥ*) (Ṛ. Saṃ. 4-1-3), carries it three times round the animal, clockwise. For this rite the Adhvaryu addresses the Hotṛ (or the priests of the Hotṛ class) and directs them by the Praiṣa mantra: पर्यग्नये क्रियमाणायानुब्रूहि (*paryagnaye kriyamāṇāyānubrūhi*), "recite the mantras to be recited for the Paryagni rite." Then, accordingly, the priest called Maitrāvaruṇa recites the three Ṛks beginning अग्निर्होता (*agnirhotā*). There is a special point here: although the Adhvaryu directs that the Hotṛ should recite these mantras, the Maitrāvaruṇa recites them with the Hotṛ's permission. This manner of reciting is called Upapraiṣa mantra. In some sacrifices, the Soma and others, the Maitrāvaruṇa himself gives the Praiṣa mantra for the recitation of the Yājyā mantras. As the sign of his authority to give this direction the Maitrāvaruṇa has a staff (daṇḍa). Holding that staff, the Maitrāvaruṇa exercises his authority by directing the various priests in the rites each has to perform. This is stated in the Yajurveda sentence:
+क्रीते सोमे मैत्रावरुणाय दंडं प्रयच्छति मैत्रावरुणो हि पुरस्तादृत्विग्भो वाचं विभजति । (*krīte some maitrāvaruṇāya daṃḍaṃ prayacchati maitrāvaruṇo hi purastādṛtvigbho vācaṃ vibhajati |*) (Kṛ. Saṃ. 6-1-4-2). **NOTE**
+
+### Printed p. 914
+
+The three Ṛks that the Maitrāvaruṇa recites are explained thus:
+आग्निर्होता नो अध्यस्त इति तृचमाग्नेयं गायत्रमन्वाह पर्यग्निक्रियमाणे स्वयैवैनं तद्देवतया स्वेन छंदसा समर्धयति । (*āgnirhotā no adhyasta iti tṛcamāgneyaṃ gāyatramanvāha paryagnikriyamāṇe svayaivainaṃ taddevatayā svena chaṃdasā samardhayati |*).
+
+### Printed p. 915
+
+Because the fire is carried round the animal, this rite is called Paryagni. That in this rite the priest called Maitrāvaruṇa should recite the three Ṛks beginning अग्निर्होता (*agnirhotā*) has been stated by the sage Āśvalāyana in the Śrauta Sūtra by the sūtra प्रेषितो मैत्रावरुणोऽग्निर्होता न इति तृचं पर्यग्नयेऽन्वाह (*preṣito maitrāvaruṇo 'gnirhotā na iti tṛcaṃ paryagnaye 'nvāha*). Since the name of Agni stands at the beginning of these three Ṛks, not only is Agni the deity of these mantras, but Gāyatrī, the metre of Agni, is the metre of all three Ṛks. Thus, since Agni is the deity of the mantras and the metre too is Gāyatrī, which is dear to the deity Agni, by reciting mantras furnished with the deity and metre suited to this rite, the prominence of the deity is, as it were, increased.
+
+वाजी सन्परिणीयत इति वाजिनमिव ह्येनं संतं परिणयंति ॥ (*vājī sanpariṇīyata iti vājinamiva hyenaṃ saṃtaṃ pariṇayaṃti ‖*). The word वाजी (*vājī*) means "one who has food" or "one who has motion". Therefore the priests here praise Agni with the word वाजि (*vāji*) and make him go round the animal. Here the animal offered to the gods is the food (the oblation); the three-fold circuit is Agni's motion. Thus the qualities that are the meanings of the word वाजि (*vāji*), having food and having motion, are, as it were, in Agni.
+
+परित्रिविष्ट्यध्वरं यात्यग्नी रथीरिवेत्येष हि रथीरिवाध्वरं परियाति । परि वाजपतिः कविरित्येष हि वाजानां पतिः ॥ (*paritriviṣṭyadhvaraṃ yātyagnī rathīrivetyeṣa hi rathīrivādhvaraṃ pariyāti | pari vājapatiḥ kavirityeṣa hi vājānāṃ patiḥ ‖*) (Ai. Brā. 6-5). The sentence in the mantra परित्रिविष्टध्वरं परियात्यग्नी रथीरिव (*paritriviṣṭadhvaraṃ pariyātyagnī rathīriva*) means that in this sacrifice Agni circles swiftly round the animal, as a charioteer seated in a chariot travels swiftly. The sentence परिवाजपतिः कविः (*parivājapatiḥ kaviḥ*) means that this Agni, the far-seeing one (who knows everything), is the lord of food, or the carrier of the oblation suited to Indra and the other gods.
+
+The explanation of the rite-part called Paryagnikaraṇa is ended.
+
+### Printed p. 916
+
+## Sūkta 15 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्होतेति दशर्चं पंचमं सूक्तं वामदेवस्यार्षं गायत्रं । अत्रेयमनुक्रमणिका । अग्निर्होता दश गायत्रमृषिर्भोधदित्याभ्यां सोमकं साहदेव्यमभ्यवदत्पराभ्यामस्याश्विनावायुरयाचतेति । बोधद्यदिति दृचेन सोमकराजा स्तूयत एष नामिति द्वृचेनाश्विन् शिष्टाभिः षढ्भिरग्निः स्तूयते । अतस्ता एव
+> क्रमेण देवताः ॥ सूक्तविनियोगो लैंगिकः ॥ पशोः पर्यग्निकरणेऽग्निर्होता न
+> इत्याद्यस्तृचोऽनुवचनीयः । तथा च सूत्रितु । अग्निर्होता न इति तृचं पर्यग्न्ययेऽन्वाह । आ. ३-२ । इति ॥ प्रातरनुवाकेऽप्याग्नेये क्रत् गौयत्रे छंदस्याश्विनशस्त्रे चायं तृचो विनियुक्तः । तथा च सूत्रितं। अग्निर्होता नो अद्वर इति तिस्रः
+> आ- ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अग्निर्होता (*agnirhotā*) has ten Ṛks and is the fifth sūkta; its seer is Vāmadeva, its metre Gāyatrī. The Anukramaṇikā is quoted: the first six Ṛks are to Agni, the two beginning बोधद्यत् (*bodhadyat*) (Ṛks 7 and 8) praise King Somaka Sāhadevya, the two beginning एष नां (*eṣa nāṃ*) (Ṛks 9 and 10) the Aśvins, and the remaining six Agni; so the deities are those same ones in that order. The use of the sūkta is by indication (लैंगिकः (*laiṃgikaḥ*)). In the Paryagnikaraṇa of the animal the triplet beginning अग्निर्होता नः (*agnirhotā naḥ*) is the verse to be recited (*anuvacanīyaḥ*); so the sūtra: अग्निर्होता न इति तृचं पर्यग्न्ययेऽन्वाह (*agnirhotā na iti tṛcaṃ paryagnyaye 'nvāha*) (Ā. 3-2). This triplet is also used in the Prātaranuvāka, for the Āgneya Kratu in the Gāyatra metre and in the Āśvina Śastra; so the sūtra: अग्निर्होता नो अद्वर इति तिस्रः (*agnirhotā no advara iti tisraḥ*) (Ā. 4-13). **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning अग्निर्होता (*agnirhotā*) is the fifth sūkta in the second anuvāka. It has ten Ṛks. Vāmadeva is its seer; the metre is Gāyatrī. In the Anukramaṇikā it is said: अग्निर्होता दश गायत्रमृषिर्भोधत् इत्याभ्यां सोमकं साहदेन्यमभ्यवदत्पराभ्यामस्याश्विनानायुरयाचत (*agnirhotā daśa gāyatramṛṣirbhodhat ityābhyāṃ somakaṃ sāhadenyamabhyavadatparābhyāmasyāśvinānāyurayācata*). In the two Ṛks beginning बोधद्यत् (*bodhadyat*) (Ṛks 7 and 8) there is praise of King Somaka; in the two Ṛks beginning एष नां (*eṣa nāṃ*) (Ṛks 9 and 10) there is praise of the Aśvin deities, and in the remaining Ṛks praise of Agni. Therefore the deities of the respective Ṛks are, in order, those praised in them. The use of the sūkta is by indication. And in the rite called Paryagnikaraṇa, carrying fire round the animal, the three Ṛks beginning अग्निर्होता नः (*agnirhotā naḥ*) are to be recited as the Anuvacanīya mantra, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अग्निर्होता न इति तृचं पर्यग्न्ययेऽन्वाह (*agnirhotā na iti tṛcaṃ paryagnyaye 'nvāha*) (Ā. 3-2). And at the time of reciting the Prātaranuvāka mantras, the three Ṛks beginning अग्निर्होता नः (*agnirhotā naḥ*) are used for the Gāyatrī-metre mantras connected with the Āgneya Kratu and for the recitation of the Āśvina Śastra mantras, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अग्निर्होता नो अध्वर इति तिस्रः (*agnirhotā no adhvara iti tisraḥ*) (Ā. 4-13).
+
+### Printed p. 917
+
+> सूक्त—१५
+> मंडल—४ ॥ अनुवाक—२ ॥ सूक्त—१५ ॥
+> अष्टक—३ ॥ अध्याय—५ ॥ वर्ग—१५, १६ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—१० ॥
+> ऋषिः—वामदेवः ॥
+> देवता—१-६, अग्निः । ७, ८. सोमकः साहदेव्यः. ९-१०,.
+> अश्विनौ ॥
+> छंदः—गायत्री ॥
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्होता॑ नो अध्व॒रे वा॒जी सन्परि॑णीयते ॥  
+> दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ॥ १ ॥
+
+> *agnirhotā no adhvare vājī sanpariṇīyate ‖*  
+> *devo deveṣu yajñiyaḥ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । होता । नः । अध्वरे । वाजी । सन् । परि । नीयते ।  
+> देवः । देवेषु । यज्जियः ॥ १ ॥
+
+> *agniḥ | hotā | naḥ | adhvare | vājī | san | pari | nīyate |*  
+> *devaḥ | deveṣu | yajjiyaḥ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होता देवानामाह्वाता होमनिष्पादको वाग्निर्नोऽस्मदीयेऽध्वरे
+> यागे । वाजीत्येतल्लुप्तोपमाकं । वाजी शीघ्रगामिा वोढाश्व इव तथा देवेभ्यो
+> हविर्वाहकः सन् परि णेयते । परितः समंतात्पाप्यते । तथा ब्राह्मणं च भवति ।
+> वाजी सन्सरि णेयत इति वाजिनमिव ह्येनं संतं परिणयंति । ऐ. ब्रा. २-५ । इति ।
+> कीदृशोऽग्निः। देवेषु द्योतमानेस्विंद्रादिषु मध्यॆ देवो द्योतमानो यज्जियो यज्ञार्हः ।
+
+##### Gist of the bhāṣya
+
+Agni is the Hotṛ, the caller of the gods, or the accomplisher of the homa, in our sacrifice (अध्वरे (*adhvare*) = यागे (*yāge*)). वाजी (*vājī*) has its simile dropped (लुप्तोपमाकं (*luptopamākaṃ*)): like a swift-going horse that bears a load, so, being the carrier of the oblation to the gods, he is led round (परि णेयते (*pari ṇeyate*)), that is, conducted on every side. So also says a Brāhmaṇa: वाजी सन्सरि णेयत इति वाजिनमिव ह्येनं संतं परिणयंति । (*vājī sansari ṇeyata iti vājinamiva hyenaṃ saṃtaṃ pariṇayaṃti |*) (Ai. Brā. 2-5). **NOTE**
+What kind of Agni is he? Among the shining gods, Indra and the others, he is the shining god, यज्जियः (*yajjiyaḥ*), worthy of sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 910. pp. 905-910 (batch API)
+**Progress note:** Done through printed p. 917. pp. 911-917 (batch API)
