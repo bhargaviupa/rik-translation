@@ -27742,6 +27742,314 @@ O Agni, विश्ववेदसं (*viśvavedasaṃ*): he whose wealth (*ve
 - गिरा (*girā*)—with speech in the form of praise
 - ऋंजसे (*ṛṃjase*)—I worship and adorn
 
+### Printed p. 857
+#### Ṛk 1 (continuing)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who possess all wealth, bear the oblation, are free from mortality, are the most worthy of worship, and are the messenger to the gods, I worship and adorn with a speech in the form of praise.
+
+##### English translation (H. H. Wilson)
+I propitiate you with praise, the messenger (of the gods), the omniscient, the bearer of oblations, the immortal, the chief sacrificer
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि वेदा॒ वसु॑धितिं म॒हा आ॒राध॑नं दि॒वः ।  
+> स दे॒वा एह व॑क्षति ॥ २ ॥
+
+> *sa hi vedā vasudhitiṃ mahā ārādhanaṃ divaḥ |*  
+> *sa devā eha vakṣati ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । वेद । वसुधितिं । महान् । आरोधनं । दिवः ।  
+> सः । देवान् । आ । इह । वक्षति ॥ २ ॥
+
+> *saḥ | hi | veda | vasudhitiṃ | mahān | ārodhanaṃ | divaḥ |*  
+> *saḥ | devān | ā | iha | vakṣati ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि प्रसिद्ध एवाग्निर्वसुधितिं यजमानाभीष्टफलरूपधनस्य दानं वेद ।
+> वेत्ति । महान् प्रभूतोऽग्निर्दिव आरोधनमारोहणं देवानां स्थानं वेत्ति ।
+> सोऽग्निरिहास्मिन्यज्ञे देवानिंद्रादीना वक्षति । आवहतु ॥ वहेर्धातोर्लिजर्थे लेटिति
+> लेट् । तस्य तिप् । सिब्बहुलं लेटीति सिप् । लेटोऽडाटावित्यडागमश्च । हो ढ इति
+> ढत्वं । ठत्वकत्वषत्वानि । तिङ्ङतिङ इति निघातः ॥
+
+##### Gist of the bhāṣya
+
+That well-known Agni knows the vasudhiti, the giving of wealth in the form of the fruit desired by the sacrificer. Mighty (mahān, abundant), he knows the ārodhana (ascent) of the sky, the place of the gods. That Agni is to bring (vakṣati, "let him bring") the gods Indra and the others here, to this sacrifice. The verb is the Vedic subjunctive (leṭ) of the root vah.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स हि (*sa hi*)—the well-known Agni
+- वसुधितिं (*vasudhitiṃ*)—what wealth is desired by the sacrificer
+- वेद (*veda*)—knows
+- महान् (*mahān*)—he, of great nature
+- दिवः (*divaḥ*)—in the atmosphere
+- आराधनं (*ārādhanaṃ*)—knows the place of ascent of the gods **NOTE**
+- सः (*saḥ*)—that same Agni
+- इह (*iha*)—to this our sacrificial place
+- देवान् (*devān*)—the gods
+- आ नक्षति (*ā nakṣati*)—let him bring **NOTE**
+
+### Printed p. 858
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Agni knows what wealth is desired by the sacrificer. He, of great nature, knows in the atmosphere the place of ascent of the gods. May that same Agni bring the gods to this our sacrificial place.
+
+##### English translation (H. H. Wilson)
+The mighty one knows how to bestow the (desired) wealth (upon the worshipper); he knows the ascents of heaven : may he bring the gods hither.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वे॑द दे॒व आ॒नमं॑ दे॒वा ऋ॑ताय॒ते दमे॑ ।  
+> दाति॑ प्रि॒याणि॑ चि॒द्वसु॑ ॥ ३ ॥
+
+> *sa veda deva ānamaṃ devā ṛtāyate dame |*  
+> *dāti priyāṇi cidvasu ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वेद । देवः । आनमं । देवान् । ऋत्ययते । दमे ।  
+> दाति । प्रियाणि । चित् । वसु ॥ ३ ॥
+
+> *saḥ | veda | devaḥ | ānamaṃ | devān | ṛtyayate | dame |*  
+> *dāti | priyāṇi | cit | vasu ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतमानः सोऽग्निरानमं यजमानादीनानमयितुं नमस्कारतुं देवानिंद्रादीन्वेद । क्रमेण वेत्ति । दमे यज्ञगृह ऋतायत ऋतं यज्ञमिच्छते यजमानाय प्रियाणि चिदभीष्टान्यपि वसु वसूनि पश्वादीनि धनानि दाति ।
+> ददाति । प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+The shining (deva) Agni knows the gods Indra and the others in due order, as those to whom the sacrificer and others should bow (ānamam). In the house (dama), the sacrificial dwelling, he gives to the sacrificer who desires ṛta, the sacrifice, the dear, desired riches (vasu), cattle and other wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the shining
+- सः (*saḥ*)—Agni
+- आनमं (*ānamaṃ*)—worthy of the sacrificers' homage
+- देवान् (*devān*)—the greatness of the gods Indra and others
+- वेद (*veda*)—has known
+- दमे (*dame*)—in the sacrificial house
+- ऋतायते (*ṛtāyate*)—to the sacrificer engaged in the sacrificial work
+- प्रियाणि चित् (*priyāṇi cit*)—most dear
+- वसु (*vasu*)—wealth
+- दाति (*dāti*)—gives
+
+### Printed p. 859
+
+##### भावार्थ (Bhāvārtha)
+
+The shining Agni has known the greatness of the gods Indra and the others, who are worthy of the sacrificers' homage. In the sacrificial house he gives the dearest wealth to the sacrificer engaged in the sacrificial work.
+
+##### English translation (H. H. Wilson)
+He, the divine (Agni), knows how the gods are to be reverenced : to the sincere (worshipper) in his dwelling he gives the wealth that is desired.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स होता॒ सेदु॑ दू॒त्यं॑ चिकि॒त्वा अं॒तरी॑यते ।  
+> वि॒द्वा आ॒राध॑नं दि॒वः ॥ ४ ॥
+
+> *sa hotā sedu dūtyaṃ cikitvā aṃtarīyate |*  
+> *vidvā ārādhanaṃ divaḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । होता । सः । इत् । ऊं इति । दूत्यं । चिकित्वान् । अंतः । ईयते ।  
+> विद्वान् । आरोधनं । दिवः ॥ ४ ॥
+
+> *saḥ | hotā | saḥ | it | ūṃ iti | dūtyaṃ | cikitvān | aṃtaḥ | īyate |*  
+> *vidvān | ārodhanaṃ | divaḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोग्निर्होता देवानामाह्वाता भवति । सेदु स एवाग्निर्दूत्यं देवानां
+> दूतकर्म चिकित्वान् जानन् दिवः स्वर्नस्यारोधनमारोहणमारोहणार्हं
+> देवानां स्थानं च विद्वान् जानन् अंतर्दावापृथिव्योर्मध्य ईयते । गच्छति ॥
+> ईज् गत् । दिवादिभ्यः श्यन् । तिज्जतिज इति निघातः ॥
+
+##### Gist of the bhāṣya
+
+That Agni is the hotṛ, the summoner of the gods. That same Agni, knowing (cikitvān) the messenger's office of the gods, and knowing (vidvān) the ascent (ārodhana) of the sky, the place of the gods fit for ascending, goes (īyate) between heaven and earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Agni
+- होता (*hotā*)—is the hotṛ who calls the gods to the sacrifice
+- सेदु (*sedu*)—that same Agni
+- दूत्यं (*dūtyaṃ*)—the divine messengership
+- चिकित्वान् (*cikitvān*)—as one who knows
+- दिवः (*divaḥ*)—of the atmosphere
+- आरोधनं (*ārodhanaṃ*)—the place of ascent
+- विद्वान् (*vidvān*)—as one who knows
+- अंतः (*aṃtaḥ*)—in the middle region between heaven and earth
+- ईयते (*īyate*)—moves about
+
+### Printed p. 860
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is the hotṛ who calls the gods to the sacrifice. That same Agni, knowing his divine messengership and knowing the place of ascent of the atmosphere, moves about in the middle region between heaven and earth.
+
+##### English translation (H. H. Wilson)
+He is the invoker ( of the gods ), comprehending the deity of ( their ) messenger ; and, knowing the ascent of the sky, he travels between earth and heaven.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते स्या॑म॒ ये अ॒ग्नये॑ ददा॒शुर्ह॒व्यदा॑तिभिः ।  
+> य ईं॒ पुष्यं॑त इंथ॒ते ॥ ५ ॥
+
+> *te syāma ye agnaye dadāśurhavyadātibhiḥ |*  
+> *ya īṃ puṣyaṃta iṃthate ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । स्याम । ये । अग्नये । ददाशुः । हव्यदातिभिः ।  
+> ये । ईं । पुष्यंतः । इंथते ॥ ५ ॥
+
+> *te | syāma | ye | agnaye | dadāśuḥ | havyadātibhiḥ |*  
+> *ye | īṃ | puṣyaṃtaḥ | iṃthate ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते तव यजमानाः स्याम । भूयाम । त इत्युक्तं । क इत्युच्यते । ये
+> यजमाना अग्नये हव्यदातिभिर्हविर्दानैर्ददाशुः । प्रीतिं कुर्वंति । ईमेनमग्निं
+> पुष्यंतो वर्धयंतो ये यजमाना इंथते । समिद्धिर्दिप्तियुक्तं कुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+"May we be yours (the sacrificers who belong to you)." Who are they? The sacrificers who please Agni with gifts of oblations (havyadāti), and who, cherishing (puṣyantaḥ, strengthening) this Agni, kindle him (indhate), making him blaze with fuel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those who
+- अग्नये (*agnaye*)—for Agni
+- हव्यदातिभिः (*havyadātibhiḥ*)—with gifts of oblations
+- ददाशुः (*dadāśuḥ*)—bring satisfaction to Agni
+- ई (*ī*)—this Agni
+- पुष्यंतः (*puṣyaṃtaḥ*)—strengthening **NOTE**
+- ये (*ye*)—who
+- इंधते (*iṃdhate*)—make Agni blaze (with fuel sticks)
+- ते (*te*)—as such worshippers
+- स्याम (*syāma*)—we too shall be
+
+### Printed p. 861
+
+##### भावार्थ (Bhāvārtha)
+
+May we too be those who satisfy Agni with gifts of oblations offered to him, and who make Agni blaze with fuel sticks.
+
+##### English translation (H. H. Wilson)
+May we be they who propitiate Agni with gifts of oblations, and who, cherishing him, feed him with fuel.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते रा॒या ते सु॒वीय्यैः॑ सस॒वांसो॒ वि शृ॑ण्वरे ।  
+> ये अ॒ग्ना द॑धि॒रे दुवः॑ ॥ ६ ॥
+
+> *te rāyā te suvīyyaiḥ sasavāṃso vi śṛṇvare |*  
+> *ye agnā dadhire duvaḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । राया । ते । सुवीय्यैः । ससवांसः । वि । शृण्वरे ।  
+> ये । अग्ना । दधिरे । दुनः ॥ ६ ॥
+
+> *te | rāyā | te | suvīyyaiḥ | sasavāṃsaḥ | vi | śṛṇvare |*  
+> *ye | agnā | dadhire | dunaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये यजमाना अग्नाग्नौ ॥ सुपां सुलुगित्याकारः ॥ दुवः परिचर्यां
+> दधिरे । धारयंति । कुर्वंतीत्यर्थः । ते ससवांसोऽग्निं संभजमाना राया
+> पश्वादिलक्षणेन धनेन वि शृण्वरे । विश्रूयंते । प्रख्यायंते । ते सुवीर्यैः
+> शोभनवीयोपेतैः पुत्रादिभिश्च विश्रूयंते ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers who offer (dadhire, bear, perform) service (duvas) to Agni (agnā, a locative form) — they, serving Agni, become renowned (vi śṛṇvare) through wealth (rāyā) such as cattle, and through sons possessed of excellent vigour (suvīryaiḥ).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which sacrificers
+- अग्ना (*agnā*)—to Agni
+- दुवः (*duvaḥ*)—worship and the like
+- दधिरे (*dadhire*)—offer
+- ते ससवांसः (*te sasavāṃsaḥ*)—those sacrificers, worshippers of Agni
+- राया (*rāyā*)—endowed with wealth such as cattle
+- वि शृण्वरे (*vi śṛṇvare*)—become renowned
+- ते (*te*)—they
+- सुवीरैः (*suvīraiḥ*)—become endowed with vigorous sons **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers who offer worship and the like to Agni, those worshippers of Agni, become renowned, endowed with wealth such as cattle; they become endowed with vigorous sons.
+
+### Printed p. 862
+
+##### English translation (H. H. Wilson)
+They are renowned for riches and for progeny, who, venerating Agni, offer him oblations.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे रायो॑ दि॒वेदि॑वे॒ सं च॑रंतु पुरु॒स्पृहः॑ ।  
+> आस्मे वाजास ईरतां ॥ ७ ॥
+
+> *asme rāyo divedive saṃ caraṃtu puruspṛhaḥ |*  
+> *āsme vājāsa īratāṃ ‖ 7 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । रायः । दिवेऽदिवे । सं । चरंतु । पुरुस्पृहः ।  
+> अस्मे इति । वाजासः । ईरतां ॥ ७ ॥
+
+> *asme iti | rāyaḥ | dive 'dive | saṃ | caraṃtu | puruspṛhaḥ |*  
+> *asme iti | vājāsaḥ | īratāṃ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुस्पृह ऋत्विगादिभिरभिलष्यमाणा रायः पश्वादिधनान्यस्मे अस्मासु यजमानेषु दिने दिने प्रतिदिनं सं चरंतु । प्रचरंतो भवंतु ॥ दिव्यब्दादुत्तरस्याः
+> सप्तम्याः सुपां सुलुगित्यादिना शेआदेश ऊडिदमित्यादिना च तस्योदात्तत्वं । नित्यवीप्सयोरिति द्विर्भावे सत्युत्तरभागस्यानुदात्तं चेत्यनुदात्तत्वं ॥ वाजासोऽन्नानि
+> चास्मे अस्मानीरतां । यज्ञार्थं प्रेरयंतु ॥
+
+##### Gist of the bhāṣya
+
+May riches (rāyaḥ), cattle and other wealth, much desired (puruspṛhaḥ) by priests and others, move about (saṃ carantu) among us, the sacrificers, day by day. The words वाजासः (*vājāsaḥ*), foods, are to urge us on (īratām) for the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुस्सृहः (*purussṛhaḥ*)—desired by many
+- रायः (*rāyaḥ*)—wealth such as cattle
+- अस्मे (*asme*)—among us
+- दिवेदिवे (*divedive*)—every day
+- सं चरंतु (*saṃ caraṃtu*)—come and fill
+- वाजासः (*vājāsaḥ*)—foods
+- अस्मे (*asme*)—us
+- ईरतां (*īratāṃ*)—make full of zeal
+
+##### भावार्थ (Bhāvārtha)
+
+May riches such as cattle, desired by many, come and fill us every day. May the wealth of food urge us on and make us full of zeal.
+
+##### English translation (H. H. Wilson)
+May riches, envied by many, devolve upon us day by day, and (abundant) food await us.
+
 ---
 
-**Progress note:** Done through printed p. 856. pp. 851-856 (batch API)
+**Progress note:** Done through printed p. 862. pp. 857-862 (batch API)
