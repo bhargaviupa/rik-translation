@@ -5524,6 +5524,250 @@ Many are his prohibitions (against evil enjoined) to men : many are the treasure
 
 पूर्वीः अस्य निष्पिधः मर्त्येषु (*pūrvīḥ asya niṣpidhaḥ martyeṣu*)- अनुशासनानि हितोपदेशादिभिः नानाप्रकाराणि भवंति (*anuśāsanāni hitopadeśādibhiḥ nānāprakārāṇi bhavaṃti*). Indra's injunctions or rules are many with regard to men, in the form of beneficial teaching. Here the commentator explains the word niṣpidhaḥ as injunctions, rules; that is, to punish and restrain the wicked is called anuśāsana. With this meaning—
 
+### Printed p. 144
+
+[The sentence continues from the previous page:] The commentator cites as an example the Ṛk
+
+उक्कमिंद्राय शंस्यं वर्धनं पुरुनिष्पिधे । (*ukkamiṃdrāya śaṃsyaṃ vardhanaṃ puruniṣpidhe |*) (Ṛ. Saṃ. 1-10-5).
+
+For the word पुरुनिष्पिधे (*puruniṣpidhe*) in this Ṛk he explains बहूनां शत्रूणां निषेधकारिणे (*bahūnāṃ śatrūṇāṃ niṣedhakāriṇe*), that is, "to him who defeats many enemies and keeps them under restraint". It is therefore indicated that the ordinances called niṣpidha, namely the punishing of the wicked and the protecting of the good, are carried out by Indra.
+
+पुरु वसूनि (*puru vasūni*) …… वनानि (*vanāni*)—In accordance with the command of such a supremely glorious Indra, the earth bears wealth of many kinds in the form of plants and the like; the heaven, the herbs, the waters and the trees all guard, by Indra's command, the wealth in each of them, that is, the essential, excellent things, for Indra's enjoyment. This is the main purport of the Ṛk.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्यं॒ ब्रह्मा॑णि॒ गिर॑ इंद्र॒ तुभ्यं॑ स॒त्रा द॑धिरे हरिवो जु॒षस्व॑।  
+> बो॒ध्या॒३॒॑पिरव॑सो॒ नूत॑नस्य॒ सखे॑ वसो जरि॒तृभ्यो॒ वयो॑  
+> धाः ॥ ६ ॥
+
+> *tubhyaṃ brahmāṇi gira iṃdra tubhyaṃ satrā dadhire harivo juṣasva|*  
+> *bodhyāpiravaso nūtanasya sakhe vaso jaritṛbhyo vayo*  
+> *dhāḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यं । ब्रह्माणि । गिरः । इंद्र । तुभ्यं । सत्रा । दधिरे । हरिऽवः । जुषस्व ।  
+> बोधि । आपिः । अवसः । नूतनस्य । सखे । वसो इति । जरितृभ्यः । वयः । धाः । ६ ॥
+
+> *tubhyaṃ | brahmāṇi | giraḥ | iṃdra | tubhyaṃ | satrā | dadhire | hari 'vaḥ | juṣasva |*  
+> *bodhi | āpiḥ | avasaḥ | nūtanasya | sakhe | vaso iti | jaritṛbhyaḥ | vayaḥ | dhāḥ | 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिवोऽश्ववन्निंद्र तुभ्यं त्वदर्थं ब्रह्माणि स्तोत्राणि तथा तुभ्यं गिरः
+> शास्त्राणि च सत्ता सत्यमेव दधिरे । ऋत्विजो धारयंति । तानि जुषस्व । सेवस्व । हे
+> वसो सर्वस्य वासयितः सखे सखिभूत हे इंद्र आपिर्वाप्तस्त्वं नूतनस्य नवतरमवसोऽन्नलक्षणं हविर्भोधि । त्वदर्थं दीयमानं जानीहि । आतस्त्वं जरितृभ्यः
+> स्तोतृभ्योऽस्मभ्यं वयोऽन्नं धाः । देहि ॥ तुभ्यं । जयि चेत्याद्युदात्तत्वं। जुषस्व।
+> जुषी प्रीतिसेवनयोरित्यस्य लोटि रूपं । वाक्यभेदादनिघातः । बोधि । बुध अवगमन इत्यस्य लोटि वा छंदसीति हेर्विकल्पेन जित्वादत्र पित्त्वाद्गुणः । हुझल्फो
+> हेर्धिरिति ध्यादेशः । जित्वादंतोदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, हरिवः (*harivaḥ*), possessor of horses: for you the Brahmans (stotras, hymns of praise) and for you the "gir" (śāstras, recitations) the priests truly hold up; enjoy them, accept them. O वसो (*vaso*), he who causes all to dwell, O friend, O Indra, who are all-pervading: know that the newest food, the oblation in the form of अवसः (*avasaḥ*) (food), is being given for you. Therefore give food to us, the singers who praise you. **NOTE**
+
+### Printed p. 145
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवे (*harive*)—O one yoked with horses
+- इंद्र (*iṃdra*)—O Indra
+- तुभ्यं (*tubhyaṃ*)—for you alone
+- ब्रह्माणि (*brahmāṇi*)—the hymns of praise
+- तुभ्यं (*tubhyaṃ*)—for you alone
+- गिरः (*giraḥ*)—the śastra-mantras
+- सत्रा (*satrā*)—truly
+- दधिरे (*dadhire*)—(the priests) have held
+- जुषस्व (*juṣasva*)—(them) enjoy
+- वसो (*vaso*)—O maker of dwelling-places
+- सखी (*sakhī*)—O Indra, who are a friend
+- आपि (*āpi*)—you, who are all-pervading
+- नूतनस्य (*nūtanasya*)—(though) new
+- अवसः (*avasaḥ*)—the food, which is in the form of oblation
+- बोधि (*bodhi*)—know
+- जरितृभ्यः (*jaritṛbhyaḥ*)—to us, the praisers
+- वयः (*vayaḥ*)—food
+- धाः (*dhāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, yoked with horses, the priests have held up hymns of praise and śastra-mantras for you alone. Enjoy them. O Indra, maker of dwelling-places and friend, you who are all-pervading, know the food, new and in the form of oblation, accept it, and give us, who praise you, the food that we desire.
+
+##### English translation (H. H. Wilson)
+To you, Indra, (the pious) address prayers, and praises, and sacrifi-
+ces : accept them, lord of horses : giver of dwellings, friend (of man), you
+are the pervader (of all things), partake of this present oblations, and grant
+food to the worshippers.
+
+##### विशेषविषयगळु (Special Topics)
+
+हरिव: (*hariva:*)—अश्ववन्निंद्र । (*aśvavanniṃdra |*) Indra's horses are named "Hari" (Ni. 2-28). Indra is addressed by the word हरिवः (*harivaḥ*) as "O Indra, possessor of such horses".
+
+तुभ्यं ब्रह्माणि तुभ्यं गिरः सत्रा दधिरे जुषस्व (*tubhyaṃ brahmāṇi tubhyaṃ giraḥ satrā dadhire juṣasva*)—O Indra, the priests are reciting hymns of praise and words of praise for you. "Enjoy it" means "hear it and be pleased"; this is the main purport. Here the word तुभ्यं (*tubhyaṃ*) is recited twice in order to indicate the great affection of the worshipper for Indra.
+
+सखे वसो आपि नूतनस्य अवसः बोधि (*sakhe vaso āpi nūtanasya avasaḥ bodhi*)—सर्वस्य वासयितः सखिभूत हे इंद्र व्याप्तस्तं नूतनस्य अन्नलक्षणं हविः त्वदर्थं दीयमानं जानीहि । (*sarvasya vāsayitaḥ sakhibhūta he iṃdra vyāptastaṃ nūtanasya annalakṣaṇaṃ haviḥ tvadarthaṃ dīyamānaṃ jānīhi |*) O Indra, who provide a dwelling-place for all and are beneficent like a friend, you who are all-pervading, know that the oblation in the form of food, newly prepared by us just now to be offered to you, is made ready for you alone.
+
+### Printed p. 146
+
+जरितृभ्यः वयः धाः (*jaritṛbhyaḥ vayaḥ dhāḥ*)—स्तोतृभ्योऽस्मभ्यमन्नं वेहि । (*stotṛbhyo 'smabhyamannaṃ vehi |*) Favour us, who sing praise, by giving अत्मनन्नु (*atmanannu*). **NOTE** The words अवः (*avaḥ*) and वयः (*vayaḥ*) are read among the names of food (Ni. 3-9).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ मरुत्व इ॒ह पा॑हि॒ सोमं॒ यथा॑ शार्या॒ते अपि॑बः  ॒॑
+> सुतस्य ।  
+> तव॒ प्रणी॑ती॒ तव॑ शूर॒ शर्म॒न्ना वि॑वासंति क॒वयः॑ सुय॒ज्ञाः ॥
+
+> *iṃdra marutva iha pāhi somaṃ yathā śāryāte apibaḥ*  
+> *sutasya |*  
+> *tava praṇītī tava śūra śarmannā vivāsaṃti kavayaḥ suyajñāḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । मरुत्वः । इह । पाहि । सोमं । यथा । शार्याते । अपिबः । सुतस्य ।  
+> तव । प्रणीती । तव । शूर । शर्मन् । आ । विवासंति । कवयः । सुयज्ञाः ॥ ७ ॥
+
+> *iṃdra | marutvaḥ | iha | pāhi | somaṃ | yathā | śāryāte | apibaḥ | sutasya |*  
+> *tava | praṇītī | tava | śūra | śarman | ā | vivāsaṃti | kavayaḥ | suyajñāḥ ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुत्वो मरुद्भिस्तद्वन् हे इंद्र त्वमिहास्मदीये यज्ञ अगत्य सोमं
+> पाहि । पिब । यथा त्वं पूर्वं शार्याते शर्यातेः पुत्रे तस्मिन्नाजनि यज्ञं
+> कुर्वाणे सुतस्याभिषुतं सोममपिबः तथात्रापि पिबेत्यर्थः । इंद्र: शार्यातस्य
+> यज्ञे सोमरसानपिबदित्येषोऽर्थः कौषीतके स्पष्टमुक्तः । तथा मंत्रवर्णश्च ।
+> आ स्मा रथं वृषपाणेषु तिष्ठसि शार्यातस्य प्रकृता येषु मंदसे । ऋग्वे. १-५१-१२
+> । इति । हे शूरेंद्र तव संबंधिनि शर्मन् शर्मणि निर्बाधस्थाने स्थिताः सुयज्ञाः
+> सुष्टु कृतयज्ञाः कवयो मेधाविनो यजमानाः प्रणीती तव हविषां प्रणयनेन
+> प्रापणेन आ समंताद्विवासंति । त्वामेव परिचरंति । विवासतिः परिचरणकर्मा ॥
+> शार्यते । शर्यातेरयमित्यर्थे तस्येदमित्यण् प्रत्ययः । अपिबः । यथायोगादनिघातः । अडागमस्वरः । प्रणीती । नयतेभार्वॆ क्तिन् । तादौ च निति कृतीति गतेः
+> प्रकृतिश्वरत्वं । सुपां सुलुगिति तृतीयायाः सवर्णदीर्घः । उपसर्गादसमासेऽपि
+> णत्वं ॥
+
+##### Gist of the bhāṣya
+
+O मरुत्वः (*marutvaḥ*), Indra accompanied by the Maruts, come to this our sacrifice and drink the soma; as you formerly drank the pressed soma when Śāryāta, the son of Śaryāti, was performing a sacrifice, so drink here also. That Indra drank the soma-juices at Śāryāta's sacrifice is stated clearly in the Kauṣītaki; and there is a mantra text to the same effect: आ स्मा रथं वृषपाणेषु तिष्ठसि शार्यातस्य प्रकृता येषु मंदसे । (*ā smā rathaṃ vṛṣapāṇeṣu tiṣṭhasi śāryātasya prakṛtā yeṣu maṃdase |*) (Ṛgve. 1-51-12) **NOTE**. O hero Indra, the wise sacrificers who have performed their sacrifice well, abiding in your own shelter, a place free of obstruction, serve you all around by bringing you the oblations; they attend on you alone. विवासति (*vivāsati*) is a word of the sense of attendance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदुत्वः (*madutvaḥ*)—accompanied by the Maruts
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—in the way in which
+- शार्यते (*śāryate*)—at the sacrifice of the son of Śaryāta **NOTE**
+- सुतस्य (*sutasya*)—the pressed soma
+- अपिबः (*apibaḥ*)—you drank, even so
+- इह (*iha*)—in this sacrificial rite
+- सोमं (*somaṃ*)—the soma-juice
+- पाहि (*pāhi*)—drink
+
+### Printed p. 147
+
+- शूर (*śūra*)—O valiant Indra
+- तव (*tava*)—pertaining to your worship
+- शर्मन् (*śarman*)—those engaged in the rites
+- सुयज्ञाः (*suyajñāḥ*)—excellent sacrificers
+- कवयः (*kavayaḥ*)—wise sacrificers
+- तव (*tava*)—to you
+- प्रणीती (*praṇītī*)—by offering the oblation
+- आ विवासंति (*ā vivāsaṃti*)—they worship (you) all around
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, accompanied by the Maruts, as you formerly drank the pressed soma-juice at the sacrifice of Śaryāta's son, so drink at this sacrificial rite also the soma that is offered. O valiant Indra, the sacrificers, who are engaged in the rites that are the object of your worship, who are excellent performers of sacrifice and wise, serve you all around by offering the oblation.
+
+##### English translation (H. H. Wilson)
+Indra, accompanied by the Maruts, drink the soma at this ceremony as you have drunk of the libation of the son of Sharyati : your far-seeing and devout worshippers, being in security, adore you through their offerings
+
+##### विशेषविषयगळु (Special Topics)
+
+मरुत्वः (*marutvaḥ*)—मरुद्भिस्तद्वन् । (*marudbhistadvan |*) The meaning is "O Indra, together with the Marut deities". Here Indra is prayed to come with the Marut deities to our sacrificial ground and drink the soma.
+
+यथा शार्याते अपिबः सुतस्य (*yathā śāryāte apibaḥ sutasya*)—O Indra, as you formerly came to the sacrifice performed by the son of one named Śaryāti and drank soma, so come to our sacrificial ground also and drink the soma; thus the seer prays. The commentator says that the matter of Indra's drinking soma at the sacrifice of Śaryāti's son is stated clearly in the Kauṣītakī Brāhmaṇa, and as an example he gives the Ṛk that mentions this matter in the Ṛgveda also:
+
+आ स्मा रथं वृषपाणेषु तिष्ठसि शार्यातस्य प्रभृता येषु मंदसे । (*ā smā rathaṃ vṛṣapāṇeṣu tiṣṭhasi śāryātasya prabhṛtā yeṣu maṃdase |*)
+(Ṛ. Saṃ. 1-51-12).
+
+Śaryāti was a royal seer. His son is customarily called Śāryāta. Formerly, when this Śāryāta performed a sacrifice, the great sage Cyavana, born in the Bhṛgu lineage, gave the share of the oblation first to the Aśvin deities. Indra then became greatly angry. Śāryāta, knowing this, praised Indra in various ways and pleased him, prepared the soma-juice by the rites of pressing and the like, and offered that purified soma to Indra.
+
+### Printed p. 148
+
+Indra, satisfied, drank the soma-juice to his heart's content at Śāryāta's sacrifice; so runs the legend. The seer describes that very thing here. The name of this Śāryāta is indicated in the present Ṛk, in Ṛ. Saṃ. 1-51-12, in Ai. Brā. 4-32-7, Śa. Brā. 4-1-5-1, the Jaiminīya Brāhmaṇa 3-121 and other places.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वा॑वशा॒न इ॒ह पा॑हि॒ सोमं॑ म॒रुद्भि॑रिंद्र॒ सखि॑भिः सु॒तं नः॑ ।  
+> जा॒तं यत्त्वा॒ परि॑ दे॒वा अभू॑षन्म॒हे भरा॑य पुरुहूत॒  ॑
+> विश्वे ॥ ८ ॥
+
+> *sa vāvaśāna iha pāhi somaṃ marudbhiriṃdra sakhibhiḥ sutaṃ naḥ |*  
+> *jātaṃ yattvā pari devā abhūṣanmahe bharāya puruhūta*  
+> *viśve ‖ 8 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वावशानः । इह । पाहि । सोमं । मरुत्भिः । इंद्र । सखिभिः । सुतं । नः ।  
+> जातं । यत् । त्वा । परि । देवाः । अभूषन् । महे । भराय । पुरुहूत । विश्वे ॥
+
+> *saḥ | vāvaśānaḥ | iha | pāhi | somaṃ | marutbhiḥ | iṃdra | sakhibhiḥ | sutaṃ | naḥ |*  
+> *jātaṃ | yat | tvā | pari | devāḥ | abhūṣan | mahe | bharāya | puruhūta | viśve ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वावशानः सोमं कामयमानः स तादृशस्त्वं सखिभिः समानख्यानैर्मरुद्भिः सह नोऽस्मत्संबंधिनीहास्मिन्यज्ञे सुतमभिषुतं सोमं पाहि । पिब ।
+> हे पुरुहूत पुरुभिराहूतेंद्र जातं पानेन प्रबलं संपन्नं यत् यं त्वां विश्वे
+> सर्वॆ देवा महे महते भराय । ह्रियंते योधानामायुंष्यत्रेति भरः
+> संग्रामः । तस्मै संग्रामाय पर्यभूषन् । सर्वतोऽलमकुर्वन् ॥ वावशानः ।
+> वशेर्यज् लुकि चानशि रूपं । चित्तादंतोदात्तः । अभूषन् । भूष अलंकारे ।
+> भूवादिः । लजि रूपं । यद्योगादनिघातः । भराय । हृञ् हरणे। अधिकरणे घः ।
+> हृग्रहोर्भश्चंदसीति हकारस्य भकारः । वृषादित्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, वावशानः (*vāvaśānaḥ*), desirous of soma: such as you are, with the Maruts, who are your friends, of the same name, drink the soma pressed for us here, at this our sacrifice. O पुरुहूत (*puruhūta*), invoked by many, Indra, born, made strong and complete by drinking: you whom all the gods equipped for the great भराय (*bharāya*). भरः (*bharaḥ*) is battle, because the lives of warriors are carried off in it (ह्रियंते योधानामायुंष्यत्रेति (*hriyaṃte yodhānāmāyuṃṣyatreti*)); for that battle they adorned you on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O one invoked by many
+- इंद्र (*iṃdra*)—O Indra
+- जातं (*jātaṃ*)—you who, drinking soma as soon as you were born, became full of strength
+- यत् त्वा (*yat tvā*)—whom you
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+
+### Printed p. 149
+
+- महे (*mahe*)—great
+- भराय (*bharāya*)—for the work of battle
+- परि अभूषन् (*pari abhūṣan*)—made ready
+- स (*sa*)—such as you are
+- वावशानः (*vāvaśānaḥ*)—desirous of drinking soma
+- सखिभिः (*sakhibhiḥ*)—your friends
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts
+- नः (*naḥ*)—our
+- इह (*iha*)—in this sacrifice
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—soma
+- पाहि (*pāhi*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, invoked by many, whom all the gods made ready for the great work of battle, you who became full of strength by drinking soma as soon as you were born: such as you are, desirous of drinking soma, drink together with the Maruts, your friends, the soma pressed at this our sacrifice.
+
+##### English translation (H. H. Wilson)
+Indra, yoo are gratified by the beverage, drink the Soma that has been effused by us, together with your friends, the Maruts, at this ceremony: you who are invoked of many, and whom all the gods equipped as soon as born for the great battle (with the Asuras).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer describes that Indra is requested to come to the sacrificial ground with his friends, the Marut deities, and drink soma, and that all the gods served Indra, made strong by that soma-drinking, in order to win victory in battle.
+
+The eternal companionship and friendship of Indra and the Maruts, the relation of king and subjects between them, the offering of oblations in the principal sacrificial acts to Indra accompanied by the Maruts, and the help the Maruts gave Indra when he fought with the demon Vṛtra are praised in many places in the Saṃhitās and the Brāhmaṇas. A legend telling how Indra, joining the Maruts, stood apart from the other gods is told in the Śatapatha Brāhmaṇa **NOTE**. Besides, it is said in many places that Indra is the king and the Maruts the subjects. It is also indicated that Indra's valour increased through the help of the Maruts. Because of such a close relation and companionship, the custom of offering oblations addressed to Indra and the Maruts together is seen in the Śrutis.
+
+स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः । (*sa no marudbhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*)
+(Ya Saṃ. 1-171-5) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 143. pp. 138-143 (batch API)
+**Progress note:** Done through printed p. 149. pp. 144-149 (batch API, retry 1)
