@@ -33453,6 +33453,263 @@ Be our preserver, you who are looking (benevolently upon) all ; a kinsman (to us
 
 O Indra, be the protector of us who desire friendship. Being praised, be our friend. O Indra, to me who praise you, give food. O Indra, we, together with our troubles, … (the block breaks off here in this window).
 
+### Printed p. 980
+
+> खलु ते त्वामा चक्रम । आह्वयामः । किं कुर्वंतः । अभिः प्रत्यक्षेणोपलभ्यमानैः शमीभिः स्तुतिरूपैः कर्मभिर्महयंतस्त्वां पूजयंतः ॥
+
+##### Gist of the bhāṣya
+
+The sentence continues from the previous page. "We (खलु (*khalu*)) call you (आ चक्रम (*ā cakrama*), "we invoke"), worshipping you with these visibly present holy rites (शमीभिः (*śamībhiḥ*)) that take the form of praise."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सखीयतां (*sakhīyatāṃ*)—to us who desire your friendship
+- अविता (*avitā*)—as a protector
+- बोधि (*bodhi*)—know (regard yourself)
+- गृणानः (*gṛṇānaḥ*)—you who are praised
+- सखा (*sakhā*)—become our friend
+- स्तुवते (*stuvate*)—to me who praise you
+- वयः (*vayaḥ*)—food
+- धाः (*dhāḥ*)—give
+- इंद्र (*iṃdra*)—O Indra
+- सबाधः (*sabādhaḥ*)—as those who suffer affliction
+- वयं (*vayaṃ*)—we
+- आभिः शमीभिः (*ābhiḥ śamībhiḥ*)—with these rites in the form of praise
+- महयंतः (*mahayaṃtaḥ*)—worshipping you
+- ते (*te*)—you
+- आ चक्रम (*ā cakrama*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, know that you must be the protector of us who desire your friendship. You, who deserve to be praised, be our friend. Give food to me who praise you. O Indra, we, enduring the affliction of austerity, worship you with these rites in the form of praise, and we pray to you and call you.
+
+##### English translation (H. H. Wilson)
+Regard yourself as a protector of those who desire your friendship ; be a friend deserving of commendation : grant, Indra, food to him who praises (you) : suffering difficulties, we make our supplications to you, worshipping you with these holy rites.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Āśvalāyana Śrauta Sūtra (Ā. 3-8) explains that in the sacrifice addressed to Indra Vṛtrahan, when the oblation of the puroḍāśa is made, this Ṛk beginning स्तुत इंद्रः (*stuta iṃdraḥ*) is to be used as the yājyā mantra, by the sūtra सुत इंद्रो मघवा यद्ध वृत्रैवा वस्व इंद्रः सत्यः सम्राट् (*suta iṃdro maghavā yaddha vṛtraivā vasva iṃdraḥ satyaḥ samrāṭ*).
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒त इंद्रो॑ म॒घवा॒ यद्ध॑ वृ॒त्रा भूरी॒ण्येको॑ अप्र॒तीनि॑  
+> हंति ।
+
+> *stuta iṃdro maghavā yaddha vṛtrā bhūrīṇyeko apratīni*  
+> *haṃti |*
+
+### Printed p. 981
+
+> अस्य प्रियो जरिता यस्य शर्मन्नकिर्देवा वारयंते न  
+> मर्ताः ॥१९ ॥
+
+> *asya priyo jaritā yasya śarmannakirdevā vārayaṃte na*  
+> *martāḥ ‖19 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुतः । इंद्रः । मघवा । यत् । ह । वृत्रा । भूरीणि । एकः । अप्रतीनि । हंति ।  
+> अस्य । प्रियः । जरिता । यस्य । शर्मन् । नकिः । देवाः । वारयंते । न । मर्ताः ॥
+
+> *stutaḥ | iṃdraḥ | maghavā | yat | ha | vṛtrā | bhūrīṇi | ekaḥ | apratīni | haṃti |*  
+> *asya | priyaḥ | jaritā | yasya | śarman | nakiḥ | devāḥ | vārayaṃte | na | martāḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रस्य वृत्रघ्नः पुरोडाशस्य स्तुत इंद्र इति याज्या । सूत्रितं च । स्तुत
+> इंद्रो मघवा यद्ध वृत्रैना वस्व इंद्रः सत्यः सम्राट् । आ. ३-८ । इति ॥
+> यद्ध यदा खलु मघवा धनवानिंद्रः स्तुतोऽस्माभिः स्तुतो भवति तदेंद्र
+> एकोऽसहाय एव भूरीणि बहून्यप्रतीन्यप्रतिगमनानि । अभिगमनयुक्तानीत्यर्थः ।
+> वृत्रा वृत्राणि शत्रुन्हंति । हिनस्ति । यस्येंद्रस्य शर्मन् शर्मण्याश्रये वर्तमानं
+> स्तोतारं देवा नकिर्वारयंते । निवारणं न कुर्वंति । मर्ताश्च न निवारयंते
+> अस्येंद्रस्य जरिता स्तोता प्रियो भवति ॥
+
+##### Gist of the bhāṣya
+
+स्तुत इंद्रः (*stuta iṃdraḥ*) is the yājyā for the puroḍāśa of Indra Vṛtrahan, and it is prescribed in the sūtra (Ā. 3-8). When Indra, the possessor of wealth (मघवा (*maghavā*)), is praised by us, then he alone, without helper, slays many (भूरीणि (*bhūrīṇi*)) foes (वृत्रा (*vṛtrā*)) who are अप्रतीनि (*apratīni*), that is, "not to be approached" or "not yielding". The worshipper who dwells in the shelter (शर्मन् (*śarman*)) of this Indra is not obstructed by gods or by mortals. The praiser of this Indra is dear to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युद्ध (*yuddha*)—when
+- मघवा (*maghavā*)—the wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- स्तुतः (*stutaḥ*)—is praised (then)
+- एकः (*ekaḥ*)—he alone
+- भूरीणि (*bhūrīṇi*)—numerous
+- अप्रतीनि (*apratīni*)—and not yielding to others
+- वृत्रा (*vṛtrā*)—all enemies
+- हंति (*haṃti*)—destroys
+- यस्य (*yasya*)—of that Indra
+- शर्मन् (*śarman*)—the praiser who is in his protection
+- देवाः (*devāḥ*)—the gods
+- नकिः वारयंते (*nakiḥ vārayaṃte*)—cannot oppose
+- मर्ताः (*martāḥ*)—mortals also
+- न (वारयंते) (*na (vārayaṃte)*)—cannot oppose
+- अस्य (*asya*)—to this Indra
+- जरिता (*jaritā*)—the praiser
+- प्रियः (*priyaḥ*)—becomes dear
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Indra, the possessor of wealth, is praised, he, without the help of others, alone destroys all the numerous enemies who yield to none. Neither gods nor humans can oppose the praiser who is under Indra's protection. The praiser becomes dear to this Indra.
+
+### Printed p. 982
+
+##### English translation (H. H. Wilson)
+When Indra, the posssessor of opulence, is glorified, he singly destroys many unyielding foes: the worshipper is dear to him (who relies) on his protection, and neither gods nor men molest him
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा न॒ इंद्रो॑ म॒घवा॑ विर॒ष्यी कर॑त्स॒त्या च॑र्षणी॒धृद॑न॒र्वा।  
+> त्वं राजा॑ ज॒नुषां॑ धेह्य॒स्मे अधि॒ श्रवो॒ माहि॑नं॒ यज्ज॑रि॒त्रॆ॥
+
+> *evā na iṃdro maghavā viraṣyī karatsatyā carṣaṇīdhṛdanarvā|*  
+> *tvaṃ rājā januṣāṃ dhehyasme adhi śravo māhinaṃ yajjaritrè‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । इंद्रः । मघवा । विरप्सी । करत् । सत्या । चर्षणीधृत् । अनर्वा ।  
+> त्वं । राजा । जनुषां । धेहि । अस्मे इति । अधि । श्रवः । माहिनं । यत् । जरित्रे ॥२०॥
+
+> *eva | naḥ | iṃdraḥ | maghavā | virapsī | karat | satyā | carṣaṇīdhṛt | anarvā |*  
+> *tvaṃ | rājā | januṣāṃ | dhehi | asme iti | adhi | śravaḥ | māhinaṃ | yat | jaritre ‖20‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निमारुतशस्त्र एवा न इंद्र इति परिधानीया । सूत्रितं च । एवा न इंद्रो
+> मघवा विरप्यीति परिदध्यात् । आ. ५-२० । इति ॥
+> विरष्यी बहुविधशब्दवान् चर्षणीधृत् सर्वासां प्रजानां धारयितानर्वाप्रत्यृतः । केनापि प्रतिकूलेन न प्राप्त इत्यर्थः । मघवा धनवानिंद्र एवैवमस्माभिः
+> स्तुतः सन् नोऽस्माकं सत्या सत्यरूपाण्यभिमतानि फलानि करत् । करोतु । हे इंद्र
+> जनुषां जन्मवतां सर्वॆषां राजा प्रभुत्वं माहिनं महिन्नोपेतं यच्छ्रवो
+> यद्यशो जरित्रे स्तोत्रे देयं तद्यशोऽस्मे अस्मास्वधि अधिकत्वेन धेहि ॥ एवा न
+> इंद्रो मघवा विरष्यीत्युत्तमया परिदधातीयं वा इंद्रो मघवा विरष्यीत्यादि
+> ब्राह्मणं । ऐ. ब्रा. ३-३८ ॥
+
+##### Gist of the bhāṣya
+
+In the Agnimāruta-śastra, एवा न इंद्रः (*evā na iṃdraḥ*) is the concluding verse (paridhānīyā). It is prescribed: एवा न इंद्रो मघवा विरप्यीति परिदध्यात् (*evā na iṃdro maghavā virapyīti paridadhyāt*) (Ā. 5-20). Indra is विरष्यी (*viraṣyī*), "of many kinds of sound"; चर्षणीधृत् (*carṣaṇīdhṛt*), the upholder of all peoples; अनर्वा (*anarvā*), "not met" by any hostile force. Thus praised by us, may Indra, the wealthy, bring about for us true (सत्या (*satyā*)), real desired fruits. O Indra, lord of all born beings, place upon us in abundance the great glory which is to be given to the praiser. The Brāhmaṇa says: एवा न इंद्रो मघवा विरष्यीत्युत्तमया परिदधातीयं वा इंद्रो मघवा विरष्यीत्यादि ब्राह्मणं (*evā na iṃdro maghavā viraṣyītyuttamayā paridadhātīyaṃ vā iṃdro maghavā viraṣyītyādi brāhmaṇaṃ*) (Ai. Brā. 3-38).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विरष्यी (*viraṣyī*)—of many kinds of sound
+- चर्षणीधृत् (*carṣaṇīdhṛt*)—who upholds all peoples
+- अनर्वा (*anarvā*)—unobstructed
+- मघवा (*maghavā*)—wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- एना (*enā*)—thus praised by us
+- नः (*naḥ*)—for us
+
+### Printed p. 983
+- सत्या (*satyā*)—true fruits
+- करत् (*karat*)—may he bring about
+- जनुषां (*januṣāṃ*)—of all beings that are born
+- राजा (*rājā*)—the lord
+- त्वं (*tvaṃ*)—you
+- माहिनं (*māhinaṃ*)—endowed with greatness
+- यत् श्रवः (*yat śravaḥ*)—the fame that is
+- जरित्रॆ (*jaritrè*)—to us who are praisers
+- अस्मे (*asme*)—in us
+- अधि धेहि (*adhi dhehi*)—cause to exist in abundance
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who is of many kinds of sound, upholds all peoples, is unobstructed and wealthy, being praised by us in many ways, bring about true fruits for us. O Indra, you who are lord of all beings that take birth, cause the fame endowed with greatness to be abundant in us, your praisers.
+
+##### English translation (H. H. Wilson)
+The many-voiced Indra, the possessor of opulence, the supporter of men, the irresistible, bestows upon us, when praised by us, assured (rewards): you, (Indra), are the king of men : grant to us abundantly that great fame which (is due) to (your) worshipper.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Āśvalāyana Śrauta Sūtra (Ā. 5-20) prescribes that in reciting the mantras of the Agnimāruta-śastra this Ṛk एवा न इंद्रः (*evā na iṃdraḥ*) be recited as the concluding mantra, by the sūtra एवा न इंद्रो मघवा विरप्यीति परिदध्यात् (*evā na iṃdro maghavā virapyīti paridadhyāt*).
+The Aitareya Brāhmaṇa also says that this Ṛk is to be recited as the concluding mantra of the Agnimāruta-śastra mantras (Ai. Brā. 13-38) **NOTE**. What is there is explained here: एवा न इंद्रो मघवा विरप्सीत्युत्तमया परिदधातीयं ना इंद्रो मघवा विरप्सी करत्सत्या चर्षणीधृदनर्वेतीयं वै सत्या चर्षणीधृदनर्वा (*evā na iṃdro maghavā virapsītyuttamayā paridadhātīyaṃ nā iṃdro maghavā virapsī karatsatyā carṣaṇīdhṛdanarvetīyaṃ vai satyā carṣaṇīdhṛdanarvā*) (Ai. Brā. 13-38).
+This Indra is possessed of wealth, and is always engaged in activity. [The word विरप्ति (*virapti*) is derived from the root रभ राभस्ये (*rabha rābhasye*) and suggests one who, not being idle, is always engaged in some work.] With this Ṛk, which conveys these meanings on Indra's behalf, these Agnimāruta-śastra mantras are to be concluded. The words in this Ṛk, Indra and the rest,
+
+### Printed p. 984
+also convey a sense referring to the Earth. The word चर्षणी (*carṣaṇī*) means human beings. Because he upholds or nourishes human beings, Indra is called चर्षणीधृत् (*carṣaṇīdhṛt*). The intention expressed here is: may such an Indra, descending from his mount the horse, come and sit on this our sacrificial ground, and, protecting the true sacrificial work from obstacles and the like, make it fruitful. It is said here that by touching the earth while reciting this mantra, the Earth is, as it were, prayed to.
+त्वं राजा जनुषां धेह्यस्मे इतीयं वै राजा जनुषां अधि श्रवो माहिनं यज्जरित्र इतीयं वै माहिनं यज्ञश्रवो यजमानो जरिता यजमानाय्यैवैतामाशिषमाशास्ते॥ (*tvaṃ rājā januṣāṃ dhehyasme itīyaṃ vai rājā januṣāṃ adhi śravo māhinaṃ yajjaritra itīyaṃ vai māhinaṃ yajñaśravo yajamāno jaritā yajamānāyyaivaitāmāśiṣamāśāste‖*) (Ai. Brā. 13-38)
+O Indra (or O Earth), you are king of all of us who are born, that is, of all, beginning with the officiating priests and the sacrificer; and you provide all our desires. Procure great fame and food for the sacrificer who is praising. In this sacrifice the sacrificer praises you much. For such a sacrificer, make the sacrifice he is performing fruitful and bestow great fame: thus the priests pray. This is the main purport.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ष्टु॒त इं॑द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑३ न पी॑पेः ।  
+> अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥२१॥
+
+> *nū ṣṭuta iṃdra nū gṛṇāna iṣaṃ jaritre nadyo3 na pīpeḥ |*  
+> *akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ ‖21‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । स्तुतः । इंद्र । नु । गृणानः । इषं । जरित्रे । नद्यः । न । पीपेरिति पीपेः ।  
+> अकारि । ते । हरिऽवः । ब्रह्म । नव्यं । धिया । स्याम । रथ्यः । सदाऽसाः ॥ २१ ॥
+
+> *nu | stutaḥ | iṃdra | nu | gṛṇānaḥ | iṣaṃ | jaritre | nadyaḥ | na | pīperiti pīpeḥ |*  
+> *akāri | te | hari 'vaḥ | brahma | navyaṃ | dhiyā | syāma | rathyaḥ | sadā 'sāḥ ‖ 21 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नु क्षिप्रं स्तुतः पूर्वैर्ऋषिभिः संस्तुतो नुक्षिप्रंगृणानोऽस्माभिः
+> स्तूयमानश्च त्वमिषमन्नं जरित्रे स्तोत्रे मह्यं नद्यो न अद्भिन्नदीरिव सीपेः ।
+
+##### Gist of the bhāṣya
+
+O Indra, you were quickly (नु (*nu*)) praised by the earlier seers and are now praised by us. Fill (पीपेः (*pīpeḥ*), "make swell") food for me, the praiser, as rivers are filled with water.
+
+### Printed p. 985
+
+> प्यायय । प्रवृद्धं कुरु । हे इंद्र हरिवो हरिवन् हरिसंज्ञकाश्वोपेतेंद्र
+> ते तुभ्यं नव्यं नवतरं ब्रह्म स्तोत्रमकारि । अस्माभिः क्रियते । रथ्यो रथवंतो
+> वयं धिया प्रज्ञारूपया स्तुत्या सदासास्त्वां सर्वदा भजमानास्त्वदर्थं हवीरूपस्यान्नस्य दातारो ना स्याम । भूयास्मै ॥
+
+##### Gist of the bhāṣya
+
+Make it abound. O Indra, lord of the horses called Hari, a newer hymn (*navyaṃ brahma*) has been made for you by us. We, possessed of chariots, with praise in the form of insight (धिया (*dhiyā*)), ever serving you (सदासाः (*sadāsāḥ*)), may become givers of oblation-food for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—quickly (in eagerness to worship you)
+- स्तुतः (*stutaḥ*)—you who were praised by the seers of former times
+- नु (*nu*)—with the same eager faith
+- गृणानः (*gṛṇānaḥ*)—and praised by us
+- जरित्रे (*jaritre*)—to me, the praiser
+- नद्यो न (*nadyo na*)—as rivers are filled by their flood
+- इषं (*iṣaṃ*)—food
+- पीपेः (*pīpeḥ*)—fill up
+- हरिवः (*harivaḥ*)—O Indra, who have horses called Hari
+- ते (*te*)—addressed to you
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—hymn
+- अकारि (*akāri*)—is made by us
+- रथ्यः (*rathyaḥ*)—we who have a chariot
+- धिया (*dhiyā*)—with our praise in the form of insight
+- सदासाः (*sadāsāḥ*)—offering oblations and the like to you
+- स्याम (*syāma*)—grant that we may be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who were praised by the seers of former times eager to worship you alone, and are praised by us too with the same eager faith, fill up food for me, the praiser, as rivers are filled by their flood. O Indra, possessor of the horses called Hari, we make a new hymn addressed to you. Grant that we, possessors of an excellent chariot, may be, with our praise in the form of insight, offerers of oblations and the like to you.
+
+##### English translation (H. H. Wilson)
+Glorified ( in the past ), glorified, Indra, at present, satisfy your worshipper with food, as rivers (are filled with water): Lord of horses, a new hymn has been made for you : may we, possessed of chariots, be ever diligent in (your) praise.
+
+## Sūkta 18 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं पंथा इति त्रयोदशर्चमष्टमं सूक्तं त्रैष्टुभं । अत्रानुक्रमणिका।
+> अयं पंथाः सप्तोना संवाद इंद्रादितिनामदेवानामिति । यस्य वाक्यं स ऋषि-
+
+##### Gist of the bhāṣya
+
+The hymn अयं पंथा (*ayaṃ paṃthā*) has thirteen Ṛks and is the eighth sūkta, in the Triṣṭubh metre. The Anukramaṇikā says here: अयं पंथाः सप्तोना संवाद इंद्रादितिनामदेवानामिति (*ayaṃ paṃthāḥ saptonā saṃvāda iṃdrāditināmadevānāmiti*), and goes on to say that the seer is the one whose speech it is. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 979. pp. 974-979 (batch API)
+**Progress note:** Done through printed p. 985. pp. 980-985 (batch API)
