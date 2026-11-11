@@ -26321,6 +26321,297 @@ This sūkta beginning "Ūrdhva ū ṣu ṇaḥ" is the sixth sūkta in the first
 - Devatā: Agni
 - Chandas: Triṣṭubh
 
+### Printed p. 826
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्व ऊ॒ षु हो॑ अध्वरस्य होत॒रग्ने॒ तिष्ठ॑ दे॒वता॑ता॒  ॑
+> यजीयान् ।  
+> त्वं हि विश्व॑म॒भ्यसि॒ मन्म॒ प्र वे॒धस॑श्चित्तिरसि मुनी॒षां ॥ १ ॥
+
+> *ūrdhva ū ṣu ho adhvarasya hotaragne tiṣṭha devatātā*  
+> *yajīyān |*  
+> *tvaṃ hi viśvamabhyasi manma pra vedhasaścittirasi munīṣāṃ ‖ 1 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वः । ऊं इति । सु । नः । अध्वरस्य । होतः । अग्ने । तिष्ठ । देवताता । यजीयान् ॥  
+> त्वं । हि । विश्वं । अभि । असि । मन्म । प्र । वेधसः । चित् । तिरसि । मनीषां ॥ १ ॥
+
+> *ūrdhvaḥ | ūṃ iti | su | naḥ | adhvarasya | hotaḥ | agne | tiṣṭha | devatātā | yajīyān ‖*  
+> *tvaṃ | hi | viśvaṃ | abhi | asi | manma | pra | vedhasaḥ | cit | tirasi | manīṣāṃ ‖ 1 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वरस्य होतर्यागसंबंधिनां देवानामाह्वातः । यद्वा । होतरित्यत्र
+> प्रकृत्यंशोऽनुवादः । हे होमनिष्पादकाग्ने यजीयान्यष्टृतमस्तुं नोऽस्माकमूर्ध्व ऊ पु तिष्ठ । उन्नत एव तिष्ठ । नित्यमुन्नतो भवेत्यर्थः । कुत्रेति तदुच्यते । देवताता देवतात् । देवास्तायंते विस्तीर्यंतेऽत्रेति देवतातिर्यज्ञः ।
+> तस्मिन् । त्वं हि त्वं खलु विश्वं सर्वं मन्म मननीयं शत्रूणां धनमभ्यसि । अभिभवसि।
+> किंच वेधसश्चित् । चित्तूजायां । स्तोतुर्यजमानादेर्मनीषां मतिं स्तुतिं प्र
+> तिरसि । प्रवर्धयसि । प्रपूर्वस्ति रतिर्वर्धनार्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Hotṛ of the sacrifice": the summoner of the gods connected with the rite. Or else, in होतः (*hotaḥ*) the stem part is only a restatement. O Agni, accomplisher of the oblation, most excellent worshipper, stand erect for us, stand up high; that is, be ever exalted. Where? देवताता (*devatātā*) means देवताता (*devatātā*), in the sacrifice. The sacrifice is called देवतातिं (*devatātiṃ*) because the gods are spread out, extended, in it. In it you indeed overcome all that is to be thought on (मन्म (*manma*)), the wealth of enemies. Further, you promote the thought (मनीषां (*manīṣāṃ*)), the praise, of the wise (वेधसः (*vedhasaḥ*)) praiser, the sacrificer and others; प्र तिरसि (*pra tirasi*) means "you make it grow", the root तिर (*tira*) with प्र (*pra*) having the sense of increase. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- होतः (*hotaḥ*)—O Hotṛ
+- अग्ने (*agne*)—O Agni
+- यजीयान् (*yajīyān*)—you, the most worshipful
+- नः (*naḥ*)—our
+- ऊर्ध्वः (*ūrdhvaḥ*)—being above
+- ऊ षु तिष्ठ (*ū ṣu tiṣṭha*)—occupy the high place
+- देवताता (*devatātā*)—in this sacrifice that worships the gods
+- त्वं हि (*tvaṃ hi*)—you alone
+- विश्वं (*viśvaṃ*)—all
+- मन्म (*manma*)—and what is to be thought on, the wealth
+- अभि असि (*abhi asi*)—you are able to obtain and give
+- वेधसः चित् (*vedhasaḥ cit*)—even though the sacrificer is wise
+- मनीषां (*manīṣāṃ*)—his praise also
+- प्र तिरसि (*pra tirasi*)—you cause it to grow abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, Hotṛ of the sacrifice, you, the most worshipful, be above us and occupy the high place; in the sacrifice that worships the gods you alone can obtain and give all that is to be thought on, the wealth.
+
+### Printed p. 827
+You can make the praise of the wise sacrificer grow as well.
+
+##### English translation (H. H. Wilson)
+Agni, ministrant of the sacrifice, you are entitled to worship ; be above us in this offering to the gods; for you prevail over all that is desirable ; you inspire the praise of the worshipper.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अमू॑रो॒ होता॒ न्य॑सादि वि॒क्षु१॒॑ग्निर्मं॒द्रो वि॒दथे॑षु॒  ॑
+> प्रचे॑ताः ।  
+> ऊ॒र्ध्वं भा॒नुं स॑वि॒तेवा॑श्रे॒न्मेते॑व धू॒मं स्त॑भाय॒दुप॒  
+> द्यां ॥ २ ॥
+
+> *amūro hotā nyasādi vikṣugnirmaṃdro vidatheṣu*  
+> *pracetāḥ |*  
+> *ūrdhvaṃ bhānuṃ savitevāśrenmeteva dhūmaṃ stabhāyadupa*  
+> *dyāṃ ‖ 2 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमूरः । होता । नि । असादि । विक्षु । अग्निः । मंद्रः । विदथेषु । प्रचेताः ॥  
+> ऊर्ध्वं । भानुं । सविताइव । अश्रेत् । मेताइव । धूमं । स्तुभायत् । उप ।  
+> द्यां ॥ २ ॥
+
+> *amūraḥ | hotā | ni | asādi | vikṣu | agniḥ | maṃdraḥ | vidatheṣu | pracetāḥ ‖*  
+> *ūrdhvaṃ | bhānuṃ | savitāiva | aśret | metāiva | dhūmaṃ | stubhāyat | upa |*  
+> *dyāṃ ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमूरोऽमूढः । प्रगल्भ इत्यर्थः । होता होमनिष्पादको मंद्रो
+> मदनीयो मादयिता वा प्रचेताः प्रकृष्टज्ञानोऽग्निर्देवो विक्षृतिग्रूपासु
+> प्रजासु मध्यॆ विदथेषु यागेषु निमित्तभूतेषु न्यसादि । नितरां स्थापितः । अथ
+> तथाभूतोऽग्निर्भानुं दीप्तिं सवितेवोदितः सूर्य इवोर्र्ध्वमश्रेत् । ऊर्ध्वमुखमाश्रयति । किंच मेतेव स्कूणेव । सा यथा स्वाधिष्ठितं वंशादिकं स्तभ्नाति
+> तद्वयमुग्निर्धूमं स्वोत्थितं द्यामुप द्युलोकस्योपरि स्तभायत् । स्तभ्नाति ॥
+
+##### Gist of the bhāṣya
+
+अमूरः (*amūraḥ*) is "undeluded", that is, bold. Agni, the god, the accomplisher of the oblation (होता (*hotā*)), delightful or delighting (मंद्रः (*maṃdraḥ*)), of excellent knowledge (प्रचेताः (*pracetāḥ*)), has been firmly set down among the people (विक्षु (*vikṣu*), the subjects) at the sacrifices (विदथेषु (*vidatheṣu*)) that are the occasion. Then, being such, Agni, like the risen sun, has raised his radiance (भानुं (*bhānuṃ*)) upward; he betakes himself upward. And like a post (मेता (*metā*)): as a post props bamboo and the like that is set upon it, so Agni props his own risen smoke above heaven, above the world of heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमूरः (*amūraḥ*)—the discerning
+- होता (*hotā*)—the accomplisher of the oblation
+- मंद्रः (*maṃdraḥ*)—the attractive
+- प्रचेताः (*pracetāḥ*)—and the one of excellent knowledge
+- अग्निः (*agniḥ*)—Agni
+- विक्षु (*vikṣu*)—in the midst of us, the priests
+
+### Printed p. 828
+- विदधेषु (*vidadheṣu*)—in the sacrificial house (for the sake of the sacrifice)
+- न्यसादि (*nyasādi*)—has been established
+- भानुं (*bhānuṃ*)—his light
+- सवितेव (*saviteva*)—like the risen sun
+- ऊर्ध्वं (*ūrdhvaṃ*)—upward
+- अश्रेत् (*aśret*)—he has made to spread
+- मेतेव (मेता इव) (*meteva (metā iva)*)—like a pillar
+- धूमं (*dhūmaṃ*)—his mass of smoke
+- द्यां उप (*dyāṃ upa*)—in the upper part of the atmosphere
+- स्तभायत् (*stabhāyat*)—he has made to stand
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the discerning, the accomplisher of the oblation, the attractive, the one of excellent knowledge, has been established among us priests in the sacrificial house for the sake of the sacrifice. Like the risen sun he has made his light spread upward. He has made his mass of smoke stand like a pillar in the upper part of the atmosphere.
+
+##### English translation (H. H. Wilson)
+The unperplexed, the sagacious, exhilarating Agni, the ministrant priest, has been placed amongst men for ( the celebration of ) sacrifices : like the sun, he spreads light above, and props the smoke above the sky like a pillar.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ता सु॑जू॒र्णी रा॒तिनी॑ घृ॒ताची॑ प्रदक्षि॒णिद्दे॒वता॑तिमुरा॒णः।  
+> उदु॒ स्वरु॑र्नव॒जा नाक्रः प॒श्वो अ॑नक्ति॒ सुधि॑तः सु॒मेकः॑ ॥ ३ ॥
+
+> *yatā sujūrṇī rātinī ghṛtācī pradakṣiṇiddevatātimurāṇaḥ|*  
+> *udu svarurnavajā nākraḥ paśvo anakti sudhitaḥ sumekaḥ ‖ 3 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यता । सुजूर्णिः । रातिनी । घृताची । प्रदक्षिणित् । देवतातिं । उराणः ॥  
+> उत् । ऊं इति । स्वरुः । नवजाः । न । अक्रः । पश्वः । अनक्ति । सुधितः । सुमेकः ॥
+
+> *yatā | sujūrṇiḥ | rātinī | ghṛtācī | pradakṣiṇit | devatātiṃ | urāṇaḥ ‖*  
+> *ut | ūṃ iti | svaruḥ | navajāḥ | na | akraḥ | paśvaḥ | anakti | sudhitaḥ | sumekaḥ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यता संयता सुजूर्णिः शोभनजवा सुष्टु जीर्णा पुराणी वा । धृताची
+> धृतमंचतीति धृताची जुहूः । रातिनी । रातिर्धनं । हविर्लक्षणधनवती । आज्यपूर्णा
+> भवतीत्यर्थः । देवतातिं यज्ञं तथोराण उरु कुर्वाणोऽध्वर्युरग्निर्वा प्रद-
+
+##### Gist of the bhāṣya
+
+यता (*yatā*) is "restrained"; सुजूर्णिः (*sujūrṇiḥ*) is "of fine speed", or "well worn", that is, old. धृताची (*dhṛtācī*): she that goes to (carries) ghee, the Juhū ladle. रातिनी (*rātinī*): *rātiḥ* is wealth; possessing the wealth that consists of the oblation, that is, she is full of ghee. The sacrifice (देवतातिं (*devatātiṃ*)) likewise the Adhvaryu, or Agni, making it wide (उराणः (*urāṇaḥ*)), goes round with the right side (प्रदक्षिणित् (*pradakṣiṇit*));
+
+### Printed p. 829
+
+> क्षिणित् । प्रदक्षिणमेतीति प्रदक्षिणित् । प्रदक्षिणगमनो भवति ॥ अकारलोपश्रांदसः॥
+> नवजा नवजातस्तदानीमेवोत्पादितः स्वरुर्न । यूपशकलवाची स्परुरत्र यूपं
+> लक्षयति । चषालवंतः स्वरवः पृथिव्यां । ऋग्वे. ३-८-१० । इत्यादिषु स्वरुशब्देन
+> यूपाभिधानाच्च । नकारः समुच्चये । यूपोऽप्युदु उपसर्गश्रुतेयोग्यक्रियाध्याहारः । उन्नतो भवति । किंच अक्र आक्रमिता । सुमेकः सुदीप्तः सुधितः
+> स्वधितिरित्यर्थः । सोऽपि पश्वः पशूननक्ति । गच्छति । यद्वा । सुधितः स्वरुरेवोदु
+> उत्कृष्टः पश्वः पशूननक्ति । स्वरुणा पशुमनक्तीति श्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+प्रदक्षिणित् (*pradakṣiṇit*) is one who goes keeping the right side toward it; the loss of the vowel a is Vedic. नवजा (*navajā*): newly born, produced just then, like a स्वरुः (*svaruḥ*). The word स्वरु (*svaru*) denotes a splinter of the sacrificial post and here points to the post, since in passages such as "the posts with their knobs on the earth" (Ṛgve. 3-8-10) the post is named by the word स्वरु (*svaru*). The particle न (*na*) is in the sense of conjunction: the post too stands up; the verb is to be supplied from the preposition उदु (*udu*) heard in the text, so that it means "becomes raised". Further, अक्रः (*akraḥ*) is the one that assails. सुमेकः (*sumekaḥ*) is well-shining; सुधितः (*sudhitaḥ*) is the axe (*svadhitiḥ*). It too goes (अनक्ति (*anakti*)) to the animals (पश्वः (*paśvaḥ*)). Or else: the post (स्वरुः (*svaruḥ*)) itself, well placed, is excellent (उदु (*udu*)) and goes to the animals, according to the śruti "with the post he anoints the animal". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यता (*yatā*)—the refined
+- सुजूर्णिः (*sujūrṇiḥ*)—and the very ancient
+- धृताची (*dhṛtācī*)—the Juhū vessel
+- रातिनी (*rātinī*)—is filled with wealth in the form of the oblation
+- देवतातिं (*devatātiṃ*)—the sacrifice that worships the gods
+- उराणः (*urāṇaḥ*)—the Adhvaryus who perform
+- प्रदक्षिणित् (*pradakṣiṇit*)—are offering homage, keeping the right side toward it
+- नवजाः (*navajāḥ*)—newly produced
+- स्वरुः न (*svaruḥ na*)—the sacrificial post also
+- उदु (*udu*)—stands raised
+- अक्रः (*akraḥ*)—the one that assails the animal
+- सुमेकः (*sumekaḥ*)—the shining
+- सुधितः (*sudhitaḥ*)—the weapon that is the instrument of slaughter
+- पश्वः (*paśvaḥ*)—the animals
+- अनक्ति (*anakti*)—is approaching
+
+##### भावार्थ (Bhāvārtha)
+
+The well-refined, very ancient Juhū vessel is filled with wealth in the form of the oblation. The Adhvaryus who perform the sacrifice honoured by the gods offer homage, keeping the right side toward it. The newly produced sacrificial post too stands raised. The weapon that assails the animal, shining, the instrument of slaughter, approaches the animals.
+
+##### English translation (H. H. Wilson)
+The ladle filled (with butter) is prepared : prompt (in act), opulent (with the oblation), the multiplying (priest), conducting (the worship) of the gods, circumambulates (the fire): the newly-trimmed post is set up, the impending shining axe falls upon the victims
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्त्॒रीणे ब॒र्हिषि॑ समिधा॒ने अ॒ग्ना ऊ॒र्ध्वो अ॑ध्व॒युर्जु॑जुषा॒णो अ॑स्थात् ।
+
+> *strīṇe barhiṣi samidhāne agnā ūrdhvo adhvayurjujuṣāṇo asthāt |*
+
+### Printed p. 830
+
+> पर्यग्निः पशुपा न होता तिविष्ट्येत्रिप्रदिव उराणः ॥ ४ ॥
+
+> *paryagniḥ paśupā na hotā tiviṣṭyetripradiva urāṇaḥ ‖ 4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्त्रीणे । बर्हिषि । संइधाने । अग्नौ । ऊर्ध्वः । अध्वर्युः । जुजुषाणः । अस्थात् ।  
+> परि । अग्निः । पशुपाः । न । होता । त्रिविष्टि । एति । प्रदिवः । उराणः ॥ ४ ॥
+
+> *strīṇe | barhiṣi | saṃidhāne | agnau | ūrdhvaḥ | adhvaryuḥ | jujuṣāṇaḥ | asthāt |*  
+> *pari | agniḥ | paśupāḥ | na | hotā | triviṣṭi | eti | pradivaḥ | urāṇaḥ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बर्हिषि वेद्यां स्तिर्ण आस्तृते सत्यग्नावाहवनीयादिके समिधाने सम्यगिध्यमाने च सत्यध्वर्युरध्वरस्य नेता जुजुषाणो देवान्प्रीणयन्नोध्वोऽस्थात् ।
+> तिष्ठति । होता होमनिष्पादकः प्रदिवः । पुराणनामैतत् । पुरातन उराणः स्वल्पमपि हविर्देवयोग्यत्वसंपादनेनोरु कुर्वाणः । उराण उरु कुर्वाण इति
+> निरुक्तं । यद्वै देवैर्जोष्यते हविस्तद्दिरिमात्रं वर्धत इति श्रुतेरग्नेरुरुकरणमुचितं । ईदृशोग्निः पशुपा न पशूनां पालक इव पशून् त्रिविष्टि त्रिरावृत्य
+> पर्यॆति त्रिर्हि पर्याग्निः क्रियते ॥
+
+##### Gist of the bhāṣya
+
+When the barhis is strewn (स्तीर्णे (*stīrṇe*)) on the vedi, and the fires, the Āhavanīya and the others, are well kindled, the Adhvaryu, the leader of the sacrifice, pleasing the gods (जुजुषाणः (*jujuṣāṇaḥ*)), stands up erect (अस्थात् (*asthāt*)). The Hotṛ, the accomplisher of the oblation, is प्रदिवः (*pradivaḥ*) (a name meaning "ancient"), the ancient one; उराणः (*urāṇaḥ*) is one who makes even a little oblation wide by making it fit for the gods. "उराण (*urāṇa*) is making wide", says the Nirukta. According to the śruti "whatever oblation is enjoyed by the gods, that grows though only a trifle", this making wide is proper to Agni. Such an Agni goes round the animals thrice (त्रिविष्टि (*triviṣṭi*)), repeating three times, like a herdsman (पशुपा न (*paśupā na*)), for the fire is carried round three times.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बर्हिषि (*barhiṣi*)—the seats of darbha grass
+- स्तीर्णे (*stīrṇe*)—being spread
+- अग्नौ (*agnau*)—when Agni in the form of the Āhavanīya
+- समिधाने (*samidhāne*)—is kindled
+- अध्वर्युः (*adhvaryuḥ*)—the leader of the sacrifice
+- जुजुषाणः (*jujuṣāṇaḥ*)—the one who satisfies the gods, the Adhvaryu (or Agni)
+- ऊर्ध्वः (*ūrdhvaḥ*)—upward-facing
+- अस्थात् (*asthāt*)—rises and stands
+- होता (*hotā*)—the accomplisher of the oblation
+- प्रदिवः (*pradivaḥ*)—the ancient
+- उराणः (*urāṇaḥ*)—the promoter of the growth of the sacrifice
+- अग्निः (*agniḥ*)—Agni
+- पशुपा न (*paśupā na*)—like a keeper of animals
+- त्रिविष्टि (*triviṣṭi*)—three times
+- परि एति (*pari eti*)—goes round
+
+##### भावार्थ (Bhāvārtha)
+
+When the seats of darbha grass are spread on the sacrificial altar and Agni in the form of the Āhavanīya is kindled, the Adhvaryu, the leader of the sacrifice, who satisfies the gods, rises and stands upward-facing. Agni, the accomplisher of the oblation, the ancient, the promoter of the growth of the sacrifice, goes round three times like a keeper of animals.
+
+### Printed p. 831
+
+##### English translation (H. H. Wilson)
+When the sacred grass is strewn and the fire is kindled, the Adhwaryu rises, propitiating (the gods), and Agni, the offerer of the oblation, ancient and multiplying (the offering), thrice circumambulates (the victim) like a keeper of cattle.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ त्मना॑ मि॒तद्रु॑रेति॒ होता॒ग्निर्मं॒द्रो मधु॑वचा ऋ॒ताना॑।  
+> द्रवं॑त्यस्य वा॒जिनो॒ न शोका॒ भयं॑ते॒ विश्वा॒ भुव॑ना॒  ॑
+> यदभ्राट् ॥ ५ ॥
+
+> *pari tmanā mitadrureti hotāgnirmaṃdro madhuvacā ṛtānā|*  
+> *dravaṃtyasya vājino na śokā bhayaṃte viśvā bhuvanā*  
+> *yadabhrāṭ ‖ 5 ‖*
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । त्मना । मितद्रुः । एति । होता । अग्निः । मंद्रः । मधुवचाः । ऋतवा ।  
+> द्रवंति । अस्य । वाजिनः । न । शोकाः । भयंते । विश्वा । भुवना । यत् । अभ्राट् ॥
+
+> *pari | tmanā | mitadruḥ | eti | hotā | agniḥ | maṃdraḥ | madhuvacāḥ | ṛtavā |*  
+> *dravaṃti | asya | vājinaḥ | na | śokāḥ | bhayaṃte | viśvā | bhuvanā | yat | abhrāṭ ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तमेवार्थं स्पष्टयति । अयं होता होमनिष्पादकोऽग्निस्त्मनात्मना
+> स्वरूपेणैव मितद्रुः परिमितगतिः सन् पर्यॆति । परितो गच्छति पशुं । कीदृशोऽयं । मुंद्रो मादनीयो मोदयिता वा मधुवचा मधुरवचन ऋतावा
+> यज्ञवान् । वाजिनो हविष्कृतोऽस्याग्नेः शोका न दीप्तयोऽपि । नशब्दोऽप्यर्थे ।
+> द्रवंति । गच्छंति परितः । यद्वा । नकार उपमार्थीयः । वाजिनो न अश्वा इव
+> द्रवंतीति योज्यं । यद्यस्मादयमभ्राट् । भ्राजते । तस्माद्विश्वा भुवना सर्वाणि
+> भूतजातानि भयंते । भीतानि भवंति ॥
+
+##### Gist of the bhāṣya
+
+He makes clear the sense already stated. This Hotṛ, Agni the accomplisher of the oblation, goes round (पर्यॆति (*paryèti*)) the animal on every side by himself (त्मना (*tmanā*)), in his own form, moving at a measured pace (मितद्रुः (*mitadruḥ*)). What is he like? मंद्रः (*maṃdraḥ*): delightful or gladdening; मधुवचाः (*madhuvacāḥ*): of sweet speech; ऋतावा (*ṛtāvā*): possessed of the sacrifice. The flames (शोकाः (*śokāḥ*)), the lights, of this Agni, who are bearers of the oblation (वाजिनः (*vājinaḥ*)), also run (द्रवंति (*dravaṃti*)), go, all around; the word न (*na*) has the sense of "also". Or else the न (*na*) is one of comparison, and it is to be construed "they run like horses (वाजिनो न (*vājino na*))". Because (यत् (*yat*)) he shines (अभ्राट् (*abhrāṭ*)), therefore all beings (विश्वा भुवना (*viśvā bhuvanā*)) fear (भयंते (*bhayaṃte*)), are afraid.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—the accomplisher of the oblation
+- मंद्रः (*maṃdraḥ*)—the causer of joy
+- मधुवचाः (*madhuvacāḥ*)—the one of sweet speech
+- ऋताना (*ṛtānā*)—and the possessor of the sacrifice
+- अग्निः (*agniḥ*)—Agni
+- त्मना (*tmanā*)—by his own free will [the Kannada text breaks off here]
+
 ---
 
-**Progress note:** Done through printed p. 825. pp. 819-825 (batch API)
+**Progress note:** Done through printed p. 831. pp. 826-831 (batch API)
