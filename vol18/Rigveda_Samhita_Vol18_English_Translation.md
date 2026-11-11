@@ -24633,6 +24633,176 @@ Whatever the meaning of the word Śunāsīra, the Śunāsīrīya oblation is ver
 अथ यस्माच्छुनासीरैण यजेत । या वै देवानाग्ं श्रीरासीत्साकमेधैरीजानानां विजिग्यानानां तच्चुनमथ यः संवत्सरस्य प्रजितस्य रस आसीत्तत्सीरग्ं सा या चैव देवानाग्ं श्रीरासीत्साकमेधैरीजानानां विजिग्यानानां य उ च संवत्सरस्य प्रजितस्य रस आसीत्तमेवैतदुभयं परिगृह्यात्मन्नुरुते तस्माच्छुनासीरैण यजते ॥ (*atha yasmācchunāsīraiṇa yajeta | yā vai devānāgṃ śrīrāsītsākamedhairījānānāṃ vijigyānānāṃ taccunamatha yaḥ saṃvatsarasya prajitasya rasa āsīttatsīragṃ sā yā caiva devānāgṃ śrīrāsītsākamedhairījānānāṃ vijigyānānāṃ ya u ca saṃvatsarasya prajitasya rasa āsīttamevaitadubhayaṃ parigṛhyātmannurute tasmācchunāsīraiṇa yajate ‖*)
 (Śa. Brā. 2-6-3-2)
 
+### Printed p. 635
+The Śunāsīrīya is a part of the Cāturmāsya. After praising the one who performs this Cāturmāsya sacrifice, saying that he attains fullness and so on, the explanation and praise of its part, the Śunāsīrīya, follow.
+
+If one asks what the cause of this Śunāsīrīya oblation is and what its necessity is, the answer is this explanation of the Śunāsīrīya. By performing the Sākamedha sacrifice the gods obtained a certain prosperity and a certain glory of victory. That prosperity and victory is this *śuna*. The yearly fullness that comes from the sacrifice made up of the Cāturmāsya, the fullness mentioned above, has an essence, and that essence is *sīra*. The yajamāna who performs this rite, the Śunāsīrīya, obtains the prosperity that the gods obtained and the yearly fullness that they attained. That is the necessity of the Śunāsīrīya.
+
+The order of this rite is as follows:—
+
+तस्यावृत् । नोपकिरंत्युत्तरवेदिं न गृह्णंति पृषदाज्यं न मंथंत्यग्निं पंच प्रयाजा भवंति त्रयोऽनुयाजा एकग्ं समिष्टयजुः ॥ (*tasyāvṛt | nopakiraṃtyuttaravediṃ na gṛhṇaṃti pṛṣadājyaṃ na maṃthaṃtyagniṃ paṃca prayājā bhavaṃti trayo 'nuyājā ekagṃ samiṣṭayajuḥ ‖*) (Śa. Brā. 2-6-3-3)
+
+The order of its performance is somewhat altered. In it there is no preparation of the uttaravedi, no need for the pṛṣadājya, and no kindling of fire by churning. Five prayājas, three anuyājas and one samiṣṭayajus are prescribed.
+
+अथैतान्येव पंच हवीग्ंषि भवंति । एतैर्वै हविर्भिः प्रजापतिः प्रजा असृजतैतैरुभयतो वरुणपाशात्प्रजाः प्रामुंचदेतैर्वै देवा वृत्रमघ्नन्नेतैर्नव व्यजयंत येयमेषां विजितिस्तां तथो एवैष एतैर्या चैव देवानाग्ं श्रीरासीत्साकमेधैरीजानानां विजिग्यानानां य उ च संवत्सरस्य प्रजितस्य रस आसीत्तमेवृतदुभयं परिगृह्यात्मन् कुरुते तस्माद्वा एतानि पंच हवीग्ंषि भवति ॥ (*athaitānyeva paṃca havīgṃṣi bhavaṃti | etairvai havirbhiḥ prajāpatiḥ prajā asṛjataitairubhayato varuṇapāśātprajāḥ prāmuṃcadetairvai devā vṛtramaghnannetairnava vyajayaṃta yeyameṣāṃ vijitistāṃ tatho evaiṣa etairyā caiva devānāgṃ śrīrāsītsākamedhairījānānāṃ vijigyānānāṃ ya u ca saṃvatsarasya prajitasya rasa āsīttamevṛtadubhayaṃ parigṛhyātman kurute tasmādvā etāni paṃca havīgṃṣi bhavati ‖*) (2-6-3-4)
+
+In connection with the Śunāsīrīya there are the five oblations mentioned above. By the power of these very oblations Prajāpati created all creatures. With their help he released all the creatures that were bound on both sides by Varuṇa's noose. With their help the gods also fought Vṛtra, won the victory and obtained wealth. Therefore the yajamāna who wishes to obtain that same victory and the same wealth that the gods obtained through the Sākamedha obtains all of it with the help of these oblations. For that reason the five oblations must be offered according to rule.
+
+### Printed p. 636
+अथ शुनासीर्यो द्वादशकपालः पुरोडाशो भवति । स बंधुः शुनासीरस्य यं पूर्वमवोचाम ॥ (*atha śunāsīryo dvādaśakapālaḥ puroḍāśo bhavati | sa baṃdhuḥ śunāsīrasya yaṃ pūrvamavocāma ‖*) (Śa. Brā. 2-6-3-5)
+
+Next comes the offering of the Śunāsīrīya puroḍāśa on twelve potsherds. The fruit of offering this puroḍāśa is as explained above.
+
+अथ वायव्यं पयो भवति । पयो ह वै प्रजा जाता अभिसंजानते विजिग्यानं मा प्रजाः श्रियै यशसेऽन्नाद्यायाभिसंजानांता इति तस्मात्पयो भवति ॥ (*atha vāyavyaṃ payo bhavati | payo ha vai prajā jātā abhisaṃjānate vijigyānaṃ mā prajāḥ śriyai yaśase 'nnādyāyābhisaṃjānāṃtā iti tasmātpayo bhavati ‖*) (Śa. Brā. 2-6-3-6)
+
+Next, milk is to be offered to Vāyu. As soon as creatures are born, milk is their food. The yajamāna who makes this offering offers the milk with faith, thinking: "Since I have won victory and prosperity by offering these oblations, may all creatures be affectionate to me and follow me alone."
+
+अथ सौर‍्य एककपालः पुरोडाशो भवति । (*atha saurya ekakapālaḥ puroḍāśo bhavati |*) (Śa. Brā. 2-6-3-8) **NOTE**
+
+Next comes the offering of the puroḍāśa on a single potsherd, addressed to Sūrya. The Sūrya who shines in the atmosphere is the lord of the world. At one time through a good king and at another through a bad king, that same Sūrya protects this world. He assigns to all beings places suited to their worth. The one who offers this oblation prays: "By the grace of this Sūrya may all victory and prosperity be mine." For that reason the offering of this puroḍāśa is prescribed.
+
+स यत्रैव साकमेधैर्यजते । तच्चुनासीर्येण यजेत । यद्वै त्रिः संवत्सरस्य यजते तेनैव संवत्सरमाप्नोति तस्माद्यदैव कदा चैतेन यजेत ॥ (*sa yatraiva sākamedhairyajate | taccunāsīryeṇa yajeta | yadvai triḥ saṃvatsarasya yajate tenaiva saṃvatsaramāpnoti tasmādyadaiva kadā caitena yajeta ‖*) (Śa. Brā. 2-6-3-10)
+
+### Printed p. 637
+At the very time when the oblation of the Sākamedha is offered, the Śunāsīrīya oblation too may be offered. Because by offering the sacrifice of the seasons three times in the year one attains fullness like that of the year, the Śunāsīrīya may be offered at any time.
+
+Having described its power in this way and in similar terms, the text next explains this rite further on.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुना॑सीरावि॒मां वाचं॑ जुषेथां॒ यद्दि॒वि च॒क्रथुः॒ पयः॑ ।  
+> तेने॒मामुप॑ सिंचतं ॥ ५ ॥
+
+> *śunāsīrāvimāṃ vācaṃ juṣethāṃ yaddivi cakrathuḥ payaḥ |*  
+> *tenemāmupa siṃcataṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनासीरौ । इमां । वाचं । जुषेथां । यत् । दिवि । चक्रथुः । पयः ।  
+> तेन । इमां । उप । सिंचतं ५ ॥
+
+> *śunāsīrau | imāṃ | vācaṃ | juṣethāṃ | yat | divi | cakrathuḥ | payaḥ |*  
+> *tena | imāṃ | upa | siṃcataṃ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुनासीरीये पर्वणि शुनासीरदेवताकस्य हविषोऽनुवाक्यैषांत्या यक्
+> याज्या । सूत्रितं च । शुनासीराविमां वाचं जुषेथां शुनं नः फालाः ।
+> आ २-२० । इति ॥
+> द्युदेवः शुनदेवतेति शौनकः । अतः शुन इंद्रः सीरो वायुः । शुनो
+> वायुः शु एत्यंतरिक्षे सीर आदित्यः सरणात् । नि. ९-४० । इति यास्कः । हे शुनासीरा
+> तौ युवामिमां वक्ष्यमाणां मदीयां वाचं जुषेथां । यत्पयो दिवि चक्रथुः
+> तेनेमां भूमिमुप सिंचतं ॥
+
+##### Gist of the bhāṣya
+
+In the Śunāsīrīya parvan, this verse is the anuvākyā for the oblation whose deities are Śunāsīra; the last verse is the yājyā. **NOTE** It is also stated in the sūtra: शुनासीराविमां वाचं जुषेथां शुनं नः फालाः (*śunāsīrāvimāṃ vācaṃ juṣethāṃ śunaṃ naḥ phālāḥ*) (Ā. 2-20). Śaunaka says: द्युदेवः शुनदेवतेति (*dyudevaḥ śunadevateti*). Hence Śuna is Indra and Sīra is Vāyu. Yāska says: Śuna is Vāyu, because he goes (*eti*) in the atmosphere; Sīra is Āditya, from moving (*saraṇāt*) (Ni. 9-40). "O Śunāsīras, may you two accept this speech of mine that is about to be uttered. With the water that you made in heaven, sprinkle this earth."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुनासीरौ (*śunāsīrau*)—O Śunāsīra deities
+- इमां (*imāṃ*)—this, which I now recite
+- वाचं (*vācaṃ*)—the speech in the form of praise
+- जुषेथां (*juṣethāṃ*)—accept
+- दिवि (*divi*)—in the heavenly world
+- यत् पयः (*yat payaḥ*)—the water which
+- चक्रथुः (*cakrathuḥ*)—you made
+- तेन (*tena*)—with that very (water)
+- इमां (*imāṃ*)—this earth
+- उप सिंचतं (*upa siṃcataṃ*)—make wet
+
+##### भावार्थ (Bhāvārtha)
+
+O Śunāsīra deities, accept this speech in the form of praise that I now recite. With the water that you made in the heavenly world, make this earth wet as well.
+
+### Printed p. 638
+
+##### English translation (H. H. Wilson)
+Suna and Sira be pleased by this our praise, and consequently sprinkle this (earth) with the water which you have created in heaven.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वाची॑ सुभगे भव॒ सीते॒ वंदा॑महे त्वा ।  
+> यथा॑ नः सु॒भगास॑सि॒ यथा॑ नः सु॒फलास॑सि ॥ ६ ॥
+
+> *arvācī subhage bhava sīte vaṃdāmahe tvā |*  
+> *yathā naḥ subhagāsasi yathā naḥ suphalāsasi ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वाची । सुभगे । भव । सीते । वंदामहे । त्वा ।  
+> यथा । नः । सुभगा । आससि । यथा । नः । सुफला । आससि ॥ ६ ॥
+
+> *arvācī | subhage | bhava | sīte | vaṃdāmahe | tvā |*  
+> *yathā | naḥ | subhagā | āsasi | yathā | naḥ | suphalā | āsasi ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुभगे सीते त्वमर्वाच्यर्वागंचना भव । त्वा त्वां वंदामहे ।
+> स्तुवीमहि । यथा नः सुभगाससि । शोभनधना भवसि । यथा नः सुफलाससि तथा
+> वंदामहे ॥
+
+##### Gist of the bhāṣya
+
+"O fortunate Sītā, be *arvācī*", that is, turned towards us (*arvāg añcanā*). "We praise you, so that you may be of good fortune to us", that is, possessed of fair wealth. "As you yield us good fruit, so we praise you."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुभगे (*subhage*)—auspicious one
+- सीते (*sīte*)—O Sītā
+- अर्वाची (*arvācī*)—turned towards us
+- भव (*bhava*)—be
+- यथा (*yathā*)—in what manner
+- नः (*naḥ*)—in our regard
+- सुभगाससि (*subhagāsasi*)—you become possessed of fair wealth
+- यथा (*yathā*)—in what manner
+- नः (*naḥ*)—to us
+- सुफलाससि (*suphalāsasi*)—you become possessed of excellent fruits (in that manner)
+- त्वा (*tvā*)—you
+- वंदामहे (*vaṃdāmahe*)—we worship
+
+##### भावार्थ (Bhāvārtha)
+
+O auspicious Sītā, be turned towards us. In whatever way you become the giver of fair wealth to us, in whatever way you become the giver of excellent fruit to us, in that very way we worship you.
+
+##### English translation (H. H. Wilson)
+Auspicious Sita, be present, we glorify you : that you may be propitious to us, that you may yield us abundant fruit.
+
+### Printed p. 639
+
+##### विशेषविषयगळु (Special Topics)
+
+Sītā: Sītā is the deity of Ṛks 6, 7 and 8 of this sūkta. If the words Śunāsīra are rightly taken to mean plough and ploughshare, the word Sītā can be taken to mean the furrow made by the plough (सीता लांगलपद्धतिः (*sītā lāṃgalapaddhatiḥ*)).
+
+The word Sītā is not explained in the Nighaṇṭu or in the Nirukta. The author of the Bṛhaddevatā designates Sītā as a separate special deity and states that she is one of the female deities belonging to the world of Indra.
+
+पृथिव्यनुमतिर्धेनुः सीता लाक्षा तथैव गौः । गौरी च रोदसी चैव इंद्राण्याश्चैष वै पतिः ॥ (*pṛthivyanumatirdhenuḥ sītā lākṣā tathaiva gauḥ | gaurī ca rodasī caiva iṃdrāṇyāścaiṣa vai patiḥ ‖*) (Bṛ. Se. 1-129) **NOTE**
+
+Pṛthivī, Anumati, Dhenu, Sītā, Lākṣā, Gau, Gaurī and Rodasī are all deities belonging to the world of Indra. At Ṛk 4-57-6 Sāyaṇa explains the word *sīte* as "O goddess"; then for the word *sītām* in the second mantra he explains it as the wood of the plough (सीतागारकाष्ठं (*sītāgārakāṣṭhaṃ*)). **NOTE**. In the present context she may be called a special deity; that is, she is a deity connected with agriculture. In the Taittirīya Saṃhitā this deity is addressed and praised in this very sense.
+
+In this sūkta are described the praises of deities such as Kṣetrapati, presiding deities over agriculture and the wealth that is its fruit, and the prayers made to them. From Kṣetrapati, the lord of all fields, wealth such as cattle and horses is asked. The honey that pervades earth, atmosphere and the plants is prayed for. Elsewhere (7-35-10) she is also praised together with deities such as Savitṛ, Uṣas and Parjanya. The wish is expressed that the yajamānas desire to have this deity always near them. The full nature of this deity is fully explained in the Gṛhyasūtras and similar works (Ā. Gṛ. Sū. 2-10-4; Jo. Gṛ. Sū. 2-10 **NOTE**). They state precisely the oblations and so on that are to be offered to this deity when the land is made ready for cultivation and seeds and the like are planted.
+
+In the same way Sītā is praised and the same kind of fruit is prayed for. The nature of this deity is described in detail in the Pāraskara Gṛhyasūtra. On the basis of Indra being addressed as *urvarāpate* in Ṛ. Saṃ. 8-21-3, the Gṛhyasūtras too designate Sītā as Indra's wife. The Gobhila Gṛhyasūtra describes four special manifestations of this goddess (4-4-27). Sītā, Āśā, Araḍā and Anaghā are these four forms. The times of worship of these deities
+
+### Printed p. 640
+are also connected with four sacrificial times. For the rites that take place when the earth is ploughed, when the seed is sown, when the crop is reaped and when it is stored in the granary, these four are the deities to be worshipped at the respective times. In another sūtra (Pāraskara Gṛhyasūtra 2-17-13), besides these, the names of the deities Yajā, Śamā and Bhūti are also recorded. All of these are described with many epithets. Among these names Sītā is the most radiant and inspiring deity. This Sītā is also designated as Sāvitrī in the Taittirīya Brāhmaṇa. Perhaps the greatness of this special deity is praised in the form of the famous and holy goddess Sītā in the Rāmāyaṇa as well.
+
+The story context stated about Sītā in the Taittirīya Brāhmaṇa—
+
+प्रजापतिस्सोमग्ं राजानमसृजत । तं त्रयो वेदा अन्वसृज्यंत । तान् हस्तेऽकुरुत । अथ ह सीता सावित्रि । सोमग्ं राजानं चकमे । श्रद्धामु स चकमे । सा ह पितरं प्रजापतिमुपससार । तगंहोवाच । नमस्ते अस्तु भगवः । उप त्वायानि ॥ (*prajāpatissomagṃ rājānamasṛjata | taṃ trayo vedā anvasṛjyaṃta | tān haste 'kuruta | atha ha sītā sāvitri | somagṃ rājānaṃ cakame | śraddhāmu sa cakame | sā ha pitaraṃ prajāpatimupasasāra | tagaṃhovāca | namaste astu bhagavaḥ | upa tvāyāni ‖*) (Tai. Brā. 2-3-10-1)
+
+Prajāpati created King Soma. Afterwards the three Vedas became manifest. He took them in his hand. Then Sītā, the daughter of Savitṛ, desired to obtain Soma. But Soma desired Śraddhā. Then she approached her father, bowed to him, and lamented, saying that since she could not obtain the husband she desired, she would stay near her father.
+
+प्र त्वा पद्ये । सोमं वै राजानं कामये । श्रद्धामु स कामयत इति । तस्या उ ह स्थागरमलंकारं कल्पयित्वा ।................पत्निभिश्च मुखेऽलंकृत्य ॥ (*pra tvā padye | somaṃ vai rājānaṃ kāmaye | śraddhāmu sa kāmayata iti | tasyā u ha sthāgaramalaṃkāraṃ kalpayitvā |................patnibhiśca mukhe 'laṃkṛtya ‖*) (Tai. Brā. 2-3-10-2)
+
+When she said, "I desired to choose Soma. But he desires Śraddhā. He has rejected me," Prajāpati made all the adornments for her and sent her back to Soma. At that time,
+
+आस्यार्धं वव्राज । ताग्ंहोदीक्ष्योवाच । उप मावर्तस्वेति । तग्ंहोवाच । भोगं तु म आ चक्ष्व । एतन्म आचक्ष्व । यत्ते पाणाविति । तस्या उ ह त्रीन्‌वेदान्द्रददौ । तस्मादु ह स्त्रियो भोगमैव हारयंते ॥ (*āsyārdhaṃ vavrāja | tāgṃhodīkṣyovāca | upa māvartasveti | tagṃhovāca | bhogaṃ tu ma ā cakṣva | etanma ācakṣva | yatte pāṇāviti | tasyā u ha trīnvedāndradadau | tasmādu ha striyo bhogamaiva hārayaṃte ‖*) (Tai. Brā. 2-3-10-3)
+
 ---
 
-**Progress note:** Done through printed p. 634. pp. 629-634 (batch API)
+**Progress note:** Done through printed p. 640. pp. 635-640 (batch API)
