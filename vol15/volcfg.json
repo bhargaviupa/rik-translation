@@ -29,5 +29,6 @@
   "en": "vol15/Rigveda_Samhita_Vol15_English_Translation.md"
  },
  "work": "vol15/work",
- "window": 3
+ "window": 3,
+ "iast_blocks": "build"
 }

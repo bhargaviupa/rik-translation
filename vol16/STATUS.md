@@ -45,6 +45,9 @@ Translated through printed p. 884 (FINAL: Sūkta 39 end, adhyāya colophon, clos
 10. Done Nov 9 2026 (`tools/rv/repair_inline.py 16 --write`, logged in `review/repair_log.md`): the few leftover multi-line `⟦ … ⟧` quotations of the English file converted to Devanagari + (IAST). The other lines with Kannada script in the English file are editorial notes quoting the supplied (garbled) readings, as intended. Run the tool again at the end of the volume.
 18. Sūkta 36 Ṛk 1 Pratipadārtha (printed p. 830/831): the Kannada gloss of the verb in the sense "disregarding" was rendered "wishing for companionship" following the printed English; please check this sense against the print.
 
+## IAST layer
+Not stored in the English file (user decision, Nov 11 2026): the print build adds it for Saṃhitā and Pada blocks (`volcfg.json` `"iast_blocks": "build"`); stored runs were removed with `tools/rv/strip_iast.py` and logged in `review/repair_log.md`; bhāṣya blocks never get it.
+
 ## Publication (print PDF)
 Not built.
 

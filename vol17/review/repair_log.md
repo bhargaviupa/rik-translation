@@ -8,3 +8,5 @@
 - Ṛk headings, by hand after `rkheads`: six written as `## Ṛk N` (3.62.11–12, 4.16.2–5) set to `#### Ṛk N` (the script now does this); 3.57: `#### Ṛk 1` stood before the sūkta's introductory bhāṣya, moved to the verse; p. 995 (4.18): the heading over the continuation of Ṛk 4 read `Ṛk 5`, now `Ṛk 4 (continued)`. No other text changed.
 - one heading `## Special Topics (continued)` (chapter level by mistake) set as `**Special Topics** *(continued)*`, like the other continuation lines.
 - 2026-11-11: tools/rv/kn_headings.py: 41 Sūkta and 441 Ṛk headings (and Maṇḍala headings) added to the Kannada file from the structure of the English file (no other text changed) [WARN: Kannada line 29533 reads Sūkta 2 (as supplied); the English file has Sūkta 7 (Maṇḍala 4) at this position: heading follows the English order]. Sūkta headings stand before the printed "ಮಂಡಲ—M ॥ ಅನುವಾಕ ॥ ಸೂಕ್ತ—N" line; a Pīṭhike printed above that line belongs to the sūkta that follows.
+
+- 2026-11-11: `tools/rv/strip_iast.py 17`: stored IAST runs under Saṃhitā/Pada blocks removed (the print build regenerates them; each removed run equals the regeneration, 0 differing). Only deleted lines.

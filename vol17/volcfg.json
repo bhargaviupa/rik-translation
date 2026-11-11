@@ -28,5 +28,6 @@
  ],
  "grammar": "sanskrit",
  "printed_english_label": "English translation (H. H. Wilson)",
- "layout": "subheads"
+ "layout": "subheads",
+ "iast_blocks": "build"
 }

@@ -112,3 +112,5 @@
 - 2026-11-10 QA2 p. 414: वृक्षो व्रश्चनात्… -> वृक्षं—वृक्षो व्रश्चनात्… (headword omitted)
 - 2026-11-10 QA2 p. 414: one and the same tree -> + as-supplied note (garbled ಒ ವೇ silently read)
 - 2026-11-10 QA2 p. 422: …so as to favour the fall of rain -> again [ಪುನ.] added ("ಪುನ." left out)
+
+- 2026-11-11: `tools/rv/strip_iast.py 12`: stored IAST runs under Saṃhitā/Pada blocks removed (the print build regenerates them; each removed run equals the regeneration, 0 differing). Only deleted lines.

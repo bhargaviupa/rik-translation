@@ -230,7 +230,8 @@ def cmd_build(a):
     wr(os.path.join(w,'markers_fuzzy.tsv'),''.join(f'{a_}\t{b_}\n' for a_,b_ in convert.FUZZY))      # quotation markers resolved approximately (for a spot check)
     if prob: print('PROBLEMS:'); print('\n'.join(' - '+p for p in prob)); sys.exit(1)
     p=os.path.join(w,'en_final.md'); wr(p,text)
-    r=sh(f'python3 publish/tools/translit/add_iast.py "{p}"'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
+    ib='--inline-only' if cfg.d.get('iast_blocks','build')=='build' else ''      # block IAST is made at print time (volbook.py), not stored (user, Nov 11 2026); volcfg "iast_blocks": "stored" keeps the old behaviour
+    r=sh(f'python3 publish/tools/translit/add_iast.py "{p}" {ib}'); print('add_iast:',(r.stdout+r.stderr).strip()[-200:])
     t=labels.normalise(rd(p)).replace(convert.NOIAST,'> ')
     if cfg.d.get('layout')=='subheads': t,_=rk_headings(subheads(t))
     lab=cfg.d.get('printed_english_label')                 # the heading of the English printed in the edition (volcfg), e.g. 'English translation (H. H. Wilson)'

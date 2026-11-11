@@ -29,3 +29,7 @@ pp. 2–196: old flow (63 windows of 3 pages, standing agent, tokens not recorde
 - Script weaknesses met (candidates for `html_to_kn.py`): Pratipadārtha/Bhāvārtha swallowed by the bhāṣya block when the label is unreadable ("ಭಾಷಾ", "ಬಸವೇಶ್ವರ"); a Saṃhitā label inserted after a quoted verse; sūkta introductions not blocked; running heads inside long pages (pp. 254, 407, 421–422, 441, 583, 665, 673, 703–704 were marked by hand); `[figure: …]` lines that only repeat a verse (about 15, each looked at and removed).
 
 1. Dispatcher session: translate pp. 197–727 (~165 more windows). Pending repairs and decisions are in `review/repair_log.md` (w0002 invented "Sense" paragraph; w0093 letter change; w0113 avagraha from picture marks). Reference abbreviations to confirm with the user: ಕೃ. ಸಂ., ಖ. ಸಂ., ಜ. ಸಂ., ಭಾ. ಉ., ಕರ., ಬೃ. ವೇ./ಪೇ., ಛಾ. ಉ., ಇ. ಬ್ರ. (see `review/page_flags.md`). The accent_report.tsv is rewritten per window; regenerate with the accent pass at the end. Recurring hand-fixes still manual: garbled Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha labels, Pratipadārtha inside the bhāṣya block, hyphen joins, merged page heads. 2. User: printed p. 1 (title page) if wanted; settle `[?]` readings. 3. After the volume: CLAUDE.md §11 checklist.
+
+## IAST layer
+Not stored in the English file (user decision, Nov 11 2026): the print build adds it for Saṃhitā and Pada blocks (`volcfg.json` `"iast_blocks": "build"`); stored runs were removed with `tools/rv/strip_iast.py` and logged in `review/repair_log.md`; bhāṣya blocks never get it.
+

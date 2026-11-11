@@ -43,7 +43,7 @@ def main():
     en, fixed = api_batch.autofix_inline(w, m.group(1).strip() + '\n', kn); open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(en)
     en2, notes = batch.split_notes(en); json.dump(notes, open(os.path.join(w, 'notes.json'), 'w', encoding='utf8'), ensure_ascii=False, indent=1)
     t, prob = convert.expand(en2, kn); fp = os.path.join(w, 'en_final.md'); open(fp, 'w', encoding='utf8').write(t)
-    subprocess.run(['python3', 'publish/tools/translit/add_iast.py', fp], cwd=ROOT, check=True); t = open(fp, encoding='utf8').read()
+    subprocess.run(['python3', 'publish/tools/translit/add_iast.py', fp] + (['--inline-only'] if cfg.d.get('iast_blocks', 'build') == 'build' else []), cwd=ROOT, check=True); t = open(fp, encoding='utf8').read()
     bad = check_inline.mismatches(w); kk = re.findall('[ಀ-೿]+', t)
     prob += [f'inline segment not in kn.md: {x[:50]}' for x in bad] + ([f'{len(kk)} Kannada-script words left, e.g. {kk[0]}'] if kk else [])
     if re.search(r'\[\?\]|\[sic\]|(?i:as supplied|as printed|running head)|\*\[', en2): prob.append('a translator remark is left in the text')

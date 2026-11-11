@@ -43,10 +43,10 @@ def convert_inline(md):
         return f'{d} (*{deva_to_iast(d)}*)'
     return re.sub(r'⟦([^⟧]*)⟧', rep, md), n[0]
 
-def add_block_iast(md):
+def add_block_iast(md, labels=('संहितापाठः', 'पदपाठः')):
     """Saṃhitā and Pada blocks without an IAST run get one, in memory only (blocks that already have it are left alone)."""
     before = md.count('\n> *')
-    out = '\n'.join(add_iast_process(md.split('\n'), ('संहितापाठः', 'पदपाठः')))
+    out = '\n'.join(add_iast_process(md.split('\n'), tuple(labels)))
     return out, out.count('\n> *') - before
 
 def add_missing_headings(md, specs):
@@ -347,7 +347,7 @@ def build_eng(cfg, html_only):
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
     md, added = add_missing_headings(md, cfg.get('missing_headings', []))
     md, nconv = convert_inline(md)
-    md, niast = add_block_iast(md)
+    md, niast = add_block_iast(md, cfg.get('iast_block_labels', ('संहितापाठः', 'पदपाठः')))
     print(f'[eng] headings added: {added}; Kannada-script quotations converted: {nconv}; IAST lines added to Saṃhitā/Pada blocks: {niast}; ⟦ left: {md.count("⟦")}')
     body = pandoc_html(md)
     body, nv = mark_samhita(body); print(f'[eng] verses set in the spaced Saṃhitā style: {nv}')

@@ -10,3 +10,5 @@
 - 2026-11-09: user review: p. 1/2 page break of the Introduction: the sentence 'To both these deities, many common | ವಿಶೇಷಣ ಪದಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಅವರ ಮಹತ್ಕಾರ್ಯಗಳನ್ನು ವರ್ಣಿಸಿರುವುದಲ್ಲದೆ …' lost its words 'using … epithets' (the English p. 2 began 'Besides describing their great deeds with qualifying words'): now 'many common | qualifying words (epithets) are used to describe their great deeds; and besides this, …'.
 - 2026-11-09: tools/rv/refs_fix.py (user's reading of the print): ಸಿ.→ನಿ. (Ni.), ಮಿ./ಮ./ಪು. ಸಂ.→ಋ. ಸಂ. (Ṛ. Saṃ.), ಇ. ಬ್ರಾ.→ಐ. ಬ್ರಾ. (Ai. Brā.) before reference numbers; lines changed: kn 0, en 52 (English file: reference notes rewritten with Latin abbreviations and digits).
 - 2026-11-09: refs_fix.py also corrected the Latin forms 'Ma./Mi./Pu. Saṃ.' → 'Ṛ. Saṃ.' and 'Si.' → 'Ni.' in the English file (52 lines) and removed the simple remarks 'as supplied: ಮ. (Ma.) for ಋ. (Ṛ.)' that only announced the misreading.
+
+- 2026-11-11: `tools/rv/strip_iast.py 15`: stored IAST runs under Saṃhitā/Pada blocks removed (the print build regenerates them; each removed run equals the regeneration, 0 differing). Only deleted lines.

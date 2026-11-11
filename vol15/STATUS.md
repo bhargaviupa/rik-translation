@@ -27,6 +27,9 @@ Front matter is deliberately not translated.
 ## User's in-depth review (started Nov 9 2026) — done so far
 Page numbers refer to the English PDF. P6 board of scholars → translated page; P9–16 contents and abbreviations → translated (`contents_en.json`, `frontmatter_en.json`) with the page numbers of this book; separate sūkta index (P17–18) removed; Om at the top of printed p. 1; "Introduction" on its own page; the front Pīṭhike = Preface (translated); remarks moved to footnotes; page-break sentence p. 1/2 repaired; reference abbreviations corrected in both files (`refs_fix.py`). Still open from the review: further comments by the user as the review continues; other possibly misread abbreviations (e.g. ಭಾ. ಉ., ಕೃ. ಸಂ., ತ್ರೈ. ಬ್ರಾ., ಕಥ.) need the user's reading.
 
+## IAST layer
+Not stored in the English file (user decision, Nov 11 2026): the print build adds it for Saṃhitā and Pada blocks (`volcfg.json` `"iast_blocks": "build"`); stored runs were removed with `tools/rv/strip_iast.py` and logged in `review/repair_log.md`; bhāṣya blocks never get it.
+
 ## Publication (print PDF)
 `python3 publish/volbook.py 15 [eng|kan]` (config `vol15/pubcfg.json`); outputs in `publish/out/`; front matter = the user's scan pages; Guruji and 'present day' pages kept (user decision).
 

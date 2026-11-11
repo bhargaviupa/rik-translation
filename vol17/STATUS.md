@@ -29,6 +29,9 @@ Planned as the **pilot of the Batch API flow** (user decision, Nov 11 2026; API 
 5. Front matter other than the preface (title pages, contents, abbreviations) is not translated; the front-matter scan PDF is needed for the print build.
 6. Finishing checklist (HANDBOOK §11): Kannada headings and review PDFs done; accent pass report and QA sample against the Kannada not done.
 
+## IAST layer
+Not stored in the English file (user decision, Nov 11 2026): the print build adds it for Saṃhitā and Pada blocks (`volcfg.json` `"iast_blocks": "build"`); stored runs were removed with `tools/rv/strip_iast.py` and logged in `review/repair_log.md`; bhāṣya blocks never get it.
+
 ## Publication (print PDF)
 **Review copies built Nov 11 2026** with `python3 publish/volbook.py 17` (settings: `vol17/pubcfg.json`): `publish/out/vol17_full_Eng.pdf` (1,645 pages) and `publish/out/vol17_full_Kan.pdf` (1,218 pages), each with its `.html`. Verses in the spaced Saṃhitā style (441). Front matter is a typeset title page and credits only: **no cover, portraits, board page or printed contents yet** (they need the user's front-matter scan PDF: HANDBOOK §8); an index of sūktas stands in place of the contents. `**NOTE**` marks are printed as they stand. Sūkta and Ṛk headings were added to the Kannada file for this (`tools/rv/kn_headings.py 17 --write`, logged; the supplied title line of 4.7 reads "ಸೂಕ್ತ-೨": heading follows the English order). Looked at: title page, one prose page, one verse page of the English PDF, one page of the Kannada PDF; the whole PDFs were not read.
 

@@ -21,6 +21,9 @@ Html-based text complete for pp. 2–954 (Nov 9–10 2026), with the gaps above.
 ## Open items
 Obtain pp. 499–500 (and p. 1 if wanted) from the user; run accents/numeral checks; back-fill the unmarked doubts listed in `vol14/review/html2-498/dispatcher_notes.md`; user to settle the `[?]` readings (`vol14/review/html2-498/doubts.tsv`, `html501-766/doubts.tsv`). `[?]` and accent differences: `vol14/review/html501-766/doubts.tsv`, `accent_report.tsv` (pp. 501–766), `vol14/review/doubts.tsv`, `accent_report.tsv` (scan-based). Colon-joined references in windows 607, 634, 715 rewritten in words; Ṛk numbers missing from many supplied Saṃhitā lines were not added; ~20 figure-read blocks (see dispatcher notes). Printed p. 288 of the scan needs a re-scan (scan-based text only).
 
+## IAST layer
+Not stored in the English file (user decision, Nov 11 2026): the print build adds it for Saṃhitā and Pada blocks (`volcfg.json` `"iast_blocks": "build"`); stored runs were removed with `tools/rv/strip_iast.py` and logged in `review/repair_log.md`; bhāṣya blocks never get it.
+
 ## Publication (print PDF)
 Not built yet. Use `publish/volbook.py` after normalising the file format (see `docs/REPO_REVIEW.md`).
 
