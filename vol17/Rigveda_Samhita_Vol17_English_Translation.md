@@ -20785,6 +20785,260 @@ He is first engendered in the habitations (of the sacrificers); then upon his st
 > *pra | śardhaḥ | ārta | prathamaṃ | vipanyā | ṛtasya | yonā | vṛṣabhasya | nīḷe |*  
 > *spārhaḥ | yuvā | vapuṣyaḥ | vibhāvā | sapta | priyāsaḥ | ajanayaṃta | vṛṣṇe ‖ 12 ‖*
 
+### Printed p. 688
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने विपन्या स्तुत्या युक्तमृतस्योदकस्य योन् स्थाने वृषभस्य वर्षणसमर्थस्य मेघस्य नीळे कुलायभूतेऽंतरिक्षे वैद्युताग्निरूपेण वर्तमानं त्वां
+> शर्धस्तेजः प्रथमं प्रार्त । प्रकर्षेण गच्छति । यश्चाग्निः स्वाहर्ह सर्वॆः स्पृहणीयो
+> युवा नित्यतरुणो वपुष्यः कमनीयो विभावा दीप्तिमान् तस्मै वृष्णेऽभिमतफलवर्षकायाग्नये प्रियासः प्रियाः सप्त होत्रका अजनयंत । स्तोत्रमकुर्वन् ॥
+> आर्त । ऋ गतौ । लजि व्यत्ययेनात्मनेपदं । निघातः । विपन्या । पन चेत्यस्येन्प्रत्ययः । कृदिकारादक्तिन इति जीष् । प्रत्ययस्वरेणांतोदात्तः । उदात्तायणो
+> हल्पूर्वादिति विभक्तेरुदात्तत्वं । विपन्य ऋतस्येत्यत्र संहितायामिकोऽसवर्णॆ
+> शाकल्यस्य ह्रस्वश्च । पा. ६-१-१२७ । इत्यनिकोऽसि ह्रस्पोऽनुनासिकश्च ॥
+
+##### Gist of the bhāṣya
+
+O Agni, radiance first proceeds to you. You are accompanied by praise (विपन्या (*vipanyā*)) and abide in the form of lightning-fire in the sky. That sky is the place (योनि (*yoni*)) of water and the nest of the rain-cloud, which is able to rain. The Agni who is desirable to all, ever young, lovely and radiant is the rainer of desired fruit. For him the seven dear hotṛ priests produced praise, that is, they made a hymn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विपन्या (*vipanyā*)—endowed with praise
+- ऋतस्य (*ṛtasya*)—of water
+- योना (*yonā*)—being the womb
+- वृषभस्य (*vṛṣabhasya*)—of the cloud, the producer of rain
+- नीळी (*nīḷī*)—in the sky, which is like a nest (you who are there in the form of lightning-fire)
+- शर्धः (*śardhaḥ*)—radiance
+- प्रथमं (*prathamaṃ*)—beforehand
+- प्र आर्त (*pra ārta*)—comes, resorting (to you)
+- स्वाह्यः (*svāhyaḥ*)—first among all **NOTE**
+- युवा (*yuvā*)—ever young
+- वपुष्यः (*vapuṣyaḥ*)—one of radiant form
+- विभावा (*vibhāvā*)—shining
+- वृष्णे (*vṛṣṇe*)—for Agni, the giver of what is desired
+- प्रियासः (*priyāsaḥ*)—the dear
+- सप्त (*sapta*)—seven hotṛ priests
+- अजनयंत (*ajanayaṃta*)—produced praise
+
+##### भावार्थ (Bhāvārtha)
+
+In the sky, which is like a nest for the cloud that is the womb of water and the producer of rain, radiance first approaches you, who are there in the form of lightning-fire, and resorts to you with praise. For Agni, who is desirable to all, ever young, of radiant form, shining and the giver of what is desired, the dear seven hotṛ priests also produced praise.
+
+##### English translation (H. H. Wilson)
+Radiance has first proceeded to you, (Agni), who are glorified by praise, in the womb of the water, in the nest of the rain-cloud: the seven attached (priests) have engendered (praise) to rer (of benefit scoswh), the who is desirable, ever young, embodied, and resplendent **NOTE**
+
+### Printed p. 689
+
+##### विशेषविषयगळु (Special Topics)
+
+"The dear seven engendered": the meaning of this sentence is that the seven dear hotṛ priests produced praise. The seven hotṛs here are the seven officiating priests: Hotṛ, Maitrāvaruṇa, Brāhmaṇācchaṃsin, Potṛ, Neṣṭṛ, Acchāvāka and Āgnīdhra. In each of the three pressings (savana), the morning pressing, the midday pressing and the third pressing (the rite in which the soma juice is pressed out and offered in the fire according to the rule is called savana), each of these priests offers soma in the fire with one Ṛk, accompanied by vaṣaṭkāra, that is, adding the word vauṣaṭ at the end of the mantra. The rule is that the offering is made with Ṛks in the Gāyatrī metre at the morning pressing, with Ṛks in the Triṣṭubh metre at the midday pressing, and with mantras in the Jagatī metre at the third pressing. These mantras, recited by the respective priests at each pressing, are called Prasthitayājyā mantras or Saptahotra mantras. For a detailed account of this subject see Ṛ. Saṃ. Part 15, p. 693.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॒मत्र॑ पि॒तरो॑ मनु॒ष्या॑ अ॒भि प्र से॑दुर्ऋ॒तमा॑शुषा॒णाः।  
+> अश्म॑व्रजाः सु॒दुघा॑ व॒व्रे अं॒तरुदु॒स्रा आ॑जन्नु॒षसो॑  ॒
+> हुवानाः ॥ १३ ॥
+
+> *asmākamatra pitaro manuṣyā abhi pra sedurṛtamāśuṣāṇāḥ|*  
+> *aśmavrajāḥ sudughā vavre aṃtarudusrā ājannuṣaso*  
+> *huvānāḥ ‖ 13 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । अत्र । पितरः । मनुष्याः । अभि । प्र । सेदुः । ऋतं । आशुषाणाः ।  
+> अश्मव्रजाः । सुदुघाः । वव्रे । अंतः । उत् । उस्राः । अजन् । उषसः । हुवानाः॥
+
+> *asmākaṃ | atra | pitaraḥ | manuṣyāḥ | abhi | pra | seduḥ | ṛtaṃ | āśuṣāṇāḥ |*  
+> *aśmavrajāḥ | sudughāḥ | vavre | aṃtaḥ | ut | usrāḥ | ajan | uṣasaḥ | huvānāḥ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र लोके पूर्वे मनुष्या अस्माकं पितरोऽंगिरस यतं यज्ञमाशुषाणा
+> अश्नुवानाः संतोऽभि प्र सेदुः । अग्निमभिलक्ष्य प्रजग्मुः । तेऽंगिरसोऽग्निपरिचर्याबलादश्वव्रजाः पर्वतैः परिवृता वव्रे । वृणोत्याच्छादयतीति वव्रं पर्वतविलांतवर्ति तमः । तस्मिन्नंतर्मध्यॆ स्थिताः सुदुघाः सुष्टु दोग्धिरुस्राः पणिभि रपहृता
+
+##### Gist of the bhāṣya
+
+In this world our ancestors, the Aṅgirases, men of former times, having obtained the sacrifice (ऋतं (*ṛtaṃ*) = *yajñaṃ*), approached Agni: they went forth directing themselves to Agni. By the power of their service to Agni they were surrounded by mountains in the वव्रे (*vavre*). Vavra is that which covers: the darkness within the mountain cave. Standing within it, the good-milking cows (उस्राः (*usrāḥ*)) carried off by the Paṇis were driven out from that cave.
+
+> गा उदाजन् । तस्माद्विलान्निरगमयन् । किं कुर्वंतः । तमसो विध्वंसनीरुषसो
+> देवी: प्रकाशार्थं हुवाना आह्वयंतः ॥ वव्रे । वृणोतेरौणादिकः कः । कृणादीनां द्वे भवत इति द्विर्वचनं ॥
+
+##### Gist of the bhāṣya
+
+They led the cows out of that hole. What were they doing? They were calling the goddess Dawns, destroyers of darkness, for the sake of light. The rest of the block is grammar (वव्रे (*vavre*), formed from the root *vṛṇoti* with an Uṇādi affix, and its doubling). **NOTE**
+
+### Printed p. 690
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्र (*atra*)—in this world
+- मनुष्याः (*manuṣyāḥ*)—mortal
+- अस्माकं (*asmākaṃ*)—our
+- पितरः (*pitaraḥ*)—fathers and grandfathers (the Aṅgirases)
+- ऋतं (*ṛtaṃ*)—the sacrifice
+- आशुषाणाः (*āśuṣāṇāḥ*)—having established
+- अभि प्र सेदुः (*abhi pra seduḥ*)—directed themselves to Agni and worshipped (that Agni, as the fruit of the worship)
+- उषसः (*uṣasaḥ*)—the dawn
+- हुवानाः (*huvānāḥ*)—praying to
+- अश्वव्रजाः (*aśvavrajāḥ*)—surrounded by mountains
+- वव्रे (*vavre*)—of the darkness
+- अंतः (*aṃtaḥ*)—standing in the middle
+- सुदुघाः (*sudughāḥ*)—excellent to be milked
+- उस्राः (*usrāḥ*)—the cows (carried off by the Paṇis)
+- उत् आजन् (*ut ājan*)—brought out
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in this world our mortal fathers and grandfathers, the Aṅgirases, established the sacrifice and worshipped you with it in view. As the fruit of that worship they prayed to the Dawn, obtained light, and brought out of the cave the cows that lay hidden in darkness among the mountains, cows excellent to be milked.
+
+##### English translation (H. H. Wilson)
+In this world our mortal forefathers departed after instituting the sacred rite, when, calling upon the dawn, they extricated the milk-yielding cows, concealed among the rocks in the darkness (of the cave).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next two Ṛks it is told how the Paṇis, a class of asuras, carried off the cows of the Aṅgirasa seers and hid them in a mountain cave, and how the Aṅgirasa seers freed them by the power of their mantras. We have explained this subject at length in Ṛ. Saṃ. Part 8 p. 189, Part 6 p. 365, Part 10 p. 577 and other places. The reason why the matter of the Aṅgirasa seers comes into this sūkta, which concerns Agni, we have explained at length in Ṛ. Saṃ. Part 1 pp. 640-641.
+
+### Printed p. 691
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते म॑र्मृजत ददृ॒वांसो॒ अद्रिं॒ तदे॑षाम॒न्ये अ॒भितो॒ वि  ॑
+> वोचन् ।  
+> प॒श्वयं॑त्रासो अ॒भि का॒रम॑र्चन्वि॒दंत॒ ज्योति॑श्च कृ॒पंत॑ धी॒भिः ॥
+
+> *te marmṛjata dadṛvāṃso adriṃ tadeṣāmanye abhito vi*  
+> *vocan |*  
+> *paśvayaṃtrāso abhi kāramarcanvidaṃta jyotiśca kṛpaṃta dhībhiḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । मर्मृजत । ददृवांसः । अद्रिं । तत् । विषां । अन्ये । अभितः । वि । वोचन् ।  
+> पश्वयंत्रासः । अभि । कारं । अर्चन् । विदंत । ज्योतिः । चकृपंत । धीभिः ॥ १४ ॥
+
+> *te | marmṛjata | dadṛvāṃsaḥ | adriṃ | tat | viṣāṃ | anye | abhitaḥ | vi | vocan |*  
+> *paśvayaṃtrāsaḥ | abhi | kāraṃ | arcan | vidaṃta | jyotiḥ | cakṛpaṃta | dhībhiḥ ‖ 14 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तेऽंगिरसोऽद्रिं पणिभिरपहृतानां गवां निरोधकं पर्वतं दद्ववांसो
+> विदारयंतः संतो मर्मृजत । अग्निं पर्यचरन् । एषामंगिरसां तत्तादृशं
+> कर्मान्ये महर्षयोऽभितः सर्वत्र जगति वि वोचन् । विशेषेणाकथयन् । पश्वयंत्रासः पशुनिर्गमनार्थानि यंत्राण्युपाया येषां तेऽंगिरसः कारमभिमतस्य
+> प्रयोजनस्य कर्तारमग्निमभ्यर्चन् । अस्तुवन् । ततस्तमोपहमादित्याख्यं ज्योतिर्विदंत । अलभंत । ततो धीभिर्बुद्धिभिश्च कृसंत । यज्ञानकल्पयन्नकुर्वन् ॥ मर्मृजत । मृजूष् शुद्धौ । यज्लुकि लजं व्यत्ययेनात्मनेपदं । निघातः । चकृपंत ।
+> कृपू सामर्थ्ये । ण्यंतस्य लुजः चजः सन्वद्भावाभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+Those Aṅgirases split the mountain (अद्रिं (*adriṃ*)), which blocked the cows carried off by the Paṇis, and so served Agni (मर्मृजत (*marmṛjata*)). That deed of theirs other great seers proclaimed everywhere in the world, they spoke it forth specially. The पश्वयंत्रासः (*paśvayaṃtrāsaḥ*) are those whose devices and means are for bringing the cattle out; these Aṅgirases praised Agni, the maker (कारं (*kāraṃ*)) of the desired aim. Then they found the light called Āditya, which removes darkness. Then with their thoughts and intellects they arranged and performed the sacrifices. The rest of the block is grammar (मर्मृजत (*marmṛjata*) from the root मृजूष् शुद्धौ (*mṛjūṣ śuddhau*), चकृपंत (*cakṛpaṃta*) from कृपू सामर्थ्ये (*kṛpū sāmarthye*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—those Aṅgirases
+- अद्रिं (*adriṃ*)—the rocks of the mountain that had blocked the cows
+- ददृवांसः (*dadṛvāṃsaḥ*)—splitting
+- मर्मृजत (*marmṛjata*)—served Agni
+- एषां (*eṣāṃ*)—of these Aṅgirases
+- तत् (*tat*)—that great deed
+- अन्ये (*anye*)—other seers
+- अभितः (*abhitaḥ*)—everywhere
+- वि वोचन् (*vi vocan*)—praised greatly
+- पश्वयंत्रासः (*paśvayaṃtrāsaḥ*)—the Aṅgirases, who knew the means needed for the cattle's coming out
+- कारं (*kāraṃ*)—Agni, the accomplisher of what is desired
+- अर्चन् (*arcan*)—praised (and afterwards)
+- ज्योतिः (*jyotiḥ*)—the light in the form of the sun
+- विदंत (*vidaṃta*)—obtained
+- धीभिः (*dhībhiḥ*)—with their intelligences
+- चकृसंत (*cakṛsaṃta*)—carried out sacrifices and the like
+
+### Printed p. 692
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, splitting the rocks of the mountain that had blocked the cows, served Agni. That great deed of the Aṅgirases was praised greatly by other seers in every place. The Aṅgirases, who knew the means needed for the cattle's coming out, praised Agni, the accomplisher of what is desired. Afterwards they obtained the light in the form of the sun. With their intelligences they carried out sacrifices and other rites.
+
+##### English translation (H. H. Wilson)
+Rending the rocks, they worshipped (Agni), and other (sages) taught everywhere their (acts): unprovided with the means of (extricating) the cattle, they glorified the author of success, whence they found the light, and were thus enabled (to worship him) with holy ceremonies:
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते ग॑व्य॒ता मन॑सा दृ॒ध्रमु॒ब्धं गा ये॑मा॒नं परि॒षंत॒मद्रिं॑।  
+> दृ॒ढं नरो॒ वच॑सा॒ दैव्ये॑न व्र॒जं गोमं॑तमु॒तिजो॒ वि व॑वुः॥
+
+> *te gavyatā manasā dṛdhramubdhaṃ gā yemānaṃ pariṣaṃtamadriṃ|*  
+> *dṛḍhaṃ naro vacasā daivyena vrajaṃ gomaṃtamutijo vi vavuḥ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । गव्यता । मनसा । दृढं । उब्धं । गाः । येमानं । परि । संतं । आद्रिं ।  
+> दृढं । नरः । वचसा । दैव्येन । व्रजं । गोऽमंतं । उशिजः । वि । ववुरिति  
+> ववुः ॥ १५ ॥
+
+> *te | gavyatā | manasā | dṛḍhaṃ | ubdhaṃ | gāḥ | yemānaṃ | pari | saṃtaṃ | ādriṃ |*  
+> *dṛḍhaṃ | naraḥ | vacasā | daivyena | vrajaṃ | go 'maṃtaṃ | uśijaḥ | vi | vavuriti*  
+> *vavuḥ ‖ 15 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरः कर्मणां नेतार उशिजोऽग्निं कामयमानास्तेऽंगिरसो गव्यता गा
+> इच्छता मनसा दृढं गवां निर्गमनद्वारनिरोधकमुब्धं समुब्धं संहतं । यद्वा ।
+> उभिः पूर्णार्थः । गोभिः पूर्णं गा येमानं नियच्छंतं परि सर्वतः संतं वर्तमानं धृढं दृढं गोमंतं गोभिर्युक्तं व्रजं गवां निवासस्थानमद्रिं पर्वतं
+> दैव्येनाग्नि विषयेण वचसा वेदात्मकेन स्तोत्रेण वि ववुः । गोनिर्गमनार्थमु-
+
+##### Gist of the bhāṣya
+
+The नरः (*naraḥ*) are the leaders of rites; the उशिजः (*uśijaḥ*) are those who desire Agni. These Aṅgirases, with a mind wishing for cows (गव्यता (*gavyatā*)), opened with divine speech (*daivyena vacasā*), that is, with praise on Agni's subject, of the nature of the Veda, the mountain (अद्रिं (*adriṃ*)). That mountain was firm (दृढं (*dṛḍhaṃ*), also read धृढं (*dhṛḍhaṃ*)), and was उब्धं (*ubdhaṃ*), that is, closed and compact, because it blocked the door by which the cows go out. Or else उभिः (*ubhiḥ*) has the sense "full": it was full of cows, and held the cows (गा येमानं (*gā yemānaṃ*)), standing all around. It was a cow-pen (व्रजं (*vrajaṃ*)) with cows, the abode of cows. They made it open (वि ववुः (*vi vavuḥ*)), they caused it to be opened for the cows to go out.
+
+### Printed p. 693
+
+> द्वापितवंतः ॥ उब्धं । उभ्नातिर्हंतिना समानार्थः । यद्वा । उभ उन्फ पूरणे ।
+> कर्मणि क्तः । येमानं । यमेः कानच्यत्वाभ्यासलोप् । चित्तादंतोदात्तः ।
+> परि षंतमित्यत्र संहितायामुपसर्गप्रादुर्भ्यामस्तियर्च्‌पर इति षत्वं ॥
+
+##### Gist of the bhāṣya
+
+उब्धं (*ubdhaṃ*): the root उभ्नाति (*ubhnāti*) has the same sense as हंति (*haṃti*). Or else the root is *ubha uṃbha pūraṇe* with the passive affix क्तः (*ktaḥ*). The remainder of the block is grammar (येमानं (*yemānaṃ*), accent, the change of s to ṣ in परि । संतं (*pari | saṃtaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—leaders of rites
+- उशिजः (*uśijaḥ*)—those who look for Agni's help
+- ते (*te*)—the Aṅgirases
+- गव्यता मनसा (*gavyatā manasā*)—with a mind wishing to obtain cows
+- दृढं (*dṛḍhaṃ*)—that which is to be an obstruction
+- उब्बं (*ubbaṃ*)—that which is to be a pressure
+- गा येमानं (*gā yemānaṃ*)—that which is to hold the cows back
+- परि (*pari*)—around
+- संतं (*saṃtaṃ*)—that which is to be pervading
+- दृळ्हं (*dṛḷhaṃ*)—that which is to be hard
+- गोमंतं (*gomaṃtaṃ*)—that which is to be full of cows
+- व्रजं (*vrajaṃ*)—that which is to be the abode of cows
+- अद्रिं (*adriṃ*)—the mountain
+- दैव्येन (*daivyena*)—concerning Agni
+- वचसा (*vacasā*)—with the help of praises
+- वि ववुः (*vi vavuḥ*)—split open and freed
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, leaders of rites, who looked for Agni's help, desiring to obtain the cows, split open and freed, with the help of praises addressed to Agni, the entrance of the mountain. It was an obstruction holding the cows back, a pressure, pervading all around, hard, and in the form of a cow-pen for the cows.
+
+##### English translation (H. H. Wilson)
+Devoted (to Agni), those leaders (of sacred rites), with minds intent upon (recovering) the cattle, forced open, by (the power) of divine prayer, the obstructing, compact, solid mountain confining the cows, a cow-pen full of cows.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते म॑न्वत प्रथ॒मं नाम॑ धे॒नोस्तिः स॒प्त मा॒तुः प॑र॒माणि॑  
+> विंदन् ।  
+> तज्ज्ञा॑न॒तीर॒भ्य॑नूषत॒ व्रा आ॒विर्भ॑वदरु॒णीयर्य॒शसा॒ गोः ॥ १६ ।
+
+> *te manvata prathamaṃ nāma dhenostiḥ sapta mātuḥ paramāṇi*  
+> *viṃdan |*  
+> *tajjñānatīrabhyanūṣata vrā āvirbhavadaruṇīyaryaśasā goḥ ‖ 16 |*
+
 ---
 
-**Progress note:** Done through printed p. 687. pp. 682-687 (batch API)
+**Progress note:** Done through printed p. 693. pp. 688-693 (batch API)
