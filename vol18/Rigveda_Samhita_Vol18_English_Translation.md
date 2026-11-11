@@ -2469,6 +2469,212 @@ Yāska says स्वरादित्यो भवति सु अरणः �
 > *yo vāyunā jayati gomatīṣu pra dhṛṣṇuyā nayati*  
 > *vasyo accha ‖ 4 ‖*
 
+### Printed p. 76
+#### Ṛk 4
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्थूरस्य । रायः । बृहतः । यः । ईशे । तं । ऊं इति । स्तवाम । विदथेषु । इंद्रं ।  
+> यः । वायुना । जयति । गोऽमतीषु । प्र । धृष्ट्न्यया । नयति । वस्यः । अच्छ ॥४॥
+
+> *sthūrasya | rāyaḥ | bṛhataḥ | yaḥ | īśe | taṃ | ūṃ iti | stavāma | vidatheṣu | iṃdraṃ |*  
+> *yaḥ | vāyunā | jayati | go 'matīṣu | pra | dhṛṣṭnyayā | nayati | vasyaḥ | accha ‖4‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः स्तोरस्य स्थूलस्य बृहतो महतो रायो धनस्येशे ईष्टे
+> विदथेषु यज्ञेषु । विदथ इति यज्ञनामृतत् । तमिंद्रमु तमिंद्रमेव वयं
+> स्तोतारः स्तवाम । य इंद्रो वायुना प्राणरूपेण बलेन गोमतीषु सेनासु
+> जयति शत्रून्विजयते । धृष्णुया धृष्णुः प्रगल्भो य इंद्रः स्तोत्थन्वस्को
+> वसीयः श्रेष्ठं पश्वादिधनमच्छाभि प्रणयति प्रापयति । तमेवेंद्रं स्तवामेति
+> पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is master of the abundant (स्थूलस्य (*sthūlasya*)), great wealth, in the sacrifices (विदथेषु (*vidatheṣu*)). Sāyaṇa says that विदथ (*vidatha*) is a name for sacrifice. "Him alone, Indra, we the praisers praise." The Indra who by strength in the form of the vital breath (वायुना (*vāyunā*)) conquers his enemies in the armies that are rich in cattle (गोमतीषु (*gomatīṣu*)). Dhṛṣṇuyā: the bold, confident Indra. He leads to us the best wealth, such as cattle (*paśvādidhanaṃ*). Sāyaṇa adds that the sentence is to be connected with the preceding one: "Him, that same Indra, we praise." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- विदथेषु (*vidatheṣu*)—in the sacrifices
+- स्तूरस्य (*stūrasya*)—abundant
+- बृहतः (*bṛhataḥ*)—of great value
+- रायः (*rāyaḥ*)—of wealth
+- ईशे (*īśe*)—is the master (and)
+- यः (*yaḥ*)—which Indra
+- वायुना (*vāyunā*)—by strength in the form of the vital breath
+- गोमतीषु (*gomatīṣu*)—in the armies (with the armies)
+- जयति (*jayati*)—conquers (the enemies)
+- धृष्टुया (*dhṛṣṭuyā*)—which bold Indra
+- वस्यः (*vasyaḥ*)—the excellent riches
+- अच्छ (*accha*)—towards the praisers
+- प्र नयति (*pra nayati*)—brings
+- तं इंद्रं उ (*taṃ iṃdraṃ u*)—that very Indra
+- स्तवाम (*stavāma*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who in the sacrifices is master of wealth that is steady, abundant and of great value; the Indra who with strength in the form of the vital breath conquers his enemies with his own mighty armies; and the valiant Indra who provides the praisers with excellent wealth such as cattle: that very Indra we, the praisers, praise.
+
+##### English translation (H. H. Wilson)
+We glorify, in solemn rites, this Indra who rules over substantial, abundant riches; who by his powess is victor over (hostile) hosts; who by his munificence brings excellent(wealth) to the presence (of his worshippers).
+
+### Printed p. 77
+
+##### विशेषविषयगळु (Special Topics)
+
+विदथेषु यज्ञेषु (*vidatheṣu yajñeṣu*): "in the sacrifices", that is, "in the sacrificial places". By the words वेदयत्तु स्तोत्रेषु निमित्तभूतेषु (*vedayattu stotreṣu nimittabhūteṣu*) the derivation of the word विदथ (*vidatha*) has been shown. Here only one of the Nirukta's derivations has been followed. यज्ञः वेनः इत्यादि (*yajñaḥ venaḥ ityādi*): it is read among the names of sacrifice (Ni. 3-9). And विदथानि वेदनानि (*vidathāni vedanāni*): to show that the word विदथ (*vidatha*) means knowledge (Ni. 7-7), the Nirukta cites the Ṛk होता देवो अमत्यर्ति पुरस्ता देति मायया । विदथानि प्रचोदयन् ॥ (*hotā devo amatyarti purastā deti māyayā | vidathāni pracodayan ‖*) (Ṛ. Saṃ. 3-27-7) **NOTE**, and shows that there the word is formed from the root विद् (*vid*), meaning knowledge. Here Sāyaṇa has explained विदथानि वेदितव्यानि कर्माणि (*vidathāni veditavyāni karmāṇi*), "rites that are to be known". Some scholars have tried to give a definitive meaning for this word, and each has stated his own opinion. Since each has shown a different derivation of the word and given a different meaning, it appears that all these meanings fit according to context.
+The word विदथ (*vidatha*) is formed by adding the prefix वि (*vi*) to the root धा (*dhā*). विधा (*vidhā*) means "distribute, regulate"; it can also mean observance of rule. That the meanings of विदथ (*vidatha*) and विधा (*vidhā*) are the same is understood from the equivalence of meaning between the words विदथेष्वह्नां (*vidatheṣvahnāṃ*) in the verse वयमग्ने वनुयाम त्वोता वसूयवो हविषा बध्यमानाः । वयं समर्ये विदथेष्वह्नां वयं राया सहसस्पुत्र मर्तान् ॥ (*vayamagne vanuyāma tvotā vasūyavo haviṣā badhyamānāḥ | vayaṃ samarye vidatheṣvahnāṃ vayaṃ rāyā sahasasputra martān ‖*) (Ṛ. Saṃ. 5-3-6) and the words वि-दधुः (*vi-dadhuḥ*) in the Ṛk वि ये दधुः शरदं मासवादहर्यज्ञमक्तुं चादृचं । अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशत ॥ (*vi ye dadhuḥ śaradaṃ māsavādaharyajñamaktuṃ cādṛcaṃ | anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśata ‖*) (Ṛ. Saṃ. 7-66-11). And since the meanings of विहित (*vihita*) and विदथ (*vidatha*) are likewise the same, the sacrifice enjoined by the śāstra was called by the name विदथ (*vidatha*); some Western scholars have explained that the meaning "sacrifice" or "sacrificial assembly" remained in the end.
+
+### Printed p. 78
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॒ यो नमो॒ नम॑सि स्तभा॒यन्निय॑र्ति॒ वाचं॑ ज॒नय॒न्यज॑ध्यै ।  
+> ऋं॒ज॒सा॒नः पु॑रु॒वार॑ उ॒क्थैरेंद्रं॑ कृण्वीत॒ सद॑नेषु॒ होता॑ ॥
+
+> *upa yo namo namasi stabhāyanniyarti vācaṃ janayanyajadhyai |*  
+> *ṛṃjasānaḥ puruvāra ukthaireṃdraṃ kṛṇvīta sadaneṣu hotā ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । यः । नमः । नमसि । स्तभायन् । इयर्ति । वाचं । जनयन् । यजध्यै ।  
+> यंजसानः । पुरुवारः । उक्षैः । आ । इंद्रं । कृण्वीत । सदनेषु । होता ॥ ५ ॥
+
+> *upa | yaḥ | namaḥ | namasi | stabhāyan | iyarti | vācaṃ | janayan | yajadhyai |*  
+> *yaṃjasānaḥ | puruvāraḥ | ukṣaiḥ | ā | iṃdraṃ | kṛṇvīta | sadaneṣu | hotā ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उप स्तभायन् लोकानुपस्तंभयन् यजध्यै यष्टुं वाचं गर्जितलक्षणां
+> वाचं जनयन् प्रजनयन् यंजसानः प्रसाध्यमानः । यंजतिः प्रसाधनकर्मेति
+> यास्कः । उक्षैः शस्त्रलक्षणैः स्तोत्रैः पुरुवारो बहुभिः संभजनीयो य इंद्रो
+> नमसि । नम इत्यन्ननामैतत् । यजमानैर्दत्ते हविषि नमो यजमानेभ्यो
+> यज्ञादिसाधनमन्नमियर्ति प्रेरयति । इंद्रो हविषा तृप्तः सन् वृष्टिद्वारान्नं
+> प्रयच्छति तेन चान्नेन पुनर्यज्ञः प्रजायत इत्यर्थः । अस्मदीयो होता
+> सदनेषु यज्ञगृहेषु तमिंद्रमा कृण्वीत । अभिमुखीकरोतु ॥
+
+##### Gist of the bhāṣya
+
+Upa-stabhāyan: supporting the worlds. Yajadhyai: in order to sacrifice. Producing a voice of the nature of thunder. Yañjasānaḥ: being accomplished; Yāska says that यंजतिः प्रसाधनकर्म (*yaṃjatiḥ prasādhanakarma*). With ukthas, that is, hymns of the nature of śastras, Puruvāra: Indra, who is to be resorted to by many. नमसि (*namasi*): नम (*nama*) is a name of food. When the oblation is given by the sacrificers, Indra sends (इयर्ति (*iyarti*)) to the sacrificers the food that is the means of the sacrifice and the rest. Pleased with the oblation, Indra gives food by means of rain, and by that food the sacrifice arises again; this is the meaning. Let our hotṛ in the sacrificial houses make that Indra turn towards us (आ कृण्वीत (*ā kṛṇvīta*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- उप स्तभायन् (*upa stabhāyan*)—establishing the worlds permanently on a secure foundation
+- यजध्यै (*yajadhyai*)—(indicating) the performing of sacrifice
+- वाचं (*vācaṃ*)—the voice
+- जनयन् (*janayan*)—producing, which is of the nature of thunder
+- यंजसानः (*yaṃjasānaḥ*)—being worshipped
+- उक्थैः (*ukthaiḥ*)—with the śastra-mantras
+- पुरुवारः (*puruvāraḥ*)—being praised by many
+- नमसि (*namasi*)—in return for the food that is the oblation
+- नमः (*namaḥ*)—the food useful to the sacrificer
+- इयति (*iyati*)—provides
+- (तं (*taṃ*)) इंद्रं (*iṃdraṃ*)—that same Indra
+- होता (*hotā*)—the hotṛ
+- सदनेषु (*sadaneṣu*)—in the sacrificial houses
+- आ कृण्वीत (*ā kṛṇvīta*)—let him make (him) face (the sacrificer)
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who establishes all the worlds permanently on a secure foundation, who produces a voice of the nature of thunder that indicates the performing of sacrifice, and who, being worshipped by the sacrificers and praised with hymns in the form of śastras, provides the sacrificer, in return for the food in the form of the oblation, with the food born of rain: that same Indra let the hotṛ make face the sacrificer in the sacrificial houses.
+
+### Printed p. 79
+
+##### English translation (H. H. Wilson)
+Let the invoking priest bring to our dwellings that (Indra) who, firmly fixing the (world), returns food for (sacrificial food), and (utters) a voice enjoining (men) to worship : he who is to be propitiated by praises, who is adored by many.
+
+##### विशेषविषयगळु (Special Topics)
+
+उक्तैः—स्तोत्रैः (*uktaiḥ—stotraiḥ*): in the commentary only the general meaning "with hymns" is given. But because the Nirukta says त्यत् ते उकं (*tyat te ukaṃ*), "that well-known uktha addressed to you", it indicates an uktha that is directed to Indra and has been recited at sacrifices from of old. This uktha addressed to Indra has a distinctive peculiarity. **NOTE**
+The nature of the uktha, its greatness, its relation to śastra, uktha and sāman and their subtle differences, and the order in which the hotṛ and his assisting priests must recite it at the time of the pressing, have been explained in detail in the earlier parts. Since Indra's greatness is here praised by means of the uktha, the power of the uktha, and through it Indra's greatness, is subtly conveyed together with the earlier story connected with it. In the Aitareya Brāhmaṇa there is a story that the power of the uktha is very great; that the asuras took refuge in it and so their power increased; and that Indra, being praised, came and drove them off.
+ते ना असुरा मैत्रावरुणस्योक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्स्यावहा इत्यहं चेत्यब्रवीद्वरुणस्तस्माद्यैंद्रावरुणं मैत्रावरुणस्कृतीयसवने शंसतींद्रश्च हि तान्वरुणश्च ततो नुदेतां ॥ (*te nā asurā maitrāvaruṇasyoktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsyāvahā ityahaṃ cetyabravīdvaruṇastasmādyaiṃdrāvaruṇaṃ maitrāvaruṇaskṛtīyasavane śaṃsatīṃdraśca hi tānvaruṇaśca tato nudetāṃ ‖*)
+The asuras entered the Maitrāvaruṇa uktha. Then Indra asked which of them would help him to drive these asuras out of this uktha, and Varuṇa said that he would help. At that time the Maitrāvaruṇa, the hotṛ's assistant, at the third pressing recited the hymn that begins with the Ṛk
+इंद्रावरुणा युवमध्वराय नो विशे जनाय महि शर्म यच्छतं । (*iṃdrāvaruṇā yuvamadhvarāya no viśe janāya mahi śarma yacchataṃ |*) (Ṛ. Saṃ. 7-82-1)
+
+### Printed p. 80
+and praised Indra and Varuṇa. Then Indra and Varuṇa drove those asuras off with the Mitrāvaruṇa śastra.
+ते वै ततोऽपहता असुरा ब्राह्मणाच्छंसिन उक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्स्यावहा इत्यहं चेत्यब्रवीद्बृहस्पतिस्तस्मादैंद्राबार्हस्पत्यं ब्राह्मणाच्छंसी तृतीयसवने शंसतींद्रश्च हि तान्पृहस्पतिश्च हि ततो नुदेतां ॥ (*te vai tato 'pahatā asurā brāhmaṇācchaṃsina uktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsyāvahā ityahaṃ cetyabravīdbṛhaspatistasmādaiṃdrābārhaspatyaṃ brāhmaṇācchaṃsī tṛtīyasavane śaṃsatīṃdraśca hi tānpṛhaspatiśca hi tato nudetāṃ ‖*)
+The asuras, driven off from there, entered the uktha of the Brāhmaṇācchaṃsin. Then Indra rose and asked who would help to drive these asuras out of here, and Bṛhaspati rose and said that he would help. Then the Brāhmaṇācchaṃsin at the third pressing recited the hymn beginning with the Ṛk
+उदपुत्रो न वयो रक्षमाणा वावदतो अभियस्येव घोषाः । (*udaputro na vayo rakṣamāṇā vāvadato abhiyasyeva ghoṣāḥ |*) (Ṛ. Saṃ. 10-68-1)
+and praised Indra and Bṛhaspati. Then Indra and Bṛhaspati together drove the asuras off from there.
+ते वै ततोऽपहता असुरा अच्छावाकस्योक्तमश्रयंत सोऽब्रवीदिंद्रः कश्चाहं चेमानितोऽसुरान्नोत्स्यावहा इत्यहं चेत्यब्रवीद्विष्णुस्तस्मादैंद्रावैष्णवमच्छावाकस्कृतीयसवने शंसतींद्रश्च हि तान्विष्णुश्च ततोनुदेतां ॥ (*te vai tato 'pahatā asurā acchāvākasyoktamaśrayaṃta so 'bravīdiṃdraḥ kaścāhaṃ cemānito 'surānnotsyāvahā ityahaṃ cetyabravīdviṣṇustasmādaiṃdrāvaiṣṇavamacchāvākaskṛtīyasavane śaṃsatīṃdraśca hi tānviṣṇuśca tatonudetāṃ ‖*) (Ai. Brā. 15-6) **NOTE**
+The asuras driven off from the uktha of the Brāhmaṇācchaṃsin joined the uktha of the Acchāvāka. Then Indra rose and asked which of them would help to drive these out of here. Then Viṣṇu said that he would help. At that time the Acchāvāka recited the hymn beginning with the Ṛk
+सं वां कर्मणा समिषा हिनोमींद्राविष्णू अपसस्मारे अस्य । (*saṃ vāṃ karmaṇā samiṣā hinomīṃdrāviṣṇū apasasmāre asya |*) (Ṛ. Saṃ. 6-69-1)
+and praised Indra and Viṣṇu. Then they drove the asuras off from there too. This story is read in the Aitareya Brāhmaṇa (15-6). From it the power of the uktha and the greatness of Indra are understood. तत् त्ये उक्तं (*tat tye uktaṃ*) means "the uktha that has this power".
+Therefore, in the Śatapatha Brāhmaṇa also,
+
+### Printed p. 81
+इंद्रो वै यज्ञस्य देवता तस्मादाहेंद्राय त्वेति बृहद्वते वयस्वत इति वीर्यवत इत्येवैतदाह यॆदाह बृहद्वते वयस्वत इत्युक्थाख्यं गृह्णामित्युक्थेभ्यो ह्येनं गृह्णाति । ( (*iṃdro vai yajñasya devatā tasmādāheṃdrāya tveti bṛhadvate vayasvata iti vīryavata ityevaitadāha yèdāha bṛhadvate vayasvata ityukthākhyaṃ gṛhṇāmityukthebhyo hyenaṃ gṛhṇāti | (*) (Śa. Brā. 4-2-3-10)
+Indra is the deity of the whole sacrifice. Therefore, with the words "to Indra, who is endowed with the great uktha, who is heroic", the uktha, which is the cause of Indra's heroism and satisfaction, and through it Indra, is praised.
+Just as the power of the uktha is described at the time of sacrifices and other rites, so also at the time of teaching spiritual knowledge the greatness of this uktha, which is of the nature of a hymn, is praised. In the Bṛhadāraṇyaka Upaniṣad:
+उक्कं प्राणो वा उक्कं प्राणो हीदं सर्वमुत्थापयत्युद्धास्मादुक्कविद्वीरस्तिष्ठत्युक्कस्य सायुज्यं सलोकतां जयति य एवं वेद । (*ukkaṃ prāṇo vā ukkaṃ prāṇo hīdaṃ sarvamutthāpayatyuddhāsmādukkavidvīrastiṣṭhatyukkasya sāyujyaṃ salokatāṃ jayati ya evaṃ veda |*) (Bṛ. U. 5-13-1)
+उक्कं ततोपासनांतरं । उक्क शस्त्रं । तद्धि प्रधानं महाव्रते क्रत्वा । (*ukkaṃ tatopāsanāṃtaraṃ | ukka śastraṃ | taddhi pradhānaṃ mahāvrate kratvā |*) (Śāṅkarabhāṣya)
+In the sacrifice of the form of the Mahāvrata, the uktha, the chief śastra, is the vital breath. From it arises the rising up. From it a son born of the uktha comes into being and obtains equality with it and equal esteem: thus the greatness of the uktha is stated.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धि॒षा यदि॑ धिष॒ण्यंतः॑ सर॒ण्यान्तदं॑तो॒ आद्रि॑मौशि॒जस्य॒ गोहे॑ ।  
+> आ दु॒रोषाः॑ पा॒स्त्यस्य॒ होता॒ यो नो॑ म॒हान्त्सं॒वर॑णेषु॒  ॑
+> वह्निः ॥ ६ ॥
+
+> *dhiṣā yadi dhiṣaṇyaṃtaḥ saraṇyāntadaṃto ādrimauśijasya gohe |*  
+> *ā duroṣāḥ pāstyasya hotā yo no mahāntsaṃvaraṇeṣu*  
+> *vahniḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धिषा । यदि । धिषण्यंतः । सरण्यान् । सदंतः । अद्रिं । औशिजस्य । गोहे ।  
+> आ । दुरोषाः । पास्त्यस्य । होता । यः । नः । महान् । संवरणेषु । वह्निः ॥६॥
+
+> *dhiṣā | yadi | dhiṣaṇyaṃtaḥ | saraṇyān | sadaṃtaḥ | adriṃ | auśijasya | gohe |*  
+> *ā | duroṣāḥ | pāstyasya | hotā | yaḥ | naḥ | mahān | saṃvaraṇeṣu | vahniḥ ‖6‖*
+
+### Printed p. 82
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धिषण्यंतो धिषणामिंद्रविषयां स्तुतिमिच्छंत औशिजस्य । उशिजः कामयमाना ऋत्विजः । तेषां संबंध्यौशिजो यजमानः । तस्य गोहे गृहे सदंतो
+> निषीदंतो जना अद्रिं । आद्यणाति शत्रूनित्यद्रिरिंद्रः । तमिंद्रं धिषा स्तुत्या
+> यदि यदा सरण्यान् उपागच्छेयुः तदा स इंद्र आ यातु । नोऽस्माकं
+> संवरणेषु शत्रुसंबंधिसु निरोधेषु वह्निर्वोढा पास्त्यस्य पस्त्ये गृहे वसता
+> यजमानेन होताह्वाता दुरोषा दुस्तरक्रोधो य इंद्रो महान्प्रभूतो
+> भवति । स आयाश्विति ॥
+
+##### Gist of the bhāṣya
+
+Dhiṣaṇyantaḥ: desiring *dhiṣaṇāṃ*, praise directed to Indra. Auśija: उशिजः (*uśijaḥ*) are priests who desire (the sacrifice); the sacrificer related to them is *auśijaḥ*. The people sitting in his house (गोहे (*gohe*) = गृहे (*gṛhe*)). अद्रिं (*adriṃ*): Indra, because he breaks (*ādṛṇāti*) his enemies. If those people, with praise, approach (सरण्यान् (*saraṇyān*) = उपागच्छेयुः (*upāgaccheyuḥ*)) that Indra, then let that Indra come. Let that Indra come who is great and abundant, our bearer (वह्निः (*vahniḥ*) = वोढा (*voḍhā*)) in the संवरणेषु (*saṃvaraṇeṣu*), the blockades set by enemies; who is invoked as hotṛ by the sacrificer dwelling in the house (पास्त्यस्य (*pāstyasya*) = पस्त्ये गृहे वसता (*pastye gṛhe vasatā*)); and who is दुरोषा (*duroṣā*), of hard-to-cross anger.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धिषण्यंतः (*dhiṣaṇyaṃtaḥ*)—those who wish to praise Indra
+- औशिजस्य (*auśijasya*)—of the sacrificer related to the priests
+- गोहे (*gohe*)—in the sacrificial house
+- सदंतः (*sadaṃtaḥ*)—who sit; the praisers
+- अद्रिं (*adriṃ*)—Indra, destroyer of enemies
+- धिषा (*dhiṣā*)—with praise
+- यदि (*yadi*)—when
+- सरण्यान् (*saraṇyān*)—they approach (then)
+- आ (यातु) (*ā (yātu)*)—let Indra graciously come
+- संवरणेषु (*saṃvaraṇeṣu*)—at the time of fighting with enemies
+- नः (*naḥ*)—our
+- वह्निः (*vahniḥ*)—bearer (protector)
+- पास्त्यस्य (*pāstyasya*)—for the sacrificer who is in the sacrificial house
+- होता (*hotā*)—who is the hotṛ
+- दुरोषाः (*duroṣāḥ*)—whose anger cannot be checked
+- यः (*yaḥ*)—which Indra
+- महान् (*mahān*)—is endowed with great qualities (let that Indra come graciously)
+
+##### भावार्थ (Bhāvārtha)
+
+When the praisers, who wish to praise Indra and sit in the sacrificial house of the sacrificer related to the priests, approach with praise Indra, the destroyer of enemies, then let Indra come to us. Let that Indra come who, endowed with great qualities, is our protector at the time of fighting with enemies, the hotṛ for the sacrificer, and one whose anger cannot be checked.
+
+##### English translation (H. H. Wilson)
+When the repeaters of (his) commendations, abiding in the dwelling of the worshipper, approach Indra with praise, may he who is our (great) sustainer in conflicts, whose wrath is difficult to be (appeased), become the ministering priest of the master of the house.
+
 ---
 
-**Progress note:** Done through printed p. 75. pp. 69-75 (batch API)
+**Progress note:** Done through printed p. 82. pp. 76-82 (batch API)
