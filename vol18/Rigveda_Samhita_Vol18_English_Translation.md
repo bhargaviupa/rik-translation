@@ -26799,6 +26799,299 @@ When he seized upon the (confining) girdle of the aggregated (world), then, brig
 > *yadīṃ suvāte uṣasā virūpe śveto vājī jāyate agre*  
 > *ahnāṃ ‖ 4 ‖*
 
+### Printed p. 716
+#### Ṛk 4 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । अच्छ । देवयतां । मनांसि । चक्षूंषिइव । सूर्ये । सं । चरंति ।  
+> यत् । ईं । सुवाते इति । उषसा । विरूपे इति विरूपे । श्वेतः । वाजी । जायते।  
+> अग्रे । अह्नां ॥ ४ ॥
+
+> *agniṃ | accha | devayatāṃ | manāṃsi | cakṣūṃṣiiva | sūrye | saṃ | caraṃti |*  
+> *yat | īṃ | suvāte iti | uṣasā | virūpe iti virūpe | śvetaḥ | vājī | jāyate|*  
+> *agre | ahnāṃ ‖ 4 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं देवमच्छाभिमुख्येन देवयतां देवानात्मन इच्छतां यजमानानां
+> मनांसि सं चरंति । देवा यष्टव्यास्तदर्थं कदायं वर्धिष्यतीति ध्यायंतीत्यर्थः ।
+> चक्षूंषीव सर्वॆषां प्राणिनां यथा सूर्ये संचरंति तद्वत् । यद्यदेमेनमग्निमुषसा सह विरूपे नानारूपे द्यावापृथिव्य सुवाते । जनयतः । तदानीं
+> श्वेतः प्रकृष्टवर्णोपेतो वाजी वेजनवानग्निरह्नामग्र उदयकाले जायिते ।
+> प्रवर्धत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The minds of the sacrificers who desire the gods for themselves move together (सं चरंति (*saṃ caraṃti*)) towards Agni, facing him. The sense is that they meditate: "The gods are to be worshipped; when will he grow strong for that purpose?" They move as the eyes of all living beings move towards the sun. When heaven and earth, of many forms, bring forth this Agni together with Uṣas, then Agni, white (of excellent colour) and swift (वाजी (*vājī*), possessing speed), is born at the beginning of the days, at the time of sunrise. The meaning is that he grows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्ये (*sūrye*)—fixed on the sun
+- चक्षूंषीव (*cakṣūṃṣīva*)—like the eyes (of men)
+- देवयतां (*devayatāṃ*)—of the sacrificers who wish to gain the favour of the gods
+- मनांसि (*manāṃsi*)—the minds
+- अग्निं अच्च (*agniṃ acca*)—facing Agni
+- सं चरंति (*saṃ caraṃti*)—move about
+- विरूपे (*virūpe*)—heaven and earth, of many forms
+- यत् (*yat*)—when
+- ईं (*īṃ*)—this Agni
+- उषसा सह (*uṣasā saha*)—together with Uṣas
+- सुवते (*suvate*)—bring forth (then)
+- श्वेतः (*śvetaḥ*)—possessing excellent colour
+- वाजी (*vājī*)—swift
+- अह्नां अग्रे (*ahnāṃ agre*)—at the time of sunrise
+- जायते (*jāyate*)—is born
+
+##### भावार्थ (Bhāvārtha)
+
+Like the eyes of men fixed on the sun, the minds of the sacrificers who wish to gain the favour of the gods move facing Agni. As soon as heaven and earth, of many forms, bring forth this Agni together with Uṣas, Agni, of excellent colour and swift, is born at the time of sunrise.
+
+##### English translation (H. H. Wilson)
+The minds of the devout turn to Agni, as the eyes (of mcn) look
+towords the the sun : when the multiform (heaven and earth) bring him
+forth along with the dawn, he is born as a white courser in the beginning
+of the days.
+
+### Printed p. 717
+
+##### विशेषविषयगळु (Special Topics)
+
+"The minds of those who wish for the gods move towards Agni, like eyes in the sun": as people who wish to see the sun lift their eyes and look up, so people who wish to worship the gods in the sacrificial fire stand facing Agni and look at Agni alone, with the eager thought, "When will this Agni blaze up well to receive the oblation in the sacrifice?" This is the meaning.
+"When heaven and earth, of many forms, bring forth together with Uṣas, the white swift one is born at the beginning of the days": heaven and earth, accompanied by things of many forms, produce at the time of dawn both Uṣas and Agni. That is, Agni is established at dawn itself. At such a time, that is in the morning, he quickly spreads in the firewood and the like, and shines brilliantly.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जनि॑ष्ट॒ हि जेन्नो॒ अग्रे॒ अह्नां॑ हि॒तो हि॒तेश्व॑रु॒षो वने॑षु ।  
+> दमे॑दमे स॒प्त रत्ना॒ दधा॑नो॒ऽग्नि होता॒ नि ष॑सादा॒ यजी॑यान् ॥ ५ ॥
+
+> *janiṣṭa hi jenno agre ahnāṃ hito hiteśvaruṣo vaneṣu |*  
+> *damedame sapta ratnā dadhāno 'gni hotā ni ṣasādā yajīyān ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनिष्ट । हि । जेन्यः । अग्रे । आह्नां । हितः । हितेषु । अरुषः । वनेषु ।  
+> दमेदमे । सप्त । रत्ना । दधानः । अग्निः । होता । नि । ससाद । यजीयान् ॥ ५ ॥
+
+> *janiṣṭa | hi | jenyaḥ | agre | āhnāṃ | hitaḥ | hiteṣu | aruṣaḥ | vaneṣu |*  
+> *damedame | sapta | ratnā | dadhānaḥ | agniḥ | hotā | ni | sasāda | yajīyān ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्जेन्य उत्पादनीयोऽह्नामग्र उदयकाले जनिष्ट । प्रादुरभूत् ।
+> पश्चात् हितेषु वनेषु वनोत्थेषु काष्ठॆष्टरुष आरोचमानः सन् हितः । स्थापितः ।
+> पश्चाद्दमे दमे तत्तद्यागगृहे सप्त रत्ना रमणीयाः सप्त ज्वाला दधानो
+> धारयमाणः । अथवा यजमानेभ्यः सप्तविधानि रत्नानि दधानोऽग्निर्होता
+> होमनिष्पादकः सन् यजीयान्यष्टव्यः सन् नि षसाद । निषण्णो भवति ॥
+
+##### Gist of the bhāṣya
+
+This Agni, fit to be produced (जेन्यः (*jenyaḥ*)), was born at the beginning of the days, at sunrise; he appeared. Afterwards he was established, shining in the friendly woods, that is, in firewood from the forest. Afterwards, in each house of sacrifice, he bears seven lovely (रत्ना (*ratnā*), "delightful") flames. Or else, bestowing seven kinds of jewels on the sacrificers, Agni, as hotā, the accomplisher of the oblation, and as one to be worshipped, sat down; that is, he is seated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जेन्यः (*jenyaḥ*)—Agni, fit to be born
+- अह्नां अग्रे (*ahnāṃ agre*)—at the time of sunrise
+- जनिष्ट (*janiṣṭa*)—was born (afterwards)
+- हितेषु (*hiteṣu*)—favourable to his spreading
+
+### Printed p. 718
+- वनेषु (*vaneṣu*)—in the woods
+- अरुषः (*aruṣaḥ*)—shining
+- हितः (*hitaḥ*)—has been established (afterwards)
+- दमेदमे (*damedame*)—in every house of sacrifice
+- सप्तरत्ना (*saptaratnā*)—his seven lovely flames
+- दधानः (*dadhānaḥ*)—bearing
+- अग्निः (*agniḥ*)—Agni
+- होता (*hotā*)—as the accomplisher of the oblation
+- यजीयान् (*yajīyān*)—as worthy of sacrifice
+- निषसाद (*niṣasāda*)—is seated (has sat down)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, fit to be born, becomes manifest at sunrise and first is established in the forest wood and the like that favour his spreading. Then, in every house of sacrifice, bearing his seven lovely flames, he is seated as the accomplisher of the oblation and as one worthy of sacrifice.
+
+##### English translation (H. H. Wilson)
+(Agni), capable of birth, is born in the beginning of the days ; radiant, he is deposited in the friendly woods, and then the adorable Agni, the offerer of the oblation, displaying seven precions (rays), is seated in every house.
+
+##### विशेषविषयगळु (Special Topics)
+
+जेन्यः अह्नां अग्रे जनिष्ट (*jenyaḥ ahnāṃ agre janiṣṭa*), हितेषु वनेषु अरुषः (*hiteṣu vaneṣu aruṣaḥ*): this Agni, to be produced, appeared at sunrise; afterwards he was established shining in firewood grown in the forest. Established in the sacrificial pit in the morning itself for the sake of the sacrifice, this Agni spreads in the wood and the like that are laid down so that he may kindle well; that is, burning the wood and the like, he shines blazing.
+Afterwards, in each house of sacrifice, bearing the lovely seven flames, or bestowing seven kinds of jewels on the sacrificers, Agni, the accomplisher of the oblation, is seated, to be worshipped. This Agni then shines in every house of sacrifice with his seven kinds of flames, or shines as the giver of seven kinds of jewels to the sacrificers who perform the sacrifice. Thus Agni, the accomplisher of the oblation, sits in the fire-pit for the conduct of the sacrifice, that is, he shines. In the Purāṇas and elsewhere the seven kinds of flames of Agni have names such as Kālī and Karālī; these flames are also called the tongues of Agni.
+
+### Printed p. 719
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्होता॒ न्य॑सीद॒द्यजी॑यानु॒पस्थे॑ मा॒तुः सु॑र॒भा उ॑  ॒
+> लोके ।  
+> युवा॑ क॒विः पु॑रुनिः॒ष्ठ ऋ॒तावा॑ ध॒र्ता कृ॑ष्टी॒नामु॒त मध्य॑  ॒
+> इद्धः ॥ ६ ॥
+
+> *agnirhotā nyasīdadyajīyānupasthe mātuḥ surabhā u*  
+> *loke |*  
+> *yuvā kaviḥ puruniḥṣṭha ṛtāvā dhartā kṛṣṭīnāmuta madhya*  
+> *iddhaḥ ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । होता । नि । आसीदत् । यजीयान् । उपस्थे । मातुः । सुरभौ । ऊं  
+> इति । लोके ।  
+> युवा । कविः । पुरुनिःस्थः । ऋतवा । धर्ता । कृष्टीनां । उत । मध्ये । इद्दः ॥ ६ ॥
+
+> *agniḥ | hotā | ni | āsīdat | yajīyān | upasthe | mātuḥ | surabhau | ūṃ*  
+> *iti | loke |*  
+> *yuvā | kaviḥ | puruniḥsthaḥ | ṛtavā | dhartā | kṛṣṭīnāṃ | uta | madhye | iddaḥ ‖ 6 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जीवति यजमाने मृत इति शब्दो यदि स्यात्तदानीं सुरभिमतीष्टिः कार्या।
+> तत्रेयमनुवाक्य । सूत्रितं च । अग्निर्होता न्यसीदद्यजीयान्ताध्वीमकर्देववितिं नो आद्य । ऐ. ब्रां. ७_९ । इति ॥
+> अयमग्निर्होता होमनिष्पादकः सन् यजीयान्यष्टव्यश्च सन् न्यसीदत् ।
+> निषसाद । कुत्रेति तदुच्यते। मातुः सर्वस्य निर्मातुर्भूम्या उपस्थ उत्संगे तत्रापि
+> सुरभावाज्यादिसौरभ्ययुक्ते लोके सर्वैर्द्रष्टव्ये स्थाने वेदिलक्षणे । उतापि च
+> युवा नित्यतरुणः सर्वत्र मिश्रितो ना कविर्मधावी पुरुनिःष्ठो बहुस्थान ऋतावा
+> यज्ञवान्धर्ता सर्वस्य धारक एवंभूतः सन् कृष्णीनामृत्विग्यजमानानां मध्य इद्दः
+> समिद्धः सन् वर्तत इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+If, while the sacrificer is alive, the report "he is dead" should arise, the Surabhimatī iṣṭi is to be performed. This verse is the anuvākyā there. It is prescribed (in the sūtra): अग्निर्होता न्यसीदद्यजीयान्ताध्वीमकर्देववितिं नो आद्य (*agnirhotā nyasīdadyajīyāntādhvīmakardevavitiṃ no ādya*) (Ai. Brā. 7-9). This Agni, being hotā, the accomplisher of the oblation, and worthy of worship, sat down. Where? That is stated: in the lap (उपस्थे (*upasthe*)) of the mother, the maker of all, namely the earth; and there in a place (लोके (*loke*)) fragrant with the scent of ghee and the like, a place that all should see, which is marked as the altar. And further, he is ever young, मिश्रितो ना (*miśrito nā*) **NOTE**, wise (कविः (*kaviḥ*), intelligent), many-stationed (पुरुनिःष्ठ (*puruniḥṣṭha*)), possessed of the sacrifice (ऋतावा (*ṛtāvā*)), the supporter of all. Being such, he is kindled amid the men (कृष्टीनां (*kṛṣṭīnāṃ*): the priests and sacrificers); "he is" (वर्तत (*vartata*)) is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- होता (*hotā*)—as the accomplisher of the oblation
+- यजीयान् (*yajīyān*)—as worthy of sacrifice
+- मातुः (*mātuḥ*)—of his mother, the earth
+- उपस्थे (*upasthe*)—which is like the lap
+- सुरभौ (*surabhau*)—fragrant
+- लोके (*loke*)—on the sacrificial altar
+- न्यसीदत् (*nyasīdat*)—has sat down
+- उत (*uta*)—and
+- युवा (*yuvā*)—ever young
+- कविः (*kaviḥ*)—wise
+- पुरुनिष्ठः (*puruniṣṭhaḥ*)—stationed in many places
+- ऋतावा (*ṛtāvā*)—possessed of the sacrifice
+- धर्ता (*dhartā*)—the supporter of the whole world
+- कृष्णीनां (*kṛṣṇīnāṃ*)—of the sacrificers and others
+- मध्यॆ (*madhyè*)—in the midst
+- इद्दः (*iddaḥ*)—is kindled
+
+### Printed p. 720
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, being the accomplisher of the oblation and worthy of sacrifice, has sat down on the sacrificial altar, which is like the lap of his mother the earth and is fragrant. And, ever young, wise, stationed in many places, possessed of the sacrifice and the supporter of the whole world, he is kindled in the midst of the priests, the sacrificer and the others.
+
+##### English translation (H. H. Wilson)
+The adorable Agni, the offerer of the oblation has sat down in
+a fragrant place on the top of his mother (earth) : youthful, wise, many-
+stationed, the celebrator of sacrifice, the sustainer (of all), kindled
+(he abides) amongst men.
+
+##### विशेषविषयगळु (Special Topics)
+
+If the report spreads that the sacrificer, though alive, has died, the iṣṭi called Surabhimatī must be performed to remove that fault. Then, at the time of the oblation, this Ṛk beginning अग्निर्होता (*agnirhotā*) is to be recited as the anuvākyā mantra; so the Aitareya Brāhmaṇa sentence अग्निर्होता न्यसीदद्यजीयान्ताध्वीमकर्देवनीतिं नो आद्य (*agnirhotā nyasīdadyajīyāntādhvīmakardevanītiṃ no ādya*) directs (Ai. Brā. 7-9). **NOTE**
+Agni is kindled for the oblation. On the sacrificial altar, which is pure, clean and endowed with a good fragrance, Agni shines well. Around this Agni the priests and the sacrificer have gathered for the sacrifice. This Agni is able to be present at one time in many houses of sacrifice; he is the chief means of the sacrifice, and the protector of the world or of the sacrifice. Such is the main purport of this Ṛk: Agni, endowed with such qualities, shines kindled on the sacrificial altar.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र णु त्यं विप्र॑मध्व॒रेषु॑ सा॒धुम॒ग्निं होता॑रमीळते॒  ॑
+> नमोभिः ।  
+> आ यस्त॒तान॒ रोद॑सी ऋ॒तेन॒ नित्यं॑ मृजंति वा॒जिनं॑ घृ॒तेन॑ ॥
+
+> *pra ṇu tyaṃ vipramadhvareṣu sādhumagniṃ hotāramīḷate*  
+> *namobhiḥ |*  
+> *ā yastatāna rodasī ṛtena nityaṃ mṛjaṃti vājinaṃ ghṛtena ‖*
+
+### Printed p. 721
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नु । त्यं । विप्रं । अध्वरेषु । साधुं । अग्निं । होतारं । ईळते । नमःभिः ।  
+> आ । यः । ततान । रोदसी इति । ऋतेन । नित्यं । मृजंति । वाजिनं । घृतेन ॥ ७ ॥
+
+> *pra | nu | tyaṃ | vipraṃ | adhvareṣu | sādhuṃ | agniṃ | hotāraṃ | īḷate | namaḥbhiḥ |*  
+> *ā | yaḥ | tatāna | rodasī iti | ṛtena | nityaṃ | mṛjaṃti | vājinaṃ | ghṛtena ‖ 7 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यं तमग्निं नमोभिः स्तुतिभिर्नु क्षिप्रं प्रेळते । स्तुवंति । कीदृशं तं । विप्रं
+> मेधाविनमध्वरेषु साधुं फलसाधकं होतारं होमनिष्पादकं । यो देवो
+> रोदसी द्यावापृथिव्यावृतेनोदकेना ततान । विस्तारितवान् । अग्नौ प्रास्ताहुतेरादित्यद्वारा वृष्टुत्पादकत्वात् । अथवा ऋतेन सत्यभूतेन हविषा दिवं तथाभूतेन
+> वृष्ट्यादिफलेन भुवं चा ततान । वाजिनमन्नवंतं देवं यजमाना नित्यं
+> घृतेनोदकेनाज्येन वा मृजंति । परिचरंति ॥
+
+##### Gist of the bhāṣya
+
+They praise (ईळते (*īḷate*)) that Agni quickly (नु (*nu*), "quickly") with praises (नमोभिः (*namobhiḥ*)). What sort of Agni? Wise (विप्रं (*vipraṃ*)), efficacious in sacrifices (साधुं (*sādhuṃ*): the accomplisher of fruit), the hotā, the accomplisher of the oblation. The god who spread out (आ ततान (*ā tatāna*)) heaven and earth (रोदसी (*rodasī*)) with ṛta, that is, with water, because the oblations cast into the fire produce rain through the Āditya. Or else, with ṛta as true oblation, he spread heaven, and with the result of that kind, rain and the like, he spread the earth. The sacrificers ever serve (मृजंति (*mṛjaṃti*)) the god possessed of food (वाजिनं (*vājinaṃ*)) with ghee (घृतेन (*ghṛtena*)), which is water or ājya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Agni who
+- रोदसी (*rodasī*)—heaven and earth
+- ऋतेन (*ṛtena*)—with water (or with the oblation of the nature of truth)
+- आ ततान (*ā tatāna*)—made to extend
+- त्यं (*tyaṃ*)—such
+- विप्रं (*vipraṃ*)—wise
+- अध्वरेषु (*adhvareṣu*)—in sacrifices
+- साधुं (*sādhuṃ*)—the accomplisher of fruit
+- होतारं (*hotāraṃ*)—the accomplisher of the oblation
+- अग्निं (*agniṃ*)—Agni
+- नमोभिः (*namobhiḥ*)—with praises
+- नु (*nu*)—quickly
+- ईळते (*īḷate*)—they praise
+- वाजिनं (*vājinaṃ*)—Agni, possessed of food
+- नित्यं (*nityaṃ*)—every day
+- धृतेन (*dhṛtena*)—with ghee **NOTE**
+- मृजंति (*mṛjaṃti*)—they attend and worship
+
+##### भावार्थ (Bhāvārtha)
+
+They extol with praises the Agni who made both heaven and earth extend by the oblation of the nature of truth and also by rain; such is he, wise, the accomplisher of fruit in sacrifices, the accomplisher of the oblation. And they attend every day, with ghee, on Agni, the possessor of food.
+
+##### English translation (H. H. Wilson)
+They glorify at present with hymns that Agni, who is intelligent, the fullfiller (of desires) at sacrifices, the offerer of oblations, who has charged heaven and earth with water, and whom they always worship with clarified butter as the bestower of food.
+46
+
+### Printed p. 722
+
+##### विशेषविषयगळु (Special Topics)
+
+यः रोदसी ऋतेन आ ततान (*yaḥ rodasī ṛtena ā tatāna*): the god (Agni) extended heaven and earth with water, अग्नौ प्रास्ताहुतेरादित्यद्वारा वृष्टुत्पादकत्वात् (*agnau prāstāhuterādityadvārā vṛṣṭutpādakatvāt*). Or else: अथवा ऋतेन सत्यभूतेन हविषा दिव्यं तथाभूतेन वृष्ट्यादिफलेन भुवं च आ ततान । (*athavā ṛtena satyabhūtena haviṣā divyaṃ tathābhūtena vṛṣṭyādiphalena bhuvaṃ ca ā tatāna |*). Sāyaṇa has explained this sentence in two ways. Agni (also the lightning fire) made heaven and earth (the earth and the atmosphere) extend and be pervaded with the water of rain. Or, the oblations offered in Agni reach the Āditya in heaven and satisfy him; and through the Āditya the earth and the atmosphere were pervaded by the water of rain. This is one kind of meaning.
+Or, if the word ṛta is taken to mean truth, then by the oblation of the nature of truth, that is, by the oblations and the like offered in the fire, heaven is satisfied, that is, the gods who are in heaven. Thus, when oblations are offered, the gods are pleased and provide the earth with the fruit in the form of rain. So the earth too is satisfied. In this way it is described here that Agni pervaded both heaven and earth.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा॒र्जा॒ल्यो॑ मृज्यते॒ स्वे दमू॑नाः कविप्रश॒स्तो अति॑थिः शि॒वो  ॑
+> नः ।  
+> स॒हस्र॑शृंगो वृष॒भस्तदो॑जा॒ विश्वा॑ अग्ने॒ सह॑सा॒ प्रास्य॒न्यान् ॥
+
+> *mārjālyo mṛjyate sve damūnāḥ kavipraśasto atithiḥ śivo*  
+> *naḥ |*  
+> *sahasraśṛṃgo vṛṣabhastadojā viśvā agne sahasā prāsyanyān ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मार्जाल्यः । मृज्यते । स्वे । दमूनाः । कविप्रशस्तः । अतिथिः । शिवः । नः ॥  
+> सहस्रशृंगः । वृषभः । तत्ओजाः । विश्वान् । अग्ने । सहसा । प्र । असि । अन्यान् ॥ ८ ॥
+
+> *mārjālyaḥ | mṛjyate | sve | damūnāḥ | kavipraśastaḥ | atithiḥ | śivaḥ | naḥ ‖*  
+> *sahasraśṛṃgaḥ | vṛṣabhaḥ | tatojāḥ | viśvān | agne | sahasā | pra | asi | anyān ‖ 8 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मार्जाल्यः संमार्जनीयोऽयमग्निर्मृज्यते । परिचर्यते । स्वे स्वकीये
+> स्थाने । कीदृशोऽयं । दमूना दानमना दांतमना वा कविप्रशस्त्रः कविभिर्मेधा-
+
+##### Gist of the bhāṣya
+
+Agni is to be cleansed (मार्जाल्यः (*mārjālyaḥ*)); he is cleansed, that is, attended, in his own place. What is he like? दमूना (*damūnā*): of a giving mind or of a controlled mind; कविप्रशस्तः (*kavipraśastaḥ*): praised by the poets, the wise … (the block breaks off here; the next window continues it).
+
 ---
 
-**Progress note:** Done through printed p. 715. pp. 710-715 (batch API)
+**Progress note:** Done through printed p. 722. pp. 716-722 (batch API)
