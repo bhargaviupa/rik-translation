@@ -23,7 +23,7 @@ You translate one window (about 6 printed pages) of the Kannada Ṛgveda edition
 [[b2]]
 **Sāyaṇa-bhāṣya**
 [[b3]]
-*Gist:* ≤ 25 words of what Sāyaṇa says (from his Sanskrit; the grammatical tail is not explained).
+*Gist:* what Sāyaṇa says in this block, in English, covering most of it (see below).
 **Pratipadārtha**
 - ⟦ಮಾತರಿಶ್ವಾ⟧—the wind
 - ⟦ಏನಂ⟧—this (Agni)
@@ -47,7 +47,15 @@ Faithful English of the Kannada; every Sanskrit quotation in full as ⟦…⟧ w
 - Render the Kannada grammar page (ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ) **completely** as plain śāstric Sanskrit: one list line per word treated, the headword first, then the derivation in short sentences ending in `।`. Write it in **Kannada script inside `⟪ ⟫`**; the script turns it into Devanagari (no transliteration, no English).
 - Every root, affix, augment, gaṇa name, technical term, sūtra text and reference (`(ಪಾ. ಸೂ. ೬-೧-೧೮೯)`, digits as printed) is **copied from kn.md letter for letter**; only the Kannada connecting words and verbs (ಎಂಬುದರಿಂದ, ಬರುತ್ತದೆ, ಆಗುತ್ತದೆ …) become Sanskrit (…इति, …भवति, ablative of cause). Add nothing, drop nothing, do not improve the grammar; a step you cannot follow gets `**NOTE**{…}` after its line (outside the `⟪ ⟫`).
 - No English and no `⟦ ⟧` inside the Grammar section.
-- The bhāṣya block is printed in Devanagari only (no transliteration: the script does that); your *Gist* line stays.
+- The bhāṣya block is printed in Devanagari only (no transliteration: the script does that).
+
+## The Gist covers most of the bhāṣya (user decision, Nov 11 2026)
+After every bhāṣya block write `*Gist:*` followed by a faithful English account of what Sāyaṇa says **in that block**, in his order, as one or more plain paragraphs. It is the reader's only English for the bhāṣya, so it is no longer a one-line summary:
+- **Include:** the ritual use he states (viniyoga) with the sūtra he cites; who is addressed and what is asked; his gloss of each word or phrase of the verse; every alternative explanation (`ಯದ್ವಾ`, "or else"); each authority he quotes (Nirukta, a Brāhmaṇa, another Ṛk), named with its reference as printed; for a sūkta's introduction block: the seer, deity, metre and use.
+- **Leave out:** the grammatical tail (derivations, accent rules, Pāṇini sūtras): the Grammar section carries the grammar.
+- Length follows the block: usually 60–200 words; a long introduction or a discussion may need more. Do not pad, do not add what he does not say, do not explain him.
+- Work from Sāyaṇa's Sanskrit in the block itself, not from the Kannada Pratipadārtha; where the two differ, follow Sāyaṇa and put `**NOTE**{…}` there. A Sanskrit word you keep in the Gist is copied inside `⟦ ⟧` from the block. A sentence of his that you cannot construe (the machine-read Sanskrit is sometimes damaged) is not guessed: say what is clear and put `**NOTE**{…}` with the words concerned.
+- A block that continues from the previous window gets a Gist of the part that stands in this window.
 
 ## Rules that are never bent
 - The supplied text is the base. **Never correct a letter or number from memory or from another edition.** What you cannot settle gets `**NOTE**{…}`.
