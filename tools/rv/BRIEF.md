@@ -42,7 +42,9 @@ Faithful English of the Kannada; every Sanskrit quotation in full as ⟦…⟧ w
 
 ## Rules that are never bent
 - The supplied text is the base. **Never correct a letter or number from memory or from another edition.** What you cannot settle gets `**NOTE**{…}`.
-- Where the print gives no number, write none. References as in kn.md, in Latin digits. Reference abbreviations already corrected by script: write `Ni.`, `Ṛ. Saṃ.`, `Ai. Brā.`.
+- Where the print gives no number, write none. References as in kn.md, in Latin digits, **the abbreviation in Latin letters** (no Kannada script anywhere in the English text; the gate refuses it):
+  ಋ. ಸಂ. Ṛ. Saṃ. · ನಿ. Ni. · ಪಾ. ಸೂ. Pā. Sū. · ಉ. ಸೂ. Uṇ. Sū. · ಫಿ. ಸೂ. Phi. Sū. · ಪಾ. ಶಿ. Pā. Śi. · ಐ. ಬ್ರಾ. Ai. Brā. · ಐ. ಆ. Ai. Ā. · ಐ. ಉ. Ai. U. · ತೈ. ಸಂ. Tai. Saṃ. · ತೈ. ಬ್ರಾ. Tai. Brā. · ತೈ. ಆ. Tai. Ā. · ಶ. ಬ್ರಾ. Śa. Brā. · ತಾ. ಬ್ರಾ. Tā. Brā. · ವಾ. ಸಂ. Vā. Saṃ. · ಮೈ. ಸಂ. Mai. Saṃ. · ಸಾ. ಸಂ. Sā. Saṃ. · ಅಥ. ಸಂ. Atha. Saṃ. · ಛಾ. ಉ. Chā. U. · ಬೃ. ಉ. Bṛ. U. · ಆ. ಸೂ. / ಆ. Ā. Sū. (Āśvalāyana) · ಆಪ. ಸೂ. Āpa. Sū. · ಜೈ. ಪೂ. ಸೂ. Jai. Pū. Sū. · ಬ್ರ. ಸೂ. Bra. Sū. · ವೇ. ಸೂ. Ve. Sū. · ಮ. ಭಾ. Ma. Bhā. · ಮ. ಸ್ಮೃ. Ma. Smṛ. · ಯಾ. ಸ್ಮೃ. Yā. Smṛ. · ವಾ. ಪು. Vā. Pu. · ವಿ. ಪು. Vi. Pu. · ಬೃ. ದೇ. Bṛ. De.
+  An abbreviation that is not in this list, or looks misread: transliterate it letter for letter into Latin letters and add `**NOTE**{abbreviation ಕರ. printed}`.
 - Sanskrit is quoted in full, never summarised: the last words, printed abridgement dots `.... ....` and the closing danda belong to the quotation; a Sanskrit phrase such as `ಇತಿ ಚ ಬ್ರಾಹ್ಮಣಂ` is quoted, not turned into English.
 - **Do not translate a Sanskrit quotation that the Kannada does not translate**; render only the Kannada's own explanation. No English gloss in parentheses after a Sanskrit word unless the Kannada gives one.
 - Check who does what before writing a sentence with two actors (who helps whom, whose attribute it is); technical terms exactly (ādyudātta is not anudātta, a sautra root is not "Saura"). The Gist follows Sāyaṇa's Sanskrit where it and the Kannada gloss differ (and that place gets a NOTE).

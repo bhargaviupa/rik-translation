@@ -161,6 +161,8 @@ def cmd_check(a):
                         (r'(?m)^\*\[|\*\[[^\]]*\]\*','translator remarks in italic brackets *[…]* are not written into the English text: drop them, or use **NOTE**{detail} where a decision is needed'),
                         (r'(?i)as supplied|as printed|running head','no remarks such as "as supplied" / "Running head" in the English text (the Kannada file keeps the heads and stray lines)')):
             if re.search(pat,en): fail.append(msg)
+        kk=re.findall('[ಀ-೿]+',enf)
+        if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{…}')
     dk,de=doubts(kn),doubts(enf)
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     pdfs=[p['pdf'] for p in pg if p.get('pdf')]; res=numerals.check(cfg,pdfs,kn,en) if cfg.numeral_files() else numerals.check(cfg,[],kn,en,rows=[])
