@@ -329,8 +329,10 @@ def cmd_commit(a):
         assert i>len(s)-20000,'progress note not near the end'; s=s[:i].rstrip('\n').rstrip('-').rstrip('\n')
     pdf=f" (PDF {last['pdf']})" if last.get('pdf') else ''
     s=s+'\n\n'+enf+f"\n\n---\n\n**Progress note:** Done through printed p. {last['printed']}{pdf}. {note}\n"
+    if cfg.d.get('layout')=='subheads': s,_=rk_headings(s)      # whole file: a Ṛk that continues over the window boundary gets '(continued)' (Vol 18 w0076, w0101)
+    k=rd(cfg.kn); assert not re.search(rf"<!-- printed {pg[0]['printed']}[ :]",k),'Kannada file already has this window'      # checked BEFORE the English is written
     assert s.count('**Progress note:**')==1 and len(s)>=n0-2000; wr(cfg.en,s)
-    k=rd(cfg.kn); assert not re.search(rf"<!-- printed {pg[0]['printed']}[ :]",k),'Kannada file already has this window'; wr(cfg.kn,k.rstrip('\n')+'\n\n'+knf+'\n')
+    wr(cfg.kn,k.rstrip('\n')+'\n\n'+knf+'\n')
     sec=rd(os.path.join(w,'section_end.txt')).strip() if os.path.exists(os.path.join(w,'section_end.txt')) else ''
     os.makedirs(cfg.work,exist_ok=True); wr(state_path(cfg),json.dumps({'section':sec or None,'printed':last['printed']}))
     rng=f"printed pp. {pg[0]['printed']}-{last['printed']}"

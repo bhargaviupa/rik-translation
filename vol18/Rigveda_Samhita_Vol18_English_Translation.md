@@ -3326,7 +3326,7 @@ Here it is said that Indra by his strength made heaven and earth tremble. Likewi
 विश्वा (*viśvā*) means all रोधांसि (*rodhāṃsi*). By the word रोधः (*rodhaḥ*) elevated places are meant, that is, mountains. पूर्वीः (*pūrvīḥ*) means many. प्रवतः (*pravataḥ*) are low places, that is, oceans. The explanation of द्यौः (*dyauḥ*) begins at the end of the block, which breaks off here.
 
 ### Printed p. 101
-#### Ṛk 4
+#### Ṛk 4 (continued)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
