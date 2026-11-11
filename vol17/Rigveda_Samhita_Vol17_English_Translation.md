@@ -18138,6 +18138,133 @@ In this mantra both the sun's sphere of radiance, perceptible to ordinary sight,
 
 In this commentary, by बोधप्रकाशाभ्यां उपकुर्वाणं (*bodhaprakāśābhyāṃ upakurvāṇaṃ*) two benefits of the sun's radiance are shown: first, the physical light needed for worldly affairs; second, the inner light that helps spiritual knowledge, that is, divine knowledge. Both benefits are possible through Savitṛ's bhargas. The commentary of Mahīdharācārya on this same mantra in the Śukla-yajus-saṃhitā is as follows—
 
+### Printed p. 567
+
+In this bhāṣya the words *bodhaprakāśābhyāṃ upakurvāṇaṃ* show two benefits of Āditya's radiance. The first is the physical light needed for worldly activity. The second is the inner light that helps spiritual knowledge, that is, divine knowledge. Both benefits are possible through the Bharga of Savitṛ. Mahīdhara Ācārya's commentary on this same mantra in the Śukla Yajus Saṃhitā runs as follows:
+
+सवितुः प्रेरकस्यांतर्यामिणो विज्ञानानंदस्वभावस्य हिरण्यगर्भोपाध्यवच्छिन्नस्य वा आदित्यांतरपुरुषस्य वा ब्रह्मणः भर्गः पापानां भर्जनसमर्थं तेजः सत्यज्ञानानन्दादिवेदान प्रतिसाद्यं वयं ध्यायामः ॥ (*savituḥ prerakasyāṃtaryāmiṇo vijñānānaṃdasvabhāvasya hiraṇyagarbhopādhyavacchinnasya vā ādityāṃtarapuruṣasya vā brahmaṇaḥ bhargaḥ pāpānāṃ bharjanasamarthaṃ tejaḥ satyajñānānandādivedāna pratisādyaṃ vayaṃ dhyāyāmaḥ ‖*)
+
+It is a prayer: "We meditate on the divine radiance of the Supreme Brahman. He is the inner controller in all beings and the impeller of the world. He is addressed by names such as Hiraṇyagarbha, and he dwells within Āditya. That radiance destroys sins and is taught by the Vedānta in forms such as truth, knowledge and bliss."
+
+The radiance of Savitṛ of this kind is also well known under the names Sutejas and Sutatejas. The great radiance of which it is said
+
+उद्वयं तमसस्परि ज्योतिष्पश्यंत उत्तरं । देवं देवत्रा सूर्यमगन्म ज्योतिरुत्तमं ॥ (*udvayaṃ tamasaspari jyotiṣpaśyaṃta uttaraṃ | devaṃ devatrā sūryamaganma jyotiruttamaṃ ‖*) (Ṛ. Saṃ. 150-10) **NOTE**
+
+and so on in the Ṛk Saṃhitā, and in the Taittirīya Saṃhitā:
+
+अगन्न ज्योतिरुत्तममित्याहासौ वा आदित्यो ज्योतिरुत्तममादित्यस्यैव सायुज्यं गच्छति ॥ (*aganna jyotiruttamamityāhāsau vā ādityo jyotiruttamamādityasyaiva sāyujyaṃ gacchati ‖*) Tai. Saṃ. 5-1-8-6.
+
+This radiance of Āditya is the Supreme Light. One who has crossed the darkness of ignorance attains union with it. It is noteworthy that, as it is praised in the Taittirīya Saṃhitā, the Upaniṣads describe it as Sutejas, Sutatejas and so on. In एष वै सुतेजा आत्मा तस्मात्तव सुतं, प्रसुतमासुतं कुले जन्म (*eṣa vai sutejā ātmā tasmāttava sutaṃ, prasutamāsutaṃ kule janma*) (Chā. 5-12-1) **NOTE**, a relation of cause and effect is stated between the good radiance (sutejas) of Āditya and the constant pressing (suta) of Soma in the family that worships such a radiance. This point will be examined when the relation between Gāyatrī and Soma is explained. Here, the light that is praised in इदं श्रेष्ठं ज्योतिषां ज्योतिः (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotiḥ*) (1-113-1) and the like is, in the mantra under discussion, designated by the word Bharga. This Bharga is the light of the Supreme Brahman, which destroys ignorance.
+
+**(8) The Supreme Light of the Supreme Person is the Bharga of Savitṛ.**
+**(Objection and reply)**
+
+When the Bharga of Savitṛ is thus established as the Supreme Light of the Supreme Person, another objection may be expected. Just as there is an attempt to place Savitṛ in the group of lesser deities, a view may state its opinion in the form of this objection: that this great radiance too is only physical light. For example, the Supreme Light described in the Ṛk Saṃhitā as सूरमगन्म ज्योतिरुत्तमं (*sūramaganma jyotiruttamaṃ*) is praised in the Upaniṣads and elsewhere as अध यदतः परो दिवो ज्योतिः (*adha yadataḥ paro divo jyotiḥ*) (Chā. U. 2-13-7). Is this only the physical light of the sun? Or is it the divine light of the divine Person who dwells within Āditya?
+
+### Printed p. 568
+
+Where this doubt exists, the opponent says: "आदित्यादिकमेव ज्योतिश्येन परिगृह्यत इति (*ādityādikameva jyotiśyena parigṛhyata iti*) — we call this only the light of the sun, which is visible to the physical eye." (Bra. Sū., Śaṅkara-bhāṣya, 1-1-24).
+
+किं तावत्पाप्तं ? आदित्यादिकमेव ज्योतिश्यब्देन परिगृह्यत इति । कुतः प्रसिद्धेः । तमो ज्योतिरिति हीमौ शब्दौ परस्परप्रतिद्वंद्विविषयौ प्रसिद्धौ.... नहि चराचरबीजस्य ब्रह्मणः सर्वात्मकस्य द्यौर्मर्यादा युक्ता ॥ (*kiṃ tāvatpāptaṃ ? ādityādikameva jyotiśyabdena parigṛhyata iti | kutaḥ prasiddheḥ | tamo jyotiriti hīmau śabdau parasparapratidvaṃdviviṣayau prasiddhau.... nahi carācarabījasya brahmaṇaḥ sarvātmakasya dyaurmaryādā yuktā ‖*)
+
+The words "darkness" and "light" are things perceived by the eye. And since the light belongs to the sky, it cannot be of the nature of the Supreme Brahman, which is endless and undivided. The sky is limited and not all-pervading. Therefore the light bounded by such a sky is also limited and, unlike the Supreme Brahman, not all-pervading. Hence, says the opponent, there is a difference between these lights and Brahman. The conclusion that answers this is:
+
+नैष दोषः । सर्वत्रापि गम्यमानस्य ज्योतिषः परो दिवः इत्युपासनार्थः प्रदेशविशेषपरिग्रहो न विरुद्धते ॥ न तु निष्प्रदेशस्यापि ब्रह्मणः प्रदेशविशेषकल्पना भागिनी................ (*naiṣa doṣaḥ | sarvatrāpi gamyamānasya jyotiṣaḥ paro divaḥ ityupāsanārthaḥ pradeśaviśeṣaparigraho na viruddhate ‖ na tu niṣpradeśasyāpi brahmaṇaḥ pradeśaviśeṣakalpanā bhāginī................*)
+
+When the nature of the effect is being explained, it is not right to attribute identity with the principle of the cause and then to limit to a region the all-pervading Lord. As in passages such as तद्देवा ज्योतिषां ज्योतिरायुर्होपासतेऽमृतं (*taddevā jyotiṣāṃ jyotirāyurhopāsate 'mṛtaṃ*) (Bṛ. U. 4-4-16), it is argued from that context that the text points to the Supreme Light of the Supreme Person. From the commentator's explanation of the mantra beginning तत्त्ववितुः (*tattvavituḥ*) it is understood that this same purport applies here also to the Bharga of Savitṛ.
+
+**(9) To know the Bharga, which is the Supreme Light, the chief means is meditation in the form of reciting the Gāyatrī.**
+
+The prayer is: "Impel our intellect to realise directly, through meditation, the Supreme Light of Savitṛ, which lies beyond worldly perception." That is, the nature of the Supreme Light of the Supreme Brahman can be known only by meditation in the form of reciting the great Gāyatrī mantra. Śaṅkarācārya states this very matter in the introduction to the Gāyatrī section of the Chāndogya Upaniṣad:
+
+गायत्रीद्वारेण चोच्यते ब्रह्म सर्वविशेषरहितस्य “ नेति नेति ” इत्यादि विशेषप्रतिषेधगम्यस्य दुर्बोधत्वात् । सत्त्वनेकेषु छंदस्सु गायत्रा एव ब्रह्मज्ञानतयोपादानं प्राधान्यात् । सोमाहरणादितरच्छंदोक्षरा- हरणेनेतरच्छंदोव्याप्त्या च सर्वसवनव्यापकत्वाच्च यज्ञे प्राधान्यं गायत्र्याः । गायत्रीसारत्वाच्च ब्राह्मणस्य मातरमिव । हित्वा गुरुतरां गायत्रीं ततोऽन्यद्गुरुतरं न प्रतिपद्यते यथोक्तं ब्रह्मापीति तस्यामत्यंतगौरवस्य प्रसिद्धत्वात् । अतो गायत्रीमुखेनैव ब्रहोच्यते ॥ (*gāyatrīdvāreṇa cocyate brahma sarvaviśeṣarahitasya “ neti neti ” ityādi viśeṣapratiṣedhagamyasya durbodhatvāt | sattvanekeṣu chaṃdassu gāyatrā eva brahmajñānatayopādānaṃ prādhānyāt | somāharaṇāditaracchaṃdokṣarā- haraṇenetaracchaṃdovyāptyā ca sarvasavanavyāpakatvācca yajñe prādhānyaṃ gāyatryāḥ | gāyatrīsāratvācca brāhmaṇasya mātaramiva | hitvā gurutarāṃ gāyatrīṃ tato 'nyadgurutaraṃ na pratipadyate yathoktaṃ brahmāpīti tasyāmatyaṃtagauravasya prasiddhatvāt | ato gāyatrīmukhenaiva brahocyate ‖*)
+
+### Printed p. 569
+
+Supreme Brahman is beyond perception by the eye and the like. He is not an object visible to the eye, nor can he be seen by the mind's vision, nor is he any object in the world of ordinary dealings. The Supreme Self can be described only in the negative form, in this way. Though there are many other metres, realisation of the Supreme Self is possible only with the help of the Gāyatrī. That the Gāyatrī has this power as a means is shown by the prominent part it plays in the sacrificial act. Because sacrifices and other rites help divine knowledge, and because the Gāyatrī's help is indispensable in carrying out such sacrifices, the Gāyatrī is also the most important means to the knowledge of Brahman. This prominence is understood from three points:
+
+(1) First, because the Gāyatrī brought to the gods the Soma that is central to the sacrifice;
+(2) second, because it has drawn into itself the syllables of the other metres and pervades them all;
+(3) third, because it pervades all three pressings (savana), the Gāyatrī has primacy in the sacrificial act.
+
+Śaṅkarācārya makes clear that, because it is like a mother to Brāhmaṇas and the rest, and because the knowledge of the nature of Brahman also rests on the Gāyatrī, the Gāyatrī is the chief means for the direct realisation of the nature of the light of Brahman. What is the scriptural basis for each of these three points that Śaṅkarācārya states, and how is this primacy of the Gāyatrī described in the Śruti passages? This now has to be examined.
+
+**(10) Three points showing the primacy of the Gāyatrī.**
+**1. The episode of the bringing of Soma. The effort of the Śyena bird.**
+
+First: सोमाहरणात् (*somāharaṇāt*), "because it brought the Soma that is central to the sacrifice". Thus the special power of the Gāyatrī is indicated. This episode of the bringing of Soma is described in all the most important places in the Saṃhitās and the Brāhmaṇas. First of all,
+
+### Printed p. 570
+
+it is told as a story in the Ṛk Saṃhitā itself. In Ṛ. Saṃ. 4-26 and 4-27, when Indra describes his own valour, he tells how that valour grew through drinking Soma, and how the Gāyatrī brought that Soma.
+
+[Whether this description is the speech of the seer Vāmadeva or of Indra, and whether the deity of these sūktas is Indra or the Supreme Self, are also matters to note. That discussion is unnecessary here.
+
+प्र सु ष विभ्यो मरुतो विरस्तु प्र श्येनः श्येनेभ्य अशुपत्वा । अचक्रया यत्स्वधया सुपर्णो हव्यं भरन्मनवे देवजुष्टं ॥ (*pra su ṣa vibhyo maruto virastu pra śyenaḥ śyenebhya aśupatvā | acakrayā yatsvadhayā suparṇo havyaṃ bharanmanave devajuṣṭaṃ ‖*)
+(Ṛ. Saṃ. 4-26-4)
+
+O Maruts, may this Suparṇa, who brought this Soma desired by the gods to Manu in a chariot without a wheel, swiftly, be greater in vigour than the other Śyena birds, and may he receive greater honour.
+
+भरद्यदि विरतो वेविजानः पथोरुणा मनोजना असर्जि । तॊयं ययौ मधुना सोम्येगोत श्रवो विविदे श्येनो अत्र ॥ (*bharadyadi virato vevijānaḥ pathoruṇā manojanā asarji | tòyaṃ yayau madhunā somyegota śravo vivide śyeno atra ‖*)
+(Ṛ. Saṃ. 4-26-5)
+
+This Śyena bird rebuked the guardians of the Soma, carried off the Soma, and glided down through the sky at the speed of thought and helped; therefore honour on earth came to the whole company of Śyena birds.
+
+ऋजीषी श्येनो ददमानो अंशुं परावतः शकुनो मंद्रं मदं । सोमं भरद्दादृहाणो देवानान्दिवो अमुष्मादुत्तरादादाय ॥ (*ṛjīṣī śyeno dadamāno aṃśuṃ parāvataḥ śakuno maṃdraṃ madaṃ | somaṃ bharaddādṛhāṇo devānāndivo amuṣmāduttarādādāya ‖*)
+(Ṛ. Saṃ. 4-26-6)
+
+This bird, flying straight through the sky at the speed of thought and followed by the gods, brought the Soma and with it increased resolve and faith. By bringing the Soma it did good to the world.
+
+आदाय श्येनो आभरत्सोमं सहस्रं सना आयुतं च साकं । अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥ (*ādāya śyeno ābharatsomaṃ sahasraṃ sanā āyutaṃ ca sākaṃ | atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ ‖*)
+(Ṛ. Saṃ. 4-26-7)
+
+The Śyena bird brought the Soma from the heavenly world and helped in carrying out thousands of sacrifices. Indra, satisfied by drinking this Soma, grew in valour and crushed all his enemies.
+
+### Printed p. 571
+
+अव यच्छेनो अस्वनीदथ द्योर्वि यद्यदि वात ऊहुः पुरंधिं । सृजद्यदस्मा अव ह क्षिपज्ज्यां कृशानुरस्ता मनसा भुरण्यन् ॥ (*ava yaccheno asvanīdatha dyorvi yadyadi vāta ūhuḥ puraṃdhiṃ | sṛjadyadasmā ava ha kṣipajjyāṃ kṛśānurastā manasā bhuraṇyan ‖*)
+(Ṛ. Saṃ. 4-27-3)
+
+After bringing the Soma, as the Śyena was coming down from the sky expressing its joy, Kṛśānu, one of the Soma-guardians and an archer, also came down at the speed of thought, chased it, and shot an arrow at it from his bow.
+
+यजिष्य ईमिंद्रावतो न भुज्युं श्येनो जभार बृहतो अधि ष्ठोः । अंतः पतत्पतत्र्यस्य पर्णमध यामनि प्रसितस्य तद्वेः ॥ (*yajiṣya īmiṃdrāvato na bhujyuṃ śyeno jabhāra bṛhato adhi ṣṭhoḥ | aṃtaḥ patatpatatryasya parṇamadha yāmani prasitasya tadveḥ ‖*)
+(Ṛ. Saṃ. 4-27-4)
+
+As this Śyena was coming down from the sky that lies under Indra's lordship, it was struck by Kṛśānu's arrow, and in its struggle it lost a feather from its body and was wounded.
+
+While the story is of this kind, finding what principle lies here costs effort. Even so, introducing the seer of this sūkta, Nāmadeva **NOTE**, the Aitareya Āraṇyaka explains this same occasion from the standpoint of principle. There, quoting the Ṛk of the Ṛk Saṃhitā
+
+गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा । शतं मा पुर आयसीररक्षन्नध श्येनो जवसा निरदीयं ॥ (*garbhe nu sannanveṣāmavedamahaṃ devānāṃ janimāni viśvā | śataṃ mā pura āyasīrarakṣannadha śyeno javasā niradīyaṃ ‖*)
+(Ṛ. Saṃ. 4-26-1)
+
+it says गर्भ एव एतच्छयानो वामदेव एवमुवाच (*garbha eva etacchayāno vāmadeva evamuvāca*) (Ai. Ā. 2-5). It says that Vāmadeva, while still lying in the womb, knew this principle and spoke it. The meaning of the above mantra is that the origins and natures of all the gods were revealed to Vāmadeva while he was in the womb, and that, although there was a bondage made of hundreds of iron bars, he slipped out of it like a Śyena bird and flew towards the earth. The purport of this passage is not easy. Śaṅkarācārya, Ānandatīrtha and Sāyaṇa, when they explain this occasion, take the purport to be that Vāmadeva entered hundreds of bodies as bonds, finally became a knower, was freed from them and attained liberation. But if the context of the Aitareya Āraṇyaka is examined, स एवं विद्वान् आस्माच्छरीरभेदादूर्ध्व उत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान्नामानाप्तामृतः समभवत्समभवत् । (*sa evaṃ vidvān āsmāccharīrabhedādūrdhva utkramyāmuṣmin svarge loke sarvānnāmānāptāmṛtaḥ samabhavatsamabhavat |*) (Ai. Ā. 2-5): it says that Vāmadeva, who knew this principle while in the womb, gave up the earthly body and attained liberation. It is therefore understood that the words of Ṛ. Saṃ. 4-27-1 apply to Vāmadeva himself **NOTE**. Moreover, on the basis of the statement that in mantras such as 1-32-14 and 10-99-8 Indra is described as like the Śyena bird, some scholars hold that the mantra beginning "Garbhe nu …." (printed with abridgement dots)
+
+### Printed p. 572
+
+refers to Indra himself. But that is wrong. Some others have said that it is the speech of Soma (Ludwig).
+
+**2. The Gāyatrī in the form of a bird is the Śyena.**
+
+Sāyaṇa alone, however, says in
+
+श्येनभावं समास्थाय गर्भाद्योगेन निस्सृतः । ऋषिगर्भे शयानःसन् ब्रूते गर्भे नु सन्निति ॥ (*śyenabhāvaṃ samāsthāya garbhādyogena nissṛtaḥ | ṛṣigarbhe śayānaḥsan brūte garbhe nu sanniti ‖*)
+(introduction to the bhāṣya on 4-27-1)
+
+that Vāmadeva himself, freed from the womb by the greatness of his yoga, utters this sentence. None of the English critics such as Ludwig has examined the reason and the basis for the Śyena being described in the form of the Gāyatrī. In describing this same occasion, the Śyena is called by the word Suparṇa and also by the word Gāyatrī. In some places, when explaining the word Śyena, Sāyaṇa explains it as शैनः शंसनीयगतिमान्पक्षि पक्ष्याकारा गायत्री (*śainaḥ śaṃsanīyagatimānpakṣi pakṣyākārā gāyatrī*). Since different words, Śyena, Suparṇa and Gāyatrī, are used in these contexts, a precise meaning cannot be stated here without knowing the narrative. So, after knowing this story as told in the Taittirīya Saṃhitā, the Aitareya Brāhmaṇa and the Śatapatha Brāhmaṇa, one can examine what the principle is in the matter of the Gāyatrī bringing the Soma.
+
+**3. The incidental story of Kadrū and Suparṇī. The sons of Suparṇī are the metres.**
+
+In the Taittirīya Saṃhitā this story is described as follows:
+
+कद्रूश्च वै सुपर्णी चात्मरूपयोरस्पर्देताग्ं सा कद्रूस्सुपर्णीमजयताब्रवीत्तृतीयस्यामितो दिवि सोमस्तमाहर तेनात्मानं निष्क्रीणीष्टेतीयं वै कद्रूरसौ सुपर्णी छंदागांसि सौपर्णेयास्साब्रवीदस्मै वै पितरा पुत्रान् बिभृतस्तृतीयस्यामितो दिवि सोमस्तमाहर तेना - त्मानं निष्क्रीणीष्टेति मा कद्रूरवोचदिति जगत्युदपतच्चतुर्दशाक्षरा सती साप्राप्य न्यवर्तत तस्यै द्वे (*kadrūśca vai suparṇī cātmarūpayoraspardetāgṃ sā kadrūssuparṇīmajayatābravīttṛtīyasyāmito divi somastamāhara tenātmānaṃ niṣkrīṇīṣṭetīyaṃ vai kadrūrasau suparṇī chaṃdāgāṃsi sauparṇeyāssābravīdasmai vai pitarā putrān bibhṛtastṛtīyasyāmito divi somastamāhara tenā - tmānaṃ niṣkrīṇīṣṭeti mā kadrūravocaditi jagatyudapataccaturdaśākṣarā satī sāprāpya nyavartata tasyai dve*)
+
+### Printed p. 573
+
+अक्षरे अमीयेताग्ं सा दक्षिणाभिश्च तपसा चागच्छत्तस्मात्रिष्टुभो लोके माध्यंदिने सवने दक्षिणा नीयंत एतत्खलु वाव तप इत्याहुर्यस्स्वं ददातीति गायत्र्युदपतच्चतुरक्षरा सत्यजया ज्योतिषा तमस्या अजाभ्यरुंध तदजाया अजत्वग्ं सा सोमं चाहरच्चत्कारि चाक्षराणि साष्टाक्षरा समपद्यत ब्रह्मवादिनो वदंति कस्मात्सत्याद्गायत्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं परीयायेति यदेवादसोममाहरत्तस्माद्यज्ञमुखं परैत्तस्मात्तेजस्विनीतमा पद्भां द्वे सवने समग्रह्ञान्मुखेनैकं यन्नुखेन समगृह्णात्तदधयत्तस्माद्वे सवने शुक्रवशी प्रातस्सवनं च माध्यंदिनं च तस्मात्तृतीयसवन ऋजीषमभिषुण्वंति धीतमिव हि मन्यंते । (*akṣare amīyetāgṃ sā dakṣiṇābhiśca tapasā cāgacchattasmātriṣṭubho loke mādhyaṃdine savane dakṣiṇā nīyaṃta etatkhalu vāva tapa ityāhuryassvaṃ dadātīti gāyatryudapataccaturakṣarā satyajayā jyotiṣā tamasyā ajābhyaruṃdha tadajāyā ajatvagṃ sā somaṃ cāharaccatkāri cākṣarāṇi sāṣṭākṣarā samapadyata brahmavādino vadaṃti kasmātsatyādgāyatrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ parīyāyeti yadevādasomamāharattasmādyajñamukhaṃ paraittasmāttejasvinītamā padbhāṃ dve savane samagrahñānmukhenaikaṃ yannukhena samagṛhṇāttadadhayattasmādve savane śukravaśī prātassavanaṃ ca mādhyaṃdinaṃ ca tasmāttṛtīyasavana ṛjīṣamabhiṣuṇvaṃti dhītamiva hi manyaṃte |*)
+(Tai. Saṃ. 6-1-6-1 to 3)
+
+Kadrū and Suparṇī, the two of them, came to compete as to which of them was superior in her form. Kadrū won, defeated Suparṇī and kept her in her power. Then she gave the defeated Suparṇī this assurance: "In the third part of heaven there is Soma. Bring it, and you can obtain your release." Kadrū is this earth; Suparṇī is the sky. The metres are the offspring of Suparṇī. Kadrū told Suparṇī: "With the help of the children who are nourished for the service of their mother, bring me the Soma and obtain your freedom." In the same way Suparṇī too told her children of this occasion. Then the Jagatī, of fourteen syllables, flew up to the sky. But it could not get the Soma and turned back. It lost two syllables of the fourteen, and came back with the sacrificial animals. For this very reason the Jagatī metre is rich in the wealth of animals, and a man rich in animals is fit to be consecrated. Then the Triṣṭubh metre, of thirteen syllables, flew up to the sky. It too lost two syllables and did not obtain the Soma. But when it came back, it returned with the sacrificial fee (dakṣiṇā) useful for the sacrifice and with the materials of austerity. Therefore in worldly practice the dakṣiṇā is offered at the midday pressing. One who gives away his wealth as a gift, that is called the act of austerity. Next the Gāyatrī, of four syllables, set out towards the sky together with an Aja (goat) in the form of light. That Aja made the Soma available to the Gāyatrī. Then, as the Gāyatrī came back taking the Soma, since it brought back with it the four syllables that the Triṣṭubh and the Jagatī had left behind there, these four syllables joined the four that it had before, and in all it became eight-syllabled. Thus, although it is the smallest of all the metres, because it brought the Soma, which is so important for the sacrifice, it holds a very prominent place in the sacrificial work; this is the view of the Brahmavādins. For that very reason it is the most brilliant of all the metres. That (the Gāyatrī in the form of a bird) with both feet
+
 ---
 
-**Progress note:** Done through printed p. 566. pp. 561-566 (batch API)
+**Progress note:** Done through printed p. 573. pp. 567-573 (batch API)
