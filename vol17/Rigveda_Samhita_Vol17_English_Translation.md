@@ -30077,6 +30077,282 @@ Seven great coursers convey that sun, whom the (deities), occupants of enduring 
 - असितं (*asitaṃ*)—black-coloured
 - वस्म (*vasma*)—and the dwelling of the rākṣasas **NOTE**
 
+### Printed p. 905
+- …the night. (अवव्ययन् (*avavyayan*))—bringing to an end
+- वहिष्ठेभिः (*vahiṣṭhebhiḥ*)—with horses having the power of carrying
+- यासि (*yāsi*)—you travel
+- सूर्यस्य (*sūryasya*)—of the sun
+- दविध्वतः (*davidhvataḥ*)—trembling
+- रश्मयः (*raśmayaḥ*)—rays
+- अप्सु (*apsu*)—of the firmament
+- अंतः (*aṃtaḥ*)—in the middle region
+- चर्मेव (*carmeva*)—spread like a skin
+- तमः (*tamaḥ*)—the darkness
+- अवाधुः (*avādhuḥ*)—they destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Sun, spreading out your mass of rays for the drawing up of the waters, and bringing to an end the night, which is black in colour and the dwelling of the rākṣasas, you travel with horses that have the power of carrying. The trembling rays of the Sun destroy the darkness that is spread like a skin in the middle region of the firmament.
+
+##### English translation (H. H. Wilson)
+Divine (sun), you proceed with most powerful (horses), spreading your web (of rays), and cutting down the black abode (of night); the tremulous rays of the sun throw off the darkness which is spread like a skin over the firmament.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अना॑यतो॒ अनि॑बद्धः क॒थायं नृज्ज॑ुत्ता॒नोऽव॑ पद्यते॒ न ।  
+> कया॑ याति स्व॒धया॒ को द॑दर्श दि॒वः स्कं॒भः समृ॑तः पाति॒  ॑
+> नाकं ॥ ५ ॥
+
+> *anāyato anibaddhaḥ kathāyaṃ nṛjjuttāno 'va padyate na |*  
+> *kayā yāti svadhayā ko dadarśa divaḥ skaṃbhaḥ samṛtaḥ pāti*  
+> *nākaṃ ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनायतः । अनिबद्धः । कथा । अयं । न्यज् । उत्तानः । अव । पद्यते । न ।  
+> कया । याति । स्वधया । कः । ददर्श । दिवः । स्कंभः । संऋतः । पाति । नाकं ॥ ५ ॥
+
+> *anāyataḥ | anibaddhaḥ | kathā | ayaṃ | nyaj | uttānaḥ | ava | padyate | na |*  
+> *kayā | yāti | svadhayā | kaḥ | dadarśa | divaḥ | skaṃbhaḥ | saṃṛtaḥ | pāti | nākaṃ ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयतशब्दो दूरवाची । तद्विपरितोऽनायत आसीनः सन्नयं प्रत्यक्षेणोपलभ्यमानो मंडलाभिमानी सूर्योऽनिबद्धः । केनापि बद्धो न क्रियते । अपि
+
+##### Gist of the bhāṣya
+
+The word आयत (*āyata*) means "far". Its opposite is अनायत (*anāyata*), "near": this sun, the deity of the disc, who is seen directly, is अनिबद्ध (*anibaddha*), not bound, not made captive by anyone. (The sentence continues in the next block.)
+
+### Printed p. 906
+
+> चायं सूरो नृज्जुर्वाङ्मुखः सन् केनचित्कथा कथं नाव पद्यते । न हिंस्यते ।
+> किंचायमुत्तान ऊर्ध्वमुखत्वेन तिष्ठन् कया स्वधया केन बलेन याति । गच्छति ।
+> स्वधाशब्दोऽन्नवाच्यत्र तत्कार्यं बलं लक्षयति । अपि च दिवो द्युलोकस्य स्कंभः
+> स्तंभः समृतो नाकेन समवेतः सूर्यो नाकं स्वर्गं पाति । पालयति । को
+> ददर्श । तत्त्वतः कः पश्यति । न कोऽपि जानातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Moreover, this sun, though moving with his face turned downwards, how is he not harmed by anyone? And standing with his face turned upwards (उत्तान (*uttāna*)), by what स्वधया (*svadhayā*)—by what strength—does he travel? The word स्वधा (*svadhā*) here means food and points to the strength that results from it. Further, the Sun, the pillar of heaven, joined with the sky (नाक (*nāka*)), protects the heaven. Who has truly seen this? No one knows it, is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनायतः (*anāyataḥ*)—one who moves near
+- अयं (*ayaṃ*)—this Sun, who is also of the form of a disc
+- अनिबद्धः (*anibaddhaḥ*)—has a course that is checked by no one
+- न्यङ्क (*nyaṅka*)—even while moving with face turned downwards
+- कथा (*kathā*)—how
+- न अव पद्यते (*na ava padyate*)—is not harmed by anyone
+- उत्तानः (*uttānaḥ*)—being with face turned upwards
+- कया स्वधया (*kayā svadhayā*)—with what strength
+- याति (*yāti*)—he travels
+- दिवः (*divaḥ*)—of the heavenly world
+- स्कंभः (*skaṃbhaḥ*)—like a pillar
+- समृतः (*samṛtaḥ*)—dwelling in the firmament **NOTE**
+- the Sun—नाकं (*nākaṃ*) heaven; पाति (*pāti*)—protects, this matter
+- को ददर्श (*ko dadarśa*)—who indeed could have seen it in truth
+
+##### भावार्थ (Bhāvārtha)
+
+The Sun, who moves near and is of the form of a disc, has a course that is checked by no one. Even while moving with face turned downwards, how is he not harmed by anyone? With what strength does he travel while facing upwards? The Sun, who is like a pillar of the heavenly world and dwells in the firmament, protects heaven. Who indeed can know in truth such a Sun, of such great deeds?
+
+##### English translation (H. H. Wilson)
+This sun, not far removed, and unobstructed, whether (looking) downwards or looking upwards, is harmed by no one: what is the power by which he travels? who has (truly) beheld him who, as the collective pillar of heaven, sustains the sky ?
+
+### Printed p. 907
+## Sūkta 14 (Maṇḍala 4)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रत्यग्निरुषस इति पंचर्चं चतुर्थं सूक्तं वामदेवस्यार्षं त्रैष्टुभमाग्नेयं मांत्रवर्णिकदैवतं वा । तथा चानुक्रांतं । प्रत्यग्निरिति । लिंगोक्तदैवतं
+> त्विति तुशब्दादस्यापि सूक्तस्य लिंगोक्तदैवतत्वं ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This sūkta beginning प्रत्यग्निरुषसः (*pratyagniruṣasaḥ*), of five verses, is the fourth sūkta. Its seer is Vāmadeva; its metre is triṣṭubh; its deity is Agni, or else the deities named in the mantras. So the Anukramaṇī says, beginning प्रत्यग्निः (*pratyagniḥ*); by the word तु (*tu*) in लिंगोक्तदैवतं तु (*liṃgoktadaivataṃ tu*) this sūkta too has deities as indicated by the text. The application (viniyoga) is as indicated by the text (लैंगिकः (*laiṃgikaḥ*)).
+
+##### Anuvāda
+
+This sūkta प्रत्यग्निरुषसः (*pratyagniruṣasaḥ*) is the fourth sūkta in the second anuvāka. It has five ṛks. The seer of this sūkta is Vāmadeva; the deity is Agni, or else the others who are spoken of in the mantras; the metre is triṣṭubh. In the Anukramaṇī it begins with प्रत्यग्निः (*pratyagniḥ*). Because the word तु (*tu*) is used in लिंगोक्तदैवतं तु (*liṃgoktadaivataṃ tu*), the deities of this sūkta are those who are praised in the respective mantras. The application is as indicated by the text.
+
+##### Particulars
+
+- Sūkta 14
+- Maṇḍala 4; Anuvāka 2; Sūkta 14
+- Aṣṭaka 3; Adhyāya 5; Varga 14
+- Number of ṛks in the sūkta: 5
+- Ṛṣi: Vāmadeva
+- Devatā: Agni, or the deities indicated by the text
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रत्य॒ग्निरु॒षसो॑ जा॒तवे॑दा॒ अख्य॑द्दे॒वो रोच॑माना॒ महो॑भिः।  
+> आ ना॑सत्योरुगा॒या रथे॑ने॒मं य॒ज्ञमुप॑ नो यात॒मच्छ॑॥
+
+> *pratyagniruṣaso jātavedā akhyaddevo rocamānā mahobhiḥ|*  
+> *ā nāsatyorugāyā rathenemaṃ yajñamupa no yātamaccha‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । अग्निः । उषसः । जातवेदाः । अख्यत् । देवः । रोचमानाः । महभिः ।  
+> आ । नासत्या । उरुगाया । रथेन । इमं । यज्ञं । उप । नः । यातं । अच्छ ॥
+
+> *prati | agniḥ | uṣasaḥ | jātavedāḥ | akhyat | devaḥ | rocamānāḥ | mahabhiḥ |*  
+> *ā | nāsatyā | urugāyā | rathena | imaṃ | yajñaṃ | upa | naḥ | yātaṃ | accha ‖*
+
+### Printed p. 908
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतमानो जातवेदा जातधनोऽग्निर्महोभिस्तेजोभी रोचमाना दीप्यमाना उषसः प्रत्युषसो लक्ष्मीकृत्याख्यत् । प्रवृद्धो भवति । उरुगाया प्रभूतगमनौ हे नासत्याश्विन् रथेन नोऽस्मदीयमिमं यज्ञमच्छाभिमुखमुप यातु । उपगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+Agni, the shining god, जातवेदाः (*jātavedāḥ*)—one whose wealth is born—with his splendours, having made the shining, radiant dawns his aim, अख्यत् (*akhyat*): he becomes grown. O far-going Nāsatyas, Aśvins, may you come with your chariot toward this sacrifice of ours; approach it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—shining
+- जातवेदाः (*jātavedāḥ*)—one of born wisdom
+- अग्निः (*agniḥ*)—Agni
+- महोभिः (*mahobhiḥ*)—with splendours
+- रोचमानाः (*rocamānāḥ*)—shining
+- उषसः प्रति (*uṣasaḥ prati*)—toward the dawns
+- अख्यत् (*akhyat*)—he grows
+- उरुगाया (*urugāyā*)—you who are abundantly praised
+- नासत्या (*nāsatyā*)—O Aśvin gods
+- रथेन (*rathena*)—with your chariot
+- नः (*naḥ*)—our
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice
+- अच्छ (*accha*)—facing
+- उप आ यातं (*upa ā yātaṃ*)—please come
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is shining, of born wisdom and of born wealth, grows for the dawns that shine with brilliance. O Aśvin gods, who are abundantly praised, come facing this sacrifice of ours, with your chariot.
+
+##### English translation (H. H. Wilson)
+The resplendent Agni, by whom all is known, has manifested (his might) in regard to the dawns radiant with lustre : far-going Nasatyas, come with your car to this our sacrifice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वं के॒तुं स॑वि॒ता दे॒वो अ॑श्रे॒ज्योती॒र्विश्व॑स्मै॒ भुव॑नाय कृ॒ण्वन् ।  
+> आप्रा॒ द्यावा॑पृथि॒वी अं॒तरि॑क्षं॒ वि सूर्यो॑ र॒श्मिभि॒श्चेकि॑तानः ॥
+
+> *ūrdhvaṃ ketuṃ savitā devo aśrejyotīrviśvasmai bhuvanāya kṛṇvan |*  
+> *āprā dyāvāpṛthivī aṃtarikṣaṃ vi sūryo raśmibhiścekitānaḥ ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वं । केतुं । सविता । देवः । अश्रेत् । ज्योतिः । विश्वस्मै । भुवनाय । कृण्वन् ।  
+> आ । अप्राः । द्यावापृथिवी इति । अंतरिक्षं । वि । सूर्यः । रश्मिभिः । चेकितानः ॥ २ ॥
+
+> *ūrdhvaṃ | ketuṃ | savitā | devaḥ | aśret | jyotiḥ | viśvasmai | bhuvanāya | kṛṇvan |*  
+> *ā | aprāḥ | dyāvāpṛthivī iti | aṃtarikṣaṃ | vi | sūryaḥ | raśmibhiḥ | cekitānaḥ ‖ 2 ‖*
+
+### Printed p. 909
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वस्मै सर्वस्मै भुवनाय लोकाय ज्योतिस्तेजः कृण्वन् कुर्वन् सविता
+> प्रेरको देव ऊर्ध्वमुन्मुखं केतुं प्रकाशकं भानुमश्रेत् । आश्रयति । वि
+> चेकितानः सर्वं विशेषेण पश्यन् सूर्यो रश्मिभिः स्वकीयैः किरणैर्द्यावापृथिवी
+> द्युलोकभूलोकौ चांतरिक्षं चाप्राः । समंतादपूरयत् ॥
+
+##### Gist of the bhāṣya
+
+Savitṛ, the impelling god, making light, brilliance, for the whole world, resorts to the upward-turned केतु (*ketu*), the illuminating radiance (भानु (*bhānu*)). The Sun, who sees everything in particular, with his own rays filled heaven, earth and the firmament completely on every side.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वस्मै (*viśvasmai*)—for the whole
+- भुवनाय (*bhuvanāya*)—world
+- ज्योतिः (*jyotiḥ*)—brilliance
+- कृण्वन् (*kṛṇvan*)—making
+- सविता (*savitā*)—the impeller of the whole world
+- देवः (*devaḥ*)—god Savitṛ
+- ऊर्ध्वं (*ūrdhvaṃ*)—turned upward
+- केतुं (*ketuṃ*)—the radiance (भानु (*bhānu*)) that shines like a banner
+- अश्रेत् (*aśret*)—he resorts to
+- वि चिकितानः (*vi cikitānaḥ*)—who sees everything in a special way
+- सूर्यः (*sūryaḥ*)—the Sun
+- रश्मिभिः (*raśmibhiḥ*)—with his rays
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- आ प्राः (*ā prāḥ*)—has filled completely
+
+##### भावार्थ (Bhāvārtha)
+
+Making brilliance for the whole world, the god Savitṛ, the impeller of the whole world, resorts, turned upward, to the radiance that shines like a banner. The Sun, who sees the whole world in a special way, has filled heaven, earth and the firmament completely with his rays.
+
+##### English translation (H. H. Wilson)
+The divine Savitri displays his banner on high, diffusing light through all worlds : contemplating (all things) the sun has filled heaven earth and the firmament with his rays.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒वहं॑त्यरु॒णीर्ज्योति॒षागा॑न्म॒ही चि॒त्रा र॒श्मिभि॒श्चेकि॑ताना ।  
+> प्र॒बो॒धयं॑ती सुवि॒ताय॑ दे॒व्यु१॒॑गषा ई॑यते सु॒युजा॒  ॑
+> रथेन ॥ ३ ॥
+
+> *āvahaṃtyaruṇīrjyotiṣāgānmahī citrā raśmibhiścekitānā |*  
+> *prabodhayaṃtī suvitāya devyugaṣā īyate suyujā*  
+> *rathena ‖ 3 ‖*
+
+### Printed p. 910
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आवहंती । अरुणीः । ज्योतिषा । आ । अगात् । मही । चित्रा । रश्मिभिः । चेकिताना॥  
+> प्रबोधयंती । सुविताय । देवी । उषाः । ईयते । सुयुजा । रथेन ॥ ३ ॥
+
+> *āvahaṃtī | aruṇīḥ | jyotiṣā | ā | agāt | mahī | citrā | raśmibhiḥ | cekitānā‖*  
+> *prabodhayaṃtī | suvitāya | devī | uṣāḥ | īyate | suyujā | rathena ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आवहंती धनानि धारयंत्यरुणीररुणवर्णाः ॥ प्रथमैकवचने द्वितीयाबहुवचनं छांदसं ॥ ज्योतिषा तेजसा युक्ता मही महती रश्मिभिः किरणैश्चित्रा
+> दर्शनीया चेकिताना जानत्युषा आगात् । आगच्छत् । किंच प्रबोधयंती सुप्तान्
+> प्रबुद्धान् कुर्वती देवी द्योतमानोषाः सुयुजा शोभनयुक्तन रथेन
+> सुविताय सुखप्राप्तॆय ईयते । गच्छति ॥
+
+##### Gist of the bhāṣya
+
+आवहंती (*āvahaṃtī*) is bearing wealth; अरुणीः (*aruṇīḥ*) is of red colour. Uṣas, joined with light, great, wonderful (beautiful to see) with her rays, knowing, has come. Moreover, arousing the sleepers, the shining Uṣas goes with her well-yoked chariot, सुविताय (*suvitāya*), for the one who has attained happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आवहंती (*āvahaṃtī*)—she who bears wealth
+- अरुणीः (*aruṇīḥ*)—she who is of red colour
+- ज्योतिषा (*jyotiṣā*)—endowed with splendour
+- मही (*mahī*)—of great nature
+- रश्मिभिः (*raśmibhiḥ*)—with rays
+- चित्रा (*citrā*)—of attractive form
+- चेकिताना (*cekitānā*)—knowing all affairs; Uṣas
+- आगात् (*āgāt*)—comes, rising
+- प्रबोधयंती (*prabodhayaṃtī*)—waking those who lie asleep
+- देवी (*devī*)—shining
+- उषाः (*uṣāḥ*)—Uṣas
+- सुयुजा (*suyujā*)—yoked with excellent horses
+- रथेन (*rathena*)—with a chariot
+- सविताय (*savitāya*)—to bring about welfare
+- ईयते (*īyate*)—she comes
+
+##### भावार्थ (Bhāvārtha)
+
+Uṣas, who is rich in wealth, of golden colour, endowed with splendour, of great nature, of attractive form through her rays, and who knows all affairs, rises and comes. Waking those who lie asleep, the shining Uṣas comes with a chariot yoked with excellent horses, to bring about welfare.
+
+##### English translation (H. H. Wilson)
+The great and intelligent dawn, variegated with (many-coloured) rays of purple tint, bringing opulence, has come with (her) lustre. the divine Ushas, arousing (the sleepers) proceeds with her well-harnessed car (to distribute) felicity.
+
 ---
 
-**Progress note:** Done through printed p. 904. pp. 899-904 (batch API)
+**Progress note:** Done through printed p. 910. pp. 905-910 (batch API)
