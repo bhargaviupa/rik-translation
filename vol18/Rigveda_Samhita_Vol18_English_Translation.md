@@ -29473,6 +29473,282 @@ Royal Agni, I glorify at sacrifices, you who are the lord of vast riches; may we
 
 The meaning of this ṛk is clear. The doubling of words of one and the same meaning, as in वसुपतिं वसूनां (*vasupatiṃ vasūnāṃ*), occurs in many places in the Ṛgveda. There are many examples such as रयिपतिं रयीणां (*rayipatiṃ rayīṇāṃ*), विशां विश्वतिं (*viśāṃ viśvatiṃ*), देवो देवानां (*devo devānāṃ*), ज्योतिषां ज्योतिः (*jyotiṣāṃ jyotiḥ*).
 
+### Printed p. 791
+*(continuing the discussion of the preceding Ṛk)*
+
+##### विशेषविषयगळु (Special Topics)
+
+पृत्सुतीः (*pṛtsutīḥ*)—the word पृत्सु (*pṛtsu*) is read among the names of battle (Ni. 3-9). पृत्सुतीः (*pṛtsutīḥ*) means armies that take part in battles.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒व्य॒वाळ॒ग्निर॒जरः॑ पि॒ता नो॑ वि॒भुर्वि॒भावा॑ सु॒दृशी॑को अ॒स्मे ।  
+> सु॒गा॒र्ह॒प॒त्याः समिषो॑ दिदीह्यस्म॒द्र्य१॒ं॑कं मि॑मीहि॒ श्रवां॑सि ॥
+
+> *havyavāḷagnirajaraḥ pitā no vibhurvibhāvā sudṛśīko asme |*  
+> *sugārhapatyāḥ samiṣo didīhyasmadryaṃkaṃ mimīhi śravāṃsi ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हव्यवाट् । अग्निः । अजरः । पिता । नः । विभुः । विभावा । सुदृशीकः । अस्मे इति ।  
+> सुगार्हपत्याः । सं । इषः । दिदीहि । अस्मद्र्यक् । सं । मिमीहि । श्रवांसि ॥ २ ॥
+
+> *havyavāṭ | agniḥ | ajaraḥ | pitā | naḥ | vibhuḥ | vibhāvā | sudṛśīkaḥ | asme iti |*  
+> *sugārhapatyāḥ | saṃ | iṣaḥ | didīhi | asmadryak | saṃ | mimīhi | śravāṃsi ‖ 2 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शपूर्णमासे पत्निसंयाजे गृहपतेयाज्यैषा। सूत्रितं च । हव्यवाळग्निरजरः पिता न इति पत्निसंयाजाः । आ. १-१० । इति ॥ देवसुवां हविःष्वप्यग्नेरेषैव
+> याज्या। सूत्रितं च। हव्यवाळग्नि रजरः पिता नस्त्वं च सोम नो वशः। आ. ४-११। इति॥
+> अयं हव्यनाडग्निरजरोऽजीर्णः सन् नः पिता भवत्त्विति शेषः । किंच विभुर्व्याप्तः विभावा दीप्तिमान् सुदृशीकः शोभनदर्शनोऽस्मे अस्माकं भवतु । अथ
+> प्रत्यक्षवादः । सुगार्हपत्याः शोभनगार्हपत्ययुक्तानीषोऽन्नानि सं दिदीहि ।
+> सम्यक् प्रकाशय । ददस्व वा । अस्मद्र्यक् अस्मदभिमुखं श्रवांस्यन्नानि सं मिमिाहि ।
+> सम्यक् प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the yājyā of the Gṛhapati in the Patnīsaṃyājas at the Darśapūrṇamāsa. It is prescribed in the sūtra: हव्यवाळग्निरजरः पिता न इति पत्निसंयाजाः (*havyavāḷagnirajaraḥ pitā na iti patnisaṃyājāḥ*) (Ā. 1-10). It is also the yājyā of Agni in the oblations of the Devasū offerings, as the sūtra says: हव्यवाळग्निरजरः पिता नस्त्वं च सोम नो वशः (*havyavāḷagnirajaraḥ pitā nastvaṃ ca soma no vaśaḥ*) (Ā. 4-11).
+Let this Agni, bearer of the oblation, undecaying, not aged, be our father (the words "let him be" are to be supplied). Moreover, let him, all-pervading (विभुः (*vibhuḥ*) = व्याप्तः (*vyāptaḥ*)) and radiant, of beautiful aspect (सुदृशीकः (*sudṛśīkaḥ*) = *śobhanadarśanaḥ*), be so to us. Then the address turns direct: सुगार्हपत्याः (*sugārhapatyāḥ*) means "endowed with a fine Gārhapatya"; "kindle forth well (सं दिदीहि (*saṃ didīhi*)), make shine fully, or give" the foods (इषः (*iṣaḥ*)). अस्मद्र्यक् (*asmadryak*) means "turned towards us"; "bestow fully (सं मिमीहि (*saṃ mimīhi*)) the foods (श्रवांसि (*śravāṃsi*))".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हव्यवाट् (*havyavāṭ*)—he who carries the oblation to the gods
+- अजरः (*ajaraḥ*)—the undecaying
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—to us
+- पिता (*pitā*)—let him be a protector
+- विभुः (*vibhuḥ*)—the all-pervading
+- विभावा (*vibhāvā*)—Agni, endowed with radiance
+- अस्मे (*asme*)—to us
+- सुदृशीकः (*sudṛśīkaḥ*)—let him be of auspicious aspect
+- सुगार्हपत्याः (*sugārhapatyāḥ*)—useful for an excellent Gārhapatya
+- इषः (*iṣaḥ*)—the foods
+- सं दिदीहि (*saṃ didīhi*)—show to us
+- अस्मद्रक् (*asmadrak*)—turned towards us
+- श्रवांसि (*śravāṃsi*)—the foods
+- सं मिमीहि (*saṃ mimīhi*)—fill up
+
+### Printed p. 792
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, who carries the oblation to the gods and is free from decay, be our protector. May Agni, the all-pervading and radiant, be of auspicious aspect to us. O Agni, provide us with foods that are useful for an excellent Gārhapatya.
+
+##### English translation (H. H. Wilson)
+May the undecaying Agni, the bearer of oblations. be a father to us, all-pervading and resplendent (may he be) to us of pleasing aspect : supply us plentifully with food in return for our well-maintained housebold fire: grant us viands abundantly.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the homa called Patnīsaṃyāja is performed in the Darśapūrṇamāsa sacrifice, the Gṛhapati should recite this mantra as the yājyā mantra; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra हव्यवाळग्निरजरः पिता न इति पत्निसंयाजाः (*havyavāḷagnirajaraḥ pitā na iti patnisaṃyājāḥ*) (Ā. 1-10). Likewise, in the homa made to Agni among the eight oblations called Devasū-havis, this Ṛk is to be recited as the yājyā mantra, as set out by the Āśvalāyana Śrauta-sūtra हव्यवाळग्निरजरः पिता नस्त्वं च सोम नो वशः (*havyavāḷagnirajaraḥ pitā nastvaṃ ca soma no vaśaḥ*) (Ā. 4-11).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒शां क॒विं वि॒श्वतिं॒ मानु॑षीणां॒ शुचिं॑ पाव॒कं घृ॒तपृ॑ष्ठम॒ग्निं ।  
+> नि होता॑रं विश्व॒विदं॑ दधिद्वे॒ स दे॒वेषु॑ वनते॒ वार्या॑णि ॥३॥
+
+> *viśāṃ kaviṃ viśvatiṃ mānuṣīṇāṃ śuciṃ pāvakaṃ ghṛtapṛṣṭhamagniṃ |*  
+> *ni hotāraṃ viśvavidaṃ dadhidve sa deveṣu vanate vāryāṇi ‖3‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विशां । कविं । विश्वतिं । मानुषीणां । शुचिं । पावकं । धृतपृष्ठं । अग्निं ।  
+> नि । होतारं । विश्वविदं । दधिध्वे । सः । देवेषु । वनते । वार्याणि ॥ ३ ॥
+
+> *viśāṃ | kaviṃ | viśvatiṃ | mānuṣīṇāṃ | śuciṃ | pāvakaṃ | dhṛtapṛṣṭhaṃ | agniṃ |*  
+> *ni | hotāraṃ | viśvavidaṃ | dadhidhve | saḥ | deveṣu | vanate | vāryāṇi ‖ 3 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मानुषीणां विशां विश्वतिं सर्वासां मनुष्यरूपाणां प्रजानां पालकं
+> स्वामिनं वा कविं मेधाविनं शुचिं शुद्धं दीप्तं ना पावकमन्येषां शोधकं
+
+### Printed p. 793
+
+> धृतपृष्ठं प्रदीप्तपृष्ठोपलक्षितशरीरं । अथवा उपरितनभागाज्योपेतं होतारं
+> होमनिष्पादकं विश्वविदं विश्वस्य वेत्तारमग्निं नि दधिध्वे । धारयथ । हे ऋत्विजः ।
+> स देवो देवेषु मध्यॆ वार्याणि वरणीयानि धनानि वनते । संभजतेऽस्मदर्थः ।
+> स्वयं वा वार्याणि हवींषि वनते ॥
+
+##### Gist of the bhāṣya
+
+मानुषीणां विशां विश्वतिं (*mānuṣīṇāṃ viśāṃ viśvatiṃ*): the protector or lord of all human subjects; कविं (*kaviṃ*) the wise; शुचिं (*śuciṃ*) pure, bright; पावकं (*pāvakaṃ*) purifier of others; धृतपृष्ठं (*dhṛtapṛṣṭhaṃ*) whose body is marked by a back lit up (with ghee), or else provided with ghee on the upper part; होतारं (*hotāraṃ*) the accomplisher of the homa; विश्वविदं (*viśvavidaṃ*) the knower of all. "Establish (नि दधिध्वे (*ni dadhidhve*) = धारयथ (*dhārayatha*)) this Agni, O priests. That god among the gods wins (वनते (*vanate*) = संभजते (*saṃbhajate*)) the desirable (वार्याणि (*vāryāṇi*)) riches for our sake; or else he himself partakes of the desirable oblations."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) मानुषीणां विशां (*mānuṣīṇāṃ viśāṃ*)—for all human subjects
+- विश्वतिं (*viśvatiṃ*)—the protector
+- कविं (*kaviṃ*)—the wise
+- शुचिं (*śuciṃ*)—the pure
+- पावकं (*pāvakaṃ*)—the purifier
+- धृतपृष्ठं (*dhṛtapṛṣṭhaṃ*)—he whose body is provided with ghee
+- होतारं (*hotāraṃ*)—the accomplisher of the homa
+- विश्वविदं (*viśvavidaṃ*)—the knower of all
+- अग्निं (*agniṃ*)—Agni
+- नि दधिध्वे (*ni dadhidhve*)—place (establish) in the place of honour
+- स (*sa*)—that Agni
+- देवेषु (*deveṣu*)—in the midst of the gods
+- वार्याणि (*vāryāṇi*)—the desired riches
+- वनते (*vanate*)—provides
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, establish in the place of honour Agni, who is the protector of all human subjects, wise, pure, a purifier, with a body provided with ghee, the accomplisher of the homa, the knower of all. That same Agni provides desired riches among the gods.
+
+##### English translation (H. H. Wilson)
+You (priests) possess the wise lord of human beings, the pure, the purifying, Agni, cherished with oblations of butter, the offerer of the burnt-offering, the all-knowing ; he among the gods bestows desirable (riches).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जु॒षस्वा॑ग्न॒ इळ॑या स॒जोषा॒ यत॑मानो र॒श्मिभिः॒ सूर्य॑स्य ।  
+> जु॒षस्व॑ नः स॒मिधं॑ जातवेद॒ आ च॑ दे॒वान्ह॑ वि॒रद्या॑य वक्षि ॥४ ॥
+
+> *juṣasvāgna iḷayā sajoṣā yatamāno raśmibhiḥ sūryasya |*  
+> *juṣasva naḥ samidhaṃ jātaveda ā ca devānha viradyāya vakṣi ‖4 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुषस्व । अग्ने । इळॆया । सजोषाः । यतमानः । रश्मिभिः । सूर्यस्य ।  
+> जुषस्व । नः । संइधं । जातवेदः । आ । च । देवान् । हविःअद्याय । वक्षि ॥ ४ ॥
+
+> *juṣasva | agne | iḷèyā | sajoṣāḥ | yatamānaḥ | raśmibhiḥ | sūryasya |*  
+> *juṣasva | naḥ | saṃidhaṃ | jātavedaḥ | ā | ca | devān | haviḥadyāya | vakṣi ‖ 4 ‖*
+
+### Printed p. 794
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जुषस्व । सेवस्व स्तुतिं । इळया वेदिलक्षणया भूम्या वाचा वा
+> सजोषाः समानप्रीतिः । तथा सूर्यस्य रश्मिभिर्यतमानः प्रयत्नमुषःकाले कुर्वन्।
+> किंच हे जातवेदो जातस्य वेदितरग्ने नोऽस्मदीयां समिधं जुषस्व । सेवस्व।
+> आवह च देवान्हविरद्याय हविरदनाय । आवाह्य वक्षि । वहसि तद्वविः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, accept (जुषस्व (*juṣasva*) = सेवस्व (*sevasva*)) our praise. इळया (*iḷayā*) is the earth in the form of the altar, or speech; सजोषाः (*sajoṣāḥ*) is "of equal delight"; and यतमानः (*yatamānaḥ*) means making exertion with the rays of the sun at the time of dawn. Further, O Jātavedas, knower of what is born, accept our fuel-stick (समिधं (*samidhaṃ*)). Bring the gods to eat the oblation (हविरद्याय (*haviradyāya*) = हविरदनाय (*haviradanāya*)); having invited them, you carry (वक्षि (*vakṣi*) = वहसि (*vahasi*)) that oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सूर्यस्य (*sūryasya*)—of the sun
+- रश्मिभिः (*raśmibhiḥ*)—with the rays
+- यतमानः (*yatamānaḥ*)—exerting yourself
+- इळया (*iḷayā*)—with the goddess Iḷā
+- सजोषाः (*sajoṣāḥ*)—having equal delight
+- जुषस्व (*juṣasva*)—accept (our praises)
+- जातवेदः (*jātavedaḥ*)—O Agni, of innate knowledge
+- नः (*naḥ*)—our
+- समिधं (*samidhaṃ*)—the fuel-sticks
+- जुषस्व (*juṣasva*)—accept
+- हविरद्याय (*haviradyāya*)—to eat the oblation
+- देवान् (*devān*)—the gods
+- आ वक्षि (*ā vakṣi*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, exerting yourself with the rays of the sun at the time of dawn and sharing equal delight with the goddess Iḷā, accept our praises. O Agni, of innate knowledge, accept our fuel-sticks. Bring the gods to eat the oblation.
+
+##### English translation (H. H. Wilson)
+Be propitiated, Agni, sharing in satisfaction with Ila, vieing with the rays of the sun : be gratified, Jatavedas, by our fuel, and bring the gods to partake of the oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+इळया (*iḷayā*)—the word इळा (*iḷā*) is read among the twenty-one names of the earth (Ni. 2-5), among the names of speech (Ni. 2-23), among the names of food (Ni. 3-9) and among the names of cow (Ni. 3-9). Besides, there is also a separate deity named Iḷā. In the present Ṛk the commentator has indicated that for the word इळया (*iḷayā*) either of two meanings can be taken: वेदिलक्षणया भूम्या वाचा वा (*vedilakṣaṇayā bhūmyā vācā vā*)—by the sacrificial ground in the form of the altar, or by speech.
+
+### Printed p. 795
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जुष्टो॒ दमू॑ना॒ अति॑थिर्दुरो॒ण इ॒मं नो॑ य॒ज्ञमुप॑  ॒
+> याहि वि॒द्वान् ।  
+> विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्या॑ शत्रूय॒तमा भ॑रा॒ भोज॑नानि ॥ ५ ॥
+
+> *juṣṭo damūnā atithirduroṇa imaṃ no yajñamupa*  
+> *yāhi vidvān |*  
+> *viśvā agne abhiyujo vihatyā śatrūyatamā bharā bhojanāni ‖ 5 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुष्टः । दमूनाः । अतिथिः । दुरोणे । इमं । नः । यज्ञं । उप । याहि । विद्वान् ।  
+> विश्वाः । आग्ने । अभियुजः । विहत्य । शत्रुयतां । आ । भर । भोजनानि ॥ ५ ॥
+
+> *juṣṭaḥ | damūnāḥ | atithiḥ | duroṇe | imaṃ | naḥ | yajñaṃ | upa | yāhi | vidvān |*  
+> *viśvāḥ | āgne | abhiyujaḥ | vihatya | śatruyatāṃ | ā | bhara | bhojanāni ‖ 5 ‖*
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ पवित्रेष्ट्यां स्विष्टकृतोऽनुवाक्यैषा । सूत्रितं च । जुष्टो दमूना
+> अग्ने शर्ध महते सौभगायेति संयाज्ये । आ. २-१२ । इति ॥ मरुद्भ्यः पुरोडाशं
+> सप्तकपालमित्यत्रापि स्विष्टकृतोऽनुवाक्या । अत्यासो न ये मरुतः स्वंचो जुष्टो
+> दमूनाः । आ. २-१८ । इति ॥
+> जुष्टः पर्याप्तो दमूना दानमना दांतमना वा अतिथिस्तद्वद्दुरोणे
+> गृहे पूज्यः सन् इमं नोऽस्मदीयं यज्ञमुप याहि । उपगच्छ । विद्वान्
+> जानन् हे आग्ने विश्वा अभियुजो सर्वानभियोक्तान्विहत्य शत्रूयतां तेषां
+> भोजनान्यन्नानि धनान्या भर । आहार । अतिथिरभ्यतितो गृहान्भवतीत्यादिनिरुक्तं ।
+> नि. ४-५. । द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the anuvākyā of the Sviṣṭakṛt in the Pavitreṣṭi. It is prescribed: जुष्टो दमूना अग्ने शर्ध महते सौभगायेति संयाज्ये (*juṣṭo damūnā agne śardha mahate saubhagāyeti saṃyājye*) (Ā. 2-12). In the offering "to the Maruts a cake on seven potsherds" it is likewise the anuvākyā of the Sviṣṭakṛt, as the sūtra says: अत्यासो न ये मरुतः स्वंचो जुष्टो दमूनाः (*atyāso na ye marutaḥ svaṃco juṣṭo damūnāḥ*) (Ā. 2-18).
+जुष्टः (*juṣṭaḥ*) means satisfied; दमूनाः (*damūnāḥ*) means of giving mind or of restrained mind; being honoured like a guest in the house (दुरोणे (*duroṇe*) = गृहे (*gṛhe*)), come (उप याहि (*upa yāhi*) = उपगच्छ (*upagaccha*)) to this sacrifice of ours, knowing it. O Agni, having destroyed all assailants (अभियुजः (*abhiyujaḥ*) = *abhiyoktān*), bring (आ भर (*ā bhara*) = आहार (*āhāra*)) the foods and riches of those who treat us as enemies (शत्रूयतां (*śatrūyatāṃ*)). For अतिथिः (*atithiḥ*) see the Nirukta: अतिथिरभ्यतितो गृहान्भवतीत्यादिनिरुक्तं (*atithirabhyatito gṛhānbhavatītyādiniruktaṃ*) (Ni. 4-5).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni,) जुष्टः (*juṣṭaḥ*)—attaining satisfaction
+- दमूनाः (*damūnāḥ*)—of giving mind
+- दुरोणे (*duroṇe*)—in our sacrificial house
+- अतिथिः (*atithiḥ*)—honoured (as a guest), you who are
+- नः (*naḥ*)—of ours
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice
+- विद्वान् (*vidvān*)—knowing
+- उप याहि (*upa yāhi*)—be pleased to come to the sacrifice
+- अग्ने (*agne*)—O Agni
+- विश्वाः (*viśvāḥ*)—all
+- अभियुजः (*abhiyujaḥ*)—our adversaries (enemies)
+- विहत्य (*vihatya*)—having destroyed
+- शत्रूयतां (*śatrūyatāṃ*)—belonging to those enemies
+- भोजनानि (*bhojanāni*)—all the wealth of food, or the riches
+- आ भर (*ā bhara*)—bring (to us)
+
+### Printed p. 796
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are satisfied by our worship, of giving mind, and honoured like a guest in our sacrificial house, knowing this sacrifice of ours, be pleased to come to it. O Agni, having destroyed all the enemies, bring all the wealth of food belonging to those enemies, so as to give it to us.
+
+##### English translation (H. H. Wilson)
+Propitiated, lowly-minded, a guest in the dwelling, come, you who are wise, to this our sacrifice : having destroyed, Agni, all our adversaries, bring off the possessions of those who bear us enmity.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pavitreṣṭi this Ṛk जुष्टो दमूना (*juṣṭo damūnā*) is to be recited as the anuvākyā mantra, as set out by the sūtra of the Aśvalāyana Śrauta-sūtra जुष्टो दमूना अग्ने शर्ध महते सौभगायेति संयाज्ये (*juṣṭo damūnā agne śardha mahate saubhagāyeti saṃyājye*) (Ā. 2-12). In the Sviṣṭakṛt homa, stated as मरुद्भ्यः पुरोडाशं सप्तकालं (*marudbhyaḥ puroḍāśaṃ saptakālaṃ*), this Ṛk is to be recited as the anuvākyā mantra, as set out by the sūtra of the Aśvalāyana Śrauta-sūtra अत्यासो न ये मरुतः स्वंचो जुष्टो दमूनाः (*atyāso na ye marutaḥ svaṃco juṣṭo damūnāḥ*) (Ā. 2-18). **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒धेन॒ दस्युं॒ प्र हि चा॒तय॑स्व॒ वयः॑ कृण्वा॒नस्त॒न्वे॒३॒॑ ३ स्वाय्यै॑ ।  
+> पिप॑र्षि॒ यत्स॑हसस्पुत्र दे॒वान्सो अ॑ग्ने पाहि नृतम॒ वाजे॑  ॒
+> अस्मान् ॥ ६ ॥
+
+> *vadhena dasyuṃ pra hi cātayasva vayaḥ kṛṇvānastanve 3 svāyyai |*  
+> *piparṣi yatsahasasputra devānso agne pāhi nṛtama vāje*  
+> *asmān ‖ 6 ‖*
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वधेन । दस्युं । प्र । हि । चातयस्व । वयः । कृण्वानः । तन्ने । स्वाय्यै ।  
+> पिपर्षि । यत् । सहसः । पुत्र । देवान् । सः । अग्ने । पाहि । नृतम । वाजे । आस्मान् ॥
+
+> *vadhena | dasyuṃ | pra | hi | cātayasva | vayaḥ | kṛṇvānaḥ | tanne | svāyyai |*  
+> *piparṣi | yat | sahasaḥ | putra | devān | saḥ | agne | pāhi | nṛtama | vāje | āsmān ‖*
+
 ---
 
-**Progress note:** Done through printed p. 790. pp. 785-790 (batch API)
+**Progress note:** Done through printed p. 796. pp. 791-796 (batch API)
