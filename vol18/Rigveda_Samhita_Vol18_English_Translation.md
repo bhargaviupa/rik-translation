@@ -8523,7 +8523,10 @@ Here it is said that Parāvṛj, blind and lame (śoṇa), received help from In
 In ṛks of this kind the above point is indicated. In this mantra and in some of the mantras mentioned above, Agni, who turned away, fled and hid himself, may be what is meant. He may be the son of Āgrū: either the son of water, which goes forward, or the son of the fingers, which are intent on rites. Or this parāvṛtta one may be the Sun. This can be conjectured on the basis of the Vedic sentences quoted, but to state precisely "it is thus" is not easy.
 
 ### Printed p. 240
-Saṃhitā-pāṭha
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > उत त्या तुर्वशायदू अस्ना तारा शचीपतिः ।
 > इंद्रो विद्वा अपारयत् ॥ १७ ॥
@@ -8531,7 +8534,7 @@ Saṃhitā-pāṭha
 > *uta tyā turvaśāyadū asnā tārā śacīpatiḥ |*
 > *iṃdro vidvā apārayat ‖ 17 ‖*
 
-Pada-pāṭha
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
 > उत । त्या । तुर्वशायदू इति । अस्नातारा । शचीषपतिः ।
 > इंद्रः । विद्वान् अपारयत् ॥ १७ ॥
@@ -8539,7 +8542,7 @@ Pada-pāṭha
 > *uta | tyā | turvaśāyadū iti | asnātārā | śacīṣapatiḥ |*
 > *iṃdraḥ | vidvān apārayat ‖ 17 ‖*
 
-Sāyaṇa-bhāṣya
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > उतापि च अस्नातारास्तारौ ययातिशापादनभिषिक्तौ त्या तौ प्रसिद्धौ
 > तुर्वशायदू तुर्वशनामानं यदुनामकं च राजानौ शचीपतिः कर्मणां पालकः॥
